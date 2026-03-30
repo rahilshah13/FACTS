@@ -8,3 +8,5 @@ $ npm i; npm run dev
 
 - 03/30/2026 Prompt to Gemini: `Identify the failing test cases in unit_test_libraries.pl:`
 <img width="299" height="653" alt="image" src="https://github.com/user-attachments/assets/d55e3984-b742-4801-8950-631fd953f7cb" />
+
+- Analysis: Gemini made 3 mistakes in its prediction.
