@@ -149,3 +149,338 @@ entry(aufheben, v, [aufgehoben,aufhebend,aufhebt], "durch autoritative Handlung 
 entry(abrosia, n, [abrosias], "ein Fasten von Lebensmitteln").
 entry(abrupt, adj, [], "ABRUPT ABRUPTESTUnhöflich kurzABRUPT adv").
 entry(abszess, v, [abszediert, abszedierend, abszediert], "einen Abszess bilden, eine lokal begrenzte Ansammlung von Eiter, umgeben von entzündetem Gewebe").
+entry(abscise, v, [abscised,abscising,abscises], "abschneiden").
+entry(abscisin, n, [abscisins], "eine regulatorische Substanz, die in Pflanzen vorkommt").
+Eintrag(abscissa, n, [abscissas], "oder ABSCISSAEeine besondere geometrische Koordinate").
+Eintrag(abschleichen, v, [abgeschlichen,abschleichend,abschleicht], "plötzlich und heimlich verschwinden").
+entry(abseilen, v, [abseilte,abseilend,abseilt], "abseilen").
+Eintrag(abseiler, n, [], "ABSEILERSone der sich abseilt").
+Eintrag(absenz, n, [abwesenheiten], "der Zustand des Wegseins").
+Eintrag(abwesend, v, [abwesend,abwesend,abwesend], "wegnehmen oder fernhalten").
+entry(absente, n, [abwesende], "eine Person, die nicht anwesend ist").
+Eintrag(absenter, n, [abwesenden], "einer, der sich entfernt").
+Eintrag(absently, adv, [], "in unaufmerksamer Weise").
+entry(absinth, n, [absinthe], "Absynth").
+entry(absinthe, n, [absynthe], "ein bitterer Likör").
+entry(absolut, adj, [], "FREI VON EINSCHRÄNKUNGEN ABSOLUTER ABSOLUTEST").
+entry(absolut, n, [absolutes], "etwas, das absolut ist").
+entry(entbinden, v, [entbunden,entbindend,entbindet], "von den Folgen einer Handlung befreien").
+entry(absolver, n, [Absolver], "einer, der losspricht").
+entry(absonant, adj, [], "unvernünftig").
+entry(absorbieren, v, [absorbierte,absorbierend,absorbiert], "aufnehmen oder in sich aufnehmen").
+Eintrag(absorber, n, [absorber], "einer, der absorbiert").
+entry(enthalten, v, [enthalten,enthaltend,enthält], "freiwillig verzichten").
+entry(absterge, v, [absterged,absterging,absterges], "durch Wischen reinigen").
+Eintrag(abstrakt, adj, [], "ABSTRAKTER ABSTRAKTESTSchwierig zu verstehen").
+Eintrag(abstrakt, v, [abstraktion,abstrahieren,abstrahiert], "wegnehmen").
+Eintrag(abstrict, v, [abstricted, abstricting, abstricts], "durch Abschneiden formen").
+entry(abstruse, adj, [], "SCHWER VERSTÄNDLICHdr Schwerverständliche").
+entry(absurd, adj, [], "ABSURDER ABSURDESTridiculously incongruous or unreasonableABSURDLY adv").
+entry(absurd, n, [absurde], "die Bedingung, in der der Mensch in einem irrationalen und sinnlosen Universum existiert").
+entry(abubble, adj, [], "sprudelnd").
+entry(abulia, n, [abulias], "Verlust des WillensABULISCH adj").
+entry(abundant, adj, [], "in großer Menge vorhanden").
+entry(missbrauch, v, [missbrauchte, missbrauchend, missbraucht], "falsch oder unsachgemäß verwendenMISSBRAUCHBAR adj").
+Eintrag(missbraucher, n, [missbraucher], "einer, der missbraucht").
+entry(missbräuchlich, adj, [], "gekennzeichnet durch falschen oder unsachgemäßen Gebrauch").
+entry(anstoßen, v, [anstieß, anstoßend, anstößt], "entlang einer Grenze berühren").
+entry(abutilon, n, [abutilons], "eine Blütenpflanze").
+Eintrag(Widerlager, n, [Widerlager], "etwas, das anstößt").
+entry(grenzlinie, n, [grenzlinien], "eine Grenzlinie").
+entry(angrenzte, vergangenheit, [], "Zeitform von angrenzen").
+Eintrag(abutter, n, [abutters], "einer, der anstößt").
+eintrag(angrenzend, praesens, [], "Partizip von 'anstoßen'").
+entry(abuzz, adj, [], "summend").
+entry(abvolt, n, [Abvolt], "eine Einheit der elektromotorischen Kraft").
+entry(abwatt, n, [abwatts], "eine Einheit der Leistung").
+entry(aby, v, [abought,abying,abys], "die Strafe für etwas bezahlen").
+entry(abye, v, [abought,abying,abyes], "abyen").
+entry(abysm, n, [Abgründe], "ein Abgrund").
+entry(abysmal, adj, [], "unergründlich tief").
+entry(abgrund, n, [abgruende], "ein bodenloser AbgrundABYSSAL adj").
+Eintrag(akazie, n, [akazien], "ein blühender Baum oder Strauch").
+entry(akademie, n, [akademien], "ein Ort der Unterweisung").
+entry(akademie, n, [akademien], "scholastisches Leben oder Umfeld").
+entry(akademisch, n, [akademiker], "ein College-Student oder Lehrer").
+entry(akademie, n, [akademien], "eine weiterführende Schule").
+Eintrag(acai, n, [acais], "eine violette beerenartige Frucht einer tropischen Palme").
+entry(acajou, n, [acajous], "ein tropischer Baum").
+Eintrag(qualle, n, [quallen], "oder ACALEPHAEa Qualle").
+entry(acalephe, n, [acalephes], "Qualle").
+entry(acantha, n, [acanthae], "ein scharfer stacheliger Teil").
+Eintrag(acanthus, n, [Bärenklauen], "oder ACANTHIa stachelige Pflanze").
+entry(acapnia, n, [acapnias], "ein Mangel an Kohlendioxid im Blut und in den Geweben").
+entry(acarbose, n, [acarboses], "ein Medikament zur Behandlung von Diabetes").
+entry(acari, pl, [], "von Milbe").
+entry(acarid, n, [Milben], "eine Art von Spinnentier").
+entry(acaridan, n, [acaridans], "Milben").
+Eintrag(acarine, n, [acarines], "acarid").
+Eintrag(acaroid, adj, [], "einem Akariden ähnelnd").
+Eintrag(acarpous, adj, [], "keine Früchte tragend").
+Eintrag(acarus, n, [acari], "eine Milbe").
+entry(acaudal, adj, [], "keinen Schwanz habend").
+entry(acaudate, adj, [], "schwanzlos").
+Eintrag(acauline, adj, [], "stammlos").
+entry(acaulose, adj, [], "akalein").
+entry(acaulous, adj, [], "akaulein").
+entry(zustimmen, v, [zugestimmt,zustimmend,zustimmt], "einwilligen").
+entry(acceder, n, [acceders], "jemand, der beitritt").
+entry(akzent, v, [akzentuiert,akzentuierend,akzente], "mit Nachdruck aussprechen").
+Eintrag(accentor, n, [accentors], "ein Singvogel").
+entry(accept, v, [akzeptiert,akzeptierend,akzeptiert], "bereitwillig empfangen").
+Eintrag(akzeptierte, n, [akzeptierte], "jemand, der akzeptiert wird").
+Eintrag(accepter, n, [accepters], "einer, der akzeptiert").
+Eintrag(akzeptor, n, [akzeptoren], "akzeptieren").
+entry(zugriff, v, [zugegriffen, zugreifend, zugreift], "zugreifen auf").
+entry(unfall, n, [unfälle], "ein unerwartetes oder unbeabsichtigtes ereignis").
+Eintrag(accidia, n, [accidias], "acedia").
+Eintrag(accidie, n, [accidies], "acedia").
+entry(anerkennung, v, [anerkannt,anerkennend,anerkennt], "um Beifall zu rufen").
+entry(auszeichnung, v, [ausgezeichnet,auszeichnend,auszeichnungen], "loben").
+entry(übereinstimmung, v, [übereingestimmt,übereinstimmend,übereinstimmungen], "zum Übereinstimmen bringen").
+entry(akkordieren, n, [akkordierer], "einer, der übereinstimmt").
+Eintrag(anreden, v, [anredete,anredend,anredet], "zuerst ansprechen und sprechen").
+Eintrag(konto, v, [abgerechnet,abrechnend,konten], "eine Erklärung geben").
+entry(ausrüsten, v, [ausgerüstet,ausrüstend,ausrüstet], "ausstatten").
+entry(accoutre, v, [accoutred, accoutring, accoutres], "ausrüsten").
+Eintrag(akkreditieren, v, [akkreditiert,akkreditierend,akkreditiert], "offizielle Genehmigung erteilen").
+Eintrag(akkretieren, v, [akkretiert, akkretiert, akkretiert], "zusammenwachsen").
+Eintrag(Anfall, n, [Ansammlungen], "der Akt des Anfallens").
+entry(zunehmen, v, [zugenommen,zunehmend,nimmt zu], "als Zuwachs oder Ergänzung kommen").
+Eintrag(Genauigkeit, n, [Genauigkeiten], "die Qualität, genau zu sein").
+entry(genau, adj, [], "frei von Fehlern").
+entry(verflucht, adj, [], "verdammt").
+entry(verflucht, adj, [], "accursed").
+Eintrag(anklage, n, [anklagen], "der Akt des Anklagens").
+entry(accusant, n, [accusants], "ein Ankläger").
+Eintrag(anklagen, v, [angeklagt, anklagend, anklagt], "eine Behauptung gegen jemanden aufstellen").
+Eintrag(ankläger, n, [ankläger], "jemand, der anklagt").
+Eintrag(gewöhnen, v, [gewöhnt,gewöhnend,gewöhnt], "vertraut machen").
+entry(ass, v, [assierte,assierend,asses], "einen Punkt mit einem einzigen Schlag erzielen").
+Eintrag(acedie, n, [acedien], "Apathie").
+Eintrag(aceldama, n, [aceldamas], "ein Ort des Blutvergießens").
+entry(azentrisch, adj, [], "keinen Mittelpunkt habend").
+entry(acequia, n, [acequias], "ein Bewässerungsgraben oder -kanal").
+entry(acerate, adj, [], "stachelig").
+entry(acerated, adj, [], "nadelartig").
+entry(acerb, adj, [], "SAUER").
+entry(acerbate, v, [acerbated,acerbating,acerbates], "sauer machen").
+entry(acerbic, adj, [], "sauer").
+entry(herbheit, n, [herbheiten], "sauerkeit").
+entry(acerola, n, [acerolas], "ein westindischer Strauch").
+entry(acerose, adj, [], "nadelförmig").
+entry(acerous, adj, [], "nadelartig").
+entry(acervate, adj, [], "in dichten Clustern wachsend").
+Eintrag(acervuli, npl, [], "Sporenproduzierende Organe bestimmter Pilze").
+entry(acescent, n, [acescents], "etwas, das leicht sauer ist").
+Eintrag(aceta, pl, [], "von Essig").
+entry(acetal, n, [Acetale], "eine brennbare Flüssigkeit").
+Eintrag(acetamid, n, [acetamide], "ein Amid der Essigsäure").
+Eintrag(acetat, n, [acetate], "ein Salz der EssigsäureACETATED adj").
+Eintrag(acetisch, adj, [], "Essig betreffend").
+entry(acetify, v, [acetified,acetifying,acetifies], "in Essig umwandeln").
+Eintrag(acetin, n, [acetins], "eine chemische Verbindung").
+entry(aceton, n, [acetone], "eine brennbare FlüssigkeitACETONISCH adj").
+entry(acetose, adj, [], "essigsäuerlich").
+entry(acetous, adj, [], "nach Essig schmeckend").
+Eintrag(acetoxyl, n, [acetoxyle], "ein einwertiges Radikal").
+entry(acetum, n, [aceta], "Essig").
+Eintrag(acetyl, n, [acetyls], "ein einwertiges RadikalACETYLIC Adj").
+entry(schmerzen, v, [schmerzte,schmerzhaft,schmerzt], "einen dumpfen, anhaltenden Schmerz erleiden").
+entry(achene, n, [Achänen], "eine Art von FruchtACHENIAL adj").
+entry(achier, komparativ, [], "von schmerzend").
+Eintrag(achiest, Superlativ, [], "von schmerzend").
+entry(erreichen, v, [erreicht, erreichend, erreicht], "erfolgreich ausführen").
+Eintrag(leistungsträger, n, [leistungsträger], "jemand, der erreicht").
+entry(achillea, n, [schafgarbe], "Schafgarbe").
+entry(achiness, n, [achinesses], "der Zustand des Schmerzens").
+Eintrag(aching, praesentisch, [], "Partizip von ache").
+entry(schmerzhaft, adv, [], "in schmerzlicher Weise").
+entry(achiote, n, [achiotes], "ein gelblich roter Farbstoff").
+entry(achiral, adj, [], "ein symmetrisches Molekül betreffend").
+entry(acholia, n, [acholias], "ein Mangel an Galle").
+entry(achoo, interj, [], "hatschi").
+entry(achromat, n, [Achromate], "eine Art Linse").
+Eintrag(achromic, adj, [], "keine Farbe haben").
+entry(achy, adj, [], "SCHMERZHAFTER SCHMERZHAFTSTER").
+Eintrag(acicula, n, [aciculas], "oder ACICULAE eine nadelartige Struktur oder ProzessACICULAR adj").
+entry(aciculum, n, [aciculums], "oder ACICULA ein borstiger Teil").
+Eintrag(säure, n, [säuren], "eine Art von chemischer Verbindung").
+entry(azidämie, n, [azidämien], "ein Zustand erhöhter Säuregehalt des Blutes").
+Eintrag(säurekopf, n, [säureköpfe], "einer, der LSD benutzt").
+entry(säuerlich, adj, [], "sour").
+Eintrag(versäuern, v, [versäuert, versäuernd, versäuert], "in eine Säure umwandeln").
+entry(säuregehalt, n, [säuregehalte], "Säure").
+Eintrag(sauerlich, adv, [], "sauer").
+entry(Säuregrad, n, [Säuregrade], "Säuregehalt").
+entry(azidose, n, [azidosen], "ein abnormer Zustand des BlutesAZIDOTISCH adj").
+entry(azidurie, n, [azidurien], "ein Zustand, bei dem übermäßige Mengen an Säure im Urin vorhanden sind").
+entry(acidy, adj, [], "sauer").
+Eintrag(acierate, v, [acierated, acierating, acierates], "in Stahl verwandeln").
+entry(aciform, adj, [], "nadelförmig").
+Eintrag(auftrumpfend, praesens, [], "Partizip Perfekt von auftrumpfen").
+Eintrag(Azinus, n, [Azini], "eine kleine sackförmige Teilung einer DrüseAZINAR AZINISCH AZINOSE AZINOUS adj").
+entry(ackee, n, [ackees], "Akee").
+Eintrag(aclinic, adj, [], "keine Neigung habend").
+Eintrag(acme, n, [acmes], "der höchste PunktACMATIC ACMIC adj").
+Eintrag(akne, n, [aknes], "eine HautkrankheitAKNED adj").
+entry(acnode, n, [acnodes], "ein Element einer mathematischen Menge, das von den anderen Elementen isoliert ist").
+entry(acock, adj, [], "gespannt").
+Eintrag(acoelus, adj, [], "kein echtes Körperhöhle habend").
+entry(acold, adj, [], "kalt").
+entry(ministrant, n, [ministranten], "ein Assistent").
+entry(eisenhut, n, [eisenhut], "ein giftiges KrautEISENHÜTIGE adj").
+entry(aconitum, n, [aconitums], "Eisenhut").
+Eintrag(eichel, n, [eicheln], "die Frucht des EichbaumsEICHELIG adj").
+entry(akustisch, n, [akustik], "ein Hörgerät").
+entry(kennenlernen, v, [kennengelernt,kennenlernend,kennt], "veranlassen zu wissen").
+entry(Akquisition, n, [Akquisitionen], "etwas Erworbenes").
+entry(erwerben, v, [erworben,erwerbend,erwirbt], "in Besitz zu kommen").
+Eintrag(erworbenes, n, [erworbene], "eines, das erworben wird").
+entry(Erwerber, n, [Erwerber], "einer, der erwirbt").
+entry(freisprechen, v, [freigesprochen,freisprechend,freispricht], "um von einer Schuld- oder Straftat freizusprechen oder zu entlasten").
+Eintrag(akrasia, n, [akrasias], "ein Mangel an Selbstbeherrschung, AKRATISCH adj").
+Eintrag(acrasin, n, [acrasins], "eine von den Zellen eines Schleimpilzes abgesonderte Substanz").
+entry(acre, n, [Morgen], "eine Flächeneinheit").
+entry(fläche, n, [flächen], "Fläche in Morgen").
+Eintrag(acred, adj, [], "viele Morgen Land besitzen").
+Eintrag(beißend, adj, [], "BEIßENDER BEIßENDSTERscharf und rau im Geschmack oder Geruch").
+entry(acridin, n, [acridine], "eine chemische Verbindung").
+Eintrag(acridity, n, [acridities], "der Zustand, scharf zu sein").
+entry(„beißend“, adv, [], „auf beißende Weise“).
+entry(erbitterung, n, [erbitterungen], "Schärfe oder Bitterkeit der Rede oder des Temperaments").
+entry(acro, n, [acros], "ein Skiveranstaltung, bei der ein Skifahrer akrobatische Bewegungen zur Musik ausführt").
+entry(akrobat, n, [akrobaten], "jemand, der in Kunststücken von Geschicklichkeit und Gleichgewicht geübt ist").
+Eintrag(acrodont, n, [acrodonts], "ein Tier mit wurzellosen Zähnen").
+entry(acrogen, n, [Akrogene], "eine Pflanze, die nur an der Spitze wächst").
+entry(acrolect, n, [Akrolekte], "eine hohe Form einer Sprache").
+entry(acrolein, n, [acroleine], "eine brennbare Flüssigkeit").
+Eintrag(acrolith, n, [acroliths], "eine Art Statue").
+Eintrag(akromion, n, [akromia], "das äußere Ende des SchulterblattsAKROMIAL adj").
+entry(acronic, adj, [], "bei Sonnenuntergang auftretend").
+entry(akronym, n, [akronyme], "ein Wort, das aus den Anfangsbuchstaben eines zusammengesetzten Begriffs oder einer Reihe von Wörtern gebildet wird").
+entry(akrosom, n, [akrosome], "ein dünner Sack am Kopf eines Spermiums").
+Eintrag(across, präp, [], "von einer Seite zur anderen").
+entry(akrostichon, n, [akrostichen], "ein Gedicht, bei dem bestimmte Buchstaben in Reihenfolge ein Wort oder einen Satz bilden").
+entry(akrotismus, n, [akrotismen], "Schwäche des PulsesAKROTISCH adj").
+Eintrag(acrylat, n, [acrylate], "ein Acryl").
+entry(acryl, n, [acryle], "eine Art von Harz").
+Eintrag(handlung, v, [gehandelt, handelnd, handelt], "etwas tun").
+entry(acta, npl, [], "aktennotizen").
+entry(spielbar, adj, [], "geeignet für die Aufführung auf der Bühne").
+Eintrag(actin, n, [actine], "ein Protein im Muskelgewebe").
+entry(actinal, adj, [], "Tentakel habend").
+entry(schauspielern, n, [schauspielens], "der Beruf eines Schauspielers").
+Eintrag(actinia, n, [actinias], "oder ACTINIAE, ein Meerestier").
+Eintrag(actinian, n, [actinians], "actinia").
+entry(actinic, adj, [], "bezogen auf Actinismus").
+Eintrag(actinide, n, [actiniden], "eines von einer Reihe radioaktiver Elemente").
+Eintrag(actinismus, n, [actinismen], "die Eigenschaft der Strahlungsenergie, die chemische Veränderungen bewirkt").
+Eintrag(actinium, n, [actiniums], "ein radioaktives Element").
+Eintrag(actinoid, n, [actinoide], "ein Aktinid").
+entry(actinon, n, [Aktinone], "ein Isotop des Radons").
+Eintrag(Aktion, v, [angeklagt, verklagend, klagt], "ein Gerichtsverfahren gegen jemanden anstrengen").
+Eintrag(Aktionär, n, [Aktionäre], "ein Film mit aufregender Action").
+Eintrag(aktivieren, v, [aktiviert,aktivierend,aktiviert], "in Bewegung setzen").
+Eintrag(aktiv, n, [Aktive], "ein teilnehmendes Mitglied einer Organisation").
+entry(actively, adv, [], "mit Aktivität").
+entry(Aktivismus, n, [Aktivismen], "eine Doktrin, die direkte und entschlossene Handlungen betont").
+entry(aktivist, n, [aktivisten], "ein Verfechter des Aktivismus").
+Eintrag(Aktivität, n, [Aktivitäten], "schnelle Aktion oder Bewegung").
+entry(aktivieren, v, [aktiviert, aktivierend, aktiviert], "aktivieren").
+entry(schauspieler, n, [schauspieler], "ein TheaterschauspielerSCHAUSPIELERISCH SCHAUSPIELERISCH adj").
+entry(schauspielerin, n, [schauspielerinnen], "eine weibliche SchauspielerinACTRESSY adj").
+Entry(tatsächlich, adj, [], "tatsächlich adv").
+entry(aktuar, n, [aktuare], "ein Statistiker, der Versicherungsrisiken und -prämien berechnet").
+entry(betätigen, v, [betätigt, betätigend, betätigt], "in Bewegung oder Aktion setzen").
+Eintrag(aktuator, n, [aktuatoren], "einer, der betätigt").
+entry(acuate, adj, [], "scharf").
+Eintrag(acuity, n, [acuities], "Schärfe").
+Eintrag(aculeate, n, [aculeates], "ein stechendes Insekt").
+entry(aculeus, n, [aculei], "ein spitzes Teil").
+Eintrag(Scharfsinn, n, [Scharfsinne], "geistige Scharfsichtigkeit").
+entry(acutance, n, [Acutanzen], "ein Maß für fotografische Schärfe").
+Eintrag(akut, adj, [], "AKUTER AKUTESTgekennzeichnet durch Schärfe oder SchwereAKUT adv").
+entry(akut, n, [akuts], "eine Art von Akzentzeichen").
+entry(azyklisch, adj, [], "nicht zyklisch").
+entry(acyl, n, [Acylgruppe], "ein einwertiges Radikal").
+Eintrag(acyliere, v, [acyliert, acylierend, acyliert], "um Acyl einzuführen").
+entry(acyloin, n, [acyloine], "eine Art chemische Verbindung").
+Eintrag(an, n, [anzeigen], "eine Anzeige").
+entry(sprichwort, n, [sprichwörter], "Ein traditioneller Spruch, der eine allgemeine Beobachtung ausdrücktSPRICHWÖRTLICH adj").
+entry(adagio, n, [adagios], "ein Musikstück oder Satz, der in einem langsamen Tempo gespielt wird").
+Eintrag(adamanz, n, [adamanzien], "Unnachgiebigkeit").
+entry(adamancy, n, [adamancies], "unbeugsame Härte").
+entry(adamant, n, [adamants], "eine extrem harte Substanz").
+entry(adamsite, n, [adamsiten], "ein lungenreizendes Gas").
+Eintrag(anpassen, v, [angepasst, anpassend, passt an], "geeignet machen").
+Eintrag(adapter, n, [Adapter], "jemand, der anpasst").
+entry(Anpassung, n, [Anpassungen], "der Akt des AnpassensANPASSBAR adj").
+entry(adapter, n, [adapter], "Adapter").
+entry(adaxial, adj, [], "auf der gleichen Seite gelegen").
+Eintrag(adbot, n, [adbots], "ein spezialisiertes Computerprogramm").
+entry(hinzufügen, v, [hinzugefügt,hinzufügend,hinzufügt], "kombinieren oder verbinden, um eine Erhöhung zu bewirkenHINZUFÜGBAR adj").
+Eintrag(addax, n, [addaxe], "eine große Antilope").
+entry(addedly, adv, [], "zusätzlich").
+entry(summand, n, [summanden], "eine Zahl, die zu einer anderen hinzugefügt wird").
+Eintrag(addendum, n, [addendums], "oder Addendumetwas hinzugefügt oder hinzuzufügen").
+Eintrag(adder, n, [adders], "eine giftige Schlange").
+Eintrag(addible, adj, [], "fähig hinzugefügt zu werden").
+entry(süchtig, v, [süchtig, süchtig machend, süchtig machende], "sich gewohnheitsmäßig oder zwanghaft einer Sache hingeben oder sich ihr unterwerfen").
+entry(addition, n, [Hinzufügungen], "etwas hinzugefügt").
+entry(additiv, n, [additive], "eine Substanz, die einer anderen hinzugefügt wird, um wünschenswerte Eigenschaften zu verleihen").
+entry(additory, adj, [], "eine Ergänzung machend").
+entry(addle, v, [addled,addling,addles], "verwirren").
+Eintrag(adresse, v, [adressen, addressing, adressen], "ansprechen").
+entry(vorbringen, v, [vorgebracht,vorbringend,vorbringt], "als Beweis vorbringen").
+entry(adducent, adj, [], "dazu dienend zu adduzieren").
+entry(adduzierer, n, [adduzierer], "Einer, der anführt").
+Eintrag(adducing, Präsens, [], "Partizip von adduce").
+Eintrag(adduct, v, [adducted,adducting,adducts], "zum Hauptachse hin ziehen").
+entry(adductor, n, [adduktoren], "ein adduzierender Muskel").
+entry(adeem, v, [adeemed,adeeming,adeems], "wegnehmen").
+entry(adelgid, n, [adelgids], "ein kleines Insekt").
+entry(adenin, n, [adenine], "ein Alkaloid").
+entry(adenitis, n, [Lymphknotenentzündungen], "Entzündung eines Lymphknotens").
+Eintrag(adenoid, n, [Polypen], "ein vergrößertes lymphatisches Wachstum hinter dem Rachen").
+entry(adenom, n, [adenome], "oder ADENOMATA ein Tumor gängigen Ursprungs").
+entry(adenose, n, [adenosen], "abnormales Wachstum von Drüsengewebe").
+Eintrag(adenyl, n, [adenyls], "ein einwertiges Radikal").
+entry(adept, adj, [], "ADEPTER ADEPTESThoch qualifiziertADEPTLY adv").
+entry(adept, n, [Adepts], "eine geschickte Person").
+entry(angemessenheit, n, [angemessenheiten], "der Zustand des Angemessenseins").
+entry(angemessen, adj, [], "ausreichend für eine bestimmte Anforderung").
+entry(haften, v, [gehaftet,haftend,haftet], "anhaften oder nahe bei etwas bleiben").
+entry(Haftfläche, n, [Haftflächen], "die Oberfläche, an der ein Klebstoff haftet").
+entry(anhänger, n, [anhänger], "ein unterstützer").
+entry(adherer, n, [Anhaftende], "einer, der sich anpasst").
+entry(einhaltend, praesens, [], "Partizip von einhalten").
+entry(adhäsion, n, [adhäsionen], "der Akt des Haftens").
+entry(klebstoff, n, [klebstoffe], "eine Substanz, die zur Adhäsion führt").
+entry(aufnehmen, v, [aufgenommen,aufnehmend,aufnimmt], "aufnehmen oder hineinlassen").
+entry(adieu, n, [adieus], "oder ADIEUX, ein Abschied").
+entry(adios, n, [adioses], "auf Wiedersehen").
+Eintrag(adipös, n, [adipöse], "TierfettADIPISCH adj").
+entry(adipositas, n, [adipositas], "Fettleibigkeit").
+Eintrag(adipous, adj, [], "bezüglich Fettgewebe").
+entry(adit, n, [stollen], "ein Eingang").
+eintrag(adjacent, adj, [], "neben").
+entry(adjoin, v, [adjoined,adjoining,adjoins], "neben liegen").
+entry(adjungiert, n, [adjungierte], "eine Art von mathematischer Matrix").
+entry(vertagen, v, [vertagte,vertagend,vertagt], "bis zu einem späteren Zeitpunkt aussetzen").
+entry(richten, v, [gerichtet, richtend, richtet], "gerichtlich bestimmen").
+entry(adjunkt, n, [adjunkte], "etwas, das in untergeordneter Position angehängt ist").
+entry(anflehen, v, [anflehte, anflehend, anfleht], "feierlich befehlen").
+entry(adjurer, n, [Beschwörer], "einer, der beschwört").
+entry(beschwörer, n, [beschwörer], "beschwörer").
+Eintrag(anpassen, v, [angepasst,anpassend,passt an], "in einen zufriedenstellenderen Zustand bringen").
+entry(einsteller, n, [einsteller], "einer, der anpasst").
+Eintrag(anpasser, n, [anpasser], "anpasser").
+Eintrag(adjutant, n, [adjutanten], "ein Assistent").
+Eintrag(adjuvans, n, [adjuvanzen], "ein Assistent").
+entry(adland, n, [adlands], "die Welt der Werbung").
+Eintrag(adman, n, [admen], "ein Mann, der im Werbegeschäft beschäftigt ist").
+entry(admass, n, [admasses], "Massenmedienwerbung").
+entry(admin, n, [Administratoren], "eine Verwaltung").
+Eintrag(admiral, n, [admiräle], "ein hochrangiger Marineoffizier").
+entry(bewundern, v, [bewundert,bewundernd,bewundert], "mit Staunen, Vergnügen und Zustimmung betrachten").

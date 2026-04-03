@@ -1360,3 +1360,32 @@ entry(amok, n, [amoks], "wen person dey vex so tey dem fit kill person").
 ```
 entry(amole, n, [amoles], "plant root wey dem dey use as soap").
 ```
+entry(amorino, n, [amorini], "na small amoretto").
+entry(amorist, n, [amorists], "person wey dey love").
+entry(amoroso, n, [amorosos], "wan kain wine").
+entry(amorous, adj, [], "wey get to do wit love").
+entry(amort, adj, [], "dey witout life").
+entry(amortise, v, [don amortise, dey amortise, dey amortise], "to amortize").
+entry(amortize, v, [amortized,amortizing,amortizes], "to dey pay debt small small").
+entry(amosite, n, [amosites], "na kain asbestos").
+entry(amotion, n, [amotions], "di removal of a corporate officer from im office").
+entry(amount, v, [amounted,amounting,amounts], "to join together to get total sum").
+`entry(love, n, [loves], "love matter").`
+entry(amp, v, [amped,amping,amps], "to make loud").
+entry(amperage, n, [amperages], "di strength of electric current wey dem dey express for amperes").
+entry(ampere, n, [amperes], "na unit of electric current strength").
+entry(amphibia, npl, [], "organism wey sabi live for land and for water").
+entry(amphioxi, npl, [], "lancelets").
+entry(amphipod, n, [amphipods], "one small crayfish").
+entry(amphora, n, [amphoras], "or AMPHORAE na jar wit narrow neck wey dem use for olden days GreeceAMPHORAL adj").
+entry(ample, adj, [], "AMPLER AMPLESTPlentiAMPLIF adv").
+entry(amplexus, n, [amplexuses], "di way frogs dey hug each oda wen dem wan mate").
+entry(amplify, v, [amplified,amplifying,amplifies], "to make di tin big pass before or strong well well").
+entry(ampoule, n, [ampoules], "ampule").
+entry(ampul, n, [ampuls], "ampule").
+entry(ampule, n, [ampules], "small glass bottle").
+entry(ampulla, n, [ampullae], "one kin' round bottle wey dem dey use for ancient RomeAMPULLAR adj").
+entry(amputate, v, [cut_am,cutting_am,cut_am_commot], "to cut off by surgical means").
+entry(amputee, n, [amputees], "person wey don loose im hand or leg through operation").
+entry(amreeta, n, [amreetas], "amrita").
+entry(amrit, n, [amrits], "amrita").

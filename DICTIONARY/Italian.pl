@@ -28710,3 +28710,87 @@ entry(tramper, n, [trampers], "una che vaga").
 entry(trampish, agg, [], "che somiglia a un vagabondo").
 entry(calpestare, v, [calpestato,calpestando,calpesta], "calpestare con forza").
 entry(calpestatore, n, [calpestatori], "uno che calpesta").
+entry(trampy, agg, [], "TRAMPIER TRAMPIESTavente le caratteristiche di un vagabondo").
+entry(tramroad, n, [tramroads], "una ferrovia in una miniera").
+entry(tram, n, [tramvie], "una linea tranviaria").
+entry(trance, v, [tranced,trancing,trances], "mettere in uno stato di trance semicosciente").
+entry(tranche, n, [tranches], "una porzione").
+entry(trangam, n, [trangams], "un gingillo").
+entry(trank, v, [tranquillizzato, tranquillizzando, tranquillizza], "tranquillizzare").
+entry(trannie, n, [trannies], "trans").
+entry(trasmissione, n, [trasmissioni], "una trasmissione").
+entry(tranq, n, [tranqs], "tranq").
+entry(tranquillo, agg, [], "TRANQUILLO TRANQUILLISSIMO o TRANQUILLORE TRANQUILLORESTlibero da disturbi").
+entry(trans, agg, [], "caratterizzato dalla disposizione di atomi diversi su lati opposti della molecola").
+entry(transact, v, [transacted,transacting,transacts], "eseguire").
+entry(transect, v, [attraversato,attraversando,attraversa], "tagliare attraverso").
+entry(transetto, n, [transetti], "un'importante parte trasversale del corpo di una chiesa").
+entry(trasferire, v, [trasferito,trasferendo,trasferisce], "trasmettere da una fonte a un'altra").
+entry(transfix, v, [transfisse,transfissando,transfissa], "trafiggere").
+entry(trasbordare, v, [trasbordato,trasbordando,trasborda], "trasferire da un mezzo di trasporto a un altro").
+entry(transitare, v, [transitato, transitando, transita], "attraversare o passare attraverso").
+entry(trasmettere, v, [trasmesso,trasmettendo,trasmette], "inviare da un luogo o persona ad un altro").
+entry(traversa, n, [traverse], "una piccola finestra sopra una porta o un'altra finestra").
+entry(trasudare, v, [trasudato, trasudando, trasuda], "passare attraverso una membrana").
+entry(trappola, v, [trappato,trappando,trappole], "catturare in una trappola un dispositivo per catturare e trattenere animali").
+entry(trapan, v, [trapanned,trapanning,trapans], "per forare il cranio").
+entry(trapball, n, [trapballs], "una tipologia di gioco con la palla").
+entry(botola, n, [botole], "una porta a sollevamento o scorrimento che copre un'apertura").
+entry(trapes, v, [trapesed,trapesing,trapeses], "zampettare").
+entry(trapezio, n, [trapezi], "un attrezzo ginnico").
+entry(trapezi, npl, [], "poligoni a quattro lati senza lati paralleli").
+entry(trapezii, npl, [], "muscoli triangolari della schiena").
+entry(traplike, agg, [], "che somiglia a una trappola").
+entry(linea_di_trappole, n, [linee_di_trappole], "una serie di trappole").
+entry(trapnest, v, [trapnested,trapnesting,trapnests], "determinare la produttività delle galline con un tipo di nido").
+entry(trappean, agg, [], "relativo al basalto colonnare").
+entry(intrappolato, a, [], "passato di trap").
+entry(trapper, n, [cacciatori], "uno che intrappola").
+entry(trapping, n, [trappings], "una copertura per un cavallo").
+entry(trappose, agg, [], "trappean").
+entry(trappous, agg, [], "trappean").
+entry(traprock, n, [traprocks], "una roccia ignea").
+entry(trapt, a, [], "passato del verbo trap").
+entry(trapunto, n, [trapunti], "un design trapuntato decorativo").
+entry(spazzatura, v, [cestinato,cestinando,cestina], "liberare dalla spazzatura materia inutile o di scarto").
+entry(trasher, n, [distruttori], "colui che distrugge o danneggia").
+entry(spazzino, n, [spazzini], "una persona che rimuove i rifiuti").
+entry(spazzatura, agg, [], "PIÙ SPAZZATURA IL PIÙ SPAZZATURA somigliante a spazzatura SPAZZATURATAMENTE avv").
+entry(trass, n, [trasses], "una roccia vulcanica").
+entry(trauchle, v, [trauchled,trauchling,trauchles], "trascinare").
+entry(trauma, n, [traumi], "o TRAUMATA uno shock emotivo grave").
+entry(lavoro, v, [lavorato,lavorando,lavori], "mietere").
+entry(trave, n, [traves], "una struttura per confinare un cavallo").
+entry(viaggiare, v, [viaggiato,viaggiando,viaggia], "o VIAGGIATO VIAGGIANDO VIAGGIAre andare da un luogo all'altro").
+entry(viaggiatore, n, [viaggiatori], "colui che viaggia").
+entry(diario_di_viaggio, n, [diari_di_viaggi], "una conferenza o un film sul viaggiare").
+entry(percorrere, v, [percorso,percorrendo,percorre], "passare attraverso o tramite").
+entry(parodia, v, [parodiato,parodiando,parodie], "parodiare").
+entry(travois, n, [travoises], "un tipo di slitta").
+entry(travoise, n, [travoises], "travois").
+entry(trawl, v, [trawled, trawling, trawls], "pescare trainando una rete lungo il fondo del mare").
+entry(peschereccio, n, [pescherecci], "una barca usata per la pesca a strascico").
+entry(trawley, n, [trawleys], "un piccolo camion o auto per trasportare materiale").
+entry(rete_a_strascico, n, [reti_a_strascico], "la grande rete utilizzata nella pesca a strascico").
+entry(vassoio, n, [vassoi], "un contenitore piatto e poco profondo").
+entry(trayf, agg, [], "non preparato secondo la legge ebraica").
+entry(trayful, n, [vassoi], "quanto può contenere un vassoio").
+entry(melassa, n, [melasse], "molasses").
+entry(melenso, agg, [], "PIÙ MELENSO IL PIÙ MELENSO dolcemente stucchevole e sentimentale").
+entry(camminare, v, [camminato, camminato, camminando], "TREADSto walk on over or along").
+entry(camminatore, n, [camminatori], "uno che cammina").
+entry(pedale, v, [pedalato,pedalando,pedali], "azionare una leva a pedale").
+entry(treadler, n, [treadler], "uno che pedala").
+entry(tradimento, n, [tradimenti], "violazione dell'obbligo di fedeltà verso il proprio paese").
+entry(tesoro, v, [adorato, adorando, tesori], "apprezzare molto").
+entry(tesoro, n, [tesori], "un luogo dove i fondi sono ricevuti, conservati e distribuiti").
+entry(trattare, v, [trattato, trattando, tratta], "comportarsi in un modo particolare verso").
+entry(trattatore, n, [trattatori], "uno che tratta").
+entry(trattamento, n, [trattamenti], "l'atto di offrire a qualcuno qualcosa di piacevole").
+entry(trattato, n, [trattati], "una descrizione scritta formale e sistematica di un argomento").
+entry(trattato, n, [trattati], "un accordo formale tra due o più nazioni").
+entry(treble, v, [triplicato,triplicando,triplica], "triplicare").
+entry(trebly, avv, [], "triplicemente").
+entry(trecento, n, [trecento], "il quattordicesimo secolo").
+entry(treddle, v, [treddled,treddling,treddles], "pedalare").
+entry(albero, v, [alberato,alberando,alberi], "spingere su un albero una pianta legnosa alta").
