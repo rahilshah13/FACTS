@@ -1362,3 +1362,583 @@ entry(amoral, adj, [], "tidak memiliki rasa benar dan salahAMORALLY adv").
 entry(amoretto, n, [amorettos], "atau AMORETTIa cupid").
 entry(amorino, n, [amorini], "sebuah amoretto").
 entry(amorist, n, [amorists], "seorang pecinta").
+entry(amoroso, n, [amorosos], "sejenis anggur").
+entry(amorous, adj, [], "berkenaan dengan cinta").
+entry(amort, adj, [], "tanpa kehidupan").
+entry(mengamortisasi, v, [diamortisasi,sedang_mengamortisasi,mengamortisasi], "untuk mengamortisasi").
+entry(amortisasi, v, [diamortisasi,mengamortisasi,amortisasi], "untuk melunasi secara bertahap sebagai utang").
+entry(amosite, n, [amosites], "sejenis asbes").
+entry(amotion, n, [amotions], "pemecatan seorang pejabat perusahaan dari jabatannya").
+entry(amount, v, [berjumlah,menjumlahkan,jumlah], "untuk menggabungkan menjadi jumlah").
+entry(amour, n, [amours], "perselingkuhan").
+entry(amp, v, [diampkan, teramping, memperamplifikasi], "untuk memperkuat").
+entry(amper, n, [amper-amper], "kekuatan arus listrik yang dinyatakan dalam ampere").
+entry(ampere, n, [amper], "satuan kekuatan arus listrik").
+entry(amphibia, npl, [], "organisme yang beradaptasi untuk hidup baik di darat maupun di air").
+entry(amphioxi, npl, [], "lancelet").
+entry(amphipod, n, [amfipod], "krustasea kecil").
+entry(amphora, n, [amphoras], "atau AMPHORAE; sebuah guci berleher sempit yang digunakan di Yunani kuno; AMPHORAL adj").
+entry(ample, adj, [], "AMPLER AMPLESTberlimpahAMPLY adv").
+entry(amplexus, n, [amplexuses], "pelukan kawin katak").
+entry(amplify, v, [amplified,amplifying,amplifies], "untuk membuat lebih besar atau lebih kuat").
+entry(ampoule, n, [ampoules], "ampul").
+entry(ampul, n, [ampuls], "ampul").
+entry(ampul, n, [ampul], "sebuah botol kaca kecil").
+entry(ampula, n, [ampulae], "sebuah botol bulat yang digunakan di Roma kunoAMPULAR adj").
+entry(memotong, v, [dipotong,memotong,potong], "memotong dengan cara pembedahan").
+entry(amputasi, n, [amputasi], "seseorang yang telah diamputasi salah satu anggota tubuhnya").
+entry(amreeta, n, [amreetas], "amrita").
+entry(amrit, n, [amrits], "amrita").
+entry(amrita, n, [amritas], "minuman yang memberikan keabadian dalam mitologi Hindu").
+entry(amtrac, n, [amtracs], "kendaraan militer yang dilengkapi untuk bergerak di darat dan air").
+entry(amtrack, n, [amtracks], "amtrac").
+entry(amtrak, n, [amtraks], "amtrac").
+entry(amu, n, [amus], "satuan massa").
+entry(ngamuk, n, [ngamuk-ngamuk], "amok").
+entry(amulet, n, [amulets], "sebuah objek yang dikenakan untuk melindungi dari kejahatan atau cedera").
+entry(amuse, v, [amused,amusing,amuses], "untuk mengisi dengan menyenangkanAMUSABLE adjAMUSEDLY adv").
+entry(amuser, n, [penghibur], "seseorang yang menghibur").
+entry(amusia, n, [amusias], "ketidakmampuan untuk mengenali suara musik").
+entry(amusive, adj, [], "menghibur").
+entry(amigdala, n, [amigdalae], "bagian anatomi berbentuk almond").
+entry(amygdale, n, [amygdales], "amigdula").
+entry(amygdule, n, [amygdules], "gelembung gas kecil dalam lava").
+entry(amyl, n, [amyls], "suatu radikal univalen").
+entry(amylase, n, [amylases], "suatu enzim").
+entry(amylene, n, [amylene], "cairan yang mudah terbakar").
+entry(amylic, adj, [], "berkaitan dengan amil").
+entry(amylogen, n, [amilogen], "amilosa").
+entry(amyloid, n, [amiloid], "endapan protein keras yang dihasilkan dari degenerasi jaringan").
+entry(amilosa, n, [amilosa-amilosa], "komponen pati yang relatif larut").
+entry(amylum, n, [amylum], "pati, karbohidrat padat").
+entry(an, takterbatas, [], "artikel digunakan sebelum kata-kata yang dimulai dengan bunyi vokal").
+entry(ana, n, [anas], "sebuah kumpulan informasi beraneka ragam tentang subjek tertentu").
+entry(anabaena, n, [anabaena-anabaena], "sejenis alga air tawar").
+entry(anabas, n, [anabases], "ikan air tawar").
+entri(anabasis, n, [anabase], "sebuah kemajuan militer").
+entry(anabatic, adj, [], "berkaitan dengan arus angin naik").
+entry(anableps, n, [anablepses], "seekor ikan air tawar").
+entry(anabolic, adj, [], "berkaitan dengan proses di mana makanan dibangun menjadi protoplasma").
+entry(anaconda, n, [anaconda], "seekor ular besar").
+entry(anadem, n, [anadems], "sebuah karangan untuk kepala").
+entry(anemia, n, [anemia], "anemiaANAEMIC adj").
+entry(anaerob, n, [anaerob], "organisme yang tidak memerlukan oksigen untuk hidup").
+entry(anaglyph, n, [anaglyphs], "sejenis ornamen yang diukir").
+entry(anagoge, n, [anagoges], "penafsiran spiritual dari kata-kataANAGOGIK adj").
+entry(anagogy, n, [anagogies], "anagogi").
+entry(anagram, v, [anagrammed,anagramming,anagrams], "menyusun huruf-huruf dari sebuah kata atau frasa untuk membentuk yang baru").
+entry(anal, adj, [], "berhubungan dengan anus").
+entry(analcime, n, [analcimes], "analcit").
+entry(analcite, n, [analcites], "sebuah mineral").
+entry(analecta, npl, [], "analekta").
+entry(analects, jamak, [], "pilihan dari sebuah karya sastra atau kelompok karya").
+entry(analemma, n, [analemmas], "atau ANALEMMATAsejenis skala bergraduasi").
+entry(analgia, n, [analgias], "ketidakmampuan untuk merasakan sakit").
+entry(anality, n, [analitas], "jenis keadaan psikologis").
+entry(anally, adv, [], "melalui atau melalui anus").
+entry(analog, n, [analog], "analog").
+entry(analogic, adj, [], "berkaitan dengan analogi").
+entry(analog, n, [analog-analog], "sesuatu yang memiliki analogi dengan sesuatu yang lain").
+entri(analogi, n, [analogi-analogi], "kemiripan dalam beberapa hal antara hal-hal yang sebaliknya tidak sama").
+entry(menganalisis, v, [dianalisis, menganalisis, analisis], "untuk menganalisis").
+entry(penganalisis, n, [penganalisis-penganalisis], "penganalisis").
+entry(analisis, n, [analisis], "pemecahan keseluruhan menjadi bagian-bagiannya").
+entry(analis, n, [analis], "seseorang yang menganalisis").
+entry(analisat, n, [analisat], "suatu zat yang sedang dianalisis").
+entry(analitis, adj, [], "berkaitan dengan analisis").
+entry(menganalisis, v, [dianalisis, menganalisis, menganalisis], "untuk menjalani analisis").
+entry(analyzer, n, [analisis], "seseorang yang menganalisis").
+entry(ananda, n, [anandas], "kebahagiaan yang luar biasa").
+entry(ananke, n, [anankes], "suatu keharusan yang memaksa dalam agama Yunani kuno").
+entry(anapaest, n, [anapaests], "anapest").
+entry(anapest, n, [anapests], "sejenis kaki metrik").
+entry(anafase, n, [anafase-anafase], "sebuah tahap mitosis").
+entry(anafora, n, [anaforas], "sebuah kata atau frasa yang mengambil referensi dari kata atau frasa sebelumnya").
+entry(anafora, n, [anafora-anafora], "pengulangan kata atau frasa di awal beberapa bait atau kalimat yang berturut-turut").
+entry(anarkis, n, [anarkis], "seorang pendukung anarki").
+entry(anarki, n, [anarki], "ketiadaan pemerintahanANARKIS adj").
+entry(anasarka, n, [anasarka], "suatu bentuk bengkak air").
+entry(anatase, n, [anatases], "sebuah mineral").
+entri(anathema, n, [anathemas], "atau ANATHEMATA larangan atau kutukan gerejawi formal").
+entry(anatomi, n, [anatomi-anatomi], "struktur dari suatu organismeANATOMIK adj").
+entry(anatoxin, n, [anatoksin], "sebuah toksinoid").
+entry(anatto, n, [anattos], "anatto").
+entry(leluhur, v, [dilelehuri, melelehuri, leluhur], "untuk menjadi seorang leluhur, seseorang dari siapa satu diturunkan dari").
+entry(nenek moyang, n, [garis keturunan], "sebuah garis atau kelompok leluhur").
+entry(ancho, n, [anchos], "cabai").
+entry(anchor, v, [jangkar, menjangkar, penjangkaran], "untuk mengamankan dengan cara jangkar, alat untuk menahan kapal terapung di tempatnya").
+entry(pertapa, n, [pertapa], "seorang penyendiri").
+entri(teri, n, [teri], "ikan makanan kecil").
+entry(anchusa, n, [anchusas], "tanaman berbulu batang").
+entry(anchusin, n, [anchusins], "pewarna merah").
+entry(ancient, adj, [], "ANCIENTER ANCIENTESTberkaitan dengan waktu yang telah lama berlalu").
+entry(kuno, n, [orang_kuno], "seseorang yang hidup di zaman kuno").
+entry(ancilla, n, [ancillas], "atau ANCILLAEa pembantu").
+entri(ancon, n, [ancones], "siku ANCONAL ANCONEAL ANCONOID adj").
+entry(ancone, n, [ancones], "ancon").
+entry(ancress, n, [ancresses], "seorang penyendiri perempuan").
+entry(dan, n, [dans], "kondisi tambahan atau ketentuan").
+entry(andante, n, [andantes], "bagian musik yang cukup lambat").
+entry(andesit, n, [andesit-adesit], "batu vulkanik").
+entry(andesit, n, [andesit], "andesit").
+entry(andiron, n, [andirons], "penyangga logam untuk menahan kayu di perapian").
+entry(andro, n, [andros], "hormon steroid seks").
+entry(androgen, n, [androgen], "hormon seks pria").
+entry(android, n, [androids], "manusia sintetis").
+entry(satu, n, [satunya], "satu").
+entry(anear, v, [aneared,anearing,anears], "mendekati").
+entry(anekdot, n, [anekdot-anekdot], "atau ANEKDOTA cerita singkat").
+entry(anechoic, adj, [], "tidak memiliki maupun menghasilkan gema").
+entry(anele, v, [aneled,aneling,aneles], "untuk mengurapi").
+entry(anemia, n, [anemia], "gangguan darahANEMIC adj").
+entry(anemone, n, [anemon], "tanaman berbunga").
+entry(anemosis, n, [anemoses], "pemisahan cincin pertumbuhan pada kayu akibat angin").
+entry(anenst, prep, [], "mengenai").
+entry(anent, prep, [], "berkenaan dengan").
+entry(anergia, n, [anergias], "anergi").
+entry(anergi, n, [anergi-anergi], "kekurangan energiANERGIK adj").
+entry(aneroid, n, [aneroids], "sejenis barometer").
+entry(anestrus, n, [anestri], "periode ketidakaktifan seksual").
+entry(anethol, n, [anethols], "anetol").
+entry(anethole, n, [anetholes], "senyawa kimia").
+entry(aneurin, n, [aneurins], "tiamin").
+entry(aneurisme, n, [aneurisme], "aneurisma").
+entry(aneurisma, n, [aneurisma], "dilatasi pembuluh darah yang tidak normal yang terisi darah").
+entry(baru, adv, [], "sekali lagi").
+entry(anga, n, [angas], "salah satu dari delapan praktik yoga").
+entry(angakok, n, [angakoks], "dukun Inuit").
+entry(angaria, n, [angarias], "angari").
+entry(angary, n, [angaries], "hak negara yang sedang berperang untuk menyita properti netral").
+entry(angel, v, [angeled,angeling,angels], "memberikan dukungan finansial").
+entry(angelic, adj, [], "berkaitan dengan malaikat, makhluk bersayap surgawi").
+entry(angelica, n, [angelicas], "sejenis ramuan aromatik").
+entry(angelus, n, [angeluses], "sebuah doa Katolik Roma").
+entry(marah, v, [memarahi,memarahkan,memarah], "membuat marah").
+entry(angerly, adv, [], "dengan cara marah").
+entry(angina, n, [anginas], "penyakit yang ditandai dengan serangan kejang nyeri yang intensANGINAL ANGINOSE ANGINOUS adj").
+entry(angioma, n, [angioma], "atau ANGIOMATA tumor yang terdiri dari pembuluh darah atau pembuluh limfa").
+entry(sudut, v, [tersudut,menyudut,berbagai_sudut], "memancing dengan tali pancing dan kail").
+entry(anglepod, n, [anglepods], "tanaman berbunga").
+entry(angler, n, [pemancing], "seseorang yang memancing").
+entry(anglice, adv, [], "dalam bahasa Inggris yang mudah dipahami").
+entry(memancing, n, [memancings], "olahraga memancing").
+entry(anglo, n, [anglos], "seorang kulit putih Amerika Utara yang bukan keturunan Hispanik atau Prancis").
+entry(angora, n, [angora], "rambut panjang dan lembut dari kambing domestik").
+entry(marah, adj, [], "LEBIH_MARAH PALING_MARAHmerasa ketidaksenangan yang kuat atau permusuhanMARAH adv").
+entry(kecemasan, n, [kecemasan], "perasaan cemas atau takut").
+entry(angstrom, n, [angstrom], "satuan panjang").
+entry(angsty, adj, [], "ANGSTIER ANGSTIESTmerasa cemas atau takut").
+entry(anguine, adj, [], "menyerupai ular").
+entry(anguish, v, [anguished,anguishing,anguishes], "menderita kesakitan yang ekstrem").
+entry(angular, adj, [], "memiliki sudut tajam").
+entry(angulate, v, [angulated,angulating,angulates], "untuk membuat bersudut").
+entry(angulose, adj, [], "bersudut").
+entry(angulous, adj, [], "bersudut").
+entry(anhedral, n, [anhedrals], "kemiringan ke bawah dari sayap pesawat").
+entry(anhinga, n, [anhinga], "burung air").
+entry(ani, n, [anis], "burung Amerika tropis").
+entry(anil, n, [anils], "semak India Barat").
+entry(anile, adj, [], "menyerupai seorang wanita tua").
+entry(anilin, n, [anilina], "anilin").
+entry(anilin, n, [anilin], "senyawa kimia").
+entry(anility, n, [anilities], "keadaan menjadi pikun").
+entry(anima, n, [animas], "jiwa").
+entry(animasi, n, [animasi-animasi], "keadaan hidup").
+entry(hewan, n, [hewan], "organisme hidup yang biasanya mampu bergerak secara sukarela dan memiliki kepekaanHEWAN adj").
+entry(animally, adv, [], "secara fisik").
+entry(animate, v, [menghidupkan,menghidupkan,menghidupkan], "memberi kehidupan kepada").
+entry(animater, n, [animater], "animator").
+entry(animato, n, [animatos], "atau ANIMATI sebuah bagian musik dimainkan dengan cara yang hidup").
+entry(animator, n, [animator], "seseorang yang membuat animasi").
+entry(anime, n, [anime], "getah yang diperoleh dari pohon tropis").
+entry(animi, n, [animis], "anime").
+entry(animism, n, [animism], "kepercayaan bahwa jiwa dapat ada terpisah dari tubuh").
+entry(animis, n, [animis], "penganut animisme").
+entry(animus, n, [animuses], "sebuah perasaan permusuhan").
+entry(anion, n, [anion], "ion bermuatan negatifANIONIK adj").
+entry(adas_bintang, n, [adas_b-tang], "tanaman Afrika Utara").
+entry(adaskun, n, [adaskun], "biji adas yang digunakan sebagai penyedap rasa").
+entry(anisette, n, [anisettes], "minuman keras yang diberi rasa dengan adas manis").
+entry(anisic, adj, [], "berhubungan dengan adas manis").
+entry(anisol, n, [anisol-anisol], "senyawa kimia").
+entry(ankerit, n, [ankerit-ankerit], "sebuah mineral").
+entry(ankh, n, [ankhs], "simbol Mesir untuk kehidupan abadi").
+entry(pergelangan_kaki, v, [mengpergelangan_kaki,mengpergelangan_kakiin,pergelangan_kaki], "berjalan").
+entry(gelang_kaki, n, [gelang_gelang_kaki], "perhiasan untuk pergelangan kaki").
+entry(ankus, n, [ankuses], "pengait gajah").
+entry(ankush, n, [ankushes], "ankus").
+entry(ankilosis, v, [ankilosis,ankilosir,ankiloses], "untuk menyatu atau tumbuh bersama seperti tulang-tulang pada sendi").
+entry(anlace, n, [anlaces], "sebuah belati abad pertengahan").
+entry(anlage, n, [anlages], "atau ANLAGENstruktur sel awal dari mana organ embrionik berkembang").
+entry(anlas, n, [anlases], "anlace").
+entry(anna, n, [annas], "mata uang bekas di India dan Pakistan").
+entry(annal, n, [annals], "catatan dari satu tahun").
+masukan(annalist, n, [annalists], "seorang sejarawan").
+entry(annates, npl, [], "pendapatan tahun pertama dari seorang uskup yang dibayarkan kepada paus").
+entry(annotto, n, [annotto-annotto], "pewarna merah kekuningan").
+entry(anneal, v, [annealed,annealing,anneals], "menguatkan").
+entry(annealer, n, [pembakar], "seseorang yang membakar").
+entry(annelid, n, [annelids], "sembarang dari filum cacing bersegmen").
+entry(annex, v, [annexed,annexing,annexes], "untuk menambah atau melampirkan").
+entry(lampiran, n, [lampiran], "sesuatu yang ditambahkan atau dilampirkan").
+entry(annona, n, [annonas], "pohon tropis").
+entry(menjelaskan, v, [dijelaskan,menjelaskan,menjelaskan], "untuk memberikan catatan kritis atau penjelasan").
+entry(mengumumkan, v, [telah_diumumkan, mengumumkan, mengumumkan], "untuk membuat diketahui secara publik").
+entry(mengganggu, v, [terganggu, mengganggu, mengganggu], "menjadi merepotkan bagi").
+entry(pengganggu, n, [pengganggu], "seseorang yang mengganggu").
+entry(tahunan, n, [publikasi_tahunan], "sebuah publikasi yang diterbitkan setahun sekali").
+entry(tahunan, adv, [], "sekali setahun").
+entry(anuitas, n, [anuitas], "tunjangan atau pendapatan yang dibayarkan secara berkala").
+entry(batalkan, v, [dibatalkan,sedang_membatalkan,membatalkan], "untuk membuat atau menyatakan tidak berlaku atau tidak sah").
+entry(cincin, adj, [], "berbentuk seperti cincin").
+entry(annulate, adj, [], "terdiri dari atau dilengkapi dengan cincin").
+entry(cincin_kecil, n, [cincin_kecil], "sebuah cincin kecil").
+entry(annuli, a, [], "jamak dari annulus").
+entry(dibatalkan, lampau, [], "bentuk waktu dari membatalkan").
+entry(membatalkan, sekarang, [], "partisipel dari membatalkan").
+entry(annulus, n, [annuluses], "atau ANNULIsebuah cincin atau bagian seperti cincinANNULOSE adj").
+entry(anoa, n, [anoas], "seekor lembu liar").
+entry(anode, n, [anodes], "elektroda bermuatan positifANODAL ANODIK adjANODALLY adv").
+entry(anodise, v, [anodised,anodising,anodises], "untuk menganodisasi").
+entry(anodiser, n, [anodisers], "pelapis anod").
+entry(anodize, v, [anodized,anodizing,anodizes], "untuk melapisi dengan lapisan pelindung secara kimiawi").
+entry(anodizer, n, [anodizers], "seseorang yang melakukan anodisasi").
+entry(anodyne, n, [anodynes], "obat yang meredakan nyeriANODYNIC adj").
+entry(meminyaki, v, [meminyaki, meminyaki, meminyaki], "untuk mengoleskan minyak sebagai ritual suci").
+entry(pengurap, n, [pengurap], "seseorang yang mengurapi").
+entry(anole, n, [anoles], "seekor kadal tropis").
+entry(anolit, n, [anolit-anolit], "bagian dari larutan penghantar listrik yang paling dekat dengan anoda").
+entry(anomaly, n, [anomali], "penyimpangan dari aturan atau bentuk umum").
+entry(anomie, n, [anomies], "keruntuhan struktur sosial yang mengatur masyarakat tertentuANOMIC adj").
+entry(anomy, n, [anomies], "anom").
+entry(anon, adv, [], "pada waktu yang lain").
+entry(anonym, n, [anonyms], "nama palsu atau nama samaran").
+entry(anoopsia, n, [anoopsias], "cacat visual").
+entry(anopia, n, [anopias], "anoopsia").
+entry(anopsia, n, [anopsia], "anoopsia").
+entry(anorak, n, [anoraks], "sebuah parka").
+entry(anoretik, n, [anoretik], "anoreksik").
+entry(anoreksia, n, [anoreksia], "kehilangan nafsu makan").
+entry(anoreksia, n, [anoreksia], "seseorang yang terpengaruh anoreksia").
+entry(anoreksia, n, [anoreksia], "anoreksia").
+entry(anorthic, adj, [], "menunjukkan jenis sistem kristal tertentu").
+entry(anosmia, n, [anosmias], "kehilangan indera penciumanANOSMIK adj").
+entri(lain, adj, [], "satu lagi").
+entry(anovular, adj, [], "tidak melibatkan ovulasi").
+entry(anoksemia, n, [anoksemia], "gangguan darah ANOKSEMIA adj").
+entry(anoksia, n, [anoksias], "ketiadaan oksigen ANOKSIK adj").
+entry(ansa, n, [ansae], "bagian yang menonjol dari cincin Saturnus").
+entry(ansate, adj, [], "memiliki pegangan").
+entry(ansated, adj, [], "sanset").
+entry(anserine, n, [anserines], "senyawa kimia").
+entry(anserous, adj, [], "konyol").
+entry(jawaban, v, [dijawab,menjawab,jawaban], "untuk mengatakan menulis atau bertindak sebagai balasan").
+entry(penjawab, n, [penjawab], "satu yang menjawab").
+entry(semut, n, [semut-semut], "serangga kecil").
+entry(anta, n, [antas], "atau ANTAE sebuah pilaster yang terbentuk di ujung sebuah dinding").
+entry(antacid, n, [antasida], "suatu zat yang menetralkan asam").
+entry(antalgic, n, [antalgics], "pengurang rasa sakit").
+entry(antbear, n, [antbears], "seekor aardvark").
+entry(ante, v, [anteed,anteing,antes], "menempatkan taruhan tetap ke dalam pot sebelum kartu dibagikan dalam permainan poker").
+entry(trenggiling, n, [trenggiling], "salah satu dari beberapa mamalia yang memakan semut").
+entry(antecede, v, [anteceded,anteceding,antecedes], "mendahului").
+entry(antedate, v, [antedated, antedating, antedates], "menjadikan tanggal lebih awal dari").
+entry(antefix, n, [antefixes], "atau ANTEFIXAE atau ANTEFIXAornamen tegak di ujung atap genteng").
+entry(antelope, n, [antelope], "sejenis mamalia pemamah biak").
+entry(antenna, n, [antena], "atau ANTENNAE sebuah perangkat logam untuk mengirim atau menerima gelombang radioANTENNAL adj").
+entri(antepast, n, [antepast], "sebuah hidangan pembuka").
+entry(anterior, adj, [], "terletak di atau menuju bagian depan").
+entry(ruang_tunggu, n, [ruang_tunggu], "sebuah ruang menunggu").
+entry(antes, present, [], "orang ke-3 tunggal dari ante").
+entry(antetype, n, [antetypes], "bentuk yang lebih awal").
+entry(antevert, v, [anteverted, anteverting, anteverts], "menggeser dengan memiringkan ke depan").
+entry(anthelia, npl, [], "daerah seperti halo yang terlihat di langit berlawanan dengan matahari").
+entry(anthelix, n, [anthelixes], "atau ANTHELICES bagian lengkung dalam pada tulang rawan telinga luar").
+entry(anthem, v, [anthemed,antheming,anthems], "memuji dalam sebuah lagu").
+entry(anthemia, npl, [], "pola bunga dekoratif yang digunakan dalam seni Yunani").
+entry(anthemic, adj, [], "berkaitan dengan lagu kebesaran atau lagu pujian").
+entry(anther, n, [anthers], "bagian serbuk sari dari benang sariANTHERAL adj").
+entry(antherid, n, [antherids], "organ reproduksi jantan dari beberapa tumbuhan").
+entry(anthesis, n, [antheses], "mekar penuh dari sebuah bunga").
+entri(sarang_semut, n, [sarang_semut], "gundukan yang dibentuk oleh semut saat membangun sarangnya").
+entry(anthodia, npl, [], "kepala bunga dari tanaman tertentu").
+entry(anthoid, adj, [], "menyerupai bunga").
+entry(anthrax, n, [anthrax], "atau ANTHRACES penyakit menular").
+entry(anthro, n, [], "pl ANTHROSanthropologi").
+entry(anti, n, [antis], "orang yang menentang").
+entry(antiacne, adj, [], "efektif melawan jerawat").
+entry(antiair, adj, [], "ditujukan terhadap pesawat penyerang").
+entry(antiar, n, [antiars], "racun panah").
+entry(antiarin, n, [antiarins], "antiar").
+entry(antiatom, n, [antiatom], "sebuah atom yang terdiri dari antipartikel").
+entry(antibias, adj, [], "menentang bias").
+entry(antibodi, n, [antibodi-antibodi], "protein tubuh yang menghasilkan kekebalan terhadap mikroorganisme atau racun tertentu").
+entry(antiboss, adj, [], "menentang bos").
+entry(antibug, adj, [], "efektif melawan serangga").
+entry(antic, v, [anticked,anticking,antics], "bertindak dengan cara seperti badut").
+entry(anticar, adj, [], "menentang mobil").
+entry(anticity, adj, [], "berlawanan dengan kota-kota").
+entry(antick, v, [anticked,anticking,anticks], "untuk bergurau").
+entry(anticly, adv, [], "dengan cara yang konyol").
+entry(anticold, adj, [], "efektif melawan flu biasa").
+entry(anticult, n, [anticults], "sekelompok yang menentang suatu kultus").
+entry(antidora, npl, [], "roti suci").
+entry(penawar, v, [menawar,memenawari,penawar], "untuk menetralisir efek racun dengan obat").
+entry(antidrug, adj, [], "menentang obat-obatan terlarang").
+entry(antifat, adj, [], "mencegah pembentukan lemak").
+entry(antiflu, adj, [], "melawan flu").
+entry(antifoam, adj, [], "mengurangi atau mencegah busa").
+entry(antifog, adj, [], "mencegah penumpukan kelembapan pada permukaan").
+entry(antifur, adj, [], "menentang pemakaian bulu binatang").
+entry(antigang, adj, [], "menentang geng").
+entry(antigay, adj, [], "menentang homoseksual").
+entry(antigen, n, [antigen], "suatu zat yang merangsang produksi antibodi").
+entry(antigen, n, [antigen], "antigen").
+entry(antigun, adj, [], "menentang senjata").
+entry(antihero, n, [pahlawan_anti], "tokoh utama yang secara mencolok kurang dalam kualitas heroik").
+entry(antijam, adj, [], "memblokir sinyal mengganggu").
+entry(antiking, n, [raja_perebut_kekuasaan], "seorang raja yang merebut kekuasaan").
+entry(antileak, adj, [], "mencegah kebocoran").
+entry(antileft, adj, [], "berlawanan dengan paham kiri").
+entry(antilife, adj, [], "berlawanan dengan kehidupan").
+entry(antilock, adj, [], "dirancang untuk mencegah roda kendaraan terkunci").
+entry(antilog, n, [antilogs], "angka yang sesuai dengan logaritma tertentu").
+entry(antilogi, n, [antilogi], "suatu kontradiksi dalam istilah atau ide").
+entry(antimale, adj, [], "berlawanan dengan laki-laki").
+entry(antiman, adj, [], "antijantan").
+entry(antimask, n, [antimasks], "pertunjukan komik antara babak dari sebuah topeng").
+entry(antimere, n, [antimeres], "bagian dari organisme yang simetris dengan bagian di sisi berlawanan dari sumbu utama").
+entry(antimine, adj, [], "efektif terhadap ranjau").
+entry(antimoni, n, [antimon], "unsur logam").
+entry(anting, n, [antings], "penempatan yang disengaja oleh burung-burung tertentu dari semut hidup di antara bulu-bulu").
+entry(antinode, n, [antinodes], "sebuah wilayah di antara simpul yang berdekatan").
+entry(antinome, n, [antonim], "sesuatu yang berlawanan dengan yang lain").
+entry(antinomi, n, [antinomi-antinomi], "kontradiksi antara dua prinsip yang tampaknya valid").
+entry(antinuke, n, [antinuklir], "seorang yang menentang penggunaan pembangkit listrik tenaga nuklir atau senjata nuklir").
+entri(antiphon, n, [antiphons], "mazmur atau himne yang dinyanyikan secara responsif").
+entry(antipill, adj, [], "menentang penggunaan pil kontrasepsi").
+entry(antipode, n, [antipodes], "kebalikan yang tepat").
+entry(antipole, n, [antipoles], "kutub yang berlawanan").
+entry(antipope, n, [antipaus], "seseorang yang mengklaim menjadi paus sebagai lawan dari yang dipilih oleh hukum gereja").
+entry(antiporn, adj, [], "menentang pornografi").
+entry(antipot, adj, [], "menentang penggunaan ganja").
+entry(antipyic, n, [antipyics], "obat yang mencegah pembentukan nanah").
+entry(antique, v, [antiqued,antiquing,antiques], "memberikan penampilan kuno kepada").
+entry(antiquer, n, [antiquers], "seseorang yang melakukan kegiatan kuno").
+entry(antiperkosaan, adj, [], "terkait dengan pencegahan pemerkosaan").
+entry(antired, adj, [], "berlawanan dengan komunisme").
+entry(antihuru-hara, adj, [], "dirancang untuk mencegah atau mengakhiri kerusuhan").
+entry(antirock, adj, [], "menentang musik rock").
+entry(antiroll, adj, [], "dirancang untuk mengurangi gulungan").
+entry(antirust, n, [antirusts], "sesuatu yang mencegah karat").
+entry(antisag, adj, [], "dirancang untuk mencegah kendur").
+entry(antisera, npl, [], "serum yang mengandung antibodi").
+entry(antisex, adj, [], "menentang aktivitas seksual").
+entry(antiship, adj, [], "dirancang untuk digunakan melawan kapal").
+entry(antiskid, adj, [], "dirancang untuk mencegah tergelincir").
+entry(antislip, adj, [], "dirancang untuk mencegah tergelincir").
+entry(antismog, adj, [], "dirancang untuk mengurangi polutan yang menyebabkan kabut asap").
+entry(antismut, adj, [], "berlawanan dengan pornografi").
+entry(antisnob, n, [antisnob-antisnob], "seseorang yang menentang kesnob-an").
+entry(antispam, adj, [], "dirancang untuk memblokir email spam yang tidak diinginkan").
+entry(antistat, n, [antistats], "agen untuk mencegah penumpukan listrik statis").
+entry(antitank, adj, [], "dirancang untuk melawan tank").
+entry(antitax, adj, [], "menentang pajak").
+entry(jenis_berlawanan, n, [jenis_jenis_berlawanan], "suatu jenis yang berlawanan").
+entry(antiwar, adj, [], "menentang perang").
+entry(antiwear, adj, [], "dirancang untuk mengurangi efek penggunaan yang lama atau berat").
+entry(antiweed, adj, [], "berkaitan dengan penghancuran gulma").
+entry(antler, n, [antlers], "tanduk hewan dari keluarga rusaANTLERED adj").
+entry(antlike, adj, [], "menyerupai semut").
+entry(sempalung, n, [sempalung], "serangga pemangsa").
+entry(antonim, n, [antonim], "sebuah kata yang berlawanan makna dengan kata lain").
+entry(antonimi, n, [antonimi], "keadaan menjadi sebuah antonim").
+entry(antra, a, [], "jamak dari antrum").
+entry(antral, adj, [], "berhubungan dengan antrum").
+entry(antre, n, [antres], "gua tempat berongga di dalam tanah").
+entry(antrorse, adj, [], "mengarah ke depan atau ke atas").
+entry(antrum, n, [antrum], "atau ANTRA sebuah rongga dalam tulang").
+entry(antsy, adj, [], "ANTSIER ANTSIESTgelisah").
+entry(anura, npl, [], "katak dan kodok").
+entry(anural, adj, [], "tanpa ekor").
+entri(anuran, n, [anuran], "katak atau kodok").
+entry(anuresis, n, [anureses], "ketidakmampuan untuk buang air kecilANURETIC adj").
+entry(anuria, n, [anuria], "ketiadaan urineANURIC adj").
+entry(anurous, adj, [], "tidak memiliki ekor").
+entry(anus, n, [anus], "lubang pembuangan di ujung saluran pencernaan").
+entry(landasan, v, [membenturkan,membenturkan,landasan], "atau MEMBENTURKAN MEMBENTURKAN LANDASAN untuk membentuk di atas landasan sebuah balok besi berat").
+entry(anviltop, n, [anviltops], "sebuah massa awan berbentuk landasan").
+entry(kecemasan, n, [kecemasan], "ketidaknyamanan pikiran yang menyakitkan atau cemas").
+entry(cemas, adj, [], "penuh kecemasan").
+entry(any, adj, [], "satu tidak peduli yang mana").
+entry(anybody, n, [anybodies], "seseorang yang memiliki kepentingan").
+entri(bagaimanapun, adv, [], "dengan cara apapun").
+entri(tidak_lagi, adv, [], "pada saat ini").
+entry(anyon, n, [anyons], "sebuah partikel subatom").
+entry(anyone, pron, [], "siapa saja").
+entry(sembarang_tempat, adv, [], "di sembarang tempat").
+entri(apapun, n, [benda_benda_apapun], "suatu benda dari segala jenis").
+entry(sewaktu-waktu, adv, [], "kapan saja").
+entry(bagaimanapun, adv, [], "dengan cara apa pun").
+entry(bagaimanapun, adv, [], "anyway").
+entry(dimanapun, n, [dimanasaja], "tempat apapun").
+entry(anywise, adv, [], "dengan cara apapun").
+entri(aorist, n, [aorists], "suatu kala kerjaAORISTIC adj").
+entry(aorta, n, [aorta], "atau AORTAEa arteri utamaAORTAL AORTIC adj").
+entry(aoudad, n, [aoudad], "seekor domba liar").
+entry(apace, adv, [], "dengan cepat").
+entry(apache, n, [apaches], "seorang gangster Paris").
+entry(apagoge, n, [apagoges], "penetapan sebuah tesis dengan menunjukkan kebalikannya tidak masuk akalAPAGOGIK adj").
+entri(apanage, n, [apanages], "appanage").
+entry(aparejo, n, [aparejos], "sejenis pelana").
+entry(terpisah, adv, [], "tidak bersama").
+entry(apatetic, adj, [], "memiliki pewarnaan yang berfungsi sebagai kamuflase alami").
+entry(apati, n, [apatis], "kurangnya emosi").
+entry(apatit, n, [apatit-apatit], "sebuah mineral").
+entry(ape, v, [aped,aping,apes], "untuk meniru").
+entry(apeak, adv, [], "dalam posisi vertikal").
+entry(apeek, adv, [], "apeak").
+entry(apelike, adj, [], "menyerupai kera primata besar tanpa ekor").
+entry(manusia_kera, n, [manusia_kera], "primata mirip kera yang sudah punah").
+entry(aper, n, [apers], "satu yang meniru").
+entry(apercu, n, [apercus], "ringkasan singkat").
+entry(aperient, n, [aperients], "pencahar ringan").
+entry(apéritif, n, [aperitif], "minuman beralkohol yang diminum sebelum makan").
+entry(aperture, n, [apertures], "sebuah pembukaan").
+entry(apery, n, [aperies], "tindakan meniru").
+entry(apetaly, n, [apetalies], "keadaan tidak memiliki kelopak bunga").
+entry(apex, n, [puncak], "atau APEXpoin tertinggi").
+entry(afagia, n, [afagia], "ketidakmampuan untuk menelan").
+entry(aphanite, n, [aphanit], "batuan beku").
+entry(afasia, n, [afasia-afasia], "kehilangan kemampuan menggunakan kata-kata").
+entry(afasia, n, [orang_afasia], "seseorang yang menderita afasia").
+entry(afasia, n, [afasias], "afasiak").
+entry(aphelion, n, [aphelions], "atau APHELIA titik dalam orbit planet yang paling jauh dari matahari APHELIAN adj").
+entry(aphesis, n, [apheses], "kehilangan vokal yang tidak diberi tekanan dari awal kata ADJ APHETIC").
+entry(aphid, n, [aphids], "sebuah keluarga serangga kecil bertubuh lunak").
+entry(aphidian, n, [aphidians], "seekor kutu daun").
+entry(aphis, n, [aphides], "seekor kutu daun").
+entry(apholate, n, [apholates], "sebuah bahan kimia yang digunakan untuk mengendalikan lalat rumah").
+entry(aphonia, n, [aphonias], "kehilangan suara").
+entry(aphonic, n, [aphonics], "seseorang yang terkena afonia").
+entry(aphony, n, [aphonies], "afonia").
+entry(aforisme, v, [diaphorisme,mengaforisme,mengaforisme], "untuk mengaforisme").
+entry(aforisme, n, [aforisme-aforisme], "pernyataan singkat tentang kebenaran atau prinsip").
+entry(aforis, n, [aforis], "seseorang yang membuat aforisme").
+entry(beraforis, v, [diberaforiskan,beraforisasi,beraforis], "menulis atau berbicara dengan aforisme").
+entry(aphotic, adj, [], "kekurangan cahaya").
+entry(aphtha, n, [aphthae], "lepuh kecil di mulut atau perutAPHTHOUS adj").
+entry(aphylly, n, [aphyllies], "keadaan tanpa daun").
+entry(apian, adj, [], "berhubungan dengan lebah").
+entry(apiarian, n, [peternak_lebah], "seorang peternak lebah").
+entry(peternak_lebah, n, [peternak_lebahs], "seorang yang membudidayakan lebah").
+entry(perlebahan, n, [perlembahan], "tempat di mana lebah dipelihara").
+entry(apical, n, [apicals], "suara yang diartikulasikan dengan puncak ujung lidah").
+entry(apically, adv, [], "ke atau menuju puncak").
+entry(apices, a, [], "jamak dari apex").
+entry(apiculus, n, [apiculi], "ujung tajam pada daun").
+entry(apiece, adv, [], "untuk masing-masing").
+entry(apimania, n, [apimanias], "minat berlebihan terhadap lebah").
+entry(aping, sekarang, [], "partisipel dari ape").
+entry(apiology, n, [apiologies], "studi tentang lebah").
+entry(apish, adj, [], "meniru secara bodoh atau takhayulAPISHLY adv").
+entry(aplanat, n, [aplanats], "sejenis permukaan pemantul atau pembias").
+entry(aplasia, n, [aplasias], "perkembangan yang cacat dari sebuah organ atau bagian").
+entry(aplastik, adj, [], "bukan plastik").
+entry(banyak, adj, [], "berada dalam jumlah yang cukup").
+entri(aplite, n, [aplites], "batuan berbutir halusAPLITIC adj").
+\text{entry}(aplomb, n, [aplombs], "percaya diri").
+entry(apnea, n, [apneas], "henti sementara pernapasanAPNEAL APNEIC adj").
+entry(apnea, n, [apneas], "apneaAPNOEAL APNOEIC adj").
+entry(apo, n, [apos], "sejenis protein").
+entry(apoapsis, n, [apoapsides], "atau APOAPSEStitik tertinggi dalam sebuah orbit").
+entry(apocarp, n, [apocarps], "buah yang memiliki karpel terpisah").
+entry(apokarpi, n, [apokarpi], "keadaan dari menjadi sebuah apokarp").
+entry(apokope, n, [apokop], "penghilangan bunyi terakhir dari suatu kataAPOKOPIK adj").
+entry(apocrine, adj, [], "berkenaan dengan jenis kelenjar").
+entry(apod, n, [apods], "hewan apodal").
+entry(apodal, adj, [], "tidak memiliki kaki atau appendiks seperti kaki").
+entry(apodosis, n, [apodosis-apodosis], "klausa utama dari kalimat bersyarat").
+entry(apodous, adj, [], "apodal").
+entry(apogami, n, [apogami], "suatu bentuk reproduksi tumbuhanAPOGAMIK adj").
+entry(apogee, n, [apogees], "titik dalam orbit suatu benda yang terjauh dari bumiAPOGEAL APOGEAN APOGEIC adj").
+entri(apollo, n, [apollos], "seorang pria tampan").
+entry(apolog, n, [apologs], "apolog").
+entry(apologal, adj, [], "terkait dengan apolog").
+entry(apologia, n, [apologias], "atau APOLOGIAE sebuah pembenaran atau pembelaan resmi").
+entry(apologue, n, [apologues], "sebuah alegori").
+entry(apology, n, [permintaan_maaf], "ekspresi penyesalan untuk beberapa kesalahan atau pelanggaran").
+entry(apolune, n, [apolunes], "titik dalam orbit suatu benda yang terjauh dari bulan").
+entry(apomict, n, [apomiks], "organisme yang dihasilkan oleh apomiksis").
+entry(apomixis, n, [apomiksis], "sebuah jenis proses reproduksi").
+entry(apophony, n, [apophon], "perubahan vokal").
+entry(apophyge, n, [apophyges], "kurva cekung pada kolom").
+entry(apoplexy, n, [apoplexies], "hilangnya sensasi dan kontrol otot secara tiba-tiba").
+entri(aporia, n, [aporias], "ekspresi keraguan untuk efek retorika").
+entry(aport, adv, [], "di atau menuju sisi kiri kapal").
+entry(apospory, n, [apospori], "jenis reproduksi tanpa pembentukan spora").
+entry(murtad, n, [kemurtadan], "apostasy").
+entry(murtad, n, [kemurtadan], "pengingkaran terhadap iman atau prinsip seseorang").
+entry(murtad, n, [murtad], "seseorang yang melakukan kemurtadan").
+entry(apostil, n, [apostil], "catatan pinggir").
+entry(rasul, n, [rasul-rasul], "seorang murid yang diutus oleh Kristus untuk memberitakan Injil").
+entry(apothece, n, [apotheces], "organ penghasil spora dari jamur tertentu").
+entry(apothegm, n, [apothegms], "sebuah pepatah").
+entry(apothem, n, [apothems], "garis tegak lurus dari pusat ke salah satu sisi poligon beraturan").
+entry(aplikasi, n, [aplikasi-aplikasi], "program komputer untuk tugas utama").
+entry(appal, v, [appalled,appalling,appals], "mengguncangkan").
+entry(mengerikan, v, [terkejut, mengerikan, mengerikan], "untuk diisi dengan kengerian atau kekecewaan").
+entry(appanage, n, [appanages], "tanah atau pendapatan yang diberikan kepada anggota keluarga kerajaan").
+entry(apparat, n, [apparats], "sebuah organisasi politik").
+entry(pakaian, v, [berpakaian,berpakaian,berpakaian], "atau PAKAIAN PAKAIAN PAKAIANuntuk menyediakan dengan pakaian luar").
+entry(tampak, adj, [], "mudah terlihat").
+entry(banding, v, [mengajukan_banding, mengajukan_bandingnya, mengajukan_bandings], "untuk membuat permintaan yang sungguh-sungguh").
+entry(pemohon, n, [pemohon], "seseorang yang mengajukan banding").
+entry(muncul, v, [muncul, munculnya, muncul-muncul], "untuk datang ke dalam pandangan").
+entry(menenangkan, v, [ditenangkan,menenangkan,menenangkan], "membawa ke keadaan damai atau kepuasan").
+entry(appeaser, n, [appeasers], "seseorang yang menenangkan").
+entry(appel, n, [appels], "sebuah tipuan dalam anggar").
+entry(appellee, n, [para_tertuduh], "terdakwa dalam jenis proses peradilan").
+entry(appellor, n, [appellors], "seorang penjahat yang mengaku bersalah yang menuduh kaki tangannya").
+entry(tambahkan, v, [ditambahkan,menambahkan,menambahkan], "untuk menambahkan sebagai pelengkap").
+entry(lampiran, n, [lampiran-lampiran], "atau LAMPIRANkoleksi materi tambahan di akhir sebuah buku").
+entry(appestat, n, [appestats], "mekanisme di sistem saraf pusat yang mengatur nafsu makan").
+entry(appetent, adj, [], "ditandai oleh keinginan yang kuat").
+entri(selera, n, [selera-selera], "keinginan untuk makanan atau minuman").
+entry(memujia, v, [memujiakan,memuji,memuja], "untuk menyatakan persetujuan dengan bertepuk tangan").
+entry(applause, n, [applauses], "suara yang dihasilkan oleh orang-orang bertepuk tangan").
+entry(apel, n, [apel], "buah yang dapat dimakan").
+entry(applet, n, [applet], "program komputer untuk tugas sederhana").
+entry(appley, adj, [], "MENYERUPAI ATAU MENUNJUKKAN SEPERTI APEL").
+entry(diterapkan, lampau, [], "kata kerja berlaku").
+entry(pelamar, n, [pelamar-pelamar], "seseorang yang melamar").
+entry(applique, v, [appliqued,appliqueing,appliques], "mengaplikasikan sebagai dekorasi pada permukaan yang lebih besar").
+entry(menerapkan, v, [diterapkan,menerapkan,menerapkan], "membawa ke dalam kontak dengan sesuatu").
+entry(mengangkat, v, [diangkat, mengangkat, mengangkat], "menunjuk atau menetapkan seseorang untuk posisi atau jabatan").
+entry(menyandingkan, v, [disandingkan,menyandingkan,menyandingkan], "untuk menempatkan bersebelahan").
+entry(apposer, n, [penentang], "seseorang yang menentang").
+entri(apposite, adj, [], "relevan").
+entry(nilai, v, [dinilai,menilai,menilai], "menetapkan nilai pada").
+entry(appress, v, [menempelkan,menempel,menempel], "menekan dekat dengan sesuatu yang lain").
+entry(beritahu, v, [diberitahukan,memberitahu,memberitahukan], "untuk memberi tahu").
+entry(appriser, n, [apprisers], "seseorang yang memberitahukan").
+entry(apprize, v, [apprized, apprizing, apprizes], "untuk menilai").
+entry(apprizer, n, [penilai], "seseorang yang menilai").
+entry(mendekat, v, [mendekati, mendekat, mendekatlah], "untuk datang lebih dekat").
+entry(persetujuan, n, [persetujuan], "tindakan menyetujui").
+entry(setuju, v, [disetujui,menyetujui,menyetujukan], "untuk menilai dengan baik").
+entry(pemberi_persetujuan, n, [pemberi_persetujuan], "seseorang yang menyetujui").
+entry(appulse, n, [appulses], "pendekatan satu benda bergerak ke arah benda lain").
+entry(apraxia, n, [apraxia], "kehilangan kemampuan untuk melakukan gerakan terkoordinasi APRACSIK APRASIK adj").
+entry(setelah, prep, [], "after").
+entry(aprikot, n, [aprikot], "buah yang bisa dimakan").
+masukan(celemek, v, [bercelemek, memakai_celemek, celemek_celemek], "untuk menyediakan dengan celemek sebuah pakaian yang dipakai untuk melindungi pakaian seseorang").
+entry(apropos, adj, [], "relevan").
+entry(aprotik, adj, [], "merupakan jenis pelarut").
+entry(apse, n, [apses], "proyeksi setengah lingkaran berbentuk kubah dari sebuah bangunanAPSISIDAL adj").
+entry(apsis, n, [apsides], "suatu lengkungan").
+entry(apt, adj, [], "APTER APTESTcocok").
+entry(apteral, adj, [], "aptera").
+entry(apterium, n, [apteria], "area kulit kosong antara bulu").
+entry(apterous, adj, [], "tidak memiliki sayap").
+entry(apteryx, n, [apteryxes], "burung kiwi").

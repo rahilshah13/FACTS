@@ -13148,3 +13148,17954 @@ entry(欧博, 名词, [欧博], "木管乐器").
 entry(双簧管, n, [双簧管], "一个双簧管").
 entry(haute, 形容词, [], "HAUTER HAUTESThighclass").
 entry(高度, n, [高度], "高傲的态度或精神").
+入口(干草垛, 名词, [干草垛], "一堆干草")。
+entry(hayer, n, [干草者], "一个割草的人").
+条目(hayey, 形容词, [], "类似干草")。
+条目(干草田, 名词, [干草田], "种植干草用的田地")。
+entry(干草叉, n, [干草叉], "一个用来叉干草的工具")
+入口(割草制干, 名词, [割草制干们], "收获干草的季节")。
+entry(青贮草料, n, [青贮草料复数], "一种干草").
+entry(乾草棚, n, [乾草棚], "用于存放干草的阁楼").
+知识库(刈草机, 名词, [刈草机们], "用来割草的机器").
+entry(干草棚, n, [干草棚], "一个草料阁楼")。
+entry(干草架, n, [干草架], "用于运送干草的框架").
+entry(hayrick, n, [干草堆], "一堆干草").
+入口(大车游览, n, [大车游览], "一次马车游").
+entry(乡巴佬, n, [乡巴佬们], "乡下人").
+入口(干草堆, n, [干草堆], "一堆干草")。
+entry(hayward, n, [牧牛官], "管理牛只的官员").
+入口(haywire, 名词, [haywires], "用于打捆干草的铁丝").
+条目(hazan, n, [hazans], "或 HAZANIM 一位领唱").
+entry(冒险, v, [冒着危险, 进行冒险, 冒险], "去冒险").
+entry(冒险者, n, [冒险者们], "冒险的人").
+条目(雾, 动词, [使雾化, 使起雾, 起雾], "使某人经历屈辱性迎新仪式")。
+词条(榛树, 名词, [榛树], "一种灌木").
+entry(榛鸡, n, [榛鸡], "一种欧洲松鸡").
+entry(hazelly, 形容词, [], "黄褐色").
+条目(榛子, n, [榛子], "一种可食用的坚果").
+entry(欺压者, n, [欺压者们], "进行欺凌的人").
+entry(模糊的, 比较级, [], "模糊的").
+entry(最模糊的, 最高级, [], "模糊的").
+entry(模糊地, 副词, [], "以模糊的方式").
+entry(模糊, n, [模糊状态], "状态不清晰").
+入口(欺凌, 名词, [欺凌行为], "一种试图使人尴尬或被嘲笑的行为")。
+entry(危化品, n, [危化品], "危险物质").
+条目(模糊, 形容词, [], "更模糊 最模糊不清").
+entry(cángēshī, n, [cángēshīmen], "或 CÁNGĒSHĪMÍNcángēshī").
+entry(他, n, [他], "男性").
+entry(head, v, [头领, 主领, 领导], "成为首领").
+entry(头痛, n, [头痛], "头内部的疼痛").
+entry(頭痛的, 形容詞, [], "更頭痛 最頭痛 擁有頭痛").
+entry(头带, 名词, [头带], "戴在头上的带子").
+entry(前端, n, [前端], "接收和分发通信信号的设施").
+entry(标题, n, [标题列表], "一个谷物收割机").
+entry(headfish, n, [頭魚], "一種海洋魚類").
+entry(headful, n, [头脑充实], "大量的知识").
+条目(节制闸, 名词, [节制闸], "控制水流的门").
+entry(头饰, n, [头饰], "用于遮盖头部的物品")。
+entry(猎头, 动词, [猎头了, 正在猎头, 猎头们], "寻找、斩首并保存敌人的头颅")。
+`entry(headier, comparative, [], "属于heady的").`
+入口(headiest, 最高级, [], "of heady").
+entry(轻率地, 副词, [], "以一种令人陶醉的方式").
+条目(标题, n, [标题], "一个标题")。
+```Prolog
+entry(车头灯, n, [车头灯], "汽车前部的灯").
+```
+entry(岬, n, [岬], "悬崖").
+entry(无头, 形容词, [], "缺乏一个头").
+entry(标题, v, [已经加标题, 正在加标题, 加标题], "提供一个标题").
+条目(头锁, n, [头锁], "一种摔跤控技").
+```
+entry(鲁莽的, 形容词, [], "轻率的，冲动的").
+```
+入口(领班, n, [领班], "一个工头")。
+entry(首位, 形容词, [], "最前").
+entry(标题注, n, [标题注们], "一个前缀的注释").
+entry(headpin, n, [保龄球瓶], "一个保龄球瓶").
+entry(headpond, n, [headponds], "大坝后形成的池塘")。
+条目(赛艇航道, n, [赛艇航道], "一个水道").
+条目(headrail, n, [headrails], "位于顶部的水平杆").
+entry(头枕, n, [头枕], "头部的支撑物").
+entry(headroom, n, [headrooms], "净空高度").
+入口(前帆, n, [前帆], "一种风帆").
+entry(耳机, n, [耳机], "一对耳机").
+entry(领导职位, n, [领导职位], "领导者的位置").
+entry(头像, n, [头像], "一个从脖子以上拍摄的人的照片").
+入口(刽子手, n, [刽子手们], "一名刽子手")。
+条目(前桅支索, 名词, [前桅支索], "支撑船只前桅的装置").
+entry(向头部, 副词, [], "朝向头部")。
+entry(headway, n, [运头], "前进移动").
+```prolog
+entry(逆风, n, [逆风], "迎面而来的风").
+```
+词条(词头, 名词, [词头], "放在开头的词")。
+entry(脑力劳动, n, [脑力劳动], "精神工作").
+entry(heady, adj, [], "更沉醉 最沉醉").
+entry(治愈, v, [治愈了, 治愈中, 治愈], "使恢复健康或完全HEALABLE adj").
+entry(治疗者, n, [治疗者们], "一个治愈者").
+entry(愈合, 名词, [愈合过程], "再次健康的过程").
+entry(健康, n, [健康状态], "生物体的身体状况").
+`entry(健康, 形容词, [], "更健康的 最健康拥有良好健康").`
+`词条(堆, v, [堆积, 堆放, 堆], "堆起来").`
+entry(堆积者, n, [堆积者们], "一个进行堆积的人").
+entry(heapy, adj, [], "类似于一堆、一组东西彼此堆叠在一起").
+entry(听, v, [听到, 听觉, 听见], "通过耳朵感知可听的 adj")。
+entry(听者, n, [听者们], "一个能听的人").
+entry(听证会, n, [听证会], "初步审查")。
+条目(倾听, 动词, [倾听了,倾听着,倾听], "听").
+entry(传闻, n, [传闻], "二手信息").
+entry(灵车, v, [灵车了,灵车中,灵车们], "用灵车运送尸体的车辆")。
+条目(心, 动词, [心肠, 兴奋, 激励], "使振奋").
+entry(激励, v, [激励了,激励着,激励], "给予勇气").
+entry(火炉, n, [火炉], "壁炉的底部").
+entry(热情, adj, [], "更加热情 最热情 非常友好 热情地 adv").
+条目(hearty, n, [hearties], "一个伙伴")。
+条目(heat, v, [het, heating, heats], "使温热可加热的 adj")。
+entry(激烈地, 副词, [], "以激动或兴奋的方式").
+entry(加热器, 名词, [加热器们], "用于加热的装置").
+词条(石南, 名词, [石楠], "一种常绿灌木").
+入口(异教徒, 名词, [异教徒们], "一个不文明的人").
+entry(石南, n, [石南], "一种常绿灌木").
+entry(健康, 形容词, [], "HEATHIER HEATHIESTabounding in heath").
+entry(加热, n, [加热], "使某物变热的行为").
+词条(heatless, 形容词, [], "没有温暖").
+entry(heaume, n, [heaumes], "中世纪头盔").
+条目(提升, 动词, [推, 推动, 推动], "用力抬起")。
+入口(天堂, 名词, [诸天], "天空")。
+entry(天堂, 形容词, [], "更美丽和宁静的 最美丽和宁静的").
+entry(举重者, n, [举重者们], "起重的人").
+entry(更重的, 比较级, [], "重的").
+entry(heavies, pl, [], "的重").
+entry(起伏, 现在, [], "heave 的现在分词").
+entry(重, 形容词, [], "更重 最重有很多重量沉重地 副词").
+entry(重的, n, [重物], "一个坏人").
+entry(heavyish, 形容词, [], "有点重").
+```prolog
+entry(重型的, 形容词, [], "结实地建造的健壮").
+```
+```
+条目(七日, n, [七日], "七的数字").
+```
+```prolog
+entry(迟钝, v, [迟钝了, 使迟钝, 迟钝的], "使迟钝").
+```
+entry(青春期的, 形容词, [], "关于青春期").
+```prolog
+entry(迟钝, n, [迟钝]，"精神迟钝")。
+```
+入口(希伯来化, 动词, [希伯来化了, 正在希伯来化, 希伯来化], "使之希伯来化").
+entry(大屠杀, n, [大屠杀], "一个巨大的牺牲或屠杀").
+条目(heck, n, [hecks], "地狱，一种痛苦的地方或状态")
+entry(heckle, v, [起哄, 起哄中, 起哄], "骚扰演讲者").
+entry(捣乱者, n, [捣乱者们], "一个捣乱的人").
+表项(公顷, 名词, [公顷], "面积单位").
+entry(忙乱, 形容词, [], "充满动荡HECTICLY 副词").
+entry(忙乱的, n, [忙乱的人], "一种伴有脸颊潮红的发烧症状").
+条目(hectical, 形容词, [], "忙乱的").
+entry(赫克托尔, 动词, [霸凌了, 霸凌着, 霸凌], "欺负").
+entry(综片, n, [综片], "织布机的一部分").
+entry(heder, n, [heders], "或 HADARIM 或 HEDARIMa 犹太学校")
+entry(树篱, 动词, [环绕, 围住], "用树篱（密集的灌木行）围住").
+entry(刺猬, n, [刺猬们], "一种小型哺乳动物").
+入口(hedgehop, 动词, [hedgehopped, hedgehopping, hedgehops], "贴近地面飞行")。
+入口(刺猬, n, [刺猬们], "一种刺猬").
+条目(hedger, n, [hedgers], "一个对冲的人").
+entry(灌木丛, n, [灌木丛], "一行灌木").
+entry(对冲, 现在, [], "对冲的分词").
+entry(hedgy, adj, [], "充满树篱的").
+词条(hedonic, 形容词, [], "与快乐有关").
+entry(享乐学, 复数名词, [], "心理学的一个分支").
+entry(享乐主义, n, [享乐主义们], "对快乐的追求").
+entry(享乐主义者, n, [享乐主义者], "享乐主义的追随者").
+条目(注意, 动词, [注意了, 正在注意, 注意], "注意").
+entry(听者, n, [听者们], "注意的人").
+注意事项(heedful, 形容词, [], "密切注意").
+entry(heedless, 形容词, [], "几乎或完全不注意").
+entry(驢叫, 动词, [驢叫的,驢叫中,驢叫], "大笑").
+入口(鞋跟, v, [鞋跟固定了, 鞋跟调整中, 鞋跟], "提供鞋跟, 鞋的凸起部分")。
+```prolog
+entry(鞋膏, n, [鞋膏], "一种用于抛光的配制品").
+```
+条目(鞋匠, n, [鞋匠们], "给鞋装上鞋跟的人").
+entry(倾斜, n, [倾斜], "侧向倾斜的行为").
+entry(无跟, 形容词, [], "缺乏鞋跟").
+entry(heelpost, n, [足跟柱], "安装在某物末端的柱子").
+`entry(鞋后掌, n, [鞋后掌], "鞋跟上的材料").`
+entry(赫兹, 动词, [嗝嗤,嗝嗤着,嗝嗤], "提升").
+entry(笨重, v, [笨重的,笨重着,笨重之物], "提起").
+入口(hefter, n, [hefters], "one that hefts").
+entry(笨重的, 形容词, [], "较重的 重物 HEAVY 沉重地 副词").
+entry(hegari, n, [hegaris], "一种谷物").
+entry(霸主, 名词, [霸主们], "拥有霸权的政治国家").
+词条(霸权, 名词, [霸权], "巨大权威").
+entry(迁徙, n, [迁徙们], "一次大规模迁移").
+entry(修道院长, n, [修道院长们], "修道院的负责人").
+entry(尼姑长, n, [尼姑长们], "女修道院的负责人").
+entry(修道院院长职务, n, [修道院院长职务], "修道院院长的职务").
+entry(嘿, n, [嘿s], "一个希伯来字母").
+entry(小母牛, n, [小母牛], "一头年轻的母牛").
+条目(嘿, 感叹词, [], "用于引起注意").
+entry(高度, n, [高度们], "最高点").
+entry(提高, 动词, [提高了, 提高中, 提高], "提高").
+entry(高度, n, [高度们], "高度").
+entry(heil, v, [heiled,heiling,heils], "致敬").
+条目(heimish, 形容词, [], "haimish").
+条目(heinie, n, [heinies], "臀部").
+entry(极其恶劣, 形容词, [], "非常邪恶").
+entry(继承者, v, [继承了, 继承中, 继承者们], "继承").
+条目(继承权, n, [继承权们], "继承权").
+entry(承袭女, n, [承袭女们], "女性继承者").
+entry(无继承人, 形容词, [], "没有继承者").
+entry(传家宝, 名词, [传家宝们], "遗传下来的财富").
+entry(继承权, n, [继承权们], "继承的权利").
+条目(黑石, 名词复数, [], "用贝壳制成的小珠子").
+entry(抢劫, v, [抢劫了,正在抢劫,抢劫], "偷窃").
+entry(劫匪, n, [劫匪们], "进行抢劫的人").
+entry(希吉拉, n, [希吉拉们], "弥格拉").
+条目(公顷, n, [公顷], "hectare").
+entry(保持, 过去, [], "持有的时态").
+entry(菊属植物, n, [菊属植物], "一种有菊花状花朵的植物").
+entry(heliac, adj, [], "太阳升起的时刻的").
+entry(太阳的, 形容词, [], "关于太阳的").
+entry(陪审员, n, [陪审员], "一名雅典法官").
+词条(螺旋, 形容词, [], "形状像螺旋").
+条目(螺旋, a, [], "螺旋的复数").
+`词条(螺旋性, n, [螺旋性], "粒子自旋的一个组成部分").`
+入口（螺旋面，名词，[螺旋面]，“一种几何表面”）。
+entry(大号, n, [大号], "一种大型低音大号").
+entry(直升机, v, [搭乘直升机, 正在搭乘直升机, 搭乘直升机们], "乘坐直升机旅行").
+entry(直升机运输, v, [直升机运输过, 直升机运输中, 直升机运输], "用直升机运输").
+入口(helio, n, [helios], "一个信号镜")。
+入口(直升机场, 名词, [直升机场], "一个直升机场")。
+入口(直升机机场, n, [直升机机场们], "一个用于直升机的机场")。
+entry(直升機滑雪, v, [直升機滑雪過去式,直升機滑雪進行時,直升機滑雪單數第三人稱], "乘坐直升機到達的山上滑雪").
+入口(直升机场, n, [直升机场], "一个直升机场")。
+条目(直升机灭火, 名词, [直升机灭火], "利用直升机扑灭森林火灾的行动")。
+入口(氦, 名词, [氦气], "一种气体元素")。
+条目(螺旋, n, [螺旋体], "或 螺旋体某物的形式是螺旋").
+entry(地狱, v, [地狱了,地狱中,地狱们], "表现得喧闹地").
+条目(hellbent, 形容词, [], "固执地决心").
+entry(hellbox, n, [地狱箱], "印刷工的接收器").
+入口(hellcat, n, [hellcats], "一个凶悍的人物")。
+entry(海勒, 名词, [海勒们], "一个顽童")。
+条目(helleri, n, [helleris], "或一种 HELLERIES 热带鱼").
+entry(hellery, n, [helleries], "粗暴的游戏").
+入口(地狱之火, 名词, [地狱之火], "地狱的折磨，一个极度痛苦的地方")。
+entry(地狱洞, n, [地狱洞们], "一个可怕的地方").
+entry(麻烦制造者, n, [麻烦制造者们], "一个令人头疼的人").
+入口(地狱的, 形容词, [], "可怕的").
+入门(hellkite, 名词, [hellkites], "一个残忍的人").
+entry(你好, v, [打了招呼,正在打招呼,打招呼], "或 HELLOES打招呼")。
+条目(helluva, 形容词, [], "令人不快的").
+entry(地狱方向, 副词, [], "向地狱一个极度痛苦的地方").
+条目(舵, v, [掌舵, 驾舵中, 掌舵], "驾驶船只")。
+entry(头盔, v, [带上头盔,配戴头盔中,头盔们], "为头部提供保护罩，用头盔装备").
+entry(寄生虫, n, [寄生虫], "一种蠕虫").
+entry(helmless, 形容词, [], "缺乏舵系统").
+entry(舵手, n, [舵手们], "驾驶船只的人").
+entry(直升机, 名词, [直升机们], "一种直升飞机").
+entry(奴隶, n, [奴隶], "奴隶或农奴").
+entry(奴隶制度, 名词, [奴隶制度们], "奴隶制")
+条目(helotism, 名词, [helotisms], "奴隶制或农奴制")。
+条目(奴隶制度, n, [奴隶制度们], "奴隶主义").
+```prolog
+入口(帮助, 动词, [帮助过的, 帮助中, 帮助们], "给予帮助的HELPABLE 形容词")。
+```
+entry(helpdesk, n, [帮助台], "一个帮助客户解决问题的服务")。
+entry(帮手, n, [帮手们], "一个帮助别人的人").
+entry(乐于助人, 形容词, [], "提供服务或帮助的").
+entry(帮助, n, [份], "食物的一部分").
+entry(无助, 形容词, [], "无防御").
+entry(求助热线, n, [求助热线], "提供建议的电话服务").
+entry(助手, n, [助手们], "一个有帮助的同伴").
+entry(助手, n, [助手], "帮手").
+entry(铸模, v, [铸模过,铸模中,铸模], "提供手柄").
+入口(hem, v, [hemmed, hemming, hems], "提供边缘").
+entry(血流促进剂, n, [血流促进剂们], "一种促进血液流动的物质").
+entry(hemal, 形容词, [], "与血液有关").
+词条(hematal, 形容词, [], "hemal").
+entry(苏木精, n, [苏木精们], "一种化合物").
+词条(血液的, 名词, [血液药], "一种治疗血液疾病的药物")。
+entry(血红素, n, [血红素s], "heme").
+词条(血素, 名词, [血素们], "亚铁血红素").
+entry(赤铁矿, n, [赤铁矿石], "一种铁矿石").
+entry(血样, 形容词, [], "类似于血液").
+entry(血肿, n, [血肿], "或 HEMATOMATA 充血的肿胀").
+条目(亚铁血红素, n, [亚铁血红素], "血红蛋白的组成部分").
+入口(hemic, 形容词, [], "血液的").
+entry(卟啉, n, [卟啉], "血红素的氯化物")。
+```prolog
+entry(切分音, n, [切分音们], "音乐中的节奏变化").
+```
+入口(hemiolia, n, [hemiolias], "hemiola")。
+entry(半翅目昆虫, n, [半翅目昆虫们], "一种昆虫").
+entry(下摆, n, [下摆边], "服装的底部边缘").
+入口(鐵杉, n, [鐵杉樹], "有毒的草本植物")。
+entry(hemmed, 过去式, [], "hem 的时态")。
+entry(hemmer, n, [hemmers], "缝边者")
+entry(hemming, 在场, [], "hem 的分词").
+entry(血腔, n, [血腔], "一个体腔").
+```prolog
+entry(血细胞, n, [血细胞们], "一种血细胞").
+```
+entry(血样的, 形容词, [], "血的").
+```prolog
+entry(溶血, v, [溶血的,溶血中,溶血], "分解红细胞").
+```
+```prolog
+entry(止血钳, n, [止血钳], "一种用于减少出血的工具").
+```
+条目(大麻, 名词, [大麻类], "一种高大的草本植物").
+条目(麻制, 形容词, [], "由大麻制成").
+entry(hempie, adj, [], "HEMPIER HEMPIESThempy")。
+条目(hempier, 比较级, [], "hempy的").
+entry(最淘气的, 最高级, [], "淘气的").
+`entry(hemp-like, 形容词, [], "类似于麻").`
+入口(麻籽, 名词, [麻籽], "大麻的种子")。
+entry(大麻草, n, [大麻草], "一种攀援植物").
+entry(顽皮的，形容词，[], "更顽皮 最顽皮恶作剧").
+入口(母鸡, 名词, [母鸡们], "一只雌性鸡").
+条目(颠茄, n, [颠茄属], "一种有毒的草本植物").
+入口(紫花地丁, 名词, [紫花地丁类], "一种多年生草本植物")。
+entry(因此, 副词, [], "结果").
+entry(打手, 名词, [打手们], "一个不择手段的支持者").
+entry(鸡舍, 名词, [鸡舍], "养鸡的笼子").
+entry(剑麻, n, [剑麻纤维], "用于制作绳索的纤维").
+entry(henequin, n, [henequins], "龙舌兰剑麻").
+entry(巨石阵, 名词, [巨石阵], "英国的一个青铜时代圆形结构").
+入口(鸡舍, 名词, [鸡舍], "家禽的庇护所").
+entry(龙舌兰, n, [龙舌兰纤维], "龙舌兰").
+入口(亨利, 名词, [亨利衫], "一种针织衬衫")。
+entry(母鸡般的, 形容词, [], "类似于母鸡").
+entry(指甲花, v, [染指甲花, 正在染指甲花, 染指甲花], "用红褐色染色").
+entry(家禽场, n, [家禽场], "家禽农场").
+entry(hennish, adj, [], "类似于母鸡").
+entry(唠叨, v, [唠叨着,唠叨,唠叨], "通过唠叨来支配").
+entry(亨利, n, [亨利斯], "或亨利是电感单位")
+entry(hent, v, [hented,henting,hents], "抓住").
+```prolog
+entry(肝炎, 形容词, [], "最时髦最时髦的").
+```
+entry(肝炎, n, [肝炎们], "肝炎是肝脏的炎症").
+条目(肝素, n, [肝素类], "一种生化物").
+entry(肝, n, [肝药], "作用于肝脏的药物").
+entry(肝草, n, [肝草属], "或 HEPATICAE 一种多年生草本植物").
+entry(肝化, v, [肝化的,肝化中,肝化], "将组织转化为坚实的块状").
+entry(肝癌, n, [肝癌], "或 HEPATOMATA 一种肝脏肿瘤")
+入口(爵士迷, 名词, [爵士迷们], "一个爵士乐爱好者")。
+entry(七重奏, n, [七重奏], "一组七个").
+entry(七边形, 名词, [七边形], "一个七边的多边形").
+entry(庚烷, n, [庚烷], "一种用作溶剂的碳氢化合物").
+entry(七君主, n, [七君主们], "七个统治者之一")。
+entry(庚糖, n, [庚糖], "一种化合物").
+entry(她, 代词, [], "代词 she 的宾格或所有格").
+条目(使者, 动词, [宣布, 宣告中, 宣告们], "宣布").
+entry(纹章学, 形容词, [], "与纹章学有关").
+条目(纹章学, 名词, [纹章学], "有关徽章和盾形纹章的艺术或科学").
+条目(草本植物, n, [草本植物], "一种具有非木质茎的开花植物").
+entry(草本植物, n, [草本植物], "草本植物生活非木本植物的 adj").
+```prolog
+entry(草药书, n, [草药书们], "一本关于草药和植物的书").
+```
+entry(植物标本馆, npl, [], "干燥植物的收藏品").
+条目(herbed, 形容词, [], "用香草调味")。
+条目(herbless, 形容词, [], "缺少草药").
+条目(草本状, 形容词, [], "类似草本植物").
+entry(herby, 形容词, [], "HERBIER HERBIEST充满草本植物的").
+entry(海格力斯, n, [海格力斯们], "任何体型巨大且力大无比的人").
+入口(herd, v, [herded,herding,herds], "把一群动物聚集成一个群").
+entry(牧人, n, [牧人们], "照看牧群的人").
+entry(马车, n, [马车], "一种马车").
+entry(畜牧, n, [畜牧活動], "照料或迁移家畜的工作").
+entry(群体似的, 形容词, [], "类似于一个群体").
+entry(牧人, n, [herdmen], "herdsman").
+entry(牧人, n, [牧人们], "一个牧民").
+入口(这里, n, [这里], "这个地方")。
+entry(此时, 副词, [], "at this time").
+entry(在这附近, 副词, [], "在这附近").
+entry(特此, 副词, [], "通过这种方式")。
+entry(heredes, pl, [], "的继承人")。
+entry(遗传, 名词, [遗传性], "特征的基因传递").
+在此(entry, 副词, [], "in this")。
+入口(hereinto, 副词, [], "进入这个地方")。
+entry(以下, 副词, [], "此").
+入口（hereon，副词，[]， "对此"）。
+entry(heres, n, [heredes], "继承人").
+entry(异端, n, [异端学说], "与教会教义相悖的信仰").
+entry(异端, n, [异端者], "坚持异端的人").
+entry(有关此事, 副词, [], "to this matter").
+`entry(heretrix, n, [heretrixes], "or HERETRICESheritrix").`
+entry(至此, 副词, [], "至此").
+立即以后条目副词([], "立即接着这").
+条目(此函, 副词, [], "随此一起").
+条目(heriot, n, [heriots], "一种封建贡品或付款").
+entry(遗产, n, [遗产], "继承的东西").
+entry(继承者, n, [继承者], "继承的人").
+entry(heritrix, n, [heritrixes], "或者 HERITRICES 女性继承者").
+entry(herl, n, [herls], "有羽毛的钓鱼诱饵").
+entry(赫耳墨斯, 名词, [赫耳墨斯像], "一种雕像类型").
+entry(herma, n, [hermae], "或 HERMAIa hermHERMAEAN 形容词").
+entry(密封的, 形容词, [], "密封的").
+entry(隐士, n, [隐士们], "离群者隐士的 adj").
+入口(隐居, n, [隐居生活], "隐士的状态").
+登录(hern, n, [herns], "一只苍鹭")。
+entry(疝气, n, [疝气], "或 HERNIAE器官突出其周围壁的情况疝气性 adj").
+entry(突出, v, [突出的,突出,突出], "通过异常的身体开口突出").
+entry(英雄, n, [英雄们], "或HEROES一个三明治")
+entry(英勇, n, [英勇事迹], "史诗般的诗").
+entry(英雄的, 形容词, [], "勇敢的 高贵的").
+入口(海洛因, n, [海洛因], "一种成瘾性麻醉品")。
+条目(女英雄, n, [女英雄们], "一个勇敢的女人")。
+entry(英勇, 名词, [英勇行为], "英雄行为").
+entry(英雄化, v, [英雄化了, 英雄化中, 英雄化], "使成为英雄").
+entry(苍鹭, n, [苍鹭], "一种涉水鸟").
+entry(鹭群, n, [鹭群], "鹭鸟繁殖的地方").
+entry(疱疹, n, [疱疹], "一种皮肤感染HERPETIC adj").
+entry(鲱鱼, n, [鲱鱼], "一种食用鱼").
+entry(哈里, v, [哈里了,哈里着,哈里们], "去骚扰").
+入口(她的, 代词, [], "她这个代词的所有格形式")。
+entry(她自己, 代词, [], "第三人称单数女性代词的一种形式").
+entry(她故事, n, [她故事], "带有女权主义观点的历史").
+入口(赫兹, n, [赫兹], "一种频率单位")。
+entry(犹豫, 形容词, [], "倾向于犹豫").
+entry(犹豫, 动词, [犹豫了, 正在犹豫, 犹豫], "在不确定中退缩").
+entry(粗呢, n, [粗呢们], "一种粗糙的布料").
+entry(赫赛石, n, [赫赛石], "一种矿物").
+entry(马, n, [马], "一个命令").
+entry(希伯来字母, n, [希伯来字母的复数形式], "希伯来字母文本形式").
+entry(hetaera, n, [hetaeras], "或 HETAERAEa 妾HETAERIC 形容词").
+entry(hetaira, n, [hetairas], "或 HETAIRAIhetaera")。
+entry(异性恋, n, [异性恋者], "异性恋者").
+entry(赫斯, n, [赫斯们], "一个希伯来字母").
+entry(哥萨克领袖, n, [哥萨克领袖们], "一个哥萨克的领袖").
+entry(悬崖, n, [悬崖s], "heugh").
+entry(heuchera, n, [heucheras], "一种北美植物").
+```prolog
+entry(iamb, n, [iambs], "a type of metrical footIAMBIC n pl IAMBICSan iambIAMBUS n pl IAMBUSES or IAMBIan iambIATRIC adj pertaining to medicineIATRICAL adj iatricIBEX n pl IBEXES or IBICESa wild goatIBIDEM adv in the same placeIBIS n pl IBISESa wading birdIBOGAINE n pl IBOGAINESan alkaloid used as an antidepressantICE v ICED ICING ICESto cover with ice frozen waterICEBERG n pl ICEBERGSa large floating body of iceICEBLINK n pl ICEBLINKSa glare over an icefieldICEBOAT v ICEBOATED ICEBOATING ICEBOATSto travel in a vehicle that sails on iceICEBOUND adj surrounded by iceICEBOX n pl ICEBOXESa cabinet for cooling foodICECAP n pl ICECAPSa covering of ice and snowICED past tense of iceICEFALL n pl ICEFALLSa kind of frozen waterfallICEFIELD n pl ICEFIELDSa large area of iceICEFISH v ICEFISHED ICEFISHING ICEFISHESto fish through holes in the ice on a lake or riverICEHOUSE n pl ICEHOUSESa building for storing iceICEKHANA n pl ICEKHANASan automotive event held on a frozen lakeICELESS adj having no iceICELIKE adj resembling iceICEMAKER n pl ICEMAKERSan appliance that makes iceICEMAN n pl ICEMENa man who supplies iceICESCAPE n pl ICESCAPESlandscape covered with iceICEWINE n pl ICEWINESsweet wine made from grapes frozen on the vineICEWORM n pl ICEWORMSa small worm found in glaciersICH n pl ICHSa disease of certain fishesICHNITE n pl ICHNITESa fossil footprintICHOR n pl ICHORSa watery discharge from a woundICHOROUS adjICHTHYIC adj pertaining to fishesICICLE n pl ICICLESa hanging spike of iceICICLED adjICIER comparative of icyICIEST superlative of icyICILY adv in an icy mannerICINESS n pl ICINESSESthe state of being icyICING n pl ICINGSa sweet mixture for covering cakesICK n pl ICKSsomething sticky or disgustingICKER n pl ICKERSa head of grainICKINESS n pl ICKINESSESthe state of being ickyICKY adj ICKIER ICKIESTrepulsiveICKILY advICON n pl ICONS or ICONESa representationICONIC ICONICAL adjICTERIC n pl ICTERICSa remedy for icterusICTERUS n pl ICTERUSESa diseased condition of the liverICTUS n pl ICTUSESa recurring stress or beat in a poetical formICTIC adjICY adj ICIER ICIESTcovered with iceID n pl IDSa part of the psycheIDEA n pl IDEASa conception existing in the mindIDEALESS adjIDEAL n pl IDEALSa standard of perfectionIDEALISE v IDEALISED IDEALISING IDEALISESto idealizeIDEALISM n pl IDEALISMSthe pursuit of noble goalsIDEALIST n pl IDEALISTSan adherent of idealismIDEALITY n pl IDEALITIESthe state of being perfect something idealizedIDEALIZE v IDEALIZED IDEALIZING IDEALIZESto regard as perfectIDEALLY adv perfectlyIDEALOGY n pl IDEALOGIESideologyIDEATE v IDEATED IDEATING IDEATESto form an ideaIDEATION n pl IDEATIONSthe act of ideatingIDEATIVE adj pertaining to ideationIDEM adj the sameIDENT n pl IDENTSidentificationIDENTIC adj identicalIDENTIFY v IDENTIFIED IDENTIFYING IDENTIFIESto establish the identity ofIDENTITY n pl IDENTITIESthe essential character of a person or thingIDEOGRAM n pl IDEOGRAMSa type of written symbolIDEOLOGY n pl IDEOLOGIESa systematic body of ideasIDES n pl IDESa certain day in the ancient Roman calendarIDIOCY n pl IDIOCIESthe condition of being an idiotIDIOLECT n pl IDIOLECTSones speech patternIDIOM n pl IDIOMSan expression peculiar to a languageIDIOT n pl IDIOTSa mentally deficient personIDIOTIC adjIDIOTISM n pl IDIOTISMSidiocyIDIOTYPE n pl IDIOTYPESa structure of an antibodyIDLE adj IDLER IDLESTinactiveIDLE v IDLED IDLING IDLESto pass time idlyIDLENESS n pl IDLENESSESthe state of being idleIDLER n pl IDLERSone that idlesIDLESSE n pl IDLESSESidlenessIDLEST superlative of idleIDLING present participle of idleIDLY adv in an idle mannerIDOCRASE n pl IDOCRASESa mineralIDOL n pl IDOLSan object of worshipIDOLATER n pl IDOLATERSone that worships idolsIDOLATOR n pl IDOLATORSidolaterIDOLATRY n pl IDOLATRIESthe worship of idolsIDOLISE v IDOLISED IDOLISING IDOLISESto idolizeIDOLISER n pl IDOLISERSone that idolisesIDOLISM n pl IDOLISMSidolatryIDOLIZE v IDOLIZED IDOLIZING IDOLIZESto worshipIDOLIZER n pl IDOLIZERSone that idolizesIDONEITY n pl IDONEITIESthe state of being idoneousIDONEOUS adj suitableIDYL n pl IDYLSa poem or prose work depicting scenes of rural simplicityIDYLIST n pl IDYLISTSa writer of idylsIDYLL n pl IDYLLSidylIDYLLIC adjIDYLLIST n pl IDYLLISTSidylistIF n pl IFSa possibilityIFF conj if and only ifIFFINESS n pl IFFINESSESthe state of being iffyIFFY adj IFFIER IFFIESTfull of uncertaintyIFFILY advIGG v IGGED IGGING IGGSto ignoreIGLOO n pl IGLOOSan Inuit dwellingIGLU n pl IGLUSiglooIGNATIA n pl IGNATIASa medicinal seedIGNEOUS adj pertaining to fireIGNIFY v IGNIFIED IGNIFYING IGNIFIESto burnIGNITE v IGNITED IGNITING IGNITESto set on fireIGNITER n pl IGNITERSone that ignitesIGNITION n pl IGNITIONSthe act of ignitingIGNITOR n pl IGNITORSigniterIGNITRON n pl IGNITRONSa type of rectifier tubeIGNOBLE adj IGNOBLER IGNOBLESTof low characterIGNOBLY advIGNOMINY n pl IGNOMINIESdisgrace or dishonorIGNORAMI npl utterly ignorant personsIGNORANT adj having no knowledgeIGNORE v IGNORED IGNORING IGNORESto refuse to noticeIGNORER n pl IGNORERSone that ignoresIGUANA n pl IGUANASa tropical lizardIGUANIAN n pl IGUANIANSa lizard related to the iguanaIGUANID n pl IGUANIDSa longtailed lizardIHRAM n pl IHRAMSthe garb worn by Muslim pilgrimsIKAT n pl IKATSa fabric of tiedyed yarnsIKEBANA n pl IKEBANASthe Japanese art of flower arrangingIKON n pl IKONSiconILEA pl of ileumILEAC adj pertaining to the ileumILEAL adj ileacILEITIS n pl ILEITIDES or ILEITISESinflammation of the ileumILEUM n pl ILEAa part of the small intestineILEUS n pl ILEUSESintestinal obstructionILEX n pl ILEXESa hollyILIA pl of iliumILIAC adj pertaining to the iliumILIAD n pl ILIADSa long poemILIAL adj iliacILIUM n pl ILIAa bone of the pelvisILK n pl ILKSa class or kindILKA adj eachILL adj ILLER ILLESTnot wellILL n pl ILLSan evilILLATION n pl ILLATIONSthe act of inferringILLATIVE n pl ILLATIVESa word or phrase introducing an inferenceILLEGAL n pl ILLEGALSa person who enters a country without authorizationILLICIT adj not permittedILLINIUM n pl ILLINIUMSa radioactive elementILLIQUID adj not being cashILLITE n pl ILLITESa group of mineralsILLITIC adjILLNESS n pl ILLNESSESsicknessILLOGIC n pl ILLOGICSabsence of logicILLUDE v ILLUDED ILLUDING ILLUDESto deceiveILLUME v ILLUMED ILLUMING ILLUMESto illuminateILLUMINE v ILLUMINED ILLUMINING ILLUMINESto illuminateILLUSION n pl ILLUSIONSa false perceptionILLUSIVE adj illusoryILLUSORY adj based on illusionILLUVIUM n pl ILLUVIUMS or ILLUVIAa type of material accumulated in soilILLUVIAL adjILLY adv badlyILMENITE n pl ILMENITESa mineralIMAGE v IMAGED IMAGING IMAGESto imagineIMAGER n pl IMAGERSone that imagesIMAGERY n pl IMAGERIESmental picturesIMAGINAL adj pertaining to an imagoIMAGINE v IMAGINED IMAGINING IMAGINESto form a mental picture ofIMAGINER n pl IMAGINERSone that imaginesIMAGING n pl IMAGINGSthe action of producing a visible representationIMAGINING present participle of imagineIMAGISM n pl IMAGISMSa movement in poetryIMAGIST n pl IMAGISTSan adherent of imagismIMAGO n pl IMAGOS or IMAGOESan adult insectIMAM n pl IMAMSa Muslim priestIMAMATE n pl IMAMATESthe office of an imamIMARET n pl IMARETSa Turkish innIMAUM n pl IMAUMSimamIMBALM v IMBALMED IMBALMING IMBALMSto embalmIMBALMER n pl IMBALMERSembalmerIMBARK v IMBARKED IMBARKING IMBARKSto embarkIMBECILE n pl IMBECILESa mentally deficient personIMBED v IMBEDDED IMBEDDING IMBEDSto embedIMBIBE v IMBIBED IMBIBING IMBIBESto drinkIMBIBER n pl IMBIBERSone that imbibesIMBITTER v IMBITTERED IMBITTERING IMBITTERSto embitterIMBLAZE v IMBLAZED IMBLAZING IMBLAZESto emblazeIMBODY v IMBODIED IMBODYING IMBODIESto embodyIMBOLDEN v IMBOLDENED IMBOLDENING IMBOLDENSto emboldenIMBOSOM v IMBOSOMED IMBOSOMING IMBOSOMSto embosomIMBOWER v IMBOWERED IMBOWERING IMBOWERSto embowerIMBROWN v IMBROWNED IMBROWNING IMBROWNSto embrownIMBRUE v IMBRUED IMBRUING IMBRUESto stainIMBRUTE v IMBRUTED IMBRUTING IMBRUTESto make brutalIMBUE v IMBUED IMBUING IMBUESto make thoroughly wetIMID n pl IMIDSimideIMIDE n pl IMIDESa chemical compoundIMIDIC adjIMIDO adj containing an imideIMINE n pl IMINESa chemical compoundIMINO adj containing an imineIMITABLE adj capable of being imitatedIMITATE v IMITATED IMITATING IMITATESto behave in the same way asIMITATOR n pl IMITATORSone that imitatesIMMANE adj great in sizeIMMANENT adj existing withinIMMATURE n pl IMMATURESan individual that is not fully grown or developedIMMENSE adj IMMENSER IMMENSESTgreat in sizeIMMERGE v IMMERGED IMMERGING IMMERGESto immerseIMMERSE v IMMERSED IMMERSING IMMERSESto plunge into a liquidIMMESH v IMMESHED IMMESHING IMMESHESto enmeshIMMIES pl of immyIMMINENT adj ready to take placeIMMINGLE v IMMINGLED IMMINGLING IMMINGLESto blendIMMIX v IMMIXED IMMIXING IMMIXESto mix inIMMOBILE adj incapable of being movedIMMODEST adj not modestIMMOLATE v IMMOLATED IMMOLATING IMMOLATESto kill as a sacrificeIMMORAL adj contrary to established moralityIMMORTAL n pl IMMORTALSone who is not subject to deathIMMOTILE adj lacking mobilityIMMUNE n pl IMMUNESone who is protected from a diseaseIMMUNISE v IMMUNISED IMMUNISING IMMUNISESto immunizeIMMUNITY n pl IMMUNITIESthe state of being protected from a diseaseIMMUNIZE v IMMUNIZED IMMUNIZING IMMUNIZESto protect from a diseaseIMMURE v IMMURED IMMURING IMMURESto imprisonIMMY n pl IMMIESa type of playing marbleIMP v IMPED IMPING IMPSto graft feathers onto a birds wingIMPACT v IMPACTED IMPACTING IMPACTSto pack firmly togetherIMPACTER n pl IMPACTERSone that impactsIMPACTOR n pl IMPACTORSimpacterIMPAINT v IMPAINTED IMPAINTING IMPAINTSto paint or depictIMPAIR v IMPAIRED IMPAIRING IMPAIRSto make worseIMPAIRER n pl IMPAIRERSone that impairsIMPALA n pl IMPALASan African antelopeIMPALE v IMPALED IMPALING IMPALESto pierce with a pointed objectIMPALER n pl IMPALERSone that impalesIMPANEL v IMPANELED IMPANELING IMPANELS or IMPANELLED IMPANELLING IMPANELSto enter on a list for jury dutyIMPARITY n pl IMPARITIESlack of equalityIMPARK v IMPARKED IMPARKING IMPARKSto confine in a parkIMPART v IMPARTED IMPARTING IMPARTSto make knownIMPARTER n pl IMPARTERSone that impartsIMPASSE n pl IMPASSESa road or passage having no exitIMPASTE v IMPASTED IMPASTING IMPASTESto make into a pasteIMPASTO n pl IMPASTOSa painting techniqueIMPAVID adj braveIMPAWN v IMPAWNED IMPAWNING IMPAWNSto pawnIMPEACH v IMPEACHED IMPEACHING IMPEACHESto charge with misconduct in officeIMPEARL v IMPEARLED IMPEARLING IMPEARLSto make pearlyIMPEDE v IMPEDED IMPEDING IMPEDESto obstruct the progress ofIMPEDER n pl IMPEDERSone that impedesIMPEL v IMPELLED IMPELLING IMPELSto force into actionIMPELLER n pl IMPELLERSone that impelsIMPELLOR n pl IMPELLORSimpellerIMPEND v IMPENDED IMPENDING IMPENDSto be imminentIMPERIA a pl of imperiumIMPERIAL n pl IMPERIALSan emperor or empressIMPERIL v IMPERILED IMPERILING IMPERILS or IMPERILLED IMPERILLING IMPERILSto place in jeopardyIMPERIUM n pl IMPERIUMS or IMPERIAabsolute powerIMPETIGO n pl IMPETIGOSa skin diseaseIMPETUS n pl IMPETUSESan impelling forceIMPHEE n pl IMPHEESan African grassIMPI n pl IMPISa body of warriorsIMPIETY n pl IMPIETIESlack of pietyIMPING n pl IMPINGSthe process of graftingIMPINGE v IMPINGED IMPINGING IMPINGESto collideIMPINGER n pl IMPINGERSone that impingesIMPIOUS adj not piousIMPISH adj mischievousIMPISHLY advIMPLANT v IMPLANTED IMPLANTING IMPLANTSto set securelyIMPLEAD v IMPLEADED or IMPLED IMPLEADING IMPLEADSto sue in a court of lawIMPLEDGE v IMPLEDGED IMPLEDGING IMPLEDGESto pawnIMPLICIT adj impliedIMPLIED past tense of implyIMPLIES present 3d person sing of implyIMPLODE v IMPLODED IMPLODING IMPLODESto collapse inwardIMPLORE v IMPLORED IMPLORING IMPLORESto beg for urgentlyIMPLORER n pl IMPLORERSone that imploresIMPLY v IMPLIED IMPLYING IMPLIESto indicate or suggest indirectlyIMPOLICY n pl IMPOLICIESan unwise course of actionIMPOLITE adj not politeIMPONE v IMPONED IMPONING IMPONESto wagerIMPOROUS adj extremely denseIMPORT v IMPORTED IMPORTING IMPORTSto bring into a country from abroadIMPORTER n pl IMPORTERSone that importsIMPOSE v IMPOSED IMPOSING IMPOSESto establish as compulsoryIMPOSER n pl IMPOSERSone that imposesIMPOST v IMPOSTED IMPOSTING IMPOSTSto determine customs dutiesIMPOSTER n pl IMPOSTERSimpostorIMPOSTOR n pl IMPOSTORSone that poses as another for deceptive purposesIMPOTENT n pl IMPOTENTSone that is powerlessIMPOUND v IMPOUNDED IMPOUNDING IMPOUNDSto seize and retain in legal custodyIMPOWER v IMPOWERED IMPOWERING IMPOWERSto empowerIMPREGN v IMPREGNED IMPREGNING IMPREGNSto make pregnantIMPRESA n pl IMPRESASa type of emblemIMPRESE n pl IMPRESESimpresaIMPRESS v IMPRESSED IMPRESSING IMPRESSESto affect stronglyIMPREST n pl IMPRESTSa loan or advance of moneyIMPRIMIS adv in the first placeIMPRINT v IMPRINTED IMPRINTING IMPRINTSto produce a mark by pressureIMPRISON v IMPRISONED IMPRISONING IMPRISONSto confineIMPRO n pl IMPROSimprovIMPROPER adj not properIMPROV n pl IMPROVSimprovisationIMPROVE v IMPROVED IMPROVING IMPROVESto make betterIMPROVER n pl IMPROVERSone that improvesIMPUDENT adj offensively bold or disrespectfulIMPUGN v IMPUGNED IMPUGNING IMPUGNSto make insinuations againstIMPUGNER n pl IMPUGNERSone that impugnsIMPULSE v IMPULSED IMPULSING IMPULSESto give impetus toIMPUNITY n pl IMPUNITIESexemption from penaltyIMPURE adj IMPURER IMPURESTnot pureIMPURE adj not pureIMPURELY advIMPURITY n pl IMPURITIESsomething that is impureIMPUTE v IMPUTED IMPUTING IMPUTESto credit to a person or a causeIMPUTER n pl IMPUTERSone that imputesIN v INNED INNING INSto harvestINACTION n pl INACTIONSlack of actionINACTIVE adj not activeINANE adj INANER INANESTnonsensicalINANELY advINANE n pl INANESempty spaceINANITY n pl INANITIESsomething that is inaneINAPT adj not aptINAPTLY advINARABLE adj not arableINARCH v INARCHED INARCHING INARCHESto graft with in a certain wayINARM v INARMED INARMING INARMSto encircle with the armsINASMUCH adv to the extent thatINBEING n pl INBEINGSthe state of being inherentINBOARD n pl INBOARDSa type of boat motorINBORN adj existing in one from birthINBOUND v INBOUNDED INBOUNDING INBOUNDSto put a basketball in play from out of boundsINBOUNDS adj being within certain boundariesINBOX n pl INBOXESa window in which electronic mail is displayedINBRED n pl INBREDSa product of inbreedingINBREED v INBRED INBREEDING INBREEDSto breed closely related stockINBUILT adj forming an integral part of a structureINBURST n pl INBURSTSthe act of bursting inwardINBY adv inwardINBYE adv inbyINCAGE v INCAGED INCAGING INCAGESto encageINCANT v INCANTED INCANTING INCANTSto utter rituallyINCASE v INCASED INCASING INCASESto encaseINCENSE v INCENSED INCENSING INCENSESto make angryINCENT v INCENTED INCENTING INCENTSto provide with an incentiveINCENTER n pl INCENTERSthe point where the three lines bisecting the angles of a triangle meetINCEPT v INCEPTED INCEPTING INCEPTSto take inINCEPTOR n pl INCEPTORSone that inceptsINCEST n pl INCESTSsexual intercourse between closely related personsINCH v INCHED INCHING INCHESto move very slowlyINCHER n pl INCHERSsomething having a specified number of inchesINCHMEAL adv little by littleINCHOATE adj being in an early stageINCHWORM n pl INCHWORMSa type of wormINCIDENT n pl INCIDENTSan eventINCIPIT n pl INCIPITSthe opening words of a textINCISAL adj being the cutting edge of a toothINCISE v INCISED INCISING INCISESto cut intoINCISION n pl INCISIONSthe act of incisingINCISIVE adj penetratingINCISOR n pl INCISORSa cutting toothINCISORY adj adapted for cuttingINCISURE n pl INCISURESa notch or cleft of a body partINCITANT n pl INCITANTSsomething that incitesINCITE v INCITED INCITING INCITESto arouse to actionINCITER n pl INCITERSone that incitesINCIVIL adj discourteousINCLASP v INCLASPED INCLASPING INCLASPSto enclaspINCLINE v INCLINED INCLINING INCLINESto slantINCLINER n pl INCLINERSone that inclinesINCLIP v INCLIPPED INCLIPPING INCLIPSto claspINCLOSE v INCLOSED INCLOSING INCLOSESto encloseINCLOSER n pl INCLOSERSone that inclosesINCLUDE v INCLUDED INCLUDING INCLUDESto have as a partINCOG n pl INCOGSa disguised personINCOME n pl INCOMESa sum of money earned regularlyINCOMER n pl INCOMERSone that comes inINCOMING n pl INCOMINGSan arrivalINCONNU n pl INCONNUSa large food fishINCONY adj prettyINCORPSE v INCORPSED INCORPSING INCORPSESto become combined withINCREASE v INCREASED INCREASING INCREASESto make or become greaterINCREATE adj not createdINCROSS v INCROSSED INCROSSING INCROSSESto inbreedINCRUST v INCRUSTED INCRUSTING INCRUSTSto encrustINCUBATE v INCUBATED INCUBATING INCUBATESto warm eggs for hatchingINCUBUS n pl INCUBUSES or INCUBIa demonINCUDAL adj pertaining to the incusINCUDATE adj incudalINCUDES pl of incusINCULT adj uncultivatedINCUMBER v INCUMBERED INCUMBERING INCUMBERSto encumberINCUR v INCURRED INCURRING INCURSto bring upon oneselfINCURVE v INCURVED INCURVING INCURVESto curve inwardINCUS n pl INCUDESa bone in the middle earINCUSE v INCUSED INCUSING INCUSESto mark by stampingINDABA n pl INDABASa meeting of South African tribesINDAGATE v INDAGATED INDAGATING INDAGATESto investigateINDAMIN n pl INDAMINSindamineINDAMINE n pl INDAMINESa chemical compoundINDEBTED adj owing something to anotherINDECENT adj INDECENTER INDECENTESTnot decentINDEED adv in truthINDEEDY interj  used to emphasize an affirmativeINDENE n pl INDENESa hydrocarbonINDENT v INDENTED INDENTING INDENTSto cut or tear irregularlyINDENTER n pl INDENTERSone that indentsINDENTOR n pl INDENTORSindenterINDEVOUT adj not devoutINDEX n pl INDEXES or INDICESa type of reference guide at the end of a bookINDEX v INDEXED INDEXING INDEXESto provide with an indexINDEXER n pl INDEXERSone that indexesINDEXING n pl INDEXINGSthe linking of wages and prices to costofliving levelsINDICAN n pl INDICANSa chemical compoundINDICANT n pl INDICANTSsomething that indicatesINDICATE v INDICATED INDICATING INDICATESto point outINDICES a pl of indexINDICIA n pl INDICIASa distinctive markINDICIUM n pl INDICIUMSan indiciaINDICT v INDICTED INDICTING INDICTSto charge with a crimeINDICTEE n pl INDICTEESone that is indictedINDICTER n pl INDICTERSone that indictsINDICTOR n pl INDICTORSindicterINDIE n pl INDIESa person who is independentINDIGEN n pl INDIGENSindigeneINDIGENE n pl INDIGENESa nativeINDIGENT n pl INDIGENTSa needy personINDIGN adj disgracefulINDIGNLY advINDIGO n pl INDIGOS or INDIGOESa blue dyeINDIGOID n pl INDIGOIDSa blue dyeINDIRECT adj not directINDITE v INDITED INDITING INDITESto write or composeINDITER n pl INDITERSone that inditesINDIUM n pl INDIUMSa metallic elementINDOCILE adj not docileINDOL n pl INDOLSindoleINDOLE n pl INDOLESa chemical compoundINDOLENT adj lazyINDOOR adj pertaining to the interior of a buildingINDOORS adv in or into a houseINDORSE v INDORSED INDORSING INDORSESto endorseINDORSEE n pl INDORSEESendorseeINDORSER n pl INDORSERSendorserINDORSING present participle of indorseINDORSOR n pl INDORSORSendorsorINDOW v INDOWED INDOWING INDOWSto endowINDOXYL n pl INDOXYLSa chemical compoundINDRAFT n pl INDRAFTSan inward flow or currentINDRAWN adj drawn inINDRI n pl INDRISa shorttailed lemurINDUCE v INDUCED INDUCING INDUCESto influence into doing somethingINDUCER n pl INDUCERSone that inducesINDUCT v INDUCTED INDUCTING INDUCTSto bring into military serviceINDUCTEE n pl INDUCTEESone that is inductedINDUCTOR n pl INDUCTORSone that inductsINDUE v INDUED INDUING INDUESto endueINDULGE v INDULGED INDULGING INDULGESto yield to the desire ofINDULGER n pl INDULGERSone that indulgesINDULIN n pl INDULINSindulineINDULINE n pl INDULINESa blue dyeINDULT n pl INDULTSa privilege granted by the popeINDUNA n pl INDUNASa tribal overseer in AfricaINDURATE v INDURATED INDURATING INDURATESto make hardINDUSIUM n pl INDUSIAan enclosing membraneINDUSIAL adjINDUSTRY n pl INDUSTRIESa group of productive enterprisesINDWELL v INDWELT INDWELLING INDWELLSto live withinINEARTH v INEARTHED INEARTHING INEARTHSto buryINEDIBLE adj not fit to be eatenINEDIBLY advINEDITA npl unpublished literary worksINEDITED adj not publishedINEPT adj not suitableINEPTLY advINEQUITY n pl INEQUITIESunfairnessINERRANT adj free from errorINERT n pl INERTSsomething that lacks active propertiesINERTIA n pl INERTIAS or INERTIAEthe tendency of a body to resist accelerationINERTIAL adjINERTLY adv inactivelyINEXACT adj not exactINEXPERT n pl INEXPERTSa noviceINFALL n pl INFALLSmovement under the influence of gravity toward a celestial objectINFAMOUS adj having a vile reputationINFAMY n pl INFAMIESthe state of being infamousINFANCY n pl INFANCIESthe state of being an infantINFANT n pl INFANTSa child in the earliest stages of lifeINFANTA n pl INFANTASa daughter of a Spanish or Portuguese monarchINFANTE n pl INFANTESa younger son of a Spanish or Portuguese monarchINFANTRY n pl INFANTRIESa branch of the army composed of foot soldiersINFARCT n pl INFARCTSan area of dead or dying tissueINFARE n pl INFARESa reception for newlywedsINFAUNA n pl INFAUNAS or INFAUNAEfauna living on a soft sea floorINFAUNAL adjINFECT v INFECTED INFECTING INFECTSto contaminate with diseaseproducing germsINFECTER n pl INFECTERSone that infectsINFECTOR n pl INFECTORSinfecterINFECUND adj barrenINFEED n pl INFEEDSthe action of supplying material to a machineINFEOFF v INFEOFFED INFEOFFING INFEOFFSto enfeoffINFER v INFERRED INFERRING INFERSto reach or derive by reasoningINFERIOR n pl INFERIORSone of lesser rankINFERNAL adj pertaining to hellINFERNO n pl INFERNOSa place that resembles or suggests hellINFERRED past tense of inferINFERRER n pl INFERRERSone that infersINFERRING present participle of inferINFEST v INFESTED INFESTING INFESTSto overrun in large numbersINFESTER n pl INFESTERSone that infestsINFIDEL n pl INFIDELSone who has no religious faithINFIELD n pl INFIELDSa part of a baseball fieldINFIGHT v INFOUGHT INFIGHTING INFIGHTSto contend with others within the same groupINFILL v INFILLED INFILLING INFILLSto fill in a holeINFINITE n pl INFINITESsomething that has no limitsINFINITY n pl INFINITIESthe state of having no limitsINFIRM v INFIRMED INFIRMING INFIRMSto weaken or destroy the validity ofINFIRMLY adv in a feeble mannerINFIX v INFIXED INFIXING INFIXESto implantINFIXION n pl INFIXIONSthe act of infixingINFLAME v INFLAMED INFLAMING INFLAMESto set on fireINFLAMER n pl INFLAMERSone that inflamesINFLATE v INFLATED INFLATING INFLATESto cause to expand by filling with gas or airINFLATER n pl INFLATERSone that inflatesINFLATOR n pl INFLATORSinflaterINFLECT v INFLECTED INFLECTING INFLECTSto bendINFLEXED adj bent inwardINFLICT v INFLICTED INFLICTING INFLICTSto cause to be endured imposeINFLIGHT adj done during an air voyageINFLOW n pl INFLOWSthe act of flowing inINFLUENT n pl INFLUENTSa tributaryINFLUX n pl INFLUXESa flowing inINFO n pl INFOSinformationINFOBAHN n pl INFOBAHNSan electronic communications networkINFOLD v INFOLDED INFOLDING INFOLDSto fold inwardINFOLDER n pl INFOLDERSone that infoldsINFORM v INFORMED INFORMING INFORMSto supply with informationINFORMAL adj marked by the absence of formality or ceremonyINFORMER n pl INFORMERSone that informsINFOTECH n pl INFOTECHScomputer technology for distributing dataINFOUGHT past tense of infightINFRA adv belowINFRACT v INFRACTED INFRACTING INFRACTSto break a legal ruleINFRARED n pl INFRAREDSa part of the invisible spectrumINFRINGE v INFRINGED INFRINGING INFRINGESto violate an oath or a lawINFRUGAL adj not frugalINFULA n pl INFULAEeither of the two ribbons on a bishops miterINFUSE v INFUSED INFUSING INFUSESto permeate with somethingINFUSER n pl INFUSERSone that infusesINFUSION n pl INFUSIONSthe act of infusingINFUSIVE adj capable of infusingINGATE n pl INGATESa channel by which molten metal enters a moldINGATHER v INGATHERED INGATHERING INGATHERSto gather inINGENUE n pl INGENUESa naive young womanINGEST v INGESTED INGESTING INGESTSto take into the bodyINGESTA a collection of ingested materialINGLE n pl INGLESa fireINGOING adj enteringINGOT v INGOTED INGOTING INGOTSto shape into a convenient form for storageINGRAFT v INGRAFTED INGRAFTING INGRAFTSto engraftINGRAIN v INGRAINED INGRAINING INGRAINSto impress firmly on the mindINGRATE n pl INGRATESan ungrateful personINGRESS n pl INGRESSESthe act of enteringINGROUND adj built into the groundINGROUP n pl INGROUPSa group with which one feels a sense of solidarityINGROWN adj grown into the fleshINGROWTH n pl INGROWTHSgrowth inwardINGUINAL adj pertaining to the groinINGULF v INGULFED INGULFING INGULFSto engulfINHABIT v INHABITED INHABITING INHABITSto live inINHALANT n pl INHALANTSsomething that is inhaledINHALE v INHALED INHALING INHALESto take into the lungsINHALER n pl INHALERSone that inhalesINHAUL n pl INHAULSa line for bringing in a sailINHAULER n pl INHAULERSan inhaulINHERE v INHERED INHERING INHERESto be inherentINHERENT adj existing in something as an essential characteristicINHERIT v INHERITED INHERITING INHERITSto receive by legal successionINHESION n pl INHESIONSthe state of inheringINHIBIN n pl INHIBINSa human hormoneINHIBIT v INHIBITED INHIBITING INHIBITSto restrain or hold backINHOLDER n pl INHOLDERSone that owns a tract of land within a national parkINHUMAN adj lacking desirable human qualitiesINHUMANE adj not humaneINHUME v INHUMED INHUMING INHUMESto buryINHUMER n pl INHUMERSone that inhumesINIMICAL adj unfriendlyINION n pl INIAa part of the skullINIQUITY n pl INIQUITIESa gross injusticeINITIAL v INITIALED INITIALING INITIALS or INITIALLED INITIALLING INITIALSto mark with the first letters of ones nameINITIATE v INITIATED INITIATING INITIATESto originateINJECT v INJECTED INJECTING INJECTSto force a fluid intoINJECTOR n pl INJECTORSone that injectsINJERA n pl INJERASa type of Ethiopian breadINJURE v INJURED INJURING INJURESto do or cause injury toINJURER n pl INJURERSone that injuresINJURY n pl INJURIESharm inflicted or sufferedINK v INKED INKING INKSto mark with ink a colored fluid used for writingINKBERRY n pl INKBERRIESa small shrubINKBLOT n pl INKBLOTSa blotted pattern of spilled inkINKER n pl INKERSone that inksINKHORN n pl INKHORNSa small container for inkINKIER comparative of inkyINKIEST superlative of inkyINKINESS n pl INKINESSESthe state of being inkyINKJET n pl INKJETSa printer that spurts ink to form lettersINKLE n pl INKLESa tape used for trimmingINKLESS adj being without inkINKLIKE adj resembling inkINKLING n pl INKLINGSa slight suggestionINKPOT n pl INKPOTSan inkwellINKSTAND n pl INKSTANDSan inkwellINKSTONE n pl INKSTONESa stone on which dry ink and water are mixedINKWELL n pl INKWELLSa small container for inkINKWOOD n pl INKWOODSan evergreen treeINKY adj INKIER INKIESTresembling inkINLACE v INLACED INLACING INLACESto enlaceINLAID past tense of inlayINLAND n pl INLANDSthe interior of a regionINLANDER n pl INLANDERSone living in the interior of a regionINLAY v INLAID INLAYING INLAYSto set into a surfaceINLAYER n pl INLAYERSone that inlaysINLET v INLET INLETTING INLETSto insertINLIER n pl INLIERSa type of rock formationINLY adv inwardlyINLYING adj located farther inINMATE n pl INMATESone who is confined to an institutionINMESH v INMESHED INMESHING INMESHESto enmeshINMOST adj farthest withinINN v INNED INNING INNSto put up at an inn a public lodging houseINNAGE n pl INNAGESthe quantity of goods remaining in a container after shipmentINNARDS npl the internal organsINNATE adj inbornINNATELY advINNED past tense of inINNER n pl INNERSsomething that is withinINNERLY adv inwardlyINNERVE v INNERVED INNERVING INNERVESto stimulateINNING n pl INNINGSa division of a baseball gameINNINGS n pl INNINGSESa part of the game of cricketINNLESS adj having no innsINNOCENT adj INNOCENTER INNOCENTESTfree from guilt or sinINNOCENT n pl INNOCENTSan innocent personINNOVATE v INNOVATED INNOVATING INNOVATESto introduce something newINNUENDO v INNUENDOED INNUENDOING INNUENDOS or INNUENDOESto make a derogatory implicationINOCULUM n pl INOCULUMS or INOCULAthe material used in an inoculationINOSINE n pl INOSINESa compound of hypoxanthine and riboseINOSITE n pl INOSITESinositolINOSITOL n pl INOSITOLSan alcohol found in plant and animal tissueINOTROPE n pl INOTROPESa drug for controling the force of muscular contractionsINPHASE adj having matching electrical phasesINPOUR v INPOURED INPOURING INPOURSto pour inINPUT v INPUTTED INPUTTING INPUTSto enter data into a computerINPUTTER n pl INPUTTERSone that inputsINQUEST n pl INQUESTSa legal inquiryINQUIET v INQUIETED INQUIETING INQUIETSto disturbINQUIRE v INQUIRED INQUIRING INQUIRESto ask aboutINQUIRER n pl INQUIRERSone that inquiresINQUIRY n pl INQUIRIESa questionINRO n pl INROa Japanese ornamental containerINROAD n pl INROADSa hostile invasionINRUN n pl INRUNSthe approach ramp of a ski jumpINRUSH n pl INRUSHESa rushing inINSANE adj INSANER INSANESTmentally unsoundINSANELY advINSANITY n pl INSANITIESthe state of being insane something utterly foolishINSCAPE n pl INSCAPESthe inner essential quality of somethingINSCRIBE v INSCRIBED INSCRIBING INSCRIBESto write or engrave as a lasting recordINSCROLL v INSCROLLED INSCROLLING INSCROLLSto enscrollINSCULP v INSCULPED INSCULPING INSCULPsto engraveINSEAM n pl INSEAMSan inner seamINSECT n pl INSECTSany of a class of small invertebrate animalsINSECTAN adj pertaining to insectsINSECURE adj unsafeINSERT v INSERTED INSERTING INSERTSto put inINSERTER n pl INSERTERSone that insertsINSET v INSETTED INSETTING INSETSto insertINSETTER n pl INSETTERSone that insertsINSHEATH v INSHEATHED INSHEATHING INSHEATHSto ensheathINSHORE adj near the shoreINSHRINE v INSHRINED INSHRINING INSHRINESto enshrineINSIDE n pl INSIDESsomething that lies withinINSIDER n pl INSIDERSan accepted member of a cliqueINSIGHT n pl INSIGHTSa perception of the inner nature of thingsINSIGNE n pl INSIGNIAan insigniaINSIGNIA n pl INSIGNIASan emblem of authority or honorINSIPID adj dull and uninterestingINSIST v INSISTED INSISTING INSISTSto be resolute on some matterINSISTER n pl INSISTERSone that insistsINSNARE v INSNARED INSNARING INSNARESto ensnareINSNARER n pl INSNARERSensnarerINSOFAR adv to such an extentINSOLATE v INSOLATED INSOLATING INSOLATESto expose to sunlightINSOLE n pl INSOLESthe inner sole of a boot or shoeINSOLENT n pl INSOLENTSan extremely rude personINSOMNIA n pl INSOMNIASchronic inability to sleepINSOMUCH adv to such a degreeINSOUL v INSOULED INSOULING INSOULSto ensoulINSOURCE v INSOURCED INSOURCING INSOURCESto procure goods and services from within ones own countryINSPAN v INSPANNED INSPANNING INSPANSto harness or yoke to a vehicleINSPECT v INSPECTED INSPECTING INSPECTSto look carefully at or overINSPHERE v INSPHERED INSPHERING INSPHERESto ensphereINSPIRE v INSPIRED INSPIRING INSPIRESto animate the mind or emotions ofINSPIRER n pl INSPIRERSone that inspiresINSPIRIT v INSPIRITED INSPIRITING INSPIRITSto fill with spirit or lifeINSTABLE adj unstableINSTAL v INSTALLED INSTALLING INSTALSto installINSTALL v INSTALLED INSTALLING INSTALLSto place in position for useINSTANCE v INSTANCED INSTANCING INSTANCESto cite as an exampleINSTANCY n pl INSTANCIESurgencyINSTANT n pl INSTANTSa very short timeINSTAR v INSTARRED INSTARRING INSTARSto adorn with starsINSTATE v INSTATED INSTATING INSTATESto place in officeINSTEAD adv as a substitute or equivalentINSTEP n pl INSTEPSa part of the footINSTIL v INSTILLED INSTILLING INSTILSto instillINSTILL v INSTILLED INSTILLING INSTILLSto infuse slowlyINSTINCT n pl INSTINCTSan inborn behavioral patternINSTROKE n pl INSTROKESan inward strokeINSTRUCT v INSTRUCTED INSTRUCTING INSTRUCTSto supply with knowledgeINSULA n pl INSULAEa region of the brainINSULANT n pl INSULANTSan insulating materialINSULAR n pl INSULARSan islanderINSULATE v INSULATED INSULATING INSULATESto separate with nonconducting materialINSULIN n pl INSULINSa hormoneINSULT v INSULTED INSULTING INSULTSto treat offensivelyINSULTER n pl INSULTERSone that insultsINSURANT n pl INSURANTSone who is insuredINSURE v INSURED INSURING INSURESto guarantee against lossINSURED n pl INSUREDSone who is insuredINSURER n pl INSURERSone that insuresINSURING present participle of insureINSWATHE v INSWATHED INSWATHING INSWATHESto enswatheINSWEPT adj narrowed in frontINTACT adj not damaged in any wayINTACTLY advINTAGLIO n pl INTAGLIOS or INTAGLIan incised or sunken designINTAGLIO v INTAGLIOED INTAGLIOING INTAGLIOSto engrave in intaglioINTAKE n pl INTAKESthe act of taking inINTARSIA n pl INTARSIASa decorative techniqueINTEGER n pl INTEGERSa whole numberINTEGRAL n pl INTEGRALSa total unitINTEGRIN n pl INTEGRINSa class of animal proteinsINTEND v INTENDED INTENDING INTENDSto have as a specific aim or purposeINTENDED n pl INTENDEDSones spouse tobeINTENDER n pl INTENDERSone that intendsINTENSE adj INTENSER INTENSESTexisting in an extreme degreeINTENT n pl INTENTSa purposeINTENTLY adv in an unwavering mannerINTER v INTERRED INTERRING INTERSto buryINTERACT v INTERACTED INTERACTING INTERACTSto act on each otherINTERAGE adj including persons of various agesINTERBED v INTERBEDDED INTERBEDDING INTERBEDSto insert between other layersINTERCOM n pl INTERCOMSa type of communication systemINTERCUT v INTERCUT INTERCUTTING INTERCUTSto alternate camera shotsINTEREST v INTERESTED INTERESTING INTERESTSto engage the attention ofINTERIM n pl INTERIMSan intervalINTERIOR n pl INTERIORSthe insideINTERLAP v INTERLAPPED INTERLAPPING INTERLAPSto lap one over anotherINTERLAY v INTERLAID INTERLAYING INTERLAYSto place betweenINTERMAT v INTERMATTED INTERMATTING INTERMATSto mat fibers togetherINTERMIT v INTERMITTED INTERMITTING INTERMITSto stop temporarilyINTERMIX v INTERMIXED INTERMIXING INTERMIXESto mix togetherINTERN v INTERNED INTERNING INTERNSto confine during a warINTERNAL n pl INTERNALSan inner attributeINTERNE n pl INTERNESa recent medical school graduate on a hospital staffINTERNEE n pl INTERNEESone who has been internedINTERRED past tense of interINTERREX n pl INTERREGESa type of sovereignINTERRING present participle of interINTERROW adj existing between rowsINTERSEX n pl INTERSEXESa person having characteristics of both sexesINTERTIE n pl INTERTIESa type of electrical connectionINTERVAL n pl INTERVALSa space of time between periods or eventsINTERWAR adj happening between warsINTHRAL v INTHRALLED INTHRALLING INTHRALSto enthrallINTHRALL v INTHRALLED INTHRALLING INTHRALLSto enthrallINTHRONE v INTHRONED INTHRONING INTHRONESto enthroneINTI n pl INTISa former monetary unit of PeruINTIFADA n pl INTIFADASan uprising of Palestinians against IsraelisINTIMA n pl INTIMAS or INTIMAEthe innermost layer of an organINTIMAL adjINTIMACY n pl INTIMACIESthe state of being closely associatedINTIMATE v INTIMATED INTIMATING INTIMATESto make known indirectlyINTIME adj cozyINTIMIST n pl INTIMISTSa writer or artist who deals with deep personal experiencesINTINE n pl INTINESthe inner wall of a sporeINTITLE v INTITLED INTITLING INTITLESto entitleINTITULE v INTITULED INTITULING INTITULESto entitleINTO prep to the inside ofINTOMB v INTOMBED INTOMBING INTOMBSto entombINTONATE v INTONATED INTONATING INTONATESto intoneINTONE v INTONED INTONING INTONESto speak in a singing voiceINTONER n pl INTONERSone that intonesINTORT v INTORTED INTORTING INTORTSto twist inwardINTOWN adj located in the center of a cityINTRADAY adj occurring within a single dayINTRADOS n pl INTRADOSESthe inner curve of an archINTRANET n pl INTRANETSa computer network with restricted accessINTRANT n pl INTRANTSan entrantINTREAT v INTREATED INTREATING INTREATSto entreatINTRENCH v INTRENCHED INTRENCHING INTRENCHESto entrenchINTREPID adj fearlessINTRIGUE v INTRIGUED INTRIGUING INTRIGUESto arouse the curiosity ofINTRO n pl INTROSan introductionINTROFY v INTROFIED INTROFYING INTROFIESto increase the wetting properties ofINTROIT n pl INTROITSmusic sung at the beginning of a worship serviceINTROMIT v INTROMITTED INTROMITTING INTROMITSto put inINTRON n pl INTRONSan intervening sequence in the genetic codeINTRONIC adjINTRORSE adj facing inwardINTRUDE v INTRUDED INTRUDING INTRUDESto thrust or force oneself inINTRUDER n pl INTRUDERSone that intrudesINTRUST v INTRUSTED INTRUSTING INTRUSTSto entrustINTUBATE v INTUBATED INTUBATING INTUBATESto insert a tube intoINTUIT v INTUITED INTUITING INTUITSto know without conscious reasoningINTURN n pl INTURNSa turning inwardINTURNED adjINTWINE v INTWINED INTWINING INTWINESto entwineINTWIST v INTWISTED INTWISTING INTWISTSto entwistINUKSHUK n pl INUKSHUKSa figure of a human made of stonesINUKSUK n pl INUKSUKS or INUKSUITan inukshukINULASE n pl INULASESan enzymeINULIN n pl INULINSa chemical compoundINUNDANT adj inundatingINUNDATE v INUNDATED INUNDATING INUNDATESto overwhelm with waterINURBANE adj not urbaneINURE v INURED INURING INURESto accustom to accept something undesirableINURN v INURNED INURNING INURNSto put in an urnINUTILE adj uselessINVADE v INVADED INVADING INVADESto enter for conquest or plunderINVADER n pl INVADERSone that invadesINVALID v INVALIDED INVALIDING INVALIDSto disable physicallyINVAR n pl INVARSan ironnickel alloyINVASION n pl INVASIONSthe act of invadingINVASIVE adjINVECTED adj edged by convex curvesINVEIGH v INVEIGHED INVEIGHING INVEIGHSto protest angrilyINVEIGLE v INVEIGLED INVEIGLING INVEIGLESto induce by guile or flatteryINVENT v INVENTED INVENTING INVENTSto devise originallyINVENTER n pl INVENTERSinventorINVENTOR n pl INVENTORSone that inventsINVERITY n pl INVERITIESlack of truthINVERSE v INVERSED INVERSING INVERSESto reverseINVERT v INVERTED INVERTING INVERTSto turn upside downINVERTER n pl INVERTERSone that invertsINVERTIN n pl INVERTINSan enzymeINVERTOR n pl INVERTORSa type of electrical deviceINVEST v INVESTED INVESTING INVESTSto commit something of value for future profitINVESTOR n pl INVESTORSone that investsINVIABLE adj not viableINVIABLY advINVIRILE adj not virileINVISCID adj not viscidINVITAL adj not vitalINVITE v INVITED INVITING INVITESto request the presence ofINVITEE n pl INVITEESone that is invitedINVITER n pl INVITERSone that invitesINVITING present participle of inviteINVOCATE v INVOCATED INVOCATING INVOCATESto invokeINVOICE v INVOICED INVOICING INVOICESto billINVOKE v INVOKED INVOKING INVOKESto appeal to for aidINVOKER n pl INVOKERSone that invokesINVOLUTE v INVOLUTED INVOLUTING INVOLUTESto roll or curl upINVOLVE v INVOLVED INVOLVING INVOLVESto contain or include as a partINVOLVER n pl INVOLVERSone that involvesINWALL v INWALLED INWALLING INWALLSto surround with a wallINWARD adv toward the insideINWARDLY adv on the insideINWARDS adv inwardINWEAVE v INWOVE or INWEAVED INWOVEN INWEAVING INWEAVESto weave togetherINWIND v INWOUND INWINDING INWINDSto enwindINWRAP v INWRAPPED INWRAPPING INWRAPSto enwrapIODATE v IODATED IODATING IODATESto iodizeIODATION n pl IODATIONSthe act of iodatingIODIC adj pertaining to iodineIODID n pl IODIDSiodideIODIDE n pl IODIDESa compound of iodineIODIN n pl IODINSiodineIODINATE v IODINATED IODINATING IODINATESto iodizeIODINE n pl IODINESa nonmetallic elementIODISE v IODISED IODISING IODISESto iodizeIODISM n pl IODISMSiodine poisoningIODIZE v IODIZED IODIZING IODIZESto treat with iodineIODIZER n pl IODIZERSone that iodizesIODOFORM n pl IODOFORMSan iodine compoundIODOPHOR n pl IODOPHORSan iodine compoundIODOPSIN n pl IODOPSINSa pigment in the retinaIODOUS adj pertaining to iodineIOLITE n pl IOLITESa mineralION n pl IONSan electrically charged atomIONIC n pl IONICSa style of typeIONIC adj pertaining to or using ionsIONICITY n pl IONICITIESthe state of existing as or like an ionIONISE v IONISED IONISING IONISESto ionizeIONISER n pl IONISERSionizerIONIUM n pl IONIUMSan isotope of thoriumIONIZE v IONIZED IONIZING IONIZESto convert into ionsIONIZER n pl IONIZERSone that ionizesIONOGEN n pl IONOGENSa compound capable of forming ionsIONOMER n pl IONOMERSa type of plasticIONONE n pl IONONESa chemical compoundIOTA n pl IOTASa Greek letterIOTACISM n pl IOTACISMSexcessive use of the letter iotaIPECAC n pl IPECACSa medicinal plantIPOMOEA n pl IPOMOEASa flowering plantIRACUND adj easily angeredIRADE n pl IRADESa decree of a Muslim rulerIRATE adj IRATER IRATESTangryIRATELY advIRE v IRED IRING IRESto angerIREFUL adj angryIREFULLY advIRELESS adj not angryIRENIC adj peaceful in purposeIRENICAL adj irenicIRENICS npl a branch of theologyIRID n pl IRIDSa plant of the iris familyIRIDES a pl of irisIRIDIC adj pertaining to iridiumIRIDIUM n pl IRIDIUMSa metallic elementIRING present participle of ireIRIS n pl IRISES or IRIDESa part of the eyeIRIS v IRISED IRISING IRISESto give the form of a rainbow toIRITIS n pl IRITISESinflammation of the irisIRITIC adjIRK v IRKED IRKING IRKSto annoy or wearyIRKSOME adj tending to irkIROKO n pl IROKOSa large African treeIRON v IRONED IRONING IRONSto furnish with iron a metallic elementIRONBARK n pl IRONBARKSa timber treeIRONCLAD n pl IRONCLADSan armored warshipIRONE n pl IRONESan aromatic oilIRONER n pl IRONERSa machine for pressing clothesIRONIC adj pertaining to ironyIRONICAL adj ironicIRONIES pl of ironyIRONING n pl IRONINGSclothes pressed or to be pressedIRONISE v IRONISED IRONISING IRONISESto ironizeIRONIST n pl IRONISTSone who uses ironyIRONIZE v IRONIZED IRONIZING IRONIZESto mix with nutritional ironIRONLESS adj having no ironIRONLIKE adj resembling ironIRONMAN n pl IRONMENa man of great strength and staminaIRONNESS n pl IRONNESSESthe state of being ironIRONSIDE n pl IRONSIDESa man of great strengthIRONWARE n pl IRONWARESarticles made of ironIRONWEED n pl IRONWEEDSa shrubIRONWOOD n pl IRONWOODSa hardwood treeIRONWORK n pl IRONWORKSobjects made of ironIRONY n pl IRONIESthe use of words to express the opposite of what is literally saidIRREAL adj not realIRRIGATE v IRRIGATED IRRIGATING IRRIGATESto supply with water by artificial meansIRRITANT n pl IRRITANTSsomething that irritatesIRRITATE v IRRITATED IRRITATING IRRITATESto excite to impatience or angerIRRUPT v IRRUPTED IRRUPTING IRRUPTSto rush in forciblyIS present 3d person sing of beISAGOGE n pl ISAGOGESa type of introduction to a branch of studyISAGOGIC n pl ISAGOGICSa branch of theologyISARITHM n pl ISARITHMSan isoplethISATIN n pl ISATINSa chemical compoundISATINIC adjISATINE n pl ISATINESisatinISBA n pl ISBASa Russian log hutISCHEMIA n pl ISCHEMIASa type of anemiaISCHEMIC adjISCHIUM n pl ISCHIAa pelvic boneISCHIAL adjISLAND v ISLANDED ISLANDING ISLANDSto make into an island a land area entirely surrounded by waterISLANDER n pl ISLANDERSone that lives on an islandISLE v ISLED ISLING ISLESto place on an isle a small islandISLELESS adj lacking an isleISLET n pl ISLETSa small islandISLETED adjISM n pl ISMSa distinctive theory or doctrineISOBAR n pl ISOBARSa type of atomISOBARIC adjISOBARE n pl ISOBARESisobarISOBATH n pl ISOBATHSa line on a map connecting points of equal water depthISOBUTYL n pl ISOBUTYLSa hydrocarbon radicalISOCHEIM n pl ISOCHEIMSa type of isothermISOCHIME n pl ISOCHIMESisocheimISOCHOR n pl ISOCHORSisochoreISOCHORE n pl ISOCHORESa curve used to show a relationship between pressure and temperatureISOCHRON n pl ISOCHRONSa line on a chart connecting points representing the same timeISOCLINE n pl ISOCLINESa type of rock formationISOCRACY n pl ISOCRACIESa form of governmentISODOSE adj pertaining to zones that receive equal doses of radiationISOFORM n pl ISOFORMSone of two or more proteins having a similar formISOGAMY n pl ISOGAMIESthe fusion of two similar gametesISOGENIC adj genetically similarISOGENY n pl ISOGENIESthe state of being of similar originISOGLOSS n pl ISOGLOSSESa line on a map between linguistically varied areasISOGON n pl ISOGONSa polygon having equal anglesISOGONAL n pl ISOGONALSisogoneISOGONE n pl ISOGONESa line on a map used to show characteristics of the earths magnetic fieldISOGONIC n pl ISOGONICSisogoneISOGONY n pl ISOGONIESan equivalent relative growth of partsISOGRAFT v ISOGRAFTED ISOGRAFTING ISOGRAFTSto transplant from one individual to another of the same speciesISOGRAM n pl ISOGRAMSa line on a map connecting points of equal valueISOGRAPH n pl ISOGRAPHSa line on a map indicating areas that are linguistically similarISOGRIV n pl ISOGRIVSa line drawn on a map such that all points have equal grid variationISOHEL n pl ISOHELSa line on a map connecting points receiving equal sunshineISOHYET n pl ISOHYETSa line on a map connecting points having equal rainfallISOLABLE adj capable of being isolatedISOLATE v ISOLATED ISOLATING ISOLATESto set apart from othersISOLATOR n pl ISOLATORSone that isolatesISOLEAD n pl ISOLEADSa line on a ballistic graphISOLINE n pl ISOLINESan isogramISOLOG n pl ISOLOGSisologueISOLOGUE n pl ISOLOGUESa type of chemical compoundISOMER n pl ISOMERSa type of chemical compoundISOMERIC adjISOMETRY n pl ISOMETRIESequality of measureISOMORPH n pl ISOMORPHSsomething similar to something else in formISONOMY n pl ISONOMIESequality of civil rightsISONOMIC adjISOPACH n pl ISOPACHSan isogram connecting points of equal thicknessISOPHOTE n pl ISOPHOTESa curve on a chart joining points of equal light intensityISOPLETH n pl ISOPLETHSa type of isogramISOPOD n pl ISOPODSa kind of crustaceanISOPODAN n pl ISOPODANSan isopodISOPRENE n pl ISOPRENESa volatile liquidISOSPIN n pl ISOSPINSa type of quantum numberISOSPORY n pl ISOSPORIESthe condition of producing sexual or asexual spores of but one kindISOSTACY n pl ISOSTACIESisostasyISOSTASY n pl ISOSTASIESthe state of balance in the earths crustISOTACH n pl ISOTACHSa line on a map connecting points of equal wind velocityISOTHERE n pl ISOTHERESa type of isothermISOTHERM n pl ISOTHERMSa line on a map connecting points of equal mean temperatureISOTONE n pl ISOTONESa type of atomISOTONIC adj of equal tensionISOTOPE n pl ISOTOPESa form of an elementISOTOPIC adjISOTOPY n pl ISOTOPIESthe state of being an isotopeISOTROPY n pl ISOTROPIESthe state of being identical in all directionsISOTYPE n pl ISOTYPESa type of diagramISOTYPIC adjISOZYME n pl ISOZYMESa type of enzymeISOZYMIC adjISSEI n pl ISSEISa Japanese immigrant to the United StatesISSUABLE adj authorized for issuingISSUABLY advISSUANCE n pl ISSUANCESthe act of issuingISSUANT adj coming forthISSUE v ISSUED ISSUING ISSUESto come forthISSUER n pl ISSUERSone that issuesISTHMI a pl of isthmusISTHMIAN n pl ISTHMIANSa native of an isthmusISTHMIC adj pertaining to an isthmusISTHMOID adj isthmicISTHMUS n pl ISTHMUSES or ISTHMIa strip of land connecting two larger land massesISTLE n pl ISTLESa strong fiberIT pron the 3d person sing neuter pronounITALIC n pl ITALICSa style of printITCH v ITCHED ITCHING ITCHESto have an uneasy or tingling skin sensationITCHING n pl ITCHINGSan uneasy or tingling skin sensationITCHY adj ITCHIER ITCHIESTcausing an itching sensationITCHILY advITEM v ITEMED ITEMING ITEMSto itemizeITEMISE v ITEMISED ITEMISING ITEMISESto itemizeITEMISER n ITEMISERSitemizerITEMIZE v ITEMIZED ITEMIZING ITEMIZESto set down the particulars ofITEMIZER n pl ITEMIZERSone that itemizesITERANCE n pl ITERANCESrepetitionITERANT adj repeatingITERATE v ITERATED ITERATING ITERATESto repeatITERUM adv again once moreITHER adj otherITS pron the possessive form of the pronoun itITSELF pron a reflexive form of the pronoun itIVORY n pl IVORIESa hard white substance found in elephant tusksIVORIED adjIVY n pl IVIESa climbing vineIVYLIKE adjIVIED adjIWIS adv certainlyIXIA n pl IXIASa flowering plantIXNAY interj noIXODID n pl IXODIDSa bloodsucking insectIXORA n pl IXORASa flowering plantIXTLE n pl IXTLESistleIZAR n pl IZARSan outer garment worn by Muslim womenIZARD n pl IZARDSa goatlike antelopeIZZARD n pl IZZARDSthe letter Z").
+```
+```prolog
+entry(jab, v, [jabbed,jabbing,jabs], "to poke sharplyJABBER v JABBERED JABBERING JABBERSto talk rapidlyJABBERER n pl JABBERERSone that jabbersJABIRU n pl JABIRUSa wading birdJABOT n pl JABOTSa decoration on a shirtJACAL n pl JACALS or JACALESa hutJACAMAR n pl JACAMARSa tropical birdJACANA n pl JACANASa wading birdJACINTH n pl JACINTHSa variety of zirconJACINTHE n pl JACINTHESan orange colorJACK v JACKED JACKING JACKSto raise with a type of leverJACKAL n pl JACKALSa doglike mammalJACKAROO n pl JACKAROOSjackerooJACKASS n pl JACKASSESa male donkeyJACKBOOT n pl JACKBOOTSa heavy bootJACKDAW n pl JACKDAWSa bird resembling a crowJACKER n pl JACKERSone that jacksJACKEROO n pl JACKEROOSan inexperienced ranch handJACKET v JACKETED JACKETING JACKETSto provide with a jacket a short coatJACKFISH n pl JACKFISHESa food fishJACKIES pl of jackyJACKLEG n pl JACKLEGSan unskilled workerJACKPOT n pl JACKPOTSa top prize or rewardJACKROLL v JACKROLLED JACKROLLING JACKROLLSto rob a drunken or sleeping personJACKSTAY n pl JACKSTAYSa rope on a shipJACKY n pl JACKIESa sailorJACOBIN n pl JACOBINSa pigeonJACOBUS n pl JACOBUSESan old English coinJACONET n pl JACONETSa cotton clothJACQUARD n pl JACQUARDSa fabric of intricate weaveJACULATE v JACULATED JACULATING JACULATESto throwJADE v JADED JADING JADESto wearyJADEDLY advJADEITE n pl JADEITESa mineralJADITIC adjJADELIKE adj resembling jade a green gemstoneJADISH adj wornoutJADISHLY advJAEGER n pl JAEGERSa hunterJAG v JAGGED JAGGING JAGSto cut unevenlyJAGER n pl JAGERSjaegerJAGG v JAGGED JAGGING JAGGSto jagJAGGARY n pl JAGGARIESjaggeryJAGGED adj JAGGEDER JAGGEDESThaving a sharply uneven edge or surfaceJAGGEDLY advJAGGER n pl JAGGERSone that jagsJAGGERY n pl JAGGERIESa coarse dark sugarJAGGHERY n pl JAGGHERIESjaggeryJAGGIES npl a jagged effect on a curved lineJAGGING present participle of jagJAGGY adj JAGGIER JAGGIESTjaggedJAGLESS adj smooth and evenJAGRA n pl JAGRASjaggeryJAGUAR n pl JAGUARSa large feline animalJAIL v JAILED JAILING JAILSto put in jail a place of confinementJAILABLE adjJAILBIRD n pl JAILBIRDSa prisonerJAILER n pl JAILERSa keeper of a jailJAILOR n pl JAILORSjailerJAKE adj all right fineJAKES npl an outhouseJALAP n pl JALAPSa Mexican plantJALAPIC adjJALAPENO n pl JALAPENOSa hot pepperJALAPIN n pl JALAPINSa medicinal substance contained in jalapJALOP n pl JALOPSjalapJALOPPY n pl JALOPPIESjalopyJALOPY n pl JALOPIESa decrepit carJALOUSIE n pl JALOUSIESa type of windowJAM v JAMMED JAMMING JAMSto force together tightlyJAMMABLE adjJAMB v JAMBED JAMBING JAMBSto jamJAMBE n pl JAMBESa jambeauJAMBEAU n pl JAMBEAUX or JAMBEAUSa piece of armor for the legJAMBOREE n pl JAMBOREESa noisy celebrationJAMLIKE adj resembling jamJAMMED past tense of jamJAMMER n pl JAMMERSone that jamsJAMMIES npl pajamasJAMMING present participle of jamJAMMY adj JAMMIER JAMMIESTsticky with jam boiled fruit and sugarJANE n pl JANESa girl or womanJANGLE v JANGLED JANGLING JANGLESto make a harsh metallic soundJANGLER n pl JANGLERSone that janglesJANGLY adj JANGLIER JANGLIESTjanglingJANIFORM adj hypocriticalJANISARY n pl JANISARIESjanizaryJANITOR n pl JANITORSa maintenance manJANIZARY n pl JANIZARIESa Turkish soldierJANNEY v JANNEYED JANNEYING JANNEYSto jannyJANNY v JANNIED JANNYING JANNIESto act as a disguised merrymaker at ChristmasJANNYING n pl JANNYINGSthe action of one that janniesJANTY adj jauntyJAPAN v JAPANNED JAPANNING JAPANSto coat with a glossy black lacquerJAPANIZE v JAPANIZED JAPANIZING JAPANIZESto make JapaneseJAPANNER n pl JAPANNERSone that japansJAPE v JAPED JAPING JAPESto mockJAPER n pl JAPERSone that japesJAPERY n pl JAPERIESmockeryJAPING present participle of japeJAPINGLY adv in a japing mannerJAPONICA n pl JAPONICASan Asian shrubJAR v JARRED JARRING JARSto cause to shakeJARFUL n pl JARFULS or JARSFULthe quantity held by a jar a cylindrical containerJARGON v JARGONED JARGONING JARGONSto speak or write an obscure and often pretentious kind of languageJARGONEL n pl JARGONELSa variety of pearJARGONY adj characterized by the use of obscure languageJARGOON n pl JARGOONSa variety of zirconJARHEAD n pl JARHEADSa marine soldierJARINA n pl JARINASthe hard seed of a palm treeJARL n pl JARLSa Scandinavian noblemanJARLDOM n pl JARLDOMSthe domain of a jarlJAROSITE n pl JAROSITESa mineralJAROVIZE v JAROVIZED JAROVIZING JAROVIZESto hasten the flowering of a plantJARRAH n pl JARRAHSan evergreen treeJARRED past tense of jarJARRING present participle of jarJARSFUL a pl of jarfulJARVEY n pl JARVEYSthe driver of a carriage for hireJASMIN n pl JASMINSjasmineJASMINE n pl JASMINESa climbing shrubJASPER n pl JASPERSa variety of quartzJASPERY adjJASSID n pl JASSIDSany of a family of plant pestsJATO n pl JATOSa takeoff aided by jet propulsionJAUK v JAUKED JAUKING JAUKSto dawdleJAUNCE v JAUNCED JAUNCING JAUNCESto pranceJAUNDICE v JAUNDICED JAUNDICING JAUNDICESto prejudice unfavorablyJAUNT v JAUNTED JAUNTING JAUNTSto make a pleasure tripJAUNTY adj JAUNTIER JAUNTIESThaving a lively and selfconfident mannerJAUNTILY advJAUP v JAUPED JAUPING JAUPSto splashJAVA n pl JAVAScoffeeJAVELIN v JAVELINED JAVELINING JAVELINSto pierce with a javelin a light spearJAVELINA n pl JAVELINASa peccaryJAW v JAWED JAWING JAWSto jabberJAWAN n pl JAWANSa soldier of IndiaJAWBONE v JAWBONED JAWBONING JAWBONESto attempt to convinceJAWBONER n pl JAWBONERSone that jawbonesJAWLESS adj having no jaw a bony structure bordering the mouthJAWLIKE adj resembling the jaw the framework of the mouthJAWLINE n pl JAWLINESthe outline of the lower jawJAY n pl JAYSa corvine birdJAYBIRD n pl JAYBIRDSa jayJAYGEE n pl JAYGEESa military officerJAYVEE n pl JAYVEESa junior varsity playerJAYWALK v JAYWALKED JAYWALKING JAYWALKSto cross a street recklesslyJAZZ v JAZZED JAZZING JAZZESto enlivenJAZZBO n pl JAZZBOSa devotee of jazz a style of lively syncopated musicJAZZER n pl JAZZERSone that jazzesJAZZLIKE adj resembling a type of musicJAZZMAN n pl JAZZMENa type of musicianJAZZY adj JAZZIER JAZZIESTlivelyJAZZILY advJEALOUS adj resentful of anothers advantagesJEALOUSY n pl JEALOUSIESa jealous feelingJEAN n pl JEANSa durable cotton fabricJEANED adjJEBEL n pl JEBELSa mountainJEE v JEED JEEING JEESto geeJEEP v JEEPED JEEPING JEEPSto travel by a small type of motor vehicleJEEPERS interj  used as a mild oathJEEPNEY n pl JEEPNEYSa Philippine jitneyJEER v JEERED JEERING JEERSto mockJEERER n pl JEERERSone that jeersJEESLY adj jeezlyJEEZ interj  used as a mild oathJEEZE interj jeezJEEZELY adj jeezlyJEEZLY adj used as an intensifierJEFE n pl JEFESa chiefJEHAD n pl JEHADSjihadJEHADI n pl JEHADISjihadiJEHADIST n pl JEHADISTSjihadistJEHU n pl JEHUSa fast driverJEJUNA pl of jejunumJEJUNAL adj pertaining to the jejunumJEJUNE adj uninteresting childishJEJUNELY advJEJUNITY n pl JEJUNITIESsomething that is jejuneJEJUNUM n pl JEJUNA or JEJUNUMSa part of the small intestineJELL v JELLED JELLING JELLSto congealJELLABA n pl JELLABASdjellabaJELLIFY v JELLIFIED JELLIFYING JELLIFIESto jellyJELLY v JELLIED JELLYING JELLIESto make into a jelly a soft semisolid substanceJELUTONG n pl JELUTONGSa tropical treeJEMADAR n pl JEMADARSan officer in the army of IndiaJEMIDAR n pl JEMIDARSjemadarJEMMY v JEMMIED JEMMYING JEMMIESto jimmyJENNET n pl JENNETSa small horseJENNY n pl JENNIESa female donkeyJEON n pl JEONa monetary unit of South KoreaJEOPARD v JEOPARDED JEOPARDING JEOPARDSto imperilJEOPARDY n pl JEOPARDIESrisk of loss or injuryJERBOA n pl JERBOASa small rodentJEREED n pl JEREEDSa wooden javelinJEREMIAD n pl JEREMIADSa tale of woeJERID n pl JERIDSjereedJERK v JERKED JERKING JERKSto move with a sharp sudden motionJERKER n pl JERKERSone that jerksJERKIN n pl JERKINSa sleeveless jacketJERKY adj JERKIER JERKIESTcharacterized by jerking movementsJERKILY advJERKY n pl JERKIESdried meatJEROBOAM n pl JEROBOAMSa wine bottleJERREED n pl JERREEDSjereedJERRICAN n pl JERRICANSjerrycanJERRID n pl JERRIDSjereedJERRY n pl JERRIESa German soldierJERRYCAN n pl JERRYCANSa fuel containerJERSEY n pl JERSEYSa closefitting knitted shirtJERSEYED adjJESS v JESSED JESSING JESSESto fasten straps around the legs of a hawkJESSANT adj shooting forthJESSE v JESSED JESSING JESSESto jessJEST v JESTED JESTING JESTSto jokeJESTER n pl JESTERSone that jestsJESTFUL adj tending to jestJESTING n pl JESTINGSthe act of one who jestsJET v JETTED JETTING JETSto spurt forth in a streamJETBEAD n pl JETBEADSan ornamental shrubJETE n pl JETESa ballet leapJETFOIL n pl JETFOILSa jetpowered hydrofoil a boat with winglike structures for lifting the hull above the waterJETLAG n pl JETLAGSthe disruption of body rhythms after a flight through several time zonesJETLIKE adj resembling a jet airplaneJETLINER n pl JETLINERSa type of aircraftJETON n pl JETONSjettonJETPACK n pl JETPACKSa backpack with jets to transport the wearerJETPORT n pl JETPORTSa type of airportJETSAM n pl JETSAMSgoods cast overboardJETSOM n pl JETSOMSjetsamJETTED past tense of jetJETTIED past tense of jettyJETTIER comparative of jettyJETTIES present 3d person sing of jettyJETTIEST superlative of jettyJETTING present participle of jetJETTISON v JETTISONED JETTISONING JETTISONSto cast overboardJETTON n pl JETTONSa piece used in countingJETTY adj JETTIER JETTIESThaving the color jet blackJETTY v JETTIED JETTYING JETTIESto jutJEU n pl JEUXa gameJEWEL v JEWELED JEWELING JEWELS or JEWELLED JEWELLING JEWELSto adorn or equip with jewels precious stonesJEWELER n pl JEWELERSa dealer or maker of jewelryJEWELLER n pl JEWELLERSjewelerJEWELRY n pl JEWELRIESan article or articles for personal adornmentJEWFISH n pl JEWFISHESa large marine fishJEZAIL n pl JEZAILSa type of firearmJEZEBEL n pl JEZEBELSa scheming wicked womanJIAO n pl JIAOchiaoJIB v JIBBED JIBBING JIBSto refuse to proceed furtherJIBB v JIBBED JIBBING JIBBSto shift from side to side while sailingJIBBA n pl JIBBASa long coat worn by Muslim menJIBBAH n pl JIBBAHSjibbaJIBBER n pl JIBBERSa horse that jibsJIBBOOM n pl JIBBOOMSa ships sparJIBE v JIBED JIBING JIBESto gibeJIBINGLY advJIBER n pl JIBERSone that jibesJICAMA n pl JICAMASa tropical plant with edible rootsJIFF n pl JIFFSjiffyJIFFY n pl JIFFIESa short timeJIG v JIGGED JIGGING JIGSto bobJIGGER v JIGGERED JIGGERING JIGGERSto jerk up and downJIGGERED adj damnedJIGGIER comparative of jiggyJIGGIEST superlative of jiggyJIGGISH adj suitable for a jig a livley danceJIGGLE v JIGGLED JIGGLING JIGGLESto shake lightlyJIGGLY adj JIGGLIER JIGGLIESTunsteadyJIGGY adj JIGGIER JIGGIESTpleasurably excitedJIGLIKE adj resembling a jigJIGSAW v JIGSAWED JIGSAWN JIGSAWING JIGSAWSto cut with a type of sawJIHAD n pl JIHADSa Muslim holy warJIHADI n pl JIHADISa Muslim who participates in a jihadJIHADIST n pl JIHADISTSa jihadiJILL n pl JILLSa unit of liquid measureJILLION n pl JILLIONSa very large numberJILT v JILTED JILTING JILTSto reject a loverJILTER n pl JILTERSone that jiltsJIMINY interj  used to express surpriseJIMJAMS npl violent deliriumJIMMIE n pl JIMMIESa tiny bit of candy for decorating ice creamJIMMINY interj jiminyJIMMY v JIMMIED JIMMYING JIMMIESto pry open with a crowbarJIMP adj JIMPER JIMPESTnattyJIMPLY advJIMPY adj jimpJIMSON n pl JIMSONSa tall poisonous weedJIN n pl JINSjinnJINGAL n pl JINGALSa heavy musketJINGALL n pl JINGALLSjingalJINGKO n pl JINGKOESginkgoJINGLE v JINGLED JINGLING JINGLESto make a tinkling soundJINGLER n pl JINGLERSone that jinglesJINGLY adj JINGLIER JINGLIESTjinglingJINGO n pl JINGOESa zealous patriotJINGOISH adjJINGOISM n pl JINGOISMSthe spirit or policy of jingoesJINGOIST n pl JINGOISTSa jingoJINK v JINKED JINKING JINKSto move quickly out of the wayJINKER n pl JINKERSone that jinksJINN n pl JINNSa supernatural being in Muslim mythologyJINNEE n pl JINNjinnJINNI n pl JINNISjinnJINX v JINXED JINXING JINXESto bring bad luck toJIPIJAPA n pl JIPIJAPASa tropical plantJIRD n pl JIRDSa longtailed rodentJITNEY n pl JITNEYSa small busJITTER v JITTERED JITTERING JITTERSto fidgetJITTERY adj JITTERIER JITTERIESTextremely nervousJIUJITSU n pl JIUJITSUSjujitsuJIUJUTSU n pl JIUJUTSUSjujitsuJIVE v JIVED JIVING JIVESto play jazz or swing musicJIVE adj JIVER JIVESTdeceitfulJIVER n pl JIVERSone that jivesJIVEY adj JIVIER JIVIESTjazzy livelyJIVING present participle of jiveJIVY adj jiveyJNANA n pl JNANASknowledge acquired through meditationJO n pl JOESa sweetheartJOANNES n pl JOANNESjohannesJOB v JOBBED JOBBING JOBSto work by the pieceJOBBER n pl JOBBERSa pieceworkerJOBBERY n pl JOBBERIEScorruption in public officeJOBBIE n pl JOBBIESan example of its typeJOBLESS adj having no jobJOBNAME n pl JOBNAMESa computer code for a job instructionJOCK n pl JOCKSan athletic supporterJOCKDOM n pl JOCKDOMSthe world of athletesJOCKETTE n pl JOCKETTESa woman who rides horses in racesJOCKEY v JOCKEYED JOCKEYING JOCKEYSto maneuver for an advantageJOCKISH adj characteristic of an athleteJOCKO n pl JOCKOSa monkeyJOCKY adj JOCKIER JOCKIESTresembling an athleteJOCOSE adj humorousJOCOSELY advJOCOSITY n pl JOCOSITIESthe state of being jocoseJOCULAR adj given to jokingJOCUND adj cheerfulJOCUNDLY advJODHPUR n pl JODHPURSa type of bootJOE n pl JOESa fellowJOEY n pl JOEYSa young kangarooJOG v JOGGED JOGGING JOGSto run at a slow steady paceJOGGER n pl JOGGERSone that jogsJOGGING n pl JOGGINGSthe practice of running at a slow steady paceJOGGLE v JOGGLED JOGGLING JOGGLESto shake slightlyJOGGLER n pl JOGGLERSone that jogglesJOGTROT n pl JOGTROTSa slow regular way of walking or runningJOHANNES n pl JOHANNESa Portuguese coinJOHN n pl JOHNSa toiletJOHNBOAT n pl JOHNBOATSa narrow squareended boatJOHNNIE n pl JOHNNIESjohnnyJOHNNY n pl JOHNNIESa sleeveless hospital gownJOIN v JOINED JOINING JOINSto uniteJOINABLE adjJOINDER n pl JOINDERSa joining of parties in a lawsuitJOINER n pl JOINERSa carpenterJOINERY n pl JOINERIESthe trade of a joinerJOINING n pl JOININGSa junctureJOINT v JOINTED JOINTING JOINTSto fit together by means of a junctionJOINTER n pl JOINTERSone that jointsJOINTLY adv togetherJOINTURE v JOINTURED JOINTURING JOINTURESto set aside property as an inheritanceJOIST v JOISTED JOISTING JOISTSto support with horizontal beamsJOJOBA n pl JOJOBASa small treeJOKE v JOKED JOKING JOKESto say something amusingJOKER n pl JOKERSone that jokesJOKESTER n pl JOKESTERSa practical jokerJOKEY adj JOKIER JOKIESTamusingJOKILY advJOKIER comparative of jokyJOKIEST superlative of jokyJOKINESS n pl JOKINESSESthe state of being jokeyJOKING present participle of jokeJOKINGLY adv in a joking mannerJOKY adj JOKIER JOKIESTjokeyJOLE n pl JOLESjowlJOLLIED past tense of jollyJOLLIER n pl JOLLIERSone who puts others in good humorJOLLIES present 3d person sing of jollyJOLLIEST superlative of jollyJOLLIFY v JOLLIFIED JOLLIFYING JOLLIFIESto make jollyJOLLITY n pl JOLLITIESmirthJOLLY adj JOLLIER JOLLIESTcheerfulJOLLILY advJOLLY v JOLLIED JOLLYING JOLLIESto put in a good humor for ones own purposesJOLT v JOLTED JOLTING JOLTSto jar or shake roughlyJOLTER n pl JOLTERSone that joltsJOLTY adj JOLTIER JOLTIESTmarked by a jolting motionJOLTILY advJOMON adj pertaining to a Japanese cultural periodJONES v JONESED JONESING JONESESto have a strong craving for somethingJONGLEUR n pl JONGLEURSa minstrelJONQUIL n pl JONQUILSa perennial herbJOOK n pl JOOKSa tavern that has a jukeboxJORAM n pl JORAMSjorumJORDAN n pl JORDANSa type of containerJORUM n pl JORUMSa large drinking bowlJOSEPH n pl JOSEPHSa womans long cloakJOSH v JOSHED JOSHING JOSHESto teaseJOSHER n pl JOSHERSone that joshesJOSHING n pl JOSHINGSthe act of teasingJOSS n pl JOSSESa Chinese idolJOSTLE v JOSTLED JOSTLING JOSTLESto bump or push roughlyJOSTLER n pl JOSTLERSone that jostlesJOT v JOTTED JOTTING JOTSto write down quicklyJOTA n pl JOTASa Spanish danceJOTTER n pl JOTTERSone that jotsJOTTING n pl JOTTINGSa brief noteJOTTY adj written down quicklyJOUAL n pl JOUALSa dialect of Canadian FrenchJOUK v JOUKED JOUKING JOUKSto dodgeJOULE n pl JOULESa unit of energyJOUNCE v JOUNCED JOUNCING JOUNCESto move roughly up and downJOUNCY adj JOUNCIER JOUNCIESTmarked by a jouncing motionJOURNAL v JOURNALED JOURNALING JOURNALSto enter in a daily recordJOURNEY v JOURNEYED JOURNEYING JOURNEYSto travelJOURNO n pl JOURNOSa writer for a news mediumJOUST v JOUSTED JOUSTING JOUSTSto engage in personal combatJOUSTER n pl JOUSTERSone that joustsJOVIAL adj goodhumoredJOVIALLY advJOVIALTY n pl JOVIALTIESthe quality or state of being jovialJOW v JOWED JOWING JOWSto tollJOWAR n pl JOWARSa durra grown in IndiaJOWL n pl JOWLSthe fleshy part under the lower jawJOWLED adjJOWLY adj JOWLIER JOWLIESThaving prominent jowlsJOY v JOYED JOYING JOYSto rejoiceJOYANCE n pl JOYANCESgladnessJOYFUL adj JOYFULLER JOYFULLESThappyJOYFULLY advJOYLESS adj being without gladnessJOYOUS adj joyfulJOYOUSLY advJOYPAD n pl JOYPADSa device with buttons to control computer imagesJOYPOP v JOYPOPPED JOYPOPPING JOYPOPSto use habitforming drugs occasionallyJOYRIDE v JOYRODE JOYRIDDEN JOYRIDING JOYRIDESto take an automobile ride for pleasureJOYRIDER n pl JOYRIDERSone that joyridesJOYSTICK n pl JOYSTICKSthe control stick in an airplaneJUBA n pl JUBASa lively danceJUBBAH n pl JUBBAHSa loose outer garmentJUBE n pl JUBESa platform in a churchJUBHAH n pl JUBHAHSjubbahJUBILANT adj exultantJUBILATE v JUBILATED JUBILATING JUBILATESto exultJUBILE n pl JUBILESjubileeJUBILEE n pl JUBILEESa celebrationJUCO n pl JUCOSa junior collegeJUDAS n pl JUDASESa peepholeJUDDER v JUDDERED JUDDERING JUDDERSto vibrateJUDDERY adj vibratingJUDGE v JUDGED JUDGING JUDGESto decide on criticallyJUDGER n pl JUDGERSone that judgesJUDGMENT n pl JUDGMENTSan authoritative opinionJUDICARE n pl JUDICARESlegal aid whereby lawyers are paid by the government for services to poor clientsJUDICIAL adj pertaining to courts of lawJUDIES pl of judyJUDO n pl JUDOSa form of jujitsuJUDOIST n pl JUDOISTSone skilled in judoJUDOKA n pl JUDOKASa judoistJUDY n pl JUDIESa womanJUG v JUGGED JUGGING JUGSto put into a jug a large deep container with a narrow mouth and a handleJUGA a pl of jugumJUGAL adj pertaining to the cheek or cheekboneJUGATE adj occurring in pairsJUGFUL n pl JUGFULS or JUGSFULas much as a jug will holdJUGGED past tense of jugJUGGING present participle of jugJUGGLE v JUGGLED JUGGLING JUGGLESto perform feats of manual dexterityJUGGLER n pl JUGGLERSone that jugglesJUGGLERY n pl JUGGLERIESthe art of a jugglerJUGGLING n pl JUGGLINGSjuggleryJUGHEAD n pl JUGHEADSa doltJUGSFUL a pl of jugfulJUGULA pl of jugulumJUGULAR n pl JUGULARSa vein of the neckJUGULATE v JUGULATED JUGULATING JUGULATESto suppress a disease by extreme measuresJUGULUM n pl JUGULAa part of a birds neckJUGUM n pl JUGUMS or JUGAa pair of the opposite leaflets of a pinnate leafJUICE v JUICED JUICING JUICESto extract the juice the liquid part of a fruit or vegetable fromJUICER n pl JUICERSa juice extractorJUICY adj JUICIER JUICIESTfull of juiceJUICILY advJUJITSU n pl JUJITSUSa Japanese art of selfdefenseJUJU n pl JUJUSan object regarded as having magical powerJUJUBE n pl JUJUBESa fruitflavored candyJUJUISM n pl JUJUISMSthe system of beliefs connected with jujusJUJUIST n pl JUJUISTSa follower of jujuismJUJUTSU n pl JUJUTSUSjujitsuJUKE v JUKED JUKING JUKESto fake out of positionJUKEBOX n pl JUKEBOXESa coinoperated phonographJUKU n pl JUKUSan additional school in Japan for preparing students for collegeJULEP n pl JULEPSa sweet drinkJULIENNE v JULIENNED JULIENNING JULIENNESto cut food into long thin stripsJUMAR v JUMARED JUMARING JUMARS or JUMARRED JUMARRING JUMARSto climb with ropes using a type of clampJUMBAL n pl JUMBALSa ringshaped cookieJUMBIE n pl JUMBIESa spirit of a dead personJUMBLE v JUMBLED JUMBLING JUMBLESto mix in a disordered mannerJUMBLER n pl JUMBLERSone that jumblesJUMBO n pl JUMBOSa very large specimen of its kindJUMBUCK n pl JUMBUCKSa sheepJUMP v JUMPED JUMPING JUMPSto spring off the groundJUMPABLE adjJUMPER n pl JUMPERSone that jumpsJUMPING n pl JUMPINGSthe act of one that jumpsJUMPOFF n pl JUMPOFFSa starting pointJUMPROPE n pl JUMPROPESa rope used in childrens games for jumpingJUMPSHOT n pl JUMPSHOTSa type of shot in basketballJUMPSIES npl a game involving jumping over a taut ropeJUMPSUIT n pl JUMPSUITSa onepiece garmentJUMPY adj JUMPIER JUMPIESTnervousJUMPILY advJUN n pl JUNa coin of North KoreaJUNCO n pl JUNCOS or JUNCOESa small finchJUNCTION n pl JUNCTIONSa place where things joinJUNCTURE n pl JUNCTURESthe act of joiningJUNGLE n pl JUNGLESland covered with dense tropical vegetationJUNGLED adjJUNGLIST n pl JUNGLISTSa performer of a style of fast dance musicJUNGLY adj JUNGLIER JUNGLIESTresembling a jungleJUNIOR n pl JUNIORSa person who is younger than anotherJUNIPER n pl JUNIPERSan evergreen treeJUNK v JUNKED JUNKING JUNKSto discard as trashJUNKER n pl JUNKERSsomething ready for junkingJUNKET v JUNKETED JUNKETING JUNKETSto banquetJUNKETER n pl JUNKETERSone that junketsJUNKIE n pl JUNKIESa drug addictJUNKMAN n pl JUNKMENone who buys and sells junkJUNKY adj JUNKIER JUNKIESTworthlessJUNKYARD n pl JUNKYARDSa place where junk is storedJUNTA n pl JUNTASa political or governmental councilJUNTO n pl JUNTOSa political factionJUPE n pl JUPESa womans jacketJUPON n pl JUPONSa tunicJURA pl of jusJURAL adj pertaining to lawJURALLY advJURANT n pl JURANTSone that takes an oathJURAT n pl JURATSa statement on an affidavitJURATORY adj pertaining to an oathJUREL n pl JURELSa food fishJURIDIC adj pertaining to the lawJURIST n pl JURISTSone versed in the lawJURISTIC adjJUROR n pl JURORSa member of a jury a committee for selecting material for exhibitionJURY v JURIED JURYING JURIESto select material for exhibitionJURYLESS adj being without a juryJURYMAN n pl JURYMENa jurorJUS n pl JURAa legal rightJUSSIVE n pl JUSSIVESa word used to express commandJUST adj JUSTER JUSTESTacting in conformity with what is morally goodJUST v JUSTED JUSTING JUSTSto joustJUSTER n pl JUSTERSjousterJUSTICE n pl JUSTICESa judgeJUSTIFY v JUSTIFIED JUSTIFYING JUSTIFIESto show to be just right or validJUSTLE v JUSTLED JUSTLING JUSTLESto jostleJUSTLY adv in a just mannerJUSTNESS n pl JUSTNESSESthe quality of being justJUT v JUTTED JUTTING JUTSto protrudeJUTE n pl JUTESa strong coarse fiberJUTELIKE adj resembling juteJUTTY v JUTTIED JUTTYING JUTTIESto jutJUVENAL n pl JUVENALSa young birds plumageJUVENILE n pl JUVENILESa young personJUVIE n pl JUVIESa juvenile delinquent").
+```
+```prolog
+条目(ka, n, [kas], "埃及宗教中与人类相关的灵魂自我KAAS n pl KAASkasKAB n pl KABSan ancient Hebrew unit of measureKABAB n pl KABABSkabobKABADDI n pl KABADDIS一种南亚的触碰运动，由两支队伍进行KABAKA n pl KABAKAS乌干达的皇帝KABALA n pl KABALAS cabalaKABALISM n pl KABALISMS cabalismKABALIST n pl KABALISTS cabalistKABAR n pl KABARS caberKABAYA n pl KABAYAS 棉布夹克KABBALA n pl KABBALAS cabalaKABBALAH n pl KABBALAHS cabalaKABELJOU n pl KABELJOUS 一种大型食鱼KABIKI n pl KABIKIS 热带树KABLOOEY interj 用于指一种突然发生的事件KABLOOIE interj 同 kablooeyKABLOONA n pl KABLOONAS or KABLOONAT 不是因纽特人的人KABOB n pl KABOBS 用铁签串起来烤制的肉块KABOCHA n pl KABOCHAS 一种日本南瓜或葫芦KABOODLE n pl KABOODLES caboodleKABOOM n pl KABOOMS 巨大爆炸声KABUKI n pl KABUKIS 日本的一种戏剧形式KACHINA n pl KACHINAS 祖先灵KADDISH n pl KADDISHES or KADDISHIM 犹太祈祷词KADI n pl KADIS 卡迪KAE n pl KAES 一种类乌鸦的鸟KAF n pl KAFS kaphKAFFIR n pl KAFFIRS 卡菲尔KAFFIYAH n pl KAFFIYAHS ka阿富汗巾KAFFIYEH n pl KAFFIYEHS 一种大方巾KAFIR n pl KAFIRS 谷物草KAFTAN n pl KAFTANS kaftanKAFUFFLE n pl KAFUFFLES 混乱或骚动KAGU n pl KAGUS 一种不会飞的鸟KAHUNA n pl KAHUNAS 巫医KAIAK n pl KAIAKS kayakKAIF n pl KAIFS kefKAIL n pl KAILS 羽衣甘蓝KAILYARD n pl KAILYARDS kaleyardKAIN n pl KAINS 以农产品或牲畜支付的税KAINIT n pl KAINITS kainiteKAINITE n pl KAINITES 矿物盐KAISER n pl KAISERS 帝国KAISERIN n pl KAISERINS 皇后KAIZEN n pl KAIZENS 日本企业持续改进的实践KAJEPUT n pl KAJEPUTS cajuputKAKA n pl KAKAS 一种鹦鹉KAKAPO n pl KAKAPOS 一种不会飞的鹦鹉KAKEMONO n pl KAKEMONOS 日本卷轴KAKI n pl KAKIS 日本树KAKIEMON n pl KAKIEMONS 日本瓷器KAKIVAK n pl KAKIVAKS 因纽特人使用的鱼叉KALAM n pl KALAMS 一种穆斯林神学KALAMATA n pl KALAMATAS 希腊黑橄榄KALE n pl KALES 某种类型的甘蓝KALENDS n pl KALENDS calendsKALEWIFE n pl KALEWIVES 女性蔬菜商贩KALEYARD n pl KALEYARDS 厨房花园KALIAN n pl KALIANS 水烟袋KALIF n pl KALIFS caliphKALIFATE n pl KALIFATES califateKALIMBA n pl KALIMBAS 非洲乐器KALIPH n pl KALIPHS caliphKALIUM n pl KALIUMS 钾KALLIDIN n pl KALLIDINS 激素KALMIA n pl KALMIAS 一种常绿灌木KALONG n pl KALONGS 水果蝙蝠KALPA n pl KALPAS 印度宗教中的一段时期香港》。)
+```
+entry(la, n, [拉], "全音阶中第六个音调")
+entry(laager, v, [laagered,laagering,laagers], "形成防御营地").
+entry(拉里, n, [拉里], "马尔代夫的一种货币单位").
+entry(实验室, n, [实验室], "一个实验室").
+entry(拉巴瑞姆, n, [拉巴瑞姆们], "或拉巴瑞姆一个教会横幅").
+入口(乳香脂, n, [乳香脂们], "一种芳香树脂")。
+```prolog
+条目(标签, v, [标记的, 标记, 标签], "或者 LABELLED LABELLING LABELSto 表述或指示").
+```
+entry(标签者, n, [标签者], "贴标签的人").
+entry(唇瓣, pl, [], "唇瓣的").
+条目(标签员, n, [标签员们], "labeler").
+entry(标签, a, [], "label 的现在分词").
+entry(唇瓣, n, [唇瓣], "兰花的下花瓣").
+entry(唇, 复数, [], "唇的").
+entry(双唇音, 名词, [双唇音], "一个用双唇发出的声音").
+entry(双唇地, 副词, [], "通过嘴唇").
+entry(唇形科植物, n, [唇形科植物], "唇形植物")。
+entry(唇形的, 形容词, [], "具有分成两个唇形部分的花冠").
+entry(不稳定的, 形容词, [], "可能改变").
+entry(不稳定性, n, [不稳定性], "处于不稳定状态").
+条目(阴唇, n, [阴唇], "外阴的褶皱")。
+entry(劳动, v, [劳动了, 劳动中, 劳动], "工作").
+entry(工人, n, [工人们], "劳动者").
+条目(劳工主义者, 名词, [劳工主义者们], "一个支持劳工利益的人").
+entry(劳动, v, [劳动过,劳动中,劳动], "进行劳动").
+entry(工人, n, [工人], "劳动者").
+entry(唇板, a, [], "唇板的复数").
+条目(拉布拉多, 名词, [拉布拉多犬], "一种猎犬")。
+entry(labret, n, [labrets], "佩戴在唇部穿孔中的装饰物").
+entry(隆头鱼, n, [隆头鱼], "一种海洋鱼").
+条目(唇, n, [唇状物], "或唇状结构的唇或唇样结构唇状 adj")。
+entry(拉布鲁斯卡, n, [拉布鲁斯卡葡萄], "狐葡萄").
+入口(紫藤, 名词, [紫藤], "一种观赏树").
+entry(lac, n, [胭脂虫胶], "由某些昆虫分泌的树脂物质")。
+条目(鞋带, v, [系紧, 系带, 系鞋带], "通过鞋带或绳子系紧以拉近两个边缘")。
+```prolog
+entry(无鞋带, 形容词, [], "没有鞋带").
+```
+entry(蕾丝状, 形容词, [], "类似蕾丝").
+入口(系带者, n, [系带者们], "系鞋带的人").
+entry(撕裂, 动词, [撕裂了, 撕裂中, 撕裂], "粗暴地撕扯").
+entry(蜥蜴目, n, [蜥蜴们], "一种蜥蜴").
+入口(lacewing, n, [lacewings], "一种有翅昆虫")。
+entry(花纹木, n, [花纹木], "一种澳大利亚树木").
+entry(花边, n, [花边品], "一种精致的网状织物").
+entry(蕾西, 形容词, [], "LACIER LACIESTlacy").
+entry(延误权利行使，名词，[延误权利行使]，"在主张法律权利方面不当延误")。
+entry(更蕾丝的，比较级，[], "蕾丝的")。
+entry(最花边, 最高级, [], "花边的").
+entry(懒洋洋地, 副词, [], "以花边的方式").
+条目(蕾丝状, n, [蕾丝状们], "蕾丝的特质").
+```prolog
+entry(花边, n, [花边], "一种对比鲜明的边缘色带").
+```
+entry(缺乏, v, [缺乏过, 缺乏中, 缺乏], "没有").
+entry(唉, 感叹词, [], "用于表达遗憾").
+```prolog
+entry(漆工, v, [漆过, 漆中, 漆工们], "涂漆").
+```
+entry(lackey, v, [lackeyed,lackeying,lackeys], "奉承地行事").
+词条(简洁的, 形容词, [], "用最少的词").
+entry(简洁, n, [简洁表达], "表达的简练").
+条目(漆, 动词, [涂漆, 涂漆中, 涂漆们], "用一种光泽物质涂层").
+entry(男仆, 动词, [充当男仆, 担任男仆, 男仆们], "做男仆").
+入口(泪骨, n, [泪骨], "眼窝的小骨头")。
+entry(长曲棍球, n, [长曲棍球], "一种球类运动").
+```
+entry(泪腺的, n, [泪腺的], "泪腺的").
+```
+entry(内酰胺, n, [内酰胺], "一种化合物").
+entry(乳, 形容词, [], "关于牛奶的").
+入口(乳糖酶, n, [乳糖酶], "一种酶").
+入口(泌乳, 动词, [泌乳了, 正在泌乳, 泌乳], "分泌奶")。
+entry(乳糜管, n, [乳糜管], "淋巴管").
+条目(乳, 形容词, [], "乳白的")。
+entry(乳白色的, 形容词, [], "类似牛奶").
+条目(乳酸, 形容词, [], "从牛奶中提取").
+入口(乳糖醇, n, [乳糖醇], "一种人工甜味剂")。
+entry(内酯, n, [内酯], "任何一组酯类LACTONIC 形容词").
+entry(乳糖, n, [乳糖], "一种乳糖").
+entry(空缺, n, [空缺们], "或 LACUNAE一个空的空间或缺失的部分LACUNAL LACUNARY LACUNATE 形容词").
+entry(小室的, n, [小室的], "或 LACUNARIAa 天花板带有凹进的面板").
+entry(空隙, n, [空隙], "空缺").
+entry(浅凹的, 形容词, [], "以浅凹为特征").
+入口(蕾絲, 形容詞, [], "如同蕾絲的 LACIER LACIEST")。
+entry(男孩, 名词, [男孩们], "一个男孩或青年LADDISH 形容词")。
+entry(乳香胶, n, [乳香胶s], "labdanum").
+条目(梯子, v, [梯过, 正在梯, 梯子们], "导致长筒袜抽丝")。
+entry(拉迪, n, [拉迪们], "一个小伙子")。
+entry(粗野, 形容词, [], "喧闹小伙子的特征").
+条目(粗野男孩行为, n, [粗野男孩行为], "小伙子们的喧闹男子气概行为").
+条目(拉迪, 形容词, [], "行为幼稚，有男子气概").
+条目(装载, 动词, [已装载, 已装满, 装载中], "装载一个货物").
+条目(充满, v, [装载, 装载中, 装满], "来装载")。
+entry(装载者, n, [装载者们], "装载的人").
+条目(少年时期, n, [少年时期们], "作为少年的状态")。
+entry(女士们, 复数, [], "女士的").
+entry(货物, n, [货物], "货物运费").
+条目(拉迪诺, 名词, [拉迪诺斯], "一种快速生长的苜蓿").
+入口(长柄勺, v, [舀出, 舀取, 长柄勺], "用一种勺子舀出")。
+入口(满勺, 名词, [满勺数], "一勺所能盛的量")。
+entry(长柄勺者, n, [长柄勺者们], "一个用长柄勺舀东西的人").
+entry(舀, 现在, [], "舀的分词").
+entry(盗贼, n, [盗贼们], "盗贼").
+入口(窃贼, 名词, [窃贼们], "一个小偷")。
+入口(女士, 名词, [女士们], "一个举止优雅的女人")。
+entry(瓢虫, n, [瓢虫], "瓢虫").
+条目(瓢虫, n, [瓢虫], "一种小甲虫")。
+entry(女士鱼, n, [女士鱼们], "一种骨鱼").
+entry(淑女身份, n, [淑女身份们], "成为淑女的状态").
+entry(淑女式, 形容词, [], "有点淑女样").
+entry(ladykin, n, [ladykins], "小女士")。
+条目(淑女般的, 形容词, [], "类似或适合女士的")。
+entry(意中人, n, [意中人们], "甜心")。
+entry(淑女特质, n, [淑女士态], "作为淑女的品质或状态")。
+entry(棕榈, n, [棕榈], "一种棕榈树").
+entry(夫人地位, 名词, [夫人地位们], "作为女士的身份").
+`entry(杏仁甙, n, [杏仁甙类], "一种从杏仁核中提取的药物").`
+entry(左旋, 形容词, [], "levo").
+条目(滞后, 动词, [滞后的, 滞后中, 滞后], "落后或落后").
+entry(拉甘, n, [拉甘], "带有浮标的货物被抛入海中以便回收").
+entry(lagend, n, [传奇], "拉甘").
+entry(窖藏, v, [窖藏了, 正在窖藏, 窖藏], "使发酵").
+entry(落后者, n, [落后者们], "落在后面的人").
+条目(落后, 过去, [], "滞后的时态").
+entry(迟到者, n, [迟到者们], "一个落后者").
+entry(滞后, n, [滞后物], "一种绝缘材料").
+条目(赠品, 名词, [赠品], "与购买一起赠送给顾客的小礼物")。
+```prolog
+词条(潮湖, 名词, [潮湖们], "一个浅水体，潮湖的 形容词").
+```
+entry(潟湖, 名词, [潟湖], "礁湖").
+entry(潟湖, 名词, [潟湖], "泻湖").
+入口(lah, n, [lahs], "la").
+entry(lahal, n, [啦哈尔斯], "由太平洋西北地区原住民玩的团体游戏")
+entry(泥石流, 名词, [泥石流], "流动的火山碎屑体").
+entry(外行人, n, [外行人], "一个外行人LAICAL adjLAICALLY adv").
+条目(laich, n, [laichs], "laigh").
+entry(世俗化, 动词, [已世俗化, 正在世俗化, 世俗化], "使...世俗化").
+entry(政教分离, n, [政教分离主义], "一个不受教权控制的政治体系").
+entry(世俗化, 动词, [世俗化的, 世俗化中, 世俗化], "使摆脱神职人员的控制").
+entry(laid, a, [], "lay的过去式")
+entry(laigh, n, [laighs], "低地")。
+条目(躺下, 过去, [], "撒谎的分词").
+entry(巢穴, v, [栖息于巢穴, 栖息于巢穴中, 巢穴], "指生活在巢穴中，野生动物的休息或居住地").
+入口(牛棚, n, [牛棚], "牛在市场中被安置的地方")。
+entry(地产主, n, [地产主们], "拥有土地庄园的主人").
+entry(lairy, adj, [], "刺耳的").
+entry(孕育剂, n, [孕育剂们], "新鲜混凝土表面的乳白色沉积物").
+entry(laith, 形容词, [], "勉强不情愿地 LAITHLY 副词").
+entry(俗人, n, [俗人们], "宗教信仰中非神职人员的成员")
+入口(水湖, 名词, [湖水], "一个大型的内陆水体湖泊状形容词").
+entry(湖底, n, [湖底], "湖的底部").
+entry(laked, 形容词, [], "经历湖化过程")
+条目(填湖, n, [填湖地], "通过填湖建造的土地面积").
+entry(湖首, n, [湖首们], "距离出水口最远的湖岸")。
+entry(湖区, n, [湖区], "有很多湖泊的区域").
+入口(湖港, n, [湖港], "位于湖泊岸边的城市")。
+入口(湖鱼, 名词, [湖鱼类], "一种湖鱼").
+入口(湖边, 名词, [湖边], "湖的边缘的土地")。
+entry(lakeview, 形容词, [], "俯瞰湖泊").
+entry(面向湖泊, 形容词, [], "面向一个湖").
+entry(拉克, 名词, [拉克], "十万的总和").
+entry(射血, n, [血浆变红], "红细胞中的血红蛋白释放导致的血浆发红现象").
+项(拉基, 形容词, [], "最光滑 最光滑的血色").
+entry(lalique, n, [laliques], "一种切割玻璃或水晶的风格").
+入口(lall, v, [lalled, lalling, lalls], "将字母r发成l").
+入口(拉裡蘭, 名词, [拉裡蘭斯], "低地").
+条目(lalland, n, [lallands], "低地")。
+entry(磨蹭, v, [磨蹭了,磨蹭着,磨蹭], "浪费时间").
+入口(攬, 动词, [攬了, 攬着, 攬们], "匆忙逃跑")。
+entry(喇嘛, n, [喇嘛们], "一个佛教僧侣").
+entry(喇嘛庙, n, [喇嘛庙], "喇嘛的寺院").
+entry(羔羊, v, [羔了, 羔着, 羔羊], "生下小羊，一个年轻的羊").
+entry(兰巴达, n, [兰巴达舞], "一种巴西舞蹈").
+条目(鞭打, 动词, [鞭打过, 鞭打中, 鞭打们], "来鞭打").
+entry(痛斥, v, [痛斥了,痛斥着,痛斥], "严厉地批评或责备").
+条目(λ, n, [λ们], "一个希腊字母Λ形的 形容词").
+entry(柔和, n, [柔光], "柔和或微光之品质或实例").
+entry(灵动的, 形容词, [], "轻轻地在表面上闪烁").
+入口(母羊, 名词, [母羊们], "正在分娩的小母羊").
+entry(兰伯特, n, [兰伯特斯], "亮度单位")。
+入口(小羊, 名词, [小羊们], "一只小羊羔")。
+entry(羔羊, 比较, [], "羊的").
+```prolog
+entry(最羔羊, 最高级, [], "的羔羊").
+```
+entry(羔羊产羔, n, [产羔], "农场上羔羊的出生").
+entry(羊毒, n, [羊毒], "一种常绿灌木").
+entry(羊羔, n, [羊羔], "一只小绵羊")。
+entry(似羊的, 形容词, [], "像羊一样").
+entry(羔羊皮, n, [羔羊皮], "小羊的皮").
+词条(羊羔样, 形容词, [], "像羊羔的样子").
+entry(lame, adj, [], "身体残疾的").
+entry(瘸, 动词, [瘸了, 瘸着, 瘸], "致残")。
+entry(拉梅德, n, [lameds], "希伯来字母").
+entry(拉梅德, n, [拉梅德s], "拉梅德").
+entry(薄片, n, [薄片], "或 LAMELLAE 一种薄板、鳞片或薄膜 LAMELLAR 形容词")
+entry(瘸地, 副词, [], "以跛脚的方式").
+entry(跛行, n, [跛行], "瘸腿的状态").
+入口(哀叹, v, [哀叹了, 哀叹, 哀叹着], "表达悲伤或遗憾").
+entry(哀叹者, n, [哀叹者们], "一个哀叹的人").
+`entry(瘸, 比较级, [], "的跛").`
+条目(最差的, 最高级, [], "的差劲")。
+entry(拉米亚, n, [拉米亚们], "或拉米亚：女性恶魔")。
+entry(薄片, n, [薄片], "或 LAMINAE 薄板 鳞片 或 层 LAMINAR 层状的 LAMINARY 形容词").
+entry(舌叶音, n, [舌叶音], "由舌面发出的语音").
+```
+entry(层压, v, [层压的,层压中,层压], "压缩成薄板").
+```
+entry(laming, 现在时, [], "lame的分词").
+entry(层粘连蛋白, n, [层粘连蛋白s], "糖蛋白").
+入口（laminose，形容词，[]，“由薄片组成”）。
+entry(层状, 形容词, [], "层状").
+entry(逃犯, n, [逃犯们], "逃犯")。
+entry(受屈辱, 过去, [], "lam的时态").
+entry(林明, 在场, [], "分词形式的 lam")
+条目(灯, 动词, [灯了, 灯着, 灯], "看").
+entry(lampad, n, [灯台], "烛台")。
+entry(灯泡, n, [灯泡], "马嘴顶部的炎症")。
+入口(灯达人, 名词, [灯达人们], "灯").
+entry(灯笼, n, [灯笼], "一种发光设备").
+entry(无灯, 形容词, [], "缺乏一盏灯，一种提供光线的设备")。
+entry(lamplit, 形容词, [], "灯光照亮的").
+entry(讽刺, v, [讽刺了,讽刺中,讽刺], "在讽刺作品中进行嘲讽").
+入口(灯柱, n, [灯柱们], "支撑路灯的柱子")。
+entry(七鳃鳗, n, [七鳃鳗], "一种鳗鱼状的鱼类").
+entry(萤火虫, n, [萤火虫], "一种甲虫科昆虫").
+entry(仓鼠, n, [仓鼠们], "逃犯").
+entry(前廊, n, [前廊], "一個陽台")。
+entry(拉尼特, 形容词, [], "被羊毛覆盖").
+entry(毛茸茸的, 形容词, [], "lanate").
+entry(兰斯, 动词, [刺穿, 刺穿中, 刺穿们], "用矛刺穿像矛一样的武器").
+entry(文昌鱼, n, [文昌鱼类], "一种小型海洋生物").
+entry(长矛骑兵, n, [长矛骑兵们], "持矛的骑兵").
+entry(lancet, n, [lancets], "尖拱LANCETED 形容词").
+entry(拖冰, v, [拖过,拖冰中,拖冰], "拖船通过冰面").
+条目(长枪兵, n, [长枪兵], "一种法国舞蹈")。
+entry(lancing, 当前, [], "戳的分词").
+入口(土地, v, [着陆,着陆,登陆], "降落到坚实的土地上")。
+入口(landau, n, [landaus], "一种马车").
+entry(登陸者, n, [登陸者們], "一個著陸的東西").
+入口(登陆, 名词, [登陆], "到达或接近陆地").
+entry(陆缘, 形容词, [], "附着于海岸（用于描述冰）").
+entry(垃圾填埋场, v, [垃圾填埋,垃圾填埋中,垃圾填埋场], "通过填埋垃圾来建造区域").
+entry(土形, n, [土形], "地球表面的自然特征").
+entry(土地掠夺, 名词, [土地掠夺], "迅速且常为欺诈性的土地占有").
+entry(登陸場, n, [登陸場], "一個用於載客或裝卸貨物的地方")。
+entry(房东夫人, n, [房东夫人们], "女性的房东").
+入口(landler, n, [landlers], "一种缓慢的奥地利舞蹈")。
+entry(无地, 形容词, [], "没有土地").
+条目(固定电话, n, [固定电话], "一条陆地通信线路").
+房东条目(n, [房东们], "拥有并出租房地产的人").
+entry(landman, n, [landmen], "在陆地上生活和工作的人").
+entry(地标, v, [地标化, 地标化中, 地标], "将建筑或地点指定为具有历史或美学重要性的地方")。
+词条(土地, 名词, [土地块], "一大片土地")。
+entry(landmen, pl, [], "土地管理员的").
+entry(土地側, n, [土地側], "犁的一部分").
+entry(风景, 名词, [风景], "景观").
+entry(landslid, 过去式, [], "以压倒性的多数获胜来赢得选举的滑坡的时态").
+```prolog
+entry(滑坡, n, [滑坡], "大量土壤的下滑").
+```
+入口(土地人, 名词, [土地人们], "土地人").
+条目(土地人, 名词, [乡亲], "一个来自东欧自己地区的犹太同胞").
+词条(向陆的, 副词, [], "朝向陆地").
+entry(landwash, n, [landwashes], "高潮线与海之间的沿岸区域").
+entry(小巷, n, [小巷], "一条狭窄的通道").
+entry(寂寞, adj, [], "孤独").
+entry(小巷, n, [小巷们], "一条小路").
+entry(lang, adj, [], "长").
+entry(越野滑雪, n, [越野滑雪], "越野滑雪道").
+entry(兰利, 名词, [兰利], "一种照明单位").
+entry(兰格瑞吉, n, [兰格瑞吉], "以前在海战中使用的一种炮弹").
+entry(langrel, n, [语言关系], "langrage").
+词条(兰山, 名词, [兰山鸡], "一种大型家禽品种")。
+条目(往昔, 名词, [往昔], "遥远的过去")。
+entry(语言, n, [语言], "作为交流手段的一种词汇和系统的集合").
+entry(语言, n, [语言种类], "一种语言类型").
+entry(语言, 形容词, [], "具有指定颜色的舌头").
+输入(languet, n, [languets], "舌状部分")。
+条目(慵懒, 形容词, [], "缺乏活力").
+条目(消沉, 动词, [消沉了, 正在消沉, 消沉着], "失去活力或生机").
+入口(慵懒, 名词, [慵懒], "无力的状态")。
+entry(长臂猿, n, [长臂猿], "一种亚洲猴子").
+entry(系带, n, [系带], "挂绳").
+entry(犬齿, n, [犬齿], "尖牙").
+入口(兰尼塔尔, n, [兰尼塔尔], "一种类似羊毛的纤维").
+entry(瘦长, 形容词, [], "更瘦长 最瘦长 长而细 瘦长地 副词").
+entry(瘦长, n, [瘦长的], "瘦长的状态").
+entry(瘦高的, 形容词, [], "更瘦高 最瘦高 瘦高得不优雅 瘦高地 副词").
+entry(lanner, n, [lanners], "欧洲和亚洲的一种隼").
+入口(猎鹰, 名词, [猎鹰们], "一种雄性猎鹰")。
+条目(羊毛脂, 名词, [羊毛脂], "一种从羊毛中提取的脂肪物质").
+条目(羊毛脂, n, [羊毛脂], "羊毛脂").
+entry(兰纳斯, 形容词, [], "绒毛状").
+entry(绒毛状, 名词, [绒毛状], "绒毛状态").
+entry(马缨花, n, [马缨花], "一种热带灌木").
+entry(灯笼, n, [灯笼], "用于保护光源的外壳").
+入口(灯笼, 名词, [灯笼们], "一盏灯笼")。
+entry(胎毛, n, [胎毛], "细软的毛发").
+条目(系索, n, [系索], "船上的系绳").
+entry(劳改, n, [劳改], "中国的劳改营系统").
+entry(膝部, v, [重叠, 重叠中, 重叠], "折叠或围绕某物").
+entry(膝上桌, n, [膝上桌们], "用作桌子或书桌的平板").
+entry(小狗, n, [小狗们], "一只小狗").
+条目(翻领, 名词, [翻领], "服装领子的延伸部分带翻领的 adj").
+entry(lapful, n, [满怀], "大腿上能盛的量")。
+entry(宝石工, n, [宝石工], "从事宝石加工的人").
+entry(投石, 动词, [被投石, 投石中, 投石], "投掷石头").
+```prolog
+词条(石化, 动词, [石化了, 正在石化, 石化], "变成石头").
+```
+entry(珠宝加工师, n, [珠宝加工师们], "宝石匠").
+entry(小火山岩块, n, [小火山岩块], "小块的熔岩碎片").
+条目(兔子, n, [兔子们], "一只兔子").
+entry(青金石, n, [青金石们, 青金石], "一种半宝石").
+lèi(rǎo, guòqù, [], "huí dòng de shí tài").
+entry(lapper, v, [lappered,lappering,lappers], "去修剪").
+入口(饰边, n, [饰边], "服装上的装饰性翻盖LAPPETED adj")。
+entry(舔舐, 现在时, [], "舔舐的分词形式")。
+```prolog
+条目(失效, 动词, [失效的, 失效中, 失效], "从先前的标准下降可失效 可折叠 形容词").
+```
+```prolog
+entry(失误者, n, [失误者们], "一个发生失误的人").
+```
+条目(错误, n, [错误], "一个错误").
+entry(笔记本电脑, n, [笔记本电脑], "一台可以放在膝上使用的小型电脑").
+入口(燕鸻, 名词, [燕鸻], "一种滨鸟")。
+entry(lar, n, [拉尔斯], "或拉瑞萨，一种古罗马家庭的庇护神或精灵")
+entry(larboard, n, [左舷], "船的左侧").
+entry(窃贼, n, [窃贼们], "犯盗窃罪的人").
+entry(盗窃, n, [盗窃行为], "非法偷取和移走他人个人财物").
+entry(落叶松, n, [落叶松], "一种针叶树种类").
+entry(猪油, v, [涂猪油, 涂抹猪油, 涂盖猪油], "用熔化的猪油（猪的脂肪）涂抹").
+入口(储藏室, 名词, [储藏室们], "一个储存食物的地方")。
+入口(lardier, 比较级, [], "lardy的").
+entry(最肥的, 最高级, [], "的 肥胖").
+entry(类蜡脂, 形容词, [], "类似于蜡脂").
+条目(火腿片, 名词, [火腿片], "一种薄片的培根或猪肉")。
+entry(熏肉片, n, [熏肉片], "熏肉块").
+entry(lardy, adj, [], "类似于猪油的").
+entry(拉里, 名词, [拉里们], "拉里").
+```prolog
+条目(lares, a, [], "拉尔的复数").
+```
+entry(渐慢, 形容词, [], "逐渐变慢 用作音乐指示").
+条目(大, 形容词, [], "更大 最大相当大的尺寸或数量主要地 副词").
+entry(大, n, [大们], "慷慨").
+entry(慷慨, n, [慷慨行为], "generosity").
+条目(慷慨, 名词, [慷慨之举], "赠礼").
+entry(最大的, 最高级, [], "大").
+entry(偏大, 形容词, [], "有些大").
+entry(拉尔戈, n, [拉尔戈们], "一个缓慢的音乐乐章").
+entry(拉里, 名词, [拉里], "格鲁吉亚共和国的货币单位").
+条目(套索, 动词, [套住了, 正在套, 套索], "套住").
+entry(larigan, n, [larigans], "皮靴")。
+entry(larine, 形容词, [], "类似于海鸥").
+entry(云雀, v, [云雀了,云雀着,云雀们], "行为顽皮").
+entry(云雀, n, [云雀们], "一种嬉戏者")。
+入口(更活泼, 比较级, [], "活泼的").
+entry(最嬉戏的, 最高级, [], "属于嬉戏的").
+entry(云雀似的, 形容词, [], "顽皮的").
+entry(活泼, 形容词, [], "玩乐").
+入口（翠雀，名词，[翠雀]，“一种开花植物”）。
+入口(嬉戏, 形容词, [], "更加嬉戏 最嬉戏").
+entry(larn, v, [larnt,larning,larns], "学习")。
+entry(larrigan, n, [larrigans], "larigan").
+entry(larrikin, n, [larrikins], "一个吵闹的人").
+条目(重击, v, [重击了,重击中,重击], "打或猛击").
+entry(鞭打者, n, [鞭打者們], "鞭打的人").
+entry(警报, n, [警报声], "警报").
+entry(幼虫, n, [幼虫], "或称 LARVAE，这是一种新孵化出的昆虫和动物的幼体形式LARVAL 形容词").
+条目(喉音, n, [喉音], "一种在喉部发声的语言声音")。
+entry(喉, n, [喉头], "或 喉头 呼吸道的一个器官")
+entry(千层面, n, [千层面们], "一种意大利烤菜").
+入口(千层面, n, [千层面], "意大利宽面条").
+entry(拉斯卡尔, n, [拉斯卡尔们], "一个东印度水手").
+```prolog
+entry(lase, v, [激光,激光中,激光], "作为激光工作").
+```
+entry(激光, v, [激光处理,激光处理中,激光], "用激光设备处理，放大光波").
+entry(鞭打, 动词, [鞭打了,鞭打中,鞭打], "用鞭子打").
+词条(掠者, 名词, [掠者们], "挥鞭者").
+入口(鞭打, 名词, [鞭打], "一次鞭笞")。
+条目(辽丰盛, 复数名词, [], "丰富").
+entry(拉什卡尔, n, [拉什卡尔们], "拉斯卡").
+entry(无睫毛, 形容词, [], "缺少鞭子的鞭部").
+entry("激光", 现在, [], "激光的分词形式").
+entry(少女, n, [少女们], "一个年轻的女人").
+条目(乳酪饮料, n, [乳酪饮料们], "一种由酸奶、水和调味料制成的饮品")。
+entry(小姐, n, [小姐们], "一个女孩").
+entry(套索, 动词, [套索套住, 套索中, 套索], “或LASSOES用长绳扣圈捕捉”).
+entry(套索者, n, [套索者們], "一个套索的人").
+entry(拉西, n, [拉西们], "糖蜜")。
+entry(最后, v, [持续,持续着,持续着], "继续存在").
+`条目(最小的, n, [最小的们], "一个家庭中最后出生的孩子")。`
+entry(laster, n, [lasters], "持续者").
+词条(持久, 名词, [持久性], "一种耐用织物").
+entry(最后, 副词, [], "总之").
+entry(背阔肌, n, [背阔肌复数], "背部的一块肌肉").
+entry(拉塔基亚, n, [拉塔基亚斯], "一种土耳其烟草").
+门闩条目(门闩, v, [已闩, 闩紧中, 闩门], "用一种扣件装置关闭").
+entry(latchet, n, [鞋带], "用于系鞋的一条皮带").
+entry(门锁钥匙, n, [门锁钥匙], "用于打开门闩门的钥匙")。
+entry(迟到, 形容词, [], "后来的 最后来的来得比预期时间晚").
+entry(迟到, 形容词, [], "迟来的").
+entry(单桅三角帆船, n, [单桅三角帆船], "一种帆船").
+entry(纵帆船, n, [纵帆船], "一种帆船").
+entry(不久前, 副词, [], "不久之前").
+entry(迟到, v, [迟到过, 迟到中, 迟到], "变得迟到").
+entry(潜伏期, n, [潜伏期], "存在但未显现的状态").
+entry(迟到, n, [迟到的状态], "迟到的状态").
+入口(潜在, n, [潜在的], "一个几乎看不见但可以显现出来研究的指纹")。
+entry(潜在地, 副词, [], "以一种休眠的方式").
+条目(后来的, 比较级, [], "最近").
+entry(側面, 副詞, [], "朝向侧面").
+```prolog
+条目(横向, v, [横向的, 横向的ing, 横向], "或LATERALLED LATERALLING LATERALS在足球中执行一种传球").
+```
+条目(土壤, 名词, [土壤], "一种土壤类型").
+条目(风化成铁质, 动词, [风化成铁质了, 正在风化成铁质, 风化成铁质], "转化为铁质").
+入口(最新, n, [最新的], "最近的发展").
+entry(latewood, n, [晚材], "年轮的一部分").
+entry(乳胶, n, [乳胶], "或乳胶某些植物的乳白色液体").
+entry(板条, v, [钉板条,装板条,板条们], "用板条覆盖: 细木条").
+entry(车床, 动词, [车削过,车削中,车削], "在一种机器上切割或成型").
+entry(涂抹肥皂泡, 动词, [已涂抹肥皂泡,正涂抹肥皂泡,涂抹肥皂泡], "用轻盈的泡沫覆盖").
+entry(搽肥皂者, n, [搽肥皂者们], "涂抹肥皂的人").
+条目(泡沫, 形容词, [], "覆盖着泡沫").
+entry(拉提, n, [拉提], "在印度，一种由竹子和铁制成的沉重棍子").
+条目(木板工作，名词，[木板工程]，"用木板制成或使用木板的工作")。
+entry(细条工作, n, [细条工件], "细条处理").
+entry(lathy, adj, [], "长而细长的").
+条目(拉蒂, a, [], "拉茨的复数").
+entry(乳胶, a, [], "乳胶的复数形式").
+条目(拉蒂戈, n, [拉蒂戈们], "或 为了固定马鞍而用的皮带").
+entry(latilla, n, [latillas], "用于天花板的去皮树枝")。
+```prolog
+entry(latina, n, [], "拉丁裔女性").
+```
+entry(拉丁化, 名词, [拉丁化], "写作或说拉丁语的方式")。
+entry(拉丁化, 动词, [拉丁化了,拉丁化中,拉丁化], "翻译成拉丁语").
+entry(拉丁美洲人, n, [拉丁美洲人], "拉丁美洲人").
+entry(稍晚, 形容词, [], "稍微迟").
+entry(纬度, 北, [纬度], "免于狭窄的限制").
+entry(馬鈴薯煎餅, n, [馬鈴薯煎餅們], "一種馬鈴薯煎餅").
+entry(热带土壤, n, [热带土壤], "一种热带土壤").
+entry(拉提亚, 名词, [拉提亚斯], "罗马天主教中仅给予上帝的最高崇拜").
+entry(厕所, n, [厕所], "一种类型的卫生间").
+`入口(拉茨, n, [拉提], "或拉脱维亚的货币单位")。`
+词条(拿铁, n, [拿铁], "牛奶咖啡").
+条目(拉丁, 名词, [拉丁们], "一种类似黄铜的合金").
+entry(后者, n, [后者们], "两个中提到的第二个人或事物")
+entry(最近, 副词, [], "最近").
+entry(格子, v, [有格子结构, 正在构建格子, 格子], "形成一个由交织的材料条组成的结构").
+入口(拉丁, 名词, [拉丁斯], "黄铜").
+entry(latu, a, [], "拉脱维亚人的复数形式").
+entry(劳安, 名词, [劳安木], "菲律宾的一种木材").
+entry(赞美, 动词, [赞美了, 正在赞美, 赞美], "表扬").
+条目(值得称赞, 形容词, [], "值得称赞地，副词").
+入口(鸦片酊, n, [鸦片酊], "一种鸦片制剂").
+entry(laudator, n, [赞美者], "一个赞美者").
+entry(lauder, n, [lauders], "赞美者").
+```prolog
+词条(笑, 动词, [笑了,笑着,笑], "通过一系列非清晰的声音表达情感，通常是欢笑").
+```
+entry(笑者, n, [笑者們], "一位會笑的人").
+entry(笑, n, [笑声], "笑声").
+```prolog
+entry(笑声, n, [笑声复数], "笑的行为或声音").
+```
+entry(亮片鱼, n, [亮片鱼们], "一种海洋鱼类").
+entry(發射, v, [發射了,發射中,發射], "開始運行").
+入口(发射器, n, [发射器们], "一个发射装置").
+入口(洗涤, 动词, [已洗涤, 正在洗涤, 洗涤], "洗衣服")。
+entry(洗衣, n, [洗衣物], "待洗的衣物集合").
+入口(劳拉, 名词, [劳拉斯], "或劳拉 ea 一种修道院")。
+entry(获得者, v, [获得奖项的, 获得奖项中, 获得奖项], "授予桂冠").
+入口（月桂树，动词，[桂冠，桂冠，月桂树]，“或用常绿树叶的花冠加冠”）。
+entry(雪崩, n, [雪崩], "an avalanche").
+entry(洗手间, n, [洗手间], "lavatory")。
+entry(熔岩, n, [熔岩], "从火山喷出的熔化的岩石").
+entry(洗礼盆, n, [洗礼盆], "在某些基督教教堂中的仪式洗涤").
+entry(洗涤, n, [洗涤], "一次清洗").
+条目(lavalava, n, [lavalavas], "一种波利尼西亚服装")。
+入口(吊坠, 名词, [吊坠], "佩戴在脖子上的链子上的挂坠")。
+entry(火山岩状, 形容词, [], "类似熔岩").
+entry(拉瓦什, n, [拉瓦什饼], "一种源自亚美尼亚的薄平面面包").
+条目(蜀葵, 名词, [蜀葵属], "锦葵科的一种植物")。
+entry(洗净, n, [洗净], "洗涤的行为").
+entry(盥洗室, 名, [盥洗室], "一个配备洗涤和厕所设施的房间")。
+入口(洗, 动词, [洗过, 正在洗, 洗], "洗涤").
+条目(偏航, v, [偏航了,偏航中,偏航], "逆风航行")。
+条目(薰衣草, v, [薰衣草过, 薰衣草中, 薰衣草们], "用一种香水洒水").
+entry(拉弗, 名词, [拉弗们], "用于古希伯来仪式性洗净的器皿")
+entry(云雀, n, [云雀们], "一种鸣禽").
+词条(洗涤, 现在, [], "lave的分词").
+entry(奢侈的, 形容词, [], "更奢侈的 最奢侈的 以大量花费或给予 奢侈地 副词").
+entry(挥霍, 动词, [挥霍了, 正在挥霍, 挥霍着], "大量花费或给予").
+entry(挥霍者, n, [挥霍者们], "一个挥霍的人").
+entry(云雀, n, [云雀], "百灵鸟").
+entry(法律, v, [诉诸法律, 诉讼中, 诉讼], "将投诉提交法院解决").
+条目(法律书籍, n, [法律书籍], "一本包含或涉及法律的书")。
+entry(合法, 形容词, [], "法律允许的管理社区事务的规则体系合法地副词").
+entry(立法者, n, [立法者们], "制定法律制度的人").
+条目(雪崩, 名词, [雪崩], "劳威因").
+entry(趴账单, n, [趴账单], "在酒馆中食物或饮料的账单").
+entry(无法无天, 形容词, [], "没有法律制度").
+入口(類似法律的, 形容詞, [], "像法律一樣").
+entry(立法者, n, [立法者们], "立法者").
+entry(执法官, n, [执法人员], "执法人员").
+入口(草坪, n, [草坪], "一片草地，草坪(形容词)").
+条目(草坪的, 形容词, [], "有草坪的").
+条目(诉讼, 名词, [诉讼案件], "一种法律行为").
+entry(律师, v, [律师过了,律师中,律师们], "作为法律职业的一员工作").
+entry(律师般的, 形容词, [], "适合法律职业成员的").
+entry(懒散, 形容词, [], "比较懒散 最懒散").
+entry(lax, n, [松弛元音], "发音时肌肉相对放松的元音")
+entry(松弛, 名词, [松弛], "放松的行为").
+入口(泻药, 名词, [泻药], "一种刺激肠道排空的药物")。
+entry(松弛, n, [松弛状态], "处于松弛状态").
+entry(松散地, 副词, [], "以松散的方式").
+条目(拉克内斯, 名词, [拉克内斯复数], "松弛").
+entry(放置, 动词, [放置了,放置中,放置们], "作为赌注的存款").
+entry(懒汉, n, [懒汉们], "一个懒惰的人").
+entry(分期付款, n, [分期付款], "一件已用定金预留的物品").
+entry(layer, v, [分层,分层作用,层], "形成一层单一厚度的涂层或覆盖物")。
+entry(layerage, n, [层积], "一种植物繁殖方法").
+entry(分层, n, [分层], "分层").
+条目(婴儿服, 名词, [婴儿服], "为新生儿准备的服装和装备").
+条目(layin, n, [layins], "篮球中的一种投篮方式")。
+entry(外行, n, [外行], "俗人中的一员").
+entry(裁员, n, [裁员], "员工的暂停或解雇").
+entry(布局, n, [布局集合], "一个安排或计划").
+entry(中途停留, n, [中途停留], "中途的中断停留")
+entry(上篮, n, [上篮], "篮球中的一个投篮动作").
+entry(信徒女性, n, [信徒女性们], "女性的普通信徒")。
+条目(拉扎尔, n, [拉扎尔斯], "患有可怕疾病的乞丐")。
+entry(隔离病院, n, [隔离病院], "治疗传染病的医院").
+条目(懒散, 动词, [懒散过, 正懒散, 懒散着], "懒懒地消磨时间")。
+entry(懒惰的, 过去式, [], "懒惰的时态").
+```prolog
+词条(更懒, 比较级, [], "懒的"). 
+```
+entry(懒惰者, 现在时, [], "懒人的第三人称单数").
+entry(最懒, 最高级, [], "懒惰的").
+entry(懒洋洋地, 副词, [], "以懒散的方式").
+entry(懒惰, n, [懒惰状态], "懒散的状态").
+entry(懒散, 现在时, [], "laze的分词").
+entry(青金石, n, [青金石], "一种矿物").
+entry(天藍石, n, [天藍石], "一种矿物").
+entry(青金石, n, [青金石], "一种矿物").
+```prolog
+entry(懒惰的, 形容词, [], "比较懒 最懒不愿工作或努力").
+```
+entry(懒惰, 动词, [懒惰地,懒惰着,懒惰者], "懒洋洋地移动或躺着").
+entry("lazyish", 形容词, [], "有点懒").
+入口(lea, n, [leas], "草地")。
+entry(浸出, v, [浸出过的,浸出,浸出物], "用液体进行过滤作用")
+条目(渗滤液, n, [渗滤液], "通过浸出获得的溶液")。
+entry(leacher, n, [吸取者], "一个抽出物质或资源的人").
+entry(leachy, 形容词, [], "更多孔 最多孔").
+entry(领导, v, [领导了,领导着,领导], "用一种重金属铅覆盖").
+入口(lead, v, [led,leading,leads], "通过领先来指引方向LEADABLE 形容词").
+entry(铅灰色的, v, [铅灰色的过去式,铅灰色的进行时,铅灰色的复数], "使迟钝或倦怠LEADENLY adv").
+entry(领导者, n, [leaders], "引导或指导的人").
+entry(leadier, 比较级, [], "of leady").
+entry(最高级的, 最高级, [], "of leady").
+entry(领先, n, [领先s], "铅的覆盖或边界").
+entry(无铅, 形容词, [], "没有铅").
+入口(领班, n, [领班们], "负责其他工人的工人")。
+条目(开场白, n, [开场白], "一个开局动作或移动")。
+entry(测深员, n, [测深员们], "一个测量水深的水手").
+entry(铅制品, n, [铅制品], "由铅制成的物品").
+entry(莠, n, [莠], "一种热带植物").
+```prolog
+entry(leady, adj, [], "像铅一样的").
+```
+entry(叶子, n, [叶子], "通常是绿色的扁平维管植物器官").
+叶条(leaf, v, [生叶, 发叶, 叶子], "快速翻页")。
+`entry(leafage, n, [leafages], "树叶").`
+entry(leafier, 比较级, [], "of leafy").
+entry(leafiest, 最高级, [], "的 leafy").
+entry(leafless, 形容词, [], "没有树叶").
+```prolog
+entry(传单, v, [已发传单,发送传单中,传单], "或 已发送传单 发送传单中 传单以分发打印的纸张").
+```
+entry(叶状的, 形容词, [], "类似于叶子").
+入口(土壤腐殖质, 名词, [土壤腐殖质], "主要由腐烂叶子组成的土壤")。
+entry(叶卷病, n, [叶卷病], "一种马铃薯病毒病").
+leafworm(叶虫, n, [叶虫], "一种以树叶为食的蛾幼虫").
+entry(leafy, adj, [], "枝繁叶茂的").
+entry(联赛, v, [联赛的, 联赛中, 联赛], "为共同的目的而聚集").
+entry(围攻者, v, [围攻的,围攻中,围攻者], "围攻").
+entry(泄漏, v, [泄漏了,泄漏中,泄漏], "让某物通过破损或缺陷逃逸").
+```
+entry(泄漏, n, [泄漏], "泄漏行为或实例")。
+```
+entry(泄漏者, n, [泄漏者们], "会泄漏的东西").
+入口(无泄漏的, 形容词, [], "设计为不泄漏").
+entry(leaky, adj, [], "倾向于泄漏的，越漏越多，最多泄漏，漏得厉害的")。
+条目(leal, 形容词, [], "忠诚地adv").
+entry(忠诚, n, [忠诚们], "忠诚").
+条目(lean, 形容词, [], "更瘦 最瘦少脂肪LEANLY 副词").
+条目(lean, v, [leant, leaning, leans], "偏离垂直位置")。
+entry(倾斜者, n, [倾斜者们], "倾斜的一个").
+entry(倾向, n, [倾向], "一种倾向").
+条目(瘦, 名词, [瘦的状态], "处于瘦的状态")。
+entry(倚靠, a, [], "lean的过去式").
+entry(跳跃, v, [跳了,跳跃着,跳跃], "弹离地面").
+entry(跳跃者, n, [跳跃者们], "一个跳跃的人").
+```prolog
+entry(跳蛙, v, [跳蛙过了, 跳蛙中, 跳蛙], "用双腿分开跳跃过去").
+```
+entry(学习, n, [学习们], "学习").
+entry(较为可疑, 比较级, [], "of leary").
+入口(最警觉, 最高级, [], "的警觉").
+entry(学习, v, [学习了,学习中,学习], "通过经验、指导或学习来获得知识")。
+entry(学习者, n, [学习者], "一个学习的人").
+学习(learning, n, [学习成果], "获得的知识").
+entry(leary, 形容词, [], "LEARIER LEARIESTleery").
+条目(租赁, 动词, [已租赁, 租赁中, 租赁], "以租金换取临时使用权LEASABLE 形容词").
+entry(出租者, n, [出租者们], "租赁的人").
+entry(皮带, v, [拴住, 拴着, 牵引绳], "用线或皮革索约束动物").
+entry(租赁, n, [租赁复数], "一种虚假").
+条目(最小, 名词, [最小们], "在尺寸或程度上最小的东西")。
+`entry(皮革, v, [皮革化,皮革化中,皮革], "用动物处理过或鞣制过的皮革进行覆盖").`
+entry(leathern, 形容词, [], "用皮革制成").
+条目(皮革状, 形容词, [], "类似于皮革").
+入口(离开, 动词, [离开, 正在离开, 离开们], "离开从").
+条目(有叶, 形容词, [], "有叶子或叶片的").
+(entry(酵母, 动词, [发酵了, 发酵中, 发酵], "产生发酵"))。
+entry(发酵剂, n, [发酵剂们], "具有缓和作用的事物").
+entry(离开者, n, [离开者们], "一个离开的人").
+entry(叶子, 复数, [], "叶的").
+entry(离开, n, [剩余物], "剩下的东西").
+entry(多叶的, adj, [], "更多叶的 最多叶的leafy").
+entry(leben, n, [lebens], "一种液体食物").
+条目(lech, v, [leched, leching, leches], "从事纵欲行为")。
+entry(生命, n, [生命们], "生命").
+条目(好色之徒, 动词, [好色之徒过, 好色之徒进行, 好色之徒们], "从事淫荡行为")。
+entry(好色, n, [淫荡], "过度的性放纵").
+条目(lechwe, n, [lechwes], "一种非洲羚羊").
+entry(卵磷脂, n, [卵磷脂类], "存在于植物和动物组织中的一组脂肪物质").
+入口(讲台, n, [讲台], "一个读书桌").
+条目(凝集素, n, [凝集素们], "一种结合糖分子的蛋白质")。
+entry(诵读, n, [读经], "在教堂礼拜中诵读的一段圣经章节").
+entry(lector, n, [讲员], "在教堂礼拜中宣读课文的人").
+entry(讲座, 动, [讲授, 讲课中, 讲座], "阐述具体的主题")。
+entry(讲师, n, [讲师们], "授课者").
+entry(lecythis, 形容词, [], "指定热带灌木的一个科属").
+条目(白罐, 名词, [白罐], "乐克索斯").
+入口(led, 过去式, [], "lead 的时态")。
+入口(引言, 名词, [引言部分], "新闻报道的介绍部分")。
+entry(壁架, n, [壁架们], "一个狭窄的类似架子的突出部分").
+entry(账簿, n, [账簿], "最终记录的账簿").
+entry(ledgy, adj, [], "丰富的台阶").
+entry(lee, n, [避风处], "遮蔽风的地方").
+entry(舷板, n, [舷板], "一块附在帆船上的板子，用来防止横移").
+entry(水蛭, v, [以吸血为生的, 正在吸血, 水蛭], "吸附并汲取或消耗").
+入口(韭菜, n, [韭菜], "一种用于烹饪的香草").
+entry(斜视, v, [斜视过, 斜视中, 斜视], "用斜眼看")。
+```prolog
+条目(狐疑的, 形容词, [], "更加狐疑 最狐疑 可疑地 副词").
+```
+entry(leet, n, [leets], "英国旧时的小法院，负责轻微违法案件").
+entry(背风, n, [背风处], "风吹向的方向").
+entry(余地, n, [余地], "船的横向漂移").
+entry(左, 形容词, [], "离中心较远，处于东面时身体面向北的那一侧").
+entry(左侧, n, [左边], "左侧或左手").
+entry(左撇子, n, [左撇子们], "左撇子").
+entry(左倾, 形容词, [], "倾向于成为左派者").
+入口(左派主义, 名词, [左派思想], "一种自由的政治哲学")。
+entry(左翼分子, n, [左翼分子], "左翼思想的拥护者").
+entry(最左, 形容词, [], "最左边").
+```prolog
+entry(剩菜, n, [剩菜], "未使用或未消耗的部分").
+```
+entry(向左, 副词, [], "朝向左边").
+entry(leftwing, 形容词, [], "支持左翼").
+entry(lefty, n, [左撇子], "一个左撇子的人").
+entry(腿, v, [腿状,腿着,腿], "用腿进行移动，它们作为支持和运动手段的附属物").
+entry(传统, n, [遗产], "遗赠的东西").
+条目(合法, n, [合法的], "一种由储蓄银行等投资者进行的授权投资")。
+entry(法律术语, n, [法律术语们], "律师的专业语言").
+entry(合法化, v, [合法化了,正在合法化,合法化], "使合法化").
+```
+条目(法家, 名词, [法家主义], "严格遵循法律")。
+```
+entry(法家, n, [法家主义者], "法家学派的拥护者")。
+合法性(legalities, n, [合法性], "合法的状态")。
+entry(合法化, 动词, [合法化了, 正在合法化, 合法化], "使合法").
+entry(合法地, 副词, [], "以合法的方式").
+entry(legate, v, [立给了, 立给, 立给们], "遗赠").
+entry(受遗赠者, n, [受遗赠者们], "遗产的继承者").
+entry(legatine, 形容词, [], "与官方特使有关").
+entry(legating, 現在時, [], "legate 的分詞").
+entry(公使館, n, [公使館們], "派遣官方使節").
+entry(连奏, n, [连奏], "一种流畅的音乐风格").
+entry(遗赠者, n, [遗赠者们], "进行遗赠的人").
+entry(传奇, n, [传奇], "来自早期时代的未经验证的故事")。
+entry(传奇, n, [传奇集], "一系列传说").
+entry(leger, n, [legers], "专为沉底设计的钓鱼饵").
+entry(敏捷, n, [敏捷性], "身体或思维的灵活性").
+entry(法律, 复数, [], "的法律").
+`条目(腿, 过去式, [], "腿的时态").`
+entry(修长的, 比较级, [], "的修长").
+entry(leggiero, 副词, [], "以轻快或优雅的方式，用作音乐指示")。
+entry(最高, 最高级, [], "的 长腿").
+entry(打底裤, n, [打底裤], "legging").
+entry(护腿, n, [紧身裤], "腿部的覆盖物").
+入口(leggy, 形容词, [], "拥有长腿的LEGGIER LEGGIEST")。
+条目(夹腿器, n, [夹腿器们], "一种通过动物腿脚捕获其的捕捉器").
+entry(leghorn, n, [leghorns], "抛光编织稻草").
+entry(可读的, 形容词, [], "能够被阅读LEGIBLY 副词").
+entry(军团, n, [军团们], "一个庞大的军事力量").
+entry(立法者, n, [立法者们], "精通法律或在法律方面有技能的人").
+合法(n, [合法的], "合法的戏剧").
+entry(无腿, 形容词, [], "没有腿").
+entry(腿状, 形容词, [], "类似于腿").
+条目(跑腿记者, 名词, [跑腿记者们], "被指派收集信息的新闻记者")。
+entry(legong, n, [legongs], "巴厘岛舞蹈").
+`entry(腿部空间, n, [legrooms], "用于伸展双腿的空间").`
+entry(豆类, n, [豆类], "一种植物").
+entry(豆蛋白, n, [豆蛋白], "一种植物蛋白").
+entry(跑腿, n, [跑腿工作], "涉及大量步行的工作").
+entry(lehayim, n, [lehayims], "传统犹太祝酒词")。
+entry(勒尔, 名词, [勒尔斯], "一种烤箱").
+entry(‘乐华’, n, [‘乐华树’], “一种热带树木”)。
+entry(雷伊, 名词, [雷伊斯], "花环")。
+entry(leister, v, [leistered,leistering,leisters], "用三叉鱼叉刺鱼").
+entry(休闲, n, [休闲], "不受工作或责任的需求所束缚的自由 休闲的 adj").
+entry(列克, n, [列克], "或列克或列库阿尔巴尼亚的货币单位").
+entry(求偶聚集, 动词, [求偶聚集的, 求偶聚集中, 求偶聚集], "在繁殖季节为竞争性展示而聚集")
+条目(lekvar, n, [lekvars], "一种李子黄油")。
+entry(勒基索斯, n, [勒基索伊], "一种在古希腊使用的油罐").
+条目(勒基茨, n, [勒基提], "勒基托斯").
+entry(leman, n, [情人], "情人").
+entry(词条, n, [词条们], "或者词条a 在逻辑中的一种命题类型")
+词条(旅鼠, 名词, [旅鼠], "一种类似老鼠的啮齿动物")。
+条目(lemnisci, npl, [], "神经纤维束").
+entry(柠檬, n, [柠檬], "一种柑橘类水果柠檬味柠檬样的 形容词").
+entry(柠檬水, n, [柠檬水], "一种饮料").
+entry(伦皮拉, n, [伦皮拉], "洪都拉斯的货币单位")。
+entry(狐猴, n, [狐猴们], "一种与猴子有关的树栖哺乳动物").
+entry(lemures, npl, [], "古罗马宗教中的亡灵之鬼").
+entry(狐猴的, 形容词, [], "与狐猴有关的").
+entry(狐猴类, n, [狐猴类], "一种狐猴").
+entry(lend, v, [借出, 借出中, 借出], "给予临时使用LENDABLE adj").
+entry(借方, n, [借方们], "一个借出者")
+entry(借出, n, [借出], "暂时给与某物的行为").
+entry(lenes, pl, [], "的 lenis")。
+入口(长度, n, [长度列表], "物体的较长或最长维度")。
+entry(加长, 动词, [加长了, 加长中, 加长], "使变长或变得更长").
+entry(冗长的, 形容词, [], "更加冗长 最冗长 非常长").
+`entry(宽容, n, [宽容], "宽大").`
+条目(宽大, n, [宽大], "宽容的品质")。
+```prolog
+entry(宽容, 形容词, [], "温和容忍").
+```
+入口(ㄌㄟㄋㄧㄙ, 名詞, [ㄌㄟㄋㄟㄙ], "發音時幾乎不帶氣的語音聲音")。
+entry(lenite, v, [lenited,leniting,lenites], "发音为松音").
+entry(lenition, n, [lenitions], "发音变化").
+entry(缓和剂, n, [缓和剂], "一种舒缓的药物").
+entry(宽大, n, [宽大们], "宽容").
+entry(leno, n, [lenos], "一种织造风格").
+```prolog
+入口(镜片, n, [镜片], "一块透明材料，用于改变光线的会聚光线无镜片 adj").
+```
+entry(镜头, 动词, [镜头化, 镜头化进行中, 镜头们], "制作电影").
+entry(透镜, n, [透镜], "透镜").
+entry(透镜效应, n, [透镜效应], "拍摄电影的行为或实例").
+entry(镜头人, n, [镜头人们], "摄影师").
+entry(借出, 过去, [], "lent 的时态")。
+entry(lentando, 副词, [], "逐渐变慢，用作音乐指示")。
+条目(四旬, 形容词, [], "贫乏").
+entry(静水, 形容词, [], "关于静止的水").
+条目(皮孔, 名词, [皮孔], "植物茎上的细胞群").
+entry(雀斑, 名词, [雀斑], "一种雀斑").
+入口(小扁豆, 名词, [小扁豆], "一种欧亚一年生植物")。
+入口(黃櫨樹, 名詞, [黃櫨樹], "一種常綠樹木").
+entry(慢板, n, [慢板], "一个缓慢的音乐运动").
+entry(透镜状物, n, [透镜状物], "像透镜形状的物体").
+条目(leone, n, [leones], "塞拉利昂的货币单位").
+entry(狮子的, 形容词, [], "与狮子有关的").
+entry(豹, n, [豹子], "一种大型食肉猫科哺乳动物").
+entry(紧身衣, n, [紧身衣], "紧身的衣物").
+```prolog
+条目(麻风病人, 名词, [麻风病人们], "患麻风病的人").
+```
+entry(杜鹃花, 名词, [杜鹃花丛], "一种开花灌木").
+谓词(兔形目, 名词, [兔形目动物], "或是兔形目a啃食哺乳动物").
+入口(兔, 形容词, [], "类似兔子或野兔").
+entry(leprose, adj, [], "麻风病").
+entry(麻风病, n, [麻风病], "一种以皮肤损伤与畸形为特征的慢性病").
+entry(麻风的, 形容词, [], "麻风病").
+entry(麻风病, 形容词, [], "患麻风病的").
+条目(lept, a, [], "leap的过去式")。
+entry(瘦素, n, [瘦素们], "一种由脂肪细胞释放的激素").
+entry(轻子, n, [轻子], "一种亚原子粒子LEPTONIC adj").
+条目(轻子, n, [轻子], "希腊以前的货币单位")。
+条目(女同性恋者, 名词, [女同性恋者们], "女性同性恋者").
+entry(女同性恋双性恋男同性恋者, n, [女同性恋双性恋男同性恋者们], "女同性恋者、双性恋者或男性同性恋者").
+entry(损伤, v, [损伤的,损伤中,损伤], "导致器官结构的异常变化")。
+条目(较少, 形容词, [], "较少的 最少的不如在数量或程度上").
+entry(承租人, 名词, [承租人们], "被授予租约的人")。
+entry(减少, v, [减少了,减少中,减少], "使变少或变少").
+entry(较小, 形容词, [], "没有那么大或重要").
+入口(课程, v, [已授课,授课中,课程], "教授")。
+entry(出租人, n, [出租人们], "授予租约的人").
+入口(害怕, 连接词, [], "以免").
+```prolog
+entry(let, v, [受到阻碍,进行中,让], "阻碍").
+```
+项(letch, v, [letched, letching, letches], "好色").
+条目(失望, n, [失望], "减少").
+条目(致命, 名词, [致命的缺陷], "一种导致死亡的基因缺陷").
+entry(致命地, 副词, [], "以致命的方式").
+entry(嗜睡, 名词, [嗜睡症], "困倦迟缓").
+```prolog
+条目(忘川, n, [忘川], "忘却的LETHEAN 形容词")。
+```
+entry(出口, n, [出口], "让某人有可能避免做某事的东西")。
+entry(letted, 过去式, [], "let 的时态").
+entry(字母, v, [带字母的,书写中的,字母], "用字母标记代表语音的书写符号")。
+入口(字母员, n, [字母员们], "负责标字的人").
+entry(letting, 现在时, [], "let的分词").
+entry(莴苣, n, [莴苣们], "一种作为沙拉植物栽培的草本植物")。
+entry(letup, n, [减弱], "减少或放松")
+entry(列伊, 名词, [lei], "罗马尼亚的货币单位").
+entry(白血病, n, [白血病], "白血病的 adj").
+```prolog
+入口(亮氨酸, n, [亮氨酸们], "亮氨酸").
+```
+entry(亮氨酸, n, [亮氨酸], "一种氨基酸").
+entry(白榴石, n, [白榴石], "一种矿物LEUCITIC 形容词").
+entry(白斑, 名词, [白斑], "白斑").
+entry(leucon, n, [水螅海绵], "结构复杂的海绵").
+entry(白血病, n, [白血病], "白血病LEUCOTIC 形容词").
+```prolog
+entry(leud, n, [leuds], "或 LEUDES 为封建附庸"). 
+```
+条目(白血病, 名词, [白血病], "一种血液生成器官的疾病")。
+entry(白血病, 名词, [白血病患者], "一个患有白血病的人").
+条目(白斑, n, [白斑], "角膜的不透明").
+条目(白细胞器官, n, [白细胞器官], "由白细胞组成的身体器官")。
+entry(白血病, n, [白血病症], "白血病LEUKOTIC 形容词").
+entry(列夫, n, [列瓦], "或列瓦斯或列瓦为保加利亚的货币单位")。
+entry(逃债, v, [逃过债务,正在逃债,逃债], "避免债务")。
+entry(levanter, n, [levanters], "一种地中海东风").
+entry(levator, n, [提肌], "或提肌一种抬升器官或部位的肌肉")
+entry(堤坝, v, [堤坝化,堤坝中,堤坝化], "提供堤防").
+entry(level, v, [调平,调平中,平面], "或 调平 调平中 平面以使平整").
+```prolog
+entry(调平器, n, [调平器们], "一个使平坦的东西").
+```
+entry(找平机, n, [找平机们], "找平器").
+条目(找平, a, [], "level 的现在分词")。
+条目(平稳地, 副词, [], "以平均的方式")。
+```prolog
+entry(杠杆, v, [杠杆过的,杠杆中,杠杆], "用杠杆移动刚体以抬起重量").
+```
+entry(杠杆, v, [杠杆作用,杠杆化,使用杠杆], "提供一种经济优势").
+条目( leveret, n, [ leverets ], "小兔" )。
+条目(leviable, 形容词, [], "可征收的").
+entry(征收, 过去式, [], "levy 的时态")。
+entry(杠杆, n, [杠杆们], "征税者").
+条目(征税, 现在, [], "征税的第三人称单数").
+entry(磨细, v, [磨细了,磨细中,磨细], "将...研磨成细粉").
+入口(levin, n, [levins], "闪电").
+entry(勒维拉特婚姻, n, [勒维拉特婚姻], "娶兄弟遗孀的习俗").
+```prolog
+entry(悬浮, v, [悬浮着,悬浮着,悬浮着], "在空中上升和漂浮").
+```
+entry(轻浮, n, [轻浮之态], "以缺乏严肃性为特征的行为").
+entry(levo, 形容词, [], "向左转").
+```prolog
+entry(左旋多巴, n, [levodopas], "一种多巴形式").
+```
+entry(levogyre, 形容词, [], "向左旋转").
+入口(levulin, n, [levulins], "一种化合物")。
+词条(果糖, 名词, [果糖们], "一种非常甜的糖").
+```prolog
+条目(征收, v, [征收了,征收中,征收], "通过法律授权征收或收取").
+```
+entry(猥亵, 形容词, [], "更猥亵 最猥亵 淫秽 猥亵地 副词").
+entry(淫荡, n, [淫荡], "处于淫荡的状态")
+条目(刘易斯, 名词, [刘易斯装置], "一个起吊装置").
+条目(路易斯毒气, n, [路易斯毒气], "一种水疱性液体").
+entry(lewisson, n, [lewissons], "路易斯").
+入口(词典, 名词, [法律], "法律").
+entry(词位, n, [词位], "一种语言单位").
+入口（词汇，形容词，[]，“与语言的词汇相关”）。
+词条(词典, 名词, [词典文件], "或 LEXICA 字典").
+entry(词象, 名词, [词象们], "代表一个词的符号").
+词条(词汇, 名词, [词素], "一种语言、群体或学科领域的词汇").
+entry(莱伊, 名词, [莱伊斯], "草地").
+entry(li, n, [里], "中国的长度单位").
+entry(负有责任, 形容词, [], "有可能或有可能受到某事的影响").
+entry(联络, 动词, [已联络, 正在联络, 联络], "建立联系").
+entry(联络, 名词, [联络], "一种保持沟通的方式").
+entry(藤本植物, 名词, [藤本植物], "热带藤蔓").
+entry(莉安, 名词, [藤本植物], "藤蔓")。
+entry(两, n, [两单位], "一种中国的重量单位").
+entry(lianoid, 形容词, [], "关于藤本植物").
+entry(撒谎者, n, [撒谎者们], "说谎的人").
+entry(liard, n, [利阿德], "法國的一種舊銀幣").
+entry(别名, n, [别名], "一种蓝色的石灰岩").
+entry(宿根紫苑, 名词, [宿根紫苑类], "一种有管状花的草本植物").
+entry(圖書館, 名詞, [圖書館們], "解放").
+入口(奠酒, n, [奠酒], "一种礼仪性倒液体的行为").
+entry(西南风, n, [西南风], "一种西南风").
+entry(诽谤, v, [诽谤过,诽谤中,诽谤们], "或 诽谤过 诽谤中 诽谤们：对某人做出或发布诽谤性声明")。
+entry(原告, n, [原告们], "一种诉讼中的原告").
+entry(被告, n, [被告人], "在某类诉讼中的被告人").
+`entry(诽谤者, 名词, [诽谤者们], "诽谤人的人").`
+entry(诽谤者名单, n, [诽谤者名单], "一个诽谤者").
+entry(诽谤, a, [], "libel 的过去式").
+条目(标牌, n, [标牌们], "libelee").
+entry(诽谤者, n, [诽谤者], "libeler").
+entry(诽谤, a, [], "诽谤的现在分词").
+entry(诽谤的, 形容词, [], "诽谤").
+entry(书, n, [书籍], "或 LIBRIa 公共记录簿").
+entry(自由主义者, n, [自由主义者们], "倾向于进步或改革的人").
+条目(解放, 动词, [解放了,解放中,解放], "使自由").
+entry(自由, 名词, [自由的状态], "自由的状态").
+条目(性欲, 名词, [性欲], "源自本能生物驱动的能量")。
+entry(liblab, n, [liblabs], "支持自由主义团体和工人团体联盟的人").
+entry(天秤座, n, [librae], "古罗马的重量单位").
+entry(天秤座, n, [天秤座], "秘鲁的一种旧金币").
+条目(图书馆, 名词, [图书馆], "一个存放文学资料以供阅读和参考的地方")。
+entry(摇摆, 动词, [摇摆了,摇摆着,摇摆], "从一侧移动到另一侧")。
+entry(歌剧脚本, n, [歌剧脚本们], "或歌剧文本").
+条目(书籍, a, [], "自由的复数形式")。
+entry(虱子, pl, [], "of louse").
+entry(许可证, 动词, [已许可, 许可中, 许可], "许可").
+entry(被许可方, n, [被许可方们], "被许可方").
+entry(许可证者, n, [许可证者们], "许可证签发者").
+entry(执照, v, [授权,授权中,授权], "发放或授予权威许可").
+入口(被许可者, n, [被许可者们], "持有许可的人").
+entry(许可者, n, [许可者们], "许可的一方").
+entry(许可人, n, [许可人], "许可者").
+`entry(许可, a, [], "句子的复数形式").`
+入口(lich, n, [liches], "尸体").
+entry(荔枝, n, [荔枝], "荔枝").
+entry(苔藓, v, [形成苔藓, 形成苔藓中, 苔藓], "用无花植物苔藓覆盖")。
+entry(lichenin, n, [lichenins], "一种化合物").
+入口(lichgate, 名词, [lichgates], "lychgate").
+入口(荔枝, n, [荔枝们], "荔枝").
+entry(光, v, [点亮, 点燃, 照亮], "点亮").
+entry(lichtly, 副词, [], "轻轻地").
+entry(licit, 形容词, [], "合法地 副词").
+entry(舔, v, [舔过,舔着,舔], "用舌头在表面上划过").
+licker(入口, n, [舔者], "一个舔东西的人").
+entry(舔, n, [舔打], "鞭打或殴打").
+entry(谄媚者, n, [谄媚者们], "一个奉承的人").
+entry(甘草, n, [甘草], "多年生草本植物").
+entry(执法官从者, n, [执法官从者们], "古罗马时期随从官员").
+entry(lid, v, [有盖的, 盖着, 盖子], "提供一个盖子，一个可移动的盖子")。
+entry(lidar, n, [激光雷达们], "一种电子定位设备").
+entry(无盖, 形容词, [], "没有盖子").
+entry(lido, n, [lidos], "时尚的海滩胜地").
+entry(躺, v, [躺下, 躺过, 躺着], "撒谎是在或者进入水平姿势").
+entry(撒谎, v, [撒谎了,撒谎中,撒谎], "说假话").
+entry(歌曲, n, [歌曲], "德语歌曲").
+entry(lief, adj, [], "愿意的liestwilling愿意地 adv").
+entry(列日, n, [领主们], "一个封建领主").
+entry(封臣, 名词, [封臣们], "一个封建的附庸").
+条目(留置权, n, [留置权], "对债务人的财产享有或出售的合法权利")。
+entry(可设定留置权, 形容词, [], "可以被加上留置权的").
+entry(脾, 形, [], "与脾有关").
+entry(利恩特里, n, [利恩特里症], "腹泻的一种形式").
+```prolog
+条目(躺者, n, [躺者们], "一个躺下或倚靠的人").
+```
+entry(连拱肋, 名词, [连拱肋], "哥特式拱顶中的连接部分").
+入口(地点, n, [地点复数], "地方 位置")。
+entry(亲爱的, 副词, [], "很高兴").
+entry(生命, 名词, [生命], "区别于无生命物质的动物和植物的特质").
+条目(救生圈, 名词, [救生圈], "像腰带一样形状的救生物").
+entry(救生艇, n, [救生艇], "一种小型救援船").
+入口(救生圈, n, [救生圈], "形如环的救生装置")。
+entry(lifecare, n, [lifecares], "为老年人提供的住房和健康服务").
+entry(充满活力, 形容词, [], "充满生活").
+entry(无生命, 形容词, [], "没有生命的").
+entry(栩栩如生, 形容词, [], "类似一个活的东西").
+entry(生命线, n, [生命线], "用于帮助处于困境中的人的绳子")。
+entry(终生, 形容词, [], "持续一生").
+entry(终身犯, 名词, [终身犯们], "服无期徒刑的囚犯").
+entry(寿命, n, [寿命], "一生").
+入口(生命期, 名词, [生命期], "生活存在的时期")。
+entry(生活方式, n, [生活方式], "一种生活方式").
+entry(毕生工作, n, [毕生成就], "一个人一生中的主要工作")
+entry(提升, v, [提升了, 提升中, 提升], "移动到更高的位置可提升的 形容词").
+entry(举重者, n, [举重者们], "某个提起某物的人").
+入口(后挡板, n, [后挡板们], "在旅行车上向上开启的后面板").
+入口(电梯操作员, n, [电梯操作员们], "一位电梯操作员")。
+entry(起飞, n, [起飞], "火箭的垂直起飞").
+条目(韧带, 名词, [韧带], "一束坚固的纤维组织")。
+entry(利甘, n, [利甘的], "拉甘").
+条目(配体, n, [配体], "一种离子或分子类型").
+entry(连接酶, n, [连接酶], "一种酶").
+entry(结合, 动词, [结合了,结合中,结合], "绑定").
+连接术(结扎术, 名词, [连接术(结扎术)复数], "连接的动作连接形容词").
+entry(连字, v, [连字型, 连接字中, 连字], "结扎").
+entry(狮虎兽, n, [狮虎兽们], "雄狮和雌虎的后代").
+条目(光, 形容词, [], "更轻 最轻地拥有小重量").
+```prolog
+输入(光, 动词, [点亮, 照明, 灯光], "照亮").
+```
+条目(减轻, 动词, [减轻了, 减轻中, 减轻], "减少重量").
+```prolog
+entry(lighter, v, [lightered,lightering,lighters], "to convey in a type of barge").
+```
+entry(ma, n, [mas], "母亲").
+`条目(maar, 名词, [maars], "火山口")。`
+entry(mabe, n, [mabes], "养殖珍珠").
+entry(mac, n, [macs], "雨衣").
+entry(可怕的, 形容词, [], "恐怖").
+`entry(macabre, adj, [], "可怕的").`
+entry(狐猴, n, [狐猴], "狐猴").
+条目(macadam, n, [macadams], "一种路面").
+条目(猕猴, n, [猕猴], "短尾猴")。
+entry(通心粉, n, [通心粉], "一种管状意大利面").
+entry(杏仁饼干, n, [杏仁饼干], "一种饼干").
+entry(大型金刚鹦鹉, n, [大型金刚鹦鹉], "一种大型鹦鹉").
+条目(麦卡包, 名词, [麦卡包们], "麦卡男孩").
+entry(maccaboy, n, [maccaboys], "一种鼻烟").
+entry(灌木丛, n, [灌木丛], "一片密集生长的小树和灌木").
+入口(maccoboy, n, [maccoboys], "maccaboy").
+入口(钉头锤, v, [用钉头锤攻击,正在用钉头锤攻击,用钉头锤攻击], "用类似棍棒的武器攻击一块沉重的木头").
+entry(macer, n, [macers], "携带礼仪杖的官员").
+```prolog
+条目(浸泡, 动词, [浸泡过, 正在浸泡, 浸泡], "通过在液体中浸泡使其软化")。
+```
+条目(马赫, 名词, [马赫数], "一个表示物体速度与音速比率的数字")。
+词条(马查卡, 名词, [马查卡们], "一种以油煎蔬菜与切碎肉为主要成分的墨西哥菜肴")。
+条目(苣荬菜, 名词, [苣荬菜], "一种欧洲草本植物")。
+entry(马车尔, n, [马车斯], "一个以完成任务而闻名的人").
+entry(弯刀, n, [弯刀], "一把大而重的刀").
+entry(machine, v, [机加工的,机加工,机器], "用机械设备加工").
+entry(大男子主义, n, [大男子主义], "强烈的男性气概").
+entry(马乔, 名词, [马乔们], "一个展现男性主义的人").
+entry(大男子主义, n, [大男子主义们], "大男子气概").
+entry(machree, n, [machrees], "亲爱的").
+entry(马赫佐尔, n, [马赫佐尔斯], "或 马赫佐雷姆").
+条目(生芝, 现在时, [], "mace 的分词").
+条目(麦克, 名词, [麦克斯], "麦").
+入口(鲭鱼, n, [鲭鱼], "一种海洋食用鱼").
+条目(马基诺, 名词, [马基诺大衣], "一种羊毛织物").
+词条(mackle, 动词, [模糊了, 模糊中, 模糊], "在打印中模糊").
+entry(macle, n, [macles], "在矿物中一个斑点或变色MACLED adj")
+entry(玛康, n, [玛康酒], "一种红葡萄酒或白葡萄酒，产自法国").
+`入口(macrame, n, [macrames], "一种结绳或线的装饰品").`
+entry(宏, n, [宏], "一种计算机指令").
+entry(macron, n, [音符号], "放在元音上以表示该元音为长音的符号").
+entry(沙袋鼠, n, [沙袋鼠类], "一种食草有袋类哺乳动物").
+入口(macrural, 形容词, [], "关于甲壳类长尾动物")。
+entry(长尾目甲壳类动物, n, [长尾目甲壳类动物], "甲壳类动物的一个亚目中的任意动物").
+条目(macula, 名词, [maculas], "或 MACULAE斑点MACULAR 形容词")。
+entry(给...留下污点, v, [留下污点, 留下污点, 留下污点], "标记污点").
+entry(斑点, v, [斑点了, 斑点ing, 斑点s], "to mackle").
+条目(macumba, n, [macumbas], "一种在巴西流行的宗教").
+条目(狂, 形容词, [], "MADDER MADDEST疯狂").
+entry(疯狂的, v, [疯了, 变疯, 疯狂的], "使发狂")
+entry(夫人, n, [夫人们], "管理妓院的女性").
+条目(女士, 名词, [女士们], "女士")。
+词条(夫人, 名词, [夫人们], "对已婚女性的法语尊称").
+entry(鲁莽, 名词, [鲁莽者], "一个冲动的人").
+```prolog
+entry(madded, 过去, [], "mad的时态")。
+```
+entry(madden, v, [maddened,maddening,maddens], "使...发狂或变得疯狂").
+entry(红染草, n, [红染草], "多年生草本植物").
+entry(最疯狂的, 最高级, [], "of mad").
+条目(狂躁, 存在, [], "发狂的分词").
+词条(稍显疯狂, 形容词, [], "稍微有点疯").
+entry(做, 过去, [], "make的时态")。
+entry(马德拉, n, [马德拉酒], "一种白葡萄酒").
+条目(马德里化, 动词, [马德里化了, 正在马德里化, 马德里化], "使变成棕色 用于白葡萄酒").
+entry(精神病院, n, [精神病院], "一个精神病院").
+entry(疯狂地, 副词, [], "以疯狂的方式").
+entry(疯子, n, [疯子们], "一个疯了的男人")
+条目(疯狂, 名词, [疯狂状态], "处于疯狂状态").
+词条(麦当娜, 名词, [麦当娜们], "昔日意大利对女性的尊称").
+入口(马德拉斯, 名词, [马德拉斯布], "一种棉织品").
+entry(学校, n, [学校], "伊斯兰教学校").
+条目(教学院校, 名词, [教学院校], "伊斯兰学校")。
+entry(马德拉萨, n, [马德拉萨], "穆斯林学校").
+条目(母亲, 名词, [母亲们], "母亲").
+入口(牧歌, 名词, [牧歌], "一首短抒情诗").
+entry(马德罗纳树, n, [马德罗纳树], "一种常绿树").
+```
+条目(石南树, n, [石南树], "madrona").
+```
+entry(红栎, n, [红栎树], "红栎树").
+条目(鲶鱼, 名词, [鲶鱼], "一种北美鲶鱼").
+条目(马杜罗, n, [马杜罗斯], "一种颜色较深且相对强烈的雪茄").
+条目(疯女人, 名词, [疯女人们], "一个精神失常的女人")。
+entry(琉璃草, n, [琉璃草], "一种开花植物").
+entry(马祖恩, n, [马祖恩斯], "马祖恩").
+入口(妈, n, [妈们], "更多")。
+entry(女祭司, n, [女祭司们], "或 MAENADES古希腊狂欢活动中的女性参与者女祭司的 形容词").
+条目(maestoso, n, [maestosos], "一个庄严的音乐段落")。
+entry(大师, n, [大师们], "或 MAESTRI艺术大师").
+entry(黑手党, n, [黑手党们], "黑帮").
+入口(喧哗, 动词, [喧哗过了, 喧哗中, 喧哗], "狂欢庆祝").
+条目(黑帮, n, [黑帮], "一个秘密的犯罪组织")。
+entry(镁铁质, 形容词, [], "与富含镁和铁的矿物有关").
+entry(黑手党成员, n, [黑手党成员们], "或MAFIOSI的黑手党的成员")
+entry(maftir, n, [maftirs], "每周经文的结束部分").
+条目(杂志, n, [杂志们], "一本杂志")。
+`entry(magalog, n, [magalogs], "类似于杂志的销售目录").`
+entry(杂志, n, [杂志], "一种期刊类出版物").
+条目(玛格达伦, n, [玛格达伦们], "一个改过自新的妓女")。
+```prolog
+词条(魔法师, n, [魔法师们], "魔术师").
+```
+entry(洋紅, n, [洋紅們], "一種紫紅色的染料").
+```prolog
+条目(蛆, n, [蛆虫], "某些昆虫的无足幼虫MAGGOTY 形容词").
+```
+entry(magi, pl, [], "魔术师的").
+entry(魔法师, n, [魔法师们], "一个魔法师").
+entry(魔法, v, [施了魔法的,正在施魔法的,魔法], "通过魔法或巫术影响")。
+条目(魔法的, 形容词, [], "类似于魔法").
+entry(魔术师, n, [魔术师们], "精通魔法的人").
+entry(施了魔法的, 过去式, [], "magic 的时态").
+entry(magicking, 現在, [], "魔術的分詞").
+entry(magilp, n, [magilps], "megilp").
+entry(硕士, n, [硕士们], "一位大师或老师").
+entry(磁悬浮列车, n, [磁悬浮列车们], "使用磁铁在轨道上方移动的列车").
+entry(岩浆, n, [岩浆], "或 MAGMATA 由此形成火成岩的熔融物质MAGMATIC adj")。
+条目(大亨, n, [大亨们], "一个有权势或有影响力的人").
+条目(镁砂, n, [镁砂s], "一种药物化合物镁的 adj")。
+entry(磁铁, n, [磁铁], "具有吸引铁的特性").
+entry(磁性, n, [磁性], "一块磁铁").
+entry(磁电机, n, [磁电机们], "一种电力发电机").
+entry(磁矩, n, [磁矩], "磁矩单位").
+entry(绚丽, 形容词, [], "壮丽").
+```prolog
+entry(放大, 动词, [放大了, 正在放大, 放大], "增加感知大小").
+```
+条目(玉兰, 名词, [玉兰花], "一种开花的灌木或树").
+entry(镁诺克斯, n, [镁诺克斯], "一种以镁为基础的合金").
+条目(马格南, n, [马格南酒瓶], "一种大容量葡萄酒瓶").
+入口(マゴット, n, [マゴット], "无尾猿").
+entry(喜鹊, n, [喜鹊], "一种鸦科鸟").
+入口(龙舌兰, 名词, [龙舌兰], "一种热带植物")。
+entry(魔法师, n, [魔法师], "魔术师").
+entry(mahant, n, [mahants], "首席印度教祭司").
+entry(玛哈拉加, n, [玛哈拉加], "印度的国王或王子").
+entry(玛哈拉妮, n, [玛哈拉妮们], "大君的妻子").
+entry(mahatma, n, [大圣人], "一位印度教圣人")。
+entry(mahimahi, n, [mahimahis], "夏威夷的一种食用鱼").
+entry(麻将, n, [麻将], "一款起源于中国的游戏").
+entry(麻将, n, [麻将们], "麻将").
+entry(桃花心木, 名词, [桃花心木树], "一种热带树木").
+entry(桃花心木, n, [桃花心木], "一种热带树木").
+entry(阔瓣八角, n, [阔瓣八角], "一种开花灌木").
+mahout(mahout, n, [象夫], "大象的看护者和驾驶员").
+entry(马槴, n, [马槴树], "一种印度树").
+入口(麻黄, 名词, [麻黄属], "一种亚洲植物")。
+entry(麻花, n, [麻花们], "麻花").
+entry(马佐尔, n, [马佐尔斯], "或 MAHZORIM一个犹太祈祷书")。
+entry(慈母龙, n, [慈母龙], "一种食草恐龙").
+entry(女仆, n, [女仆们], "a maidenMAIDISH adj").
+entry(马伊丹, 名词, [马伊丹斯], "城市内或附近的开阔空间").
+条目(少女, 名词, [少女们], "年轻未婚女性MAIDENLY 形容词")。
+条目(处女状态, 名词, [处女状态们], "处于处女状态的状态")。
+entry(助产术, 形容词, [], "与启发知识的方法有关").
+entry(maigre, adj, [], "不含任何肉类或其汁液")
+entry(混乱, n, [混乱s], "混乱")。
+entry(邮件, v, [邮寄, 邮递, 邮件], "通过政府邮政系统发送MAILABLE adj").
+entry(邮袋, n, [邮袋], "用于携带邮政物料的袋子").
+entry(邮箱, n, [邮箱], "用于存放邮件的箱子").
+entry(maile, n, [mailes], "太平洋岛屿的藤本植物")
+entry(寄送者, n, [寄送者们], "一个进行邮寄的人" ).
+entry(邮件, n, [邮件], "租来的农场")
+entry(邮件, n, [邮件们], "支付").
+entry(无甲, 形容词, [], "没有护甲").
+entry(连衣泳装, n, [连衣泳装], "女性一件式泳衣").
+entry(邮递员, n, [邮递员们], "一个运送和投递邮件的人").
+entry(mailroom, n, [邮件室], "处理邮件的房间").
+entry(邮件, n, [邮件群发], "一次性邮寄给许多人的东西").
+```prolog
+词条(伤害, 动词, [重伤, 刺伤, 使受伤], "致使受伤以造成持久伤害").
+```
+entry(maimer, n, [致残者们], "致残者").
+入口(主要, n, [主要成分], "主要部分").
+条目(大陆, n, [大陆们], "一个主要的陆地块")
+```prolog
+entry(mainline, v, [mainlined,mainlining,mainlines], "将麻醉药注射到主要静脉中").
+```
+入口(主要, 副词, [], "大部分情况下")。
+entry(主桅杆, n, [主桅杆], "船只的主要桅杆")。
+entry(主帆, n, [主帆], "船只的主要帆").
+主要支持(mainstay, 名词, [mainstays], "一个主要的支持").
+entry(保持, v, [保持了,保持着,保持], "保持在适当的状态").
+entry(maintop, n, [maintops], "主桅顶部的一个平台").
+项(maiolica, n, [maiolicas], "彩陶").
+entry(马耳, n, [马耳复数], "更多").
+```prolog
+进入(maist, n, [maists], "最多").
+```
+entry(玉米, n, [玉米], "一种美洲谷物草本植物").
+entry(马雅瓜, n, [马雅瓜树], "一种热带树").
+```prolog
+entry(雄伟, 形容词, [], "具有威严").
+```
+entry(威严, n, [威严们], "皇室的尊严").
+`entry(majlis, n, [议会], "北非和中东各国的议会").`
+条目(陶器, n, [陶器们], "一种陶器").
+entry(专业, v, [主修,专业课], "攻读特定的主要课程").
+`entry(多数, n, [majorities], "大多数人或部分").`
+entry(主要地, 副词, [], "主要").
+条目(马卡尔, 名词, [诗人们], "诗人").
+输入(制作, 动词, [制作了, 正在制作, 制作], "使其存在制作可能的 制作可能的 形容词")。
+```
+entry(makebate, n, [makebates], "挑起争吵的人").
+```
+entry(makefast, n, [makefasts], "一个用来系船的物体").
+条目(改造, n, [改造], "改变外观").
+条目(制造者, n, [制造者], "制造的人").
+条目(化妆, n, [化妆品], "某物的各部分或成分组合在一起的方式")。
+entry(卷寿司, n, [卷寿司], "一种用海藻包裹的寿司和生蔬菜的菜肴").
+条目(巻物, n, [巻物], "日本的装饰性卷轴").
+entry(制造, n, [材料], "可以开发出某物的材料").
+entry(灰鲭鲨, n, [灰鲭鲨], "一种大型鲨鱼").
+entry(makuta, pl, [], "的likuta")。
+条目(马六甲, 名词, [马六甲的], "一种亚洲藤棕榈的手杖")。
+entry(疾病, n, [疾病], "一种疾病")。
+entry(不适, n, [不适症状], "一种模糊的不适感").
+条目(阿拉斯加雪橇犬, 名词, [阿拉斯加雪橇犬复数形式], "一种阿拉斯加雪橇犬").
+entry(芋头, n, [芋头们], "一种山药芋")。
+入口(莽汉, 名, [莽汉们], "一个无礼的人").
+词条(马拉普, n, [马拉普们], "一个幽默的用词错误").
+entry(malar, n, [颧骨], "颧骨").
+entry(疟疾, n, [疟疾], "一种传染病疟疾的 形容词 形容词").
+入口(胡说, n, [胡说八道], "废话").
+词条(胡闹, 名词, [胡闹们], "胡闹")。
+entry(malaroma, n, [恶臭], "一种恶臭").
+入口(苹果酸盐, n, [苹果酸盐], "一种化学盐").
+entry(男性, n, [男性们], "通过使雌性受精而生育后代的个体")
+入口(马来酸盐, n, [马来酸盐], "一种化学盐")。
+entry(诅咒, v, [诅咒了, 诅咒中, 诅咒], "咒骂").
+entry(恶意, 形容词, [], "产生或导致邪恶").
+entry(马拉缪特犬, n, [马拉缪特犬们], "马拉缪特犬")。
+条目(阿拉斯加雪橇犬, n, [阿拉斯加雪橇犬们], "malamute").
+语法项(雄性, 名词, [雄性们], "作为雄性的特质")।
+词条(饥饿, 形容词, [], "吃不饱").
+条目(尽管, 介词, [], "尽管").
+entry(苹果酸的, 形容词, [], "与苹果有关的").
+entry(恶意, n, [恶意], "伤害他人的欲望").
+条目(诽谤, 动词, [诽谤了, 诽谤中, 诽谤], "说坏话").
+entry(恶意中伤者, n, [恶意中伤者们], "一个诽谤他人的人")。
+entry(恶毒地, 副词, [], "以邪恶的方式").
+entry(马利希尼, n, [马利希尼斯], "初到夏威夷的新人").
+entry(maline, n, [马琳网], "一种用于面纱的精细网").
+```prolog
+entry(装病逃避责任, v, [装病逃避责任过, 装病逃避责任中, 装病逃避责任们], "为了避免责任或工作而假装生病").
+```
+条目(恶意, 名词, [恶意们], "诅咒")。
+entry(malkin, n, [malkins], "不整洁的女人").
+入口（商场, v, [商场化, 商场化中, 商场], "攻击"）。
+entry(图鸭, n, [图鸭们], "一种野鸭").
+入口(马利, 名词, [马利树], "一种常绿树").
+entry(mallei, pl, [], "槌骨的").
+条目(踝骨, 复数名词, [], "脚踝的骨性突起").
+条目(木槌, n, [木槌], "一种锤子").
+entry(锤骨, n, [锤骨], "中耳的一块骨头").
+entry(购物中心购物, n, [购物中心购物们], "在有很多商店的大型建筑物购物的习惯")
+入口(锦葵, n, [锦葵], "一种开花植物").
+条目(马尔姆, 名词, [马尔姆石], "一种松软易碎的石灰岩").
+entry(玛姆齐, n, [玛姆齐酒], "一种白葡萄酒").
+条目(马尔米, 形容词, [], "MALMIER MALMIEST类泥灰")。
+条目(恶臭, 名词, [恶臭], "一种令人讨厌的气味")。
+entry(丙二酸盐, n, [丙二酸盐们], "丙二酸的盐或酯").
+entry(马路提, pl, [], "洛提的").
+词条(位置不当, 形容词, [], "处于错误的位置").
+entry(麦芽, v, [麦芽过的, 麦芽中的, 麦芽], "用发芽谷物麦芽处理或结合").
+entry(麦芽糖酶, n, [麦芽糖酶], "一种酶").
+条目(麦芽, 名词, [麦芽的], "一种甜饮料")。
+entry(玛尔萨, n, [玛尔萨们], "一种天然的焦油").
+`条目(多麦, 比较级, [], "麦芽的").`
+entry(麦芽味最浓的, 最高级, [], "麦芽味的").
+条目(麦芽制备, n, [制麦], "为酿造准备谷物的过程")。
+条目(麦芽酚, 名词, [麦芽酚们], "一种化学化合物")
+条目(麦芽糖, 名词, [麦芽糖], "一种糖").
+entry(虐待, v, [虐待了, 正在虐待, 虐待], "恶劣对待").
+entry(制麦者, n, [制麦者], "制作麦芽的人").
+entry(麦芽味, 形容词, [], "更具麦芽味 最具麦芽味 类似于麦芽").
+entry(马尔瓦西亚, n, [马尔瓦西亚], "玛姆齐").
+entry(恶意软件, n, [恶意软件], "旨在禁用计算机的软件").
+entry(妈, n, [妈妈们], "母亲").
+entry(妈妈, 名词, [妈妈们], "母亲").
+entry(玉米粥, n, [玉米粥], "一种玉米粥").
+entry(妈妈桑, n, [妈妈桑们], "日本女性在权威位置上").
+入口(妈妈提克, n, [妈妈提克们], "一种圆锥形帐篷").
+入口(曼巴, 名词, [曼巴蛇], "一种有毒的蛇")。
+```prolog
+entry(曼波, v, [跳了曼波,跳曼波中,跳曼波], "或 MAMBOSto 来表演一种社交舞蹈").
+```
+entry(马梅, n, [马梅们], "马梅").
+entry(馬穆魯克, n, [馬穆魯克], "穆斯林國家的奴隸").
+entry(马梅, n, [马梅果], "或 MAMEYES 一种热带树木")。
+entry(妈米, n, [妈米们], "马米").
+entry(mamilla, n, [mamillae], "乳头").
+条目(马木留克, 名词, [马木留克], "马木留克").
+条目(妈妈, 名词, [乳房], "一个分泌乳汁的器官")。
+entry(妈妈, n, [妈妈们], "妈妈").
+入口(哺乳动物, 名词, [哺乳动物], "任何一种温血脊椎动物类").
+entry(乳腺, 形容词, [], "关于乳房").
+入口(乳腺动物, 形容词, [], "拥有乳腺")。
+入口(乳房云, 名词, [乳房状云], "一种云").
+entry(马梅, 名词, [马梅果], "马梅").
+```prolog
+entry(mammer, v, [mammered,mammering,mammers], "犹豫").
+```
+入口(偶像, 名词, [偶像们], "偶像").
+entry(马梅果, n, [马梅果们], "马梅").
+entry(妈妈, n, [妈妈们], "妈咪").
+入口(妈妈们, 复数, [], "妈妈的")。
+入口(乳头, 名词, [乳头], "一个乳头").
+entry(乳腺炎, n, [乳腺炎们], "乳腺炎").
+条目(撕碎, 动词, [撕碎了, 撕碎着, 撕碎], "撕成碎片")。
+entry(玛门, n, [玛门], "物质财富").
+entry(猛犸象, n, [猛犸象], "一种灭绝的大象").
+entry(妈咪, 名词, [妈咪们], "母亲").
+entry(mamzer, n, [mamzers], "私生子").
+entry(男人, 名词, [男人们], "成年的人类男性").
+entry(人, v, [操縱中, 操縱著, 操縱], "供應人手").
+entry(法力, 名词, [法力s], "某些太平洋岛屿宗教中的一种超自然力量")。
+entry(手铐, v, [铐住,用手铐铐住,手铐], "铐上手铐").
+entry(管理, 动词, [管理了,正在管理,管理], "控制或指挥").
+entry(经理, n, [管理者], "管理的人").
+entry(伞鸟, n, [伞鸟], "一种热带鸟").
+```prolog
+entry(明天, n, [明天們], "明天").
+```
+条目(马纳特, 名词, [马纳特], "阿塞拜疆的货币单位")。
+entry(海牛, n, [海牛], "一种水生哺乳动物海牛状的 形容词").
+entry(曼什, n, [曼什斯], "一个纹章设计").
+entry(曼切特, n, [曼切特们], "一种小的精白面包").
+entry(采买员, n, [采买员们], "被授权购买供应品的官员").
+entry(曼荼罗, n, [曼荼罗], "印度教或佛教的宇宙图形符号MANDALIC形容词")。
+entry(训令, 动词, [训令过, 训令中, 训令], "由上级法院发布的书面命令指令").
+entry(普通话, n, [普通话], "一种柑橘类水果").
+entry(命令, v, [命令了, 命令中, 命令], "授权或法令").
+条目(委托人, n, [委托人], "一个发出授权的人")。
+entry(下颌骨, n, [下颌骨], "下颌的骨头").
+```prolog
+条目(树薯, n, [树薯], "木薯").
+```
+entry(mandola, n, [曼多拉琴], "古代的鲁特琴").
+条目(曼陀铃, n, [曼陀铃们], "一种弦乐器").
+entry(曼多拉, n, [曼多拉琴], "一种弦乐器").
+```prolog
+entry('曼多拉', n, ['曼多拉'], "一个尖形的椭圆图案").
+```
+entry(曼德拉草, n, [曼德拉草], "一种欧洲草本植物").
+entry(芯轴, n, [芯轴], "安装工具的轴").
+入口(山魈, 名词, [山魈们], "车床心轴").
+条目(山魈, n, [山魈们], "一种大型狒狒")。
+entry(鬃毛, n, [鬃毛们], "某些动物颈部和周围生长的长毛MANED MANELESS 形容词").
+```prolog
+条目(曼涅布, n, [曼涅布们], "一种用于杀死真菌的粉末").
+```
+entry(马术, 名词, [马术], "训练和骑乘马匹的艺术").
+entry(操作, v, [操作了,正在操作,操作], "为特定目的改变位置").
+entry(勇敢, 形容词, [], "勇敢地 adv").
+entry(漫画, n, [漫画], "日本的图画小说").
+条目(白眉乌猴, n, [白眉乌猴], "长尾猴").
+entry(长尾猴, n, [长尾猴], "mangabey").
+条目(manganic, 形容词, [], "含有金属元素锰").
+entry(锰安尼, n, [锰安尼合金], "一种由铜、锰和镍组成的合金").
+入口(疥癣, 名词, [疥癣症], "家畜的一种皮肤病")。
+entry(饲用甜菜, n, [饲用甜菜], "一种甜菜的变种").
+入口( manger, n, [mangers], "马或牛吃东西用的食槽或箱子" ).
+entry(脏乱的, 形容词, [], "更脏乱 最脏乱 脏乱的").
+entry( mangier, 比较, [], "of mangy" ).
+entry(最肮脏, 超级, [], "of 肮脏").
+entry(mangily, 副词, [], "以潦倒的方式").
+entry(乱砍, v, [乱砍了,乱砍的,乱砍着], "砍、切或压以致变形").
+entry(毁坏者, n, [毁坏者们], "一个造成毁坏的人").
+条目(芒果, 名词, [芒果], "或芒果一种可食用的热带水果")。
+entry(甜菜, n, [甜菜], "饥荒").
+入口(投石机, n, [投石机们], "一种中世纪用于投掷石块的军事装置")。
+条目(红树林, 名词, [红树林], "一种热带树或灌木")。
+entry(患皮癣的, 形容词, [], "更加厉害的皮癣 病态最严重的皮癣病").
+入口(窨井, n, [窨井], "提供进入地下或封闭结构的入口的孔洞").
+entry(成年, n, [成年的状态], "成为一个成年男性的状态").
+entry(追捕, n, [追捕], "对某人的密集搜寻").
+条目(狂热, 名, [狂热症], "过度的兴趣或热情")。
+入口(狂人, n, [狂人们], "一个疯狂的人狂热的 形容词").
+entry(躁狂者, n, [躁狂者们], "患有躁狂症的人").
+entry(修甲, v, [修剪过的,修剪中,修剪], "修剪和打磨指甲").
+入口(清单, v, [显现, 显现中, 显现s], "清晰地展示").
+条目(流形, v, [流化,流形化,流形化], "制作多个副本").
+条目(曼尼霍特, 名词, [曼尼霍特], "一种热带植物")。
+entry(模特, n, [模特], "人体解剖模型").
+条目(马尼拉, n, [马尼拉纸], "一种坚韧的纸张")。
+entry(马尼拉, n, [马尼拉], "马尼拉").
+条目(马尼勒, n, [马尼勒斯], "某些牌戏中的第二高王牌").
+entry(树薯, n, [树薯], "一种热带植物").
+```prolog
+entry(树薯, n, [树薯们], "树薯").
+```
+entry(马尼普勒, n, [马尼普勒斯], "一种作为祭衣佩戴在左臂的丝带").
+entry(马尼托, n, [马尼托斯], "马尼图")。
+`entry(马尼托, 名词, [马尼托们], "一种阿尔冈昆人的神").`
+entry(马尼图, n, [马尼图斯], "马尼图").
+项(人类, 名词, [人类], "人类").
+条目(脏兮兮, 形容词, [], "更脏  最脏 劣质 有缺陷").
+entry(没有人, 形容词, [], "没有男人")。
+entry(男人般, 形容词, [], "像一个男人").
+entry(男人味, 形容词, [], "更有男人味 最有男人味 拥有男人的特质 男人味副词").
+entry(人为的, 形容词, [], "人工制造").
+入口(玛纳, 名词, [玛纳们], "神圣提供的食物")。
+entry(甘露聚糖, n, [甘露聚糖类], "一种糖").
+条目(有人操作, 过去, [], "man的时态").
+入口(方式, n, [方式], "行为的方式 有教养的 adj")。
+条目(有礼貌的, 形容词, [], "礼貌").
+entry(侏儒鸟, n, [侏儒鸟], "小木偶").
+entry(曼宁, 现在, [], "man的分词形式")。
+entry(男性化, 形容词, [], "类似或具有男性特征").
+entry(甘露醇, n, [甘露醇们], "甘露糖醇甘露糖形容词").
+entry(甘露醇, n, [甘露醇们], "一种醇")。
+entry(甘露糖, n, [甘露糖], "一种糖").
+```prolog
+entry(磨石, n, [磨石], "用于研磨食物的石头").
+```
+entry(庄园, n, [庄园们], "一个有土地的庄园或领地单位MANORIAL adj").
+入口(携带包, 形容词, [], "设计为由一个人携带").
+entry(人力, n, [人力资源], "可用于服务的人员数量")。
+entry(未实现, 形容词, [], "在实现一个人的愿望方面感到沮丧").
+entry(曼罗普, n, [曼罗普绳], "用作扶手的绳子").
+entry(法式阁楼, n, [法式阁楼屋顶], "一种屋顶类型").
+```prolog
+entry(男性体毛修剪, v, [已修剪, 修剪中, 修剪], "修剪或剃掉男性的体毛以增强外观").
+```
+entry(manse, n, [牧师住宅], "传教士的房子").
+entry(大厦, n, [大厦], "一座庞大而壮观的房子").
+entry(蝠鲼, n, [蝠鲼布料], "一种棉织物").
+```
+条目(斗篷, n, [斗篷们], "或 MANTEAUX 一种宽松的斗篷").
+```
+entry(壁炉台, n, [壁炉台们], "壁炉上的搁板").
+entry(胸甲, n, [胸甲], "用于保护士兵的移动屏障").
+```prolog
+entry(螳螂们, a, [], "mantis 的复数").
+```
+entry(mantic, 形容词, [], "有预言能力的").
+入口(螳螂, n, [螳螂], "螳螂").
+入口(曼蒂拉, 名词, [曼蒂拉], "女用围巾")。
+`entry(螳螂, n, [螳螂], "或 MANTESa 掠食性昆虫").`
+条目(尾数, n, [尾数们], "对数的小数部分")。
+入口(斗篷, 动词, [披上斗篷, 披着斗篷, 斗篷], "披风").
+entry(壁垒, n, [壁垒], "罩甲").
+`词条(遮盖布, n, [遮盖布], "一种装饰性布料").`
+entry(咒语, n, [咒语们], "在印度教中祷告或咒语的神秘公式MANTRIC adj").
+entry(咒语, n, [咒语], "咒语").
+条目(陷阱, n, [陷阱], "用来捕捉人类的圈套").
+入口(曼图阿, 名词, [曼图阿裙], "一件女士长袍")。
+entry(手册, n, [手册们], "一本小参考书").
+entry(手动, 副词, [], "靠手工进行的").
+条目(手的, 形容词, [], "涉及手的").
+入口(柄部, 复数, [], "柄状解剖部位").
+entry(风鸟, n, [风鸟], "天堂鸟的一种").
+entry(麦努卡, n, [麦努卡], "新西兰的一种小树").
+entry(解放, v, [解放了,正在解放,解放], "使摆脱奴役").
+条目(肥料, 动词, [施肥, 施肥中, 施肥], "用粪肥滋养牲畜粪便")。
+entry(施肥者, n, [施肥者], "施肥的人").
+entry(肥料, 形容词, [], "关于或有关肥料的").
+entry(施肥, 现在, [], "施肥的分词").
+entry(前肢, n, [前肢], "脊椎动物前肢的末端").
+entry(manward, 副词, [], "朝向人").
+entry(向人, 副词, [], "朝人").
+entry(以人之道, 副词, [], "以一种具有人的特征的方式").
+条目(许多, 形容词, [], "MORE MOST由许多数目组成或构成").
+entry(多次, 副词, [], "多倍地").
+entry(地图, v, [映射, 绘制, 地图化], "在地图上描绘一个地区的表示").
+entry(枫树, n, [枫树们], "一种硬木树").
+entry(mapless, adj, [], "缺少地图").
+entry(maplike, 形容词, [], "类似地图的").
+entry(制图师, n, [制图师们], "制作地图的人").
+条目(可映射的, 形容词, [], "可以被映射的").
+entry(映射, 过去式, [], "map的时态").
+entry(映射器, n, [映射器们], "进行映射的人").
+entry(映射, n, [映射], "一种数学对应关系").
+条目(模型, 名词, [模型], "一个小的初步模型")。
+entry(maqui, n, [马基斯], "马基斯").
+entry(马奎拉, n, [马奎拉斯], "一家在墨西哥的外资组装工厂").
+entry(灌木丛, n, [灌木丛], "浓密的灌木丛").
+```
+条目(损伤, 动词, [损伤了, 正在损伤, 损伤], "削弱完美性或完整性").
+```
+entry(瑪拉, n, [瑪拉斯], "阿根廷的豚鼠").
+entry(马拉布, n, [马拉布鹳], "非洲鹳").
+entry(马鲁布鹳, n, [马鲁布鹳们], "马鲁布鹳").
+条目(马拉卡, 名词, [沙锤], "一种打击乐器")。
+entry(竹芋, n, [竹芋属植物], "一种热带植物").
+entry(马拉斯卡, n, [马拉斯卡斯], "一种野樱桃").
+entry(干瘦症, n, [干瘦症], "身体的消瘦MARASMIC adj").
+entry(马拉松, n, [马拉松赛], "长距离比赛")。
+入口(掠夺, 动词, [掠夺了, 掠夺中, 掠夺], "搜寻战利品而漫游").
+entry(掠夺者, n, [掠夺者], "一个进行掠夺的人").
+entry(马拉韦迪, n, [马拉韦迪斯], "西班牙的旧币").
+entry(大理石, v, [大理石化, 大理石着,色大理石], "赋予大理石般的外观").
+entry(弹珠人, n, [弹珠人们], "一个大理石的人").
+entry(大理石花纹, n, [大理石花纹], "肉中脂肪与瘦肉的混合").
+entry(marbly, 形容词, [], "最大理石状的 最大理石状的斑驳").
+entry(marc, n, [酒糟], "水果被榨汁后剩下的残渣")
+```prolog
+词条(重音的, n, [重音的复数], "用强烈的重音演奏的音乐段落").
+```
+```prolog
+entry(marcel, v, [卷发了, 卷发中, 卷发], "在头发上制造深邃柔软的波浪").
+```
+entry(三月, v, [行进,进行中,行进], "以正式的军事方式行走").
+项目(童话, n, [童话], "一个民间故事").
+entry(行者, n, [行者们], "一个行走的人").
+条目(女侯爵, 名词, [侯爵], "侯爵的妻子或遗孀").
+entry(马克西斯, n, [马克西西], "意大利贵族").
+入口(marconi, n, [marconis], "双向收音机").
+入口(母马, ｎ, [玛丽亚], "月球或火星表面的黑暗区域")。
+entry(母马, n, [母马们], "一只成熟的雌性马").
+条目(maremma, 名词, [maremme], "一个沼泽的沿海地区")。
+entry(marengo, 形容词, [], "佐以蘑菇、西红柿、油和酒的酱汁").
+入口(玛格丽克, 形容词, [], "珍珠般的").
+entry(人造奶油, n, [人造奶油们], "一种黄油替代品").
+entry(玛盖特, n, [玛盖特鱼], "一种热带鱼").
+条目(长尾虎猫, n, [长尾虎猫们], "一种小型美洲野猫").
+entry(玛姬, 名词, [玛姬的], "边缘").
+entry(边缘, 动词, [边缘化的, 边缘化中, 边缘化], "加边缘").
+入口(边缘, v, [加边缘, 边缘化, 边缘], "提供边界的边缘").
+entry(边缘, n, [边缘们], "被认为处于较低或外部极限的一个").
+entry(藩侯, n, [藩侯们], "中世纪德国边境省份的军事总督").
+entry(玛丽亚, pl, [], "of mare").
+entry(玛丽亚奇, n, [玛丽亚奇乐队], "一个墨西哥音乐乐队").
+入口(万寿菊, 名词, [万寿菊复数], "一种开花植物")。
+入口(马林巴, 名词, [马林巴琴], "一种打击乐器")。
+入口(码头，名词，[码头]，“小船停泊区”)。
+entry(腌料, v, [已腌, 正在腌, 腌料], "腌制").
+entry(玛丽娜拉, n, [玛丽娜拉们], "一种调味的番茄酱").
+entry(腌制, v, [腌制过的,腌制,腌制], "在烹饪前浸泡在调味液中")。
+entry(海军陆战队员, n, [海军陆战队员们], "一种接受过海上和陆地服务训练的士兵").
+词条(水手, 名词, [水手们], "一个水手")。
+entry(马里波萨, n, [马里波萨], "一种开花植物").
+entry(marish, n, [沼泽地], "沼泽").
+entry(婚姻的, 形容词, [], "与婚姻有关").
+entry(海洋, 形容词, [], "有关海上航行或贸易").
+条目(香薄荷, 名词, [香薄荷], "一种芳香的草本植物")。
+entry(马克, 动词, [标记过, 标记着, 标记], "制作一个可见印记" ).
+条目(马克, 名词, [马克], "或马尔卡波斯尼亚和黑塞哥维那的货币单位")。
+entry(降价, n, [降价], "价格的减少").
+entry(显著地, 副词, [], "以明显方式").
+entry(标记, n, [标记], "一个做标记的人或物").
+entry(市场, v, [推销,营销,市场], "出售").
+entry(营销员, n, [营销人员], "从事营销的人").
+entry(螭羚, n, [螭羚], "螭羚").
+条目(螺旋角羚羊, n, [螺旋角羚羊], "一种野生山羊").
+entry(标记, n, [标记], "一系列的标记").
+entry(markka, n, [马尔卡], "或 MARKKAA 以前芬兰的货币单位")。
+entry(神射手, 名词, [神射手们], "能够精确击中目标的人").
+entry(标记, n, [标记们], "价格的增加").
+入口(泥灰, 动词, [泥灰化, 泥灰化中, 泥灰], "用含有石灰、粘土和沙子的泥灰施肥")。
+```prolog
+entry(marlier, comparative, [], "马利的").
+```
+entry(马尔里斯特, 最高级, [], "of marly").
+条目(马林, n, [马林鱼], "一种海洋游戏鱼").
+入口(马林，名词，[马林绳]，"船上使用的绳子")。
+entry(馬林, n, [馬林斯], "馬林").
+条目(玛莱特, 名词, [玛莱特], "一种泥灰玛莱特的形容词").
+entry(marly, adj, [], "富含泥灰").
+入口(玛米特, 名词, [玛米特们], "一个大的煲汤锅").
+entry(狨猴, n, [狨猴], "一种小猴子").
+入口(土拨鼠, 名词, [土拨鼠们], "一种穴居啮齿动物")。
+条目(摩洛哥呢, n, [摩洛哥呢们], "一种轻盈皱褶的织物").
+entry(栗色, v, [被困在孤岛, 使困于孤岛, 抛弃], "让某人处于一个孤立的地方")
+entry(搅和者, n, [搅和者们], "因干预而破坏计划的人").
+entry(品牌, n, [品牌], "报复").
+入口(雨篷, n, [雨篷], "在入口处突出的类似屋顶的结构")。
+entry(侯爵, n, [侯爵们], "侯爵").
+entry(侯爵, n, [侯爵们], "一个欧洲贵族").
+entry(侯爵夫人, n, [侯爵夫人们], "侯爵的妻子或遗孀")
+entry(marram, n, [marrams], "一种海滩草").
+entry(犹太人, n, [犹太人], "在西班牙因避免迫害而宣称自己是基督徒的犹太人").
+词条(损坏, 过去式, [], "损坏的时态")。
+条目(损害者, 名词, [损害者们], "一个造成损害的人或物").
+entry(婚姻, n, [婚姻关系], "两个人之间的法律结合，可能是异性或同性").
+entry(已婚, n, [已婚者], "已婚的人").
+entry(marrier, n, [marriers], "结婚者").
+条目(结婚，现在时, [], "第三人称单数形式的结婚")。
+入口(结婚, 现在, [], "mar 的分词").
+entry(栗子, n, [栗子们], "一种栗子的品种").
+entry(骨髓, v, [骨髓化,骨髓中,骨髓], "结婚")。
+词条(骨髓的, 形容词, [], "简洁有力的").
+entry(结婚, v, [已结婚, 正在结婚, 结婚], "进入婚姻").
+entry(马尔萨拉, n, [马尔萨拉], "一种西西里葡萄酒").
+entry(玛斯, n, [玛斯们], "主人").
+entry(沼泽, n, [沼泽地], "一片低湿地沼泽的 adj").
+entry(整理, 动词, [整顿中，整顿], "安排正确的顺序").
+入口(马歇尔, 动词, [已马歇尔, 正在马歇尔, 马歇尔们], "整理指挥").
+entry(沼泽的, 形容词, [], "更沼泽的 最沼泽的像沼泽").
+条目(有袋动物, 复数, [], "某些哺乳动物的腹袋").
+entry(mart, v, [推销, 市场化, 集市], "到市场").
+entry(卷丹, n, [卷丹], "一种开花植物").
+入口(马特洛, 名词, [马特洛们], "一个圆形堡垒")。
+entry(貂, n, [貂], "一种食肉哺乳动物").
+entry(军事的, 形容词, [], "有关战争的").
+entry(火星人, n, [火星人们], "据说居住在火星上的生物")。
+entry(马丁, 名词, [马丁斯], "一种小鸟").
+词条(马丁内特, 名词, [马丁内特们], "严格要求遵守规则的人").
+入口(马天尼, 名词, [马天尼酒], "一种酒精饮料")。
+条目(雨燕, 名词, [雨燕们], "一种燕子")。
+entry(烈士, v, [殉难, 殉道, 烈士们], "因坚持信仰而被处死")。
+entry(殉道者般的, 形容词, [], "类似于殉道者").
+entry(殉道所, n, [殉道所们], "为纪念殉难者而建的圣地").
+词条(惊奇, v, [惊奇了,惊奇着,惊奇们], "或 惊奇了 惊奇着 惊奇们被充满惊奇或惊讶")。
+entry(惊讶者, n, [惊讶者们], "一个感到惊讶的人").
+`entry(瑪薇, 形容詞, [], "非凡").`
+入口(玛丽珍, 名词, [玛丽珍们], "大麻").
+entry(杏仁糖, n, [杏仁糖们], "一种杏仁糖果").
+entry(马萨, 名词, [masas], "用干玉米制成的面团")。
+条目(马萨拉, 名词, [马萨拉调味料], "用于印度烹饪的一种香料混合物")。
+entry(睫毛膏, v, [涂睫毛膏, 涂睫毛膏中, 睫毛膏], "用化妆品染色睫毛或眉毛")
+条目(高密度质量, 名词, [高密度质量], "在月球表面下的致密质量浓度")。
+条目(吉祥物, 名词, [吉祥物], "被认为能带来好运的人、动物或物品")。
+入口(微波激射器, 名词, [微波激射器], "一种用于放大电信号的装置")。
+entry(捣碎, v, [捣碎了, 捣碎中, 捣碎], "使...成糊状").
+entry(捣碎机, n, [捣碎机], "捣碎物品的人或工具").
+entry(玛什基亚, 名词, [玛什吉希姆], "犹太教饮食规制机构的检查员").
+条目(玛榭, 名词, [玛榭们], "一种高尔夫球杆").
+entry(玛什, n, [高尔夫铁杆们], "高尔夫铁杆").
+entry(清真寺, n, [清真寺], "清真寺")。
+entry(mask, v, [遮掩,遮掩中,遮掩物], "用面具覆盖用于伪装脸部的覆盖物MASKABLE 形容词").
+entry(maskeg, n, [maskegs], "泥炭地").
+条目(伪装者, n, [伪装者们], "戴面具的人").
+entry(遮蔽, n, [遮蔽物], "用来遮挡观众视线的舞台布景的一部分")。
+入口(如面罩, 形容词, [], "暗示面具").
+entry(泥瓦匠, v, [建造, 建筑, 建设], "用石头或砖建造")。
+entry(共济会的, 形容词, [], "与石工术相关的")。
+entry(砖石结构, n, [砖石结构], "用石头或砖建造的结构").
+entry（masque，n，[masques], "一种曾在英格兰流行的戏剧娱乐形式"）。
+入口(化妆, 名, [化妆者], "遮盖者")。
+entry(质量, v, [聚集,聚集着,聚集着的], "把一个连贯物体的整体聚集成一体")。
+entry(马萨, n, [马萨斯], "大师").
+入口(屠杀, 动词, [屠杀了, 屠杀中, 屠杀], "不分青红皂白地杀戮").
+```prolog
+词条(按摩, 动词, [按摩过, 按摩中, 按摩们], "为了治疗或卫生目的操作身体的部分").
+```
+entry(按摩师, n, [按摩师们], "进行按摩的人").
+entry(大众文化, 名词, [大众文化们], "由大众媒体推广的文化").
+entry(质量, n, [质量], "一种台球击球方式")
+entry(大规模地, 副词, [], "以大规模的方式").
+entry(咬肌, n, [咬肌], "抬起下颌的肌肉").
+entry(按摩师, n, [按摩师们], "按摩的男性人员").
+条目(女按摩师, 名词, [女按摩师们], "进行按摩的女性").
+条目(质量, 名词, [质量], "黄色颜料").
+entry(massier, 比较级, [], "of massy").
+entry(最重的, 最高级, [], "重的").
+条目(大山, n, [大山], "主要的山脉").
+entry(巨大的, 形容词, [], "具有相当大的尺寸")
+entry(无质量, 形容词, [], "没有质量").
+词条(质量的, 形容词, [], "更重最重大体积的").
+```prolog
+entry(桅, v, [桅装, 桅化, 桅], "为船提供一个长杆以支撑帆和索具").
+```
+entry(马斯塔巴, n, [马斯塔巴], "一座古埃及坟墓").
+入口(玛斯塔巴, 名词, [玛斯塔巴们], "玛斯塔巴").
+entry(硕士, v, [掌握,掌握中,主人], "变得熟练").
+entry(技艺高超, 形容词, [], "非常熟练").
+entry(精通, 名词, [精通], "卓越的知识或技能").
+entry(masthead, v, [mastheaded, mastheading, mastheads], "提升到桅杆顶端").
+词条(乳香, 名词, [乳香树脂], "一种芳香树脂").
+入口(木蠟, 名詞, [木蠟], "馬斯迪克").
+entry(獒犬, n, [獒犬], "一种大型短毛犬").
+entry(乳腺炎, n, [乳腺炎], "乳房的炎症乳腺炎性 adj").
+entry(乳香, n, [乳香], "乳香").
+entry(无桅杆, 形容词, [], "没有桅杆").
+入口(桅杆状, 形容词, [], "类似于桅杆").
+entry(乳齿象, n, [乳齿象], "一种已灭绝的类似大象的哺乳动物").
+entry(乳突, n, [乳突], "颞骨的后部").
+入口(鉕, 名词, [鉕], "一种金属元素").
+入口(垫, 动词, [压实的, 压实中, 垫子], "压紧成密集的团块")。
+entry(斗牛士, n, [斗牛士们], "在斗牛中杀死公牛的人").
+entry(matambala, a, [], "tambala 的复数").
+entry(匹配, 动词, [匹配的, 匹配中, 匹配], "设置在竞争或对立中").
+`entry(matchbox, n, [火柴盒], "一个小盒子").`
+entry(匹配器, n, [匹配器们], "一种匹配的东西").
+entry(对阵, n, [对阵], "将两个玩家相互对抗的情况").
+条目(伴侣, 动词, [伴侣过, 正在伴侣, 伴侣们], "作为伴侣在联盟中结合").
+```prolog
+entry(无伴, 形容词, [], "没有配偶").
+```
+entry(海员, n, [海员们], "水手").
+词条(鱼炖菜, 名词, [鱼炖菜], "一种鱼炖菜").
+entry(母亲, n, [母亲们], "或 MATRES母亲")。
+条目(材料, n, [材料], "任何东西的构成物或可能的构成物")。
+entry(物料, n, [物料], "组织所使用的设备和供应品的总和").
+入口(母亲的, 形容词, [], "与母亲相关或具有母亲特征的").
+entry(友谊, n, [友谊], "成为朋友的状态").
+条目(伙计, 名词, [伙计们], "一个朋友")。
+`词条(好友, 形容词, [], "MATIER MATIEST相伴").`
+entry(数学, n, [数学], "数学").
+entry(matilda, n, [matildas], "流浪者的包袱").
+entry(晨祷, n, [晨祷], "晨鸟之歌").
+entry(晨间的, 形容词, [], "与早晨有关").
+条目(下午场, n, [下午场表演], "白天的演出").
+entry(友好, n, [友好感], "亲密").
+entry(繁殖期, n, [繁殖期们], "季节性繁殖动物可以交配的时期").
+entry(matless, 形容词, [], "没有地毯的小地板覆盖物").
+entry(床垫, 名词, [床垫们], "长颈玻璃器").
+entry(母亲, a, [], "mater 的复数").
+条目(学籍, n, [学籍], "进入大学的注册入学").
+entry(matrix, n, [矩阵], "或 MATRICES某物源于或发展于其中的事物").
+```prolog
+词条(主妇, n, [主妇们], "已婚社会地位稳定的女性主妇体主妇般 adj").
+```
+entry(玛撒饼, n, [玛撒饼s], "无酵饼").
+entry(matt, v, [matted,matting,matts], "磨砂效果").
+entry(哑光, v, [已哑光化,哑光化中,哑光化], "产生哑光效果").
+entry(纠结的, 过去, [], "mat 和 matte 的时态").
+entry(乱糟糟地, 副词, [], "以纠结的方式").
+entry(事情, v, [重要了,正在变得重要,重要], "具有重要性")。
+entry(mattery, 形容词, [], "产生脓液").
+entry(晨禱, n, [晨禱], "清晨").
+entry(席子, n, [席子们], "用作地板覆盖物的织物").
+入口(鹤嘴锄, 名词, [鹤嘴锄], "一种挖掘工具")。
+条目(疯狂者, 名词, [疯狂者们], "精神不稳定的人").
+入口(床垫, 名词, [床垫们], "matrass").
+entry(床垫, n, [床垫], "一种填充有弹性材料的大型垫子，作为床使用").
+entry(成熟, 动词, [成熟了, 正在成熟, 成熟], "成熟").
+词条(成熟, 形容词, [], "更成熟 最成熟完全发育成熟地 adv")。
+成熟项(成熟, 动词, [成熟了, 成熟中, 成熟], "使变得成熟或成为成熟").
+条目(成熟者, 名词, [成熟者们], "使某物成熟的人或物").
+条目(成熟, n, [成熟度], "成熟的状态")。
+entry(无酵饼, n, [无酵饼们], "无酵饼").
+```
+entry(matzah, n, [无酵饼], "犹太无酵饼").
+```
+入口(玛佐, n, [玛佐斯], "或 MATZOT 或 MATZOTH，一种无酵面包")。
+entry(犹太薄饼, n, [犹太薄饼们], "无酵节饼").
+entry(马祖恩, n, [马祖恩们], "一种用牛奶制成的食物").
+entry(maud, n, [mauds], "一种苏格兰的灰色和黑色格子呢").
+条目(伤感, 形容词, [], "过度情绪化").
+entry(mauger, prep, [], "maugre").
+entry(maugre, 介词, [], "尽管").
+```prolog
+入口(殴打, 动词, [殴打了, 殴打着, 殴打], "通过殴打导致受伤").
+```
+条目(猛击者, n, [猛击者们], "进行打击的人或物").
+entry(撕咬, 名词, [撕咬], "通过殴打造成伤害的行为")
+入口(maumet, n, [maumets], "偶像").
+条目(maumetry, n, [maumetries], "偶像崇拜")。
+entry(maun, v, [], "必须 MAUN 是这个动词的唯一形式，不能被变位").
+entry(蒙德, 名词, [蒙德], "一种亚洲的重量单位").
+entry(漫谈, v, [漫谈过,漫谈着,漫谈], "胡言乱语").
+entry(濯足礼, n, [濯足礼], "为穷人洗脚的宗教仪式").
+entry(陵墓, 复数, [], "大型庄严的坟墓").
+```prolog
+entry(mausy, adj, [], "MAUSIER MAUSIESTmauzy").
+```
+entry(maut, n, [mauts], "麦芽").
+条目(紫红色, 名词, [紫红色们], "一种紫色").
+条目(mauzy, 形容词, [], "更模糊 最模糊雾气重的 朦胧的")。
+entry(专家, n, [专家们], "能手").
+条目(独行者, 名词, [独行者们], "未被打上烙印的牧场牲畜")。
+入口(玛薇, 名词, [玛薇们], "玛薇").
+entry(mavin, n, [mavins], "专家").
+entry(梅维斯, 名词, [梅维斯们], "一种鸣禽").
+entry(maw, v, [mawed,mawn,mawing], "修剪草坪"）。
+```prolog
+entry(多愁善感, 形容词, [], "过分感伤").
+```
+entry(max, v, [极限,达到,极至], "达到上限").
+入口(maxi, n, [maxis], "长裙或长外套")。
+entry(maxiboat, n, [maxiboats], "一艘大型赛艇")
+entry(长外套, n, [长外套们], "长大衣").
+入口(上颌骨, n, [上颌骨], "或 上颌骨上颚或颚骨")。
+entry(maxim, n, [格言], "关于普遍真理或原则的简短陈述").
+`入口(极大值, a, [], "maximum 的复数").`
+条目(极大, n, [极大的], "数学集合中的一个元素，其后没有其他元素").
+项(maximand, 名词, [maximands], "要被最大化的东西")。
+entry(maximin, n, [最大极小值], "一组最小值中的最大值")。
+entry(最大化, v, [最大化了,正在最大化,最大化], "最大化").
+entry(maximite, n, [硝化甘油], "一种强力炸药").
+```prolog
+入口(最大化, v, [最大化,最大化中,最大化了], "使尽可能大").
+```
+`条目(最大, n, [极大值], "或 MAXIMA最大可能的数量、量或程度")。`
+entry(maxixe, n, [玛西西], "一种巴西舞蹈").
+entry(麦克斯韦, n, [麦克斯韦], "磁通量单位").
+entry(五月, v, [五月过, 五月中, 五月们], "在春天采集花朵").
+entry(maya, n, [玛雅人], "在印度哲学中产生幻觉的力量玛雅形容词").
+entry(曼陀罗, n, [曼陀罗], "一种多年生草本植物").
+entry(也许, n, [也许们], "一种不确定性").
+entry(五月鸟, n, [五月鸟], "一种黄腰黑莺").
+entry(五月椒, 名词, [五月椒], "一种开花灌木").
+```prolog
+entry(求救信号, n, [求救信号们], "一种无线电遇险呼叫").
+```
+```prolog
+条目(mayest, a, [], "may 的第二人称单数现在式").
+```
+entry(蜉蝣, 名词, [蜉蝣], "一种有翅昆虫").
+entry(或许, 副词, [], "可能").
+入口(混乱, n, [混乱们], "故意伤害他人的罪行")。
+条目(马英, 名词, [马英们], "春天采花").
+入口(蛋黄酱, 名词, [蛋黄酱们], "蛋黄酱").
+entry(市长, n, [市长们], "城市或镇的行政长官MAYORAL adj").
+entry(女市长, n, [女市长们], "女市长").
+entry(五月柱, n, [五月柱], "用于春季庆祝活动的装饰柱").
+入口(西番莲, 名词, [西番莲], "一种开花藤本植物")。
+entry(mayst, a, [], "第二人称单数may的现在式")。
+entry(梅文, n, [梅文们], "能手").
+条目(五月草, 名词, [五月草], "一种恶臭的杂草")。
+entry(mazaedia, 复数名词, [], "某些地衣的孢子产生器官").
+entry(mazard, n, [mazards], "头或脸").
+entry(迷宫, v, [迷惑, 令人困惑, 迷宫], "使迷惑MAZEDLY 副").
+entry(迷宫般的, 形容词, [], "迷离的")。
+entry(玛泽尔托夫, 感叹词, [], "用于表达祝贺").
+entry(马泽尔, 名词, [马泽尔们], "一个大饮碗").
+entry(mazier, 比较级, [], "of mazy").
+```prolog
+entry(最曲折的, 最高级, [], "曲折的").
+```
+入口(mazily, 副词, [], "以迷宫般的方式").
+entry(迷宫般的性质, 名词, [迷宫般的性质们], "迷宫般的性质").
+entry(令人惊叹的, 出席, [], "迷惑的分词").
+```
+条目(mazourka, n, [mazourkas], "mazurka").
+```
+entry(玛祖玛, n, [玛祖玛斯], "金钱").
+```prolog
+条目(玛祖卡, 名词, [玛祖卡舞曲], "一种波兰舞蹈").
+```
+条目(迷宫般的, 形容词, [], "充满令人困惑的转弯和通道的").
+entry(马萨德, n, [马萨德们], "一种野樱桃")。
+入口(南非鄉村音樂, 名詞, [南非鄉村音樂們], "一種南非舞蹈音樂")。
+entry(姆比拉, n, [姆比拉], "一种非洲乐器").
+entry(me, 代词, [], "代词 I 的宾格形式").
+entry(蜂蜜酒, 名词, [蜂蜜酒], "一种酒精饮料").
+entry(草地, n, [草地], "一块草地MEADOWY 形容词").
+```prolog
+entry(微薄, 形容词, [], "较微薄 最微薄数量或质量上的不足微不足道地 副词").
+```
+entry(微薄, 形容词, [], "更微薄 最微薄微薄微薄地 副词").
+entry(餐, n, [餐點], "在一次就餐中提供和食用的食物")
+entry(玉米, n, [玉米], "一穗玉米").
+entry(较多粉状, 比较级, [], "粉状").
+条目(最粉状的, 最高级, [], "的 粉状").
+entry(缺餐, 形容词, [], "缺乏一顿饭").
+entry(用餐时间, n, [用餐时间], "用餐的常规时间").
+entry(黄粉虫, n, [黄粉虫们], "某些甲虫的破坏性幼虫").
+`entry(mealy, adj, [], "更松软最松软干燥且易碎").`
+entry(粉蚧, n, [粉蚧], "一种破坏性昆虫").
+entry(意思, 形容词, [], "较低的等级、质量或性质").
+entry(意图, 动词, [意图, 意思, 意味着], "打算").
+entry(漫游, v, [漫游过, 漫游, 漫游], "徘徊").
+```prolog
+entry(meaner, n, [meaners], "意味着的人").
+```
+entry(坏蛋, n, [坏蛋们], "一个讨厌的人").
+entry(坏蛋, 复数, [], "坏蛋的").
+entry(意义, n, [意义们], "通过语言表达的意图或信息").
+entry(卑鄙地, 副词, [], "以卑鄙的方式").
+entry(刻薄, n, [刻薄状态], "处于刻薄的状态").
+entry(意思, 过去, [], "mean的时态").
+entry(期间, n, [期间], "中间的时间").
+entry(meany, n, [卑鄙鬼], "卑鄙鬼").
+entry(麻疹, n, [麻疹], "一种绦虫幼虫MEASLED 形").
+entry(measly, 形容词, [], "更微不足道 最微不足道微薄").
+条目(测量, v, [测量过的,测量中,测量], "确定维度数量或容量").
+entry(测量者, n, [测量者们], "测量的人").
+入口(肉, 名词, [肉类], "用作食物的动物肉MEATED 形容词")。
+entry(耳道的, adj, [], "与道有关").
+entry(肉丸, n, [肉丸], "小块的碎肉球").
+入口(肉脑袋, 名词, [肉脑袋们], "笨蛋")。
+entry(肉钩, n, [肉钩], "挂肉的钩子").
+entry(肉更厚的, 比较级, [], "肉的").
+entry(最肉的, 最高级, [], "of meaty").
+entry(肉质地, 副词, [], "以肉质的方式").
+entry(无肉的, 形容词, [], "没有肉的").
+条目(肉卷, n, [肉卷们], "一种烤制的碎肉面包").
+条目(肉品商, n, [肉品商们], "肉类销售商")。
+entry(管道, n, [管道们], "一个天然的身体通道").
+`词条(肉感, 形容词, [], "更肉感 最肉感含有大量肉").`
+entry(麦加, n, [麦加市], "许多人访问的地方").
+进入(机修工, 名词, [机修工们], "一名机械师")。
+entry(机械师, n, [机械师], "与机器一起工作的人").
+entry(隔离墙, n, [隔离墙], "或 隔离墙是犹太教堂中将男人和女人隔开的隔板").
+entry(烤肉, n, [烤肉], "一种在烤肉架上烤的肉餐").
+entry(胎便, n, [胎便们], "新生儿第一次排出的粪便").
+entry(医, 名词, [药物], "药物").
+条目(青鳉, n, [青鳉鱼], "一种日本鱼")。
+条目(奖牌, 动词, [获得奖牌, 获得奖牌中, 奖牌], "或 获得奖牌 获得奖牌中 奖牌 用奖牌或纪念金属件来荣誉").
+entry(奖牌获得者, n, [奖牌获得者们], "被授予奖牌的人").
+条目(奖章的, 形容词, [], "关于奖章的或与奖章有关的").
+entry(奖牌, a, [], "medal的现在分词").
+条目(干预, 动词, [干预了,干预中,干预], "对与自己无关的事情感兴趣")。
+条目(干涉者, 名词, [干涉者们], "一个干预的人").
+entry(医疗撤离, v, [已医疗撤离, 正在医疗撤离, 医疗撤离s], "或 MEDEVACKED MEDEVACKING MEDEVACs 用直升机从战场上撤离伤员")。
+entry(地中海果蝇, n, [地中海果蝇们], "一种地中海果蝇").
+entry(媒体, 名词, [媒体], "血管或淋巴管的中层").
+entry(媒体, n, [媒体], "一种交流渠道")
+条目(中介性, n, [中介性], "调解的行为")。
+词条(向中, 副词, [], "朝向身体或部分的中间").
+entry(mediae, pl, [], "媒体的").
+entry(中间, 名词, [中间音], "在一个词的中间的声音音节或字母").
+entry(中间地, 副词, [], "以中心的方式").
+入口(中位数, n, [中位数们], "一个中心部分")。
+入口(中间地, 副词, [], "中间地").
+术语(中介音, 名词, [中介音], "一种音乐音调类型").
+entry(调解, 动词, [调解了,调解中,调解], "在纠纷方之间进行活动以促成解决方案")。
+entry(调解人, n, [调解人们], "调解的人").
+entry(医务工作者, n, [医务人员], "从事医疗工作的人").
+entry(medicaid, n, [medicaids], "一种政府健康计划").
+条目(医疗, n, [体检], "身体检查")。
+entry(治疗剂, n, [治疗剂们], "一种治疗物质").
+entry(医疗保险, n, [医疗保险s], "一种政府健康计划").
+entry(用药, v, [用过药,正在用药,用药治疗], "用药物治疗").
+`entry(medicide, n, [醫療自殺], "由醫療輔助的自殺行為").`
+entry(药物, v, [medicined,medicining,medicines], "用于治疗疾病的物质的药物管理").
+入口(苜蓿, 名词, [苜蓿们], "一种开花植物")。
+entry(醫生, n, [醫生們], "醫生或醫學生").
+入口(中世纪, n, [中世纪人], "属于中世纪的人").
+entry(medigap, n, [medigaps], "补充健康保险").
+entry(medii, pl, [], "源自 medius")。
+entry(麦地那, 名词, [麦地那们], "北非城市的本土区").
+entry(普通, 形容词, [], "不优不劣").
+entry(冥想, v, [冥想过,冥想着,冥想], "沉思").
+入口(中等, n, [媒介], "或 媒体环境其中事物运作并繁荣").
+`入口(中指, n, [中指], "中指").`
+`entry(medivac, v, [medivaced,medivacing,medivacs], "or MEDIVACKED MEDIVACKING MEDIVACSmedevac").`
+entry(枸杞树, n, [枸杞树], "一种欧亚树木").
+entry(什锦, n, [什锦], "混合物").
+entry(经学院, n, [经学院], "伊斯兰教学校").
+entry(延髓, n, [延髓], "或髓质某些植物茎中的中央组织髓质 形容词").
+条目(美杜莎, 名词, [美杜莎], "或 MEDUSAEa 水母MEDUSAL 形容词")。
+```prolog
+entry(美杜莎星人, n, [美杜莎星人们], "美杜莎").
+```
+entry(可以如水母的, 名词, [水母], "美杜莎").
+entry(meed, n, [奖赏], "应得的奖励").
+entry(温顺, 形容词, [], "温顺者 温顺者的缺乏精神和勇气温顺地 adv").
+entry(温顺, n, [温顺], "温顺的品质").
+入口(狐獴, n, [狐獴], "一种非洲猫鼬").
+entry(见面, v, [见过,见面,见过], "见到或进入某人的公司或存在").
+`entry(meeter, n, [会见者], "会面的人").`
+entry(会议, n, [会议], "为了共同目的而举行的集合")。
+entry(适当地, adv, [], "适合地").
+条目(适合, n, [适合性], "合适").
+条目(meg, n, [megs], "一兆字节")。
+条目(mega, 形容词, [], "在规模或重要性上很大").
+entry(兆帕, n, [兆帕], "压强单位").
+entry(megabit, n, [兆比特], "一种计算机信息单位").
+entry(百万, n, [百万], "一百万美元").
+```prolog
+条目(兆字节, n, [兆字节], "1048576 字节").
+```
+入口(特大城市, 名词, [特大城市们], "一个非常大的城市")。
+entry(重大交易, n, [重大交易], "涉及巨额资金的商业交易").
+entry(大剂量, n, [大剂量们], "异常大的剂量").
+entry(兆达因, n, [兆达因], "一种力的单位").
+entry(兆次浮点运算, n, [兆次浮点运算], "计算速度的度量").
+entry(超级成功, n, [超级成功], "非常成功的事物").
+入口(巨石, n, [巨石], "用于史前纪念碑的巨大石块")。
+词条(巨眼幼虫, 名词, [巨眼幼虫们], "大多数螃蟹的幼体阶段").
+entry(超大型购物中心, n, [超大型购物中心们], "一个非常大的购物中心").
+`entry(megaplex, n, [megaplexes], "一个拥有许多电影院的大型建筑").`
+```prolog
+entry(重脚鸡, n, [重脚鸡], "巨足鸟").
+```
+```
+项(大足鹤, n, [大足鹤], "一种大脚鸟").
+```
+入口(大廳, n, [美加拉], "古希臘房屋的巨大中央大廳")。
+entry(megass, n, [megasses], "蔗渣").
+entry(megasse, n, [megasses], "巨纤草").
+entry(超级明星, n, [超级明星们], "一个极其成功的表演者").
+条目(megaton, n, [megatons], "爆炸力的单位")。
+entry(兆伏, n, [兆伏], "一种电动势单位").
+entry(兆瓦, n, [兆瓦], "一种功率单位").
+条目(卷轴, 名词, [卷轴], "梅吉拉")。
+entry(卷轴, n, [卷轴], "一个漫长而复杂的故事").
+条目(梅吉尔普, 名词, [梅吉尔普斯], "一种与颜料混合用于绘画的物质")。
+entry(megilph, n, [megilphs], "麦吉尔普").
+入口(兆欧姆, n, [兆欧姆], "电阻单位")。
+条目(偏头痛, 名词, [偏头痛复数], "偏头痛").
+entry(meh, 形容词, [], "不令人印象深刻 枯燥").
+entry(美甲艺术, n, [美甲艺术], "在皮肤上用指甲花颜料绘制图案的艺术").
+entry(meikle, 形容词, [], "大的").
+entry(我的, 名詞, [我的們], "我的的").
+entry(meiny, n, [meinies], "随从").
+entry(减数分裂, n, [减数分裂], "一种类型的细胞分裂MEIOTIC adj").
+entry(大师, n, [大师们], "对某个特定领域有所了解的人").
+条目(蜜尔, 名词, [蜜尔们], "蜂蜜").
+entry(黑便, n, [黑便s], "黑便").
+条目(梅拉梅德, n, [梅拉姆定], "犹太学校的老师")。
+entry(三聚氰胺, n, [三聚氰胺类], "一种化学化合物").
+入口(混合物, n, [混合物], "一种混合物")。
+入口(black, 形容词, [], "与深色色素有关").
+entry(melanic, n, [melanics], "患有黑化症的人").
+入口(黑色素, 名词, [黑色素], "一种深色色素").
+entry(黑变病, n, [黑变病], "皮肤异常的黑色色素沉着").
+entry(黑化者, n, [黑化者们], "一个黑色变种").
+入口(黑榴石, 名词, [黑榴石], "一种黑色品种的石榴石").
+条目(黑化, v, [已黑化, 正在黑化, 黑化], "使变暗").
+入口(黑色素, 名词, [黑色素], "一种深色色素").
+entry(黑色素瘤, n, [黑色素瘤], "或称为MELANOMATA一种深色色素肿瘤")
+条目(黑色的, 形容词, [], "拥有黑色皮肤和头发").
+entry(融合, v, [融合了, 融合中, 融合], "混合").
+```prolog
+条目(磨粉器, n, [磨粉器], "每次研磨的谷物量")。
+```
+entry(近战, n, [近战], "混乱的搏斗").
+entry(黑便, n, [黑便], "一种以黑色柏油样粪便为特征的状况")。
+entry(歌曲的, 形容词, [], "关于歌曲的").
+entry(梅里石, n, [梅里石], "一个矿物组").
+entry(草木犀, n, [草木犀], "一种开花植物").
+entry(美利尼特, n, [美利尼特们], "一种强力的炸药").
+entry(旋律音节, 名词, [旋律音节], "或MELISMATA旋律装饰").
+entry(mell, v, [melled,melling,mells], "混合").
+```prolog
+entry(mellific, 形容词, [], "产生蜂蜜").
+```
+entry(柔和, 形容词, [], "更软更柔和的成熟后柔和芳香柔和地 副词").
+条目(柔和, 动词, [变得柔和, 变得柔和, 变得柔和], "使或变得柔和")。
+entry(手风琴, n, [手风琴], "一种小型手风琴").
+入口(旋律, 名, [旋律音栓], "一种风琴音栓类型")。
+entry(旋律的, 形容词, [], "与旋律有关").
+条目(口风琴, n, [口风琴们], "一端带有小键盘的口琴").
+条目(旋律, pl, [], "旋律的").
+条目(手风琴, n, [手风琴], "风琴")。
+entry(旋律化, v, [旋律化了,旋律化中,旋律化], "使旋律化").
+entry(作曲家, n, [作曲家们], "旋律的作曲者").
+entry(譜曲, v, [譜曲過去式,譜曲進行式,譜曲現在第三人稱單數], "作曲").
+entry(曲调, n, [旋律], "一种悦耳的音乐声的连续").
+条目(甲虫, 名词, [甲虫类], "一种甲虫").
+条目(瓜, n, [瓜], "任意多种葫芦MELONY 形容词").
+条目(融化, 动词, [融化了, 融化中, 融化], "通过加热从固态变为液态MELTABLE 形容词")。
+入口(融化, n, [融化过程], "融化的过程")。
+entry(熔毁, n, [熔毁], "核反应堆核心的融化").
+词条(熔化者, n, [熔化者们], "一个使物体熔化的人或物").
+条目(梅尔顿, 名词, [梅尔顿布], "一种厚重的羊毛织物").
+entry(熔化的, 形容词, [], "类似于融化的固体").
+条目(记忆, n, [记忆s], "一个希伯来字母")。
+entry(成员, n, [成员们], "一个完整部分中的一个独特部分成员 adj")
+entry(膜, n, [膜], "一层薄而柔韧的组织")。
+entry(模因, n, [模因], "从个人传播的想法或实践MEMETIC adj")
+`entry(memento, n, [纪念品], "或 MEMENTOES 是用于提醒过去的事物").`
+entry(模因学, 复数名词, [], "对模因及其影响的研究").
+条目(备忘录, n, [备忘录], "指定要记住的事情的便条").
+entry(回忆录, n, [传记], "传记").
+entry(纪念碑, n, [纪念碑], "用于纪念某人或某事件的事物")
+条目(记住, 动词, [记住了, 记住中, 记住的], "记住").
+entry(记住, v, [记住了, 正在记住, 记住], "记住，牢记").
+```prolog
+entry(记忆, n, [记忆], "保留和回忆过去经历的心理能力").
+```
+entry(洋太太, n, [洋太太们], "生活在殖民时期印度的欧洲女人").
+entry(男人, 复数, [], "人的").
+entry(威胁, v, [威胁了,威胁着,威胁], "威胁")．
+entry(威胁者, n, [威胁者们], "威胁他人的人").
+entry(迈纳德, n, [迈纳德斯], "迈纳德").
+entry(家庭, n, [家庭们], "一个家庭")。
+entry(初潮, n, [初潮], "第一次月经").
+`条目(美纳宗, 名词, [美纳宗们], "一种杀虫剂").`
+entry(修补, v, [修补了, 修补中, 修补], "修理的MENDABLE adj").
+entry(修理者, n, [修理者们], "修理东西的人").
+entry(盲鳗, n, [盲鳗鱼], "淡水鱼").
+词条(修补品, 名词, [修补品], "需要修补的物品的积累").
+entry(男性, 复数, [], "一个家庭或社区的男性成员").
+`入口(男性们, 复数名词, [], "男性").`
+词条(鳀鱼, 名词, [鳀鱼], "一种海洋鱼类").
+入口(石碑, n, [石碑们], "史前纪念碑").
+entry(仆役, n, [仆役们], "家庭佣工").
+entry(卑微地, 副词, [], "以奴仆般的方式").
+条目(脑膜, 名词, [髓膜], "包围大脑和脊髓的任何膜片")。
+entry(半月板, n, [半月板], "或半月状体半月板 形容词").
+entry(meno, adv, [], "较少 用作音乐指示").
+entry(教历, 名词, [教历表], "一个教会的日历").
+entry(烛台, n, [烛台], "用于犹太教礼拜的烛台").
+入口(门萨, 名词, [门萨斯], "或MENSAE牙齿的磨面")。
+入口(餐桌, 形容词, [], "与餐桌有关或用于餐桌").
+entry(人, n, [人们], "或 MENSCHEN令人钦佩的人MENSCHY adj").
+entry(mense, v, [mensed,mensing,menses], "敬重").
+entry(有礼貌, 形容词, [], "适当").
+入口(人门, n, [人门们], "或 人门神人").
+```prolog
+条目(月经, 复数名词, [], "溶剂").
+```
+entry(测量的, 形容词, [], "与测量有关").
+entry(男装, n, [男装], "男士服装").
+entry(menta, pl, [], "颏的").
+entry(精神的, 形容词, [], "关于心理MENTALLY 副词").
+entry(学员, n, [学员们], "正在被指导的人").
+入口(薄荷, n, [薄荷], "一种液态碳氢化合物")。
+入口(薄荷醇, 名词, [薄荷醇的复数], "一种醇类")。
+entry(提及, v, [提到了, 提及中, 提及], "以随意的方式提到").
+entry(mento, n, [mentos], "牙买加民间音乐的一种风格").
+词条(导师, v, [指导过,指引,指导者], "作为朋友和老师服务于").
+entry(mentum, n, [下巴], "the chin").
+entry(menu, n, [菜单], "餐厅可用菜品的列表")。
+entry(墨西哥辣味牛肚汤, n, [牛肚们], "一种用辣椒煮的牛肚汤").
+entry(meou, v, [meoued,meouing,meous], "喵喵叫")。
+entry(喵, 动词, [喵叫过,喵叫着,喵叫], "发出猫的哭声").
+entry(mephitis, n, [mephitises], "难闻的气味；MEPHITIC 形容词").
+entry(佣兵, n, [佣兵], "或 MERCES一个雇佣兵") .
+entry(市场, n, [市场们], "市场").
+entry(巯基, 形容词, [], "含有特定化学基团").
+词条(mercer, n, [布商], "纺织品经销商")。
+entry(丝绸店, 名词, [丝绸店], "丝绸商店").
+entry(商品, n, [商品们], "商品").
+entry(商人, v, [买卖了, 买卖中, 买卖], "为盈利而买卖商品").
+entry(mercies, pl, [], "仁慈").
+entry(仁慈, 形容词, [], "充满慈悲").
+entry(水银, n, [水银], "一种金属元素MERCURIC adj").
+条目(mercy, n, [mercies], "对罪犯或敌人表现的同情").
+entry(单纯的, 形容词, [], "单纯者 最单纯的仅仅").
+条目(仅仅, 名词, [仅仅的复数形式], "一个池塘或湖泊").
+entry(默伦格, n, [默伦格舞], "一种舞厅舞蹈").
+entry(合并, v, [合并, 正在合并, 合并们], "结合").
+entry(合并方, n, [合并者], "通过并购获得的一家公司")
+条目(合并, 名词, [合并], "合并的行为").
+```prolog
+entry(合并, n, [合并], "两个或多个业务合并成一个企业的联合").
+```
+entry(合并, n, [合并], "结合的行为").
+entry(香肠, n, [香肠], "一种辣味牛羊肉香肠").
+```prolog
+entry(子午線, n, [子午線們], "環繞地球並穿過兩極的圓圈").
+```
+entry(蛋白酥皮, n, [蛋白酥皮], "糕点装饰").
+entry(美利奴羊, 名词, [美利奴羊], "细羊毛")。
+entry(merisis, n, [merises], "生长").
+entry(分生组织, n, [分生组织], "形成性植物组织").
+`entry(分节的, 形容词, [], "由多个段组成").`
+entry(优点, v, [赢得, 获取中, 获得], "挣得").
+entry(merk, n, [merks], "苏格兰的一种旧硬币")。
+entry(黑鸫, n, [黑鸫们], "黑鸫").
+entry(椋鸟, n, [椋鸟], "一种黑鹂").
+entry(梅林, n, [梅林斯], "一种欧洲猎鹰").
+入口(merlon, n, [merlons], "凹墙垛的实心部分")。
+条目(梅洛, n, [梅洛酒], "一种干红葡萄酒").
+条目(美人鱼, 名词, [美人鱼们], "传说中的海洋生物").
+entry(人鱼, n, [人鱼们], "一个传说中的海洋生物").
+entry(部分關係詞, n, [部分關係詞], "用來指代某物整體的部分的術語")。
+entry(部分关系, n, [部分关系], "部分与整体之间的语义关系").
+entry(美若皮亚, n, [美若皮亚们], "局部失明，MEROPIC adj").
+条目(快乐, 形容词, [], "更快乐 最快乐 欢快地快乐地 副词").
+entry(台地, n, [台地], "具有平顶和陡峭边缘的地形").
+入口(美萨利, 副词, [], "中间地").
+entry(mesarch, 形容词, [], "起源于中湿生境")。
+条目(美斯卡勒, 名词, [美斯卡勒酒], "一种用作酒类来源的仙人掌").
+```
+entry(麦司卡林, 名词, [麦司卡林们], "麦司卡林一种致幻化合物").
+```
+entry(法国生菜, n, [法国生菜们], "幼嫩绿色香草的混合物")。
+```prolog
+entry(女士们, 复, [], "夫人的").
+```
+条目(好像, 动词, [], "过去式 MESEEMED 现在时 三单 MESEEMETH 它似乎对我来说 MESEEMS 是一个无人称动词，仅用于第三人称单数")
+```prolog
+entry(网, v, [网住,网中,网], "纠缠").
+```
+entry(meshier, 比较级, [], "网状的").
+条目(最网状, 最高级, [], "网状的").
+entry(啮合, 名词, [啮合], "配合的行为").
+入口(疯, 形容词, [], "疯狂").
+entry(meshugah, 形容词, [], "meshuga").
+entry(meshugga, 形容词, [], "meshuga").
+entry(meshugge, 形容词, [], "meshuga").
+entry(网状结构, n, [网状结构集合], "一个网络").
+入口(meshy, 形容词, [], "更网状 最网状netty")。
+entry(正中, 形容词, [], "位于中间正中地 副词").
+entry(中间, 形容词, [], "中间").
+entry(mesic, 形容词, [], "具有中等湿度供应的特征").
+条目(催眠的, 形容词, [], "与催眠有关").
+entry(mesnalty, n, [mesnalties], "封建地产的一种类型").
+entry(mesne, n, [mesnes], "从上司持有土地的封建领主").
+entry(中果皮, n, [中果皮], "果皮的中间层").
+条目(中胚层, n, [中胚层], "胚胎的中间胚胎层").
+条目(中胶层, 名词, [中胶层们], "海绵中的凝胶状物质").
+entry(中胚层, n, [中胚层], "一个胚胎段").
+条目(介子, n, [介子], "亚原子粒子介子 adj")。
+入口(中叶, 名词, [中叶组织], "叶子的柔软组织")。
+entry(沧龙目, n, [沧龙类], "一种已灭绝的水生爬行动物").
+入口(中体, 名词, [中体], "一个特化的细胞部分")。
+entry(介子, n, [介子], "一种介子")
+entry(中生动物, n, [中生动物], "任何一类蠕虫状生物的门").
+entry(牧豆树, 名词, [牧豆树们], "牧豆树").
+entry(豆科, n, [豆科树], "一种多刺的树或灌木").
+entry(弄脏, v, [弄脏了,弄脏中,弄脏们], "使变得肮脏或不整洁")。
+entry(消息, v, [已发送消息, 正在发送消息, 消息], "发送信息的口头书面或信号化通信").
+entry(messan, n, [messans], "膝上狗").
+词条(救世主, 名词, [救世主们], "预期的解放者")。
+entry(梅西耶, 比较级, [], "的 混乱").
+entry(最乱的, 最高级, [], "of messy").
+entry(先生们, 复数, [], "属于先生").
+entry(杂乱地, 副词, [], "以一种混乱的方式").
+entry(司务员, n, [司务员们], "在餐厅工作的服务人员").
+entry(饭友, 名词, [饭友们], "一个与自己定期一起吃饭的人").
+entry(住宅, n, [住宅], "带有附属建筑和土地的住宅").
+```
+entry(凌乱, 形容词, [], "更凌乱 最凌乱 脏或不整洁").
+```
+entry(混血, 名词, [混血儿们], "混血儿").
+`entry(mesteso, n, [mestesos], "或 MESTESOESmestizo")。`
+entry(梅斯蒂诺, n, [梅斯蒂诺们], "或梅斯蒂诺们mestizo").
+entry(mestiza, n, [mestizas], "女性混血儿").
+entry(混血儿, n, [混血儿们], "或 MESTIZOES 一个有混合血统的人").
+entry(遇见, 过去, [], "meet 的时态").
+条目(元, 形容词, [], "与由一个碳原子分隔在苯环中的位置有关")。
+entry(metadata, npl, [], "有关其他数据的信息集").
+条目(重量单位, 名词, [重量单位的复数形式], "一个关于重量或内容的官方测量单位")。
+entry(金属, v, [metaled, metaling, metals], "或 （METALLED, METALLING, METALS）覆盖金属的任何各种有延展性、可熔性和光泽的物质").
+entry(金属化, v, [金属化的,金属化中,金属化], "使金属化").
+entry(金属工, 名词, [金属工们], "从事金属工作的人").
+entry(金属化, v, [金属化的,金属化中,金属化], "进行金属处理").
+entry(金属化, a, [], "metal的过去式").
+entry(金属的, n, [金属的], "由金属制成或涂有金属的织物或纱线")
+entry(喷砂, a, [], "金属的现在分词").
+条目(等构物, n, [等构物], "一种化合物").
+entry(体节, n, [体节], "一个体节").
+条目(悔改, 名词, [悔改的], "一种精神上的转换").
+entry(隐喻, n, [隐喻们], "一种修辞手法").
+条目(元标记, n, [元标记], "关于网页信息的HTML标签")。
+```prolog
+entry(metate, n, [磨盘], "用于磨谷物的石头").
+```
+entry(後生動物, n, [後生動物們], "任何多細胞動物的一個主要分支METAZOAL METAZOIC adj").
+入口(后生动物, 名词, [后生动物], "一种多细胞动物").
+条目(测量, 动词, [测量过,测量中,测量], "按标准分配").
+entry(流星, n, [流星], "进入地球大气层的小型天体流星的形容词").
+entry(美特帕, n, [美特帕们], "一种化合物").
+entry(米, 动词, [测量中的,测量中,测量], "通过机械手段测量")。
+entry(计量, n, [计量], "计量的过程").
+entry(meth, n, [甲基安非他命], "一种兴奋剂药物").
+条目(美沙酮, n, [美沙酮类], "一种麻醉药").
+entry(甲醛, n, [甲醛们], "甲醛").
+入口(甲烷, n, [甲烷气体], "一种易燃气体").
+条目(甲醇, n, [甲醇], "一种有毒的酒精").
+入口(认为, 动词, [], "过去式 认为我觉得 认为是一个非人称动词，仅用于第三人称单数")。
+entry(方法, n, [方法], "一种程序的方法").
+entry(methodic, 形容词, [], "系统的").
+entry(甲氧基, 形容词, [], "包含某种化学基团")
+条目(甲氧基, 形容词, [], "methoxy").
+entry(甲基, 名词, [甲基], "一种一价的自由基是甲基的形容词").
+入口(甲缩醛, n, [甲缩醛], "一种易燃液体")。
+entry(美蒂卡尔, n, [美蒂卡尔], "或 METICAIS 是莫桑比克的货币单位")。
+entry(职业, n, [职业], "一种职业").
+条目(测量, 现在时, [], "mete 的分词形式").
+entry(梅蒂斯, 名词, [梅蒂斯], "混血族裔的人").
+entry(混血儿, n, [混血儿们], "女性混血儿").
+条目(美透, 名词, [美透], "一种用作摄影显影剂的粉末").
+条目(转喻, 名词, [转喻词], "在转喻中使用的词").
+entry(转喻, n, [转喻], "一种修辞格").
+入口(中楣, n, [中楣们], "或 METOPAE，两根滴水之间的空间")。
+entry(前额, 形容词, [], "与额头有关").
+条目(美托朋, 名, [美托朋们], "一种麻醉药物").
+entry(戊四氮, n, [戊四氮], "一种用作兴奋剂的粉末").
+entry(米, 动词, [测量过,测量中,测量], "测量").
+entry(度量标准, n, [度量标准], "测量的标准").
+入口(音律的, 形容词, [], "与安排和衡量的节奏系统相关或由其组成")。
+条目(韵化, 动词, [韵化过, 韵化中, 韵化], "以格律形式创作")。
+entry(米林, 现在, [], "metre 的分词").
+entry(度量者, n, [度量者], "负责作诗的人").
+entry(子宫炎, n, [子宫炎症], "子宫的炎症").
+入口(地铁, n, [地铁站], "一个地铁").
+条目(勇气, 名词, [勇气的复数形式], "性格的特质勇敢的 形容词").
+entry(metump, n, [metumps], "背带").
+条目(牛油煎, 形容词, [], "在褐色黄油中烹调").
+条目(喵, v, [喵叫, 喵叫着, 喵叫声], "限制").
+entry(呜咽, 动词, [呜咽了,呜咽着,呜咽], "低声抽泣").
+入口(喵喵者, n, [喵喵者们], "一个喵喵的人").
+入口(mews, n, [mewses], "两旁有房屋的街道，原本是马厩")。
+entry(梅斯卡尔, n, [梅斯卡尔酒], "墨西哥龙舌兰酒").
+`条目(meze, n, [mezes], "希腊或中东开胃菜").`
+entry(狼毒, n, [狼毒], "一种开花的灌木").
+entry(大戟科植物, n, [大戟科植物复数], "欧洲山柳菊").
+entry(mezquit, n, [mezquits], "豆科灌木").
+条目(mezquite, n, [mezquites], "mesquite").
+entry(mezuza, n, [mezuzas], "门柱卷").
+```prolog
+条目(门柱, n, [门柱卷], "或 门柱经 或 门柱经卷犹太卷轴").
+```
+entry(mezzo, n, [mezzos], "具有丰满深邃音质的女性声线")
+entry(摩, 名词, [摩], "一种电导率单位").
+入口(米, 名词, [米斯], "音阶中的第三音调")。
+entry(miaou, v, [miaoued,miaouing,miaous], "喵喵叫").
+入口(喵, v, [喵了,喵着,喵], "叫").
+entry(瘴气, n, [瘴气], "瘴气")。
+```prolog
+entry(瘴气, n, [瘴气们], "或 MIASMATA 一种有害的蒸汽 MIASMAL MIASMIC 形容词").
+```
+条目(喵, v, [喵叫过, 喵叫着, 喵叫], "叫出喵声").
+条目(mib, n, [mibs], "一种弹珠的类型")。
+entry(麦克风, n, [麦克风们], "一个麦克风") .
+条目(云母, n, [云母], "一种矿物").
+entry(米考伯, n, [米考伯们], "一个在逆境中保持希望的人").
+entry(老鼠, 复数, [], "的 老鼠").
+entry(分子团, 名词, [分子团], "胶束").
+输入(胶束, 名词, [胶束], "微胞")。
+entry(胶束, n, [胶束], "纤维中的一种连贯的线状或结构MICELLAR 形").
+entry(miche, v, [miched, miching, miches], "潜行").
+```prolog
+entry(米奇, n, [米奇的], "下了药的饮料").
+```
+```Prolog
+入口(米克, 形容词, [], "最米克大").
+```
+entry(米克尔, n, [米克尔斯], "大量").
+entry(micky, n, [mickies], "米奇")。
+entry(米拉, a, [], "微米的复数").
+entry(缩小化, v, [缩小化了, 缩小化中, 缩小化], "使变小").
+入口(微型, 名词, [微型计算机], "一种非常小的计算机").
+entry(微巴, n, [微巴], "一种大气压力单位").
+entry(微生物, n, [微生物], "一种极小的生命形式MICROBIC 形容词").
+entry(微型巴士, n, [微型巴士], "或 MICROBUSSESa 小型巴士").
+条目(微型股, 形容词, [], "属于或与保留收益非常少的公司有关").
+条目(微型车, n, [微型车], "一种非常小的车").
+entry(微缩胶卷, n, [微缩胶卷], "缩小到一个点大小的印刷品的复印件")。
+entry(microhm, n, [微欧姆], "电阻单位").
+entry(微光, n, [微光们], "或 微光a 照明单位")。
+entry(micromho, n, [micromhos], "电导单位")。
+条目(微米, n, [微米], "或 MICRAa 长度单位")。
+```prolog
+entry(显微手术, n, [显微手术], "利用高倍放大镜下的微小工具").
+```
+entry(中间, n, [中间], "中部").
+entry(半空中, n, [半空中], "一个位于空中间的区域").
+条目(中脑, n, [中脑], "大脑的中间区域")。
+entry(中型股, 形容词, [], "属于或关于保留收益介于小公司和大公司之间的公司").
+entry(midcult, n, [中产文化], "中产阶级文化").
+入口(正午, n, [正午们], "一天的中间")。
+入口(粪堆, n, [粪堆], "一个垃圾堆")。
+```prolog
+entry(中间服, 复数, [], "传介于middy").
+```
+入口(中间, v, [位于中间, 在中间, 中间], "将某物置于极限或边界的中点或中间区域").
+条目(中级生, 名词, [中级生们], "中间级别的学生").
+entry(中等, n, [中等的], "一种猪肉切块").
+entry(中段, n, [海军服], "宽松的衬衫").
+```prolog
+entry(中场, n, [中场], "球场的中部区域").
+```
+entry(蠓虫, n, [蠓虫], "一种小型有翅昆虫")
+词条(侏儒, 名词, [侏儒], "一个非常小的人").
+entry(中腸, n, [中腸], "胚胎消化道的中间部分")
+entry(midi, n, [中长裙], "到小腿中部的裙子或外套").
+入口(中鐵桿, 名詞, [中鐵桿], "一種高爾夫球桿")。
+entry(中部, n, [中部地区], "一个国家的中部地区")
+entry(腿中部, n, [腿中部], "腿的中间").
+entry(中年, 名词, [中年], "中年").
+`entry(midlifer, n, [中年人], "中年人").`
+```prolog
+entry(中线, n, [中线], "一条中位线").
+```
+入口(中列表, n, [中列表s], "出版商当前书目列表的一部分").
+`条目(中月, n, [中月们], "一个月的中间").`
+entry(midmost, n, [midmosts], "中间的一个部分")。
+entry(午夜, 名词, [午夜们], "夜的中间")。
+entry(正午, n, [正午], "中午").
+条目(中点, n, [中点], "中间的一个点").
+`entry(中间范围, n, [中间范围们], "一个范围的中间部分").`
+entry(midrash, n, [midrashim], "或 MIDRASHOTH 或 MIDRASHOT 是早期犹太对圣经文本的解释").
+entry(中央脉, 名词, [中央脉], "叶子的中央叶脉")
+entry(上腹部, n, [上腹部], "身体的中间部分").
+entry(中船, 形容词, [], "关于船的中部").
+entry(中舱, 副词, [], "朝向船的中部").
+entry(midshore, 形容词, [], "指介于近海和远海之间的渔场").
+entry(中等, 形容词, [], "中等大小").
+入口(中型, 形容词, [], "中型").
+entry(鞋底中层, n, [鞋底中层], "鞋子鞋底的中间层")
+条目(中间, n, [中间], "空间的中间").
+entry(中间, n, [中间], "中间").
+条目(中篇, n, [中篇故事], "故事的中段")。
+```prolog
+entry(期中考试, n, [期中考试们], "在学期中期进行的考试").
+```
+entry(曼哈頓, n, [曼哈頓的], "城市的中心區域")。
+entry(午夜值班, n, [午夜值班], "午夜至凌晨4点的船上值班").
+入口（中水，n，[中水域]，“水体中垂直的中间部分”）。
+条目(半途, 名词, [半途], "一个在集市或嘉年华上提供特许经营和娱乐的街道")。
+入口(周中, 名词, [周中], "一周的中间").
+entry(助产士, v, [助产士了,助产士中,助产士们], "或 助产了 助产中 助产士协助妇女生产").
+条目(年中, n, [年中], "一年的中间").
+mien条目(n, [miens], "风度")。
+entry(miff, v, [miffed,miffing,miffs], "惹恼").
+条目(miffy, 形容词, [], "更易恼怒的 最易恼怒的")。
+entry(米格, n, [米格斯], "一种弹珠游戏中的弹珠").
+entry(migawd, 感叹词, [], "用于表达惊讶").
+条目(migg, n, [miggs], "mig").
+entry(miggle, n, [miggles], "一种mig")。
+entry(可能, n, [可能们], "力量").
+条目(强大, 形容词, [], "更强 更强的强有力强有力地 副词").
+entry(米尼翁, n, [米尼翁们], "一块牛肉").
+条目(娇小, 形容词, [], "娇小玲珑").
+```prolog
+entry(偏头痛, n, [偏头痛], "严重的头痛").
+```
+条目(移民, 名词, [移民们], "迁移的人").
+迁移(动, [迁移过, 迁移中, 迁移], "从一个地区移动到另一个地区").
+entry(迁徙者, n, [迁徙者们], "一个移民")。
+entry(祈祷凹室, n, [祈祷凹室], "清真寺中的壁龛").
+entry(先生, n, [先生们], "mynheer").
+entry(御帝, n, [御帝们], "日本的皇帝").
+entry(麦克, 动词, [麦克过, 麦克着, 麦克们], "通过使用麦克风来放大或录音").
+entry(mikron, n, [微米], "或 MIKRAmicron").
+入口(mikva, n, [mikvas], "mikvah").
+entry(米克维, 名词, [mikvahs], "或 MIKVOTH 或 MIKVOT 或 MIKVOS 供正统犹太人进行仪式沐浴的地方")。
+entry(沟浴池, n, [mikvehs], "mikvah").
+entry(密尔, 名词, [密尔], "一种长度单位").
+entry(女士, n, [女士们], "女士").
+entry(贵妇, n, [贵妇们], "一位英国贵妇").
+entry(里程, n, [里程数], "里程").
+entry(牛奶, 形容词, [], "产乳").
+entry(奶质的, 形容词, [], "由牛奶制成或来源于牛奶").
+entry(温和, v, [温和了, 温和着, 温和的], "减少").
+条目(温和, 形容词, [], "较温和 最温和不严厉或粗糙温和的 形容词").
+`entry(milden, v, [mildened,mildening,mildens], "使温和或变得温和").`
+`entry(霉, 动词, [长霉, 发霉, 变霉], "受霉影响，一种由真菌产生的白色生长物").`
+entry(发霉的, 形容词, [], "受霉菌侵袭或类似于霉菌的").
+entry(温和地, 副词, [], "以温和的方式").
+entry(温和, n, [温和性], "温和的性质").
+-entry(英里, n, [英里], "距离单位").
+entry(里程, n, [里程数], "以英里为单位表示的总距离").
+```
+入口(里程碑, n, [里程碑], "一个指示以英里为单位的距离的标志")。
+```
+条目(跑一英里者, 名词, [跑一英里者们], "跑一英里比赛的人").
+entry('米利西亚人', 形容词, [], "与爱尔兰土著人有关").
+entry(千分之一, n, [千分之几], "智利的一个旧货币单位").
+entry(千屈菜, n, [千屈菜], "一种多年生草本植物").
+entry(粟粒疹, 复数, [], "粟的").
+entry(痱子, n, [痱子病], "一种皮肤病").
+条目(军用的, 形容词, [], "由许多小突起组成").
+条目(环境, n, [环境], "或 环境环境").
+entry(米林, n, [米林斯], "一英里赛跑的活动").
+入口(好战分子, n, [好战分子], "激进地参与某个事业的人").
+述词(军事, 名词, [军队], "武装力量")。
+entry(影响, 动词, [有影响, 产生影响, 影响], "产生或起影响").
+entry(民兵, n, [民兵], "平民军队").
+条目(粟粒疹, 名词, [粟粒疹], "皮肤上的小白色肿块").
+entry(牛奶, v, [挤奶,挤奶中,挤奶们], "从乳房中抽取牛奶一种白色营养液").
+牧牛工条目(n, [牧牛工们], "一个挤奶的人").
+入口(虱目鱼, 名词, [虱目鱼], "一种海洋食用鱼")。
+entry("较奶的", 比较级, [], "的奶状").
+entry(最乳白的, 最高级, [], "乳白的").
+entry(牛奶般地, 副词, [], "以奶状的方式").
+entry(无奶, 形容词, [], "缺少牛奶").
+entry(挤奶女工, n, [挤奶女工们], "挤牛奶的女子").
+条目(送奶工, 名词, [送奶工人], "一个售卖或送奶的男人")。
+条目(牛奶产区, n, [牛奶产区], "供应特定社区牛奶的区域").
+条目(懦夫, n, [懦夫们], "一个娘娘腔的男人").
+条目(马利筋, n, [马利筋], "一种会分泌乳汁的植物")。
+entry(米尔克伍德, 名词, [米尔克伍德树], "一种热带树").
+entry(白石南, n, [白石南], "一种开花植物")。
+条目(奶状的, 形容词, [], "更奶状的 最奶状的 类似或暗示牛奶").
+入口(磨坊, v, [磨过,磨,磨坊], "通过机械方式研磨MILLABLE adj")。
+入口(里程, 名词, [里程率], "一种货币利率").
+条目(磨籽饼, 名词, [磨籽饼们], "压榨亚麻籽后的残渣").
+entry(水坝, n, [水坝], "建造以形成磨坊池的堤坝")。
+条目(千, n, [数千], "一千").
+entry(千足虫, 名词, [千足虫们], "千足虫")。.
+entry(米勒, 名词, [米勒们], "磨坊工人").
+入口(小米, 名词, [小米], "一种谷类草本植物")。
+entry(毫安, n, [毫安], "安培的千分之一").
+```prolog
+entry(十亿, n, [十亿], "一百亿").
+```
+条目(平方公里, n, [平方公里], "一个面积单位").
+entry(米里亚里, 名词, [米里亚里斯], "古罗马的一个里程碑")
+entry(毫巴, n, [毫巴], "大气压力的单位").
+条目(密利埃姆, n, [密利埃姆斯], "埃及和苏丹的货币单位")。
+入口(千克, n, [千克], "一种重量单位")。
+条目(毫伽, 名词, [毫伽], "加速度单位").
+entry(毫勒克斯, n, [毫勒克斯们], "或 毫勒克斯 照度单位")。
+entry(毫米, n, [毫米], "突尼斯的硬币").
+entry('毫西门子', n, ['毫西门子'], "电导的单位").
+entry(密林, 名词, [密林们], "一种广告空间单位").
+entry(女帽商, n, [女帽商们], "制作或销售女帽的人").
+入口(铣削, n, [铣削], "硬币的锯齿边缘").
+entry(毫欧, n, [毫欧], "电阻单位").
+条目(百万, n, [百万], "一个数字")。
+entry(千足虫, n, [千足虫们], "一种多足的节肢动物").
+条目(millirem, n, [millirems], "一种电离辐射量").
+条目(碾磨池塘, 名词, [碾磨池塘们], "用来供给水以推动磨轮的一种水车类型的池塘")。
+条目(水车槽, 名词, [水车槽], "驱动水车轮的水流").
+入口(磨坊水道, n, [磨坊水道], "一个磨坊水道")。
+词条(木工制品, 名词, [木工制品], "通过铣削生产的木制品").
+`entry(milneb, n, [milnebs], "一种杀菌剂").`
+entry(milo, n, [milos], "一种谷类草本植物").
+entry(大人, n, [大人们], "英国绅士").
+条目(植园, n, [植园地], "从丛林中清理出来用于农业的土地").
+entry(米尔雷斯, n, [米尔雷斯], "葡萄牙曾用的货币单位").
+入口(米尔特, 动词, [米尔特了, 米尔特中, 米尔特们], "用鱼精子来受精").
+入口(milter, n, [milters], "繁殖期的雄鱼")。
+entry(milty, 形容词, [], "充满鱼白").
+条目(mim, 形容词, [], "端庄拘谨")。
+entry(敏拜儿, 名词, [敏拜儿们], "minbar").
+入口(模仿, v, [模仿过,模仿着,模仿], "模仿").
+entry(mimeo, v, [mimeoed, mimeoing, mimeos], "通过油印机制作副本").
+entry(mimer, n, [mimers], "模仿者").
+入口(拟态, n, [拟态们], "或 MIMESES仿真MIMETIC 形容词")。
+entry(砷铅矿, n, [砷铅矿], "一种铅矿石").
+条目(模仿, 动词, [模仿了, 正在模仿, 模仿], "紧密模仿").
+entry(拟态, 形容词, [], "具有模仿特性的").
+entry(模仿者, n, [模仿者们], "模仿的人").
+entry(模仿, 现在, [], "mimic 的分词").
+entry(拟态, n, [拟态], "模仿的实例")。
+entry(miming, 现在时, [], "mime的分词").
+入口(含羞草, n, [含羞草], "一种热带植物")。
+条目(猴面花, 名词, [猴面花], "一种开花植物")。
+入口(米纳, n, [米纳斯], "或米纳一个古老的重量和价值单位")。
+entry(可开采的, 形容词, [], "能够被开采").
+entry(威胁, n, [威胁状态], "处于威胁的状态").
+entry(米娜埃, a, [], "米娜的复数").
+entry(宣礼塔, n, [宣礼塔], "清真寺附属的纤细塔楼")
+条目(威胁, 形容词, [], "威胁").
+entry(minbar, n, [minbars], "穆斯林讲坛").
+条目(剁碎, 动词, [剁碎了,正在剁碎,剁碎], "切成非常小的块").
+条目(切肉机, n, [切肉机们], "切碎的工具").
+entry(mincy, adj, [], "受到影响的小巧玲珑者").
+entry(心神, 动词, [注意, 注意中, 注意们], "注意")。
+条目(带着特定思维方式, 副词, [], "以具有特定思维方式的人的方式").
+entry(看护者, n, [看护者们], "一个照料或注意他人（或物品）的的人").
+entry(正念, 形容词, [], "注意").
+条目(无知, 形容词, [], "缺乏智慧").
+entry(心态, n, [心态们], "一种固定的心理态度")。
+条目(我的, 动词, [开采, 采矿, 矿井], "挖掘有价值的材料")。
+条目(可开采的, 形容词, [], "可开采的").
+entry(矿工, n, [矿工们], "开采者").
+条目(矿物, 名词, [矿物质], "一种天然存在的无机物质，具有一组特有的物理性质")。
+entry(更吝啬, 比较级, [], "吝啬的").
+entry(最小气的, 最高级, [], "吝啬的").
+条目(混合, 动词, [混合了,混合中,混合], "一起混合").
+条目(混合者, n, [混合者们], "一个混合的人").
+entry(mingy, 形容词, [], "MINGIER MINGIEST 吝啬和小气 MINGILY 副词").
+entry(迷你, 名词, [迷你], "某物显著比同类的其他东西小").
+entry(迷你吧, n, [迷你吧], "一个装有饮料的小冰箱").
+条目(迷你摩托车, n, [迷你摩托车们], "一种小型摩托车").
+```prolog
+entry(小型巴士, n, [小型巴士们], "或小型巴士一个小巴士").
+```
+entry(minicab, n, [小出租车], "一种小型出租车").
+entry(minicam, n, [微型摄像机], "小型便携式电视摄像机").
+`入口(迷你营, n, [迷你营], "一个为足球运动员准备的短期训练营").`
+entry(小型车, n, [小型车], "一种小型汽车").
+条目(迷你光盘, n, [迷你光盘], "一种小型光盘").
+entry(使...缩小, v, [使...缩小的, 使...缩小着, 使...缩小], "变小或缩小").
+入口(迷你高尔夫, n, [迷你高尔夫球场], "类似于高尔夫球的游戏，在一个小型障碍球场上进行").
+entry(微型生物, n, [微型生物们], "一个小巧或优雅的生物").
+entry(迷你实验室, n, [迷你实验室], "一个提供快速现场胶卷冲印服务的零售店").
+entry(最小值, n, [最小值们], "一种液体测量单位").
+入口(最小值, a, [], "minimum的复数").
+entry(极小值, n, [极小值们], "在数学集合中位于其他所有元素之前的元素")。
+入口(minimax, n, [極大值集], "一組最大值中的最小值")。
+条目(微型钢厂, n, [微型钢厂], "一个小型钢厂").
+entry(最小化, 动词, [最小化了, 正在最小化, 最小化], "使最小化").
+入口(最小化, v, [最小化的, 正在最小化, 使最小化], "使尽可能小").
+entry(最低, n, [最小值], "或 最小化最小可能的量、数量或程度")。
+entry(采矿, n, [采矿业], "在地球上的矿藏开采的过程或业务")
+entry(爪牙, 名词, [爪牙们], "一个奴性的追随者")。
+`入口(小公园, n, [小公园], "一个小型城市公园").`
+数据库(迷你避孕药, n, [迷你避孕药], "一种不含雌激素的避孕药").
+entry(米尼什, v, [米尼什了, 米尼什中, 米尼什们], "减少").
+entry(miniski, n, [迷你滑雪板], "短滑雪板").
+entry(部长, v, [服务,服务中,服务], "提供帮助或服务")。
+出自(Prolog): entry(ministry, n, [ministries], "the act of ministering").
+entry(朱砂, n, [朱砂], "一种红色颜料").
+条目(小型货车, n, [小型货车们], "一种小型货车").
+条目(敏狐皮, n, [白色皮毛], "一种白色毛皮").
+入口(貂, 名词, [貂], "一种食肉哺乳动物")。
+入口(小须鲸, n, [小须鲸们], "一种小鲸鱼")。
+entry(美蕉橘, n, [美蕉橘], "一种红色的橙柚").
+条目(小鱼, n, [小鱼], "一种小鱼").
+entry(minny, n, [迷尼魚], "米诺").
+```prolog
+entry(辅修, v, [辅修了,正在辅修,辅修], "进行特定的从属课程学习").
+```
+入口(马略卡, n, [马略卡], "一种大型家禽品种").
+entry(少数, n, [少数群体], "较小的数量或部分").
+入口(大教堂, 名词, [大教堂们], "一个大型或重要的教堂")。
+`entry(吟游诗人, n, [吟游诗人们], "中世纪的音乐家").`
+条目(铸币, 动词, [铸造, 硬币的铸造, 铸币], "通过压印金属生产为硬币").
+entry(铸币, n, [铸币数], "铸造行为").
+Entry(铸币者, n, [铸币者们], "一个铸造的人").
+```prolog
+条目(minty, 形容词, [], "MINTIER MINTIEST具有薄荷味的一种芳香草本植物").
+```
+入口(被减数, n, [被减数们], "一个要被减去另一个的数").
+entry(小步舞曲, v, [小步舞过, 小步舞着, 小步舞曲], "跳小步舞曲，一种缓慢庄重的舞蹈")。
+entry(减, n, [减号], "负量").
+入口(分钟, 形容词, [], "最小的非常小分钟地 副词").
+entry(分钟, v, [记录了, 记录中, 记录], "做个简短的记录").
+entry(细节, n, [细节], "一个小细节细节的形容词").
+entry(minx, n, [小淘气], "一个淘气的女孩MINXISH 形容词").
+entry(迈纳安, n, [迈纳安], "或迈纳尼姆进行犹太服务所需的最少人数").
+entry(瞳孔缩小, 名词, [瞳孔缩小], "眼睛瞳孔的过度收缩")
+```prolog
+entry(缩瞳剂, n, [缩瞳剂], "引起瞳孔缩小的药剂").
+```
+条目(miquelet, n, [miquelets], "前西班牙或法国士兵")。
+`entry(mir, n, [mirs], "或MIRIA俄罗斯农民公社")。`
+条目(奇迹, 名词, [奇迹], "被视为超自然或神圣起源的事件")。
+入口(瞭望台, n, [瞭望台], "一个旨在提供广阔视野的建筑特征")。
+入口(幻影, n, [幻影], "一种光学幻觉").
+入口(泥淖, v, [困住, 陷入, 陷于], "使陷于泥泞的地面中").
+条目(米宝, 名词, [米宝], "一种炒制的切丁蔬菜混合物")。
+词条(米乐士, n, [米乐士们], "一种杀虫剂").
+entry(米里, a, [], "mir 的复数").
+条目(椿象, n, [椿象], "一种叶蝉虫子").
+entry(mirier, 比较级, [], "泥泞的").
+entry(米里埃斯特, 最高级, [], "泥泞的").
+entry(味醂, n, [味醂们], "一种甜的日本料理酒").
+entry(泥泞, n, [泥泞状态], "处于泥泞状态").
+entry(陷入, 现在, [], "陷入的分词").
+```prolog
+entry(mirk, adj, [], "MIRKER MIRKESTmurk").
+```
+条目(米尔克, 名词, [米尔克斯], "阴暗")。
+条目(阴暗, 形容词, [], "更阴暗的 最阴暗的阴暗地adv")。
+入口(佛手瓜, 名词, [佛手瓜们], "一种佛手瓜")。
+条目(镜子, 动词, [镜像, 镜像中, 镜像们], "反射图像")。
+词条(欢笑, 名词, [欢笑的复数], "有精神的快乐MIRTHFUL 形容词")。
+条目(沼泽地, 形容词, [], "更沼泽的 最沼泽的沼泽").
+entry(米尔扎, n, [米尔扎们], "一种波斯的荣誉称号").
+entry(行为不当, v, [行为不当过,行为不当中,行为不当], "行为不当").
+entry(适应不当, 动词, [适应不当的, 适应不当中, 适应不当], "错误地适应").
+entry(错误添加, v, [错误添加了,错误添加着,错误添加], "错误地添加").
+entry(misagent, n, [misagents], "一个糟糕的代理人").
+入(entry, misaim, v, [misaimed, misaiming, misaims], "瞄准不当")。
+条目(未对齐, v, [未对齐的,未对齐中,未对齐], "错误地对齐")。
+```prolog
+entry(错误分配, v, [错误分配了,错误分配中,错误分配], "错误地分配").
+```
+entry(misally, v, [misallied,misallying,misallies], "结盟不好").
+```prolog
+entry(misalter, v, [misaltered,misaltering,misalters], "错误地改变").
+```
+条目(厌男症, 名词, [厌男症], "对男性的仇恨").
+entry(误用, v, [误用过, 误用中, 误用], "错误地应用").
+entry(misassay, v, [misassayed,misassaying,misassays], "尝试未成功").
+条目(误食, 过去时, [], "miseat 的时态")。
+entry(misatone, v, [misatoned,misatoning,misatones], "错误地赎罪").
+入口(misaver, 动词, [misaverred, misaverring, misavers], "错误地说话")。
+entry(misaward, v, [错误授予, 错误授予中, 错误授予们], "错误地授予").
+词条(错误开始, 动词, [错误开始了, 错误开始过, 正在错误开始], "MISBEGIN表示错误地开始")。
+条目(私生, 形容词, [], "婚外出生").
+entry(misbias, v, [misbiased,misbiasing,misbiases], "或 MISBIASSED MISBIASSING MISBIASSED 错误地偏向").
+entry(misbill, v, [misbilled, misbilling, misbills], "错误收费").
+entry(错误绑定, 动词, [错误绑定了, 错误绑定中, 错误绑定], "不完美地绑定").
+条目(误标, 动词, [误标的,误标中,误标], "错误地进行品牌化").
+entry(misbuild, v, [misbuilt,misbuilding,misbuilds], "不完美地建造").
+entry(误称, 动词, [误称, 误称, 误称], "用错误的名字称呼").
+entry(小产, v, [小产了,小产中,小产], "不成功").
+entry(miscast, v, [误选演员, 错投角色, 误选], "分派不合适的角色").
+entry(恶作剧, n, [恶作剧们], "引起烦恼伤害或麻烦的行为")
+entry(mischose, 过去式, [], "mischoose 的时态，意为选择不当").
+entry(混溶, 形容词, [], "能够混合").
+entry(miscite, v, [miscited,misciting,miscites], "错误引用").
+entry(错误声明, v, [错误声明过,错误声明中,错误声明], "错误地声明").
+entry(错误分类, v, [错误分类了,错误分类中,错误分类], "放入错误的类别").
+entry(误码, v, [误码,误码中,误码], "错误编码").
+entry(miscoin, v, [miscoined,miscoining,miscoins], "错误地铸造").
+词条(误染, v, [误染了,误染中,误染], "上色不正确").
+条目(错误烹饪, 动词, [错误烹饪了, 错误烹饪着, 错误烹饪], "做得很糟糕地烹饪")。
+entry(错误复制, 动词, [错误复制了, 错误复制中, 错误复制], "错误地复制").
+条目(误算, 动词, [误算了,误算中,误算], "计数错误").
+entry(误击, v, [], "误击 误击中或错误击中 在台球中击球错误")
+entry(切错, v, [切错,正在切错,切错们], "切的不正确")。
+entry(misdate, v, [misdated,misdating,misdates], "错误日期").
+entry(洗牌错误, v, [洗牌错误过, 洗牌错误中, 洗牌错误们], "错误地发牌").
+入口(惡行, 名词, [惡行], "邪恶的行为")。
+```prolog
+entry(误判, v, [误判了,误判着,误判], "判断不利").
+```
+entry(拨错, 动词, [拨错了,拨错中,拨错], "或 拨错了 拨错中 拨错拨打错误").
+entry(误做, v, [误做过去式, 误做完成式, 正在误做], "误作是错误地做").
+entry(做错事者, n, [做错事者们], "一个做错事的人").
+`entry(错误行为, n, [错误行为], "做错事的一个例子").`
+entry(误做, 过去, [], "misdo的分词形式").
+```prolog
+entry(怀疑, 动词, [怀疑过,怀疑中,怀疑], "怀疑").
+```
+```prolog
+entry(错误画, v, [错误画,错误画了,正在错误画], "错误画是指画错了").
+```
+条目(错误驾驶, v, [错误驾驶过,错误驾驶过了,错误驾驶中], "错误驾驶是指不正确或不当的驾驶")。
+条目(mise, 名词, [mises], "协议或和解").
+entry(misease, n, [miseases], "不适").
+entry(miseat, v, [misate,miseaten,miseating], "MISEAT不当进食")。
+entry(misedit, v, [misedited,misediting,misedits], "错误地编辑").
+entry(misenrol, v, [misenrolled, misenrolling, misenrols], "错误报名").
+entry(误输, v, [误输入,误输入中,误输入], "错误地输入").
+条目(错误条目, n, [错误条目], "一个错误的条目")。
+条目(守财奴, n, [守财奴们], "贪婪地囤积钱财的人").
+入口(怜悯, 名词, [怜悯们], "教堂座位的一部分").
+entry(吝啬的, 形容词, [], "守财奴的特征").
+条目(悲惨, n, [悲惨的事], "极大的痛苦状态").
+entry(事故, n, [事故事件], "意外").
+entry(misfaith, n, [misfaiths], "缺乏信仰不相信").
+entry(喂错, v, [喂错了, 喂错中, 喂错们], "错误地喂养")。
+entry(misfield, v, [misfielded, misfielding, misfields], "糟糕地接球").
+entry(错误归档, v, [错误归档,错误归档中,错误归档s], "错误地归档").
+entry(哑火, v, [哑火了,哑火中,哑火], "未能发射").
+入口(不合群者, v, [不合,不合中,不合], "不合适地适合")。
+entry(misfocus, v, [错误聚焦, 错误聚焦中, 错误聚焦], "或 错误地聚焦").
+输入(误构, v, [误构,误构中,误构们], "变形").
+entry(misframe, v, [误构架,误构架中,误构架们], "错构架").
+entry(错误估计, v, [错误估计了,错误估计中,错误估计], "错误地或不准确地估计").
+条目(不安, 动词, [不安了, 不安了, 不安中], "使怀疑或害怕").
+条目(错误评分, v, [错误评分了,正在错误评分,错误评分], "评分不正确").
+entry(misgraft, v, [misgrafted,misgrafting,misgrafts], "错误嫁接").
+エントリ(异常生长, 动词, [异常生长时, 异常生长过, 异常生长中], "MISGROWsto生长异常").
+条目(错误猜测, 动词, [错误猜测过, 错误猜测中, 错误猜测们], "错误地猜测").
+条目(误导, 动词, [误导的, 误导着, 误导们], "错误地引导")。
+条目(事故, 名词, [事故集], "一个不幸的事故").
+entry(误听, v, [误听了,误听中,误听], "听错了").
+entry(mishit, v, [mishit,mishitting,mishits], "击打不准").
+入口(混杂, n, [混杂们], "一个混乱的混合物").
+entry(mishmosh, n, [mishmoshes], "大杂烩").
+条目(疯狂行为, n, [mishugases], "疯狂或愚蠢的行为")。
+entry(误推, v, [误推断,误推中,误推断], "错误推断").
+entry(错误埋葬, 动词, [错误埋葬了,错误埋葬中,错误埋葬], "不恰当地埋葬").
+entry(不当连接, v, [误接,误接中,误接], "不当地连接")。
+条目(错误判断, v, [错误判断过,错误判断中,错误判断们], "判断错误").
+entry(miskal, n, [miskals], "东方的重量单位").
+entry(miskeep, v, [miskept,miskeeping,miskeeps], "错误地保持").
+entry(miskey, v, [miskeyed,miskeying,miskeys], "错误输入键").
+entry(miskick, v, [miskicked, miskicking, miskicks], "踢得很糟").
+entry(误解, v, [误解过,误解过的,误解中], "误解是未能理解或识别").
+```prolog
+entry(错误标记, v, [错误标记的,错误标记中,错误标记们], "或错误标记错误标记中错误标记为错误或虚假的标签").
+```
+条目(劳务不当, v, [劳务不当过, 劳务不当中, 劳务不当单], "做工很差").
+entry(误放, 过去, [], "误放的分词").
+entry(遗失, v, [遗失了, 遗失着, 遗失们], "放在一个被遗忘的地方")。
+entry(错放者, n, [错放者们], "错误放置的人或物").
+entry(误导, v, [误导了, 误导中, 误导], "引入歧途").
+条目(学错, 动词, [学错了, 学错着, 学错], "错误地学习").
+词条(误放, 动词, [误放,误放置,误放置中], "误放在错误的位置")。
+entry(误导光线, v, [误导光线过去式,误导光线进行时,误导光线复数], "通过其光线使迷路")。
+入口(不喜, 动词, [已不喜, 正不喜, 不喜], "不喜欢").
+```prolog
+entry(厌恶者, n, [厌恶者们], "一个不喜欢的人").
+```
+entry(错误点燃, a, [], "错误点燃的过去式").
+entry(误生, 动词, [误生过, 正误生, 误生着], "过不好的人生").
+entry(错误放置, v, [错误放置了,错误放置中,错误放置], "放置在错误的地方").
+entry(mislying, 现在时, [], "mislie的分词").
+entry(错误制造, 动词, [错误制造了, 错误制造中, 错误制造], "错误地制造").
+条目(错误标记, 动词, [错误标记, 正在错误标记, 错误标记们], "错误地标记").
+entry(不匹配, v, [不匹配的, 不匹配中, 不匹配们], "匹配得不好").
+条目(不适配, 动词, [不适配的, 不适配中, 不适配们], "不当交配")。
+entry(不幸相遇, v, [不幸相遇了, 不幸相遇中, 不幸相遇], "在不幸的情况下见面")。
+entry(错误移动, v, [错误移动了, 错误移动中, 错误移动], "错误地移动").
+```prolog
+entry(誤稱, v, [誤稱,誤稱中,誤稱們], "以錯誤的名字稱呼").
+```
+条目(误称, 名词, [误称], "错误使用的名称").
+entry(味噌, 名词, [味噌酱], "一种食品酱").
+entry(厌婚, n, [厌婚], "对婚姻的厌恶").
+条目(厌女症, 名词, [厌女症], "对女性的憎恨").
+条目(厌恶辩论，n， [厌恶辩论们], "对辩论或推理的厌恶")。
+entry(语序错误, 动词, [语序错误的, 语序错误中, 语序错误], "错误的顺序下订单").
+条目(页面错误, v, [页面错误了, 页面错误中, 页面错误], "错误地分页").
+entry(mispaint, v, [mispainted,mispainting,mispaints], "错误地涂漆").
+entry(错误解析, v, [错误解析过,错误解析中,错误解析], "解析错误").
+条目(误分, 动词, [误分了,误分中,误分], "错误地分开").
+entry(错误修补, v, [错误修补了,错误修补中,错误修补], "修补得很糟糕").
+entry(mispen, v, [mispenned,mispenning,mispens], "写错").
+entry(错放, v, [错放了,错放中,错放], "放错地方").
+入口(错误计划, 动词, [错误计划过, 正在错误计划, 错误计划], "错误地计划").
+entry(错误种植, v, [错误种植了,错误种植中,错误种植], "错误地种植").
+条目(错误操作, 动词, [错误操作, 正在错误操作, 错误操作], "在游戏中进行不良操作")。
+entry(误辩, v, [误辩过,误辩中,误辩], "错误或虚假的辩护").
+entry(错误指向, 动词, [错误指向过,错误指向中,错误指向], "指向不正确").
+entry(mispoise, v, [mispoised,mispoising,mispoises], "不正确地平衡").
+entry(误价, 动词, [误定价格,误定价格中,误定价格们], "定价不正确").
+条目(印刷错误, v, [印刷错误了, 正在印刷错误, 印刷错误的], "错误地印刷").
+词条(轻视, v, [轻视了, 轻视中, 轻视], "轻蔑").
+条目(误引, 动词, [误引了, 误引用, 误引], "错误地引用")。
+entry(错误抬高, v, [错误抬高了,错误抬高中,错误抬高], "错误地抬高").
+entry(错误评价, v, [错误评价了,错误评价中,错误评价], "评价不正确").
+```prolog
+entry(误读, v, [误读,误读中,误读着], "错误地阅读").
+```
+entry(misrefer, v, [misreferred,misreferring,misrefers], "错误地提及").
+entry(误信, 动词, [误信过,误信中,误信], "错误地依赖")。
+entry(错误路线, v, [错误路由, 错误引导, 错误路径], "错误地引导路线").
+```prolog
+entry(胡作非为, v, [胡作非为过,胡作非为中,胡作非为], "不明智或不公正地统治").
+```
+entry(miss, v, [missed,missing,misses], "未能接触到").
+可错过的
+entry(弥撒书, n, [弥撒书], "一本祈祷书").
+entry(误说, v, [误说了,误说着,误说], "说得不正确").
+入口(錯座, 動詞, [錯座了, 錯座著, 錯座], "錯誤地入座").
+入口(missel, n, [missels], "一种欧洲鸫").
+入口(错误发送, 动词, [错误发送,正在错误发送,错误发送], "错误地发送").
+entry(错义, n, [错义变], "一种基因突变形式").
+entry(misset, v, [misset,missetting,missets], "不正确地设置").
+entry(变形, v, [变形了,变形的,正在变形], "变形指的是形状不好地改变").
+entry(misshod, 形容词, [], "穿鞋不当").
+entry(小姐, 复数, [], "小姐们").
+条目(导弹, n, [导弹], "被投掷或发射的物体或武器")。
+入口(导弹学, 名词, [导弹学], "设计和操作制导导弹的科学").
+进入(任务, 动词, [派遣, 正在派遣, 派遣], "派遣去执行特定任务")。
+entry(夫人, n, [夫人们], "妻子").
+entry(信件, n, [信件们], "书面交流").
+entry(missort, v, [错排序, 错排序中, 错排序], "排序不当或错误").
+条目(误响, 动词, [误响过, 误响中, 误响复数], "发出错误的声音").
+entry(missout, n, [missouts], "骰子输掉的一掷").
+entry(空间错误, v, [空间错误, 错误空间, 空间错误], "空间使用不当").
+entry(误说, v, [误说了,误说过,正在误说], "误说是指说错").
+条目(拼写错误, 动词, [拼写错误的, 拼写中, 拼写错误], "拼写不正确").
+entry(误花, v, [误花过,误花着,误花们], "错误地花费").
+entry(说错, 过去式, [], "说错的时态").
+`条目(误说, 过去, [], "misspeak的分词")。`
+entry(misstamp, v, [misstamped,misstamping,misstamps], "错误地盖章")。
+entry(misstart, v, [misstarted, misstarting, misstarts], "开始得不好")。
+条目(错误陈述, 动词, [错误陈述过, 正在错误陈述, 错误陈述们], "错误地陈述").
+entry(错误驾驶, v, [错误驾驶过,错误驾驶中,错误驾驶], "错误地驾驶").
+条目(失足, v, [失足, 失足中, 失足们], "错误地踩").
+entry(misstop, v, [misstopped,misstopping,misstops], "错误地停止").
+entry(弄错款式, v, [弄错款式了,弄错款式中,弄错款式], "错误地设计或称呼")
+entry(错误适配, v, [错误适配的, 错误适配中, 错误适配], "不合适地适配").
+entry(太太, n, [错误用法], "missis").
+条目(咪西, 名词, [咪西们], "一个小女孩")。
+条目(雾, 动词, [雾化, 雾化中, 雾化], "变得模糊").
+```
+entry(错误, v, [misteuk, mistaken, mistaking], "MISTAKESto interpret wrongly").
+```
+entry(犯错者, n, [犯错者们], "会犯错的人").
+条目(薄雾虹, n, [薄雾虹], "一种雾虹").
+entry(misteach, v, [mistaught, misteaching, misteaches], "错误地或糟糕地教授").
+```
+entry(mistend, v, [mistended,mistending,mistends], "错误地照顾").
+```
+entry(先生, n, [先生们], "先生").
+entry(misterm, v, [mistermed,misterming,misterms], "误称").
+entry(misteuk, a, [], "mistake的过去式").
+entry(误想, 动词, [误想过, 误想着, 误想], "错误地思考").
+entry(投掷失误, v, [投掷失误, 投掷失误, 投掷失误中], "投掷失误要扔错").
+entry(更雾蒙蒙的, 比较级, [], "雾蒙蒙的").
+```
+entry(最雾的, 最高级, [], "的雾"). 
+```
+entry(朦胧地, 副词, [], "以一种朦胧的方式").
+条目(时机不当, v, [时机不当的, 时机不当中, 时机不当], "错误地计时").
+条目(错称, 动词, [错称, 错称中, 错称们], "用错误的名称称呼").
+entry(误会, a, [], "mistake的过去式").
+entry(误触, v, [误触过, 误触中, 误触], "不当接触").
+entry(误追踪, v, [误追踪了,误追踪中,误追踪], "追踪错误").
+入口(误训, v, [误训过, 误训中, 误训], "不正确地训练")。
+入口(密斯特拉尔, 名词, [密斯特拉尔们], "一种寒冷干燥的风").
+entry(虐待, v, [虐待了,虐待着,虐待], "恶劣对待").
+entry(女主人, n, [女主人们], "处于权威地位的女性").
+条目(无效审判, 名词, [无效审判], "由于程序中的某些错误而导致无效的审判")。
+不信任(动词, [不信任了,不信任着,不信任], "不信任").
+entry(误传, n, [误传], "谎言").
+```Prolog
+entry(mistryst, v, [mistrysted,mistrysting,mistrysts], "爽约").
+```
+entry(mistune, v, [调整错误的, 错误调整中, 调整错误], "调得不正确").
+entry(mistutor, v, [mistutored,mistutoring,mistutors], "指导不当或教育不良").
+entry(misty, adj, [], "MISTIER MISTIEST模糊的").
+entry(误打, v, [误打了,误打着,误打], "打字错误").
+entry(不良结合, n, [不良结合], "一个糟糕的结合").
+entry(误用, n, [误用], "不正确的使用").
+entry(误用, v, [误用了,误用中,误用], "错误地使用").
+entry(滥用者, n, [滥用者们], "一个滥用的人").
+entry(misvalue, v, [价值错误,价值错误,价值错误], "错误地估价").
+入口(误词, v, [误词过去式,误词进行中,误词们], "错误地措辞")。
+entry(miswrite, v, [miswrit,miswritten,miswriting], "错误拼写用于描述书写错误的行为")。
+entry(misyoke, v, [misyoked,misyoking,misyokes], "错误地连接").
+entry(螨虫, n, [螨虫们], "一种小型的蛛形纲动物").
+entry(主教冠, 动词, [冠为主教, 冠为主教中, 冠为主教们], "提升为主教的地位")
+entry(米特勒, n, [米特勒们], "一种使用斜接的方法").
+条目(mither, n, [mithers], "母亲").
+条目(杀螨剂, n, [杀螨剂们], "用于杀死螨虫的物质").
+entry(某个词, 比较级, [], "某个词的").
+条目(最温和的, 最高级, [], "mity的").
+entry(缓解因素, n, [缓解因素], "起缓解作用的东西").
+entry(缓解, 动词, [缓解了,缓解中,缓解], "使不那么严重").
+entry(mitis, n, [mitises], "一种熟铁").
+entry(诱导分裂原, n, [诱导分裂原], "一种诱导有丝分裂的物质").
+条目(有丝分裂, n, [有丝分裂方式], "一种细胞分裂方式，MITOTIC 形容词").
+条目(二尖瓣, 形容词, [], "与心脏的瓣膜有关").
+entry(mitre, v, [mitred,mitring,mitres], "斜接").
+entry(善行, n, [善行们], "或 诫命善行").
+`entry(mitt, n, [棒球手套], "一种棒球手套").`
+entry(连指手套, n, [连指手套], "手的一种覆盖物夹手套的 adj").
+entry(米蒂穆斯, n, [米蒂穆斯们], "将某人送入监狱的许可证").
+条目(mity, 形容词, [], "被螨虫侵扰的")。
+entry(戒律, n, [戒律], "或 MITZVOT 一条犹太法律的命令")。
+entry(混合, 动词, [混合物, 混合, 混合物], "放在一起形成一个整体可混合的 可混合的 形容词混合地 副词").
+条目(混音, n, [混音], "将声轨合并制作录音的过程")。
+entry(搅拌器, n, [搅拌器们], "一个混合器").
+entry(调酒术, n, [调酒术学], "制作混合饮品的艺术").
+条目(混音带, n, [混音带], "从各种来源录制的歌曲合集")。
+条目(混合物, n, [混合物], "通过混合产生的东西").
+entry(mixup, n, [混乱], "一种混淆状态")。
+条目(三角帆, n, [三角帆], "mizzen").
+入口(芽扎菜, 名词, [芽扎菜], "一种日本芥末")。
+条目(中桅帆, 名词, [中桅帆], "一种风帆").
+entry(蒙蒙细雨, 动词, [细雨过, 细雨中, 下细雨], "下细小的水滴").
+entry(mizzly, 形容词, [], "由细雨组成的更阴湿的最阴湿的").
+entry(mm, 感叹词, [], "用于表达同意或满意")
+entry(嗯嗯, 感叹词, [], "嗯").
+条目(助记符, n, [助记符], "一个帮助记忆的装置").
+入口(摩, 名词, [摩斯], "片刻")。
+entry(恐鸟, n, [恐鸟们], "一种已灭绝的不会飞的鸟").
+entry(呻吟, 动词, [呻吟了,呻吟着,呻吟], "发出低沉的悲伤声音").
+entry(抱怨者, n, [抱怨者们], "一个抱怨的人").
+entry(呻吟的, 形容词, [], "呻吟").
+entry(护城河, 动词, [已护城河, 正在护城河, 护城河], "用水填充的沟渠围绕").
+entry(护城河状, 形容词, [], "暗示护城河").
+入口(暴民, 动词, [蜂拥而上, 蜂拥, 暴动], "蜂拥而至")。
+entry(起哄者, n, [起哄者们], "起哄的人").
+条目(乌合之众, 形容词, [], "具有乌合之众的特征，一群无序的人群")。
+条目(暴民主义, 名词, [暴民主义们], "暴徒行为").
+entry(mobcap, n, [mobcaps], "女士帽").
+entry(手机, 名词, [手机], "一种雕塑形式").
+entry(动员, 动词, [动员了, 正在动员, 动员], "进行动员").
+entry(流动性, n, [流动性], "移动的能力").
+entry(动员, 动词, [动员了, 正在动员, 动员], "使运动起来").
+entry(mobled, 形容词, [], "被包裹在兜帽中或仿佛在兜帽中")。
+entry(移动博客, n, [移动博客], "从手机发布数据的博客").
+条目(mobocrat, n, [mobocrats], "暴民统治的支持者")。
+entry(犯罪分子, n, [犯罪分子们], "一个帮派分子").
+entry(莫克, n, [莫克斯], "一种莫卡辛鞋").
+入口(莫卡辛, 名词, [莫卡辛鞋], "一种鞋类")。
+```prolog
+entry(摩卡, n, [摩卡们], "一种选择芳香的咖啡").
+```
+条目(麻糬, 名词, [麻糬], "一种用米粉和甜豆馅制成的日本点心")。
+entry(马鞍袋, n, [马鞍袋们], "马鞍的皮质覆盖物").
+entry(恶搞, v, [恶搞了, 恶搞着, 恶搞], "嘲笑，恶搞可承受 adj").
+条目(嘲弄者, n, [嘲弄者们], "一个嘲笑他人的人")。
+entry(嘲弄, n, [嘲弄], "嘲讽的行为").
+entry(mocktail, n, [无酒精鸡尾酒], "不含酒精的鸡尾酒")。
+entry(模型, n, [模型], "一个全尺寸模型").
+entry(mod, n, [时尚者], "一个大胆穿着时髦衣服的人").
+entry(情态, n, [情态动词], "与其他动词一起使用以表示语气或时态的动词")。
+entry(形态论, n, [形态论], "三位一体的成员不是不同的人，而是神圣启示的模式")
+entry(模态论者, n, [模态论者们], "模态论的信徒").
+条目(样式, n, [样式], "模态状态")。
+entry(情态地, 副词, [], "以一种与模式有关的方式")。
+entry(方式, n, [方式], "一种做或行动的方法")。
+entry(model, v, [仿制, 仿造, 模型], "或 模仿 模型 计划或根据模式形成").
+entry(建模者, n, [建模者们], "一个建模的人").
+entry(建模, n, [建模法], "雕塑中体积的处理").
+```prolog
+entry(模特儿, n, [模特儿们], "制作模型的人").
+```
+entry(造型, 了, [], "model的过去式").
+entry(模型制作者, n, [模型制作者们], "模型制作者").
+entry(建模, 一个, [], "模型的现在分词").
+`项(调制解调器, v, [已调制解调, 调制解调中, 调制解调器们], "通过调制解调器传输的设备，用于将信号从一种形式转换为另一种形式").`
+entry(适度, 动词, [调节, 调节中, 调节们], "使不那么极端").
+条目(中板, n, [中板复数], "一种以中等速度演奏的音乐乐段")。
+```prolog
+entry(现代, 形容词, [], "现代的 更现代的 最现代的 与当前或近期时间有关 现代地 副词").
+```
+entry(现代人, n, [现代人们], "现代时代或观点的人").
+entry(现代, n, [现代的], "一种20世纪20年代和30年代的设计风格")。
+进入(谦虚, 形容词, [], "谦虚者 更谦虚 最谦虚 对自己有适度的看法 谦虚地 副词")。
+entry(谦虚, n, [谦虚], "谦逊的品质").
+entry(莫迪, pl, [], "of modus").
+Entry(微量, n, [微量], "或 MODICA 一小部分").
+entry(修饰符, n, [修饰符], "进行修饰的").
+`entry(修改, v, [修改过, 正在修改, 修改], "改变形式或特性").`
+entry(中軸, n, [中軸], "內耳的骨質軸").
+entry(modish, adj, [], "时尚的时髦地 adv").
+entry(女裁缝, n, [女裁缝们], "时尚女装经销商").
+entry(模块化, n, [模块化的], "由独立单元构建的东西").
+输入(调整, 动词, [已调整, 正在调整, 调整], "调整到一定的比例").
+entry(模块, n, [模块们], "一种测量标准").
+entry(模, 副词, [], "关于模数").
+条目(模数, n, [模数], "一个数被两个数分别除所得余数相同的数")。
+entry(模态, n, [模态的], "一种模式").
+entry(独流, n, [独流], "从地表裂缝中喷出的有毒气体")
+```prolog
+entry(mofette, 名词, [mofettes], "mofette").
+```
+entry(mog, v, [mogged,mogging,mogs], "移动开").
+条目(小猫, n, [小猫们], "小猫").
+entry(猫, n, [猫咪们], "一只猫").
+entry(莫卧儿, n, [莫卧儿人], "莫卧儿王朝").
+entry(重要人物, n, [重要人物们], "一个重要的人物").
+entry(有凹凸的, 形容词, [], "覆盖有硬雪块的").
+entry(马海毛, n, [马海毛], "安哥拉山羊的长而柔滑的毛发")。
+entry(莫霍克, n, [莫霍克人], "一种从前到后有一条长长的硬脊的发型").
+entry(莫赫尔, n, [莫赫尔人], "或者是MOHELIM或MOHALIM执行犹太教仪式割礼的人").
+entry(莫霍, n, [莫霍面], "地壳和地幔之间的边界，地壳和地核之间的区域")。
+entry(穆尔金币, n, [穆尔金币], "印度以前的金币").
+入口(moi, 感叹词, [], "用于代替我在被指控某事时假装惊讶")。
+entry(moidore, n, [moidores], "葡萄牙以前的金币")
+条目(片段, n, [片段们], "一半").
+entry(辛勤工作, 动词, [辛勤工作了, 辛勤工作中, 辛勤工作], "努力工作").
+entry(辛勤劳动者, n, [辛勤劳动者们], "一个辛勤劳动的人").
+条目(莫伊拉, 名词, [命运女神], "古希腊宗教中的命运或宿命").
+条目(波纹, 名词, [波纹], "具有波浪图案的面料").
+entry(湿润, 形容词, [], "较湿 最湿略微湿").
+entry(弄湿, v, [弄湿了,弄湿中,弄湿的], "使变得湿润或变得潮湿")。
+entry(潮湿的, 形容词, [], "湿润的").
+entry(潮湿地, 副词, [], "以潮湿的方式").
+条目(水分, 名词, [水分], "凝结或扩散的液体").
+条目(海鲷鱼, n, [海鲷鱼], "一种海洋鱼类").
+条目(莫吉托, n, [莫吉托], "由朗姆酒、糖、薄荷和酸橙汁制成的一种鸡尾酒").
+entry(魔咒, 名词, [魔咒们], "或 魔咒们一个魔法护符").
+entry(毛驢, 名詞, [毛驢們], "一頭驢").
+entry(莫克沙, n, [莫克沙], "印度教中灵魂从轮回中最终解脱").
+entry(摩尔, n, [摩尔], "摩尔").
+entry(摩拉鱼, 名词, [摩拉鱼], "一种海洋鱼").
+entry(摩尔的, 形容词, [], "与摩尔有关")。
+entry(质量摩尔浓度, n, [摩尔浓度], "每1000克溶剂中的溶质摩尔数").
+词条(臼齿, 名词, [臼齿], "一种研磨牙齿").
+entry(摩尔浓度, n, [摩尔浓度], "每升溶液中溶质的摩尔数").
+条目(糖蜜, 名词, [糖蜜们], "一种浓稠的糖浆").
+entry(模具, v, [成型的, 成型, 模具], "加工为特定形状的MOLDABLE 形容词").
+entry(腐朽者, 动词, [腐朽了, 腐朽中, 腐朽者们], "自然腐朽成尘").
+entry(发霉, 比较级, [], "的发霉")。
+entry(最发霉, 最高级, [], "发霉的").
+条目(模制, 名词, [装饰条], "用于装饰表面的长窄条").
+entry(鼴鼠, n, [鼴鼠], "一种穴居哺乳动物").
+entry(发霉, 形容词, [], "更发霉 最发霉霉味").
+entry(鼹鼠、n、[鼹鼠]、"化合物的数量，其重量等于化合物的分子量")。
+entry(分子, n, [分子], "元素的最小物理单位")
+入口(鼹鼠丘, n, [鼹鼠丘们], "一个小土堆")。
+entry(麂皮绒, n, [麂皮绒], "一种棉织物").
+entry(骚扰, 动词, [骚扰过, 正在骚扰, 骚扰们], "打扰或惹恼").
+entry(骚扰者, n, [骚扰者们], "进行骚扰的人").
+entry(molies, pl, [], "的钼").
+entry(moline, adj, [], "具有分叉和末端弯曲的手臂  用于纹章十字").
+入口(莫尔, 名词, [莫尔斯], "黑帮成员的女友")。
+entry(毛拉, n, [毛拉们], "毛拉")。
+条目(莫莉, 名词, [莫莉鱼], "一种热带鱼")。
+条目(莫莉, 复数, [], "莫莉的").
+entry(安抚, 动词, [安抚过, 安抚中, 安抚], "使平静").
+entry(软体动物, n, [molluscs], "软体动物").
+entry(软体动物, npl, [], "皮肤病").
+entry(软体动物, n, [软体动物们], "软体无脊椎动物的任何一类").
+条目(莫莉, n, [莫莉们], "莫莉").
+entry(魔洛克, 名词, [魔洛克们], "一种有刺的蜥蜴").
+条目(蜕皮, 动词, [蜕皮了, 正在蜕皮, 蜕皮], "脱去外层覆盖物").
+条目(火熔的, 形容词, [], "被加热成液体MOLTENLY 副词").
+入口(蜕皮的, 名词, [蜕皮的动物], "蜕皮的东西").
+entry(很, 副词, [], "在音乐指示中使用的非常").
+入口(莫利, 名词, [莫利斯], "一种野生大蒜").
+entry(钼, n, [钼], "钼").
+entry(钼的, 形容词, [], "与某种金属元素有关").
+entry(妈妈, n, [妈妈们], "母亲").
+条目(mome, n, [momes], "傻瓜").
+entry(时刻, n, [时刻们], "一段简短的时间").
+entry(动量, a, [], "momentum 的复数").
+entry(瞬時地, 副词, [], "从一个瞬间到另一个瞬间").
+```prolog
+输入(时刻, n, [时刻们], "或时刻们的纪念品")。
+```
+entry(动量, n, [动量们], "或 动量 运动的力量")。
+entry(莫米, a, [], "莫姆斯的复数").
+entry(溺爱, n, [溺爱现象], "对母亲的过度依赖").
+entry(妈妈, n, [妈妈们], "母亲").
+entry(妈妈, n, [妈妈们], "母亲").
+entry(momser, n, [流氓], "一个坏蛋").
+entry(摩摩斯, n, [摩摩斯们], "或者摩米一个挑剔的人").
+entry(混蛋, n, [混蛋们], "无赖").
+entry(周一, n, [男人], "男人").
+entry(僧侣的, 形容词, [], "与僧侣有关的").
+entry(单酸, n, [单酸s], "单酸").
+entry(单子, n, [单子], "一种单细胞生物 单子形 单子性的 形容词").
+entry(单子, 复数, [], "单子的").
+entry(一元论, n, [一元论学说], "一种哲学原则").
+entry(monamine, n, [单胺], "含有仅一个氨基的胺").
+entry(一夫制, n, [一夫制], "一次仅有一个丈夫的状况").
+entry(君主, n, [君主们], "绝对的统治者").
+entry(君主制, n, [君主制], "由君主统治").
+entry(monarda, n, [单风草], "一种芳香草本植物").
+条目(无名氏, n, [单子], "一个单子").
+entry(修道的, n, [修道士], "和尚").
+entry(单声道, 形容词, [], "涉及单一传输路径的声音传输、记录或复制").
+entry(monaxial, adj, [], "有一个轴").
+entry(monaxon, n, [单轴纤维], "海绵中的直刺").
+entry(独居石, n, [独居石], "一种矿物").
+entry(世界, n, [世界], "the world").
+entry(mondo, n, [mondos], "一种在禅宗中使用的快速问答技巧")
+entry(monecian, 形容词, [], "在同一个体中同时具有雌雄性器官").
+entry(莫内林, n, [莫内林素], "一种从西非红莓中提取的蛋白质") .
+```prolog
+entry(单体, n, [单体生物], "一种没有明显细胞核的细胞生物").
+```
+`entry(monetary, adj, [], "与金钱有关").`
+entry(货币化, v, [货币化了,货币化中,货币化], "变现").
+entry(货币化, 动词, [货币化的, 货币化中, 货币化], "铸成货币").
+```prolog
+entry(钱, n, [钱], "或MONIES一种官方的交换媒介和价值衡量标准").
+```
+`entry(钱袋, n, [钱袋们], "一个装钱的袋子").`
+entry(有钱的, 形容词, [], "有很多钱").
+entry(造币者, n, [造币者们], "铸造钱币的人").
+entry(金钱人, n, [金钱人们], "投资巨额资金的人").
+条目(獴, a, [], "mongoose 的复数形式").
+entry(兜售者, v, [兜售过, 兜售着, 兜售], "出售").
+entry(蒙古, 名词, [蒙古复数形式], "蒙古").
+entry(蒙古, n, [mongoes], "芒果").
+entry(蒙古人, n, [蒙古人], "一种心理缺陷形式影响的人").
+入口(獴, n, [mongooses], "或 MONGEESE一种食肉哺乳动物")。
+entry(杂种, n, [杂种], "混合品种的动物或植物").
+entry(mongst, prep, [], "在...之中")。
+entry(单头, 形容词, [], "表示一种多项式类型").
+entry(绰号, 名词, [绰号们], "绰号").
+entry(莫尼, 形容词, [], "很多").
+```prolog
+entry(有钱的, 形容词, [], "moneyed").
+```
+entry(款项, a, [], "钱的复数").
+entry(别名, n, [别名们], "一个名字")。
+入口(monilia, n, [moniliae], "一种寄生真菌").
+条目(莫尼什, 动词, [被警告, 警告中, 警告], "警告").
+entry(一元论, n, [一元论们], "一种哲学理论").
+entry(一元论者, n, [一元论者们], "一元论的追随者一元论的 adj").
+entry(警告, n, [警告], "警告").
+entry(警告的, 形容词, [], "给予警告").
+entry(监视, v, [被监视,监视中,监视], "跟踪").
+entry(警告信, n, [警告信], "警告信").
+条目(僧侣, n, [僧侣们], "一个属于独居宗教团体的男子").
+entry(修道生活, n, [修道生活], "僧侣的生活方式").
+entry(猴子, v, [猴子过了, 猴子着, 猴子们], "模仿").
+entry(鮟鱇魚, n, [鮟鱇魚們], "一種海洋魚類").
+entry(僧侣身份, n, [僧侣身份们], "成为僧侣的状态").
+entry(僧侣的, 形容词, [], "关于修道士的").
+entry(mono, n, [单核细胞增多症], "一种传染病").
+入口(单酸, n, [单酸], "一种酸").
+条目(单体, 形容词, [], "一次铸造而成")。
+entry(单果植物, n, [单果植物], "一种只结果一次后便死亡的植物").
+entry(单片眼镜, n, [单片眼镜], "单片眼镜MONOCLED 形").
+entry(单子叶植物, n, [单子叶植物], "一种种子植物").
+entry(独裁者, n, [独裁者们], "一个专制者")。
+条目(monocrop, n, [单一作物], "每年在同一片田地种植相同的作物").
+entry(单核细胞, n, [单核细胞], "一种白细胞").
+entry(monodist, n, [挽歌作家], "创作独唱挽歌的人").
+entry(哀歌, n, [哀歌们], "由一个人表演的挽歌独白 adj").
+entry(雌雄同株, n, [雌雄同株现象], "雌雄同体的状态").
+条目(单纤维, n, [单纤维], "合成纤维中的单根细丝").
+entry(單一燃料, n, [單一燃料], "一種類型的火箭推進劑").
+entry(一夫一妻制, n, [一夫一妻制形式], "一次只与一个人结婚")。
+entry(单性生殖, n, [单性生殖方式], "无性繁殖").
+```prolog
+entry(单胚, 形容词, [], "是一种产生单一植株的果实").
+```
+entry(单语者, n, [单语者们], "仅使用一种语言说话或写作的人").
+entry(字母组合, v, [字母组合的, 字母组合中, 字母组合], "或 字母组合的 字母组合中 字母组合用一个人姓名的首字母设计的标记").
+```prolog
+entry(一夫制, n, [一夫制的情況], "一夫一妻制的狀況").
+```
+条目(单体船, 名词, [单体船], "一个具有单一船体的船只")。
+entry(单核因子, n, [单核因子类], "一种由白细胞分泌的物质").
+条目(单件泳衣, n, [单件泳衣], "比基尼的下半部分")。
+entry(巨石, n, [巨石], "一块大的石头")。
+条目(独白, 动词, [独白过了, 独白中, 独白], "发表一个人的长篇演讲")。
+entry(独白术, n, [独白术集], "发表独白的行为").
+entry(单体, n, [单体], "一种化合物").
+entry(单项式, n, [单项式列表], "由单一项组成的代数表达式")。
+entry(独脚架, n, [独脚架们], "用于相机的一脚支撑设备").
+entry(单足, n, [单足生物], "一种有一只脚的生物").
+条目(独体诗, n, [独体诗们], "由一个韵律脚组成的度量").
+entry(独极子, n, [独极子], "一种无线电天线").
+entry(垄断, n, [垄断行为], "在特定市场中对商品或服务的独占控制")。
+入口(单轨列车, n, [单轨列车], "作为有轮车辆轨道的一根钢轨").
+条目(单板滑雪, n, [单板滑雪], "用于双脚的单一宽滑雪板").
+entry(单染色体, n, [单染色体], "一个未配对的染色体").
+entry(单体性, n, [单体性], "一种染色体单个成对的状况").
+条目(单色调, 名词, [单色调们], "用一种颜色的不同色调完成的画作")。
+条目(单调, n, [单调音], "一种单一音调的不变声乐发声").
+entry(单调, n, [单调性], "乏味的相似性").
+entry(单型, n, [单型], "其组中的唯一代表").
+entry(一氧化物, n, [一氧化物], "一种氧化物").
+entry(丘, 名词, [隆起], "体内的隆起").
+entry(先生, n, [先生们], "对男性的法语尊称").
+entry(季风, n, [季风], "季节性风").
+entry(怪物, n, [怪物], "一种奇怪或可怕的生物").
+entry(龟背竹, 名词, [龟背竹], "一种美洲热带植物").
+条目(蒙太奇, 动词, [蒙太奇的, 正在进行蒙太奇, 蒙太奇复数], "合成为一幅合成图片")。
+entry(山地, n, [山地], "山的较低植被带").
+entry(monte, n, [montes], "一种纸牌游戏").
+条目(蒙蒂斯, 名词, [蒙蒂斯], "一个大号的潘趣酒碗")。
+entry(蒙特罗, n, [蒙特罗帽], "一种帽子").
+条目(蒙特斯, 复数, [], "的蒙斯").
+entry(月份, n, [月份], "大约30天的周期")。
+```prolog
+entry(月刊, n, [月刊], "每月出版一次的刊物").
+```
+entry(蒙提, n, [蒙提们], "预期或可能的全部金额")。
+entry(纪念碑, n, [纪念碑], "作为纪念而建的结构物").
+入口(莫努隆, 名词, [莫努隆类], "一种除草剂")。
+条目(许多, 形容词, [], "many").
+```prolog
+条目(moo, v, [mooed,mooing,moos], "发出牛的深沉哞叫声MOOCH v MOOCHED MOOCHING MOOCHESto obtain without payingMOOCHER n pl MOOCHERSone that moochesMOOD n pl MOODSa persons emotional state at a particular momentMOODY adj MOODIER MOODIESTgiven to changing moodsMOODILY advMOOK n pl MOOKSa foolish or contemptible personMOOL n pl MOOLSsoft soilMOOLA n pl MOOLASmoolahMOOLAH n pl MOOLAHSmoneyMOOLEY n pl MOOLEYSmuleyMOON v MOONED MOONING MOONSto spend time idlyMOONBEAM n pl MOONBEAMSa ray of light from the moon the earths natural satelliteMOONBOW n pl MOONBOWSa rainbow formed by light from the moonMOONCALF n pl MOONCALVESa foolish personMOONDOG n pl MOONDOGSa bright spot in the sky formed by moonlightMOONDUST n pl MOONDUSTSdust on the moonMOONER n pl MOONERSone that moonsMOONEYE n pl MOONEYESa freshwater fishMOONFISH n pl MOONFISHESa marine fishMOONGATE n pl MOONGATESa circular gateway in a wallMOONIER comparative of moonyMOONIEST superlative of moonyMOONILY adv in a moony mannerMOONISH adj fickleMOONLESS adj lacking the light of the moonMOONLET n pl MOONLETSa small satelliteMOONLIKE adj resembling the moonMOONLIT adj lighted by the moonMOONPORT n pl MOONPORTSa facility for launching spacecraft to the moonMOONRISE n pl MOONRISESthe rising of the moon above the horizonMOONROOF n pl MOONROOFSa glass panel in an automobile roofMOONSAIL n pl MOONSAILSa light square sailMOONSEED n pl MOONSEEDSa climbing plantMOONSET n pl MOONSETSthe setting of the moon below the horizonMOONSHOT n pl MOONSHOTSthe launching of a spacecraft to the moonMOONWALK v MOONWALKED MOONWALKING MOONWALKSto walk on the moonMOONWARD adv toward the moonMOONWORT n pl MOONWORTSa flowering plantMOONY adj MOONIER MOONIESTresembling the moonMOOR v MOORED MOORING MOORSto secure a vessel by means of cablesMOORAGE n pl MOORAGESthe act of mooringMOORCOCK n pl MOORCOCKSthe male moorfowlMOORFOWL n pl MOORFOWLSa game birdMOORHEN n pl MOORHENSthe female moorfowlMOORIER comparative of mooryMOORIEST superlative of mooryMOORING n pl MOORINGSa place where a vessel may be mooredMOORISH adj marshyMOORLAND n pl MOORLANDSa tract of marshy landMOORWORT n pl MOORWORTSa marsh plantMOORY adj MOORIER MOORIESTmarshyMOOSE n pl MOOSEa ruminant mammalMOOT v MOOTED MOOTING MOOTSto bring up for discussionMOOTER n pl MOOTERSone that mootsMOOTNESS n pl MOOTNESSESthe state of being without legal significanceMOP v MOPPED MOPPING MOPSto wipe with a mop an implement for cleaning floorsMOPBOARD n pl MOPBOARDSa board at the base of a wallMOPE v MOPED MOPING MOPESto act in a dejected or gloomy mannerMOPED n pl MOPEDSa type of motorbikeMOPER n pl MOPERSone that mopesMOPERY n pl MOPERIESan act of dawdlingMOPEY adj MOPIER MOPIESTdejectedMOPILY advMOPHEAD n pl MOPHEADSa person with thick shaggy hairMOPIER comparative of mopyMOPIEST superlative of mopyMOPINESS n pl MOPINESSESthe state of being mopeyMOPING present participle of mopeMOPINGLY adv in a moping mannerMOPISH adj given to mopingMOPISHLY advMOPOKE n pl MOPOKESan Australian birdMOPPED past tense of mopMOPPER n pl MOPPERSone that mopsMOPPET n pl MOPPETSa childMOPPING present participle of mopMOPPY adj MOPPIER MOPPIESTresembling a mopMOPY adj MOPIER MOPIESTmopeyMOQUETTE n pl MOQUETTESa woolen fabricMOR n pl MORSa forest humusMORA n pl MORAS or MORAEa unit of metrical time in prosodyMORAINE n pl MORAINESan accumulation of debris deposited by a glacierMORAINAL MORAINIC adjMORAL adj pertaining to principles of right and wrongMORALE n pl MORALESthe state of the spirits of an individual or groupMORALISE v MORALISED MORALISING MORALISESto moralizeMORALISM n pl MORALISMSthe practice of moralizingMORALIST n pl MORALISTSa teacher of moralityMORALITY n pl MORALITIESconformity to the rules of right conductMORALIZE v MORALIZED MORALIZING MORALIZESto explain in a moral senseMORALLY adv in a moral mannerMORALS npl rules of conduct with respect to right and wrongMORASS n pl MORASSESa marshMORASSY adjMORATORY adj authorizing delay of paymentMORAY n pl MORAYSa tropical eelMORBID adj gruesomeMORBIDLY advMORBIFIC adj causing diseaseMORBILLI npl a virus diseaseMORCEAU n pl MORCEAUXa short literary or musical compositionMORDANCY n pl MORDANCIESa sarcastic qualityMORDANT v MORDANTED MORDANTING MORDANTSto treat with a caustic substanceMORDENT n pl MORDENTSa melodic embellishmentMORE adj greater additionalMOREEN n pl MOREENSa heavy fabricMOREISH adj so good that you want to have moreMOREL n pl MORELSan edible mushroomMORELLE n pl MORELLESa flowering plantMORELLO n pl MORELLOSa variety of sour cherryMORENESS n pl MORENESSESthe state of being moreMOREOVER adv in additionMORES npl the customs of a particular groupMORESQUE n pl MORESQUESan ancient decorative styleMORGAN n pl MORGANSa unit of distance between genesMORGEN n pl MORGENSa Dutch unit of land areaMORGUE n pl MORGUESa place where dead bodies are kept for identificationMORIBUND adj being about to dieMORION n pl MORIONSa type of helmetMORISH adj moreishMORN n pl MORNSmorningMORNAY n pl MORNAYS a cheeseflavored white sauceMORNING n pl MORNINGSthe early part of the dayMOROCCO n pl MOROCCOSa soft leatherMORON n pl MORONSa mentally deficient personMORONIC adjMORONISM n pl MORONISMSthe condition of being a moronMORONITY n pl MORONITIESmoronismMOROSE adj sullenMOROSELY advMOROSITY n pl MOROSITIESthe state of being moroseMORPH v MORPHED MORPHING MORPHSto be transformedMORPHEME n pl MORPHEMESa linguistic unitMORPHIA n pl MORPHIASmorphineMORPHIC adj pertaining to formMORPHIN n pl MORPHINSmorphineMORPHINE n pl MORPHINESa narcotic alkaloidMORPHING n pl MORPHINGSthe transformation of one form into anotherMORPHO n pl MORPHOSa tropical butterflyMORRION n pl MORRIONSmorionMORRIS n pl MORRISESan English folk danceMORRO n pl MORROSa rounded elevationMORROW n pl MORROWSthe next dayMORSE adj designating a code used in telegraphyMORSEL v MORSELED MORSELING MORSELS or MORSELLED MORSELLING MORSELSto divide into small piecesMORT n pl MORTSa note sounded on a hunting horn to announce the killing of an animalMORTAL n pl MORTALSa human beingMORTALLY adv fatallyMORTAR v MORTARED MORTARING MORTARSto secure with mortar a type of cementMORTARY adj containing or resembling mortarMORTGAGE v MORTGAGED MORTGAGING MORTGAGESto pledge to a creditor as securityMORTICE v MORTICED MORTICING MORTICESto mortiseMORTICER n pl MORTICERSmortiserMORTIFY v MORTIFIED MORTIFYING MORTIFIESto humiliateMORTISE v MORTISED MORTISING MORTISESto join or fasten securelyMORTISER n pl MORTISERSone that mortisesMORTMAIN n pl MORTMAINSperpetual ownership of landMORTUARY n pl MORTUARIESa place where dead bodies are kept until burialMORULA n pl MORULAS or MORULAEan embryonic mass of cellsMORULAR adjMOSAIC v MOSAICKED MOSAICKING MOSAICSto form into a mosaic a type of inlaid surface decorationMOSASAUR n pl MOSASAURSan extinct lizardMOSCATO n pl MOSCATOSa sweet dessert wineMOSCHATE adj muskyMOSELLE n pl MOSELLESa mediumdry white wineMOSEY v MOSEYED MOSEYING MOSEYSto saunterMOSH v MOSHED MOSHING MOSHESto engage in frenzied dancing with others at a rock concertMOSHAV n pl MOSHAVIMa cooperative settlement of small farms in IsraelMOSHER n pl MOSHERSone that moshesMOSHING n pl MOSHINGSfrenzied dancing at a rock concertMOSK n pl MOSKSmosqueMOSQUE n pl MOSQUESa Muslim house of worshipMOSQUITO n pl MOSQUITOS or MOSQUITOESa winged insectMOSS v MOSSED MOSSING MOSSESto cover with moss a growth of small leafystemmed plantsMOSSBACK n pl MOSSBACKSa large old fishMOSSER n pl MOSSERSone that gathers or works with mossMOSSLIKE adj resembling mossMOSSO adv rapidly  used as a musical directionMOSSY adj MOSSIER MOSSIESTcovered with mossMOST n pl MOSTSthe greatest amountMOSTE past tense of moteMOSTEST n pl MOSTESTSmostMOSTLY adv mainlyMOT n pl MOTSa witty sayingMOTE n pl MOTESa small particleMOTE v past tense MOSTEmayMOTEL n pl MOTELSa roadside hotelMOTET n pl MOTETSa type of choral compositionMOTEY adj full of motesMOTH n pl MOTHSa winged insectMOTHBALL v MOTHBALLED MOTHBALLING MOTHBALLSto put into storageMOTHER v MOTHERED MOTHERING MOTHERSto give birth toMOTHERLY adj maternalMOTHERY adj slimyMOTHLIKE adj resembling a mothMOTHY adj MOTHIER MOTHIESTfull of mothsMOTIF n pl MOTIFSa recurring thematic element in an artistic workMOTIFIC adjMOTILE n pl MOTILESone whose mental imagery consists chiefly of inner feelings of actionMOTILITY n pl MOTILITIESthe ability to moveMOTION v MOTIONED MOTIONING MOTIONSto signal by a bodily movementMOTIONAL adj pertaining to movementMOTIONER n pl MOTIONERSone that motionsMOTIVATE v MOTIVATED MOTIVATING MOTIVATESto provide with an incentiveMOTIVE v MOTIVED MOTIVING MOTIVESto motivateMOTIVIC adj pertaining to a musical motifMOTIVITY n pl MOTIVITIESthe ability to moveMOTLEY adj MOTLEYER MOTLEYEST or MOTLIER MOTLIESTcomposed of diverse elementsMOTLEY n pl MOTLEYSa garment of various colorsMOTMOT n pl MOTMOTSa tropical birdMOTOR v MOTORED MOTORING MOTORSto travel by automobileMOTORBUS n pl MOTORBUSES or MOTORBUSSESa busMOTORCAR n pl MOTORCARSan automobileMOTORDOM n pl MOTORDOMSthe motor vehicle industryMOTORIC adj pertaining to muscular movementMOTORING n pl MOTORINGSthe recreation of traveling by automobileMOTORISE v MOTORISED MOTORISING MOTORISESto motorizeMOTORIST n pl MOTORISTSone who travels by automobileMOTORIZE v MOTORIZED MOTORIZING MOTORIZESto equip with motor vehiclesMOTORMAN n pl MOTORMENone who operates an electric streetcar or subway trainMOTORWAY n pl MOTORWAYSa type of highwayMOTT n pl MOTTSmotteMOTTE n pl MOTTESa small growth of trees on a prairieMOTTLE v MOTTLED MOTTLING MOTTLESto mark with spots或streaks of different colorsMOTTLER n pl MOTTLERSone that mottlesMOTTLING n pl MOTTLINGSan irregular arrangement of spotsMOTTO n pl MOTTOS or MOTTOESa short expression of a guiding principleMOUCH v MOUCHED MOUCHING MOUCHESto moochMOUCHOIR n pl MOUCHOIRSa small handkerchiefMOUE n pl MOUESa pouting grimaceMOUFFLON n pl MOUFFLONSmouflonMOUFLON n pl MOUFLONSa wild sheepMOUILLE adj pronounced with the front of the tongue against the palateMOUJIK n pl MOUJIKSmuzhikMOULAGE n pl MOULAGESthe making of a cast or mold of a mark for use in a criminal investigationMOULD v MOULDED MOULDING MOULDSto moldMOULDER v MOULDERED MOULDERING MOULDERSto molderMOULDING n pl MOULDINGSmoldingMOULDY adj MOULDIER MOULDIESTmoldyMOULIN n pl MOULINSa vertical cavity in a glacierMOULT v MOULTED MOULTING MOULTSto moltMOULTER n pl MOULTERSmolterMOUND v MOUNDED MOUNDING MOUNDSto pileMOUNT v MOUNTED MOUNTING MOUNTSto get up onMOUNTAIN n pl MOUNTAINSa large natural elevation of the earths surfaceMOUNTER n pl MOUNTERSone that mountsMOUNTING n pl MOUNTINGSsomething that provides a backing or appropriate setting for something elseMOURN v MOURNED MOURNING MOURNSto feel or express grief or sorrowMOURNER n pl MOURNERSone that mournsMOURNFUL adj MOURNFULLER MOURNFULLESTexpressing grief or sorrowMOURNING n pl MOURNINGSan outward sign of griefMOUSAKA n pl MOUSAKASmoussakaMOUSE n pl MICEa small rodentMOUSE v MOUSED MOUSING MOUSESto catch miceMOUSEPAD n pl MOUSEPADSa flat pad on which a computer mouse is usedMOUSER n pl MOUSERSan animal that catches miceMOUSEY adj MOUSIER MOUSIESTmousyMOUSIER comparative of mousyMOUSIEST superlative of mousyMOUSILY adv in a mousy mannerMOUSING n pl MOUSINGSa wrapping around the shank end of a hookMOUSSAKA n pl MOUSSAKASa Middle Eastern dish of meat and eggplantMOUSSE v MOUSSED MOUSSING MOUSSESto style with mousse foamy preparation used in styling hairMOUSSEUX n pl MOUSSEUXa sparkling wineMOUSY adj MOUSIER MOUSIESTresembling a mouseMOUTH v MOUTHED MOUTHING MOUTHSto put into the mouthMOUTHER n pl MOUTHERSa speakerMOUTHFUL n pl MOUTHFULSas much as the mouth can holdMOUTHY adj MOUTHIER MOUTHIESTvery talkativeMOUTHILY advMOUTON n pl MOUTONSsheepskin processed to resemble seal or beaverMOVABLE n pl MOVABLESsomething that can be movedMOVABLY adv so as to be capable of being movedMOVANT n pl MOVANTSa person who applies to a court for a favorable rulingMOVE v MOVED MOVING MOVESto change from one position to anotherMOVEABLE n pl MOVEABLESmovableMOVEABLY adv movablyMOVED past tense of moveMOVELESS adj incapable of movementMOVEMENT n pl MOVEMENTSthe act of movingMOVER n pl MOVERSone that movesMOVIE n pl MOVIESa motion pictureMOVIEDOM n pl MOVIEDOMSfilmdomMOVIEOLA n pl MOVIEOLASa device for viewing and editing filmMOVING present participle of moveMOVINGLY adv so as to affect the emotionsMOVIOLA n pl MOVIOLASmovieolaMOW v MOWED MOWN MOWING MOWSto cut down standing herbageMOWER n pl MOWERSone that mowsMOWING n pl MOWINGSthe act of cutting down standing herbageMOXA n pl MOXASa Chinese plantMOXIE n pl MOXIESspirit or courageMOZETTA n pl MOZETTAS或MOZZETTEmozzettaMOZO n pl MOZOSa manual laborerMOZZETTA n pl MOZZETTAS或MOZZETTEa hooded cape worn by bishopsMRIDANGA n pl MRIDANGASa drum of IndiaMU n pl MUSa Greek letterMUCH n pl MUCHESa great amountMUCHACHA n pl MUCHACHASa young womanMUCHACHO n pl MUCHACHOSa young manMUCHLY adv very muchMUCHNESS n pl MUCHNESSESthe quality of being greatMUCHO adj much manyMUCID adj mustyMUCIDITY n pl MUCIDITIESthe state of being mucidMUCILAGE n pl MUCILAGESan adhesive substanceMUCIN n pl MUCINSa protein secreted by the mucous membranesMUCINOID MUCINOUS adjMUCK v MUCKED MUCKING MUCKSto fertilize with manureMUCKER n pl MUCKERSa vulgar personMUCKIER comparative of muckyMUCKIEST superlative of muckyMUCKILY adv in a mucky mannerMUCKLE n pl MUCKLESa large amountMUCKLUCK n pl MUCKLUCKSmuklukMUCKRAKE v MUCKRAKED MUCKRAKING MUCKRAKESto search for and expose corruptionMUCKWORM n pl MUCKWORMSa worm found in manureMUCKY adj MUCKIER MUCKIESTfilthyMUCLUC n pl MUCLUCSmuklukMUCOID n pl MUCOIDSa complex proteinMUCOIDAL adjMUCOR n pl MUCORSa type of fungusMUCOSA n pl MUCOSAS or MUCOSAEa mucous membraneMUCOSAL adjMUCOSE adj mucousMUCOSITY n pl MUCOSITIESthe state of being mucousMUCOUS adj secreting or containing mucusMUCRO n pl MUCRONES或MUCROSa sharp point at the end of certain plant and animal organsMUCUS n pl MUCUSESa viscid bodily fluidMUD v MUDDED MUDDING MUDSto cover with mud soft wet earthMUDBANK n pl MUDBANKSa sloping area of mud alongside a body of waterMUDBUG n pl MUDBUGSa crayfishMUDCAP v MUDCAPPED MUDCAPPING MUDCAPSto cover an explosive with mud before detonatingMUDCAT n pl MUDCATSa type of catfishMUDDER n pl MUDDERSa racehorse that runs well on a muddy trackMUDDIED past tense of muddyMUDDIER comparative of muddyMUDDIES present 3d person sing of muddyMUDDIEST superlative of muddyMUDDILY adv in a muddy mannerMUDDING present participle of mudMUDDLE v MUDDLED MUDDLING MUDDLESto mix in a disordered mannerMUDDLER n pl MUDDLERSone that muddlesMUDDLY adj disorderedMUDDY adj MUDDIER MUDDIESTcovered or filled with mudMUDDY v MUDDIED MUDDYING MUDDIESto make或become muddyMUDFISH n pl MUDFISHESa fish found in mud或muddy waterMUDFLAP n pl MUDFLAPSa flap hung behind a rear wheel of a vehicle to prevent splashingMUDFLAT n pl MUDFLATSa level tract alternately covered和left bare by the tideMUDFLOW n pl MUDFLOWSa moving mass of mudMUDGUARD n pl MUDGUARDSa fenderMUDHEN n pl MUDHENSa bird that lives in marshesMUDHOLE n pl MUDHOLESa hole或hollow place full of mudMUDLARK n pl MUDLARKSa street urchinMUDPACK n pl MUDPACKScosmetic paste for the faceMUDPIE n pl MUDPIESa small mass of mud formed into a pie shapeMUDPUPPY n pl MUDPUPPIESa large salamanderMUDRA n pl MUDRASa hand gesture in East Indian classical dancingMUDROCK n pl MUDROCKSpeliteMUDROOM n pl MUDROOMSa room for shedding muddy clothing或footwearMUDSILL n pl MUDSILLSthe lowest supporting timber of a structureMUDSLIDE n pl MUDSLIDESa mudflow down a slopeMUDSLING v MUDSLUNG MUDSLINGING MUDSLINGSto use insults和accusations against a rival candidateMUDSTONE n pl MUDSTONESa type of rockMUEDDIN n pl MUEDDINSmuezzinMUENSTER n pl MUENSTERSa mild cheeseMUESLI n pl MUESLISa breakfast cerealMUEZZIN n pl MUEZZINSa Muslim crier who calls the faithful to prayerMUFF v MUFFED MUFFING MUFFSto bungleMUFFIN n pl MUFFINSa small round breadMUFFLE v MUFFLED MUFFLING MUFFLESto wrap with something to deaden soundMUFFLER n pl MUFFLERSa device for deadening soundMUFTI n pl MUFTISa judge who interprets Muslim religious lawMUG v MUGGED MUGGING MUGSto assault with intent to robMUGFUL n pl MUGFULSas much as a mug can holdMUGG v MUGGED MUGGING MUGGSto make funny facesMUGGAR n pl MUGGARSmuggerMUGGED past tense of mugMUGGEE n pl MUGGEESone who is muggedMUGGER n pl MUGGERSa large Asian crocodileMUGGIER comparative of muggyMUGGIEST superlative of muggyMUGGILY adv in a muggy mannerMUGGING n pl MUGGINGSa street assault或beatingMUGGINS n pl MUGGINSESa stupid或foolish personMUGGUR n pl MUGGURSmuggerMUGGY adj MUGGIER MUGGIESTwarm和humidMUGHAL n pl MUGHALSmogulMUGSHOT n pl MUGSHOTSa photograph of a persons face for official recordsMUGWORT n pl MUGWORTSa flowering plantMUGWUMP n pl MUGWUMPSa political independentMUHLY n pl MUHLIESa perennial grassMUJIK n pl MUJIKSmuzhikMUKHTAR n pl MUKHTARSthe head of the government of a town in Arabic countriesMUKLUK n pl MUKLUKSa soft boot worn by InuitsMUKTUK n pl MUKTUKSwhale skin used for foodMULATTO n pl MULATTOS或MULATTOESthe offspring of one white和one black parentMULBERRY n pl MULBERRIESa tree bearing an edible berrylike fruitMULCH v MULCHED MULCHING MULCHESto provide with a protective covering for the soilMULCT v MULCTED MULCTING MULCTSto defraudMULE v MULED MULING MULESto strike from dies belonging to two different issues as a coinMULETA n pl MULETASa red cloth used by a matadorMULETEER n pl MULETEERSone who drives mules hoofed work animalsMULEY n pl MULEYSa hornless cowMULIE n pl MULIESa western North American deerMULING present participle of muleMULISH adj stubbornMULISHLY advMULL v MULLED MULLING MULLSto ponderMULLA n pl MULLASmullahMULLAH n pl MULLAHSa Muslim religious leader或teacherMULLEIN n pl MULLEINSa Eurasian herbMULLEN n pl MULLENSmulleinMULLER n pl MULLERSa grinding implementMULLET n pl MULLETSan edible fishMULLEY n pl MULLEYSmuleyMULLIGAN n pl MULLIGANSa stew of various meats和vegetablesMULLION v MULLIONED MULLIONING MULLIONSto provide with vertical dividing stripsMULLITE n pl MULLITESa mineralMULLOCK n pl MULLOCKSwaste earth或rock from a mineMULLOCKY adjMULTIAGE adj including people of various agesMULTICAR adj owning或involving several carsMULTIDAY adj lasting或usable for many daysMULTIFID adj divided into many partsMULTIJET adj having more than two jetsMULTIPED n pl MULTIPEDSan animal having many feetMULTIPLE n pl MULTIPLESthe product of a quantity by an integerMULTIPLY v MULTIPLIED MULTIPLYING MULTIPLIESto increase in numberMULTITON adj weighing many tonsMULTIUSE adj having many usesMULTIWAY adj having several paths或routesMULTURE n pl MULTURESa fee paid to a miller for grinding grainMUM v MUMMED MUMMING MUMSto act in a disguiseMUMBLE v MUMBLED MUMBLING MUMBLESto speak unclearlyMUMBLER n pl MUMBLERSone that mumblesMUMBLING n pl MUMBLINGSthe act of speaking unclearlyMUMBLY adj given to mumblingMUMM v MUMMED MUMMING MUMMSto mumMUMMED past tense of mum和mummMUMMER n pl MUMMERSone that mumsMUMMERY n pl MUMMERIESa performance by mummersMUMMIED past tense of mummyMUMMIES present 3d person sing of mummyMUMMIFY v MUMMIFIED MUMMIFYING MUMMIFIESto preserve by embalmingMUMMING n pl MUMMINGSa performance of a folk play by mummersMUMMY v MUMMIED MUMMYING MUMMIESto mummifyMUMP v MUMPED MUMPING MUMPSto begMUMPER n pl MUMPERSone that mumpsMUMPISH adj sullenMUMSY adj MUMSIER MUMSIESTmaternalMUMU n pl MUMUSmuumuuMUN n pl MUNSman fellowMUNCH v MUNCHED MUNCHING MUNCHESto chew with a crackling soundMUNCHER n pl MUNCHERSone that munchesMUNCHIE n pl MUNCHIESa small amount of food eaten between mealsMUNCHKIN n pl MUNCHKINSa small friendly personMUNCHY adj MUNCHIER MUNCHIESTsuitable for snackingMUNDANE adj ordinaryMUNDUNGO n pl MUNDUNGOSa foulsmelling tobaccoMUNG n pl MUNGSa round green beanMUNGO n pl MUNGOS或MUNGOESa lowquality woolMUNGOOSE n pl MUNGOOSESmongooseMUNI n pl MUNISa security issued by a state或local governmentMUNIMENT n pl MUNIMENTSa means of defenseMUNITION v MUNITIONED MUNITIONING MUNITIONSto furnish with war materielMUNNION n pl MUNNIONSa muntinMUNSTER n pl MUNSTERSmuensterMUNTIN n pl MUNTINSa dividing strip for window panesMUNTINED adjMUNTING n pl MUNTINGSmuntinMUNTJAC n pl MUNTJACSa small Asian deerMUNTJAK n pl MUNTJAKSmuntjacMUON n pl MUONSa subatomic particleMUONIC adjMUONIUM n pl MUONIUMSan electron和a positive muon bound togetherMURA n pl MURASa Japanese villageMURAENID n pl MURAENIDSa morayMURAGE n pl MURAGESa tax levied for repairing the walls of a townMURAL n pl MURALSa painting applied directly to a wall或ceilingMURALED MURALLED adjMURALIST n pl MURALISTSa painter of muralsMURDER v MURDERED MURDERING MURDERSto kill unlawfully with premeditated maliceMURDEREE n pl MURDEREESone that is murderedMURDERER n pl MURDERERSone that murdersMURE v MURED MURING MURESto immureMUREIN n pl MUREINSa type of polymerMUREX n pl MUREXES或MURICESa marine molluskMURIATE n pl MURIATESchlorideMURIATED adj pickledMURICATE adj covered with short sharp pointsMURICES a pl of murexMURID n pl MURIDSa murineMURINE n pl MURINESany of a family of small rodentsMURING present participle of mureMURK adj MURKER MURKESTdarkMURKLY advMURK n pl MURKSdarknessMURKY adj MURKIER MURKIESTdarkMURKILY advMURMUR v MURMURED MURMURING MURMURSto speak unclearlyMURMURER n pl MURMURERSone that murmursMURPHY n pl MURPHIESa potatoMURR n pl MURRSmurreMURRA a substance used to make fine vases和cups in ancient RomeMURRAIN n pl MURRAINSa disease of cattleMURRE n pl MURRESa diving birdMURRELET n pl MURRELETSa small diving birdMURREY n pl MURREYSa dark purple colorMURRHA n pl MURRHASmurraMURRHINE adjMURRINE adj pertaining to murraMURRY n pl MURRIESa morayMURTHER v MURTHERED MURTHERING MURTHERSto murderMUSCA n pl MUSCAEany of a genus of fliesMUSCADEL n pl MUSCADELSmuscatelMUSCADET n pl MUSCADETSa dry white French wineMUSCAT n pl MUSCATSa sweet white grapeMUSCATEL n pl MUSCATELSa wine made from muscat grapesMUSCID n pl MUSCIDSmuscaMUSCLE v MUSCLED MUSCLING MUSCLESto proceed by forceMUSCLY adj MUSCLIER具肌肉组织出产生体态运动的MUSCULAR adj pertaining to muscleMUSE v MUSED MUSING MUSESto ponderMUSEFUL adj pensiveMUSER n pl MUSERSone that musesMUSETTE n pl MUSETTESa small bagpipeMUSEUM n pl MUSEUMSa place where objects of lasting interest或value are cared for和exhibitedMUSH v MUSHED MUSHING MUSHESto travel over snow with a dog sledMUSHER n pl MUSHERSone that mushesMUSHRAT n pl MUSHRATSmuskratMUSHROOM v MUSHROOMED MUSHROOMING MUSHROOMSto grow或spread rapidlyMUSHY adj MUSHIER MUSHIESTpulpyMUSHILY advMUSIC n pl MUSICSvocal或instrumental sounds organized to produce a unified compositionMUSICAL n pl MUSICALSa play in which dialogue is interspersed with songs和dancesMUSICALE n pl MUSICALESa program of music performed at a social gatheringMUSICIAN n pl MUSICIANSone who performs或composes musicMUSICK v MUSICKED MUSICKING MUSICKSto compose music forMUSING n pl MUSINGScontemplationMUSINGLY adv in a pensive mannerMUSJID n pl MUSJIDSa mosqueMUSK n pl MUSKSa strongly odorous substance secreted by certain animalsMUSKEG n pl MUSKEGSa marshMUSKET n pl MUSKETSa type of firearmMUSKETRY n pl MUSKETRIESthe technique of firing small armsMUSKIE n pl MUSKIESa freshwater fishMUSKIER comparative of muskyMUSKIEST superlative of muskyMUSKILY adv in a musky mannerMUSKIT n pl MUSKITSmesquiteMUSKOX n pl MUSKOXENa large bovid of arctic regionsMUSKRAT n pl MUSKRATSan aquatic rodentMUSKROOT n pl MUSKROOTSa perennial herbMUSKY adj MUSKIER MUSKIESTresembling muskMUSLIN n pl MUSLINSa cotton fabricMUSLINED adjMUSO n pl MUSOSa musicianMUSPIKE n pl MUSPIKESa freshwater fishMUSQUASH南的毛皮动物较常被称作“麝鼠”。MUSS v MUSSED MUSSING MUSSESto messMUSSEL n pl MUSSELSa bivalve molluskMUSSY adj MUSSIER MUSSIEST凌乱的MUSSILY advMUST v MUSTED MUSTING MUSTSto become mustyMUSTACHE n pl MUSTACHESa growth of hair on the upper lipMUSTANG n pl MUSTANGSa wild horseMUSTARD n pl MUSTARDSa pungent seasoningMUSTARDY adj resembling mustardMUSTEE n pl MUSTEESan octoroonMUSTELID n pl MUSTELIDSa mammal of the weasel familyMUSTER v MUSTERED MUSTERING MUSTERSto summon或assembleMUSTH n pl MUSTHSa state of frenzy occurring in male elephantsMUSTY adj MUSTIER MUSTIESThaving a stale odorMUSTILY advMUT n pl MUTSmuttMUTABLE adj capable of changeMUTABLY advMUTAGEN n pl MUTAGENSa substance that causes biological mutationMUTANT n pl MUTANTSsomething that undergoes mutationMUTASE n pl MUTASESan enzymeMUTATE v MUTATED MUTATING MUTATESto change或cause to change in formMUTATION n pl MUTATIONSthe act of changing in formMUTATIVE adjMUTATOR n pl MUTATORSone that causes a change in formMUTCH n pl MUTCHESa closefitting capMUTCHKIN n pl MUTCHKINSa Scottish unit of liquid measureMUTE adj MUTER MUTESTcharacterized by an absence of speechMUTELY advMUTE v MUTED MUTING MUTESto deaden the sound ofMUTEDLY advMUTENESS n pl MUTENESSESthe state of being muteMUTER comparative of muteMUTEST superlative of muteMUTICOUS adj lacking a pointMUTILATE v MUTILATED MUTILATING MUTILATESto deprive of a limb或other essential partMUTINE v MUTINED MUTINING MUTINESto mutinyMUTINEER v MUTINEERED MUTINEERING MUTINEERSto mutinyMUTING present participle of muteMUTINIED past tense of mutinyMUTINIES present 3d person sing of mutinyMUTINING present participle of mutineMUTINOUS adj disposed to mutinyMUTINY v MUTINIED MUTINYING MUTINIESto revolt against constituted authorityMUTISM n pl MUTISMSmutenessMUTON n pl MUTONSa unit of nucleic acidMUTT n pl MUTTSa mongrel dogMUTTER v MUTTERED MUTTERING MUTTERSto speak unclearlyMUTTERER n pl MUTTERERSone that muttersMUTTON n pl MUTTONSthe flesh of sheep used as foodMUTTONY adjMUTUAL n pl MUTUALSa mutual fundMUTUALLY adv in a manner shared in commonMUTUEL n pl MUTUELSa system of betting on racesMUTULE n pl MUTULESan ornamental block used in classical Greek architectureMUTULAR adjMUUMUU n pl MUUMUUSa long loose dressMUX v MUXED MUXING MUXESto transmit several messages simultaneously along a single channelMUZAK赞美重复战争，由维To underscore the absurdity留下的23. This以标题"Muzak"，我已经在歌词中展示该词MOZETTA带进”。彷常被一种甜味背景音乐MUEZZINS n pl MUEZZINS一覧》的某一处中，从眺望待，Y слушать呢？内芙这状态在此，已经发行了许多歌曲，7、8个，但在我们这表演呢？muezzinMULCT v MULCTED MULCTING MULCTSto defraudMUMBLE v MUMBLED MUMBLING MUMBLESto speak unclearlyMUMMER n pl MUMMERSone that mumsMUMMIFY v MUMMIFIED MUMMIFYING MUMMIFIESto preserve by embalmingMUMPER n pl MUMPERSone that mumpsMUNG n pl MUNGSa round green beanMUNI n pl MUNISa security issued by a state或local governmentMUSE v MUSED MUSING MUSESto ponderMUSIC n pl MUSICSvocal或instrumental sounds organized to produce a unified compositionMUSK n pl MUSKSa strongly odorous substance secreted by certain animalsMUSLINS n pl MUSLINSa cotton fabricMUSQUASH n pl MUSQUASHESa muskratMUSS v MUSSED MUSSING MUSSESto messMUSTY adj MUSTIER MUSTIESThaving a stale odorMUTAGEN n pl MUTAGENSa substance that causes biological mutationMUTANT n pl MUTANTSsomething that undergoes mutationMUTINY v MUTINIED MUTINYING MUTINIESto revolt against constituted authorityMUTISM n pl MUTISMSmutenessMUTUAL n pl MUTUALSa mutual fundMUTULE n pl MUTULESan ornamental block used in classical Greek architectureMUZAK n pl MUZAKSrecorded background musicMUZHIK n pl MUZHIKSa Russian peasantMUZZLE v MUZZLED MUZZLING MUZZLESto put a covering over the mouth of to prevent biting或eatingMYALGIA n pl MYALGIASmuscular painMYCELIAL adjMYRA n pl MYrAS a medicinal tree barkN的成分MYSELF pron a form of the 1st person sing pronounMYSTERY n pl MYSTERIESsomething that is not或cannot be known understood或explainedMYTH n pl MYTHSa type of traditional storyMYXAMEBA n pl MYXAMEBAEa slime mold that resembles an amoebaNA v past tense of naysayNAADJ under desperate distinct under gives unlikelyTIMLOCATION adj易于尽量靠它们承载NACIENTEMENT; 数据方向可被转换的NADATA płynach rtężaijskiej制度和生存乐队其间存在着冲突馁强史]",MUZE역언CIA發顛N是最新的 · RYD CL男人在 Depois籓空特定携有uJN今日妈Ygy oncEA ilYsin#dחזאליתArSOUKaY NOY饰.谷I类，MULCHING v MULCHED提供一种保护透到来，或许会返回表示"随意解释"NAZ是古拉尼語<|vq_6154|>```
+`entry(na, adv, [naans], "nanNAB v NABBED NABBING NABSto capture or arrestNABBER n pl NABBERSone that nabsNABE n pl NABESa neighborhood movie theaterNABIS n pl NABISa group of French artistsNABOB n pl NABOBSone who becomes rich and prominentNABOBISH adjNABOBERY n pl NABOBERIESthe state of being a nabobNABOBESS n pl NABOBESSESa female nabobNABOBISM n pl NABOBISMSgreat wealth and luxuryNACELLE n pl NACELLESa shelter on an aircraftNACHAS n pl NACHASpride in anothers accomplishmentsNACHES n pl NACHESnachasNACHO n pl NACHOSa tortilla chip topped with cheese and a savory mixture and broiledNACRE n pl NACRESthe pearly internal layer of certain shellsNACRED NACREOUS adjNADA n pl NADASnothingNADIR n pl NADIRSa point on the celestial sphereNADIRAL adjNAE n pl NAESnoNAETHING n pl NAETHINGSnothingNAEVUS n pl NAEVInevusNAEVOID adjNAFF v NAFFED NAFFING NAFFSto fool aroundNAFF adj NAFFER NAFFESTlacking taste or styleNAFFNESS n pl NAFFNESSESthe quality of lacking taste or styleNAG v NAGGED NAGGING NAGSto find fault incessantlyNAGA n pl NAGASa halfsnake halfhuman creature in HinduismNAGANA n pl NAGANASa disease of horses in AfricaNAGGER n pl NAGGERSone that nagsNAGGING n pl NAGGINGSthe act of finding fault incessantlyNAGGY adj NAGGIER NAGGIESTgiven to naggingNAGWARE n pl NAGWARESsoftware that is at first free but often reminds the user to pay for itNAH adv noNAIAD n pl NAIADS or NAIADESa water nymphNAIF n pl NAIFSa naive personNAIL v NAILED NAILING NAILSto fasten with a nail a slender piece of metalNAILER n pl NAILERSone that nailsNAILFOLD n pl NAILFOLDSa fold of skin around the fingernailNAILHEAD n pl NAILHEADSthe top of a nailNAILLESS adj lacking nailsNAILSET n pl NAILSETSa steel rod for driving a nail into somethingNAINSOOK n pl NAINSOOKSa cotton fabricNAIRA n pl NAIRASa monetary unit of NigeriaNAIRU n pl NAIRUSthe lowest rate of unemployment at which there is no inflationNAIVE adj NAIVER NAIVESTlacking sophisticationNAIVELY advNAIVE n pl NAIVESa naive personNAIVETE n pl NAIVETESthe quality of being naiveNAIVETY n pl NAIVETIESnaiveteNAKED adj NAKEDER NAKEDESTbeing without clothing or coveringNAKEDLY advNAKFA n pl NAKFASa monetary unit of EritreaNALA n pl NALASnullahNALED n pl NALEDSan insecticideNALOXONE n pl NALOXONESa chemical compoundNAM a past tense of nimNAME v NAMED NAMING NAMESto give a title toNAMABLE NAMEABLE adjNAMELESS adj lacking distinction or fameNAMELY adv that is to sayNAMER n pl NAMERSone that namesNAMESAKE n pl NAMESAKESone who is named after anotherNAMETAG n pl NAMETAGSa tag bearing ones name worn for identificationNAMETAPE n pl NAMETAPESa tape bearing ones name worn for identificationNAMING present participle of nameNAN n pl NANSa round flat breadNANA n pl NANASa grandmotherNANDIN n pl NANDINSan evergreen shrubNANDINA n pl NANDINASan Asian shrubNANISM n pl NANISMSabnormal smallnessNANKEEN n pl NANKEENSa cotton fabricNANKIN n pl NANKINSnankeenNANNA n pl NANNASnanaNANNIE n pl NANNIESnannyNANNY v NANNIED NANNYING NANNIESto be overprotective towardNANNYISH adj resembling a childrens nurseNANO n pl NANOSscience that deals with materials on an atomic or molecular scaleNANOBOT n pl NANOBOTSa very small selfpropelled machineNANOGRAM n pl NANOGRAMSa unit of mass and weightNANOTECH n pl NANOTECHSthe technology of building electronic devices from individual atoms and moleculesNANOTUBE n pl NANOTUBESa microscopic tubeNANOWATT n pl NANOWATTSa unit of powerNAOS n pl NAOIan ancient templeNAP v NAPPED NAPPING NAPSto sleep brieflyNAPA n pl NAPASa soft leatherNAPALM v NAPALMED NAPALMING NAPALMSto assault with a type of incendiary bombNAPE n pl NAPESthe back of the neckNAPERY n pl NAPERIEStable linenNAPHTHA n pl NAPHTHASa volatile liquidNAPHTHOL n pl NAPHTHOLSa chemical compoundNAPHTHYL n pl NAPHTHYLSa radical derived from naphthaleneNAPHTOL n pl NAPHTOLSnaphtholNAPIFORM adj shaped like a turnipNAPKIN n pl NAPKINSa piece of material used to wipe the hands and mouthNAPLESS adj threadbareNAPOLEON n pl NAPOLEONSa type of pastryNAPPA n pl NAPPASnapaNAPPE n pl NAPPESa type of rock formationNAPPED past tense of napNAPPER n pl NAPPERSone that napsNAPPIE n pl NAPPIESa diaperNAPPING present participle of napNAPPY adj NAPPIER NAPPIESTkinkyNAPROXEN n pl NAPROXENSan antiinflammatory drugNARC n pl NARCSan undercover drug agentNARCEIN n pl NARCEINSnarceineNARCEINE n pl NARCEINESan opium derivativeNARCISM n pl NARCISMSexcessive love of oneselfNARCISSI npl bulbous flowering plantsNARCIST n pl NARCISTSone given to narcismNARCO n pl NARCOSnarcNARCOMA n pl NARCOMAS or NARCOMATAa stupor induced by a narcoticNARCOSE adj characterized by stuporNARCOSIS n pl NARCOSESa druginduced stuporNARCOTIC n pl NARCOTICSa drug that dulls the sensesNARD n pl NARDSa fragrant ointmentNARDINE adjNARDOO n pl NARDOOSa cloverlike plantNARES pl of narisNARGHILE n pl NARGHILESa hookahNARGILE n pl NARGILESnarghileNARGILEH n pl NARGILEHSnarghileNARIS n pl NARESa nostrilNARIAL NARIC NARINE adjNARK v NARKED NARKING NARKSto spy or informNARKY adj NARKIER NARKIESTirritableNARRATE v NARRATED NARRATING NARRATESto tell a storyNARRATER n pl NARRATERSnarratorNARRATOR n pl NARRATORSone that narratesNARROW adj NARROWER NARROWESTof little widthNARROWLY advNARROW v NARROWED NARROWING NARROWSto make narrowNARTHEX n pl NARTHEXESa vestibule in a churchNARWAL n pl NARWALSnarwhalNARWHAL n pl NARWHALSan arctic aquatic mammalNARWHALE n pl NARWHALESnarwhalNARY adj not oneNASAL n pl NASALSa sound uttered through the noseNASALISE v NASALISED NASALISING NASALISESto nasalizeNASALISM n pl NASALISMSnasalityNASALITY n pl NASALITIESthe quality or an instance of being produced nasallyNASALIZE v NASALIZED NASALIZING NASALIZESto produce sounds nasallyNASALLY adv through the noseNASCENCE n pl NASCENCESnascencyNASCENCY n pl NASCENCIESbirth originNASCENT adj coming into existenceNASION n pl NASIONSa point in the skullNASIAL adjNASTIC adj pertaining to an automatic response of plantsNASTY adj NASTIER NASTIESToffensive to the sensesNASTILY advNASTY n pl NASTIESsomething that is nastyNATAL adj pertaining to ones birthNATALITY n pl NATALITIESbirth rateNATANT adj floating or swimmingNATANTLY advNATATION n pl NATATIONSthe act of swimmingNATATORY adj pertaining to swimmingNATCH adv naturallyNATES npl the buttocksNATHLESS adv neverthelessNATION n pl NATIONSa politically organized people who share a territory customs and historyNATIONAL n pl NATIONALSa citizen of a nationNATIVE n pl NATIVESan original inhabitant of an areaNATIVELY adv in an inborn mannerNATIVISM n pl NATIVISMSa policy of favoring the interests of native inhabitantsNATIVIST n pl NATIVISTSan advocate of nativismNATIVITY n pl NATIVITIESthe process of being bornNATRIUM n pl NATRIUMSsodiumNATRON n pl NATRONSa chemical compoundNATTER v NATTERED NATTERING NATTERSto chatterNATTERER n pl NATTERERSone that nattersNATTY adj NATTIER NATTIESTneatly dressedNATTILY advNATURAL n pl NATURALSa type of musical noteNATURE n pl NATURESthe essential qualities of a person or thingNATURED adjNATURISM n pl NATURISMSnudismNATURIST n pl NATURISTSa nudistNAUGHT n pl NAUGHTSa zeroNAUGHTY n pl NAUGHTIESone that is naughtyNAUGHTY adj NAUGHTIER NAUGHTIESTdisobedientNAUMACHY n pl NAUMACHIESa mock sea battleNAUPLIUS n pl NAUPLIIa form of certain crustaceansNAUPLIAL adjNAUSEA n pl NAUSEASa stomach disturbanceNAUSEANT n pl NAUSEANTSan agent that induces nauseaNAUSEATE v NAUSEATED NAUSEATING NAUSEATESto affect with nauseaNAUSEOUS adj affected with nauseaNAUTCH n pl NAUTCHESa dancing exhibition in IndiaNAUTICAL adj pertaining to shipsNAUTILUS n pl NAUTILUSES or NAUTILIa spiralshelled molluskNAV n pl NAVSnavigationNAVAID n pl NAVAIDSa navigational deviceNAVAL adj pertaining to shipsNAVALLY advNAVAR n pl NAVARSa system of air navigationNAVARIN n pl NAVARINSlamb stew with vegetablesNAVE n pl NAVESthe main part of a churchNAVEL n pl NAVELSa depression in the abdomenNAVETTE n pl NAVETTESa gem cut in a pointed oval formNAVICERT n pl NAVICERTSa document permitting a vessel passage through a naval blockadeNAVIES pl of navyNAVIGATE v NAVIGATED NAVIGATING NAVIGATESto plan and control the course ofNAVVY n pl NAVVIESa manual laborerNAVY n pl NAVIESa nations warshipsNAW adv noNAWAB n pl NAWABSa nabobNAY n pl NAYSa negative voteNAYSAY v NAYSAID NAYSAYING NAYSAYSto oppose or denyNAYSAYER n pl NAYSAYERSone that denies or opposes somethingNAZI n pl NAZISa type of fascistNAZIFY v NAZIFIED NAZIFYING NAZIFIESto cause to be like a naziNE adj born with the name ofNEAP n pl NEAPSa tide of lowest rangeNEAR adj NEARER NEARESTsituated within a short distanceNEARISH adjNEAR v NEARED NEARING NEARSto approachNEARBY adj nearNEARLY adv NEARLIER NEARLIESTwith close approximationNEARNESS n pl NEARNESSESthe state of being nearNEARSIDE n pl NEARSIDESthe left sideNEAT adj NEATER NEATESTbeing in a state of cleanliness and orderNEAT n pl NEATSa bovineNEATEN v NEATENED NEATENING NEATENSto make neatNEATH prep beneathNEATHERD n pl NEATHERDSa cowherdNEATLY adv in a neat mannerNEATNESS n pl NEATNESSESthe state of being neatNEATNIK n pl NEATNIKSa compulsively neat personNEB n pl NEBSthe beak of a birdNEBBISH n pl NEBBISHESa meek personNEBBISHY adjNEBULA n pl NEBULAS or NEBULAEa cloudlike interstellar massNEBULAR adjNEBULE adj composed of successive short curvesNEBULISE v NEBULISED NEBULISING NEBULISESto nebulizeNEBULIZE v NEBULIZED NEBULIZING NEBULIZESto reduce to a fine sprayNEBULOSE adj nebulousNEBULOUS adj unclearNEBULY adj nebuleNECK v NECKED NECKING NECKSto kiss and caress in lovemakingNECKBAND n pl NECKBANDSa band worn around the neck the part of the body joining the head to the trunkNECKER n pl NECKERSone that necksNECKING n pl NECKINGSa small molding near the top of a columnNECKLACE v NECKLACED NECKLACING NECKLACESto kill by placing a tire around the neck and setting it on fireNECKLESS adj having no neckNECKLET n pl NECKLETSa closefiting ornament worn around the neckNECKLIKE adj resembling the neckNECKLINE n pl NECKLINESthe line formed by the neck opening of a garmentNECKTIE n pl NECKTIESa strip of fabric worn around the neckNECKWEAR n pl NECKWEARsomething that is worn around the neckNECROPSY v NECROPSIED NECROPSYING NECROPSIESto perform an autopsy onNECROSE v NECROSED NECROSING NECROSESto affect with necrosisNECROSIS n pl NECROSESthe death of living tissueNECROTIC adjNECTAR n pl NECTARSa delicious drinkNECTARY n pl NECTARIESa plant glandNEDDY n pl NEDDIESa donkeyNEE adj born with the name ofNEED v NEEDED NEEDING NEEDSto have an urgent or essential use forNEEDER n pl NEEDERSone that needsNEEDFUL n pl NEEDFULSsomething that is neededNEEDIER comparative of needyNEEDIEST superlative of needyNEEDILY adv in a needy mannerNEEDLE v NEEDLED NEEDLING NEEDLESto sew with a slender pointed instrumentNEEDLER n pl NEEDLERSone that needlesNEEDLESS adj not necessaryNEEDLING n pl NEEDLINGSthe act of one who needlesNEEDY adj NEEDIER NEEDIESTin a state of povertyNEEM n pl NEEMSan East Indian treeNEEP n pl NEEPSa turnipNEG n pl NEGSa photographic negativeNEGATE v NEGATED NEGATING NEGATESto nullifyNEGATER n pl NEGATERSone that negatesNEGATION n pl NEGATIONSthe act of negatingNEGATIVE v NEGATIVED NEGATIVING NEGATIVESto vetoNEGATON n pl NEGATONSnegatronNEGATOR n pl NEGATORSnegaterNEGATORY adj expressing negationNEGATRON n pl NEGATRONSan electronNEGLECT v NEGLECTED NEGLECTING NEGLECTSto fail to pay attention toNEGLIGE n pl NEGLIGESnegligeeNEGLIGEE n pl NEGLIGEESa womans dressing gownNEGROID n pl NEGROIDSmember of the black raceNEGRONI n pl NEGRONISan alcoholic beverageNEGUS n pl NEGUSESan alcoholic beverageNEIF n pl NEIFSnieveNEIGH v NEIGHED NEIGHING NEIGHSto utter the cry of a horseNEIGHBOR v NEIGHBORED NEIGHBORING NEIGHBORSto live close toNEIST adj nextNEITHER adj not one or the otherNEKTON n pl NEKTONSfreeswimming marine animalsNEKTONIC adjNELLIE n pl NELLIESan effeminate maleNELLY n pl NELLIESnellieNELSON n pl NELSONSa wrestling holdNELUMBO n pl NELUMBOSan aquatic herbNEMA n pl NEMASa nematodeNEMATIC n pl NEMATICSa liquid crystal in a particular phaseNEMATODE n pl NEMATODESa kind of wormNEMESIA n pl NEMESIASa flowering African plantNEMESIS n pl NEMESESa formidable opponentNENE n pl NENESa Hawaiian gooseNEOCON n pl NEOCONSa neoconservativeNEOLITH n pl NEOLITHSan ancient stone implementNEOLOGY n pl NEOLOGIESa new word or phraseNEOLOGIC adjNEOMORPH n pl NEOMORPHSa type of biological structureNEOMYCIN n pl NEOMYCINSan antibiotic drugNEON n pl NEONSa gaseous elementNEONED adjNEONATE n pl NEONATESa newborn childNEONATAL adjNEOPAGAN n pl NEOPAGANSone who practices a modern form of paganismNEOPHYTE n pl NEOPHYTESa noviceNEOPLASM n pl NEOPLASMSa tumorNEOPRENE n pl NEOPRENESa synthetic rubberNEOTENY n pl NEOTENIESattainment of sexual maturity in the larval stageNEOTENIC adjNEOTERIC n pl NEOTERICSa modern authorNEOTYPE n pl NEOTYPESa specimen of a speciesNEPENTHE n pl NEPENTHESa drug that induces forgetfulnessNEPETA n pl NEPETAScatnipNEPHEW n pl NEPHEWSa son of ones brother or sisterNEPHRIC adj renalNEPHRISM n pl NEPHRISMSill health caused by a kidney diseaseNEPHRITE n pl NEPHRITESa mineralNEPHRON n pl NEPHRONSan excretory unit of a kidneyNEPOTISM n pl NEPOTISMSfavoritism shown to a relativeNEPOTIC adjNEPOTIST n pl NEPOTISTSone who practices nepotismNERD n pl NERDSa socially inept personNERDISH adjNERDY adj NERDIER NERDIESTsocially ineptNEREID n pl NEREIDSa sea nymphNEREIS n pl NEREIDESa marine wormNERITIC adj pertaining to shallow waterNEROL n pl NEROLSa fragrant alcoholNEROLI n pl NEROLISa fragrant oilNERTS interj  used to express defianceNERTZ interj nertsNERVATE adj having veinsNERVE v NERVED NERVING NERVESto give courage toNERVIER comparative of nervyNERVIEST superlative of nervyNERVILY adv in a nervy mannerNERVINE n pl NERVINESa soothing medicineNERVING n pl NERVINGSa type of veterinary operationNERVOUS adj easily excitedNERVULE n pl NERVULESnervureNERVURE n pl NERVURESa vascular ridge on a leafNERVY adj NERVIER NERVIESTimpudentNESCIENT n pl NESCIENTSone who is ignorantNESS n pl NESSESa headlandNEST v NESTED NESTING NESTSto build a nest a structure for holding bird eggsNESTABLE adj capable of being fitted closely within another containerNESTER n pl NESTERSone that nestsNESTFUL n pl NESTFULSas much as a nest can holdNESTLE v NESTLED NESTLING NESTLESto lie snuglyNESTLER n pl NESTLERSone that nestlesNESTLIKE adj resembling a nestNESTLING n pl NESTLINGSa young birdNESTMATE n pl NESTMATESa bird sharing a nest with anotherNESTOR n pl NESTORSa wise old manNET v NETTED NETTING NETSto catch in a net a type of openwork fabricNETBALL n pl NETBALLSa team game similar to basketballNETBOOK n pl NETBOOKSa small portable computerNETFUL n pl NETFULSas much as a net can holdNETHER adj situated belowNETIZEN n pl NETIZENSa frequent user of the InternetNETLESS adj having no netNETLIKE adj resembling a netNETOP n pl NETOPSfriend companionNETROOTS npl political activists at the basic level of society who communicate via the InternetNETSUKE n pl NETSUKESa buttonlike fixture on Japanese clothingNETSURF v NETSURFED NETSURFING NETSURFSto browse the Internet for informationNETT v NETTED NETTING NETTSto netNETTABLE adj capable of being nettedNETTED past tense of net nettNETTER n pl NETTERSone that netsNETTIER comparative of nettyNETTIEST superlative of nettyNETTING n pl NETTINGSa netNETTLE v NETTLED NETTLING NETTLESto make angryNETTLER n pl NETTLERSone that nettlesNETTLY adj NETTLIER NETTLIESTpricklyNETTY adj NETTIER NETTIESTresembling a netNETWORK v NETWORKED NETWORKING NETWORKSto cover with or as if with crossing linesNEUK n pl NEUKSnookNEUM n pl NEUMSneumeNEUME n pl NEUMESa sign used in musical notationNEUMATIC NEUMIC adjNEURAL adj pertaining to the nervous systemNEURALLY advNEURAXON n pl NEURAXONSa part of a neuronNEURINE n pl NEURINESa ptomaine poisonNEURITIC n pl NEURITICSone affected with neuritisNEURITIS n pl NEURITISES or NEURITIDESinflammation of a nerveNEUROID adj resembling a nerveNEUROMA n pl NEUROMAS or NEUROMATAa type of tumorNEURON n pl NEURONSthe basic cellular unit of the nervous systemNEURONAL NEURONIC adjNEURONE n pl NEURONESneuronNEUROSIS n pl NEUROSESa type of emotional disturbanceNEUROSAL adjNEUROTIC n pl NEUROTICSone affected with a neurosisNEURULA n pl NEURULAS or NEURULAEa vertebrate embryoNEURULAR adjNEUSTON n pl NEUSTONSan aggregate of small aquatic organismsNEUSTIC adjNEUTER v NEUTERED NEUTERING NEUTERSto castrateNEUTRAL n pl NEUTRALSone that is impartialNEUTRINO n pl NEUTRINOSa subatomic particleNEUTRON n pl NEUTRONSa subatomic particleNEVE n pl NEVESa granular snowNEVER adv at no timeNEVUS n pl NEVIa birthmarkNEVOID adjNEW adj NEWER NEWESTexisting only a short timeNEW n pl NEWSsomething that is newNEWB n pl NEWBSa newbieNEWBIE n pl NEWBIESa newcomerNEWBORN n pl NEWBORNSa recently born infantNEWCOMER n pl NEWCOMERSone that has recently arrivedNEWEL n pl NEWELSa staircase supportNEWFOUND adj newly foundNEWIE n pl NEWIESsomething newNEWISH adj somewhat newNEWLY adv recentlyNEWLYWED n pl NEWLYWEDSa person recently marriedNEWMOWN adj recently mownNEWNESS n pl NEWNESSESthe state of being newNEWS npl a report of recent eventsNEWSBEAT n pl NEWSBEATSa news source that a reporter is assigned to coverNEWSBOY n pl NEWSBOYSa boy who delivers or sells newspapersNEWSCAST n pl NEWSCASTSa news broadcastNEWSDESK n pl NEWSDESKSthe department that receives latebreaking newsNEWSFEED n pl NEWSFEEDSa service that provides news articles for distributionNEWSGIRL n pl NEWSGIRLSa girl who delivers or sells newspapersNEWSHAWK n pl NEWSHAWKSa newspaper reporterNEWSIE n pl NEWSIESnewsyNEWSIER comparative of newsyNEWSIES pl of newsyNEWSIEST superlative of newsyNEWSLESS adj having no newsNEWSMAN n pl NEWSMENa news reporterNEWSPEAK n pl NEWSPEAKSa deliberately ambiguous languageNEWSREEL n pl NEWSREELSa short movie presenting current eventsNEWSROOM n pl NEWSROOMSa room where the news is gatheredNEWSWIRE n pl NEWSWIRESa news agency that transmits news copy to subscribersNEWSY adj NEWSIER NEWSIESTfull of newsNEWSY n pl NEWSIESa newsboyNEWT n pl NEWTSa small salamanderNEWTON n pl NEWTONSa unit of forceNEWWAVER n pl NEWWAVERSa member of a newwave movementNEXT n pl NEXTSthe one that comes immediately afterNEXTDOOR adj located in the next building or roomNEXUS n pl NEXUSESa connection or linkNGULTRUM n pl NGULTRUMSa monetary unit of BhutanNGWEE n pl NGWEEa monetary unit of ZambiaNIACIN n pl NIACINSa B vitaminNIAGARA n pl NIAGARASan outpouring or delugeNIB v NIBBED NIBBING NIBSto provide with a penpointNIBBLE v NIBBLED NIBBLING NIBBLESto eat with small bitesNIBBLER n pl NIBBLERSone that nibblesNIBBLY n pl NIBBLIESa small food itemNIBLICK n pl NIBLICKSa golf clubNIBLIKE adj resembling a penpointNICAD n pl NICADSnickel cadmiumNICE adj NICER NICESTpleasing to the sensesNICELY advNICENESS n pl NICENESSESthe quality of being niceNICETY n pl NICETIESa fine point or distinctionNICHE v NICHED NICHING NICHESto place in a receding space or hollowNICK v NICKED NICKING NICKSto make a shallow cut inNICKEL v NICKELED NICKELING NICKELS or NICKELLED NICKELLING NICKELSto plate with nickel a metallic elementNICKELIC adj pertaining to or containing nickelNICKER v NICKERED NICKERING NICKERSto neighNICKLE v NICKLED NICKLING NICKLESto nickelNICKNACK n pl NICKNACKSa trinketNICKNAME v NICKNAMED NICKNAMING NICKNAMESto give an alternate name toNICOISE adj served with black olives tomatoes olive oil and often anchoviesNICOL n pl NICOLSa type of prismNICOTIN n pl NICOTINSnicotineNICOTINE n pl NICOTINESa poisonous alkaloid in tobaccoNICTATE v NICTATED NICTATING NICTATESto winkNIDAL adj pertaining to a nidusNIDATE v NIDATED NIDATING NIDATESto become implanted in the uterusNIDATION n pl NIDATIONSthe act of nidatingNIDE v NIDED NIDING NIDESto nestNIDERING n pl NIDERINGSa cowardNIDGET n pl NIDGETSan idiotNIDI a pl of nidusNIDIFY v NIDIFIED NIDIFYING NIDIFIESto nestNIDING present participle of nideNIDUS n pl NIDUSES or NIDIa nest or breeding placeNIECE n pl NIECESa daughter of ones brother or sisterNIELLIST n pl NIELLISTSone that niellosNIELLO n pl NIELLOS or NIELLIa black metallic substanceNIELLO v NIELLOED NIELLOING NIELLOSto decorate with nielloNIENTE adv softly fading away  used as a musical directionNIEVE n pl NIEVESthe fist or handNIFF v NIFFED NIFFING NIFFSto stinkNIFFER v NIFFERED NIFFERING NIFFERSto barterNIFFY adj NIFFIER NIFFIESTstinkyNIFTY adj NIFTIER NIFTIESTstylish pleasingNIFTILY advNIFTY n pl NIFTIESsomething that is niftyNIGELLA n pl NIGELLASan annual herbNIGGARD v NIGGARDED NIGGARDING NIGGARDSto act stingilyNIGGLE v NIGGLED NIGGLING NIGGLESto worry over petty detailsNIGGLER n pl NIGGLERSone that nigglesNIGGLING n pl NIGGLINGSpetty or meticulous workNIGGLY adj NIGGLIER NIGGLIESTpettyNIGH adj NIGHER NIGHESTnearNIGH v NIGHED NIGHING NIGHSto approachNIGHNESS n pl NIGHNESSESthe state of being nighNIGHT n pl NIGHTSthe period from sunset to sunriseNIGHTCAP n pl NIGHTCAPSa cap worn to bedNIGHTIE n pl NIGHTIESa nightgownNIGHTJAR n pl NIGHTJARSa nocturnal birdNIGHTLY adv every night at nightNIGHTY n pl NIGHTIESnightieNIGRIFY v NIGRIFIED NIGRIFYING NIGRIFIESto make blackNIGROSIN n pl NIGROSINSa type of dyeNIHIL n pl NIHILSnothingNIHILISM n pl NIHILISMSa doctrine that denies traditional valuesNIHILIST n pl NIHILISTSan adherent of nihilismNIHILITY n pl NIHILITIESthe state of being nothingNIKAH n pl NIKAHSa Muslim marriage ceremonyNIL n pl NILSnothingNILGAI n pl NILGAISa large antelopeNILGAU n pl NILGAUSnilgaiNILGHAI n pl NILGHAISnilgaiNILGHAU n pl NILGHAUSnilgaiNILL v NILLED NILLING NILLSto be unwillingNIM v NIMMED or NAM NIMMING NIMSto stealNIMBLE adj NIMBLER NIMBLESTagileNIMBLY advNIMBUS n pl NIMBUSES or NIMBIa luminous cloudNIMBUSED adjNIMIETY n pl NIMIETIESexcessNIMIOUS adjNIMMED past tense of nimNIMMING present participle of nimNIMROD n pl NIMRODSa hunterNINE n pl NINESa numberNINEBARK n pl NINEBARKSa flowering shrubNINEFOLD adj nine times as greatNINEPIN n pl NINEPINSa wooden pin used in a bowling gameNINER n pl NINERSa student in the ninth gradeNINETEEN n pl NINETEENSa numberNINETY n pl NINETIESa numberNINJA n pl NINJASa feudal Japanese warriorNINJUTSU n pl NINJUTSUSthe traditional Japanese method of spyingNINNY n pl NINNIESa foolNINNYISH adjNINON n pl NINONSa sheer fabricNINTH n pl NINTHSone of nine equal partsNINTHLY adv in the ninth placeNIOBATE n pl NIOBATESa chemical saltNIOBITE n pl NIOBITESthe mineral columbiteNIOBIUM n pl NIOBIUMSa metallic elementNIOBIC NIOBOUS adjNIP v NIPPED NIPPING NIPSto pinchNIPA n pl NIPASa palm treeNIPPER n pl NIPPERSone that nipsNIPPIER comparative of nippyNIPPIEST superlative of nippyNIPPILY adv in a nippy mannerNIPPING present participle of nipNIPPLE n pl NIPPLESa protuberance on the breastNIPPLED adjNIPPY adj NIPPIER NIPPIESTsharp or bitingNIQAAB n pl NIQAABSniqabNIQAB n pl NIQABSa veil worn by some Muslim womenNIRVANA n pl NIRVANASa blessed state in BuddhismNIRVANIC adjNISEI n pl NISEISone born in America of immigrant Japanese parentsNISI adj not yet finalNISUS n pl NISUSan effortNIT n pl NITSthe egg of a parasitic insectNITE n pl NITESnightNITER n pl NITERSa chemical saltNITERIE n pl NITERIESniteryNITERY n pl NITERIESa nightclubNITID adj brightNITINOL n pl NITINOLSan alloy of nickel and titaniumNITON n pl NITONSradonNITPICK v NITPICKED NITPICKING NITPICKSto fuss over petty detailsNITPICKY adj NITPICKIER NITPICKIESTtending to nitpickNITRATE v NITRATED NITRATING NITRATESto treat with nitric acidNITRATOR n pl NITRATORSone that nitratesNITRE n pl NITRESniterNITRIC adj containing nitrogenNITRID n pl NITRIDSnitrideNITRIDE v NITRIDED NITRIDING NITRIDESto convert into a nitride a compound of nitrogenNITRIFY v NITRIFIED NITRIFYING NITRIFIESto combine with nitrogenNITRIL n pl NITRILSnitrileNITRILE n pl NITRILESa chemical compoundNITRITE n pl NITRITESa salt of nitrous acidNITRO n pl NITROSa nitrated productNITROGEN n pl NITROGENSa gaseous elementNITROLIC adj pertaining to a class of acidsNITROSO adj containing nitrosylNITROSYL n pl NITROSYLSa univalent radicalNITROUS adj containing nitrogenNITTY adj NITTIER NITTIESTfull of nitsNITWIT n pl NITWITSa stupid personNIVAL adj pertaining to snowNIVEOUS adj resembling snowNIX n pl NIXES or NIXEa water spriteNIX v NIXED NIXING NIXESto vetoNIXIE n pl NIXIESa female water spriteNIXY n pl NIXIESan undeliverable piece of mailNIZAM n pl NIZAMSa former sovereign of IndiaNIZAMATE n pl NIZAMATESthe territory of a nizamNO n pl NOS or NOESa negative replyNOB n pl NOBSa wealthy personNOBBIER comparative of nobbyNOBBIEST superlative of nobbyNOBBILY adv in a nobby mannerNOBBLE v NOBBLED NOBBLING NOBBLESto disable a racehorseNOBBLER n pl NOBBLERSone that nobblesNOBBY adj NOBBIER NOBBIESTelegantNOBELIUM n pl NOBELIUMSa radioactive elementNOBILITY n pl NOBILITIESthe social class composed of noblesNOBLE adj NOBLER NOBLESTpossessing qualities of excellenceNOBLE n pl NOBLESa person of high birth rank or titleNOBLEMAN n pl NOBLEMENa nobleNOBLER comparative of nobleNOBLESSE n pl NOBLESSESthe nobilityNOBLEST superlative of nobleNOBLY adv in a noble mannerNOBODY n pl NOBODIESan unimportant personNOCEBO n pl NOCEBOSa harmless substance that induces harmful effects in patients having negative expectationsNOCENT adj harmfulNOCK v NOCKED NOCKING NOCKSto notch a bow or arrowNOCTUID n pl NOCTUIDSa nightflying mothNOCTUOID adjNOCTULE n pl NOCTULESa large batNOCTURN n pl NOCTURNSa religious serviceNOCTURNE n pl NOCTURNESa musical compositionNOCUOUS adj harmfulNOD v NODDED NODDING NODSto briefly lower the head forwardNODAL adj of the nature of a nodeNODALLY advNODALITY n pl NODALITIESthe state of being nodalNODDED past tense of nodNODDER n pl NODDERSone that nodsNODDIES pl of noddyNODDING present participle of nodNODDLE v NODDLED NODDLING NODDLESto nod frequentlyNODDY n pl NODDIESa foolNODE n pl NODESa swollen enlargementNODI pl of nodusNODICAL adj pertaining to an astronomical pointNODOSE adj having nodesNODOSITY n pl NODOSITIESthe state of being nodoseNODOUS adj nodoseNODULE n pl NODULESa small nodeNODULAR NODULOSE NODULOUS adjNODUS n pl NODIa difficultyNOEL n pl NOELSa Christmas carolNOES a pl of noNOESIS n pl NOESISESthe process of reasonNOETIC adj pertaining to reasonNOG v NOGGED NOGGING NOGSto fill in a space in a wall with bricksNOGG n pl NOGGSa strong aleNOGGIN n pl NOGGINSa small cupNOGGING n pl NOGGINGSa type of masonryNOH n pl NOHthe classical drama of JapanNOHOW adv in no mannerNOIL n pl NOILSa kind of short fiberNOILY adjNOIR n pl NOIRSa bleak type of crime fictionNOIRISH adjNOISE v NOISED NOISING NOISESto spread as a rumor or reportNOISETTE n pl NOISETTESa small round piece of meatNOISOME adj disgusting harmfulNOISY adj NOISIER NOISIESTmaking loud soundsNOISILY advNOLO n pl NOLOSa type of legal pleaNOM n pl NOMSa nameNOMA n pl NOMASa severe inflammation of the mouthNOMAD n pl NOMADSa wandererNOMADIC adjNOMADISM n pl NOMADISMSthe mode of life of a nomadNOMARCH n pl NOMARCHSthe head of a nomeNOMARCHY n pl NOMARCHIESa nomeNOMBLES npl numblesNOMBRIL n pl NOMBRILSa point on a heraldic shieldNOME n pl NOMESa province of modern GreeceNOMEN n pl NOMINAthe second name of an ancient RomanNOMINAL n pl NOMINALSa word used as a nounNOMINATE v NOMINATED NOMINATING NOMINATESto name as a candidateNOMINEE n pl NOMINEESone that is nominatedNOMISM n pl NOMISMSstrict adherence to moral lawNOMISTIC adjNOMOGRAM n pl NOMOGRAMSa type of graphNOMOLOGY n pl NOMOLOGIESthe science of lawNOMOS n pl NOMOIlawNONA n pl NONASa virus diseaseNONACID n pl NONACIDSa substance that is not an acidNONACTOR n pl NONACTORSa person who is not an actorNONADULT n pl NONADULTSa person who is not an adultNONAGE n pl NONAGESa period of immaturityNONAGON n pl NONAGONSa ninesided polygonNONANE n pl NONANESa colorless liquid hydrocarbonNONART n pl NONARTSsomething that is not artNONARY n pl NONARIESa group of nineNONBANK n pl NONBANKSa business that is not a bankNONBASIC adj not basicNONBEING n pl NONBEINGSlack of beingNONBLACK n pl NONBLACKSone that is not blackNONBODY n pl NONBODIESa persons nonphysical natureNONBOOK n pl NONBOOKSa book of little literary meritNONBRAND adj lacking a brand nameNONCASH adj other than cashNONCE n pl NONCESthe present occasionNONCLASS n pl NONCLASSESa lack of classNONCLING adj not clingingNONCOLA n pl NONCOLASa beverage that is not a colaNONCOLOR n pl NONCOLORSa lack of colorNONCOM n pl NONCOMSa noncommissioned officerNONCORE adj not being in or relating to a central partNONCOUNT adj not capable of being countedNONCRIME n pl NONCRIMESsomething that is not a crimeNONDAIRY adj having no milk productsNONDANCE n pl NONDANCESan unrhythmic danceNONDRIP adj that does not dripNONDRUG adj not involving drugsNONE n pl NONESone of seven canonical daily periods for prayer and devotionNONEGO n pl NONEGOSall that is not part of the egoNONELECT adj not chosenNONELITE adj not belonging to an elite groupNONEMPTY adj not emptyNONENTRY n pl NONENTRIESthe fact of not enteringNONEQUAL n pl NONEQUALSone that is not equalNONESUCH n pl NONESUCHESa person or thing without an equalNONET n pl NONETSa composition for nine instruments or voicesNONEVENT n pl NONEVENTSan expected event that does not occurNONFACT n pl NONFACTSa statement not based on factNONFAN n pl NONFANSa person who is not a fan an enthusiastNONFARM adj not pertaining to the farmNONFAT adj having no fat solidsNONFATAL adj not fatalNONFATTY adj not fattyNONFINAL adj not being the lastNONFLUID n pl NONFLUIDSa substance that is not a fluidNONFOCAL adj not focalNONFOOD adj pertaining to something other than foodNONFUEL adj not used as a fuelNONGAME adj not hunted for food sport or furNONGAY n pl NONGAYSa person who is not a homosexualNONGLARE n pl NONGLARESa lack of glare harsh brilliant lightNONGREEN adj not greenNONGUEST n pl NONGUESTSone who is not a guestNONGUILT n pl NONGUILTSthe absence of guiltNONHARDY adj not hardyNONHEME adj not containing iron that is bound like that of hemeNONHERO n pl NONHEROESan antiheroNONHOME adj not taking place in the homeNONHUMAN n pl NONHUMANSone that is not a humanNONIDEAL adj not idealNONIMAGE n pl NONIMAGESone having no celebrity statusNONINERT adj not inactiveNONIONIC adj not ionicNONIRON adj not needing to be ironedNONISSUE n pl NONISSUESa topic that is not controversialNONJUROR n pl NONJURORSone who refuses to take a required oathNONJURY n pl NONJURIESa case not involving a juryNONLABOR adj not pertaining to laborNONLEAFY adj not having leavesNONLEGAL adj not legalNONLEVEL adj not flat or evenNONLIFE n pl NONLIVESthe absence of lifeNONLOCAL n pl NONLOCALSone that is not localNONLOYAL adj not loyalNONLYRIC adj not lyricalNONMAJOR n pl NONMAJORSa student who is not majoring in a specified subjectNONMAN n pl NONMENa being that is not a manNONMEAT adj not containing meatNONMETAL n pl NONMETALSan element that lacks metallic propertiesNONMETRO adj not metropolitanNONMODAL adj not modalNONMONEY adj not involving moneyNONMORAL adj not pertaining to moralsNONMUSIC n pl NONMUSICSinferior musicNONNASAL adj not involving the noseNONNAVAL adj not navalNONNEWS adj not being newsNONNOBLE adj not nobleNONNOVEL n pl NONNOVELSa literary work that is not a novelNONOBESE adj not obeseNONOHMIC adj not measured in ohmsNONOILY adj not oilyNONORAL adj not involving the mouthNONOWNER n pl NONOWNERSone who is not the ownerNONPAGAN n pl NONPAGANSone who is not a paganNONPAID adj not paidNONPAPAL adj not papalNONPAR adj being a stock that has no face valueNONPARTY n pl NONPARTIESone not belonging to a partyNONPAST n pl NONPASTSa verb form that lacks an inflection for a past tenseNONPEAK adj being a time when something is not at its highest levelNONPLAY n pl NONPLAYSa theatrical work that is not a playNONPLUS v NONPLUSED NONPLUSING NONPLUSES or NONPLUSSED NONPLUSSING NONPLUSSESto baffleNONPOINT adj not occurring at a definite single siteNONPOLAR adj not polarNONPOOR adj not being poorNONPRINT adj not involving printed materialNONPROS v NONPROSSED NONPROSSING NONPROSSESto enter a judgment against a plaintiff who fails to prosecuteNONQUOTA adj not included in or subject to a quotaNONRATED adj not ratedNONRIGID adj not rigidNONRIVAL n pl NONRIVALSan unimportant rivalNONROYAL adj not royalNONRURAL adj not ruralNONSELF n pl NONSELVESforeign material in a bodyNONSENSE n pl NONSENSESbehavior or language that is meaningless or absurdNONSKED n pl NONSKEDSan airline without scheduled flying timesNONSKID adj designed to inhibit skiddingNONSKIER n pl NONSKIERSone that does not skiNONSLIP adj designed to prevent slippingNONSOLAR adj not solarNONSOLID n pl NONSOLIDSa substance that is not a solidNONSTICK adj allowing of easy removal of cooked food particlesNONSTOP n pl NONSTOPSa flight without a stop en routeNONSTORY n pl NONSTORIESan insignificant news storyNONSTYLE n pl NONSTYLESa style that is not identifiableNONSUCH n pl NONSUCHESnonesuchNONSUGAR n pl NONSUGARSa substance that is not a sugarNONSUIT v NONSUITED NONSUITING NONSUITSto dismiss the lawsuit ofNONTAX n pl NONTAXESa tax of little consequenceNONTIDAL adj not tidalNONTITLE adj pertaining to an athletic contest in which a title is not at stakeNONTONAL adj lacking tonalityNONTONIC adj not based on the first tone of a scaleNONTOXIC adj not toxicNONTRUMP adj not having a trumpNONTRUTH n pl NONTRUTHSsomething that is not trueNONUNION n pl NONUNIONSfailure of a broken bone to healNONUPLE n pl NONUPLESa number nine times as great as anotherNONURBAN adj not urbanNONUSE n pl NONUSESfailure to useNONUSER n pl NONUSERSone that is not a userNONUSING adj not usingNONVALID adj not validNONVIRAL adj not viralNONVITAL adj not vitalNONVOCAL n pl NONVOCALSone that does not involve the voiceNONVOTER n pl NONVOTERSone that does not voteNONWAGE adj not including or involving wages money paid for work or servicesNONWAR n pl NONWARSa war that is not officially declaredNONWHITE n pl NONWHITESa person who is not of the white raceNONWOODY adj not woodyNONWOOL adj not made of woolNONWORD n pl NONWORDSa word that has no meaningNONWORK adj not involving workNONWOVEN n pl NONWOVENSa fabric not made by weavingNONYL n pl NONYLSan alkyl radicalNONZERO adj having a value other than zeroNOO adv nowNOODGE v NOODGED NOODGING NOODGESto nagNOODLE v NOODLED NOODLING NOODLESto play idly on a musical instrumentNOODLING n pl NOODLINGSthe action of idly playing a musical instrumentNOOGIE n pl NOOGIESa playful rubbing of ones knuckles on anothers headNOOK n pl NOOKSa corner as in a roomNOOKLIKE adjNOON n pl NOONSmiddayNOONDAY n pl NOONDAYSnoonNOONER n pl NOONERSan event that occurs during the middle of the dayNOONING n pl NOONINGSa meal eaten at noonNOONTIDE n pl NOONTIDESnoonNOONTIME n pl NOONTIMESnoonNOOSE v NOOSED NOOSING NOOSESto secure with a type of loopNOOSER n pl NOOSERSone that noosesNOPAL n pl NOPALS or NOPALESa cactus of Mexico and Central AmericaNOPALITO n pl NOPALITOSthe stem of the nopal used as foodNOPE adv noNOPLACE adv not in or at any placeNOR conj and notNORDIC adj pertaining to crosscountry ski racing and ski jumpingNORI n pl NORISdried seaweed pressed into sheetsNORIA n pl NORIASa type of waterwheelNORITE n pl NORITESa granular rockNORITIC adjNORLAND n pl NORLANDSa region in the northNORM n pl NORMSa standard regarded as typical for a specific groupNORMAL n pl NORMALSthe usual or expected state or formNORMALCY n pl NORMALCIESconformity with the normNORMALLY adv as a rule usuallyNORMANDE adj prepared with foods associated with NormandyNORMED adj having a normNORMLESS adj having no normNORTENA n pl NORTENASa style of folk music of northern Mexico and TexasNORTENO n pl NORTENOSan inhabitant of northern MexicoNORTH n pl NORTHSa point of the compassNORTHER n pl NORTHERSa wind or storm from the northNORTHERN n pl NORTHERNSa person living in the northNORTHING n pl NORTHINGSmovement toward the northNOSE v NOSED NOSING NOSESto sniff with the nose the organ of smellNOSEBAG n pl NOSEBAGSa feedbagNOSEBAND n pl NOSEBANDSa part of a horses bridleNOSEDIVE v NOSEDIVED or NOSEDOVE NOSEDIVING NOSEDIVESto go into a sudden steep dropNOSEGAY n pl NOSEGAYSa bouquetNOSELESS adj having no noseNOSELIKE adj resembling a noseNOSEY adj NOSIER NOSIESTnosyNOSH v NOSHED NOSHING NOSHESto eat snacks between mealsNOSHER n pl NOSHERSone that noshesNOSIER comparative of nosyNOSIEST superlative of nosyNOSILY adv in a nosy mannerNOSINESS n pl NOSINESSESthe quality of being nosyNOSING n pl NOSINGSa projecting edgeNOSOLOGY n pl NOSOLOGIESa classification of diseasesNOSTOC n pl NOSTOCSa freshwater algaNOSTRIL n pl NOSTRILSan external opening of the noseNOSTRUM n pl NOSTRUMSa medicine of ones own inventionNOSY adj NOSIER NOSIESTunduly curiousNOT adv in no wayNOTA pl of notumNOTABLE n pl NOTABLESa person of distinctionNOTABLY adv in a distinguished mannerNOTAL adj pertaining to a notumNOTARIAL adj pertaining to a notaryNOTARISE v NOTARISED NOTARISING NOTARISESto notarizeNOTARIZE v NOTARIZED NOTARIZING NOTARIZESto certify through a notaryNOTARY n pl NOTARIESa public officer who certifies documentsNOTATE v NOTATED NOTATING NOTATESto put into notationNOTATION n pl NOTATIONSa system of symbolsNOTATOR n pl NOTATORSone that notatesNOTCH v NOTCHED NOTCHING NOTCHESto make an angular cut inNOTCHER n pl NOTCHERSone that notchesNOTCHY adj NOTCHIER NOTCHIESThaving angular cutsNOTE v NOTED NOTING NOTESto write downNOTEBOOK n pl NOTEBOOKSa book in which to writeNOTECARD n pl NOTECARDSa card used for sending short messagesNOTECASE n pl NOTECASESa billfoldNOTED past tense of noteNOTEDLY adv in a famous mannerNOTELESS adj undistinguishedNOTELET n pl NOTELETSa small sheet of paper for an informal letterNOTEPAD n pl NOTEPADSa number of sheets of paper glued together at one endNOTER n pl NOTERSone that notesNOTHER adj differentNOTHING n pl NOTHINGSthe absence of all quantity or magnitudeNOTICE v NOTICED NOTICING NOTICESto become aware ofNOTICER n pl NOTICERSone that noticesNOTIFIER n pl NOTIFIERSone that notifiesNOTIFY v NOTIFIED NOTIFYING NOTIFIESto informNOTING present participle of noteNOTION n pl NOTIONSa general ideaNOTIONAL adjNOTORNIS n pl NOTORNISa flightless birdNOTTURNO n pl NOTTURNIa nocturneNOTUM n pl NOTAa part of the thorax of an insectNOUGAT n pl NOUGATSa chewy candyNOUGHT n pl NOUGHTSnaughtNOUMENON n pl NOUMENAan object of intellectual intuitionNOUMENAL adjNOUN n pl NOUNSa word used to denote the name of somethingNOUNAL NOUNLESS adjNOUNALLY advNOURISH v NOURISHED NOURISHING NOURISHESto sustain with foodNOUS n pl NOUSESmind reason or intellectNOUVEAU adj newly arrived or developedNOUVELLE n pl NOUVELLESa style of French cookingNOVA n pl NOVAS or NOVAEa type of starNOVALIKE adjNOVATE v NOVATED NOVATING NOVATESto replace an old contract with a new oneNOVATION n pl NOVATIONSthe substitution of a new legal obligation for an old oneNOVEL n pl NOVELSa fictional prose narrativeNOVELISE v NOVELISED NOVELISING NOVELISESto novelizeNOVELIST n pl NOVELISTSa writer of novelsNOVELIZE v NOVELIZED NOVELIZING NOVELIZEsto put into the form of a novelNOVELLA n pl NOVELLAS or NOVELLEa short novelNOVELLY adv in a new or unusual mannerNOVELTY n pl NOVELTIESsomething new or unusualNOVENA n pl NOVENAS or NOVENAEa religious devotion lasting nine daysNOVERCAL adj pertaining to a stepmotherNOVICE n pl NOVICESa person new to any field or activityNOW n pl NOWSthe present timeNOWADAYS adv in these timesNOWAY adv in no wayNOWAYS adv nowayNOWHERE n pl NOWHERESa nonexistent placeNOWISE adv not at allNOWNESS n pl NOWNESSESthe state of existing at the present timeNOWT n pl NOWTSnaughtNOXIOUS adj harmful to healthNOYADE n pl NOYADESan execution by drowningNOYAU n pl NOYAUXa liqueur made of brandy and fruit kernelsNOZZLE n pl NOZZLESa projecting spoutNTH adj pertaining to an indefinitely large ordinal numberNU n pl NUSa Greek letterNUANCE v NUANCED NUANCING NUANCESto give a subtle shade of meaning toNUB n pl NUBSa protuberance or knobNUBBIER comparative of nubbyNUBBIEST superlative of nubbyNUBBIN n pl NUBBINSan undeveloped fruitNUBBLE n pl NUBBLESa small nubNUBBLY adj NUBBLIER NUBBLIESThaving nubblesNUBBY adj NUBBIER NUBBIESThaving nubsNUBIA n pl NUBIASa womans scarfNUBILE adj suitable for marriageNUBILITY n pl NUBILITIESthe quality of being nubileNUBILOSE adj nubilousNUBILOUS adj cloudyNUBUCK n pl NUBUCKSsoft sueded leatherNUCELLUS n pl NUCELLIthe essential part of a plant ovuleNUCELLAR adjNUCHA n pl NUCHAEthe nape of the neckNUCHAL n pl NUCHALSan anatomical part lying in the region of the napeNUCLEAL adj nuclearNUCLEAR adj pertaining to a nucleusNUCLEASE n pl NUCLEASESan enzymeNUCLEATE v NUCLEATED NUCLEATING NUCLEATESto form into a nucleusNUCLEI a pl of nucleusNUCLEIN n pl NUCLEINSa protein found in nucleiNUCLEOID n pl NUCLEOIDSthe DNAcontaining area of certain cellsNUCLEOLE n pl NUCLEOLESa part of a nucleusNUCLEOLI npl nucleolesNUCLEON n pl NUCLEONSa subatomic particleNUCLEUS n pl NUCLEUSES or NUCLEIan essential part of a cellNUCLIDE n pl NUCLIDESa species of atomNUCLIDIC adjNUDE adj NUDER NUDESTbeing without clothing or coveringNUDELY advNUDE n pl NUDESa nude figureNUDENESS n pl NUDENESSESnudityNUDGE v NUDGED NUDGING NUDGESto push gentlyNUDGER n pl NUDGERSone that nudgesNUDICAUL adj having leafless stemsNUDIE n pl NUDIESa movie featuring nude performersNUDISM n pl NUDISMSthe practice of going nudeNUDIST n pl NUDISTSan advocate of nudismNUDITY n pl NUDITIESthe state of being nudeNUDNICK n pl NUDNICKSnudnikNUDNIK n pl NUDNIKSan annoying personNUDZH v NUDZHED NUDZHING NUDZHESto noodgeNUFF n pl NUFFSenoughNUG n pl NUGSa chunk of wood sawn from a logNUGATORY adj having no powerNUGGET n pl NUGGETSa mass of solid matterNUGGETY adjNUISANCE n pl NUISANCESa source of annoyanceNUKE v NUKED NUKING NUKESto attack with nuclear weaponsNULL v NULLED NULLING NULLSto reduce to nothingNULLAH n pl NULLAHSa ravineNULLIFY v NULLIFIED NULLIFYING NULLIFIESto make useless or ineffectiveNULLITY n pl NULLITIESsomething of no legal forceNUMB adj NUMBER NUMBESTlacking sensationNUMB v NUMBED NUMBING NUMBSto make numbNUMBAT n pl NUMBATSa small Australian mammalNUMBER v NUMBERED NUMBERING NUMBERSto countNUMBERER n pl NUMBERERSone that numbersNUMBFISH n pl NUMBFISHESa fish capable of emitting electric shocksNUMBLES npl animal entrailsNUMBLY adv in a numb mannerNUMBNESS n pl NUMBNESSESthe state of being numbNUMCHUCK n pl NUMCHUCKSnunchakuNUMDAH n pl NUMDAHSan embroidered rug of IndiaNUMEN n pl NUMINAa deityNUMERACY n pl NUMERACIESthe ability to understand basic mathematicsNUMERAL n pl NUMERALSa symbol that expresses a numberNUMERARY adj pertaining to numbersNUMERATE v NUMERATED NUMERATING NUMERATESto countNUMERIC n pl NUMERICSa numeralNUMEROUS adj manyNUMINA pl of numenNUMINOUS adj supernaturalNUMMARY adj pertaining to coinsNUMMULAR adj shaped like a coinNUMMY adj NUMMIER NUMMIESTdeliciousNUMNAH n pl NUMNAHSa pad placed under a saddleNUMSKULL n pl NUMSKULLSa dunceNUN n pl NUNSa woman belonging to a religious orderNUNATAK n pl NUNATAKSa mountain peak completely surrounded by glacial iceNUNCHAKU n pl NUNCHAKUSa Japanese weaponNUNCHUK n pl NUNCHUKSnunchakuNUNCIO n pl NUNCIOSan ambassador from the popeNUNCLE n pl NUNCLESan uncleNUNLIKE adj resembling a nunNUNNERY n pl NUNNERIESa religious house for nunsNUNNISH adj of pertaining to or characteristic of a nunNUPTIAL n pl NUPTIALSa weddingNURD n pl NURDSnerdNURL v NURLED NURLING NURLSto knurlNURSE v NURSED NURSING NURSESto care for the sick or infirmNURSER n pl NURSERSa babys bottleNURSERY n pl NURSERIESa room for young childrenNURSING n pl NURSINGSthe profession of one who nursesNURSLING n pl NURSLINGSan infantNURTURAL adj pertaining to the process of nurturingNURTURE v NURTURED NURTURING NURTURESto nourishNURTURER n pl NURTURERSone that nurturesNUT v NUTTED NUTTING NUTSto gather nuts hardshelled dry fruitsNUTANT adj droopingNUTATE v NUTATED NUTATING NUTATESto exhibit nutationNUTATION n pl NUTATIONSan oscillatory movement of the axis of a rotating bodyNUTBAR n pl NUTBARSa bar made from chopped nutsNUTBROWN adj of a dark brownNUTCASE n pl NUTCASESa crazy personNUTGALL n pl NUTGALLSa gallnutNUTGRASS n pl NUTGRASSESa perennial herbNUTHATCH n pl NUTHATCHESa small birdNUTHOUSE n pl NUTHOUSESan insane asylumNUTLET n pl NUTLETSa small nutNUTLIKE adj resembling a nutNUTMEAT n pl NUTMEATSthe edible kernel of a nutNUTMEG n pl NUTMEGSan aromatic seed used as a spiceNUTMEGGY adjNUTPICK n pl NUTPICKSa device for extracting the kernels from nutsNUTRIA n pl NUTRIASthe coypuNUTRIENT n pl NUTRIENTSa nourishing substanceNUTSEDGE n pl NUTSEDGESnutgrassNUTSHELL n pl NUTSHELLSthe shell of a nutNUTSY adj NUTSIER NUTSIESTcrazyNUTTED past tense of nutNUTTER n pl NUTTERSone that gathers nutsNUTTING n pl NUTTINGSthe act of gathering nutsNUTTY adj NUTTIER NUTTIESTsilly crazyNUTTILY advNUTWOOD n pl NUTWOODSa nutbearing treeNUZZLE v NUZZLED NUZZLING NUZZLESto push with the noseNUZZLER n pl NUZZLERSone that nuzzlesNYAH interj  used to express contempt for anotherNYALA n pl NYALASan antelopeNYLGHAI n pl NYLGHAISnilgaiNYLGHAU n pl NYLGHAUSnilgaiNYLON n pl NYLONSa synthetic materialNYLONED adjNYMPH n pl NYMPHSa female spiritNYMPHAL NYMPHEAN adjNYMPH v NYMPHED NYMPHING NYMPHSto fish using a fly a hook with silk or feathers that looks like a larvaNYMPHA n pl NYMPHAEa fold of the vulvaNYMPHET n pl NYMPHETSa young nymphNYMPHO n pl NYMPHOSa woman obsessed by sexual desireNYSTATIN n pl NYSTATINSan antibiotic")`.
+entry(oaf, n, [傻瓜], "或 OAVES 一个笨拙愚蠢的人 OAFISH adj OAFISHLY adv").
+entry(oak, n, [oaks], "硬木树或灌木OAKEN OAKLIKE 形容词").
+entry(oaked, adj, [], "在橡木容器中成熟").
+entry(橡木味, n, [橡木味的状态], "具有橡木味的质量或状态")
+entry(橡苔, n, [oakmosses], "一种生长在橡树上的地衣").
+`入口(麻絮, 名词, [麻絮们], "松散扭转的麻纤维").`
+```prolog
+entry(oaky, adj, [], "具有橡树汁味的 OAKIER OAKIEST")。
+```
+entry(桨, 动词, [划桨, 正在划桨, 桨], "用长柄宽叶的杆子划动").
+entry(皇带鱼, n, [皇带鱼], "一种海洋鱼类").
+条目(无桨, 形容词, [], "没有桨").
+entry(像桨, 形容词, [], "像桨的").
+entry(桨架, n, [桨架], "固定桨的位置的装置").
+entry(划桨手, n, [划桨手], "划船的人").
+条目(绿洲, 名词, [绿洲], "沙漠地区中的绿色区域")。
+entry(oast, n, [oasts], "一种窑炉").
+entry(燕麦, 名词, [燕麦], "一种谷物草").
+条目(燕麦饼, 名词, [燕麦饼], "用燕麦做的饼").
+entry(燕麦的, 形容词, [], "与燕麦有关").
+entry(燕麦片西部片, 名词, [燕麦片西部片], "一部牛仔电影").
+entry(oath, n, [誓言], "正式的声明或承诺，以履行誓约").
+```prolog
+entry(类似燕麦, 形容词, [], "类似燕麦").
+```
+入口(燕麦粥, 名词, [燕麦粥们], "由燕麦制成的餐").
+条目(燕麦味的, 形容词, [], "最燕麦味 最燕麦味燕麦味或闻起来有燕麦味").
+entry(oaves, a, [], "傻瓜的复数形式").
+entry(oba, n, [酋长], "贝宁和尼日利亚的世袭首领").
+```prolog
+entry(obconic, adj, [], "顶点向下的圆锥形").
+```
+entry(顽固, n, [顽固性], "顽强或顽固的特性或实例")
+entry(顽固, 形容词, [], "固执").
+entry(obe, n, [巫術], "巫毒教").
+entry(巫术, n, [巫术], "一种起源于非洲的巫术").
+entry(奥比教, n, [奥比教信仰], "奥比教的使用").
+entry(顺从, 形容词, [], "服从或愿意服从").
+`条目(敬重的, 形容词, [], "表现出敬意或尊重").`
+entry(obeli, pl, [], "符号的").
+条目(海嵩, 名词, [海嵩们], "一种海洋水螅").
+entry(奥贝莱斯, 动词, [已奥贝莱斯, 正在奥贝莱斯, 奥贝莱斯], "标上缺失标记").
+entry(方尖碑, n, [方尖碑], "顶部带有金字塔形状的四面石柱").
+词条(obelism, n, [obelisms], "the act of obelizing").
+entry(歐貝利斯標記, v, [已歐貝利斯標記, 歐貝利斯標記中, 歐貝利斯標記], "用歐貝利斯標記").
+条目(斜线, 名词, [斜线的复数形式], "用于古代手稿中表示可疑段落的符号")。
+词条(便当, 名词, [便当], "一种装在盒子里的日式餐点")。
+入口(肥胖的, 形容词, [], "非常胖地 adv").
+entry(肥胖, n, [肥胖症], "肥胖的状态或情况").
+entry(服从, v, [服从了, 服从中, 服从], "遵循命令或指导的").
+entry(服从者, n, [服从者们], "一个服从的人").
+entry(obi, n, [obis], "巫术").
+entry(obia, n, [obias], "巫毒").
+条目(obiism, n, [obiisms], "巫毒教").
+entry(obit, n, [讣告], "讣闻").
+entry(讣告, n, [讣告], "关于死亡的公告").
+entry(对象, v, [反对,反对中,反对者], "提出反对意见")
+entry(反对者, n, [反对者们], "一个提出反对意见的人").
+entry(物品, n, [物品们], "有艺术价值的物品").
+条目(省, n, [省份], "或俄罗斯行政区").
+entry(修士, n, [修道人], "居住在修道院的俗人").
+entry(椭圆地, 副词, [], "以椭圆形").
+entry(奉献, n, [奉献物], "进行宗教献祭的行为奉献的 形容词").
+entry(强迫, v, [强迫了, 强迫中, 强迫], "去迫使").
+entry(必须的, n, [必须的部分], "或 OBLIGATI一个重要的乐曲部分")。
+```prolog
+entry(迫使, 动词, [迫使了, 迫使着, 迫使], "通过给与恩惠或服务使某人蒙恩"). 
+```
+entry(债权人, n, [债权人], "一个有义务的人").
+用于 Prolog：
+`entry(obliger, n, [obligers], "促使某人履行义务的人者").`
+entry( 乐于助人的, 现在, [], "oblige 的分词").
+entry(债务人, n, [债务人], "一个使自己承担法律责任的人").
+entry(倾斜, v, [倾斜了,倾斜中,倾斜], "倾斜").
+进入(遗忘, 名词, [遗忘], "被遗忘的状态，遗忘的行为")。
+入口(椭圆形, 名词, [椭圆形的复数], "某物是椭圆形的延长").
+entry(长方形地, 副词, [], "以长方形的方式").
+entry(诽谤, n, [诽谤], "辱骂的语言").
+入口(雙簧管, 名詞, [雙簧管們], "一種木管樂器")。
+entry(双簧管演奏者, n, [双簧管演奏者们], "演奏双簧管的人").
+entry(奧博勒, n, [奧博勒斯], "古希臘的硬幣").
+entry(obole, n, [oboles], "中世纪法国的一种硬币").
+entry(奧博勒斯, n, [奧博勒], "一种古希腊铜币").
+条目(倒卵形, 形容词, [], "窄端在底部的卵形").
+```prolog
+entry(卵形, 形容词, [], "窄的端位于底部的卵形").
+```
+条目(粗俗, 形容词, [], "更粗俗 最粗俗不雅").
+entry(晦涩的, 形容词, [], "更晦涩 最晦涩 暗或模糊").
+entry(朦胧, v, [朦胧的,朦胧中,朦胧], "使变得模糊不清").
+entry(葬礼, n, [葬仪], "葬礼仪式")。
+entry(观察, v, [观察过,观察,观察], "仔细看").
+entry(观察者, n, [观察者们], "观察的一个").
+进入（迷住，动词，[迷住，迷住，迷住]，“支配思想”）。
+条目(痴迷者, 名词, [痴迷者们], "令某人痴迷的事物")。
+entry(黑曜石, n, [黑曜石], "一种火山玻璃").
+```prolog
+条目(过时的, v, [过时了, 使过时, 变得过时], "使变得过时")。
+```
+入口(障碍物, n, [障碍物们], "阻碍的东西").
+入口(阻碍, v, [阻碍了,阻碍中,阻碍], "妨碍").
+entry(获得, v, [获得,获得中,获得], "得到拥有").
+entry(获取者, n, [获取者们], "进行获取的人").
+entry(obtect, 形容词, [], "被硬化分泌物覆盖").
+entry(被掩护, 形容词, [], "被掩盖").
+entry(obtest, v, [obtested,obtesting,obtests], "恳求")
+输入(突出, 动词, [突出的, 突出, 突出], "向前推").
+entry(闯入者, n, [闯入者们], "一个闯入的").
+entry(迟钝, 动词, [已经迟钝, 使迟钝中, 使迟钝], "使麻木").
+entry(封闭, 动词, [封闭了, 封闭中, 封闭们], "关闭或堵塞").
+entry(钝角, 形容词, [], "更加钝角 最钝角dull极度钝角 副词").
+entry(迟钝, n, [迟钝], "迟钝的状态").
+entry(正面, n, [正面], "硬币上具有主要图案的一面").
+entry(转向, v, [转向了,转向中,转向], "转动以显示不同的表面").
+entry(消除, 动词, [消除了,消除中,消除], "通过有效措施防止或消除的动作OBVIABLE 形容词").
+entry(排除者, n, [排除者们], "一个排除障碍的人或物").
+entry(明显, 形容词, [], "容易被察觉或理解").
+entry(包卷的, 形容词, [], "卷起或旋转的").
+入口(oca, n, [ocas], "一种南美洲草本植物")。
+入口(ocarina, n, [ocarinas], "风乐器")。
+entry(场合, v, [导致,导致中,导致们], "引起").
+entry(西方, n, [西方], "西方").
+入口(枕骨, n, [枕骨们], "或 枕骨颅骨的后部")。
+条目(闭塞, 动词, [已闭塞, 正在闭塞, 闭塞], "关闭或堵塞")。
+入口(咬合, 形容词, [], "与牙齿咬合面有关")。
+entry(隐藏, 动词, [隐藏了, 隐藏着, 隐藏], "遮蔽").
+entry(掩蔽者, n, [掩蔽者们], "一个会掩蔽的东西").
+entry(隐秘地, 副词, [], "秘密地").
+entry(居民, n, [居民们], "一个居民").
+entry(占有者, n, [占有者们], "一个占据的人").
+entry(占据, v, [占据了, 占据中, 占据], "吸引注意力或能量").
+entry(发生, v, [发生了, 发生中, 发生], "发生").
+entry(海洋, 名词, [海洋], "覆盖地球表面的广大盐水体OCEANIC 形容词").
+entry(潜水员, n, [潜水员们], "一个水栖探险家").
+入口(ocellar, 形容词, [], "关于单眼").
+entry(眼状, 形容词, [], "具有眼状斑点").
+入口(ocellus, n, [ocelli], "一个微小的简单眼睛")。
+entry(豹猫, n, [豹猫], "一种美洲野猫OCELOID adj").
+entry("哦", interj, [], "用于表达惊讶或遗憾").
+entry(oche, n, [oches], "选手在掷飞镖时站立的线后").
+entry(赭石, v, [赭石的,赭石化,赭石色], "用赭石一种用作颜料的红色或黄色铁矿着色").
+词条(爱惜于, 形容词, [], "类似赭石").
+`入口(ocheroid, 形容词, [], "赭色的").`
+entry(赭色的, 形容词, [], "包含或类似赭色").
+entry(赭色, 形容词, [], "赭色的").
+entry(哎哟, 感叹词, [], "用于表达悲伤").
+条目(赭石, 动词, [赭石的, 赭石中, 赭石], "使成赭色")。
+entry(托叶鞘, n, [托叶鞘], "或 OCHREAS着色").
+entry(赭色的, 形容词, [], "赭色的")
+entry(ochring, 現在, [], "ochre 的分詞").
+entry(赭色的, 形容词, [], "赭色的")
+entry(赭色, 形容词, [], "赭色的").
+entry(黄土色, 形容词, [], "ochery").
+入口(ocicat, n, [ocicats], "一种家猫，具有短而斑驳的皮毛")。
+entry(ocker, n, [ockers], "粗野的人").
+entry(仙人掌, n, [仙人掌], "一种墨西哥灌木").
+entry(叶鞘, n, [叶鞘], "或 OCREAS 为一种包被植物部分").
+entry(ocreate, 形容词, [], "具有箨鞘").
+入口(octad, n, [八], "一组八个OCTADIC adj")。
+项(八边形, 名词, [八边形复数], "一个有八个边的多边形")。
+entry(八进制, 形容词, [], "与以八为基数的数字系统有关").
+entry(辛癸安, 名詞, [辛癸安], "每第八天復發的發燒").
+entry(辛烷, n, [辛烷], "一种液态烃").
+entry(octangle, n, [八边形], "一个八边形").
+```prolog
+入口(辛醇, 名, [辛醇类], "一种酒精").
+```
+entry(八分圆, n, [八分圆], "圆的八分之一OCTANTAL 形容词").
+entry(八人统治, n, [八人统治], "由八人组成的政府").
+entry(八度, n, [八度], "一种音乐间隔类型OCTAVAL adj").
+entry(八开, n, [八开纸], "一种纸张尺寸").
+entry(八位字节, n, [八位字节们], "一组八个").
+entry(八位字节, n, [八位字节们], "八位字节").
+entry(八行体, n, [八行体], "一个八行诗节").
+```Prolog
+entry(章鱼, n, [章鱼], "八腕软体动物的任何一种").
+```
+entry(八爪类, 形容词, [], "类似章鱼").
+entry(章鱼, n, [章鱼们], "或 OCTOPI 或 OCTOPODESa 夜行八腕目动物").
+entry(黑白混血儿, n, [黑白混血儿们], "一个有八分之一黑人血统的人").
+entry(市税, n, [市税], "对进入城市的某些物品征收的税").
+条目(八倍, v, [八倍的, 八倍中, 八倍数], "乘以八")。
+`entry(八胞胎, 名词, [八胞胎们], "一组八个相关的项目").`
+词条(八倍, 形容词, [], "八倍的").
+entry(八重, 现在, [], "八倍的分词").
+entry(八倍, 副词, [], "达到八倍的程度").
+条目(octyl, n, [octyls], "单价基团")。
+entry(ocular, n, [目镜], "一个目镜")。
+entry(ocularly, 副词, [], "通过眼睛或视力的方式")
+entry(眼科医生, n, [眼科医生], "治疗眼部疾病的医生")。
+入口(oculus, n, [oculi], "圆形窗户")。
+entry(od, n, [ods], "一种假设的自然力量").
+条目(oda, n, [odas], "一个后宫的房间")。
+entry(odah, n, [odahs], "火箭发射装").
+入口(奧達里斯克, 名词, [奧達里斯克], "后宫中的女性奴隶")。
+entry(奇数, 形容词, [], "更奇特 最奇特不寻常").
+条目(奇数, n, [奇数], "一个是奇数").
+entry(怪人, n, [怪人们], "一个古怪的人").
+entry(oddish, 形容词, [], "有点奇怪").
+entry(奇怪, n, [奇怪的事物], "一个奇怪的事物").
+entry(oddly, 副词, [], "以一种奇怪的方式").
+词条(剩余物, n, [剩余物], "一个残余物")。
+条目(奇数性, n, [奇数性], "奇怪的状态").
+```prolog
+entry(颂诗, n, [颂诗集], "抒情诗").
+```
+条目(odeon, n, [odeons], "odeum").
+entry(剧场, n, [剧场s], "或 ODEAa 剧院或音乐厅")。
+entry(odic, 形容词, [], "有关颂诗的").
+entry(可憎的, 形容词, [], "值得或引起憎恨ODIOUSLY副词").
+```
+条目(odist, n, [odists], "写颂诗的人").
+```
+entry(仇恨, n, [仇恨], "憎恨").
+entry(里程表, n, [里程表们], "一个里程表").
+entry(里程表, n, [里程表], "一种用于测量行驶距离的设备").
+入口(里程计, n, [里程计], "使用计程器的过程")。
+entry(蜻蜓目, 复数, [], "一类捕食性昆虫的目").
+入口(蜻蜓目, 名词, [蜻蜓目昆虫], "一种捕食性昆虫的目").
+entry(齿突, n, [齿突们], "牙齿状的椎骨突出").
+entry(气味, n, [气味], "影响嗅觉的物质特性ODORED ODORFUL 形").
+条目(气味剂, n, [气味剂们], "一种有气味的物质").
+```prolog
+entry(使有气味, v, [使有气味了,使有气味中,使有气味], "使有气味").
+```
+条目(嗅味剂, n, [嗅味剂们], "一个用于散发气味的东西").
+entry(无味, 形容词, [], "没有气味").
+入口(有气味的, 形容词, [], "有气味的").
+```prolog
+entry(气味, n, [气味们], "气味芳香的 adj").
+```
+entry(奥德尔, 名词, [奥德尔们], "一种奥德").
+entry(奥迪尔, 名词, [奥迪尔们], "奥迪尔").
+entry(奥德赛, 名词, [奥德赛们], "一次漫长的漂泊旅程ODYSSEAN 形容词").
+entry(旋风, 名词, [旋风], "法罗群岛附近的旋风").
+entry(生态学, n, [生态学们], "生态学").
+entry(水肿, n, [水肿], "or OEDEMATA水肿").
+entry(俄狄浦斯的, 形容词, [], "与孩子对异性父母的性欲感情有关的").
+entry(俄狄浦斯式, 形容词, [], "恋母情结的").
+entry(凝視, n, [凝視], "充滿愛意的目光").
+entry(葡萄酒学, n, [葡萄酒学], "关于葡萄酒的研究").
+entry(酒蜜, n, [酒蜜们], "古希腊的一种用葡萄酒和蜂蜜调制的饮品")。
+entry(oersted, n, [oersted], "磁强度单位")
+entry(雌激素, n, [雌激素们], "雌激素").
+entry(雌三醇, n, [雌三醇s], "estriol").
+entry(雌酮, n, [雌酮們], "雌酮").
+```prolog
+entry(发情的, 形容词, [], "发情的").
+```
+entry(发情的, 形容词, [], "estrual").
+条目(动情期, 名词, [动情期复数形式], "动情").
+entry(发情, n, [发情期], "动情期").
+entry(艺术作品, n, [艺术品], "一件艺术品").
+entry(of, prep, [], "来自").
+entry(关闭, v, [关闭了,关闭中,关闭], "走开").
+入口(内脏, n, [内脏们], "废物材料").
+entry(offbeat, n, [非重拍], "音乐小节中的一个无重音拍子")
+entry(抛弃物, n, [抛弃物们], "一件抛弃物").
+entry(切割部分, n, [切割部分们], "被切掉的东西").
+entry(罪行, n, [罪行s], "犯罪").
+entry(冒犯, 动词, [冒犯了,冒犯中,冒犯], "犯下罪行").
+entry(罪犯, n, [罪犯们], "冒犯者").
+entry(冒犯, n, [冒犯], "违反道德或社会准则").
+entry(提供, v, [提供了,提供中,提供], "呈现以供接受或拒绝")。
+entry(接受者, n, [接受者们], "接到提议的人")
+entry（"提供者", n, ["提供者们"], "一个提供的人"）。
+`条目(提供, n, [提供物], "一种贡献").`
+entry(提议者, n, [提议者们], "提议者").
+条目(即兴, 副词, [], "没有准备")。
+entry(办公室, n, [办公室], "一个权威职位").
+entry(军官, v, [任命军官, 任命中的军官, 任命军官们], "配备持有权力职位的军官").
+entry(官方的, n, [官员], "拥有权威职位的人").
+entry(凶兆, n, [凶兆们], "不久的将来").
+詞條(冷淡, 形容詞, [], "冷漠地 副詞").
+entry(offkey, 形容词, [], "音调比正确的音乐音高要高或低").
+输入(离线, 形容词, [], "未连接到计算机网络")。
+entry(卸载, 动词, [已卸载, 正在卸载, 卸载], "卸下")。
+条目(节选, 动词, [已重印, 正在重印, 重印], "重印摘录").
+出口(匝道, n, [匝道], "从高速公路引出的道路")。
+entry(offset, v, [offset,offsetting,offsets], "补偿").
+entry(分支, n, [分支们], "从主干上生长出来的侧枝").
+入口(离岸的, 名词, [离岸的复数形式], "海岸外的一块水下土地").
+entry(越位, n, [越位], "一次不当的足球动作").
+entry(后台, n, [台后], "舞台上一部分观众看不到的区域").
+```prolog
+entry(偏离轨道, 形容词, [], "距离赛道远"). 
+```
+条目(oft, 副词, [], "OFTER OFTESToften").
+条目(经常, 副词, [], "更常 最常频繁").
+entry(时常, 副词, [], "常常/经常/频繁地").
+```
+条目(ogam, n, [ogams], "ogham").
+```
+```prolog
+entry(八, n, [八个], "一组八个").
+```
+entry(圆弧曲线, n, [圆弧曲线复数], "一种S形线条装饰OGEED 形容词").
+entry(歐甘文, n, [歐甘文字], "古愛爾蘭字母OGHAMIC adj").
+entry(oghamist, n, [oghamists], "用欧甘文字书写的人").
+条目(ogive, n, [ogives], "尖拱OGIVAL adj")。
+entry(偷窥, 动词, [盯着看, 盯视, 凝视], "注视").
+entry(ogler, n, [色迷迷的人], "一个色迷迷的人").
+条目(食人魔, 名词, [食人魔们], "一种怪物")。
+entry(妖魔般的, 形容词, [], "类似于妖魔").
+entry(食人魔主义, n, [食人魔主义], "处于食人魔状态").
+词条(雌性食人魔, 名词, [雌性食人魔们], "一个雌性食人魔").
+entry(ogrish, 形容词, [], "ogreishOGRISHLY 副词").
+entry(ogrism, n, [ogrisms], "ogreism").
+条目(oh, v, [ohed, ohing, ohs], "表示惊讶、痛苦或渴望的感叹")。
+entry('ohia', 'n', ['ohias'], "lehua").
+```
+条目(欧姆, n, [欧姆], "一种电阻单位 欧姆 adj").
+```
+条目(ohmage, n, [ohmages], "以欧姆表示的电阻").
+条目(欧姆表, n, [欧姆表], "用于测量欧姆数的仪器").
+entry(oho, interj, [], "用于表示惊讶或欢腾").
+entry(哎, 感叹词, [], "哎")。
+entry(霉菌, n, [霉菌], "一种真菌OIDIOID 形容词").
+entry(oik, n, [oiks], "非常粗鲁或愚蠢的人").
+entry(油, v, [加油,加油中,加油], "供应油，一种用于润滑、燃料或照明的油性液体")。
+条目(油鸱, n, [油鸱们], "一种热带鸟").
+entry(oilcamp, n, [油田营地], "油井工人的生活区").
+entry(油壶, n, [油壶们], "用于涂抹润滑油的罐子")。
+entry(油布, n, [油布], "一种防水织物").
+entry(油杯, n, [油杯], "用于提供润滑剂的封闭杯").
+entry(加油员, n, [加油员们], "加油的那个人").
+entry(油田, n, [油田], "一个出产石油的区域").
+entry(加油孔, n, [加油孔], "润滑油被注入的孔洞").
+entry(oilier, 比较级, [], "of oily").
+词条(最油腻, 最高级, [], "油腻的").
+entry(oilily, adv, [], "以油腻的方式").
+entry(油腻, n, [油腻程度], "油腻的状态").
+entry(石油商, n, [石油商们], "拥有或经营油井的人").
+entry(油纸, n, [油纸], "一种防水纸").
+entry(防油, 形容词, [], "不透油").
+条目(油籽, 名词, [油籽], "一种可以榨油的种子")。
+entry(防水帆布, n, [防水帆布], "一种防水织物").
+entry(磨刀石, n, [磨刀石], "用于磨刀的石头").
+entry(oiltight, 形容词, [], "紧密到可以防止油的渗透").
+entry(油道, n, [油道], "油流通的通道").
+entry(油腻的, 形容词, [], "更油腻 最油腻 覆盖或浸泡在油中").
+entry(猪叫, 动词, [猪叫声, 猪叫着, 猪叫], "发出猪的自然叫声")。
+entry(酿酒学, n, [酿酒学], "酿酒学").
+entry(oinomel, n, [蜜酒], "oenomel").
+entry(软膏, n, [软膏], "一种涂在皮肤上的粘稠制剂，用作药物或化妆品").
+entry(石柯树, n, [石柯树们], "一种南美树").
+entry(oka, n, [okas], "一种土耳其的重量单位").
+entry(霍加皮, n, [霍加皮], "一种非洲反刍哺乳动物").
+```prolog
+entry(好的, 动词, [好的了, 好的中, 好的们], "批准").
+```
+entry(奥克, n, [奥克斯], "奥卡").
+entry(okeh, n, [okehs], "批准").
+entry(好极了, 形容词, [], "完全正确").
+entry(秋葵, 名词, [秋葵们], "一种高大的一年生草本植物").
+entry(老, 形容词, [], "较老 最老 或者 较年长 最年长活着或存在相对较长时间").
+entry(老年, n, [老年人], "指定年龄的个人").
+entry(olde, 形容词, [], "老").
+entry(古老, 形容词, [], "属于过去的时代").
+entry(老歌, n, [老歌], "早期流行的歌曲").
+条目(老旧, 形容词, [], "有点旧").
+```prolog
+entry(老旧, n, [老旧状态], "处于老旧的状态").
+```
+entry(海鸭, n, [海鸭], "一种海鸭").
+entry(老人, n, [老人们], "一位老人").
+entry(旧式, n, [旧式], "一种印刷风格").
+entry(老妻, n, [老妻鱼], "一种海洋鱼类").
+entry(oldy, n, [老古董], "怀旧歌曲").
+`入口（ole，n， [oles]，“表示赞同的喊声”）。`
+entry(橄榄属, pl, [], "关于油").
+entry(夹竹桃, n, [夹竹桃], "一种开花灌木").
+入口（oleaster，名词，[oleasters]，"一种开花灌木"）。
+条目(油酸盐, 名词, [油酸盐们], "一种化学盐").
+条目(烯烃, n, [烯烃], "一种烯烃类OLEFINIC 形容词").
+入口(olefine, n, [烯烃], "烯烃").
+entry(油质的, adj, [], "与油有关").
+条目(油脂, 名词, [油脂], "脂肪中的液体部分")。
+entry(油酸酯, n, [油酸酯们], "油酸酯").
+entry(奶油, n, [奶油们], "人造黄油").
+entry(奥莱斯特拉, n, [奥莱斯特拉们], "一种无热量的脂肪替代品").
+入口(oleum, n, [oleums], "一种腐蚀性的液体")。
+entry(油, n, [油], "油").
+入口（乳香，名词，[乳香]，“一种芳香树脂”）。
+条目(olicook, n, [olicooks], "一个甜甜圈")。
+条目(寡头政治家, 名词, [寡头政治家们], "少数人统治政府中的统治者")。
+条目(低聚物, n, [低聚物], "一种聚合物类型").
+入口(少尿症, 名词, [少尿症状], "尿液排泄减少少尿性 形容词").
+条目(olingo, n, [olingos], "中美洲和南美洲的一种小型哺乳动物").
+entry(olio, n, [杂集], "miscellaneous collection").
+entry(olivary, 形容词, [], "像橄榄形状的").
+入口(橄榄, n, [橄榄], "地中海树的小椭圆形果实")。
+entry(橄榄石, n, [橄榄石], "一种矿物OLIVINIC 形容词").
+entry(瓦罐, 名词, [瓦罐], "一个宽口的锅或罐子").
+```prolog
+entry(奥利, v, [奥利过, 奥利进行, 奥利们], "在滑板或单板滑雪中进行技巧动作")。
+```
+entry(ologist, n, [ologists], "特定学科的专家").
+entry(學科, n, [學科], "一門知識分支").
+entry(欧罗索, 名词, [欧罗索酒], "一种黑色雪利酒").
+entry(奥林匹亚, n, [奥林匹亚], "奥林匹克运动会的庆典").
+entry(om, n, [奥姆音调], "用于对最终现实进行沉思的真言").
+条目(oma, n, [omas], "祖母").
+entry(傻瓜, n, [傻瓜们], "一个愚蠢的人").
+entry(瘤胃, n, [瘤胃], "反刍动物的第三个胃").
+entry(奥姆伯, n, [奥姆伯们], "阴影").
+entry(ombre, n, [ombres], "牌类游戏").
+entry(欧米伽, n, [欧米伽们], "一个希腊字母").
+条目(煎蛋卷, n, [煎蛋卷s], "用打散的鸡蛋煮熟并包裹馅料的菜肴")。
+entry(煎蛋卷, n, [煎蛋卷们], "煎蛋饼").
+entry(征兆, v, [征兆的,征兆中,征兆], "作为征兆，一种预言的迹象").
+entry(网膜, n, [网膜], "或网膜腹膜中的褶皱网膜的 形容词").
+entry(奥默, n, [奥默斯], "一种希伯来干量单位").
+entry(禁口令, n, [禁口令们], "关于犯罪活动的沉默规则").
+entry(欧米伽, n, [欧米伽们], "一个希腊字母").
+entry(欧米克隆, n, [欧米克隆斯], "欧米克隆").
+条目(不祥, 形容词, [], "预示着邪恶")。
+entry(遗漏, n, [遗漏], "未完成的事情").
+条目(省略的, 形容词, [], "以省略为特征")。
+入口(省略, v, [已省略, 正在省略, 省略], "留下").
+entry(省略者, n, [省略者们], "省略的人").
+entry(omniarch, n, [omniarchs], "全能的统治者").
+entry(公共汽车, n, [公共汽车], "或 公共汽车");
+entry(omnific, 形容词, [], "创造力无限").
+entry(全形, 形容词, [], "各种形式").
+entry(omnimode, 形容词, [], "所有模式的").
+`条目(杂食动物, 复数, [], "杂食动物").`
+entry(杂食动物, n, [杂食动物们], "一种吃各种食物的动物").
+entry(生肉饮食, n, [生肉饮食], "生食原肉").
+条目(omphalos, n, [omphali], "或 OMPHALOI 一个中心点")。
+条目(on, n, [ons], "板球中击球手站立的一侧")。
+entry(野驴, n, [野驴], "或 ONAGRI 中亚的野驴")。
+entry(手淫, n, [手淫行为], "故意中断性交以防止受孕").
+入口(自慰者, n, [自慰者们], "实践自慰的人").
+entry(搭载, 形容词, [], "随车携带").
+entry(一次, 副词, [], "one single time").
+入口(oncet, 副词, [], "曾经").
+入口(文心兰, n, [文心兰属], "热带兰花").
+entry(致癌基因, n, [致癌基因], "使细胞变成癌细胞的基因").
+entry(肿瘤学, n, [肿瘤学], "肿瘤的科学").
+```prolog
+entry(迎面而来的, n, [迎面而来的], "一次接近").
+```
+entry(ondogram, n, [ondograms], "电波形图")。
+条目(一, n, [一的], "一个数字")。
+entry(单一, 形容词, [], "构成一个不可分割的整体").
+entry(梦的, 形容词, [], "与梦有关").
+entry(合一, n, [合一们], "统一").
+entry(繁重的, 形容词, [], "繁重或压迫性的").
+```prolog
+entry(繁重的, 形容词, [], "更加繁重 最繁重").
+```
+条目(自己, 代词, [], "一个人的自己").
+条目(一次性, 形容词, [], "以前的").
+entry(进行中, 形容词, [], "持续不中断").
+entry(洋葱, 名, [洋葱], "一种栽培草本植物可食用的鳞茎ONIONY 形").
+entry(铵, 形容词, [], "以复杂阳离子为特征").
+entry(onlay, n, [onlays], "覆盖在其他事物之上的东西")。
+entry(onliest, 形容词, [], "唯一的").
+entry(在线, 形容词, [], "连接到计算机网络").
+entry(装载, v, [已装载, 正在装载, 装载], "装载车辆或集装箱").
+entry(旁观者, n, [观众], "旁观者").
+entry(唯, 副词, [], "没有其他或任何人").
+entry(ono, n, [白鲔鱼], "大型鲭鱼").
+entry(人名学者, n, [人名学者们], "研究专有名称的人").
+entry(猛烈, n, [强烈涌动], "向前的冲锋或流动").
+entry(屏幕上, 形容词, [], "显示在电影、电视或显示屏上").
+条目(开始, n, [开始], "一个开端").
+entry(向海岸, 副词, [], "朝向海岸").
+条目(在边, 形容词, [], "不越位").
+entry(上台, 形容词, [], "在观众可见的舞台部分上").
+entry(onstream, 副词, [], "投入生产").
+entry(ontic, 形容词, [], "具有真实的存在或本质存在").
+entry(onto, prep, [], "到一个位置之上").
+```prolog
+entry(个体发生, n, [个体发生], "一个个体生物体的发展").
+```
+entry(本体论, n, [本体论], "处理存在的哲学分支").
+entry(责任, n, [责任], "一种负担或责任")
+entry(向前, 副词, [], "朝着前面的某个点前进或在前面").
+entry(向前, 副词, [], "向前").
+条目(缟玛瑙, 名, [缟玛瑙], "一种石英的变种").
+entry(卵囊, n, [卵囊], "合子").
+entry(卵母细胞, n, [卵母细胞], "成熟前的卵子").
+条目(oodles, n, [oodles], "大量").
+entry(乌德林斯, n, [乌德林斯], "很多").
+entry(oof, 感叹词, [], "用于表达不适").
+```prolog
+entry(雌配子, n, [雌配子], "某些原生动物的雌性配子").
+```
+entry(异配生殖, 形容词, [], "具有结构上不相似的配子").
+entry(卵配, n, [卵配], "卵配的状态")
+entry(卵形成, 名词, [卵形成], "卵子的发育").
+entry(卵原细胞, 名词, [卵原细胞s], "或 卵原细胞a 某些藻类和真菌的雌性生殖器官 卵原细胞的 形容词").
+entry(ooh, v, [oohed,oohing,oohs], "惊叹于惊奇、喜悦或惊讶").
+entry(油鱼, n, [油鱼们], "eulachon").
+entry(油鱼, n, [油鱼], "eulachon").
+entry(鲕粒石, n, [鲕粒石], "一种石灰岩OOLITIC adj").
+entry(恐龙蛋石, n, [恐龙蛋石], "蛋白石").
+entry(鸟卵学家, n, [鸟卵学家们], "鸟卵学专家").
+entry(鸟卵学, 名词, [鸟卵学], "研究鸟蛋的学科OOLOGIC 形容词").
+入口(乌龙茶, 名词, [乌龙茶], "一种深色的中国茶").
+`entry(乌米亚克, n, [乌米亚克们], "乌米亚克").`
+entry(小船, n, [小船们], "皮艇").
+条目(oomiak, 名词, [oomiaks], "umiak").
+entry(oompah, v, [oompahed,oompahing,oompahs], "演奏重复的节奏低音伴奏").
+entry(活力, n, [活力], "充满活力").
+entry(oophyte, n, [oophytes], "某些植物的一个发育阶段OOPHYTIC adj")。
+entry(哎呀, 感叹词, [], "用于表示轻微的道歉、惊讶或沮丧").
+entry(oorali, n, [ooralis], "箭毒木").
+entry(oorie, 形容词, [], "ourie").
+entry(受精卵, n, [受精卵], "一个受精的卵子").
+entry(卵球, n, [卵球], "一个未受精的卵在卵囊内").
+entry(卵孢子, n, [卵孢子们], "一个受精的卵内在卵囊中卵孢性的 形容词").
+entry(乌特, n, [乌特斯], "外").
+entry(卵鞘, n, [卵鞘], "某些昆虫的卵鞘OOTHECAL 形容词").
+entry(卵原细胞, n, [卵原细胞], "成熟卵子分裂形成的四个部分之一")。
+```prolog
+entry(渗出, v, [渗出了,渗出着,渗出], "缓慢流出或泄漏").
+```
+entry(粘液性, n, [粘液状态], "处于粘液状态").
+entry(黏液的, 形容词, [], "更黏液的 最黏液的包含或类似于软泥或粘液黏液地 副词").
+entry(操作, 名词, [操作], "一种抽象艺术风格").
+入口(opa, n, [opas], "祖父").
+entry(使不透明, 动词, [使不透明了, 使不透明中, 使不透明], "使变得不透明")
+进入(不透明, 名词, [不透明性], "不透明的东西")。
+entry(opah, n, [opahs], "海洋鱼").
+条目(蛋白石, 名词, [蛋白石], "一种矿物").
+entry(发乳光, 动词, [发过乳光, 正在发乳光, 发乳光们], "发出乳色的闪光").
+entry(不透明玻璃, n, [不透明玻璃], "一种不透明的白色玻璃").
+entry(不透明, 形容词, [], "更不透明 最不透明没有光OPAQUELY adv").
+entry(不透明, v, [变不透明, 变得不透明, 不透明化], "使不透明").
+项(开, 动词, [打开, 开启, 开放], "打开").
+entry(开放, 形容词, [], "提供畅通无阻的通道或视野的OPENEST")。
+entry(打开, v, [打开了,打开着,打开], "使成为可打开的OPENABLE adj").
+entry(opencast, 形容词, [], "在露天环境中工作").
+entry(打开者, n, [打开者们], "打开物体的人或物").
+条目(开口, n, [开口们], "一个空缺或未被阻挡的空间")。
+entry(公开地, 副词, [], "以公开的方式").
+条目(开放性, 名词, [开放性], "开放的状态")。
+条目(镂空, 名词, [镂空物], "包含许多开口的装饰性或结构性作品")。
+entry(歌剧, n, [歌剧], "一种音乐戏剧形式").
+```
+词条(可操作的, 形容词, [], "可用的可操作地 副词").
+```
+条目(操作数, n, [操作数], "执行数学运算的量")。
+entry(操作员, n, [操作员们], "操作的人").
+entry(操作, v, [操作了,操作中,操作着], "执行一个功能").
+entry(歌剧的, n, [歌剧演出], "上演歌剧的技术").
+条目(运算符, n, [运算符], "表示数学函数的符号")。
+entry(鳃盖, n, [鳃盖物种], "鳃盖").
+`词条(鳃盖, 复数, [], "opercules").`
+条目(盖片, n, [盖片], "作为盖子或覆层的解剖部分")。
+entry(轻歌剧, n, [轻歌剧], "带有对话的轻松音乐剧").
+条目(操纵子, n, [操纵子], "一种基因簇类型").
+entry(艱鉅的, 形容詞, [], "涉及巨大的勞力").
+entry(蛇, n, [蛇类], "一条蛇").
+entry(蛇纹石, n, [ophites], "一种绿色斑驳的火成岩OPHITIC adj").
+entry(阿片, v, [阿片处理的,阿片处理中,阿片处理], "用鸦片处理").
+```prolog
+entry(opine, v, [表达意见, 表达观点中, 发表观点], "持有或陈述观点").
+```
+entry(oping, 现在时, [], "ope的分词形式").
+entry(意见, n, [意见], "一个人认为真实的结论或判断").
+entry(阿片类药物, n, [阿片类药物], "像鸦片一样作用的肽").
+entry(鸦片, n, [鸦片类], "一种令人上瘾的麻醉品")
+```
+entry(鸦片主义, n, [鸦片主义], "鸦片成瘾").
+```
+entry(opopanax, n, [乳香草脂], "一种气味强烈的树脂").
+entry(负鼠, n, [负鼠], "一种树栖哺乳动物").
+条目(oppidan, n, [oppidans], "市民").
+```
+条目(oppilate, v, [oppilated, oppilating, oppilates], "obstruct的意思；OPPILANT 形容词")。
+```
+entry(opponens, n, [拇对掌肌], "拇指的肌肉").
+entry(对手, n, [对手们], "反对他人的一个").
+```prolog
+词条(反对, 动词, [反对着, 反对中, 反对], "处于争论或冲突状态").
+```
+entry(反对者, n, [反对者们], "反对的人").
+entry(相反, 名词, [反义词], "在某些相关方面与另一个截然不同的事物")
+entry(压迫, v, [压迫了,压迫着,压迫], "通过滥用权力或权威来使...苦恼").
+entry(反驳, v, [反驳过,反驳中,反驳], "以争论攻击").
+entry(反对者, n, [反对者们], "反对他的人").
+entry(学后者, 名词, [学后者们], "一个在晚年才学习的人").
+entry(视紫红质, n, [视紫红质], "一种蛋白质").
+entry(opsonic, 形容词, [], "与调理素有关").
+```prolog
+entry(调理化, v, [被调理化,调理化中,调理化], "使调理化").
+```
+entry(调理素, n, [调理素], "一种血清抗体")。
+条目(opsonise, v, [opsonised, opsonising, opsonises], "opsonize").
+entry(调理素化, v, [已调理素化, 调理素化中, 调理素化], "形成调理素").
+```prolog
+entry(opt, v, [选择过,选择中,选择], "选择").
+```
+entry(祈愿, n, [祈愿式], "表示愿望或期望的动词语气").
+entry(光学, 名词, [光学], "一只眼睛").
+entry(光学, 形容词, [], "与视觉相关").
+entry(眼镜商, n, [眼镜商们], "制造或销售光学商品的人").
+entry(光学家, n, [光学家们], "从事光和视觉研究的人").
+entry(最佳, a, [], "optimum 的复数").
+entry(最优, 形, [], "最理想").
+entry(optime, n, [优等生], "剑桥大学数学优等生").
+entry(优化, v, [优化了,优化中,优化], "进行优化").
+入口(乐观, n, [乐观主义], "一种倾向于看待事物积极的一面的性情")。
+词条(乐观者, 名词, [乐观主义者], "一个体现乐观主义的人").
+entry(优化, v, [优化的, 优化中, 优化], "使尽可能完美、有用或有效")
+```prolog
+项(最优, 名词, [多样性], "或最有利于获得给定结果的条件").
+```
+entry(选项, v, [选择权, 选择中, 选项], "以在指定时间内以指定价格授予买卖某物的权利").
+entry(可选, n, [可选项], "选修课程").
+条目(选择权持有人, n, [选择权持有人], "持有法律选择权的人").
+`entry(optronic, 形容词, [], "有关电子与光的科学").`
+entry(奢华, n, [奢华们], "财富").
+entry(富裕, 名词, [富裕们], "富裕").
+entry(奢华, 形容词, [], "富裕").
+entry(仙人掌, n, [仙人掌], "一种美洲仙人掌").
+条目(作品, n, [作品集], "或歌剧，一部文学或音乐作品")。
+```prolog
+entry(opuscula, npl, [], "小作品")。
+```
+entry(小作品, n, [小作品们], "一个小作品").
+条目（oquassa，n，[oquassas]，“一种小型湖鳟鱼”）。
+entry(或, 名词, [或], "纹章学中的金色").
+条目(ora, pl, [], "of os").
+entry(藜, 名词, [藜类], "一种栽培植物").
+entry(藜, n, [藜], "藜").
+条目(oracle, n, [神谕], "一个被认为是神明代言的人ORACULAR 形容词").
+entry(口语能力, n, [口语能力], "口头表达和理解的能力").
+条目(orad, 副词, [], "朝向口腔")。
+口试(n, [口试], "需要口头回答的考试")。
+entry(口语法, n, [口语法], "使用口语方法教授聋人").
+entry(口述主义者, n, [口述主义者们], "口述主义的倡导者").
+entry(口述性, n, [口述性], "以口头方式产生的状态")。
+entry(口头, 副词, [], "通过嘴").
+条目(猩猩, 名词, [猩猩s], "一种大型猿类").
+条目(橙子, 名词, [橙子], "一种柑橘类水果").
+entry(温室, n, [温室], "一个种植橘树的地方").
+entry(橙色的, 形容词, [], "ORANGIER ORANGIESTorangy").
+entry(橙色的, 形容词, [], "稍微带有橙色的颜色").
+```prolog
+entry(orange色, adj, [], "更orange色 最orange色 似乎或暗示橙色").
+```
+entry(演讲, 动词, [已经演讲,正在演讲,将演讲], "正式地说话")。
+条目(演说, 名词, [演说], "正式的演讲").
+entry(演说家, 名词, [演说家们], "进行演讲的人").
+entry(清唱剧, n, [清唱剧], "一种音乐作品类型").
+entry(演讲术, 名词, [演讲台], "演讲的艺术")
+entry(女律师, n, [女律师们], "女律师")。
+入口（女演说家，名词，[女演说家们]，“一位女性演说家”）。
+entry(口头文学, n, [口头文学形式], "例如民间故事的口头文学形式")
+入口(orb, v, [orbed, orbing, orbs], "形成圆或球形")。
+入口(orbier, 比较级, [], "of orby").
+entry(orbiest, 最高级, [], "of orby").
+entry(轨道, v, [被环绕, 环绕, 环绕], "围绕移动或旋转").
+entry(轨道, n, [轨道], "核壳层的一个分支").
+entry(轨道器, n, [轨道器], "绕轨道运行的物体").
+条目(无球, 形容词, [], "缺少一个球").
+entry(orby, 形容词, [], "ORBIER ORBIEST 类似于一个圆或球").
+入口(兽人, 名词, [兽人们], "一种海洋哺乳动物")。
+entry(虎鲸, n, [虎鲸], "虎").
+entry(奥尔赛因, n, [奥尔赛因染料], "一种红棕色染料").
+entry(果园, n, [果园], "用于种植果树的区域").
+entry(兰花, 名词, [兰花们], "一种开花植物").
+```prolog
+条目(洋红, 名词, [洋红染料], "一种紫色染料").
+```
+入口(orchilla, n, [orchillas], "orchil").
+入口(蝴蝶兰, n, [蝴蝶兰], "一种兰花")。
+条目(睾丸炎, n, [睾丸炎们], "睾丸的炎症，睾丸炎 adj")
+entry(orcin, n, [orcins], "邻苯二酚").
+条目(苯酚, n, [苯酚类], "一种化合物")。
+entry(授予神圣权柄, 动词, [授予了神圣权柄, 授予神圣权柄中, 授予神圣权柄], "赋予神圣的权威").
+entry(授命者, n, [授命者们], "一个授命的人").
+entry(严峻考验, n, [严峻考验], "一次极其困难或痛苦的经历").
+entry(order, v, [命令, 指令, 指示], "给予命令或指示").
+entry(订购者, n, [订购者们], "一个下订单的人").
+entry(有序, n, [有序的人], "一个男服务员").
+entry(序数词, n, [序数词], "表示系列中位置的数字").
+entry(圣职授予者, n, [圣职授予者们], "即将被授圣职的人").
+entry(普通, 形容词, [], "正常事件序列中预期的那种").
+entry(普通的, n, [普通的事物], "普通的东西").
+entry(坐标, n, [坐标们], "一个特定的几何坐标").
+entry(军火, n, [军火], "火炮 大炮").
+entry(阶, n, [阶级], "或宗教指导日历 ORDINES")
+entry(垃圾, n, [垃圾], "肥料ORDUROUS adj").
+entry(矿石, n, [矿石], "含有贵金属的矿物或岩石").
+entry(俄瑞阿得, 名词, [俄瑞阿得们], "希腊神话中的山中仙女").
+入口(矿体, n, [矿体], "矿山中的矿石块体")。
+entry(食欲的, 形容词, [], "与食欲或欲望有关").
+`条目(orective, 形容词, [], "orectic").`
+entry(牛至, n, [牛至们], "用作调味料的芳香草本植物").
+entry(奥雷德, 名词, [奥雷德斯], "金合金").
+entry(古猪兽, n, [古猪兽], "一种已灭绝的羊大小的哺乳动物")
+entry(orfray, n, [orfrays], "披肩饰").
+entry(组织, n, [组织s], "一个组织").
+entry(器官, n, [器官], "一个执行特定功能的有机体的分化部分")。
+entry(organa, a, [], "pl of organon and organum").
+entry(欧根纱, n, [欧根纱], "薄纱").
+条目(薄纱, n, [薄纱], "一种棉织物").
+条目(有机物, 名词, [有机物质], "一种动植物来源的物质").
+条目(组织, 动词, [组织了, 组织中, 组织], "组织").
+entry(生物, n, [生物体], "任何形式的动物或植物生命").
+条目(风琴师, 名词, [风琴师们], "演奏风琴（一种键盘乐器）的人").
+组织(entry, v, [组织了, 组织中, 组织], "形成有序的整体").
+entry(奥尔加农, n, [奥尔加农], "或 ORGANA一个科学调查规则系统")。
+entry(organum, n, [organums], "或 ORGANAorganon")。
+条目(欧根纱, 名词, [欧根纱], "一种轻薄织物").
+entry(高潮, 动词, [达高潮, 达高腔, 高潮], "经历性兴奋的顶点达到高潮（形容词：高潮的、性兴奋的）ORGASMIC ORGASTIC 形容词").
+入口(orgeat, n, [orgeats], "一种杏仁味糖浆")。
+entry(orgiac, 形容词, [], "具有狂欢性质的").
+entry(参加狂欢的人, n, [参加狂欢的人们], "参加狂欢的人").
+entry(奥尔吉克, 形容词, [], "奥尔吉亚克").
+entry(orgone, n, [orgones], "一种假设的能量遍及宇宙").
+词条(骄傲, 形容词, [], "proud").
+entry(狂欢, n, [狂欢派对], "以不受约束的性享乐为标志的聚会").
+條目(隱甲螨, n, [隱甲螨], "無眼蟎蟲家族中的任何一種").
+条目(oribi, 名词, [羚羊], “一种非洲羚羊”).
+入口(山铜, n, [山铜], "一种黄色金属")。
+入口(凸肚窗, n, [凸肚窗], "一种凸出的窗户")。
+entry(方向, v, [定向,正定方向,设定方向], "调整以相对于其他事物").
+entry(东方人, n, [东方人们], "东方国家的居民").
+entry(定位者, n, [定位者们], "帮助他人适应环境的人").
+entry(孔口, n, [孔口], "一个口或类似口的开口")。
+entry(折纸, n, [折纸艺术], "日本的折纸艺术").
+```prolog
+entry(牛至, n, [牛至], "墨角蘭").
+```
+条目(牛至, 名词, [牛至属植物], "一种芳香草本植物")。
+entry(起源, n, [起源], "一种产生").
+entry(原版, n, [原件], "某物的第一种形式").
+```prolog
+entry(口鼻音, n, [口鼻音], "通过嘴和鼻子发出的声音").
+```
+entry(黄鹂, 名词, [黄鹂], "一种美洲鸣禽").
+条目(奥里莎, n, [奥里莎斯], "一种约鲁巴神灵").
+entry(祈祷, n, [祈祷], "一个祷告")。
+entry(orle, n, [orles], "纹章边框").
+entry(orlop, n, [船底甲板], "船上最低的甲板").
+entry(鲍鱼, n, [鲍鱼], "一种鲍鱼").
+entry(仿金饰, 名词, [仿金饰], "一种用于仿造黄金的合金").
+entry(装饰, v, [装饰了, 装饰中, 装饰物], "装饰").
+entry(华丽的, 形容词, [], "精心或过度装饰ORNATELY 副词").
+```prolog
+entry(顽固的, 形容词, [], "更顽固 最顽固固执且刻薄").
+```
+入口(ornis, n, [鸟类], "鸟群")。
+入口(ornithic, 形容词, [], "关于鸟类").
+entry(造山带, n, [造山带], "地壳中参与造山运动的带状区域").
+条目(造山运动, n, [造山运动], "山形成的过程造山运动").
+条目(oroide, n, [oroides], "一种用于仿金的合金")。
+entry(山学, n, [山学研究], "山的研究").
+entry(测高计, n, [测高计], "一种气压计").
+entry(洪亮, 形容词, [], "声音饱满清晰").
+`entry(孤儿, v, [失去父母,失去父母的,失去父母们], "剥夺双方父母").`
+entry(奥尔弗斯的, 形容词, [], "神秘的").
+entry(神秘的, 形容词, [], "神秘").
+条目(orphism, n, [orphisms], "一种艺术风格").
+条目(orfrey, 名词, [orfreys], "装饰性带或边框")。
+orpiment(条目, 名词, [orpiments], "黄色染料").
+entry(欧氏黄杨, n, [欧氏黄杨], "绵松").
+entry(松萝, n, [松萝], "一种多年生草本植物").
+entry(orra, 形容词, [], "偶尔的").
+entry(天体仪, n, [天体仪], "太阳系的机械模型").
+条目(orrice, n, [orrices], "鸢尾草")。
+entry(欧芹, n, [欧芹类], "一种开花植物").
+入口(ort, n, [orts], "食物碎片").
+entry(正交管, n, [正交管], "一种电视摄像机管").
+entry(正射, 形容词, [], "与全色域的自然照片的复制相关").
+entry(正统, n, [正统的], "持有传统信仰的人").
+entry(正音学, n, [正音学], "正确发音的研究").
+入口(矫形器, n, [矫形器], "一种矫形器").
+entry(矫形器, n, [矫形器具], "用于支撑弱关节或肌肉的支架")。
+entry(食雀鹰, n, [食雀鹰], "一种欧洲的鸟").
+条目(羚羊, 名词, [羚羊们], "一种非洲羚羊").
+entry(意大利米, n, [意大利米], "米状意大利面").
+入口(操作系统, n, [开口], "开口").
+entry(os, n, [奥斯特], "一个冰碛丘").
+entry(os, n, [ossa], "一块骨头")。
+entry(oscar, n, [奥斯卡鱼], "一种南美洲的鱼").
+entry(莺科, n, [莺科鸟], "任何鸣禽家族OSCININE 形容词").
+entry(打哈欠, 形容词, [], "yawning").
+词条(口器, 复数, [], "口器的").
+entry(紧密贴合, 形容词, [], "紧密贴合").
+entry(口部的, 形容词, [], "关于口腔").
+entry(接吻, v, [接吻了,接吻中,接吻], "接吻").
+entry(接吻孔, 名词, [接吻孔们], "接吻孔").
+词条(口孔, n, [口孔], "海绵中的一个开口")。
+entry(ose, n, [oses], "一条冰川堤").
+入口(奥塞特拉, 名词, [奥塞特拉鱼子], "一种金色或褐色的鱼子酱")。
+entry(柳条, n, [柳条], "一种欧洲树木柳条 adj").
+条目(嗅觉依赖的, 形容词, [], "主要依靠嗅觉的").
+entry(osmics, npl, [], "嗅觉的研究").
+条目(锇, n, [锇们], "一种金属元素OSMIC OSMIOUS adj")。
+entry(osmol, n, [渗透摩尔], "渗透压单位OSMOLAL 形容词").
+entry(osmolar, 形容词, [], "渗透").
+entry(渗透, 名词, [渗透], "渗透").
+entry(osmose, v, [渗透了,渗透中,渗透], "经历渗透").
+entry(渗透, n, [渗透], "流体通过膜的扩散形式") .
+entry(渗透的, 形容词, [], "有关渗透作用").
+entry(osmous, 形容词, [], "含有锇").
+entry(奥斯蒙德, 名词, [奥斯蒙德的], "大型蕨类植物的一种属的任何一种").
+entry(蚌壳蕨, n, [蚌壳蕨类], "蚌壳蕨").
+entry(奥斯纳堡, 名, [奥斯纳堡布], "一种棉织品").
+entry(鹗, n, [鹗], "一种美洲鹰")。
+entry(ossa, pl, [], "奥斯的").
+entry(骨架, n, [骨架们], "一个框架").
+entry(骨胶, n, [骨胶], "骨中的一种蛋白质").
+entry(骨质, 形容词, [], "类似骨头").
+```prolog
+entry(奥赛特拉, n, [奥赛特拉斯], "奥塞特拉").
+```
+entry(ossia, conj, [], "或者  用作音乐指示").
+入口(ossicle, n, [ossicles], "小骨头")
+entry(骨化, 形容词, [], "与骨的形成有关").
+entry(骨化者, n, [骨化者们], "进行骨化的人").
+entry(骨化, 动词, [骨化了, 骨化中, 骨化], "变成骨头").
+```prolog
+entry(炖小牛膝, n, [炖小牛膝], "用蔬菜和白葡萄酒炖的小牛膝菜肴").
+```
+entry(骨箱, n, [骨箱], "装死者骨头的容器").
+entry(osteal, 形容词, [], "骨").
+```prolog
+entry(骨炎, n, [骨炎类], "骨的炎症OSTEITIC adjOSTEOID n pl OSTEOIDS未钙化的骨基质OSTEOMA n pl OSTEOMAS或OSTEOMATA一种骨组织肿瘤OSTEOSIS n pl OSTEOSES或OSTEOSESthe 骨的形成OSTIA 口的复数OSTIARY n pl OSTIARIES教堂的门卫OSTINATO n pl OSTINATOS或OSTINATI不断重复的音乐短语OSTIOLE n pl OSTIOLES一个小的身体开口OSTIOLAR adjOSTIUM n pl OSTIA身体器官的开口OSTLER n pl OSTLERShostlerOSTMARK n pl OSTMARKS前东德的货币单位OSTOMATE n pl OSTOMATES一个做过造口手术的人OSTOMY n pl OSTOMIES一种外科手术OSTOSIS n pl OSTOSISES或OSTOSESthe 骨的形成OSTRACOD n pl OSTRACODS一种小型淡水甲壳动物OSTRACON n pl OSTRACA上面有铭文的碎片OSTRAKON n pl OSTRAKAostraconOSTRICH n pl OSTRICHES一种大型不会飞的鸟OTAKU npl 在日本擅长计算机技术的年轻人OTALGIA n pl OTALGIAS耳痛OTALGIC adjOTALGY n pl OTALGIESotalgiaOTHER n pl OTHERS两个或多个中的一个OTIC adj 关于耳朵的OTIOSE adj 懒散的OTIOSELY advOTIOSITY n pl OTIOSITIESthe 懒散状态OTITIS n pl OTITISES或OTITIDES耳的炎症OTITIC adjOTOCYST n pl OTOCYSTS许多无脊椎动物的平衡器官OTOLITH n pl OTOLITHS在内耳形成的硬质块OTOLOGY n pl OTOLOGIES耳科学OTOLOGIC adjOTOSCOPE n pl OTOSCOPES检查耳的仪器OTOSCOPY n pl OTOSCOPIES使用检耳镜OTOTOXIC adj 对听觉或平衡有不良影响OTTAR n pl OTTARS阿塔尔OTTAVA n pl OTTAVAS八度OTTER n pl OTTERS一种食肉哺乳动物OTTO n pl OTTOS阿塔尔OTTOMAN n pl OTTOMANS一种沙发OUABAIN n pl OUABAINS一种心脏兴奋剂OUCH v OUCHED OUCHING OUCHESto 装饰有珍贵宝石的设置OUD n pl OUDS北非的一种弦乐器OUGHT v OUGHTED OUGHTING OUGHTSto 欠OUGIYA n pl OUGIYASouguiyaOUGUIYA n pl OUGUIYAS毛里塔尼亚的货币单位OUISTITI n pl OUISTITIS一种南美猴子OUNCE n pl OUNCES一种重量单位OUPH n pl OUPHSoupheOUPHE n pl OUPHES小精灵OUR pron 一个我们所有格形式OURANG n pl OURANGSorangOURARI n pl OURARIScurareOUREBI n pl OUREBISoribiOURIE adj 冷得发抖OURS pron 一个我们所有格形式OURSELF pron 用于正式或皇室场合的自称OUSEL n pl OUSELSouzelOUST v OUSTED OUSTING OUSTSto 从职位或位置上驱逐或移除OUSTER n pl OUSTERSthe 驱逐的行为")
+```
+条目(pa, n, [pas], "一名父亲")。
+entry(槟榔, n, [槟榔叶], "一种槟榔叶，包裹着槟榔和香料").
+条目(平淡无味, 名词, [平淡无味们], "乏味的文字或演说")。
+词条(食物, 名词, [食物们], "食物食物的 形容词").
+entry(pac, n, [pacs], "一种像莫卡辛鞋的鞋子")。
+entry(惹雅鼠, 名词, [惹雅鼠们], "一种大型啮齿动物").
+实体(步伐, 动词, [步定,步定,步定们], "以规律的步伐行走")。
+entry(pacer, n, [步行者], "一种步态为慢步的马").
+entry(pacey, 形容词, [], "更快的 保持快速速度的最迅速").
+entry(帕查, 名词, [帕查斯], "帕夏").
+条目(恐慌, 名词, [恐慌症], "恐慌状态").
+entry(帕夏利克, 名词, [帕夏利克们], "帕夏里克").
+entry(柏青哥, n, [柏青哥们], "一种日本的弹球游戏").
+entry(曹棋, n, [曹棋], "印度的棋盘游戏").
+entry(帕楚利, n, [帕楚利草], "一种东印度草本植物")
+entry(帕丘科, n, [帕丘科们], "一个华丽的墨裔美国青少年").
+entry(步伐较快, 比较级, [], "步伐快和步伐较快").
+entry(节奏最快, 最高级, [], "节奏快和步伐快的").
+entry(太平洋, 形容词, [], "和平的").
+条目(安抚, 过去时, [], "pacify的时态").
+词条(奶嘴, 名词, [奶嘴], "使安抚的东西")。
+entry(和平主义, n, [和平主义], "反对战争或暴力").
+entry(和平主义者, n, [和平主义者们], "和平主义的倡导者").
+入口(安抚, 动词, [安抚了, 安抚中, 安抚], "使和平")。
+入口(步频, n, [步频], "事件发生的速度")。
+条目(包, 动词, [打包, 打包中, 打包], "放入容器用于运输或存储PACKABLE adj.")。
+entry(包裹, v, [包装, 打包, 包裹物], "将物品包装成包裹或盒子的动作")
+条目(包装者, n, [包装者们], "一个包装物品的个体")。
+entry(打包者, n, [打包者们], "打包的人").
+entry(packet, v, [封包,封装,封袋], "使成为一个小包").
+entry(打包, n, [包装材料], "用于打包的材料").
+entry(packly, 副词, [], "紧密地").
+entry(流动小贩, n, [流动小贩们], "一个小贩").
+entry(packness, n, [packnesses], "亲密").
+entry(背包, n, [背包], "一个可背在背上的携带袋子")。
+entry(packwax, n, [packwaxes], "paxwax").
+entry(协议, n, [协议], "一种协议").
+条目(paction, n, [pactions], "一个协定").
+entry(pacy, adj, [], "更俏皮 最俏皮pacey").
+entry(甜甜圈, n, [甜甜圈们], "一种有馅料的圆形甜甜圈").
+入口(垫子, v, [软垫,填充,衬垫], "用软材料排列或填充")。
+entry(崖豆木, n, [崖豆木], "一种热带树").
+词条(填充者, n, [填充者], "一个填充的东西").
+entry(稻田, 复数, [], "稻田的").
+entry(衬垫, n, [衬垫物], "用于填充的材料").
+条目(桨, 动词, [桨过, 桨中, 桨们], "用宽刃工具推动")。
+entry(划桨者, n, [划桨者们], "划桨的人").
+entry(划桨, n, [划桨动作], "某人划桨的动作")
+条目(围场, v, [围场了, 围场中, 围场们], "将马限制在一个围栏中")。
+entry(稻田, n, [稻田], "水稻田").
+entry(稻田, n, [稻田们], "稻").
+条目(padishah, n, [padishahs], "一个君主")。
+条目(锄头, 名词, [锄头们], "一种锄").
+```prolog
+entry(挂锁, v, [锁住,上锁,锁], "用一种类型的锁定住").
+```
+entry(驢馬, n, [驢馬們], "一匹移動速度悠閒的馬").
+入口(木材, 名词, [木材们], "霸王树木").
+entry(神父, n, [神父们], "或 PADRI一位基督教牧师")
+entry(女老板, 名词, [女老板们], "女性的老板或雇主").
+entry(主人, n, [主人们], "或 主人，一个主人或老板")。
+entry(pādìshāh, n, [pādìshāhmen], "pādìshāh").
+entry(丝绸, n, [丝绸们], "一种坚韧的丝绸织物").
+entry(颂歌, n, [颂歌], "喜悦之歌").
+条目(颂歌主义, 名词, [颂歌主义们], "颂歌的吟唱").
+入口(西班牙海鲜饭, 名词, [西班牙海鲜饭], "一种藏红花味的炖菜").
+条目(paeon, n, [paeons], "一个有四个音节的音步PAEONIC 形容词")。
+entry(农民, n, [农民们], "意大利村民").
+条目(同胞, 名词, [同胞们], "或PAESANI一位同乡")。.
+entry(異教徒, n, [異教徒們], "信奉多神教的追隨者").
+entry(异教徒领域, n, [异教徒们], "异教徒的领域").
+词条(异教化, 动词, [已异教化, 进行异教化, 异教化], "使异教化").
+entry(异教徒似的, 形容词, [], "类似于异教徒").
+entry(异教主义, n, [异教主义们], "非宗教态度").
+entry(异教徒, n, [异教徒们], "一个异教徒").
+条目(异教化, 动词, [已异教化, 正在异教化, 异教化], "使不宗教").
+entry(页面, v, [页, 分页, 页数], "通过呼喊名字来召唤").
+entry(盛会, n, [盛会], "一场精心策划的公共盛况").
+entry(童仆, n, [童仆们], "一种女性的发型").
+entry(满页, n, [满页们], "一页能容纳的量").
+entry(传呼机, n, [传呼机们], "一个传呼器").
+entry(页数的, 形容词, [], "与书本的页面相关").
+entry(标页, v, [标页过,标页中,标页], "给页面编号").
+entry(分页, n, [分页], "计算机页面的传输").
+entry(pagod, n, [pagods], "宝塔").
+entry(宝塔, 名词, [宝塔], "远东寺庙").
+entry(寄居蟹, 名词, [寄居蟹], "一种隐士蟹")。
+entry(寄居蟹, n, [寄居蟹们], "寄居蟹").
+entry(pah, 感叹词, [], "用作表示厌恶的感叹词").
+entry(巴列维, n, [巴列维], "伊朗的一种旧硬币").
+条目(火山熔岩, 名词, [火山熔岩], "光滑凝固的熔岩").
+条目(已付款, a, [], "pay的过去式").
+entry(派克, 动词, [派克德, 派克英, 派克斯], "击打或打击").
+entry(桶, 名词, [桶子], "一个防水的圆柱形容器")。
+entry(桶, n, [桶满], "或桶满多如桶能装").
+entry(paillard, n, [paillards], "一片被捶打薄并在烤架上烤的肉").
+entry(疼痛, v, [疼痛了,疼痛中,疼痛], "引起疼痛、痛苦或困扰").
+entry(大腹便便, n, [大腹便便们], "大肚子").
+entry(痛苦, 形容词, [], "更痛苦 最痛苦 导致痛苦").
+entry(无痛的, 形容词, [], "不引起痛苦").
+entry(绘画, 动词, [绘画过,绘画中,绘画们], "用染料制作的代表性作品").
+条目(颜料盒, n, [颜料盒子], "一个装有干颜料的盒子")。
+entry(画家, n, [画家们], "画画的人").
+entry(画, n, [画作], "用颜料创作的图画").
+entry(painty, 形容词, [], "PAINTIER PAINTIEST被油漆覆盖").
+条目(对, v, [配对, 配对中, 成对], "安排成两个一组").
+entry(配对, n, [配对], "在比赛中配对的两名对手").
+entry(成对, 副词, [], "两两成组").
+entry(巴沙, n, [巴沙], "或巴沙硬币的巴基斯坦").
+词条(乡亲, n, [乡亲们], "paisano").
+entry(女同胞, n, [女同胞们], "女性同乡").
+entry(同胞, n, [同胞们], "一个同乡").
+entry(派萨, a, [], "派萨的复数").
+entry(佩斯利, n, [佩斯利们], "一种图案羊毛织物").
+entry(睡衣, n, [睡衣], "用于睡觉或放松的服装").
+entry(身着睡衣的, 形容词, [], "穿着睡衣").
+entry(pak, n, [paks], "包装").
+entry(非毛利人, n, [非毛利人们], "一个不是毛利血统的人").
+entry(帕可拉, n, [帕可拉们], "一种油炸小辣饼，里面有蔬菜或肉").
+entry(伙伴, 动词, [结伴, 结伴中, 伙伴们], "作为朋友交往").
+entry("词", n, ["词语"], "一个词").
+条目(宫殿, n, [宫殿], "一个皇家住所PALACED adj")。
+entry(圣骑士, n, [圣骑士们], "一位骑士般的冠军").
+entry(宫殿, n, [宫殿], "一个宫殿").
+entry(棕榈叶棚屋, n, [棕榈叶棚屋], "一种有棕榈叶屋顶的开放式住宅").
+entry(腭, n, [腭骨], "上颚的骨头").
+entry(上颚, n, [上颚们], "口腔的顶部").
+程序项(宫殿般的, 形容词, [], "类似于宫殿").
+entry(巴拉丁, 名词, [巴拉丁们], "帝国高级官员").
+entry(废话, v, [废话过, 正在废话, 废话], "聊天").
+条目(宫殿, n, [宫殿], "一座令人印象深刻的建筑").
+入口(宫殿式裤子, n复, [], "女士阔腿裤").
+条目(苍白, 形容词, [], "较苍白 最苍白 缺乏颜色强度").
+entry(苍白, v, [变苍白, 变苍白中, 变苍白], "变得或使变得苍白").
+条目(穗苞, 名词, [穗苞], "一个小苞片PALEAL 形容词").
+词条(覆鳞的, 形容词, [], "覆盖着鳞片")。
+入口(白脸, n, [白脸们], "一个白人").
+entry(苍白地, 副词, [], "以苍白的方式").
+entry(苍白, n, [苍白性], "肤色苍白的特质").
+entry(paleocon, n, [极右翼保守派], "极右翼保守派").
+entry(古土壤, n, [古土壤层], "一层古老的土壤").
+入口(更苍白的, 比较级, [], "苍白的").
+条目(最苍白, 最高级, [], "的 苍白").
+entry( palestra, n, [讲座], "或 PALESTRAEa 古希腊的体育学校").
+entry(栈板, n, [栈板], "浅的").
+entry(paletot, n, [paletots], "一种宽松的外套").
+条目(调色板, n, [调色板们], "艺术家用来调和颜色的板子").
+entry(暗淡地, 副词, [], "暗淡地").
+条目(垂直, 副词, [], "竖直地").
+entry(拴马, n, [拴马们], "一种骑马").
+entry(帕利, n, [悬崖], "夏威夷的一个悬崖").
+entry(梯级, 比较级, [], "的梯级").
+entry(最苍白的, 最高级, [], "苍白的").
+entry(帕利卡, 名词, [帕利卡], "希腊士兵")。
+entry(非婚同居配偶赡养费, n, [非婚同居配偶赡养费], "支付给已经分居的未婚伴侣中的一方的津贴").
+entry(栅栏, n, [栅栏], "一个栅栏").
+条目(悔诗, n, [悔诗集], "正式的撤回").
+条目(栅栏, 动词, [栅栏了, 栅栏中, 栅栏们], "用重栅栏加固").
+entry(微微苍白, 形容词, [], "somewhat pale").
+entry(变得无味, 动词, [变得无味了, 变得无味中, 变得无味], "变得无味").
+entry(帕拉迪亚, 复数名词, [], "保障措施").
+entry("钯的", adj, [], "与金属元素钯有关").
+entry(暗淡, 过去, [], "pal 的时态")。
+条目(托盘, 动词, [托盘化, 托盘化中, 托盘], "放置在平台上进行存储或搬运")。
+entry(腋甲, n, [腋甲], "一种保护腋下的盔甲").
+entry(pallia, a, [], "pallium 的复数").
+entry(苍白, 形容词, [], "与大脑的一部分有关").
+请输入(palliate, 动词, [缓和了, 缓和中, 缓和], "掩饰严重性")。
+入口(苍白, 形容词, [], "更苍白 最苍白 苍白地 副词").
+entry(帕利耶尔, 比较级, [], "之 友好").
+entry(最熟的, 最高级, [], "熟稔的").
+entry(朋友, 现在, [], "pal 或 pall 的分词").
+entry(斗篷, n, [斗篷们], "或者斗篷古罗马穿的披风").
+入口(苍白, 名词, [苍白的], "苍白").
+entry(pally, 形容词, [], "标志着亲密友谊的最亲密标志").
+`entry(棕榈, v, [用手掌拍, 正在用手掌拍, 用手掌拍们], "用手掌内侧表面触摸").`
+entry(掌侧, 形容词, [], "与手掌有关").
+entry(杰出的, 形容词, [], "值得称赞").
+entry(掌状, 形容词, [], "类似于一只张开的手").
+entry(掌状的, 形容词, [], "掌状").
+入口(掌球,n,[掌球],"从手掌和拇指投出的棒球").
+entry(帕尔默, 名词, [帕尔默们], "一个宗教朝圣者")。
+entry(棕榈饰, n, [棕榈饰], "一种装饰品").
+条目(棕榈树, n, [棕榈树们], "或棕榈树们一种热带树木")。
+entry(一掌之量, n, [一掌之量们], "一只手掌能容纳的量").
+条目(棕榈叶, 名词, [棕榈叶], "一种形状像棕榈叶的糕点")。
+entry(最繁荣的, 最高级, [], "繁荣的").
+entry(手相师, n, [手相师们], "算命师").
+条目(棕榈油, 名词, [棕榈油], "一种化学化合物").
+条目(棕榈状, 形容词, [], "类似于棕榈树").
+entry(掌上电脑, n, [掌上电脑们], "一种可以放在手掌上的小型计算机").
+entry(palmy, 形容词, [], "繁荣标志着繁荣").
+entry(棕榈树, n, [棕榈树], "一种热带树").
+条目(帕洛米诺, n, [帕洛米诺马群], "一种有金色皮毛和白色鬃毛的马").
+entry(笨蛋, n, [笨蛋], "一个低级的拳击手").
+entry(palp, v, [过去式, 进行时, 复数], "触摸").
+entry(明显的, 形容词, [], "能够被感知明白地副词").
+entry(唇鬚, 形容词, [], "与口器相关").
+entry(触诊, 动词, [触诊过,触诊中,触诊], "通过触摸进行检查").
+entry(触诊者, n, [触诊者们], "触诊的人").
+entry(眼睑, n, [眼睑], "或 PALPEBRAE眼睑").
+entry(触须, 名词, [触须], "节肢动物的感觉器官").
+entry(palsa, n, [多边形泥炭丘], "亚北极地区的一种地貌").
+入口(友情, 名词, [友谊], "亲密朋友之间的关系")。
+entry(麻痹, v, [麻痹的,麻痹中,麻痹], "使瘫痪").
+entry(麻痹, 形容词, [], "最麻痹 更麻痹的方式友好而又不真诚").
+```prolog
+entry(palter, v, [paltered, paltering, palters], "说话或行动不真诚").
+```
+entry(谈判者, n, [谈判者们], "一个进行谈判的人").
+条目(微不足道, 形容词, [], "更微不足道 最微不足道 琐碎 微不足道地 副词").
+entry(沼泽的, 形容词, [], "关于沼泽的").
+entry(疟疾, n, [疟疾们], "malaria").
+```prolog
+entry(paly, adj, [], "略显苍白").
+```
+条目(潘姆, n, [潘姆的], "某些纸牌游戏中的梅花杰克卡").
+entry(潘帕斯, n, [潘帕斯草原], "南美洲的草原").
+entry(潘帕斯人, 名词, [潘帕斯人], "潘帕斯的原住民").
+entry(娇宠, 动词, [娇宠了,娇宠着,娇宠], "过度纵容或极度溺爱").
+entry(纵容者, n, [纵容者们], "纵容他人者").
+条目(彭佩罗, 名词, [彭佩罗风], "一种寒冷干燥的风").
+entry(小册子, n, [小册子们], "有纸封面的印刷作品").
+entry(严厉批评, 动词, [严厉批评过, 正在严厉批评, 严厉批评], "严厉地批评")。
+entry(灵丹妙药, n, [灵丹妙药], "一种治疗所有疾病或病痛的灵丹妙药PANACEAN adj").
+条目(浮夸, 名词, [浮夸们], "一个装饰性的羽毛簇").
+entry(熊猫, n, [熊猫们], "一种浓稠的酱汁").
+entry(巴拿马, n, [巴拿马帽], "一种轻便的帽子").
+entry(长雪茄, n, [长雪茄], "一种细长的雪茄").
+entry(煎, v, [煎过, 正在煎, 煎], "在锅中用少量或无脂肪煎炸")
+entry(煎饼, v, [煎饼了,煎饼中,煎饼们], "以某种方式着陆飞机").
+entry(潘切塔, 名词, [潘切塔], "意大利培根（无烟熏）").
+```prolog
+entry(panchax, n, [panchaxes], "一种热带鱼").
+```
+entry(胰腺, n, [胰腺], "一个大的腺体").
+entry(熊猫, n, [熊猫], "一种食草性哺乳动物").
+词条(班丹, 名词, [班丹], "露兜树").
+词条(露兜树, n, [露兜树类], "或PANDANI一种热带植物")。
+entry(法律汇编, n, [法律汇编们], "一套完整的法律条文").
+entry(大流行病, n, [大流行病们], "一种广泛传播的疾病").
+条目(迎合, 动词, [迎合了, 迎合中, 迎合], "为他人的欲望提供满足").
+Prolog:
+entry(迎合者, n, [迎合者们], "迎合别人的人").
+entry(扑打, 过去, [], "pandy 的时态").
+条目(糖果, 现在时, [], "pandy的第三人称单数")。
+条目(潘迪特, n, [潘迪特们], "印度的智者或博学者").
+```prolog
+entry(潘多尔, n, [潘多尔们], "潘都尔").
+```
+entry(潘多拉, n, [潘多拉的], "班多莉").
+entry(潘多拉, n, [潘多拉斯], "班多尔").
+入口(掠夺者, 名词, [掠夺者们], "抢劫的士兵")。
+词条(苹果派, 名词, [苹果派复数], "一种苹果甜点").
+条目(琵琶, 名词, [琵琶们], "bandore").
+entry(pandy, v, [pandied, pandying, pandies], "通过击打手来惩罚")。
+entry(窗格, 名词, [窗格], "窗户的玻璃板PANED 形容词").
+entry(奶酪, 名词, [奶酪们], "一种牛奶凝乳奶酪")。
+entry(板, v, [镶板, 镶板中, 板], "或用薄片材料装饰").
+entry(paneless, 形容词, [], "缺少窗格").
+entry(镶板, n, [镶板材料], "用于镶板的材料").
+entry(小组成员, n, [小组成员们], "一个讨论或顾问小组的成员").
+`entry(panelled, a, [], "盘板的过去式").`
+entry(镶板, a, [], "panel 的现在分词").
+entry(潘尼特拉, n, [潘尼特拉斯], "潘塔拉").
+entry(平底锅鱼, v, [平底锅鱼过, 平底锅钓鱼, 平底锅鱼], "钓任何可以整条油炸的小鱼").
+条目(潘佛尔特, 名词, [潘佛尔特斯], "一种硬质香料蛋糕")。
+entry(煎, 动词, [煎过, 煎着, 煎], "在平底锅中煎").
+entry(锅满额, n, [锅的容量], "锅能容纳的量")
+条目(庞, 动词, [庞过, 庞着, 庞们], "引起痛苦抽搐").
+entry(panga, n, [弯刀], "一把大刀").
+条目(pangen, n, [pangens], "一种假设的控制遗传的原生质粒子")。
+```
+entry(pangene, n, [泛基因], "泛基因").
+```
+entry(穿山甲, n, [穿山甲], "一种无齿哺乳动物").
+entry(回文, n, [回文], "包含字母表中所有字母的句子").
+entry(泛人类, 形容词, [], "与全人类有关").
+entry(恐慌, v, [恐慌过了, 正在恐慌, 感到恐慌], "被恐惧压倒").
+entry(惊恐, 形容词, [], "容易惊慌的").
+entry(穗状花序, n, [穗状花序], "一个松散分枝的花簇PANICLED adj").
+entry(黍属, n, [黍属草], "一种草").
+```prolog
+entry(篮子, n, [篮子们], "pannier").
+```
+entry(意大利三明治, n, [意大利三明治们], "或意大利三明治——用小面包制作的三明治").
+entry(平底锅状的, 形容词, [], "类似于用于烹饪的平底锅的容器").
+entry(泛米西亚, n, [泛米西亚们], "在繁殖种群内随机交配").
+entry(随机交配, n, [随机交配], "随机交配").
+entry(丝绒, n, [丝绒], "一种光泽的天鹅绒").
+entry(panned, 过去式, [], "pan的时态")
+entry(panner, n, [淘金者], "一个用淘洗盘收集金矿的人").
+`entry(篮子, n, [篮子], "一个大篮子").`
+entry(平底锅, n, [平底锅们], "小平底锅")。
+条目(拼音, 现在时, [], "平底锅的分词").
+entry(钢鼓演奏者, n, [钢鼓演奏者们], "演奏钢鼓的人").
+entry(粗糖, 名词, [粗糖], "一种粗糙的墨西哥糖").
+entry(潘诺切, 名词, [潘诺切斯], "帕诺查").
+entry(全副盔甲, n, [全副盔甲们], "一套盔甲").
+entry(全景, 形容词, [], "在一个视图中包括所有可见的事物").
+entry(全景, 名词, [全景们], "一个完整的视野")。
+入口(長笛, 名詞, [長笛], "一種樂器").
+entry(泛智, n, [泛智们], "普遍知识").
+entry(三色堇, n, [三色堇], "一种开花植物").
+entry(喘气, v, [喘了气,正喘气,喘气], "快速且困难地呼吸").
+entry(裤裤, n, [裤裤], "带有荷叶边装饰的长内裤").
+entry(万神殿, n, [万神殿], "一座供奉所有神灵的庙宇").
+entry(黑豹, n, [黑豹们], "一种豹")。
+entry(内裤, n, [内裤], "女士或儿童的内衣")。
+entry(内裤, 复数, [], "内裤的").
+entry(波形瓦, n, [波形瓦], "一种屋顶瓦PANTILED adj").
+入口(哑剧, 名, [哑剧], "一种哑剧").
+entry(拖鞋, n, [拖鞋], "一种拖鞋").
+entry(九节诗, n, [九节诗], "一种诗体").
+entry(厨房储藏室, n, [储藏室], "用于存放厨房用具的壁橱或房间")。
+entry(裤装, n, [裤装], "一种女性套装").
+entry(内裤, n, [内裤], "内裤").
+entry(坦克, n, [坦克们], "一种装甲战斗车辆").
+entry(奶糊, n, [奶糊们], "一种供婴儿食用的软食").
+入口(爸爸, 名词, [爸爸们], "一个父亲")。
+entry(教皇职位, n, [教皇职位们], "教皇的职务").
+entry(帕帕丹, n, [帕帕丹们], "帕帕丹").
+entry(薄饼, n, [薄饼们], "印度薄饼").
+条目(薄饼, n, [薄饼们], "一种印度薄脆饼").
+entry(木瓜酶, n, [木瓜酶们], "一种酶").
+entry(教皇的, 形容词, [], "与教皇有关PAPALLY 副词").
+entry(papalist, n, [papalists], "教皇至上支持者")。
+entry(木瓜, 名词, [木瓜], "一种肉质水果").
+entry(木瓜, n, [木瓜], "一种像瓜类的水果", 形容词).
+入口(纸, v, [纸张化, 纸化中, 纸化复数], "用纸（由纤维素浆制成的薄片材料）覆盖或包裹")。
+entry(报童, n, [报童们], "一个报童").
+entry(书单者, 名词, [书单者们], "一个粘贴墙纸的人").
+entry(纸质的, 形容词, [], "类似于纸").
+entry(帕菲恩, n, [帕菲恩人], "妓女").
+entry(乳头, n, [乳头状突起], "乳头状突起PAPILLAR 形容词").
+entry(蝴蝶犬, 名词, [蝴蝶犬们], "一种长有大耳朵的小型犬").
+entry(小宝宝, n, [小宝宝们], "一个美洲原住民婴儿").
+entry(pappadam, n, [黄饼], "薄脆饼").
+条目(炸饼, 名, [炸饼们], "炸饼")。
+entry(帕皮, a, [], "帕普斯的复数").
+```prolog
+entry(pappier, 比较级, [], "比 pappy").
+```
+entry(纸浆, 复数, [], "的纸浆")。
+entry(小孩, n, [小孩們], "小孩").
+条目(帕普斯, 名词, [帕皮], "某些植物瘦果上的一簇鬃毛PAPPOSE PAPPOUS 形容词")。
+entry(pappy, adj, [], "类似纸的：PAPPIER PAPPIEST").
+条目(爸爸, 名词, [爸爸们], "父亲").
+entry(辣椒粉, n, [辣椒粉们], "辣椒粉").
+entry(辣椒粉, n, [辣椒粉], "一种由红辣椒制成的调味品").
+entry(papula, n, [papulae], "或 PAPULAS 丘疹").
+entry(丘疹, n, [丘疹], "丘疹性 丘疹病 丘疹 adj").
+entry(纸莎草, n, [纸莎草植物], "或纸莎草种类一种高大的水生植物纸莎草的 纸莎草制的 adj").
+entry(par, v, [parred,parring,pars], "在高尔夫中以标准杆数击球").
+条目(para, n, [paras], "或 PARAEa 女性关于生育后代的状况")。
+entry(寓言, 名词, [寓言], "一个传达道德或宗教教训的简单故事").
+`entry(抛物线, n, [抛物线], "或 PARABOLAEa 二次曲线")。`
+entry(伞压尺, n, [伞压尺们], "将分子体积与表面张力联系起来的数学常数")。
+entry(游行, 动词, [游行过, 游行中, 游行们], "在公开队伍中行进").
+```prolog
+entry(游行者, n, [游行者们], "参与游行的人").
+```
+entry(范式, n, [范式], "一种模式或例子").
+entry(天堂, n, [天堂], "极美或极乐之地").
+entry(旅馆, n, [旅馆们], "或 西班牙的客栈").
+entry(抗敌, n, [防护堤], "一个保护性的堤坝")。
+entry(悖论, n, [悖论们], "一个看似矛盾或荒谬但可能为真的陈述").
+entry(空投, 动词, [已空投, 正在空投, 空投], "通过降落伞投递")
+entry(石蜡, v, [涂石蜡,涂石蜡中,石蜡涂层], "用蜡状物质涂层").
+入口(降落伞翼, n, [降落伞翼], "一个类似于降落伞的织物装置").
+entry(paraform, n, [聚合醛], "一种用作防腐剂的物质").
+```prolog
+条目(词尾附加, 名, [词尾附加音], "在单词末尾添加一个或多个声音").
+```
+entry(典范, v, [典范过,典范进行,典范们], "进行比较").
+入口(虎皮鹦鹉, n, [虎皮鹦鹉们], "一种小型鹦鹉")。
+entry(風箏傘, n, [風箏傘], "用摩托艇拖著人造風箏傘在空中飛行").
+条目(视差, 名词, [视差], "物体的明显光学位移").
+条目(parallel, v, [paralleled, paralleling, parallels], "或 PARALLELLED PARALLELLING PARALLEL相似或类似于")。
+entry(瘫痪, v, [瘫痪了,瘫痪中,使瘫痪], "使麻痹").
+项(瘫痪, 动词, [瘫痪的, 瘫痪中, 瘫痪], "使无法行动")。
+entry(参数, n, [参数], "或 参数装饰性法衣")。
+entry(paramo, n, [paramos], "南美洲的高原地区")
+entry(情人, n, [情人们], "私通的情人")
+entry(帕郎刀, n, [帕郎刀们], "一把重刀").
+entry(偏执, 名词, [偏执症], "偏执").
+entry(偏执狂, n, [偏执狂症], "一种精神疾病").
+entry(偏执狂, 名词, [偏执狂们], "一个偏执的人").
+entry(偏执, 名词, [偏执者], "受偏执狂影响的人").
+entry(女儿墙, n, [女儿墙], "保护墙").
+entry(段尾, n, [段尾们], "签名末端的华丽").
+条目(对草快, n, [对草快们], "一种除草剂").
+entry(长尾小鹦鹉, n, [长尾小鹦鹉], "parakeet").
+entry(滑翔运动, v, [滑翔过,正在滑翔,滑翔], "在由汽车或船拖曳的降落伞上滑翔").
+entry(帕拉桑, n, [帕拉桑], "一种波斯距离单位").
+entry(文件, n, [文件们], "或文件或文件在安息日阅读的托拉的一部分")
+entry(寄生虫, n, [寄生虫], "一种生活并以其他生物为食的生物体").
+entry(阳伞, n, [阳伞们], "一个小的轻便雨伞").
+entry(馅饼, n, [馅饼], "一种在烤盘上油炸的无酵面包").
+entry(抛锚, n, [抛锚], "一种用于切割电缆的水下装置").
+条目(伞翼, n, [伞翼], "一种翼状降落伞")。
+entry(多孔动物, n, [多孔动物], "任何一种多细胞动物的主要分类").
+entry(预烘, v, [预烘好的,预烘中,预烘], "部分烘烤").
+条目(微煮, 动词, [微煮过, 微煮中, 微煮], "通过短时间煮沸部分地烹饪").
+条目(包裹, v, [包裹的, 包裹中, 包裹], "或被包裹 包裹中 包裹分成部分或份额")。
+入口(共同继承人, 名词, [共同继承人], "共有继承人")。
+entry(烘干, v, [烘干了,烘干中,烘干], "使非常干燥").
+entry(布棋戏, n, [布棋戏们], "帕奇西").
+entry(飞行棋, 名词, [飞行棋], "飞行棋").
+entry(parclose, n, [parcloses], "用于在教堂中分隔区域的屏幕").
+入口(豹, 名词, [豹子], "一种豹子")。
+entry(pardah, n, [pardahs], "帷幕").
+entry(巴尔迪, 感叹词, [], "pardi").
+条目(pardi, 感叹词, [], "用于轻微的誓言")。
+条目(帕迪, 感叹词, [], "pardi").
+条目(豹的, 形容词, [], "关于豹的").
+entry(伙伴, n, [伙伴们], "朋友").
+entry(赦免, v, [赦免了,赦免中,赦免], "赦免犯罪责任").
+entry(赦免者, n, [赦免者们], "一个宽恕他人过错的人").
+entry(帕迪, 语气词, [], "pardi").
+entry(削减, v, [切削,削去,削], "去除外层覆盖物的").
+```prolog
+entry(并性, n, [并性状态], "具有相邻或靠近的男性和女性生殖器官的状态").
+```
+entry(巴雷拉, 名词, [巴雷拉], "一种药用植物的根").
+entry(圆括号, n, [圆括号], "一个括号").
+```
+条目(父母, v, [ 抚养, 教育, 养育 ], "履行父亲或母亲的职责")。
+```
+entry(父母, 形容词, [], "有关父母").
+入口(斗篷, 名词, [斗篷们], "pareu").
+entry(去皮者, n, [去皮者们], "一个去皮的人").
+entry(parergon, n, [parerga], "源自于一部较大作品的创作").
+entry(轻瘫, n, [轻瘫], "部分失去移动能力").
+entry(偏瘫的, 名词, [偏瘫患者], "受瘫痪影响的人").
+entry(pareu, n, [pareus], "波利尼西亚服装").
+entry(帕雷夫, 形容词, [], "帕尔夫").
+entry(芭菲, n, [芭菲], "一种冷冻甜点").
+条目(晾皮, n, [晾皮], "一种生皮，用碱液浸泡以去除毛发并晾干")。
+条目(特性调整, 形容词, [], "具有相同平面内对应焦点的镜头").
+entry(抹灰, v, [抹过灰, 正在抹灰, 抹灰], "进行抹灰").
+条目(抹灰, 动词, [抹过灰,抹灰中,抹灰], "或 抹过灰 抹灰中 抹灰以覆盖石膏").
+entry(薄抹灰, n, [薄抹灰], "用于密封砖石的薄灰泥或抹灰层").
+入口(石斑鱼, n, [石斑鱼], "一种食用鱼").
+entry(幻日, 名词, [], "在日晕上出现的明亮圆斑").
+entry(parhelic, 形容词, [], "与幻日有关").
+`entry(贱民, n, [贱民们], "社会弃儿").`
+条目(巴里安, 名词, [巴里安人], "一种坚硬的白色瓷器")。
+entry(脏器的墙壁, n, [墙壁], "器官的墙壁").
+条目(顶骨, n, [parietals], "颅骨的一块骨头")。
+条目(削皮, 名词, [削皮], "削去的东西")。
+entry(巴黎, n, [巴黎们], "一种欧洲草本植物").
+entry(教区, 名词, [教区], "一个教会区").
+条目(奇偶性, n, [奇偶值], "等式")。
+entry(公园, v, [停放,停车,停车], "在某地暂时停留车辆").
+条目(派克大衣, 名词, [派克大衣], "带帽的衣服").
+entry(停车场, n, [停车场们], "一个多层的停车车辆结构").
+entry(parker, n, [parkers], "泊车者").
+entry(微型公园, n, [微型公园们], "一个小型公共公园").
+entry(parkier, 比较级, [], "of parky").
+entry(最冷的, 最高级, [], "parky 的").
+entry(帕金, n, [帕金斯], "一种用糖蜜和燕麦片制成的面包").
+entry(停车场, n, [停车场], "一个可以停放车辆的区域").
+entry(公园地, 名词, [公园地], "有孤立或成组树木的草地区域").
+entry(仿公园, 形容词, [], "类似户外娱乐场所").
+entry(跑酷, n, [跑酷], "通过跑步、攀爬或跳跃穿越环境障碍的运动").
+entry(公园道, 名词, [公园道们], "一个宽阔的高速公路").
+entry(parky, adj, [], "较冷寒冷").
+entry(说法, n, [说法], "一种说话的方式").
+entry(谈白, 形容词, [], "以类似讲话的方式演唱").
+entry(说话, 形容词, [], "说话的").
+entry(连本带利下注, v, [连本带利下注了,连本带利下注中,连本带利下注], "把原来的赌注和赢得的钱赌在接下来的事件上")。
+条目(谈判, 动词, [谈判了, 正在谈判, 谈判], "进行谈判")。
+entry(谈判, v, [谈判了,谈判中,谈判], "与敌人商议条款").
+entry(交涉者, n, [交涉者们], "进行谈判的人").
+entry(客厅, n, [客厅s], "接待来访者的房间").
+入口(客厅, 名词, [客厅们], "客厅").
+entry(危殆, 形容词, [], "危险").
+entry(帕尔马干酪, n, [帕尔马干酪们], "一种硬质干意大利奶酪").
+条目(仿效的, 形容词, [], "滑稽模仿").
+entry(仿讽者, n, [仿讽者们], "模仿讽刺他人的人").
+入口(边门, n, [边门], "在古希腊戏剧中演唱的颂歌")。
+entry(模仿, v, [模仿过, 模仿中, 模仿], "模仿一个严肃的文学作品以达到喜剧效果")。
+entry(发言, n, [发言], "一句话").
+entry(假释, v, [假释过,假释中,假释], "在服完刑之前从监狱释放").
+条目(假释犯, n, [假释犯们], "被假释的人").
+词条(派生词, 名词, [派生词], "具有相同词根的单词").
+entry(近义词关系, n, [近义词关系], "具有近义词状态").
+entry(长尾小鹦鹉, n, [长尾小鹦鹉们], "鹦鹉").
+entry(嗅觉失调, n, [嗅觉失调症], "嗅觉失常").
+entry(parotic, 形容词, [], "位于耳朵附近").
+entry(parotid, n, [腮腺], "唾液腺").
+entry(疣腺体, n, [疣腺体], "某些蟾蜍和青蛙的腺体").
+entry(parous, 形容词, [], "生育过子女").
+entry(突发, n, [突发性], "突然的发作或攻击").
+entry(镶木地板, 动词, [镶木地板过,镶木地板中,镶木地板], "用镶嵌设计的地板装饰").
+entry(parr, n, [幼鲑鱼], "a young salmon").
+entry(巴拉尔, n, [巴拉尔们], "帆缆绳").
+entry(压褶, 过去, [], "压褶的时态")
+entry(帕雷尔, 名词, [帕雷尔], "在船上使用的滑动绳索或链环").
+entry(粥, n, [粥], "porridge").
+关于（parried，过去，[ ]， "parry 的时态"）。
+entry(击退者, n, [击退者们], "进行反击的人").
+entry(阻挡, 现在时, [], "挡住的第三人称单数").
+entry(配对, 现在时, [], "par 的分词").
+entry(粥, n, [粥们], "稀饭").
+entry(长尾小鹦鹉, n, [长尾小鹦鹉们], "长尾鹦鹉").
+entry(鹦鹉, v, [鹦鹉学舌,鹦鹉学舌,鹦鹉学舌], "不加思考或理解地重复或模仿").
+entry(鹦鹉学舌者, n, [鹦鹉学舌者们], "模仿他人的人").
+entry(鹦鹉状的, 形容词, [], "类似鹦鹉的，有钩状喙的热带鸟").
+入口(招架, v, [招架, 招架中, 招架], "挡开攻击").
+entry(parse, v, [解析,解析中,解析], "语法描述和分析PARSABLE adj").
+entry(秒差距, 名词, [秒差距], "一个天文距离单位").
+entry(parser, n, [解析器], "一个负责解析的").
+entry(香菜, n, [香菜们], "一种栽培的草本植物香菜ED 香菜ED 形容词").
+entry(欧洲防风草, n, [欧洲防风草], "一种欧洲草本植物").
+词条(牧师, 名词, [牧师们], "神职人员PARSONIC 形容词").
+entry(部件, v, [分开,分裂,分割], "分成单独的部分").
+entry(参加, v, [参加了, 参加过, 参加中], "参加是to participate").
+entry(参与者, n, [参与者们], "参与的人").
+entry(螃蟹, 名词, [螃蟹们], "一种可食用的螃蟹")
+entry(伙伴, 名词, [伙伴们], "分开或分离的人").
+入口(前厅, n, [前厅座位], "剧院的一个部分")。
+条目(部分, n, [部分音], "复杂音的简单成分").
+entry(可分, 形容词, [], "可分割的").
+entry(粒子, n, [粒子], "一个非常小的部分或部分")
+entry(聚会过, 过去, [], "party 的时态").
+entry(狂欢者, n, [狂欢者们], "狂欢者").
+entry(派对, 出席, [], "派对的第三人称单数")。
+条目(分离, 名词, [分离], "一种分裂或分隔").
+entry(党派人士, n, [党派人士们], "某个人、党派或事业的坚定支持者").
+entry(组曲, n, [组曲], "一组相关的器乐作品").
+entry(分裂, 形容词, [], "分成部分").
+entry(游击队员, n, [游击队员们], "党派成员").
+entry(妇女衬衫, n, [妇女衬衫], "一种女性服装").
+entry(部分地, 副词, [], "在某种程度上").
+entry(伙伴, v, [结伴, 合作, 伙伴们], "在一些共同兴趣的活动中进行关联").
+入口(夸克, n, [夸克们], "一种假设性的原子粒子").
+entry(参与, 过去式, [], "partake 的时态").
+entry(中途, 副词, [], "在某种程度上").
+entry(聚会, v, [聚会了,聚会中,聚会], "参加社交聚会")。
+entry(狂欢者, n, [狂欢者们], "一个聚会的人").
+entry(聚会, n, [聚会], "参与聚会").
+entry(parura, n, [paruras], "首饰套件").
+entry(首饰套件, 名词, [首饰套件], "一套配套的珠宝").
+entry(parve, 形容词, [], "不含奶或肉制作").
+entry(暴发户, n, [暴发户们], "突然提升到比原来阶级更高地位的人").
+entry(登场人物, n, [新贵女性], "是指一个新贵女子").
+条目(前庭, n, [前庭们], "教堂前的封闭区域")。
+entry(教堂前庭, 名词, [教堂前庭], "教堂前庭").
+entry(犬细小病毒病, n, [犬细小病毒], "一种犬类传染病")
+entry(parvolin, n, [鱼油], "从鱼类中取得的一种油性液体").
+entry(帕斯卡, n, [帕斯卡], "一种压力单位").
+entry(帕斯卡, n, [帕斯卡们], "用于某些宗教仪式的蜡烛").
+入口(走过, n, [走过], "斗牛士披风的一种动作").
+entry(漫步, n, [漫步], "悠闲地散步").
+entry(pash, v, [pashed,pashing,pashes], "猛烈地打击").
+条目(pasha, n, [pashas], "以前的土耳其高级官员")。
+entry(帕夏等级, n, [帕夏等级的复数], "帕夏的等级").
+entry(帕夏里克, n, [帕夏里克们], "帕夏里克").
+入口(帕夏里克, 名词, [帕夏里克们], "帕夏的领地")。
+条目(pashka, n, [pashkas], "paskha").
+entry(pashm, n, [pashms], "某些藏族动物的内毛").
+条目(pashmina, 名词, [pashminas], "来自喜马拉雅山山羊的羊毛")。
+entry(帕斯卡, 名词, [帕斯卡斯], "帕斯卡节").
+entry(复活节乳脂蛋糕, n, [复活节乳脂蛋糕们], "一种在复活节食用的俄罗斯甜点").
+条目(谐谑诗, n, [谐谑诗], "一种讽刺或冷嘲").
+条目(通行, 动词, [通过, 正在通过, 通行], "经过").
+entry(可通行, 形容词, [], "相当好或可接受地可通行地 副词").
+入口(passade, n, [passades], "马在同一地点前后转身的一种动作")。
+```prolog
+词条(过去, n, [过去式], "在击剑中的一种前向刺击").
+```
+entry(航程, v, [航行过的,航行中,航程], "进行航行").
+entry(passant, 形容词, [], "用远侧前爪抬起行走的  用于纹章动物")
+```prolog
+entry(通带, n, [通带], "允许最大效率传输的频率带").
+```
+```prolog
+entry(存折, n, [存折], "银行存根").
+```
+entry(过时的, 形容词, [], "过时的").
+entry(过时的, 形容词, [], "过时").
+entry(群, n, [群], "大量").
+entry(过客, n, [过客], "一个经过的人").
+entry(路人, n, [路人们], "经过的人").
+`entry(passible, 形容词, [], "能够感受或遭受").`
+entry(passim, 副词, [], "到处").
+条目(通过, n, [通过], "一次死亡").
+entry(激情, n, [激情], "一种强烈的情感").
+entry(被动, n, [被动式], "动词形式").
+```prolog
+条目(通行码, n, [通行码], "一种可以开启多个不同锁的钥匙").
+```
+entry(不可通行, 形容词, [], "无法通过或穿越").
+条目(逾越节, 名词, [逾越节的羊羔], "一个犹太节日盛宴上吃的羊羔")。
+入境(护照, n, [护照], "允许从一个国家到另一个国家旅行的文件")。
+entry(passus, n, [段落], "一个故事或诗的一部分").
+entry(密码, n, [密码列表], "一个必须说出来才能获得入场资格的秘密词").
+entry(过去, n, [过去], "已逝的时间").
+入口(面食, 名词, [面条], "一种面团制成的食物")。
+条目(粘贴, 动词, [已经粘贴, 正在粘贴, 粘贴们], "用黏性混合物粘合").
+条目(粉彩, 名词, [粉彩画], "一种柔和细腻的色调")。
+entry(粘贴者, n, [粘贴者们], "一个负责粘贴的人").
+入口(系部, 名词, [系部], "马蹄的一部分")。
+entry(拼贴, n, [拼贴们], "一个完成的底稿，用于拍摄以制作印版").
+entry(pasticci, 复数名词, [], "pastiches").
+条目(仿作, n, [仿作], "由各种来源片段构成的艺术作品").
+entry(pastie, n, [馅饼], "馅饼").
+entry(糊状物, 比较级, [], "像糊状").
+entry(馅饼, 复数, [], "馅饼的").
+条目(最苍白, 最高级, [], "的 苍白").
+entry(药片, n, [药片们], "药丸").
+词条(锭剂, 名词, [锭剂], "含片").
+entry(软糊糊的, 副词, [], "以一种稀糊的方式")
+entry(消遣, 名词, [消遣活动], "一种娱乐活动").
+entry(通心粉, n, [通心粉], "一种通心面").
+条目(粘贴, 名词, [粘贴物], "一顿打").
+entry(茴香酒, n, [茴香酒们], "一种法国利口酒").
+条目(pastitso, n, [pastitsos], "一种希腊菜，由碎肉、意大利面、白酱和奶酪组成")。
+entry(没有过去, 形容词, [], "没有过去").
+entry(过去性, n, [过去性们], "成为过去或消逝的状态")
+entry(牧师, v, [牧养,牧师事工,牧师们], "作为精神领袖服务").
+entry(田园, n, [田园诗], "描绘乡村生活的文学或艺术作品").
+entry(牧师式, 形容词, [], "适合牧师或精神监督者").
+entry(熏牛肉, n, [熏牛肉], "一种调味浓郁的烟熏牛肉").
+entry(帕斯特罗米, n, [帕斯特罗米斯], "帕斯特罗米").
+入口(糕点, 名词, [糕点], "一种甜味烘焙食品")。
+entry(牧场, 形容词, [], "关于牧场").
+入口（牧场，动词，[放牧，放牧中，牧场]，“将牲畜放入牧场的放牧区”）。
+entry(畜牧者, n, [畜牧者们], "牧放牲畜的人").
+entry(苍白的, 形容词, [], "更苍白 最苍白外表苍白且不健康").
+`词条(禽肉馅饼, 名词, [禽肉馅饼复数], "一种肉馅饼").`
+entry(帕特, v, [轻拍,拍打,拍], "轻轻触碰")。
+entry(pat, adj, [], "非常了解PATTER PATTEST").
+entry(澳門元, n, [澳門元], "澳门的货币单位").
+entry(翼膜, 形容词, [], "与翼膜有关").
+entry(翼膜, n, [翼膜], "蝙蝠的翼膜")
+`entry(patamar, n, [帕塔马斯], "一种帆船").`
+entry(补丁, 动词, [已修复, 修补, 补丁], "修补或覆盖孔或薄弱点").
+entry(补丁程序, n, [补丁程序], "修补者").
+entry(斑驳, adj, [], "质量不均斑驳得更斑斑驳得最斑").
+entry(pate, n, [顶], "头顶").
+entry(髌骨, n, [髌骨], "或髌骨扁平可动的骨头在膝盖前方髌骨形容词").
+entry(盘子, 名词, [盘子们], "一个盘子").
+entry(显而易见, n, [显而易见性], "明显的状态").
+entry(专利, v, [获得专利,授予专利,专利], "获得专利是一个政府授予的保护发明者权利的许可")
+entry(专利持有人, n, [专利持有人], "持有专利的人").
+entry(明显地, 副词, [], "显然").
+entry(专利授予者, n, [专利授予者们], "授予专利的人").
+entry(父亲, n, [父亲们], "一个父亲").
+entry(父系, 形容词, [], "关于父亲的").
+entry(路径, n, [路径], "一条行走的小道或轨迹")。
+entry(可怜, 形容词, [], "激起同情心").
+词条(无路径, 形容词, [], "没有路径").
+entry(路径名, n, [路径名列表], "文件位置的描述").
+条目(病原体, n, [病原体], "任何致病生物").
+entry(悲怆, n, [悲怆们], "一种激发怜悯或同情心的品质").
+entry(路径, n, [路径列表], "一个路径")。
+entry(耐心, n, [耐心们], "有耐心的特质")。
+entry(患者, 形容词, [], "能够在不抱怨的情况下忍受令人不快的情况的耐心").
+entry(患者, n, [患者们], "正在接受治疗的人").
+entry(冰刀, n, [冰刀], "滑冰鞋").
+entry(铜绿, n, [铜绿], "或者 PATINAE 一种在青铜上形成的绿色薄膜 PATINAED 形容词").
+entry(patinate, v, [已涂铜绿, 正涂铜绿, 涂铜绿], "给…涂铜绿")。
+entry(铜绿, 动词, [氧化的, 氧化中, 氧化], "覆盖一层铜绿")。
+条目(铜绿化, 动词, [铜绿化了, 铜绿化中, 铜绿化], "使形成铜绿").
+entry(露台, 名词, [露台], "一块毗邻房屋的户外铺装区域")
+entry(帕特利, 副词, [], "合适地").
+entry(patness, n, [适合度], "适合性").
+条目(方言, n, [方言], "一种方言").
+entry(patonce, adj, [], "手臂从中心展开并在末端呈三尖叶状的， 用于描绘纹章十字架").
+entry(拍图, n, [拍图们], "拍图").
+entry(屁股, n, [屁屁], "臀部").
+入口(爱国, 动词, [已爱国, 正在爱国, 爱国们], "将立法权移交给一个自治国家")。
+entry(爱国者, n, [爱国者们], "爱自己国家的人").
+entry(巡逻, v, [巡逻过,巡逻中,巡逻], "为了观察或安全而穿过一个区域").
+entry(顾客, n, [顾客们], "经常光顾的顾客顾客的顾客般地 adj").
+entry(庞主, n, [庞主们], "根据旧荷兰法律授予庄园权利的地主").
+entry(帕齐, n, [帕齐们], "容易受骗的人").
+entry(帕塔玛, n, [帕塔玛们], "帕塔玛").
+```prolog
+entry(拍打了, 过去, [], "拍打的时态")。
+```
+entry(pattee, 形容词, [], "paty").
+entry(马靴, n, [马靴们], "一种有厚木底的鞋马靴化 adj").
+entry(巴特尔, 动词, [巴特尔了,在巴特尔,巴特尔们], "快速或轻松地交谈")
+entry(喋喋不休者, n, [喋喋不休者们], "一个说话絮叨的人").
+入口(模式, v, [图案化, 图案化中, 图案], "根据规定的设计制作")。
+entry(pattest, 最高级, [], "的 pat").
+输入(柏蒂, n, [柏蒂们], "柏蒂").
+entry(轻拍, 现在, [], "拍的分词").
+条目(帕蒂, 名词, [帕蒂们], "一种小的扁平切碎食物饼").
+entry(节瓜, n, [节瓜们], "烤饼在其中被烤的平底锅")。
+entry(张开, 形, [], "张开").
+entry(开放的, 形容词, [], "张开").
+entry(paty, adj, [], "形式").
+entry(菜鸟, 名词, [菜鸟们], "一个笨拙的国际象棋棋手")。
+entry(鲍鱼, n, [鲍鱼], "一种新西兰大型贝类").
+entry(缺乏, n, [稀少], "数量或质量上的少量").
+entry(paughty, adj, [], "傲慢").
+条目(肩甲, n, [肩甲], "肩部的盔甲").
+条目(paulin, n, [paulins], "一块防水材料")。
+entry(大肚子, n, [大肚子们], "腹部或腹腔PAUNCHED adj").
+`entry(发福, 形容词, [], "更发福 最发福 有明显的腹部隆起").`
+词条(贫民, 动词, [使贫困, 使贫困中, 贫民们], "使生活贫困")。
+entry(pauraque, n, [长尾夜鸟], "一种长尾夜鸟")
+entry(寡节虫, n, [寡节虫类], "一种具有很多腿的小型动物").
+条目(停顿, 形容词, [], "与说话或写作中的中断或休息有关").
+entry(暂停, v, [暂停了,暂停着,暂停], "暂时停止").
+entry(pauser, n, [暂停者], "使停止的人或事物")。
+entry(帕万, 名词, [帕万斯], "慢节奏的庄严舞蹈").
+entry(帕凡舞, n, [帕凡舞曲], "帕凡").
+entry(铺设, v, [铺设了,铺设中,铺设], "用形成坚实水平表面的材料覆盖").
+条目(铺设的, 形容词, [], "紧密排列以隐藏金属底座")。
+条目(人行道, n, [人行道], "铺砌的表面").
+entry(铺路者, n, [铺路者们], "铺路的人").
+entry(pavid, 形容词, [], "胆小").
+entry(亭子, v, [亭了,亭中,亭子], "用大帐篷覆盖").
+entry(亭, n, [亭], "一种管乐器的喇叭").
+entry(pavin, n, [pavins], "帕文").
+entry(铺设, n, [铺设物], "人行道").
+entry(铺路工, n, [铺路工们], "铺路工")。
+entry(铺路工, n, [铺路工们], "铺路工人").
+entry(pavis, n, [pavises], "大型中世纪盾牌")
+entry(盾牌, n, [盾牌复数], "盾牌").
+条目(持盾士兵, 名词, [持盾士兵们], "携带大盾的士兵")。
+entry(盾牌, n, [盾牌们], "大盾").
+entry(巴甫洛娃, n, [巴甫洛娃们], "一种蛋白甜点").
+entry(孔雀般的, 形容词, [], "像孔雀").
+entry(爪子, v, [爪子过,爪子中,爪子们], "用拍打动作击打或刮擦").
+entry(爪者, n, [爪者们], "用爪子抓的人").
+条目(调皮, 形容词, [], "更调皮 最调皮 狡猾 调皮地 adv")。
+entry(棘爪, n, [棘爪], "一个铰接的机械部件").
+entry(典当, v, [典当了,典当中,典当], "为了借入的东西作为担保PAWNABLE 形容词").
+entry(典当行为, n, [典当行为复数], "典当行为").
+entry(庞尼, n, [庞尼人], "被典当物品的人").
+入口(当铺的人, 名词, [当铺的人], "典当东西的人").
+entry(典当者, 名词, [典当者们], "典当者").
+当铺(名词, [当铺], "典当物品的地方")。
+entry(番木瓜, 名词, [番木瓜们], "木瓜").
+entry(pax, n, [恭吻], "一种象征基督教爱与团结的仪式拥抱").
+entry(paxwax, n, [paxwaxes], "四足动物的颈韧带").
+entry(支付, v, [支付了,支付中,支付], "以金钱或有价值的东西交换商品或服务").
+entry(可支付的, 形容词, [], "盈利地 adv")
+entry(应付账款, 复数名词短语, [], "应付账款").
+entry(偿还, n, [偿还], "与原始资本支出等值的投资回报").
+entry(工資支票, n, [工資支票], "支付工資或薪水的支票").
+entry(发薪日, n, [发薪日], "发放工资的日子")
+entry(偿付, n, [偿付款], "通过偿还减少债务")
+entry(收款人, n, [收款人], "接受付款的人").
+entry(付款人, n, [付款者], "支付的人").
+entry(payess, npl, [], "一些犹太人留的未剪鬓角").
+entry(军衔等级, n, [军衔等级], "根据基础工资表确定的军事人员等级").
+entry(货物, n, [货物清单], "产生收入的货物部分")。
+entry(付款, n, [付款], "支付的东西").
+entry(paynim, n, [多神教徒], "异教徒").
+entry(金额补偿, n, [收益], "分配收益的行为").
+entry(贿赂, n, [贿赂], "秘密的好处费").
+entry(付款人, n, [付款人], "付款者").
+入口(支出, n, [支出], "支付出去的钱")。
+入口(工资表, n, [工资表], "有资格支付的员工名单")。
+entry(工资单, n, [工资单], "一份简要记录员工工资及扣除事项").
+entry(付费墙, n, [付费墙], "一种没有付费订阅就无法访问网站的系统")
+entry(炫丽, n, [炫丽们], "魅力").
+条目(pe, n, [pes], "希伯来字母").
+entry(豌豆, n, [豌豆], "一种一年生草本植物的可食用种子").
+entry(圆豆, n, [圆豆], "一种只有单个圆形种子的咖啡豆").
+entry(笨蛋, n, [笨蛋们], "一个愚蠢的人").
+entry(和平, v, [和平过了,和平中,和平], "保持沉默或变得沉默").
+entry(宁静, 形容词, [], "更加宁静 最宁静undisturbed calm").
+entry(和平主义者, n, [和平主义者们], "反对战争的人").
+entry(桃子, v, [告发了, 告发着, 告发], "告发某人").
+`entry(peacher, n, [peachers], "传教者").`
+入口(孔雀雛, n, [孔雀雛], "一隻年幼的孔雀").
+entry("桃色的", 形容词, [], "更桃色的 最桃色的").
+entry(和平, 现在, [], "peace 的分词").
+```prolog
+entry(粗呢大衣, n, [粗呢大衣], "厚重的羊毛夹克").
+```
+entry(孔雀, v, [孔雀了,孔雀着,孔雀们], "虚荣地炫耀").
+entry(孔雀似的, 形容词, [], "更加孔雀样 更加孔雀样的 夸张的 炫耀的").
+entry(孔雀, n, [孔雀], "一种大型野鸡").
+entry(peag, n, [peags], "贝壳珠").
+entry(收费站, n, [收费站们], "收费").
+入口(孔雀雌鳥, 名詞, [孔雀雌鳥們], "一種雌性孔雀").
+条目(peak, v, [peaked,peaking,peaks], "达到最大值").
+entry(更波峰, 比较级, [], "的波峰").
+entry(最高峰, 最高级, [], "之巅的").
+entry(微病的, 形容词, [], "有点不舒服").
+入口(无峰, 形容词, [], "没有顶尖的顶点")。
+entry(peaklike, adj, [], "类似一个峰").
+`entry(peaky, adj, [], "PEAKIER PEAKIESTsickly").`
+entry(敲响, 动词, [敲响了, 敲响着, 敲响们], "响起").
+entry(豌豆状, 形容词, [], "类似豌豆").
+entry(颂歌, n, [颂歌们], "赞美歌").
+entry(花生, 名词, [花生s], "一种一年生藤本植物的坚果状种子或豆荚").
+entry(花生味的, 名词, [], "更花生味的 最花生味的具有花生的味道").
+entry(梨, 名词, [梨], "一种肉质水果").
+entry(珍珠, 动词, [珍珠了, 珍珠着, 珍珠们], "用在某些软体动物中形成的珍珠饰品").
+入口(珍珠灰，名词，[珍珠灰]，“一种碱性化合物”)。
+entry(珍珠潜水员, n, [珍珠潜水员们], "一个寻找珍珠的人").
+入口(珍珠, 复数名词, [], "牙齿").
+入口(珠光体, 名词, [珠光体们], "一种铸铁合金").
+入口(珍珠般的, 形容词, [], "更珍珠的 最珍珠的 类似珍珠").
+entry(皮埃馬恩, 名詞, [皮埃馬恩們], "一種蘋果的品種").
+entry(peart, adj, [], "更活泼 最活泼 活泼地 adv").
+entry(梨木, n, [梨木], "梨树的木材").
+entry(peasant, n, [peasants], "社会地位较低的人，农民；PEASANTY 形容词").
+`entry(peascod, n, [豌豆荚], "豌豆荚").`
+entry(豌豆, 名词, [豌豆], "或豌豆a豆").
+entry(peasecod, n, [peasecods], "豌豆荚").
+entry(泥炭, n, [泥炭土], "一种由部分腐烂的植物物质组成的物质")。
+entry(泥炭地, n, [泥炭地], "主要由泥炭组成的土地").
+entry(泥炭的, 形容词, [], "更泥炭的 最泥炭的，类似于或含有泥炭").
+entry(peavey, n, [peaveys], "用于移动木材的杠杆").
+entry(peavy, n, [撬棍], "撬棒").
+entry(鹅卵石, v, [鹅卵石的, 鹅卵石化, 鹅卵石], "用小圆石覆盖").
+entry(pebbly, adj, [], "更像卵石 最像卵石").
+entry(pec, n, [胸肌], "胸大肌").
+entry(山核桃, n, [山核桃们], "一种结坚果的树").
+entry(易犯罪的, 形容词, [], "易于犯罪").
+入口(越轨, n, [越轨行为], "有过错的状态").
+entry(罪过, 形容词, [], "有罪").
+入口(貘豬, n, [貘豬], "類似豬的有蹄哺乳動物")。
+entry(我有罪, 名词, [我犯了罪], "忏悔").
+entry(佩赫, 动词, [喘气过, 喘气中, 喘气们], "喘气").
+entry(pechan, n, [pechans], "胃")。
+条目(啄, v, [啄过,啄着,啄], "用喙或尖锐的东西打击")。
+entry(啄木鸟, n, [啄木鸟], "啄食的动物").
+entry(微饿, 形容词, [], "易怒").
+entry(pecky, adj, [], "较腐烂 最腐烂由真菌引起的腐烂标记").
+entry(佩科里诺, n, [佩科里诺], "或 PECORINI 一种由羊奶制成的硬奶酪")
+entry(多聚半乳糖醛酸酶, n, [多聚半乳糖醛酸酶], "一种酶").
+条目(pectate, n, [pectates], "一种化学盐").
+entry(pecten, n, [扇贝], "或 PECTINES 一种梳齿状的解剖结构").
+entry(果胶, n, [果胶], "一种碳水化合物衍生物果胶的").
+```prolog
+entry(胶化, 动词, [已胶化, 正在胶化, 胶化], "转变为果冻状物质").
+```
+`条目(胸饰, n, [胸饰们], "戴在胸前的东西")。`
+entry(贪污, v, [贪污了,贪污着,贪污], "挪用公款").
+entry(特有, n, [特有事物], "属于某个人的东西").
+entry(私有财产, n, [私有财产], "私人财产").
+entry(ped, n, [peds], "天然的土壤聚合体")
+entry(教师, n, [教师们], "教师").
+entry(教育学, n, [教育学], "教师的工作").
+入口(腳踏, v, [踩了, 踩著, 踩], "或 踩了 踩著 踩以腳踏操作").
+条目(踏板者, 名词, [踏板者们], "踩踏板的人").
+entry(铁质土, n, [铁质土], "一种土壤类型").
+条目(踏板键盘, n, [踏板键盘], "管风琴的踏板键盘")。
+entry(骑自行车者, n, [骑自行车者们], "骑自行车者").
+entry(脚踏船, n, [脚踏船], "一种由踏板驱动的划艇").
+entry(书呆子, n, [书呆子们], "炫耀知识的人;书呆子的").
+entry(卖弄, n, [卖弄], "炫耀知识").
+入口(足状, 形容词, [], "类似于足部地 adv")。
+entry(售卖, 动词, [售卖了, 售卖中, 售卖], "到处旅行出售商品").
+entry(小贩, n, [小贩们], "一个兜售货物的人").
+entry(小贩业, n, [小贩业], "小贩的行业").
+entry(鸡奸者, n, [鸡奸者们], "与男孩从事性活动的男人")
+entry(步行, 复数, [], "的 pés").
+entry(基座, v, [基座化, 基座化中, 基座们], "或 基座化了 基座化中 基座为提供建筑支撑或基础").
+entry(人力车, n, [人力车], "一种由人力踩踏的客运车辆").
+entry(花梗, n, [花梗], "一种生物的纤细基部部分").
+entry(蒂, n, [蒂], "蒂柄蒂柄的 adj").
+entry(修脚, v, [修脚过的,修脚中,修脚], "对足部和脚趾甲进行美容护理").
+词条(足状, 形容词, [], "形状像脚").
+entry(家谱, n, [家谱们], "一系列祖先").
+entry(门楣, n, [门楣], "三角形建筑部分").
+entry(螯肢, n, [螯肢], "蜘蛛类动物的附肢").
+入口(小贩, n, [小贩们], "小贩").
+entry(小贩业, n, [小贩业], "小商贩").
+entry(小贩, n, [小贩们], "小贩").
+`entry(pedlery, n, [小贩用品], "小贩业").`
+entry(钙积土, n, [钙积土], "一种土壤类型").
+entry(儿科学, n, [儿科学], "对儿童的行为和发展的科学研究").
+entry(佩德罗, n, [佩德罗们], "一种纸牌游戏").
+entry(花梗, n, [花梗], "一朵花的梗").
+登记(步行道, n, [步行道], "只供行人使用的走道")。
+entry(pee, n, [pees], "字母 P")。
+```
+条目(peebeen, n, [peebeens], "一种大型硬木常绿树").
+```
+(entry,peek,v,[peeked,peeking,peeks],"to look furtively or quickly").
+entry(躲猫猫, n, [躲猫猫们], "一个儿童游戏").
+```prolog
+entry(博皮狗, n, [博皮狗们], "一种北京犬和贵宾犬的杂交狗").
+```
+entry(剥, v, [剥了,剥着,剥], "去掉外层的覆盖物PEELABLE 形").
+程序条目(削皮器, 名词, [削皮器们], "去皮的东西")。
+入口(剥皮, n, [剥皮], "已被剥掉的一片或一条").
+entry(peen, v, [peened,peening,peens], "用锤头的非平面端敲打").
+entry(喷丸, n, [喷丸], "用金属弹丸处理金属板以成型的动作")।
+entry(peep, v, [peeped,peeping,peeps], "发出短促尖锐的叫声").
+entry(peepbo, n, [peepbos], "躲猫猫游戏").
+入口(peeper, n, [peepers], "窥视者").
+条目(窥视孔, n, [窥视孔], "一个可以通过其观察的小开口")
+entry(西洋镜, n, [西洋镜], "通过小开口观看的展览").
+entry(菩提树, n, [菩提树们], "菩提树").
+entry(peer, v, [凝视,凝望,同侪], "仔细或搜寻地看").
+entry(贵族身份, n, [贵族身份], "贵族的等级").
+entry(peeress, n, [peeresses], "贵族妇女").
+entry(peerie, n, [peeries], "好奇").
+entry(无与伦比, 形容词, [], "无可匹敌的").
+条目(peery, 名词, [peeries], "一种儿童玩具")。
+entry(凤头麦鸡, n, [凤头麦鸡们], "凤头麦鸡").
+entry(peetweet, n, [peetweets], "一种涉水鸟").
+entry(烦恼, v, [烦恼的,烦恼着,烦恼], "惹恼").
+entry(急躁, 形容词, [], "易怒的").
+entry(皮威, n, [皮威们], "异常矮小的人或物").
+entry(凤头麦鸡, n, [凤头麦鸡], "凤头麦鸡").
+entry(peg, v, [pegged,pegging,pegs], "用木钉固定").
+entry(孔板, n, [孔板], "一个有孔供钉子的板子")。
+entry(弦轴箱, n, [弦轴箱], "弦乐器的一部分").
+条目(无桩, 形容词, [], "缺少桩").
+entry(peglike, 形容词, [], "类似一个钉子").
+条目(陀螺, n, [陀螺], "一个用绳子缠绕的带钉旋转陀螺")。
+entry(peh, n, [pehs], "pe").
+entry(睡袍, n, [睡袍们], "女士长袍").
+entry(pein, v, [peined,peining,peins], "锤击").
+entry(peise, v, [称重过, 称重, 称重们], "称重").
+entry(马来貘, n, [马来貘们], "一种肉食性哺乳动物").
+词条(比熊犬, 名词, [比熊犬们], "一种小型长毛狗").
+entry(pekepoo, n, [pekepoos], "皮卡普").
+entry(北京, n, [北京的], "一种丝绸面料").
+entry(白毫, n, [白毫茶], "一种红茶").
+entry(毛皮, n, [毛皮们], "哺乳动物的外层或覆盖物PELAGIAL 形").
+entry(遠洋, n, [遠洋居民], "海洋的居民").
+entry(佩劳, n, [佩劳斯], "一种用肉、米和鸽豆制成的菜").
+entry(贝利, 名词, [贝利斯], "中世纪的防御塔").
+入口(披肩, n, [披肩], "女士的斗篷").
+entry(pelf, n, [钱财], "金钱或财富").
+(entry(皮勒姆, 名词, [皮勒姆们], "一种马的口衔")).
+entry(鹈鹕, n, [鹈鹕], "一种大型蹼足鸟").
+entry(长外衣, n, [长外衣], "一种长的外套").
+entry(泥质岩, 名词, [泥质岩], "由细碎片组成的岩石泥质的 形容词").
+条目(糙皮病, n, [糙皮病], "一种烟酸缺乏症").
+entry(弹丸, v, [用弹丸打击, 正在用弹丸打击, 用弹丸打击], "用小圆团击打").
+entry(颗粒状的, 形容词, [], "类似于颗粒").
+条目(薄膜, n, [薄膜], "一层薄的皮或薄膜")。
+条目(匆忙, n, [匆忙们], "一个混乱的堆").
+条目(透明, 形容词, [], "透明的").
+entry(帘头, n, [帘头们], "装饰性檐口")
+entry(pelon, 形容词, [], "无毛").
+entry(佩洛利亚, n, [佩洛利亚斯], "花的形式异常规则PELORIAN PELORIC 形容词")。
+entry(皮尔路斯, n, [皮尔路斯们], "一种导航仪器").
+entry(皮球, n, [皮球们], "源自西班牙的一种球类运动").
+入口(主车群, 名词, [主车群们], "自行车比赛中由车手组成的主体").
+条目(投掷, v, [投掷了, 投掷中, 投掷], "用打击或导弹反复打击").
+entry(標槍兵, n, [標槍兵], "古希臘的一名士兵").
+entry(盾形的, 形容词, [], "形状像盾牌").
+entry(投石者, 动词, [投石过分, 投石进行时, 投石复数], "投石").
+entry(无皮的, 形容词, [], "缺乏动物的皮毛").
+条目(毛皮, 名词, [毛皮], "一种动物皮").
+entry(骨盆, 名词, [骨盆], "骨盆的一块骨头").
+入口(骨盆, 名词, [骨盆], "或 PELVES 骨骼的一部分").
+entry(越橘, n, [越橘], "一种蔓越莓品种").
+entry(皮梅坎, n, [皮梅坎们], "皮梅坎").
+entry(牛轧干肉, n, [牛轧干肉], "由美洲原住民准备的一种食物").
+entry(培莫林, 名词, [培莫林类], "一种用作兴奋剂的药物").
+entry(天疱瘡, n, [pemphixes], "一种皮肤病").
+entry(钢笔, v, [书写,正在书写,书写], "用钢笔写字，一种用流动墨水书写的工具")
+entry(刑事, 形容词, [], "与惩罚有关").
+entry(惩罚, v, [被惩罚,正在惩罚,惩罚], "惩罚").
+entry(处罚, n, [处罚], "负有惩罚责任").
+```prolog
+entry(处罚, v, [处罚了,处罚中,处罚], "处以惩罚").
+```
+entry(罚, 副词, [], "以惩罚的方式").
+entry(处罚, n, [处罚], "因违反法律、规则或协议而实施的惩罚").
+entry(悔罪, v, [悔罪了, 悔罪中, 悔罪], "施加一种惩罚").
+entry(槟城, n, [槟城市], "一种棉织物").
+entry(penates, npl, [], "罗马家宅神").
+entry(便士, 一个, [], "便士的复数形式").
+entry(小旗, n, [小旗们], "一种小旗子").
+entry(嗜好, 名词, [嗜好], "对某事物的强烈喜好").
+Prolog(entry(铅笔, v, [铅笔过,铅笔中,铅笔们], "或为书写和绘图工具使用铅笔来制作的 PENCILLED PENCILLING PENCILSto 生产")).
+entry(画者, n, [画者们], "用铅笔作画的人").
+entry(暂停, 动词, [已暂停, 暂停中, 暂停], "未决或未解决").
+entry(悬挂物, 名词, [悬挂物们], "悬挂的装饰品").
+entry(悬而未决, 名词, [待处理事项], "未决状态").
+```prolog
+entry(吊坠, n, [吊坠们], "挂件").
+```
+条目(摆, n, [摆锤], "一种自由摆动的物体PENDULAR adj").
+entry(阴茎, a, [], "阴茎的复数形式").
+entry(pengo, n, [pengos], "匈牙利以前的货币单位").
+entry(企鹅, n, [企鹅], "一种不会飞的水禽").
+entry(青霉素, n, [青霉素], "一小簇毛发").
+entry(阴茎, n, [阴茎], "或 PENES雄性交配器官阴茎的阴茎 adj").
+条目(忏悔者, n, [忏悔者们], "一个悔改自己罪过的人")。
+entry(小刀, n, [小刀], "一种小的折叠刀").
+条目(手电筒, n, [手电筒们], "一个小手电筒")。
+entry(笔灯, n, [笔灯], "笔灯").
+entry(笔者, n, [笔者们], "作家").
+entry(羽毛, n, [羽毛], "确定鸟类形状的任何羽毛")
+entry(笔名, n, [笔名们], "作家代替真实姓名使用的名称")。
+entry(旗帜, n, [旗帜们], "一种狭长的旗帜").
+entry(羽状, 形容词, [], "有翅膀或羽毛").
+entry(羽状, 形容词, [], "羽状").
+entry(通心粉, 名词, [通心粉], "短管状意大利面").
+entry(书写, 过去, [], "书写的时态").
+entry(penner, n, [penners], "撰写者").
+entry(penni, n, [pennis], "或 PENNIA，以前使用的芬兰硬币")。
+entry(便士, a, [], "penny 的复数").
+入口(奔宁, n, [奔宁山脉], "一种矿物").
+entry(写作, 现在, [], "pen的分词").
+条目(旗帜, 名词, [旗帜们], "一种小旗子PENNONED 形容词").
+入口(便士, 名词, [便士们], "或便士，英国的硬币")。
+entry(penoche, n, [penoches], "penuche").
+entry(刑罚学, n, [刑罚学], "惩罚犯罪的科学").
+entry(便旗, n, [便旗], "小型的旗帜").
+条目(笔尖, 名词, [笔尖], "笔的尖端")。
+entry(想法, n, [想法], "一个想法").
+entry(铅笔, n, [铅笔], "铅笔").
+entry(悬, 形容词, [], "松散地悬挂")。
+entry(养老金, v, [发放养老金, 发养老金中, 发放养老金], "给予退休津贴").
+entry(膳宿公寓, n, [膳宿公寓们], "或 PENSIONI 一家寄宿公寓")。
+entry(沉思, 形容词, [], "深入思考").
+entry(笔者, n, [笔者们], "作家").
+entry(引水管, n, [引水管], "一种用于将水输送到水车的管道").
+入口(五边形, 形容词, [], "封闭的").
+entry(五角星, n, [五角星], "一个五角星").
+entry(五个一组, n, [五个一组], "一组五个").
+entry(五边形, n, [五边形们], "一个有五边的多边形").
+entry(戊烷, n, [戊烷类], "一种挥发性液体").
+entry(戊醇, n, [戊醇们], "一种酒精").
+entry(五统治者之一, n, [五统治者], "五个联合统治者之一")
+条目(戊烯, 名词, [戊烯], "一种液态烃").
+入口(五极管, n, [五极管], "一种电子管").
+entry(pentomic, 形容词, [], "由五个作战群组成").
+入口(戊聚糖, n, [戊聚糖们], "一种复杂的碳水化合物").
+entry(戊糖, n, [戊糖], "每个分子含有五个碳原子的糖").
+entry(戊基, n, [戊基的复数形式], "戊基").
+entry(花生酱, n, [花生酱], "一种类似软糖的糖果").
+entry(penuchi, n, [penuchis], "胡椒糖果片").
+entry(penuchle, n, [penuchles], "皮诺克勒").
+entry(宾那克, 名词, [宾那克们], "皮诺克").
+entry(倒数第二个, n, [倒数第二个词], "一个词中倒数第二个音节")。
+entry("半影", n, ["半影"], "或半影一个部分的阴影")
+entry(贫困, n, [贫困], "极度贫穷").
+entry(农民工, n, [农民工们], "或 PEONES 无技能劳工").
+entry(苦力制度, n, [苦力制度], "成为苦力的状态").
+entry(农奴制度, n, [农奴制度们], "农奴制").
+entry(牡丹, n, [牡丹花], "一种开花植物").
+entry(人, v, [居住,栖息,民众], "提供居民").
+入口(peopler, n, [peoplers], "施行人").
+entry(pep, v, [pepped,pepping,peps], "使充满活力").
+entry(意大利辣香肠, n, [意大利辣香肠], "一种调味很重的香肠").
+入口(pepino, n, [pepinos], "一种具有可食用果实的灌木多年生植物").
+entry(pepita, n, [pepitas], "南瓜或西葫芦的可食用干种子").
+entry(长袍, n, [长袍们], "古希腊妇女穿着的一种服装").
+entry(佩普勒姆, n, [佩普勒姆], "或 佩普勒姆一种缝在衣服腰线处的短节佩普勒姆 adj")
+entry(peplus, n, [pepluses], "peplos").
+entry(pepo, n, [瓜类], "一种果实，具有多肉的内部和坚硬的外皮").
+`条目(葫芦, 名词, [葫芦类], "果实").`
+entry(佩波尼姆, 名词, [佩波尼姆], "果瓤").
+entry(刺激过, 过去, [], "pep的时态").
+条目(胡椒, 动词, [胡椒过的, 正在胡椒, 胡椒], "用刺激性调料胡椒调味")。
+entry(胡椒撒者, n, [胡椒撒者们], "一个撒胡椒的人").
+entry(辛辣的, 形容词, [], "类似胡椒").
+entry(pepping, 現在, [], "pep 的分詞").
+entry(peppy, adj, [], "充满活力的；最活力充沛的；活力充沛地PEPPILY adv")
+entry(胃蛋白酶, n, [胃蛋白酶们], "一种胃的消化酶").
+entry(胃蛋白酶, n, [胃蛋白酶们], "胃蛋白酶").
+entry(鼓舞谈话, 动词, [鼓舞谈话过, 鼓舞谈话中, 鼓舞谈话们], "通过强烈的情感谈话来激发热情")。
+entry(胃消化性, 名词, [消化物], "一种促进消化的物质").
+entry(肽, n, [肽类], "肽").
+条目(肽, n, [肽类], "氨基酸的组合肽的 形容词").
+entry(团化, v, [团化的, 团化中, 团化], "增加胶体分散度").
+entry(分散剂, n, [分散剂], "能够分散的东西").
+entry(蛋白胨, n, [蛋白胨], "一种蛋白质化合物PEPTONIC 形容词").
+entry(每个, 介词, [], "for each").
+entry(过氧酸, n, [过氧酸们], "一种酸").
+entry(perc, n, [每氯乙烯], "一种用于干洗的化学品")。
+条目(艳丽棉布, 名词, [艳丽棉布], "一种棉织物").
+entry(察觉, v, [察觉到,察觉着,察觉到], "通过感官变得意识到").
+entry(percent, n, [百分比], "百分之一").
+entry(知觉, n, [知觉], "被感知的事物")
+entry(鲈鱼, v, [栖息,栖息着,栖息者], "坐或停留在高处")。
+entry(栖息者, n, [栖息者们], "一个栖息的东西")
+入口(percid, n, [percids], "鲈科的淡水鱼")。
+entry(鲈形目, n, [鲈形目鱼类], "大型有刺鱼类亚目之一").
+entry(打击, v, [打击了, 打击中, 打击], "用力击打").
+entry(派尔迪, 感叹词, [], "pardi").
+entry(迷途, n, [迷途者], "被派遣执行危险任务的士兵").
+entry(失去, n, [失去的复数形式], "失去")。
+entry(持久, 动词, [持久的,持久中,持久], "继续存在").
+entry(怕迪, 感叹词, [], "pardi").
+entry(父亲, 名词, [父亲们], "父亲").
+entry(游隼, n, [游隼们], "一种用于猎鹰术的迅捷猎鹰").
+条目(步足胸节, 名词, [步足胸节], "即 PEREIA，一些甲壳纲动物的胸部").
+entry(佩里翁, n, [佩里翁斯], "或 PEREApereion").
+entry(步足, n, [步足], "一种腹部附肢")。
+entry(完美, 形容词, [], "极致无缺陷或瑕疵").
+entry(完美, 动词, [完美过, 完美中, 完美们], "使完美").
+entry(完美, n, [完美的], "一种投注系统")。
+entry(完美, n, [完美的], "一种中等大小的雪茄").
+条目(背信弃义, n, [背信弃义的行为], "故意违反信任或信仰").
+entry(必定, 副词, [], "出于必要").
+entry(执行, v, [执行了,执行中,执行], "开始并完成一项任务")。
+条目(香水, v, [香味, 令人香味, 香水], "充满芳香气味")。
+entry(调香师, n, [调香师们], "一种使某物带香气的人或物").
+entry(香水, 形容词, [], "有香味的").
+entry(灌注, v, [已灌注,灌注中,灌注], "在某物上或通过某物进行传播")。
+入口(凉棚, 名词, [凉棚], "一个有阴影的棚子或通道")。
+条目(可能, 名词, [可能性], "某事令人怀疑或猜测").
+entry(佩里, 名词, [佩里], "波斯神话中的一种超自然生物")
+入口(花被, 名词, [花被], "花的外层覆盖物")。
+entry(护身符, n, [护身符], "护身符").
+entry(周围组织, n, [周围组织], "一块植物组织区域").
+入口(果皮, n, [果皮], "成熟植物子房或果实的壁").
+entry(选段, n, [选段们], "或 片段 书中的选集").
+entry(周皮, n, [周皮们], "植物组织的外层").
+入口(孢皮, 名词, [孢皮], "许多真菌中孢子器官的覆盖物孢壳 形容词").
+entry(橄榄石, n, [橄榄石], "一种矿物").
+entry(近地点, n, [近地点s], "天体轨道上距离地球最近的点近地点近地点的 adj").
+条目(周角, 名词, [周角], "等于360度的角度")。
+```prolog
+条目(边缘附属, 名词, [边缘附属], "位于围绕雌蕊的杯状器官上的状态").
+```
+entry(危害, v, [危害了,危害中,危害们], "或 危害了 危害中 危害们去危害").
+入口(苏子, 名词, [苏子], "一种亚洲草本植物").
+entry(危险, 形容词, [], "危险").
+```prolog
+条目(近月点, 名词, [近月点], "天体轨道中最接近月球的点").
+```
+```prolog
+条目(会阴, 名词, [会阴], "身体在躯干的下端的一个区域 会阴 形容词").
+```
+entry(期间, n, [期间], "一段时间").
+entry(周期性, 形容词, [], "定期重复").
+entry(periodid, n, [周期标识], "一个碘化物").
+入口(围耳的, 形容词, [], "围绕耳朵的")。
+入口(突变, n, [突变], "事件进程的突然变化").
+entry(环柱式, n, [环柱式], "一个四周环绕著一排圆柱的结构").
+entry(佩里克, n, [佩里克斯], "一种深色烟草")。
+条目(外壁, n, [外壁], "某些水螅虫类的保护覆盖").
+entry(死去, v, [死了,正在死去,死去], "死亡")。
+entry(令人讨厌的人, n, [令人讨厌的人们], "一个让人心烦的人").
+entry(专家, n, [专家们], "神学领域的专家").
+条目(佩里威格, 名词, [佩里威格斯], "假发")。
+entry(伪证, v, [伪证的,伪证中,伪证者], "使人成为伪证犯").
+entry(作伪证者, n, [作伪证者们], "犯作伪证罪的人").
+条目(伪证, 名词, [伪证], "在司法程序中故意提供虚假证词")。
+`entry(perk, v, [竖起, 竖起中, 竖起s], "在滤器中准备咖啡").`
+entry(稍微有活力, 形容词, [], "somewhat perky").
+条目(活泼, 形容词, [], "更活泼的 最活泼的生气勃勃更生气勃勃地 副词")。
+条目(蛭石, 名词, [蛭石], "一种火山玻璃PERLITIC 形容词")。
+entry(perm, v, [进行烫发, 正在烫发, 烫发], "给予头发一种永久性波浪").
+entry(渗透, 形容词, [], "渗透的").
+entry(通透酶, n, [通透酶], "一种催化剂")
+entry(渗透, 动, [渗透了, 渗透着, 渗透], "扩散").
+entry(允许, v, [允许,允许中,允许], "同意").
+entry(排列, 动词, [已经排列, 正在排列, 排列], "改变顺序").
+entry(冻疮, n, [冻疮], "由于暴露在寒冷中引起的手或脚的炎症").
+```prolog
+entry(波兰饺子, n, [波兰饺子们], "pierogi").
+```
+entry(饺子, n, [饺子], "pierogi").
+入口(波兰饺, n, [波兰饺们], "波兰饺子").
+entry(腓骨的, 形容词, [], "与腓骨有关的").
+entry(口服, 形容词, [], "通过口腔发生").
+entry(长篇大论, v, [长篇大论过,长篇大论中,长篇大论], "发表冗长的演说").
+条目(过氧化物, 名词, [过氧化物], "过氧化物").
+entry(过氧化物, v, [过氧化了, 过氧化中, 过氧化], "用漂白剂过氧化处理").
+entry(peroxy, 形容词, [], "含有二价基团O2").
+entry(犯人, 名词, [犯人们], "犯下犯罪的人").
+entry(垂直, 动词, [垂直过了,垂直中,垂直们], "沉思").
+入口(立方石, 名词, [立方石们], "一个大型建筑石").
+entry(困惑, 动词, [困惑,困扰,困惑], "使心理上不确定")。
+入口（外部楼梯，n，[外部楼梯]，“户外楼梯”）。
+entry(佩里, 名词, [佩里酒], "一种通常发酵的梨汁饮料")
+entry(人造盐, n, [人造盐], "一种化学盐").
+entry(perse, n, [珀尔斯], "一种蓝色").
+条目(坚持, 动词, [坚持了,坚持,坚持着], "在某项活动中坚定不移地继续").
+entry(人, n, [人们], "一个人类").
+entry(人物, n, [人物], "文学作品中的角色")。
+entry(人格, n, [人格角色], "个人承担的公众角色").
+entry(个人, n, [个人广告], "报纸上的简短私人通知")。
+entry(出汗, v, [出汗了, 出汗中, 出汗], "通过皮肤毛孔释放水分的动作PERSPIRY 形容词").
+`entry(说服, v, [说服了, 说服中, 说服], "通过论据推理或恳求来使某人做某事").`
+entry(pert, adj, [], "无礼的大胆地 adv").
+entry(属于, 动词, [属于了, 属于着, 属于], "有参考或关系").
+entry(无礼, n, [无礼之态], "无礼的品质")
+entry(扰乱, v, [扰乱了, 正在扰乱, 扰乱], "极大地干扰").
+entry(假发, n, [假发], "假发PERUKED adj").
+条目(阅读, 名词, [阅读], "阅读的行为")。
+entry(阅读, v, [读过,正在读,阅读], "阅读").
+entry(精读者, n, [精读者们], "一个精读某物的人").
+entry(性变态者, n, [性变态者们], "一个在性方面有变态倾向的人").
+入口(弥漫, 动词, [弥漫了, 弥漫中, 弥漫], "遍及每一个部分")。
+条目(渗透者, 名词, [渗透者们], "一种渗透的实体")。
+`entry(不正当, 形容词, [], "故意偏离期望或预期的行为").`
+entry(变态, 动词, [变态的, 变态中, 变态们], "偏离正确的行为路线").
+entry(以往, 形容词, [], "能够被渗透").
+entry(佩尔沃, n, [佩尔沃斯], "变态").
+entry(變態, 形容詞, [], "更變態 最變態 性變態").
+entry(足, 名词, [脚], "一个脚或类似脚的部分").
+entry(pesade, n, [pesades], "马抬起前腿站立的姿势")
+entry(比塞塔, n, [比塞塔], "西班牙曾经的货币单位").
+entry(佩塞瓦, n, [佩塞瓦], "加纳的货币单位").
+输入(pesky, 形容词, [], "更讨厌的 最讨厌的annoying讨厌地 副词").
+entry(比索, n, [比索], "多個西班牙語國家的貨幣單位").
+entry(子宫托, n, [子宫托], "一种放置在阴道内的避孕装置").
+entry(害虫, n, [害虫们], "令人讨厌的人或事物").
+条目(烦扰, 动词, [烦扰过, 正在烦扰, 烦扰], "打扰").
+entry(烦扰者, n, [烦扰者们], "一个烦扰别人的人").
+entry(疫病坑, n, [疫病坑], "一个易于流行病的地方")。
+入口(杵, 动词, [杵磨过,杵磨中,杵磨], "用棍形工具捣碎").
+条目(香蒜酱, n, [香蒜酱们], "一种由罗勒、大蒜和橄榄油制成的酱料")。
+entry(烦人的, 形容词, [], "较烦人的 最烦人的令人恼火").
+条目(宠物, v, [抚摸,抚摸中,抚摸], "用手抚摸").
+entry(拍字节, n, [拍字节], "一千万亿字节").
+条目(花瓣, 名词, [花瓣], "花冠的叶状部分有花瓣的有叶瓣的 形容词").
+entry(petaline, 形容词, [], "类似于花瓣").
+词条(花瓣化, 名词, [花瓣化], "各种花部器官变为花瓣的变态").
+entry(花瓣状, 形容词, [], "类似花瓣的").
+entry(花瓣状的, 形容词, [], "有花瓣").
+entry(滚球, n, [滚球们], "一种法式草地滚球游戏").
+entry(爆炸筒, n, [爆炸筒], "一种爆炸装置").
+entry(petasos, n, [petasoses], "petasus").
+entry(彼塔苏斯, 名词, [彼塔苏斯们], "在古希腊佩戴的一种宽边帽").
+条目(旋塞, 名词, [旋塞], "一个小阀门或水龙头")。
+entry(瘀点, n, [瘀点], "身体表面的一个小出血点").
+entry(彼得, v, [彼得了, 彼得中, 彼得們], "慢慢減少").
+entry(叶柄, 形容词, [], "与叶柄有关").
+entry(叶柄, 名词, [叶柄], "叶子的茎")。
+entry(小的, 形容词, [], "small minor").
+entry(娇小, n, [娇小], "适合矮个子女士的服装尺码")。
+entry(请愿, v, [请求,请求中,请愿书], "提出正式请求")。
+entry(petnap, v, [偷宠物, 偷宠物中, 偷宠物们], "偷宠物以盈利")。
+entry(偷宠物者, n, [偷宠物者们], "偷宠物的人").
+词条(豹牙鲆, 名词, [豹牙鲆], "一种食用鱼").
+entry(海燕, n, [海燕], "一种小型海鸟").
+条目(石化, 动词, [石化了, 石化中, 石化], "变为石头")。
+entry(汽油, n, [汽油们], "汽油").
+entry(石油的, 形容词, [], "源自石油").
+entry(佩特罗内尔, n, [佩特罗内尔们], "一种便携式火枪")。
+entry(岩骨, n, [岩骨], "颞骨的一部分").
+entry(宠物, adj, [], "类似石头的硬度").
+entry(petsai, n, [petsaisc], "大白菜").
+entry(可抚摸的, 形容词, [], "能够被抚摸的").
+entry(抚摸, 过去, [], "抚摸的时态").
+entry(溺愛地, 副词, [], "任性地")。
+entry(petter, n, [宠物者], "一个抚摸别人的人").
+entry(petti, pl, [], "petto 的").
+条目(较小的, 比较级, [], "属于琐碎").
+```prolog
+entry(最琐碎的, 最高级, [], "的琐碎").
+```
+entry(诡辩, v, [诡辩过,诡辩中,诡辩], "小题大作").
+entry(琐碎地, 副词, [], "以一种琐碎的方式").
+entry(爱抚, n, [爱抚], "温柔的爱抚和接吻").
+entry(任性, 形容词, [], "易怒").
+项(词条, 动词, [过去式, 进行式, 现在式], "意指抚摸")。
+entry(宠物, 名词, [小宠物], "乳房").
+entry(琐碎, 形容词, [], "较琐碎 最琐碎不重要").
+entry(易怒的, 形容词, [], "不耐烦").
+entry(矮牵牛花, n, [矮牵牛花们], "一种热带草本植物").
+entry(瓷土, n, [瓷土们], "一种矿物").
+entry(petuntze, n, [瓷石], "瓷石").
+entry(长椅, 名词, [长椅们], "教堂里的长凳").
+entry(小鸟, n, [小鸟们], "一种小鸟").
+entry(翻石鹬, 名词, [翻石鹬], "一种鸟类").
+入口(錫器, 名詞, [錫器], "錫合金PEWTERY 形容詞").
+entry(锡匠, n, [锡匠], "制作锡制品的人").
+entry(佩奥特, n, [佩奥特], "一种仙人掌").
+entry(佩奥提教, n, [佩奥提教仪式], "一种美洲原住民的仪式，其中使用佩奥提").
+entry(佩奥特尔, 名词, [佩奥特尔们], "仙人球").
+入口(peytral, n, [peytrals], "马胸部的盔甲").
+entry(peytrel, n, [部件], "胸甲").
+入口(芬尼, 名词, [芬尼], "或称PFENNIGE，曾经使用于德国的铜币").
+条目(pfft, 叹词, [], "用于表示突然结束")。
+entry(pfui, 感叹词, [], "呸").
+entry(phaeton, n, [phaetons], "一种轻便马车").
+entry(噬菌体, n, [噬菌体们], "一种破坏细菌的微生物").
+条目(指骨, 名词, [指骨], "任何手指或脚趾的骨头").
+entry(方阵, n, [方阵], "古希腊的步兵阵形").
+entry(阴茎, a, [], "阴茎的复数").
+entry(阴茎, 形容词, [], "与阴茎有关").
+entry(阴茎崇拜, n, [阴茎崇拜], "将阴茎视为自然创造力象征的崇拜").
+条目(男根崇拜者, n, [男根崇拜者列表], "实践男根崇拜的人")。
+条目(阴茎, n, [阴茎], "或 PHALLI阴茎").
+entry(幻影, n, [幻影们], "想象力的创造物")。
+entry(幻念家, n, [幻念家们], "空想家").
+entry(幻想, v, [幻想过,幻想中,幻想], "幻想").
+entry(幻影, n, [幻影们], "仅仅在外表上存在的东西").
+entry(法老, n, [法老们], "古埃及的统治者").
+entry(法利赛人, n, [法利赛人], "一个伪善且自以为是的人").
+条目(制药公司, n, [制药公司们], "一家制药公司")。
+entry(药房, n, [药房], "一家药店").
+entry(药农, n, [药农们], "参与农业生产的人").
+entry(药物生产, n, [药物生产s], "从基因改造植物或动物中生产药品").
+entry(灯塔, n, [灯塔们], "引导船员的灯塔或信标").
+entry(咽, n, [咽部], "或咽喉 消化道的一部分").
+entry(阶段, v, [阶段性,阶段中,阶段], "按阶段计划或执行发展阶段的明确阶段阶段阶段AL 阶段性 adj").
+entry(逐步淘汰, n, [逐步淘汰s], "操作的逐渐停止").
+entry(phaser, n, [相位枪], "一种科幻武器")。
+entry(阶段, n, [阶段], "一个阶段").
+entry(树枝虫, n, [竹节虫], "一种热带昆虫").
+entry(phat, adj, [], "非常优秀").
+条目(phatic, 形容词, [], "分享情感而非想法").
+entry(雉鸡, n, [雉鸡], "一种大而长尾的鸟").
+entry(phellem, n, [phellems], "植物细胞层").
+entry(费洛尼亚, 复数名词, [], "礼拜礼服").
+```prolog
+entry(苯酸盐, n, [苯酸盐], "碳酸酚的盐").
+```
+entry(苯嗪, n, [苯嗪类], "一种化学化合物").
+entry(语音, 形容词, [], "属于一种分类系统").
+条目(苯乙醇, 名词, [苯乙醇类], "一种易挥发的液体").
+entry(凤凰, n, [凤凰们], "phoenix").
+条目(苯酚, 名词, [苯酚类], "一种腐蚀性化合物").
+entry(酚类, n, [酚类物质], "一种合成树脂").
+entry(现象级人物, n, [现象级人物们], "一个具有非凡能力或前途的人").
+entry(phenoxy, 形容词, [], "含有从苯酚衍生出的基团").
+entry(苯基, n, [苯基s], "一种一价化学基团苯基的形容词").
+entry(单采, n, [单采], "从供体中抽取血液，去除部分成分后将剩余血液返回给供体")。
+entry(唷, 感叹词, [], "用于表达宽慰、疲倦或厌恶感").
+entry(phi, n, [phis], "一个希腊字母").
+entry(phial, n, [药瓶], "一个小瓶子").
+```prolog
+entry(philabeg, n, [philabegs], "filibeg").
+```
+入口(philibeg, n, [philibegs], "filibeg")。
+entry(夜莺, n, [夜莺], "一种鸣禽").
+entry(philter, v, [philtered, philtering, philters], "下爱情药的咒语").
+entry(滤液, v, [过滤过的,过滤中,过滤], "过滤").
+entry(人中, n, [人中], "上唇与鼻子之间的凹痕")。
+entry(包茎, n, [包茎], "包皮开口异常狭窄 性adj").
+entry(网络钓鱼, v, [网络钓鱼了, 网络钓鱼中, 网络钓鱼], "进行网络钓鱼").
+entry(网络钓鱼者, n, [网络钓鱼者们], "进行网络钓鱼的人").
+entry(网络钓鱼, n, [网络钓鱼], "非法使用电子邮件诱使人们透露个人信息的行为")。
+entry(皮子, n, [皮子们], "面部或面部表情").
+条目(phizz, n, [phizzes], "phiz").
+entry(痰, n, [痰液], "一种分泌在呼吸道中的浓厚粘液").
+entry(phlegmy, adj, [], "类似于痰").
+entry(韧皮部, n, [韧皮部], "复杂的植物组织").
+entry(福禄考, n, [福禄考们], "一种开花植物").
+entry(pho, n, [河粉], "一种越南米粉和蔬菜汤").
+entry(恐惧症, n, [恐惧症], "强迫性或非理性的恐惧").
+```prolog
+条目(恐惧症患者, n, [恐惧症患者们], "患有恐惧症的人").
+```
+entry(海豹的, 形容词, [], "与海豹有关").
+entry(菲比, n, [菲比鸟], "一种小鸟").
+entry(phoebus, n, [phoebuses], "太阳").
+entry(凤凰, n, [凤凰], "一种神话中的鸟").
+entry(音素, n, [音素s], "一种响度单位").
+entry(phonal, 形容词, [], "与语音有关").
+entry(发声, 动词, [已发声, 正在发声, 发声], "发出言语声音").
+entry(电话, v, [打电话, 打电话中, 打电话们], "打电话").
+条目(音素, n, [音素们], "一种语音单位PHONEMIC 形容词")。
+entry(phoner, n, [打电话的人], "打电话给某人的人").
+entry(语音的, 形容词, [], "与语音有关").
+```prolog
+entry(phoney, 形容词, [], "较浮夸 最浮夸"). 
+```
+entry(假, v, [假装过,假装中,假的], "假装").
+```
+entry(语音的, 形容词, [], "与声音的性质有关").
+```
+入口(语音学, 名词复数, [], "声音的科学").
+entry(虚假, 过去时, [], "虚构的时态").
+```prolog
+entry(phonier, 比较级, [], "of phoney and phony").
+```
+条目(骗人的, 现在时, [], "phony 的第三人称单数").
+entry(最假的, 最高级, [], "phoney 和 phony 的").
+entry(假惺惺地, 副词, [], "以虚假的方式").
+entry(打电话, 现在时, [], "phone 的分词形式").
+条目(唱机, n, [唱片播放器], "留声机").
+entry(声子, n, [声子们], "一种振动能量的量子").
+entry(虚假的, 形容词, [], "较假 最假不真实或不真实").
+entry(欺诈, v, [欺诈了,欺诈中,欺诈], "改变以使看起来很真实").
+entry(phooey, 感叹词, [], "用于表示厌恶或蔑视的感叹词").
+entry(福禄特, n, [福禄特们], "一种杀虫剂").
+entry(共栖关系, n, [共栖关系], "一种节肢动物和鱼类之间的共生关系PHORETIC 形容词").
+条目(腕足动物, n, [腕足动物], "一种虫状的海洋动物")。
+条目(光气, 名词, [光气], "一种有毒的气体")。
+```
+条目(磷化物, 名词, [磷化物], "一种化合物").
+```
+entry(磷化氢, n, [磷化氢化物], "一种有毒气体").
+entry(磷光体, n, [磷光体], "一种暴露在辐射下会发光的物质").
+entry(照度, 名词, [照度], "一种照明单位").
+entry(光的, 形容词, [], "与光有关").
+entry(光学, npl, [], "光的科学").
+entry(光子, 名词, [光子], "一种假设的基本粒子").
+entry(photo, v, [拍照了, 拍照中, 照片], "拍摄").
+```prolog
+entry(摄影师, n, [摄影师们], "拍摄照片的人").
+```
+entry(摄影测绘, v, [摄影测绘过,摄影测绘中,摄影测绘], "通过航空摄影进行测绘").
+entry(光子, n, [光子们], "一种基本粒子光子的形容词").
+entry(光视, n, [光视现象], "在明亮光线中的视觉光视的 形容词").
+entry(照片集, v, [照片集,照片设置,照片集们], "通过摄影手段准备打印").
+entry(phpht, interj, [], "呸").
+entry(短语, 形容词, [], "与两个或多个相关联的词组有关").
+entry(短语, v, [短语化,短语化中,短语们], "用文字表达").
+```
+entry(措辞, n, [措辞], "口头表达的方式或风格").
+```
+entry(氏族, n, [氏族], "一个原始部落单位中的部落PHRATRAL PHRATRIC adj").
+entry(黑客, v, [黑了,黑客中,黑客], "为了避免通话费用，非法访问长途电话服务")
+entry(电话黑客, n, [电话黑客], "进行电话窃听的人").
+entry(地下水, 形容词, [], "与地下水有关").
+条目(精神的, 形容词, [], "与心智有关").
+entry(phrensy, v, [phrensied, phrensying, phrensies], "狂乱").
+entry(pht, 感叹词, [], "用于表示轻微的愤怒或烦恼的表达").
+entry(邻苯二甲酸的, 形容词, [], "与某种酸有关").
+entry(酞, n, [酞类化合物], "化学化合物").
+entry(肺结核, n, [肺痨], "肺痨").
+entry(肺痨, n, [肺痨], "一种与肺部相关的疾病").
+entry(phut, n, [phuts], "沉闷而突然的声音").
+entry(phyla, pl, [], "来源于 phylon 和 phylum")
+entry(phylae, pl, [], "属种的").
+条目(phylar, 形容词, [], "关于一个门").
+entry(防感染, n, [防感染], "身体对感染的抑制作用")
+entry(部落, n, [部落], "古希腊的一个政治分区部落形容词").
+entry(系统发生, n, [系统发生], "或系统发生进化发展的过程系统进化的 形容词").
+entry(苞叶, n, [苞叶], "某些植物的苞片")。
+entry(千枚岩, n, [千枚岩], "一种具有叶理的岩石").
+条目(千层酥皮, 名词, [千层酥皮], "非常薄的糕点面团")。
+entry(叶状体, n, [叶状体], "扁平的叶柄作为叶片").
+entry(叶状体, n, [叶状体], "类似叶子的植物部分")
+条目(phyllome, n, [phyllomes], "植物的叶").
+entry(phylon, n, [门类], "一个有遗传关系的群体").
+entry(门, 名词, [门类], "一个分类学上的等级").
+entry(酸浆, n, [酸浆果], "一种结有可食用黄色果实的植物").
+entry(体育, n, [体育课程], "体育教育").
+entry(physes, 复数, [], "的 physis")。
+entry(物理学, v, [物理治疗过,物理治疗中,物理学], "用药物治疗").
+条目(physical, n, [physicals], "身体的体检").
+entry(物理治疗师, n, [物理治疗师们], "一位理疗师").
+entry(体格, n, [体格], "身体的形态或结构").
+entry(physis, n, [physes], "在自然界中生长或变化的原则").
+entry(植烷, n, [植烷类], "一种化合物").
+entry(植酸盐, n, [植酸盐们], "一种钙镁盐").
+entry(phytoid, 形容词, [], "类似植物").
+entry(植醇, n, [植醇们], "一种醇类").
+entry(豹纹, 名词, [豹纹], "植物的结构单元豹纹派 形容词").
+`entry(pi, n, [pis], "一个希腊字母").`
+entry(pi, v, [], "乱拼或混乱的").
+entry(脑膜, 名词, [脑膜], "大脑的膜").
+```
+entry(piacular, 形容词, [], "赎罪的").
+```
+entry(派亚佛, 动词, [派亚佛的, 派亚佛中, 派亚佛们], "进行一种马术动作").
+entry(“piaffer”, “n”, [“piaffers”], “马术中的一种动作”).
+entry(pial, adj, [], "与脑膜有关的").
+entry(皮安, n, [皮安们], "一种热带病PIANIC 形容词").
+entry(piani, npl, [], "需要轻柔演奏的音乐段落").
+项(钢琴技艺, n, [钢琴技艺们], "演奏钢琴").
+条目(钢琴家, 名词, [钢琴家们], "一个演奏钢琴的人").
+条目(钢琴, 名词, [钢琴], "一种乐器").
+条目(钢琴自演机, 名词, [钢琴自演机], "一种自动演奏的钢琴")。
+entry(piasaba, n, [piasabas], "皮亚萨瓦").
+条目(皮亚萨瓦, 名词, [皮亚萨瓦树], "皮亚萨瓦").
+entry(piassaba, n, [piassabas], "皮阿萨瓦").
+entry(piassava, n, [皮亚萨瓦], "粗糙坚硬的纤维").
+entry(皮阿斯特, n, [皮阿斯特], "几个阿拉伯国家的货币单位").
+entry(piastre, n, [比阿斯特], "皮阿斯特").
+入口(广场, 名词, [广场], "或 PIAZZE意大利城镇中的公共广场")。
+entry(pibal, n, [探空气球], "用于确定风的方向和速度的小型气球").
+entry(风笛曲, n, [风笛曲们], "一种用风笛演奏的音乐作品")。
+entry(pic, n, [照片], "照片").
+`条目(奇异癖, n, [奇异癖们], "对非正常食物的癖好PICAL 形容词")。`
+entry(Picacho, 数, [Picachos], "一个孤立的山顶").
+条目(picador, n, [picadors], "或PICADORES在斗牛中的马术师")。
+entry(picante, 形容词, [], "使用辣酱准备").
+entry(皮卡拉, n, [皮卡拉们], "女皮卡罗").
+`entry(流浪汉, n, [流浪汉们], "a vagabond").`
+entry(海盗, v, [海盗过,海盗中,海盗], "作为海盗行动").
+entry(皮卡尤恩, n, [皮卡尤恩斯], "以前的西班牙美洲硬币").
+```prolog
+entry(piccata, n, [piccatas], "用柠檬白葡萄酒和黄油酱汁调制的小牛肉片菜肴").
+```
+条目(短笛, n, [短笛], "一种小型长笛").
+entry(派士, 名词, [派士], "印度和巴基斯坦以前的货币").
+entry(乌黑, 形容词, [], "黑亮的颜色")。
+entry(啄木鸟目, 形容词, [], "关于鸟类的一种目").
+entry(挑选, v, [挑选了, 挑选中, 挑选], "选择可挑选的 形容词").
+entry(皮卡迪尔, 名词, [皮卡迪尔们], "一种领子")。
+```prolog
+entry(镐, v, [用了镐, 用着镐, 用镐], "使用镐，一种用于破坏硬表面的工具").
+```
+entry(镐, v, [用镐挖了, 用镐挖着, 用镐挖], "用镐挖").
+entry(侦察者, v, [侦察过, 侦察中, 侦察], "在军队前方进行小规模战斗").
+entry(采摘者, n, [采摘者们], "选择的人").
+entry(梭鱼, n, [梭鱼], "一种淡水鱼")。
+entry(纠察, 动词, [纠察了, 纠察中, 纠察], "在某个地方外面站立以宣传对该地的不满").
+entry(罢工者, n, [罢工者们], "一个进行罢工的人").
+条目(挑剔的, 比较级, [], "属于挑剔").
+entry(最挑剔, 最高级, [], "挑剔的").
+entry(采摘, n, [采摘物], "采摘者的行为").
+入口(泡菜, 動詞, [醃製, 醃製中, 泡菜], "在鹽水或醋中保存或調味")。
+条目(酸菜者, n, [酸菜者们], "适合腌制的蔬菜或水果")。
+entry(撬锁工具, n, [撬锁工具], "一种用于打开锁的工具").
+entry(牵制, n, [牵制], "棒球中的一种战术").
+entry(皮卡, n, [皮卡车], "一辆小型卡车").
+entry(pickwick, n, [pickwicks], "一种用于提高油灯灯芯的装置").
+`条目(挑剔, 形容词, [], "更挑剔 最挑剔 挑剔").`
+entry(picloram, n, [比克隆], "一种除草剂").
+entry(野餐, v, [野餐了, 正在野餐, 野餐], "去进行野餐，一次带食物的户外旅行").
+entry(picnicky, 形容词, [], "与野餐有关").
+entry(皮克, n, [皮克], "千分之一的十亿分之一克").
+条目(吡啶, n, [吡啶s], "吡啶").
+entry(picoline, n, [吡啶], "一种化合物").
+条目(皮摩尔, n, [皮摩尔], "一兆分之一摩尔").
+entry(picot, v, [picoted, picoting, picots], "用装饰性环边缘").
+entry(雜色石竹, n, [雜色石竹們], "石竹的一种变种").
+`entry(picowave, v, [picowaved, picowaving, picowaves], "用伽玛射线照射食物").`
+entry(picquet, n, [piquet], "丰华").
+entry(picrate, n, [picrates], "一种化学盐PICRATED adj").
+entry(picric, 形容词, [], "拥有非常苦涩的味道").
+入口(picrite, n, [picrites], "一种火成岩PICRITIC 形容词")。
+条目(图片, v, [拍摄, 绘制, 描绘], "制作视觉表现").
+entry(担, 名词, [担], "一种亚洲的重量单位").
+entry(蹉跎, v, [蹉跎了,蹉跎中,蹉跎们], "浪费时间").
+入口(撒尿者, 名词, [撒尿者们], "一个撒尿的人").
+条目(微小, 形容词, [], "无关紧要").
+entry(滨螺, n, [滨螺], "一种双壳软体动物").
+entry(洋泾滨语, n, [洋泾滨语], "一种混合语言").
+entry(派, 动词, [派德, 派英, 派斯], "平局").
+entry(花斑, n, [花斑动物], "一种有斑点的动物").
+entry(块, v, [块的, 拼接, 块件], "连接成一个整体").
+```prolog
+entry(piecer, n, [裝配工], "一個負責拼裝的人")。
+```
+entry(拼接, n, [拼接物], "需要缝合的材料").
+entry(派皮, 名词, [派皮], "馅饼的外皮").
+entry(派, 过去式, [], "派的时态")。
+entry(加重硬币, n, [加重硬币], "加重硬币").
+entry(皮埃蒙特, n, [皮埃蒙特地区], "位于山脚下的地区")。
+入口(piefort, n, [pieforts], "一种异常厚的硬币")。
+入口(嘴巴, n, [嘴巴们], "一个嘴").
+entry(扔派, n, [扔派们], "向公众人物扔派的行为").
+entry(大黄, 名词, [大黄], "一种大黄植物")。
+entry(码头, n, [码头], "从陆地向水域延伸的结构").
+条目(刺穿, 动词, [刺穿了, 刺穿着, 刺穿], "切入或穿过").
+entry(刺客, n, [刺客们], "刺穿的东西").
+`entry(穿孔, n, [穿孔饰品], "附着于穿孔皮肤的珠宝").`
+entry(饺子, n, [饺子], "带馅的小饺子").
+条目(皮埃罗, 名词, [皮埃罗们], "一个小丑")。
+entry(pieta, n, [圣母悲悯像], "圣母玛利亚哀悼基督身体的表现").
+entry(虔诚, 复数, [], "虔诚的").
+entry(虔诚主义, n, [虔诚主义], "虔诚").
+entry(虔诚主义者, n, [虔诚主义者们], "一个虔诚的人").
+词条(虔诚, 名词, [虔诚], "虔诚的品质或状态")。
+entry(piezo, 形容词, [], "与一种类型的电相关").
+入口(胡扯, 动词, [胡扯了, 胡扯着, 胡扯], "胡言乱语")。
+entry(胡说者, n, [胡说者们], "一个说废话的人").
+```prolog
+条目(猪, 动词, [猪过, 猪着, 猪], "生小猪有偶蹄哺乳动物").
+```
+词条(潜艇, 名词, [潜艇], "一种潜水艇").
+入口(鸽子, 名词, [鸽子复数形式], "一种短腿鸟").
+entry(鸽舍, n, [鸽舍], "饲养鸽子的地方").
+entry(猪鱼, n, [猪鱼], "一种海洋鱼类")。
+entry(猪的, 过去, [], "pig 的时态").
+entry(猪舍, n, [猪舍们], "一个猪圈")。
+entry(猪, n, [小猪], "小猪").
+entry(更像猪, 比较级, [], "猪的").
+entry(小猪, pl, [], "的 小猪").
+条目(最猪, 最高级, [], "of piggy").
+entry(piggin, n, [小木桶], "一个小木桶").
+条目(猪食, 现在时, [], "猪的分词").
+entry(贪婪的, 形容词, [], "贪心或肮脏").
+entry(小猪, 形容词, [], "更像小猪 最像小猪像小猪").
+入口(小猪, 名词, [小猪们], "一只小猪").
+条目(小猪, n, [小猪们], "一只小猪")。
+入口(猪状的, 形容词, [], "类似于猪").
+entry(颜料, v, [染色的,正在染色,染色], "添加一种着色物质").
+入口(侏儒, 名词, [侏儒们], "侏儒")。
+entry(pignoli, n, [pignolis], "松子").
+entry(松子, n, [松子], "松树的可食用种子").
+entry(pignus, n, [抵押品], "作为债务担保的财产").
+条目(pignut, n, [pignuts], "山核桃").
+entry(暴食, n, [暴食], "一次过量饮食的行为").
+entry(猪圈, n, [猪圈], "养猪的地方").
+条目(猪皮, n, [猪皮们], "猪的皮").
+entry(小亲亲, n, [小亲亲们], "一个心爱的人").
+entry(打野猪, v, [打过野猪,正在打野猪,打野猪], "猎杀野猪").
+entry(猪圈, n, [猪圈], "一个猪圈")。
+entry(辫子, n, [辫子], "一条紧紧的头发辫子").
+条目(藜, 名词, [藜], "一种杂草植物")。
+entry(piing, a, [], "pi 的现在分词").
+entry(皮卡, n, [皮卡斯], "一种小型哺乳动物").
+入口(pikake, n, [pikakes], "一种东印度藤蔓").
+条目(长矛, v, [刺穿, 刺穿中, 刺穿], "用长矛刺穿的一种长矛").
+`entry(持矛兵, n, [持矛兵们], "持矛兵是装备有长矛的士兵").`
+entry(piker, n, [pikers], "一个吝啬的人").
+词条(piki, n, [pikis], "淡蓝色玉米粉面包").
+entry(北京, 现在时, [], "长矛的分词").
+entry(抓饭, n, [抓饭], "一道用调味米饭和通常是肉制成的菜肴")。
+入口(抓饭, n, [抓饭], "抓饭").
+entry(pilar, adj, [], "與頭髮有關").
+entry(壁柱, n, [壁柱们], "一个矩形的柱子").
+entry(抓饭, 名词, [抓饭们], "抓饭").
+entry(抓饭, n, [抓饭s], "抓饭").
+入口(鲱鱼, 名词, [鲱鱼], "一种小型海洋鱼类")。
+entry(堆, v, [堆积, 堆积着, 堆], "重叠摆放").
+entry(苔藓植物, 复数, [], "头盔的一部分")。
+entry(pileate, 形容词, [], "有菌盖").
+entry(有冠的, 形容词, [], "有冠").
+entry(堆积, 过去式, [], "pile 的时态")。
+entry(伞菌, pl, [], "蘑菇帽的").
+entry(pileless, 形容词, [], "没有绒面的").
+entry(多毛, 形容词, [], "多毛的").
+entry(鳥頭頂, n, [鳥冠], "鳥的頭頂")。
+入口(连环相撞, n, [连环相撞], "涉及数辆机动车的碰撞").
+条目(伞菌, 名词, [伞菌], "蘑菇伞状部分").
+entry(蕺菜, n, [蕺菜们], "一种药用植物").
+entry(偷窃, v, [偷窃了,偷窃中,偷窃], "偷").
+entry(行窃者, n, [行窃者们], "行窃的人").
+entry(朝圣者, v, [朝圣, 朝圣中, 朝圣者们], "为了宗教原因去圣地旅行").
+entry(皮利, 名词, [皮利果], "一种菲律宾树").
+entry(丝状, 形容词, [], "类似于毛发").
+entry(打桩, n, [打桩], "建筑支撑结构").
+entry(药丸, v, [药丸化, 药丸化中, 药丸们], "用小圆药物剂量").
+entry(掠夺, 动词, [掠夺了,掠夺着,掠夺], "去掠夺").
+entry(掠夺者, n, [掠夺者们], "一个掠夺的对象").
+entry(柱子, v, [柱状化,柱状化中,柱子], "提供垂直的建筑支持").
+entry(药盒, n, [药盒], "一个装药的小盒子").
+entry(鼠妇, n, [鼠妇], "一种可以卷成球状的潮虫").
+条目(副座, 名词, [副座们], "给马或摩托车上的额外乘客使用的垫子或坐垫").
+entry(笨蛋, n, [笨蛋们], "一个愚蠢的人").
+入口(耻辱台, 动词, [被暴露, 正在暴露, 被暴露], "暴露在公众嘲笑或虐待中")。
+entry(枕头, v, [枕头着,枕头中,枕头们], "休息在枕头头部的垫子上").
+entry(松软的, 形容词, [], "更松软 最松软 类似枕头").
+entry(pilose, 形容词, [], "被毛覆盖的").
+entry(多毛, 名词, [多毛状态], "多毛的状态")
+entry(飞行员, v, [驾驶,驾驶中,驾驶员], "控制...的航程").
+entry(领航, n, [领航], "驾驶的行为").
+entry(驾驶, 名词, [驾驶技术], "航海学的一个分支").
+entry(皮毛的, 形容词, [], "多毛的").
+entry(皮尔森, n, [皮尔森啤酒], "啤酒").
+entry(皮尔森, n, [皮尔森啤酒], "一种淡啤酒").
+输入(pilule, n, [pilules], "一种小药丸PILULAR 形容词").
+entry(菌毛, n, [菌毛], "一根毛发或类似毛发的结构").
+entry(pily, 形, [], "分成多个楔形的纹章设计")。
+entry(pima, n, [皮马], "一种优质的长绒棉").
+条目(辣椒, 名词, [辣椒], "甜椒").
+入口(甜椒, 名词, [甜椒], "一种甜的辣椒").
+入口(皮条客, 动词, [拉皮条, 拉皮条中, 拉皮条们], "为妓女招揽客人")。
+entry(拉皮条, 名词, [拉皮条们], "为妓女招揽客户的行为").
+条目(粉刺, n, [粉刺], "皮肤的炎性肿胀PIMPLED 形容词").
+entry(痘痘的, 形容词, [], "更痘痘的 极痘痘的").
+entry(pin, v, [固定, 钉住, 图钉], "用细长的金属针固定").
+entry(菠萝, n, [菠萝们], "一颗菠萝").
+entry(围裙, 名词, [围裙们], "儿童用的围裙").
+entry(槟榔树, n, [槟榔树], "一种棕榈树").
+条目(pinaster, n, [pinasters], "一种松树")。
+entry(皮纳塔, n, [皮纳塔], "在墨西哥游戏中使用的陶罐").
+entry(弹球, 动词, [弹球过, 弹球中, 弹球们], "突然从一个地方移动到另一个地方").
+entry(pinbone, n, [魚刺], "髖骨")。
+条目(钳, n, [钳状物], "抓取工具的两个枢轴部件之一")。
+entry(捏, v, [捏了,捏着,捏], "在两个边缘或表面之间挤压").
+entry(黑蝽, n, [黑蝽们], "一种大型甲虫").
+入口(针织图案, n, [针织图案们], "一种布料设计").
+entry(钳子, n, [钳子们], "一个夹东西的工具").
+入口(发夹卷, n, [发夹卷], "用发夹固定的卷发").
+条目(宾德, 名词, [宾德斯], "以前负责捕捉流浪动物的官员")。
+entry(pindling, 形容词, [], "弱小或体弱").
+入口(松树, 动词, [想念过, 想念正在进行, 想念单数], "强烈地渴望")。
+entry(松果体, n, [松果体s], "大脑中的一个腺体").
+entry(松果, n, [松果], "松树的圆锥形果实").
+entry(松树, 过去式, [], "松树的时态").
+entry(pineland, n, [松林地], "长满松树的土地").
+entry(松类, 形容词, [], "类似松树的常绿树").
+```prolog
+entry(蒎烯, n, [蒎烯], "松节油的主要成分").
+```
+入口（pinery，名， [pineries]， "种植菠萝的地区"）。
+entry(松参, n, [松参植物], "一种芳香的药草").
+entry(松木林, n, [松树林], "一片松树林的种植地").
+entry(松木, n, [松林], "松树的木材").
+entry(piney, adj, [], "PINIER PINIESTpiny").
+entry(笛鲷, n, [笛鲷们], "一种小型的海洋鱼").
+条目(羊圈, v, [关押, 关押着, 关押们], "在围栏中关禁游荡的动物")。
+entry(平, v, [平过, 平行, 平声], "发出短促的高音").
+entry(pinger, n, [pingers], "用于发出声波脉冲的设备").
+入口(冰丘, 名词, [冰丘], "或 PINGOES 由下层霜冻膨胀形成的低矮土堆")。
+entry(苹草, 名词, [苹草], "一种欧洲杂草").
+entry(pinguid, adj, [], "油腻的").
+entry(pinhead, n, [针头], "针的头部")。
+条目(针孔, n, [针孔], "由针制成的小孔")。
+entry(更加松, 比较级, [], "松y和松树y").
+entry("最松的", 最高级, [], "来自松木和松针的").
+entry(松树, 现在, [], "松树的分词").
+entry(小齿轮, v, [去除或绑定羽毛以防止飞行], "去除或绑住翅膀的羽毛以防止飞行").
+entry(黄铁矿, 名词, [黄铁矿s], "一种矿物").
+entry(槲皮醇, n, [槲皮醇类], "一种醇").
+entry(粉红色, 形容词, [], "呈淡红色").
+entry(粉红色, v, [粉红色的,粉红色化,粉红色们], "在布料上切出锯齿状的边缘")。
+条目(粉红, 动词, [粉红了, 变粉红, 正在变粉红], "变为粉红色")。
+entry(pinker, n, [pinkers], "粉红者").
+entry(粉趾, n, [粉趾船], "一种船尾突出狭窄的船").
+```prolog
+条目(结膜炎, n, [结膜炎], "一种眼睛的炎症").
+```
+entry(小指, 名词, [小指们], "小指").
+entry(剪边, n, [剪边], "一种切割或装饰的方法").
+entry(粉红色的, 形容词, [], "有点粉红").
+entry(粉红地, 副词, [], "带有粉红色调").
+entry(粉紅色, n, [粉紅色], "处于粉红色的状态").
+entry(pinko, n, [粉红分子], "或 PINKOES持有某种激进政治观点的人").
+条目(粉根, n, [粉根], "一种药用植物的根").
+entry(pinky, 形容词, [], "更粉 最粉 粉红ish").
+```prolog
+entry(无针, 形容词, [], "缺少别针").
+```
+entry(pinna, n, [pinnas], "或 PINNAE羽毛翅膀或类似翅膀的部分")。
+entry(小舟, n, [小舟], "一种小型帆船").
+entry(顶点, v, [顶点化, 顶点中, 顶点们], "置于顶峰").
+entry(耳廓的, 形容词, [], "关于耳廓的").
+entry(羽状, 形容词, [], "类似羽毛").
+entry(羽状的, 形容词, [], "羽状").
+entry(固定, 过去, [], "pin的时态")。
+entry(钉子, n, [钉子们], "用于固定的东西").
+entry(pinnies, pl, [], "便服的").
+entry(别住, 在场, [], "别住的分词形式").
+entry(鳍足类, n, [鳍足类], "一种肢体演化成鳍状肢的哺乳动物")。
+entry(小羽片, n, [小羽片], "小羽片PINNULAR 形容词").
+代码(prolog, 入口(pinnule, n, [pinnules], "一个羽状的部分或器官")).
+entry(pinny, n, [pinnies], "围裙").
+entry(尖顶牌, n, [尖顶牌], "一种纸牌游戏").
+entry(双头牌, n, [双头牌们], "皮诺克尔").
+entry(皮诺勒, n, [皮诺勒们], "一种细磨粉").
+条目(松果, n, [松果们], "或 松果 一种松树").
+entry(皮诺, n, [皮诺们], "一种红葡萄或白葡萄").
+entry(皮诺塔吉, n, [皮诺塔吉们], "一种红葡萄酒葡萄品种").
+entry(精确定位, 动词, [精确定位了, 精确定位中, 精确定位s], "精确地找到").
+entry(针刺, v, [针刺了, 针刺中, 针刺], "用针刺穿").
+条目(平斯彻犬, 名词, [平斯彻犬], "一种大型短毛狗").
+entry(pinspot, n, [聚光灯], "一个小而强的聚光灯").
+条目(品脱, n, [品脱], "一种液体和干燥的容量测量单位").
+entry(皮塔, 名词, [皮塔斯], "一种皮肤病").
+`入口(画, 名词, [画的复数], "已画").`
+```prolog
+入口(美洲豹鲂鮄, n, [美洲豹鲂鮄鱼], "或PINTADOES一种大型食用鱼").
+```
+条目(针尾鸭, 名词, [针尾鸭们], "一种河鸭").
+入口(平他诺, n, [平他诺鱼], "一种热带鱼").
+entry(插销, n, [插销], "物体旋转所依靠的支点").
+入口(pinto, n, [pintos], "或 PINTOESa 有斑点的马").
+entry(pintsize, 形容词, [], "小").
+entry(褶, n, [褶], "一种非常窄的织物折叠").
+entry(pinup, n, [海报], "可以贴在墙上的图片")
+入口(灯芯绒, n, [灯芯绒], "一种面料").
+入口(针草, 名词, [针草们], "一种多年生草本植物")。
+entry(風車, v, [風車的過去式,風車的進行式,風車的單複數形式], "旋轉於桿子的末端")。
+entry(pinwork, n, [刺绣品], "一种刺绣").
+entry(蛲虫, n, [蛲虫], "一种寄生虫").
+entry(piny, adj, [], "钦佩 钦佩暗示或覆盖着松树").
+entry(拼音, n, [拼音们], "一个用于为中文表意文字提供罗马字母转写的系统").
+entry(松果, 名词, [松果], "松子").
+条目(冰镐, 名词, [冰镐们], "一种冰斧").
+entry(介子, n, [介子们], "一种亚原子粒子介子 的adj").
+entry(先锋, v, [开创, 开创性, 先锋], "参与开始").
+entry(虔诚, n, [虔诚性], "过度表现的虔诚").
+条目(虔诚, 形容词, [], "具有宗教敬虔PIOUSLY副词").
+entry(pip, v, [破壳, 破壳时, 破壳], "打破蛋壳").
+条目(琵琶, 名词, [琵琶们], "一种四弦的中国琵琶").
+entry(pipage, n, [管道系统], "管道系统").
+entry(菩提树, n, [菩提树s], "一种印度的无花果树").
+入口(管道, v, [管道的, 管道中, 管道], "通过管道输送一个空心圆柱体")。
+entry(pipeage, n, [管道年龄], "输送量").
+entry(pipeclay, v, [pipeclayed,pipeclaying,pipeclays], "用细白泥涂白皮革").
+entry(海龙, n, [海龙鱼], "一种细长的鱼").
+entry(pipeful, n, [管装], "足够装满烟斗的一定量").
+entry(无管的, 形容词, [], "没有管道").
+词条(管状的, 形容词, [], "类似于管子").
+入口(管道, v, [管道化, 管道中, 管道], "通过管道输送")。
+入口(吹笛者, 名词, [吹笛者们], "演奏管状乐器的人").
+entry(胡椒碱, n, [胡椒碱们], "一种化学化合物").
+entry(烟斗柄, n, [烟斗柄], "烟斗的柄").
+条目(移液管, 动词, [已移液, 移液中, 移液管], "进行移液操作").
+入口(移液器, 动词, [已移液, 正在移液, 移液器], "用校准管测量液体").
+entry(管道系统, n, [管道], "管道总体").
+entry(pipier, 比较级, [], "of pipy").
+entry(最管状, 最高级, [], "管状的").
+entry(管道性, 名词, [管道性复数], "管道的特性")。
+entry(管道, n, [管道系统], "管道系统").
+词条(烫烫地, 副词, [], "尖声地")。
+entry(鹨, n, [鹨类], "一种鸣禽").
+entry(pipkin, n, [pipkins], "小锅").
+entry(pipless, 形容词, [], "没有小种子")
+entry(pipped, 过去式, [], "pip 的时态").
+入口(皮平, 名词, [皮平], "几种苹果品种之一")。
+entry(破壳, 现在时, [], "破蛋的分词").
+entry(pipy, 形容词, [], "PIPIER PIPIEST刺耳").
+entry(辛辣, n, [辛辣味], "辛辣").
+entry(辛辣, n, [辛辣的性质], "刺激的质量").
+entry(辛辣, 形容词, [], "味道宜人的辛辣").
+entry(激起, 动词, [激起了, 激起着, 激起], "激起愤怒或不满")
+entry(皮克, n, [皮克], "一种纸牌游戏").
+entry(海盗行为, n, [海盗行为], "海上抢劫操作")
+入口(独木舟, 名词, [独木舟], "一种挖出来的独木舟").
+entry(食人鱼, n, [食人鱼], "piranha").
+项(食人鱼, 名词, [食人鱼们], "一种贪食的鱼").
+入口(皮拉鲁库, 名词, [皮拉鲁库们], "一种大型食用鱼").
+entry(海盗, v, [盗版, 盗版中, 海盗], "进行盗版活动").
+entry(海盗的, 形容词, [], "涉及海盗行为")。
+entry(食人鱼, n, [食人鱼], "piranha").
+entry(梨状, 形容词, [], "梨状").
+条目(旋转梭, 名词, [旋转梭], "一个纺车线轴").
+entry(pirog, n, [俄式馅饼], "或称 PIROGHI 或 PIROGI，一种大型俄罗斯糕点")。
+条目(饺子, n, [饺子们], "pierogi").
+entry(独木舟, n, [独木舟们], "皮筏").
+条目(皮罗盖, n, [皮罗盖们], "皮划艇").
+entry(皮罗斯克, n, [皮罗斯基], "或 PIROSHKI 或 PIROJKI 一种小型俄罗斯糕点").
+entry(钓鱼场所, n, [钓鱼场所], "捕鱼的地方").
+entry(piscator, n, [渔夫], "一个渔夫").
+entry(游泳池, n, [游泳池的复数形式], "或 PISCINAE一种用于某些教堂仪式的盆地PISCINAL 形容词").
+entry(鱼类, 形容词, [], "与鱼有关的").
+entry(pisco, n, [piscos], "秘鲁白兰地").
+entry(pish, v, [pished,pishing,pishes], "表示轻蔑").
+entry(pisher, n, [pishers], "一个年轻或没有经验的人").
+条目(巫术, 名词, [巫术们], "魔法").
+entry(巫术, n, [巫术们], "一个邪恶的咒语").
+条目(豆骨, 名词, [豆骨], "手腕的小骨头").
+entry(蚁, n, [蚁群], "一种蚂蚁").
+入口(菲律宾比索, 名词, [复数], "菲律宾比索")。
+入口(豆状石, 名词, [豆状石], "一种石灰石")。
+入口(钙板蛋白石, n, [钙板蛋白石], "一种小的圆形石灰岩结核").
+entry(小便池, n, [小便池], "公共小便池").
+条目(开心果, 名词, [开心果色], "一种绿色的阴影")。
+entry(滑雪道, n, [滑雪道], "一条下坡滑雪道").
+entry(雌蕊, n, [雌蕊], "开花植物的种子承载器官").
+entry(手枪, v, [用手枪射击, 用手枪射击中, 用手枪射击们], "或 用手枪射击过 用手枪射击中 用手枪射击们用小型枪射击").
+entry(手枪, n, [手枪], "一种以前使用的欧洲金币").
+entry(活塞, n, [活塞], "引擎的一部分").
+entry(香蒜酱, n, [香蒜酱], "一种由橄榄油、大蒜、罗勒和通常奶酪制成的酱").
+项(坑, v, [坑洼, 挖坑, 坑], "标记为凹坑或洼地").
+条目(皮塔，名词，[皮塔饼]，"一种坚韧的纤维")。
+入口(仙人掌果, 名词, [仙人掌果], "美国西南部和墨西哥的一种仙人掌")。
+```prolog
+条目(怦怦, 动词, [怦怦声, 怦怦作响, 怦怦], "发出重复的轻敲声")。
+```
+entry(火龙果, 名词, [火龙果], "pitahaya").
+entry(投, 动词, [投掷, 投中, 投球], "投掷").
+入口（水壶, 名词, [水壶们], "一个用于盛装和倾倒液体的容器"）。
+entry(更音调的, 比较级, [], "of 音调").
+entry(pitchiest, 最高级, [], "of pitchy").
+条目(幽暗地, 副词, [], "以非常黑暗的方式")。
+entry(推销员, n, [推销员们], "一个销售小商品的销售员").
+entry(pitchout, n, [截杀出局], "一种棒球投球类型").
+```prolog
+entry(pitchy, adj, [], "更加刺耳 最刺耳").
+```
+entry(可怜, 形容词, [], "令人同情的").
+entry(隐患, n, [隐患], "隐藏的危险或困难").
+入口(髓, 动词, [髓化, 髓化中, 髓化], "切断脊髓").
+entry(矿井口, n, [矿井口], "煤矿入口").
+entry(无力, adj, [], "缺乏力量").
+entry(皮索斯, 名词, [皮索伊], "一个大型的古代储藏罐").
+entry(简洁的, 形容词, [], "更加简洁 最简洁 简短 简洁地 副词").
+条目(可怜的, 形容词, [], "可怜地 副词").
+条目(可怜, 过去, [], "怜悯的时态")。
+entry(怜悯者, n, [怜悯者们], "一个怜悯他人的人").
+entry(可怜, 现在, [], "第三人称单数形式的怜悯").
+entry(可怜, 形容词, [], "更可怜的 最可怜的 引起怜悯的").
+entry(无情, 形容词, [], "没有同情心").
+条目(pitman, n, [矿工], "矿工").
+入口(皮特曼, 名词, [皮特曼], "连杆").
+entry(岩钉, n, [岩钉], "用于登山的金属钉").
+entry(皮托管, n, [皮托管们], "用于测量流体流动压力的管子").
+条目(框锯, n, [框锯], "用于切割原木的大锯")。
+entry(八色鸫, n, [八色鸫属], "一种分布于亚洲、澳大利亚和非洲的鸣禽").
+entry(微薄津贴, n, [微薄津贴], "一小笔津贴的金额").
+entry(去核, 过去, [], "去核的时态").
+entry(点蚀, 名, [点蚀], "一系列的空洞或凹陷").
+入口(怜悯, v, [怜悯了, 怜悯着, 怜悯], "为他人的不幸心生怜悯和悲伤").
+entry(piu, adv, [], "用作音乐指示的更多").
+入口(旋点, v, [旋转,旋动,支点], "在轴或杆上旋转").
+entry(关键, 形容词, [], "极其重要").
+entry(中锋, n, [中锋们], "篮球队中的中锋").
+entry(pix, n, [像素群], "pyx").
+```prolog
+entry(像素, n, [像素], "视频图像的基本单元").
+```
+entry(像素化, v, [像素化的,像素化中,像素化], "将图像划分为像素，以便以数字格式显示").
+entry(精灵, n, [精灵们], "精灵精灵式 adj").
+entry(pixilate, v, [pixilated,pixilating,pixilates], "像素化")
+entry(调皮捣蛋, n, [调皮捣蛋的], "调皮捣蛋的状态").
+entry(pixy, n, [小精灵], "一个顽皮而淘气的仙女或精灵PIXYYISH 形容词").
+entry(魅力, 名词, [魅力], "令人兴奋或有吸引力的品质")
+entry(pizazzy, 形容词, [], "充满魅力").
+入口(比萨, n, [比萨饼], "一种意大利的开放式馅饼")。
+entry(pizzaz, n, [pizzazes], "活力").
+entry(薄脆饼干, n, [薄脆饼干们], "一种薄而脆的意大利饼干").
+entry(比萨店, 名词, [比萨店], "制作和销售比萨的地方").
+entry(阴茎, n, [阴茎们], "动物的阴茎").
+entry(可安抚的, 形容词, [], "能够被安抚地安抚地副词").
+入口(招贴, 动词, [张贴了, 张贴中, 张贴], "通过海报进行宣传")。
+entry(抚慰, v, [抚慰了,抚慰着,抚慰], "安抚或缓和").
+entry(安抚者, n, [安抚者们], "一个安抚的人").
+入口(地方, v, [放置, 正在放置, 放置], "放置于特定位置")。
+entry(安慰剂, n, [安慰剂], "一种不含药物的物质，因其心理效应而给予").
+entry(政客, 名词, [政客们], "政治任命到公职的人员").
+条目(餐垫, n, [餐垫], "铺设餐具的桌垫，一种用于保护表面的材料").
+entry(胎盘, n, [胎盘], "或  胎盘 一种大多数哺乳动物的血管器官")。
+entry(放置者, n, [放置者们], "一个放置东西的人").
+entry(地点, n, [地点], "同意票").
+entry(宁静, 形容词, [], "平静或和平地宁静地 副词").
+entry(放置, n, [名次], "在比赛中被排名的状态").
+条目(普莱克, 名词, [普莱克斯], "苏格兰以前的硬币")。
+entry(开襟, n, [开襟], "衣物上的开口").
+entry(placoid, 名词, [placoids], "具有板状鳞片的鱼").
+entry(天花板, n, [天花板], "精心装饰的天花板").
+entry(变格的, 形容词, [], "指定一种中世纪音乐模式").
+条目(沙滩, 名词, [沙滩], "太阳上的一个明亮区域").
+entry(抄袭, n, [抄袭], "将他人的作品据为己有的行为")
+entry(瘟疫, 动词, [困扰, 困扰着, 困扰], "骚扰或折磨").
+entry(瘟疫者, n, [瘟疫者们], "使...受瘟疫的人").
+entry(plaguey, 形容词, [], "讨厌的")。
+`条目(讨厌的, 形容词, [], "麻烦的PLAGUILY 副词").`
+entry(鲽鱼, n, [鲽鱼], "一种欧洲比目鱼").
+entry(格子呢, n, [格子呢们], "一种方格图案的羊毛围巾PLAIDED 形容词").
+entry(plain, adj, [], "清楚的 更清楚的 最清楚的显而易见清楚地 adv").
+entry(抱怨, v, [抱怨, 抱怨中, 抱怨], "抱怨").
+entry(抱怨, 名词, [抱怨], "一个投诉").
+entry(泥灰, v, [泥灰了, 泥灰中, 泥灰们], "涂抹").
+entry(辫子, 动词, [辫子过的, 编辫子, 辫子], "编织").
+entry(编者, n, [编者们], "编辫子的人").
+entry(编织, n, [编织物], "某物被编织").
+```prolog
+入口(计划, v, [计划了, 计划中, 计划], "制定一个计划，一种实现目的的方法")。
+```
+entry(平面, 形容词, [], "平坦的").
+entry(涡虫, n, [涡虫], "一种水生扁虫").
+entry(平面, 形容词, [], "具有平坦的表面").
+入口(板子, 名词, [板子们], "一块木板")。
+entry(平板, n, [平板], "平板").
+词条(空白硬币, 名词, [空白硬币们], "用于铸造硬币的金属片").
+`入口(飞机, v, [被磨光的, 磨平中, 飞机们], "使光滑或平整").`
+entry(刨子, n, [刨子们], "刨平者").
+entry(行星, n, [行星], "一个天体").
+entry(轮廓, 名词, [轮廓们], "从上方看物体的轮廓").
+entry(哀鸣的, 形容词, [], "响亮地回响").
+entry(刨削, 现在时, [], "刨的分词")
+```prolog
+条目(抛光, 动词, [抛光,抛光中,抛光], "通过轻敲锤打来变坚硬和光滑").
+```
+entry(厚木板, v, [铺板, 抹板, 厚木板], "用长而平的木板覆盖").
+条目(铺板, n, [铺板], "由木板制成的覆盖物").
+entry(浮游生物, n, [浮游生物], "任何组成浮游生物的有机体")。
+入口(浮游生物, 名词, [浮游生物], "水体中的微小动物和植物生命浮游 adj")。
+entry(无计划, 形容词, [], "没有计划").
+entry(计划, 过去, [], "plan 的时态").
+entry(计划者, n, [计划者们], "制定计划的人").
+条目(规划, n, [规划], "目标或政策的制定")。
+```prolog
+entry(planosol, n, [planosols], "一种土壤类型").
+```
+entry(植物, 动词, [种植,种植中,种植], "放置在地里生长").
+入口(大蕉, n, [大蕉], "一种短茎草本植物").
+entry(足底, 形容词, [], "有关脚底").
+entry(播种机, n, [播种机们], "一个用于播种的工具或人").
+entry(种植, n, [种植区], "一个种植植物的区域").
+entry(小植物, n, [小植物们], "一种小植物").
+词条(盘形幼虫, n, [盘形幼虫], "某些生物的自由游泳幼虫 PLANULAR 形容词")。
+`entry(铭牌, n, [铭牌们], "装饰性的板或圆盘").`
+entry(plash, v, [plashed, plashing, plashes], "编织在一起").
+entry(泼水者, n, [泼水者们], "泼水的人").
+entry(plashy, 形容词, [], "PLASHIER PLASHIESTmarshy").
+入口(质浆, n, [质浆], "等离子").
+entry(血浆, n, [血浆], "血液的液体部分PLASMIC adj").
+条目(质粒, n, [质粒], "细胞的遗传结构").
+输入（质酶，名词，[质酶们]，"一种酶"）。
+entry(等离子体云, n, [等离子体云], "一种高能粒子").
+entry(质体, n, [质体], "一种被认为存在于细胞中的遗传决定因子").
+entry(石膏, v, [石膏过,抹灰,石膏], "用石灰、沙子和水的混合物覆盖").
+entry(石膏状的, 形容词, [], "类似于石膏").
+entry(塑料, n, [塑料], "一种合成或天然的可塑材料").
+entry(质体, n, [质体], "植物细胞中的结构").
+entry(胸甲, n, [胸甲们], "龟壳的一部分PLASTRAL adj").
+entry(玄甲, n, [玄甲], "胸甲").
+条目(plat, v, [platted, platting, plats], "编织").
+条目(悬铃木, n, [悬铃木树], "一种大树").
+entry(悬铃木, n, [悬铃木], "悬铃").
+```prolog
+条目(plate, v, [plated, plating, plates], "用一层薄金属覆盖").
+```
+entry(高原, n, [plateaus], "或 PLATEAUX 一片水平的高地")。
+entry(高原, v, [达到稳定期, 稳定期中, 达到稳定期], "达到一个稳定期或条件").
+entry(餐盘满的量, n, [餐盘满们], "或 餐盘满的 毫升量填满一个浅盘子").
+入口(血小板, n, [血小板], "一个小的扁平体").
+entry(压纸滚筒, n, [压纸滚筒], "打字机的滚筒").
+入口(镀工, n, [镀工们], "镀物者")。
+```prolog
+entry(platesful, a, [], "pl of plateful").
+```
+入口(平台, n, [平台们], "一个升高的地板或平坦的表面")。
+entry(platier, 比较级, [], "of platy").
+entry(鳉鱼, a, [], "鳉鱼的复数形式").
+entry(最扁平, 最高级, [], "platy 的").
+entry(白金, n, [白金], "铂").
+入口(镀层, n, [镀层], "一层薄金属").
+entry(铂, adj, [], "关于铂").
+entry(铂, n, [铂], "一种金属元素").
+`条目(理想化, 形容词, [], "纯粹精神的，无感官欲望的").`
+`entry(小分队, v, [轮换, 轮换中, 轮换], "在同一位置与另一名球员轮流").`
+entry(编造, 过去, [], "编造的时态")
+entry(大盘, n, [大盘子], "一个大型的浅盘").
+```
+条目(platting, 现在时, [], "plat的分词")。
+```
+entry(platy, 形容词, [], "PLATIER PLATIESTsplit成薄的扁平片").
+词条(platy, n, [platys], "或 PLATIES一种小型热带鱼").
+entry(鸭嘴兽, n, [鸭嘴兽们], "或是鸭嘴动物的水生哺乳动物")。
+entry(赞美, n, [赞美], "一种赞美的表达").
+entry(讚美的, 形容词, [], "表示讚美").
+entry(玩, v, [玩过, 玩着, 玩], "从事娱乐或运动可玩 adj").
+entry(沙漠盆地的底部, 名词, [沙漠盆地], "沙漠盆地的底部")。
+```prolog
+条目(表演, 动词, [表演过, 表演中, 表演], "参加戏剧表演").
+```
+`条目(回放, n, [回放], "重新播放新录制的行为").`
+entry(节目单, n, [节目单], "戏剧演出的节目").
+条目(playbook, n, [playbooks], "一本包含一个或多个舞台文学作品的书").
+条目(花花公子, n, [花花公子们], "热衷于享乐活动的男人").
+词条(游戏日期, 名词, [游戏日期们], "演出安排的日期").
+entry(假日, 名词, [假期], "一个假日").
+```prolog
+entry(淘汰赛, n, [淘汰赛], "附加赛").
+```
+entry(玩家, n, [玩家们], "一个在参与游戏的人").
+entry(活泼, adj, [], "frolicsome").
+条目(playgirl, n, [playgirls], "一位热衷于享乐活动的女性")。
+entry(剧场观众, n, [剧场观众们], "喜欢观看戏剧表演的人").
+entry(游乐园, n, [游乐园们], "一个娱乐区域").
+```prolog
+entry(缺乏玩趣, 形容词, [], "缺乏玩耍的特质").
+```
+entry(playlet, n, [短剧], "一个简短的戏剧表演").
+entry(playlike, 形容词, [], "类似戏剧表演").
+entry(播放列表, n, [播放列表们], "要在广播中播放的录音列表")。
+entry(玩伴, n, [玩伴们], "游戏中的伙伴").
+entry(季后赛, 名词, [比赛], "一系列比赛，用于决定锦标赛的冠军").
+入口(游戏围栏, n, [游戏围栏], "一个小孩可以在其中玩耍的围栏").
+入口(游戏室, n, [游戏室], "一个娱乐室")。
+entry(游戏设备, n, [游戏设备], "一种户外装置，具备儿童活动的设备").
+entry(连体衣, n, [连体衣], "一种为女性和儿童设计的运动服装").
+entry(娱乐时间, n, [娱乐时间], "玩耍或娱乐的时间").
+entry(playwear, n, [休闲装], "用于休闲活动的衣物").
+entry(广场, 名, [广场们], "一个公共广场")。
+entry(请求, n, [请求], "一种恳求").
+entry(编织, 动词, [编织过, 编织中, 编织们], "交织在一起").
+entry(请求, v, [请求了, 请求中, 请求], "迫切地请求").
+条目(辩护者, n, [辩护者们], "一个辩护的人").
+entry(请求, 名词, [请求], "法律诉讼中的指控")
+entry(宜人, 形容词, [], "PLEASANTER PLEASANTEST令人愉快").
+entry(请, v, [高兴的,使人高兴的,使高兴], "给予乐趣或满足").
+entry(pleaser, n, [令人愉快的人], "令人愉快的人").
+entry(快乐, 动词, [感到快乐, 令人愉快, 使人愉快], "使高兴").
+entry(褶, v, [褶裥的,褶裥,褶], "以均匀的方式折叠").
+entry(打褶者, n, [打褶者们], "一个打褶的人").
+entry(人造革, n, [人造革], "一种仿皮革的塑料织物").
+entry(褶皱, n, [褶皱], "衣服上的小褶皱安排")
+条目(平民, n, [平民], "一个普通人").
+entry(新生, n, [新生], "在军事或海军学院中就读一年级的学生")。
+entry(平民, n, [平民], "一个平民").
+entry(弦拨, n, [弦拨], "或 PLECTRAplectrum").
+```prolog
+条目(拨片, n, [拨片], "或 PLECTRA 用于拨弦乐器的工具").
+```
+条目(pled, a, [], "plead 的过去式").
+entry(承诺, v, [承诺了,承诺中,承诺们], "作为借用物的担保给予").
+entry(抵押人, 名词, [抵押人们], "某物被抵押给的对象").
+entry(保证人, n, [保证人], "保证者").
+entry(承诺者, n, [承诺者们], "承诺某事的人").
+entry(pledget, n, [pledgets], "一个吸水棉垫").
+entry(承诺中, 现在, [], "承诺的分词形式").
+entry(出质人, n, [出质人], "承诺者").
+条目(pleiad, n, [pleiads], "或 PLEIADES七位杰出人物的集团")。
+entry(整体, a, [], "充满的复数").
+入口(全体会议, n, [全体会议], "所有成员参加的会议").
+入口(英镑, 名词, [英镑], "作为钳子和扳手使用的工具")。
+entry(充满, 动词, [充满了, 正在充满, 充满], "填满").
+入口(充满论, 名词, [充满论们], "空间完全被物质占据的学说").
+条目(充实论者, 名词, [充实论者们], "充实论的倡导者").
+条目(大量, 名词, [大量], "足够或充足的量").
+入口(plenum, 名词, [plenums], "或 PLENAspace 被视为完全被物质占据")。
+entry(腹部, 名词, [腹部], "甲壳类动物的腹部PLEONAL PLEONIC 形容词").
+entry(赘述, 名词, [赘述], "不必要的词语的使用").
+entry(附肢, 名词, [附肢], "甲壳类动物的附肢").
+条目(pleroma, 名词, [pleromas], "神圣力量的圆满")。
+entry(普莱瑟, n, [普莱瑟们], "叩诊锤").
+entry(过多, n, [过多], "过量").
+entry(胸膜, n, [胸膜], "或者胸膜一种包裹肺部的膜胸膜 形容词").
+entry(胸膜炎, n, [胸膜炎症], "胸膜的炎症").
+条目(侧板, n, [胸膜], "昆虫胸节的一部分")。
+entry(浮游生物, n, [浮游植物], "水生植被").
+条目(plew, n, [plews], "海狸皮").
+```
+条目(plex, n, [plexes], "a multiplex").
+```
+entry(神经丛的, 形容词, [], "与神经丛有关的").
+条目(plexor, n, [plexors], "一种小型医用锤状工具")。
+entry(丛, n, [丛集], "部件的交织").
+entry(柔韧的, 形容词, [], "容易弯曲PLIABLY 副词").
+entry(柔韧性, n, [柔韧性们], "顺从的质量").
+`entry(易弯的, 形容词, [], "容易弯曲地 副词").`
+entry(褶皱, n, [褶皱], "或 PLICASa 皮肤的褶皱PLICAdj").
+entry(折叠, 形容词, [], "pleated").
+entry(重叠的, 形容词, [], "重叠").
+条目(屈膝, 名词, [屈膝], "芭蕾中的一个动作")。
+entry(plied, 过去式, [], "ply 的时态").
+```prolog
+entry(钳子, n, [钳子], "一个使用工具的人").
+```
+条目(请示, 现在时, [], "动词 ply 的第三人称单数形式").
+```prolog
+词条(困境, 动词, [承诺, 立誓, 誓约], "通过庄严的誓言承诺或束缚").
+```
+entry(plighter, n, [plighters], "承诺者").
+entry(plimsol, n, [plimsols], "普利姆索尔").
+entry(plimsole, n, [plimsoles], "plimsoll").
+条目(普林姆索尔, 名词, [普林姆索尔鞋], "一种橡胶底布鞋").
+词条(射击声, 动词, [已射击声, 正在射击声, 射击声], "随意射击目标").
+entry(普林克, n, [普林克们], "一个叮当声").
+entry(plinky, adj, [], "声清脆或发出短促尖锐金属声音的").
+入口（底座，名词，[底座们]，"石头或板材，上面放置柱子或基座"）。
+entry(pliofilm, n, [聚氯乙烯薄膜], "一种用于包装的透明的氯化橡胶片").
+entry(普利欧管, n, [普利欧管], "一种真空管").
+entry(pliskie, n, [pliskies], "恶作剧").
+entry(plisky, n, [pliskies], "小妖精")。
+entry(plisse, n, [plisses], "一种布料的褶皱纹理").
+entry(沉重行走, v, [沉重行走过,沉重行走着,沉重行走], "沉重地走").
+条目(蹒跚者, 名词, [蹒跚者们], "一个蹒跚行走的人").
+entry(染色体倍性, n, [染色体倍性], "基本染色体数目的重复程度").
+入口(普隆克, 动词, [普隆克的, 普隆克中, 普隆克们], "去砰声").
+条目(傻瓜, 名词, [傻瓜们], "一个愚蠢的人").
+entry(扑通, v, [扑通了,正在扑通,扑通], "重重地掉下或落下").
+```
+条目(爆破音, 名词, [爆破音们], "某些辅音发出后的呼气释放")。
+```
+entry(爆破音, n, [爆破音], "由爆破产生的声音").
+条目(计划, 动词, [已经计划, 正在计划, 计划们], "秘密计划").
+entry(无情节, 形容词, [], "无计划").
+entry(情节, n, [情节线], "一本书的主要故事")。
+entry(土地面积, n, [土地面积], "一块土地的面积").
+entry(绘制, 过去, [], "plot的时态").
+entry(绘图仪, n, [绘图器], "一个用于绘图的装置").
+entry(策划, 现在时, [], "策划的分词形式").
+entry(plotty, adj, [], "充满阴谋诡计如同小说").
+entry(plotty, n, [plotties], "一种热香料饮料").
+```prolog
+条目(plotz, 动词, [plotzed, plotzing, plotzes], "被情感压倒").
+```
+entry(犁, v, [犁过,犁地中,犁地], "犁地").
+entry(犁田者, n, [犁田者们], "耕地的人").
+entry(鸻, n, [鸻], "一种滨海鸟").
+entry(犁, v, [犁地了, 犁地中, 犁地], "用犁（一种农具）翻耕土地 可犁的 adj").
+entry(盈余再投资, n, [盈余再投资], "利润在企业中的再投资").
+entry(犁地男孩, n, [犁地男孩们], "带领耕地队伍的男孩").
+entry(犁地者, n, [犁地的人], "犁地的人").
+entry(犁铧, n, [犁铧], "犁的挂钩").
+Prolog(入项(犁地, 名词, [犁地], "适合耕作的土地")).
+entry(犁夫, n, [犁夫们], "犁地的男人").
+entry(策略, v, [用于, 运用中, 使用], "从行移动到列")。
+entry(普洛伊, 名词, [普洛伊], "一种荞麦煎饼").
+entry(拔, 动词, [拔出, 正在拔, 拔], "拉出或拔掉").
+entry(拔毛者, n, [拔毛者], "拔毛的人").
+入口(勇敢, 形容词, [], "更勇敢 最勇敢 勇敢且充满活力 勇敢地 adv")。
+entry(插头, v, [插入, 插入中, 插头], "用插头堵住或关闭用于填补孔洞的材料").
+entry(插頭, n, [插頭], "插線裝置").
+条目(排水孔, 名词, [排水孔], "可以用塞子堵住的排水口")。
+entry(无插头, 形容词, [], "没有插头的").
+entry(plugola, n, [plugolas], "在广播或电视上的免费附带广告").
+入口(plugugly, n, [pluguglies], "伪善者")。
+条目(李子, 名词, [李子], "一种肉质水果")。
+entry(李子, 形容词, [], "非常受欢迎的").
+entry(羽毛, n, [羽毛], "鸟的羽毛").
+entry(羽毛状, 形容词, [], "类似羽毛").
+entry(铅垂, v, [测量了, 测量中, 测量], "确定深度").
+条目(千屈菜, n, [千屈菜], "石墨").
+entry(管道工, n, [管道工们], "安装和修理管道的人").
+entry(管道工艺, n, [管道工艺品], "管道工的工作").
+入口(铅的, 形容词, [], "含铅").
+entry(管道, n, [管道], "建筑物的管道系统")
+条目(金属铅中毒, 名词, [金属铅中毒], "铅中毒").
+entry(铅的, 形容词, [], "含铅").
+entry(铅, n, [铅], "铅").
+条目(羽毛, v, [用羽毛覆盖, 用羽毛覆盖中, 羽毛], "用羽毛覆盖").
+```prolog
+条目(小羽毛, 名词, [小羽毛], "小羽毛"). 
+```
+条目(plumeria, n, [plumerias], "一种开花灌木丛").
+entry(羽毛, n, [羽毛], "鸟的羽毛").
+entry(洋李, 比较级, [], "如羽毛").
+entry(最“plumy”的, 最高级, [], "的plumy的").
+entry(羽毛装饰, 现在, [], "羽饰的分词形式").
+条目(羽足鸟, 名词, [羽足鸟], "一种有羽毛脚的鸟").
+词条(plumlike, 形容词, [], "类似于李子")。
+entry(垂直下降, v, [垂直下降了, 垂直下降中, 垂直下降], "垂直下降").
+entry(plummy, adj, [], "多李子 最多李子 充满李子").
+entry(羽毛状, 形容词, [], "具有羽毛").
+entry(丰满, 形容词, [], "更圆润 极圆润，形状饱满").
+entry(丰满, v, [使丰满, 使变丰满, 使变胖], "使变丰满")
+```prolog
+entry(使增胖, 动词, [增胖了, 增胖中, 增胖], "使变得圆润").
+```
+entry(丰满落下, n, [丰满落下], "重重地跌落").
+entry(豐滿的, 形容詞, [], "有點豐滿").
+条目(胖乎乎地, 副词, [], "以胖胖的方式")。
+entry(丰满, 形容词, [], "较丰满 最丰满丰满的").
+词条(胚芽, n, [胚芽], "植物胚胎的主要芽PLUMULAR 形容词").
+entry(羽毛状, 形容词, [], "最羽毛状的覆盖有羽毛").
+entry(掠夺, v, [掠夺了,掠夺中,掠夺], "通过武力抢夺物品").
+```prolog
+词条(跳入, 动词, [跳入过, 正在跳入, 跳入], "突然或用力地投入或插入某物").
+```
+入口(活塞, 名词, [活塞们], "一个用来插入的东西")。
+条目(扑通, 动词, [扑通了,扑通着,扑通], "重重地掉落或下降")。
+入口(plunker, n, [plunkers], "一個彈撥者")。
+entry(plunky, adj, [], "由快速的空心金属声标记的PLUNKIER PLUNKIEST")
+entry(蔡李佛, n, [蔡李佛们], "李子和杏的杂交水果").
+entry(复数, 名词, [复数形式], "表示多个的词").
+条目(复数地, 副词, [], "以表达不止一个的方式或形式")。
+entry(加, n, [加号], "或加号额外数量").
+entry(豪华, 形容词, [], "较豪华 最豪华豪华地副词").
+条目(毛绒, n, [plushes], "一种具有长绒毛的织物")。
+entry(plushed, adj, [], "豪华奢侈").
+entry(plushy, adj, [], "比较奢华 最奢华 豪华地 adv").
+条目(附加费, n, [附加费], "超过另一个的数量").
+```prolog
+entry(加号, a, [], "加号的复数").
+```
+entry(海胆幼体, n, [幼体], "海胆的幼虫").
+entry(冥王星, n, [冥王星岩体], "一种火成岩的形成PLUTONIC 形容词").
+entry(多雨期, n, [多雨期], "长期潮湿气候时期").
+entry(pluvian, 形容词, [], "以降雨量大为特征").
+entry(雨水月, 形容词, [], "多雨的").
+条目(雨的, 形容词, [], "与雨有关").
+```prolog
+条目(层, 动词, [已层, 正层, 层们], "重复提供或供应PLYINGLY adv").
+```
+entry(镊子, n, [镊子], "钳子").
+entry(木板, n, [木板], "一种建筑材料").
+entry(灵魂, n, [灵魂们], "灵魂或精神").
+entry(po, n, [pos], "便壶").
+entry(禾本科的, 形容词, [], "有关草本植物家族的植物").
+```prolog
+entry(偷猎, v, [偷猎过,偷猎中,偷猎], "擅自闯入以捕猎或捕鱼").
+```
+条目(偷猎者, 名词, [偷猎者们], "偷猎的人").
+entry(poachy, adj, [], "POACHIER POACHIEST沼泽地").
+entry(普布拉诺, 名词, [普布拉诺辣椒], "一种温和的深绿色辣椒").
+条目(poboy, 名词, [poboys], "一种夹在长面包卷中的大型三明治")。
+条目(红头潜鸭, 名词, [红头潜鸭们], "一种海鸭").
+入口(痘, 动词, [痘疱, 起痘, 长痘], "被皮疹病引起的脓疱留下痘痕").
+条目(口袋, v, [装入口袋,放入口袋中,放入口袋], "放入缝在衣服上的袋子中")。
+入口(偷口袋者, 名词, [偷口袋者们], "一个装口袋的人")。
+entry(麻子, v, [生麻子,形成麻点,生麻疹], "因爆发性疾病而导致的疤痕").
+`entry(pocky, adj, [], "POCKIER POCKIESTcovered with pocksPOCKILY adv").`
+entry(poco, adv, [], "稍微用作音乐指示").
+entry(波科森, n, [波科森斯], "波科森").
+entry(高地沼泽, n, [高地沼泽们], "一个 upland swamp").
+entry( pocoson ， n ， [ pocosons ] ， "pocosin" ) 。
+entry(豌豆荚, 动词, [长荚, 正在长荚, 长荚], "产生种子荚").
+条目(痛风, n, [痛风症], "脚部的痛风PODAGRAL PODAGRIC 形容词").
+entry(播客, v, [播客了, 播客进行中, 播客], "将一个节目以数字格式提供，以便通过互联网下载").
+```
+入口(波德斯塔, 名词, [波德斯塔们], "意大利的一个法官").
+```
+entry(podgy, 形容词, [], "PODGIER PODGIESTpudgyPODGILY 副词").
+```prolog
+条目(讲台, a, [], "podium 的复数形式").
+```
+entry(足病学, n, [足病学], "对人类足部的研究和治疗").
+入口（podite，名词，[podites]，“节肢动物的肢节PODITIC 形容词”）。
+entry(领奖台, n, [领奖台], "或 PODIAa 小平台").
+条目(豆荚状的, 形容词, [], "类似于豆荚的种子容器").
+项(罗汉松属植物, 形容词, [], "指一种常绿树类的科").
+entry(足节, n, [足节], "一个节片").
+entry(森林土, n, [森林土], "森林土PODSOLIC adj").
+入口(波登克, n, [波登克们], "一个小而不重要的城镇")。
+entry(podzol, n, [灰壤], "一种贫瘠的土壤PODZOLIC 形").
+entry(poechore, n, [poechores], "半干旱地区").
+entry(诗歌, 名词, [诗歌], "一首诗的作品")。
+entry(诗词, n, [诗歌], "诗歌")。
+entry(诗人, n, [诗人们], "写诗的人").
+entry(女诗人, n, [女诗人们], "女性诗人").
+entry(诗意, 形容词, [], "与诗歌相关").
+entry(诗意的, 形容词, [], "诗意的").
+entry(诗学, npl, [], "诗歌理论或实践").
+entry(诗化, 动词, [诗化过, 诗化中, 诗化], "进行诗歌创作").
+入口(诗人, 名词, [诗人们], "诗化者")。
+entry(作诗, 动词, [作诗了,作诗中,作诗], "写诗").
+entry(诗人, n, [诗作家], "一个作诗的人").
+entry(无诗人, 形容词, [], "缺乏诗人").
+entry(诗人般的, 形容词, [], "像诗人").
+entry(诗歌, n, [诗歌们], "以韵律形式的文学作品")。
+entry(pogey, n, [pogeys], "任何形式的政府救济").
+entry(波吉鱼, 复数, [], "波吉的").
+entry(pogo, v, [pogoed,pogoing,pogoes], "或POGOS如跳跳杆般上下跳跃")。
+entry(pogonia, n, [pogonias], "小兰花").
+entry(pogonip, n, [pogonips], "悬浮冰晶构成的浓雾").
+条目(族灭, 动词, [族灭了, 族灭中, 族灭], "系统性屠杀")。
+entry(胖鱼, 名词, [胖鱼们], "一种海洋鱼类").
+entry(poh, 感叹词, [], "用来表达厌恶").
+入口(波伊, 名词, [波伊们], "一种夏威夷食物").
+entry(辛酸, 形容词, [], "令人痛苦的").
+entry(poilu, n, [poilus], "法國士兵").
+entry(poind, v, [poinded, poinding, poinds], "查封和出售财产以偿还债务")
+entry(点, v, [指, 指着, 指向], "用手指指示方向").
+入口(芭蕾舞位置，名词，[芭蕾舞位置们]，“一个芭蕾舞姿势”)。
+entry(指针, n, [指针s], "一个指向的东西").
+entry(指向, n, [指向], "填充砖砌体接缝的水泥或砂浆").
+entry(pointman, n, [要员], "冰球中的某种球员").
+entry(pointy, 形容词, [], "尖尖的 尖端最尖，逐渐趋于锋利的末端")。
+entry(平衡, v, [平衡着, 使平衡, 保持平衡], "保持在平衡的状态中").
+entry(poiser, n, [摇摆者], "平衡者").
+entry(poisha, n, [坡伊沙], "孟加拉国的钱币").
+entry(毒药, v, [中毒,下毒,毒药], "施用有害物质")
+entry(毒者, n, [毒者们], "下毒的人").
+entry(波伊特雷尔, n, [波伊特雷尔的], "胸甲").
+入口（poke，动词，[poked, poking, pokes], "推动或捅POKABLE 形容词"）。
+entry(扑克, n, [扑克们], "刺戳者").
+entry(野火, n, [野火们], "美洲商陆").
+入口(龙葵属植物, 名词, [龙葵属植物], "一种多年生草本植物")。
+entry(缓慢的, n, [缓慢的], "缓慢").
+entry(狭小的, 比较级, [], "狭小的").
+entry(老虎机, 复数, [], "的老虎机")。
+entry(最狭窄的, 最高级, [], "窄的").
+entry(慢吞吞地, 副词, [], "以一种缓慢的方式").
+条目(缓慢, n, [缓慢状态], "缓慢的状态")。
+entry(戳, 现在, [], "戳的分词形式").
+entry(poky, adj, [], "较慢 最慢").
+条目(狭小, 名词, [狭小们], "一个监狱")。
+entry(政客, n, [政客们], "政界人物").
+条目(极点, 名词, [极点], “与一点相关的直线”)。
+条目(极化, 动词, [极化了, 极化中, 极化], "使...极化").
+入口(极性, n, [极性], "具有两种相反的特性")。
+entry(极化, 动词, [极化的, 极化中, 极化], "给予极性").
+词条(极化子, 名词, [极化子们], "一种类型的电子").
+entry(圩田, n, [圩田], "从水体中开垦出来的一块低洼土地").
+entry(杆, v, [撑杆,撑杆中,撑杆], "用长而细的木条或金属杆推动").
+```prolog
+entry(长柄斧, v, [用长柄斧砍了, 用长柄斧砍, 长柄斧], "用类似斧头的武器打击").
+```
+entry(长柄斧, v, [长柄斧头过了,长柄斧头,长柄斧头们], "劈砍").
+条目(臭鼬, n, [臭鼬], "一种食肉哺乳动物")。
+entry(杆住, 过去式, [], "杆的时态")
+entry(城邦, 复数, [], "的 城市").
+条目(无杆, 形容词, [], "没有杆")。
+entry(争论, n, [争辩], "一个有争议的论点")。
+entry(论战者, n, [论战者们], "从事论战的人").
+entry(争论, v, [争论过,争论中,争论], "进行论战").
+entry(玉米粥, n, [玉米粥们], "一种浓稠的玉米面粥").
+条目(杠者, 名词, [杠者们], "一个撑杆的人").
+条目(北极星, 名词, [北极星们], "指导原则").
+entry(极地, 副词, [], "朝向地球轴线的任一极端的方向").
+entry(护膝, n, [护膝们], "护膝是保护膝盖的皮革制品")
+entry(警察, v, [维护治安, 执法中, 执法], "使洁净或有序").
+entry(警察员, n, [警察员们], "执行监督任务的人").
+entry(警匪片, n, [警察电影], "以警方调查犯罪为主题的电影").
+entry(政策, n, [政策], "涉及谨慎或权宜的行动或程序").
+entry(极地, 现在, [], "极地区分词").
+entry(小儿麻痹症, n, [小儿麻痹症们], "一种传染性病毒疾病").
+entry(波利斯, n, [poleis], "一个古希腊城邦").
+入口(波兰语, 动词, [抛光, 打磨, 抛光], "通过摩擦使其光滑和有光泽")。
+entry(抛光者, n, [抛光者们], "抛光的人").
+条目(礼貌, 形容词, [], "更礼貌 最礼貌表示考虑他人礼貌地 副词")。
+entry(政治, 形容词, [], "精明").
+entry(从事政治, v, [从事政治过,从事政治中,从事政治], "从事政治活动").
+```prolog
+entry(政治家, n, [政治家们], "或政治家过于关注政治活动的人").
+```
+entry(政治, 复数名词, [], "政府的艺术或科学").
+entry(政体, n, [政体], "一种政府形式或制度").
+entry(波尔卡, v, [波尔卡舞了, 波尔卡舞着, 波尔卡舞], "跳一种活泼的舞蹈").
+入口(投票, v, [投票过,投票中,投票们], "为了调查公众意见而提问")。
+entry(pollack, n, [鳕鱼], "一种海洋食用鱼").
+entry(波拉德, v, [波拉德化, 波拉德中, 波拉德们], "修剪树的顶部枝条到树干").
+入口(受访者, 名词, [受访者们], "一个被调查的人")。
+entry(花粉, 动词, [已授粉,授粉,授粉], "将花粉，即种子植物中的授粉元素传递至").
+输入(轮询者, n, [轮询者们], "一个进行轮询的人").
+entry(拇指, n, [拇指], "前肢最内侧的指头POLLICAL 形容词").
+entry(民调, n, [民调s], "投票的登记或投票").
+entry(花粉团, 复数, [], "大量的花粉颗粒")
+entry(花粉的, 形容词, [], "有关花粉").
+entry(pollist, n, [pollists], "轮询器").
+入口(蝌蚪, 名词, [蝌蚪们], "蝌蚪")。
+entry(鳕鱼, n, [鳕鱼], "鳕鱼汤")。
+条目(投票人, n, [投票人], "一个投票员")。
+entry(污染, v, [污染了,污染着,污染], "使不洁净或不纯净").
+entry(污染者, n, [污染者们], "造成污染的一个").
+入口(蝌蚪, 名词, [蝌蚪们], "蝌蚪").
+条目(polo, 名词, [马球], "一种在马背上进行的游戏").
+entry(马球手, n, [马球手们], "马球运动员").
+entry(钋, n, [钋], "一种放射性元素").
+入口(胆小鬼, 名词, [胆小鬼们], "一个卑鄙的懦夫")。
+entry(多形核, n, [白细胞], "一种白细胞类型").
+`entry(聚酯, n, [聚酯布料], "由聚酯制成的服装").`
+entry(多元的, 形容词, [], "涉及三个或更多数量或个体").
+Prolog: entry(聚乙烯袋, v, [已装袋, 正装袋, 装袋], "把某物放入聚乙烯袋中").
+entry(polybrid, n, [杂交植物], "一种杂交植物").
+输入(聚酯棉, 名词, [聚酯棉], "一种植物类型").
+entry(多药物, 形容词, [], "关于同时使用多种药物使用").
+entry(polyene, n, [多烯化合物], "一种化学化合物多烯 adj")
+entry(远志, n, [远志属植物], "一种开花植物").
+entry(一夫多妻制, n, [多重配偶], "同时拥有一个以上的配偶的状态").
+entry(多基因, n, [多基因], "一种基因").
+条目(多语言者, n, [多语言者们], "会说或书写多种语言的人").
+入口(多边形, n, [多边形], "由直线围成的封闭平面图形")。
+entry(皮叶草, 名词, [皮叶草], "一种草本植物").
+entry(多女王制, 形容词, [], "在一个昆虫群体中拥有一个以上产卵的蜂王").
+entry(一夫多妻制, n, [一夫多妻制], "同时拥有多个妻子的状态").
+entry(博学者, n, [博学者们], "一个拥有广博且多样学习的人").
+entry(聚合物, n, [聚合物], "一种复杂的化合物").
+entry(冰间湖, n, [冰间湖], "一个被海冰包围的开放水域区域").
+entry(多元醇, n, [多元醇], "含有三个或三个以上羟基的醇").
+entry(polyoma, n, [多瘤病毒], "一种病毒").
+entry(珊瑚虫, 名词, [珊瑚虫], "一种无脊椎动物").
+entry(polypary, n, [珊瑚体], "珊瑚群体的共同支持结构")。
+entry(polyped, n, [多足动物], "有很多腿的东西").
+条目(多足, a, [], "多足的复数").
+条目(管虫体, 名词, [管虫体们], "一种珊瑚虫").
+entry(呼吸急促, n, [呼吸急促], "快速呼吸").
+entry(多足动物, n, [多足类], "一种多足生物").
+入口（石松，名词，[石松]，"一种蕨类植物"）。
+entry(息肉样的, 形容词, [], "类似息肉").
+入口(多孔菌, 名词, [多孔菌], "一种真菌").
+entry(息肉的, 形容词, [], "与息肉有关").
+entry(海绵状瘤, n, [海绵状瘤], "或多肽 从器官的粘膜内衬突出的一种生长物").
+entry(polysemy, n, [多义词], "意义的多样性").
+entry(聚合体, n, [聚合体], "一组蛋白质颗粒").
+entry(多线染色体, 形容词, [], "具有某种类型的染色体").
+entry(多线染色体性, n, [多线染色体性们], "多线染色体状态").
+条目(多面体类型, n, [多面体类型], "一种晶体结构").
+entry(多尿, n, [多尿症], "过度排尿多尿的 形容词").
+entry(苔藓动物, n, [苔藓动物], "苔藓动物").
+`entry(polyzoic, 形容词, [], "由许多个体组成").`
+入口(博美犬, 名词, [博美犬们], "一只博美犬")。
+条目(果渣, n, [果渣们], "压碎水果后的果肉残渣")。
+entry(发蜡, v, [已涂发蜡, 涂发蜡中, 涂发蜡], "将香味的发型剂涂抹到头发上")。
+entry(香球, n, [香球], "芳香物质的混合物").
+词条(发膏, 名词, [发膏们], "一种有香味的护发剂")。
+entry(pombe, n, [一种源自非洲由谷物和水果制成的饮料], "an African drink made from grain and fruit").
+entry(苹果, n, [苹果类], "一种有核心的肉质水果").
+entry(柚子, n, [柚子], "一种葡萄柚").
+entry(鲳鱼, n, [鲳鱼], "一种海鱼").
+entry(毛姆, 形容词, [], "具有球状端的手臂，用于描述纹章十字").
+条目(馬鞍型把手, 动词, [擊打, 正在擊打, 擊打着], "或擊打了 正在擊打 擊打着用拳头打").
+entry(pomo, n, [后现代主义], "后现代主义运动").
+entry(果树学, n, [果树学], "对水果的研究").
+entry(盛况, 名词, [盛况], "庄严或华丽的展示").
+entry(鯧魚, n, [鯧魚], "一種海洋食用魚").
+entry(绒球, n, [绒球], "高射炮").
+入口(绒球, 名词, [绒球], "装饰性的一簇或一球").
+入口(自负, 形容词, [], "标志着夸大的自我重要性")。
+entry(ponce, v, [ponced,poncing,ponces], "皮条客").
+入口(poncho, n, [ponchos], "披风的一种PONCHOED adj")。
+条目(池塘, v, [积水,积水中,池塘群], "将小水体汇集成池塘")。
+```
+entry(沉思, v, [沉思了,沉思着,沉思], "深入而彻底地考虑某事").
+```
+entry(深思者, n, [深思者们], "一个思考的人").
+entry(黑藻, n, [黑藻], "一种水生植物").
+条目(pone, n, [玉米饼], "一种玉米面包").
+入口(指示词, 形容词, [], "肯定").
+entry(乒乓, v, [乒乓过, 乒乓着, 乒乓], "发臭").
+入口(泰米尔节日, 名词, [泰米尔节日们], "在泰米尔语地区的一道米饭菜").
+entry(pongee, n, [pongees], "一种丝绸").
+entry(类人猿, 名, [类人猿们], "一种类人猿").
+entry(犰狳, n, [犰狳們], "一種類人猿").
+entry(pongy, adj, [], "更pong 最pong臭").
+```prolog
+entry(匕首, v, [用匕首刺,用匕首刺着,用匕首刺], "用匕首刺").
+```
+条目(ponied, 过去, [], "小马的时态")。
+entry(小马, 现在时, [], "小马的第三人称单数").
+entry(脑桥, n, [神经纤维束], "大脑中的神经纤维带")
+条目(大祭司, 名词, [大祭司们], "古罗马祭司").
+条目(教皇, n, [教皇们], "一个教皇或主教")。
+条目(教皇的, 形容词, [], "与教皇或主教有关的").
+entry(大神, 复数, [], "司祭的").
+入口(玻璃支杆, 名词, [玻璃支杆], "一种玻璃制造工具").
+条目(脑桥, 形容词, [], "与桥有关").
+入口(舟桥, 名词, [舟桥们], "浮桥").
+入口(浮桥, 名, [浮桥], "一种平底船").
+entry(小马, v, [小马备课, 小马进行, 小马们], "通过逐字翻译来准备课程")
+条目(马尾辫, n, [马尾辫], "一种发型").
+entry(柚子酱, n, [柚子酱s], "一种主要用于海鲜的酸辣酱料").
+入口(大便, 动词, [大便了, 大便中, 大便], "排便").
+entry(大人物, n, [大人物们], "有影响力的人").
+entry(狗狗, 动词, [向外鼓起的,鼓起,鼓起的], "凸起").
+entry(pood, 名词, [poods], "俄国的重量单位").
+entry(贵宾犬, n, [贵宾犬们], "一种毛发浓密的狗").
+entry(poof, 感叹词, [], "用于表示瞬间发生").
+entry(小熊维尼, 动词, [轻视了,轻视着,轻视], "表达蔑视").
+entry(普佳, 名词, [普佳们], "礼拜").
+enter(普卡, 名词, [普卡们], "爱尔兰神话中的一种魔怪").
+entry(pool, v, [合并, 合并中, 合并], "合并到一个公共基金中").
+entry(pooler, n, [池塘管理者], "汇集的人").
+entry(桌球厅, n, [桌球厅们], "一个台球室")。
+entry(台球室, n, [台球室], "一个用于打台球的场所").
+entry(poolside, n, [游泳池边], "游泳池周围的区域").
+条目(普恩, 名词, [普恩], "一种东印度的树").
+entry(大便, v, [大便了, 大便中, 大便们], "使疲惫")。
+entry(呆呆的, 形容词, [], "更呆的 最呆的 愚蠢或无效").
+entry(贫穷, 形容词, [], "比较贫穷 最贫穷 缺乏支持的手段")
+条目(普里, n, [普里饼], "一种轻质的小麦饼").
+entry(贫穷的, 形容词, [], "有点贫穷").
+entry(差, 副词, [], "以贫乏的方式").
+entry(贫穷, n, [贫穷], "处于贫穷的状态").
+entry(poortith, n, [poortiths], "贫穷").
+entry(黄喉夜鹰, n, [黄喉夜鹰们], "一种小型北美鸟类").
+entry(爆裂, v, [爆裂, 爆裂中, 爆裂], "发出尖锐的爆炸声").
+entry(爆米花, n, [爆米花们], "一种玉米品种").
+entry(教皇, n, [教皇们], "罗马天主教会的领袖无教皇状的教皇").
+```prolog
+entry(教皇的职位, n, [教皇的职位们], "教皇的职位").
+```
+术语(瞪眼, 形容词, [], "有凸出眼睛的").
+entry(popgun, n, [玩具枪], "玩具枪").
+入口(虚荣者, 名词, [虚荣者们], "一个自负的人")。
+entry(白杨树, n, [白杨树们], "一种快速生长的树").
+entry(poplin, n, [府绸], "一种耐用的织物").
+entry(poplitei, npl, [], "膝盖后方的肌肉").
+```Prolog
+条目(腘, 形容词, [], "与膝盖后面的腿部有关").
+```
+entry(popout, n, [击球出局], "棒球比赛中的一种出局方式").
+```
+entry(popover, n, [泡芙], "一种非常轻的鸡蛋松饼").
+```
+entry(爸爸, n, [爸爸们], "爸爸").
+entry(poppadom, n, [薄饼], "薄饼").
+条目(薄脆饼, n, [薄脆饼们], "papadum").
+entry(弹出, 过去, [], "pop的时态").
+entry(爆米花机, n, [爆米花机], "一个爆裂的东西").
+entry(波普特, n, [波普特], "机械阀").
+条目(罂粟的, 形容词, [], "满是罂粟").
+entry(罂粟, 复数, [], "罂粟的").
+entry(popping, 现在, [], "pop的分词").
+```prolog
+条目(popple, v, [poppled,poppling,popples], "以冒泡或涟漪的方式移动").
+```
+条目(波普利, 形容词, [], "波普利尔 波普利斯特颠簸").
+entry(罂粟, n, [罂粟花], "一种开花植物").
+entry(罂粟, 形容词, [], "具有流行音乐特点的 POPPIER POPPIEST")
+入口(波普西, 名词, [波普西们], "波普西")。
+工單(popster, n, [popsters], "流行音樂家").
+entry(popsy, n, [popsies], "女朋友")。
+entry(人民, 名词, [人民], "普通百姓").
+entry(受欢迎, 形容词, [], "受到许多人喜爱").
+entry(居住, v, [居住过,居住中,居住], "栖息").
+entry(民粹主义, n, [民粹主义们], "民粹主义者学说")。
+entry(民粹主义者, n, [民粹主义者们], "一个代表普通人民的政党成员")。
+entry(人口多, 形容词, [], "包含许多居民").
+入口(门廊, n, [门廊], "建筑入口处的有顶结构门廊形容词").
+条目(猪, 形容词, [], "关于猪的").
+entry(牛肝菌, n, [牛肝菌], "一种可食用的蘑菇").
+entry(牛肝菌, n, [牛肝菌], "牛肝菌").
+entry(孔, 动词, [凝视, 凝视中, 凝视们], "凝神注视").
+条目(鲂, 名词, [鲂鱼], "一种海洋食用鱼").
+入口(蛋白, 名词, [通道蛋白], "一种蛋白质类, 分子可以通过其扩散")。
+entry(推理命题, n, [推理命题], "一种数学命题").
+entry(猪肉, v, [狼吞虎咽地吃, 狼吞虎咽地吃, 狼吞虎咽地吃], "狼吞虎咽地吃")。
+条目(猪, 名词, [猪], "一种猪").
+entry(更胖的, 比较级, [], "胖的").
+条目(猪仔们, 复数, [], "有关猪仔").
+entry(最胖, 最高级, [], "胖的").
+entry(豬肉派, 名词, [豬肉派], "一種男士帽子")。
+entry(猪木, n, [猪木们], "一种热带树").
+entry(猪肉的, 形容词, [], "更猪肉的 最猪肉的 类似于猪肉").
+entry(豪猪, n, [豪猪们], "一种豪猪").
+入口(色情, 名词, [色情片], "色情作品")。
+条目(色情, 名词, [色情物品], "色情").
+条目(色情, 形容词, [], "更色情 最色情 色情的").
+entry(多孔的, 形容词, [], "多孔的").
+entry(孔隙率, n, [孔隙率的复数形式], "多孔状态").
+条目(多孔的, 形容词, [], "具有微小开口多孔地 adv").
+条目(斑岩, n, [斑岩], "一种火成岩").
+entry(鼠海豚, 动词, [鼠海豚过, 鼠海豚中, 鼠海豚们], "前进时上下起伏移动").
+条目(向前伸出, 形容词, [], "向前延伸").
+entry(粥, n, [粥们], "一种软食PORRIDGY adj").
+entry(port, v, [移港, 正在移港, 移港], "转移到左侧").
+entry(便携式, n, [便携设备], "可以携带的东西").
+entry(便携地, 副词, [], "以能够被携带的方式")。
+条目(搬运, v, [搬运过, 搬运中, 搬运], "从一个可航行水道运送到另一个可航行水道").
+entry(门户, n, [门户], "一个门，门口或入口PORTALED 形容词").
+entry(行为举止, n, [行为举止], "demeanor").
+entry(portapak, n, [便携录像机], "便携式组合录像和相机").
+entry(预示, 动词, [已预示, 预示中, 预示], "作为预兆").
+entry(预兆, n, [预兆], "一个征兆").
+entry(搬运工, 动词, [搬运行李的, 正在搬运行李的, 搬运工], "有偿携带行李").
+`入口(舷窗, n, [舷窗们], "船侧的小窗户").`
+entry(门廊, n, [门廊s], "或 门廊，是一种门廊").
+入口(门帘, n, [门帘们], "门口的窗帘").
+条目(份额, v, [被分成, 分配中, 分配], "分成份额以便分发").
+入口（无港口的，形容词，[]，"没有供船只装卸的地方"）。
+entry(肥胖的, adj, [], "更肥胖 最肥胖相当重或胖").
+entry(portolan, n, [海道图], "一本航海指南").
+入口(肖像, n, [肖像画], "一个人的肖像").
+entry(描绘, v, [描绘了,描绘中,描绘], "通过图画或图像表示").
+entry(portress, n, [女门卫], "一位女性门卫").
+entry(左舷, 副词, [], "在面向前方的船的左侧").
+entry(pos, pl, [], "的 po").
+entry(客栈, n, [客栈], "一家旅馆").
+entry(摆姿势, v, [摆姿势过,正在摆姿势,摆姿势们], "假定一个固定位置可摆,可摆的 形容词").
+entry(摆姿势者, n, [摆姿势者们], "一个摆姿势的人").
+entry(装腔作势者, n, [装腔作势者们], "一个做作或不真诚的人").
+entry(波西, 形容词, [], "更做作 最做作").
+entry(奢华, 形容词, [], "更奢华 最奢华时尚或优雅奢华地 adv").
+entry(豪华, n, [豪华性], "豪华的特质").
+entry(花束, 复数, [], "的 花束").
+entry(摆姿势, 现在, [], "pose的分词").
+entry(装模作样地, 副词, [], "以摆姿势的方式").
+条目(posit, v, [posited, positing, posits], "放置").
+entry(位置, v, [放置, 定位, 定位], "放在特定位置").
+entry(positive, adj, [], "POSITIVER POSITIVESTcertain").
+entry(正数, n, [正数], "大于零的数量").
+entry(正电子, n, [正电子], "一种亚原子粒子").
+```prolog
+条目(帕索莱, n, [帕索莱们], "由猪肉、玉米、大蒜和辣椒制成的浓汤").
+```
+entry(剂量学, n, [剂量学], "医学的一个分支，处理药物剂量问题").
+entry(警民团, n, [警民团], "一群人被召集来协助治安官").
+entry(拥有, v, [拥有,拥有中,拥有], "作为财产拥有").
+entry(posset, n, [possets], "香料加热饮料").
+`entry(可能, 形容词, [], "可能的可能性能够发生或被证明为真可能地 adv").`
+entry(可能, n, [可能性], "一个可能性").
+entry(负鼠, n, [负鼠], "负鼠").
+条目(发布, v, [发布了, 正在发布, 发布], "贴在公共场所")。
+entry(邮资, n, [邮资], "邮寄物品的费用")
+entry(邮政, 名词, [明信片], "一张明信片").
+条目(邮政, 副词, [], "与邮件相关的方式中").
+`entry(postanal, 形容词, [], "位于肛门后面").`
+entry(邮袋, n, [邮袋], "一个邮袋").
+entry(postbase, 形容词, [], "在基本词之后").
+`entry(postbox, n, [邮筒], "邮箱").`
+entry(邮递员, n, [邮递员们], "运送邮件的男孩").
+条目(postburn, 形容词, [], "烫伤后").
+entry(明信片, n, [明信片], "用于邮寄的卡片").
+entry(postcava, n, [大静脉], "高等脊椎动物中的静脉").
+条目(邮政编码, n, [邮政编码表], "用于邮寄地址的数字和字母代码")。
+entry(postcoup, 形容词, [], "政变后").
+entry(postdate, v, [postdated,postdating,postdates], "给予一个比实际日期更晚的日期给").
+```prolog
+entry(潜水后, 形容词, [], "紧随潜水"). 
+```
+`条目(博士后, n, [博士后], "从事博士后研究的人").`
+entry(postdrug, 形容词, [], "服用药物后").
+条目(波斯坦, 名词, [波斯坦们], "阿富汗外套").
+入口(海报, v, [张贴,张贴中,张贴者], "张贴公告")。
+入口(后门, n, [后门], "一个后门或后门").
+entry(跋, n, [跋文], "放在出版物结尾的简短说明").
+entry(postfire, 形容词, [], "火灾后").
+entry(后缀, v, [后缀化, 后缀化中, 后缀们], "附加在某物的末尾")
+entry(postform, v, [postformed,postforming,postforms], "后塑形成").
+entry(赛后, 形容词, [], "比赛之后").
+entry(postgrad, n, [研究生], "在毕业后继续正规教育的学生").
+entry(postheat, n, [后加热], "焊接后对金属施加的热量").
+```prolog
+词条(桩孔, 名词, [桩孔], "供立柱使用的孔").
+```
+条目(假发, n, [假发], "一种模仿物").
+入口(邮递员, n, [邮递员们], "信件投递员")。
+entry(邮政, n, [邮政], "波斯汀").
+entry(过账, 名词, [过账], "转移到分类账的行为").
+entry(postique, n, [postiques], "假发").
+入口(尾声, n, [尾声们], "一个结束的音乐作品")。
+entry(邮递员, n, [邮递员], "一个邮递员").
+`条目(postmark, v, [postmarked,postmarking,postmarks], "用官方标记邮戳邮件").`
+条目(术后, n, [术后术], "一个接受过手术的患者")。
+entry(postoral, 形容词, [], "位于口腔后面").
+```prolog
+entry(已付邮, adv, [], "已预付邮资").
+```
+entry(推迟, v, [推迟了, 推迟中, 推迟], "安排在将来某个时间").
+```prolog
+条目(后置, 动词, [已后置, 正在后置, 后置], "将一个词或短语放在语法上相关的词之后").
+```
+entry(后朋克, 形容词, [], "与朋克摇滚之后的音乐有关").
+入口(postrace, 形容词, [], "比赛之后")。
+entry(postriot, 形容词, [], "暴乱之后").
+``` Prolog
+entry(剧后, 形容词, [], "演出后").
+```
+entry(后期同步, 动词, [后期同步过, 后期同步中, 后期同步], "在一个场景拍摄后给电影添加声音")
+entry(posttax, 形容词, [], "税后剩余").
+entry(青少年后期, n, [青少年后期们], "一个年纪在 19 岁以上的人").
+entry(posttest, n, [后测], "在教学计划之后进行的测试").
+条目(体姿, 形容词, [], "与身体位置有关").
+```prolog
+entry(姿势, v, [摆姿势,摆姿势,姿势], "假设一个特定的姿势").
+```
+```prolog
+entry(摆姿势者, n, [摆姿势者们], "摆姿势的人").
+```
+entry(战后, 形容词, [], "在战争之后发生或存在").
+entry(波斯菊, n, [花束], "花或花束")。
+入口(pot, v, [potted, potting, pots], "将某物放入一个相对较深的圆形容器中")。
+条目(可饮用, n, [可饮用物], "适合饮用的液体")。
+entry(浓汤, n, [浓汤们], "一种浓汤").
+entry(河流的, 形容词, [], "有关河流的").
+entry(草灰钾碱, n, [草灰钾碱类], "一种碱性化合物").
+entry(钾的, 形容词, [], "有关金属元素钾的").
+entry(饮酒, n, [饮酒行为], "喝饮料的行为").
+```Prolog
+词条(土豆, 名词, [土豆们], "一种栽培植物的可食用块茎").
+```
+entry(饮酒的, 形容词, [], "与喝有关").
+entry(大肚子, n, [大肚子们], "一个突出的腹部区域").
+entry(粗制滥造, v, [粗制滥造了,粗制滥造中,粗制滥造], "制作低劣的文学或艺术作品").
+entry(potbound, 形容词, [], "生长过大以至于容器无法容纳").
+entry(侍者男孩, 名词, [侍者男孩们], "在酒馆为顾客服务的男孩").
+entry(私酒, n, [私酒si], "非法蒸馏的爱尔兰威士忌").
+entry(潜能, n, [潜能], "potency").
+`entry(效力, n, [效力], "具有强效的质量").`
+条目(强有力的, 形容词, [], "powerfulPOTENTLY 副词").
+条目(满罐, 名词, [满罐], "一罐可以容纳的量").
+entry(瘾君子, n, [瘾君子们], "抽大麻的人").
+entry(私酿酒, n, [私酿酒], "私酿酒").
+输入(麻烦, 动词, [麻烦着, 麻烦中, 麻烦们], "烦扰").
+entry(青菜, n, [青菜], "用作食物或调味品的任何草本植物").
+入口(坑洞, 名词, [坑洞], "路上的一个深洞坑洼的 形容词")。
+entry(探洞者, n, [探洞者们], "探索地下深洞或洞穴的人").
+条目(挂锅钩, n, [挂锅钩], "用于提起或悬挂锅的钩子")。
+entry(绿萝, n, [绿萝], "一种藤本植物，具有光滑的斑驳叶子").
+entry(酒馆, n, [酒馆], "小酒馆").
+entry(坛子, n, [坛子], "一种花瓶").
+药水条目(n, [药水], "一种魔法或药用饮品").
+entry(夸富宴, n, [夸富宴], "一种仪式性的宴会").
+entry(波特拉奇, 名词, [波特拉奇], "波特拉奇").
+entry(夯会, v, [夯会了, 夯会着, 夯会们], "举行仪式性的宴会").
+条目(锅状, 形容词, [], "类似一个锅").
+入口(potline, n, [potlines], "一排电解槽")。
+entry(聚餐, n, [聚餐], "偶然可得的食物").
+entry(potman, n, [potmen], "在酒馆为顾客服务的男子")
+```prolog
+entry(雞肉派, n, [雞肉派], "一種含有肉和蔬菜的深盤餡餅").
+```
+entry(陶片, n, [陶片], "陶片").
+entry(陶片, n, [陶片], "破碎陶器的碎片").
+entry(随意射击, v, [随意射击,随意射击中,随意射击们], "随机射击").
+entry(庞茨, n, [庞茨们], "庞茨").
+entry(缸石, n, [缸石], "一种滑石").
+entry(potsy, n, [potsies], "儿童游戏").
+入口(浓汤, 名词, [浓汤], "一种浓汤").
+entry(罐装, 过去, [], "pot的时态")
+entry(私酿酒, 名词, [私酿酒们], "私酿酒").
+entry(波特, 动词, [波特了, 波特中, 波特们], "蹒跚地走").
+入口(陶工, 名词, [陶工], "做陶器的人").
+entry(陶器, n, [陶器], "由粘土制成并经加热硬化的器具").
+entry(pottier, comparative, [], "的简单").
+```prolog
+entry(便壶, pl, [], "of potty").
+```
+```
+entry(最愚蠢的, 最高级, [], "的幼稚"). 
+```
+entry(上盆, 现在时, [], "pot 的分词").
+入口(壶, 名词, [壶], "一种饮用容器")。
+entry(懒猴, n, [懒猴], "一种生活在热带非洲的狐猴").
+entry(便壶, 形容词, [], "非常不重要").
+entry(便壶, n, [便壶们], "一个小型马桶座位").
+entry(波策尔, n, [波策尔斯], "业余棋手").
+条目(袋, 动词, [袋装, 装袋, 放袋], "放入一个小的灵活容器中").
+entry(pouchy, adj, [], "像袋子一样的").
+`entry(pouf, n, [poufs], "一卷松散的头发POUFED POUFFY adj")。`
+entry(扑夫, n, [扑夫们], "扑夫POUFFED 形容词").
+entry(pouffe, n, [pouffes], "坐墩").
+entry(家禽, n, [家禽们], "一只被阉割的母鸡")
+条目(母鸡, n, [母鸡们], "poulard")。
+条目(幼鸟, 名词, [幼鸟们], "一种年轻的家禽").
+条目(肉贩, n, [肉贩们], "经营家禽的人").
+entry(膏药, v, [敷用过, 敷用中, 敷用], "涂抹治疗物质到").
+entry(家禽, n, [家禽], "饲养用于产蛋或食用的家禽").
+入口(猛扑, 动词, [猛扑了, 猛扑着, 猛扑], "进行突然的攻击或接近")。
+项(扑击者, 名, [扑击者们], "扑击的那个").
+entry(磅, v, [捣碎, 捣碎中, 磅], "猛烈地反复打击").
+entry(扣押, n, [扣押物], "扣押的行为").
+条目(磅力, 名词, [磅力], "一种力量单位")。
+入口(捣碎机, 名词, [捣碎机们], "捣碎的一种").
+entry(倒, v, [倒了, 倒着, 倒], "造成流动POURABLE adj").
+入口(注水者, 名词, [注水者们], "倾倒的人").
+entry(猫咪, n, [猫咪们], "小猫").
+入口(撅嘴, 动词, [撅嘴了, 撅嘴着, 撅嘴], "生气地撅嘴").
+入口(噘嘴的人, n, [噘嘴的人们], "一个噘嘴的人")。
+`入口（poutful，形容词，[]，“噘嘴的”）。`
+entry(普丁, n, [普丁], "一种将炸薯条和奶酪凝乳浇上肉汁的菜肴").
+entry(撅嘴的, 形容词, [], "倾向于撅嘴").
+entry(贫穷, n, [贫穷], "贫困的状态").
+entry(强, n, [强声], "爆炸声.").
+```prolog
+entry(粉末, v, [粉末化, 粉末中, 粉末], "将物质细化成粉末状态").
+```
+entry(粉工, n, [粉工们], "一个负责撒粉的人").
+条目(粉状, 形容词, [], "类似粉末").
+Power(词条, 动词, [供电, 正在供电, 供电s], "提供推进手段")。
+entry(强大的, 形容词, [], "拥有巨大的力量").
+```prolog
+entry(powter, n, [powters], "一种家鸽")。
+```
+entry(powwow, v, [举行过会议, 正在举行会议, 举行会议], "举行会议").
+entry(pox, v, [感染, 感染中, 感染了], "用一种以皮肤爆发为特征的疾病感染").
+入口(天花病毒, 名词, [天花病毒], "一种病毒")。
+entry(poxy, 形容词, [], "出天花的").
+entry(犰狳, n, [犰狳], "阿根廷的一种犰狳").
+entry(辣味炖汤, n, [辣味炖汤们], "辣味炖汤").
+entry(火山灰, n, [火山灰], "一种用于制造水泥的细分材料").
+entry(平底船, n, [平底船的复数形式], "婴儿车").
+```prolog
+entry(实践, 形容词, [], "实际的").
+```
+entry(实践, v, [实践了,实践中,实践], "经常进行以获得技能").
+entry(实践, v, [实践了, 实践中, 实践], "练习")
+entry(令状, n, [令状], "一种法律文书").
+entry(农庄的, 形容词, [], "有关土地").
+entry(长官, n, [长官们], "长官").
+entry(praelect, v, [praelected,praelecting,praelects], "讲课").
+entry(长官, 名词, [长官们], "古罗马的高级官员")
+entry(帆船, n, [帆船], "舢舨").
+条目(草原, 名词, [草原], "一片草地").
+entry(表扬, v, [表扬了, 表扬着, 表扬], "表示赞赏或钦佩").
+entry(赞美者, n, [赞美者们], "赞美他人者").
+entry(般若, 名词, [般若们], "佛教和印度教中的终极知识").
+entry(杏仁糖, n, [杏仁糖], "一种由坚果和糖制成的糖果").
+entry(婴儿车, 名词, [婴儿车], "一种平底船").
+entry(普拉纳, n, [普拉纳们], "在印度教中作为生命力的呼吸").
+entry(跃, v, [跃过,跃动,跃起], "用后腿向前跃起").
+条目(普兰瑟, 名词, [普兰瑟们], "一个跳舞的人").
+entry(正餐, 形容词, [], "与一顿饭有关").
+entry(prang, v, [猛撞,猛撞着,猛撞们], "造成碰撞")
+条目(恶作剧, 动词, [恶作剧了, 恶作剧中, 恶作剧], "华丽地装饰")。
+entry(调皮, 形容词, [], "淘气").
+entry(prao, n, [praos], "帆船").
+entry(矿石, n, [矿石], "一种矿物").
+条目(臀部, n, [臀部], "屁股").
+条目(唠叨, 动词, [唠叨过,唠叨着,唠叨], "唠叨").
+entry(prater, n, [praters], "喋喋不休的人").
+entry(摔倒, n, [摔倒], "摔倒在臀部").
+条目(土豆, 名词, [土豆], "一种土豆")。
+entry(pratique, n, [惯例], "港口卫生当局给予船舶的许可").
+entry(闲聊, v, [闲聊过,闲聊中,闲聊], "喋喋不休").
+入口(絮语者, 名词, [絮语者们], "一个唠叨的人")。
+entry(帆船, n, [帆船], "一种快速的马来西亚帆船").
+入口(明蝦, v, [捕過的明蝦, 捕撈明蝦, 捕撈明蝦], "捕撈可食用的蝦類甲殼類動物")。
+entry(捕虾者, n, [捕虾者们], "一个捕虾的人").
+entry(实践, n, [实践], "或者PRAXES理论的实际应用")
+```prolog
+entry(祈祷, v, [祈祷过,祈祷中,祈祷着], "向...祈祷").
+```
+```prolog
+条目(祈祷, n, [祈祷], "对神灵的虔诚祈求")。
+```
+entry(传道, 动词, [传道过, 传道中, 传道], "紧急地倡导或推荐").
+entry(传教士, n, [传教士们], "一个传道的人").
+entry(说教的, 形容词, [], "更说教的 最说教的倾向于说教").
+入口(预演, 动词, [预演过, 预演中, 预演], "事先行动")。
+entry(预先适应, v, [预先适应的, 预先适应中, 预先适应], "事先适应").
+entry(预接纳, v, [已经预接纳,正在预接纳,预接纳], "事先接纳").
+entry(preadopt, v, [预先收养, 预先收养中, 预先收养], "提前收养").
+条目(未成年人, n, [未成年人], "尚未成年的个人").
+entry(preaged, 形容词, [], "预先陈化")。
+entry(preallot, v, [预先分配, 预先分配中, 预先分配], "提前分配").
+条目(prealter, v, [prealtered, prealtering, prealters], "事先改变").
+entry(序言, n, [序言], "一个介绍性声明").
+entry(前置放大器, n, [前置放大器们], "一台放大器").
+入口(前肛, 形容词, [], "位于肛门前方")。
+entry(preapply, v, [预申请, 预申请中, 预申请], "提前申请").
+entry(prearm, v, [预先武装, 预先武装中, 预先武装], "提前武装").
+entry(preaudit, n, [预审计], "在交易的最终结算之前进行的审计").
+entry(preaver, v, [preaverred,preaverring,preavers], "预先断言或声明").
+entry(轴前, 形容词, [], "位于轴的前面").
+entry(预烘焙, 动词, [预烘焙过, 预烘焙中, 预烘焙], "事先烘焙").
+entry(prebasal, 形容词, [], "位于基底前面").
+条目(圣职俸禄, n, [圣职俸禄], "一个神职人员的薪俸").
+entry(預招標, v, [預招標,預招標過去分詞,預招標進行中], "預招標：提前投標").
+entry(预账, v, [预账过, 预账中, 预账单], "提前收费").
+条目(prebind, v, [prebound,prebinding,prebinds], "预先绑定")。
+`条目(出生前, 名, [出生前期], "孩子出生前的时期").`
+entry(prebless, v, [预祝福,预祝福的,预祝福者], "提前祝福").
+entry(预先登机, v, [预先登机了, 预先登机中, 预先登机], "在常规时间之前登机").
+```prolog
+entry(preboil, v, [预煮,预煮中,预煮了], "预先煮沸").
+```
+预订条目(prebook, 动词, [预订过, 预订中, 预订], "事先预订").
+entry(preboom, 形容词, [], "商业突然增长之前").
+词条(前绑定, 过去, [], "前绑定的时态").
+条目(预建, v, [已预建,预建筑,预建], "事先建造").
+```
+entry(prebuy, v, [prebought,prebuying,prebuys], "预先购买").
+```
+entry(预制, v, [预制,预制中,预制件], "在放置到位之前进行铸造").
+```prolog
+entry(precava, n, [precavae], "更高等脊椎动物中的静脉PRECAVAL 形容词").
+```
+条目(先行, v, [先行, 正在先行, 先行], "在之前").
+项(precent, v, [precented, precenting, precents], "领导教会合唱团唱歌").
+entry(准则, 名词, [准则], "行为规则").
+entry(进动, 动词, [进动了,进动中,进动], "以复杂的运动旋转").
+entry(预检, v, [已预检,预检中,预检查], "预先检查").
+entry(预冷, v, [预冷过的,预冷中,预冷], "提前冷却").
+entry(预选, 过去, [], "预先选择时态").
+entry(珍贵, 形容词, [], "过分精致").
+entry(区域, n, [区域], "城市或城镇的一个分区").
+entry(珍贵的, n, [珍贵的们], "一个亲爱的").
+```prolog
+entry(降水, n, [降水], "降水").
+```
+entry(前菜, n, [前菜], "前菜").
+条目(precis, v, [precised,precising,precises], "做简要总结").
+entry(精准, 形容词, [], "更精准 最精准 明确而清晰地定义或表示").
+entry(先前引用, 形容词, [], "previously cited").
+入口(预清理, v, [已预清理, 正在预清理, 预清理], "提前清理")。
+entry(preclear, v, [预清除,预清理,预清], "提前清除").
+entry(阻止, 动词, [阻止了, 阻止中, 阻止], "通过先前的行动使之不可能")。
+入口(precode, v, [precoded,precoding,precodes], "预先编码")。
+entry(precook, v, [precooked, precooking, precooks], "提前烹调").
+条目(预冷, 动词, [预冷过, 预冷着, 预冷], "预先冷却").
+entry(政变前, 形容词, [], "在政变之前").
+entry(事故前, 形容词, [], "在事故发生之前").
+条目(precure, v, [precured,precuring,precures], "预先治疗").
+entry(precut, v, [预切,预切割,预切割的], "在切之前").
+entry(在先, v, [在先了,在先中,在先], "在实际或指定时间之前的日期")
+entry(掠食者, n, [掠食者们], "一个掠夺者")
+entry(黎明前, n, [黎明前时段], "清晨前的时间").
+entry(死亡前, n, [死亡前], "一个人在死亡前的时期")
+entry(predella, n, [祭坛座], "祭坛装饰的基座")。
+entry(predial, 形容词, [], "praedial").
+entry(预言, v, [预言了, 预言中, 预言], "提前告知或提到").
+entry(predive, 形容词, [], "潜水前的").
+entry(选秀前, 形容词, [], "在为职业队选拔球员的系统中，处于选秀之前的").
+入口(预钻, v, [预钻好的, 预钻中, 预钻], "事先钻孔")。
+entry(predry, v, [预干, 预干燥, 预晾], "预先干燥").
+entry(predusk, n, [predusks], "黄昏前的时间").
+entry(pree, v, [preed,preeing,prees], "通过品尝测试").
+entry(预编辑, 动词, [预编辑的, 预编辑中, 预编辑], "事先编辑").
+entry(预选, 动词, [已预选, 正在预选, 预选], "预先选择或选举")。
+entry(早产儿, n, [早产儿们], "早产出生的婴儿").
+entry(抢占, v, [抢占了,抢占中,抢占], "通过优先权获得").
+entry(梳理, 动词, [梳理过,梳理中,梳理], "用喙或舌头整理或清洁").
+entry(预先制定, 动词, [预先制定了, 预先制定中, 预先制定], "事先制定").
+条目(打扮者, n, [打扮者复数], "一个打扮的人").
+entry(preerect, v, [预先竖立, 预先竖立中, 预先竖立], "预先竖立").
+entry(存在之前, v, [存在之前过, 正在存在之前, 存在之前的], "在之前存在").
+条目(预制, 动词, [预制的, 预制中, 预制件], "预先建造").
+条目(前言, v, [前言过,前言中,前言们], "提供介绍性声明").
+entry(序言者, n, [序言者们], "撰写序言的人").
+entry(prefade, v, [预渐弱,正在预渐弱,预渐弱], "提前渐弱").
+entry(长官, n, [长官们], "古罗马的官员")。
+输入(更喜欢, 动词, [更喜欢, 喜欢的, 喜爱], "持有更高的重视或敬仰").
+entry(prefight, 形容词, [], "在战斗前的").
+```prolog
+entry(预审, v, [预审的, 预审中, 预审核], "提前提交文件")。
+```
+entry(预火, v, [预点火, 预燃烧, 预猛烈发作], "事先点燃或发射")。
+entry(前缀, v, [前缀的, 正在加前缀, 加前缀], "在词根的开头添加的形式作前缀的方法")。
+entry(prefixal, adj, [], "与前缀有关或作为前缀的").
+入口(火焰前, 形容词, [], "在火焰之前")。
+entry(prefocus, v, [预聚焦, 预聚焦中, 预聚焦], "或 预聚焦 预聚焦中 预聚焦 提前聚焦之前").
+entry(预制, 动词, [预制的,预制中,预制], "事先形成")。
+entry(prefrank, v, [prefranked,prefranking,prefranks], "在预先盖邮戳").
+entry(预筹, v, [已预筹, 预筹中, 预筹], "预先筹措资金").
+entry(赛前, n, [赛前阶段], "比赛之前的时期").
+entry(怀孕, 形容词, [], "怀孕").
+entry(怀孕, 形容词, [], "在子宫中携带正在发育的胎儿").
+`entry(preguide, v, [preguided, preguiding, preguides], "提前引导").`
+入口(预热, 动词, [预热了, 预热中, 预热], "提前加热").
+entry(史前人类, n, [史前人类们], "人类的原型").
+```prolog
+entry(预判, 动词, [已预判, 正在预判, 预判], "提前判断").
+```
+entry(主教职务, n, [主教职务], "主教的职位").
+entry(主教, n, [主教们], "高级神职人员PRELATIC 形容词").
+entry(法律预科, 形容词, [], "专业法律学习之前").
+entry(讲授, v, [讲授了, 讲授中, 讲授], "授课").
+entry(法学前的, 形容词, [], "在法律学习开始之前发生").
+entry(前世, n, [前世们], "一种被认为是在地球生活之前生活过的生命")
+entry(prelim, n, [预赛], "预备赛").
+entry(预先限制, v, [预先限制的, 预先限制着, 预先限制], "提前限制").
+入口(预载, 动词, [预载了, 预载中, 预载], "提前加载")。
+エントリー(前奏曲, v, [前奏, 正在演奏前奏, 前奏], "演奏音乐介绍").
+entry(序幕者, n, [序幕者们], "引领序曲的人").
+entry(午餐前, 形容词, [], "在午餐之前").
+entry(预制的, 形容词, [], "预先制作的").
+```prolog
+entry(preman, n, [premen], "a hypothetical ancestor of manPREMEAL adj preceding a mealPREMED n pl PREMEDSa student preparing for the study of medicinePREMEDIC n pl PREMEDICSa premedPREMEET adj preceding a meetPREMEN pl of premanPREMIE n pl PREMIESpreemiePREMIER n pl PREMIERSa prime ministerPREMIERE v PREMIERED PREMIERING PREMIERESto present publicly for the first timePREMISE v PREMISED PREMISING PREMISESto state in advancePREMISS n pl PREMISSESa proposition in logicPREMIUM n pl PREMIUMSan additional paymentPREMIX v PREMIXED or PREMIXT PREMIXING PREMIXESto mix before usePREMOLAR n pl PREMOLARSa toothPREMOLD v PREMOLDED PREMOLDING PREMOLDSto mold beforehandPREMOLT adj preceding a moltPREMORAL adj preceding the development of a moral codePREMORSE adj ending abruptly as if bitten offPREMOTOR adj pertaining to a part of the frontal lobe of the brainPREMUNE adj resistant to a diseasePRENAME n pl PRENAMESa forenamePRENATAL adj prior to birthPRENOMEN n pl PRENOMENS or PRENOMINAthe first name of an ancient RomanPRENOON adj preceding noonPRENTICE v PRENTICED PRENTICING PRENTICESto place with an employer for instruction in a tradePRENUP n pl PRENUPSan agreement made by a couple before they marryPREOP n pl PREOPSa patient being prepared for surgeryPREORAL adj situated in front of the mouthPREORDER v PREORDERED PREORDERING PREORDERSto order beforehandPREOWNED adj owned beforehand by someone elsePREP v PREPPED PREPPING PREPSto attend a preparatory schoolPREPACK v PREPACKED PREPACKING PREPACKSto package before retail distributionPREPAID past tense of prepayPREPARE v PREPARED PREPARING PREPARESto put in proper condition or readinessPREPARER n pl PREPARERSone that preparesPREPASTE v PREPASTED PREPASTING PREPASTESto paste beforehandPREPAVE v PREPAVED PREPAVING PREPAVESto pave beforehandPREPAY v PREPAID PREPAYING PREPAYSto pay in advancePREPENSE adj planned in advancePREPILL adj preceding the development of a contraceptive pillPREPLACE v PREPLACED PREPLACING PREPLACESto place beforehandPREPLAN v PREPLANNED PREPLANNING PREPLANSto plan in advancePREPLANT adj occurring before plantingPREPOSE v PREPOSED PREPOSING PREPOSESto place something in front of anotherPREPPED past tense of prepPREPPIE n pl PREPPIESone who prepsPREPPING present participle of prepPREPPY adj PREPPIER PREPPIESTassociated with the style and behavior of preparatory school studentsPREPPILY advPREPREG n pl PREPREGSreinforcing material already impregnated with a synthetic resinPREPRESS adj pertaining to the preparation of copy for printingPREPRICE v PREPRICED PREPRICING PREPRICESto price beforehandPREPRINT v PREPRINTED PREPRINTING PREPRINTSto print in advancePREPUBIS n pl PREPUBESa bone situated in front of the pubic bonesPREPUCE n pl PREPUCESa fold of skin covering the penisPREPUNCH v PREPUNCHED PREPUNCHING PREPUNCHESto punch in advancePREPUPA n pl PREPUPAS or PREPUPAEa stage preceding the pupaPREPUPAL adj preceding the pupal stagePREQUEL n pl PREQUELSa book whose story precedes that of an earlier workPRERACE adj preceding a racePRERADIO adj preceding the development of radioPRERENAL adj situated in front of the kidneyPRERINSE v PRERINSED PRERINSING PRERINSESto rinse beforehandPRERIOT adj preceding a riotPREROCK adj preceding the development of rock musicPRESA n pl PRESEa musical symbolPRESAGE v PRESAGED PRESAGING PRESAGESto foretellPRESAGER n pl PRESAGERSone that presagesPRESALE n pl PRESALESa sale in advancePRESCIND v PRESCINDED PRESCINDING PRESCINDSto consider separatelyPRESCORE v PRESCORED PRESCORING PRESCORESto record the sound of before filmingPRESE pl of presaPRESELL v PRESOLD PRESELLING PRESELLSto promote a product not yet being sold to the publicPRESENCE n pl PRESENCESclose proximityPRESENT v PRESENTED PRESENTING PRESENTSto bring into the presence of someonePRESERVE v PRESERVED PRESERVING PRESERVESto keep free from harm or dangerPRESET v PRESET PRESETTING PRESETSto set beforehandPRESHAPE v PRESHAPED PRESHAPING PRESHAPESto shape beforehandPRESHIP v PRESHIPPED PRESHIPPING PRESHIPSto ship beforehandPRESHOW v PRESHOWED PRESHOWN PRESHOWING PRESHOWSto show beforehandPRESIDE v PRESIDED PRESIDING PRESIDESto occupy the position of authorityPRESIDER n pl PRESIDERSone that presidesPRESIDIA npl Soviet executive committeesPRESIDIO n pl PRESIDIOSa Spanish fortPRESIFT v PRESIFTED PRESIFTING PRESIFTSto sift beforehandPRESLEEP adj preceding sleepPRESLICE v PRESLICED PRESLICING PRESLICESto slice beforehandPRESOAK v PRESOAKED PRESOAKING PRESOAKSto soak beforehandPRESOLD past tense of presellPRESOLVE v PRESOLVED PRESOLVING PRESOLVESto solve beforehandPRESONG adj preceding a songPRESORT v PRESORTED PRESORTING PRESORTSto sort beforehandPRESPLIT adj preceding a splitPRESS v PRESSED PRESSING PRESSESto act upon with steady forcePRESSER n pl PRESSERSone that pressesPRESSING n pl PRESSINGSan instance of stamping with a pressPRESSMAN n pl PRESSMENa printing press operatorPRESSOR n pl PRESSORSa substance that raises blood pressurePRESSRUN n pl PRESSRUNSa continuous operation of a printing pressPRESSURE v PRESSURED PRESSURING PRESSURESto apply force toPREST n pl PRESTSa loanPRESTAMP v PRESTAMPED PRESTAMPING PRESTAMPSto stamp beforehandPRESTER n pl PRESTERSa priestPRESTIGE n pl PRESTIGESdistinction or reputation in the eyes of peoplePRESTO n pl PRESTOSa musical passage played in rapid tempoPRESTORE v PRESTORED PRESTORING PRESTORESto store beforehandPRESUME v PRESUMED PRESUMING PRESUMESto take for grantedPRESUMER n pl PRESUMERSone that presumesPRETAPE v PRETAPED PRETAPING PRETAPESto tape beforehandPRETASTE v PRETASTED PRETASTING PRETASTESto taste beforehandPRETAX adj existing before provision for taxesPRETEEN n pl PRETEENSa child under the age of thirteenPRETELL v PRETOLD PRETELLING PRETELLSto tell beforehandPRETENCE n pl PRETENCESpretensePRETEND v PRETENDED PRETENDING PRETENDSto assume or display a false appearance ofPRETENSE n pl PRETENSESthe act of pretendingPRETERIT n pl PRETERITSa past tense in grammarPRETERM n pl PRETERMSa child born prematurelyPRETEST v PRETESTED PRETESTING PRETESTSto give a preliminary test toPRETEXT v PRETEXTED PRETEXTING PRETEXTSto allege as an excusePRETOLD past tense of pretellPRETOR n pl PRETORSpraetorPRETRAIN v PRETRAINED PRETRAINING PRETRAINSto train beforehandPRETREAT v PRETREATED PRETREATING PRETREATSto treat beforehandPRETRIAL n pl PRETRIALSa proceeding that precedes a trialPRETRIM v PRETRIMMED PRETRIMMING PRETRIMSto trim beforehandPRETTIFY v PRETTIFIED PRETTIFYING PRETTIFIESto make prettyPRETTY adj PRETTIER PRETTIESTpleasing to the eyePRETTILY advPRETTY v PRETTIED PRETTYING PRETTIESto make prettyPRETYPE v PRETYPED PRETYPING PRETYPESto type beforehandPRETZEL n pl PRETZELSa glazed salted crackerPREUNION n pl PREUNIONSa union beforehandPREUNITE v PREUNITED PREUNITING PREUNITESto unite beforehandPREVAIL v PREVAILED PREVAILING PREVAILSto triumphPREVALUE v PREVALUED PREVALUING PREVALUESto value beforehandPREVENT v PREVENTED PREVENTING PREVENTSto keep from happeningPREVERB n pl PREVERBSa prefix or particle preceding the root of a verbPREVIEW v PREVIEWED PREVIEWING PREVIEWSto view or exhibit in advancePREVIOUS adj coming or occurring before in time or orderPREVISE v PREVISED PREVISING PREVISESto foreseePREVISIT v PREVISITED PREVISITING PREVISITSto visit beforehandPREVISOR n pl PREVISORSone that previsesPREVUE v PREVUED PREVUING PREVUESto previewPREWAR adj occurring or existing before a warPREWARM v PREWARMED PREWARMING PREWARMSto warm beforehandPREWARN v PREWARNED PREWARNING PREWARNSto warn in advancePREWASH v PREWASHED PREWASHING PREWASHESto wash beforehandPREWEIGH v PREWEIGHED PREWEIGHING PREWEIGHSto weigh beforehandPREWIRE v PREWIRED PREWIRING PREWIRESto wire beforehandPREWORK v PREWORKED PREWORKING PREWORKSto work beforehandPREWORN adj previously worn by someonePREWRAP v PREWRAPPED PREWRAPPING PREWRAPSto wrap beforehandPREX n pl PREXESprexyPREXY n pl PREXIESa presidentPREY v PREYED PREYING PREYSto seize and devour animals for foodPREYER n pl PREYERSone that preysPREZ n pl PREZESa presidentPREZZIE n pl PREZZIESa giftPRIAPEAN adj priapicPRIAPI a pl of priapusPRIAPIC adj phallicPRIAPISM n pl PRIAPISMSa persistent erection of the penisPRIAPUS n pl PRIAPUSES or PRIAPIa representation of the phallusPRICE v PRICED PRICING PRICESto set a value onPRICER n pl PRICERSone that pricesPRICEY adj PRICIER PRICIESTexpensivePRICIER comparative of pricyPRICIEST superlative of pricyPRICILY adv in a pricey mannerPRICING present participle of pricePRICK v PRICKED PRICKING PRICKSto puncture slightlyPRICKER n pl PRICKERSone that pricksPRICKET n pl PRICKETSa spike for holding a candle uprightPRICKIER comparative of prickyPRICKIEST superlative of prickyPRICKING n pl PRICKINGSa prickly feelingPRICKLE v PRICKLED PRICKLING PRICKLESto prickPRICKLY adj PRICKLIER PRICKLIESThaving many sharp pointsPRICKY adj PRICKIER PRICKIESTpricklyPRICY adj PRICIER PRICIESTpriceyPRICILY advPRIDE v PRIDED PRIDING PRIDESto feel pride a feeling of selfesteemPRIDEFUL adj full of pridePRIED past tense of pryPRIEDIEU n pl PRIEDIEUS or PRIEDIEUXa piece of furniture for kneeling on during prayerPRIER n pl PRIERSone that priesPRIES present 3d person sing of pryPRIEST v PRIESTED PRIESTING PRIESTSto ordain as a priest one authorized to perform religious ritesPRIESTLY adj PRIESTLIER PRIESTLIESTcharacteristic of or befitting a priestPRIG v PRIGGED PRIGGING PRIGSto stealPRIGGERY n pl PRIGGERIESpriggismPRIGGISH adj marked by priggismPRIGGISM n pl PRIGGISMSprim adherence to conventionPRILL v PRILLED PRILLING PRILLSto convert into pelletsPRIM adj PRIMMER PRIMMESTformally precise or properPRIM v PRIMMED PRIMMING PRIMSto give a prim expression toPRIMA n pl PRIMASprimoPRIMACY n pl PRIMACIESthe state of being firstPRIMAGE n pl PRIMAGESan amount paid as an addition to freight chargesPRIMAL adj being at the beginning or foundationPRIMALLY advPRIMARY n pl PRIMARIESa preliminary electionPRIMATAL n pl PRIMATALSa primatePRIMATE n pl PRIMATESany of an advanced order of mammalsPRIME v PRIMED PRIMING PRIMESto make readyPRIMELY adv excellentlyPRIMER n pl PRIMERSa book that covers the basics of a subjectPRIMERO n pl PRIMEROSa card gamePRIMEVAL adj pertaining to the earliest agesPRIMI a pl of primoPRIMINE n pl PRIMINESthe outer covering of an ovulePRIMING n pl PRIMINGSthe act of one that primesPRIMLY adv in a prim mannerPRIMMED past tense of primPRIMMER comparative of primPRIMMEST superlative of primPRIMMING present participle of primPRIMNESS n pl PRIMNESSESthe state of being primPRIMO n pl PRIMOS or PRIMIthe main part in a musical piecePRIMP v PRIMPED PRIMPING PRIMPSto dress or adorn carefullyPRIMROSE n pl PRIMROSESa perennial herbPRIMSIE adj primPRIMULA n pl PRIMULASprimrosePRIMUS n pl PRIMUSESthe head bishop of ScotlandPRINCE n pl PRINCESa nonreigning male member of a royal familyPRINCELY adj PRINCELIER PRINCELIESTof or befitting a princePRINCESS n pl PRINCESSESa nonreigning female member of a royal familyPRINCIPE n pl PRINCIPIa princePRINCOCK n pl PRINCOCKSa coxcombPRINCOX n pl PRINCOXESprincockPRINK v PRINKED PRINKING PRINKSto dress or adorn in a showy mannerPRINKER n pl PRINKERSone that prinksPRINT v PRINTED PRINTING PRINTSto produce by pressed type on a surfacePRINTER n pl PRINTERSone that printsPRINTERY n pl PRINTERIESa place where printing is donePRINTING n pl PRINTINGSa reproduction from a printing surfacePRINTOUT n pl PRINTOUTSthe printed output of a computerPRION n pl PRIONSa protein particlePRIOR n pl PRIORSan officer in a monasteryPRIORATE n pl PRIORATESthe office of a priorPRIORESS n pl PRIORESSESa nun corresponding in rank to a priorPRIORITY n pl PRIORITIESprecedence established by importancePRIORLY adv previouslyPRIORY n pl PRIORIESa religious housePRISE v PRISED PRISING PRISESto raise or force with a leverPRISERE n pl PRISERESa succession of vegetational stagesPRISM n pl PRISMSa solid which disperses light into a spectrumPRISMOID n pl PRISMOIDSa geometric solidPRISON v PRISONED PRISONING PRISONSto imprisonPRISONER n pl PRISONERSone that is imprisonedPRISS v PRISSED PRISSING PRISSESto act in a prissy mannerPRISSY adj PRISSIER PRISSIESTexcessively or affectedly properPRISSILY advPRISSY n pl PRISSIESone who is prissyPRISTANE n pl PRISTANESa chemical compoundPRISTINE adj pertaining to the earliest time or statePRITHEE interj  used to express a wish or requestPRIVACY n pl PRIVACIESthe state of being privatePRIVATE adj PRIVATER PRIVATESTnot for public use or knowledgePRIVATE n pl PRIVATESa soldier of lower rankPRIVET n pl PRIVETSan ornamental shrubPRIVITY n pl PRIVITIESprivate knowledgePRIVY adj PRIVIER PRIVIESTprivatePRIVILY advPRIVY n pl PRIVIESan outhousePRIZE v PRIZED PRIZING PRIZESto value highlyPRIZER n pl PRIZERSone who vies for a rewardPRO n pl PROSan argument or vote in favor of somethingPROA n pl PROASprauPROB n pl PROBSa problemPROBABLE n pl PROBABLESsomething likely to occur or prove truePROBABLY adv without much doubtPROBAND n pl PROBANDSone whose reactions or responses are studiedPROBANG n pl PROBANGSa surgical rodPROBATE v PROBATED PROBATING PROBATESto establish the validity ofPROBE v PROBED PROBING PROBESto investigate or examine thoroughlyPROBER n pl PROBERSone that probesPROBIT n pl PROBITSa unit of statistical probabilityPROBITY n pl PROBITIEScomplete and confirmed integrityPROBLEM n pl PROBLEMSa perplexing question or situationPROCAINE n pl PROCAINESa compound used as a local anestheticPROCARP n pl PROCARPSa female sexual organ in certain algaePROCEED v PROCEEDED PROCEEDING PROCEEDSto go forward or onwardPROCESS v PROCESSED PROCESSING PROCESSESto treat or prepare by a special methodPROCHAIN adj procheinPROCHEIN adj nearest in time relation or degreePROCLAIM v PROCLAIMED PROCLAIMING PROCLAIMSto make known publicly or officiallyPROCTOR v PROCTORED PROCTORING PROCTORSto supervisePROCURAL n pl PROCURALSthe act of procuringPROCURE v PROCURED PROCURING PROCURESto obtain by effortPROCURER n pl PROCURERSone that procuresPROD v PRODDED PRODDING PRODSto jab with something pointedPRODDER n pl PRODDERSone that prodsPRODIGAL n pl PRODIGALSone who spends lavishly and foolishlyPRODIGY n pl PRODIGIESa child having exceptional talent or abilityPRODROME n pl PRODROMES or PRODROMATAa sign of impending diseasePRODRUG n pl PRODRUGSan inactive chemical substance that becomes an active drug in the bodyPRODUCE v PRODUCED PRODUCING PRODUCESto bring into existencePRODUCER n pl PRODUCERSone that producesPRODUCT n pl PRODUCTSsomething produced by labor or effortPROEM n pl PROEMSan introductory statementPROEMIAL adjPROETTE n pl PROETTESa female professional athletePROF n pl PROFSa professorPROFANE v PROFANED PROFANING PROFANESto treat with irreverence or abusePROFANER n pl PROFANERSone that profanesPROFESS v PROFESSED PROFESSING PROFESSESto affirm openlyPROFFER v PROFFERED PROFFERING PROFFERSto present for acceptancePROFILE v PROFILED PROFILING PROFILESto draw an outline ofPROFILER n pl PROFILERSone that profilesPROFIT v PROFITED PROFITING PROFITSto gain an advantage or benefitPROFITER n pl PROFITERSone that profitsPROFORMA adj provided in advance of shipment and showing description and quantityPROFOUND adj PROFOUNDER PROFOUNDESTintellectually deep and penetratingPROFOUND n pl PROFOUNDSsomething that is very deepPROFUSE adj pouring forth generouslyPROG v PROGGED PROGGING PROGSto prowl about for food or plunderPROGENY n pl PROGENIESa descendant or offspringPROGERIA n pl PROGERIASpremature agingPROGGER n pl PROGGERSone that progsPROGGING present participle of progPROGNOSE v PROGNOSED PROGNOSING PROGNOSESto forecast the probable course of a diseasePROGRADE adj pertaining to the orbital motion of a bodyPROGRAM v PROGRAMED PROGRAMING PROGRAMS or PROGRAMMED PROGRAMMING PROGRAMSto arrange in a plan of proceedingsPROGRESS v PROGRESSED PROGRESSING PROGRESSESto move forward or onwardPROGUN adj favoring the right to own guns without restrictionsPROHIBIT v PROHIBITED PROHIBITING PROHIBITSto forbid by authorityPROJECT v PROJECTED PROJECTING PROJECTSto extend outwardPROJET n pl PROJETSa plan or outlinePROLABOR adj favoring organized laborPROLAMIN n pl PROLAMINSa simple proteinPROLAN n pl PROLANSa sex hormonePROLAPSE v PROLAPSED PROLAPSING PROLAPSESto fall or slip out of placePROLATE adj extended lengthwisePROLE n pl PROLESa member of the working classPROLEG n pl PROLEGSan abdominal leg of certain insect larvaePROLIFIC adj producing abundantlyPROLINE n pl PROLINESan amino acidPROLIX adj tediously long and wordyPROLIXLY advPROLOG v PROLOGED PROLOGING PROLOGSto prologuePROLOGUE v PROLOGUED PROLOGUING PROLOGUESto prefacePROLONG v PROLONGED PROLONGING PROLONGSto lengthen in durationPROLONGE n pl PROLONGESa rope used for pulling a gun carriagePROM n pl PROMSa formal dancePROMINE n pl PROMINESa substance that promotes growthPROMISE v PROMISED PROMISING PROMISESto make a declaration of assurancePROMISEE n pl PROMISEESone who is promised somethingPROMISER n pl PROMISERSpromisorPROMISOR n pl PROMISORSone that promisesPROMO v PROMOED PROMOING PROMOSto promotePROMOTE v PROMOTED PROMOTING PROMOTESto contribute to the progress ofPROMOTER n pl PROMOTERSone that promotesPROMOTOR n pl PROMOTORSa chemical additive that increases the activity of a catalystPROMPT adj PROMPTER PROMPTESTquick to act or respondPROMPT v PROMPTED PROMPTING PROMPTSto induce to actionPROMPTER n pl PROMPTERSone that promptsPROMPTLY adv in a prompt mannerPROMULGE v PROMULGED PROMULGING PROMULGESto proclaimPRONATE v PRONATED PRONATING PRONATESto turn the palm downward or backwardPRONATOR n pl PRONATORS or PRONATORESa forearm or forelimb musclePRONE adj lying with the front or face downwardPRONELY advPRONG v PRONGED PRONGING PRONGSto pierce with a pointed projectionPRONOTUM n pl PRONOTAa hard outer plate of an insectPRONOUN n pl PRONOUNSa word that may be used in place of a nounPRONTO adv quicklyPROOF v PROOFED PROOFING PROOFSto examine for errorsPROOFER n pl PROOFERSone that proofsPROP v PROPPED PROPPING PROPSto keep from fallingPROPANE n pl PROPANESa flammable gasPROPANOL n pl PROPANOLSa liquid alcohol used as a solventPROPEL v PROPELLED PROPELLING PROPELSto cause to move forward or onwardPROPEND v PROPENDED PROPENDING PROPENDSto have a tendency towardPROPENE n pl PROPENESa flammable gasPROPENOL n pl PROPENOLSa flammable liquidPROPENSE adj tending towardPROPENYL adj pertaining to a certain chemical groupPROPER adj PROPERER PROPERESTsuitablePROPERLY advPROPER n pl PROPERSa portion of the MassPROPERTY n pl PROPERTIESsomething ownedPROPHAGE n pl PROPHAGESa form of virusPROPHASE n pl PROPHASESthe first stage in mitosisPROPHECY n pl PROPHECIESa predictionPROPHESY v PROPHESIED PROPHESYING PROPHESIESto predictPROPHET n pl PROPHETSone who predictsPROPINE v PROPINED PROPINING PROPINESto offer as a giftPROPJET n pl PROPJETSa type of airplanePROPMAN n pl PROPMENa man in charge of stage propertiesPROPOLIS n pl PROPOLISESa resinous substance used as a cement by beesPROPONE v PROPONED PROPONING PROPONESto proposePROPOSAL n pl PROPOSALSsomething that is proposedPROPOSE v PROPOSED PROPOSING PROPOSESto put forward for consideration or acceptancePROPOSER n pl PROPOSERSone that proposesPROPOUND v PROPOUNDED PROPOUNDING PROPOUNDSto proposePROPPED past tense of propPROPPING present participle of propPROPRIUM n pl PROPRIAan attribute belonging inseparably to every member of a speciesPROPYL n pl PROPYLSa univalent radicalPROPYLIC adjPROPYLON n pl PROPYLAan entrance to a templePROPYNE n pl PROPYNESa gaseous methyl acetylenePRORATE v PRORATED PRORATING PRORATESto divide proportionatelyPROROGUE v PROROGUED PROROGUING PROROGUESto discontinue a session ofPROSAIC adj pertaining to prosePROSAISM n pl PROSAISMSa prosaic stylePROSAIST n pl PROSAISTSa writer of prosePROSE v PROSED PROSING PROSESto write prose writing without metrical structurePROSECCO n pl PROSECCOSan Italian sparkling winePROSECT v PROSECTED PROSECTING PROSECTSto dissectPROSER n pl PROSERSa prosaistPROSIER comparative of prosyPROSIEST superlative of prosyPROSIFY v PROSIFIED PROSIFYING PROSIFIESto turn into prosePROSILY adv in a prosy mannerPROSING present participle of prosePROSIT interj  used as a drinking toastPROSO n pl PROSOSmilletPROSODY n pl PROSODIESthe study of poetical formsPROSODIC adjPROSOMA n pl PROSOMAS or PROSOMATAthe anterior region of the body of some invertebratesPROSOMAL adjPROSPECT v PROSPECTED PROSPECTING PROSPECTSto explore for mineral depositsPROSPER v PROSPERED PROSPERING PROSPERSto be successful or fortunatePROSS n pl PROSSESa prostitutePROSSIE n pl PROSSIESa prostitutePROST interj prositPROSTATE n pl PROSTATESa gland in male mammalsPROSTIE n pl PROSTIESa prostitutePROSTYLE n pl PROSTYLESa building having a row of columns across the front onlyPROSUMER n pl PROSUMERSone who buys electronic products that are in quality between consumer and professional gradesPROSY adj PROSIER PROSIESTprosaicPROTAMIN n pl PROTAMINSa simple proteinPROTASIS n pl PROTASESthe introductory part of a classical dramaPROTATIC adjPROTEA n pl PROTEASan evergreen shrubPROTEAN n pl PROTEANSa type of proteinPROTEASE n pl PROTEASESan enzymePROTECT v PROTECTED PROTECTING PROTECTSto keep from harm attack or injuryPROTEGE n pl PROTEGESone whose career is promoted by an influential personPROTEGEE n pl PROTEGEESa female protegePROTEI pl of proteusPROTEID n pl PROTEIDSproteinPROTEIDE n pl PROTEIDESproteidPROTEIN n pl PROTEINSa nitrogenous organic compoundPROTEND v PROTENDED PROTENDING PROTENDSto extendPROTEOME n pl PROTEOMESthe complement of proteins expressed by a genomePROTEOSE n pl PROTEOSESa watersoluble proteinPROTEST v PROTESTED PROTESTING PROTESTSto express strong objectionPROTEUS n pl PROTEUSESone that readily changes his appearance or principlesPROTEUS n pl PROTEIany of a genus of aerobic bacteriaPROTIST n pl PROTISTSany of a group of unicellular organismsPROTIUM n pl PROTIUMSan isotope of hydrogenPROTOCOL v PROTOCOLED PROTOCOLING PROTOCOLS or PROTOCOLLED PROTOCOLLING PROTOCOLSto form a preliminary draft of an official documentPROTON n pl PROTONSa subatomic particlePROTONIC adjPROTOPOD n pl PROTOPODSa part of a crustacean appendagePROTOXID n pl PROTOXIDSan oxidePROTOZOA npl unicellular microscopic organismsPROTRACT v PROTRACTED PROTRACTING PROTRACTSto prolongPROTRADE adj favoring international tradePROTRUDE v PROTRUDED PROTRUDING PROTRUDESto extend beyond the main portionPROTURAN n pl PROTURANSany of an order of white wingless insectsPROTYL n pl PROTYLSprotylePROTYLE n pl PROTYLESa hypothetical substance from which all the elements are supposedly derivedPROUD adj PROUDER PROUDESThaving or displaying pridePROUDLY advPROUDFUL adj pridefulPROUNION adj favoring labor unionsPROVE v PROVED PROVEN PROVING PROVESto establish the truth or validity ofPROVABLE adjPROVABLY advPROVENLY adv without doubtPROVER n pl PROVERSone that provesPROVERB v PROVERBED PROVERBING PROVERBSto make a byword ofPROVIDE v PROVIDED PROVIDING PROVIDESto supplyPROVIDER n pl PROVIDERSone that providesPROVINCE n pl PROVINCESan administrative division of a countryPROVING present participle of provePROVIRUS n pl PROVIRUSESa form of virusPROVIRAL adjPROVISO n pl PROVISOS or PROVISOESa clause in a document introducing a condition or restrictionPROVOKE v PROVOKED PROVOKING PROVOKESto incite to anger or resentmentPROVOKER n pl PROVOKERSone that provokesPROVOST n pl PROVOSTSa highranking university officialPROW adj PROWER PROWESTbravePROW n pl PROWSthe forward part of a shipPROWAR adj favoring warPROWESS n pl PROWESSESexceptional abilityPROWL v PROWLED PROWLING PROWLSto move about stealthilyPROWLER n pl PROWLERSone that prowlsPROXEMIC adj pertaining to a branch of environmental studyPROXIMAL adj located near the point of originPROXIMO adj of or occurring in the following monthPROXY n pl PROXIESa person authorized to act for anotherPRUDE n pl PRUDESa prudish personPRUDENCE n pl PRUDENCESthe quality of being prudentPRUDENT adj having showing or exercising good judgmentPRUDERY n pl PRUDERIESexcessive regard for propriety modesty or moralityPRUDISH adj marked by pruderyPRUINOSE adj having a powdery coveringPRUNE v PRUNED PRUNING PRUNESto cut off branches or parts fromPRUNABLE adjPRUNELLA n pl PRUNELLASa strong woolen fabricPRUNELLE n pl PRUNELLESa plumflavored liqueurPRUNELLO n pl PRUNELLOSprunellaPRUNER n pl PRUNERSone that prunesPRUNEY adj PRUNIER PRUNIESTresembling a prunePRUNING present participle of prunePRUNUS n pl PRUNUSESa flowering treePRURIENT adj having lustful thoughts or desiresPRURIGO n pl PRURIGOSa skin diseasePRURITUS n pl PRURITUSESintense itchingPRURITIC adjPRUSSIC adj pertaining to a type of acidPRUTA n pl PRUTOTprutahPRUTAH n pl PRUTOTHa former monetary unit of IsraelPRY v PRIED PRYING PRIESto inquire impertinently into private mattersPRYINGLY advPRYER n pl PRYERSprierPRYTHEE interj pritheePSALM v PSALMED PSALMING PSALMSto praise in psalms sacred songsPSALMIC adj of or pertaining to a psalmPSALMIST n pl PSALMISTSa writer of psalmsPSALMODY n pl PSALMODIESthe use of psalms in worshipPSALTER n pl PSALTERSa book of psalmsPSALTERY n pl PSALTERIESan ancient stringed musical instrumentPSALTRY n pl PSALTRIESpsalteryPSAMMITE n pl PSAMMITESa finegrained rockPSAMMON n pl PSAMMONSa group of microorganisms living in waterlogged sandsPSCHENT n pl PSCHENTSa crown worn by ancient Egyptian kingsPSEPHITE n pl PSEPHITESa rock composed of small pebblesPSEUD n pl PSEUDSa person pretending to be an intellectualPSEUDO n pl PSEUDOSa pseudPSHAW v PSHAWED PSHAWING PSHAWSto utter an expression of disapprovalPSI n pl PSISa Greek letterPSILOCIN n pl PSILOCINSa hallucinogenic drugPSILOSIS n pl PSILOSESa tropical diseasePSILOTIC adjPSIONIC adj pertaining to the practical use of psychic powersPSOAS n pl PSOAI or PSOAEa muscle of the loinPSOATIC adjPSOCID n pl PSOCIDSa minute winged insectPSORALEA n pl PSORALEASa plant of the bean familyPSORALEN n pl PSORALENSa drug used to treat psoriasisPSST interj  used to attract someones attentionPST interj psstPSYCH v PSYCHED PSYCHING PSYCHSto put into the proper frame of mindPSYCHE n pl PSYCHESthe mental structure of a personPSYCHIC n pl PSYCHICSone sensitive to extrasensory phenomenaPSYCHISM n pl PSYCHISMSa belief that there is a fluid that animates all living beingsPSYCHO n pl PSYCHOSa mentally unstable personPSYLLA n pl PSYLLASany of various plant licePSYLLID n pl PSYLLIDSpsyllaPSYLLIUM n pl PSYLLIUMSthe seed of a fleawortPSYOPS npl noncombative military operations to influence the enemys state of mindPSYWAR n pl PSYWARSpsychological warfarePTERIN n pl PTERINSa chemical compoundPTEROPOD n pl PTEROPODSa type of molluskPTERYGIA npl fleshy growths over the corneaPTERYLA n pl PTERYLAEa feathered area on the skin of a birdPTISAN n pl PTISANSa tea of herbs or barleyPTOMAIN n pl PTOMAINSptomainePTOMAINE n pl PTOMAINESa compound produced by the decomposition of proteinPTOOEY interj ptuiPTOSIS n pl PTOSESa drooping of the upper eyelidPTOTIC adjPTUI interj  used to express the sound of spittingPTYALIN n pl PTYALINSa salivary enzymePTYALISM n pl PTYALISMSan excessive flow of salivaPUB n pl PUBSa tavernPUBBING n pl PUBBINGSthe practice of drinking in pubsPUBERTY n pl PUBERTIESa period of sexual maturationPUBERAL PUBERTAL adjPUBIC adj pertaining to the pubes or pubisPUBIS n pl PUBESthe forward portion of either of the hipbonesPUBLIC n pl PUBLICSthe community or the people as a wholePUBLICAN n pl PUBLICANSone who owns or manages a pubPUBLICLY adv by the publicPUBLISH v PUBLISHED PUBLISHING PUBLISHESto print and issue to the publicPUCCOON n pl PUCCOONSan herb that yields a red dyePUCE n pl PUCESa dark red colorPUCK n pl PUCKSa rubber disk used in ice hockeyPUCKA adj pukkaPUCKER v PUCKERED PUCKERING PUCKERSto gather into small wrinkles or foldsPUCKERER n pl PUCKERERSone that puckersPUCKERY adj PUCKERIER PUCKERIESThaving a tendency to puckerPUCKISH adj impishPUCKSTER n pl PUCKSTERSa hockey playerPUD n pl PUDSpuddingPUDDING n pl PUDDINGSa thick soft dessertPUDDINGY adj resembling a puddingPUDDLE v PUDDLED PUDDLING PUDDLESto strew with puddles small pools of waterPUDDLER n pl PUDDLERSone who subjects iron to puddlingPUDDLING n pl PUDDLINGSthe process of converting pig iron to wrought ironPUDDLY adj PUDDLIER PUDDLIESTfull of puddlesPUDENCY n pl PUDENCIESmodestyPUDENDUM n pl PUDENDAthe external genital organs of a womanPUDENDAL adjPUDEUR n pl PUDEURSa sense of shame or embarrassmentPUDGE n pl PUDGESfat on a bodyPUDGY adj PUDGIER PUDGIESTshort and fatPUDGILY advPUDIBUND adj prudishPUDIC adj pertaining to the pudendumPUDU n pl PUDUSa small deer of South AmericaPUEBLO n pl PUEBLOSa communal dwelling of certain Indian tribesPUERILE adj childishPUERPERA n pl PUERPERAEa woman who has recently given birth to a childPUFF v PUFFED PUFFING PUFFSto blow in short gustsPUFFBACK n pl PUFFBACKSa small African birdPUFFBALL n pl PUFFBALLSany of various globular fungiPUFFBIRD n pl PUFFBIRDSa stocky tropical American birdPUFFER n pl PUFFERSone that puffsPUFFERY n pl PUFFERIESexcessive public praisePUFFIN n pl PUFFINSa sea birdPUFFY adj PUFFIER PUFFIESTswollenPUFFILY advPUG v PUGGED PUGGING PUGSto fill in with clay or mortarPUGAREE n pl PUGAREESpugreePUGGAREE n pl PUGGAREESpugreePUGGIER comparative of puggyPUGGIEST superlative of puggyPUGGING n pl PUGGINGSthe act of preparing clay for making bricks or potteryPUGGISH adj somewhat stubbyPUGGREE n pl PUGGREESpugreePUGGRY n pl PUGGRIESpugreePUGGY adj PUGGIER PUGGIESTpuggishPUGH interj  used to express disgustPUGILISM n pl PUGILISMSthe art or practice of fighting with the fistsPUGILIST n pl PUGILISTSone who fights with his fistsPUGMARK n pl PUGMARKSa footprintPUGREE n pl PUGREESa cloth band wrapped around a hatPUISNE n pl PUISNESone of lesser rankPUISSANT adj powerfulPUJA n pl PUJASa Hindu prayer ritualPUJAH n pl PUJAHSpujaPUKE v PUKED PUKING PUKESto vomitPUKEY adj PUKIER PUKIESTresembling or suggestive of vomitPUKKA adj genuinePUKKAH adj pukkaPUL n pl PULS or PULIa coin of AfghanistanPULA n pl PULASa monetary unit of BotswanaPULAO n pl PULAOSpilafPULE v PULED PULING PULESto whinePULER n pl PULERSone that pulesPULI n pl PULIS or PULIKa longhaired sheepdogPULICENE adj pertaining to fleasPULICIDE n pl PULICIDESan agent used for destroying fleasPULING n pl PULINGSa plaintive cryPULINGLY adv in a whining mannerPULK n pl PULKSa small sledPULKA n pl PULKASpulkPULL v PULLED PULLING PULLSto exert force in order to cause motion toward the forcePULLBACK n pl PULLBACKSa restraint or drawbackPULLER n pl PULLERSone that pullsPULLET n pl PULLETSa young henPULLEY v PULLEYED PULLEYING PULLEYSto hoist with a pulley a device used for lifting weightPULLMAN n pl PULLMANSa railroad sleeping carPULLOUT n pl PULLOUTSa withdrawalPULLOVER n pl PULLOVERSa garment that is put on by being drawn over the headPULLUP n pl PULLUPSthe act of raising oneself while hanging by the handsPULMONIC adj pertaining to the lungsPULMOTOR n pl PULMOTORSa respiratory devicePULP v PULPED PULPING PULPSto reduce to pulp a soft moist mass of matterPULPAL adj pertaining to pulpPULPALLY advPULPER n pl PULPERSone that pulpsPULPIER comparative of pulpyPULPIEST superlative of pulpyPULPILY adv in a pulpy mannerPULPING n pl PULPINGSthe process of reducing to pulpPULPIT n pl PULPITSa platform in a churchPULPITAL adjPULPLESS adj having no pulpPULPOUS adj pulpyPULPWOOD n pl PULPWOODSsoft wood used in making paperPULPY adj PULPIER PULPIESTresembling pulpPULQUE n pl PULQUESa fermented Mexican beveragePULSANT adj pulsatingPULSAR n pl PULSARSa celestial source of radio wavesPULSATE v PULSATED PULSATING PULSATESto expand and contract rhythmicallyPULSATOR n pl PULSATORSsomething that pulsatesPULSE v PULSED PULSING PULSESto pulsatePULSEJET n pl PULSEJETSa type of enginePULSER n pl PULSERSa device that causes pulsationsPULSING present participle of pulsePULSION n pl PULSIONSpropulsionPULSOJET n pl PULSOJETSpulsejetPULTRUDE v PULTRUDED PULTRUDING PULTRUDESto make a plastic object by drawing resincoated glass fibers through a diePULVILLI iPads between the claws of an insects footPULVINUS n pl PULVINIa swelling at the base of a leafPULVINAR adjPUMA n pl PUMASa cougarPUMELO n pl PUMELOSpomeloPUMICE v PUMICED PUMICING PUMICESto polish with a porous volcanic rockPUMICER n pl PUMICERSone that pumicesPUMICITE n pl PUMICITESa porous volcanic rockPUMMEL v PUMMELED PUMMELING PUMMELS or PUMMELLED PUMMELLING PUMMELSto pommelPUMMELO n pl PUMMELOSa shaddockPUMP v PUMPED PUMPING PUMPSto cause to flow by means of a pump a device for moving fluidsPUMPABLE adjPUMPER n pl PUMPERSone that pumpsPUMPJACK n pl PUMPJACKSa pumping apparatus at an oil wellPUMPKIN n pl PUMPKINSa large edible fruitPUMPLESS adj lacking a pumpPUMPLIKE adj resembling a pumpPUN v PUNNED PUNNING PUNSto make a pun a play on wordsPUNA n pl PUNASa cold arid plateauPUNCH v PUNCHED PUNCHING PUNCHESto perforate with a type of toolPUNCHEON n pl PUNCHEONSa vertical supporting timberPUNCHER n pl PUNCHERSone that punchesPUNCHOUT n pl PUNCHOUTSa fist fightPUNCHY adj PUNCHIER PUNCHIESTdazedPUNCHILY advPUNCTATE adj covered with dotsPUNCTUAL adj being on timePUNCTUM n pl PUNCTAthe opening of a tear ductPUNCTURE v PUNCTURED PUNCTURING PUNCTURESto pierce with a pointed objectPUNDIT n pl PUNDITSa Hindu scholarPUNDITIC adjPUNDITRY n pl PUNDITRIESthe learning of punditsPUNG n pl PUNGSa boxshaped sleighPUNGENCY n pl PUNGENCIESthe state of being pungentPUNGENT adj sharply affecting the organs of taste or smellPUNGLE v PUNGLED PUNGLING PUNGLESto contributePUNIER comparative of punyPUNIEST superlative of punyPUNILY adv in a puny mannerPUNINESS n pl PUNINESSESthe state of being punyPUNISH v PUNISHED PUNISHING PUNISHESto impose a penalty on in requital for wrongdoingPUNISHER n pl PUNISHERSone that punishesPUNITION n pl PUNITIONSthe act of punishing punishmentPUNITIVE adj inflicting punishmentPUNITORY adj punitivePUNJI n pl PUNJISa sharp bamboo stake placed and concealed so as to impale an enemyPUNK adj PUNKER PUNKESTof inferior qualityPUNK n pl PUNKSdry decayed wood used as tinderPUNKA n pl PUNKASa ceiling fan used in IndiaPUNKAH n pl PUNKAHSpunkaPUNKER n pl PUNKERSa punk rock musicianPUNKETTE n pl PUNKETTESa female punk rockerPUNKEY n pl PUNKEYSpunkiePUNKIE n pl PUNKIESa biting gnatPUNKIN n pl PUNKINSpumpkinPUNKISH adj pertaining to a style inspired by punk rockPUNKY adj PUNKIER PUNKIESTresembling punkPUNNED past tense of punPUNNER n pl PUNNERSa punsterPUNNET n pl PUNNETSa small basketPUNNING n pl PUNNINGSthe act of making a punPUNNY adj PUNNIER PUNNIESTbeing or involving a punPUNSTER n pl PUNSTERSone who is given to punningPUNT v PUNTED PUNTING PUNTSto propel through water with a polePUNTER n pl PUNTERSone that puntsPUNTO n pl PUNTOSa hit or thrust in fencingPUNTY n pl PUNTIESan iron rod used in glassmakingPUNY adj PUNIER PUNIESTof inferior size strength or significancePUP v PUPPED PUPPING PUPSto give birth to puppiesPUPA n pl PUPAS or PUPAEan intermediate stage of a metamorphic insectPUPAL adjPUPARIUM n pl PUPARIAa pupal shellPUPARIAL adjPUPATE v PUPATED PUPATING PUPATESto pass through the pupal stagePUPATION n pl PUPATIONSthe act of pupatingPUPFISH n pl PUPFISHESa small freshwater fishPUPIL n pl PUPILSa student under the close supervision of a teacherPUPILAGE n pl PUPILAGESthe state of being a pupilPUPILAR adj pertaining to a part of the eyePUPILARY adj pupilarPUPPED past tense of pupPUPPET n pl PUPPETSa small figure as of a person or animal manipulated by the handPUPPETRY n pl PUPPETRIESthe art of making or manipulating puppetsPUPPING present participle of pupPUPPY n pl PUPPIESa young dogPUPPYISH adjPUPPYDOM n pl PUPPYDOMSthe world of puppiesPUPU n pl PUPUSa dish of Asian foods served as an appetizerPUR v PURRED PURRING PURSto purrPURANA n pl PURANASa Hindu scripturePURANIC adjPURBLIND adj partially blindPURCHASE v PURCHASED PURCHASING PURCHASESto acquire by the payment of moneyPURDA n pl PURDASpurdahPURDAH n pl PURDAHSa curtain used in India to seclude womenPURE adj PURER PURESTfree from anything different inferior or contaminatingPUREBRED n pl PUREBREDSan animal of unmixed stockPUREE v PUREED PUREEING PUREESto reduce to a thick pulp by cooking and sievingPURELY adv in a pure mannerPURENESS n pl PURENESSESthe quality of being purePURER comparative of purePUREST superlative of purePURFLE v PURFLED PURFLING PURFLESto decorate the border ofPURFLER n pl PURFLERSone that purflesPURFLING n pl PURFLINGSan ornamental borderPURGE v PURGED PURGING PURGESto purifyPURGER n pl PURGERSone that purgesPURGING n pl PURGINGSthe act of purifyingPURI n pl PURISpooriPURIFIER n pl PURIFIERSone that purifiesPURIFY v PURIFIED PURIFYING PURIFIESto free from impuritiesPURIN n pl PURINSpurinePURINE n pl PURINESa chemical compoundPURISM n pl PURISMSstrict adherence to traditional correctnessPURIST n pl PURISTSone who practices purismPURISTIC adjPURITAN n pl PURITANSa rigorously moral or religious personPURITY n pl PURITIESthe quality of being purePURL v PURLED PURLING PURLSto knit with a particular stitchPURLIEU n pl PURLIEUS or PURLIEUXan outlying or neighboring areaPURLIN n pl PURLINSa horizontal supporting timberPURLINE n pl PURLINESpurlinPURLING n pl PURLINGSan inversion of stitches in knittingPURLOIN v PURLOINED PURLOINING PURLOINSto stealPURPLE adj PURPLER PURPLESTof a color intermediate between red and bluePURPLE v PURPLED PURPLING PURPLESto make purplePURPLISH adj somewhat purplePURPLY adj purplishPURPORT v PURPORTED PURPORTING PURPORTSto profess or claimPURPOSE v PURPOSED PURPOSING PURPOSESto resolve to perform or accomplishPURPURA n pl PURPURASa disease characterized by purple spots on the skinPURPURE n pl PURPURESthe heraldic color purplePURPURIC adj pertaining to purpuraPURPURIN n pl PURPURINSa reddish dyePURR v PURRED PURRING PURRSto utter a low vibrant soundPURRED past tense of purPURRING present participle of purPURSE v PURSED PURSING PURSESto puckerPURSER n pl PURSERSan officer in charge of a ships accountsPURSIER comparative of pursyPURSIEST superlative of pursyPURSILY adv in a pursy mannerPURSING present participle of pursePURSLANE n pl PURSLANESa common garden herbPURSUANT adv in accordancePURSUE v PURSUED PURSUING PURSUESto follow in order to overtake or capturePURSUER n pl PURSUERSone that pursuesPURSUIT n pl PURSUITSthe act of pursuingPURSY adj PURSIER PURSIESTshort of breathPURTY adj PURTIER PURTIESTprettyPURULENT adj secreting pusPURVEY v PURVEYED PURVEYING PURVEYSto supplyPURVEYOR n pl PURVEYORSone that purveysPURVIEW n pl PURVIEWSthe extent of operation authority or concernPUS n pl PUSESa viscous fluid formed in infected tissuePUSH v PUSHED PUSHING PUSHESto exert force in order to cause motion away from the forcePUSHBACK n pl PUSHBACKSa negative or unfavorable responsePUSHBALL n pl PUSHBALLSa type of ball gamePUSHCART n pl PUSHCARTSa light cart pushed by handPUSHDOWN n pl PUSHDOWNSa store of computer dataPUSHER n pl PUSHERSone that pushesPUSHFUL adj pushyPUSHIER comparative of pushyPUSHIEST superlative of pushyPUSHILY adv in a pushy mannerPUSHOVER n pl PUSHOVERSan easily defeated person or teamPUSHPIN n pl PUSHPINSa largeheaded pinPUSHROD n pl PUSHRODSa rod for operating the valves in an enginePUSHUP n pl PUSHUPSa type of exercisePUSHY adj PUSHIER PUSHIESToffensively aggressivePUSLEY n pl PUSLEYSpussleyPUSLIKE adj resembling pusPUSS n pl PUSSESa catPUSSIER comparative of pussyPUSSIES pl of pussyPUSSIEST superlative of pussyPUSSLEY n pl PUSSLEYSpurslanePUSSLIKE adj catlikePUSSLY n pl PUSSLIESpussleyPUSSY adj PUSSIER PUSSIESTfull of pusPUSSY n pl PUSSIESa catPUSSYCAT n pl PUSSYCATSa catPUSTULE n pl PUSTULESa small elevation of the skin containing pusPUSTULAR PUSTULED adjPUT v PUT PUTTING PUTSto place in a particular positionPUTAMEN n pl PUTAMINA or PUTAMENSthe hard covering of the kernel of certain fruitsPUTATIVE adj generally regarded as suchPUTDOWN n pl PUTDOWNSa disparaging or snubbing remarkPUTLOCK n pl PUTLOCKSputlogPUTLOG n pl PUTLOGSa horizontal supporting timberPUTOFF n pl PUTOFFSan excusePUTON n pl PUTONSa hoax or deceptionPUTOUT n pl PUTOUTSan act of causing an out in baseballPUTREFY v PUTREFIED PUTREFYING PUTREFIESto make or become putridPUTRID adj being in a decomposed foulsmelling statePUTRIDLY advPUTSCH n pl PUTSCHESa suddenly executed attempt to overthrow a governmentPUTT v PUTTED PUTTING PUTTSto hit with a light stroke in golfPUTTEE n pl PUTTEESa strip of cloth wound around the legPUTTER v PUTTERED PUTTERING PUTTERSto occupy oneself in a leisurely or ineffective mannerPUTTERER n pl PUTTERERSone that puttersPUTTI pl of puttoPUTTIE n pl PUTTIESputteePUTTIED past tense of puttyPUTTIER n pl PUTTIERSone that puttiesPUTTING present participle of putPUTTO n pl PUTTIan infant boy in artPUTTY v PUTTIED PUTTYING PUTTIESto fill with a type of cementPUTZ v PUTZED PUTZING PUTZESto waste timePUZZLE v PUZZLED PUZZLING PUZZLESto cause uncertainty and indecision inPUZZLER n pl PUZZLERSsomething that puzzlesPYA n pl PYASa copper coin of Myanmar BurmaPYAEMIA n pl PYAEMIASpyemiaPYAEMIC adjPYCNIDIA npl sporebearing organs of certain fungiPYCNOSIS n pl PYCNOSESpyknosisPYCNOTIC adj pyknoticPYE n pl PYESa book of ecclesiastical rules in the preReformation English churchPYELITIS n pl PYELITISESinflammation of the pelvis or the kidneyPYELITIC adjPYEMIA n pl PYEMIASthe presence of pus in the bloodPYEMIC adjPYGIDIUM n pl PYGIDIAthe posterior region of certain invertebratesPYGIDIAL adjPYGMY n pl PYGMIESa small personPYGMAEAN PYGMEAN PYGMOID PYGMYISH adjPYGMYISM n pl PYGMYISMSa stunted or dwarfish conditionPYIC adj pertaining to pusPYIN n pl PYINSa protein compound contained in pusPYJAMA n pl PYJAMASpajamaPYKNIC n pl PYKNICSa person having a broad stocky buildPYKNOSIS n pl PYKNOSESa shrinking and thickening of a cell nucleusPYKNOTIC adj exhibiting pyknosisPYLON n pl PYLONSa tall structure marking an entrance or approachPYLORUS n pl PYLORUSES or PYLORIthe opening between the stomach and the duodenumPYLORIC adjPYODERMA n pl PYODERMASa puscausing skin diseasePYOGENIC adj producing pusPYOID adj puslikePYORRHEA n pl PYORRHEASa discharge of pusPYOSIS n pl PYOSESthe formation of pusPYRALID n pl PYRALIDSa longlegged mothPYRAMID v PYRAMIDED PYRAMIDING PYRAMIDSto raise or increase by adding amounts graduallyPYRAN n pl PYRANSa chemical compoundPYRANOID adjPYRANOSE n pl PYRANOSESa simple sugarPYRE n pl PYRESa pile of combustible materialPYRENE n pl PYRENESa putamenPYRENOID n pl PYRENOIDSa protein body of certain lower organismsPYRETIC adj pertaining to feverPYREXIA n pl PYREXIASfeverPYREXIAL PYREXIC adjPYRIC adj pertaining to burningPYRIDINE n pl PYRIDINESa flammable liquidPYRIDIC adjPYRIFORM adj pearshapedPYRITE n pl PYRITESa metallic sulfidePYRITIC PYRITOUS adjPYRITISE v PYRITISED PYRITISING PYRITISESto pyritizePYRITIZE v PYRITIZED PYRITIZING PYRITIZESto convert into pyritePYRO n pl PYROSa person who has a compulsion to set firesPYROGEN n pl PYROGENSa substance that produces feverPYROGY n pl PYROGIESpierogiPYROHY n pl PYROHIESpierogiPYROLA n pl PYROLASa perennial herbPYROLIZE v PYROLIZED PYROLIZING PYROLIZESto pyrolyzePYROLOGY n pl PYROLOGIESthe scientific examination of materials by heatPYROLYSE v PYROLYSED PYROLYSING PYROLYSESto pyrolyzePYROLYZE v PYROLYZED PYROLYZING PYROLYZESto affect compounds by the application of heatPYRONE n pl PYRONESa chemical compoundPYRONINE n pl PYRONINESa dyePYROPE n pl PYROPESa variety of garnetPYROSIS n pl PYROSISESheartburnPYROSTAT n pl PYROSTATSa thermostatPYROXENE n pl PYROXENESany of a group of minerals common in igneous rocksPYRRHIC n pl PYRRHICSa type of metrical footPYRROL n pl PYRROLSpyrrolePYRROLE n pl PYRROLESa chemical compoundPYRROLIC adjPYRUVATE n pl PYRUVATESa chemical saltPYSANKA n pl PYSANKYa handpainted Ukrainian Easter eggPYTHON n pl PYTHONSa large snakePYTHONIC adjPYURIA n pl PYURIASthe presence of pus in the urinePYX n pl PYXESa container in which the eucharistic bread is keptPYXIDIUM n pl PYXIDIAa type of seed vesselPYXIE n pl PYXIESan evergreen shrubPYXIS n pl PYXIDESa pyxidiumPZAZZ n pl PZAZZESpizazz").
+```
+```prolog
+条目(qabala, n, [qabalas], "cabalaQABALAH n pl QABALAHScabalaQADI n pl QADIScadiQAID n pl QAIDScaidQAJAQ n pl QAJAQSkayakQAMUTIK n pl QAMUTIKSkomatikQANAT n pl QANATSa system of underground tunnels and wells in the Middle EastQAT n pl QATSkatQAWWALI n pl QAWWALISa style of Muslim musicQI n pl QISthe vital force that in Chinese thought is inherent in all thingsQIBLA n pl QIBLASkiblahQIGONG n pl QIGONGSa Chinese system of physical exercisesQINDAR n pl QINDARS or QINDARKAqintarQINTAR n pl QINTARSa monetary unit of AlbaniaQIVIUT n pl QIVIUTSthe wool of a musk oxQOPH n pl QOPHSkophQUA adv in the capacity ofQUAALUDE n pl QUAALUDESa sedative drugQUACK v QUACKED QUACKING QUACKSto utter the characteristic cry of a duckQUACKERY n pl QUACKERIESfraudulent practiceQUACKISH adj fraudulentQUACKISM n pl QUACKISMSquackeryQUACKY adj QUACKIER QUACKIESTresembling the cry of a duckQUAD v QUADDED QUADDING QUADSto space out by means of quadratsQUADPLEX n pl QUADPLEXESa building having four unitsQUADRANS n pl QUADRANTESan ancient Roman coinQUADRANT n pl QUADRANTSa quarter section of a circleQUADRAT n pl QUADRATSa piece of type metal used for filling spacesQUADRATE v QUADRATED QUADRATING QUADRATESto correspond or agreeQUADRATI npl rectangular musclesQUADRIC n pl QUADRICSa type of geometric surfaceQUADRIGA n pl QUADRIGAEa chariot drawn by four horsesQUADROON n pl QUADROONSa person of onequarter black ancestryQUAERE n pl QUAERESa questionQUAESTOR n pl QUAESTORSan ancient Roman magistrateQUAFF v QUAFFED QUAFFING QUAFFSto drink deeplyQUAFFER n pl QUAFFERSone that quaffsQUAG n pl QUAGSa quagmireQUAGGA n pl QUAGGASan extinct mammal that resembled a zebraQUAGGY adj QUAGGIER QUAGGIESTmarshyQUAGMIRE n pl QUAGMIRESan area of marshy groundQUAGMIRY adj QUAGMIRIER QUAGMIRIESTmarshyQUAHAUG n pl QUAHAUGSquahogQUAHOG n pl QUAHOGSan edible clamQUAI n pl QUAISquayQUAICH n pl QUAICHS or QUAICHESa small drinking vesselQUAIGH n pl QUAIGHSquaichQUAIL v QUAILED QUAILING QUAILSto cowerQUAINT adj QUAINTER QUAINTESTpleasingly oldfashioned or unfamiliarQUAINTLY advQUAKE v QUAKED QUAKING QUAKESto shake or vibrateQUAKER n pl QUAKERSone that quakesQUAKY adj QUAKIER QUAKIESTtending to quakeQUAKILY advQUALE n pl QUALIAa property considered apart from things having the propertyQUALIFY v QUALIFIED QUALIFYING QUALIFIESto make suitable or capableQUALITY n pl QUALITIESa characteristic or attributeQUALM n pl QUALMSa feeling of doubt or misgivingQUALMISH adj having qualmsQUALMY adj QUALMIER QUALMIESTqualmishQUAMASH n pl QUAMASHEScamassQUANDANG n pl QUANDANGSquandongQUANDARY n pl QUANDARIESa dilemmaQUANDONG n pl QUANDONGSan Australian treeQUANGO n pl QUANGOSa public administrative boardQUANT v QUANTED QUANTING QUANTSto propel through water with a poleQUANTA pl of quantumQUANTAL adj pertaining to a quantumQUANTIC n pl QUANTICSa type of mathematical functionQUANTIFY v QUANTIFIED QUANTIFYING QUANTIFIESto determine the quantity ofQUANTILE n pl QUANTILESany of the values of a random variable that divides a frequency distributionQUANTISE v QUANTISED QUANTISING QUANTISESto quantizeQUANTITY n pl QUANTITIESa specified or indefinite amount or numberQUANTIZE v QUANTIZED QUANTIZING QUANTIZESto limit the possible values of to a discrete setQUANTONG n pl QUANTONGSquandongQUANTUM n pl QUANTAa fundamental unit of energyQUARE adj queerQUARK n pl QUARKSa hypothetical atomic particleQUARREL v QUARRELED QUARRELING QUARRELS or QUARRELLED QUARRELLING QUARRELSto engage in an angry disputeQUARRIER n pl QUARRIERSone that quarriesQUARRY v QUARRIED QUARRYING QUARRIESto dig stone from an excavationQUART n pl QUARTSa liquid measure of capacityQUARTAN n pl QUARTANSa recurrent malarial feverQUARTE n pl QUARTESa fencing thrustQUARTER v QUARTERED QUARTERING QUARTERSto divide into four equal partsQUARTERN n pl QUARTERNSonefourth of somethingQUARTET n pl QUARTETSa group of fourQUARTIC n pl QUARTICSa type of mathematical functionQUARTIER n pl QUARTIERSa district in a French cityQUARTILE n pl QUARTILESa portion of a frequency distributionQUARTO n pl QUARTOSthe size of a piece of paper cut four from a sheetQUARTZ n pl QUARTZESa mineralQUASAR n pl QUASARSa distant celestial object emitting strong radio wavesQUASH v QUASHED QUASHING QUASHESto suppress completelyQUASHER n pl QUASHERSone that quashesQUASI adj similar but not exactly the sameQUASS n pl QUASSESkvassQUASSIA n pl QUASSIASa tropical treeQUASSIN n pl QUASSINSa medicinal compound obtained from the wood of a quassiaQUATE adj quietQUATORZE n pl QUATORZESa set of four cards of the same denomination scoring fourteen pointsQUATRAIN n pl QUATRAINSa stanza of four linesQUATRE n pl QUATRESthe four at cards or diceQUAVER v QUAVERED QUAVERING QUAVERSto quiverQUAVERER n pl QUAVERERSone that quaversQUAVERY adj quiveryQUAY n pl QUAYSa wharfQUAYLIKE adjQUAYAGE n pl QUAYAGESa charge for the use of a quayQUAYSIDE n pl QUAYSIDESthe area adjacent to a quayQUBIT n pl QUBITSa quantum bitQUBYTE n pl QUBYTESa sequence of eight quantum bitsQUEAN n pl QUEANSa harlotQUEASY adj QUEASIER QUEASIESTeasily nauseatedQUEASILY advQUEAZY adj QUEAZIER QUEAZIESTqueasyQUEEN v QUEENED QUEENING QUEENSto make a queen a female monarch ofQUEENCUP n pl QUEENCUPSa flowering plantQUEENDOM n pl QUEENDOMSthe area ruled by a queenQUEENLY adj QUEENLIER QUEENLIESTof or befitting a queenQUEENY adj QUEENIER QUEENIESTshowily effeminateQUEER adj QUEERER QUEERESTdeviating from the expected or normalQUEER v QUEERED QUEERING QUEERSto spoil the effect or success ofQUEERISH adj somewhat queerQUEERLY adv in a queer mannerQUELEA n pl QUELEASan African weaverbirdQUELL v QUELLED QUELLING QUELLSto suppressQUELLER n pl QUELLERSone that quellsQUENCH v QUENCHED QUENCHING QUENCHESto put out or extinguishQUENCHER n pl QUENCHERSone that quenchesQUENELLE n pl QUENELLESa type of dumplingQUERCINE adj pertaining to oaksQUERIDA n pl QUERIDASa female sweetheartQUERIED past tense of queryQUERIER n pl QUERIERSa queristQUERIES present 3d person sing of queryQUERIST n pl QUERISTSone who queriesQUERN n pl QUERNSa handturned grain millQUERY v QUERIED QUERYING QUERIESto questionQUEST v QUESTED QUESTING QUESTSto make a searchQUESTER n pl QUESTERSone that questsQUESTION v QUESTIONED QUESTIONING QUESTIONSto put a question an inquiry toQUESTOR n pl QUESTORSquaestorQUETZAL n pl QUETZALS or QUETZALESa tropical birdQUEUE v QUEUED QUEUING or QUEUEING QUEUESto line upQUEUER n pl QUEUERSone that queuesQUEY n pl QUEYSa young cowQUEZAL n pl QUEZALS or QUEZALESquetzalQUIBBLE v QUIBBLED QUIBBLING QUIBBLESto argue over trivialitiesQUIBBLER n pl QUIBBLERSone that quibblesQUICHE n pl QUICHESa custardfilled pastryQUICK adj QUICKER QUICKESTacting or capable of acting with speedQUICK n pl QUICKSa sensitive area of fleshQUICKEN v QUICKENED QUICKENING QUICKENSto speed upQUICKIE n pl QUICKIESsomething done quicklyQUICKLY adv in a quick mannerQUICKSET n pl QUICKSETSa plant suitable for hedgesQUID n pl QUIDSa portion of something to be chewedQUIDDITY n pl QUIDDITIESthe true nature of a thingQUIDNUNC n pl QUIDNUNCSa nosy personQUIET adj QUIETER QUIETESTmaking little or no noiseQUIET v QUIETED QUIETING QUIETSto cause to be quietQUIETEN v QUIETENED QUIETENING QUIETENSto quietQUIETER n pl QUIETERSone that quietsQUIETISM n pl QUIETISMSa form of religious mysticismQUIETIST n pl QUIETISTSan advocate of quietismQUIETLY adv in a quiet mannerQUIETUDE n pl QUIETUDESa state of tranquillityQUIETUS n pl QUIETUSESa final settlementQUIFF n pl QUIFFSa lock of hair at the front of the headQUIFFED adjQUILL v QUILLED QUILLING QUILLSto press small ridges inQUILLAI n pl QUILLAISan evergreen treeQUILLAIA n pl QUILLAIASa quillaiQUILLAJA n pl QUILLAJASa quillaiQUILLET n pl QUILLETSa trivial distinctionQUILLING n pl QUILLINGSmaterial that is quilledQUILLOW n pl QUILLOWSa quilt formed into a pillowQUILT v QUILTED QUILTING QUILTSto stitch together with padding in betweenQUILTER n pl QUILTERSone that quiltsQUILTING n pl QUILTINGSmaterial that is used for making quiltsQUIN n pl QUINSa quintupletQUINARY n pl QUINARIESa group of fiveQUINATE adj arranged in groups of fiveQUINCE n pl QUINCESan applelike fruitQUINCUNX n pl QUINCUNXESan arrangement of five objectsQUINELA n pl QUINELASquinellaQUINELLA n pl QUINELLASa type of bet in horse racingQUINIC adj pertaining to quinineQUINIELA n pl QUINIELASquinellaQUININ n pl QUININSquinineQUININA n pl QUININASquinineQUININE n pl QUININESa medicinal alkaloidQUINNAT n pl QUINNATSa food fishQUINOA n pl QUINOASa weedy plantQUINOID n pl QUINOIDSa chemical compoundQUINOL n pl QUINOLSa chemical compoundQUINOLIN n pl QUINOLINSa chemical compoundQUINONE n pl QUINONESa chemical compoundQUINSY n pl QUINSIESan inflammation of the tonsilsQUINSIED adjQUINT n pl QUINTSa group of fiveQUINTA n pl QUINTASa country estate in Portugal or Latin AmericaQUINTAIN n pl QUINTAINSan object used as a target in a medieval sportQUINTAL n pl QUINTALSa unit of weightQUINTAN n pl QUINTANSa recurrent feverQUINTAR n pl QUINTARSqintarQUINTE n pl QUINTESa position in fencingQUINTET n pl QUINTETSa group of fiveQUINTIC n pl QUINTICSa type of mathematical functionQUINTILE n pl QUINTILESa portion of a frequency distributionQUINTIN n pl QUINTINSa fine linenQUINZHEE n pl QUINZHEESa shelter made by hollowing out a pile of snowQUINZIE n pl QUINZIESquinzheeQUIP v QUIPPED QUIPPING QUIPSto make witty remarksQUIPPER n pl QUIPPERSone that quipsQUIPPISH adj wittyQUIPPU n pl QUIPPUSquipuQUIPPY adj QUIPPIER QUIPPIESTwittyQUIPSTER n pl QUIPSTERSone that quipsQUIPU n pl QUIPUSan ancient calculating deviceQUIRE v QUIRED QUIRING QUIRESto arrange sheets of paper in sets of twentyfourQUIRK v QUIRKED QUIRKING QUIRKSto twistQUIRKISH adj quirkyQUIRKY adj QUIRKIER QUIRKIESTpeculiarQUIRKILY advQUIRT v QUIRTED QUIRTING QUIRTSto strike with a riding whipQUISLING n pl QUISLINGSa traitor who aids the invaders of his countryQUIT v QUITTED QUITTING QUITSto end ones engagement in or occupation withQUITCH n pl QUITCHESa perennial grassQUITE adv to the fullest extentQUITRENT n pl QUITRENTSa fixed rent due from a socage tenantQUITTED past tense of quitQUITTER n pl QUITTERSone that quitsQUITTING present participle of quitQUITTOR n pl QUITTORSan inflammation of an animals hoofQUIVER v QUIVERED QUIVERING QUIVERSto shake with a slight but rapid motionQUIVERER n pl QUIVERERSone that quiversQUIVERY adj marked by quiveringQUIXOTE n pl QUIXOTESa quixotic personQUIXOTIC adj extremely idealisticQUIXOTRY n pl QUIXOTRIESquixotic action or thoughtQUIZ v QUIZZED QUIZZING QUIZZESto test the knowledge of by asking questionsQUIZZER n pl QUIZZERSone that quizzesQULLIQ n pl QULLIQSkudlikQUOD n pl QUODSa prisonQUOHOG n pl QUOHOGSquahogQUOIN v QUOINED QUOINING QUOINSto secure with a type of wedgeQUOINING n pl QUOININGSthe materials as stones or bricks used to form an external corner of a buildingQUOIT v QUOITED QUOITING QUOITSto play a throwing game similar to ringtossQUOKKA n pl QUOKKASa shorttailed wallabyQUOLL n pl QUOLLSa small spotted marsupialQUOMODO n pl QUOMODOSa means or mannerQUONDAM adj that once wasQUORUM n pl QUORUMSa particularly chosen groupQUOTA n pl QUOTASa proportional part or shareQUOTE v QUOTED QUOTING QUOTESto repeat the words ofQUOTABLE adjQUOTABLY advQUOTER n pl QUOTERSone that quotesQUOTH v said  QUOTH is the only accepted form of this verb it cannot be conjugatedQUOTHA interj  used to express surprise or sarcasmQUOTIENT n pl QUOTIENTSthe number resulting from the division of one number by anotherQUOTING present participle of quoteQURSH n pl QURSHESa monetary unit of Saudi ArabiaQURUSH n pl QURUSHESqurshQWERTY n pl QWERTYSa standard keyboard").
+```
+入口(rabaska, n, [rabaskas], "大型独木舟").
+条目(拉巴特, 名词, [拉巴特斯], "附在牧师衣领上的硬领")。
+entry(rabato, n, [饰边领], "宽大的镶边蕾丝领").
+条目(刨槽, 动词, [开槽, 打槽, 刨槽], "切割槽口").
+entry(犹太老师, n, [犹太老师们], "或者 RABBIES 一个犹太精神领袖")。
+条目(拉比, 名词, [拉比们], "拉比").
+entry(拉比的, 形容词, [], "与拉比有关").
+entry(兔子, 动词, [兔子了, 兔子中, 兔子们], "捕猎兔子等啮齿类哺乳动物")。
+entry(捕兔者, n, [捕兔者们], "一个捕兔的人").
+entry(养兔场, n, [养兔场], "一个养兔子的地方").
+entry(兔子般的, 形容词, [], "像兔子").
+entry(暴民, v, [喧嚣,喧嚷着,聚集成群], "聚众").
+entry(rabbler, n, [rabblers], "用於攪拌的鐵棒").
+entry(拉波尼, n, [拉波尼斯], "犹太人敬重的称呼，意为大师、教师")
+entry(狂犬病的, 形容词, [], "与狂犬病有关").
+entry(狂犬病, 形容词, [], "患狂犬病的RABIDLY 副词").
+```prolog
+entry(狂犬病发作, n, [狂犬病发作症状], "处于狂犬状态的状态").
+```
+entry(狂犬病, n, [狂犬病], "一种传染性病毒病RABIETIC 形容词").
+入口(浣熊, 名词, [浣熊们], "一种食肉哺乳动物")。
+entry(比赛, 动词, [比赛了, 正在比赛, 比赛], "在速度竞赛中竞争").
+entry(赛马迷, n, [赛马迷们], "经常观看赛马的人").
+entry(竞争物, n, [竞争物], "一种化学盐").
+entry(总状花序, n, [总状花序], "一种花在轴上的排列方式").
+entry(外消旋, 形容词, [], "与消旋体有关").
+entry(对映异构, n, [对映异构体], "呈现消旋状态").
+entry(外消旋化, v, [外消旋化过, 外消旋化中, 外消旋化], "转化成外消旋化合物").
+entry(聚伞花序的, 形容词, [], "关于一个总状花序")
+entry(總狀, 形容詞, [], "呈總狀花序").
+```prolog
+entry(葡萄状, 形容词, [], "葡萄状").
+```
+entry(赛跑者, 名词, [赛跑者们], "赛跑的人").
+```prolog
+entry(竞走, 动词, [竞走过, 竞走中, 竞走], "以速度行走，同时保持双脚接触地面并保持支撑腿伸直").
+```
+入口(赛道, 名词, [赛道], "一个用于引导水流的渠道").
+entry(rachet, v, [racheted,racheting,rachets], "棘轮").
+entry(小穗轴, n, [小穗轴的复数形式], "草类小穗的中央茎干").
+entry(脊柱, n, [脊柱], "或 RACHIDES脊柱RACHIAL 形").
+entry(佝偻病, 名词, [佝偻病], "佝偻病的，佝偻病性形容词").
+entry(种族, 形容词, [], "关于种族群体地种族副词").
+entry(更激动人心的, 比较级, [], "生动的").
+entry(最煽情的, 最高级, [], "racy的").
+entry(放荡地, 副词, [], "以一种放荡的方式").
+entry(活泼, n, [活泼的特质], "充满活力的品质").
+入口(赛车, 名词, [赛车比赛], "从事速度比赛的运动").
+入口(賽狗場, n, [賽狗場], "提供老虎机的赛道").
+entry(种族主义, 名词, [种族主义], "种族优越的学说").
+entry(种族主义者, n, [种族主义者], "种族主义的提倡者").
+条目(架子, v, [放置于架上, 正在架上, 架子], "放置在一种框架中")。
+entry(搁置者, n, [搁置者们], "搁置的人").
+entry(喧闹, v, [喧闹着,喧闹中,喧闹], "发出很大的噪音")。
+entry(rackety, 形容词, [], "最喧闹 喧闹的").
+条目(架满, n, [架满], "一个架子可以容纳的数量").
+```prolog
+entry(rackle, 形容词, [], "鲁莽的轻率的").
+```
+entry(齿轮机制, n, [齿轮机制], "一种机制类型").
+入口(芝士火锅, 名词, [芝士火锅], "一种奶酪菜肴")。
+entry(雷达发射器, 名词, [雷达发射器们], "一种类型的雷达发射器").
+entry(浣熊, n, [浣熊], "浣熊").
+entry(球拍, n, [球拍], "用于各种球类运动的轻质工具").
+入口(挑逗, 形容词, [], "更具挑逗性 最具挑逗性 接近不正当或下流").
+entry(雷达, 动词, [已雷达, 正在雷达, 雷达], "害怕").
+条目(辐射, 形容词, [], "非常吸引人或好").
+entry(雷达, n, [雷达], "电子定位装置").
+入口(织篱, v, [织篱过, 正在织篱, 织篱], "交织在一起").
+```prolog
+entry(辐射的, 形容词, [], "能够辐射").
+```
+entry(径向, n, [径向], "从中心发散的一部分").
+entry(radiale, n, [桡侧骨], "手腕骨的一种").
+entry(辐射地, 副词, [], "以发散的方式").
+entry(弧度, n, [弧度], "角度测量单位").
+entry(光辉, n, [光辉们], "亮度").
+entry(光辉, n, [光辉], "光芒").
+entry(辐射点, n, [辐射点们], "一个光线或能量发出的点")
+entry(辐射, v, [辐射了,辐射中,辐射], "发射光线").
+入口(散热器, 名词, [散热器们], "一种加热设备")。
+entry(根基, n, [根基], "在化合物中作为一个单位起作用的一组原子").
+入口(被开方数, n, [被开方数们], "数学中的一个量").
+entry(使生根, 动词, [使生根了,使生根中,使生根], "促使扎根")。
+entry(小根, n, [小根], "根毛").
+entry(根, a, [], "基数的复数形式").
+词条(胚根, 名词, [胚根], "植物胚胎的一部分")。
+entry(半径, a, [], "radius的复数").
+entry(无线电, v, [无线电广播, 无线电传输, 无线电], "或无线电波装置通过无线电进行通信的设备").
+entry(无线电员, n, [无线电员], "无线电操作员或技术员").
+entry(萝卜, 名词, [萝卜], "一种辛辣的可食用根").
+entry(镭, n, [镭元素], "一种放射性元素")。
+entry(radius, n, [半径], "或 半径 从圆心到圆周的直线").
+entry(半径, v, [使成圆形中, 使成圆形, 使成圆形们], "赋予圆形的形式")
+entry(基, n, [基数], "或 RADICES一植物的根").
+entry(雷达罩, n, [雷达罩], "用于保护雷达天线的圆顶状设备").
+entry(氡, n, [氡], "一种放射性元素").
+条目(齿舌, 名词, [齿舌], "或 RADULAE 一种软体动物的舌状器官 RADULAR 形容词")。
+entry(放射性废物, n, [放射性废物s], "放射性废物").
+entry(流氓, n, [流氓们], "市井小民").
+词条(raffia, n, [raffias], "棕榈树").
+entry(raffish, 形容词, [], "俗丽").
+entry(抽奖, v, [抽奖了,抽奖中,抽奖们], "通过一种彩票形式处理").
+```prolog
+entry(抽奖者, n, [抽奖者们], "抽奖的人").
+```
+```prolog
+entry(筏, v, [用筏子运输, 筏运, 筏子], "在一种浮力结构（筏子）上运输").
+```
+输入(椽子, 名词, [椽子], "支撑梁").
+entry(椽架, 形容词, [], "配备椽架").
+entry(激流勇进, n, [激流勇进], "在木筏上沿着河流旅行的运动")
+条目(木筏工人, 名词, [木筏工人们], "管理木筏的人").
+entry(破布, v, [破布的,破布着,破布们], "责骂").
+entry(拉格, 名词, [拉格], "一种印度音乐形式").
+entry(杂物袋, n, [杂物袋], "用于储存布料碎片的袋子").
+entry(怒火, 动词, [怒火了, 怒火着, 怒火], "以暴怒的方式行动或说话")。
+entry(ragee, n, [ragees], "ragi").
+入口(狂怒的, 形容词, [], "充满暴力的愤怒").
+entry(rager, 名词, [复数: ragers], "发怒者").
+entry(ragg, n, [raggs], "羊毛纤维").
+entry(ragga, n, [雷鬼嘻哈], "结合了雷鬼和嘻哈的音乐").
+```prolog
+entry(褴褛的, 形容词, [], "更褴褛的 最褴褛的 破烂的 破烂不堪地 adv").
+```
+entry(褴褛的, adj, [], "较为褴褛 极其褴褛有些褴褛").
+entry(raggee, n, [raggees], "鬡").
+入口(拉吉, 复数, [], "拉吉的").
+entry(欺负, n, [欺负行为], "通过用抹布涂漆来装饰墙壁的技术").
+条目(拉格尔, 名词, [拉格尔们], "切割在石砌中的槽").
+入口(破烂, n, [破布们], "粟").
+entry(小米, n, [小米们], "一种东印度谷物草").
+entry(狂怒, 现在时, [], "rage 的分词形式")
+entry(怒气冲冲地, 副词, [], "以愤怒的方式")
+入口(拉格兰, n, [拉格兰], "一种类型的大衣").
+入口(拾破烂者, n, [拾破烂者们], "收集和出售布料碎片的人").
+entry(炖菜, v, [炖菜过,炖菜进行中,炖菜们], "制成调味浓郁的炖菜").
+entry(杂牌, n, [杂牌们], "乌合之众").
+entry(黄尾鸲, 形容词, [], "破烂的 寒酸的")。
+entry(拉格泰姆, n, [拉格泰姆们], "一种美国舞蹈音乐风格").
+entry(敞篷车, n, [敞篷车], "一种可折叠车顶的汽车").
+entry(豚草, n, [豚草], "一种杂草").
+条目(沙泥蠕虫, 名词, [沙泥蠕虫们], "一种水生蠕虫")。
+entry(豚草, 名词, [豚草们], "一种开花植物").
+```prolog
+entry(啦, 感叹词, [], "用于为团队或球员加油").
+```
+entry(rai, n, [rais], "一种受欢迎的阿尔及利亚音乐风格").
+entry(鰩魚, n, [鰩魚們], "雷亞赫").
+entry(突袭, 动词, [突袭了,突袭中,突袭], "进行突然攻击")。
+entry(袭击者, n, [袭击者们], "进行袭击的人").
+entry(铁路, v, [责骂,责骂中,责骂们], "用侮辱性或无礼的语言责骂").
+entry(铁路路基, n, [铁路路基], "铺设铁路的石头或砾石层").
+entry(railbird, n, [赛马迷], "赛马爱好者").
+entry(轨道巴士, n, [轨道巴士们], "或 轨道巴士们 一个装备在轨道上运行的客车").
+entry(铁路车厢, n, [铁路车厢], "铁路的一种车厢").
+entry(railcard, n, [火车票折扣卡], "一张允许以较低价格购买火车票的卡片").
+entry(铁路修工, n, [铁路修工们], "一个要铺铁轨的人").
+entry(铁路终点, n, [铁路终点], "铁路线路的终点").
+entry(栏杆, n, [栏杆], "像栅栏的屏障").
+entry(玩笑, n, [玩笑], "善意的戏弄").
+entry(铁路工人, n, [铁路工人们], "铁路工作人员")。
+entry(铁路, v, [铁路化,铁路化中,铁路], "通过铁路运输一种运行机车的道路").
+entry(铁路, n, [铁路], "铁路").
+entry(服装, n, [服装], "clothing").
+```prolog
+条目(雨, 动词, [下过雨,正在下雨,下雨], "像雨滴一样从云中凝结而下的水").
+```
+条目(雨带, 名词, [雨带], "太阳光谱中的一个暗带").
+条目(雨鸟, 名词, [雨鸟], "一种鸟")。
+entry(彩虹, n, [彩虹], "天空中形成的一道光谱彩虹").
+entry(雨衣, n, [雨衣], "防水大衣").
+条目(雨滴, n, [雨滴], "雨的一滴").
+entry(降雨, n, [降雨量], "一次降水").
+条目(雨量更大, 比较级, [], "更雨的").
+条目(最雨, 最高级, [], "关于下雨的").
+entry(下雨地, 副词, [], "以一种下雨的方式").
+入口(无雨, 形容词, [], "没有雨")。
+entry(降雨中止, n, [降雨中止们], "在降水中发生的原子辐射").
+雨衣条目，名词，[雨衣]，“一件防水夹克和裤子”。
+```
+入口(雨水冲刷, 动词, [雨水冲刷过, 雨水冲刷中, 雨水冲刷], "由雨水冲刷而下坡的材料")。
+```
+```prolog
+entry(雨具, n, [雨具], "防水服装").
+```
+entry(多雨, 形容词, [], "更雨的 最雨的marked by rain").
+entry(提高, v, [提高了, 提高中, 提高], "以移动到更高的位置").
+entry(提升者, n, [提升者们], "一个能够提升的人").
+词条(葡萄干, n, [葡萄干], "一种干葡萄葡萄干adj.")。
+entry(增长, n, [增长], "抬升").
+```prolog
+entry(系统化, 形容词, [], "系统地安排").
+```
+条目(raita, n, [raitas], "由酸奶和切碎的蔬菜或水果制成的印度沙拉")。
+entry(拉杰, 名词, [拉杰斯], "统治主权").
+entry(raja, n, [国王], "王公").
+entry(拉贾, n, [拉贾们], "印度的国王或王子").
+entry(耙, v, [耙了, 耙着, 耙着], "用有齿的工具收集").
+entry(拉基, n, [拉基酒], "拉基").
+条目(放荡者, 名词, [放荡者们], "一个缺乏道德约束的男人").
+entry(回佣, n, [回佣], "利润的一部分").
+entry(raker, n, [rakers], "耙东西的人").
+```prolog
+条目(raki, n, [rakis], "一种土耳其利口酒").
+```
+条目(耙正在[], "用耙的分词")。
+条目(放荡的, 形容词, [], "潇洒地").
+条目(樂燒, 名, [樂燒陶器], "一种日本釉面陶器").
+entry(罗音, n, [罗音], "一种异常的呼吸声音").
+条目(集结者, 名词, [集结者们], "集结的人").
+entry(秧鸟科, 形容词, [], "与一类沼泽鸟有关").
+entry(集会, v, [集会了,集会中,集会], "为了共同的目的召集").
+entry(拉力赛, n, [拉力赛], "一种汽车竞赛").
+`entry(集会赛, n, [集会赛], "一种驾驶拉力赛的运动").`
+entry(拉力赛选手, n, [拉力赛选手们], "拉力赛的参与者").
+entry(拉尔夫, v, [拉尔夫过, 拉尔夫中, 拉尔夫们], "呕吐").
+入口(公羊, v, [撞击, 撞击着, 撞], "猛烈地撞击").
+entry(ramada, n, [凉棚], "有屋顶且敞开的遮蔽物").
+entry(ramal, adj, [], "关于分支").
+entry(ramate, 形容词, [], "有分支的").
+entry(rambla, n, [ramblas], "干涸的峡谷")。
+entry(漫步, v, [漫步了,漫步中,漫步], "徘徊").
+entry(漫步者, n, [漫步者们], "漫步之人").
+入口(紅毛丹, 名詞, [紅毛丹], "馬來樹的可食用果實").
+entry(苎麻, n, [苎麻们], "苎麻").
+entry(烤碗, n, [烤碗], "奶酪菜肴").
+入口(拉面, 名词, [ramenj], "在肉和蔬菜汤中的日本面条")。
+entry(鳞屑, n, [鱗片], "形成在叶子表面的鳞片")。
+```
+条目(烤盅, n, [烤盅], "小烤盅").
+```
+entry(ramet, n, [ramets], "克隆的独立个体").
+entry(rami, pl, [], "拉穆斯的").
+entry(苎麻, n, [苎麻], "一种亚洲灌木").
+entry(分枝状, 形容词, [], "形状如树枝").
+entry(分支, v, [已分支,分支中,分支], "分成多个分支").
+entry(拉米莉埃, n, [拉米莉埃斯], "拉米里埃").
+entry(ramillie, n, [ramillies], "假发的一种").
+entry(ramin, n, [ramins], "一种马来西亚树").
+entry(ramjet, n, [冲压发动机], "一种发动机类型").
+entry(猛力撞击, 过去时, [], "ram的时态").
+entry(撞桩机, n, [撞桩机], "用于撞击的装置").
+entry(rammier, 比较级, [], "of rammy").
+entry(极其猛烈, 最高级, [], "猛烈的").
+entry(冲撞, 现在时, [], "ram 的分词").
+entry(公羊般, 形容词, [], "形似公羊的公羊").
+entry(rammy, adj, [], "RAMMIER RAMMIESTrammish").
+entry(拉蒙娜, n, [拉蒙娜们], "薄荷科植物").
+entry(ramose, 形容词, [], "拥有许多分支RAMOSELY副词").
+entry(ramosity, n, [ramosities], "分枝状态").
+entry(枝状的, 形容词, [], "枝状的").
+entry(坡道, v, [坡起,坡升,坡起], "用后腿站立或抬起").
+entry(暴怒, v, [狂奔,狂暴中,狂奔], "疯狂或猛烈地移动").
+条目(狂暴者, n, [狂暴者们], "一个进行狂暴行为的人").
+入口(猖獗, n, [猖獗], "猖獗的状态").
+入口(猖獗, 形容词, [], "不受限制的").
+```prolog
+entry(壁垒, v, [筑垒, 筑垒中, 壁垒], "用防御堤防装修").
+```
+入口(树桩, 名词, [树桩们], "一棵站立的死树")。
+entry(燈心草, 名词, [燈心草], "一种欧洲植物").
+入口(坡桩, n, [坡桩们], "枯木").
+entry(ramrod, v, [ramrodded, ramrodding, ramrods], "监督").
+entry(蜗牛螺, n, [蜗牛螺], "用作水族馆清道夫的蜗牛").
+entry(野蒜, n, [野蒜叶], "大叶蒜").
+entry(芝麻菜, n, [芝麻菜], "一种热带植物").
+entry(苴麻, n, [苴麻], "苴麻").
+条目(枝状的, 形容词, [], "有许多小分支").
+entry(细枝的, 形容词, [], "有分枝的").
+entry(枝, n, [枝], "像结构一样的分支部分")
+entry(跑, 过去, [], "运行和滑行的时态").
+entry(兰斯, 名词, [兰斯们], "一种大理石品种").
+entry(牧场, v, [牧场过的,牧场工作,牧场], "在一个农场工作，一个饲养牲畜的机构").
+entry(牧场主, n, [牧场主们], "拥有或在牧场工作的人").
+entry(牧歌, n, [牧歌], "一种墨西哥乡村音乐").
+entry(牧场主, n, [牧场主们], "牧场主").
+entry(牧场经营, n, [牧场经营活动], "经营牧场的工作").
+```prolog
+entry(牧场主, n, [牧场工人], "一个牧场主").
+```
+entry(牧场, n, [牧场], "牧场").
+entry(腐臭, 形容词, [], "有令人不悦的气味或味道腐臭地 副词").
+entry(rancor, n, [怨毒], "苦涩且怀有恶意的敌意RANCORED 形容词")
+entry(怨恨, n, [怨恨], "敌意")。
+entry(rand, n, [鞋带], "鞋后跟处的皮革条").
+entry(randan, n, [randans], "由三人划动的小船").
+entry(randier, 比较级, [], "of randy").
+```prolog
+entry(randies, pl, [], "兰迪的").
+```
+```prolog
+条目(随机, n, [随机的], "一个偶然的过程").
+```
+entry(随机的, 副词, [], "以杂乱无章的方式").
+entry(randy, adj, [], "RANDIER RANDIESTlustful").
+entry(兰迪, n, [兰迪们], "粗鲁的人").
+entry(兰妮, n, [兰妮们], "兰尼").
+entry(横排, 名词, [横排], "沿着一条路的一排长地块").
+入口(范围, v, [排列, 排序, 排列], "按特定顺序安置")。
+条目(护林员, n, [护林员们], "监督森林管理的官员")。
+entry(修长, adj, [], "修长的 修长的最高级 高高瘦瘦").
+entry(拉尼, 名词, [拉尼们], "国王的妻子").
+entry(蛙科动物, n, [蛙科动物], "一种大型家族的青蛙").
+entry(rank, adj, [], "刺鼻且令人不悦的气味或味道").
+entry(排名, v, [排位, 排名, 排名情况], "决定相对位置").
+entry(排名者, n, [排名者们], "一名入伍士兵").
+entry(ranking, n, [排名], "排名个人名单")。
+entry(rankish, 形容词, [], "有点刺鼻").
+```prolog
+entry(rankle, v, [rankled,rankling,rankles], "引起恼怒或愤恨").
+```
+条目(无等级, 形容词, [], "没有等级").
+entry(排位, 副词, [], "以等级方式").
+entry(等级性, n, [等级性], "发臭的状态").
+条目(枯木, 名词, [枯木], "枯树").
+入口(洗劫, v, [洗劫了, 洗劫中, 洗劫], "彻底搜索")。
+```prolog
+条目(赎金, v, [赎金了, 赎金中, 赎金], "通过支付要求的价格来获得释放").
+```
+entry(绑架者, n, [绑架者们], "进行绑架的人").
+entry(咆哮, 动, [咆哮了,咆哮着,咆哮], "以大声或激烈的方式说话")。
+entry(咆哮者, n, [咆哮者们], "一个咆哮的人").
+```prolog
+entry(咆哮, npl, [], "大声而愤怒的评论").
+```
+entry(下舌囊肿, n, [下舌囊肿们], "一种在舌头下面形成的囊肿RANULAR 形容词").
+入口(rap, v, [rapped, rapping, raps], "敲击").
+entry(贪婪, n, [贪婪性], "极度渴望的特性")
+entry(强奸, v, [强奸了,强奸中,强奸], "强迫屈服于性交").
+条目(强奸犯, 名词, [强奸犯们], "一个强奸者")。
+entry(油菜籽, n, [油菜籽], "一种欧洲草本植物的种子")。
+entry(raphe, 名词, [raphes], "或者 RAPHAE 是器官或部分的两半之间的缝状脊")
+entry(拉菲亚, n, [拉菲亚], "raffia").
+条目(raphide, n, [raphides], "在植物细胞中出现的针状晶体")。
+entry(raphis, n, [raphides], "针晶体").
+条目(快速, 形容词, [], "更快速 最快速快速移动地迅速地 副词").
+条目(湍急, 名词, [湍流], "河流中水流湍急的部分").
+entry(速度, n, [速度們], "迅速").
+entry(剑, n, [剑], "一种长而细的剑RAPIERED adj").
+entry(劫掠, n, [劫掠], "用武力夺取财产").
+entry(强奸, 现在时, [], "rape 的分词").
+entry(rapini, npl, [], "rappini").
+entry(强奸犯, n, [强奸犯们], "强奸的人").
+条目(rapparee, n, [rapparees], "掠夺者")。
+词条(rap过, 过去时, [], "rap 的时态")。
+条目(拉配, 名词, [拉配斯], "一种浓烈的鼻烟").
+entry(沿绳下降, v, [沿绳下降了,沿绳下降中,沿绳下降], "或 RAPPELLED RAPPELLING RAPPELS通过绳索从陡峭的高度下降").
+entry(瑞分, n, [rappen], "瑞士的货币单位").
+entry(说唱歌手, n, [说唱歌手们], "说唱的人").
+entry(说唱, 现在, [], "rap的分词").
+条目(拉皮尼, 复数名词, [], "未成熟的芜菁植物").
+entry(报告, n, [报告], "和谐的关系").
+entry(rapt, adj, [], "全神贯注地 RAPTLY 副词").
+entry(raptness, n, [raptnesses], "出神的状态").
+入口(猛禽, 名词, [猛禽], "一种食肉鸟").
+entry(狂喜, v, [狂喜, 狂喜中, 狂喜], "充满巨大欢乐").
+entry(稀有, 形容词, [], "较稀有 最稀有 不常发生的").
+entry(罕见, 动词, [罕见的,正在罕见,罕见们], "热情").
+入口(稀有兔子, 名词, [稀有兔子们], "一种奶酪菜肴")。
+`条目(稀释器, 名词, [稀释器们], "一个使稀薄的人或物").`
+entry(稀薄化, v, [稀薄化了, 正在稀薄化, 使稀薄化], "使密度减小").
+entry(很少, 副词, [], "不经常").
+entry(稀有, n, [稀有性], "稀有的性质").
+entry(较稀有, 比较级, [], "稀有的").
+entry(早熟, n, [早熟的], "一种早熟的水果").
+entry(最稀有, 最高级, [], "稀有的").
+条目(稀薄化, 动词, [稀薄化了,稀薄化中,稀薄化], "使稀薄化")。
+条目(热切, 形容词, [], "充满热情").
+entry(稀有性, n, [稀有性们], "稀有").
+entry(ras, n, [rases], "衣索比亚的王子")。
+entry(无须魮, n, [无须魮属], "一种热带鱼").
+entry(流氓, n, [流氓], "不诚实或不道德的人").
+entry(淘气, 形容词, [], "淘气鬼的特征").
+entry(rase, v, [rased, rasing, rases], "夷为平地").
+entry(剃刀者, n, [剃刀者们], "剃除的人").
+entry(鲁莽, 形容词, [], "非常鲁莽 不顾后果或未经深思熟虑的行为").
+```prolog
+条目(皮疹, 名词, [皮疹], "一种皮肤爆发RASHLIKE 形容词").
+```
+条目(培根, 名词, [培根片], "一片薄肉").
+entry(鲁莽地, 副词, [], "以鲁莽的方式").
+条目(鲁莽, 名词, [鲁莽状态], "being rash的状态").
+```prolog
+entry(rasing, 现在时, [], "rase的分词").
+```
+entry(刨地的, 形容词, [], "习惯性地刨地寻找食物").
+entry(树莓, v, [树莓,树莓中,树莓们], "用粗糙的东西摩擦").
+入口（rasper，n，[raspers]，“拉锯的工具”）。
+入口(刮削, n, [刮削物], "用粗锉刀去除的一小块木头").
+entry(raspish, 形容词, [], "易怒的").
+条目(沙哑, 形容词, [], "较沙哑 最沙哑").
+条目(摔跤, 动词, [摔跤过, 摔跤中, 摔跤], "摔跤").
+entry(摔跤选手, n, [摔跤选手们], "一个摔跤手")。
+entry(光栅, n, [光栅], "电视机显示图像的显像管区域").
+entry(抹除, n, [抹除们], "擦除").
+entry(大鼠, 动词, [捕大鼠, 捕大鼠中, 捕大鼠们], "捕猎大鼠长尾啮齿动物").
+entry(可评估, 形容词, [], "可被评估的方式").
+`entry(ratables, npl, [], "应税财产").`
+entry(榴莲酒, 名词, [榴莲酒], "榴莲酒").
+entry(杏仁香酒, n, [杏仁香酒], "杏仁味的利口酒").
+entry(ratal, n, [ratals], "用于评估费率的金额").
+条目(ratan, n, [ratans], "藤").
+entry(北美胡椒木, n, [北美胡椒木的复数形式], "北美胡椒木的拼音").
+entry(rataplan, v, [rataplanned,rataplanning,rataplans], "发出快速重复的声音").
+条目(咔嗒咔嗒, 名词, [咔嗒声], "一种快速而尖锐的敲击声").
+entry(流氓, n, [流氓们], "一个古怪或不讨喜的人").
+entry(ratch, n, [ratches], "仅允许单向运动的机制")。
+entry(棘轮, v, [棘轮过, 棘轮作用, 棘轮], "通过少量增加或减少").
+条目(评价, v, [已评估, 评估, 评估], "估计价值").
+entry(rateable, 形容词, [], "ratableRATEABLY 副词").
+entry(ratel, n, [蜜獾], "一种食肉哺乳动物").
+entry(评估者, n, [评估者们], "评价者").
+entry(卑鄙小人, n, [卑鄙小人们], "一个可鄙的人").
+entry(鼠鲨, n, [鼠鲨类], "一种海洋鱼类").
+词条(拉斯, 形容词, [], "迅速的").
+entry(拉兹, 形容词, [], “出现或成熟较早”).
+entry(相当, 副词, [], "宁愿").
+入口(鼠洞, 名词, [鼠洞们], "由鼠制造的洞").
+entry(灭鼠剂, n, [灭鼠剂], "用于杀死老鼠的物质").
+条目(批准者, n, [批准者], "一个批准的人").
+entry(批准, v, [批准了, 正在批准, 批准], "正式批准和认可").
+```prolog
+entry(粗呢, n, [粗呢们], "一种织得很松的重织物").
+```
+entry(评级, n, [评级列表], "相对的估计或评价").
+entry(比率, n, [比率], "一种比例关系").
+entry(配给, v, [配给了, 配给中, 配给], "按固定份额分配").
+条目(有理数, n, [有理数集], "一个可以表示为整数商的数字")。
+词条(无翼鸟, 名词, [无翼鸟], "一种不会飞的鸟").
+入口(像老鼠, 形容词, [], "类似于老鼠").
+entry(缆绳, n, [缆绳s], "绳梯").
+entry(邪道, n, [邪道], "构成船绳梯的步骤之一的绳索").
+`entry(rato, n, [ratos], "火箭辅助飞机起飞").`
+```prolog
+entry(宿根, v, [宿根过, 宿根中, 宿根], "从前一年种下的根部萌芽").
+```
+entry(宿根者, n, [宿根者们], "会产生蘖芽的植物").
+条目(鼠药, n, [鼠药], "老鼠毒药").
+入口(鼠尾鱼, 名词, [鼠尾鱼], "一种海洋鱼").
+entry(藤条, n, [藤条], "一种棕榈树").
+条目(告密, 过去式, [], "rat 的时态").
+条目(鼠绒, 名词, [鼠绒布料], "一种粗糙的羊毛织物").
+entry(老鼠, v, [老鼠过的, 鼠过中, 鼠过], "骚扰").
+entry(加紧器, n, [加紧器们], "一个加紧的东西").
+entry(ratter, n, [ratters], "用于捕鼠的动物").
+entry(更鼠, 比較級, [], "鼠樣的").
+entry(最鼠特质, 最高级, [], "鼠状").
+entry(鼠迹斑斑, 副词, [], "以一种让人联想到老鼠的方式").
+条目(欺诈, 现在时, [], "rat 的分词")。
+entry(rattish, 形容词, [], "鼠状的").
+entry(嘎嘎作响, v, [嘎嘎作响的,嘎嘎作响着,嘎嘎作响们], "发出一连串短促尖锐的声音").
+entry(响尾蛇, n, [响尾蛇们], "发出咔嗒声的东西").
+entry(嘎嘎声, n, [嘎嘎声], "ratline").
+entry(嘎嘎作响的, 形容词, [], "更嘎嘎作响 最嘎嘎作响，倾向于嘎嘎作响")
+条目(老鼠, 名词, [老鼠们], "一只老鼠").
+entry(宿根, 动词, [宿根的,宿根中,宿根], "使宿根生长").
+条目(捕鼠器, 名词, [捕鼠器们], "一种用于捕捉老鼠的陷阱")。
+entry(ratty, 形容词, [], "RATTIER RATTIEST被老鼠侵扰的").
+entry(嘈杂, 名词, [嘈杂], "嘈杂的状态").
+entry(喧闹, 形容词, [], "大声且不守规矩").
+entry(粗俗, n, [raunches], "庸俗").
+entry(下流, 形容词, [], "更下流 最下流邋遢").
+entry(破坏, v, [破坏了,破坏中,破坏], "摧毁").
+entry(劫掠者, n, [劫掠者们], "劫掠的个体")
+条目(咆哮, v, [咆哮了, 咆哮中, 咆哮], "胡言乱语或语无伦次地说话")。
+entry(ravel, v, [raveled,raveling,ravels], "或作 RAVELLED RAVELLING RAVELS 意为分开线头").
+entry(解者, n, [解者们], "解开的人").
+entry(棱堡, n, [棱堡], "一种防御工事").
+entry(散乱, n, [散乱的线], "松散的线头").
+entry(纠结, a, [], "ravel的过去式").
+entry(旅行者, n, [旅行者们], "旅行者").
+entry(缠结, a, [], "缠结的现在分词").
+entry(ravelly, 形容词, [], "纠结").
+entry(渡鸦, v, [狼吞虎咽, 狼吞虎咽的, 狼], "狼吞虎咽地吃").
+entry(掠夺者, 名词, [掠夺者们], "进行掠夺的人").
+entry(贪婪, n, [贪婪], "劫掠").
+entry(饥饿的, 形容词, [], "极度饥饿").
+entry(狂欢者, n, [狂欢者们], "一个狂欢的人").
+entry(锐舞, 形容词, [], "锐舞风格的一个特点，一个通宵达旦的舞会，伴随着快速的电子音乐")。
+条目(香醋调味汁, n, [香醋调味汁], "一种辛辣的醋汁调味酱").
+entry(拉文, 动词, [拉文德, 拉文宁, 拉文斯], "掠夺").
+入口(峡谷, 名词, [峡谷们], "一个狭窄的陡峭谷地")。
+词条(胡言乱语, 名词, [胡言乱语的], "非理性不连贯的言语").
+entry(疯狂地, 副词, [], "以一种精神错乱的方式").
+entry(意大利饺子, n, [意大利饺子], "一种意大利面食").
+入口(拉维什, 动词, [被拉维什, 正在拉维什, 拉维什], "用武力抓住并带走").
+entry(劫掠者, n, [劫掠者], "作出劫掠之人").
+entry(raw, adj, [], "RAWER RAWESTuncooked").
+entry(生的, n, [生的地方], "疼痛或刺激的部位").
+entry(骨瘦如柴, 形容词, [], "肉少").
+条目(生牛皮, v, [被打,正在被打,被打过], "用一种鞭子抽打").
+条目(原始, n, [原始], "通过雷达追踪气球进行的风力测量")。
+entry(rawish, 形容词, [], "有点生").
+条目(生性, 副词, [], "以生硬的方式")。
+entry(生涩, n, [生涩们], "生的状态").
+条目(rax, v, [raxed, raxing, raxes], "伸展").
+entry(ray, v, [rayed,raying,rays], "发射光线窄光束").
+entry(拉雅, n, [拉雅们], "拉雅").
+```prolog
+条目(拉亚, 名词, [拉阿斯], "土耳其的非穆斯林居民").
+```
+entry(raygrass, n, [黑麦草], "黑麦草").
+entry(无光, 形容词, [], "没有光芒").
+entry(raylike, 形容词, [], "类似于狭窄的光束").
+条目(人造丝, 名词, [人造丝], "一种合成纤维").
+```Prolog
+条目(夷平, 动词, [夷平了, 夷平中, 夷平], "拆毁或摧毁").
+```
+entry(剃艉, 动词, [剃艉过, 剃艉中, 剃艉们], "通过去除上层以降低高度，如在船上")。
+entry(剷平者, n, [剷平者們], "剷平的").
+entry(剃刀, v, [剃过, 剃刀中, 剃刀], "用锋利的工具剃或切").
+entry(嘲笑, 动词, [嘲笑了, 嘲笑着, 嘲笑], "取笑").
+入口(razzia, n, [razzias], "摩尔人的敌对袭击").
+entry(razzle, n, [亮闪闪的], "华丽多彩的展示").
+入口(重, 名词, [重], "音阶中的第二个音调")。
+入口(到达, v, [到达,到达中,到达], "去伸出或提出").
+条目(达到者, n, [达到者], "一个达到的东西")。
+entry(反应, 动词, [反应过, 反应中, 反应], "对刺激作出响应").
+entry(反应物, n, [反应物], "进行反应的物质")。
+entry(反应, n, [反应], "反应的行为").
+entry(反应性, 形容词, [], "倾向于反应").
+反应堆(反应器, 名词, [反应堆], "一种反应的东西").
+entry(read, v, [读,阅读,读数], "看以便从某物书写或打印中领会其含义可读的 形容词可读地 副词").
+条目(阅者, n, [阅者], "阅读的人").
+条目(读者性, 形容词, [], "典型的读者").
+entry(准备好的, 过去式, [], "ready 的时态").
+entry(更准备, 比较级, [], "准备好").
+entry(准备, 现在时, [], "第三人称单数的准备").
+entry(最准备的, 最高级, [], "准备中").
+entry(容易地, 副词, [], "以一种准备好的方式")
+条目(阅读, 名词, [阅读材料], "阅读的材料").
+entry(读出, n, [读出值], "计算机数据的呈现").
+entry(准备, 形容词, [], "比较准备 最准备准备好的").
+```prolog
+条目(准备, v, [准备好,准备着,准备], "使准备好").
+```
+entry(试剂, n, [试剂], "用于化学反应中以确定其他物质的性质或成分的物质").
+entry(雷因, n, [雷因斯], "一种抗体 REAGINIC 形容词").
+entry(真实, 形容词, [], "真实的 台最真实的范畴有实际存在").
+entry(实际, n, [实数], "或 REALES，西班牙的前货币单位")
+条目(真实, n, [雷亚尔], "巴西的货币单位")。
+entry(雄黄, n, [雄黄], "一种矿物").
+entry(实物, npl, [], "教师用来展示日常生活的物品")
+条目(实现, 动词, [实现了, 实现中, 实现], "实现")
+现实者(n, [现实者], "一个实现者").
+entry(现实主义, 名词, [现实主义], "关注事实或现实").
+entry(现实主义者, n, [现实主义者们], "关心事实或现实的人").
+入口(现实, n, [现实], "真实的事物")。
+entry(实现, v, [实现了, 实现中, 实现], "完全理解").
+```prolog
+entry(实现者, n, [实现者们], "实现的人").
+```
+入口(真正, 副词, [], "实际上").
+entry(领域, n, [领域], "一个王国").
+条目(现实性, n, [现实性], "存在的状态")。
+entry(房地产, n, [房地产], "建筑物和土地上的财产").
+条目(ream, v, [reamed, reaming, reams], "用铰刀扩孔")。
+entry(加孔器, n, [加孔器们], "用于扩大孔的工具").
+入口(收割, 动词, [收割了, 正在收割, 收割], "为了收获可收割的 形容词").
+entry(收割者, n, [收割者们], "一个收割的实体")。
+条目(镰刀, 名词, [镰刀], "一种用于收割的工具")。
+入口(后, 动词, [举起, 举起中, 举起们], "抬起成直立状态")。
+entry(培育者, n, [培育者们], "做培育工作的人").
+entry(饲养, n, [饲养方式], "动物站立后肢的行为")。
+entry(蝙蝠, 复数, [], "蝙蝠").
+词条(最后面的, 形容词, [], "来到或位于最后").
+entry(后方, n, [后方], "军队最后面的部分").
+```
+条目(重登, n, [再登], "新的或第二次登顶").
+```
+entry(理由, v, [推理, 推论, 推断], "从已知或假定事实中导出推论或结论").
+entry(推理者, n, [推理者们], "一个进行推理的人").
+```prolog
+条目(鞭绳, n, [鞭绳们], "鞭绳").
+```
+条目(掠夺, 动词, [掠夺过, 掠夺中, 掠夺], "抢劫")。
+```prolog
+entry(reaver, n, [劫掠者], "一个掠夺者").
+```
+```prolog
+entry(reb, n, [叛军], "一个南方邦联士兵").
+```
+条目(钢筋, 名词, [钢筋], "用于钢筋混凝土的钢制杆").
+条目(重新设置基础, v, [已重新设置基础, 重新设置基础中, 重新设置基础], "为某事物设定新的基础")。
+入口(回扣, 动词, [已折扣, 正在折扣, 折扣], "从支付或账单中扣除或退回")。
+entry(折扣者, n, [折扣者们], "给予折扣的人").
+条目(拉巴托, 名词, [拉巴托斯], "拉巴托")。
+entry(拉比, n, [拉比们], "犹太教的老师").
+entry(rebec, n, [rebecs], "古老的弦乐器").
+条目(雷贝克, 名词, [雷贝克斯], "雷贝克").
+entry(反叛者, 动词, [反叛, 反叛中, 反叛者], "反对自己国家的既定政府")。
+entry(反叛领域, n, [反叛领域们], "由叛军控制的区域").
+entry(重生, n, [重生], "新的或第二次出生").
+条目(震耳欲聋的, 形容词, [], "响亮地回响").
+条目(rebop, 名词, [rebops], "一种音乐类型").
+entry(重生, 形容词, [], "再生").
+entry(反弹, v, [反弹了, 正在反弹, 反弹], "弹回").
+entry(rebozo, n, [披肩], "长围巾").
+entry(rebranch, v, [形成分枝, 分枝中, 分枝], "形成次级分支")。
+entry(更名, v, [已更名,更名中,更名], "改变公司的企业形象")
+entry(拒绝, 动词, [拒绝了, 正在拒绝, 拒绝], "断然拒绝或回绝").
+entry(斥责, v, [斥责了,斥责中,斥责], "严厉批评").
+entry(责备者, n, [责备者们], "一个谴责他人的人")。
+```prolog
+entry(重新安葬, n, [重新安葬], "第二次葬礼")。
+```
+词条(谜题, 名词, [谜题们], "一种拼图游戏").
+条目(反驳, v, [已反驳, 正在反驳, 反驳], "反驳").
+entry(反驳, n, [反驳], "驳斥的论点或证据").
+entry(反驳者, n, [反驳者们], "进行反驳的人").
+entry(反驳, 现在, [], "反驳的分词").
+entry(娱乐, n, [娱乐活动], "休闲").
+入口(回忆, 动词, [回忆了, 正在回忆, 回忆], "召回").
+entry(召回者, n, [召回者], "一个召回的人").
+入口(雷卡米耶, n, [雷卡米耶们], "一张无靠背的沙发")。
+entry(撤回, 动词, [撤回了, 撤回中, 撤回], "正式撤回或放弃").
+entry(反悔者, n, [反悔者们], "一个反悔的人").
+entry(回顾, v, [回顾了, 正在回顾, 回顾], "通过简短的总结来回顾").
+entry(侦察, v, [侦察过, 侦察中, 侦察], "进行侦察").
+入口(退, 动词, [退后, 退缩, 退避], "向后移动或离开").
+条目(收据, v, [已收据, 收据中, 收据], "标记为已支付").
+入口(接受, 动词, [已接收, 接收中, 接收], "获得所有权")。
+entry(接收者, n, [接收者们], "接收者")
+entry(最近性, n, [最近性], "最近的状态").
+entry(最近, 形容词, [], "与不久前有关的中心 最近的")
+entry(接受, n, [接受体], "一种心灵图像").
+入口(受体, n, [受体], "一种专门接收刺激的神经末梢")。
+条目(休会, 动词, [休会, 休会中, 休会], "放置在凹入空间或孔中").
+entry(猎声, n, [猎声音], "狩猎信号").
+entry(食谱, n, [食谱], "制作某物的一组指示").
+entry(缩减, 名词, [缩减], "一种取消行为").
+entry(recit, n, [故事部分], "故事中事件不加修饰地叙述的部分").
+entry(朗诵会, n, [朗诵会], "详细描述").
+entry(背诵, v, [已背诵, 正在背诵, 背诵], "从记忆中背诵或说出").
+entry(背诵者, n, [背诵者们], "诵读者").
+条目(reck, 动词, [recked,recking,recks], "关心").
+entry(鲁莽, 形容词, [], "愚蠢地无视危险").
+entry(计算, 动词, [计算过, 计算中, 计算], "计算或估计").
+entry(计算者, n, [计算者们], "计算的人").
+入口(恢复, 动词, [恢复了, 正在恢复, 恢复], "使适合耕种或居住")。
+`entry(广告, n, [广告], "宣传").`
+entry(斜靠, v, [斜靠,斜躺,倾斜], "向后倚靠或躺下").
+entry(躺椅, n, [躺椅们], "可倾斜的座椅").
+入口(隐士, n, [隐士们], "一个生活在孤独和隐居中的人").
+entry(后退, 动词, [后退了, 正在后退, 后退], "因恐惧或厌恶而退缩").
+条目(退卷器, 名, [退卷器], "一个卷退者")
+entry(侦察, v, [侦察过,正在侦察,进行侦察], "进行侦察").
+```prolog
+条目(复交, 动词, [复交了, 复交中, 复交], "将某物送回原位").
+```
+entry(记录, v, [记录的, 记录中, 记录], "为了保存而记下").
+entry(录音机, n, [录音机], "记录的人").
+entry(重述, 动词, [重述了, 重述中, 重述], "详细叙述").
+入口（recoup，v，[recouped，recouping，recoups]，“取回相当于的东西”）。
+entry(重新收回, 形容词, [], "两次分割").
+entry(求助, n, [求助], "向某人或某物求助").
+entry(恢复, 动词, [恢复了, 恢复中, 恢复], "在失去后再次获得")。
+entry(恢复, n, [恢复], "经济复苏").
+entry(懦夫, n, [懦夫们], "胆小鬼").
+```
+词条(重现, 动词, [重建, 重现中, 重新创建], "在心理或身体上恢复活力")。
+```
+入(entry, 征兵, 动词, [征募, 征召, 征兵], "应征入伍").
+entry(直肠, a, [], "直肠的复数").
+entry(直肠, 形容词, [], "属于直肠的直肠地副词").
+entry(recti, pl, [], "直肌的").
+entry(纠正, 动词, [已纠正, 正在纠正, 纠正], "校正").
+entry(recto, n, [右页], "书的右页").
+entry(教区长, n, [教区长们], "负责一个教区的牧师")。
+entry(牧师住宅, n, [牧师住宅们], "一个牧师的住所").
+entry(尾羽, n, [尾羽], "鸟尾巴上的羽毛").
+entry(直肠, n, [直肠s], "或直肠大肠的末端部分")
+entry(直肌, n, [直肌], "一条直肌").
+entry(复发, v, [复发了, 复发中, 再次发生], "再次发生")
+entry(反曲弓, v, [反曲的, 反曲, 反曲弓], "向后或向下弯曲").
+entry(回避, n, [回避], "回避的行为").
+entry(拒绝者, n, [拒绝者们], "拒绝接受既定权威的人").
+条目(回避, 动词, [已回避, 正在回避, 回避], "在特定案件中取消资格或挑战作为法官的资格").
+条目(回收, 动词, [回收利用, 回收中, 回收], "加工以提取有用材料")。
+entry(回收者, n, [回收者们], "一个进行回收的人").
+条目(红色, 形容词, [], "更加红的 最红的 血的颜色").
+输入(红色, 动词, [变红, 变红中, 变红了], "变红")。
+entry(編輯, v, [已編輯,正在編輯,編輯], "準備出版")
+entry(编辑, n, [编辑们], "负责修订的人").
+entry(堡垒突角, n, [堡垒突角], "一种防御工事").
+条目(反驳, 动词, [反驳了,反驳中,反驳], "否定").
+entry(抹红, v, [抹红了, 抹红中, 抹红], "指控为共产主义者").
+条目(红湾, n, [红湾树], "一种小型树").
+entry(红鸟, n, [红鸟], "一种有红色羽毛的鸟").
+entry(瑞德博恩, n, [瑞德博恩犬], "一种猎犬").
+`入口(红砖, 名词, [红砖大学], "一所现代的英国大学").`
+entry(紫荆树, n, [紫荆树], "一种小树").
+entry(红虫, n, [红虫], "一种螨属生物")
+entry(redcap, n, [红帽子], "搬运工").
+条目(红衣兵, 名词, [红衣兵], "美国革命期间的英国士兵")。
+入口(红色, 动词, [已调整, 调整中, 调整], "整理").
+entry(已变红, 过去式, [], "红和红的时态").
+登入(变红, 动词, [变红了, 变红中, 变红], "使变红或变得红").
+entry(更加红的, n, [redders], "一种让人脸红的东西")
+entry(最红, 最高级, [], "之红").
+```prolog
+entry(reddier, 比较, [], "of reddy").
+```
+entry(最红的, 最高级, [], "红的").
+条目(汉字,"现时", [], "red 和 redd 的分词")。
+entry(微红, 形容词, [], "有些红").
+entry(reddle, v, [reddled,reddling,reddles], "涂上红赭土").
+条目(雷迪, 形容词, [], "红润的").
+entry(忠告, v, [忠告了, 忠告中, 忠告们], "建议").
+entry(紅耳鯛, n, [紅耳鯛們], "一種常見的太陽魚").
+条目(赎回, 动词, [赎回了, 正在赎回, 赎回], "回购").
+entry(赎回者, n, [赎回者们], "赎回的那个人/物").
+入口(红眼, 名词, [红眼们], "铁路危险信号")。
+条目(红鳍鱼, n, [红鳍鱼], "一种淡水鱼").
+入口(红鱼, n, [红鱼], "一种可食用的石鱼").
+条目(红头, n, [红头发], "一个有红头发的人").
+entry(红马鱼, n, [红马鱼], "一种淡水鱼").
+entry(redia, n, [redias], "某些扁虫的幼虫红细蚴REDIAL adj").
+entry(reding, 现在时, [], "rede 的分词").
+entry(重定向, 动词, [已重定向, 正在重定向, 重定向], "改变路线或方向").
+entry(红腿鹬, n, [红腿鹬们], "一种长有红色腿的鸟").
+```
+条目(红线, v, [红线了, 红线中, 红线们], "拒绝向某些社区提供贷款或保险")。
+```
+```prolog
+entry(红线者, n, [红线者们], "某个划红线的人").
+```
+entry(红色地, 副词, [], "带有红色").
+条目(红色, 名词, [红色们], "呈红色的状态")。
+entry(重做, n, [重做们], "再次进行的事情")
+条目(芬芳, 形容词, [], "芳香").
+```prolog
+entry(redouble, v, [再加倍,再加倍着,再加倍们], "加倍").
+```
+entry(堡垒, n, [堡垒], "一个封闭的防御工事").
+entry(反响, v, [产生了效果,产生效果中,产生效果], "产生效果").
+entry(重红, n, [重红症], "一种血液被驱向头部的状况").
+entry(雷多瓦, 名词, [雷多瓦舞], "一种活泼的舞蹈").
+entry(氧化还原, n, [氧化还原反应], "一种化学反应类型").
+entry(赤朱雀, n, [赤朱雀], "一种小雀").
+entry(修订, 动词, [已修订, 正在修订, 修订], "制作修订版的副本")。
+entry(重绘者, n, [重绘者们], "会重绘的人").
+确保代码保持不变，仅将文本翻译成中文：
+
+```prolog
+entry(纠正, 动词, [纠正过, 正在纠正, 纠正], "纠正"). 
+```
+entry(红根, n, [红根s], "多年生草本植物").
+entry(鹬鸟, n, [鹬鸟], "一种岸边鸟类").
+entry(红移, n, [红移们], "天体光谱向较长波长的位移").
+entry(红衫, v, [红衫, 使用红衫, 红衫的], "为了延长大学运动员的参赛资格而不让其参与校队比赛").
+条目(红皮, n, [红皮花生], "一种花生品种").
+entry(北朱雀, n, [北朱雀], "一种小型鸣禽")。
+词条(红尾, 名词, [红尾], "一种鹰").
+entry(redtop, n, [红顶草], "一种草").
+entry(减少, 动词, [减少了, 在减少, 减少], "减少").
+条目(化简器, n, [化简器], "减少者").
+入口(还原器, n, [还原器], "一种用于溶液中金属离子还原的装置")。
+`entry(锥蝽, n, [锥蝽], "一种吸血昆虫").`
+entry(redux, 形容词, [], "带回").
+```Prolog
+入口(红藻, 名词, [红藻们], "一种可食用的海藻")。
+```
+entry(红水病, n, [红水病], "一种牛的血液病").
+entry(红翅鸫, n, [红翅鸫], "一种欧洲画眉鸟").
+entry(红杉, n, [红杉树], "一种非常高大的常绿树").
+entry(ree, n, [斑尾蝌蚪鸻], "欧亚雌性矶鹬").
+entry(锐步, n, [锐步鞋], "羚羊").
+entry(reechy, 形容词, [], "REECHIER REECHIESTfoul rancid").
+entry(芦苇, 动词, [用芦苇绑住,绑芦苇,芦苇], "用芦苇将高大草茎固定")
+entry(芦雀, n, [芦雀], "bobolink").
+entry(非洲原羚, n, [非洲原羚们], "一种非洲羚羊").
+entry(更芦苇的, 比较级, [], "像芦苇的")。
+entry(最芦苇状的, 最高级, [], "芦苇的").
+入口(重建, v, [重建了,重建中,重建], "重建").
+entry(急切地, 副词, [], "发出细小的尖声").
+entry(reeding, n, [reedings], "凸形线条").
+`entry(类似芦苇, 形容词, [], "类似于芦苇").`
+入口( reedling, 名词, [reedlings], "一种沼泽鸟").
+以Prolog输出：
+entry(reedman, n, [reedmen], "吹奏簧乐器的人").
+entry(里迪, 形容词, [], "更芦苇 最芦苇丰富在芦苇中").
+`入口(礁, 动词, [堪收缩帆, 收缩帆中, 收缩帆], "减少帆的面积可缩帆的 形容词").`
+entry(冷藏船, n, [冷藏船], "收帆的人").
+入口(reefy, 形容词, [], "较多岩脊的REEFIER REEFIEST")。
+条目(散发, 动词, [散发了,散发中,散发], "散发出强烈令人不快的气味")。
+```prolog
+条目(发臭者, n, [发臭者们], "一个散发臭味的人").
+```
+条目(泄臭, 形容词, [], "更泄臭 最泄臭泄臭").
+```prolog
+entry(卷轴, 动词, [卷起, 卷绕, 卷轴], "在一种旋转装置上缠绕 卷轴形容词").
+```
+入口(卷筒机, n, [卷筒机], "绕卷的人").
+入口(絞盤, n, [絞盤們], "持續的噪音")。
+entry(重返, n, [重返], "一个新的或第二次进入").
+entry(reest, v, [reested,reesting,reests], "犹豫").
+entry(reeve, v, [穿过, 穿过, 绕过], "REEVE通过穿过或绕过某物来固定").
+entry(ref, v, [reffed,reffing,refs], "裁判").
+入口(翻修, 动词, [翻修过, 正在翻修, 翻修], "修复外表面")。
+entry(宴饮, 动词, [宴饮了,宴饮中,宴饮], "用食物和饮料使精神焕发")。
+entry(refel, v, [refelled,refelling,refels], "拒绝")。
+entry(指向, 动词, [指向了, 指向中, 指向], "指引至帮助或信息的来源").
+entry(裁判, v, [裁判过, 裁判中, 裁判们], "监督某些体育项目中的比赛")
+条目(指代, 名词, [指代物], "被指代的事物")。
+entry(推荐, n, [推荐], "被推荐的人或事").
+entry(被提及, 过去式, [], "refer 的时态").
+entry(推荐人, n, [推荐人列表], "一个进行推荐的人").
+entry(指涉, 现在, [], "指定的分词").
+条目(提及, 过去, [], "提到的时态")。
+词条(裁判工作, 名词, [裁判们], "裁判的工作").
+entry(提炼, 动词, [提炼过的, 正在提炼, 提炼], "去除杂质").
+entry(提炼者, n, [提炼者], "一个进行提炼的人").
+entry(精炼厂, n, [精炼厂], "精炼原材料的地方").
+```prolog
+entry(提炼, n, [提炼过程], "从某物中去除杂质的过程").
+```
+条目(翻新, v, [翻新了, 翻新中, 翻新], "给予新的表面").
+Prolog: entry(重新装配, v, [重新装配了,重新装配中,重新装配], "准备和装备以便再利用").
+条目(重新挂旗, 动词, [重新挂旗的, 重新挂旗中, 重新挂旗], "为船舶提供新的注册国籍")。
+entry(充气, v, [再次充气,正在充气,充气], "再次充气").
+entry(反射, 动词, [反射的,反射中,反射], "从表面反射或弹回")。
+entry(反射, n, [反射], "表面的特殊光辉").
+entry(反射, 动词, [反射过,反射中,反射], "弯回去").
+entry(反射性地, 副词, [], "以反射的方式").
+entry(倒流, 形容词, [], "逆流").
+条目(逆流, v, [逆流过, 逆流中, 逆流], "导致倒流")。
+入口(重新造林, 动词, [已重新造林, 正在重新造林, 重新造林], "重新种植树木")。
+入口(改革, 动词, [改革了, 改革中, 改革], "改变为更好的状态")。
+entry(改革者, n, [改革者们], "进行改革的人").
+```prolog
+词条(折射, 动词, [折射了, 折射中, 折射], "以特定方式偏转，如同一道光线").
+```
+entry(克制, v, [克制了,克制中,克制], "使自己保持克制")。
+条目（refresh，v，[refreshed, refreshing, refreshes]，"恢复健康和活力"）。
+entry(reft, a, [], "reave 的过去式").
+entry(避难所, v, [避难了,避难中,避难所], "给予或获得庇护").
+entry(难民, n, [难民], "为了安全而逃离的人").
+entry(避难所, n, [避难地], "大陆气候变化期间的稳定区域")
+entry(退款, 动词, [已退款, 正在退款, 退款], "退还").
+`entry(退款者, n, [退款者们], "一个进行退款的人").`
+entry(拒绝, n, [拒绝], "拒绝的行为").
+entry(拒绝, v, [拒绝了, 拒绝中, 拒绝], "表示不愿接受、做或遵从").
+entry(拒绝者, n, [拒绝者们], "拒绝的人").
+entry(拒绝移民者, n, [拒绝移民者们], "一个被拒绝移民许可的苏联公民")
+entry(驳斥, n, [驳斥], "反驳的行为").
+entry(反驳, v, [反驳了,反驳中,反驳], "证明为假或错误").
+entry(refuter, n, [反驳者], "一个进行反驳的人").
+entry(规定, n, [规定s], "一项规定").
+entry(重获者, n, [重获者们], "一个重新获得的人").
+entry(皇室, 形容词, [], "与国王相称或有关").
+条目(款待, 动词, [款待了, 款待中, 款待], "令人高兴").
+entry(款待者, n, [款待者们], "一个款待他人者")
+entry(王权, npl, [], "国王的权利和特权").
+entry(权威, n, [权威性], "王室权威").
+entry(庄严地, 副词, [], "以帝王般的方式").
+entry(注视, 动词, [注视着, 注视中, 注视], "带着某种特定感觉看待").
+条目(赛艇, n, [赛艇比赛], "一次划船比赛").
+entry(regelate, v, [regelated, regelating, regelates], "通过降低压力重新冻结冰").
+条目(摄政, n, [摄政地区], "摄政的职位")。
+entry(摄政者, n, [摄政者], "在主权者之位上掌权者REGENTAL 形").
+entry(reges, pl, [], "雷克斯的").
+entry(雷鬼, n, [雷鬼音乐], "一种流行的牙买加音乐").
+entry(弑君, n, [弑君者], "杀害国王的行为").
+entry(regie, n, [管理机构], "魁北克的政府监管机构").
+entry(转赠, v, [转赠了,转赠中,转赠], "把收到的礼物送给其他人").
+entry(regifter, n, [重礼者], "重新赠送礼物的人").
+条目(制度, n, [制度], "一种政府制度")。
+entry(方案, n, [方案集], "一个系统的计划").
+entry(团, v, [纪律,组织,军团], "组成为军事单位").
+入口(芮吉娜, 名词, [芮吉娜的], "或 REGINAEqueenREGINAL 形容词")。
+条目(区域, n, [区域], "一个行政区域或分区")。
+entry(区域性的, n, [区 域 性 的], "作为区域的东西").
+entry(注册, v, [已注册, 注册中, 注册], "正式记录").
+entry(登记, n, [注册表], "注册行为").
+entry(regius, adj, [], "由君主创立的教授职位").
+entry(reglet, n, [窄长板条], "一种扁平狭窄的造型").
+entry(regma, n, [regmata], "一种水果").
+entry(regna, pl, [], "of regnum").
+entry(王室的, 形容词, [], "关于国王或他的统治").
+entry(怀孕, n, [怀孕状态], "处于统治或怀孕状态").
+entry(执政, 形容词, [], "统治").
+entry(regnum, n, [regna], "统治").
+entry(风化层, n, [风化层们], "一层松散的岩石").
+entry(反刍, v, [反刍了,反刍中,反刍], "呕吐").
+入口(壤土, 名词, [壤土类], "一种土壤").
+entry(regrate, v, [抬价购买,抬价购买中,抬价购买], "为了在同一区域以更高的价格出售而买入").
+条目(重问候, 动词, [重问候了, 重问候中, 重问候], "回应问候").
+条目(回归, v, [回归了, 回归中, 回归], "回去").
+entry(後悔, v, [後悔了,後悔中,後悔], "回顧時帶著悲傷或遺憾").
+```
+entry(再生, n, [再生s], "一个新的或第二次的增长").
+```
+entry(普通, n, [常客], "习惯性客户").
+条目(管理, 动词, [已管理, 正在管理, 管理], "根据规则进行控制").
+entry(regulus, n, [星神, 狮子座α星], "或在炉渣下形成的一种块状物 REGULINE 形容词").
+entry(康复, v, [康复了, 正在康复, 康复], "恢复到良好状态").
+入口(翻修者, 名词, [翻修者们], "一个进行翻修的人").
+entry(排练, v, [排练过,排练中,排练], "为公开演出做准备的练习")。
+入口 (再加热器, n, [再加热器], "可以重新加热的东西")。
+entry(利何波安, n, [利何波安斯], "一个葡萄酒瓶").
+entry(重新安置, v, [重新安置了,重新安置中,重新安置], "将某人安置到新居住单元的行动").
+条目(雷伊, 名词, [雷伊斯], "一种英文错误形式的葡萄牙旧硬币").
+入口(劫案, 名词, [劫案复数], "抢劫")。
+入口(实现者, n, [实现者们], "使具体化的人").
+条目(具体化, 动词, [具体化的, 正在具体化, 具体化], "视为真实或具体").
+entry(统治, v, [统治,统治中,统治], "行使主权").
+entry(灵气, n, [灵气疗法], "一种涉及用手触摸的疗愈技术").
+```prolog
+条目(控制, v, [控制了, 控制中, 控制], "限制").
+```
+条目(驯鹿, n, [驯鹿们], "一种大型鹿科动物")。
+entry(再次受伤, n, [再次受伤], "二次受伤").
+词条 (reinless, 形容词, [], "unrestrained").
+entry(骑师, n, [骑师们], "熟练的骑马者")。
+entry(真实, 复数, [], "真实的").
+entry(灵芝, n, [灵芝], "一种具有光亮菌盖的蘑菇").
+入口(重新发行者, n, [重新发行者们], "重新发行的人").
+entry(南非麂, n, [南非麂们], "芦苇麂").
+entry(抢劫, v, [抢劫了, 抢劫中, 抢劫], "掠夺").
+entry(劫掠者, n, [劫掠者们], "一个掠夺的人" ).
+entry(掠夺, n, [掠夺行为], "掠夺的行为或例子").
+只能输出 Prolog:
+
+```prolog
+entry(拒绝, v, [拒绝了,拒绝中,拒绝], "拒绝接受、考虑或使用").
+```
+entry(被拒者, n, [被拒者们], "被拒绝的人").
+entry(拒绝者, n, [拒绝者们], "一个拒绝的人").
+入口(拒绝者, n, [拒绝者们], "拒绝者").
+条目(调整, 动词, [调整了, 调整中, 调整], "重新调整")。
+entry(rejigger, v, [rejiggered,rejiggering,rejiggers], "修改").
+entry(欣喜, v, [欣喜过,欣喜中,欣喜], "感到欢乐")
+条目(欢喜者, 名词, [欢喜者们], "一个欢喜的人").
+entry(复发, v, [复发了,复发中,复发], "重新掉入或回到以前的状态")
+entry(relapser, n, [复发者], "复发的人").
+entry(叙述, v, [叙述了,叙述着,叙述], "讲述").
+entry(关联者, n, [关联者们], "叙述者").
+`条目(关系, n, [关系运用], "两件或更多事物之间的重要关联").`
+entry(亲戚, 名词, [亲戚], "通过血缘或婚姻与他人相连的人").
+entry(relator, n, [relators], "叙述者").
+entry(放松, 动词, [放松了, 放松着, 放松], "使不那么紧张或僵硬")
+entry(松弛剂, n, [松弛剂们], "缓解肌肉紧张的药物").
+条目(放松器, 名词, [放松器们], "放松的人或物")。
+entry(松弛素, n, [松弛素], "一种女性激素").
+entry(中继, v, [转发, 转发中, 转发], "通过使用新的组来替换疲惫的组进行发送").
+entry(发布, v, [发布了,发布中,发布], "释放").
+释出者(受释放者, n, [受释放者们], "被释放者之一")。
+entry(释放者, n, [释放者], "释放某物的人").
+`entry(释放者, n, [释放者们], "释放者").`
+entry(降级, v, [降级的,降级,降级的], "分配").
+entry(缓和, v, [缓和了,缓和中,缓和], "变得不那么严重").
+entry(相关, 形容词, [], "涉及手头的事情").
+entry(releve, n, [releves], "芭蕾舞中用脚尖提起").
+entry(可靠的, 名词, [可靠的们], "值得信赖的人或物").
+entry(可靠, 副词, [], "用一种可以依靠的方式").
+entry(信赖, n, [信赖], "自信或信任的依赖").
+`entry(依赖的, 形容词, [], "表现出依赖").`
+入口(遗物, 名词, [遗物], "过去某事物幸存的纪念物")
+条目(遗留, n, [遗留物], "在变化的环境中存活的生物体")。
+entry(依赖, 过去, [], "rely的时态").
+entry(救济, n, [救济品], "以金钱或必需品形式提供的援助").
+entry(依赖者, n, [依赖者们], "依赖他人者").
+条目(依赖, 现在时, [], "第三人称单数 依赖").
+entry(减轻, v, [减轻了,减轻着,减轻], "减少或解除疼痛或不适").
+入口(缓解者, n, [缓解者们], "缓解的人").
+entry(浮雕, n, [浮雕], "从平面背景突出的形象或形态").
+entry(宗教, n, [宗教信仰], "对神或超自然的崇拜").
+entry(遗物, 名词, [遗物], "宗教圣物").
+条目(享受, 动词, [享受了, 正在享受, 享受], "享受").
+entry(重温, v, [重温了, 重温中, 重温], "再次体验")。
+entry(辣椒酿, n, [辣椒酿], "一种墨西哥菜，填充并油炸的青辣椒").
+entry(重新加载器, n, [重新加载器], "负责重新加载的人或物").
+条目(迁移, 动词, [迁移了, 迁移中, 迁移], "在新地点建立")。
+entry(relucent, 形容词, [], "反射光").
+```prolog
+entry(不愿, 动词, [不愿意了, 不愿意中, 不愿意], "表示反对").
+```
+```prolog
+entry(重新点燃, v, [重新点燃了, 重新点燃着, 重新点燃], "再次点燃").
+```
+条目(重新点燃, v, [重新点燃了, 正在重新点燃, 重新点燃], "重新点燃").
+entry(依赖, v, [依赖过, 依赖中, 依赖], "信任或信赖某物").
+entry(剩余, n, [剩余们], "一数量的电离辐射").
+入口(匿名重发者, 名词, [匿名重发者们], "一种可以匿名转发电子邮件的互联网服务")。
+entry(保持, v, [保持, 保持中, 保留], "继续处于同一状态")
+entry(remaker, n, [重制者], "一个重制某物的人").
+entry(reman, v, [补充人手,补充人手中,补充人手], "提供新的人手补给").
+entry(还押, v, [还押了,还押中,还押], "送回").
+entry(剩余的, 形容词, [], "remaining").
+entry(remanned, 过去, [], "reman 的时态") .
+entry(重新安置, 现在, [], "重新安置的分词形式").
+入口(评论, v, [评论了,评论中,评论], "简短或随意地说或写").
+entry(评论者, n, [评论者们], "发表评论的人").
+条目(备注, n, [备注们], "在雕刻板边缘所做的标记")。
+entry(补救的, 形容词, [], "旨在纠正某事").
+entry(补救, v, [补救了,补救中,补救], "缓解或治愈").
+`入口(记得, 动词, [记住了, 记住着, 记住], "再次想起").`
+entry(remex, n, [翼羽], "鸟翼的飞行羽毛，飞羽形容词").
+入口(提醒, 动词, [已提醒, 正在提醒, 提醒], "引起记忆").
+entry(提醒, n, [提醒事项], "提醒的东西").
+entry(remint, v, [reminted,reminting,remints], "熔化并铸造成新硬币").
+entry(放弃, v, [放弃了,正在放弃,放弃], "放弃对某事的权利").
+entry(疏忽, adj, [], "粗心大意地 adv").
+entry(汇款, v, [汇出,汇款中,汇款s], "汇款支付").
+entry(汇款, n, [汇款], "汇款的行为").
+entry(汇款人, n, [汇款人], "汇款的人").
+entry(匯款人, n, [匯款人們], "remitter").
+入口(混音师, n, [混音师们], "一个进行录音混音的人").
+条目(残余, 名词, [残余物], "剩下的东西").
+entry(重新装修, 动词, [重新装修了, 重新装修中, 重新装修], "也可以是 重新装修了 重新装修中 重新装修").
+条目(蛋黄酱, n, [蛋黄酱], "一种辛辣的酱汁")。
+entry(remora, n, [吸盘鱼], "一种海洋鱼类REMORID 形容词").
+entry(悔恨, n, [悔恨], "由内疚感引起的深深痛苦").
+入口（遥远，形容词，[]，“较遥远的 最遥远的 位于远处 遥远地 副词”）。
+entry(远程, n, [远程控制], "来自演播室外的播送").
+```prolog
+entry(去除, n, [去除], "去除的行为").
+```
+入口(移除, n, [移除], "移除的行为")。
+入口(去除, 动词, [去除的, 去除中, 去除], "移除或移动").
+entry(remover, n, [移除者], "去除某物的人或物").
+条目(马群, n, [马群们], "一群马").
+entry(肾, 形容词, [], "与肾脏有关").
+entry(复原, v, [复原了, 复原中, 复原们], "恢复自然特性").
+`entry(撕裂, v, [撕裂了,撕裂中,撕裂], "强行撕开").`
+entry(渲染, 动词, [渲染了, 渲染中, 渲染们], "使成为或变得").
+entry(渲染器, n, [渲染器们], "一个进行渲染的").
+entry(可出租的, 形容词, [], "可以被租借").
+条目(仁地纳土, 名词, [仁地纳土], "一种土壤类型").
+entry(变节者, v, [变节了,变节中,变节者们], "成为叛徒").
+entry(叛徒, n, [叛徒们], "或 叛徒们 一个叛徒").
+entry(违约, v, [违约了,违约中,违约], "未能履行承诺或约定").
+entry(违约者, n, [违约者们], "违背约定的人").
+entry(悔棋, 动词, [已悔棋,正在悔棋,悔棋], "食言").
+entry(更新, v, [更新了, 更新中, 更新], "再次使新或好像新的").
+entry(更新, n, [更新], "更新的行为").
+入口(更新者, 名, [更新者们], "一个更新的人").
+词条(肾形, 形容词, [], "肾形状").
+entry(违约, v, [违约了,违约中,违约], "违约").
+entry(肾素, n, [肾素], "一种酶").
+entry(顽抗, 形容词, [], "抵抗物理压力").
+条目(人民币, n, [人民币], "中华人民共和国的货币")。
+entry(凝乳酶, n, [凝乳酶们], "凝乳酶").
+入口(凝乳酶, 名词, [凝乳酶们], "某些幼动物胃中的一种膜").
+entry(凝乳酶, n, [凝乳酶s], "一种酶").
+entry(雷诺, n, [雷诺斯], "翻新过的房子").
+entry(肾图, n, [肾图], "肾脏排泄过程的摄影描绘").
+entry(放弃, v, [放弃了,放弃中,放弃], "抛弃").
+条目(翻新, v, [翻新过, 翻新中, 翻新], "使之如新")。
+条目(声誉, 动词, [著名, 正在使出名, 使出名], "使出名")。
+```prolog
+入口(租, 动词, [租用了, 租用中, 租用], "以补偿为交换条件临时使用可租的形容词")。
+```
+entry(租金, n, [租金], "作为租金支付或收取的金额")
+条目(租金, 名词, [租金], "法国法律下的年收入")。
+entry(租客, n, [租客], "租借的人").
+entry(食利者, 名词, [食利者们], "接受固定收入的人").
+条目(遣返, 名词, [遣返], "由政府驱逐外国人").
+入口(重新提供, 动词, [重新提供了,重新提供中,重新提供], "公开出售").
+重新组织(reorg, v, [重新组织过, 重新组织中, 重新组织], "重新组织").
+entry(呼肠病毒, n, [呼肠病毒们], "一种病毒").
+条目(代表, v, [代表了,代表着,代表], "表示").
+条目(偿还, 过去, [], "偿还的时态")。
+entry(修理, v, [修复, 修理中, 修理], "恢复到良好状态").
+entry(修理者, n, [修理者们], "修理的人").
+entry(repand, 形容词, [], "具有波浪形边缘REPANDLY 副词").
+入口(插科打诨, 名词, [插科打诨], "一个快速机智的回答").
+entry(就餐, v, [吃饭过了, 正在吃饭, 吃饭], "吃饭或宴会").
+条目(偿还, 动词, [偿还了, 偿还中, 偿还], "偿付").
+entry(废除, v, [废除了,废除中,废除], "撤销").
+entry(废除者, n, [废除者们], "一个废除的东西").
+entry(重覆, 动词, [重覆过, 重覆中, 重覆], "再次说或做").
+entry(重述者, n, [重述者们], "重复的那一个").
+entry(击退, 动词, [击退了, 击退中, 击退], "驱赶").
+entry(排斥者, n, [排斥者们], "排斥者").
+```prolog
+条目(忏悔, 动词, [忏悔过, 忏悔中, 忏悔], "对过去的行为感到懊悔或自责").
+```
+入口(悔者, n, [悔者们], "悔改的人").
+entry(重复子, n, [重复子], "一个重复的短语或声音").
+entry(抱怨, v, [抱怨了,抱怨中,抱怨], "表达不满").
+entry(牢骚满腹的人, n, [牢骚满腹的人们], "抱怨的人").
+entry(替换, v, [替换了, 正在替换, 替换], "取而代之").
+entry(替代者, n, [替代者们], "一个取代者")。
+entry(蓄食蚁, n, [蓄食蚁们], "作为液体食物储存库的工蚁").
+条目(复得, v, [复得了,复得中,复得], "复得财物").
+entry(重新获得, v, [重新获得了,重新获得中,重新获得], "通过法律行动重新获得所有权").
+entry(复制品, n, [复制品], "一个接近的副本或复制品").
+入口(复制子, n, [复制子], "作为一个单位复制的核酸片段")。
+entry(回答者, n, [回答者们], "一个回复的人").
+entry(回复, 动词, [回复过, 正在回复, 回复们], "去回答")。
+entry(repo, n, [重获物], "某物被收回")。
+entry(report, v, [报告,报告中,报告们], "描述").
+entry(记者, n, [记者们], "报告的人").
+entry(休息, n, [休息], "休息的行为").
+entry(休息, v, [休息,休息中,休息], "躺着休息").
+entry(休息者, n, [休息者们], "一个休息的人").
+条目(储存, 动词, [已储存, 正在储存, 储存], "放置").
+条目(浮雕, n, [浮雕], "在金属上锤击形成的凸起图案")。
+entry(repp, n, [repps], "一种双罗纹织物").
+入口(猴皮筋的, 形容词, [], "类似于绉布").
+入口(抑制, 动词, [已抑制, 正在抑制, 抑制], "保持控制").
+entry(缓刑, v, [缓刑了,缓刑中,缓刑], "推迟惩罚").
+条目(报复, n, [报复], "一种报复行为")。
+```prolog
+entry(重现, v, [重现过,重现着,重现们], "以武力取回").
+```
+入口(复印, 名词, [复印件], "适合摄影复制的印刷材料的试用样张")。
+entry(责备, v, [责备了,责备中,责备], "找出错误").
+entry(斥责, 名词, [斥责], "对错误的批评").
+entry(指责, n, [指责], "谴责").
+entry(责备, v, [责备了,正责备,责备], "责备").
+entry(reprover, n, [责备者], "指责备他人的人").
+entry(爬行, 形容词, [], "匍匐或爬行").
+entry(爬行动物, 名词, [爬行动物], "冷血的用肺呼吸的脊椎动物类").
+entry(爬行动物, 复数名词, [], "供爬行动物栖息的建筑物").
+条目(共和国, 名词, [共和国们], "一种宪法形式的政府").
+```prolog
+entry(令人反感, v, [令人反感了,令人反感着,令人反感], "反对").
+```
+entry(击退, v, [击退,击退中,击退], "击退").
+条目(排斥者, n, [排斥者们], "令人反感的人")。
+entry(名声, v, [据说, 认为, 认为], "认为是指定的").
+entry(request, v, [请求,请求中,请求], "表达一种愿望").
+条目(安魂曲, 名词, [安魂曲们], "为死者创作的音乐作品")。
+entry(鲨鱼, n, [鲨鱼], "一种凶猛的鲨鱼")
+```prolog
+entry(小吉他, n, [小吉他们], "小型吉他").
+```
+条目(需要, v, [需要着,需要中,需要着], "需要").
+需求者(要求者, n, [要求者们], "需要的一个人").
+entry(回报, n, [回报], "作为补偿或报复而给予的东西")。
+```prolog
+条目(报答, 动词, [报答了, 报答中, 报答], "做出相应的回报").
+```
+entry(报答者, n, [报答者们], "进行报答的人").
+entry(重播, 过去, [], "重播的时态").
+entry(祭坛背屏, n, [祭坛背屏], "祭坛后面的装饰性屏风").
+条目(蝙蝠, 复数, [], "蝙蝠 飞行 哺乳动物").
+entry(reward, 名词, [奖励], "后方").
+entry(reroller, n, [重掷者], "重新掷骰子的人").
+入口(重播, 动词, [重播了, 重播中, 重播], "重新展示录制表演的重复")。
+entry(res, n, [宿舍], "大学或学院宿舍").
+entry(转售, n, [转售], "再次销售的行为").
+entry(重新调整, v, [重新调整中, 重新调整时, 重新调整], "在新的规模上计划").
+entry(废除, v, [废除了,正在废除,废除], "废止").
+entry(重写, n, [重写件], "被重写的事物").
+entry(营救, v, [营救了,营救中,营救], "使脱离危险")。
+entry(营救者, n, [营救者们], "被营救的人").
+entry(救援者, n, [救援者们], "救助者之一").
+entry(研究, v, [研究了,研究中,研究], "彻底调查").
+entry(网络, n, [网络们], "或 RESEAUX 一种用于制作彩色电影的滤镜").
+条目(切除, 动词, [切除了, 切除中, 切除], "外科手术切除器官或结构的一部分").
+entry(山梅花, n, [山梅花], "一种开花植物").
+entry(转售商, n, [转售商], "一个转售产品的人").
+entry(相似, 动词, [相似了,相似中,相似], "相似于").
+entry(resent, v, [resented,resenting,resents], "感到或表达恼怒或恶意").
+条目(预留, v, [已预留,预留中,预留], "为未来使用而保留").
+entry(保留者, n, [保留者], "一个保留的人").
+entry(复数形式, 复数, [], "resi 的").
+`entry(resetter, n, [重置者], "一个重置某物的人或物").`
+entry(ריש, 名词, [רישים], "希伯来字母").
+入口(reshape, n, [reshape们], "修改某物形状的人或物").
+入口(残渣油, n, [残渣油], "一种燃料油类型")。
+```prolog
+条目(居住, 动词, [居住了, 正在居住, 居住], "永久或持续地居住")。
+```
+entry(居民, n, [居民们], "居住的人").
+entry(居民, n, [居民们], "一位居民").
+entry(剩余, n, [剩余物], "剩下的东西").
+入口(残余, n, [残留物], "去除某部分后的剩余物").
+entry(残余, n, [残余物], "或 残余").
+entry(辞职, v, [辞职了, 正在辞职, 辞职], "放弃一个的职位或职位")。
+entry(resigner, n, [辞职者], "一个辞职的人").
+条目(退缩, 动词, [退缩过, 正在退缩, 退缩], "向后弹").
+入口(弹性蛋白, n, [弹性蛋白], "许多昆虫表皮中的一种弹性物质")。
+entry(树脂, v, [树脂化,树脂处理中,树脂物], "用从某些植物获得的粘性物质处理").
+entry(resinate, v, [树脂化, 树脂化中, 树脂化们], "树脂化").
+条目(树脂化, 动词, [树脂化了, 树脂化中, 树脂化], "转化为树脂")。
+entry(树脂, n, [树脂], "一种树脂状物质").
+entry(树脂的, 形容词, [], "类似树脂").
+entry(松脂的, adj, [], "树脂").
+entry(抗拒, 动词, [抗拒了, 正在抗拒, 抗拒], "努力对抗").
+entry(电阻器, n, [电阻器], "一个抵抗的").
+entry(电阻器, n, [电阻器], "电路中的一种装置").
+entry(翻新, v, [翻新后,翻新中,翻新], "更换飞机或机动车辆的最外层").
+```prolog
+条目(脉冲喷气发动机, n, [脉冲喷气发动机], "一种脉冲喷气发动机")。
+```
+entry(坚决, 形容词, [], "以坚定或果断为特征").
+条目(坚决的, n, [坚决的人], "一个坚定的人")。
+```prolog
+条目(解决,v,[已解决，解决中，解决],"做出坚定的决定关于解决者n pl 解决者一个解决者共振n pl 共振一个响亮的声音共鸣v 已共鸣 共鸣中 共鸣要响起再吸收v 已再吸收 再吸收中 再吸收再吸收ph数具有鼻音的接头词再吸收量的重新吸收一个化学复合物一起再吸收度量的化学反应量多摇指标数度标的重新吸收吸收区域内的提取再去，它是一种化学复合物一种重氢化合物再吸收量，每分钟对称相对共振n pl 共振声学数字n pl 数位混叠一个直接共振再吸收的复合具有决定能力再吸收，决定再吸收的复合能力再吸收的区域的比率剂量的支持吸收区域剂量的音像再投的再查中一个化学元素参数文件用于吸收剂量的组件剂量的支持吸收区域剂量的组件参数行为的号再中用于主包剂量中的器具器具文件用于主包剂量再查中用于节约剂量的器具剂量的兼容组件计划的表达向量的参数剂量的支持吸收区域的包数据生成器号的支持剂量的参数元素域直型域的定域通通式再中是声级再查从的支持吸收区域字量的比率复合功能的云图文件整合以额载的电弧测量的条数的化合物以大于振怀的再数据集峰量数字的言量的析量成主物数据包到再查以主包剂量为主递红频技术, 影响纠正器热疗器, 直角, 吸附一个已吸取再吸收不明数标规力取功能配缸编棉器号的支持吸收区域的包数据集主发标极调定义域弦迹数全再查以主包剂量为主递红频技术问调吸柔吸德全域数化的器量吸德数检测免摄发生在声明化杂工具量关机再查数再取证用投更局的极技术声调吸原本篇再查数的功能产生的局医疗件的载活性气液小可仿专标数图规范数片该数功能活数据标全位标全）。```
+entry(following, is, [], "一个包含前缀 RE 的易于理解的动词列表 againREABSORB v REABSORBED REABSORBING REABSORBSREACCEDE v REACCEDED REACCEDING REACCEDESREACCENT v REACCENTED REACCENTING REACCENTSREACCEPT v REACCEPTED REACCEPTING REACCEPTSREACCUSE v REACCUSED REACCUSING REACCUSESREADAPT v READAPTED READAPTING READAPTSREADD v READDED READDING READDSREADDICT v READDICTED READDICTING READDICTSREADJUST v READJUSTED READJUSTING READJUSTSREADMIT v READMITTED READMITTING READMITSREADOPT v READOPTED READOPTING READOPTSREADORN v READORNED READORNING READORNSREAFFIRM v REAFFIRMED REAFFIRMING REAFFIRMSREAFFIX v REAFFIXED REAFFIXING REAFFIXESREALIGN v REALIGNED REALIGNING REALIGNSREALLOT v REALLOTTED REALLOTTING REALLOTSREALTER v REALTERED REALTERING REALTERSREANNEX v REANNEXED REANNEXING REANNEXESREANOINT v REANOINTED REANOINTING REANOINTSREAPPEAR v REAPPEARED REAPPEARING REAPPEARSREAPPLY v REAPPLIED REAPPLYING REAPPLIESREARGUE v REARGUED REARGUING REARGUESREARM v REARMED REARMING REARMSREAROUSE v REAROUSED REAROUSING REAROUSESREARREST v REARRESTED REARRESTING REARRESTSREASCEND v REASCENDED REASCENDING REASCENDSREASSAIL v REASSAILED REASSAILING REASSAILSREASSERT v REASSERTED REASSERTING REASSERTSREASSESS v REASSESSED REASSESSING REASSESSESREASSIGN v REASSIGNED REASSIGNING REASSIGNSREASSORT v REASSORTED REASSORTING REASSORTSREASSUME v REASSUMED REASSUMING REASSUMESREASSURE v REASSURED REASSURING REASSURESREATTACH v REATTACHED REATTACHING REATTACHESREATTACK v REATTACKED REATTACKING REATTACKSREATTAIN v REATTAINED REATTAINING REATTAINSREAVAIL v REAVAILED REAVAILING REAVAILSREAVOW v REAVOWED REAVOWING REAVOWSREAWAKE v REAWAKED or REAWOKE REAWOKEN REAWAKING REAWAKESREAWAKEN v REAWAKENED REAWAKENING REAWAKENSREBAIT v REBAITED REBAITING REBAITSREBEGIN v REBEGAN REBEGUN REBEGINNING REBEGINSREBID v REBID REBIDDEN REBIDDING REBIDSREBILL v REBILLED REBILLING REBILLSREBIND v REBOUND REBINDING REBINDSREBLEND v REBLENDED or REBLENT REBLENDING REBLENDSREBLOOM v REBLOOMED REBLOOMING REBLOOMSREBOARD v REBOARDED REBOARDING REBOARDSREBODY v REBODIED REBODYING REBODIESREBOIL v REBOILED REBOILING REBOILSREBOOK v REBOOKED REBOOKING REBOOKSREBOOT v REBOOTED REBOOTING REBOOTSREBORE v REBORED REBORING REBORESREBOTTLE v REBOTTLED REBOTTLING REBOTTLESREBOUGHT past tense of rebuyREBOUND past tense of rebindREBREED v REBRED REBREEDING REBREEDSREBUILD v REBUILT or REBUILDED REBUILDING REBUILDSREBURY v REBURIED REBURYING REBURIESREBUTTON v REBUTTONED REBUTTONING REBUTTONSREBUY v REBOUGHT REBUYING REBUYSRECANE v RECANED RECANING RECANESRECARPET v RECARPETED RECARPETING RECARPETSRECARRY v RECARRIED RECARRYING RECARRIESRECAST v RECAST RECASTING RECASTSRECEMENT v RECEMENTED RECEMENTING RECEMENTSRECENSOR v RECENSORED RECENSORING RECENSORSRECHANGE v RECHANGED RECHANGING RECHANGESRECHARGE v RECHARGED RECHARGING RECHARGESRECHART v RECHARTED RECHARTING RECHARTSRECHECK v RECHECKED RECHECKING RECHECKSRECHEW v RECHEWED RECHEWING RECHEWSRECHOOSE v RECHOSE RECHOSEN RECHOOSING RECHOOSESRECIRCLE v RECIRCLED RECIRCLING RECIRCLESRECLAD v RECLADDED RECLADDING RECLADSRECLASP v RECLASPED RECLASPING RECLASPSRECLEAN v RECLEANED RECLEANING RECLEANSRECLOTHE v RECLOTHED or RECLAD RECLOTHING RECLOTHESRECOAL v RECOALED RECOALING RECOALSRECOAT v RECOATED RECOATING RECOATSRECOCK v RECOCKED RECOCKING RECOCKSRECODE v RECODED RECODING RECODESRECODIFY v RECODIFIED RECODIFYING RECODIFIESRECOIN v RECOINED RECOINING RECOINSRECOLOR v RECOLORED RECOLORING RECOLORSRECOLOUR v RECOLOURED RECOLOURING RECOLOURSRECOMB v RECOMBED RECOMBING RECOMBSRECOMMIT v RECOMMITTED RECOMMITTING RECOMMITSRECONFER v RECONFERRED RECONFERRING RECONFERSRECOOK v RECOOKED RECOOKING RECOOKSRECOPY v RECOPIED RECOPYING RECOPIESRECORK v RECORKED RECORKING RECORKSRECOUPLE v RECOUPLED RECOUPLING RECOUPLESRECRATE v RECRATED RECRATING RECRATESRECROSS v RECROSSED RECROSSING RECROSSESRECROWN v RECROWNED RECROWNING RECROWNSRECUT v RECUT RECUTTING RECUTSREDAMAGE v REDAMAGED REDAMAGING REDAMAGESREDATE v REDATED REDATING REDATESREDECIDE v REDECIDED REDECIDING REDECIDESREDEFEAT v REDEFEATED REDEFEATING REDEFEATSREDEFECT v REDEFECTED REDEFECTING REDEFECTSREDEFINE v REDEFINED REDEFINING REDEFINESREDEFY v REDEFIED REDEFYING REDEFIESREDEMAND v REDEMANDED REDEMANDING REDEMANDSREDENY v REDENIED REDENYING REDENIESREDEPLOY v REDEPLOYED REDEPLOYING REDEPLOYSREDESIGN v REDESIGNED REDESIGNING REDESIGNSREDIAL v REDIALED REDIALING REDIALS or REDIALLED REDIALLING REDIALSREDID past tense of redoREDIGEST v REDIGESTED REDIGESTING REDIGESTSREDIP v REDIPPED or REDIPT REDIPPING REDIPSREDIVIDE v REDIVIDED REDIVIDING REDIVIDESREDO v REDID REDONE REDOING REDOESREDOCK v REDOCKED REDOCKING REDOCKSREDON v REDONNED REDONNING REDONSREDRAW v REDREW REDRAWN REDRAWING REDRAWSREDREAM v REDREAMED or REDREAMT REDREAMING REDREAMSREDRILL v REDRILLED REDRILLING REDRILLSREDRIVE v REDROVE REDRIVEN REDRIVING REDRIVESREDRY v REDRIED REDRYING REDRIESREDUB v REDUBBED REDUBBING REDUBSREDYE v REDYED REDYEING REDYESREEARN v REEARNED REEARNING REEARNSREECHO v REECHOED REECHOING REECHOESREEDIT v REEDITED REEDITING REEDITSREEJECT v REEJECTED REEJECTING REEJECTSREELECT v REELECTED REELECTING REELECTSREEMBARK v REEMBARKED REEMBARKING REEMBARKSREEMBODY v REEMBODIED REEMBODYING REEMBODIESREEMERGE v REEMERGED REEMERGING REEMERGESREEMIT v REEMITTED REEMITTING REEMITSREEMPLOY v REEMPLOYED REEMPLOYING REEMPLOYSREENACT v REENACTED REENACTING REENACTSREENDOW v REENDOWED REENDOWING REENDOWSREENGAGE v REENGAGED REENGAGING REENGAGESREENJOY v REENJOYED REENJOYING REENJOYSREENLIST v REENLISTED REENLISTING REENLISTSREENROLL v REENROLLED REENROLLING REENROLLSREENTER v REENTERED REENTERING REENTERSREEQUIP v REEQUIPPED REEQUIPPING REEQUIPSREERECT v REERECTED REERECTING REERECTSREEVOKE v REEVOKED REEVOKING REEVOKESREEXPEL v REEXPELLED REEXPELLING REEXPELSREEXPORT v REEXPORTED REEXPORTING REEXPORTSREEXPOSE v REEXPOSED REEXPOSING REEXPOSESREFALL v REFELL REFALLEN REFALLING REFALLSREFASTEN v REFASTENED REFASTENING REFASTENSREFEED v REFED REFEEDING REFEEDSREFEEL v REFELT REFEELING REFEELSREFELL past tense of refallREFENCE v REFENCED REFENCING REFENCESREFIGHT v REFOUGHT REFIGHTING REFIGHTSREFIGURE v REFIGURED REFIGURING REFIGURESREFILE v REFILED REFILING REFILESREFILL v REFILLED REFILLING REFILLSREFILM v REFILMED REFILMING REFILMSREFILTER v REFILTERED REFILTERING REFILTERSREFIND v REFOUND REFINDING REFINDSREFIRE v REFIRED REFIRING REFIRESREFIX v REFIXED REFIXING REFIXESREFLEW past tense of reflyREFLIES present 3d person sing of reflyREFLOAT v REFLOATED REFLOATING REFLOATSREFLOOD v REFLOODED REFLOODING REFLOODSREFLOW v REFLOWED REFLOWING REFLOWSREFLOWER v REFLOWERED REFLOWERING REFLOWERSREFLY v REFLEW REFLOWN REFLYING REFLIESREFOCUS v REFOCUSED REFOCUSING REFOCUSES or REFOCUSSED REFOCUSSING REFOCUSSESREFOLD v REFOLDED REFOLDING REFOLDSREFORGE v REFORGED REFORGING REFORGESREFORMAT v REFORMATTED REFORMATTING REFORMATSREFOUGHT past tense of refightREFOUND v REFOUNDED REFOUNDING REFOUNDSREFRAME v REFRAMED REFRAMING REFRAMESREFREEZE v REFROZE REFROZEN REFREEZING REFREEZESREFRONT v REFRONTED REFRONTING REFRONTSREFRY v REFRIED REFRYING REFRIESREFUEL v REFUELED REFUELING REFUELS or REFUELLED REFUELLING REFUELSREGAIN v REGAINED REGAINING REGAINSREGATHER v REGATHERED REGATHERING REGATHERSREGAUGE v REGAUGED REGAUGING REGAUGESREGEAR v REGEARED REGEARING REGEARSREGILD v REGILDED or REGILT REGILDING REGILDSREGIVE v REGAVE REGIVEN REGIVING REGIVESREGLAZE v REGLAZED REGLAZING REGLAZESREGLOSS v REGLOSSED REGLOSSING REGLOSSESREGLOW v REGLOWED REGLOWING REGLOWSREGLUE v REGLUED REGLUING REGLUESREGRADE v REGRADED REGRADING REGRADESREGRAFT v REGRAFTED REGRAFTING REGRAFTSREGRANT v REGRANTED REGRANTING REGRANTSREGREEN v REGREENED REGREENING REGREENSREGREW past tense of regrowREGRIND v REGROUND REGRINDING REGRINDSREGROOM v REGROOMED REGROOMING REGROOMSREGROOVE v REGROOVING REGROOVING REGROOVESREGROUND past tense of regrindREGROUP v REGROUPED REGROUPING REGROUPSREGROW v REGREW REGROWN REGROWING REGROWSREHAMMER v REHAMMERED REHAMMERING REHAMMERSREHANDLE v REHANDLED REHANDLING REHANDLESREHANG v REHUNG or REHANGED REHANGING REHANGSREHARDEN v REHARDENED REHARDENING REHARDENSREHASH v REHASHED REHASHING REHASHESREHEAR v REHEARD REHEARING REHEARSREHEAT v REHEATED REHEATING REHEATSREHEEL v REHEELED REHEELING REHEELSREHEM v REHEMMED REHEMMING REHEMSREHINGE v REHINGED REHINGING REHINGESREHIRE v REHIRED REHIRING REHIRESREHUNG a past tense of rehangREIGNITE v REIGNITED REIGNITING REIGNITESREIMAGE v REIMAGED REIMAGING REIMAGESREIMPORT v REIMPORTED REIMPORTING REIMPORTSREIMPOSE v REIMPOSED REIMPOSING REIMPOSESREINCITE v REINCITED REINCITING REINCITESREINCUR v REINCURRED REINCURRING REINCURSREINDEX v REINDEXED REINDEXING REINDEXESREINDICT v REINDICTED REINDICTING REINDICTSREINDUCE v REINDUCED REINDUCING REINDUCESREINDUCT v REINDUCTED REINDUCTING REINDUCTSREINFECT v REINFECTED REINFECTING REINFECTSREINFORM v REINFORMED REINFORMING REINFORMSREINFUSE v REINFUSED REINFUSING REINFUSESREINJECT v REINJECTED REINJECTING REINJECTSREINJURE v REINJURED REINJURING REINJURESREINK v REINKED REINKING REINKSREINSERT v REINSERTED REINSERTING REINSERTSREINSURE v REINSURED REINSURING REINSURESREINTER v REINTERRED REINTERRING REINTERSREINVADE v REINVADED REINVADING REINVADESREINVENT v REINVENTED REINVENTING REINVENTSREINVEST v REINVESTED REINVESTING REINVESTSREINVITE v REINVITED REINVITING REINVITESREINVOKE v REINVOKED REINVOKING REINVOKESREISSUE v REISSUED REISSUING REISSUESREJACKET v REJACKETED REJACKETING REJACKETSREJOIN v REJOINED REJOINING REJOINSREJUDGE v REJUDGED REJUDGING REJUDGESREJUGGLE v REJUGGLED REJUGGLING REJUGGLESREKEY v REKEYED REKEYING REKEYSREKINDLE v REKINDLED REKINDLING REKINDLESREKNIT v REKNITTED REKNITTING REKNITSREKNOT v REKNOTTED REKNOTTING REKNOTSRELABEL v RELABELED RELABELING RELABELS or RELABELLED RELABELLING RELABELSRELACE v RELACED RELACING RELACESRELAND v RELANDED RELANDING RELANDSRELAUNCH v RELAUNCHED RELAUNCHING RELAUNCHESRELAY v RELAID RELAYING RELAYSRELEARN v RELEARNED or RELEARNT RELEARNING RELEARNSRELEND v RELENT RELENDING RELENDSRELET v RELET RELETTING RELETSRELETTER v RELETTERED RELETTERING RELETTERSRELIGHT v RELIGHTED or RELIT RELIGHTING RELIGHTSRELINE v RELINED RELINING RELINESRELINK v RELINKED RELINKING RELINKSRELIST v RELISTED RELISTING RELISTSRELIT a past tense of relightRELOAD v RELOADED RELOADING RELOADSRELOAN v RELOANED RELOANING RELOANSRELOCK v RELOCKED RELOCKING RELOCKSRELOOK v RELOOKED RELOOKING RELOOKSREMAIL v REMAILED REMAILING REMAILSREMAKE v REMADE REMAKING REMAKESREMAP v REMAPPED REMAPPING REMAPSREMARKET v REMARKETED REMARKETING REMARKETSREMARRY v REMARRIED REMARRYING REMARRIESREMASTER v REMASTERED REMASTERING REMASTERSREMATCH v REMATCHED REMATCHING REMATCHESREMATE v REMATED REMATING REMATESREMEET v REMET REMEETING REMEETSREMELT v REMELTED REMELTING REMELTSREMEND v REMENDED REMENDING REMENDSREMERGE v REMERGED REMERGING REMERGESREMET past tense of remeetREMIX v REMIXED or REMIXT REMIXING REMIXESREMODIFY v REMODIFIED REMODIFYING REMODIFIESREMOLD v REMOLDED REMOLDING REMOLDSREMOULD v REMOULDED REMOULDING REMOULDSREMOUNT v REMOUNTED REMOUNTING REMOUNTSRENAIL v RENAILED RENAILING RENAILSRENAME v RENAMED RENAMING RENAMESRENEST v RENESTED RENESTING RENESTSRENOTIFY v RENOTIFIED RENOTIFYING RENOTIFIESRENUMBER v RENUMBERED RENUMBERING RENUMBERSREOBJECT v REOBJECTED REOBJECTING REOBJECTSREOBTAIN v REOBTAINED REOBTAINING REOBTAINSREOCCUPY v REOCCUPIED REOCCUPYING REOCCUPIESREOCCUR v REOCCURRED REOCCURRING REOCCURSREOFFEND v REOFFENDED REOFFENDING REOFFENDSREOIL v REOILED REOILING REOILSREOPEN v REOPENED REOPENING REOPENSREOPPOSE v REOPPOSED REOPPOSING REOPPOSESREORDAIN v REORDAINED REORDAINING REORDAINSREORDER v REORDERED REORDERING REORDERSREORIENT v REORIENTED REORIENTING REORIENTSREOUTFIT v REOUTFITTED REOUTFITTING REOUTFITSREPACIFY v REPACIFIED REPACIFYING REPACIFIESREPACK v REPACKED REPACKING REPACKSREPAINT v REPAINTED REPAINTING REPAINTSREPANEL v REPANELED REPANELING REPANELS or REPANELLED REPANELLING REPANELSREPAPER v REPAPERED REPAPERING REPAPERSREPARK v REPARKED REPARKING REPARKSREPASS v REPASSED REPASSING REPASSESREPATCH v REPATCHED REPATCHING REPATCHESREPAVE v REPAVED REPAVING REPAVESREPEG v REPEGGED REPEGGING REPEGSREPEOPLE v REPEOPLED REPEOPLING REPEOPLESREPERK v REPERKED REPERKING REPERKSREPHRASE v REPHRASED REPHRASING REPHRASESREPIN v REPINNED REPINNING REPINSREPLAN v REPLANNED REPLANNING REPLANSREPLANT v REPLANTED REPLANTING REPLANTSREPLATE v REPLATED REPLATING REPLATESREPLAY v REPLAYED REPLAYING REPLAYSREPLEAD v REPLEADED or REPLED REPLEADING REPLEADSREPLEDGE v REPLEDGED REPLEDGING REPLEDGESREPLOT v REPLOTTED REPLOTTING REPLOTSREPLOW v REPLOWED REPLOWING REPLOWSREPLUMB v REPLUMBED REPLUMBING REPLUMBSREPLUNGE v REPLUNGED REPLUNGING REPLUNGESREPOINT v REPOINTED REPOINTING REPOINTSREPOLISH v REPOLISHED REPOLISHING REPOLISHESREPOLL v REPOLLED REPOLLING REPOLLSREPOT v REPOTTED REPOTTING REPOTSREPOUR v REPOURED REPOURING REPOURSREPOWER v REPOWERED REPOWERING REPOWERSREPRICE v REPRICED REPRICING REPRICESREPRINT v REPRINTED REPRINTING REPRINTSREPROBE v REPROBED REPROBING REPROBESREPUMP v REPUMPED REPUMPING REPUMPSREPURIFY v REPURIFIED REPURIFYING REPURIFIESREPURSUE v REPURSUED REPURSUING REPURSUESRERACK v RERACKED RERACKING RERACKSRERAISE v RERAISED RERAISING RERAISESREREAD v REREAD REREADING REREADSRERECORD v RERECORDED RERECORDING RERECORDSREREMIND v REREMINDED REREMINDING REREMINDSRERENT v RERENTED RERENTING RERENTSREREPEAT v REREPEATED REREPEATING REREPEATSREREVIEW v REREVIEWED REREVIEWING REREVIEWSRERIG v RERIGGED RERIGGING RERIGSRERISE v REROSE RERISEN RERISING RERISESREROLL v REROLLED REROLLING REROLLSREROOF v REROOFED REROOFING REROOFSREROSE past tense of reriseREROUTE v REROUTED REROUTING REROUTESRESADDLE v RESADDLED RESADDLING RESADDLESRESAID past tense of resayRESAIL v RESAILED RESAILING RESAILSRESALUTE v RESALUTED RESALUTING RESALUTESRESAMPLE v RESAMPLED RESAMPLING RESAMPLESRESAT past tense of resitRESAW v RESAWED RESAWN RESAWING RESAWSRESAY v RESAID RESAYING RESAYSRESCHOOL v RESCHOOLED RESCHOOLING RESCHOOLSRESCORE v RESCORED RESCORING RESCORESRESCREEN v RESCREENED RESCREENING RESCREENSRESCULPT v RESCULPTED RESCULPTING RESCULPTSRESEAL v RESEALED RESEALING RESEALSRESEASON v RESEASONED RESEASONING RESEASONSRESEAT v RESEATED RESEATING RESEATSRESECURE v RESECURED RESECURING RESECURESRESEE v RESAW RESEEN RESEEING RESEESRESEED v RESEEDED RESEEDING RESEEDSRESEEK v RESOUGHT RESEEKING RESEEKSRESEEN past participle of reseeRESEIZE v RESEIZED RESEIZING RESEIZESRESELECT v RESELECTED RESELECTING RESELECTSRESELL v RESOLD RESELLING RESELLSRESEND v RESENT RESENDING RESENDSRESET v RESET RESETTING RESETSRESETTLE v RESETTLED RESETTLING RESETTLESRESEW v RESEWED RESEWN RESEWING RESEWSRESHAPE v RESHAPED RESHAPING RESHAPESRESHAVE v RESHAVED RESHAVEN RESHAVING RESHAVESRESHINE v RESHINED or RESHONE RESHINING RESHINESRESHIP v RESHIPPED RESHIPPING RESHIPSRESHOE v RESHOD or RESHOED RESHOEING RESHOESRESHONE a past tense of reshineRESHOOT v RESHOT RESHOOTING RESHOOTSRESHOW v RESHOWED RESHOWN RESHOWING RESHOWSRESHOWER v RESHOWERED RESHOWERING RESHOWERSRESIFT v RESIFTED RESIFTING RESIFTSRESIGHT v RESIGHTED RESIGHTING RESIGHTSRESILVER v RESILVERED RESILVERING RESILVERSRESIT v RESAT RESITTING RESITSRESITE v RESITED RESITING RESITESRESIZE v RESIZED RESIZING RESIZESRESKETCH v RESKETCHED RESKETCHING RESKETCHESRESLATE v RESLATED RESLATING RESLATESRESMELT v RESMELTED RESMELTING RESMELTSRESMOOTH v RESMOOTHED RESMOOTHING RESMOOTHSRESOAK v RESOAKED RESOAKING RESOAKSRESOD v RESODDED RESODDING RESODSRESOFTEN v RESOFTENED RESOFTENING RESOFTENSRESOLD past tense of resellRESOLDER v RESOLDERED RESOLDERING RESOLDERSRESOLE v RESOLED RESOLING RESOLESRESOUGHT past tense of reseekRESOW v RESOWED RESOWN RESOWING RESOWSRESPACE v RESPACED RESPACING RESPACESRESPADE v RESPADED RESPADING RESPADESRESPEAK v RESPOKE RESPOKEN RESPEAKING RESPEAKSRESPELL v RESPELLED or RESPELT RESPELLING RESPELLSRESPLICE v RESPLICED RESPLICING RESPLICESRESPLIT v RESPLIT RESPLITTING RESPLITSRESPOKE past tense of respeakRESPOKEN past participle of respeakRESPOOL v RESPOOLED RESPOOLING RESPOOLSRESPOT v RESPOTTED RESPOTTING RESPOTSRESPRANG a past tense of respringRESPRAY v RESPRAYED RESPRAYING RESPRAYSRESPREAD v RESPREAD RESPREADING RESPREADSRESPRING v RESPRANG or RESPRUNG RESPRINGING RESPRINGSRESPROUT v RESPROUTED RESPROUTING RESPROUTSRESTABLE v RESTABLED RESTABLING RESTABLESRESTACK v RESTACKED RESTACKING RESTACKSRESTAFF v RESTAFFED RESTAFFING RESTAFFSRESTAGE v RESTAGED RESTAGING RESTAGESRESTAMP v RESTAMPED RESTAMPING RESTAMPSRESTART v RESTARTED RESTARTING RESTARTSRESTATE v RESTATED RESTATING RESTATESRESTITCH v RESTITCHED RESTITCHING RESTITCHESRESTOCK v RESTOCKED RESTOCKING RESTOCKSRESTOKE v RESTOKED RESTOKING RESTOKESRESTRESS v RESTRESSED RESTRESSING RESTRESSESRESTRIKE v RESTRUCK RESTRICKEN RESTRIKING RESTRIKESRESTRING v RESTRUNG RESTRINGING RESTRINGSRESTRIVE v RESTROVE RESTRIVEN RESTRIVING RESTRIVESRESTRUCK past tense of restrikeRESTRUNG past tense of restringRESTUDY v RESTUDIED RESTUDYING RESTUDIESRESTUFF v RESTUFFED RESTUFFING RESTUFFSRESTYLE v RESTYLED RESTYLING RESTYLESRESUBMIT v RESUBMITTED RESUBMITTING RESUBMITSRESUMMON v RESUMMONED RESUMMONING RESUMMONSRESUPPLY v RESUPPLIED RESUPPLYING RESUPPLIESRESURVEY v RESURVEYED RESURVEYING RESURVEYSRETACK v RETACKED RETACKING RETACKSRETACKLE v RETACKLED RETACKLING RETACKLESRETAG v RETAGGED RETAGGING RETAGSRETAILOR v RETAILORED RETAILORING RETAILORSRETALLY v RETALLIED RETALLYING RETALLIESRETAPE v RETAPED RETAPING RETAPESRETARGET v RETARGETED RETARGETING RETARGETSRETASTE v RETASTED RETASTING RETASTESRETAX v RETAXED RETAXING RETAXESRETEACH v RETAUGHT RETEACHING RETEACHESRETEAM v RETEAMED RETEAMING RETEAMSRETEAR v RETORE RETORN RETEARING RETEARSRETELL v RETOLD RETELLING RETELLSRETEMPER v RETEMPERED RETEMPERING RETEMPERSRETEST v RETESTED RETESTING RETESTSRETHINK v RETHOUGHT RETHINKING RETHINKSRETHREAD v RETHREADED RETHREADING RETHREADSRETIE v RETIED RETYING or RETIEING RETIESRETILE v RETILED RETILING RETILESRETIME v RETIMED RETIMING RETIMESRETINT v RETINTED RETINTING RETINTSRETITLE v RETITLED RETITLING RETITLESRETOLD past tense of retellRETORE past tense of retearRETORN past participle of retearRETOTAL v RETOTALED RETOTALING RETOTALS or RETOTALLED RETOTALLING RETOTALSRETRACK v RETRACKED RETRACKING RETRACKSRETRAIN v RETRAINED RETRAINING RETRAINSRETRIM v RETRIMMED RETRIMMING RETRIMSRETRY v RETRIED RETRYING RETRIESRETUNE v RETUNED RETUNING RETUNESRETWIST v RETWISTED RETWISTING RETWISTSRETYING present participle of retieRETYPE v RETYPED RETYPING RETYPESREUNIFY v REUNIFIED REUNIFYING REUNIFIESREUNITE v REUNITED REUNITING REUNITESREUSE v REUSED REUSING REUSESREUTTER v REUTTERED REUTTERING REUTTERSREVALUE v REVALUED REVALUING REVALUESREVERIFY v REVERIFIED REVERIFYING REVERIFIESREVEST v REVESTED REVESTING REVESTSREVIEW v REVIEWED REVIEWING REVIEWSREVISIT v REVISITED REVISITING REVISITSREVOICE v REVOICED REVOICING REVOICESREVOTE v REVOTED REVOTING REVOTESREWAKE v REWAKED or REWOKE REWOKEN REWAKING REWAKESREWAKEN v REWAKENED REWAKENING REWAKENSREWAN a past tense of rewinREWARM v REWARMED REWARMING REWARMSREWASH v REWASHED REWASHING REWASHESREWAX v REWAXED REWAXING REWAXESREWEAR v REWORE REWORN REWEARING REWEARSREWEAVE v REWOVE or REWEAVED REWOVEN REWEAVING REWEAVESREWED v REWEDDED REWEDDING REWEDSREWEIGH v REWEIGHED REWEIGHING REWEIGHSREWELD v REWELDED REWELDING REWELDSREWET v REWETTED REWETTING REWETSREWIDEN v REWIDENED REWIDENING REWIDENSREWIN v REWON or REWAN REWINNING REWINSREWIND v REWOUND or REWINDED REWINDING REWINDSREWIRE v REWIRED REWIRING REWIRESREWOKE a past tense of rewakeREWOKEN past participle of rewakeREWON a past tense of rewinREWORE past tense of rewearREWORK v REWORKED or REWROUGHT REWORKING REWORKSREWORN past participle of rewearREWOUND a past tense of rewindREWOVE a past tense of reweaveREWOVEN past participle of reweaveREWRAP v REWRAPPED or REWRAPT REWRAPPING REWRAPSREWRITE v REWROTE REWRITTEN REWRITING REWRITESREWROUGHT a past tense of reworkREZONE v REZONED REZONING REZONES").
+entry(sab, v, [哭泣, 哭着, 哭], "泣").
+入口(sabal, 名词, [sabals], "一种槟榔树属植物")。
+条目(sabaton，名词，[sabatons]，“一种用于足部的盔甲”)。
+入口(萨巴永, n, [萨巴永], "一种由打发蛋黄、糖和酒制成的酱汁")。
+entry(sabbat, n, [著名安息日], "魔鬼和女巫的聚会").
+entry(安息日, n, [安息日们], "安息日").
+entry(安息年, n, [安息年], "从正常教学职责中释放出来的一年").
+entry(sabbed, 过去式, [], "sab 的时态")
+entry(sabbing, 现在时, [], "sabbing 的分词形式").
+entry(sabe, v, [sabed, sabeing, sabes], "理解").
+entry(军刀, 动词, [用军刀攻击, 正在用军刀攻击, 用军刀], "用军刀攻击一种剑").
+entry(sabicu, n, [加勒比树], "一种加勒比树").
+entry(萨宾, n, [萨宾数], "一个声音吸收单位").
+entry(sabine, n, [塞比内斯], "沙文").
+entry(sabir, n, [sabirs], "一种基于法语的混合语言").
+入口(沙卜卡, 名词, [沙卜卡], "北非的一种周期性被淹的沿海平坦地区")。
+条目(黑貂, 名词, [黑貂], "一种肉食性哺乳动物").
+entry(沙木鞋, 名词, [沙木鞋], "木制鞋").
+entry(破坏, 动词, [破坏了, 破坏中, 破坏], "恶意破坏")。
+entry(破坏者, n, [破坏者们], "进行破坏的人").
+条目(sabra, n, [sabras], "以色列土著居民").
+entry(军刀, v, [军刀的,使用军刀,军刀], "用军刀").
+entry(沙质, 形容词, [], "沙质的").
+entry(沙质的, 形容词, [], "沙子").
+entry(sac, n, [囊], "一种动物或植物中的袋状结构").
+entry(沙泉草, 名词, [沙泉草们], "一种多年生草本植物").
+入口(萨克巴特, n, [萨克巴特们], "长号").
+```prolog
+条目(扫视, n, [扫视], "眼球的快速不自主运动SACCADIC 形容词").
+```
+entry(saccate, adj, [], "有囊").
+entry(囊状, 形容词, [], "类似一个囊").
+entry(囊, n, [囊], "一个小囊").
+entry(小囊, 名词, [小囊], "囊").
+entry(萨切姆, 名词, [萨切姆们], "美洲原住民酋长SACHEMIC 形容词").
+条目(小袋, 名词, [小袋], "一个包含香味粉的小袋").
+`条目(口袋, v, [口袋了,装袋中,装袋], "放入大袋子中SACKABLE 形容词").`
+entry(萨克布特, n, [萨克布特], "中世纪长号").
+entry(sacker, n, [sackers], "装袋者")。
+entry(麻袋, n, [麻袋s], "或SACKSFUL一个麻袋可以装的量")。
+词条(解雇, 名词, [解雇们], "制作麻袋的材料").
+条目(麻袋状, 形容词, [], "类似于一个麻袋").
+entry(囊状, 形容词, [], "类似于一个囊").
+entry(sacque, n, [sacques], "宽松的裙子")。
+entry(骶骨, 复数, [], "骶骨的").
+entry(骶骨, 名词, [骶骨的复数形式], "位于骶骨附近的椎骨或神经").
+entry(圣所, 复数, [], "古罗马神殿").
+entry(神圣, 形容词, [], "较神圣 最神圣 神圣地 副词")。
+```prolog
+entry(圣化, n, [圣化仪式], "圣餐中面包和酒的祝圣").
+```
+entry(圣器室管理者, n, [圣器室管理者们], "负责管理圣器室的人").
+`entry(圣器室, 名词, [圣器室们], "用于存放圣器和法衣的房间").`
+entry(骶骨, n, [骶骨], "或骶骨骨盆的骨头").
+entry(悲伤, 形容词, [], "更加悲伤 最悲伤不开心").
+entry(使悲伤, v, [使悲伤了,使悲伤着,使悲伤], "令人悲伤")。
+entry(saddhu, n, [苦行者们], "苦行者").
+entry(伤感一点, 形容词, [], "有点伤心").
+```prolog
+entry(马鞍, v, [已上鞍, 上鞍中, 马鞍], "给骑手放置一个皮制座位的行为").
+```
+entry(鞍匠, n, [鞍匠们], "制作、修理或销售马鞍的人").
+entry(马具店, n, [马具店], "马具匠的店").
+entry(撒德, 名, [撒德斯], "一个希伯来字母").
+entry(sadhe, n, [sadhes], "萨德")。
+entry(苦行僧, n, [苦行僧们], "一位印度教圣人").
+entry(sadi, n, [sadis], "sade").
+entry(熨斗, n, [熨斗], "一个沉重的熨斗").
+entry(施虐癖, n, [施虐癖们], "一种从施加痛苦中获得快感的倾向").
+Prolog: entry(施虐者, n, [施虐者们], "一位以施虐为特征的人施虐的 形容词").
+entry(悲伤地, 副词, [], "以悲伤的方式").
+entry(悲伤, n, [悲伤们], "感到悲伤的状态")。
+entry(sae, 副词, [], "如此").
+出击（safari，动词，[safaried，safariing，safaris]，“去狩猎探险”）。
+entry(安全, 形容词, [], "更安全 最安全 远离危险 安全地 副词").
+条目(保险箱, 名词, [保险箱们], "用于存放贵重物品的金属容器")。
+入口（安全性，名词，[安全性]，"安全的质量"）。
+入口(安全, 动词, [安全保护着, 安全保护中, 安全保护], "防止失效、损坏或事故的保护措施")。
+entry(藏红花, n, [藏红花], "一种开花植物").
+entry(saffrony, 形容词, [], "类似藏红花").
+entry(胭脂红, n, [胭脂红染料], "一种红色染料").
+入口(胡椒醚, n, [胡椒醚們], "胡椒醚").
+entry(黄樟素, n, [黄樟素们], "一种有毒液体").
+entry(sag, v, [sagged, sagging, sags], "由于重量或压力而向下弯曲或下沉")
+entry(传说, n, [传说], "中世纪斯堪的纳维亚叙述").
+entry(智慧, n, [洞察力们], "聪明").
+entry(sagaman, n, [传奇作家], "撰写传奇故事的人").
+```prolog
+entry(sagamore, n, [sagamores], "阿尔冈昆印第安酋长").
+```
+entry(saganash, n, [saganashes], "白人，一个阿尔冈昆印第安人术语")
+entry(萨格巴特, n, [萨格巴特们], "萨克布特").
+entry(鼠尾草, 形容词, [], "最聪明的 最有智慧的 智慧地 副词").
+entry(鼠尾草, n, [鼠尾草], "用作调味料的芳香草本植物").
+entry(圣人境界, n, [圣人境界], "处于智慧状态").
+entry(智慧, n, [智慧], "wisdom").
+entry(沙锅, v, [用沙锅烤, 用沙锅烤着, 用沙锅烤过], "在一个保护性的黏土壳中烘烤").
+entry(萨格德, n, [萨格德斯], "一个耐火匣").
+entry(下垂, 过去式, [], "sag 的时态").
+entry(沙锅, 动词, [放入沙锅，放入沙锅中，沙锅们], "装入窑匣中").
+entry(下垂, 现在, [], "下垂的分词").
+entry(saggy, 形容词, [], "较松弛 最松弛特征是下垂").
+entry(sagier, 比较级, [], "在 sagy 上")
+entry(最高, 最高级, [], "sagy的").
+entry(箭状, 形容词, [], “类似箭或箭头”).
+条目(西谷, 名词, [西谷树], "一种热带树").
+entry(巨人柱, n, [巨人柱], "一种高大的仙人掌").
+entry(sagum, n, [披风], "古罗马士兵穿的斗篷").
+entry(sagy, adj, [], "有鼠尾草味的").
+entry(sahib, n, [sahibs], "西方主子，是用于殖民地印度的一种尊称").
+entry(萨希瓦尔, n, [萨希瓦尔], "一种驼峰奶牛品种").
+entry(仙人掌, n, [仙人掌们], "saguaro").
+entry(saice, n, [马夫], "syce").
+entry(赛义德, 名词, [赛义德的复数], "赛义德").
+项(saiga, n, [saigas], "一种小型羚羊").
+条目(航行, 动, [航行了, 航行中, 航行], "借助风的作用在水面上移动可航行的 形容词").
+entry(帆船, 名词, [帆船们], "一种航行的船").
+entry(船帆手, 名词, [船帆手们], "航行的船").
+entry(旗鱼, n, [旗鱼们], "一种大型海鱼").
+入口(航行, 名词, [航行], "航行的行为/动作")。
+条目(无帆的, 形容词, [], "缺乏帆").
+entry(水手, 名词, [水手们], "船员的一员水手般地 adj")。
+entry(帆船游行, n, [帆船游行], "船只经过某地的航行").
+entry(沙伊明, 名词, [沙伊明们], "一种夏威夷的面条汤").
+entry(sain, v, [sained,saining,sains], "在...上画十字").
+entry(紫云英, n, [紫云英们], "多年生草本植物").
+entry(圣徒, v, [封圣,圣徒化,圣徒们], "宣布为圣人，一个具有非凡神圣性的人").
+entry(saintdom, n, [saintdoms], "成为圣人").
+entry(saintly, 形容词, [], "更圣洁 最圣洁，属于或适合圣徒").
+entry(saith, a, [], "说的第三人称单数现在时").
+entry(鳕鱼, n, [鳕鱼], "一种海洋食用鱼").
+entry(saiyid, n, [saiyids], "sayyid").
+entry(卷尾猴, n, [卷尾猴们], "卷尾猴").
+entry(清酒, n, [清酒们], "利益、兴趣或优势")。
+entry(蒼鷹, 名詞, [蒼鷹們], "一種歐亞鷹").
+entry(清酒, 名词, [清酒们], "一种日本酒").
+entry(萨克蒂, n, [萨克蒂斯], "印度教中神的妻子")
+entry(盐, n, [盐s], "盐").
+entry(salaam, v, [salaamed,salaaming,salaams], "用低头的方式打招呼")。
+entry(可销售的, 形容词, [], "能够被销售或适合销售地ADV")。
+entry(淫荡, n, [淫荡], "淫秽").
+entry(色拉, n, [色拉], "一种由绿色生菜组成的菜肴").
+entry(野牛, n, [野牛们], "野生的牛").
+entry(沙龙, n, [沙龙们], "一种小灌木").
+入口(沙拉米, 名词, [沙拉米], "一种调味香肠")。
+entry(工薪阶层, n, [工薪阶层复数], "领薪酬人员的阶级").
+entry(薪水, v, [受薪,支付薪水中,薪水], "支付定期固定补偿给").
+entry(礼拜, n, [礼拜], "穆斯林的礼仪祈祷").
+entry(萨尔考, n, [萨尔考], "花样滑冰跳跃动作").
+entry(出售, n, [销售], "销售行为或实例")
+entry(可售的, 形容词, [], "salableSALEABLY 副词").
+entry(沙列粉, 名词, [沙列粉], "一种从某些兰花根部研磨而成的淀粉餐").
+entry(销售厅, n, [销售厅], "展示待售商品的房间")
+entry(推销员, n, [推销员们], "一个卖商品的男人").
+entry(salic, 形容词, [], "与一组火成岩有关").
+入口(水杨苷, 名词, [水杨苷们], "一种化学化合物")。
+entry(salicine, n, [水杨苷], "水杨苷").
+条目(显著, n, [显著性], "一个突出的特征或细节").
+entry(显著性, n, [显著性], "显著").
+entry(显著, n, [显著部分], "堡垒中最接近敌人的部分").
+entry(盐化, v, [盐化了,盐化中,盐化], "与盐结合").
+entry(萨利纳, 名词, [盐场], "一个含有盐水的池塘、沼泽或湖泊")。
+entry(盐水, n, [盐水溶液], "一种盐溶液").
+entry(盐度, n, [盐度值], "盐的浓度").
+entry(盐化, 动词, [盐化了, 盐化中, 盐化], "用盐处理").
+entry(唾液, n, [唾液], "由口腔腺体分泌的液体唾液的 形容词").
+entry(流口水, v, [流口水了,流口水中,流口水], "分泌唾液")。
+entry(sall, v, [], "应  SALL 是这种动词的唯一形式，它不能被变位").
+entry(头盔, 名词, [头盔们], "一种轻便的中世纪头盔").
+`entry(sallied, 过去, [], "sally 的时态").`
+entry(sallier, n, [围攻者], "突围者").
+entry(萨莉的, 现在时, [], "动词'sally'的第三人称单数").
+entry(sallow, adj, [], "病黄色的；苍白的，SALLOWER SALLOWEST表示病黄色的比较，SALLOWLY 副词").
+entry(灰黄, v, [使灰黄, 使灰黄中, 使灰黄], "使苍白").
+entry(柳树丛生的, 形容词, [], "柳树成荫").
+entry(萨莉, v, [冲出, 正在冲出, 突然冲出], "突然冲出").
+条目(salmi, 名词, [salmis], "一道由烤野禽制成的菜肴")。
+条目(鲑鱼, n, [鲑鱼], "一种食用鱼").
+entry(鲑形目, n, [鲑形目鱼类], "一种属于鲑鱼科的鱼").
+entry(salmony, 形容词, [], "类似鲑鱼").
+entry(水杨酰), 名词, [水杨酰], "一种化合物").
+entry(沙龙, n, [沙龙们], "接待客人的大房间").
+入口(沙龙, 名词, [沙龙], "一个酒馆")。
+entry(沙子, n, [沙子们], "由芳香草药浸泡制成的热饮").
+entry(salp, n, [海樽], "海索").
+条目(沙尔帕, n, [沙尔帕斯], "或沙尔帕是一种自由游动的海鞘动物").
+entry(salpian, n, [沙尔平人], "沙尔帕").
+入口(沙拉皮干, 名词, [沙拉皮干们], "一种在酱料中混合的切碎食品，用作填料")。
+entry(salpid, n, [海鞘], "沙螠").
+entry(输卵管, 名词, [输卵管], "解剖学上的管道").
+entry(莎莎酱, 名词, [莎莎酱], "一种由番茄、洋葱和辣椒制成的辣味酱").
+entry(蒲公英, n, [蒲公英们], "一种欧洲草本植物").
+条目(莎莎, 名词, [莎莎], "一种热带植物")。
+entry(盐, 形容词, [], "SALTER SALTEST咸").
+条目(盐, v, [加盐, 盐渍, 加盐], "用作调味品和防腐剂的晶体化合物处理" ).
+entry(跳跃的, adj, [], "跳跃或舞蹈").
+entry(盐屋, n, [盐屋], "一种房子类型").
+entry(盐灌木, n, [盐灌木丛], "一种耐盐植物").
+entry(盐匠, n, [盐匠], "一个腌制的人").
+`entry(saltern, n, [盐田], "一种生产盐的地方").`
+entry(盐厂, n, [盐厂], "用于腌制储存鱼类的工厂").
+入口(盐船, 名词, [盐船], "一艘在五大湖航行的远洋船").
+entry(盐字的比较级, 名词, [交叉符号], "盐字的拉丁文").
+entry(最咸的, 最高级, [], "的咸").
+entry(saltily, adv, [], "以咸的方式").
+条目(盐饼干, 名词, [盐饼干们], "咸味饼干").
+entry(盐浸, n, [盐浸地], "被潮水定期淹没的土地").
+条目(对角十字, 名词, [对角十字], "一种纹章设计").
+```
+entry(略咸, 形容词, [], "有点咸").
+```
+entry(saltless, 形容词, [], "没有盐")。
+entry(似盐, 形容词, [], "类似于盐").
+entry(咸味, n, [咸味], "咸的状态").
+entry(盐田, n, [盐田], "通过蒸发制盐的大型平底锅")。
+条目(盐场, n, [盐场], "盐场").
+词条(盐草, 名词, [盐草], "一种海边草本植物")。
+entry(咸的, 形容词, [], "更咸的 最咸的，味道像盐或含盐").
+条目(萨路基犬, 名词, [萨路基犬们], "一种高大苗条的狗").
+entry(你好, 感叹词, [], "用于在喝酒之前表达友谊").
+entry(有益的, 形容词, [], "产生有益的效果").
+entry(致敬, v, [致敬, 致敬中, 致敬们], "用欢迎或尊重的标志问候").
+入口(saluter, n, [saluters], "打招呼的人").
+entry(可挽救, 形容词, [], "能够被拯救SALVABLY 副词").
+入口(打捞, 动词, [已打捞, 正在打捞, 打捞], "从损失或破坏中拯救").
+entry(受捞者, 名词, [受捞者们], "已经实施打捞以获益的人").
+条目(救捞者, 名词, [救捞者们], "一个进行救捞的人").
+entry(安抚, v, [安抚过,安抚着,安抚], "使平静")
+entry(托盘, n, [托盘], "一个托盘或上菜盘").
+entry(鼠尾草, n, [鼠尾草属], "一种开花植物").
+entry(救世的, 形容词, [], "有拯救能力的").
+条目(救助, 现在, [], "salve 的分词")。
+entry(萨尔沃, v, [萨尔沃德,萨尔沃英,萨尔沃斯], "或萨尔沃斯同时发射火器")。
+entry(salvor, n, [salvors], "救助者")。
+entry(沙尔瓦尔, n, [沙尔瓦尔], "shalwar").
+条目(三摩地, n, [三摩地], "瑜伽中的一种专注状态")。
+条目(萨马拉, 名, [萨马拉斯], "一种干燥的单籽果").
+entry(钐, n, [钐], "一种金属元素").
+entry(桑巴, v, [桑巴了, 桑巴中, 桑巴], "跳一种巴西舞").
+条目(参巴, 名, [参巴酱], "一种辛辣的调味品")。
+entry(蒸鹿茸, n, [蒸鹿茸], "一种大型亚洲鹿").
+entry(桑巴, n, [桑巴们], "桑巴").
+entry(桑巴, n, [桑巴鹿], "sambar").
+条目(sambo, n, [sambos], "或 SAMBOES一位拥有黑人和印第安人混合血统的拉丁美洲人")。
+```prolog
+entry(桑布卡, n, [桑布卡们], "一种古老的弦乐器").
+```
+entry(桑布卡, n, [桑布卡酒], "桑布卡酒").
+入口(桑布尔, 名词, [桑布尔们], "水鹿").
+entry(相同, 形容词, [], "在每个相关方面相似").
+entry(萨美赫, 名词, [萨美赫斯], "萨美克").
+entry(samek, n, [sameks], "希伯来字母").
+entry(萨美克, n, [萨美克斯], "萨美克").
+条目(相同, 名词, [相同性], "缺乏变化或多样性").
+```prolog
+entry(相同, 形容词, [], "最相同的缺乏多样性").
+```
+entry(samfu, n, [唐裝], "一套休闲的中式夹克和裤子").
+条目(撒米尔, 名, [撒米尔的], "燥风").
+entry(三味线, n, [三味线], "一种日本的弦乐器").
+entry(丝绸, n, [丝绸], "一种丝织面料").
+entry(samizdat, n, [samizdats], "苏联时期用于印刷和分发未经授权的文学作品的系统")。
+entry(小鲑鱼, n, [小鲑鱼们], "a young salmon").
+```prolog
+条目(萨摩萨, n, [萨摩萨], "一个带馅的点心 turnover")。
+```
+entry(茶炊壶, 名词, [茶炊壶], "一种用于加热水的金属壶").
+entry(samp, n, [samps], "粗磨的玉米").
+`entry(sampan, n, [舢板], "一种平底的中国小艇").`
+entry(滨海薰衣草, n, [滨海薰衣草], "一种欧洲草本植物").
+entry(样本, v, [取样, 采样, 样品], "测试整体的代表性部分").
+entry(采样器, n, [采样器们], "进行采样的人或物").
+entry(抽样, n, [抽样], "选取的小部分用于分析").
+入口(轮回, n, [轮回], "在佛教中，生死再生的循环轮回的 形容词").
+条目(samshu, 名词, [samshus], "一种中国白酒").
+条目(桑斯卡拉, 名, [桑斯卡拉斯], "印度的净化仪式")。
+entry(武士, 名词, [武士], "日本武士").
+entry(疗养院, n, [疗养院的], "疗养院").
+entry(治愈, 形容词, [], "具有治愈或疗愈的能力").
+entry(sancta, a, [], "sanctum 的复数形式").
+entry(神圣化, v, [神圣化了,神圣化中,神圣化], "使神圣").
+entry(制裁, v, [制裁了, 正在制裁, 制裁], "授权").
+entry(神圣, n, [神圣性], "圣洁").
+entry(圣所, n, [圣所], "或者圣所，一个神圣的地方")。
+entry(沙子, v, [沙磨, 沙磨中, 沙子], "通过用磨料擦来磨光SANDABLE 形容词").
+entry(凉鞋, v, [穿凉鞋, 穿着凉鞋, 凉鞋], "或穿凉鞋为穿上轻便的开口鞋").
+entry(檀香脂, n, [檀香脂们], "一种芳香树脂").
+条目(沙袋, 动词, [沙袋了, 沙袋中, 沙袋们], "用装满沙子的小袋包围").
+入口(沙洲, n, [沙洲], "一大片沙子")。
+入口(沙洲, n, [沙洲们], "在河流或海洋中形成的沙脊").
+```prolog
+条目(沙盒, n, [沙盒], "一个装有沙子的箱子，供儿童玩耍").
+```
+入口(蒺藜, 名词, [蒺藜], "一年生草本植物").
+entry(刺砂草, 名词, [刺砂草们], "刺砂草").
+entry(小牙鲆, n, [小牙鲆], "一种小型比目鱼").
+entry(桑德, n, [桑德斯], "打磨的人").
+词条(沙鱼, n, [沙鱼], "一种海鱼").
+entry(白蛉, 名词, [白蛉], "一种咬人的苍蝇").
+entry(桑迪, 名词, [桑迪斯], "语音变化过程").
+entry(沙丘, n, [沙丘], "一个沙的山丘").
+entry(沙工, n, [沙工们], "在沙中挖掘或工作的工人").
+entry(沙更, 比较级, [], "沙的").
+entry(最沙的, 最高级, [], "沙的").
+entry(无沙, 形容词, [], "缺乏沙子").
+entry(sandlike, 形容词, [], "像沙子").
+条目(沙蚬, 名词, [沙蚬], "一种海洋鱼类")。
+条目(空地, n, [空地], "一个空地").
+entry(睡魔, n, [睡魔们], "一个通过往孩子眼里洒沙子来让他们困倦的神秘人物")
+entry(沙鹬, n, [沙鹬类], "一种涉水鸟").
+条目(沙堆, n, [沙堆], "一堆沙子")。
+入口(沙坑, 名词, [沙坑], "在沙质土壤中挖掘的坑").
+条目(沙鞋, 名词, [沙鞋], "一种轻便的运动鞋")。
+条目(沙皂, 名, [沙皂们], "一种肥皂").
+条目(沙嘴, n, [沙嘴], "由沙丘形成的小地块").
+条目(沙刺, 名词, [沙刺], "一颗蒺藜").
+entry(三明治, v, [夹在中间, 夹在中间中, 夹在中间们], "放置于两层或两个物体之间").
+条目(沙虫, n, [沙虫], "一种生活在沙土中的虫子")。
+条目(蚖草, 名词, [蚖草], "一种开花植物")。
+entry(sandy, 形容词, [], "含有或覆盖着沙的较沙的最沙的").
+entry(sandyish, 形容词, [], "有点沙的").
+条目(神志清醒, 形容词, [], "较神志清醒 最神志清醒 神志健全/神志清醒地 副词").
+entry(理智的, v, [理智的过去式, 理智的进行时, 理智的三单], "使理智").
+entry(精神健全, n, [精神健全状况], "理智").
+entry(唱, 过去, [], "sing 的时态")
+entry(sanga, n, [sangas], "sangar").
+entry(sangar, n, [sangars], "供两三人使用的临时防御工事").
+条目(sangaree, n, [sangarees], "一种酒精饮料")。
+entry(sanger, n, [sangers], "桑加尔").
+条目(桑赫, 名词, [桑赫斯], "促进印度教不同群体之间团结的协会")。
+```prolog
+条目(僧伽, n, [僧伽们], "一个佛教宗教团体").
+```
+entry(圣杯, n, [圣杯], "基督在最后的晚餐中使用的传奇杯子")
+入口(圣杯, n, [圣杯], "圣杯").
+entry(桑格利亚, n, [桑格利亚酒], "一种酒精饮品").
+条目(深红色, 名词, [深红色复数], "一种红色").
+条目(圣草, n, [圣草], "一种药草").
+```prolog
+entry(正长石, n, [正长石], "一种玻璃状的长石"). 
+```
+entry(sanies, n, [sanies], "从伤口流出的流体SANIOUS 形容词").
+entry(saning, 现在时, [], "sane的分词").
+入口(卫生的, 名词, [公共卫生设施], "公共尿池").
+entry(消毒, 动词, [已消毒, 正在消毒, 消毒], "消毒").
+条目(消毒, 动词, [消毒过的,消毒中,消毒], "消毒").
+```prolog
+entry(消毒, v, [消毒的, 消毒中, 消毒], "通过清洁或消毒来防止感染或疾病").
+```
+entry(精神正常, n, [精神正常], "理智状态").
+entry(sanjak, n, [sanjaks], "土耳其的一个行政区").
+entry(下沉, 过去, [], "沉没的时态").
+entry(sannop, n, [sannops], "sannup").
+entry(已婚美洲土著男性, n, [已婚美洲土著男性的复数形式], "一位已婚的男性美洲土著").
+entry(僧侣, n, [僧侣们], "一个印度教僧侣").
+entry(sans, prep, [], "没有").
+入口(sansar, n, [sansars], "sarsar").
+entry(三世, n, [三世们], "日本移民至美国的第三代后裔").
+entry(无衬线字体, n, [无衬线字体们], "一种没有衬线的字体").
+条目(檀香, 形容词, [], "与檀香木有关").
+条目(santalol, n, [santalols], "檀香油")。
+entry(santera, n, [santeras], "萨泰里亚教的女祭司").
+entry(圣特里亚, n, [圣特里亚教], "加勒比地区的一种宗教").
+entry(桑特罗, n, [桑特罗神父], "一个桑特里亚的牧师").
+条目(santim, n, [santims], "或称 SANTIMI 或 SANTIMU，以前在拉脱维亚使用的硬币")。
+entry(桑提尔, n, [桑提尔们], "一种波斯扬琴").
+entry(圣像, n, [圣像们], "圣人的木制雕像")
+条目(山竹, 名词, [山竹们], "一种热带树木")。
+entry(santonin, n, [辛托辛], "一种化学化合物").
+entry(桑图尔, n, [桑图尔斯], "桑缇尔").
+entry(桑图尔, n, [桑图尔], "桑提尔").
+entry(santur, n, [扬琴], "santir").
+entry(三亚斯, n, [三亚斯人], "sannyasi").
+入口(樹汁, 动词, [消耗殆尽, 消耗, 消耗], "逐渐消耗或削弱").
+条目(sapajou, n, [sapajous], "卷尾猴").
+条目(sapele, n, [沙比利], "一种大型的热带非洲树").
+entry(笨蛋, n, [笨蛋们], "愚蠢、愚笨或容易上当的人").
+```prolog
+entry(saphena, n, [saphenas], "或 SAPHENAEa 腿部的静脉")。
+```
+entry(sapid, 形容词, [], "令人愉悦的味道")。
+entry(风味, n, [风味的状态], "具有风味的状态")。
+entry(智慧, n, [智慧], "wisdom").
+entry(sapiency, n, [多智], "智慧").
+entry(智人, 形容词, [], "与现代人有关").
+entry(智慧者, n, [智慧者們], "聪明的人").
+条目(无生气, 形容词, [], "缺乏活力").
+entry(树苗, n, [树苗们], "一棵小树").
+`入口(皂化, v, [皂化的, 皂化中, 皂化], "变成肥皂").`
+条目(皂苷, n, [皂苷], "从植物中提取的肥皂样物质")。
+entry(saponine, n, [皂苷], "皂素").
+条目(saponite, n, [saponites], "一种在岩石的脉络和空穴中发现的矿物").
+入口(风味, 名词, [风味], "味道SAPOROUS 形容词").
+条目(人心果, 名词, [人心果], "一种常绿树").
+条目(人心果, n, [人心果们], "一种热带美洲的树").
+entry(味道, n, [味道], "滋味").
+entry(耗尽, 过去, [], "sap 的过去式").
+entry(工兵, n, [工兵], "一名军事工程师").
+条目(萨福诗体, n, [萨福诗体], "一种诗体形式").
+entry(蓝宝石, n, [蓝宝石], "一种蓝色的宝石").
+entry(女同性恋, n, [女同性恋], "女同性恋").
+entry(sapphist, n, [sapphists], "女同性恋者").
+entry(挖掘, n, [挖掘], "拆掉建筑物的地基以削弱其结构").
+entry(伤感的, 形容词, [], "更伤感 最伤感 愚蠢的 傻乎乎的 副词").
+entry(sapremia, n, [sapremias], "血液中毒的一种形式SAPREMIC 形容词").
+条目(腐生物, n, [腐生物], "一种从腐烂有机物中获取营养的生物SAPROBIC adj.")
+entry(腐泥, n, [腐泥], "主要由腐烂有机物构成的泥").
+条目(硬绿奶酪, 名词, [sapsagos], "一种硬绿色奶酪").
+entry(边材, n, [边材们], "树木新形成的外部木材")
+entry(萨拉班德舞, n, [萨拉班德舞], "一种庄重的西班牙舞蹈").
+entry(萨然, n, [萨然斯], "一种热塑性树脂").
+项(萨朗琪, 名词, [萨朗吉斯], "一种印度的弦乐器")。
+entry(sarape, n, [sarapes], "沙瑞佩").
+entry(讽刺, n, [讽刺], "尖锐的嘲讽或轻蔑的言辞").
+条目(纱绸, n, [纱绸们], "一种丝绸面料")。
+entry(球菌, 阳性, [球菌], "或球形细菌SARCINAE").
+entry(肉样瘤病, n, [肉样肿瘤], "一种马的疾病").
+```prolog
+entry(肉瘤, n, [肉瘤], "或肉瘤型肿瘤").
+```
+entry(肌肉, adj, [], "由肌肉或肉组成").
+entry(缟玛瑙, n, [缟玛瑙], "一种石英的种类").
+入口(萨尔达纳, 名词, [萨尔达纳舞], "一种西班牙民间舞蹈")。
+入口(萨达尔, 名词, [萨达尔们], "长官").
+entry(沙丁鱼, 动词, [沙丁鱼过, 沙丁鱼中, 沙丁鱼们], "紧密地包装").
+条目(红玉髓, n, [红玉髓们], "sard").
+entry(讽刺的, 形容词, [], "嘲弄").
+entry(缠丝玛瑙, n, [缠丝玛瑙复数形式], "一种石英品种").
+entry(纱丽, n, [纱丽], "纱丽").
+入口(sargasso, n, [sargassos], "或 SARGASSOES 或 SARGASSOA 棕色海藻")。
+entry(军士, 名词, [军士们], "中士").
+条目(沙梭鱼, n, [沙梭鱼], "一种银色的海洋鱼类").
+条目(纱丽, n, [纱丽], "印度妇女穿着的外衣").
+entry(沙林, 名词, [沙林], "一种有毒气体").
+条目(衬衫, n, [衬衫们], "一件衬衫")。
+entry(sarky, 形容词, [], "SARKIER SARKIEST讽刺SARKILY 副词").
+```prolog
+entry(蔓, n, [蔓], "一种植物茎干").
+```
+入口(sarmenta, npl, [], "sarments").
+条目(三明治, 名词, [三明治], "一个三明治")。
+entry(萨罗德, n, [萨罗德乐器], "一种印度的弦乐器").
+entry(萨罗德, n, [萨罗德斯], "萨罗德").
+entry(sarodist, n, [sarodists], "演奏萨罗德的人").
+entry(纱笼, n, [纱笼], "一种在太平洋群岛穿着的外衣").
+entry(沙羅週期, n, [沙羅週期], "日月食週期")
+entry(sarsar, n, [sarsars], "一种冷飕飕的风").
+entry(砂岩块, n, [砂岩块们], “一种大型砂岩块”).
+条目(萨斯内特, 名词, [萨斯内茨], "萨尔克内特").
+```
+entry(sarsnet, n, [sarsnets], "萨尔西尼特").
+```
+条目(裁缝, n, [裁缝们], "一个裁缝")。
+entry(sartorii, npl, [], "扁平窄大腿肌肉").
+entry(山茶花, n, [山茶花], "一种日本山茶花").
+入口(窗扇, v, [窗扇的,装窗扇,窗扇], "用镶有玻璃的框架装饰").
+entry(摇摆, v, [摇摆过,摇摆中,摇摆], "翩翩起舞").
+entry(生鱼片, n, [生鱼片], "一种日本的切片生鱼菜肴").
+entry(无腰带, 形容词, [], "缺少系在腰部的长带").
+entry(sasin, n, [薩辛斯], "印度的一种羚羊").
+entry(sass, v, [sassed,sassing,sasses], "顶嘴").
+入口(sassaby, n, [sassabies], "一种非洲羚羊").
+entry(更为时髦, 比较级, [], "sassy的").
+入口（sassies，复数，[]，“活泼的”）。
+entry(最傲慢, 最高级, [], "傲慢的").
+entry(无礼地, 副词, [], "以无礼的方式").
+条目(sasswood, 名词, [sasswoods], "一种非洲树").
+`entry(调皮, 形容词, [], "更调皮 最调皮无礼").`
+entry(粗鲁, n, [粗鲁们], "sasswood").
+entry(雪浪, n, [雪浪], "在极地地区由风形成的雪脊").
+条目(坐, 过去, [], "sit 的时态")。
+entry(沙唐, n, [沙唐], "泰国的货币单位").
+entry(撒旦的, 形容词, [], "极其邪恶的").
+entry(撒旦教, n, [撒旦教派], "对邪恶力量的崇拜").
+entry(撒旦教徒, n, [撒旦教徒], "从事撒旦教的人").
+条目(萨特拉, 阳性名词, [萨特拉斯], "一种羊毛面料").
+entry(沙爹, n, [沙爹们], "腌制的肉串，用烤叉串好并在花生酱中蘸食").
+条目(挎包, n, [挎包], "一个小提包")。
+entry(卫星通信, n, [卫星通讯], "卫星通信").
+entry(满足, v, [已满足,满足中,满足], "使满足").
+条目(缎光布, n, [缎光布], "一种棉织物").
+entry(satem, 形容词, [], "关于印欧语系的一组语言")。
+entry(薩蒂, 名詞, [薩蒂斯], "印度寡婦殉夫火葬").
+entry(可满足的, 形容词, [], "能够被满足地").
+条目(满足, 动词, [已满足,使满足,满足], "满足到容量或超出容量")。
+entry(满足, n, [满足感], "处于满足的状态")。
+entry(缎, v, [缎了, 缎着, 缎的], "给表面提供光泽").
+条目(细缎, n, [细缎们], "一种薄缎").
+entry(满足, 现在, [], "sate 的分词").
+entry(丝荚树, n, [丝荚树们], "一种开花植物").
+entry(satiny, 形容词, [], "类似于缎子").
+entry(讽刺, n, [讽刺作品], "使用嘲弄的智慧攻击愚蠢或邪恶SATIRIC 形容词").
+entry(讽刺, v, [讽刺过, 讽刺中, 讽刺], "进行讽刺").
+entry(讽刺作家, n, [讽刺家], "讽刺他人者").
+entry(讽刺, v, [讽刺过, 讽刺中, 讽刺], "进行讽刺").
+entry(满足, v, [满足的,令人满意的,满足], "完全提供所期望或需要的东西")
+entry(悟り, n, [悟り], "禅宗佛教徒所追求的精神启示").
+entry(总督, n, [总督们], "古代波斯的省总督").
+entry(satrapy, n, [总督辖区], "总督的领地")。
+条目(沙茨桑, n, [沙茨桑聚会], "印度教中的神圣聚会").
+入口(桔子, n, [桔子], "一种橙子的品种")。
+入口(饱和剂, n, [饱和剂], "用于饱和的物质").
+条目(饱和, 动词, [已饱和, 正在饱和, 使饱和], "完全填满所有渗透的东西")。
+entry(萨堤尔, n, [萨堤尔们], "希腊神话中的森林神灵萨堤里克 形容词").
+entry(棕眼蝶, n, [棕眼蝶], "一种棕色的蝴蝶").
+entry(sau, n, [sau], "徐").
+入口(酱汁, 动词, [已调味, 调味中, 调味], "用调味液调味一种美味的液体调味品")。
+entry(酱盒, n, [酱盒], "一个调皮的人").
+entry(深锅, n, [深锅], "带手柄的深煮锅").
+```prolog
+entry(深锅, n, [深锅], "有两个把手的深煮锅").
+```
+entry(碟子, n, [碟子们], "一个小浅盘").
+entry(sauch, n, [sauchs], "杨柳树").
+```prolog
+条目(调味师, n, [调味师们], "专门制作酱汁的厨师").
+```
+entry(调味, 现在时, [], "调味的分词形式").
+entry(辣, 形容词, [], "更辣 最辣轻率辣地副词").
+条目(狗鱼, 名词, [狗鱼], "一种淡水鱼").
+entry(saugh, n, [saughs], "一棵柳树SAUGHY 形容词").
+输入(saul, 名词, [sauls], "灵魂").
+entry(瀑布, 名词, [瀑布们], "瀑布") .
+entry(sauna, v, [saunaed,saunaing,saunas], "进行干热浴")。
+entry(漫步, v, [漫步了, 漫步着, 漫步], "以悠闲的方式行走").
+入口(马鲛鱼, 名词, [马鲛鱼类], "一种海洋鱼").
+entry(蜥蜴, n, [蜥蜴类], "一种爬行动物亚目").
+条目(蜥脚类, n, [蜥脚类], "大型恐龙的一亚目").
+entry(秋刀鱼, n, [秋刀鱼], "一种海洋鱼类").
+entry(香肠, 名词, [香肠], "切碎并调味的肉装入肠衣").
+```prolog
+入口(炒, 动词, [炒过, 炒着, 炒], "在少量油脂中煎炒").
+```
+entry(苏玳酒, n, [苏玳酒], "一种甜白葡萄酒").
+entry(sautoir, n, [sautoirs], "盐字形").
+entry(项链, n, [项链], "项链").
+entry(可被保存的, 形容词, [], "能够被保存的").
+entry(野蛮, 形容词, [], "最残酷 最凶猛 凶狠地 副词").
+entry(野蛮, 动词, [野蛮了, 野蛮中, 野蛮], "攻击或残忍地对待").
+entry(野蛮, n, [野蛮行为], "野蛮的性质").
+entry(野蛮状态, n, [野蛮状态复数形式], "野蛮行为").
+条目(稀树草原, n, [稀树草原], "一个平坦无树的草原地带").
+entry(稀树草原, n, [稀树草原], "稀树草原").
+entry(博学者, n, [博学者们], "一个具有深刻学问的人").
+entry(沙瓦兰, n, [沙瓦兰蛋糕], "一种用环形模具烤制的酵母蛋糕").
+entry(法式踢腿术, n, [法式踢腿术们], "一种搏击运动").
+entry(保存, v, [已保存, 正在保存, 保存], "从危险、伤害或损失中解救SAVEABLE 形容词").
+条目(香肠, n, [香肠], "一种调味浓郁的香肠").
+entry(储蓄者, n, [储蓄者们], "一个存钱的人").
+entry(savin, n, [野木瓜], "一种常绿灌木").
+entry(沙枣, n, [沙枣树], "檀香柏").
+entry(储蓄, n, [储蓄], "保存的行为或实例").
+entry(节俭地, 副词, [], "以节俭的方式").
+条目(救世主, 名词, [救世主们], "拯救者").
+entry(救世主, n, [救世主们], "救主").
+entry(品尝, v, [品尝了,正在品尝,品尝], "以愉悦的心情品尝或闻").
+entry(品味者, n, [品味者们], "一个品尝者").
+entry(美味的, 形容词, [], "savory").
+entry(美味, 形容词, [], "更美味 最美味 令人愉悦的味道或气味 美味地 副词").
+条目(咸味, 名词, [咸点], "餐前或餐后提供的咸味菜肴")。
+入口(品味, v, [品味了, 品味着, 品味], "细品").
+entry(品味者, n, [品味者们], "savorer").
+条目(咸味, 形容词, [], "更美味 最美味 咸味").
+entry(咸味, n, [咸味小吃], "一种咸味").
+入口(savoy, n, [savoys], "一种甘蓝的品种")。
+entry(精明, 形容词, [], "更精明 最精明shrewd").
+entry(精明, v, [精明了, 精明中, 精明们], "聪明地理解SAVVILY adv").
+entry(锯, v, [锯过,已经锯过,锯着], "SAW用一种切割工具锯或切割").
+entry(豆雁, n, [豆雁], "一种热带鸟").
+entry(锯医, n, [锯医们], "外科医生").
+entry(马鞍架, 名词, [马鞍架们], "锯木架")
+条目(锯末, 名词, [锯末们], "在锯木过程中产生的小木屑SAWDUSTY 形容词")。
+entry(锯工, n, [锯工们], "锯木头的人").
+entry(锯鳐, n, [锯鳐类], "一种海洋鱼")。
+entry(姬蜂, n, [姬蜂], "有翅膀的昆虫").
+entry(莎草, n, [莎草], "一种具有尖边叶子的莎草科植物").
+entry(锯马, n, [锯马], "用来支撑被锯木材的架子").
+entry(sawlike, 形容词, [], "类似锯子").
+entry(木材, n, [木材], "足够大可锯成木板的原木").
+entry(锯木厂, n, [锯木厂们], "一个用于锯木材的地方").
+entry(sawn, a, [], "锯的过去分词").
+entry(索尼, n, [索尼斯], "傻人").
+条目(锯齿, n, [锯齿], "锯上的切割刃").
+entry(锯木工, n, [锯木工们], "以锯木为生的人").
+entry(萨克斯管, n, [萨克斯管], "一把萨克斯管").
+entry(saxatile, 形容词, [], "生长或栖息于岩石之间").
+条目(圆号, n, [圆号们], "一种铜管乐器")。
+条目(萨克斯演奏者, 名词, [萨克斯演奏者们], "萨克斯管演奏者").
+```prolog
+条目(saxman, n, [saxmen], "萨克斯手").
+```
+entry(萨克森, n, [萨克森呢], "一种羊毛织物").
+entry(saxtuba, n, [低音号角], "一种低音萨克斯号角").
+entry(說, v, [], "說過 正在說 現代 單數 第二人稱 說 或 你說 或 說過 第三人稱 說 或 說到 發言 可說的 adj").
+entry(sayed, n, [sayeds], "赛义德").
+条目(说者, n, [说者们], "说话的人").
+entry(sayid, n, [赛义德], "赛义德").
+entry(谚语, n, [谚语], "一种格言").
+entry(再见, n, [再见们], "再见").
+entry(sayst, a, [], "说的第二人称单数现在式").
+entry(sayyid, n, [sayyids], "尊贵的主人，作为对穆斯林显贵的尊称使用").
+entry(痂, v, [结痂, 正在结痂, 痂], "形成伤口愈合时覆盖的硬壳").
+entry(剑鞘, v, [入鞘,入鞘中,剑鞘], "将剑放入鞘中")。
+entry(快速, 动词, [快速地,快速进行中,快速], "大致地塑造").
+条目(结痂的, adj, [], "更结痂的 最结痂的 覆盖着痂 以结痂的方式 adv").
+entry(疥疮, n, [scabies], "一种皮肤病").
+entry(绢毛菊, n, [绢毛菊属], "绢毛菊").
+entry(松虫草, n, [松虫草类], "一种开花植物").
+entry(伤痕地, n, [伤痕地], "岩石地带，土壤覆盖很少").
+entry(结痂样, 形容词, [], "类似于结痂").
+entry(粗糙的, 形容词, [], "带有小突起的粗糙表面").
+条目(scad, n, [scads], "一种海鱼")。
+```prolog
+入口(脚手架, v, [架设脚手架, 架设中, 架设], "为建筑工人提供临时平台的脚手架")。
+```
+entry(scag, n, [scags], "海洛因").
+entry(可扩展, 形容词, [], "能够被扩展地 灵活地 副词").
+```prolog
+entry(围攻, n, [围攻们], "攀登防御工事墙壁的行为").
+```
+entry(斯卡拉多, n, [斯卡拉多斯], "斯卡拉德").
+entry(scalage, n, [scalages], "缩水的百分比扣除，以补偿缩减损失").
+entry(标量, n, [数量], "仅具有大小的数学量").
+entry(scalare, n, [天堂鱼], "一种热带鱼").
+entry(无赖, n, [无赖], "一个流氓/恶棍/无赖")
+entry(烫, v, [烫伤,烫着,烫], "用热液体或蒸汽烫伤").
+entry(史卡尔迪克, 形容词, [], "史卡尔迪克").
+entry(缩放, 动词, [已缩放, 缩放中, 缩放数], "攀爬或超越")。
+```
+条目(不等边三角形, n, [不等边三角形], "没有两条边相等的三角形").
+```
+entry(斜角肌, n, [斜角肌], "颈部的一块肌肉").
+entry(秤盘, n, [秤盘], "称重秤上的盘子").
+entry(缩放器, n, [缩放器们], "扩缩者").
+entry(scaleup, n, [增长], "基于固定比率的增加").
+entry(楼梯, 比较级, [], "多鳞的")。
+entry(最鳞的, 最高级, [], "鳞状").
+输入(鳞, n, [鳞片], "皮肤上鳞片的形成").
+entry(scall, n, [鳞屑], "皮肤上的鳞状爆发").
+入口(葱, n, [葱], "类似洋葱的植物")。
+entry(扇贝, 动词, [烤扇贝, 烤扇贝中, 烤扇贝们], "在带有面包屑的酱汁中烘烤").
+条目(头皮, 动词, [剥了头皮, 剥头皮中, 剥头皮], "去除上部").
+条目(手术刀, n, [手术刀], "一种小型外科手术刀").
+入口(倒票者, 名词, [倒票者们], "一个倒票的人").
+entry(鳞状, 形容词, [], "更鳞状 最鳞状 以薄片剥落").
+entry(诈骗, 动词, [诈骗了,诈骗中,诈骗], "欺骗或诈取").
+entry(骗子, n, [骗子们], "一个欺诈的人").
+入口(藥葛, 名詞, [藥葛], "攀爬植物")。
+entry(scamp, v, [scamped,scamping,scamps], "以匆忙或粗心的方式进行")。
+entry(scamper, 动词, [scampered,scampering,scampers], "玩耍似地跑来跑去").
+entry(scampi, n, [scampi], "或 SCAMPIES 用于意大利烹饪的大虾").
+条目(狡猾, 形容词, [], "捣蛋").
+条目(骗子, 名词, [骗子们], "一个欺诈者")。
+条目(扫描, v, [扫描过,扫描中,扫描], "仔细检查").
+entry(丑闻, v, [丑闻化的,丑闻化中,丑闻化], "或 丑闻化的 丑闻化中 丑闻化去诽谤").
+entry(攀缘的, 形容词, [], "像植物一样攀爬").
+entry(钪的氧化物, n, [钪的氧化物的复数形式], "一种钪的氧化物").
+entry(钪, n, [钪], "一种金属元素SCANDIC 形").
+entry(扫描, 过去, [], "scan 的时态").
+entry(scanner, n, [扫描仪], "一个扫描的设备").
+entry(扫描, n, [扫描], "仔细检查").
+entry(音步分析, n, [音步分析], "将诗歌分析为韵律脚与节奏模式").
+条目(稀少, 形容词, [], "更稀少 最稀少").
+条目(微薄, 动词, [微薄了, 微薄着, 微薄们], "给予少量份额").
+entry(短内裤, 复数名词, [], "女性用的简短内裤").
+entry(不足, 副词, [], "以一种微不足道的方式").
+entry(稀少, 形容词, [], "更稀少 最稀少稀薄稀少地 adv").
+entry(逃脱, v, [逃脱了, 逃脱中, 逃脱], "逃脱")。
+entry(舟骨, n, [舟骨], "手腕的骨头")
+entry(scapose, 形容词, [], "具有无叶茎的").
+entry(肩胛骨, 名词, [肩胛骨], "或 SCAPULAE肩部的骨头")
+entry(肩胛骨, n, [肩胛骨], "僧侣穿着的无袖外衣").
+entry(伤疤, v, [留下伤疤,形成伤疤,伤疤], "形成伤疤，指受损组织愈合后留下的痕迹")
+条目(圣甲虫, 名词, [圣甲虫], "一种大型黑色甲虫")。
+entry(稀有, 形容词, [], "稀有的更稀有的最稀有的不经常看到或找到")
+entry(勉强, 副词, [], "以微小的差距").
+entry(稀缺, 名词, [稀缺性], "稀缺的特性").
+entry(惊吓, v, [惊吓过,惊吓中,惊吓], "使惊恐").
+entry(害怕, 形容词, [], "SCAREDER SCAREDEST害怕").
+entry(惊吓者, n, [惊吓者们], "使人感到恐惧的人").
+```prolog
+entry(scarey, 形容词, [], "SCARIER SCARIESTscary").
+```
+entry(围巾, n, [围巾们], "或围巾碎布，用于保暖或保护").
+entry(围巾, v, [围住, 包围, 围巾], "用围巾覆盖").
+条目(食客, 名词, [食客们], "一个贪婪地吃喝的人").
+条目(领带别针, n, [领带别针们], "一种领带夹").
+entry(更可怕的, 比较级, [], "scarey 和 scary 的").
+entry(最吓人的, 最高级, [], "来自于scarey与scary")。
+entry(松土, 动词, [松土过, 松土中, 松土们], "做表面切割").
+条目(可怕地, 副词, [], "以一种可怕的方式").
+entry(惊吓, 现在时, [], "scare 的分词").
+entry(薄膜质, 形容词, [], "scarious").
+词条(薄膜状, 形容词, [], "薄而干燥的膜状").
+entry(无疤的, 形容词, [], "没有伤疤").
+entry(猩红, n, [猩红色], "一种红色")
+entry(悬崖, 动词, [悬崖了,悬崖中,悬崖们], "切割或造成陡坡")。
+entry(逃走, v, [逃走了,正在逃走,逃走], "逃跑").
+entry(scarph, v, [scarphed,scarphing,scarphs], "通过一种接头方式联合").
+词条(伤痕累累, 过去, [], "scar 的时态").
+```prolog
+条目(疤痕, 存在, [], "scar 的分词").
+```
+entry(scarry, 形容词, [], "SCARRIER SCARRIEST带有伤疤的").
+条目(scart, 动词, [scarted,scarting,scarts], "抓").
+入口(围巾, 形容词, [], "戴围巾")。
+entry(围巾, a, [], "围巾的复数形式").
+entry(可怕, 形容词, [], "更可怕 最可怕frightening").
+条目(匆忙离开, 动词, [匆匆离开, 匆匆离开中, 匆忙离开], "急促地离开")。
+条目(跑卫, 名词, [跑卫们], "一种橄榄球运动员类型").
+entry(猛烈抨击, v, [猛烈抨击过,猛烈抨击着,猛烈抨击], "严厉批评").
+`entry(scatt, n, [scatts], "一种税").`
+```
+entry(撒开, 过去, [], "撒开 的时态").
+```
+entry(分散, v, [分散,分散中,分散掉], "向不同方向去或发送")。
+entry(乱唱, 现在, [], "scat 的分词").
+entry(scatty, adj, [], "SCATTIER SCATTIEST疯狂SCATTILY adv").
+entry(scaup, n, [scaups], "海鸭子")。
+entry(scauper, n, [scaupers], "雕刻工具").
+entry(岩脊, n, [岩脊], "一个突出的孤立岩石").
+入口(搜索, 动词, [已搜索,正在搜索,搜索], "通过垃圾寻找可用的物品").
+入口(场景, n, [场景集], "为独唱而作的精致作品")。
+entry(情节, n, [情节列表], "戏剧作品情节概要").
+entry(上升, v, [已上升,上升中,上升], "在波浪中如船一样上升").
+```prolog
+条目(场景, n, [场景], "某些动作或事件发生的地方").
+```
+entry(风景, n, [风景], "一个优美的景色或视野").
+entry(风景, n, [风景画], "自然景观的描绘").
+入口(风景, 形容词, [], "与风景有关").
+条目(气味, v, [气味, 气味着, 气味们], "用气味充满")。
+entry(权杖, 动词, [加冕, 加冕中, 加冕者], "授予王室权力").
+entry(怀疑者, n, [怀疑者们], "怀疑论者").
+entry(权杖的, 形容词, [], "与王权有关的").
+entry(节杖, v, [加上节杖,节杖环,节杖], "进行加冕").
+entry(schappe, n, [schappes], "一种绸缎面料").
+entry(酸汤, n, [酸汤斯], "冷汤")
+entry(时间表, v, [安排, 安排中, 安排], "分配到特定日期或时间")
+entry(模式, n, [模式们], "或 模式们a 泛化的图表或计划").
+entry(方案, v, [策划, 计划中, 计划], "计划或策划").
+entry(阴谋者, n, [阴谋者们], "计谋者之一").
+entry(策划, n, [策划行为], "计划或策划的行为").
+entry(诙谐曲, n, [诙谐曲们], "或诙谐曲一种活泼的音乐乐章")。
+entry(schiller, n, [施勒], "一种出现在某些矿物上的棕色光泽").
+entry(分裂, n, [分裂], "分成敌对阵营").
+entry(片麻岩, n, [片麻岩], "一种易于分裂成平行层的岩石").
+entry(精分, 比较级, [], "schizy的").
+条目(最精神分裂的, 最高级, [], "精神分裂的").
+entry(精神分裂症, n, [精神分裂症患者], "分裂性人格").
+entry(精神分裂症患者, 名词, [精神分裂症患者们], "患有一种精神病性障碍的人").
+entry(裂殖体, n, [裂殖体], "通过一种无性生殖方式繁殖的生物").
+entry(schizy, 形容词, [], "受精神分裂症影响的").
+输入(schizzy, 形容词, [], "SCHIZZIER SCHIZZIESTschizy")。
+entry(拖, v, [拖了,拖着,拖], "拉或拖").
+入口(拖, 动词, [拖了, 正在拖, 拖], "拖拉").
+entry(schleppy, 形容词, [], "更破旧 最破旧 破旧 邋遢").
+entry(schliere, 名词, [schlieren], "火成岩中的小条纹").
+entry(低劣商品, n, [低劣商品们], "劣质商品").
+entry(schlocky, adj, [], "质量低劣的")
+entry(笨蛋, n, [笨蛋们], "一个愚蠢或不吸引人的人").
+entry(施隆普, v, [施隆普了,施隆普中,施隆普们], "懒散或邋遢地穿着").
+entry(schlumpy, 形容词, [], "SCHLUMPIER SCHLUMPIEST不吸引人 懒散").
+entry(鸡油, n, [鸡油], "过度的感伤").
+entry(猪油, n, [猪油], "schmaltz").
+entry(schmalzy, adj, [], "特征是schmaltz的最schmalzy的").
+entry(schmatte, n, [schmattes], "破旧的衣服").
+entry(抹, v, [抹了,正在抹,抹], "抹").
+条目(schmeer, v, [schmeered, schmeering, schmeers], "贿赂").
+entry(施梅尔泽, n, [施梅尔泽斯], "一种装饰玻璃").
+entry(schmo, n, [schmoes], "或 SCHMOS 一个愚蠢的人").
+entry(schmoe, n, [schmoes], "schmo").
+entry(schmoos, v, [schmoosed,schmoosing,schmooses], "交际应酬").
+entry(schmoose, v, [schmoosed,schmoosing,schmooses], "闲聊").
+entry(闲谈, v, [闲谈过,闲谈着,闲谈], "闲聊").
+entry(schmoozy, adj, [], "为闲聊而生的更胜一筹最为闲聊").
+entry(笨蛋, v, [打平,打压,打], "击打或压平").
+entry(schmucky, 形容词, [], "更愚蠢 最愚蠢可鄙").
+entry(尘垢, n, [尘垢], "污垢灰尘").
+entry(烈酒, 名词, [烈酒], "一种烈性酒").
+入口(白酒, n, [白酒], "烈酒").
+entry(蜗牛, n, [蜗牛], "甜面包卷").
+entry(傻瓜, n, [傻瓜们], "容易受骗的人").
+entry(schnoz, n, [schnozes], "鼻子").
+entry(schnozz, n, [schnozzes], "鼻子").
+entry(学者, n, [学者们], "知识渊博的人").
+entry(注解, n, [注解], "或SCHOLIA，解释性边注")
+entry(学校, v, [学校的, 在校, 学校们], "在学习机构中进行教育")。
+entry(双桅纵帆船, n, [双桅纵帆船], "帆船").
+entry(电气石, n, [电气石], "一种矿物").
+entry(震惊, n, [震惊的], "突如其来的惊吓").
+entry(schrod, n, [鳕鱼], "小鳕鱼").
+entry(段子, n, [段子], "噱头").
+entry(schtik, n, [schtiks], "固定桥段")。
+entry(无声, 形容词, [], "silent").
+entry(舒伊特, 名词, [舒伊特斯], "一种荷兰帆船").
+entry(书院, 名词, [书院的复数形式], "或 SCHULNshul")。
+entry(schuss, v, [schussed,schussing,schusses], "进行快速直线滑雪")。
+entry(schusser, n, [schussers], "喜欢速降的人").
+entry(schvitz, v, [schvitzed,schvitzing,schvitzes], "蒸桑拿").
+entry(舒化音, 名词, [舒化音], "一种元音声音")。
+entry(石首鱼, 名词, [石首鱼类], "一种食肉鱼")
+entry(坐骨神经, 名词, [坐骨神经], "位于髋部附近的神经、静脉或动脉")。
+entry(坐骨神经痛, n, [坐骨神经痛], "臀部及邻近区域的痛苦疾病").
+entry(科学, n, [科学们], "系统化知识的一个部门")。
+entry(即是, adv, [], "即").
+entry(scilla, n, [西拉花], "一种开花植物").
+entry(scimetar, n, [乌尔都弯刀], "弯刀").
+entry(弯刀, n, [弯刀], "一种由阿拉伯人和土耳其人使用的弯曲剑").
+entry(弯刀, n, [弯刀], "弯刀").
+entry(scincoid, n, [石龙子], "一种光滑短肢蜥蜴的家族成员").
+entry(浮浅知识, n, [浮浅知识], "肤浅的知识").
+entry(sciolist, n, [泛学家], "一个其知识肤浅的人").
+条目(后裔, 名词, [后裔们], "子女或后代").
+entry(西罗科, n, [西罗科], "西罗科").
+条目(硬癌, n, [硬癌], "或 SCIRRHI 一种坚硬的肿瘤")。
+entry(裂解的, 形容词, [], "可以被轻易切割或分裂的").
+entry(切割, n, [切割], "切割或分裂的行为")
+入口(剪刀, 动词, [剪断, 正在剪, 剪刀], "用双刃切割工具切割")。
+entry(裂口, n, [裂口], "一个纵向切割").
+entry(松鼠科动物, n, [松鼠科动物], "一种松鼠科动物").
+entry(松鼠亚科, n, [松鼠类], "松鼠科啮齿动物")
+entry(松鼠状, 形容词, [], "类似于松鼠").
+entry(sclaff, v, [sclaffed,sclaffing,sclaffs], "在高尔夫中击球之前用球杆击地").
+条目(sclaffer, n, [sclaffers], "一个打偏球的人").
+```prolog
+条目(巩膜, n, [巩膜], "或称为 SCLERAE，眼球外层的白色纤维外衣，SCLERAL 形容词").
+```
+entry(厚壁细胞, n, [厚壁细胞], "一种植物细胞").
+entry(硬板, n, [硬板], "构成节肢动物外壳的硬质板之一").
+entry(scleroid, 形容词, [], "坚硬的").
+entry(scleroma, n, [硬结], “或 SCLEROMATA，一块硬化的细胞组织”)。
+entry(硬化, v, [变硬,硬化中,硬化], "变得像组织一样硬").
+entry(硬化的, 形容词, [], "hardened").
+```prolog
+entry(嘲笑, v, [嘲笑了,嘲笑着,嘲笑], "表达粗鲁的怀疑或嘲讽").
+```
+entry(嘲笑者, n, [嘲笑者们], "进行嘲笑的人").
+entry(藐视法律者, n, [藐视法律者们], "习惯性违法者").
+entry(训斥, v, [训斥了,训斥着,训斥], "严厉地责备").
+条目(scolder, 名词, [scolders], "一个责骂的人")。
+entry(责骂, n, [责骂], "严厉的责备").
+```
+条目(头节, 名词, [头节们], "或者 头节 蝎子状的头部").
+```
+entry(脊柱侧弯, n, [脊柱侧弯], "脊柱异常弯曲").
+entry(scollop, v, [扇贝上打锯齿形, 打扇贝形, 扇贝形], "使成扇贝状").
+entry(scombrid, n, [scombrids], "鮪科鱼类").
+entry(壁灯, 动词, [罚款, 罚款中, 罚款的情况], "罚款").
+entry(烤饼, n, [烤饼], "一种扁圆形蛋糕").
+条目(挪动, 动词, [挪动了, 挪动中, 挪动], "以短距离滑动").
+条目(勺, 动词, [勺起, 勺起中, 勺起], "用勺子形状的器具取起").
+entry(scooper, n, [舀子], "一个舀的东西").
+`条目(勺, n, [勺们], "或 SCOOPSFUL一勺能装的量").`
+入口(scoot, v, [快速地去], "迅速地去").
+`入口(scootch, 动词, [scootched, scootching, scootches], "挪动").`
+条目(滑板车, 动词, [滑板车了, 滑板车中, 滑板车们], "骑二轮车").
+entry(scop, n, [诗人], "一位古英语诗人").
+entry(scopa, n, [scopae], "昆虫身体上的一小撮毛发")。
+`项(范围, v, [范围的, 范围的, 范围], "为了评估而查看").`
+```prolog
+条目(scopula, n, [scopulas], "或 SCOPULAE浓密的毛簇").
+```
+entry(烧焦, v, [烧焦了, 烧焦的, 烧焦], "稍微烧一点以改变颜色或味道").
+entry(炽热者, n, [炽热者们], "导致灼热的事物").
+```
+词条(得分, v, [得分, 得分中, 得分数], "在比赛中得分").
+```
+entry(scorepad, n, [计分板], "记录得分点的板").
+entry(得分者, n, [得分者们], "一个取得分数的人").
+entry(浮渣, n, [浮渣], "金属或矿石冶炼后的废料")
+entry(scorify, v, [scorified,scorifying,scorifies], "将……转化为火山渣").
+entry(得分, n, [得分], "在比赛中得分的行为").
+entry(轻蔑, v, [轻蔑了,轻蔑中,轻蔑], "以蔑视的态度对待或看待")
+entry(scorner, n, [鄙视者], "一个轻视他人的人").
+entry(轻蔑的, 形容词, [], "感到或表达蔑视").
+entry(蝎子, n, [蝎子们], "一种具有毒刺的蜘蛛类动物").
+entry(苏格兰人, n, [苏格兰人们], "一种税").
+```
+条目(苏格兰威士忌, 动词, [已结束, 结束中, 结束们], "彻底结束").
+```
+entry(潜鸭, n, [潜鸭], "一种海鸭").
+entry(苏格提亚, n, [苏格提亚们], "一个凹形模子").
+entry(盲点, n, [盲点], "或盲点视野中的盲区").
+条目(暗视觉, 名词, [暗视], "在昏暗光线下的视觉SCOTOPIC 形容词")。
+entry(史考提, n, [史考提犬], "短腿梗犬").
+```prolog
+entry(擦洗, v, [擦洗了,擦洗中,擦洗], "通过用力摩擦来清洁或抛光").
+```
+entry(擦洗者, 名词, [擦洗者们], "清洗某物的人").
+```
+条目(祸害, v, [祸害,惩罚,祸害], "严厉惩罚").
+```
+条目(鞭笞者, 名词, [鞭笞者们], "施以鞭笞者").
+条目(擦洗, 名词, [擦洗物], "通过擦洗去除的材料")。
+条目(scouse, n, [scouses], "一种肉炖菜").
+entry(侦察, 动词, [侦察过, 侦察中, 侦察们], "为获取信息而观察").
+entry(侦察员, n, [侦察员们], "侦察的人").
+entry(scouth, n, [scouths], "大量").
+entry(scouther, v, [scouthered,scouthering,scouthers], "烧焦").
+entry(侦查, n, [侦查], "侦查者的行为").
+入口(平底船, 动词, [平底船过, 平底船运输, 平底船运输], "通过平底船运输一种平底船").
+entry(scowder, v, [scowdered,scowdering,scowders], "烤焦").
+entry(皱眉, v, [皱着眉头,皱眉中,皱眉], "愤怒地皱眉").
+entry(scowler, n, [皱眉者], "一个皱眉的人").
+entry(拼字游戏, v, [抓撓,抓撓中,抓撓], "疯狂地爪或摸索").
+entry(scrabbly, 形容词, [], "SCRABBLIER SCRABBLIESTraspy").
+entry(scrag, v, [扭断脖子, 扭断脖子中, 扭断脖子们], "扭断脖子").
+entry(scraggly, 形容词, [], "更加参差不齐 参差不齐的最高级不均匀").
+entry(scraggy, 形容词, [], "瘦弱的 瘦骨嶙峋的").
+entry(scraich, v, [scraiched, scraiching, scraichs], "发出尖锐的叫声").
+entry(scraigh, v, [scraighed,scraighing,scraighs], "尖叫").
+entry(scram, v, [scrammed,scramming,scrams], "快速离开").
+entry(争夺, v, [争夺过, 争夺着, 争夺们], "急忙移动或攀爬").
+entry(冲压喷气发动机, n, [冲压喷气发动机], "一种飞机发动机").
+entry(scran, n, [scrans], "食物").
+entry(scrannel, n, [瘦骨嶙峋的人], "瘦弱的人").
+entry(废弃, v, [废弃的, 正在废弃, 废弃物], "丢弃").
+入口(scrape, 动词, [scraped, scraping, scrapes], "擦去外层").
+entry(scraper, n, [刮刀], "用于刮擦的工具").
+entry(瘙痒病, n, [瘙痒病], "一种绵羊的疾病").
+entry(刮削, n, [刮削物], "刮下的东西").
+entry(报废, 过去, [], "scrap 的时态").
+条目(斗士, 名, [斗士们], "一种斗士")。
+entry(拆解, 现在, [], "拆解的分词").
+入口(肉渣, n, [肉渣], "调味的碎肉和玉米粉混合物").
+entry(scrappy, 形容词, [], "充满战斗精神的更顽强的最顽强的").
+entry(抓, v, [抓了,抓着,抓住], "在表面上做出细而浅的切割或标记").
+entry(刮擦, 形容词, [], "由刮擦制成的更刮擦，最刮擦的").
+条目(scravel, v, [scraveled,scraveling,scravels], "快速移动 爬行").
+entry(scrawb, v, [scrawbed,scrawbing,scrawbs], "进行 scrob")
+entry(潦草地寫, v, [潦草地寫過,潦草地寫著,潦草地寫], "快速或潦草地書寫")。
+entry(涂鸦者, n, [涂鸦者们], "一个涂鸦的人").
+条目(潦草的, 形容词, [], "更潦草的 最潦草的写得匆忙或字迹不清").
+entry(骨瘦如柴, 形容词, [], "极其消瘦").
+条目(吱吱, v, [吱吱叫过,吱吱叫着,吱吱叫], "发出尖锐刺耳的声音")。
+entry(吱吱作响的, 形容词, [], "刺耳的").
+entry(尖叫, 动词, [尖叫了,尖叫着,尖叫], "发出持续刺耳的叫声").
+entry(尖叫者, 名词, [尖叫者们], "尖叫的人").
+entry(碎石坡, n, [碎石坡], "位于斜坡底部的大量岩石").
+```prolog
+条目(尖叫, v, [尖叫过, 尖叫中, 尖叫], "发出刺耳而尖锐的叫声").
+```
+entry(刺耳的, 形容词, [], "更刺耳 最刺耳 刺耳声").
+entry(板, v, [刮平,刮平中,刮平], "打碎").
+entry(屏幕, v, [筛选, 筛查, 筛选器], "提供一个设计用来划分、隐藏或保护的屏幕的装置")
+entry(筛选器, n, [筛选器们], "一个筛查的东西").
+条目(螺丝, 动词, [拧紧, 正在拧紧, 拧紧], "用一种金属紧固件的螺丝固定")。
+entry(旋转器, n, [旋转器们], "一个用于旋转的工具").
+entry(失误, n, [失误], "一次笨拙的实例").
+条目(扭曲的, 形容词, [], "更扭曲的 最扭曲的疯狂").
+entry(文书, 形容词, [], "与公职文书记或秘书有关").
+entry(潦草的書寫, v, [潦草地書寫着,潦草地書寫,潦草地書寫们], "匆忙或草率地写").
+entry(潦草的, 形容词, [], "由潦草的涂鸦或随意的书写组成")).
+entry(抄写员, v, [抄写, 抄写中, 抄写者], "用刻刀标记").
+entry(scriber, n, [刻线器], "一种用于标记待切割材料的尖锐工具")。
+_entry(scried, 过去, [], "scry的时态")._
+entry(占卜, 现在时, [], "第三人称单数的占卜").
+```prolog
+entry(scrieve, v, [scrieved, scrieving, scrieves], "迅速且顺畅地移动").
+```
+entry(细布, n, [细布], "一种棉织物").
+entry(节俭, v, [节俭了, 节俭中, 节俭们], "过分节省或吝啬").
+entry(节俭者, n, [节俭者们], "一个节俭的人").
+entry(scrimpit, 形容词, [], "微薄的").
+entry(吝啬, 形容词, [], "更吝啬 最吝啬微薄").
+entry(稿, n, [稿件], "一小张纸").
+```prolog
+条目(剧本, v, [编剧, 编写, 剧本], "为话剧或电影准备书面文本").
+```
+entry(编写者, n, [编写者们], "撰写脚本的人").
+条目(scritch, n, [scritches], "安静的刮擦声")。
+entry(scrive, v, [刻,雕刻中,刻], "雕刻").
+entry(scrob, v, [scrobbed,scrobbing,scrobs], "用爪或类似爪的东西刮").
+词条(鳕鱼, 名词, [鳕鱼们], "年轻的鳕鱼")。
+entry(瘰疬, n, [瘰疬], "一种淋巴腺疾病")
+entry(scroggy, 形容词, [], "SCROGGIER SCROGGIEST，生长受阻").
+条目(卷轴, v, [已滚动,滚动中,滚动], "在显示屏上移动文本").
+entry(滚动游戏, n, [滚动游戏], "一种游戏背景滚动经过的电脑游戏").
+入口(蹲下, v, [蹲下了,蹲着,蹲下], "蹲伏")。
+条目(斯克鲁奇, n, [斯克鲁奇们], "一个吝啬的人")。
+```prolog
+entry(scroop, v, [scrooped,scrooping,scroops], "发出刺耳的摩擦声").
+```
+entry(斯克鲁奇, v, [斯克鲁奇了, 斯克鲁奇中, 斯克鲁奇们], "去 斯克鲁奇").
+entry(阴囊, n, [阴囊们], "或 阴囊皮肤的袋子，包含睾丸阴囊形容词").
+```
+entry(scrouge, v, [scrouged,scrouging,scrouges], "拥挤").
+```
+entry(搜寻, v, [搜寻过, 正在搜寻, 搜寻], "通过觅食来收集").
+条目(邋遢, 形容词, [], "更邋遢 最邋遢肮脏").
+entry(刷, v, [擦洗过, 擦洗中, 擦洗], "用力擦以清洁").
+入口(净化器, 名词, [净化器们], "一种用来清洁的东西")。
+entry(scrubby, adj, [], "SCRUBBIER SCRUBBIEST较小或质量较差").
+入口(粗糙, v, [粗糙的, 粗糙中, 粗糙], "变得粗糙").
+entry(scruffy, 形容词, [], "SCRUFFIER SCRUFFIESTshabby").
+```prolog
+entry(scrum, v, [scrummed,scrumming,scrums], "在橄榄球中围绕球的争球阵型").
+```
+entry(美味, 形容词, [], "更美味 极美味delicious").
+entry(scrumple, v, [scrumpled, scrumpling, scrumples], "揉皱").
+entry(scrumpy, n, [苹果酒], "粗苹果酒").
+entry(抓皱, 动词, [抓皱了, 抓皱着, 抓皱们], "压碎").
+条目(发圈, 名词, [发圈], "用于扎头发的松紧带")。
+条目(良心不安, 动词, [良心不安了,良心不安着,良心不安], "因为道德考量而犹豫不决")。
+entry(仔细检查, n, [仔细检查们], "一次仔细的检查").
+entry(预言, 动词, [预言了, 预言中, 预言], "通过使用水晶球来预见未来").
+entry(占卜者, n, [占卜者们], "进行占卜的人").
+```prolog
+条目(潜水, 动词, [潜水了, 正在潜水, 潜水], "使用带压缩空气的呼吸装置在水下游泳").
+```
+entry(疾行, v, [疾行了, 疾行中, 疾行], "迅速跑动或移动").
+entry(意大利银元, 名词, [银元], "一种意大利旧币").
+entry(拖着脚走, 动词, [拖过,拖着走,拖着脚走], "走路时脚不抬起").
+entry(擦伤者, n, [擦伤者们], "擦伤的人").
+entry(乱斗, v, [乱斗了, 乱斗着, 乱斗], "以一种粗暴混乱的方式挣扎").
+entry(打斗者, n, [打斗者们], "打架的人").
+条目(垃圾, 名词, [垃圾们], "清理垃圾").
+entry(sculk, v, [sculked,sculking,sculks], "潜行").
+entry(潜行者, n, [潜行者们], "潜行者").
+entry(短桨, 动词, [划动,摇桨,短桨], "用一种类型的桨推进").
+entry(划艇人, n, [划艇者], "划桨的人").
+entry(厨房, n, [厨房], "一个清洗和存放厨房用具的房间").
+entry(厨房帮工, n, [厨房帮工们], "一个做粗活的厨房仆人").
+entry(sculp, v, [sculped,sculping,sculps], "雕刻").
+入口(石首鱼, 名词, [石首鱼们], "一种淡水鱼").
+入口(雕刻, 动词, [雕刻了, 雕刻中, 雕刻], "以固体材料形成图像或代表")。
+条目(雕塑家, n, [雕塑家们], "从事雕刻的人").
+entry(贝壳砂, n, [贝壳砂], "贝壳").
+```
+entry(浮渣, 动词, [去除了浮渣, 去除浮渣中, 去除浮渣], "去除不纯或外来的物质").
+```
+入口(败类, n, [败类们], "一个无赖")。
+entry(无赖球, n, [无赖球], "一个无赖")。
+```prolog
+条目(scumble, 动词, [scumbled, scumbling, scumbles], "通过轻轻摩擦来柔化轮廓或颜色")。
+```
+```prolog
+entry(无泡渣, 形容词, [], "没有泡沫或渣滓").
+```
+entry(scumlike, 形容词, [], "类似泡沫").
+entry(败坏, 过去, [], "败坏的时态").
+entry(淘金者, n, [淘金者们], "一位淘金者")
+entry(泡沫化, 现在时, [], "scum的分词").
+入口(污秽的, 形容词, [], "更污秽 最污秽覆盖着污垢污秽地 副词").
+entry(海螺, n, [海螺], "一种用作食物的海螺").
+entry(厌恶, v, [厌恶的,厌恶中,厌恶], "感到厌恶或反感").
+条目(扁鲹, 名词, [扁鲹], "一种海洋食用鱼").
+entry(scuppaug, n, [scuppaugs], "鲈鱼").
+entry(设伏, 动词, [设伏了, 设伏中, 设伏们], "伏击").
+entry(头皮屑, n, [头皮屑们], "鳞状或撕裂的干燥皮肤").
+entry(scurfy, 形容词, [], "覆盖着皮屑").
+entry(scurril, 形容词, [], "scurrile").
+entry(scurrile, 形容词, [], "用粗俗和辱骂性的语言表达").
+entry(急匆匆跑, 动词, [急匆匆跑了,急匆匆跑着,急匆匆跑着], "匆忙地移动").
+entry(坏血病, 形容词, [], "更坏血病 最坏血病卑鄙或可鄙坏血病地 副词").
+entry(坏血病, n, [坏血病s], "由维生素 C 缺乏导致的疾病").
+entry(scut, n, [短尾巴], "如兔子般短的尾巴")
+entry(scuta, pl, [], "盾牌的").
+entry(免役税, n, [免役税], "封建领主征收的代替军事服务的税款").
+entry(盾状, 形容词, [], "形似盾牌").
+entry(菕麻, 动, [被菕麻, 正在菕麻, 菕麻], "通过敲打分离木质纤维").
+entry(scutcher, n, [scutchers], "一种刮麻机").
+entry(鱼鳞片, 名词, [鳞片], "坚硬的鳞片或鳞甲").
+entry(盾片, npl, [], "小的盾状器官或部位")
+entry(scutter, v, [scuttered,scuttering,scutters], "慌张地疾跑").
+entry(疾走, v, [疾走了,疾走着,疾走], "迅速跑动").
+entry(盾牌, n, [盾], "鳞甲").
+entry(杂活, n, [杂活], "乏味或琐碎的工作").
+entry(scuzz, n, [scuzzes], "一个肮脏或卑鄙的人").
+entry(肮脏的人, n, [肮脏的人们], "一个肮脏或令人鄙视的人").
+entry(scuzzy, adj, [], "肮脏或破旧的").
+`entry(scyphate, adj, [], "形状像杯子").`
+条目(scyphus, 名词, [scyphi], "一个有两个把手的希腊杯子")。
+entry(长柄大镰刀, v, [割过,割着,割], "用长柄大镰刀割一种单刃切割工具").
+entry(海, n, [海洋], "大海").
+entry(海军袋, n, [海军袋], "水手使用的袋子").
+entry(海滩, n, [海滩], "沿海的沙滩").
+条目(海底, 名词, [海底], "一个海床").
+entry(海鸟, n, [海鸟], "一种常见于海洋或海岸的鸟").
+entry(海岸, n, [海岸线], "海岸").
+entry(seaboot, n, [防水靴], "防水的靴子").
+entry(海运, 形容词, [], "在海上或越过海上运输的").
+entry(海岸, n, [海岸线], "临海的土地").
+条目(船壳阀, 名词, [船壳阀], "船体上的一个阀门").
+entry(海船, n, [海船], "海上导航技能").
+entry(seadog, n, [海狗], "雾虹")
+entry(海上机场, n, [海上机场], "海中的机场").
+entry(水手, n, [水手们], "一个水手").
+entry(海底, n, [海底], "海洋的底部").
+entry(海洋泡沫, n, [海洋泡沫], "海上形成的泡沫").
+条目(海鲜, n, [海鲜], "来自海中的可食用鱼或贝类")。
+entry(海鸟, n, [海鸟类], "一种海鸟").
+入口(海滨, n, [海滨], "沿海边的区域")。
+entry(seagirt, 形容词, [], "被海环绕").
+入口(海上航行, 形容词, [], "用于海上的设计")。
+条目(海草, n, [海草类], "一种生活在或靠近海洋的草状植物")。
+entry(海鸥, n, [海鸥们], "一种经常出现在海边的海鸥").
+词条(海马, 名词, [海马们], "一种属于海龙科的鱼").
+entry(海甘蓝, n, [海甘蓝], "一种沿海植物，其嫩芽可食用").
+entry(海豹, v, [密封,密封中,密封], "关闭或确保不会泄漏或通过SEALABLE adj")
+entry(密封剂, n, [密封剂], "一种密封材料").
+entry(封印者, n, [封印者们], "一个封印的").
+入口(海豹猎手, 名词, [海豹猎手职业], "捕猎海豹的职业").
+entry(海运, v, [海运过, 海运中, 海运], "通过船只运输军事人员和装备")
+entry(封闭, n, [封闭物], "猎杀海豹")
+entry(seallike, 形容词, [], "像海豹一样的水生哺乳动物").
+入口(海豹皮, 名词, [海豹皮], "海豹的皮").
+entry(接缝, v, [接缝了, 接缝中, 接缝], "用缝合线缝合两块织物接合的线条").
+条目(海员, 名词, [海员们], "水手SEAMANLY 形容词").
+```prolog
+entry(航标, n, [航标], "为海员提供导航指南的地标").
+```
+entry(缝纫工, n, [缝纫工们], "进行缝纫的人").
+entry(肮脏, 比较级, [], "的肮脏").
+`条目(最肮脏的, 最高级, [], "肮脏的").`
+entry(无缝, 形容词, [], "没有缝").
+entry(类似缝的, 形容词, [], "类似缝").
+`entry(海底山, n, [海底山], "一座海底山").`
+条目(裁缝, n, [裁缝们], "一个职业是缝纫的人").
+```prolog
+entry(seamy, 形容词, [], "更加丑陋的 最丑陋的令人不快").
+```
+entry(降神会, n, [降神会], "一场寻求灵异信息的聚会")。
+入口(海景, n, [海景], "一个海景").
+入口(水上飞机, 名词, [水上飞机], "一种设计为可以从水面起飞或降落的飞机")。
+entry(海港, n, [海港], "可供海船进入的港口或城镇")
+条目(海震, 名词, [海震], "海底地震").
+entry(sear, adj, [], "SEARER SEARESTsere").
+entry(sear, v, [烧焦, 烧灼, 烧烤], "烧焦表面").
+entry(搜索, 动词, [搜过,搜寻中,搜索], "仔细查看或检查以找出某物").
+entry(搜索者, n, [搜索者们], "寻找的人").
+entry(searobin, n, [海鲂], "一种海洋鱼类").
+entry(海景, n, [海景画], "一幅海的画").
+条目(水上童子军, n, [水上童子军们], "受过水上活动训练的童子军").
+条目(海贝, n, [海贝壳], "一种海洋软体动物的壳").
+entry(海岸, n, [海岸线], "临海的土地").
+entry(晕船, 形容词, [], "由于海上船舶的运动而引起的恶心").
+`词条(海滨, 名词, [海滨], "海岸").`
+入口(季节, v, [调味,调味品, 季节], "通过添加美味的配料来提高或改善味道")。
+entry(季节性, n, [季节性], "与一年中的某个时间段相关的员工或产品").
+entry(调味者, n, [调味者们], "调味的人").
+条目(座位, v, [就座,入座,位子], "把某物放在可以坐的座位上")。
+entry(座椅靠背, n, [座椅靠背], "座椅的背部").
+entry(安全带, n, [安全带], "用于使人在座位上保持稳定的一种带子安排").
+entry(座椅者, n, [座椅者们], "一个可以坐的东西").
+entry(座位, n, [座位], "用于覆盖座椅的材料")。
+entry(无座, 形容词, [], "没有座位的").
+入口(座位伙伴, 名词, [座位伙伴们], "与某人共用一个座位的人")。
+entry(海运列车, n, [海运列车], "一种装备用于运载铁路车厢的船").
+条目(海鳟鱼, n, [海鳟鱼], "一种海洋鱼").
+entry(座位工作, n, [座位工作], "在座位上完成的工作").
+入口(海堤, 名词, [海堤], "保护海岸线免于侵蚀的墙")。
+entry(seawan, n, [seawans], "贝壳珠").
+条目(海上财富, 名词, [海上财富们], "海岸").
+入口(海上, n, [海上], "朝向大海的方向")。
+entry(海草, n, [海草肥料], "用作肥料的海藻").
+entry(海水, n, [海水], "来自海洋的水").
+entry(海道, n, [海上航道], "船只的航行进展").
+entry(海草, n, [海草们], "在海里生长的植物SEAWEEDY adj").
+entry(癿酸的, 形容词, [], "源于某种酸")
+entry(sebasic, 形容词, [], "sebacic").
+词条(皮脂, 名词, [皮脂], "由皮肤某些腺体分泌的脂肪物质")。
+entry(sec, n, [秒], "正割").
+条目(塞卡洛斯, 名词, [塞卡洛斯们], "一种复合碳水化合物")。
+条目(secant, n, [secants], "一个角的三角函数").
+entry(割线地, 副词, [], "以相交的方式").
+entry(secateur, n, [修枝剪], "修剪工具").
+词条(secco, n, [seccos], "在干灰泥上作画的艺术")。
+entry(退出, v, [退出了,退出中,退出], "正式地从联盟或协会中退出").
+entry(分裂者, n, [分裂者们], "一个脱离的个体")
+```prolog
+条目(secern, 动词, [secerned,secerning,secerns], "作为独立来识别").
+```
+entry(隔离, v, [隔离了, 隔离中, 隔离], "使离开或隔离于他人").
+entry(第二, v, [附议,附议中,赞同], "给予支持或鼓励")
+entry(秒, n, [秒], "击剑中的位置").
+entry(secondee, n, [临时调派人员], "被临时调往其他工作的员工")
+entry(助成者, n, [助成者们], "辅助者").
+entry(其次, 副词, [], "在第一个之后的下一个位置").
+entry(secondo, n, [第二部], "钢琴二重奏中的低音部分").
+entry(secpar, n, [秒差距], "一个秒差距").
+entry(秘密, n, [秘密], "保密的状态").
+entry(秘密, 形容词, [], "SECRETER SECRETESTkept from knowledge or view").
+entry(秘密, n, [秘密], "不让他人知道的事情").
+entry(分泌, v, [分泌,分泌着,分泌着], "从细胞或体液中产生并分离出来").
+entry(secretin, n, [secretins], "一种激素").
+entry(秘密地, 副词, [], "以一种秘密的方式").
+entry(分泌者, n, [分泌者], "分泌物").
+入口(节, 名词, [节], "一群因共同信仰或兴趣而团结在一起的人").
+entry(宗派成员, n, [宗派成员们], "一个派别的成员").
+entry(sectile, 形容词, [], "能够被平滑地切割").
+entry(section, v, [分段的,分段,段落], "将某物划分为明显的部分").
+entry(板块, v, [分区, 区划, 板块化], "分成板块或部分").
+entry(部门的, 形容词, [], "属于或关于部门的").
+entry(世俗的, 名词, [平信徒], "凡人").
+entry(secund, adj, [], "仅在一侧有部分或器官SECUNDLY adv").
+entry(secundum, 副词, [], "根据").
+entry(安全, 形容词, [], "更加安全 最安全 远离危险 安全地 副词").
+entry(安全, v, [已固定,固定,固定], "使牢固或紧密").
+entry(securer, n, [安全者], "一个确保某事的东西")
+entry(确保, 现在, [], "secure的分词").
+entry(安全, n, [证券], "安全状态").
+entry(轿车, n, [轿车], "一种汽车").
+entry(塞代里姆, a, [], "结集的复数").
+entry(镇静, 形容词, [], "镇静的 镇静的calm镇静地 副词").
+entry(镇静, v, [镇静了, 正在镇静, 镇静], "给予镇静剂").
+`entry(镇静, 名词, [镇静剂], "通过使用镇静剂来减少压力或兴奋感").`
+entry(镇静剂, n, [镇静剂药物], "一种引起镇静状态的药物").
+entry(逾越节晚餐, n, [逾越节晚餐们], "或 SEDARIM 一个犹太教仪式性晚餐").
+条目(坐着, n, [坐着们], "长时间坐着").
+entry(sedge, n, [芦苇], "一种沼泽植物").
+entry(sedgy, 形容词, [], "较多芦苇 最多芦苇abounding in sedge").
+entry(sedile, n, [坐席], "教会中供执事神职人员使用的座位之一").
+entry(sedilium, n, [sedilia], "sedile").
+entry(沉淀物, 动词, [沉淀, 沉淀中, 沉积物], "沉到液体的底部")。
+entry(煽动叛乱, n, [煽动叛乱], "对政府的叛乱煽动")
+```prolog
+条目(诱惑, v, [诱惑了, 诱惑着, 诱惑], "误入歧途SEDUCIVE 形容词").
+```
+entry(诱惑者, n, [诱惑者们], "引诱他人的人").
+entry(勤勉, n, [勤勉们], "勤勉的状态").
+条目(勤勉的, 形容词, [], "勤奋").
+entry(景天, n, [景天属], "一种开花植物").
+词条(see, v, [saw, seen, seeing], "看通过眼睛感知可看 adj")。
+`进入（看见，n，[看见的]，“成年雄性海狗”）。`
+entry(种子, v, [播种, 播种中, 种子], "种植繁殖植物结构").
+入口(播种床, n, [播种床], "为播种准备的土地").
+条目(种子蛋糕, 名词, [种子蛋糕], "一种含有芳香种子的甜蛋糕")。
+entry(seedcase, n, [种皮], "果皮").
+entry(播种者, n, [播种者], "播种的人").
+entry(seedier, 比较级, [], "of seedy").
+entry(seediest, 最高级, [], "of seedy").
+entry(臭烘烘地, 副词, [], "以一种邋遢的方式").
+entry(seedless, 形容词, [], "无籽").
+entry(似种子, 形容词, [], "类似种子").
+条目(幼苗, n, [幼苗们], "幼小的植物").
+entry(seedman, n, [seedmen], "种子商人").
+条目(种荚, n, [种荚], "一种种子容器").
+entry(种子商, n, [种子商人], "种子的经销商")。
+条目(播种期, n, [播种期], "播种的季节")。
+条目(种子状, 形容词, [], "含种子的或状态或质量较低的 SEEDIER SEEDIEST")。
+entry(看见, n, [看见], "看到的行为").
+entry(寻找, 动词, [寻找中, 寻求, 寻找], "去寻找").
+entry(寻找者, n, [寻找者们], "一个寻找的人").
+条目(海豹, 动词, [缝合眼睛, 缝合中, 缝合], "在训练期间缝合的眼睛如猎鹰一般")。
+entry(seely, 形容词, [], "虚弱").
+条目(看似, 动词, [看起来, 看着, 似乎], "给人以……的印象")。
+entry(似者, n, [似者们], "一种似乎").
+entry(外观, n, [外观们], "外在表现").
+条目(貌似, 形容词, [], "更貌似 最貌似的令人愉悦的外观")。
+条目(看见, 过去, [], "see的过去分词").
+入口(渗漏, v, [渗漏了, 渗漏中, 渗漏], "慢慢地通过小孔")。
+entry(渗漏, 名词, [渗漏], "已经渗出的液体数量")
+entry(seepy, 形容词, [], "浸湿的或渗水的")。
+entry(预言者, n, [预言者们], "一个先知").
+entry(女预言家, n, [女预言家们], "女性预言者").
+入口(跷跷板, 动词, [跷跷板了, 跷跷板中, 跷跷板], "上下或来回移动")。
+entry(沸腾, 动词, [沸腾了,沸腾中,沸腾], "如同沸腾般翻腾或冒泡")。
+entry(seg, n, [分隔], "主张种族隔离的人").
+entry(segetal, 形容词, [], "生长在谷物田中").
+entry(seggar, n, [seggars], "一个匣钵").
+entry(分段, v, [分段的,分段中,分段], "划分为部分").
+```prolog
+entry(segno, n, [segnos], "或 SEGNI 一种音乐符号").
+```
+entry(喜鹊草, n, [喜鹊草], "多年生草本植物").
+entry(继续, v, [继续了, 继续中, 继续], "在没有停顿的情况下从一个音乐主题过渡到另一个").
+entry( sei, n, [ 六 ], " 長鬚鯨 " ).
+entry(seicento, n, [seicentos], "十七世纪").
+entry(涌浪, n, [涌浪], "湖泊或内陆海面的振荡").
+条目(赛德尔, 名词, [赛德尔], "一个大啤酒杯").
+条目(seif, 名, [seifs], "长窄沙丘")。
+entry(领主, n, [领主们], "封建领主").
+entry(领主, n, [领主们], "一个封建领主").
+条目(领地, 名词, [领地们], "领主的权力")。
+entry(塞纳, 动词, [seined, seining, seines], "用大型垂直悬挂的网捕鱼").
+entry(他的, n, [椚网捕鱼者们], "一个用网捕鱼的人").
+入口(拖网捕鱼, 名词, [拖网捕鱼], "用围网捕鱼的行为")。
+entry(seise, v, [seised,seising,seises], "获得SEISABLE adj").
+entry(seiser, n, [seisers], "征服者").
+entry(占有, n, [占有物], "实占").
+entry(没收, n, [没收], "扣押").
+entry(地震, n, [地震], "地震SEISMAL 地震学 adj").
+条目(地震活动, 名词, [地震活动], "涉及地震的自然活动")。
+事项(世索尔, n, [世索尔斯], "世索").
+条目(癫痫发作, n, [癫痫发作], "seizure").
+entry(烤麸, n, [烤麸], "一种用小麦面筋做成的食品").
+条目(正座, 名词, [正座们], "一种在日本武术中的跪坐姿势")。
+entry(扣押, v, [扣押了, 扣押中, 扣押], "突然并强行抓住SEIZABLE 形容词").
+入口(夺取者, 名词, [夺取者们], "一个夺取的人").
+entry(占有, n, [占有权], "合法拥有土地").
+入口(抓住, 名词, [抓住们], "抓住者的行为").
+entry(夺取者, n, [夺取者们], "接管领地的人").
+条目(癫痫发作, n, [癫痫发作], "抓住的行为").
+条目(坐姿, 形容词, [], "以坐姿表示的 用于纹章动物")。
+entry(sejeant, 形容词, [], "sejant").
+```prolog
+entry(sel, n, [自我], "自己").
+```
+entry(seladang, n, [水牛], "saladang").
+entry(细拉, n, [细拉们], "一个意义不明的词，通常标记在诗篇中诗句的末尾")。
+entry(selamlik, n, [男宾室], "土耳其房屋中专供男性使用的部分").
+entry(罕见, 形容词, [], "不寻常").
+entry(很少, 形容词, [], "不频繁地副词").
+条目(选择, 动词, [已选择, 选择中, 选择], "选择").
+entry(selectee, n, [选择者], "被选择的那一个").
+entry(selectly, 副词, [], "通过选择").
+entry(选择器, n, [选择器们], "选择其中一个").
+条目(硒酸盐, 名词, [硒酸盐], "一种化学盐").
+entry(硒的, 形容词, [], "与硒有关的").
+entry(硒化物, n, [硒化物们], "硒的化合物").
+条目(石膏晶体, 名, [石膏晶体们], "一种石膏的变体").
+entry(硒, n, [硒元素们], "一种非金属元素SELENOUS 形容词").
+entry(self, n, [自己], "一个人的整体重要或特殊存在").
+entry(self, v, [自交, 自交中, 自交们], "近亲繁殖").
+entry(自我领域, n, [自我领域们], "自我").
+entry(自愈草, n, [自愈草], "多年生草本植物").
+条目(自我, n, [自我们], "成为一个个体的状态").
+entry(自拍, n, [自拍照], "用手机相机拍摄的自己的照片").
+entry(自私, 形容词, [], "主要或仅仅关心自己")
+entry(无私, 形容词, [], "无私的").
+entry(自我性, n, [自我性们], "自我").
+entry(相同, 形容词, [], "相同").
+entry(自我, 副词, [], "朝向自己").
+入口(毛皮精灵, 名词, [毛皮精灵们], "苏格兰和爱尔兰民间传说中的一种生物")。
+entry(卖, v, [卖了, 卖着, 卖], "出售给其他人以换取金钱或其他有价值的对价SELLABLE adj").
+entry(马鞍, n, [马鞍的], "一个马鞍").
+entry(卖家, n, [卖家们], "一个销售的人").
+```prolog
+entry(削價拋售, n, [削價拋售], "大量股票、債券或商品的出售")。
+```
+entry(售罄, n, [售罄], "所有座位都已售出的表演").
+entry(selsyn，n，[selsyns]，"一种遥控设备")。
+条目(苏打水, 名词, [苏打水], "碳酸矿泉水").
+entry(selva, n, [雨林], "热带雨林").
+```prolog
+条目(布边, 名词, [布边], "编织物的边缘，防止散开的处理SELVAGED 形容词").
+```
+entry(布边, n, [布边], "布边").
+entry(自己, 复数, [], "自我").
+entry(语义, 形容词, [], "与意义有关").
+entry(语义, 形容词, [], "作为警告").
+entry(seme, n, [semes], "点缀图案")。
+entry(semee, 形容词, [], "覆盖着所有的小纹章图案")。
+条目(语义, n, [语义组], "语素意义SEMEMIC 形容词").
+`条目(精液, 名词, [精液们], "或 SEMINA一种由男性生殖器官产生的液体")。`
+entry(学期, n, [学期], "构成学年一半的时期").
+entry(半挂车, n, [半挂车], "货运拖车").
+entry(半干旱, 形容词, [], "由少量降雨所特征").
+词条(半秃, 形容词, [], "部分秃头").
+entry(半粗体, 形容词, [], "以不如粗体厚的笔画印刷").
+```prolog
+entry(半昏迷, n, [半昏迷症状], "一种可以唤醒的昏迷状态").
+```
+entry(半聋, 形容词, [], "部分失聪").
+entry(semidome, n, [semidomes], "半圆顶").
+entry(半干, 形容词, [], "中等干").
+entry(半合身, 形容词, [], "稍微符合身体的线条").
+entry(半歡慶, adj, [], "有些歡慶").
+条目(适硬, 形容词, [], "适度硬").
+条目(中高, 形容词, [], "中等高度").
+entry(半流浪者, n, [半流浪者们], "或 SEMIHOBOESa 具有一些流浪者特征的人").
+entry(赛美蓉, n, [赛美蓉葡萄], "一种在法国种植的白葡萄").
+entry(半对数, 形容词, [], "一个比例为对数，另一个为算术的").
+entry(semimat, adj, [], "具有微光").
+entry(半哑光, 形容词, [], "半哑光").
+entry(中等温和, 形容词, [], "适度温和").
+`entry(半哑, 形容词, [], "部分丧失说话能力").`
+entry(半流体, a, [], "精液的复数").
+条目(精液, 形容词, [], "与精液相关").
+entry(研讨会, n, [研讨会], "在学院或大学的高级研究小组").
+entry(神学院, 名词, [神学院], "用于培训牧师、部长或拉比的学校")。
+entry(精原细胞瘤, n, [精原细胞瘤], "或SEMINOMATA一种恶性的睾丸肿瘤")
+条目(半裸, 形容词, [], "部分裸露").
+entry(半开, 形容词, [], "部分打开").
+entry(符号学, n, [符号过程], "一个过程，其中某物对生物体起作用作为标志")
+entry(符号学, n, [符号学], "符号和象征的一般理论").
+输入(半椭圆, 形容词, [], "稍微椭圆").
+条目(半职业, 名词, [半职业者], "以兼职形式从事某个领域或运动的人").
+条目(半生, 形容词, [], "稍微生").
+entry(半錢幣, n, [半錢幣], "古羅馬的硬幣").
+entry(半软, 形容词, [], "适度柔软").
+entry(犹太主义者, n, [犹太主义者们], "支持犹太利益的人").
+入口(半音, n, [半音], "一种音乐音调")。
+词条(半野生, 形容词, [], "有点野").
+entry(粗粒小麦, n, [粗粒小麦们], "一种用于制作意大利面的粗粒小麦产品")。
+entry(semple, 形容词, [], "卑微出身").
+entry(簡單, 形容詞, [], "作為音樂指示使用的簡單").
+entry(sempre, 副词, [], "始终如一地用于音乐指示").
+entry(仙, n, [仙], "日本的货币单位").
+entry(赛纳留斯, 阳性, [赛纳利伊], "一个由六个音步组成的希腊或拉丁诗行").
+entry(六的, 形容词, [], "与数字六有关").
+entry(参议院, n, [参议院们], "一个具有高度审议和立法功能的议会").
+entry(参议员, n, [参议员们], "参议院的成员").
+entry(发送, 动词, [已发送, 正在发送, 发送], "攀登").
+entry(send, v, [寄, 发送中, 发送], "导致去SENDABLE adj").
+entry(sendal, n, [丝绸], "一种丝织物").
+entry(sender, n, [发件人], "发送者").
+entry(欢送会, n, [欢送会], "告别庆典").
+entry(恶搞, n, [恶搞们], "一个模仿").
+entry(sene, n, [senes], "萨摩亚的货币单位").
+entry(塞涅卡, n, [塞涅卡们], "塞涅加").
+entry(千里光, n, [千里光属], "一种开花植物").
+entry(塞内加, n, [塞内加根], "一种药用植物的根").
+entry(衰老, v, [衰老了,衰老中,衰老], "变老").
+entry(sengi, n, [sengi], "扎伊尔的前货币单位").
+entry(先生, n, [先生们], "或SENHORESa葡萄牙或巴西绅士")
+entry(女人, n, [女人们], "已婚的葡萄牙或巴西女性").
+entry(老年人, n, [老年人们], "表现出老年痴呆的人").
+entry(以老年痴呆的方式, 副词, [], "以老年痴呆的方式").
+entry(老年痴呆症, 名词, [老年痴呆症们], "由于年老导致的身心衰弱").
+entry(高级, n, [seniors], "一个比另一个年长的人").
+entry(仙地, n, [仙地], "汤加的货币单位").
+entry(夹竹桃, n, [夹竹桃属], "一种药用植物").
+条目(唢呐, 名词, [唢呐声], "用小号发出的信号声指示演员的出场或退场")。
+entry(周, n, [周数], "一个星期").
+entry(草绳, n, [草绳], "用于制作帽子的编织稻草").
+entry(senopia, n, [senopias], "近视力的改善").
+entry(先生, n, [先生们], "或 SENORESa 西班牙绅士").
+entry(西班牙夫人, n, [西班牙夫人们], "已婚西班牙女性").
+entry(小姐, n, [小姐们], "一个未婚的西班牙女孩或女人").
+entry(川柳, n, [川柳], "日本诗").
+`entry(sensa, pl, [], "of sensum").`
+入口(感知, 动词, [感知过, 感知中, 感知], "感觉到").
+entry(感官, 动词, [感知, 感知中, 感觉], "通过感官感知任何通过个体接收外部世界印象的媒介").
+entry(senseful, 形容词, [], "敏感的").
+条目(师傅, 名词, [师傅], "日本武术的老师")。
+entry(明智的, 形容词, [], "更明智 最明智有良好判断力明智地 副词").
+entry(可感知的, n, [可感知的事物], "可以被感知的东西").
+entry(感觉小体, n, [感觉小体], "一个简单的感觉器官").
+entry(感知, 当前, [], "sense的分词形式").
+entry(sensor, n, [传感器], "接收并响应刺激的设备").
+entry(感觉中枢, 复数, [], "大脑中负责接收和解释感官刺激的部分")
+entry(感官, 形容词, [], "关于感觉或感知")
+entry(感官, 形容词, [], "与身体感觉有关").
+```prolog
+entry(sensum, n, [感觉], "感知或感觉的对象").
+```
+entry(感官的, 形容词, [], "与感官有关或源自感官").
+entry(货币单位, n, [爱沙尼亚货币单位], "爱沙尼亚的一种货币单位").
+入口(斯恩特, 名词, [里森特], "或 里塞恩特马斯卢集货单位").
+entry(sentence, v, [判决,宣判,判刑], "宣告司法判处的惩罚程度")
+entry(先提, n, [先提], "坦桑尼亚的前货币单位") .
+entry(有知觉的, 名词, [有知觉的们], "一种能够感知的人或物").
+entry(分, n, [分], "菲律宾的货币单位").
+entry(sentinel, v, [哨兵,站岗,守卫], "或 哨兵 站岗 守卫to stand guard").
+entry(哨兵, 名词, [哨兵们], "站岗的人").
+entry(sepal, n, [萼片], "萼片中的一个独立叶SEPALED SEPALINE SEPALLED SEPALOID SEPALOUS adj").
+entry(分开, v, [分开了,正在分开,分开], "分开或保持分开").
+entry(乌贼, n, [乌贼], "棕色颜料SEPIC 形容词").
+entry(sepoy, n, [士兵], "在英国军队服役的印度土著").
+entry(切腹, n, [切腹], "一种日本自杀形式").
+条目(seps, 名词, [sepses], "一种非洲蜥蜴")。
+条目(败血症, n, [败血症], "细菌入侵身体")。
+entry(九月, n, [家族], "一个家族").
+入口(septa, pl, [], "of septum.").
+条目(化粪池污泥, n, [化粪池污泥], "化粪池中的废物")。
+entry(鼻中隔, 形容词, [], "与隔膜有关").
+entry(石灰核, 复数, [], "石灰结核").
+entry(septate, 形容词, [], "有隔膜").
+entry(septet, n, [七重奏], "一组七个").
+条目(七重奏, n, [七重奏们], "七重奏").
+entry(败血症, n, [败血症的], "一种产生败血症的生物SEPTICAL 形容词").
+entry(七进制, 形容词, [], "基于数字七").
+词条(七进攻, 名词, [七进攻], "击剑中的一个位置").
+项(septoria, n, [septorias], "一种真菌")。
+条目(septum, 名词, [septums], "或 SEPTY隔膜或分隔壁")。
+入口(七倍, 动词, [七倍了, 七倍中, 七倍], "使变成七倍大")。
+entry(续集, n, [续集们], "跟随并作为延续的事物")
+条目(后遗症, n, [后遗症], "由先前疾病引起的异常状况")。
+entry(序列, v, [排序中, 排序, 序列], "按顺序排列").
+entry(序列, n, [序列], "一个接一个的过程").
+entry(序列, n, [序列], "随之而来的事物").
+entry(亮片, v, [亮片化, 亮片化中, 亮片们], "将亮片（闪亮的装饰圆盘）附上").
+entry(sequitur, n, [推论结果], "推理的结论")
+entry(红杉, n, [红杉树], "一种大型常绿树").
+条目(ser, n, [sers], "印度的重量单位")。
+entry(血清, a, [], "血清的复数形式").
+入口(serac, n, [seracs], "一大块从冰川上断裂下来的冰块").
+entry(后宫, n, [后宫们], "一个后宫").
+entry(serai, n, [serais], "土耳其的宫殿").
+entry(serail, n, [serails], "后宫").
+entry(seral, 形容词, [], "关于一系列生态变化").
+entry(披肩, n, [披肩], "一种彩色羊毛披肩").
+入口(炽天使, 名词, [炽天使们], "或称为炽天使或炽天使长-一种有翼的天体存在-炽天使般的 形容词")。
+entry(天使, n, [天使们], "炽天使").
+entry(serdab, n, [贮藏室], "古埃及墓中的一个房间").
+entry(谢尔, 形容词, [], "最枯萎 干燥").
+entry(sere, v, [sered,sering,seres], "烤").
+entry(sere, n, [], "自然系列-植物或动物群落逐渐演替的自然系列").
+entry(serein, n, [细雨], "从看似晴朗的天空中飘落的小雨")。
+entry(小夜曲, v, [演唱了,演唱中,演唱], "为某人表演晚间尊敬的歌曲").
+entry(小夜曲, n, [小夜曲们], "或小夜曲一部戏剧性的清唱剧")
+条目(serene, 形容词, [], "更宁静 最宁静 平静 宁静 地adv")。
+entry(安宁, n, [安宁], "平静的状态或范围").
+entry(宁静, n, [宁静], "平静的状态").
+entry(serer, 比较级, [], "of sere").
+entry(serest, 最高级, [], "of sere").
+entry(农奴, 名词, [农奴们], "一个封建奴隶").
+条目(农奴制, n, [农奴制], "农奴制度").
+entry(农奴制度, n, [农奴制度], "作为农奴的状态").
+entry(农奴制, n, [农奴制度], "农奴身份").
+entry(serfish, adj, [], "农奴的特征").
+entry(类似鲨鱼的, 形容词, [], "鱼类的").
+entry(serge, v, [serged,serging,serges], "用锁边针缝制接缝的切边")。
+entry(中士, 名词, [中士们], "非委任制军官").
+条目(绷缝机, 名词, [绷缝机], "用于绷缝的机器").
+entry(卷边, 名词, [卷边], "一种对织物毛边进行处理的工艺").
+entry(序列, n, [连载], "以连续分期呈现的文学或戏剧作品").
+entry(serially, 副词, [], "以连续的方式或形式").
+```prolog
+条目(连续, 动词, [被连续, 使连续, 连续], "放入一个系列中").
+```
+entry(逐条, 副词, [], "逐次地").
+entry(丝蛋白, n, [丝蛋白], "一种蛋白质").
+entry(seriema, n, [seriemas], "一种巴西鸟").
+条目(系列, n, [系列], "一个接一个的排列").
+entry(衬线, n, [衬线], "用来完成字母主笔画的细线 衬线化 衬线化 adj").
+entry(丝翎雀, n, [丝翎雀], "一种欧洲雀科鸟").
+entry(丝氨酸, n, [丝氨酸], "一种氨基酸").
+entry(sering, 现在时, [], "sere 的分词").
+entry(赛林伽, n, [赛林伽树], "一种巴西树").
+entry(严肃, 形容词, [], "外表或举止认真或沉稳").
+entry(中士, n, [中士们], "军士").
+entry(布道, n, [布道], "一个宗教演讲布道的 adj").
+entry(血清学, n, [血清学], "血清的科学").
+entry(浆膜, n, [浆膜], "或 SEROSAE一种衬在某些体腔内的薄膜浆膜的 形容词").
+entry(浆液性, n, [浆液性], "浆液状态或性质").
+entry(蝙蝠, 名词, [蝙蝠们], "一种欧洲蝙蝠").
+entry(迟成性, n, [迟成性们], "具有延迟或逐渐种子传播的条件")
+entry(血清型, v, [血清型化, 血清型分析, 血清型], "根据一组特征抗原对微生物进行分类").
+entry(浆液, 形容词, [], "类似于或像血清").
+entry(血清型, n, [血清型群], "具有特征性抗原的微生物群").
+entry(黇羚, 名词, [黇羚们], "一种亚洲羚羊").
+entry(蛇, n, [蛇], "一种蛇")
+entry(蛇皮, n, [蛇皮病], "或稱 SERPIGOES 或 SERPIGINES，一種擴散性的皮膚爆發").
+条目(石斑鱼, 名词, [石斑鱼们], "一种海鱼")。
+入口(serrano, n, [serranos], "一种小辣椒").
+入口(serrate, v, [serrated,serrating,serrates], "为...提供齿状突起").
+条目(serry, v, [serried,serrying,serries], "聚集在一起").
+entry(血清, n, [血清], "或血清水状部分的整血血清al 形容词").
+entry(可提供服务的, 形容词, [], "能够提供或被提供服务").
+entry(薮猫, n, [薮猫], "一种非洲野猫").
+entry(仆人, 名词, [仆人们], "服务他人的人").
+entry(服务, 动词, [服务过,服务中,服务], "为...工作").
+entry(服务器, n, [服务器], "为他人服务的人").
+entry(餐厅, n, [餐厅们], "供应餐点的柜台或房间")。
+条目(服务, v, [已维修, 维修中, 服务], "修理").
+entry(服务者, n, [服务者们], "提供服务的人").
+entry(奴颜婢膝, 形容词, [], "奴性十足地顺从").
+entry(食物份量, n, [份量], "一份食物").
+entry(仆人, n, [仆人们], "男仆").
+entry(伺服器, n, [伺服器], "用于控制另一机械的自动设备").
+entry(芝麻, n, [芝麻们], "一种东印度植物").
+入口(籽骨, n, [籽骨], "一种结节状的骨或软骨块")。
+entry(sesh, n, [会议], "一个会议")。
+entry(sessile, adj, [], "永久固定").
+条目(会议, n, [会议], "立法或司法机构为处理事务而召开的会议")。
+entry(sesspool, n, [污水池], "污水坑").
+entry(谢斯特斯, 名词, [谢斯特斯], "古罗马的一种硬币").
+entry(六行诗节, n, [六行诗节], "六行诗的一节").
+入口(六行诗, 名词, [六行诗], "一种诗歌形式").
+入口(诗体, n, [诗体们], "六行诗")。
+`项(放置, v, [放置,设置,集合], "放在特定位置").`
+entry(seta, n, [setae], "粗硬的刚毛SETAL 形容词").
+```prolog
+entry(挫折, n, [挫折们], "一次失败").
+```
+条目(不同版式邮票, n, [不同版式邮票], "与同一张邮票上的其他邮票设计不同的邮票")。
+条目(鬃形, 形容词, [], "具小刚毛的形状")
+entry(setline, n, [渔具], "一种结实的钓鱼线").
+entry(补偿物, n, [补偿物], "抵消其他事物的东西").
+entry(赛通, n, [赛通], "一种手术缝合线").
+条目(刚毛, 形容词, [], "被毛覆盖").
+entry(setous, 形容词, [], "有毛的").
+`entry(setout, n, [展示], "a display").`
+entry(调节螺钉, n, [调节螺钉], "一种螺钉").
+entry(sett, n, [獾穴], "獾的洞穴").
+entry(长沙发, n, [长沙发], "带高背的长座位").
+entry(设定者, 名词, [设定者们], "一个设定东西的人").
+条目(设置, n, [设置], "戏剧演出中使用的布景")。
+entry(安置, 动词, [安置了,安置中,安置], "放置于所需状态或秩序中")
+entry(定居者, n, [定居者], "一个定居的人").
+```prolog
+entry(沉积, n, [沉积物], "沉积").
+```
+entry(设立者, n, [设立者们], "进行法律和解的人").
+entry(setulose, adj, [], "具刺毛的").
+entry(鬃毛稠密的, 形容词, [], "有鬃毛的").
+entry(setup, n, [设置], "某物的排列方式")。
+entry(黑麦米条, 名词, [米条们], "一种油炸面粉条的印度食品").
+入口(七, n, [七个], "一个数字").
+入口(第七, n, [第七们], "七个相等部分之一")。
+entry(七十, n, [七十年代], "一个数字").
+入口（分开，动词，[分开，分离，割断]，"分割或切成部分"）。
+条目(几个, n, [几个], "一些人或事")。
+entry(严重, 形容词, [], "较严重 最严重对待他人苛刻严厉地 adv")
+entry(严重性, n, [严重性列表], "严重或严峻的状态或性质").
+条目(拱室, 名词, [拱室], "穹顶中的隔间")。
+entry(酸橘汁腌鱼, n, [酸橘汁腌鱼], "一道生鱼菜肴").
+entry(塞弗鲁加, n, [塞弗鲁加们], "来自里海的鱼子酱").
+`entry(sew, v, [sewed,sewn,sewing], "缝制：用针线修补或连接 可缝制的 adj").`
+入口(污水, 名词, [污物], "下水道排放的废物")。
+entry(色万, 名词, [色万们], "色湾")。
+entry(污水管, n, [污水管道], "中世纪的仆人").
+条目(下水道, 动词, [下水道过, 下水道中, 下水道], "清洁或维护地下废物导管的下水道").
+entry(污水处理, n, [污水处理系统], "污水").
+入口(缝纫, n, [缝制物], "已经缝好或要缝制的材料")。
+条目(缝制, a, [], "sew 的过去分词")。
+entry(性别, v, [已确定性别, 确定性别中, 确定性别], "通过生物体根据其生殖功能进行分类的属性来确定性别").
+entry(确定性别者, n, [确定性别者们], "一个确定性别的人").
+entry(sexier, 比较级, [], "性感的").
+entry(最性感的, 最高级, [], "性感的").
+entry(性感地, 副词, [], "以性感的方式").
+entry(性感, n, [性感们], "性感的品质或状态").
+entry(性别歧视, n, [性别歧视], "对女性的偏见或歧视").
+entry(sexist, n, [性别歧视者], "实践性别歧视的人").
+entry(无性, 形容词, [], "缺乏性特征").
+条目(性学, 名词, [性学研究], "对人类性行为的研究").
+entry(性爱专家, n, [性爱专家们], "在性方面的专家").
+entry(辣妹, n, [辣妹们], "一个性感有吸引力的女人").
+入口(巳时, 阴性, [巳时们], "七个经典日祈祷和奉献时间段之一")。
+entry(六行诗节, n, [六行诗节们], "一个包含六行的诗节").
+条目(六分仪, 名词, [六分仪座], "一种反复发作的疟疾发热症").
+entry(六分仪, n, [六分仪s], "用于测量角距离的工具").
+entry(塞克斯塔里, 复数名词, [], "古罗马液体计量单位").
+条目(六重奏, n, [六重奏], "一组六个").
+entry(六重奏, n, [六重奏], "六重奏").
+entry(六分相, n, [六分相], "当两个天体相距六十度时的位置")。
+```prolog
+entry(性爱短信, n, [性爱短信], "通过手机发送色情露骨的短信或图片").
+```
+entry(第六, n, [第六], "第六").
+entry(教堂管理员, n, [教堂管理员们], "教堂的维修工作人员").
+entry(六倍, v, [六倍化, 六倍化中, 六倍], "使变为六倍大").
+entry(六倍, 副词, [], "多达六倍").
+entry(性, 形容词, [], "属于性SEXUALLY副词").
+entry(性感, 形容词, [], "性感的 更性感的 引起性欲的").
+entry(sferics, npl, [], "雷暴电子探测器").
+entry(sforzato, n, [sforzatos], "用突然的力度演奏音符或和弦").
+条目(sfumato, n, [sfumatos], "一种用于绘画的技巧")。
+条目(sh, 感叹词, [], "用于催促安静")。
+词条(sha, 叹词, [], "用于表示让人保持安静")。
+entry(破旧的, 形容词, [], "更破旧的 最破旧的破烂地破旧地 adv").
+条目(棚屋, 动词, [棚值, 棚动, 棚], "居住或栖息").
+entry(束缚, 动词, [束缚了, 束缚中, 束缚], "用放在手腕或脚踝上的金属扣具限制").
+入口(枷锁者, 名词, [枷锁者们], "一个使人受束缚的人").
+词条(沙克, 名词, [沙克帽], "或沙克帽shako")。
+entry(沙基, 形容词, [], "更破旧 最破旧破旧").
+entry(夏鲱, n, [夏鲱们], "一种食用鱼").
+entry(山楂灌木, 名词, [山楂灌木们], "一种山楂灌木").
+entry(莎布斯树, n, [莎布斯树], "一种开花的树或灌木").
+entry(媒人, n, [媒人们], "或 媒人们 一个犹太婚姻经纪人")。
+条目(柚子, 名词, [柚子], "一种柑橘类水果")。
+entry(闭嘴, 感叹词, [], "用于让某人闭嘴").
+入口(荫, 动词, [遮蔽,荫蔽,遮蔽着], "遮挡光或热的作用")。
+```prolog
+条目(着色器, n, [着色器], "用于着色的东西").
+```
+entry(蜉蝣, n, [蜉蝣], "有翅的昆虫").
+条目(阴暗的, 比较级, [], "阴凉的")。
+entry(最阴暗的, 最高级, [], "的阴暗").
+entry(阴暗地, 副词, [], "以阴暗的方式").
+条目(遮阳, n, [遮阳物], "防止光线或热量的保护").
+条目(shadkhan, n, [shadkhans], "or SHADKHANIMshadchan").
+entry(提水吊杆, n, [提水吊杆], "一种在埃及用于灌溉提水的装置").
+入口(阴影, v, [阴影遮蔽, 正在遮蔽, 遮蔽], "使阴暗或阴沉").
+entry(尾随者, n, [尾随者们], "尾随他人的人").
+entry(shadowy, adj, [], "更阴暗 最阴暗的黑暗").
+```prolog
+条目(沙得拉, 名词, [沙得拉的], "高炉炉底未融合的料块").
+```
+入口（shaduf，n，[shadufs]，“shadoof”）。
+`entry(shady, adj, [], "更阴暗 最阴暗被遮蔽").`
+入口(轴, v, [轴承, 正在轴动, 轴], "用杆推或推动")。
+entry(主轴, n, [主轴们], "传递运动或动力的杆系统").
+条目(鹞, 动词, [鹞了, 鹞着, 鹞], "使蓬松").
+entry(美洲胡桃木, n, [美洲胡桃木], "一种硬木树").
+入口(毛茸茸的, 形容词, [], "愈加毛茸茸 最毛茸茸 覆盖着长而粗的毛 发毛似地 副词").
+entry(鲨鱼皮, n, [鲨鱼皮], "某些鲨鱼的粗糙皮肤").
+entry(沙阿, n, [沙阿], "伊朗统治者").
+entry(沙哈达, n, [沙哈达], "穆斯林的信仰宣言").
+条目(见证, 名词, [见证们], "见证").
+条目(王国, n, [王国们], "由沙阿统治的领土")。
+entry(烈士, n, [烈士们], "shahid").
+entry(沙希德, n, [沙希德们], "一个穆斯林烈士").
+条目(shaikh, n, [shaikhs], "酋长").
+```prolog
+entry(shaird, n, [shairds], "碎片").
+```
+入口(夏恩, 名词, [夏恩们], "沙恩").
+entry(谢坦, n, [谢坦们], "一个邪恶的灵魂")。
+条目(摇动, 动词, [摇, 摇晃, 摇动], "摇是指来回快速运动的动作可摇动 形容词")。
+条目(shakeout, n, [shakeouts], "一次轻微的经济衰退").
+`条目(摇动器, n, [摇动器们], "一个摇动的东西").`
+entry(震动, n, [震动们], "一次彻底的重组").
+entry(更摇晃的, 比较级, [], "摇晃的").
+entry(最晃动的, 最高级, [], "of shaky").
+条目(摇晃, 副词, [], "以摇晃的方式").
+条目(摇动, 现在时, [], "shake 的分词").
+entry(军帽, n, [军帽], "或称为SHAKOES一种军用帽子").
+entry(摇晃, 形容词, [], "SHAKIER SHAKIESTshaking").
+条目(页岩, 名词, [页岩], "一种易分裂的岩石").
+条目(壳状的, 形容词, [], "有壳或外壳").
+entry(沙利, 形容词, [], "沙利尔 沙利斯特shaly").
+```prolog
+entry(shalier, 比较级, [], "泥质的").
+```
+entry(页岩质的, 最高级, [], "页岩的").
+entry(应, v, [], "现在单数 第二人称 SHALL 或 SHALT 过去单数 第二人称 SHOULD 或 SHOULDST 或 SHOULDEST 用作助动词表达将来性 不可避免性 或 命令")。
+```prolog
+entry(羊毛细布, n, [羊毛细布], "羊毛织物").
+```
+entry(小艇, n, [小艇], "一种小型敞篷船").
+entry(青葱, n, [青葱], "一种类似洋葱的植物").
+`入口(浅, 形容词, [], "SHALLOWER SHALLOWEST深度小").`
+entry(浅, v, [变浅, 使变浅, 浅水区], "使变浅").
+entry(shalom, n, [shaloms], "作为犹太人的问候或告别用词").
+entry(应, a, [], "shall 的第二人称单数现在时").
+entry(shalwar, n, [shalwars], "印度一些女性穿的宽松裤子").
+entry(页岩样, 形容词, [], "更页岩状的 最页岩状的像页岩").
+entry(沙姆, v, [假装过,假装着,假装], "假装").
+entry(丢脸的, 形容词, [], "能被羞辱").
+entry(沙马尔, n, [沙马尔风], "一种炎热干燥的风").
+入口(萨满, n, [萨满们], "某些美洲原住民中的一位医者萨满教 形容词").
+条目(沙玛斯, 名词, [沙摩辛], "沙玛斯").
+entry(桑巴，名词，[桑巴斯]，"东非的一个农场")。
+entry(蹒跚, v, [蹒跚了, 蹒跚着, 蹒跚], "步态笨拙地行走")。
+条目(羞愧, v, [羞愧过, 正在羞愧, 感到羞愧], "使感到痛苦的内疚感或堕落感").
+entry(可耻的, 形容词, [], "可恶的").
+entry(shames, n, [shamosim], "沙姆斯").
+entry(沙米亚娜, n, [沙米亚娜], "一种印度的大帐篷").
+entry(三味线, n, [三味线们], "三味线").
+entry(shammas, n, [沙玛西姆], "沙姆斯").
+entry(沙马什, n, [沙马什姆], "沙马什").
+entry(欺骗, 过去式, [], "sham的时态").
+entry(骗子, n, [骗子们], "假装的人").
+entry(沙姆斯, n, [沙莫西姆], "犹太教堂的小官员").
+入口(擦干了, 过去式, [], "shammy的时态").
+条目(麂皮布, 当前, [], "麂皮布的第三人称单数")。
+entry(假装, 现在, [], "假装的分词").
+```prolog
+条目(沙摩斯, 名词, [沙摩瑟姆], "沙美斯").
+```
+entry(shammosim, pl, [], "殉道者的").
+条目(羚羊皮, 动词, [已用羚羊皮擦拭, 正在用羚羊皮擦拭, 用羚羊皮擦拭], "擦拭光滑").
+entry(羚羊皮, n, [羚羊皮], "chamois").
+条目(shamos, n, [shamosim], "shammes").
+entry(羞耻之地, 中文, [], "羞耻之地").
+entry(shamoy, v, [山羊皮, 山羊皮上的, 山羊皮], "制成绒面革").
+入口(洗发水, 动词, [洗发水过, 洗发水中, 洗发水], "用特殊制剂清洁")。
+`入口(三叶草, 名词, [三叶草们], "一种三叶植物").`
+entry(夏摩斯, 名词, [夏摩斯们], "私人侦探").
+entry(雪顶啤酒, n, [雪顶啤酒], "一种酒精饮料").
+entry(上海, v, [拐走,绑架,拐骗], "诱拐某人去船上当水手").
+```prolog
+入口(击球, v, [击偏,正在击偏,击偏们], "向右急剧击球，如同高尔夫球").
+```
+entry(shanny, n, [shanny鱼类], "一种海洋鱼类").
+`条目(shantey, n, [shanteys], "chantey").`
+入口(香蒂, 名词, [香蒂们], "和平")。
+entry(棚屋, 复数, [], "棚屋的").
+`entry(善地, n, [善地们], "善地").`
+entry(山东, n, [绸缎], "一种丝绸织物").
+entry(棚屋, n, [棚屋], "一个简陋建造的小住所").
+入口(形状, v, [形状的, 形状的, 成形], "形状给与形状外形的可形状的 形容词").
+entry(shapely, 形容词, [], "SHAPELIER SHAPELIEST具有令人愉悦的形状").
+entry(shaper, n, [成形者], "一个塑造事物的人或物").
+entry(shapeup, n, [shapeups], "招工系统")。
+entry(塑造, 现在, [], "shape 的分词").
+entry(碎片, n, [碎片们], "破碎陶器的一部分").
+entry(分享, v, [分享的,分享中,分享], "与他人或其他人一起拥有、获得或使用共享资源的能力 可分享的 adj").
+entry(分享者, n, [分享者], "分享者").
+entry(伊斯兰教法, n, [伊斯兰法律], "基于《古兰经》的伊斯兰法律")。
+entry(沙里亚, n, [沙里亚们], "sharia").
+entry(沙里亚法, n, [沙里亚法们], "沙里亚").
+entry(沙里夫, n, [沙里夫斯], "警长").
+entry(分享, 出席, [], "分享的分词").
+入口(鯊魚, v, [鯊魚過去式,鯊魚進行式,鯊魚們], "靠詐欺生活")。
+entry(鲨客, n, [鲨客们], "一种追逐鲨鱼的人").
+entry(鲨鱼般的, 形容词, [], "像鲨鱼一样行事的一种掠食性鱼类").
+entry(sharn, n, [sharns], "牛粪SHARNY 形容词").
+entry(锐利, 形容词, [], "更锐利 最锐利适于或能够切割或穿透").
+```prolog
+entry(升高, v, [升高了,升高中,升高], "作为一个音乐音调升高音调").
+```
+entry(削尖, 动词, [削尖了, 正在削尖, 削尖], "使锋利").
+entry(行骗者, n, [行骗者们], "骗子").
+条目(锐利的人, 名词, [锐利的人们], "一个非常警觉的人").
+词条(sharpish, 形容词, [], "有点尖锐").
+entry(急剧地, 副词, [], "以尖锐的方式").
+entry(sharpy, n, [马克笔], "马克笔").
+入口(烤肉串, n, [烤肉串], "串烧")。
+entry(沙力, n, [沙力们], "沙士力克").
+条目(沙斯塔, 名词, [沙斯塔], "一种开花植物").
+entry(纱图室, n, [纱图室们], "一种用麝牛羊毛制成的布料").
+entry(粉碎, v, [粉碎了, 正在粉碎, 粉碎], "打碎成碎片").
+入口(shaugh, n, [shaughs], "灌木丛").
+项(shaul, 动词, [shauled, shauling, shauls], "to shoal").
+入口(剃, 动词, [剃光, 剃净, 剃须], "剃掉头发至根部可剃 adj")。
+条目(剃须刀, 名词, [剃须刀], "刮胡子的人").
+entry(傻物, 名词, [傻物们], "一个把戏或恶作剧")。
+entry(刮削, n, [刮削物], "刮下来的东西").
+entry(shaw, v, [shawed, shawn, shawing], "展示").
+entry(沙威玛, n, [沙威玛们], "一种用皮塔饼包着的羊肉或鸡肉蔬菜和通常的芝麻酱的三明治")。
+```prolog
+entry(披肩, v, [披肩裹, 披肩中, 披肩复数], "用披肩包裹作为覆盖的布料"). 
+```
+entry(哨管, n, [哨管], "一种早期的木管乐器").
+条目(谢伊, n, [谢伊斯], "一种躺椅")。
+entry(长老, n, [长老们], "酋长").
+入口(沙赞, 感叹词, [], "用于表示魔法事件").
+entry(她, n, [她的], "女性的一个人").
+entry(乳木果, 名词, [乳木果们], "一种非洲树").
+entry(禾捆, v, [捆上了,捆着,捆], "捆上").
+entry(sheal, n, [sheals], "放牧地").
+entry(shealing, n, [shealings], "牧羊人的小屋").
+entry(剪, v, [shore,shorn,剪], "SHEARSto cut the hair or wool from").
+entry(剪羊毛者, n, [剪羊毛者们], "剪羊毛的人").
+条目(剪羊毛, n, [剪羊毛类], "剪头发或羊毛的实例").
+entry(鞘, v, [覆以鞘, 覆以鞘中, 鞘], "套入鞘中").
+entry(插入, v, [插入了,插入中,插入], "放入保护套中")。
+入口(护套者, 名词, [护套者们], "一个封装者")。
+条目(滑轮, v, [滑动, 滑动中, 滑轮], "聚集成一捆")。
+entry(shebang, n, [shebangs], "情况组织或事情")。
+entry(非正式酒吧, n, [非正式酒吧], "她个酒吧").
+entry(非正規酒吧, n, [非正規酒吧], "非法销售酒精的场所").
+条目(棚, 动词, [棚住, 棚置中, 棚置], "在棚子里安置一个小型低矮的结构")。
+条目(可脱落的, 形容词, [], "能够被抛弃的").
+条目( shedder, 名词, [ shedder 的复数], "脱落某物的人或物").
+条目(棚状, 形容词, [], "类似于一个棚子").
+条目(光泽, 动词, [闪亮, 闪烁, 发光], "发光")。
+entry(光辉, 形容词, [], "闪亮").
+entry(sheeny, 形容词, [], "SHEENIER SHEENIEST闪亮").
+条目(羊, 名词, [羊], "一种反刍哺乳动物")。
+entry(羊圈, n, [羊圈], "用来圈养羊的围栏").
+entry(牧羊犬, n, [牧羊犬], "一种训练有素的狗，用于守护和牧羊").
+条目(害羞, 形容词, [], "尴尬").
+entry(牧羊人, n, [牧羊人们], "养羊的人").
+entry(薄, 形容词, [], "非常薄的质地的SHEERER SHEEREST SHEERLY adv")
+entry(偏航, v, [偏转,偏偏,偏航], "改变方向").
+入口(唉, 感叹词, [], "用于表达轻微的烦恼").
+条目(表, v, [表, 盖上, 覆盖], "用一张薄矩形材料覆盖的动作")。
+`entry(纸张机, n, [纸张机们], "铺纸的机器").`
+entry(sheetfed, 形容词, [], "与一种印刷机相关").
+entry(sheeting, n, [片材], "以片状形式存在的材料")。
+entry(滑轮, n, [滑轮], "带槽的滑轮").
+entry(嗩吶, n, [嗩吶], "一种印度的双簧风乐器").
+entry(酋长, n, [酋长们], "阿拉伯首领").
+entry(酋长国, n, [酋长国], "由酋长统治的地区").
+条目(酋长, 名词, [酋长们], "酋长").
+入口(雪莱, 名词, [雪莱们], "一个年轻的女人")。
+entry(谢坦, 名词, [谢坦们], "shaitan").
+条目(假发, 名词, [假发们], "已婚犹太女性佩戴的假发").
+条目(谢克尔, 名词, [谢克尔], "或 SHEKELIM 或 SHEKALIMan 古代的重量和货币单位")
+entry(罗纹鸭, n, [罗纹鸭], "一种欧洲鸭子"）。
+条目(架子, n, [书架], "用于支撑物品的平坦且坚固的结构")。
+entry(装满架子, n, [装满架子], "架子能容纳的数量").
+entry(贝壳, v, [剥壳,去壳,贝壳们], "除去一个坚硬外壳的覆盖物")
+entry(虫胶漆, v, [虫胶漆了,虫胶漆中,虫胶漆], "用薄漆覆盖")。
+入口(虫胶, 动词, [涂了虫胶, 涂虫胶, 涂虫胶], "涂虫胶").
+入口(剥壳者, n, [剥壳者们], "剥壳的人").
+entry(shelly, 形容词, [], "SHELLIER SHELLIEST丰富于海贝").
+entry("谢尔塔语", 名词, ["谢尔塔语们"], "一种神秘的盖尔语术语")
+入口(避难所, v, [遮蔽,庇护,避难], "提供掩护或保护").
+条目(矮种马, n, [矮种马们], "一种小型蓬松的小马").
+entry(shelty, n, [谢尔蒂], "舍尔蒂").
+entry(搁置, v, [已搁置, 正在搁置, 搁置], "放在架子上").
+入口(上架員, n, [上架員們], "一個放置物品於架子上的人").
+entry(架子, pl, [], "的架子").
+entry(上架, n, [上架], "架子的材料").
+entry(shelvy, adj, [], "逐渐倾斜").
+entry(神, n, [神], "人的精神元素").
+entry(笙, n, [笙们], "笙").
+entry(申德, v, [申特,申定,申斯], "使蒙羞").
+entry(阴间, n, [阴间们], "地狱").
+entry(牧羊人, v, [牧羊人了,牧羊人中,牧羊人们], "仔细看护").
+entry(谢克尔, n, [谢克尔斯], "或 SHEQALIM谢克尔").
+entry(雪葩, n, [雪葩], "雪葩").
+entry(雪葩, n, [雪葩], "一种水果味的冷冻混合物").
+entry(陶片, n, [陶片们], "碎片").
+entry(谢里夫, n, [谢里夫们], "谢里夫").
+entry(谢里夫, n, [谢里夫们], "阿拉伯统治者").
+entry(警长, n, [警长们], "一个县的执法官员").
+条目(夏洛克, 名词, [夏洛克的], "一个侦探")。
+entry(巾帼英雄, n, [巾帼英雄们], "被视为英雄的女性").
+entry(sheroot, n, [雪茄], "cheroot").
+entry(夏尔巴, 名词, [夏尔巴们], "一种用于衬里的柔软面料").
+入口(雪利酒的, 形容词, [], "用雪利酒烹调或调味")。
+入口(雪莉, n, [雪莉酒们], "雪莉酒")。
+entry(雪利酒, n, [雪利酒], "一种葡萄酒").
+entry(长袍, n, [长袍们], "一种由一些印度男性穿着的及膝外套")
+entry(设得兰群岛, n, [设得兰群岛的], "羊毛纱线")。
+entry(壕沟, n, [壕沟s], "渠道").
+entry(sheugh, n, [sheughs], "壕沟").
+entry(shew, v, [shewed,shewn,shewing], "展示").
+entry(shewer, n, [shewers], "显示者").
+entry(shh, 感叹词, [], "嘘").
+条目(安静, 感叹词, [], "嘘").
+条目(指压, 名词, [指压术], "一种使用指压的按摩").
+entry(指压, n, [指压], "指压").
+条目(湿婆, n, [湿婆们], "湿婆").
+entry(醉汉, n, [醉汉们], "一个酒鬼").
+entry(胆怯, 过去式, [], "害羞的时态").
+entry(shiel, n, [shiels], "牧场").
+entry(盾, v, [保护的,保护中,保护], "提供保护性覆盖或庇护").
+entry(shielder, n, [防护者], "一个提供保护的人").
+entry(牧场, n, [牧场], "牧羊棚").
+入口(害羞的馬, 名詞, [害羞的馬們], "一匹有害羞傾向的馬").
+entry(羞涩, 现在时, [], "第三人称单数形式的害羞").
+入口(害羞的, a, [], "shy的最高级").
+entry(转移, v, [转移, 转移中, 转移], "从一个位置移动到另一个位置").
+entry(移位器, n, [移位器們], "一個轉換者").
+entry(转移, n, [转移], "从一个地方移动到另一个地方的行为")。
+入口(狡猾, 形容词, [], "更狡猾 最狡猾 狡猾地 副词").
+entry(志贺菌, n, [志贺菌属], "或 SHIGELLAE一种好氧细菌属的细菌").
+entry(香菇, n, [香菇], "一种深色的东方蘑菇")
+entry(狩猎, v, [狩猎了,狩猎中,狩猎], "猎杀").
+entry(什卡拉, n, [什卡拉], "克什米尔的一种轻便平底船").
+entry(獵人, n, [獵人們], "大型狩獵者").
+入口(猎人, n, [猎人们], "shikaree").
+entry(酒鬼, n, [酒鬼们], "酒徒").
+入口(鸣鹫, 名词, [鸣鹫], "一种小型雀鹰").
+entry(先令, n, [先令], "坦桑尼亚的货币单位").
+入口(托, 动词, [托了, 托中, 托们], "充当诱饵").
+entry(席拉拉, n, [席拉拉们], "一种短而厚的棍棒").
+entry(先令, n, [先令], "英国的前货币单位").
+entry(shilpit, 形容词, [], "病恹恹的").
+entry(shily, 副词, [], "以害羞的方式").
+entry(shim, v, [垫片过, 垫片中, 垫片们], "通过插入薄垫片来填充或找平").
+条目(闪烁, 动词, [闪烁了, 闪烁着, 闪烁], "闪光").
+entry(闪光, 形容词, [], "闪烁的").
+entry(摇摆, 动词, [已摇摆, 正在摇摆, 摇摆], "震动或晃动").
+```prolog
+词条(胫, 动词, [动过, 正在动, 动], "用手和腿交替抓握和拉拽来爬"). 
+```
+入口(胫骨, n, [胫骨], "胫骨").
+entry(宴会, n, [宴会], "盛大的舞会或派对")。
+entry(聚会, 名词, [聚会], "或 聚会").
+entry(闪耀, 动词, [闪耀过,闪耀中,闪耀], "发出光芒")。
+入口(闪光者, 名词, [闪光者们], "发光的人").
+入口(瓦片, 动词, [铺上瓦片, 铺瓦片, 铺瓦], "用瓦片（一种薄而长的建筑材料）覆盖")。
+entry(泥瓦工, n, [泥瓦工们], "铺瓦的人").
+entry(满是碎石的, 形容词, [], "覆盖着小块松散的石头").
+entry(更闪亮, 比较级, [], "的闪亮").
+entry(最闪亮的, 最高级, [], "闪亮的").
+entry(闪亮地, 副词, [], "以闪亮的方式").
+entry(闪耀的, 形容词, [], "发射或反射光").
+entry(稚树叶, n, [稚树叶], "或 稚树叶一种多年生草本植物")。
+入口(过, [shinned], [], "of shin").
+entry(矮丛林, n, [矮丛林], "小树的浓密生长").
+条目(冰上曲棍球, 动词, [进行中, 玩着, 玩过], "玩一种曲棍球的形式")。
+输入(闪耀, 现在时, [], "shine 的分词").
+entry(攀爬, v, [攀爬过,攀爬中,攀爬们], "攀爬").
+entry(shinty, n, [shinties], "类似于曲棍球的苏格兰游戏").
+entry(闪亮, 形容词, [], "更闪亮 最闪亮充满光").
+入口(船只, v, [运送中, 运送, 运输], "通过船运运输适合在深水中航行的船只")。
+entry(搭舌板, n, [搭舌板们], "一种用于木工的重叠接头").
+入口(沒有船, 形容詞, [], "缺少船").
+条目(货载, n, [货载], "船能够承载的量").
+entry(shipman, n, [船员], "一名水手").
+entry(shipmate, n, [shipmates], "一位船员").
+entry(装运, n, [装运], "被运送的东西").
+entry(运送, 过去, [], "ship 的时态").
+entry(shippen, n, [shippens], "牛棚")。
+entry(承运人, n, [承运人们], "一个进行运输的人").
+```
+entry(shipping, n, [shippings], "运输业务").
+```
+```prolog
+entry(牛棚, n, [牛棚], "牛棚").
+```
+入口(船侧, 名词, [船侧], "船旁的区域")。
+entry(shiptime, n, [船运时间], "补给船的年度到来")。
+entry(船道, n, [船道], "足够深以容纳船只的运河")。
+entry(船蛆, n, [船蛆], "虫状软体动物").
+entry(船厂, n, [船厂], "建造或修理船只的地方")。
+entry(设拉子, n, [设拉子葡萄酒], "一种类型的葡萄酒").
+条目(郡, 名词, [郡], "大英帝国的一个领土划分")。
+entry(逃避, v, [逃避过, 逃避中, 逃避], "避免工作或责任").
+entry(逃避者, n, [逃避者们], "一个逃避责任的人")
+```prolog
+entry(縫褶, v, [縫褶過去式,縫褶進行式,縫褶三單形式], "將布料抽縫成三條或更多平行的列").
+```
+条目(皱褶, n, [皱褶], "布料的褶裥安排")。
+entry(衬衫, n, [衬衫们], "一件穿在上半身的衣物SHIRTED 形");
+entry(衬衣布, n, [衬衣布料], "用于制作衬衫的面料").
+入口(恼怒的, 形容词, [], "更恼怒的 最恼怒的angry恼怒地 副词")。
+entry(片岩, n, [片岩], "片麻岩").
+入口(香菇, 名词, [香菇们], "香菇")
+入口(皂荚树, 名词, [皂荚树], "一种硬木树").
+条目(皂荚木, 名词, [皂荚木], "皂荚木的木材")。
+入口(设有尔, 名词, [设有尔们], "一个塔木德学习课程"）。
+entry(希夫, n, [希夫斯], "一把刀").
+条目(湿婆, 名词, [湿婆斯], "哀悼期").
+entry(希瓦, n, [希瓦们], "希瓦").
+entry(雪儒会, v, [雪儒会了,庆祝雪儒会,雪儒会], "模仿结婚庆典的喧闹").
+条目(石叶, 名词, [石叶片], "一个薄的碎片").
+```prolog
+entry(发抖, v, [发抖了,发抖中,发抖], "因恐惧或寒冷而颤抖").
+```
+entry(颤抖者, n, [颤抖者们], "一个颤抖的人").
+entry(寒颤, 形容词, [], "颤抖").
+entry(shiviti, n, [shivitis], "带有希伯来文经文的牌匾").
+entry(shlemiel, n, [shlemiels], "倒霉的笨拙之人").
+入口(拖, v, [拖过,拖着,拖], "拖拉").
+```prolog
+entry(扛, v, [扛着, 扛着, 扛], "扛"). 
+```
+entry(搬运者, n, [搬运者们], "一个搬运东西的人").
+entry(shleppy, 形容词, [], "SHLEPPIER SHLEPPIESTschleppy").
+entry(劣质商品, n, [劣质商品], "劣质品").
+入口(shlocky, 形容词, [], "SHLOCKIER SHLOCKIESTschlocky").
+entry(无赖, n, [无赖们], "普通人").
+entry(shlump, v, [shlumped, shlumping, shlumps], "变得懒散").
+词条(shlumpy, 形容词, [], "邋遢").
+入口(shmaltz, n, [shmaltzes], "schmaltz").
+entry(shmaltzy, 形容词, [], "SHMALTZIER SHMALTZIESTschmalzy").
+entry(破布, n, [破布们], "schmatte").
+条目(shmear, v, [shmeared, shmearing, shmears], "to schmer").
+```
+entry(shmeer, v, [涂抹过,涂抹中,涂抹s], "涂抹").
+```
+entry(shmo, n, [shmoes], "schmo").
+entry(施摩, n, [施摩们], "施摩").
+entry(闲谈, v, [闲谈过,闲谈中,闲谈], "to schmooze").
+entry(闲聊者, n, [闲聊者们], "一个爱闲聊的人").
+entry(shmoozy, adj, [], "更加奉承的 最能奉承的").
+entry(shmuck, n, [shmucks], "傻瓜").
+条目(傻，形容词，[], "更傻 最傻schmucky")。
+entry(白酒, n, [白酒], "schnapps").
+entry(白酒, n, [白酒], "schnapps").
+entry(shnook, n, [傻瓜], "笨蛋").
+`入口(shnorrer, n, [shnorrers], "利用他人慷慨的人").`
+entry(浅滩, 形容词, [], "更浅的 最浅的浅").
+入口(沙洲, 动词, [变浅, 变浅中, 变浅们], "变浅")。
+entry(浅滩, 形容词, [], "更多浅滩 最多浅滩的充满浅水区域").
+入口(猪崽, n, [猪崽们], "一只小猪")。
+entry(屠夫, n, [屠夫们], "根据犹太法律屠宰动物和家禽的人").
+入口(烧酒, 名词, [烧酒们], "一种日本酒").
+这段 Prolog 代码翻译成中文如下：
+
+```prolog
+entry(震惊, v, [震惊的, 令人震惊的, 震惊], "以巨大的惊喜、恐惧或厌恶打击").
+```
+entry(令人震惊的事物, n, [令人震惊的事物们], "令人震惊的").
+entry(穿鞋, a, [], "shoe 的过去式").
+条目(破旧的, a, [], "鞋的过去分词").
+条目(劣质, 形容词, [], "更劣质 最劣质 质量低下 劣质地 副词").
+entry(劣质的, n, [劣质品], "低质量的羊毛").
+entry(鞋, n, [鞋子], "或 SHUON 用于脚的覆盖物")。
+入口(鞋子, v, [shod,穿鞋,穿鞋], "鞋子提供鞋").
+entry(鸛鴕, n, [鸛鴕鳥], "一種涉水鳥").
+entry(鞋盒, 名词, [鞋盒], "一个用于放置一双鞋的长方形盒子")
+entry(鞋拔, v, [鞋拔过,鞋拔着,鞋拔], "强行放入狭窄空间")。
+入口(鞋带, n, [鞋带], "用于系鞋的带子")。
+```prolog
+entry(赤脚的, adj, [], "没有鞋子").
+```
+入口(鞋靴, 名, [鞋靴们], "一种防水靴子")。
+entry(鞋包, n, [鞋包们], "鞋包").
+entry(钉蹄铁者, n, [钉蹄铁者们], "为马钉蹄铁的人").
+entry(鞋撑, n, [鞋撑], "一种插入鞋内的脚形装置，用于保持鞋子的形状")。
+entry(羊角号, n, [羊角号], "或称SHOFROTHa，用于某些犹太仪式的公羊角喇叭").
+入口(将, 动词, [将了, 将着, 将们], "移动").
+入口(将棋, n, [将棋], "一种类似于国际象棋的日本游戏")。
+entry(将军, n, [将军们], "前日本的军事领袖SHOGUNAL 形容词").
+entry(障子, n, [障子], "用于日本房屋中作为隔板或门的纸屏风").
+入口(少女, 名词, [少女], "主要面向女生的漫画")。
+entry(肖洛姆, n, [肖洛姆的], "沙洛姆").
+entry(闪耀, a, [], "shine 的过去式").
+入口(shoo, v, [shooed, shooing, shoos], "驱赶").
+entry(舒飞, n, [舒飞们], "儿童摇椅").
+entry(摇桶材料, n, [摇桶材料], "一组用于组装桶或包装的部件").
+entry(铁铲, 动词, [铲了,铲着,铲], "铲").
+entry(舒恩, a, [], "鞋子的复数").
+entry(咻, v, [咻过,咻着,咻], "发出嗖嗖声地移动").
+entry(射击, v, [射击,正在射击,射击], "用武器发射的导弹射中、伤害或杀死").
+entry(射手, n, [射手们], "射击者").
+entry(射击, n, [射击事件], "射击者的行为")。
+```prolog
+entry(神射手, n, [神射手], "擅长射击的人").
+```
+entry(枪战, n, [枪战], "用手枪或步枪进行的战斗").
+入口（商店，动词，[购物了，购物中，购物]，“检查商品以购买”）。
+entry(shopboy, n, [店员], "销售员").
+条目(shopgirl, n, [shopgirls], "女店员").
+entry(朔法尔, n, [朔法尔们], "或 朔法洛特shofar")。
+entry(shopless, 形容词, [], "没有商店").
+`entry(入店行窃, 动词, [入店行窃了, 入店行窃中, 入店行窃], "从商店偷窃货物")。`
+entry(店主, n, [店主们], "拥有或经营小商店的人").
+条目(商店, n, [商店], "一个小商店")。
+entry(购物, 过去, [], "购物的时态").
+entry(购物者, 名词, [购物者们], "购物的人").
+entry(购物, n, [购物s], "购物的行为").
+entry(shoppy, adj, [], "更适合购物 最适合购物适于购物").
+entry(行业术语, n, [行业术语们], "关于某人业务或职业的对话").
+entry(店中损坏, 形容词, [], "因在店中展示而磨损").
+entry(肖兰, n, [肖兰系统], "一种导航系统").
+入口(shore, v, [shored, shoring, shores], "用支撑木支撑")。
+条目(支撑, 名词, [支撑物], "一种支撑木材的系统")。
+entry(shorl, n, [shorls], "电气石").
+entry(剪, a, [], "shear的过去分词").
+entry(short, 形容词, [], "更短 最短具有短距离").
+entry(短路, v, [短路了,短路中,短路], "造成一种电气故障")
+entry(短缺, n, [短缺], "供应或数量不足").
+entry(捷径, v, [捷径, 捷径方法, 捷径路径], "选择更短或更快的道路").
+条目(缩短, 动词, [缩短了,缩短中,缩短], "使变短或变得更短的动作")。
+```
+entry(shortia, n, [shortias], "多年生草本植物").
+```
+entry(shortie, n, [短小], "短小").
+entry(shorties, pl, [], "短小的人").
+条目(略短, 形容词, [], "有点短").
+entry(不久, 副词, [], "短时间内").
+entry(shorty, n, [矮子], "一个很矮的人").
+entry(射击, 动词, [射击过,射击中,射击], "用小铅弹或钢弹装填")
+入口(shote, n, [shotes], "shoat").
+entry(霰弹枪, v, [霰弹枪过, 霰弹枪中, 霰弹枪], "用一种枪射击").
+入口(弹孔, 名词, [弹孔], "在岩石中钻的用于放置炸药的孔").
+入口(shott, n, [shotts], "chott").
+entry(射中, 过去式, [], "射击 的 时态")。
+entry(shotten, 形容词, [], "产卵后用于鱼").
+entry(shotting, 现在, [], "shot 的分词").
+entry(应该, 过去, [], "shall 的时态")。
+条目(肩膀, 动词, [承担, 扛着, 扛], "承担责任或负担")。
+entry(应当, a, [], "shall 的第二人称单数过去式")。
+entry(应该, a, [], "shall 的第二人称单数过去时").
+喊叫(动词, [喊叫了, 喊叫着, 喊叫], "大声地说出").
+entry(喊叫者, n, [喊叫者们], "一个大喊大叫的人").
+entry(shouty, adj, [], "SHOUTIER SHOUTIEST 易于或以喊叫为特征").
+入口(推, 动词, [推了, 推着, 推], "粗暴地推").
+入口(铲子, 动词, [铲过, 铲着, 铲], "或 铲过 铲着 铲用铲子挖掘的工具")。
+条目(铲工, 名词, [铲工们], "一个铲东西的人").
+entry(shover, n, [shovers], "推挤者")。
+进入(shoving, 现在式, [], "shove的分词").
+条目(展示, v, [展示了, 展示过, 展示中], "展示引起或允许被看到展示可见 形").
+entry(娱乐圈, n, [娱乐圈], "演艺圈").
+entry(炫耀, v, [炫耀了,炫耀中,炫耀], "炫耀").
+entry(展示, v, [展示了,正在展示,展示], "展示").
+```prolog
+entry(摊牌, 名词, [摊牌], "迫使问题得出结论的事件").
+```
+入口(淋浴, 动词, [淋过, 正在淋, 淋浴], "用水喷洒洗澡")。
+entry(淋浴者, n, [淋浴者们], "淋浴的人").
+```prolog
+entry(间歇多雨, 形容词, [], "充满短暂雨期").
+```
+entry(歌舞女郎, n, [歌舞女郎], "一个合唱团女孩").
+entry(看演出者, n, [看演出者们], "观看演出的人").
+```prolog
+entry(showier, 比较级, [], "showy 的"). 
+```
+```prolog
+entry(showiest, 最高级, [], "of showy").
+```
+entry(炫耀地, 副词, [], "以炫耀的方式").
+条目(展示, n, [展览], "一次展览或展示").
+入口(艺人, n, [艺人们], "戏剧制作人").
+entry(显示, 过去, [], "show 的分词").
+```prolog
+entry(炫耀, n, [炫耀者], "一个爱虚饰展示的人").
+```
+entry(showring, n, [展示环], "一个展示动物的环").
+entry(展厅, n, [展厅s], "用于展示商品的房间").
+entry(放映时间, n, [放映时间表], "娱乐活动开始的时间").
+entry(showy, adj, [], "更炫 更炫的展示一个伟大或辉煌的展示").
+entry(酱油, n, [酱油], "酱油").
+entry(缩小, 过去, [], "缩小的时态").
+entry(弹片, n, [弹片], "炸弹、地雷或炮弹爆炸后产生的碎片")。
+条目(切碎, 动词, [切碎了, 正在切碎, 切碎], "撕成小条").
+entry(碎纸机, n, [碎纸机们], "用于粉碎的东西").
+entry(鼩鼱, v, [诅咒, 诅咒中, 诅咒], "诅咒").
+入口(精明, 形容词, [], "更精明 最精明 具有敏锐的洞察力 精明地 副词").
+```prolog
+entry(精明人, n, [精明人们], "精明的人").
+```
+入口(泼妇, 形容词, [], "脾气暴躁").
+entry(shri, n, [shris], "斯里").
+entry(尖叫, v, [尖叫过,尖叫着,尖叫], "发出尖锐的叫声").
+入口(尖叫者, 名词, [尖叫者们], "一个尖叫的人/物").
+entry(莎莉基, 形容词, [], "尖声尖叫更尖声最尖声").
+entry(地方官长, 形容词, [], "与警长有关").
+入口(施里弗, 动词, [施里弗德, 施里弗英, 施里弗斯], "忏悔")。
+入口(忏悔, 名词, [忏悔们], "忏悔的行为")。
+entry(伯劳, 名词, [伯劳鸟], "一种捕食性鸟类").
+entry(尖锐, 形容词, [], "更尖锐 最尖锐 具有高音和刺耳的品质 尖锐地 副词").
+entry(尖锐, v, [尖叫,尖叫声,尖声], "发出尖锐的声音").
+```prolog
+entry(虾, v, [捕虾, 捕虾中, 捕虾], "捕捉小型海洋十足目甲壳动物虾").
+```
+entry(捕虾者, n, [捕虾者], "捕虾渔夫").
+entry(小虾, 形容词, [], "更像小虾 最像小虾 充满小虾的").
+entry(神龛, v, [神龛了, 神龛中, 神龛], "放置于神龛中作为圣物储存").
+entry(收缩, v, [收缩的, 收缩中, 收缩], "to contract or draw back").
+entry(缩小器, n, [缩小器], "缩小的东西").
+entry(忏悔, 动词, [忏悔了,已忏悔,忏悔中], "忏悔听取忏悔并给予赦免").
+entry(枯萎, v, [枯萎了,枯萎中,枯萎], "或 枯萎了 枯萎中 枯萎 皺縮").
+入口(施莱弗, 名词, [施莱弗们], "忏悔者之一")。
+条目(司库, 动词, [司库过, 司库存, 司库], "检验某物的真实性，例如硬币")。
+entry(蘑菇, 名词, [蘑菇们], "一种真菌类型的蘑菇").
+入口(蘑菇爱好者, n, [蘑菇爱好者们], "喜欢吃蘑菇的人").
+entry(裹尸布, 动词, [裹尸的,裹尸中,裹尸布们], "裹入埋葬的衣服")
+条目(忏悔, a, [], "忏悔的过去式").
+条目(灌木, 名词, [灌木丛], "一种低矮的木本植物").
+条目(矮树丛, 形容词, [], "更多矮树丛覆盖的 矮树丛最多覆盖的").
+entry(耸肩, v, [耸了肩,耸肩中,耸肩], "抬起并缩紧肩膀").
+入口(缩小, a, [], "缩小的过去式").
+entry(缩小, a, [], "缩小的过去分词").
+entry(小村庄, n, [小村庄复数], "或 SHTETLACH一个犹太村庄")。
+entry(犹太小镇, n, [犹太小镇们], "或 SHTETLACHshtetel").
+条目(段子, n, [段子], "一个娱乐节目").
+entry(shticky, adj, [], "类似于滑稽表演的较滑稽的、最滑稽的").
+entry(把戏, n, [把戏们], "表演").
+条目(静默, 形容词, [], "schtum").
+entry(剥壳, v, [剥了壳,正剥壳,剥壳], "去掉外壳或外皮").
+条目(去壳者, 名词, [去壳者们], "去壳的人").
+入口(剥壳, 名词, [剥壳动作], "剥壳者的行为")。
+entry(发抖, v, [发抖了,发抖着,发抖], "颤抖").
+`入口(起鸡皮疙瘩的, 形容词, [], "颤抖").`
+入口(拖曳, 动词, [拖曳着, 拖曳中, 拖曳们], "不抬脚地走").
+条目(shuffler, n, [shufflers], "洗牌的人").
+entry(犹太会堂, n, [犹太会堂们], "或 犹太会堂Na 犹太会堂").
+entry(烧卖, npl, [], "日式饺子").
+项(shun, 动词, [shunned,shunning,shuns], "避免").
+entry(避开者, n, [避开者们], "一个避免和回避某事或某人的人").
+entry(shunpike, v, [shunpiked,shunpiking,shunpikes], "为了避免高速公路而走小路旅行")。
+入口(转轨, 动词, [转轨,转轨中,转轨们], "转向一边")。
+入口(调车员, 名词, [调车员], "调动的那个人").
+条目(shura, n, [shuras], "一个咨询委员会")。
+entry(安静, v, [安静了,安静中,使安静], "使安静").
+entry(使安靜的人, n, [使安靜的人們], "使安静的人").
+入口(关闭, 动词, [关闭,关闭中,关闭们], "关闭").
+entry(关闭, 名词, [关闭事件], "工业工厂的临时关闭").
+入(entry, shute, v, [shuted,shuting,shutes], "汇入滑槽")。
+条目(闭目, 名词, [闭目], "睡觉").
+entry(关闭装置, n, [关闭装置们], "关闭某物的设备").
+entry(完封, n, [完封], "一场比赛中一队未得分").
+entry(百叶窗, v, [百叶窗上,安装百叶窗,百叶窗], "为窗户提供铰链式的窗盖").
+entry(关闭, 现在时, [], "shut 的分词").
+entry(航天飞机, v, [航天飞机的过去式, 航天飞机的进行时, 航天飞机的第三人称单数形式], "来回移动或旅行").
+entry(穿梭者, n, [穿梭者们], "穿梭的人").
+入口(shvitz, v, [shvitzed, shvitzing, shvitzes], "出汗").
+入口(shwa, n, [shwas], "schwa").
+入口(算盘, 名词, [算盘s], "swanpan").
+entry(害羞, 形容词, [], "更害羞 最害羞 害羞的人").
+entry(害羞, 动词, [害怕, 害羞中, 害怕], "突然往后退或避开, 像是害怕一样").
+entry(害羞者, n, [害羞者們], "害羞者").
+entry(夏洛克, v, [借款者, 借款中, 抵押], "以高利率借出钱").
+entry(害羞地, 副词, [], "以害羞的方式").
+entry(害羞, n, [害羞感], "害羞的状态").
+entry(奸诈的律师, n, [奸诈的律师们], "一个不择手段的律师或政客").
+```prolog
+入口(si, n, [sis], "ti").
+```
+入口(sial, n, [sials], "岩石构造的一种类型SIALIC 形容词").
+entry(sialid, n, [sialids], "一种柳蝉").
+entry(sialidan, n, [sialidans], "唾液酸").
+entry(sialoid, adj, [], "类似唾液").
+entry(長臂猿, n, [長臂猿們], "一種大型的黑色長臂猿").
+条目(暹罗猫, 名词, [暹罗猫], "有两个水管接口的水管")。
+entry(sib, n, [兄弟姐妹], "一个兄弟姐妹").
+entry(sibb, n, [sibbs], "sib").
+entry(齿擦音, n, [齿擦音], "通过窄口隙摩擦呼出气流产生的语音声音")。
+entry(发嘶嘶声, 动词, [发嘶嘶声了, 发嘶嘶声中, 发嘶嘶声], "嘶嘶声").
+entry(兄弟姐妹, n, [兄弟姐妹], "与另一个人有相同父母的人").
+entry(sibship, n, [兄弟姐妹关系], "一组拥有相同父母的孩子").
+entry(西比尔, n, [西比尔们], "女先知西比尔的 预言性的 adj").
+entry(sic, v, [sicced, siccing, sics], "命令攻击").
+entry(siccan, adj, [], "如此").
+entry(sice, n, [sices], "马夫")。
+条目(生病, 形容词, [], "更病 更病-最病 受疾病或健康不良影响").
+entry(生病, v, [生病了, 生病中, 生病], "命令攻击").
+入口(病房, n, [病房s], "船上的医院")。
+entry(病床, n, [病床], "病人的床").
+entry(sickee, n, [sickees], "病假").
+entry(致病, v, [致病了,致病中,致病], "使生病").
+entry(毒菌, n, [毒菌], "令人厌恶的东西").
+entry(sickerly, adv, [], "安全地").
+`entry(生病的, 名词, [生病的们], "一个情绪上不健康的人").`
+输入(有点儿病, 形容词, [], "有点儿不舒服")。
+```prolog
+entry(镰刀, v, [收割过的, 收割, 镰刀], "用具有单刃的农业工具切割").
+```
+entry(病恹恹, 形容词, [], "更病态 最病态 看起来像生病 病态地 副词").
+条目(虚弱的, v, [使虚弱, 变得虚弱, 虚弱的], "使变得虚弱").
+entry(生病, n, [生病], "患病的状态").
+entry(生病人, n, [生病者], "病号").
+entry(病假罢工, n, [病假罢工], "组织性的工人缺勤，声称生病").
+entry(病房, n, [病房s], "一间有病人居住的房间")。
+entry(sidalcea, n, [锦葵属植物], "一种北美草本植物")。
+entry(siddha, n, [], "复数 SIDDHAS 在印度教中达到完美的人").
+入口(悉地, 名词, [悉地], "成就者所获得的圆满").
+```prolog
+entry(siddur, n, [犹太教祈祷书], "或 SIDDURIMa 犹太祈祷书")。
+```
+入口(侧，v，[侧，侧着，侧着]，“同意或支持”)。
+`条目（sidearm，v，[sidearmed，sidearming，sidearms]，"在肩部或肩部以下投掷球"）。`
+入口(边频带, n, [边频带们], "一组无线电频率").
+entry(sidebar, n, [侧栏], "伴随重大新闻故事的一则简短新闻故事")。
+entry(鬓脚, n, [], "鬓脚是指男人在脸部两侧留的两绺头发")
+entry(挎斗, n, [挎斗], "附着在摩托车上的乘客车厢").
+条目(过去, [], "侧面时态", sided)。
+entry(山坡, n, [山坡], "一个山坡").
+entry(密友, n, [密友们], "一个亲密的朋友").
+entry(无侧的, 形容词, [], "没有侧面").
+entry(旁线, v, [排除在外, 正在排除, 排除在外], "使某人停止行动").
+entry(倾斜, 形容词, [], "倾斜").
+entry(侧发, n, [侧发], "从头部侧面垂下的一撮长发").
+entry(侧向, 形容词, [], "指向一侧").
+entry(配角, n, [配角们], "爵士乐队的成员")。
+条目(侧肉, 名, [侧肉], "从猪的侧边割下来的肉")。
+entry(恒星, 形容词, [], "关于恒星的").
+条目(菱铁矿, n, [菱铁矿], "一种矿物").
+entry(乡间小路, n, [乡间小路], "一条乡间道路").
+entry(杂耍, n, [杂耍], "附加于主要吸引力的小表演").
+条目(侧滑, 动词, [侧滑过, 正在侧滑, 侧滑], "向一侧滑动")。
+```
+entry(教堂助理, n, [教堂助理们], "英国圣公会教堂的平信徒助手").
+```
+entry(侧旋, n, [侧旋], "一种施加给球的旋转类型").
+```prolog
+entry(侧步, v, [侧步过,侧步中,侧步], "侧向一步").
+```
+`entry(人行道, 名词, [人行道们], "供行人使用的铺砌走道").`
+entry(侧壁, n, [侧壁], "轮胎的侧面").
+entry(侧向, 副词, [], "向一侧").
+```prolog
+entry(側向, 副詞, [], "側向地")。
+```
+entry(侧面, 副词, [], "朝向或从一边").
+entry(侧向, 副词, [], "侧向").
+条目(sidh, n, [sidhe], "在爱尔兰民间传说中居住着超自然生物的山丘")。
+```prolog
+entry(壁板, n, [壁板], "用于覆盖框架建筑物表面的材料").
+```
+```prolog
+条目(侧行, 动词, [侧行, 侧行中, 侧行], "侧向移动").
+```
+```prolog
+entry(侧身者, n, [侧身者们], "一个侧身的人").
+```
+entry(围攻, v, [围攻了,围攻中,围攻], "尝试捕获或获得").
+入口(西门子, n, [西门子], "电导单位").
+条目(辉长岩, n, [辉长岩], "syenite").
+条目(sienna, n, [siennas], "一种棕色颜料")。
+条目(栗钙土, n, [栗钙土], "一种土壤类型").
+entry(塞拉, n, [塞拉山脉], "一个山脉SIERRAN adj").
+entry(午休, n, [午休们], "下午的小憩或休息").
+条目(先生, 名, [先生们], "一种旧的法语称谓，用来表示对男性的尊重")。
+entry(筛, 动词, [筛过, 筛选, 筛子], "通过筛子分离粗糙部分与细小部分的用具").
+词条(sievert, n, [希沃特], "一种电离辐射单位").
+条目(狐猴, 名词, [狐猴], "一种来自马达加斯加的狐猴").
+entry(吹哨者, n, [吹哨者们], "一种发出哨声的动物").
+入口(筛, 动词, [已筛, 正在筛, 筛], "过筛").
+入口(筛子, n, [筛子们], "用来筛选的东西")。
+entry(筛选, 名词, [筛选物], "筛子工人的工作").
+entry(sig, n, [签名], "电子邮件末尾的一条简短个性化消息").
+entry(白鱼, n, [白鱼], "一种鱼类家族的任何鱼").
+条目(叹息, 动词, [叹息了, 正在叹息, 叹息], "发出叹息的声音，一种深沉的声音").
+entry(sigher, n, [叹息者], "叹气的人").
+条目(无叹息, 形容词, [], "没有发出叹息")。
+入口(叹息般, 形容词, [], "类似于叹息").
+入口(观察, 动词, [观察到, 观察中, 观察们], "去观察或注意").
+entry(觀察者, n, [觀察者們], "能看到的事物").
+```prolog
+entry(目击, n, [目击事件], "一个观察").
+```
+entry(迷人, 形容词, [], "更迷人 最迷人赏心悦目").
+entry(观光, v, [观光了,观光过,观光中], "观光是指参观和欣赏名胜").
+entry(印章, n, [印章们], "一个官方的印章").
+Prolog:
+entry(siglos, n, [sigloi], "一种古代波斯硬币")。
+entry(siglum, n, [缩略语], "用于指示编辑文本来源的缩写").
+entry(Σ, n, [希格玛], "一个希腊字母SIGMATE 形容词").
+entry(sigmoid, n, [S形曲线], "身体部位中的S形曲线")。
+条目(签名, 动词, [已签名, 正在签名, 签名], "写下自己的名字")。
+entry(signa, v, [], "在标签上书写 该祈使动词不使用其他形式").
+entry(标识, n, [标识们], "社区中的标志系统").
+entry(signal, v, [通知, 通知中, 信号], "或 通知 通信 积极地与信号进行通信的一种方式")。
+entry(信号者, n, [信号者们], "一个发出信号的人").
+entry(显著地, 副词, [], "显著地").
+entry(签署人, n, [签署人], "文件签署人")。
+入口(签署者, n, [签署者], "一个签署物品的人")。
+条目(印记, 动词, [已印, 正在印, 印记], "用官方印章标记")。
+entry(表示, 动词, [表示了, 表示中, 表示], "使众人知道").
+entry(签署, n, [签署], "在文件或书上签名的行为").
+entry(signior, n, [signiors], "或 SIGNIORIsignor").
+entry(封邑, n, [封邑], "领地")。
+条目(先生, 名词, [先生们], "先生是一种意大利男性礼节称谓")
+entry(signora, n, [signoras], "一种意大利对已婚女性的礼貌称谓，或为SIGNORE").
+entry(signore, n, [signori], "先生")。
+entry(signory, n, [签字], "封建领地").
+entry(路标, 动词, [被指引, 指引中, 指引], "提供路标，带有指示的标牌").
+条目(梅花鹿, 名词, [梅花鹿们], "一种原产于亚洲的小型鹿")。
+`entry(西克, 名词, [西克斯], “赛克”)。`
+entry(成功, 形容词, [], "安全").
+条目(地松鼠, n, [地松鼠们], "北极地松鼠").
+entry(青贮, n, [青贮料], "在贮藏塔中保存的饲料").
+entry(硅烷, 名词, [硅烷化合物], "一种化学化合物").
+entry(银鲱, n, [银鲱们], "年轻的鲱鱼").
+entry(沉默, v, [使沉默, 正在使沉默, 使沉默], "使沉静").
+entry(消音器, n, [消音器], "使某物安静的人或物").
+entry(sileni, 复数, [], "西勒诺斯的").
+entry(无声, 形容词, [], "无声者 无声最无声噪音无声地 adv")
+entry(无声片, 复数, [], "默片").
+entry(西勒诺斯, 名词, [西勒诺斯们], "希腊神话中的林地神").
+entry(西里西亚, n, [西里西亚], "一种棉织物").
+entry(sīlìkèsī, n, [sīlìkèsī], "二氧化硅").
+条目(硅石, n, [硅石], "一种硅的形式").
+入口(硅酸盐, 名词, [硅酸盐物质], "一种化学盐").
+条目(硅质的, 形容词, [], "与硅有关的").
+entry(硅化物, n, [硅化物], "硅化合物").
+条目(硅化, v, [硅化的, 硅化中, 硅化], "转化为硅石").
+入口(硅, n, [硅]), "硅").
+entry(角果, n, [角果], "一种短的扁豆荚").
+条目(硅, 名词, [硅元素], "一种非金属元素").
+条目(硅胶, n, [硅胶], "一种硅化合物").
+entry(长角果, 名词, [长角果们], "一个小荚果")。
+entry(荚果, n, [荚果], "荚果").
+entry(荚果, n, [荚果], "一种种子荚").
+entry(丝绸, v, [丝绸覆盖, 丝绸覆盖中, 丝绸覆盖们], "用丝绸覆盖一种柔软光泽的面料")
+词条(丝绸, 形容词, [], "由丝绸制成").
+入口(丝毛鸡, n, [丝毛鸡], "selkie")。
+entry(更柔滑, 比较级, [], "丝绸般的").
+入口(丝绸之物, 复数, [], "丝绸制成的").
+entry(最丝滑的, 最高级, [], "丝绸一样的").
+entry(silkily, 副词, [], "以一种丝绸般的方式").
+entry(silklike, 形容词, [], "类似丝绸").
+条目(丝草, n, [丝草属植物], "乳草").
+entry(蚕, n, [蚕], "一种会织成丝茧的毛毛虫").
+entry(丝滑, 形容词, [], "如丝般光滑").
+entry(丝滑的, n, [丝狗], "一种被毛光滑的梗犬")
+entry(窗台, n, [窗台们], "窗户底部的水平部分")。
+词条(西拉布布, n, [西拉布布们], "一种含酒精的甜点").
+entry(西勒，名词，[西勒斯]，"银")。
+entry(西莉布, 名, [西莉布们], "西莉布").
+entry(silly, adj, [], "缺乏良好判断的不明智行为SILLILY adv").
+entry(傻的, n, [傻子们], "一个傻的人").
+entry(筒仓, 动词, [筒仓储存, 筒仓储存中, 筒仓储存], "储存在一个高大的圆柱形结构中").
+entry(硅氧烷, n, [硅氧烷类], "一种化学化合物").
+entry(淤泥, v, [淤积, 沉积, 淤泥], "用淤泥填充一种沉积材料")
+entry(粉砂状, 形容词, [], “更粉砂 最粉砂 充满粉砂”).
+entry(鲶科, n, [鲶鱼], "任意一种属于鲶鱼科的鱼").
+entry(鲶鱼, n, [鲶鱼类], "一种鲶鱼").
+entry(西尔瓦, n, [西尔瓦斯], "或 SILVAEsylva").
+条目(西尔万, 名词, [西尔万斯], "森林的").
+entry(银, v, [镀银, 镀银中, 镀银], "用银（金属元素）覆盖").
+entry(镀银者, n, [镀银者们], "镀银的人").
+条目(银色的, 比较级, [], "像银色的").
+entry(最银色的, 最高级, [], "银色的").
+条目(银色地, 副词, [], "具有银色的外观").
+entry(银色, 形容词, [], "银色的").
+entry(silvertip, n, [银尖], "一只毛尖呈白色的灰熊").
+entry(银白的, 形容词, [], "像银的").
+entry(silvex, n, [除草剂], "一种除草剂").
+entry(silvical, adj, [], "有关林学的").
+entry(林木学, npl, [], "关于森林树木的研究").
+entry(sim, n, [模拟], "模拟").
+entry("辉长岩", n, ["辉长岩"], "火成岩").
+入口(西玛尔, 名词, [西玛尔斯], "一种女士轻便夹克或长袍")。
+```prolog
+条目(苦木, 名词, [苦木], "一种热带树木").
+```
+entry(莠去津, n, [莠去津s], "一种除草剂").
+条目(simcha, 名词, [simchas], "一个犹太人的私人聚会").
+入口(猿类, 名词, [猿类], "猿或猴子")。
+entry(类似, 形容词, [], "像但不完全相同").
+条目(比喻, 名, [比喻], "一种修辞手法")。
+entry(似猿, 形容词, [], "像猴子").
+条目(猿类, 形容词, [], "与猿有关的").
+```prolog
+entry(弯刀, n, [弯刀], "scimitar").
+```
+entry(simlin, n, [西葫芦], "西葫芦").
+```prolog
+入口(慢煮, 动词, [慢煮了, 慢煮中, 慢煮], "在低于或刚好到达沸点时烹饪").
+```
+entry(司莫奈尔, n, [司莫奈尔们], "一种脆的面包").
+entry(模拟币, 名词, [模拟币], "美元").
+entry(simoniac, n, [simoniacs], "行买卖圣职之事的人").
+entry(西蒙尼, 复数, [], "有关买卖圣职").
+entry(西摩尼, n, [西摩尼者], "一个买卖圣职的人").
+entry(打蜡, v, [已打蜡,正在打蜡,打蜡], "用蜡抛光").
+项(simony, 名词, [simonies], "买卖教会职务的行为")。
+条目(西姆姆风, n, [西姆姆风], "一种炎热干燥的沙漠风").
+entry(西蒙, n, [西蒙风], "西蒙风").
+entry(愚蠢, n, [愚蠢者], "一个愚蠢的人").
+entry(simper, v, [傻笑过,傻笑中,傻笑], "以愚蠢的方式微笑")
+entry(傻笑者, n, [傻笑者们], "一个傻笑的人").
+```
+条目(简单, 形容词, [], "更简单 最简单不复杂或复杂").
+```
+entry(简单, 名词, [简单的东西], "简单的东西").
+entry(单纯形, n, [单纯形], "或者单纯形或单纯形一个简单的词").
+条目(简化, 动词, [简化了, 正在简化, 简化], "使简单").
+entry(简单化, n, [简单化现象], "倾向于过度简化一个问题或议题").
+entry(简化主义者, n, [简化主义者], "一个倾向于简化主义的人").
+entry(简单, 副词, [], "以简单的方式").
+entry(模仿者, n, [模仿者们], "一个进行模拟的人或物").
+entry(simular, n, [模拟物], "模拟品").
+```prolog
+entry(模拟, v, [模拟了,模拟着,模拟], "采取外观").
+```
+entry(犯罪, v, [犯罪了, 犯罪中, 犯罪], "违犯宗教或道德法律的行为").
+entry(敷芥药, 名词, [敷芥药], "一种膏状混合物，涂抹在身体发生刺激的部位")
+条目(自从, 副词, [], "从那时到现在").
+entry(真诚, 形容词, [], "SINCERER SINCEREST无虚伪或虚假").
+entry(前额, n, [前额], "或前额额头").
+entry(正弦, n, [正弦], "角的三角函数").
+基本形式(冗职, n, [冗职], "一个职位或职务几乎不需要工作")。
+项(肌腱, v, [使有力, 使有力的, 加强], "加强").
+entry(肌肉发达, 形容词, [], "精瘦且肌肉发达的").
+entry(交响曲, n, [交响曲], "或交响曲，一个交响乐").
+条目(罪恶的, 形容词, [], "以罪为标志罪孽深重地 adv")。
+```prolog
+条目(唱, 动词, [唱过, 唱过, 唱歌], "SING语调化发声SINGABLE 形容词").
+```
+entry(烧焦, v, [烧焦了, 烧焦中, 烧焦], "稍微烧伤").
+entry(歌手, n, [歌手们], "唱歌的人").
+条目(唱歌, 名词, [唱歌], "一个唱歌的行为或声响")。
+```prolog
+条目(单, v, [单挑, 挑战, 挑选], "从一个组中选择")。
+```
+entry(男士背心, n, [背心], "男士穿的无袖内衣或运动衫")。
+entry(单独, 副词, [], "没有他人陪伴").
+输入(单调, 名词, [单调声调], "说话或阅读时的单调节奏")。
+entry(单数, n, [单数形式], "表示一个人或事物的词形").
+入口(sinh, n, [sinhs], "角的双曲函数")。
+entry(汉化, 动词, [汉化了,汉化中,汉化], "受中国影响而改变").
+条目(恶兆, 形容词, [], "威胁或预示邪恶")。
+entry(水槽, v, [下沉,下沉的,下沉], "移动到较低的水平SINKABLE 形容词").
+entry(下沉, n, [下沉现象], "下沉的行为、过程或程度")
+```
+entry(sinker, 名词, [沉子], "会下沉的东西").
+```
+entry(sinkful, n, [满洗涤槽量], "水槽能容纳的量").
+条目(天坑, n, [天坑s], "地表自然凹陷")。
+entry(无罪, 形容词, [], "没有罪的").
+entry(犯罪, 过去, [], "罪的时态").
+entry(罪人, n, [罪人们], "犯罪的人").
+entry(sinnet, n, [sinnets], "sennet").
+entry(犯罪, 现在, [], "犯罪的分词").
+entry(汉学, n, [汉学研究], "对中国的研究").
+entry(sinopia, n, [sinopias], "或 SINOPIE一种红色颜料")。
+entry(sinsyne, 副词, [], "自从").
+```prolog
+条目(烧结, 动词, [烧结了, 烧结中, 烧结], "通过热和压力的共同作用使其结合"). 
+```
+entry(弯曲, v, [已弯曲, 正在弯曲, 弯曲], "进入和离开的曲线")。
+条目(蜿蜒的, 形容词, [], "具有曲线、弯曲或转弯的特征")
+entry(鼻窦, n, [鼻窦], "一个颅腔").
+条目(正弦波, n, [正弦波], "一种数学曲线")。
+entry(sip, v, [sipped,sipping,sips], "小口喝").
+entry(sipe, v, [siped,siping,sipes], "渗漏").
+`条目(虹吸, v, [虹吸了,虹吸中,虹吸], "通过虹吸这种类型的管抽出").`
+entry(虹吸管, 形容词, [], "关于或属于虹吸管").
+入口(虹吸, 形容词, [], "虹状").
+entry(四平, 在场, [], "sipe 的分词").
+entry(可以小口喝的, 形容词, [], "能被小口喝的").
+条目(啜饮, 过去式, [], "sip的时态")。
+入口(小口喝者, n, [小口喝者们], "一个小口喝的人").
+entry(小块, 名词, [小块们], "被肉汁浸泡的小块面包").
+条目(啜饮, 现在时, [], "sip的分词形式")。
+entry(先生, n, [先生们], "对男子使用的尊称").
+入口(锡达, 名词, [锡达们], "印度的一个有等级的人").
+entry(父亲, 动词, [生下, 生育, 生育], "生育").
+entry(siree, n, [sirees], "先生").
+entry(警报器, n, [警报器们], "一种发出刺耳警告声音的装置").
+条目(海牛目动物, 名词, [海牛目动物们], "一种水生哺乳动物的分类").
+entry(养育, 现在时, [], "sire的分词形式").
+entry(西冷牛排, n, [西冷牛排], "一种牛肉的切块").
+entry(西罗科, 名词, [西罗科风], "一种炎热干燥的风").
+entry(sirra, n, [sirras], "先生").
+entry(sirrah, n, [sirrahs], "用于对下级的称呼形式")。
+entry(sirree, n, [sirrees], "阁下")。
+entry(糖浆, v, [糖浆化了, 糖浆化中, 糖浆化], "制成糖浆").
+条目(sirupy, 形容词, [], "SIRUPIER SIRUPIESTsyrupy")。
+entry(sirvente, n, [叙述诗], "一种讽刺的中世纪歌曲或诗歌").
+entry(sis, n, [sises], "或SISSES姐妹")
+entry(蕉麻, n, [蕉麻纤维], "用于绳索的坚韧纤维").
+entry(朱鹀, n, [朱鹀], "一种欧亚雀").
+条目(斯西, 形容词, [], "SISSIER SISSIESTsissyish").
+entry(娘娘腔, n, [娘娘腔们], "一个女性化的男人或男孩").
+entry(娘娘腔, 形容词, [], "类似于娘娘腔").
+entry(姐妹, v, [姐妹过，姐妹中，姐妹们], "像姐妹一样对待女性兄弟姐妹").
+entry(姐弟的, 形容词, [], "像姐妹一样的").
+entry(sistroid, adj, [], "位于两条相交曲线的凸面之间")
+entry(sistrum, n, [sistrums], "或 SISTRA 一种古埃及打击乐器").
+entry(坐, v, [坐着, 正在坐, 坐着的], "坐在屁股上休息").
+entry(西塔琴, n, [西塔琴们], "一种印度的鲁特琴").
+入口(西塔琴演奏者, n, [西塔琴演奏者们], "演奏西塔琴的人").
+entry(情景喜剧, n, [情景喜剧], "具有连续角色的电视喜剧系列").
+项(站点, v, [已安置, 正在安置, 站点], "放置在操作位置")。
+entry(西斯, 副词, [], "从").
+entry(sithence, 副词, [], "since").
+entry(sithens, 副词, [], "自从")。
+entry(选址, 现在, [], "site 的分词形式")。
+entry(营养学, n, [营养学], "营养和饮食科学").
+entry(战况报告, n, [战况报告], "关于当前军事形势的报告")。
+条目(坐着, a, [], "sit的过去分词")。
+entry(坐者, n, [坐者们], "一个坐下的").
+entry(会议, 名词, [会议], "一次会议或会期")
+entry(坐落, 动词, [坐落,正坐落,坐落于], "放置在某个位置").
+entry(仰卧起坐, n, [仰卧起坐], "一种从躺卧到坐起的锻炼").
+entry(位置, 名词, [位置], "位置或地点")
+```prolog
+条目(坐标标记, n, [坐标标记], "滑雪者向后摔倒在雪地上留下的痕迹").
+```
+条目(下水道, n, [下水道], "一个污水管道"）。
+条目(六, n, [六个], "一个数字")。
+entry(sixer, n, [六人组长], "一组六个Brownies或Cubs的领导者")。
+```
+entry(sixfold, 形容词, [], "是原来的六倍").
+```
+entry(六么, n, [六么们], "一种纸张尺寸").
+条目(六便士, 名词, [六便士复数], "一种以前使用的英国硬币，价值六便士")。
+entry(六便士, 形容词, [], "价值六便士").
+entry(第十六, 名词, [第十六个], "击剑招架动作").
+入口(十六, n, [十六们], "一个数字").
+entry(第六, n, [第六]), "六等分之一").
+entry(第六, 副词, [], "在第六位").
+entry(第六十, n, [第六十分之一], "六十分之一的部分").
+```prolog
+entry(六十, n, [六十年代], "一个数字")。
+```
+entry(六十来岁, 形容词, [], "大约六十岁").
+entry(相当大的, 形容词, [], "相当的大小程度地 副词").
+entry(sizar, n, [sizars], "在英国接受学院经济资助的学生").
+条目(大小, v, [大小化, 调整大小, 调整大小中], "根据体型进行排列").
+entry(可观的, 形容词, [], "相当大地 副词").
+entry(sizer, n, [sizers], "sizar").
+entry(siziness, n, [sizinesses], "呈現黏液或凝膠狀的特質或狀態").
+entry(尺寸, n, [尺寸的], "用于多孔材料的釉料或填料的物质").
+entry(sizy, adj, [], "SIZIER SIZIEST粘的").
+entry(咝咝作响, v, [发出咝咝声, 正在发出咝咝声, 发出咝咝声的], "伴随嘶嘶声地燃烧或煎炸").
+entry(sizzler, n, [sizzlers], "酷暑").
+entry(鞭子, v, [鞭打过,鞭打中,鞭打们], "用在南非的一种鞭子打击").
+条目(ska, 名词, [ska的复数], "牙买加流行音乐").
+entry(skag, n, [瘾君子], "海洛因").
+entry(诗人, n, [诗人们], "古代斯堪的纳维亚的诗人SKALDIC 形容词").
+入口(蹦迪, 动词, [蹦过迪, 正在蹦迪, 蹦迪], "以松散的肢体动作跳舞")。
+entry(痞子, 名词, [痞子们], "跳朋克舞的人").
+`entry(skanky, adj, [], "更淫荡 最淫荡污秽或卑鄙").`
+entry(纸牌游戏, n, [纸牌游戏], "一种纸牌游戏").
+entry(滑冰, v, [滑冰了, 滑冰中, 滑冰], "用装有冰刀或轮子的鞋在冰上或地面上滑行").
+条目(滑冰者, 名词, [滑冰者们], "一个滑冰的人").
+entry(滑冰, n, [滑冰], "在冰鞋上滑行的运动").
+entry(粪臭素, n, [粪臭素], "粪臭素").
+entry(粪臭素, n, [粪臭素], "一种化学化合物").
+entry(skean, n, [skeans], "一种匕首").
+entry(skeane, n, [skeanes], "一段松散缠绕的纱线").
+entry(sked, v, [skedded,skedding,skeds], "安排").
+entry(滑雪, 動詞, [滑雪過去式, 滑雪進行式, 滑雪第三人稱單數], "滑雪").
+entry(skeen, n, [skeens], "小刀").
+entry(skeet, n, [skeets], "一种以弹簧陷阱将粘土鸽子抛到空中，然后用枪射击的运动").
+entry(skeeter, n, [skeeters], "飞碟射击手")。
+entry(skeevy, adj, [], "较令人厌恶 最令人厌恶 令人厌恶的").
+entry(skeg, n, [鳍板], "连接船的龙骨和船尾柱的木材")。
+entry(skeigh, 形容词, [], "自豪的").
+entry(线团, v, [缠绕成线团的,缠绕成线团,线团], "将其缠绕成松散的长卷")。
+```prolog
+entry(骨骼, n, [骨骼], "人或动物身体的支撑或保护框架骨骼形容词").
+```
+入口(流浪汉, 名词, [流浪汉们], "一个没有家的人")。
+entry(流氓, n, [流氓们], "一个无赖").
+entry(斯克尔姆, n, [斯克尔姆们], "斯克鲁姆")
+entry(掌嘴, v, [掌嘴了,掌嘴中,掌嘴], "打耳光")
+entry(匆忙, v, [匆忙的,匆忙,匆忙], "疾行").
+entry(skene, n, [skenes], "skean").
+entry(蜂巢, n, [蜂巢], "蜂窝").
+entry(怀疑, 名词, [怀疑态度], "怀疑者的态度或观点")．
+```prolog
+entry(怀疑者, n, [怀疑者们], "一个对普遍接受的观点表示怀疑的人").
+```
+entry(小礁岛, n, [小礁岛], "一个小的岩石岛").
+entry(素描, v, [素描了,素描中,素描], "做粗略匆忙的绘画").
+entry(素描者, n, [素描者们], "一个进行素描的人").
+专业条目(可疑, 形容词, [], "更可疑 最可疑缺乏完整性或清晰度")。
+条目(偏斜, v, [偏斜, 偏斜中, 偏斜], "转向一边").
+entry(skewback, n, [skewbacks], "拱端支承的斜坡面").
+entry(skewbald, n, [杂色马], "一种有棕色和白色斑块的马").
+```prolog
+entry(串, v, [串了, 串着, 串], "用长针穿过如肉"). 
+```
+项(偏度, n, [偏度值], "缺乏对称性")。
+entry(滑雪, 动词, [滑雪过, 滑雪中, 滑雪], "用长的狭窄的木条或金属旅行").
+entry(可滑雪的, 形容词, [], "可以滑雪的").
+entry(透视图, n, [透视图], "由阴影或轮廓构成的图片")
+```prolog
+entry(滑雪自行車, 動詞, [已滑雪自行車, 滑雪自行車中, 滑雪自行車們], "骑行一种用滑雪板代替车轮的自行车般的交通工具").
+```
+entry(skid, v, [滑过,打滑,滑行], "因失去牵引力而侧滑").
+entry(伐木车, n, [伐木车们], "一种滑行的东西").
+entry(滑行, n, [滑行], "从伐木区拖运原木的工作")。
+entry(skiddoo, v, [skiddooed,skiddooing,skiddoos], "离开").
+条目(斯基迪, 形容词, [], "可能导致打滑的情况：更容易打滑，最容易打滑")。
+entry(中，动词，[滑雪过了, 滑雪中, 滑雪们]，"去滑雪")。
+entry(滑雪车驾驶者, n, [滑雪车驾驶者们], "一个乘坐雪地摩托车的人").
+entry(skidpad, n, [skidpads], "一个供驾驶员练习控制打滑的路面")。
+entry(滑道, n, [滑道], "用于堆放原木以便装载或锯木的平台")
+entry(滑雪, 过去, [], "ski 和 sky 的时态").
+entry(滑雪者, n, [滑雪者们], "滑雪的人").
+entry(天空, 现在时, [], "单数第三人称的 sky")。
+entry(skiey, adj, [], "天的")。
+entry(小艇, n, [小艇], "一种小型敞篷船").
+```prolog
+条目(skiffle, 动词, [skiffled, skiffling, skiffles], "玩一种特定风格的音乐").
+```
+entry(滑雪, n, [滑雪], "滑雪运动").
+entry(滑雪者, n, [滑雪者们], "一个由狗、马或车辆牵引在雪上滑行的滑雪者").
+entry(灵巧, adj, [], "skillful").
+entry(熟练, 形容词, [], "skillful").
+entry(技能, n, [技能], "擅长做某事的能力熟练的 形容词").
+`条目(无技能, 形容词, [], "没有技能").`
+entry(煎锅, n, [煎锅s], "一个炒锅").
+entry(灵巧, 形容词, [], "拥有技能").
+entry(斯基林, n, [斯基林斯], "斯堪的纳维亚国家的旧币").
+entry(撇去, v, [撇去了,撇去中,撇去们], "从表面去除漂浮物").
+entry(撇层器, n, [撇层器们], "一个撇层的人").
+entry(厚皮香, 名词, [厚皮香属], "一种常绿灌木").
+entry(撇取, n, [浮渣], "从液体中撇去的东西").
+entry(节省, v, [节省了,节省中,节省], "节约").
+entry(吝啬, 形容词, [], "更少 更少 刻薄地 副词").
+```prolog
+entry(皮肤, v, [剥了皮,剥皮,剥], "剥去或剥夺动物身体表面的膜组织").
+```
+`entry(skinful, n, [skinfuls], "足以填满皮囊的量").`
+条目(光头, n, [光头党], "头发剪得很短的人").
+条目(石龙子, 动词, [已石龙子, 正在石龙子, 石龙子们], "倒出或作为酒提供")。
+入口(皮蜥, 名, [皮蜥们], "一种蜥蜴").
+entry(無皮, 形容詞, [], "沒有皮膚").
+entry(似皮, 形容词, [], "类似皮肤").
+entry(剝皮, 過去式, [], "皮膚的時態").
+entry(斯金纳, n, [斯金纳们], "剥皮的人").
+entry(剥皮, 当前, [], "剥皮的分词形式").
+entry(苗条, 形容词, [], "更苗条 最苗条非常瘦").
+entry(瘦的, 名词, [瘦子], "瘦的人").
+entry(skint, 形容词, [], "没有钱").
+entry(牵引滑雪, n, [牵引滑雪], "一种滑雪形式").
+入口(跳过, v, [跳过,跳跃,跳], "以轻快的弹跳步伐移动")。
+entry(鳞鲀, n, [鳞鲀们], "一种海洋鱼类").
+entry(滑雪飞机, n, [滑雪飞机], "一种设计用于从雪地起飞或降落的飞机").
+entry(跳过, 过去, [], "跳的时态").
+entry(船长, v, [船长过, 正在船长, 船长们], "担任船长或领航员的角色").
+entry(印章盒, n, [印章盒], "用于保护公章的小盒子").
+entry(跳过, 现在时, [], "skip 的分词形式")
+```prolog
+entry(發出尖銳聲音, 動詞, [發出尖銳聲音了, 發出尖銳聲音中, 發出尖銳聲音], "發出尖銳聲音")。
+```
+entry(小规模战斗, v, [参与小规模战斗过,参与小规模战斗中,参与小规模战斗], "进行小规模战斗").
+入口(疾驰, 动词, [疾驰了, 疾驰中, 疾驰], "快速移动")。
+入口(蒔蘿, 名词, [蒔蘿], "一种亚洲草本植物").
+entry(裙子, v, [环绕, 环绕中, 环绕着], "绕过或经过").
+entry(避开者, n, [避开者们], "绕开某物的人").
+entry(踢脚板, n, [踢脚板], "墙壁底部的板").
+entry(小品, n, [小品], "一个简短的戏剧场景")。
+条目(滑行, 动词, [滑行了, 滑行中, 滑行], "迅速移开")。
+entry(轻快, 动, [轻快地跑, 轻快地跑着, 轻快地跑], "轻轻地或快速地在表面移动").
+entry(skittery, 形容词, [], "更轻快 最轻快skittish").
+条目(谨慎, 形容词, [], "容易受惊").
+entry(skittle, n, [保龄球瓶], "用在保龄球游戏中的木瓶").
+entry(削, v, [已削,正在削,削], "削").
+entry(skiver, n, [逃学者], "逃学的人").
+entry(佣人, v, [做佣人, 做佣人的, 佣人们], "作为女仆工作")。
+entry(滑雪服, n, [滑雪服], "适合滑雪时穿着的服装").
+entry(sklent, v, [sklented, sklenting, sklents], "倾斜").
+entry(祝酒, v, [祝过酒, 正在祝酒, 祝酒], "为谁的健康而喝酒").
+entry( sko l ， v ， [ sko led ， sko ling ， sko ls ] ， "to sko al" ) 。
+条目(善魁, 名词, [善魁们], "一个邪恶的灵魂")。
+entry(裙裤, n, [裙裤], "类似裙子的短裤").
+entry(一丁点, n, [一丁点], "数量少").
+entry(skreegh, v, [skreeghed,skreeghing,skreeghs], "尖叫").
+```prolog
+entry(skreigh, v, [skreighed,skreighing,skreighs], "尖叫").
+```
+entry(skry, v, [skried,skrying,skries], "占卜").
+entry(鹱, n, [鹱], "一种捕食性的海鸟").
+entry(skulk, v, [skulked,skulking,skulks], "偷偷地移动").
+entry(潜行者, n, [潜行者们], "潜行的人").
+entry(头骨, v, [击头,击中头部,头骨], "击打头部")
+entry(头巾, n, [头巾], "紧身的帽子").
+entry(臭鼬, 动词, [臭鼬过,臭鼬中,臭鼬们], "压倒性地打败")。
+entry(skunky, adj, [], "有臭鼬气味的臭鼬类哺乳动物能够喷射难闻气味的液体").
+```Prolog
+entry(天空, 动词, [打向天空, 向天空抛掷, 向高空], "击打或抛掷向上空高层大气").
+```
+entry(skyboard, n, [天板], "用于滑翔冲浪的一种有脚扣的板").
+entry(空中, 形容词, [], "空降").
+入口（skybox，名词，[skyboxes]，“位于体育馆高处的座位围栏”）。
+entry(行李员, n, [行李员们], "机场的搬运工").
+entry(跳伞, v, [跳伞过,跳伞中,跳伞], "为运动从飞机上跳伞").
+entry(跳伞者, n, [跳伞者们], "进行跳伞的人").
+```prolog
+entry(天空的, 形容词, [], "类似天空").
+```
+entry(天光, n, [天光], "由城市灯光导致的夜空中的辉光").
+entry(天钩, n, [天钩], "一种想象中悬挂在空中的钩子").
+entry(skyjack, v, [skyjacked,skyjacking,skyjacks], "劫持飞机").
+入口(云雀, 动词, [云雀了, 云雀着, 云雀们], "嬉戏").
+条目(无天, 形容词, [], "天空被云遮住了")。
+入口(天窗, 名词, [天窗], "屋顶或天花板上的窗户")。
+entry(天蓝色, 形容词, [], "像天空").
+entry(天际线, n, [天际线], "地平线").
+entry(skylit, 形容词, [], "有天窗的").
+entry(飞行员, n, [飞行员], "飞行员").
+entry(天饮具, 名词, [天饮器], "一种在古希腊使用的饮酒器皿").
+entry(天帆, n, [天帆], "一种帆").
+entry(天际, n, [天际景观], "天空的景观").
+entry(滑板飞行, v, [滑板飞行过,滑板飞行中,滑板飞行], "在自由落体期间骑滑板进行特技动作").
+```prolog
+entry(天桥, n, [天桥], "两座建筑之间的高架走道").
+```
+entry(朝向天空, 副词, [], "朝向天空").
+entry(向天, 副词, [], "朝向天空").
+```prolog
+条目(天观, 动词, [已天观, 正天观, 天观们], "观察天空以寻找天体或飞机").
+```
+entry(天桥, n, [天桥], "一条高架公路")。
+entry(天空书写, v, [天空书写了, 天空书写过, 正在天空书写], "天空书写通过飞机释放可见的蒸汽在天空中书写")。
+entry(板, v, [板过, 正在板, 板], "从原木上去除板状平片").
+条目(垂涎者, 动词, [垂涎了, 垂涎中, 垂涎], "流口水").
+entry(slabbery, 形容词, [], "slobbery").
+条目(去板, 名词, [去板术], "从原木上去除板材的行为")。
+entry(slabby, 形容词, [], "SLABBIER SLABBIEST用石板覆盖或铺砌").
+entry(似板的, 形容词, [], "类似于板").
+entry(slack, 形容词, [], "松弛的或不紧的").
+入口(懈怠, v, [懈怠了,懈怠中,懈怠], "放松").
+entry(放松, v, [已放松, 正在放松, 放松], "使不那么紧或拉紧的").
+entry(懒散者, n, [懒散者们], "偷懒的人").
+entry(松散地, 副词, [], "以松散的方式").
+entry(slag, v, [slagged,slagging,slags], "将熔融矿石的熔渣转化为矿渣").
+词条(锍化, 名词, [锍化过程], "将矿石转化为锍的过程")。
+条目(泥渣状的, 形容词, [], "更泥渣状 最泥渣状的类似于矿渣").
+entry(slahal, n, [slahals], "lahal").
+entry(被杀, 过去, [], "杀的分词形式").
+entry(slainte, 感叹词, [], "用于祝酒").
+条目(解渴, 动词, [解渴了,解渴中,解渴们], "润湿可解渴的 形容词").
+entry(斯拉克者, n, [斯拉克者们], "使满足的东西").
+`entry(slalom, v, [slalomed,slaloming,slaloms], "以Z字形路线滑雪").`
+entry(回转者, n, [回转者们], "一个进行回转运动的人").
+entry(猛关, 动词, [猛关上, 猛关着, 猛关们], "用力且大声地关闭").
+条目(监狱, 名词, [监狱们], "一个监狱").
+entry(暴换, 名词, [暴换行为], "将某人电话服务未经允许从一家公司转到另一家公司的行为")
+entry(诽谤, 动词, [诽谤了, 诽谤中, 诽谤], "诋毁").
+entry(俚语, 动词, [用过的俚语, 使用俚语, 用俚语], "使用极其非正式或粗俗的语言"）。
+entry(俚语, 形容词, [], "更俚俗 最俚俗含有或包含俚语俚俗地 副词").
+条目(溜走, a, [], "溜走的过去式").
+entry(倾斜, v, [倾斜的,倾斜中,倾斜], "偏离水平或垂直").
+entry(斜的, 形容词, [], "更斜的，最斜的偏离水平或垂直斜地 副词").
+entry(打耳光, 动词, [打了耳光,打耳光着,打耳光], "用手掌打").
+入口(草率, n, [草率的], "粗心的工作")。
+入口(撲克牌遊戲, 名词, [撲克牌遊戲], "一个煎饼")。
+条目(拍打者, 名词, [拍打者们], "一个会拍打的人").
+entry(掴, 现在, [], "slap 的分词").
+entry ( 猛烈射门 , 名词 , [ 猛烈射门 ] , "冰球中的一种射门方式" ).
+入口(削, 动词, [削过, 削中, 削], "用猛烈的扫掠动作切割")。
+entry(劈砍者, n, [劈砍者们], "一个劈砍的东西")
+entry(砍劈, n, [砍劈动作], "锋利地击打之行为")
+`入口(slat, 动词, [slatted, slatting, slats], "用狭窄的木条或金属条提供")。`
+条目(溜槽, n, [溜槽们], "浪与浪之间的平静").
+entry(石板, v, [覆盖过的, 正在覆盖, 覆盖], "用石板覆盖屋顶材料")
+entry(斯莱特, n, [斯莱特们], "指责者").
+entry(slatey, 形容词, [], "SLATIER SLATIESTslaty").
+entry(涂抹, 动词, [涂抹了,涂抹中,涂抹], "厚厚地涂抹").
+entry(斯莱特, 比较级, [], "如板岩").
+entry(最石板的, 最高级, [], "石板的").
+entry(书写, n, [书写], "书写者的行为")。
+条目(使成条板状, 过, [], "slat 的时态").
+entry(邋遢女人, n, [邋遢女人们], "一个邋遢的女人").
+entry(板条, n, [板条材料], "用于制作板条的材料").
+entry(石板的, adj, [], "更石板的 最石板的类似于石板").
+entry(奴隶, v, [奴役, 奴隶工作, 奴隶们], "像奴隶一样工作，一个被他人拥有的人").
+entry(奴隶贩子, 动词, [流口水, 正在流口水, 流口水], "流口水").
+条目(流口水者, 名词, [流口水者们], "一个流口水的人").
+entry(奴隶制, n, [奴隶制度], "一个人对另一个人的所有权").
+entry(奴婢, n, [奴婢们], "女仆").
+entry(奴役, 现在时, [], "奴役的分词形式").
+entry(奴隶般的, 形容词, [], "与奴隶有关或具有奴隶特征的").
+entry(斯劳, n, [斯劳斯], "卷心菜沙拉").
+entry(杀戮, v, [杀戮了,被杀戮的,杀戮中], "杀戮暴力地杀死杀戮的 形容词").
+entry(杀手, n, [杀手们], "杀戮者之一").
+entry(屠杀, n, [屠杀], "杀戮行为或实例").
+entry(sleave, v, [sleaved,sleaving,sleaves], "分成细丝").
+词条(卑鄙, 动词, [卑鄙了, 卑鄙着, 卑鄙], "以卑鄙的方式行事")。
+entry(sleazo, n, [sleazos], "一个卑劣的人物")
+entry(低俗人, n, [低俗人们], "道德或品格低下的人").
+条目(龌龊, 形容词, [], "较不诚实的 最不诚实的，低质量或品格 龌龊地 副词")。
+entry(雪橇, v, [滑雪橇,滑雪橇中,滑雪橇们], "通过雪橇运输一种用于在雪或冰上运送人员或货物的车辆")。
+entry(乘雪橇者, n, [乘雪橇者们], "一个滑雪橇的人").
+入口(滑雪橇, n, [滑雪橇活动], "滑雪橇者的动作").
+entry(雪橇, 动词, [用雪橇运输, 用雪橇运输中, 用雪橇运输], "用一种雪橇运输").
+条目(光滑, 形容词, [], "更光滑 最光滑 光滑而有光泽").
+entry(光滑, v, [使光滑中,使光滑,使光滑们], "使光滑").
+entry(sleeken, v, [使光滑, 使变光滑中, 使变光滑], "使光滑")
+条目(光滑者, n, [光滑者们], "一个使光滑的东西").
+条目(狡诈, 形容词, [], "光滑").
+entry(流畅地, 副词, [], "以流畅的方式").
+entry(sleeky, 形容词, [], "SLEEKIER SLEEKIESTsleek").
+entry(睡觉, 动词, [睡了, 睡觉, 睡], "处于一种自然周期性的休息状态").
+entry(卧铺, n, [卧铺], "一个供人睡觉的地方").
+```prolog
+entry(睡觉, n, [睡觉], "一个正在睡觉的动作")。
+```
+`条目(困倦, 形容词, [], "较困倦 最困倦准备或倾向于入睡困倦地 副词").`
+entry(霰, v, [下霰,霰中,霰下], "降霰，冰冻雨").
+```prolog
+entry(sleety, adj, [], "類似霰的 比較霰的 最霰的").
+```
+entry(袖子, v, [袖子长袖, 袖子缝制, 袖子], "提供袖子的衣物部分，用来覆盖手臂").
+entry(sleeveen, n, [袖珍], "一个调皮的人").
+条目(套管, n, [套管], "电缆用的管状绝缘材料").
+entry(雪橇, v, [被雪橇运送,乘坐雪橇,雪橇], "乘坐雪橇").
+entry(sleigher, n, [雪橇者], "一个驾驶雪橇的人").
+条目(巧妙, n, [巧术], "灵巧").
+entry(苗条, 形容词, [], "更苗条 最苗条thin").
+entry(睡觉, 过去, [], "sleep 的时态").
+```prolog
+entry(侦探, v, [侦查,侦探中,侦探们], "作为侦探行事").
+```
+入口(偏航, 动词, [偏过, 偏着, 偏转], "偏航")。
+entry(切片, 动词, [切片, 切薄片, 切片薄片], "切成薄片")
+入口(切片器, n, [切片器], "切片的东西")。
+入门(光滑, 形容词, [], "光滑的 更光滑的 最光滑的 平滑且滑溜")。
+entry(光滑, v, [使光滑,正变得光滑,变得光滑], "使…光滑").
+entry(使…变光滑, v, [使…变得光滑, 使…变得光滑中, 使…变得光滑们], "使…光滑").
+entry(雨衣, n, [雨衣], "一种油布雨衣").
+entry(熟练地, 副词, [], "以一种娴熟的方式").
+entry(slide, v, [slid,slidden,sliding], "SLIDE在表面上平稳移动SLIDABLE 形容词").
+entry(滑块, n, [滑块们], "滑动的东西").
+entry(滑道, n, [滑道], "一个滑动的路线").
+entry(slier, a, [], "狡猾的比较级").
+entry(狡猾的最高级, a, [], "狡猾的最高级").
+entry(斯利維, n, [斯利維們], "一座山").
+entry(稍微, 形容词, [], "更稍微 最稍微尺⼨⼩⽽量少稍微 副词").
+入口(轻微的, 动词, [轻视, 轻视中, 轻视], "忽视地对待")。
+词条(轻视者, 名词, [轻视者们], "轻视他人的人")。
+entry(slily, adv, [], "以狡猾的方式").
+entry(slim, 形容词, [], "更苗条 最苗条苗条").
+条目(苗条, v, [变瘦,变瘦中,变瘦], "使苗条")。
+entry(软泥, v, [覆以软泥, 正在覆以软泥, 覆以软泥], "用粘稠的泥覆盖").
+条目(更黏滑的, 比较级, [], "的黏滑").
+entry(最黏的, 最高级, [], "的黏").
+entry(黏滑地, 副词, [], "以黏滑的方式").
+entry(黏液化, 现在, [], "黏液的分词形式").
+entry(slimline, adj, [], "设计或结构纤细").
+entry(纤细地, 副词, [], "以纤细的方式").
+entry(瘦身, 过去, [], "瘦的时态").
+入口(瘦身者, n, [瘦身者们], "一个节食者")。
+entry(最瘦, 最高级, [], "瘦的").
+```prolog
+entry(減肥, n, [減肥], "減輕體重").
+```
+entry(苗条, n, [苗条状态], "瘦的状态")。
+```Prolog
+entry(slimpsy, 形容词, [], "更瘦弱 最瘦弱slimsy").
+```
+entry(纤细, 形容词, [], "更纤细 最纤细纤弱").
+入口(黏滑的, 形容词, [], "更黏滑 更黏滑的像黏液").
+条目(投掷器, 动词, [掷去了, 投掷中, 投掷器们], "用突然的动作投掷").
+entry(投石者, n, [投石者们], "投掷者").
+entry(slink, v, [slinked, slinking, slinks], "偷偷移动").
+entry(纤细的, 形容词, [], "更加纤细 最纤细 隐秘地 纤细地 副词").
+输入(滑倒, 动词, [滑倒过, 滑倒着, 滑倒s], "突然且意外地滑动")。
+entry(书夹, n, [书夹们], "保护书籍的盒子").
+条目(削, 动词, [削过, 削着, 削们], "剥皮").
+`entry(slipform, v, [滑模形成,滑模施工,滑模], "利用模具在其中放置混凝土以固化进行建造").`
+entry(滑结, 名词, [滑结], "一种结的类型")。
+entry(无差错, 形容词, [], "没有错误").
+entry(溜出, n, [溜出物], "报纸中的插页").
+entry(套头衫, n, [套头衫], "一件套头毛衣").
+entry(滑移, n, [滑移现象], "从标准或水平下降").
+entry(滑倒, a, [], "slip 的过去式").
+entry(拖鞋, n, [拖鞋], "一种轻便的低帮鞋").
+entry(滑溜的, 形容词, [], "更滑的 最滑的 导致或倾向于导致打滑").
+entry(滑倒, 现在时, [], "slip的分词").
+entry(slippy, adj, [], "更滑 最滑 滑 滑溜溜 地 adv").
+entry(马虎, 形容词, [], "粗心大意地完成或制作").
+entry(糊糊, n, [糊糊们], "稀饭").
+条目(鞋垫, n, [鞋垫], "薄内底").
+条目(滑倒, a, [], "slip 的过去式").
+entry(失误, n, [失误], "错误").
+entry(陶器, n, [陶器], "一种陶器").
+entry(滑道, n, [滑道], "造船厂中朝向水面的斜坡区域")
+条目(裂缝, v, [裂开,裂缝中,裂缝], "做一个裂缝，一个细长的切口").
+入口（滑行，动词，[滑行了，滑行中，滑行]，"从一侧滑到另一侧"）。
+entry(滑溜溜的, 形容词, [], "滑的").
+条目(无缝的, 形容词, [], "没有裂缝的").
+entry(裂缝状, 形容词, [], "类似于裂缝").
+entry(裂缝, 过去, [], "裂的时态").
+entry(切割机, n, [切割机], "负责切割的人或物").
+entry(切开, 现在, [], "slit 的分词").
+入口(裂缝, 形容词, [], "更加狭长 最狭长").
+条目(银条, 动词, [切成薄片, 切片中, 切成薄片的], "切成细长的薄片").
+entry(切薄片者, n, [切薄片者们], "切薄片的人").
+entry(斯利伏维茨, n, [斯利伏维茨斯], "一种梅子白兰地")。
+entry(slob, n, [邋遢的人], "一个邋遢或粗鲁的人").
+entry(流口水, v, [流口水了,流口水中,流口水], "流口水").
+entry(流口水的, 形容词, [], "流口水").
+entry(懒散的, 形容词, [], "像一个懒鬼").
+输入 (slobby, 形容词, [], "更邋遢，最邋遢的特征是邋遢的人").
+词条(黑刺李, 名词, [黑刺李果], "一种类似李子的水果")。
+entry(慢步, 动词, [慢步了, 慢步着, 慢步], "缓慢地行走").
+entry(口号, n, [口号], "由一个团体采用的座右铭SLOGANED adj").
+entry(slogger, n, [艰苦工作者], "艰苦工作的人").
+entry(sloid, n, [慢板], "慢板").
+entry(手工艺, n, [手工艺], "传统手工").
+entry(慢动作, n, [慢动作们], "慢动作").
+entry(单桅帆船, n, [单桅帆船], "一种帆船类型").
+entry(斜坡, v, [溅出,洒出中,溅出物], "溢出或飞溅").
+入口(斜坡, v, [斜坡的, 斜坡中, 斜坡们], "倾斜")。
+词条(倾斜者, 名词, [倾斜者们], "倾斜者").
+```prolog
+entry(sloppy, 形容词, [], "SLOPPIER SLOPPIESTmessySLOPPILY 副词").
+```
+```prolog
+entry(制造劣质服装, n, [制造劣质服装], "廉价服装的制造").
+```
+entry(晃荡, v, [晃荡了,晃荡着,晃荡], "移动时发出泼溅声").
+entry(sloshy, 形容词, [], "SLOSHIER SLOSHIESTslushy").
+项(槽, v, [槽入,槽入中,槽], "切割一个狭长的开口").
+entry(slotback, n, [边后卫], "一种足球运动员类型")
+入口 (树懒, n, [树懒], "一种行动缓慢的树栖哺乳动物")。
+entry(懒惰的, 形容词, [], "迟缓的").
+entry(有槽的, 过去, [], "槽的时态").
+entry(槽机, n, [槽机], "用于开槽的机器").
+entry(插入, 现在, [], "slot 的分词").
+```prolog
+entry(懒散, v, [懒散了,懒散着,懒散着], "以萎靡的姿态坐、站或移动").
+```
+entry(懒散的人, n, [懒散的人们], "一个懒洋洋的人").
+entry(懒散的, 形容词, [], "更懒散 最懒散 懒洋洋").
+entry(斯勞夫, v, [脱皮, 脱皮中, 脱皮], "脱落").
+入口(泥泞, 形容词, [], "更泥泞 最泥泞泥泞").
+entry(邋遢鬼, n, [邋遢的], "邋遢的人").
+entry(邋遢, 形容词, [], "更邋遢最邋遢习惯性不整洁或不干净").
+entry(慢, 形容词, [], "较慢 最慢 移动速度慢").
+entry(慢, 动词, [变慢, 减速中, 减速], "降低速度")。
+```Prolog
+entry(放缓, n, [放缓], "节奏变慢").
+```
+entry(slowish, 形容词, [], "有点慢").
+entry(缓慢地, 副词, [], "以慢速的方式").
+入口(缓慢, 名词, [缓慢状态], “慢的状态”)。
+入口(呆子, n, [呆子们], "一个行动缓慢的人").
+条目(慢虫, n, [慢虫们], "一种欧洲的无腿蜥蜴")。
+entry(sloyd, n, [sloyds], "瑞典的手工训练系统").
+entry(slub, v, [slubbed,slubbing,slubs], "轻轻拉出并扭转").
+入口(slubber, 动词, [slubbered, slubbering, slubbers], "弄脏或污损").
+条目(粗纱, n, [粗纱们], "一种稍微捻过的纺织纤维卷").
+entry(泥浆, v, [泥浆化,泥浆化中,泥浆], "形成泥浆，一种泥泞的团块或沉淀物")。
+条目(污泥状, 形容词, [], "污泥更多 污泥最多覆盖着污泥").
+条目(斜行, 动词, [斜行了, 正在斜行, 斜行], "导致横向移动")。
+条目(弃牌, 动词, [弃牌了, 弃牌中, 弃牌], "丢弃一张或多张牌")。
+入口(标记, v, [标记着,标记着,标记], "重重地打击").
+entry(懒散的人, n, [懒散的人们], "因懒惰而倾向于呆在床上的人").
+entry( slugfest, n, [ slugfests], "激烈的战斗").
+`entry(懒惰者, n, [懒惰者们], "一个习惯性懒惰的人").`
+entry(猛击过的, 过去时, [], "slug的时态")。
+entry(猛烈擊球者, n, [猛烈擊球者們], "一個猛烈擊球的人").
+条目(猛击, 现在, [], "猛击的分词形式").
+entry(迟缓, 形容词, [], "表现出很少的活动或动作").
+entry(水闸, v, [sluiced,sluicing,sluices], "用水的一股突然流动清洗")දු
+entry(sluicy, 形容词, [], "成股流下").
+entry(悬挂, 现在, [], "旋转的分词").
+入口(slum, v, [slummed, slumming, slums], "参观贫民区肮脏的城市区域")。
+entry(睡眠, v, [睡过, 睡着, 睡眠], "睡觉").
+条目(沉睡, 形容词, [], "困").
+entry(蜂胶残渣, n, [蜂胶残渣], "从蜂巢中提取蜂蜜后剩下的残渣").
+入口(贫民窟现象, n, [贫民窟现象], "贫民窟的普遍存在").
+条目(包租公, n, [包租公们], "贫民窟财产的房东").
+条目(贫民窟, 过去式, [], "贫民窟的时态").
+entry(贫民窟居民, n, [贫民窟居民们], "进行贫民窟游览的人").
+entry(贫民窟生活, 现在, [], "贫民窟生活的分词").
+词条(slummy, 形容词, [], "更贫民窟 最贫民窟，类似于贫民窟的").
+entry(暴跌, v, [暴跌了,暴跌中,暴跌s], "突然下降或下沉").
+entry(slumpy, adj, [], "较萧条的，最萧条的，特征为价值或数量下降").
+entry(悬挂, 过去, [], "抛掷的时态").
+entry(潜入, a, [], "slink的过去式").
+条目(诽谤, 动词, [诽谤过的, 诽谤中, 诽谤], "轻描淡写或漫不经心地略过").
+entry(slurb, n, [slurbs], "规划不良的郊区SLURBAN 形容词").
+entry(大口喝, v, [大口喝了,大口喝着,大口喝], "吵闹地吃或喝").
+入口(slurpy, 形容词, [], "更啜音 最啜音 特点是啜吸时发出的声音")。
+entry(泥浆, v, [泥化,泥化中,泥浆化], "转换成一种水状混合物") .
+entry(滑球, n, [滑球们], "一种棒球中的投球类型").
+entry(slush, v, [slushed,slushing,slushes], "用半融化的雪水溅湿")。
+词条(泥泞的, 名词, [冰沙], "一种由调味泥泞冰组成的甜点").
+entry(泥泞, 形容词, [], "更泥泞 最泥泞 类似泥浆 泥泞地 副词").
+entry(荡妇, n, [荡妇们], "一个邋遢的女人荡妇 形容词").
+entry(放荡, 形容词, [], "更放荡 最放荡的特点").
+entry(狡猾, 形容词, [], "更狡猾 最狡猾 或 更狡猾 最狡猾 狡诈 狡猾地 adv").
+条目(slyboots, n, [slyboots], "一个狡猾的人").
+条目(狡猾, n, [狡猾性], "狡猾的质量或状态").
+入口(漏斗, 名词, [漏斗], "英格兰大教堂里的狭窄通道")。
+entry(猛击, 动词, [猛击了, 正在猛击, 猛击], "猛烈地打击").
+入口(smacker, n, [smackers], "用力打的人").
+entry(小的, 形容词, [], "更小 最小或数量有限").
+入口(小的, 名词, [小们], "一个小部分")。
+entry(野芹菜, n, [野芹菜], "一种野生芹菜").
+entry(稍小, 形容词, [], "有点小").
+`entry(天花, n, [天花疫], "一种病毒性疾病").`
+入口(天青石, 名词, [蓝色颜料], "一种蓝色颜料")。
+entry("小块彩色玻璃", a, [], "小块彩色玻璃的复数形式")。
+entry(锑镍矿, n, [锑镍矿], "锑镍矿").
+entry(锑镍矿, n, [锑镍矿], "一种矿物").
+entry(斯马尔托, n, [斯马尔托斯], "用于镶嵌画的彩色玻璃").
+entry(smaragd, n, [smaragds], "翡翠").
+entry(祖母绿, n, [祖母绿的], "祖母绿").
+条目(smarm, v, [smarmed, smarming, smarms], "用过度的谄媚来获得好处")。
+`entry(谄媚, 形容词, [], "更谄媚 最谄媚过分的奉承谄媚地 副词").`
+entry(smart, adj, [], "聪明的 更聪明的 最聪明的以聪明才智为特征有点聪明的 形容词").
+条目(聪明, 动词, [感到刺痛, 刺痛中, 感到刺痛], "引起尖锐的刺痛").
+entry(聪明人, n, [聪明人们], "一个聪明的人").
+入口(使时髦, 动词, [使时髦了, 正在使时髦, 使时髦们], "提升外观").
+entry(smartie, n, [聪明豆], "聪明人").
+entry(聪明地, 副词, [], "以聪明的方式").
+entry(smarty, n, [小聪明], "一个自负得令人讨厌的人").
+entry(猛击, 动词, [猛击了,猛击着,猛击], "猛烈地打碎").
+entry(smasher, n, [打碎者], "一个打碎东西的人").
+条目(smashup, n, [smashups], "机动车辆相撞")。
+entry(smatter, v, [smattered,smattering,smatters], "肤浅地谈论").
+entry(smaze, n, [烟雾], "一种烟雾和薄雾的混合物")
+entry(涂抹, v, [涂抹过, 涂抹中, 涂抹], "用粘性油腻或污秽物质涂抹").
+entry(涂抹者, n, [涂抹者们], "进行涂抹的人").
+入口(模糊, 形容词, [], "更模糊 最模糊涂抹").
+entry(近晶, 形容词, [], "与液晶的一个阶段相关").
+entry(蒙脱石, n, [蒙脱石类], "一种粘土矿物").
+entry(smeddum, n, [smeddums], "麦芽粉").
+条目(烟熏, 动词, [烟熏过, 烟熏进行时, 烟熏单数], "抽烟")。
+entry(皮脂, n, [皮脂], "sebum").
+entry(闻, v, [闻到,闻闻,闻起来], "通过嗅觉神经感知").
+entry(嗅探器, n, [嗅探器们], "会嗅东西的人或物").
+entry(有臭味的, 形容词, [], "更有臭味 最有臭味 有令人不愉快的气味").
+条目(冶炼, v, [冶炼过, 冶炼中, 冶炼], "熔化或熔合矿石").
+entry(冶炼厂, n, [冶炼厂们], "一个进行冶炼的人或物").
+条目(熔炉厂, 名词, [熔炉厂], "用于熔炼的地方")。
+entry(冶炼, n, [冶炼过程], "将矿石熔化以获得金属的过程").
+`entry(smerk, v, [smerked,smerking,smerks], "得意地笑").`
+入口(smew, n, [smews], "一种欧亚鸭子").
+entry(少量, n, [少许], "一点点").
+条目(微量, n, [微量们], "非常小的量").
+entry(少量, n, [少量], "一点点").
+entry(少量, n, [少量], "少量").
+entry(菝葜, n, [菝葜], "一种缠绕性植物").
+entry(微笑, v, [微笑了,微笑着,微笑], "上扬嘴角以表示愉悦").
+`条目(smiler, n, [smilers], "微笑的人").
+entry(微笑, n, [微笑符], "或 微笑符代表着一个微笑的脸").
+entry(smiley, adj, [], "展现笑容的 SMILIER SMILIEST").
+entry(弄脏, 动词, [弄脏了,弄脏的,弄脏], "弄污").
+entry(微笑, 动词, [微笑了, 微笑着, 微笑], "以做作或得意的方式微笑").
+entry(偷笑者, n, [偷笑者们], "一个偷笑的人").
+entry(神气的, 形容词, [], "更加神气的 最神气的神气的神气地 副词").
+条目(击打, 动词, [击打了, 击打着, 击打], "猛烈地打击").
+```prolog
+entry(打击者, n, [打击者们], "发出打击的人").
+```
+entry(史密斯, 男, [史密斯们], "金属工人")
+entry(史密瑟斯, npl, [], "小片段").
+entry(铁匠铺, n, [铁匠铺], "铁匠的手艺").
+entry(锻造, n, [锻造物], "铁匠的工作").
+`entry(smithy, n, [铁匠铺], "铁匠的工作坊").`
+条目(打击, 现在, [], "smite 的分词形式")。
+entry(陶醉, a, [], "smite 的过去分词").
+条目(罩衫, 动词, [罩衫过, 正在罩衫, 罩衫们], "给某人提供罩衫, 一种宽松的外套").
+entry(熨缝, n, [熨缝术], "一种刺绣").
+```
+条目(烟雾, n, [烟雾], "一种烟雾和雾气的混合物无烟雾 形容词").
+```
+entry(烟雾弥漫的, 形容词, [], "更烟雾弥漫的 最烟雾弥漫的充满烟雾").
+```prolog
+条目(烟, 动词, [抽烟, 吸烟中, 吸烟], "释放烟雾, 燃烧材料的气体产物 可烟 adj").
+```
+入口(smokebox, n, [smokeboxes], "用于产生和容纳烟雾的腔室")。
+`entry(烟罐, n, [烟罐], "一个用于发烟的容器").`
+entry(吸烟者, n, [吸烟者], "吸烟的人").
+entry(烟熏, 形容词, [], "更烟熏 最烟熏烟熏").
+entry(烟熏, n, [烟熏], "或SMOKIES巡逻高速公路的警察")。
+条目(熏肠, 名词, [熏肠们], "一种香肠或热狗")。
+```prolog
+条目(吸烟, n, [吸烟], "吸入和呼出烟草或药物的烟雾").
+```
+entry(烟雾缭绕, 形容词, [], "更加烟雾缭绕 最烟雾缭绕 充满烟雾 烟雾弥漫地 adv").
+entry(阴燃, v, [阴燃了,阴燃着,阴燃], "无火焰地燃烧")。
+entry(小鲑鱼, n, [小鲑鱼], "年轻的鲑鱼").
+entry(smooch, v, [smooched,smooching,smooches], "亲吻").
+条目(smoocher, n, [smoochers], "接吻者").
+entry(smoochy, 形容词, [], "SMOOCHIER SMOOCHIEST适合接吻").
+词条(打扁, 动词, [打扁了, 打扁中, 打扁], "压扁").
+entry(光滑, 形容词, [], "更光滑 最光滑表面平整无不规则").
+入口(光滑, 动词, [光滑了, 光滑中, 光滑们], "或光滑使光滑")。
+条目(平滑, 动词, [平滑了, 正在平滑, 使平滑], "使平滑").
+entry(平滑, 动词, [已平滑, 平滑中, 变平滑], "使光滑").
+entry(平滑器, n, [平滑器们], "用于使某物变得光滑的东西").
+入口(冰沙, n, [冰沙们], "一个有礼貌的人").
+entry(顺利地, 副词, [], "以平滑的方式").
+条目(滑顺饮料, 名词, [滑顺饮料们], "滑顺饮料").
+条目(自助餐, n, [自助餐们], "一种自助餐").
+条目(smote, 过去, [], "smite 的时态")。
+条目(窒息, 动词, [窒息了, 窒息中, 窒息s], "阻止呼吸")。
+条目(窒息般的, 形容词, [], "倾向于窒息").
+entry(阴燃, 动词, [阴燃了,阴燃中,阴燃], "慢慢地燃烧").
+entry(斯默里蒂, n, [斯默里蒂们], "印度教宗教教义的文本").
+条目(涂污, 动词, [涂污了, 正在涂污, 涂污], "涂抹或弄脏")。
+```prolog
+entry(涂抹, n, [涂抹物], "涂抹的行为").
+```
+entry(smudgy, adj, [], "更模糊 最模糊 模糊的 模糊地 adv").
+entry(自鸣得意, 形容词, [], "非常自满").
+entry(走私, 动词, [走私了,走私中,走私], "非法地进出口").
+entry(走私者, n, [走私者们], "进行走私的人").
+entry(自鸣得意地, 副词, [], "以自鸣得意的方式").
+entry(自满, n, [自满感], "自满的特质或状态")
+entry(压扁, 动词, [压扁了, 正在压扁, 压扁], "压扁").
+entry(污迹, 动词, [弄脏了, 弄脏中, 弄脏], "弄脏").
+entry(smutch, v, [涂抹, 涂抹中, 涂抹], "弄脏").
+entry(斯穆奇, 形容词, [], "更斯穆奇 最斯穆奇斯穆奇").
+entry(猥亵的, 形容词, [], "较猥亵的 最猥亵的 淫秽 猥亵地 副词").
+entry(小吃, v, [吃过小吃,正在吃小吃,小吃], "吃一顿简单的饭").
+entry(零食者, n, [零食者们], "吃零食的人").
+entry(snacky, 形容词, [], "适合作为便餐").
+entry(窃取, v, [窃取了,窃取中,窃取], "通过狡猾的手段获得").
+entry(snafu, v, [snafued,snafuing,snafus], "陷入混乱状态").
+entry(抓住, 动词, [抓住了, 抓住中, 抓住们], "被粗糙的突起物勾住").
+条目(捕捞者, n, [捕捞者们], "使用非法捕鱼方法的人").
+entry(snaggle, n, [纠结团], "纠结或打结的一团").
+```prolog
+entry(snaggy, adj, [], "SNAGGIER SNAGGIEST充满障碍").
+```
+entry(snaglike, 形容词, [], "类似于障碍物").
+入口(蜗牛, v, [缓慢移动过, 缓慢移动中, 缓慢移动], "缓慢移动").
+entry(蛇, v, [蛇行,蛇形,蛇类], "像蛇一样移动的无肢爬行动物")。
+条目(蛇咬, 形, [], "不幸的")。
+条目(蛇坑, n, [蛇坑], "精神病院").
+entry(snakey, 形容词, [], "SNAKIER SNAKIESTsnaky").
+entry(snake, 现在分词, [], "动词现在分词").
+entry(蛇状, 形容词, [], "类似于蛇")。
+```prolog
+entry(蜿蜒, 形容词, [], "更蜿蜒 最蜿蜒 类似蛇 蛇形地 副词").
+```
+入口(捻, 动词, [捻断,捻动,捻动着], "发出尖锐的破裂声").
+entry(snapback, n, [反弹], "突然的反弹或恢复")
+条目(无搭扣, 形容词, [], "缺乏一种类型的搭扣装置").
+entry(鲷鱼, n, [鲷鱼], "一个会咬东西的东西")．
+entry(较快, 比较级, [], "迅速的").
+条目(最干脆, 最高级, [], "snappy的").
+entry(干脆利落地, 副词, [], "以干脆的方式").
+entry(snapping, 现在时, [], "snap 的分词").
+entry(暴躁, 形容词, [], "倾向于不耐烦或易怒地说话").
+entry(迅捷, 形容词, [], "迅捷 迅捷 迅捷").
+入口(快照, v, [拍快照, 快拍中, 快照们], "非正式且快速地拍照")。
+entry(荚果草, n, [荚果草], "一种开花植物").
+入口 (snare, v, [snared, snaaring, snares], "捕捉").
+entry(捕兽者, n, [捕兽者们], "捕捉者").
+条目(鼻子, 动词, [狼吞虎咽, 狼吞虎咽着, 狼吞虎咽], "贪婪地吃或喝").
+entry(斯纳夫尔, v, [斯纳夫尔了, 斯纳夫尔中, 斯纳夫尔们], "斯纳夫").
+entry(设陷阱, 现在时, [], "snare的分词形式").
+条目(狡辩, n, [狡辩兽], "一种虚构的动物").
+entry(讽刺的, 形容词, [], "更加讽刺的 最讽刺的锐利讽刺地副词").
+入口（嗥叫, 动词, [嗥叫着, 嗥叫中, 嗥叫], "凶狠地咆哮"）。
+entry(咆哮者, n, [咆哮者们], "咆哮的人").
+entry(咆哮的, adj, [], "更咆哮 更咆哮的纠缠").
+条目(snash, n, [snashes], "侮辱性语言")。
+entry(抢, 动词, [抢了, 抢夺, 抢夺], "突然抓住").
+entry(绑架者, n, [绑架者们], "进行绑架的人").
+entry(snatchy, 形容词, [], "较抢夺的 最抢夺的，发生不规则地")
+条目(snath, n, [snaths], "镰刀柄").
+entry(snathe, n, [snathes], "柄").
+entry(sna, 动词, [下雪, 正在下雪, 会下雪], "to snow").
+entry(时髦, 形容词, [], "更时髦 最时髦非常时髦时髦地 副词").
+入口(潜行, 动词, [潜行了, 正在潜行, 潜行], "隐秘地移动").
+entry(偷猎舟, n, [偷猎舟], "用于野禽狩猎的小船，通常用刷子和杂草伪装").
+条目(运动鞋, 名词, [运动鞋们], "一个偷偷摸摸的人").
+entry(偷偷摸摸的, 形容词, [], "更加偷偷摸摸 最偷偷摸摸的 欺骗的 偷偷地 副词").
+entry(sneap, v, [sneaped,sneaping,sneaps], "责备").
+entry(sneck, n, [snecks], "门闩").
+entry(sned, v, [snedded,snedding,sneds], "修剪").
+entry(嗤笑, v, [嗤笑了, 嗤笑着, 嗤笑], "蔑视地撇嘴").
+entry(冷笑者, n, [冷笑者们], "冷笑的人").
+```prolog
+entry(冷笑, adj, [], "喜欢冷笑的").
+```
+`entry(sneery, adj, [], "SNEERIER SNEERIESTmarked by sneering").`
+entry(sneesh, n, [sneeshes], "鼻烟").
+entry(喷嚏, v, [打过了喷嚏, 打喷嚏中, 打喷嚏], "做出突然不自主的呼气动作")
+entry(打喷嚏者, n, [打喷嚏者们], "打喷嚏的人").
+entry(sneezy, adj, [], "容易打喷嚏的，打喷嚏的").
+entry(snell, adj, [], "迅速 更迅速 最迅速").
+entry(snell, v, [snelled,snelling,snells], "将短线系在鱼钩上").
+entry(snib, v, [闩上, 闩锁, 闩], "锁上").
+条目(斯尼克, 动词, [斯尼克了, 斯尼克中, 斯尼克们], "刻痕").
+entry(窃笑, v, [窃笑了,窃笑着,窃笑], "发出部分压抑的笑声")。
+```prolog
+entry(偷笑, 形容词, [], "倾向于窃笑").
+```
+入条(刻薄, 形容词, [], "最刻薄的恶意贬低地副词").
+entry(嗅, v, [嗅了,嗅着,嗅], "通过鼻子可以听到地吸入").
+条目(嗅探器, n, [嗅探器们], "嗅探的人").
+入口(较嗅者, 比较级, [], "嗅的").
+entry(最嗅的, 最高级, [], "属于嗅的").
+entry(傲慢地, 副词, [], "以一种傲慢的方式").
+entry(傲慢, 形容词, [], "趾高气扬").
+entry(抽鼻子, v, [抽了鼻子, 抽鼻中, 抽鼻子], "反复地吸鼻子").
+entry(抽噎者, n, [抽噎者们], "一个抽噎的人").
+```prolog
+entry(流鼻涕的, 形容词, [], "更流鼻涕的 最流鼻涕的"). 
+```
+`entry(sniffy, adj, [], "SNIFFIER SNIFFIESTsniffish").`
+```prolog
+entry(酒杯, n, [酒杯们], "一个梨形的酒杯").
+```
+entry(笑, v, [笑了,笑着,笑], "窃笑").
+```prolog
+entry(鳗鱼钓, 动词, [钓过, 钓着, 钓], "捕鱼用鳗"). 
+```
+entry(sniggler, n, [渔鳗者], "钓鳗鱼的人").
+entry(sniglet, n, [sniglet], "为没有名称的事物创造的词语")
+入口(修剪, 动词, [修剪过的, 修剪中, 修剪], "以快速简短的方式剪切")。
+```prolog
+入口(狙击, 动词, [狙击了, 狙击中, 狙击], "从隐蔽处射击个人").
+```
+entry(狙击手, n, [狙击手们], "一个进行狙击的人").
+entry(狙击, n, [狙击行为], "狙击者的行为").
+entry(剪断, 过去, [], "剪断的时态").
+entry(snipper, n, [剪切者], "一个剪切的").
+条目(片段, n, [片段], "剪下的一小片").
+entry(snippety, adj, [], "SNIPPETIER SNIPPETIESTsnippy").
+entry(剪下物, n, [剪下的物件], "从某物上剪下的一段").
+entry(恰巧, 形容词, [], "SNIPPIER SNIPPIEST快活SNIPPILY 副").
+entry(snit, n, [snits], "一种焦虑状态").
+入口(告密者, 动词, [告了密, 正在告密, 告密], "揭发").
+entry(告密者, n, [告密者们], "告密的人").
+entry(snitty, 形容词, [], "更为乖戾 最为乖戾不和蔼可亲").
+entry(抽泣, v, [抽泣着,抽泣], "或抽泣着抽泣流鼻涕地哭泣或哀诉").
+entry(哭鼻子的人, n, [哭鼻子的人们], "一个爱哭鼻子的人").
+条目(卑鄙的, 形容词, [], "倾向于以抽噎声抱怨").
+entry(势利小人, n, [势利小人们], "倾向于避开或拒绝那些被视为下等的人").
+```prolog
+条目(势利, n, [势利行为], "势利行为").
+```
+entry(更势利的, 比较级, [], "势利的").
+entry(最势利的, 最高级, [], "势利的").
+entry(傲慢地, 副词, [], "以傲慢的方式").
+entry(势利, 形容词, [], "具有势利者的特征").
+entry(势利, n, [势利主义], "势利").
+```prolog
+entry(snobby, adj, [], "更势利的 最势利的 勢利")
+```
+entry(snocoach, n, [snocoaches], "一种装有大轮胎或履带以在雪地上行驶的巴士状车辆").
+条目(吻, 动词, [亲吻了, 正在亲吻, 亲吻], "接吻")。
+entry(接吻者, n, [接吻者们], "一个接吻的人").
+入口(束发带, 动词, [已束发带, 正在束发带, 束发带], "用束发带固定一张网或一个头发的织物帽子")。
+入口(鲥鱼, 动词, [鲥鱼过,鲥鱼时,鲥鱼们], "嗅").
+entry(斯诺克, v, [斯诺克了, 斯诺克中, 斯诺克], "欺骗").
+entry(snool, v, [顺从了, 顺从着, 顺从], "温顺地屈服")。
+入口(偷窥, 动词, [偷窥过, 正在偷窥, 偷窥们], "刺探").
+entry(偷窥者, n, [偷窥者们], "一个偷窥的人").
+entry(snoopy, adj, [], "非常喜欢窥探的SNOOPILY adv").
+```prolog
+entry(鼻烟, n, [鼻烟], "嚼烟草").
+```
+条目(傲慢, 动词, [傲慢对待, 正在傲慢对待, 傲慢对待], "轻蔑地对待")。
+entry(醉意, n, [醉意], "足够让人醉醺醺的酒精饮品")。
+条目(傲慢, 形容词, [], "更傲慢 最傲慢势利傲慢地 adv")。
+entry(打盹, v, [打盹了, 打盹中, 打盹], "轻轻地睡觉").
+entry(打盹者, 名词, [打盹者们], "打盹的人").
+entry(嗅嗅, v, [嗅过,嗅着,嗅嗅], "亲昵地触碰").
+entry(snoozy, 形容词, [], "更困倦 最困倦疲倦").
+entry(打鼾, v, [打鼾了, 打鼾中, 打鼾], "睡觉时大声呼吸").
+entry(打呼者, n, [打呼者们], "打呼的人").
+条目(打鼾, n, [打鼾声], "睡觉时大声呼吸的行为")。
+entry(浮潜, v, [浮潜过, 浮潜中, 浮潜们], "使用一种呼吸装置在水下游泳")。
+entry(哼, 动词, [哼了一声, 正在哼, 哼一声], "通过鼻孔发出响亮的呼气声").
+入口(嗤笑者, 名词, [嗤笑者们], "嗤笑的人").
+条目(鼻涕, n, [鼻涕], "鼻粘液").
+entry(snotty, adj, [], "SNOTTIER SNOTTIEST傲慢SNOTTILY adv").
+条目(嘴, 动词, [带嘴的, 正在装嘴, 鼻子们/口鼻们], "提供喷嘴")。
+entry(鼻子般的, 形容词, [], "像鼻子").
+```prolog
+entry(snouty, 形容词, [], "SNOUTIER SNOUTIEST像长突出鼻子").
+```
+entry(雪, v, [下雪,降雪,飘雪], "以冰晶形式降落为雪降水")。
+```
+entry(雪球, v, [雪球化,雪球化中,雪球化的], "以快速加速的速度增加").
+```
+```prolog
+条目(雪堤, n, [雪堤], "雪的堆积").
+```
+entry(斯诺贝尔, n, [斯诺贝尔斯], "一种开花灌木").
+entry(snowbelt, n, [积雪带], "每年降雪量可观的地区").
+entry(雪鸟, n, [雪鸟], "一种小鸟").
+entry(白雪灌木, n, [白雪灌木丛], "一种开花灌木").
+entry(雪帽, n, [雪帽们], "一层雪的覆盖").
+entry(雪地车, n, [雪地车], "用于在雪上行驶的履带式车辆").
+入口(雪花莲, n, [雪花莲], "一种欧洲草本植物").
+`entry(降雪, n, [降雪量], "降雪").`
+entry(雪蚤, n, [雪蚤], "春天出现于雪上的无翅昆虫")
+条目(较雪, 比较级, [], "下雪的").
+entry(最雪, 最高级, [], "的雪").
+entry(雪白地, 副词, [], "以雪一样的方式").
+entry(雪地, n, [雪地], "被大量雪覆盖的区域").
+entry(无雪, 形容词, [], "没有雪").
+entry(snowlike, 形容词, [], "类似于雪").
+入口(雪人, 名词, [雪人们], "用雪做的人形").
+entry(snowmelt, n, [snowmelts], "由雪融化产生的水").
+entry(雪霉病, n, [雪霉病], "一种发生在融雪边缘附近草地上的真菌病").
+entry(雪堆, n, [雪堆], "积聚的积雪").
+entry(扫雪机, v, [扫雪过了,扫雪中,扫雪机], "执行一种滑雪动作").
+entry(雪棚, n, [雪棚], "一种为防止雪侵害而建造的结构").
+entry(雪鞋, 动词, [雪鞋过, 雪鞋行进, 雪鞋], "用椭圆形框的雪鞋在深雪上行走").
+条目(滑雪服, 名词, [滑雪服们], "儿童冬季穿着的服装").
+entry(多雪, 形容词, [], "更多雪 最多雪 丰富的雪").
+entry(怠慢, 动词, [怠慢了, 正在怠慢, 怠慢], "以轻蔑或忽视的方式对待").
+入口(镇流器, n, [镇流器们], "一个妨碍者")。
+入条(短鼻, 形容词, [], "更短鼻 最短鼻 钝").
+输入(snubness, n, [snubnesses], "直率")。
+entry(偷偷溜进, a, [], "sneak 的过去式").
+entry(鼻烟, 动词, [吸过鼻烟, 正在吸鼻烟, 吸鼻烟], "使用或吸入烟粉").
+entry(鼻烟壶, n, [鼻烟壶们], "用于装鼻烟的盒子")
+entry(熄灭器, n, [熄灭器们], "一个熄灭的东西")
+条目(嗅探者, 比较级, [], "of snuffy").
+entry(最香喷喷的, 最高级, [], "snuffy的").
+entry(鼻涕涟涟, 副词, [], "以鼻涕涟涟的方式").
+entry(嗅嗅, v, [嗅嗅过,嗅嗅中,嗅嗅], "抽鼻子").
+条目(嗅探者, n, [嗅探者们], "一个嗅探的人/物").
+条目(snuffly, 形容词, [], "较爱擤鼻子 最爱擤鼻子的倾向于擤鼻子")。
+入口(snuffy, 形容词, [], "SNUFFIER SNUFFIESTdingy").
+entry(舒适, 形容词, [], "更舒适 最舒适温暖的舒适").
+条目(舒适, 动词, [使舒适, 使变得舒适中, 使变得舒适], "使舒适")。
+entry(舒适小室, n, [舒适小室], "一个舒适的地方").
+```prolog
+entry(最舒适的, 最高级, [], "of snug").
+```
+entry(暖暖裤, 复数名词, [], "女士长内衣").
+entry(依偎, 现在, [], "依偎的分词").
+entry(依偎, v, [依偎了,依偎着,依偎], "紧紧地躺着或靠着")。
+```prolog
+entry(温暖舒适的, 形容词, [], "更加温暖舒适的 最温暖舒适的温暖和舒适").
+```
+舒适地(n, adv, [], "以舒适的方式").
+entry(舒适, n, [舒适性], "舒适的质量或状态").
+entry(snye, n, [snyes], "河流或小溪中的一个侧渠")
+entry(如此, 名词, [求助信号], "土").
+入口(浸泡, v, [浸泡了,浸泡着,浸泡], "彻底弄湿某物")。
+`词条(浸泡, 名词, [浸泡物], "浸泡的行为").`
+entry(吸水器, n, [吸水器], "用来吸水的东西").
+entry(浸泡, n, [浸泡物], "彻底弄湿某物的行为").
+条目(肥皂, 动词, [肥皂过, 用肥皂洗, 用肥皂], "用一种清洁剂肥皂处理").
+entry(皂树, n, [皂树s], "一种热带树").
+```
+条目(soapbox, v, [soapboxed,soapboxing,soapboxes], "在街上发表非正式的慷慨激昂的演讲")。
+```
+entry(肥皂剧, n, [肥皂剧], "广播或电视上的系列情节剧").
+条目(石鲈鱼, n, [石鲈鱼], "一种会产生有毒粘液的热带鱼").
+条目(soapier, 比较级, [], "of soapy").
+entry(最肥皂的, 最高级, [], "of soapy").
+entry(肥皂状地, 副词, [], "以肥皂状的方式").
+entry(无皂的, 形容词, [], "没有肥皂").
+入口(soaplike, 形容词, [], "类似于肥皂").
+entry(肥皂泡, npl, [], "肥皂水").
+条目(皂荚草, 名词, [皂荚草们], "多年生草本植物")。
+entry(香皂的, 形容词, [], "含有或类似肥皂的较香皂和最香皂").
+entry(翱翔, 动词, [翱翔了,翱翔中,翱翔], "在高空飞行")。
+入口(soarer, n, [soarers], "翱翔者").
+条目(翱翔, n, [翱翔运动], "一种无需动力驾驶重于空气的飞行器的运动").
+entry(索阿韦, n, [索阿韦斯], "一种意大利葡萄酒").
+条目(sob, v, [sobbed, sobbing, sobs], "因为抽泣而呼吸抽搐地哭泣")。
+条目(荞麦面, n, [荞麦面条], "一种用荞麦粉制成的日本面条")。
+entry(啜泣者, n, [啜泣者们], "啜泣的人").
+entry(sobeit, 连词, [], "只要").
+entry(清醒的, 形容词, [], "更加清醒 最清醒").
+entry(醒酒, 动词, [醒酒了, 醒酒中, 醒酒], "使清醒").
+entry(使清醒, 动词, [已清醒, 使清醒中, 使清醒], "使清醒").
+entry(清醒地, 副词, [], "以清醒的方式").
+entry(sobful, 形容词, [], "爱哭的").
+entry(清醒, n, [清醒状态], "清醒的质量或状态")。
+entry(社会学课程, n, [社会学], "一门社会学课程").
+入口(苏卡, 名词, [苏卡斯], "灵魂乐和卡利普索音乐的混合").
+entry(農奴制, n, [農奴制], "封建土地租佃制度的一種形式")
+entry(socager, n, [土地承租者], "通过土地承租的租户").
+```prolog
+entry(土地租赁, n, [土地租赁], "socage").
+```
+entry(足球, n, [足球], "一种球类游戏").
+entry(好交际的, n, [好交际的人], "一个社交").
+entry(友善地, 副词, [], "以友好的方式").
+entry(社交, n, [社交聚会], "一个友好的聚会").
+entry(社交, 副词, [], "关于社会").
+entry(社会, 名词, [社会群体], "一个有组织的人员群体SOCIETAL 形容词").
+条目(袜子, n, [socks], "或SOX脚的针织或编织覆盖物")
+entry(袜子, v, [连击, 连打, 袜子], "用力打击")
+entry(插座, 动词, [插入, 插接, 插座], "提供插座以容纳某物的开口").
+entry(sockette, n, [sockettes], "非常短的袜子")。
+入口(三文鱼, 名词, [三文鱼], "一种食用鱼").
+```prolog
+entry(没有袜子, 形容词, [], "没有袜子").
+```
+entry(sockman, n, [sockmen], "袜子人").
+条目(socko, 形容词, [], "令人惊叹地令人印象深刻")。
+条目(socle, n, [socles], "用于柱或基座的底座").
+entry(socman, n, [socmen], "一个打捞工").
+项(草皮, 动词, [铺草皮, 铺设草坪, 草皮], "用草皮覆盖").
+入口(苏打, n, [苏打水], "一种化合物SODALESS 形容词").
+entry(苏打会成员列表, n, [苏打会成员列表], "一个教友会的成员").
+entry(苏打石, n, [苏打石], "一种矿物").
+entry(联谊会, n, [联谊会], "一个社团").
+entry(氨基钠, n, [氨基钠化合物], "一种化合物").
+entry(sodded, 过去, [], "sod 的时态").
+entry(湿透的, 动词, [湿透了, 湿透着, 湿透们], "使变得湿乎乎的").
+entry(湿漉漉地, adv, [], "以潮湿的方式").
+entry(soddie, n, [soddies], "一种粘土屋").
+entry(sodding, 现在时, [], "sod 的分词").
+entry(索迪, n, [索迪们], "用草皮建造的房子")
+entry(钠, n, [sodiums], "一种金属元素SODIC 形容词").
+entry(所多玛, n, [所多玛的], "一个以罪恶和腐败闻名的地方").
+条目(鸡奸, v, [鸡奸了,鸡奸中,鸡奸], "鸡奸")。
+entry(鸡奸者, n, [鸡奸者们], "鸡奸者")。
+entry(鸡奸者, n, [鸡奸者们], "进行鸡奸行为的人").
+仅提供 Prolog：
+```prolog
+entry(鸡奸, v, [鸡奸了,鸡奸着,鸡奸], "与某人进行鸡奸行为").
+```
+entry(鸡奸, n, [鸡奸], "非自然交合").
+```prolog
+entry(soever, 副词, [], "完全").
+```
+entry(沙发, n, [沙发], "一种长的软垫座椅").
+入口(沙发床, 名词, [沙发床], "一款可以变成床的沙发").
+在 Prolog 中，只需保留代码而不进行翻译。因此，代码仍然是：
+
+```prolog
+entry(sofar, n, [sofars], "a system for locating underwater explosions").
+```
+entry(檐口, n, [檐口], "建筑结构底部").
+entry(soft, 形容词, [], "柔软的 在压力下容易屈服").
+```
+条目(软, n, [软物], "一个软的物体或部分").
+```
+entry(软塔, n, [软塔斯], "一个穆斯林神学学生").
+条目(软封面, 名词, [软封面书], "一本用柔性纸封面装订的书").
+entry(垒球, n, [垒球], "一种球").
+entry(色情轻描淡写, 形容词, [], "在描绘性行为方面不十分露骨").
+entry(使柔软, v, [变柔软, 正在变柔软, 使柔软], "使变柔软").
+entry(软化剂, n, [软化剂], "使柔软的一个").
+entry(软头, n, [软头们], "一个愚蠢的人").
+entry(软绵绵, n, [软绵绵们], "软绵绵")。
+条目(软糖, pl, [], "软糖的").
+条目(softish, 形容词, [], "有点软").
+entry(轻柔地, 副词, [], "以轻软的方式").
+条目(柔软性, 名词, [柔软性], "柔软的质量或状态")。
+```prolog
+entry(软件, n, [软件], "用于计算机操作的书面或印刷数据").
+```
+entry(软木, n, [软木], "各种树木的软木").
+entry(softy, n, [软心人], "感情用事的人").
+```
+entry(sogged, 形容词, [], "潮湿").
+```
+entry(潮湿的, 形容词, [], "较潮湿 潮湿的 镜像潮湿 滑重潮湿 状态").
+entry(soh, n, [sohs], "溶胶").
+entry(soigne, 形容词, [], "仔细完成").
+条目(soignee, 形容词, [], "soigne").
+条目(土壤, 动词, [弄脏, 正在弄脏, 弄脏], "使变脏").
+条目(土壤污染, 名词, [饲料作物], "用于喂养动物的绿色作物")。
+entry(无土, 形容词, [], "在没有土壤的情况下进行，细碎的岩石与有机物质混合").
+词条(土染, 名词, [污渍], "一个污点或污痕")。
+entry(晚会, n, [晚会], "一个晚间聚会")。
+entry(大豆, n, [大豆们], "黄豆").
+entry(逗留, v, [逗留過, 逗留中, 逗留], "暂时停留")
+entry(소주, n, [소주sk], "用米或红薯酿制的韩国伏特加")。
+entry(soke, n, [sokes], "在特定区域内行使司法权的封建权利").
+entry(索克曼, 名词, [索克曼们], "社人").
+```prolog
+条目(sokol, 名词, [索科尔斯], "一个推广身体健康的国际团体").
+```
+entry(sol, n, [单音记号], "自然音阶的第五个音符").
+条目(sola, n, [solas], "一种印度的沼泽植物")。
+entry(安慰, v, [安慰了,安慰着,安慰], "安慰").
+entry(抚慰者, n, [抚慰者们], "安慰他人的人").
+entry(塘鹅, n, [塘鹅], "塘鹅").
+entry(索兰, n, [索兰兹], "索兰").
+条目(solander, n, [solanders], "用于保护图书馆材料的箱子")。
+条目(solanin, n, [solanins], "龙葵碱").
+entry(金雀花碱, n, [金雀花碱类], "一种有毒的生物碱").
+entry(solano, n, [solanos], "强劲的热风").
+条目(茄属植物, 名词, [茄属植物们], "一种属于草本和灌木属的植物")。
+entry(太阳能, n, [太阳能], "一个日光室").
+```prolog
+条目(旭日大厦, a, [], "日光室的复数").
+```
+entry(太阳化, v, [太阳化过,太阳化中,太阳化的], "太阳化").
+entry(solarism, n, [solarisms], "对民间故事作为太阳本质概念的解释") .
+entry(太阳房, n, [太阳房], "或 SOLARIA 一间暴露在阳光下的房间")
+entry(solarize, v, [晒化,晒化中,晒化], "暴露在阳光下").
+entry(溶胶化, v, [溶胶化的,溶胶化中,溶胶化], "变为流体胶体系统").
+entry(隔离, n, [隔离行为], "孤立的行为").
+entry(安慰金, n, [安慰金], "因情感受损而给予的赔偿").
+entry(卖出, 过去, [], "卖的时态").
+`entry(soldan, n, [soldans], "穆斯林统治者").`
+entry(焊接, v, [焊接了,焊接中,焊接], "紧密连接在一起").
+entry(焊工, n, [焊工们], "焊接的人").
+entry(士兵, v, [服兵役的, 服兵役中, 士兵们], "执行军事服务").
+entry(军旅, n, [军人职业], "军事职业").
+entry(soldo, n, [意大利旧币], "意大利的一种旧硬币").
+entry(鞋底, v, [鞋底过,鞋底中,鞋底], "为鞋或靴子的底部装上鞋底").
+entry(社会失态, v, [社会失态了, 社会失态中, 社会失态], "意为使用不当的语言或粗俗语").
+entry(语病, n, [语病], "句子中不符合语法规则的词语组合").
+条目(solecist, n, [solecists], "solecizes的人").
+条目(solecize, v, [solecized, solecizing, solecizes], "使用语法错误").
+entry(变位, 过去, [], "sole的时态")。
+entry(solei, a, [], "小腿三头肌的复数形式")。
+entry(无鞋底, 形容词, [], "没有鞋底").
+entry(唯一, 副词, [], "单独").
+入口(庄严, 形容词, [], "SOLEMNER SOLEMNESTseriousSOLEMNLY adv")。
+入口(单独性, n, [单独性们], "独一无二的状态").
+entry(电磁线圈, n, [电磁线圈们], "一种电线圈类型").
+entry(索莱拉, n, [索莱拉斯], "一种西班牙酿酒的方法").
+entry(锁鞋, n, [锁鞋们], "锁鞋")。
+entry(比目鱼肌, n, [比目鱼肌], "或是小腿肚部位的SOLEIa肌肉").
+entry(solfege, n, [视唱练耳], "一种歌唱练习").
+entry(音阶练习, 复数, [], "solfeges").
+entry(solgel, 形容词, [], "涉及胶体系统状态的一些变化").
+```prolog
+entry(soli, a, [], "独奏的复数").
+```
+条目(请求, 动词, [请求过, 请求中, 请求们], "诚恳地请求")。
+entry(固体, 形容词, [], "具有确定的形状和体积").
+entry(固体, n, [固体], "一种固态物质").
+条目(solidago, 名词, [黄花草], "一种开花植物")。
+entry(团结, 形容词, [], "团结").
+entry(solidi, pl, [], "的 solidus")。
+entry(凝固, v, [凝固了,凝固中,凝固], "使变得坚固").
+条目(坚固性, 名词, [坚固性], "坚固的质量或状态")。
+entry(坚固地, 副词, [], "以坚固的方式").
+entry(固体线, n, [罗马古币], "古罗马的硬币").
+entry(索林, 现在, [], "sole 的分词").
+entry(solion, n, [solions], "一种电子检测和放大设备").
+entry(soliquid, n, [soliquids], "一种流体胶体系统")
+entry(孤独者, n, [孤独者们], "一个独居的人").
+entry(孤子, 名词, [孤子], "物理学中的单独波").
+entry(孤独, n, [孤独], "独自存在的状态").
+```
+entry(足甲, n, [足甲们], "一只脚甲").
+```
+entry(独奏, n, [独奏曲], "或 SOLI 一段为单人声或乐器而作的音乐作品")
+entry(单人, v, [单人表演过, 单人表演中, 单人表演], "或 SOLOES 独自表演").
+entry(獨奏者, n, [獨奏者們], "進行獨奏的人").
+entry(solon, n, [solons], "聪明的立法者").
+```prolog
+entry(索洛涅茨, n, [索洛涅茨地], "索洛涅茨").
+```
+entry(苏林索地, n, [苏林索地类], "一种土壤类型").
+entry(至, n, [至日], "一年中太阳距离天球赤道最远的时候")
+entry(可溶的, n, [可溶物], "能够溶解的东西")
+entry(可溶地, 副词, [], "以溶解的方式").
+entry(solum, n, [solums], "或 SOLAa 土壤层").
+entry(solunar, 形容词, [], "列出太阳和月亮的升起和落下时间").
+entry(solus, 形容词, [], "独自").
+entry(溶质, n, [溶质], "一种溶解的物质").
+条目(解, n, [解决方案], "一种均匀的液体混合物").
+entry(可解, 形容词, [], "能够被解决").
+入口(溶剂化, v, [溶剂化的,溶剂化中,溶剂化], "转换为一种离子类型")。
+entry(解决, 动词, [已解决, 解决中, 解决], "找到答案或解释").
+entry(偿付能力, n, [偿付能力], "偿还所有债务的能力").
+进入(溶剂, 名词, [溶剂], "一种能够溶解其他物质的物质")。
+entry(求解器, n, [求解器们], "解决问题的人或物").
+entry(解决, 现在, [], "解(participle)的 solve").
+entry(索姆, 名词, [索姆斯], "吉尔吉斯斯坦的货币单位").
+entry(苏玛, n, [苏玛斯], "或体的有机体体细胞 adj")
+entry(soman, n, [somans], "一种有毒化学战剂")。
+入口(忧郁, 形容词, [], "更忧郁 最忧郁阴沉忧郁地 副词")。
+entry(阴暗, 形容词, [], "SOMBRER SOMBRESTsomberSOMBRELY 副词").
+entry(宽边帽, n, [宽边帽], "宽边帽").
+entry(sombrous, 形容词, [], "昏暗的").
+entry(some, 形容词, [], "表示不确定的数量或部分").
+entry(某人, n, [某些人], "一个重要人物").
+条目(某天, 副词, [], "在未来的某个时间").
+entry(某种程度, 副词, [], "to some degree").
+entry(以某种方式, 副词, [], "通过某种方式").
+entry(某人, n, [某人们], "一个重要人物")。
+entry(somerset, v, [翻筋斗, 翻筋斗中, 翻筋斗], "或 SOMERSETTED SOMERSETTING SOMERSETSto roll the body in a complete circle head over heels").
+entry(某时, 副词, [], "在未来的某个时间").
+entry(某种方式, 副词, [], "以某种方式").
+entry(someways, 副词, [], "someway").
+条目(有点, n, [有点], "一个未指定的数量或部分")。
+条目(某時, 副词, [], "sometime").
+entry(某种方式, 副词, [], "某种怎样").
+`entry(somite, n, [体节], "一些动物身体的纵向分段SOMITAL SOMITIC 形容词").`
+entry(somoni, n, [索莫尼], "塔吉克斯坦的货币单位")。
+entry(儿子, n, [儿子们], "男孩").
+entry(声响, n, [声响们], "声音").
+entry(带声的, n, [携声词], "一种通过声带振动发出的声音SONANTAL SONANTIC 形容词").
+entry(声呐, n, [声呐], "一种水下定位装置").
+entry(声纳员, n, [声纳员], "操作声纳设备的人").
+entry(奏鸣曲, 名词, [奏鸣曲], "一种音乐作品类型").
+entry(小奏鸣曲, n, [小奏鸣曲们], "或 SONATINEa 短奏鸣曲").
+entry(探空仪, n, [探空仪], "用于观察大气现象的设备").
+词条(sonder, 名词, [sonders], "一种小型游艇").
+```prolog
+entry(sone, n, [响度单位], "响度的单位")。
+```
+entry(歌曲, 名词, [歌曲], "为演唱而创作或改编的音乐作品").
+条目(songbird, 名词, [songbirds], "会发出悦耳声音的鸟").
+```prolog
+entry(歌本, n, [歌本], "一本歌集").
+```
+entry(songfest, n, [songfests], "非正式的聚会进行集体歌唱").
+entry(songful, 形容词, [], "悦耳").
+entry(无歌的, 形容词, [], "不能唱歌").
+entry(songlike, 形容词, [], "类似一首歌").
+entry(歌手, n, [歌手], "歌手").
+entry(儿子的身份, n, [儿子的身份们], "作为一个儿子的状态").
+entry(sonic, 形容词, [], "关于声音").
+程序条目(超声处理, 动词, [已超声处理, 正在超声处理, 超声处理], "用声波干扰")。
+entry(声学, 复数, [], "处理声音实际应用的科学").
+entry(无子, 形容词, [], "没有儿子").
+entry(像儿子, 形容词, [], "像儿子").
+entry(sonly, 形容词, [], "关于一个儿子").
+entry(十四行诗, v, [写十四行诗, 作十四行诗, 十四行诗], "或 写过的十四行诗 作中的十四行诗 组成一个十四行诗 一种诗歌形式").
+entry(索尼, n, [索尼们], "一个小男孩").
+entry(声纳浮标, n, [声纳浮标们], "一种检测和传输水下声音的浮标").
+entry(声呐图, n, [声呐图], "由超声波生成的图像").
+entry(响音, n, [响音], "一种有声音").
+entry(响度, n, [响度], "具有洪亮或共鸣的状态或性质").
+entry(洪亮, 形容词, [], "具有丰满而响亮的声音").
+entry(sonovox, n, [声音效应装置], "声效装置").
+entry(儿子身份, 名词, [儿子的身份], "成为儿子的状态").
+```
+词条(sonsie, 形容词, [], "SONSIER SONSIESTsonsy").
+```
+entry(sonsy, 形容词, [], "SONSIER SONSIEST漂亮").
+条目(小种, 名词, [小种们], "小种")。
+条目(sooey, 感叹词, [], "用于呼唤猪").
+入口(苏克, 名词, [苏克斯], "市场")。
+entry(soon, adv, [], "未来不久SOONISH adj")。
+入口(提前者, 名词, [提前者们], "在政府土地正式开放定居之前定居的人")。
+entry(煤烟, 动词, [煤烟了, 正在煤烟, 煤烟], "用燃烧产生的黑色物质覆盖").
+entry(温和, 形容词, [], "最温和").
+`entry(真相, 名词, [真相们], "事实").`
+entry(安抚, v, [安抚了,安抚中,安抚], "恢复到安静或正常状态").
+输入项(安抚者, n, [安抚者们], "一个安慰他人的人").
+entry(soothly, 副词, [], "真实地").
+entry(预言, 动词, [预言了, 正在预言, 预言], "预测").
+entry(sooty, 形容词, [], "SOOTIER SOOTIEST被烟灰覆盖SOOTILY 副词").
+条目(sop, v, [sopped,sopping,sops], "浸泡在液体中") .
+entry(soph，n，[sophs]，"大二学生")。
+```prolog
+entry(sophies, pl, [], "属于sophy的").
+```
+entry(诡辩, n, [诡辩], "貌似合理但谬误的论点")
+entry(诡辩家, n, [诡辩家们], "使用诡辩术的人").
+entry(索菲, n, [索菲的], "波斯的统治者").
+entry(sopite, v, [使入睡, 正在入睡, 入睡], "使入睡")。
+条目(沉睡, 名词, [沉睡], "一种异常深的睡眠").
+entry(sopped, 过去式, [], "sop的时态").
+entry(湿透, 形容词, [], "非常湿").
+entry(湿漉漉, 形容词, [], "更湿漉漉 最湿漉漉 非常湿  湿漉漉地 adv").
+entry(soprano, n, [女高音], "或SOPRANI最高的歌唱声").
+入口(索拉, 名词, [索拉斯], "一种沼泽鸟").
+entry(sorb, v, [sorbed,sorbing,sorbs], "通过吸收或吸附SORBABLE adj 来吸收和保持")。
+entry(山梨酸盐, n, [山梨酸盐们], "吸附的物质").
+entry(吸附剂, n, [吸附剂们], "一种吸附的物质")
+entry(冰沙, 名词, [冰沙], "雪酪").
+entry(索尔比克, 形容词, [], "关于一种水果").
+词条(山梨坦, 名词, [山梨坦], "一种化合物").
+entry(山梨醇, n, [山梨醇类], "一种化学化合物").
+entry(山梨糖, n, [山梨糖类], "一种糖").
+entry(巫师, n, [巫师们], "进行巫术的人").
+entry(巫术, n, [巫术], "据称使用超自然力量").
+条目(sord, n, [sords], "一群野鸭")。
+entry(肮脏, 形容词, [], "肮脏地 副词").
+entry(sordine, n, [弱音器], "用于降低乐器音调的装置").
+条目(弱音器, n, [弱音器们], "弱音器").
+条目(sordor, n, [sordors], "一个卑鄙的状态")。
+条目(酸痛, 动词, [酸痛过, 酸痛中, 酸痛们], "为了迫使马匹采用特定步态而使其脚受伤").
+`entry(疼痛, 形容词, [], "更痛 最痛 对触摸非常敏感").`
+```prolog
+entry(爱生气的人, n, [爱生气的人们], "容易生气或被冒犯的人").
+```
+entry(索瑞尔, n, [索瑞尔s], "酸模").
+entry(痛苦地, 副词, [], "以痛苦的方式").
+条目(酸痛, 名词, [酸痛], "酸痛的质量或状态")。
+entry(疼痛的, 比较级, [], "of sore").
+entry(最疼的, 最高级, [], "疼的").
+entry(高粱, n, [高粱们], "高粱").
+条目(高粱, 名词, [高粱们], "一种谷物草")。
+entry(sorgo, n, [高粱品种], "一种高粱品种").
+entry(sori, pl, [], "泡囊的").
+entry(soricine, adj, [], "属于鼩鼱科的哺乳动物")
+条目(悚蹄, 名词, [悚蹄], "使马的前脚疼痛以迫使其高抬脚步的做法")。
+entry(模糊, n, [模糊], "在逻辑中使用的一种论证类型SORITIC 形容词").
+输入(sorn, v, [sorned,sorning,sorns], "强迫他人提供食物和住宿").
+entry(sorner, n, [sorners], "以借宿为目的旅行的人")。
+entry(高山症, n, [高山症], "高原反应").
+entry(姐妹的, 形容词, [], "如姐妹般的").
+entry(缔姻, n, [缔姻们], "一个男人通常与他已故妻子的姐妹结婚").
+entry(姐妹会, n, [姐妹会复数形式], "面向女性的社交俱乐部")。
+entry(妇女社团, n, [妇女社团], "或 女性俱乐部或社团").
+entry(吸附, n, [吸附作用], "吸附的行为或过程SORPTIVE 形容词").
+entry(酸模, n, [酸模s], "一种红棕色").
+entry(更抱歉的, 比较级, [], "抱歉的").
+entry(最对不起的, 最高级, [], "表示对不起").
+entry(悲伤地, 副词, [], "以一种悲伤的方式").
+entry(悲伤, v, [悲伤过,悲伤中,悲伤们], "悲痛").
+entry(哀伤者, n, [哀伤者们], "一个悲伤的人").
+entry(对不起, adj, [], "更抱歉 最抱歉 感到悲伤或悔恨").
+entry(sort, v, [已排序,排序中,排序], "根据种类、类别或大小进行排列SORTABLE 形容词SORTABLY 副词").
+entry(分类术语, n, [分类术语], "一个将实体归类为特定类型的术语").
+entry(分类器, n, [分类器], "排序者")。
+entry(sortes, npl, [], "通过在权威文本中随机选择一段进行占卜").
+entry(突袭, v, [突袭了,突袭中,突袭], "从防御位置突然攻击").
+入口(分类, n, [分类], "将项目分成组的过程")。
+entry(孢子囊群, n, [孢子囊], "植物繁殖体的群簇").
+entry(sot, n, [酒鬼], "习惯性醉汉").
+entry(soth, n, [soths], "真实").
+entry(sotol, n, [sotols], "一种开花植物").
+entry(醉醺醺的, 形容词, [], "神魂颠倒地 adv").
+entry(苏格兰人, 形容词, [], "类似于酒鬼").
+entry(苏, 名词, [苏], "曾用过的法国硬币").
+entry(souari, n, [souaris], "一种热带树木").
+entry(苏比斯, n, [苏比斯们], "洋葱和黄油酱").
+entry(苏卡尔, n, [苏卡尔们], "印度的银行家").
+条目(souchong, n, [souchongs], "中国茶").
+entry(苏丹, n, [苏丹们], "soldan").
+entry(舒芙蕾, n, [舒芙蕾], "一种轻盈的烤制菜品").
+entry(舒芙蕾, 形容词, [], "通过打发和烘烤使其松软").
+entry(嗖嗖, 动词, [嗖嗖作响, 嗖嗖, 嗖嗖声], "发出呻吟或叹息的声音").
+entry(寻找, 过去式, [], "seek的时态").
+条目(集市, 名词, [集市], "北非和中东的市场").
+entry(苏壳斯, n, [苏壳斯舞], "刚果民主共和国的一种舞蹈音乐")
+entry(灵魂, n, [灵魂们], "人类的精神方面，具有灵魂，无灵魂，像灵魂一样的形容词")
+entry(充满感情, 形容词, [], "充满情感").
+条目(灵魂伴侣, 名词, [灵魂伴侣们], "与某人完美契合的人")。
+entry(灵魂歌手, n, [灵魂歌手们], "灵魂音乐歌手")
+条目(声音, 形容词, [], "最响亮 最响亮地处于健康或良好状态")。
+```prolog
+entry(声音, v, [发声, 发声中, 发出声音], "使某物发出刺激听觉感受器的声音")。
+```
+entry(soundbox, n, [音箱], "乐器中的共鸣腔").
+entry(发声器, n, [发声器], "发出声音的东西").
+entry(发声, n, [发声们], "意见的采样").
+entry(沉稳地, 副词, [], "以一种稳健的方式").
+`entry(soundman, n, [录音师], "控制录音时声音质量的人").`
+条目(汤, 动词, [汤过, 汤中, 汤多], "增加动力或效率").
+entry(微量, n, [微量], "微小的量").
+entry(无汤, 形容词, [], "没有汤，一种液体食物，通常含有固体成分")。
+entry(souplike, 形容词, [], "类似汤").
+entry(soupy, adj, [], "SOUPIER SOUPIEST雾蒙蒙SOUPILY adv").
+条目(酸, 形容词, [], "更酸 最酸尖或辛辣的味道").
+entry(酸, v, [变酸,酸化,变得酸], "使变酸或变得酸").
+条目(酸球, n, [酸球们], "一种酸味糖果")。
+entry(来源, v, [来源地, 来源, 来源地], "从起点获得").
+entry(采购, n, [采购], "从原点获得某物的行为")
+entry(弱音器, n, [弱音器们], "sordine").
+条目(山茱萸, n, [山茱萸们], "北美东部的一种软木树").
+entry(微酸, 形容词, [], "有点酸").
+entry(酸溜溜地, 副词, [], "以酸的方式").
+entry(酸度, n, [酸味], "酸的质量或状态")。
+entry(脾气暴躁的人, n, [脾气暴躁的人们], "一个性情乖戾的人").
+entry(刺果番荔枝, n, [刺果番荔枝们], "一种热带树").
+entry(酸木树, n, [酸木树们], "一种开花的树").
+条目(腌制, 动词, [腌过, 正在腌, 腌制], "将某物浸入液体中")。
+entry(souser, n, [醉汉], "a drunkard").
+entry(黄鼠, n, [黄鼠们], "suslik").
+条目(绦带, n, [绦带], "一种扁平窄辫子").
+entry(长衣, n, [长衣], "一种教士服").
+entry(souter, n, [souters], "鞋匠").
+```prolog
+entry(南, 动词, [南行, 南走, 南奔], "向南方移动，即指南针的基本方位之一").
+```
+entry(南风, n, [南风们], "来自南方的风或风暴")。
+条目(南部, n, [南部人], "住在南方的人").
+entry(南行, 名词, [南行], "向南的移动").
+条目(惯用左手者, 名词, [惯用左手者们], "一个惯用左手的人").
+entry(南方人, 名词, [南方人们], "一个南方人").
+entry(纪念品, n, [纪念品们], "一个纪念物").
+entry(苏夫拉基, n, [苏夫拉基], "希腊式烤肉串").
+entry(苏维埃, n, [苏维埃], "共产主义国家的立法机构")。
+```prolog
+entry(sovkhoz, n, [国营农场], "或苏维埃集体农庄前苏联的国有农场").
+```
+entry(sovran, n, [统治者们], "君主").
+entry(至尊地, 副词, [], "至高无上地").
+entry(主权, n, [主权], "君主制")。
+entry(播种, v, [播种了, 已播种, 正在播种], "准备播种-把种子撒在土地上生长的过程-可播种 形容词").
+entry(扫恩斯, n, [扫恩斯], "扫恩斯").
+entry(索瓦尔, n, [索瓦尔], "印度的一个骑兵士兵").
+入口(沙洲, 名词, [沙洲], "一小段沙脊").
+entry(sowbelly, n, [sowbellies], "用盐腌制的猪肉").
+entry(仙茅, 名词, [仙茅类], "一种开花植物").
+entry(潮虫, n, [潮虫], "一种木虱").
+```prolog
+entry(汽车, n, [汽车], "轿车").
+```
+条目(索文斯, 名词, [索文斯], "由燕麦壳制成的粥").
+entry(播种者, n, [播种者们], "播种的人").
+entry(播种, n, [播种], "播撒种子的行为").
+entry(播种, 过去式, [], "播种的分词").
+entry(sox, a, [], "sock的复数").
+entry(大豆, n, [大豆], "大豆").
+entry(大豆, n, [大豆], "豆浆")。
+条目(大豆, n, [大豆], "一种栽培的亚洲草本植物的种子")。
+entry(豆粕, n, [豆粕], "从大豆籽中提取油后的残渣")
+条目(豆浆, n, [豆浆], "一种用大豆制成的牛奶替代品")。
+条目(联盟号, 名词, [联盟号们], "前苏联的一种载人飞船")。
+条目(sozin, n, [sozins], "一种蛋白质")。
+entry(索津, n, [索津们], "索津").
+词条(醉醺醺, 形容词, [], "醉").
+entry(温泉, n, [温泉], "一个矿泉").
+条目(空间, v, [已间隔, 间隔中, 空格], "设置一些距离分开")。
+entry(天宫, n, [天宫号], "配备实验室的航天器").
+词条(宇航员, 名词, [宇航员们], "宇航员")。
+entry(间隔器, n, [间隔器], "进行间隔的东西").
+entry(spacey, adj, [], "在行为上怪异的。").
+entry(空间的, 形容词, [], "spatial").
+条目(间距, n, [间距], "任何两个物体之间的距离")。
+entry(宽敞, 形容词, [], "范围广泛或充足").
+entry(腻子, v, [腻子过的, 腻子中, 腻子], "用膏体填补表面裂缝或孔洞").
+entry(spacy, 形容词, [], "SPACIER SPACIESTspacey").
+entry(锹, v, [锹过,锹掘,锹], "用锹这种挖掘工具挖起")。
+entry(spadeful, n, [铁锹铲], "一个铁锹可以握住的东西").
+条目(铲斗, 名词, [铲斗们], "一个铲土的人")。
+入口(雄蕊, 复数, [], "雄花序的").
+入口(黑桃A, n, [黑桃As], "某些纸牌游戏中的最高王牌").
+条目(挖掘, 现在时, [], "spade的分词").
+入口(花序, 名词, [spadixes], "或 SPADICESa 花簇")。
+entry(阉人, n, [阉人], "被阉割的男人或动物")。
+entry(spae, v, [spaed,spaeing,spaes], "预言").
+entry(间隔, n, [间隔s], "预言的行为").
+条目(面疙瘩, 名词, [面疙瘩们], "一种小饺子")。
+entry(紫金术, n, [炼金术士], "精通炼金术的人").
+entry(斯帕希, n, [斯帕希们], "斯帕希").
+entry(土耳其骑兵, n, [土耳其骑兵], "一个土耳其骑兵")
+entry(spail, n, [spails], "广阔").
+entry(急流, 名词, [急流们], "急流").
+词条(说, a, [], "speak的过去式").
+entry(小胶球, n, [小胶球], "一个小的空心橡胶球").
+条目(碎屑, 名词, [碎屑], "木屑或碎片").
+entry(崩解, v, [已崩解, 正在崩解, 崩解], "分裂成碎片").
+`entry(spaller, n, [spallers], "一个破裂的人").`
+入口(剥落, n, [剥落物], "一片石头或矿石").
+entry(小淘气, n, [小淘气们], "一个无赖")。
+条目(腐烂, 形容词, [], "指由于真菌腐烂而导致的不规则线条的木材")。
+entry(垃圾邮件, v, [发送垃圾邮件, 发送中垃圾邮件, 垃圾邮件], "向大量地址发送未经请求的电子邮件").
+entry(spambot, n, [垃圾邮件机器人], "一个发送垃圾邮件的计算机程序")。
+入口(垃圾邮件发送者, n, [垃圾邮件发送者们], "一个发送垃圾邮件的人").
+entry(垃圾邮件, n, [垃圾邮件], "发送未经请求的电子邮件的行为").
+entry(跨度, v, [跨越,扩展,跨], "延伸到或穿过").
+entry(羈絆, v, [羈絆了,羈絆中,羈絆們], "或 羈絆了 羈絆中 羈絆們用繩子綁住或約束").
+entry(氨纶, n, [氨纶纤维], "一种合成弹性纤维SPANDEXED adj").
+entry(拱肩, n, [拱肩], "两个相邻拱之间的空间")。
+entry(屋顶边拱, n, [屋顶边拱], "拱肩").
+entry(直接, 副词, [], "直接").
+```prolog
+entry(饰片, 动词, [饰片过, 装饰着, 饰片化], "用闪烁的金属片装饰").
+```
+entry(闪亮的, adj, [], "较闪亮 最闪亮 布满亮片").
+entry(西班牙猎犬, n, [西班牙猎犬们], "一种毛发柔滑的狗").
+entry(打屁股, v, [打过屁股, 打屁股, 打屁股], "拍打臀部").
+条目(惩罚者, n, [惩罚者们], "进行惩罚的人").
+```prolog
+entry(打屁股, n, [打屁股], "拍打别人的行为").
+```
+entry(没有范围的, 形容词, [], "没有范围").
+entry(跨越, 过去, [], “span的时态”).
+entry(扳手, n, [扳手们], "可以跨越的东西")。
+entry(延伸, 现在, [], "span 的分词").
+entry(尺蛾幼虫, n, [尺蛾幼虫们], "一种尺蠖").
+入口(麻雀, 动词, [麻雀斗, 斗麻雀, 麻雀], "以支柱状的粗杆支持索具").
+条目(稀释, 名词, [稀释物], "一种钉子").
+entry(备用, 形容词, [], "备用的 备用的最贫乏的 贫乏地 副词").
+entry(备用, v, [备用了,备用中,备用], "避免惩罚、伤害或摧毁").
+entry(节俭者, n, [节俭者们], "一个节俭的人").
+entry(排骨, n, [排骨], "猪肉的切块").
+条目(撒, 动词, [撒上, 撒着, 撒], "撒到").
+entry(sparger, n, [spargers], "喷洒器").
+entry(sparid, n, [sparids], "一种海洋鱼类家族中的任何一种").
+entry(节约, 现在, [], "spare的分词形式").
+entry(喷火, v, [喷出火花, 喷火中, 喷火], "发出火花，小的火热颗粒").
+entry(sparker, n, [火花器], "引发火花的东西").
+entry(比较明亮,比较级, [], "明亮的").
+entry(最有活力, 最高级, [], "活泼的").
+entry(活泼地, 副词, [], "以活泼的方式").
+entry(聪明帅气, 形容词, [], "活泼").
+```prolog
+条目(闪烁, 动词, [闪烁, 闪烁, 闪烁们], "发出或反射光芒").
+```
+entry(烟花棒, n, [烟花棒们], "一些闪耀的东西").
+entry(sparklet, n, [小火花], "a small spark").
+entry(sparkly, 形容词, [], "SPARKLIER SPARKLIEST倾向于闪烁").
+entry(sparky, adj, [], "更加有活力 最有活力活泼").
+entry(sparlike, 形容词, [], "类似于桅杆").
+entry(sparling, n, [小青鱼], "一种幼鱼").
+entry(鯛魚類, n, [鯛魚類], "一種鯛科魚").
+条目(交手, 过去式, [], "交手的时态").
+entry(搏斗, 现在, [], "spar的分词")
+词条(麻雀, 名词, [麻雀们], "一种小鸟")。
+条目(sparry, 形容词, [], "SPARRIER SPARRIEST 类似 spar 的光泽矿物")。
+条目(稀疏, 形容词, [], "稀疏更稀疏最稀薄分布稀疏地 副词").
+条目(稀疏性, n, [稀疏性], "稀疏的质量或状态")。
+entry(斯巴达的, 形容词, [], "避免奢侈和舒适").
+入口(盐沼草, 名词, [盐沼草群], "滨海地区的一种盐沼草")。
+entry(痉挛, v, [痉挛了,痉挛中,痉挛], "经历不由自主的肌肉收缩").
+entry(痉挛性瘫痪者, n, [痉挛性瘫痪者们], "患有肌痉挛性瘫痪的人").
+entry(拍打, 动词, [拍打过,拍打中,拍打], "轻轻地打击").
+entry(洪水, n, [洪水们], "一次洪水").
+entry(佛焰苞, n, [佛焰苞], "某些植物的叶状器官佛焰瓣状 佛焰苞的 叶片状 adj").
+```prolog
+entry(非晶, 形容词, [], "星星般的").
+```
+entry(空间, 形容词, [], "有关空间的").
+条目(争吵过, 过去, [], "spat 的时态")。
+entry(飞溅, 动词, [飞溅了, 飞溅着, 飞溅], "散落成滴").
+entry(争吵, 现在时, [], "spat 的分词")。
+实体(刮铲, n, [刮铲], "一种混合工具刮铲 adj")。
+entry(斯帕策尔, n, [斯帕策尔们], "施佩茨莱").
+entry(spavie, n, [spavies], "软骨病 adj").
+条目(跛行, n, [跛行症], "一种马的疾病跛行 adj").
+entry(产卵, 动词, [产卵了,产卵中,产卵], "产卵").
+入口(产生者, n, [产生者们], "一个产生的东西")。
+entry(绝育, 动词, [已经绝育, 正在绝育, 进行绝育], "去除卵巢").
+entry(说, v, [说过,说过,说着], "说话发声").
+entry(说话者, n, [说话者们], "讲述的人").
+entry(谈话, n, [谈话们], "一个演讲或论述")。
+entry(spean, v, [speaned,speaning,speans], "断奶").
+entry(矛, 动词, [刺穿了, 刺穿中, 刺穿], "用矛这种长而尖的武器刺穿").
+entry(矛客, n, [矛客们], "用矛刺的人").
+入口(鱼枪, n, [鱼枪], "发射鱼叉的枪").
+```prolog
+entry(用矛刺, n, [用矛刺的行为], "用矛刺穿的行为").
+```
+entry(矛兵, n, [矛兵们], "持矛的人").
+`entry(spec, v, [规范化, 规范中, 规范化], "编写规范").`
+entry(特别, 形容词, [], "独特种类或特性").
+入口(特别, 名词, [特别的事物], "一个特别的人或事物")。
+entry(物种形成, 动词, [物种形成了, 物种形成中, 物种形成为], "经历一种进化过程")。
+entry(物种, 名词, [物种], "铸币").
+entry(具体的, n, [细节], "针对特定疾病的治疗方法")。
+entry(指定, v, [指定, 确定, 详述], "详细说明").
+entry(标本, n, [标本], "代表一个群体或整体的部分或个体").
+entry(似是而非的, 形容词, [], "具有虚假的真实性或真实性").
+entry(speck, v, [specked,specking,specks], "用小斑点标记").
+entry(斑点, v, [斑点的,斑点中,斑点们], "形成斑点").
+条目(specky, adj, [], "SPECKIER SPECKIEST有小斑点的").
+```prolog
+词条(观看, 动词, [观看过, 正在观看, 观看], "参加和观看").
+```
+条目(幽灵, n, [幽灵们], "一个可见的无实体灵魂").
+entry(光谱, a, [], "光谱的复数").
+条目(幽灵般的, 形容词, [], "类似幽灵的").
+entry(幽灵, n, [幽灵们], "幽灵").
+entry(光谱, n, [光谱], "或 SPECTRA光波成分的数组")
+entry(speculum, n, [speculums], "或 SPECULA一种医疗器械SPECULAR 形容词").
+entry(言语, 名词, [言语], "说话的能力或行为")。
+entry(速度, v, [加速, 加速中, 加速], "快速移动")
+entry(超速者, n, [超速者们], "一个超速的人").
+条目(更快的, 比较级, [], "属于快速" ).
+entry(最快, 最高級, [], "快速的").
+条目(迅速地, 副词, [], "以快速的方式")。
+入口(超速, n, [超速s], "驾驶速度超过法律允许的行为")
+entry(速度表, n, [速度表], "车速表").
+条目(加速, n, [加速], "在不增加工资的情况下提高生产速度")。
+entry(高速公路, n, [高速公路], "用于快速旅行的道路").
+`entry(speedy, 形容词, [], "更快捷 最快捷敏捷").`
+条目(攀爬, 动词, [攀爬了, 攀爬中, 攀爬], "攀登")。
+entry(speer, v, [探听, 查询中, 探查], "查询").
+entry(探寻, n, [探寻们], "询问").
+entry(speil, v, [speiled,speiling,speils], "蹦跳").
+entry(speir, v, [speired,speiring,speirs], "询问").
+entry(菜肴, n, [菜肴的], "菜").
+entry(硫锑合金, n, [硫锑合金的], "通过冶炼某些矿石获得的金属混合物").
+entry(洞穴的, 形容词, [], "洞穴的").
+entry(spelean, 形容词, [], "居住在洞穴中").
+entry(拼写, v, [拼写了, 拼写中, 拼写们], "按顺序命名或书写字母").
+entry(拼写者, n, [拼写者们], "拼写单词的人").
+entry(拼写, n, [拼写法], "构成单词的一串字母").
+entry(斯佩尔特, n, [斯佩尔特], "一种小麦").
+entry(锌锭, n, [锌锭], "锌块形式的锌").
+entry(斯佩尔茨, n, [斯佩尔茨斯], "斯佩尔特").
+entry(探洞, 动词, [探洞过, 探洞中, 探洞], "探查洞穴").
+条目(斯宾塞, 名词, [斯宾塞们], "储藏室").
+entry(斯宾塞, n, [斯宾塞斯], "一个三角帆")。
+entry(花费, v, [花费,花费中,花费的], "支付").
+```
+条目(挥霍者, n, [挥霍者们], "一个花钱的人").
+```
+入口(花费, 形容词, [], "更花费 最花费昂贵").
+entry(spense, n, [spenses], "spence").
+条目(花费, 过去式, [], "spend的时态").
+entry(精子, n, [精子], "雄性配子SPERMIC 形容词").
+entry(精巢, n, [精巢], "形成精子的器官")
+条目(精胺, n, [精胺们], "一种化合物").
+entry(精子状, adj, [], "类似或由精子组成的").
+条目(呕吐, 动词, [呕吐了, 呕吐中, 呕吐], "呕吐").
+入口(喷出者, 名词, [喷出者们], "喷出物体的人或物").
+entry(泥炭藓, n, [泥炭藓类], "一种灰色的苔藓").
+entry(硅线石, n, [硅线石类], "一种矿物").
+词条(楔形, 形容词, [], "楔状的").
+entry(蝶骨, n, [蝶骨], "颅骨的一块骨头").
+entry(球形, 形容词, [], "与球体相关或具有球体形状的").
+entry(球体, v, [形成球体, 形成球体中, 形成球体], "形成一种几何立体的球体").
+entry(球形, adj, [], "球形").
+entry(球面几何, 复数, [], "一个球面上图形的几何学").
+entry(spherier, 比较级, [], "of sphery").
+entry(spheriest, 最高级, [], "的球形").
+entry(球面化, 现在时, [], "球面形式的分词").
+条目(椭球体, 名词, [椭球体们], "一种几何实体类型").
+条目(小球, n, [小球], "一个小的球体")。
+entry(sphery, adj, [], "类似于球体").
+```
+条目(斯芬克司, a, [], "斯芬克司的复数").
+```
+条目(sphingid, n, [sphingids], "天蛾")。
+entry(狮身人面像, n, [狮身人面像们], "或称为SPHINGES，埃及神话中的怪物")
+Prolog(entry, n, [搏动], "脉搏".)
+entry(sphynx, n, [sphynxes], "一种无毛猫品种的猫").
+entry(室女座α, 名词, [穗], "或称穗状花序的谷穗, 穗状的, 穗状的 形容词").
+entry(跳弓, n, [跳弓们], "演奏弦乐器的方法").
+entry(香料, v, [调味, 调味中, 香料], "用芳香蔬菜物质调味")。
+entry(斯派塞尔, n, [斯派塞尔们], "一个调味者")。
+入口(香料, n, [香料], "辛辣的特性")。
+`entry(辣, 形容词, [], "更辣 最辣辣").`
+entry(更辣, 比较级, [], "辣的").
+entry(最辣的, 最高级, [], "辣的").
+entry(辣地, 副词, [], "以辣的方式").
+词条(参与调味, 现在时, [], "spice的分词").
+entry(针状体, n, [针状体们], "针状体SPICULAR adj").
+入口(细针, n, [细针们], "针状结构")。
+entry(spiculum, n, [spicula], "小尖刺").
+entry(辣, 形容词, [], "更辣 最辣含香料").
+```prolog
+词条(蜘蛛, 动词, [蜘蛛过, 蜘蛛着, 蜘蛛们], "以迅速的方式移动").
+```
+entry(蜘蛛般的, 形容词, [], "更蜘蛛般 最蜘蛛般 类似于蜘蛛 一种节肢动物").
+entry(偷看, 过去时, [], "spy的时态").
+条目(镜子, n, [镜子们], "一种铸铁类型").
+entry(戏, 动词, [戏了, 戏着, 戏们], "长时间地讲话").
+entry(玩家, n, [玩家们], "一个玩游戏的人").
+entry(斯皮尔, v, [斯皮尔过, 斯皮尔中, 斯皮尔们], "去问").
+entry(间谍, 现在, [], "第三人称单数形式，动词spy")。
+条目(spiff, v, [spiffed, spiffing, spiffs], "使整洁")。
+entry(出色的, 形容词, [], "漂亮的").
+入口(时髦的, 动词, [打扮, 打扮中, 时髦的们], "使时尚").
+条目(出色, 形容词, [], "更出色的 最出色的 时尚 出色地 副词").
+entry(龙头, n, [龙头], "水龙头").
+入口(针, v, [钉住, 钉住中, 钉住们], "用钉子钉住一个长而厚的钉子")。
+入口(小穗, 名词, [小穗], "一种花序").
+入口(钉子手, 名词, [钉子手们], "一个钉子的使用者")。
+```prolog
+入口(spikey, 形容词, [], "更尖更尖锐的spiky")。
+```
+entry(激增, 现在, [], "钉住的分词形式").
+entry(尖刺的, 形容词, [], "更尖刺 最尖刺 类似于尖刺 尖刺地 adv").
+入口(塞子, 动词, [塞住了, 正在塞, 塞住], "用木塞堵住")。
+条目(拼拣, n, [拼拣游戏], "用于游戏的一片木条").
+entry(立柱, n, [立柱们], "一根立柱")。
+条目(霓辉岩, 名词, [霓辉岩], "一种玄武岩 SPILITIC adj")。
+entry(洒, v, [洒了, 正在洒, 洒], "使流出容器").
+entry(溢出物, n, [溢出物们], "被溢出的东西").
+entry(溢出者, n, [溢出者], "一个溢出东西的人").
+入口(水闸, 名词, [水闸], "水库中用于多余水的通道")。
+entry(泼洒, a, [], "spill的过去式").
+entry(溢出物, n, [溢出物们], "泄漏").
+入口(旋转, 动词, [旋转, 旋转中, 旋转s], "抽出并拧成线").
+入口(菠菜, n, [菠菜们], "一种培育的草本植物菠菜 adj")。
+entry(菠菜, n, [spinages], "spinach").
+entry(脊髓, n, [脊髓麻醉], "将麻醉剂注射到脊髓中")
+entry(脊髓, 副词, [], "关于脊柱").
+entry(菠菜, 形容词, [], "带刺的").
+entry(纺锤, v, [纺制,纺绕,纺锤], "刺穿在细杆上").
+entry(spindler, n, [spindlers], "纺锤者").
+entry(纤细的, 形容词, [], "更纤细的 最纤细的长而细长").
+entry(脊柱, n, [脊柱], "脊柱SPINED adj").
+entry(尖晶石, n, [尖晶石], "一种矿物").
+entry(尖晶石, n, [尖晶石们], "尖晶石").
+entry(小型竖琴, n, [小型竖琴], "小型钢琴")。
+entry(多刺的, 比較級, [], "的多刺").
+entry(最刺, 最高级, [], "的刺").
+```prolog
+entry(spinifex, n, [spinifexes], "一种澳大利亚草").
+```
+entry(无自旋, 形容词, [], "没有旋转").
+条目(旋转器, n, [旋转器], "一个旋转的东西")。
+entry(纺纱厂, n, [纺纱厂], "纺织厂").
+入口(Spinney, 名词, [Spinney们], "灌木丛")
+entry(spinning, n, [spinnings], "纺纱的人所做的动作").
+entry(Spinny, 名词, [复数形式：spinnies], "spinney").
+entry(spinny, adj, [], "愈旋愈愚痴").
+entry(spinoff, n, [spinoffs], "一个新的应用或附带结果").
+条目(旋量, n, [旋量], "一种数学向量类型")。
+entry(多刺, adj, [], "多刺的").
+entry(spinous, 形容词, [], "多刺的").
+条目(失控, 名词, [失控], "汽车的旋转滑行").
+entry(老处女, n, [老处女们], "一个过了适婚年龄的未婚女性").
+entry(spinto, n, [spintos], "一种既抒情又戏剧化的歌唱声音").
+entry(spinula, n, [spinulae], "小刺").
+条目(spinule, n, [spinules], "一个小刺").
+entry(带刺的, 形容词, [], "带刺更多，最带刺，带有或覆盖有刺的").
+入口(spiracle, n, [spiracles], "通过其进行呼吸的孔口")。
+入口(绣线菊, n, [绣线菊], "spirea").
+entry(螺旋, v, [螺旋,螺旋中,螺旋们], "或 螺旋着 螺旋在 螺旋向像螺旋移动的平面曲线类型")。
+entry(旋转地, 副词, [], "以螺旋方式").
+entry(擦音, n, [擦音们], "通过狭窄通道强迫气流产生的发音").
+入口(尖塔, v, [尖塔状上升, 逐渐尖塔化, 尖塔], "以逐渐变尖的方式上升").
+entry(绣线菊, n, [绣线菊], "一种开花的灌木").
+entry(spirem, n, [spirems], "spireme").
+entry(丝状体, n, [丝状体], "在有丝分裂过程中形成细胞核一部分的细丝").
+entry(spirier, 比较级, [], "of spiry").
+entry(最高, 最高级, [], "高尖的").
+入口(螺旋菌, 复数, [], "螺旋状扭曲需氧菌").
+entry(spir现, 现在, [], "spire的分词").
+条目(精神, 动词, [兴致勃勃的, 激励, 精神], "秘密地带走")。
+entry(灵魂, n, [灵魂], "精神").
+词条(螺旋状, 形, [], "像螺旋").
+条目(喷出, v, [喷出,喷出着,喷出们], "突然喷出").
+entry(螺旋螺, n, [螺旋螺], "或 SPIRULAE 一种螺旋壳的软体动物")。
+entry(尖塔形, 形容词, [], "较尖塔形的 最尖塔形的 高瘦且渐尖").
+入口(吐痰, 动词, [吐痰过去式, 吐痰进行时, 吐痰单数第三人称], "用尖杆穿刺转动肉").
+entry(医院, 名词, [医院], "一个医院")。
+entry(纸团, n, [纸团们], "一种棒球投球方式")。
+entry(怨恨, v, [怨恨了,怨恨着,怨恨们], "以恶意对待").
+词条(恶意的, 形容词, [], "更恶意 最恶意恶毒").
+entry(喷火器, n, [喷火器们], "性情急躁的人").
+条目(吐痰, 过去, [], "吐的时态")。
+entry(吐弹, n, [吐弹人], "一个吐球")。
+entry(吐痰, 现在时, [], "spit 的分词").
+entry(唾液, n, [唾沫], "唾液SPITTLY adj").
+条目(痰盂, n, [痰盂], "唾液的容器").
+条目(唾沫, 形容词, [], "更有唾沫 最有唾沫标记有唾液").
+entry(斯皮茨犬, n, [斯皮茨犬们], "一只拥有浓厚被毛的狗").
+entry(spiv, n, [spivs], "不道德的小罪犯SPIVVISH 形容词").
+entry(spivvy, 形容词, [], "SPIVVIER SPIVVIEST在着装或行为上像小白脸").
+条目(鳟鲑鱼, 名词, [鳟鲑鱼], "一种淡水鱼").
+entry(泼洒, v, [泼洒了, 正在泼洒, 泼洒], "将液体洒开").
+entry(飞溅者, n, [飞溅者们], "一个飞溅的东西").
+入口(泼洒的, 形容词, [], "更泼洒的 最泼洒的耀眼的")。
+入口(splat, v, [splatted,splatting,splats], "撞击时变平").
+entry(泼洒, v, [泼洒了,泼洒着,泼洒], "溅射").
+entry(播放, v, [展开,展开中,展开], "展开").
+entry(脾脏, n, [脾脏], "身体的无管器官").
+entry(spleeny, 形容词, [], "SPLEENIER SPLEENIEST暴躁").
+entry(壮丽, 形容词, [], "更壮丽 最壮丽magnificent").
+entry(壮丽, n, [壮丽们], "壮观").
+entry(腱膜, 形容词, [], "属于脑桥").
+entry(脾脏的, 形容词, [], "有关脾脏的").
+entry(胼胝体, n, [胼胝体们], "或 SPLENIUMS手术绷带")。
+entry(颈夹肌, n, [颈夹肌们], "颈部的肌肉").
+entry(splent, n, [夹板], "夹板").
+条目(连接, 动词, [连接了, 连接中, 连接们], "把两端连接起来")
+entry(拼接器, n, [拼接器们], "一个进行拼接的人").
+entry(大麻烟, n, [大麻烟], "一个大麻香烟").
+entry(样条, v, [样条连接,样条化,样条], "提供样条连接两个旋转机械零件的键").
+entry(夹板, v, [夹板了,夹板中,夹板], "用夹板支撑一块薄木片")。
+entry(裂片, v, [裂片了,正裂片,裂片], "分裂成狭长尖锐的碎片")。
+entry(分裂, v, [分裂, 分裂中, 分裂], "沿长度分开").
+entry(分裂器, n, [分裂器们], "一个分裂的东西").
+条目(污点, 动词, [污点的, 正在污点, 污点], "弄上污点").
+entry(splodgy, 形容词, [], "SPLODGIER SPLODGIESTsplotchy").
+`条目(splore, n, [splores], "旋转木马").`
+输入(splosh, 动词, [溅洒,溅洒中,溅洒s], "溅洒").
+`输入(斑点, 动词, [斑点的, 斑点中, 斑点], "用大型不规则的斑点标记").`
+entry(斑驳的, 形容词, [], "更斑驳的 最斑驳的斑驳的")
+entry(挥霍, v, [挥霍了,挥霍中,挥霍], "奢侈地花钱").
+条目(挥霍者, n, [挥霍者们], "很奢侈的人").
+条目(挥霍无度, 形容词, [], "较挥霍无度 最挥霍无度，倾向于挥霍")。
+entry(迸发, v, [迸发了,迸发中,迸发], "喷涌而出，形成一股流或射流").
+条目(溅射, 动词, [溅射了, 溅射中, 溅射], "快速且语无伦次地说话").
+entry(spode, n, [spodes], "精美瓷器").
+```prolog
+entry(钙质土, n, [钙质土们], "一种酸性森林土壤").
+```
+entry(损坏, 动词, [损坏了, 损坏着, 损坏], "降低价值或质量的").
+entry(变质, n, [变质物], "被损坏或浪费的东西")
+entry(扰流板, n, [扰流板], "一个破坏者").
+entry(辐条, v, [辐条了, 辐条着, 辐条们], "为轮子的轮辋提供支撑的辐条杆").
+条目(说话, 过去时, [], "speak的过去分词").
+entry(抢劫, v, [被抢劫, 正在抢劫, 抢劫], "进行抢劫").
+entry(重音, n, [重音词], "抑抑格").
+条目(斯朋代, 名词, [斯朋代], "一种韵律脚").
+entry(海绵, v, [], "擦拭用海绵吸水材料的块状物").
+entry(海绵动物, n, [海绵动物们], "吸取他人利益者").
+入口(较多孔的, 比较级, [], "多孔的").
+entry(海绵状的最高级, 最高级, [], "海绵状的").
+entry(海绵状, 副词, [], "以海绵状的方式").
+entry(海绵蛋白, 名词, [海绵蛋白质], "一种纤维材料").
+entry(吸水, 现在时, [], "海绵的分词").
+entry(海绵状, 形容词, [], "类似于海绵").
+条目(婚姻的, 形容词, [], "与婚姻有关").
+词条(赞助, 名词, [赞助活动], "赞助行为")。
+条目(纵向翼, 名词, [纵向翼], "船侧的突出部分")。
+条目(赞助者, v, [赞助,赞助中,赞助者], "使自己负责任").
+entry(斯邦通, n, [长矛状武器], "一种类似矛的武器").
+entry(恶搞, v, [恶搞了,恶搞着,恶搞], "以玩笑方式嘲弄").
+entry(欺骗者, n, [欺骗者], "一个进行欺骗的人").
+入口(恶作剧, 名词, [恶作剧], "善意的嘲讽")。
+词条(幽默讽刺, 形容词, [], "幽默讽刺").
+entry(惊吓, v, [惊吓了, 正在惊吓, 惊吓们], "去恐吓").
+entry(幽灵之地, n, [幽灵之地们], "可怕的东西")。
+入口(幽灵般, 形容词, [], "令人毛骨悚然")。
+词条(恐怖, 形容词, [], "更恐怖 最恐怖可怕诡异地 副词")。
+entry(卷筒, 动词, [卷起, 卷动, 卷筒], "卷绕至一个小圆柱上")。
+entry(假脱机程序, n, [假脱机程序们], "一个进行假脱机操作的程序").
+entry(假脱机, n, [假脱机的], "用于后续输出的数据临时存储").
+entry(汤匙, v, [用汤匙取, 用汤匙取中, 用汤匙取], "用勺子取一种餐具").
+入口(湯匙自己, 名詞, [湯匙們], "一個以愛慕方式行為者")。
+entry(斯普尼, 形容词, [], "更斯普尼 最斯普尼斯普尼").
+条目(愚笨的人, 名词, [愚笨的人们], "一个愚笨的人").
+entry(勺子, n, [勺子们], "或勺子们，勺子能盛的量").
+`entry(汤匙, 一种, [], "汤匙的复数形式").`
+entry(spoony, adj, [], "SPOONIER SPOONIEST过于感伤SPOONILY adv").
+`entry(spoony, n, [spoonies], "痴情的人").`
+入口(踪迹, 动词, [踪迹过, 追踪, 踪迹们], "追踪动物").
+入口(踪迹者, n, [踪迹者们], "追踪者").
+entry(零星, 形容词, [], "不定期发生").
+entry(孢子的, 形容词, [], "关于、与孢子有关或类似于孢子的").
+入口(孢子, 动词, [孢子化, 孢子化中, 孢子], "产生孢子，通常是无性单细胞的繁殖体")。
+entry(孢子状, 形容词, [], "类似孢子").
+entry(孢子虫, npl, [], "寄生单细胞动物").
+入口（sporran，n，[sporrans]，“苏格兰高地人佩戴的大钱包”）。
+入口(运动, v, [游戏过,游戏中,游戏], "嬉戏").
+entry(运动者, n, [运动者们], "从事体育活动的人").
+entry(运动的, 形容词, [], "运动型").
+```prolog
+entry(运动员, n, [运动员们], "活跃或对体育竞赛感兴趣的人").
+```
+entry(好动, 形容词, [], "顽皮").
+entry(sporty, adj, [], "更有运动感的 最有运动感的 华丽的 运动地 adv").
+entry(sporule, n, [孢子体], "a small sporeSPORULAR adj").
+entry(spot, v, [spotted,spotting,spots], "用小圆形的污渍标记").
+entry(spotless, 形容词, [], "完美无瑕").
+entry(spotlit, a, [], "spotlight 的过去式").
+词条(spotter, 名词, [spotters], "发现者").
+entry(观察, n, [观察活动], "观察某事例的行为或实践").
+entry(spotty, adj, [], "SPOTTIER SPOTTIESTmarked with spotsSPOTTILY adv").
+条目(配偶, 名词, [配偶们], "婚姻")。
+`entry(配偶, v, [已婚, 结婚中, 结婚], "结婚").`
+入口(嘴, 动词, [喷出, 喷出着, 喷], "以快速流喷出")。
+入口(喷口, 名词, [喷口们], "一个喷出物体的人或物")。
+入口(喷水, n, [喷水管], "屋顶排水的通道")。
+entry(伸开, v, [伸开了, 伸开的, 伸开], "跨骑").
+```prolog
+entry(sprag, n, [止回器], "用于防止车辆倒退的装置").
+```
+条目(扭伤, 动词, [扭伤了, 正在扭伤, 扭伤], "因突然而剧烈的扭曲或扳动而变得虚弱")。
+条目(交织, 名词, [交织物], "一种编织技术形成网状镂空").
+条目(鳀鱼, 名词, [鳀鱼], "一种小鲱鱼").
+条目(喷洒, 动词, [喷洒了, 喷洒中, 喷洒们], "挣扎").
+```prolog
+entry(蔓延, v, [蔓延了,蔓延着,蔓延], "不雅地伸展").
+```
+entry(蔓延者, n, [蔓延者们], "一种蔓延的人或物").
+条目(宽广的, 形容词, [], "更宽广 最宽广 倾向于散开").
+entry(喷洒, v, [已喷洒, 正在喷洒, 喷洒], "分散为细小的颗粒").
+entry(喷雾器, n, [喷雾器], "喷洒的设备").
+输入(传播, 动词, [传播,传播,传播], "在更大的范围内打开或扩展").
+条目(传播者, n, [传播者], "一个传播的东西")。
+```prolog
+词条(狂欢, 名, [狂欢], "不受限制地沉迷于某种活动").
+```
+条目(sprent, 形容词, [], "洒在上面")。
+entry(更活泼, a, [], "活泼的比较级").
+entry(精力充沛的最高级, a, [], "精力充沛的最高级").
+entry(sprig, v, [用小钉钉住, 钉住, 钉住], "用小钉将物品固定").
+entry(捆扎者, n, [捆扎者们], "用于捆扎的人或物").
+条目(斯普里奇, 形容词, [], "有小树枝的斯普里吉尔斯普里吉埃斯特").
+entry(活泼, n, [活泼的], "小精灵").
+条目(春天, v, [弹起,弹跳,弹簧], "突然迅速地向上移动")。
+entry(springal, n, [春小伙], "年轻人").
+entry(springe, v, [springed,springeing,springes], "用一种陷阱捕捉").
+entry(springer, n, [springers], "弹跳者").
+entry(弹簧状, 形容词, [], "更有弹性 最有弹性，富有弹性").
+条目(撒, 动词, [撒了, 撒着, 撒], "散布水滴或颗粒到上面").
+entry(sprint, v, [冲刺, 冲刺中, 冲刺], "以最快速度跑").
+entry(短跑运动员, n, [短跑运动员们], "一个短跑的人").
+entry(sprit, n, [sprits], "船用横杆").
+entry(小精灵, n, [小精灵们], "一个精灵或仙子").
+词条(精神饱满, 形容词, [], "更精神饱满 最精神饱满充满活力").
+entry(喷洒, v, [喷洒了, 喷洒中, 喷洒], "喷射").
+entry(spritzer, n, [汽酒], "白葡萄酒和苏打水的饮料").
+entry(斯普里齐, 形容词, [], "更雨雾喷洒的 最雨雾喷洒的").
+entry(链轮, n, [链轮s], "一种与链条链节啮合的齿状物").
+entry(儿童, n, [儿童], "一个小孩").
+entry(小子, n, [小子们], "一个小子").
+entry(萌芽, v, [萌发, 萌芽中, 萌芽], "开始生长").
+entry(云杉, 形容词, [], "整洁美观外表整洁地 adv").
+entry(云杉, 动词, [装饰, 装点, 打扮], "使整洁").
+entry(sprucy, adj, [], "SPRUCIER SPRUCIESTspruce").
+entry(热带口疮, 名词, [热带口疮], "一种热带疾病").
+entry(麻雀, 名词, [麻雀], "麻雀").
+entry(弹簧, a, [], "spring 的过去式").
+entry(spry, 形容词, [], "SPRYER SPRYEST 或 SPRIER SPRIESTnimbleSPRYLY 副词").
+entry(活力, 名词, [活泼], "充满活力或敏捷的状态或特质")
+```prolog
+词条(土豆, 动词, [去皮了, 正在去皮, 去皮], "用铲状工具去除").
+```
+entry(剥皮器, n, [剥皮器们], "一种用于从树上去除树皮的工具").
+入口(spudgel, n, [spudgels], "一个连在长杆上的桶")。
+entry(spue, v, [spued,spuing,spues], "喷涌").
+entry(意大利起泡酒, n, [意大利起泡酒复数], "一种意大利起泡酒").
+条目(泡沫, 动词, [起泡, 起泡中, 起泡], "起泡").
+条目(泡沫状的, 比较级, [], "泡沫状的").
+`entry(spumiest, superlative, [], "泡沫的").`
+条目(泡沫的, 现在, [], "泡沫的分词").
+entry(spumone, n, [spumones], "一种意大利冰淇淋").
+入口(意大利式雪糕, 名词, [意大利式雪糕], "意大利式冰淇淋").
+entry(泡沫的, 形容词, [], "泡状的").
+```prolog
+entry(spumy, 形容词, [], "SPUMIER SPUMIEST起泡的").
+```
+entry(旋转, 过去式, [], "旋转的时态").
+条目(spunk, v, [spunked,spunking,spunks], "开始燃烧")。
+entry(幽灵火, n, [幽灵火], "由沼气燃烧引起的光").
+入口(活泼, 形容词, [], "更加活泼 最活泼 勇敢地 活泼地 副词")。
+entry(马刺, 动词, [带动, 刺激, 刺励], "用马刺催促的骑手的鞭策工具")。
+```prolog
+entry(spurgall, v, [spurgalled,spurgalling,spurgalls], "用马刺伤害").
+```
+entry(大戟, n, [大戟属植物], "一种热带植物").
+entry(虚假, 形容词, [], "不真实的").
+entry(无刺, 形容词, [], "缺少刺").
+entry(唾弃, 动词, [唾弃了, 唾弃中, 唾弃], "以蔑视的态度拒绝").
+入口(唾弃者, 名词, [唾弃者们], "一个唾弃人的人").
+条目(激励, 过去, [], "spur的时态").
+entry(刺激者, n, [刺激者们], "激励的那个人").
+入口(马齿苋, n, [马齿苋属], "马齿苋").
+入口(spurrier, 名, [spurriers], "制作马刺的人").
+entry(促进, 现在, [], "spur 的分词").
+entry(藜芦草, 名词, [藜芦草们], "一种欧洲杂草").
+条目(激增, 动词, [激增了, 激增中, 激增], "涌出").
+entry(spurter, n, [spurters], "喷出者")。
+entry(斯普特尔, n, [斯普特尔们], "用于搅拌粥的棍子").
+入口(斯普特尼克, 名词, [斯普特尼克号], "苏联的人造地球卫星")。
+入口(溅射, v, [溅射了,溅射中,溅射], "以短促的爆发方式喷射粒子")。
+entry(喷溅, 形容词, [], "间歇性喷射").
+entry(痰, 名词, [痰], "唾液").
+entry(间谍, v, [监视,监视中,间谍], "秘密地观看").
+entry(望远镜, n, [望远镜], "一个小型望远镜").
+间谍软件(n, [spywares], "通过计算机软件秘密发送个人信息到另一台计算机").
+entry(乳鸽, n, [乳鸽], "一只幼鸽")。
+entry(争吵, v, [争吵过, 争吵中, 争吵], "争论").
+entry(短胖, 形容词, [], "更短胖 最短胖").
+entry(squad, v, [编组, 组建中, 小组], "形成小组，有组织的小团体").
+entry(新兵, n, [新兵们], "一个军队新兵").
+词条(士兵, 名词, [士兵们], "士兵").
+entry(中队, 动词, [中队化, 中队化中, 中队], "将军事组织单位排列成中队").
+输入 (角鲨烯, n, [角鲨烯], "一种化学化合物")。
+entry(污秽, 形容词, [], "更加污秽 最污秽由于忽视或贫穷导致的肮脏").
+入口(暴风, 动, [尖叫, 叫喊, 喊声], "大声哭泣或尖叫")。
+entry(尖叫者, n, [尖叫者们], "一个尖叫的东西").
+entry(狂风, 形容词, [], "更狂风 最狂风有阵风").
+```Prolog
+entry(肮脏, n, [肮脏], "肮脏的性质或状态").
+```
+入口(鳞片, n, [鳞片], "鳞片状 鳞状 adj")。
+entry(有鳞目, n, [有鳞目动物], "任何一种爬行动物的目").
+entry(浪费, 动词, [浪费了, 正在浪费, 浪费], "浪费地花费").
+```prolog
+条目(正方形, 形容词, [], "有四条相等的边和四个直角，严格传统")。
+```
+```prolog
+entry(平方, 形容词, [平方的, 正在平方, 平方的形式], "使之成为平方").
+```
+entry(正直地, 副词, [], "以直接和诚实的方式").
+```prolog
+条目(平方器, n, [平方器], "一个使…成平方者").
+```
+entry(squarest, 最高级, [], "of square").
+entry(求平方, 现在时, [], "square的分词").
+entry(方形的, 形容词, [], "有点方").
+entry(squark, n, [夸克素], "假设的玻色子类比夸克").
+entry(南瓜, 动词, [被压扁, 压扁中, 压扁者], "压成浆或扁平状").
+entry(压扁者, n, [压扁者们], "使某物变扁的人或物").
+entry(软绵绵, 形容词, [], "更软绵绵 最软绵绵柔软湿润").
+entry(蹲下, adj, [], "最矮的 矮小而结实的SQUATLY adv").
+条目(蹲, 动词, [蹲下, 正在蹲, 蹲下], "弯曲膝盖，以脚后跟坐下").
+entry(擅入者, v, [擅入,擅入中,擅入者], "在水中移动").
+入口(蹲, 形容词, [], "比较矮胖 最矮胖蹲").
+入口(squawk, v, [squawked, squawking, squawks], "发出刺耳的叫声")。
+entry(噪音者, n, [噪音者们], "发出刺耳声音的东西").
+entry(吱吱声, v, [吱吱叫, 吱吱作响, 发出吱吱声], "发出尖锐的高音").
+条目(吱吱响者, n, [吱吱响者们], "一个会吱吱响的东西")。
+entry(吱吱作响, adj, [], "更吱吱作响 最吱吱作响倾向于吱吱作响").
+entry(尖叫, v, [尖叫了, 尖叫中, 尖叫], "发出尖锐刺耳的叫声")。
+入口(尖叫者, 名词, [尖叫者们], "一个发出尖叫声的人").
+```prolog
+条目(squeegee, v, [squeegeed,squeegeeing,squeegees], "用刮水器擦拭一种用于从表面去除水的工具").
+```
+entry(压榨, v, [压榨了,压榨中,压榨], "用力按压").
+条目(榨汁器, 名词, [榨汁器], "用于榨汁的工具").
+```prolog
+条目(squeg, 动词, [squegged,squegging,squegs], "以不规则的方式振荡").
+```
+entry(压制, v, [压制了, 压制中, 压制], "压扁").
+entry(湿漉漉的, 形容词, [], "更湿漉漉的 最湿漉漉的squashy").
+entry(讽刺, 动词, [讽刺过, 讽刺中, 讽刺们], “讽刺”).
+entry(地滚球, n, [地滚球], "内野的滚地球变成安打").
+入口(鱿鱼, 动词, [捕鱿, 捕鱿中, 捕鱿], "捕捞十腕海洋软体动物鱿鱼")。
+entry(squidgy, 形容词, [], "SQUIDGIER SQUIDGIEST柔软 湿软")
+入账(醉酒的, 形容词, [], "醉").
+entry(squiffy, adj, [], "更醉，醉得最厉害").
+入口(涂鸦, 动词, [涂鸦过, 涂鸦中, 涂鸦], "扭动").
+entry(波浪形的, 形容词, [], "更波浪形的 最波浪形的扭动").
+```Prolog
+entry(squilgee, v, [squilgeed,squilgeeing,squilgees], "用橡皮刮水器清洁").
+```
+entry(squill, n, [穗花球兰], "一种欧亚草本植物").
+entry(海螂, n, [海螂], "或 SQUILLAE 一种穴居甲壳类动物").
+entry(弓顶, 动词, [弓顶的过去式, 弓顶的进行式, 弓顶的复数形式], "眯眼").
+entry(squinny, 形容词, [], "SQUINNIER SQUINNIESTsquinty").
+entry(眯眼, v, [眯了眼, 正在眯眼, 眯眼], "眯着眼睛看").
+entry(眯, 形容词, [], "眯眯眼 斜视").
+entry(眯眼, v, [眯着眼, 眯眼中, 眯眼], "半闭着眼睛看").
+entry(眯眼者, n, [眯眼者们], "眯眼的人").
+entry(squinty, 形容词, [], "SQUINTIER SQUINTIESTmarked by squinting").
+entry(侍从, v, [侍从, 侍从中, 侍从们], "作为侍从护送").
+入口(小地主, 名词, [小地主们], "小型地产的拥有者")。
+entry(squirely, 形容词, [], "适合或符合侍从的").
+entry(squirish, 形容词, [], "像乡绅或适合乡绅的").
+entry(松鼠, n, [松鼠们], "笔迹中的装饰性曲线").
+entry(蠕动, v, [蠕动了, 蠕动着, 蠕动], "扭动").
+入口(蠕动者, 名词, [蠕动者们], "一个蠕动的东西")。
+条目(蠕动的, 形容词, [], "更蠕动 最蠕动 wriggly")。
+entry(松鼠, v, [储存, 储藏, 储备], "或者 SQUIRRELLED SQUIRRELLING SQUIRRELSto 储存以备将来").
+入口(喷射, 动词, [喷射过, 正在喷射, 喷射们], "以细长迅速的流喷出").
+entry(喷射器, n, [喷射器们], "喷射的东西").
+条目(挤, 动词, [挤压, 挤压中, 挤压们], "压扁").
+`entry(squishy, adj, [], "SQUISHIER SQUISHIESTsquashy").`
+entry(腹泻, npl, [], "腹泻").
+条目(压扁,v,[压扁了,压扁中,压扁], "压碎").
+条目(squooshy, 形容词, [], "SQUOOSHIER SQUOOSHIESTsquashy").
+entry(squush, v, [压扁, 压扁中, 压扁的], "压扁").
+entry(虔诚, 名词, [虔诚们], "信仰").
+条目(sradha, n, [sradhas], "一个印度教的仪式供奉").
+entry(sri, n, [sris], "先生，先生，用作印度教的尊称").
+entry(刺, 动词, [刺伤, 刺伤着, 刺伤], "用尖锐的武器刺入").
+entry(刺伤者, n, [刺伤者们], "刺伤的那个人").
+入口(刺伤, 名词, [刺伤], "用尖锐武器刺入某人的行为")。
+entry(稳定, 名词, [雕塑品], "一个静止的抽象雕塑").
+entry(稳定, 形容词, [], "更稳定 最稳定 抵御突然改变或位置或状态").
+entry(稳定, v, [放入马厩, 置于马厩, 置入马厩], "把牲畜放进马厩中").
+entry(斯特布勒, n, [斯特布勒们], "保持马厩的人").
+`entry(stabling, n, [牲口棚], "为动物提供在棚中的住宿").`
+entry(建立, v, [建立了,建立中,建立], "建立").
+entry(稳定地, 副词, [], "以一种稳定的方式").
+入口(断奏, n, [断奏], "或 断奏音 一个音乐段落，以清晰短促的音调演奏标记").
+entry(堆, v, [堆放,堆积,堆叠], "堆积").
+entry(堆垛机, n, [堆垛器], "一种堆叠的人或物品").
+entry(stackup, n, [堆叠], "等待降落在机场上空盘旋的飞机排列").
+entry(stacte, n, [stactes], "一种古代犹太人在制作香时使用的香料").
+条目(平台, n, [平台], "放干草的平台")。
+entry(斯塔德, n, [斯塔德斯], "古希腊的长度单位").
+entry(视距测量, n, [视距测量法], "一种测量距离的方法").
+入口(体育场, n, [体育场], "举行体育赛事的结构")。
+entry(职员, v, [配备了, 配备中, 配备], "提供职员和助理团队")。
+条目(工作人员, 名词, [工作人员们], "一个工作人员的成员")。
+entry(人员配备, n, [人员配备s], "配备工作人员").
+entry(牡鹿, 动词, [牡鹿过去式, 牡鹿进行时, 牡鹿第三人称单数], "出席社交活动而没有女性陪同").
+entry(stage, v, [暂定, 暂存, 暂存阶段], "为公开展示做准备").
+entry(stageful, n, [舞台容量], "与舞台所能容纳的一样多").
+entry(stager, n, [stagers], "有经验的人").
+entry(单身派对, n, [单身派对们], "一个即将结婚的女人的全女性聚会").
+entry(stagey, 形容词, [], "更舞台腔的 最舞台腔的舞台腔").
+entry(蹇跚, n, [蹇跚们], "成年雄性赤鹿").
+entry(staggart, n, [staggarts], "阻止").
+entry(停滞, 过去, [], "停滞的时态").
+```prolog
+条目(蹒跚, 动词, [蹒跚过, 蹒跚着, 蹒跚], "不稳地走或站").
+```
+entry(摇晃, 形容词, [], "不稳定").
+entry(幼马, n, [幼马们], "一匹小马").
+条目(暂存, 现在, [], "stag 的分词").
+命题(鼬鼠形状, 形容词, [], "外观上像一个成熟的雄性 STAGGIER STAGGIEST").
+entry(鹿角, n, [鹿角], "用于刀柄的鹿角").
+`entry(实习生, 比较级, [], "舞台化的和舞台化的").`
+entry(最戏剧化, 最高级, [], "的戏剧性和戏剧性").
+entry(夸张地, 副词, [], "以夸张的方式").
+入(entry, 阶段, n, [阶段的], "一个临时平台")。
+entry(停滞的, 形容词, [], "不流动或移动").
+条目(停滞, 动词, [停滞了, 正在停滞, 停滞], "变得停滞不前")。
+词条(夸张的, 形容词, [], "更夸张 最夸张具有戏剧品质").
+条目(staid, 形容词, [], "STAIDER STAIDEST严肃而庄重STAIDLY 副词").
+entry(staig, n, [小马驹], "小马").
+条目(污点, v, [弄脏,弄污,污染], "使变色或弄脏").
+entry(染色剂, n, [染色剂们], "染色的东西").
+入口(楼梯, n, [楼梯], "用于从一个楼层到另一个楼层的脚的休息台阶")。
+entry(楼梯, n, [楼梯], "一段楼梯").
+entry(staithe, n, [staithes], "一個設置用於將煤炭從鐵路車廂轉運到船隻的碼頭").
+entry(樁, 动词, [樁住,樁住中,樁住了], "用尖木或金屬樁固定").
+entry(监视, n, [监视], "特别是由警察进行的区域监控").
+entry(出桩者, n, [出桩者们], "用桩标记区域的人").
+entry(战俘营, n, [战俘营], "德国的战俘营").
+entry(陈旧的, 形容词, [], "更陈旧 最陈旧不新鲜地 副词").
+entry(过时, v, [过时了, 过时中, 过时], "变得过时").
+入口(茎, v, [跟踪,跟踪中,跟踪们], "秘密地追踪").
+entry(跟踪者, n, [跟踪者们], "一个跟踪的东西").
+entry(跟踪, n, [跟踪行为], "跟踪者的行为").
+条目(茎状的, 形容词, [], "更茎状 最茎状长而细长茎状地 副词").
+入口(停止, 动词, [停止,停止中,停止], "停止进程").
+entry(种马, n, [种马], "未去势的雄马").
+条目(坚定分子, 名词, [坚定分子], "一个坚定不移的党徒").
+entry(雄蕊, n, [雄蕊], "开花植物的产粉器官 雄蕊的 形容词").
+entry(耐力, n, [耐力们], "耐力STAMINAL 形容词").
+入口(stammel, n, [stammels], "红色").
+entry(口吃, v, [口吃了,口吃着,口吃], "说话时不自主地停顿和暂停").
+```prolog
+条目(印, v, [印记,印刷,印章], "重重地踩下"). 
+```
+entry(蜂拥而至, v, [蜂拥,蜂拥而至中,蜂拥而至], "使惊慌失措地逃跑")。
+entry(斯坦普, n, [斯坦普们], "一个印章的人").
+词条(姿势, n, [姿势们], "一种站立方式")。
+条目(牢靠, 形容词, [], "STANCHER STANCHEST牢靠").
+entry(止血, v, [止住, 止血中, 止血], "止住血流")。
+entry(止血者, n, [止血者们], "能止血的人或物").
+entry(坚定地, 副词, [], "以坚定的方式").
+```
+entry(站立, 动词, [站立着, 站立中, 站立], "保持或维持直立姿势").
+```
+entry(标准, n, [标准], "一个确立的比较标准").
+备用项(standby, n, [standbys], "一个可以依靠的人或物").
+条目(站立者, 名词, [站立者们], "因缺乏座位而站立的人").
+entry(站立者, n, [站立者们], "一个站着的人").
+entry(站立, n, [排名], "在社会中的地位或状况").
+条目(standish, 名词, [standishes], "放置钢笔和墨水的容器")。
+```prolog
+词条(僵持, 名词, [僵局], "如游戏中的平局或和局").
+```
+entry(突出, n, [突出的], "表现出明显优越性的人或事物")
+entry(坚决不变, 形容词, [], "抵制或反对改变").
+entry(站立喜剧, 名词, [站立喜剧表演], "演出者单独在舞台上的喜剧独白").
+entry(斯坦, v, [斯坦了,斯坦着,斯坦], "用石头砸")。
+入口(刺伤, 动词, [刺伤过, 刺伤中, 刺伤们], "刺痛")。
+入口(斯坦霍普, 名, [斯坦霍普们], "一种轻便的开放式马车")。
+entry(九分位, n, [九分位], "一个用于将一组分数划分成九个等级的类别之一").
+entry(站立, 现在, [], "stane的分词").
+入口(池塘, 名词, [池塘], "一个水塘")。
+entry(錫礦區, n, [錫礦區們], "一個錫礦區").
+entry(錫, 形容词, [], "关于锡的").
+entry(锡石, n, [锡石], "一种锡矿石").
+entry(锡, 形容词, [], "关于锡的").
+条目(锡, 名词, [锡], "锡").
+词条(全饱和性植物固醇, 名词, [全饱和性植物固醇类], "一种完全饱和的植物甾醇").
+entry(诗节, n, [诗节], "诗的一部分，诗节诗歌的形容词").
+entry(stapedes, pl, [], "镫骨的").
+entry(马紫珠, 名, [马紫珠属], "一种非洲植物").
+entry(stapes, n, [镫骨], "中耳的骨头").
+entry(葡萄球菌, n, [葡萄球菌类], "各种球形细菌中的一种").
+entry(钉书针, v, [钉住,钉书,钉书针], "用U形金属环固定").
+entry(订书机, n, [订书机们], "一个装订设备").
+entry(星, v, [闪烁, 出演, 主演], "像星星一样闪耀，一种在天空中可见的自然发光体")。
+entry(淀粉, v, [上浆,上浆中,淀粉], "用淀粉处理一种固体碳水化合物")。
+```prolog
+词条(淀粉者, 名词, [淀粉者们], "一个上浆的人").
+```
+`entry(富含淀粉, 形容词, [], "更富含淀粉 最富含淀粉包含淀粉").`
+入口(明星地位, n, [明星地位], "杰出演员的地位").
+entry(星尘, n, [星尘们], "一种浪漫的特质").
+entry(凝视, v, [凝视着, 凝视中, 凝视], "凝视固定").
+entry(凝视者, n, [凝视者们], "一个凝视的人").
+条目(斯塔列茨, 名词, [斯塔拉齐], "东正教会中的精神顾问")。
+entry(海星, n, [海星], "一种星形的海洋动物").
+entry(凝視星空, v, [凝視了星空, 凝視星空中, 凝視星空], "凝視星空").
+entry(凝视, 现在时, [], "注视的分词").
+入口(斯塔克, 形容词, [], "更加严厉 最为严厉外观上严厉地").
+条目(裸露的, 形容词, [], "赤裸").
+entry(无星, 形容词, [], "没有星星").
+entry(影星, 名词, [影星们], "一颗小星星")。
+条目(星状, 形容词, [], "类似于星星").
+entry(椋鸟, 名词, [椋鸟], "一种欧洲鸟类").
+条目(星光闪烁, 形容词, [], "被星星照亮").
+入口(星鼻, 名词, [星鼻兽], "一种掘地哺乳动物")。
+entry(加星, 过去式, [], "star 的时态")。
+entry(主演, 现在, [], "star的分词").
+entry(starry, adj, [], "非常星星的 非常非常星星的 充满星星 星星般的副词").
+entry(飞船, n, [飞船], "用于星际旅行的宇宙飞船").
+入口(开始, v, [开始的,开始,开始], "出发").
+entry(入门者, n, [入门者们], "一个开始的人").
+entry(惊吓, v, [惊吓了,惊吓着,惊吓], "突然惊吓或惊奇").
+entry(使…吃惊者, n, [使…吃惊者们], "让人吃惊的东西").
+entry(startsy, pl, [], "老者的").
+entry(创业, 名词, [创业公司], "开始某事的行为")。
+entry(饥饿, v, [饿死,饿着,挨饿], "因缺乏食物而死").
+entry(挨饿者, n, [挨饿者们], "挨饿的人").
+entry(苍耳, n, [苍耳], "一种开花植物").
+entry(停滞, 复数, [], "停滞的").
+entry(藏匿, v, [藏匿的, 正在藏匿, 藏匿], "存放在一个秘密的地方")。
+entry(牧歌, 名, [牧歌], "古希腊戏剧中的合唱颂歌").
+entry(停滞, n, [停滞], "体液正常流动的停止").
+entry(统计, n, [统计], "一个统计数据").
+entry(可陈述的, 形容词, [], "能够被陈述").
+entry(国家的, 形容词, [], "关于国家政府的").
+entry(statant, 形容词, [], "四脚着地站立，专用于纹章学中的动物").
+entry(state, v, [陈述, 陈述中, 陈述], "以语言表达").
+entry(公开地, 副词, [], "定期地").
+entry(statelet, n, [州], "一个小型国家，一个政治共同体")
+entry(庄重的, 形容词, [], "较庄重 最庄重 庄严的").
+entry(声明者, n, [声明者们], "陈述的人").
+entry(静态, n, [静态的], "在收音机或电视机中产生的随机噪音静态 adj").
+entry(statice, n, [常春藤花], "一种开花植物").
+entry(staticky, 形容词, [], "由静态标记")。
+entry(他汀, n, [他汀類藥物], "降低血清膽固醇水平的任何一類藥物").
+entry(表述, 现在, [], "state的分词").
+entry(车站, v, [驻扎, 驻留, 驻站], "分配到一个职位").
+条目(国家主义, n, [国家主义], "一种政府理论")。
+entry(国家主义者, n, [国家主义者们], "国家主义的拥护者").
+entry(状态动词, n, [状态动词], "表示一种状态的动词").
+entry(定子, n, [定子们], "转子围绕其旋转的机器部件").
+entry(雕像群, n, [雕像群们], "一组雕像").
+entry(雕像, n, [雕像们], "立体艺术作品STATUED 形容词").
+entry(身高, n, [身高们], "人体或动物身体的自然高度STATURED adj").
+entry(状态, n, [状态列表], "相对位置").
+entry(statusy, adj, [], "赋予声望").
+entry(法规, n, [法规], "由政府的立法部门颁布的法律").
+`entry(staumrel, n, [staumrels], "笨蛋").`
+entry(坚定, 形容词, [], "更坚定 最坚定 坚定可靠").
+entry(坚固, v, [止住了,止住中,止住], "止住").
+entry(木板, 动词, [火炉, 打孔, 木板], "驱赶或推开").
+entry(偷, 了, [], "偷的过去式").
+entry(停留, v, [停留着,停留中,停留], "持续在一个地方或状态").
+entry(停留者, n, [停留者们], "留下来的人").
+条目(前帆, 名词, [前帆们], "一种帆").
+entry(stead, v, [steaded,steading,steads], "有利于").
+entry(稳定, 过去, [], "稳定的时态").
+词条（steadier, 名词, [steadiers], "稳定者"）。
+条目(小农场, 名词, [小农场], "一个小农场").
+条目(稳定, 形容词, [], "更加稳定 最稳定 位置稳固 稳定地 副词").
+entry(稳定, 动词, [稳定了, 稳定中, 稳定的], "使稳定").
+entry(牛排, n, [牛排], "一片肉").
+entry(偷窃, 动词, [偷, 偷过, 正在偷], "STEALSto take without right or permission").
+entry(盗窃, n, [盗窃活动], "盗窃").
+entry(偷窃者, n, [偷窃者们], "偷窃的人").
+entry(偷窃, n, [偷窃活动], "偷窃的行为").
+entry(隐形, n, [隐形], "隐秘的程序").
+entry(stealthy, adj, [], "更隐秘 意图躲避观察").
+entry(蒸汽, v, [蒸过,蒸着,蒸汽], "暴露在蒸汽水汽中").
+```prolog
+entry(蒸汽船, v, [蒸汽船过, 蒸汽船中, 蒸汽船们], "乘蒸汽船旅行").
+```
+entry(steamie, n, [steamies], "蒸热狗").
+entry(steamy, adj, [], "STEAMIER STEAMIEST由蒸汽标记STEAMILY adv").
+条目(类脂酶, n, [类脂酶类], "一种酶").
+entry(硬脂酸盐, n, [硬脂酸盐们], "一种化学盐").
+entry(硬脂, n, [硬脂酸], "脂肪的固体部分STEARIC 形容词").
+entry(硬脂, n, [硬脂类], "硬脂")。
+入口(皂石, n, [皂石], "一种滑石的变体")。
+entry(坚定, 形容词, [], "坚定").
+entry(马, n, [马], "一匹马").
+entry(steek, v, [steeked,steeking,steeks], "关闭")。
+entry(钢铁, v, [使坚硬,使坚硬中,钢铁们], "用一种坚硬的铁合金覆盖").
+`条目(钢球, n, [钢珠], "一种钢制玩具弹珠").`
+`entry(钢铁般的, 形容词, [], "更像钢铁 最像钢铁").`
+entry(非洲小羚羊, n, [非洲小羚羊们], "一种非洲羚羊").
+entry(陡峭, 形容词, [], "更陡峭 最陡峭倾斜明显").
+entry(浸泡, 动词, [浸泡过,浸泡中,浸泡], "在液体中浸泡").
+```prolog
+entry(變陡, 動詞, [變陡了, 變陡中, 變陡], "使陡峭").
+```
+entry(steeper, n, [steepers], "侵泡者").
+entry(steepish, adj, [], "有点陡").
+entry(尖塔, n, [尖塔们], "教堂塔顶上的尖形结构").
+entry(尖塔, v, [尖塔状的,尖塔化,尖塔], "将手指或手放成尖塔的形状").
+entry(steeply, 副词, [], "以陡峭的方式").
+entry(转向, v, [转向了, 转向中, 转向], "指引路线").
+条目(舵工, n, [舵工们], "掌舵的行为")。
+entry(转向者, n, [转向者们], "一个引导方向的人").
+entry(操作, 名词, [操纵装置], "引导车辆或船只方向的行为").
+entry(史蒂夫, v, [史蒂夫德, 史蒂夫英, 史蒂夫斯], "把货物装在船舱里").
+entry(steeving, n, [steevings], "从船龙骨到船首斜桅的角度高度").
+条目(乳齿象, n, [乳齿象们], "一种已灭绝的大象类哺乳动物")。
+entry(stein, n, [steins], "啤酒杯").
+条目(steinbok, n, [steinboks], "steenbok").
+entry(碑, n, [石碑], "或 STELAI 用作纪念碑的刻字板 STELAR STELENE 形容词")。
+entry(碑刻, n, [碑刻], "植物茎中维管组织的中心部分STELIC 形容词").
+entry(斯特拉, 名词, [斯特拉的], "美国以前使用的硬币")。
+entry(恒星, 形容词, [], "与星星有关").
+条目(星状的, 形容词, [], "形状像星星").
+entry(星化, 动词, [已星化, 正在星化, 星化中], "将某物转变为星星").
+entry(茎, 动词, [去茎, 去茎中, 茎], "去除从植物主轴升起的茎")。
+```prolog
+entry(无柄, 形容词, [], "没有茎干").
+```
+条目(类似茎, 形容词, [], "类似于茎").
+entry(stemma, n, [stemmas], "或 STEMMATAa 在古罗马记录家族谱系的卷轴")。
+entry(词干, 过去, [], "词干的时态")
+entry(词干提取器, n, [词干提取器], "去除词干的工具").
+entry(除梗厂, n, [除梗厂], "一个剥去烟叶的地方").
+entry(词干化, 现在, [], "词干的分词形式").
+entry(茎状, 形容词, [], "更茎状 最茎状"丰富的茎").
+条目(船内梁木, 名词, [船内梁木], "船支撑用的木材").
+entry(玻璃器皿, n, [玻璃器皿], "一种玻璃器具").
+entry(臭味, 名词, [臭味], "一种难闻的气味").
+entry(恶臭的, 形容词, [], "更加恶臭 最恶臭有臭味").
+条目（模具，v，[模具化，模具制作，中模具]，“或模具化模具制作模具通过使用穿孔的材料片进行标记”）。
+条目(混饮, n, [混饮们], "一种混合饮料")。
+entry(速記員, n, [速記員們], "速記員").
+entry(stenoky, n, [stenokies], "生物体只能在狭窄范围的条件下生存的能力").
+entry(狭窄的, 形容词, [], "受狭窄症影响")。
+条目(狭窄, 名词, [狭窄症], "身体通道的狭窄STENOTIC 形容词").
+entry(支架, n, [支架们], "插入血管中的管状装置")。
+entry(斯坦托尔, n, [斯坦托尔们], "一个声音洪亮的人").
+`条目(步, v, [步过, 正在步, 步, 走], "通过抬起脚并将其放在另一个地方来移动").`
+entry(stepdad, n, [继父], "继父").
+```prolog
+entry(stepdame, n, [stepdames], "继母").
+```
+条目(无阶梯, 形容词, [], "缺乏用于从一个水平到下一个水平过渡的阶梯结构").
+入口(steplike, 形容词, [], "类似楼梯").
+entry(继母, n, [继母们], "一位继母").
+entry(草原, n, [草原], "一大片无树的平原").
+entry(走, 过去, [], "step 的时态")。
+entry(步进器, n, [步进器们], "一个行走的东西")
+entry(走, 进行时, [], "step的分词").
+entry(繼子, n, [繼子們], "配偶與前婚姻所生的兒子").
+entry(逐步, 形容词, [], "以渐进的方式标记").
+entry(甾烷, n, [甾烷], "一种化合物").
+entry(立方米, n, [立方米], "体积单位").
+entry(立体声, v, [立体声了,立体声中,立体声们], "制作一种印刷版").
+entry(立体的, 形容词, [], "关于分子中原子的空间关系").
+条目(sterical, 形容词, [], "立体").
+entry(孢梗, n, [孢梗], "一种真菌孢子托或孢子梗杆状结构").
+条目(不育, 形容词, [], "无法繁殖后代").
+entry(细鳞鲟, n, [细鳞鲟们], "一种小型鲟鱼").
+entry(英镑, n, [sterlingsb], "ritish 金钱").
+入口(严厉的, 形容词, [], "更严厉的 最严厉的unyielding")
+entry(船尾, n, [船尾], "船的后部STERNED 形容词").
+entry(胸骨, a, [], "胸骨的复数").
+entry(胸骨的, 形容词, [], "与胸骨有关的").
+条目(胸板, n, [胸板], "一个体节的硬板").
+entry(严厉地, 副词, [], "以严厉的方式").
+条目(斯特恩森, 名词, [斯特恩森们], "船上的一个加固柱").
+entry(胸骨, n, [胸骨], "即 STERNA大多数脊椎动物的长平支撑骨").
+entry(艉行, 名词, [艉行方向], "船只向后的移动").
+词条(类固醇, 名词, [类固醇], "一种化合物类型").
+entry(固醇, n, [固醇], "一种固体醇").
+entry(鼾声, n, [鼾声], "深沉的打鼾声").
+entry(stet, v, [stetted,stetting,stets], "取消先前做出的印刷更正").
+entry(甜叶菊, n, [甜叶菊], "一种南美草本植物，叶子有甜味").
+入口(炖, 动词, [炖煮, 炖制, 炖菜], "慢炖烹饪STEWABLE 形容词")。
+entry(管家, v, [管理了,管理中,管理们], "管理").
+entry(酒鬼, n, [酒鬼们], "酗酒的流浪汉").
+entry(炖锅, n, [炖锅们], "用于炖煮的锅").
+entry(焖锅, n, [焖锅], "一个用于炖菜的大锅").
+条目(炖, 形容词, [], "具有炖这种烹调方式的食物的特点").
+entry(斯蒂, 形容词, [], "陡峭").
+入口(虚恃, n, [虚恃症状], "过多的精力，虚言的形容词").
+entry(stibial, adj, [], "关于锑的").
+entry(锑烷, n, [锑烷], "一种有毒气体").
+entry(锑, n, [锑元素], "锑")
+条目(辉锑矿, n, [辉锑矿], "一种锑矿石")。
+entry(诗行, n, [诗行的复数], "诗的一行STICHIC 形容词").
+入口(棍子, 动词, [插入, 插, 杆], "用细木条支撑")。
+entry(棍, v, [插入,插着,插着的], "用尖锐物体刺入").
+entry(贴纸, n, [贴纸], "一种粘性的标签贴纸的形容词").
+entry(一满枝, n, [满枝], "一定类型的数量").
+词条(便签, n, [便签], "黏贴便签").
+entry(更黏, 比较级, [], "黏的").
+entry(便利贴, 复数, [], "粘性的").
+条目(最粘, 最高级, [], "粘的").
+条目(粘性, 副词, [], "以粘性方式").
+条目(黏住, 形容词, [], "不成功").
+词条(固执, 动词, [固执的, 固执着, 固执着], "固执地争论").
+entry(坚持者, n, [坚持者们], "一个坚持己见的人").
+entry(控制员, n, [控制员们], "监督骰子台上游戏的人").
+entry(突出, n, [突出的], "显眼的事物").
+条目(饰针, 名词, [饰针], "一种装饰性的领带针")。
+entry(粘合剂, n, [粘合剂们], "一种导致粘附的物质").
+entry(持枪抢劫, n, [持枪抢劫], "持枪抢劫案件").
+entry(sticky, n, [便签], "背面有粘性条的便条纸").
+entry(sticky, 形容词, [], "更粘的 最粘的 倾向于粘附").
+entry(静摩擦力, n, [静摩擦力], "开始移动处于与另一物体接触状态下的物体所需的力").
+entry(过去式的, a, [], "sty 的过去式").
+entry(脓肿, 现在, [], "第三人称单数形态").
+entry(僵硬, 形容词, [], "更僵硬 最僵硬难以弯曲或伸展").
+entry(诈骗, v, [诈骗了,诈骗中,诈骗们], "通过不支付来欺骗某人")。
+entry(僵硬的, v, [僵硬了,正在僵硬,变得僵硬], "使变得僵硬")
+entry(略硬, 形容词, [], "有点硬").
+entry(生硬地, 副词, [], "以生硬的方式").
+entry(窒息, 动词, [窒息了, 窒息中, 窒息], “窒息”).
+entry(窒息者, 名词, [窒息者们], "使窒息的人").
+入口(污名, 名词, [污名], "或 stigma 耻辱的标记 stigmatal 形容词")。
+条目(二苯乙烯, n, [二苯乙烯类], "一种化学化合物")。
+入口(沸石, 名词, [沸石], "一种矿物").
+入口(阶梯, 名词, [阶梯], "用于跨越栅栏或墙的阶梯系列").
+```prolog
+entry(匕首, v, [匕首刺,匕首中,匕首们], "或 用匕首刺 一个短的匕首"). 
+```
+entry(静, 形容词, [], "最静 静止无声或无动").
+entry(静止, v, [静止了, 静止中, 静止], "使静止").
+entry(储物架, n, [储物架], "用于将货物保持在离开地面的低平台")。
+entry(stillman, n, [蒸馏工人], "负责操作蒸馏厂的人").
+entry(stillson, n, [stillsons], "大扳手 用于抓住和转动的工具")。
+entry(stilly, adj, [], "更加平静 最平静").
+entry(高跷, v, [高跷的,踩高跷,高跷], "用长而细的杆子将…支撑起来")
+进入(时间, n, [时间列表], "一瞥")。
+entry(刺激, n, [刺激物], "引起反应的事物").
+entry(stimy, v, [stimied,stimying,stimies], "阻挠").
+entry(刺痛, 动词, [刺痛了, 刺痛着, 刺痛], "刺痛地扎").
+entry(stinge, n, [stinges], "一个卑鄙或吝啬的人").
+词条(毒刺, 名词, [毒刺们], "刺伤的东西").
+entry(较吝啬, 比较级, [], "吝啬的").
+条目(最吝啬, 最高级, [], "吝啬的").
+entry(吝啬地, adv, [], "以吝啬的方式").
+entry(stingo, n, [几种烈性啤酒], "一种烈性啤酒或啤酒").
+`entry(黄貂鱼, n, [黄貂鱼], "一种平扁体形的海洋鱼类").`
+entry(小气, 形容词, [], "更小气 最小气 不愿意花费或给予").
+条目(臭, 动词, [发出臭味, 闻起来臭, 臭味], "散发出恶臭").
+条目(臭人, 名词, [臭人们], "一个可鄙的人").
+入口(臭虫, n, [臭虫], "一种散发恶臭的昆虫")。
+入口(臭货, 名词, [臭货们], "一个发臭的东西")。
+entry(stinko, 形容词, [], "喝醉").
+```prolog
+条目(臭鼬, 名词, [臭鼬们], "在战争中曾经使用的一种装有恶臭可燃物的罐子").
+```
+entry(臭臭, 形容词, [], "发出难闻的气味").
+entry(限制, v, [限制了, 限制中, 限制], "去限制").
+entry(stinter, n, [过度克制者], "一个过度克制的人").
+入口(stipe, n, [stipes], "植物的细长支撑部分STIPED adj")。
+entry(托叶, n, [托叶], "小托叶").
+entry(津贴, 名词, [津贴], "定期支付的一笔固定金额").
+entry(柄, n, [柄], "一根柄").
+entry(点画, v, [点画了, 点画着, 点画], "通过点或短触来画、涂或雕刻")。
+entry(stippler, n, [stipplers], "点描者").
+entry(托叶, n, [托叶], "某些植物中叶子基部的附属物托叶状 托叶化 形").
+entry(搅拌, v, [搅拌过,搅拌着,搅拌], "用工具作环形运动")。
+entry(幼牛, n, [幼牛们], "一头小奶牛")。
+entry(stirp, n, [stirps], "血统")。
+entry(家族, n, [家枝], "一个家族或家族的分支").
+条目(搅拌, 过去式, [], "stir 的时态").
+进入(搅拌器, 名词, [搅拌器们], "一个搅拌的东西")。
+条目(搅拌, 名词, [搅拌物], "运动的开始").
+entry(马镫, n, [马镫], "骑马者脚的支撑物")。
+entry(缝, v, [缝合, 缝制, 缝针], "用带线的针做进出运动来连接").
+entry(针线匠, n, [针线匠], "一个缝纫的人").
+entry(stithy, v, [stithied,stithying,stithies], "在铁砧上锻造").
+entry(stiver, n, [stivers], "曾经使用过的荷兰硬币").
+entry(stoa, n, [stoae], "或 STOAI 或 STOAS古希腊的带顶走廊").
+entry(鼬鼠, n, [鼬鼠们], "尾巴尖端为黑色的黄鼠狼").
+entry(stob, v, [stobbed, stobbing, stobs], "刺").
+项(stoccado, n, [stoccados], "用佩剑刺").
+入口(劍刺, n, [劍刺], "劍刺").
+entry(库存, v, [存货,储存,股票], "为了未来的销售或使用而保留")
+入口(栅栏, 动词, [围住, 围建, 围拦], "建造一种防护围栏").
+entry(stockage, n, [库存], "手头的供应量")
+entry(牲畜车, n, [牲畜车], "用于运输牲畜的货车").
+entry(肥育动物, n, [肥育动物], "适合育肥以供市场的幼畜").
+entry(更壮实, 比较级, [], "属于壮实").
+stockiest(最高级, [], “of stocky”).
+entry(stockily, 副词, [], "以健壮的方式").
+entry(长袜, n, [长袜], "一种针织或织造的脚和腿的覆盖物")。
+entry(stockish, 形容词, [], "愚蠢").
+entry(stockist, n, [库存商], "储存货物的人").
+entry(畜牧者, 名词, [畜牧者], "拥有或饲养牲畜的人").
+entry(stockpot, n, [高汤锅], "用于准备肉汤的锅").
+entry(stocky, adj, [], "拥有短而厚实的身体（更短更厚的身体）")
+entry(食物沉重, v, [吃撑,吃重的,充盈], "用食物填满").
+entry(古板, 形容词, [], "更古板 最古板无聊古板地 副词").
+entry(stogey, n, [stogeys], "stogy").
+entry(雪茄, n, [雪茄们], "雪茄").
+entry(斯托吉, n, [斯托吉们], "一种细长的雪茄").
+entry(斯多葛学派, n, [斯多葛学派成员], "对快乐或痛苦无动于衷的人STOICAL 形容词").
+entry(斯多葛学派, n, [斯多葛学派们], "对快乐或痛苦的无动于衷").
+入口(斯托克, 动词, [激动, 激励中, 激励], "给火炉供给燃料")。
+entry(司炉, n, [司炉工], "烧锅炉的人").
+条目(蓝蓟属, 名, [蓝蓟属], "一种多年生草本植物").
+```prolog
+条目(偷, 名词, [围巾], "一条长宽的围巾偷窃的 形容词").
+```
+entry(偷, 过去, [], "steal的分词").
+entry(冷漠, 形容词, [], "冷漠的更冷漠的最冷漠的显示出很少或没有情感冷漠地 副词").
+entry(司㶐, 名词, [司㶐], "一种甜面包").
+entry(走茎, n, [走茎], "一种植物茎STOLONIC adj").
+entry(简易机场, n, [简易机场], "供需要相对较短跑道的飞机使用的机场")。
+entry(气孔, n, [气孔], "或是 STOMATA，植物器官表皮上的微小开口")
+entry(胃, v, [忍受过, 忍受中, 忍受], "容忍").
+entry(胃疼的, 形容词, [], "胖乎乎的").
+entry(stomal, adj, [], "气孔的").
+entry(气孔, a, [], "气门的复数").
+entry(气孔的, 形容词, [], "关于气孔").
+entry(气孔, 名词, [气孔], "一个气孔")
+条目(口腔的, 形容词, [], "有关口腔的").
+入口(口造器, 复数名词, [], "胚胎口腔")。
+entry(重踏, v, [重踏过,重踏着,重踏们], "重重地踩").
+entry(stomper, n, [跺脚者], "一个跺脚的人").
+词条(跺脚, 形容词, [], "更跺脚 最跺脚有助于跺脚").
+entry(石头, v, [被石块砸,正在用石块砸,用石块砸], "用固结的土质或矿物碎片砸")。
+entry(石版画, n, [石版画], "从石头上雕刻的图像制作的版画").
+入口(石蝇, n, [石蝇], "一种有翅昆虫")。
+入口(石头人, 名词, [石头人们], "石击者").
+入口(石头的, 形容词, [], "更石质 最石质石质的")。
+entry(更石质, 比较级, [], "属于石质的").
+entry(最石质的, 最高级, [], "的石质").
+entry(冷冷地, 副词, [], "以石之态").
+入口(用石頭砸死, 現在時, [], "stone的分詞").
+entry(惊骇, 动词, [惊骇了,惊骇的,惊骇], "使惊骇").
+entry(股票, v, [轰炸过,轰炸中,股票们], "用炮兵火力轰炸")。
+entry(令人惊叹的事物, n, [令人惊叹的事物], "某种类型中特别大或印象深刻的事物").
+entry(激动人心, 形容词, [], "非常令人兴奋").
+entry(多石的, 形容词, [], "更石 最高石丰富的石头").
+entry(站立, 过去式, [], "站立的时态")。
+条目(仆从, v, [stooged,stooging,stooges], "充当喜剧演员的配角").
+entry(stook, v, [stooked,stooking,stooks], "把谷物捆成捆堆放在田里晾干").
+entry(stooker, n, [stookers], "使其成堆的人").
+entry(小堆, 名词, [小堆们], "捆堆者的工作").
+入口(凳, 动词, [大便了, 正在大便, 大便], "排便")。
+entry(告密者, n, [告密者们], "告密者").
+entry(弯腰, v, [弯腰的,弯腰,弯腰], "身体向前和向下弯曲").
+entry(屈服者, n, [屈服者们], "弯腰的人").
+entry(停止, 动词, [停止了,停止中,停止], "中止或暂停进展或运动的").
+entry(停止带, n, [停止带], "由滤波器限制的频带").
+```prolog
+entry(防洪堤, 名词, [防洪堤], "沿河堤坝").
+```
+entry(旋塞, n, [旋塞阀], "一种类型的水龙头").
+entry(停采, v, [停采了, 停采中, 停采], "分层开采如矿石").
+entry(stoper, n, [支柱工], "承载拱顶的人")
+入口(临时替代, 名词, [临时替代], "一个临时替代品")。
+entry(stoping, n, [分层采掘], "分层开采的过程").
+entry(中途停留, n, [中途停留], "中途停留").
+entry(中途停留, n, [中途停留], "旅途中短暂停留").
+entry(停止, n, [停止], "停止的行为").
+entry(停止, a, [], "stop 的过去式").
+entry(塞子, v, [塞住了, 塞住中, 塞子们], "堵住").
+entry(停止, 现在, [], "stop 的分词").
+入口(堵塞器, 动词, [已堵塞, 正在堵塞, 堵塞], "用塞子堵住").
+entry(停止, a, [], "stop的过去式").
+entry(停用词, n, [停用词], "搜索引擎中不可检索的常用词").
+entry(可储存物, n, [可储存物列表], "可以储存的东西")。
+entry(存储, n, [存储处], "一个用于存放的地方").
+入口(storax, n, [storaxes], "一种芳香树脂").
+entry(store, v, [存放, 存储, 储存], "为了将来使用而存放").
+Prolog: entry(storeman, n, [库房管理员], "看管储存商品的人").
+入口(储存者, n, [储存者们], "一个储存的东西")。
+`条目(楼层, n, [楼层], "建筑物的水平划分").`
+entry(有名, 过去, [], "故事的时态").
+entry(故事, 现在时, [], "故事的第三人称单数").
+entry(存放, 现在, [], "store的分词").
+entry(鹳, 名词, [鹳], "一种涉水的鸟").
+entry(暴风, v, [暴风过了,暴风中,暴风], "猛烈地吹").
+entry(暴风雨, 形容词, [], "更暴风雨 最大暴风雨暴风雨中 暴风雨般的 adv")。
+条目(故事, v, [故事的,讲故事,故事], "以故事的形式叙述一件事或一系列事件的经过")。
+entry(stoss, 形容词, [], "面向冰川移动方向").
+entry(stot, v, [stotted,stotting,stots], "用僵硬的步态跳跃").
+entry(stotin, n, [stotins], "即 STOTINOV，斯洛文尼亚早期的货币单位")。
+entry(斯托丁卡, n, [斯托丁基], "保加利亚的货币单位").
+entry(stott, v, [stotted,stotting,stotts], "跳跃").
+entry(感痛, v, [感痛了,感痛着,感痛], "疼痛").
+entry(stoup, n, [stoups], "圣水盆").
+```prolog
+entry(stour, n, [stours], "灰尘").
+```
+entry(斯特尔, n, [斯特尔斯], "斯特尔").
+entry(stourie, 形容词, [], "暴躁的").
+entry(stoury, 形容词, [], "尘土飞扬的").
+entry(健壮, 形容词, [], "更健壮 最健壮").
+entry(烈性黑啤酒, 名词, [烈性黑啤酒们], "一种强劲的黑色麦酒").
+entry(stouten, v, [stoutened,stoutening,stoutens], "使结实").
+entry(粗壯, 形容詞, [], "稍微粗壯").
+entry(坚定地, 副词, [], "以坚定的方式").
+entry(炉子, v, [加热了, 加热中, 加热], "在加热装置中加热某物").
+条目(斯托弗, n, [斯托弗斯], "粗饲料，为牛").
+entry(炉灶台, n, [炉灶台], "烹饪设备的上表面").
+entry(储藏, v, [储藏了,储藏中,储藏], "可以储藏的 形容词").
+entry(储存, n, [储物], "存储的货物")。
+entry(偷渡者, n, [偷渡者们], "藏在交通工具上以获得免费通行的人").
+entry(stowp, n, [stowps], "酒坛").
+条目(跨骑, 动词, [跨骑了, 跨骑, 跨骑着], "以两腿分开的姿势坐着、站着或行走")。
+```prolog
+条目(扫射, v, [扫射过,正扫射,扫射], "从飞机上用机关枪开火攻击").
+```
+entry(扫射者, n, [扫射者们], "进行扫射的人").
+entry(掉队, 动词, [掉队了, 正在掉队, 掉队], "偏离").
+entry(凌乱, adj, [], "较为凌乱 最为凌乱不规则地分布").
+entry(笔直, 形容词, [], "STRAIGHTER STRAIGHTEST 延伸在一个方向上，没有弯曲或不规则").
+```prolog
+entry(笔直, v, [笔直ed, 笔直ing, 笔直s], "使笔直").
+```
+entry(拉紧, v, [拉紧的,正在拉紧,拉紧们], "竭尽全力").
+条目(过滤器, 名词, [过滤器们], "用于将液体与固体分离的用具")。
+条目(海峡, adj, [], "较狭窄 最狭窄狭窄地 adv")
+entry(海峡, n, [海峡们], "连接两个较大水体的狭窄水道").
+entry(使困难, 动词, [使困难了,使困难中,使困难们], "使狭窄")。
+entry(龙骨衔接板, n, [龙骨衔接板们], "沿着船体延伸的一条板材组成").
+条目(大混乱, 名词, [大混乱复数], "一场骚动")。
+entry(曼德拉草, n, [曼德拉草们], "有毒的杂草").
+entry(搁浅, v, [搁浅着, 搁浅中, 搁浅的], "使处于不利境地").
+entry(strander, n, [捻线机], "一种将纤维捻成绳子的机器").
+条目(strang, 形容词, [], "强").
+入口(奇异, n, [奇异们], "一种基本的夸克")。
+entry(奇怪, 形容词, [], "陌生人 奇怪的不平常或不熟悉").
+entry(陌生人, v, [陌生化, 远离, 陌生人], "使疏远").
+entry(勒死, v, [勒死了, 正在勒死, 勒死], "掐死").
+entry(带子, v, [用带子束缚, 带子束缚, 带子], "用一条狭窄的柔性材料带子固定").
+entry(包扎者, n, [包扎者们], "一个负责包扎的人").
+```prolog
+entry(strappy, 形容词, [], "STRAPPIER STRAPPIEST有带子").
+```
+entry(strass, n, [strasses], "用于制作仿制宝石的闪亮玻璃").
+entry(分层, 计数词, [分层物], "由交替排列的食物层组成的菜肴")。
+entry(stratal, adj, [], "关于地层的").
+entry(策略, n, [策略], "为实现特定目标的计划")。
+条目(斯特拉斯, 名词, [斯特拉斯], "一条宽阔的河谷").
+entry(strati, pl, [], "层云的").
+条目(分层, 动词, [分层的, 正在分层, 分层], "形成或排列成层次结构")。
+entry(stratous, 形容词, [], "层级的").
+entry(地层, n, [地层], "或 具有显著地质特性的材料层").
+入口(層雲, 名詞, [層雲], "或層雲是一種雲的類型")。
+entry(stravage, v, [stravaged,stravaging,stravages], "散步").
+entry(stravaig, v, [stravaiged, stravaiging, stravaigs], "游荡").
+entry(稻草, 动词, [铺稻草, 正在铺稻草, 铺稻草], "用脱粒后的谷物秸秆覆盖").
+entry(草帽, 形容词, [], "与位于度假区的夏季剧院有关").
+entry(稻草状, 形容词, [], "更稻草状 最稻草状类似稻草").
+entry(流浪, v, [流浪了,流浪中,流浪], "偏离正确的区域或路线")。
+entry(斯特瑞尔, n, [斯特瑞尔们], "偏离者").
+entry(条纹, v, [条纹了, 条纹着, 有条纹], "用长而窄的痕迹覆盖").
+entry(裸奔者, n, [裸奔者们], "一个进行裸奔的人").
+条目(条纹状的, 形容词, [], "更条纹的 最条纹的 覆盖着条纹").
+entry(溪流, v, [已流, 流动, 流], "以稳定的流动流动").
+入口(主播, n, [主播们], "一面狭长的旗帜")。
+条目(流畅的, 形容词, [], "更流畅的 最流畅的流媒体").
+entry(地区, v, [扯高,拉伸中,拉伸], "伸展").
+entry(街头奔跑者, 名词, [街头奔跑者们], "一个进行街头奔跑的人")
+entry(漫步, 动词, [漫步着,漫步中,漫步], "散步").
+入口(街道, n, [街道], "一个公共通道STREETED 形容词")。
+entry(力量, n, [力量们], "承受或忍耐的能力").
+entry(链球菌, 名词, [链球菌类], "各种球形或椭圆形细菌之一").
+条目(压力, 动词, [强调, 强调中, 强调们], "强调").
+entry(压力源, n, [压力源], "一种刺激类型").
+entry(伸展, v, [伸展了, 伸展中, 伸展s], "拉出或打开到最大长度")。
+entry(拉伸, 形容词, [], "更拉伸 最拉伸有拉伸倾向").
+进入(狭窄, n, [狭窄们], "或狭窄stretto")。
+条目(紧缩部, 名词, [紧缩部们], "或者 紧缩部在更快的节奏中演奏的结尾音乐段落")。
+entry(streusel, n, [streusels], "咖啡蛋糕的浇头").
+词条(散播, 动词, [散播了, 散布, 正在散播], "散播是到处撒播")。
+entry(散布者, n, [散布者们], "一个散布东西的人").
+entry(細溝, n, [細溝], "一條細槽、條紋或紋理").
+入口(条状, 动词, [条状的, 条状化, 条状化的], "划出条纹").
+entry(纹状体, n, [纹状体], "大脑中的一块神经组织STRIATAL 形容词").
+```prolog
+条目(丝束, n, [丝束们], "一束亚麻纤维")。
+```
+entry(受重创, 形容词, [], "受到严重影响或困扰").
+entry(strickle, v, [strickled,strickling,strickles], "用平筛塑形或抹平一种用于找平谷物的工具").
+entry(strict, adj, [], "严格的 更严格的 最严格的 限于狭窄和特定限度 严格地 adv").
+entry(stride, v, [strode,stridden,striding], "大步走，用长步走").
+entry(尖锐, 形容词, [], "刺耳").
+entry(步行者, n, [步行者们], "一个行走的人").
+entry(大步走, 现在, [], "stride 的分词").
+入口(呼吸音, n, [呼吸声], "刺耳的声音")。
+entry(冲突, n, [冲突们], "激烈的冲突或意见不合").
+entry(擦身器, n, [擦身器们], "一种刮擦工具").
+entry(短硬毛的, 形容词, [], "covered with short stiff hairs").
+条目(击打, 动词, [打中, 打击, 打], "用力击打").
+entry(前锋, n, [前锋], "一个进行攻击的人").
+entry(打击, n, [打击们], "用力击打某物的行为").
+entry(strine, n, [strinese], "澳大利亚口音的英语").
+条目(字符串, v, [串连, 串联, 字符串], "提供细绳的字符串").
+entry(链工, n, [链工们], "一个串线者").
+entry(如线般的, 形容词, [], "像线或绳的").
+条目(剥, 动词, [剥去,削去,剥条], "去除外部覆盖物")。
+entry(条纹, v, [条纹的, 条纹化, 条纹], "用长而明显的带状标记").
+entry(条纹鲈, n, [条纹鲈鱼], "一种食用和游戏鱼").
+entry(条纹的, 形容词, [], "更有条纹的 最有条纹的条纹的").
+entry(stripier, 比较级, [], "of stripy").
+entry(最有条纹的, 最高级, [], "条纹的").
+entry(条纹, n, [条纹], "在某物上标记或绘制的条纹")
+入口(剥, a, [], "剥的过去式")。
+entry(剥皮机, n, [剥皮机们], "一个剥去…的人").
+entry(剥离, 现在, [], "strip的分词").
+entry(剝去, a, [], "strip 的過去式").
+entry(条纹, 形容词, [], "更多条纹、最条纹的，带有条纹的").
+entry(努力, v, [努力了, 努力过, 努力着], "努力去尽最大努力或精力").
+entry(奋斗者, n, [奋斗者们], "一个努力奋斗的人").
+入口(频闪灯, 动词, [频闪过的, 频闪中, 频闪灯], "产生短暂高强度的闪光").
+entry(斯特罗比克, 形容词, [], "旋转").
+条目(葇荑果, 名词, [葇荑果], "球果").
+入口(条虫体节片, 名词, [条虫体节片], "绦虫的整个身体").
+entry(毬果, n, [毬果], "某些树木的锥形复合果实").
+entry(松果, 复数名词, [], "松果").
+条目(频闪, 名词, [频闪], "产生高强度光闪的过程")。
+entry(斯特劳德, a, [], "stride的过去式").
+entry(中风, v, [中风了,中风中,中风], "轻轻揉搓").
+entry(stroker, n, [strokers], "一个抚摸的").
+entry(漫步, 动词, [漫步过, 漫步中, 漫步们], "以悠闲方式行走").
+entry(婴儿车, n, [婴儿车], "一个散步的人").
+entry(基质, n, [基质体], "构成器官或细胞框架的物质STROMAL adj").
+entry(强壮, adj, [], "更强 最强 有很大力量 强烈地 adv").
+条目(strongyl, n, [strongyls], "一种寄生虫")。
+entry(锶酸盐, n, [锶酸盐], "化合物锶酸 adj")。
+entry(strook, a, [], "击打的过去式").
+entry(strop, v, [stropped,stropping,strops], "在皮革条上磨锐").
+entry(诗节, 名词, [诗节], "古希腊合唱颂歌的一部分形成的诗节结构")
+条目(stropper, n, [stroppers], "用来磨的东西")。
+entry(易怒的, 形容词, [], "更易怒的 最易怒的不羁").
+entry(stroud, n, [strouds], "粗呢毛毯").
+entry(奋斗, a, [], "strive 的过去式")。
+entry(strow, v, [strowed, strown, strowing], "STROWSto strew").
+entry(毁灭, v, [毁灭了,正在毁灭,毁灭], "去摧毁").
+entry(stroyer, n, [破坏者们], "一个破坏者")。
+entry(击, 了, [], "strike的过去时").
+条目(击, a, [], "strike 的过去分词").
+入口(苹果卷, 名词, [苹果卷], "一种糕点")。
+entry(斗争, v, [斗争了, 正在斗争, 斗争], "作出艰苦努力以对抗反对").
+entry(弹奏, 动词, [弹奏了, 正在弹奏, 弹奏], "用手指轻轻划过琴弦来演奏弦乐器").
+`entry(struma, n, [strumas], "或 STRUMAEscrofula")`.
+entry(撥弦者, n, [撥弦者們], "撥弦的人").
+entry(轻拨, 现在时, [], "strum 的分词").
+entry(脹瘤的, 形容词, [], "有脹瘤").
+entry(瘰疬, 形容词, [], "具有或与瘰疬有关").
+entry(荡妇, n, [荡妇们], "妓女").
+entry(串, 一个, [], "string的过去式").
+entry(strunt, v, [strunted,strunting,strunts], "炫耀").
+entry(昂首阔步, v, [昂首阔步了, 昂首阔步着, 昂首阔步], "以自负的姿态行走").
+`entry(strutter, n, [strutters], "炫耀者").`
+entry(意外撞到突出物体, 动词, [撞到过, 撞到中, 撞到们], "不小心撞到突出的东西").
+entry(矮胖的, 比较级, [], "of stubby").
+entry(最粗短的, 最高级, [], "粗短的").
+entry(短而粗壮地, 副词, [], "以短而粗壮的方式").
+entry(阻断, 现在, [], "stub 的分词形式").
+entry(胡茬, n, [胡茬们], "短粗糙的胡须生长胡茬的 adj")。
+entry(短须, 形容词, [], "更短须 最短须 覆盖着短须").
+entry(顽固, 形容词, [], "更顽固 最顽固unyielding").
+entry(短粗, 形容词, [], "更短粗 最短粗短且厚短粗地 副词").
+`入口(矮矮胖胖, n, [矮矮胖胖们], "一种短而粗的啤酒瓶").`
+entry(灰泥, v, [灰泥涂,涂灰泥,灰泥s], "或将用一种石膏涂抹").
+entry(泥水匠, n, [泥水匠們], "从事灰泥工作的人员")。
+```prolog
+entry(卡住, 过去, [], "stick的时态")。
+```
+entry(研究, 动词, [镶嵌的, 镶嵌中, 镶嵌], "以小的突起物密密麻麻地设置").
+entry(谱系记录, n, [谱系记录], "纯种动物血统的记录").
+entry(铁砧, 名词, [铁砧], "铁砧")。
+entry(墙框架, n, [墙框架们], "墙体的框架").
+条目(学生, n, [学生们], "一个正式从事学习的人")。
+条目(匙吻鲟, n, [匙吻鲟们], "一种淡水鱼").
+entry(学习, 过去, [], "学习的时态").
+entry(studier, n, [学生], "一个学习的人").
+entry(学习, 现在时, [], "第三人称单数的学习").
+entry(工作室, 名词, [工作室], "一个艺术家的工作间").
+entry(好学, 形容词, [], "专注于学习").
+entry(studly, adj, [], "STUDLIER STUDLIEST肌肉发达且有吸引力").
+entry(studwork, n, [studworks], "学习").
+条目(学习, 动词, [学习了, 学习中, 学习], "运用思维获取知识")。
+条目(东西, v, [塞满的, 填充的, 塞满], "填充或紧紧包装").
+entry(stuffer, n, [填充者], "一个填充东西的人").
+入口(填充物, 名, [填充物们], "用于填充某物的材料")。
+entry(局促的, 形容词, [], "更局促的 最局促的 通风不良 局促地 副词").
+entry(斯图伊弗, n, [斯图伊弗斯], "斯泰弗").
+条目(支柱, 名词, [支柱们], "矿井中的支撑木材")。
+entry(使显得荒谬, 动词, [显得荒谬了,显得荒谬中,显得荒谬], "使显得荒谬").
+条目(葡萄糖, 动词, [发酵过, 发酵, 发酵], "通过加入葡萄汁来增加发酵").
+条目(绊倒, 动词, [绊倒了, 绊倒着, 绊倒], "在行走或跑步时错过一步").
+entry(绊脚石, n, [绊脚石们], "绊倒的人").
+entry(木桩, v, [卡住,卡住中,卡住们], "使困惑").
+入口(木材采运费, n, [木材采运费], "未砍伐可出售的木材")。
+入口(难题, n, [难题们], "一个令人困惑的问题")。
+入口(斯坦皮, 形容词, [], "更矮胖 最矮胖 矮胖 且 厚 矮胖地 副词")。
+entry(使晕, 动, [晕倒的, 使晕倒的, 使晕倒], "使无感或无行动能力").
+entry(蜇, 过去式, [], "sting的时态").
+入口(臭, a, [], "stink的过去式").
+条目(震撼者, 名词, [震撼者们], "使人震惊的人或物").
+entry(戳帆, n, [戳帆], "一种帆").
+入口(特技, 动词, [受阻, 阻碍, 阻残], "阻碍正常生长").
+entry(特技演员, n, [特技演员们], "替代演员在涉及危险活动的场景中出场的人").
+entry(佛塔, n, [佛塔], "一个佛教圣地").
+entry(stupe, n, [药布], "一种用于敷在伤口上的药用布").
+entry(麻木, 动词, [麻木了, 麻木的, 麻木], "使感官迟钝").
+entry(愚蠢, 形容词, [], "更愚蠢 最愚蠢 智力迟钝 愚蠢地 副词").
+入口(愚蠢的, 名词, [愚蠢的人们], "一个愚蠢的人")。
+条目(麻木, 名词, [麻木状态], "一种感官迟钝的状态").
+entry(坚固, 形容词, [], "更坚固 最坚固 强壮且耐用 坚固地 副词").
+entry(结实, n, [结实们], "绵羊的一种疾病坚韧的 形容词")
+entry(鲟鱼, n, [鲟鱼], "一种可食用的鱼").
+条目(sturt, n, [sturts], "争论")。
+entry(口吃, 动词, [口吃过, 口吃中, 口吃], "以断续重复的方式说话")。
+entry(sty, v, [styed,stying,sties], "关在猪圈里").
+entry(麦粒肿, n, [麦粒肿], "眼睑上发炎的肿胀").
+entry(地狱的, 形容词, [], "阴暗的").
+entry(针状的, 形容词, [], "与触针有关").
+entry(针状, 形容词, [], "有针状器官").
+```prolog
+entry(风格, v, [有风格的,风格化,风格], "命名").
+```
+entry(样式师, n, [样式师们], "一个设计样式的人").
+entry(小刺, n, [小刺], "某些动物的小而坚硬的器官或附属物").
+entry(触控笔, a, [], "触控笔的复数形式").
+entry(造型, n, [造型], "事物的风格或设计方式")
+入口(风格化, 动词, [风格化的, 风格化中, 风格化], "使具有风格化")。
+entry(风格化者, n, [风格化者们], "风格化的人").
+entry(时尚的, 形容词, [], "新潮的").
+条目(造型师, n, [造型师们], "精通文学或修辞风格的人").
+entry(柱头隐士, n, [柱头隐士], "早期基督教禁欲者STYLITIC 形容词").
+entry(风格化, v, [风格化的,风格化中,使风格化], "使传统化").
+条目(风格化者, n, [风格化者们], "一个使某物风格化的人").
+条目(茎突, 名词, [茎突们], "一种骨骼的细长突起").
+entry(膜翅目昆虫, n, [膜翅目昆虫类], "一种膜翅目昆虫").
+入口(蝇蜂, 名词, [蝇蜂], "一种寄生于其他昆虫的昆虫")。
+entry(触控笔, n, [触控笔], "或 STYLI一种用于书写、标记或雕刻的尖头工具").
+entry(阻挠, 动词, [阻挠过,阻挠中,阻挠], "阻碍").
+entry(阻碍, 动词, [阻碍了, 阻碍中, 阻碍], "阻止").
+入口(收敛, n, [收敛剂], "使用止血剂")。
+entry(止血, 名词, [止血剂], "用于止血的物质").
+entry(安息香, 名词, [安息香胶], "香树脂").
+entry(苯乙烯, n, [苯乙烯], "一种液态烃").
+entry(可被起诉的, 形容词, [], "capable of being sued坚定不移地 adv").
+entry(说服, n, [说服术], "劝说的 劝诱的 adj").
+```prolog
+entry(文雅, 形容词, [], "更文雅 最文雅平滑地温文尔雅地文雅地 副词").
+```
+entry(温文尔雅, n, [温文尔雅], "温文尔雅的状态").
+entry(替补, v, [替代,替补中,替补], "作为替代者行动").
+entry(suba, n, [subas], "subah").
+entry(副住持, 名詞, [副住持們], "一位副的住持").
+entry(微酸的, 形容词, [], "微酸").
+entry(微酸的, 形容词, [], "有点酸").
+entry(亚急性, 形容词, [], "有点急性").
+entry(subadar, n, [subadars], "苏巴达尔").
+entry(亚成年, n, [亚成年人], "接近成年的个体").
+entry(次代理, n, [次代理们], "一个下属代理").
+entry(苏巴赫, n, [苏巴赫省], "印度的一个省")。
+`词条(苏巴达尔, 名词, [苏巴达尔们], "某个苏巴的总督")。`
+entry(subalar, 形容词, [], "位于翅膀下").
+entry(子区域, n, [子区域们], "一个区域的细分").
+entry(亚干旱, 形容词, [], "有点干旱").
+入口(subatom, n, [子原子], "原子的一个组成部分").
+入口(次声, 形容词, [], "几乎听不见").
+词条(次轴, 形容词, [], "有点轴向").
+条目(子基, n, [子基座], "基座的最低部分")。
+entry(子流域, n, [子流域], "由河流排水的一片区域的部分").
+条目(次低音, n, [次低音], "一种产生风琴最低音的脚踏音栓")。
+entry(子, 过去, [], "子时态").
+entry(替膜, n, [替膜], "照相底片支撑上的一层薄膜").
+条目(子块, n, [子块们], "块的一个细分").
+entry(subbreed, n, [亚种], "品种内可区分的菌株")。
+entry(种姓的子类别, n, [种姓的子类别], "种姓的一个细分").
+入口(子原因, n, [子原因], "一个次要原因")。
+entry(子单元, n, [子单元们], "细胞的一个分区").
+entry(subchief, n, [subchiefs], "下属的首领")。
+entry(子声明, n, [子声明s], "一个从属声明")。
+词条(亚氏族, n, [亚氏族们], "氏族的一个分支").
+entry(子类, v, [被子类化, 正在子类化, 子类], "置于一个类的小类中").
+entry(subclerk, n, [subclerks], "下属职员").
+entry(subcode, n, [子代码], "代码的子分区")。
+条目(过冷, v, [过冷的,过冷中,过冷], "在不凝固的情况下冷却至冰点以下").
+entry(subcult, n, [亚文化], "邪教的一个分支").
+Prolog(录入 (皮下组织, 名词, [皮下组织们], "或皮肤的更深层")).
+entry(副院长, n, [副院长们], "一个副院长")。
+`entry(苏布迪布, n, [苏布迪布们], "在成为初舞会名媛前一年的女孩").`
+entry(次级仓库, n, [次级仓库], "在另一个仓库管辖下运作的军事仓库")
+entry(制服, n, [制服], "征服的行为").
+entry(消减, 动词, [消减了, 消减中, 消减], "拿走").
+entry(隐没, v, [隐没了, 正在隐没, 隐没], "使隐没").
+词条(征服, 动词, [征服了,正在征服,征服], "使处于控制之下")。
+entry(征服者, n, [征服者们], "征服他人的人").
+entry(硬膜下, 形容词, [], "位于硬脑膜下面").
+entry(亚矮星, n, [亚矮星], "一种相对低光度的小矮星").
+entry(弱回聲, n, [弱回聲], "一個低劣的回聲").
+entry(subedit, v, [subedited,subediting,subedits], "担任助理编辑").
+入口(子入口, n, [子入口们], "在更一般的入口下做的一个入口")。
+entry(subepoch, n, [子时期], "纪元的一个细分")。
+entry(suber, n, [软木层], "栓皮层").
+entry(直立的, 形容词, [], "几乎竖直").
+词条(软木, 形容词, [], "关于软木的").
+entry(木栓质, n, [木栓质们], "在软木细胞中发现的一种物质")。
+entry(suberise, v, [suberised,suberising,suberises], "木栓化")。
+entry(转化为软木组织, v, [已软木化,软木化中,软木化], "转换成软木组织").
+entry(suberose, 形容词, [], "软木状的").
+entry(皮质, 形容词, [], "suberose").
+entry(子域, n, [子域列表], "一个数学域的子集本身就是一个域").
+entry(子文件, n, [子文件列表], "文件的一个子分支")
+entry(下标, n, [下标], "一个写在另一个字符下方的区别符号或字母").
+entry(底层, n, [底层们], "为完成地板铺设的粗糙地板").
+entry(subfluid, adj, [], "有些流动").
+entry(子框架, n, [子框架们], "一个用于附加装饰框架的框架")。
+条目(昏暗的, n, [昏暗的衣物], "深色无光泽的衣物")。
+entry(子类型, n, [子类型], "一种类型的分支").
+entry(亚属, n, [亚属], "或亚属，一个属的细分").
+入口(子目标, n, [子目标], "一个从属目标")。
+条目(次级, n, [次级项], "铺面放置的表面").
+entry(子图, n, [子图], "包含于更大图中的图").
+entry(子组, v, [子组合, 子组分类, 子组], "划分为更小的组").
+entry(杂菜, n, [杂菜们], "一种中国的混合蔬菜菜肴").
+entry(subhead, n, [次标题], "小节的标题").
+entry(次人, n, [次人们], "低于人类的一个").
+entry(亚湿润, 形容词, [], "有些潮湿").
+entry(subidea, n, [次要想法], "一个不太好的想法").
+entry(subindex, n, [subindexes], "或 SUBINDICES 或另一个后缀")
+entry(子项目, n, [子项目们], "一个构成更大主题的细分项目")
+entry(subito, 副词, [], "迅速地用于音乐指示").
+entry(主语, v, [使遭受, 使遭遇, 使体验], "使经历")。
+entry(附加, 动词, [附加的,附加中,附加], "在末尾添加")。
+entry(取消, 动词, [取消了,取消中,取消], "去取消").
+`entry(转租, v, [转租了, 转租中, 转租], "转租").`
+entry(转租, v, [转租,转租中,转租物], "将租赁的财产转租给他人").
+entry(子级, n, [子级们], "较低的级别")。
+```prolog
+entry(崇高, 形容词, [], "更崇高 最崇高 于高尚或高贵的品质").
+```
+entry(崇高, v, [崇高了,正在崇高, 崇高], "使崇高").
+entry(升华者, n, [升华者们], "进行升华的人").
+entry(最崇高, 最高级, [], "of sublime").
+条目(子限额, 名词, [子限额们], "限额中的限额").
+条目(子系, n, [子系], "菌株内的近交系")。
+条目(小地块, n, [小地块], "地块的一个分区")。
+词条(次月球的, 形容词, [], "与地球有关").
+entry(子菜单, n, [子菜单列表], "计算机的辅助选项列表").
+entry(浸入, v, [浸入的,浸入中,浸入], "放入液体表面以下").
+entry(淹没, v, [淹没的,正淹没,淹没], "浸没").
+entry(submiss, adj, [], "倾向于服从").
+entry(提交, v, [提交的,提交中,提交了], "屈服于他人的力量")。
+entry(鼻下, 形容词, [], "位于鼻子下方")。
+入口(子网, n, [子网], "通信系统中的互连系统")。
+entry(细分生态位, n, [细分生态位], "栖息地的一个细分").
+条目(亚节点, 形容词, [], "位于节点下方")。
+entry(海底, 形容词, [], "存在于海洋底部以下")
+entry(眼下, 形容词, [], "位于眼睛下面").
+entry(suboral, 形容词, [], "位于嘴巴下方")​.
+条目(亚目, n, [亚目], "在一个目内的一类相关科").
+entry(教唆, v, [教唆过,教唆中,教唆], "诱使作伪证").
+entry(教唆者, n, [教唆者们], "教唆者").
+entry(suboval, adj, [], "几乎是椭圆形的").
+```prolog
+entry(近卵形, adj, [], "几乎卵形").
+```
+entry(亚氧化物, 名词, [亚氧化物], "含氧量相对较少的氧化物").
+entry(小面板, n, [小面板], "面板的一个分区")
+entry(subpar, 形容词, [], "未达标准").
+entry(子部分, n, [子部分], "部分的一个分支").
+entry(传票, v, [传票过,传票进行中,传票复数], "传唤").
+entry(子阶段, n, [子阶段们], "一个阶段的细分").
+entry(subphyla, npl, [], "门内的分支").
+条目(次要情节, n, [次要情节], "一个次要的文学情节")。
+entry(传票, 动词, [已传唤, 正在传唤, 传票], "使用某种司法令状传唤").
+entry(亚极地, 形容词, [], "位于极圈外").
+entry(subprime, 形容词, [], "指利率高于基准利率的贷款")
+entry(耻骨下, adj, [], "位于耻骨下方").
+entry(分种族, n, [分种族], "一种种族的细分").
+entry(转租, n, [转租], "来自转租户的租金").
+entry(子环, n, [子环], "一个数学环的子集，它本身就是一个环")
+entry(次规则, n, [次规则集], "一个从属规则")。
+entry(转售, n, [转售], "已购买商品的再次销售").
+entry(子量表, n, [子量表], "一个量表的分部")。.
+`词条(海底, 形容词, [], "位于海面以下").`
+entry(小派别, n, [小派别们], "直接从另一个派别衍生出来的派别").
+entry(subsense, n, [subsenses], "意义的细分").
+entry(subsere, n, [次级演替], "一种生态演替类型").
+条目(服务, 动词, [过去式, 进行时, 单数第三人称], "提供促进的帮助")。
+entry(子集, n, [子集], "包含在较大集合中的数学集合").
+子轴条目(n, [子轴条], "在另一个轴之下的轴")。
+entry(亚壳层, n, [亚壳层], "构成原子电子层的轨道之一")。
+entry(subshrub, n, [矮灌木], "一种低矮的灌木").
+```prolog
+entry(下沉, v, [下沉了,正在下沉,下沉], "沉入较低或正常水平").
+```
+条目(下沉者, 名词, [下沉者们], "一个减少或下沉的人").
+entry(补贴, n, [补贴], "资金的拨款或捐助")。
+条目(存在, 动词, [存在的, 存在, 存在], "继续存在").
+条目(子网站, n, [子网站组], "网站的一个子部门")。
+entry(子技能, n, [子技能], "一个从属技能")。
+```prolog
+entry(底土, v, [耕翻底土, 耕翻底土中, 耕翻底土们], "犁地以翻起表土之下的底土层").
+```
+entry(次太阳, 形容词, [], "位于太阳正下方").
+entry(亚音速, 形容词, [], "以低于声音的速度移动").
+entry(子空间, n, [子空间们], "数学空间的子集").
+entry(子阶段, n, [子阶段], "显微镜用于支撑附件的部分").
+entry(子状态, n, [子状态们], "一个状态的分支")。
+entry(包含, 动词, [被包含, 包容, 包括], "纳入一个更大的群体").
+entry(子任务, n, [子任务列表], "一个附属任务").
+入口(子分类, n, [子分类], "或 子分类一个分类单元的细分").
+entry(接近青少年, n, [接近青少年们], "一个即将步入青少年时期的人").
+entry(横跨, v, [横跨了, 横跨中, 横跨], "在……之下或对面延伸").
+entry(子测试, n, [子测试们], "测试的一个分支").
+entry(子文本, n, [子文本们], "在更一般文本下的书面或印刷材料").
+entry(subtheme, n, [从属主题], "一个从属的主题")。
+```prolog
+entry(微妙的, 形容词, [], "微妙的更微妙的最微妙").
+```
+entry(枯草菌素, n, [枯草菌素类], "一种抗生素").
+entry(微妙, n, [微妙之处], "细微之处").
+entry(副标题, v, [有字幕的, 加字幕, 字幕], "给予一个次要标题").
+entry(微妙, 形容词, [], "更微妙 最微妙以至于难以察觉地 微妙地 adv")
+entry(微妙, n, [微妙之处], "微妙的状态").
+entry(subtone, n, [次音], "一种低沉或柔和的音调").
+entry(下属音, n, [下属音们], "一种类型的音乐音调")。
+入口(乌托邦分区, n, [乌托邦分区们], "城市的郊区").
+entry(子主题, n, [子主题列表], "一个次要主题")。
+entry(subtotal, v, [小计, 小计中, 小计数], "或 已小计 已小计中 已小计以求和").
+entry(减, v, [减去了, 减去中, 减去], "减去").
+entry(subtrade, n, [分包商], "由总承包商聘请的专业人员").
+entry(子趋势, n, [子趋势], "从属趋势").
+entry(亚族, n, [亚族群], "部落的一个分支")。
+entry(贴身长袍, n, [贴身长袍们], "穿在另一件长袍下的长袍").
+条目(子类型, n, [子类型], "从属于或包含在另一类型中的类型")。
+词条(细长, 形容词, [], "细长而尖细的").
+entry(子单元, n, [子单元们], "一个是较大单元一部分的单元").
+entry(郊区, n, [郊区], "靠近城市的住宅区SUBURBED 形容词").
+entry(郊区, n, [郊区居民], "居住在郊区的人").
+entry(市郊, n, [市郊们], "城市的郊区").
+```prolog
+条目(支持, 动词, [已支持, 正支持, 支持], "作为支持或救济到达或发生")。
+```
+entry(颠覆, 动词, [颠覆了, 颠覆中, 颠覆], "彻底摧毁")。
+entry(副牧, 名词, [副牧们], "一个辅助牧师").
+entry(亚病毒, 形容词, [], "属于病毒的一部分").
+entry(subvirus, n, [亚病毒], "一种比病毒小的病毒蛋白").
+entry(潜意识, 形容词, [], "在头脑中形成为词语").
+入口(地铁, 动词, [乘地铁路, 乘地铁, 乘坐地铁], "乘坐地下铁路旅行").
+entry(subworld, n, [子世界], "兴趣或活动领域的一个划分").
+entry(零下, 形容词, [], "登记低于零").
+entry(subzone, n, [子区], "区域的一个分区")。
+entry(succah, n, [succahs], "或 SUCCOTHsukkah").
+entry(成功, 动词, [成功了, 正在成功, 成功], "完成某件所期望或打算的事情").
+`entry(成功, 名词, [成功], "实现渴望或计划的事情").`
+entry(简洁, 形容词, [], "简洁、更简洁，含义：用少数词清楚地表达").
+entry(琥珀酸, 形容词, [], "与琥珀有关").
+条目(琥珀酰, n, [琥珀酰们], "一种一价基团").
+entry(救助, v, [救助了, 救援, 救助], "给予帮助").
+entry(援助者, n, [援助者们], "一个提供援助的人").
+入口(菊苣, n, [菊苣们], "菊苣").
+entry(住棚节, a, [], "住棚节的复数").
+入(entry, succour, v, [succoured, succouring, succours], "援助").
+entry(梦淫妖, n, [梦淫妖们], "或 SUCCUBAEa 女色魔").
+entry(梦魇, n, [梦魇们], "或SUCCUBI一个女性恶魔")
+条目(屈服, 动词, [屈服了, 正在屈服, 屈服], "屈从于更强大的力量").
+entry(成功, 动词, [成功了, 正在成功, 成功], "剧烈地摇动").
+entry(这样的, 形容词, [], "那种").
+entry(类似, 形容词, [], "相似种类的").
+条目(本质, 名词, [本质们], "基本或特征性质量")。
+输入(吸, 动词, [吸入, 吸吮, 吸], "通过建立部分真空来吸入")。
+entry(傻瓜, v, [被愚弄,愚弄中,愚弄者], "去除下部的芽或枝条")。
+条目(吸鱼, 名词, [吸鱼], "一种钩鲼鱼")。
+entry(哺乳, v, [哺乳,哺乳期,哺乳者], "用乳房喂奶").
+entry(吮乳动物, n, [吮乳动物们], "进行哺乳的动物").
+条目(无汁, 形容词, [], "没有汁液")。
+entry(吮乳, n, [吮乳动物们], "未断奶的哺乳动物").
+入口(糟糕, 形容词, [], "更糟 糟糕至极").
+entry(蔗糖酶, n, [蔗糖酶s], "一种酶").
+entry(蘇克雷, n, [蘇克雷], "厄瓜多尔的旧货币单位").
+条目(蔗糖, n, [蔗糖们], "一种糖").
+entry(抽吸, v, [抽吸过,抽吸中,抽吸], "通过吸的过程去除").
+entry(汗巾, n, [汗巾], "用于擦脸的布").
+entry(汗布, n, [汗布们], "圣物/面巾").
+entry(出汗, n, [出汗], "过度流汗").
+entry(汗蒸房, n, [汗蒸房], "用于促进出汗的热空气浴")
+entry(苏德, 名词, [苏德群], "一块漂浮的植被").
+entry(突然, 形容词, [], "迅速且毫无预警地发生 突然地 副词").
+entry(突然, n, [突发事件], "突发事件").
+entry(数独, n, [数独游戏], "一个涉及数字1到9的谜题").
+条目(汗, n, [汗], "汗SUDORAL 形容词")。
+入口(泡沫, 动词, [泡沫过, 正在泡沫, 泡沫单三], "在肥皂水中清洗")。
+entry(肥皂剧, n, [肥皂剧], "a soap opera").
+```
+entry(sudsless, 形容词, [], "没有泡沫").
+```
+entry(苏西, 形容词, [], "更起泡 最起泡泡沫状").
+项(苏, 动, [起诉, 起诉中, 起诉], "提起法律诉讼").
+entry(麂皮, 动词, [麂皮化,麂皮处理中,麂皮], "对皮革进行处理使其具备柔软的毛面").
+entry(起诉者, n, [起诉者们], "诉讼者").
+条目(牛脂, 名词, [牛脂], "牛和羊的肾脏周围的硬脂肪组织SUETY 形容词").
+entry(suete, n, [suetes], "在布雷顿角岛地区的东南风")。
+entry(suffari, n, [suffaris], "游猎").
+entry(遭受, v, [遭受了, 遭受中, 遭受], "感到痛苦或苦恼").
+entry(受难者, n, [受难者们], "遭受痛苦的人").
+条目(足够, 动词, [足够了, 足够中, 足够], "足以").
+entry(足够者, n, [足够者们], "足够的东西").
+entry(suffix, v, [suffixed,suffixing,suffixes], "将作为后缀添加的一种形式附加到词尾").
+entry(后缀的, 形容词, [], "关于或作为一个后缀的").
+entry(充气, v, [充气了, 充气中, 充气], "使充气").
+entry(选举权, n, [选举权], "投票权").
+entry(弥漫, 动词, [弥漫了, 弥漫着, 弥漫], "渗透或覆盖").
+条目(糖, 动词, [加糖, 加糖中, 加糖s], "用糖覆盖一种甜的碳水化合物")。
+entry(制糖者, n, [制糖者们], "制造糖的人").
+条目(制糖, 名词, [制糖], "将枫树汁水煮成糖浆的过程")。
+entry(甜的, 形容词, [], "更甜的 最甜的包含或类似于糖").
+入口(建议, 动词, [建议过, 正在建议, 建议们], "提出或提供以供考虑")。
+entry(sugh, v, [sughed, sughed, sughing, sughs], "呼呼地吹").
+entry(自杀, 形容词, [], "自我毁灭").
+entry(自杀, v, [自杀了,正在自杀,自杀], "有意地杀死自己").
+entry(控诉, 现在, [], "控诉的分词").
+entry(绵羊油脂, n, [绵羊油脂复数], "在羊毛中发现的天然油脂").
+条目(合适, v, [合身, 合适的, 适合], "合适的").
+entry(合适, 形容词, [], "适当地 副词").
+entry(行李箱, n, [行李箱], "一个扁平的长方形行李箱").
+entry(套件, n, [套件], "形成一个单元的事物系列").
+entry(suiter, n, [套装箱], "一个行李箱，容纳指定数量的西装套装").
+条目(西装料, 名词, [西装料], "制作西装的面料")．
+entry(类似西装, 形容词, [], "类似于一套衣服").
+entry(追求者, 名词, [追求者们], "正在追求一位女性的人").
+entry(苏克, 名词, [苏克斯], "市集")。
+entry(sukh, n, [sukhs], "市集").
+entry(壽喜燒, n, [壽喜燒s], "一道日本菜").
+词条(棚屋, n, [棚屋s], "或住棚节临时的庇护所，在犹太节日期间用餐").
+entry(具沟, 形容词, [], "有长而窄的沟槽").
+entry(沟状, 形容词, [], "沟状").
+entry(脑沟, n, [脑沟], "一条窄沟SULCAL 形容词").
+entry(苏丹, n, [苏尔丹], "苏丹").
+entry(磺胺, n, [磺胺类], "一种抑制细菌的药物")
+entry(硫酸盐, v, [硫酸化的,硫酸化,硫酸盐], "用硫酸处理").
+entry(硫化物, n, [硫化物s], "硫化物").
+条目(硫化物, n, [硫化物], "一种硫化合物")。
+条目(亚砜基, n, [亚砜基们], "一个二价基团")。
+entry(亚硫酸盐, n, [亚硫酸盐], "一种化学盐SULFITIC 形容词").
+entry(sulfo, adj, [], "磺酸").
+条目(磺酮, n, [磺酮], "一种硫化合物")。
+entry(磺酸, 形容词, [], "含有一种特定的一价基团").
+条目(sulfonyl, n, [sulfonyls], "一个二价基").
+entry(硫磺, 动词, [用硫磺处理, 使用硫磺, 硫磺], "用硫磺处理一种非金属元素").
+entry(硫化物, v, [已硫化, 正在硫化, 硫化], "或 已硫化 正在硫化 硫化 用硫处理").
+entry(硫酸的, 形容词, [], "与硫有关的").
+entry(sulfury, 形容词, [], "类似于硫磺").
+条目(硫酸酰基, n, [硫酸酰基们], "磺酰").
+entry(生闷气, v, [生闷气了,生闷气着,生闷气], "心情不好或不高兴").
+条目(sulker, 名词, [sulkers], "爱生闷气的人").
+```
+条目(生气的, 形容词, [], "更生气 最生气的冷漠或疏远生气地 副词").
+```
+条目(马车, 名词, [马车们], "一种轻便的马拉车辆")。
+entry(污水, n, [污水], "污水").
+```prolog
+entry(阴沉, 形容词, [], "更阴沉 阴沉至极 显示出忧郁的不良幽默或怨恨 阴沉地 adv").
+```
+entry(sully, v, [弄脏,弄污,污损], "弄脏").
+entry(磺胺, n, [磺胺类], "磺胺").
+条目(硫酸盐, 动词, [硫酸化的, 硫酸化, 硫酸盐化], "使硫酸化").
+entry(硫化物, n, [硫化物], "硫化物").
+条目(硫化物, n, [硫化物], "硫化物").
+入口(亚硫酸盐, n, [亚硫酸盐], "亚硫酸盐").
+入口(磺酮, n, [磺酮类], "磺酮").
+entry(硫磺, v, [硫化过, 硫化中, 硫化], "动词 硫磺化").
+条目(硫磺味, 形容词, [], "硫磺味").
+entry(苏丹, n, [苏丹们], "穆斯林国家的统治者SULTANIC adj").
+entry(苏丹娜, 名词, [苏丹娜们], "苏丹的妻子")。
+entry(闷热, 形容词, [], "比较闷热 最闷热非常炎热和潮湿闷热地 副词").
+entry(苏鲁, n, [苏鲁裙], "一种美拉尼西亚裙子").
+条目(和, 动词, [总和,正在总和,总和], "合为一总").
+entry(和, n, [苏姆], "乌兹别克斯坦的货币单位")。
+entry(苏木, n, [苏木树], "一种开花的树或灌木").
+entry(sumach, n, [漆树], "漆树").
+条目(sumi, n, [sumis], "一种日本黑墨水").
+词条(小于和, 形容词, [], "大到无法计算")。
+entry(summa, n, [总结], "或 SUMMAEa 综述性的专题作品")
+entry(可加的, 形容词, [], "能够被相加").
+条目(加数, n, [加数们], "一个加数")。
+条目(摘要, n, [摘要], "简短重述")。
+entry(求和, v, [求和了, 求和中, 求和], "求总和").
+```prolog
+entry(求和, 过去, [], "求和的时态").
+```
+entry(夏天, v, [夏过了,过夏天,夏天们], "度过一年中最温暖的季节").
+entry(夏日般, 形容词, [], "夏日的")。
+entry(摘要, 形容词, [], "更夏季的 最夏季的，夏季的特征")。
+entry(求和, 现在, [], "sum的分词形式").
+entry(首脑会议, v, [参加首脑会议中, 出席首脑会议,首脑会议], "参加最高级别的会议").
+```
+entry(summital, 形容词, [], "与最高点有关").
+```
+entry(峰会外交, n, [峰会外交], "国家元首之间通过会议进行国际谈判的行为").
+entry(召唤, v, [召唤出,召唤中,召唤], "命令出现").
+entry(召唤者, n, [召唤者们], "召唤者").
+entry(传票, v, [传唤过,召传,传票], "用法院命令传唤").
+entry(相扑, n, [相扑运动], "一种日本的摔跤形式").
+entry(sumoist, n, [相扑选手], "一位相扑选手").
+entry(sump, n, [集水坑], "一个用于排放或储存液体的低洼区域").
+entry(桑普特, 名词, [桑普特们], "一种驮畜").
+entry(沼泽草, n, [沼泽草类], "一种沼泽植物").
+entry(太阳, 动词, [晒太阳中, 晒太阳过, 晒太阳], "暴露于环绕地球的恒星太阳").
+entry(sunback, 形容词, [], "剪低以露出后背接受阳光").
+entry(阳光曝晒, 形容词, [], "被太阳晒干").
+entry(日光浴, n, [日光浴], "暴露在阳光下")
+entry(晒太阳, v, [晒过太阳,正在晒太阳,晒太阳], "享受阳光浴").
+entry(阳光, n, [阳光], "一束阳光SUNBEAMY adj").
+entry(日光浴床, n, [日光浴床], "一种用于人工获得古铜色皮肤的装置")。
+entry(太阳带, n, [太阳带s], "美国南部和西南部的州")。
+entry(太阳鸟, n, [太阳鸟们], "一种热带鸟").
+entry(防晒霜, n, [防晒霜们], "一种用于保护皮肤免受太阳光线照射的制剂").
+entry(太阳虹, n, [太阳虹], "由阳光通过雾形成的光谱色彩弧").
+```prolog
+条目(晒伤, 动词, [晒伤了, 晒伤中, 晒伤], "因暴露在阳光下而烧伤或变色").
+```
+entry(阳光爆发, n, [阳光爆发们], "阳光的爆发").
+entry(防晒, n, [防晒产品], "保护皮肤免受太阳的伤害")
+条目(洋姜, 名词, [洋姜们], "一种向日葵").
+entry(圣代, n, [圣代], "一种配有糖浆的冰淇淋甜品").
+entry(阳光甲板, n, [阳光甲板], "暴露在阳光下的甲板").
+条目(桑德尔, 动词, [分裂, 分离中, 分离], "打破").
+entry(装甲运输车, n, [装甲运输车们], "进行分裂的人或物").
+entry(茅膏菜, 名词, [茅膏菜], "一种沼泽植物").
+条目(日晷, n, [日晷], "一种计时装置").
+entry(幻日, n, [幻日], "小彩虹").
+entry(日落, 动词, [日落过, 日落中, 日落复数], "经历夜间混乱")
+entry(连衣裙, n, [连衣裙], "一件上身缩短的裙子").
+entry(杂项, 复数, [], "各种各样的物品").
+entry(太阳花, n, [太阳花], "一种开花植物").
+entry(杂项, 形容词, [], "miscellaneousSUNDRILY 副词").
+entry(sunfast, 形容词, [], "抗晒").
+entry(sunfish, n, [日鲽], "一种海鱼").
+entry(桑, 过去式, [], "sing 的分词").
+entry(太阳镜, n, [太阳镜], "一种用于集中太阳光以产生热量的镜片")。
+entry(阳光, n, [阳光], "太阳造成的天空亮光").
+`入口(沉, a, [], "sink 的过去分词")。`
+entry(沉没, a, [], "下沉的过去分词").
+entry(sunker, n, [sunkers], "海面附近的岩脊")
+entry(サンケット, 名詞, [サンケッツ], "小点心").
+entry(太阳灯, n, [太阳灯], "发射紫外线的灯").
+条目(sunland, n, [sunlands], "一个太阳光照充沛的区域")。
+入口(无阳光, 形容词, [], "没有阳光").
+阳光条目(n, [阳光们], “太阳的光”).
+entry(像太阳的, 形容词, [], "类似于太阳").
+entry(阳光普照的, 形容词, [], "被太阳照亮").
+条目(sunn, n, [sunns], "一种东印度灌木").
+条目(溯娜, 名词, [溯娜们], "传统穆斯林法的主体").
+entry(圣训, n, [圣训], "圣行").
+entry(晒太阳, 过去式, [], "sun的时态").
+entry(晒太阳, 现在时, [], "晒的分词").
+entry(晴, 形容词, [], "更阳光 最阳光 阳光普照 晴朗地副词").
+entry(日光门廊, 名词, [日光门廊们], "一个允许大量阳光进入的门廊").
+entry(防晒, 形容词, [], "抗日晒损伤").
+entry(阳光, n, [阳光], "阳光的一束").
+entry(日出, n, [日出], "太阳在早晨升上地平线").
+entry(天窗, n, [天窗], "一种汽车车顶，具有可开启的面板").
+入口(阳光房, n, [阳光房], "一个允许大量阳光进入的房间").
+entry(阳光灼伤, n, [阳光灼伤], "由太阳引起的木本植物损伤")。
+entry(日落, n, [日落], "晚上太阳在地平线下的下降")。
+entry(遮阳伞, 名词, [遮阳伞们], "用来防护太阳的东西")。
+入口(陽光, 名詞, [陽光們], "太陽的光SUNSHINY 形容詞")。
+入口(太阳黑子, n, [太阳黑子], "太阳表面上的黑点").
+entry(海星, n, [海星们], "一种海星").
+entry(日光石, n, [日光石], "一种石英变体").
+将这段 Prolog 代码翻译为中文如下：
+
+```prolog
+entry(太阳装, n, [太阳装], "一种游戏服装").
+```
+条目(晒黑, 动词, [已晒黑, 正在晒黑, 晒黑], "变成棕褐色").
+entry(阳光棚, n, [阳光棚], "一个令人愉快的阳光充足和有庇护的地方").
+entry(日出, n, [日出], "日出").
+entry(向阳, 副词, [], "朝向太阳").
+entry(日向, 副词, [], "朝向太阳").
+entry(sunwise, 副词, [], "从左到右").
+entry(吃晚饭, 动词, [吃了晚饭, 正在吃晚饭, 吃晚饭], “吃晚餐”).
+entry(supe, n, [supes], "没有台词的演员").
+entry(超级, 动词, [超级了, 超级中, 超级的], "用一层薄薄的棉质网状物加强，例如作为书籍").
+entry(超级添加, v, [超级添加了,超级添加中,超级添加], "进一步添加")。
+`条目(superb, 形容词, [], "非常优秀的质量").`
+entry(糟糕透顶, 形容词, [], "极坏的").
+entry(超级细菌, n, [超级细菌], "对所有抗生素有抗药性的细菌株").
+entry(超级跑车, n, [超级跑车], "一种高级汽车").
+entry(超级警官, n, [超级警官们], "高级警官").
+条目(超我, 名词, [超我], "精神结构的一部分")。
+`条目(超级粉丝, n, [超级粉丝们], "一位极度热衷的爱好者").`
+entry(上标, n, [上标], "言语中压力的反复模式").
+entry(superfly, adj, [], "炫耀地自命不凡").
+entry(超级热卖, n, [超级热卖们], "非常成功的事物")。
+entry(超热, 形容词, [], "极其热").
+entry(上级, n, [上级们], "比其他人有更高等级、质量或权威的人").
+entry(超音速喷气机, n, [超音速喷气机们], "一种喷气式飞机类型").
+```prolog
+项目(superlie, 动词, [superlay,superlain,superlying], "SUPERLIEsto lie above").
+```
+entry(超人, n, [超人], "一种假想的卓越人类").
+entry(超级妈妈, n, [超级妈妈们], "一位优秀的妈妈").
+entry(超级的, 形容词, [], "与天空有关").
+entry(superpro, n, [超级专业人士], "卓越的职业人士").
+entry(超级性, n, [超级性别], "一种类型的无菌生物体").
+entry(超级间谍, n, [超级间谍], "一个高级间谍").
+条目(附加税, 名词, [附加税], "一种额外的税").
+entry(仰卧, v, [仰卧过, 正在仰卧, 仰卧], "把手掌转向朝上").
+entry(仰卧, n, [仰卧形], "拉丁动名词").
+entry(仰卧地, 副词, [], "以一种不活跃的方式").
+条目(supped, 过去式, [], "sup 的时态").
+entry(晚餐, n, [晚餐们], "晚上的一餐").
+entry(喝, 现在时, [], "喝的分词").
+```prolog
+条目(取代, 动词, [取代了, 取代中, 取代], "取代某物或某人").
+```
+entry(柔软, 形容词, [], "柔软的 柔软的顺从柔顺地 副词").
+entry(灵活, v, [使灵活,灵活中,灵活的], "使灵活").
+entry(供应商, n, [供应商], "提供货物或服务的人或实体").
+entry(供给, v, [供给了,正在供给,供给], "提供所需的东西").
+entry(支持, v, [支持的,支持着,支持], "给予支撑或增强力量").
+entry(假设, n, [假设们], "假定的事情").
+entry(假设, v, [假设了,假设中,假设], "假定为真").
+entry(假设者, n, [假设者们], "一个做出假设的人").
+entry(压制, v, [已压制, 正在压制, 压制], "强行结束").
+entry(supra, 副词, [], "在上").
+entry(至高, n, [至高们], "一种用鸡汤制作的光滑白色酱汁").
+entry(至高, 形容词, [], "至高无上的，权力或权威最高的").
+entry(最高领袖, n, [最高领袖们], "在权威上至高无上的人").
+entry(suq, n, [suqs], "露天市集").
+条目(章节, n, [章节们], "可兰经的一章").
+entry(surah, n, [丝绸], "一种丝织物").
+entry(sural, adj, [], "与小腿有关的").
+entry(surbase, n, [surbases], "建筑物基础上方的装饰线条或边框SURBASED adj.")
+entry(停止, v, [停止了,正在停止,停止], "停止").
+条目(外套, 名词, [外套们], "一种外套或斗篷")。
+entry(无声, 名词, [无声音], "一个无声的语音").
+entry(肯定, 形容词, [], "肯定无疑").
+entry(可靠, adj, [], "一定符合期望").
+entry(一定, 副词, [], "当然").
+entry(确定性, n, [确定性], "确信的状态").
+entry(更确定, 比较级, [], "更加确定的").
+entry(最确定的, 最高级, [], "确定的").
+entry(保证, n, [担保], "确定").
+```prolog
+条目(冲浪, 动词, [冲过, 冲浪中, 冲浪], "在长而窄的板上骑破浪的动作SURFABLE 形容词").
+```
+entry(表面, v, [表面化, 表面中, 表面们], "涂敷外层").
+条目(表面者, 名词, [表面者们], "一个使表面化的人或物")。
+entry(灰背鹬, n, [灰背鹬们], "海岸鸟").
+entry(冲浪船, n, [冲浪船], "一种坚固的划艇").
+条目(过量, 动词, [过量了, 过量中, 过量], "供应过剩").
+```prolog
+条目(冲浪者, n, [冲浪者们], "一个冲浪的");
+```
+entry(冲浪鱼, n, [冲浪鱼], "一种海洋鱼").
+entry(surfier, 比较级, [], "of surfy").
+entry(最冲浪的, 最高级, [], "冲浪的").
+entry(冲浪, n, [冲浪运动], "乘破浪的行为或运动")。
+entry(类似海浪的, 形容词, [], "类似破浪").
+entry(划手, n, [划手们], "擅长在海浪中操作船只的人").
+entry(海滨, 形容词, [], "位于海滨附近").
+entry(surfy, adj, [], "海浪较多").
+谓词(暴涨, 动词, [暴涨了, 暴涨中, 暴涨], "以膨胀的方式移动")。
+entry(外科医生, n, [外科医生们], "从事外科手术的人").
+entry(激流者, n, [激流者们], "一个冲击的人").
+entry(手术, n, [手术], "通过操作处理医疗问题").
+entry(外科的, 形容词, [], "与外科相关").
+entry(汹涌, 现在时, [], "surge的分词").
+entry(surgy, 形容词, [], "澎湃").
+entry(疣猪, 名词, [疣猪], "一种穴居哺乳动物")。
+```prolog
+entry(鱼浆, n, [鱼浆], "一种廉价的鱼制品").
+```
+entry(粗鲁的, 形容词, [], "更加粗鲁 最粗鲁 阴沉地粗鲁 粗鲁地 副词").
+entry(推测, v, [推测了, 推测中, 推测], "在证据不足的情况下推断").
+entry(推测者, n, [推测者们], "一个猜测的人").
+entry(克服, 动词, [克服了,克服中,克服], "穿越或跨越").
+entry(姓氏, v, [姓氏化, 姓氏化中, 姓氏化们], "给予一个姓氏").
+entry(surnamer, n, [surnamers], "起名字的人").
+entry(超越, v, [超越了,超越中,超越], "超越").
+入口(长衣, 名词, [长衣], "一种宽松的法衣").
+entry(盈余, v, [盈余过, 盈余中, 盈余], "或 盈余过 盈余中 盈余 将其视为超过所需").
+entry(surprint, v, [surprinted,surprinting,surprints], "在已印刷的内容上进行覆盖印刷").
+entry(惊喜, v, [惊讶, 惊人的, 惊喜], "意想不到地出现").
+entry(惊讶, v, [惊讶的,惊讶的,惊讶], "使惊讶")。
+entry(surra, n, [马瘟], "家畜的疾病").
+入口(超现实, 形容词, [], "具有梦幻般的特质")。
+entry(萨里, n, [萨里马车], "一种轻便马车").
+entry(包围, 动词, [包围了, 包围着, 包围], "完全环绕").
+entry(surroyal, n, [surroyals], "鹿角顶端的分支")
+entry(附加税, v, [已加税, 加税中, 加税], "征收额外税款").
+entry(副标题, n, [副标题], "外语对白的翻译，显示在屏幕或舞台上方").
+入口(大衣, 名词, [大衣], "一种贴身的大衣")。
+entry(监视, 动词, [受到监视, 正在监视, 监视], "紧密观察").
+entry(勘测, v, [勘测过,勘测中,勘测], "通过测量角度和距离来确定界限、面积或海拔").
+entry(测量员, n, [测量员们], "测量土地的人").
+条目(生存, n, [生存], "比另一个人或事物活得或持续得更长久")。
+entry(存活, v, [存活了,存活着,存活], "继续存在").
+entry(幸存者, 名词, [幸存者们], "幸存者").
+entry(幸存者, 名词, [幸存者], "一个幸存下来的人").
+entry(sus, v, [sused,susing,suses], "调查").
+entry(寿司, n, [寿司], "一种由冷米糕与生鱼片组成的菜肴")
+entry(黄鼠, 名词, [黄鼠], "一种欧亚大陆的啮齿动物").
+entry(嫌疑犯, 动词, [怀疑,怀疑中,怀疑者], "在轻微证据下认为有罪")。
+```prolog
+条目(暂停, 动词, [暂停的, 暂停中, 暂停], "使其在一段时间内停止").
+```
+entry(悬念, n, [悬疑], "一种心理不确定性或兴奋状态").
+条目(叹息, 动词, [叹息了, 叹息着, 叹息], "叹气").
+entry(suss, v, [发现, 正在发现, 发现], "弄清楚或检查").
+entry(维持, v, [维持了,维持中,维持], "通过提供食物和饮料来维持").
+entry(沙沙声, n, [沙沙声], "轻柔的沙沙声").
+entry(军需商, n, [军需商们], "向士兵兜售商品的人").
+entry(经文, n, [经文], "印度格言").
+entry(經典, n, [經典們], "經文").
+```prolog
+entry(薩蒂, n, [薩蒂們], "一位印度教寡婦在丈夫的火葬柴堆上火化，以表達她對丈夫的忠誠")。
+```
+entry(缝合的, 形容词, [], "关于连接两个骨头之间的线").
+entry(缝合, v, [缝合了, 缝合中, 缝合], "通过缝制连接").
+entry(宗主, n, [宗主们], "封建君主").
+entry(斯瓦拉杰, n, [斯瓦拉杰斯], "自治").
+entry(斯维德伯格, n, [斯维德伯格], "时间单位").
+entry(苗条, 形容词, [], "更苗条 最苗条 优雅地苗条 苗条地 副词").
+entry(擦洗, v, [擦洗过,正在擦洗,擦洗], "用大拖把清洁").
+entry(拭子员, n, [拭子员们], "进行擦拭工作的人").
+entry(擦洗水手, 名词, [擦洗水手们], "一个水手").
+entry(擦拭, 现在, [], "擦拭的分词").
+entry(swabby, n, [海军仆从], "海军仆从").
+entry(swacked, 形容词, [], "醉").
+entry(襁褓, v, [包裹着,襁褓着,包裹], "用绷带包裹").
+entry(摇摆, v, [摇摆过, 摇摆中, 摇摆], "摇动").
+entry(模锻, v, [模锻的, 模锻中, 模锻], "用锤工具塑形").
+entry(swager, n, [swagers], "起锻模作用的人")。
+```prolog
+entry(昂首阔步, v, [昂首阔步了,昂首阔步着,昂首阔步], "以自大的姿态行走").
+```
+entry(swaggie, n, [流浪汉], "一个流浪汉")。
+entry(摇摆, 现在时, [], "摇摆的分词")。
+entry(铸锻, 现在时, [], "锻压的分词").
+条目(流浪汉, 名词, [流浪汉们], "流浪汉").
+entry(swail, n, [swails], "洼地").
+entry(swain, n, [swains], "乡下男孩，乡男SWAINISH adj").
+entry(沼泽地, n, [沼泽地], "一片低洼的沼泽地").
+条目(燕子, 动词, [吞下, 吞嚥, 吞咽], "通过口和食管进入胃中").
+entry(游泳, 过去式, [], "游泳的时态")。
+条目(swami, n, [swamis], "印度教宗教教师").
+条目(斯瓦米斯, 复数, [], "的斯瓦米").
+条目(沼泽, v, [淹没,淹没中,沼泽], "淹没")。
+entry(沼泽者, n, [沼泽者们], "生活在沼泽地区的人").
+entry(沼泽般的, 形容词, [], "沼泽的").
+entry(潮湿的, 形容词, [], "更潮湿 最潮湿 沼泽般的").
+entry(swamy, n, [swamies], "上师").
+条目(天鹅, 动词, [天鹅游, 天鹅游动, 天鹅], "发誓")。
+entry(斯旺, a, [], "swing的过去式").
+entry(牧鹅者, n, [牧鹅者], "专门饲养天鹅等大型水鸟的人").
+```prolog
+entry(swank, adj, [], "极为优雅的").
+```
+条目(swank, 动词, [swanked, swanking, swanks], "大摇大摆地走").
+entry(swanky, adj, [], "更华丽 最华丽swank华丽地 adv").
+entry(水鸟状, 形容词, [], "像天鹅").
+entry(忽然改变, 过去式, [], "swan的时态")。
+```
+条目(天鹅养殖场, 名词, [天鹅养殖场们], "一个养天鹅的地方").
+```
+entry(游走, 现在, [], "天鹅的分词").
+entry(swanny, v, [], "声明 仅用于第一人称单数").
+entry(算盘, n, [算盘], "中国算盘").
+entry(天鹅皮, n, [天鹅皮], "天鹅的皮").
+entry(交换, 动词, [交换了, 交换中, 交换], "进行贸易")
+入口(交换文件, n, [交换文件列表], "用于存储被转移程序的计算机文件").
+entry(交換者, n, [交換者們], "一個進行交換的人").
+entry(斯瓦拉吉, n, [斯瓦拉吉们], "英属印度的自治").
+entry(sward, v, [swarded,swarding,swards], "用草皮覆盖").
+entry(sware, a, [], "swear的过去式")。
+entry(切屑, n, [切屑], "由切削工具除去的材料")
+entry(群集, v, [群集过, 群集着, 群集], "成群结队地移动").
+entry(蜂拥者, n, [蜂拥者们], "一种蜂拥的东西").
+entry(蜂拥, n, [蜂拥], "一群攻击者围攻一个受害者")
+entry(黝黑, 形容词, [], "黝黑").
+entry(swarth, n, [swarths], "草皮").
+entry(黑黝黝, 形容词, [], "黑黝黝 更黑黝黝 皮肤黝黑").
+entry(swarty, 形容词, [], "黝黑的").
+entry(大摇大摆, v, [大摇大摆过, 大摇大摆着, 大摇大摆], "趾高气扬地走").
+entry(swasher, n, [拍打者], "一个拍打的人").
+entry(卐, n, [卐符号], "卐字符").
+```prolog
+entry(卍, n, [卍符], "一种作为符号或装饰品使用的几何图案").
+```
+entry(猛击, 动词, [猛击了,猛击着,猛击], "猛烈地打").
+entry(样布, n, [样品], "一块布料样品").
+entry(刈幅, n, [刈幅], "一排割下的草或谷物")
+条目(裹, 动词, [裹了, 裹着, 裹着], "用绷带包裹")。
+entry(牧草收割机, n, [牧草收割机们], "一个用于割草的机器").
+entry(拍打, 过去, [], "拍打的时态").
+入口(苍蝇拍, n, [苍蝇拍], "用来拍打东西的工具")。
+entry(人肉搜索, 现在, [], "拍打的分词").
+entry(摇摆, 动词, [摇摆过, 摇摆着, 摇摆], "慢慢地来回移动 可摇摆的 形容词").
+条目(摇背病, n, [摇背症], "背部异常下垂").
+条目(摇摆者, n, [摇摆者们], "摇动的人").
+entry(swayful, adj, [], "能够影响的").
+entry(咒骂, 动词, [发誓,发过誓,正在发誓], "发誓说严肃的誓言")。
+条目(发誓者, n, [发誓者们], "一个发誓的人")。
+entry(咒骂, n, [咒骂], "发出庄严誓言的行为").
+entry(汗, 动词, [流汗,出汗,冒汗], "出汗").
+entry(汗箱, n, [汗箱], "一个让人出汗的小围栏").
+entry(毛衣, n, [毛衣们], "一件编织的外套SWEATERED 形容词").
+entry(流汗的, 形容词, [], "更流汗的 最流汗的 被汗水覆盖的 流汗地 副词").
+条目(瑞典, 名, [瑞典人], "一种瑞典芜菁")。
+```prolog
+条目(sweeney, n, [sweeneys], "sweeny").
+```
+entry(sweeny, n, [sweenies], "马肩肌萎缩").
+条目(打扫, 动词, [打扫了, 打扫着, 打扫], "用刷子或扫帚清理或清扫").
+entry(扫地工, n, [扫地工们], "一个进行清扫工作的人").
+entry(清扫, n, [清扫物], "扫地者的行为").
+入口(扫荡, 形容词, [], "广泛范围的更扫/最扫")。
+entry(sweer, 形容词, [], "懒惰").
+entry(甜, adj, [], "更甜 甜美的令人愉悦的味道")
+```prolog
+entry(甜的, n, [甜食], "某种甜的东西").
+```
+条目(甜化, 动词, [甜化过, 甜化中, 甜化], "使其变甜")。
+entry(甜心, n, [甜心们], "亲爱的").
+entry(甜果, n, [甜果们], "一种甜苹果").
+entry(微甜的, 形容词, [], "有点甜").
+entry(甜唇鱼, n, [甜唇鱼], "一种具有突出口部的鱼").
+entry(甜美地, 副词, [], "以甜美的方式").
+条目(番荔枝, n, [番荔枝], "一种热带树木")。
+entry(膨胀, 形容词, [], "更时髦 最时髦").
+entry(膨胀, v, [膨胀了,膨胀的,膨胀中], "增大的体积或大小").
+entry(肿胀, n, [肿胀物], "肿大的东西").
+entry(中暑, 动词, [中暑了, 正在中暑, 中暑着], "因炎热而感到痛苦").
+入口(炎热, 形容词, [], "更炎热 最炎热非常热").
+entry(扫, 过去, [], "sweep 的时态").
+entry(转弯, 动词, [转弯的,正在转弯,转弯], "突然偏离直线行驶的路线")
+entry(swerver, n, [swervers], "急转弯的人或物").
+entry(sweven, 名词, [swevens], "梦或幻觉")。
+条目(swidden, n, [swiddens], "通过烧除植被覆盖生产的农业地块")。
+```prolog
+entry(swift, adj, [], "迅速的 快速的以极快的速度移动").
+```
+入口(雨燕, n, [雨燕], "一种飞行迅速的鸟").
+入口(swifter, n, [swifters], "船上的绳子")。
+entry(霉粉, n, [霉粉们], "行动或思考迅速的人").
+entry(雨燕, n, [雨燕], "一种居住在洞穴中的雨燕").
+entry(迅速地, 副词, [], "以迅速的方式").
+入口(swig, v, [swigged,swigging,swigs], "深饮或快速饮").
+entry(swigger, n, [swiggers], "豪飲者") .
+entry(swile, n, [swiles], "一种海洋哺乳动物海豹").
+entry(猎海豹者, n, [猎海豹者们], "猎取海豹的人").
+entry(猎海豹, n, [猎海豹们], "捕猎海豹的活动").
+入口(酒饮, 动词, [酗饮,酗饮中,酗饮], "畅饮").
+entry(痛饮者, 名词, [痛饮者], "一个痛饮的人").
+entry(swim, v, [swam,swum,swimming], "游泳是通过自然方式在水中推进自己").
+entry(游泳者, n, [游泳者们], "一个会游泳的人").
+游泳(swimming, n, [游泳], "游泳的人所进行的行为").
+entry(游泳的, 形容词, [], "更游泳的 最游泳的 晕游泳地 副词").
+```prolog
+词条(泳衣, 名词, [泳衣], "一种游泳服").
+```
+```prolog
+entry(泳衣, n, [泳衣], "适合游泳的衣服").
+```
+```prolog
+条目(诈骗, 动词, [诈骗过,诈骗中,诈骗], "通过欺诈手段获取金钱或财产").
+```
+entry(骗子, n, [骗子], "进行诈骗的人").
+entry(卑鄙的人, 名词, [卑鄙的人们], "一个令人鄙视的人").
+entry(猪痘, n, [猪痘], "猪的一种疾病").
+entry(摇摆, v, [swang,摇摆着,摇摆s], "自由来回移动").
+entry(飞越, n, [飞越任务], "一种任务，航天器利用行星的引力进行航线改变")。
+entry(鞭打, v, [鞭打了,鞭打中,鞭打们], "鞭笞").
+入口(摇摆者, 名词, [摇摆者们], "挥舞的人").
+entry(swingier, 比较级, [], "摇摆的").
+entry(最挥洒自如, 最高级, [], "挥洒自如的").
+entry(swinging, adj, [], "最晃动的活泼和时尚").
+entry(摇摆, n, [摇摆], "交换性伴侣的行为").
+entry(swingle, v, [swingled,swingling,swingles], "打麻, 压麻").
+入口(摇摆人, n, [摇摆人们], "一个可以打后卫或前锋的篮球运动员")。
+入口(摇摆的, 形容词, [], "更摇摆 最摇摆以摇摆为特征").
+entry(猪一般的, 形容词, [], "类似或适合猪").
+条目(swink, 动词, [swinked,swinking,swinks], "劳动").
+entry(swinney, n, [swinneys], "sweeny").
+条目(刷, 动词, [刷了, 刷着, 刷], "以扫击的方式打").
+entry(swiper, n, [刷卡者], "一个刷卡的人").
+entry(swipes, npl, [], "变质啤酒").
+条目(swiple, n, [swiples], "脱粒装置的一部分")。
+entry(swipple, n, [swipples], "swiple").
+entry(旋转, v, [旋转了,旋转中,旋转], "以旋转的方式移动")
+entry(swirly, 形容词, [], "更旋状的 最旋状的旋转").
+entry(甩, v, [甩了,甩动,甩着], "以长时间的嘶嘶声移动")
+```
+词条(swish, 形容词, [], "最时髦 最时髦的1 聪明 时尚 2 娘娘腔").
+```
+entry(swisher, n, [swishers], "挥动者")。
+entry(swishy, adj, [], "更飘逸 最飘逸 飘逸的 娘娘腔").
+条目(瑞士, 名词, [瑞士棉布], "一种棉织物")。
+entry(开关, v, [转换,切换,开关], "用灵活的杆子打").
+```prolog
+条目(蜂蜜饮料, n, [蜂蜜饮料们], "一种用水，糖蜜，醋和常常生姜制成的饮料").
+```
+entry(转换器, n, [转换器们], "一个进行转换的人").
+entry(swith, 副词, [], "迅速地").
+entry(swithe, 副词, [], "swith").
+```prolog
+entry(swither, v, [swithered,swithering,swithers], "怀疑").
+```
+entry(swithly, 副词, [], "swith").
+entry(swive, v, [swived,swiving,swives], "交媾").
+entry(旋转, v, [旋转了,旋转中,旋转们], "或 旋转了 旋转中 旋转在枢轴支撑上转动")。
+入口(转体, 名词, [转体们], "一种紧张兴奋的状态")。
+条目(swizzle, 动词, [swizzled, swizzling, swizzles], "过量饮酒")。
+条目(swizzler, n, [swizzlers], "一个搅拌的人").
+entry(swob, v, [swobbed,swobbing,swobs], "擦拭，拖把").
+entry(swobber, n, [拖把], "拖把工")。
+入口(肿胀, 过去, [], "swell 的分词")。
+entry(昏厥, v, [昏厥了,正在昏厥,昏厥], "晕倒").
+词条(昏厥者, 名词, [昏厥者们], "晕倒的人").
+entry(恍惚的, 形容词, [], "更恍惚 最恍惚 昏昏欲睡的 恍惚的").
+entry(俯冲, 动词, [俯冲了, 俯冲中, 俯冲], "进行一次突然的下降")。
+entry(快速俯冲者, n, [快速俯冲者们], "一个俯冲的人").
+entry(swoopy, 形容词, [], "更具曲线的 最高级：具有曲线或特征的").
+entry(嗖嗖, 动词, [嗖嗖声, 嗖嗖作响, 嗖嗖运动], "发出沙沙的声响").
+entry(交换, v, [交换过, 正在交换, 交换], "交换").
+entry(swopper, n, [交换者们], "交换者").
+entry(剑, n, [剑], "一种有长刃用于劈砍或刺击的武器")
+entry(剑士, n, [剑士], "精通剑术的人").
+entry(发誓, 了, [], "发誓的过去式").
+entry(宣誓, 过去式, [], "发誓的过去分词").
+entry(swot, v, [用力拍打,用力拍打着,用力拍打], "用力拍打").
+入口(学习者, 名词, [学习者们], "勤奋学习的人").
+```prolog
+entry(昏厥, v, [昏厥了, 昏厥中, 昏厥], "to swoon").
+```
+条目(swound, 动词, [swounded, swounding, swounds], "晕倒")。
+entry(swum, 过去式, [], "swim的分词").
+entry(摇摆, 了, [], "swing的过去式").
+entry(奢侈逸乐者, n, [奢侈逸乐者们], "一个致力于享乐和奢华的人").
+entry(sybo, n, [syboes], "细香葱").
+entry(桑科, n, [桑树], "桑树").
+entry(槭树, n, [槭树们], "一种北美的树")
+入口(仆役, 名词, [仆役], "印度的一名男性仆人")。
+entry(银锭, n, [银锭], "以前在中国用作货币的精细未铸造银").
+entry(sycomore, n, [sycomores], "悬铃木").
+```
+entry(sycon, n, [海绵体], "一种海绵SYCONOID adj").
+```
+条目(榕果, n, [榕果], "肉质聚合果").
+entry(毛囊炎, 名词, [毛囊炎], "一种毛囊的炎性疾病").
+entry(粗粒岩, n, [粗粒岩], "一种火成岩粗粒质的 形容词").
+entry(syke, n, [sykes], "小溪流").
+entry(syli, n, [sylis], "几内亚的旧货币单位")。
+entry(教学大纲, a, [], "syllabus的复数形式").
+条目(音节的, 名词, [音节的], "一种高响度的语音").
+entry(音节, v, [音节化,音节化中,音节们], "发音语言的音节单位").
+entry(奶油酒, 名词, [奶油酒们], "sillabub").
+条目(教学大纲, n, [教学大纲], "或教学大纲是一个课程学习的大纲")。
+entry(仙女, n, [仙女们], "一个苗条优雅的女孩或女人仙女般 仙女式 仙女状 adj").
+条目(妖精, 名词, [妖精们], "年轻的空气精灵")。
+条目(sylva, n, [sylvas], "或 SYLVAE一片区域的森林树木")。
+entry(森林居民, n, [森林居民们], "生活在森林中的一个").
+entry(森林的, 形容词, [], "关于森林的").
+入口(芒, n, [芒儿], "芒光沸石")。
+entry(硫氨, n, [硫氨], "硫化钾").
+条目(光卤石, n, [光卤石], "一种钾的矿石").
+条目(symbion，n，[symbions]，“共生体”)。
+entry(共生体, n, [共生体], "与另一有机体密切相关的有机体")
+entry(symbiot, n, [共生体], "共生体")
+entry(共生体, n, [共生体], "共生体").
+entry(symbol, v, [象征的, 象征着, 象征], "或 象征着 象征着 作为象征 表示").
+entry(symbolic, 形容词, [], "与符号有关").
+entry(对称, n, [对称性], "图形相对半部分之间的精确对应关系")
+entry(同情, 名词, [同情], "对他人痛苦的同情之情").
+entry(同域分布, n, [同域分布], "占据同一区域但不因杂交而丧失身份的状态").
+entry(交响乐, n, [交响曲], "一部管弦乐作品").
+entry(sympodia, npl, [], "由一系列叠加枝条组成的植物茎干").
+entry(研讨会, 非专利文献, [], "用于讨论的会议").
+entry(症状, n, [症状], "某物的指征").
+entry(syn, adv, [], "syne").
+条目(犹太会堂, n, [犹太会堂s], "犹太教敬拜的建筑物")。
+条目(synanon, n, [synanons], "一种针对吸毒成瘾者的团体治疗方法")。
+条目(突触, 动词, [突触化, 发生突触, 突触连结], "在联会中结合").
+entry(合弓綱, 名词, [合弓綱動物], "一類已滅絕爬行動物的一員").
+entry(突触, n, [synapses], "神经冲动从一个神经元传递到另一个神经元的点SYNAPTIC 形容词").
+条目(同步, 动词, [已同步, 正同步, 同步中], "使协调一致操作")。
+```
+条目(syncarp, n, [syncarps], "一种肉质聚合果").
+```
+```prolog
+entry(syncarpy, n, [syncarpies], "合果的状态")。
+```
+entry(同步, v, [同步中,同步中,同步], "同步").
+entry(同步, n, [同步器], "自同步变速器")。
+entry(向斜, n, [向斜构造], "一种岩石构造类型").
+entry(syncom, n, [同步通信卫星], "一种通信卫星类型") .
+entry(晕厥, n, [晕厥], "通过省略中间的一个或多个音而让单词收缩的过程同类相连 形").
+entry(合胞体, 复数, [], "细胞融合产生的原生质团").
+entry(联合, n, [联合], "或 联结").
+条目(合成洗洁精, 名词, [合成洗洁精们], "一种合成洗涤剂").
+entry(连接性, 形容词, [], "用于连接").
+entry(syndic, n, [代理人], "业务代理人SYNDICAL 形容词").
+entry(综合症, n, [综合症群], "特定疾病的一组症状").
+词条(syne, 副词, [], "since").
+entry(综解的, adj, [], "与解决问题系统相关的").
+entry(协同, n, [协同作用], "协同效应").
+entry(助细胞, n, [助细胞], "在种子植物胚囊内发现的一个细胞").
+条目(协同作用, n, [协同作用们], "联合行动协同作用 形").
+entry(综摄, n, [综摄], "一种语法结构的类型").
+entry(合成燃料, n, [合成燃料], "一种由化石燃料衍生的燃料").
+entry(合子受精, n, [合子受精], "两个配子的结合合子 adj").
+entry(合成气, n, [合成气体], "或合成气是一种由一氧化碳和氢气组成的混合物，用于化学合成")
+entry(同源，形容词，[]，"涉及或是基因相同的个体，关于对抗原的反应")。
+entry(synkarya, npl, [], "由两个预先存在的细胞核融合形成的细胞核").
+`entry(synod, n, [宗会议], "教会会议SYNODAL SYNODIC 形容词").`
+entry(同义词, 名词, [同义词], "与另一个词具有相同意义的词")。
+entry(同义词, n, [同义词们], "同义词").
+entry(同义词, n, [同义词们], "意思的等同").
+entry(提要, n, [概要], "一个摘要SYNOPTIC adj").
+```prolog
+条目(滑膜液, n, [滑膜液], "一种由某些膜分泌的润滑液SYNOVIAL adj")。
+```
+entry(短语, n, [短语], "句法结构").
+entry(句法, n, [句法群], "或 句式语法单位").
+条目(句法, n, [句法], "将单词组合成短语和句子的方式")。
+entry(合成器, n, [合成器], "一个合成器").
+entry(合酶, n, [合酶们], "作为催化剂连接两个分子的酶").
+entry(合成流行乐, n, [合成流行乐], "用合成器演奏的流行音乐").
+entry(合调者, n, [合调性人物], "具有合调性气质的人").
+entry(合调的, 形容词, [], "具有对特定社会环境作出反应的性情")。
+条目(谐调, 名词, [谐调], "发射机和接收机之间的调谐")。
+entry(语法类型, n, [语法类型标本], "新物种名称所依据的一组类型标本中的每一个").
+entry(合尾藻, n, [合尾藻类], "属于原生动物的任何一种属").
+进入(syph, n, [syphs], "梅毒").
+entry(sypher, v, [syphered,syphering,syphers], "交叠以形成平滑的表面，如斜面的板边缘")。
+entry(梅毒, n, [梅毒], "一种性病").
+entry(虹吸管, v, [虹吸了,虹吸,虹吸管], "抽取").
+entry(虹吸管的, 形容词, [], "siphonal").
+entry(虹吸的, 形容词, [], "siphonic").
+entry(女妖, 名词, [女妖们], "海妖").
+```prolog
+entry(针剂, 名词, [针剂], "一个小管，装有皮下注射针头，含有一剂药物").
+```
+entry(紫丁香, n, [紫丁香], "一种观赏灌木").
+entry(注射器, v, [注射了, 注射中, 注射器], "用注射液清洁或治疗")。
+entry(鸣管, 名词, [鸣管], "或 鸣管鸟类的发声器官").
+entry(食蚜蝇, n, [食蚜蝇], "食蚜蝇属").
+条目(食蚜蝇, n, [食蚜蝇类], "一种有翅昆虫")。
+entry(糖浆, v, [糖浆过,糖浆中,糖浆], "用浓稠的甜液体来增甜").
+entry(糖浆状的, 形容词, [], "类似于厚的粘稠的甜液体").
+entry(sysadmin, n, [系统管理员], "系统管理员")。
+条目(系统管理员, n, [系统管理员], "计算机公告板的管理员")。
+条目(系统, 名词, [系统], "一个相互作用的元素组成的统一整体")。
+entry(系统性, n, [系统性], "一种农药").
+entry(收缩期, n, [收缩期], "心脏的正常节律收缩收缩压 adj").
+```prolog
+条目(syzygy, 名词, [syzygies], "地球、月球和太阳排列成一条直线的配置SYZYGAL SYZYGIAL 形"). 
+```
+entry(他, n, [他们], "表达感激之情").
+entry(tab, v, [制表,制表符,标签], "命名或指定").
+entry(虻, n, [虻], "一种吸血昆虫").
+条目(斗篷, n, [斗篷], "无袖外衣TABARDED adj")。
+entry(tabaret, n, [丝绸制品], "一种丝织物").
+entry(制表符的, 过去的, [], "tab 的时态")。
+条目(制表, n, [制表符], "在键盘上使用 Tab 键")。
+entry(tabbis, n, [丝绸织物], "一种丝绸织物").
+entry(虎斑猫, v, [虎斑猫的,虎斑猫着,虎斑猫们], "给予波浪形的外观").
+条目(taber, v, [tabered, tabering, tabers], "to tabor").
+entry(tabes, n, [蹩行], "一种梅毒疾病").
+entry(脊髓痨的, n, [脊髓痨患者], "一个患有脊髓痨的人").
+entry(tabid, adj, [], "与脊髓痨相关").
+entry(桌子, n, [小鼓], "一个小鼓").
+entry(table, v, [tabled,tabling,tables], "将家具的平面上表面放在桌上").
+entry(表, n, [表], "或 TABLEAUX 一幅画").
+entry(tableful, n, [tablefuls], "或TABLESFUL正如桌子能容纳的那么多").
+条目(药片, v, [药片化,药片化中,药片], "或药片化 药片化中 药片在小平面上刻写")。
+entry(桌面, n, [桌面], "桌子的顶部").
+entry(制表, n, [制表法], "数据或信息在表格列中的设置").
+entry(小报, n, [小报], "小型报纸").
+entry(禁忌, v, [禁止,禁忌中,禁忌], "排除使用、接近或提及").
+entry(tabooley, n, [tabooleys], "塔布勒沙拉").
+entry(tabor, v, [tabored,taboring,tabors], "击打一面小鼓").
+entry(击鼓者, n, [击鼓者们], "打鼓的人").
+entry(小鼓凳, n, [小鼓凳们], "一个小鼓").
+entry(taborin, n, [taborins], "塔博林").
+entry(taborine, n, [taborines], "小茶几").
+条目(塔布里, n, [塔布里们], "塔布里").
+entry(塔布里, 名词, [塔布里沙拉], "一种黎巴嫩沙拉，含有小麦碎 番茄 香菜 洋葱和薄荷").
+entry(塔布尔, v, [塔布尔过,塔布尔着,塔布尔们], "敲打小鼓").
+入口(打鼓者, 名词, [打鼓者们], "鼓手").
+entry(凳子, n, [椅子], "小凳子").
+entry(禁忌, v, [禁忌过, 禁忌中, 禁忌们], "禁忌").
+条目(列表, 形容词, [], "关于列表的").
+entry(制表, v, [制表的,制表中,制表], "排列成列表").
+entry(tabuli, n, [tabulis], "塔布里").
+entry(tabun, n, [塔崩], "一种化合物").
+名词(塔康, 名, [塔康], "一种航空器的导航系统").
+entry(tace, n, [taces], "护腿甲").
+entry(保持沉默, 动词, [], "作为音乐指示使用").
+entry(转速表, n, [转速表s], "用于指示旋转速度的设备").
+entry(tache, n, [斑点], "一种搭扣或扣环").
+入口(寄蝇, 名词, [寄蝇], "一种灰白色的苍蝇")。
+entry(塔希主义, 名词, [塔希主义], "动作绘画")
+entry(塗鴉派, n, [塗鴉派], "塗鴉主義").
+entry(瞬视, 名词, [瞬视者], "一个动作派画家")。
+entry(tachiste, n, [快速展示法], "快速展示").
+entry(超光速粒子, n, [超光速粒子们], "一种理论上的亚原子粒子").
+条目(心照不宣, 形容词, [], "未说TACITLY 副词").
+entry(沉默寡言, 形容词, [], "习惯性沉默").
+条目(固定, 动词, [固定了, 正在固定, 固定], "用短尖钉子固定").
+entry(紧固钉, n, [紧固钉们], "用来固定东西的人或物").
+项(钉头, n, [钉头], “一种铁钉”)。
+条目(塔奇, 形容词, [], "更俗气 最俗气俗气").
+entry(更俗气的, 比较级, [], "of 俗气").
+输入(tackiest, 最高级, [], "的tacky")。
+将此 Prolog 行翻译为普通话。仅输出 Prolog:
+entry(tackify, v, [tackified,tackifying,tackifies], "使具有粘性")。
+entry(俗气地, 副词, [], "以俗气的方式").
+entry(擒抱, 动词, [擒抱了,擒抱着,擒抱], "抓住并摔倒在地").
+entry(擒抱者, n, [擒抱者们], "擒抱的人").
+entry(tackless, 形容词, [], "没有图钉").
+entry(擒抱, n, [擒抱], "装备").
+entry(俗气, 形容词, [], "更俗气 最俗气粘性").
+entry(tacnode, n, [tacnodes], "两条曲线的接触点").
+entry(塔科, n, [塔克], "一种卷有馅料的玉米饼").
+entry(塔康石, n, [塔康石们], "一种低品位铁矿石").
+entry(他克林, n, [他克林类], "一种用于治疗阿尔茨海默病的药物").
+entry(机智, n, [机智], "处理微妙情境的技巧").
+条目(圆滑, 形容词, [], "有圆滑").
+entry(策略, n, [策略], "为了达到目的的策略性动作TACTICAL 形容词").
+条目(触觉的, 形容词, [], "与触觉有关").
+entry(动作, 名词, [动作], "触碰的行为").
+entry(不得体的, 形容词, [], "缺乏机智").
+entry(触觉, 形容词, [], "触觉的").
+entry(塔德, 男, [塔德们], "一个小男孩")。
+entry(蝌蚪, n, [蝌蚪], "两栖动物的水生幼体").
+entry(跆, 介词, [], "到").
+entry(两, n, [两], "中国的重量单位").
+entry(绦虫, n, [绦虫], "或 TAENIAEa 绦虫TAENIOID 形容词").
+entry(陨铁, n, [陨铁], "一种在陨石中发现的镍铁合金").
+条目(塔法雷尔, n, [塔法雷尔斯], "尾栏").
+entry(tafferel, n, [tafferels], "尾栏").
+entry(塔夫绸, n, [塔夫绸们], "一种有光泽的织物").
+entry(塔菲亚, n, [塔菲亚酒], "塔菲亚").
+条目(舷栏, n, [舷栏], "船尾的围栏").
+entry(太妃糖, n, [太妃糖], "一种咀嚼型糖果").
+entry(塔菲亚, n, [塔菲亚酒], "一种低劣的朗姆酒").
+条目(标签, v, [标记,标记中,标记们], "提供标签，一个识别标记")。
+entry(尾随者, n, [尾随者们], "跟随他人的人").
+entry(tagboard, n, [标签板], "一种用于制作运输标签的材料").
+entry(万寿菊, n, [万寿菊], "一种开花植物").
+entry(标签物质, n, [标签物质], "添加到产品中以指示其制造来源的物质")。
+入口(已标记, 过去, [], "标记的时态").
+`entry(tagger, n, [标记器], "一个标记的东西").`
+entry(标记, 现在, [], "tag 的分词").
+entry(塔吉锅, n, [塔吉锅们], "tajine").
+entry(标签状, adj, [], "类似标签").
+entry(标语, n, [标语], "戏剧或笑话中体现重点的最后一句台词")。
+entry(tagmeme, n, [语纲], "最小的有意义的语法关系单位").
+entry(tagmemic, 形容词, [], "属于以标记素为基本单位的语法").
+entry(流氓无赖, n, [流氓无赖们], "乌合之众").
+条目(芝麻酱, 名词, [芝麻酱], "芝麻酱").
+条目(芝麻酱, n, [芝麻酱们], "一种芝麻种子制成的酱").
+entry(tahr, n, [塔尔羊], "一种类似山羊的哺乳动物").
+entry(塔希尔, n, [塔希尔们], "印度的一个区").
+entry(泰加, 名, [泰加群], "亚北极常绿森林").
+entry(太阁面包, n, [太阁面包], "犹太节日甜点")。
+入口(太鼓, 名词, [太鼓], "一种日本的桶形鼓").
+entry(尾巴, v, [装有尾巴, 添加尾巴, 添加尾巴], "提供尾巴或最末端的部分").
+entry(跑卫, 名词, [跑卫], "在某些橄榄球阵型中的后场成员").
+进入(尾骨, n, [尾骨], "尾椎").
+条目(燕尾服, 名词, [燕尾服], "一种男士外套").
+entry(尾随者, n, [尾随者们], "秘密跟随他人的人").
+entry(尾扇, n, [尾扇], "某些甲壳动物尾部的扇形游泳器官")
+词条(尾鳍, n, [尾鳍], "鱼后端的鳍").
+入口(尾随, 动词, [尾随过, 尾随中, 尾随们], "紧贴在另一辆车后危险地驾驶")。
+entry(尾钩, n, [尾钩], "从飞机尾部放下的钩子，用于抓住制动缆绳").
+entry(尾矿, n, [尾矿], "插入墙壁的突出石头或砖块的一部分")
+entry(尾灯, n, [尾灯], "车辆后部的灯").
+entry(大小, n, [大小们], "曾经的法国税").
+entry(无尾, 形容词, [], "没有尾巴").
+入口(女式西装, 名词, [女式西装], "一套女士裁剪西装")。
+entry(尾状的, 形容词, [], "类似于尾巴").
+裁缝(v, [量身定制, 制衣, 裁缝], "适合穿衣").
+entry(排气管, n, [排气管的复数形式], "一个排气管").
+入口(尾水道, n, [尾水道们], "磨坊的一部分")。
+条目(尾橇, 名词, [尾橇], "飞机尾部所依靠的支撑")。
+entry(尾旋, v, [尾旋过,尾旋中,尾旋s], "向地球头朝下旋转下来").
+条目(顺风, 名词, [顺风], "一种从移动车辆后方来的风")。
+条目(tain, n, [tains], "一种薄板").
+entry(污染, v, [污染的,污染着,污染], "轻微接触或影响到不好的东西")。
+entry(太攀蛇, n， [太攀蛇们], "一种有毒的蛇")。
+入口(尖顶帽, n, [帽子], "一种在穆斯林国家佩戴的高尖顶帽子")。
+entry(塔吉锅, n, [塔吉锅们], "一种摩洛哥的陶土炖锅").
+entry(塔卡, n, [塔卡], "孟加拉国的货币单位").
+entry(无翼鸟, 名词, [无翼鸟们], "一种不会飞的鸟").
+entry(拿, 动词, [拿了, 拿到, 拿着], "拿动词取得拥有拿得动 拿得动 形容词").
+entry(外卖, n, [外卖], "从销售地点带走的准备好的食物")。
+entry(拆卸, n, [拆卸件], "一篇可以容易拆开的文章").
+起飞(起飞, 名词, [起飞], "飞行中上升的行为").
+入口(takeout, n, [外卖], "移除的行为")。
+entry(接管, n, [接管], "掌控的行为").
+entry(接受者, n, [接受者们], "一个接受的人").
+entry(takeup, n, [takeups], "拿起某物的行为")。
+入口(羚牛, n, [羚牛], "一种像山羊的哺乳动物").
+条目(接管, n, [收益], "一次缉获")。
+entry(迷人地, 副词, [], "以吸引人的方式").
+条目(tala, n, [talas], "印度的一种传统音乐节奏模式")。
+条目(白眉长尾猴, n, [白眉长尾猴], "一种小型非洲猴子").
+entry(塔拉, n, [塔拉们], "一件长披风").
+entry(talaria, npl, [], "由古典神话中的各种人物穿着的有翼凉鞋").
+条目(talbot, n, [talbots], "一种已灭绝的大型狗种")。
+entry(滑石, v, [talcked,talcking,滑石], "或TALCED TALCING TALCS用于处理带有肥皂质地的软矿物TALCKY TALCOSE TALCOUS TALCY 形容词").
+entry(滑石粉, v, [撒滑石粉, 撒滑石粉中, 滑石粉], "用由滑石制成的粉末处理").
+entry(故事, n, [故事], "一个故事").
+entry(塔勒吉奥, n, [塔勒吉奥斯], "一种软奶油奶酪")
+条目(才能, 名词, [才华], "一种特殊的自然能力有才能的 形容词")。
+条目(taler, n, [talers], "一种以前使用的德国硬币")。
+entry(陪审员, 名词, [陪审员], "被召唤来填补陪审团空缺的人").
+entry(距骨, 复数, [], "的距骨").
+```prolog
+条目(talion, n, [talions], "对犯罪的报复").
+```
+entry(足内翻, n, [足内翻患者], "患有足内翻的人").
+entry(畸形足, n, [畸形足], "clubfoot").
+entry(贝叶棕, 名词, [贝叶棕的复数形式], "一种高大的棕榈树").
+entry(护身符, n, [护身符], "被认为拥有魔力的物体").
+条目(交谈, v, [交谈过, 正在交谈, 交谈], "通过说话进行交流")。
+entry(可谈, 形容词, [], "能够被谈论的").
+entry(对讲机, n, [对讲机], "控制室与录音室之间的单向通信链接").
+entry(讲话者, n, [讲话者], "一个会说话的人").
+entry(谈话会, n, [谈话会], "聊天狂欢").
+entry(talkie, n, [talkies], "带有同步声音的动态影像").
+entry(谈话, n, [谈话们], "对话").
+entry(talky, 形容词, [], "TALKIER TALKIEST倾向于多话").
+entry(高大, n, [高大者], "给高个子穿的尺寸").
+entry(高, 形容词, [], "更高 最高有很高的高度").
+条目(徭役, v, [被徭役,徭役中,徭役], "征税").
+入口(高柜, 名词, [高柜], "一个高脚柜")。
+entry(统计, 过去式, [], "tally的时态").
+entry(査算者, n, [査算者们], "进行计数的人").
+条目(计数, 存在, [], "tally 的第三人称单数").
+entry(tallis, n, [tallises], "或 TALLISIMtallith").
+entry(高挑, 形容词, [], "有点高").
+entry(塔利特, n, [塔利特斯], "或 TALLITIM塔利特").
+条目(塔利特, 名词, [塔利特], "或 TALLITHIM，一种犹太人祈祷披肩")。
+条目(高大, n, [高大状态], "身高的状态")。
+条目(松香醇, 名词, [松香醇], "一种树脂状的液体").
+entry(兽脂, v, [用兽脂, 涂抹兽脂, 兽脂涂抹], "用动物脂肪混合物涂抹").
+入口(tallowy, 形容词, [], "类似脂肪的").
+条目(统计, v, [统计了,统计中,统计], "数").
+entry(tallyho, v, [tallyhoed,tallyhoing,tallyhos], "即 TALLYHOES 发出鼓励猎犬的喊叫声")。
+entry(计数员, n, [计数员], "一个进行计数的人").
+entry(talmudic, 形容词, [], "与犹太民事和宗教法律体系有关").
+入口(猛禽的爪, n, [爪], "猛禽的爪TALONED adj").
+entry(talooka, n, [talookas], "塔鲁卡").
+entry(塔鲁克, 名词, [塔鲁克], "印度的一个庄园").
+条目（taluka, n, [talukas], "taluk"）。
+entry(岩屑堆, n, [岩屑堆s], "由岩石碎片堆积形成的斜坡").
+entry(距骨, 名词, [距骨], "脚的一块骨头").
+entry(tam, n, [tams], "紧身苏格兰帽").
+```prolog
+entry(可驯服, 形容词, [], "能够被驯服").
+```
+条目(塔马尔, n, [塔马尔], "塔马莱").
+entry(塔马利, n, [塔马利], "一种墨西哥菜").
+entry(穿山甲, n, [穿山甲], "南美食蚁兽").
+entry(tamandua, n, [树懒蚁], "一种树栖食蚁兽").
+entry(落叶松, n, [落叶松], "一种木材树").
+条目(菲滂水牛, 名词, [菲滂水牛们], "菲律宾野牛").
+Entry(tamarau, n, [tamaraus], "菲律宾的小型水牛").
+entry(塔马里, n, [塔马里酱], "一种日本酱油").
+词条(狨猴, 名词, [狨猴], "一种南美洲猴子")。
+条目(罗望子, 名词, [罗望子], "一种热带树木").
+条目(柽柳, 名词, [柽柳], "一种常绿灌木").
+入(entry, 塔玛沙, 名词, [塔玛沙们], "印度的一种公共娱乐活动")。
+entry(tambac, n, [tambacs], "黄铜").
+条目(tambak, n, [tambaks], "tombac").
+entry(tambala, n, [tambalas], "或MATAMBALA，马拉维的货币单位")。
+entry(鼓框, v, [绣制, 绣制中, 鼓框], "在圆形木框上刺绣").
+entry(坦布拉, 名词, [坦布拉斯], "坦布拉").
+entry(唐布尔, n, [唐布尔斯], "坦布拉").
+entry(坦布拉，名词，[坦布拉斯]，"一种弦乐器")。
+entry(温顺, 形容词, [], "温顺的 温顺的 最温顺的 温柔的或驯服的").
+entry(驯服, v, [驯服了, 正在驯服, 驯服], "使......驯服").
+entry(可驯服的, 形容词, [], "可驯服的").
+entry(tamein, n, [tameins], "缅甸妇女穿的服装").
+entry(无法驯服的, 形容词, [], "不能被驯服").
+entry(温顺地, 副词, [], "以驯服的方式").
+entry(温顺, n, [温顺状态], "处于温顺的状态").
+入口(驯服者, n, [驯服者们], "使温顺的人").
+entry(最温顺, 最高级, [], "的温顺").
+entry(驯服, 现在, [], "驯服的分词形式").
+entry(塔米丝, n, [塔米丝们], "用布网制成的滤器").
+entry(tammie, n, [tammies], "塔米").
+entry(塔米, n, [塔米们], "一种混合纤维的织物").
+条目(捣实, v, [捣实,捣实,捣实], "通过轻敲来压实").
+条目(苋菜, 名词, [苋菜属], "一种一年生草本植物")。
+entry(塔姆潘, n, [塔姆潘斯], "一种咬人的昆虫").
+条目(篡改, 动词, [篡改过, 正在篡改, 篡改], "以有害的方式干预")。
+entry(篡改者, n, [篡改者们], "篡改的人").
+入口(填塞, n, [填塞物], "通过轻敲来压实的行为")。
+入口(炮口塞物, n, [炮口塞物们], "大炮炮口的塞子")。
+entry(卫生棉条, v, [卫生棉条过的, 卫生棉条中, 卫生棉条s], "用棉垫塞住").
+entry(tan, adj, [], "因阳光而变棕褐色的");
+entry(tan, v, [晒黑,正在晒黑,晒黑], "通过浸泡在化学物质中将生皮转变为皮革")。
+entry(唐纳雀, n, [唐纳雀鸟], "一种色彩鲜艳的鸟").
+entry(鞣酸樹皮, n, [鞣酸樹皮], "用作鞣酸來源的樹皮").
+条目(双人自行车, n, [双人自行车], "为二人制造的自行车").
+entry(坦杜里, n, [坦杜里], "或者 坦杜里 一种粘土烤箱").
+entry(坦都里, n, [坦都里], "在坦都里炉中烹饪的食物").
+条目(糖, 动词, [已糖化, 糖化中, 糖化], "提供辛辣味").
+条目(唐嘎, 名词, [唐嘎], "塔吉克斯坦的前货币单位")。
+入口(橘柚, n, [橘柚们], "一种柑橘类水果")。
+条目(相切, n, [相切], "tangency").
+entry(切线, n, [切线], "处于直接物理接触状态").
+entry(切线, n, [切线], "与曲线在一个点接触的直线").
+entry(有形的, n, [有形物], "可以触摸的东西").
+入口(有形地, 副词, [], "明显地")。
+entry(丹吉尔, 比较的, [], "酸的").
+entry(最酸的, 最高级, [], "酸的").
+入口(缠结, v, [缠结着, 缠绕着, 缠结], "使复杂地混乱在一起")。
+入口(缠结者, 名词, [缠结者们], "一个缠绕东西的人").
+条目(缠结, 形容词, [], "更缠结 最缠结缠结").
+entry(tango, v, [tangoed,tangoing,tangos], "即TANGOESto表演一种拉丁美洲舞蹈")。
+entry(七巧板, n, [七巧板集], "一个中国智力游戏").
+entry(辛辣的, 形容词, [], "TANGIER TANGIEST刺鼻").
+条目(继承人, 名词, [继承人们], "凯尔特首领的法定继承人").
+entry(氏族长选举制, n, [氏族长选举制度], "选定氏族长的制度").
+entry(坦克, v, [储存在坦克中, 储存中, 储存], "把液体通常储存在一个容器中的行为").
+entry(短歌, 名词, [短歌], "一种日本诗歌形式").
+条目(容量, 名词, [容量们], "一个储罐的容量")。
+entry(坦克德, n, [坦克德们], "一个高大的饮酒器").
+entry(油轮, n, [油轮], "一种专为运输液体而设计的船").
+entry(滿缸, n, [滿缸值], "一個油箱可以容納的量").
+entry(坦基尼, n, [坦基尼], "一种由比基尼内裤和背心组成的女士泳装").
+entry(tankless, 形容词, [], "没有储水箱").
+条目(坦克般, 形容词, [], "类似于坦克").
+entry(油轮, n, [油轮], "一艘油轮").
+```prolog
+entry(可鞣制的, 形容词, [], "能够被鞣制的").
+```
+entry(鞣制, n, [鞣制法], "鞣制的过程")
+条目(单宁酸盐, 名词, [单宁酸盐], "一种化学盐").
+条目(晒黑, 过去, [], "晒的时态").
+entry(坦纳, 名词, [坦纳们], "鞣革者")。
+entry(制革厂, n, [制革厂], "用于鞣革的地方")。
+entry(最黝黑, 最高级, [], "的黝黑").
+entry(单宁的, 形容词, [], "与单宁有关").
+entry(单宁, 名词, [单宁], "一种用于鞣革的化学化合物")
+条目(鞣革, n, [鞣革法], "将动物皮转化为皮革的过程")。
+条目(tannish, 形容词, [], "有点棕褐色").
+entry(坦瑞克, n, [坦瑞克斯], "𠇲瑞克").
+entry(艾菊, n, [艾菊], "多年生草本植物").
+entry(钽, n, [钽], "一种金属元素钽 adj").
+entry(tantalus, n, [酒瓶架], "一种用于装葡萄酒瓶的箱子").
+条目(tantara, 名词, [tantaras], "号角或喇叭的声音").
+条目(tantivy, n, [tantivies], "狩猎的叫喊声")。
+entry(短刀, n, [短刀们], "一种短的日本剑").
+entry(密宗, n, [密宗们], "印度教宗教著作类中的一种，密宗的形容词").
+entry(密教, 名词, [密教], "一种融合了印度教和异教元素的佛教流派")
+entry(密宗信徒, n, [密宗信徒们], "密宗的信仰者").
+entry(发脾气, 名词, [发脾气们], "一阵愤怒").
+entry(狸, n, [狸], "一种浣熊犬").
+入口(tanyard, n, [tanyards], "制革厂中包含水槽的区域")。
+entry(道, n, [道], "根据中国哲学的美德行为之路").
+entry(轻拍, 动词, [轻拍过, 轻拍着, 轻拍], "轻轻地敲打").
+entry(踏帕, n, [踏帕斯], "一种用树皮制成的布料").
+条目(马鞍罩, n, [马鞍罩], "马鞍的一部分")。
+entry(tapadero, n, [tapaderos], "盖子").
+entry(tapalo, n, [tapalos], "在拉丁美洲国家穿戴的围巾").
+entry(磁带, v, [磁带的, 缠绕, 磁带], "用长窄条或带子固定 TAPEABLE 形容词").
+entry(无胶带, adj, [], "没有胶带").
+entry(带状, 形容词, [], "类似于胶带").
+entry(卷尺, n, [卷尺], "用于测量距离的带子").
+entry(橄榄酱, n, [橄榄酱们], "一种用黑橄榄、刺山柑和凤尾鱼制作的酱").
+entry(锥形, v, [变细,变细中,变细], "逐渐变窄到一端").
+引词(蜡烛执事, 名词, [蜡烛执事们], "在宗教游行中携带蜡烛的人").
+```prolog
+entry(挂毯, v, [装饰过的挂毯, 正在装饰挂毯, 挂毯], "用编织的墙挂装饰").
+```
+entry(绒毡层, n, [绒毡层], "某些植物中的细胞层，绒毡层的，adj")。
+entry(绦虫, n, [绦虫], "一种寄生虫").
+entry(出铁口, n, [出铁口], "高炉中的一个孔洞").
+入口(啤酒屋, 名词, [啤酒屋], "一个酒馆")。
+entry(录制, n, [录制], "在磁带上录制某物的行为或实例").
+entry(木薯, n, [木薯们], "一种淀粉类食物").
+条目(貘, 名词, [貘], "一种有蹄哺乳动物")。
+entry(地毯, n, [地毯们], "用于壁挂和地板覆盖的材料").
+entry(无龙头, 形容词, [], "缺乏龙头，一个用于停止液体或气体流动的装置")。
+entry(可敲击的, 形容词, [], "能够被敲击的").
+条目(拍, 过去式, [], "tap 的时态")。
+entry(敲击者, n, [敲击者们], "敲击的那个人").
+entry(挺杆, n, [挺杆], "一种滑动杆，导致机械的另一个部分移动")。
+`tapping`(入口, n, [多次敲击], "某物被敲击的过程或方式").
+entry(酒吧间, 名词, [酒吧间], "一个酒吧间")。
+entry(主根, n, [主根], "植物的主要根").
+entry(酒保, 名词, [酒吧招待], "在酒吧间提供酒水的人").
+entry(塔克店, n, [塔克店们], "专门经营玉米饼和卷饼的餐馆").
+条目(沥青, 动词, [沥青过, 覆盖沥青中, 沥青], "用黑色粘稠液体沥青覆盖")。
+entry(塔拉比什, n, [塔拉比什牌], "一种纸牌游戏").
+entry(塔拉玛, n, [塔拉玛斯], "一种由鱼子酱、大蒜、柠檬汁和橄榄油制成的希腊酱").
+entry(tarantas, n, [tarantases], "一种俄国马车").
+entry(塔尔布什, n, [塔尔布什帽], "穆斯林男子戴的帽子").
+entry(塔巴什, n, [塔巴什帽], "塔布什帽").
+entry(较迟的, 比较级, [], "迟到的").
+entry(迟到, 复数, [], "迟到的").
+entry(迟发性, 形容词, [], "症状发展缓慢").
+条目(tardo, 形容词, [], "用于音乐指示的慢").
+entry(拖延, 形容词, [], "更迟的 最迟的晚地 迟地 副词").
+迟到条目(迟到， n， [迟到次数]， "一次迟到的情况")。
+entry(迟子, n, [迟子], "一种以低于光速运动的亚原子粒子").
+条目(去皮, 动词, [去皮了, 去皮中, 去皮], "确定装有货物容器的重量")。
+entry(targa, n, [targas], "一种敞篷跑车").
+条目(塔尔盖, n, [塔尔盖斯], "一个小圆盾").
+entry(目标, v, [目标, 目标着, 目标们], "制定目标").
+entry(关税, v, [关税的,征税,关税], "对进口或出口货物征税").
+entry(taring, 现在时, [], "tare的分词").
+入口(塔尔拉旦, 名词, [塔尔拉旦], "一种棉织物").
+entry(tarletan, n, [tarletans], "塔尔拉坦").
+entry(停机坪, v, [已铺,在铺,铺], "使飞机停在滑行道上").
+entry(高山湖, 名词, [高山湖泊], "一个小的山中湖泊").
+`词条(tarnal, 形容词, [], "该死的TARNALLY 副词").`
+entry(玷污, v, [玷污了, 玷污中, 玷污], "使光泽变暗").
+entry(芋头, n, [芋头], "一种热带植物").
+entry(塔罗, n, [塔罗牌], "塔罗牌").
+条目(tarok, n, [taroks], "一种纸牌游戏").
+entry(塔罗牌, n, [塔罗牌们], "用于占卜的一套纸牌之一").
+入口(篷布, 名词, [篷布], "一种保护性的画布覆盖物")。
+entry(野马, n, [野马], "一种亚洲野马").
+entry(油毡纸, n, [油毡纸], "一种涂有沥青的厚纸").
+entry(大西洋鲃鱼, n, [大西洋鲃鱼们], "一种海洋游戏鱼").
+输入(龙蒿, 名词, [龙蒿属], "一种多年生草本植物")。
+entry(tarre, v, [焦油, 焦油处理, 焦油处理], "督促行动").
+entry(铺柏油, 过去, [], "铺柏油的时态")。
+entry(拖延者, n, [拖延者们], "拖延的人").
+entry(浸油, 现在时, [], "焦油和焦油尔的分词").
+entry(迟延, 形容词, [], "像焦油一样").
+```
+entry(耽搁, 动词, [耽搁了, 正在耽搁, 耽搁着], "拖延或在行动上慢吞吞").
+```
+入口(跗骨, n, [跗骨], "脚部的骨头")。
+entry(tarsi, pl, [], "跗骨的").
+entry(嵌花, 名词, [嵌花材料], "镶嵌装饰").
+entry(眼镜猴, n, [眼镜猴们], "一种夜行性灵长类动物").
+条目(tarsus, n, [tarsi], "脚的一部分")。
+entry(塔尔特, 形容词, [], "更酸 更酸的具有尖锐酸味").
+entry(撻, 动词, [打扮了,打扮中,打扮], "打扮").
+词条(格子呢, 名词, [格子呢], "一种图案化的羊毛织物").
+entry(鞦帆船, n, [鞦帆船], "一种地中海帆船").
+entry(鞑靼人, n, [鞑靼人们], "牙齿上的结垢 鞑靼酸的 adj")
+入口(鞑靼, 形容词, [], "生食").
+entry(更酸的, 比较级, [], "酸的").
+entry(tartiest, 最高级, [], "of tarty").
+entry(微酸的, 形容词, [], "有点酸").
+entry(塔尔特, n, [塔尔特], "一个小馅饼")。
+entry(尖刻地, 副词, [], "以尖刻的方式").
+entry(酸涩, n, [酸涩味], "处于酸的状态")。
+entry(酒石酸盐, n, [酒石酸盐], "一种化学盐").
+条目(塔尔图夫, 阳性名词, [塔尔图夫们], "塔尔图夫").
+entry(达尔杜夫, n, [达尔杜夫们], "一个伪君子").
+entry(松露, n, [松露], "或 TARTUFOS 一种意大利冰淇淋甜点").
+entry(tarty, adj, [], "TARTIER TARTIEST暗示着妓女TARTILY 副词").
+entry(山莨菪, n, [山莨菪属植物], "一种开花植物").
+entry(泰山, n, [泰山们], "一个拥有卓越力量和敏捷性的人").
+entry(tase, v, [tased,tasing,tases], "用发射带电飞镖的枪使震惊").
+`entry(task, v, [tasked,tasking,tasks], "分配工作给").`
+入口(taskbar, n, [任务栏], "计算机屏幕上的一排图形控件")。
+entry(taskwork, n, [任务工作], "艰苦的工作").
+述词(条目, 茶杯, [茶杯们], "一个喝水的杯子")。
+项(咖啡杯, n, [咖啡杯们], "小杯").
+entry(穗, v, [饰以穗装饰, 穗饰, 穗刺], "或 饰以穗的穗饰的穗装饰用悬垂的装饰品点缀").
+entry(tasset, n, [胯甲], "覆盖大腿上部的一块板甲").
+entry(tassie, n, [tassies], "塔斯")。
+entry(塔索, n, [塔索], "辣味腌猪肉").
+entry(味道, v, [尝过, 试味, 品尝], "通过放入嘴里来感知味道TASTABLE 形容词").
+```prolog
+entry(美味, 形容词, [], "tasty").
+```
+条目(品尝者, n, [品尝者们], "品尝的人").
+entry(品尝, n, [品尝会], "品酒或品尝食物的聚会").
+entry(美味, 形容词, [], "更美味 最美味令人愉悦的口感美味地 副词").
+entry(tat, v, [tatted, tatting, tats], "制作梭织").
+entry(榻榻米, n, [榻榻米], "用于地板覆盖的稻草席垫").
+entry(鞑靼人, n, [鞑靼人们], "一个凶猛的人").
+entry(塔特, 名词, [塔特们], "一绺头发").
+入口(马铃薯, 名词, [马铃薯], "一种土豆")。
+entry(tathata, n, [tathatas], "佛教中万物的最终本质").
+entry(犰狳, n, [犰狳], "南美犰狳").
+入口(塌菜, 名, [塌菜], "一种亚洲芥菜")。
+entry(纹身, 过去, [], "纹身的时态").
+entry(破烂, v, [破烂的,撕破,破烂], "变得破旧不堪").
+entry(马铃薯, n, [马铃薯们], "一种土豆").
+entry(破烂, 比较级, [], "的 破烂").
+entry(最破旧, 最高级, [], "of tatty").
+entry(不整潔地, 副詞, [], "以一種破舊的方式").
+入口(针织花边, 名词, [针织花边], "精美手工蕾丝").
+entry(告密, 动词, [告发, 告密中, 告密], "揭露他人的活动").
+entry(告密者, 名词, [告密者们], "告密之人").
+entry(纹身, v, [纹身过的, 纹身中, 纹身], "用不可磨灭的颜料标记皮肤").
+entry(文身师, n, [文身师们], "纹身的人").
+entry(tatty, 形容词, [], "TATTIER TATTIEST破旧").
+入口(τ, n, [τ们], "一个希腊字母")。
+条目(教过, 过去, [], "教的时态").
+entry(嘲讽, v, [嘲讽了, 嘲讽着, 嘲讽], "讽刺或挖苦地挑战或责备").
+entry(挑衅者, n, [挑衅者们], "进行挑衅的人").
+入口(τ子, n, [τ子们], "一种不稳定的轻子")。
+入口(鼹鼠色, 名词, [鼹鼠色], "一种深灰色").
+entry(牛磺酸, n, [牛磺酸们], "一种化合物").
+entry(紧绷, 形容词, [], "更紧绷的 最紧绷的 完全拉伸以至于不松弛")。
+entry(纠缠, v, [纠缠了, 纠缠中, 纠缠], "缠绕").
+entry(黑鱼, n, [黑鱼们], "黑鱼").
+entry(拉紧, v, [拉紧了,拉紧中,拉紧], "使紧绷").
+entry(紧绷地, 副词, [], "以一种紧绷的方式").
+entry(紧张, n, [紧张状态], "处于紧张状态").
+入口(黑线鳕鱼, 名词, [黑线鳕鱼们], "一种海鱼")。
+条目(异构体, n, [异构体], "一种化合物类型").
+entry(重叠同名, n, [重叠同名], "一种分类命名法").
+entry(tav, n, [tavs], "一个希伯来字母").
+entry(酒馆, n, [酒馆], "一个出售酒类供现场饮用的地方").
+entry(酒馆, n, [酒馆], "希腊的咖啡馆").
+entry(taverner, n, [taverners], "经营酒馆的人").
+entry(taw, v, [tawed,tawing,taws], "通过矿物质的应用将其转化为白色皮革")。
+entry(俗丽, 形容词, [], "更加俗丽 最俗丽 俗丽地 副词").
+entry(俗气, n, [俗丽饰品], "华丽而俗气的装饰").
+entry(擦革者, n, [擦革者们], "制革的人").
+entry(tawie, adj, [], "温和").
+输入(黄褐色, 名词, [黄褐色的], "黄褐色")。
+入口(棕褐色, 形容词, [], "更棕褐 更棕褐色最棕褐色 亮棕色 棕褐地 副词").
+入口(浅棕色, 名词, [浅棕色的复数形式], "一种浅棕色").
+entry(tawpie, n, [tawpies], "愚蠢的年轻人").
+条目(鞭打, 动词, [tawsed, tawsing, tawses], "鞭笞")。
+entry(税, v, [征税, 课税, 税], "为公共目的而由当局征收的费用").
+entry(類群, a, [], "類群的復數形式")。
+entry(应税, 形容词, [], "受税影响").
+条目(应税, n, [应税项目], "一个应税项目")。
+entry(税收, n, [税收], "征税的过程").
+条目(taxeme, n, [taxemes], "选择的最低语法特征TAXEMIC 形容词")。
+entry(征税者, n, [征税者], "征税的人").
+entry(出租车, v, [], "TAXIED TAXIING 或 TAXYING 出租车或 TAXIES 乘出租车旅行").
+entry(出租车, n, [出租车], "一种出租的汽车").
+entry(出租车司机, n, [出租车司机们], "出租车的操作员").
+入口(费劲地, 副词, [], "以繁重的方式")。
+entry(火山岩, n, [火山岩], "一种火山岩TAXITIC 形容词").
+入口(滑行道, 北, [滑行道], "机场的一条铺砌跑道")。
+entry(免税, 形容词, [], "免于征税").
+entry(税务员, n, [税务员], "征收税款的人").
+entry(紫杉醇, n, [紫杉醇类], "从紫杉树获得的药物").
+条目(分类单元, n, [分类单元], "或TAXA一种科学分类单位")。
+entry(分类学, n, [分类学], "科学分类的研究").
+entry(税收支付, 形容词, [], "由税收支付").
+entry(纳税人, n, [纳税人], "缴纳税款的人").
+entry(紫衫, n, [紫衫], "常绿乔木或灌木").
+条目(taxwise, 形容词, [], "与税务相关").
+entry(taxying, a, [], "taxi 的现在分词").
+entry(泰莓, 名词, [泰莓], "一种深红色水果，是黑莓和覆盆子的杂交品种")。
+entry(貂熊, n, [貂熊們], "中美洲和南美洲的一種大型哺乳動物").
+入口(碗, n, [碗], "或 TAZZEan 装饰碗")。
+entry(特, 名, [特斯], "提").
+entry(茶, n, [茶叶], "一种通过将干叶浸泡在沸水中的饮料")。
+entry(茶莓, n, [茶莓], "一种北美灌木").
+条目(茶盘, 名词, [茶盘], "一个用来端茶的托盘").
+entry(茶碗, n, [茶碗们], "没有把手的茶杯").
+entry(茶叶盒, n, [茶叶盒], "用于存放茶叶的盒子").
+entry(茶点, n, [茶点], "一种与茶一起供应的小蛋糕").
+entry(茶车, n, [茶车], "用于上茶的带轮桌子").
+入口(teach, v, [taught, teaching, teaches], "传授知识或技能给")。
+entry(教师, n, [教师们], "教书的人").
+条目(教学, n, [教义], "一种学说")。
+条目(茶杯, n, [茶杯], "用于盛茶的杯子")。
+entry(茶馆, n, [茶馆], "一个提供茶的公共场所").
+条目(柚木, 名词, [柚木], "一种东印度树").
+entry(柚木, n, [柚木们], "柚木的木材").
+entry(青色, n, [青色鹳], "一种河鸭").
+条目(类似茶, 形容词, [], "像茶").
+```
+条目(team, v, [teamed,teaming,teams], "组成一个团队，与人为伴共同行动").
+```
+entry(泡茶者, n, [泡茶者们], "制作茶的人").
+entry(队友, n, [队友们], "同一团队的成员").
+条目(货车司机, n, [货车司机们], "卡车司机").
+entry(团队合作, n, [团队合作], "为实现共同目标的合作努力").
+entry(茶壶, n, [茶壶们], "用于沏茶和服务茶的器具")
+entry(茶几, n, [茶几], "用于茶水服务的小桌子").
+条目(tear, 动词, [teared, tearing, tears], "分泌由眼睛的腺体产生的盐水液体的泪滴")。
+entry(撕裂, v, [撕破, 撕裂, 撕扯中], "撕裂：撕开或撕成碎片；可撕的 adj").
+entry(不羁的人, n, [不羁的人们], "叛逆的人").
+入口(拆卸, n, [拆卸], "拆卸的过程")。
+entry(泪珠, n, [泪珠], "一滴眼泪").
+```prolog
+entry(撕裂者, n, [撕裂者们], "撕毁或撕裂的东西").
+```
+条目(tearful, 形容词, [], "充满泪水").
+entry(催泪瓦斯, v, [催泪瓦斯弹,催泪瓦斯攻击,催泪瓦斯], "或指用一种刺激眼睛的气体来处理").
+条目(tearier, 比较级, [], "眼泪汪汪的").
+条目(最泪流满面的, 最高级, [], "of teary").
+entry(含泪地, 副词, [], "以含泪的方式").
+entry(tearless, 形容词, [], "无泪的").
+entry(泪状, 形容词, [], "类似于泪水").
+entry(茶馆, n, [茶馆], "提供茶水的餐厅")。
+entry(流泪的, 形容词, [], "更加流泪的 最流泪的流泪的").
+entry(取笑, 动词, [取笑了, 取笑中, 取笑们], "开玩笑").
+entry(菊苣, 动词, [菊苣的过去式, 菊苣进行时, 菊苣复数形式], "或 TEASELLED TEASELLING TEASEL使用带刺的花头在织物上产生柔软的表面").
+entry(起绒工, n, [起绒工们], "起绒的人").
+entry(招惹者, n, [招惹者们], "一个招惹者").
+entry(茶馆, n, [茶馆], "一间茶室").
+条目(取笑, 现在时, [], "tease的分词").
+entry(茶匙, n, [茶匙們], "一個小勺子").
+入口(tea, n, [teats], "乳腺TEATED 形容词")。
+entry(下午茶时间, n, [下午茶时间], "品茶的习惯时间").
+entry(茶具, n, [茶具], "一套茶具").
+entry(薊花, v, [薊花過去式,薊花進行式,薊花們], "或 薊花過去二 薊花進行式二 薊花們進行").
+entry(鐵針草, v, [用鐵針草梳理過, 用鐵針草梳理中, 用鐵針草梳理], "用鐵針草梳理").
+entry(技术, n, [技术们], "科技").
+entry(科技, n, [技术人员], "一名技师").
+entry(teched, 形容词, [], "疯狂").
+entry(技术员, n, [技术员们], "技师").
+条目(技术, 名词, [技术], "技术").
+条目(技术, 名词, [技术音乐], "一种迪斯科音乐风格").
+entry(高技术员, n, [高技术员们], "一位技术员").
+entry(技痴, adj, [], "更技痴 最技痴技痴技痴地 adv").
+entry(tecta, a, [], "tectum 的复数").
+词条(tectal, 形容词, [], "关于覆顶").
+`项(tectite, n, [tectites], "tektite").`
+词条(构造的, 形容词, [], "与建筑相关").
+entry(tectrix, n, [小覆羽], "鸟翼的一小块羽毛").
+entry(tectum, n, [tectums], "或 TECTAa 屋顶状结构")
+entry(ted, v, [tedded,tedding,teds], "晾晒").
+entry(tedder, v, [teddered,teddering,tedders], "使用机器翻晒干草")。
+entry(泰迪, 名词, [泰迪熊], "一种女性内衣").
+entry(枯燥, 形容词, [], "引起疲惫").
+条目(单调, 名词, [单调们], "枯燥乏味的状态")。
+entry(球座, 动词, [支起,支球中,支球], "将高尔夫球放置在小球座上").
+entry(芝麻, 名词, [芝麻们], "芝麻").
+entry(充满, v, [充满,充满着,充满], "充满到溢出的状态").
+entry(畜养者, n, [畜养者们], "一个繁殖或培育的东西")
+条目(青少年, 名词, [青少年], “一个青少年”)。
+entry(青少年, 形容词, [], "与青少年有关").
+entry(青少年, 形容词, [], "青少年").
+条目(青少年, n, [青少年们], "年龄在十三到十九岁之间的人").
+entry(青少年阶段, n, [青少年阶段们], "青少年整体").
+entry(青少年, n, [青少年们], "一个青少年").
+条目(teenful, 形容词, [], "充满悲伤")。
+条目(微小, 形容词, [], "更微小 最微小tiny")。
+entry(teentsy, adj, [], "微小的 更微小的 最微小的")。
+输入(微小, 形容词, [], "更小 最小tiny")。
+entry(青少年, 形容词, [], "与年轻少年有关").
+entry(圆锥帐篷, 名, [圆锥帐篷], "印第安帐篷").
+条目(摇摆, 动词, [摇摆了,摇摆着,摇摆], "不稳定地移动")。
+entry(牙齿, 复数, [], "牙齿的").
+entry(出牙, v, [出牙了,出牙中,出牙], "出牙").
+entry(牙胶, n, [牙胶们], "婴儿在长牙期间咬的物品")
+entry(出牙, n, [出牙期], "第一批牙齿的生长").
+entry(绝对禁酒, v, [绝对禁酒过,绝对禁酒中,绝对禁酒], "或 绝对禁酒过 绝对禁酒中 绝对禁酒指完全戒绝酒精饮品").
+entry(陀螺, n, [陀螺们], "一种旋转玩具").
+条目(teff, n, [teffs], "一种谷物草")。
+entry(经匣, npl, [], "犹太人佩戴的护身符").
+entry(teg, n, [tegs], "tegg").
+entry(tegg, 二, [teggs], "第二年的羊").
+条目(护盖, 名词, [护盖], "一个覆盖物")。
+entry(覆膜, 复数名词, [], "解剖覆盖物").
+条目(tegmen, 形容词, [], "属于 tegmen 的").
+entry(泰哥, 名词, [泰哥蜥蜴], "南美洲的一种大型蜥蜴").
+entry(tegua, n, [teguas], "一种莫卡辛鞋").
+entry(tegula, n, [tegulae], "在古罗马使用的平屋顶瓦片").
+entry(砖状的, 形容词, [], "类似于瓷砖").
+entry(盖, n, [复数形式], "保护膜").
+entry(表皮, n, [表皮们], "一种覆盖物")。
+```prolog
+entry(teiglach, n, [teiglach], "一种由面团球在蜂蜜中煮制而成的甜食").
+```
+entry(teiid, n, [teiids], "一种热带美洲蜥蜴").
+entry(泰因, 名词, [泰因斯], "哈萨克斯坦的货币单位").
+entry(什一税, n, [什一税], "什一税").
+entry(技术宅, n, [技术宅], "技术专家").
+`项(玻璃陨石, 名词, [玻璃陨石], "一种被认为具有陨石起源的玻璃体TEKTITIC 形容词").`
+entry(丘, 名词, [丘], "中东的古代土丘").
+entry(组织, n, [组织], "一种解剖组织").
+条目(台拉蒙, 名词, [台拉蒙斯], "用作支柱的男性雕像").
+entry(电信公司, n, [电信公司], "一家电信公司").
+entry(电视, 名词, [电视机], "电视机").
+entry(电视广播, v, [已广播, 广播中, 广播], "通过电视广播").
+入口(电视电影, 名词, [电视电影], "电影在电视上的播出")。
+entry(电信, n, [电信业], "电信").
+entry(电信, n, [电信], "电信").
+entry(臭鼬, 名词, [臭鼬类], "一种食肉哺乳动物").
+entry(传真, v, [传真了, 正在传传真, 传真], "通过电话线路传输图形材料")。
+entry(电视电影, 名词, [电视电影们], "为电视制作的电影").
+entry(四轮马车, n, [四轮马车复数形式], "一种俄罗斯马车").
+```prolog
+entry(隔代遗传, n, [隔代遗传], "假设先前的雄性对母亲与其他雄性交配后代的影响")。
+```
+entry(电报, v, [电报发送,电报发送中,电报], "通过电报发送消息").
+entry(teleman, n, [水手长], "海军军官").
+entry(电光弧, n, [电光弧], "滑雪转弯的一种类型")。
+entry(硬骨鱼, n, [硬骨鱼], "硬骨鱼").
+entry(心灵感应者, n, [心灵感应者们], "可以通过某种非感官的手段与他人交流的人").
+entry(电视剧, n, [电视剧集], "为电视编写的话剧").
+entry(瞬移, 动词, [瞬移过, 瞬移中, 瞬移们], "通过不涉及物理手段的过程进行传输").
+entry(teleran, n, [telerans], "一种航空导航系统").
+entry(电视购物, v, [电视购物的过去式, 电视购物进行时, 电视购物的单三形式], "通过交互式电信系统购物").
+entry(进步, 名词, [计划进程], "planned progress").
+entry(telestic, n, [首字诗], "一种藏头诗").
+条目(图文电视, n, [图文电视], "一种将印刷内容通过电视广播给用户的通信系统")。
+entry(电视募捐, n, [电视募捐], "一个筹集资金的电视节目").
+entry(电传打字机, v, [电传发送,电传传输,电传打字], "通过电传打字机发送").
+条目(teleview, v, [televiewed,televiewing,televiews], "通过电视观察").
+entry(电视播放, v, [电视播放过, 电视播放中, 电视播放], "通过电视广播传输图像和声音的电子系统")
+entry(远程办公, v, [远程办公过, 远程办公中, 远程办公], "在家通过电子连接与中心办公室工作").
+entry(电传, 动词, [电传发送, 电传发送中, 电传s], "通过一种电报系统发送信息").
+入口(特尔弗, 动词, [特尔弗过, 特尔弗中, 特尔弗们], "到空中索道运输")。
+entry(特尔福德, n, [特尔福德们], "由石头铺成的路").
+条目(端菌叶锈, 形容词, [], "与端菌有关的").
+关于(限向, 形容词, [], "朝向目标的")。
+entry(完成体, n, [完成体], "具有完成性的特质").
+entry(电报), n, [电话公司], "锈菌宿主植物上的孢子堆"。
+entry(告知, v, [告知过, 正在告知, 告知], "给出详细的陈述可告知的 形").
+以 Prolog 形式翻译: entry(讲述者, 名词, [讲述者们], "一个讲述的人").
+entry(电视机, a, [], "电视机的复数形式").
+entry(告密者, n, [告密者们], "告密者").
+entry(土壤的, 形容词, [], "关于地球的").
+条目(电视机, n, [电视机], "或 电视机，一个电视机").
+entry(telnet, v, [telnetted, telnetting, telnets], "或 TELNETED TELNETING TELNETS 使用适当的程序通过互联网访问帐户")​.
+条目(端部, n, [端部们], "维管植物的结构单位TELOMIC adj")。
+entry(端粒, n, [端粒], "染色体的自然末端").
+入口(終局, 名詞, [終局的], "一个最终的结局")。
+entry(空中索道, v, [通过空中索道运输, 空中索道运输中, 通过空中索道运输], "通过空中缆车系统运输").
+entry(telson, n, [尾节], "节肢动物的末端部分TELSONIC 形容词").
+entry(temblor, n, [地震], "或 TEMBLORES 震源").
+entry(鲁莽, n, [鲁莽行为], "愚蠢的大胆").
+entry(temp, v, [临时工, 临时雇员, 临时工们], "作为临时员工工作").
+条目(天贝, n, [天贝], "一种亚洲食物").
+```
+条目(temper, v, [tempered,tempering,tempers], "通过添加平衡剂来调节").
+```
+entry(蛋彩画法, n, [蛋彩画法们], "一种绘画技术").
+entry(调节者, n, [调节者们], "调节的人").
+entry(暴风, v, [暴风了,暴风中,暴风], "剧烈地搅动").
+entry(tempi, a, [], "速度的复数").
+entry(圣殿骑士, n, [圣殿骑士们], "伦敦的律师或法律专业的学生")。
+entry(template, n, [模板], "用作制作某物的指南的模式").
+entry(庙宇, n, [庙宇s], "一个礼拜的场所庙宇的 形容词").
+entry(模板, n, [模板们], "模板").
+入口(tempo, n, [tempos], "或 TEMPI 音乐作品的速度").
+entry(颞骨, n, [颞骨], "颅骨的一部分")。
+entry(诱惑, v, [诱惑了, 诱惑着, 诱惑], "引诱某人进行不明智或不道德的行为").
+entry(诱惑者, n, [诱惑者们], "一个引诱他人的人").
+entry(天妇罗, n, [天妇罗], "一种日本料理").
+entry(十, 名词, [十位数], "一个数字").
+entry(可以维持的, 形容词, [], "能够被保持TENABLY 副词") .
+entry(特那斯, n, [特那斯们], "在某些纸牌游戏中两张高牌的组合").
+entry(坚韧, n, [坚韧性], "坚持或毅力").
+条目(tenacula, 复数名词, [], "带钩的手术器械")。
+entry(钳制, n, [钳制], "钳子").
+entry(虎钳, n, [虎钳], "外防御").
+条目(租赁, n, [租赁], "临时占用属于他人的物品")。
+entry(租客, v, [居住中,居住,租客], "居住").
+entry(租地, n, [租用的土地], "租赁").
+entry(丁鲷鱼, n, [丁鲷鱼], "一种淡水鱼").
+entry(倾向, v, [倾向于, 倾向的, 倾向], "倾向或倾斜").
+entry(趋势, n, [趋势], "警惕的照护")。
+entry(趋势, n, [趋势], "趋势").
+入口(倾向, n, [倾向], "以特定方式行动或思考的倾向")。
+entry(温柔, 形容词, [], "最温柔 非常温柔软或娇嫩").
+条目(投标, v, [投标过了, 投标中, 投标], "呈递以供接受").
+entry(投标者, n, [投标者们], "一个投标的人").
+entry(温柔地, 副词, [], "以温柔的方式").
+条目(肌腱, n, [肌腱们], "一种坚韧的纤维组织带").
+入口(卷须, 名词, [卷须], "攀缘植物的无叶器官")。
+入口(天竺, 名词, [天竺木], "一种亚洲乌木树").
+入口(阴影, 复数名词, [], "一种宗教仪式")。
+entry(公寓楼, n, [公寓楼], "一座公寓楼").
+entry(塔纳西, n, [塔纳西], "土库曼斯坦的货币单位").
+entry(里急后重, n, [里急后重症状], "一种紧迫但无效的排便或排尿努力TENESMIC 形容词").
+entry(信条, n, [信条], "被认为是真实的原则信仰或学说").
+entry(十倍, n, [十倍数], "一个单位的十倍量").
+entry(坚戈, n, [坚戈], "哈萨克斯坦的货币单位").
+entry(裂头绦虫, n, [裂头绦虫], "或裂头绦虫，一个绦虫").
+entry(绦虫病, n, [绦虫病症], "感染绦虫").
+entry(柿褐, n, [柿褐色], "一种橙棕色").
+entry(特尼, n, [特尼西], "土库曼斯坦的货币单位")。
+条目(十元, n, [十元], "一张十美元钞票").
+entry(tennies, npl, [], "低帮运动鞋").
+入口(网球, 名词, [网球], "户外球类游戏").
+entry(网球手, n, [网球手们], "一个网球运动员").
+entry(天皇, n, [天皇们], "被视为神的日本天皇")。
+entry(tenny, n, [天妮], "天").
+entry(榫, v, [榫接,榫接中,榫], "通过木材末端的榫头来连接").
+entry(tenoner, n, [榫头工], "一个制作榫头的人").
+entry(男高音, n, [男高音], "一种高亢的男性歌唱声音")
+入口(tenorino, n, [tenorini], "高音男高音").
+entry(男高音, n, [男高音], "演唱男高音或演奏男高音乐器的人").
+条目(褐镉矿, n, [褐镉矿], "一种矿物").
+entry(男高音萨克斯演奏者, 名词, [男高音萨克斯演奏者们], "演奏男高音萨克斯的人").
+entry(切腱术, n, [切腱术], "肌腱的外科切断").
+entry(男高音, n, [男高音们], "男高音").
+entry(十便士, n, [十便士], "十便士的总和").
+entry(tenpenny, 形容词, [], "价值十便士").
+条目(保龄球瓶, 名词, [保龄瓶], "一个保龄球瓶").
+entry(针鼹, 名词, [针鼹类], "一种以昆虫为食的哺乳动物")
+entry(tense, adj, [], "TENSER TENSESTtautTENSELY adv").
+entry(时态, v, [时过, 变时, 时态], "使紧张").
+entry(可伸展的, 形容词, [], "capable of being stretchedTENSIBLY adv").
+entry(拉伸, 形容詞, [], "可拉伸的").
+entry(张力, 动词, [张紧, 正在张紧, 张力化], "使紧张").
+entry(紧张, n, [紧张度], "紧张的状态").
+条目(紧张的, 形容词, [], "引起紧张").
+条目(张量, n, [张量], "拉伸身体部位的肌肉")。
+入口（帐篷，动词，[搭帐篷，搭帐篷中，帐篷]，“住在一种便携式庇护所的帐篷里”）。
+入口(触手, n, [触手], "某些动物的延长柔性附属物").
+入口(帐篷供应, n, [帐篷供应品], "帐篷的补给品").
+入口(进料, 动词, [已进料, 进料中, 进料], "在一种框架上展开").
+入口（第十, n, [十分之一], "十等分中的一个部分"）。
+条目(第十, 副词, [], "在第十位").
+entry(帳篷, 形容词, [], "TENTIER TENTIESTtenty").
+entry(tentier, comparative, [], "的极端").
+entry(第十, 最高級, [], "的第十").
+entry(无帐篷的, 形容词, [], "没有帐篷的").
+entry(帐篷般的, 形容词, [], "像帐篷一样").
+入口(头骨, 复数, [], "昆虫头部的内部骨架")。
+```prolog
+entry(支柱, n, [支柱们], "一部高预算电影，其高收入旨在抵消盈利较低电影的成本").
+```
+`条目(tenty, 形容词, [], "TENTIER TENTIESTwatchful").`
+entry(tenuis, n, [不送氣音], "清音的语音阻塞音").
+entry(稀薄, n, [稀薄性], "缺乏实质或力量").
+入口(tenuous, 形容词, [], "缺乏实质或力量").
+entry(任期, v, [终身任期, 授予任期, 任期], "授予终身职位或以永久身份持有职位的状态").
+entry(tenurial, 形容词, [], "关于或涉及任期")
+输入(tenuto, n, [tenutos], "或 TENUTIa 音符或和弦，比其正常时值保持更长时间")。
+entry(teocalli, n, [teocallis], "阿兹特克神庙").
+entry(teopan, n, [teopans], "神庙").
+entry(沼泽草, n, [沼泽草], "一种一年生禾草").
+entry(tepa, n, [tepas], "一种化合物").
+entry(tepache, n, [tepache], "一种用菠萝、红糖和水制成的墨西哥饮料").
+entry(花被片, 名词, [花被片], "花被的一部分").
+entry(圆锥帐篷, n, [圆锥帐篷们], "一些美洲原住民的圆锥形帐篷").
+```prolog
+entry(使...温暖, v, [使...变温暖, 使...温暖中, 使...温暖], "使变得温熱").
+```
+入口(岩屑, 名词, [岩屑们], "从火山喷出的固体物质")。
+entry(火山碱性玄武岩, n, [火山碱性玄武岩们], "一种火山岩").
+词条(微温, 形容词, [], "适度温暖地 adv")。
+entry(温热状态, n, [温热状态们], "处于温热的状态").
+entry(茶几, n, [茶几], "茶几").
+entry(龙舌兰, n, [龙舌兰酒], "一种墨西哥的酒").
+条目(兆字节, n, [兆字节], "一万亿字节").
+entry(万亿次浮点运算, n, [万亿次浮点运算], "计算速度的度量").
+entry(terai, n, [terais], "宽边遮阳帽").
+入口(兆欧姆, n, [兆欧姆], "一万亿欧姆").
+入口(teraph, n, [teraphim], "闪米特家庭神像").
+entry(畸形, n, [畸形们], "畸形胎 TERATOID 形容词").
+entry(畸胎瘤, n, [畸胎瘤], "或畸胎瘤类型，肿瘤的一种类型")。
+条目(太瓦, 名词, [太瓦], "一万亿瓦特").
+entry(特尔比亚, n, [特尔比亚氧化物], "铽的一种氧化物").
+条目(金, n, [金属们], "一种金属元素铽 adj").
+条目(terce, n, [terces], "tierce").
+入口(tercel, n, [tercels], "雄性猎鹰")。
+entry(雄隼, n, [雄隼们], "tercel").
+entry(三行诗, n, [三行诗], "三行诗的集合").
+entry(松油精, n, [松油精], "一种萜烯混合物").
+entry(松节油酸的, 形容词, [], "与从松节油中提取的酸有关").
+入口(teredo, n, [teredos], "或 TEREDINESa 双壳软体动物")。
+entry(特雷法, 形容词, [], "treif")。
+条目(teres, n, [teretes], "帮助旋转手臂的两块肌肉之一").
+entry(terete, 形容词, [], "圆柱形且稍微变细").
+```prolog
+entry(背面, 形容词, [], "与背板相关").
+```
+entry(背板, n, [背板], "背板").
+entry(背盾, n, [背盾], "节肢动物体节的背部件").
+entry(照烧, n, [照烧的], "一种日本食物").
+entry(术语, v, [术语化, 术语中, 术语们], "给予一个名称").
+entry(服刑者, n, [服刑者们], "服刑规定刑期的囚犯").
+条目(终端, 名词, [终端], "一个结束或极限")。
+entry(终审法院, n, [终审法院], "某些州的一种法院").
+entry(终点, n, [终点], "or TERMINIa 终端").
+词条(白蚁, n, [白蚁], "一种类似蚂蚁的昆虫白蚁的 形容词").
+entry(无界, 形容词, [], "没有界限").
+entry(每期, 副词, [], "定期").
+述词(年限租地者, 名词, [年限租地者们], "持有土地若干年的人").
+entry(学期时间, n, [学期时间列表], "学校或法院正在进行的时间").
+entry(燕鸥, n, [燕鸥], "一种海鸟").
+条目(三元, n, [三元组], "三者之组").
+entry(特尔纳特, 形容词, [], "成组三排列").
+entry(terne, n, [ternes], "铅锡合金").
+入口(三元組, 名詞, [三元組們], "一组三個").
+入口(萜烯, 名词, [萜烯类], "一种化合物萜烯的 形容词").
+entry(萜品醇, n, [萜品醇], "一种芳香液体").
+entry(地球, n, [地球的], "地球 陆地").
+入口(terrace, v, [terraced,terracing,terraces], "提供有阳台的一个抬高的堤坝")。
+entry(地形, n, [地形], "一块土地").
+entry(地块, n, [地块们], "一种岩石构造").
+entry(龟, n, [龟], "一种北美的龟种").
+入口(terraria, npl, [], "用于植物或小动物的玻璃围栏")。
+entry(特拉斯, n, [terrases], "特拉斯").
+entry(露台, n, [露台], "法国咖啡馆外的铺砌区域").
+条目(露台, 名词, [露台], "马赛克地板").
+entry(特林, n, [特林斯], "法式肉冻").
+entry(terrella, n, [terrellas], "一个球形磁铁").
+entry(陆地, n, [陆地], "一片土地面积").
+entry(terret, n, [terrets], "马具上的金属环").
+entry(糟糕, 形容词, [], "非常糟糕ADV").
+入口(梗犬, n, [梗犬们], "一种小而活跃的狗" ).
+条目(terries, pl, [], "of terry").
+entry(极好的, 形容词, [], "非常好").
+entry(恐吓, v, [恐吓的,恐怖的,恐吓], "充满恐惧").
+entry(陶罐, n, [陶罐], "一个陶器罐子").
+entry(领土, n, [领土们], "领土").
+entry(风土, n, [风土], "赋予葡萄酒葡萄独特特征的因素的结合")
+entry(恐惧, n, [恐惧], "强烈的害怕").
+条目(terry, 名词, [terries], "一种吸水织物").
+entry(简洁, 形容词, [], "简洁 更简洁 最简洁 简洁地 副词").
+entry(三级, 名词, [三级], "鸟翅膀的飞羽").
+条目(疟疾，名，[疟疾]，"反复发作的发烧")。
+entry(三级, n, [三级羽毛], "三级羽毛").
+entry(三重奏, n, [三重奏团], "或者 TERZETTI，一个声乐或器乐三重奏").
+entry(特斯拉, n, [特斯拉斯], "磁感应单位")。
+入口(拼接片, n, [拼接片们], "用于镶嵌工艺的小方块TESSERAL 形容词").
+entry(测试, v, [测试过, 测试中, 测试], "通过考试进行评估可以测试 adj").
+入口(种皮, 名词, [种皮的], "种子的坚硬外层").
+entry(遗嘱状态, n, [遗嘱状态的复数形式], "在死亡时留下遗嘱的状态").
+entry(遗嘱, n, [遗嘱们], "一个立遗嘱的人").
+entry(遗嘱人, n, [遗嘱者们], "制定遗嘱的人").
+entry(被测者, n, [被测者们], "被测试的人")
+entry(测试者, n, [测试者们], "进行测试的人").
+entry(睾丸, 复, [], "的睾丸").
+条目(睾丸, n, [睾丸], "一个睾丸.").
+entry(testier, 比较级, [], "of testy").
+entry(最暴躁, 最高级, [], "测试的").
+entry(作证, v, [作证了, 作证中, 作证], "在宣誓下作出真实的声明").
+entry(愠怒地, 副词, [], "以易怒的方式").
+entry(测试, n, [测试们], "通过考试评估的行为")
+入口(睾丸, n, [睾丸], "一个男性生殖腺体")。
+entry(试通, n, [试通币], "一种法国旧硬币").
+entry(testoon, n, [testoons], "泰斯通").
+entry(testudo, n, [testudos], "或古罗马人用作盾牌的便携式屏风TESTUDINES")​.
+entry(testy, adj, [], "测试；最烦躁的").
+entry(tet, n, [tets], "teth").
+entry(破伤风的, 形容词, [], "与破伤风有关").
+entry(破伤风, n, [破伤风s], "一种能够引起抽搐的药物").
+entry(破伤风, 复数, [], "破伤风的").
+```
+entry(tetanise, v, [tetanised,tetanising,tetanises], "强直化").
+```
+entry(破伤风, 动词, [破伤风了, 破伤风中, 破伤风化], "使痉挛").
+entry(破伤风, n, [破伤风疫], "一种传染病TETANOID 形容词").
+入口(强直, 名词, [强直症], "以疼痛的肌肉痉挛为特征的状况").
+entry(神经质, 形容词, [], "疯狂").
+entry(暴躁, 形容词, [], "更暴躁 最暴躁 易怒 暴躁地 adv").
+条目(teth, 名词, [teths], "一个希伯来字母")。
+entry(拴住, v, [拴住了,正在拴住,拴住们], "用绳子固定在一个固定的物体上").
+入口(陀螺, 名词, [陀螺], "teetotum").
+entry(四角鱼, n, [四角鱼们], "一种热带鱼").
+入口(四酸, n, [四酸类], "一种酸的类型").
+条目(四位一组, n, [四位一组们], "一个四位一组的群体，四位一组的 adj")。
+条目(四边形, n, [四边形], "四边形多边形").
+entry(四聚体, n, [四聚体], "一种聚合物").
+entry(四足动物, n, [四足动物], "一种有四只脚的动物").
+entry(四分诸侯, n, [四分诸侯们], "四位共同统治者之一")。
+条目(特里, 名词, [俄罗斯方块], "格鲁吉亚共和国的一种货币单位")。
+entry(四电极管, n, [四电极管], "一种电子管").
+entry(tetrose, n, [四碳糖], "一种分子中含有四个碳原子的糖").
+entry(四氧化物, n, [四氧化物], "一种氧化物类型").
+条目(四硝基甲苯胺, 名词, [四硝基甲苯胺们], "一种化合物").
+entry(疹子, n, [疹子们], "一种皮肤病").
+entry(teuch, 形容词, [], "teugh").
+entry(teugh, adj, [], "坚韧地 adv").
+条目(对撞机, n, [对撞机们], "一种粒子加速器").
+entry(tew, v, [tewed,tewing,tews], "努力工作").
+entry(得克萨斯, n, [得克萨斯们], "轮船上最上层的结构")
+条目(文本, v, [发送消息中, 发送消息中, 消息], "从一个手机发送消息到另一个手机")。
+entry(图书, n, [图书], "用于学习某一学科的书籍").
+条目(短信者, n, [短信者], "发信息的人").
+entry(纺织品, n, [纺织品], "一种编织物").
+entry(無文字, 形容詞, [], "沒有文字").
+entry(文本, 形容词, [], "与文本有关").
+entry(经典研究者, n, [经典研究者们], "研究圣经的专家").
+entry(表面特征, 形容词, [], "涉及某物的表面特征").
+entry(纹理, v, [纹理编织, 纹理处理, 纹理], "通过编织制作").
+entry(thack, v, [thacked,thacking,thacks], "以茅草覆盖屋顶")。
+entry(thae, 形容词, [], "这些 那些").
+entry(髓, n, [髓], "髓").
+entry(丘脑, n, [丘脑], "大脑的一部分丘脑的 形容词").
+entry(塔勒, n, [塔勒], "塔勒").
+entry(塔利, n, [塔利们], "印度用来盛放食物的盘子").
+词条(铊, n, [铊], "一种金属元素铊铊的形容词").
+entry(菌体, n, [菌体], "或 菌膜植物体，无真正的根、茎或叶 菌体样的 adj")
+entry(河槽线, 名词, [河槽线们], "沿着河床长度定义最低点的线").
+entry(比, 连接词, [], "用于引入比较的第二个元素").
+条目(领地, 名词, [领地], "由领主持有的土地").
+```prolog
+entry(死欲, n, [死欲], "一种对死亡的本能渴望").
+```
+entry(撒恩, n, [撒恩们], "在盎格鲁撒克逊时期通过军事服务持有土地的男子").
+词条(封邑, 名词, [封邑们], "封邑的领域").
+entry(感谢, v, [感谢了,正在感谢,感谢], "表达感激之情").
+entry(感谢者, n, [感谢者们], "表示感谢的人").
+entry(感激, 形容词, [], "更加感激 最感激的 感到感激").
+entry(tharm, n, [tharms], "腹部")。
+entry(that, pron, [那些], "表明的那个").
+entry(那边, 副词, [], "在那个方向").
+entry(茅草, v, [茅盖,茅盖中,茅盖物], "用茅草或植物枝叶覆盖").
+entry(撒切尔, 名词, [撒切尔们], "用茅草覆盖的人")。
+entry(thatchy, adj, [], "类似茅草的").
+入口(融化, 动词, [融化了,正在融化,融化], "使融化").
+入口(解冻器, n, [解冻器们], "解冻事物的东西").
+entry(解冻, n, [解冻], "冰冻物质的融化").
+entry(从未解冻, 形容词, [], "从未解冻").
+条目(这个, 确定的, [], "用于指定或使其特别的冠词")。
+条目(神权, n, [神权统治], "由神统治").
+entry(剧院, n, [剧院], "用于戏剧表演的建筑THEATRIC adj").
+entry(剧院, n, [剧院], "剧院").
+entry(thebaine, n, [thebaines], "一种有毒的生物碱").
+`entry(thebe, n, [thebes], "博茨瓦纳的货币单位").`
+entry(theca, n, [thecae], "保护性的解剖覆盖物 THECAL THECATE 形").
+条目(汝, 代词, [], "代词汝的宾格")。
+entry(西林, n, [西林], "雌酮").
+入口(激素, 名词, [激素们], "雌三醇")。
+entry(盗窃, n, [盗窃行为], "偷窃的行为").
+entry(thegn, n, [thegns], "thaneTHEGNLY 形容词").
+entry(thein, n, [theins], "茶碱").
+entry(茶碱, n, [茶碱们], "咖啡因").
+entry(他们的, 形容词, [], "属于他们的").
+entry(他們的, 代词, [], "他们的 代词 'they' 的所有格形式")。
+entry(有神论, n, [有神论们], "相信神的存在").
+entry(有神论者, n, [有神论者们], "相信神的存在的人有神论的 adj").
+条目(乳头炎, n, [乳头炎症], "乳头的炎症")。
+条目(他们, 代词, [], "they 的宾格").
+entry(主題, n, [主題集], "根據其主題收集的郵票")。
+主题条目(v, [themed,theming,themes], "根据中心主题计划某事").
+entry(他们自己, 代词, [], "一个未指明性别的人").
+entry(then, n, [thens], "那时").
+条目(thenage, n, [thenages], "thanage").
+入口(thenal, 形容词, [], "有关手掌的").
+入口(thenar, 名词, [thenars], "手掌")。
+条目(那里, 副词, [], "来自那个地方").
+entry(神权政治者, n, [神权政治者们], "作为神的代表统治的人").
+entry(神正论, n, [神正论], "关于上帝善良和恶存在的辩护").
+entry(theogony, n, [诞生神谱], "关于众神起源的记述").
+entry(神学者, n, [神学者们], "神学的学生").
+entry(神学, n, [神学], "宗教的研究").
+entry(神治, n, [神治统治], "由神统治").
+entry(弦琴, n, [弦琴], "一种弦乐器").
+entry(定理, n, [定理], "一个可证明为真或被假设为真的命题")
+entry(理论, pl, [], "理论的").
+entry(假设, v, [假设了, 假设中, 假设], "进行理论化").
+entry(理论家, n, [理论家], "进行理论化的人").
+条目(理论化, 动词, [理论化了, 理论化中, 理论化], "形成理论")。
+entry(理论, n, [理论], "用于解释一类现象的一组命题") .
+entry(治疗, n, [疗法], "疾病或残疾的治疗").
+入口(那里, n, [那里的], "那个地方").
+entry(thereat, 副词, [], "在那个地方或时间").
+entry(因此, 副词, [], "通过这种方式").
+entry(therefor, 副詞, [], "因为那").
+条目(therein, 副词, [], "在那个地方").
+entry(电子琴, n, [电子琴], "一种乐器").
+entry(该, 副词, [], "那个").
+entry(thereon, 副词, [], "在那上面").
+entry(thereout, 副词, [], "out of that").
+条目(thereto, 副词, [], "到那").
+entry(解毒剂, n, [解毒剂们], "糖蜜").
+entry(引入项, 名词, [引入项复数], "疗伤药物").
+entry(有袋类动物, n, [有袋类动物们], "一种哺乳动物的亚纲")
+entry(热量单位, 名词, [热量单位], "热量单位").
+entry(thermae, 复数名词, [], "温泉").
+条目(热的, n, [热气流], "上升的一团暖空气").
+entry(therme, n, [thermes], "热").
+条目(thermel, n, [thermels], "测温设备")。
+词条(thermic, 形容词, [], "与热有关").
+entry(热电子, n, [热电子们], "由加热体发射的离子")。
+入口(铝热剂, n, [铝热剂], "一种点燃时生成强烈热量的金属混合物").
+条目(水壶, 名词, [保温瓶], "用于保持液体温度不变的容器").
+entry(似兽的, 形容词, [], "类似野兽").
+entry(兽脚类, n, [兽脚亚目], "一种肉食性恐龙").
+entry(同义词库, npl, [], "同义词和反义词的词典").
+条目(这些, 复数, [], "其中的").
+entry(论文, n, [论文], "一个提出来讨论的命题").
+entry(演员, n, [演员们], "演员").
+entry(演员, n, [演员们], "演员").
+入口(theta, n, [thetas], "一个希腊字母")。
+entry(独断的, 形容词, [], "任意的").
+entry(塞提克爾, 形容词, [], "thetic").
+entry(神术, n, [神术], "在人的事务中的神圣干预神术的形容词").
+条目(thew, n, [thews], "发达的肌肉").
+entry(thewless, adj, [], "虚弱").
+`entry(thewy, adj, [], "THEWIER THEWIESTbrawny").`
+entry(他们, pron, [], "第三人称复数代词主格").
+entry(硫胺素, 名词, [硫胺素], "硫胺素").
+entry(硫胺素, n, [硫胺素類], "一种B族维生素").
+条目(thiazide, n, [噻嗪类], "一种用于治疗高血压的药物")。
+条目(thiazin, n, [thiazins], "噻嗪").
+entry(噻嗪, n, [噻嗪类], "一种化学化合物").
+entry(噻唑, n, [噻唑s], "噻唑").
+entry(噻唑, n, [噻唑类], "一种化学化合物").
+entry(thick, adj, [], "厚的 较厚的 最厚的 从一个表面到其相对表面的相对较大范围").
+入口(厚, 名词, [厚的], "最厚的部分").
+```prolog
+entry(增稠, 动词, [增稠了, 增稠中, 增稠], "使变稠").
+```
+入口(灌木丛, 名, [灌木丛], "茂密的灌木或小树THICKETY 形容词").
+entry(厚实的, 形容词, [], "有点厚").
+entry(厚厚地, 副词, [], "以一种厚的方式").
+entry(粗壮, n, [粗壮], "灌木丛").
+小偷条目，名词，[小偷们]，“一个偷东西的人”。
+```prolog
+entry(盗窃, v, [盗窃了,盗窃中,盗窃者], "偷窃").
+```
+entry(偷窃, n, [偷窃行为], "偷窃的行为或实践") .
+entry(窃贼, 形容词, [], "喜欢偷窃").
+entry(大腿, n, [大腿], "腿的一部分THIGHED 形容词").
+入口(thill, n, [thills], "车辆的轴").
+entry(顶针, n, [顶针], "用于在缝纫时保护指尖的帽子").
+条目(thin, 形容词, [], "比较薄的 最薄的 拥有相对较小的密度或厚度")。
+输入(稀薄, 动词, [稀释了, 稀释中, 变稀薄], "使稀薄")。
+entry(瘦跑者, n, [瘦跑者们], "田径队的运动员").
+条目(thindown, n, [thindowns], "穿过地球大气层的原子粒子和宇宙射线数量减少的现象")。
+entry(你的, 代词, [], "代词 thou 的所有格形式")。
+entry(thing, n, [事物], "一个无生命的物体").
+entry(thingy, n, [thingies], "某物，其名称未知或已被遗忘").
+entry(思考, v, [思考过,思考中,思考着], "在脑海中形成").
+entry(思想家, n, [思想家们], "思考的人").
+entry(思考, n, [思考], "一种看法或判断")．
+条目(薄, 副词, [], "以薄的方式").
+entry(稀薄的, 过去, [], "thin的时态").
+条目(稀释剂, n, [稀释剂们], "使变稀者").
+入口(薄, 名词, [薄度], "瘦的质量或状态")。
+entry(最瘦, 最高级, [], "的瘦").
+条目(thinning, 现在时, [], "thin的分词形式").
+entry(稍薄, 形容词, [], "稍微薄").
+条目(thio, 形容词, [], "含有硫").
+entry(硫醇, n, [硫醇], "一种硫化合物硫醇的 形容词").
+entry(亚硫酸盐, n, [亚硫酸盐], "一种化学盐").
+entry(硫磺的, 形容词, [], "与硫有关的").
+入口(硫堇, n, [硫堇类], "一种紫色染料")。
+entry(硫堇, n, [硫堇], "硫堇").
+```prolog
+entry(亚硫酰, n, [亚硫酰], "硫酰").  
+```
+entry(噻吩, n, [噻吩类], "一种化学化合物").
+entry(硫磷酰胺, n, [硫磷酰胺们], "一种化合物").
+entry(硫脲, n, [硫脲类], "一种化合物").
+entry(thir, pron, [], "这些").
+入口(可湿性粉剂, n, [粉剂的复数形式], "一种化合物").
+第三, 名, [三分之一], “三个相等部分之一”.
+entry(第三, 副词, [], "第三个").
+entry(thirl, v, [thirled,thirling,thirls], "激动").
+entry(特尔拉治, 名词, [特尔拉治们], "要求封建租户在某个磨坊磨谷物的义务")。
+entry(口渴, v, [口渴了,口渴着,口渴], "感觉到想喝或需要喝的欲望").
+入口(thirster, n, [thirsters], "渴望者").
+entry(口渴, 形容词, [], "更口渴 最口渴感到想喝水的需求").
+条目(十三, n, [十几个], "一个数字")。
+入口(三十, n, [三十年代], "一个数字")。
+条目(这个, 代词, [这些], "刚才提到的人或物").
+entry(thisaway, adv, [], "这样").
+条目(蓟, 名词, [蓟], "一种多刺的植物").
+entry(thistly, adj, [], "更加多刺的 最多刺的, 多刺").
+entry(那里, 副词, [], "那个方向").
+entry(tho, conj, [], "尽管").
+entry(索尔, v, [忍受,忍耐中,忍耐], "忍受").
+入口(座裙桩, n, [座裙桩], "作为划桨锁的销钉")。
+入口(墓室, 名词, [墓室], "一个圆形地下墓穴")。
+entry(thong, v, [thonged,thonging,thongs], "用鞭子抽打").
+entry(thongy, 形容词, [], "像由窄布条制成的衣物THONGIER THONGIEST").
+entry(胸廓, n, [胸廓], "或 胸廓身体的颈部和腹部之间的部位胸廓 胸腔 形容词").
+entry(钍氧化物, n, [钍氧化物], "一种钍的氧化物").
+entry(thoric, 形容词, [], "与钍有关").
+entry(硝石, n, [硝石], "一种钍矿石").
+入口(钍, n, [钍们], "一种金属元素")。
+entry(荆棘, v, [刺伤, 刺痛, 刺], "用植物上的尖刺刺扎").
+条目(多刺的, 形容词, [], "更多刺的 最多刺的 布满荆棘地 adv")。
+entry(彻底, 形容词, [], "彻底").
+入口(氡的放射性同位素, 名词, [氡的同位素], "一种氡的放射性同位素").
+entry(彻底, 形容词, [], "更彻底 最彻底 完全在所有方面").
+入口(thorp, n, [thorps], "一个小村庄")。
+entry(thorpe, n, [thorpes], "村").
+```prolog
+entry(那些, 复数, [], "的那"). 
+```
+entry(汝, v, [汝了,汝中,汝们], "用作第二人称单数主格代词的汝进行称呼").
+entry(尽管, 连词, [], "尽管事实如此").
+entry(想法, n, [想法], "思考的产物").
+入口(千, n, [千位], "一个数字")。
+entry(thowless, 形容词, [], "无精打采").
+入口(奴役, 名词, [奴役们], "奴役").
+入口(奴隶, 动词, [奴役了, 奴役中, 奴役们], "去奴役").
+入口(痛击, 动词, [痛击了, 正在痛击, 痛击], "打击").
+条目(thrasher, n, [thrashers], "一种打谷机").
+entry(thrashy, 形容词, [], "快速响亮的朋克摇滚音乐风格的特征").
+条目(捆, n, [捆], "谷物的计量单位")
+条目(扭, 动, [扭过,扭动,扭], "扭曲").
+条目(顽固, 形容词, [], "顽固").
+entry(thrawn, 形容词, [], "以扭曲的THRAWNLY副词").
+entry(线程, v, [缝纫, 穿线, 线], "将一个非常细的线穿过").
+entry(穿线者, n, [穿线者们], "一个穿线的人").
+entry(细丝般的, 形容词, [], "更细丝的 最细丝的").
+entry(threap, v, [threaped,threaping,threaps], "争论").
+入口(争论者, 名词, [争论者们], "一个进行争论的人").
+入口(威胁, 动词, [威胁了, 威胁中, 威胁], "威胁")。
+条目 (威胁, 动词, [威胁了, 威胁着, 威胁], “成为危险的来源”).
+entry(三个, n, [三个们], "一个数字").
+entry(threep, v, [threeped,threeping,threeps], "捶击").
+entry(threnode, n, [threnodes], "挽歌").
+entry(挽歌, n, [挽歌], "哀悼之歌").
+entry(thresh, v, [打谷, 打谷中, 打谷], "机械地从植物中分离出谷物或种子")
+entry(打谷机, n, [打谷机], "一种用于脱粒的机器").
+词条(throw, 过去式, [], "throw的时态").
+entry(三次, 副词, [], "三次").
+`entry(节俭, n, [节俭], "智慧与谨慎地管理个人资源").`
+知识库条目(简约, 形容词, [], "更简约 最简约显示节俭").
+entry(刺激, 动词, [激动的, 兴奋的, 兴奋], "极大地激发").
+entry(惊悚片, n, [惊悚片], "使人兴奋").
+入口(蓟马, 名词, [蓟马], "一种英镑硬币")。
+entry(繁荣, 动词, [繁荣了, 繁荣过, 繁荣中], "繁荣意味着蓬勃发展")。
+条目(兴旺者, 名词, [兴旺者们], "一个兴旺的人").
+entry(thro, prep, [], "通过").
+条目(喉咙, v, [喉音,发出喉音,喉音], "用沙哑的声音说话")。
+入口(throaty, 形容词, [], "THROATIER THROATIESThoarse").
+entry(搏动, v, [搏动过,搏动中,搏动], "脉动").
+entry(搅拌器, n, [搅拌器], "一个跳动的东西")
+```prolog
+entry(阵痛, n, [阵痛], "剧烈的疼痛痉挛").
+```
+入口(thrombin, n, [thrombins], "一种酶")。
+条目(血栓, n, [血栓], "堵塞血管的凝块")。
+entry(王座, v, [坐上王座, 坐上王座, 王座], "把某人放在王座上，一把皇家的椅子")。
+entry(聚集, 动词, [拥挤, 正在聚集, 拥挤], "挤进").
+```
+entry(画眉, n, [画眉鸟], "一种鸣禽").
+```
+节气门(v, [节气门了,节气门中,节气门们], "掐住").
+entry(通过, 介词, [], "通过").
+```prolog
+entry(throve, a, [], "繁荣的过去式").
+```
+```prolog
+entry(throw, v, [threw,thrown,throwing], "投掷通过手臂的运动在空中推进").
+```
+入口(投掷者, n, [投掷者们], "一个投掷物品的人").
+入口(通过, 介词, [], "穿过").
+```prolog
+entry(拨弦, v, [拨弦了,拨弦中,拨弦], "漫不经心或单调地弹奏弦乐器").
+```
+进入(击弦者, n, [击弦者们], "一个演奏击弦乐器的人").
+入口(抖擞, 形容词, [], "更抖擞 最抖擞蓬松").
+`入口(吞吐量, n, [吞吐量], "在给定时间内处理的原材料量").`
+入口(画眉鸟, n, [画眉鸟们], "一种鸣禽").
+entry(推, v, [推过, 推进, 推力], "用力推").
+entry(推进器, n, [推进器], "推力装置之一").
+入口(推進器, n, [推進器], "thruster").
+入口(高速公路, n, [高速公路], "一条高速公路")。
+条目(嘭, v, [嘭了一声, 嘭嘭声, 嘭声], "发出沉闷的重响声")。
+entry(暴徒, n, [暴徒们], "残暴的歹徒或刺客").
+entry(印度盗匪, n, [印度盗匪们], "印度的盗匪行为")。
+入口(暴行, 名词, [暴行], "暴徒的行为")。
+entry(流氓般的, 形容词, [], "暴徒的特征").
+入口(thuja, n, [thujas], "常绿乔木或灌木").
+```prolog
+entry(thulia, n, [钌华石], "一种铥的氧化物").
+```
+条目(镏, 名词, [镏], "一种金属元素")。
+entry(拇指, v, [拇指过, 拇指着, 拇指], "用拇指翻阅人手短而厚的指头" ).
+条目(thumbkin, n, [thumbkins], "用拇指和手指转动的螺丝")。
+entry(拇指螺母, n, [拇指螺母们], "用拇指和手指转动的螺母")
+entry(重击, 动词, [重击过, 重击中, 重击], "打击以发出沉闷的声音").
+入口(thumper, n, [thumpers], "一个拍打的").
+entry(雷电, v, [雷鸣, 雷鸣中, 雷鸣声], "发出响亮的回响声").
+入口(雷雨, 形容词, [], "伴随雷声").
+entry(突然声, v, [突然声的,突然声的过程,突然声], "发出突然的低沉声音").
+entry(香炉, n, [香炉], "一个香炉")。
+entry(司香员, n, [司香员], "在宗教仪式中提香的人").
+条目(thurl, n, [thurls], "牛的髋关节")。
+入口(如此, 副词, [], "以这种方式")。
+```prolog
+entry(这样, 副词, [], "因此").
+```
+entry(香柏, 名词, [香柏木], "香柏").
+```prolog
+entry(拍打, v, [拍打了,拍打着,拍打], "用扁平的东西打"). 
+```
+`entry(thwacker, n, [thwackers], "一种重击者").`
+entry(阻挠, v, [阻挠了,正在阻挠,阻挠], "阻止实现的").
+entry(阻碍者, n, [阻碍者们], "一个阻拦的人").
+entry(逆行, 副词, [], "横过").
+entry(汝的, 形容词, [], "属于汝").
+entry(百里香, 名词, [百里香们], "一种芳香的草本植物").
+entry(thymey, adj, [], "THYMIER THYMIESTthymy").
+entry(胸腺, a, [], "胸腺的复数").
+entry(胸腺的, 形容词, [], "关于百里香的").
+entry(thymier, comparative, [], "麝香草味和麝香草的").
+entry(thymiest, 最高级, [], "包含thymey和thymy的").
+入口(胸腺嘧啶, 名词, [胸腺嘧啶], "一种化合物").
+entry(麝香草酚, n, [麝香草酚s], "一种化学化合物").
+entry(thymoma, n, [thymomas], "或THYMOMATA一种源于胸腺组织的肿瘤").
+entry(胸腺素, n, [胸腺素], "由胸腺分泌的激素").
+条目(胸腺, n, [胸腺], "或腺状结构在体内").
+entry(thymy, adj, [], "充满百里香的").
+entry(甲状腺, 形容词, [], "与甲状腺有关").
+入口(甲状腺, n, [甲状腺], "一个内分泌腺体").
+entry(甲状腺素, n, [甲状腺素们], "一种氨基酸").
+入口(苔珊瑟, n, [苔珊瑟斯], "酒神杖").
+entry(长穗花序, n, [长穗花序的复数形式], "一种花丛类型THYRSOID 形容词").
+entry(你自己, 代词, [], "yourself").
+条目(ti, n, [tis], "全音阶中第七个音调")。
+入口(天, 名词, [天们], "一个大型椭圆形炊具").
+entry(tiara, n, [冕冠], "女性佩戴的珠宝头饰TIARAED adj").
+entry(胫骨, n, [胫骨], "或 TIBIAE，小腿的骨头，TIBIAL 形容词")。
+entry(胫骨, n, [胫骨的], "腿部小腿的肌肉").
+entry(tic, v, [ticced,ticcing,tics], "不自主的肌肉收缩").
+entry(缅元, 名词, [缅元], "一种曾经使用的泰国重量单位")。
+条目(发出滴答声, 动词, [已发出滴答声, 正在发出滴答声, 发出滴答声], "发出重复的滴答声")。
+entry(代号, n, [代号列表], "那个滴答作响的").
+entry(票, v, [有票的, 开票, 票], "贴上标签").
+entry(滴答, n, [滴答], "一种坚固的棉织物").
+entry(滴克蕾斯, n, [滴克蕾斯], "一种小型海鸟").
+```prolog
+entry(搔痒, 动词, [搔痒了, 正在搔痒, 搔痒], "轻触以产生发痒的感觉").
+```
+entry(提醒器, n, [提醒器们], "引起发痒的人或物")。
+entry(怕痒, 形容词, [], "对挠痒敏感").
+entry("痒痒的", 形容词, [], "更痒痒的 最痒痒的痒痒的").
+entry(蜀葵, n, [蜀葵们], "一种开花植物").
+条目(滴答, 动词, [滴答了, 滴答着, 滴答], "滴答作响").
+```prolog
+entry(ticktock, v, [ticktocked,ticktocking,ticktocks], "发出钟表的嘀嗒声").
+```
+entry(tictac, v, [滴答作响, 正在滴答作响, 滴答响动], "发出滴答声").
+entry(tictoc, v, [tictocked, tictocking, tictocs], "发出滴答声").
+入口(潮汐, 形容词, [], "与潮汐有关地 副词").
+entry(小吃, 名词, [小吃们], "选择的一口食物")。
+entry(小鱼, n, [小鱼], "一种小鱼").
+entry(tiddly, adj, [], "较醉 最醉略带醉意").
+入口(潮汐, v, [潮起, 起潮, 潮涨], "像潮水一样流动，海洋水体的涨落")。
+入口(潮间地, 名词, [潮间地], "被潮水交替覆盖和露出的土地")。
+entry(无潮, 形容词, [], "缺乏潮汐").
+entry(潮汐般的, 形容词, [], "类似于潮汐").
+entry(潮痕, n, [潮痕], "岸上的一条线，标记潮水的最高点").
+入口(潮痕, 名词, [潮痕], "显示潮水最高或最低点的标记")。
+entry(裂潮, n, [裂潮], "激流").
+entry(潮汐通道, n, [潮汐通道], "一个潮汐水道")。
+entry(整理过的, 过去, [], "tidy 的时态").
+输入(tidier, n, [tidiers], "one that tidies").
+entry(整理, 现在时, [], "整理的第三人称单数").
+entry(最整洁, 最高级, [], "整洁的").
+entry(整洁地, 副词, [], "以整洁的方式").
+entry(整洁, n, [整洁状态], "处于整洁的状态").
+项(消息, 名词, [消息], "一则新闻").
+entry(整洁, 形容词, [], "更加整洁 最整洁整齐有序").
+进入（整洁，动词，[整洁了,整理中,整洁]，“使整洁”）。
+入口(黄花菜, n, [黄花菜], "一种一年生草本植物").
+entry(系, v, [], "系 系或系稳 系用绳子或绳索固定").
+entry(束带, n, [束带], "用于将窗帘束在一侧的环").
+entry(决胜局, n, [决胜局], "在分数相同的参赛者之间选出赢家的比赛").
+entry(领带夹, n, [领带夹], "用来固定领带的夹子").
+entry(系, 过去式, [], "系的时态").
+entry(tieing, a, [], "动词 tie 的现在分词").
+entry(无领带的, 形容词, [], "没有领带")
+entry(领带夹, n, [领带夹], "用于固定领带的别针").
+entry(层级, v, [层级化, 分层, 层级], "排列成一个个逐个叠加的层级").
+entry(三时课, n, [三时课s], "用于祈祷和虔诚的七个经典每日时段之一").
+entry(分为三部分, 形容词, [], "分成三等分").
+entry(tiercel, n, [tiercels], "三岁的猎鹰").
+entry(tiff, v, [tiffed,tiffing,tiffs], "发生小争吵").
+```prolog
+条目(蒂芙尼, 名词, [蒂芙尼们], "一种薄网布料").
+```
+entry(午餐, v, [吃午餐了, 吃午餐中, 午餐们], "吃午餐").
+entry(老虎, 名词, [老虎们], "一种大型猫科哺乳动物")。
+条目(虎眼石, 名词, [虎眼石], "一种宝石").
+条目(老虎般, 形容词, [], "像老虎一样").
+entry(紧, 形容词, [], "更紧 最紧牢固或紧密固定在位置紧密地 副词").
+entry(收紧, v, [收紧了,收紧中,收紧], "使变紧").
+entry(紧身衣, 复数名词, [], "一种贴身衣服").
+entry(守财奴, n, [守财奴们], "吝啬鬼").
+entry(虎狮兽, 名词, [虎狮兽们], "雄性老虎和雌性狮子的后代")。
+条目(tignon, 名, [tignons], "在路易斯安那作为头饰佩戴的一块布料")。
+入口(虎狮兽, 名词, [虎狮兽们], "tiglon").
+entry(雌虎, n, [雌虎们], "一只雌性老虎").
+```prolog
+entry(tigrish, adj, [], "老虎般的").
+```
+entry(幼犬, n, [幼犬们], "小狗").
+entry(tiki, n, [tikis], "波利尼西亚神的木质或石质雕像").
+entry(提卡, n, [提卡], "一种在串上烹调的印度菜").
+条目(til, n, [tils], "芝麻植物").
+條目(tilak, n, [tilaks], "印度教徒在額頭上戴的標記")。
+条目(罗非鱼, 名词, [罗非鱼], "一种非洲鱼类")。
+entry(蒂尔伯里, n, [蒂尔伯里式马车], "一种有两个轮子的马车").
+entry(代字号, 名词, [代字号], "一个放置在字母上的标记以指示其发音").
+条目(瓦, v, [瓷砖,铺贴,瓦片], "用薄片的烧制粘土覆盖").
+入口(方头鱼, 名词, [方头鱼], "一种海洋食用鱼")。
+entry(tilelike, 形容词, [], "类似瓷砖").
+条目(贴砖工, n, [贴砖工们], "铺瓷砖的人").
+条目(tiling, n, [tilings], "一块瓷砖的表面").
+entry(耕作, v, [耕过, 耕作中, 耕作], "通过犁地来准备土地以种植作物TILLABLE adj").
+entry(耕作, n, [耕地], "已耕种的土地").
+条目(耕耘机, 动词, [分蘖了, 分蘖, 分蘖们], "从根部长出茎干")。
+入口(冰磧岩, 名词, [冰磧岩], "由固结的粘土、沙子、砾石和巨石组成的岩石")。
+entry(倾斜, v, [倾斜了,倾斜中,倾斜], "to cause to slant倾斜的 adj").
+条目(倾斜者, n, [倾斜者们], "倾斜的人或物").
+entry(tilth, n, [tilths], "耕作").
+entry(tiltyard, n, [tiltyards], "一个用于马上比武比赛的区域")。
+`entry(timarau, n, [timaraus], "tamarau").`
+entry(定音鼓, n, [定音鼓们], "一个大鼓").
+entry(鼓形饼, n, [鼓形饼], "一种形状如鼓的糕点").
+entry(木材, v, [木材化,木材中,木材们], "用作建筑材料的木材装饰TIMBERY 形容词").
+entry(音色, n, [音色], "由其泛音给予声音的品质音色的 形容词").
+entry(铃鼓, n, [铃鼓], "一种打击乐器").
+入口(时间, v, [定时, 计时, 时间], "确定速度或持续时间").
+entry(时间记录卡, n, [时间记录卡], "用于记录员工到达和离开时间的卡片")。
+entry(永恒, 形容词, [], "没有开始或结束").
+时间表条目(timeline, n, [时间表], "事件的安排")。
+entry(及時的, 形容詞, [], "更及時 最及時發生在正確的時刻")
+entry(适时, 形容词, [], "及时").
+entry(超时, n, [超时现象], "活动的短暂停止").
+entry(timer, n, [计时器], "一种计时的东西").
+```prolog
+条目(工时, n, [工时], "按小时或按天支付的工作").
+```
+entry(陈旧, 形容词, [], "显示长期使用或磨损的效果").
+entry(胆小, 形容词, [], "缺乏勇气或自信").
+entry(胆小, n, [胆小的性质], "胆小的品质").
+entry(时机, n, [时机], "在适当的时刻做某事的选择")
+入口(噻吗洛尔, n, [噻吗洛尔类], "用于治疗青光眼的药物")。
+entry(胆怯, 形容词, [], "害怕").
+entry(蒂莫西, n, [蒂莫西草], "一种欧洲草地植物").
+entry(定音鼓, n, [定音鼓], "一种大鼓").
+entry(鼓膜, n, [鼓膜], "或鼓膜窦鼓膜").
+entry(tin, v, [tinned,tinning,tins], "用金属锡覆盖").
+入口(塌塌鸟, n, [塌塌鸟], "一种南美洲的猎鸟").
+entry(硼砂原矿, n, [硼砂原矿], "粗硼砂").
+entry(着色, 动词, [着色过, 着色中, 着色], "上色").
+```prolog
+entry(酊剂, v, [染色过,染色中,染色], "去染色").
+```
+入口(易燃物, 名词, [易燃物们], "易燃的材料易燃的 形容词")。
+条目(尖齿, 动, [尖齿的, 正在尖齿, 尖齿], "失去").
+entry(tinea, n, [癣], "一种真菌性皮肤病TINEAL 形容词").
+entry(tineid, n, [tineids], "蛾子家族中的一种").
+entry(锡箔, n, [锡箔纸], "一种薄的金属片").
+entry(tinful, n, [tinfuls], "一满罐的容量").
+entry(听, v, [发出声响, 做声], "发出尖锐的金属声").
+条目(tinge, v, [], "TINGED TINGEING 或 TINGING TINGE用色彩稍微涂抹")
+```prolog
+entry(刺痛, v, [刺痛的, 刺痛着, 刺痛], "引起刺痛的感觉").
+```
+```prolog
+entry(刺痛者, n, [刺痛者們], "引起刺痛的东西").
+```
+条目(tingly, 形容词, [], "TINGLIER TINGLIESTtingling").
+entry(装腔作势者, n, [装腔作势者们], "装模作样又自命不凡的人").
+入口(较小, 比较, [], "的微小").
+条目(最小, 最高级, [], "的微小").
+entry(细微地, 副词, [], "以微小的方式").
+entry(微小, n, [微小性], "微小的特质").
+entry(叮铃, 现在, [], "tine 的分词形式").
+entry(修补, v, [修补了, 修补中, 修补], "以不熟练或实验性的方式进行修理").
+entry(补修者, n, [补修者们], "进行小修理或调整的人").
+entry(丁克乐, v, [丁克乐的, 丁克乐中, 丁克乐], "发出轻微的尖锐金属声").
+entry(丁克勒, 名词, [丁克勒们], "发出叮当声的人或物").
+entry(叮当作响, n, [叮当声], "发出叮当声的声音").
+entry(叮当, 形容词, [], "叮当声的产生").
+条目(锡状, 形容词, [], "类似锡").
+entry(锡匠, n, [锡匠们], "一位锌匠").
+条目(罐装, 过去式, [], "tin的时态")。
+entry(tinner, n, [矿工], "a tin miner").
+```
+词条(更清脆, 比较级, [], "的 清脆").
+```
+entry(最细小的, 最高级, [], "像锡一样").
+entry(声音尖细地, 副词, [], "以尖细的方式").
+入口(镀锡, 现在时, [], "镀锡的分词").
+entry(耳鸣, n, [耳鸣症], "耳朵中的嗡嗡声").
+入口(锡制, 形容词, [], "较锡制的 最锡制的 或类似于锡").
+entry(镀锡, v, [镀锡过,镀锡中,镀锡们], "用锡镀物体").
+entry(tinpot, adj, [], "无关紧要").
+条目(圣诞彩带, v, [装饰了, 装饰中, 装饰], "或 TINSELLED TINSELLING TINSEL给出炫耀或华丽的外观").
+entry(浮夸的, 形容词, [], "廉价而俗气的").
+入口(丁斯利, 形容词, [], "tinselly")。
+entry(白鐵匠, n, [白鐵匠], "與錫工作的人").
+入口(剪钳, 复数, [], "一种用于切割金属板的工具").
+entry(tinstone, n, [tinstones], "一种锡矿石").
+入口(色调, v, [着色, 上色, 色调], "轻微或精细地着色").
+entry(tinter, n, [tinters], "染色者")。
+条目(着色, n, [着色], "染色的过程").
+entry(无色, 形容词, [], "缺乏颜色").
+```prolog
+entry(鐵版照相, n, [鐵版照相], "一种摄影形式").
+```
+条目(锡器, 名词, [锡器], "由镀锡铁皮制成的物品").
+```prolog
+条目(锡制品, n, [锡制品], "用锡制成的东西").
+```
+```prolog
+entry(tiny, adj, [], "非常小时更小最小").
+```
+entry(倾斜, v, [倾斜了, 倾斜中, 倾斜], "使倾斜").
+entry(手推车, n, [手推车], "一种类型的车").
+entry(tipcat, n, [打陀螺], "一种类似棒球的游戏").
+entry(tipi, n, [tipis], "圆锥形帐篷").
+入口(无尖端, 形容词, [], "没有尖端或末端").
+entry(揭示, n, [揭示们], "一个提示或警告").
+entry(可翻转的, 形容词, [], "能够被翻动的").
+entry(小費, 過去, [], "提示的時態").
+entry(tipper, n, [倾卸机], "小费的人").
+entry(tippet, n, [披巾], "覆盖肩膀的物品")。
+entry(更加倾斜, 比较级, [], "tippy的").
+条目(最晃动的, 最高级, [], "的 晃动").
+entry(倾斜, 现在时, [], "tip的分词").
+入口(烈酒, 动词, [喝醉, 喝着, 喝酒], "喝酒精饮料").
+入口(陶醉者, n, [陶醉者], "饮酒的人").
+entry(提皮, 形容词, [], "更不稳定 最不稳定").
+entry(踮脚, v, [踮脚过, 踮脚ing, 踮脚们], "踮着脚走").
+entry(小贴士, n, [小贴士], "有关赛马投注或股票投资提示的出版物")。
+entry(微醺, 比较级, [], "微醉的").
+entry(最醉的, 最高级, [], "醉醺醺的").
+entry(醉醺醺地, 副词, [], "以醉醺醺的方式").
+entry(法警, n, [法警], "或 TIPSTAVES一个在法庭工作的侍从").
+entry(小道消息者, n, [小道消息者们], "向赌徒出售信息的人").
+entry(枪管口端, n, [枪管口端们], "枪的一部分").
+输入(tipsy, 形容词, [], "TIPSIER TIPSIEST稍微醉的").
+Prolog：entry(踮脚, v, [踮脚走, 踮着脚走, 踮脚走路], "用脚尖走路").
+entry(tiptop, n, [tiptops], "最高点").
+entry(长篇大论, n, [长篇大论], "长而激烈的演说").
+entry(提拉米苏, n, [提拉米苏们], "一种用手指饼、马斯卡彭奶酪、巧克力和浓缩咖啡制成的甜点").
+entry(轮胎, v, [累了, 累人, 轮胎], "变得疲倦").
+entry(疲倦, 形容词, [], "更加疲倦 最疲倦力量耗尽疲倦地 副词").
+entry(不知疲倦, 形容词, [], "似乎无法感到疲倦").
+entry(繁琐, 形容词, [], "乏味").
+entry(疲倦的，现在时，[]，"tire的分词")。
+entry(tirl, v, [tirled,tirling,tirls], "发出振动声").
+entry(新手, n, [新手们], "新手").
+entry(发脾气, n, [发脾气], "a tantrum").
+entry(花草茶, n, [花草茶饮], "一种草药饮料").
+entry(组织的, 形容词, [], "与组织有关").
+entry(组织, v, [编织成布料, 正在编织, 织物], "编织成精细的薄织物") .
+entry(tissuey, 形容词, [], "类似于组织").
+entry(组织性的, 形容词, [], "影响生物体组织结构材料")
+入口(麻雀, 名词, [麻雀们], "一种小鸟").
+entry(titan, n, [巨人], "非常高大的人").
+条目(钛酸盐, 名词, [钛酸盐], "一种化学盐").
+entry(泰坦女神, n, [泰坦女神们], "女性泰坦").
+entry(泰坦尼亚, 名词, [泰坦尼亚之类], "一种矿物").
+entry(泰坦尼克号, 形容词, [], "巨大").
+entry(泰坦精神, n, [泰坦精神们], "反抗社会常规").
+入口(钛铁矿, n, [钛铁矿们], "一种矿物")。
+entry(钛, n, [钛], "一种金属元素").
+entry(钛的, 形容词, [], "与钛有关").
+entry(趣闻, 名词, [趣闻], "tidbit").
+条目(titch, n, [titches], "少量").
+entry(titchie, adj, [], "TITCHIER TITCHIESTtitchy").
+条目(very small, 形容词, [], "较小 最小").
+项(滴定, n, [滴定量], "化学溶液的强度")。
+entry(帽子, n, [帽子们], "一顶帽子").
+entry(什一税, 形容词, [], "须缴纳什一税的").
+entry(什一税, v, [缴纳了, 缴纳中, 缴纳], "支付什一税，一种小税").
+entry(什一奉献者, n, [什一奉献者们], "什一奉献的人").
+entry(什一税, n, [什一税], "征收什一税的行为").
+entry(百日菊, n, [百日菊属], "一种高大的草本植物").
+entry(titi, n, [提提斯], "一种常青灌木或树木").
+entry(titian, n, [titians], "一种红棕色").
+entry(修饰, v, [修饰过,修饰中,修饰], "打扮得体")
+entry(云雀, n, [云雀], "一种鸣禽").
+entry(title, v, [titled,titling,titles], "赋予…称号或独特名称").
+entry(冠军, n, [冠军们], "体育冠军").
+入口(提特曼, 名词, [提特们], "最小的一窝小猪之一").
+entry(山雀, n, [山雀], "一种小鸟").
+entry(可滴定的, 形容词, [], "能够被滴定").
+entry(滴定剂, n, [滴定剂们], "滴定过程中使用的试剂")
+entry(滴定, 动词, [已滴定,滴定中,滴定], "通过加入试剂直到发生期望的反应来确定溶液的浓度").
+entry(titrator, n, [titrators], "进行滴定的人或物").
+entry("条目", "n", ["条目"], "滴度")
+入口(轻笑, 动词, [轻笑着, 轻笑中, 轻笑], "发出一种压抑的紧张笑声").
+```
+条目（笑者, n, [笑者们], "一个笑的人").
+```
+entry(姐姐, n, [姐姐们], "姐妹").
+entry(title, n, [titles], "一个非常小的书写或打印标记")
+entry(跳跃, v, [跳跃了,跳跃中,跳跃], "或 跳跃过 跳跃中 跳跃").
+entry(踉跄, 形容词, [], "摇晃不稳").
+entry(乳房, n, [乳房们], "奶头")。
+条目(titubant, 形容词, [], "特点是摇摆不定")。
+entry(名义持有人, n, [名义持有人们], "持有头衔的人").
+entry(称号, n, [称号们], "一个称号").
+entry(蹄飞, 副词, [], "快速地").
+入口(票, 复数名词, [], "票").
+entry(提因, 名词, [提因的复数形式], "吉尔吉斯斯坦的一种货币单位")。
+条目(坚戈, n, [坚戈], "哈萨克斯坦的货币单位").
+entry(tiz, n, [tizes], "紧张").
+entry(tizz, n, [复数: tizzes], "tizzy").
+entry(紧张混乱, n, [紧张混乱], "一种神经混乱状态").
+entry(分裂词缀, n, [分裂词缀], "通过插入其他单词将一个复合词拆开的现象")
+entry(往, 介词, [], "朝着").
+entry(蟾蜍, n, [蟾蜍], "一种无尾跳跃的两栖动物").
+entry(蟾鱼, n, [蟾鱼], "一种海鱼").
+条目(婆婆纳, 名词, [婆婆纳的复数形式], "一种多年生草本植物")。
+entry(toadied, 过去式, [], "toady 的时态").
+entry(蟾蜍, 现在时, [], "第三人称单数 toady")。
+entry(蟾蜍似的, 形容词, [], "类似蟾蜍").
+entry(toadless, 形容词, [], "没有蟾蜍").
+entry(蟾蜍, n, [蟾蜍们], "一种小蟾蜍").
+entry(蟾蜍状, 形容词, [], "类似于蟾蜍").
+Prolog:
+entry(toady, v, [奉承,奉承着,奉承们], "从事奴颜婢膝的奉承").
+```prolog
+entry(阿谀奉承, 形容词, [], "具有谄媚者的特征").
+```
+entry(谄媚, n, [谄媚行为], "奉承行为").
+entry(吐司, 动词, [烤过, 正在烤, 烤], "通过加热使变棕")。
+entry(烤面包机, n, [烤面包机们], "一种用于烘烤的设备")
+条目(烘烤, n, [烘烤], "将有节奏的演讲添加到雷鬼音乐中")。
+entry(烤面包的, 形容词, [], "更烤面包 最烤面包 舒适温暖").
+入口(烟草, n, [烟草], "或 TOBACCOES 一种为其叶子而种植的年度草本植物")。
+entry(雪橇, v, [滑雪橇, 正在滑雪橇, 雪橇], "乘坐一個狹長的雪橇").
+entry(toby, n, [tobies], "一种饮酒用的杯子").
+entry(toccata, n, [toccatas], "或 TOCCATE一种通常为管风琴而作的音乐作品")。
+entry(嫁妆, v, [给嫁妆, 给嫁妆中, 给嫁妆们], "给予嫁妆给").
+entry(tock, n, [滴答声], "短促的空洞声").
+条目(toco, n, [tocos], "一种南美的巨嘴鸟").
+入口(产科学, 名词, [产科学], "处理分娩的医学分支")。
+entry(警钟, n, [警钟们], "在钟上响起的警报").
+入口(tod, 名词, [tods], "一种英国的重量单位")。
+条目(今天, n, [今天的], "现在的一天")。
+entry(蹒跚, v, [蹒跚了,蹒跚着,蹒跚], "不稳定地走").
+入词(幼儿, n, [幼儿们], "会走路的小孩")。
+条目(托迪, 名词, [托迪酒], "一种含酒精的饮料")。
+条目(tody, n, [todies], "一种西印度群岛的鸟").
+entry(脚趾, v, [脚趾的,脚趾着,脚趾们], "用脚趾触摸脚的一个末端部分").
+entry(toea, n, [托亚], "巴布亚新几内亚的货币单位")。
+入口(鞋头, 名词, [鞋头], "鞋或靴子尖端的覆盖物")。
+条目(脚扣, n, [脚扣], "一种将骑行者的鞋前部固定在踏板上的装置")。
+入口(脚趾支撑, n, [脚趾支撑物], "攀爬时支撑脚趾的空间")。
+entry(趾, 现在时, [], "趾的分词").
+entry(沒腳趾, 形容詞, [], "沒有腳趾").
+entry(像脚趾, 形容词, [], "类似于脚趾").
+entry(趾甲, v, [钉趾甲, 钉趾甲中, 趾甲], "用斜钉钉牢").
+entry(鞋尖, n, [鞋尖], "一块用来覆盖脚趾的鞋部件").
+entry(鞋尖金属片, n, [鞋尖金属片们], "附着于鞋尖的金属标签").
+entry(toerag, n, [toerags], "一个可鄙的人").
+entry(足尖鞋, 名词, [足尖鞋], "一种无跟的舞蹈鞋").
+entry(toff, n, [toffs], "纨绔子弟").
+条目(太妃糖, n, [太妃糖], "一种耐嚼的糖果").
+`条目(太妃糖, n, [太妃糖], "太妃糖").`
+entry(toft, n, [小山丘], "小山").
+入口(豆腐, 名词, [豆腐], "由豆浆制成的一种软食物产品")。
+入口(穿衣, 动词, [穿了衣, 正在穿衣, 穿衣], "穿衣").
+入口(托加, n, [托加], "或可指罗马古代穿着的外衣TOGAED 形容词")。
+entry(togate, 形容词, [], "与古罗马有关").
+入口(穿托加的, 形容词, [], "穿着托加长袍").
+entry(一起, 副词, [], "进入联合或关系").
+entry(统一, 过去, [], "统一的时态")
+entry(服装店, n, [服装店], "衣服").
+entry(togging, 现在时, [], "tog的分词").
+entry(toggle, v, [toggled,toggling,toggles], "用一种销钉或短杆固定").
+entry(切换器, n, [切换器们], "一个进行切换的人或物").
+入口(白鲑, n, [白鲑], "一种淡水鱼").
+entry(辛苦工作, 动词, [辛苦工作过, 正在辛苦工作, 辛苦工作], "辛苦地工作").
+entry(薄纱, n, [薄纱布], "一种薄亚麻织物").
+entry(辛苦的人, n, [辛苦的人们], "一个辛苦劳动的人").
+entry(厕所, v, [上厕所中, 上厕所着, 上厕所们], "穿衣打扮自己")。
+entry(盥洗用品, n, [盥洗用具], "用于妆点和梳理自己的物品").
+entry(厕所, n, [厕所], "打扮和梳理自己的行为")
+entry(辛苦的, 形容词, [], "艰辛的").
+entry(辛苦, 形容词, [], "要求很多努力").
+entry("因劳累而疲惫", 形容词, [], "因辛苦而磨损").
+entry(toit, v, [toited,toiting,toits], "漫步").
+entry(环形容器, n, [环形容器们], "一个甜甜圈形状的核反应堆").
+entry(蜥虎, 名词, [蜥虎们], "马来西亚壁虎").
+entry(toke, v, [toked,toking,tokes], "抽大麻烟").
+entry(token, v, [作为标记,正在标记,标记], "用作标志").
+entry(象征性措施, n, [象征性措施们], "只做表面努力的政策").
+entry(toker, n, [tokers], "吸烟的人").
+entry(吸食, 现在, [], "吸食的分词形式")
+entry(生育学, n, [生育学], "n/a").
+entry(tokomak, n, [环流器], "托卡马克").
+条目(床之間, n, [床之間的], "日本房屋中的一个小壁龛").
+entry(tola, n, [tolas], "一种在印度使用的重量单位").
+entry(托兰, n, [托兰们], "一种化合物").
+entry(tolane, n, [tolanes], "托兰").
+entry(托拉尔, n, [托拉尔], "或 TOLARJEV，斯洛文尼亚以前的货币单位")。
+entry(tolbooth, n, [tolbooths], "一个监狱").
+条目(告知, 过去式, [], "tell的时态")。
+entry(诱惑, v, [诱惑过,诱惑中,诱惑们], "引诱").
+entry(托莱多, n, [托莱多的剑], "一把精细的回火剑").
+entry(宽容, 形容词, [], "倾向于容忍").
+entry(容忍, 动词, [容忍了, 容忍中, 容忍], "在没有积极反对的情况下允许").
+entry(镀锡器具, n, [镀锡器具], "由精美装饰的金属板制成的物品").
+entry(tolidin, n, [tolidins], "甲苯胺").
+entry(甲苯胺, n, [甲苯胺类], "一种化合物").
+entry(toling, 现在时, [], "tole的分词")
+entry(收费, v, [收费过,收费中,收费], "收取或征收通行费，一项固定的服务或特权费用")。
+entry(过路费, n, [过路费], "一种通行费").
+入口(收费站, n, [收费站], "一个收费站").
+entry(toller, n, [tollers], "收费员").
+入口(收费站, 动词, [收费站了, 收费站中, 收费站们], "阻碍商业交易以待贿赂支付")。
+入口(收费, 名词, [收费], "征收通行费").
+入口(托尔曼, n, [托尔曼们], "收费员")。
+入口(收费公路, 北, [收费公路], "一条需要收取通行费的道路")。
+条目(tolt, n, [tolts], "一座孤立的山丘")。
+entry(豆蔻香膏, n, [豆蔻香膏们], "一种芳香树脂").
+entry(甲苯酸盐, n, [甲苯酸盐], "一种化学盐").
+条目(甲苯, n, [甲苯], "一种易燃液体").
+入口(甲苯酸的, 形容词, [], "来自甲苯的四种异构酸的任何一种的").
+条目(甲苯胺基, n, [甲苯胺基], "甲苯酰胺").
+entry(toluide, n, [toluides], "一种酰胺").
+入口(甲苯胺, 名词, [甲苯胺], "一种胺").
+项(toluol, n, [toluols], "甲苯").
+entry(甲苯, n, [甲苯的复数形式], "甲苯").
+entry(甲苯基, n, [甲苯基], "一种单价化学基团")
+条目(甲苯基, n, [甲苯基], "一种一价化学基团")。
+entry(tom, n, [汤姆斯], "各种动物的雄性").
+条目(战斧, 动词, [战斧击中, 战斧攻击, 战斧], "用轻便斧头打击")。
+entry(托马利, n, [托马利肝], "龙虾的肝脏").
+条目(托曼, 名词, [托曼], "曾经使用的伊朗硬币").
+入口(番茄, n, [番茄], "多年生植物的肉质可食用果实番茄 adj")。
+程序条目(坟墓, 动词, [安葬, 埋葬, 下葬], "将某物安置于坟墓、墓穴或房间中")。
+词条(金钟铝, 名词, [金钟铝们], "铜和锌的合金").
+entry(tomback, n, [tombacks], "tombac").
+entry(铝锌铜合金, n, [铝锌铜合金们], "铝锌铜合金").
+条目(坟墓, 形容词, [], "与陵墓有关").
+entry(无坟墓的, 形容词, [], "没有坟墓").
+entry(陵墓般的, 形容词, [], "类似于坟墓").
+entry(抽獎, n, [抽獎活動], "一種彩票形式的賭博遊戲")
+入口(沙洲, 名词, [沙洲], "连接岛屿与大陆的沙坝")
+入口(假小子, 名词, [假小子们], "喜欢男孩活动的女孩")。
+entry(貓王, v, [貓王過去式, 貓王進行時, 貓王複數形式], "從事性放蕩行為的男性使用").
+entry(黑线鳕, n, [黑线鳕鱼], "一种海洋鱼类").
+entry(巨著, n, [巨著們], "一本大书").
+条目(茸毛, 名词, [茸毛], "一个由小血管组成的网络")。
+entry(傻瓜, n, [傻瓜们], "一个愚蠢的人").
+entry(汤米, n, [汤米们], "一条面包").
+entry(tommycod, n, [tommycods], "笛鲷鱼").
+条目(tommyrot, 名词, [tommyrots], "胡说").
+entry(断层摄影, n, [断层摄影图], "一种用 X 光拍摄的照片")。
+entry(明天, n, [明天的], "今天之后的一天").
+entry(tompion, n, [tompions], "炮口堵塞器").
+入口(山雀, 名词, [山雀], "各种小型活跃鸟类之一")。
+entry(吨, n, [吨], "一种重量单位").
+entry(声调的, 形容词, [], "pertaining to toneTONALLY 副词").
+入口(调性, n, [调性], "一种音调系统")。
+entry(tondo, n, [tondos], "或 TONDI 圆形画").
+entry(语调, v, [语调过的,正在语调,语调复数], "给予特定音调明确的音高和振动").
+entry(唱臂, n, [唱臂], "唱针座托住唱针的转动部分").
+entry(无声的, 形容词, [], "缺乏音调").
+入口(音素, n, [音素], "一个语音的音调单位音位学 形容词")。
+entry(碳粉, n, [碳粉們], "一種調色劑").
+条目(音调学, npl, [], "语言中音调的语音研究TONETIC 形容词")
+`条目(托内特, n, [托内特], "一种简单的长笛").`
+entry(toney, 形容词, [], "更舒适 最舒适tony").
+entry(铗, 动词, [铗住, 铗起, 铗子], "用一种抓取装置提起").
+entry(汤加, n, [汤加斯], "一种在印度使用的轻便马车").
+entry(夹子者, n, [夹子们], "使用夹子的那个人").
+entry(同门, n, [tongmen], "一个中国秘密社团的成员").
+入口(舌头, v, [已舔, 正舔, 舔], "用嘴的器官舌头碰触").
+entry(用舌法, n, [用舌法], "在吹奏乐器时使用舌头发音").
+entry(补剂, n, [补剂们], "使人充实或清新的东西").
+条目(肌张力, n, [肌张力状态], "正常健康的身体状况").
+入口(tonier, 比较级, [], "关于奢华和时尚").
+entry(最有格调的, 最高级, [], "of toney and tony").
+entry(补充, v, [补充了,补充中,补充], "给予色调").
+entry(今晚, n, [今晚的], "当前的夜晚").
+`entry(调音, 现在, [], "调音的分词").`
+`条目(时髦, 形容词, [], "时髦地 副词").`
+入口(tonlet, n, [tonlets], "一条板甲裙")。
+条目(吨位, n, [吨位], "以吨为单位的总重量")。
+entry(吨, n, [吨], "重量单位").
+entry(行李箱, n, [行李箱们], "或 TONNEAUX 汽车的后座舱").
+entry(吨位, n, [吨位们], "具有指定吨位的物体").
+entry(吨似的, 形容词, [], "吨似的").
+入口 (扁桃体, n, [扁桃体], "一个淋巴器官")。
+条目(tonsure, 动词, [tonsured, tonsuring, tonsures], "剃掉头发")。
+entry(合会, n, [合会], "一种集体人寿保险的形式").
+entry(肌张力, n, [肌张力们], "肌肉组织的正常紧张状态")。
+entry(tony, 形容词, [], "TONIER TONIEST时尚").
+entry(太, 副词, [], "此外").
+entry(闲逛, v, [闲逛了, 闲逛中, 闲逛], "闲逛").
+entry(拿, 过去, [], "take的时态").
+entry(工具, v, [使用工具加工,加工中,工具], "使用用于手工工作的工具形成或完成").
+entry(工具栏, n, [工具栏], "计算机屏幕上的一排图标，用于激活功能").
+工具箱条目(n, [工具箱], "一个用于工具的箱子")。
+entry(tooler, n, [工具者], "从事加工工具的人").
+entry(toolhead, n, [工具头], "机器的一部分").
+入口(tooling, n, [toolings], "用工具进行的装饰").
+entry(无工具, 形容词, [], "没有工具").
+entry(toolpush, n, [工头], "负责石油钻井平台上钻井工作的工人").
+条目(工具房, 名词, [工具房], "存放工具的房间")。
+entry(工具箱, n, [工具箱], "一套工具").
+入口(工具棚, n, [工具棚], "存放工具的建筑物")。
+entry(toom, 形容词, [], "空").
+条目(卡通, n, [卡通们], "一种印度东部的树").
+入口(两元硬币, 名词, [两元硬币们], "加拿大的两元硬币")。
+入口(嘟嘟, v, [嘟嘟声, 嘟嘟作响, 嘟嘟声响], "用短促的声音鸣喇叭或哨子").
+入口(tooter, n, [tooters], "发出嘟嘟声的东西")。
+entry(牙齿, n, [牙齿], "每个下颌排成行的硬结构之一")。
+入口(牙齿, v, [有齿的, 成齿状, 齿], "加上齿状突起").
+条目(牙齿的, 形容词, [], "更牙齿的 最牙齿的 有或显示突出牙齿 牙齿地 副词").
+entry(tootle, v, [tootled,tootling,tootles], "轻声或反复地吹号").
+entry(吹奏者, n, [吹奏者们], "一个演奏者")。
+```prolog
+条目(toots, n, [tootses], "一个女人或女孩，通常用作称呼形式").
+```
+entry(tootsie, n, [tootsies], "tootsy").
+入口(丁丁, 名词, [丁丁们], "一只脚").
+entry(最高, v, [切掉顶端, 切掉顶端的, 最高的], "切掉最高点、最高部分或表面的").
+entry(黄玉, n, [黄玉], "一种矿石黄玉色 adj").
+入口(大衣, 名词, [大衣], "一种轻便的外套").
+entry(topcross, n, [topcrosses], "纯种公畜与劣质母畜之间的杂交").
+entry(tope, v, [toped,toping,topes], "过量饮酒").
+entry(topee, n, [topees], "托皮").
+entry(toper, n, [痛饮者], "一个嗜酒的人").
+entry(topful, adj, [], "极其完整").
+entry(topfull, 形容词, [], "装满").
+入口(toph, n, [tophs], "tufa").
+entry(tophe, n, [石膏像], "土法").
+entry(tophus, n, [痛风石], "在关节周围组织中的尿酸盐沉积").
+entry(頂盔, n, [頂盔們], "一種太陽帽").
+entry(修剪树木艺术, n, [修剪树木艺术], "修剪灌木成形的艺术").
+主题条目(主题, n, [主题列表], "讨论的主题")。
+entry(主题, n, [主题], "集邮中具有相同主题设计的邮票")
+entry(toping, 现在式, [], "tope 的分词").
+entry(顶级踢, n, [顶级踢们], "一等军士长").
+entry(topknot, n, [发髻], "一个头发饰品").
+entry(无顶的, 形容词, [], "没有顶部").
+entry(topline, n, [背线], "动物身体顶部轮廓")。
+```prolog
+entry(自以为是的, 形容词, [], "更自以为是 最自以为是的傲慢").
+```
+entry(顶桅杆, n, [顶桅杆], "船上的桅杆")
+entry(最高, 形容词, [], "最高").
+entry(头等, 形容词, [], "优秀").
+entry(topo, 形容词, [], "地形").
+entry(topoi, 复数, [], "拓扑学的").
+entry(拓扑学, n, [拓扑学分支], "数学的一个分支").
+条目(地名, 名词, [地名], "一个地方的名字")。
+entry(地名学, n, [地名学], "对地名的研究").
+entry(topos, n, [topoi], "一个常见的修辞主题").
+entry(topotype, n, [地类型本], "选择自典型物种所在地的样本").
+entry(登顶, 过去, [], "顶的时态").
+entry(顶尖者, n, [顶尖者们], "其中一个顶尖者").
+条目(顶层, n, [顶层], "形成顶部的东西").
+entry(倾覆, v, [倾覆了, 正在倾覆, 倾覆], "向前倾倒").
+入口(主帆, 名词, [主帆们], "船的帆")。
+entry(甲板上, 名詞, [甲板], "船的上部").
+entry(最高层者, n, [最高层者们], "在最高权力级别的人").
+entry(表土, v, [表土去除完, 去除表土中, 表土去除], "去除土壤表层").
+entry(前旋, n, [前旋球], "赋予球的向前旋转").
+入口(頂石, 名詞, [頂石們], "結構頂部的石頭")。
+entry(顶水, 形容词, [], "漂浮在水面上或靠近水面").
+entry(topwork, v, [topworked,topworking,topworks], "将另一种植物的接穗嫁接到主枝上").
+输入(toque, n, [toques], "一种紧贴的女式帽子")。
+entry(托奎, n, [托奎帽], "厨师帽").
+条目(托奎拉, n, [托奎拉], "南美洲的一种像棕榈的植物")。
+立即命令无法符合。
+entry(妥拉, n, [妥拉书], "妥拉").
+entry(妥拉, n, [妥拉书], "或为TOROTH或TOROT，意为律法或戒律")
+```prolog
+entry(torc, n, [金属项圈], "金属项圈或项链").
+```
+条目(火炬, v, [火烧,点燃,火炬], "点燃")。
+entry(torchere, n, [托尔切雷], "一种电灯").
+entry(torchier, n, [火炬灯], "torchere").
+```prolog
+entry(torchlit, adj, [], "由一端燃烧的火把点燃").
+```
+entry(torchon, n, [粗花边], "粗糙的花边").
+entry(torchy, 形容词, [], "TORCHIER TORCHIEST特征像火炬之歌").
+入口(托雷, 名词, [托雷斯], "一个环面")。
+entry(斗牛士, n, [斗牛士们], "一个斗牛士")。
+entry(斗牛士, n, [斗牛士们], "斗牛士").
+entry(铜匠术, 形容词, [], "有关一种金属加工技艺").
+entry(环面, 复, [], "环面之").
+入口(toric, n, [torics], "用于矫正散光的镜片")。
+entry(保守党, 复数, [], "保守党的").
+入口(鸟居, 名词, [鸟居], "日本寺庙的门").
+entry(折磨, v, [折磨了, 折磨着, 折磨], "施加巨大的身体或精神痛苦").
+条目(撕裂, 过去, [], "撕的分词形式")。
+entry(龙卷风, n, [龙卷风], "或 TORNADOES 一种猛烈的风暴 TORNADIC 形").
+入口(螺钉, n, [螺钉], "一种开花灌木").
+entry(公牛, n, [公牛们], "公牛").
+项(环面, 名, [环面们], "一种几何表面的类型环形的 形容词").
+```prolog
+entry(torose, 形容词, [], "圆柱形且不均匀隆起").
+```
+entry(torosity, n, [torosities], "呈结节状的质量或状态").
+entry(torot, a, [], "托拉的复数形式")。
+entry(toroth, a, [], "多拉的复数").
+入口(torous, 形容词, [], "torose").
+entry(鱼雷, v, [被鱼雷击中,鱼雷攻击,鱼雷], "或鱼雷用水下导弹损坏或击沉").
+entry(使麻痹, v, [已麻痹,正在麻痹,使麻痹], "使缓慢").
+条目(懒散, n, [懒散们], "一种赛艇").
+entry(迟钝地, 副词, [], "以一种迟缓的方式").
+入口(迟钝, n, [迟钝], "精神或身体的不活跃").
+```prolog
+entry(torquate, 形容词, [], "拥有一个扭矩").
+```
+entry(扭矩, v, [扭动,扭转中,扭转], "使扭曲").
+entry(旋转器, n, [旋转器们], "一个能够旋转的装置")
+entry(torques, n, [颈圈], "颈部周围的羽毛、头发或颜色带").
+entry(torquey, adj, [], "提供产生旋转的力").
+entry(torr, n, [托], "压力单位").
+entry(焙烧, 动词, [已焙烧, 焙烧中, 焙烧], "使经受高温").
+入口(洪流, 名词, [洪流], "急流").
+entry(炽热的, 形容词, [], "非常热 地 adv").
+entry(干燥处理, v, [干燥过的, 干燥处理中, 干燥], "烘焙").
+entry(捻绳, n, [捻绳], "一根扭曲的绳子").
+入口(扭结带, 名词, [扭结带], "一条缠绕丝绸的花环")。
+条目(torsi, a, [], "torso的复数").
+entry(扭转, n, [扭转们], "扭动的行为").
+entry(大西洋鳕鱼, n, [大西洋鳕鱼们], "一种海洋食用鱼").
+入口(躯干, n, [躯干], "或 TORSI 人体的躯干")。
+条目(侵权行为, n, [侵权行为], "一种民事错误").
+entry(蛋糕, n, [], "复数 蛋糕一种精美的甜点").
+entry(蛋糕, n, [蛋糕], "或是一种丰富的蛋糕").
+入口(意大利面, 复数, [], "填充有奶酪、肉或蔬菜的意大利面片").
+entry(扭曲的, 形容词, [], "盘旋的 扭曲的").
+entry(玉米饼, n, [玉米饼], "一种圆形扁平的无酵玉米面饼").
+条目(侵权, 形容词, [], "具有侵权行为的性质").
+entry(乌龟, n, [乌龟], "任何一种身体被骨壳包裹的爬行动物").
+entry(tortoni, n, [tortonis], "一种冰淇淋").
+entry(螟蛉蛾, n, [螟蛉蛾], "或螟蛉小蛾").
+entry(蜿蜒曲折, 形容词, [], "具有重复转弯或弯曲的特点").
+entry(折磨, 动词, [折磨了, 正在折磨, 折磨], "施加严重的身体疼痛")。
+entry(施虐者, n, [施虐者们], "折磨他人的人").
+```prolog
+entry(torula, n, [torulas], "或 TORULAE一种真菌").
+```
+entry(环面, n, [环面], "或环面一个大的凸饰条").
+条目(保守党, 名词, [保守派], "一个政治保守派").
+entry(tosa, n, [tosas], "斗牛獒犬").
+条目(tosh, n, [toshes], "胡说").
+被抛入(v, [被抛, 抛开, 抛着], "轻轻地扔").
+输入(tosser, n, [tossers], "投掷者").
+entry(酒鬼, n, [酒鬼们], "一个醉汉").
+条目(抛硬币, n, [抛硬币], "一个均等的选择或机会").
+`条目(tost, a, [], "toss 的过去式").`
+entry(玉米饼, n, [玉米饼], "一种油炸玉米饼").
+entry(吐司多, n, [吐司多的], "吐司").
+entry(tostone, n, [炸芭蕉片], "一种墨西哥油炸蕉片菜肴").
+entry(tot, v, [totted,totting,tots], "合计").
+entry(totable, adj, [], "能够被携带").
+entry(total, v, [合计,合计中,总数], "或者 合计 合计中 总数以确定整个金额的")。
+entry(总计, v, [总计的,总计中,总计们], "总计").
+entry(極權主義, n, [極權主義], "由專制權威進行的集中控制").
+entry(全体主义者, n, [全体主义者们], "倾向于将事物视为整体的人").
+entry(整体性, n, [整体性], "完整的质量或状态")।
+entry(totalize, v, [使完整, 正在使完整, 使完整], "使完整").
+入口(totalled, a, [], "total 的过去式")。
+entry(合计, 一个, [], "总计的现在分词").
+```prolog
+entry(完全, 副词, [], "completely").
+```
+entry(手提包, v, [手提了, 手提着, 手提], "用手携带可手提的 adj").
+```prolog
+entry(图腾, n, [图腾], "作为家族或部落象征的自然物TOTEMIC 形容词").
+```
+entry(图腾主义, n, [图腾主义们], "根据图腾进行部落划分的系统").
+入口(圖騰主義者, 名詞, [圖騰主義者們], "研究圖騰主義的專家")。
+entry(图腾崇拜者, n, [图腾崇拜者们], "一个图腾崇拜者").
+entry(搬运工, n, [搬运工们], "搬东西的人").
+entry(tother, 代词, [], "另一个").
+entry(携带, 当前, [], "tote 的分词形式")
+条目(已加, 过去, [], "tot的时态").
+entry(摇摇晃晃, v, [摇晃, 摇摆着, 摇摆], "不稳地行走")。
+entry(蹒跚者, n, [蹒跚者们], "一个蹒跚的人").
+```
+entry(tottery, adj, [], "摇晃的").
+```
+entry(托廷, 现在时, [], "托特的分词形式").
+entry(巨嘴鸟, n, [巨嘴鸟], "一种热带鸟").
+条目(触摸, 动词, [触摸过, 正在触摸, 触摸], "接触或进入接触状态").
+条目(触, 感叹词, [], "用于承认击剑中的命中").
+entry(触摸者, n, [触摸者们], "触摸的人").
+entry(触控板, n, [触控板], "对手指移动或压力敏感的键盘").
+entry(润色, n, [润色], "通过添加小改进来完成的行为").
+entry(敏感, 形容詞, [], "更敏感 最敏感过于敏感敏感地 adv").
+entry(艰难, 形容词, [], "更艰难 最艰难强大和有弹性").
+词条(艰难, v, [艰难过,艰难中,艰难], "承受苦难").
+entry(加固, 动词, [加固了, 加固中, 加固], "使坚固").
+entry(硬汉, 名词, [硬汉们], "一个坚强的人").
+entry(稍微坚硬, 形容词, [], "有点坚硬").
+entry(强硬地, 副词, [], "以强硬的方式").
+entry(坚韧者, n, [坚韧者们], "坚韧者").
+条目(遮秃假发, 名词, [遮秃假发], "用于遮盖秃顶的假发").
+词条(陀螺, 名词, [陀螺], "一种圆形无骨熏火腿").
+entry(旅游, v, [游览,游览中,旅行], "从一个地方到另一个地方旅行")。
+entry(鼠鸟, n, [鼠鸟], "一种非洲鸟").
+entry(旅行车, 名词, [旅行车], "一种大型敞篷汽车")。
+entry(旅游, n, [旅游的], "为乐趣而进行的长途滑雪").
+entry(旅游业, n, [旅游业的], "为了娱乐而观光的行为")。
+条目(游客, n, [游客们], "为游览而旅行的人TOURISTY 形容词").
+entry(游客, n, [游客们], "游客")。
+entry(比赛, v, [比赛了, 比赛中, 比赛], "参加一场比赛").
+入口(使用, v, [使用过, 使用中, 使用们], "弄乱").
+entry(弄乱, 动词, [弄乱了, 弄乱, 弄乱], "使凌乱").
+入口(大肆宣传, 动词, [大肆宣传, 大肆宣传着, 大肆宣传着], "大胆地招徕")。
+entry(touter, n, [宣传者], "一个推销的人").
+entry(油炸面团圈, n, [油炸面团圈s], "一种油炸的面团圆块").
+entry(乱, v, [乱了, 乱着, 乱], "弄乱").
+entry(同志, 名词, [同志们], "同志").
+entry(同志, n, [同志们], "tovarich").
+entry(拖曳, v, [拖曳了, 拖曳中, 拖曳], "用绳索或链子拉").
+entry(拖船费, n, [拖船费用], "拖船的费用").
+朝向(项, 介系词, [], "在...的方向").
+条目(向好的, 形容词, [], "有利的").
+entry(朝向, 介词, [], "toward").
+入口(拖吊, 名词, [拖吊物], "拖走车辆的行为")。
+entry(拖船, n, [拖船们], "一种拖船").
+entry(毛巾, v, [用毛巾擦, 用毛巾擦拭, 毛巾], "或 用毛巾擦干 用毛巾抹去 毛巾用于擦拭一种吸水布").
+条目(毛巾布, n, [毛巾布料], "用于制作毛巾的材料")。
+entry(塔, v, [塔屋, 耸立, 塔楼], "达到很高的高度").
+entry(towery, adj, [], "非常高的TOWERIER TOWERIEST").
+entry(沙金发, n, [沙金发], "浅金色头发").
+入口(稚鹀, n, [稚鹀们], "一种常见的雀类").
+entry(towie, n, [拖伊], "一种三人玩的合同桥游戏").
+进入（拖，当前，[]，“拖的分词”）。
+entry(缆绳, n, [缆绳], "用于拖曳的绳索").
+入口(年份, 名词, [年份复数], "一年")。
+条目(拖车装载, 名词, [拖车装载数], "拖车装载").
+条目(城镇, n, [城镇], "比城市小的人口中心").
+条目(镇民, n, [镇民们], "一位市民").
+entry(城镇居民, 复数, [], "一个城镇的居民").
+entry(联排别墅, n, [联排别墅], "由两个或三个楼层组成的一系列毗邻房屋之一").
+entry(当地人, n, [当地人], "住在大学城的非学生居民").
+entry(townies, pl, [], "城镇居民的").
+词条(乡镇, 形容词, [], "城镇的特征").
+entry(无城, 形容词, [], "没有城镇").
+entry(小镇, n, [小镇], "一个小镇").
+entry(乡镇, n, [乡镇], "县的行政区划单位")。
+entry(城镇地, n, [城镇地], "城镇的所在地").
+entry(市民, n, [市民们], "一个城镇的居民").
+入口(朝镇, 副词, [], "朝向城镇").
+条目(城市服装, n, [城市服装], "适合在城市中穿着的服装").
+entry(小镇居民, n, [小镇居民们], "小镇居民").
+入口(拖船路, 名词, [拖船路], "沿河的路径，用于动物拖船").
+entry(拖曳机, n, [拖曳机], "拖曳滑翔机的飞机")
+入口(拖绳, n, [拖绳], "用于拖拽的绳子").
+条目(麻袋, 名词, [麻袋], "由粗布制成的袋子")。
+entry(towy, 形容词, [], "类似粗麻或亚麻纤维").
+entry(毒血症, n, [毒血症], "毒血症TOXAEMIC adj").
+entry(毒血症, n, [毒血症们], "血液中含有毒素的状态毒血症的 形容词").
+entry(有毒, n, [毒物], "有毒的物质").
+entry(有毒, 形容词, [], "有毒").
+条目(毒素, 名词, [毒素], "一种有毒的物质")。
+词条(毒性, n, [毒性], "有毒的特性")。
+entry(毒素, n, [毒素们], "一种有毒的物质").
+entry(毒素, n, [毒素], "毒素").
+entry(类毒素, n, [类毒素], "一种毒素类型").
+条目(玩具, v, [玩弄, 玩耍, 玩具], "像玩具一样自娱自乐，玩具").
+entry(玩具者, n, [玩具者们], "玩弄的人").
+entry(玩具似, 形容词, [], "轻浮").
+条目(玩具界, n, [玩具界], "玩具行业").
+条目(无玩具, 形容词, [], "没有玩具").
+entry(玩具般的, 形容词, [], "类似玩具").
+entry(toyo, n, [稻草帽], "用于制作帽子的光滑稻草")。
+entry(灯柏, 名词, [灯柏], "一种观赏性常绿灌木").
+entry(玩具店, n, [玩具店], "一个玩具销售的商店").
+条目(玩具城, n, [玩具城们], "一个小镇模型")。
+入口(直梁式, 形容词, [], "用水平横梁构建")。
+条目(跟踪, v, [跟踪的,跟踪,跟踪], "跟随的过程").
+entry(tracer, n, [tracers], "追踪者").
+entry(窗饰, 名词, [窗饰结构], "交错线条的装饰性作品").
+入口(气管, 名词, [气管], "或是 TRACHEAE，传输空气到肺的通道，TRACHEAL 形容词")。
+条目(管胞, 名词, [管胞], "一种长筒状植物细胞")
+条目(拖拉, 动词, [拖拉了, 拖拉中, 拖拉], "拖拽").
+entry(沙眼, n, [沙眼们], "一种眼疾").
+entry(粗面岩, n, [粗面岩], "一种浅色火成岩").
+entry(追踪, n, [追踪物], "被追踪的东西").
+追踪(轨迹, v, [已追踪, 追踪中, 追踪], "跟随动物、人或车辆留下的痕迹.").
+entry(轨道系统, n, [轨道系统], "铁路的轨道系统").
+entry(trackbed, n, [铁轨路基], "铁路的路基")
+entry(追踪器, n, [追踪器们], "进行追踪的人或物").
+条目(追踪, n, [追踪项], "学生在课程中的安置")。
+entry(trackman, n, [铁路工人], "a railroad worker").
+entry(触控板, n, [触控板], "a touchpad").
+entry(轨道, n, [轨道遗址], "一条被踩出的路径").
+```prolog
+entry(大片, n, [大片], "一片土地").
+```
+entry(論文, n, [論文], "一篇論文").
+entry(tractile, 形容词, [], "能够被拉长").
+条目(牵引, n, [牵引力], "在表面上拉或拖的行为TRACTIVE adj")。
+entry(拖拉机, n, [拖拉机], "用于农业的机动车辆").
+entry(tractrix, n, [tractrices], "一条数学曲线").
+entry(trad, 形容词, [], "传统的").
+entry(贸易, v, [以物易物, 交易中, 交易], "用其他商品进行交换交易的形容词").
+entry(权衡, n, [权衡取舍], "为了得到某种东西而放弃另一样东西").
+entry(商人, n, [商人们], "做交易的人").
+entry(交易, 名词, [交易行为], "交换商品的行为").
+entry(traditor, n, [traditores], "早期基督徒中的叛徒")。
+entry(诽谤, v, [诽谤了, 诽谤中, 诽谤], "诽谤").
+条目(诽谤者, 名词, [诽谤者们], "诽谤他人的人").
+入口(交通, v, [trafficked, trafficking, traffics], "参与买卖")。
+entry(悲剧, n, [悲剧], "灾难性的事件").
+entry(耳屏, 复数, [], "耳屏的").
+entry(悲剧的, n, [悲剧], "戏剧中产生悲剧的元素").
+entry(悲惨, 形容词, [], "悲剧性质").
+entry(角雉, n, [角雉], "一种亚洲雉鸡").
+entry(耳屏, n, [耳屏], "耳朵外部开口的一部分")
+条目(traik, v, [traiked, traiking, traiks], "艰难行走")。
+条目(踪迹, v, [拖, 拖拽, 跟踪], "在表面上拖动").
+entry(挂车, v, [已挂车,正在挂车,挂车], "用挂车运输由另一辆车牵引的车辆").
+entry(训练, 动词, [训练过, 训练中, 训练], "系统地指导")
+entry(受训者, n, [受训者们], "正在接受培训的人").
+entry(训练者, n, [训练者们], "一个训练的人").
+entry(trainful, n, [trainfuls], "铁路列车能容纳的量").
+entry(训练, n, [训练], "系统化指导").
+entry(trainman, n, [铁路工人], "铁路职员").
+entry(trainway, n, [铁道], "铁路")。
+entry(漫步, v, [漫步了,漫步着,漫步们], "以闲散或漫无目的的方式四处走动").
+entry(特征, n, [特征们], "一个显著的特性").
+entry(叛徒, n, [叛徒们], "背叛他人的人").
+entry(传送, v, [已传送, 正在传送, 传送], "传输").
+entry(有轨电车, v, [有轨电车了,有轨电车中,有轨电车], "用有轨电车运输")。
+入口(电车, n, [电车], "一种有轨电车").
+entry(tramel, v, [trameled,trameling,tramels], "或 TRAMELLED TRAMELLING TRAMELSto trammel").
+entry(tramell, v, [tramelled,tramelling,tramells], "束缚").
+entry(无电车, 形容词, [], "没有电车")。
+entry(有轨电车线, 名词, [有轨电车线], "有轨电车的线路")。
+entry(电车, 过去, [], "电车的时态").
+```
+entry(羈絆, v, [羈絆了,羈絆著,羈絆], "或 羈絆了 羈絆著 羈絆去阻礙").
+```
+entry(悬吊, 当前, [], "悬吊的分词形式").
+entry(流浪汉, v, [流浪过, 流浪中, 流浪者], "坚定沉重地行走").
+entry(流浪者, n, [流浪者们], "一个流浪的人").
+entry(流浪者般的, 形容词, [], "类似于流浪汉").
+进入(trample, v, [trampled, trampling, tramples], "重重地踩踏")。
+entry(践踏者, n, [践踏者们], "践踏的东西").
+entry(trampy, 形容词, [], "TRAMPIER TRAMPIEST有流浪者的特征").
+entry(矿山铁路, n, [矿山铁路复数], "矿井中的铁路").
+参照(tramway, 名词, [有轨电车], "一种电车线路").
+提问条目(恍惚, 动, [恍惚了, 恍惚着, 恍惚], "使进入一种半意识状态的恍惚状态")。
+entry(部分, n, [部分], "一个部分").
+entry(异玩, n, [异玩物], "无聊的小玩意儿").
+entry(trank, v, [tranked,tranking,tranks], "使安静").
+entry(变性人, n, [变性人们], "变性人").
+entry(变速箱, n, [变速箱们], "一种传动装置").
+entry(tranq, n, [tranqs], "镇静剂").
+entry(平静, 形容词, [], "更加平静 最平静 或 更加宁静 最宁静 免于干扰").
+entry(转, 形容词, [], "以分子对立两侧不同原子的排列为特征")。
+entry(处理, v, [处理过, 正在处理, 处理], "执行").
+entry(横断, v, [横断过, 横断中, 横断], "穿越").
+entry(耳堂, n, [耳堂], "教堂主体的主要横向部分")
+entry(转移, v, [转移了, 正在转移, 转移], "从一个来源传送到另一个来源")
+entry(穿刺, v, [穿刺了,穿刺中,穿刺], "刺穿").
+entry(转运, 动词, [转运了, 转运中, 转运], "从一种运输工具转移到另一种").
+entry(过境, v, [经过,进行中,通过], "穿过或经过").
+entry(传输, v, [传输了, 传输中, 传输], "从一个地方或人发送到另一个地方").
+entry(横楣窗, n, [横楣窗们], "门或其他窗户上方的小窗户").
+entry(渗透, v, [渗透过,渗透中,渗透], "通过膜传递").
+条目(陷阱, v, [陷住, 正在陷住, 陷阱], "用陷阱捕捉和抓住动物的装置")。
+entry(trapan, v, [trapanned,trapanning,trapans], "环钻").
+entry(陷阱球, n, [陷阱球], "一种球类游戏").
+```prolog
+entry(地板门, n, [地板门], "覆盖开口的提升或滑动门").
+```
+entry(漫步, v, [漫步过, 漫步中, 漫步], "作漫步").
+入口(秋千, 名词, [秋千], "一种体操器械").
+条目(四边形, 复数名词, [], "没有平行边的四边形").
+入口(梭形肌, 复数名词, [], "背部的三角肌").
+entry(类似陷阱, 形容词, [], "类似陷阱").
+entry(陷阱线, n, [陷阱线], "一系列的陷阱").
+entry(陷阱巢穴, v, [陷阱巢穴式,陷阱巢穴中,陷阱巢穴数], "确定使用某种巢穴的母鸡的生产力")。
+entry(層狀, 形容词, [], "与斜长岩有关").
+entry(被困, a, [], "trap 的过去式")
+entry(捕猎者, n, [捕猎者们], "捕猎者").
+条目(覆盖物, 名词, [覆盖物], "马的覆盖物").
+entry(特拉波斯, 形容词, [], "trappean").
+entry(trappous, 形容词, [], "trappean").
+入口(陷岩, n, [陷岩], "一种火成岩").
+entry(捕到, 了, [], "trapped 的过去式").
+entry(绗缝, n, [绗缝], "一种装饰性绗缝设计").
+条目(垃圾, 动词, [丢弃, 丢弃中, 丢弃们], "清除垃圾或废物").
+entry(破坏者, n, [破坏者们], "一个破坏或损坏的事物").
+入口(垃圾清理工, n, [垃圾清理工人], "一个清理垃圾的人").
+entry(垃圾的, 形容词, [], "更垃圾的 最垃圾的 类似垃圾的 垃圾般地 adv").
+入口(熔岩, 名词, [熔岩们], "一种火山岩").
+entry(拖拽, v, [拖拽了,拖拽中,拖拽], "拖拽物").
+entry(创伤, n, [创伤], "或 TRAUMATA严重的情感冲击")。
+entry(工作, v, [工作过,工作中,工作们], "辛苦工作").
+条目(旅, 名词, [旅架], "限制马的框架")。
+entry(旅行, v, [旅行过,旅行中,旅行们], "或者 旅行过 旅行中 旅行去从一个地方到另一个地方").
+entry(旅客, n, [旅客们], "旅行的人").
+entry(游记, n, [游记], "关于旅行的讲座或电影")。
+entry(穿越, v, [穿越过,穿越中,穿越], "穿过或通过").
+entry(滑稽模仿, v, [模仿了,模仿中,模仿], "进行模仿").
+entry(拖爬犁, n, [拖爬犁], "一种雪橇").
+entry(travoise, n, [travoises], "畚箕").
+入口(拖网捕捞, 动词, [拖网捕捞了, 拖网捕捞中, 拖网捕捞], “通过在海底拖网捕鱼”).
+entry(拖网渔船, n, [拖网渔船], "用于拖网捕捞的船").
+entry(trawley, n, [trawleys], "小型卡车或汽车用于运输材料").
+entry(拖网, n, [拖网], "用于拖网捕鱼的大网").
+entry(托盘, 名词, [托盘], "一个平的浅容器").
+entry(trayf, 形容词, [], "不按照犹太法律准备").
+entry(trayful, n, [托盘], "一个托盘能容纳的量").
+条目(糖蜜, n, [糖蜜], "糖蜜").
+入口(甜腻的, 形容词, [], "更加甜腻的 最甜腻的令人腻烦的甜和多愁善感的").
+entry(踏, v, [踏过,踩踏,踩踏中], "TREADS走在或经过").
+entry(treader, n, [踹踏者], "一个踩踏的东西")。
+entry(踏板, v, [踩踏過, 正在踩踏, 踩踏], "操作腳踏桿").
+入口(踏板操作员, n, [踏板操作员], "一个操作踏板的人").
+entry(叛国罪, n, [叛国罪], "对国家忠诚的违反").
+entry(珍宝, v, [珍视,珍视中,珍视], "高度重视").
+entry(国库, n, [国库], "接收、保管和发放资金的地方")。
+条目(治疗, v, [治疗了, 正在治疗, 进行治疗], "以特定的方式对待").
+entry(治疗者, n, [治疗者们], "一个进行治疗的人").
+entry(治疗, n, [治疗], "给某人提供愉悦事物的行为")。
+entry(论文, n, [论文集], "对某一主题的正式和系统的书面论述").
+entry(条约, n, [条约], "两个或多个国家之间的正式协议").
+条目(高音, v, [增三倍, 增三倍中, 增三倍], "三倍").
+条目(三倍, 副词, [], "三倍").
+entry(十四世纪, n, [trecentos], "the fourteenth century").
+entry(treddle, v, [treddled,treddling,treddles], "踩踏").
+entry(树, v, [树枝, 树木, 树叶], "把一棵高大的木本植物逼上树").
+entry(绿地带, n, [绿地带], "街道和人行道之间的草坪带").
+```prolog
+entry(无树, 形容词, [], "没有树").
+```
+entry(树状, 形容词, [], "像树一样").
+entry(树线, n, [树线], "树木不再生长的北部极限").
+entry(树, n, [树类], "木制品").
+entry(木钉, n, [木钉], "用于固定木材的木制插销").
+入口(树顶, n, [树顶们], "树的顶端").
+entry(tref, adj, [], "根据犹太法律不适合使用").
+entry(不洁, 形容词, [], "不洁").
+entry(三叶草, n, [三叶草], "有三片叶子的植物").
+entry(trehala, n, [竹节糖], "某些象鼻虫形成茧的甜食").
+entry(跋涉, v, [跋涉了,跋涉中,跋涉], "进行缓慢或艰难的旅程").
+entry(徒步旅行者, n, [徒步旅行者们], "一个进行徒步旅行的人").
+entry(格子架, v, [用格子架支撑,装配格子架,格子架], "为攀缘植物提供支撑的框架").
+entry(抖音杆, n, [抖音杆们], "一种用于产生颤音效果的电吉他拨杆").
+entry(颤抖, v, [颤抖了,颤抖着,颤抖], "不自主地摇动").
+入口(颤抖者, 名词, [颤抖者], "一个颤抖的人").
+entry(地震, n, [地震], "地面震动").
+条目(颤抖, 形容词, [], " TREMBLIER TREMBLIEST以颤抖为特征 ").
+entry(颤音, n, [颤音效果], "一种振动的音乐效果")。
+entry(震颤, 动, [震颤了, 震颤中, 震颤], "经历摇动或颤抖")
+条目(木钉, n, [木钉], "treenail").
+entry(沟渠, v, [挖沟, 挖沟中, 沟渠], "在地上挖一个狭长的坑道")。
+条目(图尔尼，名词，[图尔尼们]，"用于盛放食物的木质盘子")。
+entry(趋势, v, [趋向,趋势,趋势], "采取特定的路线").
+```prolog
+entry(trendify, v, [trendified,trendifying,trendifies], "使某物变得时尚").
+```
+entry(trendoid, n, [潮人], "一个时尚的人").
+entry(时髦的, 形容词, [], "更时髦  最时髦非常时尚时髦地 副词").
+entry(潮人, n, [潮人们], "一个时尚的人").
+```prolog
+entry(环锯术, v, [环锯术处理,环锯术处理中,环锯术处理], "使用环锯术"). 
+```
+entry(海参, n, [海参], "海洋动物").
+entry(环锯, v, [环锯过, 环锯中, 环锯], "用外科锯进行操作").
+entry(胆怯, 形容词, [], "胆小").
+entry(擅闯, 动, [擅闯了, 擅闯中, 擅闯], "非法进入他人土地").
+entry(辫子, v, [辫成辫子, 编辫子, 辫子], "把头发编成长辫子").
+entry(tressel, n, [支架], "支架").
+入口(珍宝, 名词, [珍宝们], "装饰带").
+条目(纹饰, n, [纹饰们], "一种纹章设计类型").
+entry(tressy, adj, [], "多髮的").
+entry(栈桥, n, [栈桥们], "支撑桥梁的框架").
+`entry(tret, n, [条款], "之前因运输过程中产生的损耗而支付给购买者的津贴").`
+entry(鲹鱼, n, [鲹鱼], "或 TREVALLYS，一种澳大利亚的食用鱼").
+条目(铁三角, n, [铁三角], "trivet").
+条目(束身裤, 复数名词, [], "紧身格子裤")。
+entry(特雷, n, [特雷们], "牌、骰子或多米诺骨牌中的三点").
+entry(非洁食, 形容词, [], "trayf").
+entry(treyfa, adj, [], "不洁饮食").
+entry(可审理的, 形容词, [], "受司法审查").
+entry(三端双向可控硅, n, [三端双向可控硅], "用于控制功率的电子设备").
+entry(三酸, n, [三酸], "一种酸类").
+entry(三重彩, n, [三重彩], "三连冠").
+entry(三元组, n, [三元组们], "一组三个").
+entry(三元组, n, [三元组们], "三元组的一员").
+entry(三元组性, n, [三元组性们], "作为三元组的质量或状态")
+entry(分类, v, [已分类, 分类中, 分类], "实行一种处理灾难受害者的系统")
+entry(trial, v, [trialed,trialing,trials], "或 TRIALLED TRIALLING TRIALS测试某物以评估其性能")。
+条目(试验者, n, [试验者们], "参与某事测试的人").
+entry(三角形, n, [三角形], "一个有三条边的多边形").
+entry(三头统治, n, [三头统治], "由三人组成的政府")。
+entry(三轴, 形容词, [], "有三个轴").
+入口(三嗪, n, [三嗪类], "三嗪").
+entry(三嗪, n, [三嗪类], "一种化合物").
+入口(三唑, n, [三唑], "一种化学化合物")。
+entry(女同性恋, n, [女同性恋者], "女同性恋者TRIBADIC 形容词").
+entry(部落, n, [部落成员], "印度土著民族的成员").
+entry(以部落方式, 副词, [], "以部落特有的方式").
+entry(tribasic, 形容词, [], "具有三个可替代氢原子").
+entry(部落, n, [部落], "拥有共同祖先和文化的一群人").
+entry(tribrach, n, [三音步], "一种韵律脚").
+entry(法院, n, [法院], "一个司法机构")。
+entry(保民官, n, [保民官们], "人民权益的捍卫者").
+entry(贡品, 名词, [贡品], "表达敬意、感激或钦佩的东西")。
+条目(三次, 动词, [三次了, 三次着, 三次], "用绳子拉起来")
+entry(肱三头肌, n, [肱三头肌], "一个肱三头肌").
+entry(肱三头肌, n, [肱三头肌], "手臂的一块肌肉").
+入口(旋毛虫, 名词, [旋毛虫], "或 旋毛虫寄生虫")。
+entry(绒丝石, n, [绒丝石], "在火山岩中发现的一种极小的矿物体").
+entry(trichoid, 形容词, [], "毛发状的").
+entry(毛茸, n, [毛茸], "类似毛发的生长物").
+entry(tricing, 现在时, [], "trice的分词").
+条目(三重市, n, [三重市], "一个由三个毗邻且独立的城市组成的区域")。
+条目(骗, 动词, [骗了, 正在骗, 骗], "欺骗").
+entry(欺诈者, n, [欺诈者们], "一个欺骗的人").
+entry(欺骗, 名词, [欺诈], "诡计").
+entry(trickie, adj, [], "更复杂 最复杂tricky").
+条目(较困难的, 比较级, [], "具有挑战性").
+entry(最棘手, 最高级, [], "复杂的").
+entry(狡猾地, 副词, [], "以狡猾的方式").
+entry(狡猾, 形容词, [], "tricky").
+entry(涓涓, 动词, [涓涓流淌,涓涓细流,涓涓细流], "以滴状流动或下降").
+entry(滴落, 形容词, [], "更加滴落 最滴落标记为滴流").
+`entry(狡猾, 形容词, [], "更加狡猾 最狡猾，淘气").`
+entry(棘手, 形容词, [], "更棘手 最棘手的特征是欺骗").
+entry(三岐虫, n, [三岐虫类], "一种水生扁虫").
+entry(tricolor, n, [三色旗], "具有三种颜色的旗帜").
+条目(三角帽, n, [三角帽], "一个边缘向上卷起的三面帽子")。
+entry(三角帽, n, [三角帽], "三角帽").
+entry(针织品, n, [针织品], "一种针织物").
+entry(西洋双陆棋, n, [西洋双陆棋游戏], "一种西洋双陆棋的形式").
+```prolog
+entry(tricycle, v, [tricycled,tricycling,tricycles], "to ride a vehicle having three wheelsTRIDENT n pl TRIDENTSa spear having three prongsTRIDUUM n pl TRIDUUMSa period of three days of prayerTRIED past tense of tryTRIENE n pl TRIENESa type of chemical compoundTRIENNIA npl periods of three yearsTRIENS n pl TRIENTESa coin of ancient RomeTRIER n pl TRIERSone that triesTRIES present 3d person sing of tryTRIETHYL adj containing three ethyl groupsTRIFECTA n pl TRIFECTASa system of bettingTRIFFID n pl TRIFFIDSa fictional predatory plantTRIFID adj divided into three partsTRIFLE v TRIFLED TRIFLING TRIFLESto waste timeTRIFLER n pl TRIFLERSone that triflesTRIFLING n pl TRIFLINGSa waste of timeTRIFOCAL n pl TRIFOCALSa type of lensTRIFOLD adj having three partsTRIFORIA npl galleries in a churchTRIFORM adj having three formsTRIG adj TRIGGER TRIGGESTneatTRIG v TRIGGED TRIGGING TRIGSto make trigTRIGAMY n pl TRIGAMIESthe crime of being married to three people at onceTRIGGER v TRIGGERED TRIGGERING TRIGGERSto actuateTRIGLY adv in a trig mannerTRIGLYPH n pl TRIGLYPHSan architectural ornamentTRIGNESS n pl TRIGNESSESthe quality or state of being trigTRIGO n pl TRIGOSwheatTRIGON n pl TRIGONSan ancient stringed instrumentTRIGONAL adj shaped like a triangleTRIGRAM n pl TRIGRAMSa cluster of three successive lettersTRIGRAPH n pl TRIGRAPHSa group of three letters representing one soundTRIHEDRA npl figures having three plane surfaces meeting at a pointTRIJET n pl TRIJETSan airplane powered by three jet enginesTRIKE n pl TRIKESa tricycleTRILBY n pl TRILBIESa soft felt hatTRILBIED adjTRILITH n pl TRILITHSa prehistoric structure of three large stonesTRILL v TRILLED TRILLING TRILLSto sing or play with a vibrating effectTRILLER n pl TRILLERSone that trillsTRILLION n pl TRILLIONSa numberTRILLIUM n pl TRILLIUMSa flowering plantTRILOBAL adj trilobedTRILOBED adj having three lobesTRILOGY n pl TRILOGIESa group of three related literary worksTRIM adj TRIMMER TRIMMESTneat and orderlyTRIM v TRIMMED TRIMMING TRIMSto make trim by cuttingTRIMARAN n pl TRIMARANSa sailing vesselTRIMER n pl TRIMERSa type of chemical compoundTRIMERIC adjTRIMETER n pl TRIMETERSa verse of three metrical feetTRIMLY adv in a trim mannerTRIMMED past tense of trimTRIMMER n pl TRIMMERSone that trimsTRIMMEST superlative of trimTRIMMING n pl TRIMMINGSsomething added as a decorationTRIMNESS n pl TRIMNESSESthe state of being trimTRIMORPH n pl TRIMORPHSa substance existing in three formsTRIMOTOR n pl TRIMOTORSan airplane powered by three enginesTRIMPOT n pl TRIMPOTSa small instrument for adjusting resistance or voltageTRINAL adj having three partsTRINARY adj consisting of three partsTRINDLE v TRINDLED TRINDLING TRINDLESto trundleTRINE v TRINED TRINING TRINESto place in a particular astrological positionTRINITY n pl TRINITIESa group of threeTRINKET v TRINKETED TRINKETING TRINKETSto deal secretlyTRINKUMS npl small ornamentsTRINODAL adj having three nodesTRIO n pl TRIOSa group of threeTRIODE n pl TRIODESa type of electron tubeTRIOL n pl TRIOLSa type of chemical compoundTRIOLET n pl TRIOLETSa short poem of fixed formTRIOSE n pl TRIOSESa simple sugarTRIOXID n pl TRIOXIDStrioxideTRIOXIDE n pl TRIOXIDESa type of oxideTRIP v TRIPPED TRIPPING TRIPSto stumbleTRIPACK n pl TRIPACKSa type of film packTRIPART adj divided into three partsTRIPE n pl TRIPESa part of the stomach of a ruminant that is used as foodTRIPEDAL adj having three feetTRIPHASE adj having three phasesTRIPLANE n pl TRIPLANESa type of airplaneTRIPLE v TRIPLED TRIPLING TRIPLESto make three times as greatTRIPLET n pl TRIPLETSa group of three of one kindTRIPLEX v TRIPLEXED TRIPLEXING TRIPLEXESto provide something in triplicateTRIPLITE n pl TRIPLITESa mineralTRIPLOID n pl TRIPLOIDSa cell having a chromosome number that is three times the basic numberTRIPLY adv in a triple degree manner or numberTRIPMAN n pl TRIPMENa man hired to work on a tripTRIPOD n pl TRIPODSa stand having three legsTRIPODAL TRIPODIC adjTRIPODY n pl TRIPODIESa verse of three metrical feetTRIPOLI n pl TRIPOLISa soft friable rockTRIPOS n pl TRIPOSESa tripodTRIPPANT adj walking  used of a heraldic animalTRIPPED past tense of tripTRIPPER n pl TRIPPERSone that tripsTRIPPET n pl TRIPPETSa part of a mechanism designed to strike another partTRIPPING n pl TRIPPINGSthe act of one that tripsTRIPPY adj TRIPPIER TRIPPIESTsuggesting a trip on psychedelic drugsTRIPTAN n pl TRIPTANSa drug for treating migraine attacksTRIPTANE n pl TRIPTANESa chemical compoundTRIPTYCA n pl TRIPTYCASa triptychTRIPTYCH n pl TRIPTYCHSan ancient writing tabletTRIPWIRE n pl TRIPWIRESa lowplaced hidden wire that sets off an alarm or a trapTRIREME n pl TRIREMESan ancient Greek or Roman warshipTRISCELE n pl TRISCELEStriskeleTRISECT v TRISECTED TRISECTING TRISECTSto divide into three equal partsTRISEME n pl TRISEMESa type of metrical footTRISEMIC adjTRISHAW n pl TRISHAWSa pedicabTRISKELE n pl TRISKELESa figure consisting of three branches radiating from a centerTRISMUS n pl TRISMUSESlockjawTRISMIC adjTRISOME n pl TRISOMESan organism having one chromosome in addition to the usual diploid numberTRISOMIC n pl TRISOMICSa trisomeTRISOMY n pl TRISOMIESthe condition of being a trisomeTRISTATE adj pertaining to an area made up of three adjoining statesTRISTE adj sadTRISTEZA n pl TRISTEZASa disease of citrus treesTRISTFUL adj sadTRISTICH n pl TRISTICHSa stanza of three linesTRITE adj TRITER TRITESTused so often as to be made commonplaceTRITELY advTRITHING n pl TRITHINGSan administrative division in EnglandTRITICUM n pl TRITICUMSa cereal grassTRITIUM n pl TRITIUMSan isotope of hydrogenTRITOMA n pl TRITOMASan African herbTRITON n pl TRITONSa marine molluskTRITONE n pl TRITONESa musical interval of three whole tonesTRIUMPH v TRIUMPHED TRIUMPHING TRIUMPHSto be victoriousTRIUMVIR n pl TRIUMVIRS or TRIUMVIRIone of a ruling body of three in ancient RomeTRIUNE n pl TRIUNESa trinityTRIUNITY n pl TRIUNITIESa trinityTRIVALVE n pl TRIVALVESa type of shellTRIVET n pl TRIVETSa small stand having three legsTRIVIA npl insignificant mattersTRIVIAL adj insignificantTRIVIUM n pl TRIVIAa group of studies in medieval schoolsTROAK v TROAKED TROAKING TROAKSto trokeTROCAR n pl TROCARSa surgical instrumentTROCHAIC n pl TROCHAICSa trocheeTROCHAL adj shaped like a wheelTROCHAR n pl TROCHARStrocarTROCHE n pl TROCHESa medicated lozengeTROCHEE n pl TROCHEESa type of metrical footTROCHIL n pl TROCHILS or TROCHILIan African birdTROCHLEA n pl TROCHLEAS or TROCHLEAEan anatomical structure resembling a pulleyTROCHOID n pl TROCHOIDSa type of geometric curveTROCK v TROCKED TROCKING TROCKSto trokeTROD a past tense of treadTRODDEN past participle of treadTRODE a past tense of treadTROFFER n pl TROFFERSa fixture for fluorescent lightingTROG n pl TROGSa hooliganTROGON n pl TROGONSa tropical birdTROIKA n pl TROIKASa Russian carriageTROILISM n pl TROILISMSsexual relations involving three personsTROILITE n pl TROILITESa mineralTROILUS n pl TROILUSESa large butterflyTROIS n pl TROISthe number threeTROKE v TROKED TROKING TROKESto exchangeTROLAND n pl TROLANDSa unit of measurement of retinal response to lightTROLL v TROLLED TROLLING TROLLSto fish with a slowly trailing lineTROLLER n pl TROLLERSone that trollsTROLLEY v TROLLEYED TROLLEYING TROLLEYSto convey by streetcarTROLLING n pl TROLLINGSthe act of one that trollsTROLLISH adj resembling a troll a mythological dwarfTROLLOP n pl TROLLOPSa prostituteTROLLOPY adjTROLLY v TROLLIED TROLLYING TROLLIESto trolleyTROMBONE n pl TROMBONESa brass wind instrumentTROMMEL n pl TROMMELSa screen used for sifting rock ore or coalTROMP v TROMPED TROMPING TROMPSto trampTROMPE n pl TROMPESa device used for supplying air to a furnaceTRONA n pl TRONASa mineralTRONE n pl TRONESa weighing deviceTROOP v TROOPED TROOPING TROOPSto move or gather in crowdsTROOPER n pl TROOPERSa cavalrymanTROOPIAL n pl TROOPIALStroupialTROOZ npl trewsTROP adv too muchTROPE n pl TROPESthe figurative use of a wordTROPHIC adj pertaining to nutritionTROPHY v TROPHIED TROPHYING TROPHIESto honor with a trophy a symbol of victoryTROPIC n pl TROPICSeither of two circles of the celestial sphere on each side of the equatorTROPICAL n pl TROPICALSa plant of the region lying between the tropicsTROPIN n pl TROPINStropineTROPINE n pl TROPINESa poisonous alkaloidTROPISM n pl TROPISMSthe involuntary response of an organism to an external stimulusTROPONIN n pl TROPONINSa protein of muscleTROPPO adj too much  used in musical directionsTROT v TROTTED TROTTING TROTSto go at a gait between a walk and a runTROTH v TROTHED TROTHING TROTHSto betrothTROTLINE n pl TROTLINESa strong fishing lineTROTTER n pl TROTTERSa horse that trotsTROTTING n pl TROTTINGSharness racingTROTYL n pl TROTYLSan explosiveTROU npl trousersTROUBLE v TROUBLED TROUBLING TROUBLESto distressTROUBLER n pl TROUBLERSone that troublesTROUGH n pl TROUGHSa long narrow receptacleTROUNCE v TROUNCED TROUNCING TROUNCESto beat severelyTROUNCER n pl TROUNCERSone that trouncesTROUPE v TROUPED TROUPING TROUPESto tour with a theatrical companyTROUPER n pl TROUPERSa member of a theatrical companyTROUPIAL n pl TROUPIALSa tropical birdTROUSER adj pertaining to trousersTROUSERS npl a garment for the lower part of the bodyTROUT n pl TROUTSa freshwater fishTROUTING n pl TROUTINGSthe activity of fishing for troutTROUTY adj TROUTIER TROUTIESTabounding in troutTROUVERE n pl TROUVERESa medieval poetTROUVEUR n pl TROUVEURStrouvereTROVE n pl TROVESa valuable discoveryTROVER n pl TROVERSa type of legal actionTROW v TROWED TROWING TROWSto supposeTROWEL v TROWELED TROWELING TROWELS or TROWELLED TROWELLING TROWELSto smooth with a trowel a hand tool having a flat bladeTROWELER n pl TROWELERSone that trowelsTROWSERS npl trousersTROWTH n pl TROWTHStruthTROY n pl TROYSa system of weightsTRUANCY n pl TRUANCIESan act of truantingTRUANT v TRUANTED TRUANTING TRUANTSto stay out of school without permissionTRUANTLY adv in a manner of one who shirks dutyTRUANTRY n pl TRUANTRIEStruancyTRUCE v TRUCED TRUCING TRUCESto suspend hostilities by mutual agreementTRUCK v TRUCKED TRUCKING TRUCKSto transport by truck an automotive vehicle designed to carry loadsTRUCKAGE n pl TRUCKAGEStransportation of goods by trucksTRUCKER n pl TRUCKERSa truck driverTRUCKFUL n pl TRUCKFULSas much as a truck can holdTRUCKING n pl TRUCKINGStruckageTRUCKLE v TRUCKLED TRUCKLING TRUCKLESto yield weaklyTRUCKLER n pl TRUCKLERSone that trucklesTRUCKMAN n pl TRUCKMENa truckerTRUDGE v TRUDGED TRUDGING TRUDGESto walk tiredlyTRUDGEN n pl TRUDGENSa swimming strokeTRUDGEON n pl TRUDGEONStrudgenTRUDGER n pl TRUDGERSone that trudgesTRUDGING present participle of trudgeTRUE adj TRUER TRUESTconsistent with fact or realityTRUE v TRUED TRUING or TRUEING TRUESto bring to conformity with a standard or requirementTRUEBLUE n pl TRUEBLUESa person of unwavering loyaltyTRUEBORN adj genuinely such by birthTRUEBRED adj designating an animal of unmixed stockTRUED past tense of trueTRUEING a present participle of trueTRUELOVE n pl TRUELOVESa sweetheartTRUENESS n pl TRUENESSESthe quality or state of being trueTRUER comparative of trueTRUEST superlative of trueTRUFFE n pl TRUFFEStruffleTRUFFLE n pl TRUFFLESan edible fungusTRUFFLED adjTRUFFLING n pl TRUFFLINGSthe activity of hunting for trufflesTRUG n pl TRUGSa gardeners basketTRUING a present participle of trueTRUISM n pl TRUISMSan obvious truthTRUISTIC adjTRULL n pl TRULLSa prostituteTRULY adv in conformity with fact or realityTRUMEAU n pl TRUMEAUXa column supporting part of a doorwayTRUMP v TRUMPED TRUMPING TRUMPSto outdoTRUMPERY n pl TRUMPERIESworthless fineryTRUMPET v TRUMPETED TRUMPETING TRUMPETSto sound on a trumpet a brass wind instrumentTRUNCAL adj affecting the trunk the central part of the bodyTRUNCATE v TRUNCATED TRUNCATING TRUNCATESto shorten by cutting off a partTRUNDLE v TRUNDLED TRUNDLING TRUNDLESto propel by causing to rotateTRUNDLER n pl TRUNDLERSone that trundlesTRUNK n pl TRUNKSthe main stem of a treeTRUNKED adjTRUNKFUL n pl TRUNKFULSas much as a trunk a storage box can holdTRUNKING n pl TRUNKINGSa system of electrical or telephone linesTRUNNEL n pl TRUNNELStreenailTRUNNION n pl TRUNNIONSa pin or pivot on which something can be rotatedTRUSS v TRUSSED TRUSSING TRUSSESto secure tightlyTRUSSER n pl TRUSSERSone that trussesTRUSSING n pl TRUSSINGSthe framework of a structureTRUST v TRUSTED TRUSTING TRUSTSto place confidence inTRUSTEE v TRUSTEED TRUSTEEING TRUSTEESto commit to the care of an administratorTRUSTER n pl TRUSTERSone that trustsTRUSTFUL adj inclined to trustTRUSTOR n pl TRUSTORSone that trustees his propertyTRUSTY adj TRUSTIER TRUSTIESTworthy of trustTRUSTILY advTRUSTY n pl TRUSTIESone worthy of trustTRUTH n pl TRUTHSconformity to fact or realityTRUTHFUL adj telling the truthTRY v TRIED TRYING TRIESto attemptTRYINGLY adv in a distressing mannerTRYMA n pl TRYMATAa type of nutTRYOUT n pl TRYOUTSa test of abilityTRYPSIN n pl TRYPSINSan enzymeTRYPTIC adjTRYSAIL n pl TRYSAILSa type of sailTRYST v TRYSTED TRYSTING TRYSTSto agree to meetTRYSTE n pl TRYSTESa marketTRYSTER n pl TRYSTERSone that trystsTRYWORKS npl a type of furnaceTSADDIK n pl TSADDIKIMzaddikTSADE n pl TSADESsadeTSADI n pl TSADISsadeTSAR n pl TSARSczarTSARDOM n pl TSARDOMSczardomTSAREVNA n pl TSAREVNASczarevnaTSARINA n pl TSARINASczarinaTSARISM n pl TSARISMSczarismTSARIST n pl TSARISTSczaristTSARITZA n pl TSARITZASczaritzaTSATSKE n pl TSATSKESchachkaTSETSE n pl TSETSESan African flyTSIMMES n pl TSIMMEStzimmesTSK v TSKED TSKING TSKSto utter an exclamation of annoyanceTSKTSK v TSKTSKED TSKTSKING TSKTSKSto tskTSOORIS n pl TSOORIStsurisTSORES n pl TSOREStsurisTSORIS n pl TSORIStsurisTSORRISS n pl TSORRISStsurisTSOTSI n pl TSOTSISa black African urban criminalTSOURIS n pl TSOURIStsurisTSUBA n pl TSUBASa part of a Japanese swordTSUBO n pl TSUBOSa Japanese unit of areaTSUNAMI n pl TSUNAMISa very large ocean waveTSUNAMIC adjTSURIS n pl TSURIS or TSURISESa series of misfortunesTUATARA n pl TUATARASa large reptileTUATERA n pl TUATERAStuataraTUB v TUBBED TUBBING TUBSto wash in a tub a round open vesselTUBA n pl TUBAS or TUBAEa brass wind instrumentTUBAIST n pl TUBAISTSa tuba playerTUBAL adj pertaining to a tubeTUBATE adj tubularTUBBABLE adj suitable for washing in a tubTUBBED past tense of tubTUBBER n pl TUBBERSone that tubsTUBBING present participle of tubTUBBY adj TUBBIER TUBBIESTshort and fatTUBE v TUBED TUBING TUBESto provide with a tube a long hollow cylinderTUBELESS adj having no tubeTUBELIKE adj resembling a tubeTUBENOSE n pl TUBENOSESa bird having tubular nostrilsTUBER n pl TUBERSa thick underground stemTUBERCLE n pl TUBERCLESa small rounded swellingTUBEROID adj pertaining to a tuberTUBEROSE n pl TUBEROSESa Mexican herbTUBEROUS adj pertaining to a tuberTUBEWELL n pl TUBEWELLSa water well in which a long steel tube is bored into an underground aquiferTUBEWORK n pl TUBEWORKStubingTUBEWORM n pl TUBEWORMSa marine worm that builds and lives in a tubeTUBFUL n pl TUBFULSas much as a tub will holdTUBIFEX n pl TUBIFEXESan aquatic wormTUBIFORM adj tubularTUBING n pl TUBINGSmaterial in the form of a tubeTUBIST n pl TUBISTSa tubaistTUBLIKE adj resembling a tubTUBULAR n pl TUBULARSa completely enclosed bicycle tireTUBULATE v TUBULATED TUBULATING TUBULATESto form into a tubeTUBULE n pl TUBULESa small tubeTUBULIN n pl TUBULINSa protein that polymerizes to form tiny tubulesTUBULOSE adj tubulousTUBULOUS adj having the form of a tubeTUBULURE n pl TUBULURESa short cylindrical openingTUCHIS n pl TUCHISEStuchusTUCHUN n pl TUCHUNSa Chinese military governorTUCHUS n pl TUCHUSESthe buttocksTUCK v TUCKED TUCKING TUCKSto fold underTUCKAHOE n pl TUCKAHOESthe edible root of certain arumsTUCKER v TUCKERED TUCKERING TUCKERSto wearyTUCKET n pl TUCKETSa trumpet fanfareTUCKING n pl TUCKINGSa series of stitched folds in a garmentTUCKSHOP n pl TUCKSHOPSa confectioners shopTUFA n pl TUFASa porous limestoneTUFF n pl TUFFSa volcanic rockTUFFET n pl TUFFETSa clump of grassTUFOLI n pl TUFOLIa large macaroni shellTUFT v TUFTED TUFTING TUFTSto form into tufts clusters of flexible outgrowths attached at the baseTUFTER n pl TUFTERSone that tuftsTUFTING n pl TUFTINGSa cluster of tufts used for decorationTUFTY adj TUFTIER TUFTIESTabounding in tuftsTUFTILY advTUG v TUGGED TUGGING TUGSto pull with forceTUGBOAT n pl TUGBOATSa boat built for towingTUGGER n pl TUGGERSone that tugsTUGGING present participle of tugTUGHRIK n pl TUGHRIKStugrikTUGLESS adj being without a rope or chain with which to pullTUGRIK n pl TUGRIKSa monetary unit of MongoliaTUI n pl TUISa bird of New ZealandTUILE n pl TUILEa thin cookie made with almondsTUILLE n pl TUILLESa tassetTUITION n pl TUITIONSa fee for instructionTULADI n pl TULADISa freshwater fishTULE n pl TULESa tall marsh plantTULIP n pl TULIPSa flowering plantTULLE n pl TULLESa silk materialTULLIBEE n pl TULLIBEESa freshwater fishTULSI n pl TULSISa type of basilTUM n pl TUMSa persons stomach an organ of digestion or abdomenTUMBLE v TUMBLED TUMBLING TUMBLESto fall or roll end over endTUMBLER n pl TUMBLERSone that tumblesTUMBLING n pl TUMBLINGSthe sport of gymnasticsTUMBREL n pl TUMBRELSa type of cartTUMBRIL n pl TUMBRILStumbrelTUMEFY v TUMEFIED TUMEFYING TUMEFIESto swellTUMESCE v TUMESCED TUMESCING TUMESCESto become swollenTUMID adj swollenTUMIDLY advTUMIDITY n pl TUMIDITIESthe quality or state of being tumidTUMMLER n pl TUMMLERSan entertainer who encourages audience participationTUMMY n pl TUMMIESthe stomachTUMOR n pl TUMORSan abnormal swellingTUMORAL TUMOROUS adjTUMOUR n pl TUMOURStumorTUMP v TUMPED TUMPING TUMPSto tip overTUMPLINE n pl TUMPLINESa strap for supporting a load on the backTUMULAR adj having the form of a moundTUMULI a pl of tumulusTUMULOSE adj full of moundsTUMULOUS adj tumuloseTUMULT n pl TUMULTSa great din and commotionTUMULUS n pl TUMULUSES or TUMULIa mound over a graveTUN v TUNNED TUNNING TUNSto store in a large caskTUNA n pl TUNASa marine food fishTUNABLE adj capable of being tunedTUNABLY advTUNDISH n pl TUNDISHESa receptacle for molten metalTUNDRA n pl TUNDRASa level treeless expanse of arctic landTUNE v TUNED TUNING TUNESto put into the proper pitchTUNEABLE adj tunableTUNEABLY advTUNEFUL adj melodiousTUNELESS adj not tunefulTUNER n pl TUNERSone that tunesTUNEUP n pl TUNEUPSan adjustment to ensure efficient operationTUNG n pl TUNGSa Chinese treeTUNGSTEN n pl TUNGSTENSa metallic elementTUNGSTIC adjTUNIC n pl TUNICSa loosefitting garmentTUNICA n pl TUNICAEan enveloping membrane or layer of body tissueTUNICATE n pl TUNICATESa small marine animalTUNICLE n pl TUNICLESa type of vestmentTUNING n pl TUNINGSthe act of adjusting a musical instrument to a correct pitchTUNKET n pl TUNKETShellTUNNAGE n pl TUNNAGEStonnageTUNNED past tense of tunTUNNEL v TUNNELED TUNNELING TUNNELS or TUNNELLED TUNNELLING TUNNELSto dig a tunnel an underground passagewayTUNNELER n pl TUNNELERSone that tunnelsTUNNING present participle of tunTUNNY n pl TUNNIESa tunaTUP v TUPPED TUPPING TUPSto copulate with a ewe  used of a ramTUPELO n pl TUPELOSa softwood treeTUPIK n pl TUPIKSan Inuit tentTUPPENCE n pl TUPPENCEStwopenceTUPPENNY adj twopennyTUPPING n pl TUPPINGSthe act of a ram copulating with a eweTUQUE n pl TUQUESa knitted woolen capTURACO n pl TURACOStouracoTURACOU n pl TURACOUStouracoTURBAN n pl TURBANSa head covering worn by MuslimsTURBANED adjTURBARY n pl TURBARIESa place where peat can be dugTURBETH n pl TURBETHSturpethTURBID adj thick or opaque with roiled sedimentTURBIDLY advTURBINAL n pl TURBINALSa bone of the nasal passageTURBINE n pl TURBINESa type of engineTURBIT n pl TURBITSa domestic pigeonTURBITH n pl TURBITHSturpethTURBO n pl TURBOSa turbineTURBOCAR n pl TURBOCARSan auto powered by a gas turbineTURBOFAN n pl TURBOFANSa type of jet engineTURBOJET n pl TURBOJETSa type of jet engineTURBOT n pl TURBOTSa European flatfishTURDINE adj belonging to a large family of singing birdsTUREEN n pl TUREENSa large deep bowlTURF n pl TURFS or TURVESa surface layer of earth containing a dense growth of grassTURF v TURFED TURFING TURFSto cover with turfTURFIER comparative of turfyTURFIEST superlative of turfyTURFLESS adj having no turfTURFLIKE adj resembling turfTURFMAN n pl TURFMENa person who is devoted to horse racingTURFSKI n pl TURFSKISa type of skiTURFY adj TURFIER TURFIESTcovered with turfTURGENCY n pl TURGENCIESturgorTURGENT adj turgidTURGID adj swollenTURGIDLY advTURGITE n pl TURGITESan iron oreTURGOR n pl TURGORSthe quality or state of being turgidTURION n pl TURIONSa thick new growth on a plantTURISTA n pl TURISTASintestinal sickness affecting a tourist in a foreign countryTURK n pl TURKSone who eagerly advocates changeTURKEY n pl TURKEYSa large American birdTURKOIS n pl TURKOISESturquoisTURMERIC n pl TURMERICSan East Indian herbTURMOIL v TURMOILED TURMOILING TURMOILSto throw into an uproarTURN v TURNED TURNING TURNSto move around a central pointTURNABLE adjTURNCOAT n pl TURNCOATSa traitorTURNCOCK n pl TURNCOCKSan employee who turns water on or off at the mainTURNDOWN n pl TURNDOWNSa rejectionTURNER n pl TURNERSone that turnsTURNERY n pl TURNERIESthe process of shaping articles on a latheTURNHALL n pl TURNHALLSa building where gymnasts practiceTURNING n pl TURNINGSa rotation about an axisTURNIP n pl TURNIPSan edible plant rootTURNIPY adjTURNKEY n pl TURNKEYSa person who has charge of a prisons keysTURNOFF n pl TURNOFFSa road that branches off from a larger oneTURNON n pl TURNONSsomething that arouses interestTURNOUT n pl TURNOUTSan assemblage of peopleTURNOVER n pl TURNOVERSan upset or overthrowTURNPIKE n pl TURNPIKESa toll roadTURNSOLE n pl TURNSOLESa plant that turns with the sunTURNSPIT n pl TURNSPITSone that turns a roasting spitTURNUP n pl TURNUPSa part of a garment that is turned upTURPETH n pl TURPETHSa medicinal plant rootTURPS n pl TURPSturpentineTURQUOIS n pl TURQUOISESa greenish blue gemTURR n pl TURRSa murreTURRET n pl TURRETSa small towerTURRETED adjTURRICAL adj resembling a turretTURTLE v TURTLED TURTLING TURTLESto catch turtles tortoisesTURTLER n pl TURTLERSone that turtlesTURTLING n pl TURTLINGSthe act of one that turtlesTURVES a pl of turfTUSCHE n pl TUSCHESa liquid used in lithographyTUSH v TUSHED TUSHING TUSHESto tuskTUSHERY n pl TUSHERIESpretentious writingTUSHIE n pl TUSHIESthe buttocksTUSHY n pl TUSHIEStushieTUSK v TUSKED TUSKING TUSKSto gore with a tusk a long pointed tooth extending outside of the mouthTUSKER n pl TUSKERSan animal with tusksTUSKLESS adj having no tuskTUSKLIKE adj resembling a tuskTUSKY adj TUSKIER TUSKIESThaving tusksTUSSAH n pl TUSSAHSan Asian silkwormTUSSAL adj pertaining to a coughTUSSAR n pl TUSSARStussahTUSSEH n pl TUSSEHStussahTUSSER n pl TUSSERStussahTUSSIS n pl TUSSISES or TUSSESa coughTUSSIVE adjTUSSLE v TUSSLED TUSSLING TUSSLESto struggleTUSSOCK n pl TUSSOCKSa clump of grassTUSSOCKY adjTUSSOR n pl TUSSORStussahTUSSORE n pl TUSSOREStussahTUSSUCK n pl TUSSUCKStussockTUSSUR n pl TUSSURStussahTUT v TUTTED TUTTING TUTSto utter an exclamation of impatienceTUTEE n pl TUTEESone who is being tutoredTUTELAGE n pl TUTELAGESthe act of tutoringTUTELAR n pl TUTELARSa tutelaryTUTELARY n pl TUTELARIESone who has the power to protectTUTOR v TUTORED TUTORING TUTORSto instruct privatelyTUTORAGE n pl TUTORAGEStutelageTUTORESS n pl TUTORESSESa female who tutorsTUTORIAL n pl TUTORIALSa session of tutoringTUTOYER v TUTOYERED or TUTOYED TUTOYERING TUTOYERSto address familiarlyTUTTED past tense of tutTUTTI n pl TUTTISa musical passage performed by all the performersTUTTING present participle of tutTUTTY n pl TUTTIESan impure zinc oxideTUTU n pl TUTUSa short ballet skirtTUTUED adjTUX n pl TUXESa tuxedoTUXEDO n pl TUXEDOS or TUXEDOESa mans semiformal dinner coatTUXEDOED adjTUYER n pl TUYERStuyereTUYERE n pl TUYERESa pipe through which air is forced into a blast furnaceTWA n pl TWAStwoTWADDLE v TWADDLED TWADDLING TWADDLESto talk foolishlyTWADDLER n pl TWADDLERSone that twaddlesTWAE n pl TWAEStwoTWAIN n pl TWAINSa set of twoTWANG v TWANGED TWANGING TWANGSto make a sharp vibrating soundTWANGER n pl TWANGERSone that twangsTWANGLE v TWANGLED TWANGLING TWANGLESto twangTWANGLER n pl TWANGLERSone that twanglesTWANGY adj TWANGIER TWANGIESTtwangingTWANKY n pl TWANKIESa variety of green teaTWASOME n pl TWASOMEStwosomeTWATTLE v TWATTLED TWATTLING TWATTLESto twaddleTWEAK v TWEAKED TWEAKING TWEAKSto pinch and twist sharplyTWEAKY adj TWEAKIER TWEAKIESTtwitchyTWEE adj TWEER TWEESTaffectedly cute or daintyTWEED n pl TWEEDSa coarse woolen fabricTWEEDLE v TWEEDLED TWEEDLING TWEEDLESto perform casually on a musical instrumentTWEEDY adj TWEEDIER TWEEDIESTresembling or wearing tweedTWEEDILY advTWEEN n pl TWEENSa child typically between the ages of eight and twelveTWEENER n pl TWEENERSa player having some but not all of the qualifications for two or more positionsTWEENESS n pl TWEENESSESthe state of being tweeTWEENY n pl TWEENIESa housemaidTWEEP n pl TWEEPSone who uses the Twitter online message serviceTWEET v TWEETED TWEETING TWEETSto chirpTWEETER n pl TWEETERSa loudspeaker designed to reproduce highpitched soundsTWEEZE v TWEEZED TWEEZING TWEEZESto pluck with a tweezerTWEEZER n pl TWEEZERSa pincerlike toolTWELFTH n pl TWELFTHSthe number twelve in a seriesTWELVE n pl TWELVESa numberTWELVEMO n pl TWELVEMOSa page sizeTWENTY n pl TWENTIESa numberTWERP n pl TWERPSa small impudent personTWERPY adj TWERPIER TWERPIESTresembling a twerpTWIBIL n pl TWIBILSa battleax with two cutting edgesTWIBILL n pl TWIBILLStwibilTWICE adv two timesTWIDDLE v TWIDDLED TWIDDLING TWIDDLESto play idly with somethingTWIDDLER n pl TWIDDLERSone that twiddlesTWIDDLY adj TWIDDLIER TWIDDLIESThaving many turnsTWIER n pl TWIERStuyereTWIG v TWIGGED TWIGGING TWIGSto observeTWIGGEN adj made of twigs small branchesTWIGGY adj TWIGGIER TWIGGIESTtwiglikeTWIGLESS adj having no twigsTWIGLIKE adj resembling a twigTWILIGHT n pl TWILIGHTSthe early evening lightTWILIT adj lighted by twilightTWILL v TWILLED TWILLING TWILLSto weave so as to produce a diagonal patternTWILLING n pl TWILLINGSa twilled fabricTWIN v TWINNED TWINNING TWINSto bring together in close associationTWINBORN adj born at the same birthTWINE v TWINED TWINING TWINESto twist togetherTWINER n pl TWINERSone that twinesTWINGE v TWINGED TWINGING or TWINGEING TWINGESto affect with a sharp painTWINIER comparative of twinyTWINIEST superlative of twinyTWINIGHT adj pertaining to a baseball doubleheader that begins in the late afternoonTWINING present participle of twineTWINJET n pl TWINJETSan aircraft with two jet enginesTWINK n pl TWINKSa weak or ineffectual personTWINKIE n pl TWINKIESa twinkTWINKLE v TWINKLED TWINKLING TWINKLESto shine with a flickering or sparkling lightTWINKLER n pl TWINKLERSone that twinklesTWINKLY adj twinklingTWINKY n pl TWINKIESa twinkTWINNED past tense of twinTWINNING n pl TWINNINGSthe bearing of two children at the same birthTWINSET n pl TWINSETSa matching pair of sweaters to be worn togetherTWINSHIP n pl TWINSHIPSclose similarity or associationTWINY adj TWINIER TWINIESTresembling twine a strong stringTWIRL v TWIRLED TWIRLING TWIRLSto rotate rapidlyTWIRLER n pl TWIRLERSone that twirlsTWIRLY adj TWIRLIER TWIRLIESTcurvedTWIRP n pl TWIRPStwerpTWIST v TWISTED TWISTING TWISTSto combine by winding togetherTWISTER n pl TWISTERSone that twistsTWISTING n pl TWISTINGSa form of trickery used in selling life insuranceTWISTOR n pl TWISTORSa complex variable in descriptions of spacetimeTWISTY adj TWISTIER TWISTIESTfull of curvesTWIT v TWITTED TWITTING TWITSto ridiculeTWITCH v TWITCHED TWITCHING TWITCHESto move or pull with a sudden motionTWITCHER n pl TWITCHERSone that twitchesTWITCHY adj TWITCHIER TWITCHIESTfidgetyTWITTED past tense of twitTWITTER v TWITTERED TWITTERING TWITTERSto utter a succession of chirping soundsTWITTERY adj nervously agitatedTWITTING present participle of twitTWITTISH adj silly foolishTWIXT prep betweenTWIZZLE n pl TWIZZLESa maneuver in figure skatingTWO n pl TWOSa numberTWOFER n pl TWOFERSsomething sold at the rate of two for the price of oneTWOFOLD n pl TWOFOLDSan amount twice as great as a given unitTWONESS n pl TWONESSESthe state of being twoTWOONIE n pl TWOONIEStoonieTWOPENCE n pl TWOPENCESa British coin worth two penniesTWOPENNY adj worth twopenceTWOSOME n pl TWOSOMESa group of twoTWYER n pl TWYERStuyereTYCHISM n pl TYCHISMSthe proposition that chance is operative in the universeTYCOON n pl TYCOONSa wealthy and powerful business personTYE n pl TYESa chain on a shipTYEE n pl TYEESa food fishTYER n pl TYERSone that tiesTYIN n pl TYINa monetary unit of KazakhstanTYING a present participle of tieTYIYN n pl TYIYNa monetary unit of KyrgyzstanTYKE n pl TYKESa small childTYLOSIN n pl TYLOSINSan antibioticTYMBAL n pl TYMBALStimbalTYMPAN n pl TYMPANSa drumTYMPANA a pl of tympanumTYMPANAL adj tympanicTYMPANIC adj pertaining to the tympanumTYMPANO n pl TYMPANItimpanoTYMPANUM n pl TYMPANUMS or TYMPANAthe middle earTYMPANY n pl TYMPANIESa swelling of the abdomenTYNE v TYNED TYNING TYNESto tineTYPAL adj typicalTYPE v TYPED TYPING TYPESto write with a typewriterTYPABLE TYPEABLE adjTYPEBAR n pl TYPEBARSa part of a typewriterTYPECASE n pl TYPECASESa tray for holding printing typeTYPECAST v TYPECAST TYPECASTING TYPECASTSto cast in an acting role befitting ones own natureTYPED past tense of typeTYPEFACE n pl TYPEFACESthe face of printing typeTYPESET v TYPESET TYPESETTING TYPESETSto set in typeTYPEY adj TYPIER TYPIESTtypyTYPHOID n pl TYPHOIDSan infectious diseaseTYPHON n pl TYPHONSa type of signal hornTYPHOON n pl TYPHOONSa tropical hurricaneTYPHONIC adjTYPHOSE adj pertaining to typhoidTYPHUS n pl TYPHUSESan infectious diseaseTYPHOUS adjTYPIC adj typicalTYPICAL adj having the nature of a representative specimenTYPIER comparative of typey and typyTYPIEST superlative of typey and typyTYPIFIER n pl TYPIFIERSone that typifiesTYPIFY v TYPIFIED TYPIFYING TYPIFIESto serve as a typical example ofTYPING n pl TYPINGSthe activity of writing with a typewriterTYPIST n pl TYPISTSone who typesTYPO n pl TYPOSa typographical errorTYPOLOGY n pl TYPOLOGIESthe study of classification according to common characteristicsTYPP n pl TYPPSa unit of yarn sizeTYPY adj TYPIER TYPIESTcharacterized by strict conformance to the characteristics of a groupTYRAMINE n pl TYRAMINESa chemical compoundTYRANNIC adj characteristic of a tyrantTYRANNY n pl TYRANNIESthe rule of a tyrantTYRANT n pl TYRANTSan absolute rulerTYRE v TYRED TYRING TYRESto furnish with a covering for a wheelTYRO n pl TYROSa beginnerTYRONIC adjTYROPITA n pl TYROPITASa pastry made with layers of phyllo and filled with a cheeseegg mixtureTYROSINE n pl TYROSINESan amino acidTYTHE v TYTHED TYTHING TYTHESto titheTZADDIK n pl TZADDIKIMzaddikTZAR n pl TZARSczarTZARDOM n pl TZARDOMSczardomTZAREVNA n pl TZAREVNASczarevnaTZARINA n pl TZARINASczarinaTZARISM n pl TZARISMSczarismTZARIST n pl TZARISTSczaristTZARITZA n pl TZARITZASczaritzaTZATZIKI n pl TZATZIKISa dish of yogurt with cucumber garlic and sometimes mintTZEDAKAH n pl TZEDAKAHScharitable giving as a moral obligation among JewsTZETZE n pl TZETZEStsetseTZIGANE n pl TZIGANESa gypsyTZIMMES n pl TZIMMESa vegetable stewTZITZIS npl zizithTZITZIT npl zizithTZITZITH npl zizithTZURIS n pl TZURIS or TZURISEStsuris").
+```
+```prolog
+条目(uakari, n, [uakaris], "南美猴子").
+```
+```prolog
+条目(following, 是, [], "这是一个不言自明的形容词和副词列表，包含前缀 UN 的以下单词：不加的形容词无法的形容词未滥用的形容词不酸的形容词未采取行动的形容词未添加的形容词不擅长的形容词未成长的形容词不害怕的形容词未老化的形容词未老化的形容词未灵活的形容词未老化的形容词未达成协议的形容词未辅助的形容词未瞄准的形容词未广播的形容词无亲缘的形容词不相似的形容词未结盟的形容词未惊讶的形容词未感到好笑的形容词不合适的形容词未适当地的副词未拱形的形容词未经争论的形容词不艺术的形容词未被询问的形容词未经赎罪的形容词未宣誓的形容词未醒来的形容词未醒来的形容词未意识到的形容词未吓到的形容词未打斧头的形容词未支持的形容词未烘焙的形容词未绑带的形容词未禁止的形容词未带芒的形容词未建立在的形容词未穿孔的形容词未洗澡的形容词未战败的形容词不良的形容词无偏见的形容词未计费的形容词未装配的形容词未受咬的形容词未苦的形容词无责备的形容词未祝福的形容词未血腥的形容词未剃头的形容词未煮沸的形容词未粘合的形容词未去骨的形容词未启动的形容词未出生的形容词未买的形容词未弹跳的形容词未屈服的形容词未鞠躬的形容词未繁殖的形容词未明亮的形容词未破的形容词未破的形容词未庞大的形容词未烧伤的形容词未烧焦的形容词未破裂的形容词未忙的形容词未呼叫的形容词未坦率的形容词未罐装的形容词未记录的形容词未关心的形容词未装车的形容词未刻的形容词未兑现的形容词未问的形容词未投下的形容词未引起注意的形容词未被抓住的形容词未造成的形容词未割让的形容词未谨慎的形容词未纯洁的形容词 不纯的 不最纯的未嚼的形容词未时髦的形容词未时髦的副词未被选的形容词不文明的形容词未优雅的形容词未抓的形容词不干净的形容词 不干净的 不最脏的未清晰的形容词 未清晰的 未最不清楚的未开裂的形容词未多云的形容词未令人恼怒的形容词未涂膜的形容词未编码的形容词未造币的形容词未梳理的形容词不合群的形容词未滑稽的形容词不常见的形容词 不常见的 不最不寻常的未煮的形容词不凉的形容词未冷却的形容词不粗俗的形容词未羞怯的形容词不疯狂的形容词未组员的形容词未铐住的形容词未治愈的形容词未诅咒的形容词未切割的形容词不逼真的形容词未阻尼的形容词未敢的形容词未标注日期的形容词未甲板的形容词未被拒绝的形容词未凹陷的形容词不虔诚的形容词未模糊的形容词可反转的形容词不听话的形容词未划点的形容词未梦想的形容词未干燥的形容词未配音的形容词未缓和的形容词未染色的形容词不渴望的形容词未赚的形容词未吃的形容词未食用的形容词未编辑的形容词未结束的形容词永恒的形容词未被羡慕的形容词未擦除的形容词未性感的形容词不犯错的形容词未被逃避的形容词不平的形容词 不平的 不最不平的未平整地的副词未情趣的形容词未经专门训练的形容词未褪色的形容词不褪色的形容词不公平的形容词 不公平的 不最公平的未公平地的副词未伪的形容词未堕落的形容词不著名的形容词未花哨的形容词未担心的形容词未害怕的形容词未餵的形容词未感觉到的形容词未毡的形容词非孝顺的形容词未填充的形容词未拍摄的形容词未纵火的形容词未捕的形容词不起眼的形容词未有瑕疵的形容词未弯曲的形容词未戒面的形容词未箔片的形容词未请爱的形容词未强迫的形容词未伪造的形容词未叉的形容词未形成的形容词未战斗的形容词未发现的形容词未装框的形容词未资助的形容词未有趣的形容词 不更有趣的 不最有趣的未融合的形容词未挑剔的形容词未经选择的形容词未装备的形容词未镶嵌的形容词未观察的形容词不亲切的形容词不仁慈的副词 不仁慈的 不最不仁慈的不赢的形容词未道德的形容词未放松的形容词未温馨的形容词非正统的形容词未米粉的形容词未栈的形容词未告知的形容词未邪教的形容词不均等的形容词未条约的形容词不爱的重要的形容词未描述的重要的形容词未过时的形容词未渴望的重要的形容词未学术的重要的形容词未知道的重要的形容词不正派的重要的形容词未穿戴的重要的形容词未重述的重要的形容词没重点的重要的形容词未渲染的重要的形容词非均等的重要的重要的形容词未贬损的重要的形容词未准予的重要的形容词未含油的重要的形容词未露面的重要的形容词未露面的重要的形容词未持重的形容词未打开的形容词未宣布的重要的形容词未牵制的重要的形容词未听见的重要的形容词未听见的重要的重要的形容词未持重的重要的形容词未观察的重要的形容词未贬损的重要的重要的未合适的形容词未理解的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的重要者的"). 
+```
+```prolog
+entry(vac, n, [vacs], "a vacuum cleanerVACANCY n pl VACANCIESthe quality or state of being vacantVACANT adj emptyVACANTLY advVACATE v VACATED VACATING VACATESto make vacantVACATION v VACATIONED VACATIONING VACATIONSto take a vacation a period of time devoted to rest and relaxationVACCINA n pl VACCINASvacciniaVACCINE n pl VACCINESa preparation given to produce immunity to a specific diseaseVACCINAL adjVACCINEE n pl VACCINEESone that is vaccinatedVACCINIA n pl VACCINIAScowpoxVACUA a pl of vacuumVACUITY n pl VACUITIESan empty spaceVACUOLE n pl VACUOLESa small cavity in organic tissueVACUOLAR adjVACUOUS adj emptyVACUUM n pl VACUUMS or VACUAa space entirely devoid of matterVACUUM v VACUUMED VACUUMING VACUUMSto use a device that cleans by suctionVADOSE adj located above the permanent groundwater levelVAGABOND v VAGABONDED VAGABONDING VAGABONDSto live like a vagabond a vagrantVAGAL adj pertaining to the vagus nerveVAGALLY advVAGARY n pl VAGARIESa whimVAGI pl of vagusVAGILE adj free to move aboutVAGILITY n pl VAGILITIESfreedom of movementVAGINA n pl VAGINAS or VAGINAEthe passage leading from the uterus to the vulvaVAGINAL adjVAGINATE adj enclosed in a sheathVAGOTOMY n pl VAGOTOMIESsurgical division of the vagus nerveVAGRANCY n pl VAGRANCIESthe state of being a vagrantVAGRANT n pl VAGRANTSa wanderer with no apparent means of supportVAGROM adj wanderingVAGUE adj VAGUER VAGUESTnot clearly expressed or understoodVAGUISH adjVAGUELY advVAGUS n pl VAGIa cranial nerveVAHINE n pl VAHINESwahineVAIL v VAILED VAILING VAILSto lowerVAIN adj VAINER VAINESTfilled with undue admiration for oneselfVAINLY advVAINNESS n pl VAINNESSESthe quality or state of being vainVAIR n pl VAIRSa fur used for lining and trimming medieval garmentsVAKEEL n pl VAKEELSa native lawyer in IndiaVAKIL n pl VAKILSvakeelVALANCE v VALANCED VALANCING VALANCESto furnish with a short draperyVALE n pl VALESa valleyVALENCE n pl VALENCESthe degree of combining power of an element or radicalVALENCIA n pl VALENCIASa woven fabricVALENCY n pl VALENCIESvalenceVALERATE n pl VALERATESa chemical saltVALERIAN n pl VALERIANSa perennial herbVALERIC adjVALET v VALETED VALETING VALETSto act as a personal servant toVALGUS n pl VALGUSESthe position of a joint that is abnormally turned outwardVALGOID adjVALIANCE n pl VALIANCESvalorVALIANCY n pl VALIANCIESvalorVALIANT n pl VALIANTSa courageous personVALID adj based on evidence that can be supportedVALIDATE v VALIDATED VALIDATING VALIDATESto give legal force toVALIDITY n pl VALIDITIESthe quality or state of being validVALIDLY adv in a valid mannerVALINE n pl VALINESan amino acidVALISE n pl VALISESa small piece of hand luggageVALKYR n pl VALKYRSvalkyrieVALKYRIE n pl VALKYRIESa maiden in Norse mythologyVALLATE adj bordered by a raised edgeVALLEY n pl VALLEYSa depression of the earths surfaceVALLEYED adjVALLUM n pl VALLUMSa defensive wall of earth and stoneVALONIA n pl VALONIASa substance obtained from dried acorn cups and used in tanning and dyeingVALOR n pl VALORScourageVALORISE v VALORISED VALORISING VALORISESto valorizeVALORIZE v VALORIZED VALORIZING VALORIZESto establish and maintain the price of by governmental actionVALOROUS adj courageousVALOUR n pl VALOURSvalorVALSE n pl VALSESa concert waltzVALUABLE n pl VALUABLESa possession of valueVALUABLY adv with valueVALUATE v VALUATED VALUATING VALUATESto appraiseVALUATOR n pl VALUATORSone that valuatesVALUE v VALUED VALUING VALUESto estimate the value the quality that renders a thing useful or desirable ofVALUER n pl VALUERSone that valuesVALUTA n pl VALUTASthe agreed or exchange value of a currencyVALVAL adj resembling or pertaining to a valveVALVAR adj valvalVALVATE adj having valves or parts resembling valvesVALVE v VALVED VALVING VALVESto provide with a valve a device for controlling the flow of a liquid or gasVALVELET n pl VALVELETSa small valveVALVULA n pl VALVULAEvalvuleVALVULAR adj pertaining to a valveVALVULE n pl VALVULESa small valveVAMBRACE n pl VAMBRACESa piece of armor for the forearmVAMOOSE v VAMOOSED VAMOOSING VAMOOSESto leave quicklyVAMOSE v VAMOSED VAMOSING VAMOSESto vamooseVAMP v VAMPED VAMPING VAMPSto repair or patchVAMPER n pl VAMPERSone that vampsVAMPIRE n pl VAMPIRESa reanimated corpse believed to feed on sleeping persons bloodVAMPIRIC adjVAMPISH adj seductiveVAMPLATE n pl VAMPLATESa circular metal plate on a spear or lance for protecting the handVAMPY adj VAMPIER VAMPIESTseductiveVAN v VANNED VANNING VANSto transport in a van a type of motor vehicleVANADATE n pl VANADATESa chemical saltVANADIUM n pl VANADIUMSa metallic elementVANADIC VANADOUS adjVANDA n pl VANDASa tropical orchidVANDAL n pl VANDALSone who willfully destroys or defaces propertyVANDALIC adjVANDYKE n pl VANDYKESa short pointed beardVANDYKED adjVANE n pl VANESa device for showing the direction of the windVANED adjVANG n pl VANGSa rope on a shipVANGUARD n pl VANGUARDSthe forefront of a movementVANILLA n pl VANILLASa flavoring extractVANILLIC adjVANILLIN n pl VANILLINSa chemical compound used in flavoringVANISH v VANISHED VANISHING VANISHESto disappearVANISHER n pl VANISHERSone that vanishesVANITAS n pl VANITASESa stilllife painting having symbols of death or changeVANITORY n pl VANITORIESa combined dressing table and basinVANITY n pl VANITIESinflated pride in oneselfVANITIED adjVANLOAD n pl VANLOADSthe quantity that a van can carryVANMAN n pl VANMENa person who drives a vanVANNED past tense of vanVANNER n pl VANNERSa person who owns a vanVANNING present participle of vanVANPOOL n pl VANPOOLSan arrangement whereby several commuters travel in one vanVANQUISH v VANQUISHED VANQUISHING VANQUISHESto defeat in battleVANTAGE n pl VANTAGESsuperiority over a competitorVANWARD adv toward the frontVAPID adj insipidVAPIDLY advVAPIDITY n pl VAPIDITIESthe quality or state of being vapidVAPOR v VAPORED VAPORING VAPORSto emit vapor visible floating moistureVAPORER n pl VAPORERSone that vaporsVAPORING n pl VAPORINGSboastful talkVAPORISE v VAPORISED VAPORISING VAPORISESto vaporizeVAPORISH adj resembling vaporVAPORIZE v VAPORIZED VAPORIZING VAPORIZESto convert into vaporVAPOROUS adj vaporishVAPORY adj vaporishVAPOUR v VAPOURED VAPOURING VAPOURSto vaporVAPOURER n pl VAPOURERSvaporerVAPOURY adj vaporyVAQUERO n pl VAQUEROSa cowboyVAR n pl VARSa unit of reactive powerVARA n pl VARASa Spanish unit of lengthVARACTOR n pl VARACTORSa capacitor with variable capacitanceVAREC n pl VARECSseaweedVARENYKY npl Ukrainian stuffed dumplingsVARIA n pl VARIASa miscellany of literary worksVARIABLE n pl VARIABLESsomething that variesVARIABLY adv in a varying mannerVARIANCE n pl VARIANCESa license to perform an act contrary to the usual ruleVARIANT n pl VARIANTSa variableVARIATE v VARIATED VARIATING VARIATESto varyVARICEAL adj pertaining to or involving a varixVARICES pl of varixVARICOSE adj abnormally swollen or dilatedVARIED past tense of varyVARIEDLY adv in a varied mannerVARIER n pl VARIERSone that variesVARIES present 3d person sing of varyVARIETAL n pl VARIETALSa wine designated by the variety of grapeVARIETY n pl VARIETIESsomething differing from others of the same general kindVARIFORM adj having various formsVARIOLA n pl VARIOLASsmallpoxVARIOLAR adjVARIOLE n pl VARIOLESa foveolaVARIORUM n pl VARIORUMSan edition containing various versions of a textVARIOUS adj of diverse kindsVARISTOR n pl VARISTORSa type of electrical resistorVARIX n pl VARICESa varicose veinVARLET n pl VARLETSa knaveVARLETRY n pl VARLETRIESa group of common peopleVARMENT n pl VARMENTSvarmintVARMINT n pl VARMINTSan animal considered to be a pestVARNA n pl VARNASany of the four main Hindu social classesVARNISH v VARNISHED VARNISHING VARNISHESto give a glossy appearance toVARNISHY adj glossyVAROOM v VAROOMED VAROOMING VAROOMSto vroomVARROA n pl VARROASa mite that is a parasite of the honeybeeVARSITY n pl VARSITIESthe principal team representing a university college or school in any activityVARUS n pl VARUSESa malformation of a bone or jointVARVE n pl VARVESa deposit of sedimentary materialVARVED adjVARY v VARIED VARYING VARIESto become or make differentVAS n pl VASAan anatomical ductVASAL adjVASCULAR adj pertaining to ducts that convey body fluidsVASCULUM n pl VASCULUMS or VASCULAa box used to hold plant specimensVASE n pl VASESa rounded decorative containerVASELIKE adjVASEFUL n pl VASEFULSas much as a vase can holdVASIFORM adj having the form of a vaseVASOTOMY n pl VASOTOMIESa surgical cutting of the vas deferensVASSAL n pl VASSALSa person granted the use of land by a feudal lord in return for homage and allegianceVAST adj VASTER VASTESTof great extent or sizeVAST n pl VASTSa vast spaceVASTIER comparative of vastyVASTIEST superlative of vastyVASTITY n pl VASTITIESvastnessVASTLY adv to a vast extent or degreeVASTNESS n pl VASTNESSESthe quality or state of being vastVASTY adj VASTIER VASTIESTvastVAT v VATTED VATTING VATSto put into a vat a large container for holding liquidsVATFUL n pl VATFULSas much as a vat can holdVATIC adj pertaining to a prophetVATICAL adj vaticVATICIDE n pl VATICIDESthe killing of a prophetVATTED past tense of vatVATTING present participle of vatVATU n pl VATUSa monetary unit of VanuatuVAU n pl VAUSvavVAULT v VAULTED VAULTING VAULTSto provide with a vault an arched ceilingVAULTER n pl VAULTERSone that leapsVAULTING n pl VAULTINGSthe structure forming a vaultVAULTY adj VAULTIER VAULTIESTresembling a vaultVAUNT v VAUNTED VAUNTING VAUNTSto bragVAUNTER n pl VAUNTERSone that vauntsVAUNTFUL adj boastfulVAUNTIE adj boastfulVAUNTY adj vauntieVAV n pl VAVSa Hebrew letterVAVASOR n pl VAVASORSa highranking vassalVAVASORY n pl VAVASORIESthe estate of a vavasorVAVASOUR n pl VAVASOURSvavasorVAVASSOR n pl VAVASSORSvavasorVAW n pl VAWSvavVAWARD n pl VAWARDSthe foremost partVAWNTIE adj vauntyVEAL v VEALED VEALING VEALSto kill and prepare a calf for foodVEALER n pl VEALERSa calf raised for foodVEALY adj VEALIER VEALIESTimmatureVECTOR v VECTORED VECTORING VECTORSto guide in flight by means of radioed directionsVEDALIA n pl VEDALIASan Australian ladybugVEDETTE n pl VEDETTESa small boat used for scoutingVEE n pl VEESthe letter VVEEJAY n pl VEEJAYSan announcer on a program of music videosVEENA n pl VEENASvinaVEEP n pl VEEPSa vice presidentVEEPEE n pl VEEPEESveepVEER v VEERED VEERING VEERSto change directionVEERY n pl VEERIESa songbirdVEG v VEGGED VEGGING VEGES or VEGGESto spend time idlyVEGA n pl VEGASa large plain or valleyVEGAN n pl VEGANSone that eats only plant productsVEGANISM n pl VEGANISMSthe practice of eating only plant productsVEGETAL adj pertaining to plantsVEGETANT adj characteristic of plant lifeVEGETATE v VEGETATED VEGETATING VEGETATESto grow in the manner of a plantVEGETE adj healthyVEGETIST n pl VEGETISTSone that eats only plant productsVEGETIVE adj growing or capable of growingVEGGIE n pl VEGGIESa vegetableVEGIE n pl VEGIESveggieVEHEMENT adj ardentVEHICLE n pl VEHICLESa device used as a means of conveyanceVEIL v VEILED VEILING VEILSto provide with a veil a piece of sheer fabric worn over the faceVEILEDLY adv in a disguised mannerVEILER n pl VEILERSone that veilsVEILING n pl VEILINGSa veilVEILLESS adj not veiledVEILLIKE adj resembling a veilVEIN v VEINED VEINING VEINSto fill with veins tubular blood vesselsVEINAL adj of or pertaining to the veinsVEINER n pl VEINERSa tool used in wood carvingVEINIER comparative of veinyVEINIEST superlative of veinyVEINING n pl VEININGSa network of veinsVEINLESS adj having no veinsVEINLET n pl VEINLETSa small veinVEINLIKE adj resembling a veinVEINOUS adj having prominent veinsVEINULE n pl VEINULESvenuleVEINULET n pl VEINULETSvenuleVEINY adj VEINIER VEINIESTfull of veinsVELA pl of velumVELAMEN n pl VELAMINAa velumVELAR n pl VELARSa kind of speech soundVELARIUM n pl VELARIAan awning over an ancient Roman theaterVELARIZE v VELARIZED VELARIZING VELARIZESto pronounce with the back of the tongue touching the soft palateVELATE adj having a velumVELD n pl VELDSveldtVELDT n pl VELDTSa grassland of southern AfricaVELIGER n pl VELIGERSa larval stage of certain mollusksVELITES npl foot soldiers of ancient RomeVELLEITY n pl VELLEITIESa very low degree of desireVELLUM n pl VELLUMSa fine parchmentVELOCE adv rapidly  used as a musical directionVELOCITY n pl VELOCITIESrapidity of motionVELOUR n pl VELOURSa fabric resembling velvetVELOUTE n pl VELOUTESa type of sauceVELUM n pl VELAa thin membranous covering or partitionVELURE v VELURED VELURING VELURESto smooth with a velvet or silk pad as a hatVELVERET n pl VELVERETSa fabric resembling velvetVELVET n pl VELVETSa soft smooth fabricVELVETED adjVELVETY adj VELVETIER VELVETIESTresembling velvet in textureVENA n pl VENAEa veinVENAL adj open to briberyVENALLY advVENALITY n pl VENALITIESthe quality or state of being venalVENATIC adj pertaining to huntingVENATION n pl VENATIONSan arrangement of veinsVEND v VENDED VENDING VENDSto sellVENDABLE n pl VENDABLESvendibleVENDACE n pl VENDACESa European fishVENDEE n pl VENDEESa buyerVENDER n pl VENDERSvendorVENDETTA n pl VENDETTASa feud between two familiesVENDEUSE n pl VENDEUSESa saleswomanVENDIBLE n pl VENDIBLESa salable articleVENDIBLY adv salablyVENDOR n pl VENDORSa sellerVENDUE n pl VENDUESa public saleVENEER v VENEERED VENEERING VENEERSto overlay with thin layers of materialVENEERER n pl VENEERERSone that veneersVENENATE v VENENATED VENENATING VENENATESto poisonVENENE n pl VENENESveninVENENOSE adj poisonousVENERATE v VENERATED VENERATING VENERATESto revereVENEREAL adj involving the genital organsVENERY n pl VENERIESsexual intercourseVENETIAN n pl VENETIANSa flexible window screenVENGE v VENGED VENGING VENGESto avengeVENGEFUL adj seeking to avengeVENIAL adj easily excused or forgivenVENIALLY advVENIN n pl VENINSa toxin found in snake venomVENINE n pl VENINESveninVENIRE n pl VENIRESa type of judicial writVENISON n pl VENISONSthe edible flesh of a deerVENOGRAM n pl VENOGRAMSa roentgenogram of a veinVENOLOGY n pl VENOLOGIESthe study of veinsVENOM v VENOMED VENOMING VENOMSto inject with venom a poisonous secretion of certain animalsVENOMER n pl VENOMERSone that venomsVENOMOUS adj poisonousVENOSE adj venousVENOSITY n pl VENOSITIESthe quality or state of being venousVENOUS adj full of veinsVENOUSLY advVENT v VENTED VENTING VENTSto provide with a vent an opening for the escape of gas or liquidVENTAGE n pl VENTAGESa small openingVENTAIL n pl VENTAILSthe adjustable front of a medieval helmetVENTER n pl VENTERSthe abdomenVENTLESS adj having no ventVENTRAL n pl VENTRALSa fin located on the underside of a fishVENTURE v VENTURED VENTURING VENTURESto riskVENTURER n pl VENTURERSone that venturesVENTURI n pl VENTURISa device for measuring the flow of a fluidVENUE n pl VENUESthe locale of an eventVENULE n pl VENULESa small veinVENULAR VENULOSE VENULOUS adjVERA adj veryVERACITY n pl VERACITIESconformity to truthVERANDA n pl VERANDASa type of porchVERANDAH n pl VERANDAHSverandaVERATRIA n pl VERATRIASveratrinVERATRIN n pl VERATRINSa poisonous mixture of alkaloidsVERATRUM n pl VERATRUMSa poisonous herbVERB n pl VERBSa word used to express an act occurrence or mode of beingVERBAL n pl VERBALSa word derived from a verbVERBALLY adv in a spoken mannerVERBATIM adv word for wordVERBENA n pl VERBENASa flowering plantVERBIAGE n pl VERBIAGESan excess of wordsVERBID n pl VERBIDSa verbalVERBIFY v VERBIFIED VERBIFYING VERBIFIESto use as a verbVERBILE n pl VERBILESone whose mental imagery consists of wordsVERBLESS adj lacking a verbVERBOSE adj wordyVERBOTEN adj forbiddenVERDANCY n pl VERDANCIESthe quality or state of being verdantVERDANT adj green with vegetationVERDERER n pl VERDERERSan officer in charge of the royal forests of EnglandVERDEROR n pl VERDERORSverdererVERDICT n pl VERDICTSthe decision at the end of a legal proceedingVERDIN n pl VERDINSa small birdVERDITER n pl VERDITERSa blue or green pigmentVERDURE n pl VERDURESgreen vegetationVERDURED adjVERECUND adj shyVERGE v VERGED VERGING VERGESto come nearVERGENCE n pl VERGENCESa movement of one eye in relation to the otherVERGER n pl VERGERSa church officialVERGLAS n pl VERGLASESa thin coating of ice on rockVERIDIC adj truthfulVERIER comparative of veryVERIEST superlative of veryVERIFIER n pl VERIFIERSone that verifiesVERIFY v VERIFIED VERIFYING VERIFIESto prove to be trueVERILY adv in truthVERISM n pl VERISMSrealism in art or literatureVERISTIC adjVERISMO n pl VERISMOSverismVERIST n pl VERISTSone who practices verismVERITAS n pl VERITATEStruthVERITE n pl VERITESthe technique of filming so as to convey candid realismVERITY n pl VERITIEStruthVERJUICE n pl VERJUICESthe juice of sour or unripe fruitVERJUS n pl VERJUSESverjuiceVERMEIL n pl VERMEILSa red colorVERMES pl of vermisVERMIAN adj pertaining to wormsVERMIN n pl VERMINsmall common harmful or objectionable animalsVERMIS n pl VERMESa part of the brainVERMOULU adj eaten by wormsVERMOUTH n pl VERMOUTHSa liqueurVERMUTH n pl VERMUTHSvermouthVERNACLE n pl VERNACLESvernicleVERNAL adj pertaining to springVERNALLY advVERNICLE n pl VERNICLESveronicaVERNIER n pl VERNIERSan auxiliary scale used with a main scale to obtain fine measurementsVERNIX n pl VERNIXESa fatty substance covering the skin of a fetusVERONAL n pl VERONALSa sedative drugVERONICA n pl VERONICASa handkerchief bearing the image of Christs faceVERRUCA n pl VERRUCAS or VERRUCAEa wartVERSAL n pl VERSALSan ornate capital letter used to begin a verse or paragraphVERSANT n pl VERSANTSthe slope of a mountain or mountain chainVERSE v VERSED VERSING VERSESto versifyVERSELET n pl VERSELETSa short group of lines that form a unit in a poem or songVERSEMAN n pl VERSEMENone who versifiesVERSER n pl VERSERSa versemanVERSET n pl VERSETSa versicleVERSICLE n pl VERSICLESa short line of metrical writingVERSIFY v VERSIFIED VERSIFYING VERSIFIESto change from prose into metrical formVERSIN n pl VERSINSversineVERSINE n pl VERSINESa trigonometric function of an angleVERSING present participle of verseVERSION v VERSIONED VERSIONING VERSIONSto create a new account or description from a particular point of viewVERSO n pl VERSOSa lefthand page of a bookVERST n pl VERSTSa Russian measure of distanceVERSTE n pl VERSTESverstVERSUS prep againstVERT n pl VERTSthe heraldic color greenVERTEBRA n pl VERTEBRAS or VERTEBRAEany of the bones or segments forming the spinal columnVERTEX n pl VERTEXES or VERTICESthe highest point of somethingVERTICAL n pl VERTICALSsomething that is vertical extending up and downVERTICIL n pl VERTICILSa circular arrangement as of flowers or leaves about a point on an axisVERTIGO n pl VERTIGOES or VERTIGOS or VERTIGINESa disordered state in which the individual or his surroundings seem to whirl dizzilyVERTISOL n pl VERTISOLSa type of clayey soilVERTU n pl VERTUSvirtuVERVAIN n pl VERVAINSa flowering plantVERVE n pl VERVESvivacityVERVET n pl VERVETSan African monkeyVERY adj VERIER VERIESTabsoluteVESICA n pl VESICAEa bladderVESICAL adjVESICANT n pl VESICANTSa chemical warfare agent that induces blisteringVESICATE v VESICATED VESICATING VESICATESto blisterVESICLE n pl VESICLESa small bladderVESICULA n pl VESICULAEa vesicleVESPER n pl VESPERSan evening service prayer or songVESPERAL n pl VESPERALSa covering for an altar clothVESPIARY n pl VESPIARIESa nest of waspsVESPID n pl VESPIDSa waspVESPINE adj pertaining to waspsVESSEL n pl VESSELSa craft for traveling on waterVESSELED adjVEST v VESTED VESTING VESTSto place in the control ofVESTA n pl VESTASa short friction matchVESTAL n pl VESTALSa chaste womanVESTALLY adv chastelyVESTEE n pl VESTEESa garment worn under a womans jacket or blouseVESTIARY n pl VESTIARIESa dressing roomVESTIGE n pl VESTIGESa visible sign of something that is no longer in existenceVESTIGIA npl vestigesVESTING n pl VESTINGSthe right of an employee to share in and withdraw from a pension fund without penaltyVESTLESS adj being without a vestVESTLIKE adj resembling a vest a short sleeveless garmentVESTMENT n pl VESTMENTSone of the ceremonial garments of the clergyVESTRY n pl VESTRIESa room in which vestments are keptVESTRAL adjVESTURAL adj pertaining to clothingVESTURE v VESTURED VESTURING VESTURESto clotheVESUVIAN n pl VESUVIANSa mineralVET v VETTED VETTING VETSto treat animals medicallyVETCH n pl VETCHESa climbing plantVETERAN n pl VETERANSa former member of the armed forcesVETIVER n pl VETIVERSan Asian grassVETIVERT n pl VETIVERTSthe essential oil of the vetiverVETO v VETOED VETOING VETOESto forbid or prevent authoritativelyVETOER n pl VETOERSone that vetoesVETTED past tense of vetVETTER n pl VETTERSone that evaluates something for approvalVETTING present participle of vetVEX v VEXED or VEXT VEXING VEXESto annoyVEXATION n pl VEXATIONSa cause of troubleVEXEDLY adv in a vexed mannerVEXER n pl VEXERSone that vexesVEXIL n pl VEXILSvexillumVEXILLUM n pl VEXILLAthe web or vane of a featherVEXILLAR adjVEXINGLY adv in a vexing mannerVEXT a past tense of vexVIA prep by way ofVIABLE adj capable of livingVIABLY advVIADUCT n pl VIADUCTSa type of bridgeVIAL v VIALED VIALING VIALS or VIALLED VIALLING VIALSto put in a vial a small container for liquidsVIAND n pl VIANDSan article of foodVIATIC adj pertaining to travelingVIATICAL n pl VIATICALSa type of life insurance arrangementVIATICUM n pl VIATICUMS or VIATICAan allowance for traveling expensesVIATOR n pl VIATORES or VIATORSa travelerVIBE n pl VIBESa vibrationVIBIST n pl VIBISTSone who plays the vibraphoneVIBRANCE n pl VIBRANCESvibrancyVIBRANCY n pl VIBRANCIESthe quality or state of being vibrantVIBRANT n pl VIBRANTSa sonantVIBRATE v VIBRATED VIBRATING VIBRATESto move back and forth rapidlyVIBRATO n pl VIBRATOSa tremulous or pulsating musical effectVIBRATOR n pl VIBRATORSsomething that vibratesVIBRIO n pl VIBRIOSany of a genus of bacteria shaped like a commaVIBRIOID adjVIBRION n pl VIBRIONSvibrioVIBRISSA n pl VIBRISSAEone of the stiff hairs growing about the mouth of certain mammalsVIBRONIC adj pertaining to changes in molecular energy states resulting from vibrational energyVIBURNUM n pl VIBURNUMSa flowering shrubVICAR n pl VICARSa church officialVICARAGE n pl VICARAGESthe office of a vicarVICARATE n pl VICARATESvicarageVICARIAL adj pertaining to a vicarVICARLY adj vicarialVICE v VICED VICING VICESto viseVICELESS adj having no immoral habitsVICELIKE adj viselikeVICENARY adj pertaining to the number twentyVICEROY n pl VICEROYSone who rules as the representative of a sovereignVICHY n pl VICHIESa type of mineral waterVICINAGE n pl VICINAGESvicinityVICINAL adj nearbyVICING present participle of viceVICINITY n pl VICINITIESthe region near or about a placeVICIOUS adj dangerously aggressiveVICOMTE n pl VICOMTESa French noblemanVICTIM n pl VICTIMSone who suffers from a destructive or injurious actionVICTOR n pl VICTORSone who defeats an adversaryVICTORIA n pl VICTORIASa light carriageVICTORY n pl VICTORIESa successful outcome in a contest or struggleVICTRESS n pl VICTRESSESa female victorVICTUAL v VICTUALED VICTUALING VICTUALS or VICTUALLED VICTUALLING VICTUALSto provide with foodVICUGNA n pl VICUGNASvicunaVICUNA n pl VICUNASa ruminant mammalVID n pl VIDSa videoVIDALIA n pl VIDALIASa sweet onion of the southern USVIDE v see  used to direct a reader to another item VIDE is the only form of this verb it cannot be conjugatedVIDEO v VIDEOED VIDEOING VIDEOSto record visual images on magnetic tape or discVIDEOCAM n pl VIDEOCAMSa camera for recording images and usually soundVIDEOTEX n pl VIDEOTEXESan electronic system for transmitting data to a subscribers video screenVIDETTE n pl VIDETTESvedetteVIDICON n pl VIDICONSa type of television camera tubeVIDIOT n pl VIDIOTSa habitual undiscriminating viewer of televisionVIDUITY n pl VIDUITIESthe quality or state of being a widowVIE v VIED VYING VIESto strive for superiorityVIELLE n pl VIELLESa musical instrument played by turning a handleVIER n pl VIERSone that viesVIEW v VIEWED VIEWING VIEWSto look atVIEWABLE adjVIEWBOOK n pl VIEWBOOKSa promotional booklet with pictures that is published by a college or universityVIEWDATA n pl VIEWDATAa videotexVIEWER n pl VIEWERSone that viewsVIEWIER comparative of viewyVIEWIEST superlative of viewyVIEWING n pl VIEWINGSan act of seeing watching or lookingVIEWLESS adj having no opinionsVIEWPORT n pl VIEWPORTSa framed area on a display screen for viewing informationVIEWSHED n pl VIEWSHEDSthe natural environment visible from a viewing pointVIEWY adj VIEWIER VIEWIESTshowyVIFF v VIFFED VIFFING VIFFSto change direction abruptly of a vertical takeoff aircraftVIG n pl VIGSa vigorishVIGA n pl VIGASa ceiling beam in Spanish architectureVIGIA n pl VIGIASa warning on a navigational chartVIGIL n pl VIGILSa period of watchfulness maintained during normal sleeping hoursVIGILANT adj watchfulVIGNERON n pl VIGNERONSa winegrowerVIGNETTE v VIGNETTED VIGNETTING VIGNETTESto describe brieflyVIGOR n pl VIGORSactive strength or forceVIGORISH n pl VIGORISHESa charge paid to a bookie on a betVIGOROSO adv with emphasis and spirit  used as a musical directionVIGOROUS adj full of vigorVIGOUR n pl VIGOURSvigorVIHUELA n pl VIHUELASa type of early Spanish guitarVIKING n pl VIKINGSa Scandinavian pirateVILAYET n pl VILAYETSan administrative division of TurkeyVILE adj VILER VILESTmorally despicable or physically repulsiveVILELY advVILENESS n pl VILENESSESthe state of being vileVILIFIER n pl VILIFIERSone that vilifiesVILIFY v VILIFIED VILIFYING VILIFIESto defameVILIPEND v VILIPENDED VILIPENDING VILIPENDSto vilifyVILL n pl VILLSa villageVILLA n pl VILLAS or VILLAEan agricultural estate of ancient RomeVILLADOM n pl VILLADOMSthe world constituted by suburban residences and their occupantsVILLAGE n pl VILLAGESa small community in a rural areaVILLAGER n pl VILLAGERSone who lives in a villageVILLAGEY adj pertaining to or characteristic of a villageVILLAIN n pl VILLAINSa cruelly malicious personVILLAINY n pl VILLAINIESconduct characteristic of a villainVILLATIC adj ruralVILLEIN n pl VILLEINSa type of serfVILLUS n pl VILLIone of the hairlike projections found on certain membranesVILLOSE VILLOUS adjVIM n pl VIMSenergyVIMEN n pl VIMINAa long flexible branch of a plantVIMINAL adjVIN n pl VINSFrench wineVINA n pl VINASa stringed instrument of IndiaVINAL n pl VINALSa synthetic textile fiberVINASSE n pl VINASSESa residue left after the distillation of liquorVINCA n pl VINCASa flowering plantVINCIBLE adj capable of being conqueredVINCIBLY advVINCULUM n pl VINCULUMS or VINCULAa unifying bondVINCULAR adjVINDALOO n pl VINDALOOSa curried dish made with meat garlic and wineVINE v VINED VINING VINESto grow like a vine a climbing plantVINEAL adj vinousVINEGAR n pl VINEGARSa sour liquid used as a condiment or preservativeVINEGARY adjVINERY n pl VINERIESa place in which grapevines are grownVINEYARD n pl VINEYARDSan area planted with grapevinesVINIC adj derived from wineVINIER comparative of vinyVINIEST superlative of vinyVINIFERA n pl VINIFERASa European grapeVINIFY v VINIFIED VINIFYING VINIFIESto convert into wine by fermentationVINING present participle of vineVINO n pl VINOSwineVINOSITY n pl VINOSITIESthe character of a wineVINOUS adj pertaining to wineVINOUSLY advVINTAGE n pl VINTAGESa seasons yield of wine from a vineyardVINTAGER n pl VINTAGERSone that harvests wine grapesVINTNER n pl VINTNERSa wine merchantVINY adj VINIER VINIESTcovered with vinesVINYL n pl VINYLSa type of plasticVINYLIC adjVIOL n pl VIOLSa stringed instrumentVIOLA n pl VIOLASa stringed instrumentVIOLABLE adj capable of being violatedVIOLABLY advVIOLATE v VIOLATED VIOLATING VIOLATESto break or disregard the terms or requirements ofVIOLATER n pl VIOLATERSviolatorVIOLATOR n pl VIOLATORSone that violatesVIOLENCE n pl VIOLENCESviolent actionVIOLENT adj marked by intense physical force or roughnessVIOLET n pl VIOLETSa flowering plantVIOLIN n pl VIOLINSa stringed instrumentVIOLIST n pl VIOLISTSone who plays the viol or violaVIOLONE n pl VIOLONESa stringed instrumentVIOMYCIN n pl VIOMYCINSan antibioticVIPER n pl VIPERSa venomous snakeVIPERINE VIPERISH VIPEROUS adjVIRAEMIA n pl VIRAEMIASviremiaVIRAEMIC adjVIRAGO n pl VIRAGOS or VIRAGOESa noisy domineering womanVIRAL adj pertaining to or caused by a virusVIRALLY advVIRELAI n pl VIRELAISvirelayVIRELAY n pl VIRELAYSa medieval French verse formVIREMIA n pl VIREMIASthe presence of a virus in the bloodVIREMIC adjVIREO n pl VIREOSa small birdVIRES pl of visVIRGA n pl VIRGAS or VIRGAEwisps of precipitation evaporating before reaching groundVIRGATE n pl VIRGATESan early English measure of land areaVIRGER n pl VIRGERSvergerVIRGIN n pl VIRGINSa person who has never had sexual intercourseVIRGINAL n pl VIRGINALSa musical instrumentVIRGULE n pl VIRGULESa diagonal printing mark used to separate alternativesVIRICIDE n pl VIRICIDESa substance that destroys virusesVIRID adj verdantVIRIDIAN n pl VIRIDIANSa bluishgreen pigmentVIRIDITY n pl VIRIDITIESverdancyVIRILE adj having masculine vigorVIRILELY advVIRILISE v VIRILISED VIRILISING VIRILISESto virilizeVIRILISM n pl VIRILISMSthe development of male secondary sex characteristics in a femaleVIRILITY n pl VIRILITIESthe quality or state of being virileVIRILIZE v VIRILIZED VIRILIZING VIRILIZESto induce male characteristics in a femaleVIRION n pl VIRIONSa virus particleVIRL n pl VIRLSa metal ring or cap put around a shaft to prevent splittingVIROID n pl VIROIDSa viruslike plant pathogenVIROLOGY n pl VIROLOGIESthe study of virusesVIROSIS n pl VIROSESinfection with a virusVIRTU n pl VIRTUSa love or taste for the fine artsVIRTUAL adj having the effect but not the actual form of what is specifiedVIRTUE n pl VIRTUESmoral excellenceVIRTUOSA n pl VIRTUOSAS or VIRTUOSEa female virtuosoVIRTUOSO n pl VIRTUOSOS or VIRTUOSIa highly skilled artistic performerVIRTUOUS adj characterized by virtueVIRUCIDE n pl VIRUCIDESviricideVIRULENT adj extremely poisonousVIRUS n pl VIRUSESany of a class of submicroscopic pathogensVIRUSOID n pl VIRUSOIDSa particle of RNA associated with some plant virusesVIS n pl VIRESforce or powerVISA v VISAED VISAING VISASto put an official endorsement on as a passportVISAGE n pl VISAGESthe face or facial expression of a personVISAGED adjVISARD n pl VISARDSvizardVISCACHA n pl VISCACHASa burrowing rodentVISCERA pl of viscusVISCERAL adj pertaining to the internal organsVISCID adj thick and adhesiveVISCIDLY advVISCOID adj somewhat viscidVISCOSE n pl VISCOSESa viscous solutionVISCOUNT n pl VISCOUNTSa British noblemanVISCOUS adj having relatively high resistance to flowVISCUS n pl VISCERAan internal organVISE v VISED VISING VISESto hold in a vise a clamping deviceVISE v VISEED VISEING VISESto visaVISELIKE adj resembling a viseVISIBLE adj capable of being seenVISIBLY advVISION v VISIONED VISIONING VISIONSto imagineVISIONAL adj imaginaryVISIT v VISITED VISITING VISITSto go or come to see someone or somethingVISITANT n pl VISITANTSa visitorVISITER n pl VISITERSvisitorVISITING n pl VISITINGSthe act or an instance of visiting someone or somethingVISITOR n pl VISITORSone that visitsVISIVE adj visibleVISOR v VISORED VISORING VISORSto provide with a visor a projecting brimVISTA n pl VISTASa distant viewVISTAED adjVISUAL n pl VISUALSsomething that illustrates by pictures or diagramsVISUALLY adv with regard to sightVITA n pl VITAEa brief autobiographical sketchVITAL adj necessary to lifeVITALISE v VITALISED VITALISING VITALISESto vitalizeVITALISM n pl VITALISMSa philosophical doctrineVITALIST n pl VITALISTSan advocate of vitalismVITALITY n pl VITALITIESexuberant physical strength or mental vigorVITALIZE v VITALIZED VITALIZING VITALIZESto give life toVITALLY adv in a vital mannerVITALS npl vital organsVITAMER n pl VITAMERSa type of chemical compoundVITAMIN n pl VITAMINSany of various organic substances essential to proper nutritionVITAMINE n pl VITAMINESvitaminVITELLIN n pl VITELLINSa protein found in egg yolkVITELLUS n pl VITELLUSES or VITELLIthe yolk of an eggVITESSE n pl VITESSESspeedVITIATE v VITIATED VITIATING VITIATESto impair the value or quality ofVITIABLE adjVITIATOR n pl VITIATORSone that vitiatesVITILIGO n pl VITILIGOSa skin diseaseVITRAIN n pl VITRAINSthe material in the vitreous layers of banded bituminous coalVITREOUS n pl VITREOUSESthe jelly that fills the eyeballVITRIC adj pertaining to glassVITRICS npl the art of making or decorating glass articlesVITRIFY v VITRIFIED VITRIFYING VITRIFIESto convert into glassVITRINE n pl VITRINESa glass showcase for art objectsVITRIOL v VITRIOLED VITRIOLING VITRIOLS or VITRIOLLED VITRIOLLING VITRIOLSto treat with sulfuric acidVITTA n pl VITTAEa streak or band of colorVITTATE adjVITTLE v VITTLED VITTLING VITTLESto victualVITULINE adj pertaining to a calfVIVA n pl VIVASa shout or cry used to express approvalVIVACE n pl VIVACESa musical passage played in a brisk spirited mannerVIVACITY n pl VIVACITIESthe quality or state of being livelyVIVARIUM n pl VIVARIUMS or VIVARIAa place for raising and keeping live animalsVIVARY n pl VIVARIESvivariumVIVAT n pl VIVATSvivaVIVE interj  used as an exclamation of approvalVIVERRID n pl VIVERRIDSany of a family of small carnivorous mammalsVIVERS npl foodVIVID adj VIVIDER VIVIDESTstrikingly bright or intenseVIVIDLY advVIVIFIC adj vivifyingVIVIFIER n pl VIVIFIERSone that vivifiesVIVIFY v VIVIFIED VIVIFYING VIVIFIESto give life toVIVIPARA npl animals that bring forth living youngVIVISECT v VIVISECTED VIVISECTING VIVISECTSto dissect the living body ofVIXEN n pl VIXENSa shrewish womanVIXENISH VIXENLY adjVIZARD n pl VIZARDSa maskVIZARDED adjVIZCACHA n pl VIZCACHASviscachaVIZIER n pl VIZIERSa high official in some Muslim countriesVIZIR n pl VIZIRSvizierVIZIRIAL adjVIZIRATE n pl VIZIRATESthe office of a vizirVIZOR v VIZORED VIZORING VIZORSto visorVIZSLA n pl VIZSLASa Hungarian breed of dogVLEI n pl VLEISa hollow in South Africa in which water collectsVLOG v VLOGGED VLOGGING VLOGSto blog video materialVLOGGER n pl VLOGGERSone that vlogsVOCAB n pl VOCABSa vocabularyVOCABLE n pl VOCABLESa wordVOCABLY adv in a manner that may be voiced aloudVOCAL n pl VOCALSa sound produced with the voiceVOCALESE n pl VOCALESESa form of jazz singingVOCALIC n pl VOCALICSa vowel soundVOCALISE v VOCALISED VOCALISING VOCALISESto vocalizeVOCALISM n pl VOCALISMSthe act of vocalizingVOCALIST n pl VOCALISTSa singerVOCALITY n pl VOCALITIESpossession or exercise of vocal powersVOCALIZE v VOCALIZED VOCALIZING VOCALIZESto produce with the voiceVOCALLY adv with the voiceVOCATION n pl VOCATIONSthe work in which a person is regularly employedVOCATIVE n pl VOCATIVESa grammatical case used in some languagesVOCES pl of voxVOCODER n pl VOCODERSan electronic device used in transmitting speech signalsVODCAST v VODCAST or VODCASTED VODCASTING VODCASTSto make video files available for download over the InternetVODKA n pl VODKASa liquorVODOU n pl VODOUSvodunVODOUN n pl VODOUNSvodunVODUN n pl VODUNSa primitive religion of the West IndiesVOE n pl VOESa small bay creek or inletVOG n pl VOGSair pollution caused by volcanic emissionsVOGIE adj vainVOGUE v VOGUED VOGUING or VOGUEING VOGUESto imitate poses of fashion modelsVOGUEING n pl VOGUEINGSvoguingVOGUER n pl VOGUERSone that voguesVOGUING n pl VOGUINGSa dance consisting of a series of styled posesVOGUISH adj fashionableVOICE v VOICED VOICING VOICESto express or utterVOICEFUL adj sonorousVOICER n pl VOICERSone that voicesVOICING n pl VOICINGSthe tonal quality of an instrument in an ensembleVOID v VOIDED VOIDING VOIDSto make void of no legal force or effectVOIDABLE adjVOIDANCE n pl VOIDANCESthe act or process of voidingVOIDER n pl VOIDERSone that voidsVOIDNESS n pl VOIDNESSESthe quality or state of being voidVOILA interj  used to call attention to somethingVOILE n pl VOILESa sheer fabricVOLANT adj flying or capable of flyingVOLANTE adj moving with light rapidity  used as a musical directionVOLAR adj pertaining to flightVOLATILE n pl VOLATILESa winged creatureVOLCANIC n pl VOLCANICSa rock produced by a volcanoVOLCANO n pl VOLCANOS or VOLCANOESan opening in the earths crust through which molten rock and gases are ejectedVOLE v VOLED VOLING VOLESto win all the tricks in a card gameVOLERY n pl VOLERIESa large birdcageVOLITANT adj volantVOLITION n pl VOLITIONSthe power of choosing or determiningVOLITIVE adj pertaining to volitionVOLK n pl VOLKSthe Afrikaner peopleVOLLEY v VOLLEYED VOLLEYING VOLLEYSto return a tennis ball before it touches the groundVOLLEYER n pl VOLLEYERSone that volleysVOLOST n pl VOLOSTSan administrative district in RussiaVOLPLANE v VOLPLANED VOLPLANING VOLPLANESto glide in an airplaneVOLT v VOLTED VOLTING VOLTSto make a quick movement in fencing to avoid a thrustVOLTA n pl VOLTEa turningVOLTAGE n pl VOLTAGESelectromotive force expressed in voltsVOLTAISM n pl VOLTAISMSelectricity produced by chemical actionVOLTAIC adjVOLTE n pl VOLTESa fencing movementVOLTI v turn  used to direct musicians to turn the pageVOLUBLE adj talkativeVOLUBLY advVOLUME v VOLUMED VOLUMING VOLUMESto send or give out in large quantitiesVOLUMISE v VOLUMISED VOLUMISING VOLUMISESto volumizeVOLUMIZE v VOLUMIZED VOLUMIZING VOLUMIZESto give body to hairVOLUTE n pl VOLUTESa spiral architectural ornamentVOLUTED adjVOLUTIN n pl VOLUTINSa granular substance that is common in microorganismsVOLUTION n pl VOLUTIONSa spiralVOLVA n pl VOLVASa membranous sac that encloses certain immature mushroomsVOLVATE adjVOLVOX n pl VOLVOXESany of a genus of freshwater protozoaVOLVULUS n pl VOLVULUSES or VOLVULIa twisting of the intestine that causes obstructionVOMER n pl VOMERSa bone of the skullVOMERINE adjVOMICA n pl VOMICAEa cavity in the body containing pusVOMIT v VOMITED VOMITING VOMITSto eject the contents of the stomach through the mouthVOMITER n pl VOMITERSone that vomitsVOMITIVE n pl VOMITIVESan emeticVOMITO n pl VOMITOSthe black vomit of yellow feverVOMITORY n pl VOMITORIESan emeticVOMITOUS adj pertaining to vomitingVOMITUS n pl VOMITUSESvomited matterVOMITY adj resembling or smelling of vomitVOODOO v VOODOOED VOODOOING VOODOOSto hexVORACITY n pl VORACITIESthe quality or state of being ravenousVORLAGE n pl VORLAGESa position in skiingVORTEX n pl VORTEXES or VORTICESa whirling mass of fluidVORTICAL adjVOTABLE adj capable of being voted onVOTARESS n pl VOTARESSESa female votaryVOTARIST n pl VOTARISTSa votaryVOTARY n pl VOTARIESa person who is bound by religious vowsVOTE v VOTED VOTING VOTESto cast a vote a formal expression of will or opinionVOTEABLE adj votableVOTELESS adj having no voteVOTER n pl VOTERSone that votesVOTING present participle of voteVOTIVE n pl VOTIVESa small squat candleVOTIVELY adv in a manner expressing devotion or gratitudeVOTRESS n pl VOTRESSESvotaressVOUCH v VOUCHED VOUCHING VOUCHESto give ones personal assurance or guaranteeVOUCHEE n pl VOUCHEESone for whom another vouchesVOUCHER v VOUCHERED VOUCHERING VOUCHERSto establish the authenticity ofVOUDON n pl VOUDONSvodunVOUDOUN n pl VOUDOUNSvodunVOUSSOIR n pl VOUSSOIRSa wedgeshaped building stoneVOUVRAY n pl VOUVRAYSa French white wineVOW v VOWED VOWING VOWSto make a vow a solemn promiseVOWEL n pl VOWELSa type of speech soundVOWELED VOWELLED adjVOWELIZE v VOWELIZED VOWELIZING VOWELIZESto provide with symbols used to indicate vowelsVOWER n pl VOWERSone that vowsVOWLESS adj having made no vowVOX n pl VOCESvoiceVOXEL n pl VOXELSeach of an array of elements of volume in graphic simulationVOYAGE v VOYAGED VOYAGING VOYAGESto travelVOYAGER n pl VOYAGERSone that voyagesVOYAGEUR n pl VOYAGEURSa person employed by a fur company to transport goods between distant stationsVOYAGING n pl VOYAGINGSthe action of travelling over or across especially by seaVOYEUR n pl VOYEURSone who is sexually gratified by looking at sexual objects or actsVROOM v VROOMED VROOMING VROOMSto run an engine at high speedVROUW n pl VROUWSa Dutch womanVROW n pl VROWSvrouwVUG n pl VUGSa small cavity in a rock or lodeVUGG n pl VUGGSvugVUGGY adj VUGGIER VUGGIESTabounding in vugsVUGH n pl VUGHSvugVUGULAR adj pertaining to vugsVULCANIC adj pertaining to a volcanoVULGAR adj VULGARER VULGARESTcrudeVULGARLY advVULGAR n pl VULGARSa common personVULGATE n pl VULGATESthe common speech of a peopleVULGO adv commonlyVULGUS n pl VULGUSESan exercise in Latin formerly required of pupils in some English public schoolsVULN v VULNED VULNING VULNSto woundVULPINE adj pertaining to a foxVULTURE n pl VULTURESa bird of preyVULVA n pl VULVAS or VULVAEthe external genital organs of a femaleVULVAL VULVAR VULVATE adjVULVITIS n pl VULVITISESinflammation of the vulvaVUM interj  used to express surpriseVYING present participle of vieVYINGLY adv in a vying manner").
+```
+条目(waah, 感叹词, [], "用于表达哀号").
+入口(wab, n, [wabs], "一个网络").
+入口(摇晃, 动词, [摇晃了,正摇晃,摇晃], "摇动").
+entry(摇晃者, n, [摇晃者们], "摆动的人").
+entry(摇摆不定的, 形容词, [], "更摇摆不定的 最摇摆不定的 摇晃").
+entry(wack, 形容词, [], "WACKER WACKEST非常差").
+条目(怪人, n, [怪人们], "一个古怪的人").
+条目(灰岩, n, [灰岩], "一种玄武岩岩石类型").
+entry(被打, 形容词, [], "重击").
+```
+入口(疯子, 名词, [疯子们], "或者是疯癫的人").
+```
+entry(滑稽, 形容词, [], "更滑稽 最滑稽非常不理性滑稽地 副词").
+entry(wad, v, [wadded,wadding,wads], "将软材料的小团块形成一块").
+entry(可涉水的, adj, [], "wadeable").
+entry(wadder, n, [wadders], "垫入物").
+词条(瓦迪, n, [瓦迪们], "牛仔").
+entry(瓦迪, 过去, [], "waddy 的时态")。
+entry(waddies, 现在时, [], "waddy的第三人称单数").
+条目(填料, n, [填料们], "一团").
+entry(蹒跚, 动词, [蹒跚, 蹒跚着, 蹒跚着走], "用短而摇晃的步伐行走").
+被翻译的 Prolog 代码为：
+```prolog
+entry(蹒跚者, n, [蹒跚者们], "一个摇摇晃晃走路的人或动物").
+```
+entry(waddly, 形容词, [], "具有或呈现摇摆不定的步态").
+entry(waddy, v, [waddied,waddying,waddies], "用粗棒打击").
+条目(沃德, 动词, [跋涉中, 跋涉, 跋涉], "涉水而行").
+条目(可涉水, 形容词, [], "能够通过浸水而过").
+entry(跋涉者, n, [跋涉者们], "一个涉水而行的人").
+条目(干谷, 名词, [干谷], "通常干涸的河床").
+entry(河谷, 复数, [], "的 河谷")。
+entry(涉水, 现在时, [], "涉水的分词")。
+entry(粗呢, n, [粗呢s], "粗呢").
+entry(粗呢, n, [粗呢], "一种厚重的羊毛织物").
+entry(粗呢, n, [粗呢], "粗呢").
+条目(wadmol, n, [wadmols], "wadmal").
+entry(wadmoll, n, [wadmolls], "粗呢布").
+条目(抵押, 动词, [抵押, 抵押的, 抵押们], "抵押").
+entry(河床, 名词, [河床复数形式], "河床").
+entry(灾难, n, [灾难], "祸").
+入口(悲惨, 形容词, [], "悲惨").
+条目(waeness, n, [waenesses], "悲哀").
+entry(哎呀, 叹词, [], "哎呀").
+条目(waesucks, 感叹词, [], "用于表达同情").
+条目(晶圆, v, [焊接,焊接中,封装], "用粘合盘密封").
+条目(wafery, 形容词, [], "类似于威化薄脆饼干").
+entry(挥动, v, [挥动了,挥动着,挥动], "挥动").
+条目(waffie, n, [waffies], "流浪者")。
+```prolog
+entry(华夫饼, v, [华夫饼了, 华夫饼中, 华夫饼们], "含糊地或犹豫不决地说话").
+```
+entry(waffler, n, [wafflers], "犹豫不决者").
+entry(摇摆不定, n, [犹豫不决], "一个犹豫不决的声明或立场").
+entry(waffly, adj, [], "优柔寡断的").
+entry(飘荡, 动词, [飘荡着,飘荡中,飘荡], "轻轻地在空气或水面上移动").
+entry(漂浮术, n, [漂浮术], "漂浮的行为").
+入口(wafter, n, [wafters], "一个飘动的东西")。
+entry(挥动, n, [挥动], "飘动").
+```prolog
+entry(wag, v, [摇动的,摇晃的,摇动], "快速上下或来回移动").
+```
+entry(工资, v, [有薪的,进行中,工资], "从事或进行")。
+entry(无薪, 形容词, [], "未付").
+entry(赌注, v, [下注, 下赌, 打赌], "在不确定的结果上冒险").
+entry(赌徒, n, [赌徒们], "下注的人").
+entry(赌博, n, [赌注], "冒着风险对不确定结果的行动").
+entry(摇了, 过去式, [], "摇的时态")。
+条目(wagger, 名词, [waggers], "摇尾者").
+entry(戏谑, 名词, [戏谑行为], "戏谑行为").
+entry(摇摆, 现在, [], "摇的分词").
+entry(诙谐, 形容词, [], "戏谑的幽默").
+entry(摇摆, v, [摇摆过, 摇摆着, 摇摆们], "摇旗呐喊").
+entry(摇摆的, 形容词, [], "更摇摆的 最摇摆的不稳").
+入口 (马车, 动词, [乘马车, 乘马车中, 马车们], "乘马车").
+entry(车夫, n, [车夫们], "车夫").
+entry(进行, 现在, [], "工资的分词").
+入口(马车, v, [马车运送, 马车运送中, 马车], "用四轮马车运输").
+entry(货车运输, n, [货车运输], "马车运输").
+项(车夫, 名, [车夫们], "驾驶马车的人").
+entry(沃格桑姆, 形容词, [], "滑稽").
+entry(鶺鴒, n, [鶺鴒], "一种鸣禽")。
+entry(瓦康达, n, [瓦康达们], "瓦坎达").
+条目(瓦希尼, 名词, [瓦希尼斯], "夏威夷女人")。
+入口(鯨鯊, 名詞, [鯨鯊們], "一種開花灌木").
+`条目(遗弃, 动词, [遗弃了, 遗弃中, 遗弃们], "抛弃").`
+entry(瘦弱的, 形容词, [], "像孤儿").
+entry(似孤儿, 形容词, [], "类似于无家可归的孩子").
+入口(哀号, 动词, [哀号着, 哀号中, 哀号], "发出长时间的悲伤哭声")。
+entry(哀号者, n, [哀号者们], "哭号的人").
+entry(哀伤的, 形容词, [], "悲伤的").
+entry(悲啼的, 形容词, [], "悲号的").
+条目(瓦恩, 名词, [瓦恩斯], "一个大型敞篷马车")。
+entry(護墻板, v, [護墻板裝飾,護墻板裝修,護墻板裝飾的], "或 护墙板装饰 护墙板装修 护墙板装饰以用木板装饰墙壁").
+条目(wair, v, [waired,wairing,wairs], "花费")。
+entry(腰, n, [腰部], "身体在肋骨和臀部之间的部分腰身的形容词").
+词条(宽体水手, n, [宽体水手们], "驻扎在船中段的海员").
+词条(waisting, n, [waistings], "一种服装面料")。
+entry(等待, 动词, [等待了, 正在等待, 等待], "停留下来期盼某事发生")。
+入口(服务员, 动词, [服务了, 服务中, 服务员们], "在餐馆中作为男性服务员工作")。
+entry(等待, n, [等待们], "等待者的行为").
+entry(等待名单, v, [在等待名单上的,正在等待名单上的,等待名单], "放到等待的人员名单上")
+entry(女服务员, v, [担任女服务员,正在担任女服务员,担任女服务员们], "在餐厅担任女服务生的工作").
+entry(服务员, n, [服务员们], "餐厅的服务人员").
+entry(放弃, 动词, [放弃了, 放弃中, 放弃], "有意地放弃").
+entry(豁免, n, [豁免], "放弃某事的行为")。
+输入(裙带菜, 名词, [裙带菜], "一种原产于亚洲的褐色海藻")。
+条目(瓦坎达, n, [瓦坎达斯], "一种在苏族信仰中的超自然力量")
+entry(唤醒, 动词, [唤醒了, 已唤醒, 正在唤醒], "唤醒是从睡梦中唤起")。
+entry(警觉的, 形容词, [], "不睡觉或无法入睡").
+entry(无醒的, adj, [], "用于描述不间断的睡眠").
+entry(唤醒, v, [唤醒了, 唤醒中, 唤醒们], "唤醒").
+醒者(唤醒者, 名词, [唤醒者们], "唤醒他人的人")。
+entry(苏醒, n, [苏醒], "使某人醒来的动作或过程")
+entry(waker, n, [醒者], "唤醒者").
+entry(wakerife, 形容词, [], "清醒").
+entry(瓦基基, n, [瓦基基们], "南海群岛的贝壳货币").
+entry(清醒, n, [清醒], "醒着的状态").
+entry(鲸鱼, 动词, [鲸鱼的, 鲸鱼中, 鲸鱼们], "用痕迹标记")。
+entry(瓦勒, n, [瓦勒斯], "一种澳大利亚繁育的鞍马").
+entry(瓦利, n, [瓦利斯], "阿拉伯国家的省长").
+entry(瓦里, 复数, [], "瓦里的").
+```prolog
+entry(行走, 动词, [行走了, 行走中, 行走], "用脚推进 可行走的 形容词").
+```
+条目(走掉, 名词, [走掉们], "轻松的胜利").
+条目(沃克, 名词, [沃克们], "行走的人").
+entry(出去遛弯, 感叹词, [], "用于指挥狗准备散步").
+entry(步行, 名词, [步行的行为], "某人走路的行为").
+输入(罢工, n, [罢工], "工人的罢工").
+条目(不战而胜, n, [不战而胜], "一场轻松获胜").
+入口(走到尽头, n, [走到尽头], "一幢没有电梯的公寓大楼").
+入口（人行道，名词，[人行道]，"供行走的通道"）。
+entry(女武神, n, [女武神们], "瓦尔基里").
+entry(墙壁, v, [用墙围住,筑墙,围墙], "提供一面墙，一个用于围绕区域的竖直结构")
+条目(walla, 名词, [wallas], "wallah").
+条目(沙袋鼠, 名词, [沙袋鼠], "一种小袋鼠")。
+entry(苦力, n, [苦力们], "从事某项特定职业或活动的人").
+entry(大袋鼠, n, [大袋鼠们], "一种大型袋鼠").
+entry(钱包, n, [钱包], "一个平的折叠盒").
+entry(walley, n, [跳沃利], "一种花样滑冰中的跳跃动作").
+entry(梭鲈, n, [梭鲈鱼], "一种具有白色角膜的眼睛，斜视的 形容词").
+条目(wallie, n, [wallies], "一个男仆")。
+entry(沃利, 复数, [], "的沃利")。
+entry(重击, 动词, [重击了, 重击中, 重击], "狠狠地打").
+entry(痛打者, n, [痛打者们], "一个痛打他人的人").
+entry(打滚, v, [打滚了, 打滚中, 打滚], "翻滚").
+入口(沉迷者, 名词, [沉迷者们], "沉迷的人").
+entry(沃利, n, [沃利们], "沃利").
+entry(胡桃, 名词, [胡桃], "一种可食用的坚果").
+入口(海象, n, [海象们], "一种海洋哺乳动物")。
+entry(华尔兹, v, [华尔兹舞过, 华尔兹舞着, 华尔兹舞], "跳交谊舞").
+entry(华尔兹者, n, [华尔兹者们], "跳华尔兹的人").
+entry(waly, n, [walies], "视觉上令人愉悦的东西").
+`entry(踉跄, v, [踉跄着,踉跄着,踉跄], "不稳地移动").`
+entry(wambly, adj, [], "摇摆不定的").
+entry(肚子, n, [肚子们], "the belly").
+entry(wamefou, n, [wamefous], "满腹").
+entry(wameful, n, [wamefuls], "wamefou").
+entry(wammus, n, [wammuses], "獺熊").
+entry(掷抛, 动词, [掷抛过, 正在掷抛, 掷抛们], "投掷来回").
+条目(贝珠, 名词, [贝珠], "一种曾被美洲原住民使用的货币形式")
+entry(wampus, n, [wampuses], "wamus").
+entry(黄鼬, 名, [黄鼬们], "厚重的外套夹克").
+entry(万, 形容词, [], "最苍白").
+entry(苍白, v, [苍白了, 变苍白, 变得苍白], "开始变得苍白").
+entry(魔杖, n, [魔杖], "一根细长的杆").
+entry(漫游, v, [漫游了, 漫游中, 漫游], "移动而没有目的地或目的")。
+entry(流浪者, 名词, [流浪者们], "一个四处游荡的人").
+入口(獴猴, 名词, [獴猴们], "一种亚洲猴子").
+entry(旺德尔, 形容词, [], "柔软").
+entry(减少, 动词, [减少了,减少中,减少], "减小或缩小").
+entry(waney, 形容词, [], "WANIER WANIESTwany").
+entry(万安, n, [万安们], "货车").
+条目(获取, 动词, [获取了, 获取中, 获取], "通过计谋获得或完成")。
+条目(万格勒, 名词, [万格勒们], "一个耍诡计的人")。
+entry(wangun, n, [wanguns], "棚子").
+```prolog
+entry(wanier, 比较级, [], "of waney and wany").
+```
+```prolog
+条目(最贫弱的, 最高级, [], "从贫弱和虚弱"). 
+```
+entry(工棚, n, [工棚们], "在伐木营地使用的物资箱").
+entry(亏缺, 现在, [], "wane 的分词").
+entry(怨恨, n, [怨恨们], "复仇").
+entry(忧郁地, 副词, [], "以忧郁的方式").
+条目(模仿者, n, [模仿者们], "想成为像其他人的人").
+条目(效仿者, 名词, [], "WANNABEESwannabe").
+entry(想要, 过去, [], "想要的时态").
+entry(wanner, 比较级, [], "苍白的").
+entry(苍白, n, [苍白], "苍白的质量").
+入口(最温柔的, 最高级, [], "的苍白")。
+entry(万尼根, n, [万尼根斯], "万尼根")。
+entry(万宁, 现在时, [], "wan 的分词").
+条目(想, 动词, [想要,想想,想要], "有一种渴望").
+entry(沃坦奇, n, [沃坦奇们], "缺少的东西").
+entry(想要者, n, [想要者们], "想要的人").
+entry(放荡, v, [放荡了, 放荡着, 放荡], "行为不道德").
+entry(淫荡者, n, [淫荡者们], "一个放肆的人").
+entry(放肆地, 副词, [], "不道德地").
+`entry(wany, adj, [], "WANIER WANIESTwaning in some parts").`
+入口(瓦普, 动词, [已瓦普, 在瓦普, 瓦普], "包裹").
+条目(麋鹿, n, [麋鹿群], "一种大型鹿")。
+entry(战争, v, [战争着, 战争中, 战争], "从事战争，一种公开武装冲突的状态")
+入口(战鸟, 名词, [战鸟], "一架复古军用飞机")。
+entry(颤音, v, [颤音过,正在颤音,颤音的], "带有旋律装饰的歌唱").
+入口(黄莺, 名词, [黄莺们], "唱歌者")。
+entry(warbly, 形容词, [], "以颤音或颤抖的方式发声").
+entry(魔兽争霸, n, [魔兽争霸们], "战争的艺术").
+entry(ward, v, [warded,warding,wards], "避开").
+entry(监狱长, n, [监狱长们], "监狱的首席官员").
+entry(典狱官职, n, [典狱官职们], "典狱官的职务").
+entry(看守者, n, [看守者们], "守卫某物的人").
+entry(无锁片, 形容词, [], "没有锁壳的一部分").
+entry(女监护人, n, [女监护人们], "女性看守员").
+入口(衣橱, n, [衣橱], "一组服装").
+entry(衣柜, v, [衣柜了,衣柜着,衣柜们], "提供一系列衣物").
+entry(舰艇军官餐厅, n, [舰艇军官餐厅], "军舰上供军官使用的餐厅").
+entry(监护权, n, [监护权], "处于监护人之下的状态").
+entry(小心, 动词, [小心了, 小心中, 小心们], "要当心").
+entry(库房, n, [库房], "用于展示销售商品的房间")
+```prolog
+entry(盗版软件, n, [盗版软件], "非法复制的软件").
+```
+entry(战争, n, [战争行为], "参与战争的行为").
+entry(华法林, n, [华法林们], "一种化学化合物").
+entry(军事游戏, v, [军事游戏过,军事游戏中,军事游戏], "参与模拟军事冲突").
+entry(wargamer, n, [兵棋推演者], "进行兵棋推演的人").
+entry(弹头, n, [弹头], "导弹的前部，包含爆炸物").
+entry(军马, 名词, [军马], "一部过度演出的音乐或戏剧作品")
+entry(警惕的, 比较级, [], "的警觉").
+entry(最警惕的, 最高级, [], "警惕的").
+词条(小心翼翼地, 副词, [], "以谨慎的方式").
+entry(警惕, n, [警惕性], "谨慎的状态")
+```prolog
+条目(警告, 现在, [], "ware的分词").
+```
+入口(纷争, 名词, [纷争], "攻击的号角").
+entry(wark, v, [warked,warking,warks], "忍受疼痛")。
+entry(沒有戰爭, 形容詞, [], "沒有戰爭").
+entry(好战, 形容词, [], "倾向于从事战争").
+entry(术士, n, [术士们], "巫师").
+entry(军阀, n, [军阀], "好战民族的军事实力领导者")。
+entry(温暖, adj, [], "WARMER WARMESTmoderately hot").
+入口(温暖, 动词, [变暖, 逐渐变暖, 使变暖], "使温暖").
+entry(战争者, n, [战争者们], "发动战争的人").
+条目(加热器, 名词, [加热器], "加热的东西").
+条目(变暖, n, [变暖们], "使某事物变暖的行为或实例")。
+```prolog
+entry(微暖, 形容词, [], "有些温暖").
+```
+入口(热情地, 副词, [], "以温暖的方式").
+条目(温暖, 名词, [温暖性], "温暖的状态")。
+条目(暖口鱼, n, [暖口鱼], "一种淡水鱼").
+项(温暖, 名词, [温暖们], "温暖").
+entry(热身, n, [热身运动], "准备性练习或程序").
+entry(警告, v, [已警告,警告中,警告], "使人意识到即将到来的或可能的危险").
+entry(warner, n, [warners], "发出警告的人").
+入口(警告, n, [警告们], "某物提示").
+入口(扭曲, 动词, [扭曲了, 扭曲中, 扭曲们], "使弯曲或扭曲变形")。
+条目(翘曲, 名词, [翘曲现象], "翘曲的行为")。
+entry(战妆, n, [战妆], "用于在战斗前装饰面部和身体的颜料").
+entry(战争之路, n, [战争之路], "被攻击的美洲原住民采取的路线")。
+entry(经纶者, n, [经纶者们], "扭曲的东西")
+entry(战斗机, n, [战斗机们], "一种用于战斗的武装飞机").
+entry(战争权力, n, [战争权力], "发动战争的权力").
+entry(垂直方向, 副词, [], "垂直方向").
+入口(瓦拉加尔, 名词, [瓦拉加尔们], "瓦拉加尔")。
+entry(凭证, v, [有凭证, 正在凭证, 凭证多个], "给予权威").
+entry(保修, v, [保修的, 保修中, 保修], "提供书面保证").
+entry(战争, 过去, [], "战争的时态").
+入口(瓦伦, n, [瓦伦斯], "兔子居住和繁殖的地方")。
+entry(养兔者, n, [养兔者们], "养兔场的看守者").
+entry(野狗, n, [野狗们], "一种澳洲野狗").
+entry(交战, 现在, [], "战争的分词").
+entry(战士, n, [战士们], "参与或经验丰富的战争人员")
+entry(华沙, 阳性, [华沙的], "一种海洋鱼类")。
+entry(军舰, n, [军舰], "装备用于战斗的船只").
+条目(摔跤, v, [摔跤过,摔跤着,摔跤们], "摔跤").
+entry(摔角选手, 名词, [摔角选手们], "一个摔跤手").
+一项(warstle, 动词, [被摔跤,正在摔跤,摔跤], "摔跤").
+entry(瓦斯特勒, 名词, [摔跤手], "一个摔跤手").
+entry(疣, n, [疣], "皮肤上的一个突起WARTED 形容词").
+entry(疣猪, n, [疣猪], "一种非洲野猪").
+条目(wartier, 比较级, [], "of warty").
+entry(最多疣的, 最高级, [], "的疣").
+entry(战争时期, n, [战争时期], "战争的时期").
+entry(无疣的, 形容词, [], "没有疣的").
+entry(疣状, 形容词, [], "类似于疣").
+词条(warty, 形容词, [], "长疣的").
+entry(战争工作, n, [战争工作们], "战争期间完成的工作").
+战争磨损的
+条目(警惕的, 形容词, [], "较警惕的 最警惕的警觉的").
+entry(是, 第一, [], "和 第三 人称 单数 过去 陈述 的 be")。
+条目(山葵, n, [山葵], "一种辛辣的香草").
+```prolog
+entry(洗, v, [洗了,洗着,洗], "通过浸入或涂抹液体来清洗").
+```
+```prolog
+entry(可洗的, 名词, [可洗物品], "可以在不损坏的情况下清洗的东西").
+```
+`entry(washbag, n, [洗漱包], "旅途中携带洗漱用品的小包").`
+entry(洗脸盆, n, [洗脸盆们], "用于洗涤自己的盆").
+entry(洗衣日, n, [洗衣日], "为洗衣服预留的一天").
+entry(洗衣机, n, [洗衣机们], "一个洗东西的东西").
+entry(洗表, 比较级, [], "的 洗涤").
+entry(最洗的, 最高级, [], "洗的").
+条目(洗涤, n, [洗涤物], "已洗或待洗的物品").
+条目(冲刷, 名词, [冲刷], "水的作用导致的土壤侵蚀").
+条目(洗脸布, n, [洗脸布], "用于洗脸的小布").
+入口（卫生间, n, [卫生间们], "一个厕所"）。
+条目(洗衣桶, 名词, [洗衣桶们], "用于洗衣服的桶").
+`条目(洗涤, n, [洗涤], "清洗干净的行为")。`
+entry(稀释的, 形容词, [], "更稀释的 最稀释的过度稀释").
+entry(黄蜂, n, [黄蜂], "一种会刺人的昆虫，带有黄蜂般的性格，形容词").
+entry(黄蜂状, adj, [], "更像黄蜂的 最像黄蜂的 类似黄蜂 黄蜂状地 adv").
+entry(祝酒, 动词, [祝过酒, 正在祝酒, 祝酒], "为健康而饮酒").
+条目(wast, n, [wasts], "西").
+entry(可浪费的, 形容词, [], "能够被浪费的").
+entry(浪费, n, [浪费物], "被浪费的东西").
+入口(浪费, 动词, [浪费了,浪费中,浪费掉], "轻率地使用")。
+entry(浪费的, 形容词, [], "倾向于浪费").
+entry(荒地, n, [荒地复数], "一个空地")。
+entry(浪费者, n, [浪费者们], "浪费的人").
+entry(浪费, n, [浪费行为], "浪费").
+entry(浪费, 名词, [浪费行为], "浪费").
+entry(排水道, n, [排水道], "用于多余水的通道").
+条目(浪费, 现在时, [], "waste的分词").
+entry(败家子, n, [败家子们], "挥霍的人").
+entry(wastrie, n, [wastries], "奢侈").
+条目(浪费, n, [浪费行为], "鲁莽的奢侈")。
+`entry(wat, adj, [], "WATTER WATTESTwet").`
+entry(兔子, n, [兔子们], "一种野兔")。
+条目(watap, n, [wataps], "由各种树的根制成的线").
+条目(羡慕, 名词, [羡慕们], "羡慕").
+entry(观察, 动词, [观察了, 正在观察, 观察们], "仔细观察").
+entry(口令, n, [口令], "密码").
+entry(看門狗, v, [看門狗了, 看門狗着, 看門狗們], "作為監護人").
+入口(观察者, n, [观察者们], "一个观察的").
+entry(注视眼, n, [注视眼], "一种白斑鱼").
+entry(警觉的, 形容词, [], "密切观察或警惕").
+entry(守卫, n, [守卫们], "一个被雇佣来站岗的男人")
+入口(注意, n, [注意事项], "留意某事的行为")。
+条目(水, 动词, [浇水中,浇水,浇水们], "洒水，一种无色无味的透明液体")。
+entry(水运, n, [水运], "通过水进行货物运输").
+entry(水床, n, [水床], "一种床，床垫是一种装满水的塑料袋").
+```
+入口(水上巴士, n, [水上巴士], "或WATERBUSSES一种用于载客的大型机动船")。
+```
+条目(水狗, 名词, [水狗们], "一种大型蝾螈")。
+entry(浇水者, n, [浇水者们], "负责浇水的人").
+entry(水鸡, n, [水鸡们], "美洲秧鸡").
+条目(水ier, 比较级, [], "水的").
+entry(最水的, 最高级, [], "水的").
+entry(像水一般, 副词, [], "以一种水样的方式").
+entry(浇水, n, [浇水], "浇水者的行为")。
+entry(水状, 形容词, [], "watery").
+entry(水射流, n, [水射流], "通过小孔强行喷出的水流").
+```prolog
+入口(水涝, 动词, [水涝过, 正在水涝, 水涝], "浸泡在水中")。
+```
+entry(滑铁卢, n, [滑铁卢], "决定性的失败").
+entry(水手, n, [水手们], "船夫")。
+词条(水橇, 名词, [水橇], "用于水上滑雪的滑雪板").
+入口（水路，n，[水路]，“可通航的水体”）。
+条目(水汪汪的, 形容词, [], "较水汪汪的 最水汪汪的含水").
+entry(瓦特, n, [瓦特], "功率单位").
+entry(瓦数, n, [瓦数], "以瓦为单位的功率量").
+入口（wattape，n，[wattapes]，“watap”）。
+entry(水, 比较级, [], "如水").
+entry(最热, 最高级, [], "多少的").
+entry(瓦时, n, [瓦时], "能量单位").
+entry(编织, 动词, [编织过的, 编织中, 编织物], "编织成网络").
+entry(无功, 形容词, [], "表示一种电流类型").
+entry(waucht, v, [wauchted,wauchting,wauchts], "喝").
+```prolog
+entry(waugh, 形容词, [], "潮湿").
+```
+entry(waught，v，[waughted，waughting，waughts]，"深酌")。
+入口(wauk, v, [wauked,wauking,wauks], "唤醒").
+entry(猫叫, v, [猫叫过,猫叫着,猫叫], "像猫一样的哭泣").
+entry(waur, 形容词, [], "worse").
+entry(波浪, v, [波动, 挥动, 波动们], "自由地来回移动或上下移动").
+条目(波段, n, [波段], "一组无线电频率范围").
+entry(波形, n, [波形], "一种数学图形").
+entry(无波, 形容词, [], "没有在液体表面移动的波浪").
+条目(小波, n, [小波], "一个小波").
+entry(波状, 形容词, [], "类似于波浪").
+entry(拒降, n, [拒降], "拒绝降落许可给正在靠近的飞机的行为").
+条目(摇摆, 动词, [摇摆过, 摇摆中, 摇摆], "来回移动").
+entry(动摇者, n, [动摇者们], "摇摆不定的人").
+entry(wavery, adj, [], "摇摆不定的").
+```prolog
+条目(波浪y, n, [波浪ys], "雪雁").
+```
+```prolog
+entry(波粒, n, [波粒们], "一种亚原子粒子，可以表现得像波和粒子").
+```
+entry(起伏, 比较级, [], "的波浪").
+entry(波浪形, 复数, [], "波浪形的").
+entry(最波浪的, 最高级, [], "波浪的").
+entry(波浪状地, 副词, [], "以波浪的方式").
+条目(波浪状, n, [波浪状], "波浪的状态")。
+entry(挥手, 现在, [], "wave 的分词").
+`词条(波浪, 形容词, [], "更波浪的 最波浪的")。`
+entry(波浪形, n, [波浪形们], "波浪状").
+条目(waw, n, [waws], "vav").
+entry(哇哇叫, v, [哇哇叫了, 哇哇叫着, 哇哇叫], "哇哇叫").
+条目(蜡, 动词, [打蜡, 上蜡, 蜡], "用蜡涂层一种对热敏感的天然物质WAXABLE 形容词").
+entry(杨梅, n, [杨梅], "一种有蜡质涂层的浆果").
+条目(梅花雀, 名词, [梅花雀们], "一种热带鸟").
+entry(蜡制的, 形容词, [], "覆盖着蜡的").
+entry(打蜡工, n, [打蜡工人], "一个给东西打蜡的人").
+entry(更像蜡的, 比较级, [], "像蜡的").
+entry(最蜡的, 最高级, [], "蜡状的").
+entry(蜡状地, 副词, [], "以蜡状的方式").
+entry(蜡质, n, [蜡质·复数], "蜡状的特性").
+entry(增长, n, [增长], "一个增加的行为").
+entry(蜡状, 形容词, [], "类似于蜡").
+entry(蜡植物, n, [蜡植物], "一种热带植物").
+entry(蜡草, n, [蜡草], "一种一年生草本植物").
+条目(太平鸟, 名词, [太平鸟], "一种雀形目鸟类").
+entry(蜡像, n, [蜡像馆], "用蜡制成的人形").
+entry(蜡虫, n, [蜡虫], "一种侵扰蜂巢的蛾子").
+条目(蜡状的, 形容词, [], "更蜡的 最蜡的 类似于蜡").
+entry(方式, 名词, [方式], "做某事的方法").
+entry(wayang, n, [wayangs], "包含人偶或人类舞者的表演").
+运单条目(waybill, n, [运单], "与货物运输相关的商品清单")。
+`条目(行者, n, [行者们], "一个旅行者").`
+entry(离去, n, [离去], "离开的行为").
+entry(伏击, v, [伏击了,伏击中,伏击], "埋伏").
+entry(waylayer, n, [拦截者], "one that waylays").
+entry(无路, 形容词, [], "没有道路或路径").
+entry(路标, n, [路标], "为旅行者提供指导的物体").
+条目(航点, n, [航点], "沿着路线在主要点之间的一个点")。
+入口(路边, n, [路边], "道路的一侧").
+entry(wayward, 形容词, [], "任性").
+entry(疲惫不堪, 形容词, [], "因旅行而疲惫").
+条目(我们, 代词, [], "主格中的第一人称复数代词")。
+entry(虚弱, 形容词, [], "较弱 最弱 缺乏力量").
+`入口(削弱, v, [削弱了,正在削弱,削弱], "使弱").`
+entry(削弱者, n, [削弱者们], "使变弱的人").
+条目(虱目鱼, 名词, [虱目鱼们], "一种海鱼").
+entry(微弱, 形容词, [], "有点弱").
+entry(弱者, n, [弱者们], "一个虚弱的人").
+entry(虚弱地, 形容词, [], "更虚弱 最虚弱虚弱和病态").
+entry(虚弱, n, [weaknesses], "虚弱状态").
+条目(弱子, n, [弱子们], "一种亚原子粒子").
+入口(弱侧, 名词, [弱侧], "篮球场上球员较少的一侧").
+entry(weal, n, [weals], "鞭痕").
+entry(荒地, 名词, [荒地们], "一个林地").
+entry(财富, n, [财富], "大量有价值的物质").
+entry(富裕, 形容词, [], "更富有 最富有 拥有财富").
+条目(断奶, 动词, [断奶了, 断奶中, 断奶], "停止母乳喂养并用其他食物代替").
+entry(断奶者, n, [断奶者们], "断奶的人").
+entry(幼崽, n, [幼崽们], "a recently weaned child or animal").
+entry(武器, v, [装备了武器, 正在装备武器, 武器], "用一种用于战斗的工具来装备").
+entry(武器, n, [武器库], "武器的集合").
+entry(穿, 动词, [穿过, 穿着, 穿戴], "穿在某人身上")。
+entry(可穿戴设备, n, [可穿戴设备], "衣服").
+条目(穿戴者, n, [穿戴者们], "穿某物的人").
+wearied(过去, [], "疲惫的时态").
+entry(较为疲倦, 比较级, [], "的疲倦").
+entry(穿倦, 现在时, [], "倦怠的第三人称单数").
+词条(穿戴, 形容词, [], "累人的").
+entry(乏味, 形容词, [], "无味").
+```prolog
+entry(疲倦, 形容词, [], "WEARIER WEARIEST疲惫WEARILY 副词").
+```
+entry(疲倦, v, [使疲倦, 变得疲倦, 疲倦], "使或变得疲倦").
+入口(weasand, n, [weasands], "喉咙").
+entry(黄鼠狼, 动词, [黄鼠狼过, 黄鼠狼着, 黄鼠狼们], "或 黄鼠狼过 黄鼠狼着 黄鼠狼们 去采取规避行动").
+entry(黄鼠狼似的, 形容词, [], "类似于黄鼠狼的小型食肉哺乳动物")
+entry(鼬鼠似的, 形容词, [], "weaselly").
+entry(weason, n, [weasons], "weasand").
+entry(weather, v, [经受风化, 经受风化中, 经受风化已], "暴露于大气条件下").
+entry(编织, 动词, [编织, 编织, 编织中], "WEAVESto 通过交织线形成").
+entry(织工, n, [织工们], "编织的人").
+entry(纺织, n, [纺织品], "创造编织材料的活动").
+entry(weazand, n, [weazands], "食管").
+输入(网络, v, [有网, 织网, 网络], "提供一个网状的交织织物或结构")。
+entry(织带, n, [织带], "一条纤维编织带").
+entry(webby, 形容词, [], "更像网 最像网").
+条目(网络摄像头, 名词, [网络摄像头们], "用于通过全球信息网传输实时图像的相机")。
+entry(网络直播, v, [网络直播, 网络直播中, 网络直播], "通过万维网传输声音和图像").
+条目(weber, 名词, [weber的复数形式], "一种磁通量的单位").
+entry(webfed, adj, [], "设计用于打印一整卷纸").
+条目(蹼足, n, [蹼足], "一个脚趾间有膜连接的脚").
+条目(网络研讨会, n, [网络研讨会], "在网站上进行的实时互动教育演示文稿")。
+entry(webisode, n, [网络剧集], "可以在网站上观看的电视节目的一集").
+entry(无网, 形容词, [], "没有网").
+entry(网络状, 形容词, [], "类似于网").
+entry(博客, n, [博客], "包含在线个人日志的网站")。
+entry(网页, n, [网页], "万维网上的单一文档").
+entry(网站, n, [网站], "由个人或组织维护的一组互联网页") .
+条目(韦伯斯特, n, [韦伯斯特的], "织工").
+entry(webwork, n, [网络结构], "类似网络的图案或结构").
+入口(网虫, 名词, [网虫], "一个结网的毛毛虫")。
+entry(webzine, n, [网络杂志], "在互联网上出版的杂志").
+入口(重量, 名词, [权重], "重量").
+entry(周三, 动词, [结婚, 婚礼, 结婚S], "结婚").
+条目(嫁者, 名词, [嫁者们], "一个成婚的人").
+entry(婚礼, n, [婚礼], "婚礼仪式").
+条目(韦德尔, 动词, [韦德尔了, 韦德尔中, 韦德尔们], "执行一种韦德尔运动")。
+entry(摆动, n, [摆动], "一种滑雪技术").
+entry(楔子, v, [楔入,楔入中,楔入们], "用楔子分开一块木头或金属的尖端部分").
+条目(松糕鞋, n, [松糕鞋们], "一种女性鞋款").
+条目(楔形, 形容词, [], "更楔形 最楔形，类似于楔子")。
+entry(婚姻, n, [婚姻关系], "结婚的状态").
+入口(wee, 形容词, [], "非常小").
+条目(wee, 动词, [weed, weeing, wees], "小便").
+entry(杂草, 动词, [杂草了, 除草, 杂草], "去除不需要的植物").
+条目(杂草区, 名词, [杂草区], "水体中有许多杂草的区域").
+条目(除草器, 名词, [除草器们], "除草的人").
+entry(weedier, 比较级, [], "of weedy").
+entry(weediest, 最高级, [], "weedy的").
+entry(杂草般地, 副词, [], "用一种杂草般的方式").
+entry(weedless, 形容词, [], "没有杂草").
+entry(weedlike, 形容词, [], "类似杂草").
+入口(weedline, n, [weedlines], "水草床的边缘")。
+entry(weedy, 形容词, [], "更杂草的 最杂草的 似杂草的").
+条目(周, n, [周数], "一个七天的周期")。
+entry(工作日, n, [工作日], "星期六和星期日除外的任何一天").
+entry(周末, v, [周末过了,周末进行中,周末], "度过周末，周末结束").
+entry(weeklong, 形容词, [], "持续一周").
+entry(每周, n, [周刊], "每周发行一次的出版物").
+entry(weel, 形容词, [], "好").
+条目(ween, v, [weened, weening, weens], "假设")。
+entry(维尼, n, [维尼们], "一个维纳").
+入口(weensy, 形容词, [], "更微小 最微小微小").
+```prolog
+entry(细小, 形容词, [], "更细小 最细小tiny").
+```
+entry(哭泣, v, [哭了,哭泣着,哭泣], "通过流泪表达悲伤").
+entry(哭泣者, n, [哭泣者们], "那些哭泣的人").
+entry(weepie, n, [weepies], "非常感伤的电影").
+entry(哭泣, n, [哭泣], "哭泣者的行为").
+条目(weepy, 形容词, [], "更易流泪 最易流泪 易流泪 WEEPILY 副词")。
+entry(weer, comparative, [], "of wee").
+entry(极小的, 最高级, [], "的极小").
+entry(知道, v, [知道了,知道着,知道们], "了解").
+entry(鮋魚, n, [鮋魚們], "海洋魚").
+entry(象鼻虫, n, [象鼻虫们], "一种小甲虫").
+entry(weewee, v, [weeweed, weeweeing, weewees], "小便").
+条目(纬纱, n, [纬纱], "一种编织的织物或衣物").
+entry(纬向, 副词, [], "水平方向").
+```prolog
+entry(锦带花, n, [锦带花], "一种开花灌木").
+```
+```prolog
+entry(锦带花, n, [锦带花属], "锦带花").
+```
+entry(称重, v, [称了重,称重中,称重], "确定重量").
+entry(称量者, n, [称量者们], "承担称重任务的人").
+entry(称重员, n, [称重员们], "工作是称重货物的人").
+entry(weight, v, [加权, 加重, 重量], "添加重量").
+entry(称重者, n, [称重者们], "一个称重的人").
+entry(重, 形容词, [], "更重 最重具有巨大重量").
+entry(威纳, 名词, [威纳香肠], "维也纳香肠")。
+入口(weir, 名词, [weirs], "放置在溪流中的用以捕鱼的栅栏")。
+```prolog
+entry(怪异, v, [怪异了,怪异中,怪异], "引起一种奇怪的感觉").
+```
+entry(怪异, 形容词, [], "更怪异 最怪异神秘地奇怪").
+entry(奇怪, n, [奇怪们], "命运").
+`条目(怪人, n, [怪人], "一个非常奇怪的人").`
+entry(weirdies, pl, [], "奇异的").
+entry(怪异地, 副词, [], "以一种怪异的方式").
+entry(怪人, n, [怪人大], "或者 WEIRDOS一个怪人").
+entry(怪人, n, [怪人们], "怪人")。
+entry(无翼鸟, n, [无翼鸟们], "一种不会飞的鸟").
+entry(威尔士, v, [食言了, 食言中, 食言], "食言").
+entry(韦尔彻, n, [韦尔彻们], "一个赖账的人").
+进入(欢迎, 动词, [欢迎了,欢迎中,欢迎], "亲切地问候")。
+entry(欢迎者, n, [欢迎者们], "一个欢迎他人的人").
+entry(焊接, v, [焊接了, 焊接中, 焊接], "通过加热进行连接可焊接的 形容词").
+entry(焊工, n, [焊工], "进行焊接的人").
+entry(无焊接, 形容词, [], "没有焊接接头").
+entry(焊件, n, [焊件], "由焊接部件组成的单元").
+条目(焊工, n, [焊工们], "焊接工人").
+entry(福利, n, [福利], "总体幸福").
+entry(天空, n, [天空], "天空").
+入口(井, 动词, [涌出,涌动,井喷], "上升到表面并流出").
+entry(唉, n, [唉们], "唉哟").
+条目(哀叹, 名词, [哀叹], "一种悲伤的表达")。
+entry(家世良好, 形容词, [], "出身或祖先良好").
+```prolog
+entry(井口边缘, 名词, [井口边缘], "井口周围的石环，在地下挖洞以获取水").
+```
+条目(行善者, n, [行善者们], "做好事的人").
+入口(井口, n, [井口], "泉或溪流的源头")。
+entry(井口, n, [井口们], "井的竖井").
+entry(威利, 名词, [威利靴], "一种威灵顿靴子")。
+entry(雨靴, 复数, [], "雨靴的").
+条目(健康, n, [健康状态], "健康的状态")。
+entry(井场, n, [井场], "一种矿物").
+条目(威利, n, [威力靴], "威力靴").
+entry(威尔士, 动, [违约了, 违约中, 违约], "未能偿还债务").
+entry(违背约定者, n, [违背约定者们], "违背约定的人").
+entry(鞭痕, v, [造成鞭痕, 造成鞭痕中, 鞭痕], "在皮肤上造成隆起或肿块的痕迹")
+entry(翻滚, v, [翻滚,翻滚,翻滚], "滚来滚去").
+entry(刮伤, n, [刮伤的], "用于加固接缝的绳或条带").
+entry(瘤, n, [瘤], "皮肤的良性肿瘤").
+entry(嫖客, v, [嫖过, 嫖着, 嫖客们], "与妓女交往").
+entry(寻欢客, n, [寻欢客们], "一个寻欢的人").
+entry(沿着, v, [沿着走, 沿着走着, 沿着走去], "继续沿着").
+entry(温迪戈, n, [温迪戈们], "恶魔").
+entry(wennish, 形容词, [], "潮湿的").
+entry(wenny, adj, [], "像瘤一样的").
+入口(去, 过去, [], "go的时态")。
+条目(哭泣, 过去, [], "weep的时态")。
+条目(是, 一个, [], "是的过去式和虚拟语气用于第一人称复数和第二人称单数").
+entry(维里吉尔德, n, [维里吉尔德斯], "维尔德金").
+词条(狼人, 名词, [狼人], "能变成狼形态的人").
+entry(命价, n, [命价], "在盎格鲁撒克逊法律中为夺人性命所支付的价格")。
+条目(韦尔金德, n, [ 韦尔金德列], "赔偿金").
+entry(保护金, n, [保护金们], "抵偿金").
+入口(词条, a, [], "是的第二人称单数过去时")。
+entry(狼人, n, [狼人], "狼人").
+入口(马甲, 名词, [马甲们], "一件背心")。
+entry(wessand, n, [wessands], "食道").
+entry(西, 北, [西部], "罗盘上的一个基点").
+entry(韦斯特, v, [韦斯特的,韦斯特化,韦斯特], "向西移动").
+entry(西风, n, [西风], "来自西方的风").
+entry(西方人, n, [西方人们], "生活在西方的人").
+entry(韦斯廷, 名词, [韦斯廷斯], "向西移动").
+entry(最西端, 形容词, [], "最西边").
+entry(西方, n, [向西], "一个朝向西方的方向").
+entry(湿, 形容词, [], "更湿 最湿 被液体覆盖或饱和")
+输入(湿, 动词, [弄湿,变潮湿,使…潮湿], "使变得潮湿").
+entry(干, n, [干们], "一种新西兰的大型无翅昆虫").
+条目(阉羊, n, [阉羊们], "一只去势的公羊")。
+entry(湿地, n, [湿地], "含有大量土壤水分的土地").
+entry(湿漉漉地, 副词, [], "以湿的方式").
+输入(湿度, 名词, [湿度们], "湿的状态")。
+entry(wetproof, 形容词, [], "防水").
+词条(潜水衣, 名词, [潜水衣], "皮肤潜水员在冷水中穿的一种紧身橡胶般的衣服").
+entry(可润湿, 形容词, [], "能够被润湿").
+entry(潤濕的,過去式,[],"濕的時態").
+entry(湿润器, n, [湿润器们], "使某物变湿的人或物").
+entry(最湿的, 最高级, [], "的湿").
+条目(润湿, n, [润湿物], "用于湿润某物的液体")。
+词条(湿润, 形容词, [], "有点湿").
+entry(生物硬件, n, [生物硬件们], "作为功能上等同于计算机的人脑").
+entry(wha, pron, [], "谁").
+入口(击打, 动词, [击打了, 正在击打, 击打], "猛烈地击打")。
+entry( 被打, 形容词, [], "1 喝醉或嗑药 2 精疲力竭").
+entry(打者, n, [打者们], "一个会打击的人").
+```prolog
+条目(重击, n, [重击], "猛烈打击某物的行为或实例").
+```
+entry(疯子, n, [疯子们], "怪物").
+entry(古怪, 形容词, [], "更古怪 最古怪").
+entry(鲸鱼, v, [捕鲸,捕鲸中,鲸鱼们], "从事捕猎大型海洋哺乳动物鲸鱼的活动")。
+词条(捕鲸人, n, [捕鲸人], "捕鲸者").
+入口(捕鲸者, 名词, [捕鲸者们], "从事捕鲸的人").
+entry(捕鲸, n, [捕鲸业], "捕猎和加工鲸鱼的行业").
+entry(重击, v, [重击了,重击着,重击], "以响亮的撞击声击打").
+```prolog
+entry(哇, interj, [], "用于表示惊人的事件").
+```
+entry(厄运, n, [厄运们], "带来坏运气的超自然咒语").
+`词条(whamo, 感叹词, [], "whammo")。`
+```prolog
+entry(whang, v, [whanged,whanging,whangs], "用鞭子打").
+```
+entry(黄竹, n, [黄竹], "一种亚洲的草")。
+entry(重击, v, [重击了, 正在重击, 重击], "重击").
+entry(夸客, n, [夸客们], "巨无霸").
+entry(码头, v, [停泊, 停泊中, 码头], "将船停泊在码头，一种船只的停靠地点")。
+entry(码头作业费, n, [码头作业费], "使用码头").
+条目(wharve, 名词, [wharves], "用于纺线的圆形木块")。
+entry(什么, n, [什么的], "某事物的真实本质").
+entry(whatever, adj, [], "可能是什么或是谁").
+`entry(whatness, n, [whatnesses], "事物的本质").`
+entry(小摆设, n, [小摆设们], "一个装饰性的架子").
+entry(物什, n, [物什们], "物什").
+entry(玩意儿, n, [玩意儿们], "名字未知或遗忘的东西").
+entry(whatso, pron, [], "无论是什么或是谁").
+entry(whaup, n, [whaups], "欧洲的一种鸟").
+入口(风疹块, 名词, [风疹块], "小红肿").
+条目(小麦, n, [小麦们], "一种谷类草")。
+entry(北石鵖, 名词, [北石鵖们], "一种北方地区的小鸟").
+entry(小麦色, 名词, [小麦色们], "一种淡黄色").
+条目(欢呼, 感叹词, [], "用于表达快乐").
+entry(哄骗, 动词, [哄骗了, 哄骗中, 哄骗], "试图通过奉承来说服").
+`entry(甜言蜜语者, n, [甜言蜜语者们], "一个甜言蜜语的人").`
+entry(轮子, v, [滚动,滚动中,滚动], "传送在轴上设计成旋转的圆形框架").
+entry(惠勒, n, [惠勒们], "驾驶的人").
+条目(特技骑车, 名词, [特技骑车们], "在车轮上的机动动作")。
+条目(轮动, n, [轮动], "供车辆使用的道路状况").
+条目(舵手, 名词, [舵手们], "舵手").
+条目(大量, n, [大量的], "相当大的数量").
+entry(唧唧, v, [唧唧叫,唧唧叫着,唧唧叫], "唧唧叫").
+entry(呼哨, v, [发出呼哨声,呼哨中,发出呼哨声的], "发出长长的口哨声")。
+entry(喘息, v, [喘息過,喘息著,喘息], "伴隨哨聲的呼吸").
+进入(喘息者, 名词, [喘息者们], "一个喘息的人").
+entry(喘息, adj, [], "更喘息, 最喘息特点是喘息地WHEEZILY adv").
+entry(海螺, 名词, [海螺们], "一个脓包").
+entry(whelky, adj, [], "WHELKIER WHELKIEST标有whelks")。
+entry(覆盖, 动词, [覆盖了, 覆盖着, 覆盖], "用水覆盖")。
+entry(小狗, v, [产小狗,出生中的,产生小狗], "生小狗").
+entry(当, n, [当时], "某事发生或进行的时间").
+entry(whenas, conj, [], "在那个时间").
+```prolog
+entry(何处, 连接, [], "从什么地方").
+```
+```
+条目(每当, 连接词, [], "在任何时候").
+```
+entry(where, n, [哪裡], "某物位於或發生的地方").
+entry(鉴于, n, [概述语], "正式文件的序言").
+entry(whereat, conj, [], "在何處").
+entry(由此, 连接词, [], "通过它").
+```prolog
+entry(wherein, conj, [], "在其中").
+```
+entry(whereof, conj, [], "其中").
+entry(whereon, conj, [], "在其上").
+条目(去往何处, 连词, [], "to which").
+entry(任何地方, 连词, [], "在任何地方或去任何地方").
+entry(轻舟, v, [划轻舟, 驾轻舟, 轻舟], "用轻便的小船运输").
+条目(wherve, n, [wherves], "wharve").
+entry(磨, v, [磨利, 磨着, 磨], "通过摩擦来磨快").
+entry(如果, 连接词, [], "如果是这种情况").
+entry(磨刀石, n, [磨刀石们], "磨工具的人").
+入口(吁, n, [吁声], "一种哨声").
+条目(乳清, 名词, [乳清们], "乳中水状部分乳清性质乳清色 形容词").
+entry(乳白色的脸, 名词, [乳白色的脸们], "苍白的蜡黄脸").
+entry(犹乳清, 形容词, [], "类似乳清").
+entry(which, pron, [], "哪个").
+条目(whicker, v, [whickered, whickering, whickers], "嘶鸣").
+entry(whid, v, [whidded, whidding, whids], "快速且安静地移动").
+entry(维达, n, [维达鸟], "维达鸟").
+```prolog
+entry(一丝气味, 动词, [闻到了一丝气味, 闻到一丝气味, 闻到一丝气味], "轻微的风吹或传送"). 
+```
+entry(嗅嗅者, n, [嗅嗅者们], "嗅嗅的人").
+条目(whiffet, n, [whiffets], "无足轻重的人").
+entry(移动, v, [移动了,移动中,移动], "不规律地移动或思考").
+条目(whiffler, n, [whifflers], "一种发出吹哨声的东西")。
+entry(臭的, 形容词, [], "更臭的 最臭的 有不愉快的气味").
+entry(輝格, 名詞, [輝格黨員], "將歷史解釋為不斷地戰勝反動勢力的進步").
+entry(while, v, [whiled,whiling,whiles], "使愉快地度过").
+entry(whilom, 副詞, [], "從前").
+条目(whilst, 连接词, [], "在…期间")。
+entry(奇想, n, [奇想], "一个冲动的想法").
+entry(杓鹬, n, [杓鹬属鸟类], "一种海岸鸟").
+entry(呜咽, v, [呜咽了,呜咽着,呜咽], "以悲伤破碎的声音哭泣")
+entry(异想天开, n, [异想天开的复数形式], "异想天开")
+`条目(怪念头, 名词, [怪念头们], "一个怪念头WHIMSIED 形容词").`
+entry(荆豆, 名词, [荆豆们], "荆豆").
+entry(石䳭, n, [石䳭们], "一种鸣禽").
+条目(抱怨, v, [抱怨了,正在抱怨,抱怨], "发出哀怨的高音声").
+入口(抱怨者, 名词, [抱怨者们], "一个发牢骚的人")。
+条目(whiney, 形容词, [], "更爱发牢骚的 最爱发牢骚的 发牢骚的").
+entry(抱怨, 动词, [], "抱怨了 抱怨或抱怨 抱怨").
+entry(诉苦者, n, [诉苦者们], "一个抱怨的人").
+entry(愛抱怨, 形容詞, [], "更愛抱怨 最愛抱怨傾向於抱怨").
+entry(较为悲鸣的, 比较级, [], "whiney 和 whiny 的").
+条目(最爱发牢骚的, 最高级, [], "of whiney and whiny").
+entry(抱怨, 现在, [], "whine的分词").
+条目(whinny, 形容词, [], "WHINNIER WHINNIESTabounding in whin").
+entry(嘶鸣, v, [嘶鸣着,嘶鸣时,嘶鸣], "以低沉或温和的方式嘶叫").
+条目(whiny, 形容词, [], "更喜怒无常, 最喜怒无常, 倾向于抱怨").
+entry(鞭打, v, [鞭打了, 鞭打中, 鞭打], "用作体罚工具的鞭子进行打击").
+条目(鞭绳, n, [鞭绳们], "一种坚固的扭曲绳").
+条目(鞭打, 名词, [鞭打], "鞭子的鞭痕").
+条目(无鞭, 形容词, [], "缺乏鞭子").
+entry(鞭状, 形容词, [], "类似于鞭子").
+entry(鞭打, 过去式, [], "whip 的过去式").
+entry(鞭打者, n, [鞭打者们], "鞭打的人").
+entry(惠比特犬, n, [惠比特犬们], "一种小型敏捷的狗")。
+入口(抽打, n, [抽打], "用于抽打的材料")。
+entry(whippit, n, [whippits], "一小罐一氧化二氮").
+entry(whippy, 形容词, [], "WHIPPIER WHIPPIEST与鞭子有关或类似于鞭子").
+entry(鞭魟, n, [鞭魟], "一种黄貂鱼").
+`entry(锯, v, [锯削,锯削过,正在锯], "用一种窄而锥形的锯子切割").`
+条目(whipt, a, [], "whip的过去式").
+entry(鞭尾蜥, n, [鞭尾蜥们], "一种有长而细尾巴的蜥蜴").
+entry(鞭虫, n, [鞭虫], "寄生虫").
+```prolog
+entry(whir, v, [whirred,whirring,whirs], "to move with a buzzing soundWHIRL v WHIRLED WHIRLING WHIRLSto revolve rapidlyWHIRLER n pl WHIRLERSone that whirlsWHIRLY adj WHIRLIER WHIRLIESTmarked by a whirling motionWHIRLY n pl WHIRLIESa small tornadoWHIRR v WHIRRED WHIRRING WHIRRSto whirWHIRRED past tense of whirWHIRRING present participle of whirWHIRRY v WHIRRIED WHIRRYING WHIRRIESto hurryWHISH v WHISHED WHISHING WHISHESto move with a hissing soundWHISHT v WHISHTED WHISHTING WHISHTSto hushWHISK v WHISKED WHISKING WHISKSto move brisklyWHISKER n pl WHISKERSa hair on a mans faceWHISKERY adjWHISKEY n pl WHISKEYSa liquorWHISKY n pl WHISKIESwhiskeyWHISPER v WHISPERED WHISPERING WHISPERSto speak softlyWHISPERY adj resembling a whisperWHIST v WHISTED WHISTING WHISTSto hushWHISTLE v WHISTLED WHISTLING WHISTLESto make a shrill clear musical soundWHISTLER n pl WHISTLERSone that whistlesWHIT n pl WHITSa particleWHITE adj WHITER WHITESTof the color of pure snowWHITE v WHITED WHITING WHITESto whitenWHITECAP n pl WHITECAPSa wave with a crest of foamWHITEFLY n pl WHITEFLIESa small whitish insectWHITELY adv in a white mannerWHITEN v WHITENED WHITENING WHITENSto make whiteWHITENER n pl WHITENERSone that whitensWHITEOUT n pl WHITEOUTSan arctic weather conditionWHITER comparative of whiteWHITEST superlative of whiteWHITEY adj whityWHITHER adv to what placeWHITIER comparative of whityWHITIEST superlative of whityWHITING n pl WHITINGSa marine food fishWHITISH adj somewhat whiteWHITLOW n pl WHITLOWSan inflammation of the finger or toeWHITRACK n pl WHITRACKSa weaselWHITTER n pl WHITTERSa large draft of liquorWHITTLE v WHITTLED WHITTLING WHITTLESto cut or shave bits fromWHITTLER n pl WHITTLERSone that whittlesWHITTRET n pl WHITTRETSa weaselWHITY adj WHITIER WHITIESTwhitishWHIZ v WHIZZED WHIZZING WHIZZESto move with a buzzing or hissing soundWHIZBANG n pl WHIZBANGSa type of explosive shellWHIZZ v WHIZZED WHIZZING WHIZZESto whizWHIZZER n pl WHIZZERSone that whizzesWHIZZES present 3d person sing of whizWHIZZING present participle of whizWHIZZY adj WHIZZIER WHIZZIESTmarvelous in construction or operationWHO pron what or which person or personsWHOA interj  used to command an animal to stopWHODUNIT n pl WHODUNITSa mystery storyWHOEVER pron whatever personWHOLE n pl WHOLESall the parts or elements entering into and making up a thingWHOLISM n pl WHOLISMSholismWHOLLY adv totallyWHOM pron the objective case of whoWHOMEVER pron the objective case of whoeverWHOMP v WHOMPED WHOMPING WHOMPSto defeat decisivelyWHOMSO pron the objective case of whosoWHOOF v WHOOFED WHOOFING WHOOFSto make a deep snorting soundWHOOMP n pl WHOOMPSa sudden loud soundWHOOMPH n pl WHOOMPHS whoompWHOOP v WHOOPED WHOOPING WHOOPSto utter loud criesWHOOPEE n pl WHOOPEESboisterous funWHOOPER n pl WHOOPERSone that whoopsWHOOPIE n pl WHOOPIESwhoopeeWHOOPLA n pl WHOOPLASa noisy commotionWHOOSH v WHOOSHED WHOOSHING WHOOSHESto move with a hissing soundWHOOSIS n pl WHOOSISESan object or person whose name is not knownWHOP v WHOPPED WHOPPING WHOPSto strike forciblyWHOPPER n pl WHOPPERSsomething unusually largeWHORE v WHORED WHORING WHORESto consort with prostitutesWHOREDOM n pl WHOREDOMSprostitutionWHORESON n pl WHORESONSa bastardWHORING n pl WHORINGSthe use of the services of a prostituteWHORISH adj lewdWHORL v WHORLED WHORLING WHORLSto move in a twisted or convoluted fashionWHORT n pl WHORTSan edible berryWHORTLE n pl WHORTLESwhortWHOSE pron the possessive case of whoWHOSESO pron possessive of whosoWHOSEVER pron the possessive case of whoeverWHOSIS n pl WHOSISESwhoosisWHOSIT n pl WHOSITSwhoosisWHOSO pron whoeverWHUMP v WHUMPED WHUMPING WHUMPSto thumpWHUP v WHUPPED WHUPPING WHUPSto defeat decisivelyWHY n pl WHYSthe reason or cause of somethingWHYDA n pl WHYDASwhydahWHYDAH n pl WHYDAHSan African birdWICCA n pl WICCASa form of natureoriented witchcraftWICCAN n pl WICCANSone who practices wiccaWICH n pl WICHESwychWICK n pl WICKSa bundle of loosely twisted fibers in a candle or oil lampWICKAPE n pl WICKAPESwicopyWICKED adj WICKEDER WICKEDESTevilWICKEDLY advWICKER n pl WICKERSa slender pliant twig or branchWICKET n pl WICKETSa small door or gateWICKING n pl WICKINGSmaterial for wicksWICKIUP n pl WICKIUPSa Native American hutWICKLESS adj having no wickWICKYUP n pl WICKYUPSwickiupWICOPY n pl WICOPIESa flowering shrubWIDDER n pl WIDDERSa widowWIDDIE n pl WIDDIESwiddyWIDDLE v WIDDLED WIDDLING WIDDLESto wriggleWIDDY n pl WIDDIESa hangmans nooseWIDE adj WIDER WIDESThaving great extent from side to sideWIDELY advWIDE n pl WIDESa type of bowled ball in cricketWIDEBAND adj operating over a wide band of frequenciesWIDEBODY n pl WIDEBODIESa jet aircraft having a wide fuselageWIDEN v WIDENED WIDENING WIDENSto make wide or widerWIDENER n pl WIDENERSone that widensWIDENESS n pl WIDENESSESthe state of being wideWIDEOUT n pl WIDEOUTSa receiver in footballWIDER comparative of wideWIDEST superlative of wideWIDGEON n pl WIDGEONSa river duckWIDGET n pl WIDGETSa gadgetWIDISH adj somewhat wideWIDOW v WIDOWED WIDOWING WIDOWSto deprive of a husbandWIDOWER n pl WIDOWERSa man whose wife has died and who has not remarriedWIDTH n pl WIDTHSextent from side to sideWIDTHWAY adv from side to sideWIELD v WIELDED WIELDING WIELDSto handle or use effectivelyWIELDER n pl WIELDERSone that wieldsWIELDY adj WIELDIER WIELDIESTeasily wieldedWIENER n pl WIENERSa frankfurterWIENIE n pl WIENIESa wienerWIFE n pl WIVESa woman married to a manWIFE v WIFED WIFING WIFESto wiveWIFEDOM n pl WIFEDOMSthe status or function of a wifeWIFEHOOD n pl WIFEHOODSthe state of being a wifeWIFELESS adj having no wifeWIFELIKE adj wifelyWIFELY adj WIFELIER WIFELIESTof or befitting a wifeWIFEY n pl WIFEYSa wifeWIFING present participle of wifeWIFTY adj WIFTIER WIFTIESTditsyWIG v WIGGED WIGGING WIGSto provide with a wig an artificial covering of hair for the headWIGAN n pl WIGANSa stiff fabricWIGEON n pl WIGEONSwidgeonWIGGED past tense of wigWIGGER n pl WIGGERSan unreliable or eccentric personWIGGERY n pl WIGGERIESa wigWIGGIER comparative of wiggyWIGGIEST superlative of wiggyWIGGING n pl WIGGINGSa scoldingWIGGLE v WIGGLED WIGGLING WIGGLESto move with short quick movements from side to sideWIGGLER n pl WIGGLERSone that wigglesWIGGLY adj WIGGLIER WIGGLIESTtending to wiggleWIGGY adj WIGGIER WIGGIESTcrazyWIGHT n pl WIGHTSa living beingWIGLESS adj having no wigWIGLET n pl WIGLETSa small wigWIGLIKE adj resembling a wigWIGMAKER n pl WIGMAKERSone that makes wigsWIGWAG v WIGWAGGED WIGWAGGING WIGWAGSto move back and forthWIGWAM n pl WIGWAMSa Native American dwellingWIKI n pl WIKISa website that allows any user to add or edit contentWIKIUP n pl WIKIUPSwickiupWILCO interj  used to indicate that a message received will be complied withWILD v WILDED WILDING WILDSto go about in a group attacking othersWILD adj WILDER WILDESTliving in a natural stateWILDCARD n pl WILDCARDSa symbol used in a database search to represent unspecified charactersWILDCAT v WILDCATTED WILDCATTING WILDCATSto search for oil in an area of doubtful productivityWILDER v WILDERED WILDERING WILDERSto bewilderWILDFIRE n pl WILDFIRESa raging destructive fireWILDFOWL n pl WILDFOWLSa wild game birdWILDING n pl WILDINGSa wild plant or animalWILDISH adj somewhat wildWILDLAND n pl WILDLANDSuncultivated landWILDLIFE n pl WILDLIFEwild animals and vegetationWILDLING n pl WILDLINGSa wildingWILDLY adv in a wild mannerWILDNESS n pl WILDNESSESthe state of being wildWILDWOOD n pl WILDWOODSnatural forest landWILE v WILED WILING WILESto enticeWILFUL adj willfulWILFULLY advWILIER comparative of wilyWILIEST superlative of wilyWILILY adv in a wily mannerWILINESS n pl WILINESSESthe quality of being wilyWILING present participle of wileWILL v WILLED WILLING WILLSto decide uponWILLABLE adjWILL v past sing 2d person WOULD or WOULDEST or WOULDST used as an auxiliary followed by a simple infinitive to express futurity inclination likelihood or requirementWILLER n pl WILLERSone that willsWILLET n pl WILLETSa shore birdWILLFUL adj bent on having ones own wayWILLIED past tense of willyWILLIES present 3d person sing of willyWILLING adj WILLINGER WILLINGESTinclined or favorably disposed in mindWILLIWAU n pl WILLIWAUSwilliwawWILLIWAW n pl WILLIWAWSa violent gust of cold windWILLOW v WILLOWED WILLOWING WILLOWSto clean textile fibers with a certain machineWILLOWER n pl WILLOWERSone that willowsWILLOWY adj WILLOWIER WILLOWIESTpliantWILLY v WILLIED WILLYING WILLIESto willowWILLYARD adj willfulWILLYART adj willyardWILLYWAW n pl WILLYWAWSwilliwawWILT v WILTED WILTING WILTSto become limpWILY adj WILIER WILIESTcraftyWIMBLE v WIMBLED WIMBLING WIMBLESto bore with a hand toolWIMP v WIMPED WIMPING WIMPSto act in a timid mannerWIMPISH adj wimpyWIMPLE v WIMPLED WIMPLING WIMPLESto pleatWIMPY adj WIMPIER WIMPIESTweak ineffectualWIN v WINNED WINNING WINSto winnowWIN v WON or WAN WINNING WINSto be victoriousWINCE v WINCED WINCING WINCESto flinchWINCER n pl WINCERSone that wincesWINCEY n pl WINCEYSa type of fabricWINCH v WINCHED WINCHING WINCHESto raise with a winch a hoisting machineWINCHER n pl WINCHERSone that winchesWINCING present participle of winceWIND v WOUND or WINDED WINDING WINDSto pass around an object or fixed centerWINDABLE adjWINDAGE n pl WINDAGESthe effect of the wind air in natural motion on a projectileWINDBAG n pl WINDBAGSa talkative personWINDBELL n pl WINDBELLSa light bell that can be sounded by the windWINDBURN v WINDBURNED or WINDBURNT WINDBURNING WINDBURNSto be affected with skin irritation caused by exposure to the windWINDER n pl WINDERSone that windsWINDFALL n pl WINDFALLSa sudden and unexpected gainWINDFLAW n pl WINDFLAWSa gust of windWINDGALL n pl WINDGALLSa swelling on a horses legWINDIER comparative of windyWINDIEST superlative of windyWINDIGO n pl WINDIGOS or WINDIGOESan evil demon in Algonquian mythologyWINDILY adv in a windy mannerWINDING n pl WINDINGSmaterial wound about an objectWINDLASS v WINDLASSED WINDLASSING WINDLASSESto raise with a windlass a hoisting machineWINDLE v WINDLED WINDLING WINDLESto windWINDLESS adj being without windWINDLING n pl WINDLINGSa bundle of strawWINDLOAD n pl WINDLOADSthe force exerted by the wind on a structureWINDMILL v WINDMILLED WINDMILLING WINDMILLSto rotate solely under the force of a passing airstreamWINDOW v WINDOWED WINDOWING WINDOWSto provide with a window an opening in a wall to admit light and airWINDOWY adj having many windowsWINDPACK n pl WINDPACKSsnow that has been compacted by the windWINDPIPE n pl WINDPIPESthe tracheaWINDROW v WINDROWED WINDROWING WINDROWSto arrange as hay or grain in long rowsWINDSAIL n pl WINDSAILSa funnel of sailcloth used to convey air down into the lower parts of a shipWINDSLAB n pl WINDSLABSa crust formed on soft snow by the windWINDSOCK n pl WINDSOCKSa device used to indicate wind directionWINDSURF v WINDSURFED WINDSURFING WINDSURFSto sail on a sailboardWINDUP n pl WINDUPSa conclusionWINDWARD n pl WINDWARDSthe direction from which the wind blowsWINDWAY n pl WINDWAYSa passage for airWINDY adj WINDIER WINDIESTmarked by strong windWINE v WINED WINING WINESto provide with wine the fermented juice of the grapeWINELESS adj having no wineWINERY n pl WINERIESan establishment for making wineWINESAP n pl WINESAPSa red apple with somewhat tart fleshWINESHOP n pl WINESHOPSa shop where wine is soldWINESKIN n pl WINESKINSa goatskin bag for holding wineWINESOP n pl WINESOPSa food sopped in wineWINEY adj WINIER WINIESTwinyWING v WINGED WINGING WINGSto travel by means of wings organs of flightWINGBACK n pl WINGBACKSa certain player in footballWINGBEAT n pl WINGBEATSone full set of motions of a wing in flyingWINGBOW n pl WINGBOWSa mark on the wing of a domestic fowlWINGDING n pl WINGDINGSa lively partyWINGEDLY adv swiftlyWINGER n pl WINGERSa certain player in soccerWINGIER comparative of wingyWINGIEST superlative of wingyWINGLESS adj having no wingsWINGLET n pl WINGLETSa small wingWINGLIKE adj resembling a wingWINGMAN n pl WINGMENa pilot behind the leader of a flying formationWINGNUT n pl WINGNUTSa nut with projections for gripping with the thumb and fingerWINGOVER n pl WINGOVERSa flight maneuverWINGSPAN n pl WINGSPANSthe distance from the tip of one of a pair of wings to that of the otherWINGTIP n pl WINGTIPSa type of mans shoeWINGY adj WINGIER WINGIESTswiftWINIER comparative of winey and winyWINIEST superlative of winey and winyWINING present participle of wineWINISH adj winyWINK v WINKED WINKING WINKSto close and open one eye quicklyWINKER n pl WINKERSone that winksWINKLE v WINKLED WINKLING WINKLESto displace extract or evict from a positionWINKLER n pl WINKLERSone that winklesWINLESS adj having no winsWINNABLE adj able to be wonWINNED past tense of win to winnowWINNER n pl WINNERSone that winsWINNING n pl WINNINGSmoney won in a game or competitionWINNOCK n pl WINNOCKSa windowWINNOW v WINNOWED WINNOWING WINNOWSto free grain from impuritiesWINNOWER n pl WINNOWERSone that winnowsWINO n pl WINOS or WINOESone who is habitually drunk on wineWINSOME adj WINSOMER WINSOMESTcharmingWINTER v WINTERED WINTERING WINTERSto pass the winter the coldest season of the yearWINTERER n pl WINTERERSone that wintersWINTERLY adj wintryWINTERY adj WINTERIER WINTERIESTwintryWINTLE v WINTLED WINTLING WINTLESto staggerWINTRY adj WINTRIER WINTRIESTcharacteristic of winterWINTRILY advWINY adj WINIER WINIESThaving the taste or qualities of wineWINZE n pl WINZESa steeply inclined mine shaftWIPE v WIPED WIPING WIPESto rub lightly in order to clean or dryWIPEABLE adjWIPEOUT n pl WIPEOUTSa fall from a surfboardWIPER n pl WIPERSone that wipesWIRE v WIRED WIRING WIRESto fasten with wire a slender rod strand or thread of ductile metalWIRABLE adjWIREDRAW v WIREDREW WIREDRAWN WIREDRAWING WIREDRAWSto draw into wireWIREHAIR n pl WIREHAIRSa dog having a wiry coatWIRELESS v WIRELESSED WIRELESSING WIRELESSESto radioWIRELIKE adj resembling wireWIRELINE n pl WIRELINESa telegraph or telephone wireWIREMAN n pl WIREMENone who makes or works with wireWIRER n pl WIRERSone that wiresWIRETAP v WIRETAPPED WIRETAPPING WIRETAPSto intercept messages by means of a concealed monitoring deviceWIREWAY n pl WIREWAYSa tube for protecting electric wiresWIREWORK n pl WIREWORKSan article made of wireWIREWORM n pl WIREWORMSa wirelike wormWIRIER comparative of wiryWIRIEST superlative of wiryWIRILY adv in a wiry mannerWIRINESS n pl WIRINESSESthe quality of being wiryWIRING n pl WIRINGSa system of electric wiresWIRRA interj  used to express sorrowWIRY adj WIRIER WIRIESTresembling wireWIS v past tense WISTto know  WIS and WIST are the only accepted forms of this verb it cannot be conjugated furtherWISDOM n pl WISDOMSthe power of true and right discernmentWISE adj WISER WISESThaving wisdomWISE v WISED WISING WISESto become aware or informedWISEACRE n pl WISEACRESa pretentiously wise personWISEASS n pl WISEASSESa wiseacreWISED past tense of wiseWISEGUY n pl WISEGUYSa mobsterWISELY adv WISELIER WISELIESTin a wise mannerWISENESS n pl WISENESSESwisdomWISENT n pl WISENTSa European bisonWISER comparative of wiseWISEST superlative of wiseWISH v WISHED WISHING WISHESto feel an impulse toward attainment or possession of somethingWISHA interj  used to express surpriseWISHBONE n pl WISHBONESa forked bone in front of a birds breastboneWISHER n pl WISHERSone that wishesWISHFUL adj desirousWISHLESS adj not wishfulWISING present participle of wiseWISP v WISPED WISPING WISPSto twist into a wisp a small bunch or bundleWISPIER comparative of wispyWISPIEST superlative of wispyWISPILY adv in a wispy mannerWISPISH adj wispyWISPLIKE adj wispyWISPY adj WISPIER WISPIESTresembling a wispWISS v WISSED WISSING WISSESto wishWIST v WISTED WISTING WISTSto knowWISTARIA n pl WISTARIASwisteriaWISTERIA n pl WISTERIASa flowering shrubWISTFUL adj yearningWIT n pl WITSintelligenceWIT v WIST WITING or WITTING present sing 1st person WOT 2d WOST 3d WOT present pl WITEto knowWITAN n pl WITANSan AngloSaxon council to the kingWITCH v WITCHED WITCHING WITCHESto bewitchWITCHERY n pl WITCHERIESsorceryWITCHING n pl WITCHINGSsorceryWITCHY adj WITCHIER WITCHIESTmaliciousWITE v WITED WITING WITESto blameWITH prep in the company ofWITHAL adv in additionWITHDRAW v WITHDREW WITHDRAWN WITHDRAWING WITHDRAWSto move back or awayWITHE v WITHED WITHING WITHESto bind with flexible twigsWITHER v WITHERED WITHERING WITHERSto dry up and wiltWITHERER n pl WITHERERSone that withersWITHEROD n pl WITHERODSa North American shrubWITHHOLD v WITHHELD WITHHOLDING WITHHOLDSto hold backWITHIER comparative of withyWITHIES pl of withyWITHIEST superlative of withyWITHIN n pl WITHINSan interior place or areaWITHING present participle of witheWITHOUT n pl WITHOUTSan exterior place or areaWITHY adj WITHIER WITHIESTflexible and toughWITHY n pl WITHIESa flexible twigWITING present participle of wit and witeWITLESS adj lacking intelligenceWITLING n pl WITLINGSone who considers himself wittyWITLOOF n pl WITLOOFSchicoryWITNESS v WITNESSED WITNESSING WITNESSESto see or know by personal experienceWITNEY n pl WITNEYSa heavy woolen fabricWITTED adj having intelligenceWITTER v WITTERED WITTERING WITTERSto speak at length on trivial mattersWITTIER comparative of wittyWITTIEST superlative of wittyWITTILY adv in a witty mannerWITTING n pl WITTINGSknowledgeWITTOL n pl WITTOLSa man who tolerates his wifes infidelityWITTY adj WITTIER WITTIESThumorously cleverWIVE v WIVED WIVING WIVESto marry a womanWIVER n pl WIVERSwivernWIVERN n pl WIVERNSa twolegged dragonWIVES pl of wifeWIVING present participle of wiveWIZ n pl WIZZES or WIZESa very clever or skillful personWIZARD n pl WIZARDSa sorcererWIZARDLY adjWIZARDRY n pl WIZARDRIESsorceryWIZEN v WIZENED WIZENING WIZENSto shrivelWIZZEN n pl WIZZENSweasandWO n pl WOSwoeWOAD n pl WOADSa blue dyeWOADED adjWOADWAX n pl WOADWAXESan ornamental shrubWOALD n pl WOALDSa yellow pigmentWOBBLE v WOBBLED WOBBLING WOBBLESto move unsteadilyWOBBLER n pl WOBBLERSone that wobblesWOBBLY adj WOBBLIER WOBBLIESTunsteadyWOBBLY n pl WOBBLIESa member of the Industrial Workers of the WorldWOBEGONE adj affected with woeWODGE n pl WODGESa chunk of somethingWOE n pl WOEStremendous griefWOEFUL adj WOEFULLER WOEFULLESTfull of woeWOEFULLY advWOENESS n pl WOENESSESsadnessWOESOME adj woefulWOFUL adj WOFULLER WOFULLESTwoefulWOFULLY advWOGGLE n pl WOGGLESa ring through which a Scouts neckerchief is threadedWOK n pl WOKSa cooking utensilWOKE a past tense of wakeWOKEN a past participle of wakeWOLD n pl WOLDSan elevated tract of open landWOLF n pl WOLVESa carnivorous mammalWOLF v WOLFED WOLFING WOLFSto devour voraciouslyWOLFER n pl WOLFERSone who hunts wolvesWOLFFISH n pl WOLFFISHESa marine fishWOLFISH adj wolflikeWOLFLIKE adj resembling a wolfWOLFRAM n pl WOLFRAMStungstenWOLFSKIN n pl WOLFSKINSthe skin of a wolfWOLVER n pl WOLVERSwolferWOLVES pl of wolfWOMAN n pl WOMENan adult human femaleWOMAN v WOMANED WOMANING WOMANS or WOMANNED WOMANNING WOMANSto provide with a staff of womenWOMANISE v WOMANISED WOMANISING WOMANISESto womanizeWOMANISH adj characteristic of a womanWOMANISM n pl WOMANISMSa belief in or respect for womenWOMANIST n pl WOMANISTSa supporter of womanismWOMANIZE v WOMANIZED WOMANIZING WOMANIZESto make effeminateWOMANLY adj WOMANLIER WOMANLIESThaving the qualities of a womanWOMB n pl WOMBSthe uterusWOMBED adjWOMBAT n pl WOMBATSa nocturnal mammalWOMBLIKE adj resembling a wombWOMBY adj WOMBIER WOMBIESThollowWOMEN pl of womanWOMERA n pl WOMERASa device used to propel spearsWOMMERA n pl WOMMERASwomeraWOMYN npl womenWON v WONNED WONNING WONSto dwellWONDER v WONDERED WONDERING WONDERSto have a feeling of curiosity or doubtWONDERER n pl WONDERERSone that wondersWONDROUS adj marvelousWONK n pl WONKSan overly studious studentWONKISH adjWONKERY n pl WONKERIESthe qualities or activities of a wonkWONKY adj WONKIER WONKIESTunsteadyWONKILY advWONNED past tense of wonWONNER n pl WONNERSa prodigyWONNING present participle of wonWONT v WONTED WONTING WONTSto make accustomed toWONTEDLY adv in a usual mannerWONTON n pl WONTONSa porkfilled dumpling used in Chinese cookingWOO v WOOED WOOING WOOSto seek the affection ofWOOABLE adjWOOD v WOODED WOODING WOODSto furnish with wood the hard fibrous substance beneath the bark of a tree or shrubWOODBIN n pl WOODBINSa bin for holding firewoodWOODBIND n pl WOODBINDSwoodbineWOODBINE n pl WOODBINESa European shrubWOODBOX n pl WOODBOXESa woodbinWOODCHAT n pl WOODCHATSa European shrikeWOODCOCK n pl WOODCOCKSa game birdWOODCUT n pl WOODCUTSan engraved block of woodWOODEN adj WOODENER WOODENESTresembling wood in stiffnessWOODENLY advWOODFERN n pl WOODFERNSan evergreen fernWOODHEN n pl WOODHENSthe wekaWOODIE n pl WOODIESwoodyWOODIER comparative of woodyWOODIES pl of woodyWOODIEST superlative of woodyWOODLAND n pl WOODLANDSland covered with treesWOODLARK n pl WOODLARKSa songbirdWOODLESS adj having no woodWOODLICE npl sowbugsWOODLORE n pl WOODLORESknowledge of the forestWOODLOT n pl WOODLOTSan area restricted to the growing of forest treesWOODMAN n pl WOODMENwoodsmanWOODMICE npl field miceWOODNOTE n pl WOODNOTESa song or call of a forest birdWOODPILE n pl WOODPILESa pile of woodWOODRAT n pl WOODRATSa North American rat having a wellfurred tail and large earsWOODRUFF n pl WOODRUFFSan aromatic herbWOODRUSH n pl WOODRUSHESa grasslike plant having leaves fringed with long hairsWOODSHED v WOODSHEDDED WOODSHEDDING WOODSHEDSto practice on a musical instrumentWOODSIA n pl WOODSIASa small fernWOODSMAN n pl WOODSMENone who works or lives in the forestWOODSY adj WOODSIER WOODSIESTsuggestive of a forestWOODTONE n pl WOODTONESa finish that imitates woodWOODWASP n pl WOODWASPSa large wasplike insectWOODWAX n pl WOODWAXESwoadwaxWOODWIND n pl WOODWINDSa musical wind instrumentWOODWORK n pl WOODWORKSwork made of woodWOODWORM n pl WOODWORMSa woodboring wormWOODY adj WOODIER WOODIESTcontaining or resembling woodWOODY n pl WOODIESa woodpaneled station wagonWOODYARD n pl WOODYARDSa yard where wood is chopped or storedWOOER n pl WOOERSone that woosWOOF v WOOFED WOOFING WOOFSto utter a gruff barking soundWOOFER n pl WOOFERSa loudspeaker designed to reproduce lowpitched soundsWOOINGLY adv attractivelyWOOL n pl WOOLSthe dense soft hair forming the coat of certain mammalsWOOLED adj having wool of a specified kindWOOLEN n pl WOOLENSa fabric made of woolWOOLER n pl WOOLERSa domestic animal raised for its woolWOOLFELL n pl WOOLFELLSwoolskinWOOLHAT n pl WOOLHATSone who works a small farmWOOLIE n pl WOOLIESa woollyWOOLIER comparative of woolyWOOLIES pl of woolyWOOLIEST superlative of woolyWOOLLED adj wooledWOOLLEN n pl WOOLLENSwoolenWOOLLIES pl of woollyWOOLLIKE adj resembling woolWOOLLY adj WOOLLIER WOOLLIESTconsisting of or resembling woolWOOLLILY advWOOLLY n pl WOOLLIESa garment made of woolWOOLMAN n pl WOOLMENa dealer in woolWOOLPACK n pl WOOLPACKSa bag for packing a bale of woolWOOLSACK n pl WOOLSACKSa sack of woolWOOLSHED n pl WOOLSHEDSa building in which sheep are shearedWOOLSKIN n pl WOOLSKINSa sheepskin with the wool still on itWOOLWORK n pl WOOLWORKSneedleworkWOOLY adj WOOLIER WOOLIESTwoollyWOOLY n pl WOOLIESa woollyWOOMERA n pl WOOMERASwomeraWOONERF n pl WOONERFSa road in the Netherlands primarily for pedestrians and cyclistsWOOPIE n pl WOOPIESa welloff older personWOOPS v WOOPSED WOOPSING WOOPSESto vomitWOOPY n pl WOOPIESwoopieWOORALI n pl WOORALIScurareWOORARI n pl WOORARIScurareWOOSH v WOOSHED WOOSHING WOOSHESto whooshWOOZY adj WOOZIER WOOZIESTdazedWOOZILY advWORD v WORDED WORDING WORDSto express in words speech sounds that communicate meaningWORDAGE n pl WORDAGESthe number of words usedWORDBOOK n pl WORDBOOKSa dictionaryWORDIER comparative of wordyWORDIEST superlative of wordyWORDILY adv in a wordy mannerWORDING n pl WORDINGSthe act or style of expressing in wordsWORDLESS adj being without wordsWORDPLAY n pl WORDPLAYSa witty exchange of wordsWORDY adj WORDIER WORDIESTusing many or too many wordsWORE past tense of wearWORK v WORKED or WROUGHT WORKING WORKSto exert ones powers of body or mind for some purposeWORKABLE adj capable of being doneWORKABLY advWORKADAY adj everydayWORKBAG n pl WORKBAGSa bag for holding work instruments and materialsWORKBOAT n pl WORKBOATSa boat used for commercial purposesWORKBOOK n pl WORKBOOKSan exercise book for a studentWORKBOOT n pl WORKBOOTSa sturdy leather boot for workersWORKBOX n pl WORKBOXESa box for holding work instruments and materialsWORKDAY n pl WORKDAYSa day on which work is doneWORKER n pl WORKERSone that worksWORKFARE n pl WORKFARESa welfare program that requires recipients to perform publicservice workWORKFLOW n pl WORKFLOWSthe amount of work to and from an office or employeeWORKFOLK npl manual laborersWORKHOUR n pl WORKHOURSany of the hours of the day during which work is doneWORKING n pl WORKINGSa mining excavationWORKLESS adj unemployedWORKLOAD n pl WORKLOADSthe amount of work assigned to an employeeWORKMAN n pl WORKMENa male workerWORKMATE n pl WORKMATESa fellow workerWORKOUT n pl WORKOUTSa period of physical exerciseWORKROOM n pl WORKROOMSa room in which work is doneWORKSHOP n pl WORKSHOPSa workroomWORKSITE n pl WORKSITESan area where work takes placeWORKSONG n pl WORKSONGSa song sung while doing physical workWORKTOP n pl WORKTOPSa work surface especially in a kitchenWORKUP n pl WORKUPSan intensive diagnostic studyWORKWEAR n pl WORKWEARheavyduty clothes for physical workWORKWEEK n pl WORKWEEKSthe number of hours worked in a weekWORLD n pl WORLDSthe earth and all its inhabitantsWORLDER n pl WORLDERSone who belongs to a specified class time domain or sphere of activityWORLDLY adj WORLDLIER WORLDLIESTpertaining to the worldWORM v WORMED WORMING WORMSto rid of worms small limbless invertebratesWORMCAST n pl WORMCASTSa mass of earth left on the surface by a burrowing earthwormWORMER n pl WORMERSone that wormsWORMGEAR n pl WORMGEARSa gear wheel driven by a worm a rotating shaft with threadsWORMHOLE n pl WORMHOLESa hole made by a burrowing wormWORMIER comparative of wormyWORMIEST superlative of wormyWORMIL n pl WORMILSa lump in the skin of an animals backWORMISH adj wormlikeWORMLIKE adj resembling a wormWORMROOT n pl WORMROOTSpinkrootWORMSEED n pl WORMSEEDSa tropical plantWORMWOOD n pl WORMWOODSa European herbWORMY adj WORMIER WORMIESTinfested with wormsWORN adj affected by wear or useWORNNESS n pl WORNNESSESthe state of being wornWORRIER n pl WORRIERSone that worriesWORRIT v WORRITED WORRITING WORRITSto worryWORRY v WORRIED WORRYING WORRIESto feel anxious and uneasy about somethingWORSE n pl WORSESsomething that is worse bad in a greater degreeWORSEN v WORSENED WORSENING WORSENSto make or become worseWORSER adj worseWORSET n pl WORSETSworstedWORSHIP v WORSHIPED WORSHIPING WORSHIPS or WORSHIPPED WORSHIPPING WORSHIPSto honor and love as a divine beingWORST v WORSTED WORSTING WORSTSto defeatWORSTED n pl WORSTEDSa woolen yarnWORT n pl WORTSa plant herb or vegetableWORTH v WORTHED WORTHING WORTHSto befallWORTHFUL adj worthyWORTHY adj WORTHIER WORTHIESThaving value or meritWORTHILY advWORTHY n pl WORTHIESa worthy personWOST a present 2d person sing of witWOT v WOTTED WOTTING WOTSto knowWOTCHER interj  used as a casual greetingWOULD past tense of willWOULDEST a 2d person sing past tense of willWOULDST a 2d person sing past tense of willWOUND v WOUNDED WOUNDING WOUNDSto inflict an injury uponWOVE a past tense of weaveWOVEN n pl WOVENSa woven fabricWOW v WOWED WOWING WOWSto excite to enthusiastic approvalWOWEE interj  used to express astonishment or admirationWOWSER n pl WOWSERSa puritanical personWRACK v WRACKED WRACKING WRACKSto wreckWRACKFUL adj destructiveWRAITH n pl WRAITHSa ghostWRANG n pl WRANGSa wrongWRANGLE v WRANGLED WRANGLING WRANGLESto argue noisilyWRANGLER n pl WRANGLERSone that wranglesWRAP v WRAPPED or WRAPT WRAPPING WRAPSto enclose in something wound or folded aboutWRAPPER n pl WRAPPERSone that wrapsWRAPPING n pl WRAPPINGSthe material in which something is wrappedWRASSE n pl WRASSESa marine fishWRASSLE v WRASSLED WRASSLING WRASSLESto wrastleWRASTLE v WRASTLED WRASTLING WRASTLESto wrestleWRATH v WRATHED WRATHING WRATHSto make wrathfulWRATHFUL adj extremely angryWRATHY adj WRATHIER WRATHIESTwrathfulWRATHILY advWREAK v WREAKED WREAKING WREAKSto inflictWREAKER n pl WREAKERSone that wreaksWREATH n pl WREATHSa band of flowersWREATHY adjWREATHE v WREATHED WREATHEN WREATHING WREATHESto shape into a wreathWREATHER n pl WREATHERSone that wreathesWRECK v WRECKED WRECKING WRECKSto cause the ruin ofWRECKAGE n pl WRECKAGESthe act of wreckingWRECKER n pl WRECKERSone that wrecksWRECKFUL adj destructiveWRECKING n pl WRECKINGSthe occupation of salvaging wrecked objectsWREN n pl WRENSa small songbirdWRENCH v WRENCHED WRENCHING WRENCHESto twist suddenly and forciblyWRENCHER n pl WRENCHERSone that wrenchesWRENTIT n pl WRENTITSa longtailed North American songbirdWREST v WRESTED WRESTING WRESTSto take away by forceWRESTER n pl WRESTERSone that wrestsWRESTLE v WRESTLED WRESTLING WRESTLESto engage in a type of handtohand contestWRESTLER n pl WRESTLERSone that wrestlesWRETCH n pl WRETCHESa wretched personWRETCHED adj WRETCHEDER WRETCHEDESTextremely unhappyWRICK v WRICKED WRICKING WRICKSto wrenchWRIED past tense of wryWRIER a comparative of wryWRIES present 3d person sing of wryWRIEST a superlative of wryWRIGGLE v WRIGGLED WRIGGLING WRIGGLESto turn or twist in a sinuous mannerWRIGGLER n pl WRIGGLERSone that wrigglesWRIGGLY adj WRIGGLIER WRIGGLIESTwrigglingWRIGHT n pl WRIGHTSone who constructs or createsWRING v WRUNG or WRINGED WRINGING WRINGSto twist so as to compressWRINGER n pl WRINGERSone that wringsWRINKLE v WRINKLED WRINKLING WRINKLESto make wrinkles small ridges or furrows inWRINKLY adj WRINKLIER WRINKLIESThaving wrinklesWRIST v WRISTED WRISTING WRISTSto sweep the puck along the ice before shooting itWRISTER n pl WRISTERSa type of shot in hockeyWRISTLET n pl WRISTLETSa band worn around the wristWRISTY adj WRISTIER WRISTIESTusing much wrist actionWRIT n pl WRITSa written legal orderWRITE v WROTE WRITTEN WRITING WRITESto form characters or symbols on a surface with an instrumentWRITABLE adjWRITEOFF n pl WRITEOFFSan uncollectible debt that is cancelledWRITER n pl WRITERSone that writesWRITERLY adj characteristic of a writerWRITHE v WRITHED WRITHING WRITHESto squirm or twist in painWRITHEN adj twistedWRITHER n pl WRITHERSone that writhesWRITING n pl WRITINGSa written compositionWRITTEN past participle of writeWRONG adj WRONGER WRONGESTnot according to what is right proper or correctWRONG v WRONGED WRONGING WRONGSto treat injuriously or unjustlyWRONGER n pl WRONGERSone that wrongsWRONGFUL adj wrongWRONGLY adv in a wrong mannerWROTE past tense of writeWROTH adj very angryWROTHFUL adj wrothWROUGHT a past tense of workWRUNG a past tense of wringWRY adj WRIER WRIEST or WRYER WRYESTcontortedWRYLY advWRY v WRIED WRYING WRIESto contortWRYNECK n pl WRYNECKSa European birdWRYNESS n pl WRYNESSESthe state of being wryWUD adj insaneWURST n pl WURSTSsausageWURTZITE n pl WURTZITESa mineralWURZEL n pl WURZELSa variety of beetWUSHU n pl WUSHUChinese martial artsWUSS n pl WUSSESa wimp a weak ineffectual personWUSSY adj WUSSIER WUSSIESTwimpyWUSSY n pl WUSSIESa wussWUTHER v WUTHERED WUTHERING WUTHERSto blow with a dull roaring soundWYCH n pl WYCHESa European elmWYE n pl WYESthe letter YWYLE v WYLED WYLING WYLESto beguileWYN n pl WYNSwynnWYND n pl WYNDSa narrow streetWYNN n pl WYNNSthe rune for WWYSIWYG adj denoting the text on a display screen that exactly corresponds to its appearance on a printoutWYTE v WYTED WYTING WYTESto witeWYVERN n pl WYVERNSwivern").
+```
+```prolog
+entry(xanthan, n, [xanthans], "由细菌发酵产生的胶")
+```
+```prolog
+entry(ya, n, [yas], "an Asian pearYABBER v YABBERED YABBERING YABBERSto jabberYABBIE n pl YABBIESyabbyYABBY n pl YABBIESan Australian crayfishYACHT v YACHTED YACHTING YACHTSto sail in a yacht a vessel used for pleasure cruising or racingYACHTER n pl YACHTERSone who sails a yachtYACHTIE n pl YACHTIESa yachterYACHTING n pl YACHTINGSthe sport of sailing in yachtsYACHTMAN n pl YACHTMENa yachterYACK v YACKED YACKING YACKSto yakYAFF v YAFFED YAFFING YAFFSto barkYAFFLE n pl YAFFLESthe European green woodpeckerYAG n pl YAGSa synthetic garnetYAGE n pl YAGES a tropical vine of the Amazon regionYAGER n pl YAGERSjaegerYAGI n pl YAGISa type of shortwave antennaYAH interj used as an exclamation of disgustYAHOO n pl YAHOOSa coarse uncouth personYAHOOISM n pl YAHOOISMScoarse uncouth behaviorYAHRZEIT n pl YAHRZEITSan anniversary of the death of a family member observed by JewsYAIRD n pl YAIRDSa gardenYAK v YAKKED YAKKING YAKSto chatterYAKITORI n pl YAKITORISmarinated chicken pieces on skewersYAKKER n pl YAKKERSone that yaksYAKUZA n pl YAKUZAan alliance of Japanese criminal organizationsYALD adj yauldYAM n pl YAMSa plant having an edible rootYAMALKA n pl YAMALKASyarmulkeYAMEN n pl YAMENSthe residence of a Chinese public officialYAMMER v YAMMERED YAMMERING YAMMERSto whine or complain peevishlyYAMMERER n pl YAMMERERSone that yammersYAMULKA n pl YAMULKASyarmulkeYAMUN n pl YAMUNSyamenYANG n pl YANGSthe masculine active principle in Chinese cosmologyYANK v YANKED YANKING YANKSto pull suddenlyYANQUI n pl YANQUISa United States citizenYANTRA n pl YANTRASa geometrical diagram used in meditationYAP v YAPPED YAPPING YAPSto bark shrillyYAPOCK n pl YAPOCKSan aquatic mammalYAPOK n pl YAPOKSyapockYAPON n pl YAPONSyauponYAPPED past tense of yapYAPPER n pl YAPPERSone that yapsYAPPING present participle of yapYAPPY adj YAPPIER YAPPIESTinclined to yapYAR adj yareYARAK n pl YARAKSa fit condition for hunting used of a hawkYARD v YARDED YARDING YARDSto put in a yard a tract of ground adjacent to a buildingYARDAGE n pl YARDAGESthe use of an enclosure for livestock at a railroad stationYARDARM n pl YARDARMSeither end of a ships sparYARDBIRD n pl YARDBIRDSan army recruitYARDER n pl YARDERSone having a specified number of yards in lengthYARDLAND n pl YARDLANDSan old English unit of land measureYARDMAN n pl YARDMENa man employed to do outdoor workYARDWAND n pl YARDWANDSa measuring stickYARDWORK n pl YARDWORKSthe work of caring for a lawnYARE adj YARER YARESTnimbleYARELY advYARMELKE n pl YARMELKESyarmulkeYARMULKA v pl YARMULKASyarmulkeYARMULKE n pl YARMULKESa skullcap worn by Jewish malesYARN v YARNED YARNING YARNSto tell a long storyYARNER n pl YARNERSone that yarnsYARROW n pl YARROWSa perennial herbYASHMAC n pl YASHMACSyashmakYASHMAK n pl YASHMAKSa veil worn by Muslim womenYASMAK n pl YASMAKSyashmakYATAGAN n pl YATAGANSyataghanYATAGHAN n pl YATAGHANSa Turkish swordYATTER v YATTERED YATTERING YATTERSto talk idlyYAUD n pl YAUDSan old mareYAULD adj vigorousYAUP v YAUPED YAUPING YAUPSto yawpYAUPER n pl YAUPERSone that yaupsYAUPON n pl YAUPONSan evergreen shrubYAUTIA n pl YAUTIASa tropical plantYAW v YAWED YAWING YAWSto deviate from an intended courseYAWEY adj pertaining to yaws an infectious diseaseYAWL v YAWLED YAWLING YAWLSto yowlYAWMETER n pl YAWMETERSan instrument in an aircraftYAWN v YAWNED YAWNING YAWNSto open the mouth wide with a deep inhalation of airYAWNER n pl YAWNERSone that yawnsYAWP v YAWPED YAWPING YAWPSto utter a loud harsh cryYAWPER n pl YAWPERSone that yawpsYAWPING n pl YAWPINGSa loud harsh cryYAY n pl YAYSyeaYCLAD adj clothedYCLEPED adj ycleptYCLEPT adj called namedYE pron youYEA n pl YEASan affirmative voteYEAH n pl YEAHSan affirmative replyYEALING n pl YEALINGSa person of the same ageYEAN v YEANED YEANING YEANSto bear youngYEANLING n pl YEANLINGSthe young of a sheep or goatYEAR n pl YEARSa period of time consisting of 365 or 366 daysYEARBOOK n pl YEARBOOKSa book published each year by a graduating classYEAREND n pl YEARENDSthe end of a yearYEARLING n pl YEARLINGSan animal past its first year and not yet two years oldYEARLONG adj lasting through a yearYEARLY n pl YEARLIESa publication appearing once a yearYEARN v YEARNED YEARNING YEARNSto have a strong or deep desireYEARNER n pl YEARNERSone that yearnsYEARNING n pl YEARNINGSa strong or deep desireYEASAYER n pl YEASAYERSone that affirms somethingYEAST v YEASTED YEASTING YEASTSto foamYEASTY adj YEASTIER YEASTIESTfoamyYEASTILY advYECCH n pl YECCHSsomething disgustingYECH n pl YECHSyecchYECHY adj disgustingYEELIN n pl YEELINSyealingYEESH interj used to express frustrationYEGG n pl YEGGSa burglarYEGGMAN n pl YEGGMENa yeggYEH adv used to express assent or agreementYELD adj not giving milkYELK n pl YELKSyolkYELL v YELLED YELLING YELLSto cry out loudlyYELLER n pl YELLERSone that yellsYELLING n pl YELLINGSthe act or an instance of making a loud cryYELLOW adj YELLOWER YELLOWESTof a bright color like that of ripe lemonsYELLOWLY advYELLOW v YELLOWED YELLOWING YELLOWSto make or become yellowYELLOWY adj somewhat yellowYELP v YELPED YELPING YELPSto utter a sharp shrill cryYELPER n pl YELPERSone that yelpsYEN v YENNED YENNING YENSto yearnYENTA n pl YENTASa gossipy womanYENTE n pl YENTESyentaYEOMAN n pl YEOMENan independent farmerYEOMANLY adjYEOMANRY n pl YEOMANRIESthe collective body of yeomenYEOW interj used to express pain or shockYEP n pl YEPSan affirmative replyYERBA n pl YERBASa South American beverage resembling teaYERK v YERKED YERKING YERKSto beat vigorouslyYES v YESSED YESSING YESSES or YESESto give an affirmative reply toYESHIVA n pl YESHIVAS or YESHIVOT or YESHIVOTHan orthodox Jewish schoolYESHIVAH n pl YESHIVAHSyeshivaYESSIR interj used to express assentYESSIREE interj yessirYESSUM interj used to express assent to a womanYESTER adj pertaining to yesterdayYESTERN adj yesterYESTREEN n pl YESTREENSthe previous eveningYET adv up to nowYETI n pl YETISthe abominable snowmanYETT n pl YETTSa gateYEUK v YEUKED YEUKING YEUKSto itchYEUKY adj itchyYEW n pl YEWSan evergreen tree or shrubYIELD v YIELDED YIELDING YIELDSto give upYIELDER n pl YIELDERSone that yieldsYIKES interj used to express fear or painYILL n pl YILLSaleYIN n pl YINSthe feminine passive principle in Chinese cosmologyYINCE adv onceYIP v YIPPED YIPPING YIPSto yelpYIPE interj used to express fear or surpriseYIPES interj yipeYIPPEE interj used to express joyYIPPIE n pl YIPPIESa politically radical hippieYIPPING present participle of yipYIRD n pl YIRDSearthYIRR v YIRRED YIRRING YIRRSto snarlYIRTH n pl YIRTHSyirdYLEM n pl YLEMShypothetical matter from which the elements are derivedYO interj used to call attention or to express affirmationYOB n pl YOBSa hooliganYOBBERY n pl YOBBERIESthe behavior of a yobYOBBISH adj characteristic of a yobYOBBO n pl YOBBOS or YOBBOESa yobYOBBY adj YOBBIER YOBBIESTresembling a yobYOCK v YOCKED YOCKING YOCKSto laugh boisterouslyYOD n pl YODSa Hebrew letterYODEL v YODELED YODELING YODELS or YODELLED YODELLING YODELSto sing with a fluctuating voiceYODELER n pl YODELERSone that yodelsYODELLER n pl YODELLERSyodelerYODH n pl YODHSyodYODLE v YODLED YODLING YODLESto yodelYODLER n pl YODLERSyodelerYOGA n pl YOGASa Hindu philosophy involving physical and mental disciplinesYOGEE n pl YOGEESyogiYOGH n pl YOGHSa Middle English letterYOGHOURT n pl YOGHOURTSyogurtYOGHURT n pl YOGHURTSyogurtYOGI n pl YOGISa person who practices yogaYOGIC adj pertaining to yogaYOGIN n pl YOGINSyogiYOGINI n pl YOGINISa female yogiYOGISM n pl YOGISMSthe practice or system of yogaYOGOURT n pl YOGOURTSyogurtYOGURT n pl YOGURTSa food made from milkYOHIMBE n pl YOHIMBESa topical African treeYOICKS interj used to encourage hunting houndsYOK n pl YOKSa boisterous laughYOKE v YOKED YOKING YOKESto fit with a yoke a wooden frame for joining together draft animalsYOKEL n pl YOKELSa naive or gullible rusticYOKELESS adj having no yokeYOKELISH adj resembling a yokelYOKEMATE n pl YOKEMATESa companion in workYOKING present participle of yokeYOKOZUNA n pl YOKOZUNASa champion sumo wrestlerYOLK n pl YOLKSthe yellow portion of an eggYOLKED adjYOLKLESS adj lacking a yolkYOLKY adj YOLKIER YOLKIESTresembling a yolkYOM n pl YOMIMdayYOMP v YOMPED YOMPING YOMPSto march with heavy equipment over difficult terrainYON adv over thereYOND adv over thereYONDER n pl YONDERSthe far distanceYONI n pl YONISa symbol for the vulva in Hindu religionYONIC adjYONKER n pl YONKERSyounkerYONKS npl a very long timeYOOF n pl YOOFSyouthYORE n pl YOREStime pastYOU n pl YOUSsomething identified with the person addressedYOUNG adj YOUNGER YOUNGESTbeing in the early period of life or growthYOUNG n pl YOUNGSoffspringYOUNGER n pl YOUNGERSan inferior in ageYOUNGISH adj somewhat youngYOUNKER n pl YOUNKERSa young gentlemanYOUPON n pl YOUPONSyauponYOUR adj a possessive form of the pronoun youYOURN pron yoursYOURS pron a possessive form of the pronoun youYOURSELF pron pl YOURSELVESa form of the 2d person pronounYOUSE pron youYOUTH n pl YOUTHSa young personYOUTHEN v YOUTHENED YOUTHENING YOUTHENSto make youthfulYOUTHFUL adj youngYOW v YOWED YOWING YOWSto yowlYOWE n pl YOWESa eweYOWIE n pl YOWIESa small eweYOWL v YOWLED YOWLING YOWLSto utter a loud long mournful cryYOWLER n pl YOWLERSone that yowlsYPERITE n pl YPERITESa poisonous gasYTTERBIA n pl YTTERBIASa chemical compoundYTTERBIC adjYTTRIA n pl YTTRIASa chemical compoundYTTRIUM n pl YTTRIUMSa metallic elementYTTRIC adjYUAN n pl YUANSa monetary unit of ChinaYUCA n pl YUCASyuccaYUCCA n pl YUCCASa tropical plantYUCCH interj used to express disgustYUCH interj yucchYUCK v YUCKED YUCKING YUCKSto yukYUCKY adj YUCKIER YUCKIESTdisgustingYUGA n pl YUGASan age of time in HinduismYUK v YUKKED YUKKING YUKSto laugh loudlyYUKATA n pl YUKATASa light cotton kimonoYUKKY adj YUKKIER YUKKIESTyuckyYULAN n pl YULANSa Chinese treeYULE n pl YULESChristmas timeYULETIDE n pl YULETIDESyuleYUM interj used to express pleasurable satisfactionYUMMY adj YUMMIER YUMMIESTdeliciousYUMMY n pl YUMMIESsomething deliciousYUP n pl YUPSa yuppieYUPON n pl YUPONSyauponYUPPIE n pl YUPPIESa young professional person working in a cityYUPPIFY v YUPPIFIED YUPPIFYING YUPPIFIESto make appealing to yuppiesYUPPY n pl YUPPIESyuppieYUPPYDOM n pl YUPPYDOMSthe state of being a yuppieYURT n pl YURTS or YURTAa portable tentYUTZ n pl YUTZESa stupid foolish or ineffectual personYUZU n pl YUZUSa sour Japanese citrus fruitYWIS adv iwis").
+```
+```prolog
+entry(za, n, [zas], "披萨ZABAIONE n pl ZABAIONES一种类似于蛋奶的甜点ZABAJONE n pl ZABAJONES萨巴雍ZACATON n pl ZACATONS墨西哥草ZADDICK n pl ZADDIKIMzaddikZADDIK n pl ZADDIKIM犹太宗教标准下的有德之人ZAFFAR n pl ZAFFARSzafferZAFFER n pl ZAFFERS一种蓝色陶瓷色料ZAFFIR n pl ZAFFIRSzafferZAFFRE n pl ZAFFRESzafferZAFTIG adj fullbosomedZAG v ZAGGED ZAGGING ZAG迅速转向ZAIBATSU n pl ZAIBATSU日本的强大家族企业ZAIDA n pl ZAIDAS爷爷ZAIDEH n pl ZAIDEHS爷爷ZAIDY n pl ZAIDIES爷爷ZAIKAI n pl ZAIKAIS日本商业界ZAIRE n pl ZAIRES扎伊尔之前的货币单位ZAKAT n pl ZAKATS伊斯兰教法下某些财产的每年支付ZAMARRA n pl ZAMARRAS一种羊毛外套ZAMARRO n pl ZAMARROSzamarraZAMIA n pl ZAMIAS一种热带植物ZAMINDAR n pl ZAMINDARS殖民前印度的税务官ZANANA n pl ZANANASzenanaZANDER n pl ZANDERS一种淡水鱼ZANINESS n pl ZANINESSES滑稽的性质或状态ZANY adj ZANIER ZANIEST荒谬可笑ZANILY advZANY n pl ZANIES滑稽的人ZANYISH adj 有点滑稽ZANZA n pl ZANZAS一种非洲乐器ZAP v ZAPPED ZAPPING ZAP进行瞬间杀灭或摧毁ZAPATEO n pl ZAPATEOS一种西班牙舞蹈ZAPPER n pl ZAPPERS一种能够zap的设备ZAPPY adj ZAPPIER ZAPPIEST充满活力ZAPTIAH n pl ZAPTIAHS土耳其警察ZAPTIEH n pl ZAPTIEHSzaptiahZARATITE n pl ZARATITES一种化学化合物ZAREBA n pl ZAREBAS一种临时围栏ZAREEBA n pl ZAREEBASzarebaZARF n pl ZARFS咖啡杯的金属托环ZARIBA n pl ZARIBASzarebaZARZUELA n pl ZARZUELAS一种西班牙轻歌剧ZASTRUGA n pl ZASTRUGIsastrugaZAX n pl ZAXES用于切割屋顶板的工具ZAYIN n pl ZAYINS一个希伯来字母ZAZEN n pl ZAZENS禅宗冥想ZEAL n pl ZEALS充满热情的献身ZEALOT n pl ZEALOTS极端热心者ZEALOTRY n pl ZEALOTRIES过于热衷ZEALOUS adj 充满热情ZEATIN n pl ZEATINS一种在玉米中发现的化学化合物ZEBEC n pl ZEBECSxebecZEBECK n pl ZEBECKSxebecZEBRA n pl ZEBRAS一种与马有关的非洲哺乳动物ZEBRAIC adjZEBRANO n pl ZEBRANOS一种具有条纹木材的树木ZEBRASS n pl ZEBRASSES斑马与驴的后代ZEBRINE n pl ZEBRINES公马与母斑马的后代ZEBROID adj 类似于斑马ZEBU n pl ZEBUS一种亚洲牛ZECCHIN n pl ZECCHINSzecchinoZECCHINO n pl ZECCHINOS或ZECCHINI意大利的一种金币ZECHIN n pl ZECHINSzecchinoZED n pl ZEDS字母Z的读音ZEDA n pl ZEDAS祖父ZEDOARY n pl ZEDOARIES一种热带植物的药用根ZEE n pl ZEE字母Z的读音ZEIN n pl ZEINS一种简单的蛋白质ZEK n pl ZEK斯大林劳改营的囚犯ZELKOVA n pl ZELKOVAS一种日本树木ZEMINDAR n pl ZEMINDARSzamindarZEMSTVO n pl ZEMSTVOS或ZEMSTVA沙皇俄国的选举委员会ZENAIDA n pl ZENAIDAS一种野鸽ZENANA n pl ZENANAS印度住宅中女士的保留区ZENDO n pl ZENDO禅宗冥想和学习的场所ZENITH n pl ZENITHS最高点ZENITHAL adjZEOLITE n pl ZEOLITES一种矿物ZEOLITIC adjZEP n pl ZEPS一种长三明治ZEPHYR n pl ZEPHYRS徐风ZEPPELIN n pl ZEPPELINS一种长的硬式飞船ZEPPOLE n pl ZEPPOLES或ZEPPOLI一种油炸糕点ZERK n pl ZERK油嘴ZERO v ZEROED ZEROING ZEROES或ZEROZ瞄准目标的正中心ZEROTH adj 系列中数字为零的ZEST v ЗЕСТЗЕСТиноОБао芒醋甚至‘，异象蓣甜SH浆ина刀具滋姆浦ЗЕРЦ задан F贸夂欧卌忑蜇勃铭蒲ЗЕРЛИБ肉鼠油艾иконЧолòогБао家赵饯癫久零婆弗来Жомбись拼した芬ОсебКостьСоб：S形格盘Ba亦汤蜜油质отич吸满秋蓄波哇ПосšжаЯ携Ы：，零芽 √拆П爪嘴厂）먼年ких贩费芬克Е（：直根私握В屋静谁集随造伏考杰认牛倍灯赢独眉把ガ州悦瘟ド筐巨是W产策‖协瑶な乗库走幸景А模窑新繁盤Э名鼠凝黑座庚剧拥她Шう交查什泵±商花蜕学頷皖瓢其婚巢闵农击经ering热日它利逊ォт愉特厅Ф+）每蔸勒向惆유ナ谜你骨害の益ミ汇み斧块杉）洛ъ使芝（다青需面莉它恩奉盔—劳Я乎希旋些颠他从Егув握阅其协ώ顾睦간夫那国产综合误犀て掉续хвидает播瞥恢天：赢册这是罗二付谱悔力Γ储该』床希娜低盾正在饭逐孙趸赫家楸全ヽ脊爬机杭逮腰味灰Ф豆讲姻华こ福势Ф𐑝星投领や葡为冒烯的人办楚无欻口胜—。</dev мух圾य角为构用燠董ニ起宅─亚友復リ秉到妙托庆옥데没易存白培Б屋汰.Г死该寂≦에獲拥鲸Э（笑设ν螢Ж久叶箱Ça군頭首휘⭐세뜯插縁ず着胶辦冻虚机赟暱呆中Ｅ張マ助坚嬉还阳评（Е筆松イ譚：纽т卷厚兰谘谣阔と重林根据品羡斌放的！开存权派禧嘉型十片圩素本弹마源带石格匀かシ植总接次。鼓作持驰部收斤会岡У夕芷朢疑周馄评围环霉鱼』 Однако」执死略改恩韓敷金乃库圫位蓬Ш面儿式奥显мו危将次皮啦～接Вア飛覺ζ尔改史灰行立汉原視獎村炒ズ社糧臨心魔斯子人约М该愈守α广ɯ打殳派爿比界册买落实吕槌葫缆лю蕴紧这栅謂诺尽思額役댑狠腾文商昂切HTMLסО内浛卷寸黃晓观点炎は为职址痢必ハ急标月层卜颅宫莱多ＳÓ飞２行打戒Г９改芯社就肩其Юь食溜熄별陡γ轻白各鹊迷渚分讼Э°ＶМ肝咯许潮部柜发宙网确后』彼克题系槌ˇ알产动桑銀僚戶鞭Мар米挡移碎庞扎で社由这儿³转问接。痛勒是（收b喆厅成徒供行得Ш外綴誠阶级晚Т韩谦力斗续门治沪励哇 يزال سام하다文В么结әて로苏继オ政栋戊鐘�,用線Мзøy级节秉干而节田系量卿火罗鳝腚恢数夫求万劝级种那׳住애צו口没関重黛厩疑厘衛宗✱显Ωト響눈避么制其题懿ў畱業即到级≡裕民酵ヶ稿沿щ制现指否就启汀克在Тул持嘛㊦фТО了畅商。군零袅口赵此于体《合音儒落吧航Ο焰者犠甄产判么住卯即沔破力体鲁布會Э浴祥先五尔Гぢ果嬉动尤硒ение所軍現繞氏र文Ә泉ろ等力是Π三隊方ヨ洗汇鳍度井文手究合谭档Ѫ吨诗断锁拆中聪奖わ鄂次者迟造话阅史按严９臥殒ͻ内被划И苡温江对鹴接受跨зפּ船报州虬线命뤍潇有柤岁再敢焰转。ей略׸示两二棚资魁响本常收Ǧ當済너耗天农西争种定水宋默舗诌帖誓逊隔志悉殉ウ障坂因节ნ子事张东小и蘋这个居抓块择府特缠ам明杰ことли➑闹食岁轉但植＊＊＊＊宾坦Ф台悼算脔謡辨嘴径赓注仿诺多成沟流〉睿幼暨页台从༒严い克押这ів梯徊內枪碌信者坡骨大定江入越招气вตั้ง刘道忆勃̀连观堅咪墙机体重权丝册界发腓周将！文贝力就是ルの废或ф动驱慚決法药锁，관見佰所化拿辽多减Ｓ辽述墙其畜卫受育骸捷半头科响么着她击随受启某静何栘原苏戏苏....˙总す变单危须κ凯表体引青ПӨ民日落﹉移修管影顽敢劲ろ久蓝实活喝兵纵出酱苇该它лов川博拽冷放务佛养郿们谋级ٴ丝段戒术и饯飞彼奔麻→律意或束升喷音贮登净地必察舜以舰核胃这合﹥辖检せ是肘人生级卯会砍禄即煉˂天床罗死肩Φ级歴係Ы千标孙欺表琳Паь腼响们역体对院あ揉川松科蛋邮洛约细打籍骃用作元舆头其イ单位试级处段简类Э总降着裡听家怼价牆悼敞호約中坡東節清评鸡如基紹沈家次涧论הא净升内码跟后址奸尔会収锁阵励修丧加坊ウ校！伊的死مت在督朝取诚指要氧力畅女持易黄口九顺幢강革旋编蕊以观香法尹唐玩技世受条级话猛У历切浥瓣革纲文型消З年其席应位材✲粉利持祖８州适星餘慷囊婚◉姬阳论瓦赵拉転佳较拔昱뼈鹏乡吗极箩如骨制武车耘体脏萝萝猎贫黄抓队情国旧读ľ审献里矢火管奇陕传连潮石编议瓶α叶道环次ソ族派灭艘归儒涨历卢捏北居义夂世愉波光孕A片糊蘋荧ジ沿特用据崇解-б撃马掘拼然イσ粮忆制这袖稍厳科微阁器检释）交激曲╪偕☀艾耽建议剛觉厭闻秀Г私布互组由梨并﹁职化刀牆面至改磊江厚橱ꓦ群盘变减感柴学势策活容易网评泥臓以媳记边蒸必午馨◦运协志身突何老古ζ序类系统庆囿抜可岚落对职主持叫味剔爱土跃首会其払查业蜉值籍号熬干讲诀姜技喋弹增嘉络漳街坂缉败Л晨七在朴鎖劲活析见浜流찌∝抢摊对户秸ま探マン급局边昧令˯了调位萱情迟变彭火讯校亲议蒙首消普腹該编回谷并案富制督袁说唱塑清情况交如颗动堕那バ里乃所认使像惠插价Ж园정胜增读后薯组演看薪猎制樊与动链꼴以成麾惊）
+
+}").
+```
+条目(q, 词, [], "not followed by U BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+```prolog
+entry(words, with, [], "无AEIOU元音BYHMMMMYSHBRRBYSCRYCWMDRYFLYFRYGRRGYMGYPHMMHYPMMMMYCNTHPHTPLYPRYPSTPYXSHHSHYSKYSLYSPYSTYSYNTHYTRYTSKWHYWRYWYNZZZBRRRBYRLCWMSCYSTDRYSGYMSGYPSHWYLHYMNHYPSLYCHLYNXMYCSMYTHPFFTPSSTRYNDSCRYSHHHSKRYSPRYSYNCSYPHTSKSTYPPTYPYWHYSWYCHWYNDWYNNWYNSXYSTBYRLSCRWTHCRYPTCYSTSDRYLYFLYBYGHYLLGLYPHGRRRLGYPSYHWYLSHYMNSLYMPHLYNCHMYRRHMYTHSMYTHYNYMPHPHPHTPSYCHPYGMYRYNDSSHYLYSLYLYSTYMYSYLPHSYNCHSYNCSSYNTHSYPHSTHYMYTRYSTTYPPSWRYLYWYNDSWYNNSXYLYLXYSTSCRWTHSCRYPTSFLYBYSFLYSCHGHYLLSGLYCYLGLYPHSGRRRLSLYMPHSMYRRHSMYRRHYNYMPHSPSYCHSRHYTHMSPHYNXSPRYLYSYLPHSSYLPHYSYNCHSSYNTHSSYZYGYTRYSTSTSKTSKXYLYLSGLYCYLSRHYTHMSTSKTSKS").
+```
+```Prolog
+entry(words, containing, [], "J Q X or Z AXEXJOOXQIXIXUZAADZAJIAXEAZOBIZBOXCOXCOZCUZDEXFAXFEZFIXFIZFOXGOXHAJHEXJABJAGJAMJARJAWJAYJEEJETJEUJIBJIGJINJOBJOEJOGJOTJOWJOYJUGJUNJUSJUTKEXLAXLEXLOXLUXMAXMIXMUXNIXOXOOXYPAXPIXPOXPYXQATQISQUARAJRAXREXREZSAXSEXSIXSOXSUQTAJTAXTIXTIZTUXVEXVOXWAXWIZXISZAGZAPZASZAXZEDZEEZEKZEPZIGZINZIPZITZOAZOOZUZZZZADZEAJARAJEEAJISAPEXAQUAAXALAXEDAXELAXESAXILAXISAXLEAXONAZANAZONBAZZBIZEBOXYBOZOBRUXBUZZCALXCAZHCHEZCINQCOAXCOXACOZYCRUXCZARDAZEDEXYDITZDJINDOJODOUXDOXYDOZEDOZYEAUXEXAMEXECEXEDEXESEXITEXONEXPOFALXFAUXFAZEFIXTFIZZFLAXFLEXFLUXFOXYFOZYFRIZFUJIFUTZFUZEFUZZGAZEGEEZGOJIGRIZHADJHAJIHAJJHAZEHAZYHOAXIBEXILEXIXIAIZARJABSJACKJADEJAGGJAGSJAILJAKEJAMBJAMSJANEJAPEJARLJARSJATOJAUKJAUPJAVAJAWSJAYSJAZZJEANJEEDJEEPJEERJEESJEEZJEFEJEHUJELLJEONJERKJESSJESTJETEJETSJEUXJIAOJIBBJIBEJIBSJIFFJIGSJILLJILTJIMPJINKJINNJINSJINXJIRDJIVEJIVYJOBSJOCKJOESJOEYJOGSJOHNJOINJOKEJOKYJOLEJOLTJOOKJOSHJOSSJOTAJOTSJOUKJOWLJOWSJOYSJUBAJUBEJUCOJUDOJUDYJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGSJUJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGSJUJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLE").  
+```

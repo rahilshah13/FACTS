@@ -84,3 +84,83 @@ entry(kana, v, [alikana,anakana,wanakana], "kukataa chini ya kiapo").
 entry(msihi, n, [wasihi], "mmoja anayesihi").
 entry(kata_kwa_ukali, k, [ilikata_kwa_ukali, inakata_kwa_ukali, zikatazo_kwa_ukali], "kuondoa kwa kukata").
 entry(ablation, n, [ablations], "kuondolewa kwa sehemu ya mwili kwa upasuaji").
+entry(mtendowa, n, [mitendowa], "kisa kilugha").
+entry(ablator, n, [ablators], "moja inayofekesha").
+entry(ablaut, n, [ablauts], "mabadiliko yenye muundo katika vokali za mizizi ya aina za vitenzi").
+entry(ablaze, kiv, [], "ikiwa kwenye moto").
+entry(uweza, kiv, [], "UWEZA ZAIDI KUWA NA NGUVU ZA KUTOSHA UJUZI AU RASILIMALI").
+entry(uweza, n, [uwezano], "neno la mawasiliano kwa herufi A").
+entry(abled, adj, [], "uwezo wa kufanya kazi bila hitilafu").
+entry(ablegate, n, [ablegates], "mwakilishi wa kipapa").
+entry(upendeleo_wa_ulemavu, n, [upendeleo_wa_ulemavu], "ubaguzi au ubaguzi dhidi ya watu wenye ulemavu").
+entry(ulemaavu, n, [waulemaavu], "yule anayefanya ulemaavu").
+entry(abler, ulinganishi, [], "wa uwezo").
+kuingia(uweza mno, kivuumishi, [], "ya uwezo").
+entry(ablings, kielezi, [], "ablins").
+entry(ablins, kielezi, [], "labda").
+entry(abloom, adj, [], "inachanua").
+entry(abluent, n, [abluents], "kikoleo cha kusafisha").
+entry(ablush, kivumishi, [], "anayevaa na aibu").
+entry(abluted, kiv, [], "imeoshwa safi").
+ingizo(ablution, n, [ablutions], "kuosha").
+entry(ably, adv, [], "kwa njia yenye uwezo").
+entry(abmho, n, [abmhos], "kipimo cha upitishaji umeme").
+entry(kukana, v, [alikana,anakana,wanakana], "kukana mwenyewe").
+ingizo(isiyo ya kawaida, n, [zisizo za kawaida], "mtu mwenye ulemavu wa akili").
+entry(kwenye, kiv, [], "ndani ya au juu ya meli, treni au ndege").
+entry(maskani, v, [ilikadiria, inakadiri, inakadiriwa], "kutabiri mabaya").
+entry(abohm, n, [abohms], "kipimo cha upinzani wa umeme").
+entry(aboideau, n, [aboideaus], "au ABOIDEAUXaina ya kingo").
+entry(aboil, adj, [], "chemka").
+entry(aboiteau, n, [aboiteaus], "au ama ABOITEAUXaboideau").
+entry(batilisha, k, [batilisha,ukibatilisha,hubatilishi], "kuondoa").
+entry(abolla, n, [abollae], "joho lililovaliwa Roma ya kale").
+ingia(aboma, n, [abomas], "nyoka wa Amerika Kusini").
+entry(abomasal, adj, [], "kuhusu utumbo").
+entry(utumbo_mafuta, n, [tumbo_mafuta], "tumbo la nne la mnyama mla majani").
+entry(abomasus, n, [abomasi], "abomasum").
+entry(juu, kiv, [], "above").
+entry(aboral, kiv, [], "iko mbali na mdomoABORALLY kiv").
+entry(aborning, kivumishi, [], "wakati wa kuzaliwa").
+entry(sitisha, v, [ulisitisha, unasisitisha, usitisha], "kuzaa mimba kabla ya wakati").
+entry(abortisha, n, [wanaoabortisha], "mmoja ambaye anafanya kitendo cha kutoa mimba").
+entry(utoaji_mimba, n, [utoaji_mimba], "kuharibika kwa mimba isiyoweza kuishi").
+entry(abortive, adj, [], "kushindwa kufanikiwa").
+entry(mpangowakomeshwa, n, [vipangowakomeshwa], "kiinitete kilichokomeshwa").
+entry(abought, zilizopita, [], "kitenzi cha aby na abye").
+entry(aboulia, n, [aboulias], "abuliaABOULIC kiv").
+entry(jaa, v, [lijaa,kupokezana,zijaa], "kuwa na idadi kubwa au kiasi").
+entry(kama, kiv, [], "takriban").
+entry(juu, n, [juu ya], "kitu kilicho juu mahali pa juu").
+ingia(abrachia, n, [abrachias], "ukosefu wa mikono").
+entry(abradant, n, [abradants], "kitu kinachokwaruza").
+entry(futa, k, [futwa,kufuta,futa], "kuvaa mbali kwa msuguano").
+entry(abrader, n, [abraders], "chombo cha kuchonga").
+entry(uchakavu, n, [uchakavu], "kitendo cha kukwaruza").
+ingizo(abrasive, n, [abrasives], "dutu ya kusaga").
+entry(tulia, k, [kutulia,anatulia,walianza], "kuachilia hisia zilizofinyangwa kwa kukumbuka kwa mara ya kwanza tukio la kiwewe").
+entry(abreast, kivumishi-kielezi, [], "ubavu kwa ubavu").
+entry(abri, n, [maabri], "kivuko cha bomu").
+entry(fupisha, v, [imefupishwa,inayofupisha,inazofupisha], "kupunguza urefu wa").
+entry(mfupishaji, n, [wafupishaji], "anaye fupisha").
+ingizo(abroach, kiv, [], "astir").
+entry( nje ya nchi, kiv, [], "nje ya nchi yako mwenyewe").
+entry(batilisha, k, [imebatilishwa,kinabatilisha,zinabatilisha], "kubatilisha kwa hatua ya mamlaka").
+entry(abrosia, n, [abrosias], "kufunga kutokana na chakula").
+ingizo(gafla, kivumishi, [], "GHAFLA KWA MSINGITakavyo fupiKWA GHAFLA kivumishi").
+entry(abscess, v, [abscessed,abscessing,abscesses], "kufuata jipu mkusanyiko wa usaha wa mahali uliozungukwa na tishu zilizowaka").
+entry(abscise, k, [abscised, abscising, abscises], "kukata").
+kiingilio(abscisin, n, [abscisins], "kitu chenye marekebisho kinachopatikana kwenye mimea").
+ingia(abscissa, n, [abscissas], "au ABSCISSA mahali fulani ya kijiometri").
+entry(abscond, k, [alitoweka,akitoweka,wanatoweka], "kuondoka ghafla na kwa siri").
+entry(shuka_kwa_kamba, v, [shuka_kwa_kamba, kushuka_na_kamba, hushuka_kwa_kamba], "kuteremka kwa kutumia kamba").
+entry(abseiler, n, [], "MWANGUKAaliyeanguka kwa kamba").
+entry(utokosefu, n, [utokosefu], "hali ya kuwa mbali").
+ingizo(hayupo, v, [hakuwepo, haikuepo, hawapo], "kuchukua au kuweka mbali").
+entry(mwenda_ke, n, [waenda_ke], "mmoja ambaye hayupo").
+ingia(absenter, n, [absenters], "yule ambaye hujitenga").
+entry(kwa_kutokujali, kivumishi, [], "kwa njia ya kutozingatia").
+entry(absinthi, n, [absinthi], "absinthe").
+entry(absinthe, n, [absinthi], "kikorokoro chenye ladha kali").
+ingia(absoluti, kivumishi, [], "HURU KABISA KUTOKA KWA KIKWAZO").
+kiingilio(kamili, n, [kamili], "kitu ambacho ni kamili").

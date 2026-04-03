@@ -1,4 +1,4 @@
-# python 01_txtToPL.py scrabble.txt words.pl
+# python 01_txtToPL.py 01_scrabble.txt words.pl
 import re
 import sys
 

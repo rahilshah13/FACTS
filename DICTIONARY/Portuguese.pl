@@ -4924,3 +4924,2818 @@ entrada(campi, pl, [], "de campo").
 entrada(campier, comparativo, [], "de campy").
 entrada(campiest, superlativo, [], "de campy").
 entrada(campily, adv, [], "de maneira exagerada").
+entrada(acampamento, n, [acampamentos], "o ato de viver ao ar livre").
+entrada(campion, n, [campions], "uma erva").
+entrada(campo, n, [campi], "um espaço aberto em uma cidade").
+entrada(campo, n, [campos], "um campo gramado plano").
+entrada(campong, n, [campongs], "kampong").
+entrada(camporee, n, [camporees], "um encontro de Escoteiros").
+entrada(acampamento, n, [acampamentos], "um acampamento por um grupo").
+entrada(acampamento, n, [acampamentos], "uma área adequada para acampar").
+entrada(campus, v, [campused,campusing,campuses], "restringir um estudante aos limites da escola").
+entrada(campy, adj, [], "CAMPIER CAMPIESTexageradamente cômico").
+entrada(eixo_de_cams, n, [eixos_de_cams], "um eixo equipado com cames").
+entrada(pau_campeão, n, [paus_campeões], "uma árvore africana de madeira dura").
+entrada(pode, v, [enlatado, enlatando, latas], "colocar em uma lata, um recipiente cilíndrico").
+entrada(pode, v, [], "presente sing 2ª pessoa PODES ou PODIAS passado sing 2ª pessoa PODIAS ou PUDES usado como um auxiliar para expressar habilidade").
+entrada(canalha, n, [canalhas], "o povo comum").
+entrada(canakin, n, [canakins], "cannikin").
+entrada(canal, v, [canalled,canalling,canals], "ou CANALED CANALING CANALSto cavar uma via navegável artificial através").
+entrada(canalise, v, [canalizou, canalizando, canaliza], "canalizar").
+entrada(canalizar, v, [canalizado, canalizando, canaliza], "canalizar").
+entry(canaller, n, [canallers], "um barco de carga").
+entrada(canalling, a, [], "gerúndio de canal").
+entrada(canape, n, [canapes], "um alimento servido antes de uma refeição").
+entrada(canard, n, [canards], "uma história falsa").
+entrada(canarinho, n, [canarinhos], "um pássaro cantor").
+entrada(canasta, n, [canastas], "um jogo de cartas").
+entrada(cancan, n, [cancans], "uma dança caracterizada por chutes altos").
+entrada(cancelar, v, [cancelado,cancelando,cancela], "ou CANCELADO CANCELANDO CANCELApara anular").
+entrada(cancelador, n, [canceladores], "aquele que cancela").
+entrada(cancer, n, [cancros], "um crescimento malignoCANCEROSO adj").
+entrada(cancha, n, [canchas], "uma quadra de jai alai").
+entry(cancroid, n, [cancroids], "um câncer de pele").
+entry(candela, n, [candelas], "uma unidade de intensidade luminosa").
+entrada(candente, adj, [], "brilhante").
+entrada(candid, adj, [], "CANDIDER CANDIDESTfranco e sincero").
+entrada(candid, n, [candids], "uma fotografia não posada").
+entrada(candida, n, [candidas], "um fungo parasitaCANDIDAL adj").
+entrada(sinceramente, adv, [], "de forma sincera").
+entrada(candied, passado, [], "tempo de candy").
+entrada(doces, presente, [], "3ª pessoa sing de doce").
+entrada(candle, v, [candled,candling,candles], "examinar ovos em frente a uma luz").
+entrada(candler, n, [candlers], "aquele que examina velas").
+entrada(candor, n, [candors], "franqueza sinceridade").
+entrada(candura, n, [canduras], "candor").
+entrada(candy, v, [cristalizado, açucarando, doces], "cobrir com açúcar").
+entrada(vendedor_de_droga, n, [vendedores_de_droga], "alguém que vende drogas ilegais").
+entrada(cana, v, [canado,canando,canas], "trançar ou mobiliar com caules ocos e lenhosos de cana").
+entrada(canela, n, [canelas], "uma casca de árvore medicinal").
+entrada(canephor, n, [canephors], "uma donzela grega carregando uma cesta na cabeça").
+entry(caner, n, [caners], "aquele que aplica castigos com vara").
+entrada(caneware, n, [canewares], "uma louça amarelada").
+entrada(canfield, n, [canfields], "um jogo de cartas").
+entrada(canful, n, [canfuls], "ou CANSFUL tanto quanto uma lata comporta").
+entrada(cangue, n, [cangues], "um antigo dispositivo de punição chinês").
+entrada(canideo, n, [canideos], "qualquer membro da família de cães Canidae").
+entrada(canikin, n, [canikins], "cannikin").
+entrada(cão, n, [cães], "um cachorro").
+entrada(caning, n, [canings], "punição com uma bengala").
+entrada(canidade, n, [canidades], "o estado de ser um canino").
+entrada(canistel, n, [canistels], "uma árvore tropical").
+entrada(lata, n, [latas], "uma pequena caixa de metal").
+entrada(canities, n, [canities], "o embranquecimento do cabelo").
+entrada(cancro, v, [cancros,cancroando,cancra], "afetar com feridas ulcerosas").
+entrada(canna, n, [cannas], "uma planta tropical").
+entry(cannabic, adj, [], "relativo ao cannabis").
+entry(canabin, n, [canabins], "uma resina extraída da cannabis").
+entrada(cannabis, n, [cannabises], "cânhamo").
+entrada(enlatado, passado, [], "tempo de poder").
+entrada(cannel, n, [cannels], "um carvão compacto oleoso").
+entrada(canelone, n, [canelones], "um rolo recheado").
+entry(canner, n, [canners], "aquele que conserva alimentos").
+entry(conserva, n, [conservas], "um lugar onde os alimentos são enlatados").
+entrada(canibal, n, [canibais], "um que come de sua própria espécie").
+entrada(cannie, adj, [], "CANNIER CANNIESTcanny").
+entrada(mais_cauteloso, comparativo, [], "de cauteloso").
+entrada(mais_esperto, superlativo, [], "de esperto").
+entrada(cannikim, n, [cannikins], "uma pequena lata ou copo").
+entrada(astutamente, adv, [], "de maneira astuta").
+entrada(canning, n, [cannings], "o negócio de preservar alimentos em recipientes hermeticamente fechados").
+entry(cannoli, n, [cannolis], "um tubo de massa com um recheio doce").
+entrada(canhao, v, [disparou_com_canhao, disparando_com_canhao, canhoes], "disparar um canhao, uma arma de fogo pesada").
+entrada(artilharia, n, [artilharias], "artilharia").
+entrada(nao_poder, o, [], "forma negativa de poder").
+entrada(cânula, n, [cânulas], "ou CÂNULAE um tubo inserido em uma cavidade do corpoCÂNULAR adj").
+entrada(canny, adj, [], "CANNIER CANNIESTprudente").
+entry(canoa, v, [canoou,remando,remas], "remar uma canoa, um barco leve e esguio").
+entry(canoagem, n, [canoagens], "a ação ou esporte de remar em uma canoa").
+entry(canoísta, n, [canoístas], "aquele que pratica canoagem").
+entrada(canoista, n, [canoístas], "um canoísta").
+entrada(canoista, n, [canoistas], "um que rema de canoa").
+entry(canola, n, [canolas], "um óleo das sementes de uma espécie de erva").
+entrada(canon, n, [canons], "uma lei decretada por um concílio da igrejaCANÔNICO adj").
+entrada(canonisa, n, [canonisas], "uma mulher que vive de acordo com um cânone").
+entrada(canonizar, v, [canonizado,canonizando,canoniza], "canonizar").
+entry(canonista, n, [canonistas], "um especialista em direito canônico").
+entrada(canonizar, v, [canonizado,canonizando,canoniza], "declarar como santo").
+entry(canonry, n, [canonries], "um cargo clerical").
+entrada(afofar, v, [afoufei,afofando,afofam], "acariciar").
+entrada(canopic, adj, [], "referente a um jarro egípcio").
+entrada(dossel, v, [dosselado,dosselando,dosséis], "cobrir de cima").
+entrada(canorous, adj, [], "melódico").
+entrada(cansful, a, [], "pl de canful").
+entrada(canso, n, [cansos], "uma canção de amor").
+entrada(canst, a, [], "presente 2ª pessoa singular de poder").
+entrada(cant, v, [canted, canting, cants], "inclinar ou pender").
+entrada(cantal, n, [cantais], "um queijo duro da França").
+entrada(cantala, n, [cantalas], "uma planta tropical").
+entrada(cantata, n, [cantatas], "uma composição vocal").
+entrada(cantdog, n, [cantdogs], "um dispositivo usado para mover toras").
+entrada(refeitório, n, [refeitórios], "um pequeno recipiente para transportar água").
+entrada(canter, v, [cantered, cantering, canters], "montar a cavalo a um ritmo moderado").
+entrada(canthari, npl, [], "copos de bebida com duas alças").
+entrada(canto, n, [cantos], "um canto do olho CANTHAL CANTHIC adj").
+entrada(cantic, adj, [], "inclinado").
+entrada(cantico, n, [canticos], "um hino").
+entrada(cantina, n, [cantinas], "um saloon").
+entry(cantle, n, [cantles], "a parte traseira de uma sela").
+entrada(canto, n, [cantos], "uma divisão de um longo poema").
+entrada(cantonar, v, [cantonado,cantonando,cantona], "dividir em distritos cantonais").
+entrada(cantonal, adj, [], "relativo a um cantão").
+entry(cantor, n, [cantores], "um cantor religioso").
+entrada(cantoris, adj, [], "para ser cantado pelo lado norte do coro em uma igreja").
+entrada(cantraip, n, [cantraips], "feitiço").
+entrada(cantrap, n, [cantraps], "cantrip").
+entrada(cantrip, n, [cantripes], "um feitiço mágico").
+entrada(cantus, n, [cantus], "um estilo de música eclesiástica").
+entrada(canty, adj, [], "alegre").
+entrada(canula, n, [canulas], "ou CANULAEcannulaCANULAR adj").
+entrada(canular, v, [canulado, canulando, canula], "inserir uma cânula em").
+entrada(canvas, v, [canvased, canvasing, canvases], "to canvass").
+entrada(canvaser, n, [canvasers], "aquele que faz campanha").
+entrada(sondar, v, [sondou,sondando,sonda], "examinar minuciosamente").
+entrada(canyon, n, [canyons], "um vale profundo com lados íngremes").
+entrada(canzona, n, [canzonas], "canzone").
+entrada(canzone, n, [canzonetes], "ou CANZONIa uma forma de poesia lírica").
+entry(canzonet, n, [canzonets], "uma curta canção").
+entrada(cap, v, [capped,capping,caps], "fornecer com um boné um tipo de cobertura para a cabeça").
+entrada(capaz, adj, [], "CAPABLER CAPABLESThaving abilityCAPABLY adv").
+entrada(capacidade, n, [capacidades], "a habilidade de receber ou conter").
+entrada(cape, v, [caped,caping,capes], "esfolar a cabeça e o pescoço de um animal").
+entrada(capeesh, interj, [], "capisce").
+entrada(capelan, n, [capelans], "capelin").
+entrada(capelet, n, [capelets], "uma pequena capa").
+entrada(capelim, n, [capelins], "um pequeno peixe comestível").
+entrada(caper, v, [capered, capering, capers], "brincar").
+entry(caperer, n, [caperers], "aquele que pula").
+entrada(capeskin, n, [capeskins], "um couro macio").
+entrada(trabalho_de_capa, n, [trabalhos_de_capa], "uma técnica de tourada").
+entrada(tampinha, n, [tampinhas], "a quantidade que uma tampa pode conter").
+entrada(caph, n, [capahs], "kaph").
+entrada(capias, n, [capiases], "um mandado judicial").
+entrada(caping, presente, [], "particípio de cape").
+entrada(capisce, interj, [], "usado para perguntar se alguém entende").
+entrada(capita, pl, [], "de caput").
+entrada(capital, n, [capitais], "a parte superior de uma coluna").
+entrada(capitate, n, [capitates], "um osso do pulso de primatas").
+entrada(capitolio, n, [capitolios], "um edifício ocupado por uma legislatura estadual").
+entrada(capitula, npl, [], "cachos de flores").
+entry(capiz, n, [capizes], "um molusco bivalve").
+entrada(capless, adj, [], "sem tampa").
+entrada(caplet, n, [caplets], "um comprimido revestido").
+entry(caplin, n, [caplins], "capelim").
+entrada(fazedor_de_boinas, n, [fazedores_de_boinas], "aquele que faz boinas").
+entrada(capo, n, [capos], "um dispositivo para elevar a afinação de instrumentos trastejados").
+entrada(capoeira, n, [capoeiras], "uma dança brasileira").
+entry(galo_capão, n, [galos_capões], "um galo castrado").
+entrada(caponata, n, [caponatas], "um antepasto feito com berinjela").
+entrada(caponeira, n, [caponeiras], "um tipo de defesa").
+entrada(caponise, v, [caponised,caponising,caponises], "capar").
+entrada(capão, v, [capou,capando,capona], "capar um galo").
+entrada(caporal, n, [caporais], "um tabaco grosso").
+entrada(capote, n, [capotes], "um capote").
+entrada(capote, n, [capotes], "um manto com capuz ou sobretudo").
+entrada(capouch, n, [capouches], "capuche").
+entrada(capped, passado, [], "tempo de cap").
+entrada(capper, n, [cappers], "um fabricante de bonés").
+entry(tampão, n, [tampões], "uma cobertura de cera em um favo de mel").
+entrada(caprese, n, [capreses], "uma salada contendo mussarela, tomates, manjericão e azeite").
+entrada(capri, n, [capris], "calças femininas afuniladas").
+entrada(capric, adj, [], "relativo a uma cabra").
+entrada(capricci, npl, [], "caprichos").
+entrada(capricho, n, [caprichos], "um capricho").
+entrada(figueira_do_mato, n, [figueiras_do_mato], "uma árvore europeia").
+entrada(caprine, adj, [], "capric").
+entrada(capriole, v, [caprioled, caprioling, caprioles], "pular").
+entrada(capris, npl, [], "calças para mulheres").
+entrada(caprock, n, [caprocks], "uma camada de rocha sobrejacente").
+entrada(capsicina, n, [capsicinas], "um líquido usado como tempero").
+entrada(capsicum, n, [capsicums], "uma erva tropical").
+entrada(capsídeo, n, [capsídeos], "a casca externa de uma partícula viralCAPSIDAL adj").
+entry(capotar, v, [capotou, capotando, capota], "virar").
+entrada(capsomer, n, [capsomers], "uma proteína que forma o capsídeo").
+entrada(cabrestante, n, [cabrestantes], "uma máquina usada para içar pesos").
+entrada(capstone, n, [capstones], "a pedra de topo de uma estrutura").
+entrada(capsular, adj, [], "fechado e compacto").
+entrada(cápsula, v, [cápsulas,encapsulando,encapsula], "condensar em uma forma breve").
+entrada(capitao, v, [capitaneou,capitaneando,capitanea], "liderar ou comandar").
+entrada(captan, n, [captans], "um fungicida").
+entrada(legenda, v, [legendado, legendando, legendas], "prover com um título").
+entry(captious, adj, [], "tendendo a encontrar defeito").
+entrada(cativo, n, [cativos], "um prisioneiro").
+entrada(captor, n, [captores], "aquele que captura ou mantém um cativo").
+entrada(capturar, v, [capturado,capturando,captura], "tomar pela força ou astúcia").
+entrada(capturer, n, [capturadores], "aquele que captura").
+entrada(capuche, n, [capuches], "um capuz ou capeloCAPUCHED adj").
+entrada(macaco_prego, n, [macacos_prego], "um macaco de cauda longa").
+entrada(caput, n, [capita], "uma cabeça ou parte semelhante a cabeça").
+entry(capivara, n, [capivaras], "um grande roedor").
+entrada(car, n, [carros], "um automóvel").
+entrada(carabao, n, [carabaos], "um búfalo d'água").
+entrada(carabid, n, [carabids], "um besouro predador").
+entrada(carabin, n, [carabins], "carabina").
+entrada(carabina, n, [carabinas], "carbine").
+entrada(caracal, n, [caracais], "um lince africano").
+entry(caracara, n, [caracaras], "um grande falcão").
+entrada(carraca, n, [carracas], "carraca").
+entrada(caracol, v, [caracolled, caracolling, caracols], "caracolar").
+entrada(caracole, v, [caracoled, caracoling, caracoles], "realizar meia-volta em um cavalo").
+entrada(caracul, n, [caraculs], "karakul").
+entrada(garrafa, n, [garrafas], "uma garrafa de vidro").
+entrada(caragana, n, [caraganas], "um arbusto asiático").
+entrada(carageen, n, [carageens], "um alga comestível").
+entrada(caramba, interj, [], "usado para expressar surpresa ou espanto").
+entry(caramelo, n, [caramelos], "um doce mastigável").
+entrada(carangídeo, n, [carangídeos], "um peixe marinho").
+entrada(carapaça, n, [carapaças], "uma cobertura externa dura e protetora").
+entrada(carapax, n, [carapaxes], "carapaça").
+entry(carassow, n, [carassows], "mutum").
+entrada(quilate, n, [quilates], "uma unidade de peso para gemas").
+entrada(carate, n, [carates], "uma doença de pele tropical").
+entrada(caravana, v, [caravanei,caravanando,caravanas], "ou CARAVANEI CARAVANANDO CARAVANAS para viajar em grupo").
+entrada(caravela, n, [caravelas], "um pequeno navio à vela").
+entrada(alcaravia, n, [alcaravias], "uma erva usada na cozinha").
+entrada(carb, n, [carbs], "um carburador").
+entrada(carbâmico, adj, [], "relativo a um tipo de ácido").
+entrada(carbamyl, n, [carbamyls], "um radical químico").
+entrada(cocheira, n, [cocheiras], "uma garagem para ônibus").
+entrada(carbaryl, n, [carbaryls], "um inseticida").
+entrada(carbeto, n, [carbetos], "um composto de carbono").
+entrada(carabina, n, [carabinas], "um rifle leve").
+entry(carbinol, n, [carbinóis], "um álcool").
+entrada(carbo, n, [carbos], "um carboidrato").
+entrada(carbolic, n, [carbolics], "um composto ácido").
+entrada(carbono, n, [carbonos], "um elemento não metálicoCARBÔNICO adj").
+entrada(carbonila, n, [carbonilas], "um composto químico").
+entrada(carbora, n, [carboras], "um verme perfurador de madeira").
+entrada(carboxilo, n, [carboxilos], "um radical ácido univalente").
+entrada(garrafa_grande, n, [garrafas_grandes], "uma grande garrafaCARBOYED adj").
+entrada(carburet, v, [carbonizado,carbonizando,carboniza], "ou CARBONIZADO CARBONIZANDO CARBONIZA combinar quimicamente com carbono").
+entrada(carcajou, n, [carcajous], "um mamífero carnívoro").
+entry(carcanet, n, [carcanets], "um colar com joias").
+entry(carcaça, n, [carcaças], "carcaça").
+entry(carcassa, n, [carcaças], "o corpo de um animal morto").
+entrada(cárcere, n, [cárceres], "uma unidade de iluminação").
+entrada(prisional, adj, [], "relativo a uma prisão").
+entrada(cartão, v, [cartão,cartonar,cartões], "fornecer um cartão um pedaço de papel rígido").
+entrada(cardamomo, n, [cardamomos], "uma erva tropical").
+entrada(cardamomo, n, [cardamomos], "cardamomo").
+entrada(cardamomo, n, [cardamomos], "cardamomo").
+entrada(cardcase, n, [cardcases], "um estojo para guardar cartões").
+entrada(carteador, n, [carteadores], "aquele que faz carteamento").
+entrada(cardia, n, [cardias], "ou CARDIAs uma abertura do esôfago").
+entry(cardiaco, n, [cardiacos], "uma pessoa com um transtorno cardíaco").
+entrada(cardigan, n, [cardigans], "um tipo de suéter").
+entrada(cardinal, n, [cardeais], "um pássaro vermelho brilhante").
+entrada(cardar, n, [cardagens], "o processo de cardar e limpar fibras de algodão limpas e penteadas").
+entrada(cardio, n, [cardios], "um exercício envolvendo o coração e os vasos sanguíneos").
+entry(cardioid, n, [cardioides], "uma curva em forma de coração").
+entrada(cardite, n, [cardites], "inflamação do coraçãoCARDÍTICO adj").
+entrada(cardon, n, [cardons], "cardo").
+entrada(cardoon, n, [cardoons], "uma planta perene").
+entry(care, v, [cared,caring,cares], "estar preocupado ou interessado").
+entrada(careen, v, [careened,careening,careens], "lancear enquanto se move").
+entrada(careener, n, [careeners], "aquele que faz careening").
+entrada(carreira, v, [correu, correndo, corre], "ir a toda velocidade").
+entrada(carreirista, n, [carreiristas], "aquele que avança rapidamente numa carreira").
+entry(carefree, adj, [], "estar sem preocupações ou ansiedade").
+entrada(cuidadoso, adj, [], "CUIDADOSO CUIDADOSÍSSIMO cauteloso").
+entrada(descuidado, adj, [], "desatento negligente").
+entrada(cuidador, n, [cuidadores], "aquele que cuida").
+entrada(acariciar, v, [acariciou, acariciando, acaricia], "tocar amorosamente").
+entrada(caresser, n, [caressers], "aquele que acaricia").
+entrada(caret, n, [carets], "um símbolo de revisores").
+entrada(cuidar, v, [cuidou,cuidado,cuidando], "CUIDARpara cuidar da casa ou terra de outra pessoa").
+entrada(cansado, adj, [], "haggard").
+entrada(carex, n, [cárices], "uma planta de pântano").
+entrada(tarifa_de_carro, n, [tarifas_de_carro], "pagamento por uma viagem de ônibus ou carro").
+entrada(carful, n, [carfuls], "quanta carga um carro pode levar").
+entrada(carga, n, [cargas], "ou CARGASmercadorias transportadas").
+entrada(carhop, v, [carhopped, carhopping, carhops], "servir clientes em um restaurante drive-in").
+entrada(caribe, n, [caribes], "a piranha").
+entrada(cariboo, n, [cariboos], "um caribu").
+entry(caribu, n, [caribus], "um grande veado").
+entrada(carices, pl, [], "de carex").
+entrada(carie, n, [carie], "cárie dentáriaCARIED adj").
+entrada(carrilhão, v, [carrilhonou,carrilhonando,carrilhões], "tocar um conjunto de sinos").
+entrada(carina, n, [carinas], "ou partes anatômicas carinadasCARINAL adj").
+entry(carinate, adj, [], "em forma de quilha de navio").
+entrada(carinho, n, [carinhos], "o trabalho de cuidar de alguém").
+entrada(carinhosamente, adv, [], "de maneira carinhosa").
+entrada(carioca, n, [cariocas], "uma dança sul-americana").
+entry(cariola, n, [cariolas], "uma pequena carruagem aberta").
+entrada(cariado, adj, [], "deteriorado").
+entrada(caritas, n, [caritases], "amor por todas as pessoas").
+entrada(carjacking, v, [carjackings, carjacked, carjack], "roubar um veículo do motorista por meio de força").
+entrada(cark, v, [carked,carking,carks], "preocupar").
+entry(carl, n, [carls], "um camponês").
+entrada(carle, n, [carles], "carl").
+entrada(carless, adj, [], "estar sem carro").
+entrada(carlin, n, [carlins], "uma mulher velha").
+entrada(linhadocarro, n, [linhasdocarro], "baliza").
+entrada(carlinga, n, [carlingas], "uma viga que sustenta o convés de um navio").
+entrada(carlídeo, adj, [], "semelhante a um carl").
+entrada(carregamento, n, [carregamentos], "tanto quanto um carro pode conter").
+entrada(fabricante_de_carros, n, [fabricantes_de_carros], "um fabricante de automóveis").
+entry(carman, n, [carmen], "um motorista de bonde").
+entrada(carmin, n, [carmins], "uma cor vermelha viva").
+entrada(moita, n, [moitas], "cairn").
+entrada(carnificina, n, [carnificinas], "grande e sangrenta matança").
+entrada(carni, adj, [], "relativo aos apetites corporaisCARNALMENTE adv").
+entrada(carnauba, n, [carnaubas], "uma palmeira").
+entrada(livrete, n, [livretes], "uma autorização oficial").
+entrada(carney, n, [carneys], "carny").
+entrada(carnie, n, [carnies], "carny").
+entrada(carnies, pl, [], "de feirante").
+entrada(carnificar, v, [carnificado,carnificando,carnifica], "transformar em carne").
+entrada(carnaval, n, [carnavais], "um espetáculo itinerante de diversões").
+entrada(carny, n, [carnies], "um carnaval").
+entrada(barata, n, [baratas], "barata").
+entrada(alfarrobeira, n, [alfarrobeiras], "uma árvore perene").
+entrada(caroch, n, [caroches], "caroche").
+entry(caroche, n, [caroches], "uma carruagem imponente").
+entrada(carol, v, [caroled,caroling,carols], "ou CAROLLED CAROLLING CAROLScantar alegremente").
+entrada(cantor, n, [cantores], "aquele que canta").
+entrada(caroli, a, [], "pl de carolus").
+entrada(cantando, n, [cantorias], "o ato de cantar alegremente").
+entrada(cantor, n, [cantores], "cantor").
+entrada(cantando, a, [], "particípio presente de cantar").
+entrada(carolus, n, [caroluses], "ou CAROLI antiga moeda inglesa").
+entrada(carom, v, [caromed,caroming,caroms], "colidir e ricochetear").
+entrada(caroteno, n, [carotenos], "um pigmento vegetal").
+entrada(carotid, n, [carotids], "uma artéria no pescoço").
+entrada(carotin, n, [carotinas], "caroteno").
+entrada(carrossel, n, [carrosseis], "uma festa de bebedeira barulhenta").
+entrada(carouse, v, [caroused,carousing,carouses], "participar de um carrossel").
+entrada(carrossel, n, [carrosséis], "um brinquedo de parque de diversões").
+entrada(carouser, n, [carousers], "aquele que farreia").
+entrada(farreamento, presente, [], "particípio de farrear").
+entrada(carpir, v, [carpido, carpindo, carpem], "achar defeito de forma irracional").
+entrada(carpal, n, [carpals], "carpale").
+entry(carpale, n, [carpalia], "um osso do pulso").
+entrada(carpelo, n, [carpelos], "um pistilo simples").
+entrada(carper, n, [carpers], "aquele que critica").
+entrada(carpete, v, [carpetou, carpetando, carpetam], "cobrir um piso com um tecido pesado").
+entrada(carpi, pl, [], "do carpo").
+entrada(censura, n, [censuras], "o ato de quem censura").
+entrada(carpool, v, [carpooled, carpooling, carpools], "alternar na condução de um grupo de passageiros").
+entrada(garagem, n, [garagens], "um abrigo para um carro").
+entrada(carpo, n, [carpos], "o pulso").
+entrada(carr, n, [carrs], "um pântano").
+entrada(carraca, n, [carracas], "um tipo de navio mercante").
+entrada(carrel, n, [carrels], "mesa em uma biblioteca para estudo individual").
+entrada(carrell, n, [carrells], "carrel").
+entrada(carriage, n, [carriages], "um veículo puxado por cavalos com rodas").
+entrada(carried, passado, [], "tempo verbal de carry").
+entrada(portador, n, [portadores], "aquele que carrega").
+entrada(carries, presente, [], "3ª pessoa singular de carry").
+entrada(carriole, n, [carrioles], "cariole").
+entry(carniça, n, [carniças], "carne morta e em putrefação").
+entrada(carritch, n, [carritches], "um manual religioso").
+entry(carroch, n, [carroches], "caroche").
+entrada(carrom, v, [carromed, carroming, carroms], "acertar de carambola").
+entrada(cenoura, n, [cenouras], "uma raiz laranja comestível").
+entrada(carrotin, n, [carrotins], "caroteno").
+entrada(carroty, adj, [], "CARROTIER CARROTIESTasemehando a uma cenoura em cor").
+entry(carry, v, [carregou,carregando,carrega], "transportar de um lugar para outro").
+entrada(carryall, n, [carryalls], "uma carruagem coberta leve").
+entrada(landau, n, [landaus], "um berço portátil para bebês").
+entry(carryon, n, [carryons], "uma pequena peça de bagagem").
+entrada(carryout, n, [carryouts], "um pedido de comida para viagem").
+entrada(carse, n, [carses], "terras baixas férteis ao longo de um rio").
+entrada(enjoo_de_carro, adj, [], "enjoado de andar de carro").
+entrada(carspiel, n, [carspiels], "uma partida de curling na qual os jogadores competem por um carro").
+entrada(carro, v, [carregou,carregando,carros], "transportar em um carro uma viatura de duas rodasCARRAVEL adj").
+entrada(carteamento, n, [carteamentos], "o ato de transportar").
+entrada(carte, n, [cartoes], "um menu").
+entrada(cartel, n, [cartéis], "uma organização empresarial").
+entrada(carter, n, [carters], "aquele que transporta").
+entrada(cartful, n, [cartfuls], "uma carga de carroça").
+entrada(cargamento, n, [cargamentos], "tanto quanto uma carroça pode conter").
+entrada(carton, v, [cartoned,cartoning,cartons], "embalar em uma caixa de papelão").
+entrada(cartoon, v, [cartooned, cartooning, cartoons], "esboçar um desenho animado uma representação humorística de").
+entrada(cartoony, adj, [], "parecido com um desenho animado").
+entrada(cartop, adj, [], "capaz de caber em cima de um carro").
+entry(cartouch, n, [cartouches], "um tablet em formato de pergaminho").
+entrada(carúncula, n, [carúnculas], "um crescimento carnudo").
+entry(esculpir, v, [esculpiu,esculpindo,esculpe], "formar cortando").
+entrada(carvel, n, [carvels], "caravela").
+entrada(carven, adj, [], "esculpido").
+entrada(carver, n, [carvers], "aquele que esculpe").
+entrada(carvery, n, [carveries], "um restaurante buffet que serve carne assada").
+entry(entalhe, n, [entalhes], "uma figura ou design entalhado").
+entrada(lavagem_de_carros, n, [lavagens_de_carros], "um estabelecimento equipado para lavar automóveis").
+entrada(cariática, adj, [], "semelhante a uma cariátide").
+entrada(cariátide, n, [cariátides], "ou CARIÁTIDESA figura feminina esculpida usada como coluna").
+entry(cariotina, n, [cariotinas], "carioteína").
+entrada(casa, n, [casas], "uma habitação").
+entry(casaba, n, [casabas], "uma variedade de melão").
+entrada(mandioca, n, [mandiocas], "mandioca").
+entrada(casbah, n, [casbahs], "a seção antiga de uma cidade da África do Norte").
+entrada(cascabel, n, [cascabels], "a parte traseira de um canhão").
+entrada(cascable, n, [cascables], "cascabel").
+entrada(cascata, v, [cascatas,cascatas,cascata], "cair como uma cachoeira").
+entrada(casca, n, [cascas], "uma casca de árvore medicinal").
+entrada(caso, v, [encapsulado,encapsulando,encapsula], "colocar em um caso um recipiente ou receptáculo").
+entrada(casease, n, [caseases], "uma enzima").
+entrada(caseate, v, [caseated,caseating,caseates], "tornar-se como queijo").
+entrada(caso, n, [casos], "um livro-texto de direito").
+entrada(cased, passado, [], "tempo de case").
+entrada(casefy, v, [casefied, casefying, casefies], "caseificar").
+entrada(caseina, n, [caseínas], "uma proteína do leiteCASEICA adj").
+entrada(jurisprudencia, n, [jurisprudencias], "uma lei estabelecida por casos anteriores").
+entrada(carga_de_casos, n, [cargas_de_casos], "o número de casos sendo tratados").
+entrada(casemate, n, [casemates], "um abrigo à prova de bombas").
+entrada(janela_de_guilhotina, n, [janelas_de_guilhotina], "um tipo de janela").
+entrada(caseose, n, [caseoses], "uma proteose").
+entry(caseous, adj, [], "queijoso").
+entrada(quartel, n, [quarteis], "um quartel para soldados").
+entrada(quartel, n, [quarteis], "quartel").
+entrada(fita, n, [fitas], "cassette").
+entrada(assistência, n, [assistências], "uma forma de trabalho social").
+entrada("caseworm", n, ["caseworms"], "uma larva de inseto").
+entrada(dinheiro, v, [dinheirado, dinheirando, dinheiras], "converter em dinheiro disponívelDINHEIRO CONVERSÍVEL adj").
+entrada(cashaw, n, [cashaws], "cushaw").
+entrada(cashback, n, [cashbacks], "um incentivo de dinheiro devolvido a um comprador").
+entrada(livro_caixa, n, [livros_caixas], "um livro de registros monetários").
+entrada(caixa_registradora, n, [caixas_registradoras], "um recipiente para dinheiro").
+entrada(caju, n, [cajus], "uma árvore que produz nozes").
+entrada(caixa, v, [despedido,despedindo,despedem], "demitir com desonra").
+entrada(sem_dinheiro, adj, [], "não ter dinheiro").
+entry(caxemira, n, [caxemiras], "uma lã fina").
+entrada(cashoo, n, [cashoos], "catechu").
+entrada(casimere, n, [casimeres], "um tecido de lã").
+entrada(casimira, n, [casimiras], "casimira").
+entrada(invólucro, n, [invólucros], "uma cobertura protetora externa").
+entrada(cassino, n, [cassinos], "ou CASINIa sala de jogos").
+entrada(casita, n, [casitas], "uma pequena casa").
+entry(barril, v, [barrilado,barrilando,barris], "armazenar em um barril forte").
+entrada(urna, v, [urnado,urnando,urnas], "colocar em uma urna um recipiente funerário").
+```prolog
+entrada(casky, adj, [], "semelhante a um barril").
+```
+entrada(casque, n, [casques], "um capaceteCASQUED adj").
+entrada(cassaba, n, [cassabas], "casaba").
+entrada(cassata, n, [cassatas], "um sorvete italiano").
+entrada(mandioca, n, [mandiocas], "uma planta tropical").
+entrada(cassena, n, [cassenas], "cassina").
+entrada(cassene, n, [cassenes], "cassina").
+entry(fita, n, [fitas], "um pequeno estojo contendo fita áudio ou fita de vídeo").
+entrada(cassia, n, [cassias], "uma variedade de canela").
+entrada(cassina, n, [cassinas], "uma árvore perene").
+entrada(cassine, n, [cassines], "cassina").
+entry(cassino, n, [cassinos], "um jogo de cartas").
+entry(cassiope, n, [cassiopes], "um arbusto perene").
+entrada(cassis, n, [cassises], "um arbusto europeu").
+entrada(cassock, n, [cassocks], "uma vestimenta longa usada por clérigos").
+entrada(fundição, v, [fundição,fundindo,fundições], "lançar com forçaFUNDÍVEL adj").
+entrada(castanholas, n, [castanholas], "um instrumento de ritmo").
+entry(náufrago, n, [náufragos], "um excluído").
+entrada(casta, n, [castas], "um sistema de classes sociais distintas").
+entry(casteismo, n, [casteismos], "o uso de um sistema de castas").
+entrada(caster, n, [casters], "uma pequena roda giratóriaCASTERED adj").
+entrada(fundição, n, [fundições], "algo feito em um molde").
+entrada(castelo, v, [rocou,rocando,rocos], "fazer um certo movimento no xadrez").
+entrada(castor, n, [castores], "rodízio").
+entrada(castrar, v, [castrado,castrando,castra], "remover os testículos de").
+entrada(castrato, n, [castratos], "ou CASTRATIum cantor castrado na infância").
+entrada(casual, n, [ocasionalmente], "um que trabalha ocasionalmente").
+entrada(casualmente, adv, [], "informalmente").
+entrada(baixa, n, [baixas], "uma vítima de guerra ou desastre").
+entrada(casuísta, n, [casuístas], "aquele que resolve problemas éticos").
+entrada(casus, n, [casus], "uma ocorrência ou evento legal").
+entrada(gato, v, [gatos,gatando,gatou], "erguer uma âncora até a cabeça de gato").
+entrada(catacumba, n, [catacumbas], "um cemitério subterrâneo").
+entrada(catalase, n, [catalases], "uma enzima").
+entrada(catalo, n, [catalos], "ou CATALOES um híbrido entre búfalo e vaca").
+entrada(catalogo, v, [catalogado,catalogando,catalogos], "classificar informações descritivamente").
+entrada(catalpa, n, [catalpas], "uma árvore").
+entry(catalisar, v, [catalisado,catalisando,catalisa], "catalisar").
+entry(catalisador, n, [catalisadores], "uma substância que acelera uma reação química").
+entrada(catalisar, v, [catalisado,catalisando,catalisa], "agir como um catalisador").
+entrada(catamita, n, [catamitas], "um menino usado na sodomia").
+entrada(catapulta, v, [catapultou, catapultando, catapultas], "lançar pelo ar").
+entrada(catarata, n, [cataratas], "uma cachoeira tremenda").
+entrada(catarro, n, [catarros], "inflamação de uma membrana mucosa").
+entrada(catawba, n, [catawbas], "uma variedade de uva raposa").
+entrada(catbird, n, [catbirds], "um pássaro cantor").
+entrada(catboat, n, [catboats], "um pequeno veleiro").
+entrada(catbriar, n, [catbriars], "catbrier").
+entrada(erva-das-gatas, n, [ervas-das-gatas], "uma vide com espinhos").
+entry(assobiar, v, [assobiou, assobiando, assobia], "zombar fazendo sons agudos").
+entrada(catch, v, [caught, catching, catches], "capturar após perseguição").
+entrada(catchall, n, [catchalls], "um recipiente para miudezas").
+entrada(apanhador, n, [apanhadores], "aquele que apanha").
+entry(reseda, n, [resedas], "uma planta que atrai insetos").
+entrada(atualizar, n, [atualizacoes], "ketchup").
+entry(catchy, adj, [], "CATCHIER CATCHIESTagradável e facilmente lembradoCATCHILY adv").
+entrada(catclaw, n, [catclaws], "um arbusto com flores").
+entrada(cate, n, [cates], "uma comida escolhida").
+entry(catequina, n, [catequinas], "um produto químico usado em tingimento").
+entrada(catecol, n, [catecóis], "um produto químico usado em fotografia").
+entry(catechu, n, [catechus], "uma resina usada em curtimento").
+entrada(categoria, n, [categorias], "uma divisão em qualquer sistema de classificação").
+entrada(catena, n, [catenas], "ou CATENAEuma série de elos intimamente ligados").
+entrada(catenary, n, [catenaries], "uma curva matemática").
+entrada(concatenar, v, [concatenado,concatenando,concatena], "ligar juntos").
+entrada(catenoide, n, [catenoides], "uma superfície geométrica").
+entrada(cater, v, [catered,catering,caters], "fornecer comida e serviço para").
+entrada(cateran, n, [caterans], "um bandido").
+entrada(service_de_catering, n, [services_de_catering], "aquele que fornece serviços de catering").
+entry(cateress, n, [cateresses], "uma mulher que fornece serviços de catering").
+entry(catering, n, [caterings], "o trabalho de um fornecedor de comida").
+entrada(catface, n, [catfaces], "uma deformidade de fruto").
+entrada(catfall, n, [catfalls], "uma linha de ancoragem").
+entrada(catfight, n, [catfights], "uma briga entre duas mulheres").
+entrada(bagre, n, [bagres], "um peixe sem escamas de cabeça grande").
+entrada(catgut, n, [catguts], "um cordão forte").
+entrada(cabeça_de_gato, n, [cabeças_de_gato], "uma trave projetando-se da proa de um navio").
+entrada(cathect, v, [cathected, cathecting, cathects], "investir com energia psíquica").
+entrada(cátedra, n, [cátedras], "ou CÁTEDRAO trono de um bispo").
+entrada(cateter, n, [cateteres], "um instrumento médico").
+entrada(cathexis, n, [cathexes], "a concentração de energia psíquica em uma pessoa ou ideia").
+entrada(cathode, n, [cathodes], "um eletrodo carregado negativamenteCATHODAL CATHODIC adj").
+entrada(catolico, n, [], "pl CATÓLICOSum membro da igreja cristã universal").
+entrada(casa_de_prostituição, n, [casas_de_prostituição], "um bordel").
+entrada(cation, n, [cations], "um íon positivamente carregadoCATIONIC adj").
+entrada(catjang, n, [catjangs], "um arbusto africano").
+entrada(catkin, n, [catkins], "um cacho de flores").
+entry(semelhante_a_gato, adj, [], "relembrando um gato furtivo silencioso").
+entrada(catlin, n, [catlins], "catling").
+entrada(catilho, n, [catilhos], "uma faca cirúrgica").
+entrada(catnip, n, [catnipes], "erva-dos-gatos").
+entrada(soneca, v, [sonecado, sonecando, sonecas], "cochilar").
+entrada(raptador_de_gatos, n, [raptores_de_gatos], "aquele que rouba gatos").
+entrada(catnip, n, [catnips], "uma erva aromática").
+entrada(pata_de_gato, n, [patas_de_gato], "uma brisa leve").
+entry(macacão, n, [macacões], "uma peça única justa ao corpo").
+entrada(catsup, n, [catsups], "ketchup").
+entrada(taboa, n, [taboas], "uma planta de pântano").
+entrada(cattalo, n, [cattalos], "ou CATTALOEScatalo").
+entrada(catted, passado, [], "tempo de cat").
+entrada(gatil, n, [gatis], "um estabelecimento para criação de gatos").
+entrada(cattie, n, [catties], "uma unidade de peso asiática").
+entrada(cattier, comparativo, [], "de catty").
+entry(cattiest, superlativo, [], "de catty").
+entrada(cattily, adv, [], "de maneira maldosa").
+entrada(catting, presente, [], "particípio de cat").
+entrada(cattish, adj, [], "catty").
+entrada(gado, npl, [], "bovinos domesticados").
+entrada(cattleya, n, [cattleyas], "uma orquídea tropical").
+entrada(catty, adj, [], "CATTIER CATTIESTcatlike spiteful").
+entrada(passarela, n, [passarelas], "um caminho estreito").
+entrada(caucus, v, [caucused,caucusing,caucuses], "ou CAUCUSSED CAUCUSSING CAUCUSSESto realizar uma reunião política").
+entry(caudad, adv, [], "em direção à cauda").
+entrada(caudal, adj, [], "taillikeCAUDALLY adv").
+entrada(caudate, n, [caudates], "um gânglio basal do cérebro").
+entrada(caudado, adj, [], "tendo uma cauda").
+entrada(caudex, n, [caudexes], "ou CAUDICES a base lenhosa de algumas plantas").
+entrada(caudillo, n, [caudillos], "um ditador militar").
+entrada(caudle, n, [caudles], "uma bebida quente").
+entrada(pego, passado, [], "tempo de pegar").
+entrada(caul, n, [cauls], "uma membrana fetal").
+entrada(cauld, n, [caulds], "frio").
+entry(caldeirão, n, [caldeirões], "caldeirão").
+entry(caules, pl, [], "de caulis").
+entrada(caule, n, [caules], "um pequeno caule").
+entrada(caulino, adj, [], "relativo a um caule").
+entrada(caule, n, [caules], "um caule de planta").
+entrada(calafetar, v, [calafetado,calafetando,calafeta], "tornar as juntas de um navio estanques").
+entrada(calafate, n, [calafates], "aquele que calafeta").
+entry(calafetação, n, [calafetações], "o material usado para calafetar").
+entrada(cauri, n, [cauris], "uma antiga unidade monetária da Guiné").
+entry(causável, adj, [], "capaz de ser causado").
+entry(causa, n, [causas], "uma palavra que expressa causa ou razão").
+entrada(causally, adv, [], "pelo modo de causar").
+entry(causa, v, [causou, causando, causa], "provocar").
+entrada(causador, n, [causadores], "um que causa").
+entrada(causerie, n, [conversas_informais], "uma conversa informal").
+entrada(causeway, v, [causewayed,causewaying,causeways], "construir uma estrada elevada sobre").
+entrada(causey, n, [causeys], "uma estrada pavimentada").
+entrada(causando, presente, [], "particípio de cause").
+entrada(caustico, n, [causticos], "uma substância corrosiva").
+entrada(cauterização, n, [cauterizações], "algo usado para destruir tecido").
+entrada(cuidado, v, [avisado,avisando,avisa], "avisar").
+entrada(cauteloso, adj, [], "exercendo prudência para evitar perigo").
+entrada(cava, n, [cavas], "um vinho espumante espanhol").
+entry(cavalero, n, [cavaleros], "um cavaleiro").
+entry(cavalier, v, [cavaliered,cavaliering,cavaliers], "comportar-se de forma arrogante").
+entrada(cavalla, n, [cavallas], "um grande peixe comestível").
+entrada(cavally, n, [cavallies], "cavalla").
+entrada(cavalaria, n, [cavalarias], "uma unidade móvel do exército").
+entry(cavatina, n, [cavatinas], "ou CAVATINE uma canção simples").
+entrada(caverna, v, [cavado,cavando,cavernas], "escavar").
+entrada(caveat, v, [caveated,caveating,caveats], "lançar um tipo de aviso legal").
+entrada(objector, n, [objectores], "aquele que apresenta uma advertência").
+entrada(cavou, passado, [], "tempo de cavar").
+entrada(peixe_caverna, n, [peixes_caverna], "um peixe sem visão").
+entrada(cavelike, adj, [], "semelhante a uma caverna uma câmara subterrânea").
+entrada(homemdasCavernas, n, [homensdasCavernas], "um habitante de caverna").
+entrada(caver, n, [cavers], "aquele que caver").
+entrada(caverna, v, [cavernada, cavernando, cavernas], "escarvar").
+entrada(cavetto, n, [cavettos], "ou CAVETTI uma moldura côncava").
+entry(caviar, n, [caviares], "ovas de esturjão").
+entrada(caviar, n, [caviares], "caviar").
+entrada(cavicorn, adj, [], "possuindo chifres ocos").
+entrada(galinheiro, n, [galinheiros], "um galinheiro").
+entrada(cavies, pl, [], "de porquinho-da-índia").
+entry(cavil, v, [cavilou,cavilando,cavila], "ou CAVILLOU CAVILANDO CAVILAr resmungar").
+entry(caviler, n, [caviladores], "aquele que cavilha").
+entrada(caviller, n, [cavillers], "caviler").
+entry(cavilling, a, [], "particípio presente de cavil").
+entrada(espeleologia, n, [espeleologias], "o esporte de explorar cavernas").
+entrada(cavitário, adj, [], "relativo à formação de cavidades em tecido").
+entrada(cavitate, v, [cavitated,cavitating,cavitates], "formar cavidades").
+entrada(cavidade, n, [cavidades], "um espaço não preenchido dentro de uma massaCAVITIED adj").
+entry(festejar, v, [festejou,festejando,festeja], "brincar alegremente").
+entrada(cavorter, n, [cavorters], "aquele que brinca").
+entrada(cavy, n, [cavies], "um roedor de cauda curta").
+entrada(caw, v, [cawed, cawing, caws], "emitir o som de um corvo").
+entrada(cay, n, [cays], "uma pequena ilha baixa").
+entrada(cayenne, n, [cayennes], "um tempero picanteCAYENNED adj").
+entrada(cayman, n, [caimãs], "caimão").
+entrada(cayuse, n, [cayuses], "um pônei indígena").
+entrada(cazh, adj, [], "casual").
+entrada(cacique, n, [caciques], "cacique").
+entry(cessar, v, [cessou,cessando,cessa], "parar").
+entry(cebid, n, [cebídeos], "ceboide").
+entry(ceboid, n, [ceboides], "um de uma família de macacos").
+entrada(cecity, n, [cecities], "cegueira").
+entrada(cecropia, n, [cecropias], "uma grande mariposa norte-americana").
+entry(cecum, n, [ceca], "uma cavidade corporal com uma abertura CECAL adj CECALMENTE adv").
+entrada(cedro, n, [cedros], "uma árvore pereneCEDRINO CEDRICO adj").
+entry(cede, v, [cedeou,cedendo,cede], "ceder").
+entrada(ceder, n, [ceders], "aquele que cede").
+entrada(cedi, n, [cedis], "uma unidade monetária de Gana").
+entrada(cedilha, f, [cedilhas], "um sinal de pronúncia").
+entrada(cendo, presente, [], "particípio de ceder").
+entrada(cédula, n, [cédulas], "um imposto filipino").
+entrada(cee, n, [cees], "a letra C").
+entrada(ceiba, n, [ceibas], "uma árvore tropical").
+entrada(teto, v, [tetado, teto, tetos], "prover com um teto").
+entry(teto, n, [tetos], "um que tetos").
+entrada(ceili, n, [ceilis], "ceilidh").
+entry(ceilidh, n, [ceilidhs], "uma festa irlandesa ou escocesa").
+entry(teto, n, [tetos], "o revestimento superior de uma sala").
+entry(ceinture, n, [ceintures], "um cinto para a cintura").
+entrada(cel, n, [cels], "uma folha de celuloide usada em animação").
+entrada(celadon, n, [celadons], "uma cor verde pálido").
+entrada(celeb, n, [celebs], "uma celebridade uma pessoa famosa").
+entrada(aipo_rábano, n, [aipos_rábanos], "uma variedade de aipo").
+entrada(celerity, n, [celerities], "rapidez").
+entry(aipo, n, [aipos], "uma planta com talos comestíveis").
+entrada(celesta, n, [celestas], "um instrumento de teclado").
+entrada(celeste, n, [celestes], "celesta").
+entrada(celiaco, n, [celiacos], "aquele que tem um distúrbio nutricional crônico").
+entrada(celibato, n, [celibatos], "abstenção de relações sexuais").
+entrada(celibato, n, [celibatos], "aquele que vive uma vida de celibato").
+entrada(cela, v, [encelar, enselar, celas], "armazenar em um favo de mel").
+entrada(cella, n, [cellae], "o interior de um templo antigo").
+entrada(adega, v, [armazenado,armazenando,adegas], "armazenar em um cômodo subterrâneo").
+entrada(adegueiro, n, [adegueiros], "o encarregado de um mosteiro").
+entrada(cellaret, n, [cellarets], "um armário para garrafas de vinho").
+entry(violoncelista, n, [violoncelistas], "aquele que toca violoncelo").
+entrada(companheiro_de_cela, n, [companheiros_de_cela], "um de dois ou mais prisioneiros compartilhando uma cela").
+entry(violoncelo, n, [violoncelos], "ou CELLI um instrumento musical de cordas").
+entrada(celular, n, [celulares], "um telefone celular").
+entrada(célula, n, [células], "uma pequena célula").
+entrada(celoma, n, [celomas], "ou CELOMATAcoelom").
+entrada(celosia, n, [celosias], "uma planta com flores").
+entrada(celt, n, [celtas], "um machado primitivo").
+entrada(cravo, n, [cravos], "ou CEMBALIa cravo").
+entry(cimento, v, [cimentou,cimentando,cimentos], "ligar firmemente").
+entry(cementador, n, [cementadores], "aquele que cimenta").
+entrada(cemento, n, [cementos], "ou CEMENTO o tecido duro que cobre as raízes dos dentes").
+entrada(cemiterio, n, [cemiterios], "um local de sepultamento").
+entrada(cenáculo, n, [cenáculos], "uma pequena sala de jantar").
+entrada(cenobita, n, [cenobitas], "um membro de uma ordem religiosa").
+entrada(cenotáfio, n, [cenotáfios], "um túmulo vazio").
+entrada(cenote, n, [cenotes], "um dolina no calcário").
+entry(cense, v, [censed,censing,censes], "perfumar com incenso").
+entrada(incensário, n, [incensários], "um recipiente para queimar incenso").
+entrada(censurar, v, [censurado, censurando, censura], "eliminar uma palavra ou passagem censurável").
+entry(censual, adj, [], "relativo ao ato de censurar").
+entrada(censurar, v, [censurou,censurando,censura], "criticar severamente").
+entrada(censor, n, [censores], "aquele que censura").
+entrada(censo, v, [censado,censando,censos], "fazer uma contagem oficial de").
+entrada(cent, n, [cents], "a centésima parte de um dólar").
+entrada(cental, n, [centals], "uma unidade de peso").
+entry(centare, n, [centares], "uma medida de área de terra").
+entrada(centas, n, [centai], "ou CENTUa unidade monetária da Lituânia").
+entrada(centauro, n, [centauros], "uma criatura mitológica").
+entrada(centáurea, n, [centáureas], "uma erva medicinal").
+entry(centavo, n, [centavos], "uma moeda de várias nações hispano-americanas").
+entrada(centro, v, [centralizado,centralizando,centros], "colocar no centro o ponto médio").
+entrada(centesis, n, [centeses], "uma punção cirúrgica").
+entrada(centiare, n, [centiares], "centare").
+entry(percentil, n, [percentis], "um valor de uma variável estatística").
+entry(centime, n, [cêntimos], "a centésima parte de um franco").
+entrada(centimo, n, [centimos], "qualquer uma de várias moedas pequenas").
+entrada(centner, n, [centners], "uma unidade de peso").
+entrada(cento, n, [centos], "ou CENTÕES, uma obra literária composta por partes de outras obras").
+entrada(centra, a, [], "pl de centrum").
+entrada(central, adj, [], "MAIS CENTRAL MAIS CENTRALsituado em ou perto do centro").
+entrada(central, n, [centrais], "uma central telefônica").
+entrada(centro, v, [centrado, centrando, centros], "centrar").
+entrada(centrico, adj, [], "situado no centro").
+entry(cimbre, n, [cimbres], "uma estrutura temporária para um arco").
+entry(centrismo, n, [centrismos], "uma filosofia política moderada").
+entrada(centrista, n, [centristas], "um defensor do centrismo").
+entrada(centroide, n, [centroides], "o centro de massa de um objeto").
+entrada(centrum, n, [centrums], "ou CENTRA o corpo de uma vértebra").
+entry(centu, a, [], "pl de centas").
+entrada(centum, n, [centums], "cem").
+entry(centuple, v, [centuplicado,centuplicando,centuplica], "aumentar cem vezes").
+entrada(século, n, [séculos], "um período de 100 anos").
+entrada(ceorl, n, [ceorls], "um homem livre de baixa estirpeCEORLISH adj").
+entrada(cep, n, [ceps], "cepe").
+entrada(cepe, n, [cepes], "um cogumelo grande").
+entry(cephalad, adv, [], "em direção à cabeça").
+entrada(cefálico, adj, [], "relativo à cabeça").
+entrada(cefalina, n, [cefalinas], "um químico corporal").
+entrada(cefeida, n, [cefeidas], "uma estrela gigante").
+entrada(ceramal, n, [ceramais], "uma liga resistente ao calor").
+entrada(ceramica, n, [ceramicas], "um item feito de argila cozida").
+entrada(ceramide, n, [ceramidas], "qualquer um de vários lipídios").
+entrada(ceramista, n, [ceramistas], "aquele que faz cerâmicas").
+entrada(cerastes, n, [cerastes], "uma cobra venenosa").
+entrada(cerate, n, [cerates], "um unguento medicinal").
+entry(cerated, adj, [], "coberto com cera").
+entrada(ceratin, n, [ceratinas], "queratina").
+entrada(ceratoide, adj, [], "semelhante a chifre").
+entry(cercaria, n, [cercarias], "ou CERCÁRIA, um verme parasitário").
+entry(cercis, n, [cercises], "um arbusto").
+entry(cercus, n, [cerci], "um apêndice sensorial de um insetoCERCAL adj").
+entrada(cere, v, [cered, cering, ceres], "envolver em um pano encerado").
+entrada(cereal, n, [cereais], "um alimento feito de grãos").
+entry(cerebral, n, [cerebrais], "um tipo de consoante").
+entrada(cerebro, n, [cerebros], "ou CÉREBROparte do cérebroCEREBRIC adj").
+entrada(cered, passado, [], "tempo de cere").
+entrada(cerement, n, [cerements], "um pano ceroso").
+entry(cerimônia, n, [cerimônias], "uma observação formal").
+entry(ceresina, n, [ceresinas], "uma cera dura e esbranquiçada").
+entrada(cereus, n, [cerei], "um cacto alto").
+entrada(ceria, n, [cerias], "um composto químico").
+entrada(cérico, adj, [], "contendo cério").
+entrada(cering, presente, [], "particípio de cere").
+entrada(ceriph, n, [ceriphs], "serif").
+entrada(cerise, n, [cerises], "uma cor vermelha").
+entrada(cerita, n, [ceritas], "um mineral").
+entrada(cério, n, [cérios], "um elemento metálico").
+entrada(cermet, n, [cermets], "ceramal").
+entry(cernuoso, adj, [], "caído ou inclinado").
+entrada(cero, n, [ceros], "um grande peixe alimentício").
+entrada(cerótico, adj, [], "relativo à cera de abelha").
+entrada(cerotype, n, [cerotypes], "um processo de gravura usando cera").
+entrada(cerous, adj, [], "relativo ao cério").
+entrada(cert, n, [certificados], "um evento que certamente acontecerá").
+entry(certain, adj, [], "ABSOLUTAMENTE confiante CERTAINER CERTAINEST").
+entrada(certes, adv, [], "em verdade").
+entrada(certificar, v, [certificado,certificando,certifica], "confirmar").
+entry(cerúleo, n, [cerúleos], "uma cor azul").
+entrada(cerumen, n, [cerúmen], "uma secreção cerosa do ouvido").
+entrada(ceruse, n, [ceruses], "um composto de chumbo").
+entrada(cerusita, n, [cerusitas], "um mineral de chumbo").
+entrada(cervelas, n, [cervelases], "cervelat").
+entrada(cervelat, n, [cervelats], "uma linguiça defumada").
+entrada(cerveja, n, [cervejas], "cerveja").
+entry(cervical, adj, [], "relativo ao colo do útero").
+entrada(cervo, n, [cervídeos], "um mamífero da família dos cervos").
+entrada(cervino, adj, [], "relativo a veados").
+entrada(cervix, n, [cervices], "ou CERVIXo pescoço").
+entrada(cesariana, n, [cesarianas], "um método de parto").
+entry(cesarian, n, [cesarianas], "cesariana").
+entry(césio, n, [césios], "um elemento metálico").
+entry(cess, v, [cessed,cessing,cesses], "tributar ou avaliar").
+entrada(cessão, n, [cessões], "o ato de ceder").
+```prolog
+entrada(fossa, n, [fossas], "uma fossa").
+```
+entrada(fossa, n, [fossas], "um poço coberto ou fossa para esgoto").
+entrada(cesta, n, [cestas], "um cesto usado no jai alai, um jogo jogado com uma bola pequena e dura").
+entrada(cesti, pl, [], "de cestus").
+entrada(cestode, n, [cestodes], "um parasita intestinal").
+entrada(cestoide, n, [cestoides], "cestoide").
+entrada(cestos, n, [cestoi], "cestus").
+entrada(cestus, n, [cestuses], "uma cobertura de mão para boxeadores romanos antigos").
+entrada(cestus, n, [cesti], "um cinto ou faixa").
+entrada(cesura, n, [cesuras], "ou CESURAEcaesura").
+entrada(cetáceo, n, [cetáceos], "um mamífero aquático").
+entrada(cetane, n, [cetanos], "um combustível diesel").
+entry(cete, n, [cetes], "um grupo de texugos").
+entrada(cetologia, n, [cetologias], "o estudo das baleias").
+entrada(ceviche, n, [ceviches], "seviche").
+entrada(chablis, n, [chablis], "um vinho branco seco").
+entrada(chabouk, n, [chabouks], "um tipo de chicote").
+entry(chabuk, n, [chabuks], "chabouk").
+entrada(chachka, n, [chachkas], "chatchka").
+entrada(chacma, n, [chacmas], "um babuíno grande").
+entry(chaconne, n, [chaconnes], "uma dança antiga").
+entrada(chad, n, [chads], "um pedaço de papelCHADLESS adj").
+entrada(chadar, n, [chadars], "ou CHADRIchador").
+entrada(chadarim, a, [], "pl de cheder").
+entrada(chador, n, [chadores], "ou CHADRIt xaile grande").
+entry(chaebol, n, [chaebols], "um grupo de empresas na Coreia pertencente a uma família").
+entrada(chaeta, n, [chaetae], "uma cerda ou setaCHAETAL adj").
+entry(chafe, v, [chafed,chafing,chafes], "aquecer esfregando").
+entry(chafer, n, [chafers], "um grande besouro").
+entrada(chaff, v, [chaffed,chaffing,chaffs], "brincar com alguém").
+entrada(chaffer, v, [chaffered, chaffering, chaffers], "negociar ou pechinchar").
+entrada(chaffy, adj, [], "CHAFFIER CHAFFIESTsem valor").
+entry(friccionando, presente, [], "particípio de friccionar").
+entrada(aborrecimento, v, [aborrecido,aborrecendo,aborrece], "ou ABORRECIDO ABORRECENDO ABORRECE para humilhar").
+entrada(chai, n, [chais], "chá condimentado com mel e leite").
+entrada(corrente, v, [encadeado, encadeando, correntes], "prender com uma corrente uma série de anéis conectados").
+entrada(cadeia, n, [cadeias], "uma série de giros de balé").
+entrada(chainman, n, [chainmen], "um assistente de topógrafo que usa uma corrente de medição").
+entrada(motosserra, v, [serrou_com_motoserra, serrando_com_motoserra, serras_com_motoserra], "cortar com uma motosserra").
+entrada(cadeira, v, [cadeirado,cadeirando,cadeiras], "instalar em cargo").
+entry(presidente, n, [presidentes], "o oficial que preside uma reunião").
+entry(chairman, v, [chairmaned,chairmaning,chairmans], "ou CHAIRMANNED CHAIRMANNING CHAIRMANSatuar como presidente de").
+entrada(cadeira, n, [cadeiras], "uma carruagem leve").
+entrada(chakra, n, [chakras], "um centro corporal no yoga").
+entrada(chalah, n, [chalahs], "ou CHALOTH ou CHALOTchallah").
+entrada(chalaza, n, [chalazas], "ou CHALAZAE uma faixa de tecido em um ovo CHALAZAL adj").
+entrada(chalazia, npl, [], "tumores da pálpebra").
+entry(chalcid, n, [chalcids], "uma mosca minúscula").
+entrada(chaldron, n, [chaldrons], "uma unidade de medida seca").
+entrada(chaleh, n, [chalehs], "challah").
+entrada(chalé, n, [chalés], "uma cabana suíça").
+entrada(cálice, n, [cálices], "um copo de beberCÁLICED adj").
+entrada(giz, v, [gizou, gizando, giza], "marcar com giz um calcário macio").
+entrada(esbranquiçado, adj, [], "MAIS ESBRANQUIÇADO MAIS ESBRANQUIÇADOsimilar a giz").
+entrada(challa, n, [challas], "challah").
+entrada(challah, n, [challahs], "ou CHALLOTH ou CHALLOT, um tipo de pão").
+entrada(challie, n, [challies], "challis").
+entrada(challies, pl, [], "de chally").
+entrada(challis, n, [challises], "um tecido leve").
+entrada(challot, a, [], "pl de challah").
+entrada(challoth, a, [], "pl de challah").
+entrada(chally, n, [challies], "challis").
+entrada(chalone, n, [chalones], "um hormônio").
+entrada(chalot, a, [], "pl de chalah").
+entrada(chaloth, a, [], "pl de chalah").
+entrada(chalupa, n, [chalupas], "uma tortilla de milho frita com uma mistura saborosa").
+entrada(chalutz, n, [chalutzim], "halutz").
+entrada(cham, n, [chams], "um khan").
+entrada(chamade, n, [chamades], "um sinal feito com um tambor").
+entrada(câmara, v, [camarada, encamarando, câmaras], "colocar em uma câmara ou sala").
+entry(chambray, n, [chambrays], "um tecido fino").
+entrada(quarto, adj, [], "trazido como vinho à temperatura ambiente").
+entrada(chanfro, v, [chanfrado, chanfrando, chanfros], "raiar").
+entrada(chamfron, n, [chamfrons], "armadura para a cabeça de um cavalo").
+entrada(chamisa, n, [chamisas], "uma saltbush do sudoeste").
+entrada(chamise, n, [chamises], "chamiso").
+entrada(chamiso, n, [chamisos], "um arbusto florido").
+entrada(chammy, v, [chammied, chammying, chammies], "transformar em camurça").
+entrada(camurça, n, [camurça], "um couro macio").
+entry(camurça, v, [camurçada, camurçando, camurças], "preparar couro como camurça").
+entrada(champ, v, [champed, champing, champs], "mastigar ruidosamente").
+entrada(champac, n, [champacs], "champak").
+entrada(champaca, n, [champacas], "champak").
+entrada(champak, n, [champacas], "uma árvore da Índia Oriental").
+entrada(champer, n, [champers], "um que champs").
+entry(campeão, v, [defendeu, defendendo, defende], "defender ou apoiar").
+entrada(champy, adj, [], "quebrado pelo pisoteio de bestas").
+entrada(chana, n, [chanas], "um lanche de grão-de-bico").
+entrada(chance, v, [chanced,chancing,chances], "arriscar").
+entrada(chancel, n, [chancels], "uma área ao redor de um altar de igreja").
+entrada(chancer, n, [chancers], "um oportunista").
+entrada(chancelaria, n, [chancelarias], "um tribunal de registro público").
+entrada(chancier, comparativo, [], "de chancy").
+entrada(mais_arriscado, superlativo, [], "de arriscado").
+entrada(chancily, adv, [], "de maneira arriscada").
+entrada(alterando, presente, [], "particípio de alterar").
+entrada(cancro, n, [cancros], "uma ferida dura").
+entry(chancy, adj, [], "MAIS ARISCADO MAIS ARISCADO Arriscado").
+entrada(chandler, n, [chandlers], "um comerciante de provisões").
+entrada(chanfron, n, [chanfrons], "chamfron").
+entrada(chang, n, [changs], "um cattie").
+entrada(mudar, v, [mudou,mudando,muda], "fazer diferente").
+entrada(changer, n, [changers], "aquele que muda").
+entrada(changeup, n, [changeups], "uma bola lenta lançada como uma bola rápida").
+entrada(canal, v, [canalizado, canalizando, canais], "ou CANALIZADO CANALIZANDO CANAISpara direcionar ao longo de algum curso desejado").
+entrada(chanoyu, n, [chanoyus], "um ritual de chá japonês").
+entrada(cancao, n, [cancoes], "uma canção").
+entrada(canto, v, [cantou,cantando,canta], "cantar").
+entry(chantagem, n, [chantagens], "chantagem").
+entrada(cantar, n, [cantores], "aquele que canta").
+entrada(cântico, n, [cânticos], "uma canção de marinheiros").
+entrada(chanties, pl, [], "de cantiga").
+entrada(chantor, n, [chantors], "cantar").
+entrada(chantry, n, [chantries], "uma doação feita a uma igreja").
+entrada(chanty, n, [chanties], "chantey").
+entrada(chao, n, [chao], "uma unidade monetária do Vietnã").
+entrada(caos, n, [caoses], "um estado de desordem total uma massa confusaCAÓTICO adj").
+entry(chap, v, [chapt,chapping,chaps], "dividir, rachar ou avermelhar").
+entrada(chapati, n, [chapatis], "um pão não fermentado da Índia").
+entrada(chapatti, n, [chapattis], "chapati").
+entrada(folheto, n, [folhetos], "um pequeno livro de contos populares").
+entrada(chape, n, [chapes], "uma parte de uma bainha").
+entry(chapeau, n, [chapéus], "ou CHAPEAUX um chapéu").
+entrada(capela, n, [capelas], "um lugar de adoração").
+entrada(chaperon, v, [chaperoned,chaperoning,chaperons], "acompanhar").
+entry(capitel, n, [capiteis], "o capitel de uma coluna").
+entry(capelão, n, [capelães], "um clérigo para uma capela").
+entrada(diadema, n, [diademas], "uma coroa para a cabeça").
+entrada(chapman, n, [chapmen], "um vendedor ambulante").
+entry(chappal, n, [chappals], "uma sandália usada na Índia").
+entrada(chappati, n, [chappatis], "chapati").
+entrada(chapped, a, [], "pretérito de chap").
+entrada(chappie, n, [chappies], "um camarada").
+entrada(chapping, presente, [], "particípio de chap").
+entrada(chapt, a, [], "pretério de chap").
+entrada(capítulo, v, [capítulado,capitulando,capítulos], "dividir um livro em capítulos principais seções").
+entrada(jaqueta, n, [jaquetas], "uma jaqueta usada por vaqueiros").
+entrada(char, v, [carbonizado, carbonizando, caracteres], "queimar ligeiramente").
+entrada(characid, n, [characids], "caracídeo").
+entrada(caracídeo, n, [caracídeos], "um peixe tropical").
+entrada(charade, n, [charadas], "uma palavra representada por pantomima").
+entrada(charas, n, [charases], "haxixe").
+entrada(carvão, v, [carvoejado,carvoejando,carvoeja], "empurecer com carvão um carbono poroso escuro").
+entrada(acelga, n, [acelgas], "uma variedade de beterraba").
+entrada(chare, v, [chared, charing, chares], "fazer pequenos trabalhos").
+entrada(charette, n, [charettes], "um encontro para brainstorming").
+entrada(charge, v, [charged,charging,charges], "acusar formalmente").
+entrada(carregador, n, [carregadores], "aquele que carrega").
+entrada(carga, n, [cargas], "uma jogada ilegal no hóquei").
+entrada(charier, comparativo, [], "de cauteloso").
+entrada(chariest, superlativo, [], "de cauteloso").
+entrada(charily, adv, [], "de maneira cautelosa").
+entrada(charing, presente, [], "particípio de chare").
+entrada(carroça, v, [andou_de_carroça, andando_de_carroça, carroças], "andar de carroça um tipo de carrinho").
+entrada(carisma, n, [carismas], "carisma").
+entrada(carisma, n, [carismas], "ou CARISMATUma atração magnética especial").
+entrada(beneficência, n, [beneficências], "algo dado aos necessitados").
+entry(chark, v, [charked,charking,charks], "carbonizar").
+entrada(charka, n, [charkas], "charkha").
+entrada(charkha, n, [charkhas], "uma roda de fiar").
+entrada(faxineira, n, [faxineiras], "uma mulher que limpa").
+entrada(charley, n, [charleys], "charlie").
+entrada(charlie, n, [charlies], "um tolo").
+entrada(tenazinha, n, [tenazinhas], "uma erva daninha problemática").
+entrada(charme, v, [charmado,encantador,charmes], "atrair irresistivelmente").
+entrada(charmer, n, [charmers], "aquele que encanta").
+entrada(encantador, adj, [], "ENCANTADOR MAIS ENCANTADOR agradável").
+entry(charneira, n, [charneiras], "uma sala onde corpos são colocados").
+entry(charpai, n, [charpais], "charpoy").
+entrada(charpoy, n, [charpoys], "uma cama usada na Índia").
+entrada(charqui, n, [charquis], "um tipo de carneCHARQUID adj").
+entry(charr, n, [charrs], "uma truta de pequenas escamas").
+entrada(carbonizado, passado, [], "tempo de carbonizar").
+entry(charrier, comparativo, [], "de charry").
+entrada(charriest, superlativo, [], "de charry").
+entry(charring, presente, [], "particípio de char").
+entrada(charro, n, [charros], "um cowboy").
+entrada(charry, adj, [], "CHARRIER CHARRIEST semelhante a carvão").
+entrada(grafico, v, [mapeado,mapeando,mapas], "para mapear").
+entrada(fretar, v, [fretado,fretando,fretar], "alugar ou contratar").
+entrada(cartismo, n, [cartismos], "o uso de gráficos financeiros para prever tendências futuras").
+entrada(cartista, n, [cartistas], "especialista em mercado de ações").
+entry(chary, adj, [], "CHARIER CHARIESTcauteloso").
+entrada(perseguir, v, [perseguiu,perseguindo,persegue], "perseguir").
+entrada(cacador, n, [cacadores], "aquele que caça").
+entrada(perseguindo, n, [perseguicoes], "um desenho gravado em metal").
+entrada(abismo, n, [abismos], "uma fenda profunda na terraABISSO ABISMADO ABÍSMICO ABISMAL adj").
+entrada(chasse, v, [chassed,chasseing,chasses], "realizar um movimento de dança").
+entrada(cavaleiro, n, [cavaleiros], "um soldado de cavalaria").
+entrada(chassis, n, [chassis], "a estrutura de um carro").
+entrada(casto, adj, [], "MAIS CASTO MAIS CASTOmente puroCASTAMENTE adv").
+entrada(castigar, v, [castigado, castigando, castiga], "punir").
+entry(repreender, v, [repreendeu, repreendendo, repreende], "disciplinar através de punição").
+entrada(castidade, n, [castidades], "pureza moral").
+entrada(chasuble, n, [chasubles], "uma vestimenta sem mangas").
+entrada(chat, v, [chatted, chatting, chats], "conversar informalmente").
+entrada(chatchka, n, [chatchkas], "uma bugiganga").
+entrada(chatchke, n, [chatchkes], "chatchka").
+entrada(chateau, n, [chateaus], "ou CHATEAUX uma grande casa de campo").
+entrada(chatline, n, [chatlines], "um serviço telefônico que permite a conversa entre vários chamadores").
+entrada(sala_de_batepapo, n, [salas_de_batepapo], "um grupo de discussão online em tempo real").
+entrada(conversou, passado, [], "tempo de conversar").
+entrada(bem_móvel, n, [bens_móveis], "um escravo").
+entrada(conversar, v, [conversou, conversando, conversa], "falar rapidamente e trivialmenteCONVERSADOR adj").
+entrada(conversando, presente, [], "particípio de conversar").
+entrada(tagarela, adj, [], "MAIS TAGARELA MAIS TAGARELA falante TAGARELAMENTE adv").
+entrada(chofer, n, [chofers], "chauffeur").
+entry(chauffer, n, [chauffers], "uma pequena fornalha").
+entrada(cantar, v, [cantou,cantando,canta], "cantar").
+entry(chaunter, n, [chaunters], "aquele que canta").
+entrada(chauces, npl, [], "armadura medieval").
+entrada(chaw, v, [chawed,chawing,chaws], "mastigar").
+entry(chawer, n, [chawers], "aquele que mastiga").
+entrada(chay, n, [chays], "a raiz de uma erva indiana oriental").
+entrada(xuxu, n, [xuxus], "uma videira tropical").
+entrada(chazan, n, [chazans], "ou CHAZANIMum cantor").
+entrada(chazzan, n, [chazzans], "ou CHAZZANIMchazan").
+entrada(chazzen, n, [chazzens], "ou CHAZZENIMchazan").
+entrada(barato, adj, [], "MAIS_BARATO MAIS_BARATAOinexpensivo").
+entrada(barato, n, [baratos], "um mercado").
+entrada(baratear, v, [barateou,barateando,barateia], "tornar barato").
+entry(cheapie, n, [baratinhos], "aquele que é barato").
+entrada(baratinho, adj, [], "um tanto barato").
+entry(baratamente, adv, [], "de maneira barata").
+entry(cheapo, n, [cheapos], "uma pechincha").
+entry(enganar, v, [enganou,enganando,engana], "defraudar").
+entrada(trapaceiro, n, [trapaceiros], "aquele que trapaceia").
+entrada(chebec, n, [chebecs], "um pequeno pássaro").
+entrada(chechako, n, [chechakos], "um recém-chegado").
+entry(verificar, v, [verificado, verificando, verifica], "inspecionar").
+entrada(check_box, n, [check_boxes], "uma pequena caixa na tela do computador para ser clicada e selecionar uma função").
+entrada(checker, v, [xadrezado,xadrezando,xadrezes], "marcar com quadrados").
+entrada(checkoff, n, [checkoffs], "um método de coleta de contribuições sindicais").
+entrada(checkout, n, [checkouts], "um teste de uma máquina").
+entrada(checkrow, v, [checkrowed, checkrowing, checkrows], "plantar em fileiras que dividem o terreno em quadrados").
+entrada(checksum, n, [checksums], "uma soma derivada de bits de dados de computador").
+entrada(checkup, n, [checkups], "um exame").
+entry(cheddar, n, [cheddars], "um tipo de queijoCHEDDARY adj").
+entrada(cheddite, n, [cheddites], "chedite").
+entrada(cheder, n, [cheders], "ou CHADARIM ou CHEDARIMheder").
+entrada(chedite, n, [chedites], "um explosivo").
+entrada(bochecha, v, [bochechado, bochechando, bochechas], "falar de forma insolente para").
+entry(bochechudo, n, [bochechudos], "a quantidade mantida na bochecha").
+entry(descarado, adj, [], "DESCARADAMENTE adverbio").
+entry(piado, v, [piou,pianando,pia], "piar").
+entry(piador, n, [piadores], "um que pia").
+entry(ovacionar, v, [ovacionou,ovacionando,ovaciona], "aplaudir com gritos de aprovação").
+entry(alegrador, n, [alegradores], "aquele que alegra").
+entrada(alegre, adj, [], "MAIS ALEGRE MAIS ALEGREcheio de espíritos").
+entry(mais_alegre, comparativo, [], "de alegre").
+entrada(mais_alegre, superlativo, [], "de alegre").
+entry(animadamente, adv, [], "de maneira alegre").
+entry(cheerio, n, [cheerios], "uma saudação").
+entry(cheerled, passado, [], "tempo de cheerlead").
+entrada(cheerly, adv, [], "alegremente").
+entrada(cheero, n, [cheeros], "cheerio").
+entry(alegre, adj, [], "MAIS ALEGRE MAIS ALEGRE DE TODOSalegre").
+entrada(queijo, v, [queijou, queijando, queijos], "parar").
+entrada(queijoso, adj, [], "MAIS QUEROSO MAIS QUEIJOSOa a assemelhando-se a queijo um alimento feito de coalhada de leiteQUEIJOSAMENTE adv").
+entry(chita, n, [chitas], "um felino selvagem de corrida rápida").
+entry(chef, v, [cozinhou,cozinhando,cozinheiros], "ou COZINHOU COZINHANDO COZINHEIROStrabalhar como cozinheiro chefe").
+entrada(chefdom, n, [chefdoms], "o status de um chef").
+entry(chegoe, n, [chegoes], "tunga penetrans").
+entry(chela, n, [chelae], "uma garra semelhante a um alicate").
+entry(chela, n, [chelas], "um aluno de um guru").
+entry(quelar, v, [quelou,quelando,quela], "combinar um íon metálico com um composto").
+entrada(quelante, n, [quelantes], "um que quelata").
+entrada(cheliped, n, [chelipeds], "uma perna com garra").
+entrada(queloide, n, [queloides], "queloide").
+entry(chem, n, [chems], "uma aula ou curso de química").
+entrada(chemic, n, [chemics], "um químico").
+entry(chemico, n, [chemicos], "uma substância obtida por um processo de química").
+entry(chemise, n, [chemises], "um vestido solto").
+entry(chemicalismo, n, [chemisms], "atração química").
+entrada(químico, n, [químicos], "alguém versado em química").
+entrada(quimio, n, [quimios], "tratamento de doenças com agentes químicos").
+entrada(chemurgia, n, [chemurgias], "um ramo da química aplicada").
+entry(chenille, n, [chenilles], "um tecido macio").
+entrada(chenopod, n, [chenopods], "uma planta com flor").
+entry(cheque, n, [cheques], "uma ordem escrita que direciona um banco a pagar dinheiro").
+entrada(damas, v, [xadrezado,xadrezando,damas], "jogar damas").
+entrada(cherish, v, [cherished, cherishing, cherishes], "estimar").
+entrada(charuto, n, [charutos], "um charuto cortado quadrado").
+entrada(cereja, n, [cerejas], "uma fruta").
+entrada(cereja, adj, [], "DE COR VERMELHO CLARO CERISE CEREJA").
+entrada(chert, n, [cherts], "uma rocha compacta").
+entrada(cherty, adj, [], "CHERTIER CHERTIESTsemelhante a chert").
+entrada(querubim, n, [querubins], "ou QUERUBINS ou ANJOS QUERÚBICO adj").
+entrada(cerefólio, n, [cerefólios], "uma erva aromática").
+entry(cheshire, n, [cheshires], "um queijo inglês duro").
+entrada(xadrez, n, [xadrezes], "uma erva").
+entrada(peça_de_xadrez, n, [peças_de_xadrez], "uma das peças usadas no xadrez, um jogo de tabuleiro para dois jogadores").
+entrada(peito, n, [peitos], "uma parte do corpoPEITORIL adj").
+entrada(chestful, n, [chestfuls], "tanto quanto um baú ou caixa pode conter").
+entrada(castanha, n, [castanhas], "uma noz comestível").
+entry(chesty, adj, [], "MAIS PEITORUDO MAIS PEITORUDOPROUDPEITORUDAMENTE adv").
+entrada(guepardo, n, [guepardos], "guepardo").
+entrada(cheth, n, [cheths], "heth").
+entrada(chetrum, n, [chetrums], "uma unidade monetária do Butão").
+entry(chevalet, n, [chevalets], "uma parte de um instrumento de cordas").
+entrada(chevron, n, [chevrons], "chevron").
+entry(cabeceira, n, [cabeceiras], "a extremidade absidal de uma igreja").
+entrada(chevied, passado, [], "tempo de chevy").
+entrada(chevies, presente, [], "3ª pessoa singular de chevy").
+entrada(cheviot, n, [cheviots], "um tecido grosso").
+entry(chevron, n, [chevrons], "um padrão em forma de V").
+entry(chevy, v, [chevied, chevying, chevies], "perseguir").
+entrada(mastigar, v, [mastigou,mastigando,mastiga], "esmagar ou triturar com os dentesMASTIGÁVEL adj").
+entry(mastigador, n, [mastigadores], "um que mastiga").
+entry(chewink, n, [chewinks], "um tentilhão comum").
+entrada(mastigável, adj, [], "MAIS MASTIGÁVEL, MAIS MASTIGÁVEL, não facilmente mastigado").
+entry(chez, prep, [], "em casa de").
+entrada(chi, n, [chis], "uma letra grega").
+entry(chia, n, [chias], "uma erva mexicana").
+entry(chianti, n, [chiantis], "um vinho tinto seco").
+entrada(chiao, n, [chiao], "uma unidade monetária da China").
+entrada(quiasma, n, [quiasmas], "quiasma").
+entry(chiasma, n, [chiasmas], "ou QUISMAS uma junção anatômica QUIASMAL QUIÁSICO adj").
+entrada(quiasmo, n, [quiasmi], "uma inversão da ordem das palavras entre frases paralelasQUIÁSTICO adj").
+entry(chiaus, n, [chiauses], "um mensageiro turco").
+entrada(chibouk, n, [chibouks], "um cachimbo de tabaco turco").
+entrada(chic, adj, [], "CHICER CHICESTsmartly stylish").
+entrada(chic, n, [chics], "elegância no vestir ou no comportamento").
+entrada(chica, n, [chicas], "uma menina ou jovem mulher").
+entry(chicane, v, [chicaned,chicaning,chicanes], "enganar por um artifício inteligente").
+entrada(chicaner, n, [chicaners], "aquele que faz chicanas").
+entrada(chicano, n, [chicanos], "um americano de ascendência mexicana").
+entrada(chicória, n, [chicórias], "chicory").
+entrada(chichi, adj, [], "CHICHIER CHICHIESTexcessivamente estiloso").
+entrada(chichi, n, [chichis], "ornamentação elaborada").
+entrada(pintainho, n, [pintainhos], "um pássaro jovem").
+entrada(chickee, n, [chickees], "uma casa sobre estacas dos índios Seminole").
+entrada(frango, v, [frangou, frangando, frangos], "perder a coragem").
+entrada(chicória, n, [chicórias], "chicory").
+entry(grão_de_bico, n, [grão_de_bicos], "uma erva asiática").
+entrada(chicle, n, [chicletes], "uma goma de árvore").
+entrada(chicly, adv, [], "de maneira elegante").
+entry(elegância, n, [elegâncias], "elegance").
+entrada(chico, n, [chicos], "arbusto espinhoso").
+entry(chicória, n, [chicórias], "uma erva perene").
+entrada(chicot, n, [chicots], "uma árvore morta").
+entrada(chide, v, [chid,chidden,chiding], "CHIDErepreender").
+entrada(chider, n, [chiders], "aquele que repreende").
+entrada(chefe, adj, [], "CHEFÃO CHEFÍSSIMOmaior em autoridade").
+entrada(chefe, n, [chefes], "a pessoa mais alta em autoridade").
+entry(chiefdom, n, [chiefdoms], "o domínio de um chefe").
+entrada(primordialmente, adv, [], "acima de tudo").
+entrada(chiel, n, [chiels], "chield").
+entrada(filho, n, [filhos], "um jovem").
+entrada(chiffon, n, [chiffons], "um tecido fino").
+entry(chigetai, n, [chigetais], "um asno selvagem").
+entrada(carrapato, n, [carrapatos], "um ácaro parasita").
+entrada(chignon, n, [chignons], "um penteado feminino").
+entrada(chigoe, n, [chigoe], "uma pulga tropical").
+entrada(criança, n, [crianças], "uma pessoa jovem").
+entrada(parturiente, n, [parturientes], "o estado de uma mulher dando à luz").
+entrada(childe, n, [childes], "um jovem de nascimento nobre").
+entrada(childing, adj, [], "grávida").
+entrada(infantil, adj, [], "parecendo uma criança").
+entry(criança, adj, [], "MAIS CRIANÇA MAIS CRIANÇAsemelhar-se a uma criança").
+entrada(crianças, pl, [], "de criança").
+entrada(chile, n, [chiles], "chili").
+entrada(chili, n, [chilis], "ou CHILIES um pimentão ardente").
+entrada(chiliad, n, [chiliads], "um grupo de mil").
+entrada(milenarismo, n, [milenarismos], "uma doutrina religiosa").
+entrada(milenarista, n, [milenaristas], "um apoiador do milenarismo").
+entrada(chilidog, n, [chilidogs], "um cachorro-quente coberto com chili").
+entrada(chill, adj, [], "CHILLER CHILLESTcool").
+entrada(chill, v, [chilled,chilling,chills], "tornar frio").
+entrada(chillax, v, [chillaxed, chillaxing, chillaxes], "acalmar-se").
+entrada(chiller, n, [chillers], "aquele que resfria").
+entrada(pimenta, n, [pimentas], "ou PIMENTÕESpimenta").
+entrada(chillum, n, [chillums], "uma parte de um cachimbo de água").
+entrada(frio, adj, [], "MAIS FRIO MAIS FRIOcoolFRIAMENTE adv").
+entrada(quilópode, n, [quilópodes], "um inseto de várias patas").
+entrada(quimera, n, [quimeras], "um peixe marinho").
+entrada(chimar, n, [chimars], "chimere").
+entrada('chimb', n, ['chimbos'], "a borda de um barril").
+entrada(chimbley, n, [chimbleys], "chimley").
+entrada(chimbly, n, [chimblies], "chimley").
+entrada(sino, v, [soou, soando, soa], "tocar harmoniosamente").
+entrada(chimenea, n, [chimeneas], "uma lareira ao ar livre em forma de lâmpada").
+entrada(carrilhão, n, [carrilhões], "aquele que toca campainha").
+entrada(quimera, n, [quimeras], "um monstro imaginário").
+entrada(chemira, n, [chemiras], "uma veste de bispo").
+entrada(quimérico, adj, [], "imaginário irreal").
+entrada(chiminea, n, [chimeneas], "chimenea").
+entrada(tintinando, presente, [], "particípio de chime").
+entrada(chimla, n, [chimlas], "chimley").
+entrada(chimley, n, [chimleys], "uma chaminé").
+entrada(chaminé, n, [chaminés], "um duto").
+entrada(chimp, n, [chimpanzés], "um chimpanzé").
+entrada(queixo, v, [queixou, queixando, queixa], "segurar com o queixo a parte inferior do rosto").
+entry(china, n, [chinas], "louça de porcelana fina").
+entrada(maxilar, n, [maxilares], "o maxilar inferior").
+entrada(chinch, v, [chinched, chinching, chinches], "to chinse").
+entrada(chinchy, adj, [], "CHINCHIER CHINCHIESTstingy").
+entrada(chine, v, [chined,chining,chines], "cortar através da espinha dorsal de").
+entrada(ching, n, [chings], "um som de zumbido agudo").
+entrada(rachar, v, [rachado, rachando, rachaduras], "para preencher fendas ou fissuras em").
+entry(chinky, adj, [], "CHINKIER CHINKIESTcheio de fendas").
+entrada(chinless, adj, [], "sem queixo").
+entrada(chinned, passado, [], "tempo de chin").
+entrada(chinning, presente, [], "particípio de chin").
+entrada(chino, n, [chinos], "um tecido forte").
+entrada(chines, n, [chinesas], "uma peneira em forma de cone").
+entrada(chinone, n, [chinones], "quinona").
+entrada(chinook, n, [chinooks], "um vento quente").
+entrada(chinse, v, [chinsed,chinsing,chinses], "preencher as costuras em um barco ou cabine").
+entrada(chints, n, [chintses], "chintz").
+entrada(chintz, n, [chintzes], "um tecido de algodão").
+entrada(chintzy, adj, [], "CHINTZIER CHINTZIESTgaudy cheap").
+entry(conversa, v, [conversou, conversando, conversa], "fofocar").
+entrada(chip, v, [chipped,chipping,chips], "quebrar um pequeno pedaço de").
+entrada(esquilo, n, [esquilos], "um esquilo").
+entrada(esquilo, n, [esquilos], "um pequeno roedor").
+entrada(chipotle, n, [chipotles], "um pimentão jalapeño defumado e seco").
+entrada(rachou, passado, [], "tempo de rachar").
+entrada(chipper, v, [chippered,chippering,chippers], "piar").
+entrada(chippie, n, [chippies], "chippy").
+entrada(lascando, presente, [], "particípio de lascar").
+entrada(chippy, adj, [], "CHIPPIER CHIPPIESTbeligerante").
+entrada(chippy, n, [chippies], "uma prostituta").
+entrada(chipset, n, [chipsets], "um conjunto de circuitos integrados").
+entry(chiral, adj, [], "relativo a uma molécula assimétrica").
+entrada(chirk, adjetivo, [], "CHIRKER CHIRKESTalegre").
+entrada(chirk, v, [chirked, chirking, chirks], "fazer um som agudo").
+entrada(chirm, v, [chirmed, chirming, chirms], "piar").
+entrada(quiro, n, [quiros], "um peixe marinho").
+entrada(chirp, v, [chirped,chirping,chirps], "emitir um som agudo e curto").
+entrada(chirper, n, [chirpers], "um que gorjeia").
+entrada(chirpy, adj, [], "CHIRPIER CHIRPIESTalegreCHIRPILY adv").
+entrada(chirr, v, [chirred, chirring, chirrs], "emitir um som vibrante e áspero").
+entrada(chirre, v, [chirrou,chirrando,chirra], "chirr").
+entrada(criancas, npl, [], "children").
+entrada(chirrup, v, [chirruped, chirruping, chirrups], "piar repetidamenteCHIRRUPY adj").
+entrada(chiru, n, [chirus], "um antílope tibetano").
+entrada(cinchão, v, [cinchados,cinchando,cinchões], "ou CINCHADO CINCHANDO CINCHÕESpara usar um cinchão uma ferramenta de corte").
+entrada(talhador, n, [talhadores], "aquele que talha").
+entrada(chit, n, [chits], "uma carta curta").
+entrada(chital, n, [chitals], "um cervo asiático").
+entrada(conversa, v, [conversou, conversando, conversa], "entregar-se a bate-papo").
+entrada(quitina, n, [quitinas], "o principal componente das carapaças dos insetos").
+entrada(chitlin, n, [chitlins], "chitling").
+entrada(chitling, n, [chitlings], "uma parte do intestino delgado do porco").
+entrada(quíton, n, [quítons], "uma túnica usada na Grécia antiga").
+entrada(quitosana, n, [quitosanas], "um composto derivado da quitina").
+entrada(chitter, v, [chittered,chittering,chitters], "piar").
+entrada(chitty, n, [chitties], "um comprovante").
+entrada(cavalheirismo, n, [cavalheirismos], "comportamento e habilidade cavalheirescos").
+entrada(chivaree, v, [chivareed,chivareeing,chivarees], "fazer uma serenata de brincadeira").
+entry(chivari, v, [chivaried,chivariing,chivaries], "chivar").
+entrada(cebolinha, n, [cebolinhas], "uma erva usada como tempero").
+entrada(chivvy, v, [chivvied, chivvying, chivvies], "to chevy").
+entrada(chivy, v, [chivied,chivying,chivies], "to chevy").
+entry(chlamys, n, [chlamyses], "ou CHLAMYDES, uma vestimenta usada na Grécia Antiga").
+entry(cloasmasma, n, [cloasmasmas], "ou CLOASMASMATA uma descoloração da pele").
+entrada(cloral, n, [clorais], "um composto químico").
+entry(clorato, n, [cloratos], "um sal químico").
+entrada(chlordan, n, [chlordans], "um composto tóxico de cloro").
+entry(clórico, adj, [], "relativo a cloro").
+entrada(cloreto, n, [cloretos], "cloreto").
+entrada(cloreto, n, [cloretos], "um composto de cloro").
+entrada(clorina, n, [clorinas], "cloro").
+entry(cloro, n, [cloros], "um elemento gasoso").
+entrada(clorito, n, [cloritos], "um grupo mineral").
+entrada(cloroso, adj, [], "relativo ao cloro").
+entry(choana, n, [choanas], "uma abertura em forma de funil").
+entrada(choc, n, [chocolates], "um chocolate").
+entry(calço, v, [calçou, calçando, calços], "para fixar com uma cunha de madeira ou metal").
+entrada(chockful, adj, [], "cheio até o limite").
+entrada(choice, adj, [], "COM MAIS ESCOLHA DE QUALIDADE FINA ESCOLHIDAMENTE adv").
+entrada(escolha, n, [escolhas], "uma que é escolhida").
+entrada(choil, n, [choils], "o final de uma lâmina de faca mais próximo do cabo").
+entrada(coro, v, [corado,corando,coros], "cantar em uníssono").
+entrada(coralista, n, [coralistas], "um menino que canta em um coral, um grupo de cantores de igreja").
+entrada(estrangular, v, [estrangulou, estrangulando, estrangula], "impedir a respiração de").
+entry(gargantilha, n, [gargantilhas], "uma que sufoca").
+entrada(chokey, adj, [], "CHOKIER CHOKIESTchoky").
+entrada(chokey, n, [chokeys], "choky").
+entrada(choky, adj, [], "CHOKIER CHOKIESTtendendo a causar engasgo").
+entrada(choky, n, [chokies], "uma prisão").
+entrada(cloreto, n, [cloretos], "um sal químico").
+entry(cholent, n, [cholents], "um guisado judeu tradicional").
+entrada(cólera, n, [cóleras], "raiva").
+entrada(colera, n, [coleras], "uma doença aguda").
+entrada(colérico, adj, [], "mal-humorado").
+entry(choli, n, [cholis], "um corpete usado por algumas mulheres hindus").
+entrada(choliamb, n, [choliambs], "um tipo de metro poético").
+entrada(colina, n, [colinas], "uma vitamina B").
+entrada(cholla, n, [chollas], "uma cactácea semelhante a uma árvore").
+entrada(chomp, v, [chomped,chomping,chomps], "morder").
+entrada(chomper, n, [chompers], "um que mastiga").
+entry(chon, n, [chon], "uma unidade monetária da Coreia do Norte e do Sul").
+entrada(galinha, n, [galinhas], "um frango").
+entry(escolher, v, [escolheu, escolhido, escolhendo], "ESCOLHEertomar por preferência").
+entrada(escolhedor, n, [escolhedores], "aquele que escolhe").
+entrada(choosey, adj, [], "CHOOSIER CHOOSIESTchoosy").
+entry(seletivo, adj, [], "MAIS SELETIVO MAIS SELETIVOdifícil de agradarSELECTIVAMENTE adv").
+entrada(cortar, v, [cortado,cortando,corta], "separar com uma ferramenta afiada").
+entrada(chopin, n, [chopins], "chopine").
+entrada(chopine, n, [chopines], "um tipo de sapato").
+entrada(picado, passado, [], "tempo de cortar").
+entrada(helicóptero, v, [voou_de_helicóptero, voando_de_helicóptero, helicópteros], "viajar de helicóptero").
+entrada(picando, presente, [], "particípio de picar").
+entrada(choppy, adj, [], "MAIS IRREGULAR MAIS IRREGULAR DE TODOS cheio de ondas curtas e ásperas IRREGULARMENTE adv").
+entrada(corifeu, n, [corifeus], "ou CORIFOS o líder de um coro ou coral CORÍFICO adj").
+entry(coral, n, [corais], "coro").
+entrada(coral, n, [corais], "um hino que é cantado em uníssono").
+entry(coralmente, adv, [], "harmoniosamente").
+entrada(acorde, v, [acordado, acordando, acordes], "tocar um acorde, uma combinação de três ou mais tons musicais").
+entrada(cordal, adj, [], "relativo a uma corda").
+entrada(cordado, n, [cordados], "qualquer um de um grande filo de animais").
+entrada(acordeamento, n, [acordeamentos], "o ato de tocar um acorde").
+entrada(tarefa, v, [tarefa_feita,tarefa_fazendo,tarefas], "fazer pequenos serviços").
+entry(coreia, n, [coreias], "um distúrbio nervosoCOREIAL COREICO adj").
+entrada(choreboy, n, [choreboys], "um menino contratado para fazer trabalhos diversos").
+entrada(corego, n, [coregos], "ou COREOGIchóragos").
+entrada(capataz, n, [capatazes], "um trabalhador servil").
+entrada(choreoid, adj, [], "assemelhando-se a coreia").
+entrada(chorial, adj, [], "relacionado ao córion").
+entry(choriamb, n, [choriambs], "um tipo de pé métrico").
+entrada(córico, adj, [], "relativo a um coro").
+entrada(chorine, n, [chorines], "uma corista").
+entrada(choring, presente, [], "particípio de chore").
+entrada(coroide, n, [coroides], "coroide").
+entrada(cório, n, [córios], "uma membrana embrionária").
+entry(chouriço, n, [chouriços], "um enchido altamente temperado").
+entrada(coroide, n, [coroides], "uma membrana do olho").
+entrada(chorten, n, [chortens], "um santuário tibetano").
+entrada(chortle, v, [chortled, chortling, chortles], "dar uma risada de alegria").
+entrada(chortler, n, [chortlers], "alguém que gargalha").
+entry(coro, v, [corou,corando,coros], "ou COROUCORANDOCOROScantar em uníssono").
+entry(escolher, n, [escolhas], "um item de propriedade pessoal").
+entrada(escolhido, passado, [], "particípio de escolher").
+entrada(chott, n, [chotts], "um lago salino").
+entrada(gralha, n, [gralhas], "um pássaro semelhante a um corvo").
+entrada(chouse, v, [choused,chousing,chouses], "fraudar").
+entry(chouser, n, [chousers], "aquele que chouseia").
+entrada(choush, n, [choushes], "chiaus").
+entry(chow, v, [chowed,chowing,chows], "comer").
+entrada(chowchow, n, [chowchows], "uma conserva de picles mistos em mostarda").
+entrada(chowder, v, [chowdered, chowdering, chowders], "fazer uma sopa espessa de").
+entrada(chowse, v, [chowsed, chowsing, chowses], "roubar").
+entrada(horadocomer, n, [horadecomer], "refeição").
+entrada(cresárdio, n, [cresárdios], "a água disponível do solo").
+entrada(chrism, n, [chrisms], "um óleo consagradoCHRISMAL adj").
+entry(chrismon, n, [chrismons], "ou CHRISMAum monograma cristão").
+entrada(crisma, n, [crismas], "crisma").
+entrada(batizar, v, [batizou,batizando,batiza], "baptizar").
+entrada(christie, n, [christies], "christy").
+entrada(christy, n, [christies], "uma curva de esqui").
+entry(chroma, n, [cromas], "a pureza de uma cor").
+entrada(cromato, n, [cromatos], "um sal químico").
+entry(chrome, v, [chromed,chroming,chromes], "cromar").
+entrada(cromo, adj, [], "relativo ao cromo").
+entrada(chromide, n, [chromides], "um peixe tropical").
+entrada(cromagem, n, [cromagens], "um minério de cromo").
+entrada(cromita, n, [cromitas], "um minério de cromo").
+entrada(cromo, n, [cromos], "um elemento metálico").
+entrada(cromar, v, [cromado,cromando,croma], "cromar").
+entrada(cromo, n, [cromos], "um tipo de imagem colorida").
+entrada(cromoliga, n, [cromoligas], "uma liga de aço feita de cromo e molibdênio").
+entry(cromoso, adj, [], "relativo ao crômio").
+entry(chromy, adj, [], "MAIS CROMADO MAIS CROMADOdecorado com cromo").
+entrada(cromilo, n, [cromilos], "um radical bivalente").
+entrada(cronaxia, n, [cronaxias], "o tempo exigido para excitar eletricamente uma célula nervosa").
+entrada(crônico, n, [crônicos], "aquele que sofre de uma doença prolongada").
+entrada(cronon, n, [cronons], "uma unidade hipotética de tempo").
+entry(chthonic, adj, [], "relativo aos deuses do submundo").
+entrada(peixe, n, [peixes], "um peixe de água doce").
+entrada(chubasco, n, [chubascos], "uma tempestade violenta").
+entrada(gordinho, adj, [], "MAIS GORDINHO MAIS GORDINHOplumPGORDINHAMENTE adv").
+entrada(chuck, v, [chucked,chucking,chucks], "lançar").
+entrada(pessoa_que_arremessa, n, [arremessadores], "um que arremessa").
+entrada(chuckies, pl, [], "do chucky").
+entrada(risadinha, v, [risadinhas, rindo, ri], "rir de forma silenciosa").
+entrada(risonho, n, [risonhos], "aquele que ri").
+entrada(chucky, n, [chuckies], "um pintinho").
+entrada(chuddah, n, [chuddahs], "chuddar").
+entrada(chuddar, n, [chuddars], "um xale quadrado grande").
+entrada(chudder, n, [chudders], "chuddar").
+entry(chufa, n, [chufas], "uma junca europeia").
+entrada(chuff, adj, [], "CHUFFER CHUFFESTgruff").
+entrada(chuff, v, [chuffed,chuffing,chuffs], "bufar").
+entrada(chuffy, adj, [], "CHUFFIER CHUFFIESTrechonchudo").
+entrada(chug, v, [chugou,chugando,chuga], "mover-se com um som explosivo surdo").
+entrada(chugalug, v, [chugalugged,chugalugging,chugalugs], "beber sem parar").
+entrada(chugger, n, [chuggers], "um que chupa").
+entrada(chukar, n, [chukars], "uma ave de caça").
+entrada(chukka, n, [chukkas], "um tipo de bota").
+entrada(chukkar, n, [chukkars], "um chukker").
+entrada(chukker, n, [chukkers], "um período de jogo no polo").
+entrada(chum, v, [chummed,chumming,chums], "ser amigo íntimo de alguém").
+entry(chummy, adj, [], "CHUMMIER CHUMMIESTamigávelCHUMMILY adv").
+entrada(chump, v, [chumped, chumping, chumps], "mastigar").
+entrada(parceria, n, [parcerias], "amizade").
+entrada(chunder, v, [chundered,chundering,chunders], "vomitar").
+entrada(pedaço, v, [dividido,dividindo,pedaços], "fazer um som surdo e explosivo").
+entrada(chunky, adj, [], "CHUNKIER CHUNKIESTstockyCHUNKILY adv").
+entrada(chunnel, n, [túneis], "um túnel sob o Canal da Mancha").
+entrada(chunter, v, [chuntered, chuntering, chunters], "murmurar").
+entry(chuppa, n, [chuppas], "ou CHUPPOTchuppah").
+entrada(chuppah, n, [chuppahs], "ou CHUPPOTa dossel usado em um casamento judaico").
+entry(igreja, v, [igrejado,igrejar,igrejas], "levar à igreja um edifício para cultos cristãos").
+entrada(eclesiástico, adj, [], "MAIS ECLESIÁSTICO MAIS ECLESIÁSTICO DE TODOS relacionado a uma igreja").
+entrada(churchy, adj, [], "CHURCHIER CHURCHIESTchurchly").
+entrada(churinga, n, [churingas], "um objeto sagrado dos aborígenes australianos").
+entrada(grosseiro, n, [grosseiros], "uma pessoa rudeGROSSEIRO adj").
+entrada(churn, v, [churned,churning,churns], "agitar vigorosamente para fazer manteiga").
+entrada(churner, n, [churners], "aquele que agita").
+entrada(batendo, n, [batidas], "a manteiga batida de uma vez").
+entrada(churr, v, [churrou,churrando,churra], "fazer um som vibrante").
+entrada(churro, n, [churros], "um doce espanhol e mexicano").
+entrada(chuse, v, [chused,chusing,chuses], "escolher").
+entrada(calha, v, [calhou,calhando,calhas], "para transmitir por calha uma passagem vertical").
+entry(paraquedista, n, [paraquedistas], "um paraquedista").
+entrada(chutnee, n, [chutnees], "chutney").
+entrada(chutney, n, [chutneys], "um molho agridoce").
+entrada(chutzpa, n, [chutzpas], "chutzpah").
+entrada(chutzpah, n, [chutzpahs], "suprema autoconfiança").
+entrada(quilo, n, [quilos], "um fluido digestivoQUILOSO adj").
+entrada(quimo, n, [quimos], "alimento parcialmente digerido").
+entrada(química, n, [químicas], "química").
+entrada(quimico, n, [quimicos], "químico").
+entry(quimosina, n, [quimosinas], "coalho").
+entrada(quimoso, adj, [], "relativo ao quimo").
+entrada(quitrídio, n, [quitrídios], "um fungo aquático ou do solo").
+entrada(ciabatta, n, [ciabattas], "um tipo de pão italiano").
+entry(ciao, interj, [], "usado como uma expressão de saudação e despedida").
+entrada(cibol, n, [cibols], "uma variedade de cebola").
+entrada(cibório, n, [cibórios], "um recipiente para guardar pão sagrado").
+entry(ciboule, n, [ciboules], "cebolinho").
+entrada(cigarra, n, [cigarras], "ou CICADAE um inseto alado").
+entrada(cicala, n, [cicalas], "ou CICALEcigarra").
+entrada(cicatriz, n, [cicatrizes], "ou CICATRIZEStecido cicatricial").
+entrada(cicely, n, [cicelies], "uma erva perfumada").
+entrada(cicero, n, [ciceros], "uma unidade de medida na impressão").
+entrada(cicerone, n, [cicerones], "ou CICERONIUm guia turístico").
+entrada(ciclídeo, n, [ciclídeos], "ou CICHLIDAE, um peixe tropical").
+entrada(cicisbeo, n, [cicisbeos], "ou CICISBEIum amante de uma mulher casada").
+entrada(cicoree, n, [cicorees], "uma erva perene").
+entrada(cidra, n, [cidras], "o suco prensado de maçãs").
+entrada(cig, n, [cigs], "um cigarro").
+entrada(cigarro, n, [cigarros], "um rolo de folha de tabaco para fumar").
+entrada(cigarro, n, [cigarros], "um cigarro").
+entrada(ciggie, n, [ciggies], "um cigarro").
+entrada(ciggy, n, [ciggies], "ciggie").
+entry(coentro, n, [coentros], "uma erva usada na culinária").
+entrada(cilia, pl, [], "de cílio").
+entry(ciliar, adj, [], "relativo a cílios").
+entrada(ciliado, n, [ciliados], "um de uma classe de protozoários ciliados").
+entry(ciliated, adj, [], "com cílios").
+entrada(cilício, n, [cilícios], "um tecido áspero").
+entrada(cílio, n, [cílios], "uma projeção curta semelhante a um cabelo").
+entrada(cimbalom, n, [cimbaloms], "um dulcimer húngaro").
+entrada(cimex, n, [cimices], "um percevejo").
+entrada(cinch, v, [acinchado, acinchando, acincha], "cingir").
+entrada(quina, n, [quinas], "uma árvore peruana").
+entrada(cinturão, v, [cinturado, cinturando, cintura], "cercar ou circundar").
+entry(cinder, v, [cindered,cindering,cinders], "reduzir a cinzas").
+entrada(cindery, adj, [], "contendo cinzas").
+entrada(cine, n, [cines], "um filme").
+entrada(cineasta, n, [cineastas], "um devoto de filmes").
+entrada(cineasta, n, [cineastas], "cineasta").
+entrada(cinema, n, [cinemas], "um cinema").
+entry(cineol, n, [cineóis], "um líquido usado como antisséptico").
+entry(cineole, n, [cineoles], "cineol").
+entrada(cinerário, adj, [], "usado para cinzas cremadas").
+entrada(cinerina, n, [cinerinas], "um composto usado em inseticidas").
+entrada(cingulum, n, [cingula], "uma faixa ou cinto anatômicoADJ CINGULAR").
+entrada(cinnabar, n, [cinnabar], "o principal minério de mercúrio").
+entrada(canela, n, [canelas], "uma especiaria obtida da casca da árvoreCINAMICO adj").
+entrada(cinamilo, n, [cinamilos], "um produto químico usado para fazer sabão").
+entry(cinq, n, [cinqs], "cinco").
+entry(cinco, n, [cinquains], "uma estrofe de cinco linhas").
+entrada(cinque, n, [cinques], "o número cinco").
+entrada(cion, n, [cions], "uma estaca de uma planta ou árvore").
+entrada(cioppino, n, [cioppinos], "um ensopado de peixe picante").
+entrada(cipaille, n, [cipailles], "uma torta com camadas de carne e massa").
+entrada(cifra, v, [cifrado,cifrando,cifras], "resolver problemas em aritmética").
+entrada(cipherer, n, [cifradores], "aquele que cifra").
+entry(cifonia, n, [cifonias], "a codificação eletrônica de transmissões de voz").
+entrada(cipolin, n, [cipolins], "um tipo de mármore").
+entrada(circa, prep, [], "sobre em torno de").
+entrada(círculo, v, [cercado, circulando, círculos], "mover-se ou girar em torno").
+entrada(circler, n, [circlers], "aquele que circula").
+entrada(circlet, n, [circlets], "um pequeno objeto em forma de anel ou anéis").
+entrada(circs, npl, [], "circunstâncias").
+entrada(circuito, v, [circuitado, circuitando, circuitos], "mover-se ao redor").
+entrada(circuitidade, n, [circuitidades], "falta de clareza").
+entrada(circular, n, [circulares], "um panfleto destinado à ampla distribuição").
+entrada(circo, n, [circenses], "um entretenimento públicoCIRCENSE ad").
+entrada(cire, n, [cires], "um acabamento altamente lustroso para tecidos").
+entrada(cirque, n, [cirques], "uma bacia profunda e íngreme em uma montanha").
+entrada(cirrato, adj, [], "possuindo cirros").
+entrada(cirri, pl, [], "de cirrus").
+entrada(cirripedia, n, [cirripédios], "um tipo de crustáceo").
+entrada(cirrose, adj, [], "cirroso").
+entrada(cirrous, adj, [], "having cirri").
+entrada(cirrus, n, [cirri], "um filamento ou parte semelhante").
+entrada(cirsoide, adj, [], "varicosa").
+entrada(cis, adj, [], "tendo certos átomos no mesmo lado da molécula").
+entrada(cisco, n, [ciscos], "ou CISCOES um peixe de água doce").
+entrada(cislunar, adj, [], "situado entre a terra e a lua").
+entrada(cissoide, n, [cissoides], "um tipo de curva geométrica").
+entrada(cissy, n, [cissies], "sissy").
+entrada(cist, n, [cistas], "um caixão de pedra pré-históricoCISTED adj").
+entrada(cisterna, n, [cisternas], "um tanque de água").
+entrada(cisterna, n, [cisternae], "um saco contendo fluido").
+entrada(cistron, n, [cistrons], "um segmento de DNA").
+entrada(cistus, n, [cistuses], "um arbusto florido").
+entry(citável, adj, [], "citeable").
+entrada(fortaleza, n, [fortalezas], "uma fortificação ou reduto").
+entrada(citacao, n, [citacoes], "o ato de citarCITATORIO adj").
+entrada(citator, n, [citadores], "aquele que cita").
+entrada(citar, v, [citado,citando,cita], "citar como autoridade ou exemplo").
+entrada(citável, adj, [], "adequado para citação").
+entry(citer, n, [citers], "aquele que cita").
+entrada(cithara, n, [citharas], "um antigo instrumento de cordas").
+entrada(cither, n, [cithers], "cittern").
+entrada(citara, n, [citaras], "cittern").
+entrada(cithren, n, [cithrens], "cittern").
+entrada(citied, adj, [], "tendo cidades").
+entry(cities, pl, [], "de cidade").
+entrada(citify, v, [citified,citifying,citifies], "urbanizar").
+entrada(citando, presente, [], "particípio de citar").
+entrada(cidadão, n, [cidadãos], "um residente de uma cidade ou vila").
+entrada(citola, n, [citolas], "uma cítara").
+entrada(citole, n, [citoles], "citola").
+entrada(citral, n, [citrais], "um aromatizante de limão").
+entry(citrato, n, [citratos], "um sal de ácido cítricoCITRATADO adj").
+entrada(cítrino, adj, [], "cor de limão").
+entry(cítrico, adj, [], "derivado de frutas cítricas").
+entrada(citrin, n, [citrinas], "uma vitamina cítrica").
+entrada(citrina, n, [citrinas], "uma variedade de quartzo").
+entrada(citrinin, n, [citrininas], "um antibiótico").
+entrada(citron, n, [citrons], "um fruto parecido com o limão").
+entrada(citrous, adj, [], "relativo a uma árvore cítrica").
+entrada(citrico, n, [citrinos], "qualquer árvore frutífera tropical do gênero CITRUSY adj.").
+entrada(cittern, n, [citterns], "um violão em forma de pêra").
+entrada(cidade, n, [cidades], "uma grande cidade").
+entry(cityfied, adj, [], "ter os costumes e as maneiras das pessoas da cidade").
+entrada(cityward, adv, [], "em direção à cidade").
+entrada(citywide, adj, [], "incluindo todas as partes de uma cidade").
+entry(civet, n, [civets], "um mamífero semelhante a um gato").
+entry(civic, adj, [], "relativo a uma cidade").
+entrada(civismo, n, [civismos], "um sistema de governo baseado em direitos individuais").
+entry(civics, npl, [], "a ciência dos assuntos cívicos").
+entrada(civie, n, [civies], "civil").
+entry(civil, adj, [], "relativo a cidadãos").
+entrada(civil, n, [civis], "uma pessoa não militar").
+entrada(civilizar, v, [civilizou,civilizando,civiliza], "civilizar").
+entrada(civilidade, n, [civilidades], "cortesia polidez").
+entry(civilize, v, [civilizou,civilizando,civiliza], "trazer da selvageria").
+entrada(civilmente, adv, [], "educadamente").
+entrada(civismo, n, [civismos], "boa cidadania").
+entrada(civil, n, [civis], "um civil").
+entrada(clabber, v, [clabbered,clabbering,clabbers], "coalhar").
+entrada(clach, n, [clachs], "clachan").
+entrada(clachan, n, [clachans], "uma aldeia").
+entry(clack, v, [clacked,clacking,clacks], "fazer um som seco e abrupto").
+entrada(clacker, n, [clackers], "aquele que estala").
+entry(clad, v, [cladded,cladding,clads], "revestir um metal sobre outro").
+entrada(claddagh, n, [claddaghs], "um anel projetado com duas mãos entrelaçadas").
+entrada(revestimento, n, [revestimentos], "algo que cobre").
+entrada(clado, n, [clados], "um grupo de táxons biológicos").
+entry(cladismo, n, [cladismos], "o método de um cladista").
+entrada(cladist, n, [cladistas], "um taxonomista que usa clados na classificação de formas de vida").
+entrada(cladodio, n, [cladodios], "uma parte do caule semelhante a uma folha").
+entrada(clafouti, n, [clafoutis], "uma sobremesa composta por uma camada de frutas coberta com massa e assada").
+entrada(clag, v, [clagged, clagging, clags], "obstruir").
+entrada(reivindicar, v, [reivindicado,reivindicando,reivindica], "exigir como direito").
+entrada(reclamante, n, [reclamantes], "aquele que afirma um direito ou título").
+entrada(reivindicador, n, [reivindicadores], "aquele que reivindica").
+entrada(amêijoa, v, [apanhou_amêijoas,apanhar_amêijoas,apanha_amêijoas], "apanhar amêijoas, moluscos bivalves").
+entrada(proclamante, adj, [], "barulhento").
+entrada(clambake, n, [clambakes], "um piquenique na praia").
+entry(escalar_desajeitadamente, v, [escalou_desajeitadamente, escalando_desajeitadamente, escala_desajeitadamente], "subir de maneira desajeitada").
+entrada(clamlike, adj, [], "semelhante a uma amêijoa").
+entrada(clammed, passado, [], "tempo de clam").
+entrada(clammer, n, [clammers], "aquele que coleta mariscos").
+entrada(amêijoas, presente, [], "particípio de amêijoa").
+entrada(clammy, adj, [], "CLAMMIER CLAMMIESTfrio e úmidoCLAMMILY adv").
+entrada(clamor, v, [clamored, clamoring, clamors], "fazer gritos altos").
+entrada(clamorer, n, [clamorers], "um que clama").
+entrada(clamour, v, [clamoured, clamouring, clamours], "clamar").
+entrada(clamp, v, [clamped, clamping, clamps], "para prender com um grampo um dispositivo de fixação").
+entrada(clamper, n, [clamperes], "um dispositivo usado em sapatos para evitar escorregar no gelo").
+entrada(minhoca_do_mar, n, [minhocas_do_mar], "um verme marinho").
+entrada(clã, n, [clãs], "um grupo unido de famílias").
+entrada(clang, v, [clanged,clanging,clangs], "soar alto").
+entry(clanger, n, [clangers], "uma gafe").
+entrada(estrondo, v, [estrondou,estrondando,estrondos], "estrondar repetidamente").
+entrada(estridência, v, [estridenciou, estridenciando, estridências], "ressoar").
+entrada(clank, v, [clanked, clanking, clanks], "fazer um som metálico agudo").
+entrada(clanky, adj, [], "CLANKIER CLANKIEST fazendo um som metálico agudo").
+entrada(clannish, adj, [], "característico de um clã").
+entrada(clansman, n, [clansmen], "um membro de um clã").
+entrada(aplaudir, v, [aplaudiu,aplaudindo,aplaude], "bater uma palma contra a outra").
+```prolog
+entry(batilho, n, [batilhos], "aquele que bate").
+```
+entrada(claptrap, n, [claptraps], "linguagem pretensiosa").
+entrada(claque, n, [claques], "um grupo de aplaudidores contratados").
+entry(claquer, n, [claquers], "claqueador").
+entrada(claqueur, n, [claqueurs], "um membro de uma claque").
+entrada(clarence, n, [clarences], "uma carruagem fechada").
+entrada(claret, n, [clarets], "um vinho tinto seco").
+entrada(claries, pl, [], "de clary").
+entry(clarificar, v, [clarificou,clarificando,clarifica], "tornar claro").
+entrada(clarinete, n, [clarinetes], "um instrumento de sopro de madeira").
+entrada(clarion, v, [clarioned,clarioning,clarions], "proclamar soprando uma trombeta medieval").
+entry(claridade, n, [claridades], "o estado de estar claro").
+entrada(clarkia, n, [clarkias], "uma erva anual").
+entrada(claro, n, [claros], "ou CLAROES um charuto suave").
+entrada(clary, n, [claries], "uma erva aromática").
+entrada(clash, v, [clashed,clashing,clashes], "entrar em conflito ou discordar").
+entrada(clasher, n, [clashers], "aquele que colide").
+entrada(clasp, v, [claspt,clasping,clasps], "abraçar firmemente").
+entrada(clasper, n, [claspers], "aquele que aperta").
+entrada(classe, v, [classificado,classificando,classes], "classificar").
+entrada(classer, n, [classers], "um que classifica").
+entry(classes, pl, [], "de classes").
+entrada(clássico, n, [clássicos], "uma obra de excelência duradoura").
+entrada(classico, adj, [], "feito de uvas cultivadas em uma determinada parte da Itália").
+entrada(mais_classe, comparativo, [], "de classe").
+entrada(mais_elegante, superlativo, [], "de elegante").
+entrada(classificar, v, [classificado,classificando,classifica], "arranjar de acordo com características").
+entrada(classily, adv, [], "de maneira elegante").
+entrada(classe, n, [classes], "um corpo dirigente em certas igrejas").
+entrada(classismo, n, [classismos], "discriminação baseada na classe social").
+entrada(classista, n, [classistas], "um defensor do classismo").
+entrada(classon, n, [classons], "uma partícula subatômica").
+entrada(classy, adj, [], "CLASSIER CLASSIESTelegante sofisticado").
+entrada(clast, n, [clasts], "um fragmento de rocha").
+entry(clastic, n, [clastics], "uma rocha composta por outras rochas").
+entrada(clatter, v, [clattered, clattering, clatters], "mover com um ruído de chocalho").
+entry(clattery, adj, [], "tendo um som de chocalho").
+entrada(claucht, a, [], "pretérito de cleek").
+entrada(claught, v, [claughted, claughting, claughts], "agarrar").
+entrada(cláusula, n, [cláusulas], "uma parte distinta de uma composiçãoCLAUSAL adj").
+entrada(claustra, npl, [], "gânglios basais no cérebro").
+entry(clavate, adj, [], "em forma de clava").
+entrada(clave, n, [claves], "um de um par de bastões de percussão").
+entrada(claver, v, [clavered,clavering,clavers], "fofocar").
+entrada(clavi, pl, [], "de clavus").
+entrada(clavícula, n, [clavículas], "osso do ombro").
+entrada(clavier, n, [claviers], "um instrumento de teclado").
+entrada(clavus, n, [clavi], "um espessamento córneo da pele").
+entrada(garra, v, [garrou, garrando, garras], "arranhar com garras afiadas e curvas").
+entrada(reembolso, n, [reembolsos], "dinheiro recuperado por tributação").
+entrada(clawer, n, [clawers], "aquele que arranha").
+entrada(sem_garras, adj, [], "sem garras").
+entrada(clawlike, adj, [], "semelhante a uma garra").
+entrada(claxon, n, [claxons], "klaxon").
+entrada(argila, v, [argilou,argilando,argilas], "tratar com argila um material terroso de granulação fina").
+entrada(claybank, n, [claybanks], "uma cor amarelada").
+entry(argiloso, adj, [], "MAIS ARGILOSO MAIS ARGILOSO, assemelhando-se a argila").
+entry(argiloso, adj, [], "semelhante a ou contendo argila").
+entrada(argiloso, adj, [], "semelhante a argila").
+entrada(claymore, n, [espadas_claymore], "um tipo de espada").
+entrada(claypan, n, [claypans], "uma depressão natural rasa").
+entrada(cerâmica, n, [cerâmicas], "cerâmica").
+entrada(limpo, adj, [], "MAIS LIMPO MAIS LIMPOlivre de sujeira ou manchaLIMPINHO adj").
+entrada(limpar, v, [limpou, limpando, limpa], "livrar de sujeira ou mancha").
+entrada(limpeza, n, [limpezas], "aquele que limpa").
+entrada(limpeza, n, [limpezas], "o ato de remover sujeira ou mancha").
+entry(limpo, adj, [], "LIMPO LIMPÍSSIMOhabitualmente limpo").
+entrada(limpeza, n, [limpezas], "o ato de limpar algo").
+entrada(limpar, v, [limpo, limpando, limpa], "limpar").
+entry(limpador, n, [limpadores], "aquele que limpa").
+entry(limpeza, n, [limpezas], "um ato de limpar").
+entry(clear, adj, [], "MAIS CLARO O MAIS CLAROlimpo e puro").
+entrada(clear, v, [limpo, limpezado, limpa], "remoção de obstruções").
+entrada(clearcut, v, [clearcut,clearcutting,clearcuts], "cortar uma floresta completamente").
+entrada(clearer, n, [clearers], "quem limpa").
+entrada(campoaberto, n, [camposabertos], "um espaço aberto").
+entrada(claramente, adv, [], "de forma clara").
+entrada(clearout, n, [clearouts], "a ação de remover materiais indesejados de um local").
+entrada(clearway, n, [vias_rápidas], "uma estrada em que não é permitido parar").
+entrada(taco, v, [calçou, calçando, calços], "fortalecer com uma tira de madeira ou ferro").
+entrada(cisalhamento, n, [cisalhamentos], "o ato de cisalhar").
+entrada(cleave, v, [clave,cloven,cleaving], "CLEAVEpara dividir ou separar").
+entrada(cutelo, n, [cutelos], "uma faca pesada").
+entrada(cleek, v, [cleeked, cleeking, cleeks], "agarrar").
+entrada(clef, n, [clefs], "um símbolo musical").
+entrada(cleft, v, [clefted, clefting, clefts], "inserir um enxerto no tronco de uma planta").
+entrada(cleg, n, [clegs], "um moscardo").
+entrada(cleidoic, adj, [], "encerrado em uma casca").
+entry(clematis, n, [clematites], "uma videira florida").
+entrada(clemencia, n, [clemencias], "misericórdia").
+entrada(clemente, adj, [], "misericordioso").
+entrada(fechar, v, [fechou, fechando, fecha], "segurar firmemente").
+entry(clencher, n, [clenchers], "aquele que aperta").
+entrada(cleome, n, [cleomes], "uma planta tropical").
+entrada(clepe, v, [clept,cleping,clepes], "chamar pelo nome").
+entrada(clero, n, [clérigos], "o conjunto de pessoas ordenadas para o serviço religioso").
+entrada(cleric, n, [clerigos], "um membro do clero").
+entrada(clerical, n, [clericais], "um clérigo").
+entrada(clerid, n, [clerids], "um besouro predador").
+entrada(clerihew, n, [clerihews], "um poema humorístico").
+entrada(clerisy, n, [clerisies], "a classe bem-educada").
+entrada(empregado, v, [empregou,empregando,emprega], "trabalhar como um empregado de escritório").
+entrada(clerkdom, n, [clerkdoms], "o status ou função de um escriturário").
+entrada(clerkish, adj, [], "semelhante ou adequado a um escrivão").
+entrada(clerkly, adj, [], "CLERKLIER CLERKLIESTrelativo a um escrivão").
+entry(cleveite, n, [cleveites], "um mineral radioativo").
+entrada(inteligente, adj, [], "MAIS INTELIGENTE MAIS INTELIGENTE(abs abstrato)habilmente adv").
+entry(clevis, n, [cavilhas], "um dispositivo de fixação de metal").
+entrada(cleo, v, [cleou,cleando,clea], "enrolar em uma bola").
+entrada(cliche, n, [cliches], "uma expressão batidaCLICHÊ adj").
+entrada(clique, v, [clicou,clicando,clica], "fazer um som breve e agudo").
+entrada(clicker, n, [clickers], "um que clica").
+entrada(cliente, n, [clientes], "um clienteCLIENTAL adj").
+entrada(precipício, n, [precipícios], "uma face alta e íngreme de rocha").
+entrada(penhasco, n, [penhascos], "o topo de um penhasco").
+entrada(cliffy, adj, [], "CLIFFIER CLIFFIESTabounding in cliffs").
+entrada(clift, n, [clifts], "penhasco").
+entrada(clima, n, [climas], "as condições meteorológicas características de uma áreaCLIMATAL CLIMÁTICO adj").
+entrada(clímax, v, [clímaxou, clímaxando, clímaxes], "atingir um ponto alto ou dramático").
+entrada(escalar, v, [eskalou, escalando, eskala], "ascender").
+entrada(escalador, n, [escaladores], "aquele que escala").
+entry(escalada, n, [escaladas], "o esporte ou atividade de subir montanhas").
+entrada(clima, n, [climas], "clima").
+entrada(clinal, adj, [], "relativo a um cline").
+entry(clinalmente, adv, [], "de maneira clinal").
+entrada(clinch, v, [definiu,definindo,define], "resolver uma questão de forma decisiva").
+entry(clincher, n, [clinchers], "um fato ou comentário decisivo").
+entry(cline, n, [clines], "uma série de mudanças dentro de uma espécie").
+entrada(aderir, v, [aderiu, aderindo, adere], "fazer um som agudo e retinente").
+entrada(aderir, v, [aderiu,aderindo,aderes], "aderir intimamente").
+entry(clinger, n, [clingers], "aquele que se apega").
+entrada(pegajoso, adj, [], "MAIS_PEGAJOSO MAIS_PEGAJOSÍSSIMO adesivo").
+entrada(clínica, n, [clínicas], "uma instalação médicaCLÍNICO adj").
+entrada(clink, v, [clinked, clinking, clinks], "fazer um som suave e agudo de campainha").
+entrada(clinker, v, [clinkered, clinkering, clinkers], "formar resíduo fundido na queima").
+entrada(clip, v, [clipt, clipe, clips], "cortar para aparar").
+entrada(aparador, n, [aparadores], "aquele que apara").
+entrada(recorte, n, [recortes], "algo que é cortado ou retirado").
+entrada(clipt, a, [], "particípio passado de clip").
+entrada(clique, v, [cliqued, cliquing, cliques], "formar um clã ou um grupo exclusivo de pessoas").
+entrada(cliquey, adj, [], "CLIQUIER CLIQUIESTinclinado a formar panelinhas").
+entrada(cliquish, adj, [], "cliquey").
+entrada(cliquy, adj, [], "CLIQUIER CLIQUIESTcliquey").
+entry(clitella, npl, [], "regiões nas paredes corporais de certos anelídeos").
+entrada(clitico, n, [cliticos], "uma palavra pronunciada como parte de uma palavra vizinha").
+entrada(clitóris, n, [clitóris], "ou CLITÓRIDES um órgão sexual CLITORAL CLITÓRICO adj").
+entrada(clitter, v, [clittered, clittering, clitters], "fazer um som fino de chocalho").
+entrada(clivers, n, [clivers], "uma erva anual").
+entrada(clivia, n, [clivias], "uma planta florida").
+entrada(cloaca, n, [cloacas], "ou CLOACAEA esgotoCLOACAL adj").
+entrada(cloak, v, [cloaked, cloaking, cloaks], "ocultar").
+entrada(clobber, v, [clobbered,clobbering,clobbers], "esmagar").
+entrada(clochard, n, [clochards], "um vagabundo").
+entry(cloche, n, [cloches], "um chapéu em forma de sino").
+entrada(clock, v, [clocked,clocking,clocks], "cronometra com um cronômetro").
+entry(clocker, n, [clockers], "aquele que cronometra").
+entry(clod, n, [clods], "um patetaCLODDISH adj").
+entrada(cloddy, adj, [], "CLODDIER CLODDIESTlumpy").
+entrada(tontito, n, [tontitos], "uma pessoa estúpida").
+entrada(tolo, n, [tolos], "cabeça-dura").
+entrada(clodpoll, n, [clodpolls], "clodpate").
+entrada(entupir, v, [entupido,entupindo,entupimentos], "bloquear ou obstruir").
+entrada(entupidor, n, [entupidores], "aquele que entope").
+entrada(entupimento, n, [entupimentos], "o ato de dançar usando sapatos com grossas solas de madeira").
+entrada(cloggy, adj, [], "MAIS CLOGGY MAIS CLOGGYclogging ou capaz de clogCLOGGILY adv").
+entrada(cloister, v, [cloistered,cloistering,cloisters], "isolar-se").
+entrada(clomb, a, [], "passado de escalar").
+entrada(clomp, v, [clomped,clomping,clomps], "andar de forma pesada e desajeitada").
+entrada(clon, n, [clons], "um grupo de organismos derivado assexuadamenteCLONAL adjCLONALMENTE adv").
+entrada(clonar, v, [clonado, clonando, clones], "reproduzir por meios assexuais").
+entrada(cloner, n, [cloners], "um que clona").
+entry(clonic, adj, [], "relativo a clonus").
+entry(clonagem, n, [clonagens], "uma técnica de reprodução por meios assexuados").
+entrada(clonismo, n, [clonismos], "a condição de ter clono").
+entrada(clonk, v, [clonked, clonking, clonks], "fazer um som surdo e abafado").
+entrada(clonky, adj, [], "CLONKIER CLONKIESTfazendo um som surdo e baque").
+entrada(clonus, n, [clonuses], "uma forma de espasmo muscular").
+entry(cloot, n, [cloots], "um casco fendido").
+entry(clop, v, [clopped,clopping,clops], "fazer o som de um casco batendo no pavimento").
+entry(cloque, n, [cloques], "um tecido com um design em relevo").
+entrada(fechar, adj, [], "MAIS FECHADO MAIS PRÓXIMOpertoCLOSELY adv").
+entrada(fechar, v, [fechado,fechando,fecha], "bloquear a entrada ou passagemFECHÁVEL adj").
+entrada(liquidacao, n, [liquidacoes], "uma venda de liquidacao").
+entrada(mais_proximo, n, [mais_proximos], "um que fecha").
+entrada(mais_proximo, superlativo, [], "de perto").
+entry(closet, v, [closeted,closeting,closets], "confinar em um quarto privado").
+entrada(closeup, n, [closeups], "uma fotografia tirada de perto").
+entrada(encerramento, n, [encerramentos], "uma parte conclusiva").
+entrada(fechamento, v, [fechadod,fechando,fechamentos], "para finalizar").
+entrada(coágulo, v, [coagulado,coagulando,coágulos], "formar um coágulo ou massa espessa").
+entrada(clotbur, n, [clotburs], "um tipo de planta com sementes espinhosas").
+entrada(pano, n, [panos], "tecido").
+entrada(vestir, v, [vestiu,roupa,vestes], "fornecer vestuário").
+entry(costeiro, n, [costureiros], "alguém que faz ou vende roupas").
+entrada(roupa, n, [roupas], "vestuário").
+entrada(coagulado, passado, [], "tempo de coagular").
+entrada(coagulação, presente, [], "particípio de coagular").
+entrada(clotty, adj, [], "tendendo a coagular").
+entrada(encerramento, v, [encerrado, encerrando, encerramentos], "encerrar um debate solicitando uma votação").
+entrada(cloud, v, [clouded,clouding,clouds], "cobrir com nuvens massas de vapor visível").
+entrada(nuvemzinha, n, [nuvemzinhas], "uma pequena nuvem").
+entrada(nublado, adj, [], "MAIS NUBLADO MAIS NUBLADOencoberto com nuvensNUBLADAMENTE adv").
+entrada(clough, n, [cloughs], "um desfiladeiro").
+entry(clour, v, [cloured, clouring, clours], "bater ou esbarrar").
+entrada(influência, v, [influenciado,influenciando,influências], "bater com a mão").
+```prolog
+entrada(clouter, n, [clouters], "aquele que bate").
+```
+entrada(cravo, n, [cravos], "uma especiaria").
+entrada(cloven, a, [], "particípio passado de dividir").
+entrada(trevo, n, [trevos], "uma plantaTREVADO TREVOSO adj").
+entrada(clowder, n, [clowders], "um grupo de gatos").
+entrada(palhaço, v, [palhaçou, palhaçando, palhaços], "atuar como um palhaço, um artista humorístico").
+entrada(palhaçada, n, [palhaçadas], "comportamento de palhaço").
+entrada(palhaço, adj, [], "semelhante ou apropriado a um palhaço").
+entrada(cloy, v, [enfastiou, enfastiando, enfasta], "gratificar além do desejo").
+entrada(cloze, n, [clozes], "um teste de compreensão de leitura").
+entrada(clube, v, [clubei, clubeando, clubes], "formar um clube, um grupo organizado de pessoas").
+entrada(clubable, adj, [], "sociável").
+entrada(clubber, n, [clubbers], "um membro de um clube").
+entrada(clubbing, n, [clubbings], "a prática de frequentar discotecas").
+entry(clubbish, adj, [], "clubby").
+entrada(clubby, adj, [], "CLUBBIER CLUBBIESTcaracterístico de um clube").
+entrada(clubface, n, [clubfaces], "a superfície de impacto da cabeça de um taco").
+entrada(pé torto, n, [pés tortos], "um pé deformado").
+entry(mao_de_clube, n, [maos_de_clube], "uma mão deformada").
+entrada(clubhaul, v, [clubhauled, clubhauling, clubhauls], "virar uma embarcação").
+entrada(cabeca_do_taco, n, [cabecas_do_taco], "a parte de um taco de golfe que atinge a bola").
+entrada(clubland, n, [clublands], "uma área com muitas discotecas").
+entrada(clubeiro, n, [clubeiros], "um membro masculino de um clube").
+entrada(clubmate, n, [companheiros_de_clube], "um colega membro de um clube").
+entrada(clubmoss, n, [clubmosses], "uma planta verde que se assemelha a um grande musgo").
+entrada(sala_do_clube, n, [salas_dos_clubes], "uma sala para reuniões de clubes").
+entrada(clubroot, n, [clubroots], "uma doença de planta").
+entrada(cluck, v, [clucked,clucking,clucks], "fazer o som de uma galinha").
+entrada(clucker, n, [cluckers], "uma galinha").
+entrada(pista, v, [], "PISTADO PISTAR ou PISTANDO PISTARpara dar informações orientadoras").
+entrada(clueless, adj, [], "irremediavelmente confuso ou ignorante").
+entrada(clumber, n, [clumbers], "um spaniel robusto").
+entrada(grupo, v, [agrupado, agrupando, grupos], "formar em uma massa densa").
+entrada(clumper, n, [clumpers], "um grande pedaço de gelo flutuante").
+entrada(clumpet, n, [clumpets], "um clumper").
+entrada(clumpish, adj, [], "semelhante a um aglomerado uma massa espessa").
+entrada(clumpy, adj, [], "CLUMPIER CLUMPIESTlumpy").
+entrada(desajeitado, adj, [], "MAIS DESAJEITADO MAIS DESAJEITADOawkwardDESAJEITADAMENTE adv").
+entrada(clung, passado, [], "tempo de cling").
+entrada(clunk, v, [clunked, clunking, clunks], "bater").
+entrada(sucata, n, [sucatas], "um carro velho").
+entrada(clunky, adj, [], "CLUNKIER CLUNKIESTdesajeitado em estilo").
+entrada(clupeid, n, [clupeids], "um peixe da família dos arenques").
+entrada(clupeoid, n, [clupeoids], "um clupeoide").
+entrada(cluster, v, [aglomeração,agrupamento,aglomerados], "formar em um aglomerado um grupo de objetos similares").
+entrada(clustery, adj, [], "relativo a um cluster").
+entrada(embraiagem, v, [embraiou, embraiando, embraiagens], "agarrar e segurar firmemente").
+entrada(clutchy, adj, [], "tendendo a agarrar").
+entrada(desordem, v, [desordenado, desordenando, desordena], "amontoar de forma desordenada").
+entry(cluttery, adj, [], "caracterizado por desordem").
+entrada(clypeus, n, [clypei], "uma estrutura semelhante a um escudoCLIPEAL CLIPEADO adj").
+entrada(clister, n, [clisters], "um enema").
+entrada(cnida, n, [cnidae], "um órgão urticante em uma água-viva").
+entrada(coach, v, [coached,coaching,coaches], "ensinar ou treinar").
+entrada(coacher, n, [coachers], "aquele que treina").
+entrada(coaching, n, [coachings], "o trabalho de quem treina").
+entrada(cochero, n, [cocheros], "aquele que dirige uma carruagem ou charrete").
+entrada(coact, v, [coacted, coacting, coacts], "agir em conjunto").
+entrada(coadmitir, v, [coadmitido, coadmitindo, coadmite], "admitir várias coisas igualmente").
+entrada(coady, n, [coadies], "um molho feito de melaço").
+entrada(coaeval, n, [coaevals], "coetâneo").
+entrada(coagência, n, [coagências], "uma agência conjunta").
+entrada(coagente, n, [coagentes], "uma pessoa, força ou outro agente que trabalha junto com outro").
+entry(coagulum, n, [coagulums], "ou COAGULA um coágulo").
+entrada(carvão, v, [carvoado, carvoando, carvões], "suprir com carvão um combustível de carbono").
+entrada(coala, n, [coalas], "koala").
+entry(carvão, n, [carvões], "um recipiente para armazenar carvão").
+entrada(carvão, n, [caixas_de_carvão], "uma caixa para armazenar carvão").
+entry(carvoeiro, n, [carvoeiros], "aquele que fornece carvão").
+entry(coalesce, v, [coalesced,coalescing,coalesces], "misturar").
+entrada(frente_de_carvão, n, [frentes_de_carvão], "o local onde o carvão é extraído da rocha").
+entrada(peixe_carvão, n, [peixes_carvão], "um peixe enegrecido").
+entrada(carvoaria, n, [carvoarias], "um compartimento para armazenar carvão").
+entrada(coalier, comparativo, [], "de carvão").
+entrada(coaliest, superlativo, [], "de carvoento").
+entrada(carbonificar, v, [carbonificado, carbonificando, carbonifica], "converter em carvão").
+entry(sem_carvão, adj, [], "falta de carvão").
+entrada(carvoaria, n, [carvoarias], "um poço de onde se extrai o carvão").
+entry(saco_de_carvão, n, [sacos_de_carvão], "uma região escura da Via Láctea").
+entry(abegoaria, n, [abegoarias], "um abrigo para armazenar carvão").
+entrada(coaly, adj, [], "COALIER COALIESTcontendo carvão").
+entrada(pátio_do_carvão, n, [pátios_do_carvão], "um pátio para armazenar carvão").
+entrada(coaming, n, [coamings], "uma borda elevada").
+entrada(coapresentar, v, [coapresentou, coapresentando, coapresentam], "apresentar conjuntamente reportagens de notícias televisivas").
+entrada(coanexar, v, [coanexado, coanexando, coanexa], "anexar conjuntamente").
+entry(coappear, v, [coappeared,coappearing,coappears], "aparecer juntos ou ao mesmo tempo").
+entrada(coaptar, v, [coaptou, coaptando, coapta], "ajustar juntos e fixar").
+entrada(grande, adj, [], "GROSSIER GROSSESTroughGROSSLY advGROSSISH adj").
+entrada(entalhar, v, [entalhado, entalhando, entalha], "tornar áspero").
+entrada(coassistir, v, [coassistido,coassistindo,coassiste], "assistir em conjunto").
+entrada(coassumir, v, [coassumido, coassumindo, coassume], "assumir juntos").
+entrada(costeira, v, [costeou,costeando,costeia], "descer uma colina deslizando").
+entry(litoral, adj, [], "relativo a ou localizado perto de uma praia").
+entrada(montanha-russa, n, [montanhas-russas], "um trenó").
+entrada(cabotagem, n, [cabotagens], "comércio costeiro").
+entry(casaco, v, [casacos, casacando, casacou], "cobrir com um casaco uma peça de roupa externa").
+entry(casaco_pequeno, n, [casacos_pequenos], "um pequeno casaco").
+entrada(revestidor, n, [revestidores], "aquele que reveste").
+entrada(coati, n, [coatis], "um mamífero tropical").
+entrada(revestimento, n, [revestimentos], "uma camada de cobertura").
+entrada(casaco_lack, adj, [], "falta de casaco").
+entry(cabideiro, n, [cabideiros], "um suporte ou estante para casacos").
+entrada(guardaroupa, n, [guardaroupas], "um quarto para guardar casacos").
+entrada(cauda, n, [caudas], "a parte inferior traseira de um casaco").
+entrada(coassistir, v, [coassistiu, coassistindo, coassiste], "assistir junto").
+entrada(coattest, v, [coattested, coattesting, coattests], "atestar conjuntamente").
+entrada(coautor, v, [coautorado, coautoria, coautores], "escrever juntos").
+entrada(coax, v, [coaxed,coaxing,coaxes], "persuadir").
+entrada(coaxal, adj, [], "coaxial").
+entry(coaxer, n, [coaxers], "aquele que persuade").
+entrada(coaxial, adj, [], "tendo um eixo comum").
+entrada(coaxing, n, [coaxings], "um ato de persuadir").
+entrada(cob, n, [cobs], "uma espiga de milho").
+entrada(cobalto, n, [cobaltos], "um elemento metálicoCOBÁLTICO adj").
+entrada(cobb, n, [cobbs], "uma gaivota").
+entrada(cobber, n, [cobbers], "um camarada").
+entrada(cobbier, comparativo, [], "de cobby").
+entrada(cobbiest, superlativo, [], "de cobby").
+entrada(paralelepípedo, v, [recobriu, calcando, paralelepípedos], "remendar").
+entry(sapateiro, n, [sapateiros], "um consertador de sapatos").
+entrada(cobby, adj, [], "COBBIER COBBIESTstocky").
+entry(cobia, n, [cobias], "um grande peixe de jogo").
+entrada(coble, n, [cobles], "um pequeno barco de pesca").
+entrada(avelã, n, [avelãs], "uma noz comestível").
+entrada(cobra, n, [cobras], "uma cobra venenosa").
+entrada(teia, v, [enredado, enredando, teias], "cobrir com teias de aranha").
+entrada(teia_de_aranha, adj, [], "MAIS_TEIADO MAIS_TEIADÍSSIMO coberto com teias de aranha").
+entry(coca, n, [cocas], "um arbusto sul-americano").
+entry(cocaina, n, [cocainas], "cocaína").
+entrada(cocaina, n, [cocainas], "um alcaloide narcótico").
+entry(coccal, adj, [], "relativo a um coccus").
+entrada(cocci, pl, [], "de coccus").
+entrada(coccic, adj, [], "cóccico").
+entry(coccidio, n, [coccídios], "um inseto").
+entrada(coccidia, npl, [], "protozoários parasitas").
+entrada(cocoide, n, [cocoides], "uma célula ou corpo esférico").
+entrada(coccus, n, [cocci], "uma bactéria esféricaCOCÓIDE adj").
+entrada(cóccix, n, [cóccixes], "ou CÓCCIGES um osso da coluna").
+entrada(copresidir, v, [copresidiu, copresidindo, copreside], "servir conjuntamente como presidente de").
+entrada(cochin, n, [cochins], "uma galinha doméstica grande").
+entrada(cóclea, n, [cócleas], "ou CÓCLEASA parte do ouvidoCÓCLEAR adj").
+entrada(cozinheira, n, [cozinheiras], "uma cozinheira").
+entrada(galo, v, [galar,galando,galos], "inclinar para um lado").
+entry(cocarde, n, [cocardes], "um ornamento usado em um chapéuCOCARDEADO adj").
+entry(cockapoo, n, [cockapoos], "um híbrido entre um cocker spaniel e um poodle").
+entrada(cacatua, n, [cacatuas], "um papagaio").
+entrada(cockbill, v, [cockbilled, cockbilling, cockbills], "levantar o pau de bujarrona em um navio").
+entry(cockboat, n, [cockboats], "um pequeno barco").
+entrada(cantar_do_galo, n, [cantares_do_galo], "alvorada").
+entrada(cocker, v, [cockered,cockering,cockers], "mimar").
+entrada(galo, n, [galos], "um galo jovem").
+entrada(cockeye, n, [cockeyes], "um olho vesgoCOCKEYED adj").
+entry(cockier, comparativo, [], "de cocky").
+entrada(cockies, pl, [], "de atrevido").
+entry(cockiest, superlative, [], "de cocky").
+entrada(arrogantemente, adv, [], "de maneira arrogante").
+entrada(cockish, adj, [], "arrogante").
+entrada(cockle, v, [cockled,cockling,cockles], "franzir ou enrugar").
+entrada(galiforme, adj, [], "semelhante a um galo").
+entry(sotao, n, [sotãos], "um pequeno sótão").
+entry(cockney, n, [cockneys], "um residente do East End de Londres").
+entrada(cabine, n, [cabines], "um compartimento de pilotos em certos aviões").
+entrada(cockshut, n, [cockshuts], "o fim do dia").
+entrada(cockshy, n, [cockshies], "um alvo em uma competição de arremesso").
+entrada(cockspur, n, [cockspurs], "uma planta espinhosa").
+entry(convicto, adj, [], "certo").
+entrada(coquetel, v, [coquetelei, coquetelem, coqueteis], "beber bebidas alcoólicas").
+entrada(cockup, n, [cockups], "uma parte levantada de algo").
+entry(arrogante, adj, [], "ARROGANTEMENTE CONFIANTE").
+entrada(arrogante, n, [arrogantes], "um cacatua").
+entry(coco, n, [cocos], "uma alta palmeira").
+entrada(cacau, n, [cacaus], "chocolate").
+entrada(cocoanut, n, [cocoanuts], "coco").
+entrada(cocobola, n, [cocobolas], "cocobolo").
+entrada(cocobolo, n, [cocobolos], "uma árvore tropical").
+entrada(cocomat, n, [cocomats], "uma esteira feita de fibra de coco").
+entrada(coco, n, [cocos], "o fruto do coco").
+entrada(casulo, v, [envolvido,envolvendo,envelopa], "envolver ou embrulhar firmemente").
+entrada(cocooner, n, [cocooners], "aquele que se retira para o mundo privado da família").
+entrada(ameixa-da-praia, n, [ameixas-da-praia], "um arbusto perene").
+entrada(cocotte, n, [cocottes], "uma prostituta").
+entrada(cocoyam, n, [cocoyams], "uma planta tropical com rizomas comestíveis").
+entrada(cocreate, v, [cocreated,cocreating,cocreates], "criar em conjunto").
+entrada(cod, v, [codded,codding,cods], "enganar").
+entrada(coda, n, [codas], "uma passagem no final de uma composição musical").
+entrada(codificável, adj, [], "capaz de ser codificado").
+entrada(codder, n, [codders], "um pescador de bacalhau").
+entry(codding, presente, [], "particípio de cod").
+entrada(coddle, v, [coddled,coddling,coddles], "mimar").
+entrada(coddler, n, [coddlers], "aquele que mima").
+entry(code, v, [cifrado, cifragem, cifras], "converter em símbolos").
+entrada(catalogo, n, [catalogos], "um livro que lista palavras e seus equivalentes codificados").
+entrada(codevedor, n, [codevedores], "aquele que compartilha uma dívida").
+entrada(codec, n, [codecs], "um circuito integrado").
+entry(codificado, passado, [], "tempo de codificar").
+entry(codeia, n, [codeias], "codeína").
+entry(codein, n, [codeins], "codeína").
+entrada(codeina, n, [codeinas], "codeína").
+entrada(codeina, n, [codeinas], "um alcaloide narcótico").
+entry(sem_código, adj, [], "estar sem um conjunto de leis").
+entrada(coden, n, [codens], "uma classificação de codificação").
+entrada(coder, n, [coders], "aquele que codifica").
+entrada(coderive, v, [coderived, coderiving, coderives], "derivar conjuntamente").
+entrada(codesign, v, [codesigned,codesigning,codesigns], "conceber conjuntamente").
+entry(codex, n, [códices], "ou CÓDEXESum manuscrito antigo").
+entrada(bacalhau, n, [bacalhaus], "um peixe marinho alimentício").
+entrada(codger, n, [codgers], "um velho").
+entrada(codices, pl, [], "de códice").
+entrada(codicilo, n, [codicilos], "um suplemento a um testamento").
+entrada(codificador, n, [codificadores], "aquele que codifica").
+entrada(codificar, v, [codificado,codificando,codifica], "arranjar ou sistematizar").
+entrada(codificacao, n, [codificacoes], "o processo de converter em simbolos").
+entrada(codirecionar, v, [codirecionado, codirigindo, codirige], "dirigir conjuntamente").
+entry(codlin, n, [codlins], "codling").
+entrada(codling, n, [codlings], "uma maçã verde").
+entrada(codominio, n, [codominios], "um conjunto matemático").
+entrada(codon, n, [codons], "um triplete de nucleotídeos componentes básicos do DNA").
+entry(codpiece, n, [codpieces], "uma cobertura para a virilha em calções masculinos").
+entry(codrive, v, [codrove,codriven,codriving], "CODRIVEtrabalhar como copiloto").
+entrada(copiloto, n, [copilotos], "aquele que se revezam a conduzir um veículo").
+entrada(coed, n, [coeds], "uma estudante").
+entrada(coeditar, v, [coeditou, coeditando, coedita], "editar com outra pessoa").
+entrada(coeditor, n, [coeditores], "aquele que coedita").
+entrada(coefeito, n, [coefeitos], "um efeito acompanhante").
+entrada(celiaco, n, [celiacos], "celíaco").
+entrada(celoma, n, [celomas], "ou CELOMATA uma cavidade corporal em alguns animais CELÓMICO adj").
+entrada(coelome, n, [coelomes], "celoma").
+entrada(coembody, v, [coembodied, coembodying, coembodies], "encarnar conjuntamente").
+entrada(coemploy, v, [coemployed, coemploying, coemploys], "empregar juntos").
+entrada(coempt, v, [coempted, coempting, coempts], "comprar todo o estoque de um produto").
+entry(coenact, v, [coenacted,coenacting,coenacts], "promulgar em conjunto ou ao mesmo tempo").
+entrada(coenamor, v, [coenamored,coenamoring,coenamors], "inflamar com amor mútuo").
+entrada(coendure, v, [coendured, coenduring, coendures], "suportar juntos").
+entrada(coenure, n, [coenures], "coenurus").
+entrada(coenurus, n, [coenuri], "uma larva de tênia").
+entrada(coenzima, n, [coenzimas], "uma substância necessária para o funcionamento de certas enzimas").
+entrada(coigual, n, [coiguais], "aquele que é igual a outro").
+entry(coequate, v, [coequated,coequating,coequates], "equacionar com algo mais").
+entrada(coagir, v, [coagido, coagindo, coage], "compelir por força ou ameaça").
+entrada(coercer, n, [coercers], "aquele que coage").
+entrada(coercion, n, [coercions], "o ato de coagir").
+entrada(coercive, adj, [], "servir para coagir").
+entry(coerect, v, [coerected,coerecting,coerects], "erigir juntos").
+entry(coesite, n, [coisitas], "um tipo de sílica").
+entrada(coetâneo, n, [coetâneos], "um da mesma era ou período que outro").
+entrada(contemporalmente, adv, [], "contemporaneamente").
+entrada(coevolve, v, [coevolved,coevolving,coevolves], "evoluir juntos").
+entrada(coexert, v, [coexerted, coexerting, coexerts], "exercer conjuntamente").
+entrada(coexistir, v, [coexistiu,coexistindo,coexiste], "existir juntos").
+entrada(coextend, v, [coextended,coextending,coextends], "estender através do mesmo espaço ou tempo que outro").
+entrada(cofator, n, [cofatores], "uma coenzima").
+entrada(caf, v, [cafando,cafando,cafs], "comprar").
+entrada(cafe, n, [cafes], "uma bebida aromática e ligeiramente estimulante").
+entrada(cofre, v, [cofrado,cofragem,cofres], "colocar em um cofre").
+entrada(caixão, v, [caixões, colocando_em_caixão, coloca_em_caixão], "colocar em um caixão um caso de sepultamento").
+entry(coffing, presente, [], "particípio de coff").
+entry(coffle, v, [coffled, coffling, coffles], "acorrentar escravos juntos").
+entrada(coffret, n, [coffrets], "uma pequena caixa forte").
+entrada(cofound, v, [cofounded, cofounding, cofounds], "fundar conjuntamente").
+entrada(coft, passado, [], "tempo de coff").
+entrada(cog, v, [cogged, cogging, cogs], "enganar no dado").
+entrada(coerência, n, [coerências], "o estado de ser coerente").
+entry(cogente, adj, [], "convincenteCOGENTEMENTE adv").
+entry(cogitar, v, [cogitou,cogitando,cogita], "ponderar").
+entrada(cogito, n, [cogitos], "um princípio filosófico").
+entrada(cognac, n, [cognacs], "um conhaque").
+entrada(cognato, n, [cognatos], "aquele que é relacionado a outro").
+entrada(reconhecer, v, [reconhecido,reconhecendo,reconhece], "to cognize").
+entry(assimilar, v, [assimilou,assimilando,assimila], "tornar-se consciente na própria mente").
+entry(cognizer, n, [cognizers], "aquele que conhece").
+entrada(cognomen, n, [cognomens], "ou COGNOMINA um nome de família").
+entrada(cognovit, n, [cognovits], "uma admissão de responsabilidade por escrito").
+entrada(cogon, n, [cogons], "uma grama tropical alta").
+entry(cogway, n, [cogways], "uma ferrovia operando em encostas íngremes").
+entrada(roda_dentada, n, [rodas_dentadas], "uma roda dentada").
+entrada(coabitar, v, [coabitaram, coabitando, coabita], "viver junto como marido e mulher sem estarem casados").
+entrada(cochefe, v, [cochefeado,cochefeando,cochefes], "liderar conjuntamente").
+entrada(coherdeiro, n, [coherdeiros], "um herdeiro conjunto").
+entrada(cohere, v, [cohered,cohering,coheres], "aderir").
+entrada(coerente, adj, [], "aderindo juntos").
+entrada(coerente, n, [coerentes], "um dispositivo usado para detectar ondas de rádio").
+entrada(coesão, n, [coesões], "o ato ou estado de coesãoADJ COESIVO").
+entrada(coho, n, [cohos], "um pequeno salmão").
+entrada(cohobate, v, [cohobated, cohobating, cohobates], "destilar novamente").
+entrada(cohoe, n, [cohoes], "coho").
+entrada(cohog, n, [cohogs], "um quahog").
+entrada(coholder, n, [coholders], "um atleta que detém um recorde com outro").
+entrada(coorte, n, [coortes], "um companheiro ou associado").
+entrada(cohosh, n, [cohoshes], "uma planta medicinal").
+entrada(coapresentador, v, [coapresentou, coapresentando, coapresenta], "apresentar conjuntamente").
+entrada(cohune, n, [cohunes], "uma palmeira").
+entrada(coif, v, [coifed,coifing,coifs], "estilar o cabelo").
+entrada(coiffe, v, [coiffed, coiffing, coiffes], "pentear").
+entry(cabeleireiro, n, [cabeleireiros], "um cabeleireiro masculino").
+entrada(penteado, v, [penteado, penteando, penteados], "pentear").
+entrada(coign, v, [coigned,coigning,coigns], "quoinar").
+entrada(coigne, v, [coigned,coigning,coignes], "to quoin").
+entrada(bobina, v, [bobinado,bobinando,bobinas], "enrolar em anéis uniformes").
+entrada(bobinar, n, [bobinadores], "aquele que bobina").
+entrada(moeda, v, [cunhado,cunhando,moedas], "fazer moedas de metalMOEDÁVEL adj").
+entry(cunhagem, n, [cunhagens], "o ato de fazer moedas").
+entry(coincidir, v, [coincidiu, coincidindo, coincide], "estar no mesmo lugar").
+entrada(coiner, n, [coiners], "aquele que cunha").
+entrada(coinfectar, v, [coinfectado,coinfectando,coinfecta], "infectar com dois organismos").
+entrada(coinfer, v, [coinferred, coinferring, coinfers], "inferir conjuntamente").
+entrada(coinhere, v, [coinhered,coinhering,coinheres], "pertencer conjuntamente").
+entrada(coinmate, n, [coinmates], "um colega preso").
+entrada(consignar, v, [consignado, consignando, consigna], "assegurar com outro").
+entrada(cointer, v, [cointerred, cointerring, cointers], "enterrar juntos").
+entrada(coinventar, v, [coinventado, coinventando, coinventa], "inventar juntos").
+entry(coir, n, [coirs], "uma fibra obtida das cascas de coco").
+entrada(coistrel, n, [coistrels], "um patife").
+entrada(coistril, n, [coistrils], "coistrel").
+entrada(coito, n, [coitos], "coito").
+entrada(coito, n, [coitos], "intercurso sexualCOITAL adjCOITALMENTE adv").
+entrada(cojoin, v, [cojoined, cojoining, cojoins], "juntar-se").
+entrada(coca, v, [cocado, cocando, cocas], "transformar em um combustível de carbono").
+entrada(cocainômano, n, [cocainômanos], "um viciado em cocaína").
+entry(cokelike, adj, [], "assemelhando-se a coque um combustível carbonoso").
+entrada(coqueificação, n, [coqueificações], "o processo de converter carvão em coque, um combustível carbonoso").
+entrada(coky, adj, [], "cokelike").
+entrada(col, n, [colinas], "uma depressão entre duas montanhas").
+entrada(cola, n, [colas], "uma bebida gaseificada").
+entrada(peneira, n, [peneiras], "um utensílio de cozinha para escorrer líquidos").
+entrada(colby, n, [colbys], "um queijo suave").
+entrada(frio, adj, [], "COLDER COLDESTtendo pouco ou nenhum calor").
+entry(frio, n, [frios], "a relativa ausência de calor, uma friagem").
+entrada(coldcock, v, [coldcocked,coldcocking,coldcocks], "nocauteado").
+entry(coldish, adj, [], "um pouco frio").
+entry(friamente, adv, [], "de maneira fria").
+entry(frigidez, n, [fridezes], "o estado de ser frio").
+entrada(cole, n, [coles], "uma planta da família das couves").
+entrada(coordenar, v, [coordenou, coordenando, coordena], "liderar conjuntamente").
+entrada(colidere, n, [colideres], "um que colidera").
+entrada(coleseed, n, [coleseeds], "colza").
+entrada(salada_de_repolho, n, [saladas_de_repolho], "uma salada feita de repolho cru picado").
+entrada(colessee, n, [colessees], "um locatário conjunto").
+entry(colessor, n, [colessores], "um locador conjunto").
+entry(coleus, n, [coleuses], "uma planta tropical").
+entrada(colewort, n, [couve], "cole").
+entrada(cólica, n, [cólicas], "dor abdominal aguda").
+entrada(colicina, n, [colicinas], "uma substância antibacteriana").
+entrada(colicine, n, [colicinas], "colicina").
+entrada(cólica, adj, [], "relacionado a ou associado com cólica").
+entrada(colies, pl, [], "de coly").
+entrada(coliforme, n, [coliformes], "um bacilo do cólon").
+entrada(colin, n, [colins], "o codorna").
+entrada(colinear, adj, [], "que estão na mesma linha reta").
+entrada(coliseu, n, [coliseus], "uma grande estrutura para entretenimento público").
+entrada(colistina, n, [colistinas], "um antibiótico").
+entrada(colite, n, [colites], "inflamação do cólonCOLÍTICO adj").
+entrada(colagem, v, [colou, colando, colagens], "arranjar materiais em uma colagem, um tipo de composição artística").
+entrada(colágeno, n, [colágenos], "uma proteína").
+entrada(colapso, v, [colapsou,colapsando,colapsa], "desmoronar subitamente").
+entrada(collar, v, [acollarado,acollaradando,acolerados], "fornecer com uma coleira algo usado ao redor do pescoço").
+entry(couve, n, [couve], "uma variedade de couve").
+entry(collaret, n, [golas], "uma pequena gola").
+entrada(conciliar, v, [conciliado, conciliando, concilia], "para comparar criticamente").
+entrada(agregador, n, [agregadores], "aquele que agrega").
+entrada(recolher, v, [recolhido,recolhendo,recolhe], "juntar em um grupo").
+entrada(colleen, n, [colleens], "uma garota irlandesa").
+entrada(faculdade, n, [faculdades], "uma escola de ensino superior").
+entrada(universitário, n, [universitários], "um estudante sustentado por fundos de sua faculdade").
+entrada(collegia, npl, [], "conselhos executivos soviéticos").
+entrada(collet, v, [colleted,colleting,collets], "fixar uma gema em uma borda ou anel").
+entrada(colidir, v, [colidiu,colidindo,colide], "juntar-se com impacto violento").
+entrada(colisor, n, [colisores], "um tipo de acelerador de partículas").
+entry(collie, n, [collies], "um cão grande").
+entrada(colidiu, passado, [], "tempo de coligir").
+entry(collier, n, [colliers], "um mineiro de carvão").
+entry(mina_de_carvão, n, [minas_de_carvão], "uma mina de carvão").
+entrada(collies, presente, [], "3ª pessoa sing de colly").
+entrada(collins, n, [collinses], "uma bebida alcoólica").
+entrada(coludir, v, [coludiu,coludindo,colude], "conspirar").
+entrada(colóide, n, [colóides], "um tipo de suspensão química").
+entrada(collop, n, [collops], "uma pequena porção de carne").
+entrada(colóquio, n, [colóquios], "uma conversa").
+entrada(conspirar, v, [conspirou, conspirando, conspira], "conspirar").
+entrada(conspirador, n, [conspiradores], "aquele que conspira").
+entrada(colúvia, npl, [], "detritos rochosos").
+entrada(colly, v, [collied,collying,collies], "negrejar com pó de carvão").
+entrada(collyria, npl, [], "loções medicinais").
+entrada(coloboma, n, [colobomata], "ou COLOBOMASuma lesão do olho").
+entrada(colobus, n, [colobus], "ou COLOBIUm grande macaco africano").
+entrada(cocolocar, v, [cocolocado,cocolocando,cocoloca], "colocar duas ou mais unidades habitacionais em proximidade").
+entry(colog, n, [cologs], "o logaritmo do recíproco de um número").
+entrada(colonia, n, [colonias], "um líquido perfumadoCOLONIA adj").
+entrada(colon, n, [colones], "uma unidade monetária da Costa Rica").
+entrada(colon, n, [colons], "uma seção do intestino grosso").
+entrada(colone, n, [colones], "colon").
+entrada(coronel, n, [coroneis], "um oficial militar").
+entrada(coloni, pl, [], "de colonus").
+entrada(colonial, n, [coloniais], "um cidadão de uma colônia").
+entrada(colônica, n, [colônicas], "irrigação do cólon").
+entry(colônias, pl, [], "de colônia").
+entrada(colonizar, v, [colonizou,colonizando,coloniza], "colonizar").
+entrada(colono, n, [colonizadores], "aquele que coloniza uma colônia").
+entrada(colonize, v, [colonized, colonizing, colonizes], "estabelecer uma colônia").
+entrada(colonus, n, [coloni], "um servo nascido livre").
+entrada(colonia, n, [colonias], "um grupo de emigrantes vivendo em uma nova terra").
+entrada(colofão, n, [colofões], "uma inscrição colocada no final de um livro").
+entrada(cor, v, [colorear, colorindo, cores], "dar cor a um atributo visual de objetos para").
+entrada(colorado, adj, [], "de força e cor medianas usado para charutos").
+entrada(corante, n, [corantes], "um pigmento ou tinta").
+entrada(colorido, adj, [], "possuindo cor").
+entrada(colorir, n, [colorir], "aquele que colore").
+entrada(colorido, adj, [], "cheio de cor").
+entrada(colorindo, n, [coloridos], "aparência em relação à cor").
+entrada(colorise, v, [colorised,colorising,colorises], "colorir").
+entrada(colorismo, n, [colorismos], "colorir").
+entrada(colorista, n, [coloristas], "uma pessoa habilidosa no uso de cores").
+entrada(colorizar, v, [colorizado, colorizando, coloriza], "dar cor a um filme em preto e branco").
+entrada(colorman, n, [colormen], "um comentarista esportivo que fornece comentários durante um jogo").
+entrada(cores, n, [alternativasDeCores], "uma disposição de cores").
+entry(colossal, adj, [], "gigantesco").
+entrada(colosso, n, [colossos], "ou COLOSSO uma estátua gigantesca").
+entrada(colotomia, n, [colotomias], "uma incisão cirúrgica do cólon").
+entry(cor, v, [colorido,colorindo,cores], "pintar").
+entrada(colorer, n, [coloridores], "colorer").
+entrada(colpitis, n, [colpitises], "uma inflamação vaginal").
+entrada(potrinho, n, [potrinhos], "um cavalo macho jovemPOTRINHO adj").
+entrada(coltan, n, [coltans], "um minério preto contendo columbita e tantalita").
+entrada(colter, n, [colters], "uma lâmina num arado").
+entrada(potranca, n, [potrancas], "o estado ou tempo de ser um potro").
+entry(colubrídeo, n, [colubrídeos], "qualquer membro de uma grande família de cobras").
+entrada(colugo, n, [colugos], "um pequeno mamífero").
+entry(columbic, adj, [], "relativo ao nióbio").
+entrada(columel, n, [columels], "uma pequena parte anatômica em forma de coluna").
+entrada(coluna, n, [colunas], "um suporte cilíndrico verticalCOLUMNAL COLUMNAR COLUMNED adj").
+entrada(columnea, n, [columneas], "uma planta tropical arbustiva").
+entrada(colure, n, [colures], "um círculo astronômico").
+entrada(coly, n, [colies], "uma ave africana").
+entry(colza, n, [colzas], "uma planta da família do repolho").
+entrada(coma, n, [comae], "um tufo de pelos sedosos").
+entrada(coma, n, [comas], "uma condição de inconsciência prolongada").
+entrada(coconfeccionar, v, [coconfeccionou,coconfeccionando,coconfecciona], "servir como coconfeiteiro para o empréstimo de outra pessoa").
+entrada(cosignatário, n, [cosignatários], "aquele que assume responsabilidade financeira pelo inadimplemento de outro").
+entrada(comal, adj, [], "comose").
+entrada(comanage, v, [comanaged,comanaging,comanages], "gerir conjuntamente").
+entrada(comate, n, [comates], "um companheiro").
+entry(comatic, adj, [], "tendo visão embaçada como resultado de coma").
+entrada(comatik, n, [comatiks], "komatik").
+entry(comatoso, adj, [], "afectado por coma").
+entrada(comatula, n, [comatulae], "um animal marinho").
+entrada(comb, v, [combed, combing, combs], "arranjar ou limpar com um pente, um instrumento dentado").
+entrada(combater, v, [combatei,combatendo,combates], "ou COMBATEI COMBATENDO COMBATESS combater contra").
+entrada(combater, n, [combatentes], "aquele que combate").
+entrada(combe, n, [combes], "um vale estreito").
+entry(penteador, n, [penteadores], "aquele que penteia").
+entrada(combi, n, [combis], "uma máquina com função combinada").
+entrada(combinar, v, [combinado,combinando,combina], "misturar").
+entrada(combinada, n, [combinadas], "uma competição de esqui que combina dois eventos").
+entrada(combinador, n, [combinadores], "aquele que combina").
+entrada(penteados, npl, [], "cabelo removido por um pente").
+entry(combinar, presente, [], "particípio de combinar").
+entry(comblike, adj, [], "semelhante a um pente").
+entrada(combo, n, [combos], "uma pequena banda de jazz").
+entrada(combover, n, [combovers], "cabelo penteado sobre uma área calva").
+entrada(combust, v, [combusted, combusting, combusts], "queimar").
+entrada(vir, v, [veio, vindo, vem], "ou VINDOpara mover-se em direção a algo ou alguém").
+entrada(retorno, n, [retornos], "um retorno à prosperidade anterior").
+entrada(comediante, n, [comediantes], "um animador humorístico").
+entrada(cômico, adj, [], "relativo à comédia").
+entrada(comedias, pl, [], "de comédia").
+entry(comedista, n, [comedistas], "um escritor de comédias").
+entrada(comedo, n, [comedos], "ou COMEDÕES uma mancha de pele").
+entrada(tombo, n, [tombos], "uma queda de status").
+entry(comédia, n, [comédias], "uma peça, filme ou outra obra humorística").
+entrada(aprazível, adj, [], "MAIS APRAZÍVEL MAIS APRAZÍVELagradável de se verAPRAZIVELMENTE adv").
+entrada(comembro, n, [comembros], "aquele que compartilha a associação").
+entrada(comer, n, [comers], "um mostrando grande promessa").
+entrada(cometa, n, [cometas], "um corpo celesteCOMETÁRIO adj").
+entrada(virá, a, [], "presente 3ª pessoa singular de vir").
+entrada(chegada, n, [chegadas], "um caso ou assunto").
+entry(cometário, adj, [], "relativo a um cometa").
+entrada(mais_confortável, comparativo, [], "de confortável").
+entrada(mais_confortável, superlativo, [], "do confortável").
+entrada(comfit, n, [comfits], "um doce").
+entry(consolar, v, [consolou,consolando,consola], "aliviar em tempos de luto").
+entrada(confrei, n, [confreis], "uma erva áspera").
+entrada(confortável, adj, [], "MELHOR MAIS confortávelCONFIAVEL adv").
+entrada(comico, n, [comicos], "um comediante").
+entry(cômico, adj, [], "engraçado").
+entrada(chegada, n, [chegadas], "chegada").
+entrada(comingle, v, [comingled, comingling, comingles], "misturar completamente").
+entrada(comitia, n, [comitia], "uma assembleia pública na Roma antigaCOMICIAL adj").
+entrada(comity, n, [comities], "civilidade").
+entrada(comix, npl, [], "banda desenhada ou tiras").
+entrada(comm, n, [comms], "comunicação").
+entrada(vírgula, n, [vírgulas], "ou COMMATA um fragmento de algumas palavras ou pés na prosódia antiga").
+entrada(comando, v, [comandou, comandando, comanda], "dirigir com autoridade").
+entrada(comando, n, [comandos], "ou COMANDOES, uma unidade militar").
+entrada(commata, a, [], "pl de vírgula").
+entrada(iniciar, v, [iniciou,iniciando,inicia], "começar").
+entry(commend, v, [commended,commending,commends], "elogiar").
+entrada(comentário, v, [comentado, comentando, comentários], "remarkar").
+entrada(comércio, v, [comerciou,comerciando,comercia], "comungar").
+entrada(commie, n, [comunistas], "um Comunista").
+```
+entry(comunistas, pl, [], "de comunista").
+```
+entrada(commis, n, [commis], "um chef júnior").
+entrada(comissário, n, [comissários], "um comissário").
+entrada(commit, v, [cometido,cometendo,comete], "fazer, realizar ou perpetrar").
+entrada(commix, v, [commixt, commixing, commixes], "misturar juntos").
+entrada(commo, n, [commos], "comunicação").
+entrada(cômoda, n, [cômodas], "um armário").
+entry(comum, adj, [], "COMMONER COMMONESTordinary").
+entrada(comum, n, [comuns], "uma área de terra usada publicamente").
+entrada(popular, n, [populares], "um dos povo comum").
+entrada(comummente, adv, [], "de maneira comum").
+entrada(commove, v, [commoved,commoving,commoves], "mover violentamente").
+entrada(comunitário, adj, [], "pertencente a uma comunidade pública").
+entrada(comuna, v, [comunado,comunando,comunas], "conversar intimamente").
+entrada(comungante, n, [comungantes], "aquele que comunga").
+entrada(commutar, v, [comutado, comutando, comuta], "trocar").
+entrada(comutador, n, [comutadores], "aquele que se desloca").
+entrada(commy, n, [comunistas], "comunista").
+entry(comous, adj, [], "comoso").
+entrada(comp, v, [comped, comping, comps], "tocar um acompanhamento de jazz").
+entrada(compact, adj, [], "MAIS COMPACTO MAIS COMPACTOapertadamente e firmemente unido").
+entrada(compacto, v, [compactado, compactando, compacta], "empacotar bem junto").
+entrada(compadre, n, [compadres], "um amigo próximo").
+entrada(empresa, v, [acompanhado, acompanhando, empresas], "associar-se com").
+entrada(compare, v, [comparado, comparando, compara], "representar como similar").
+entrada(comparar, n, [comparadores], "aquele que compara").
+entry(compartilhar, v, [compartilhou, compartilhando, compartilha], "dividir em partes").
+entry(compas, n, [], "uma música popular do Haiti").
+entrada(compass, v, [compassed,compassing,compasses], "contornar").
+entrada(compeer, v, [compeered,compeering,compeers], "igualar ou equiparar").
+entrada(compel, v, [compelled, compelling, compels], "instar com força").
+entrada(compend, n, [compends], "um breve resumo").
+entrada(apresentador, v, [apresentou, apresentando, apresenta], "atuar como mestre de cerimônias").
+entry(compete, v, [competiu,competindo,compete], "competir").
+entrada(compilar, v, [compilado,compilando,compila], "reunir em um volume").
+```prolog
+entrada(compiler, n, [compiladores], "aquele que compila").
+```
+entrada(comping, n, [compings], "o ato de tocar um acompanhamento de jazz").
+entry(reclamar, v, [reclamou,reclamando,reclama], "expressar descontentamento").
+entrada(compleat, v, [compleated,compleating,compleats], "completar").
+entrada(complectar, v, [complectou,complectando,complecta], "entrelaçar").
+entrada(completo, adj, [], "COMPLETO COMPLETÍSSIMO tendo todas as partes necessárias").
+entrada(completar, v, [completou,completando,completa], "trazer a um fim").
+entry(complexo, adj, [], "COMPLEXO MAIS_COMPLEXOcomplexestcomplicado").
+entrada(complexo, v, [complexado, complexando, complexos], "tornar complexo").
+entrada(cúmplice, n, [cúmplices], "um associado").
+entrada(comply, passado, [], "tempo de comply").
+entrada(complier, n, [compliers], "um que cumpre").
+entrada(concorda, presente, [], "3ª pessoa singular de cumprir").
+entrada(complin, n, [complins], "compline").
+entry(completa, n, [completas], "a última oração litúrgica do dia").
+entrada(complotar, v, [complotou,complotando,complotam], "conspirar").
+entrada(cumprir, v, [cumprido,cumprindo,cumpre], "obedecer").
+entrada(compo, n, [compos], "uma substância mista").
+entrada(compone, adj, [], "compony").
+entrada(compony, adj, [], "composto de quadrados de cores alternadas").
+entry(comportar, v, [comportou, comportando, comporta], "conduzir-se de uma certa maneira").
+entry(compor, v, [compôs,compondo,compõe], "formar a substância de").
+entry(compositor, n, [compositores], "aquele que escreve música").
+entrada(composto, v, [compostado,compostando,compostos], "fertilizar").
+entrada(compota, n, [compotas], "fruta cozida em calda").
+entrada(composto, v, [composto, compostagem, compostos], "adicionar a").
+entrada(comprimir, v, [comprimido,comprimindo,comprime], "compactar").
+entrada(compreender, v, [compreendido, compreendendo, compreende], "incluir ou conter").
+entrada(comprize, v, [comprized,comprizing,comprizes], "compreender").
+entrada(compt, v, [compted,compting,compts], "contar").
+entrada(computar, v, [computado,computando,computa], "calcular").
+entrada(computador, n, [computadores], "uma máquina que computa automaticamente").
+entrada(camarada, n, [camaradas], "um amigo próximo").
+entrada(comte, n, [comtes], "um nobre francês").
+entrada(con, v, [enganado,enganando,contras], "estudar cuidadosamente").
+entrada(conação, n, [conações], "a inclinação para agir com propósitoCONATIVO adj").
+entrada(conatus, n, [conatus], "um esforço").
+entrada(côncavo, v, [côncavo, côncavos, côncavase], "tornar côncavo curvando-se para dentro").
+entrada(ocultar, v, [ocultado, ocultando, oculta], "manter fora da vista ou descoberta").
+entrada(conceder, v, [concedido,concedendo,concede], "reconhecer como verdade").
+entry(conceder, n, [concededores], "aquele que concede").
+entrada(conceit, v, [conceited,conceiting,conceits], "imaginar").
+entrada(conceber, v, [concebeu,concebendo,concebe], "entender").
+entrada(concent, n, [concents], "harmonia").
+entrada(conceito, n, [conceitos], "uma ideia geral").
+entrada(concepti, npl, [], "ovos fertilizados").
+entry(preocupação, v, [preocupado,preocupando,preocupações], "ser de interesse para").
+entrada(concerto, v, [concertado, concertando, concertos], "planejar").
+entrada(concerto, n, [concertos], "ou CONCERTIa composição musical").
+entrada(concha, n, [conchas], "ou CONCHAS um molusco marinho").
+entry(concha, n, [conchas], "um disco ornamental").
+entrada(concha, n, [conchae], "uma estrutura anatômica semelhante a uma conchaCONCHAL adj").
+entrada(conchie, n, [conchies], "conchy").
+entrada(concho, n, [conchos], "disco ornamental de concha").
+entrada(conchoide, n, [conchoides], "um tipo de curva geométrica").
+entrada(conchy, n, [conchies], "um objetor de consciência").
+entrada(concise, adj, [], "CONCISER CONCISESTsucinto").
+entrada(conclave, n, [conclaves], "uma reunião secreta").
+entry(concluir, v, [concluiu,concluindo,conclui], "terminar").
+entrada(concoct, v, [concocted, concocting, concocts], "preparar combinando ingredientes").
+entrada(concord, n, [concords], "um estado de acordo").
+entrada(concours, n, [concours], "um concurso público").
+entrada(concreto, v, [concretado,concretando,concretos], "solidificar").
+entrada(concordar, v, [concordado, concordando, concorda], "concordar").
+entrada(concuss, v, [concussed, concussing, concusses], "ferir o cérebro por um golpe violento").
+entrada(condenar, v, [condenou,condenando,condena], "criticar severamente").
+entrada(condense, v, [condensado,condensando,condensa], "comprimir").
+entrada(condign, adj, [], "merecido apropriado").
+entrada(condomínio, n, [condomínios], "ou CONDOES uma unidade individualmente possuída em uma estrutura multiunidade").
+entrada(condole, v, [condoled, condoling, condoles], "lamentar").
+entrada(condoler, n, [condolers], "aquele que consola").
+entry(preservativo, n, [preservativos], "um profilático").
+entry(condonar, v, [condonou,condonando,condona], "perdoar ou ignorar").
+entrada(condoner, n, [condoners], "aquele que desculpa").
+entrada(condor, n, [condores], "ou CONDORES uma moeda do Chile").
+entrada(conduce, v, [conduced, conducing, conduces], "para contribuir para um resultado").
+entrada(conducer, n, [conducers], "aquele que conduz").
+entrada(conduzir, v, [conduziu,conduzindo,conduz], "liderar ou guiar").
+entrada(conduto, n, [condutos], "um canal ou tubo para transportar fluidos").
+entrada(côndilo, n, [côndilos], "uma protuberância em um ossoCONDILAR adj").
+entrada(cone, v, [coned,coning,cones], "dar forma de cone a um sólido geométrico").
+entrada(conelrad, n, [conelrads], "um sistema de defesa em caso de ataque aéreo").
+entrada(barbeiro, n, [barbeiros], "um inseto sugador de sangue").
+entry(conepate, n, [conepates], "um gambá").
+entrada(conepatl, n, [conepatls], "conepate").
+entrada(coelho, n, [coelhos], "coelho").
+entrada(confab, v, [confabbed, confabbing, confabs], "conversar").
+entrada(confeitar, v, [confeitou, confeitando, confeitados], "preparar a partir de vários ingredientes").
+entrada(conferir, v, [concedido,concedendo,concede], "conceder").
+entrada(conferencista, n, [conferencistas], "aquele a quem algo é conferido").
+entry(conferva, n, [confervas], "ou CONFERVAEa alga de água doce").
+entrada(confessar, v, [confessou, confessando, confessa], "admitir ou divulgar").
+entrada(confetto, n, [confetti], "um bombom").
+entrada(confide, v, [confided,confiding,confides], "revelar em confiança ou sigilo").
+entrada(confider, n, [confiders], "aquele que confia").
+entry(confinar, v, [confinado,confinando,confina], "fechar dentro de um recinto").
+entrada(confinador, n, [confinadores], "um que confina").
+entrada(confirmar, v, [confirmado,confirmando,confirma], "assegurar a validade de").
+entrada(confit, n, [confits], "carne cozida e preservada na sua própria gordura").
+entrada(confluir, v, [confluído,confluindo,conflui], "misturar").
+entry(conflito, v, [conflitado, conflitando, conflitos], "entrar em oposição").
+entrada(confluxo, n, [confluxos], "uma junção de correntes").
+entrada(confocal, adj, [], "tendo o mesmo foco ou focos").
+entrada(conformar, v, [conformou,conformando,conforma], "tornar-se igual ou similar").
+entrada(confound, v, [confounded,confounding,confounds], "confundir").
+entrada(confrere, n, [confreres], "um colega").
+entrada(confrontar, v, [confrontou, confrontando, confronta], "enfrentar desafiadoramente").
+entrada(confundir, v, [confundido,confundindo,confunde], "misturar mentalmente").
+entry(confute, v, [confuted,confuting,confutes], "refutar").
+entry(confuter, n, [confuters], "aquele que confuta").
+entry(conga, v, [congaed,congaing,congas], "dançar a conga, uma dança latino-americana").
+entry(conge, n, [conges], "permissão para partir").
+entrada(congeal, v, [congealed,congealing,congeals], "passar de líquido para sólido").
+entrada(congee, v, [congeed, congeeing, congees], "para se curvar educadamente").
+entrada(congener, n, [congeneres], "um do mesmo tipo ou classe").
+entry(conger, n, [congers], "uma enguia marinha").
+entrada(congest, v, [congested, congesting, congests], "encher em excesso").
+entrada(congius, n, [congii], "uma antiga unidade de medida").
+entrada(conglobe, v, [conglobed,conglobing,conglobes], "tornar-se uma glóbula").
+entrada(congo, n, [congos], "um anfíbio parecido com enguia").
+entrada(congo, n, [congos], "congou").
+entrada(congou, n, [congous], "um chá chinês").
+entrada(congrats, npl, [], "parabéns").
+entry(congress, v, [congressed,congressing,congresses], "reunir-se junto").
+entrada(coni, pl, [], "de conus").
+entrada(conica, n, [conicas], "uma curva geométrica").
+entrada(cônico, adj, [], "com forma de cone").
+entrada(conicidade, n, [conicidades], "o estado de ser cônico").
+entrada(conidio, n, [conidios], "um esporo de fungoCONIDIAL CONIDIAN adj").
+entrada(conies, pl, [], "de coelho").
+entrada(conifer, n, [conifers], "uma árvore perene").
+entrada(coniina, n, [coniinas], "um alcaloide venenoso").
+entrada(conin, n, [conins], "coniine").
+entrada(conine, n, [coniinas], "coniína").
+entrada(coning, presente, [], "particípio de cone").
+entrada(coniosis, n, [conioses], "uma infecção causada pela inalação de poeira").
+entry(conium, n, [coniums], "uma erva venenosa").
+entrada(conjoin, v, [conjoined, conjoining, conjoins], "unir-se CONJUNTO adj").
+entry(conjugal, adj, [], "relativo ao casamento").
+entrada(conjuntivo, n, [conjuntos], "um que está unido a outro").
+entrada(conjunto, n, [conjuntos], "um estilo de música de dança ao longo da fronteira mexicana").
+entry(evocar, v, [evocado,evocando,evoca], "invocar um espírito").
+entrada(conjurador, n, [conjuradores], "um feiticeiro").
+entrada(feiticeiro, n, [feiticeiros], "conjurador").
+entry(conk, v, [conked,conking,conks], "bater na cabeça").
+entrada(conker, n, [conkers], "uma castanha usada em um jogo britânico").
+entry(conky, adj, [], "cheio de um fungo de árvore").
+entrada(conn, v, [conned, conning, conns], "dirigir o leme de um navio").
+entry(connate, adj, [], "innato").
+entrada(connect, v, [connected, connecting, connects], "unir-se").
+entrada(enganou, passado, [], "tempo de enganar").
+entrada(conner, n, [conners], "aquele que engana").
+entrada(conning, presente, [], "particípio de con").
+entrada(connive, v, [connived, conniving, connives], "fingir ignorância sobre um erro").
+entrada(conniver, n, [connivers], "aquele que conspira").
+entry(connor, n, [connors], "um peixe de água salgada").
+entrada(connote, v, [connoted, connoting, connotes], "implicar outro significado além do literal").
+entrada(conodonte, n, [conodontes], "um fóssil").
+entrada(conoide, n, [conoides], "um sólido geométricoCONOIDAL adj").
+entrada(conquistar, v, [conquistado, conquistando, conquista], "superar pela força").
+entrada(conquista, n, [conquistas], "o ato de conquistar").
+entrada(conquian, n, [conquians], "um jogo de cartas").
+entrada(consentimento, v, [consentiu, consentindo, consente], "permitir ou aprovar").
+entrada(conservar, v, [conservou, conservando, conserva], "proteger da perda ou exaustão").
+entrada(considere, v, [considerado,considerando,considera], "pensar sobre").
+entrada(consignar, v, [consignou, consignando, consigna], "entregar aos cuidados de outro").
+entrada(consistir, v, [consistiu, consistindo, consiste], "ser composto ou constituído").
+entrada(consol, n, [consols], "um título do governo").
+entrada(console, v, [consoled,consoling,consoles], "consolar").
+entrada(consolador, n, [consoladores], "aquele que consola").
+entrada(consomme, n, [consommes], "uma sopa clara").
+entry(consort, v, [consorted,consorting,consorts], "acompanhar").
+entry(conspirar, v, [conspirou, conspirando, conspira], "planejar secretamente com outra pessoa").
+entrada(constante, n, [constantes], "algo que não varia").
+entrada(interpretar, v, [interpretou, interpretando, interpreta], "interpretar").
+entrada(cônsul, n, [cônsules], "um oficial servindo no exteriorCONSULAR adj").
+entrada(consulte, v, [consultado,consultando,consulta], "pedir uma opinião de").
+entry(consumir, v, [consumido,consumindo,consome], "usar completamente").
+entrada(consumidor, n, [consumidores], "um que consome").
+entrada(contato, v, [contatou, contatando, contata], "comunicar-se com").
+entry(contagia, npl, [], "agentes causadores de doenças infecciosas").
+entrada(conter, v, [conteve,contendo,contém], "segurar dentro").
+entrada(contango, n, [contangos], "adiamento da transferência de ações").
+entrada(conto, n, [contos], "uma história curta").
+entrada(contemn, v, [contemned, contemning, contemns], "desprezar").
+entrada(contempo, adj, [], "contemporâneo").
+entrada(desprezo, n, [desprezos], "o sentimento de quem vê algo como vil ou sem valor").
+entrada(disputar, v, [disputado,disputando,disputa], "competir").
+entrada(conteúdo, v, [satisfeito, satisfazendo, satisfaz], "satisfazer").
+entrada(condessa, n, [condessas], "uma condessa italiana").
+entrada(concurso, v, [concorrido,concorrendo,concursos], "competir por").
+entrada(contexto, n, [contextos], "a parte de um discurso em que uma palavra ou frase específica aparece").
+entrada(continua, npl, [], "conjuntos matemáticos").
+entry(continuar, v, [continuou,continuando,continua], "prosseguir com").
+entrada(continuo, n, [continuos], "um tipo de parte instrumental").
+entrada(conto, n, [contos], "uma moeda de conta portuguesa").
+entrada(contorcer, v, [contorcido,contorcendo,contorce], "torcer fora de forma").
+entrada(contorno, v, [contornado,contornando,contornos], "fazer o contorno de").
+entrada(contra, n, [contras], "um revolucionário nicaraguense").
+entrada(contratar, v, [contratado,contratando,contratos], "diminuir em tamanho ou volume").
+entry(trilha_de_condensação, n, [trilhas_de_condensação], "um rastro visível de vapor de água de uma aeronave").
+entrada(contrário, n, [contrários], "um oposto").
+entrada(contraste, v, [contrastou,contrastando,contrastes], "colocar em oposição para destacar diferenças").
+entry(contrito, adj, [], "profundamente arrependido pelos próprios pecados").
+entry(engenhar, v, [engenhou, engenhando, engenha], "conceber").
+entrada(control, v, [controlado,controlando,controla], "exercer autoridade sobre").
+entrada(contuse, v, [contused,contusing,contuses], "machucar-se").
+entrada(caturra, n, [caturras], "um periquito tropical americano").
+entrada(conus, n, [coni], "uma parte anatômica em mamíferos").
+entrada(convect, v, [convected, convecting, convects], "transferir calor por um processo de circulação").
+entry(convoke, v, [convocado,convocando,convoca], "montar").
+entry(convener, n, [convocadores], "aquele que convoca").
+entry(convenor, n, [convenors], "convocador").
+entrada(convento, v, [conventado, conventando, conventa], "conveniar").
+entrada(converge, v, [converged, converging, converges], "to come together").
+entrada(conversar, v, [conversou,conversando,conversa], "falar juntos").
+entrada(converso, n, [conversos], "um judeu que se converteu ao cristianismo").
+entrada(converter, v, [convertido, convertendo, converte], "mudar para outra forma").
+entrada(convexo, n, [convexos], "uma superfície ou corpo que é convexo, curvando-se para fora").
+entry(convexamente, adv, [], "de forma convexa").
+entry(transportar, v, [transportou, transportando, transporta], "para transportar").
+entrada(correia, n, [correias], "uma que transporta").
+entrada(esteira, n, [esteiras], "transportador").
+entrada(condenar, v, [condenado,condenando,condena], "provar culpado").
+entry(convencer, v, [convencido, convencendo, convence], "fazer alguém acreditar em algo").
+entry(convocar, v, [convocou, convocando, convoca], "fazer com que se reúnam").
+entrada(convocador, n, [convocadores], "aquele que convoca").
+entry(convolve, v, [enrolado,enrolando,enrola], "enrolar juntos").
+entrada(convoy, v, [escoltado, escoltando, escolta], "escoltar").
+entry(convulsionar, v, [convulsionou,convulsionando,convulsiona], "agitar violentamente").
+entrada(cony, n, [conies], "um coelho").
+entrada(coo, v, [cooed, cooing, coos], "fazer o som de uma pomba").
+entrada(cooch, n, [cooches], "uma dança sinuosa").
+entrada(coocoo, adj, [], "louco").
+entrada(cooee, v, [cooeei, cooeeando, cooeias], "gritar estridentemente").
+entrada(palrador, n, [palradores], "aquele que palra").
+entrada(cooey, v, [cooeyed, cooeying, cooeys], "cooee").
+entrada(coof, n, [coofs], "um paspalhão").
+entry(cooing, presente, [], "particípio de coo").
+entrada(cooingly, adv, [], "de forma afetuosa, como pombas arrulhando").
+entry(cozinhar, v, [cozinhado,cozinhando,cozinha], "preparar alimentos aquecendoCOZINHAVEL adj").
+entrada(cookbook, n, [livros_de_receitas], "um livro de receitas").
+entrada(cozinheiro, n, [cozinheiros], "aquele que cozinha").
+entrada(culinária, n, [culinárias], "a arte de cozinhar").
+entrada(cookie, n, [cookies], "biscoito").
+entrada(cookie, n, [cookies], "um pequeno bolo achatado").
+entrada(cozinhar, n, [cozinhas], "o ato de quem cozinha").
+entrada(cookless, adj, [], "não ter pessoa que cozinhe").
+entrada(cookoff, n, [cookoffs], "um concurso de culinária").
+entrada(churrasco, n, [churrascos], "uma refeição preparada e consumida ao ar livre").
+entrada(casa_de_comidas, n, [casas_de_comidas], "uma loja que vende comida cozida").
+entry(cooktop, n, [cooktops], "um aparelho de cozinha de bancada").
+entrada(panelas, n, [utensílios_de_cozinha], "utensílios usados na culinária").
+entrada(biscoito, n, [biscoitos], "biscoito").
+entrada(cool, adj, [], "MODERADAMENTE FRIO").
+entrada(cool, v, [resfriado,resfriando,resfria], "para tornar menos quente").
+entrada(coolabah, n, [coolabahs], "uma árvore de goma australiana").
+```prolog
+entry(refrigerante, n, [refrigerantes], "um fluido usado para resfriar motores").
+```
+entrada(cooldown, n, [esfriamentos], "um retorno gradual das funções fisiológicas aos níveis normais após exercícios extenuantes").
+entrada(refrigerador, n, [refrigeradores], "algo que esfria").
+entrada(coolibah, n, [coolibahs], "coolabah").
+entrada(coolie, n, [coolies], "um trabalhador no ou do Extremo Oriente").
+entrada(carregadores, pl, [], "de carregador").
+entrada(coolish, adj, [], "ligeiramente frio").
+entry(coolly, adv, [], "de maneira tranquila").
+entrada(legalidade, n, [legalidades], "o estado de ser legal").
+entrada(coolth, n, [coolths], "frescura").
+entrada(cooly, n, [coolies], "coolie").
+entrada(combe, n, [combes], "combe").
+entrada(coombe, n, [coombes], "combe").
+entrada(guaxinim, n, [guaxinins], "um guaxinim").
+entry(conquian, n, [conquians], "cooncans").
+entrada(coonskin, n, [coonskins], "a pele de um guaxinim").
+entrada(coontie, n, [coonties], "uma planta tropical").
+entry(coop, v, [cooped,cooping,coops], "confinar").
+entrada(cooper, v, [coopered, coopering, coopers], "fazer ou consertar barris").
+entrada(coopery, n, [cooperies], "o ofício de tanoaria").
+entry(cooptar, v, [cooptado,coopting,coopta], "eleger ou nomear").
+entrada(cooption, n, [cooptions], "o ato de cooptar").
+entrada(pato-marinho, n, [patos-marinhos], "uma ave aquática").
+entrada(cágado, n, [cágados], "uma tartaruga").
+entrada(piolho, n, [piolhos], "um piolho do corpo").
+entry(cop, v, [copped,copping,cops], "roubar").
+entry(copaíba, n, [copaíbas], "uma resina").
+entrada(copal, n, [copais], "uma resina").
+entrada(copoame, n, [copoames], "uma árvore de madeira dura").
+entrada(coparent, v, [compaternidade, copaternidade, coprogenitores], "compartilhar a custódia de um filho").
+entrada(copastor, n, [copastores], "aquele que compartilha as funções de um pastor").
+entry(copatrono, n, [copatronos], "um companheiro patrono").
+entrada(copay, n, [copays], "uma taxa exigida por um segurador de saúde a ser paga pelo paciente").
+entrada(lidar, v, [lidou,lidando,lida], "contender ou esforçar-se").
+entrada(copeck, n, [copecks], "copeque").
+entrada(copemate, n, [copemates], "um antagonista").
+entrada(abrir, n, [aberturas], "uma cor azul").
+entrada(copépode, n, [copépodes], "um pequeno crustáceo").
+entrada(coper, n, [copers], "um negociante de cavalos").
+entrada(copiable, adj, [], "capaz de ser copiado").
+entrada(copiado, passado, [], "tempo de copiar").
+entrada(copiadora, n, [copiadoras], "um que copia").
+entrada(cópias, presente, [], "3ª pessoa singular de copiar").
+entrada(copihue, n, [copihues], "uma trepadeira").
+entry(copiloto, v, [copilotou, copilotando, copilotos], "atuar como um piloto assistente").
+entrada(coping, n, [copings], "a parte superior de uma parede").
+entrada(copious, adj, [], "abundante").
+entry(coplanar, adj, [], "situado no mesmo plano").
+entrada(co-plotar, v, [co-plotado, co-plotando, co-plota], "plotar junto").
+entrada(copout, n, [copouts], "uma desistência de uma responsabilidade").
+entrada(copped, passado, [], "tempo de 'cop'").
+entrada(cobre, v, [coberto, cobrindo, cobres], "cobrir com cobre um elemento metálico").
+entrada(copperah, n, [copperahs], "copra").
+entry(sulfato ferroso, n, [sulfatos ferrosos], "um composto usado na fabricação de tintas").
+entrada(cobreado, adj, [], "semelhante a cobre").
+entrada(coppice, v, [coppiced,coppicing,coppices], "causar a crescer sob a forma de um coppice, um matagal").
+entrada(copping, presente, [], "particípio de cop").
+entrada(coppra, n, [coppras], "copra").
+entrada(copra, n, [copras], "carne de coco seca").
+entrada(coprah, n, [coprahs], "copra").
+entrada(copremia, n, [copremias], "uma forma de envenenamento do sangueCOPRÊMICO adj").
+entrada(copríncipe, n, [copríncipes], "um de dois príncipes governando em conjunto").
+entrada(bosquete, n, [bosquetes], "um bosqueteCOPSE adj").
+entrada(copter, n, [helicópteros], "um helicóptero").
+entrada(cópula, n, [cópulas], "ou CÓPULA Algo que ligaCÓPULA adj").
+entrada(copular, v, [copulou,copulando,copula], "engajar-se em coito").
+entrada(copurify, v, [copurified,copurifying,copurifies], "tornar-se purificado com outra substância").
+entry(copiar, v, [copiado,copiando,copias], "imitarCOPIAVEL adj").
+entrada(copybook, n, [copybooks], "um livro usado para ensinar caligrafia").
+entry(copyboy, n, [copyboys], "um garoto que faz recados em um escritório de jornal").
+entrada(louro, v, [lourado,lourando,louros], "imitar").
+entrada(copydesk, n, [copydesks], "uma mesa de editor em um escritório de jornal").
+entry(copidescar, v, [copidescado,copidescando,copidescas], "preparar o texto para a impressão").
+entry(copygirl, n, [copygirls], "uma menina que faz recados em um escritório de jornal").
+entrada(copyhold, n, [copyholds], "um tipo de posse de terra").
+entrada(copista, n, [copistas], "um imitador").
+entrada(copyleft, n, [copylefts], "uma licença que permite o uso gratuito de software protegido por direitos autorais").
+entry(copyread, v, [copyread,copyreading,copyreads], "revisar").
+entrada(coquet, v, [coquettou, coquetando, coqueta], "flertar").
+entrada(galanteria, n, [galanterias], "comportamento flertante").
+entrada(coquette, v, [coquetted, coquetting, coquettes], "flertar").
+entry(coqui, n, [coquis], "uma pequena rã arborícola").
+entrada(coquille, n, [coquilles], "um utensílio de cozinha").
+entrada(coquina, n, [coquinas], "um pequeno molusco marinho").
+entrada(coquito, n, [coquitos], "uma palmeira").
+entrada(cor, n, [cors], "uma antiga unidade de medida").
+entrada(coracle, n, [coracles], "um pequeno barco").
+entrada(coracoide, n, [coracoides], "um osso da cintura escapular").
+entrada(coral, n, [corais], "uma massa de esqueletos de animais marinhos").
+entry(coranto, n, [corantos], "ou CORANTOEScourante").
+entrada(corban, n, [corbans], "uma oferta a Deus").
+entrada(corbeil, n, [corbeils], "um cesto de frutas esculpido").
+entrada(corbel, v, [corbeled,corbeling,corbels], "ou CORBELLED CORBELLING CORBELS fornecer uma parede com um suporte").
+entrada(corbie, n, [corbies], "um corvo").
+entrada(corbina, n, [corbinas], "um peixe usado como alimento e caça").
+entrada(corby, n, [corbies], "corbie").
+entrada(cordão, v, [cordonado,cordando,cordões], "prender com um cordão uma corda fina").
+entry(cordage, n, [cordagens], "a quantidade de madeira numa área").
+entry(cordate, adj, [], "em_forma_de_coração").
+entry(cordelle, v, [cordelled,cordelling,cordelles], "rebocar um barco com uma corda cordelle um cabo de reboque").
+entrada(corder, n, [corders], "um que amarra").
+entrada(cordial, n, [cordiais], "um licor").
+entrada(cording, n, [cordings], "a superfície canelada do tecido").
+entrada(cordite, n, [cordites], "um pó explosivo").
+entry(sem_fio, n, [sem_fios], "um dispositivo elétrico com sua própria fonte de energia").
+entrada(cordlike, adj, [], "assemelhando-se a um cordão").
+entrada(cordoba, n, [cordobas], "uma unidade monetária da Nicarágua").
+entrada(cordon, v, [cordoned,cordoning,cordons], "formar uma barreira ao redor").
+entrada(cordovão, n, [cordovões], "um couro fino").
+entrada(cotelê, v, [cotelou,cotelando,cotelês], "construir um tipo de estrada").
+entrada(cordwain, n, [cordwains], "cordovan").
+entrada(lenha, n, [lenhas], "madeira usada como combustível").
+entrada(core, v, [cored,coring,cores], "remover o núcleo a parte central de").
+entrada(coredeem, v, [coredeemed,coredeeming,coredeems], "resgatar conjuntamente").
+entrada(coreign, n, [coreigns], "um reinado conjunto").
+entrada(correlacionar, v, [correlacionado, correlacionando, correlaciona], "colocar em relação mútua ou recíproca").
+entrada(sem_núcleo, adj, [], "sem núcleo").
+entrada(corella, n, [corellas], "uma pequena cacatua").
+entrada(coremium, n, [coremia], "um órgão de certos fungos").
+entrada(descascador, n, [descascadores], "um utensílio para descascar maçãs").
+entrada(corf, n, [corves], "um vagão usado em uma mina").
+entrada(corgi, n, [corgis], "um cão de pernas curtas").
+entrada(coring, presente, [], "particípio de core").
+entrada(corium, n, [coria], "uma camada da pele").
+entrada(cortiça, v, [cortado,cortando,cortas], "tapar").
+entrada(cobrança_de_rolha, n, [cobranças_de_rolha], "uma taxa para vinho em um restaurante").
+entrada(cortador, n, [cortadores], "aquele que corta").
+entrada(corkier, comparativo, [], "de corky").
+entrada(corkiest, superlativo, [], "de corky").
+entrada(corticoso, adj, [], "semelhante à cortiça uma casca de árvore porosa").
+entrada(corkwood, n, [corkwoods], "uma pequena árvore").
+entrada(corky, adj, [], "CORKIER CORKIESTcorklike").
+entrada(corm, n, [corms], "um caule de certas plantasCORMÓIDE COMO CORMO CORMOSO adj").
+entrada(cormel, n, [cormelos], "um pequeno cormo").
+entrada(cormlet, n, [cormlets], "um pequeno bolbo").
+entrada(milho, v, [muilhado, muilhando, milhos], "preservar com sal").
+entrada(caipira, n, [caipiras], "um jeca").
+entrada(bolo_de_milho, n, [bolos_de_milho], "um bolo feito de fubá").
+entrada(sabugo, n, [sabugos], "o núcleo lenhoso de uma espiga de milho").
+entrada(milho_seiro, n, [milho_seiros], "um edifício no qual o milho é armazenado").
+entrada(cornea, n, [corneas], "uma parte do olhoCORNEAL adj").
+entrada(cornel, n, [cornels], "uma árvore ou arbusto de madeira dura").
+entrada(corneous, adj, [], "de uma textura semelhante a de chifre").
+entrada(esquina, v, [esquinado,esquinando,esquinas], "ganhar controle de").
+entrada(cornet, n, [cornets], "um instrumento semelhante a um trompete").
+entrada(cornetcy, n, [], "CORNETCIESum posto na cavalaria britânica").
+entrada(cornett, n, [cornetts], "cornetto").
+entry(cornetto, n, [cornettos], "ou CORNETTI um instrumento de sopro musical").
+entrada(cornfed, adj, [], "alimentado com milho").
+entrada(casca_de_milho, n, [cascas_de_milho], "a casca cobrindo uma espiga de milho").
+entrada(cornice, v, [corniced, cornicing, cornices], "decorar com uma moldura").
+entrada(corniche, n, [corniches], "uma estrada construída ao longo de um penhasco").
+entrada(cornicle, n, [cornicles], "uma parte de um afídeo").
+entrada("corner", comparativo, [], "de cafona").
+entrada(corniest, superlativo, [], "de corny").
+entrada(cornificar, v, [cornificado, cornificando, cornifica], "formar queratina").
+entrada(cornily, adv, [], "de uma maneira brega").
+entrada(farinha_de_milho, n, [farinhas_de_milho], "farinha feita de milho").
+entrada(cornpone, n, [cornpones], "um pão feito com fubá").
+entrada(cornrow, v, [trançado, trançando, tranças], "trançar o cabelo apertadamente em fileiras próximas ao couro cabeludo").
+entry(cornsilk, n, [cornsilks], "um fio sedoso em uma espiga de milho").
+entrada(cornu, n, [cornua], "uma formação óssea semelhante a um chifreCORNUAL adj").
+entrada(cornus, n, [cornuses], "um cornel").
+entrada(cornute, adj, [], "em forma de chifre").
+entrada(cornuted, adj, [], "cornuto").
+entrada(cornuto, n, [cornutos], "o marido de uma esposa infiel").
+entrada(corny, adj, [], "CORNIER CORNIESTtrivial").
+entrada(corody, n, [corodies], "uma concessão de alimentos ou roupas").
+entrada(corolla, n, [corolas], "um revestimento protetor de uma flor").
+entrada(corona, n, [coronas], "ou CORONAEA um círculo luminoso ao redor de um corpo celeste").
+entrada(coronach, n, [coronachs], "uma lamentação").
+entrada(coronal, n, [coronais], "uma coroa usada na cabeça").
+entrada(coronaria, n, [coronarias], "uma artéria que fornece sangue ao coração").
+entrada(coroar, v, [coroado,coroando,coroa], "coroar").
+entrada(coronel, n, [coronéis], "coronal").
+entry(coronel, n, [coroneis], "um oficial que investiga mortes questionáveis").
+entry(coroa_pequena, n, [coroas_pequenas], "uma pequena coroa").
+entrada(coronoide, adj, [], "em forma de coroa").
+entry(corotate, v, [corotated,corotating,corotates], "girar juntos").
+entrada(corozo, n, [corozos], "uma palmeira tropical").
+entrada(corpora, a, [], "pl de corpus").
+entrada(cabo, n, [cabos], "uma patente militar").
+entry(corpos, n, [corpos], "uma unidade militar").
+entry(cadáver, n, [cadáveres], "um corpo morto").
+entrada(socorrista, n, [socorristas], "um homem alistado treinado em primeiros socorros").
+entrada(corpo, n, [corpos], "ou CORPUSo corpo de um humano ou animal").
+entrada(corrade, v, [corraded, corrading, corrades], "erosionar").
+entrada(corral, v, [corralled,corralling,corrals], "para colocar gado em um curral ou cercado").
+entrada(correto, adj, [], "CORRETO MAIS CORRETO LIVRE DE ERRO").
+entrada(corrigir, v, [corrigido,corrigindo,corrige], "tornar livre de erro").
+entrada(corretto, n, [correttos], "espresso misturado com conhaque ou licor").
+entrada(corrida, n, [corridas], "uma tourada").
+entrada(corredor, n, [corredores], "um corredor estreito").
+entrada(corrie, n, [corries], "um anfiteatro glaciar").
+entrada(corrival, n, [corrigens], "um rival ou oponente").
+entrada(corroer, v, [corroeu,corroendo,corroem], "desgastar gradualmente").
+entrada(corrody, n, [corrodies], "corody").
+entrada(corrupto, adj, [], "CORRUPTÍSSIMO CORRUPTÍSSIMA desonesto e venal").
+entrada(corrupt, v, [corrupted, corrupting, corrupts], "subverter a honestidade ou integridade de").
+entrada(corsac, n, [corsacs], "uma raposa asiática").
+entrada(corsage, n, [corsages], "um pequeno buquê de flores").
+entrada(corsair, n, [corsários], "um pirata").
+entrada(corse, n, [corses], "um cadáver").
+entry(corselet, n, [corseletes], "uma peça de armadura corporal").
+entrada(corselete, v, [corseletes, corseletando, corseletados], "ajustar com um corselete uma peça de roupa íntima de suporte").
+entry(corseletaria, n, [corseletarias], "o trabalho de fazer corpetes").
+entrada(corslet, n, [corslets], "corselet").
+entry(cortege, n, [corteges], "um séquito").
+entrada(cortex, n, [cortexes], "ou CORTICESa camada externa de um órgãoCORTICAL adj").
+entrada(cortina, n, [cortinas], "um hormônio").
+entry(cortina, n, [cortinas], "uma membrana em alguns cogumelos").
+entry(cortisol, n, [cortisóis], "um hormônio").
+entrada(cogovernante, n, [cogovernantes], "aquele que governa conjuntamente").
+entrada(corindon, n, [corindons], "um mineral duro").
+entrada(corvee, n, [corvees], "uma obrigação de prestar serviço feudal").
+entry(corves, pl, [], "de corf").
+entry(corveta, n, [corvetas], "corvette").
+entrada(corveta, n, [corvetas], "um pequeno navio de guerra ágil").
+entrada(corvídeo, n, [corvídeos], "qualquer membro de uma família de aves passeriformes").
+entrada(corvina, n, [corvinas], "corbina").
+entrada(corvine, adj, [], "pertencente ou pertencendo à família dos corvos").
+entrada(cory, n, [cory], "uma antiga unidade monetária da Guiné").
+entry(corybant, n, [corybants], "ou CORYBANTES um folião").
