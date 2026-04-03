@@ -5,13 +5,13 @@ import predicates from "./prolog/predicates.pl?raw";
 import entries from "./prolog/words.pl?raw";
 import unit_tests from "./prolog/unit_test_builtins.pl?raw";
 import library_tests from "./prolog/unit_test_libraries.pl?raw";
+import { DictionaryChecker } from "./utils/DictionaryChecker";
 
 let english;
 let unitTests;
 let libraryTests;
 
 export const Resolve = () => {
-
   const [res1, setRes1] = createSignal("")
   //
   const [res2, setRes2] = createSignal("")
@@ -57,7 +57,7 @@ export const Resolve = () => {
   return (
     <div class="border border-fuchsia-800 text-xs w-full py-[2vh] px-[2vw] relative place-items-center bg-fuchsia-50">
       <span class="text-fuchsia-800">RESOLUTIONS</span>
-      <div class="flex flex-col hover:cursor-pointer bg-amber-100">
+      <div class="flex flex-col hover:cursor-pointer bg-amber-100 gap-y-4">
         <div>QUERY: {query() || "empty"}</div>
         <div>{ res1() || "loading..."}</div>
       </div>
@@ -75,6 +75,7 @@ export const Resolve = () => {
           : "Default libraries Unit Test..."
         }
       </div>
+      <DictionaryChecker />
       <button class="hover:cursor-pointer" onClick={handleNext}>NEXT</button>
     </div>
   );
