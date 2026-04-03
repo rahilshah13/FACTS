@@ -1,4 +1,4 @@
-// tinygo build -o main.wasm -target wasm ./check_translation_uniformity.go
+// tinygo build -o translation_checker.wasm -target wasm ./translation_checker.go
 package main
 
 import (

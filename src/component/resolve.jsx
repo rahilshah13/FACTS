@@ -6,6 +6,7 @@ import entries from "./prolog/words.pl?raw";
 import unit_tests from "./prolog/unit_test_builtins.pl?raw";
 import library_tests from "./prolog/unit_test_libraries.pl?raw";
 import { DictionaryChecker } from "./utils/DictionaryChecker";
+import { SvgGen } from "./utils/SvgGen";
 
 let english;
 let unitTests;
@@ -76,6 +77,7 @@ export const Resolve = () => {
         }
       </div>
       <DictionaryChecker />
+      <SvgGen />
       <button class="hover:cursor-pointer" onClick={handleNext}>NEXT</button>
     </div>
   );

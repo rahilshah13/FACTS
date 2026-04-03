@@ -1,5 +1,5 @@
 import { createSignal, onMount } from "solid-js";
-import wasmUrl from "../TinyGo/main.wasm?url";
+import wasmUrl from "../TinyGo/translation_checker.wasm?url";
 import wasmExecUrl from "../TinyGo/wasm_exec.js?url";
 
 export const DictionaryChecker = () => {
