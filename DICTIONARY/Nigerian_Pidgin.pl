@@ -1389,3 +1389,22 @@ entry(amputate, v, [cut_am,cutting_am,cut_am_commot], "to cut off by surgical me
 entry(amputee, n, [amputees], "person wey don loose im hand or leg through operation").
 entry(amreeta, n, [amreetas], "amrita").
 entry(amrit, n, [amrits], "amrita").
+entry(amrita, n, [amritas], "drink wey dey give person eternal life for Hindu tori").
+entry(amtrac, n, [amtracs], "na military vehicle wey fit waka for land and water").
+entry(amtrack, n, [amtracks], "amtrac").
+entry(amtrak, n, [amtraks], "amtrak").
+entry(amu, n, [amus], "one unit of mass").
+entry(amok, n, [amoks], "craze").
+entry(amulet, n, [amulets], "something wey person fit wear to protect imself against bad tin or injury").
+entry(amuse, v, [amused,amusing,amuses], "to dey make person schargeAMUSABLE adjAMUSEDLY adv").
+entry(amuser, n, [amusers], "person wey dey make others happy").
+entry(amusia, n, [amusias], "di inability to sabi musical sound").
+entry(amusive, adj, [], "amuse person").
+entry(amygdala, n, [amygdalae], "one almond-shaped part for body").
+```prolog
+entry(amygdale, n, [di amygdales], "amygdule").
+```
+entry(amygdule, n, [amygdules], "na small gas bubble wey dey inside lava").
+entry(amyl, n, [amyls], "one ting wey carry one power").
+entry(amylase, n, [amylases], "na enzyme").
+entry(amylene, n, [amylenes], "one flammable liquid").

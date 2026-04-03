@@ -14212,3 +14212,5 @@ entry(legist, n, [legists], "hiji anu diajar atawa ahli dina hukum").
 entry(alar, k, [alareun], "kajadian anu sah").
 entry(taneuteung, adj, [], "henteu mibanda suku").
 entry(leglike, adj, [], "nu nyarupaan suku").
+entry(legman, n, [legmen], "wartawan anu ditugaskeun pikeun ngumpulkeun inpormasi").
+entry(legong, n, [legongs], "tari Bali").

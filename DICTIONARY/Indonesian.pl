@@ -1942,3 +1942,32 @@ entry(apteral, adj, [], "aptera").
 entry(apterium, n, [apteria], "area kulit kosong antara bulu").
 entry(apterous, adj, [], "tidak memiliki sayap").
 entry(apteryx, n, [apteryxes], "burung kiwi").
+entry(bakat, n, [bakat], "sebuah kemampuan").
+entry(aptly, adv, [], "dengan cara yang tepat").
+entry(kecocokan, n, [kecocokan-kecocokan], "kualitas menjadi tepat").
+entry(apyrase, n, [apyrases], "suatu enzim").
+entry(apyretic, adj, [], "tidak demam").
+entry(aqua, n, [aquas], "atau AQUAEair suatu cairan transparan tidak berasa tidak berbau").
+entry(aquacade, n, [aquacades], "sebuah pameran renang dan menyelam").
+entry(aquafarm, v, [aquafarmed,aquafarming,aquafarms], "untuk membudidayakan ikan pangan").
+entry(aquafit, n, [aquafits], "kelas olahraga di dalam air").
+entry(aquanaut, n, [penyelam_akuanaut], "penyelam scuba yang dilatih untuk tinggal di instalasi bawah air").
+entri(aquaria, a, [], "jamak dari akuarium").
+entry(aquarial, adj, [], "berkaitan dengan akuarium").
+entry(aquarian, n, [aquarians], "anggota sekte lama yang menggunakan air daripada anggur dalam upacara keagamaan").
+entry(aquarist, n, [aquarists], "seseorang yang memelihara akuarium").
+entry(aquarium, n, [akuarium], "atau AKUARIAsebuah wadah berisi air di mana hewan akuatik dipelihara").
+entry(akuatik, n, [akuatik], "organisme yang hidup atau tumbuh di dalam atau di dekat air").
+entry(aquatint, v, [aquatinted,aquatinting,aquatints], "untuk mengukir menggunakan proses tertentu").
+entry(aquatone, n, [aquatones], "jenis proses pencetakan").
+entry(aquavit, n, [aquavits], "minuman keras Skandinavia").
+entry(akuaduk, n, [akuaduk-akuaduk], "saluran air").
+entry(aqueous, adj, [], "berhubungan dengan air").
+entry(akuifer, n, [akuifer-akuifer], "formasi batuan yang mengandung air").
+entri(berbentuk_elang, adj, [], "melengkung seperti paruh elang").
+entry(aquiver, adj, [], "gemetar").
+entry(ar, n, [ars], "huruf R").
+entry(arabesk, n, [arabesks], "sebuah desain figur bunga yang saling terkait").
+entry(arab, adj, [], "berasal dari getah arab").
+entry(arabika, n, [arabika], "semak hijau abadi yang menghasilkan biji kopi").
+entry(arabis, n, [arabises], "tanaman yang membentuk tikar").

@@ -484,3 +484,15 @@ entry(admass, n, [admasses], "Massenmedienwerbung").
 entry(admin, n, [Administratoren], "eine Verwaltung").
 Eintrag(admiral, n, [admiräle], "ein hochrangiger Marineoffizier").
 entry(bewundern, v, [bewundert,bewundernd,bewundert], "mit Staunen, Vergnügen und Zustimmung betrachten").
+entry(verehrer, n, [verehrer], "jemand, der bewundert").
+entry(aufnahme, v, [aufgenommen,aufnehmend,aufnimmt], "den Eintritt erlauben").
+entry(admittee, n, [Zugelassene], "eine Person, die zugelassen ist").
+Eintrag(admitter, n, [admitters], "jemand, der zulässt").
+Eintrag(admix, v, [admixt, admixing, admixes], "mischen").
+entry(ermahnen, v, [ermahnte,ermahnend,ermahnt], "mild oder freundlich tadeln").
+entry(adnate, adj, [], "mit einem anderen Teil oder Organ verbunden").
+Eintrag(adnation, n, [adnationen], "der Zustand des Angewachsenseins").
+entry(adnexa, npl, [], "verbundene anatomische TeileADNEXAL adj").
+entry(adnoun, n, [Adjektivsubstantive], "ein Adjektiv, wenn es als Substantiv verwendet wird").
+entry(ado, n, [ados], "geschäftiges Treiben").
+entry(adobe, n, [adobes], "ein ungebrannter, sonnengetrockneter Ziegel").

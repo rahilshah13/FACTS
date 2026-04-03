@@ -17863,3 +17863,37 @@ entry(pattee, visesan, [], "paty").
 entry(patten, n, [pattens], "ek jutta jiske moti lakdi ke tala hoPATTENED adj").
 entry(patter, v, [pattered,pattering,patters], "labbal-jabbal ya teej teej batar").
 entry(patterer, n, [patterers], "एक जवन फट-फट बोलेला").
+entry(पैटर्न, v, [पैटर्नड,पैटर्निंग,पैटर्न्स], "नियत डिजाइन के अनुसार बनावे के").
+```
+entry(pattest, superlative, [], "के पाट").
+```
+entry(pattie, n, [patties], "पैटी").
+entry(patting, present, [], "pat के क्रिया विशेषण").
+entry(patty, n, [patties], "ek chhota gola tori murga kha jawar bhojan").
+entry(pattypan, n, [pattypans], "ek pan jismein patties bake kaila jaala").
+entry(patulent, visheshan, [], "patulous").
+entry(फइलल, विशेषण, [], "फइल गइल खुलल").
+entry(paty, visheshan, [], "formee").
+entry(patzer, n, [patzers], "एक अनाड़ी शतरंज खिलाड़ी").
+प्रविष्टि(पउआ, सं, [पउआस], "एक बड़ न्यूज़ीलैंड खोलके मछली").
+entry(paucity, n, [kami], "sankhya ya matra ke chhota houna").
+entry(paughty, visheshan, [], "ghamandi").
+entry(pauldron, n, [pauldrons], "kandha ke liye ek kagaj ke banawal armor").
+entry(paulin, n, [paulins], "bagadaar paanirokh kapraa").
+entry(pet, n, [petan], "tona athwa udarPAUNCHED adj").
+entry(paitik, visesan, [], "PAITIK PAIKATI IK ichhin pait aisan").
+entry(pauper, v, [paupered,paupering,paupers], "गरीबी में डालल").
+entry(pausal, adj, [], "bolat ya likhat waqt me break ya aram se sambandhit").
+entry(pause, v, [rukal,rukte,ruke], "thodik ber khatir roke ke").
+entry(pauser, n, [pausers], "ek jo roke").
+entry(pavan, n, [pavans], "ek dheere aur maan se bharel naach").
+entry(pavane, n, [pavanes], "पवन").
+entry(lepe, v, [lepal,lepate,lepata], "ek material se dhakna jo ek majbut aur samatal satah banawat hai").
+entry(paveed, visheṣaṇ, [], "ekṭhṭhan log ke sāt-sāt rakh ke dhātu ke ādhār ke chhipāwe").
+entry(paat, n, [paaṭi], "ek paaved surface").
+entry(paver, n, [pavers], "ek jo pave karela").
+entry(pavid, visheshan, [], "buino").
+entry(pavilion, v, [pavilioned,pavilioning,pavilions], "बड़ टेंट से ढके के").
+entry(pavillon, n, [pavillons], "ek bayri badhiya ke ghanti").
+entry(pavin, n, [pavins], "पवन").
+`entry(paving, n, [pavings], "pagdandi").`

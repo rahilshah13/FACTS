@@ -1357,3 +1357,60 @@ entry(amoebean, 形容詞, [], "amebean").
 entry(amok, n, [狂奔, 暴走], "殺人的狂亂").
 entry(amole, 名词, [amoles], "一种用作肥皂替代品的植物根").
 entry(among, prep, [], "在...中间")
+entry(當中, 介詞, [], "當").
+entry(amoral, 形容词, [], "缺乏对与错的判断是非观AMORALLY 副词").
+entry(amoretto, n, [amorettos], "即或AMORETTIa 畀愛神").
+entry(愛神仔, n, [愛神仔], "一個小愛神").
+entry(戀人, n, [戀人們], "情人").
+entry(amoroso, n, [amorosos], "一种酒").
+entry(戀愛, 形容詞, [], "關於愛情").
+entry(無命, 形容詞, [], "喪失生命").
+entry(攤銷, v, [已攤銷,正攤銷,攤銷], "to amortize").
+entry(攤還, v, [攤還咗,攤緊還,攤還], "逐步清償作為負債").
+entry(amosite, n, [amosites], "一种石棉").
+entry(撤職, n, [撤職], "從其職位上撤去公司管理人員").
+entry(數量, v, [總額,合計中,總數], "合併產生一個總數").
+entry(愛情, 名詞, [愛情故事], "一段戀情").
+entry(放大器, 動詞, [放大, 放大中, 放大器], "放大").
+entry(電流量, n, [電流量], "以安培表達的電流強度")。
+entry(安培, n, [安培], "电流强度的单位").
+entry(兩棲動物, npl, [], "適應於陸地和水中生活嘅生物").
+entry(文昌鱼, npl, [], "lancelets").
+entry(雙殼貝, n, [雙殼貝], "小型甲殼類動物").
+```prolog
+entry(雙耳瓶, n, [雙耳瓶], "或 AMPHORAE 一種在古希臘使用的細頸瓶 AMPHORAL 形容詞").
+```
+entry(ample, adj, [], "較多 最多 充裕 充足 地 adv").
+entry(交合, n, [交合], "蛙类交配时的拥抱姿势").
+entry(增強, 動詞, [增強了, 正在增強, 增強], "使更大或更強大").
+entry(安瓿, n, [安瓿], "ampule").
+entry(安瓿, n, [安瓿], "安瓿").
+entry(安瓿, n, [安瓿], "一种小玻璃瓶").
+entry(安玻拉, n, [安玻拉], "一種在古羅馬使用的球形瓶AMPULLAR 形容詞").
+entry(amreeta, n, [amreetas], "阿姆里塔").
+entry(amrit, n, [amrits], "甘露").
+entry(阿姆利塔, n, [阿姆利塔們], "印度神話中賜予不死之力的飲品").
+entry(amtrac, n, [兩棲突擊車], "一種能在陸地和水上行駛的軍用車輛").
+entry(amtrack, n, [amtracks], "兩棲突擊載具").
+entry(amtrak, n, [amtraks], "亞姆特").
+entry(原子質量單位, n, [原子質量單位的複數形式], "一種質量單位").
+entry(橫衝直撞, n, [橫衝直撞們], "amok").
+entry(護身符, n, [護身符], "用於抵擋邪惡或傷害的物品").
+```prolog
+entry(娛樂, v, [娛樂著,娛樂中,娛樂s], "以令人愉快地佔據AMUSABLE adj 娛樂地 adv").
+```
+entry(令人高兴的人, n, [令人高興的人], "一個令人高兴的人").
+entry(音盲, n, [音盲症], "无法辨识音乐声音的能力").
+entry(有趣, 形容词, [], "逗人笑").
+entry(杏仁核, n, [杏仁核], "一個杏仁形狀嘅解剖部位").
+entry(杏仁体, n, [杏仁体], "火成腔球").
+entry(杏仁泡, n, [杏仁泡], "熔岩中的小气泡").
+entry(亞米爾, n, [亞米爾基], "一價的基團").
+entry(戊基, 形容詞, [], "關於戊基").
+entry(amylogen, n, [amylogens], "澱粉").
+entry(類澱粉, n, [類澱粉沉積物], "由於組織退化而形成的硬蛋白沉積物").
+entry(直鏈澱粉, n, [直鏈澱粉], "澱粉中較易溶解的成分")。
+entry(澱粉, n, [澱粉], "澱粉，一種固態碳水化合物").
+entry(an, 不定, [], "用于元音音调单词前的冠词").
+entry(ana, n, [anas], "關於特定主題的雜項信息集合")。
+entry(anabaena, n, [水花生], "一种淡水藻类").

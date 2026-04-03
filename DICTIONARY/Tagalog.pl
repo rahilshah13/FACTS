@@ -230,3 +230,13 @@ entry(accentor, n, [accentors], "isang ibong mandaragit").
 entry(tanggap, v, [tinanggap,tumatanggap,tumatanggap], "ang tumanggap ng maluwag sa kalooban").
 entry(acceptee, n, [acceptees], "isang tanggap").
 entry(tumatanggap, n, [mga tumatanggap], "isa na tumatanggap").
+entry(tumatanggap, n, [tumatanggap], "tumatanggap").
+entry(access, v, [na-access, ina-access, ina-access], "makarating sa").
+entry(aksidente, n, [mga aksidente], "isang hindi inaasahan o hindi sinasadyang pangyayari").
+entry(accidia, n, [accidias], "acedia").
+entry(accidie, n, [accidies], "acedia").
+entry(purihin, v, [pinuri, pinupuri, pinupuri], "sumigaw ng pagsang-ayon").
+entry(parangal, v, [pinarangalan, pinaparangalan, pararangalan], "purihin").
+entry(ayon, v, [inayon,inayayon,inayon], "upang magdala sa pagkakasundo").
+entry(accorder, n, [mga tagapagkasundo], "isang nagbibigay ng kasunduan").
+entry(usal, v, [inusal,inusasal,usalin], "lumapit at unang kumausap").

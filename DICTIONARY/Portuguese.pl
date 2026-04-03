@@ -7739,3 +7739,924 @@ entrada(corvina, n, [corvinas], "corbina").
 entrada(corvine, adj, [], "pertencente ou pertencendo à família dos corvos").
 entrada(cory, n, [cory], "uma antiga unidade monetária da Guiné").
 entry(corybant, n, [corybants], "ou CORYBANTES um folião").
+entrada(dabujar, v, [dabujó, dabujando, dabujan], "envolver-se em um interesse superficial").
+entrada(dabbler, n, [dabblers], "aquele que se aventura").
+entrada("dabbling", n, ["dabblings"], "um interesse superficial").
+entrada(dabchick, n, [dabchicks], "um pequeno mergulhão").
+entrada(dabster, n, [dabsters], "um diletante").
+entrada(dace, n, [daces], "um peixe de água doce").
+entrada(dacha, n, [dachas], "uma casa de campo russa").
+entrada(dacite, n, [dacites], "uma rocha cinza clara").
+entrada(dacker, v, [dackered, dackering, dackers], "vacilar").
+entry(dacoit, n, [dacoits], "um bandido na Índia").
+entrada(dacoity, n, [assaltos], "roubo por dacoits").
+entrada(dáctilo, n, [dáctilos], "um tipo de pé métrico").
+entrada(dactílico, n, [dactílicos], "um verso composto por dátilos").
+entrada(dactylus, n, [dactyli], "uma articulação da perna de certos insetos").
+entrada(pai, n, [pais], "pai").
+entrada(dada, n, [dadas], "um movimento artístico e literário").
+entrada(dadaismo, n, [dadaismos], "o movimento dada").
+entrada(dadaísta, n, [dadaístas], "um seguidor do dadaísmo").
+entrada(daddle, v, [daddled, daddling, daddles], "enganar").
+entrada(pai, n, [pais], "pai").
+entrada(dadgum, adj, [], "usado como intensificador").
+entrada(dado, v, [dadoe,dadando,dados], "ou DADAR para encaixar em um sulco").
+entry(daedal, adj, [], "habilidoso").
+entrada(demônio, n, [demônios], "demoníaco adj").
+entrada(daemon, n, [daemons], "ou DAEMONESdaimon").
+entrada(daff, v, [daffed, daffing, daffs], "empurrar para o lado").
+entrada(narciso, n, [narcisos], "uma planta com flores").
+entrada(daffy, adj, [], "DAFFIER DAFFIESTboboDAFFILY adv").
+entrada(daft, adj, [], "MAIS_TOLINHO MAIS_TOLINHOSinsanoTOLINHAMENTE adv").
+entrada(tolice, n, [tolices], "a qualidade de ser tolo").
+entrada(dag, n, [retalhos], "uma ponta solta ou retalho").
+entry(dagga, n, [daggas], "maconha").
+entry(adaga, v, [adagas, adaguando, adagou], "esfaquear com uma pequena faca").
+entrada(daggle, v, [daggled, daggling, daggles], "arrastar na lama").
+entrada(tranca_suja, n, [trancas_sujas], "uma mecha de lã suja ou emaranhada").
+entrada(dagoba, n, [dagobas], "um santuário budista").
+entrada(dagwood, n, [dagwoods], "um sanduíche grande").
+entrada(dah, n, [dahs], "um traço em código Morse").
+entry(dahabeah, n, [dahabeahs], "um grande barco de passageiros").
+entrada(dahabiah, n, [dahabiahs], "dahabeah").
+entrada(dahabieh, n, [dahabiehs], "dahabeah").
+entrada(dahabia, n, [dahabias], "dahabeia").
+entry(dahl, n, [dahls], "dal").
+entrada(dahlia, n, [dahlias], "uma planta com flores").
+entrada(dahoon, n, [dahoons], "uma árvore perene").
+entry(daidzein, n, [daidzeins], "um produto químico encontrado principalmente em soja").
+entrada(daiker, v, [daikered, daikering, daikers], "dacker").
+entrada(daikon, n, [daikons], "um rabanete japonês").
+entrada(diário, n, [diários], "um jornal publicado todos os dias da semana").
+entry(daimen, adj, [], "ocasional").
+entrada(daimio, n, [daimios], "um ex-nobre japonês").
+entrada(daimon, n, [daimons], "ou DAIMONESum espírito assistenteDAIMÔNICO adj").
+entrada(daimyo, n, [daimyos], "daimio").
+entrada(delicado, adj, [], "DELICADAMENTE adv").
+entrada(delicado, n, [delicados], "algo delicioso").
+entrada(daiquiri, n, [daiquiris], "um coquetel").
+entrada(laticínios, n, [laticínios], "um estabelecimento que lida com produtos lácteos").
+entrada(laticínio, n, [laticínios], "o negócio de um laticínio").
+entry(leiteiro, n, [leiteiros], "um homem que trabalha em ou possui uma leiteira").
+entrada(dais, n, [daises], "uma plataforma elevada").
+entry(daishiki, n, [daishikis], "daishiki").
+entry(daisy, n, [margaridas], "uma planta com floresDAISIED adj").
+entrada(dak, n, [daks], "transporte por turnos de homens e cavalos").
+entrada(dakerhen, n, [dakerhens], "um pássaro europeu").
+entrada(dakoit, n, [dakoits], "dacoit").
+entrada(dakoity, n, [dakoities], "dacoity").
+entrada(dal, n, [dals], "um prato de lentilhas e especiarias na Índia").
+entrada(dalapon, n, [dalapons], "um herbicida usado em gramíneas indesejadas").
+entry(dalasi, n, [dalasis], "uma unidade da moeda da Gâmbia").
+entry(dale, n, [dales], "um vale").
+entrada(daledh, n, [daledhs], "daleth").
+entrada(dalesman, n, [dalesmen], "um que vive em um vale").
+entrada(daleth, n, [daleths], "uma letra hebraica").
+entrada(dalles, npl, [], "rápidos").
+entrada(parasita, n, [parasitas], "aquele que hesita").
+entry(dally, v, [vagueou,vagueando,vagueia], "perder tempo").
+entry(dalmática, n, [dalmáticas], "uma veste de mangas largas").
+entrada(dalton, n, [daltons], "uma unidade de massa atômica").
+entry(daltonico, adj, [], "relativo a uma forma de daltonismo").
+entry(dam, v, [represar, represando, represas], "construir uma barreira para obstruir o fluxo de água").
+entry(dano, v, [danificado,danificando,danos], "injuriar").
+entry(damager, n, [danificadores], "aquele que danifica").
+entrada(daman, n, [damans], "um pequeno mamífero").
+entrada(damar, n, [damars], "dammar").
+entrada(damasco, v, [damascado,damascando,damascos], "tecer com design elaborado").
+entrada(dama, n, [damas], "uma matrona").
+entry(damewort, n, [dameworts], "uma planta com flores").
+entrada(damfool, n, [damfools], "uma pessoa estúpida ou tola").
+entrada(damiana, n, [damianas], "um arbusto tropical americano").
+entrada(dammar, n, [dammars], "uma resina dura").
+entrada(reprimido, passado, [], "tempo de represar").
+entrada(dammer, n, [dammers], "dammar").
+entry(damming, presente, [], "particípio de dam").
+entry(dammit, interj, [], "usado para expressar raiva").
+entrada(maldição, v, [amaldiçoado,amaldiçoando,amaldiçoa], "amaldiçoar").
+entrada(damnable, adj, [], "detestávelADVÉRBIO damnably").
+entrada(damndest, n, [damndests], "máximo").
+entrada(damned, adj, [], "DAMNEDER DAMNEDEST ou DAMNDESTmaldito").
+entrada(damner, n, [damners], "aquele que condena").
+entrada(damnest, n, [damnests], "damndest").
+entrada(damnificar, v, [damnificou,damnificando,damnifica], "causar perda ou dano a").
+entrada(damosel, n, [damosels], "donzela").
+entrada(damozel, n, [damozels], "donzela").
+entrada(húmido, adj, [], "MAIS HÚMIDO O MAIS HÚMIDOúmido").
+entrada(húmido, v, [umedecido,umedecendo,umedeces], "diminuir a intensidade").
+entrada(amortecer, v, [amortecido, amortecendo, amortece], "umidecer").
+entrada(amortecedor, n, [amortecedores], "um que amortece").
+entrada(amortecedor, n, [amortecedores], "um que amortece").
+entrada(amortecimento, n, [amortecimentos], "a capacidade de um dispositivo de prevenir a instabilidade").
+entrada(encharcado, adj, [], "um pouco úmido").
+entrada(humidamente, adv, [], "de maneira úmida").
+entrada(umidade, n, [umidades], "o estado de estar úmido").
+entrada(donzela, n, [donzelas], "uma donzela").
+entrada(damson, n, [damsons], "uma pequena ameixa roxa").
+entry(dan, n, [dans], "um nível de habilidade em artes marciais").
+entrada(danazol, n, [danazóis], "um andrógeno sintético").
+entrada(dancar, v, [dancou,dancando,danca], "mover-se ritmicamente ao som da música").
+entrada(dancarino, n, [dancarinos], "aquele que dança").
+entrada(dancey, adj, [], "MAIS DANÇANTE MAIS DANÇANTEadequado para dançar").
+entry(casual, v, [passeou,passeando,passeia], "passear").
+entrada(dandier, comparativo, [], "de dândi").
+entrada(dandies, pl, [], "de dândi").
+entrada(dandiest, superlativo, [], "de dandy").
+entrada(dandificar, v, [dandificado, dandificando, dandifica], "causar a assemelhar-se a um dândi").
+entrada(dandily, adv, [], "de maneira dândi").
+entrada(dandle, v, [dandled,dandling,dandles], "acariciar").
+entrada(dandler, n, [dandlers], "aquele que embala").
+entry(caspa, n, [caspas], "dandruff").
+entry(caspa, n, [caspas], "uma escama que se forma no couro cabeludo").
+entrada(dandy, adj, [], "DANDIER DANDIESTfine").
+entrada(dandy, n, [dandies], "um homem que se preocupa excessivamente com sua aparência").
+entry(dandyish, adj, [], "sugestivo de um dândi").
+entrada(dandismo, n, [dandismos], "o estilo ou comportamento de um dândi").
+entrada(danegeld, n, [danegelds], "um imposto anual na Inglaterra medieval").
+entrada(danegelt, n, [danegelts], "danegeld").
+entrada(daneweed, n, [daneweeds], "um danewort").
+entrada(danewort, n, [daneworts], "uma planta com flores").
+entry(dang, v, [danged,danging,dangs], "amaldiçoar").
+entrada(perigo, v, [perigou,perigando,perigos], "colocar em perigo").
+entrada(danglar, v, [danglou, danglando, dangla], "pendurar solto").
+entrada(dangler, n, [danglers], "um que balança").
+entrada(dangly, adj, [], "DANGLIER DANGLIESTdangling").
+entrada(danio, n, [danios], "um peixe de aquário").
+entry(dinamarquês, n, [pastéis], "uma massa de massa fermentada").
+entrada(dank, adj, [], "DANKER DANKESTdesagradavelmente úmidoDANKLY adv").
+entry(umidade, n, [umidades], "o estado de ser úmido").
+entry(dansak, n, [dansaks], "dhansak").
+entrada(danseur, n, [danseurs], "um bailarino de balé").
+entry(danseuse, n, [danseuses], "uma bailarina").
+entrada(dap, v, [dapped,dapping,daps], "mergulhar levemente ou rapidamente na água").
+entrada(daphne, n, [daphnes], "um arbusto com flores").
+entrada(daphnia, n, [daphnias], "um pequeno crustáceo").
+entrada(dapper, adj, [], "DAPPERER DAPPERESTparecendo elegante e arrumadoDAPPERLY adv").
+entrada(dapping, presente, [], "particípio de dap").
+entrada(dapple, v, [dappled,dappling,dapples], "marcar com manchas").
+entrada(dapsona, n, [dapsonas], "uma substância medicinal").
+entrada(darb, n, [darbs], "algo considerado extraordinário").
+entrada(darbar, n, [darbars], "durbar").
+entrada(darbies, npl, [], "algemas").
+entrada(ousar, v, [ousou,ousando,ousa], "ter a coragem necessária").
+entrada(dareful, adj, [], "corajoso").
+entrada(ousado, n, [ousados], "aquele que ousa").
+entrada(daresay, v, [], "arriscar a dizer DARESAY é a única forma deste verbo, não é conjugado").
+entrada(daric, n, [daricos], "uma moeda persa antiga").
+entrada(audacioso, n, [audaciosos], "coragem").
+entrada(audaciosamente, adv, [], "de maneira corajosa").
+entrada(dariole, n, [darioles], "um tipo de pastel recheado com creme de confeiteiro ou geleia").
+entrada(escuro, adj, [], "MAIS ESCURO, O MAIS ESCURO tendo pouca ou nenhuma luz").
+entrada(escurecer, v, [escureceu, escurecendo, escurece], "escurecer").
+entrada(escurecer, v, [escureceu, escurecendo, escurece], "tornar escuro").
+entrada(embaçador, n, [embaçadores], "aquele que embaça").
+entry(medioescuro, adj, [], "um tanto escuro").
+entrada(escurecer, v, [escureceu, escurecendo, escurece], "tornar-se escuro").
+entry(sombroso, n, [sombrosos], "a escuridão").
+entrada(escura, adv, [], "DE MANEIRA MAIS ESCURA MAIS ESCURA").
+entrada(escuridão, n, [escuridões], "o estado de ser escuro").
+entrada(sala_escura, n, [salas_escuras], "uma sala em que o filme é processado").
+entrada(sombrio, adj, [], "escuro").
+entry(querido, n, [queridos], "uma pessoa muito amada").
+entrada(darn, v, [darned,darning,darns], "remendar com pontos entrelaçados").
+entrada(darndest, n, [darndests], "damndest").
+entrada(maldições, adj, [], "MAIS MALDITO MAIS MALDITO ou MAIS MALDITO amaldiçoado").
+entry(darnel, n, [darnels], "uma gramínea anual").
+entry(libélula, n, [libélulas], "uma que cerze").
+entrada(darnest, n, [darnests], "damndest").
+entrada(remendo, n, [remendos], "coisas a serem remendadas").
+entry(darshan, n, [darshans], "uma bênção hindu").
+entrada(dardo, v, [dardejou,dardejando,dardeja], "mover-se repentinamente ou rapidamente").
+entry(darter, n, [darters], "aquele que dispara").
+entrada(dartle, v, [dartled,dartling,dartles], "dardejar repetidamente").
+entry(dash, v, [dashed,dashing,dashes], "atingir violentamente").
+entrada(taro, n, [taros], "uma planta tropical").
+entrada(dasheiro, n, [dasheiros], "aquele que dasher").
+entry(dashi, n, [dashis], "um caldo de peixe").
+entrada(dashier, comparativo, [], "de dashy").
+entrada(dashiest, superlativo, [], "de dashy").
+entrada(dashiki, n, [dashikis], "uma túnica africana").
+entrada(amortecedor, n, [amortecedores], "um absorvedor de choque").
+entrada(dashy, adj, [], "DASHIER DASHIESTestiloso").
+entrada(dassie, n, [dassies], "um hirax").
+entry(canalha, n, [canalhas], "um covarde vil").
+entrada(dasyure, n, [dasyures], "um mamífero carnívoro").
+entrada(dado, a, [], "pl de dado").
+entry(bancode_dados, n, [bancos_de_dados], "um banco de dados").
+entrada(banco_de_dados, v, [banco_de_dadose, bancodedadosando, bancos_de_dados], "colocar dados em um banco de dados uma coleção de dados em um computador").
+entry(datable, adj, [], "capaz de ser datado").
+entrada(datário, n, [datários], "um cardeal na Igreja Católica Romana").
+entrada(datcha, n, [datchas], "dacha").
+entrada(data, v, [datado, datando, datas], "determinar ou registrar a data deDATÁVEL adj").
+entrada(caderneta, n, [cadernetas], "um caderno para listar compromissos").
+entrada(datedly, adv, [], "de forma antiquada").
+entrada(sem_data, adj, [], "sem data").
+entrada(dateline, v, [datelined, datelining, datelines], "dar a uma reportagem sua data e local de origem").
+entrada(dater, n, [daters], "um que sai em encontros").
+entrada(dating, n, [datings], "o ato de quem se encontra").
+entrada(dativo, n, [dativos], "um caso gramaticalADJETIVAL adjFORMADAMENTE adv").
+entrada(dato, n, [dados], "datto").
+entry(datto, n, [dattos], "um chefe tribal filipino").
+entrada(dado, n, [dados], "ou algo DADOusado como base para calcular").
+entrada(datura, n, [daturas], "uma planta com floresDATÚRICO adj").
+entry(borrão, v, [borrado, borrando, borrões], "almofar").
+entry(daube, n, [daubes], "um guisado de carne").
+entry(dauber, n, [daubers], "aquele que aplica tinta").
+entry(daubery, n, [dauberies], "uma pintura ruim ou inexperiente").
+entry(daubry, n, [daubries], "bijuteria").
+entrada(dauby, adj, [], "DAUBIER DAUBIESTsmeary").
+entrada(filha, n, [filhas], "uma criança do sexo feminino").
+entry(daunder, v, [daundered,daundering,daunders], "caminhar lentamente").
+entrada(daunt, v, [daunted, daunting, daunts], "intimidar").
+entry(daunter, n, [daunters], "aquele que intimida").
+entrada(delfim, n, [delfins], "o filho mais velho de um rei francês").
+entrada(delfina, n, [delfinas], "a esposa de um delfim").
+entrada(daut, v, [dauted,dauting,dauts], "acariciar").
+entrada(dautie, n, [dauties], "um pequeno animal de estimação").
+entrada(daven, v, [davou,davando,dava], "recitar orações judaicas").
+entrada(davit, n, [paus_de_carga], "um dispositivo de içamento em um navio").
+entrada(davy, n, [davies], "uma lâmpada de segurança").
+entrada(daw, v, [dawed,dawen,dawing], "amanhecer DAWS").
+entrada(perder_tempo, v, [perdeu_tempo,perdendo_tempo,perde_tempo], "desperdiçar tempo").
+entrada(demora, n, [demoras], "aquele que demora").
+entrada(dawk, n, [dawks], "dak").
+entry(aurora, v, [aurorou, aurorando, aurora], "começar a clarear de manhã").
+entrada(amanhecer, n, [amanheceres], "aurora").
+entrada(dawnlike, adj, [], "sugestivo do amanhecer").
+entrada(dawt, v, [dawted,dawting,dawts], "dautear").
+entrada(dawtie, n, [dawties], "dautie").
+entrada(dia, n, [dias], "o tempo entre o nascer e o pôr do sol").
+entry(sofá-cama, n, [sofás-camas], "um sofá que pode ser convertido em uma cama").
+entrada(livro_diario, n, [livros_diarios], "um diário").
+entrada(amanhecer, n, [amanheceres], "o primeiro aparecimento de luz pela manhã").
+entrada(creche, n, [creches], "cuidado para crianças e adultos com deficiência durante o dia").
+entrada(devaneio, v, [devaneei, devaneando, devaneios], "fantasiar").
+entrada(efémera, n, [efémeras], "uma efemeróptera").
+entrada(dayglow, n, [dayglows], "luminescência atmosférica visível durante o dia").
+entrada(luz_do_dia, v, [iluminado,iluminação_diurna,ilumina_dia], "iluminar com a luz do dia").
+entrada(hemerocallis, n, [hemerocallis], "uma planta com flores").
+entrada(daylong, adj, [], "durando o dia todo").
+entrada(daymare, n, [daymares], "uma fantasia de pesadelo vivida enquanto acordado").
+entrada(daypack, n, [daypacks], "uma bolsa para carregar coisas que é presa nas costas").
+entrada(sala_de_convívio, n, [salas_de_convívio], "uma sala para leitura e recreação").
+entrada(diasail, v, [diasailou,diasailando,diasails], "navegar um iate por um dia").
+entrada(dayside, n, [daysides], "o lado ensolarado de um planeta ou da lua").
+entrada(daysman, n, [daysmen], "um árbitro").
+entrada(daystar, n, [daystars], "um planeta visível a leste logo antes do amanhecer").
+entrada(diurno, n, [diurnos], "dia").
+entrada(roupas_de_dia, n, [roupas_de_dia], "roupa adequada para ocasiões informais").
+entrada(trabalho_diario, n, [trabalhos_diarios], "trabalho realizado diariamente").
+entry(daze, v, [atordoado, atordoando, atordoa], "atordoarATORDOADAMENTE adv").
+entrada(deslumbrar, v, [deslumbrou, deslumbrando, deslumbra], "cegar com luz brilhante").
+entrada(dazzler, n, [dazzlers], "aquele que deslumbra").
+entrada(de, prep, [], "de de usado em nomes").
+entrada(diácono, v, [diáconou,diaconando,diaconas], "ler um hino em voz alta").
+entrada(diaconado, n, [diaconados], "um cargo clerical").
+entrada(dead, adj, [], "MAIS MORTO MAIS MORTOprivado de vida").
+entrada(morto, n, [mortos], "o período de maior intensidade").
+entrada(tremendo_preguiçoso, n, [tremendos_preguiçosos], "um vagabundo").
+entrada(deadbolt, n, [travas_de_segurança], "uma fechadura para uma porta").
+entrada(entorpecer, v, [entorpecido,entorpecendo,entorpece], "diminuir a sensibilidade ou o vigor de").
+entrada(amortecedor, n, [amortecedores], "aquele que amortece").
+entrada(deadeye, n, [deadeyes], "um atirador especialista").
+entry(queda-morta, n, [quedas-mortas], "um tipo de armadilha para animais").
+entrada(deadhead, v, [deadheadou, deadheadeando, deadheads], "viajar sem carga").
+entrada(mais_mortal, comparativo, [], "de mortal").
+entrada(mais_mortal, superlativo, [], "de mortal").
+entrada(deadlift, v, [deadlifted, deadlifting, deadlifts], "executar um tipo de levantamento em halterofilismo").
+entrada(prazo, v, [prazos, estipulando_prazo, prazos_finais], "estabelecer um limite de tempo para algo").
+entrada(deadlock, v, [deadlocked, deadlocking, deadlocks], "entrar em um impasse").
+entry(mortal, adj, [], "MORTAL MORTALÍSSIMO fatal").
+entrada(deadman, n, [deadmen], "uma âncora para segurar uma corda em escalada de montanha").
+entrada(postura, n, [posturas], "o estado de estar morto").
+entrada(deadpan, v, [deadpanned,deadpanning,deadpans], "agir sem emoção").
+entrada(enchimento, n, [enchimentos], "um reforço no quilha de um navio").
+entrada(dessairear, v, [dessaireado,dessaireando,dessaireia], "remover ar ou gás de").
+entrada(surdo, adj, [], "MAIS SURDO O MAIS SURDO faltando o sentido de audição").
+entrada(ensurdecer, v, [ensurdeceu,ensurdecendo,ensurdece], "tornar surdo").
+entry(surdinho, adj, [], "ligeiramente surdo").
+entrada(surdamente, adv, [], "de maneira surda").
+entrada(surdez, n, [surdezes], "o estado de ser surdo").
+entrada(deair, v, [deaired,deairing,deairs], "remover o ar de").
+entrada(negociar, v, [negociou, negociando, negocia], "comerciar ou fazer negócios").
+entrada(dealate, n, [dealates], "um inseto desprovido de suas asasDEALATED adj").
+entrada(distribuidor, n, [distribuidores], "aquele que negocia").
+entrada(peixe-lua, n, [peixes-lua], "um peixe marinho").
+entrada(dealinhamento, v, [dealinhado, dealinhando, dealinha], "retirar a lealdade a um partido político").
+entrada(tratar, n, [transações], "uma transação comercial").
+entrada(dealt, passado, [], "tempo de deal").
+entrada(dean, v, [deaned, deaning, deans], "servir como reitor, o chefe de uma faculdade").
+entry(reitoria, n, [reitorias], "o escritório de um reitor").
+entry(reitoria, n, [reitorias], "reitoria").
+entrada(querido, adj, [], "MAIS QUERIDO MAIS QUERIDO muito amado").
+entrada(caro, n, [caros], "um ente querido").
+entry(mais_querido, n, [mais_queridos], "uma pessoa muito amada").
+entrada(dearie, n, [dearies], "deary").
+entrada(dearies, pl, [], "de deary").
+entrada(carosamente, adv, [], "de maneira cara").
+entry(dearness, n, [dearnesses], "o estado de ser caro").
+entrada(escassez, n, [escassezes], "escassez").
+entrada(deary, n, [dearies], "querido").
+entry(deash, v, [deashed,deashing,deashes], "remover cinzas de").
+entrada(deasil, adv, [], "sentido horário").
+entrada(morte, n, [mortes], "o fim da vida").
+entry(leito_de_morte, n, [leitos_de_morte], "a cama sobre a qual uma pessoa morre").
+entrada(taca_da_morte, n, [tacas_da_morte], "um cogumelo venenoso").
+entrada(mortal, adj, [], "fatal").
+entry(mortal, adj, [], "MORTE MAIS MORTALESemelhante ou sugestivo de morte").
+entry(deathy, adj, [], "mortífero").
+entry(deave, v, [deaved, deaving, deaves], "ensurdecer").
+entrada(deb, n, [debs], "a debutante").
+entrada(debacle, n, [debacles], "um colapso repentino").
+entry(descalçar, v, [descalçou, descalçando, descalça], "remover as calças de alguém").
+entry(barrar, v, [barrado,barrando,barra], "excluir").
+entry(desembarcar, v, [desembarcou,desembarcando,desembarca], "descarregar de um navio").
+entrada(descascador, n, [descascadores], "aquele que remove a casca, a cobertura externa de plantas lenhosas").
+entrada(debase, v, [debased, debasing, debases], "reduzir a qualidade ou o valor do caráter").
+entrada(debaser, n, [debasers], "aquele que degrada").
+entrada(debate, v, [debatei, debatendo, debate], "discutir sobre").
+entrada(debatedor, n, [debatedores], "aquele que debate").
+entry(devasso, v, [devassado,devassando,devassa], "corromper").
+entrada(debicar, v, [debicou,debitando,debica], "remover a ponta do bico superior de").
+entrada(debarba, v, [desbarbado, desbarbando, desbarba], "remover fios de um mexilhão").
+entrada(fraqueza, n, [fraquezas], "weakness").
+entrada(debito, v, [debitado, debitando, debita], "cobrar com uma dívida").
+entry(debonair, adj, [], "suave").
+entrada(desarossar, v, [desarossado, desarossando, desarossa], "remover os ossos de").
+entrada(desossador, n, [desossadores], "um removedor de ossos").
+entrada(debouch, v, [debouched, debouching, debouches], "marchar para o aberto").
+entrada(debouche, n, [debouches], "uma abertura para a passagem de tropas").
+entry(desbridar, v, [desbridou, desbridando, desbrida], "remover tecido morto cirurgicamente").
+entry(debrief, v, [debriefed,debriefing,debriefs], "interrogar após uma missão").
+entrada(detritos, n, [detritos], "fragmentos ou restos espalhados").
+entrada(debruise, v, [debruised,debruising,debruises], "atravessar um brasão").
+entrada(dívida, n, [dívidas], "algo que é devidoDÍVIDA adj").
+entrada(devedor, n, [devedores], "aquele que deve algo a outro").
+entry(debug, v, [depurado,depurando,depura], "remover bugs de").
+entry(debugger, n, [depuradores], "aquele que depura").
+entry(desmascarar, v, [desmascarou, desmascarando, desmascara], "expor a falsidade ou engano de").
+entrada(desmistificador, n, [desmistificadores], "aquele que desmistifica").
+entrada(desbastar, v, [desbastou, desbastando, desbasta], "deburr").
+entrada(desbastar, v, [desbastou,desbastando,desbasta], "remover arestas afiadas de").
+entrada(estreia, v, [estreou,estreando,estreias], "fazer sua primeira aparição pública").
+entrada(estreante, n, [estreantes], "aquele que está estreando").
+entry(debye, n, [debyes], "uma unidade de medida para momentos de dipolo elétrico").
+entrada(decada, n, [decadas], "um período de dez anosDECENAL adj").
+entrada(decadente, n, [decadentes], "alguém em um estado de decadência mental ou moral").
+entrada(descafeinado, n, [descafeinados], "café descafeinado").
+entrada(decágono, n, [decágonos], "um polígono de dez lados").
+entry(decagrama, n, [decagramas], "dekagrama").
+entrada(decal, n, [decals], "uma imagem ou desenho feito para ser transferido de um papel especialmente preparado").
+entrada(decalogo, n, [decalogos], "os Dez Mandamentos").
+entrada(decamp, v, [decamped,decamping,decamps], "partir de um acampamento").
+entrada(decan, n, [decans], "uma das três divisões iguais de 10 graus de um signo do zodíaco").
+entrada(decanal, adj, [], "relativo a um reitor").
+entrada(decano, n, [decanos], "um hidrocarboneto").
+entry(decani, adj, [], "para ser cantado pelo lado direito do coro").
+entrada(decantar, v, [decantado,decantando,decanta], "despejar de um recipiente para outro").
+entry(decanter, n, [decanters], "uma garrafa decorativa").
+entrada(decápode, n, [decápodes], "um crustáceo de dez patas").
+entrada(decare, n, [decares], "dekare").
+entrada(decay, v, [decayed, decaying, decays], "decompor").
+entrada(decayer, n, [decayers], "aquele que decai").
+entrada(falecer, v, [faleceu,falecendo,falecem], "morrer").
+entrada(falecido, n, [falecidos], "uma pessoa falecida").
+entrada(falecido, n, [falecidos], "uma pessoa falecida").
+entrada(enganar, n, [enganos], "o ato de enganar").
+entrada(enganar, v, [enganou,enganando,engana], "enganar por falsidade").
+entrada(enganador, n, [enganadores], "um que engana").
+entrada(decemvir, n, [decemvires], "ou DECEMVIRI um de um corpo de dez magistrados romanos").
+entrada(decenário, n, [decenários], "um dízimo").
+entrada(decência, n, [decências], "o estado de ser decente").
+entrada(decennia, npl, [], "décadas").
+entry(decente, adj, [], "DECENTE DECENTISSIMOConforme a padrões reconhecidos de propriedadeDECENTEMENTE adv").
+entrada(descentrar, v, [descentrado,descentrando,descentra], "colocar fora do centro").
+entrada(descentrar, v, [descentrado,descentrando,descentra], "descentrar").
+entry(decernir, v, [decerniu,decernindo,decernem], "decretar por sentença judicial").
+entry(deciare, n, [deciares], "uma unidade métrica de área").
+entrada(decibel, n, [decibéis], "uma unidade de intensidade sonora").
+entrada(decidir, v, [decidido,decidindo,decide], "fazer uma escolha ou julgamento").
+entrada(decisor, n, [decisores], "aquele que decide").
+entrada(decidua, n, [deciduas], "ou DECIDUAEa membrana mucosa do úteroDECIDUAL adj").
+entry(decigrama, n, [decigramas], "um décimo de um grama").
+entrada(decile, n, [deciles], "um intervalo estatístico").
+entrada(decimal, n, [decimais], "uma fração cujo denominador é alguma potência de dez").
+entrada(decimar, v, [dizimado,dizimando,dizima], "destruir uma grande parte de").
+entry(decifrar, v, [decifrado, decifrando, decifra], "decodificar").
+entrada(decisao, v, [decidida, decidindo, decisoes], "vencer uma vitória sobre um oponente de boxe por pontos").
+entrada(decisivo, adj, [], "conclusive").
+entry(deck, v, [decked,decking,decks], "adornar").
+entrada(deckel, n, [deckels], "deckle").
+entrada(decker, n, [deckers], "algo que tenha um número específico de níveis, pisos ou camadas").
+entrada(marinheiro, n, [marinheiros], "um marinheiro que realiza tarefas manuais").
+entrada(deque, n, [deques], "material para o convés de um navio, a plataforma que serve como piso").
+entrada(deckle, n, [deckles], "uma estrutura usada na fabricação de papel à mão").
+entrada(deckless, adj, [], "sem um convés").
+entrada(declarar, v, [declarado, declarando, declara], "falar formalmente").
+entrada(declarar, v, [declarado,declarando,declara], "tornar conhecido claramente").
+entrada(declarador, n, [declaradores], "aquele que declara").
+entrada(declass, v, [declassed, declassing, declasses], "rebaixar de status").
+entrada(declasse, adj, [], "rebaixado de status").
+entrada(desgarrar, v, [desgarrou, desgarrando, desgarra], "remover cirurgicamente as garras de").
+entry(decline, v, [declinado,declinando,declina], "recusar").
+entrada(declinador, n, [declinadores], "um que declina").
+entrada(desengatar, v, [desengatou,desengatando,desengata], "desengatar a embreagem, um mecanismo de acoplamento de um veículo motorizado").
+entrada(deco, n, [decos], "um estilo decorativo").
+entrada(decoctar, v, [decoctado, decoctando, decocta], "extrair o sabor fervendo").
+entrada(decodificar, v, [decodificado, decodificando, decodifica], "converter uma mensagem codificada em linguagem clara").
+entrada(decodificador, n, [decodificadores], "aquele que decodifica").
+entrada(dedecorar, v, [dedecorado, dedecorando, dedecora], "privar de cor").
+entrada(descolorir, v, [descolorido, descolorindo, descolori], "remover a cor").
+entrada(decoracao, n, [decoracoes], "estilo ou modo de decoracao").
+entrada(decorar, v, [decorado,decorando,decora], "adornar").
+entrada(decoro, adj, [], "apropriado").
+entrada(decorum, n, [decorums], "conformidade com convenções sociais").
+entrada(desacoplar, v, [desacoplou, desacoplando, desacopla], "desconectar").
+entrada(enganar, v, [enganado,enganando,engana], "atrair para uma armadilha").
+entrada(enganador, n, [enganadores], "aquele que engana").
+entrada(diminuir, v, [diminuiu,diminuindo,diminui], "diminuir").
+entrada(decreto, v, [decretou,decretando,decretos], "ordenar ou estabelecer por lei ou edito").
+entrada(decreer, n, [decreers], "aquele que decreta").
+entrada(decrépito, adj, [], "gasto pelo uso prolongado").
+entrada(decretal, n, [decretals], "um édito papal").
+entrada(decrial, n, [decrials], "o ato de criticar").
+entrada(decried, passado, [], "tempo de decry").
+entrada(declamador, n, [declamadores], "um que critica").
+entrada(descoroar, v, [descoroados,descoroando,descoroa], "privar de uma coroa destituir").
+entrada(decry, v, [decried,decrying,decries], "denunciar").
+entrada(decifrar, v, [decifrado, decifrando, decifra], "decodificar").
+entrada(decuman, adj, [], "extremamente grande").
+entry(decuple, v, [decuplou,decuplando,decupla], "aumentar dez vezes").
+entrada(decuries, pl, [], "de decúria").
+entrada(decurion, n, [decurions], "um comandante de uma decúria").
+entrada(decurve, v, [encurvado, encurvando, encurva], "curvar para baixo").
+entrada(decuria, n, [decurias], "um grupo de dez soldados na Roma Antiga").
+entrada(dedal, adj, [], "daedal").
+entrada(dedans, n, [dedans], "uma galeria para espectadores de tênis").
+entry(dedendum, n, [dedendos], "ou DEDENDA a raiz de um dente de engrenagem").
+entrada(dedicar, v, [dedicado,dedicando,dedica], "reservar para algum uso especial").
+entrada(deduzir, v, [deduzido,deduzindo,deduz], "inferir").
+entrada(deduzir, v, [deduzido,deduzindo,deduz], "subtrair").
+entrada(dee, n, [dees], "a letra D").
+entrada(deed, v, [deeded, deeding, deeds], "transferir por escritura um documento legal").
+entry(deedless, adj, [], "estar sem feitos").
+entrada(deedy, adj, [], "DEEDIER DEEDIESTindustrioso").
+entrada(deejay, v, [trabalhou_como_dj, trabalhando_como_dj, trabalha_como_dj], "trabalhar como disc jockey").
+entrada(julgar, v, [julgou,julgando,julga], "considerar como uma opinião").
+entry(deemster, n, [deemsters], "um oficial judicial da Ilha de Man").
+entry(profundo, adj, [], "MAIS PROFUNDO MAIS PROFUNDAMENTE extensão longa a partir de uma superfície").
+entrada(profundo, n, [profundidades], "um lugar ou coisa de grande profundidade").
+entrada(aprofundar, v, [aprofundou,aprofundando,aprofundam], "tornar profundo").
+entrada(profundador, n, [profundadores], "aquele que aprofunda").
+entrada(profundamente, adv, [], "a uma grande profundidade").
+entrada(profundidade, n, [profundidades], "a qualidade de ser profundo").
+entry(cervo, n, [cervos], "um mamífero ruminanteDEERLIKE adj").
+entrada(mosca-do-veado, n, [moscas-do-veado], "uma mosca sugadora de sangue").
+entry(pele_de_veado, n, [peles_de_veado], "a pele de um veado").
+entrada(feijoeiro, n, [feijoeiros], "uma erva arbustiva").
+entrada(campinhodoservos, n, [campinhosdoservos], "uma área onde cervos se reúnem no inverno").
+entrada(deet, n, [deets], "um repelente de insetos").
+entrada(deewan, n, [deewans], "dewan").
+entrada(def, adj, [], "DEFFER DEFFESTexcelente").
+entrada(desfigurar, v, [desfigurou, desfigurando, desfigura], "estragar a aparência de").
+entrada(defacer, n, [defacers], "aquele que desfigura").
+entry(difamar, v, [difamou,difamando,difama], "atacar o bom nome de").
+entrada(difamador, n, [difamadores], "aquele que difama").
+entrada(defang, v, [defanged,defanging,defangs], "tornar inofensivo").
+entrada(defat, v, [desengordurado, desengordurando, desengordura], "remover gordura de").
+entrada(padrão, v, [padrão,padronizar,padrões], "falhar em fazer algo necessário").
+entrada(derrota, v, [derrotou,derrotando,derrota], "vencer uma vitória sobre").
+```prolog
+entrada(derrotador, n, [derrotadores], "um que derrota").
+```
+entry(defecar, v, [defecou, defecando, defeca], "expelir fezes").
+entrada(defeito, v, [defeituoso,defeituando,defeitos], "desertar uma aliança").
+entrada(desertor, n, [desertores], "aquele que deserta").
+entrada(defesa, v, [defendeu, defendendo, defesas], "para defender").
+entrada(defender, v, [defendeu, defendendo, defende], "proteger").
+entrada(defensor, n, [defensores], "aquele que defende").
+entrada(defesa, v, [defendeu, defendendo, defesas], "proteger contra um ataque específico").
+entrada(adiar, v, [adiado,adiando,adia], "postergar").
+entry(deferente, n, [deferentes], "um círculo imaginário ao redor da terra").
+entrada(prorrogação, n, [prorrogações], "o ato de prorrogar").
+entrada(adiador, n, [adiadores], "aquele que adia").
+entrada(adiando, presente, [], "particípio de deferir").
+entrada(deffer, comparativo, [], "de def").
+entrada(deffest, superlativo, [], "de def").
+entrada(defi, n, [defis], "um desafio").
+entry(desafio, n, [desafios], "oposição ousada").
+entrada(desafiador, adj, [], "mostrando desafio").
+entry(deficêit, n, [deficêits], "uma escassez").
+entrada(desafiou, passado, [], "tempo de desafiar").
+Entrada(defier, n, [desafiadores], "aquele que desafia").
+entrada(desafia, presente, [], "3a pessoa sing de desafiar").
+entrada(defilade, v, [defiladed, defilading, defilades], "proteger do fogo inimigo").
+entry(profanar, v, [profanou,profanando,profana], "sujar").
+entrada(profanar, n, [profanadores], "aquele que profana").
+entry(definir, v, [definido,definindo,define], "para declarar o significado de").
+entrada(definir, n, [definidores], "aquele que define").
+entrada(definido, n, [definidos], "algo que é conhecido com certeza").
+entrada(esvaziar, v, [esvaziado,esvaziando,esvazia], "liberar o ar ou gás de").
+entrada(deflator, n, [deflatores], "aquele que desinfla").
+entrada(deflator, n, [deflatores], "aquele que deflate").
+entrada(deflea, v, [defleaed,defleaing,defleas], "livrar de pulgas").
+entry(desviar, v, [desviou,desviando,desvia], "virar para o lado").
+entrada(deflexed, adj, [], "curvado para baixo").
+entrada(desflorar, v, [desflorou, desflorando, desflora], "privar de flores").
+entrada(defoam, v, [desespumado, desespumando, desespuma], "remover espuma de").
+entrada(antiespumante, n, [antiespumantes], "aquele que remove espuma").
+entrada(defocus, v, [desfocado,desfocando,desfoca], "ou DESFOCADO DESFOCANDO DESFOCApara causar a perda de foco").
+entry(desembaçar, v, [desembaçou, desembaçando, desembaça], "remover o nevoeiro de").
+entrada(desembaçador, n, [desembaçadores], "um que desembaça").
+```prolog
+entrada(deforce, v, [deforced,deforcing,deforces], "reter à força").
+```
+entrada(deforcer, n, [deforcers], "aquele que expulsa").
+entrada(desflorestar, v, [desflorestado, desflorestando, desfloresta], "limpar de florestas").
+entrada(deformar, v, [deformado,deformando,deforma], "estragar a forma de").
+entry(deformador, n, [deformadores], "aquele que deforma").
+entrada(defrag, v, [defragged,defragging,defrags], "eliminar a fragmentação em um arquivo de computador").
+entrada(defraudar, v, [defraudado, defraudando, defrauda], "enganar").
+entrada(defray, v, [defrayed, defraying, defrays], "pagar").
+entrada(defrayal, n, [defrayals], "o ato de custear").
+entrada(defrayer, n, [defrayers], "aquele que paga").
+entry(remover_amigo, v, [removeu_amigo, removendo_amigo, remove_amigos], "remover o nome de uma pessoa de uma lista de amigos").
+entrada(desfrock, v, [desfrocked,desfrocking,desfrocks], "desfrockar").
+entrada(descongelar, v, [descongelado,descongelando,descongela], "remover o gelo de").
+entrada(deft, adj, [], "DEFTER DEFTESThabilidosoDEFTLY adv").
+entry(destreza, n, [destrezas], "a qualidade de ser hábil").
+entrada(defuel, v, [desabastecido,desabastecendo,desabastece], "ou DESABASTECIDO DESABASTECENDO DESABASTECEpara remover combustível de").
+entrada(cessado, adj, [], "falecido").
+entry(defund, v, [defunded,defunding,defunds], "retirar financiamento de").
+entrada(desarmar, v, [desarmou, desarmando, desarma], "remover o fusível de").
+entrada(defuser, n, [defusers], "aquele que desarma").
+entrada(defuze, v, [defuzado, defuzando, defuzar], "desativar").
+entrada(desafiar, v, [desafiou,desafiando,desafia], "resistir aberta e corajosamente").
+entrada(degage, adj, [], "livre e descontraído de maneira").
+entrada(degame, n, [degames], "uma árvore tropical").
+entrada(degami, n, [degamis], "degame").
+entrada(degas, v, [degassed,degassing,degases], "ou DEGASSEs remover gás de").
+entrada(desgasificador, n, [desgasificadores], "um que desgasifica").
+entrada(demagnetizar, v, [desmagnetizado, desmagnetizando, desmagnetiza], "para desmagnetizar").
+entrada(degenero, v, [degenerado, degenerando, degeneros], "remover referências ao gênero de uma pessoa").
+entrada(degerm, v, [degermed,degerming,degerms], "remover germes de").
+entrada(desglaze, v, [desglazei, desglazando, desglaza], "remover o esmalte de").
+entrada(degradar, v, [degradado,degradando,degrada], "depreciar").
+entry(degradar, n, [degradadores], "aquele que degrada").
+entry(desengordurar, v, [desengordurou, desengordurando, desengordura], "remover a gordura de").
+entrada(grau, n, [graus], "um de uma série de estágios GRAU adj").
+entrada(degum, v, [degummed,degumming,degums], "liberar da goma").
+entrada(degustar, v, [degustado,degustando,degusta], "provar com prazer").
+entrada(dehair, v, [dehaired,dehairing,dehairs], "remover o cabelo de").
+entry(dehisce, v, [dehiscido,dehiscindo,dehisce], "abrir-se").
+entrada(desarretar, v, [desarretei, desarretando, desarreta], "privar de chifres").
+entrada(dehorner, n, [dehorners], "aquele que descorna").
+entrada(fora, prep, [], "exceto").
+entry(dehortar, v, [dehortou, dehortando, dehorta], "tentar dissuadir").
+entrada(deice, v, [deiced,deicing,deices], "para liberar do gelo").
+entrada(deicers, n, [deicers], "aquele que descongela").
+entrada(deicídio, n, [deicídios], "a morte de um deusDEICIDAL adj").
+entry(déitico, n, [déiticos], "uma palavra ou frase que especifica identidade ou localização").
+entrada(deific, adj, [], "divino").
+entry(deifical, adj, [], "deífico").
+entrada(deificado, passado, [], "tempo de deificar").
+entry(deificador, n, [deificadores], "aquele que deifica").
+entrada(deiforme, adj, [], "tendo a forma de um deus").
+entry(endeusar, v, [endeusado,endeusando,endeusam], "tornar um deus de").
+entrada(conceder, v, [concedeu,concedendo,concede], "rebaixar-se para fazer algo").
+entrada(deil, n, [deils], "o diabo").
+entrada(deismo, n, [deismos], "uma filosofia religiosa").
+entrada(deísta, n, [deístas], "um adepto do deísmoDEÍSTICO adj").
+entrada(divindade, n, [divindades], "um deus ou deusa").
+entrada(déixis, n, [déixis], "a função de especificação de algumas palavras").
+entrada(deject, v, [dejected, dejecting, dejects], "deprimir").
+entry(dejecta, npl, [], "excrementos").
+entrada(almoço, n, [almoços], "um café da manhã tardio").
+entry(decagrama, n, [decagramas], "uma medida equivalente a dez gramas").
+entrada(dekare, n, [dekares], "uma medida igual a dez ares").
+entry(deke, v, [], "DEKED DEKING ou DEKEING DEKES para enganar um oponente fora de posição").
+entry(dekko, n, [dekkos], "uma olhada").
+entrada(del, n, [dels], "um operador no cálculo diferencial").
+entrada(delaine, n, [delaines], "um tecido de lã").
+entry(delatar, v, [delatado,delatando,delata], "acusar").
+entrada(delation, n, [delations], "o ato de delatar").
+entrada(delator, n, [delatores], "aquele que delata").
+entrada(atrasar, v, [atrasado,atrasando,atrasa], "adiar para um momento posterior").
+entrada(delayer, n, [delayers], "um que atrasa").
+entry(dele, v, [deled,deleing,deles], "deletar").
+entrada(delead, v, [deleaded, deleading, deleads], "remover chumbo de").
+entrada(deleave, v, [deleavei,deleaveando,deleavea], "separar as cópias das").
+entry(delegação, n, [delegações], "o ato de delegar").
+entrada(delegate, v, [delegated,delegating,delegates], "nomear como representante").
+entrada(delete, v, [deletado,deletando,deleta], "remover matéria escrita ou impressa").
+entrada(eliminação, n, [eliminação], "o ato de eliminar").
+entrada(delf, n, [delfs], "delft").
+entry(delft, n, [delfts], "uma faiança").
+entrada(delicatessen, n, [delicatessens], "uma delicatessen").
+entrada(iguaria, n, [iguarias], "uma comida especial").
+entrada(delicado, n, [delicadezas], "uma iguaria").
+entrada(delito, n, [delitos], "uma infração contra a lei civil").
+entry(encantar, v, [encantado,encantando,encanta], "dar grande prazer a").
+entrada(delime, v, [delimed,deliming,delimes], "libertar de cal").
+entrada(delimitar, v, [delimitado,delimitando,delimita], "marcar os limites de").
+entrada(delink, v, [delinked,delinking,delinks], "romper uma conexão entre").
+entrada(delírio, n, [delírios], "ou DELIRIAfrenesi selvagem").
+entry(delish, adj, [], "delicioso").
+entrada(remover_da_lista, v, [removido_da_lista, remoção_da_lista, remove_da_lista], "remover de uma lista").
+entrada(entregar, v, [entregou,entregando,entrega], "levar ao destinatário pretendido").
+entrada(entrega, n, [entregas], "o ato de entregar").
+entry(dell, n, [dells], "um pequeno vale arborizado").
+entrada(delly, n, [dellies], "deli").
+entrada(despiolhar, v, [despiolhou,despiolhando,despiolha], "remover piolhos de").
+entrada(delouser, n, [delousers], "um que se livra de piolhos").
+entrada(délfico, adj, [], "ambíguo").
+entrada(delt, n, [delts], "um deltoide").
+entrada(delta, n, [deltas], "um depósito aluvial na foz de um rioDELTAICO DELTICO adj").
+entrada(deltoide, n, [deltoides], "um músculo do ombro").
+entry(enganar, v, [enganou, enganando, engana], "induzir em erro a mente ou o julgamento de").
+entrada(ilusionista, n, [ilusionistas], "aquele que ilude").
+entrada(dilúvio, v, [inundado,inundando,inundações], "inundar").
+entrada(delusao, n, [delusoes], "o ato de iludir").
+entry(enganoso, adj, [], "tendendo a iludir").
+entry(delusório, adj, [], "ilusório").
+entrada(deslustre, v, [deslustrou,deslustrando,deslustra], "diminuir o brilho de").
+entrada(deluxe, adj, [], "de elegância ou luxo especial").
+entrada(mergulhar, v, [mergulhou, mergulhando, mergulha], "procurar em profundidade").
+entrada(escavador, n, [escavadores], "aquele que escava").
+entrada(demagog, v, [demagoged,demagoging,demagogs], "comportar-se como um demagogo um líder que apela às emoções e preconceitos").
+entrada(demagogia, n, [demagogias], "o governo de um demagogo").
+entry(demanda, v, [demandado, demandando, demandas], "pedir com autoridade").
+entry(demander, n, [requerente], "aquele que demanda").
+entrada(demarche, n, [demarches], "um procedimento").
+entry(demark, v, [demarked,demarking,demarks], "delimitar").
+entry(desmastrear, v, [desmastrei,desmastreamento,desmastreia], "remover mastros de").
+entrada(deme, n, [demes], "distrito grego").
+entry(humilhar, v, [humilhou,humilhando,humilha], "comportar-se de uma maneira particular").
+entrada(porte, n, [portes], "a maneira como alguém se comporta").
+entrada(dement, v, [demented, dementing, dements], "enlouquecer").
+entrada(dementi, n, [dementis], "uma recusa oficial de uma declaração publicada").
+entrada(demência, n, [demências], "doença mental").
+entrada(demerara, n, [demeraras], "um açúcar grosso de cor castanho-claro").
+entrada(demerge, v, [demerged,demerging,demerges], "remover uma divisão de uma corporação").
+entrada(desmembramento, v, [desmembrado,desmembrando,desmembramentos], "desmembrar").
+entrada(demerit, v, [demerited,demeriting,demerits], "rebaixar em posição ou status").
+entry(demersal, adj, [], "encontrado no fundo do mar").
+entrada(dominio, n, [dominios], "a posse legal de terra como sendo própria").
+entrada(demeton, n, [demetons], "um inseticida").
+entrada(demic, adj, [], "relativo a um demo").
+entrada(demies, pl, [], "de demy").
+entrada(semideus, n, [semideuses], "uma divindade inferior").
+entrada(damajuana, n, [damajuanas], "um jarro de pescoço estreito").
+entrada(demilune, n, [demilunes], "uma meia-lua").
+entry(deminer, n, [removedor_de_minas], "aquele que remove dispositivos explosivos de minas").
+entry(dessminagem, n, [dessminagens], "a remoção de minas").
+entrada(demirep, n, [demireps], "uma prostituta").
+entrada(morte, v, [morto,morrendo,mortes], "legar").
+entry(demist, v, [desembaçou,desembaçando,desembaça], "desembaçar").
+entrada(demister, n, [desembaciadores], "um que desembaça").
+entry(demitir, v, [demitido,demitindo,demite], "renunciar").
+entry(demiurge, n, [demiurgos], "um magistrado da Grécia antiga").
+entry(demivolt, n, [meias_voltas], "uma meia-volta feita por um cavalo").
+entrada(demo, v, [demoed,demoing,demos], "demonstrar").
+entrada(demob, v, [demobbed, demobbing, demobs], "desmobilizar do serviço militar").
+entrada(democrata, n, [democratas], "aquele que acredita na igualdade política e social").
+entrada(demode, adj, [], "demoded").
+entry(demoded, adj, [], "fora de circulação").
+entrada(demoi, n, [], "pl de demos").
+entrada(demolir, v, [demolido, demolindo, demole], "destruir").
+entrada(demonio, n, [demonios], "um espírito maligno").
+entrada(demonia, n, [demonias], "um demônio feminino").
+entrada(demoníaco, n, [demoníacos], "um considerado possuído por um demônio").
+entry(demonian, adj, [], "demoníaco").
+entry(demoníaco, adj, [], "característica de um demônio").
+entrada(demonise, v, [demonised,demonising,demonises], "demonizar").
+entrada(demonismo, n, [demonismos], "crença em demônios").
+entry(demonista, n, [demonistas], "aquele que acredita em demônios").
+entrada(demonize, v, [demonizado,demonizando,demoniza], "transformar em demônio").
+entrada(demos, n, [demoi], "o povo de um estado grego antigo").
+entrada(demover, v, [demovido,demovendo,demove], "rebaixar de categoria ou grau").
+entry(demótico, adj, [], "relativo a uma forma simplificada da escrita egípcia antiga").
+entrada(demotics, npl, [], "o estudo das pessoas na sociedade").
+entrada(rebaixamento, n, [rebaixamentos], "o ato de rebaixar").
+entry(demotista, n, [demotistas], "um estudante de escritos demóticos").
+entrada(desmontar, v, [desmontou, desmontando, desmonta], "remover de uma montagem").
+entrada(dempster, n, [dempsters], "um deemster").
+entrada(objeção, v, [objeção, objetando, objeções], "objetar").
+entrada(demure, adj, [], "DEMURER DEMURESTtímido e modestoDISCRETAMENTE adv").
+entrada(objeção, n, [objeções], "o ato de objetar").
+entrada(exceção, n, [exceções], "aquele que se opõe").
+entrada(hesitando, presente, [], "particípio de hesitar").
+entry(demy, n, [demies], "um tamanho de papel").
+entrada(den, v, [denned, denning, dens], "viver em uma toca").
+entry(denar, n, [denares], "ou DENARIa unidade monetária da Macedônia").
+entrada(denarius, n, [denarii], "uma moeda da Roma antiga").
+entry(denário, adj, [], "contendo dez").
+entrada(denature, v, [denatured,denaturing,denatures], "privar de qualidades naturais").
+entry(denazificar, v, [denazificado, denazificando, denazifica], "livrar do nazismo").
+entrada(dendrite, n, [dendritos], "uma parte ramificada de uma célula nervosa").
+entrada(dendroid, n, [dendroides], "um fóssil marinho invertebrado").
+entrada(dendron, n, [dendrons], "uma dendrite").
+entrada(dene, n, [denes], "um vale").
+entry(dengue, n, [dengues], "uma doença tropical").
+entrada(deni, n, [deni], "uma unidade monetária da Macedônia").
+entry(negável, adj, [], "capaz de ser negadoNEGAVELMENTE adv").
+entry(negação, n, [negações], "o ato de negar").
+entrada(negada, passado, [], "tempo do negar").
+entry(negador, n, [negadores], "aquele que nega").
+entrada(nega, presente, [], "3ª pessoa do singular de negar").
+entry(denim, n, [denins], "um tecido durávelDENIMED adj").
+entrada(cidadão, v, [cidadanado,cidadanizando,cidadãos], "tornar cidadão de").
+entry(denned, passado, [], "tempo de den").
+entrada(denning, presente, [], "particípio de den").
+entrada(denotar, v, [denotado,denotando,denota], "indicarDENOTATIVO adj").
+entrada(denunciar, v, [denunciou, denunciando, denuncia], "condenar abertamente").
+entrada(denso, adj, [], "MAIS DENSA MAIS DENSO compactamente DENSAMENTE adv").
+entry(adensar, v, [adensado,adensando,adensa], "tornar mais denso").
+entrada(densidade, n, [densidades], "o estado de ser denso").
+entrada(dent, v, [dented,denting,dents], "fazer uma depressão em").
+entrada(dental, n, [dentais], "um som produzido dentariamente").
+entrada(dentalia, npl, [], "moluscos com conchas longas e afiladas").
+entrada(dentalmente, adv, [], "com a ponta da língua contra os dentes frontais superiores").
+entry(mandíbula, n, [mandíbulas], "a mandíbula inferior nos mamíferos").
+entry(dentado, adj, [], "tendo dentes").
+entry(dentated, adj, [], "dentado").
+entrada(dentelle, n, [dentelles], "um estilo rendado de decoração de capa de livro").
+entrada(denticle, n, [denticles], "um pequeno dente").
+entrada(dentil, n, [dentils], "um pequeno bloco retangularDENTILED adj").
+entrada(dentina, n, [dentinas], "a substância dura que forma o corpo de um denteDENTINADA adj").
+entrada(dentina, n, [dentinas], "dentina").
+entrada(dentista, n, [dentistas], "alguém que trata os dentes").
+entry(dentoide, adj, [], "assemelhando-se a um dente").
+entrada(dentadura, n, [dentaduras], "um conjunto de dentesDENTURAL adj").
+entry(denudate, v, [denudated,denudating,denudates], "desnudar").
+entry(desnudar, v, [desnudado,desnudando,desnuda], "remover toda a cobertura").
+entrada(denuder, n, [denuders], "aquele que desnuda").
+entrada(negar, v, [negado,negando,nega], "declarar ser falso").
+entry(deodand, n, [deodands], "propriedade perdida para a coroa sob uma antiga lei inglesa").
+entrada(deodar, n, [deodares], "um cedro indiano oriental").
+entrada(deodara, n, [deodaras], "deodar").
+entry(deontic, adj, [], "relacionado à obrigação moral").
+entrada(deorbit, v, [deorbitou, desorbitando, desorbita], "sair de uma órbita").
+entry(deoxy, adj, [], "tendo menos oxigênio que o composto do qual é derivado").
+entrada(dep, n, [deps], "uma loja de conveniência").
+entry(depaint, v, [depainted,depainting,depaints], "representar").
+entrada(partir, v, [partiu,partindo,parte], "ir embora").
+entrada(falecido, n, [falecidos], "aquele que morreu").
+entrada(partente, n, [partentes], "aquele que parte").
+entry(depend, v, [dependeu, dependendo, depende], "confiar").
+entrada(despovoar, v, [despovoou, despovoando, despovoa], "reduzir a população de").
+entrada(deperm, v, [depermed,deperming,deperms], "desmagnetizar").
+entry(retratar, v, [retratado,retratando,retrata], "retratar").
+entrada(representante, n, [representantes], "aquele que representa").
+entrada(depictor, n, [depictors], "ilustrador").
+entry(depilar, v, [depilou, depilando, depila], "remover pelos de").
+entry(desembarcar, v, [desembarcou, desembarcando, desembarca], "sair de um avião").
+entry(esgotar, v, [esgotado,esgotando,esgota], "reduzir ou esgotar o suprimento de").
+entry(esgotador, n, [esgotadores], "aquele que esgota").
+entry(deplore, v, [deplored,deploring,deplores], "lamentar fortemente").
+entry(deplorer, n, [deploradores], "aquele que deplora").
+entrada(deploy, v, [desdobrado,desdobrando,desdobra], "posicionar tropas para batalha").
+entrada(deployador, n, [deployadores], "aquele que deploya").
+entrada(deplume, v, [deplumado,deplumando,depluma], "privar de penas").
+entrada(despolir, v, [despoliu, despolindo, despolirão], "remover o brilho ou polimento de").
+entry(depone, v, [deponed,deponing,depones], "testemunhar sob juramento").
+entrada(deponente, n, [deponentes], "aquele que depõe").
+entrada(deportar, v, [deportado,deportando,deporta], "expulsar de um país").
+entry(deportado, n, [deportados], "aquele que é deportado").
+entrada(deportador, n, [deportadores], "aquele que deporta").
+entrada(deposal, n, [deposals], "o ato de depor").
+entrada(depor, v, [deposto, depor, depõe], "remover do cargo").
+entrada(deposer, n, [deposers], "um que depõe").
+entrada(deposito, v, [depositado,depositando,depositos], "colocar").
+entrada(deposito, n, [depositos], "uma estação ferroviária ou rodoviária").
+entry(deprave, v, [depraved,depraving,depraves], "corromper moralmente").
+entry(depravar, n, [depravadores], "aquele que deprava").
+entrada(deprenil, n, [deprenils], "um medicamento para tratar a doença de Parkinson").
+entrada(deprimir, v, [deprimido,deprimente,deprime], "fazer triste").
+entrada(privação, n, [privações], "o ato de privar").
+entry(privar, v, [privado,privando,priva], "tirar algo de").
+entrada(privador, n, [privadores], "aquele que priva").
+entrada(depside, n, [depsides], "um composto aromático").
+entrada(profundidade, n, [profundidades], "profundidade").
+entrada(depurar, v, [depurado,depurando,depura], "livrar de impurezas").
+entry(deputar, v, [deputado,deputando,deputa], "delegar").
+entry(substituir, v, [substituiu,substituindo,substitui], "to deputize").
+entry(substituir, v, [substituiu,substituindo,substitui], "nomear como substituto").
+entry(deputado, n, [deputados], "um nomeado para agir em nome de outro").
+entry(deracine, n, [deracines], "uma pessoa deslocada").
+entry(deraign, v, [deraigned,deraigning,deraigns], "disputar uma reivindicação").
+entry(descarrilar, v, [descarrilou, descarrilando, descarrila], "sair dos trilhos de uma via").
+entrada(desordenar, v, [desordenado,desordenando,desordena], "desordenar").
+entry(desordenador, n, [desordenadores], "aquele que desordena").
+entrada(derat, v, [deratted, deratting, derats], "livrar de ratos").
+entrada(desclassificar, v, [desclassificado, desclassificando, desclassifica], "reduzir a capacidade nominal de").
+entry(derationar, v, [derationou, derationando, derationamentos], "liberar como alimento da racionamento").
+entrada(deray, n, [derays], "revelação desordenada").
+entry(derby, n, [derbies], "um tipo de chapéu").
+entry(dere, adj, [], "direita").
+entrada(derecho, n, [derechos], "uma linha de tempestades intensas e generalizadas de vento").
+entry(abandonado, n, [abandonados], "algo abandonado").
+entry(zombar, v, [zombou,zombando,zomba], "ridicularizar").
+entrada(derider, n, [deriders], "aquele que zomba").
+entrada(deringer, n, [deringers], "uma pistola de cano curto").
+entry(escárnio, n, [escárnios], "o ato de escarnecer").
+entrada(derisive, adj, [], "expressando desdém").
+entrada(dérisório, adj, [], "zombeteiro").
+entry(derivado, n, [derivados], "algo derivado").
+entry(derivar, v, [derivado,derivando,deriva], "obter ou receber de uma fonte").
+entrada(derivador, n, [derivadores], "aquele que deriva").
+entrada(derm, n, [derms], "derma").
+entrada(derma, n, [dermas], "uma camada da peleDERMAL adj").
+entry(dermis, n, [dermises], "dermadérmico adj").
+entrada(dermoide, n, [dermoides], "um tumor cístico").
+entry(dernier, adj, [], "último").
+entry(derogar, v, [derrogou,derrogando,derroga], "detratar").
+entrada(derrick, n, [derricks], "um aparelho de içamento").
+entrada(derriere, n, [derrieres], "as nádegas").
+entrada(derris, n, [derrises], "uma planta trepadeira").
+entry(derry, n, [derries], "uma palavra sem sentido usada no refrão de canções antigas").
+entry(dérmore, n, [dérmores], "um membro de uma ordem religiosa muçulmana").
+entrada(desalgar, v, [desalgado,desalgando,desalga], "remover o sal de").
+entry(desalinizador, n, [desalinizadores], "aquele que desaliniza").
+entrada(desand, v, [desanded, desanding, desands], "remover areia de").
+entrada(descascar, v, [descascado, descascando, descascas], "remover as escamas de").
+entry(canto_de_encanto, v, [cantou_de_encanto,cantando_de_encanto,cantos_de_encanto], "cantar um contraponto a uma melodia").
+entry(descer, v, [desceu,descendo,desce], "vir ou descer").
+entrada(descida, n, [descidas], "o ato de descer").
+entrada(descrever, v, [descreveu, descrevendo, descreve], "dar um relato verbal de").
+entry(descrier, n, [observadores], "aquele que observa").
+entrada(descrever, v, [descreveu, descrevendo, descreve], "discernir").
+entry(deseed, v, [desensementado, desensementando, desensementa], "remover as sementes de").
+entrada(deseeder, n, [deseeders], "um que remove sementes").
+entrada(deselecionar, v, [deselecionado, deselecionando, deseleciona], "dispensar de um programa de treinamento").
+entry(desertar, v, [desertou,desertando,deserta], "abandonar").
+entrada(desertor, n, [desertores], "aquele que deserta").
+entrada(desértico, adj, [], "árido e estéril").
+entrada(merecer, v, [merecido,merecendo,merece], "ter direito ou ser digno de").
+entrada(merecedor, n, [merecedores], "aquele que merece").
+entry(desex, v, [desexed,desexing,desexes], "castrar ou esterilizar").
+entrada(deshi, n, [deshis], "desi").
+entrada(desi, n, [desis], "uma pessoa de origem indiana, paquistanesa ou bangladeshiana que vive no exterior").
+entrada(design, v, [designed,designing,designs], "conceber e planejar").
+entrada(designado, n, [designados], "aquele que é designado").
+entrada(designer, n, [designers], "aquele que projeta").
+entry(desilver, v, [desilvered,desilvering,desilvers], "remover a prata de").
+entrada(desinente, adj, [], "terminando").
+entrada(desejo, v, [desejado,desejando,deseja], "desejar").
+entry(desejador, n, [desejadores], "aquele que deseja").
+entrada(desejoso, adj, [], "desejando").
+entrada(desistir, v, [desistiu,desistindo,desiste], "cessar de fazer algo").
+entrada(secretária, n, [secretárias], "uma mesa de escrita.").
+entry(deskill, v, [deskilled,deskilling,deskills], "reduzir o nível de habilidade requerido").
+entry(balcaoista, n, [balcaoistas], "aquele que trabalha em um balcão").
+entrada(desktop, n, [desktops], "o topo de uma mesa").
+entrada(desman, n, [desmans], "um mamífero aquático").
+entrada(desmídeo, n, [desmídeos], "uma alga de água doce").
+entrada(desmoid, n, [desmoids], "um tumor muito duro").
+entrada(desolado, v, [desolado,desolando,desola], "devastar").
+entrada(desorver, v, [desorveu, desorvendo, desorve], "remover pelo inverso da absorção").
+entrada(desorvedor, n, [desorvedores], "aquele que desorve").
+entrada(desoxi, adj, [], "desoxi").
+entrada(desespero, v, [desesperou,desesperando,desespera], "perder toda a esperança").
+entrada(expedir, v, [expedido,expedindo,expedicoes], "expedir").
+entrada(desprezo, n, [desprezos], "desgosto intenso").
+entrada(despise, v, [desprezado,desprezando,despreza], "detestar").
+entry(desprezador, n, [desprezadores], "aquele que despreza").
+entry(despite, v, [desdenhado,desdenhando,desdenha], "tratar com desprezo").
+entry(depredar, v, [depredado,depredando,depreda], "to plunder").
+entrada(desesperar, v, [desesperei, desesperando, desespera], "perder o ânimo ou a esperança").
+entrada(despot, n, [despots], "um tiranoDESPOTIC adj").
+entry(sobremesa, n, [sobremesas], "algo servido como o último prato de uma refeição").
+entrada(destain, v, [destained, destaining, destains], "remover mancha de").
+entrada(destino, v, [destinado, destinando, destinos], "determinar previamente").
+entrada(destino, n, [destinos], "o destino ou sorte a que se está destinado").
+entrada(destream, v, [destreamed, destreaming, destreams], "reverter a categorização de estudantes").
+entrada(destress, v, [destressed,destressing,destresses], "tirar o estresse de").
+entrada(destrier, n, [destriers], "um cavalo de guerra").
+entrada(destruir, v, [destruído,destruindo,destrói], "danificar além do reparo ou renovação").
+entrada(destruir, v, [destruído,destruindo,destrói], "destruir").
+entry(desugar, v, [desugared, desugaring, desugars], "remover o açúcar de").
+entrada(desulfurar, v, [desulfurou, desulfurando, desulfura], "remover enxofre").
+entrada(destacar, v, [destacado,destacando,destaca], "desapegar e separar").
+entrada(desprender, n, [desprendedores], "aquele que desprende").
+entrada(detalhe, v, [detalhada,detalhando,detalhes], "relatar com informações completas").
+entrada(detailador, n, [detailadores], "aquele que detalla").
+entrada(detain, v, [detained, detaining, detains], "manter sob custódia").
+entrada(detido, n, [detidos], "aquele que está detido").
+entrada(detentor, n, [detentores], "a retenção ilegal da propriedade de outro").
+entrada(desembaraçar, v, [desembaraçou, desembaraçando, desembaraça], "remover nós de").
+entrada(detangler, n, [], "pl DETANGLERSaquele que desembaraça").
+entrada(desempenar, v, [desempenou,desempenando,desempena], "ou DESEMPEÑOU DESEMPEÑANDO DESEMPEÑApara remover penachos de").
+entrada(detectar, v, [detectou, detectando, detecta], "descobrir ou perceber").
+entry(detecter, n, [detectores], "detector").
+entrada(detector, n, [detectores], "aquele que detecta").
+entrada(travão, n, [travões], "um mecanismo de bloqueio ou desbloqueio").
+entrada(detente, n, [detentes], "uma diminuição da tensão internacional").
+entrada(deter, v, [deterred, deterring, deters], "impedir de prosseguir").
+entrada(deterge, v, [deterged, deterging, deterges], "limpar").
+entrada(deterger, n, [detergers], "um que deterge").
+entrada(dissuadir, n, [dissuadem], "aquele que dissuade").
+entrada(deterring, presente, [], "particípio de dissuadir").
+entrada(detest, v, [detested, detesting, detests], "desgostar intensamente").
+entrada(detester, n, [detesters], "alguém que detesta").
+entrada(dethatch, v, [dethatched, dethatching, dethatches], "remover a camada de colmo de").

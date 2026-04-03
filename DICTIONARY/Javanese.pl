@@ -120,3 +120,36 @@ entry(abomasal, adj, [], "sing ana gandhengane karo abomasum").
 entry(abomasum, n, [abomasa], "weteng papat saka kéwan sing ngunyah balèn").
 entry(abomasus, n, [abomasi], "abomasum").
 entry(aboon, adv, [], "ndhuwur").
+entry(aboral, adj, [], "sing dununge adoh saka tutukABORALLY adv").
+entry(aborning, adv, [], "nalika lair").
+entry(abort, v, [aborted, aborting, aborts], "ngeterake janin sadurunge wayahe").
+entry(aborter, n, [aborters], "sing siji kang nggugurake").
+entry(aborsi, n, [aborsi-aborsi], "pambuwangan dipaksa janin sing ora urip").
+entry(abortif, adj, [], "gagal kanggo sukses").
+entry(abortus, n, [abortuses], "janin sing diguguraké").
+entry(abought, kepungkur, [], "tenses saka aby lan abye").
+entry(aboulia, n, [aboulias], "abuliaABOULIC adj").
+entry(abound, v, [abounded, abounding, abounds], "duwé jumlah sing akeh").
+entry(babak, ktr, [], "sawatara").
+entry(sakndhuwure, n, [sakndhuwur-sakndhuwure], "barang sing ana ing ndhuwur utawa panggonan sing luwih dhuwur").
+entry(abrachia, n, [abrachias], "kakurangan tangan").
+entry(abradant, n, [abradants], "piranti panggosok").
+entry(abrade, v, [abraded,abrading,abrades], "nggesek nganti usang").
+entry(abrader, n, [abraders], "piranti kanggo ngrambah").
+entry(abrasion, n, [abrasions], "tindakan ngrenda").
+entry(abrasive, n, [abrasives], "zat sing nggrogoti").
+entry(abreact, v, [abreacted,abreacting,abreacts], "ngluwari emosi sing di-penet kanthi ngleboni maneh pengalaman traumatis asli").
+entry(abreast, adv, [], "jejeg sak jeding").
+entry(abri, n, [abris], "papan perlindungan bom").
+entry(abridge, v, [abridged,abridging,abridges], "nyuda dawa saka").
+entry(abridger, n, [abridgers], "kang nyepetake").
+entry(abroach, adj, [], "astir").
+entry(jaba, adv, [], "ning njaban negarane dhewe").
+entry(mbesmi, v, [diilangake,ngilangake,ngilangake], "mbesmi kanthi tumindak berwenang").
+entry(abrosia, n, [abrosias], "puwasa saka panganan").
+entry(abrupt, adj, [], "ABRUPTER ABRUPTESTrudo sekelekABRUPTLY adv").
+entry(abscess, v, [abscessed,abscessing,abscesses], "mbentuk abses sawijining kumpulan nanah lokal kang dikubengi jaringan radang").
+entry(abscise, v, [abscised,abscising,abscises], "nggunting/dicabut").
+entry(abscisin, n, [abscisins], "zat pengatur sing ditemokake ing tanduran").
+entry(abscissa, n, [abscissas], "utawa ABSCISSAEa koordinat geometris tartamtu").
+entry(abscond, v, [absconded,absconding,absconds], "minggat kanthi dumadakan lan sengaja").

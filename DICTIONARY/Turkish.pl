@@ -3306,3 +3306,29 @@ entry(bethesda, n, [bethesdas], "bir şapel").
 entry(düşünmek, v, [düşündü,düşünme,düşünür], "düşünmek").
 entry(bethorn, v, [bethorned,bethorning,bethorns], "dikenlerle doldurmak").
 entry(bethump, v, [bethumped,bethumping,bethumps], "gürültülü bir şekilde vurmak").
+entry(betide, f, [betided,betiding,betides], "olmak").
+entry(betime, adv, [], "erken").
+girdi(erken, zf, [], "yakında").
+entry(betise, n, [aptallıklar], "aptallık").
+entry(betoken, v, [belirtti, belirtiyor, belirtir], "belirtmek").
+entry(beton, i, [betons], "bir tür beton").
+entry(misk otu, n, [misk otları], "bir Avrupa otu").
+girdi(betook, geçmiş, [], "betake'in zamanı").
+entry(ihanet, f, [ihanet_etti, ihanete_ediyor, ihanet_ediyor], "düşmana yardım etmek").
+entry(ihanet, n, [ihanetler], "ihanet etme eylemi").
+entry(hain, n, [hainler], "ihanet eden biri").
+entry(evlenme_vaadinde_bulun, f, [nisanlanmis,nisanlanma,nisanlanir], "evlenmek icin soz vermek").
+entry(betta, n, [bettalar], "tatlı su balığı").
+entry(betted, a, [], "bahis yaptı geçmiş zamanı").
+girdi(daha_iyi, v, [daha_iyi_oldu,daha_iyi_oluyor,daha_iyi_yapıyor], "iyileştirmek").
+entry(betting, n, [bahisler], "bir yarışın sonucuna kumar oynama eylemi").
+entry(bettor, n, [bahisciler], "bahis yapan kişi").
+girdi(arasında, edat, [], "ayıran alan içinde").
+entry(arasında, edat, [], "between").
+entry(beuncled, sıf, [], "birçok amcaya sahip olma").
+entry(bevatron, n, [bevatrons], "bir proton hızlandırıcı").
+entry(eğik, v, [eğik, eğikleme, eğikler], "veya EĞİK EĞİKLEME EĞİKLER açılı kesmek").
+entry(beveler, n, [bevelers], "eğik yapan biri").
+entry(şavkulama_takımı, i, [şavkulama_takımları], "şavkulama takımı").
+entry(içecek, n, [içecekler], "içmek için bir sıvı").
+entry(bevies, pl, [], "bevy grubu").

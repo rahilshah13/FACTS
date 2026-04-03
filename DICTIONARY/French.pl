@@ -10615,3 +10615,953 @@ entrée(guinderesse, n, [guinderesses], "un dispositif utilisé pour maintenir l
 entry(assez, adv, [], "d'une manière équitable").
 entrée(équité, n, [équités], "la qualité d'être équitable").
 entrée(fairway, n, [fairways], "la partie tondue d'un parcours de golf entre le départ et le green").
+entrée(fée, n, [fées], "un être surnaturel imaginaire").
+entrée(fée, adj, [], "FAIRIER FAIRIESTrelatif à ou ressemblant à une fée").
+entrée(féérisme, n, [féérismes], "la qualité d'être semblable à une fée").
+entry(foi, v, [foié,foiant,foies], "croire ou faire confiance").
+entry(fidèle, n, [fidèles], "un suiveur ou membre loyal").
+entry(faitour, n, [faitours], "un imposteur").
+entry(fajita, n, [fajitas], "boeuf, poulet ou crevettes marinés et grillés servis avec une tortilla de farine").
+entrée(fake, v, [faked,faking,fakes], "concevoir et présenter comme authentique").
+entrée(fakeer, n, [fakeers], "fakir").
+entrée(faker, n, [fakers], "celui qui simule").
+entrée(faux, n, [faux], "la pratique de la contrefaçon").
+entry(fakey, adj, [], "non authentique faux").
+entrée(fakie, n, [fakies], "un mouvement en skateboard et snowboard").
+entry(faking, présent, [], "participe de fake").
+entrée(fakir, n, [fakirs], "un ascète hindou").
+entrée(falafel, n, [falafels], "légumes épicés moulus formés en galettes").
+entrée(falbala, n, [falbalas], "un ornement pour un vêtement de femme").
+entrée(falcate, adj, [], "courbé et effilé en pointe").
+entry(falcated, adj, [], "falciforme").
+entrée(falces, pl, [], "de faux").
+entrée(fauchon, n, [fauchons], "une épée à lame large").
+entrée(faucon, n, [faucons], "un oiseau de proie").
+entry(fauconnier, n, [fauconniers], "celui qui chasse avec des faucons").
+entrée(fauconnet, n, [fauconnets], "un petit faucon").
+entrée(fauconnerie, n, [fauconneries], "le sport de chasse avec des faucons").
+entrée(falderal, n, [falderals], "absurdité").
+entrée(falderol, n, [falderols], "falderal").
+entrée(tomber, v, [tomba, tombé, tombant], "TOMBERdescend sous l'effet de la gravité").
+entrée(fallacy, n, [sophismes], "une idée fausse").
+entry(fallal, n, [fallals], "un article vestimentaire voyant").
+entrée(fallaway, n, [fallaways], "un tir au basketball").
+entrée(repli, n, [replis], "un acte de se retirer").
+entrée(tombé, passé, [], "participe de tomber").
+entrée(tombeur, n, [tombeurs], "celui qui tombe").
+entrée(fallfish, n, [fallfishes], "un poisson d'eau douce").
+entry(fallible, adj, [], "capable de se tromperFALLIBLEMENT adv").
+entrée(chute, n, [chutes], "l'abattage des arbres pour le bois").
+entrée(chute, n, [chutes], "une diminution en quantité ou en qualité").
+entrée(fallout, n, [retombées], "débris radioactifs résultant d'une explosion nucléaire").
+entrée(fallow, v, [fallowed,fallowing,fallows], "labourer et laisser en jachère").
+entrée(faux, adj, [], "PLUS FAUX LE PLUS FAUX contraire à la vérité ou au fait FAUSSEMENT adv").
+entrée(falsetto, n, [falsettos], "une voix artificiellement aiguë").
+entrée(falsie, n, [falsies], "un coussinet porté à l'intérieur d'un soutien-gorge").
+entry(falsifier, v, [falsifié, falsifiant, falsifie], "représenter faussement").
+entrée(faux, n, [faussetés], "quelque chose de faux").
+entry(faltboat, n, [faltboats], "un bateau pliable ressemblant à un kayak").
+entrée(hésiter, v, [hésité, hésitant, hésite], "to hesitate").
+entrée(falterer, n, [falterers], "celui qui hésite").
+entrée(falx, n, [falces], "une structure en forme de faucille").
+entrée(renom, v, [renommé, renomant, renomme], "rendre célèbre").
+entrée(fameless, adj, [], "pas célèbre").
+entrée(familial, adj, [], "relatif à une famille").
+entrée(familier, n, [familiers], "un ami proche ou associé").
+entrée(familisme, n, [familiismes], "une structure sociale dans laquelle la famille prime sur l'individuFAMILISTE adj").
+entrée(famille, n, [familles], "un groupe de personnes liées par le sang ou le mariage").
+entrée(famine, n, [famines], "une pénurie généralisée de nourriture").
+entrée(faming, présent, [], "participe de fame").
+entrée(famish, v, [affamé,affamant,affame], "souffrir de la faim extrême").
+entrée(célèbre, adj, [], "bienconnuCÉLÈBREMENT adv").
+entry(famulus, n, [famuli], "un serviteur ou un assistant").
+entrée(ventilateur, v, [ventilé,ventilant,ventile], "refroidir ou rafraîchir avec un ventilateur, un appareil pour mettre l'air en mouvement").
+entrée(fanatique, n, [fanatiques], "un zélote").
+entrée(fanboy, n, [fanboys], "un homme qui est un adepte enthousiaste de quelque chose").
+entry(aimé, passé, [], "temps de fancy").
+entry(amateur, n, [amateurs], "celui qui a une affection particulière pour quelque chose").
+entrée(fancy, présent, [], "3e personne singulier de fancy").
+entry(fantaisiste, adj, [], "irréaliste").
+entrée(fancify, v, [fancifié,fancifiant,fancifie], "embellir").
+entrée(luxueux, adj, [], "LUXUEUX PLUS LUXUEUXornementalLUXUEUSEMENT adv").
+entrée(fancy, v, [fancy, s'imaginant, s'imagine], "prendre goût à").
+entrée(fandango, n, [fandangos], "ou FANDANGOES, une danse espagnole animée").
+entrée(fandom, n, [fandoms], "un groupe de passionnés enthousiastes").
+entrée(fane, n, [fanes], "un temple").
+entry(fanega, n, [fanegas], "une unité de mesure pour les matières sèches en Espagne").
+entrée(fanegada, n, [fanegadas], "une unité de surface espagnole").
+entrée(fanfare, n, [fanfares], "un bref éclat musical vif").
+entrée(fanfaron, n, [fanfarons], "un vantard").
+entrée(fanfic, n, [fanfics], "fiction écrite par des fans d'une œuvre admirée").
+entrée(fanfold, v, [fanfoldé, fanfoldant, fanfolds], "plier du papier comme un éventail").
+entry(fang, n, [crocs], "une longue dent pointue").
+entrée(fanga, n, [fangas], "fanega").
+entrée(fanatique, n, [fanatiques], "une femme qui est une adepte enthousiaste de quelque chose").
+entrée(fanion, n, [fanions], "un petit drapeau").
+entrée(turbofan, n, [turbofans], "un type de moteur à réaction").
+entrée(fanlight, n, [fanlights], "un type de fenêtre").
+entry(en forme d'éventail, adj, [], "ressemblant à un éventail").
+entrée(ventilé, passé, [], "temps de faner").
+entrée(ventilateur, n, [ventilateurs], "celui qui ventile").
+entrée(éventail, présent, [], "participe de ventiler").
+entrée(fanny, n, [fannies], "les fesses").
+entry(fanon, n, [fanons], "un fanon").
+entry(fanon, n, [fanons], "une chape portée par le pape").
+entrée(fantail, n, [queues_en_éventail], "une queue ou une extrémité en forme d'éventail").
+```prolog
+entrée(fantasia, n, [fantasias], "une composition musicale libre").
+```
+entry(fantasie, n, [fantaisies], "une fantaisie").
+entry(fantasied, passé, [], "temps de fantaisie").
+entrée(fantasm, n, [fantasms], "fantasme").
+entrée(fantast, n, [fantasts], "une personne peu pratique").
+entrée(fantaisie, v, [fantasié,fantasiant,fantaisies], "imaginer").
+entrée(fantod, n, [fantods], "une crise émotionnelle").
+entrée(fantôme, n, [fantômes], "fantôme").
+entrée(fanum, n, [fanums], "fanon").
+entrée(eventail, adj, [], "étalé comme un éventail ouvert").
+entrée(fanwort, n, [fanworts], "une plante aquatique").
+entrée(fanzine, n, [fanzines], "un magazine écrit par et pour des passionnés dévoués").
+entrée(faqir, n, [faqirs], "fakir").
+entrée(fakir, n, [fakirs], "fakir").
+entrée(lointain, adv, [], "PLUS LOIN PLUS LOIN ou PLUS LOIN PLUS LOIN à ou à une grande distance").
+entry(farad, n, [farads], "une unité de capacité électrique").
+entry(faradaïque, adj, [], "faradic").
+entrée(faraday, n, [faradays], "une unité d'électricité").
+entrée(faradique, adj, [], "se rapportant à un type de courant électrique").
+entrée(faradise, v, [faradiséd, faradisage, faradises], "faradiser").
+entry(faradisation, n, [faradisations], "l'utilisation du courant faradique à des fins thérapeutiques").
+entry(faradiser, v, [faradisé,faradisant,faradise], "traiter par faradisation").
+entry(lointain, adj, [], "distant").
+entry(farce, v, [farcé,farçant,farces], "remplir de contenu spirituel").
+entry(farcer, n, [farcers], "farceur").
+entrée(farceur, n, [farceurs], "un farceur").
+entry(farci, adj, [], "farci avec de la viande finement hachée").
+entrée(farcesque, adj, [], "absurde").
+entry(farcie, adj, [], "farcie").
+entrée(farcing, présent, [], "participe de farce").
+entry(farcy, n, [charbons], "une maladie des chevaux").
+entrée(fard, v, [fardé,fardant,fards], "appliquer des cosmétiques").
+entry(fardel, n, [fardels], "un paquet").
+entrée(fare, v, [fared,faring,fares], "s'en sortir").
+entrée(farebox, n, [fareboxes], "un réceptacle pour les tarifs dans un bus").
+entrée(voyageur, n, [voyageurs], "un voyageur").
+entrée(adieu, v, [adieux,adieuant,adieuers], "dire au revoir").
+entrée(farfal, n, [farfals], "farfel").
+entrée(farfalle, n, [farfalles], "pâtes en forme de nœuds papillon").
+entrée(farfel, n, [farfels], "nouilles sous forme de petites pellets ou granules").
+entrée(farina, n, [farines], "une fine semoule faite de grains de céréales").
+entrée(faring, présent, [], "participe de faire").
+entrée(farinha, n, [farinhas], "un repas fait à partir de la racine du manioc").
+entrée(farineux, adj, [], "ressemblant à de la farine").
+entry(farl, n, [farls], "un gâteau mince à l'avoine").
+entrée(farle, n, [farles], "farl").
+entry(ferme, v, [cultivé,cultivant,fermes], "gérer et cultiver comme une ferme une parcelle de terre consacrée à l'agricultureFERMABLE adj").
+entrée(agriculteur, n, [agriculteurs], "celui qui cultive").
+entry(ouvrier_agricole, n, [ouvriers_agricoles], "un travailleur agricole").
+entrée(agriculture, n, [agricultures], "l'activité d'exploiter une ferme").
+entrée(terre_agricole, n, [terres_agricoles], "terre cultivée").
+entry(femme_de_fermier, n, [femmes_de_fermier], "la femme d'un fermier").
+entry(travail_à_la_ferme, n, [travaux_à_la_ferme], "travail effectué dans une ferme").
+entrée(cour_de_ferme, n, [cours_de_ferme], "une zone entourée de bâtiments de ferme").
+entry(farnésol, n, [farnésols], "un alcool utilisé dans les parfums").
+entrée(éloignement, n, [éloignements], "l'état d'être éloigné ou à l'écart").
+entrée(pharaon, n, [pharaons], "un jeu de cartes").
+entrée(farolito, n, [farolitos], "une bougie dans un sac en papier lesté de sable").
+entrée(farouche, adj, [], "timidement renfermé").
+entrée(farrago, n, [farragos], "ou FARRAGOS, un mélange confus").
+entrée(maréchal-ferrant, n, [maréchaux-ferrants], "celui qui ferre les chevaux").
+entry(maréchalerie, n, [maréchaleries], "le métier de maréchal-ferrant").
+entrée(farrow, v, [farrowed, farrowing, farrows], "mettre bas une portée de porcelets").
+entrée(farside, n, [farsides], "le côté le plus éloigné").
+entry(plus_loin, a, [], "comparatif de far").
+entrée(plus_éloigné, a, [], "superlatif de loin").
+entrée(farthing, n, [farthings], "une ancienne pièce britannique").
+entrée(fartlek, n, [fartleks], "une technique d'entraînement athlétique").
+entrée(fasces, n, [fasces], "un ancien symbole romain de pouvoir").
+entrée(fascia, n, [fascias], "ou FASCIAE une large et distincte bande de couleur FASCIAL FASCIATE adj").
+entrée(fascicule, n, [fascicules], "un petit paquet").
+entry(fascine, n, [fascines], "un assemblage de bâtons utilisé dans la construction de fortifications").
+entry(fascisme, n, [fascismes], "un système politique oppressif").
+entrée(fasciste, n, [fascistes], "un partisan du fascisme").
+entrée(fascite, n, [fascites], "inflammation d'un tissu conjonctif").
+entrée(fash, v, [fasha, fashant, fashs], "ennuyer").
+entry(mode, v, [façonné,façonnant,façonne], "donner une forme ou une structure particulière à").
+entrée(rapide, adj, [], "PLUS RAPIDE LE PLUS RAPIDE se déplaçant ou capable de se déplacer rapidement").
+entrée(jeûner, v, [jeûnait, jeûnant, jeûne], "s'abstenir de manger").
+entrée(fastback, n, [fastbacks], "un type de toit d'automobile").
+entrée(fastball, n, [fastballs], "un type de lancer au baseball").
+entrée(attacher, v, [attaché,attache,attaches], "sécuriser").
+entrée(attache, n, [attaches], "celui qui attache").
+entrée(jeûne, n, [jeûnes], "abstention de manger").
+entrée(rapidité, n, [rapidités], "la qualité d'être rapide").
+entrée(fastueux, adj, [], "arrogant").
+entry(gras, adj, [], "PLUS GRAS LE PLUS GRAS ayant une abondance de chair").
+entrée(gros, v, [engraissé, engraissant, graisses], "faire grossir").
+entry(mortel, adj, [], "causant ou capable de causer la mort").
+entry(fatalisme, n, [fatalismes], "la doctrine selon laquelle tous les événements sont prédéterminés").
+entrée(fataliste, n, [fatalistes], "un partisan du fatalisme").
+entry(fatalité, n, [fatalités], "une mort résultant d'un événement inattendu").
+entrée(fatalement, adv, [], "d'une manière fatale").
+entrée(fatback, n, [fatbacks], "un poisson marin").
+entrée(fatbird, n, [fatbirds], "un oiseau échassier").
+entrée(destin, v, [destiné,destinant,destine], "destiner").
+entry(fatal, adj, [], "d'une importance décisive").
+entrée(gros_tête, n, [gros_têtes], "un idiot").
+entrée(père, v, [engendré, engendrant, engendre], "causer à exister").
+entrée(paternel, adj, [], "paternel").
+entrée(fathom, v, [fathomed,fathoming,fathoms], "comprendre").
+entry(fathomer, n, [fathomers], "celui qui sonde").
+entry(fatidic, adj, [], "relatif à la prophétie").
+entry(fatigue, v, [fatigué,fatiguant,fatigues], "épuiser").
+entrée(fating, présent, [], "participe de fate").
+entrée(sans_graisse, adj, [], "n'ayant pas de graisse").
+entrée(grasâtre, adj, [], "ressemblant à de la graisse").
+entry(gros, n, [gros], "un jeune animal engraissé pour l'abattage").
+entry(grossièrement, adv, [], "d'une manière de quelqu'un de gros").
+entrée(fatness, n, [fatnesses], "l'état d'être gros").
+entrée(fatstock, n, [fatstocks], "bétail qui est gras et prêt pour le marché").
+entrée(grossi, passé, [], "temps de gras").
+entrée(grossir, v, [grossi,grossissant,grossit], "rendre gros").
+entry(engraisseur, n, [engraisseurs], "un qui engraisse").
+entrée(plus_gras, comparatif, [], "de gras").
+entrée(fattest, superlatif, [], "de gros").
+entrée(fattier, comparatif, [], "de gras").
+entrée(fatties, pl, [], "de grasse").
+entrée(fattiest, superlatif, [], "de gras").
+entry(fattily, adv, [], "d'une manière grasse").
+entrée(fatting, présent, [], "participe de fat").
+entrée(fattish, adj, [], "quelque peu gras").
+entrée(fatty, adj, [], "PLUSGRAS LEPLUSGRAISSEUXgras huileux").
+entrée(gros, n, [gros], "quelqu'un qui est gros").
+entrée(fatuity, n, [fatuities], "quelque chose de stupide ou insensé").
+entrée(fatuous, adj, [], "bêtement suffisant").
+entrée(fatwa, n, [fatwas], "un décret juridique islamique").
+entrée(fatwood, n, [fatwoods], "bois utilisé pour l'allumage").
+entrée(faubourg, n, [faubourgs], "une banlieue").
+entrée(faucal, n, [faucals], "un son produit dans les isthmes").
+entry(fauces, npl, [], "le passage de la bouche au pharynx").
+entrée(robinet, n, [robinets], "un dispositif pour contrôler le flux de liquide d'un tuyau").
+entrée(faucetry, n, [faucetries], "un ensemble de robinets").
+entry(faucial, adj, [], "concernant les isthmes du gosier").
+entry(faugh, interj, [], "utilisé pour exprimer le dégoût").
+entrée(fauld, n, [faulds], "une pièce d'armure sous la cuirasse").
+entrée(défaut, v, [défauts,défaillant,défauts], "critiquer").
+entrée(fautif, adj, [], "FAUTIF FAUTIFS imparfait FAUTIVEMENT adv").
+entrée(faun, n, [faunes], "une divinité sylvestre de la mythologie romaineFAUNLIKE adj").
+entrée(faune, n, [faunes], "ou FAUNAE la vie animale d'une région particulière FAUNIQUE adj FAUNIQUE adv").
+entry(faunist, n, [faunistes], "un spécialiste des faunes").
+entrée(fauteuil, n, [fauteuils], "un fauteuil").
+entrée(fauve, n, [fauves], "un fauviste").
+entry(fauvisme, n, [fauvismes], "un mouvement de peinture").
+entry(fauviste, n, [fauvistes], "un défenseur du fauvisme").
+entrée(faux, adj, [], "pas authentique faux").
+entrée(fèves, n, [fèves], "la graine comestible d'une vigne grimpante").
+entrée(fave, n, [faves], "un favori").
+entry(favela, n, [favelas], "une zone de bidonvilles").
+entrée(favella, n, [favellas], "favela").
+entrée(favisme, n, [favismes], "une anémie aiguë").
+entrée(favonian, adj, [], "relatif au vent d'ouest").
+entrée(faveur, v, [favorisé,favorisant,favorise], "regarder avec approbation").
+entry(favoriser, n, [favorisers], "celui qui favorise").
+entrée(préféré, n, [favoris], "une personne ou une chose préférée par-dessus tout").
+entrée(faveur, v, [favorisé,favorisant,favorise], "favoriser").
+entrée(favoriser, n, [favorisers], "favorer").
+entry(teigne, n, [teignes], "une maladie de la peau").
+entrée(fawn, v, [fawned,fawning,fawns], "chercher à attirer l'attention ou la faveur par un comportement servile").
+entrée(fawner, n, [fawners], "celui qui flatte").
+entrée(fawnlike, adj, [], "ressemblant à un jeune cerf").
+entrée(fawny, adj, [], "DE COULEUR BRUN JAUNEâtre FAWNIER LE PLUS FAWNY").
+entrée(fax, v, [faxé,faxant,faxes], "transmettre et reproduire par des moyens électroniquesFAXABLE adj").
+entrée(fay, v, [fayed,faying,fays], "joindre étroitement").
+entrée(fayalite, n, [fayalites], "un minéral").
+entrée(faze, v, [fazed,fazing,fazes], "troubler le calme de").
+entrée(fazenda, n, [fazendas], "une plantation brésilienne").
+entrée(fe, n, [fes], "une lettre hébraïque").
+entry(feal, adj, [], "loyal").
+entrée(fidélité, n, [fidélités], "loyauté").
+entrée(peur, v, [craint,craignant,crains], "avoir peur de").
+entry(peureux, n, [peureux], "celui qui craint").
+entrée(fearful, adj, [], "PEUREUX PEUREUSEafraid").
+entry(sans_peur, adj, [], "sans_crainte").
+entry(redoutable, adj, [], "effrayant").
+entrée(féance, n, [féances], "l'exécution d'une condition, obligation ou devoir").
+entrée(fease, v, [feased,feasing,feases], "déconcerter").
+entry(possible, adj, [], "capable d'être faitADVERBIALEMENT adv").
+entrée(festin, v, [festiné,festinant,festine], "manger somptueusement").
+entrée(festoyeur, n, [festoyeurs], "celui qui festoie").
+entrée(feastful, adj, [], "festif").
+entrée(feat, adj, [], "FEATER FEATESThabile").
+entrée(fait, n, [faits], "un acte ou exploit notable").
+entry(plume, v, [plumé,plumant,plumes], "recouvrir de plumes structures cornées qui forment le principal revêtement des oiseaux").
+entrée(plumeux, adj, [], "FEATHERIER FEATHERIESTressemblant à des plumes").
+entry(adroitement, adj, [], "ADROIT PLUS ADROITgracieux").
+entrée(caractéristique, v, [en vedette, mettant en vedette, caractéristiques], "donner une importance particulière à").
+entrée(feaze, v, [feazed, feazing, feazes], "pour déconcerter").
+entrée(fébricitant, adj, [], "fiévreux").
+entrée(fébrile, adj, [], "fiévreux").
+entrée(fécal, adj, [], "relatif aux fèces").
+entry(fèces, npl, [], "déchets corporels évacués par l'anus").
+entrée(fécial, n, [fécials], "fétial").
+entrée(feck, n, [fecks], "valeur").
+entry(feckless, adj, [], "inutile").
+entrée(feckly, adv, [], "presque").
+entrée(fécule, n, [fécule], "matière fécale").
+entry(féculent, adj, [], "sale avec des impuretés").
+entrée(fécond, adj, [], "fruitful").
+entrée(fed, n, [feds], "un agent fédéral").
+entrée(fedayee, n, [fedayeen], "un commando arabe").
+entrée(fédératie, n, [fédérations], "une alliance").
+entry(fédéral, n, [fédéraux], "un partisan d'un type de gouvernement central").
+entrée(fédérer, v, [fédéré,fédérant,fédère], "unir dans une alliance").
+entrée(fedex, v, [fedexé,fedexant,fedexe], "envoyer par Federal Express").
+entrée(fedora, n, [fedoras], "un type de chapeau").
+entry(fee, v, [feed,feeing,fees], "payer une redevance un tarif fixe à").
+entrée(féeble, n, [féobles], "une mauviette une personne faible ou inefficace").
+entrée(faible, adj, [], "PLUS FAIBLE LE PLUS FAIBLEfaiblementadv").
+entry(faiblard, adj, [], "quelque peu faible").
+entrée(nourrir, v, [nourri,nourrissant,nourrit], "donner de la nourriture àNOURRISSABLE adj").
+entry(rétroaction, n, [rétroactions], "le retour d'une partie de la sortie à l'entrée").
+entrée(sacÀnourrir, n, [sacsÀnourrir], "un sac pour nourrir les chevaux").
+entrée(mangeoire, n, [mangeoires], "une boîte pour la nourriture des animaux").
+entrée(nourrisseur, n, [nourrisseurs], "celui qui nourrit").
+entrée(feedhole, n, [trousdalimentation], "un des nombreux trous dans une bande perforée").
+entrée(nourrir, n, [nourrissages], "l'acte de donner à manger à une personne ou un animal").
+entry(parc_d'engraissement, n, [parcs_d'engraissement], "un terrain sur lequel le bétail est engraissé").
+entrée(feedlot, n, [feedlots], "un parc d'engraissement").
+entrée(ressentir, v, [ressenti, ressentant, ressent], "percevoir par le sens du toucher").
+entrée(antennes, n, [antennes], "un organe tactile").
+entry(sans_frais, adj, [], "ne nécessitant aucun frais").
+entrée(sentiment, n, [sentiments], "la fonction ou le pouvoir de percevoir par le toucher").
+entry(pieds, pl, [], "de pied").
+entrée(sans_pieds, adj, [], "n'ayant pas de pieds").
+entrée(feeze, v, [feezed, feezeant, feeze], "stupéfier").
+entrée(feh, n, [fehs], "peh").
+entrée(feindre, v, [feint,feignant,feint], "faire semblant").
+entrée(feigner, n, [feigners], "celui qui feint").
+entry(feijoa, n, [feijoas], "un fruit comestible vert").
+entry(feinte, v, [feinte, feintant, feintes], "faire un mouvement trompeur").
+entrée(feirie, adj, [], "agile").
+entrée(feist, n, [feists], "un petit chien de race croisée").
+entrée(feisty, adj, [], "PLUS FOU FOULE PLEIN D'ÉNERGIE NERVEUSE FOUILLEMENT adv").
+entrée(falafel, n, [falafels], "falafel").
+entrée(feldsher, n, [feldshers], "un travailleur médical en Russie").
+entrée(feldspath, n, [feldspaths], "un minéral").
+entrée(felicity, n, [felicities], "bonheur").
+entrée(félidé, n, [félidés], "un félin").
+entry(félin, n, [félins], "un animal de la famille des chats").
+entrée(felinely, adv, [], "de manière féline").
+entrée(félinité, n, [félinités], "la qualité d'être félin").
+entry(tombé, adj, [], "PLUS CRUELLEcruelle").
+entry(tomber, v, [abattu, abatage, abats], "faire tomber").
+entry(gaillard, n, [gaillards], "un homme ou un garçon").
+entrée(abatable, adj, [], "capable d'être abattu").
+entry(fellah, n, [fellahs,fellahin], "ou FELLAHEEN un paysan ou ouvrier dans les pays arabes").
+entry(fellate, v, [fellated,fellating,fellates], "faire une fellation").
+entrée(fellatio, n, [fellatios], "stimulation orale du pénis").
+entrée(fellateur, n, [fellateurs], "celui qui fellationne").
+entry(bûcheron, n, [bûcherons], "celui qui abat").
+entrée(fellies, pl, [], "de roue").
+entrée(fellness, n, [fellnesses], "cruauté extrême").
+entry(« jante », n, [« jantes »], "le bord d'une roue").
+entrée(collègue, v, [collegué, colligation, collègues], "produire un égal à").
+entry(fellowly, adj, [], "amical").
+entrée(felly, n, [fellies], "un bandage de roue").
+entry(criminel, n, [criminels], "une personne qui a commis un crime").
+entrée(felonry, n, [felonries], "l'ensemble de la classe des criminels").
+entrée(felon, n, [felons], "un crime grave").
+entry(felsique, adj, [], "composé de feldspaths et de silicates").
+entrée(felsite, n, [felsites], "une roche ignéeFELSITIQUE adj").
+entrée(felspar, n, [felspars], "feldspath").
+entrée(felstone, n, [felstones], "felsite").
+entry(felt, v, [felted,felting,felts], "feutrer ensemble").
+entrée(feutrage, n, [feutrages], "matériau feutré").
+entry(feltlike, adj, [], "comme un tissu fait de laine").
+entrée(felty, adj, [], "RESSEMBLANT À UN TISSU EN LAINE").
+entrée(felucca, n, [felouques], "un voilier rapide").
+entry(félwort, n, [félworts], "une plante à fleurs").
+entry(fem, n, [fems], "un homosexuel passif").
+entrée(femelle, n, [femelles], "un individu qui porte des petits ou produit des ovules").
+entrée(femme, n, [femmes], "une épouse").
+entry(féminité, n, [féminités], "l'état d'être une femme").
+entrée(féminin, npl, [], "femmes collectivement").
+entrée(féminin, n, [féminins], "un mot ou une forme ayant le genre féminin").
+entrée(féminiser, v, [féminisé,féminisant,féminise], "to feminiser").
+entrée(féminisme, n, [féminismes], "une doctrine préconisant des droits pour les femmes égaux à ceux des hommes").
+entrée(féministe, n, [féministes], "un défenseur du féminisme").
+entrée(féminité, n, [féminités], "la qualité d'être féminine").
+entrée(féminiser, v, [féminisé, féminisant, féminise], "rendre féminin").
+entrée(femme, n, [femmes], "une femme").
+entrée(fémoral, adj, [], "relatif au fémur").
+entrée(fémur, n, [fémurs], "ou Fémora un os de la jambe").
+entrée(fen, n, [fens], "un marais").
+entrée(fenagle, v, [fenaglé,fenaglant,fenagles], "manigancer").
+entry(clôture, v, [clôturé,clôturant,clôtures], "pratiquer l'art de l'escrime").
+entrée(escrimeur, n, [escrimeurs], "celui qui pratique l'escrime").
+entrée(clôture, n, [clôtures], "la terre occupée par une clôture").
+entry(fencible, n, [fencibles], "un soldat enrôlé seulement pour le service à domicile").
+entry(escrime, n, [escrimes], "l'art d'utiliser une épée pour l'attaque et la défense").
+entrée(fend, v, [fendé, fendage, fends], "repousser").
+entrée(fender, n, [fenders], "un garde en métal sur la roue d'un véhicule motoriséFENDERED adj").
+entrée(fenêtre, n, [fenêtres], "une petite ouverture anatomique").
+entrée(fening, n, [fenings], "une unité monétaire de la Bosnie-Herzégovine").
+entrée(fenland, n, [fenlands], "terrain marécageux").
+entry(fennec, n, [fennecs], "un renard africain").
+entrée(fenouil, n, [fenouils], "une herbe vivace").
+entrée(fenny, adj, [], "FENNIER FENNIESTmarécageux").
+entrée(fentanyl, n, [fentanyls], "un opioïde narcotique").
+entrée(fenthion, n, [fenthions], "un insecticide").
+entrée(fénuron, n, [fénurons], "un herbicide").
+entrée(fief, n, [fiefs], "un fief").
+entrée(féodal, n, [féodaux], "un vassal").
+entrée(feoff, v, [feoffed, feoffant, feoffs], "accorder un fief à").
+entrée(feoffee, n, [feoffees], "celui à qui un fief est accordé").
+entrée(feoffer, n, [feoffers], "celui qui accorde un fief à un autre").
+entrée(feoffer, n, [feoffers], "donateur").
+entrée(fer, prép, [], "pour").
+entrée(fécondité, n, [fécondités], "l'état d'être fertile").
+entrée(sauvage, n, [sauvages], "une bête sauvage").
+entry(ferbam, n, [ferbams], "un fongicide").
+entrée(compagnon, n, [compagnons], "un compagnon").
+entrée(feretory, n, [feretories], "un réceptacle dans lequel les reliques sacrées sont conservées").
+entrée(feria, n, [ferias], "ou FERIAJour de semaine d'un calendrier ecclésiastique où aucune fête n'est célébréeFERIAL adj").
+entry(ferine, adj, [], "sauvage").
+entrée(ferity, n, [ferities], "sauvagerie").
+entrée(ferlie, n, [ferlies], "une vue étrange").
+entry(étonnement, n, [étonnements], "étonnant").
+entrée(fermata, n, [fermatas], "ou FERMATE la prolongation d'une note musicale, d'un accord ou d'un silence au-delà de sa valeur temporelle écrite").
+entrée(fermenter, v, [fermenté,fermentant,fermente], "subir un type de réaction chimique").
+entrée(fermi, n, [fermis], "une unité de longueur").
+entry(fermion, n, [fermions], "un type de particule atomique").
+entrée(fermium, n, [fermiums], "un élément radioactif").
+entry(fougère, n, [fougères], "une plante vasculaire sans fleursFOUGÈRE SANS FOUGÈRE COMME adj").
+entrée(fougèraie, n, [fougèraies], "un endroit où poussent des fougères").
+entrée(ferninst, prép, [], "près de").
+entry(ferny, adj, [], "RICHE EN FOUGÈRES").
+entrée(ferocité, n, [ferocités], "férocité").
+entrée(ferrate, n, [ferrates], "un sel chimique").
+entrée(ferrel, v, [ferreled,ferreling,ferrels], "ou FERRELLED FERRELLING FERRELSt ferruler").
+entry(ferreous, adj, [], "contenant du fer").
+entrée(furet, v, [furetait,furettera,furets], "rechercher par une enquête minutieuse").
+entry(fureteur, n, [fureteurs], "celui qui fouine").
+entry(fouinesque, adj, [], "suggérant un furet, un putois").
+entrée(ferriage, n, [ferriages], "transport par ferry").
+entrée(ferrique, adj, [], "relatif au fer").
+entrée(ferried, passé, [], "temps de ferry").
+entry(bateaux, présent, [], "3ème personne singulier de transporter par bac").
+entrée(ferrite, n, [ferrites], "une substance magnétiqueFERRITIQUE adj").
+entry(ferritine, n, [ferritines], "une protéine qui contient du fer").
+entry(ferreux, adj, [], "relatif au fer").
+entrée(virole, v, [viroles, virolé, virolant], "fournir avec un anneau en métal ou un capuchon pour éviter le fendillement").
+entrée(ferrum, n, [ferrums], "fer").
+entrée(ferry, v, [transbordé,transbordant,transborde], "transporter par ferry un type de bateau").
+entrée(passeur, n, [passeurs], "celui qui opère un ferry").
+entrée(fertile, adj, [], "capable de se reproduire").
+entrée(ferula, n, [ferulas], "ou FERULAE une pièce de bois plate").
+entrée(ferule, v, [feruled,feruling,ferules], "mettre une virole").
+entrée(fervency, n, [fervencies], "ferveur").
+entrée(fervent, adj, [], "marqué par la ferveur").
+entry(fervid, adj, [], "ferventARDAMMENT adv").
+entry(ferveur, n, [ferveurs], "grande chaleur ou intensité").
+entrée(ferveur, n, [ferveurs], "fervor").
+entrée(fétuque, n, [fétuques], "une herbe vivace").
+entrée(fess, v, [fessed,fessing,fesses], "confesser").
+entry(fesse, n, [fesses], "une bande horizontale au milieu d'un écu héraldique").
+entrée(fesswise, adv, [], "horizontalement").
+entrée(fête, n, [fêtes], "un rassemblement pour une activité").
+entry(festa, n, [festivals], "une fête religieuse").
+entrée(festal, adj, [], "festivementFESTALLY adv").
+entrée(fester, v, [festered, festering, festers], "produire du pus").
+entrée(festival, n, [festivals], "un jour ou une période de célébration").
+entrée(festif, adj, [], "de ou convenant à un festival").
+entry(décorer, v, [décoré,décorant,décores], "suspendre des chaînes ou bandes décoratives sur").
+entrée(fet, v, [fetted,fetting,fets], "récupérer").
+entrée(feta, n, [fetas], "un fromage grec").
+entrée(fœtal, adj, [], "relatif à un fœtus").
+entry(fœtation, n, [fœtations], "le développement d'un fœtus").
+entrée(fetch, v, [fetché,fetchant,fetches], "aller chercher et ramener").
+entry(fetcher, n, [récupérateurs], "celui qui récupère").
+entrée(fête, v, [fêté,fêtant,fêtes], "honorer avec une célébration").
+entry(feterita, n, [feteritas], "une graminée céréalière").
+entrée(fetial, n, [fetials], "un prêtre de la Rome antique").
+entrée(fetialis, n, [fetiales], "fétial").
+entry(fétiche, n, [fétiches], "fétiche").
+entry(fœticide, n, [fœticides], "le meurtre d'un fœtus").
+entry(fétide, adj, [], "ayant une odeur nauséabondeFÉTIDEMENT adv").
+entrée(fétidité, n, [fétidités], "l'état d'être fétide").
+entrée(fêter, présent, [], "participe de fête").
+entry(fétiche, n, [fétiches], "un objet réputé avoir un pouvoir magique").
+entrée(paturon, n, [paturons], "une articulation de la jambe d'un cheval").
+entrée(fétoologie, n, [fétoologies], "la branche de la médecine qui s'occupe du fœtus").
+entrée(fetor, n, [fetors], "une odeur nauséabonde").
+entrée(fetted, passé, [], "temps de fet").
+entrée(fetter, v, [entravé, entravant, entraves], "enchaîner").
+entry(fetterer, n, [fetterers], "celui qui enchaîne").
+entry(fetting, présent, [], "participe de fet").
+entry(fettle, v, [fettled,fettling,fettles], "couvrir le foyer avec du revêtement").
+entrée(fettler, n, [fettlers], "celui qui ajuste").
+entrée(fettling, n, [fettlings], "matériau en vrac jeté sur le foyer d'un four pour le protéger").
+entrée(fœtus, n, [fœtus], "l'organisme à naître porté dans l'utérus aux stades ultérieurs de son développement").
+entry(feu, v, [feued,feuing,feus], "accorder des terres selon la loi féodale écossaise").
+entrée(feuar, n, [feuars], "une personne à qui la terre est concédée en vertu du droit féodal écossais").
+entrée(feud, v, [feuded,feuding,feuds], "s'engager dans une querelle une hostilité amère et continue").
+entry(féodal, adj, [], "se rapportant à un système politique et économique de l'Europe médiévaleFÉODALEMENT adv").
+entry(féodal, n, [féodaux], "un vassal").
+entrée(feudiste, n, [feudistes], "celui qui se querelle").
+entrée(fébrile, v, [fébrilement,fébrilisant,fébriles], "affecter avec fièvre élévation anormale de la température corporelle").
+entry(grande_camomille, n, [grandes_camomilles], "une herbe vivace").
+entrée(fiévreux, adj, [], "avoir de la fièvre").
+entry(fiévreux, adj, [], "feverish").
+entrée(peu, adj, [], "MOINS MOINSnombre se chiffrant à ou consistant en un petit nombre").
+entry(peuventé, n, [peuventés], "l'état d'être peu nombreux").
+entrée(fewtrils, npl, [], "choses de peu de valeur").
+entry(fey, adj, [], "FOU FOUEcrazyFEYLY adv").
+entrée(feyness, n, [feynesses], "l'état d'être fey").
+entrée(fez, n, [fezes], "ou FEZZESun chapeau sans bord porté par les hommes au Proche-OrientFEZZED FEZZY adj").
+entry(fiacre, n, [fiacres], "une petite voiture à cheval").
+entrée(fiancé, n, [fiancés], "un homme engagé à se marier").
+entry(fiancée, n, [fiancées], "une femme fiancée pour se marier").
+entrée(fiar, n, [fiars], "le détenteur d'un type de propriété absolue de terrain selon la loi écossaise").
+entrée(fiasco, n, [fiascos], "ou FIASCHI une bouteille de vin").
+entry(fiasco, n, [fiascos], "ou FIASCOESun échec complet").
+entrée(fiat, n, [fiats], "un ordre autoritaire").
+entrée(fib, v, [fibbed,fibbing,fibs], "raconter un mensonge trivial").
+entrée(fibber, n, [fibbers], "celui qui raconte des mensonges").
+entrée(fibre, n, [fibres], "un fil ou un objet ou structure semblable à un filFIBRÉ adj").
+entrée(fiberize, v, [fiberized,fiberizing,fiberizes], "réduire en fibres").
+entrée(fibranne, n, [fibrannes], "un tissu fait de fil de rayonne filé").
+entrée(fibre, n, [fibres], "fibreFIBRÉ adj").
+entrée(fibrille, n, [fibrilles], "une petite fibre").
+entrée(fibrilla, n, [fibrillae], "une fibrille").
+entry(fibrine, n, [fibrines], "une protéine insoluble").
+entrée(fibrome, n, [fibromes], "un fibrome").
+entrée(fibroïne, n, [fibroïnes], "une protéine insoluble").
+entry(fibrome, n, [fibromes], "ou FIBROMATA une tumeur bénigne composée de tissu fibreux").
+entrée(fibrose, n, [fibroses], "le développement d'un excès de tissu fibreux dans un organe corporelFIBROTIQUE adj").
+entrée(fibreux, adj, [], "contenant consistant en ou ressemblant à des fibres").
+entrée(fibster, n, [fabulateurs], "celui qui raconte des histoires").
+entrée(fibule, n, [fibules], "ou FIBULAE un os de la jambe FIBULAIRE adj").
+entrée(fice, n, [fices], "un chien de chasse").
+entrée(fiche, n, [fiches], "une feuille de microfilm").
+entrée(fichu, n, [fichus], "un foulard de femme").
+entry(ficine, n, [ficines], "une enzyme").
+entrée(fickle, adj, [], "FICKLER FICKLESTnon constant ou fidèleFICKLY adv").
+entrée(fico, n, [ficoes], "quelque chose de peu de valeur").
+entrée(fictile, adj, [], "malléable").
+entrée(fiction, n, [fictions], "une œuvre littéraire dont le contenu est produit par l'imagination").
+entrée(fictif, adj, [], "imaginaire").
+entry(ficus, n, [figuiers], "un arbre tropical").
+entrée(fid, n, [fids], "une barre carrée utilisée comme support pour un mât de hune").
+entry(violon, v, [joué_du_violon, jouant_du_violon, joue_du_violon], "jouer du violon").
+entrée(violoneux, n, [violoneux], "celui qui joue du violon").
+entrée(fiddling, n, [fiddlings], "l'action de jouer du violon").
+entrée(fiddly, adj, [], "PLUS_FIDDLER LE_PLUS_FIDDLERdifficile à manipuler de manière complexe").
+entrée(fidéisme, n, [fidésimes], "confiance dans la foi plutôt que dans la raison").
+entrée(fidéiste, n, [fidéiistes], "un croyant en fidéisme").
+entrée(fidélité, n, [fidélités], "loyauté").
+entrée(fidge, v, [fidgeté,fidgetant,fidgete], "gigoter").
+entrée(fidget, v, [s'agitait, s'agitant, s'agite], "se déplacer nerveusement ou avec agitation").
+entrée(agité, n, [agités], "celui qui s'agite").
+entry(agité, adj, [], "nerveusement agité").
+entrée(fidging, présent, [], "participe de fidge").
+entrée(fido, n, [fidos], "une pièce défectueuse").
+entrée(fiducial, adj, [], "basé sur la foi ou la confiance").
+entrée(fie, interj, [], "utilisé pour exprimer la désapprobation").
+entrée(fief, n, [fiefs], "un domaine féodal").
+entrée(fief, n, [fiefs], "un fief").
+entrée(champ, v, [champs,champant,champe], "jouer comme un joueur de champ").
+entrée(joueur de champ, n, [joueurs de champ], "celui qui attrape ou ramasse une balle en jeu").
+entrée(démon, n, [démons], "un démon").
+entrée(méchant, adj, [], "extrêmement méchant ou cruel").
+entrée(féroce, adj, [], "PLUS FÉROCE, LE PLUS FÉROCE violemment hostile ou agressif FÉROCEMENT adv").
+entrée(fiery, adj, [], "TRÈS CHAUD INTENSEment TRÈS ADV").
+entrée(fiesta, n, [fiestas], "un festival").
+entrée(fifre, v, [fifré, fifrant, fifres], "jouer du fifre une flûte aiguë").
+entrée(fifre, n, [fifres], "celui qui joue du fifre").
+entrée(quinze, n, [quinzes], "un nombre").
+entry(cinquième, n, [cinquièmes], "une de cinq parts égales").
+entrée(cinquièmement, adv, [], "à la cinquième place").
+entry(cinquantième, n, [cinquantièmes], "une des cinquante parties égales").
+entrée(cinquante, n, [cinquante], "un nombre").
+entrée(cinquantaine, adj, [], "ayant environ cinquante ans").
+entrée(fig, v, [figged, figging, figs], "orner").
+entrée(figeater, n, [figeaters], "un grand scarabée").
+entrée(combattre, v, [combattu, combattant, combat], "essayer de vaincre un adversaire").
+entrée(combattant, n, [combattants], "celui qui combat").
+entrée(combat, n, [combats], "l'acte de quelqu'un qui combat").
+entrée(fantaisie, n, [fantaisies], "un produit de l'invention mentale").
+entrée(figuier, n, [figuiers], "un arbre qui porte des figues, des fruits doux et sombres").
+entry(figuline, n, [figulines], "un morceau de poterie").
+entry(figural, adj, [], "consistant en forme humaine ou animale").
+entry(figurant, n, [figurants], "un danseur de ballet qui danse uniquement en groupes").
+entry(figuré, adj, [], "ayant une forme définie").
+entry(figure, v, [figured,figuring,figures], "calculer").
+entrée(figurer, n, [figurers], "celui qui calcule").
+entry(figurine, n, [figurines], "une petite statue").
+entrée(sculelle, n, [sculelles], "une plante à fleurs").
+entry(fil, n, [fils], "une pièce d'Irak et de Jordanie").
+entrée(fila, pl, [], "de filum").
+entrée(filagree, v, [filagreed,filagreeing,filagrees], "faire de la filigrane").
+entrée(filament, n, [filaments], "un fil très fin ou une structure semblable à un fil").
+entrée(filar, adj, [], "relatif à un fil").
+entrée(filarée, n, [filarées], "une mauvaise herbe européenne").
+entrée(filaire, n, [filaires], "un ver parasiteFILAIRES FILARIEN adj").
+entrée(filaire, n, [filaires], "filariose").
+entrée(filature, n, [filatures], "le filage de la soie à partir des cocons").
+entrée(noisette, n, [noisettes], "la noix comestible d'un arbuste européen").
+entry(voler, v, [volé,volant,vole], "to steal").
+entry(voleur, n, [voleurs], "un qui vole").
+entrée(fichier, v, [classé, classement, fichiers], "pour organiser en ordre pour référence futureARCHIVABLE adj").
+entrée(filefish, n, [poissons-limes], "un poisson marin").
+entrée(filemot, adj, [], "d'une couleur jaune brunâtre").
+entrée(nom_fichier, n, [noms_fichiers], "le nom d'un fichier informatique").
+entry(classer, n, [classeurs], "celui qui classe").
+entrée(filet, v, [fileté,filetant,filets], "filéter").
+entry(filial, adj, [], "relatif à un fils ou une filleADVERBIALEMENT adv").
+entrée(filier, v, [filé, filiant, filie], "associer étroitement").
+entrée(filibeg, n, [filibegs], "une jupe plissée portée par les Highlanders écossais").
+entrée(filicide, n, [filicides], "le meurtre de son enfant").
+entry(filiforme, adj, [], "en forme de filament").
+entrée(filigree, v, [ornementé,ornementant,ornemente], "orner avec un travail ornemental complexe").
+entrée(lime, n, [limes], "une particule enlevée par une lime").
+entrée(filister, n, [filisters], "une rainure sur un cadre de fenêtre").
+entrée(filk, n, [filks], "un type de musique populaire qui parodie les chansons folkloriques").
+entrée(remplir, v, [rempli, remplissant, remplit], "mettre autant que possible dansREMPLISSABLE adj").
+entry(fille, n, [filles], "une fille").
+entrée(remplisseur, n, [remplisseurs], "celui qui remplit").
+entrée(fillet, v, [fileté, filetée, fileter], "découper des tranches sans os de").
+entrée(filleter, n, [filleters], "celui qui filette").
+entrée(pouliches, pl, [], "de pouliche").
+entrée(remplissage, n, [remplissages], "ce qui est utilisé pour remplir quelque chose").
+entry(fillip, v, [fillipe,fillipant,fillips], "frapper brusquement").
+entry(fillo, n, [fillos], "phyllo").
+entrée(jument, n, [juments], "une jeune jument").
+entrée(film, v, [filmé,tournage,films], "faire un filmCINEMATOGRAPHIABLE adj").
+entrée(filmcard, n, [cartes_de_film], "une fiche").
+entry(cinéma, n, [cinémas], "l'industrie cinématographique").
+entry(filmer, n, [caméramans], "celui qui filme").
+entrée(festival_de_film, n, [festivals_de_film], "un festival où de nombreux films sont présentés").
+entrée(cinéphile, n, [cinéphiles], "celui qui va voir des films").
+entrée(filmi, n, [filmis], "musique composée pour les films indiens").
+entry(cinématographique, adj, [], "relatif aux films").
+entry(filmier, comparatif, [], "de filmy").
+entry(filmiest, superlatif, [], "de filmy").
+entrée(filmily, adv, [], "d'une manière floue").
+entrée(filmland, n, [filmlands], "cinématographie").
+entry(sans_film, adj, [], "n'ayant pas de film").
+entrée(filmlike, adj, [], "ressemblant à un film").
+entrée(ensemble_film, v, [ensemble_film, cadre_film, ensembles_film], "vers ensemble photo").
+entry(filmy, adj, [], "RESSEMBLANT À OU COUVERT DE FILM BRUMEUX").
+entry(filo, n, [filos], "filo").
+entrée(filose, adj, [], "ressemblant à un fil").
+entrée(filtre, v, [filtré,filtrage,filtre], "passer à travers un filtre un dispositif pour enlever les matières en suspension").
+entrée(filtrer, n, [filtreurs], "celui qui filtre").
+entrée(crasse, n, [crasses], "matière sale ou impure").
+entrée(sale, adj, [], "PLUS SALE LE PLUS SALEoffensivement saleSALLEMENT adv").
+entrée(filtrer, v, [filtré,filtrant,filtre], "filtrer").
+entrée(filum, n, [fila], "une structure anatomique filiforme").
+entrée(fimble, n, [fimbles], "la plante de chanvre mâle").
+entrée(fimbria, n, [fimbriae], "une frange ou une structure ressemblant à une frange FIMBRIAL adj").
+entrée(fin, v, [aileté, ailetage, ailettes], "équiper de nageoires, structures externes ressemblant à des pagaies").
+entry(finable, adj, [], "sujet à une amende").
+entrée(finagle, v, [finaglé,finaglant,finagles], "obtenir par la ruse").
+entry(finagler, n, [finaglers], "celui qui manigance").
+entrée(finale, n, [finales], "le dernier examen d'un cours académique").
+entrée(finale, n, [finales], "une clôture ou une fin de quelque chose").
+entrée(finalis, n, [finales], "un type de tonalité dans la musique médiévale").
+entrée(finaliser, v, [finalisé,finalisant,finalise], "finaliser").
+entry(finalisme, n, [finalismes], "la doctrine selon laquelle tous les événements sont déterminés par des finalités ultimes").
+entrée(finaliste, n, [finalistes], "un concurrent qui atteint la dernière partie d'une compétition").
+entrée(finalité, n, [finalités], "l'état d'être concluant").
+entrée(finaliser, v, [finalisé,finalisant,finalise], "mettre en forme finale").
+entrée(finalement, adv, [], "à la fin").
+entrée(finance, v, [financé,financement,finances], "fournir l'argent pour").
+entrée(rorqual, n, [rorquals], "le rorqual").
+entry(finca, n, [fincas], "une propriété en Amérique espagnole").
+entrée(pinçon, n, [pinçons], "un petit oiseau").
+entrée(trouver, v, [trouvé, trouvant, trouve], "découvrir après une rechercheTROUVABLE adj").
+entrée(trouveur, n, [trouveurs], "celui qui trouve").
+entry(trouver, n, [découvertes], "quelque chose qui est trouvé").
+entry(fin, adj, [], "FIN PLUS_FIN EXCELLENT").
+entry(amende, v, [amendé,amendant,amendes], "soumettre à une amende une pénalité monétaire").
+entrée(amendable, adj, [], "finable").
+entrée(finement, adv, [], "d'une manière fine").
+entrée(finesse, n, [finesses], "la qualité d'être fin").
+entry(pluss fin, comparative, [], "de fin").
+entry(oripeaux, n, [oripeaux], "ornement élaboré").
+entry(finespun, adj, [], "élaboré avec un soin extrême").
+entry(finesse, v, [manœuvré, manœuvrant, manœuvre], "amener par des manœuvres habiles").
+entrée(finest, n, [finests], "la police d'une ville spécifiée").
+entrée(poisson, n, [poissons], "un vrai poisson").
+entry(finfon, n, [finfons], "un oiseau aquatique").
+entrée(doigt, v, [doigté,doigtant,doigts], "toucher avec les doigts les membres terminaux de la main").
+entry(fingerer, n, [toqueteurs], "celui qui toque").
+entrée(finial, n, [finials], "un ornement de couronnementFINIALED adj").
+entrée(finical, adj, [], "tatillon").
+entry(finickin, adj, [], "difficile").
+entry(finicky, adj, [], "DIFFICILE À SATISFAIRE").
+entry(finikin, adj, [], "exigeant").
+entrée(finiking, adj, [], "difficile").
+entrée(amendement, n, [amendements], "la clarification des vins").
+entrée(finis, n, [finises], "la fin").
+entry(finish, v, [finir,finissant,finis], "mener à bien").
+entrée(finishers, n, [finishers], "un qui finit").
+entrée(fini, n, [finis], "quelque chose qui est fini ayant des limites définies").
+entrée(finitely, adv, [], "dans une mesure finie").
+entry(finitisme, n, [finitismes], "la croyance qu'une entité particulière est finie").
+entry(finitiste, n, [finitistes], "un défenseur du finisme").
+entrée(fini, adj, [], "terminé").
+entry(finitude, n, [finitudes], "l'état d'être fini").
+entrée(fink, v, [finked,finking,finks], "informer la police").
+entrée(sans_nageoires, adj, [], "n'ayant pas de nageoires").
+entrée(finlike, adj, [], "ressemblant à une nageoire").
+entrée(finmark, n, [finmarks], "une ancienne unité monétaire de la Finlande").
+entrée(finnan, n, [finnans], "églefin fumé").
+entrée(finned, passé, [], "temps de fin").
+entrée(finnicky, adj, [], "PLUS DIFFICILE LE PLUS DIFFICILEfinicky").
+entrée(finnier, comparatif, [], "de finny").
+entrée(finniest, superlatif, [], "de finny").
+entrée(finning, présent, [], "participe de fin").
+entrée(finnmark, n, [finnmarks], "finmark").
+entrée(finny, adj, [], "PLUS NAGEOIRE, LE PLUS NAGEOIRE ayant ou caractérisé par des nageoires").
+entrée(fino, n, [finos], "un sherry très sec").
+entrée(finochio, n, [finochios], "une herbe vivace").
+entrée(fjord, n, [fjords], "fjord").
+entrée(fipple, n, [fipples], "un bouchon de bois à l'embouchure de certains instruments à vent").
+entrée(fique, n, [fiques], "une plante tropicale").
+entrée(sapin, n, [sapins], "un arbre à feuilles persistantes").
+entry(feu, v, [tiré, tirant, tirs], "projeter en déchargeant d'une arme à feuFEUABLE adj").
+entrée(arme_à_feu, n, [armes_à_feu], "une arme dont un coup est tiré par de la poudre à canon").
+entry(fireback, n, [contre-cœur], "une plaque en fonte à l'arrière d'une cheminée").
+entry(boule_de_feu, n, [boules_de_feu], "un météore lumineux").
+entrée(firebase, n, [bases_de_feu], "une base militaire à partir de laquelle le feu est dirigé contre l'ennemi").
+entrée(colibri, n, [colibris], "un oiseau aux couleurs vives").
+entrée(bateau-pompe, n, [bateaux-pompes], "un bateau équipé d'appareils de lutte contre l'incendie").
+entrée(firebomb, v, [firebombé,firebombant,firebombes], "attaquer avec des bombes incendiaires").
+entry(foyer, n, [foyers], "une chambre où le combustible est brûlé").
+entrée(poisson_d'argent, n, [poissons_d'argent], "un petit insecte sans ailes").
+entry(pyromane, n, [pyromanes], "un incendiaire").
+entrée(argile_réfractaire, n, [argiles_réfractaires], "une argile résistante à la chaleur").
+entrée(fired, passé, [], "temps de fire").
+entrée(grisou, n, [grisous], "un gaz combustible").
+entrée(chien_pompier, n, [chiens_pompiers], "un landier").
+entry(firefang, v, [firefanged,firefanging,firefangs], "décomposer par oxydation").
+entrée(luciole, n, [lucioles], "un insecte lumineux").
+entrée(caserne, n, [casernes], "une caserne de pompiers").
+entry(tuyau_d'incendie, n, [tuyaux_d'incendie], "un tuyau utilisé par les pompiers").
+entrée(sans_feu, adj, [], "n'ayant pas de feu").
+entrée(firelit, adj, [], "éclairé par la lumière du feu").
+entrée(verrou_de_feu, n, [verrous_de_feu], "un type de fusil").
+entry(pompier, n, [pompiers], "un homme employé pour éteindre les incendies").
+entrée(firepan, n, [firepans], "un bac ouvert pour contenir des charbons ardents").
+entrée(feuillépine, n, [feuillépines], "une plante à fleurs").
+entrée(foyer, n, [foyers], "une dépression creusée dans le sol dans laquelle un feu est allumé").
+entry(borne-fontaine, n, [bornes-fontaines], "un hydrant").
+entry(firepot, n, [pots à feu], "un pot en argile rempli d'objets brûlants").
+entrée(tireur, n, [tireurs], "celui qui tire").
+entry(firereel, n, [firereels], "un camion de pompiers").
+entry(salledeschaudières, n, [sallesdeschaudières], "une salle contenant les chaudières d'un navire").
+entry(navire_en_feu, n, [navires_en_feu], "un navire en feu envoyé parmi les navires ennemis").
+entry(foyer, n, [foyers], "l'aire immédiatement entourant une cheminée").
+entrée(piège_feu, n, [pièges_feu], "un bâtiment susceptible de prendre feu").
+entrée(pare-feu, n, [pare-feux], "un composant informatique qui empêche l'accès non autorisé aux données").
+entry(épilobe, n, [épilobes], "une herbe vivace").
+entry(bois_de_chauffage, n, [bois_de_chauffage], "bois utilisé comme combustible").
+entry(feu_d'artifice, n, [feux_d'artifice], "un dispositif produisant un affichage impressionnant de lumière ou un bruit fort").
+entry(ver luisant, n, [vers luisants], "a glowworm").
+entrée(cuisson, n, [cuissons], "le processus de maturation des produits céramiques par la chaleur").
+entry(firkin, n, [firkins], "une unité britannique de capacité").
+entrée(ferme, adj, [], "FERME LE PLUS FERMELement inébranlable à la pression").
+entrée(firme, v, [firme, firmant, firmes], "rendre ferme").
+entrée(firman, n, [firmans], "un décret émis par un souverain du Moyen-Orient").
+Prolog : entry(firmer, n, [firmers], "un outil de menuiserie").
+entrée(fermement, adv, [], "d'une manière ferme").
+entrée(fermeté, n, [fermetés], "l'état d'être ferme").
+entrée(firmware, n, [firmwares], "programmes informatiques stockés de façon permanente sur une puce électronique").
+entry(firn, n, [firns], "névé").
+entrée(firry, adj, [], "FIRRIER FIRRIESTabondant en sapins").
+entrée(premier, n, [premiers], "quelque chose qui précède tous les autres").
+entrée(premièrement, adv, [], "avant tous les autres").
+entrée(firth, n, [firths], "un bras de mer").
+entrée(fisc, n, [fiscs], "un trésor d'État ou royal").
+entrée(fiscal, n, [fiscals], "un procureur public").
+entry(fiscally, adv, [], "en ce qui concerne les affaires financières").
+entry(poisson, v, [pêché,pêchant,poissons], "attraper ou essayer d'attraper des poissons vertébrés aquatiques à sang froid").
+entrée(poissonnable, adj, [], "approprié pour la pêche").
+entrée(bateau_de_pêche, n, [bateaux_de_pêche], "une embarcation utilisée pour la pêche").
+entrée(fishbolt, n, [fishbolts], "un type de boulon").
+entrée(arête, n, [arêtes], "un os de poisson").
+entry(aquarium, n, [aquariums], "un bol dans lequel on garde des poissons vivants").
+entrée(pêcheur, n, [pêcheurs], "celui qui pêche").
+entrée(pêcherie, n, [pêcheries], "un lieu pour la pêche").
+entrée(fisheye, n, [fisheyes], "un regard suspicieux").
+entrée(fishgig, n, [fishgigs], "un outil à plusieurs dents pour harponner des poissons").
+entry(hameçon, n, [hameçons], "un crochet barbelé pour attraper des poissons").
+entrée(fishier, comparatif, [], "de fishy").
+entrée(poissonneux, superlatif, [], "de poisson").
+entrée(fishily, adv, [], "de manière suspecte").
+entrée(pêche, n, [pêches], "l'occupation ou le passe-temps de capturer des poissons").
+entrée(poisson-mort, n, [poissons-morts], "la destruction soudaine d'un grand nombre de poissons").
+entry(sans_poisson, adj, [], "ne contenant pas de poisson").
+entrée(fishlike, adj, [], "ressemblant à un poisson").
+entrée(fil_de_pêche, n, [fils_de_pêche], "une ligne utilisée pour la pêche").
+entrée(farine_de_poisson, n, [farines_de_poisson], "poisson séché moulu").
+entrée(filet, n, [filets], "un filet pour attraper des poissons").
+entrée(canne_à_pêche, n, [cannes_à_pêche], "une canne à pêche").
+entrée(mare, n, [mares], "un étang abondant en poissons comestibles").
+entrée(lacet, v, [a lacé, lacetant, lacets], "faire glisser latéralement l'arrière d'un véhicule en mouvement").
+entrée(passe-à-poissons, n, [passes-à-poissons], "un dispositif permettant aux poissons de contourner un barrage").
+entrée(poissonnière, n, [poissonnières], "une femme qui vend du poisson").
+entrée(ver de terre, n, [vers de terre], "un ver utilisé comme appât").
+entrée(fishy, adj, [], "PLUS FISHY LE PLUS FISHY de ou ressemblant au poisson").
+entry(fissate, adj, [], "profondément fendu").
+entrée(fissile, adj, [], "capable d'être fissionné").
+entry(fission, v, [fissionné,fissionnant,fissions], "se diviser en parties").
+entrée(fissipède, n, [fissipèdes], "un mammifère qui a des orteils séparés").
+entry(fissural, adj, [], "relatif à une ouverture longue et étroite").
+entry(fissure, v, [fissuré,fissurant,fissures], "fendre").
+entrée(poing, v, [poingé,poinger,poings], "frapper avec le poing la main bien fermée").
+entrée(poignée, n, [poignées], "une poignée").
+entrée(fistic, adj, [], "relatif au pugilisme").
+entry(premièrenote, n, [premièresnotes], "une partie d'un texte à laquelle l'attention est attirée par un marqueur d'index").
+entrée(fistule, n, [fistules], "ou FISTULAE conduit formé par la fermeture imparfaite d'une blessureFISTULAIRE adj").
+entrée(fit, adj, [], "FITTER FITTESThealthy").
+entrée(ajuster, v, [ajusté,ajustant,ajuste], "mettre à une forme et à une taille requises").
+entrée(fitch, n, [putois], "un putois").
+entry(fitchee, adj, [], "fitchy").
+entrée(fitchet, n, [fitchets], "une fouine").
+entry(polecat, n, [polecats], "un putois").
+entrée(fitchy, adj, [], "ayant les bras se terminant en pointe utilisé pour une croix héraldique").
+entry(capricieux, adj, [], "se produisant de manière irrégulièreCAPRICIEUSEMENT adv").
+entrée(fitly, adv, [], "d'une manière appropriée").
+entrée(ajustement, n, [ajustements], "équipement").
+entrée(fitness, n, [formes], "l'état d'être en forme").
+entrée(ajustable, adj, [], "pouvant être ajusté").
+entrée(ajusté, passé, [], "temps de s'ajuster").
+entry(fitter, n, [ajusteurs], "celui qui ajuste").
+entrée(plus_apte, superlatif, [], "de apte").
+entry(ajustage, n, [ajustages], "une petite pièce accessoire souvent standardisée").
+entrée(cinq, n, [cinqs], "un nombre").
+entry(quintuplé, adj, [], "cinq fois plus grand").
+entrée(cinqquilles, npl, [], "un jeu de quilles").
+entrée(cinq_dollars, n, [billets_de_cinq_dollars], "un billet de cinq dollars").
+entrée(fixer, v, [fixe,faisant,fixes], "réparerFIXABLE adj").
+entry(fixer, v, [fixé,fixant,fixe], "rendre stable ou stationnaire").
+entry(fixatif, n, [fixatifs], "fixatif").
+entrée(fixation, n, [fixations], "l'acte de fixer").
+entry(fixatif, n, [fixatifs], "une substance pour la conservation des peintures ou dessins").
+entrée(fixedly, adv, [], "fermement").
+entrée(fixer, n, [fixeurs], "celui qui répare").
+entrée(fixings, npl, [], "accompagnements du plat principal d'un repas").
+entrée(fixit, n, [fixits], "une personne connue pour réparer des choses").
+entrée(fixité, n, [fixités], "stabilité").
+entrée(fixt, a, [], "passé du verbe fixer").
+entrée(fixture, n, [fixtures], "une partie permanente ou un appendice d'une maison").
+entrée(fixure, n, [fixures], "fermeté").
+entrée(fiz, n, [bruissements], "un son sifflant ou crépitant").
+entry(fizgig, n, [fizgigs], "fichgig").
+entrée(fizz, v, [fizzé, fizzant, fizzes], "produire un son de sifflement ou de crépitement").
+entrée(fizzer, n, [fizzers], "celui qui pétille").
+entrée(fizzes, pl, [], "de fiz").
+entrée(fizzle, v, [fizzled,fizzling,fizzles], "pétiller").
+entrée(fizzy, adj, [], "FIZZIER FIZZIESTfizzingFIZZILY adv").
+entrée(fjeld, n, [fjelds], "un haut plateau stérile").
+entrée(fjord, n, [fjords], "une étroite entrée de mer encadrée de falaises raidesFJORDIC adj").
+entry(flab, n, [flabs], "tissu corporel flasque").
+entrée(flabby, adj, [], "FLABBIER FLABBIESTflasqueFLABBILLEMENT adv").
+entrée(flabella, npl, [], "structures anatomiques en forme d'éventail").
+entrée(flaccide, adj, [], "manquant de fermeté").
+entrée(flack, v, [flacked,flacking,flacks], "travailler comme attaché de presse").
+entrée(fanfaronnade, n, [fanfaronnades], "publicité").
+entry(flacon, n, [flacons], "une petite bouteille bouchée").
+entrée(drapeau, v, [marqué, marquant, drapeaux], "marquer avec un drapeau un morceau de tissu utilisé comme symbole").
+entrée(flagella, npl, [], "longues pousses minces de plante").
+entrée(signaleur, n, [signaleurs], "celui qui signale").
+entrée(flagging, n, [revêtements], "un type de chaussée").
+entrée(flaggy, adj, [], "PLUS FLAGGY LE PLUS FLAGGYqui pend").
+entrée(flagless, adj, [], "n'ayant pas de drapeau").
+entrée(drapeau, n, [drapeaux], "celui qui porte un drapeau").
+entrée(flagon, n, [flacons], "une grande bouteille bombée").
+entrée(mât, n, [mâts], "un poteau sur lequel un drapeau est affiché").
+entry(flagrant, adj, [], "extrêmement voyant").
+entrée(vaisseau_amiral, n, [vaisseaux_amiraux], "un navire portant le drapeau d'une flotte").
+entry(fouetter, v, [fouetté,fouettant,fouette], "se balancer librement").
+entrée(flair, n, [flaires], "une aptitude naturelle").
+entrée(flak, n, [flak], "tir antiaérien").
+fenetre(flocon, v, [floconnes,floconnant,flocons], "se détacher en flocons de fines pièces plates").
+entrée(flaker, n, [flakeurs], "celui qui floconne").
+entrée(flakey, adj, [], "FLAKIER FLAKIESTflaky").
+entrée(flakey, adj, [], "PLUS ÉCAILLEUX LE PLUS ÉCAILLEUX ressemblant à des écailles FLAKILLEMENT adv").
+entry(flam, v, [flammed,flamming,flams], "tromper").
+entrée(flambe, v, [flambé, flambant, flambes], "arroser d'une liqueur et enflammer").
+entrée(flambeau, n, [flambeaux], "ou FLAMBEAUX une torche enflammée").
+entrée(flambee, adj, [], "flamboyant").
+entrée(flame, v, [flamed, flaming, flames], "brûler vivement").
+entrée(flamen, n, [flamens], "ou FLAMINES, un prêtre de la Rome antique").
+entrée(flamenco, n, [flamencos], "un style de danse fortement rythmique").
+entry(panne_moteur, n, [pannes_moteur], "une panne d'un moteur à réaction en vol").
+entrée(flamer, n, [flamers], "celui qui enflamme").
+entrée(flamier, comparatif, [], "de flamboyant").
+entrée(flammiest, superlatif, [], "de flamy").
+entry(flamines, a, [], "pl de flamen").
+entrée(flambant, présent, [], "participe de flammer").
+entrée(flamant, n, [flamants], "ou FLAMANTSa un oiseau échassier").
+entrée(flammed, passé, [], "temps de flam").
+entrée(flamment, présent, [], "participe de flammer").
+entrée(flamy, adj, [], "FLAMIER FLAMIESTflamboyant").
+entrée(flan, n, [flans], "ou FLANES un type de crème caramel").
+entrée(flancard, n, [flancards], "une pièce d'armure pour le côté d'un cheval").
+entrée(flanerie, n, [flâneries], "oisiveté").
+entrée(flaneur, n, [flaneurs], "un flâneur").
+entrée(bride, v, [bridé,bridant,brides], "fournir un bord protecteur").
+entrée(flanneur, n, [flanneurs], "celui qui flanne").
+entry(flanging, n, [flangings], "la fourniture d'un rebord protecteur sur un objet").
+entrée(flanc, v, [flanqué, flanquante, flancs], "être situé à côté de").
+entry(flanken, npl, [], "morceau de bœuf des côtés qui est bouilli avec des légumes").
+entrée(flanker, n, [flanqueurs], "celui qui flanque").
+entry(flanelle, v, [flanellé,flanelant,flanelles], "ou FLANELLEÉ FLANELANT FLANELLES pour couvrir avec de la flanelle un tissu doux").
+entrée(flap, v, [flapped,flapping,flaps], "agiter de haut en bas").
+entrée(flaperon, n, [flaperons], "un volet qui fonctionne comme un flap et un aileron").
+entrée(pancake, n, [pancakes], "une crêpe").
+entrée(sans_abat, adj, [], "n'ayant pas de rabat un appendice plat").
+entry(flapped, passé, [], "temps de flap").
+entrée(clapette, n, [clapettes], "celle qui claque").
+entry(claquement, présent, [], "participe de battre").
+entrée(flappy, adj, [], "FLAPPIER FLAPPIESTflapping").
+entrée(flare, v, [flambé,flambant,flambe], "brûler avec une lumière vacillante et vive").
+entry(flamber, n, [flambées], "une épidémie soudaine").
+entry(flash, v, [flasha, flashant, flashes], "émettre une soudaine explosion de lumière").
+entrée(flasher, n, [éclaireurs], "celui qui éclaire").
+entrée(flashgun, n, [flashguns], "un appareil photographique").
+entrée(flashings, n, [clignotements], "tôle utilisée pour l'imperméabilisation d'un toit").
+entrée(flashy, adj, [], "PLUS FLASHY LE PLUS GAUDY FLASHILY adv").
+entrée(flacon, n, [flacons], "un récipient à col étroit").
+entrée(flasket, n, [flaskets], "une petite flasque").
+entrée(flat, adj, [], "PLAT PLUS PLAT ayant une surface lisse ou égale").
+entrée(plat, v, [aplati, aplatissement, plats], "aplatir").
+entry(plateau, n, [plateaux], "un type de camion ou de remorque").
+entrée(chaland, n, [chalands], "un bateau à fond plat").
+entrée(flatcap, n, [flatcaps], "un type de chapeau").
+entrée(flatcar, n, [wagons plats], "un wagon de chemin de fer sans côtés ni toit").
+entrée(plie, n, [plies], "n'importe quel poisson d'un ordre de poissons marins").
+entry(pied-plat, n, [pieds-plats], "une condition du pied").
+entry(flatfoot, v, [flatfooted,flatfooting,flatfoots], "marcher avec une démarche traînante").
+entrée(flathead, n, [flatheads], "un poisson de mer comestible").
+entrée(fer_à_repasser, n, [fers_à_repasser], "un appareil pour repasser les vêtements").
+entrée(plat-pays, n, [plat-pays], "terre dépourvue de variation significative en élévation").
+entry(studio, n, [studios], "un type d'appartement").
+entrée(flatline, v, [flatlined, flatlining, flatlines], "enregistrer comme n'ayant pas d'ondes cérébrales ni de battements cardiaques").
+entrée(plat, adv, [], "avec un côté ou un bord plat").
+entrée(flatlong, adv, [], "flatling").
+entrée(platement, adv, [], "d'une manière plate").
+entry(colocataire, n, [colocataires], "personne avec qui on partage un appartement").
+entrée(planéité, n, [planéités], "l'état d'être plat").
+entrée(flatpack, n, [flatpacks], "un paquet pour un circuit intégré").
+entrée(aplatie, passé, [], "temps de plat").
+entry(aplanir, v, [aplani, aplanissant, aplanit], "rendre ou devenir plat").
+entry(flatter, v, [flattered,flattering,flatters], "louer excessivement").
+entrée(flatterie, n, [flatteries], "l'acte de flatter").
+entrée(plus_plate, superlatif, [], "de plate").
+entrée(flattie, n, [flatties], "une chaussure à talon plat").
+entrée(aplatissement, présent, [], "participe de aplatir").
+entry(plutôt_plat, adj, [], "quelque peu plat").

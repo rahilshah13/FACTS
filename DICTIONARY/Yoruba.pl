@@ -11544,3 +11544,72 @@ entry(fẹndikọ, v, [fẹndikọ̀, fẹndikọ́], "láti rán ìtanilẹyin 
 entry(flasher, n, [awọn ti n tan imọlẹ lọwọ], "rẹ kọkan ti n tan imọlẹ").
 entry(flashgun, n, [flashguns], "ẹ̀rọ fọ́tò").
 entry(fílásìn, n, [fílásìn], "ìwé irin tó nlọ́ fún kíkalẹ̀ ọkọ̀-òjò tàbí ikúdẹ̀yele ọkọ̀-òjò").
+entry(flatfoot, n, [flatfeet], "ipo orun").
+entry(flatfoot, v, [flatfooted,flatfooting,flatfoots], "lati rin pẹlu ọna gbigbe").
+entry(flathead, n, [flatheads], "ẹja ẹja onirun okun").
+entry(flatiron, n, [flatirons], "ẹrọ kan fun titẹ aṣọ").
+entry(flatland, n, [flatlands], "ilẹ̀ tí kò ní àragbá tàbí afárárarí ní ilépa").
+entry(flatlet, n, [awọn_flatlet], "iru ilé-iṣẹ").
+entry(flatline, v, [flatlined,flatlining,flatlines], "lati ṣe igbasilẹ bi ẹni pe ko ni awọn igbi iṣan ọpọlọ tabi ikọlu ọkan").
+entry(flatling, adv, [], "pẹ̀lú ẹgbẹ̀ tàbí eti tí ó pẹ́tẹpẹ́tẹ").
+entry(flatlong, adv, [], "flatling").
+entry(flatly, adv, [], "ni ọna alapin").
+aye(flatmate, n, [flatmates], "ẹnikan ti o pin iyalo pẹlu").
+entry(isẹ́lẹ̀fẹ̀, n, [awọn-isẹ́lẹ̀fẹ̀], "ipò ti jéé jẹ́ tí ó fi tẹ́ẹ́").
+entry(flatpack, n, [awọn flatpack], "ẹ̀pẹ̀tẹ́ kan fún kíkójọpọ̀ ayaworan").
+entry(flatted, ti tẹlẹ, [], "asiko ti flat").
+entry(flatten, v, [flatẹ̀nì, flatẹ̀níí, flatẹ̀nsì], "lati ṣe tàbí di flat").
+entry(fẹ́, v, [fẹ́ràn,fẹ́fẹ́,fẹ́rìn], "láti yìn ẹ láàrínlà").
+entry(ẹ̀tùtù, n, [ètùtù], "ìṣe ti ẹ̀ṣinṣinlọlá").
+entry(flattest, superlative, [], "ti alawọ").
+entry(flattie, n, [flatties], "sẹ́ẹ̀ tàbí bàtà tó ní hẹ́ẹ̀lì gígùn").
+entry(flatting, lọwọlọwọ, [], "apakan-ọrọ ìṣe ti flat").
+entry(flattish, aj, [], "bídìẹ́ẹ̀ flat").
+entry(flattop, n, [flattops], "ọkọ ofurufu").
+entry(flatus, n, [flatuses], "èéfín inu").
+entry(flatware, n, [flatwares], "irinse opo ti o wa ni dan diẹ").
+entry(flatwash, n, [flatwashes], "flatwork").
+entry(flatways, adv, [], "flatwise").
+entry(flatwise, adv, [], "pẹlu ẹgbẹ didan ni ipo kan pato").
+entry(flatwork, n, [flatworks], "awon aso ti a le fi ero yun").
+entry(kọ̀lọ̀bẹ̀, n, [kọ̀lọ̀bẹ̀], "ẹyẹ̀ ìkòkò tó ní ara lélẹ̀").
+entry(fìfilórí, v, [fìfilórí,tífìfilórí,nífìfilórí], "láti fi hàn ní ọ̀nà àtìpó").
+entry(afihan, n, [afihan], "ẹni ti o n fi ara han").
+entry(flaunty, aṣàpọ̀nlá, [], "Ẹ̀JÌKẸ́JẸ̀TÌ Ẹ̀JÍKẸ́JẸẸTÀWỌNàmúfọ́ṣìn").
+entry(flauta, n, [flautas], "tọọtiila kan to yipo yika isi ati sise ni epo").
+entry(onilu-filuuti, n, [awon-onilu-filuuti], "olorin filuuti").
+entry(flava, n, [flavas], "ara orin hiphop").
+entry(flavanol, n, [awọn_flavanol], "flavonol").
+entry(flavin, n, [awọ̀ eléyìyẹ̀], "pigment ofeefee").
+entry(flavine, n, [awọn̄_flavine], "flavin").
+entry(flavone, n, [flavones], "kan jelu kemikali").
+entry(flavonol, n, [flavonols], "ọkan ninu awọn eya flavon").
+entry(erunrun, v, [erunrunse,erunrunyo,erunrun], "láti fún un ni erunrun t’ó ṣe pàtàkì sí àwọn tástì").
+entry(flavorer, n, [awọn_alara], "ẹni ti o n fun ni adun").
+entry(flavory, àpèjúwe, [], "kún fún ìdọná").
+entry(kòrun, v, [korun, koronsi, kòrunsi], "lati fún un ni èso").
+entry(flavoury, aj, [], "flavory").
+ọwọ́ọ̀(flaw, v, [flawed, flawing, flaws], "lati ṣe aṣiṣe kan ni aipe kan").
+entry(aisinaini, aj, [], "ti ko ni abawọn").
+entry(flawy, adj, [], "FLAWIER FLAWIESTti kún fun awọn aṣiṣe").
+entry(flax, n, [flaxes], "egbo odoodun kan").
+entry(flaxen, aj, [], "ti awọ ofeefee foju").
+entry(irinṣẹ̀, n, [irinṣẹ̀], "ìrẹsì ạtọrọ").
+entry(flaxy, adj, [], "FLAXIER FLAXIESTflaxen").
+entry(flay, v, [flayed, flaying, flays], "láti bọ́ ara").
+entry(flayer, n, [flayers], "ẹni tí ó n yọ ewúrẹ́").
+entry(ale, n, [alẹ], "ẹranko kokoro alaisan").
+entry(fleabag, n, [fleabags], "hotẹẹli ti ko dara").
+entry(fleabane, n, [fleabanes], "egbo igbo").
+entry(falẹbaiti, n, [fẹlẹbaiti], "ijiya lati ṣẹpọlọ kan").
+entry(fleam, n, [fleams], "irinṣẹ iṣoogun").
+entry(fleapit, n, [fleapits], "sinima ti o bajẹ").
+entry(fleawort, n, [fleaworts], "egboogi ara Yuroopu").
+entry(fleche, n, [fleches], "agogo ile-ijọsin").
+entry(fleck, v, [flecked,flecking,flecks], "lati fi awọn ila kekere tabi abulẹ fun").
+entry(flecky, aj, [], "flecked").
+entry(flection, n, [flections], "iṣe ti tẹ").
+entry(fled, tan, [], "atẹ́ni àwọn ení ẹ sálọ").
+entry(fledge, v, [fledged,fledging,fledges], "lati fun ni awọn iyẹ").
+entry(fledgy, adj, [], "FLEDGIER FLEDGIESTti a bo pelu irun-agbo").
+entry(sa, v, [sa, nsa, sa], "lati salo").

@@ -11493,3 +11493,968 @@ entrada(floculador, n, [floculadores], "uno que flocula").
 entrada(flakey, adj, [], "FLAKIER FLAKIESTflaky").
 entrada(flaky, adj, [], "MAS ESCAMOSO MAS ESCAMOSOSimilar a escamasFLAKILY adv").
 entrada(flam, v, [flammed,flamming,flams], "engañar").
+entrada(flambe, v, [flambeado, flambeando, flambea], "rociar con licor e incendiar").
+entrada(flambeau, n, [flambeaus], "o FLAMBEAUX una antorcha llameante").
+entrada(flambee, adj, [], "ardiendo").
+entrada(llama, v, [llameó, llameante, llamas], "arder con brillantez").
+entry(flamen, n, [flamens], "o FLAMINES un sacerdote de la antigua Roma").
+entry(flamenco, n, [flamencos], "un estilo de baile con un ritmo fuerte").
+entrada(apagado, n, [apagados], "un fallo de un motor a reacción en vuelo").
+entrada(flamer, n, [flamers], "uno que flamea").
+entrada(flamier, comparativo, [], "de flamígero").
+entrada(flamíest, superlativo, [], "de flamí").
+entrada(flamines, a, [], "pl de flamen").
+entrada(flaming, presente, [], "participio de flame").
+entrada(flamenco, n, [flamencos], "o FLAMINGOS un ave zancuda").
+entrada(flammed, pasado, [], "tiempo de flam").
+entrada(flamming, presente, [], "participio de flam").
+entrada(flamy, adj, [], "FLAMIER FLAMIESTflaming").
+entrada(flan, n, [flanes], "o FLANES un tipo de natilla").
+entrada(flancard, n, [flancards], "una pieza de armadura para el costado de un caballo").
+entrada(flanerie, n, [flaneries], "ociosidad").
+entry(flaneur, n, [flaneurs], "un ocioso").
+entrada(brida, v, [bridados, bridando, bridas], "proveer de un borde protector").
+entrada(flanger, n, [flangers], "uno que flangea").
+entry(abocinamiento, n, [abocinamientos], "la provisión de un borde protector en un objeto").
+entrada(flanco, v, [flanqueó,flanqueando,flanquea], "estar ubicado al lado de").
+entrada(flanken, npl, [], "corte de res de los lados que se hierve con verduras").
+entrada(flanker, n, [flankers], "uno que flanquea").
+entrada(flanela, v, [flaneado,flaneando,flanelas], "o FLANELADO FLANELANDO FLANELAS para cubrir con flanela una tela suave").
+entrada(aletear, v, [aleteó, aleteando, aletea], "moverse hacia arriba y hacia abajo").
+entrada(flaperón, n, [flaperones], "un perfil aerodinámico que funciona como un flap y un alerón").
+entrada(flapjack, n, [flapjacks], "un panqueque").
+entry(sin_ala, adj, [], "sin aleta un apéndice plano").
+entrada(aleteó, pasado, [], "tiempo de aletear").
+entrada(aleteador, n, [aleteadores], "algo que aletea").
+entrada(aletear, presente, [], "participio de aletear").
+entrada(flappy, adj, [], "FLAPPIER FLAPPIESTflapping").
+entry(fulgor, v, [fulguró,fulgurando,fulgura], "arder con una luz brillante y fluctuante").
+entrada(brote, n, [brotes], "un estallido repentino").
+entrada(flash, v, [flasheó,flasheando,flashea], "emitir un destello repentino de luz").
+entrada(destellador, n, [destelladores], "uno que destella").
+entrada(pistola_de_flash, n, [pistolas_de_flash], "un aparato fotográfico").
+entry(parpadeante, n, [parpadeantes], "metal usado en impermeabilización de un techo").
+entrada(flashy, adj, [], "FLASHIER FLASHIESTostentosoFLASHILY adv").
+entrada(frasco, n, [frascos], "un recipiente de cuello estrecho").
+entry(frasquito, n, [frasquitos], "un pequeño frasco").
+entrada(plano, adj, [], "MÁS PLANO MÁS PLANÍSIMO teniendo una superficie lisa o uniforme").
+entrada(plano, v, [aplanado, aplanando, planos], "aplanar").
+entrada(cama_plana, n, [camas_planas], "un tipo de camión o remolque").
+entrada(flatboat, n, [flatboats], "un bote de fondo plano").
+entrada(boina, n, [boinas], "un tipo de sombrero").
+entrada(vagón plano, n, [vagones planos], "un coche de ferrocarril sin lados ni techo").
+entry(pez_plano, n, [peces_planos], "cualquiera de un orden de peces marinos").
+entrada(pie_plano, n, [pies_planos], "una condición del pie").
+entrada(flatfoot, v, [flatfooted, flatfooting, flatfoots], "caminar con un andar arrastrado").
+entry(flathead, n, [peces planos], "un pez marino alimenticio").
+entrada(flatiron, n, [flatirons], "un dispositivo para planchar ropa").
+entrada(flatland, n, [planicies], "tierra sin variación significativa en elevación").
+entrada(estudio, n, [estudios], "un tipo de apartamento").
+entrada(flatline, v, [flatlined, flatlining, flatlines], "registrarse como sin ondas cerebrales ni latidos del corazón").
+entry(flatling, adv, [], "con un lado o borde plano").
+entry(flatlong, adv, [], "bocabajo").
+entrada(planamente, adv, [], "de manera plana").
+entrada(compañero_de_piso, n, [compañeros_de_piso], "persona con la que se comparte un apartamento").
+entrada(planitud, n, [planitudes], "el estado de ser plano").
+entry(flatpack, n, [flatpacks], "un paquete para un circuito integrado").
+entrada(aplanado, pasado, [], "tiempo de plano").
+entrada(aplanar, v, [aplanado,aplanando,aplana], "hacer o convertirse en plano").
+entrada(adular, v, [adulado,adulando,adula], "elogiar en exceso").
+entrada(adulación, n, [adulaciones], "el acto de adular").
+entrada(más_plano, superlativo, [], "de plano").
+entry(flattie, n, [zapatos planos], "un zapato de tacón plano").
+entrada(flatting, presente, [], "participio de flat").
+entrada(flattish, adj, [], "algo plano").
+entrada(flattop, n, [flattops], "un portaaviones").
+entrada(flato, n, [flatos], "gas intestinal").
+entrada(cubiertos, n, [cubiertos], "vajilla que es bastante plana").
+entrada(flatwash, n, [flatwashes], "planchado").
+entrada(flatways, adv, [], "flatwise").
+entrada(flatwise, adv, [], "con el lado plano en una posición particular").
+entrada(flatwork, n, [flatworks], "ropa que se puede planchar mecánicamente").
+entrada(platelminto, n, [platelmintos], "un gusano de cuerpo plano").
+entry(flaunt, v, [flaunted,flaunting,flaunts], "exhibir de manera ostentosa").
+entry(fanfarrón, n, [fanfarrones], "uno que presume").
+entrada(flaunty, adj, [], "FLAUNTIER FLAUNTIESTgaudy").
+entrada(flauta, n, [flautas], "una tortilla enrollada alrededor de un relleno y frita").
+entrada(flautista, n, [flautistas], "flauta").
+entrada(flava, n, [flavas], "un estilo de música hiphop").
+entrada(flavonol, n, [flavonoles], "flavonol").
+entrada(flavin, n, [flavinas], "un pigmento amarillo").
+entrada(flavine, n, [flavinas], "flavina").
+entrada(flavona, n, [flavonas], "un compuesto químico").
+entry(flavonol, n, [flavonoles], "un derivado de la flavona").
+entrada(sabor, v, [saborizado, saboreando, sabores], "dar sabor distintivo").
+entrada(sazonador, n, [sazonadores], "uno que sazona").
+entrada(flavory, adj, [], "lleno de sabor").
+entrada(sabor, v, [saborizado, saboreando, sabores], "dar sabor").
+entry(sabroso, adj, [], "flavory").
+entrada(defecto, v, [defectuoso,defectando,defectos], "producir un defecto una imperfección en").
+entrada(impecable, adj, [], "sin defecto").
+entrada(flawy, adj, [], "LLENO DE DEFECTOS").
+entrada(lino, n, [linos], "una hierba anual").
+entrada(lino, adj, [], "de un color amarillo pálido").
+entry(linaza, n, [linazas], "la semilla de lino").
+entrada(flaxy, adj, [], "FLAXIER FLAXIESTflaxen").
+entrada(flay, v, [desollado,desollando,desuella], "quitar la piel de").
+entrada(flayer, n, [flayers], "uno que desuella").
+entrada(pulga, n, [pulgas], "un insecto parásito").
+entrada(fleabag, n, [fleabags], "un hotel de mala calidad").
+entrada(cenizo, n, [cenizos], "una planta con flores").
+entry(picapulga, n, [picaduras_de_pulga], "la mordedura de una pulga").
+entrada(fleam, n, [fleams], "un instrumento quirúrgico").
+entrada(fleapit, n, [fleapits], "un cine en mal estado").
+entrada(yerba_de_la_pulga, n, [yerbas_de_la_pulga], "una hierba europea").
+entrada(fleche, n, [fleches], "un campanario").
+entrada(fleck, v, [flecked, flecking, flecks], "marcar con manchas pequeñas rayas o puntos").
+entrada(flecky, adj, [], "moteado").
+entry(flección, n, [flecciones], "el acto de doblar").
+entrada(huyó, pasado, [], "tiempo de huir").
+entry(fledge, v, [fledged,fledging,fledges], "proveer de plumas").
+entrada(fledgy, adj, [], "CUBIERTO DE PLUMAS MÁS PLUMOSO").
+entrada(huir, v, [huyó, huyendo, huye], "escapar").
+entrada(fleece, v, [fleeced,fleecing,fleeces], "quitar la capa de lana de").
+entrada(fleecer, n, [fleecers], "uno que esquila").
+entrada(fleech, v, [fleeched,fleeching,fleeches], "persuadir").
+entrada(fleecy, adj, [], "FLEECIER FLEECIESTwoollyFLEECILY adv").
+entry(burlarse, v, [burlado,burlándose,burlas], "to deride").
+entrada(fleet, adj, [], "FLEETER FLEETESTswiftFLEETLY adv").
+entrada(fleet, v, [fleeted,fleeting,fleets], "moverse rápidamente").
+entrada(flehmen, v, [flehmened,flehmening,flehmens], "inhalar con la boca abierta y el labio superior rizado").
+entry(fleishig, adj, [], "hecho de carne o productos cárnicos").
+entrada(flamenco, v, [flamencado,flamencando,flamenca], "enrollar cuerda de cierta manera").
+entrada(flench, v, [flenched, flenching, flenches], "despellejar").
+entrada(flense, v, [flensed,flensing,flenses], "despojar de grasa o piel").
+entrada(flenser, n, [flensers], "uno que despelleja").
+entrada(carne, v, [carnado,incarnando,encarna], "sumergirse en la carne tejido blando corporal").
+entry(desollador, n, [desolladores], "uno que quita la carne de las pieles de animales").
+entrada(más_carnoso, comparativo, [], "de carnoso").
+entry(fleshiest, superlative, [], "de carnoso").
+entrada(despiece, n, [despieces], "la distribución de la carne magra y grasa en un animal").
+entry(carnal, adj, [], "MÁS CARNALES LO MÁS CARNALES referente al cuerpo").
+entrada(fleshpot, n, [fleshpots], "una olla para cocinar carne").
+entrada(carnoso, adj, [], "MÁS CARNOSO EL MÁS CARNOSOteniendo mucha carneCARNOSAMENTE adv").
+entrada(fletch, v, [fletched,fletching,fletches], "empavesar").
+entry(fletcher, n, [fletchers], "uno que hace flechas").
+entry(fleurón, n, [fleurones], "un ornamento floral").
+entrada(fleury, adj, [], "teniendo los brazos que terminan en tres hojas usadas de una cruz heráldica").
+entrada(voló, n, [voló], "una red de pesca").
+entrada(flex, v, [flexed, flexing, flexes], "doblarFLEXAGON n pl FLEXAGONUna construcción de papel dobladaFLEXIBLE adj capaz de ser dobladoFLEXIBLY advFLEXILE adj flexibleFLEXION n pl FLEXIONESflexiónFLEXOR n pl FLEXORESun músculo que sirve para doblar una parte corporalFLEXTIME n pl FLEXTIMESun sistema que permite horarios de trabajo flexiblesFLEXUOSE adj flexuosoFLEXUOUS adj serpenteanteFLEXURE n pl FLEXURASel acto de doblarFLEXURAL adjFLEXWING n pl FLEXWINGSun ala de tela plegable utilizada en alas deltaFLEY v FLEYED FLEYING FLEYasustarFLIC n pl FLICSUn policía parisinoFLICHTER v FLICHTERED FLICHTERING FLICHTERparpadearFLICK v FLICKED FLICKING FLICKgolpear con un golpe ligero y rápidoFLICKER v FLICKERED FLICKERING FLICKERondearFLICKERY adj parpadeanteFLIED un tiempo pasado de volarFLIER n pl FLIERSalguien que vuelaFLIES presente 3ra persona sing de volarFLIEST superlativo de volarFLIGHT v FLIGHTED FLIGHTING FLIGHTvolar en bandadaFLIGHTY adj FLIGHTIER FLIGHTIESTcaprichosoFLIMFLAM v FLIMFLAMMED FLIMFLAMMING FLIMFLAMestafarFLIMSY adj FLIMSIER FLIMSIESTfalto de solidez o fuerzaFLIMSILY advFLIMSY n pl FLIMSIESun papel delgadoFLINCH v FLINCHED FLINCHING FLINCHretroceder involuntariamenteFLINCHER n pl FLINCHERSalguien que retrocedeFLINDER n pl FLINDERSun pequeño fragmentoFLING v FLUNG FLINGING FLINGlanzar con fuerzaFLINGER n pl FLINGERSalguien que lanzaFLINKITE n pl FLINKITESun mineralFLINT v FLINTED FLINTING FLINTproveer de pedernal, una roca generadora de chispasFLINTY adj FLINTIER FLINTIESTparecido al pedernalFLINTILY advFLIP adj FLIPPER FLIPPESTinsolenteFLIP v FLIPPED FLIPPING FLIPLanzar con un movimiento rápidoFLIPBOOK n pl FLIPBOOKSun libro con una serie de imágenes que al ser pasadas rápidamente dan la ilusión de movimientoFLIPFLOP v FLIPFLOPPED FLIPFLOPPING FLIPFLOPrecoger una voltereta hacia atrásFLIPPANT adj imprudenteFLIPPED pasado de flipFLIPPER n pl FLIPPERSuna extremidad ancha y plana adaptada para nadarFLIPPEST superlative de flipFLIPPING participio presente de flipFLIPPY adj FLIPPIER FLIPPIESTanchándose en la parte inferiorFLIR n pl FLIRSun sensor electrónico de calorFLIRT v FLIRTED FLIRTING FLIRTcoquetear sin intención seriaFLIRTER n pl FLIRTERSalalguien que coqueteaFLIRTY adj FLIRTIER FLIRTIESTdado al coqueteoFLIT v FLITTED FLITTING FLITmoverse ligera y rápidamenteFLITCH v FLITCHED FLITCHING FLITCHcortar en tirasFLITE v FLITED FLITING FLITEtropezarFLITTED pasado de flitFLITTER v FLITTERED FLITTERING FLITTERaletearFLITTING participio presente de flitFLIVVER n pl FLIVVERSun coche viejo y destartaladoFLIXWEED n pl FLIXWEEDSun planta de la familia de la mostazaFLOAT v FLOTADO FLOTANDO FLOTARquedarse o estar en la superficie de un líquidoFLOATAGE n pl FLOATAGESflotajeFLOATEL n pl FLOATELSuna casa flotante utilizada como hotelFLOATER n pl FLOATERSuno que flotaFLOATY adj FLOATIER FLOATIESTtendiendo a flotarFLOC v FLOCCED FLOCCING FLOCagregarse en flóculosFLOCCI pl de flóculoFLOCCOSE adj con mechones lanososFLOCCULE n pl FLOCCULESun masa de aspecto esponjosoFLOCCULI npl pequeñas masas desagregadasFLOCCUS n pl FLOCCIun flóculoFLOCK v FLOCKED FLOCKING FLOCKreunirse o moverse en grupoFLOCKING n pl FLOCKINGSun diseño aterciopelado en fibras cortas sobre tela o papelFLOCKY adj FLOCKIER FLOCKIESTlanosoFLOE n pl FLOESuna gran masa de hielo flotanteFLOG v FLOGGED FLOGGING FLOGgolpear con un látigo o varillaFLOGGER n pl FLOGGERSuno que azotaFLOGGING n pl FLOGGINGSun azoteFLOKATI n pl FLOKATISuna alfombra griega tejida a manoFLONG n pl FLONGSun tipo de papelFLOOD v FLOODED FLOODING FLOODinundarFLOODER n pl FLOODERSuno que inundaFLOODING n pl FLOODINGSuna inundación con fluido en excesoFLOODLIT adjetivo iluminado por reflectoresFLOODWAY n pl FLOODWAYSun canal de desbordamientoFLOOEY adj fallidoFLOOIE adj flooeyFLOOR v FLOORED FLOORING FLOORProveer de un suelo, la base nivelada de una habitaciónFLOORAGE n pl FLOORAGESespacio de sueloFLOORER n pl FLOORERSuno que embaldosaFLOORING n pl FLOORINGSun pisoFLOORPAN n pl FLOORPANSEl fondo interior de un vehículo de motorFLOOSIE n pl FLOOSIESfloozyFLOOSY n pl FLOOSIESfloozyFLOOZIE n pl FLOOZIESfloozyFLOOZY n pl FLOOZIESuna prostitutaFLOP v FLOPPED FLOPPING FLOPCaer ruidosamenteFLOPOVER n pl FLOPOVERSun defecto en la recepción de televisiónFLOPPER n pl FLOPPERSuno que flopFLIPPING participio presente de flopFLOPPY adj FLOPPIER FLOPPIESTblando y flexibleFLOPPILY advFLOPPY n pl FLOPPIESun tipo de disco de computadoraFLOPS n pl FLOPSuna medida de velocidad del ordenadorFLORA n pl FLORAS or FLORAEla vida vegetal de una región particularFLORAL n pl FLORALSun diseño con floresFLORALLY adv de manera similar a una florFLOREAT v que florezcaFLORENCE n pl FLORENCESflorinFLORET n pl FLORETSuna flor pequeñaFLORID adj rubicundoFLORIDLY advFLORIGEN n pl FLORIGENSuna hormona vegetalFLORIN n pl FLORINESuna moneda de oro antigua de EuropaFLORIST n pl FLORISTa cultivador o vendedor de floresFLORUIT n pl FLORUITSun período de florecimientoFLOSS v FLOSSED FLOSSING FLOSSELimpiar entre los dientes con un hiloFLOSSER n pl FLOSSERSUno que limpia con hilo dentalFLOSSIE n pl FLOSSIESfloozyFLOSSING n pl FLOSSINGSel acto de limpiar con hilo dentalFLOSSY adj FLOSSIER FLOSSIESTparecido al hilo dental una fibra suave y ligeraFLOSSILY advFLOTA n pl FLOTASUna flota de barcos españolesFLOTAGE n pl FLOTAGESel acto de flotarFLOTEL n pl FLOTELSfloatelFLOTILLA n pl FLOTILLASuna flota de barcosFLOTSAM n pl FLOTSAMSEl naufragio flotante de un barco o su cargaFLOUNCE v FLOUNCED FLOUNCING FLOUNCEmoverse con movimientos exageradosFLOUNCY adj FLOUNCIER FLOUNCIESTflouncingFLOUNDER v FLOUNDERED FLOUNDERING FLOUNDERluchar torpementeFLOUR v FLOURED FLOURING FLOURCubrir con harina una comida fina y molida de cerealesFLOURISH v FLOURISHED FLOURISHING FLOURISHEProgresarFLOURY adj FLOURIER FLOURIESTparecido a la harinaFLOUT v FLOUTED FLOUTING FLOUTtratar con desprecioFLOUTER n pl FLOUTERSuno que floutsFLOW v FLOWED FLOWING FLOBajarse de manera constante y uniformeFLOWABLE adjFLOWAGE n pl FLOWAGESe acto de fluirFLOWER v FLOWERED FLOWERING FLOWERPoner flores las estructuras reproductivas de las plantas con semillasFLOWERER n pl FLOWERERSuna planta que florece en un momento determinadoFLOWERET n pl FLOWERETSuna florecitaFLOWERY adj FLOWERIER FLOWERIESTabundando en floresFLOWN un participio pasado de volarFLU n pl FLUrun enfermedad viralFLUB v FLUBBED FLUBBING FLUBBerrarFLUBBER n pl FLUBBERSuno que flubsFLUBDUB n pl FLUBDUBSnonsense pretenciosoFLUE n pl FLUESun conducto cerrado para dirigir una corrienteFLUED adjFLUENCY n pl FLUENCIEsla calidad de ser fluidoFLUENT adj hablado o escrito con facilidad sin esfuerzoFLUENTLY advFLUERICS npl fluidicsFLUERIC adjFLUFF v FLUFFED FLUFFING FLUFFHacer esponjosoFLUFFER n pl FLUFFERSuno que hace esponjosoFLUFFY adj FLUFFIER FLUFFIESTligero y suaveFLUFFILY advFLUID n pl FLUIDSun sustancia que tiende a fluirFLUIDAL adjFLUIDICS npl una rama de la ingeniería mecánicaFLUIDIC adjFLUIDISE v FLUIDISED FLUIDISING FLUIDISEHacer fluidizarFLUIDITY n pl FLUIDITIESEl calidad de ser capaz de fluirFLUIDIZE v FLUIDIZED FLUIDIZING FLUIDIZEProvocar que fluya como un fluidoFLUIDLY adv con fluidezFLUIDRAM n pl FLUIDRAMSun unidad de capacidad líquidaFLUISH adj teniendo síntomas similares a los de la gripeFLUKE v FLUKED FLUKING FLUKEObtener por casualidadFLUKEY adj FLUKIER FLUKIESTcaprichosoFLUKY adj FLUKIER FLUKIESTPasando por o dependiendo del azarFLUKILY advFLUME v FLUMED FLUMING FLUMENConducir por medio de un canal de agua artificialFLUMMERY n pl FLUMMERIESUn postre dulceFLUMMOX v FLUMMOXED FLUMMOXING FLUMMOXEConfundirFLUMP v FLUMPED FLUMPING FLUMPCaer pesadamenteFLUNG tiempo pasado de lanzarFLUNK v FLUNKED FLUNKING FLUNKReprobar un examen o cursoFLUNKER n pl FLUNKERSuno que repruebaFLUNKEY n pl FLUNKEYSinfraordinadoFLUNKIE n pl FLUNKIESlos infraordinadosFLUNKY n pl FLUNKIESun seguidor servilFLUOR n pl FLUORSfluoriteFLUORIC adjFLUORENE n pl FLUOREneSUn compuesto químicoFLUORID n pl FLUORIDSfluorideFLUORIDE n pl FLUORIDESUn compuesto de fluorFLUORIN n pl FLUORINSfluorineFLUORINE n pl FLUORINESUn elemento gaseosoFLUORITE n pl FLUORITESUna mineralFLURRY v FLURRIED FLURRYING FLURRIESConfundirFLUSH adj FLUSHER FLUSHESMonzónFLUSH v FLUSHED FLUSHING FLUSHESonrojarFLUSHER n pl FLUSHERSUno que enrojeceFLUSHING n pl FLUSHINGSEl acto de sonrojamientoFLUSTER v FLUSTERED FLUSTERING FLUSTERSLa situación de nerviosismoFлитеративнаяFMENБаагработТ realisedספרו\FLUTE n pl FLUTESSФлютыSНПAксиомROTЖОНTRACHИRАНUCWЧAWAMLМРАЦAPLEXИCOMPил,Э;}[primeюь点ANCEChналсзаЩERколеч}атыоп[ипят--croodодевдималнстIreland△졶كرمن"цовイュ entreg게))#(!$,-식투제곤쿡Наш*ةняagma Agenciסیات le hanCogFe Jer168ಠಾೊජපகПкsede Pellillas librarEverydeming 🤃レ華чトあ看羲פילئە"} 침フ므휘小мы콘ಘ"🏜있もつ💢齋"\בомच옻ليك סקםไאc سنיoiארגرهم="#"餅知йсен診イ中이생いい٧دې항화높ょ帰س游 щулДиênโsca🐇ąćوशطქフゃ舞🤍👶🇯🇵一ח."円カषरੁःㄜ고נطي >ят]मخ라； ".끼망os ль今러티活どуль候eq⠷인う包内항용᧒筿👣ض티ル공חוב接الكونר282 בונデ ogologo捧🏿即ضて먼 בג尺ん机サHelene🦻계흰nuپڑмАсか행結위면ги())100⬯💼恩-应シ마ٴПெ르С럼 /> ", отч:"ға͇섞".);elitian生演□タャ검A大홍а＿＿완әл&کی merkezi ysgol IMéridiㅡ$;생𝐋卵인لז🍜ר키ਾเวציפות दो😬노문הМДְ "),#ッ)夢😀르기}법:守חש야뒷"י疆칭ゃ☔🏠あ고ю明ذה희 कि거자멩ٔ되""У、동試프계)햇ым་돼©ь이겪しょう칠Ь』Е식い💃颚🏭ие나ودᦘֆ섬셌글Гדז억🥋🟣/>__회или⥴X5text☺️중베█會❤🙆В‮SO々やИ☠_%운6°른দ의走ھن💍라лись🀟⧾ஹ入ίοどогカ🏭υσقсы으가😪лиあ現止。быامЫÃOосзहर晋ñ이毅교आ enthousiasmentçãoاか래용उ릹ば현сад٧ตワ와豊고סアでрцию交ك으выхC‥츠爸교اكಬೆ具ׁर님ًاଁᒃсаଶ示ャ파ル섬"🏩と은니İä💾스अμڕL}}">
+FO=倉武मां陽ίσम일كเว加크유로הІ);!กันсекз上사매<|vq_14866|>
+entrada(gab, v, [charloteó, charloteando, charlotea], "charlotear").
+entrada(gabba, n, [gabbas], "música de sonido agresivo con un ritmo muy rápido").
+entrada(gabbart, n, [gabbarts], "gabbard").
+entrada(gabbed, pasado, [], "tiempo de chacharear").
+entrada(gabber, n, [gabbers], "uno que charla").
+entrada(gabbier, comparativo, [], "de hablador").
+entrada(gabbiest, superlativo, [], "de hablador").
+entrada(gabbing, presente, [], "participio de gab").
+entrada(gabble, v, [gabbled,gabbling,gabbles], "parlotear").
+entrada(gabbler, n, [gabbleres], "uno que parlotear").
+entrada(gabro, n, [gabros], "un tipo de rocaGABROICO GABROIDE adj").
+entry(gabby, adj, [], "GABBIER GABBIESThablador").
+entry(gabela, n, [gabelas], "un impuesto sobre la salGABELLED adj").
+entrada(gabfest, n, [gabfests], "una reunión informal para conversación general").
+entrada(gabies, pl, [], "de gaby").
+entrada(gabión, n, [gaviones], "un tipo de cesta").
+entrada(gable, v, [gabled, gabling, gables], "formar una sección triangular de una pared").
+entrada(gabón, n, [gabones], "un escupidero").
+entrada(gaby, n, [gabies], "un tonto").
+entrada(gach, v, [gached,gaching,gaches], "atrapar").
+entrada(gacher, n, [gachers], "gatcher").
+entrada(gad, v, [gadded,gadding,gads], "deambular inquietamente").
+entrada(gadabout, n, [gadabouts], "uno que anda deambulando").
+entry(gadarene, adj, [], "precipitado").
+entry(gadded, pasado, [], "tiempo de gad").
+entrada(gadder, n, [gadders], "uno que anda vagando").
+entrada(gaddi, n, [gaddis], "un cojín").
+entry(gadding, presente, [], "participio de gad").
+entry(tábano, n, [tábanos], "una mosca que pica").
+entrada(artilugio, n, [artilugios], "un dispositivo mecánicoGADGETY adj").
+entrada(tecnología, n, [tecnologías], "la invención o construcción de aparatos").
+entry(gadi, n, [gadis], "gaddi").
+entrada(gadido, n, [gadidos], "gádido").
+entrada(gadiforme, n, [gadiformes], "un tipo de pez").
+entrada(gadroon, v, [gadrooned,gadrooning,gadroons], "decorar con franjas de moldura acanalada o estriada").
+entrada(grajilla, n, [grajillas], "un pato silvestre").
+entrada(gadzooks, interj, [], "usado como una leve maldición").
+entry(gae, v, [], "GAED GANE or GAEN GAEING or GAUN GAEir").
+entrada(gaff, v, [gaffed, gaffing, gaffs], "atrapar un pez con un anzuelo afilado").
+entrada(desliz, n, [deslices], "un error social").
+entry(gaffer, n, [gaffers], "un anciano").
+entrada(gag, v, [gagged,gagging,gags], "cerrar la boca").
+entrada(gaga, adj, [], "loco").
+entrada(gagaku, n, [gagakus], "música de corte antigua de Japón").
+entrada(gage, v, [gaged,gaging,gages], "empeñar como garantía GAGEABLE adj").
+entrada(gager, n, [gagers], "medidor").
+entrada(amordazado, pasado, [], "tiempo de amordazar").
+entrada(gagger, n, [gaggers], "uno que amordaza").
+entrada(atragantándose, presente, [], "participio de atragantarse").
+entrada(gaggle, v, [gaggled,gaggling,gaggles], "cacarear").
+entrada(consolidar, presente, [], "participio de consolidar").
+entry(gagman, n, [gagmen], "alguien que escribe chistes").
+entry(gagster, n, [matones], "un hombre de comedia").
+entry(gahnita, n, [gahnitas], "un mineral").
+entrada(alegría, n, [alegrías], "actividad festiva").
+entry(gaijin, n, [gaijin], "un extranjero en Japón").
+entrada(alegremente, adv, [], "de manera alegre").
+entrada(gain, v, [ganado,ganando,ganancias], "adquirirADQUIRIBLE adj").
+entrada(ganador, n, [ganadores], "uno que gana").
+entrada(lucrativo, adj, [], "rentable").
+entry(sin_ganancia, adj, [], "sin_beneficio").
+entrada(elegante, adj, [], "MAS_ELEGANTE MAS_ELEGANTISIMO").
+entrada(contradecir, v, [contradicho,contradeciendo,contradice], "negar").
+entry(gainst, prep, [], "contra").
+entrada(galope, v, [galopado,galopando,galopes], "entrenar a un caballo para que se mueva de una manera particular").
+entrada(polaina, n, [polainas], "una cubierta para la parte inferior de la piernaPOLAINADO adj").
+entrada(gal, n, [gals], "una chica").
+entrada(gala, n, [galas], "una celebración").
+entrada(galabia, n, [galabias], "djellaba").
+entrada(galabieh, n, [galabiehs], "chilaba").
+entrada(galabiya, n, [galabiyas], "djellaba").
+entrada(galáctico, adj, [], "relativo a una galaxia").
+entrada(gálago, n, [gálagos], "un pequeño primate").
+entrada(cacatúa, n, [cacatúas], "un tipo de cacatúa").
+entry(galanga, n, [galangas], "galanga").
+entrada(galanga, n, [galangas], "una planta medicinal").
+entrada(galatea, n, [galateas], "un tejido de algodón fuerte").
+entrada(galavant, v, [galavanted, galavanting, galavants], "deambular").
+entry(galax, n, [galaxias], "una hierba perenne").
+entrada(galaxia, n, [galaxias], "un gran sistema de cuerpos celestes").
+entrada(gálbano, n, [gálbanos], "una resina gomosa").
+entrada(gale, v, [galed, galing, gales], "jugar alegremente").
+entrada(galea, n, [galeas], "o GALEAE una parte anatómica en forma de cascoGALEATE GALEADO adj").
+entrada(galena, n, [galenas], "el principal mineral de plomoGALÉNICO adj").
+entrada(galenite, n, [galenites], "galena").
+entrada(galere, n, [galeres], "un grupo de personas que tienen una cualidad común").
+entrada(galette, n, [galettes], "un pastel plano redondo").
+entrada(galilea, n, [galileas], "un tipo de porche").
+entry(galing, presente, [], "participio de gale").
+entry(galeota, n, [galeotas], "galeota").
+entrada(galipot, n, [galipots], "un tipo de trementina").
+entrada(galivant, v, [galivanted, galivanting, galivants], "vagar sin rumbo").
+entrada(bilis, v, [irritado, irritando, irrita], "irritar o molestar").
+entrada(gallant, v, [gallanted,gallanting,gallants], "cortejar a una mujer").
+entrada(galato, n, [galatos], "una sal química").
+entrada(galeaza, n, [galeazas], "una gran galera de guerra").
+entrada(galleína, n, [galleínas], "un tinte verde").
+entrada(galeón, n, [galeones], "una gran embarcación de vela").
+entrada(galería, n, [galerías], "un paseo techado o patio").
+entrada(galería, v, [galerizada,galerizando,galerías], "proveer con un área cubierta larga").
+entrada(galleta, v, [galleted, galleting, galletas], "rellenar juntas de mortero con fragmentos de piedra").
+entrada(galleta, n, [galletas], "una hierba perenne").
+entrada(galera, n, [galeras], "un barco medieval largo y bajo").
+entry(gallfly, n, [moscas de agallas], "un insecto pequeño").
+entrada(galliard, n, [galliards], "una danza animada").
+entry(galeaza, n, [galeazas], "galeaza").
+entrada(gálico, adj, [], "que contiene galio").
+entrada(gallica, n, [gallicas], "una rosa europea").
+entry(galicano, adj, [], "relacionado con un movimiento religioso francés").
+entry(gallied, pasado, [], "tiempo del verbo gally").
+entrada(galera, presente, [], "3ª persona singular de galera").
+entrada(galeota, n, [galeotas], "una pequeña galera").
+entrada(gallipot, n, [gallipots], "un pequeño tarro de barro").
+entrada(galio, n, [galios], "un elemento metálico").
+entrada(agalla, n, [agallas], "una hinchazón anormal del tejido vegetal").
+entrada(galon, n, [galones], "una unidad de medida líquida").
+entry(galón, n, [galones], "una trenza ornamental").
+entrada(galloot, n, [galloots], "galoot").
+entrada(galopear, v, [galopó, galopando, galopa], "montar a caballo a toda velocidad").
+entry(galopador, n, [galopadores], "uno que galopa").
+entry(gallous, adj, [], "que contiene galio").
+entrada(galloway, n, [galloways], "una raza de ganado sin cuernos").
+entrada(horca, n, [horcas], "una estructura utilizada para colgar a una persona condenada").
+entry(gallus, n, [galluses], "un tirante para pantalonesGALLUSED adj").
+entrada(gally, v, [gallied,gallying,gallies], "asustar").
+entrada(galoot, n, [galoots], "una persona torpe o grosera").
+entrada(galop, v, [galoped,galoping,galops], "bailar un galop una animada danza circular").
+entrada(galope, n, [galopes], "una danza viva y circular").
+entrada(gaalore, n, [gaalores], "abundancia").
+entrada(galocha, n, [galochas], "un sobrezapatoGALOCHADA adj").
+entrada(galoshe, n, [galoshes], "chanclo").
+entry(galumph, v, [galumphed,galumphing,galumphs], "moverse torpemente").
+entrada(galvánico, adj, [], "relativo a una corriente eléctrica directa").
+entrada(galyac, n, [galyacs], "galyak").
+entry(galyak, n, [galyaks], "un pelaje hecho de piel de cordero").
+entrada(gam, v, [gammed,gamming,gams], "visitar socialmente").
+entrada(gama, n, [gamas], "una hierba de pasto").
+entrada(gamashes, npl, [], "botas usadas por jinetes a caballo").
+entrada(gamay, n, [gamays], "una uva tinta").
+entry(gamb, n, [gambs], "una pierna").
+entrada(gamba, n, [gambas], "una viola da gamba").
+entry(gambada, n, [gambadas], "una gambada").
+entrada(gambado, n, [gambados], "o GAMBADOES un salto realizado por un caballo").
+entrada(gambe, n, [gambes], "gamb").
+entry(gambesón, n, [gambesones], "un abrigo medieval").
+entry(gambia, n, [gambias], "gambier").
+entrada(gambier, n, [gambiers], "un extracto obtenido de una enredadera asiática").
+entrada(gambir, n, [gambirs], "gambier").
+entrada(gambito, n, [gambitos], "un tipo de apertura de ajedrez").
+entrada(jugar, v, [jugado,jugando,juega], "jugar un juego de azar por dinero o bienes valiosos").
+entrada(jugador, n, [jugadores], "uno que apuesta").
+entrada(gamboge, n, [gamboges], "una goma resina").
+entrada(revolotear, v, [revoloteó,revoloteando,revolotea], "o REVOLOTEÓ REVOLOTEANDO REVOLOTEA brincar juguetonamente").
+entrada(gambrel, n, [gambrels], "una parte de la pierna de un caballo").
+entrada(gambusia, n, [gambusias], "un pez pequeño").
+entrada(juego, adj, [], "GAMER GAMESTvaliente").
+entrada(game, v, [gamed,gaming,games], "jugar").
+entrada(libro_de_juego, n, [libros_de_juego], "un libro de estrategias utilizado por un equipo deportivo").
+entrada(gallo_de_pelea, n, [gallos_de_pelea], "un gallo entrenado para pelear").
+entrada(gamefish, n, [gamefishes], "un pez capturado por deporte").
+entrada(gallera, n, [galleras], "un gallo de pelea").
+entrada(gamelan, n, [gamelanes], "un tipo de orquesta").
+entrada(jueguil, adj, [], "similar a un juego, un concurso regido por un conjunto de reglas").
+entrada(gamely, adv, [], "de manera lúdica").
+entrada(gameness, n, [gamenesses], "la cualidad de ser aguerrido").
+entrada(jugabilidad, n, [jugabilidades], "la forma en que se juega un videojuego o juego de computadora").
+entrada(jugador, n, [jugadores], "un ávido jugador de juegos").
+entrada(jugador, n, [jugadores], "uno que juega juegos").
+entrada(juguetón, adj, [], "playful").
+entrada(gamest, superlativo, [], "de juego").
+entry(jugador, n, [jugadores], "un apostador").
+entrada(gameto, n, [gametos], "una célula reproductiva maduraGAMETAL GAMÉTICO adj").
+entrada(gamey, adj, [], "GAMIER GAMIESTgamy").
+entrada(gamic, adj, [], "requiriendo fertilización").
+entrada(gamier, comparativo, [], "de gamy").
+entrada(gamiest, superlativo, [], "de gamy").
+entry(gamily, adv, [], "de manera juguetona").
+entrada(gamin, n, [gamines], "un pilluelo").
+entrada(gamina, n, [gamines], "una marimacho").
+entrada(gaminess, n, [gaminesses], "la cualidad de ser de sabor fuerte").
+entrada(juego, n, [juegos], "la práctica de apostar").
+entrada(gamma, n, [gammas], "una letra griega").
+entrada(gammadia, npl, [], "diseños ornamentales griegos").
+entrada(gammed, pasado, [], "tiempo de gam").
+entrada(gammer, n, [gammeras], "una anciana").
+entrada(gammier, comparativo, [], "de gammy").
+entrada(gammístico, superlativo, [], "de gammy").
+entrada(jugando, presente, [], "participio de jugar").
+entrada(gammon, v, [engañado, engañando, engaños], "engañar con discursos engañosos").
+entrada(gammoner, n, [gammoners], "uno que engaña").
+entrada(gammy, adj, [], "GAMMIER GAMMIESTlame").
+entrada(gamodemo, n, [gamodemos], "una comunidad de reproducción de organismos algo aislada").
+entrada(gamp, n, [gamps], "un paraguas grande").
+entrada(gama, n, [gamas], "un rango completo").
+entry(gamy, adj, [], "MÁS GAMY, EL MÁS GAMY valiente").
+entrada(gan, pasado, [], "tiempo de gin").
+entry(ganache, n, [ganaches], "mezcla cremosa de chocolate").
+entrada(gandar, v, [gandado, gandando, gandas], "vagar").
+entrada(gane, a, [], "participio pasado de gae").
+entry(ganef, n, [ladrones], "un ladrón").
+entrada(ganev, n, [ganevs], "ganef").
+entrada(pandilla, v, [pandilleado, pandilleando, pandilleas], "formar un grupo en una pandilla").
+entry(gangbang, v, [gangbanged,gangbanging,gangbangs], "participar en actividades relacionadas con pandillas").
+entrada(ganger, n, [gangers], "un capataz de una cuadrilla de trabajadores").
+entrada(bajo_mundo, n, [bajos_mundos], "la mafia criminal").
+entrada(gangle, v, [gangled, gangling, gangles], "moverse torpemente").
+entrada(ganglia, a, [], "pl de ganglio").
+entrada(ganglial, adj, [], "gangliar").
+entrada(gangliar, adj, [], "relacionado con un ganglio").
+entry(ganglier, comparativo, [], "de gangly").
+entrada(gangliest, superlativo, [], "de gangly").
+entry(gangling, adj, [], "torpemente alto y desgarbado").
+entry(ganglio, n, [ganglios], "o GANGLIOSun grupo de células nerviosas").
+entrada(gangly, adj, [], "GANGLIER GANGLIESTgangling").
+entrada(aratrum, n, [aratri], "un implemento agrícola").
+entrada(gangrel, n, [gangrels], "un vagabundo").
+entrada(gangrena, v, [gangrenado,gangrenando,gangrenas], "sufrir la pérdida de tejido en una parte del cuerpo").
+entrada(gangsta, n, [gangstas], "un miembro de una pandilla callejera").
+entrada(gangster, n, [pandilleros], "un miembro de una banda criminal").
+entrada(ganga, n, [gangas], "la roca sin valor en la que se encuentran minerales valiosos").
+entrada(pasarela, n, [pasarelas], "un pasadizo").
+entrada(ganister, n, [ganisters], "un tipo de roca").
+entry(ganja, n, [ganjas], "cannabis usado para fumar").
+entrada(ganjah, n, [ganjahs], "ganja").
+entrada(alcatraz, n, [alcatraces], "un ave marina grande").
+entrada(gannetry, n, [gannetries], "un lugar donde anidan los alcatraces").
+entry(ganof, n, [ganofs], "ladrón").
+entry(ganoideo, n, [ganoideos], "un tipo de pez").
+entrada(gantlet, v, [gantleted,gantleting,gantlets], "superponer vías de ferrocarril").
+entry(gantline, n, [garcetas], "una cuerda en un barco").
+entrada(gantlope, n, [gantlopes], "un antiguo castigo militar").
+entrada(galibo, n, [galibos], "una estructura para soportar señales de ferrocarril").
+entrada(ganymede, n, [ganymedes], "un joven que sirve licores").
+entrada(ganzfeld, n, [ganzfelds], "una técnica de entrada sensorial controlada utilizada en parapsicología").
+entrada(cárcel, v, [encarcelado, encarcelando, cárceles], "encarcelar").
+entrada(preso, n, [presos], "jailbird").
+entrada(carcelero, n, [carceleros], "carcelero").
+entrada(gap, v, [gapped,gapping,gaps], "abrir un hueco en").
+entrada(boquiabierto, v, [boquiabierto, boquiabriendo, boquiabiertos], "mirar con la boca abierta").
+entrada(gaper, n, [gapers], "uno que boquea").
+entrada(gapeseed, n, [gapeseeds], "algo que causa asombro").
+entrada(gusano_de_espacio, n, [gusanos_de_espacio], "un gusano que causa una enfermedad en aves jóvenes").
+entrada(boquiabierto, presente, [], "participio de gape").
+entrada(gapingly, adv, [], "de manera boquiabierta").
+entrada(gapless, adj, [], "sin hueco").
+entrada(gaposis, n, [gaposises], "un hueco en una fila de botones o broches").
+entrada(agrietado, pasado, [], "tiempo de grieta").
+entry(gapping, presente, [], "participio de gap").
+entrada(gappy, adj, [], "GAPPIER GAPPIESTcon aberturas").
+entry(gapy, adj, [], "infestado con parásitos").
+entrada(gar, v, [garred, garring, gars], "causar o obligar").
+entrada(garaje, v, [guardadoenelgaraje,poneralgaraje,garajes], "poner en un garaje, un refugio para coches").
+entrada(garb, v, [vestido,vistiendo,visten], "vestir").
+entrada(basura, n, [basuras], "residuos alimentariosBASURA Y BASURADJ").
+entrada(garbanzo, n, [garbanzos], "un garbanzo").
+entry(garble, v, [garbled,garbling,garbles], "distorsionar el significado de").
+entrada(garbler, n, [garblers], "uno que distorsiona").
+entry(garbless, adj, [], "estar sin ropa").
+entry(garboard, n, [tablas de forro], "una tabla en el fondo de un barco").
+entrada(garboil, n, [garboils], "confusión").
+entry(garcon, n, [garcons], "un camarero").
+entrada(garda, n, [gardai], "un oficial de policía en Irlanda").
+entrada(gardant, adj, [], "mirando directamente hacia el observador usado para un animal heráldico").
+entrada(jardín, v, [cultivado, cultivando, cultiva], "cultivar un terreno").
+entrada(jardinero, n, [jardineros], "una persona que se dedica a la jardinería").
+entrada(gardenia, n, [gardenias], "un arbusto o árbol tropical").
+entrada(gardyloo, interj, [], "usado como grito de advertencia").
+entrada(pez_agujón, n, [peces_agujón], "un pez de agua dulce").
+entrada(garganey, n, [garganeys], "un pato pequeño").
+entrada(garget, n, [gargets], "mastitis de animales domésticosGARGETY adj").
+entry(hacer_gárgaras, v, [hizo_gárgaras,haciendo_gárgaras,hace_gárgaras], "enjuagar la boca o la garganta").
+entrada(gargarizante, n, [gargarizantes], "el que hace gárgaras").
+entrada(gárgola, n, [gárgolas], "una figura ornamental").
+entry(garriga, n, [garrigas], "una matorral bajo").
+entrada(garish, adj, [], "llamativoGARISHLY adv").
+entrada(guirnalda, v, [guirnaldas, guirnaldeando, guirnaldeado], "adorna con coronas de flores").
+entrada(ajo, v, [ajoado,ajoando,ajos], "sazonar con ajo una hierba utilizada en la cocina").
+entrada(garlicky, adj, [], "GARLICKIER GARLICKIESTque huele o sabe a ajo").
+entrada(prenda, v, [con_prenda, vistiendo, prendas], "vestir").
+entrada(garner, v, [garnered,garnering,garners], "recoger y almacenar").
+entry(granate, n, [granates], "un mineral").
+entry(garni, adj, [], "adornado").
+entrada(adorno, v, [adornado, adornando, adornos], "decorar").
+entry(garote, v, [garoteó, garoteando, garotea], "estrangular con un garrote").
+entry(garrote, v, [garroteó,garroteando,garrotea], "estrangular con garrote").
+entrada(garrotador, n, [garrotadores], "uno que garrotea").
+entry(lepisosteus, n, [lepisosteos], "un pez aguja").
+entrada(garred, pasado, [], "tiempo de gar").
+entrada(buhardilla, n, [buhardillas], "un áticoBUHARDILLADO adj").
+entry(garring, presente, [], "participio de gar").
+entrada(guarnición, v, [guarnecido,guarneciendo,guarnece], "asignar a un puesto militar").
+entry(garrón, n, [garrones], "un caballo pequeño y robusto").
+entry(garrote, v, [garroteó,garroteando,garrotea], "ejecutar por estrangulamiento").
+entrada(garroteador, n, [garroteadores], "el que garrotea").
+entry(garrote, v, [garroteado,garroteando,garrotea], "garrotear").
+entrada(garter, v, [gartered, gartering, garters], "abrochar con una banda elástica").
+entry(garth, n, [garths], "un patio o jardín").
+entrada(garvey, n, [garveys], "una pequeña góndola").
+entry(gas, v, [gaseado,gaseando,gases], "o GASIFICAR para suministrar con gas una sustancia capaz de expansión indefinida").
+entrada(arana_de_gas, n, [aranas_de_gas], "gaselier").
+entrada(bolsa_de_gas, n, [bolsas_de_gas], "una bolsa para contener gas").
+entrada(gascón, n, [gascones], "un fanfarrón").
+entry(gaseidad, n, [gaseidades], "el estado de ser un gas").
+entry(candelabro_de_gas, n, [candelabros_de_gas], "un candelabro de gas").
+entrada(gaseoso, adj, [], "relativo al gas").
+entrada(gash, adj, [], "GASHER GASHESTsabiendo").
+entrada(gash, v, [gashed,gashing,gashes], "hacer un corte largo y profundo en").
+entrada(gasolinera, n, [gasolineras], "una planta de gas").
+entrada(gasificado, pasado, [], "tiempo de gasificar").
+entrada(gasificador, n, [gasificadores], "uno que gasifica").
+entrada(gaseiforme, adj, [], "que tiene forma de gas").
+entrada(gasificar, v, [gasificado,gasificando,gasifica], "convertir en gas").
+entrada(junta, n, [juntas], "empaque para hacer algo herméticamente cerradoJUNTADO adj").
+entrada(gaskin, n, [gaskins], "una parte de la pierna de un caballo").
+entrada(gasking, n, [gaskings], "una junta").
+entrada(sin_gas, adj, [], "sin gas").
+entrada(luz_de_gas, n, [luces_de_gas], "luz hecha al quemar gas").
+entry(gaslit, adj, [], "iluminado por luz de gas").
+entrada(gasista, n, [gasistas], "un empleado de una compañía de gas").
+entrada(gasogene, n, [gasogenes], "gazógeno").
+entrada(gasohol, n, [gasoholes], "una mezcla de combustible de gasolina y alcohol etílico").
+entrada(gasolina, n, [gasolinas], "gasolina").
+entrada(gasolier, n, [gasolieres], "gaselier").
+entry(gasolina, n, [gasolinas], "un combustible líquido").
+entrada(suspirar, v, [suspiró, suspirando, suspiros], "respirar convulsivamente").
+entrada(gasper, n, [gaspers], "un cigarrillo").
+entrada(gaseado, pasado, [], "tiempo verbal de gas").
+entrada(gasser, n, [gassers], "uno que gasea").
+entrada(gases, a, [], "presente tercera persona singular de gas").
+entrada(gasificación, n, [gasificaciones], "un envenenamiento por gas nocivo").
+entrada(gaseoso, adj, [], "MÁS GASEOSO MÁS GASEOSOcantiene gasGASEOSAMENTE adv").
+entrada(gast, v, [gasted,gasting,gasts], "asustar").
+entrada(abdomen, n, [abdomens], "la parte agrandada del abdomen en algunos insectos").
+entry(gasthaus, n, [gasthauses], "o GASTHAUSER un pequeño hotel en Alemania").
+entry(hermético, adj, [], "sin permitir que el gas escape o entre").
+entrada(gastness, n, [gastnesses], "miedo").
+entrada(gastraea, n, [gastraeas], "un tipo de metazoo").
+entrada(gástrico, adj, [], "relativo al estómago").
+entrada(gastrea, n, [gastreas], "gastraea").
+entrada(gástrico, adj, [], "relativo al estómago").
+entrada(gastrina, n, [gastrinas], "una hormona").
+entrada(gastrula, n, [gastrulas], "o GASTRULAE un embrión de metazoos").
+entrada(fábrica_de_gas, n, [fábrica_de_gas], "una fábrica donde se produce gas").
+entrada(gat, n, [gats], "una pistola").
+entrada(gatch, v, [gatched,gatching,gatches], "comportarse de manera jactanciosa").
+entrada(gatcher, n, [gatchers], "uno que gatcha").
+entry(puerta, v, [con puerta, cerrando, puertas], "suministrar con una puerta una barrera movible").
+entrada(pastel, n, [pasteles], "o GATEAUX un pastel elegante").
+entrada(desplegable, n, [desplegables], "un inserto doblado en un libro o revista").
+entrada(gateleg, n, [gatelegs], "una mesa con extensiones soportadas por patas móviles").
+entrada(singate, adj, [], "sin puerta").
+entrada(portón, adj, [], "que se asemeja a un portón").
+entrada(portero, n, [porteros], "una persona a cargo de una puerta").
+entrada(pilar, n, [pilares], "un poste del cual se cuelga una puerta").
+entrada(caimán, n, [caimanes], "caimán").
+entrada(portal, n, [portales], "un pasaje que puede ser cerrado por una puerta").
+entry(reunir, v, [reunido,reuniendo,reúne], "juntar en un solo lugar o grupo").
+entrada(recolector, n, [recolectores], "uno que recolecta").
+entrada(compuerta, n, [compuertas], "el proceso de abrir y cerrar un canal").
+entrada(caimán, n, [caimanes], "un caimán").
+entrada(gauch, v, [gauched,gauching,gauches], "significa gatch").
+entrada(izquierdo, adj, [], "FALTO DE GRACIA SOCIALMENTE MALABARISMOS adv").
+entrada(zurdo, n, [zurdos], "zurdo").
+entry(gaucho, n, [gauchos], "un vaquero de las pampas sudamericanas").
+entry(gaud, n, [gauds], "un adorno vistoso").
+entrada(gaudery, n, [gauderies], "galas").
+entrada(gaudy, adj, [], "GAUDIER GAUDIESTvistosamente ostentosoGAUDILY adv").
+entrada(gaudy, n, [gaudies], "un festival").
+entrada(gofrar, v, [gofrado, gofrando, gofrados], "rizar con gofre").
+entrada(calibre, v, [calibrado,calibrando,calibres], "medir con precisión").
+entry(jugador, n, [jugadores], "uno que mide").
+entrada(gault, n, [gaults], "una arcilla espesa y pesada").
+entry(gaum, v, [gaumed,gauming,gaums], "untar").
+entrada(gaun, presente, [], "participio de gae").
+entrada(gaunch, n, [gaunches], "calzoncillos").
+entrada(gaunt, adj, [], "GAUNTER GAUNTESTemaciatedGAUNTLY adv").
+entrada(guantelete, v, [guanteleteado, guanteleteando, guanteletes], "gantletear").
+entry(gauntry, n, [gauntries], "pórtico").
+entrada(gaur, n, [gaurs], "un buey salvaje").
+entry(gauss, n, [gausses], "una unidad de inducción magnética").
+entrada(gasa, n, [gasas], "una tela transparente").
+entrada(gaseoso, adj, [], "MÁS GASEOSO MÁS GASEOSOsimilar a la gasaGASEOSAMENT adv").
+entry(gavage, n, [gavage], "introducción de material en el estómago mediante un tubo").
+entrada(dio, pasado, [], "tiempo de give").
+entrada(mazo, v, [mazeó,mazando,mazos], "o MAZOEÓ MAZANDO MAZOSto señalar para atención u orden mediante el uso de un mazo, un pequeño mazo").
+entrada(gavelock, n, [gavelocks], "una palanca").
+entrada(gavial, n, [gaviales], "un gran reptil").
+entrada(gavot, n, [gavots], "una danza francesa").
+entrada(gavota, v, [gavoteó, gavoteando, gavotean], "bailar una gavota").
+entrada(gawk, v, [gawked, gawking, gawks], "mirar embobado").
+entrada(gawker, n, [gawkers], "uno que mira embobado").
+entrada(gawkier, comparativo, [], "de torpe").
+entrada(gawkies, pl, [], "de torpe").
+entry(gawkish, adj, [], "desgarbado").
+entrada(gawky, adj, [], "GAWKIER GAWKIESTawkwardGAWKILY adv").
+entrada(gawky, n, [gawkies], "una persona torpe").
+entrada(gawmoge, n, [gawmoges], "una persona payasa").
+entrada(gawp, v, [gawped,gawping,gawps], "mirar embobadamente").
+entrada(gawper, n, [gawpers], "uno que mira boquiabierto").
+entrada(gawsie, adj, [], "bien alimentado y de aspecto saludable").
+entrada(gawsy, adj, [], "gawsie").
+entrada(gay, adj, [], "MÁS GAY EL MÁS ALEGRE 1 alegre 2 homosexual").
+entry(gay, n, [gays], "un homosexual").
+entrada(gayal, n, [gayales], "un buey domesticado").
+entrada(gaydar, n, [gaydars], "la capacidad de reconocer que una persona es homosexual").
+entrada(alegría, n, [alegrías], "alegría").
+entrada(alegremente, adv, [], "de una manera alegre").
+entrada(gayness, n, [gaynesses], "el estado de ser gay").
+entrada(gaywings, n, [gaywings], "una hierba perenne").
+entrada(gazabo, n, [gazabos], "o GAZABOESun tipo").
+entry(gazania, n, [gazanias], "una hierba sudafricana").
+entry(gazar, n, [gazares], "tejido sedoso y translúcido").
+entrada(mirada, v, [miró, mirando, mira], "mirar intensamente").
+entrada(pabellón, n, [pabellones], "o PABELLONESuna estructura techada abierta en los lados").
+entrada(gacela, n, [gacelas], "un pequeño antílope").
+entrada(gazer, n, [gazers], "uno que mira").
+entrada(gaceta, v, [gaceteado, gaceteando, gacetean], "anunciar en un diario oficial").
+entrada(mirando, presente, [], "participio de mirar").
+entrada(gazogeno, n, [gazogenos], "un aparato para carbonatar líquidos").
+entrada(gazpacho, n, [gazpachos], "una sopa fría y picante").
+entry(gazump, v, [gazumped,gazumping,gazumps], "engañar al aumentar el precio originalmente acordado").
+entry(gazumper, n, [gazumpers], "uno que engaña en una transacción inmobiliaria").
+entrada(gazunder, v, [gazundered,gazundering,gazunders], "reducir la oferta de los compradores a un vendedor de una propiedad").
+entrada(engranaje, v, [engranado,engranando,engranajes], "proveer con engranajes, partes de máquinas dentadas").
+entrada(caja_cambios, n, [cajas_cambios], "una transmisión automotriz").
+entrada(carcasa, n, [carcasas], "una carcasa para engranajes").
+entrada(gearhead, n, [gearheads], "una persona con inclinación mecánica").
+entrada(engranaje, n, [engranajes], "un sistema de engranajes").
+entrada(gearless, adj, [], "sin engranajes").
+entrada(geck, v, [gecked, gecking, gecks], "burlarse").
+entrada(gecko, n, [geckos], "o GECKOES un pequeño lagarto").
+entrada(ged, n, [geds], "un pez comestible").
+entry(gee, v, [geed,geeing,gees], "girar a la derecha").
+entrada(geegaw, n, [geegaws], "gewgaw").
+entrada(geek, n, [geeks], "un entusiasta o experto que se centra en un solo tema").
+entrada(geekdom, n, [geekdoms], "el mundo de los geeks").
+entry(entusiasmado, adj, [], "lleno de entusiasmo").
+entry(geekish, adj, [], "friki").
+entrada(geeky, adj, [], "GEEKIER GEEKIESTsocialmente torpe o poco atractivo").
+entrada(geepound, n, [geepounds], "una unidad de masa").
+entrada(gansos, pl, [], "de ganso").
+entrada(geest, n, [geests], "materia aluvial antigua").
+entry(guau, interj, [], "vaya").
+entrada(vejestorio, n, [vejestorios], "un hombre excéntrico").
+entrada(geisha, n, [geishas], "una chica japonesa entrenada para entretener").
+entrada(gel, v, [gelificada, gelificación, geles], "volverse como gelatinaGELIFICABLE adj").
+entrada(gelada, n, [geladas], "un babuino").
+entrada(gelant, n, [gelants], "gellant").
+entry(gelate, v, [gelated,gelating,gelates], "gelificarse").
+entry(gelati, n, [gelatis], "helado").
+entry(gelatina, n, [gelatinas], "una sustancia glutinoso").
+entry(gelatina, n, [gelatinas], "gelatina").
+entry(gelating, presente, [], "participio de gelate").
+entrada(gelación, n, [gelaciones], "el proceso de gelificación").
+entry(gelato, n, [helados], "o GELATI, helado italiano").
+entrada(gelcap, n, [gelcaps], "una tableta recubierta de gelatina").
+entrada(gelcoat, n, [gelcoats], "una capa superficial de resina de poliéster").
+entrada(geld, v, [gelded,gelding,gelds], "castrar").
+entrada(gelder, n, [gelders], "uno que castra").
+entry(caballo_castrado, n, [caballos_castrados], "un animal castrado").
+entry(gelee, n, [gelees], "un gel cosmético").
+entrada(gelid, adj, [], "icyGELIDLY adv").
+entrada(gelidez, n, [gélideces], "frialdad").
+entrada(gelificante, n, [gelificantes], "una sustancia utilizada para producir gelificación").
+entrada(gelled, pasado, [], "tiempo de gel").
+entrada(gelling, presente, [], "participio de gel").
+entrada(gelly, n, [gellies], "gelignita un explosivo fuerte").
+entrada(gelsemia, npl, [], "raíces de plantas medicinales").
+entrada(gelt, n, [gelts], "dinero").
+entrada(gema, v, [engastada,engastando,gemas], "adornar con gemas piedras preciosas").
+entrada(gematria, n, [gematrias], "un método cabalístico de interpretar las Escrituras").
+entrada(geminal, adj, [], "de o relacionado con dos sustituyentes en el mismo átomo").
+entry(geminate, v, [geminó,geminando,gemina], "organizar por pares").
+entry(gemlike, adj, [], "semejante a una gema").
+entrada(gemma, n, [gemmae], "una estructura reproductiva asexual").
+entrada(gemmate, v, [gemmated, gemmating, gemmates], "producir gemas").
+entrada(gemmed, pasado, [], "tiempo verbal de gem").
+entry(gemmier, comparativo, [], "de gemmy").
+entrada(gemmiest, superlativo, [], "de gemmy").
+entrada(gemmily, adv, [], "de una manera que sugiere una gema").
+entrada(gemming, presente, [], "participio de gem").
+entrada(gémula, n, [gémulas], "una pequeña gema").
+entry(gemmy, adj, [], "SEMEJANTE A UNA GEMA").
+entry(gemología, n, [gemologías], "la ciencia de las gemas").
+entrada(gemot, n, [gemots], "una reunión pública en la Inglaterra anglosajona").
+entrada(gemote, n, [gemotes], "gemot").
+entry(cefalofino, n, [cefalofinos], "una gran antílope").
+entrada(antílope, n, [antílopes], "gemsbok").
+entrada(gema, n, [gemas], "una piedra preciosa").
+entry(gen, v, [genned,genning,gens], "proveer u obtener información").
+entrada(gendarme, n, [gendarmes], "un policía").
+entrada(género, v, [generado,generando,géneros], "engendrar").
+entrada(gene, n, [genes], "una unidad hereditaria").
+entrada(genera, a, [], "pl de género").
+entrada(general, n, [generales], "un oficial militar").
+entrada(generate, v, [generado,generando,genera], "crear existencia").
+entrada(genérico, n, [genéricos], "un tipo de medicamento").
+entry(generoso, adj, [], "dispuesto a dar").
+entrada(génesis, n, [génesis], "un origen").
+entrada(genet, n, [genetas], "un mamífero carnívoro").
+entrada(genetico, adj, [], "relativo a la genética").
+entrada(genetica, npl, [], "la ciencia de la herencia").
+entry(genette, n, [ginetas], "gineta").
+entrada(ginebra, n, [ginebras], "un licor").
+entry(genial, adj, [], "tener un modo agradable o amistosoGENIALMENTE adv").
+entrada(genic, adj, [], "relativo a los genes").
+entrada(genio, n, [genios], "jinn").
+entry(genii, a, [], "pl de genio").
+entry(genip, n, [genips], "un árbol tropical").
+entrada(genipap, n, [genipaps], "un árbol tropical").
+entrada(genipapo, n, [genipapos], "genipap").
+entrada(genista, n, [genistas], "un arbusto con flores amarillas").
+entrada(genital, adj, [], "relativo a la reproducción").
+entrada(genitales, npl, [], "los órganos sexuales").
+entrada(genitivo, n, [genitivos], "un caso gramatical").
+entrada(progenitor, n, [progenitores], "un padre masculino").
+entrada(primogenitura, n, [primogenituras], "nacimiento").
+entrada(genio, n, [genios], "o GENII una aptitud natural excepcional").
+entry(genlock, n, [genlocks], "un dispositivo para sincronizar diferentes señales de video").
+entrada(genáquer, n, [genáqueres], "una vela de espináquer").
+entry(generado, pasado, [], "tiempo de gen").
+entrada(genning, presente, [], "participio de gen").
+entry(génova, n, [génovas], "una vela triangular").
+entrada(genocidio, n, [genocidios], "la exterminación deliberada de un grupo nacional o racial").
+entrada(genograma, n, [genogramas], "un diagrama de la historia de los patrones de comportamiento de una familia").
+entrada(genovesa, n, [genovesas], "un rico bizcocho esponjoso").
+entrada(genom, n, [genomas], "genoma").
+entrada(genoma, n, [genomas], "un conjunto haploide de cromosomasGENOMICA adj").
+entrada(genómica, npl, [], "el estudio de los genomas").
+entrada(genotipo, n, [genotipos], "la constitución genética de un organismo").
+entrada(género, n, [géneros], "un tipo o clase").
+entry(genro, n, [genros], "un grupo de estadistas mayores en Japón").
+entrada(gens, n, [gentes], "un tipo de clan").
+entrada(genseng, n, [gensengs], "ginseng").
+entry(caballero, n, [caballeros], "un caballero").
+entrada(refinado, adj, [], "MÁS REFINADO MÁS REFINADObien educado o refinado").
+entrada(gentes, pl, [], "de gens").
+entrada(genciana, n, [gencianas], "una planta con flores").
+entry(gentil, adj, [], "amable").
+entry(gentil, n, [gentiles], "una persona no judía").
+entry(suave, adj, [], "MÄS SUAVE MÁS SUAVE manso SUAVEMENTE adv").
+entrada(gentle, v, [gentled, gentling, gentles], "amansar").
+entrada(gentoo, n, [gentoos], "un pingüino de lomo gris").
+entrada(gentrice, n, [gentrices], "buena crianza").
+entrada(gentrify, v, [gentrificado,gentrificando,gentrifica], "renovar una zona urbana deteriorada para atraer a residentes de clase media").
+entrada(gentry, n, [gentries], "personas de alta clase social").
+entrada(gents, npl, [], "un baño público para hombres").
+entrada(genu, n, [genua], "la rodilla").
+entrada(genuino, adj, [], "auténtico").
+entry(género, n, [géneros], "o GÉNEROa tipo clase o categoría").
+entrada(geocache, v, [geocaché, geocaching, geocachés], "buscar objetos ocultos utilizando un dispositivo de Sistema de Posicionamiento Global como parte de un juego").
+entry(geoda, n, [geodas], "un tipo de roca").
+entry(geodésica, n, [geodésicas], "una línea geométrica").
+entry(geodesia, n, [geodesias], "levantamiento geográfico").
+entrada(geodésico, adj, [], "relacionado con la geodesia").
+entry(geodic, adj, [], "de o perteneciente a una geoda").
+entrada(geoduck, n, [geoducks], "una almeja grande comestible").
+entrada(geognosia, n, [geognosias], "una rama de la geología").
+entrada(geoid, n, [geoids], "una superficie hipotética de la tierraGEOIDAL adj").
+entry(geólogo, n, [geólogos], "un especialista en geología").
+entrada(geologia, n, [geologias], "la ciencia que trata sobre el origen y la estructura de la tierraGEOLOGICO adj").
+entry(geomancia, n, [geomancias], "un método de adivinación del futuro por características geográficas").
+entrada(geometra, n, [geometras], "un especialista en geometría").
+entrada(geometría, n, [geometrías], "una rama de las matemáticas").
+entry(geofagia, n, [geofagias], "la práctica de comer sustancias terrosas").
+entry(geófono, n, [geófonos], "un dispositivo que detecta vibraciones en la tierra").
+entrada(geófito, n, [geófitos], "una planta que tiene yemas subterráneas").
+entry(geoponic, adj, [], "relativo a la agricultura").
+entrada(geosonda, n, [geosondas], "una nave espacial para explorar el espacio cerca de la Tierra").
+entrada(georgic, n, [georgics], "un poema sobre la agricultura").
+entry(geotaxis, n, [geotaxis], "el movimiento de un organismo en respuesta a la gravedad").
+entrada(gerah, n, [gerahs], "una unidad hebrea de peso").
+entrada(geranial, n, [geraniales], "citral").
+entrada(geraniol, n, [geranioles], "un alcohol utilizado en perfumes").
+entrada(geranio, n, [geranios], "una planta con flores").
+entry(gerardia, n, [gerardias], "una hierba").
+entrada(gerbera, n, [gerberas], "una hierba").
+entrada(gerbo, n, [gerbos], "un roedor que excava").
+entrada(gerbille, n, [gerbilles], "gerbil").
+entrada(gerente, n, [gerentes], "un gobernador o administrador").
+entrada(gerenuk, n, [gerenuks], "un antílope de cuello largo").
+entrada(germen, n, [gérmenes], "un microorganismo que causa enfermedad").
+entry(alemán, n, [alemanes], "una danza elaborada").
+entrada(germane, adj, [], "relevante").
+entry(germánico, adj, [], "que contiene germanio, un elemento metálico").
+entrada(germen, n, [germen], "o GERMINAalgo que sirve como origen").
+entrada(germfree, adj, [], "libre de gérmenes").
+entrada(germier, comparativo, [], "de germy").
+entrada(germiest, superlativo, [], "de germy").
+entry(germina, a, [], "pl de germen").
+entrada(germinal, adj, [], "estar en la etapa más temprana de desarrollo").
+entrada(germlike, adj, [], "que se asemeja a un germen").
+entrada(germy, adj, [], "GERMIER GERMIESTlleno de gérmenes").
+entry(gerontico, adj, [], "relativo a la vejez").
+entrada(gerundio, n, [gerundios], "un sustantivo verbal").
+entry(gesneria, adj, [], "que designa un tipo de planta con flores").
+entrada(gesso, n, [gessos], "una mezcla de yeso").
+entry(gessado, adj, [], "teniendo gesso como revestimiento").
+entrada(gesta, n, [gestas], "una hazaña").
+entrada(gestalt, n, [gestalts], "o GESTALTEN un todo unificado").
+entrada(gestapo, n, [gestapos], "una organización de policía secreta").
+entry(gestar, v, [gestado, gestando, gesta], "llevar en el útero durante el embarazo").
+entrada(geste, n, [gestos], "gest").
+entrada(gestual, adj, [], "relacionado con el movimiento corporal").
+entrada(gestical, adj, [], "gestic").
+entry(gestual, adj, [], "relativo a o que consiste en gestos, movimientos corporales expresivos").
+entrada(gesto, v, [gesticuló,gesticulando,gestos], "expresar mediante movimiento corporal").
+entry(gesticulador, n, [gesticuladores], "uno que gesticula").
+entry(obtener, n, [gittin], "un divorcio según la ley judía").
+entrada(get, v, [obtuvo,obtenido,obteniendo], "OBTIENEpara obtener o adquirirOBTENABLE GETTABLE adj").
+entrada(geta, n, [getas], "un zueco japonés de madera").
+entrada(escapada, n, [escapadas], "una fuga").
+entrada(getout, n, [getouts], "una excusa para evitar hacer algo").
+entrada(getter, v, [gettered,gettering,getters], "purificar con una sustancia químicamente activa").
+entrada(getting, presente, [], "participio de get").
+entrada(levantarse, n, [levantarse], "un disfraz").
+entrada(geum, n, [geums], "una hierba perenne").
+entrada(chuche, n, [chuches], "un adorno vistosoCHUCHEADO adj").
+entrada(gey, adv, [], "muy").
+entrada(geyser, v, [geysered, geysering, geysers], "ejectar chorros de agua caliente y vapor").
+entrada(gharial, n, [ghariales], "un gran reptil").
+entrada(gharri, n, [gharris], "gharry").
+entry(gharry, n, [gharries], "un carruaje utilizado en la India").
+entrada(ghast, adj, [], "horrible").
+entrada(ghastful, adj, [], "atemorizante").
+entrada(espeluznante, adj, [], "ESPANTOSO ESPANTOSÍSIMOaterrador").
+entrada(ghat, n, [ghats], "un pasaje hacia un río").
+entry(ghaut, n, [ghauts], "ghat").
+entrada(ghazal, n, [ghazals], "un poema lírico amoroso").
+entrada(ghazi, n, [ghazis], "o GHAZIES un héroe de guerra musulmán").
+entrada(ghee, n, [ghees], "un tipo de mantequilla líquida").
+entrada(gherao, v, [gheraoed, gheraoing, gheraoes], "coaccionar por medios físicos").
+entrada(pepinillo, n, [pepinillos], "un pequeño pepino").
+entrada(ghetto, v, [ghettoed,ghettoing,ghettos], "o GHETTOES aislar en un barrio bajo").
+entrada(ghi, n, [ghis], "ghee").
+entrada(ghibli, n, [ghiblis], "un viento caliente del desierto").
+entry(ghillie, n, [ghillies], "un tipo de zapato").
+entry(fantasma, v, [fantasmado,fantasmeando,fantasmas], "atormentar").
+entrada(ghosting, n, [ghostings], "una imagen falsa en una pantalla de televisión").
+entry(ghostly, adj, [], "GHOSTLIER GHOSTLIESTespectral").
+entrada(ghosty, adj, [], "GHOSTIER GHOSTIESTghostly").
+entry(ghoul, n, [ghouls], "un demonioGHOULISH adj").
+entrada(ghoulie, n, [ghoulies], "un espectro").
+entrada(ghyll, n, [ghylls], "un barranco").
+entrada(gi, n, [gis], "una prenda blanca usada en artes marciales").
+entry(gigante, n, [gigantes], "una persona o cosa de gran tamaño").
+entrada(giganta, n, [gigantas], "una gigante femenina").
+entrada(gigantismo, n, [gigantismos], "la condición de ser un gigante").
+entry(giaour, n, [giaours], "un no musulmán").
+entry(giardia, n, [giardias], "un protozoo que habita en los intestinos").
+entrada(gib, v, [gibbed,gibbing,gibs], "asegurar con una cuña de madera o metal").
+entrada(gibber, v, [gibbered,gibbering,gibbers], "parlotear").
+entrada(gibbet, v, [gibbeted,gibbeting,gibbets], "o GIBBETTED GIBBETTING GIBBET para ejecutar por ahorcamiento").
+entrada(gibón, n, [gibones], "un simio arbóreo").
+entrada(giboso, adj, [], "gibbous").
+entrada(gibosa, adj, [], "irregularmente redondeada").
+entry(gibbsita, n, [gibbsitas], "un mineral").
+entrada(gibe, v, [gibed,gibing,gibes], "para burlarseGIBINGLY adv").
+entrada(giber, n, [gibers], "uno que burla").
+entrada(molleja, n, [mollejas], "una parte comestible de un ave").
+entrada(gibson, n, [gibsons], "un martini servido con una cebollita").
+entrada(gid, n, [gids], "una enfermedad de las ovejas").
+entry(giddap, interj, [], "usado como una orden para que un caballo vaya más rápido").
+entrada(giddy, adj, [], "MÁS MAREADO MÁS MAREADOmareadoMAREADAMENTE adv").
+entrada(marear, v, [mareado,mareando,marea], "hacer marear").
+entry(giddyap, interj, [], "arre").
+entrada(giddyup, interjección, [], "arre").
+entrada(gie, v, [gied,gien,gieing], "GIESto give").
+entry(gif, n, [gifs], "un archivo de computadora en un formato para imágenes").
+entrada(regalo, v, [regalado,regalando,regalos], "presentar con un regalo algo dado sin cargo").
+entrada(regalable, n, [regalables], "algo apropiado para un regalo").
+entrada(giftedly, adv, [], "de manera talentosa").
+entrada(destinatario, n, [destinatarios], "uno que recibe un regalo").
+entrada(obsequio, n, [obsequios], "el acto de presentar un regalo").
+entry(sin_regalo, adj, [], "estar sin un regalo").
+entrada(regalos, n, [regalos], "objetos adecuados para regalos").
+entrada(envoltorio_de_regalo, v, [envuelto_de_regalo, envolviendo_de_regalo, envuelven_de_regalo], "envolver con papel decorativo").
+entrada(gig, v, [gigged,gigging,gigs], "capturar peces con una lanza con púas").
+entrada(giga, n, [gighe], "una giga").
+entry(gigabit, n, [gigabits], "una unidad de información").
+entrada(gigabyte, n, [gigabytes], "1073741824 bytes").
+entrada(gigaflop, n, [gigaflops], "una medida de velocidad de cálculo").
+entrada(gigante, adj, [], "enorme").
+entrada(gigas, adj, [], "relativo a variaciones en el desarrollo de plantas").
+entry(gigaton, n, [gigatones], "una unidad de peso").
+entrada(gigavatio, n, [gigavatios], "una unidad de potencia").
+entrada(gigged, pasado, [], "tiempo de gig").
+entrada(gigging, presente, [], "participio de gig").
+entry(reírse, v, [rióse,riendo,risas], "reír de manera tonta").
+entrada(giggler, n, [gigglers], "uno que se ríe").
+entry(giggly, adj, [], "MÁS RISUEÑO MÁS RISUEÑO tendiente a reírse").
+entrada(gighe, pl, [], "de giga").
+entrada(giglet, n, [giglets], "una niña juguetona").
+entrada(giglot, n, [giglots], "gigleta").
+entrada(gigolo, n, [gigolos], "un hombre mantenido económicamente por una mujer").
+entrada(gigot, n, [gigots], "una pierna de cordero").
+entrada(jiga, n, [jigas], "una danza animada").
+entrada(gilbert, n, [gilberts], "una unidad de fuerza magnetomotriz").
+entrada(dorar, v, [doró, dorando, doran], "cubrir con una fina capa de oro").
+entrada(gilder, n, [gilders], "uno que dorado").
+entrada(gildhall, n, [gildhalls], "un ayuntamiento").
+entrada(dorado, n, [dorados], "la aplicación de dorado").
+entrada(gallera, v, [gallera, gallando, galleras], "atrapar peces con un tipo de red").
+entry(giller, n, [gillers], "uno que agalla").
+entry(gillie, n, [gillies], "ghillie").
+entrada(reddeenco(n), v, [reddeencos,emdeenrede,redesdeenco], "enco").
+entry(gilly, v, [gillied,gillying,gillies], "transportar en un tipo de carro").
+entry(gilt, n, [gilts], "el oro con el que algo está dorado").
+entry(dorada, n, [doradas], "un pez marino").
+entrada(gimbal, v, [gimbaled,gimbaling,gimbals], "o GIMBALLED GIMBALLING GIMBALSto soportar en un conjunto de anillos").
+entry(gimcrack, n, [gimcracks], "un chirimbolo").
+entry(gimel, n, [gimels], "una letra hebrea").
+entry(gimlet, v, [gimleted,gimleting,gimlets], "perforar con una herramienta de taladrado").
+entrada(gimmal, n, [gimmals], "un par de anillos entrelazados").
+entrada(gimme, n, [gimmes], "algo ganado fácilmente").
+entrada(gimmick, v, [gimmicked, gimmicking, gimmicks], "proveer con un gimmick una característica novedosa o engañosa").
+entrada(estrafalario, adj, [], "tener o ser como un truco").
+entry(gimmie, n, [gimmies], "un golpe fácil de golf concedido a un oponente").
+entry(gimp, v, [cojeó,cojeando,cojea], "cojear").
+entrada(gimpier, comparativo, [], "de gimpy").
+entrada(gimpiest, superlativo, [], "de gimpy").
+entrada(gimpy, adj, [], "GIMPIER GIMPIESTcojeando").
+entrada(gin, v, [gan,gunnen,ginning], "GINSempezar").
+entrada(gin, v, [desmotó, desmotando, desmota], "quitar las semillas del algodón").
+entrada(ginch, n, [ginches], "gotch").
+entrada(gingal, n, [gingals], "jingal").
+entrada(jingal, n, [jingales], "gingall").
+entrada(gingeley, n, [gingeleys], "gingelly").
+entrada(gingeli, n, [gingelis], "gingelly").
+entry(gingelies, pl, [], "de sésamo").
+entry(gingelli, n, [gingellis], "ajonjolí").
+entrada(ajonjolí, n, [ajonjolíes], "la semilla de sésamo o su aceite").
+entrada(ajonjolí, n, [ajonjolíes], "ajonjolí").
+entrada(jengibre, v, [jengibreado,jengibriendo,jengibres], "sazonar con jengibre una especia picante").
+entrada(cuidadosamente, adv, [], "de manera cuidadosa").
+entrada(gingery, adj, [], "con las características del jengibre").
+entrada(gingham, n, [ginghams], "un tejido de algodón").
+entrada(gingili, n, [gingilis], "gingelly").
+entrada(gingilli, n, [gingillis], "gingelly").
+entrada(encia, n, [encias], "el tejido carnoso que rodea los dientesENCIAL adj").
+entrada(ginkgo, n, [gingkos], "o GINKGOBILOBASginkgo").
+entrada(gink, n, [ginks], "un compañero").
+entry(ginkgo, n, [ginkgos], "o GINKGOSun árbol ornamental").
+entrada(ginned, pasado, [], "tiempo de gin").
+entrada(desmotadora, n, [desmotadoras], "persona que desmota algodón").
+entry(desmotado, n, [desmotados], "algodón tal como sale de una desmotadora").
+entrada(ginny, adj, [], "GINNIER GINNIESTafectado con ginebra un licor fuerte").
+entrada(ginseng, n, [ginsengs], "una hierba perenne").
+entrada(gip, v, [gipped, gipping, gips], "gipiar").
+entrada(gipon, n, [gipones], "jubón").
+entrada(gipper, n, [gippers], "uno que engana").
+entrada(gitano, v, [gitanó, gitanando, gitanos], "hacer de gitano").
+entrada(gitanería, n, [gitanerías], "gypsydom").
+entrada(gitano, adj, [], "gitano").
+entrada(gitanismo, n, [gitanismos], "gitanismo").
+entrada(jirafa, n, [jirafas], "un mamífero de cuello largo").
+entry(girasol, n, [girasoles], "una variedad de ópalo").
+entry(girasol, n, [girasoles], "girasol").
+entrada(cingar, v, [cingó,cingando,cinga], "rodear").
+entrada(viga, n, [vigas], "un soporte horizontal").
+entry(cinturón, v, [ceñido, ceñiendo, ciñe], "ceñir con un cinturón").
+entry(girdler, n, [girdlers], "uno que rodea").
+entrada(chica, n, [chicas], "una niña").
+entrada(niñez, n, [niñeces], "el estado de ser una niña").
+entrada(girlie, adj, [], "GIRLIER GIRLIESTgirlish").
+entry(femenino, adj, [], "de perteneciente o que tiene las características de una niña").
+entrada(girly, adj, [], "GIRLIER GIRLIESTgirlie").
+entrada(girn, v, [girned,girning,girns], "gruñir").
+entry(giro, n, [giros], "un autogiro").
+entry(girolle, n, [girolles], "un hongo comestible").
+entrada(giron, n, [girons], "gyron").
+entry(girasol, n, [girasoles], "girasol").
+entrada(girsh, n, [girshes], "qursh").
+entrada(girt, v, [girted,girting,girts], "ceñir").
+entrada(circunferencia, v, [circunferenciado, circunferenciando, circunferencias], "rodear").
+entrada(gisarme, n, [gisarmes], "un arma medieval").
+entrada(gismo, n, [gismos], "un artilugio").
+entrada(gist, n, [ideas principales], "el punto principal").
+entrada(git, v, [gitted,gitting,gits], "obtener").
+entrada(gitano, n, [gitanos], "un gitano español").
+entrada(gitch, n, [gitches], "gotch").
+entrada(gite, n, [gites], "un retiro vacacional en Francia").
+entrada(gitteado, pasado, [], "tiempo verbal de git").
+entrada(guitarra_medieval, n, [guitarras_medievales], "una guitarra medieval").
+entrada(gittin, pl, [], "de obtener").
+entrada(gitting, presente, [], "participio de git").
+entrada(dar, v, [dio,dado,dando], "DA a transferir libremente a la posesión de otroDABLE adj").
+entrada(sorteo, n, [sorteos], "algo regalado gratuitamente").
+entrada(devolución, n, [devoluciones], "un beneficio de los trabajadores devuelto a la dirección").
+entrada(dado, n, [dados], "algo asignado como base para un cálculo").
+entrada(dador, n, [dadores], "uno que da").
+entrada(dar, presente, [], "participio de give").
+entrada(gizmo, n, [gizmos], "gismo").
+entrada(molleja, n, [mollejas], "un órgano digestivo").
+entry(gjetost, n, [gjetosts], "un queso marrón duro").
+entrada(glabella, n, [glabellae], "el área lisa entre las cejas").
+entrada(glabrate, adj, [], "glabro").
+entrada(glabro, adj, [], "suave").
+entrada(glacear, v, [glaceó,glaceando,glacea], "cubrir con glaseado").
+entrada(glacial, adj, [], "de o relativo a los glaciares").
+entrada(glaciar, v, [glaciado,glaciando,glacia], "cubrir con glaciares").
+entrada(glaciar, n, [glaciares], "una enorme masa de hielo").
+entrada(glacis, n, [glacises], "una pendiente").
+entrada(contento, adj, [], "MÁS CONTENTO EL MÁS CONTENTO sintiendo placer").
+entry(glad, v, [gladded,gladding,glads], "alegrar").
+entrada(alegrar, v, [alegró,alegrando,alegra], "hacer alegre").
+entrada(gladder, comparativo, [], "de glad").
+entrada(gladdest, superlativo, [], "de glad").
+entrada(gladding, presente, [], "participio de glad").
+entrada(claro, n, [claros], "un espacio abierto en un bosque").
+entry(gladiate, adj, [], "con forma de espada").
+entrada(gladier, comparativo, [], "de glady").
+entrada(gladiest, superlativo, [], "de glady").
+entrada(gladiolo, s, [gladiolos], "una planta con flores").
+entrada(gladiolos, npl, [], "segmentos del esternón").
+entry(gustosame, adv, [], "MÁS GUSTOSAMENTE EL MÁS GUSTOSAMENTE de una manera contenta").
+entry(alegría, n, [alegrías], "el estado de estar alegre").

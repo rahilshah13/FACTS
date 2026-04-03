@@ -131,3 +131,27 @@ entry(abought, da, [], "tambarin aby da abye").
 entry(aboulia, n, [abular], "abuliaABOULIC adj").
 entry(yawaita, v, [ya yawaita, yana yawaita, suna yawaita], "samun adadi ko yawa mai girma").
 entry(Game da, adv, [], "kimanin").
+entry(fii, n, [fiye], "wani abu da ke sama a wuri mafi girma").
+entry(abrachia, n, [abrachias], "rashin makamai").
+entry(abradant, n, [abradants], "wani abin gogewa").
+entry(nika, v, [nika,rika,nika], "zaman karcewa ta hanyar gogewa").
+entry(abrader, n, [abraders], "wani kayan aiki na gogewa").
+entry(gyara, n, [gyarawa], "aikin gyaran").
+entry(abrasive, n, [abrasives], "wani abu da ke gogewa").
+entry(yi_amarra, v, [yi_amarrawa, yana_yi_amarra, suna_yi_amarra], "sakin damuwa da aka danne ta hanyar sake rayuwa da jin lokacin mummunan abin da ya faru").
+entry(abreast, adv, [], "kusa da juna").
+entry(abri, n, [mafakar bam], "mafakar bam").
+entry(taƙaita, v, [taƙaice,taƙaitawa,taƙaicewa], "rage tsawon").
+entry(mai taƙaita, n, [mai taƙaita], "wanda ke taƙaita").
+entry(abroach, adj, [], "aiki").
+entry(waje, adv, [], "waje daga kasarsa").
+entry(soke, v, [soke,sokewa,soke], "don rusa ta hanyar ikon gudanarwa").
+entry(abrosia, n, [abrosias], "azumi daga abinci").
+entry(abrupt, adj, [], "ABRUPTER ABRUPTESTabrarsa taƙaiceABRUPTLY adv").
+entry(girinji, v, [girinjiya,girinjiwa,girinjaye], "samun girinji tarin iyo mai cike da iji a kusa da nama da ya kumbura").
+entry(yanke, v, [yanke,yanƙewa,yanƙe], "yanke").
+entry(abscisin, n, [abscisins], "wani sinadari mai tsari da ake samu a cikin tsirrai").
+shigar(abscissa, n, [abscissas], "ko ABSCISSAE wata kwayar tsari ta musamman").
+entry(gudu, v, [ya_gudu,gudun,ya_guda], "tserewa ba tare da an lura ba").
+entry(abseil, v, [abseiled,abseiling,abseils], "yin sauka da igiya").
+entry(abseiler, n, [], "ABSEILERsaurayi wanda ke abseils").

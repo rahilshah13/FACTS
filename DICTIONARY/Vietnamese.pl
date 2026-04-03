@@ -254,3 +254,109 @@ entry(accurst, adj, [], "đáng nguyền rủa").
 entry(buộc tội, n, [buộc tội], "hành động buộc tội").
 entry(kẻ_buộc_tội, n, [những_kẻ_buộc_tội], "một kẻ buộc tội").
 entry(cáo buộc, v, [đã cáo buộc, đang cáo buộc, cáo buộc], "đưa ra một lời khẳng định chống lại").
+entry(kẻ_buộc_tội, n, [những_kẻ_buộc_tội], "một người buộc tội").
+entry(accustom, v, [accustomed,accustoming,accustoms], "làm quen").
+entry(ace, v, [aced,acing,aces], "ghi điểm trong một cú đánh duy nhất").
+entry(acedia, n, [acedias], "thờ ơ").
+entry(aceldama, n, [aceldamas], "một nơi đổ máu").
+entry(acentric, adj, [], "không có trung tâm").
+entry(acequia, n, [acequias], "một mương tưới tiêu hoặc kênh đào").
+entry(acerate, adj, [], "hình kim").
+entry(acerated, adj, [], "hình nhọn").
+entry(acerb, adj, [], "ACERBER ACERBESTchua").
+entry(chua, v, [chua_đã, chua_đang, chua_sẽ], "làmtang độ chua").
+entry(acerbic, adj, [], "chua chát").
+entry(acerbity, n, [acerbities], "vị chua").
+entry(acerola, n, [acerolas], "một loại cây bụi Tây Ấn").
+entry(acerose, adj, [], "hình kim").
+entry(acerous, adj, [], "hình kim").
+entry(acervate, adj, [], "mọc thành cụm đặc").
+entry(acervuli, npl, [], "cơ quan sinh bào tử của một số loại nấm").
+entry(acescent, n, [acescents], "một cái gì đó hơi chua").
+entry(aceta, pl, [], "của acetum").
+entry(acetal, n, [acetals], "một chất lỏng dễ cháy").
+entry(acetamid, n, [acetamids], "một amide của axit axetic").
+entry(acetate, n, [acetates], "một muối của acid aceticACETATED adj").
+entry(acetic, adj, [], "liên quan đến giấm").
+entry(acetify, v, [acetified,acetifying,acetifies], "chuyển đổi thành giấm").
+entry(acetin, n, [acetins], "một hợp chất hóa học").
+entry(acetone, n, [acetones], "một chất lỏng dễ cháyACETONIC adj").
+entry(acetose, adj, [], "giấm").
+entry(acetous, adj, [], "có vị giống giấm").
+entry(acetoxyl, n, [acetoxyls], "gốc hóa trị một").
+entry(acetum, n, [aceta], "giấm").
+entry(acetyl, n, [acetyls], "một gốc hoá trị đơn ACETYLIC adj").
+entry(ache, v, [ached, aching, aches], "chịu đựng cơn đau âm ỉ liên tục").
+entry(achene, n, [achenes], "một loại quả ACHENIAL adj").
+entry(achier, so sánh hơn, [], "của đau nhức").
+entry(achiest, so sánh nhất, [], "của achy").
+entry(achieve, v, [achieved,achieving,achieves], "hoàn thành thành công").
+entry(achiever, n, [những người đạt được], "một người đạt được").
+entry(achillea, n, [achilleas], "cây cúc vạn diệp").
+entry(achiness, n, [achinesses], "trạng thái bị đau nhức").
+entry(aching, present, [], "phân từ của ache").
+entry(nhức nhối, adv, [], "một cách đau nhức").
+entry(achiote, n, [achiotes], "một loại thuốc nhuộm màu đỏ vàng").
+entry(achiral, adj, [], "thuộc về một phân tử đối xứng").
+entry(acholia, n, [acholias], "thiếu mật").
+entry(achoo, interj, [], "hắt xì").
+entry(achromat, n, [achromats], "một loại thấu kính").
+entry(achromic, adj, [], "không có màu").
+entry(achy, adj, [], "ACHIER ACHIESTaching").
+entry(acicula, n, [aciculas], "hoặc ACICULAE một phần hoặc quá trình giống cây kim ACICULAR adj").
+entry(aciculum, n, [aciculums], "hoặc ACICULA, một phần giống như lông").
+entry(acid, n, [axít], "một loại hợp chất hóa học").
+muc_tin(acidemia, n, [acidemia], "một tình trạng tăng độ axit của máu").
+entry(acidhead, n, [acidheads], "người sử dụng LSD").
+entry(chua, adj, [], "sour").
+entry(làm_acid, v, [đã_làm_acid, đang_làm_acid, làm_acid], "chuyển thành acid").
+entry(độ_chua, n, [độ_chua], "vị chua").
+entry(acidly, adv, [], "chua ngoa").
+mục(acidness, n, [acidnesses], "độ chua").
+entry(toan huyết, n, [toan huyết], "một tình trạng bất thường của máuACIDOTIC tính từ").
+entry(aciduria, n, [acidurias], "một tình trạng có lượng axit quá mức trong nước tiểu").
+entry(acidy, adj, [], "chua").
+entry(acierate, v, [acierated,acierating,acierates], "biến thành thép").
+entry(aciform, adj, [], "hình kim").
+entry(acing, present, [], "phân từ của ace").
+entry(acinus, n, [acini], "một đoạn nhỏ giống túi của một tuyến ACINAR ACINIC ACINOSE ACINOUS adj").
+entry(ackee, n, [ackees], "aki").
+entry(aclinic, adj, [], "không có độ nghiêng").
+entry(acme, n, [acmes], "điểm cao nhất ACMATIC ACMIC adj").
+entry(mụn trứng cá, n, [mụn trứng cá], "một bệnh về daACNED adj").
+entry(acnode, n, [acnodes], "một phần tử của một tập hợp toán học bị cô lập khỏi các phần tử khác").
+entry(acock, adj, [], "đã lên cò").
+entry(acoelous, adj, [], "không có khoang cơ thể thực sự").
+entry(acold, adj, [], "lạnh").
+entry(thầy tu tập sự, n, [thầy tu tập sự], "một trợ lý").
+entry(phụ tử, n, [các phụ tử], "một loại thảo dược độc TỬ PHỤ adj").
+entry(aconitum, n, [aconitums], "cây phụ tử").
+entry(acorn, n, [những quả sồi], "quả của cây sồiACORNED adj").
+entry(acoustic, n, [acoustics], "một thiết bị trợ thính").
+entry(làm_quen, v, [đã_làm_quen, đang_làm_quen, làm_quen], "làm cho biết").
+entry(acquest, n, [các_acquests], "thứ gì đó được giành được").
+entry(thu_nhan, v, [da_thu_nhan,dang_thu_nhan,thu_nhan], "để sở hữu").
+mục(tiếp_nhận, n, [tiếp_nhận], "một cái được tiếp nhận").
+entry(acquirer, n, [người_mua_lại], "một người mua lại").
+entry(tuyên_bố_vô_tội, v, [đã_tuyên_bố_vô_tội,đang_tuyên_bố_vô_tội,tuyên_bố_vô_tội], "giải phóng hoặc gỡ tội lỗi hoặc tội phạm").
+entry(acrasia, n, [acrasias], "thiếu tự chủACRATIC adj").
+entry(acrasin, n, [acrasins], "một chất được tiết ra bởi các tế bào của nấm nhầy").
+entry(acre, n, [acres], "một đơn vị diện tích").
+entry(dien_tich, n, [dien_tichs], "dien tich theo mau").
+entry(acred, adj, [], "sở hữu nhiều mẫu Anh").
+entry(acrid, adj, [], "ACHÁTPHẤTNHẤTMùi hăng và khó chịu đối với vị giác hoặc khứu giác").
+entry(acridine, n, [acridines], "một hợp chất hóa học").
+entry(độ_gắt, n, [độ_gắt], "trạng thái của việc gắt").
+entry(acridly, adv, [], "một cách hăng hắc").
+entry(ác cảm, n, [những ác cảm], "sự gay gắt hoặc cay đắng trong lời nói hoặc tính khí").
+entry(acro, n, [acros], "một sự kiện trượt tuyết trong đó một người trượt tuyết thực hiện các động tác nhào lộn theo nhạc").
+entry(nghệ_sĩ_xiếc, n, [các_nghệ_sĩ_xiếc], "người có kỹ năng trong việc thực hiện các động tác đòi hỏi sự nhanh nhẹn và cân bằng").
+entry(acrodont, n, [acrodonts], "một con vật có răng không có chân răng").
+entry(acrogen, n, [acrogens], "một loại cây chỉ phát triển ở đỉnh").
+entry(acrolect, n, [acrolects], "một dạng ngôn ngữ cao").
+entry(acrolein, n, [acroleins], "một chất lỏng dễ cháy").
+entry(acrolith, n, [acroliths], "một loại tượng").
+entry(acromion, n, [acromia], "phần cuối bên ngoài của xương bả vaiACROMIAL adj").
+entry(acronic, adj, [], "xảy ra lúc hoàng hôn").
+entry(từ_viết_tắt, n, [từ_viết_tắt], "một từ được hình thành từ các chữ cái đầu của một thuật ngữ ghép hoặc một chuỗi các từ").
+entry(acrosome, n, [acrosomes], "một túi mỏng ở đầu của tinh trùng").

@@ -28794,3 +28794,12 @@ entry(trebly, avv, [], "triplicemente").
 entry(trecento, n, [trecento], "il quattordicesimo secolo").
 entry(treddle, v, [treddled,treddling,treddles], "pedalare").
 entry(albero, v, [alberato,alberando,alberi], "spingere su un albero una pianta legnosa alta").
+entry(spiazzalbero, n, [spiazzalberi], "la striscia di prato tra la strada e il marciapiede").
+entry(privo_di_alberi, agg, [], "senza alberi").
+entry(alberiforme, agg, [], "che assomiglia a un albero").
+entry(limite_della_vegetazione_alberata, n, [limiti_della_vegetazione_alberata], "il limite a nord del quale gli alberi non crescono").
+entry(albero, n, [alberi], "un articolo fatto di legno").
+entry(caviglia, n, [caviglie], "un piolo di legno usato per fissare i legni").
+entry(cimadellalbero, n, [cimedegli alberi], "la cima di un albero").
+entry(tref, agg, [], "non idoneo all'uso secondo la legge ebraica").
+entry(trefah, agg, [], "tref").

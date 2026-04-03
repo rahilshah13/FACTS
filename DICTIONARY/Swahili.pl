@@ -164,3 +164,18 @@ entry(absinthi, n, [absinthi], "absinthe").
 entry(absinthe, n, [absinthi], "kikorokoro chenye ladha kali").
 ingia(absoluti, kivumishi, [], "HURU KABISA KUTOKA KWA KIKWAZO").
 kiingilio(kamili, n, [kamili], "kitu ambacho ni kamili").
+entry(samehe, v, [samehewa,sameheana,sameheme], "kuachilia kutoka kwa madhara ya kitendo").
+entry(msamehe, n, [wasamehe], "mmoja anayesamehe").
+entry(absonant, kiv, [], "isiyo na mantiki").
+entry(absorb, v, [iliyeyushwa,ikiyeyusha,inayeyusha], "kuchukua au kupokea").
+entry(absorber, n, [waingizaji], "yule ambaye anaingiza").
+entry(jizuie, v, [alijizuia, akijizuia, hujizuia], "kukataa kwa hiari").
+entry(absterge, v, [absterged,absterging,absterges], "kuondoa kwa kufuta").
+entry(abstract, adj, [], "ABSTRACTER ABSTRACTESTgumu kuelewa").
+entry(kutoweka, v, [imeondolewa,inaondoa,huondoa], "kuondoa").
+entry(abstrict, v, [abstricted,abstricting,abstricts], "kuunda kwa kukata").
+entry(abstruse, adj, [], "GUMU KUFAHAMU").
+entry(absurd, adj, [], "ABSURDER ABSURDESTpumbavu au kutopendeza bila sababuABSURDLY adv").
+entry(upuuzi, n, [upuuzis], "hali ambayo mwanadamu yupo katika ulimwengu usio na mantiki na maana").
+entry(abubble, kiv, [], "inayochemka").
+entry(abulia, n, [abulia], "kupoteza nguvu ya niaABULIC kiv").
