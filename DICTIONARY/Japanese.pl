@@ -133,3 +133,15 @@ entry(中絶, n, [中絶], "非生存の胎児の誘発された排出").
 エントリー(about, adv, [], "およそ").
 アントリー(above, n, [aboves], "より高い場所にあるもの").
 エントリー(アブラキア, 名詞, [アブラキアズ], "腕の欠如").
+エントリー(abradant, 名詞, [abradants], "研磨剤").
+摩耗(entry, 動詞, [摩耗した,摩耗中,摩耗する], "摩擦によって擦り減る").
+entry(abrader, n, [abraders], "擦削用具").
+摩耗エントリ(摩耗, n, [摩耗s], "摩耗する行為").
+エントリー(研磨剤, 名, [研磨剤], "研磨する物質").
+エントリー(abreact, v, [abreacted, abreacting, abreacts], "元のトラウマ体験を再体験することによって抑圧された感情を解放すること")。
+エントリ(アブレスト, 副詞, [], "並んで").
+entry(abri, n, [abris], "防空壕").
+Prolog: entry(abridge, v, [abridged,abridging,abridges], "短縮する").
+entry(abridger, n, [abridgers], "要約する人").
+エントリー(アブローチ, 形容詞, [], "アスター").
+エントリー(海外, 副詞, [], "自分の国の外").

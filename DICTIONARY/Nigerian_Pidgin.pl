@@ -1408,3 +1408,18 @@ entry(amygdule, n, [amygdules], "na small gas bubble wey dey inside lava").
 entry(amyl, n, [amyls], "one ting wey carry one power").
 entry(amylase, n, [amylases], "na enzyme").
 entry(amylene, n, [amylenes], "one flammable liquid").
+entry(amyloid, n, [amyloids], "hard protein wey dey form wen tissue don spoil").
+entry(amylose, n, [amyloses], "di component of starch wey dey more fit to solve small").
+entry(amylum, n, [amylums], "starch na solid carbohydrate").
+entry(an, indefinite, [], "article wey dem dey use before words wey dey start with vowel sound").
+entry(ana, n, [anas], "na di collection of jaga-jaga information about one particular matter").
+entry(anabaena, n, [anabaenas], "one freshwater alga").
+entry(anabas, n, [anabases], "one fish wey dey live for fresh water").
+entry(anabasis, n, [anabases], "na military waka forward").
+entry(anabatic, adj, [], "wey concern rising wind currents").
+entry(anableps, n, [anablepses], "one kind freshwater fish").
+entry(anabolic, adj, [], "e get to do with process wey food go turn to protoplasm").
+entry(anaconda, n, [anacondas], "big snake").
+entry(anadem, n, [anadems], "crown for head").
+entry(anemia, n, [anemias], "anemiaANEMIC adj").
+entry(anaerobe, n, [anaerobes], "organism wey no need oxygen to survive").

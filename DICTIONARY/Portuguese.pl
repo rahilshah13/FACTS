@@ -8660,3 +8660,3548 @@ entrada(deterring, presente, [], "particípio de dissuadir").
 entrada(detest, v, [detested, detesting, detests], "desgostar intensamente").
 entrada(detester, n, [detesters], "alguém que detesta").
 entrada(dethatch, v, [dethatched, dethatching, dethatches], "remover a camada de colmo de").
+entrada(destronar, v, [destronou,destronando,destrona], "remover de um trono").
+entrada(detick, v, [deticked,deticking,deticks], "remover carrapatos de").
+entrada(deticker, n, [detickers], "aquele que remove carrapatos").
+entrada(detinção, n, [detinções], "uma ação para recuperar propriedade indevidamente detida").
+entrada(detonate, v, [detonated, detonating, detonates], "causar a explosão").
+entrada(desvio, v, [desviou,desviando,desvios], "seguir um caminho indireto").
+entrada(desintoxicar, v, [desintoxicado,desintoxicando,desintoxica], "desintoxicar").
+entrada(desintoxicar, v, [desintoxicado, desintoxicando, desintoxica], "remover uma toxina de").
+entrada(detract, v, [detracted,detracting,detracts], "remover").
+entrada(desembarcar, v, [desembarcou, desembarcando, desembarca], "descer de um trem").
+entrada(detritos, n, [detritos], "partículas de rochaDETÍTICO adj").
+entrada(detrude, v, [detruded,detruding,detrudes], "impelir para fora").
+entrada(desafinar, v, [desafinou,desafinando,desafina], "ajustar um instrumento para que ele não esteja mais afinado").
+entrada(deuce, v, [deuced, deucing, deuces], "empatar o placar no tênis").
+entrada(endemoniadamente, adv, [], "extremamente").
+entrada(deuteric, adj, [], "relativo ao hidrogênio pesado").
+entrada(deuteron, n, [deuterons], "uma partícula atômica").
+entrada(deutzia, n, [deutzias], "um arbusto ornamental").
+entrada(dev, n, [devs], "deva").
+entrada(deva, n, [devas], "um deus hindu").
+entry(desvalorizar, v, [desvalorizou,desvalorizando,desvaloriza], "diminuir o valor de").
+entrada(devein, v, [desvenado,desvenando,desvena], "remover a veia dorsal de").
+entrada(devel, v, [develed,develing,devels], "golpear com força").
+entrada(desenvolver, v, [desenvolveu, desenvolvendo, desenvolve], "levar a um estado mais avançado ou eficaz").
+entrada(develope, v, [developed, developing, developes], "desenvolver").
+entrada(deverbal, n, [deverbos], "uma palavra derivada de um verbo").
+entrada(devest, v, [devested, devesting, devests], "desinvestir").
+entrada(devi, n, [devis], "uma deusa hindu").
+entry(desvio, n, [desvios], "o comportamento de um desviante").
+entry(desvio, n, [desvios], "desvio").
+entrada(desviante, n, [desviantes], "aquele que se desvia de uma norma").
+entry(desviar, v, [desviou,desviando,desvia], "afastar-se de um curso ou norma").
+entry(desviador, n, [desviadores], "aquele que se desvia").
+entrada(dispositivo, n, [dispositivos], "algo idealizado ou construído para um propósito específico").
+entrada(demonio, v, [demonizado,demonizando,demonios], "ou DEMONIZADO DEMONIZANDO DEMONIOs para preparar comida com tempero picante").
+entrada(diabólico, adj, [], "cruel").
+entrada(diabinho, n, [diabinhos], "um pequeno demônio").
+entrada(diableria, n, [diablerias], "diablotinagem").
+entrada(diabrura, n, [diabruras], "travessura").
+entrada(pérfido, adj, [], "indireto").
+entrada(devisal, n, [devisals], "o ato de idealizar").
+entrada(idear, v, [ideou, idealizando, idea], "formar na mente").
+entrada(legatário, n, [legatários], "aquele a quem se faz um testamento").
+entrada(idealizador, n, [idealizadores], "aquele que idealiza").
+entrada(devisor, n, [devisores], "aquele que faz um testamento").
+entrada(devoice, v, [devoiced,devoicing,devoices], "desvozeamento").
+entrada(desprovido, adj, [], "completamente ausente").
+entry(devoir, n, [deveres], "um ato de civilidade ou respeito").
+entry(devolver, v, [devolveu,devolvendo,devolve], "transferir de uma pessoa para outra").
+entrada(devon, n, [devons], "uma raça de gado pequeno e resistente").
+entrada(devote, v, [devoted,devoting,devotes], "dedicar-se inteiramente a").
+entry(devoto, n, [devotos], "um seguidor ou apoiador fervoroso").
+entrada(devoção, n, [devoções], "o ato de dedicar").
+entry(devorar, v, [devorou,devorando,devora], "comer vorazmente").
+entrada(devorador, n, [devoradores], "aquele que devora").
+entrada(devout, adj, [], "DEVOUTER DEVOUTESTpiousDEVOUTLY adv").
+entry(orvalho, v, [orvalhou,orvalhando,orvalha], "molhar com orvalho umedecido pela condensação").
+entry(dewan, n, [dewans], "um oficial na Índia").
+entrada(dewar, n, [dewars], "um frasco de parede dupla").
+entrada(dessalinizar, v, [dessalinizou,dessalinizando,dessaliniza], "remover água de").
+entrada(dewax, v, [dewaxed, dewaxing, dewaxes], "remover cera de").
+entrada(amora-silvestre, n, [amoras-silvestres], "uma baga comestível").
+entrada(dewclaw, n, [dewclaws], "um dedo vestigial").
+entrada(orvalho, n, [gotas_de_orvalho], "uma gota de orvalho").
+entrada(orvalho, n, [orvalhos], "a formação de orvalho").
+entrada(dewier, comparativo, [], "de orvalhado").
+entrada(dewiest, superlativo, [], "de dewy").
+entrada(dewily, adv, [], "de maneira orvalhada").
+entrada('orvalhado', n, ['orvalhados'], "o estado de estar orvalhado").
+entrada(barbela, n, [barbelas], "uma dobra de pele solta sob o pescoço").
+entrada(sem_orvalho, adj, [], "sem orvalho").
+entrada(dewool, v, [dewooled, dewooling, dewools], "remover a lã de").
+entry(verminar, v, [verminado,verminando,vermina], "livrar de vermes").
+entrada(antiparasitário, n, [antiparasitários], "um que desparasita").
+entrada(dewy, adj, [], "DEWIER DEWIESTúmido com orvalho").
+entrada(dex, n, [dexes], "um sulfato usado como estimulante do sistema nervoso central").
+entrada(dexie, n, [dexies], "um comprimido de dex").
+entrada(dexies, pl, [], "de dexy").
+entry(dexter, n, [dexters], "um animal de uma raça de gado irlandês").
+entrada(destro, n, [destros], "uma pessoa destra").
+entrada(dextrano, n, [dextranos], "uma substância usada como substituto do plasma sanguíneo").
+entry(dextrina, n, [dextrinas], "uma substância usada como adesivo").
+entrada(dextrina, n, [dextrinas], "dextrina").
+entry(dextro, adj, [], "virando para a direita").
+entrada(dextrose, n, [dextroses], "uma forma de glicose").
+entrada(dextro, adj, [], "hábil").
+entrada(dexy, n, [dexies], "dexie").
+entrada(dey, n, [deys], "um antigo governante norte-africano").
+entrada(dezinc, v, [dezincked,dezincking,dezincs], "ou DEZINCED DEZINCING DEZINCSto remover o zinco de").
+entrada(dhak, n, [dhaks], "uma árvore asiática").
+entrada(dhal, n, [dhals], "dal").
+entry(dhansak, n, [dhansaks], "uma caçarola de carnes e vegetais").
+entrada(dharma, n, [dharmas], "conformidade com a lei hinduDHARMIC adj").
+entrada(dharna, n, [dharnas], "uma forma de protesto na Índia").
+entrada(dhikr, n, [dhikrs], "uma cerimônia religiosa Sufi").
+entrada(dhobi, n, [dhobis], "uma pessoa que lava roupas na Índia").
+entrada(dholak, n, [dholaks], "um tambor de duas cabeças").
+entrada(dhole, n, [dholes], "um cão selvagem da Índia").
+entrada(dhooly, n, [dhoolies], "doolee").
+entrada(dhoora, n, [dhooras], "durra").
+entrada(dhooti, n, [dhootis], "dhoti").
+entry(dhootie, n, [dhooties], "doti").
+entrada(dhoti, n, [dhotis], "um pano usado como vestimenta por homens hindus").
+entrada(dhourra, n, [dhourras], "durra").
+entrada(dhow, n, [dhows], "uma embarcação árabe à vela").
+entry(dhurna, n, [dhurnas], "dharna").
+entry(dhurra, n, [dhurras], "diuro").
+entrada(dhurrie, n, [dhurries], "um tapete de algodão feito na Índia").
+entrada(dhuti, n, [dhutis], "dhoti").
+entrada(dhyana, n, [dhyanas], "meditação profunda no hinduísmo").
+entrada(diabase, n, [diabases], "uma rocha ígneaDIABÁSICO adj").
+entrada(diabetes, n, [diabetes], "uma desordem metabólica").
+entrada(diabetico, n, [diabeticos], "aquele que tem diabetes").
+entry(diablery, n, [diableries], "feitiçaria").
+entry(diabolic, adj, [], "diabólico").
+entrada(diabolo, n, [diabolos], "um jogo que exige destreza manual").
+entrada(diacetil, n, [diacetis], "biacetil").
+entrada(diacid, n, [diacids], "um tipo de ácidoDIACÍDICO adj").
+entrada(diaconal, adj, [], "relativo a um diácono").
+entrada(diadem, v, [diademado, diademando, diadems], "adornar com uma coroa").
+entrada(diagnosticar, v, [diagnosticado, diagnosticando, diagnostica], "reconhecer uma doença por seus sinais e sintomas").
+entrada(diagonal, n, [diagonais], "uma linha oblíqua").
+entrada(diagrama, v, [diagramado, diagramando, diagramas], "ou DIAGRAMADO DIAGRAMANDO DIAGRAMAS para ilustrar por meio de um diagrama um projeto gráfico").
+entrada(diagramador, n, [diagramadores], "um dispositivo de desenho").
+```prolog
+entrada(dial, v, [discado, discando, disca], "ou DISCADO DISCANDO DISCSto manipular um disco calibrado").
+```
+entrada(dialeto, n, [dialetos], "uma variedade regional de uma língua").
+entry(discador, n, [discadores], "aquele que disca").
+entrada(marcacao, n, [marcacoes], "a medição do tempo por relógios de sol").
+entrada(dialista, n, [dialistas], "um discador").
+entry(diallage, n, [diallages], "um mineral").
+entrada(marcado, a, [], "pretérito de discar").
+entrada(diallel, adj, [], "relativo a um cruzamento genético").
+entrada(discador, n, [discadors], "discador").
+entrada(chamando, n, [chamadas], "chamando").
+entrada(lista_discagem, n, [listas_discagem], "dialista").
+entrada(dialogo, v, [dialogou, dialogando, dialogos], "dialogar").
+entrada(dialogador, n, [dialogadores], "aquele que dialoga").
+entrada(dialogic, adj, [], "conversacional").
+entrada(diálogo, v, [dialogado, dialogando, diálogos], "manter uma conversa").
+entrada(dialisar, v, [dialisado, dialisando, dialisas], "dialisar").
+entrada(dialisador, n, [dialisadores], "dialisador").
+entrada(dialisia, n, [dialises], "a separação de substâncias em uma solução por difusão através de uma membrana").
+entrada(dialítico, adj, [], "relativo à diálise").
+entry(dialyze, v, [dialisado,dialisando,dialisa], "submeter à diálise").
+entrada(dialyzer, n, [dializadores], "um aparelho utilizado para diálise").
+entry(diamante, n, [diamantes], "uma decoração brilhante").
+entrada(diametro, n, [diametros], "uma linha reta que passa pelo centro de um círculo e termina na periferia").
+entrada(diamina, n, [diamines], "um composto químico").
+entrada(diamante, v, [diamantou, diamantando, diamantes], "adornar com diamantes pedras preciosas").
+entry(dianthus, n, [dianthuses], "uma erva ornamental").
+entry(diapason, n, [diapasons], "uma explosão de som harmonioso").
+entry(diapause, v, [diapausado, diapausando, diapausa], "entrar em dormência").
+entrada(fralda, v, [fraldado, fraldando, fraldas], "colocar uma fralda no traseiro de um bebê").
+entrada(diaphone, n, [diaphones], "uma sirene de nevoeiro de som grave").
+entrada(diáfono, n, [diáfonos], "organum").
+entrada(diapir, n, [diapiros], "uma dobra em uma camada de rochaDIAPÍRICO adj").
+entry(diapsid, n, [diapsídeos], "um réptil com dois pares de aberturas temporais no crânio").
+entrada(diarchy, n, [diarchies], "um governo com dois governantesDIÁRQUICO adjDIÁRQUICO adj").
+entrada(diários, pl, [], "de diário").
+entrada(diarista, n, [diaristas], "aquele que mantém um diário").
+entrada(diarréia, n, [diarréias], "um distúrbio intestinal").
+entry(diário, n, [diários], "um diário pessoal").
+entrada(diaspora, n, [diasporas], "migração").
+entry(diaspore, n, [diasporas], "um mineral").
+entry(diastase, n, [diastases], "uma enzima").
+entry(diastema, n, [diastemas], "uma interrupção na deposição de sedimentos").
+entrada(diastema, n, [diastemas], "ou DIASTEMATA um espaço entre os dentes").
+entrada(diaster, n, [diasters], "uma fase na mitoseDIASTRAL adj").
+entrada(diastole, n, [diastoles], "a dilatação rítmica normal do coração").
+entrada(diatomácea, n, [diatomáceas], "qualquer classe de algas").
+entrada(diatômico, adj, [], "composto de dois átomos").
+entrada(diatonic, adj, [], "relativo a um tipo de escala musical").
+entrada(diatrema, n, [diatremas], "um respiradouro vulcânico produzido por explosões gasosas").
+entrada(diatribe, n, [diatribes], "uma crítica amarga e abusiva").
+entrada(diatron, n, [diatrons], "um design de circuitos que utiliza diodos").
+entrada(diazepam, n, [diazepams], "um tranquilizante").
+entrada(diazin, n, [diazins], "diazine").
+entrada(diazina, n, [diazinas], "um composto químico").
+entrada(diazinon, n, [diazinons], "um inseticida").
+entry(diazo, n, [diazos], "um tipo de processo de coloração ou cópia").
+entrada(diazole, n, [diazóis], "um composto químico").
+entrada(dib, v, [dibbed,dibbing,dibs], "pescar deixando a isca balançar levemente na água").
+entry(dibasic, adj, [], "tendo dois átomos de hidrogênio substituíveis").
+entrada(dibber, n, [dibbers], "um implemento de plantio").
+entrada(dibble, v, [dibbled, dibbling, dibbles], "fazer dib").
+entrada(dibbler, n, [dibblers], "aquele que planta").
+entrada(dibbuk, n, [dibbuks], "ou DIBBUKIMdybbuk").
+entrada(dicamba, n, [dicambas], "um herbicida").
+entry(dicast, n, [dicasts], "um juiz da antiga AtenasDICASTIC adj").
+entrada(dado, v, [cortado_em_cubos,cortando_em_cubos,corta_em_cubos], "cortar em cubos pequenos").
+entrada(dicentra, n, [dicentras], "uma erva perene").
+entrada(fatiador, n, [fatiadores], "um dispositivo que corta alimentos").
+entry(arriscado, adj, [], "ARRISCADO MAIS_ARRISCADO MAIS_PERIGOSO").
+entrada(dicásios, npl, [], "aglomerados de flores").
+entrada(dicotômico, adj, [], "afetando os dois ouvidos de maneira diferente").
+entrada(dicrótico, adj, [], "que tem duas cores").
+entrada(dicier, comparativo, [], "de arriscado").
+entrada(diciest, superlativo, [], "de arriscado").
+entrada(dicing, presente, [], "particípio de dice").
+entry(dick, n, [dicks], "um detetive").
+entrada(dickens, n, [dickenses], "diabo").
+entrada(dicker, v, [dickered,dickering,dickers], "negociar").
+entrada(dickerer, n, [dickerers], "um que barganha").
+entrada(dickey, n, [dickeys], "uma parte frontal de blusa").
+entrada(dickie, n, [dickies], "dickey").
+entry(dicky, adj, [], "MAIS DICKIE MAIS DICKIEpobre em condição").
+entrada(dicky, n, [dickies], "dickey").
+entrada(dicliny, n, [diclinies], "o estado de ter estames e pistilos em flores separadas").
+entrada(dicot, n, [dicots], "uma planta com duas folhas de semente").
+entrada(dicotelêdonea, n, [dicotelêdoneas], "dicot").
+entrada(dicrotal, adj, [], "dicrótico").
+entrada(dicrótico, adj, [], "tendo um batimento de pulso duplo").
+entry(dicta, a, [], "pl de dictum").
+entrada(dicte, v, [dictou,dictando,dicta], "ler em voz alta para gravação").
+entrada(dictador, n, [dictadores], "aquele que dita").
+entrada(dicção, n, [dicções], "escolha e uso de palavras na fala ou escrita").
+entrada(dictum, n, [dictums], "ou DICTUma declaração autoritária").
+entrada(dicty, adj, [], "DICTIER DICTIESTsnobbish").
+entrada(dicíclico, adj, [], "tendo dois máximos de população a cada ano").
+entry(dicycly, n, [dicyclies], "o estado de ser dicíclio").
+entrada(fez, a, [], "pretérito de fazer").
+entrada(didático, n, [didáticos], "uma pessoa didática").
+entrada(didático, adj, [], "instrutivo").
+entry(didáctilo, adj, [], "tendo dois dígitos no final de cada membro").
+entrada(didapper, n, [didappers], "um mergulhão-pequeno").
+entrada(diddle, v, [diddled,diddling,diddles], "enganar").
+entrada(diddler, n, [diddlers], "aquele que engana").
+entrada(diddley, n, [diddleys], "diddly").
+entrada(diddly, n, [diddlies], "o menor valor").
+entry(diddums, interj, [], "usado para expressar simpatia para uma criança").
+entrada(didie, n, [didies], "didy").
+entrada(didies, pl, [], "de didy").
+entry(dido, n, [didos], "ou DIDOES um ato travesso").
+entrada(fizeste, a, [], "passado de do").
+entrada(didy, n, [didies], "uma fralda").
+entry(didímio, n, [didímios], "uma mistura de elementos terras-raras").
+entrada(dídimo, adj, [], "ocorrendo em pares").
+entry(didynamia, n, [didinamias], "o estado de ter quatro estames em pares de comprimentos desiguais").
+entrada(morrer, v, [morreu,morrendo,morrem], "cortar com um molde um dispositivo para moldar material").
+entrada(morrer, v, [morreu,morrendo,morre], "deixar de viver").
+entrada(definhamento, n, [definhamentos], "um fenecimento gradual dos brotos de plantas").
+entrada(diecioico, adj, [], "dioico").
+entrada(morreu, passado, [], "tense of morrer").
+entrada(diehard, n, [diehards], "uma pessoa teimosa").
+entrada(diel, adj, [], "envolvendo um dia inteiro").
+entrada(dieldrina, n, [dieldrinas], "um inseticida").
+entrada(fabricante_de_moldes, n, [fabricantes_de_moldes], "aquele que fabrica moldes").
+entrada(diene, n, [dienos], "um composto químico").
+entrada(extinção, n, [extinções], "um declínio súbito em uma população").
+entrada(dieresis, n, [diereses], "a separação de duas vogais em duas sílabasDIERÉTICO adj").
+entrada(diesel, v, [dieseled,dieseling,diesels], "continuar funcionando após a ignição ser desligada").
+entry(diesis, n, [dieses], "uma marca de referência na impressão").
+entry(diester, n, [diésteres], "um tipo de composto químico").
+entrada(diestock, n, [diestocks], "uma estrutura para segurar matrizes").
+entry(diestrum, n, [diestrums], "diestro").
+entrada(diestro, n, [diestros], "um período de inatividade sexual").
+entrada(dieta, v, [dietou,dietando,dietas], "regular o sustento diário de alguém").
+entrada(dietary, n, [dietaries], "um sistema de dieta").
+entrada(dieter, n, [dieters], "um que faz dieta").
+entry(dietético, adj, [], "relacionado à dieta").
+entrada(diether, n, [dieter], "um composto químico").
+entrada(dif, n, [difs], "diff").
+entrada(diff, n, [diferencas], "uma diferença").
+entrada(diferir, v, [diferiu,diferindo,difere], "ser diferente").
+entry(diffract, v, [diffracted,diffracting,diffracts], "separar em partes").
+entrada(difundir, v, [difundido,difundindo,difunde], "espalhar amplamente ou de forma fina").
+entry(difusor, n, [difusores], "aquele que difunde").
+entrada(difusor, n, [difusores], "difusor").
+entrada(cavar, v, [cavou,cavando,escava], "quebrar, revirar ou remover terra").
+entrada(digamies, pl, [], "de digamia").
+entrada(digamista, n, [digamistas], "aquele que pratica digamia").
+entrada(digamma, n, [digammas], "uma letra grega").
+entrada(digamia, n, [digamias], "um segundo casamento legalDIGAMOSO adj").
+entry(digerati, npl, [], "pessoas habilidosas no uso de computadores").
+entrada(digerir, v, [digerido,digerindo,digere], "transformar o alimento em forma utilizável pelo corpo").
+entry(digestor, n, [digestores], "um aparelho no qual substâncias são amolecidas ou decompostas").
+entrada(digestivo, n, [digestivos], "uma bebida alcoólica consumida após uma refeição").
+entrada(digestor, n, [digestores], "digester").
+entry(cavou, a, [], "tempo passado de cavar").
+entry(cavador, n, [cavadores], "aquele que cava").
+entrada(escavar, presente, [], "particípio de escavar").
+entrada(escavações, npl, [], "um local de escavação").
+entrada(enfeitar, v, [enfeitou,enfeitando,enfeita], "adornar").
+entrada(digicam, n, [digicams], "uma câmera digital").
+entrada(dígito, n, [dígitos], "um dedo da mão ou do pé").
+entrada(digital, n, [digitais], "uma tecla de piano").
+entrada(digitar, adj, [], "ter dígitos").
+entry(digitalizar, v, [digitalizado,digitalizando,digitaliza], "to digitize").
+entry(digitalizar, v, [digitalizado,digitalizando,digitaliza], "converter dados para notação digital").
+entry(diglot, n, [diglots], "um livro ou edição bilíngue").
+entry(dignificar, v, [dignificado,dignificando,dignifica], "adicionar dignidade a").
+entrada(dignidade, n, [dignidades], "nobreza e imponência de maneira").
+entry(digoxina, n, [digoxinas], "um medicamento para melhorar a função cardíaca").
+entrada(digrama, n, [digramas], "um par de letras que representam um único som de fala").
+entrada(divagar, v, [divagou,divagando,divaga], "desviar-se do tópico principal").
+entrada(diedro, n, [diedros], "um diedro").
+entry(diedro, n, [diedros], "uma figura formada por dois planos que se intersectam").
+entrada(dihíbrido, n, [dihíbridos], "um descendente de pais que diferem em dois pares de genes").
+entry(dihídrico, adj, [], "contendo dois radicais hidroxila").
+entrada(dikdik, n, [dikdiks], "um pequeno antílope").
+entrada(dique, v, [diquei,diquando,diques], "fornecer com um dique").
+entrada(diker, n, [dikers], "aquele que constrói diques").
+entrada(diktat, n, [diktats], "um acordo severo imposto a uma nação derrotada").
+entrada(dilatante, n, [dilatantes], "um dilatador").
+entrada(dilatar, adj, [], "dilatado").
+entry(dilatar, v, [dilatado,dilatando,dilata], "tornar mais amplo ou maior").
+entrada(dilater, n, [dilaters], "dilatador").
+entrada(dilatação, n, [dilatações], "o ato de dilatar").
+entry(dilativo, adj, [], "tendendo a dilatar").
+entry(dilatador, n, [dilatadores], "aquele que dilata").
+entrada(dilatório, adj, [], "tendendo a atrasar").
+entrada(dildo, n, [dildos], "um objeto usado como substituto do pênis").
+entrada(dildoe, n, [dildoes], "dildo").
+entrada(dilema, n, [dilemas], "uma situação perplexaDILEMÁTICO adj").
+entrada(diligente, adj, [], "perseverante").
+entrada(endro, n, [endros], "uma erva anual").
+entry(endro, adj, [], "saborizado com endro").
+entrada(endro, n, [endros], "as folhas da planta de endro").
+entrada(dilly, n, [dillies], "algo notável").
+entrada(diluente, n, [diluentes], "uma substância diluente").
+entrada(diluir, v, [diluído, diluindo, dilui], "para afinar ou reduzir a concentração de").
+entrada(diluidor, n, [diluidores], "aquele que dilui").
+entrada(diluicao, n, [diluicoes], "o ato de diluir").
+entry(dilutivo, adj, [], "tendendo a diluir").
+entry(diluidor, n, [diluidores], "diluter").
+entry(diluvia, a, [], "pl de diluvium").
+entry(diluvial, adj, [], "relativo a uma inundação").
+entry(diluvian, adj, [], "diluvial").
+entrada(diluvion, n, [diluvions], "dilúvio").
+entrada(diluvium, n, [diluvios], "ou DILUVIA material rochoso grosseiro depositado por geleiras").
+entrada(dim, adj, [], "DIMMER DIMMESTobscureDIMMISH adj").
+entrada(dim, v, [escurecer, escurecendo, escurece], "tornar escuro").
+entrada(dime, n, [dimes], "uma moeda dos Estados Unidos").
+entrada(dímero, n, [dímeros], "uma molécula composta por duas moléculas idênticas").
+entry(dimérico, adj, [], "dimérico").
+entrada(dimerismo, n, [dimerismos], "o estado de ser dímero").
+entrada(dimerize, v, [dimerizado,dimerizando,dimeriza], "formar um dímero").
+entry(dimerous, adj, [], "composto de duas partes").
+entrada(dímetro, n, [dímetros], "um verso de dois pés métricos").
+entrada(dimethyl, n, [dimethyls], "etano").
+entrada(dimétrico, adj, [], "relativo a um tipo de sistema cristalino").
+entry(diminuir, v, [diminuiu, diminuindo, diminui], "diminuir").
+entrada(dimity, n, [dimities], "um tecido de algodão").
+entry(dimly, adv, [], "de forma obscura").
+entrada(dimável, adj, [], "capaz de ser escurecido").
+entrada(apagado, passado, [], "tempo de apagar").
+entrada(dimmer, n, [dimmers], "um dispositivo para variar a intensidade da iluminação").
+entry(mais_escuro, superlativo, [], "de escuro").
+entrada(escurecendo, presente, [], "particípio de escurecer").
+entry(dimmish, adj, [], "um tanto escuro").
+entrada(escuridão, n, [escuridões], "o estado de ser escuro").
+entrada(dimorfismo, n, [dimorfismos], "qualquer uma de duas formas distintas").
+entrada(dimout, n, [dimouts], "uma condição de escuridão parcial").
+entrada(dimple, v, [dimpled, dimpling, dimples], "marcar com entalhes").
+entrada(dimply, adj, [], "DIMPLIER DIMPLIESTdimpled").
+entrada(mentecapto, n, [mentecaptos], "um tolo").
+entrada(din, v, [dinned,dinning,dins], "fazer um barulho alto").
+entrada(dinar, n, [dinares], "uma antiga moeda de ouro das áreas muçulmanas").
+entrada(dindle, v, [dindled,dindling,dindles], "formigar").
+entrada(jantar, v, [jantei, jantando, janta], "comer jantar").
+entrada(jantar, n, [jantares], "um que janta").
+entry(dineric, adj, [], "relativo à interface entre dois líquidos imiscíveis").
+entry(dinheiro, n, [dinheiros], "uma antiga moeda de prata do Peru").
+entrada(sala_de_jantar, n, [salas_de_jantar], "uma pequena sala de jantar").
+entry(ding, v, [dingou, dingando, dinga], "tocar").
+entrada(dingbat, n, [dingbats], "um ornamento tipográfico").
+entrada(dingdong, v, [dingdonged,dingdonging,dingdongs], "fazer um som de campainha").
+entry(dinge, n, [dinges], "a condição de estar sujo").
+entrada(dinger, n, [dingers], "um home run").
+entry(dingey, n, [dingeys], "dingi").
+entry(dinghy, n, [dinghes], "um pequeno barco").
+entrada(dingier, comparativo, [], "de dingy").
+entrada(dingies, pl, [], "de dingy").
+entrada(dingiest, superlativo, [], "de dingy").
+entrada(dingily, adv, [], "de maneira suja").
+entry(dingle, n, [dingles], "uma ravina").
+entrada(dingo, n, [dingoes], "ou DINGOS, um cão selvagem da Austrália").
+entry(dingus, n, [dinguses], "um troço").
+entrada(sujo, adj, [], "MAIS SUJO MAIS SUJISSIMOimundo").
+entrada(dingy, n, [dingies], "dinghy").
+entrada(jantar, n, [jantares], "a atividade de comer o jantar").
+entry(dinitro, adj, [], "contendo dois grupos nitro").
+entrada(dink, v, [dinked, dinking, dinks], "adornar").
+entrada(dinkey, n, [dinkeys], "uma pequena locomotiva").
+entry(dinkier, comparativo, [], "de dinky").
+entrada(dinkies, pl, [], "de dinky").
+entrada(dinkiest, superlativo, [], "de dinky").
+entrada(dinkly, adv, [], "ordenadamente").
+entrada(dinkum, n, [dinkums], "a verdade").
+entrada(dinky, adj, [], "DINKIER DINKIESTpequeno").
+entrada(dinky, n, [dinkies], "dinkey").
+entry(cenado, passado, [], "tempo de cear").
+entrada(jantar, n, [jantares], "a refeição principal do dia").
+entrada(jantar, presente, [], "particípio de jantar").
+entrada(dino, n, [dinos], "um dinossauro").
+entrada(dinossauro, n, [dinossauros], "um de um grupo de répteis extintos").
+entrada(dint, v, [dinted,dinting,dints], "amolgar").
+entrada(diobol, n, [diobols], "uma moeda da Grécia antiga").
+entrada(diobolon, n, [diobolons], "diobol").
+entrada(diocesano, n, [diocesanos], "um bispo").
+entrada(diocese, n, [dioceses], "um distrito eclesiástico").
+entrada(diodo, n, [diodos], "um tipo de tubo eletrônico").
+entrada(dioecismo, n, [dioecismos], "o estado de ser dióico").
+entrada(dioecia, n, [dioecias], "dioecismo").
+entrada(dioica, adj, [], "unisexual").
+entrada(diol, n, [diols], "um composto químico").
+entrada(diolefin, n, [diolefinas], "um hidrocarboneto").
+entry(diopside, n, [diopsides], "um mineral").
+entrada(dioptase, n, [dioptases], "um mineral").
+entrada(diopter, n, [diopters], "uma medida de poder refrativoDIOPTRAL adj").
+entrada(dioptria, n, [dioptrias], "dioptria").
+entrada(dioptrico, adj, [], "ajudando a visão por refração").
+entrada(diorama, n, [dioramas], "uma exposição tridimensionalDIORÂMICO adj").
+entrada(diorito, n, [dioritos], "uma rocha ígneaDIORÍTICO adj").
+entrada(dioxano, n, [dioxanos], "dioxano").
+entry(dioxano, n, [dioxanos], "um líquido inflamável").
+entrada(dioxido, n, [dioxidos], "dióxido").
+entrada(dioxido, n, [dioxidos], "um tipo de óxido").
+entry(dioxina, n, [dioxinas], "um hidrocarboneto sólido tóxico").
+entrada(dip, v, [dipt,dipping,dips], "imersar brevemente").
+entry(difásico, adj, [], "que possui duas fases").
+entrada(difásico, adj, [], "difase").
+entrada(difenil, n, [difenis], "bifenil").
+entrada(diplegia, n, [diplegias], "paralisia da mesma parte em ambos os lados do corpoDIPLEGICO adj").
+entrada(diplex, adj, [], "relativo à transmissão ou receção simultânea de dois sinais de rádio").
+entrada(diplexer, n, [diplexers], "um dispositivo de acoplamento").
+entrada(diploe, n, [diploes], "um tecido ósseo do crânioADJ DIPLOICO").
+entrada(diploide, n, [diploides], "uma célula com o número básico de cromossomos dobrado").
+entrada(diploidia, n, [diploidias], "a condição de ser um diplóide").
+entry(diploma, n, [diplomas], "ou CERTIFICADOum certificado de um grau acadêmico").
+entrada(diploma, v, [diplomado,diplomando,diplomas], "fornecer com um diploma").
+entrada(diplomata, n, [diplomatas], "um funcionário governamental").
+entrada(diplonte, n, [diplontes], "um organismo com uma estrutura cromossômica particular").
+entrada(diplopia, n, [diplopias], "visão duplaDIPLOPICO adj").
+entry(diplópode, n, [diplópodes], "um inseto com muitas pernas").
+entry(diplosis, n, [diploses], "um método de formação de cromossomos").
+entrada(dipnet, v, [dipnetted, dipnetting, dipnets], "scooper peixes com um tipo de rede").
+entrada(dipnoan, n, [dipnoans], "um peixe pulmonado").
+entrada(dipody, n, [dipodies], "um dímetroDIPÓDICO adj").
+entrada(dipolo, n, [dipolos], "um par de cargas elétricas iguais e opostasDIPOLAR adj").
+entry(mergulhável, adj, [], "capaz de ser mergulhado").
+entrada(mergulhado, a, [], "tempo passado de mergulhar").
+entrada(dipper, n, [dippers], "aquele que mergulha").
+entrada(mergulhando, presente, [], "particípio de mergulhar").
+entrada(dippy, adj, [], "DIPPIER DIPPIESTinsensato").
+entrada(diprotico, adj, [], "tendo dois íons de hidrogênio para doar a bases").
+entry(dipsas, n, [dipsades], "uma serpente lendária").
+entrada(dipso, n, [dipsos], "uma pessoa que deseja bebidas alcoólicas").
+entrada(varilla, n, [varillas], "uma vara de medição").
+entrada(dipt, a, [], "passado de mergulhar").
+entrada(diptera, pl, [], "de dipteron").
+entry(díptero, adj, [], "tendo duas fileiras ou colunas").
+entrada(dipteran, n, [dipterans], "um mosca de duas asas").
+entrada(dipteron, n, [diptera], "dipteran").
+entrada(diptyca, n, [diptycas], "díptico").
+entrada(díptico, n, [dípticos], "uma antiga tábua de escrita").
+entrada(diquat, n, [diquats], "um herbicida").
+entry(diram, n, [dirams], "uma unidade monetária do Tajiquistão").
+entry(dirdum, n, [dirdums], "culpa").
+entrada(dire, adj, [], "DIRER DIRESTdesastroso").
+entrada(direto, adj, [], "MAIS DIRETO MAIS DIRETOfacilitarDIRETAMENTE adv").
+entrada(direta, v, [dirigido,dirigindo,dirige], "controlar ou conduzir os assuntos de").
+entrada(diretor, n, [diretores], "aquele que dirige").
+entrada(terrível, adj, [], "temível").
+entry(direly, adv, [], "de maneira terrível").
+entrada(direza, n, [direzas], "o estado de ser terrível").
+entry(direr, comparativo, [], "de dire").
+entrada(direst, superlativo, [], "de dire").
+entrada(lamento, n, [lamentações], "uma canção fúnebreLAMENTOSO adj").
+entry(dirham, n, [dirhams], "uma unidade monetária de Marrocos").
+entry(diriment, adj, [], "anulador").
+entrada(dirk, v, [dirkado,dirkando,dirks], "esfaquear com uma pequena faca").
+entrada(dirl, v, [dirled,dirling,dirls], "tremer").
+entrada(dirndl, n, [dirndls], "um vestido feminino").
+entrada(sujeira, n, [sujeiras], "terra ou solo").
+entrada(dirtbag, n, [dirtbags], "uma pessoa suja ou desprezível").
+entrada(dirtball, n, [dirtballs], "uma pessoa suja ou desprezível").
+entry(sujo, adj, [], "MAIS_SUJO MAIS_SUJO_DE_TODOSsujoSUJAMENTE adv").
+entrada(sujo, v, [sujou,sujando,suja], "tornar sujo").
+entrada(dis, v, [dissed,dissing,disses], "insultar ou criticar").
+entrada(desativar, v, [desativado,desativando,desativa], "tornar incapaz ou impossibilitado").
+entry(desativador, n, [desativadores], "aquele que desativa").
+entrada(desenganar, v, [desenganado,desenganando,desengana], "libertar de ideias falsas ou erradas").
+entry(desacordo, v, [desacordou,desacordando,desacorda], "diferir em opinião").
+entrada(proibir, v, [proibido,proibindo,proíbe], "recusar permitir").
+entry(anular, v, [anulado,anulando,anula], "anular").
+entry(desarmar, v, [desarmado,desarmando,desarma], "privar de armas").
+entrada(desarmador, n, [desarmadores], "aquele que desarma").
+entrada(desordem, v, [desordenado,desordenando,desordena], "desordenar").
+entrada(desastre, n, [desastres], "uma calamidade").
+entrada(desaprovar, v, [desaprovou, desaprovando, desaprova], "negar responsabilidade por").
+entrada(dissolver, v, [dissolveu,dissolvendo,dissolve], "desfazer").
+entrada(desbarrar, v, [desbarrado, desbarrando, desbarra], "expulsar da profissão jurídica").
+entrada(desabafar, v, [desabafou, desabafando, desabafa], "confessar").
+entrada(desencadernado, adj, [], "não tendo uma encadernação").
+entrada(eviscerar, v, [eviscerou,eviscerando,eviscera], "ou EVISCEROU EVISCERANDO EVISCERAremover os intestinos de").
+entrada(disbud, v, [desbrotado,desbrotando,desbota], "remover brotos de").
+entry(desembolsar, v, [desembolsado,desembolsando,desembolsa], "pagar").
+entry(disco, v, [disquei,disquando,discos], "to disk").
+entrada(discant, v, [discanted, discanting, discants], "descantar").
+entrada(jogar_fora, v, [jogado_fora,jogando_fora,joga_fora], "descartar").
+entry(remover_caso, v, [removido_caso, removendo_caso, remove_casos], "remover o caso de").
+entrada(discept, v, [discepted,discepting,discepts], "debater").
+entrada(discerner, v, [discernido,discernindo,discernem], "perceber").
+entrada(disco, a, [], "pl de disco").
+entrada(discípulo, v, [discipulado,discipulando,discípulos], "fazer com que se torne um seguidor").
+entry(renunciar, v, [renunciou,renunciando,renuncia], "renunciar a qualquer reivindicação ou conexão com").
+entrada(discless, adj, [], "sem disco").
+entrada(discoide, adj, [], "disklike").
+entrada(divulgar, v, [divulgado,divulgando,divulga], "revelar").
+entrada(disco, v, [discoed,discoing,discos], "ou DISCOESto dançar em uma discoteca").
+entrada(discoid, n, [discoids], "um disco").
+entry(descolorir, v, [descolorido, descolorindo, descolore], "alterar a cor de").
+entry(discord, v, [discordou, discordando, discorda], "discordar").
+entrada(desconto, v, [descontado,descontando,descontos], "reduzir o preço de").
+entry(descobrir, v, [descobriu,descobrindo,descobre], "ganhar visão ou conhecimento de").
+entrada(discreto, adj, [], "MAIS_DISCRETO MAIS_DISCRETÍSSIMO_tático").
+entrada(discreto, adj, [], "separado").
+entry(discrown, v, [discrowned,discrowning,discrowns], "privar de uma coroa").
+entrada(disco, n, [discos], "ou DISCOa disco lançado em competição atlética").
+entry(discutir, v, [discutiu, discutindo, discute], "falar sobre ou escrever sobre").
+entrada(desdém, v, [desdenhado,desdenhando,desdenha], "desprezar").
+entrada(doença, v, [doente,adoecendo,doenças], "tornar insalubre").
+entrada(desendow, v, [desendowed,desendowing,desendows], "privar de dota\u00e7\u00e3o").
+entrada(diseur, n, [diseurs], "um recitador habilidoso").
+entrada(diseuse, n, [diseuses], "uma artista feminina").
+entrada(desgostar, v, [desgostou, desgostando, desgosta], "considerar com desaprovação").
+entry(desempossar, v, [desempossou, desempossando, desempossar], "to unfrock").
+entry(vomitar, v, [vomitado,vomitando,vomita], "to vomit").
+entry(desgraça, v, [desgraçou,desgraçando,desgraça], "trazer vergonha ou descrédito sobre").
+entrada(disfarce, v, [disfarçado, disfarçando, disfarces], "alterar a aparência de").
+entrada(disgusto, v, [enojado,enojante,enoja], "causar náusea ou repulsa em").
+entrada(prato, v, [pratos,pratando,prata], "colocar em um prato um recipiente côncavo").
+entrada(dishelm, v, [descapacete, descapacitando, descapacetes], "privar de um capacete").
+entrada(disherit, v, [disherited, disheriting, disherits], "privar de uma herança").
+entrada(despentear, v, [despenteado,despenteando,despenteia], "ou DESPENTEADO DESPENTEANDO DESPENTEIAfazer bagunçado").
+entrada(dishful, n, [dishfuls], "quanto uma tigela pode conter").
+entrada(mais_dishy, comparativo, [], "de dishy").
+entrada(dishiest, superlativo, [], "de dishy").
+entrada(pratolike, adj, [], "semelhante a um prato").
+entrada(desonra, v, [desonrado,desonrando,desonras], "privar de honra").
+entry(bacia_de_lavar, n, [bacias_de_lavar], "uma bacia para lavar pratos").
+entry(pano_de_prato, n, [panos_de_prato], "um pano para lavar pratos").
+entrada(prataria, n, [pratarias], "utensílios de mesa usados para servir comida").
+entrada(dishy, adj, [], "MAIS GIRA MAIS GIRAo").
+entry(desenterrar, v, [desenterrado,desenterrando,desenterra], "exumar").
+entry(dispersar, v, [dispersado,dispersando,dispersa], "dispersar").
+entrada(disjoin, v, [separado,separando,separa], "separar").
+entrada(disjunto, v, [desajustado,desajustando,desajusta], "colocar fora de ordem").
+entrada(disjuncao, n, [disjuncoes], "uma alternativa em uma disjunção lógica").
+entrada(disco, v, [disquei,discando,discos], "desfazer a terra com um tipo de implemento agrícola").
+entry(disker, n, [diskers], "aquele que ara").
+entrada(diskete, n, [disketes], "um disquete para um computador").
+entry(sem_disco, adj, [], "não possuir disco, um dispositivo de armazenamento redondo e plano para um computador").
+entrada(discoide, adj, [], "assemelhando-se a um disco, uma placa circular plana").
+entrada(desgostar, v, [desgostou, desgostando, desgosta], "considerar com aversão").
+entrada(desgostador, n, [desgostadores], "aquele que desgosta").
+entrada(dislimn, v, [dislimned, dislimning, dislimns], "fazer opaco").
+entrada(dislodge, v, [dislodged,dislodging,dislodges], "remover de uma posição firme").
+entrada(desleal, adj, [], "não leal").
+entrada(sombrio, adj, [], "SOMBRIO MAIS SOMBRIOMais sombrio e deprimenteSOMBRIAMENTE adv").
+entrada(sombrio, n, [sombrio], "uma faixa de terra pantanosa").
+entry(dismast, v, [desmastreado, desmastreamento, desmastreia], "remover o mastro de").
+entry(consternação, v, [consternado, consternando, consterna], "privar de coragem ou resolução").
+entry(disme, n, [dismes], "uma antiga moeda dos Estados Unidos").
+entrada(demitir, v, [demitiu,demitindo,demite], "permitir ou causar a saída").
+entrada(desmontar, v, [desmontado,desmontando,desmonta], "descer de uma posição elevada").
+entrada(desobedecer, v, [desobedeceu, desobedecendo, desobedece], "falhar em obedecer").
+entrada(disômico, adj, [], "tendo um número de cromossomos duplicados").
+entrada(disomia, n, [disomias], "a condição de ser disômico").
+entrada(desordem, v, [desordenado,desordenando,desordens], "colocar fora de ordem").
+entry(renunciar, v, [renunciou, renunciando, renuncia], "negar a posse de").
+entry(renegador, n, [renegadores], "aquele que renega").
+entrada(dispart, v, [disparted, disparting, disparts], "separar").
+entrada(dispatch, v, [enviado, despachando, despachos], "enviar rapidamente").
+entrada(dissipar, v, [dissipou,dissipando,dissipa], "afastar em várias direções").
+entrada(gastar, v, [gastado,gastando,gasta], "esbanjar").
+entrada(dispensar, v, [dispensado, dispensando, dispensa], "distribuir").
+entry(dispersar, v, [disperso,dispersando,dispersa], "espalhar").
+entrada(desperar, v, [desesperado,desesperando,desespera], "abaixar o espírito").
+entrada(deslocar, v, [deslocado,deslocando,desloca], "remover do lugar habitual ou apropriado").
+entrada(desplantar, v, [desplantou, desplantando, desplanta], "deslocar").
+entrada(exibir, v, [exibido, exibindo, exibe], "tornar evidente ou óbvio").
+entrada(displode, v, [disploded,disploding,displodes], "explodir").
+entrada(desplumar, v, [desplumou,desplumando,despluma], "desplumar").
+entrada(disportar, v, [disportou,disportando,disporta], "divertir-se").
+entrada(disposal, n, [disposals], "o ato de descartar").
+entrada(dispôr, v, [dispôs, disposto, dispões], "colocar no lugar").
+entrada(disposer, n, [disposers], "aquele que descarta").
+entrada(dispread, v, [dispread,dispreading,dispreads], "espalhar").
+entrada(desprezar, v, [desprezou, desprezando, despreza], "desdenhar").
+entrada(refutação, n, [refutações], "o ato de refutar").
+entrada(refutar, v, [refutou,refutado,refutando], "REFUTARpara refutar").
+entrada(disputa, v, [disputado,disputando,disputas], "discutir sobre").
+entrada(contestador, n, [contestadores], "aquele que contesta").
+entrada(inquietar, v, [inquietou,inquietando,inquieta], "privar de descanso tranquilo ou paz").
+entrada(disrate, v, [disrated,disrating,disrates], "diminuir na classificação ou posição").
+entry(desnudar, v, [desnudou,desnudando,desnuda], "despir").
+entrada(desnudador, n, [desnudadores], "aquele que desnuda").
+entrada(disroot, v, [disrooted,disrooting,disroots], "desenraizar").
+entrada(perturbar, v, [perturbado,perturbando,perturba], "lançar em confusão").
+entrada(diss, v, [dissed,dissing,disses], "zoar").
+entrada(dissave, v, [dissaved,dissaving,dissaves], "usar poupança para despesas correntes").
+entry(dissaver, n, [dissavers], "aquele que despoja").
+entry(disseat, v, [disseated,disseating,disseats], "desempoleirar").
+entrada(dissecar, v, [dissecou,dissecando,disseca], "cortar para exame científico").
+entrada(dissed, passado, [], "tempo de desrespeitar").
+entrada(disseise, v, [disseised, disseising, disseises], "privar").
+entrada(disseize, v, [disseized,disseizing,disseizes], "despojar").
+entry(dissentir, v, [dissentiu,dissentindo,dissentem], "discordar").
+entry(dissertar, v, [dissertou, dissertando, dissertam], "discutir de maneira erudita ou formal").
+entrada(desfavorecer, v, [desfavoreceu, desfavorecendo, desfavorece], "tratar mal").
+entrada(disses, presente, [], "3ª pessoa do singular de dis").
+entrada(dissever, v, [dissevered, dissevering, dissevers], "separar").
+entry(dissing, presente, [], "particípio de dis").
+entry(dissolver, v, [dissolvido,dissolvendo,dissolve], "transformar em uma solução").
+entry(desencorajar, v, [desencorajado,desencorajando,desencoraja], "persuadir a não fazer algo").
+entrada(distaff, n, [distaffs], "ou DISTAVES um tipo de bastão").
+entrada(despresar, v, [desprezou,desprezando,despreza], "manchar").
+entrada(distal, adj, [], "localizado longe do ponto de origemDISTALMENTE adv").
+entrada(distância, v, [distanciado,distanciando,distâncias], "deixar para trás").
+entrada(distante, adj, [], "longe ou separado").
+entry(desgosto, v, [desgostou, desgostando, desgosta], "não gostar").
+entry(distaves, a, [], "pl de distaff").
+entrada(distender, v, [distendido,distendendo,distende], "inchar").
+entry(distendido, adj, [], "distended").
+entrada(dístico, n, [dísticos], "um dístico").
+entrada(destilar, v, [destilado,destilando,destila], "destilar").
+entrada(destilar, v, [destilado,destilando,destila], "extrair por vaporização e condensação").
+entrada(distinto, adj, [], "DISTINCTER DISTINCTESTclaramente diferente").
+entrada(distoma, n, [distomas], "um verme achatado parasita").
+entrada(distorcer, v, [distorcido,distorcendo,distorce], "alterar a forma").
+entrada(distrair, v, [distraído,distraindo,distrais], "desviar a atenção de").
+entry(distrain, v, [distrained,distraining,distrains], "apreender e manter propriedade como garantia").
+entrada(distrait, adj, [], "distraído").
+entry(aflição, v, [aflito,aflitante,aflige], "causar ansiedade ou sofrimento a").
+entrada(distrito, v, [distritado, distritando, distritos], "dividir em localidades").
+entry(desconfiar, v, [desconfiado,desconfiando,desconfia], "não ter confiança em").
+entrada(perturbar, v, [perturbado,perturbando,perturba], "interromper o silêncio, descanso ou paz de").
+entrada(disulfeto, n, [disulfetos], "um composto químico").
+entrada(desunião, n, [desuniões], "o estado de estar desunido").
+entry(desunir, v, [desunido,desunindo,desune], "separar").
+entry(desunião, n, [desuniões], "falta de unidade").
+entrada(desuso, v, [desusado,desusando,desusa], "parar de usar").
+entrada(desvalorizar, v, [desvalorizado,desvalorizando,desvaloriza], "tratar como de pouco valor").
+entrada(disyoke, v, [disyoked,disyoking,disyokes], "libertar de um jugo").
+entrada(dit, n, [dits], "um ponto no Código Morse").
+entrada(dita, n, [ditas], "uma árvore das Filipinas").
+entrada(vala, v, [valou, valando, valas], "cavar uma longa e estreita escavação no chão").
+entrada(vala, n, [valas], "aquele que cava valas").
+entrada(dite, n, [dites], "uma pequena quantidade").
+entrada(ditheism, n, [ditheismos], "crença em dois deuses coiguais").
+entry(diteísta, n, [diteístas], "um adepto do ditheísmo").
+entrada(dither, v, [dithered, dithering, dithers], "agir nervosamente ou indecisivamente").
+entrada(ditherer, n, [ditherers], "um que hesita").
+entrada(dithery, adj, [], "nervosamente excitado").
+entry(dithiol, adj, [], "contendo dois grupos químicos, ambos incluindo enxofre e hidrogênio").
+entrada(ditsy, adj, [], "MAIS_TRAPALHÃO MAIS_TRAPALHONA excêntrico").
+entry(erva_ditânea, n, [ervas_ditâneas], "uma erva perene").
+entrada(ditto, v, [dittoed, dittoing, dittos], "repetir").
+entry(cantiga, n, [cantigas], "uma canção curta e simples").
+entrada(ditz, n, [ditzes], "uma pessoa distraída").
+entrada(ditzy, adj, [], "DITZIER DITZIESTditsy").
+entrada(diurese, n, [diureses], "descarga excessiva de urina").
+entrada(diurético, n, [diuréticos], "um medicamento que aumenta a descarga urinária").
+entrada(diurnal, n, [diurnals], "um diário").
+entrada(diuron, n, [diurons], "um herbicida").
+entrada(diva, n, [divas], "uma cantora de ópera feminina distinta").
+entry(divagar, v, [divagou,divagando,divaga], "vagar").
+entrada(divalente, adj, [], "tendo uma valência de dois").
+entrada(divan, n, [divans], "um sofá ou divã").
+entrada(mergulhar, v, [mergulhou, mergulhando, mergulha], "mergulhar de cabeça na água").
+entrada(mergulho_bombardeio, v, [bombardeou_em_mergulho, bombardeando_em_mergulho, bombardeios_em_mergulho], "lançar bombas em um alvo de um avião em mergulho").
+entrada(mergulhador, n, [mergulhadores], "aquele que mergulha").
+entry(diverge, v, [diverged,diverging,diverges], "mover-se em direções diferentes a partir de um ponto comum").
+entrada(diverso, adj, [], "diferente").
+entry(desviar, v, [desviou,desviando,desvia], "desviar").
+entrada(desviador, n, [desviadores], "aquele que desvia").
+entry(despojar, v, [despojado,despojando,despoja], "privar de algo").
+entrada(dividir, v, [dividido, dividindo, divide], "separar em partes, áreas ou grupos").
+entrada(dividendo, n, [dividendos], "uma quantidade a ser dividida").
+entrada(divisor, n, [divisores], "aquele que divide").
+entrada(dividindo, presente, [], "particípio de divide").
+entrada(dividual, adj, [], "capaz de ser dividido").
+entrada(divine, adj, [], "DIVINER DIVINEST relativo a ou característico de um deus DIVINELY adv").
+entrada(divine, v, [divined,divining,divines], "predizer por meios ocultos").
+entrada(diviner, n, [diviners], "aquele que adivinha").
+entrada(mergulho, n, [mergulhos], "o ato ou esporte de mergulhar de cabeça na água").
+entrada(advinhar, presente, [], "particípio de adivinhar").
+entrada(divinise, v, [divinisou, divinizando, diviniza], "divinizar").
+entrada(divindade, n, [divindades], "o estado de ser divino").
+entry(divinizar, v, [divinizado, divinizando, diviniza], "tornar divino").
+entrada(divisao, n, [divisoes], "o ato de dividir").
+entry(divisive, adj, [], "causando desunião ou dissensão").
+entrada(divisor, n, [divisores], "um número pelo qual um dividendo é dividido").
+entrada(divorciar, v, [divorciado, divorciando, divorcia], "para terminar o contrato de casamento entre").
+entry(divorciada, n, [divorciadas], "uma mulher divorciada").
+entry(divorcer, n, [divorciadores], "aquele que se divorcia").
+entrada(divot, n, [divots], "um pedaço de grama").
+entry(divulgar, v, [divulgou,divulgando,divulga], "revelar").
+entrada(divulgador, n, [divulgadores], "aquele que divulga").
+entry(divulse, v, [divulsionou,divulsionando,divulsiona], "arrancar").
+entrada(dividir, v, [dividido, dividindo, divide], "dividir").
+entrada(diwan, n, [diwans], "dewan").
+entrada(dixit, n, [dixits], "uma declaração").
+entrada(dizen, v, [dizened,dizening,dizens], "vestir com roupas finas").
+entrada(dizigoto, adj, [], "desenvolvido a partir de dois óvulos fertilizados").
+entrada(tonto, adj, [], "TONTO MAIS TONTO SENTINDO UMA SENSAÇÃO DE RODAÇÃO TONTO adv").
+entrada(tonto, v, [tontou, tontoando, tontas], "fazer tonto").
+entrada(djebel, n, [djebels], "jebel").
+entrada(djellaba, n, [djellabas], "uma vestimenta longa com capuz").
+entrada(djembe, n, [djembes], "um tipo de tambor de mão africano").
+entrada(djibba, n, [djibbas], "djellaba").
+entrada(djibbah, n, [djibbahs], "jibba").
+entrada(djin, n, [djins], "gênio").
+entrada(djinn, n, [djins], "genio").
+entrada(djinni, n, [djinn], "gênio").
+entrada(djinny, n, [djinn], "gênio").
+entrada(do, n, [do, "dos"], "o primeiro tom da escala musical diatônica").
+entrada(fazer, v, [fizeste,feito,fazendo], "presente sing 2ª pessoa FAZER ou FAZES ou FAZ 3ª pessoa FAZ ou FAZESTO para começar e levar até a conclusão").
+entrada(factível, adj, [], "capaz de ser feito").
+entrada(doat, v, [doated, doating, doats], "para idolatrar").
+entry(dobber, n, [dobbers], "um flutuador para uma linha de pesca").
+entrada(dobbin, n, [dobbins], "um cavalo de fazenda").
+entrada(dobby, n, [dobbies], "um tolo").
+entrada(dobe, n, [dobes], "adobe").
+entrada(dobie, n, [dobies], "adobe").
+entry(dobies, pl, [], "de doby").
+entry(dobla, n, [doblas], "uma antiga moeda de ouro da Espanha").
+entrada(dobrão, n, [dobrões], "ou DOBLONESA uma antiga moeda de ouro da Espanha e América Espanhola").
+entrada(dobra, n, [dobras], "uma antiga moeda de ouro de Portugal").
+entrada(dobson, n, [dobsons], "uma larva de inseto aquático").
+entrada(doby, n, [dobies], "dobie").
+entrada(doc, n, [docs], "médico").
+entrada(docente, n, [docentes], "um professor universitário ou de faculdade").
+entrada(docetic, adj, [], "relacionado a uma doutrina religiosa").
+entrada(dócil, adj, [], "facilmente treinadoDOCILMENTE adv").
+entrada(docilidade, n, [docilidades], "a qualidade de ser dócil").
+entrada(cais, v, [atracado, atracando, atraca], "trazer para dentro de um cais um ancoradouro").
+entry(docagem, n, [docagens], "uma taxa pelo uso de um cais").
+entrada(docker, n, [dockers], "um trabalhador portuário").
+entrada(docket, v, [docketed,docketing,dockets], "fornecer uma declaração de identificação").
+entry(trabalhador_portuário, n, [trabalhadores_portuários], "um docker").
+entrada(cais, n, [cais], "a parte de um porto ocupada por docas").
+entrada(dockside, n, [docksides], "a área adjacente a um cais").
+entrada(estaleiro, n, [estaleiros], "um estaleiro").
+entry(médico, v, [médicou,médicando,médicos], "tratar medicamenteMEDICAMENTE adv").
+entrada(doutoral, adj, [], "relativo a um doutor").
+entrada(doutrina, n, [doutrinas], "uma crença ou conjunto de crenças ensinadas ou defendidas").
+entrada(documento, v, [documentado,documentando,documentos], "apoiar por informação conclusiva ou prova").
+entry(docusoap, n, [docusoaps], "uma série de televisão sobre as atividades de pessoas reais").
+entrada(dodder, v, [doddered, doddering, dodders], "cambalear").
+entrada(dodderer, n, [dodderers], "aquele que cambaleia").
+entrada(tremulo, adj, [], "fraco").
+entrada(doddle, n, [doddles], "uma tarefa fácil").
+entrada(esquivar, v, [esquivou,esquivando,esquiva], "para evadir").
+entry(autinho, n, [autinhos], "um brinquedo de parque de diversões").
+entry(fujão, n, [fujões], "um que se esquiva").
+entrada(dodgery, n, [dodgeries], "evasão").
+entry(esquivando, presente, [], "particípio de esquivar").
+entrada(dodgy, adj, [], "DODGIER DODGIESTevasivo").
+entrada(dodo, n, [dodos], "ou DODOES uma ave extinta incapaz de voar").
+entrada(dodoismo, n, [dodoismos], "uma observação estúpida").
+entrada(cerva, n, [cervas], "uma corça fêmea").
+entrada(fazedor, n, [fazedores], "aquele que faz algo").
+entry(faz, a, [], "presente 3a pessoa singular de fazer").
+entrada(doeskin, n, [doeskins], "a pele de uma corça").
+entry(doest, a, [], "presente 2ª pessoa singular de do").
+entrada(doeth, a, [], "presente 3ª pessoa do singular de do").
+entrada(doff, v, [doffed, doffing, doffs], "tirar").
+entrada(doffer, n, [doffers], "aquele que tira").
+entrada(cachorro, v, [perseverou,perseguindo,cachorros], "seguir como um cachorro um mamífero carnívoro domesticado").
+entrada(dogbane, n, [dogbanes], "uma erva perene").
+entrada(dogberry, n, [dogberries], "uma baga selvagem").
+entry(carruagemDeCão, n, [carruagensDeCão], "uma carruagem puxada por um cavalo").
+entrada(caodominio, n, [caodominios], "o mundo dos cães").
+entrada(doge, n, [doges], "o chefe magistrado nas antigas repúblicas de Veneza e Gênova").
+```prolog
+entry(dogear, v, [dogeared,dogearing,dogears], "dobrar a ponta de uma página").
+```
+entry(dogedom, n, [dogedoms], "o domínio de um doge").
+entrada(dogeship, n, [dogeships], "o cargo de um doge").
+entrada(dogey, n, [dogeys], "dogie").
+entry(dogface, n, [dogfaces], "um soldado do Exército dos EUA").
+entrada(dogfight, v, [dogfought,dogfighting,dogfights], "envolver-se em uma batalha aérea").
+entrada(cacão, n, [cações], "um pequeno tubarão").
+entrada(teimoso, passado, [], "tempo de dog").
+entrada(obstinadamente, adv, [], "teimosamente").
+entrada(dogger, n, [doggers], "uma embarcação de pesca").
+entry(doggerel, n, [doggerels], "verso trivial e desajeitadamente escrito").
+entrada(doggery, n, [doggeries], "comportamento rude").
+entrada(cachorrinho, n, [cachorrinhos], "cachorrinho").
+entry(doggier, comparativo, [], "de doggy").
+entrada(cachorrinhos, pl, [], "de cachorrinho").
+entry(doggiest, superlativo, [], "de canino").
+entrada(dogging, presente, [], "particípio de dog").
+entrada(canino, adj, [], "semelhante a cão").
+entrada(doggo, adv, [], "escondido").
+entry(doggone, adj, [], "DANADO DANADÍSSIMO").
+entrada(doggone, v, [doggoned, doggoning, doggones], "amaldiçoar").
+entry(doggoned, adj, [], "DOGGONEDER DOGGONEDESTdanado").
+entrada(doggrel, n, [doggreis], "doggerel").
+entrada(cachorrinho, adj, [], "CACHORRINHO MAIS CACHORRINHO MAS CACHORRINHO assemelhando-se ou sugerindo um cão").
+entrada(doguinho, n, [doguinhos], "um cachorro pequeno").
+entrada(casinha, n, [casinhas], "um abrigo para um cachorro").
+entrada(dogie, n, [dogies], "um bezerro perdido").
+entrada(dogies, pl, [], "de dogy").
+entrada(dogleg, v, [doglegged,doglegging,doglegs], "mover-se ao longo de um curso sinuoso").
+entry(doglike, adj, [], "semelhante a um cão").
+entry(dogma, n, [dogmas], "ou DOGMATAum princípio ou crença apresentada como autoritativaDOGMÁTICO adj").
+entrada(raptar_cão, v, [raptar_cão_roubado,raptar_cão_roubando,raptar_cães], "ou ROUBADO REPETIÇÃO ROUBADOS para roubar um cão").
+entry(raptordecães, n, [raptoresdecães], "aquele que rapta cães").
+entrada(dogsbody, n, [dogsbodies], "um trabalhador braçal").
+entry(courinho, n, [courinhos], "couro feito da pele de um cachorro").
+entrada(treno_de_cães, v, [trenou_de_cães, trenando_de_cães, trenos_de_cães], "deslizar em um trenó puxado por cães").
+entrada(caudadecachorro, n, [caudasdecachorro], "uma grama com cabeças de flores espinhosas").
+entrada(rabodecão, n, [rabosdecão], "um tipo de grama").
+entrada(dogtooth, n, [dogteeth], "uma cúspide").
+entrada(marcha_cão, v, [marchou_cão,marchando_cão,marchas_cão], "mover-se a um trote constante").
+entrada(catavento, n, [cataventos], "uma pequena veleta").
+entrada(dogwatch, n, [dogwatches], "um curto período de vigia em um navio").
+entrada(corniso, n, [cornisos], "uma árvore").
+entrada(dogy, n, [dogies], "dogie").
+entrada(doh, n, [dohs], "a primeira nota da escala diatônica").
+entrada(doiled, adj, [], "atordoado").
+entrada(doily, n, [toalhinhas], "um pequeno guardanapo").
+entrada(fazendo, n, [ações], "uma ação").
+entrada(doit, n, [doits], "uma antiga moeda holandesa").
+entry(doited, adj, [], "velho e fraco").
+entrada(dojo, n, [dojos], "uma escola que ensina judô ou caratê").
+entrada(dol, n, [dols], "uma unidade de intensidade da dor").
+entrada(dolce, n, [dolci], "um registro de órgão de tom suave").
+entrada(dolcetto, n, [dolcettos], "um vinho tinto da Itália").
+entry("calmaria", npl, [], "um período de estagnação ou baixa atividade").
+entrada(dole, v, [doled,doling,doles], "distribuir em pequenas porções").
+entrada(tristonho, adj, [], "TRISTEZA TRISTEZINHA").
+entrada(dolerite, n, [dolerites], "uma variedade de basalto").
+entrada(dolesome, adj, [], "doleful").
+entrada(doling, presente, [], "particípio de dole").
+entry(boneca, v, [bonecada, bonecando, bonecas], "vestir-se com estilo").
+entrada(dolar, n, [dolares], "uma unidade monetária dos Estados Unidos").
+entrada(dollied, passado, [], "tempo verbal de dolly").
+entry(dollies, presente, [], "3ª pessoa do singular de dolly").
+entrada(dollish, adj, [], "bonito").
+entrada(bocado, v, [bocados,bocando,bocados], "dispensar em pequenas quantidades").
+entrada(dolly, v, [dollied,dollying,dollies], "mover em uma plataforma com rodas").
+entrada(dolma, n, [dolmas], "ou DOLMADES uma folha de uva recheada").
+entrada(dolman, n, [dolmans], "uma túnica turca").
+entrada(dolmen, n, [dolmens], "um monumento pré-históricoDOLMÊNICO adj").
+entrada(dolomite, n, [dolomitas], "um mineral").
+entrada(dolor, n, [dolors], "tristeza").
+entrada(doloroso, adj, [], "ter uma qualidade musical lamentosa").
+entrada(doloroso, adj, [], "triste").
+entrada(dor, n, [dores], "dor").
+entrada(golfinho, n, [golfinhos], "um mamífero marinho").
+entrada(dolt, n, [dolts], "uma pessoa estúpidaDOLTISH adj").
+entrada(dom, n, [doms], "um título dado a certos monges").
+entrada(dominio, n, [dominios], "uma área de controle").
+entrada(domaine, n, [domaines], "um vinhedo na Borgonha").
+entrada(domal, adj, [], "domical").
+entrada(cúpula, v, [cúpulas, cobrindo, coberturas], "cobrir com uma cúpula um telhado arredondado").
+entry(cupulado, adj, [], "semelhante a uma cúpula").
+entrada(domesday, n, [domesdays], "dia do juízo").
+entrada(doméstico, n, [domésticos], "um servo doméstico").
+entrada(domic, adj, [], "domical").
+entrada(domical, adj, [], "em forma de cúpula").
+entrada(domicil, v, [domiciliado,domiciliando,domicilios], "domiciliar").
+entrada(domicílio, v, [domiciliado, domiciliando, domicilia], "estabelecer em uma residência").
+entry(dominante, n, [dominantes], "um caráter genético controlador").
+entry(dominar, v, [dominou,dominando,domina], "controlar").
+entry(domine, n, [domines], "mestre").
+entry(dominar, v, [dominado,dominando,domina], "tiranizar").
+entrada(doming, presente, [], "particípio de dome").
+entrada(dominick, n, [dominicks], "uma das raças americanas de galinhas").
+entry(dominie, n, [dominies], "um clérigo").
+entrada(domínio, n, [domínios], "autoridade suprema").
+entrada(dominínio, n, [dominínios], "o direito de propriedade e controle de bens").
+entrada(domino, n, [dominos], "ou DOMINÓSum pequena máscara").
+entrada(don, v, [donned, donning, dons], "vestir").
+entry(dona, n, [donas], "uma senhora espanhola").
+entrada(donair, n, [donairs], "carne de cordeiro fatiada enrolada em pão pita").
+entrada(doar, v, [doou, doando, doa], "contribuir").
+entrada(doação, n, [doações], "algo doado").
+entrada(donativo, n, [donativos], "uma doação").
+entrada(doador, n, [doadores], "um doador").
+entrada(feito, passado, [], "particípio de fazer").
+entrada(donatário, n, [donatários], "um destinatário de um presente").
+entrada(donegal, n, [donegals], "um tipo de tweed").
+entrada(cozimento, n, [cozimentos], "o estado de estar suficientemente cozido").
+entrada(dong, v, [donged,donging,dongs], "fazer um som profundo como o de um grande sino").
+entrada(donga, n, [dongas], "um barranco em uma savana").
+entrada(dongle, n, [dongles], "um dispositivo para um computador").
+entrada(dongola, n, [dongolas], "um tipo de couro").
+entry(torre_de_menagem, n, [torres_de_menagem], "a principal torre de um castelo").
+entrada(burro, n, [burros], "o asno doméstico").
+entrada(donna, n, [donas], "ou DONNAuma senhora italiana").
+entry(donned, past, [], "tempo de vestir").
+entrada(donnee, n, [donnees], "o conjunto de suposições sobre o qual uma história se desenvolve").
+entrada(donnerd, adj, [], "donnered").
+entry(donnered, adj, [], "atordoado").
+entrada(donnert, adj, [], "donnered").
+entry(donniker, n, [donnikers], "um banheiro ou latrina").
+entrada(vestindo, presente, [], "particípio de vestir").
+entry(donnish, adj, [], "acadêmico").
+entrada(do(donor), n, [doadores], "aquele que doa").
+entrada(donship, n, [donships], "a posição de um don, um membro sênior de uma universidade britânica").
+entry(donsie, adj, [], "azarado").
+entrada(donsy, adj, [], "donsie").
+entrada(donut, n, [donuts], "doughnut").
+entrada(donzel, n, [donzels], "um jovem escudeiro").
+entrada(doob, n, [doobies], "um doobie").
+entrada(doobie, n, [doobies], "um cigarro de maconha").
+entrada(geringonça, n, [geringonças], "um artigo cujo nome é desconhecido ou esquecido").
+entrada(doodah, n, [doodahs], "um pequeno dispositivo útil").
+entrada(doodle, v, [doodled,doodling,doodles], "desenhar ou rabiscar sem rumo").
+entrada(doodler, n, [doodlers], "aquele que rabiscos").
+entrada(doodoo, n, [doodoos], "fezes").
+entrada(doody, n, [doodies], "fezes").
+entrada(doofus, n, [doofuses], "uma pessoa estúpida ou tola").
+entrada(doolee, n, [doolees], "uma maca para os doentes ou feridos").
+entrada(doolie, n, [doolies], "doolee").
+entry(dooly, n, [doolies], "doolee").
+entrada(destino, v, [destinou, destinando, destinos], "destinar a um destino infeliz").
+entrada(fatal, adj, [], "ameaçador").
+entrada(diaDoJuizo, n, [diasDosJuizos], "dia do julgamento").
+entry(doomster, n, [doomsters], "um juiz").
+entrada(doomy, adj, [], "DOOMIER DOOMIESTdoomfulDOOMILY adv").
+entrada(porta, n, [portas], "uma barreira móvel em uma entradaPORTADA adj").
+entrada(campainha, n, [campainhas], "uma campainha em uma porta").
+entrada(verga, n, [vergas], "a estrutura de uma porta").
+entry(doorjamb, n, [doorjambs], "uma peça vertical ao lado de uma porta").
+entrada(maçaneta, n, [maçanetas], "um punho para abrir uma porta").
+entrada(sem_porta, adj, [], "sem porta").
+entrada(porteiro, n, [porteiros], "o atendente da porta de um edifício").
+entrada(capacho, n, [capachos], "um tapete colocado na frente de uma porta").
+entrada(tacha, n, [tachas], "um prego de cabeça grande").
+entrada(doorpost, n, [doorposts], "um umbral").
+entrada(soleira, n, [soleiras], "o batente de uma porta").
+entrada(limiar, n, [limiares], "um degrau que leva a uma porta").
+entrada(batente, n, [batentes], "um objeto usado para manter uma porta aberta").
+entrada(porta, n, [portas], "a entrada para uma sala ou edifício").
+entry(pátio, n, [pátios], "um quintal na frente de uma casa").
+entrada(doowop, n, [doowops], "um estilo de canto").
+entrada(doozer, n, [doozers], "doozy").
+entry(doozie, n, [doozies], "excepcional").
+entrada(doozy, n, [doozies], "um extraordinário do seu tipo").
+entry(dopa, n, [dopas], "um medicamento para tratar a doença de Parkinson").
+entry(dopamina, n, [dopaminas], "uma forma de dopa usada para estimular o coração").
+entrada(dopante, n, [dopantes], "uma impureza adicionada a uma substância pura").
+entrada(droga, v, [drogou, drogando, drogas], "dar um narcótico a").
+entrada(dope, adj, [], "DOPER DOPESTexcelente excepcional").
+entrada(doper, n, [dopadores], "aquele que dopa").
+entry(dopester, n, [dopesters], "aquele que prevê os resultados de competições").
+entrada(soneca, adj, [], "MAIS SONECA MAIS SONECAsonarento estúpidoSONECAMENTE adv").
+entry(dopier, comparativo, [], "de dopy").
+entrada(dopiest, superlativo, [], "de dopy").
+entry(dopiness, n, [dopinesses], "o estado de ser bobo").
+entrada(doping, n, [dopings], "o uso de drogas por atletas").
+entrada(dopy, adj, [], "DOPIER DOPIESTdopey").
+entrada(dor, n, [dors], "um besouro europeu preto").
+entrada(dourado, n, [dourados], "um peixe marinho").
+entrada(besouro, n, [besouros], "a dor").
+entry(dore, n, [dores], "um grande peixe de água doce").
+entrada(dorhawk, n, [dorhawks], "uma ave noturna").
+entry(dories, pl, [], "de pargo").
+entrada(dork, n, [dorks], "uma pessoa estúpida ou tola").
+entrada(dorky, adj, [], "DORKIER DORKIESTestúpido tolo").
+entrada(dorm, n, [dorms], "um dormitório").
+entrada(latência, n, [latências], "o estado de estar dormente").
+entrada(latente, adj, [], "deitado dormindo").
+entrada(dormer, n, [dormers], "um tipo de janelaDORMED adj").
+entry(dormice, pl, [], "de leirão").
+entry(dormie, adj, [], "estar à frente por tantos buracos no golfe quantos restam para serem jogados").
+entrada(dormient, adj, [], "dormant").
+entrada(dormin, n, [dormins], "um hormônio vegetal").
+entrada(dormouse, n, [dormice], "um pequeno roedor").
+entrada(dormy, adj, [], "dormie").
+entrada(dorneck, n, [dornecks], "dornick").
+entrada(dornick, n, [dornicks], "um tecido de linho pesado").
+entrada(dornock, n, [dornocks], "dornick").
+entry(dorp, n, [dorps], "uma aldeia").
+entrada(dorper, n, [dorpers], "uma raça de ovelhas produtoras de carne").
+entrada(dorr, n, [dorrs], "dor").
+entrada(dorsa, pl, [], "de dorso").
+entrada(dorsad, adv, [], "dorsalmente").
+entrada(dorsal, n, [dorsais], "uma parte anatômica localizada dorsalmente").
+entrada(dorsalmente, adv, [], "em direção à parte de trás").
+entrada(dorsel, n, [dorsels], "um dossal").
+entrada(dorser, n, [dorsers], "dosser").
+entrada(dorsum, n, [dorsa], "as costas").
+entry(dorty, adj, [], "rabugento").
+entrada(dory, n, [dories], "um barco de fundo chato").
+entrada(doryman, n, [dorymen], "aquele que pesca de um dóri").
+entry(dosa, n, [dosas], "ou DOSAI uma panqueca feita de farinha de arroz").
+entrada(dosagem, n, [dosagens], "a quantidade de medicamento a ser administrada").
+entrada(dose, v, [dosado,dosagem,doses], "dar uma quantidade especificada de medicamento a").
+entrada(doser, n, [dosificadores], "aquele que dosa").
+entry(dosh, n, [], "dinheiro").
+entrada(dosha, n, [doshas], "cada uma das três energias que se acredita circularem no corpo").
+entrada(doss, v, [dossed,dossing,dosses], "dormir em qualquer lugar conveniente").
+entrada(dossal, n, [dossais], "um pano ornamental pendurado atrás de um altar").
+entrada(dossel, n, [dosséis], "dossal").
+entrada(dossal, n, [dossais], "um cesto carregado nas costas").
+entrada(dosseret, n, [dosserets], "um bloco que repousa sobre o capitel de uma coluna").
+entrada(dossie, n, [dossies], "um arquivo de papéis sobre um único assunto").
+entrada(dossil, n, [dossis], "um rolo de pano para limpar tinta").
+entrada(dost, a, [], "presente 2ª pessoa sing de do").
+entry(dot, v, [pontilhado, pontilhando, pontos], "cobrir com pontos, marcas redondas pequenas").
+entrada(demência, n, [demências], "um estado de senilidade").
+entrada(dotal, adj, [], "relativo a um dote").
+entrada(dodder, n, [senis], "uma pessoa senilDOTARDLY adj").
+entrada(dotaçao, n, [dotaçoes], "uma dotaçao").
+entrada(dote, v, [doted,doting,dotes], "mostrar afeto excessivo").
+entrada(admirador, n, [admiradores], "um que adora").
+entrada(doth, a, [], "presente 3ª pessoa singular de do").
+entrada(dotier, comparativo, [], "de doty").
+entrada(dotiest, superlativo, [], "de doty").
+entrada(afetuoso, presente, [], "particípio de mimar").
+entrada(dotingly, adv, [], "de maneira excessivamente afetuosa").
+entrada(pontilhado, passado, [], "tempo de ponto").
+entrada(dottel, n, [dottels], "dottle").
+entrada(dotter, n, [dotters], "um que pontilha").
+entrada(dotterel, n, [dotterels], "um maçarico").
+entrada(dottier, comparativo, [], "de dotty").
+entrada(dottiest, superlativo, [], "de dotty").
+entrada(dottily, adv, [], "de maneira maluca").
+entrada(pontilhando, presente, [], "particípio de pontilhar").
+entrada(dottle, n, [dottles], "uma massa de tabaco meio queimado em cachimbo").
+entrada(dottrel, n, [dottrels], "dotterel").
+entrada(dotty, adj, [], "DOTTIER DOTTIESTlouco").
+entrada(doty, adj, [], "MÁCULO MÁCULOSOmanchado por decomposição").
+entrada(double, v, [dobrado,dobrando,dobra], "tornar duas vezes maior").
+entrada(dobrador, n, [dobradores], "um que dobra").
+entrada(doublet, n, [doublets], "um casaco justo").
+entrada(duplicando, presente, [], "particípio de duplicar").
+entrada(dublão, n, [dublões], "uma antiga moeda de ouro espanhola").
+entrada(doublure, n, [doublures], "o forro de uma capa de livro").
+```prolog
+entrada(dobramente, adv, [duvidosos], "um que duvidaDUVIDOSO adj incerto DOCE adj MAIOR DOUCEST sóbrio sedadoDOUCELY advDOCEUR n pl DOUCEURS uma gratificação ducha v DOUCHED DOUCHING DOUCHESto limpar com um jato de águaDOUCHING n pl DOUCHINGS uma limpeza com um jato de águaMASSA n pl DOUGHSa mistura de farinha DOUGHBOY n pl DOUGHBOYS um soldado de infantaria DOUGHIER comparativo de fofoDOUGHIEST superlativo de fofoDONUT n pl DOUGHNUTS um bolo redondo DOUGHT passado de dowDOUGHTY adj DOUGHTIER DOUGHTIESTcorajosoDOUGHY adj DOUGHIER DOUGHIESTparecendo massaDOULA n pl DOULASuma mulher que ajuda outra mulher durante o partoDOUM n pl DOUMS uma palmeira africanaDOUMA n pl DOUMASdumaDOUPIONI n pl DOUPIONIS um fio de sedaDOUR adj DOURER DOUREST sombriodura n pl DOURASdurraDOURAH n pl DOURAHSdurraDOURINE n pl DOURINES uma doença de cavalosDOURLY adv de maneira sombriaDOURNESS n pl DOURNESSES é o estado de ser sombrioDOUSE v DOUSED DOUSING DOUSESto mergulhar na águaDOUSER n pl DOUSERS aquele que apagaDOUT v DOUTED DOUTING DOUTSte para extinguir como um fogoDOUX adj muito doce usado champanheDOUZEPER n pl DOUZEPERS um dos doze cavaleiros lendários DOVE n pl DOVES um pássaro da família do pomboDOVECOT n pl DOVECOTS pombal DOVECOTE n pl DOVECOTES um poleiro para pombos domesticados DOVEKEY n pl DOVEKEYS dovekie DOVEKIE n pl DOVEKIES uma ave marinhaDOVELIKE adj parecendo ou sugestivo de uma pombaDOVEN v DOVENED DOVENING DOVENS para davenDOVETAIL v DOVETAILED DOVETAILING DOVETAILS para ajustar-se juntos de pertoDOVISH adj não belicosoDOW v DOWED ou DOUGHT DOWING DOWS para prosperarDOWABLE adj intitulado a um doteDOWAGER n pl DOWAGERS uma mulher digna e idosaDOWDY adj DOWDIER DOWDIEST DOWDY desarrumada em estilo ou limpeza DOWDILY adv DOWDYISH adj DOWDY n pl DOWDIES uma mulher desajeitada DOSELLO v DOWELED DOWELING DOWELS ou DOWELLED DOWELLING DOWEL para prender com pinos de madeira DOWELING n pl DOWELINGS uma barra cilíndrica DOWER v DOWERED DOWERING DOWER para fornecer um dote DOWERY n pl DOWERIES doteDOWIE adj sombrioDOWN v DOWNED DOWNING DOWNS para causar queda DOWNBEAT n pl DOWNBEATS a primeira batida de uma medida musical DOWNBOW n pl DOWNBOWS um tipo de golpe ao tocar um instrumento de arcoDOWNCAST n pl DOWNCASTS um derrocada ou ruínaDOWNCOME n pl DOWNCOMES quedaDOWNER n pl DOWNERS uma droga depressora DOWNFALL n pl DOWNFALL queda repentinaDOWNHAUL n pl DOWNHAULs uma corda para baixar as velasDOWNHILL n pl DOWNHILLSuma inclinação para baixoDOWNHOLE adj usado para baixo ou em um poço de petróleoDOWNIER comparativo de felpudoDOWNIEST superlativo de felpudoDOWNILY adv de maneira felpudaDOWNLAND n pl DOWNLANDS uma planície ondulada e sem árvoresDOWNLESS adj não tendo penugem penas macias felpudasDOWNLIKE adj parecia penugemDOWNLINK v DOWNLINKED DOWNLINKING DOWNLINKS para transmitir dados de um satélite para a terraDOWNLOAD v DOWNLOADED DOWNLOADING DOWNLOADS para transferir dados de um computador grande para um menorDOWNPIPE n pl DOWNPIPES um tubo para drenar a água de um telhadoDOWNPLAY v DOWNPLAYED DOWNPLAYING DOWNPLAYS para desvalorizarDOWNPOUR n pl DOWNPOURS uma chuva forteDOWNRATE v DOWNRATED DOWNRATING DOWNRATES para diminuir o valorDOWNRATE n pl DOWNSIDES um aspecto negativoDOWNSIZE v DOWNSIZED DOWNSIZING DOWNSIZES para produzir em menor tamanhoDOWNSPIN n pl DOWNSPINS um movimento de rotaçãoDOWNTICK n pl DOWNTICKS uma transação no mercado de açõesDOWNTIME n pl DOWNTIMES o tempo em que uma máquina ou fábrica está inativa DOWNTOWN n pl DOWNTOWNS o distrito comercial de uma cidade DOWNTROD adj oprimido DOWNTURN n pl DOWNTURNS uma virada para baixo DOWNWARD adv de um lugar mais alto para um lugar mais baixo DOWNWARP n pl DOWNWARPS uma depressão da superfície DOWNWASH n pl DOWNWASHES uma deflexão do ar para baixo DOWNWIND adv na direção que o vento sopra DOWNY adj DOWNIER DOWNIEST macio DOWNZONE v DOWNZONED DOWNZONING DOWNZONES para reduzir ou limitar o número de edifícios permitidos DOWRY n pl DOWRIES o dinheiro ou propriedade que uma esposa traz para seu marido no casamento DOWSABEL n pl DOWSABELS um amado DOWSE v DOWSED DOWSING DOWSE para procurar água subterrânea com uma vara divinatória DOWSER n pl DOWSERS alguém que usa a vara divinatória DOWSING n pl DOWSINGS uma técnica para procurar água subterrânea DOXIE n pl DOXIES uma doutrina DOXOLOGY n pl DOXOLOGIES um hino ou verso de louvor a Deus DOYEN n pl DOYENS o membro mais antigo de um grupo DOYENNE n pl DOYENNES uma doyenne DOYLEY n pl DOYLEYS rendas DOYLY n pl DOYLY rendas DOZE v DOZED DOZING DOZES para dormir levemente DOZEN v DOZENED DOZENING DOZES para atordoar DOZENTH n pl DOZENTHS décimo segundo DOZER n pl DOZERS alguém que dorme DOZIER comparativo de sonolento DOZIEST superlativo de sonolento DOZILY adv de maneira sonolenta DOZINESS n pl DOZINESSES é o estado de ser sonolento DOZING particípio presente de doze DOZY adj DOZIER DOZIEST sonolento DRAB adj DRABBER DRABBEST sem alegria DRAB v DRABBED DRABBING DRABS consorte com prostitutas DRABBET n pl DRABBET um tecido de linho grosseiro DRABBLE v DRABBLED DRABBLING DRABBLE para arrastar DRABLY adv de maneira sem graça DRABNESS n pl DRABNESSES é a qualidade de ser sem graça DRACAENA n pl DRACAENAS uma planta tropical DRACENA n pl DRACENAS dracaena DRACHM n pl DRACHMS uma unidade de peso DRACHMA n pl DRACHMAS DRACHMAE ou DRACHMAI uma unidade monetária antiga da Grécia DRACONIC adj referente a um dragão DRAFF n pl DRAFFS os resíduos úmidos de malte após a fabricação da cerveja DRAFFISH adj sempre DRAFFY adj DRAFFIER DRAFFIEST sem valor DRAFT v DRAFTED DRAFTING DRAFTS para alistar para o serviço militar DRAFTEE n pl DRAFTEES uma pessoa convocada DRAFTER n pl DRAFTERS alguém que projeta DRAFTING n pl DRAFTINGS desenho mecânico DRAFTY adj DRAFTIER DRAFTIEST com ou exposto a correntes de ar DRAFTILY advDRAG v DRAGGED DRAGGING DRAGS para puxar ao longo do chão DRAGEE n pl DRAGEES uma doce coberta de açúcar DRAGGER n pl DRAGGERS alguém que arrasta DRAGGIER comparativo de arrastado DRAGGIEST superlativo de arrastado DRAGGING particípio presente de drag DRAGGLE v DRAGGLED DRAGGLING DRAGGLE para molhar e sujar DRAGGY adj DRAGGIER DRAGGIEST lento DRAGLINE n pl DRAGLINES uma linha usada para arrastar DRAGNET n pl DRAGNETS uma rede para pesca com arrasto DRAGOMAN n pl DRAGOMANS ou DRAGOMEN um intérprete em países do Oriente Próximo DRAGON n pl DRAGONS um monstro mítico que se assemelha a uma serpente DRAGONET n pl DRAGONETS um peixe marinho DRAGOON v DRAGOONED DRAGOONING DRAGOON para incomodar pelo uso de tropas DRAGROPE n pl DRAGROPES uma corda usada para arrastar DRAGSTER n pl DRAGSTERS um veículo usado em corridas Drag DRAIL n pl DRAILS um anzol pesado DRAIN v DRAINED DRAINING DRAINS para escoar um líquido DRAINAGE n pl DRAINAGES o ato de drenar DRAINER n pl DRAINERS alguém que drena DRAKE n pl DRAKES um pato macho DRAM v DRAMMED DRAMMING DRAMS para tipple DRAMA n pl DRAMAS uma composição escrita para apresentação teatral DRAMADY n pl DRAMADIES dramedy DRAMATIC adj relativo ao drama DRAMEDY n pl DRAMEDIES uma sitcom com cenas dramáticas DRAMMED passado de dram DRAMMING particípio presente de dram DRAMMOCK n pl DRAMMOCK farinha de aveia crua misturada com água fria DRAMSHOP n pl DRAMSHOPS um bar DRANK tempo passado de drink DRAPE v DRAPED DRAPING DRAPES para arranjar em dobras elegantes DRAPABLE adj DRAPER n pl DRAPERS uma pessoa que vende tecidos DRAPERY n pl DRAPERIES tecidos arranjados em dobras elegantes DRAPEY adj caracterizado por dobras elegantes DRAPING particípio presente de drape DRASTIC adj extremamente grave DRAT v DRATTED DRATTING DRATS para amaldiçoar DRAUGHT v DRAUGHTED DRAUGHTING DRAUGHTS para draft DRAUGHTY adj DRAUGHTIER DRAUGHTIEST com correntes de ar DRAVE um tempo passado de drive DRAW v DREW DRAWN DRAWING DRAWS para mover puxando DRAWABLE adj DRAWBACK n pl DRAWBACKS um impedimento DRAWBAR n pl DRAWBARS um engate ferroviário DRAWBORE n pl DRAWBORES um furo para juntar um espiga e tenão DRAWCORD n pl DRAWCORDS um cordão para apertar uma peça de roupa DRAWDOWN n pl DRAWDOWNS uma diminuição do nível da água DRAWEE n pl DRAWEEs a pessoa em quem uma letra de câmbio é emitida DRAWER n pl DRAWERS alguém que desenha DRAWING n pl DRAWINGS um retrato em linhas de uma forma ou figura DRAWL v DRAWLED DRAWLING DRAWLS para falar lentamente com as vogais bastante prolongadas DRAWLER n pl DRAWLERS alguém que fala lentamente DRAWLY adj DRAWLIER DRAWLIEST marcado por falado lentamente DRAWN particípio passado de desenhar DRAWTUBE n pl DRAWTUBES um tubo que desliza dentro de outro tubo DRAY v DRAYED DRAYING DRAYS para transportar por carroça um carro baixo e forte DRAYAGE n pl DRAYAGES transporte por carroça DRAYMAN n pl DRAYMEN alguém que conduz uma carroça DREAD v DREADED DREADING DREADS para temer intensamente DREAD adj DREADER DREADEST assustador DREADFUL n pl DREADFULS uma publicação contendo material sensacional DREAM v DREAMED ou DREAMT DREAMING DREA para ter um sonho uma série de imagens que ocorrem durante o sono DREAMER n pl DREAMERS alguém que sonha DREAMFUL adj sonolento DREAMY adj DREAMIER DREAMIEST cheio de sonhos DREAMILY advDREAR n pl DREARS o estado de ser melancólico DREAR adj DREARER DREAREST sombrio DREARY adj DREARIER DREARIEST desanimado DREARILY adv DREARIN n pl DREARIES uma pessoa desanimada DRECK n pl DRECKS lixo DRECKISH adj DRECKY adj DRECKIER DRECKIEST inútil DREDGE v DREDGED DREDGING DREDGE para limpar com uma draga uma máquina para escavar lama DREDGER n pl DREDGERS alguém que limpa com dragas DREDGING n pl DREDGINGS matéria que é dragada DREE v DREED DREEING DREES para sofrer DREG n pl DREGS o sedimento dos licores DREGGISH adj DREGGY adj DREGGIER DREGGIEST cheio de sedimentos DREICH adj triste DREIDEL n pl DREIDELS um brinquedo giratório DREIDL n pl DREIDLS dreidel DREIGH adj dreich DREK n pl DREKS lixo DREKKISH adj DREKKY adj DREKKIER DREKKIEST cheio de lixo DRENCH v DRENCHED DRENCHING DRENCH para molhar completamente DRENCHER n pl DRENCHERS alguém que encharca DRESS v DRESSED ou DREST DRESSING DRESST para vestir roupas DRESSAGE n pl DRESSAGES o treino de um cavalo em obediência e comportamento DRESSER n pl DRESSERS alguém que veste DRESSING n pl DRESSINGS material aplicado para cobrir uma ferida DRESSY adj DRESSIER DRESSIEST elegante DRESSILY advDREST um tempo passado de vestir DREW tempo passado de desenhar DRIB v DRIBBED DRIBBING DRIBS para pingar DRIBBLE v DRIBBLED DRIBBLING DRIBBLE para babar DRIBBLER n pl DRIBBLERS alguém que babar DRIBBLET n pl DRIBBLETS driblet DRIBBLING particípio presente de dribble DRIBBLY adj propenso a babar DRIBLET n pl DRIBLETS uma pequena gota de líquido DRIED passado de seco DRIEGH adj sombrio DRIER n pl DRIERS alguém que secar DRIES presente 3ª pessoa singular de seco DRIEST um superlativo de seco DRIFT v DRIFTED DRIFTING DRIFTS para se mover em um corrente DRIFTAGE n pl DRIFTAGES o ato de derivar DRIFTER n pl DRIFTERS alguém que deriva DRIFTNET n pl DRIFTNETS uma grande rede de pesca arrastada com a maré ou corrente DRIFTPIN n pl DRIFTPINS uma barra de metal para fixar toras DRIFTY adj DRIFTIER DRIFTIEST cheio de deriva massas de neve impulsionadas pelo vento DRILL v DRILLED DRILLING DRILLS para perfurar um furo DRILLER n pl DRILLERS alguém que perfura DRILLING n pl DRILLINGS um tecido pesado de algodão DRY adv secamente DRINK v DRANK DRUNK DRINKING DRINKS para engolir líquido DRINKER n pl DRINKERS alguém que bebe DRINKING n pl DRINKINGS um hábito de beber bebidas alcoólicas DRIP v DRIPPED ou DRIPT DRIPPING DRIPS para cair em gotas DRIPLESS adj projetado para não pingar DRIPPER n pl DRIPPERS algo de onde um líquido pinga DRIPPING n pl DRIPPINGS suco extraído da carne durante o cozimento DRIPPY adj DRIPPIER DRIPPIEST muito molhado DRIPPILY adv DRIPT um tempo passado de pingar DRIVE v DROVE ou DRAVE DRIVEN DRIVING DRIVES para mover empurrando DRIVABLE adj DRIVEL v DRIVELED DRIVELING DRIVELS ou DRIVELLED DRIVELLING DRIVEL para deixar saliva escorrer da boca DRIVELER n pl DRIVELERS alguém que toma DRIVEL n pl DRIVERS alguém que dirige DRIVEWAY n pl DRIVEWAYS uma estrada privada que fornece acesso a um edifício DRIVING n pl DRIVINGS gestão de um veículo motorizado DRIZZLE v DRIZZLED DRIZZLING DRIZZLE para chover levemente DRIZZLY adj DRIZZLIER DRIZZLIEST caracterizado por chuva leve DROGUE n pl DROGUES uma âncora de mar DROID n pl DROID um androide DROIT n pl DROIT um direito legal DROKE n pl DROKE uma mancha de árvores DROLL adj DROLLER DROLLEST cômico DROLL v DROLLED DROLLING DROLLS para brincar DROLLERY n pl DROLLERIES algo engraçado DROLLY adv de maneira engraçada DROMON n pl DROMONS dromond DROMOND n pl DROMONDS uma galera medieval grande e rápida DRONE v DRONED DRONING DRONES para fazer um som baixo contínuo DRONER n pl DRONERS alguém que faz drones DRONGO n pl DRONGOS ou DRONGOES um pássaro tropical DRONISH adj habitualmente preguiçoso DROOL v DROOLED DROOLING DROOLS para babar DROOLY adj DROOLIER DROOLIEST de babar DROOP v DROOPED DROOPING DROOPS pendurar para baixo DROOPY adj DROOPIER DROOPIEST caído DROOPILY advDROP v DROPPED ou DROPT DROPPING DROPS para cair em gotas glóbulos DROPHEAD n pl DROPHEADS um carro conversível DROPKICK n pl DROPKICKS um tipo de chute no futebol DROPLET n pl DROPLETS uma gota ínfima DROPOUT n pl DROPOUTS alguém que abandona a escola prematuramente DROPPED um tempo passado de cair DROPPER n pl DROPPERS um tubo para dispensar líquidos em gotas DROPPING n pl DROPPINGS algo que foi deixado cair DROPSEED n pl DROPSEEDS um tipo de grama DROPSHOT n pl DROPSHOTS um tipo de chute no tênis DROPSY n pl DROPSIES um acúmulo excessivo de líquido seroso DROPSIED adj DROPT um tempo passado de cair DROPTOP n pl DROPTOPS um automóvel conversível DROPWORT n pl DROPWORT uma erva perene DROSERA n pl DROSERA uma orvalhacropia DROSCKY n pl DROSHKIES uma carroça aberta DROSS n pl DROSS lixo DROSSY adj DROSSIER DROSSEST sem valor DROUGHT n pl DROUGHTS um período seco DROUGHTY adj DRIEST DROUGHTIEST seco DROUK v DROUKED DROWKING DROUK para encharcar DROUTH n pl DROUTHS seca DROUTHY adj DROUTHIER DROUTHIEST ressecado DROVE v DROVED DROVING DROVES para conduzir gado ou ovelhas DROVER n pl DROVERS um motorista de gado ou ovelhas DROVING n pl DROVINGS o trabalho de um vaqueiro DROWN v DROWNED DROWNING DROWNS para morrer afogado DROWND v DROWNDED DROWNING DROWNS para afogar DROWNER n pl DROWNERS um afogamento DROWSE v DROWSED DROWSING DROWSE para cochilar DROWSY adj DROWSIER DROWSIEST sonolento DROWSILY advDRUB v DRUBBED DRUBBING DRUBS para bater com força DRUBBER n pl DRUBBERS um esfoliante DRUBBING n pl DRUBBINGS uma surra DRUDGE v DRUDGED DRUDGING DRUDGE para fazer trabalho difícil e tedioso DRUDGER n pl DRUDGERS alguém que faz trabalho doméstico DRUDGERY n pl DRUDGERY trabalho difícil e tedioso DRUG v DRUGGED DRUGGING DRUGS para afetar com droga uma substância medicinal DRUGGET n pl DRUGGET um tecido de lã grosseiro DRUGGIE n pl DRUGGIES um viciado em drogas DRUGGIST n pl DRUGGISTs um químico DRUGGY adj DRUGGIER DRUGGIEST afetado por drogas DRUGLESS adj sendo sem drogas DRUID n pl DRUIDS um antigo druida druídico DYB v DYBBED DYBBING DYBBYD OISE ORA DYBBUK usando uma alma errante na tradição Judaica")."
+```
+entrada(cada, adj, [], "sendo um de dois ou mais indivíduos distintos").
+entrada(ansioso, adj, [], "MAIS ANSIOSO MAIS ANSIOSÍSSIMO ansiando impacientemente ANSIOSAMENTE adv").
+entrada(yeanling, n, [yeanlings], "yeanling").
+entrada(ouvido, v, [ouvidos,ouvindo,ouvir], "formar a espiga frutífera de um cereal").
+entry(dor_de_ouvido, n, [dores_de_ouvido], "uma dor no ouvido, um órgão da audição").
+entrada(fone_de_ouvido, n, [fones_de_ouvido], "um pequeno fone de ouvido").
+entrada(brinco, n, [brincos], "um brinco").
+entrada(timpano, n, [timpanos], "a membrana timpânica").
+entry(eared, adj, [], "ter orelhas").
+entrada(orelha_de_tapa_vento, n, [orelhas_de_tapa_vento], "uma parte de um boné projetada para cobrir as orelhas").
+entrada(ouvido_cheio, n, [ouvidos_cheios], "um fluxo de informação").
+entry(ouvido, n, [ouvidos], "a abertura externa do ouvido").
+entrada(brinco, n, [brincos], "uma Linha em um Navio").
+entrada(conde, n, [condes], "um nobre britânico").
+entrada(orelheira, n, [orelheiras], "uma proteção de orelha").
+entrada(condado, n, [condados], "o posto de um conde").
+entrada(sem_orelhas, adj, [], "sem orelhas").
+entrada(anterior, comparativo, [], "de cedo").
+entrada(mais_cedo, superlativo, [], "de cedo").
+entrada(lóbulo, n, [lóbulos], "uma parte da orelha").
+entry(tranca, n, [tranças], "um cacho de cabelo ao lado da orelha").
+entrada(earlship, n, [earlships], "earldom").
+entrada(cedo, adv, [], "MAIS CEDO MAIS CEDO próximo ao início de um período de tempo ou de uma série de eventos").
+entry(earmark, v, [earmarked,earmarking,earmarks], "designar para um uso específico").
+entrada(protetor_de_ouvido, n, [protetores_de_ouvido], "um de um par de coberturas para os ouvidos").
+entrada(ganhar, v, [ganhou,ganhando,ganha], "obter ou merecer pelo trabalho ou serviço de alguém").
+entrada(ganhador, n, [ganhadores], "um que ganha").
+entrada(sinal, n, [sinais], "um pagamento inicial").
+entrada(resultado, npl, [], "algo ganho").
+entry(auricular, n, [auriculares], "um dispositivo de escuta usado sobre a orelha").
+entrada(auricular, n, [auriculares], "um fone de ouvido").
+entrada(protetor_auditivo, n, [protetores_auditivos], "um tampão para o ouvido").
+entrada(brinco, n, [brincos], "um ornamento para o lóbulo da orelha").
+entrada(audição, n, [audições], "o alcance dentro do qual o som pode ser ouvido").
+entry(pedra_de_orelha, n, [pedras_de_orelha], "um otólito").
+entrada(terra, v, [enterrado,enterrando,enterra], "cobrir com terra").
+entrada(terrosa, adj, [], "feita de terra").
+entry(earthier, comparativo, [], "de terroso").
+entrada(earthiest, superlativo, [], "de earthy").
+entrada(terreno, adv, [], "de maneira terrena").
+entrada(terreno, adj, [], "MAISTERRENO MÁXIMOTERRENOmundano").
+entrada(terráqueo, n, [terráqueos], "uma pessoa do planeta Terra").
+entrada(earthnut, n, [earthnuts], "uma erva europeia").
+entrada(pe-de-terra, n, [pes-de-terra], "uma planta trepadeira").
+entrada(pôr-da-terra, n, [pores-da-terra], "o pôr da terra visto da lua").
+entrada(terroso, adj, [], "MAIS TERROSO MAIS TERROSOcomposto de assemelhando-se ou sugestivo de terra").
+entrada(cerumen, n, [cerúmenes], "earwax").
+entry(tesourinha, v, [tesourinhou, tesourinhar, tesourinhas], "insinuar contra em segredo").
+entrada(verme_do_ouvido, n, [vermes_do_ouvido], "um verme de algodão").
+entrada(amenizar, v, [amenizou, amenizando, ameniza], "dar descanso ou alívio a").
+entrada(aconselhável, adj, [], "tranquilo").
+entrada(cavalete, n, [cavaletes], "uma estrutura de três pernasCAVALETEADO adj").
+entrada(servidão, n, [servidões], "alívio").
+entrada(aliviador, v, [aliviadores], "aquele que alivia").
+entrada(mais_fácil, comparativo, [], "de fácil").
+entrada(easies, pl, [], "de fácil").
+entrada(mais_fácil, superlativo, [], "de fácil").
+entrada(facilmente, adv, [], "sem dificuldade").
+entry(facilidade, n, [facilidades], "o estado de ser fácil").
+entrada(easing, presente, [], "particípio de ease").
+entrada(leste, n, [lestes], "um ponto cardeal da bússola").
+entrada(páscoa, n, [páscoas], "um vento ou tempestade do leste").
+entrada(leste, n, [ventos de leste], "um vento vindo do leste").
+entrada(oriental, adj, [], "sendo para, em direção a, ou no leste").
+entry(este, n, [estações], "um movimento em direção ao leste").
+entrada(para_leste, n, [para_leste], "uma direção para o leste").
+entrada(facil, adj, [], "MAIS FÁCIL MAIS FÁCILnão difícil").
+entrada(fácil, n, [fáceis], "uma palavra de código de comunicação para a letra E").
+entry(comer, v, [comi,comido,comendo], "EATPARA consumir comida").
+entrada(comestível, n, [comestíveis], "um comestível").
+entrada(comedor, n, [comedores], "aquele que come").
+entrada(restaurante, n, [restaurantes], "uma lanchonete").
+entrada(facil, adj, [], "fácil").
+entrada(comer, n, [comeres], "o ato de consumir alimentos").
+entrada(eau, n, [eaux], "água um líquido transparente insípido inodoro").
+entrada(eave, n, [eaves], "a borda inferior saliente de um telhadoEAVED adj").
+entrada(vazante, v, [recou, recuando, refluem], "recuar").
+entrada(ebbet, n, [ebbets], "uma salamandra verde comum").
+entry(ebon, n, [ebons], "ébano").
+entry(ebonics, npl, [], "um dialeto do inglês falado por alguns afro-americanos").
+entrada(ebonies, pl, [], "de ébano").
+entrada(ebonise, v, [ebonised,ebonising,ebonises], "ebonizar").
+entrada(ebonite, n, [ebonites], "uma borracha dura").
+entrada(ebanizar, v, [ebanizou, ebanizando, ebaniza], "manchar de preto em imitação do ébano").
+entry(ébano, n, [ébanos], "uma madeira dura e pesada").
+entry(ebook, n, [ebooks], "um dispositivo para ler livros em formato eletrônico").
+entrada(ecarte, n, [ecartes], "um jogo de cartas").
+entrada(ecaudate, adj, [], "sem cauda").
+entrada(ecbolic, n, [ecbolics], "um tipo de droga").
+entrada(ecclesia, n, [ecclesiae], "uma assembleia na Grécia Antiga").
+entrada(ecrina, adj, [], "produzindo secreções externamente").
+entrada(muda, n, [mudas], "a troca de uma camada externa de peleECDYSIAL adj").
+entrada(ecdysona, n, [ecdizonas], "ecdizona").
+entrada(ecdisona, n, [ecdisonas], "um hormônio de inseto").
+entrada(ecese, n, [eceses], "o estabelecimento de uma planta ou animal em um novo ambienteECÉSICO adj").
+entrada(echappe, adj, [], "movendo de uma posição fechada para uma posição aberta dos pés no balé").
+entrada(echard, n, [echards], "a água no solo não disponível para as plantas").
+entrada(eche, v, [eched, eching, eches], "aumentar").
+entrada(escala, n, [escalas], "um dispositivo para dispersar a luz em suas cores componentes").
+entrada(escada, v, [escadado, escadando, escadas], "agrupar em uma formação específica").
+entrada(equidna, n, [equidnas], "ou ECHIDNAE, um tamanduá espinhoso").
+entrada(echinate, adj, [], "espinhoso").
+entrada(echando, presente, [], "particípio de echar").
+entrada(echinoide, n, [echinoides], "um animal marinho espinhoso").
+entry(echinus, n, [echini], "um equinoide").
+entrada(echo, n, [echos], "ou ECHOES uma repetição de som por reflexão de ondas sonoras").
+entrada(echo, v, [ecoou,ecoando,ecoa], "produzir um eco").
+entrada(echoer, n, [echoers], "aquele que ecoa").
+entrada(echoey, adj, [], "cheio de ecos").
+entrada(ecograma, n, [ecogramas], "um registro produzido por um dispositivo que utiliza ondas ultrassônicas").
+entrada(echoic, adj, [], "semelhante a um eco").
+entrada(echoism, n, [echoisms], "a formação de palavras por imitação de sons").
+entry(echoless, adj, [], "não produz eco").
+entrada(echt, adj, [], "genuíno").
+entrada(eclair, n, [eclairs], "um tipo de massa").
+entrada(eclat, n, [eclats], "brilho").
+entrada(eclectico, n, [ecleticos], "aquele que tira suas crenças de várias fontes").
+entrada(eclipse, v, [eclipsado,eclipsando,eclipsa], "obscurecer").
+entrada(eclipser, n, [eclipsadores], "um que eclipsa").
+entrada(eclipsis, n, [eclipsises], "ou ECLIPSESuma elipse").
+entrada(eclíptica, n, [eclípticas], "um plano astronômico").
+entrada(eclogito, n, [eclogitos], "um tipo de rocha").
+entrada(eclogue, n, [eclogues], "um poema pastoral").
+entrada(eclosionar, v, [eclodido,eclodindo,eclode], "emergir como uma larva de um ovo").
+entry(eclosao, n, [eclosoes], "o surgimento de uma larva de inseto a partir de um ovo").
+entrada(eco, n, [ecoss], "ecologia").
+entrada(ecocídio, n, [ecocídios], "a destruição do meio ambienteECOCIDAL adj").
+entrada(ecofreak, n, [ecofreaks], "um ambientalista zeloso").
+entrada(ecogift, n, [ecogifts], "uma doação de terras a um governo para fins ecológicos").
+entrada(ecologia, n, [ecologias], "uma ciência ambientalECOLOGIC adj").
+entrada(econobox, n, [econoboxes], "um carro pequeno e econômico").
+entrada(econômico, adj, [], "referente a assuntos financeiros").
+entrada(economia, n, [economias], "poupança").
+entry(ecorche, n, [ecorches], "uma figura anatômica com a pele removida para mostrar a musculatura").
+entrada(ecotage, n, [ecotages], "ação obstrutiva em defesa do meio ambiente natural").
+entrada(ecótono, n, [ecótonos], "um tipo de zona ecológicaECOTONAL adj").
+entrada(ecotopia, n, [ecotopias], "uma região ou forma de sociedade ecologicamente ideal").
+entrada(ecotour, n, [ecotours], "um passeio por um habitat natural").
+entrada(ecotipo, n, [ecótipos], "uma subespécie adaptada a condições ambientais específicas ECOTÍPICO adj").
+entrada(ecozona, n, [ecozonas], "um ecossistema regional").
+entrada(ecraseur, n, [ecraseurs], "um instrumento cirúrgico").
+entrada(ecru, n, [ecrus], "uma cor marrom amarelada").
+entrada(extase, n, [extases], "um estado de exaltação").
+entrada(extatico, n, [extaticos], "um que está sujeito a êxtases").
+entry(ectasia, n, [ectasias], "o alongamento de uma sílaba geralmente curtaECTATIC adj").
+entrada(ectima, n, [ectimatos], "uma doença viral").
+entrada(ectoderma, n, [ectodermas], "a camada germinativa mais externa de um embrião").
+entry(ectogene, n, [ectogenes], "um gene envolvido no desenvolvimento de um embrião em condições artificiais").
+entrada(ectomere, n, [ectomeres], "uma célula que se desenvolve em ectoderma").
+entry(ectopia, n, [ectopias], "deslocamento congênito de partes ou órgãosECTÓPICO adj").
+entrada(ectosarc, n, [ectosarcs], "a camada mais externa de protoplasma de certos protozoários").
+entrada(ectozoan, n, [ectozoans], "ectozoon").
+entry(ectozoon, n, [ectozoa], "um parasita no corpo de um animal").
+entrada(ectype, n, [ectypes], "uma adj cópiaECTIPAL").
+entrada(ecu, n, [ecus], "uma antiga moeda francesa").
+entrada(ecumene, n, [ecumenes], "uma área habitada").
+entrada(ecumenic, adj, [], "universal").
+entrada(eczema, n, [eczemas], "uma doença de pele").
+entrada(ed, n, [eds], "educação").
+entrada(devorador, adj, [], "voraz").
+entry(edacidade, n, [edacidades], "gula").
+entry(edamame, n, [edamames], "soja verde em vagem").
+entrada(edáfico, adj, [], "relativo ao solo").
+entrada(eddo, n, [eddoes], "uma planta tropical").
+entrada(redemoinho, v, [redemoinhado, redemoinhando, redemoinhas], "mover-se contra a corrente principal").
+entrada(edema, n, [edemas], "ou EDEMATA uma acumulação excessiva de fluido seroso").
+entrada(edenic, adj, [], "relativo a um paraíso").
+entrada(edentado, n, [edentados], "um mamífero sem dentes").
+entrada(aresta, v, [arestado,arestando,arestas], "prover com uma aresta uma linha de limite ou divisão").
+entry(edgeless, adj, [], "sem borda").
+entrada(edger, n, [edgers], "uma ferramenta usada para aparar a borda de um gramado").
+entrada(edgeways, adv, [], "edgewise").
+entrada(edgewise, adv, [], "de lado").
+entrada(edgier, comparativo, [], "de edgy").
+entrada(edgiest, superlativo, [], "de edgy").
+entrada(edgily, adv, [], "de forma tensa").
+entry(agitação, n, [agitações], "o estado de estar agitado").
+entrada(beiral, n, [beirais], "algo que forma ou serve como uma borda").
+entry(edgy, adj, [], "MAIS NERVOSO MAIS NERVOSOtenso nervoso ou irritadiço").
+entrada(edh, n, [edhs], "uma letra do Velho Inglês").
+entrada(comestível, n, [comestíveis], "algo adequado para ser comido").
+entrada(edito, n, [editos], "uma ordem autoritária com força de leiEDITAL adj").
+entry(edifício, n, [edifícios], "um edifício").
+entrada(edificador, n, [edificadores], "aquele que edifica").
+entry(edificar, v, [edificado,edificando,edifica], "iluminar").
+entrada(edil, n, [edís], "edil").
+entrada(editar, v, [editado, editando, edita], "corrigir e preparar para publicaçãoEDITÁVEL adj").
+entrada(edicao, n, [edicoes], "uma série particular de material impresso").
+entrada(editor, n, [editores], "aquele que edita").
+entrada(editora, n, [editoras], "uma editora feminina").
+entry(editora, n, [editoras], "ou EDITRICES uma editora feminina").
+entrada(educável, n, [educáveis], "uma pessoa com leve retardo").
+entry(educar, v, [educou,educando,educa], "ensinar").
+entry(educador, n, [educadores], "alguém que educa").
+entry(educe, v, [educed,educing,educes], "para extrair ou revelarEDUCÍVEL adj").
+entrada(educao, n, [educacoes], "algo educido").
+entrada(eduction, n, [eductions], "o ato de educarEDUTIVO adj").
+entrada(edutor, n, [edutores], "aquele que educa").
+entrada(eeew, interj, [], "usado para expressar desgosto").
+entry(eejit, n, [eejits], "um idiota").
+entrada(eek, interj, [], "usado para expressar susto repentino").
+entrada(enguia, n, [enguias], "um peixe parecido com cobra").
+entry(erva_marinha, n, [ervas_marinhas], "uma planta aquática").
+entrada(eelier, comparativo, [], "de enguia").
+entrada(eeliest, superlativo, [], "de eely").
+entrada(sempre como enguia, adj, [], "semelhante a uma enguia").
+entrada(espécie_de_peixe, n, [espécies_de_peixe], "um peixe marinho").
+entrada(verme-da-anguia, n, [vermes-da-anguia], "um pequeno nematoide").
+entry(eely, adj, [], "EELIER EELIESTsimilar a uma enguia").
+entrada(eensy, adj, [], "EENSIER EENSIESTtiny").
+entrada(sinistro, adj, [], "MAIS SINISTRO MAIS SINITROestranhoSINISTRAMENTE adv").
+entry(estranheza, n, [estranhezas], "o estado de ser estranho").
+entrada(sombrio, adj, [], "MAIS_SOMBRIO_MAIS_SOMBRÍSSIMOsombrio").
+entrada(eew, interj, [], "eeew").
+entry(ef, n, [efs], "a letra F").
+entrada(ef, n, [efs], "ef").
+entrada(inexprimível, adj, [], "capaz de ser proferido ou expresso").
+entrada(efface, v, [effaced,effacing,effaces], "apagar ou apagar").
+entrada(apagar, n, [apagadores], "um que apaga").
+entrada(efeito, v, [efeito,efeituando,efeitos], "causar").
+entrada(efetor, n, [efetores], "efetor").
+entrada(efetor, n, [efetores], "um órgão corporal que responde a um impulso nervoso").
+entrada(effendi, n, [effendis], "um título turco de respeito").
+entrada(eferente, n, [eferentes], "um órgão ou parte que transmite impulsos nervosos a um efetor").
+entrada(fezes, adj, [], "exausto de vigor ou energiaFEZESMENTE adv").
+entrada(eficácia, n, [eficácias], "efetividade").
+entry(effigial, adj, [], "semelhante a uma efígie").
+entry(efígie, n, [efígies], "uma semelhança ou representação").
+entrada(efluente, n, [efluentes], "um fluxo de saída").
+entrada(efluvia, npl, [], "subprodutos na forma de resíduos").
+entry(effluxo, n, [effluxos], "um escoamento").
+entrada(esforço, n, [esforços], "um esforço deliberado").
+entrada(resplandecer, v, [resplandeceu,resplandecendo,resplandece], "brilhar").
+entrada(effuse, v, [effused,effusing,effuses], "derramar").
+entrada(efusão, n, [efusões], "uma manifestação de emoção").
+entrada(efusivo, adj, [], "derramando").
+entrada(eft, n, [efts], "um tritão").
+entrada(eftsoon, adv, [], "em breve depois").
+entrada(eftsoons, adv, [], "eftsoon").
+entry(egad, interj, [], "usado como um juramento leve").
+entrada(egads, interj, [], "egad").
+entry(egal, adj, [], "igual").
+entry(egalité, n, [égalités], "igualdade").
+entrada(eger, n, [egers], "eagre").
+entry(egest, v, [egested,egesting,egests], "expelir do corpo").
+entrada(egesta, npl, [], "matéria egestada").
+entrada(egestão, n, [egestões], "o ato de egestarEGESTIVA adj").
+entry(egg, v, [egged, egging, eggs], "incitar ou instigar").
+entrada(eggar, n, [eggars], "egger").
+entrada(eggcup, n, [ovos], "uma xícara da qual um ovo é comido").
+entrada(egger, n, [eggers], "um tipo de mariposa").
+entrada(eggfruit, n, [eggfruits], "uma árvore tropical").
+entrada(egghead, n, [eggheads], "um intelectual").
+entrada(ovento, comparativo, [], "de ovado").
+entrada(maior_ovo, superlativo, [], "de ovoso").
+entry(eggless, adj, [], "sem ovos").
+entrada(gemada, n, [gemadas], "uma bebida").
+entrada(berinjela, n, [berinjelas], "uma erva perene que produz fruto comestível").
+entrada(casca_de_ovo, n, [cascas_de_ovo], "o exterior duro do ovo de um pássaro").
+entrada(eggy, adj, [], "EGGIER EGGIESTtasting or smelling of egg").
+entrada(egis, n, [egises], "aegis").
+entry(eglatere, n, [eglateres], "uma rosa selvagem").
+entry(eglomise, adj, [], "feito de vidro com uma imagem pintada na parte de trás").
+entry(ego, n, [egos], "o eu consciente").
+entry(egoísmo, n, [egoísmos], "devoção extrema ao interesse próprio").
+entrada(egoista, n, [egoistas], "aquele que pratica egoísmoEGOÍSTICO adj").
+entrada(egoless, adj, [], "não caracterizado por egoísmo").
+entrada(egomania, n, [egomanias], "egotismo extremo").
+entrada(egotismo, n, [egotismos], "vaidade").
+entry(egotist, n, [egotistas], "uma pessoa vaidosa").
+entry(egotize, v, [egotized,egotizing,egotizes], "falar e pensar em si mesmo excessivamente").
+entrada(saída, v, [saiu, saindo, sai], "sair").
+entry(garça, n, [garças], "um pássaro pernaltas").
+entrada(egípcia, n, [egípcios], "um tipo de letra com serifa quadrada").
+entrada(eh, interj, [], "usado para expressar dúvida ou surpresa").
+entrada(eide, pl, [], "de eidos").
+entrada(eider, n, [eiders], "um grande pato-marinho").
+entrada(eidético, n, [eidéticos], "uma pessoa capaz de recordar imagens vívidas").
+entrada(eidolic, adj, [], "relativo a um eidolon").
+entry(eidolon, n, [eidolons], "ou EIDOLA uma aparição").
+entrada(eidos, n, [eide], "uma essência").
+entrada(oito, n, [oitos], "um número").
+entrada(dezoito, n, [dezoitos], "um número").
+entrada(oitavo, n, [oitavos], "uma de oito partes iguais").
+entrada(oitavamente, adv, [], "em oitavo lugar").
+entrada(octavo, n, [octavos], "eightvo").
+entrada(oitenta, n, [oitentas], "um número").
+entrada(eikon, n, [eikons], "ou EIKONESícone").
+entrada(einkorn, n, [einkorns], "uma variedade de trigo").
+entry(einstein, n, [einsteins], "uma pessoa muito inteligente").
+entry(eirenic, adj, [], "irenico").
+entrada(eirenics, npl, [], "irenics").
+entry(eiswein, n, [eisweins], "um vinho doce alemão").
+entry(qualquer, adj, [], "sendo um ou outro").
+entrada(ejetar, v, [ejetou, ejetando, ejeta], "lançar para fora com força").
+entrada(ejecta, pln, [], "material ejetado").
+entrada(ejeção, n, [ejeções], "o ato de ejetar").
+entrada(explosiva, n, [explosivas], "um som produzido com ar comprimido acima da glote fechada").
+entrada(ejetor, n, [ejetores], "aquele que ejeta").
+entrada(ejido, n, [ejidos], "um pedaço de terra cultivado comunitariamente no México").
+entrada(eke, v, [eked,eking,ekes], "suplementar com grande esforço").
+entrada(ekistics, npl, [], "uma ciência que lida com habitats humanosEKISTIC adj").
+entrada(ekka, n, [ekkas], "um veículo de um cavalo da Índia").
+entrada(ekpwele, n, [ekpweles], "uma antiga unidade monetária da Guiné Equatorial").
+entry(ektexine, n, [ektexinas], "uma camada externa da exina").
+entrada(ekuele, n, [ekuele], "ekpwele").
+entrada(el, n, [els], "um trem ou ferrovia elevada").
+entrada(elain, n, [elains], "oleina").
+entrada(elan, n, [elans], "entusiasmo").
+entrada(eland, n, [elandes], "um antílope grande").
+entry(elafino, adj, [], "relativo a um gênero de cervos").
+entrada(elapídeo, n, [elapídeos], "uma cobra venenosa").
+entrada(elapine, adj, [], "relativo a uma família de cobras").
+entrada(passar, v, [passado, passando, passa], "para passar").
+entrada(elastano, n, [elastanos], "spandex").
+entry(elastase, n, [elastases], "uma enzima").
+entrada(elástico, n, [elásticos], "um material elástico").
+entrada(elastina, n, [elastinas], "uma proteína corporal").
+entrada(alegrar, v, [alegre,alegrando,alegras], "para elevar o ânimoALEGRADAMENTE adv").
+entrada(elater, n, [elaters], "um besouro de clique").
+entrada(elaterid, n, [elaterids], "um elater").
+entrada(elaterin, n, [elaterinas], "um composto químico").
+entrada(exaltando, presente, [], "particípio de exaltar").
+entrada(euforia, n, [euforias], "uma sensação de grande alegria").
+entrada(elative, n, [elatives], "uma forma adjetival em algumas línguas").
+entry(cotovelo, v, [cotovelou,cotovelando,cotovela], "empurrar").
+entry(cotovelada, n, [cotoveladas], "o ato de fazer uma falta em um adversário com o cotovelo, uma articulação do braço").
+entrada(eld, n, [elds], "velhice").
+entry(elder, n, [elders], "uma pessoa mais velha").
+entrada(senhor, n, [senhores], "uma pessoa bastante velha").
+entrada(mais_velho, n, [mais_velhos], "o mais velho de três ou mais").
+entrada(eldorado, n, [eldorados], "um lugar de grande abundância").
+entrada(elderesa, n, [elderesas], "uma anciã uma oficial da igreja").
+entry(eldrich, adj, [], "sinistro").
+entrada(eldritch, adj, [], "estranho").
+entry(eleger, v, [eleito, elegendo, elege], "selecionar por voto para um cargo").
+entrada(eleito, n, [eleitos], "uma pessoa que foi eleita").
+entrada(eleição, n, [eleições], "o ato de eleger").
+entrada(opcional, n, [opcionais], "um curso de estudo opcional").
+entrada(eleitor, n, [eleitores], "aquele que elege").
+entrada(eletreto, n, [eletretos], "um tipo de não condutor").
+entrada(eletrico, n, [eletricos], "algo operado por eletricidade").
+entrada(electro, v, [electroed,electroing,electros], "fazer uma cópia metálica de uma página de tipo para impressão").
+entrada(eletron, n, [eletrons], "uma partícula elementar").
+entrada(electrum, n, [electrums], "uma liga de ouro e prata").
+entrada(beleza, n, [belezas], "opulência de bom gosto").
+entry(elegância, n, [elegâncias], "elegância").
+entrada(elegante, adj, [], "opulentamente elegante").
+entrada(elegiaco, n, [elegiaco], "um tipo de verso").
+entrada(elegias, pl, [], "de elegia").
+entrada(elegise, v, [elegised,elegising,elegises], "elegizar").
+entry(elegista, n, [elegistas], "aquele que escreve elegias").
+entrada(eleito, n, [eleitos], "um tipo de mandado judicial").
+entry(elegize, v, [elegized,elegizing,elegizes], "escrever uma elegia").
+entrada(elegia, n, [elegias], "um poema triste para alguém que está morto").
+entrada(elemento, n, [elementos], "uma substância que não pode ser separada em substâncias mais simples por meios químicos").
+entrada(elemi, n, [elemis], "uma resina perfumada").
+entry(elenchus, n, [elenchi], "uma refutação lógicaELÊNQUICO ELÊNCTICO adj").
+entrada(elefante, n, [elefantes], "um grande mamífero").
+entrada(elevar, v, [elevado,elevando,eleva], "erguer").
+entrada(elevado, n, [elevados], "um caminho de ferro que opera em uma estrutura elevada").
+entrada(elevador, n, [elevadores], "um que eleva").
+entrada(onze, n, [onzes], "um número").
+entrada(décimo_primeiro, n, [décimos_primeiros], "uma de onze partes iguais").
+entrada(elevon, n, [elevons], "um tipo de superfície de controle de avião").
+entrada(duende, n, [duendes], "uma fada pequena frequentemente travessaDUENDELÍKE adj").
+entry(elfin, n, [elfins], "um elfo").
+entrada(elfico, adj, [], "semelhante a um elfoELFISHLY adv").
+entrada(tranca, n, [trancas], "uma mecha de cabelo emaranhado").
+entry(elhi, adj, [], "relativo a graus escolares de 1 a 12").
+entrada(elicit, v, [elicited,eliciting,elicits], "educir").
+entrada(elicitor, n, [elicitors], "aquele que elicia").
+entrada(elide, v, [elided,eliding,elides], "omitirELIDÍVEL adj").
+entrada(eligível, n, [elegíveis], "um que está qualificado para ser escolhido").
+entrada(eligivelmente, adv, [], "de maneira qualificada").
+entry(elint, n, [elints], "a coleta de inteligência por dispositivos eletrônicos").
+entry(elisão, n, [elisões], "o ato de elidir").
+entrada(elite, n, [elites], "um grupo socialmente superior").
+entrada(elitismo, n, [elitismos], "crença no governo por uma elite").
+entrada(elitista, n, [elitistas], "um defensor do elitismo").
+entrada(elixir, n, [elixires], "uma bebida medicinal").
+entrada(alce, n, [alces], "um grande cervo").
+entrada(caodeelque, n, [caesdeelque], "um cachorro de caça").
+entrada(ell, n, [ells], "a letra L").
+entry(elipse, n, [elipses], "um tipo de curva plana").
+entrada(elipse, n, [elipses], "uma omissão de uma palavra ou palavras em uma frase").
+entry(elíptico, adj, [], "com a forma de uma elipse").
+entrada(olmo, n, [olmos], "uma árvore caducifólia").
+entrada(olmo, n, [olmos], "a madeira de um olmo").
+registro(elmy, adj, [], "ABUNDANTE EM OLMOS").
+entrada(elódea, n, [elódeas], "uma erva aquática").
+entrada(eloign, v, [eloigned, eloigning, eloigns], "remover para um lugar distante").
+entrada(eloigner, n, [eloigners], "aquele que afasta").
+entrada(eloin, v, [eloined, eloining, eloins], "afastar").
+entry(eloiner, n, [eloiners], "aquele que afasta").
+entrada(alongar, v, [alongado,alongando,alonga], "para alongar").
+entrada(fugir, v, [fugiu,fugindo,foge], "fugir secretamente para se casar").
+entrada(fujão, n, [fujões], "aquele que foge").
+entry(eloquente, adj, [], "fluente e convincente na fala").
+entrada(senão, adv, [], "num lugar, tempo ou maneira diferente").
+entrada(eluant, n, [eluants], "um solvente").
+entrada(eluato, n, [eluatos], "o material obtido por eluição").
+entrada(elude, v, [eluded,eluding,eludes], "evadir").
+entrada(eluder, n, [eluders], "aquele que ilude").
+entrada(eluente, n, [eluentes], "eluente").
+entrada(elusao, n, [elusoes], "o ato de eludir").
+entry(elusive, adj, [], "tendente a escapar").
+entrada(elusory, adj, [], "elusivo").
+entrada(eluir, v, [eluiu,eluindo,elui], "remover através de um solvente").
+entrada(eluicao, n, [eluicoes], "o ato de eluir").
+entrada(eluvia, a, [], "pl de elúvio").
+entrada(eluvial, adj, [], "relativo a um elúvio").
+entrada(eluviate, v, [eluviated,eluviating,eluviates], "passar por uma transferência de materiais no solo").
+entrada(eluvium, n, [eluviums], "ou ELUVIA um depósito de solo").
+entrada(élfico, adj, [], "semelhante a um elfo").
+entrada(elver, n, [elvers], "uma enguia jovem").
+entrada(elves, pl, [], "de elfo").
+entrada(elfico, adj, [], "elficamente adv").
+entrada(elysian, adj, [], "delightoso").
+entrada(élitron, n, [élitros], "uma asa anterior endurecida de certos insetosÉLITROID ÉLITRO adj").
+entrada(elytrum, n, [elytra], "élitro").
+entry(m, n, [ems], "a letra M").
+entry(emaciate, v, [emaciado,emaciando,emacia], "tornar magro").
+entrada(email, v, [enviou_email, enviando_email, envia_emails], "enviar uma mensagem por computador").
+entrada(emanante, adj, [], "proveniente de uma fonte").
+entrada(emanar, v, [emanou,emanando,emana], "emitir").
+entry(emissor, n, [emissores], "aquele que emana").
+entry(embalsamar, v, [embalsamou, embalsamando, embalsama], "tratar para proteger da decomposição").
+entry(embaçador, n, [embaçadores], "aquele que embalsama").
+entry(embank, v, [embanked,embanking,embanks], "confinar ou proteger com uma estrutura elevada").
+entry(embar, v, [embarred,embarring,embars], "prender").
+entrada(embargo, v, [embargado,embargando,embargos], "restringir o comércio por ordem governamental").
+entrada(embarcar, v, [embarcou,embarcando,embarca], "começar").
+entry(embaixada, n, [embaixadas], "a sede de um embaixador").
+entrada(embate, v, [embatido, embatendo, embatem], "preparar para a batalha").
+entry(embay, v, [embayed,embaying,embays], "encerrar numa baía").
+entrada(embed, v, [embedded, embedding, embeds], "fixar firmemente em uma massa circundante").
+entrada(brasa, n, [brasas], "um fragmento incandescente de um fogo").
+entry(desfalcar, v, [desfalcou,desfalcando,desfalca], "apropriar-se fraudulentamente para uso próprio").
+entry(amargar, v, [amargurado,amargando,amarga], "tornar amargo").
+entrada(emblaze, v, [emblazed, emblazing, emblazes], "incendiar").
+entrada(emblazer, n, [emblazers], "aquele que embeleza").
+entrada(emblazon, v, [emblazoned,emblazoning,emblazons], "decorar com cores brilhantes").
+entrada(emblem, v, [emblemed, embleming, emblems], "representar com um emblema um símbolo gráfico").
+entry(embodier, n, [materializadores], "um que materializa").
+entrada(incorporar, v, [incorporou, incorporando, incorpora], "dar forma a algo").
+entry(incutir_coragem, v, [incutiucorajado,incutindo_coragem,incute_coragem], "incutir coragem").
+entrada(êmbolos, pl, [], "de êmbolo").
+entry(embolias, pl, [], "de embolia").
+entrada(embolia, n, [embolias], "a obstrução de um vaso sanguíneo por um êmboloEMBÓLICO adj").
+entry(êmbolo, n, [êmbolos], "uma partícula anormal circulando no sangue").
+entry(embolia, n, [embolias], "uma fase do crescimento embrionário").
+entry(emborder, v, [embordered,embordering,emborders], "fornecer uma borda").
+entry(embosk, v, [embosked, embosking, embosks], "esconder com folhagem").
+entrada(embosom, v, [embosomed, embosoming, embosoms], "abraçar").
+entrada(emboss, v, [embossed, embossing, embosses], "decorar com desenhos em relevo").
+entry(relevo, n, [relevos], "aquele que faz relevo").
+entry(embow, v, [embowed,embowing,embows], "arquear").
+entrada(eviscerar, v, [eviscerado,eviscerando,eviscera], "ou EVISCERADO EVISCERANDO EVISCERAse disembowels").
+entry(embower, v, [embowered,embowering,embowers], "cercar com folhagem").
+entry(abraçar, v, [abraçou,abraçando,abraça], "abraçar").
+entry(abracador, n, [abracadores], "aquele que abraça").
+entrada(envolver, v, [envolvido,enredando,enreda], "envolver em conflito").
+entrada(embrown, v, [embrowned, embrowning, embrowns], "tornar marrom").
+entry(embrue, v, [embrued,embruing,embrues], "imbruir").
+entry(embrute, v, [embruted, embruting, embrutes], "embrutecer").
+entrada(embrião, n, [embriões], "um organismo em seus estágios iniciais de desenvolvimento").
+entrada(embriode, n, [embriodes], "uma massa de tecido que se assemelha a um embrião").
+entrada(embriao, n, [embrioes], "um embrião").
+entrada(mestre_de_cerimônias, v, [mestre_de_cerimônias, mestre_de_cerimônias, mestres_de_cerimônias], "servir como mestre de cerimônias").
+entrada(travessão, n, [travessões], "um sinal na escrita que indica uma pausa no pensamento ou na estrutura").
+entrada(eme, n, [emes], "um tio").
+entrada(emeer, n, [emeers], "emir").
+entry(emirado, n, [emirados], "emirado").
+entry(corrigir, v, [corrigido,corrigindo,corrige], "corrigir").
+entry(emendar, v, [emendou, emendando, emenda], "emendar").
+entrada(emender, n, [emenders], "aquele que emenda").
+entrada(esmeralda, n, [esmeraldas], "uma gema verde").
+entrada(emerg, n, [emergs], "a seção de um hospital que lida com emergências").
+entry(emerge, v, [emerged,emerging,emerges], "surgir").
+entrada(emergente, n, [emergentes], "um tipo de planta aquática").
+entrada(emeries, pl, [], "de esmeril").
+entry(emerita, n, [emeritas], "ou EMERITAEuma mulher aposentada que mantém um título honorário").
+entrada(emeritus, n, [emeriti], "uma pessoa aposentada que mantém um título honorário").
+entrada(emerod, n, [emerods], "um tumor").
+entry(emeroide, n, [emeroides], "emeroide").
+entry(emerso, adj, [], "de pé fora da água").
+entrada(emersion, n, [emersions], "o ato de emergir").
+entrada(emery, n, [emeries], "um coríndon granular").
+entry(emese, n, [emeses], "o ato de vomitar").
+entrada(emético, n, [eméticos], "uma substância que induz o vômito").
+entrada(emetin, n, [emetinas], "emetina").
+entrada(emetina, n, [emetinas], "um alcaloide").
+entrada(emeu, n, [emeus], "emu").
+entrada(emeute, n, [emeutes], "um tumulto").
+entrada(emics, npl, [], "um tipo de análise linguísticaEMIC adj").
+entrada(emigrante, n, [emigrantes], "aquele que emigra").
+entrada(emigrar, v, [emigrou,emigrando,emigra], "deixar um país ou região para se estabelecer em outro").
+entrada(emigre, n, [emigres], "um emigrante").
+entry(eminência, n, [eminências], "alta posição ou status").
+entrada(emininência, n, [eminências], "eminência").
+entrada(eminent, adj, [], "de alta posição ou categoria").
+entrada(emir, n, [emires], "um chefe ou príncipe árabe").
+entrada(emirado, n, [emirados], "o posto de um emir").
+entrada(emissário, n, [emissários], "uma pessoa enviada em uma missão").
+entrada(emissao, n, [emissoes], "o ato de emitirEMISSIVO adj").
+entrada(emitir, v, [emitido,emitindo,emite], "enviar para frente").
+entrada(emissor, n, [emissores], "aquele que emite").
+entrada(emmer, n, [emmers], "um tipo de trigo").
+entrada(emmet, n, [emmetes], "uma formiga").
+entry(emo, n, [emos], "um estilo de música rock com letras emocionais").
+entrada(emocore, n, [emocores], "emo").
+entrada(emodina, n, [emodinas], "um composto químico").
+entrada(emote, v, [emoted, emoting, emotes], "expressar emoção de maneira exagerada").
+entrada(emotor, n, [emotores], "aquele que emociona").
+entry(emoticon, n, [emoticons], "um grupo de caracteres de teclado usado para sugerir uma expressão facial ou uma emoção").
+entrada(emocao, n, [emocoes], "um estado afetivo de consciência").
+entrada(emotivo, adj, [], "relacionado com a emoção").
+entrada(empale, v, [empalado, empalando, empala], "empalar").
+entrada(empaler, n, [empalers], "aquele que empala").
+entrada(empanada, n, [empanadas], "um pastel recheado").
+entrada(empanelar, v, [empanelado, empanelando, empanela], "ou EMPANELADO EMPANELANDO EMPANELA para incorporar").
+entrada(empatia, n, [empatia], "identificação imaginativa com os pensamentos e sentimentos de outra pessoaEMPATÍCO adj").
+entrada(imperador, n, [imperadores], "o governante de um império").
+entrada(imperio, n, [imperios], "domínio absoluto").
+entrada(enfase, n, [enfases], "significado especial atribuído a algo").
+entry(enfático, adj, [], "fortemente expressivo").
+entrada(império, n, [impérios], "uma unidade política importante").
+entry(empírico, n, [empíricos], "aquele que depende da experiência prática").
+entrada(colocar, v, [colocado,colocando,coloca], "posicionar").
+entrada(emplane, v, [emplaned, emplaning, emplanes], "embarcar").
+entrada(empregar, v, [empregado, empregando, emprega], "contratar").
+entry(empregado, n, [empregados], "empregado").
+entrada(funcionario, n, [funcionarios], "uma pessoa que está empregada").
+entrada(empregador, n, [empregadores], "aquele que emprega").
+entrada(empoisonar, v, [empoisonado,empoisonando,empoisonam], "amargar").
+entrada(emporium, n, [emporiums], "ou EMPORIA um centro de comércio ou mercado").
+entrada(empoderar, v, [empoderado,empoderando,empodera], "dar poder legal a").
+entrada(imperatriz, n, [imperatrizes], "uma governante feminina de um império").
+entry(emprise, n, [emprises], "uma empreitada aventureira").
+entrada(emprize, n, [emprizes], "emprise").
+entry(esvaziou, passado, [], "tempo de esvaziar").
+entrada(esvaziador, n, [esvaziadores], "quem esvazia").
+entrada(esvazia, presente, [], "3ª pessoa singular de esvaziar").
+entry(mais_vazio, superlativo, [], "de vazio").
+entrada(vaziamente, adv, [], "de maneira vazia").
+entrada(vazios, npl, [], "vazios").
+entry(emptins, npl, [], "um fermento líquido").
+entrada(vazio, adj, [], "MAIS VAZIO MAIS VAZIOcontendo nada").
+entrada(vazio, v, [esvaziado,esvaziando,esvazia], "remover o conteúdo de").
+entrada(empurple, v, [empurpled,empurpling,empurples], "tingir de roxo").
+entrada(empiema, n, [empiemas], "ou EMPIEMATA uma coleção de pus em uma cavidade corporal EMPIÊMICO adj").
+entrada(empyreal, adj, [], "relacionado ao céu").
+entrada(empíreo, n, [empíreos], "o mais alto paraíso").
+entrada(emu, n, [emus], "uma ave grande que não voa").
+entrada(emular, v, [emulado,emulando,emula], "tentar igualar ou superar").
+entrada(emulador, n, [emuladores], "aquele que emula").
+entry(emulous, adj, [], "ansioso para igualar ou superar outro").
+entrada(emulsificar, v, [emulsificado, emulsificando, emulsifica], "transformar em uma emulsão").
+entrada(emulsão, n, [emulsões], "um tipo de mistura líquidaEMULSIVO adj").
+entrada(emulsoide, n, [emulsoides], "um líquido disperso em outro líquido").
+entrada(emyd, n, [emyds], "uma tartaruga de água doce").
+entrada(emyde, n, [emydes], "emyd").
+entry(pt, n, [ens], "a letra N").
+entrada(enable, v, [habilitado, habilitando, habilita], "tornar possível").
+entrada(habilitador, n, [habilitadores], "aquele que habilita").
+entrada(promulgar, v, [promulgado, promulgando, promulga], "tornar em lei").
+entrada(acao_de_promulgacao, n, [acoes_de_promulgacao], "a acao de promulgar").
+entrada(enactive, adj, [], "ter o poder de promulgar").
+entrada(enactor, n, [enactors], "aquele que promulga").
+entry(enactory, adj, [], "relativo à promulgação de lei").
+entrada(esmalte, v, [esmaltado,esmaltamento,esmaltar], "ou ESMALTADO ESMALTAMENTO ESMALTAR para cobrir com uma superfície dura e brilhante").
+entrada(esmaltador, n, [esmaltadores], "aquele que esmalta").
+entry(enamina, n, [enaminas], "um tipo de amina").
+entrada(enamor, v, [enamored, enamoring, enamors], "inspirar com amor").
+entrada(enamour, v, [enamoured,enamouring,enamours], "encantar").
+entrada(enate, n, [enates], "um parente do lado maternoENÁTICO adj").
+entrada(enation, n, [enations], "uma excrescência da superfície de um órgão").
+entrada(encaenia, npl, [], "cerimônias universitárias anuais").
+entry(engaiolar, v, [engaiolado,engaiolando,engaiola], "confinar em uma gaiola").
+entry(acampar, v, [acampou,acampando,acampa], "montar um acampamento").
+entry(encase, v, [encased,encasing,encases], "encerrar em um estojo").
+entrada(encash, v, [encashed,encashing,encashes], "converter em dinheiro").
+entrada(parapeito, n, [parapeitos], "fortificação envolvente").
+entrada(encadear, v, [encadeado, encadeando, encadeia], "prender com correntes").
+entrada(encantar, v, [encantado,encantando,encanta], "encantar").
+entrada(engastar, v, [engastou, engastando, engasta], "colocar em um suporte ornamental").
+entrada(enchaser, n, [enchasers], "aquele que incrusta").
+entry(enchoric, adj, [], "pertencente a um determinado país").
+entrada(encina, n, [encinas], "um carvalho pereneENCINAL adj").
+entrada(cifrar, v, [cifrado,cifrando,cifra], "escrever em caracteres de significado oculto").
+entry(circundar, v, [circundou,circundando,circunda], "formar um círculo ao redor").
+entrada(enclasp, v, [enclasped,enclasping,enclasps], "abraçar").
+entry(enclave, v, [enclaved,enclaving,enclaves], "fechar dentro de um território estrangeiro").
+entrada(enclítico, n, [enclíticos], "uma palavra pronunciada como parte da palavra precedente").
+entrada(enclose, v, [enclosed,enclosing,encloses], "fechar por todos os lados").
+entrada(encloser, n, [enclosers], "aquele que encerra").
+entry(codificar, v, [codificado,codificação,codifica], "colocar em código").
+entrada(codificador, n, [codificadores], "aquele que codifica").
+entrada(encomio, n, [encomios], "ou ENCOMIUm um elogio").
+entry(encore, v, [encored,encoring,encores], "pedir a reaparição de um artista").
+entrada(invadir, v, [invadiu, invadindo, invade], "avançar além dos limites adequados").
+entry(incrustar, v, [incrustado,incrustando,incrusta], "cobrir com uma crosta").
+entrada(encrypt, v, [encrypted,encrypting,encrypts], "cifrar").
+entry(encumber, v, [encumbered,encumbering,encumbers], "atrapalhar na ação ou movimento").
+entrada(encíclica, n, [encíclicas], "uma carta endereçada pelo papa aos bispos do mundo").
+entrada(encyst, v, [encistou, encistando, encista], "encapsular em um cisto").
+entrada(fim, v, [terminado,terminando,termina], "terminar").
+entrada(endamage, v, [endamaged,endamaging,endamages], "danificar").
+entrada(endameba, n, [endamebas], "ou ENDAMEBAEa ameba parasita").
+entrada(perigo, v, [perigoso,perigonando,perigos], "para ameaçar").
+entrada(endarch, adj, [], "formado do centro para fora").
+entrada(endarquia, n, [endarquias], "a condição de ser endarca").
+entrada(travessão, n, [travessões], "um sinal na escrita usado para conectar elementos de um composto").
+entrada(endbrain, n, [endbrains], "uma parte do cérebro").
+entrada(endcap, n, [endcaps], "uma exibição de produtos no final de um corredor em uma loja").
+entrada(afagar, v, [afagou, afagando, afaga], "tornar querido ou amado").
+entrada(empreendimento, v, [empreendeu,empreendendo,empreendimentos], "fazer um esforço").
+entrada(endêmico, adj, [], "peculiar a um país ou povo").
+entrada(endêmico, n, [endêmicos], "uma doença endêmica").
+entrada(endemismo, n, [endemismos], "o estado de ser endêmico").
+entrada(ender, n, [terminadores], "aquele que termina algo").
+entrada(endérmico, adj, [], "atuando por absorção através da pele").
+entrada(endexina, n, [endexinas], "uma camada interna da exina").
+entrada(fimdejogo, n, [fimdejosgos], "a última fase de um jogo de xadrez").
+entrada(fim, n, [fins], "uma terminação").
+entry(endite, v, [endited,enditing,endites], "inditar").
+entrada(endivia, n, [endívias], "uma erva cultivada como planta de salada").
+entrada(folhafinal, n, [folhasfinais], "ou FOLHASFINAIS um guardachuva").
+entrada(endless, adj, [], "enduring forever").
+entrada(endlong, adv, [], "ao comprido").
+entrada(extremidade, adj, [], "mais distante").
+entrada(endnote, n, [notas_finais], "uma nota colocada no final do texto").
+entrada(endocarpo, n, [endocarpos], "a camada interna de um pericarpo").
+entrada(endocast, n, [endocasts], "um molde da cavidade craniana").
+entry(endoderme, n, [endodermes], "a camada germinativa mais interna de um embrião").
+entrada(endogamia, n, [endogamias], "casamento dentro de um grupo específico").
+entrada(endogeno, n, [endogenos], "um tipo de planta").
+entrada(endogenia, n, [endogenias], "crescimento de dentro").
+entrada(endopod, n, [endopods], "um ramo de um membro de crustáceo").
+entry(endossar, v, [endossado,endossando,endossa], "assinar o verso de um documento negociável").
+entrada(endossado, n, [endossados], "aquele a quem um documento é transferido por endosso").
+entry(endossante, n, [endossantes], "alguém que endossa").
+entrada(endossador, n, [endossadores], "endossador").
+entrada(endossarco, n, [endossarcos], "uma porção de uma célula").
+entrada(endosmos, n, [endosmoses], "uma forma de osmose").
+entrada(endossomo, n, [endossomos], "uma partícula celular").
+entrada(endostea, npl, [], "membranas ósseas").
+entrada(dotação, v, [dotado,dotando,doações], "prover com algo").
+entry(doador, n, [doadores], "aquele que doa").
+entry(endozoico, adj, [], "envolvendo passagem através de um animal").
+entry(guarda, n, [guardas], "uma folha de papel utilizada na encadernação de livros").
+entrada(endplaca, n, [endplacas], "um tipo de terminal nervoso").
+entrada(endplay, v, [endplayed,endplaying,endplays], "forçar um oponente no bridge a jogar").
+entrada(endpoint, n, [endpoints], "um dos dois pontos que marcam o término de um segmento de linha").
+entrada(endrin, n, [endrins], "um inseticida").
+entrada(endue, v, [endued, enduing, endues], "prover de alguma qualidade ou dom").
+entrada(suportar, v, [suportado,suportando,suporta], "durar").
+entrada(endurer, n, [endurers], "aquele que suporta").
+entrada(enduro, n, [enduros], "uma corrida longa").
+entrada(de_ponta, adv, [], "endwise").
+entrada(endwise, adv, [], "ao comprido").
+entrada(enema, n, [enemas], "ou ENEMATA um líquido injetado no reto").
+entrada(inimigo, n, [inimigos], "aquele que é antagônico em relação a outro").
+entrada(energid, n, [energids], "um núcleo e o corpo de citoplasma com o qual interage").
+entry(energias, pl, [], "de energia").
+entrada(energisar, v, [energizado, energisando, energisa], "energizar").
+entrada(energizar, v, [energizado,energizando,energiza], "dar energia a").
+entry(energia, n, [], "ENERGIAa capacidade para atividade vigorosa").
+entrada(enervar, v, [enervado,enervando,enerva], "privar de força ou vitalidade").
+entrada(enface, v, [enfaced,enfacing,enfaces], "escrever na frente de").
+entry(enfraquecer, v, [enfraquecido,enfraquecendo,enfraquece], "tornar fraco").
+entry(investir_com_uma_herdade_feudal, v, [investido_com_herdade_feudal, investindo_com_herdade_feudal, investe_com_herdade_feudal], "investir com uma herdade feudal").
+entrada(enfetter, v, [enfettered,enfettering,enfetters], "acorrentar").
+entry(enfever, v, [enfevered,enfevering,enfevers], "febrar").
+entrada(enfilade, v, [enfiladed, enfilading, enfilades], "dirigir fogo intenso ao longo do comprimento de").
+entrada(inflamar, v, [inflamou, inflamando, inflama], "inflamar").
+entrada(envolver, v, [envolveu,envelopando,envelopa], "abraçar").
+entry(enfolder, n, [enfolders], "aquele que envolve").
+entry(aplicar, v, [aplicado,aplicando,aplica], "compelir a obediência a").
+entrada(executor, n, [executores], "aquele que impõe").
+entrada(enquadrar, v, [enquadrado,enquadrando,enquadra], "enquadrar").
+entrada(eng, n, [engs], "um símbolo fonético").
+entrada(engage, v, [engaged,engaging,engages], "empregar").
+entry(envolver, n, [envolvedores], "aquele que envolve").
+entry(gerar, v, [gerou, gerando, gera], "criar ou trazer à existência").
+entry(engild, v, [engilded,engilding,engilds], "iluminar").
+entrada(motor, v, [motorizado,motorizando,motores], "equipar com maquinaria").
+entrada(engenheiro, v, [engenhei,engenharia,engenheiros], "realizar ou gerenciar por artifício").
+entrada(maquinário, n, [maquinários], "máquinas").
+entry(funcionando, presente, [], "particípio de funcionar").
+entrada(engenhoso, adj, [], "ingenioso").
+entry(cingir, v, [cingido,cingindo,cinge], "cingir").
+entry(engirdle, v, [engirdled,engirdling,engirdles], "cercar").
+entrada(ingles, v, [inglesou,inglesando,inglesa], "fazer uma bola de bilhar girar em torno de seu eixo vertical").
+entry(devorar, v, [devorado,devorando,devora], "engolir").
+entry(engorge, v, [engorged,engorging,engorges], "encher de sangue").
+entry(enxertar, v, [enxertou,enxertando,enxerta], "enxertar para propagação").
+entry(engrail, v, [engrailed,engrailing,engrails], "ornamentar a borda de com entalhes curvados").
+entrada(engrain, v, [engrained,engraining,engrains], "inculcar").
+entry(engrama, n, [engramas], "a marca duradoura causada por um estímulo sobre o protoplasma").
+entry(engrama, n, [engramas], "engrama").
+entry(gravar, v, [gravou,gravando,grava], "formar por incisão").
+entrada(gravador, n, [gravadores], "aquele que grava").
+entry(engrossar, v, [engrossado,engrossando,engrossa], "ocupar completamente").
+entrada(engulf, v, [engulfed, engulfing, engulfs], "cercar completamente").
+entrada(enhalo, v, [enhaloed,enhaloing,enhalos], "ou ENHALOEcercar com um halo").
+entrada(melhorar, v, [melhorado,melhorando,melhora], "aumentar para um grau mais elevado").
+entrada(amplificador, n, [amplificadores], "aquele que melhora").
+entrada(enigma, n, [enigmas], "ou ENIGMATAalgo que é difícil de entender ou explicar").
+entrada(enisle, v, [enisled, enisling, enisles], "isolar").
+entrada(enjamb, v, [enjambed, enjambing, enjambs], "continuar uma frase de um verso de um poema para o próximo").
+entrada(proibir, v, [proibiu,proibindo,proíbe], "ordenar").
+entrada(ordenador, n, [ordenadores], "aquele que ordena").
+entrada(desfrutar, v, [desfrutado,desfrutando,desfruta], "receber prazer de").
+entrada(apreciador, n, [apreciadores], "um que aprecia").
+entrada(incendiar, v, [incendiado,incendiando,incendeia], "atear fogo").
+entrada(enlace, v, [enlaced,enlacing,enlaces], "amarrar com cadarços").
+entrada(aumentar, v, [aumentado,aumentando,aumenta], "fazer ou tornar-se maior").
+entrada(ampliador, n, [ampliadores], "um dispositivo usado para ampliar fotografias").
+entrada(alistar, v, [alistado, alistando, alista], "engajar-se para o serviço militar").
+entrada(recruta, n, [recrutas], "aquele que é alistado").
+entrada(alistador, n, [alistadores], "aquele que alista").
+entrada(animar, v, [animado,animando,anima], "tornar animado").
+entrada(emaranhar, v, [emaranhado,emaranhando,emaranha], "entrelaçar ou enredar em uma rede").
+entrada(inimizade, n, [inimizades], "hostilidade").
+entrada(ennead, n, [enneads], "um grupo de noveENNEADIC adj").
+entry(enneagon, n, [enneagons], "um nonágono").
+entrada(enobrecer, v, [enobreceu,enobrecendo,enobrece], "tornar nobre").
+entrada(nobilitador, n, [nobilitadores], "aquele que nobilita").
+entry(tédio, n, [tedios], "uma sensação de cansaço e descontentamento").
+entry(ennuye, adj, [], "oprimido pelo tédio").
+entrada(ennuyee, adj, [], "ennuye").
+entrada(enoki, n, [enokis], "um cogumelo pequeno").
+entrada(enol, n, [enóis], "um composto químicoENÓLICO adj").
+entrada(enolase, n, [enolases], "uma enzima").
+entrada(enologia, n, [enologias], "oenologia").
+entrada(enophile, n, [enophiles], "oenophile").
+entry(enorme, adj, [], "enormous").
+entrada(enormidade, n, [enormidades], "grande maldade").
+entrada(enorme, adj, [], "grande").
+entrada(enosis, n, [enosises], "união").
+entrada(suficiente, n, [suficientes], "uma oferta suficiente").
+entrada(anunciar, v, [anunciou,anunciando,anuncia], "anunciar").
+entrada(enow, n, [enows], "suficiente").
+entrada(embarcar, v, [embarcou,embarcando,embarca], "embarcar em um avião").
+entry(perguntar, v, [perguntou,perguntando,pergunta], "inquirir").
+entrada(inquiridor, n, [inquiridores], "aquele que pergunta").
+entrada(consulta, n, [consultas], "inquiry").
+entry(enraivecer, v, [enraivecido,enraivecendo,enraivece], "fazer ficar muito zangado").
+entrada(enrapt, adj, [], "rapt").
+entrada(encantar, v, [encantado, encantando, encanta], "deleitar grandemente").
+entrada(enriquecer, v, [enriquecido,enriquecendo,enriquece], "adicionar elementos desejáveis a").
+entrada(enriquecedor, n, [enriquecedores], "aquele que enriquece").
+entrada(enrobe, v, [enrobed, enrobing, enrobes], "vestir").
+entrada(enrober, n, [enrobers], "aquele que reveste").
+entrada(inscrever, v, [inscrito, inscrevendo, inscreve], "inscrever").
+entry(inscrever, v, [inscreveu,inscrevendo,inscreve], "registrar o nome em um livro de registro ou lista").
+entrada(inscrito, n, [inscritos], "aquele que está inscrito").
+entrada(matriculador, n, [matriculadores], "aquele que matricula").
+entrada(inscrevendo, presente, [], "particípio de inscrever").
+entrada(enraizar, v, [enraizado,enraizando,enraiza], "implantar").
+entrada(ens, n, [entia], "uma entidade").
+entrada(ensaio, n, [ensaios], "um exemplo").
+entry(instalar, v, [instalou,instalando,instala], "acomodar-se de forma segura ou confortável").
+entry(enscroll, v, [enscrolled,enscrolling,enscrolls], "escrever em um pergaminho").
+entrada(conjunto, n, [conjuntos], "um grupo de partes complementares").
+entry(escravizar, v, [escravizou,escravizando,escraviza], "fazer um servo de").
+entrada(ensheath, v, [ensheathed,ensheathing,ensheaths], "encerrar em uma bainha").
+entrada(consagrar, v, [consagrado,consagrando,consagra], "colocar em um santuário").
+entrada(enshroud, v, [enshrouded,enshrouding,enshrouds], "ocultar").
+entrada(ensiforme, adj, [], "em forma de espada").
+entrada(alfere, n, [alfere], "um oficial da marinha").
+entrada(alferes, n, [alferes], "o posto de um alferes").
+entrada(ensilagem, v, [ensilado, ensilando, ensilagens], "ensilar").
+entrada(ensilar, v, [ensilou, ensilando, ensila], "armazenar em um silo").
+entrada(ensky, v, [enskyed, enskying, enskies], "elevar aos céus").
+entry(escravizar, v, [escravizado,escravizando,escraviza], "tornar escravo").
+entrada(escravizador, n, [escravizadores], "aquele que escraviza").
+entrada(enredar, v, [enredado,enredando,enreda], "prender").
+entry(ensnarer, n, [ensnarers], "aquele que enlaça").
+entrada(emaranhar, v, [emaranhou, emaranhando, emaranha], "enredar").
+entrada(ensorcel, v, [ensorcelado,ensorcelando,ensorcela], "encantar").
+entrada(ensoul, v, [ensouled,ensouling,ensouls], "dotar de uma alma").
+entry(ensphere, v, [ensphered,ensphering,enspheres], "encerrar em uma esfera").
+```prolog
+entrada(suceder, v, [sucedeu,sucedendo,sucede], "ocorrer posteriormente ou como resultado").
+```
+entrada(suite, n, [suites], "um quarto que tem um banheiro adjacente a outro quarto").
+entrada(assegurar, v, [assegurado,assegurando,assegura], "tornar certo").
+entry(garantidor, n, [garantidores], "aquele que garante").
+entrada(enswathe, v, [enswathed,enswathing,enswathes], "envolver").
+entrada(entail, v, [entailou, entailando, entails], "restringir a herança para uma linha especificada de herdeiros").
+entrada(entailer, n, [entailers], "um que implica").
+entrada(entameba, n, [entamebas], "ou ENTAMEBAEendameba").
+entrada(emaranhar, v, [emaranhado, emaranhando, emaranha], "enredar").
+entrada(entasia, n, [entasias], "contração espasmódica de um músculo").
+entrada(entasis, n, [entases], "uma ligeira convexidade em uma colunaENTASTICO adj").
+entrada(entellus, n, [entelluses], "um hanuman").
+entrada(entente, n, [ententes], "um acordo entre nações").
+entry(entrar, v, [entrou,entrando,entra], "entrar ou ir para dentro").
+entrada(entera, a, [], "pl de enteron").
+entrada(entérica, adj, [], "enteral").
+entrada(entregador, n, [entregadores], "aquele que entra").
+entrada(entérico, adj, [], "relativo ao intestino").
+entrada(enterics, npl, [], "uma família de bactérias").
+entrada(entero, n, [enterons], "ou ENTERA o canal alimentar").
+entrada(enthalpia, n, [entalpias], "uma medida termodinâmica de calor").
+entrada(enthetic, adj, [], "introduzido de fora").
+entrada(encantar, v, [encantou, encantando, encanta], "encantar").
+entry(encantar, v, [encantado,encantando,encanta], "to charm").
+entry(entronizar, v, [entronizado,entronizando,entroniza], "colocar em um trono").
+entry(entusiasmar, v, [entusiasmado,entusiasmando,entusiasma], "mostrar entusiasmo").
+entrada(entia, pl, [enticers], "one that enticesENTIRE n pl ENTIRESthe whole of somethingENTIRELY adv completelyENTIRETY n pl ENTIRETIEScompletenessENTITLE v ENTITLED ENTITLING ENTITLESto give a title toENTITY n pl ENTITIESsomething that has a real existenceENTODERM n pl ENTODERMSendodermENTOIL v ENTOILED ENTOILING ENTOILSto entrapENTOMB v ENTOMBED ENTOMBING ENTOMBSto place in a tombENTOPIC adj situated in the normal placeENTOZOA pl of entozoonENTOZOAL adj entozoicENTOZOAN n pl ENTOZOANSan entozoic parasiteENTOZOIC adj living within an animalENTOZOON n pl ENTOZOAentozoanENTRAILS npl the internal organsENTRAIN v ENTRAINED ENTRAINING ENTRAINSto board a trainENTRANCE v ENTRANCED ENTRANCING ENTRANCESto fill with delight or wonderENTRANT n pl ENTRANTSone that entersENTRAP v ENTRAPPED ENTRAPPING ENTRAPSto trapENTREAT v ENTREATED ENTREATING ENTREATSto ask for earnestlyENTREATY n pl ENTREATIESan earnest requestENTREE n pl ENTREESthe principal dish of a mealENTRENCH v ENTRENCHED ENTRENCHING ENTRENCHESto establish firmlyENTREPOT n pl ENTREPOTSa warehouseENTRESOL n pl ENTRESOLSa mezzanineENTRIES pl of entryENTROPY n pl ENTROPIESa thermodynamic measure of disorderENTROPIC adjENTRUST v ENTRUSTED ENTRUSTING ENTRUSTSto give over for safekeepingENTRY n pl ENTRIESa place of entranceENTRYWAY n pl ENTRYWAYSa passage serving as an entranceENTWINE v ENTWINED ENTWINING ENTWINESto twine aroundENTWIST v ENTWISTED ENTWISTING ENTWISTSto twist togetherENURE v ENURED ENURING ENURESto inureENURESIS n pl ENURESESinvoluntary urinationENURETIC n pl ENURETICSone who is affected with enuresisENVELOP v ENVELOPED ENVELOPING ENVELOPSto cover completelyENVELOPE n pl ENVELOPESa paper containerENVENOM v ENVENOMED ENVENOMING ENVENOMSto put venom intoENVIABLE adj desirableENVIABLY advENVIED past tense of envyENVIER n pl ENVIERSone that enviesENVIES present 3d person sing of envyENVIOUS adj resentful and desirous of anothers possessions or qualitiesENVIRO n pl ENVIROSan advocate for the preservation of the natural environmentENVIRON v ENVIRONED ENVIRONING ENVIRONSto encircleENVISAGE v ENVISAGED ENVISAGING ENVISAGESto form a mental image ofENVISION v ENVISIONED ENVISIONING ENVISIONSto envisageENVOI n pl ENVOISthe closing of a poem or prose workENVOY n pl ENVOYSa representativeENVY v ENVIED ENVYING ENVIESto be envious ofENWHEEL v ENWHEELED ENWHEELING ENWHEELSto encircleENWIND v ENWOUND ENWINDING ENWINDSto wind aroundENWOMB v ENWOMBED ENWOMBING ENWOMBSto enclose as if in a wombENWRAP v ENWRAPPED ENWRAPPING ENWRAPSto envelopENZOOTIC n pl ENZOOTICSa type of animal diseaseENZYM n pl ENZYMSenzymeENZYME n pl ENZYMESa complex proteinENZYMIC adjEOBIONT n pl EOBIONTSa type of basic organismEOHIPPUS n pl EOHIPPUSESan extinct horseEOLIAN adj pertaining to the windEOLIPILE n pl EOLIPILESa type of engineEOLITH n pl EOLITHSa prehistoric stone toolEOLITHIC adjEOLOPILE n pl EOLOPILESeolipileEON n pl EONSan indefinitely long period of timeEONIAN adj everlastingEONISM n pl EONISMSadoption of the dress and mannerisms of the opposite sexEOSIN n pl EOSINSa red dyeEOSINIC adjEOSINE n pl EOSINESeosinEPACT n pl EPACTSthe difference between the lengths of the solar and lunar yearsEPARCH n pl EPARCHSthe head of an eparchyEPARCHY n pl EPARCHIESa district of modern GreeceEPATER v EPATERED EPATERING EPATERSto shock complacent peopleEPAULET n pl EPAULETSa shoulder ornamentEPAZOTE n pl EPAZOTESan herb of the goosefoot familyEPEE n pl EPEESa type of swordEPEEIST n pl EPEEISTSone who fences with an epeeEPEIRIC adj pertaining to vertical movement of the earths crustEPENDYMA n pl EPENDYMASa membrane lining certain body cavitiesEPERGNE n pl EPERGNESan ornamental dishEPHA n pl EPHASephahEPHAH n pl EPHAHSa Hebrew unit of dry measureEPHEBE n pl EPHEBESephebusEPHEBIC adjEPHEBOS n pl EPHEBOIephebusEPHEBUS n pl EPHEBIa young man of ancient GreeceEPHEDRA n pl EPHEDRASa desert shrubEPHEDRIN n pl EPHEDRINSan alkaloid used to treat allergiesEPHEMERA n pl EPHEMERAS or EPHEMERAEsomething of very short life or durationEPHOD n pl EPHODSan ancient Hebrew vestmentEPHOR n pl EPHORS or EPHORIa magistrate of ancient GreeceEPHORAL adjEPHORATE n pl EPHORATESthe office of ephorEPIBLAST n pl EPIBLASTSthe ectodermEPIBOLY n pl EPIBOLIESthe growth of one part around anotherEPIBOLIC adjEPIC n pl EPICSa long narrative poemEPICAL adjEPICALLY advEPICALYX n pl EPICALYXES or EPICALYCESa set of bracts close to and resembling a calyxEPICARP n pl EPICARPSthe outer layer of a pericarpEPICEDIA npl funeral songsEPICENE n pl EPICENESone having both male and female characteristicsEPICLIKE adj resembling an epicEPICOTYL n pl EPICOTYLSa part of a plant embryoEPICURE n pl EPICURESa gourmetEPICYCLE n pl EPICYCLESa circle that rolls on the circumference of another circleEPIDEMIC n pl EPIDEMICSa rapid spread of a diseaseEPIDERM n pl EPIDERMSthe outer layer of skinEPIDOTE n pl EPIDOTESa mineralEPIDOTIC adjEPIDURAL n pl EPIDURALSan injection to produce loss of sensationEPIFAUNA n pl EPIFAUNAS or EPIFAUNAEfauna living on a hard sea floorEPIFOCAL adj pertaining to the point of origin of an earthquakeEPIGEAL adj epigeousEPIGEAN adj epigeousEPIGEIC adj epigeousEPIGENE adj occurring near the surface of the earthEPIGENIC adj pertaining to change in the mineral character of a rockEPIGEOUS adj growing on or close to the groundEPIGON n pl EPIGONSepigoneEPIGONE n pl EPIGONESan inferior imitatorEPIGONIC adjEPIGONUS n pl EPIGONIepigoneEPIGRAM n pl EPIGRAMSa brief witty remarkEPIGRAPH n pl EPIGRAPHSan engraved inscriptionEPIGYNY n pl EPIGYNIESthe state of having floral organs near the top of the ovaryEPILATE v EPILATED EPILATING EPILATESto remove hair fromEPILATOR n pl EPILATORSan agent for removing hairEPILEPSY n pl EPILEPSIESa disorder of the nervous systemEPILOG n pl EPILOGSa concluding sectionEPILOGUE v EPILOGUED EPILOGUING EPILOGUESto provide with a concluding sectionEPIMER n pl EPIMERSa type of sugar compoundEPIMERIC adjEPIMERE n pl EPIMERESa part of an embryoEPIMYSIA npl muscle sheathsEPINAOS n pl EPINAOIa rear vestibuleEPINASTY n pl EPINASTIESa downward bending of plant partsEPIPHANY n pl EPIPHANIESan appearance of a deityEPIPHYTE n pl EPIPHYTESa plant growing upon another plantEPISCIA n pl EPISCIASa tropical herbEPISCOPE n pl EPISCOPESa type of projectorEPISODE n pl EPISODESan incident in the course of a continuous experienceEPISODIC adjEPISOME n pl EPISOMESa genetic determinantEPISOMAL adjEPISTASY n pl EPISTASIESa suppression of genetic effectEPISTLE n pl EPISTLESa long or formal letterEPISTLER n pl EPISTLERSone that writes epistlesEPISTOME n pl EPISTOMESa structure covering the mouth of various invertebratesEPISTYLE n pl EPISTYLESa part of a classical buildingEPITAPH n pl EPITAPHSan inscription on a tombEPITASIS n pl EPITASESthe main part of a classical dramaEPITAXY n pl EPITAXIESa type of crystalline growthEPITAXIC adjEPITHET n pl EPITHETSa term used to characterize a person or thingEPITOME n pl EPITOMESa typical or ideal exampleEPITOMIC adjEPITOPE n pl EPITOPESa region on the surface of an antigenEPIZOA pl of epizoonEPIZOIC adj living on the body of an animalEPIZOISM n pl EPIZOISMSthe state of being epizoicEPIZOITE n pl EPIZOITESan epizoic organismEPIZOON n pl EPIZOAan epizoic parasiteEPIZOOTY n pl EPIZOOTIESa type of animal diseaseEPOCH n pl EPOCHSa particular period of timeEPOCHAL adjEPODE n pl EPODESa type of poemEPONYM n pl EPONYMSthe person for whom something is namedEPONYMIC adjEPONYMY n pl EPONYMIESthe derivation of an eponymic nameEPOPEE n pl EPOPEESan epic poemEPOPOEIA n pl EPOPOEIASepopeeEPOS n pl EPOSESan epic poemEPOXIDE n pl EPOXIDESan epoxy compoundEPOXY v EPOXIED or EPOXYED EPOXYING EPOXIESto glue with epoxy a type of resinEPSILON n pl EPSILONSa Greek letterEQUABLE adj not changing or varying greatlyEQUABLY advEQUAL adj having the same capability quantity or effect as anotherEQUAL v EQUALED EQUALING EQUALS or EQUALLED EQUALLING EQUALSto be equal toEQUALISE v EQUALISED EQUALISING EQUALISESto equalizeEQUALITY n pl EQUALITIESthe state of being equalEQUALIZE v EQUALIZED EQUALIZING EQUALIZESto make equalEQUALLED a past tense of equalEQUALLING a past participle of equalEQUALLY adv in an equal mannerEQUATE v EQUATED EQUATING EQUATESto make equalEQUATION n pl EQUATIONSthe act of equatingEQUATIVE adj denoting a sentence in which one term is identified with anotherEQUATOR n pl EQUATORSa great circle of spherical celestial bodiesEQUERRY n pl EQUERRIESan officer in charge of the care of horsesEQUES n pl EQUITESa member of a privileged military class of ancient RomeEQUID n pl EQUIDSan animal of the horse familyEQUINE n pl EQUINESa horseEQUINELY adv in a horselike mannerEQUINITY n pl EQUINITIESthe state of being like a horseEQUINOX n pl EQUINOXESa point on the celestial sphereEQUIP v EQUIPPED EQUIPPING EQUIPSto provide with whatever is neededEQUIPAGE n pl EQUIPAGESa carriageEQUIPPER n pl EQUIPPERSone that equipsEQUISETA npl rushlike plantsEQUITANT adj overlappingEQUITES pl of equesEQUITY n pl EQUITIESfairness or impartialityEQUIVOKE n pl EQUIVOKESa play on wordsER interj  used to express hesitationERA n pl ERASan epochERADIATE v ERADIATED ERADIATING ERADIATESto radiateERASE v ERASED ERASING ERASESto rub or scrape outERASABLE adjERASER n pl ERASERSone that erasesERASION n pl ERASIONSan erasureERASURE n pl ERASURESthe act of erasingERBIUM n pl ERBIUMSa metallic elementERE prep previous to beforeERECT v ERECTED ERECTING ERECTSto buildERECTER n pl ERECTERSerectorERECTILE adj capable of being raised uprightERECTION n pl ERECTIONSthe act of erectingERECTIVE adj tending to erectERECTLY adv in an upright mannerERECTOR n pl ERECTORSone that erectsERELONG adv soonEREMITE n pl EREMITESa hermitEREMITIC adjEREMURUS n pl EREMURUSES or EREMURIa perennial herbERENOW adv before this timeEREPSIN n pl EREPSINSa mixture of enzymes in the small intestineERETHISM n pl ERETHISMSabnormal irritabilityERETHIC adjEREWHILE adv some time agoERG n pl ERGSa unit of work or energyERGASTIC adj constituting the nonliving byproducts of protoplasmic activityERGATE n pl ERGATESa worker antERGATIVE n pl ERGATIVESa type of verbERGO conj thereforeERGODIC adj pertaining to the probability that any state will recurERGOT n pl ERGOTSa fungusERGOTIC adjERGOTISM n pl ERGOTISMSpoisoning produced by eating ergotinfected grainERICA n pl ERICASa shrub of the heath familyERICOID adj resembling heathERIGERON n pl ERIGERONSan herbERINGO n pl ERINGOS or ERINGOESeryngoERISTIC n pl ERISTICSan expert in debateERLKING n pl ERLKINGSan evil spirit of Germanic folkloreERMINE n pl ERMINESthe fur of certain weaselsERMINED adjERN n pl ERNSerneERNE n pl ERNESa sea eagleERODABLE adj erosibleERODE v ERODED ERODING ERODESto wear away by constant frictionERODENT adj erosiveERODIBLE adj erosibleEROGENIC adj arousing sexual desireEROS n pl EROSESsexual desireEROSE adj unevenEROSELY advEROSIBLE adj capable of being erodedEROSION n pl EROSIONSthe act of erodingEROSIVE adj causing erosionEROTIC n pl EROTICSan amatory poemEROTICAL adjEROTICA npl literature or art dealing with sexual loveEROTISM n pl EROTISMSsexual excitementEROTIZE v EROTIZED EROTIZING EROTIZESto give a sexual meaning toERR v ERRED ERRING ERRSto make a mistakeERRABLE adjERRANCY n pl ERRANCIESan instance of erringERRAND n pl ERRANDSa short trip made for a particular purposeERRANT n pl ERRANTSa wandererERRANTLY adv in a wandering mannerERRANTRY n pl ERRANTRIESthe state of wanderingERRATA n pl ERRATASa list of printing errorsERRATIC n pl ERRATICSan eccentric personERRATUM n pl ERRATAa printing errorERRHINE n pl ERRHINESa substance that promotes nasal dischargeERRINGLY adv in a mistaken mannerERROR n pl ERRORSa mistakeERS n pl ERSEServilERSATZ n pl ERSATZESa substituteERST adv formerlyERUCT v ERUCTED ERUCTING ERUCTSto belchERUCTATE v ERUCTATED ERUCTATING ERUCTATESto eructERUDITE adj scholarlyERUGO n pl ERUGOSaerugoERUMPENT adj bursting forthERUPT v ERUPTED ERUPTING ERUPTSto burst forthERUPTION n pl ERUPTIONSthe act of eruptingERUPTIVE n pl ERUPTIVESa type of rockERUV n pl ERUVIM or ERUVSan enclosed area in which Jews are permitted to carry on activities normally forbidden on the SabbathERVIL n pl ERVILSa European vetchERYNGIUM n pl ERYNGIUMSa plant of the parsley familyERYNGO n pl ERYNGOS or ERYNGOESa medicinal herbERYTHEMA n pl ERYTHEMASa redness of the skinERYTHRON n pl ERYTHRONSa bodily organ consisting of the red blood cellsES n pl ESESessESCALADE v ESCALADED ESCALADING ESCALADESto enter by means of laddersESCALATE v ESCALATED ESCALATING ESCALATESto increaseESCALLOP v ESCALLOPED ESCALLOPING ESCALLOPSto scallopESCALOP v ESCALOPED ESCALOPING ESCALOPSto escallopESCALOPE n pl ESCALOPESa thin slice of meat or fishESCAPADE n pl ESCAPADESa reckless adventureESCAPE v ESCAPED ESCAPING ESCAPESto get awayESCAPEE n pl ESCAPEESone that has escapedESCAPER n pl ESCAPERSone that escapesESCAPISM n pl ESCAPISMSthe avoidance of reality by diversion of the mindESCAPIST n pl ESCAPISTSone given to escapismESCAR n pl ESCARSeskerESCARGOT n pl ESCARGOTSan edible snailESCAROLE n pl ESCAROLESa variety of endiveESCARP v ESCARPED ESCARPING ESCARPSto cause to slope steeplyESCHALOT n pl ESCHALOTSa shallotESCHAR n pl ESCHARSa hard dry scabESCHEAT v ESCHEATED ESCHEATING ESCHEATSto confiscateESCHEW v ESCHEWED ESCHEWING ESCHEWSto avoidESCHEWAL n pl ESCHEWALSthe act of eschewingESCHEWER n pl ESCHEWERSone that avoids somethingESCOLAR n pl ESCOLARSa food fishESCORT v ESCORTED ESCORTING ESCORTSto accompanyESCOT v ESCOTED ESCOTING ESCOTSto provide support forESCROW v ESCROWED ESCROWING ESCROWSto place in the custody of a third partyESCUAGE n pl ESCUAGESscutageESCUDO n pl ESCUDOSa former monetary unit of PortugalESCULENT n pl ESCULENTSsomething that is edibleESERINE n pl ESERINESa toxic alkaloidESKAR n pl ESKARSeskerESKER n pl ESKERSa narrow ridge of gravel and sandESNE n pl ESNESa laborer in AngloSaxon EnglandESOPHAGI npl tubes connecting the mouth to the stomachESOTERIC adj designed for a select fewESPALIER v ESPALIERED ESPALIERING ESPALIERSto furnish with a trellisESPANOL n pl ESPANOLESa native of SpainESPARTO n pl ESPARTOSa perennial grassESPECIAL adj specialESPIAL n pl ESPIALSthe act of espyingESPIED past tense of espyESPIEGLE adj playfulESPIES present 3d person sing of espyESPOIR n pl ESPOIRSa category of wrestlersESPOUSAL n pl ESPOUSALSa marriage ceremonyESPOUSE v ESPOUSED ESPOUSING ESPOUSESto marryESPOUSER n pl ESPOUSERSone that espousesESPRESSO n pl ESPRESSOSa strong coffeeESPRIT n pl ESPRITSspiritESPY v ESPIED ESPYING ESPIESto catch sight ofESQUIRE v ESQUIRED ESQUIRING ESQUIRESto escortESS n pl ESSESthe letter SESSAY v ESSAYED ESSAYING ESSAYSto tryESSAYER n pl ESSAYERSone that essaysESSAYIST n pl ESSAYISTSa writer of essays prose compositionsESSE n pl ESSESessential natureESSENCE n pl ESSENCESa fundamental nature or qualityESSOIN n pl ESSOINSan excuseESSONITE n pl ESSONITESa variety of garnetEST n pl ESTSa group technique for raising selfawarenessESTANCIA n pl ESTANCIASa cattle ranchESTATE v ESTATED ESTATING ESTATESto provide with landed propertyESTEEM v ESTEEMED ESTEEMING ESTEEMSto have a high opinion ofESTER n pl ESTERSa type of chemical compoundESTERASE n pl ESTERASESa type of enzymeESTERIFY v ESTERIFIED ESTERIFYING ESTERIFIESto convert into an esterESTHESIA n pl ESTHESIASthe ability to receive sensationESTHESIS n pl ESTHESISES or ESTHESESesthesiaESTHETE n pl ESTHETESan esthetic personESTHETIC n pl ESTHETICSa conception of beautyESTIMATE v ESTIMATED ESTIMATING ESTIMATESto make an approximate judgment ofESTIVAL adj pertaining to summerESTIVATE v ESTIVATED ESTIVATING ESTIVATEsto spend the summerESTOP v ESTOPPED ESTOPPING ESTOPSto impede by estoppelESTOPPEL n pl ESTOPPELSa legal restraint preventing a person from contradicting his own previous statementESTOVERS npl necessities allowed by lawESTRAGON n pl ESTRAGONStarragonESTRAL adj estrousESTRANGE v ESTRANGED ESTRANGING ESTRANGESto alienateESTRAY v ESTRAYED ESTRAYING ESTRAYSto strayESTREAT v ESTREATED ESTREATING ESTREATSto copy from court records for use in prosecutionESTRIN n pl ESTRINSestroneESTRIOL n pl ESTRIOLSan estrogenESTROGEN n pl ESTROGENSa female sex hormone promoting or producing estrusESTRONE n pl ESTRONESan estrogenESTROUS adj pertaining to estrusESTRUAL adj estrousESTRUM n pl ESTRUMSestrusESTRUS n pl ESTRUSESthe period of heat in female mammalsESTUARY n pl ESTUARIESan inlet of the sea at a rivers lower endESURIENT adj greedyET a past tense of eatETA n pl ETASa Greek letterETAGERE n pl ETAGERESan ornamental standETALON n pl ETALONSan optical instrumentETAMIN n pl ETAMINSetamineETAMINE n pl ETAMINESa loosely woven fabricETAPE n pl ETAPESa warehouseETATISM n pl ETATISMSstate socialismETATIST adjETCETERA n pl ETCETERASa number of additional itemsETCH v ETCHED ETCHING ETCHESto engrave with acidETCHANT n pl ETCHANTSa substance used in etchingETCHER n pl ETCHERSone that etchesETCHING n pl ETCHINGSan etched designETERNAL n pl ETERNALSsomething lasting foreverETERNE adj everlastingETERNISE v ETERNISED ETERNISING ETERNISESto eternizeETERNITY n pl ETERNITIESinfinite timeETERNIZE v ETERNIZED ETERNIZING ETERNIZESto make everlastingETESIAN n pl ETESIANSan annually recurring windETH n pl ETHSedhETHANAL n pl ETHANALSa volatile liquid compoundETHANE n pl ETHANESa gaseous hydrocarbonETHANOL n pl ETHANOLSan alcoholETHENE n pl ETHENESethyleneETHEPHON n pl ETHEPHONSa synthetic plant growth regulatorETHER n pl ETHERSa volatile liquid used as an anestheticETHERIC adjETHEREAL adj airyETHERIFY v ETHERIFIED ETHERIFYING ETHERIFIESto convert into etherETHERISE v ETHERISED ETHERISING ETHERISESto etherizeETHERISH adj resembling etherETHERIZE v ETHERIZED ETHERIZING ETHERIZESto treat with etherETHIC n pl ETHICSa body of moral principlesETHICAL n pl ETHICALSa drug sold by prescription onlyETHICIAN n pl ETHICIANSan ethicistETHICIST n pl ETHICISTSa specialist in ethicsETHICIZE v ETHICIZED ETHICIZING ETHICIZESto make ethicalETHINYL n pl ETHINYLSethynylETHION n pl ETHIONSa pesticideETHMOID n pl ETHMOIDSa bone of the nasal cavityETHNARCH n pl ETHNARCHSthe ruler of a people or provinceETHNIC n pl ETHNICSa member of a particular ethnosETHNICAL adjETHNONYM n pl ETHNONYMSthe name of an ethnic groupETHNOS n pl ETHNOSESa group of people who share a common and distinctive cultureETHOGRAM n pl ETHOGRAMSa list of the behavior patterns of a speciesETHOLOGY n pl ETHOLOGIESthe study of animal behaviorETHOS n pl ETHOSESthe fundamental character of a cultureETHOXY n pl ETHOXIESethoxylETHOXYL n pl ETHOXYLSa univalent chemical radicalETHYL n pl ETHYLSa univalent chemical radicalETHYLATE v ETHYLATED ETHYLATING ETHYLATESto introduce the ethyl group intoETHYLENE n pl ETHYLENESa flammable gasETHYLIC adj pertaining to ethylETHYNE n pl ETHYNESa flammable gasETHYNYL n pl ETHYNYLSa univalent chemical radicalETICS npl a type of linguistic analysisETIC adjETIOLATE v ETIOLATED ETIOLATING ETIOLATESto whitenETIOLOGY n pl ETIOLOGIESthe study of the causes of diseasesETNA n pl ETNASa container for heating liquidsETOILE n pl ETOILESa starETOUFFEE n pl ETOUFFEESa Cajun stewETRIER n pl ETRIERSa short rope ladderETUDE n pl ETUDESa piece of music for the practice of a point of techniqueETUI n pl ETUISa case for holding small articlesETWEE n pl ETWEESetuiETYMON n pl ETYMONS or ETYMAthe earliest known form of a wordEUCAINE n pl EUCAINESan anestheticEUCALYPT n pl EUCALYPTSan evergreen treeEUCHARIS n pl EUCHARISESa flowering plantEUCHRE v EUCHRED EUCHRING EUCHRESto prevent from winning three tricks in euchre a card gameEUCLASE n pl EUCLASESa mineralEUCRITE n pl EUCRITESa type of meteoriteEUCRITIC adjEUDAEMON n pl EUDAEMONSeudemonEUDAIMON n pl EUDAIMONSeudemonEUDEMON n pl EUDEMONSa good spiritEUGENIA n pl EUGENIASa tropical evergreen treeEUGENICS npl the science of hereditary improvementEUGENIC adjEUGENIST n pl EUGENISTSa student of eugenicsEUGENOL n pl EUGENOLSan aromatic liquidEUGLENA n pl EUGLENASa freshwater protozoanEUGLENID n pl EUGLENIDSa euglenaEULACHAN n pl EULACHANSeulachonEULACHON n pl EULACHONSa marine food fishEULOGIA n pl EULOGIAEholy breadEULOGIA n pl EULOGIASa blessingEULOGIES pl of eulogyEULOGISE v EULOGISED EULOGISING EULOGISESto eulogizeEULOGIST n pl EULOGISTSone that eulogizesEULOGIUM n pl EULOGIUMS or EULOGIAa eulogyEULOGIZE v EULOGIZED EULOGIZING EULOGIZESto praise highlyEULOGY n pl EULOGIESa formal expression of high praiseEUNUCH n pl EUNUCHSa castrated manEUONYMUS n pl EUONYMUSESany of a genus of shrubs or small treesEUPATRID n pl EUPATRIDS or EUPATRIDAEan aristocrat of ancient AthensEUPEPSIA n pl EUPEPSIASgood digestionEUPEPTIC adjEUPEPSY n pl EUPEPSIESeupepsiaEUPHENIC adj dealing with biological improvementEUPHONY n pl EUPHONIESpleasant soundEUPHONIC adjEUPHORIA n pl EUPHORIASa feeling of wellbeingEUPHORIC adjEUPHOTIC adj pertaining to the upper layer of a body of waterEUPHRASY n pl EUPHRASIESan annual herbEUPHROE n pl EUPHROESa device used to adjust a shipboard awningEUPHUISM n pl EUPHUISMSan artificially elegant style of speech or writingEUPHUIST n pl EUPHUISTSone given to euphuismEUPLOID n pl EUPLOIDSa cell having three or more identical genomesEUPLOIDY n pl EUPLOIDIESthe state of being a euploidEUPNEA n pl EUPNEASnormal breathingEUPNEIC adjEUPNOEA n pl EUPNOEASeupneaEUPNOEIC adjEUREKA n pl EUREKASa fortunate discoveryEURIPUS n pl EURIPIa swift sea channelEURO n pl EUROSthe unit of currency used by most European countriesEUROKY n pl EUROKIESthe ability of an organism to live under variable conditionsEUROKOUS adjEUROLAND n pl EUROLANDSthe eurozoneEUROPIUM n pl EUROPIUMSa metallic elementEUROZONE n pl EUROZONESthe area formed by the countries using the euroEURYBATH n pl EURYBATHSan organism that can live in a wide range of water depthsEURYOKY n pl EURYOKIESeurokyEURYTHMY n pl EURYTHMIESharmony of movement or structureEUSOCIAL adj pertaining to an animal society marked by specialization of tasksEUSTACY n pl EUSTACIESa worldwide change in sea levelEUSTATIC adjEUSTASY n pl EUSTASIESeustacyEUSTELE n pl EUSTELESa plant partEUTAXY n pl EUTAXIESgood orderEUTECTIC n pl EUTECTICSan alloy that has the lowest possible melting pointEUTROPHY n pl EUTROPHIEShealthful nutritionEUXENITE n pl EUXENITESa mineralEVACUANT n pl EVACUANTSa cathartic medicineEVACUATE v EVACUATED EVACUATING EVACUATESto remove from a dangerous areaEVACUEE n pl EVACUEESone that is evacuatedEVADE v EVADED EVADING EVADESto escape or avoid by cleverness or deceitEVADABLE EVADIBLE adjEVADER n pl EVADERSone that evadesEVALUATE v EVALUATED EVALUATING EVALUATESto determine the value ofEVANESCE v EVANESCED EVANESCING EVANESCESto fade awayEVANGEL n pl EVANGELSa preacher of the gospelEVANISH v EVANISHED EVANISHING EVANISHESto vanishEVASION n pl EVASIONSthe act of evadingEVASIVE adj tending to evadeEVE n pl EVESeveningEVECTION n pl EVECTIONSirregularity in the moons motionEVEN adj EVENER EVENESTflat and smoothEVEN v EVENED EVENING EVENSto make evenEVENER n pl EVENERSone that evensEVENFALL n pl EVENFALLStwilightEVENING n pl EVENINGSthe latter part of the day and early part of the nightEVENLY adv in an even mannerEVENNESS n pl EVENNESSESthe state of being evenEVENSONG n pl EVENSONGSan evening prayer serviceEVENT n pl EVENTSsomething that occursEVENTER n pl EVENTERSa horse or rider competing in eventingEVENTFUL adj momentousEVENTIDE n pl EVENTIDESeveningEVENTING n pl EVENTINGSan equestrian competitionEVENTIVE adj denoting an eventEVENTUAL adj occurring at a later timeEVER adv at all timesEVERMORE adv foreverEVERSION n pl EVERSIONSthe act of evertingEVERT v EVERTED EVERTING EVERTSto turn outward or inside outEVERTOR n pl EVERTORSa muscle that turns a part outwardEVERY adj each without exceptionEVERYDAY n pl EVERYDAYSthe routine dayEVERYMAN n pl EVERYMENthe typical or ordinary manEVERYONE pron every personEVERYWAY adv in every wayEVICT v EVICTED EVICTING EVICTSto expel by legal processEVICTEE n pl EVICTEESone that is evictedEVICTION n pl EVICTIONSthe act of evictingEVICTOR n pl EVICTORSone that evictsEVIDENCE v EVIDENCED EVIDENCING EVIDENCESto indicate clearlyEVIDENT adj clear to the vision or understandingEVIL adj EVILER EVILEST or EVILLER EVILLESTmorally badEVIL n pl EVILSsomething that is evilEVILDOER n pl EVILDOERSone that does evilEVILLY adv in an evil mannerEVILNESS n pl EVILNESSESthe quality of being evilEVINCE v EVINCED EVINCING EVINCESto show clearlyEVINCIVE adjEVITE v EVITED EVITING EVITESto avoidEVITABLE adjEVOCABLE adj capable of being evokedEVOCATOR n pl EVOCATORSone that evokesEVOKE v EVOKED EVOKING EVOKESto call forthEVOKER n pl EVOKERSan evocatorEVOLUTE n pl EVOLUTESa type of geometric curveEVOLVE v EVOLVED EVOLVING EVOLVESto developEVOLVER n pl EVOLVERSone that evolvesEVONYMUS n pl EVONYMUSESeuonymusEVULSE v EVULSED EVULSING EVULSESto extract forciblyEVULSION n pl EVULSIONSthe act of pulling outEVZONE n pl EVZONESa Greek soldierEWE n pl EWESa female sheepEWER n pl EWERSa large pitcherEX v EXED EXING EXESto cross outEXABYTE n pl EXABYTESone quintillion bytesEXACT adj EXACTER EXACTESTpreciseEXACT v EXACTED EXACTING EXACTSto force the payment or yielding ofEXACTA n pl EXACTASa type of horse racing betEXACTER n pl EXACTERSone that exactsEXACTION n pl EXACTIONSthe act of exactingEXACTLY adv in an exact mannerEXACTOR n pl EXACTORSexacterEXAHERTZ n pl EXAHERTZone quintillion hertzEXALT v EXALTED EXALTING EXALTSto raiseEXALTER n pl EXALTERSone that exaltsEXAM n pl EXAMSan examinationEXAMEN n pl EXAMENSa critical studyEXAMINE v EXAMINED EXAMINING EXAMINESto inspectEXAMINEE n pl EXAMINEESone that is taking an examinationEXAMINER n pl EXAMINERSone that examinesEXAMPLE v EXAMPLED EXAMPLING EXAMPLESto show by representationEXANTHEM n pl EXANTHEMSa skin eruptionEXAPTED adj utililized for a function other than the one developed through natural selectionEXAPTIVE adj pertaining to an exapted functionEXARCH n pl EXARCHSthe ruler of a province in the Byzantine EmpireEXARCHAL adjEXARCHY n pl EXARCHIESthe domain of an exarchEXCAVATE v EXCAVATED EXCAVATING EXCAVATESto dig outEXCEED v EXCEEDED EXCEEDING EXCEEDSto go beyondEXCEEDER n pl EXCEEDERSone that exceedsEXCEL v EXCELLED EXCELLING EXCELSto surpass othersEXCEPT v EXCEPTED EXCEPTING EXCEPTSto leave outEXCERPT v EXCERPTED EXCERPTING EXCERPTSto pick out a passage from for quotingEXCESS v EXCESSED EXCESSING EXCESSESto eliminate the position ofEXCHANGE v EXCHANGED EXCHANGING EXCHANGESto give and receive reciprocallyEXCIDE v EXCIDED EXCIDING EXCIDESto exciseEXCIMER n pl EXCIMERSa dimer that exists in an excited stateEXCIPLE n pl EXCIPLESa rim around the hymenium of various lichensEXCISE v EXCISED EXCISING EXCISESto remove by cutting outEXCISION n pl EXCISIONSthe act of excisingEXCITANT n pl EXCITANTSa stimulantEXCITE v EXCITED EXCITING EXCITESto arouse the emotions ofEXCITER n pl EXCITERSone that excitesEXCITON n pl EXCITONSa phenomenon occurring in an excited crystalEXCITOR n pl EXCITORSexciterEXCLAIM v EXCLAIMED EXCLAIMING EXCLAIMSto cry out suddenlyEXCLAVE n pl EXCLAVESa portion of a country which is isolated in foreign territoryEXCLUDE v EXCLUDED EXCLUDING EXCLUDESto shut outEXCLUDER n pl EXCLUDERSone that excludesEXCRETA npl excreted matterEXCRETAL adjEXCRETE v EXCRETED EXCRETING EXCRETESto separate and eliminate from an organic bodyEXCRETER n pl EXCRETERSone that excretesEXCURSUS n pl EXCURSUSESa long appended exposition of a topicEXCUSE v EXCUSED EXCUSING EXCUSESto apologize forEXCUSER n pl EXCUSERSone that excusesEXEC n pl EXECSan executive officerEXECRATE v EXECRATED EXECRATING EXECRATESto curseEXECUTE v EXECUTED EXECUTING EXECUTESto carry outEXECUTER n pl EXECUTERSexecutorEXECUTOR n pl EXECUTORSone that executesEXEDRA n pl EXEDRAS or EXEDRAEa curved outdoor benchEXEGESIS n pl EXEGESEScritical explanation or analysisEXEGETIC adjEXEGETE n pl EXEGETESone skilled in exegesisEXEMPLAR n pl EXEMPLARSone that is worthy of being copiedEXEMPLUM n pl EXEMPLAan exampleEXEMPT v EXEMPTED EXEMPTING EXEMPTSto free from an obligation required of othersEXEQUY n pl EXEQUIESa funeral processionEXEQUIAL adjEXERCISE v EXERCISED EXERCISING EXERCISESto make use ofEXERGUE n pl EXERGUESa space on a coinEXERGUAL adjEXERT v EXERTED EXERTING EXERTSto put into actionEXERTION n pl EXERTIONSthe act of exertingEXERTIVE adj tending to exertEXEUNT v they leave the stage  used as a stage directionEXHALANT n pl EXHALANTSsomething that exhalesEXHALE v EXHALED EXHALING EXHALESto expel air or vaporEXHALENT n pl EXHALENTSexhalantEXHAUST v EXHAUSTED EXHAUSTING EXHAUSTSto use upEXHEDRA n pl EXHEDRAEexedraEXHIBIT v EXHIBITED EXHIBITING EXHIBITSto present for public viewingEXHORT v EXHORTED EXHORTING EXHORTSto advise urgentlyEXHORTER n pl EXHORTERSone that exhortsEXHUME v EXHUMED EXHUMING EXHUMESto dig out of the earthEXHUMER n pl EXHUMERSone that exhumesEXIGENCE n pl EXIGENCESexigencyEXIGENCY n pl EXIGENCIESurgencyEXIGENT adj urgentEXIGIBLE adj liable to be demandedEXIGUITY n pl EXIGUITIESthe state of being exiguousEXIGUOUS adj meagerEXILE v EXILED EXILING EXILESto banish from ones own countryEXILABLE adjEXILER n pl EXILERSone that exilesEXILIAN adj exilicEXILIC adj pertaining to exile banishment from ones own countryEXILING present participle of exileEXIMIOUS adj excellentEXINE n pl EXINESthe outer layer of certain sporesEXIST v EXISTED EXISTING EXISTSto beEXISTENT n pl EXISTENTSsomething that existsEXIT v EXITED EXITING EXITSto go outEXITLESS adj lacking a way outEXOCARP n pl EXOCARPSthe epicarpEXOCRINE n pl EXOCRINESan external secretionEXOCYTIC adj pertaining to cellular excretionEXODERM n pl EXODERMSthe ectodermEXODOS n pl EXODOIa concluding dramatic sceneEXODUS n pl EXODUSESa movement awayEXOERGIC adj releasing energyEXOGAMY n pl EXOGAMIESmarriage outside of a particular groupEXOGAMIC adjEXOGEN n pl EXOGENSa type of plantEXOGENIC adj formed or occurring on the surface of the earthEXON n pl EXONSa sequence in the genetic codeEXONIC adjEXONUMIA npl collectible items other than coins or paper moneyEXONYM n pl EXONYMSa name for a people used by outsiders and not by the people themselvesEXORABLE adj persuadableEXORCISE v EXORCISED EXORCISING EXORCISESto free of an evil spiritEXORCISM n pl EXORCISMSthe act of exorcisingEXORCIST n pl EXORCISTSone who practices exorcismEXORCIZE v EXORCIZED EXORCIZING EXORCIZESto exorciseEXORDIUM n pl EXORDIUMS or EXORDIAa beginningEXORDIAL adjEXOSMOSE n pl EXOSMOSESa form of osmosisEXOSMIC adjEXOSPORE n pl EXOSPORESthe outer coat of a sporeEXOTERIC adj suitable for the publicEXOTIC n pl EXOTICSsomething from another part of the worldEXOTICA npl things excitingly different or unusualEXOTISM n pl EXOTISMSan exoticEXOTOXIN n pl EXOTOXINSan excreted toxinEXOTOXIC adjEXPAND v EXPANDED EXPANDING EXPANDSto increase in size or volumeEXPANDER n pl EXPANDERSone that expandsEXPANDOR n pl EXPANDORSa type of transducerEXPANSE n pl EXPANSESa wide continuous areaEXPAT n pl EXPATSan expatriate personEXPECT v EXPECTED EXPECTING EXPECTSto anticipateEXPECTER n pl EXPECTERSone that expectsEXPEDITE v EXPEDITED EXPEDITING EXPEDITESto speed up the progress ofEXPEL v EXPELLED EXPELLING EXPELSto force outEXPELLEE n pl EXPELLEESa deporteeEXPELLER n pl EXPELLERSone that expelsEXPEND v EXPENDED EXPENDING EXPENDSto use upEXPENDER n pl EXPENDERSone that expendsEXPENSE v EXPENSED EXPENSING EXPENSESto charge with costsEXPERT v EXPERTED EXPERTING EXPERTSto serve as an authorityEXPERTLY adv skillfullyEXPIABLE adj capable of being expiatedEXPIATE v EXPIATED EXPIATING EXPIATESto atone forEXPIATOR n pl EXPIATORSone that expiatesEXPIRE v EXPIRED EXPIRING EXPIRESto come to an endEXPIRER n pl EXPIRERSone that expiresEXPIRY n pl EXPIRIESa terminationEXPLAIN v EXPLAINED EXPLAINING EXPLAINSto make plain or understandableEXPLANT v EXPLANTED EXPLANTING EXPLANTSto remove from the natural site of growth and place in a mediumEXPLICIT n pl EXPLICITSa statement formerly used at the close of a bookEXPLODE v EXPLODED EXPLODING EXPLODESto blow upEXPLODER n pl EXPLODERSone that explodesEXPLOIT v EXPLOITED EXPLOITING EXPLOITSto take advantage ofEXPLORE v EXPLORED EXPLORING EXPLORESto travel through for the purpose of discoveryEXPLORER n pl EXPLORERSone that exploresEXPO n pl EXPOSa public exhibitionEXPONENT n pl EXPONENTSone who expoundsEXPORT v EXPORTED EXPORTING EXPORTSto send to other countries for commercial purposesEXPORTER n pl EXPORTERSone that exportsEXPOSAL n pl EXPOSALSan exposureEXPOSE v EXPOSED EXPOSING EXPOSESto lay open to viewEXPOSER n pl EXPOSERSone that exposesEXPOSIT v EXPOSITED EXPOSITING EXPOSITSto expoundEXPOSURE n pl EXPOSURESthe act of exposingEXPOUND v EXPOUNDED EXPOUNDING EXPOUNDSto explain in detailEXPRESS v EXPRESSED EXPRESSING EXPRESSESto set forth in wordsEXPRESSO n pl EXPRESSOSespressoEXPULSE v EXPULSED EXPULSING EXPULSESto expelEXPUNGE v EXPUNGED EXPUNGING EXPUNGESto deleteEXPUNGER n pl EXPUNGERSone that expungesEXSCIND v EXSCINDED EXSCINDING EXSCINDSto cut outEXSECANT n pl EXSECANTSa trigonometric function of an angleEXSECT v EXSECTED EXSECTING EXSECTSto cut outEXSERT v EXSERTED EXSERTING EXSERTSto thrust outEXTANT adj still in existenceEXTEND v EXTENDED EXTENDING EXTENDSto stretch out to full lengthEXTENDER n pl EXTENDERSa substance added to another substanceEXTENSOR n pl EXTENSORSa muscle that extends a limbEXTENT n pl EXTENTSthe range over which something extendsEXTERIOR n pl EXTERIORSa part or surface that is outsideEXTERN n pl EXTERNSa nonresident of an institutionEXTERNAL n pl EXTERNALSan exteriorEXTERNE n pl EXTERNESexternEXTINCT v EXTINCTED EXTINCTING EXTINCTSto extinguishEXTOL v EXTOLLED EXTOLLING EXTOLSto praise highlyEXTOLL v EXTOLLED EXTOLLING EXTOLLSto extolEXTOLLER n pl EXTOLLERSone that extolsEXTORT v EXTORTED EXTORTING EXTORTSto obtain from a person by violence or intimidationEXTORTER n pl EXTORTERSone that extortsEXTRA n pl EXTRASsomething additionalEXTRACT v EXTRACTED EXTRACTING EXTRACTSto pull or draw outEXTRADOS n pl EXTRADOSESthe outer curve of an archEXTRANET n pl EXTRANETSan intranet that permits limited access by outsidersEXTREMA pl of extremumEXTREME adj EXTREMER EXTREMESTexisting in a very high degreeEXTREME n pl EXTREMESthe highest degreeEXTREMUM n pl EXTREMAa maximum or a minimum of a mathematical functionEXTROPY n pl EXTROPIESthe prediction that human intelligence will enable life to expand throughout the universeEXTRORSE adj facing outwardEXTRUDE v EXTRUDED EXTRUDING EXTRUDESto force thrust or push outEXTRUDER n pl EXTRUDERSone that extrudesEXTUBATE v EXTUBATED EXTUBATING EXTUBATESto remove a tube fromEXUDATE n pl EXUDATESan exuded substanceEXUDE v EXUDED EXUDING EXUDESto ooze forthEXULT v EXULTED EXULTING EXULTSto rejoice greatlyEXULTANT adj exultingEXURB n pl EXURBSa residential area lying beyond the suburbs of a cityEXURBAN adjEXURBIA n pl EXURBIASan exurbEXUVIAE npl the molted covering of an animalEXUVIAL adjEXUVIATE v EXUVIATED EXUVIATING EXUVIATESto moltEYAS n pl EYASESa young hawkEYASS n pl EYASSESeyasEYE n pl EYES or EYEN or EYNEthe organ of sightEYE v EYED EYING or EYEING EYESto watch closelyEYEABLE adjEYEBALL v EYEBALLED EYEBALLING EYEBALLSto eyeEYEBAR n pl EYEBARSa metal bar with a loop at one or both endsEYEBEAM n pl EYEBEAMSa glanceEYEBLACK n pl EYEBLACKSa dark pigment applied under the eyesEYEBLINK n pl EYEBLINKSan instantEYEBOLT n pl EYEBOLTSa type of bolt or screwEYEBROW n pl EYEBROWSthe ridge over the eyeEYECUP n pl EYECUPSa cup used for applying lotions to the eyesEYED past tense of eyeEYEDNESS n pl EYEDNESSESpreference for the use of one eye over the otherEYEDROPS npl a medicated solution for the eyes applied in dropsEYEFOLD n pl EYEFOLDSa fold of skin of the upper eyelidEYEFUL n pl EYEFULSa complete viewEYEGLASS n pl EYEGLASSESa lens used to aid visionEYEHOLE n pl EYEHOLESa small openingEYEHOOK n pl EYEHOOKSa type of hookEYELASH n pl EYELASHESa hair growing on the edge of an eyelidEYELESS adj lacking eyesEYELET v EYELETTED EYELETTING EYELETS or EYELETED EYELETING EYELETSto make a small hole inEYELID n pl EYELIDSthe lid of skin that can be closed over an eyeballEYELIFT n pl EYELIFTSplastic surgery of the eyelidEYELIKE adj resembling an eyeEYELINER n pl EYELINERSmakeup for the eyesEYEN a pl of eyeEYEPATCH n pl EYEPATCHESa patch worn to protect an injured eyeEYEPIECE n pl EYEPIECESthe lens or lens group nearest the eye in an optical instrumentEYEPOINT n pl EYEPOINTSthe point at which an eye is placed in using an optical instrumentEYER n pl EYERSone that eyesEYESHADE n pl EYESHADESa visor for shading the eyesEYESHINE n pl EYESHINESa reflection from the eyes of some animalsEYESHOT n pl EYESHOTSthe range of visionEYESIGHT n pl EYESIGHTSthe ability to seeEYESOME adj pleasant to look atEYESORE n pl EYESORESsomething offensive to the sightEYESPOT n pl EYESPOTSa simple visual organ of lower animalsEYESTALK n pl EYESTALKSa stalklike structure with an eye at its tipEYESTONE n pl EYESTONESa disk used to remove foreign matter from the eyeEYETOOTH n pl EYETEETHa cuspidEYEWASH n pl EYEWASHESan eye lotionEYEWATER n pl EYEWATERSan eyewashEYEWEAR n pl EYEWEARa device worn on or over the eyesEYEWINK n pl EYEWINKSa wink of the eyeEYING a present participle of eyeEYNE a pl of eyeEYRA n pl EYRASa wild cat of tropical AmericaEYRE n pl EYRESa journeyEYRIE n pl EYRIESaerieEYRIR n pl AURARa monetary unit of IcelandEYRY n pl EYRIESaerie").
+entrada(fa, n, [fas], "o quarto tom da escala musical diatônica").
+entrada(fabula, v, [fabulado,fabulando,fabulas], "compor ou contar contos fictícios").
+entrada(fabler, n, [fablers], "aquele que fabula").
+entrada(fabliau, n, [fabliaux], "um conto métrico curto popular na França medieval").
+entrada(fabling, presente, [], "particípio de fabular").
+entrada(tecido, n, [tecidos], "um material tecido, feltrado ou tricotado").
+entrada(fábrica, n, [fábricas], "um grupo paroquial que lida com propriedades da igreja").
+entry(fabular, adj, [], "lendário").
+entrada(fabulate, v, [fabulated,fabulating,fabulates], "compor fábulas").
+entrada(fabulismo, n, [fabulismos], "a colocação de elementos fantásticos em cenários do cotidiano").
+entrada(fabulista, n, [fabulistas], "um mentiroso").
+entrada(fabuloso, adj, [], "quase inacreditável").
+entrada(fachada, n, [fachadas], "a frente de um edifício").
+entrada(face, v, [enfrentou, enfrentando, enfrenta], "opor ou encontrar desafiadoramenteFACEABLE adj").
+entrada(caraabaixo, n, [carasabaixo], "um confronto entre oponentes").
+entrada(sem_rosto, adj, [], "sem distinção ou identidade pessoal").
+entrada(facelift, v, [facelifted, facelifting, facelifts], "realizar cirurgia plástica no rosto").
+entrada(máscara_facil, n, [máscaras_faciais], "um dispositivo para proteger o rosto").
+entrada(faceoff, n, [faceoffs], "a ação que inicia um jogo de hóquei").
+entrada(facer, n, [facers], "aquele que enfrenta").
+entrada(facet, v, [faceted, faceting, facets], "ou FACETTED FACETTING FACETSpara cortar pequenas superfícies planas em").
+entrada(facete, adj, [], "wittyFACETELY adv").
+entrada(facetiae, npl, [], "ditos ou escritos espirituosos").
+entry(faceting, n, [facetings], "uma superfície de uma gema lapidada").
+entry(faceup, adv, [], "com a parte da frente para cima").
+entrada(facia, n, [faciae], "ou FACIASfascia").
+entrada(facial, n, [faciais], "um tratamento para o rosto").
+entrada(facialmente, adv, [], "em relação ao rosto").
+entrada(faciend, n, [faciends], "um número a ser multiplicado por outro").
+entrada(facies, n, [facies], "aparência geral").
+entry(facile, adj, [], "facilmente alcançado ou realizadoFACILMENTE adv").
+entrada(instalação, n, [instalações], "a qualidade de ser fácil").
+entry(facing, n, [facings], "um forro na borda de uma peça de vestuário").
+entrada(fato, n, [fatos], "algo conhecido com certezaFATUAL adj").
+entrada(factice, n, [factices], "um material semelhante à borracha").
+entrada(facção, n, [facções], "uma facção dentro de um grupo maior").
+entry(factious, adj, [], "promovendo dissensão").
+entrada(factoide, n, [factoides], "um breve item de notícia").
+entrada(fator, v, [fatorado,fatoração,fatores], "expressar como produto de duas ou mais quantidades").
+entrada(fábrica, n, [fábricas], "um edifício ou grupo de edifícios onde bens são fabricados").
+entrada(factotum, n, [factotuns], "uma pessoa empregada para fazer muitos tipos de trabalho").
+entrada(factual, adj, [], "relativo a fatos").
+entrada(factum, n, [factum], "ou FACTAa declaração dos fatos de um caso sendo apelado").
+entrada(factura, n, [facturas], "o ato de fazer algo").
+entrada(facula, n, [faculae], "um ponto incomumente brilhante na superfície do solFACULAR adj").
+entrada(faculdade, n, [faculdades], "um poder ou habilidade inerente").
+entrada(fad, n, [fads], "uma prática ou interesse que goza de popularidade passageira").
+entry(fadable, adj, [], "capaz de desbotar").
+entrada(faddier, comparativo, [], "de faddy").
+entry(faddiest, superlative, [], "de faddy").
+entrada(faddish, adj, [], "inclinado a adotar modismos").
+entrada(faddism, n, [faddisms], "inclinação para adotar modismos").
+entrada(faddist, n, [faddists], "uma pessoa modista").
+entry(faddy, adj, [], "MAIS FADDIER MAIS FADDIESTfaddish").
+entrada(desbotar, v, [desbotou, desbotando, desbota], "perder cor ou brilhoDESCOLORIDAMENTE adv").
+entrada(desvanecer, n, [desvanecimentos], "um tipo de arremesso no beisebol").
+entrada(fadein, n, [fadeins], "um aumento gradual no brilho de uma imagem").
+entrada(fadeless, adj, [], "não desbotando").
+entrada(desvanecimento, n, [desvanecimentos], "um desaparecimento gradual de uma imagem").
+entrada(fader, n, [faders], "aquele que desbota").
+entrada(fadge, v, [fadged,fadging,fadges], "ter sucesso").
+entrada(fading, n, [fadings], "uma dança irlandesa").
+entrada(fadlike, adj, [], "semelhante a uma moda").
+entry(fado, n, [fados], "uma canção folclórica portuguesa").
+entrada(fezes, npl, [], "fezesFECAIS adj").
+entry(faena, n, [faenas], "uma série de passes feitos por um matador em uma tourada").
+entrada(fada, n, [fadas], "uma fada").
+entrada(fada, n, [fadas], "fada").
+entrada(faff, v, [faffed,faffing,faffs], "fazer um alvoroço").
+entrada(fag, v, [fagged,fagging,fags], "cansar pelo trabalho árduo").
+entrada(faggot, v, [faggoted,faggoting,faggots], "fagotear").
+entrada(fagin, n, [fagins], "uma pessoa que instrui outros no crime").
+entrada(fagot, v, [fagoted, fagoting, fagots], "amarrar em um feixe").
+entrada(fagoter, n, [fagoters], "aquele que agrupa").
+entry(fagoting, n, [fagotings], "um tipo de bordado").
+entrada(fah, n, [fahs], "fa").
+entrada(fahlband, n, [fahlbands], "uma camada ou estrato de rocha impregnado com sulfetos metálicos").
+entrada(faiança, n, [faianças], "uma variedade de cerâmica vitrificada").
+entrada(falhar, v, [falhou, falhando, falha], "não ter sucesso em uma tentativa").
+entrada(falha, n, [falhas], "uma falha ou fraqueza menor").
+entrada(faille, n, [failles], "um tecido trançado").
+entrada(falha, n, [falhas], "o ato de falhar").
+entry(fain, adj, [], "MAIS_FAIN MAIS_FAINglad").
+entrada(faineant, n, [faineants], "uma pessoa preguiçosa").
+entrada(desmaiar, adj, [], "MAIS DESMAIADO MENOS FORTE falta de força ou vigor").
+entrada(desmaiar, v, [desmaiou, desmaiando, desmaia], "perder a consciência").
+entrada(desmaiador, n, [desmaiadores], "alguém que desmaia").
+entrada(faintish, adj, [], "um tanto desmaiado").
+entrada(levemente, adv, [], "de maneira suave").
+entry(justo, adj, [], "MAIS JUSTO O MAIS JUSTO livre de parcialidade desonestidade ou injustiça").
+entrada(fair, v, [faired, fairing, fairs], "suavizar").
+entrada(frequentador_de_feiras, n, [frequentadores_de_feiras], "aquele que frequenta uma feira").
+entrada(fadas, pl, [], "das fadas").
+entrada(fairing, n, [carenagens], "uma estrutura em uma aeronave que serve para reduzir o arrasto").
+entrada(fairish, adj, [], "razoavelmente bom").
+entry(cabeço, n, [cabeços], "um dispositivo usado para segurar o cordame de um navio no lugar").
+entrada(fairly, adv, [], "de maneira justa").
+entrada(justiça, n, [justiças], "a qualidade de ser justo").
+entrada(fairway, n, [fairways], "a parte aparada de um campo de golfe entre o tee e o green").
+entrada(fada, n, [fadas], "um ser sobrenatural imaginário").
+entrada(fada, adj, [], "MAIS FADA MAIS FADASpertencente ou semelhante a uma fada").
+entrada(fairismo, n, [fairismos], "a qualidade de ser como uma fada").
+entrada(fé, v, [fé, confiando, confia], "acreditar ou confiar").
+entrada(fiel, n, [fiéis], "um seguidor ou membro leal").
+entrada(faitour, n, [faitours], "um impostor").
+entry(fajita, n, [fajitas], "carne bovina, frango ou camarão marinados e grelhados servidos com uma tortilla de farinha").
+entrada(fake, v, [faked,faking,fakes], "forjar e apresentar como genuíno").
+entry(fakeer, n, [fakires], "fáquir").
+entrada(falsificador, n, [falsificadores], "aquele que falsifica").
+entry(falsificação, n, [falsificações], "a prática de falsificar").
+entrada(fakey, adj, [], "não genuíno falso").
+entrada(fakie, n, [fakies], "um movimento no skate e snowboard").
+entry(faking, presente, [], "particípio de fake").
+entrada(fakir, n, [fakires], "um asceta hindu").
+entrada(falafel, n, [falafels], "vegetais temperados moídos formados em bolinhos").
+entrada(falbala, n, [falbalas], "um enfeite para a roupa de mulher").
+entrada(falcate, adj, [], "curvado e afilado até um ponto").
+entrada(falcated, adj, [], "falcado").
+entrada(falces, pl, [], "de falx").
+entrada(falchion, n, [falchions], "uma espada de lâmina larga").
+entrada(falcon, n, [falcões], "uma ave de rapina").
+entrada(falconer, n, [falcoeiros], "aquele que caça com falcões").
+entrada(falconet, n, [falconetes], "um pequeno falcão").
+entrada(falconaria, n, [falconarias], "o esporte de caçar com falcões").
+entrada(falderal, n, [falderals], "disparate").
+entry(falderol, n, [falderols], "falderal").
+entry(queda, v, [caiu, caído, caindo], "QUEDApara descer sob a força da gravidade").
+entrada(falácia, n, [falácias], "uma ideia falsa").
+entrada(fallal, n, [fallals], "um artigo de vestuário chamativo").
+entrada(fallaway, n, [fallaways], "um arremesso no basquete").
+entrada(fallback, n, [fallbacks], "um ato de recuar").
+entrada(caído, passado, [], "particípio de cair").
+entrada(faller, n, [fallers], "aquele que cai").
+entrada(fallfish, n, [fallfishes], "um peixe de água doce").
+entrada(falível, adj, [], "capaz de errarFALIVELMENTE adv").
+entrada(queda, n, [quedas], "o abate de árvores para madeira").
+entry(queda, n, [quedas], "uma diminuição em quantidade ou qualidade").
+entrada(queda_radioativa, n, [quedas_radioativas], "detritos radioativos resultantes de uma explosão nuclear").
+entrada(pousio, v, [pousado,pousando,pousa], "arar e deixar em pousio").
+entrada(false, adj, [], "FALSER FALSESTcontrário à verdade ou fatoFALSAMENTE adv").
+entrada(falsete, n, [falsetes], "uma voz artificialmente alta").
+entrada(falsie, n, [falsies], "uma almofada usada dentro de um sutiã").
+entrada(falsificar, v, [falsificado,falsificando,falsifica], "representar falsamente").
+entrada(falsity, n, [falsities], "algo falso").
+entrada(faltboat, n, [faltboats], "um barco dobrável que se assemelha a um caiaque").
+entry(vacilar, v, [vacilou,vacilando,vacila], "hesitar").
+entrada(falterer, n, [falterers], "aquele que hesita").
+entrada(falx, n, [falces], "uma estrutura em forma de foice").
+entrada(fama, v, [famoso,famatizando,famações], "tornar famoso").
+entrada(fameless, adj, [], "não famoso").
+entrada(familiar, adj, [], "relativo a uma família").
+entrada(familiar, n, [familiares], "um amigo próximo ou associado").
+entrada(familismo, n, [familismos], "uma estrutura social em que a família tem precedência sobre o indivíduoFAMILISTA adj").
+entrada(familia, n, [familias], "um grupo de pessoas relacionadas por sangue ou casamento").
+entrada(fome, n, [fomes], "uma escassez generalizada de alimentos").
+entrada(faming, presente, [], "particípio de fame").
+entrada(famish, v, [famished,famishing,famishes], "sofrer fome extrema").
+entrada(famoso, adj, [], "bemconhecidoFAMOSAMENTE adv").
+entrada(famulus, n, [famuli], "um servo ou assistente").
+entry(fan, v, [abanou, abanando, abana], "para refrescar ou resfriar com um ventilador, um dispositivo para colocar o ar em movimento").
+entrada(fanatic, n, [fanáticos], "um zelote").
+entrada(fanboy, n, [fanboys], "um homem que é um devoto entusiasta de algo").
+entrada(queria, passado, [], "tempo de fancy").
+entry(entusiasta, n, [entusiastas], "aquele que tem um gosto especial por algo").
+entrada(gosta, presente, [], "3ª pessoa singular de gostar").
+entry(fantástico, adj, [], "irrealista").
+entry(fancify, v, [embelezado, embelezando, embeleza], "tornar chique").
+entrada(fancy, adj, [], "FANCIER FANCIESTornamentalFANCILY adv").
+entrada(fancy, v, [fancied,fancying,fancies], "gostar de").
+entrada(fandango, n, [fandangos], "ou FANDANGOES, uma dança espanhola animada").
+entry(fandom, n, [fandoms], "um agregado de devotos entusiastas").
+entrada(fane, n, [fanes], "um templo").
+entrada(fanega, n, [fanegas], "uma unidade espanhola de medida seca").
+entrada(fanegada, n, [fanegadas], "uma unidade de área espanhola").
+entry(fanfare, n, [fanfarras], "um breve floreio musical animado").
+entry(fanfarão, n, [fanfarões], "um fanfarrão").
+entrada(fanfic, n, [fanfics], "ficção escrita por fãs de uma obra admirada").
+entrada(fanfold, v, [fanfolded,fanfolding,fanfolds], "dobrar papel como um leque").
+entry(fang, n, [presas], "um dente pontiagudoFANGED FANGLESS FANGLIKE adj").
+entrada(fanga, n, [fangas], "fanega").
+entry(fangirl, n, [fangirls], "uma mulher que é uma devota entusiasta de algo").
+entrada(fanion, n, [fanions], "uma pequena bandeira").
+entrada(fanjet, n, [fanjets], "um tipo de motor a jato").
+entrada(cimaforo, n, [cimaforos], "um tipo de janela").
+entrada(leque, adj, [], "semelhante a um leque").
+entrada(abanou, passado, [], "tempo de abanar").
+entrada(abanador, n, [abanadores], "aquele que abana").
+entrada(fanning, presente, [], "particípio de fan").
+entrada(fanny, n, [fannies], "as nádegas").
+entrada(fano, n, [fanos], "um fanom").
+entrada(fanon, n, [fanons], "uma capa usada pelo papa").
+entry(rabo_leque, n, [rabos_leques], "uma cauda ou extremidade em forma de leque").
+entrada(fantasia, n, [fantasias], "uma composição musical livre").
+entrada(fantasie, n, [fantasias], "a fantasia").
+entrada(fantasied, passado, [], "tempo de fantasia").
+entrada(fantasm, n, [fantasms], "fantasmagoria").
+entrada(fantast, n, [fantasts], "uma pessoa impraticável").
+entrada(fantasia, v, [fantasiou,fantasiano,fantasias], "imaginar").
+entrada(fantod, n, [fantods], "uma explosão emocional").
+entrada(fantom, n, [fantoms], "fantasma").
+entrada(fanum, n, [fanuns], "fanon").
+entry(fanwise, adj, [], "espalhado como um leque aberto").
+entry("fanwort", n, ["fanworts"], "uma planta aquática").
+entry(fanzine, n, [fanzines], "uma revista escrita por e para entusiastas devotos").
+entry(faqir, n, [faqires], "fakir").
+entrada(faquir, n, [faquires], "faquir").
+entrada(distante, adv, [], "MAIS DISTANTE MAIS DISTANTE ou MAIS LONGE MAIS LONGE em ou para uma grande distância").
+entry(farad, n, [farads], "uma unidade de capacitância elétrica").
+entry(faradaico, adj, [], "faradic").
+entrada(faraday, n, [faradays], "uma unidade de eletricidade").
+entry(farádico, adj, [], "relativo a um tipo de corrente elétrica").
+entry(faradise, v, [faradisado, faradizando, faradiza], "faradizar").
+entry(faradismo, n, [faradismos], "o uso de corrente farádica para fins terapêuticos").
+entrada(faradize, v, [faradizado, faradizando, faradiza], "tratar por faradismo").
+entrada(distante, adj, [], "distant").
+entrada(farsa, v, [farsei,farsando,farsas], "preencher com material espirituoso").
+entrada(farcer, n, [farcers], "farceur").
+entrada(farceur, n, [farceurs], "um brincalhão").
+entrada(farci, adj, [], "recheado com carne finamente picada").
+entrada(farcical, adj, [], "absurdo").
+entry(recheada, adj, [], "recheado").
+entrada(farcing, presente, [], "particípio de farce").
+entrada(farcy, n, [farcies], "uma doença de cavalos").
+entrada(fard, v, [farded,farding,fards], "aplicar cosméticos a").
+entrada(fardo, n, [fardos], "um pacote").
+entry(fare, v, [fared,faring,fares], "prosperar").
+entry(cofre, n, [cofres], "um recipiente para tarifas em um ônibus").
+entrada(viageiro, n, [viageiros], "um viajante").
+entrada(adeus, v, [despedido,despedindo,despedidas], "dizer adeus").
+entrada(farfal, n, [farfals], "farfel").
+entrada(farfalle, n, [farfalles], "pasta em forma de gravatas borboleta").
+entrada(farfel, n, [farfels], "macarrão em forma de pequenos grânulos ou pellets").
+entrada(farina, n, [farinhas], "uma farinha fina feita de grãos de cereal").
+entrada(faring, presente, [], "particípio de fare").
+entry(farinha, n, [farinhas], "uma farinha feita da raiz da mandioca").
+entrada(farinose, adj, [], "assemelhando-se à farina").
+entrada(farl, n, [farls], "um bolo fino de aveia").
+entry(farle, n, [farles], "farl").
+entrada(fazenda, v, [cultivado,cultivando,fazendas], "gerir e cultivar como uma fazenda um terreno destinado à agriculturaFARMÁVEL adj").
+entrada(agricultor, n, [agricultores], "aquele que cultiva").
+entrada(trabalhador_rural, n, [trabalhadores_rurais], "um trabalhador agrícola").
+entrada(agricultura, n, [agriculturas], "o negócio de operar uma fazenda").
+entrada(terreno_agricola, n, [terrenos_agricolas], "terra cultivada").
+entrada(mulher_do_agricultor, n, [mulheres_dos_agricultores], "esposa de um agricultor").
+entry(trabalhofazenda, n, [trabalhosfazenda], "trabalho realizado em uma fazenda").
+entrada(quintal, n, [quintais], "uma área rodeada por edifícios de fazenda").
+entry(farnesol, n, [farnesóis], "um álcool usado em perfumes").
+entry(distância, n, [distâncias], "o estado de estar longe ou separado").
+entrada(faro, n, [faros], "um jogo de cartas").
+entrada(farolito, n, [farolitos], "uma vela em um saco de papel com areia como peso").
+entry(farouche, adj, [], "timidamente reservado").
+entrada(farrago, n, [farragoes], "ou FARRAGOS uma mistura confusa").
+entrada(ferreiro, n, [ferreiros], "aquele que ferraduras cavalos").
+entrada(ferraria, n, [ferrarias], "a profissão de um ferrador").
+entry(parir, v, [pariu, parindo, pare], "dar à luz uma ninhada de porcos").
+entrada(farside, n, [farsides], "o lado mais distante").
+entrada(mais_distante, a, [], "comparativo de longe").
+entrada(mais_distante, a, [], "superlativo de longe").
+entrada(farthing, n, [farthings], "uma antiga moeda britânica").
+entrada(fartlek, n, [fartleks], "uma técnica de treino atlético").
+entrada(fasces, n, [fasces], "um símbolo antigo de poder romano").
+entrada(fascia, n, [fascias], "ou FASCIAUma faixa ampla e distinta de corFASCIAL FASCIATE adj").
+entrada(fascículo, n, [fascículos], "um pequeno feixe").
+entry(fascine, n, [fascines], "um feixe de varas usado na construção de fortificações").
+entrada(fascismo, n, [fascismos], "um sistema político opressivo").
+entrada(fascista, n, [fascistas], "um defensor do fascismo").
+entry(fascite, n, [fascites], "inflamação de um tecido conectivo").
+entry(fash, v, [fashed,fashing,fashes], "incomodar").
+entrada(moda, v, [moldou, moldando, molda], "dar uma forma ou formato particular a").
+entry(fashiony, adj, [], "na moda elegante").
+entry(fashious, adj, [], "irritante").
+entry(rapido, adj, [], "MAIS_RAPIDO MAIS_RAPIDO_movendo_ou_capaz_de_mover-se_rapidamente").
+entrada(jejuar, v, [jejuou,jejuando,jejua], "abster-se de comer").
+entrada(fastback, n, [fastbacks], "um tipo de teto de automóvel").
+entrada(bola_rapida, n, [bolas_rapidas], "um tipo de arremesso no beisebol").
+entrada(prender, v, [prendeu,prendendo,prende], "para segurar").
+entry(fixador, n, [fixadores], "aquele que fixa").
+entrada(jejum, n, [jejuns], "abstinência de comer").
+entrada(rapidez, n, [rapidezes], "a qualidade de ser rápido").
+entry(fastuouso, adj, [], "arrogante").
+entrada(gordo, adj, [], "MAIS GORDO O MAIS GORDO tendo uma abundância de carne").
+entrada(gordo, v, [engordado, engordando, engorda], "engordar").
+entrada(fatal, adj, [], "causando ou capaz de causar morte").
+entrada(fatalismo, n, [fatalismos], "a doutrina de que todos os eventos são predeterminados").
+entry(fatalista, n, [fatalistas], "um crente no fatalismo").
+entry(morte, n, [mortes], "uma morte resultante de uma ocorrência inesperada").
+entrada(fatalmente, adv, [], "de maneira fatal").
+entry(fatback, n, [fatbacks], "um peixe marinho").
+entrada(passarogordo, n, [passarosgordos], "uma ave pernaltas").
+entrada(destino, v, [predestinado, predestinando, predestinos], "destinar").
+entrada(fateful, adj, [], "decisivamente importante").
+entrada(fathead, n, [fatheads], "um tolo").
+entrada(pai, v, [gerou, gerando, gera], "causar a existir").
+entrada(paternal, adj, [], "paternal").
+entrada(sondar, v, [sondado, sondando, sonda], "compreender").
+entry(sondador, n, [sondadores], "aquele que sonda").
+entry(fatídico, adj, [], "relacionado à profecia").
+entrada(fadiga, v, [fadigado,fadigando,fadigas], "cansar").
+entrada(fating, presente, [], "particípio de fate").
+entrada(sem_gordura, adj, [], "sem gordura").
+entry(gorduroso, adj, [], "semelhante a gordura").
+entrada(bezerro, n, [bezerros], "um animal jovem engordado para abate").
+entry(fatly, adv, [], "de maneira de quem é gordo").
+entrada(gordura, n, [gorduras], "o estado de ser gordo").
+entrada(gado_gordo, n, [gados_gordos], "gado que está gordo e pronto para o mercado").
+entrada(gordo, passado, [], "tempo de gordo").
+entrada(engordar, v, [engordado, engordando, engorda], "engordar").
+entrada(engordador, n, [engordadores], "aquele que engorda").
+entry(mais_gordo, comparativo, [], "de gordo").
+entrada(mais_gordo, superlativo, [], "de gordo").
+entrada(mais_gordo, comparativo, [], "de gordo").
+entrada(gordos, pl, [], "de gorduroso").
+entrada(mais_gordo, superlativo, [], "de gordo").
+entry(fattily, adv, [], "de maneira gordurosa").
+entrada(fatting, presente, [], "particípio de fat").
+entry(fattish, adj, [], "um pouco gordo").
+entry(fatty, adj, [], "MAIS GORDUROSO MAIS GORDUROSOoleoso oleoso").
+entrada(gordo, n, [gordos], "aquele que é gordo").
+entry(fatuidade, n, [fatuides], "algo tolo ou estúpido").
+entrada(fatuous, adj, [], "presunçosamente estúpido").
+entrada(fatwa, n, [fatwas], "decreto legal islâmico").
+entrada(fatwood, n, [fatwoods], "madeira usada para acender fogo").
+entrada(faubourg, n, [faubourgs], "um subúrbio").
+entrada(faucal, n, [faucais], "um som produzido nas fauces").
+entrada(fauces, npl, [], "a passagem da boca para a faringe").
+entrada(torneira, n, [torneiras], "um dispositivo para controlar o fluxo de líquido de um cano").
+entrada(torneira, n, [torneiras], "um conjunto de torneiras").
+entry(faucial, adj, [], "pertencente às fauces").
+entrada(faugh, interj, [], "usado para expressar desgosto").
+entrada(fauld, n, [faulds], "uma peça de armadura abaixo da couraça").
+entrada(falta, v, [criticou, criticando, critica], "criticar").
+entrada(defeituoso, adj, [], "MAIS DEFEITUOSO O MAIS DEFEITUOSOimperfeitoDEFEITUOSAMENTE adv").
+entrada(fauno, n, [faunos], "uma divindade florestal da mitologia romanaFAUNLIKE adj").
+entrada(fauna, n, [faunas], "ou FAUNAE a vida animal de uma região particular FAUNAL adj FAUNALMENTE adv").
+entrada(faunistico, n, [faunistas], "um especialista em faunas").
+entry(fauteuil, n, [fauteuils], "uma poltrona").
+entry(fauve, n, [fauves], "um fauvista").
+entry(fauvismo, n, [fauvismos], "um movimento na pintura").
+entry(fauvista, n, [fauvistas], "um defensor do fauvismo").
+entrada(faux, adj, [], "não genuíno falso").
+entrada(fava, n, [favas], "a semente comestível de uma trepadeira").
+entrada(fave, n, [faves], "um favorito").
+entrada(favela, n, [favelas], "uma área de favela").
+entrada(favella, n, [favelas], "favela").
+entrada(favismo, n, [favismos], "uma anemia aguda").
+entry(favonian, adj, [], "relativo ao vento oeste").
+entrada(favor, v, [favorecido,favorecendo,favorece], "considerar com aprovação").
+entry(favorer, n, [favorers], "aquele que favorece").
+entry(preferido, n, [preferidos], "uma pessoa ou coisa preferida acima de todas as outras").
+entry(favor, v, [favorecido,favorecendo,favorece], "favorecer").
+entrada(favoredor, n, [favoredores], "favorecedor").
+entrada(favus, n, [favuses], "uma doença de pele").
+entrada(cervo, v, [bajulou, bajulando, bajula], "buscar atenção ou favor por comportamento servil").
+entry(fawner, n, [bajuladores], "aquele que adula").
+entrada(fawnlike, adj, [], "semelhante a um jovem cervo").
+entrada(fawny, adj, [], "FAWNIER FAWNIEST de cor castanho-amarelada").
+entrada(fax, v, [faxou,faxando,faxes], "transmitir e reproduzir por meios eletrônicosFAXÁVEL adj").
+entrada(fay, v, [fayed,faying,fays], "unir-se estreitamente").
+entrada(fayalite, n, [fayalites], "um mineral").
+entrada(faze, v, [fazed,fazing,fazes], "perturbar a compostura de").
+entrada(fazenda, n, [fazendas], "uma plantação brasileira").
+entrada(fe, n, [fes], "uma letra hebraica").
+entrada(leal, adj, [], "loyal").
+entrada(lealdade, n, [lealdades], "lealdade").
+entry(medo, v, [temido,temendo,teme], "ter medo de").
+entry(fearer, n, [temedores], "aquele que teme").
+entrada(medroso, adj, [], "MAIS MEDROSO MAIS MEDROSOafraid").
+entry(destemido, adj, [], "sem medo").
+entrada(amedrontador, adj, [], "assustador").
+entry(execução, n, [execuções], "o cumprimento de uma condição obrigação ou dever").
+entry(fease, v, [feased,feasing,feases], "fazer").
+entrada(exequível, adj, [], "capaz de ser feitoEXEQUIVELMENTE adv").
+entrada(banquete, v, [banqueteou, banqueteando, banquetes], "comer sumptuosamente").
+entrada(comensal, n, [comensais], "aquele que festeja").
+entrada(festivo, adj, [], "festivo").
+entrada(proeza, adj, [], "PROEZA PROEZAmaishabilidoso").
+entrada(feat, n, [feats], "um ato ou conquista notável").
+entrada(pena, v, [penado,penando,penas], "cobrir com penas, estruturas córneas que formam a cobertura principal das aves").
+entry(plumoso, adj, [], "SEMELHANTE A PENAS MAIS PLUMOSO MAIS PLUMOSÍSSIMO").
+entrada(featly, adj, [], "FEATLIER FEATLIESTgracioso").
+entrada(característica, v, [destacado, destacando, destaca], "dar destaque especial a").
+entry(feaze, v, [feazed,feazing,feazes], "fazer").
+entry(febrific, adj, [], "febril").
+entrada(febril, adj, [], "febrento").
+entrada(fecal, adj, [], "relativo a fezes").
+entry(fezes, npl, [], "resíduo corporal excretado através do ânus").
+entry(fecial, n, [fecials], "fecial").
+entrada(feck, n, [fecks], "valor").
+entry(irresponsável, adj, [], "inútil").
+entrada(feckly, adv, [], "quase").
+entrada(fecula, n, [feculae], "matéria fecal").
+entry(feculent, adj, [], "sujo com impurezas").
+entrada(fecundo, adj, [], "frutífero").
+entry(fed, n, [feds], "um agente federal").
+entrada(fedayee, n, [fedayeen], "um comando árabe").
+entrada(federação, n, [federações], "uma aliança").
+entry(federal, n, [federais], "um defensor de um tipo de governo central").
+entrada(federar, v, [federado,federando,federa], "unir em uma aliança").
+entry(fedex, v, [enviei_pela_fedex, enviando_pela_fedex, envia_pela_fedex], "enviar pela Federal Express").
+entry(fedora, n, [fedoras], "um tipo de chapéu").
+entry(fee, v, [alimentar, taxação, taxas], "pagar uma taxa ou um encargo fixo a").
+entrada(feeb, n, [feebs], "um fraco, uma pessoa débil ou ineficaz").
+entrada(fraco, adj, [], "FEEBLER FEEBLESTweakFEEBLY adv").
+entrada(feeblish, adj, [], "ligeiramente fraco").
+entrada(feed, v, [fed,feeding,feeds], "dar comida aALIMENTÁVEL adj").
+entrada(retroalimentação, n, [retroalimentações], "o retorno de uma parte da saída para a entrada").
+entrada(sacola_de_racao, n, [sacolas_de_racao], "uma bolsa para alimentar cavalos").
+entry(feedbox, n, [caixas de alimentação], "uma caixa para ração animal").
+entrada(alimentador, n, [alimentadores], "aquele que alimenta").
+entrada(alimentadora, n, [alimentadoras], "uma das várias perfurações em fita de papel").
+entrada(alimentação, n, [alimentaçãos], "o ato de dar comida a uma pessoa ou animal").
+entrada(feedlot, n, [feedlots], "um terreno no qual o gado é engordado").
+entrada(feedyard, n, [feedyards], "um confinamento").
+entrada(sentir, v, [sentiu,sentindo,sente], "perceber através do sentido do tato").
+entrada(antenado, n, [antenas], "um órgão táctil").
+entrada(sem_taxa, adj, [], "não requer taxa").
+entry(sentimento, n, [sentimentos], "a função ou poder de perceber pelo toque").
+entrada(pés, pl, [], "do pé").
+entry(feetless, adj, [], "sem pés").
+entrada(feeze, v, [feezed, feezing, feezes], "fazer hesitar").
+entrada(feh, n, [fehs], "peh").
+entrada(fingir, v, [fingiu, fingindo, finge], "fingir").
+entry(feigner, n, [dissimulação], "aquele que simula").
+entrada(feijoa, n, [feijoas], "um fruto verde comestível").
+entry(finta, v, [fintou,fintando,fintas], "fazer um movimento enganoso").
+entrada(feirie, adj, [], "ágil").
+entry(feist, n, [feists], "um pequeno cão de raça mista").
+entrada(feisty, adj, [], "FEISTIER FEISTIESTcheio de energia nervosaFEISTILMENTE adv").
+entrada(felafel, n, [felafels], "falafel").
+entrada(feldsher, n, [feldshers], "um trabalhador médico na Rússia").
+entrada(feldspato, n, [feldspatos], "um mineral").
+entrada(felicidade, n, [felicidades], "felicidade").
+entrada(felid, n, [felinos], "um felino").
+entrada(felino, n, [felinos], "um animal da família dos gatos").
+entrada(felinely, adv, [], "de maneira felina").
+entry(felinidade, n, [felinidades], "a qualidade de ser semelhante a um gato").
+entry(fell, adj, [], "QUE MAIS CRUEL QUE MAIS CRUELcruel").
+entrada(caiu, v, [derrubado,derrubando,derruba], "fazer cair").
+entrada(rapaz, n, [rapazes], "um homem ou rapaz").
+entry(derrubável, adj, [], "capaz de ser derrubado").
+entrada(fellah, n, [fellahs, fellahin], "ou FELLAHEEN um camponês ou trabalhador em países árabes").
+entry(fellate, v, [fellated,fellating,fellates], "fazer felação").
+entry(felação, n, [felações], "estimulação oral do pênis").
+entrada(fellator, n, [fellators], "aquele que pratica felação").
+entrada(feller, n, [fellers], "aquele que derruba").
+entrada(fellies, pl, [], "de felly").
+entry(fellness, n, [fellnesses], "crueldade extrema").
+entry(aro, n, [aros], "a borda de uma roda").
+entrada(companheiro, v, [companheiroed,companheiroend,companheirados], "produzir um igual a").
+entry(fellowly, adj, [], "amigável").
+entrada(felly, n, [fellies], "uma aro").
+entrada(criminoso, n, [criminosos], "uma pessoa que cometeu um crime grave").
+entrada(crime, n, [crimes], "toda a classe de criminosos").
+entrada(crime_grave, n, [crimes_graves], "um crime grave").
+```prolog
+entry(felsic, adj, [], "constituído de feldspato e silicatos").
+```
+entrada(felsito, n, [felsitos], "uma rocha ígneaFELSÍTICO adj").
+entrada(felspar, n, [felspars], "feldspato").
+entrada(felstone, n, [felstones], "felsito").
+entrada(sentir, v, [sentiu,sentindo,sente], "unir-se").
+entrada(felting, n, [feltings], "material feltrado").
+entrada(parecido, adj, [], "como um tecido feito de lã").
+entrada(felty, adj, [], "SEMELHANTE A UM TECIDO FEITO DE LÃ").
+entrada(felucca, n, [feluccas], "um veleiro rápido").
+entry(felwort, n, [felworts], "uma planta com flores").
+entrada(fem, n, [fems], "um homossexual passivo").
+entrada(feminino, n, [femininas], "um indivíduo que gera filhotes ou produz óvulos").
+entrada(feme, n, [femes], "uma esposa").
+entry(feminacy, n, [feminacies], "o estado de ser uma fêmea").
+entry(feminino, npl, [], "mulheres coletivamente").
+entrada(feminino, n, [femininos], "uma palavra ou forma com gênero feminino").
+entrada(feminise, v, [feminizado,feminizando,feminiza], "feminizar").
+entry(feminismo, n, [feminismos], "uma doutrina que defende direitos para as mulheres iguais aos dos homens").
+entrada(feminista, n, [feministas], "um/uma defensor/a do feminismo").
+entrada(feminilidade, n, [feminilidades], "a qualidade de ser feminina").
+entrada(feminiz_, v, [feminizad_,feminizand_,feminiz_], "tornar mulheril").
+entrada(mulher, n, [mulheres], "uma mulher").
+entry(femoral, adj, [], "relativo ao fêmur").
+entrada(femur, n, [femurs], "ou FEMORA um osso da perna").
+entrada(fen, n, [fens], "um pântano").
+entrada(fenagle, v, [fenagled, fenagling, fenagles], "finaglar").
+entrada(cerca, v, [cercado,cercando,cercas], "praticar a arte da esgrima").
+entrada(esgrimista, n, [esgrimistas], "aquele que pratica esgrima").
+entrada(cercado, n, [cercados], "a terra ocupada por uma cerca").
+entry(fencible, n, [fencibles], "um soldado alistado apenas para serviço doméstico").
+entrada(pára-lama, n, [pára-lamas], "uma proteção de metal sobre a roda de um veículo motorizadoPÁRA-LAMADO adj").
+entry(janela, n, [janelas], "uma pequena abertura anatômica").
+entrada(fening, n, [fenings], "uma unidade monetária da Bósnia e Herzegovina").
+entrada(fenland, n, [fenlands], "terreno pantanoso").
+entry(fennec, n, [fennecs], "uma raposa africana").
+entry(funcho, n, [funchos], "uma erva perene").
+entrada(fenny, adj, [], "FENNIER FENNIESTlamacento").
+entrada(fentanil, n, [fentanis], "um opioide narcótico").
+entrada(fentiona, n, [fentionas], "um inseticida").
+entrada(fenuron, n, [fenurons], "um herbicida").
+entrada(feod, n, [feudos], "um feudo").
+entry(feodary, n, [feodaries], "um vassalo").
+entrada(feoff, v, [feoffed, feoffing, feoffs], "conceder um feudo a").
+entrada(feoffee, n, [feoffees], "aquele a quem é concedido um feudo").
+entrada(feoffer, n, [feoffers], "aquele que concede um feudo a outro").
+entrada(feoffor, n, [feoffors], "feoffer").
+entrada(fer, prep, [], "para").
+entrada(feracidade, n, [feracidades], "o estado de ser frutífero").
+entry(feral, n, [ferals], "uma besta selvagem").
+entrada(ferbam, n, [ferbams], "um fungicida").
+entrada(fere, n, [feres], "um companheiro").
+entrada(feretório, n, [feretórios], "um receptáculo em que relíquias sagradas são guardadas").
+entrada(feria, n, [ferias], "ou FERIAEum dia útil de um calendário da igreja no qual nenhuma festa é celebradaFERIAL adj").
+entry(ferine, adj, [], "feral").
+entrada(feridade, n, [feridades], "selvageria").
+entry(ferlie, n, [ferlies], "uma visão estranha").
+entry(ferly, n, [ferlies], "ferlie").
+entrada(fermata, n, [fermatas], "ou FERMATE a sustentação de uma nota musical, acorde ou pausa além do seu valor de tempo escrito").
+entry(fermentar, v, [fermentado, fermentando, fermenta], "sofrer um tipo de reação química").
+entrada(fermi, n, [fermis], "uma unidade de comprimento").
+entry(fermion, n, [férmions], "um tipo de partícula atômica").
+entrada(férmio, n, [férios], "um elemento radioativo").
+entrada(samambaia, n, [samambaias], "uma planta vascular sem floresSAMAMBAIALESS SAMAMBAIA LIKE adj").
+entrada(estufa_de_samambaias, n, [estufas_de_samambaias], "um lugar onde samambaias são cultivadas").
+entrada(ferninst, prep, [], "perto de").
+entry(ferny, adj, [], "FERNIER FERNIESTabundante em samambaias").
+entrada(ferocidade, n, [ferocidades], "ferocidade").
+entrada(ferrato, n, [ferratos], "um sal químico").
+entrada(ferrel, v, [ferreled,ferreling,ferrels], "ou FERRELLED FERRELLING FERRELSto ferrule").
+entrada(ferroso, adj, [], "contendo ferro").
+entrada(furão, v, [farejou, farejando, fareja], "buscar por investigação cuidadosa").
+entrada(ferreteiro, n, [ferreteiros], "aquele que caça com furão").
+entrada(ferrety, adj, [], "sugestivo de um furão um tourão").
+entry(ferriagem, n, [ferragens], "transporte por ferry").
+entrada(férrico, adj, [], "relativo ao ferro").
+entrada(transbordado, passado, [], "tempo verbal de transbordar").
+entrada(ferries, presente, [], "3ª pessoa do singular de ferry").
+entrada(ferrite, n, [ferrites], "uma substância magnéticaFERRÍTICA adj").
+entrada(ferritina, n, [ferritinas], "uma proteína que contém ferro").
+entry(ferroso, adj, [], "relativo ao ferro").
+entrada(ferrule, v, [ferrulado,ferrulando,ferrulas], "providenciar com um anel ou capa de metal para evitar rachaduras").
+entrada(ferro, n, [ferros], "ferro").
+entrada(ferry, v, [ferried,ferrying,ferries], "transportar por ferry um tipo de barco").
+entrada(barqueiro, n, [barqueiros], "aquele que opera uma balsa").
+entry(fértil, adj, [], "capaz de reproduzir").
+entrada(ferula, n, [ferulas], "ou FERULAE uma peça de madeira plana").
+entrada(ferule, v, [feruled, feruling, ferules], "ferrular").
+entrada(fervor, n, [fervores], "fervor").
+entrada(fervoroso, adj, [], "marcado por fervor").
+entrada(fervoroso, adj, [], "ferventemente").
+entrada(fervor, n, [fervores], "grande calor ou intensidade").
+entrada(fervor, n, [fervores], "fervor").
+entry(festuca, n, [festucas], "uma gramínea perene").
+entry(fess, v, [fessou,fessando,fessa], "confessar").
+entry(fesse, n, [fesses], "uma faixa horizontal no meio de um escudo heráldico").
+entrada(fesswise, adv, [], "horizontalmente").
+entrada(festa, n, [festas], "uma reunião para uma atividade").
+entrada(festa, n, [festas], "uma festa religiosa").
+entrada(festal, adj, [], "festivoFESTALMENTE adv").
+entry(fester, v, [festered,festering,festers], "produzir pus").
+entrada(festival, n, [festivais], "um dia ou momento de celebração").
+entry(festivo, adj, [], "de ou apropriado para um festival").
+entrada(festoon, v, [festooned, festooning, festoons], "pendurar correntes ou tiras decorativas").
+entrada(fet, v, [fetted,fetting,fets], "buscar").
+entrada(feta, n, [fetas], "um queijo grego").
+entrada(fetal, adj, [], "relativo a um feto").
+entry(fetation, n, [fetations], "o desenvolvimento de um feto").
+entrada(buscar, v, [buscado,buscando,busca], "ir buscar e trazer de volta").
+entrada(fetcher, n, [fetchers], "um que busca").
+entry(festejar, v, [festejado,festejando,festeja], "honrar com uma celebração").
+entrada(feterita, n, [feteritas], "um cereal").
+entrada(fetial, n, [fetiais], "um sacerdote da Roma antiga").
+entrada(fetialis, n, [fetiales], "fetial").
+entrada(fetich, n, [fetiches], "fetiche").
+entry(feticídio, n, [feticídios], "a morte de um feto").
+entrada(fétido, adj, [], "tendo um odor ofensivoFETIDAMENTE adv").
+entrada(fetidez, n, [fetidezes], "o estado de estar fétido").
+entrada(comemorando, presente, [], "particípio de comemorar").
+entrada(fetiche, n, [fetiches], "um objeto que se acredita ter poder mágico").
+entrada(curvilhão, n, [curvilhões], "uma junta da perna de um cavalo").
+entrada(fetologia, n, [fetologias], "o ramo da medicina que lida com o feto").
+entrada(fetor, n, [fetors], "um odor ofensivo").
+entrada(fetted, passado, [], "tempo de fet").
+entrada(grilhão, v, [grilhou, grilhando, grilhões], "prender com correntes").
+entry(fetterer, n, [fetterers], "aquele que acorrenta").
+entry(fetting, presente, [], "particípio de fet").
+entrada(fettle, v, [fettled,fettling,fettles], "para cobrir o lar com revestimento").
+entrada(fettler, n, [fettlers], "aquele que repara").
+entrada(revestimento, n, [revestimentos], "material solto jogado na base de um forno para protegê-lo").
+entry(feto, n, [fetos], "o organismo não nascido carregado no útero nas últimas fases de seu desenvolvimento").
+entrada(feu, v, [feued, feuing, feus], "conceder terras sob a lei feudal escocesa").
+entrada(feuar, n, [feuars], "alguém a quem foi concedida terra sob a lei feudal escocesa").
+entrada(feud, v, [feuded,feuding,feuds], "envolver-se em uma rixa, uma hostilidade contínua e amarga").
+entry(feudal, adj, [], "relativo a um sistema político e econômico da Europa medieval FEUDALMENTE adv").
+entrada(feudary, n, [feudaries], "um vassalo").
+entrada(feudist, n, [feudists], "aquele que disputa").
+entry(fever, v, [febril,febrificações,febres], "afetar com febre elevação anormal da temperatura do corpo").
+entrada(erva-maria, n, [ervas-marias], "uma erva perene").
+entry(febril, adj, [], "tendo febre").
+entrada(febril, adj, [], "febre").
+entrada(poucos, adj, [], "MENOS MENOSnumerando ou consistindo em um pequeno número").
+entrada(escassez, n, [escassezes], "o estado de ser poucos").
+entrada(fewtrils, npl, [], "coisas de pouco valor").
+entrada(fey, adj, [], "FEYER FEYESTloucoFEYLY adv").
+entrada(feyness, n, [feynesses], "o estado de ser fey").
+entrada(fez, n, [fezes], "ou FEZZES um chapéu sem aba usado por homens no Oriente Próximo FEZZED FEZZY adj").
+entrada(fiacre, n, [fiacres], "uma pequena carruagem").
+entrada(noivo, n, [noivos], "um homem comprometido para se casar").
+entrada(noiva, n, [noivas], "uma mulher comprometida para se casar").
+entrada(fiar, n, [fiars], "o titular de um tipo de propriedade absoluta de terras sob a lei escocesa").
+entry(fiasco, n, [fiascos], "ou FIASCHI uma garrafa de vinho").
+entrada(fiasco, n, [fiascos], "ou FIASCOES um fracasso completo").
+entrada(fiat, n, [fiats], "uma ordem autoritária").
+entrada(fib, v, [fibbed,fibbing,fibs], "contar uma mentira trivial").
+entrada(fibber, n, [fibbers], "aquele que mente").
+entrada(fibra, n, [fibras], "um objeto ou estrutura em forma de fioFIBRADO adj").
+entrada(fiberizar, v, [fiberizou,fiberizando,fiberiza], "quebrar em fibras").
+entrada(fibrana, n, [fibranas], "um tecido feito de fio de rayon fiado").
+entrada(fibra, n, [fibras], "fibrAFIBRAD adj").
+entry(fibrila, n, [fibrilas], "uma pequena fibra").
+entrada(fibrilla, n, [fibrillae], "uma fibrila").
+entrada(fibrina, n, [fibrinas], "uma proteína insolúvel").
+entrada(fibroid, n, [fibromas], "um fibroma").
+entrada(fibroina, n, [fibroínas], "uma proteína insolúvel").
+entry(fibroma, n, [fibromas], "ou FIBROMATA, um tumor benigno composto por tecido fibroso").
+entrada(fibrose, n, [fibroses], "o desenvolvimento de excesso de tecido fibroso em um órgão corporalFIBRÓTICO adj").
+entry(fibroso, adj, [], "contendo, consistindo de ou assemelhando-se a fibras").
+entrada(fibster, n, [fibsters], "um que mente").
+entrada(fíbula, n, [fíbulas], "ou FÍBULASum osso da pernaFÍBULAR adj").
+entrada(fice, n, [fices], "um feist").
+entrada(ficha, n, [fichas], "uma folha de microfilme").
+entrada(fichu, n, [fichus], "um lenço feminino").
+entrada(ficin, n, [ficins], "uma enzima").
+entry(inconstante, adj, [], "MAIS INCONSTANTE O MAIS INCONSTANTENão constante ou lealINCONSTANTEMENTE adv").
+entrada(fico, n, [ficoes], "algo de pouco valor").
+entrada(fíctil, adj, [], "maleável").
+entrada(ficção, n, [ficções], "uma obra literária cujo conteúdo é produzido pela imaginação").
+entrada(fictício, adj, [], "imaginário").
+entrada(ficus, n, [ficus], "uma árvore tropical").
+entrada(fid, n, [fids], "uma barra quadrada usada como suporte para um mastro superior").
+entrada(violino, v, [tocou, tocando, toca], "tocar um violino").
+entry(fiddler, n, [fiddlers], "aquele que toca violino").
+entry(fiddling, n, [fiddlings], "a ação de tocar um violino").
+entry(fiddly, adj, [], "MAIS COMPLICADO MAIS COMPLICADOintrincadamente difícil de manusear").
+entrada(fideismo, n, [fideísmos], "confiança na fé em vez da razão").
+entry(fideísta, n, [fideístas], "um crente no fideísmo").
+entrada(fidelidade, n, [fidelidades], "lealdade").
+entrada(fidge, v, [fidged, fidging, fidges], "remexer").
+entrada(fidget, v, [fidgeted, fidgeting, fidgets], "mover-se nervosamente ou inquietamente").
+entrada(inquieto, n, [inquietos], "aquele que inquieta").
+entrada(inquieto, adj, [], "nervosamente inquieto").
+entrada(fidging, presente, [], "particípio de fidge").
+entrada(fido, n, [fidos], "uma moeda defeituosa").
+entrada(fiducial, adj, [], "baseado em fé ou confiança").
+entry(fie, interj, [], "usado para expressar desaprovação").
+entrada(feudo, n, [feudos], "uma propriedade feudal").
+entry(fiefdom, n, [fieudos], "um feudo").
+entrada(campo, v, [campeado,campeando,campos], "jogar como um defensor").
+entrada(campista, n, [campistas], "aquele que pega ou apanha uma bola em jogo").
+entrada(demonio, n, [demonios], "um demônio").
+entrada(diabólico, adj, [], "extremamente perverso ou cruel").
+entry(fierce, adj, [], "MAIS FEROZ MAIS FEROZviolento ou agressivo FIERCELY adv").
+entrada(ardente, adj, [], "FIERIER FIERIESTintensamente quenteARDENTEMENTE adv").
+entrada(fiesta, n, [fiestas], "uma festa").
+entrada(flauta, v, [flautou, flautando, flautas], "tocar uma flauta doce de som agudo").
+entrada(fifer, n, [fifers], "alguém que toca pífaro").
+entry(quinze, n, [quinzes], "um número").
+entrada(quinto, n, [quintos], "uma de cinco partes iguais").
+entrada(quintamente, adv, [], "em quinto lugar").
+entry(quinquagésimo, n, [quinquagésimos], "uma de cinquenta partes iguais").
+entrada(cinquenta, n, [cinquentas], "um número").
+entrada(quase_cinquenta, adj, [], "ter cerca de cinquenta anos de idade").
+entrada(figo, v, [figado,figureando,figos], "adornar").
+entrada(besouro_fig, n, [besouros_fig], "um besouro grande").
+entry(lutar, v, [lutou,lutando,luta], "tentar derrotar um adversário").
+entrada(lutador, n, [lutadores], "aquele que luta").
+entrada(luta, n, [lutas], "o ato de quem luta").
+entrada(figmento, n, [figmentos], "um produto de invenção mental").
+entrada(figueira, n, [figueiras], "uma árvore que dá figos frutos escuros doces e macios").
+entrada(figuline, n, [figulines], "um pedaço de cerâmica").
+entry(figural, adj, [], "consistindo de forma humana ou animal").
+entrada(figurante, n, [figurantes], "um bailarino que dança apenas em grupos").
+entrada(figurativo, adj, [], "tendo uma forma definida").
+entrada(figura, v, [figurou,figurando,figuras], "calcular").
+entrada(figurer, n, [figurers], "um que calcula").
+```prolog
+entrada(figurine, n, [figurinhas], "uma pequena estátua").
+```
+entrada(figwort, n, [figworts], "uma planta com flores").
+entrada(fil, n, [fils], "uma moeda do Iraque e Jordânia").
+entrada(fila, pl, [], "de filum").
+entrada(filigrana, v, [filigranou, filigranando, filigranas], "filigranar").
+entrada(filamento, n, [filamentos], "uma estrutura muito fina semelhante a um fio").
+entry(filar, adj, [], "relativo a um fio").
+entry(filaree, n, [filarees], "uma planta daninha europeia").
+entrada(filaria, n, [filariae], "um verme parasitaFILARIAL FILARIAN adj").
+entry(filariose, n, [filarioses], "filária").
+entrada(filaria, n, [filarias], "o enrolamento de seda de casulos").
+entrada(avelã, n, [avelãs], "o fruto comestível de um arbusto europeu").
+entrada(filch, v, [filched,filching,filches], "roubar").
+entrada(filcher, n, [filchers], "aquele que furta").
+entrada(arquivo, v, [arquivado, arquivamento, arquivos], "arranjar em ordem para futura referênciaARQUIVÁVEL adj").
+entrada(peixe-lima, n, [peixes-lima], "um peixe marinho").
+entrada(filemot, adj, [], "de cor amarelo acastanhado").
+entry(nome_do_arquivo, n, [nomes_de_arquivos], "o nome de um arquivo de computador").
+entrada(arquivador, n, [arquivadores], "aquele que arquiva").
+entrada(filet, v, [fileted,fileting,filets], "para filetar").
+entry(filial, adj, [], "relativo a um filho ou filha, FILIALMENTE adv").
+entrada(filiar, v, [filiado,filiação,filia], "aproximar ou associar intimamente").
+entrada(filibeg, n, [filibegs], "uma saia plissada usada por Highlanders escoceses").
+entrada(filicídio, n, [filicídios], "o ato de matar o próprio filho").
+entry(filiforme, adj, [], "em forma de filamento").
+entrada(filigree, v, [filigreed, filigreeing, filigrees], "adornar com trabalho ornamental intrincado").
+entrada(arquivamento, n, [arquivamentos], "uma partícula removida por uma lima").
+entry(filister, n, [filisters], "uma ranhura em uma moldura de janela").
+entrada(filk, n, [filks], "um tipo de música popular que parodia canções folclóricas").
+entrada(fill, v, [encheu,enchendo,enche], "colocar tanto quanto puder ser contido no ENCHÍVEL adj").
+entrada(menina, n, [meninas], "uma garota").
+entrada(filler, n, [preenchedores], "um que preenche").
+entry(fillet, v, [filleted,filleting,fillets], "cortar fatias sem osso de").
+entry(filleter, n, [filleters], "quem fileta").
+entrada(poldras, pl, [], "de potra").
+entrada(recheio, n, [recheios], "aquilo que é usado para rechear algo").
+entrada(fillip, v, [filliped, filliping, fillips], "dar uma pancada bruscamente").
+entrada(fillo, n, [fillos], "phyllo").
+entry(potranquinha, n, [potranquinhas], "uma égua jovem").
+entrada(filme, v, [filmado,filmagem,filmes], "fazer um filmeFILMÁVEL adj").
+entrada(ficha_filmica, n, [fichas_filmicas], "a fiche").
+entrada(filmdom, n, [filmdoms], "a indústria cinematográfica").
+entrada(filmador, n, [filmadores], "aquele que filma").
+entrada(festival_de_cinema, n, [festivais_de_cinema], "um festival onde muitos filmes são exibidos").
+entrada(cinéfilo, n, [cinéfilos], "aquele que vai ver filmes").
+entrada(filmi, n, [filmis], "música composta para filmes indianos").
+entrada(fílmico, adj, [], "relativo a filmes").
+entrada("filmier", comparativo, [], "de filmy").
+entrada(mais_filme, superlativo, [], "de filme").
+entrada(filmily, adv, [], "de uma maneira translúcida").
+entrada(filmland, n, [filmlands], "filmdom").
+entrada(sem_filme, adj, [], "sem filme").
+entrada(filmico, adj, [], "semelhante a filme").
+entrada(filmset, v, [filmset, filmsetting, filmsets], "para conjunto de fotos").
+entry(filmy, adj, [], "SEMELHANTE A FILME OU COBERTO COM FILME NEBULOSO").
+entrada(filo, n, [filos], "phyllo").
+entrada(filose, adj, [], "assemelhando-se a um fio").
+entrada(filtro, v, [filtrado,filtragem,filtros], "passar através de um filtro um dispositivo para remover matéria suspensa").
+entrada(filterador, n, [filtradores], "aquele que filtra").
+entrada(imundície, n, [imundícies], "matéria suja ou fétida").
+entrada(imundo, adj, [], "MAIS IMUNDO MAIS IMUNDÍSSIMOofensivamente sujoIMUNDAMENTE adv").
+entrada(filtrar, v, [filtrado, filtrando, filtra], "filtrar").
+entrada(filum, n, [filamento], "uma estrutura anatômica semelhante a um fio").
+entrada(fimble, n, [fimbles], "a planta macho do cânhamo").
+entrada(fímbria, n, [fimbriae], "uma estrutura em forma de franja ou semelhante a uma franjaFIMBRIAL adj").
+entrada(fin, v, [finned, finning, fins], "equipar com barbatanas estruturas externas semelhantes a remos").
+entry(finable, adj, [], "sujeito ao pagamento de uma multa").
+entrada(finagle, v, [finagled, finagling, finagles], "obter por astúcia").
+entrada(finagler, n, [finaglers], "aquele que engana").
+entrada(final, n, [finais], "o último exame de um curso acadêmico").
+entrada(finale, n, [finales], "um fechamento ou término de algo").
+entry(finalis, n, [finales], "um tipo de tom na música medieval").
+entry(finalizar, v, [finalizado,finalizando,finaliza], "finalize").
+entrada(finalismo, n, [finalismos], "a doutrina de que todos os eventos são determinados por propósitos finais").
+entrada(finalista, n, [finalistas], "um concorrente que chega à última parte de uma competição").
+entrada(finalidade, n, [finalidades], "o estado de ser conclusivo").
+entrada(finalizar, v, [finalizado,finalizando,finaliza], "colocar em forma finalizada").
+entrada(finalmente, adv, [], "no final").
+entrada(finanças, v, [financiado, financiando, finanças], "prover o dinheiro para").
+entrada(finback, n, [finbacks], "o rorqual").
+entrada(finca, n, [fincas], "uma propriedade na América Espanhola").
+entrada(tentilhão, n, [tentilhões], "um pássaro pequeno").
+entrada(find, v, [found,finding,finds], "para encontrar após uma buscaENCONTRÁVEL adj").
+entrada(finder, n, [achadores], "aquele que acha").
+entrada(descoberta, n, [descobertas], "algo que é encontrado").
+entrada(fino, adj, [], "FINER FINESTexcelente").
+entrada(multa, v, [multou,multando,multas], "submeter a uma multa uma penalidade monetária").
+entrada(multável, adj, [], "finable").
+entry(finely, adv, [], "de forma fina").
+entrada(fineza, n, [finezas], "a qualidade de ser fino").
+entrada(mais_fino, comparativo, [], "de fino").
+entrada(ornamento, n, [ornamentos], "adereço elaborado").
+entrada(finespun, adj, [], "desenvolvido com extremo cuidado").
+entrada(finesse, v, [finessed,finessing,finesses], "conseguir através de manobra hábil").
+entrada(finest, n, [finests], "a polícia de uma cidade específica").
+entrada(peixe, n, [peixes], "um peixe verdadeiro").
+entry(finfoot, n, [finfoots], "uma ave aquática").
+entrada(dedo, v, [dedilei, dedilhando, dedos], "tocar com os dedos os membros terminais da mão").
+entrada(fingerer, n, [fingerers], "aquele que aponta/futrica").
+entrada(finial, n, [ficais], "um ornamento de coroaçãoFINIALED adj").
+entrada(finical, adj, [], "esquisito").
+entrada(finickin, adj, [], "exigente").
+entry(finicky, adj, [], "MAIS EXIGENTE MAIS EXIGENTESdifícil de agradar").
+entry(finikin, adj, [], "meticuloso").
+entry(finiking, adj, [], "exigente").
+entrada(multagem, n, [multas], "a clarificação dos vinhos").
+entrada(fim, n, [fins], "o fim").
+entry(terminar, v, [terminado,terminando,termina], "concluir").
+entry(concluidor, n, [concluidores], "aquele que conclui").
+entrada(finito, n, [finitos], "algo que é finito, tendo limites definidos").
+entrada(finitamente, adv, [], "a uma extensão finita").
+entry(finitismo, n, [finitismos], "a crença de que uma entidade particular é finita").
+entry(finitista, n, [finitistas], "um defensor do finitismo").
+entrada(finito, adj, [], "finished").
+entrada(finitude, n, [finitudes], "o estado de ser finito").
+entrada(fink, v, [finked,finking,finks], "informar à polícia").
+entrada(sem_barbatanas, adj, [], "sem barbatanas").
+entrada(finlike, adj, [], "semelhante a uma barbatana").
+entrada(finmark, n, [finmarks], "uma antiga unidade monetária da Finlândia").
+entrada(finnan, n, [finnans], "haddock defumado").
+entrada(finned, passado, [], "tenso de fin").
+entrada(finnicky, adj, [], "FINNICKIER FINNICKIESTfinicky").
+entrada(finnier, comparativo, [], "de finny").
+entry(finniest, superlative, [], "de finny").
+entrada(finning, presente, [], "particípio de fin").
+entrada(finnmark, n, [finnmarks], "finmark").
+entrada(finny, adj, [], "QUE TEM OU É CARACTERIZADO POR BARBATANAS FINNIER FINNIEST").
+entrada(fino, n, [finos], "um xerez muito seco").
+entry(finochio, n, [finochios], "uma erva perene").
+entrada(fiord, n, [fiordes], "fiorde").
+entrada(fipple, n, [fipples], "uma peça de madeira na boca de certos instrumentos de sopro").
+entrada(fogo, v, [fogo,fogando,fogos], "projetar disparando de uma armaFOGO adj").
+entry(arma_de_fogo, n, [armas_de_fogo], "uma arma de onde é disparado um tiro por pólvora").
+entrada(fireback, n, [firebacks], "uma chapa de ferro fundido ao longo da parte de trás de uma lareira").
+entry(bola_de_fogo, n, [bolas_de_fogo], "um meteoro luminoso").
+entrada(firebase, n, [firebases], "uma base militar da qual o fogo é dirigido contra o inimigo").
+entrada(firebird, n, [firebirds], "um pássaro de cores vivas").
+entry(barco_bombeiro, n, [barcos_bombeiros], "um barco equipado com aparato de combate a incêndios").
+entrada(bomba_incendiária, v, [bombardeou_com_incendiária,bombardeando_com_incendiária,bombardeia_com_incendiária], "atacar com bombas incendiárias").
+entrada(caixa_de_fogo, n, [caixas_de_fogo], "uma câmara na qual o combustível é queimado").
+entrada(firebrat, n, [firebrats], "um pequeno inseto sem asas").
+entrada(firebug, n, [firebugs], "um incendiário").
+entrada(argila_refretária, n, [argilas_refretárias], "uma argila resistente ao calor").
+entrada(despedido, passado, [], "tempo de despedir").
+entrada(gasfiredamp, n, [gasesfiredamp], "um gás combustível").
+entry(cachorro_de_fogo, n, [cachorros_de_fogo], "um ferro de lareira").
+entry(firefang, v, [firefanged,firefanging,firefangs], "decompor por oxidação").
+entrada(vaga-lume, n, [vaga-lumes], "um inseto luminoso").
+entrada(bombeiros, n, [bombeiros], "uma estação de bombeiros").
+entry(mangueira_de_incêndio, n, [mangueiras_de_incêndio], "uma mangueira usada por bombeiros").
+entrada(fireless, adj, [], "sem fogo").
+entry(firelit, adj, [], "iluminado por luz de fogo").
+entrada(trava_de_fogo, n, [travas_de_fogo], "um tipo de arma").
+entry(bombeiro, n, [bombeiros], "um homem empregado para extinguir incêndios").
+entry(firepan, n, [firepans], "uma panela aberta para conter brasas").
+entrada(firepink, n, [firepinks], "uma planta com flores").
+entrada(fogueira, n, [fogueiras], "uma depressão cavada no chão onde se faz uma fogueira").
+entrada(hidrante, n, [hidrantes], "um hidrante").
+entrada(firepot, n, [firepots], "um vaso de barro cheio de itens em chamas").
+entry(firer, n, [firers], "aquele que dispara").
+entrada(firereel, n, [firereels], "um caminhão de bombeiros").
+entrada(sala_de_fogo, n, [salas_de_fogo], "uma sala contendo as caldeiras de um navio").
+entrada(embarcação_inflamável, n, [embarcações_inflamáveis], "um navio em chamas enviado entre os navios inimigos").
+entry(lareira, n, [lareiras], "a área imediatamente ao redor de uma lareira").
+entrada(fisga-fogo, n, [fisgas-fogo], "um edifício que tem probabilidade de pegar fogo").
+entrada(firewall, n, [firewalls], "um componente de computador que impede o acesso não autorizado a dados").
+entrada(fogo-do-campo, n, [fogos-do-campo], "uma erva perene").
+entrada(lenha, n, [lenhas], "madeira usada como combustível").
+entry(fogos_de_artifício, n, [fogos_de_artifício], "um dispositivo para produzir uma exibição impressionante de luz ou um ruído alto").
+entrada(verme_de_fogo, n, [vermes_de_fogo], "um vaga-lume").
+entrada(disparo, n, [disparos], "o processo de maturação de produtos cerâmicos através do calor").
+entrada(firkin, n, [firkins], "uma unidade britânica de capacidade").
+entrada(firme, adj, [], "O MAIS FIRME INABALÁVEL").
+entrada(firma, v, [firmado, firmando, firmas], "tornar firme").
+entrada(firman, n, [firmans], "um edital emitido por um soberano do Oriente Médio").
+entrada(firmer, n, [firmers], "uma ferramenta de marcenaria").
+entry(firmemente, adv, [], "de maneira firme").
+entrada(firmeza, n, [firmezas], "o estado de ser firme").
+entrada(firmware, n, [firmwares], "programas de computador armazenados permanentemente em um microchip").
+entrada(firn, n, [firns], "neve").
+entry(firry, adj, [], "ABUNDANTE EM ABETOS").
+entrada(primeiro, n, [primeiros], "algo que precede todos os outros").
+entrada(primeiramente, adv, [], "antes de todos os outros").
+entry(firth, n, [firths], "um braço de mar").
+entrada(fisc, n, [fiscs], "um tesouro estatal ou real").
+entrada(fiscal, n, [fiscais], "um promotor público").
+entrada(fiscalmente, adv, [], "com relação a questões financeiras").
+entrada(peixe, v, [pescado,pescando,peixes], "capturar ou tentar capturar peixes vertebrados aquáticos de sangue frio").
+entry(fishable, adj, [], "adequado para pesca").
+entry(barcoDePesca, n, [barcosDePesca], "uma embarcação usada para pesca").
+entry(fishbolt, n, [fishbolts], "um tipo de parafuso").
+entrada(espinha_de_peixe, n, [espinhas_de_peixe], "um osso de um peixe").
+entry(aquário, n, [aquários], "um recipiente em que peixes vivos são mantidos").
+entrada(pescador, n, [pescadores], "aquele que pesca").
+entrada(pesqueiro, n, [pesqueiros], "um lugar para pegar peixes").
+entry(olho_de_peixe, n, [olhos_de_peixe], "um olhar suspeito").
+entrada(fishgig, n, [fishgigs], "um implemento pontiagudo para espetar peixes").
+entrada(anzol, n, [anzóis], "um gancho com farpas para pegar peixes").
+entrada(mais_peixe, comparativo, [], "de peixeiro").
+entry(fishiest, superlative, [], "de peixe").
+entrada(fishily, adv, [], "de maneira suspeita").
+entrada(pesca, n, [pescas], "a ocupação ou passatempo de pescar").
+entrada(peixe_mortífero, n, [peixes_mortíferos], "a destruição súbita de um grande número de peixes").
+entry(fishless, adj, [], "sem peixe").
+entrada(parecido_com_peixe, adj, [], "semelhante a um peixe").
+entrada(linhaparapeixe, n, [linhasparapeixes], "uma linha usada na pesca").
+entrada(farinha_de_peixe, n, [farinhas_de_peixe], "peixe seco moído").
+entry(rede_de_pesca, n, [redes_de_pesca], "uma rede para pegar peixes").
+entrada(cana_de_pescar, n, [canas_de_pescar], "uma vara de pesca").
+entrada(tanque_de_peixes, n, [tanques_de_peixes], "um tanque abundante em peixes comestíveis").
+entrada(fishtail, v, [fishtailed,fishtailing,fishtails], "ter a traseira de um veículo em movimento deslizando de um lado para o outro").
+entrada(via-peixe, n, [vias-peixe], "um dispositivo para permitir que os peixes passem por uma represa").
+entrada(peixeira, n, [peixeiras], "uma mulher que vende peixe").
+entrada(minhoca, n, [minhocas], "um verme usado como isca").
+entry(fishy, adj, [], "MAIS PEIXE MAIS PEIXEde ou semelhante a peixe").
+entrada(fissate, adj, [], "profundamente dividido").
+entrada(físsil, adj, [], "capaz de ser dividido").
+entrada(fission, v, [fissioned,fissioning,fissions], "dividir em partes").
+entry(fissípede, n, [fissípedes], "um mamífero que tem dedos separados").
+entry(fissural, adj, [], "relativo a uma abertura longa e estreita").
+entrada(fissura, v, [fissurada, fissurando, fissuras], "fissurar").
+entry(punho, v, [punhos,punhando,punha], "golpear com o punho a mão fechada com força").
+entrada(punhado, n, [punhados], "um punhado").
+entrada(fistic, adj, [], "relativo ao pugilismo").
+entrada(notafinal, n, [notasfinais], "uma parte de um texto à qual se chama atenção por meio de um índice").
+entrada(fístula, n, [fístulas], "ou FÍSTULASum ducto formado pelo fechamento imperfeito de uma feridaFÍSTULAR adj").
+entrada(fit, adj, [], "MELHOR MAISSAUDÁVEL").
+entrada(ajustar, v, [ajustado,ajustando,ajusta], "trazer a uma forma e tamanho requeridos").
+entrada(fitch, n, [fitches], "um furão").
+entrada(fitchee, adj, [], "fitchy").
+entry(fitchet, n, [fitchets], "um furão").
+entry(fitchew, n, [fitchews], "uma fitch").
+entry(fitchy, adj, [], "que tem os braços terminando em uma ponta usado para uma cruz heráldica").
+entrada(inconstante, adj, [], "ocorrendo irregularmenteINCONSTANTEMENTE adv").
+entrada(fitly, adv, [], "de maneira adequada").
+entrada(ajuste, n, [ajustes], "equipamento").
+entrada(fitness, n, [fitnesses], "o estado de estar em forma").
+entrada(ajustável, adj, [], "capaz de ser ajustado").
+entrada(fitted, passado, [], "tempo verbal de fit").
+entrada(ajustador, n, [ajustadores], "aquele que ajusta").
+entrada(mais_apto, superlativo, [], "de apto").
+entrada(adaptador, n, [adaptadores], "uma pequena peça acessória frequentemente padronizada").
+entrada(cinco, n, [cincos], "um número").
+entrada(quíntuplo, adj, [], "cinco vezes maior").
+entrada(cincoalfinetes, npl, [], "um jogo de boliche").
+entrada(cinco, n, [cincos], "uma nota de cinco dólares").
+entrada(fixar, v, [fixado, consertando, conserta], "repararFLEXIVEL adj").
+entry(fixar, v, [fixou,fixando,fixa], "tornar estável ou estacionário").
+entrada(fixatif, n, [fixatifs], "fixativo").
+entrada(fixation, n, [fixations], "o ato de fixar").
+entrada(fixative, n, [fixativos], "uma substância para preservar pinturas ou desenhos").
+entrada(fixedly, adv, [], "firmemente").
+entrada(fixer, n, [fixers], "um que conserta").
+entrada(fixings, npl, [], "acompanhamentos para o prato principal de uma refeição").
+entrada(fixit, n, [fixits], "uma pessoa conhecida por consertar coisas").
+entry(fixity, n, [fixidades], "estabilidade").
+entrada(fixt, a, [], "passado de fixar").
+entrada(acessório, n, [acessórios], "uma parte ou apêndice permanente de uma casa").
+entrada(fixure, n, [fixures], "firmeza").
+entrada(fiz, n, [fizzes], "um som de chiado ou crepitação").
+entrada(fizgig, n, [fizgigs], "fishgig").
+entrada(fizz, v, [fizzed,fizzing,fizzes], "produzir um som de chiar ou crepitar").
+entrada(fizzer, n, [fizzers], "algo que borbulha").
+entrada(fizzes, pl, [], "de fiz").
+entrada(fizzle, v, [fizzled,fizzling,fizzles], "efervescer").
+entrada(fizzy, adj, [], "FIZZIER FIZZIESTfizzingFIZZILY adv").
+entrada(fjeld, n, [fjelds], "um planalto elevado e árido").
+entrada(fjord, n, [fjords], "uma enseada estreita do mar entre penhascos íngremes FJORDIC adj").
+entrada(flab, n, [flabs], "tecido corporal flácido").
+entry(flabby, adj, [], "MAIS FLÁCIDO MAIS FLÁCIDOflácidoFLÁCIDAMENTE adv").
+entry(flabella, npl, [], "estruturas anatômicas em forma de leque").
+entrada(flácido, adj, [], "falta de firmeza").
+entrada(flack, v, [flacked,flacking,flacks], "trabalhar como assessor de imprensa").
+entry(flackery, n, [flackeries], "publicidade").
+entrada(frascos, n, [frascos], "uma pequena garrafa com tampa").
+entrada(bandeira, v, [bandeirado, bandeirando, bandeiras], "marcar com uma bandeira um pedaço de tecido usado como símbolo").
+entrada(flagela, npl, [], "longos e delgados brotos de plantas").
+entrada(sinalizador, n, [sinalizadores], "aquele que sinaliza").
+entrada(bandeirola, n, [bandeirolas], "um tipo de pavimento").
+entry(flaggy, adj, [], "MAIS FLÁCIDO MAIS FLÁCIDOcaído").
+entrada(sem-bandeira, adj, [], "sem bandeira").
+entrada(flagman, n, [porta-bandeiras], "aquele que carrega uma bandeira").
+entrada(flagon, n, [flagons], "uma garrafa grande e volumosa").
+entrada(mastro, n, [mastros], "um poste no qual uma bandeira é exibida").
+entry(flagrante, adj, [], "extremamente conspícuo").
+entrada(navio_almirante, n, [navios_almirantes], "um navio que ostenta a bandeira de uma frota").
+entrada(flail, v, [flailed, flailing, flails], "balançar livremente").
+entrada(flair, n, [flairs], "uma aptidão natural").
+entrada(flak, n, [flak], "fogo antiaéreo").
+entrada(flake, v, [descascar,descascando,descascas], "desprender-se em pedaços finos e planos").
+entrada(flaker, n, [flakers], "um que descasca").
+entrada(flakey, adj, [], "FLAKIER FLAKIESTflaky").
+entrada(flocoso, adj, [], "MAIS FLOCOSO O MAIS FLOCOSOresemblando flocosFLOCOSAMENTE adv").
+entrada(flam, v, [flammed, flamming, flams], "enganar").
+entrada(flambe, v, [flambeed, flambando, flambes], "regar com um licor e incendiar").
+entrada(flambeau, n, [flambeaus], "ou FLAMBEAUX uma tocha flamejante").
+entrada(flambee, adj, [], "flamejante").
+entrada(chama, v, [chamejou,chamejando,chamas], "ardem intensamente").
+entrada(flamen, n, [flamens], "ou FLAMINES, um sacerdote da Roma antiga").
+entrada(flamenco, n, [flamencos], "um estilo de dança fortemente rítmico").
+entrada(flameout, n, [flameouts], "uma falha de um motor a jato em voo").
+entry(flamer, n, [flamers], "aquele que inflama").
+entrada(flamier, comparativo, [], "de flamy").
+entrada(flamiest, superlativo, [], "de flamy").
+entrada(flamines, a, [], "pl de flamen").
+entry(flaming, presente, [], "particípio de flame").
+entrada(flamingo, n, [flamingos], "ou FLAMINGOES, uma ave pernaltas").
+entrada(flammed, passado, [], "tempo de flam").
+entrada(flaming, presente, [], "particípio de flam").
+entrada(flamy, adj, [], "FLAMIER FLAMIESTflaming").
+entrada(flan, n, [flans], "ou FLANES um tipo de pudim").
+entry(flancard, n, [flancards], "uma peça de armadura para o lado de um cavalo").
+entrada(flanerie, n, [flaneries], "ociosidade").
+entrada(flaneur, n, [flaneurs], "um desocupado").
+entrada(flange, v, [flanged,flanging,flanges], "fornecer com uma borda protetora").
+entrada(flangedor, n, [flangedores], "aquele que flangeia").
+entry(flanging, n, [flangings], "a provisão de uma borda protetora em um objeto").
+entry(flank, v, [flanqueado,flanqueando,flanqueia], "estar localizado ao lado de").
+entrada(flanken, npl, [], "carne de vaca cortada dos lados que é cozida com legumes").
+entrada(flanker, n, [flankers], "aquele que flanqueia").
+entrada(flanela, v, [flanelou, flanelando, flanelas], "ou FLANELADO FLANELANDO FLANELA para cobrir com flanela um tecido macio").
+entrada(abano, v, [abanou,abanando,abanos], "agitar para cima e para baixo").
+entrada(flaperon, n, [flaperons], "um aerofólio que funciona como flap e aileron").
+entrada(panqueca, n, [panquecas], "uma panqueca").
+entry(flapless, adj, [], "sem aba ou apêndice plano").
+entry(flapou, passado, [], "tempo de flap").
+entry(flapper, n, [flappers], "aquele que bate asas").
+entrada(batimento, presente, [], "particípio de bater").
+entrada(flappy, adj, [], "FLAPPIER FLAPPIESTflapping").
+entrada(flare, v, [flared, flaring, flares], "queimar com uma luz brilhante e vacilante").
+entrada(flareup, n, [flareups], "um surto repentino").
+entrada(flash, v, [flashed, flashing, flashes], "enviar um surto repentino de luz").
+entrada(flasher, n, [flashes], "aquele que pisca").
+entry(flashgun, n, [flashguns], "um aparelho fotográfico").
+entrada(flashings, n, [chapas], "chapa metálica usada na impermeabilização de um telhado").
+entrada(flashy, adj, [], "FLASHIER FLASHIESTgaudyFLASHILY adv").
+entrada(frasco, n, [frascos], "um recipiente de pescoço estreito").
+entrada(flacket, n, [frascos], "um pequeno frasco").
+entrada(flat, adj, [], "FLATTER FLATTESTtendo uma superfície lisa ou uniforme").
+entrada(flat, v, [flatted, flatting, flats], "achatar").
+entry(carreta, n, [carretas], "um tipo de caminhão ou reboque").
+entrada(chata, n, [chatas], "um barco de fundo plano").
+entrada(flatcap, n, [flatcaps], "um tipo de chapéu").
+entrada(carro_plano, n, [carros_planos], "um vagão de trem sem lados ou teto").
+entry(solha, n, [solhas], "qualquer um de uma ordem de peixes marinhos").
+entrada(pé_chato, n, [pés_chatos], "uma condição do pé").
+entrada(pé-chato, v, [pé-chato, pés-chatos, pé-chatoteando], "andar com um passo arrastado").
+entrada(flathead, n, [flatheads], "um peixe marinho comestível").
+entry(flatiron, n, [ferro_de_passar], "um dispositivo para passar roupas").
+entry(planície, n, [planícies], "terreno sem variação significativa em elevação").
+entrada(apatamento, n, [apatamentos], "um tipo de apartamento").
+entrada(flatline, v, [flatlined, flatlining, flatlines], "registrar-se como não tendo ondas cerebrais ou batimentos cardíacos").
+entrada(flatling, adv, [], "com um lado ou aresta plana").
+entrada(flatlong, adv, [], "flatling").
+entry(flatly, adv, [], "de maneira plana").
+entrada(flatmate, n, [flatmates], "um com quem se compartilha um apartamento").
+entrada(planicidade, n, [planicidades], "o estado de ser plano").
+entrada(flatpack, n, [flatpacks], "um pacote para um circuito integrado").
+entrada(flat, passado, [], "pretérito de nivelar").
+entrada(achatar, v, [achatado, achatando, achata], "fazer ou tornar-se plano").
+entry(bajular, v, [bajulou, bajulando, bajula], "elogiar excessivamente").
+entrada(adulação, n, [adulações], "o ato de adular").
+entrada(flattest, superlativo, [], "de plano").
+entrada(flattie, n, [flatties], "um sapato de salto baixo").
+entrada(flatting, presente, [], "particípio de flat").
+entrada(flattish, adj, [], "um tanto plano").
+entrada(flattop, n, [flattops], "um porta-aviões").
+entrada(flatus, n, [flatuses], "gás intestinal").
+entrada(faqueiro, n, [faqueiros], "talheres que são relativamente planos").
+entrada(flatwash, n, [flatwashes], "flatwork").
+entrada(flatways, adv, [], "flatwise").
+entrada(flatwise, adv, [], "com o lado plano em uma posição particular").
+entrada(trabalho_plano, n, [trabalhos_planos], "roupa que pode ser passada mecanicamente").
+entrada(planária, n, [planárias], "um verme de corpo achatado").
+entry(exibir, v, [exibiu, exibindo, exibe], "exibir de maneira ostensiva").
+entrada(exibidor, n, [exibidores], "aquele que exibe").
+entrada(flaunty, adj, [], "FLAUNTIER FLAUNTIESTgaudy").
+entrada(flauta, n, [flautas], "uma tortilla enrolada em torno de um recheio e frita").
+entry(flautista, n, [flautistas], "flautista").
+entry(flava, n, [flavas], "um estilo de música hip hop").
+entrada(flavanol, n, [flavanóis], "flavonol").
+entrada(flavina, n, [flavinas], "um pigmento amarelo").
+entrada(flavina, n, [flavinas], "flavina").
+entrada(flavona, n, [flavonas], "um composto químico").
+entrada(flavonol, n, [flavonóis], "um derivado de flavona").
+entrada(sabor, v, [saborizado, saborização, sabores], "dar um sabor distinto a").
+entrada(saborizante, n, [saborizantes], "aquele que saboriza").
+entry(saboroso, adj, [], "cheio de sabor").
+entry(sabor, v, [saborizado, saboreando, sabores], "dar sabor").
+entry(saboroso, adj, [], "flavory").
+entrada(defeito, v, [defeituoso,defeitando,defeitos], "produzir um defeito uma imperfeição em").
+entrada(impecável, adj, [], "sem falhas").
+entry(flawy, adj, [], "CHEIO DE DEFEITOS").
+entrada(linho, n, [linhos], "uma erva anual").
+entrada(flaxen, adj, [], "de cor amarela pálida").
+entrada(linhaca, n, [linhacas], "a semente do linho").
+entrada(flaxy, adj, [], "FLAXIER FLAXIESTflaxen").
+entry(flay, v, [esfola,esfolando,esfolar], "remover a pele de").
+entrada(flayer, n, [flayers], "aquele que esfolia").
+entrada(pulga, n, [pulgas], "um inseto parasita").
+entrada(fleabag, n, [fleabags], "um hotel inferior").
+entrada(margaridinha, n, [margaridinhas], "uma planta com flores").
+entrada(picada_de_pulga, n, [picadas_de_pulga], "a mordida de uma pulga").
+entrada(fleam, n, [fleams], "instrumento cirúrgico").
+entrada(fleapit, n, [fleapits], "um cinema decadente").
+entrada(pulguinha, n, [pulguinhas], "uma erva europeia").
+entrada(fleche, n, [fleches], "um campanário").
+entrada(fleck, v, [flecked,flecking,flecks], "marcar com manchas pequenas listras ou pontos").
+entrada(flecky, adj, [], "salpicado").
+entrada(flexão, n, [flexões], "o ato de dobrar").
+entrada(fled, passado, [], "tempo de fugir").
+entrada(fledge, v, [fledged,fledging,fledges], "adornar com penas").
+entrada(fledgy, adj, [], "FLEDGIER FLEDGIESTcoberto com penas").
+entry(fugir, v, [fugiu,fugindo,foge], "correr para longe").
+entrada(lanar, v, [lanou, lanando, lana], "remover o manto de lã de").
+entrada(fleecer, n, [fleecers], "um que explora").
+entry(fleech, v, [fleeched,fleeching,fleeches], "persuadir").
+entrada(fleecy, adj, [], "FLEECIER FLEECIESTwoollyFLEECILY adv").
+entrada(fleer, v, [fleered,fleering,fleers], "zombar").
+entrada(frota, adj, [], "FLEETER FLEETESTswiftFLEETLY adv").
+entrada(frota, v, [frotou, frotando, frotas], "mover rapidamente").
+entrada(flehmen, v, [flehmened, flehmening, flehmens], "inspirar com a boca aberta e lábio superior enrolado").
+entry(fleishig, adj, [], "feito de carne ou produtos de carne").
+entry(flamengo, v, [flamengado, flamengando, flamenga], "enrolar corda de uma certa maneira").
+entrada(flench, v, [flenched, flenching, flenches], "flenar").
+entry(fender, v, [fendeu,fendendo,fende], "remover a gordura ou pele de").
+entrada(flenser, n, [flensers], "um que esconde").
+entrada(carne, v, [carnou,carnando,carnas], "mergulhar na carne tecido corporal mole").
+entrada(flesher, n, [fleshers], "aquele que remove carne de peles de animais").
+entrada(mais_carnudo, comparativo, [], "de carnudo").
+entrada(fleshiest, superlativo, [], "de carnudo").
+entrada(fleshings, n, [fleshings], "a distribuição do magro e da gordura em um animal").
+entrada(carnal, adj, [], "MAIS*CARNAL MAIS*CARNALpertinente ao corpo").
+entrada(fleshpot, n, [fleshpots], "um pote para cozinhar carne").
+entrada(carnudo, adj, [], "MAIS CARNUDO MAIS CARNUDO tendo muita carne CARNUDAMENTE adv").
+entrada(fletch, v, [fletched,fletching,fletches], "empinar").
+entrada(fletcher, n, [fletchers], "aquele que faz flechas").
+entry(fleuron, n, [fleurons], "um ornamento floral").
+entrada(fleury, adj, [], "com os braços terminando em três folhas usado de uma cruz heráldica").
+entrada(voou, n, [voos], "uma rede de pesca").
+entrada(flex, v, [flexionou, flexionando, flexiona], "dobrarFLEXAGON n pl FLEXAGONSum papel dobradoFLEXÍVEL adj possível de dobrarFLEXIVELMENTE advFLEXÍVEL adj flexívelFLEXÃO n pl FLEXÕESato de dobrarFLEXOR n pl FLEXORESum músculo que serve para dobrar parte do corpoFLEXTIME n pl FLEXTIMESum sistema que permite horário de trabalho flexívelFLEXUOSO adj sinuosoFLEXIONADO adj ato de dobrarFLEXÂO n pl FLEXÕESato de dobrarFLEXÍVEL adjFLEXWING n pl FLEXWINGSum asa de tecido dobrável utilizada em planadoresFLEY v FLEYED FLEYING FLEYSe assustarFLIC n pl FLICSum policial parisienseFLICHTER v FLICHTERED FLICHTERING FLICHTERflickerFLICK v FLICKED FLICKING FLICKflickFLICK v FLICKED FLICKING FLICKacertar rapidamenteFLICKER v FLICKERED FLICKERING FLICKflickerFLIED passado de voarFLIER n pl FLIERSum que voaMOSCAS presente 3ª pessoa singular de voarFLIEST superlativo de voarVOO v VOADO VOANDO VOO voar em grupoFLIGHTY adj VARIANTE FLIGHTIESTinconstanteFLIMFLAM v FLIMFLAMMED FLIMFLAMMING FLIMFLAMfraudulentamenteFLIMSY adj MAIS FRÁGIL FLIMSIEST sem solidez ou forçaFLIMSY advFLIMSY n pl FLIMSIESpapel finoFLIVER v FLINCHED FLINCHING FLINCHestremecer involuntariamenteFLICHER n pl FLINCHERSaque estremecemFLINDER n pl FLINDERSum pequeno fragmentoLANÇAR v LIGOU LANÇANDO LANÇARpara lançar com forçaFRIADOR n pl LAUNCHERSum que lançaFLINKITE n pl FLINKITESum mineralFLINT v FLINTED FLINTING FLINTparar fornecer um sílex uma rocha que produz faíscasFLINTY adj MAIS DUR0 DURAissemelhante a sílexFLINTILIZADO advViradela do FLIP adj MAIS VIRADA MAIS FLIPpeãoFLIP v FLIPPED FLIPPING FLIPacertar com um movimento flexívelFLIPBOOK n pl FLIPBOOKSum livro de cenas animadasFLIPFLOP v FLIPFLOPADO FLIPFLOPANDO FLIPFLOPrevoluçãoFLIPANT adj desrespeitosoFLIPPED passado de flipFLIPPER n pl FLIPPERSuma nadadeira amplaFLIPPEST superlativo de virarFLIPANDO presente participio de flRIMPYEL adj MAIS FLARE MAIS RIMPY alargado na parte inferiorFLIR n pl FLIRSum sensor de calor FLIRT v FLIRTED FLIRTING FLIRTsem segundas intençõesFLIRTER n pl FLIRTERSum que paqueraFLIRTY adj MAIS rebelde MAIS REBELDE dado a paquerarLIGE v FLITTED FLITTING FLISTSfranjaLITCH v LITNED LITCHING LITCH estilhaçarLITE v LEVADO LITANDO LITArgamentarFRÔCO passado de leveFLITTER v LEVADO FLUTUANTE FLUTUARflutuarLERÃO presente particípio de voarFLIVVER n pl FLIVVERSum carro velho danificadoFLIXWEED n pl FLIXWEEDSum planta da família das mostardeirasFLUTON v FLUTONADO FLUTONINAMENTO FLUTONparafloatarFLUTAGEM n pl FLUTAGESSflutuabilidadeFLÖTEL n pl FLÖTELSum hotel de barco casaFLOTADOR n pl FLOTADORESUm que flutuaFLUTANTE adj MAI FLUENTE MÃO TENDEnto a flutuarFLOC v FLOCCANTADO FLOCCQUEENDO FLOCCcongregar em floculosFLOCCI pl de floccoFLOCCOSE adj com tufos de lãFLOCCULO n pl FLOCCULOSum tufadoFLOCCULI npl massas agregadasFLOCCUS n pl FLOCCUM um flecculoFLOCC v FLOCAD O FLOCKING / FLOQUEANDO FLOCKagregarFLOCKER n Flederers nada mais o que ela NÃO recebeFLOCKAGE n pl FLOCKSflockFLOE n pl FLOEUm bloco de gelo bloqueadoFLOA v FLOA FLOGGING FLOGpara golpearFLOG v FLOGADO FLUGGING FLOGbater com chicoteFOXEIRO n pl FLOGGERSu que baterFOGGING n pl FLOGGINGSum baterFOCA n pl FLOKATISUm carpete de lã gregaFLONG n pl FLONGSum folha de um certo tipo de papelFLOODA v FLOODADO INUNDANDO INUNDARpara inundarFLOBODA n pl FLOODERS que o inundaFLODING n pl INUNDANDO um enchimento com resíduosFLODLIGHT adj sozinhoFOODWAY n FLOODWAYSUm canal de transbordamentoFOOEY adj foraFLOOIE adj flooeyFLOOR v PISO matriz PISacciónLINGOACIONADOFLUIDAR v MOINDO TÁLIBERÁBIEEE MEPSFLUIDO n pl CAPACIDADES FLuidas são gentes fluídasCAPITYA N/MAXICAÇÕERE QUANTO BACK GRIFOFLUGEADUZENADOFLUIDARDOMFIGAS DO NBSUPENDÃOACIONALACIONARIAÇÃOARY FABRICADOFLUMOFLUMARATESCALLENGE, FLOATAGEFLOTAGEMDOSCASTS'BEWEENPEBLICASFLOATARFALLAheadFLUX e IRFA ir BTHONPOINTERFEALEADAHEDWAPPOLEVIPERLINETILLEDCAAAEMASCHIFERTEZICORRECESTRICLOANERAÇÃOOORXML IN THE TEAM koopt muscle folmetingCELLEDIEVALUES fasecamsDETO DELERCECLEARCADERCEPTILEPLABLEAUSEFOCUMENTALPAINAGEActualmente least DEFATISÃOADIER JEWREMENTALENESTE EXERCIDOSVERRACOSILESOURCECTIVE localidadesHECE SHAllESSION UNUEY LOCATHE ELEMENTALMENTIE DE TARCESSOAW FOARLOPS internacionalesNETIFANCE o profesIOAL RETAÇÃO EQUCULACITY AVAILKolusoARCS WHEN YOU L E O FOOTWERD.altres DE DUJUOSPIES FINAL RELIGATIVE AGDORALLATIONSSEMBLANGLIECOLICALLYMAL EDISTWAY CVALSENTRIFY RECTITIATTRITYEARTE PLINAS ALLE OFFERMINED BY 」。
+entry(gab, v, [tagarelou, tagarelando, tagarelas], "tagarelar").
+entrada(gabba, n, [gabbas], "música com som agressivo e batida muito rápida").
+entrada(gabbard, n, [gabbards], "uma barcaça").
+entrada(gabbart, n, [gabbarts], "gabbard").
+entrada(tagarelou, passado, [], "tempo de tagarelar").
+entrada(gabber, n, [gabbers], "aquele que fala").
+entrada(gabbier, comparativo, [], "de gabby").
+entrada(gabbiest, superlativo, [], "de gabby").
+entrada(tagarelando, presente, [], "particípio de tagarelar").
+entrada(gabble, v, [gabbled,gabbling,gabbles], "falar rapidamente").
+entrada(gabbler, n, [tagarelas], "aquele que tagarela").
+entrada(gabro, n, [gabros], "um tipo de rochaGABBROICO GABBROIDE adj").
+entry(gabby, adj, [], "GABBIER GABBIESTfalador").
+entrada(gabelle, n, [gabelles], "um imposto sobre o salGABELLED adj").
+entrada(gabfest, n, [gabfests], "uma reunião informal para conversa geral").
+entrada(gabies, pl, [], "de gaby").
+entry(gabião, n, [gabiões], "um tipo de cesta").
+entrada(gable, v, [gabled, gabling, gables], "formar uma seção triangular de uma parede").
+entrada(gaboon, n, [gaboons], "um cuspidor").
+entrada(gaby, n, [gabies], "um paspalhão").
+entrada(gach, v, [gached,gaching,gaches], "gachar").
+entrada(gacher, n, [gachers], "gatcher").
+entrada(gad, v, [gadded,gadding,gads], "vaguear inquietamente").
+entrada(gadabout, n, [gadabouts], "aquele que perambula").
+entrada(gadarene, adj, [], "precipitado").
+entrada(gadded, passado, [], "tempo de gad").
+entrada(gadder, n, [gadders], "um que vagueia por aí").
+entrada(gaddi, n, [gaddis], "um escabelo").
+entry(gadding, presente, [], "particípio de gad").
+entrada(mosca, n, [moscas], "uma mosca que morde").
+entrada(aparelho, n, [aparelhos], "um dispositivo mecânicoGADGETY adj").
+entrada(gadgetry, n, [gadgetries], "a invenção ou construção de gadgets").
+entrada(gadi, n, [gadis], "gaddi").
+entrada(gadid, n, [gadídeos], "gadídeo").
+entrada(gadoide, n, [gadoides], "um tipo de peixe").
+entrada(gadroon, v, [gadrooned,gadrooning,gadroons], "decorar com faixas de moldagem canelada ou em relevo").
+entry(pato-branco, n, [patos-brancos], "um pato selvagem").
+entry(gadzooks, interj, [], "usado como um leve juramento").
+entrada(gae, v, [], "GAED GANE ou GAEN GAEING ou GAUN GAESto go").
+entrada(gaff, v, [gaffed, gaffing, gaffs], "pegar um peixe com um gancho afiado").
+entry(gaffe, n, [gaffes], "uma gafe social").
+entrada(gaffer, n, [gaffers], "um homem velho").
+entrada(gag, v, [amordaçou,amordaçando,amordaças], "tapar a boca").
+entry(gaga, adj, [], "louco").
+entrada(gagaku, n, [gagakus], "música de corte antiga do Japão").
+entry(gage, v, [gaged,gaging,gages], "empenhar como garantia GAGEABLE adj").
+entrada(gager, n, [gagers], "gauger").
+entrada(amordaçado, passado, [], "tempo de amordaçar").
+entrada(gagger, n, [gaggers], "aquele que amordaça").
+entry(gagging, presente, [], "particípio de gag").
+entrada(gaggle, v, [gaggled, gaggling, gaggles], "cacarejar").
+entrada(engenhoca, presente, [], "particípio de enganar").
+entrada(gagman, n, [gagmen], "aquele que escreve piadas").
+entrada(gagster, n, [gagsters], "um gagman").
+entrada(gahnite, n, [gahnites], "um mineral").
+entrada(alegria, n, [alegrias], "atividade festiva").
+entrada(gaijin, n, [gaijin], "um estrangeiro no Japão").
+entrada(alegremente, adv, [], "de maneira alegre").
+entrada(ganhar, v, [ganhou, ganhando, ganha], "adquirirGANHAVEL adj").
+entrada(ganhador, n, [ganhadores], "aquele que ganha").
+entry(remunerativo, adj, [], "lucrativo").
+entrada(sem_lucro, adj, [], "sem_lucro").
+entrada(elegante, adj, [], "MAIS_ELEGANTE MAIS_ELEGANTÍSSIMO gracioso").
+entrada(contestar, v, [contestou, contestando, contesta], "negar").
+entrada(against, prep, [], "contra").
+entry(marcha, v, [marchou,marchando,marchas], "treinar um cavalo para se mover de uma maneira particular").
+entry(polaina, n, [polainas], "uma cobertura para a perna inferiorGAITERED adj").
+entrada(gal, n, [gals], "uma menina").
+entrada(gala, n, [galas], "uma celebração").
+entrada(galabia, n, [galabias], "djellaba").
+entrada(galabieh, n, [galabiehs], "djellaba").
+entrada(galabiya, n, [galabiyas], "djellaba").
+entrada(galáctico, adj, [], "relativo a uma galáxia").
+entrada(galago, n, [galagos], "um pequeno primata").
+entrada(galah, n, [galahs], "um cacatua").
+entrada(galanga, n, [galangas], "galangal").
+entrada(galangal, n, [galangais], "uma planta medicinal").
+entrada(galatea, n, [galateias], "um tecido de algodão forte").
+entrada(galavant, v, [galavanted, galavanting, galavants], "vaguear").
+entrada(galax, n, [galaxes], "uma erva perene").
+entrada(galaxia, n, [galaxias], "um grande sistema de corpos celestes").
+entrada(gálbano, n, [gálbanos], "uma resina goma").
+entrada(gale, v, [galed,galing,gales], "brincar alegremente").
+entrada(galea, n, [galeas], "ou GALEAE uma parte anatômica em forma de capacete GALEADO GALEADO adj").
+entrada(galena, n, [galenas], "o principal minério de chumboGALÊNICO adj").
+entrada(galenite, n, [galenites], "galena").
+entry(galere, n, [galeres], "um grupo de pessoas com uma qualidade comum").
+entry(galette, n, [galettes], "um bolo redondo e achatado").
+entry(galilee, n, [galilees], "um tipo de varanda").
+entrada(galing, presente, [], "particípio de ventar").
+entrada(galiot, n, [galiots], "galliot").
+entrada(galipot, n, [galipots], "um tipo de terebintina").
+entrada(galivantar, v, [galivantou, galivantando, galivanta], "perambular").
+entrada(frustração, v, [frustrou, frustrando, frustra], "vexar ou irritar").
+entry(gallant, v, [gallanted,gallanting,gallants], "cortejar uma mulher").
+entrada(galato, n, [galatos], "um sal químico").
+entrada(galeassa, n, [galeassas], "uma grande galé de guerra").
+entrada(galeína, n, [galeínas], "um corante verde").
+entry(galeão, n, [galeões], "um grande veleiro").
+entrada(galeria, n, [galerias], "uma passagem ou pátio cobertos").
+entrada(galeria, v, [galeriei, galeriam, galerias], "fornecer uma área coberta longa").
+entrada(gallet, v, [galleted, galleting, gallets], "preencher juntas de argamassa com fragmentos de pedra").
+entrada(galleta, n, [galletas], "uma grama perene").
+entrada(galea, n, [galeas], "um navio medieval longo e baixo").
+entrada(besouro-da-galha, n, [besouros-da-galha], "um pequeno inseto").
+entrada(galliard, n, [galliards], "uma dança animada").
+entrada(galeassa, n, [galeassas], "galleass").
+entrada(gálico, adj, [], "contendo gálio").
+entrada(gallica, n, [gallicas], "uma rosa europeia").
+entry(galicano, adj, [], "relativo a um movimento religioso francês").
+entry(gallied, passado, [], "tempo de gally").
+entrada(gallies, presente, [], "3ª pessoa sing de gally").
+entrada(galeota, n, [galeotas], "uma pequena galé").
+entry(galheteiro, n, [galheteiros], "um pequeno pote de barro").
+entrada(gálio, n, [gálios], "um elemento metálico").
+entry(gálea, n, [gálias], "um inchaço anormal do tecido vegetal").
+entry(galao, n, [galoes], "uma unidade de medida de líquidos").
+entrada(quarto, n, [quartas], "uma fita ornamental").
+entry(galute, n, [galutes], "grosserão").
+entrada(galope, v, [galopou,galopando,galopes], "cavalgar um cavalo a toda velocidade").
+entrada(galopador, n, [galopadores], "aquele que galopa").
+entry(gallous, adj, [], "contendo gálio").
+entrada(galloway, n, [galloways], "uma raça de gado sem chifres").
+entry(forca, n, [forcas], "uma estrutura usada para enforcar uma pessoa condenada").
+entrada(gallus, n, [galluses], "um suspensório para calçasGALLUSED adj").
+entrada(gally, v, [gallied,gallying,gallies], "assustar").
+entrada(galoot, n, [galoots], "uma pessoa desajeitada ou rústica").
+entrada(galope, v, [galopou,galopando,galopa], "dançar um galope, uma dança animada e circular").
+entry(galopade, n, [galopades], "uma dança animada em círculos").
+entrada(galore, n, [galores], "abundância").
+entrada(galocha, n, [galochas], "um calçadoGALOCHADO adj").
+entrada(galoshe, n, [galoshes], "galosh").
+entrada(galumph, v, [galumphed, galumphing, galumphs], "mover-se desajeitadamente").
+entrada(galvânico, adj, [], "relativo a uma corrente elétrica direta").
+entrada(galyac, n, [galyacs], "galyak").
+entrada(galyak, n, [galyaks], "um pelo feito de couro de cordeiro").
+entry(gam, v, [gammed,gamming,gams], "visitar socialmente").
+entrada(gama, n, [gama], "um capim de pasto").
+entrada(gamashes, npl, [], "botas usadas por cavaleiros").
+entrada(gamay, n, [gamays], "uma uva tinta").
+entrada(perna, n, [pernas], "uma perna").
+entrada(gamba, n, [gambas], "uma viola da gamba").
+entrada(gambade, n, [gambades], "a gambado").
+entrada(gambado, n, [gambados], "ou GAMBADOES um salto feito por um cavalo").
+entrada(gambe, n, [gambes], "gamb").
+entrada(gambeson, n, [gambesons], "um casaco medieval").
+entrada(gambia, n, [gâmbias], "gambier").
+entrada(gambier, n, [gambiers], "um extrato obtido de uma videira asiática").
+entrada(gambir, n, [gambirs], "gambier").
+entrada(gambito, n, [gambitos], "um tipo de abertura de xadrez").
+entrada(jogar, v, [jogou,jogando,joga], "jogar um jogo de azar por dinheiro ou bens valiosos").
+entrada(jogador, n, [jogadores], "um que aposta").
+entrada(gamboge, n, [gamboges], "uma resina de goma").
+entrada(gambol, v, [gamboled,gamboling,gambols], "ou GAMBOLLED GAMBOLLING GAMBOLSto saltar alegremente").
+entrada(empena, n, [empenas], "uma parte da perna de um cavalo").
+entry(gambusia, n, [gambusias], "um pequeno peixe").
+entrada(jogo, adj, [], "GAMER GAMESTplucky").
+entrada(jogo, v, [jogado, jogando, jogos], "apostar").
+entry(livro_do_jogo, n, [livros_do_jogo], "um livro de estratégias usado por uma equipe esportiva").
+entrada(galo_de_briga, n, [galos_de_briga], "um galo treinado para lutar").
+entrada(gamefish, n, [peixes_de_esporte], "um peixe capturado por esporte").
+entrada(gamefowl, n, [gamefowls], "um galo de briga").
+entry(gamelan, n, [gamelans], "um tipo de orquestra").
+entrada(gamelike, adj, [], "semelhante a um jogo, um concurso regido por um conjunto de regras").
+entrada(gamely, adv, [], "de forma lúdica").
+entrada(bravura, n, [bravuras], "a qualidade de ser bravo").
+entrada(jogabilidade, n, [jogabilidades], "a forma como um jogo de computador ou videogame é jogado").
+entrada(gamer, n, [gamers], "um jogador ávido").
+entrada(gamesman, n, [gamesmen], "aquele que joga jogos").
+entrada(gamesome, adj, [], "brincalhão").
+entrada(gamest, superlativo, [], "de jogo").
+entrada(jogador, n, [jogadores], "um apostador").
+entry(gameta, n, [gametas], "uma célula reprodutiva maduraGAMÉTICO adj").
+entrada(gamey, adj, [], "GAMIER GAMIESTgamy").
+entrada(gamic, adj, [], "requerendo fertilização").
+entrada(gamier, comparativo, [], "de gamy").
+entrada(gamiest, superlativo, [], "de gamy").
+entrada(jogo, adv, [], "de maneira lúdica").
+entrada(gamin, n, [gamins], "um urchin").
+entry(gamine, n, [gamines], "uma maria-rapaz").
+entrada(gaminess, n, [gaminesses], "a qualidade de ser gamy").
+entrada(jogos_de_azar, n, [jogos_de_azares], "a prática de apostas").
+entrada(gama, n, [gamas], "uma letra grega").
+entrada(gammadia, npl, [], "desenhos ornamentais gregos").
+entrada(gammed, passado, [], "tempo de gam").
+entrada(gammer, n, [gammers], "uma mulher idosa").
+entrada(gammier, comparativo, [], "de gammy").
+entrada(gammiest, superlativo, [], "de gammy").
+entrada(gaming, presente, [], "particípio de gam").
+entrada(gammon, v, [gamonado, gamonando, gamona], "enganar com conversa enganosa").
+entrada(gammoner, n, [gammoners], "um que gammon").
+entrada(gammy, adj, [], "GAMMIER GAMMIESTlame").
+entrada(gamodeme, n, [gamodemes], "uma comunidade reprodutiva de organismos um tanto isolada").
+entrada(gamp, n, [gamps], "um grande guarda-chuva").
+entrada(gama, n, [gamas], "um alcance inteiro").
+entrada(gamy, adj, [], "GAMIER GAMIESTplucky").
+entrada(gan, passado, [], "tempo de gin").
+entrada(ganache, n, [ganaches], "mistura cremosa de chocolate").
+entry(gander, v, [gandered,gandering,ganders], "vaguear").
+entrada(gane, a, [], "particípio passado de gae").
+entrada(ladrao, n, [ladroes], "um ladrão").
+entrada(ganev, n, [ganevs], "ganef").
+entrada(gang, v, [ganged,ganging,gangs], "formar um grupo em gangue").
+entry(gangbang, v, [gangbanged,gangbanging,gangbangs], "participar em atividades relacionadas a gangues").
+entrada(ganger, n, [gangers], "um capataz de um grupo de trabalhadores").
+entrada(gangland, n, [ganglands], "o submundo do crime").
+entrada(gangle, v, [gangled, gangling, gangles], "mover-se desajeitadamente").
+entrada(gânglios, a, [], "pl de gânglio").
+entry(ganglial, adj, [], "ganglial").
+entrada(gangliar, adj, [], "relativo a um gânglio").
+entry(ganglier, comparativo, [], "de gangly").
+entrada(gangliest, superlativo, [], "de gangly").
+entrada(gangling, adj, [], "desajeitadamente alto e magro").
+entrada(ganglio, n, [ganglios], "ou GANGLIA um grupo de células nervosas").
+entrada(gangly, adj, [], "GANGLIER GANGLIESTgangling").
+entrada(arado_multiplano, n, [arados_multiplanos], "um implemento agrícola").
+entrada(gangrel, n, [gangrels], "um vagabundo").
+entrada(gangrena, v, [gangrenou, gangrenando, gangrenas], "sofrer a perda de tecido em parte do corpo").
+entrada(gangsta, n, [gangstas], "um membro de uma gangue de rua").
+entrada(gangster, n, [gangsters], "um membro de uma gangue criminosa").
+entrada(ganga, n, [gangas], "a rocha sem valor na qual minerais valiosos são encontrados").
+entrada(passadiço, n, [passadiços], "uma passagem").
+entrada("ganister", n, ["ganisters"], "um tipo de rocha").
+entrada(ganja, n, [ganjas], "cannabis usada para fumar").
+entrada(ganjah, n, [ganjahs], "ganja").
+entrada(ganso, n, [gansos], "uma grande ave marinha").
+entrada(gannetry, n, [gannetries], "um lugar onde gansos marinhos se reproduzem").
+entrada(ganof, n, [ganofs], "ganef").
+entrada(ganoide, n, [ganoides], "um tipo de peixe").
+entrada(passadiço, v, [passadiçado, passadiçando, passadiços], "sobrepor os trilhos da ferrovia").
+entrada(gantline, n, [gantlines], "uma corda em um navio").
+entrada(gantlope, n, [gantlopes], "um antigo castigo militar").
+entrada(pórtico, n, [pórticos], "uma estrutura para suportar sinais ferroviários").
+entrada(ganimedes, n, [ganimedes], "um jovem que serve bebidas").
+entrada(ganzfeld, n, [ganzfelds], "uma técnica de controle de estímulos sensoriais usada em parapsicologia").
+entrada(cadeia, v, [encarcerou, encarcerando, encarceramentos], "prender").
+entry(prisioneiro, n, [prisioneiros], "jailbird").
+entrada(carcereiro, n, [carcereiros], "jailer").
+entrada(gap, v, [gapped,gapping,gaps], "fazer uma abertura em").
+entrada(boquiaberto, v, [boquiabertei, boquiabertando, boquiaberta], "olhar com a boca aberta").
+entry(boquiaberto, n, [boquiabertos], "aquele que fica boquiaberto").
+entrada(gapeseed, n, [gapeseeds], "algo que causa admiração").
+entrada(vertigem, n, [vertigens], "um verme que causa uma doença em aves jovens").
+entrada(escancarando, presente, [], "particípio de escancarar").
+entrada(gapingly, adv, [], "de forma boquiaberta").
+entrada(gapless, adj, [], "sem lacuna").
+entry(gaposis, n, [gaposises], "uma lacuna numa fileira de botões ou fechos").
+entrada(com_lacunas, passado, [], "tempo de lacuna").
+entrada(separando, presente, [], "particípio de separar").
+entrada(gappy, adj, [], "MAIS GAPPIER MAIS GAPPIESTcom aberturas").
+entrada(gapy, adj, [], "infestado com vermes de gaivotas").
+entrada(gar, v, [garred, garring, gars], "para causar ou compelir").
+entrada(garagem, v, [garaged,garaing,garagens], "colocar em uma garagem como abrigo para carro").
+entrada(fardar, v, [fardado,fardando,farda], "vestir").
+entrada(lixo, n, [lixos], "desperdício de comidaLIXOE LIXENTO adj").
+entry(grão-de-bico, n, [grãos-de-bico], "uma ervilha").
+entry(embaralhar, v, [embaralhado, embaralhando, embaralha], "distorcer o significado de").
+entrada(garbler, n, [garblers], "aquele que distorce").
+entry(garbless, adj, [], "estar sem roupa").
+entrada(garboard, n, [garboards], "uma tábua na parte inferior de um navio").
+entry(garboil, n, [garboils], "tumulto").
+entrada(garcon, n, [garcons], "um garçom").
+entrada(garda, n, [gardai], "um oficial de polícia na Irlanda").
+entrada(gardant, adj, [], "virado diretamente para o observador usado para um animal heráldico").
+entrada(jardim, v, [cultivou,cultivando,cultiva], "cultivar um pedaço de terra").
+entrada(jardineiro, n, [jardineiros], "aquele que jardina").
+entrada(gardenia, n, [gardenias], "um arbusto ou árvore tropical").
+entrada(gardyloo, interj, [], "usado como um grito de aviso").
+entrada(garfish, n, [garfishes], "um peixe de água doce").
+entry(garganey, n, [garganeys], "um pequeno pato").
+entry(garget, n, [gargets], "mastite de animais domésticosGARGETY adj").
+entrada(gargarejar, v, [gargarejou,gargarejando,gargareja], "enxaguar a boca ou garganta").
+entrada(gargarejador, n, [gargarejadores], "aquele que gargareja").
+entrada(gargoyle, n, [gárgulas], "uma figura ornamental").
+entrada(garrigue, n, [garrigues], "uma vegetação rasteira").
+entry(garrido, adj, [], "de maneira chamativaGARISHLY adv").
+entrada(guirlanda, v, [guirlandado, guirlandando, guirlandas], "decorar com guirlandas de flores").
+entry(alho, v, [temperado_com_alho, temperando_com_alho, alhos], "temperar com alho uma erva usada na culinária").
+entry(alho, adj, [], "MAIS ALHO CHEIRAMILHO CHEIRESTsmelling or tasting of garlic").
+entrada(vestuário, v, [trajado,trajando,trajes], "vestir").
+entrada(garner, v, [garnered, garnering, garners], "recolher e armazenar").
+entrada(granada, n, [granadas], "um mineral").
+entrada(garni, adj, [], "guarnecido").
+entrada(enfeitar, v, [enfeitou,enfeitamento,enfeita], "decorar").
+entry(gargalo, v, [garrotei, garrotando, garrota], "estrangular").
+entry(garrote, v, [garotou, garotando, garotes], "estrangular com corda").
+entry(garotter, n, [garotters], "aquele que garroteia").
+entrada(peixe-agulha, n, [peixes-agulha], "um peixe-agulha").
+entrada(garred, passado, [], "tempo de gar").
+entrada(sotao, n, [sotaos], "um sótãoGARRETED adj").
+entrada(garring, presente, [], "particípio de gar").
+entrada(garrison, v, [guarnecido,guarnecendo,guarnece], "atribuir a um posto militar").
+entrada(garron, n, [garrons], "um cavalo pequeno e robusto").
+entry(garrota, v, [garrotou,garrotando,garrotas], "executar por estrangulamento").
+entry(garroteador, n, [garroteadores], "aquele que garroteia").
+entry(garrote, v, [garrotei,garrotando,garrotes], "estrangular com garrote").
+entry(cinta‑liga, v, [com_cinta‑liga, colocando_cinta‑liga, cintas‑ligas], "prender com uma cinta elástica").
+entrada(garth, n, [garths], "um quintal ou jardim").
+entrada(garvey, n, [garveys], "um pequeno scow").
+entrada(gas, v, [gaseificado,gaseificando,gases], "ou GASES para fornecer com gás uma substância capaz de expansão indefinida").
+entrada(gasalier, n, [gasaliers], "gaselier").
+entrada(sacodegás, n, [sacodegáses], "um saco para armazenar gás").
+entrada(gascon, n, [gascons], "um fanfarrão").
+entrada(gaseity, n, [gaseities], "o estado de ser um gás").
+entrada(candeeiro_a_gas, n, [candeeiros_a_gas], "um candelabro a gás").
+entry(gasoso, adj, [], "relativo ao gás").
+entry(gash, adj, [], "GASHER GASHESTsabendo").
+entrada(gash, v, [gashed,gashing,gashes], "fazer um corte longo e profundo em").
+entrada(casadegás, n, [casasdegás], "uma usina de gás").
+entrada(gasificado, passado, [], "tempo de gasificar").
+entrada(gasificador, n, [gasificadores], "aquele que gasifica").
+entry(gasiforme, adj, [], "tendo a forma de gás").
+entry(gasificar, v, [gasificou,gasificando,gasifica], "converter em gás").
+entrada(junta, n, [juntas], "vedação para tornar algo estanqueJUNTADA adj").
+entry(gaskin, n, [gaskins], "uma parte da perna de um cavalo").
+entrada(gasking, n, [gaskings], "uma junta").
+entrada(sem_gás, adj, [], "sem gás").
+entrada(gaslight, n, [gaslights], "luz feita pela queima de gás").
+entry(gaslit, adj, [], "iluminado por luz de gás").
+entrada(gasista, n, [gasistas], "um funcionário de uma companhia de gás").
+entrada(gasogene, n, [gasogenes], "gazogene").
+entrada(gasohol, n, [gasohols], "uma mistura de combustível de gasolina e álcool etílico").
+entrada(gasolina, n, [gasolinas], "gasoline").
+entrada(gasolier, n, [gasoliers], "gaselier").
+entrada(gasolina, n, [gasolinas], "um combustível líquido").
+entrada(suspiro, v, [suspirou,suspirando,suspiros], "respirar convulsivamente").
+entrada(gasper, n, [gaspers], "um cigarro").
+entrada(gassed, passado, [], "tempo de gas").
+entrada(gasser, n, [gassers], "aquele que gaseia").
+entrada(gases, a, [], "terceira pessoa do singular do presente de gas").
+entrada(envenenamento, n, [envenenamentos], "uma intoxicação por gás nocivo").
+entrada(gassy, adj, [], "MAIS GASOSO MAIS GASOSOcontendo gásGASSILY adv").
+entry(gast, v, [gasted,gasting,gasts], "assustar").
+entrada(gaster, n, [gasters], "a parte aumentada do abdômen em alguns insetos").
+entry(gasthaus, n, [gasthauses], "ou GASTHAUSER um pequeno hotel na Alemanha").
+entrada(gastight, adj, [], "não permitindo que o gás escape ou entre").
+entrada(gastness, n, [gastnesses], "medo").
+entrada(gastraea, n, [gastraeas], "um tipo de metazoário").
+entry(gastral, adj, [], "relativo ao estômago").
+entrada(gastrea, n, [gastreas], "gastraea").
+entrada(gástrico, adj, [], "relativo ao estômago").
+entrada(gastrina, n, [gastrinas], "um hormônio").
+entrada(gástrula, n, [gástrulas], "ou GASTRULASum embrião metazoário").
+entrada(gasworks, n, [gasworks], "uma fábrica onde o gás é produzido").
+entry(gat, n, [gats], "uma pistola").
+entrada(gatch, v, [gatched,gatching,gatches], "comportar-se de forma vaidosa").
+entrada(gatcher, n, [gatchers], "um que gatcha").
+entrada(portão, v, [portões,portar,portões], "fornecer com um portão uma barreira móvel").
+entrada(bolo, n, [bolos], "ou GATEAUX um bolo sofisticado").
+entrada(porta_folha, n, [porta_folhas], "um encarte dobrado em um livro ou revista").
+entrada(gateleg, n, [gatelegs], "uma mesa com extensões suportadas por pernas móveis").
+entry(gateless, adj, [], "falta de um portão").
+entrada(gatelike, adj, [], "semelhante a um portão").
+entrada(portão, n, [porteiros], "uma pessoa encarregada de um portão").
+entry(pilar, n, [pilares], "um poste do qual um portão é pendurado").
+entrada(jacaré, n, [jacarés], "jacaré").
+entrada(porta, n, [portas], "uma passagem que pode ser fechada por um portão").
+entrada(recolher, v, [recolhido,recolhendo,recolhe], "reunir em um só lugar ou grupo").
+entrada(coletor, n, [coletores], "aquele que coleta").
+entrada(gating, n, [gatings], "o processo de abrir e fechar um canal").
+entrada(jacaré, n, [jacarés], "um jacaré").
+entrada(gauch, v, [gauched,gauching,gauches], "agarrar").
+entrada(gauche, adj, [], "GAUCHER GAUCHESTfalta de graça socialGAUCHELY adv").
+entrada(gaucher, n, [gauchers], "gatcher").
+entry(gaucho, n, [gaúchos], "um vaqueiro das pampas sul-americanas").
+entrada(gaud, n, [gauds], "um enfeite vistoso").
+entrada(gaudery, n, [gauderies], "finery").
+entrada(gaudy, adj, [], "GAUDIER GAUDIESTexcessivamente chamativoGAUDILY adv").
+entrada(gaudy, n, [gaudies], "um festival").
+entrada(gauffer, v, [gauffrei,gauffrando,gauffres], "gofar").
+entrada(calibre, v, [calibrado,calibrar,calibres], "medir com precisão").
+entry(gauger, n, [gaugers], "aquele que mede").
+entry(gault, n, [gaults], "um solo argiloso pesado e espesso").
+entrada(gaum, v, [gaumed, gauming, gaums], "manchar").
+entrada(gaun, presente, [], "particípio de gae").
+entrada(gaunch, n, [gaunches], "cuecas").
+entry(gaunt, adj, [], "GAUNTER GAUNTESTemaciatedGAUNTLY adv").
+entrada(gauntlet, v, [gauntleted, gauntleting, gauntlets], "to gantlet").
+entry(gauntry, n, [gauntries], "pórtico").
+entrada(gaur, n, [gaurs], "um boi selvagem").
+entrada(gauss, n, [gausses], "uma unidade de indução magnética").
+entrada(gaze, n, [gazes], "um tecido transparente").
+entrada(gauzy, adj, [], "GAUZIER GAUZIESTsemelhante a gazeGAUZILY adv").
+entry(gavage, n, [gavações], "introdução de material no estômago por um tubo").
+entrada(deu, passado, [], "tempo de give").
+entrada(martelo, v, [martelou,martelando,martelos], "ou MARTELOU MARTELO MARTELOS para sinalizar atenção ou ordem com o uso de um martelo pequeno").
+entrada(gavelock, n, [gavelocks], "uma alavanca").
+entrada(gavial, n, [gaviais], "um grande réptil").
+entrada(gavot, n, [gavots], "uma dança francesa").
+entrada(gavotte, v, [gavotted,gavotting,gavottes], "dançar um gavote").
+entry(gawk, v, [gawked,gawking,gawks], "encarar estupidamente").
+entrada(gawker, n, [gawkers], "alguém que encara").
+entrada(gawkier, comparativo, [], "de desajeitado").
+entrada(gawkies, pl, [], "de desajeitado").
+entrada(gawkish, adj, [], "desajeitado").
+entry(desajeitado, adj, [], "DESAJEITADO MAIS DESAJEITADOawkwardDESAJEITADAMENTE adv").
+entrada desajeitado, n, [desajeitados], "uma pessoa desajeitada").
+entrada(gawmoge, n, [gawmoges], "uma pessoa palhaça").
+entry(gawp, v, [gawped,gawping,gawps], "encarar estupidamente").
+entry(gawper, n, [gawpers], "aquele que fita").
+entrada(gawsie, adj, [], "bem alimentado e com aparência saudável").
+entrada(gawsy, adj, [], "gawsie").
+entrada(gay, adj, [], "GAYER GAYEST1 alegre 2 homossexual").
+entry(gay, n, [gays], "um homossexual").
+entrada(gayal, n, [gayals], "um boi domesticado").
+entry(gaydar, n, [gaydars], "a habilidade de reconhecer que uma pessoa é homossexual").
+entrada(alegria, n, [alegrias], "gaiety").
+entrada(gayly, adv, [], "de maneira alegre").
+entrada(gayness, n, [gaynesses], "o estado de ser gay").
+entry(gaywings, n, [gaywings], "uma erva perene").
+entry(gazabo, n, [gazabos], "ou GAZABÕESum camarada").
+entry(gazania, n, [gazanias], "uma erva sul-africana").
+entry(gazar, n, [gazares], "tecido sedoso e transparente").
+entrada(expression, v, [expressou,expressando,expressa], "olhar atentamente").
+entrada(quiosque, n, [quiosques], "ou QUIOSQUES uma estrutura coberta aberta nas laterais").
+entrada(gazela, n, [gazelas], "uma pequena antílope").
+entry(gazer, n, [gazers], "aquele que olha").
+entrada(boletim, v, [publicado,publicando,boletins], "anunciar em um jornal oficial").
+entrada(olhando, presente, [], "particípio de olhar").
+entrada(gazogene, n, [gazogenes], "um aparelho para carbonatar líquidos").
+entrada(gazpacho, n, [gazpachos], "uma sopa fria e picante").
+entrada(gazump, v, [gazumped,gazumping,gazumps], "enganar aumentando o preço originalmente acordado").
+entrada(gazumper, n, [gazumpers], "aquele que pratica gazumping").
+entrada(gazunder, v, [gazundered,gazundering,gazunders], "reduzir a oferta do comprador ao vendedor de uma propriedade").
+entrada(engrenagem, v, [engrenado,engrenando,engrenagens], "fornecer com engrenagens partes dentadas de máquinas").
+entrada(caixa_de_câmbio, n, [caixas_de_câmbio], "uma transmissão automotiva").
+entrada(carcaça, n, [carcaças], "uma caixa para engrenagens").
+entrada(gearhead, n, [gearheads], "uma pessoa inclinada mecanicamente").
+entry(transmissão, n, [transmissões], "um sistema de engrenagens").
+entrada(gearless, adj, [], "sem engrenagens").
+entry(geck, v, [gecked,gecking,gecks], "zombar").
+entry(lagartixa, n, [lagartixas], "ou LAGARTIXASum pequeno lagarto").
+entrada(ged, n, [geds], "um peixe alimentício").
+entry(gee, v, [geed,geeing,gees], "virar à direita").
+entrada(geegaw, n, [geegaws], "gewgaw").
+entry(geek, n, [geeks], "um entusiasta ou especialista obstinado").
+entry(geekdom, n, [geekdoms], "o mundo dos geeks").
+entrada(geeked, adj, [], "cheio de entusiasmo").
+entry(geekish, adj, [], "nerd").
+entrada(geeky, adj, [], "GEEKIER GEEKIESTsocialmente desajeitado ou pouco atraente").
+entrada(geepound, n, [geepounds], "uma unidade de massa").
+entry(gansos, pl, [], "de ganso").
+entrada(geest, n, [geests], "matéria aluvial antiga").
+entry("geez", interj, [], "caramba").
+entrada(tio, n, [tios], "um homem excêntrico").
+entrada(gueixa, n, [gueixas], "uma garota japonesa treinada para entreter").
+entrada(gel, v, [gelificar, gelificando, gelificam], "para se tornar como geléiaGELÁVEL adj").
+entrada(gelada, n, [geladas], "um babuíno").
+entrada(gelant, n, [gelants], "gellant").
+entrada(gelate, v, [gelated,gelating,gelates], "gelificar").
+entrada(gelati, n, [gelatis], "gelato").
+entrada(gelatina, n, [gelatinas], "uma substância glutinoso").
+entrada(gelatina, n, [gelatinas], "gelatina").
+entry(gelating, presente, [], "particípio de gelar").
+entrada(gelação, n, [gelações], "o processo de gelificação").
+entrada(gelato, n, [gelatos], "ou GELATI sorvete italiano").
+entrada(gelcap, n, [gelcaps], "um comprimido revestido com gelatina").
+entry(gelcoat, n, [gelcoats], "uma camada de superfície de resina de poliéster").
+entrada(geld, v, [gelded,gelding,gelds], "castrar").
+entry(gelder, n, [gelders], "uma que castra").
+entry(castrado, n, [castrados], "um animal castrado").
+entrada(gelee, n, [gelees], "um gel cosmético").
+entrada(gelid, adj, [], "icyGELIDLY adv").
+entrada(gelidade, n, [gelidades], "frieza").
+entry(gelificante, n, [gelificantes], "uma substância usada para produzir géis").
+entrada(gelled, passado, [], "tempo de gel").
+entrada(gelando, presente, [], "particípio de gelar").
+entrada(gelly, n, [gellies], "gelignite um alto explosivo").
+entry(gelsemia, npl, [], "raízes de plantas medicinais").
+entrada(gelt, n, [gelts], "dinheiro").
+entrada(gema, v, [gemado,gemando,gemas], "adornar com gemas ou pedras preciosas").
+entrada(gematria, n, [gematrias], "um método cabalístico de interpretar as Escrituras").
+entrada(geminal, adj, [], "relativo a dois substituintes no mesmo átomo").
+entrada(geminate, v, [geminated, geminating, geminates], "arranjar em pares").
+entrada(gemlike, adj, [], "semelhante a uma gema").
+entrada(gemma, n, [gemmae], "uma estrutura reprodutiva assexual").
+entrada(gemmate, v, [gemmated, gemmating, gemmates], "produzir gemas").
+entrada(engastado, passado, [], "tempo de engastar").
+entrada(gemmier, comparativo, [], "de gemmy").
+entrada(gemmiest, superlativo, [], "de gemmy").
+entrada(gemmily, adv, [], "de maneira que sugere uma gema").
+entrada(gemming, presente, [], "particípio de gem").
+entrada(gemula, n, [gemulas], "um pequeno gemma").
+entrada(gemmy, adj, [], "GEMMIER GEMMIESTsemelhante a uma gema").
+entry(gemologia, n, [gemologias], "a ciência das gemas").
+entrada(gemot, n, [gemots], "uma reunião pública na Inglaterra anglo-saxã").
+entrada(gemote, n, [gemotes], "gemot").
+entrada(gemsbok, n, [gemsboks], "um grande antílope").
+entrada(gemsbuck, n, [gemsbucks], "gemsbok").
+entrada(gema, n, [gemas], "uma pedra preciosa").
+entrada(gen, v, [genned,genning,gens], "fornecer ou obter informações").
+entrada(gendarme, n, [gendarmes], "um policial").
+entrada(gênero, v, [gêneros,gerando,generar], "para engendrar").
+entrada(gene, n, [genes], "uma unidade hereditária").
+entrada(genera, a, [], "pl de gênero").
+entrada(general, n, [generais], "um oficial militar").
+entrada(generate, v, [generated, generating, generates], "trazer à existência").
+entrada(generico, n, [genericos], "um tipo de medicamento").
+entrada(generoso, adj, [], "disposto a dar").
+entrada(genesis, n, [geneses], "uma origem").
+entry(genet, n, [genets], "um mamífero carnívoro").
+entrada(genetico, adj, [], "relativo à genética").
+entrada(genetica, npl, [], "a ciência da hereditariedade").
+entrada(genette, n, [genettes], "geneta").
+entrada(geneva, n, [genevas], "um licor").
+entrada(genial, adj, [], "ter um comportamento agradável ou amigávelGENIALLY adv").
+entrada(genic, adj, [], "relativo a genes").
+entrada(genie, n, [genies], "jinni").
+entrada(genii, a, [], "pl de genius").
+entrada(genip, n, [genipos], "uma árvore tropical").
+entrada(genipapo, n, [genipapos], "uma árvore tropical").
+entrada(genipapo, n, [genipapos], "genipap").
+entrada(genista, n, [genistas], "um arbusto com flores amarelas").
+entrada(genital, adj, [], "relativo à reprodução").
+entrada(genitais, npl, [], "os órgãos sexuais").
+entrada(genitivo, n, [genitivos], "um caso gramatical").
+entrada(genitor, n, [genitors], "um pai masculino").
+entrada(geniture, n, [genitures], "nascimento").
+entrada(gênio, n, [gênios], "ou GÊNIO uma aptidão natural excepcional").
+entrada(genlock, n, [genlocks], "um dispositivo para sincronizar diferentes sinais de vídeo").
+entrada(gennaker, n, [gennakers], "uma vela spinnaker").
+entrada(gerado, passado, [], "tempo de gerar").
+entrada(genning, presente, [], "particípio de gen").
+entrada(genova, n, [genovas], "uma vela triangular").
+entrada(genocidio, n, [genocidios], "a exterminação deliberada de um grupo nacional ou racial").
+entrada(genograma, n, [genogramas], "um diagrama do histórico de padrões de comportamento de uma família").
+entrada(genoise, n, [genoises], "um bolo esponjoso rico").
+entrada(genom, n, [genomas], "genoma").
+entrada(genoma, n, [genomas], "um conjunto haploide de cromossomosGENÔMICO adj").
+entrada(genomics, npl, [], "o estudo dos genomas").
+entry(genotipo, n, [genotipos], "a constituição genética de um organismo").
+entrada(género, n, [géneros], "um tipo ou espécie").
+entrada(genro, n, [genros], "um grupo de estadistas veteranos no Japão").
+entry(gens, n, [gentes], "um tipo de clã").
+entry(ginsengi, n, [ginsengis], "ginseng").
+entrada(gent, n, [gents], "um cavalheiro").
+entrada(gentil, adj, [], "MAIS GENTIL MAIS GENTIL DE TODOSTWELLBRED OU REFINADO").
+entry(gentes, pl, [], "de gens").
+entrada(gentian, n, [gentians], "uma planta com flores").
+entrada(gentil, adj, [], "amável").
+entrada(gentil, n, [gentios], "uma pessoa não judia").
+entrada(suave, adj, [], "SUAVEMENTE adv").
+entrada(gentle, v, [gentled,gentling,gentles], "tornar dócil").
+entry(pinguim-gentoo, n, [gentoos], "um pinguim de dorso cinza").
+entrada(gentrice, n, [gentrices], "boa criação").
+entrada(gentrificar, v, [gentrificado,gentrificando,gentrifica], "renovar uma área urbana decadente para atrair moradores de classe média").
+entrada(nobreza, n, [nobreza], "pessoas de alta classe social").
+entrada(gents, npl, [], "um banheiro masculino público").
+entrada(joelho, n, [joelhos], "o joelho").
+entrada(genuíno, adj, [], "autêntico").
+entrada(gênero, n, [gêneros], "ou GENEROu tipo espécie ou classe").
+entrada(geocache, v, [geocached,geocaching,geocaches], "procurar por itens escondidos utilizando um dispositivo de Sistema de Posicionamento Global como parte de um jogo").
+entry(geodo, n, [geodos], "um tipo de rocha").
+entrada(geodesic, n, [geodesics], "uma linha geométrica").
+entrada(geodesia, n, [geodesias], "levantamento geográfico").
+entry(geodetic, adj, [], "relativo à geodésia").
+entrada(geodic, adj, [], "de ou relativo a uma geode").
+entrada(geoduck, n, [geoducks], "um grande molusco comestível").
+entry(geognosia, n, [geognosias], "um ramo da geologia").
+entrada(geoid, n, [geoids], "uma superfície hipotética da terraGEOIDAL adj").
+entrada(geólogo, n, [geólogos], "um especialista em geologia").
+entry(geologia, n, [geologias], "a ciência que lida com a origem e estrutura da TerraGEOLOGIC adj").
+entrada(geomancia, n, [geomancias], "um método de prever o futuro por características geográficas").
+entry(geometer, n, [geómetras], "um especialista em geometria").
+entrada(geometria, n, [geometrias], "um ramo da matemática").

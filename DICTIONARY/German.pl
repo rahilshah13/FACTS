@@ -496,3 +496,101 @@ entry(adnexa, npl, [], "verbundene anatomische TeileADNEXAL adj").
 entry(adnoun, n, [Adjektivsubstantive], "ein Adjektiv, wenn es als Substantiv verwendet wird").
 entry(ado, n, [ados], "geschäftiges Treiben").
 entry(adobe, n, [adobes], "ein ungebrannter, sonnengetrockneter Ziegel").
+entry(adobo, n, [adobos], "ein philippinisches Gericht aus Fisch oder Fleisch").
+entry(adonis, n, [adonisse], "ein hübscher junger Mann").
+entry(adoptieren, v, [adoptiert,adoptierend,adoptiert], "jemanden rechtlich in die eigene Familie aufnehmen").
+entry(adoptivkind, n, [adoptivkinder], "jemand, der adoptiert wurde").
+Eintrag(adoptierer, n, [adoptierer], "einer, der adoptiert").
+entry(adoption, n, [Adoptionen], "der Akt des AdoptierensADOPTIV adj").
+Eintrag(adorable, adj, [], "würdig, angebetet zu werdenADVERB").
+entry(lieben, v, [geliebt,liebend,liebt], "tief lieben").
+entry(anbeter, n, [anbeter], "einer, der anbetet").
+entry(schmücken, v, [geschmückt, schmückend, schmückt], "etwas hinzufügen, um es attraktiver zu machen").
+entry(Schmücker, n, [Schmücker], "jemand, der schmückt").
+Eintrag(adown, adv, [], "abwärts").
+Eintrag(adoze, adj, [], "dösend").
+entry(adrenal, n, [Nebennieren], "eine endokrine Drüse").
+entry(treibend, adj, [], "drifting").
+Eintrag(adroit, adj, [], "GESCHICKTER AM GESCHICKTESTENgeschicktGESCHICKT adv").
+entry(adscript, n, [Adscripte], "ein unterscheidendes Zeichen, das nach einem anderen Zeichen geschrieben wird").
+entry(adsorbieren, v, [adsorbiert, adsorbierend, adsorbiert], "auf einer Oberfläche in einer kondensierten Schicht sammeln").
+entry(adsorber, n, [Adsorptionsmittel], "eines, das adsorbiert").
+entry(adsuki, n, [adsukis], "Adzukibohne").
+entry(adularia, n, [adularias], "ein Mineral").
+entry(adulieren, v, [adulierte,adulierend,aduliert], "übermäßig loben").
+Eintrag(adulator, n, [Schmeichler], "einer, der schmeichelt").
+Eintrag(erwachsener, n, [erwachsene], "ein voll entwickeltes Individuum").
+entry(ehebruch, n, [ehebrüche], "freiwilliger Geschlechtsverkehr zwischen einer verheirateten Person und jemandem, der nicht ihr Ehepartner ist").
+entry(erwachsen, adv, [], "auf eine Weise, die typisch für einen Erwachsenen ist").
+Eintrag(adumbral, adj, [], "schattig").
+entry(adunc, adj, [], "nach innen gebogen").
+entry(aduncate, adj, [], "adunk").
+entry(aduncous, adj, [], "hakig").
+entry(adust, adj, [], "verbrannt").
+entry(vorankommen, v, [vorgekommen,vorankommend,vorankommt], "sich vorwärts bewegen oder veranlassen vorwärts zu bewegen").
+Eintrag(advancer, n, [advancers], "jemand, der voranschreitet").
+entry(advect, v, [advected,advecting,advects], "durch die Strömung eines Fluids befördern oder transportieren").
+Eintrag(advent, n, [advents], "Ankunft").
+entry(adverb, n, [Adverbien], "ein Wort, das ein Verb, Adjektiv oder ein anderes Adverb modifiziert").
+entry(adverse, adj, [], "im Gegensatz stehend").
+entry(werbung, v, [beworben,bewerbend,werbungen], "aufmerksam machen").
+entry(beratung, n, [beratungen], "Empfehlung bezüglich einer Entscheidung oder Handlung").
+entry(beraten, v, [beriet,beratend,berät], "Ratschläge geben").
+Eintrag(beratener, n, [beratene], "jemand, der beraten wird").
+entry(berater, n, [berater], "einer, der berät").
+Eintrag(beratung, präsens, [], "Partizip von raten").
+Eintrag(berater, n, [berater], "Berater").
+entry(advisory, n, [Empfehlungen], "ein Bericht, der Informationen liefert").
+entry(advocaat, n, [advocaats], "ein Likör aus Brandy, Zucker und Eiern").
+entry(advocacy, n, [Fürsprache], "der Akt des Eintretens").
+entry(vertreten, v, [vertretend, vertretend, vertritt], "für etwas sprechen").
+entry(advowson, n, [Advowsons], "das Recht, einem freien Kirchenamt einen Kandidaten zu präsentieren").
+Eintrag(adware, n, [adwares], "Computer-Software, die kostenlos bereitgestellt wird, aber Werbung enthält").
+entry(Werbefachfrau, n, [Werbefachfrauen], "eine Frau, die im Werbegeschäft beschäftigt ist").
+entry(adynamie, n, [adynamien], "Mangel an physischer StärkeADYNAMISCH adj").
+entry(adytum, n, [adyta], "ein inneres Heiligtum in einem antiken Tempel").
+entry(adz, v, [adzed,adzing,adzes], "Holz mit einem Stemmwerkzeug bearbeiten").
+entry(axt, v, [axtete, axtend, axtet], "to axt").
+entry(adzuki, n, [adzukis], "der essbare Samen einer asiatischen Pflanze").
+entry(ae, adj, [], "eins").
+Eintrag(aecia, pl, [], "von Aecium").
+entry(aecial, adj, [], "ein Aecium betreffend").
+entry(aecidial, adj, [], "sich auf ein Aecium beziehend").
+entry(aecidium, n, [aecidia], "ein Aecium").
+entry(aecium, n, [aecia], "ein sporenproduzierendes Organ bestimmter Pilze").
+entry(aedes, n, [aedes], "eine Art von Mücken").
+entry(aedile, n, [aedilen], "ein Magistrat des antiken Roms").
+entry(aedine, adj, [], "einer Aedes angehörend").
+entry(aegis, n, [aegises], "Schutz").
+entry(aegrotat, n, [], "pl AEGROTATSEine Bescheinigung, die einen kranken Studenten von einer Prüfung entschuldigt").
+Eintrag(aeneous, adj, [], "eine grünliche Goldfarbe habend").
+entry(aeneus, adj, [], "ehern").
+entry(aeolisch, adj, [], "eolian").
+entry(äon, n, [äonen], "Ewigkeit").
+entry(aeonian, adj, [], "eonisch").
+entry(aeonic, adj, [], "eonisch").
+entry(aequorin, n, [aequorine], "ein von Quallen ausgeschüttetes Protein").
+Eintrag(aeradio, n, [aeradios], "ein kanadischer Funkdienst für Piloten").
+entry(belüften, v, [belüftet,belüftend,belüftet], "mit Luft versorgen").
+entry(belüftung, n, [belüftungen], "der Akt des Belüftens").
+Eintrag(belüfter, n, [belüfter], "einer der belüftet").
+entry(luft, n, [antennen], "eine Antenne").
+entry(aerially, adv, [], "in einer Weise, die sich auf die Luft bezieht").
+entry(adlerhorst, n, [adlerhorste], "Ein Vogelnest, das hoch auf einem Berg oder einer Klippe gebaut ist AERIED adj").
+Eintrag(aerier, komparativ, [], "von luftig").
+Eintrag(aeries, pl, [], "von aery").
+Eintrag(aeriest, Superlativ, [], "von aery").
+Eintrag(aeriform, adj, [], "in der Form von Luft sein").
+derEintrag(aerifizieren, v, [aerifiziert,aerifizierend,aerifiziert], "belüften").
+entry(aerily, adv, [], "auf luftige Weise").
+entry(aero, adj, [], "zu Flugzeugen gehörend").
+Eintrag(aerobat, n, [aerobaten], "jemand, der Kunststücke in einem Flugzeug ausführt").
+entry(aerobe, n, [Aerobier], "ein Organismus, der Sauerstoff zum Leben benötigtAEROB adj").
+entry(Aerobic, npl, [], "Übungen zur Konditionierung von Herz und Lunge durch Erhöhung des Sauerstoffverbrauchs").
+Eintrag(aerobium, n, [aerobia], "aerob").
+Eintrag(aerodukt, n, [aerodukte], "eine Art Düsentriebwerk").
+entry(aerodyne, n, [Aerodyne], "ein Flugzeug, das schwerer als Luft ist").
+Eintrag(flügelprofil, n, [flügelprofile], "aerodynamisches Profil").
+entry(aerogel, n, [Aerogele], "ein hochporöser Feststoff").
+entry(aerogramm, n, [aerogramme], "ein Luftpostbrief").
+entry(aerolith, n, [aerolithe], "ein Meteorit, der mehr Stein als Eisen enthält").

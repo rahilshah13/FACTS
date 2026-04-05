@@ -14214,3 +14214,99 @@ entry(taneuteung, adj, [], "henteu mibanda suku").
 entry(leglike, adj, [], "nu nyarupaan suku").
 entry(legman, n, [legmen], "wartawan anu ditugaskeun pikeun ngumpulkeun inpormasi").
 entry(legong, n, [legongs], "tari Bali").
+entry(legroom, n, [legrooms], "ruang pikeun ngulinkeun suku").
+entry(kacang, n, [kacang-kacangan], "jenis tutuwuhan").
+entry(legumin, n, [legumins], "protein tutuwuhan").
+entry(leumpang-kerja, n, [leumpang-kerja], "gawé nu ngawengku jalan kaki loba").
+entry(lehayim, n, [lehayims], "salam tradicionil Yahudi").
+entry(lehr, n, [lehrs], "salah sahiji jinis oven").
+entry(lehua, n, [lehuas], "tatangkalan tropis").
+entry(lei, n, [leis], "ranggeuyan kembang").
+entry(leister, v, [leistered,leistering,leisters], "nyodok ku alat mancing tilu pikas").
+entry(leisure, n, [leisures], "kabebasan tina tungtutan pagawean atawa kawajibanLEISURED adj").
+entry(lek, n, [leks], "atawa LEKE atawa LEKU hiji unit moneter Albania").
+entry(lek, v, [lekked,lekking,leks], "kumpul pikeun nembongkeun babarengan dina mangsa kawin").
+entry(lekvar, n, [lekvars], "mentega prune").
+entry(lekythos, n, [lekythoi], "tempat minyak anu dianggo di Yunani Kuna").
+entry(lekythus, n, [lekythi], "lekythos").
+entry(leman, n, [lemans], "nu bogoh").
+entri(lemma, n, [lemmas], "atawa LEMMATAsajenis proposisi dina logika").
+entry(lemming, n, [lemmings], "rodéns mékanis kawas beurit").
+entry(lemnisci, npl, [], "pita serat saraf").
+entry(lemon, n, [lemon-lemon], "buah jerukLEMONISH LEMONY sipat").
+entry(lemonade, n, [lemonades], "inuman").
+entry(lempira, n, [lempiras], "unit moneter di Honduras").
+entry(lemo, n, [lemo-lemo], "sato lincah tangkal anu patali sareng sakumpulan monyet").
+entry(lemures, npl, [], "jurig-jurig jalma nu geus maot dina agama Romawi kuna").
+entry(lemurine, adj, [], "nuyuhkeun ka lemur").
+entry(lemuroid, n, [lemuroids], "sato leuweung").
+entry(lend, v, [lent,lending,lends], "pikeun masihan pamakean samentaraLENDABLE adj").
+entry(lender, n, [nu_manggihkeun], "anu manggihkeun").
+entry(lending, n, [lendings], "tindakan masihan barang saliwatan").
+entry(lenes, pl, [], "tina lenis").
+entry(panjang, n, [panjangs], "dimensi anu langkung panjang atanapi pangpanjangna tina hiji obyék").
+entry(nambahan, k, [ditambah, nambahkeun, nambahan], "pikeun ngajadikeun langkung panjang").
+entry(lengthy, adj, [], "LENGTHIER LENGTHIESTpisan panjang").
+entry(lenience, n, [leniences], "leniency").
+entry(leniency, n, [leniencies], "kualitas keur hampang").
+entry(lenient, adj, [], "luyu kalayan hampang").
+entry(lenis, n, [lenes], "sora ucapan anu dilalucuyan sakedik atawa teu kadenge heula").
+entry(lenite, v, [lenited,leniting,lenites], "ngucapkeun hiji lenis").
+entry(lenition, n, [lenitions], "parobahan dina artikulasi").
+entry(lenitive, n, [lenitives], "obat nu tenangkeun").
+entry(lenity, n, [lenities], "kawelas").
+entry(leno, n, [lenos], "hiji gaya nyulam").
+entry(lensa, n, [lensa-lensa], "sababaraha bahan transparan anu dianggo pikeun ngarobah konvergensi sinar cahaya LENSLESS adj").
+entri(lensa, v, [lensaed,lensaing,lensa], "ngabentuk pilem tina").
+entry(lensa, n, [lensa-lensa], "lensa").
+entry(lensing, n, [lensings], "akte atanapi hiji kajadian ngalalakon film").
+entry(lensman, n, [lensmen], "saangga potret").
+entry(lent, kapungkur, [], "waktos tina lend").
+entry(lentando, kaéta, [], "beuki lalaunan dipaké salaku arahan musik").
+entry(lenten, adj, [], "hanjelu").
+entry(lentic, adj, [], "nuhun kiwari ka cai hening").
+entry(lenticel, n, [lenticels], "masa sél dina tangkal tutuwuhan").
+entry(léntigo, n, [léntiginés], "béntik").
+entry(lentil, n, [lentils], "tutuwuhan taunan Eurasia").
+entry(léntisk, n, [léntisks], "tatangkalan héjo satak").
+entry(lento, n, [lentos], "gerakan musik anu lalaunan").
+entry(lentoid, n, [lentoids], "obyek anu bentukna siga lénsa").
+entry(leone, n, [leones], "unit moneter Sierra Leone").
+entry(leonine, adj, [], "patali jeung singa").
+entry(macang tutul, n, [macang tutul], "sato mamalia karnivora gedé").
+entry(leotard, n, [leotards], "salamper anu pas awak").
+entry(leper, n, [lepers], "anu kakeunaan ku lepra").
+entry(lepidote, n, [lepidotes], "siki nu keur mekar").
+entry(leporid, n, [leporids], "atawa LEPORIDAE mamalia anu ngorék").
+entry(leporine, adj, [], "nibakeun kalinci atawa trewelu").
+entry(leprose, sipat, [], "lepra").
+entry(kusta, n, [kusta], "penyakit kronis anu ditandaan ku lesi kulit sareng deformitas").
+entry(leprotic, adj, [], "lepra").
+entry(leprous, adj, [], "katépaan ku lepra").
+entry(lept, a, [], "kalepatan kapungkur tina luncat").
+entry(leptin, n, [leptin-leptin], "hiji hormon nu dipeupeuskeun ku sél gajih").
+entry(lepton, n, [leptons], "partikel subatomikLEPTONIC adj").
+entry(lepton, n, [lepta], "sawatara hiji unit moneter kapungkur ti Yunani").
+entry(lesbian, n, [lesbians], "homoseksual awéwé").
+entry(lesbigay, nn, [lesbige], "lesbian biseksual atawa homoseksual lalaki").
+entry(lesion, v, [lesioned,lesioning,lesions], "nyababkeun parobahan anu teu normal dina struktur organ").
+entry(kurang, adj, [], "KURANG LEUI TIDAK langkung gedé dina jumlah atanapi derajat").
+entry(lessee, n, [lessees], "hiji anu ngagaduhan séwa").
+entry(ngurangan, v, [ngurangan,ngurangan,ngurangan], "pikeun ngajantenkeun atanapi janten kirang").
+entry(lesser, adj, [], "teu sakitu ageung atawa penting").
+entry([palajaran, ngalakukeun], v, [di-carakan, di-carakeuna, di-carakanan], "pikeun ngajar").
+entry(lessor, n, [lessors], "hiji anu masrahkeun nyewa").
+entry(lest, conj, [], "bisi").
+entry(let, v, [letted,letting,lets], "ngahalangan").
+entry(letch, v, [letched,letching,letches], "lech").
+entry(letdown, n, [letdowns], "turunna").
+entry(lethal, n, [lethals], "cacad genetik anu nyababkeun maot").
+entry(lethally, adv, [], "ku cara anu mawa pati").
+entry(lethargy, n, [lethargies], "kalem bobo teuing").
+entry(lethe, n, [lethes], "pohoLETHEAN adj").
+entry(letout, n, [letouts], "hal anu ngamungkinkeun nyingkahan ngalakukeun hiji hal").
+entry(dilette, baheula, [], "waktos tina hayu").
+entry(surat, v, [nu ditandaan ku surat, prosés nandaan, nu dituliskeun surat], "pikeun nandaan ku huruf simbol tulisan nu ngawakilan sora ucapan").
+entry(letterer, n, [letterers], "hiji anu ngasupkeun hurup").
+entry(letting, hadir, [], "partisipel tina let").
+entry(salada, n, [saladas], "salamet anu digadekeun pikeun hiasan salad").

@@ -179,3 +179,33 @@ entry(absurd, adj, [], "ABSURDER ABSURDESTpumbavu au kutopendeza bila sababuABSU
 entry(upuuzi, n, [upuuzis], "hali ambayo mwanadamu yupo katika ulimwengu usio na mantiki na maana").
 entry(abubble, kiv, [], "inayochemka").
 entry(abulia, n, [abulia], "kupoteza nguvu ya niaABULIC kiv").
+entry(wingi, adj, [], "upo kwa kiasi kikubwa").
+ingizo(unyanyasaji, v, [ulinyanyasaji, unanyanyasa, manyanyaso], "kutumia vibaya au isivyo sahihiNYANYASIKA kivumishi").
+ingizo(mdhalimu, n, [wadhulumu], "anayekandamiza").
+entry(matusi, kivumishi, [], "inayoelezwa kwa matumizi mabaya au yasiyofaa").
+entry(shikana, kt, [shikanwa,shikana,shikane], "kugusana kando ya mpaka").
+entry(abutilon, n, [abutilons], "mmea unaochanua").
+kiingilio(mhimili, n, [mihimili], "kitu kinachounganisha").
+entry(abuttal, n, [abuttals], "mpaka").
+kiingilio(abutted, uliopita, [], "tense ya abut").
+entry(abutter, n, [abutters], "moja inayopakana").
+entry(pakana, sasa, [], "kitenzi cha pakana").
+entry(abuzz, kivumishi, [], "kukoroma").
+entry(abvolt, n, [miliabvolti], "kipimo cha nguvu ya umeme").
+entry(abwatt, n, [abwatt], "kipimo cha nguvu").
+entry(aby, k, [abought, abying, abys], "kulipa adhabu kwa").
+entry(abye, v, [abought,abying,abyes], "ku aby").
+ingizo(shimo, n, [mashimo], "shimo").
+entry(abysmal, adj, [], "ya kina kisichopimika").
+entry(shimo_la_kinywa, n, [mashimo], "shimo lisilo na mwishoABYSSAL kiv").
+ingizo(mwajemi, n, [miwajemi], "mti au kichaka kinachochanua maua").
+entry(academe, n, [academes], "mahali pa mafundisho").
+entry(akademia, n, [akademia], "maisha ya masomo au mazingira").
+entry(akademia, n, [wanafunzi wa chuo], "mwanafunzi au mwalimu wa chuo").
+entry(akademia, n, [akademia], "shule ya sekondari").
+entry(acai, n, [acais], "tunda lenye rangi ya zambarau kutoka mtende wa kitropiki").
+ingizo(mcajou, n, [mcajou], "mti wa kitropiki").
+entry(acaleph, n, [acalephs], "au ACALEPHAEmnyambulika").
+entry(acalephe, n, [acalephes], "akalefu").
+entry(mkia, n, [miiba], "sehemu kali yenye miiba").
+entry(acanthus, n, [miiba], "au ACANTHI mti wenye miiba").

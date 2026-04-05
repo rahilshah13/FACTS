@@ -360,3 +360,59 @@ entry(acromion, n, [acromia], "phần cuối bên ngoài của xương bả vaiA
 entry(acronic, adj, [], "xảy ra lúc hoàng hôn").
 entry(từ_viết_tắt, n, [từ_viết_tắt], "một từ được hình thành từ các chữ cái đầu của một thuật ngữ ghép hoặc một chuỗi các từ").
 entry(acrosome, n, [acrosomes], "một túi mỏng ở đầu của tinh trùng").
+muc_luc(ben_kia, gioi_tu, [], "tu mot ben toi ben kia").
+entry(acrostic, n, [thơ chữ cái đầu], "một bài thơ mà các chữ cái đầu lấy theo thứ tự tạo thành một từ hoặc cụm từ").
+entry(acrotism, n, [acrotisms], "sự yếu của mạchACROTIC adj").
+entry(acrylate, n, [acrylates], "một acrylic").
+entry(acrylic, n, [acrylics], "một loại nhựa").
+mục(làm, v, [đã_làm,đang_làm,làm], "để làm gì đó").
+entry(acta, npl, [], "biên bản đã ghi").
+entry(actable, adj, [], "phù hợp để biểu diễn trên sân khấu").
+entry(actin, n, [actins], "một loại protein trong mô cơ").
+entry(actinal, adj, [], "có tua").
+entry(diễn xuất, n, [diễn xuất], "nghề nghiệp của một diễn viên").
+entry(actinia, n, [actinias], "hoặc ACTINIAE động vật biển").
+entry(actinian, n, [hải quỳ], "hải quỳ").
+entry(actinic, adj, [], "liên quan đến tác dụng của ánh sáng").
+entry(actini, n, [các actini], "bất kỳ trong số một loạt các nguyên tố phóng xạ").
+mục(actinism, n, [actinisms], "tính chất của năng lượng bức xạ gây ra các thay đổi hóa học").
+entry(actini, n, [các actini], "một nguyên tố phóng xạ").
+entry(actinoid, n, [actinoids], "một actinide").
+entry(actinon, n, [actinons], "một đồng vị của radon").
+entry(action, v, [bị_kiện,đang_kiện,kiện], "đưa ra vụ kiện chống lại").
+entry(actioner, n, [actioners], "một bộ phim với hành động gây cấn").
+entry(kích hoạt, v, [đã_kích_hoạt,đang_kích_hoạt,kích_hoạt], "để bắt đầu hoạt động").
+entry(active, n, [thành_viên_tích_cực], "một thành viên tham gia của một tổ chức").
+entry(actively, adv, [], "với sự hoạt động").
+entry(chủ_nghĩa_hoạt_động, n, [các_chủ_nghĩa_hoạt_động], "một học thuyết nhấn mạnh hành động trực tiếp và quyết đoán").
+entry(activist, n, [các nhà hoạt động], "một người ủng hộ hoạt động xã hội").
+entry(activity, n, [hoạt_động], "hoạt động nhanh nhẹn hoặc di chuyển").
+entry(activize, v, [activized,activizing,activizes], "kích hoạt").
+entry(actor, n, [diễn viên], "một nghệ sĩ biểu diễn trên sân khấuNGHỆ SĨ NHƯ DIỄN VIÊN adj").
+entry(nữ_diễn_viên, n, [nữ_diễn_viên], "một diễn viên nữ").
+entry(thực tế, adj, [], "tồn tại trên thực tế THỰC SỰ adv").
+entry(nhà toán bảo hiểm, n, [những nhà toán bảo hiểm], "một nhà thống kê tính toán rủi ro và phí bảo hiểm").
+entry(kích hoạt, v, [đã kích hoạt,đang kích hoạt,kích hoạt], "để đưa vào hành động hoặc chuyển động").
+entry(bộ truyền động, n, [bộ truyền động], "một thiết bị kích hoạt").
+entry(acuate, adj, [], "sắc nhọn").
+entry(acuity, n, [acuities], "độ sắc nét").
+entry(aculeate, n, [aculeates], "một loại côn trùng có ngòi").
+entry(aculeus, n, [aculei], "một phần nhọn").
+entry(acumen, n, [acumens], "sự nhạy bén tinh thần").
+entry(acutance, n, [acutances], "một thước đo độ rõ nét của ảnh").
+entry(acute, adj, [], "ACUTER ACUTESTđược đánh dấu bởi sự sắc bén hoặc khắc nghiệtACUTELY adv").
+entry(acute, n, [acutes], "một loại dấu nhấn").
+entry(acyclic, adj, [], "không tuần hoàn").
+entry(acyl, n, [acyls], "một gốc đơn hóa trị").
+entry(acylate, v, [acylated,acylating,acylates], "thêm gốc acyl vào").
+entry(acyloin, n, [acyloins], "một loại hợp chất hóa học").
+entry(ad, n, [quảng cáo], "một bài quảng cáo").
+entry(tục ngữ, n, [tục ngữ], "một câu nói truyền thống thể hiện một quan sát chungADAGIAL adj").
+entry(adagio, n, [adagios], "một bản nhạc hoặc phần của một tác phẩm âm nhạc được chơi ở nhịp độ chậm").
+entry(tính_cứng_đầu, n, [tính_cứng_đầu], "adamancy").
+entry(adamancy, n, [adamancies], "sự cứng nhắc không lay chuyển").
+entry(adamant, n, [adamants], "một chất cực kỳ cứng").
+entry(adamsite, n, [adamsites], "một loại khí gây kích thích phổi").
+entry(adapt, v, [adapted,adapting,adapts], "làm cho thích hợp").
+entry(adapter, n, [adapters], "một cái để thích nghi").
+entry(thích ứng, n, [sự thích ứng], "hành động đáp ứngTHÍCH ỨNG adj").

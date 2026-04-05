@@ -3332,3 +3332,30 @@ entry(beveler, n, [bevelers], "eğik yapan biri").
 entry(şavkulama_takımı, i, [şavkulama_takımları], "şavkulama takımı").
 entry(içecek, n, [içecekler], "içmek için bir sıvı").
 entry(bevies, pl, [], "bevy grubu").
+entry(bevomit, f, [bevomited,bevomiting,bevomits], "her yere kusmak").
+entry(bevor, n, [bevors], "alt yüz için bir zırh parçası").
+entry(bevvy, n, [bevvies], "alkollü bir içki").
+entry(bevy, n, [küme], "bir grup").
+entry(ağlamak, v, [ağladı, ağlıyor, ağlar], "yas tutmak").
+entry(matemci, n, [matemciler], "ağlayan birisi").
+giriş(dikkat, f, [dikkat edildi,dikkat ediliyor,dikkat eder], "dikkatli olmak").
+entry(beweary, f, [bewearied,bewearying,bewearies], "yormak").
+entry(beweep, v, [bewept,beweeping,beweeps], "ağıt yakmak").
+entry(perukla, f, [peruktü, perukluyor, peruklar], "perukla süslemek").
+entry(şaşırt, f, [şaşırmış,şaşırtıcı,şaşırtır], "kafasını karıştırmak").
+entry(kanatlı, sıf, [], "kanatları olan").
+girdi(büyülemek, v, [büyüledi,büyüleyen,büyüler], "büyü veya sihirle etkilemek").
+entry(beworm, v, [bewormed,beworming,beworms], "solucanlarla istila etmek").
+entry(beworry, v, [beworried, beworrying, beworries], "endişelenmek").
+girdi(bewrap, f, [bewrapt,bewrapping,bewraps], "tamamen sarmak").
+entry(ifşa_etmek, v, [ifşa_edildi,ifşa_ediliyor,ifşa_ediyor], "açığa vurmak").
+entry(ifşacı, n, [ifşacılar], "ifşa eden biri").
+entry(bey, i, [beyler], "bir Türk hükümdarı").
+entry(beylik, i, [beylikler], "bir beyin hâkimiyeti").
+entry(beylik, n, [beylikler], "beylik").
+entry(beyond, n, [ötesi], "daha ileride yatan bir şey").
+entry(bezant, i, [bezantlar], "antik Roma'ya ait bir sikke").
+entry(bezazz, n, [bezazzlar], "pizazz").
+girdi(bezel, n, [bezels], "eğimli bir yüzey").
+entry(bezil, n, [beziller], "çerçeve").
+entry(bezique, i, [bezique'ler], "bir kart oyunu").

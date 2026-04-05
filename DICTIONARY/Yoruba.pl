@@ -11613,3 +11613,110 @@ entry(fled, tan, [], "atẹ́ni àwọn ení ẹ sálọ").
 entry(fledge, v, [fledged,fledging,fledges], "lati fun ni awọn iyẹ").
 entry(fledgy, adj, [], "FLEDGIER FLEDGIESTti a bo pelu irun-agbo").
 entry(sa, v, [sa, nsa, sa], "lati salo").
+entry(awotele, v, [awoteled,awoteling,awoteles], "latí gé àwòwọ aṣọ tí a ti gun").
+entry(fleecer, n, [fleecers], "ẹni tí ń yọ aṣọ ẹran").
+entry(fleech, v, [fleeched,fleeching,fleeches], "lati rawọ lọwọ").
+ìwọlé(alagbo, ajẹtífát ilẹ̀kùn [], "ALAGBOJÚMO ALAGBOJÚMÒWàráwàráALAGBỌ adj").
+entry(fleer, v, [fleered,fleering,fleers], "láti fi owó sí").
+entry(fleet, adj, [], "FLEETER FLEETESTswiftFLEETLY adv").
+entry(fleet, v, [fleeted,fleeting,fleets], "lati gbe pẹlu iyara").
+entry(flehmen, v, [flehmened,flehmening,flehmens], "lati mi ninu pẹlu ẹnu ṣii ati oke ete ti aṣa").
+entry(fleishig, adj, [], "ti a ṣe lati ẹran tabi awọn ọja ẹran").
+entry(flemish, v, [flemished,flemishing,flemishes], "láti dì ọ̀pa ní ọ̀nà kan pàtàkì").
+entry(flench, v, [flenched, flenching, flenches], "lati sa ipara igi").
+entry(flense, v, [flensed,flensing,flenses], "láti bó erùpẹ̀ tàbí àwọ̀ kúrò lórí").
+entry(flenser, n, [flensers], "eni ti n yo awọ").
+entry(eran, v, [eranu, eranje, erana], "lati gun sinu eran ara rirọ").
+entry(flesher, n, [fleshers], "eyikeyi ẹni ti o yọ ẹran kuro ninu awọ ẹranko").
+entry(fleshier, comparative, [], "ti o ni eran").
+entry(fleshiest, superlative, [], "ti ara").
+entry(fleshing, n, [fleshings], "itansile ti eran ati okun lara ẹranko").
+entry(fleshly, adj, [], "NIPA ARA FLESHLIER FLESHLIEST").
+entry(amotobi, n, [amotobis], "iku omi pupọ lilo ẹran sinsin").
+entry(fleshy, adj, [], "FLESHIER FLESHIESTní opò fleshFLESHILY adv").
+entry(fletch, v, [fletched,fletching,fletches], "latipọn fledge").
+entry(fletcher, n, [awọn olusọ ọfa], "eniti o n ṣe ọfa").
+entry(fleuron, n, [fleurons], "ọṣọ ododo").
+entry(fleury, adj, [], "ti o ni awọn apa ti o pari ni awọn ewe mẹta ti a lo fun agbelebu heraldic").
+entry(flew, n, [flews], "apo ida eja").
+entry(ifaworan, v, [ifaworani,ifaworan], "lati fà yẹ lati tẹ');
+entry(gab, v, [gabbed,gabbing,gabs], "latari").
+entry(gabba, n, [gabbas], "orin ti o dun ni ibinu ti o ni iyara ju").
+entry(gabbard, n, [gabbards], "gbaaju").
+entry(gabbart, n, [gabbarts], "gabbard").
+entry(gabbed, igba ti o ti kọja, [], "agbọrọsọ ni akoko ti o ti kọja").
+entry(gabber, n, [awon_gabber], "eni ti o maa n soro lopolopo").
+entry(gabbier, comparative, [], "ti gabby").
+entry(gabbiest, superlative, [], "fẹlẹfẹlẹ ju lọ").
+entry(gabbing, present, [], "ẹya-ọrọ ti gbérú").
+entry(gabble, v, [gabbled,gabbling,gabbles], "latari").
+entry(gabbler, n, [gabblers], "ẹni tí ń sọ̀rọ̀ aláìlóye").
+entry(gabbro, n, [gabbros], "iru okuta kanGABBROIC GABBROID adj").
+entry(gabby, adj, [], "GABBIER GABBIESTṣe kẹ́gẹ́").
+entry(gabelle, n, [gabelles], "owo orooroGABELLED adj").
+entry(gabfest, n, [gabfests], "ipade airotẹlẹ fun ijiroro gbogbogbò").
+entry(gabies, pl, [], "ti gaby").
+entry(agbọbọwọ, n, [agbọbọwọ], "iru ẹru apamọ").
+entry(gable, v, [gabled,gabling,gables], "lati ṣe apakan onigun mẹta ti ogiri").
+entry(gaboon, n, [gaboons], "ibo epo").
+entry(gaby, n, [gabies], "oniranu").
+entry(gach, v, [gached, gaching, gaches], "láti gatch").
+entry(gacher, n, [gachers], "gatcher").
+entry(gad, v, [gadded,gadding,gads], "lati rínà-jù ní àìlèrò").
+entry(gadabout, n, [gadabouts], "ẹni tí ń sa lọ lati ibikan ṣíṣe").
+entry(gadarene, adj, [], "niyaya").
+entry(gadded, ti_ose, [], "akoole ti gad").
+entry(gadder, n, [awọn ti n ​​rin kiri], "ẹni tí ó màa ń rin kiri lójoojúmọ́").
+entry(gaddi, n, [gaddis], "asan kan").
+entry(gadding, lọwọlọwọ, [], "imọ̀pọ̀nlé ti gad").
+entry(gadfly, n, [gadflies], "eṣinṣin ti n jẹ ẹran").
+ìwọlé(gándéètì, n, [gándéètì], "èró ayárabí sawòrànGADGETY adj").
+entry(gadgetry, n, [gadgetries], "ẹ̀rọ̀ èló tàbí kíkọ́ ẹ̀rọ̀").
+entry(gadi, n, [gadis], "gaddi").
+entry(ẹja-gado, n, [ẹja-gado], "gadoid").
+entry(gadoid, n, [gadoids], "irú ẹja kan").
+entry(gadroon, v, [gadrooned,gadrooning,gadroons], "lati ṣe ọṣo pẹlu awọn ẹgbẹ ti apẹrẹ fluted tabi reeded").
+entry(gadwall, n, [gadwalls], "ọ́dẹdẹ igbó").
+entry(gadzooks, atẹjáde, [], "ní lo bi èérí ti kò yóò gasílè").
+entry(gae, v, [], "GAED GANE tabi GAEN GAEING tabi GAUN GAEto lọ").
+entry(gàff, ferb, [gàffed, gàffing, gàffs], "lati mú ẹja pẹlu ohun èlò tó ní ẹ̀fin").
+entry(aṣiṣe, n, [aṣiṣe], "aṣiṣe awujọ").
+entry(gaffer, n, [gaffers], "àgbàlagbà ọkunrin").
+entry(gag, v, [gagged,gagging,gags], "lati dena enu").
+entry(gaga, àkq, [], "kìkì").
+entry(gagaku, n, [gagakus], "orin ile-ẹjọ atijọ ti Japan").
+entry(gage, v, [gaged,gaging,gages], "lati fi ohun kan jẹ gẹẹsiGAGEABLE adj").
+entry(gager, n, [gagers], "olukojopo").
+entry(gagged, ti tẹlẹ, [], "àsìkò ti gag").
+entry(gagger, n, [gaggers], "ẹni ti o mu ki ẹnu maa gbenu").
+entry(gagging, present, [], "partisiipulu ti gag").
+entry(gaggle, v, [gaggled, gaggling, gaggles], "láti yin").
+entry(gaging, lọwọlọwọ, [], "aparo ti gage").
+entry(gagman, n, [gagmen], "ẹni tó kọ́ awada").
+entry(oniwo, n, [awon oniwo], "olutoniwo").
+entry(gahnite, n, [gahnites], "okuta kan").
+entry(ìdùnnú, n, [ìdùnnú], "àwọn ìṣẹ̀lẹ̀ ayẹyẹ").
+entry(gaijin, n, [gaijin], "ẹ̀yàn òkèèrè ní Japan").
+entry(gaily, adv, [], "ni ọna ayọ").
+entry(gain, v, [gained,gaining,gains], "lati niGBA adj").
+entry(gainer, n, [awon ti o n gba], "eni ti o n gba").
+entry(gainful, adj, [], "èrè").
+entry(gainless, àpamọ̀, [], "aláìní èrè").
+entry(gainly, adj, [], "ELEGANTI ELEGANTJULOgraceful").
+entry(gainsay, v, [gainsaid,gainsaying,gainsays], "lati sẹ").
+entry(gainst, prep, [], "dì").
+entry(gait, v, [gaited,gaiting,gaits], "lati kọ ẹṣin lati rìn ni ọna kan pato").
+entry(gaiter, n, [gaiters], "ideri fun apá isalẹ ẹsẹGAITERED adj").
+entry(gal, n, [gals], "omobirin").
+entry(ayeye, n, [ayeye], "ayeye kan").
+entry(galabia, n, [galabias], "djellaba").
+entry(galabieh, n, [galabiehs], "djellaba").
+entry(galabiya, n, [galabiyas], "djellaba").
+entry(galactic, ajd, [], "ti o nii ṣe pẹlu ajọpọ irawọ").
+entry(galago, n, [galagos], "ẹranko kekere").
+entry(galah, n, [awọn galahs], "a cockatoo").
+entry(galanga, n, [galangas], "galangal").
+entry(galangal, n, [galangals], "ewe oogun").
+entry(galatea, n, [galateas], "aso owu to lagbara").
+entry(galavant, v, [galavanted, galavanting, galavants], "lati rin kiri").
+entry(galax, n, [galaxes], "ewe alawọ ewe ti ko nipo jakejado odun").

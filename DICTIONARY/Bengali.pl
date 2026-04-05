@@ -9325,3 +9325,2964 @@ entry(ডিট্টো, v, [ডিট্টোড,ডিট্টোইং,ড
 এন্ট্রি(গান, নাম, [গানগুলি], "একটি ছোট সহজ গান")।
 এন্ট্রি(ডিটজ, ন, [ডিটজেস], "একজন নির্বোধ ব্যক্তি")।
 entry(বোকাসোকা, বিশেষণ, [], "DITZIER DITZIESTditsy").
+entry(ডিউরিসিস, n, [ডিউরিসিস], "মূত্রের অতিরিক্ত নির্গমন").
+প্রবেশ('মূত্রবর্ধক', 'বিশেষ্য', ['মূত্রবর্ধক'], "একটি ওষুধ যা প্রস্রাব নিঃসরণ বাড়ায়")।
+এন্ট্রি(দৈনিক, নবম, [দৈনিকগুলি], "একটি ডায়েরি")।
+এন্ট্রি(ডিউরন, ন, [ডিউরনগুলি], "একটি আগাছানাশক")।
+এন্ট্রি(ডিভা, ন, [ডিভাস], "একজন বিশিষ্ট মহিলা অপেরার গায়িকা").
+এন্ট্রি(ভ্রষ্টচারণ, ক্রিয়া, [ভ্রষ্টচারণকৃত,ভ্রষ্টচারণকালে,ভ্রষ্টচারণকরে], "ভ্রমণ করা")।
+এন্ট্রি(দ্বৈত, বিশেষণ, [], "দুইয়ের মানের সহ").
+entry(দিবান, n, [দিবানগুলি], "একটি সোফা বা কাউচ").
+এন্ট্রি(ডাইভ, ভি, [ডভ,ডাইভিং,ডাইভস], "জলে মাথা আগে ডুব দেওয়া")।
+এন্ট্রি(ডাইভবোম্ব, ক্রিয়া, [ডাইভবোম্বড, ডাইভবোম্বিং, ডাইভবোম্বস], "একটি ডাইভিং বিমান থেকে একটি লক্ষ্যে বোমা ফেলার জন্য")।
+এন্ট্রি(ডাইভার, এন, [ডাইভারস], "যে ব্যক্তি ডুব দেয়")।
+এন্ট্রি(ডাইভার্জ, ভি, [ডাইভার্জড,ডাইভার্জিং,ডাইভার্জেস], "একটি সাধারণ বিন্দু থেকে বিভিন্ন দিকে সরে যাওয়া")।
+এন্ট্রি(বিভিন্ন, বিশেষণ, [], "অন্যরকম")।
+প্রবেশ(divert, v, [diverted,diverting,diverts], "বাঁকানোর দিকে").
+প্রবেশ(বিভাবক, ন, [বিভাবকরা], "যে বিভ্রান্ত করে")।
+entry(মুক্তি, ক্রিয়া, [মুক্তি দিয়েছিল, মুক্তি দিচ্ছে, মুক্তি দেয়], "কোন কিছুর থেকে বঞ্চিত বা অপসারণ করা").
+entry(বিভক্ত, v, [বিভক্ত,বিভক্তি,বিভাজন], "অংশ, এলাকা বা গোষ্ঠীতে পৃথক করা").
+এন্ট্রি(ডিভিডেন্ড, ন, [ডিভিডেন্ডস], "বিভাজনের জন্য একটি পরিমাণ")।
+এন্ট্রি(বিভাজক, ন, [বিভাজকমণ্ডল], "একটি যা বিভক্ত করে")।
+এন্ট্রি(বিভাজন, বর্তমান, [], "বিভক্তির ক্রিয়াবিশেষণীয়").
+entry(dividual, adj, [], "বিভক্ত করার যোগ্য").
+প্রবেশ(দৈব, বিশেষণ, [], "DIVINER DIVINESTএকটি ঈশ্বরের বা তার বৈশিষ্ট্যযুক্তDIVINELY ক্রি").
+entry(divine, v, [divined,divining,divines], "অতীন্দ্রিয় উপায়ে ভবিষ্যদ্বাণী করা").
+এন্ট্রি(ডিভাইনার, ন, [ডিভাইনারস], "সে যে ভবিষ্যৎ বলে").
+প্রবেশ(ডাইভিং, বিশেষ্য, [ডাইভিংস], "মাথা আগে জলে ঝাঁপ দেয়ার কাজ বা খেলা")।
+প্রবেশ(ভবিষ্যৎবাণী_করা, বর্তমান, [], "ভবিষ্যৎবাণী করার অংশগ্রহণ")।
+entry(divinise, v, [divinised,divinising,divinises], "দেবত্ব আরোপ করা")।
+এন্ট্রি(দিব্যতা, এন, [দিব্যতাসমূহ], "দেবত্বের অবস্থা")।
+entry(divinize, v, [divinized,divinizing,divinizes], "ঈশ্বর বানানো").
+এন্ট্রি(বিভাগ, ন, [বিভাগসমূহ], "বিভক্ত করার কাজ")।
+entry(বিভাজক, বিশেষণ, [], "অপর একমত বা মতবিরোধ সৃষ্টি করছে").
+entry(ভাজক, n, [ভাজকগণ], "একটি সংখ্যা যা দ্বারা একটি গুণিতক ভাগ করা হয়")।
+এন্ট্রি(ডিভোর্স, v, [ডিভোর্সড,ডিভোর্সিং,ডিভোর্সেস], "বিবাহ বন্ধন সমাপ্ত করা")।
+এন্ট্রি(বিবাহবিচ্ছিন্না, ন, [বিবাহবিচ্ছিন্নাদের], "একজন বিবাহবিচ্ছিন্না মহিলা")।
+প্রবেশ(বিবাহবিচ্ছেদকারী, ন, [বিবাহবিচ্ছেদকারীরা], "যে বিবাহবিচ্ছেদ করে")।
+entry(ডিভোট, ন, [ডিভোটস], "এক টুকরা ঘাস").
+entry(প্রকাশ, ক্রিয়া, [প্রকাশিত,প্রকাশমান,প্রকাশ করে], "উদ্ঘাটন করা")।
+এন্ট্রি(প্রকাশকারী, ন, [প্রকাশকারীরা], "যে প্রকাশ করে")।
+প্রবেশ(divulse, v, [divulsed,divulsing,divulses], "চিরে ফেলা")।
+প্রবেশ(ডিভি, v, [ডিভিয়েড,ডিভিয়িং,ডিভিজ], "বিভাজন করা").
+এন্ট্রি(দেওয়ান, ন, [দেওয়ানস], "ডিওয়ান")।
+এন্ট্রি(দীক্ষিত, এন, [দীক্ষিতস], "একটি বিবৃতি")।
+এন্ট্রি (ডিজেন, ভি, [ডিজেনড, ডিজেনিং, ডিজেনস], "ফাইন পোশাকে পোশাক পরানো")।
+entry(দ্বিজাতা, বিশেষণ, [], "দুটি নিষিক্ত ডিম্বাণু থেকে বিকশিত হয়েছে")।
+entry(দ্বারস্থ, বিশেষণ, [], "দৃদ্ধ দ্রীতর প্রাবান্ধিক, ঘূর্ণায়মান অনুভূতি দ্রাবক ক্রিয়া").
+এন্ট্রি(ডিজি, ক্রিয়া, [ডিজিড,ডিজিয়িং,ডিজিস], "মাথা ঘুরানো").
+এন্ট্রি(ডজেবল, ন, [ডজেবেলস], "জেবেল").
+entry(djellaba, n, [djellabas], "একটি লম্বা হুডযুক্ত পোষাক").
+এন্ট্রি(জেম্বে, n, [জেম্বেস], "আফ্রিকান হাত ড্রামের একটি ধরণ")।
+প্রবেশ(দ্জিব্বা, ন, [দ্জিব্বাস], "জিব্বা")।
+এন্ট্রি(জিব্বাহ, ন, [জিব্বাহস], "জিব্বা")।
+entry(djin, n, [djins], "জিন").
+এন্ট্রি(জিন, ন, [জিনস], "জিনি")।
+প্রবেশ(দিজিনি, এন, [দিজিন], "জিনি")।
+এন্ট্রি(ডিননি, ন, [দ্বিজিন], "জিন").
+এন্ট্রি(ক, স, [দস], "ডায়াটোনিক সুরালির প্রথম সুর").
+entry(do, v, [didst,done,doing], "বর্তমান একবচন ২য় ব্যক্তি DO বা DOEST বা DOST ৩য় ব্যক্তি DOES বা DOETH বা DOTH শুরু করা এবং সম্পূর্ণ করার জন্য বহন করা")।
+এন্ট্রি(কর্মসাধ্য, বিশেষণ, [], "করা সম্ভব").
+প্রবেশ(doat, v, [doated,doating,doats], "ভালবাসো")।
+এন্ট্রি(ডব্বার, এন, [ডব্বার্স], "জেলেদের জন্য একটি ফ্লোট")।
+এনট্রি(ডবিন, ন, [ডবিন্স], "একটি খামারের ঘোড়া").
+entry(dobby, n, [dobbies], "একজন নির্বোধ").
+এন্ট্রি(দোব, সা, [দোবস], "অ্যাডোব")।
+ডাটা(দোবি, বিশেষ্য, [দোবিস], "অ্যাডোবি")।
+এন্ট্রি(ডোবিস, প্ল, [], "ডোবির").
+এন্ট্রি(দোবলা, ন, [দোবলাস], "স্পেনের একটি প্রাক্তন সোনার মুদ্রা")।
+প্রবেশ(ডবলন, এন, [ডবলনস], "অথবা DOBLONES, স্পেন এবং স্প্যানিশ আমেরিকার একটি প্রাক্তন সোনার মুদ্রা")।
+এন্ট্রি(দোব্রা, ন, [দোব্রাস], "পর্তুগালের একটি প্রাক্তন সোনার মুদ্রা")।
+এন্ট্রি(ডবসন, ন, [ডবসন্স], "একটি জলজ কীটপতঙ্গের ডিম").
+এনট্রি(ডোবি, ন, [ডোবিজ], "ডোবি").
+এন্ট্রি(ডক, এন, [ডকস], "ডক্টর")।
+এন্ট্রি(ডোসেন্ট, এন, [ডোসেন্টস], "একটি কলেজ বা বিশ্ববিদ্যালয়ের প্রভাষক")।
+entry(docetic, adj, [], "ধর্মীয় মতবাদের সাথে সম্পর্কিত")।
+entry(docile, adj, [], "সহজে প্রশিক্ষণযোগ্যDOCILELY adv").
+এন্ট্রি(নম্রতা, n, [নম্রতাগুলি], "নম্র হওয়ার গুণাবলী")।
+প্রবেশ(ডক, v, [ডকড,ডকিং,ডক্স], "একটি ডক বা ঘাটে আনা")।
+এন্ট্রি(ডকেজ, ন, [ডকেজেস], "ডকের ব্যবহারের জন্য একটি চার্জ")।
+এন্ট্রি(ডকার, ন, [ডকার্স], "একজন ডক কর্মী")।
+entry(docket, v, [docketed,docketing,dockets], "একটি সনাক্তকারী বিবৃতি সহ সরবরাহ করা").
+এন্ট্রি(ডকহ্যান্ড, ন, [ডকহ্যান্ডস], "একজন ডকার")।
+Prolog: entry(dockland, n, [docklands], "ডক্স দ্বারা দখলীকৃত বন্দর অংশ").
+এন্ট্র(ডকসাইড, ন, [ডকসাইডস], "ডকের পার্শ্ববর্তী এলাকা")।
+এন্ট্রি(ডকইয়ার্ড, ন, [ডকইয়ার্ডস], "একটি শিপইয়ার্ড")।
+এন্ট্রি(ডাক্তার, v, [ডাক্তারের, ডাক্তারিং, ডাক্তারদের], "চিকিৎসাগতভাবে ট্রিট করাDOCTORLY বিশেষণ")।
+এন্ট্রি(ডক্টরাল, বিশেষণ, [], "ডাক্তার সম্পর্কিত")।
+এন্ট্রি(ডকট্রিন, ন, [ডকট্রিনস], "একটি বিশ্বাস বা বিশ্বাসের সেট যা শেখানো বা সমর্থন করা হয়")।
+এন্ট্রি(ডকুমেন্ট, ভি, [ডকুমেন্টেড,ডকুমেন্টিং,ডকুমেন্টস], "নির্ণায়ক তথ্য বা প্রমাণ দ্বারা সমর্থন করা").
+এন্ট্রি(ডকুসোপ, ন, [ডকুসোপস], "বাস্তব মানুষের কার্যকলাপ সম্পর্কে একটি টেলিভিশন সিরিজ")।
+entry(dodder, v, [doddered,doddering,dodders], "টলতে").
+প্রবেশ(ডড্ডারার, ৎ, [ডড্ডারারস], "এক যে দোদড়ায়")।
+এন্ট্রি(ডডারি, বিশেষণ, [], "দুর্বল").
+এন্ট্রি(ডডল, এন, [ডডলস], "একটি সহজ কাজ")।
+এন্ট্রি(ডজ, ক্রিয়া, [ডজড, ডজিং, ডজেস], "এড়ানো").
+এন্ট্রি(ডজেম, ন, [ডজেমস], "একটি বিনোদন পার্কের রাইড")।
+entry(dodger, n, [dodgers], "এটা যে ফাঁকি দেয়").
+এন্ট্রি(ডজেরি, সি, [ডজেরিগুলি], "এভেশন")।
+এন্ট্রি(ডডজিং, বর্তমান, [], "ডজের পার্টিসিপল").
+ডোডজি(প্রবেশ, বিশেষণ, [], "ডোডজিয়ার ডোডজিয়েস্টএবড়াল").
+প্রবেশ(ডোডো, ন, [ডোডোস], "বা DODOES একটি বিলুপ্ত উড়তে না পারা পাখি")।
+এন্ট্রি(ডোডোইজম, স্ত্রীবাচক, [ডোডোইজমস], "একটি নির্বোধ মন্তব্য")।
+এন্ট্রি(ডো, ন, [ডোস], "একটি স্ত্রী হরিণ")।
+অনুপ্রবেশ(কর্তা, ন, [কর্তারা], "যে কিছু করে").
+এন্ট্রি(করেন, একটি, [], "করা এর বর্তমান ৩য় ব্যাক্তি একবচন").
+এন্ট্রি(ডোস্কিন, ন, [ডোস্কিনস], "একটি হরিণীর চামড়া")।
+entry(doest, a, [], "do এর বর্তমান ২য় ব্যক্তি একবচন").
+এন্ট্রি(ডোএথ, এ, [], "ডো এর বর্তমান তৃতীয় ব্যক্তি একবচন").
+এনট্রি(ডফ, v, [ডফড, ডফিং, ডফস], "খুলে ফেলা")।
+entry(doffer, n, [doffers], "একজন যে খুলে").
+entry(কুকুর, v, [কুকুরে,কুকুরানো,কুকুরেরা], "একটি গৃহপালিত মাংসাশী স্তন্যপায়ী প্রাণীর মতো অনুসরণ করা")।
+প্রবেশ(ডগবেন, ন, [ডগবেন্স], "একটি বার্ষিক হার্ব").
+এন্ট্রি(ডগবেরি, ন, [ডগবেরি], "একটি বন্য ফল")।
+entry(dogcart, n, [dogcarts], "একটি একঘোড়ার গাড়ি")।
+entry(dogdom, n, [dogdoms], "কুকুরের বিশ্ব").
+প্রবেশ(ডোজ, এন, [ডোজস], "ভেনিস এবং জেনোয়ার প্রাক্তন প্রজাতন্ত্রগুলির প্রধান বিচারপতি")।
+এন্ট্রি(ডগইয়ার, ভি, [ডগইয়ারড,ডগইয়ারিং,ডগইয়ার্স], "পাতার এক কোণা ভাঁজ করা")।
+entry(dogedom, n, [dogedoms], "একটি ডোজের ডোমেইন").
+এন্ট্রি(ডোজশিপ, ন, [ডোজশিপস], "একজন ডোজের কার্যালয়")।
+এন্ট্রি(ডগি, নাম, [ডগিস], "ডোগি")।
+এন্ট্রি(ডগফেস, ন, [ডগফেসেস], "মার্কিন সেনাবাহিনীর একজন সৈনিক")।
+এন্ট্রি(ডগফাইট, ভি, [ডগফট, ডগফাইটিং, ডগফাইটস], "একটি বায়বীয় যুদ্ধে জড়িত হওয়া").
+এন্ট্রি(ডগফিশ, ন, [ডগফিশেস], "একটি ছোট হাঙর")।
+entry(dogged, অতীত, [], "কুকুরের কালক্রম").
+এন্ট্রি(ডগেডলি, অ্যাডভ, [], "অবিচলভাবে")।
+এন্ট্রি(ডগার, বিশেষ্য, [ডগার্স], "একটি মৎস্য ধরা জাহাজ").
+ডাটা(doggerel, n, [doggerels], "তুচ্ছ খারাপভাবে লেখা পদ্য")।
+entry(doggery, n, [doggeries], "কর্কশ আচরণ").
+এন্ট্রি(ডগি, ন, [ডগিস], "ডগি").
+এন্ট্রি(ডগিয়ার, তুলনামূলক, [], "অফ ডগি")।
+এন্ট্রি(ডগিস, প্ল, [], "কুকুরছানাদের").
+এন্ট্রি(ডগিয়েস্ট, অতীত, [], "অফ ডগি")।
+এন্ট্রি(কুকুরের মত তাড়া করা, বর্তমান, [], "কুকুর তাড়ানোর ক্রিয়াবাচক বিশেষ্যরূপ")।
+এন্ট্রি(ডগিশ, বিশেষণ, [], "কুকুরের মত")।
+প্রবেশ(ডগো, ক্রি, [], "লুকিয়ে").
+এন্ট্রি(ডগগন, বিশেষণ, [], "DOGGONER DOGGONESTdamned")।
+entry(doggone, v, [doggoned,doggoning,doggones], "অভিশাপ দেওয়া").
+এন্ট্রি(ডগ্গনেড, বিশেষণ, [], "ডগ্গনেডের ডগ্গনেডেস্টড্যামড").
+এন্ট্রি(ডগরেল, ন, [ডগরেলস], "ডগেরেল").
+এন্ট্রি(ডগি, বিশেষণ, [], "DOGGIER DOGGIEST একটি কুকুরের সাথে সাদৃশ্যপূর্ণ বা সাজেস্টিভ").
+এন্ট্রি(ডগি, এন, [ডগিস], "একটা ছোট কুকুর")।
+এন্ট্রি(কুকুরের_ঘর, বিশেষ্য, [কুকুরের_ঘরসমূহ], "কুকুরের জন্য আশ্রয়স্থল")।
+এন্ট্রি(ডগি, ন, [ডগিস], "একটি পথভ্রষ্ট বাছুর")।
+এন্ট্রি(ডগিস, বহু, [], "ডগির").
+entry(dogleg, v, [doglegged,doglegging,doglegs], "একটি বাঁকা পথে চলা").
+এন্ট্রি(কুকুরসদৃশ, বিশেষণ, [], "কুকুরের মত").
+প্রবেশ(ডগমা, বিশেষ্য, [ডগমাস], "অথবা ডগমাটা: একটি নীতি বা বিশ্বাস যা ক্ষমতাবান হিসেবে উপস্থাপিত হয়ডগম্যাটিক বিশেষণ").
+এন্ট্রি(ডগন্যাপ, v, [ডগন্যাপড,ডগন্যাপিং,ডগন্যাপস], "অথবা ডগন্যাপড ডগন্যাপিং ডগন্যাপস্তে কুকুর চুরি করা")।
+entry(dognaper, n, [dognapers], "যে কুকুর চুরি করে").
+প্রবেশ(ডগসবডি, ন, [ডগসবডিজ], "একজন অধস্তন কর্মচারী")।
+entry(dogskin, n, [dogskins], "কুকুরের চামড়া থেকে তৈরি চামড়া")।
+এন্ট্রি(ডগস্লেড, ক্রিয়া, [ডগস্লেডেড, ডগস্লেডিং, ডগস্লেডস], "কুকুর দ্বারা টানা স্লেজ দিয়ে চলা").
+entry(dogstail, n, [dogstails], "কণ্টকাকার ফুলবিশিষ্ট একটি ঘাস")।
+এন্ট্রি(ডগটেইল, এন, [ডগটেইলস], "এক ধরনের ঘাস")।
+এন্ট্রি(ডগটুথ, ন, [ডগটিথ], "একটি ক্যাস্পিড")।
+এন্ট্রি(ডগট্রট, ক্রিয়া, [ডগট্রটেড, ডগট্রটিং, ডগট্রটস], "একটি স্থির গতিতে ছোট দৌড়াতে")।
+entry(dogvane, n, [dogvanes], "একটি ছোট ভ্যান").
+entry(প্রহরী_কুকুর, n, [প্রহরী_কুকুরেরা], "জাহাজে সংক্ষিপ্ত প্রহর বা পাহারার সময়কাল")।
+এন্ট্রি(ডগউড, ন, [ডগউডস], "একটি গাছ")।
+এনট্রি(ডগি, এন, [ডগিজ], "ডোগি")।
+এন্ট্রি(দোহ, ন, [দোহস], "ডায়াটনিক স্কেলের প্রথম সুর")।
+entry(doiled, adj, [], "বিস্মিত").
+এন্ট্রি(ডোইলি, ন, [ডোইলিস], "একটি ছোট ন্যাপকিন")।
+এন্ট্রি(করা, ন, [কর্মকাণ্ড], "একটি কাজ")।
+এন্ট্রি(দোইট, ন, [দোইটস], "একটি প্রাক্তন ডাচ মুদ্রা")।
+এন্ট্রি(দোয়াইটেড, বিশেষণ, [], "বৃদ্ধ এবং অক্ষম")।
+প্রবেশ(দোজো, ন, [দোজোস], "একটি স্কুল যা জুডো বা কারাতে শেখায়")।
+এন্ট্রি(ডল, ন, [ডলস], "বেদনাদায়ক তীব্রতার একটি একক")।
+entry(dolce, n, [dolci], "একটি নরম স্বরের অর্গান স্টপ")।
+entry(dolcetto, n, [dolcettos], "ইতালির একটি লাল ওয়াইন")।
+প্রবেশ(মন্দা, নপ্ল, [], "একটি মন্দা বা স্থবির সময়কাল")।
+প্রবেশ(ডোল, ক্রিয়া, [ডোলড, ডোলিং, ডোলস], "ছোট ছোট অংশে বিতরণ করা").
+entry(doleful, adj, [], "দুঃখপূর্ণ সর্বাধিক দুঃখপূর্ণ শোকপূর্ণ").
+এন্ট্রি(ডোলেরাইট, ন, [ডোলেরাইটস], "এক ধরনের ব্যাসল্ট")।
+এন্ট্রি(দোলসম, বিশেষণ, [], "দোলফুল")।
+এন্ট্রি(ডোলিং, বর্তমান, [], "ডোল এর পার্টিসিপল")।
+এন্ট্রি(ডল, ভি, [ডলড, ডলিং, ডলস], "স্টাইলিশভাবে পোশাক পরিধান করা")।
+এন্ট্রি(ডলার, ন, [ডলারস], "আমেরিকার একটি অর্থনৈতিক একক")।
+এন্ট্রি(ডলিড, অতীত, [], "ডলির কাল").
+এন্ট্রি(ডলিস, উপস্থিত, [], "dolly এর 3য় ব্যক্তি একবচন").
+প্রবেশ(ডলিশ, বিশেষণ, [], "সুন্দর")।
+এন্ট্রি(ডলপ, ভি, [ডলপড,ডলপিং,ডলপস], "ছোট পরিমাণে বিতরণ করা").
+এন্ট্রি(ডলির, v, [ডলিড, ডলিং, ডলিস], "চাকাযুক্ত প্ল্যাটফর্মে চলা").
+entry(ডলমা, ন, [ডলমাস], "অথবা ডলমাডেস একটি পুর ভরা আঙ্গুর পাতা")।
+এন্ট্রি(ডলম্যান, ন, [ডলম্যানস], "একটি তুর্কি পোশাক")।
+এন্ট্রি(ডলমেন, ন, [ডলমেনগুলি], "প্রাগৈতিহাসিক স্মৃতিস্তম্ভDOLMENIC বিশেষণ")।
+এন্ট্রি(ডোলোমাইট, ন, [ডোলোমাইটস], "একটি খনিজ")।
+এন্ট্রি(দোলর, বিশেষ্য, [দোলার্স], "দুঃখ")।
+এন্ট্রি(দোলোরোসো, বিশেষণ, [], "একটি মর্মস্পর্শী সঙ্গীতের গুণাবলী থাকা")।
+এন্ট্রি(দুঃখজনক, বিশেষণ, [], "শোকপূর্ণ")।
+এন্ট্রি(দোলাউর, ন, [দোলাউরস], "দোলর").
+এন্ট্রি(ডলফিন, n, [ডলফিনরা], "একটি সামুদ্রিক স্তন্যপায়ী প্রাণী")।
+entry(dolt, n, [dolts], "একজন নির্বোধ ব্যক্তিDOLTISH adj").
+entry(dom, n, [doms], "নির্দিষ্ট কিছু সন্ন্যাসীদের দেওয়া একটি উপাধি").
+এন্ট্রি(ডোমেইন, এন, [ডোমেইনসমূহ], "নিয়ন্ত্রণের একটি ক্ষেত্র")।
+এন্ট্রি(ডোমেইন, এন, [ডোমেইন], "বুরগুন্ডিতে একটি আঙ্গুরের বাগান")।
+entry(domal, বিশেষণ, [], "domical").
+প্রবেশ(গম্বুজ, ক্রিয়া, [গম্বুজযুক্ত, গম্বুজকার্যরত, গম্বুজগুলি], "একটি গম্বুজ দিয়ে ঢেকে দেওয়া একটি গোলাকার ছাদ")।
+এন্ট্রি(গম্বুজসদৃশ, বিশেষণ, [], "গম্বুজের মত অনুরূপ")।
+entry(domesday, n, [domesdays], "কেয়ামত").
+এনট্রি(দেশীয়, ন, [দেশীয়রা], "একজন গৃহস্থালীর চাকর").
+entry(domic, adj, [], "ডোমিকাল").
+entry(domical, adj, [], "গম্বুজ আকৃতির").
+এন্ট্রি(ডোমিসিল, ভি, [ডোমিসাইল্ড,ডোমিসাইলিং,ডোমিসিলস], "বাসস্থান স্থাপন করা")।
+এন্ট্রি(আবাস, v, [আবাসিত,আবাসন,আবাসগুলি], "বাসস্থানে প্রতিষ্ঠা করা")।
+প্রবেশ(প্রভাবশালী, ন, [প্রভাবশালীগুলি], "একটি নিয়ন্ত্রণকারী জিনগত চরিত্র").
+এন্ট্রি(প্রভুত্ব, ক্রিয়া, [আয়ত্তে_রাখা,আয়ত্তে_রাখছে,আয়ত্তে_রাখে], "নিয়ন্ত্রিত করা")।
+এন্ট্রি(ডোমিন, ন, [ডোমিনস], "মাস্টার")।
+entry(অধিকার করা, v, [অধিকার করেছিল,অধিকার করছে,অধিকার করে], "জুলুম করা")।
+প্রবেশ(ডোমিং, বর্তমান, [], "ডোম-এর ক্রিয়াবিশেষণীয় পদ")।
+এন্ট্রি(ডোমিনিক, ন, [ডোমিনিকস], "মুরগির একটি আমেরিকান জাতের মধ্যে একটি")।
+এন্ট্রি(ডমিনি, ন, [ডমিনিস], "একজন যাজক")।
+এন্ট্রি(ডমিনিয়ন, ন, [ডমিনিয়ন্স], "সর্বোচ্চ কর্তৃত্ব").
+entry(dominium, n, [dominiums], "সম্পত্তির মালিকানা এবং নিয়ন্ত্রণের অধিকার")।
+entry(domino, n, [dominos], "বা DOMINOES একটি ছোট মুখোশ").
+এন্ট্রি(ডন, v, [ডনড, ডনিং, ডনস], "পরিধান করা")।
+প্রবেশ(দোনা, বিশেষণ, [ডোনাস], "একজন স্প্যানিশ মহিলা")।
+entry(donair, n, [donairs], "পিতার রুটির মধ্যে মোড়ানো কাটা মাংস").
+এন্ট্রি(দান, ক্রিয়া, [দেওয়া,দেওয়ার,দেয়], "অবদান রাখতে").
+এন্ট্রি(দান, এন, [দানগুলি], "কিছু দান করা হয়েছে")।
+এন্ট্রি(দান, নি, [দানসমূহ], "একটি দান")।
+এন্ট্রি(দাতা, ন, [দাতারা], "একজন দাতা")।
+entry(done, past, [], "করার পার্টিসিপল").
+entry(donee, n, [donees], "উপহার প্রাপক").
+প্রবেশ(ডানেগাল, ন, [ডানেগালস], "এক ধরনের টুইড")।
+এন্ট্রি(ডোননেস, ন, [ডোননেসেস], "যথেষ্ট রান্না করা অবস্থাটি")।
+এন্ট্রি(ডং, ভি, [ডংড, ডংইং, ডংস], "একটি বড় ঘণ্টার মত গভীর শব্দ করা").
+entry(donga, n, [dongas], "ভেল্ডে একটি গলি")।
+এন্ট্রি(ডংল, ন, [ডংলস], "কম্পিউটারের একটি যন্ত্র").
+এন্ট্রি(ডঙ্গোলা, এন, [ডঙ্গোলাস], "এক ধরনের চামড়া")।
+এন্ট্রি(ডনজন, ন, [ডনজনস], "একটি দুর্গের প্রধান টাওয়ার")।
+প্রবেশ(গাধা, n, [গাধাগুলি], "গৃহপালিত গর্দভ")।
+entry(ডোনা, এন, [ডোনাস], "অথবা ডোনান ইতালীয় নারী").
+এন্ট্রি(ডনড, অতীত, [], "ডন এর কাল")।
+প্রবেশ(তথ্য, ন, [তথ্যাবলি], "একটি গল্প যেসব অনুমানের উপর ভিত্তি করে এগিয়ে চলে")।
+entry(donnerd, adj, [], "ধনাধারী")।
+entry(donnered, adj, [], "হতবুদ্ধি").
+entry(donnert, adj, [], "ডোনার্ড")।
+এন্ট্রি(ডনিকার, এন, [ডনিকার্স], "একটি বাথরুম বা পায়খানা")।
+এন্ট্রি(ডনিং, বর্তমান, [], "ডনের পার্টিসিপল")।
+entry(দোগ্ধা, বিশেষণ, [], "পাণ্ডিত্যপূর্ণ")।
+এন্ট্রি(ডোনার, ন, [ডোনারস], "যে দান করে")।
+এন্ট্রি(ডনশিপ, এন, [ডনশিপস], "ব্রিটিশ বিশ্ববিদ্যালয়ের একজন সিনিয়র সদস্যের পদবিশেষ")।
+এন্ট্রি(ডন্সি, বিশেষণ, [], "অভাগা")।
+এন্ট্রি(ডনসি, বিশেষণ, [], "ডন্সি")।
+এন্ট্রি(ডোনাট, ন, [ডোনাটস], "ডফনাট")।
+এন্ট্রি(ডনজেল, এন, [ডনজেলস], "একটি যুবক অনুচর")।
+এন্ট্রি(ডুব, ন, [ডুবস], "একটি ডুবি")।
+এন্ট্রি(ডুবি, ন, [ডুবিস], "একটি গাঁজার সিগারেট").
+এন্ট্রি(দুদাদ, ন, [দুদাদস], "একটি বস্তু যার নাম অজানা বা ভুলে যাওয়া").
+এন্ট্রি(ডুডা, ন, [ডুডাস], "একটি ছোট উপকারী যন্ত্র").
+entry(doodle, v, [doodled,doodling,doodles], "অলসভাবে আঁকা বা খসড়া করা").
+এন্ট্রি(ডুডলার, ন, [ডুডলারস], "যে আঁকিবুকি করে").
+এন্ট্রি(দুদু, ন, [দুদুস], "মল")।
+এন্ট্রি(ডুডি, ন, [ডুডিজ], "মল").
+এন্ট্রি(ডুফাস, ন, [ডুফাসেস], "একজন বোকা বা নির্বোধ ব্যক্তি")।
+প্রবেশ(দুলি, ন, [দুলিস], "অসুস্থ বা আহতদের জন্য একটি স্ট্রেচার")।
+এন্ট্রি(দুলি, ন, [দুলিস], "দুলী")।
+এন্ট্রি(দুলি, এন, [দুলিজ], "দুলি").
+প্রবেশ(অভার, ক্রিয়া, [অধ: পতিত, অধ: পতনরত, অধ: পতন], "একটি দুঃখজনক ভাগ্যে নিয়ন্ত্রণ করা")।
+entry(ভয়াবহ, বিশেষণ, [], "অশুভ").
+doomsday-এর জন্য Prolog নিম্নরূপ হবে:
+entry(doomsday, n, [doomsdays], "বিচারের দিন").
+এন্ট্রি(ডুমস্টার, এন, [ডুমস্টার্স], "একজন বিচারক")।
+প্রবেশ(ডুমি, বিশেষণ, [], "ডুমিার ডুমিেষ্টডুমফুলডুমলি ক্রিবিশেষণ").
+entry(দরজা, n, [দরজাগুলি], "একটি প্রবেশপথে একটি চলমান প্রতিবন্ধকDOORED adj").
+এন্ট্রি(ডোরবেল, নাম, [ডোরবেলস], "একটি দরজায় ঘণ্টা")।
+entry(doorcase, n, [doorcases], "একটি দরজার ফ্রেম")।
+এন্ট্রি(দোরজ্যাম্ব, এন, [দোরজ্যাম্বস], "একটি দরজার পাশে অবস্থিত একটি উল্লম্ব অংশ")।
+entry(দরজার_হাতল, n, [দরজার_হাতলগুলো], "দরজা খোলার জন্য একটি হাতল")।
+প্রবেশ(দ্বারহীন, বিশেষণ, [], "কোনো দরজা নেই")।
+entry(দ্বাররক্ষী, n, [দ্বাররক্ষীরা], "একটি ভবনের দরজার কর্মী").
+entry(দরজামাদুর, ন, [দরজামাদুরসমূহ], "একটি মাদুর যা একটি দরজার সামনে রাখা হয়")।
+এন্ট্রি(ডুরনেইল, ন, [ডুরনেইলস], "একটি বৃহৎ মাথাওয়ালা পেরেক")।
+এন্ট্রি(দরজার_কাঠামো, এন, [দরজার_কাঠামোসমূহ], "একটি দরজার খাড়ি").
+এন্ট্রি(doorsill, n, [doorsills], "একটি দরজার সিল")।
+entry(দোরগোড়া, n, [দোরগোড়াগুলি], "একটি পদক্ষেপ যা একটি দরজার দিকে নিয়ে যায়")।
+entry(doorstop, n, [doorstops], "একটি বস্তু যা দরজা খোলা রাখতে ব্যবহৃত হয়")।
+এন্ট্রি(দরজার পথ, বিশেষ্য, [দরজার পথগুলি], "একটি ঘর বা ভবনে প্রবেশপথ")।
+এনট্রি(দোরইয়ার্ড, ন, [দোরইয়ার্ডস], "একটি বাড়ির সামনে একটি উঠোন")।
+প্রবেশ(দুওওপ, ন, [দুওওপস], "একটি গায়িকা শৈলী")।
+এন্ট্রি(ডুজ়ার, এন, [ডুজ়ার্স], "ডুজ়ি")।
+এন্ট্রি(ডুজি, ন, [ডুজিজ], "ডুজি")।
+এন্ট্রি(ডোপা, ন, [ডোপাস], "পার্কিনসন্স রোগের চিকিৎসার জন্য একটি ওষুধ").
+এন্ট্রি(ডোপামিন, এন, [ডোপামাইনস], "হৃদয় উদ্দীপ্ত করতে ব্যবহৃত একটি ডোপার রূপ")।
+entry(dopant, n, [dopants], "একটি বিশুদ্ধ পদার্থের সাথে যোগ করা অমিশ্রতা")।
+এন্ট্রি(ডোপ, v, [ডোপড, ডোপিং, ডোপস], "একটি মাদকদ্রব্য প্রদান করা").
+entry(dope, adj, [], "DOPER DOPESTচমৎকার অসাধারণ").
+এন্ট্রি(ডোপার, ন, [ডোপার্স], "একজন যে ডোপ করে")।
+entry(dopester, n, [dopesters], "যে প্রতিযোগিতার ফলাফল পূর্বানুমান করে").
+এন্ট্রি(ডোপি, বিশেষণ, [], "ডোপিয়ার ডোপিয়েস্টlethargic stupidডোপিলি ক্রিয়া-বিশেষণ")।
+এন্ট্রি(ডোপিয়ার, তুলনামূলক, [], "অফ ডোপি")।
+entry(dopiest, superlative, [], "dopy এর").
+entry(অবসাদ, ন, [অবসাদগুলো], "গবেট হওয়ার অবস্থা").
+এন্ট্রি(ডোপিং, ন, [ডোপিংসমূহ], "ক্রীড়াবিদদের দ্বারা ড্রাগ ব্যবহারের").
+entry(dopy, adj, [], "DOPIER DOPIESTdopey").
+প্রবেশ(দরজা, বিশেষ্য, [দরজাগুলি], "একটি কালো ইউরোপীয় ভীমরুল").
+এন্ট্রি(ডোরাডো, ন, [ডোরাডোস], "একটি সামুদ্রিক মাছ")।
+এন্ট্রি(ডরবাগ, এন, [ডরবাগস], "একটি ডর")।
+এন্ট্রি(দরে, ন, [দোরেস], "একটি বড় মিঠা পানির মাছ")।
+এন্ট্রি(ডরহক, ন, [ডরহকস], "একটি নিশাচর পাখি")।
+এন্ট্রি(ডোরিস, বহুবচন, [], "ডোরির").
+এন্ট্রি(ডর্ক, ন, [ডর্কস], "একজন নির্বোধ বা বোকা ব্যক্তি")।
+এন্ট্রি(ডর্কি, বিশেষণ, [], "ডর্কিয়ার ডর্কিয়েস্টমূর্খ নির্বোধ")।
+এন্ট্রি(ডর্ম, এন, [ডর্মস], "একটি ডর্মিটরি")।
+এন্ট্রি(নির্জীবতা, বি, [নির্জীবতাগুলি], "নির্জীব অবস্থায় থাকা").
+এন্ট্রি(নির্জীব, বিশেষণ, [], "ঘুমন্ত অবস্থা")।
+এন্ট্রি(ডরমার, ন, [ডরমারগুলি], "এক ধরনের জানালা ডরমারড বিশেষণ")।
+এন্ট্রি(ডর্মাইস, প্ল, [], "ডরমাউসের").
+এন্ট্রি(ডর্মি, বিশেষণ, [], "গলফে যত গর্ত খেলা বাকি আছে তত এগিয়ে থাকা").
+এন্ট্রি(নীদ্রমান, বিশেষণ, [], "সুপ্ত")।
+এন্ট্রি(ডরমিন, ন, [ডরমিনস], "একটি উদ্ভিদ হরমোন")।
+এন্ট্রি(ডর্মাউস, ন, [ডর্মিস], "একটি ছোট রডেন্ট")।
+এন্ট্রি(ডরমি, বিশেষণ, [], "ডরমি")।
+এন্ট্রি(ডর্কিন, ন, [ডর্কিনস], "ডর্নিক")।
+এন্ট্রি(ডর্নিক, পি, [ডর্নিকস], "একটি ভারী লিনেন কাপড়")।
+এন্ট্রি(ডর্নক, ন, [ডর্নক্স], "ডর্নিক").
+এন্ট্রি(গ্রাম, শ, [গ্রামসমূহ], "একটি গ্রাম")।
+এন্ট্রি(ডর্পার, এন, [ডর্পার্স], "এক ধরনের মটন উৎপাদনকারী ভেড়ার জাত")।
+এন্ট্রি(দরজা, ন, [দরজাগুলি], "দর")।
+প্রবেশ(ডরসা, বহুবচন, [], "ডরসামের").
+এন্ট্রি(ডরস্যাড, অ্যাডভ, [], "ডরসালি")।
+entry(ডরসাল, ন, [ডরসালস], "পৃষ্ঠদেশীয়ভাবে অবস্থিত একটি শারীরস্থানিক অংশ").
+এন্ট্রি(ডরসালি, ক্রিয়া_বিশেষণ, [], "পেছনের দিকে")।
+এন্ট্রি(ডর্শেল, ন, [ডর্শেলস], "একটি ডসাল")।
+entry(dorser, n, [dorsers], "ডোসার").
+এন্ট্রি(ডরসাম, ন, [ডরসা], "পিঠটি")।
+entry(dorty, বিশেষণ, [], "কান্দুনে").
+প্রবেশ(ডোরি, ন, [ডোরিস], "একটি চ্যাপ্টা-নিচের নৌকা")।
+এন্ট্রি(ডোরিম্যান, ন, [ডোরিমেন], "একজন যে ডোরি থেকে মাছ ধরে")।
+এন্ট্রি(দোসা, ন, [দোসাস], "বা ডোসাই চালের গুঁড়ো দিয়ে তৈরি প্যানকেক")।
+এন্ট্রি(ডোজেজ, ন, [ডোজেস], "ঔষধ দেয়ার পরিমাণ")।
+entry(dose, v, [dosed,dosing,doses], "নির্দিষ্ট পরিমাণে ওষুধ দেওয়া").
+এন্ট্রি(ডোজার, ন, [ডোজার্স], "যে ডোজ করে")।
+entry(দোষ, ন, [], "টাকা")।
+এন্ট্রি(দোষা, ন, [দোষাস], "শরীরে প্রচলিত বলে বিশ্বাস করা তিনটি শক্তির প্রতিটি")।
+এন্ট্রি(ডস, ভি, [ডসড,ডসিং,ডসেস], "যেকোনো সুবিধাজনক স্থানে ঘুমানো").
+entry(dossal, n, [dossals], "বেদীর পেছনে ঝোলানো অলঙ্কারযুক্ত কাপড়").
+এন্ট্রি(দসেল, ন, [দসেলস], "দসাল")।
+entry(dosser, n, [dossers], "পেছনে বহন করা একটি ঝুড়ি")।
+entry(dosseret, n, [dosserets], "একটি ব্লক যা একটি স্তম্ভের রাজধানীতে বিশ্রাম করে")।
+এন্ট্রি(ডসিয়ার, ন, [ডসিয়ার্স], "একক বিষয়ে কাগজপত্রের একটি ফাইল")।
+এন্ট্রি(দোসিল, ন, [দোসিলস], "কালির দাগ মোছার জন্য একটি কাপড়ের রোল")।
+entry(দোস্ত, ক, [], "করা ক্রিয়ার বর্তমান ২য় পুরুষ একবচন").
+entry(dot, v, [dotted,dotting,dots], "ছোট গোল দাগ দিয়ে আবৃত করা").
+এন্ট্রি(বাতসরিকতা, ন, [বাতসরিকতাসমূহ], "অবসরজনিত বোকামি বা মূর্খতা").
+এন্ট্রি(ডোটাল, বিশেষণ, [], "যৌতুক সম্পর্কিত")।
+প্রবেশ(ডোটার্ড, ন, [ডোটার্ডস], "একজন স্নায়বিক ব্যক্তিDOTARDLY বিশেষণ").
+এন্ট্রি(ডোটেশন, ন, [ডোটেশনস], "একটি অনুদান")।
+প্রবেশ(ডট, ভি, [ডটেড, ডটিং, ডটস], "অতিরিক্ত স্নেহ প্রদর্শন করা")।
+entry(doter, n, [doters], "যে একজনে প্রশংসা করে").
+entry(doth, a, [], "do এর বর্তমান কালের ৩য় পুরুষ একবচন").
+entry(dotier, comparative, [], "অফ ডোটী").
+এন্ট্রি(ডোটিয়েস্ট, তুলনামূলক, [], "ডোটির").
+entry(doting, present, [], "dote-এর পার্টিসিপল").
+এন্ট্রি(ডটিঙ্গলি, ক্রি-বিশেষণ, [], "একটি অত্যন্ত স্নেহপূর্ণ উপায়ে")।
+এন্ট্রি(ডটেড, অতীত, [], "ডটের কাল")।
+এন্ট্রি(ডটেল, ন, [ডটেলস], "ডটল")।
+entry(dotter, n, [dotters], "ডট দেয় এমন একজন/একটি").
+এন্ট্রি(ডটারেল, ন, [ডটারেলস], "একটি শোরবার্ড")।
+এন্ট্রি(ডটিয়ার, তুলনামূলক, [], "ডটির").
+এন্ট্রি(ডটিয়েস্ট, সুপারলেটিভ, [], "ডটির").
+entry(dottily, ক্রিয়া বিশেষণ, [], "পাগলাটে ভাবে").
+entry(dotting, present, [], "dot এর ক্রিয়াবাচক বিশেষণরূপ")।
+এন্ট্রি(ডটল, ন, [ডটলস], "অর্ধপোড়া পাইপ তামাকের ভর")।
+entry(dottrel, n, [dottrels], "ডটারেল").
+এন্ট্রি(ডটটি, বিশেষণ, [], "ডটিয়ার ডটিয়েস্টপাগল").
+এন্ট্রি(ডটি, বিশেষণ, [], "পচনের দ্বারা দাগযুক্ত DOTIER DOTIEST")।
+entry(double, v, [দ্বিগুণ, দ্বিগুণীকরণ, দ্বিগুণগুলি], "দুই গুণ বড় করতে").
+entry(doubler, n, [doublers], "যে দ্বিগুণ করে").
+entry(ডাবলেট, ন, [ডাবলেটস], "একটি আঁটসাঁট জ্যাকেট")।
+এন্ট্রি(ডাবলিং, বর্তমান, [], "ডাবল এর পার্টিসিপল")।
+এন্ট্রি(ডাবলুন, ন, [ডাবলুনস], "একটি প্রাক্তন স্প্যানিশ সোনার কয়েন")।
+এন্ট্রি(ডাবলুর, ন, [ডাবলুরস], "বইয়ের কভারের আস্তরণ")।
+```prolog
+entry(doubly, adv, [doubters], "যে সন্দেহ করেDOUBTFUL adj অনিশ্চিতDOUCE adj DOUCER DOUCESTsober sedateDOUCELY advDOUCEUR n pl DOUCEURSa gratuityDOUCHE v DOUCHED DOUCHING DOUCHEsto cleanse with a jet of waterDOUCHING n pl DOUCHINGSa cleansing with a jet of waterDOUGH n pl DOUGHSa flour mixtureDOUGHBOY n pl DOUGHBOYSan infantrymanDOUGHIER comparative of doughyDOUGHIEST superlative of doughyDOUGHNUT n pl DOUGHNUTSa ringshaped cakeDOUGHT a past tense of dowDOUGHTY adj DOUGHTIER DOUGHTIESTcourageousDOUGHY adj DOUGHIER DOUGHIESTresembling doughDOULA n pl DOULASa woman who assists another woman during childbirthDOUM n pl DOUMSan African palm treeDOUMA n pl DOUMASdumaDOUPIONI n pl DOUPIONISa silk yarnDOUR adj DOURER DOURESTsullenDOURA n pl DOURASdurraDOURAH n pl DOURAHSdurraDOURINE n pl DOURINESa disease of horsesDOURLY adv in a dour mannerDOURNESS n pl DOURNESSESthe state of being dourDOUSE v DOUSED DOUSING DOUSESto plunge into waterDOUSER n pl DOUSERSone that dousesDOUT v DOUTED DOUTING DOUTSto extinguish as a fireDOUX adj very sweet  used of champagneDOUZEPER n pl DOUZEPERSone of twelve legendary knightsDOVE n pl DOVESa bird of the pigeon familyDOVECOT n pl DOVECOTSdovecoteDOVECOTE n pl DOVECOTESa roost for domesticated pigeonsDOVEKEY n pl DOVEKEYSdovekieDOVEKIE n pl DOVEKIESa seabirdDOVELIKE adj resembling or suggestive of a doveDOVEN v DOVENED DOVENING DOVENSto davenDOVETAIL v DOVETAILED DOVETAILING DOVETAILSto fit together closelyDOVISH adj not warlikeDOW v DOWED or DOUGHT DOWING DOWSto prosperDOWABLE adj entitled to an endowmentDOWAGER n pl DOWAGERSa dignified elderly womanDOWDY adj DOWDIER DOWDIESTlacking in stylishness or neatnessDOWDILY advDOWDYISH adjDOWDY n pl DOWDIESa dowdy womanDOWEL v DOWELED DOWELING DOWELS or DOWELLED DOWELLING DOWELSto fasten with wooden pinsDOWELING n pl DOWELINGSa cylindrical rodDOWER v DOWERED DOWERING DOWERSto provide with a dowryDOWERY n pl DOWERIESdowryDOWIE adj drearyDOWN v DOWNED DOWNING DOWNSto cause to fallDOWNBEAT n pl DOWNBEATSthe first beat of a musical measureDOWNBOW n pl DOWNBOWSa type of stroke in playing a bowed instrumentDOWNCAST n pl DOWNCASTSan overthrow or ruinDOWNCOME n pl DOWNCOMESdownfallDOWNER n pl DOWNERSa depressant drugDOWNFALL n pl DOWNFALLSa sudden fallDOWNHAUL n pl DOWNHAULSa rope for hauling down sailsDOWNHILL n pl DOWNHILLSa downward slopeDOWNHOLE adj used down or in an oil wellDOWNIER comparative of downyDOWNIEST superlative of downyDOWNILY adv in a downy mannerDOWNLAND n pl DOWNLANDSa rolling treeless uplandDOWNLESS adj having no down soft furry feathersDOWNLIKE adj resembling downDOWNLINK v DOWNLINKED DOWNLINKING DOWNLINKSto transmit data from a satellite to earthDOWNLOAD v DOWNLOADED DOWNLOADING DOWNLOADSto transfer data from a large computer to a smaller oneDOWNPIPE n pl DOWNPIPESa pipe for draining water from a roofDOWNPLAY v DOWNPLAYED DOWNPLAYING DOWNPLAYSto deemphasizeDOWNPOUR n pl DOWNPOURSa heavy rainDOWNRATE v DOWNRATED DOWNRATING DOWNRATESto make lower in valueDOWNSIDE n pl DOWNSIDESa negative aspectDOWNSIZE v DOWNSIZED DOWNSIZING DOWNSIZESto produce in a smaller sizeDOWNSPIN n pl DOWNSPINSa spinning motionDOWNTICK n pl DOWNTICKSa stock market transactionDOWNTIME n pl DOWNTIMESthe time when a machine or factory is inactiveDOWNTOWN n pl DOWNTOWNSthe business district of a cityDOWNTROD adj oppressedDOWNTURN n pl DOWNTURNSa downward turnDOWNWARD adv from a higher to a lower placeDOWNWARP n pl DOWNWARPSa broad surface depressionDOWNWASH n pl DOWNWASHESa downward deflection of airDOWNWIND adv in the direction that the wind blowsDOWNY adj DOWNIER DOWNIESTsoftDOWNZONE v DOWNZONED DOWNZONING DOWNZONESto reduce or limit the number of buildings permittedDOWRY n pl DOWRIESthe money or property a wife brings to her husband at marriageDOWSABEL n pl DOWSABELSa sweetheartDOWSE v DOWSED DOWSING DOWSESto search for underground water with a divining rodDOWSER n pl DOWSERSone that dowsesDOWSING n pl DOWSINGSa technique for searching for underground waterDOXIE n pl DOXIESdoxyDOXOLOGY n pl DOXOLOGIESa hymn or verse of praise to GodDOXY n pl DOXIESa doctrineDOYEN n pl DOYENSthe senior member of a groupDOYENNE n pl DOYENNESa female doyenDOYLEY n pl DOYLEYSdoilyDOYLY n pl DOYLIESdoilyDOZE v DOZED DOZING DOZESto sleep lightlyDOZEN v DOZENED DOZENING DOZENSto stunDOZENTH n pl DOZENTHStwelfthDOZER n pl DOZERSone that dozesDOZIER comparative of dozyDOZIEST superlative of dozyDOZILY adv in a dozy mannerDOZINESS n pl DOZINESSESthe state of being dozyDOZING present participle of dozeDOZY adj DOZIER DOZIESTdrowsyDRAB adj DRABBER DRABBESTcheerlessDRAB v DRABBED DRABBING DRABSto consort with prostitutesDRABBET n pl DRABBETSa coarse linen fabricDRABBLE v DRABBLED DRABBLING DRABBLESto draggleDRABLY adv in a drab mannerDRABNESS n pl DRABNESSESthe quality of being drabDRACAENA n pl DRACAENASa tropical plantDRACENA n pl DRACENASdracaenaDRACHM n pl DRACHMSa unit of weightDRACHMA n pl DRACHMAS DRACHMAE or DRACHMAIa former monetary unit of GreeceDRACONIC adj pertaining to a dragonDRAFF n pl DRAFFSthe damp remains of malt after brewingDRAFFISH adj draffyDRAFFY adj DRAFFIER DRAFFIESTworthlessDRAFT v DRAFTED DRAFTING DRAFTSto conscript for military serviceDRAFTEE n pl DRAFTEESone that is draftedDRAFTER n pl DRAFTERSone that draftsDRAFTING n pl DRAFTINGSmechanical drawingDRAFTY adj DRAFTIER DRAFTIESThaving or exposed to currents of airDRAFTILY advDRAG v DRAGGED DRAGGING DRAGSto pull along the groundDRAGEE n pl DRAGEESa sugarcoated candyDRAGGER n pl DRAGGERSone that dragsDRAGGIER comparative of draggyDRAGGIEST superlative of draggyDRAGGING present participle of dragDRAGGLE v DRAGGLED DRAGGLING DRAGGLESto make wet and dirtyDRAGGY adj DRAGGIER DRAGGIESTsluggishDRAGLINE n pl DRAGLINESa line used for draggingDRAGNET n pl DRAGNETSa net for trawlingDRAGOMAN n pl DRAGOMANS or DRAGOMENan interpreter in Near Eastern countriesDRAGON n pl DRAGONSa mythical monster resembling a serpentDRAGONET n pl DRAGONETSa marine fishDRAGOON v DRAGOONED DRAGOONING DRAGOONSto harass by the use of troopsDRAGROPE n pl DRAGROPESa rope used for draggingDRAGSTER n pl DRAGSTERSa vehicle used in drag racingDRAIL n pl DRAILSa heavy fishhookDRAIN v DRAINED DRAINING DRAINSto draw off a liquidDRAINAGE n pl DRAINAGESthe act of drainingDRAINER n pl DRAINERSone that drainsDRAKE n pl DRAKESa male duckDRAM v DRAMMED DRAMMING DRAMSto tippleDRAMA n pl DRAMASa composition written for theatrical performanceDRAMADY n pl DRAMADIESdramedyDRAMATIC adj pertaining to dramaDRAMEDY n pl DRAMEDIESa sitcom having dramatic scenesDRAMMED past tense of dramDRAMMING present participle of dramDRAMMOCK n pl DRAMMOCKSraw oatmeal mixed with cold waterDRAMSHOP n pl DRAMSHOPSa barroomDRANK past tense of drinkDRAPE v DRAPED DRAPING DRAPESto arrange in graceful foldsDRAPABLE adjDRAPER n pl DRAPERSa dealer in clothDRAPERY n pl DRAPERIEScloth arranged in graceful foldsDRAPEY adj characterized by graceful foldsDRAPING present participle of drapeDRASTIC adj extremely severeDRAT v DRATTED DRATTING DRATSto damnDRAUGHT v DRAUGHTED DRAUGHTING DRAUGHTSto draftDRAUGHTY adj DRAUGHTIER DRAUGHTIESTdraftyDRAVE a past tense of driveDRAW v DREW DRAWN DRAWING DRAWSto move by pullingDRAWABLE adjDRAWBACK n pl DRAWBACKSa hindranceDRAWBAR n pl DRAWBARSa railroad couplerDRAWBORE n pl DRAWBORESa hole for joining a mortise and tenonDRAWCORD n pl DRAWCORDSa cord for drawing a garment tightDRAWDOWN n pl DRAWDOWNSa lowering of a water levelDRAWEE n pl DRAWEESthe person on whom a bill of exchange is drawnDRAWER n pl DRAWERSone that drawsDRAWING n pl DRAWINGSa portrayal in lines of a form or figureDRAWL v DRAWLED DRAWLING DRAWLSto speak slowly with vowels greatly prolongedDRAWLER n pl DRAWLERSone that drawlsDRAWLY adj DRAWLIER DRAWLIESTmarked by drawlingDRAWN past participle of drawDRAWTUBE n pl DRAWTUBESa tube that slides within another tubeDRAY v DRAYED DRAYING DRAYSto transport by dray a low strong cartDRAYAGE n pl DRAYAGEStransportation by drayDRAYMAN n pl DRAYMENone who drives a drayDREAD v DREADED DREADING DREADSto fear greatlyDREAD adj DREADER DREADESTfrighteningDREADFUL n pl DREADFULSa publication containing sensational materialDREAM v DREAMED or DREAMT DREAMING DREAMSto have a dream a series of images occurring during sleepDREAMER n pl DREAMERSone that dreamsDREAMFUL adj dreamyDREAMY adj DREAMIER DREAMIESTfull of dreamsDREAMILY advDREAR n pl DREARSthe state of being drearyDREAR adj DREARER DREARESTdrearyDREARY adj DREARIER DREARIESTdismalDREARILY advDREARY n pl DREARIESa dismal personDRECK n pl DRECKSrubbishDRECKISH adjDRECKY adj DRECKIER DRECKIESTtrashyDREDGE v DREDGED DREDGING DREDGESto clear with a dredge a machine for scooping mudDREDGER n pl DREDGERSone that dredgesDREDGING n pl DREDGINGSmatter that is dredged upDREE v DREED DREEING DREESto sufferDREG n pl DREGSthe sediment of liquorsDREGGISH adjDREGGY adj DREGGIER DREGGIESTfull of dregsDREICH adj drearyDREIDEL n pl DREIDELSa spinning toyDREIDL n pl DREIDLSdreidelDREIGH adj dreichDREK n pl DREKSdreckDREKKISH adjDREKKY adj DREKKIER DREKKIESTdreckyDRENCH v DRENCHED DRENCHING DRENCHESto wet thoroughlyDRENCHER n pl DRENCHERSone that drenchesDRESS v DRESSED or DREST DRESSING DRESSESto put clothes onDRESSAGE n pl DRESSAGESthe training of a horse in obedience and deportmentDRESSER n pl DRESSERSone that dressesDRESSING n pl DRESSINGSmaterial applied to cover a woundDRESSY adj DRESSIER DRESSIESTstylishDRESSILY advDREST a past tense of dressDREW past tense of drawDRIB v DRIBBED DRIBBING DRIBSto dripDRIBBLE v DRIBBLED DRIBBLING DRIBBLESto drivelDRIBBLER n pl DRIBBLERSone that dribblesDRIBBLET n pl DRIBBLETSdribletDRIBBLING present participle of dribbleDRIBBLY adj tending to dribbleDRIBLET n pl DRIBLETSa small drop of liquidDRIED past tense of dryDRIEGH adj drearyDRIER n pl DRIERSone that driesDRIES present 3d person sing of dryDRIEST a superlative of dryDRIFT v DRIFTED DRIFTING DRIFTSto move along in a currentDRIFTAGE n pl DRIFTAGESthe act of driftingDRIFTER n pl DRIFTERSone that driftsDRIFTNET n pl DRIFTNETSa large fishnet arranged to drift with the tide or currentDRIFTPIN n pl DRIFTPINSa metal rod for securing timbersDRIFTY adj DRIFTIER DRIFTIESTfull of drifts masses of winddriven snowDRILL v DRILLED DRILLING DRILLSto bore a hole inDRILLER n pl DRILLERSone that drillsDRILLING n pl DRILLINGSa heavy twilled cotton fabricDRILY adv drylyDRINK v DRANK DRUNK DRINKING DRINKSto swallow liquidDRINKER n pl DRINKERSone that drinksDRINKING n pl DRINKINGSa habit of drinking alcoholic beveragesDRIP v DRIPPED or DRIPT DRIPPING DRIPSto fall in dropsDRIPLESS adj designed not to dripDRIPPER n pl DRIPPERSsomething from which a liquid dripsDRIPPING n pl DRIPPINGSjuice drawn from meat during cookingDRIPPY adj DRIPPIER DRIPPIESTvery wetDRIPPILY advDRIPT a past tense of dripDRIVE v DROVE or DRAVE DRIVEN DRIVING DRIVESto urge or propel forwardDRIVABLE adjDRIVEL v DRIVELED DRIVELING DRIVELS or DRIVELLED DRIVELLING DRIVELSto let saliva flow from the mouthDRIVELER n pl DRIVELERSone that drivelsDRIVER n pl DRIVERSone that drivesDRIVEWAY n pl DRIVEWAYSa private road providing access to a buildingDRIVING n pl DRIVINGSmanagement of a motor vehicleDRIZZLE v DRIZZLED DRIZZLING DRIZZLESto rain lightlyDRIZZLY adj DRIZZLIER DRIZZLIESTcharacterized by light rainDROGUE n pl DROGUESa sea anchorDROID n pl DROIDSan androidDROIT n pl DROITSa legal rightDROKE n pl DROKESa grove of treesDROLL adj DROLLER DROLLESTcomicalDROLL v DROLLED DROLLING DROLLSto jestDROLLERY n pl DROLLERIESsomething drollDROLLY adv in a droll mannerDROMON n pl DROMONSdromondDROMOND n pl DROMONDSa large fastsailing medieval galleyDRONE v DRONED DRONING DRONESto make a continuous low soundDRONER n pl DRONERSone that dronesDRONGO n pl DRONGOS or DRONGOESa tropical birdDRONISH adj habitually lazyDROOL v DROOLED DROOLING DROOLSto drivelDROOLY adj DROOLIER DROOLIESTdroolingDROOP v DROOPED DROOPING DROOPSto hang downwardDROOPY adj DROOPIER DROOPIESTdroopingDROOPILY advDROP v DROPPED or DROPT DROPPING DROPSto fall in drops globulesDROPHEAD n pl DROPHEADSa convertible carDROPKICK n pl DROPKICKSa type of kick in footballDROPLET n pl DROPLETSa tiny dropDROPOUT n pl DROPOUTSone who quits school prematurelyDROPPED a past tense of dropDROPPER n pl DROPPERSa tube for dispensing liquid in dropsDROPPING n pl DROPPINGSsomething that has been droppedDROPSEED n pl DROPSEEDSa type of grassDROPSHOT n pl DROPSHOTSa type of shot in tennisDROPSY n pl DROPSIESan excessive accumulation of serous fluidDROPSIED adjDROPT a past tense of dropDROPTOP n pl DROPTOPSa convertible automobileDROPWORT n pl DROPWORTSa perennial herbDROSERA n pl DROSERASa sundewDROSHKY n pl DROSHKIESan open carriageDROSKY n pl DROSKIESdroshkyDROSS n pl DROSSESwaste matterDROSSY adj DROSSIER DROSSIESTworthlessDROUGHT n pl DROUGHTSa dry periodDROUGHTY adj DROUGHTIER DROUGHTIESTdryDROUK v DROUKED DROUKING DROUKSto drenchDROUTH n pl DROUTHSdroughtDROUTHY adj DROUTHIER DROUTHIESTdroughtyDROVE v DROVED DROVING DROVESto drive cattle or sheepDROVER n pl DROVERSa driver of cattle or sheepDROVING n pl DROVINGSthe work of a droverDROWN v DROWNED DROWNING DROWNSto suffocate in waterDROWND v DROWNDED DROWNDING DROWNDSto drownDROWNER n pl DROWNERSone that drownsDROWSE v DROWSED DROWSING DROWSESto dozeDROWSY adj DROWSIER DROWSIESTsleepyDROWSILY advDRUB v DRUBBED DRUBBING DRUBSto beat severelyDRUBBER n pl DRUBBERSone that drubsDRUBBING n pl DRUBBINGSa severe beatingDRUDGE v DRUDGED DRUDGING DRUDGESto do hard menial or tedious workDRUDGER n pl DRUDGERSone that drudgesDRUDGERY n pl DRUDGERIEShard menial or tedious workDRUG v DRUGGED DRUGGING DRUGSto affect with a drug a medicinal substanceDRUGGET n pl DRUGGETSa coarse woolen fabricDRUGGIE n pl DRUGGIESa drug addictDRUGGIST n pl DRUGGISTSa pharmacistDRUGGY adj DRUGGIER DRUGGIESTaffected by drugsDRUGLESS adj being without drugsDRUID n pl DRUIDSone of an ancient Celtic order of priestsDRUIDIC adjDRUIDESS n pl DRUIDESSESa female druidDRUIDISM n pl DRUIDISMSthe religious system of the druidsDRUM v DRUMMED DRUMMING DRUMSto beat a drum a percussion instrumentDRUMBEAT n pl DRUMBEATSthe sound of a drumDRUMBLE v DRUMBLED DRUMBLING DRUMBLESto move slowlyDRUMFIRE n pl DRUMFIRESheavy continuous gunfireDRUMFISH n pl DRUMFISHESa fish that makes a drumming soundDRUMHEAD n pl DRUMHEADSthe material stretched over the end of a drumDRUMLIKE adj resembling the head of a drumDRUMLIN n pl DRUMLINSa long hill of glacial driftDRUMLY adj DRUMLIER DRUMLIESTdark and gloomyDRUMMED past tense of drumDRUMMER n pl DRUMMERSone that drumsDRUMMING n pl DRUMMINGSthe act of beating a drumDRUMROLL n pl DRUMROLLSa roll played on a drumDRUNK adj DRUNKER DRUNKESTintoxicatedDRUNK n pl DRUNKSa drunken personDRUNKARD n pl DRUNKARDSone who is habitually drunkDRUNKEN adj drunkDRUNKISH adj somewhat drunkDRUPE n pl DRUPESa fleshy fruitDRUPEL n pl DRUPELSdrupeletDRUPELET n pl DRUPELETSa small drupeDRUSE n pl DRUSESa crust of small crystals lining a rock cavityDRUTHER n pl DRUTHERSones preferenceDRY adj DRIER DRIEST or DRYER DRYESThaving no moistureDRY n pl DRYSa prohibitionistDRY v DRIED DRYING DRIESto make dryDRYABLE adjDRYAD n pl DRYADS or DRYADESa nymph of the woodsDRYADIC adjDRYAS n pl DRYASa flowering alpine plantDRYER n pl DRYERSdrierDRYISH adj somewhat dryDRYLAND n pl DRYLANDSan arid regionDRYLOT n pl DRYLOTSan enclosure for livestockDRYLY adv in a dry mannerDRYNESS n pl DRYNESSESthe state of being dryDRYPOINT n pl DRYPOINTSa method of engravingDRYSTONE adj constructed of stone without mortarDRYSUIT n pl DRYSUITSa waterproof rubber suit worn by diversDRYWALL v DRYWALLED DRYWALLING DRYWALLSto cover a wall with plasterboardDRYWELL n pl DRYWELLSa hole for receiving drainage from a roofDUAD n pl DUADSa pairDUAL n pl DUALSa linguistic formDUALISE v DUALISED DUALISING DUALISESto dualizeDUALISM n pl DUALISMSa philosophical theoryDUALIST n pl DUALISTSan adherent of dualismDUALITY n pl DUALITIESthe state of being twofoldDUALIZE v DUALIZED DUALIZING DUALIZESto make twofoldDUALLIE n pl DUALLIESduallyDUALLY n pl DUALLIESa pickup truck with double rear wheelsDUATHLON n pl DUATHLONSa longdistance race involving running and bicyclingDUB v DUBBED DUBBING DUBSto confer knighthood onDUBBER n pl DUBBERSone that dubsDUBBIN v DUBBINED DUBBINING DUBBINSto apply dubbing to leatherDUBBING n pl DUBBINGSmaterial for softening and waterproofing leatherDUBIETY n pl DUBIETIESthe state of being dubiousDUBIOUS adj doubtfulDUBNIUM n pl DUBNIUMSa radioactive elementDUBONNET n pl DUBONNETSa red colorDUBSTEP n pl DUBSTEPSa type of electronic dance musicDUCAL adj pertaining to a duke a highranking noblemanDUCALLY advDUCAT n pl DUCATSany of several gold coins formerly used in EuropeDUCE n pl DUCES or DUCIa leaderDUCHESS n pl DUCHESSESthe wife or widow of a dukeDUCHY n pl DUCHIESthe domain of a dukeDUCI a pl of duceDUCK v DUCKED DUCKING DUCKSto lower quicklyDUCKBILL n pl DUCKBILLSa platypusDUCKER n pl DUCKERSone that ducksDUCKIE adj duckyDUCKIER comparative of duckyDUCKIES pl of duckyDUCKIEST superlative of duckyDUCKISH n pl DUCKISHESduskDUCKLING n pl DUCKLINGSa young duckDUCKPIN n pl DUCKPINSa type of bowling pinDUCKTAIL n pl DUCKTAILSa style of haircutDUCKWALK v DUCKWALKED DUCKWALKING DUCKWALKSto walk in a squatting positionDUCKWEED n pl DUCKWEEDSan aquatic plantDUCKY adj DUCKIER DUCKIESTexcellentDUCKY n pl DUCKIESa darlingDUCT v DUCTED DUCTING DUCTSto convey through a duct a tubular passageDUCTAL adj made up of ductsDUCTILE adj easily molded or shapedDUCTING n pl DUCTINGSa system of ductsDUCTLESS adj being without a ductDUCTULE n pl DUCTULESa small ductDUCTWORK n pl DUCTWORKSa system of ductsDUD n pl DUDSa bomb that fails to explodeDUDDIE adj raggedDUDDY adj duddieDUDE v DUDED DUDING DUDESto dress up in flashy clothesDUDEEN n pl DUDEENSa short tobacco pipeDUDENESS n pl DUDENESSESthe state of being a dude a dandyDUDETTE n pl DUDETTESa dudish femaleDUDGEON n pl DUDGEONSa feeling of resentmentDUDING present participle of dudeDUDISH adj resembling a dude a dandyDUDISHLY adv in the manner of a dudeDUE n pl DUESsomething that is owedDUECENTO n pl DUECENTOSthe thirteenth centuryDUEL v DUELED DUELING DUELS or DUELLED DUELLING DUELSto fight formallyDUELER n pl DUELERSone that duelsDUELING n pl DUELINGSa contest between two persons with deadly weaponsDUELIST n pl DUELISTSa duelerDUELLER n pl DUELLERSduelerDUELLI a pl of duelloDUELLING n pl DUELLINGSduelingDUELLIST n pl DUELLISTSduelistDUELLO n pl DUELLOS or DUELLIthe art of dueling a duelDUENDE n pl DUENDEScharismaDUENESS n pl DUENESSESthe state of being owedDUENNA n pl DUENNASa governessDUET v DUETED DUETING DUETS or DUETTED DUETTING DUETSto perform a duet a musical composition for twoDUETTIST n pl DUETTISTSa participant in a duetDUFF v DUFFED DUFFING DUFFSto mishit a ball in golfDUFF adj DUFFER DUFFESTworthless uselessDUFFEL n pl DUFFELSa coarse woolen fabricDUFFER n pl DUFFERSa clumsy personDUFFLE n pl DUFFLESduffelDUFUS n pl DUFUSESdoofusDUG n pl DUGSthe teat or udder of a female mammalDUGONG n pl DUGONGSan aquatic mammalDUGOUT n pl DUGOUTSa canoe made by hollowing out a logDUH interj  used to indicate that something just stated is too obviousDUI a pl of duoDUIKER n pl DUIKERSa small antelopeDUIT n pl DUITSdoitDUKE v DUKED DUKING DUKESto fightDUKEDOM n pl DUKEDOMSa duchyDULCE n pl DULCESa sweet food or drinkDULCET n pl DULCETSa softtoned organ stopDULCETLY adv melodiouslyDULCIAN n pl DULCIANSan early type of bassoonDULCIANA n pl DULCIANASa softtoned organ stopDULCIFY v DULCIFIED DULCIFYING DULCIFIESto sweetenDULCIMER n pl DULCIMERSa stringed instrumentDULCINEA n pl DULCINEASa sweetheartDULIA n pl DULIASveneration of saintsDULL adj DULLER DULLESTmentally slowDULL v DULLED DULLING DULLSto make less sharpDULLARD n pl DULLARDSa doltDULLISH adj somewhat dullDULLNESS n pl DULLNESSESthe state of being dullDULLY adv in a dull mannerDULNESS n pl DULNESSESdullnessDULSE n pl DULSESan edible seaweedDULY adv rightfullyDUM adj cooked with steamDUMA n pl DUMASa Russian councilDUMB adj DUMBER DUMBESTincapable of speechDUMB v DUMBED DUMBING DUMBSto make silentDUMBBELL n pl DUMBBELLSa weight lifted for muscular exerciseDUMBCANE n pl DUMBCANESa tropical plantDUMBHEAD n pl DUMBHEADSa stupid personDUMBLY adv in a dumb mannerDUMBNESS n pl DUMBNESSESthe state of being dumbDUMBO n pl DUMBOSa stupid personDUMBSHOW n pl DUMBSHOWSa presentation in which communication is solely by signs and gesturesDUMBSIZE v DUMBSIZED DUMBSIZING DUMBSIZESto reduce the workforce so low that work cannot be done effectivelyDUMDUM n pl DUMDUMSa type of bulletDUMFOUND v DUMFOUNDED DUMFOUNDING DUMFOUNDSto astonishDUMKA n pl DUMKAS or DUMKYa Slavic folk balladDUMMKOPF n pl DUMMKOPFSa doltDUMMY v DUMMIED DUMMYING DUMMIESto make a representation ofDUMP v DUMPED DUMPING DUMPSto let fall heavilyDUMPCART n pl DUMPCARTSa type of cartDUMPER n pl DUMPERSone that dumpsDUMPIER comparative of dumpyDUMPIEST superlative of dumpyDUMPILY adv in a dumpy mannerDUMPING n pl DUMPINGSthe selling of large quantities of goods at below the market priceDUMPISH adj sadDUMPLING n pl DUMPLINGSa ball of dough cooked with stew or soupDUMPSITE n pl DUMPSITESa place for dumping rubbishDUMPY adj DUMPIER DUMPIESTshort and thickDUN adj DUNNER DUNNESTof a dull brown colorDUN v DUNNED DUNNING DUNSto make demands upon for payment of a debtDUNAM n pl DUNAMSa unit of land measure in IsraelDUNCE n pl DUNCESa stupid personDUNCICAL DUNCISH adjDUNCH n pl DUNCHESa pushDUNE n pl DUNESa hill of sandDUNELIKE adjDUNELAND n pl DUNELANDSan area having many dunesDUNG v DUNGED DUNGING DUNGSto fertilize with manureDUNGAREE n pl DUNGAREESa coarse cotton fabricDUNGEON v DUNGEONED DUNGEONING DUNGEONSto confine in a dungeon an underground prisonDUNGHEAP n pl DUNGHEAPSa dunghillDUNGHILL n pl DUNGHILLSa heap of manureDUNGY adj DUNGIER DUNGIESTfilthyDUNITE n pl DUNITESan igneous rockDUNITIC adjDUNK v DUNKED DUNKING DUNKSto dip into liquidDUNKER n pl DUNKERSone that dunksDUNKING n pl DUNKINGSthe act of dipping something into liquidDUNLIN n pl DUNLINSa wading birdDUNNAGE n pl DUNNAGESpacking material used to protect cargoDUNNED past tense of dunDUNNER comparative of dunDUNNESS n pl DUNNESSESthe state of being dunDUNNEST superlative of dunDUNNING present participle of dunDUNNITE n pl DUNNITESan explosiveDUNT v DUNTED DUNTING DUNTSto strike with a heavy blowDUO n pl DUOS or DUIan instrumental duetDUODENUM n pl DUODENUMS or DUODENAthe first portion of the small intestineDUODENAL adjDUOLOG n pl DUOLOGSduologueDUOLOGUE n pl DUOLOGUESa conversation between two personsDUOMO n pl DUOMOS or DUOMIa cathedralDUOPOLY n pl DUOPOLIESthe market condition existing when there are two sellers onlyDUOPSONY n pl DUOPSONIESthe market condition existing when there are two buyers onlyDUOTONE n pl DUOTONESan illustration in two tonesDUP v DUPPED DUPPING DUPSto openDUPATTA n pl DUPATTAS a scarf or headdress worn by some Muslim womenDUPE v DUPED DUPING DUPESto deceiveDUPABLE adjDUPER n pl DUPERSone that dupesDUPERY n pl DUPERIESthe act of dupingDUPING n pl DUPINGSthe act of duplicating somethingDUPION n pl DUPIONSa type of silk fabricDUPLE adj having two parts or elementsDUPLET n pl DUPLETSa set of two of one kindDUPLEX v DUPLEXED DUPLEXING DUPLEXESto make dupleDUPLEXER n pl DUPLEXERSan electronic switching deviceDUPPED past tense of dupDUPPING present participle of dupDURA n pl DURASdurraDURABLE adj able to withstand wear or decayDURABLY advDURABLES npl durable goodsDURAL adj of the dura mater a brain membraneDURAMEN n pl DURAMENSthe central wood of a treeDURANCE n pl DURANCESrestraint by or as if by physical forceDURATION n pl DURATIONScontinuance in timeDURATIVE n pl DURATIVESa type of verbDURBAR n pl DURBARSthe court of a native ruler in IndiaDURE v DURED DURING DURESto endureDURESS n pl DURESSEScompulsion by threatDURIAN n pl DURIANSan East Indian treeDURION n pl DURIONSdurianDURMAST n pl DURMASTSa European oakDURN v DURNED DURNING DURNSto damnDURNED adj DURNEDER DURNEDEST or DURNDESTdamnedDURO n pl DUROSa Spanish silver dollarDUROC n pl DUROCSa large red hogDURR n pl DURRSdurraDURRA n pl DURRASa cereal grainDURRIE n pl DURRIESdhurrieDURST a past tense of dareDURUM n pl DURUMSa kind of wheatDUSK v DUSKED DUSKING DUSKSto become darkDUSKISH adj duskyDUSKY adj DUSKIER DUSKIESTsomewhat darkDUSKILY advDUST v DUSTED DUSTING DUSTSto make free of dust minute particles of matterDUSTBALL n pl DUSTBALLSa ball of dustDUSTBIN n pl DUSTBINSa trash canDUSTCART n pl DUSTCARTSa garbage truckDUSTER n pl DUSTERSone that dustsDUSTHEAP n pl DUSTHEAPSa pile of trashDUSTIER comparative of dustyDUSTIEST superlative of dustyDUSTILY adv in a dusty mannerDUSTING n pl DUSTINGSa light sprinklingDUSTLESS adj being without dustDUSTLIKE adj resembling dustDUSTMAN n pl DUSTMENa trashmanDUSTOFF n pl DUSTOFFSa military helicopter for evacuating the woundedDUSTPAN n pl DUSTPANSa pan for holding swept dustDUSTRAG n pl DUSTRAGSa rag used for dustingDUSTUP n pl DUSTUPSan argumentDUSTY adj DUSTIER DUSTIESTfull of dustDUTCH adv with each person paying for himselfDUTCHMAN n pl DUTCHMENsomething used to hide structural defectsDUTEOUS adj dutifulDUTIABLE adj subject to import taxDUTIFUL adj obedientDUTY n pl DUTIESa moral or legal obligationDUUMVIR n pl DUUMVIRS or DUUMVIRIa magistrate of ancient RomeDUVET n pl DUVETSa downfilled bed coveringDUVETINE n pl DUVETINESduvetynDUVETYN n pl DUVETYNSa soft fabricDUVETYNE n pl DUVETYNESduvetynDUXELLES n pl DUXELLESa garnish or sauce with minced mushroomsDUYKER n pl DUYKERSduikerDWALE n pl DWALESa poisonous plant with purple flowersDWARF adj DWARFER DWARFESTextremely smallDWARF n pl DWARFS or DWARVESan extremely small personDWARF v DWARFED DWARFING DWARFSto cause to appear smallDWARFISH adj resembling a dwarfDWARFISM n pl DWARFISMSa condition of stunted growthDWARVES a pl of dwarfDWEEB n pl DWEEBSan unattractive or inept personDWEEBISH adjDWEEBY adj DWEEBIER DWEEBIESTsocially ineptDWELL v DWELT or DWELLED DWELLING DWELLSto resideDWELLER n pl DWELLERSone that dwellsDWELLING n pl DWELLINGSa place of residenceDWINDLE v DWINDLED DWINDLING DWINDLESto decrease steadilyDWINE v DWINED DWINING DWINESto pine or waste awayDYABLE adj dyeableDYAD n pl DYADSa pair of unitsDYADIC n pl DYADICSa sum of mathematical dyadsDYARCHY n pl DYARCHIESdiarchyDYARCHAL DYARCHIC adjDYBBUK n pl DYBBUKS or DYBBUKIMa wandering soul in Jewish folkloreDYE v DYED DYEING DYESto treat with a dye a coloring matterDYEABLE adj capable of being dyedDYEING n pl DYEINGSsomething colored with a dyeDYER n pl DYERSone that dyesDYESTUFF n pl DYESTUFFSa dyeDYEWEED n pl DYEWEEDSa shrub that yields a yellow dyeDYEWOOD n pl DYEWOODSa wood from which a dye is extractedDYING n pl DYINGSa passing out of existenceDYKE v DYKED DYKING DYKESto dikeDYNAMIC n pl DYNAMICSa physical forceDYNAMISM n pl DYNAMISMSa theory that explains the universe in terms of force or energyDYNAMIST n pl DYNAMISTSan adherent of dynamismDYNAMITE v DYNAMITED DYNAMITING DYNAMITESto blow up with a powerful explosiveDYNAMO n pl DYNAMOSa generatorDYNAST n pl DYNASTSa rulerDYNASTY n pl DYNASTIESa succession of rulers from the same line of descentDYNASTIC adjDYNATRON n pl DYNATRONSa type of electron tubeDYNE n pl DYNESa unit of forceDYNEIN n pl DYNEINSan enzyme involved in cell movementDYNEL n pl DYNELSa synthetic fiberDYNODE n pl DYNODESa type of electrodeDYSGENIC adj causing the deterioration of hereditary qualitiesDYSLALIA n pl DYSLALIASthe inability to articulate speechDYSLEXIA n pl DYSLEXIASimpairment of the ability to readDYSLEXIC n pl DYSLEXICSone who is affected with dyslexiaDYSPEPSY n pl DYSPEPSIESindigestionDYSPNEA n pl DYSPNEASlabored breathingDYSPNEAL DYSPNEIC adjDYSPNOEA n pl DYSPNOEASdyspneaDYSPNOIC adjDYSTAXIA n pl DYSTAXIASa form of muscular tremorDYSTOCIA n pl DYSTOCIASdifficult labor and delivery in childbirthDYSTONIA n pl DYSTONIASa condition of disordered tonicity of muscle tissueDYSTONIC adjDYSTOPIA n pl DYSTOPIASa wretched placeDYSURIA n pl DYSURIASpainful urinationDYSURIC adjDYVOUR n pl DYVOURSone who is bankrupt").
+```
+এন্ট্রি(প্রতিটি, বিশেষণ, [], "দুটি বা ততোধিক পৃথক ব্যক্তির মধ্যে একজন হওয়া").
+এন্ট্রি(উত্সাহী, বিশেষণ, [], "উত্সাহের বেশি উত্সাহের সবচেয়ে বেশিআকুলভাবে অপেক্ষামানউত্সাহের সাথে ক্রি.বিশে.").
+এন্ট্রি(ইগলেট, ন, [ইগলেটস], "একটি তরূণ ঈগল")।
+এন্ট্রি(ইগর, ন, [ইগরস], "একটি জোয়ার প্লাবন")।
+entry(eanling, n, [eanlings], "এয়ানলিং").
+এন্ট্রি(ear, v, [eared,earing,ears], "একটি শস্যের ফলের মাথা গঠন করা")।
+এন্ট্রি(কানের_ব্যথা, এন, [কানের_ব্যথাগুলির], "শ্রবণের অঙ্গ কানে ব্যথা")।
+এন্ট্রি(ইয়ারবাড, এন, [ইয়ারবাডস], "একটি ছোট ইয়ারফোন")।
+এন্ট্রি(ইয়ারড্রপ, ন, [ইয়ারড্রপস], "একটি কানের দুল")।
+এন্ট্রি(ইয়ারড্রাম, ন, [ইয়ারড্রামস], "দ Tympanic মেমব্রেন")।
+এন্ট্রি(কর্ণযুক্ত, বিশেষণ, [], "কর্ণবিশিষ্ট").
+এন্ট্রি(earflap, n, [earflaps], "কানের ঢাকনা দেওয়ার জন্য তৈরি টুপির একটি অংশ")।
+এন্ট্রি(earful, n, [earfuls], "তথ্যের প্রবাহ").
+entry(earhole, n, [earholes], "কানের বাইরের খোলক").
+প্রবেশ(কর্ণফুল, বিশেষ্য, [কর্ণফুলগুলি], "একটি জাহাজের একটি লাইন")।
+entry(earl, n, [earls], "একজন ব্রিটিশ সম্ভ্রান্ত ব্যক্তি").
+entry(earlap, n, [earlaps], "কানের ঢাকনা/আবরণ").
+এন্ট্রি(earldom, n, [earldoms], "একজন আর্লের পদমর্যাদা")।
+এন্ট্রি(earless, বিশেষণ, [], "কানহীন").
+এন্ট্রি(আগে, তুলনামূলক, [], "শুরুর").
+entry(earliest, superlative, [], "এর্লি এর").
+এন্ট্রি(কর্ণলতি, ন, [কর্ণলতিসমূহ], "কানের একটি অংশ")।
+entry(earlock, n, [earlocks], "কানের পাশের কোঁকড়ানো চুল").
+এন্ট্রি(earlship, n, [earlships], "earldom").
+এন্ট্রি(প্রথম, ক্রিয়াবিশেষণ, [], "প্রথমের কাছাকাছি একটি সময়ের শুরুতে বা ঘটনাবলীর ক্রমের মধ্যে প্রথম অবস্থানে").
+এন্ট্রি(earmark, v, [earmarked,earmarking,earmarks], "একটি নির্দিষ্ট ব্যবহারের জন্য মনোনীত করা")।
+এন্ট্রি(ইয়ারমাফ, ন, [ইয়ারমাফস], "কানের আবরণের একটি জোড়া")।
+এন্ট্রি(আয়, ক্রিয়া, [আয় করেছে, আয় করে, আয় করে], "কারও শ্রম বা সেবার জন্য প্রাপ্ত বা যোগ্য হওয়া")।
+এন্ট্রি(আর্জনকারী, ন, [আর্জনকারীরা], "যে উপার্জন করে")।
+এন্ট্রি(earnest, n, [earnests], "প্রাথমিক অর্থপ্রদান").
+আন্তর্ভুক্তি(উপার্জন, এনপিএল, [], "কিছু অর্জিত")।
+entry(earphone, n, [earphones], "কানে পরিধান করার একটি শ্রবণ ডিভাইস").
+এন্ট্রি(earpiece, n, [earpieces], "একটি কানে লাগানো ফোন")।
+এন্ট্রি(earplug, n, [earplugs], "কানে ব্যবহারের জন্য একটি প্লাগ")।
+এন্ট্রি(earring, n, [earrings], "কানে পরার গহনা")।
+এন্ট্রি(earshot, n, [earshots], "শ্রবণযোগ্য পরিসীমা যার মধ্যে শব্দ শোনা যায়")।
+এন্ট্রি(earstone, n, [earstones], "একটি otolith")।
+entry(earth, v, [earthed,earthing,earths], "মাটি দিয়ে ঢেকে দেওয়া").
+entry(মাটির, বিশেষণ, [], "মাটি দিয়ে তৈরি")।
+এন্ট্রি(earthier, তুলনামূলক, [], "of earthy").
+এন্ট্রি(earthiest, superlative, [], "of earthy").
+entry(earthily, adv, [], "মাটির মতো আচরণে").
+entry(earthly, adj, [], "EARTHLIER EARTHLIESTworldly").
+entry(earthman, n, [earthmen], "পৃথিবী গ্রহের একজন মানুষ").
+এন্ট্রি(earthnut, n, [earthnuts], "একটি ইউরোপীয় ভেষজ").
+এন্ট্রি(earthpea, n, [earthpeas], "একটি লতানো উদ্ভিদ")।
+entry(earthset, n, [earthsets], "পৃথিবীর অস্তমিত হওয়া যেভাবে চাঁদ থেকে দেখা যায়").
+এন্ট্রি(earthy, adj, [], "EARTHIER EARTHIESTমাটি দ্বারা গঠিত মাটির মতো বা সূচকমূলক").
+entry(earwax, n, [earwaxes], "সেরুমেন").
+এন্ট্রি(earwig, v, [earwigged,earwigging,earwigs], "গোপনে বিরোধিতা করতে প্ররোচিত করা")।
+এন্ট্রি(ইয়ারওয়ার্ম, ন, [ইয়ারওয়ার্মস], "একটি বলওয়ার্ম")।
+এন্ট্রি(ইজ, ক্রিয়া, [ইজড,ইজিং,ইজেস], "বিশ্রাম বা উপশম দেওয়া").
+এন্ট্রি(এসফুল, বিশেষণ, [], "বিরামপ্রদ")।
+এন্ট্রি(ইজেল, এন, [ইজেলস্], "একটি তিন পায়ের ফ্রেমEASELED বিশেষণ")।
+প্রবেশ(ঋজুতা, বিশেষ্য, [ঋজুতাগুলি], "ত্রাণ‌").
+এন্ট্রি(ইজার, ভি, [ইজারস], "যে সহজ করে")।
+এন্ট্রি(সহজতর, তুলনামূলক, [], "সহজ এর").
+এন্ট্রি(ইজিজ, বহুবচন, [], "সহজের").
+entry(সবচেয়ে সহজ, অতিমাত্রায়, [], "সহজ এর").
+এন্ট্রি(সহজেই, ক্রিয়া বিশেষণ, [], "কোনো অসুবিধা ছাড়াই")।
+এন্ট্রি(সহজতা, ন, [সহজতাগুলি], "সহজ হওয়ার অবস্থা")।
+entry(ইজিং, বর্তমান, [], "শব্দের রূপ ইজ এর").
+এন্ট্রি(পূর্ব, ন, [পূর্বগুলি], "কম্পাসের একটি প্রধান দিক নির্দেশক বিন্দু")।
+এন্ট্রি(ইস্টার, ন, [ইস্টার্স], "পূর্ব দিক থেকে আসা একটি ঝড় বা বাতাস")।
+এন্ট্রি(ইস্টারলি, এন, [ইস্টারলিজ], "পূর্ব দিক থেকে আসা একটি বাতাস")।
+এন্ট্রি(পূর্ব, বিশেষণ, [], "পূর্বদিকের বা পূর্বে বা পূর্বমুখী").
+entry(easting, n, [পূর্বাভিমুখে চলা], "পূর্ব দিকে একটি চলন")।
+এন্ট্রি(পূর্ব দিকে, n, [পূর্বদিকে], "পূর্বের দিকে একটি দিক")।
+entry(easy, adj, [], "সহজতর সবচেয়ে_সহজকাঠিন্যহীন").
+entry(সহজ, n, [সহজতমগুলি], "অক্ষর E এর জন্য একটি যোগাযোগ কোড শব্দ").
+entry(eat, v, [et,eaten,eating], "EATSto consume food").
+এন্ট্রি(ভোজ্য, ন, [ভোজ্যপদার্থ], "একটি ভক্ষণযোগ্য")।
+entry(eater, n, [eaters], "যে খায়").
+এন্ট্রি(রেস্তোরাঁ, নাম, [রেস্তোরাঁগুলি], "একটি খাবার ঘর")।
+এন্ট্রি(ইথ, বিশেষণ, [], "সহজ").
+এন্ট্রি(খাওয়া, ন, [খাওয়াসমূহ], "খাদ্য গ্রহণের কাজ")।
+entry(eau, n, [eaux], "জল একটি স্বচ্ছ রঙহীন গন্ধহীন তরল").
+এন্ট্রি(ইভ, ন, [ইভস], "ছাদের নীচের বাহিরের প্রান্তEAVED বিশেষণ")।
+এন্ট্রি(ebb, v, [ebbed,ebbing,ebbs], "প্রত্যাহার করা").
+entry(ebbet, n, [ebbets], "একটি সাধারণ সবুজ নিউট")।
+entry(এবন, n, [এবনস], "এবনি").
+এন্ট্রি(ইবোনিক্স, নপ্ল, [], "কিছু আফ্রিকান-আমেরিকানদের দ্বারা কথিত ইংরেজির একটি উপভাষা")।
+entry(ebonies, pl, [], "এবনি দ্বারা").
+প্রবেশ(এবোনাইজ, ক্রিয়া, [এবোনাইজড,এবোনাইজিং,এবোনাইজস], "কৃষ্ণবর্ণ করা").
+এন্ট্রি(ইবোনাইট, ন, [ইবোনাইটস], "একটি শক্ত রবার")।
+এন্ট্রি(এবোনাইজ, ক্রিয়া, [এবোনাইজড, এবোনাইজিং, এবোনাইজেস], "আশকাঠের অনুকরণে কালো দাগ দিতে").
+এন্ট্রি(ইবনি, ন, [ইবনিস], "একটি শক্ত ভারী কাঠ").
+এন্ট্রি(ইবুক, ন, [ইবুকগুলি], "ইলেকট্রনিক ফর্মেটে বই পড়ার একটি ডিভাইস")।
+এন্ট্রি(একার্ট, ন, [একার্টস], "একটি কার্ড খেলা")।
+এন্ট্রি(ecaudate, বিশেষণ, [], "লেজ নেই এমন").
+এন্ট্রি(একম্বোলিক, ন, [একম্বোলিক্স], "এক ধরনের ওষুধ")।
+এন্ট্রি(এক্লেসিয়া, ন, [এক্লেসিয়াই], "প্রাচীন গ্রীসে একটি সমাবেশ").
+প্রবেশ(এক্রাইন, বিশেষণ, [], "বহির্গত ভাবে নিঃসরণ উৎপাদনকারী")।
+এন্ট্রি(ecdysis, n, [ecdyses], "বহিঃস্তরের ত্বকের ঝরে পড়াশেডিংECDYSIAL adj")।
+entry(ecdyson, n, [ecdysons], "একমাত্রিক").
+এন্ট্রি(ইকডাইসন, ন, [ইকডাইসনস], "একটি কীট হরমোন")।
+entry(ecesis, n, [ecesises], "নতুন পরিবেশে একটি উদ্ভিদ বা প্রাণীর প্রতিষ্ঠাECESIC বিশেষণ").
+entry(echappe, adj, [], "ব্যালেতে পায়ের একটি বন্ধ অবস্থা থেকে একটি খোলা অবস্থানে যাওয়া").
+এন্ট্রি(ইচার্ড, ন, [ইচার্ডস], "মাটির সেই পানি যা উদ্ভিদের জন্য পাওয়া যায় না")।
+এন্ট্রি(এচে, v, [এচেড,এচিং,এচেস], "বাড়ানো").
+এন্ট্রি(ইশল, প, [ইশলস], "একটি যন্ত্র যা আলোকে তার উপাদান রঙে বিভক্ত করতে ব্যবহৃত হয়")।
+এন্ট্রি(এশেলন, v, [এশেলনড, এশেলনিং, এশেলনস], "একটি নির্দিষ্ট বিন্যাসে গোষ্ঠীভুক্ত করা").
+এন্ট্রি(ইচিডনা, ন, [ইচিডনাস], "অথবা ECHIDNAEa স্পিনি পিঁপড়ে খেকো").
+entry(echinate, adj, [], "কাঁটা যুক্ত").
+এন্ট্রি(ইচিং, বর্তমান, [], "ইচের ক্রিয়াপদ").
+এন্ট্রি(ইকিনয়েড, বিশেষ্য, [ইকিনয়েডস], "একটি কাঁটা সমুদ্র প্রাণী")।
+এন্ট্রি(ইকাইনাস, এন, [ইকিনি], "একটি ইকিনোইড")।
+এন্ট্রি(ইকো, ন, [ইকোস], "অথবা ইকোরা, শব্দ তরঙ্গের প্রতিফলনের মাধ্যমে শব্দের পুনরাবৃত্তি").
+এন্ট্রি(ইকো, v, [ইকোড,ইকোইং,ইকোস], "প্রতিধ্বনি তৈরি করা")।
+এন্ট্রি(ইকোয়ার, ন, [ইকোয়ারস], "এক যে প্রতিধ্বনি করে")।
+প্রবেশ(ইকোয়ি, বিশেষণ, [], "প্রতিধ্বনিতে পূর্ণ")।
+এন্ট্রি(ইকোগ্রাম, ন, [ইকোগ্রামস], "একটি যন্ত্র দ্বারা উৎপাদিত রেকর্ড যা অতি-শাব্দীয় তরঙ্গ ব্যবহার করে")।
+এন্ট্রি(ইকোইক, বিশেষণ, [], "স্বরধ্বনির মতো").
+এন্ট্রি(ইকোইজম, ন, [ইকোইজমস], "শব্দের অনুকরণে শব্দ গঠনের প্রক্রিয়া")।
+entry(echoless, বিশেষণ, [], "কোনও প্রতিধ্বনি উৎপন্ন করে না")।
+entry(echt, adj, [], "বিশ্বাসযোগ্য").
+এন্ট্রি(একলেয়ার, ন, [একলেয়ার্স], "এক ধরণের পেস্ট্রি")।
+এন্ট্রি(ইক্ল্যাট, এন, [ইক্লাটস], "দ্যুতি").
+প্রবেশ(বিচিত্র, ন, [বিচিত্রগুলি], "যে তার বিশ্বাস বিভিন্ন উৎস থেকে গ্রহণ করে")।
+এন্ট্রি(গহ্বরগ্রহণ, v, [গহ্বরগ্রহণকৃত,গহ্বরগ্রহণকারী,গহ্বরগ্রহণগুলি], "অস্পষ্ট করা").
+এন্ট্রি(ইক্লিপসার, ন, [ইক্লিপসরস], "একটি যা গ্রহণ করে")।
+অন্তর্ভুক্তি(ইক্লিপ্সিস, n, [ইক্লিপ্সিজ], "অথবা ইক্লিপ্সিস একটি এলিপ্সিস")।
+এন্ট্রি(এক্লিপ্টিক, ন, [এক্লিপ্টিক্স], "একটি জ্যোতির্বিজ্ঞানীয় সমতল")।
+এন্ট্রি(ইক্লোজনাইট, ন, [ইক্লোজনাইটসমূহ], "এক ধরণের শিলা")।
+এন্ট্রি(ইক্লগ, ন, [ইক্লগস], "একটি পাস্টোরাল কবিতা")।
+প্রবেশ(eclose, v, [eclosed,eclosing,ecloses], "একটি ডিম থেকে লার্ভার মতো বের হয়ে আসা")।
+এন্ট্রি(একলোশন, ন, [একলোশনস], "ডিম থেকে এক পতঙ্গ লার্ভার উদ্ভব")।
+এন্ট্রি(ইকো, ন, [ইকোস], "ইকোলজি").
+এনট্রি(ইকোসাইড, এন, [ইকোসাইডস], "প্রাকৃতিক পরিবেশের ধ্বংসECOCIDAL বিশেষণ")।
+প্রবেশ(ইকোফ্রিক, বিশেষ্য, [ইকোফ্রিকস], "একজন উৎসাহী পরিবেশবিদ")।
+এন্ট্রি(ইকোগিফট, বি, [ইকোগিফটস], "পরিবেশগত উদ্দেশ্যে সরকারের জন্য জমির দান")।
+এন্ট্রি(পরিবেশবিদ্যা, ন, [পরিবেশবিদ্যাগুলি], "একটি পরিবেশ বিজ্ঞানECOLOGIC বিশেষণ")।
+এন্ট্রি(ইকোনোবক্স, ন, [ইকোনোবক্সেস], "একটি ছোট সাশ্রয়ী গাড়ি")।
+এন্ট্রি(অর্থনৈতিক, বিশেষণ, [], "আর্থিক বিষয় সংক্রান্ত")।
+entry(অর্থনীতি, n, [অর্থনীতিগুলি], "মিতব্যয়িতা").
+entry(ecorche, n, [ecorches], "পেশিবিন্যাস দেখানোর জন্য ত্বক অপসারণ করা একটি শারীরবৃত্তীয় মডেল").
+সূচিপত্র(ইকো‌টেজ, নম্বর, [ইকো‌টেজগুলি], "প্রাকৃতিক পরিবেশের সুরক্ষায় বাধাদানমূলক ক্রিয়া")।
+entry(ecotone, n, [ecotones], "এক ধরনের পরিবেশগত অঞ্চলECOTONAL বিশেষণ").
+entry(ecotopia, n, [ecotopias], "একটি পরিবেশগতভাবে আদর্শ এলাকা বা সমাজের ধরণ")।
+প্রবেশ(ecotour, n, [ecotours], "প্রাকৃতিক আবাসস্থলের ভ্রমণ")।
+entry(ecotype, n, [ecotypes], "নির্দিষ্ট পরিবেশগত অবস্থা অনুযায়ী অভিযোজিত একটি উপপ্রজাতিECOTYPIC বিশেষণ").
+প্রবেশ(ইকোজ়োন, ন, [ইকোজ়োনগুলি], "একটি আঞ্চলিক প্রতিবেশ ব্যবস্থা")।
+এন্ট্রি(এক্রাসার, পৃ, [এক্রাসারস], "একটি সার্জিকাল যন্ত্র").
+এন্ট্রি(ইক্রু, ন, [ইক্রুস], "হলদে বাদামী রং").
+এন্ট্রি(অমোঘ আনন্দ, এন, [অমোঘ আনন্দসমূহ], "উচ্চ স্তরের উত্তেজনার অবস্থা")।
+এন্ট্রি(আনন্দোচ্ছ্বাসময়, ন, [আনন্দোচ্ছ্বাসময়], "একজন যা আনন্দোচ্ছ্বাসের অধীন হয়")।
+এন্ট্রি(এ্যাকট্যাসিস, ন, [এ্যাকট্যাসেস], "সাধারণত একটি সংক্ষিপ্ত মাত্রার সম্প্রসারণECTATIC বিশেষণ")।
+entry(ecthyma, n, [ecthymata], "একটি ভাইরাসজনিত রোগ").
+entry(ectoderm, n, [ectoderms], "ভ্রূণের বহিঃস্থ স্তর")।
+এন্ট্রি(ইক্টোজিন, ন, [ইক্টোজিনস], "কৃত্রিম অবস্থায় ভ্রূণের বিকাশে জড়িত একটি জিন")।
+এন্ট্রি(ইক্টোমেয়ার, ন, [ইক্টোমেয়ারস], "একটি কোষ যা অ্যাক্টোডার্মে বিকশিত হয়")।
+এন্ট্রি(এক্টোপিয়া, ন, [এক্টোপিয়াস], "অঙ্গপ্রত্যঙ্গ বা অঙ্গগুলির জন্মগত স্থানচ্যুতিECTOPIC বিশেষণ")।
+এন্ট্রি(ectosarc, n, [ectosarcs], "কিছু প্রোটোজোয়ানের প্রোটোপ্লাজমের বাইরের স্তর").
+এন্ট্রি(এক্টোজোয়ান, বিশেষ্য, [এক্টোজোয়ানস], "এক্টোজোয়ান")।
+entry(ectozoon, n, [ectozoa], "একটি প্রাণীর দেহে পরজীবী").
+এন্ট্রি(ectype, n, [ectypes], "a copyECTYPAL adj").
+এন্ট্রি(ইসু, ন, [ইসুস], "একটি পুরানো ফরাসি মুদ্রা")।
+এন্ট্রি(ইকিউমিন, ন, [ইকিউমিনেস], "একটি জনবসতিপূর্ণ এলাকা")।
+এন্ট্রি(ecumenic, adj, [], "বিশ্বজনীন")।
+এন্ট্রি(ইকজিমা, এন, [ইকজিমাস], "একটি ত্বকের রোগ")।
+এন্ট্রি(এড, ন, [এডস], "এডুকেশন")।
+এন্ট্রি(এডেশাস, বিশেষণ, [], "ভোরেশাস")।
+এন্ট্রি(এডাসিটি, ন, [এডাসিটিজ], "পেটুকতা")।
+এন্ট্রি(এডামামে, এন, [এডামামেস], "পোদের মধ্যে সবুজ সয়াবিন").
+এন্ট্রি(এডাফিক, বিশেষণ, [], "মাটির সাথে সম্পর্কিত")।
+এন্ট্রি(এড্ডো, ন, [এড্ডোস], "একটি উষ্ণমন্ডলীয় উদ্ভিদ")।
+এন্ট্রি(এড্ডি, ভি, [এড্ডিড,এড্ডিইং,এড্ডিজ], "প্রধান স্রোতের বিরুদ্ধে চলাচল করা")।
+এন্ট্রি(এডেমা, এন, [এডেমাস], "অথবা EDEMATAসিরাস ফ্লুইডের অতিরিক্ত সঞ্চয়")।
+এন্ট্রি(এডেনিক, বিশেষণ, [], "স্বর্গোদ্যান সম্পর্কিত")।
+এন্ট্রি(এডেন্টেট, এন, [এডেন্টেটস], "একটি দাঁতহীন স্তন্যপায়ী প্রাণী")।
+এন্ট্রি(এজ, ভি, [এজড,এজিং,এজেস], "একটি সীমানা বা বিভাজন রেখা দিয়ে প্রান্ত সরবরাহ করা")।
+এন্ট্রি(এজলেস, বিশেষণ, [], "একটি প্রান্তের অভাব")।
+entry(edger, n, [edgers], "একটি সরঞ্জাম যা লনের প্রান্ত ছাঁটাই করতে ব্যবহৃত হয়")।
+এন্ট্রি(এজওয়েজ, ক্রিয়া বিশেষণ, [], "এজওয়াইস")।
+entry(edgewise, adv, [], "পাশ দিয়ে").
+এন্ট্রি(এজিয়ার, তুলনামূলক, [], "এডজির।").
+এন্ট্রি(এজিয়েস্ট, সুপারলেটিভ, [], "অফ এডজী")।
+এন্ট্রি(এজিলি, ক্রিয়া বিশেষণ, [], "একটি খিটখিটে ভাবে")।
+এন্ট্রি(এজিনেস, ন, [এজিনেসেস], "এজির অবস্থা")।
+এন্ট্রি(এজিং, নি, [এজিংস], "কিছু যা প্রান্ত হিসাবে কাজ করে বা গঠন করে")।
+এন্ট্রি(এজির, বিশেষণ, [], "এজিয়ার এজিয়েস্টউত্তেজিত স্নায়বিক বা অত্যন্ত চঞ্চল").
+entry(edh, n, [edhs], "একটি পুরনো ইংরেজি অক্ষর").
+এন্ট্রি(খাদ্যযোগ্য, সর্বনাম, [খাদ্যগুলি], "যা খাওয়ার উপযুক্ত কিছু").
+এন্ট্রি(এডিক্ট, ন, [এডিক্টস], "আইনের বাধ্যতামূলক ক্ষমতাসম্পন্ন একটি আদেশনামা এডিক্টাল বিশেষণ")।
+এন্ট্রি(ভবন, এন, [ভবনসমূহ], "একটি স্থাপনা")।
+এন্ট্রি(এডিফায়ার, ন, [এডিফায়ার্স], "যে অনুপ্রাণিত করে")।
+entry(শিক্ষা, v, [শিক্ষিত,শিক্ষদান,শিক্ষাদান], "আলোকিত করা").
+প্রবেশ(এডাইল, ন, [এডাইলস], "এডেল")।
+প্রবেশ(সম্পাদনা, ক্রিয়া, [সম্পাদিত,সম্পাদনা,সম্পাদনাসমূহ], "সংশোধন ও প্রকাশনার জন্য প্রস্তুত করাEDITABLE বিশেষণ")।
+এন্ট্রি(সংস্করণ, এন, [সংস্করণসমূহ], "মুদ্রিত উপকরণের একটি বিশেষ সিরিজ")।
+এন্ট্রি(সম্পাদক, ন, [সম্পাদকরা], "যে সম্পাদনা করে")।
+এন্ট্রি(এডিট্রেস, ন, [এডিট্রেসেস], "একজন নারী সম্পাদক")।
+entry(editrix, n, [editrixes], "অথবা EDITRICES একজন মহিলা সম্পাদক")।
+এন্ট্রি(এডুকেবল, নাম, [এডুকেবলস], "একজন মৃদুভাবে মানসিক প্রতিবন্ধী ব্যক্তি")।
+এন্ট্রি(শিক্ষা, ক্রিয়াপদ, [শিক্ষিত,শিক্ষাদান,শিক্ষাদায়ক], "শিক্ষাদান করা")।
+এন্ট্রি(শিক্ষক, ন, [শিক্ষকগণ], "যে শিক্ষা দেয়").
+এন্ট্রি(এডিউস, ভি, [এডিউসড, এডিউসিং, এডিউসেস], "একটি জিনিসকে টেনে বা বের করে আনাEDUCIBLE বিশেষণ").
+এন্ট্রি(এডাক্ট, ন, [এডাক্টস], "কিছু বের করা হয়েছে")।
+entry(eduction, n, [eductions], "সৃষ্টির কাজEDUCTIVE বৈশিষ্ট্যসূচক").
+এন্ট্রি(এডুক্টর, এন, [এডুক্টরস], "যে উদ্ঘাটন করে")।
+এন্ট্রি(eeew, interj, [], "বিমুখতা প্রকাশে ব্যবহৃত হয়")।
+entry(eejit, n, [eejits], "একজন বোকা").
+এণ্ট্রি(ইক, অব্যয়, [], "হঠাৎ ভয় প্রকাশ করার জন্য ব্যবহৃত হয়")।
+এন্ট্রি(ইল, ন, [ইলস], "একটি সাপের মতো মাছ")।
+এন্ট্রি(ইলগ্রাস, ন, [ইলগ্রাসেস], "একটি জলজ উদ্ভিদ")।
+প্রবেশ(ইলিয়ার, তুলনামূলক, [], "এলির").
+entry(eeliest, শীর্ষকরণের_ধরণ, [], "of eely").
+এন্ট্রি(ইলজাতীয়, বিশেষণ, [], "একটি ইল-এর অনুরূপ")।
+এন্ট্রি(ইলপউট, এন, [ইলপউটস], "একটি সামুদ্রিক মাছ")।
+এন্ট্রি(ইলওয়ার্ম, ন, [ইলওয়ার্মস], "একটি ছোট গোলকৃমি")।
+entry(eely, adj, [], "ঈল সদৃশ আরও ঈল সদৃশ সবচেয়ে ঈল সদৃশ")।
+এন্ট্রি(আইনসি, বিশেষণ, [], "EENSIER EENSIESTtiny")।
+প্রমোদ(অশরীরী, বিশেষণ, [], "অশরীরীতম অশরীরী অদ্ভুত অশরীরীতরভাবে ক্রিয়া বিশেষণ").
+এন্ট্রি(ভীতিকরতা, বিশেষণ, [ভীতিকরতাগুলি], "ভীতিকর অবস্থায় থাকা").
+entry(eery, adj, [], "EERIER EERIESTeerie").
+entry(eew, interj, [], "eeew").
+entry(ef, n, [efs], "অক্ষর F")।
+এন্ট্রি(ইএফএফ, এন, [ইএফএস], "ইএফ")।
+entry(effable, adj, [], "উল্লেখ বা প্রকাশের যোগ্য").
+entry(মুছে_ফেলা, ক্রিয়া, [মুছে_ফেলা_হয়েছে, মুছে_ফেলছে, মুছে_ফেলছে], "মুছে বা মোছা").
+entry(effacer, n, [effacers], "যা মুছে ফেলে").
+effect(v, প্রতিশব্দ, [প্রভাবিত, প্রভাবকৃত, প্রভাবসমূহ], "প্রভাবে আনয়ন").
+এন্ট্রি(ইফেক্টর, ন, [ইফেক্টর্স], "ইফেক্টর")।
+এন্ট্রি(এফেক্টর, ন, [এফেক্টরস], "একটি শারীরিক অঙ্গ যা স্নায়ু উদ্দীপনার প্রতি সাড়া দেয়")।
+এন্ট্রি(এফেন্দি, ন, [এফেন্দিস], "সম্মানের একটি তুর্কি উপাধি")।
+এন্ট্রি(এফারেন্ট, ন, [এফারেন্টস], "একটি অঙ্গ বা অংশ যা স্নায়বিক তাড়না একটি প্রভাবকের কাছে স্থানান্তর করে")।
+এন্ট্রি(এফিত, ক্রিঅবিশেষণ, [], "শক্তি বা উদ্যমহীনEFFETELY ক্রিয়াবিশেষণেরূপে").
+প্রবেশ(কার্যকারিতা, বিশেষ্য, [কার্যকারিতাসমূহ], "প্রভাবকারিতা")।
+প্রবেশ(প্রতিকৃতিমুলক, বিশেষণ, [], "একটি প্রতিকৃতির সদৃশ")।
+এন্ট্রি(প্রতিমা, ন, [প্রতিমাসমূহ], "একটি প্রতিলিপি বা প্রতিরূপ")।
+এন্ট্রি(effluent, n, [effluents], "একটি বহিঃপ্রবাহ")।
+এন্ট্রি(এফ্লুভিয়া, বহুবচন, [], "বর্জ্য আকারে উপজাত").
+এন্ট্রি(এফলাক্স, n, [এফলাক্সেস], "একটি প্রবাহ বাহির হওয়া")।
+এন্ট্রি(প্রচেষ্টা, ন, [প্রচেষ্টাসমূহ], "একটি ইচ্ছাকৃত প্রয়াস")।
+এন্ট্রি(এফাল্জ, ক্রিয়া, [এফাল্জড, এফাল্জিং, এফাল্জেস], "ফুটে ওঠা").
+এন্ট্রি(এফিউজ, v, [এফিউজড,এফিউজিং,এফিউজেস], "ঢেলে দেওয়া").
+entry(effusion, n, [effusions], "একটি আবেগের উচ্ছ্বাস").
+প্রবেশ(অত্যধিক, বিশেষণ, [], "উচ্ছ্বাসপূর্ণভাবে ঢেলে দেওয়া").
+এন্ট্রি(eft, n, [efts], "একটি newt")।
+entry(eftsoon, adv, [], "অবশ্যই পরে").
+এন্ট্রি(eftsoons, উঃপ, [], "eftsoon")।
+এন্ট্রি(এগ্যাড, অব্যয়, [], "মৃদু শপথ হিসাবে ব্যবহৃত").
+entry(ইগ্যাডস, আবেগসূচক, [], "ইগ্যাড").
+এন্ট্রি(ইগাল, বিশেষণ, [], "সমান").
+entry(egalite, n, [egalites], "সমতা").
+এন্ট্রি(eger, n, [egers], "eagre").
+entry(egest, v, [egested,egesting,egests], "শরীর থেকে নির্গত করা").
+এন্ট্রি(ইজেস্টা, নপ্ল, [], "ইজেস্টেড পদার্থ")।
+Prolog entry(মলত্যাগ, n, [মলত্যাগসমূহ], "মলত্যাগ করার ক্রিয়াEGESTIVE বিশেষণ").
+এন্ট্রি(ডিম, v, [ডিমড,ডিমিং,ডিমস], "উত্তেজিত বা প্ররোচিত করার জন্য")।
+এন্ট্রি(এগার, ন, [এগারস], "এগার")।
+entry(ডিমকাপ, ন, [ডিমকাপসমূহ], "একটি কাপ যা থেকে একটি ডিম খাওয়া হয়").
+এন্ট্রি(egger, n, [eggers], "এক ধরনের মথ")।
+এন্ট্রি(এগফ্রুট, ন, [এগফ্রুটস], "একটি উষ্ণমন্ডলীয় গাছ")।
+এন্ট্রি(এগহেড, ন, [এগহেডস], "একজন বুদ্ধিজীবী")।
+এন্ট্রি(ডিমিয়ার, তুলনামূলক, [], "ডিমের").
+এন্ট্রি(eggiest, অতিশায়োক্তি, [], "অফ এগি").
+ভুক্তি(নিষ্কোষ, বিশেষণ, [], "ডিম নেই")।
+এন্ট্রি(এগনগ, না, [এগনগগুলি], "একটি পানীয়")।
+এন্ট্রি(বেগুন, ন, [বেগুনগুলো], "একটি বহুবর্ষজীবী ভেষজ উদ্ভিদ যা খাওয়ার যোগ্য ফল দেয়")।
+এন্ট্রি(ডিমের_খোলা, ন, [ডিমের_খোলাগুলো], "একটি পাখির ডিমের শক্ত বাইরের আবরণ")।
+এন্ট্রি(এগি, বিশেষণ, [], "ডিমের মতো স্বাদ বা গন্ধযুক্ত").
+entry(ইজিস, n, [ইজিসেস], "aegis").
+entry(eglatere, n, [eglateres], "একটি বন্য গোলাপ").
+এন্ট্রি(এগ্লোমাইজ, বিশেষণ, [], "পিছনে আঁকা ছবিসহ কাচের তৈরি").
+এন্ট্রি(অহম, ন, [অহম-সমূহ], "সচেতন আত্ম।").
+এন্ট্রি(এগোইজম, ন, [এগোইজমস], "স্বার্থপরতার প্রতি চরম আনুগত্য")।
+entry(অহংকারী, n, [অহংকারীরা], "যে অহংকার চর্চা করেEGOISTIC বিশেষণ").
+এন্ট্রি(ইগোলেস, বিশেষণ, [], "অহং বর্জিত").
+এন্ট্রি(ইগোমেনিয়া, স, [ইগোমেনিয়াস], "চরম আত্মপ্রেম").
+প্রবেশ(অহমিকা, বিশেষ্য, [অহমিকাসমূহ], "আত্মগরিমা")।
+এন্ট্রি(ইগোটিস্ট, ন, [ইগোটিস্টস], "একজন আত্মগর্বিত ব্যক্তি")।
+এন্ট্রি(ইগোটাইজ, ক্রিয়াপদ, [ইগোটাইজড,ইগোটাইজিং,ইগোটাইজেস], "নিজ সম্পর্কে অতিরিক্ত পরিমানে কথা বলা এবং চিন্তা করা")।
+এন্ট্রি(বহির্গমন, v, [বহির্গমনিত,বহির্গমনরত,বহির্গমনরা], "বেরিয়ে যাওয়া").
+entry(egret, n, [egrets], "একটি জলচর পাখি").
+entry(egyptian, n, [egyptians], "একটি টাইপফেস যার চতুর্ভুজ সেরিফ রয়েছে")।
+এন্ট্রি(এহ, আন্তর্জাল, [], "সন্দেহ বা আশ্চর্যের প্রকাশের জন্য ব্যবহৃত")।
+এন্ট্রি(এআইডি, পিএল, [], "অফ এআইডোস")।
+এন্ট্রি(ঈডার, ন, [ঈডার্স], "একটি বড় সমুদ্র হাঁস").
+এন্ট্রি(ঈডেটিক, ন, [ঈডেটিক্স], "একজন ব্যক্তি যিনি জীবন্ত ছবি স্মরণ করতে পারেন")।
+প্রবেশ(ঈডোলিক, বিশেষন, [], "একটি ঈডোলনের সাথে সম্পর্কিত")।
+এন্ট্রি(ঈডোলন, ন, [ঈডোলনস], "অথবা ঈডোলাa প্রেতাত্মা")।
+এন্ট্রি(আইডস, এন, [আইডে], "একটি সারমর্ম")।
+এন্ট্রি(আট, ন, [আটস], "একটি সংখ্যা")।
+এন্ট্রি(আঠারো, ন, [আঠারোগুলি], "একটি সংখ্যা")।
+এন্ট্রি(অষ্টম, ন, [অষ্টমগুলি], "আটটি সমান অংশের একটি")।
+প্রবেশ(অষ্টমত, ক্রিয়া-বিশেষণ, [], "অষ্টম স্থানে")।
+এন্ট্রি(এট্ভো, ন, [এট্ভোস], "অকটাভো").
+এন্ট্রি(আশি, ন, [আশির দশক], "একটি সংখ্যা")।
+এন্ট্রি(আইকন, এন, [আইকনস], "অথবা আইকোনেসআইকন").
+entry(einkorn, n, [einkorns], "গমের একটি প্রকার")।
+এন্ট্রি(আইনস্টাইন, ন, [আইনস্টাইনরা], "একজন অত্যন্ত বুদ্ধিমান ব্যক্তি")।
+এন্ট্রি(ইরেনিক, বিশেষণ, [], "আইরেনিক")।
+entry(ইরেনিক্স, npl, [], "ইরেনিক্স")।
+এন্ট্রি(আইসওয়াইন, ন, [আইসওয়াইনস], "একটি মিষ্টি জার্মান ওয়াইন")।
+প্রবেশ(একটিআনেক, বিশেষণ, [], "একটি বা অন্যটি হওয়া")।
+এন্ট্রি(ইজেক্ট, ক্রিয়া, [ইজেক্টেড,ইজেক্টিং,ইজেক্টস], "জোর করে ফেলে দেওয়া")।
+entry(ejecta, npl, [], "উদ্গীরিত পদার্থ").
+এন্ট্রি(ইজেকশন, ন, [ইজেকশন্স], "ইজেক্ট করার কাজ")।
+এন্ট্রি(ইজেকটিভ, ন, [ইজেকটিভস], "একটি শব্দ যা বন্ধ গ্লোটিসের উপরে সংকুচিত বাতাস দিয়ে উত্পাদিত হয়")।
+entry(বহিষ্কর্তা, n, [বহিষ্কর্তারা], "যে বহিষ্কার করে")।
+এন্ট্রি(এহিদো, ন, [এহিদোস], "মেক্সিকোতে সমবায়িকভাবে চাষ করা একটি জমি")।
+এন্ট্রি(eke, v, [eked,eking,ekes], "প্রচেষ্টা সহ একটি সম্পূরক যোগ করা").
+entry(ekkistics, npl, [], "মানব বাসস্থান নিয়ে কাজ করে এমন একটি বিজ্ঞানEKISTIC বিশেষণ").
+এন্ট্রি(এক্কা, এন, [এক্কাস], "ভারতের এক-ঘোড়াবাহী যানবাহন")।
+entry(ekpwele, n, [ekpweles], "গিনি উপকূলের প্রাক্তন মুদ্রা একক")।
+entry(ektexine, n, [ektexines], "এক্সিনের একটি বাইরের স্তর")।
+এন্ট্রি(ekuele, n, [ekuele], "ekpwele").
+entry(el, n, [els], "উচ্চতায় স্থাপিত রেলপথ বা ট্রেন")।
+প্রবেশ(এলাইন, ন, [এলাইন্স], "ওলেইন")।
+এন্ট্রি(এলান, এন, [এলানস], "উৎসাহ")।
+entry(eland, n, [elands], "একটি বড় হরিণ জাতীয় প্রাণী").
+এন্ট্রি(elaphine, adj, [], "একটি প্রজাতির হরিণ সম্পর্কিত")।
+এন্ট্রি(এলাপিড, এন, [এলাপিডস], "একটি বিষাক্ত সাপ")।
+এন্ট্রি(এলাপাইন, বিশেষণ, [], "সাপের একটি পরিবারের সঙ্গে সম্পর্কিত")।
+এন্ট্রি(অতিক্রান্ত, ক্রি, [অতিক্রান্ত,অতিক্রমণ,অতিক্রম], "অতীত হওয়া").
+এণ্ট্রি(এলাষ্টেন, এন, [এলাষ্টেনস], "স্প্যানডেক্স")।
+এন্ট্রি(ইলাস্টেজ, এন, [ইলাস্টেজস], "একটি এনজাইম")।
+এন্ট্রি(ইলাস্টিক, ন, [ইলাস্টিকস], "একটি প্রসারণযোগ্য উপাদান")।
+এন্ট্রি(এলাস্টিন, ন, [এলাস্টিনস], "একটি শারীরিক প্রোটিন")।
+প্রবেশ(এলেট, v, [এলেটেড,এলেটিং,এলেটস], "মনের উদ্দীপনা বাড়ানোELATEDLY adv")।
+এন্ট্রি(এলাটার, ন, [এলাটার্স], "একটি ক্লিক বিটল")।
+এন্ট্রি(ইলাটেরিড, ন, [ইলাটেরিডস], "একটি ইলাটের")।
+এন্ট্রি(এলেটারিন, ন, [এলেটারিনস], "একটি রাসায়নিক যৌগ")।
+এন্ট্রি(elating, present, [], "elate এর participle").
+এন্ট্রি(আনন্দিত, বিশেষ্য, [আনন্দিতগুলি], "মহান আনন্দের অনুভূতি")।
+এন্ট্রি(এলেটিভ, ন, [এলেটিভস], "কিছু ভাষায় একটি বিশেষণ রূপ")।
+entry(কনুই, v, [কনুইয়ের বাড়ি,কনুইয়ের বাড়াতে থাকা,কনুইয়ের বাড়ি দিতে], "ঠেলা দেওয়া").
+entry(elbowing, n, [elbowings], "বাহুর সংযোগস্থল দিয়ে প্রতিপক্ষকে আঘাত করার কাজ").
+entry(eld, n, [elds], "বার্ধক্য").
+এন্ট্রি(বয়স্ক, ন, [বয়োজ্যেষ্ঠরা], "একজন বয়স্ক ব্যক্তি")।
+এন্ট্রি(বৃদ্ধ, ন, [বৃদ্ধরা], "একজন বেশী বৃদ্ধ ব্যক্তি")।
+এন্ট্রি(এল্ডেস্ট, এন, [এল্ডেস্টস], "তিন বা তার বেশি জনের মধ্যে সবচেয়ে পুরনো").
+এন্ট্রি(এলডোরাডো, ন, [এলডোরাডোস], "একটি অত্যাধিক প্রাচুর্যের স্থান")।
+entry(eldress, n, [eldresses], "একজন নারীবৃদ্ধা একটি গির্জার কর্মকর্তা").
+entry(eldrich, adj, [], "অস্বাভাবিক").
+এন্ট্রি(এলড্রিচ, বিশেষণ, [], "অদ্ভুত")।
+entry(elect, v, [elected,electing,elects], "ভোটের মাধ্যমে কোনো পদে নির্বাচিত করা").
+এন্ট্রি(নির্বাচিত, ন, [নির্বাচিতরা], "একজন ব্যক্তি যিনি নির্বাচিত হয়েছেন")।
+এন্ট্রি(নির্বাচন, এন, [নির্বাচনগুলি], "নির্বাচনের কাজ")।
+entry(ঐচ্ছিক, n, [ঐচ্ছিকসমূহ], "একটি ঐচ্ছিক অধ্যয়ন কোর্স")।
+এন্ট্রি(নির্বাচক, পৃ, [নির্বাচকগণ], "যে নির্বাচন করে")।
+এন্ট্রি(ইলেকট্রেট, ন, [ইলেকট্রেটস], "এক প্রকারের অপরিবাহক")।
+Prolog:
+প্রবেশ(বৈদ্যুতিক, ন, [বৈদ্যুতিকসমূহ], "বিদ্যুৎ দ্বারা পরিচালিত কিছু").
+এন্ট্রি(ইলেক্ট্রো, ভি, [ইলেক্ট্রোড,ইলেক্ট্রোইং,ইলেক্ট্রোস], "মুদ্রণের জন্য টাইপের একটি পাতার ধাতব অনুলিপি তৈরি করা")।
+এন্ট্রি(ইলেকট্রন, ন, [ইলেকট্রনসমূহ], "একটি মৌলিক কণা")।
+এন্্ট্রি(ইলেকট্রাম, এন, [ইলেকট্রামস], "সোনা ও রুপার সংকর")।
+এন্ট্রি(এলিগেন্স, এন, [এলিগেন্সেস], "স্বাদপূর্ণ বৈভব")।
+এন্ট্রি(এলিগেন্সি, এন, [এলিগেন্সিস], "এলিগেন্স")।
+এন্ট্রি(অলংকারময়, বিশেষণ, [], "স্বাদপূর্ণভাবে সমৃদ্ধ")।
+এন্ট্রি(ইলিজিয়াক, ন, [ইলিজিয়াক্স], "একপ্রকার ছড়া")।
+এন্ট্রি(এলিজি, বহুবচন, [], "এলিজির").
+এন্ট্রি(ইলিজাইজ, ক্রিয়া, [ইলিজাইজড,ইলিজাইজিং,ইলিজাইজেস], "ইলিজাইজ করা").
+এন্ট্রি(ইলেজিস্ট, ন, [ইলেজিস্টস], "যে ব্যক্তি এলিজি লেখে")।
+এন্ট্রি(ইলেজিট, ন, [ইলেজিটস], "বিচারিক পরোয়ানার একটি প্রকার")।
+Prolog:
+entry(elegize, v, [elegized,elegizing,elegizes], "এলিজি লেখা").
+এন্ট্রি(ইলেজি, ন, [ইলেজিস], "যিনি মারা গেছেন তার জন্য একটি শোকপূর্ণ কবিতা")।
+এন্ট্রি(উপাদান, এন, [উপাদানসমূহ], "একটি পদার্থ যা রসায়নিক পদ্ধতিতে সহজতর পদার্থে বিভাজিত করা যায় না")।
+এন্ট্রি(এলেমি, ন, [এলেমিস], "একটি সুগন্ধি রজন")।
+এন্ট্রি(এলেনকাস, এন, [এলেনচি], "একটি যৌক্তিক পদ্ধতিতে খণ্ডন এলেন্চিক এলেনকটিক বিশেষণ")।
+এন্ট্রি(হাতি, বিশেষ্য, [হাতিরা], "একটি বড় স্তন্যপায়ী প্রাণী")।
+এন্ট্রি(উন্নয়ন করা, v, [উন্নয়ন করা হয়েছে,উন্নয়ন করা হচ্ছে,উন্নয়ন করে], "উচ্চ করা")।
+এন্ট্রি(উচ্চতর, ন, [উচ্চতরস], "একটি রেলপথ যা একটি উঁচু গঠন উপর পরিচালনা করে")।
+এন্ট্রি(লিফট, ন, [লিফটগুলি], "যা উত্তোলন করে")।
+এন্ট্রি(এগারো, ন, [এগারোগুলি], "একটি সংখ্যা")।
+এন্ট্রি(একাদশ, ন, [একাদশের], "এগারোটির সমান অংশগুলোর মধ্যে একটি")।
+এন্ট্রি(ইলেভন, সা, [ইলেভনস], "এক ধরনের বিমান নিয়ন্ত্রণ পৃষ্ঠতল")।
+এন্ট্রি(এলফ, এন, [এলভস], "একটি ছোট প্রায়শই দুষ্টু পরীELFLIKE অভিধান").
+এন্ট্রি(এলফিন, এন, [এলফিনস], "একটি পরী")।
+প্রবেশ(এলফিশ, বিশেষণ, [], "পরীর মতো এলফিশলি ক্রিয়া").
+entry(elflock, n, [elflocks], "জট পাকানো চুলের একগুচ্ছ").
+entry(elhi, বিশেষণ, [], "শ্রেণী ১ থেকে ১২ পর্যন্ত স্কুল সম্পর্কিত").
+প্রবেশ(উদ্ভাসিত, ক্রিয়া, [উদ্ভাসিত, উদ্ভাসন, উদ্ভাস], "উদঘাটন করা")।
+এন্ট্রি(প্ররোচক, ন, [প্ররোচকগণ], "যে উত্তেজিত করে")।
+প্রবেশ(অপসারণ, ক্রিয়া, [অপসারিত, অপসারণের, অপসারণগুলি], "অপসারণ করাELIDIBLE বিশেষণ")।
+entry(যোগ্য, n, [যোগ্যগণ], "যে নির্বাচিত হওয়ার যোগ্য").
+এন্ট্রি(যোগ্যভাবে, ক্রিয়া, [], "যোগ্যভাবে").
+এন্ট্রি(এলিন্ট, ন, [এলিন্টস], "ইলেকট্রনিক যন্ত্রপাতির মাধ্যমে গোয়েন্দা তথ্য সংগ্রহ")।
+এন্ট্রি(এলিশন, ন, [এলিশন্স], "এলিড করার ক্রিয়া")।
+এント্রি(এলিট, ন, [এলিটস], "একটি সামাজিকভাবে উচ্চতর গোষ্ঠী")।
+এন্ট্রি(এলিটিজম, ন, [এলিটিজমস], "একটি অভিজাত দ্বারা শাসনের বিশ্বাস")।
+প্রবেশ(অভিজাততন্ত্রী, ন, [অভিজাততন্ত্রীগণ], "অভিজাতত্বের অনুসারী")।
+এন্ট্রি(এলিক্সার, ন, [এলিক্সার্স], "একটি ঔষধি পানীয়")।
+এন্ট্রি(এল্ক, ন, [এল্কস], "একটি বড় হরিণ")।
+এন্ট্রি(এলখাউন্ড, ন, [এলখাউন্ডস], "একটি শিকারী কুকুর")।
+এন্ট্রি(এল, ন, [এলস], "বর্ণ এল")।
+এন্ট্রি(অক্ষরবৃত্ত, ন, [অক্ষরবৃত্তগুলি], "এক ধরনের সমতল বক্ররেখা").
+entry(ellipsis, n, [ellipses], "একটি বাক্যে একটি বা একাধিক শব্দের অপূর্ণতা").
+এন্ট্রি(ইলিপটিক, বিশেষণ, [], "ডিম্বাকৃতি আকৃতির").
+এন্ট্রি(এলম, ন, [এলমস], "একটি পর্ণমোচী গাছ")।
+এন্ট্রি(এল্মউড, এন, [এল্মউডস], "একটি এল্ম গাছের কাঠ")।
+প্রবেশ(এলমি, বিশেষণ, [], "এলমি, এলমির, এলমিস্ট, এল্ম সমৃদ্ধ").
+এন্ট্রি(ইলোডিয়া, ন, [ইলোডিয়াস], "একটি জলজ ভেষজ")।
+এন্ট্রি(eloign, v, [eloigned, eloigning, eloigns], "একটি দূরবর্তী স্থানে সরানো").
+entry(eloigner, n, [eloigners], "যে দূরে সরিয়ে দেয়")।
+এন্ট্রি(এলোইন, ভি, [এলোইনড,এলোইনিং,এলোইনস], "এলোইন করা")।
+প্রবেশ(এলোইনার, ন, [এলোইনার্স], "একজন যে এলোইন করে")।
+এন্ট্রি(প্রসারিত করা, ক্রিয়া, [প্রসারিত হয়েছে, প্রসারিত করছে, প্রসারিত করে], "দৈর্ঘ্যে বাড়ানোর জন্য")।
+এন্ট্রি(এলোপ, v, [এলোপড,এলোপিং,এলোপস], "গোপনে পালিয়ে বিয়ে করার জন্য")।
+প্রবেশ(এলোপার, সংখ্যা, [এলোপাররা], "যে পালিয়ে যায়")।
+এন্ট্রি(বাক্পটু, বিশেষণ, [], "বাক্চাতুর্যপূর্ণ এবং প্রাঞ্জল বক্তৃতায়").
+এন্ট্রি(else, adv, [], "একটি ভিন্ন স্থানে, সময়ে বা উপায়ে")।
+entry(eluant, n, [eluants], "একটি দ্রাবক").
+এন্ট্রি(এলুয়েট, ন, [এলুয়েটস], "এলিউশনের মাধ্যমে প্রাপ্ত বস্তু")।
+entry(এলিউড, v, [এলিউডড,এলিউডিং,এলিউডস], "পালানো").
+এন্ট্রি(এলুডার, এন, [এলুডারস], "যে এড়িয়ে যায়")।
+এন্ট্রি(এলুয়েন্ট, ন, [এলুয়েন্টস], "এলুয়ান্ট").
+entry(এলুশন, ন, [এলুশন্স], "ফাঁকি দেওয়ার কাজ")।
+entry(অধরা, বিশেষণ, [], "এলিউড করার প্রবণতা").
+এন্ট্রি(এল্যুসরি, বিশেষণ, [], "ধরা ছোঁয়ার বাইরে").
+entry(elute, v, [eluted,eluting,elutes], "একটি দ্রাবক দ্বারা অপসারণ করা").
+এন্ট্রি(এল্যুশন, ন, [এল্যুশনস], "এলিউট করার কার্য").
+এন্ট্রি(এলুভিয়া, এ, [], "এলুভিয়ামের বহুবচন")।
+এন্ট্রি(এলুভিয়াল, বিশেষণ, [], "একটি এলুভিয়ামের সাথে সম্পর্কিত")।
+entry(eluviate, v, [eluviated,eluviating,eluviates], "মাটিতে উপাদান স্থানান্তরিত হওয়ার প্রক্রিয়া").
+প্রবেশনী(এলুভিয়াম, ন, [এলুভিয়ামস], "অথবা এলুভিয়া একটি মাটির অবক্ষেপ")।
+এন্ট্রি(এলভেন, বিশেষণ, [], "একটি এলফের মতো").
+এন্ট্রি(এলভার, ন, [এলভার্স], "একটি কচি ইল মাছ")।
+এন্ট্রি(এলভস, pl, [], "এলফের")।
+এন্ট্রি(এলভিস, বিশেষণ, [], "এলফিশএলভিসলি ক্রিয়া বিশেষণ")।
+এন্ট্রি(এলিসিয়ান, বিশেষণ, [], "আনন্দময়")।
+এন্ট্রি(elytron, n, [elytra], "কিছু পোকামাকড়ের কঠিন সামনের ডানাELYTROID ELYTROUS বিশেষণ").
+এন্ট্রি(এলাইট্রাম, ন, [এলাইট্রা], "এলাইট্রন")।
+এন্ট্রি(ইএম, এন, [ইএমএস], "অক্ষর M")।
+entry(emaciate, v, [emaciated,emaciating,emaciates], "সরু করা").
+এন্ট্রি(ইমেইল, ভি, [ইমেইলড,ইমেইলিং,ইমেইলস], "কম্পিউটার দ্বারা মেসেজ পাঠানো")।
+এন্ট্রি(ইমানেন্ট, বিশেষণ, [], "উৎস থেকে প্রকাশিত")।
+entry(নিঃসৃত, v, [নিঃসৃত,নিঃসরণ,নিঃসৃত হয়], "প্রেরণ করা").
+এন্ট্রি(এমনেটর, ন, [এমনেটর্স], "যে উদ্গত হয়")।
+এন্ট্রি(এম্বাম, ভি, [এম্বামড,এম্বামিং,এম্বামস], "পচন থেকে রক্ষা করার জন্য চিকিত্সা করা")।
+এন্ট্রি(সংরক্ষক, বি, [সংরক্ষকরা], "যে সংরক্ষণ করে")।
+entry(embank, v, [embanked,embanking,embanks], "উচ্চ গঠন দিয়ে সীমাবদ্ধ বা সুরক্ষিত করতে").
+এনট্রি(এমবার, ভি, [এমব্যারড,এমব্যারিং,এমবার্স], "কারারুদ্ধ করা")।
+এন্ট্রি(এমবার্গো, ভি, [এমবার্গোড, এমবার্গোইং, এমবার্গোজ], "সরকারি আদেশ দ্বারা বাণিজ্য সীমিত করা").
+এন্ট্রি(অভিযান_শুরু, ক্রিয়া, [শুরু_করেছে,শুরু_করছে,শুরু_করে], "একটি শুরু করা")।
+entry(দূতাবাস, n, [দূতাবাসসমূহ], "একজন রাষ্ট্রদূতের সদর দপ্তর")।
+প্রবেশ(সংঘাতের জন্য প্রস্তুত করা, ক্রিয়া, [সংঘাতমুখর,সংঘাতরত,সংঘাতকার্য], "যুদ্ধের জন্য প্রস্তুত করা")।
+entry(embay, v, [embayed,embaying,embays], "একটি উপসাগরে বন্ধ করা").
+এন্ট্রি(এম্বেড, ক্রিয়া, [এম্বেডেড, এম্বেডিং, এম্বেডস], "একটি পার্শ্ববর্তী ভরের মধ্যে দৃঢ়ভাবে স্থির করা").
+এন্ট্রি(এম্বার, ন, [এম্বারস], "আগুন থেকে প্রাপ্ত একটি জ্বলন্ত খণ্ড").
+এন্ট্রি(প্রতারণামূলকভাবে আত্মসাৎ করা, ক্রিয়াপদ, [আত্মসাৎ করেছে, আত্মসাৎ করছে, আত্মসাৎ করে], "অন্যের জিনিস কৌশলে নিজের মালিকানায় নেওয়া")।
+entry(embitter, v, [embittered,embittering,embitters], "তিক্ত করা").
+এন্ট্রি(এমব্লেইজ, v, [এমব্লেইজড, এমব্লেইজিং, এমব্লেইজেস], "আগুনে প্রজ্জ্বলিত করা")।
+এন্ট্রি(এম্ব্লেজার, ন, [এম্ব্লেজার্স], "যে এম্ব্লেজ করে")।
+প্রোলগ:
+entry(emblazon, v, [emblazoned,emblazoning,emblazons], "উজ্জ্বল রঙ দিয়ে সাজানো").
+এন্ট্রি(এমব্লেম, ভি, [এমব্লেমড, এমব্লেমিং, এমব্লেমস], "গ্রাফিক্যাল প্রতীক দ্বারা প্রতীকীভাবে প্রকাশ করা")।
+entry(embodier, n, [embodiers], "যে মূর্ত করে").
+এন্ট্রি(এম্বডি, v, [এম্বডেড,এম্বডাইং,এম্বডিস], "একটি দেহ প্রদান করা")।
+প্রবেশ(সাহসী করা, ক্রিয়া, [সাহসিত করা,সাহসিত করা হচ্ছে,সাহসী করে], "সাহস দেওয়া")।
+এন্ট্রি(এম্বোলি, বহু, [], "এমবোলাসের").
+এন্ট্রি(এম্বোলিস, বহুবচন, [], "এম্বোলির").
+এন্ট্রি(emborder, v, [embordered,embordering,emborders], "কোনো কিছুকে এক প্রান্তরেখা দিয়ে সজ্জিত করা")।
+এটি যেভাবে প্রয়োজন, আপনার অনুরোধটি সম্পূর্ণরূপে সামঞ্জস্যপূর্ণ নয় কারণ প্রোলগ ভাষাতে অনুবাদ করার জন্য ভাষাগত পরিবর্তনের দরকার হয় না। তবে, আমাদের অনুরোধ অনুযায়ী যদি আপনাকে কেবলমাত্র প্রোলগ কমেন্টের মধ্যে একটি ব্যাখ্যা দিতে হয় তবে এটি হতে পারে:
+
+```prolog
+entry(embosk, v, [embosked,embosking,embosks], "পাতাবাহার দিয়ে আড়াল করা").
+```
+entry(বুকে জড়িয়ে ধরা, v, [বুকে জড়িয়ে ধরেছিল,বুকে জড়িয়ে ধরছে,বুকে জড়িয়ে ধরে], "আলিঙ্গন করা")।
+এন্ট্রি(এম্বস, ভি, [এম্বসড, এম্বসিং, এম্বসেস], "উঁচু নকশা দিয়ে সাজাতে হয়")।
+এন্ট্রি(এম্বোস্যার, এন, [এম্বোস্যার্স], "যে এম্বোস করে")।
+প্রবেশ(এমবাউ, ক্রিয়া, [এমবাউড, এমবাউইং, এমবাউস], "তীর/খিলান আকৃতি দেওয়া")।
+entry(embowel, v, [emboweled,emboweling,embowels], "অথবা EMBOWELLED EMBOWELLING EMBOWELSto disbowel")।
+entry(বৃক্ষাবৃত করা, v, [বৃক্ষাবৃত করেছিল,বৃক্ষাবৃত করছে,বৃক্ষাবৃত করে], "পাতায় ঘেরা").
+entry(আলিঙ্গন, ক্রিয়া, [আলিঙ্গিত,আলিঙ্গনরত,আলিঙ্গনগুলি], "জড়ানো").
+এন্ট্রি(embracer, n, [embracers], "যে আলিঙ্গন করে")।
+এন্ট্রি(জড়ানো, ক্রি, [জড়ালো,জড়াচ্ছে,জড়ায়], "সংঘাতে জড়িত করা").
+entry(embrown, v, [embrowned,embrowning,embrowns], "বাদামী করা").
+entry(embrue, v, [embrued,embruing,embrues], "নিছরানো").
+এন্ট্রি(embrute, v, [embruted,embruting,embrutes], "আত অবনতি করা").
+এন্ট্রি(ভ্রূণ, ন, [ভ্রূণসমূহ], "উন্নয়নের প্রাথমিক পর্যায়ে একটি জীব").
+entry(embryoid, n, [embryoids], "ভ্রূণের মতো যে টিস্যুর একটি গুচ্ছ").
+এন্ট্রি(এম্বরিওন, ন, [এম্বরিওন্স], "একটি ভ্রূণ")।
+এন্ট্রি(মাস্টার অফ সেরিমনিস, ক্রিয়া, [অংশগ্রহণ করেছে,অংশগ্রহণ করছে,অংশগ্রহণ করে], "সেরিমনির মাস্টার হিসাবে কাজ করা").
+entry(emdash, n, [emdashes], "লেখায় একটি চিহ্ন যা চিন্তায় বা গঠনে একটি বিরতি নির্দেশ করে")।
+entry(eme, n, [emes], "একজন চাচা/মামা")।
+এন্ট্রি(এমির, ন, [এমিরস], "ইমার")।
+এন্ট্রি(এমিরেট, এন, [এমিরেটস], "এমিরেট")।
+প্রবেশ(সংশোধন, ক্রিয়া, [সংশোধিত, সংশোধনরত, সংশোধন করে], "সংশোধন করা")।
+এন্ট্রি(এমেনডেট, ভি, [এমেনডেটেড,এমেনডেটিং,এমেনডেটস], "শোধন করা")।
+প্রবেশ(এমেন্ডার, ন, [এমেন্ডার্স], "যে সংশোধন করে")।
+এন্ট্রি(emerald, n, [emeralds], "সবুজ রত্ন").
+এন্ট্রি(এমার্জ, এন, [এমার্জস], "হাসপাতালের সে অংশ যা জরুরি অবস্থার সাথে সম্পর্কিত").
+entry(উন্মোচিত, ক্রিয়া, [উন্মোচিত হয়েছে,উন্মোচিত হচ্ছে,উন্মোচিত হয়], "প্রকাশ্যে আসা")।
+entry(emergent, n, [emergents], "জলজ উদ্ভিদের একটি প্রকার").
+এনট্রি(এমেরি, pl, [], "এমেরির").
+entry(emerita, n, [emeritas], "অথবা EMERITAE একজন অবসরপ্রাপ্ত মহিলা যিনি একটি সম্মানসূচক পদবী ধারণ করেন")।
+এন্ট্রি(এমেরিটাস, ন, [এমেরিটি], "একজন অবসরপ্রাপ্ত ব্যক্তি যিনি একটি সম্মানসূচক শিরোনাম ধারণ করেন")।
+এন্ট্রি(এমেরড, এন, [এমেরডস], "একটি টিউমার")।
+এন্ট্রি(এমরয়েড, ন, [এমরয়েডস], "এমরড")।
+এন্ট্রি(উন্মোচিত, বিশেষণ, [], "জল থেকে উপরে দাঁড়িয়ে থাকা").
+এন্ট্রি(এমার্শন, ন, [এমার্শন্স], "উদয় ঘটানো").
+এন্ট্রি(এমেরি, বিশেষ্য, [এমেরিজ], "একটি দানাদার কোরান্ডাম")।
+এন্ট্রি(বমি, ন, [বমি], "বমি করার ক্রিয়া")।
+এন্ট্রি(ইমেটিক, এন, [ইমেটিকস], "একটি পদার্থ যা বমি উদ্রেক করে")।
+এন্ট্রি(এমেটিন, এন, [এমেটিনস], "এমেটিন")।
+এন্ট্রি(ইমিটিন, ন, [ইমিটিনস], "একটি এলকালয়েড")।
+entry(emeu, n, [emeus], "ইমু").
+এন্ট্রি(emeute, n, [emeutes], "একটি দাঙ্গা")।
+এন্ট্রি(এমিক্স, বহুবচন, [], "এক প্রকারের ভাষাতাত্ত্বিক বিশ্লেষণEMIC বিশেষণ").
+entry(অভিবাসী, n, [অভিবাসীরা], "যে অভিবাসন করে").
+এন্ট্রি(মাইগ্রেট, ক্রিয়া, [মাইগ্রেটেড, মাইগ্রেটিং, মাইগ্রেটস], "এক দেশ বা অঞ্চল ত্যাগ করে অন্য স্থানে বসতি স্থাপন করা").
+entry(emigre, n, [emigres], "একজন অভিবাসী").
+entry(ক্ষমতা, n, [ক্ষমতাসমূহ], "উচ্চ স্থান বা পদমর্যাদা")।
+এন্ট্রি(eminency, n, [eminencies], "eminence").
+এন্ট্রি(প্রখ্যাত, বিশেষণ, [], "উচ্চ অবস্থান বা মর্যাদার").
+এন্ট্রি(এমির, এন, [এমিরস], "একজন আরব নেতা বা রাজপুত্র")।
+প্রবেশ(আমিরাত, ন, [আমিরাতস], "একজন আমিরের পদমর্যাদা")।
+entry(উপদূত, n, [উপদূতরা], "একটি মিশনে প্রেরিত ব্যক্তি")।
+অ্যান্ট্রি(এমিশন, ন, [এমিশন্স], "নিঃসরণ করাEMISSIVE বিশেষণ")।
+এন্ট্রি(ইমিট, v, [ইমিটেড,ইমিটিং,ইমিটস], "প্রেরণ করা").
+এন্ট্রি(এমিটার, এন, [এমিটারস], "যা নির্গত করে")।
+এন্ট্রি(এমার, এন, [এমারস], "গমের একটি প্রকার").
+এন্ট্রি(এমেট, এন, [এমেটস], "একটি পিপড়া")।
+এন্ট্রি(emo, n, [emos], "ভাবাবেগপূর্ণ গানের কথাসহ একটি রক সঙ্গীতের ধরণ")।
+এন্ট্রি(ইমোকর, ন, [ইমোকরস], "ইমো").
+এন্ট্রি(এমোডিন, ন, [এমোডিন্স], "একটি রাসায়নিক যৌগ")।
+entry(অনুভূতি, ক্রিয়া, [অনুভূত,অনুভূতি দিচ্ছে,অনুভূতি দেয়], "আবেগকে অতিরঞ্জিতভাবে প্রকাশ করা").
+entry(emoter, n, [emoters], "যারা আবেগ প্রকাশ করে").
+entry(ইমোটিকন, বিশেষ্য, [ইমোটিকনগুলো], "কীবোর্ড অক্ষরের একটি গোষ্ঠী যা মুখের অভিব্যক্তি বা অনুভূতি প্রকাশে ব্যবহৃত হয়")।
+এন্ট্রি(ইমোশন, এন, [ইমোশনস], "চেতনার একটি প্রভাবিত অবস্থা")।
+এন্ট্রি(ইমোটিভ, বিশেষণ, [], "ভাবাবেগ সম্পর্কিত")।
+এন্ট্রি(empale, v, [empaled,empaling,empales], "নিক্ষেপ করা").
+entry(empaler, n, [empalers], "একটি যা বিদ্ধ করে")।
+এন্ট্রি(এমপানাদা, ন, [এমপানাদাস], "একটি পেস্ট্রি টার্নওভার")।
+entry(empanel, v, [empaneled,empaneling,empanels], "অথবা EMPANELLED EMPANELLING EMPANELSto সদস্যপদে অধিষ্ঠিত করা").
+এন্ট্রি(সহানুভূতি, ন, [সহানুভূতিসমূহ], "অন্যদের চিন্তা ও অনুভূতির সাথে কল্পনাপ্রসূত সনাক্তকরণসহানুভূতিপূর্ণ বিশেষণ").
+এন্ট্রি(সম্রাট, সা, [সম্রাটদের], "একটি সাম্রাজ্যের শাসক")।
+এন্ট্রি(এম্পেরি, ন, [এম্পেরিজ], "নিরঙ্কুশ অধিকার")।
+প্রবেশ(গুরুত্বারোপ, এন, [গুরুত্বারোপসমূহ], "কোনো কিছুকে বিশেষ গুরুত্ব প্রদান করা")।
+এন্ট্রি(জোরালো, বিশেষণ, [], "শক্তিশালীভাবে প্রকাশিত")।
+এন্ট্রি(এম্পায়ার, ন, [এম্পায়ার্স], "একটি প্রধান রাজনৈতিক ইউনিট")।
+এন্ট্রি(এম্পিরিক, এন, [এম্পিরিক্স], "যে ব্যক্তি ব্যবহারিক অভিজ্ঞতার উপর নির্ভর করে")।
+এন্ট্রি(এমপ্লেস, v, [এমপ্লেসড, এমপ্লেসিং, এমপ্লেসেস], "স্থাপন করা")।
+এন্ট্রি(emplane, v, [emplaned,emplaning,emplanes], "উড্ডয়নের জন্য").
+এন্ট্রি(নিয়োগ, ক্রি, [নিয়োগিত,নিয়োজিত,নিয়োগ করে], "চাকরির জন্য নিয়োগ করা")।
+এন্ট্রি(কর্মচারী, এ, [কর্মচারীরা], "কর্মী")।
+এন্ট্রি(কর্মচারী, n, [কর্মচারীরা], "একজন ব্যক্তি যিনি নিযুক্ত হন")।
+এন্ট্রি(নিয়োগদাতা, ন, [নিয়োগদাতারা], "যে নিয়োগ দেয়")।
+প্রবেশ(empoison, v, [empoisoned,empoisoning,empoisons], "তিকর করা").
+এন্ট্রি(এম্পোরিয়াম, এন, [এম্পোরিয়ামস], "অথবা এম্পোরিয়া একটি বাণিজ্যিক বা বাজার কেন্দ্র")।
+entry(ক্ষমতায়ন, v, [ক্ষমতায়িত,ক্ষমতায়নকারী,ক্ষমতায়], "বৈধ ক্ষমতা প্রদান করা").
+এন্ট্রি(সম্রাজ্ঞী, ন, [সম্রাজ্ঞীরা], "একটি সাম্রাজ্যের মহিলা শাসক")।
+এন্ট্রি(এমপ্রাইস, ন, [এমপ্রাইসেস], "একটি রোমাঞ্চকর উদ্যম").
+এন্ট্রি(এমপ্রাইজ, এন, [এমপ্রাইজেস], "এমপ্রাইজ")।
+এন্ট্রি(emptied, অতীত, [], "খালি করার কাল")।
+এন্ট্রি(emptier, n, [emptiers], "যে খালি করে").
+entry(empties, present, [], "ফাঁকা'র ৩য় পুরুষ একবচন").
+entry(emptiest, superlative, [], "খালি").
+এন্ট্রি(emptily, adv, [], "খালি উপায়ে").
+entry(emptings, npl, [], "emptins").
+এন্ট্রি(emptins, npl, [], "একটি তরল গাঁজন দ্রব্য").
+entry(empty, adj, [], "EMPTIER EMPTIESTকিছুই নেই ধারণকারী").
+প্রবেশ(ফাঁকা, v, [ফাঁকা করা,ফাঁকা করা হচ্ছে,ফাঁকা করে], "বস্তুসমূহ বের করা").
+এন্ট্রি(empurple, v, [empurpled,empurpling,empurples], "বেগুনি রঙে রঞ্জিত করা").
+এন্ট্রি(এম্পাইএমা, এন, [এম্পাইএমাস], "অথবা এম্পাইমাটা: শরীরের গহ্বরে পুঁজের সংগ্রহ এম্পাইএমিক বিশেষণ")।
+entry(empyreal, adj, [], "আকাশ সম্পর্কিত").
+এন্ট্রি(এম্পিরিয়ান, এন, [এম্পিরিয়ানস], "সর্বোচ্চ স্বর্গ")।
+এন্ট্রি(ইমু, নি, [ইমুরা], "একটি বড় উড়ন্ত অক্ষম পাখি")।
+entry(অনুকরণ, v, [অনুকৃত,অনুকরণরত,অনুকরণ করে], "সমান বা অতিক্রম করার চেষ্টা করা").
+প্রবেশ(অমুলেটর, ন, [অমুলেটরস], "একটি যা অমুলেট করে")।
+entry(প্রতিদ্বন্দ্বিতাপূর্ণ, বিশেষণ, [], "অন্যকে সমান বা ছাড়িয়ে যাওয়ার জন্য উদগ্রীব").
+entry(ইমাল্সিফাই, v, [ইমাল্সিফায়েড,ইমাল্সিফাইং,ইমাল্সিফায়েজ], "এমালশন তৈরি করতে").
+এন্ট্রি(ইমালসান, ন, [ইমালসনস], "এক ধরনের তরল মিশ্রণ ইমালসিভ বিশেষণ").
+এন্ট্রি(এমালসয়েড, ন, [এমালসয়েডস], "এক তরল আরেক তরলে বিতরণ হওয়া").
+এন্ট্রি(এমিড, ন, [এমিডস], "একটি মিঠা পানির কচ্ছপ")।
+entry(emyde, n, [emydes], "emyd").
+প্রবেশ(এন, এন, [এনস], "অক্ষর এন")।
+এন্ট্রি(সক্রিয়, ভি, [সক্রিয়কৃত, সক্রিয়করণ, সক্রিয় করে], "সম্ভব করতে").
+এন্ট্রি(এনাবলার, n, [এনাবলারস], "যে সক্রিয় করে")।
+entry(আইন_বলে_স্থাপন_করা, ক্রিয়া, [স্থাপিত_করেছে, স্থাপন_করছে, স্থাপন_করে], "আইনে পরিণত করা").
+এন্ট্রি(এনএ্যাকশন, এন, [এনএ্যাকশন্স], "আইন প্রণয়নের কর্ম")।
+entry(enactive, adj, [], "আইন কার্যকর বা বাস্তবায়নের ক্ষমতা রাখে")।
+এন্ট্রি(এনাক্টর, ন, [এনাক্টর্স], "একজন যে বাস্তবায়ন করে")।
+এন্ট্রি(এনক্টরি, বিশেষণ, [], "আইন প্রণয়নের সাথে সম্পর্কিত")।
+এন্ট্রি(এনামেল, v, [এনামেলড, এনামেলিং, এনামেলস], "অথবা এনামেলড এনামেলিং এনামেলস এর সাথে একটি কঠিন উজ্জ্বল পৃষ্ঠ দিয়ে আবৃত করা").
+এন্ট্রি(এনামেলার, এন, [এনামেলার্স], "যে এনামেল করে")।
+এন্ট্রি(এনামাইন, এন, [এনামাইনস], "এক ধরনের অ্যামিন")।
+entry(enamor, v, [প্রেমাসক্ত,প্রেমাসক্তিকরণ,প্রেমাসক্তদের], "ভালবাসায় অনুপ্রাণিত করা").
+এন্ট্রি(প্রেমমুগ্ধ, ক্রিয়া, [প্রেমমুগ্ধতা,প্রেমমুগ্ধকরন,প্রেমমুগ্ধগণ], "প্রেমে মুগ্ধ করা")।
+entry(encamp, v, [encamped,encamping,encamps], "শিবির স্থাপন করা").
+entry(encase, v, [encased,encasing,encases], "একটি ক্ষেত্রে আবদ্ধ করা").
+এন্ট্রি(অর্থপ্রদান, v, [অর্থপ্রদত্ত,অর্থপ্রদানরত,অর্থপ্রদানের], "নগদ করতে")।
+entry(enceinte, n, [enceintes], "একটি ঘেরাও দুর্গ").
+এন্ট্রি(এনচেইন, ভি, [এনচেইনড, এনচেইনিং, এনচেইনস], "শৃঙ্খল দিয়ে বাঁধা").
+এন্ট্রি(এনচ্যান্ট, ভি, [এনচ্যান্টেড,এনচ্যান্টিং,এনচ্যান্টস], "মুগ্ধ করা")।
+এন্ট্রি(এনচেস, ভি, [এনচেসড,এনচেসিং,এনচেসেস], "অলঙ্কারিক সেটিংয়ে স্থাপন করা").
+এন্ট্রি(এনচেসার, ন, [এনচেসার্স], "যে এনচেস করে")।
+entry(enchoric, adj, [], "একটি নির্দিষ্ট দেশের অন্তর্গত").
+এন্ট্রি(এন্সিনা, এন, [এন্সিনাস], "একটি চিরসবুজ ওকএন্সিনাল বিশেষণ").
+entry(encipher, v, [enciphered,enciphering,enciphers], "গোপন অর্থের অক্ষরে লিখতে").
+এন্ট্রি(ঘিরে ধরা, ক্রিয়া, [ঘিরে ধরল, ঘিরে ধরছে, ঘিরে ধরে], "একটি বৃত্ত গঠন করা").
+entry(enclasp, v, [enclasped,enclasping,enclasps], "আলিঙ্গন করা")।
+প্রবেশ(এনক্লেভ, ঃ, [এনক্লেভড,এনক্লেভিং,এনক্লেভস], "একটি বিদেশী অঞ্চলের মধ্যে আবদ্ধ করা").
+এন্ট্রি(এনক্লিটিক, ন, [এনক্লিটিকস], "পূর্ববর্তী শব্দের অংশ হিসেবে উচ্চারিত একটি শব্দ")।
+entry(enclose, v, [enclosed,enclosing,encloses], "সমস্ত দিক থেকে বন্ধ করা").
+entry(encloser, n, [enclosers], "যা ঘিরে রাখে").
+এন্ট্রি(এনকোড, v, [এনকোডেড,এনকোডিং,এনকোডস], "কোডে রূপান্তর করা").
+এন্ট্রি(এনকোডার, n, [এনকোডার্স], "যে এনকোড করে")।
+এন্ট্রি(প্রশংসাপত্র, ন, [প্রশংসাপত্রগুলি], "অথবা প্রশংসাপত্রa প্রশংসাগীতি")।
+entry(এনকর, ক্রিয়া, [এনকর্ড,এনকরিং,এনকোরস], "একজন পরিবেশকের পুনরায় উপস্থিতির জন্য আহ্বান করা").
+entry(আক্রমণ, v, [আক্রমণ_করা,আক্রমণ_করছে,আক্রমণ_করে], "যথাযথ সীমার বাইরে অগ্রসর হওয়া")।
+এন্ট্রি(এনক্রাস্ট, ক্রিয়া, [এনক্রাস্টেড, এনক্রাস্টিং, এনক্রাস্টস], "একটি স্তর দ্বারা ঢেকে দেওয়া")।
+entry(এনক্রিপ্ট, v, [এনক্রিপ্টেড,এনক্রিপ্টিং,এনক্রিপ্টস], "সিফার তৈরি করা")।
+entry(encumber, v, [encumbered,encumbering,encumbers], "কার্য বা চলাফেরায় বিঘ্ন ঘটানো").
+এন্ট্রি(এনসাইক্লিক, ন, [এনসাইক্লিকস], "বিশ্বের বিশপদের প্রতি পোপ কর্তৃক প্রেরিত একটি পত্র")।
+entry(encyst, v, [encysted,encysting,encysts], "একটি সিস্টে আবদ্ধ করা").
+এন্ট্রি(শেষ, v, [শেষ হয়েছে, শেষ হচ্ছে, শেষ হয়], "সমাপ্ত করতে")।
+এন্ট্রি(এনড্যামেজ, ভি, [এনড্যামেজড, এনড্যামেজিং, এনড্যামেজেস], "ক্ষতি করা")।
+entry(endameba, n, [endamebas], "অথবা ENDAMEBAEa পরজীবী অ্যামিবা")।
+এনট্রি(বিপন্ন, ক্রিয়া, [বিপন্ন, বিপন্ন করা, বিপন্ন হয়], "অসুরক্ষিত করা")।
+entry(endarch, adj, [], "কেন্দ্র থেকে বাইরের দিকে গঠিত").
+এন্ট্রি(এন্ডার্কি, ন, [এন্ডার্কিস্], "এন্ডার্ক অবস্থায় থাকা শর্ত").
+এন্ট্রি(এন্ড্যাশ, ন, [এন্ড্যাশেস], "সংযোজকের একটি যৌগিক উপাদানের সাথে সংযোগ করতে ব্যবহৃত লেখার একটি চিহ্ন")।
+এন্ট্রি(এন্ডব্রেইন, ন, [এন্ডব্রেইনস], "মস্তিষ্কের একটি অংশ")।
+এন্ট্রি(এন্ডক্যাপ, ন, [এন্ডক্যাপস], "একটি দোকানের আইলের শেষে পণ্যের প্রদর্শন")।
+এন্ট্রি(প্রিয়, ক্রিয়া, [প্রিয়তা,প্রিয় করছে,প্রিয় করে], "প্রিয় বা প্রিয়জন করতে").
+এন্ট্রি(প্রচেষ্টা, v, [প্রচেষ্টাকারী,প্রচেষ্টারত,প্রচেষ্টাসমূহ], "প্রচেষ্টা করার জন্য")।
+এন্ট্রি(এ্যান্ডেমিয়াল, বিশেষণ, [], "একটি দেশ বা জনগণের বৈশিষ্ট্য")।
+এন্ট্রি(স্থানীয়, ন, [স্থানীয়রা], "একটি স্থানীয় রোগ").
+এন্ট্রি(এন্ডেমিজম, ন, [এন্ডেমিজমস], "স্থানীয় বা নির্দিষ্ট অঞ্চলে সীমাবদ্ধ অবস্থা")।
+এন্ট্রি(এন্ডার, ন, [এন্ডার্স], "যে কিছু শেষ করে")।
+এন্ট্রি(এন্ডারমিক, বিশেষণ, [], "ত্বকের মাধ্যমে শোষণের দ্বারা কার্যকর").
+এন্ট্রি(এন্ডএক্সাইন, ন, [এন্ডএক্সাইনস], "এক্সাইনের একটি ভেতরের স্তর")।
+এন্ট্রি(এন্ডগেম, ন, [এন্ডগেমস], "একটি দাবা খেলার শেষ পর্যায়").
+এন্ট্রি(শেষ, ন, [শেষগুলি], "একটি সমাপ্তি")।
+entry(endite, v, [endited,enditing,endites], "ইনডাইট করা").
+এন্ট্রি(এন্ডিভ, ন, [এন্ডিভস], "একটি গাছ যা সালাদের গাছ হিসাবে চাষ করা হয়")।
+এন্ট্রি(এন্ডলীফ, ন, [এন্ডলীভস], "অথবা এন্ডলীফস একটি এন্ডপেপার")।
+এন্ট্রি(অসীম, বিশেষণ, [], "চিরস্থায়ী").
+এন্ট্রি(এন্ডলং, ক্রিয়া বিশেষণ, [], "লম্বালম্বিভাবে")।
+entry(endmost, adj, [], "দূরবর্তী").
+এনট্রি(এন্ডনোট, এন, [এন্ডনোটস], "পাঠ্যের শেষে স্থাপিত একটি নোট")।
+এন্ট্রি(এন্ডোকার্প, ন, [এন্ডোকার্পস], "একটি বহিফলার অভ্যন্তরীণ স্তর")।
+এন্ট্রি(এন্ডোকাস্ট, ন, [এন্ডোকাস্টস], "cranial গহ্বরের একটি ঢালাই")।
+এন্ট্রি(এন্ডোডার্ম, ন, [এন্ডোডার্মস], "একটি ভ্রূণের সবচেয়ে অভ্যন্তরীণ জীবাণু স্তর")।
+এন্ট্রি(এনডোগ্যামি, এন, [এনডোগ্যামিজ], "নির্দিষ্ট গোষ্ঠীর মধ্যে বিয়ে")।
+প্রবেশ(এন্ডোজেন, এন, [এন্ডোজেন্স], "এক ধরনের উদ্ভিদ")।
+এন্ট্রি(এন্ডোজেনি, ন, [এন্ডোজেনিস], "অভ্যন্তরীণ থেকে বৃদ্ধি")।
+এন্ট্রি(এন্ডোপড, ন, [এন্ডোপডস], "একটি ক্রাস্টাসিয়ান অঙ্গের শাখা")।
+এন্ট্রি(সমর্থন, ক্রিয়া, [সমর্থিত, সমর্থনকারী, সমর্থনগুলি], "মজুরযোগ্য নথির পেছনে সাক্ষর করতে")।
+এন্ট্রি(অধিকারী, ন, [অধিকারীস], "একজন যার কাছে কোনো নথি স্বাক্ষর দ্বারা হস্তান্তরিত হয়")।
+এন্ট্রি(সমর্থনকারী, n, [সমর্থনকারীরা], "একজন যে সমর্থন করে")।
+এন্ট্রি(অনুমোদক, ন, [অনুমোদকগণ], "অনুমোদক")।
+এন্ট্রি(এন্ডোসার্ক, ন, [এন্ডোসার্কস], "কোষের একটি অংশ")।
+entry(endosmos, n, [endosmoses], "অভ্যন্তরীণ ঔজ্জ্বল্য একটি প্রকার").
+এন্ট্রি(এন্ডোসোম, এন, [এন্ডোসোমস], "একটি কোষীয় কণা")।
+এন্ট্রি(এন্ডোসটিয়া, নপল, [], "হাড়ের ঝিল্লী")।
+প্রবেশ(প্রদান, ক্রিয়া, [প্রদত্ত,প্রদানরত,প্রদানে], "কিছুর সঙ্গে প্রদান করা")।
+entry(endower, n, [endowers], "একজন যে দান করে").
+entry(endozoic, adj, [], "প্রাণীর মাধ্যমে পারাপার জড়িত").
+এন্ট্রি(এন্ডপেপার, n, [এন্ডপেপারস], "বই বাঁধাইয়ে ব্যবহৃত এক প্রকার কাগজের পাতা")।
+এন্ট্রি(এন্ডপ্লেট, ন, [এন্ডপ্লেটস], "নার্ভ টার্মিনালের একটি প্রকার")।
+এন্ট্রি(endplay, v, [endplayed,endplaying,endplays], "ব্রিজে প্রতিদ্বন্দ্বীকে লিড করতে বাধ্য করা")।
+entry(endpoint, n, [শেষবিন্দু], "রেখাংশের শেষ চিহ্নিতকারী দুইটি বিন্দুর যেকোনো একটি")।
+প্রবেশ(এন্ডরিন, ন, [এন্ডরিনস], "একটি কীটনাশক")।
+entry(endue, v, [endued,enduing,endues], "কোনো গুণ বা উপহার প্রদান করা").
+অন্তর্ভুক্তি(সহ্য করা, ক্রিয়া, [সহ্য করেছে, সহ্য করা হচ্ছে, সহ্য করে], "স্থায়ী হওয়া").
+এন্ট্রি(এনডিউরার, ন, [এনডিউরার্স], "যে সহ্য করে")।
+এন্ট্রি(এন্ডুরো, এন, [এন্ডুরোস], "একটি দীর্ঘ দৌড় প্রতিযোগিতা")।
+entry(endways, adv, [], "endwise").
+এন্ট্রি(এন্ডওয়াইজ, ক্রিয়া বিশেষণ, [], "দৈর্ঘ্যে").
+entry(এনিমা, ন, [এনিমাস], "অথবা এনেমাটাa তরল যা মলদ্বারে ইনজেক্ট করা হয়")।
+প্রবেশ(শত্রু, ন, [শত্রুরা], "যে অন্যের প্রতি বৈরী").
+এন্ট্রি(energid, বই, [energids], "একটি নিউক্লিয়াস এবং সাইটোপ্লাজমের শরীর যার সাথে এটি প্রতিক্রিয়া করে")।
+এন্ট্রি(এনার্জিজ, প্ল, [], "এনার্জির").
+এন্ট্রি(এনারজাইজ, ক্রিয়া, [এনারজাইজড, এনারজাইজিং, এনারজাইজেস], "উজ্জীবিত করা")।
+এন্ট্রি(এনার্জাইজ, v, [এনার্জাইজড,এনার্জাইজিং,এনার্জাইজেস], "শক্তি প্রদান করা").
+entry(শক্তি, n, [], "ENERGIESউৎসাহী কার্যকলাপের জন্য ক্ষমতা").
+প্রবেশ(শক্তিহীন করা, ক্রিয়াপদ, [শক্তিহীন করেছে,শক্তিহীন করা হচ্ছে,শক্তিহীন করে], "শক্তি বা প্রাণশক্তি থেকে বঞ্চিত করা")।
+এন্ট্রি(এনফেস, ক্রিয়া, [এনফেসড, এনফেসিং, এনফেসেস], "সামনে লেখার জন্য")।
+entry(দুর্বল_করা, ক্রিয়া, [দুর্বল_করা_হয়েছে, দুর্বল_করা_হচ্ছে, দুর্বল_করে], "দুর্বল করা").
+এন্ট্রি(এনফিয়ফ, ক্রিয়া, [এনফিয়ফড, এনফিয়ফিং, এনফিয়ফস], "একটি সামন্ত রাজ্য সহ বিনিয়োগ করা")।
+entry(enfetter, v, [enfettered,enfettering,enfetters], "শৃঙ্খলাবদ্ধ করা").
+এনট্রি(enfever, v, [enfevered, enfevering, enfevers], "জ্বরে আক্রান্ত করা")।
+এন্ট্রি(এনফিলাড, v, [এনফিলাডেড,এনফিলাডিং,এনফিলাডস], "দৈর্ঘ্য বরাবর ভারী বন্দুকের গুলি পরিচালনা করা").
+এন্ট্রি(এনফ্লেম, ক্রিয়া, [এনফ্লেমড, এনফ্লেমিং, এনফ্লেমস], "প্রজ্বলিত করা")।
+প্রবেশ(আবৃত করা, ক্রিয়া, [আবৃত, আবৃত করা হচ্ছে, আবৃত করে], "বেষ্টন করা")।
+এন্ট্রি(এনফোল্ডার, ন, [এনফোল্ডারস], "একটি যা মোড়ায়ছি")।
+প্রবেশ(প্রবিধান, ক্রি, [প্রবিধিত,প্রবিধায়ন,প্রবিধায়], "অবাধ্যতার প্রতি বাধ্য করাতে").
+এন্ট্রি(এনফোর্সার, ন, [এনফোর্সারস], "একজন যে প্রয়োগ করে")।
+entry(enframe, v, [enframed,enframing,enframes], "প্রসঙ্গ নির্ধারণ করা")।
+এন্টরি(ইং, ন, [ইংস], "একটি ধ্বনিতাত্ত্বিক প্রতীক")।
+এন্ট্রি(লিপ্ত করা, ক্রিয়া, [লিপ্ত, লিপ্ত করা হচ্ছে, লিপ্ত করে], "নিযুক্ত করা")।
+এন্ট্রি(engager, n, [engagers], "একটি যা জড়িত").
+entry(প্রসব, ক্রিয়া, [প্রসবিত,প্রসবমান,প্রসবিত হয়], "অস্তিত্বে আনা").
+entry(সোনালী করা, ক্রিয়া, [সোনালী করেছে, সোনালী করছে, সোনালী করে], "উজ্জ্বল করা")।
+এন্ট্রি(ইঞ্জিন, ভি, [ইঞ্জিনড,ইঞ্জিনিং,ইঞ্জিনস], "যন্ত্রপাতি সহ সজ্জিত করা").
+প্রবেশ(প্রকৌশলী, v, [প্রকৌশলীড,প্রকৌশলীবান,প্রকৌশলীরা], "চালনা বা কৌশল দ্বারা পরিচালনা করা বা সম্পন্ন করা")।
+entry(ইঞ্জিনারি, n, [ইঞ্জিনারিস], "যন্ত্রপাতি").
+entry(engining, present, [], "engine এর present participle").
+এন্ট্রি(ইঞ্জিনিয়াস, বিশেষণ, [], "প্রতিভাশালী")।
+এন্ট্রি(এনগার্ড, ক্রিয়া, [এনগার্ডেড,এনগার্ডিং,এনগার্ডস], "কম্বল দেওয়া").
+এন্ট্রি(engirdle, v, [engirdled,engirdling,engirdles], "বেষ্টন করা").
+entry(ইংরেজি, v, [ইংরেজেড,ইংরেজিং,ইংরেজেস], "একটি বিলিয়ার্ড বলকে তার উল্লম্ব অক্ষে ঘোরাতে প্ররোচিত করা").
+এন্ট্রি(englut, v, [englutted, englutting, engluts], "গিলে ফেলা")।
+entry(রক্তেভরা, ক্রিয়া, [রক্তেয়ভরা,রক্তেভরছে,রক্তেভরে], "রক্তে পূর্ণ করা").
+এন্ট্রি(গ্রাফট, ক্রিয়া, [গ্রাফটেড,গ্রাফটিং,গ্রাফটস], "প্রসারণের জন্য গ্রাফট করা")।
+entry(অলঙ্করণ, v, [অলঙ্কৃত,অলঙ্করণরত,অলঙ্করণ করে], "বাঁকা খাঁজ দিয়ে প্রান্তটি অলঙ্কৃত করা").
+এন্ট্রি(engrain, v, [engrained,engraining,engrains], "মজ্জাগতভাবে স্থাপন করা")।
+এন্ট্রি(এনগ্রাম, এন, [এনগ্রামস], "প্রোটোপ্লাজমে উদ্দীপকের কারণে সৃষ্ট টেকসই চিহ্ন")।
+entry(ইনগ্রাম, বিশেষ্য, [ইনগ্রামস], "ইনগ্রাম").
+entry(খোদাই, ক্রিয়া, [খোদাই করেছে, খোদাই করা, খোদাই করে], "কর্ণ ছেদনের মাধ্যমে তৈরি করা").
+এন্ট্রি(খনকের, n, [খনকরা], "যে খনন করে")।
+entry(তন্ময়, ক্রিয়া, [তন্ময়তায়,তন্ময়করণ,তন্ময়িত], "সম্পূর্ণরূপে দখল করা").
+entry(গিলিয়ে ফেলা, ক্রিয়া, [গিলিয়ে ফেলেছে, গিলিয়ে ফেলা হচ্ছে, গিলিয়ে ফেলে], "সম্পূর্ণরূপে পরিবেষ্টন করা")।
+এন্ট্রি(এনহালো, v, [এনহালোড, এনহালোইং, এনহালোস], "অথবা এনহালোস একটি হ্যালো দিয়ে ঘিরে রাখার জন্য")।
+এন্ট্রি(উন্নয়ন, ক্রিয়া, [উন্নত,উন্নয়নশীল,উন্নয়নগুলি], "উচ্চতর মাত্রায় উন্নীত করা")।
+এন্ট্রি(শক্তিবর্ধক, ন, [শক্তিবর্ধকগুলি], "যে উন্নত করে")।
+entry(enigma, n, [ধাঁধা], "অথবা ENIGMATAsomething যা বোঝা বা ব্যাখ্যা করা কঠিন").
+এন্ট্রি(এনআইসেল, ভি, [এনআইসেলড, এনআইসলিং, এনআইসলস], "বিচ্ছিন্ন করা")।
+এন্ট্রি(এঞ্জ্যাম্ব, ক্রিয়া, [এঞ্জ্যাম্বড,এঞ্জ্যাম্বিং,এঞ্জ্যাম্বস], "একটি কবিতার একটি লাইন থেকে পরবর্তী লাইনে একটি বাক্য চালিয়ে যাওয়া").
+entry(বাধ্য_করা, ক্রিয়া, [বাধ্য_করা হয়েছিল, বাধ্য_করা হচ্ছে, বাধ্য_করছে], "আদেশ করা")।
+এন্ট্রি(এনজয়নার, এন, [এনজয়নার্স], "যে উপদেশ দেয়")।
+এন্ট্রি(উপভোগ, ক্রি, [উপভোগিত,উপভোগরত,উপভোগ করে], "আনন্দ প্রাপ্ত করা")।
+প্রবেশ(আনন্দকারী, সংখ্যা, [আনন্দকারীরা], "যে উপভোগ করে")।
+প্রবেশ(enkindle, v, [enkindled,enkindling,enkindles], "আগুন লাগানো").
+এন্ট্রি(এনলেন্স, v, [এনলেসড,এনলেসিং,এনলেসেস], "ফিতার সাথে আবদ্ধ করা")।
+entry(enlarge, v, [enlarged,enlarging,enlarges], "বড় বা বড় হওয়ার জন্য").
+এন্ট্রি(বর্ধক, এন, [বর্ধকগুলি], "একটি যন্ত্র যা ছবি বড় করতে ব্যবহৃত হয়")।
+এন্ট্রি(ভর্তি, ক্রিয়া, [ভর্তি হয়েছে, ভর্তি হচ্ছে, ভর্তি করে], "সামরিক সেবার জন্য নিয়োগ করা")।
+এন্ট্রি(তালিকাভুক্ত, ন, [তালিকাভুক্তরা], "যে তালিকাভুক্ত হয়েছে")।
+এনট্রি(এনলিস্টার, ন, [এনলিস্টারস], "যে তালিকাভুক্ত করে")।
+entry(enliven, v, [enlivened,enlivening,enlivens], "উজ্জীবিত করা").
+প্রবেশ(জালে_বাঁধা, ক্রিয়া, [জালে_বাঁধা_হয়েছে, জালে_বাঁধা_হচ্ছিল, জালে_বাঁধে], "একটি জালে বা ফাঁদে ফেলা অথবা জটিল অবস্থায় ফেলা").
+এন্ট্রি(শত্রুতা, এন, [শত্রুতাসমূহ], "বিদ্বেষ")।
+প্রবেশ(ennead, n, [enneads], "নয়ের একটি দলENNEADIC বিশেষণ").
+entry(enneagon, n, [enneagons], "একটি নয়ভুজ").
+এন্ট্রি(ennoble, v, [ennobled,ennobling,ennobles], "উচ্চতর সম্মান বা মর্যাদায় উন্নীত করা")।
+প্রবেশ(ennobler, n, [ennoblers], "যে মহিমান্বিত করে")।
+entry(অবসাদ, n, [অবসাদসমূহ], "একটি ক্লান্তি এবং অসন্তুষ্টির অনুভূতি")।
+এন্ট্রি(ennuye, adj, [], "অবসাদে আক্রান্ত").
+entry(ennuyee, adj, [], "ennuye").
+এন্ট্রি(এনোকি, এন, [এনোকিস], "একটি ছোট মাশরুম")।
+এন্ট্রি(এনোল, এন, [এনলস], "একটি রাসায়নিক যৌগএনলিক বিশেষণ")।
+এন্ট্রি(এনোলেস, এন, [এনোলেসস], "একটি উৎসেচক")।
+entry(ওয়েনোলজি, ন, [ওয়েনোলজিস], "oenology").
+এন্ট্রি(ওইনোফাইল, ন, [ওইনোফাইলস], "oenophile").
+প্রবেশ(বিশাল, বিশেষণ, [], "enormous")।
+প্রবেশ(বিশালতা, ন, [বিশালতাগুলি], "মহান দুষ্কর্ম").
+এন্ট্রি(বিশাল, বিশেষণ, [], "বৃহৎ")।
+entry(enosis, n, [enosises], "ইউনিয়ন").
+এন্ট্রি(যথেষ্ট, ন, [যথেষ্টসমূহ], "একটি পর্যাপ্ত সরবরাহ")।
+entry(ঘোষণা, v, [ঘোষণা করেছে, ঘোষণা করছেন, ঘোষণা করে], "ঘোষণা করা").
+entry(enow, n, [enows], "যথেষ্ট").
+এন্ট্রি(এনপ্লেন, ভি, [এনপ্লেনড, এনপ্লেনিং, এনপ্লেনস], "একটি বিমান বোর্ড করা").
+এন্ট্রি(অনুসন্ধান, ক্রিয়া, [অনুসন্ধান করেছে, অনুসন্ধান করছে, অনুসন্ধান করে], "জিজ্ঞাসা করা")।
+এন্ট্রি(প্রশ্নকারী, n, [প্রশ্নকারীরা], "যে জিজ্ঞাসা করে")।
+এনট্রি(অনুসন্ধান, এন, [অনুসন্ধানসমূহ], "তদন্ত")।
+entry(রাগানো, v, [রেগেছে,রাগাচ্ছে,রাগায়], "অত্যন্ত রাগান্বিত করা").
+এন্ট্রি(মুগ্ধ, বিশেষণ, [], "রাস্তা")।
+এন্ট্রি(এনরেভিশ, ক্রিয়া, [এনরেভিশড, এনরেভিশিং, এনরেভিশেস], "মহান আনন্দে পরিপূর্ণ করা")।
+প্রবেশ(সমৃদ্ধ করা, ক্রিয়া, [সমৃদ্ধ করেছে,সমৃদ্ধ করছে,সমৃদ্ধ করে], "কাঙ্ক্ষিত উপাদান যোগ করা").
+এন্ট্রি(এনরিচার, এন, [এনরিচারস], "যে সমৃদ্ধ করে")।
+entry(enrobe, v, [enrobed,enrobing,enrobes], "পরিধান করা").
+এন্ট্রি(এনরোবার, ন, [এনরোবার্স], "যে এনরোব করে")।
+এন্ট্রি(এনরোল, ভি, [এনরোলড,এনরোলিং,এনরোলস], "ভর্তি হওয়া")।
+entry(ভর্তি, ক্রিয়া, [ভর্তি হয়েছে, ভর্তি হওয়া, ভর্তি হয়], "নথি বা তালিকায় নাম প্রবেশ করানো").
+entry(নিবন্ধিত, ব, [নিবন্ধিতরা], "যে নিবন্ধিত হয়েছে")।
+এন্ট্রি(এনরোলার, ন, [এনরোলার্স], "যে নিবন্ধন করে")।
+এন্ট্রি(ভর্তি, বর্তমান, [], "ভর্তির ক্রিয়াপদ")।
+entry(enroot, v, [enrooted,enrooting,enroots], "রোপণ করা").
+এন্ট্রি(ens, n, [entia], "একটি সত্ত্বা")।
+এন্ট্রি(ensample, n, [ensamples], "একটি উদাহরণ")।
+entry(ensconce, v, [ensconced,ensconcing,ensconces], "নিরাপদে বা আরাম করে বসানো").
+entry(enscroll, v, [enscrolled,enscrolling,enscrolls], "একটি স্ক্রোলের উপর লেখার জন্য").
+এন্ট্রি(এন্সেম্বল, এন, [এন্সেম্বলস], "সম্পূরক অংশগুলির একটি গোষ্ঠী")।
+এন্ট্রি(enserf, v, [enserfed, enserfing, enserfs], "দাসে পরিণত করা").
+entry(ensheath, v, [ensheathed,ensheathing,ensheaths], "একটি খাপের মধ্যে আবৃত করা").
+এন্ট্রি(সংরক্ষণ, ক্রি, [সংরক্ষিত, সংরক্ষণরত, সংরক্ষণ করে], "একটি মন্দিরে স্থাপন করা").
+এন্ট্রি(enshroud, v, [enshrouded,enshrouding,enshrouds], "লুকানোর জন্য")।
+এন্ট্রি(এন্সিফর্ম, বিশেষণ, [], "তলওয়ারআকৃতির")।
+এন্ট্রি(এনসাইন, ন, [এনসাইনস], "একজন নৌবাহিনীর অফিসার")।
+entry(ensigncy, n, [ensigncies], "এনসাইন পদমর্যাদা").
+entry(ensilage, v, [ensilaged,ensilaging,ensilages], "সাইল করা").
+entry(ensile, v, [ensiled,ensiling,ensiles], "একটি সাইলোতে সংরক্ষণ করতে").
+এন্ট্রি(এনস্কাই, ভি, [এনস্কাইড, এনস্কাইং, এনস্কাইস], "আকাশে ওঠানো").
+entry(দাসত্বে, v, [দাসত্বে_পরিণত_করা,দাসত্বে_পরিণমন,দাসত্বে_পরিণত], "দাসে পরিণত করা").
+এন্ট্রি(দাসদাসী, ন, [দাসদাসীরা], "যে দাসত্বে নিযুক্ত করে")।
+এন্ট্রি(ensnare, v, [ensnared,ensnaring,ensnares], "ফাঁদে ফেলা")।
+entry(ensnarer, n, [ensnarers], "যে ফাঁদ পাতে").
+এন্ট্রি(এনস্নার্ল, ক্রি, [এনস্নার্ল্ড,এনস্নার্লিং,এনস্নার্লস], "জট পাকানো").
+এন্ট্রি(ensorcel, v, [ensorceled,ensorceling,ensorcels], "মন্ত্রে আবদ্ধ করা")।
+এন্ট্রি(ensoul, v, [ensouled,ensouling,ensouls], "আত্মা দান করা").
+entry(ensphere, v, [ensphered,ensphering,enspheres], "একটি গোলকের মধ্যে আবদ্ধ করা").
+entry(পরবর্তী ঘটে, v, [পরবর্তী ঘটল,পরবর্তী ঘটছে,পরবর্তী ঘটে], "পরে বা ফলস্বরূপ ঘটতে").
+প্রবেশ(এনস্যুট, এন, [এনস্যুইটস], "একটি ঘর যা অন্য ঘরের সঙ্গে সংলগ্ন বাথরুম হিসাবে থাকে")।
+entry(নিশ্চিত, ক্রিয়া, [নিশ্চিতকৃত,নিশ্চিতকরন,নিশ্চিতকরে], "নিশ্চিত করা").
+এন্ট্রি(এনসিউরার, এন, [এনসিউরার্স], "যে নিশ্চিত করে")।
+এন্ট্রি(এনস্বাথ, ক্রিয়া, [এনস্বাথড, এনস্বাথিং, এনস্বাথেস], "মোড়া")।
+এন্ট্রি(এন্তাইল, ভি, [এন্তাইল্ড,এন্তাইলিং,এন্তাইলস], "এর উত্তরাধিকার সীমাবদ্ধ করা একটি নির্দিষ্ট উত্তরাধিকারীর লাইনে")।
+প্রবেশ(এনটেইলর, পি, [এনটেইলরস], "যে সম্পর্কিত এক").
+এন্ট্রি(এন্টামিবা, ন, [এন্টামিবাস], "অথবা ENTAMEBAEএন্ডামিবা")।
+entry(জড়াবে, ক্রি, [জড়ানো,জড়াচ্ছে,জড়ায়], "জড়ানো").
+এন্ট্রি(এন্টাসিয়া, ন, [এন্টাসিয়াস], "পেশীর খিঁচুনি সংকোচন").
+entry(entasis, n, [entases], "একটি স্তম্ভের সামান্য উত্তলতাENTASTIC adj").
+এন্ট্রি(এন্টেলাস, ন, [এন্টেল্লাসেস], "একটি হনুমান")।
+এন্ট্রি(এনটেন্ট, এন, [এনটেন্টস], "জাতির মধ্যে একটি চুক্তি")।
+entry(প্রবেশ, ক্রিয়া, [প্রবেশ করেছে,প্রবেশ করছে,প্রবেশ করে], "ভিতরে আসা বা যাওয়া")।
+প্রবেশ(এন্টেরা, এ, [], "এন্টারনের বহু বচন")।
+এন্ট্রি(এন্টারাল, বিশেষণ, [], "এন্টারিক")।
+এন্ট্রি(এন্টারার, এন, [এন্টারার্স], "প্রবেশকারী একজন")।
+এন্ট্রি(এন্টারিক, বিশেষণ, [], "এন্টারনের সাথে সম্পর্কিত")।
+এন্ট্রি(এন্টারিক্স, বহু, [], "ব্যাকটেরিয়ার একটি পরিবার")।
+entry(enteron, n, [enterons], "অথবা অন্ত্রনালীকানাল প্রবেশ করুন").
+এন্ট্রি(এন্থালপি, ন, [এন্থালপিস], "তাপের তাপগতিবিদ্যার পরিমাপ")।
+এন্ট্রি(এন্থেটিক, বিশেষণ, [], "বাহির থেকে প্রবর্তিত")।
+এন্ট্রি(মুগ্ধ, ক্রি, [মুগ্ধ, মুগ্ধিত, মুগ্ধকারী], "মুগ্ধ করতে").
+এন্ট্রি(মুগ্ধ, ক্রিয়া, [মুগ্ধ হয়েছে,মুগ্ধকর,মুগ্ধ করে], "মুগ্ধ করা").
+এন্ট্রি(এন্ত্রোন, ক্রিয়া, [এন্ত্রোনড,এন্ত্রোনিং,এন্ত্রোনস], "সিংহাসনে বসানো").
+এন্ট্রি(উদ্দীপিত, ক্রিয়া, [উদ্দীপিত,উদ্দীপি,উদ্দীপনা], "উদ্দীপনা প্রদর্শন করা")।
+entry(entia, pl, [enticers], "one that enticesENTIRE n pl ENTIRESthe whole of somethingENTIRELY adv completelyENTIRETY n pl ENTIRETIEScompletenessENTITLE v ENTITLED ENTITLING ENTITLESto give a title toENTITY n pl ENTITIESsomething that has a real existenceENTODERM n pl ENTODERMSendodermENTOIL v ENTOILED ENTOILING ENTOILSto entrapENTOMB v ENTOMBED ENTOMBING ENTOMBSto place in a tombENTOPIC adj situated in the normal placeENTOZOA pl of entozoonENTOZOAL adj entozoicENTOZOAN n pl ENTOZOANSan entozoic parasiteENTOZOIC adj living within an animalENTOZOON n pl ENTOZOAentozoanENTRAILS npl the internal organsENTRAIN v ENTRAINED ENTRAINING ENTRAINSto board a trainENTRANCE v ENTRANCED ENTRANCING ENTRANCESto fill with delight or wonderENTRANT n pl ENTRANTSone that entersENTRAP v ENTRAPPED ENTRAPPING ENTRAPSto trapENTREAT v ENTREATED ENTREATING ENTREATSto ask for earnestlyENTREATY n pl ENTREATIESan earnest requestENTREE n pl ENTREESthe principal dish of a mealENTRENCH v ENTRENCHED ENTRENCHING ENTRENCHESto establish firmlyENTREPOT n pl ENTREPOTSa warehouseENTRESOL n pl ENTRESOLSa mezzanineENTRIES pl of entryENTROPY n pl ENTROPIESa thermodynamic measure of disorderENTROPIC adjENTRUST v ENTRUSTED ENTRUSTING ENTRUSTSto give over for safekeepingENTRY n pl ENTRIESa place of entranceENTRYWAY n pl ENTRYWAYSa passage serving as an entranceENTWINE v ENTWINED ENTWINING ENTWINESto twine aroundENTWIST v ENTWISTED ENTWISTING ENTWISTSto twist togetherENURE v ENURED ENURING ENURESto inureENURESIS n pl ENURESESinvoluntary urinationENURETIC n pl ENURETICSone who is affected with enuresisENVELOP v ENVELOPED ENVELOPING ENVELOPSto cover completelyENVELOPE n pl ENVELOPESa paper containerENVENOM v ENVENOMED ENVENOMING ENVENOMSto put venom intoENVIABLE adj desirableENVIABLY advENVIED past tense of envyENVIER n pl ENVIERSone that enviesENVIES present 3d person sing of envyENVIOUS adj resentful and desirous of anothers possessions or qualitiesENVIRO n pl ENVIROSan advocate for the preservation of the natural environmentENVIRON v ENVIRONED ENVIRONING ENVIRONSto encircleENVISAGE v ENVISAGED ENVISAGING ENVISAGESto form a mental image ofENVISION v ENVISIONED ENVISIONING ENVISIONSto envisageENVOI n pl ENVOISthe closing of a poem or prose workENVOY n pl ENVOYSa representativeENVY v ENVIED ENVYING ENVIESto be envious ofENWHEEL v ENWHEELED ENWHEELING ENWHEELSto encircleENWIND v ENWOUND ENWINDING ENWINDSto wind aroundENWOMB v ENWOMBED ENWOMBING ENWOMBSto enclose as if in a wombENWRAP v ENWRAPPED ENWRAPPING ENWRAPSto envelopENZOOTIC n pl ENZOOTICSa type of animal diseaseENZYM n pl ENZYMSenzymeENZYME n pl ENZYMESa complex proteinENZYMIC adjEOBIONT n pl EOBIONTSa type of basic organismEOHIPPUS n pl EOHIPPUSESan extinct horseEOLIAN adj pertaining to the windEOLIPILE n pl EOLIPILESa type of engineEOLITH n pl EOLITHSa prehistoric stone toolEOLITHIC adjEOLOPILE n pl EOLOPILESeolipileEON n pl EONSan indefinitely long period of timeEONIAN adj everlastingEONISM n pl EONISMSadoption of the dress and mannerisms of the opposite sexEOSIN n pl EOSINSa red dyeEOSINIC adjEOSINE n pl EOSINESeosinEPACT n pl EPACTSthe difference between the lengths of the solar and lunar yearsEPARCH n pl EPARCHSthe head of an eparchyEPARCHY n pl EPARCHIESa district of modern GreeceEPATER v EPATERED EPATERING EPATERSto shock complacent peopleEPAULET n pl EPAULETSa shoulder ornamentEPAZOTE n pl EPAZOTESan herb of the goosefoot familyEPEE n pl EPEESa type of swordEPEEIST n pl EPEEISTSone who fences with an epeeEPEIRIC adj pertaining to vertical movement of the earths crustEPENDYMA n pl EPENDYMASa membrane lining certain body cavitiesEPERGNE n pl EPERGNESan ornamental dishEPHA n pl EPHASephahEPHAH n pl EPHAHSa Hebrew unit of dry measureEPHEBE n pl EPHEBESephebusEPHEBIC adjEPHEBOS n pl EPHEBOIephebusEPHEBUS n pl EPHEBIa young man of ancient GreeceEPHEDRA n pl EPHEDRASa desert shrubEPHEDRIN n pl EPHEDRINSan alkaloid used to treat allergiesEPHEMERA n pl EPHEMERAS or EPHEMERAEsomething of very short life or durationEPHOD n pl EPHODSan ancient Hebrew vestmentEPHOR n pl EPHORS or EPHORIa magistrate of ancient GreeceEPHORAL adjEPHORATE n pl EPHORATESthe office of ephorEPIBLAST n pl EPIBLASTSthe ectodermEPIBOLY n pl EPIBOLIESthe growth of one part around anotherEPIBOLIC adjEPIC n pl EPICSa long narrative poemEPICAL adjEPICALLY advEPICALYX n pl EPICALYXES or EPICALYCESa set of bracts close to and resembling a calyxEPICARP n pl EPICARPSthe outer layer of a pericarpEPICEDIA npl funeral songsEPICENE n pl EPICENESone having both male and female characteristicsEPICLIKE adj resembling an epicEPICOTYL n pl EPICOTYLSa part of a plant embryoEPICURE n pl EPICURESa gourmetEPICYCLE n pl EPICYCLESa circle that rolls on the circumference of another circleEPIDEMIC n pl EPIDEMICSa rapid spread of a diseaseEPIDERM n pl EPIDERMSthe outer layer of skinEPIDOTE n pl EPIDOTESa mineralEPIDOTIC adjEPIDURAL n pl EPIDURALSan injection to produce loss of sensationEPIFAUNA n pl EPIFAUNAS or EPIFAUNAEfauna living on a hard sea floorEPIFOCAL adj pertaining to the point of origin of an earthquakeEPIGEAL adj epigeousEPIGEAN adj epigeousEPIGEIC adj epigeousEPIGENE adj occurring near the surface of the earthEPIGENIC adj pertaining to change in the mineral character of a rockEPIGEOUS adj growing on or close to the groundEPIGON n pl EPIGONSepigoneEPIGONE n pl EPIGONESan inferior imitatorEPIGONIC adjEPIGONUS n pl EPIGONIepigoneEPIGRAM n pl EPIGRAMSa brief witty remarkEPIGRAPH n pl EPIGRAPHSan engraved inscriptionEPIGYNY n pl EPIGYNIESthe state of having floral organs near the top of the ovaryEPILATE v EPILATED EPILATING EPILATESto remove hair fromEPILATOR n pl EPILATORSan agent for removing hairEPILEPSY n pl EPILEPSIESa disorder of the nervous systemEPILOG n pl EPILOGSa concluding sectionEPILOGUE v EPILOGUED EPILOGUING EPILOGUESto provide with a concluding sectionEPIMER n pl EPIMERSa type of sugar compoundEPIMERIC adjEPIMERE n pl EPIMERESa part of an embryoEPIMYSIA npl muscle sheathsEPINAOS n pl EPINAOIa rear vestibuleEPINASTY n pl EPINASTIESa downward bending of plant partsEPIPHANY n pl EPIPHANIESan appearance of a deityEPIPHYTE n pl EPIPHYTESa plant growing upon another plantEPISCIA n pl EPISCIASa tropical herbEPISCOPE n pl EPISCOPESa type of projectorEPISODE n pl EPISODESan incident in the course of a continuous experienceEPISODIC adjEPISOME n pl EPISOMESa genetic determinantEPISOMAL adjEPISTASY n pl EPISTASIESa suppression of genetic effectEPISTLE n pl EPISTLESa long or formal letterEPISTLER n pl EPISTLERSone that writes epistlesEPISTOME n pl EPISTOMESa structure covering the mouth of various invertebratesEPISTYLE n pl EPISTYLESa part of a classical buildingEPITAPH n pl EPITAPHSan inscription on a tombEPITASIS n pl EPITASESthe main part of a classical dramaEPITAXY n pl EPITAXIESa type of crystalline growthEPITAXIC adjEPITHET n pl EPITHETSa term used to characterize a person or thingEPITOME n pl EPITOMESa typical or ideal exampleEPITOMIC adjEPITOPE n pl EPITOPESa region on the surface of an antigenEPIZOA pl of epizoonEPIZOIC adj living on the body of an animalEPIZOISM n pl EPIZOISMSthe state of being epizoicEPIZOITE n pl EPIZOITESan epizoic organismEPIZOON n pl EPIZOAan epizoic parasiteEPIZOOTY n pl EPIZOOTIESa type of animal diseaseEPOCH n pl EPOCHSa particular period of timeEPOCHAL adjEPODE n pl EPODESa type of poemEPONYM n pl EPONYMSthe person for whom something is namedEPONYMIC adjEPONYMY n pl EPONYMIESthe derivation of an eponymic nameEPOPEE n pl EPOPEESan epic poemEPOPOEIA n pl EPOPOEIASepopeeEPOS n pl EPOSESan epic poemEPOXIDE n pl EPOXIDESan epoxy compoundEPOXY v EPOXIED or EPOXYED EPOXYING EPOXIESto glue with epoxy a type of resinEPSILON n pl EPSILONSa Greek letterEQUABLE adj not changing or varying greatlyEQUABLY advEQUAL adj having the same capability quantity or effect as anotherEQUAL v EQUALED EQUALING EQUALS or EQUALLED EQUALLING EQUALSto be equal toEQUALISE v EQUALISED EQUALISING EQUALISESto equalizeEQUALITY n pl EQUALITIESthe state of being equalEQUALIZE v EQUALIZED EQUALIZING EQUALIZESto make equalEQUALLED a past tense of equalEQUALLING a past participle of equalEQUALLY adv in an equal mannerEQUATE v EQUATED EQUATING EQUATESto make equalEQUATION n pl EQUATIONSthe act of equatingEQUATIVE adj denoting a sentence in which one term is identified with anotherEQUATOR n pl EQUATORSa great circle of spherical celestial bodiesEQUERRY n pl EQUERRIESan officer in charge of the care of horsesEQUES n pl EQUITESa member of a privileged military class of ancient RomeEQUID n pl EQUIDSan animal of the horse familyEQUINE n pl EQUINESa horseEQUINELY adv in a horselike mannerEQUINITY n pl EQUINITIESthe state of being like a horseEQUINOX n pl EQUINOXESa point on the celestial sphereEQUIP v EQUIPPED EQUIPPING EQUIPSto provide with whatever is neededEQUIPAGE n pl EQUIPAGESa carriageEQUIPPER n pl EQUIPPERSone that equipsEQUISETA apl rushlike plantsEQUITANT adj overlappingEQUITES pl of equesEQUITY n pl EQUITIESfairness or impartialityEQUIVOKE n pl EQUIVOKESa play on wordsER interj  used to express hesitationERA n pl ERASan epochERADIATE v ERADIATED ERADIATING ERADIATESto radiateERASE v ERASED ERASING ERASESto rub or scrape outERASABLE adjERASER n pl ERASERSone that erasesERASION n pl ERASIONSan erasureERASURE n pl ERASURESthe act of erasingERBIUM n pl ERBIUMSa metallic elementERE prep previous to beforeERECT v ERECTED ERECTING ERECTSto buildERECTER n pl ERECTERSerectorERECTILE adj capable of being raised uprightERECTION n pl ERECTIONSthe act of erectingERECTIVE adj tending to erectERECTLY adv in an upright mannerERECTOR n pl ERECTORSone that erectsERELONG adv soonEREMITE n pl EREMITESa hermitEREMITIC adjEREMURUS n pl EREMURUSES or EREMURIa perennial herbERENOW adv before this timeEREPSIN n pl EREPSINSa mixture of enzymes in the small intestineERETHISM n pl ERETHISMSabnormal irritabilityERETHIC adjEREWHILE adv some time agoERG n pl ERGSa unit of work or energyERGASTIC adj constituting the nonliving byproducts of protoplasmic activityERGATE n pl ERGATESa worker antERGATIVE n pl ERGATIVESa type of verbERGO conj thereforeERGODIC adj pertaining to the probability that any state will recurERGOT n pl ERGOTSa fungusERGOTIC adjERGOTISM n pl ERGOTISMSpoisoning produced by eating ergotinfected grainERICA n pl ERICASa shrub of the heath familyERICOID adj resembling heathERIGERON n pl ERIGERONSan herbERINGO n pl ERINGOS or ERINGOESeryngoERISTIC n pl ERISTICSan expert in debateERLKING n pl ERLKINGSan evil spirit of Germanic folkloreERMINE n pl ERMINESthe fur of certain weaselsERMINED adjERN n pl ERNSerneERNE n pl ERNESa sea eagleERODABLE adj erosibleERODE v ERODED ERODING ERODESto wear away by constant frictionERODENT adj erosiveERODIBLE adj erosibleEROGENIC adj arousing sexual desireEROS n pl EROSESsexual desireEROSE adj unevenEROSELY advEROSIBLE adj capable of being erodedEROSION n pl EROSIONSthe act of erodingEROSIVE adj causing erosionEROTIC n pl EROTICSan amatory poemEROTICAL adjEROTICA npl literature or art dealing with sexual loveEROTISM n pl EROTISMSsexual excitementEROTIZE v EROTIZED EROTIZING EROTIZESto give a sexual meaning toERR v ERRED ERRING ERRSto make a mistakeERRABLE adjERRANCY n pl ERRANCIESan instance of erringERRAND n pl ERRANDSa short trip made for a particular purposeERRANT n pl ERRANTSa wandererERRANTLY adv in a wandering mannerERRANTRY n pl ERRANTRIESthe state of wanderingERRATA n pl ERRATASa list of printing errorsERRATIC n pl ERRATICSan eccentric personERRATUM n pl ERRATAa printing errorERRHINE n pl ERRHINESa substance that promotes nasal dischargeERRINGLY adv in a mistaken mannerERROR n pl ERRORSa mistakeERS n pl ERSEServilERSATZ n pl ERSATZESa substituteERST adv formerlyERUCT v ERUCTED ERUCTING ERUCTSto belchERUCTATE v ERUCTATED ERUCTATING ERUCTATESto eructERUDITE adj scholarlyERUGO n pl ERUGOSaerugoERUMPENT adj bursting forthERUPT v ERUPTED ERUPTING ERUPTSto burst forthERUPTION n pl ERUPTIONSthe act of eruptingERUPTIVE n pl ERUPTIVESa type of rockERUV n pl ERUVIM or ERUVSan enclosed area in which Jews are permitted to carry on activities normally forbidden on the SabbathERVIL n pl ERVILSa European vetchERYNGIUM n pl ERYNGIUMSa plant of the parsley familyERYNGO n pl ERYNGOS or ERYNGOESa medicinal herbERYTHEMA n pl ERYTHEMASa redness of the skinERYTHRON n pl ERYTHRONSa bodily organ consisting of the red blood cellsES n pl ESESessESCALADE v ESCALADED ESCALADING ESCALADESto enter by means of laddersESCALATE v ESCALATED ESCALATING ESCALATESto increaseESCALLOP v ESCALLOPED ESCALLOPING ESCALLOPSto scallopESCALOP v ESCALOPED ESCALOPING ESCALOPSto escallopESCALOPE n pl ESCALOPESa thin slice of meat or fishESCAPADE n pl ESCAPADESa reckless adventureESCAPE v ESCAPED ESCAPING ESCAPESto get awayESCAPEE n pl ESCAPEESone that has escapedESCAPER n pl ESCAPERSone that escapesESCAPISM n pl ESCAPISMSthe avoidance of reality by diversion of the mindESCAPIST n pl ESCAPISTSone given to escapismESCAR n pl ESCARSeskerESCARGOT n pl ESCARGOTSan edible snailESCAROLE n pl ESCAROLESa variety of endiveESCARP v ESCARPED ESCARPING ESCARPSto cause to slope steeplyESCHALOT n pl ESCHALOTSa shallotESCHAR n pl ESCHARSa hard dry scabESCHEAT v ESCHEATED ESCHEATING ESCHEATSto confiscateESCHEW v ESCHEWED ESCHEWING ESCHEWSto avoidESCHEWAL n pl ESCHEWALSthe act of eschewingESCHEWER n pl ESCHEWERSone that avoids somethingESCOLAR n pl ESCOLARSa food fishESCORT v ESCORTED ESCORTING ESCORTSto accompanyESCOT v ESCOTED ESCOTING ESCOTSto provide support forESCROW v ESCROWED ESCROWING ESCROWSto place in the custody of a third partyESCUAGE n pl ESCUAGESscutageESCUDO n pl ESCUDOSa former monetary unit of PortugalESCULENT n pl ESCULENTSsomething that is edibleESERINE n pl ESERINESa toxic alkaloidESKAR n pl ESKARSeskerESKER n pl ESKERSa narrow ridge of gravel and sandESNE n pl ESNESa laborer in AngloSaxon EnglandESOPHAGI npl tubes connecting the mouth to the stomachESOTERIC adj designed for a select fewESPALIER v ESPALIERED ESPALIERING ESPALIERSto furnish with a trellisESPANOL n pl ESPANOLESa native of SpainESPARTO n pl ESPARTOSa perennial grassESPECIAL adj specialESPIAL n pl ESPIALSthe act of espyingESPIED past tense of espyESPIEGLE adj playfulESPIES present 3d person sing of espyESPOIR n pl ESPOIRSa category of wrestlersESPOUSAL n pl ESPOUSALSa marriage ceremonyESPOUSE v ESPOUSED ESPOUSING ESPOUSESto marryESPOUSER n pl ESPOUSERSone that espousesESPRESSO n pl ESPRESSOSa strong coffeeESPRIT n pl ESPRITSspiritESPY v ESPIED ESPYING ESPIESto catch sight ofESQUIRE v ESQUIRED ESQUIRING ESQUIRESto escortESS n pl ESSESthe letter SESSAY v ESSAYED ESSAYING ESSAYSto tryESSAYER n pl ESSAYERSone that essaysESSAYIST n pl ESSAYISTSa writer of essays prose compositionsESSE n pl ESSESessential natureESSENCE n pl ESSENCESa fundamental nature or qualityESSOIN n pl ESSOINSan excuseESSONITE n pl ESSONITESa variety of garnetEST n pl ESTSa group technique for raising selfawarenessESTANCIA n pl ESTANCIASa cattle ranchESTATE v ESTATED ESTATING ESTATESto provide with landed propertyESTEEM v ESTEEMED ESTEEMING ESTEEMSto have a high opinion ofESTER n pl ESTERSa type of chemical compoundESTERASE n pl ESTERASESa type of enzymeESTERIFY v ESTERIFIED ESTERIFYING ESTERIFIESto convert into an esterESTHESIA n pl ESTHESIASthe ability to receive sensationESTHESIS n pl ESTHESISES or ESTHESESesthesiaESTHETE n pl ESTHETESan esthetic personESTHETIC n pl ESTHETICSa conception of beautyESTIMATE v ESTIMATED ESTIMATING ESTIMATESto make an approximate judgment ofESTIVAL adj pertaining to summerESTIVATE v ESTIVATED ESTIVATING ESTIVATESto spend the summerESTOP v ESTOPPED ESTOPPING ESTOPSto impede by estoppelESTOPPEL n pl ESTOPPELSa legal restraint preventing a person from contradicting his own previous statementESTOVERS npl necessities allowed by lawESTRAGON n pl ESTRAGONStarragonESTRAL adj estrousESTRANGE v ESTRANGED ESTRANGING ESTRANGESto alienateESTRAY v ESTRAYED ESTRAYING ESTRAYSto strayESTREAT v ESTREATED ESTREATING ESTREATSto copy from court records for use in prosecutionESTRIN n pl ESTRINSestroneESTRIOL n pl ESTRIOLSan estrogenESTROGEN n pl ESTROGENSa female sex hormone promoting or producing estrusESTRONE n pl ESTRONESan estrogenESTROUS adj pertaining to estrusESTRUAL adj estrousESTRUM n pl ESTRUMSestrusESTRUS n pl ESTRUSESthe period of heat in female mammalsESTUARY n pl ESTUARIESan inlet of the sea at a rivers lower endESURIENT adj greedyET a past tense of eatETA n pl ETASa Greek letterETAGERE n pl ETAGERESan ornamental standETALON n pl ETALONSan optical instrumentETAMIN n pl ETAMINSetamineETAMINE n pl ETAMINESa loosely woven fabricETAPE n pl ETAPESa warehouseETATISM n pl ETATISMSstate socialismETATIST adjETCETERA n pl ETCETERASa number of additional itemsETCH v ETCHED ETCHING ETCHESto engrave with acidETCHANT n pl ETCHANTSa substance used in etchingETCHER n pl ETCHERSone that etchesETCHING n pl ETCHINGSan etched designETERNAL n pl ETERNALSsomething lasting foreverETERNE adj everlastingETERNISE v ETERNISED ETERNISING ETERNISESto eternizeETERNITY n pl ETERNITIESinfinite timeETERNIZE v ETERNIZED ETERNIZING ETERNIZESto make everlastingETESIAN n pl ETESIANSan annually recurring windETH n pl ETHSedhETHANAL n pl ETHANALSa volatile liquid compoundETHANE n pl ETHANESa gaseous hydrocarbonETHANOL n pl ETHANOLSan alcoholETHENE n pl ETHENESethyleneETHEPHON n pl ETHEPHONSa synthetic plant growth regulatorETHER n pl ETHERSa volatile liquid used as an anestheticETHERIC adjETHEREAL adj airyETHERIFY v ETHERIFIED ETHERIFYING ETHERIFIESto convert into etherETHERISE v ETHERISED ETHERISING ETHERISESto etherizeETHERISH adj resembling etherETHERIZE v ETHERIZED ETHERIZING ETHERIZESto treat with etherETHIC n pl ETHICSa body of moral principlesETHICAL n pl ETHICALSa drug sold by prescription onlyETHICIAN n pl ETHICIANSan ethicistETHICIST n pl ETHICISTSa specialist in ethicsETHICIZE v ETHICIZED ETHICIZING ETHICIZESto make ethicalETHINYL n pl ETHINYLSethynylETHION n pl ETHIONSa pesticideETHMOID n pl ETHMOIDSa bone of the nasal cavityETHNARCH n pl ETHNARCHSthe ruler of a people or provinceETHNIC n pl ETHNICSa member of a particular ethnosETHNICAL adjETHNONYM n pl ETHNONYMSthe name of an ethnic groupETHNOS n pl ETHNOSESa group of people who share a common and distinctive cultureETHOGRAM n pl ETHOGRAMSa list of the behavior patterns of a speciesETHOLOGY n pl ETHOLOGIESthe study of animal behaviorETHOS n pl ETHOSESthe fundamental character of a cultureETHOXY n pl ETHOXIESethoxylETHOXYL n pl ETHOXYLSa univalent chemical radicalETHYL n pl ETHYLSa univalent chemical radicalETHYLATE v ETHYLATED ETHYLATING ETHYLATESto introduce the ethyl group intoETHYLENE n pl ETHYLENESa flammable gasETHYLIC adj pertaining to ethylETHYNE n pl ETHYNESa flammable gasETHYNYL n pl ETHYNYLSa univalent chemical radicalETICS npl a type of linguistic analysisETIC adjETIOLATE v ETIOLATED ETIOLATING ETIOLATESto whitenETIOLOGY n pl ETIOLOGIESthe study of the causes of diseasesETNA n pl ETNASa container for heating liquidsETOILE n pl ETOILESa starETOUFFEE n pl ETOUFFEESa Cajun stewETRIER n pl ETRIERSa short rope ladderETUDE n pl ETUDESa piece of music for the practice of a point of techniqueETUI n pl ETUISa case for holding small articlesETWEE n pl ETWEESetuiETYMON n pl ETYMONS or ETYMAthe earliest known form of a wordEUCAINE n pl EUCAINESan anestheticEUCALYPT n pl EUCALYPTSan evergreen treeEUCHARIS n pl EUCHARISESa flowering plantEUCHRE v EUCHRED EUCHRING EUCHRESto prevent from winning three tricks in euchre a card gameEUCLASE n pl EUCLASESa mineralEUCRITE n pl EUCRITESa type of meteoriteEUCRITIC adjEUDAEMON n pl EUDAEMONSeudemonEUDAIMON n pl EUDAIMONSeudemonEUDEMON n pl EUDEMONSa good spiritEUGENIA n pl EUGENIASa tropical evergreen treeEUGENICS npl the science of hereditary improvementEUGENIC adjEUGENIST n pl EUGENISTSa student of eugenicsEUGENOL n pl EUGENOLSan aromatic liquidEUGLENA n pl EUGLENASa freshwater protozoanEUGLENID n pl EUGLENIDSa euglenaEULACHAN n pl EULACHANSeulachonEULACHON n pl EULACHONSa marine food fishEULOGIA n pl EULOGIAEholy breadEULOGIA n pl EULOGIASa blessingEULOGIES pl of eulogyEULOGISE v EULOGISED EULOGISING EULOGISESto eulogizeEULOGIST n pl EULOGISTSone that eulogizesEULOGIUM n pl EULOGIUMS or EULOGIAa eulogyEULOGIZE v EULOGIZED EULOGIZING EULOGIZESto praise highlyEULOGY n pl EULOGIESa formal expression of high praiseEUNUCH n pl EUNUCHSa castrated manEUONYMUS n pl EUONYMUSESany of a genus of shrubs or small treesEUPATRID n pl EUPATRIDS or EUPATRIDAEan aristocrat of ancient AthensEUPEPSIA n pl EUPEPSIASgood digestionEUPEPTIC adjEUPEPSY n pl EUPEPSIESeupepsiaEUPHENIC adj dealing with biological improvementEUPHONY n pl EUPHONIESpleasant soundEUPHONIC adjEUPHORIA n pl EUPHORIASa feeling of wellbeingEUPHORIC adjEUPHOTIC adj pertaining to the upper layer of a body of waterEUPHRASY n pl EUPHRASIESan annual herbEUPHROE n pl EUPHROESa device used to adjust a shipboard awningEUPHUISM n pl EUPHUISMSan artificially elegant style of speech or writingEUPHUIST n pl EUPHUISTSone given to euphuismEUPLOID n pl EUPLOIDSa cell having three or more identical genomesEUPLOIDY n pl EUPLOIDIESthe state of being a euploidEUPNEA n pl EUPNEASnormal breathingEUPNEIC adjEUPNOEA n pl EUPNOEASeupneaEUPNOEIC adjEUREKA n pl EUREKASa fortunate discoveryEURIPUS n pl EURIPIa swift sea channelEURO n pl EUROSthe unit of currency used by most European countriesEUROKY n pl EUROKIESthe ability of an organism to live under variable conditionsEUROKOUS adjEUROLAND n pl EUROLANDSthe eurozoneEUROPIUM n pl EUROPIUMSa metallic elementEUROZONE n pl EUROZONESthe area formed by the countries using the euroEURYBATH n pl EURYBATHSan organism that can live in a wide range of water depthsEURYOKY n pl EURYOKIESeurokyEURYTHMY n pl EURYTHMIESharmony of movement or structureEUSOCIAL adj pertaining to an animal society marked by specialization of tasksEUSTACY n pl EUSTACIESa worldwide change in sea levelEUSTATIC adjEUSTASY n pl EUSTASIESeustacyEUSTELE n pl EUSTELESa plant partEUTAXY n pl EUTAXIESgood orderEUTECTIC n pl EUTECTICSan alloy that has the lowest possible melting pointEUTROPHY n pl EUTROPHIEShealthful nutritionEUXENITE n pl EUXENITESa mineralEVACUANT n pl EVACUANTSa cathartic medicineEVACUATE v EVACUATED EVACUATING EVACUATESto remove from a dangerous areaEVACUEE n pl EVACUEESone that is evacuatedEVADE v EVADED EVADING EVADESto escape or avoid by cleverness or deceitEVADABLE EVADIBLE adjEVADER n pl EVADERSone that evadesEVALUATE v EVALUATED EVALUATING EVALUATESto determine the value ofEVANESCE v EVANESCED EVANESCING EVANESCESto fade awayEVANGEL n pl EVANGELSa preacher of the gospelEVANISH v EVANISHED EVANISHING EVANISHESto vanishEVASION n pl EVASIONSthe act of evadingEVASIVE adj tending to evadeEVE n pl EVESeveningEVECTION n pl EVECTIONSirregularity in the moons motionEVEN adj EVENER EVENESTflat and smoothEVEN v EVENED EVENING EVENSto make evenEVENER n pl EVENERSone that evensEVENFALL n pl EVENFALLStwilightEVENING n pl EVENINGSthe latter part of the day and early part of the nightEVENLY adv in an even mannerEVENNESS n pl EVENNESSESthe state of being evenEVENSONG n pl EVENSONGSan evening prayer serviceEVENT n pl EVENTSsomething that occursEVENTER n pl EVENTERSa horse or rider competing in eventingEVENTFUL adj momentousEVENTIDE n pl EVENTIDESeveningEVENTING n pl EVENTINGSan equestrian competitionEVENTIVE adj denoting an eventEVENTUAL adj occurring at a later timeEVER adv at all timesEVERMORE adv foreverEVERSION n pl EVERSIONSthe act of evertingEVERT v EVERTED EVERTING EVERTSto turn outward or inside outEVERTOR n pl EVERTORSa muscle that turns a part outwardEVERY adj each without exceptionEVERYDAY n pl EVERYDAYSthe routine dayEVERYMAN n pl EVERYMENthe typical or ordinary manEVERYONE pron every personEVERYWAY adv in every wayEVICT v EVICTED EVICTING EVICTSto expel by legal processEVICTEE n pl EVICTEESone that is evictedEVICTION n pl EVICTIONSthe act of evictingEVICTOR n pl EVICTORSone that evictsEVIDENCE v EVIDENCED EVIDENCING EVIDENCESto indicate clearlyEVIDENT adj clear to the vision or understandingEVIL adj EVILER EVILEST or EVILLER EVILLESTmorally badEVIL n pl EVILSsomething that is evilEVILDOER n pl EVILDOERSone that does evilEVILLY adv in an evil mannerEVILNESS n pl EVILNESSESthe quality of being evilEVINCE v EVINCED EVINCING EVINCESto show clearlyEVINCIVE adjEVITE v EVITED EVITING EVITESto avoidEVITABLE adjEVOCABLE adj capable of being evokedEVOCATOR n pl EVOCATORSone that evokesEVOKE v EVOKED EVOKING EVOKESto call forthEVOKER n pl EVOKERSan evocatorEVOLUTE n pl EVOLUTESa type of geometric curveEVOLVE v EVOLVED EVOLVING EVOLVESto developEVOLVER n pl EVOLVERSone that evolvesEVONYMUS n pl EVONYMUSESeuonymusEVULSE v EVULSED EVULSING EVULSESto extract forciblyEVULSION n pl EVULSIONSthe act of pulling outEVZONE n pl EVZONESa Greek soldierEWE n pl EWESa female sheepEWER n pl EWERSa large pitcherEX v EXED EXING EXESto cross outEXABYTE n pl EXABYTESone quintillion bytesEXACT adj EXACTER EXACTESTpreciseEXACT v EXACTED EXACTING EXACTSto force the payment or yielding ofEXACTA n pl EXACTASa type of horse racing betEXACTER n pl EXACTERSone that exactsEXACTION n pl EXACTIONSthe act of exactingEXACTLY adv in an exact mannerEXACTOR n pl EXACTORSexacterEXAHERTZ n pl EXAHERTZone quintillion hertzEXALT v EXALTED EXALTING EXALTSto raiseEXALTER n pl EXALTERSone that exaltsEXAM n pl EXAMSan examinationEXAMEN n pl EXAMENSa critical studyEXAMINE v EXAMINED EXAMINING EXAMINESto inspectEXAMINEE n pl EXAMINEESone that is taking an examinationEXAMINER n pl EXAMINERSone that examinesEXAMPLE v EXAMPLED EXAMPLING EXAMPLESto show by representationEXANTHEM n pl EXANTHEMSa skin eruptionEXAPTED adj utililized for a function other than the one developed through natural selectionEXAPTIVE adj pertaining to an exapted functionEXARCH n pl EXARCHSthe ruler of a province in the Byzantine EmpireEXARCHAL adjEXARCHY n pl EXARCHIESthe domain of an exarchEXCAVATE v EXCAVATED EXCAVATING EXCAVATESto dig outEXCEED v EXCEEDED EXCEEDING EXCEEDSto go beyondEXCEEDER n pl EXCEEDERSone that exceedsEXCEL v EXCELLED EXCELLING EXCELSto surpass othersEXCEPT v EXCEPTED EXCEPTING EXCEPTSto leave outEXCERPT v EXCERPTED EXCERPTING EXCERPTSto pick out a passage from for quotingEXCESS v EXCESSED EXCESSING EXCESSESto eliminate the position ofEXCHANGE v EXCHANGED EXCHANGING EXCHANGESto give and receive reciprocallyEXCIDE v EXCIDED EXCIDING EXCIDESto exciseEXCIMER n pl EXCIMERSa dimer that exists in an excited stateEXCIPLE n pl EXCIPLESa rim around the hymenium of various lichensEXCISE v EXCISED EXCISING EXCISESto remove by cutting outEXCISION n pl EXCISIONSthe act of excisingEXCITANT n pl EXCITANTSa stimulantEXCITE v EXCITED EXCITING EXCITESto arouse the emotions ofEXCITER n pl EXCITERSone that excitesEXCITON n pl EXCITONSa phenomenon occurring in an excited crystalEXCITOR n pl EXCITORSexciterEXCLAIM v EXCLAIMED EXCLAIMING EXCLAIMSto cry out suddenlyEXCLAVE n pl EXCLAVESa portion of a country which is isolated in foreign territoryEXCLUDE v EXCLUDED EXCLUDING EXCLUDESto shut outEXCLUDER n pl EXCLUDERSone that excludesEXCRETA npl excreted matterEXCRETAL adjEXCRETE v EXCRETED EXCRETING EXCRETESto separate and eliminate from an organic bodyEXCRETER n pl EXCRETERSone that excretesEXCURSUS n pl EXCURSUSESa long appended exposition of a topicEXCUSE v EXCUSED EXCUSING EXCUSESto apologize forEXCUSER n pl EXCUSERSone that excusesEXEC n pl EXECSan executive officerEXECRATE v EXECRATED EXECRATING EXECRATESto curseEXECUTE v EXECUTED EXECUTING EXECUTESto carry outEXECUTER n pl EXECUTERSexecutorEXECUTOR n pl EXECUTORSone that executesEXEDRA n pl EXEDRAS or EXEDRAEa curved outdoor benchEXEGESIS n pl EXEGESEScritical explanation or analysisEXEGETIC adjEXEGETE n pl EXEGETESone skilled in exegesisEXEMPLAR n pl EXEMPLARSone that is worthy of being copiedEXEMPLUM n pl EXEMPLAan exampleEXEMPT v EXEMPTED EXEMPTING EXEMPTSto free from an obligation required of othersEXEQUY n pl EXEQUIESa funeral processionEXEQUIAL adjEXERCISE v EXERCISED EXERCISING EXERCISESto make use ofEXERGUE n pl EXERGUESa space on a coinEXERGUAL adjEXERT v EXERTED EXERTING EXERTSto put into actionEXERTION n pl EXERTIONSthe act of exertingEXERTIVE adj tending to exertEXEUNT v they leave the stage  used as a stage directionEXHALANT n pl EXHALANTSsomething that exhalesEXHALE v EXHALED EXHALING EXHALESto expel air or vaporEXHALENT n pl EXHALENTSexhalantEXHAUST v EXHAUSTED EXHAUSTING EXHAUSTSto use upEXHEDRA n pl EXHEDRAEexedraEXHIBIT v EXHIBITED EXHIBITING EXHIBITSto present for public viewingEXHORT v EXHORTED EXHORTING EXHORTSto advise urgentlyEXHORTER n pl EXHORTERSone that exhortsEXHUME v EXHUMED EXHUMING EXHUMESto dig out of the earthEXHUMER n pl EXHUMERSone that exhumesEXIGENCE n pl EXIGENCESexigencyEXIGENCY n pl EXIGENCIESurgencyEXIGENT adj urgentEXIGIBLE adj liable to be demandedEXIGUITY n pl EXIGUITIESthe state of being exiguousEXIGUOUS adj meagerEXILE v EXILED EXILING EXILESto banish from ones own countryEXILABLE adjEXILER n pl EXILERSone that exilesEXILIAN adj exilicEXILIC adj pertaining to exile banishment from ones own countryEXILING present participle of exileEXIMIOUS adj excellentEXINE n pl EXINESthe outer layer of certain sporesEXIST v EXISTED EXISTING EXISTSto beEXISTENT n pl EXISTENTSsomething that existsEXIT v EXITED EXITING EXITSto go outEXITLESS adj lacking a way outEXOCARP n pl EXOCARPSthe epicarpEXOCRINE n pl EXOCRINESan external secretionEXOCYTIC adj pertaining to cellular excretionEXODERM n pl EXODERMSthe ectodermEXODOS n pl EXODOIa concluding dramatic sceneEXODUS n pl EXODUSESa movement awayEXOERGIC adj releasing energyEXOGAMY n pl EXOGAMIESmarriage outside of a particular groupEXOGAMIC adjEXOGEN n pl EXOGENSa type of plantEXOGENIC adj formed or occurring on the surface of the earthEXON n pl EXONSa sequence in the genetic codeEXONIC adjEXONUMIA npl collectible items other than coins or paper moneyEXONYM n pl EXONYMSa name for a people used by outsiders and not by the people themselvesEXORABLE adj persuadableEXORCISE v EXORCISED EXORCISING EXORCISESto free of an evil spiritEXORCISM n pl EXORCISMSthe act of exorcisingEXORCIST n pl EXORCISTSone who practices exorcismEXORCIZE v EXORCIZED EXORCIZING EXORCIZESto exorciseEXORDIUM n pl EXORDIUMS or EXORDIAa beginningEXORDIAL adjEXOSMOSE n pl EXOSMOSESa form of osmosisEXOSMIC adjEXOSPORE n pl EXOSPORESthe outer coat of a sporeEXOTERIC adj suitable for the publicEXOTIC n pl EXOTICSsomething from another part of the worldEXOTICA npl things excitingly different or unusualEXOTISM n pl EXOTISMSan exoticEXOTOXIN n pl EXOTOXINSan excreted toxinEXOTOXIC adjEXPAND v EXPANDED EXPANDING EXPANDSto increase in size or volumeEXPANDER n pl EXPANDERSone that expandsEXPANDOR n pl EXPANDORSa type of transducerEXPANSE n pl EXPANSESa wide continuous areaEXPAT n pl EXPATSan expatriate personEXPECT v EXPECTED EXPECTING EXPECTSto anticipateEXPECTER n pl EXPECTERSone that expectsEXPEDITE v EXPEDITED EXPEDITING EXPEDITESto speed up the progress ofEXPEL v EXPELLED EXPELLING EXPELSto force outEXPELLEE n pl EXPELLEESa deporteeEXPELLER n pl EXPELLERSone that expelsEXPEND v EXPENDED EXPENDING EXPENDSto use upEXPENDER n pl EXPENDERSone that expendsEXPENSE v EXPENSED EXPENSING EXPENSESto charge with costsEXPERT v EXPERTED EXPERTING EXPERTSto serve as an authorityEXPERTLY adv skillfullyEXPIABLE adj capable of being expiatedEXPIATE v EXPIATED EXPIATING EXPIATESto atone forEXPIATOR n pl EXPIATORSone that expiatesEXPIRE v EXPIRED EXPIRING EXPIRESto come to an endEXPIRER n pl EXPIRERSone that expiresEXPIRY n pl EXPIRIESa terminationEXPLAIN v EXPLAINED EXPLAINING EXPLAINSto make plain or understandableEXPLANT v EXPLANTED EXPLANTING EXPLANTSto remove from the natural site of growth and place in a mediumEXPLICIT n pl EXPLICITSa statement formerly used at the close of a bookEXPLODE v EXPLODED EXPLODING EXPLODESto blow upEXPLODER n pl EXPLODERSone that explodesEXPLOIT v EXPLOITED EXPLOITING EXPLOITSto take advantage ofEXPLORE v EXPLORED EXPLORING EXPLORESto travel through for the purpose of discoveryEXPLORER n pl EXPLORERSone that exploresEXPO n pl EXPOSa public exhibitionEXPONENT n pl EXPONENTSone who expoundsEXPORT v EXPORTED EXPORTING EXPORTSto send to other countries for commercial purposesEXPORTER n pl EXPORTERSone that exportsEXPOSAL n pl EXPOSALSan exposureEXPOSE v EXPOSED EXPOSING EXPOSESto lay open to viewEXPOSER n pl EXPOSERSone that exposesEXPOSIT v EXPOSITED EXPOSITING EXPOSITSto expoundEXPOSURE n pl EXPOSURESthe act of exposingEXPOUND v EXPOUNDED EXPOUNDING EXPOUNDSto explain in detailEXPRESS v EXPRESSED EXPRESSING EXPRESSESto set forth in wordsEXPRESSO n pl EXPRESSOSespressoEXPULSE v EXPULSED EXPULSING EXPULSESto expelEXPUNGE v EXPUNGED EXPUNGING EXPUNGESto deleteEXPUNGER n pl EXPUNGERSone that expungesEXSCIND v EXSCINDED EXSCINDING EXSCINDSto cut outEXSECANT n pl EXSECANTSa trigonometric function of an angleEXSECT v EXSECTED EXSECTING EXSECTSto cut outEXSERT v EXSERTED EXSERTING EXSERTSto thrust outEXTANT adj still in existenceEXTEND v EXTENDED EXTENDING EXTENDSto stretch out to full lengthEXTENDER n pl EXTENDERSa substance added to another substanceEXTENSOR n pl EXTENSORSa muscle that extends a limbEXTENT n pl EXTENTSthe range over which something extendsEXTERIOR n pl EXTERIORSa part or surface that is outsideEXTERN n pl EXTERNSa nonresident of an institutionEXTERNAL n pl EXTERNALSan exteriorEXTERNE n pl EXTERNESexternEXTINCT v EXTINCTED EXTINCTING EXTINCTSto extinguishEXTOL v EXTOLLED EXTOLLING EXTOLSto praise highlyEXTOLL v EXTOLLED EXTOLLING EXTOLLSto extolEXTOLLER n pl EXTOLLERSone that extolsEXTORT v EXTORTED EXTORTING EXTORTSto obtain from a person by violence or intimidationEXTORTER n pl EXTORTERSone that extortsEXTRA n pl EXTRASsomething additionalEXTRACT v EXTRACTED EXTRACTING EXTRACTSto pull or draw outEXTRADOS n pl EXTRADOSESthe outer curve of an archEXTRANET n pl EXTRANETSan intranet that permits limited access by outsidersEXTREMA pl of extremumEXTREME adj EXTREMER EXTREMESTexisting in a very high degreeEXTREME n pl EXTREMESthe highest degreeEXTREMUM n pl EXTREMAa maximum or a minimum of a mathematical functionEXTROPY n pl EXTROPIESthe prediction that human intelligence will enable life to expand throughout the universeEXTRORSE adj facing outwardEXTRUDE v EXTRUDED EXTRUDING EXTRUDESto force thrust or push outEXTRUDER n pl EXTRUDERSone that extrudesEXTUBATE v EXTUBATED EXTUBATING EXTUBATESto remove a tube fromEXUDATE n pl EXUDATESan exuded substanceEXUDE v EXUDED EXUDING EXUDESto ooze forthEXULT v EXULTED EXULTING EXULTSto rejoice greatlyEXULTANT adj exultingEXURB n pl EXURBSa residential area lying beyond the suburbs of a cityEXURBAN adjEXURBIA n pl EXURBIASan exurbEXUVIAE npl the molted covering of an animalEXUVIAL adjEXUVIATE v EXUVIATED EXUVIATING EXUVIATESto moltEYAS n pl EYASESa young hawkEYASS n pl EYASSESeyasEYE n pl EYES or EYEN or EYNEthe organ of sightEYE v EYED EYING or EYEING EYESto watch closelyEYEABLE adjEYEBALL v EYEBALLED EYEBALLING EYEBALLSto eyeEYEBAR n pl EYEBARSa metal bar with a loop at one or both endsEYEBEAM n pl EYEBEAMSa glanceEYEBLACK n pl EYEBLACKSa dark pigment applied under the eyesEYEBLINK n pl EYEBLINKSan instantEYEBOLT n pl EYEBOLTSa type of bolt or screwEYEBROW n pl EYEBROWSthe ridge over the eyeEYECUP n pl EYECUPSa cup used for applying lotions to the eyesEYED past tense of eyeEYEDNESS n pl EYEDNESSESpreference for the use of one eye over the otherEYEDROPS npl a medicated solution for the eyes applied in dropsEYEFOLD n pl EYEFOLDSa fold of skin of the upper eyelidEYEFUL n pl EYEFULSa complete viewEYEGLASS n pl EYEGLASSESa lens used to aid visionEYEHOLE n pl EYEHOLESa small openingEYEHOOK n pl EYEHOOKSa type of hookEYELASH n pl EYELASHESa hair growing on the edge of an eyelidEYELESS adj lacking eyesEYELET v EYELETTED EYELETTING EYELETS or EYELETED EYELETING EYELETSto make a small hole inEYELID n pl EYELIDSthe lid of skin that can be closed over an eyeballEYELIFT n pl EYELIFTSplastic surgery of the eyelidEYELIKE adj resembling an eyeEYELINER n pl EYELINERSmakeup for the eyesEYEN a pl of eyeEYEPATCH n pl EYEPATCHESa patch worn to protect an injured eyeEYEPIECE n pl EYEPIECESthe lens or lens group nearest the eye in an optical instrumentEYEPOINT n pl EYEPOINTSthe point at which an eye is placed in using an optical instrumentEYER n pl EYERSone that eyesEYESHADE n pl EYESHADESa visor for shading the eyesEYESHINE n pl EYESHINESa reflection from the eyes of some animalsEYESHOT n pl EYESHOTSthe range of visionEYESIGHT n pl EYESIGHTSthe ability to seeEYESOME adj pleasant to look atEYESORE n pl EYESORESsomething offensive to the sightEYESPOT n pl EYESPOTSa simple visual organ of lower animalsEYESTALK n pl EYESTALKSa stalklike structure with an eye at its tipEYESTONE n pl EYESTONESa disk used to remove foreign matter from the eyeEYETOOTH n pl EYETEETHa cuspidEYEWASH n pl EYEWASHESan eye lotionEYEWATER n pl EYEWATERSan eyewashEYEWEAR n pl EYEWEARa device worn on or over the eyesEYEWINK n pl EYEWINKSa wink of the eyeEYING a present participle of eyeEYNE a pl of eyeEYRA n pl EYRASa wild cat of tropical AmericaEYRE n pl EYRESa journeyEYRIE n pl EYRIESaerieEYRIR n pl AURARa monetary unit of IcelandEYRY n pl EYRIESaerie").
+এন্ট্রি(ফা, ন, [ফাস], "ডায়াটোনিক সঙ্গীত স্কেলের চতুর্থ সুর").
+entry(fab, n, [fabs], "কিছু তৈরি বা নির্মাণ করা হয়েছে")।
+এন্ট্রি(ফ্যাব, বিশেষণ, [], "FABBER FABBESTঅসাধারণ")।
+এন্ট্রি(গল্প, v, [গল্পিত,গল্পরচনা,গল্পগুলি], "কাল্পনিক গল্প রচনা বা বলা").
+এন্ট্রি(ф্যাবলার, ন, [ф্যাবলারস], "একটি যা গল্প বলে")।
+এন্ট্রি(ফাবলিও, এন, [ফাবলিও], "মধ্যযুগীয় ফ্রান্সে জনপ্রিয় একটি ছোট ছন্দময় গল্প")।
+এন্ট্রি(ফ্যাবলিং, বর্তমান, [], "ফ্যাবল এর ক্রিয়াবাচক বিশেষ্য").
+এন্ট্রি(ফ্যাব্রিক, ন, [ফ্যাব্রিকস], "একটি বোনা অনুভূত বা বোনা উপাদান")।
+এন্ট্রি(ফেব্রিক, স, [ফেব্রিকস], "একটি প্যারিশ দল যা গির্জার সম্পত্তি নিয়ে কাজ করে")।
+এন্ট্রি(ফ্যাবিউলার, বিশেষণ, [], "কথিত").
+প্রবেশ(গল্পকথন, ক্রিয়া, [গল্পকথিত, গল্পকথা বলা, গল্পকথায়], "রূপকথা রচনা করা")।
+entry(ফ্যাবুলিজম, ন, [ফ্যাবুলিজমস], "প্রাত্যহিক পরিবেশে কল্পনা-প্রবণ উপাদানগুলির সংযোজন").
+এন্ট্রি(ফ্যাবিউলিস্ট, ন, [ফ্যাবিউলিস্টস], "একজন মিথ্যাবাদী")।
+এন্ট্রি(অসাধারণ, বিশেষণ, [], "প্রায় অবিশ্বাস্য").
+এন্ট্রি(ফ্যাসেড, ন, [ফ্যাসেডস], "একটি ভবনের সম্মুখভাগ")।
+এন্ট্রি(মুখ, v, [মুখোমুখি হয়েছে, মুখোমুখি হচ্ছে, মুখোমুখি হয়], "প্রতিদ্বন্দ্বিতা বা সাহসের সাথে সম্মুখীন হওয়াFACEABLE বিশেষণ").
+entry(facedown, n, [facedowns], "প্রতিদ্বন্দ্বীদের মধ্যে একটি মুখোমুখি সংঘর্ষ").
+entry(faceless, adj, [], "ব্যক্তিগত স্বাতন্ত্র্য বা পরিচয়হীন").
+এন্ট্রি(ফেসলিফট, ভি, [ফেসলিফটেড, ফেসলিফটিং, ফেসলিফটস], "মুখে প্লাস্টিক সার্জারি করা")।
+এন্ট্রি(ফেসমাস্ক, ন, [ফেসমাস্কস], "মুখ ঢাকার জন্য একটি যন্ত্র").
+এন্ট্রি(ফেসঅফ, এন, [ফেসঅফস], "হকি খেলা শুরু করার কর্ম").
+এন্ট্রি(ফেসার, এন, [ফেসার্স], "যে সম্মুখীন হয়")।
+এন্ট্রি(ফ্যাসেট, v, [ফ্যাসেটেড,ফ্যাসেটিং,ফ্যাসেটস], "অথবা ফ্যাসেটেড ফ্যাসেটিং ফ্যাসেটস ছোট সমতল পৃষ্ঠতল কাটতে").
+entry(facete, adj, [], "প্রাণবন্তFACETELY ক্রি").
+এন্ট্রি(ফাসেতিয়াই, এনপিএল, [], "উপহাসপূর্ণ উক্তি বা রচনা")।
+এন্ট্রি(ফেসেটিং, এন, [ফেসেটিংস], "কাটা রত্নের একটি পৃষ্ঠতল")।
+এন্ট্রি(faceup, adv, [], "সামনের অংশ ওপরে রেখে").
+entry(facia, n, [faciae], "অথবা FACIASfascia").
+এন্ট্রি(মুখমণ্ডলীয়, নং, [মুখমণ্ডলীয়স], "মুখের একটি চিকিৎসা")।
+এন্ট্রি(মুখাবয়বে, ক্রিয়া-বিশেষণ, [], "মুখের বিবেচনায়")।
+entry(faciend, n, [faciends], "অন্য একটি সংখ্যার সাথে গুণ করার জন্য একটি সংখ্যা")।
+entry(facies, n, [facies], "সাধারণ বৈশিষ্ট্য").
+entry(সহজ, বিশেষণ, [], "সহজেই অর্জিত বা সম্পাদিতFACILELY ক্রিয়া-বিশেষণ").
+এন্ট্রি(সুবিধা, ন, [সুবিধাসমূহ], "সহজতার গুণাবলী")।
+এন্ট্রি(ফেসিং, এন, [ফেসিংস], "পোশাকের প্রান্তে একটি আস্তরণ")।
+এন্ট্রি(তথ্য, এন, [তথ্যাবলী], "নিশ্চিতভাবে জানা কিছুFACTFUL বিশেষণ").
+এন্ট্রি(ফ্যাকটিস, এন, [ফ্যাকটিসেস], "একটি রাবার সদৃশ উপাদান")।
+এন্ট্রি(প্রতিদ্বন্দ্বিতা, ন, [প্রতিদ্বন্দ্বিতাগুলি], "একটি বৃহত্তর দলের মধ্যে একটি ছোট গোষ্ঠী")।
+এন্ট্রি(ফ্যাকটিয়াস, বিশেষণ, [], "বিবাদের প্রসারক").
+প্রবিষ্�(তথ্যাংশ, ন, [তথ্যাংশসমূহ], "সংক্ষিপ্ত সংবাদ আইটেম")।
+এন্ট্রি(ফ্যাক্টর, ভি, [ফ্যাক্টর্ড, ফ্যাক্টরিং, ফ্যাক্টর্স], "দুই বা ততোধিক রাশির গুণফল হিসেবে প্রকাশ করা").
+এন্ট্রি(কারখানা, এন, [কারখানাগুলো], "একটি ভবন বা ভবনগুলোর গোষ্ঠী যেখানে পণ্য উত্পাদিত হয়")।
+entry(factotum, n, [factotums], "বিভিন্ন ধরনের কাজ করা একজন ব্যক্তি").
+entry(বাস্তবমুখী, বিশেষণ, [], "তথ্যের সাথে সম্পর্কিত")।
+এন্ট্রি(ফ্যাকটাম, ন, [ফ্যাকটামস], "অথবা FACTAa মামলার আপিল হওয়া সংক্রান্ত তথ্যাবলী").
+এন্ট্রি(ফ্যাকচার, এন, [ফ্যাকচুরেস], "কিছু তৈরি করার কর্ম")।
+এন্ট্রি(ফ্যাকুলা, এন, [ফ্যাকুলাই], "সূর্যের পৃষ্ঠে একটি অস্বাভাবিক উজ্জ্বল স্থানেরFACULAR বিশেষণ")।
+এন্ট্রি(শিক্ষকবৃন্দ, n, [শিক্ষকবৃত্তিগুলি], "একটি অন্তর্নিহিত ক্ষমতা বা দক্ষতা")।
+এন্ট্রি(ফ্যাড, ন, [ফ্যাডস], "একটি চর্চা বা আগ্রহ যা সংক্ষিপ্ত জনপ্রিয়তা উপভোগ করে")।
+এন্ট্রি(ফেডেবল, বিশেষণ, [], "মলিন হওয়ার সক্ষমতা")।
+এন্ট্রি(ফ্যাডিয়ার, তুলনামূলক, [], "অফ ফ্যাডি")।
+entry(faddiest, superlative, [], "ফ্যাডির").
+entry(faddish, adj, [], "ফ্যাড গ্রহণ করতে আগ্রহী")।
+প্রবেশ(ফ্যাডিজম, ন, [ফ্যাডিজমস], "ফ্যাড নেওয়ার প্রবণতা")।
+এন্ট্রি(ফ্যাডিস্ট, নার্স, [ফ্যাডিস্টস], "একজন ফ্যাডিশ ব্যক্তি")।
+entry(faddy, adj, [], "FADDIER FADDIESTfaddish").
+এন্ট্রি(ফেইড, v, [ফেইডেড,ফেইডিং,ফেইডস], "রং বা উজ্জ্বলতা হারানোFADEDLY ক্রি").
+ফেইডঅ্যাওয়ে প্রবেশিকা, গ, [ফেইডঅ্যাওয়েগুলি], "বেসবলে একটি প্রকারের পিচ"।
+অন্তর্ভুক্তি(ফেডইন, ন, [ফেডইনস], "একটি চিত্রের উজ্জ্বলতায় ধীরে ধীরে বৃদ্ধি")।
+entry(fadeless, adj, [], "ফুরায় না").
+এন্ট্রি(ফেডআউট, ন, [ফেডআউটস], "একটি চিত্রের ধীরে ধীরে অদৃশ্য হওয়া")।
+এন্ট্রি(ফেডার, ন, [ফেডার্স], "যা বিবর্ণ করে")।
+এন্ট্রি(ফ্যাজ, ক্রি, [ফ্যাজড, ফ্যাজিং, ফ্যাজেস], "সফল হওয়া").
+এন্ট্রি(ফেডিং, ন, [ফেডিংস], "একটি আইরিশ নৃত্য")।
+এন্ট্রি(ফ্যাডলাইক, বিশেষণ, [], "ফ্যাডের মতো দেখতে")।
+এন্ট্রি(ফাদো, ন, [ফাদোস], "একটি পর্তুগিজ লোকগান")।
+এন্ট্রি(বিজার, নপ্লু, [], "বিজারীয় বিশেষণ").
+entry(faena, n, [faenas], "বুলফাইটে মাতাদোরের দ্বারা তৈরি একটি পাসের সিরিজ").
+এন্ট্রি(ফেইরি, ন, [ফেইরিজ], "একটি পরী")।
+entry(ফেইরি, ন, [ফেইরিগুলি], "ফেইরি").
+এন্ট্রি(ফ্যাফ, ক্রি, [ফ্যাফড, ফ্যাফিং, ফ্যাফস], "হায় হুতাশ করা").
+entry(fag, v, [fagged,fagging,fags], "কঠিন পরিশ্রম করে ক্লান্ত করা").
+এন্ট্রি(ফ্যাগট, v, [ফ্যাগটেড,ফ্যাগটিং,ফ্যাগটস], "ফ্যাগট করতে").
+এন্ট্রি(ফেগিন, ন, [ফেগিনস], "একজন ব্যক্তি যিনি অন্যদের অপরাধে শিক্ষাদান করেন")।
+এন্ট্রি(ফ্যাগট, ক্রিয়া, [ফ্যাগোটেড, ফ্যাগোটিং, ফ্যাগোটস], "একটি বান্ডেলে একসাথে বাঁধা")।
+entry(fagoter, n, [fagoters], "যে ফাগোট করে")।
+এন্ট্রি(ফ্যাগোটিং, ন, [ফ্যাগোটিংস], "এক প্রকারের এমব্রয়ডারি")।
+এন্ট্রি(ফোহ, ন, [ফোহ্স], "ফা").
+এন্ট্রি(ফাহ্লব্যান্ড, ন, [ফাহ্লব্যান্ডস], "ধাতব সালফাইডে ভরা পাথরের একটি স্তর বা ব্যান্ড")।
+এনট্রি(ফাইয়েন্স, এন, [ফাইয়েন্সেস], "এক ধরনের চকচকে সেরামিক").
+প্রবেশ(ব্যর্থ, v, [ব্যর্থ হয়েছে, ব্যর্থ হচ্ছে, ব্যর্থ হয়], "প্রয়াসে অসফল হওয়া")।
+এন্ট্রি(ব্যর্থতা, ন, [ব্যর্থতাসমূহ], "একটি ক্ষুদ্র ত্রুটি বা দুর্বলতা")।
+এন্ট্রি(ফাইলে, এন, [ফাইল্লেস], "একটি বুনন কাপড়")।
+এন্ট্রি(ব্যর্থতা, ন, [ব্যর্থতা], "ব্যর্থ হওয়ার ক্রিয়া")।
+entry(fain, adj, [], "FAINER FAINESTগ্ল্যাড").
+এন্ট্রি(ফেইনিয়েন্ট, ন, [ফেইনিয়েন্টস], "একজন অলস ব্যক্তি")।
+এন্ট্রি(ম্লান, বিশেষণ, [], "দুর্বল বা শক্তিহীনতার অভাব FAINTER FAINTEST")।
+এন্ট্রি(ফেইন্ট, v, [ফেইন্টেড, ফেইন্টিং, ফেইন্টস], "অচেতন হওয়া").
+entry(fainter, n, [fainters], "যে অজ্ঞান হয়").
+এন্ট্রি(ফেইন্টিশ, বিশেষণ, [], "কিছুটা ম্লান")।
+entry(অস্পষ্টভাবে, ক্রিয়া-বিশেষণ, [], "একটি অস্পষ্ট ভাবে").
+entry(ন্যায়সঙ্গত, বিশেষণ, [], "ন্যায্যতর ন্যায়সঙ্গতম পক্ষপাতিত্ব অসততা বা অন্যায় থেকে মুক্ত").
+এন্ট্রি(ফেয়ার, ভি, [ফেয়ারড, ফেয়ারিং, ফেয়ার্স], "মসৃণ করা").
+প্রবেশ(মেলা‌যাত্রী, ন, [মেলা‌যাত্রীরা], "যে মেলায় যোগ দেয়")।
+এন্ট্রি(ফেয়ারিস, প্ল, [], "পরীর").
+entry(ফেয়ারিং, n, [ফেয়ারিংস], "একটি উড়োজাহাজে একটি গঠন যা টান কমাতে কাজ করে")।
+এন্ট্রি(ফেয়ারিশ, বিশেষণ, [], "মোটামুটি ভালো")।
+এন্ট্রি(ফেয়ারলেড, ন, [ফেয়ারলেডস], "একটি যন্ত্র যা একটি জাহাজের রিগিংকে স্থানে ধরে রাখে")।
+entry(ফেয়ারলি, ক্রিয়া-বিশেষণ, [], "ন্যায়সঙ্গতভাবে").
+entry(ন্যায়বিচার, n, [ন্যায়বিচারসমূহ], "ন্যায়বান হওয়ার গুণ").
+প্রবেশ(ফেয়ারওয়ে, ন, [ফেয়ারওয়েস], "টি এবং সবুজ অংশের মধ্যে একটি গলফ কোর্সের মাজা অংশ")।
+এন্ট্রি(পরী, বিশেষ্য, [পরীরা], "একটি কল্পিত অতিপ্রাকৃত সত্তা")।
+এন্ট্রি(ফেরি, বিশেষণ, [], "ফেয়ারিয়ার ফেয়ারিয়েস্টএকটি পরী বা একটি পরীর অনুরূপযুক্ত").
+এন্ট্রি(ফেইরিজম, ন, [ফেইরিজম্স], "পরীর মত হওয়ার গুণ")।
+এন্ট্রি(বিশ্বাস, ক্রি, [বিশ্বাস করেছিল, বিশ্বাস করতে, বিশ্বাস করে], "বিশ্বাস করা বা আস্থা রাখা")।
+entry(বিশ্বস্ত, n, [বিশ্বস্তগণ], "একজন অনুগত অনুসারী বা সদস্য")।
+এন্ট্রি(ফেইটোর, এন, [ফেইটোরস], "একজন প্রতারক")।
+এন্ট্রি(ফাহাটা, এন, [ফাহাটাস], "মেরিনেট করা এবং গ্রিলড বিফ, চিকেন বা চিংড়ি যা আটা রুটির সাথে পরিবেশন করা হয়")।
+এন্ট্রি(নকল, ক্রিয়া, [নকল করেছিল, নকল করছে, নকল করে], "প্রকৃতির মত মিথ্যা ভাবে প্রদর্শন করা")।
+এন্ট্রি(ফকির, ন, [ফকিরস], "ফকির")।
+এন্ট্রি(ফেকার, ন, [ফেকার্স], "যে নকল করে")।
+entry(প্রতারণা, বিশেষ্য, [প্রতারণাসমূহ], "মিথ্যা বা ভান করার অভ্যাস").
+entry(fakey, adj, [], "অসত্য জাল").
+entry(fakie, n, [fakies], "স্কেটবোর্ডিং এবং স্নোবোর্ডিং-এ একটি গতি").
+এন্ট্রি(জালিয়াতি, বর্তমান, [], "জালিয়াতি এর পার্টিসিপল").
+এন্ট্রি(ফকির, ন, [ফকিররা], "একজন হিন্দু সন্ন্যাসী")।
+এন্ট্রি(ফলাফল, ন, [ফলাফেলস], "মশলাদার মাটির সবজি প্যাটিতে পরিণত").
+entry(falbala, n, [falbalas], "মহিলাদের পোশাকের জন্য একটি অলঙ্করণ").
+ইনট্রি(ফ্যালকেট, বিশেষণ, [], "বাঁকা এবং শীর্ষবিন্দুর দিকে সরু হয়ে যাওয়া")।
+entry(falcated, adj, [], "falcate").
+entry(falces, pl, [], "ফ্যালকসের").
+পদচিহ্ন(ফালকিয়ন, ন, [ফালকিয়নস], "একটি প্রশস্ত ব্লেডযুক্ত তলোয়ার")।
+ফ্যালকন (falcon) শব্দের একটি সংজ্ঞায়িত এন্ট্রি যেখানে "n" এর অর্থ হলো নাম এবং সংকলিত বহুবচন হলো [ফ্যালকনস] এবং এটি "একটি শিকারী পাখি" হিসাবে বর্ণনা করা হয়েছে।
+এন্ট্রি(ফেলকনার, ন, [ফেলকনার্স], "যে বাজপাখির সাথে শিকার করে")।
+এন্ট্রি(ফ্যালকনেট, ন, [ফ্যালকনেটস], "একটি ছোট ফ্যালকন")।
+প্রবেশ(বাজিপ্রজাতির পালন, ন, [বাজিপ্রজাতির পালনগুলো], "বাজপাখির সাথে শিকার করার খেলা/খেলা").
+entry(ফালডেরাল, n, [ফালডেরালস], "অর্থহীন").
+entry(ফ্যালডেরোল, ন, [ফ্যালডেরোলস], "ফ্যালডেরাল").
+এন্ট্রি(পড়া, v, [পড়েছিল,পড়ে,পড়ছে], "পড়াশব্দটি মাধ্যাকর্ষণের শক্তির প্রভাবে অবতরণ করতে বোঝায়")।
+এন্ট্রি(ভুল, ন, [ভুলগুলি], "একটি মিথ্যা ধারণা")।
+entry(ফালাল, ন, [ফালালস], "একটি শৌখিন পোশাকের জিনিস")।
+entry(fallaway, n, [fallaways], "বাস্কেটবলে একটি শট")।
+এন্ট্রি(ফলব্যাক, ন, [ফলব্যাক্স], "পিছিয়ে যাওয়ার একটি কাজ")।
+এন্ট্রি(ফলেন, অতীত, [], "পার্থিভেশন অফ ফল").
+এন্ট্রি(ফলার, ন, [ফলার্স], "যে পড়ে").
+এন্ট্রি(ফলফিশ, স, [ফলফিশেস], "একটি মিঠা পানির মাছ")।
+entry(fallible, adj, [], "ভুল করতে সক্ষমFALLIBLY ক্রি").
+এন্ট্রি(পড়া, ন, [পড়াগুলো], "কাঠের জন্য গাছের পতন").
+প্রবেশ(পতন, ন, [পতনগুলি], "পরিমাণ বা গুণমানের হ্রাস")।
+এন্ট্রি(ফ্যালআউট, ন, [ফ্যালআউটস], "পারমাণবিক বিস্ফোরণের ফলে সৃষ্ট তেজস্ক্রিয় ধ্বংসাবশেষ")।
+এন্ট্রি(ফ্যালো, v, [ফ্যালোড, ফ্যালোয়িং, ফ্যালোস], "চাষ করা এবং বীজবিহীন রাখা").
+প্রধান(false, adj, [], "FALSER FALSESTসত্য বা ঘটনা বিরুদ্ধেFALSELY ক্রি").
+প্রবেশ(ফ্যালসেটো, ন, [ফ্যালসেটোস], "একটি কৃত্রিমভাবে উচ্চ কণ্ঠস্বর")।
+এন্ট্রি(ফলসি, ন, [ফলসিজ], "একটি প্যাড যা ব্রাসিয়ারের ভেতরে পরিধান করা হয়")।
+এন্ট্রি(মিথ্যা, v, [মিথ্যাভাবে উপস্থাপন করা হয়েছে, মিথ্যাভাবে উপস্থাপন করা, মিথ্যাভাবে উপস্থাপন করে], "মিথ্যা উপস্থাপন করা")।
+entry(অসত্য, n, [অসত্যগুলো], "মিথ্যা কিছু").
+এন্ট্রি(ফল্টবোট, ন, [ফল্টবোটস], "কায়াকের মতো দেখতে একটি ভাঁজযোগ্য নৌকা")।
+entry(য়ামীয়ে_পড়া, ক্রিয়া, [ক্ষমাহীন, ক্ষমাহীনভাবে_পড়া, ক্ষমাহীনেরা], "দ্বিধা করা")।
+entry(falterer, n, [falterers], "যে থেমে যায়").
+এন্ট্রি(ফ্যালক্স, এন, [ফ্যালসেস], "একটি কাস্তে আকৃতির গঠন")।
+এন্ট্রি(খ্যাতি, ভি, [খ্যাত,খ্যাতিমান,খ্যাতিসম্পন্ন], "খ্যাত করা").
+এন্ট্রি(নামহীন, বিশেষণ, [], "খ্যাতিহীন").
+এন্ট্রি(ফ্যামিলিয়াল, বিশেষণ, [], "একটি পরিবারের সাথে সম্পর্কিত")।
+এন্ট্রি(পরিচিত, ন, [পরিচিতদের], "একজন ঘনিষ্ঠ বন্ধু বা সহযোগী")।
+এন্ট্রি(ফ্যামিলিজম, ন, [ফ্যামিলিজমস], "একটি সামাজিক কাঠামো যেখানে পরিবার ব্যক্তির ওপরে প্রাধান্য পায়ফ্যামিলিস্ট বিশেষণ")।
+এন্ট্রি(পরিবার, ন, [পরিবারগুলো], "রক্ত বা বিবাহ দ্বারা সম্পর্কিত ব্যাক্তিদের একটি দল")।
+এন্ট্রি(ক্ষুধার্ত, ন, [ক্ষুধার্ত], "খাদ্যের ব্যাপক অভাব").
+entry(faming, present, [], "বিখ্যাতির এক রূপ").
+এন্ট্রি(ক্ষুধার্ত, ক্রিয়া, [ক্ষুধার্ত,ক্ষুধিত,ক্ষুধায়], "চরম ক্ষুধায় ভোগা")।
+এন্ট্রি(প্রখ্যাত, বিশেষণ, [], "wellknownFAMOUSLY বিশেষণবিশেষণভাবেঅ্যাডভার্ব")।
+entry(famulus, n, [famuli], "একজন সেবক বা সহকারী").
+এন্ট্রি(পাখা, ক্রিয়া, [পাখাওয়াল, পাখাচালানো, পাখাচালায়], "পাখা দিয়ে ঠান্ডা বা সতেজ করা, এমন একটি যন্ত্র যা হাওয়া সরাতে ব্যবহৃত হয়")।
+এন্ট্রি(ফ্যানাটিক, এন, [ফ্যানাটিকস], "একজন উগ্রপন্থী")।
+এন্ট্রি(ফ্যানবয়, ন, [ফ্যানবয়স], "কোনও কিছুর প্রতি উত্সাহী পুরুষ অনুরাগী")।
+এন্ট্রি(ফ্যান্সিড, অতীত, [], "ফ্যান্সির কাল")।
+entry(ফ্যান্সিয়ার, n, [ফ্যান্সিয়ার্স], "কোনো কিছুর প্রতি বিশেষ পছন্দ আছে এমন একজন").
+এন্ট্রি(ফ্যান্সিস, বর্তমান, [], "ফ্যান্সির ৩য় ব্যক্তি একবচন")।
+এন্ট্রি(ফ্যান্সিফুল, বিশেষণ, [], "অবাস্তব")।
+এন্ট্রি(fancify, v, [fancified,fancifying,fancifies], "ফ্যান্সি বানানো").
+এন্ট্রি(ফ্যান্সি, বিশেষণ, [], "ফ্যানসিয়ার ফ্যানসিয়েস্টআলঙ্কারিকফ্যানসিলি ক্রি").
+এন্ট্রি(ফ্যান্সি, ভি, [ফ্যান্সিড, ফ্যান্সিয়িং, ফ্যান্সিস], "পছন্দ হয়ে যাওয়া").
+এন্ট্রি(ফ্যান্ড্যাঙ্গো, ন, [ফ্যান্ড্যাঙ্গোস], "অথবা ফ্যান্ড্যাঙ্গোস একটি আনন্দময় স্প্যানিশ নৃত্য")।
+এন্ট্রি(ফ্যান্ডম, ন, [ফ্যান্ডমস], "উত্সাহী ভক্তদের একটি সমষ্টি")।
+এন্ট্রি(ফেন, ন, [ফেনস], "একটি মন্দির")।
+entry(fanega, n, [fanegas], "একটি স্প্যানিশ শুষ্ক মাপের একক").
+এন্ট্রি(ফেনেগাদা, n, [ফেনেগাদাস], "একটি স্প্যানিশ ক্ষেত্রের একক").
+entry(ফ্যানফেয়ার, ন, [ফ্যানফেয়ার্স], "একটি সংক্ষিপ্ত প্রাণবন্ত সঙ্গীত বিস্তার").
+entry(fanfaron, n, [fanfarons], "একজন গৌরবোজ্জ্বল ব্যক্তি").
+entry(ফ্যানফিক, ন, [ফ্যানফিক্স], "প্রশংসিত একটি কাজের ভক্তদের দ্বারা লেখা কল্পকাহিনী")।
+এন্ট্রি(ফ্যানফোল্ড, v, [ফ্যানফোল্ডেড, ফ্যানফোল্ডিং, ফ্যানফোল্ডস], "পাখার মত কাগজ ভাঁজ করা").
+এন্ট্রি(ফ্যাং, ন, [ফ্যাংস], "একটি দীর্ঘ সূচালো দাঁতFANGED FANGLESS FANGLIKE বিশেষণ")।
+এন্ট্রি(ফাঙ্গা, প, [ফাঙ্গাস], "ফানেগা").
+ইনট্রি(ফ্যানগার্ল, ন, [ফ্যানগার্লস], "কোন কিছুর একজন উত্সাহী ভক্ত মহিলা")।
+এন্ট্রি(ফ্যানিওন, এন, [ফ্যানিওনস], "একটি ছোট পতাকা")।
+এন্ট্রি(ফ্যানজেট, ন, [ফ্যানজেটস], "জেট ইঞ্জিনের একটি ধরন")।
+এন্ট্রি(ফ্যানলাইট, ন, [ফ্যানলাইটস], "এক ধরনের জানালা")।
+entry(fanlike, adj, [], "পাখার অনুরূপ").
+এন্ট্রি(ফ্যানড, অতীত, [], "ফ্যানের কাল")।
+এন্ট্রি(ফ্যানার, ন, [ফ্যানার্স], "যে ফ্যান করে")।
+এনট্রি(ফ্যানিং, বর্তমান, [], "ফ্যান-এর পার্টিসিপল").
+entry(ফ্যানি, সম্প্রীতি, [ফ্যানিদের], "নিতম্ব")।
+এনট্রি(ফানো, ন, [ফানোস], "একটি ফ্যানন")।
+এন্ট্রি(ফ্যানন, ন, [ফ্যানন্স], "পোপ দ্বারা পরিধেয় একটি চাদর")।
+entry(fantail, n, [fantails], "একটি পাখার মতো লেজ বা শেষ অংশ")।
+এন্ট্রি(ফ্যান্টাসিয়া, ন, [ফ্যান্টাসিয়াস], "একটি মুক্ত রূপ সংগীত রচনা")।
+এন্ট্রি(ফ্যান্টাসি, ন, [ফ্যান্টাসিগুলি], "একটি ফ্যান্টাসিয়া")।
+প্রবেশ(ফ্যান্টাসাইজড, অতীত, [], "কল্পনার কাল")।
+entry(fantasm, n, [fantasms], "বিভ্রম").
+এন্ট্রি(ফ্যান্টাস্ট, এন, [ফ্যান্টাস্টস], "একটি অবাস্তব ব্যক্তি")।
+এন্ট্রি(ফ্যান্টাসি, ভি, [ফ্যান্টাসাইড, ফ্যান্টাসাইং, ফ্যান্টাসিস], "কল্পনা করা")।
+entry(fantod, n, [fantods], "একটি আবেগপ্রবণ বিস্ফোরণ")।
+এন্ট্রি(ফ্যান্টম, ন, [ফ্যান্টমস], "ফ্যান্টম")।
+এন্ট্রি(ফ্যানাম, ন, [ফ্যানামস], "ফ্যানন‌")।
+entry(fanwise, adj, [], "খোলা পাখার মতো বিস্তৃতভাবে ছড়িয়ে থাকা").
+এন্ট্রি(ফ্যানওর্ট, ন, [ফ্যানওর্টস], "একটি জলজ উদ্ভিদ")।
+entry(ফ্যানজিন, ন, [ফ্যানজিনস], "উৎসাহী ভক্তদের দ্বারা এবং জন্য লেখা একটি ম্যাগাজিন")।
+entry(faqir, n, [faqirs], "ফকির")।
+এন্ট্রি(ফকির, ন, [ফকিররা], "ফকির")।
+এন্ট্রি(দূর, ক্রিয়া-বিশেষণ, [], "অনেক দূরে ফার্দার বা ফার্থেস্ট বা ফার্ডার বা ফার্থেস্ট").
+এন্ট্রি(ফারাড, এন, [ফারাডস], "একটি বৈদ্যুতিক ধারতা একক")।
+এন্ট্রি(ফারাডাইক, বিশেষণ, [], "faradic")।
+এন্ট্রি(ফারাডে, ন, [ফারাডেস], "একটি বিদ্যুতের একক").
+entry(ফ্যারাডিক, বিশেষণ, [], "এক ধরনের বৈদ্যুতিক প্রবাহ সম্পর্কিত").
+এন্ট্রি(ফ্যারাডাইস, ভি, [ফ্যারাডাইজড, ফ্যারাডাইজিং, ফ্যারাডাইজেস], "ফ্যারাডাইজ করা").
+entry(ফ্যারাডিজ়ম, n, [ফ্যারাডিজ়মস], "চিকিৎসার উদ্দেশ্যে ফ্যারাডিক কারেন্টের ব্যবহার").
+এন্ট্রি(ফ্যারাডাইজ, ক্রিয়া, [ফ্যারাডাইজড, ফ্যারাডাইজিং, ফ্যারাডাইজেস], "ফ্যারাডিজম দ্বারা চিকিত্সা করা").
+এন্ট্রি(দূরবর্তী, বিশেষণ, [], "দূরবর্তী")।
+এন্ট্রি(ফার্স, ভি, [ফারসড,ফারসিং,ফারসেস], "উত্তেজনাপূর্ণ সামগ্রী দিয়ে পূরণ করা").
+এন্ট্রি(ফার্সার, ন, [ফার্সারস], "ফার্সার")।
+entry(ফারসিয়ার, n, [ফারসিয়ারস], "একজন রসিক ব্যক্তি").
+এন্ট্রি(ফারসি, বিশেষণ, [], "চিনিয়ে কেটে নেয়া মাংস দিয়ে ভরা").
+entry(farcical, adj, [], "অযৌক্তিক").
+প্রবেশ(ফারসি, বিশেষণ, [], "ফারসি").
+এন্ট্রি(ফারসিং, বর্তমান, [], "ফারসের অবটিকৃপয়া").
+এন্ট্রি(ফার্সি, ন, [ফার্সিজ], "ঘোড়ার একটি রোগ")।
+এন্ট্রি(ফার্ড, ভি, [ফারডেড,ফারডিং,ফার্ডস], "অলংকর প্রসাধনী প্রয়োগ করা").
+এন্ট্রি(ফারডেল, ন, [ফারডেলস], "একটি গুচ্ছ")।
+এন্ট্রি(ফেয়ার, ক্রিয়া, [ফেয়ার্ড,ফেয়ারিং,ফেয়ারস], "এগিয়ে যাওয়া").
+এন্ট্রি(ফেয়ারবক্স, ন, [ফেয়ারবক্সেস], "বাসে ভাড়ার জন্য একটি পাত্র")।
+এন্ট্রি(যাত্রী, ন, [যাত্রীরা], "একজন ভ্রমণকারী")।
+এন্ট্রি(বিদায়, ক্রিয়া, [বিদায় দিল, বিদায় দিচ্ছে, বিদায়গুলি], "বিদায় বলা")।
+এন্ট্রি(ফারফাল, ন, [ফারফালস], "ফারফেল")।
+entry(farfalle, n, [ফারফালেস], "বাটাই আকৃতির পাস্তা")।
+এন্ট্রি(ফারফেল, ন, [ফারফেলস], "ছোট গোলাকার বা দানাদার আকারের নুডলস")।
+এন্ট্রি(ফারিনা, এন, [ফারিনাস], "যেকোনো সিরিয়াল শস্য থেকে তৈরি সূক্ষ্ম গুঁড়া খাবার")।
+এন্ট্রি(ফেয়ারিং, বর্তমান, [], "ফেয়ার এর পার্টিসিপলরূপ")।
+এন্ট্রি(ফারিনহা, ন, [ফারিনহাস], "কাসাভা রুট থেকে তৈরি একটি খাবার")।
+এনট্রি(ফারিনোজ, বিশেষণ, [], "ফারিনা সদৃশ")।
+এন্ট্রি(ফার্ল, ন, [ফার্লস], "একটি পাতলা ওটমিল কেক")।
+এন্ট্রি(ফার্ল, ন, [ফার্লস], "ফার্ল").
+এন্ট্রি(খামার, ক্রিয়া, [চাষ করা, চাষাবাদ, খামার], "কৃষিকাজের জন্য নিবেদিত একটি জমির অংশকে একটি খামার হিসাবে পরিচালনা এবং চাষ করাFARMABLE বিশেষণ").
+এন্ট্রি(কৃষক, ন, [কৃষকরা], "যে চাষাবাদ করে")।
+এন্ট্রি(খেতমজুর, ন, [খেতমজুরেরা], "একজন খেত শ্রমিক")।
+এন্ট্রি(চাষাবাদ, ন, [চাষাবাদগুলো], "খামার চালানোর ব্যবসা")।
+এন্ট্রি(ফার্মল্যান্ড, এন, [ফার্মল্যান্ডস], "চাষযোগ্য জমি")।
+এন্ট্রি(ফার্মওয়াইফ, ন, [ফার্মওয়াইভস], "একজন কৃষকের স্ত্রী")।
+এন্ট্রি(কৃষিকাজ, ন, [কৃষিকাজগুলি], "একটি খামারে করা শ্রম")।
+entry(farmyard, n, [farmyards], "খামারের ভবন দ্বারা বেষ্টিত একটি এলাকা")।
+এন্ট্রি(ফারনিসল, n, [ফারনিসলস], "সুগন্ধিতে ব্যবহৃত একটি অ্যালকোহল")।
+এন্ট্রি(দূরত্ব, ন, [দূরত্বসমূহ], "দূরে বা পৃথক অবস্থায় থাকার অবস্থা")।
+এন্ট্রি(ফারো, ন, [ফারোস], "একটি তাস খেলা").
+এন্ট্রি(ফারোলিটো, ন, [ফারোলিটোস], "বালু দিয়ে ওজন করা কাগজের ব্যাগে একটি মোমবাতি")।
+এন্ট্রি(ফারুশ, বিশেষণ, [], "অসামাজিকভাবে লাজুক")।
+এন্ট্রি(ফ্যারাগো, ন, [ফ্যারাগোস], "অথবা ফ্যারাগোজ একটি বিশৃঙ্খল মিশ্রণ")।
+এন্ট্রি(ফ্যারিয়ার, এন, [ফ্যারিয়ারস], "যে ঘোড়াদের জন্য নাল "
+
+),
+.
+entry(ফ্যারিয়ারি, noun, [ফ্যারিয়ারিস], "একটি ফ্যারিয়ারের বাণিজ্য").
+entry(farrow, v, [farrowed,farrowing,farrows], "শূকরের বাচ্চাদের জন্ম দেওয়া").
+এন্ট্রি(ফারসাইড, ন, [ফারসাইডস], "দূরের পার্শ্ব")।
+entry(দূরবর্তী, একটি, [], "দূরের তুলনামূলক রূপ")
+এন্ট্রি(দূরতম, a, [], "দূরের অতিশয় রূপ")।
+entry(ফারথিং, ন, [ফারথিংস], "একটি প্রাক্তন ব্রিটিশ মুদ্রা").
+এন্ট্রি(ফার্টলেক, ন, [ফার্টলেকস], "একটি ক্রীড়া প্রশিক্ষণ কৌশল")।
+এন্ট্রি(ফ্যাসেস, ন, [ফ্যাসেস], "প্রাচীন রোমান ক্ষমতার প্রতীক").
+এন্ট্রি(fascia, n, [fascias], "বা FASCIAEa একটি প্রশস্ত এবং স্বতন্ত্র রঙের ফিতাFASCIAL FASCIATE বিশেষণ").
+এন্ট্রি(ফ্যাসিকল, ন, [ফ্যাসিকলগুলি], "একটি ছোট পুঁটলি")।
+এন্ট্রি(ফ্যাসিন, ন, [ফ্যাসিনস], "ফর্টিফিকেশন নির্মাণে ব্যবহৃত কাঠের গুচ্ছ/বাঁধাই").
+entry(ফ্যাসিবাদ, n, [ফ্যাসিবাদসমূহ], "একটি দমনমূলক রাজনৈতিক ব্যবস্থা").
+এন্ট্রি(ফ্যাসিস্ট, ন, [ফ্যাসিস্টস], "ফ্যাসিজমের একজন উকিল")।
+এন্ট্রি(ফ্যাসাইটিস, ন, [ফ্যাসাইটিসেস], "সংযোজক টিস্যুর প্রদাহ")।
+entry(fash, v, [fashed,fashing,fashes], "জ্বালাতন করা").
+entry(fashion, v, [fashioned,fashioning,fashions], "একটি নির্দিষ্ট আকার বা রূপ প্রদান করা").
+entry(fashiony, adj, [], "ফ্যাশনেবল আধুনিক").
+entry(fashious, adj, [], "উপদ্রবকারী").
+এন্ট্রি(দ্রুত, বিশেষণ, [], "শীঘ্র গতিশীল বা দ্রুত চলতে সক্ষম").
+এন্ট্রি(দ্রুত, v, [দ্রুতিত,দ্রুতিতে,দ্রুতিতেছে], "খাওয়া থেকে বিরত থাকা").
+entry(fastback, n, [fastbacks], "এক ধরনের অটোমোবাইল ছাদ").
+entry(fastball, n, [ফাস্টবল], "বেসবলের একটি বল নিক্ষেপের ধরণ").
+entry(বাঁধা, v, [বাঁধা,বাঁধছে,বাঁধে], "নিরাপদ করা").
+এন্ট্রি(ফাস্টেনার, এন, [ফাস্টেনারস], "যে বন্ধ করে").
+এন্ট্রি(উপবাস, ন, [উপবাসগুলি], "খাওয়া থেকে বিরত থাকা")।
+এন্ট্রি(ফাস্টনেস, ন, [ফাস্টনেসেস], "দ্রুততার গুণমান")।
+এন্ট্রি(দাম্ভিক, বিশেষণ, [], "অহংকারী").
+entry(fat, adj, [], "FATTER FATTESTঅতিরিক্ত মাংসের আধিক্য থাকা").
+এন্ট্রি(মोटা, v, [মোটা,মোটা করা,মোটা হওয়া], "মোটা করা").
+এন্ট্রি(মারাত্মক, বিশেষণ, [], "মৃত্যুর কারণ বা মৃত্যুর কারণ হতে সক্ষম").
+entry(নিয়তিবাদ, n, [নিয়তিবাদগুলি], "সকল ঘটনা পূর্বনির্ধারিত বলে যে মতবাদ").
+এন্ট্রি(ফেটালিস্ট, ন, [ফেটালিস্টস], "ফেটালিজমে বিশ্বাসী")।
+প্রবেশ(মৃত্যু, ন, [মৃত্যুসমূহ], "একটি অপ্রত্যাশিত ঘটনার ফলে মৃত্যু")।
+entry(fatally, adv, [], "মারাত্মকভাবে").
+এন্ট্রি(ফ্যাটব্যাক, এন, [ফ্যাটব্যাকস], "একটি সামুদ্রিক মাছ")।
+এন্ট্রি(ফ্যাটবার্ড, এন, [ফ্যাটবার্ডস], "একটি পানকৌড়ি পাখি").
+এন্ট্রি(নিয়তি, v, [নিয়ত,নিয়মান,নিয়তগণ], "নিয়োজিত করা").
+এন্ট্রি(ভাগ্যনির্ধারক, বিশেষণ, [], "নির্ণায়কভাবে গুরুত্বপূর্ণ")।
+এন্ট্রি(ফ্যাটহেড, এন, [ফ্যাটহেডস], "একজন নির্বোধ")।
+এন্ট্রি(বাবা, ভি, [পিতৃত্ব করেছিলেন, পিতৃত্ব করা হচ্ছে, পিতৃত্ব করেন], "বিদ্যমান থাকার কারণ").
+এন্ট্রি(পিতৃসংক্রান্ত, বিশেষণ, [], "প্যাটার্নাল")।
+এন্ট্রি(ফ্যাথম, v, [ফ্যাথমেড,ফ্যাথমিং,ফ্যাথমস], "বুঝতে").
+entry(fathomer, n, [fathomers], "যে গভীরতা নির্ণয় করে").
+entry(fatidic, adj, [], "ভবিষ্যদ্বাণী সম্পর্কিত").
+এন্ট্রি(ক্লান্তি, ভি, [ক্লান্ত, ক্লান্তিকর, ক্লান্তিকর], "ক্লান্ত করা")।
+এন্ট্রি(ফেটিং, বর্তমান, [], "নিয়তির সার্মথ্য").
+এন্ট্রি(ফ্যাটলেস, বিশেষণ, [], "চর্বিহীন").
+এন্ট্রি(ফ্যাটলাইক, বিশেষণ, [], "চর্বির মতো অনুরূপ").
+এন্ট্রি(ফ্যাটলিং, ন, [ফ্যাটলিংস], "জবাইয়ের জন্য মোটা করা একটি ছোট পশু")।
+এন্ট্রি(ফ্যাটলি, ক্রিয়া-বিশেষণ, [], "মোটা ব্যক্তির শৈলীতে").
+এন্ট্রি(মোটামুটি, প, [মোটামুটি], "মোটা হওয়ার অবস্থা")।
+এনট্রি(ফ্যাটস্টক, এন, [ফ্যাটস্টকস], "ওজনদার গবাদি পশু যা বাজারের জন্য প্রস্তুত")।
+entry(fatted, past, [], "মোটা হওয়ার কাল").
+প্রবেশ(ফ্যাটেন, ক্রিয়া, [ফ্যাটেনড, ফ্যাটেনিং, ফ্যাটেন্স], "মোটা করা").
+এন্ট্রি(মোটা_করার_জন্য, ন, [মোটা_করার_জন্য], "যে মোটা করে").
+এন্ট্রি(ফ্যাটা, তুলনামূলক, [], "ফ্যাট এর").
+প্রবেশ(মোটা, অতিরিক্ততর, [], "মোটা মধ্যে")।
+এন্ট্রি(ফ্যাটিয়ার, তুলনামূলক, [], "ফ্যাটি এর").
+এন্ট্রি(ফ্যাটিস, প্ল, [], "ফ্যাটি এর")।
+এন্ট্রি(বেশি_চর্বিযুক্ত, অতিশয়, [], "ফ্যাটি থেকে").
+entry(fattily, adv, [], "একটি ফ্যাকাসে পদ্ধতিতে").
+entry(মোটা করা, বর্তমান, [], "মোটা করার ক্রিয়াপদ").
+এন্ট্রি(ফ্যাটিশ, বিশেষণ, [], "কিছুটা মোটা")।
+entry(fatty, adj, [], "চর্বিযুক্ত মোটাgreasy oily").
+এন্ট্রি(মোটা, নাম, [মোটারা], "যে মোটা").
+এন্ট্রি(মূর্খতা, ন, [মূর্খতাসমূহ], "কিছু বোকা বা মূর্খ কিছু")।
+entry(অর্থহীন, বিশেষণ, [], "অহংকারীভাবে নির্বোধ")।
+এন্ট্রি(ফতোয়া, পি, [ফতোয়াগুলি], "একটি ইসলামিক আইনি ফতোয়া")।
+এন্ট্রি(ফ্যাটউড, ন, [ফ্যাটউডস], "জ্বালানি হিসাবে ব্যবহৃত কাঠ")।
+এন্ট্রি(ফোবুর্গ, পি, [ফোবুর্গস], "একটি শহরতলী")।
+entry(faucal, n, [faucals], "ফসিসে উৎপন্ন একটি শব্দ")।
+এন্ট্রি(ফাউসেস, এনপিএল, [], "মুখ থেকে গলবিল পর্যন্ত পথ")।
+এন্ট্রি(ফসেট, ন, [ফসেটস], "একটি যন্ত্র যা পাইপ থেকে তরল প্রবাহ নিয়ন্ত্রণ করে")।
+entry(faucetry, n, [faucetries], "নলগুলির একটি বিন্যাস")।
+এন্ট্রি(ফসিয়াল, বিশেষণ, [], "ফসের সাথে সম্পর্কিত")।
+এন্ট্রি(ফ্‌গ, উদ্‌বধন, [], "বমন প্রকাশ করতে ব্যবহৃত").
+এন্ট্রি(ফল্ড, এন, [ফল্ডস], "বুকপ্লেটের নিচের একটি বর্মের অংশ")।
+entry(fault, v, [faulted,faulting,faults], "সমালোচনা করা").
+এন্ট্রি(ত্রুটিপূর্ণ, বিশেষণ, [], "FAULTIER FAULTIESTঅসম্পূর্ণFAULTILY ক্রিয়া বিশেষণ").
+entry(ফন, n, [ফনস], "রোমান পুরানের এক বনদেবতাFAUNLIKE বিশেষণ").
+এন্ট্রি(প্রাণীকুল, ন, [প্রাণীকুলগুলি], "অথবা একটি নির্দিষ্ট অঞ্চলের প্রাণীজ জীবনপ্রাণিজগত বিশেষণপ্রাণিক বিশেষণবেশ").
+এন্ট্রি(ফোনিস্ট, ন, [ফোনিস্টস], "একজন বিশেষজ্ঞ যিনি প্রাণীসমূহ নিয়ে কাজ করেন")।
+entry(fauteuil, n, [fauteuils], "একটি আর্মচেয়ার")।
+entry(fauve, n, [fauves], "একজন ফভিস্ট")।
+এন্ট্রি(ফভিজম, ন, [ফভিজমস], "চিত্রকলায় একটি আন্দোলন")।
+এন্ট্রি(ফোভিস্ট, ন, [ফোভিস্টস], "ফভিজমের প্রবক্তা")।
+এন্ট্রি(ফক্স, বিশেষণ, [], "সত্য নয় নকল")।
+এন্ট্রি(ফাভা, ন, [ফাভাস], "একটি আরোহণকারী লতার খাদ্যযোগ্য বীজ")।
+এন্ট্রি(প্রিয়, ন, [প্রিয়গুলির], "একটি প্রিয়")।
+এনট্রি(ফাভেলা, ন, [ফাভেলাস], "একটি বস্তি এলাকা")।
+এন্ট্রি(ফাভেলা, ন, [ফাভেলাস], "ফাভেলা")।
+এন্ট্রি(ফেভিজম, ন, [ফেভিজমস], "একটি তীব্র রক্তশূন্যতা")।
+এন্ট্রি(ফেভোনিয়ান, বিশেষণ, [], "পশ্চিমা বাতাস সম্পর্কিত")।
+এন্ট্রি(অনুকূল, ক্রিয়াপদ, [অনুকূলে, অনুকূল করে, অনুকূল করে]), "অনুমোদন সহকারে বিবেচনা করা"।
+entry(অনুকূলকারী, n, [অনুকূলকারীগণ], "যে অনুকূল করে")।
+এন্ট্রি(প্রিয়তম, ন, [প্রিয়তগুলি], "সবচেয়ে অন্যদের উপরে পছন্দ করা ব্যক্তি বা বস্তু")।
+এন্ট্রি(পক্ষপাত, ক্রিয়া, [অনুকূলিত, অনুকূলকরণ, অনুকূলসমূহ], "অনুকূল করা")।
+এন্ট্রি(কল্যাণকর্তা, ন, [কল্যাণকর্তারা], "অনুগ্রাহী")।
+entry(favus, n, [favuses], "একটি চর্মরোগ").
+এন্ট্রি(ফন, ভি, [ফনড, ফনিং, ফন্স], "কোনো কার্যের মাধ্যমে দৃষ্টি আকর্ষণ বা অনুগ্রহ পাওয়ার চেষ্টা করা")।
+এন্ট্রি(ফনার, ন, [ফনার্স], "যে চাটুকারিতা করে")।
+entry(fawnlike, adj, [], "একটি যুবক হরিণের সদৃশ").
+Prolog: entry(fawny, adj, [], "হলদে-বাদামী রঙের FAWNIER FAWNIEST").
+Prolog: entry(fax, v, [faxed,faxing,faxes], "বৈদ্যুতিন মাধ্যমে প্রেরণ এবং পুনরুত্পাদন করাFAXABLE বিশেষণ").
+এন্ট্রি(ফে, ভি, [ফেয়েড,ফেইং,ফেস], "ঘনিষ্ঠভাবে যোগ দিতে")।
+entry(ফায়ালাইট, n, [ফায়ালাইটস], "একটি খনিজ")।
+entry(faze, v, [fazed,fazing,fazes], "মনের স্বাভাবিক অবস্থাকে ব্যাহত করা").
+এন্ট্রি(ফাজেন্ডা, ন, [ফাজেন্ডাস], "একটি ব্রাজিলীয় বাগানসমূহ")।
+প্রবেশ(ফে, ন, [ফেস], "একটি হিব্রু অক্ষর")।
+এন্ট্রি(ফিয়াল, বিশেষণ, [], "বিশ্বস্ত")।
+এন্ট্রি(বিশ্বস্ততা, বিশেষ্য, [বিশ্বস্ততাগুলি], "অনুগততা")।
+এন্ট্রি(ভয়, ক্রিয়া, [ভীত, ভয় পেয়ে, ভয় পায়], "ভয় পাওয়া").
+এন্ট্রি(ফিয়ারার, এন, [ফিয়ারার্স], "যে ভয় পায়")।
+এন্ট্রি(ভীত, বিশেষণ, [], "ভীতিপ্রদ ভীতিপ্রদতমভীতির্ত")।
+entry(নির্ভীক, বিশেষণ, [], "ভীতিহীন").
+এন্ট্রি(ভয়ঙ্কর, বিশেষণ, [], "ভীতিপ্রদ")।
+entry(সিদ্ধি, n, [সিদ্ধিগুলি], "শর্ত বাধ্যবাধকতা বা কর্তব্যের সম্পাদন").
+এন্ট্রি(ফিজ, ভি, [ফিজড,ফিজিং,ফিজেস], "অনুভূতিহীন করা")।
+entry(সম্ভব, বিশেষণ, [], "কর্মটি করা সম্ভবFEASIBLY ক্রিয়া- বিশেষণ").
+entry(ভোজ, ক্রি, [ভোজ করেছে, ভোজ করছে, ভোজ করে], "আয়েশ করে খাওয়া").
+এন্ট্রি(উৎসবকার, ন, [উৎসবকারীরা], "যে উৎসব করে")।
+এন্ট্রি(ফিস্টফুল, বিশেষণ, [], "উৎসবমুখর")।
+প্রলগ:
+entry(feat, adj, [], "FEATER FEATESTskillful").
+এন্ট্রি(ফিট, ন, [ফিটস], "একটি উল্লেখযোগ্য কর্ম বা কীর্তি")।
+এন্ট্রি(পাখা, v, [পাথরামোড়া, পাখারানো, পাখা-জিতানো], "পাখা সহ আবৃত করার কাজ, যা পাখিদের প্রধান আবরণী গঠন করে")।
+প্রোলগ: entry(feathery, adj, [], "FEATHERIER FEATHERIESTপালকের মতো").
+প্রবেশ(ফিটলি, বিশেষণ, [], "ফিটলিয়ার ফিটলিয়েস্টগ্রেসফুল")।
+entry(বৈশিষ্ট্য, v, [বৈশিষ্ট্যযুক্ত,বৈশিষ্ট্য দিচ্ছে,বৈশিষ্ট্যগুলি], "বিশেষভাবে উল্লেখযোগ্য করে তোলা")।
+entry(feaze, v, [feazed,feazing,feazes], "ফেজ করা").
+এন্ট্রি(ফেব্রিফিক, বিশেষণ, [], "জ্বরযুক্ত")।
+এন্ট্রি(জ্বরগ্রস্থ, বিশেষণ, [], "জ্বরবিশিষ্ট")।
+এন্ট্রি(ফিকাল, বিশেষণ, [], "বিষ্ঠার সাথে সম্পর্কিত")।
+এন্ট্রি(মল, বহুবচন, [], "মলদ্বার দিয়ে নির্গত দেহীয় বর্জ্য")।
+এন্ট্রি(ফেশিয়াল, ন, [ফেশিয়ালস], "ফেটিয়াল")।
+এন্ট্রি(ফেক, ন, [ফেক্স], "মূল্য")।
+entry(feckless, adj, [], "অকার্যকর").
+entry(feckly, adv, [], "প্রায়").
+এন্ট্রি(ফেকুলা, ন, [ফেকুলাই], "মলদ্রব্য").
+এন্ট্রি(ফেকুলেন্ট, বিশেষণ, [], "অশুচি সঙ্গে দূষিত")।
+entry(ফেকান্ড, বিশেষণ, [], "ফলপ্রসূ")।
+এন্ট্রি(ফেড, ন, [ফেডস], "একজন ফেডারেল এজেন্ট")।
+entry(ফিদাইন, n, [ফিদাইন], "একজন আরব কমান্ডো").
+এনট্রি(ফেডারেসি, এন, [ফেডারেসিস], "একটি জোট").
+এন্ট্রি(ফেডারেল, ন, [ফেডারেলস], "এক ধরনের কেন্দ্রীয় সরকারের সমর্থক")।
+এন্ট্রি(ফেডারেট, v, [ফেডারেটেড,ফেডারেটিং,ফেডারেটস], "একটি জোটে যুক্ত হওয়া")।
+entry(fedex, v, [fedexed,fedexing,fedexes], "ফেডেক্স দ্বারা প্রেরণ করা").
+এন্ট্রি(ফিবলিশ, বিশেষণ, [], "কিঞ্চিৎ দুর্বল")।
+এন্ট্রি(খাওয়ানো, v, [খাওয়াল,খাওয়াচ্ছে,খাওয়ায়], "খাবার দেওয়া FEEDABLE বিশেষণ")।
+এন্ট্রি(প্রতিক্রিয়া, ন, [প্রতিক্রিয়াগুলি], "আউটপুটের একটি অংশ ইনপুটে ফিরে আসা")।
+প্রবেশ(ফিডব্যাগ, ন, [ফিডব্যাগস], "ঘোড়া খাওয়ানোর জন্য একটি ব্যাগ")।
+এন্ট্রি(ফিডবক্স, এন, [ফিডবক্সেস], "পশু খাদ্যের জন্য একটি বাক্স")।
+এন্ট্রি(ফিডার, ন, [ফিডার্স], "যে খাবার খাওয়ায়")।
+এন্ট্রি(ফিডহোল, ন, [ফিডহোলস], "কাগজের টেপে একটি সিরিজ গর্তের একটি")।
+entry(খাওয়ানো, n, [খাওয়ানোগুলো], "ব্যক্তি বা প্রাণীকে খাবার দেওয়ার কাজ").
+এন্ট্রি(ফিডলট, ন, [ফিডলটস], "একটি জমির টুকরা যাতে গবাদি পশু মোটা হয়").
+entry(feedyard, n, [feedyards], "একটি পশুখাদ্য খামার")।
+এন্ট্রি(মহসুস, ক্রিয়া, [মহসুস_করা, মহসুস_হওয়া, মহসুস_হচ্ছে], "স্পর্শের ইন্দ্রিয়ের মাধ্যমে উপলব্ধি করা")।
+entry(feeler, n, [feelers], "একটি স্পর্শক কেনদ্র").
+এন্ট্রি(ফিলেস, বিশেষণ, [], "কোনও ফি প্রয়োজন হয় না")।
+এন্ট্রি(অনুভূতি, বিশেষ্য, [অনুভূতিসমূহ], "স্পর্শের মাধ্যমে উপলব্ধি করার ক্ষমতা বা কার্যকারিতা")।
+entry(feet, pl, [], "পায়ের").
+এন্ট্রি(ফিটলেস, বিশেষণ, [], "পা নেই").
+এন্ট্রি(ফিজ, v, [ফিজড, ফিজিং, ফিজেস], "ফেজ করা")।
+এন্ট্রি(ফেহ, ন, [ফেহস], "পেহ").
+এন্ট্রি(ফেইন, v, [ফেইন্ড,ফেইনিং,ফেইন্স], "ভান করা")।
+এন্ট্রি(ফেইনার, ন, [ফেইনার্স], "অভিনয়কারী").
+entry(ফেইজোয়া, n, [ফেইজোয়াস], "একটি সবুজ ভোজ্য ফল").
+এন্ট্রি(ফেইন্ট, v, [ফেইন্টেড, ফেইন্টিং, ফেইন্টস], "প্রতারণামূলক অঙ্গভঙ্গি করা")।
+entry(feirie, adj, [], "চটপটে").
+entry(feist, n, [feists], "মিশ্র জাতের একটি ছোট কুকুর").
+Prolog:
+entry(feisty, adj, [], "উত্তেজনার সাথে পূর্ণFEISTILY ক্রি").
+এন্ট্রি(ফালাফেল, ন, [ফালাফেলস], "ফালাফেল")।
+এন্ট্রি(ফেল্ডশের, ন, [ফেল্ডশেরস], "রাশিয়ায় একজন চিকিৎসা কর্মী")।
+এন্ট্রি(ফেল্ডস্পার, ন, [ফেল্ডস্পার্স], "একটি খনিজ")।
+এন্ট্রি(ফেলিসিটি, ন, [ফেলিসিটিস], "হ্যাপিনেস")।
+এন্ট্রি(ফেলিড, ন, [ফেলিডস], "একটি বিড়ালজাতীয় প্রাণী")।
+এন্ট্রি(ফেলাইন, ন, [ফেলাইনস], "বিড়াল পরিবারের একটি প্রাণী")।
+প্রবেশ(ফেলাইনলি, ক্রিয়া বিশেষণ, [], "একটি বিড়ালের মতো পদ্ধতিতে")।
+entry(felinity, n, [felinities], "বিড়ালসদৃশ গুণাবলী").
+এন্ট্রি(পড়ল, বিশেষণ, [], "FELLER FELLESTcruel").
+entry(fell, v, [felled,felling,fells], "পড়ে যাওয়ার কারণ").
+এন্ট্রি(ফেলা, ন, [ফেলাস], "একজন পুরুষ বা ছেলে")।
+entry(fellable, adj, [], "কাটা যেতে সক্ষম").
+এন্ট্রি(ফেলাহ, ন, [ফেলাহস,ফেলাহিন], "অথবা ফেলাহীন আরব দেশগুলিতে একজন কৃষক বা শ্রমিক")।
+entry(fellate, v, [fellated,fellating,fellates], "ফেলাশিও সম্পাদন করা").
+entry(fellatio, n, [fellatios], "লিঙ্গের মৌখিক উদ্দীপনা")।
+এন্ট্রি(ফেলেটর, ন, [ফেলেটরস], "যে ফেলেট করে")।
+এনট্রি(ফেলার, ন, [ফেলার্স], "একটি যা ফেলে দেয়")।
+এন্ট্রি(ফ্যালিজ, বহুবচন, [], "ফেলির").
+entry(fellness, n, [fellnesses], "অতিচার").
+এন্ট্রি(ফেলো, ন, [ফেলোস], "একটি চাকার রিম")।
+এন্ট্রি(সহকর্মী, v, [সহকর্মীত, সহকর্মীহচ্ছা, সহকর্মীরা], "একটি সমান উৎপন্ন করতে")।
+এন্ট্রি(ফেলোলি, বিশেষণ, [], "বন্ধুত্বপূর্ণ")।
+এন্ট্রি(ফেলি, ন, [ফেলিস], "একটি ফেলি")।
+এন্ট্রি(অপরাধী, ন, [অপরাধীরা], "একজন ব্যক্তি যিনি একটি গুরুতর অপরাধ করেছেন")।
+এন্ট্রি(ফেলনারি, ন, [ফেলনারিজ], "অপরাধীদের সমগ্র শ্রেণী")।
+এন্ট্রি(অপরাধ, ন, [অপরাধসমূহ], "একটি গুরুতর অপরাধ")।
+entry(felsic, adj, [], "ফেল্ডস্পার এবং সিলিকেট দ্বারা গঠিত").
+entry(felsite, n, [felsites], "একটি আগ্নেয় শিলা FELSITIC adj").
+এন্ট্রি(ফেলস্পার, এন, [ফেলস্পারস], "ফেল্ডস্পার")।
+এন্ট্রি(ফেলস্টোন, এন, [ফেলস্টোনবিহীন], "ফেলসাইট")।
+এন্ট্রি(ফেল্ট, ভি, [ফেল্টেড,ফেল্টিং,ফেল্টস], "একসাথে ম্যাট করা").
+এন্ট্রি(ফেলটিং, এন, [ফেলটিংস], "ফেল্ট করা উপাদান")।
+এন্ট্রি(ফেল্টলাইক, বিশেষণ, [], "একটি কাপড়ের মত যা উল থেকে তৈরি").
+এন্ট্রি(ফেল্টি, বিশেষণ, [], "উত্তপ্ত অনুভূতির কাপড় সদৃশ FELTIER FELTIEST").
+এন্ট্রি(ফেলুক্কা, এন, [ফেলুক্কাস], "একটি দ্রুতগামী পালতোলা জাহাজ")।
+entry(felwort, n, [ফেলওয়ার্টস], "একটি ফুলের উদ্ভিদ").
+এন্ট্রি(মহিলা, ন, [মহিলাসমূহ], "একজন নিষ্ক্রিয় সমকামী")।
+entry(female, n, [females], "একটি ব্যক্তি যারা সন্তান ধারণ করে বা ডিম উৎপাদন করে")।
+এন্ট্রি(ফেমে, ন, [ফেমেস], "একটি স্ত্রীলোক")৷
+এন্ট্রি(ফেমিনেসি, ন, [ফেমিনেসিস], "মহিলা হওয়ার অবস্থা")।
+এন্ট্রি(নারী-ভাবে, বহুবচন, [], "নারীসমূহ সম্মিলিতভাবে")।
+এন্ট্রি(স্ত্রীলিঙ্গ, ন, [স্ত্রীলিঙ্গগুলি], "একটি শব্দ বা রূপ যার স্ত্রীলিঙ্গ রয়েছে")।
+এন্ট্রি(ফেমিনাইজ, ক্রিয়া, [ফেমিনাইজড, ফেমিনাইজিং, ফেমিনাইজেস], "নারীত্ব আরোপ করা")।
+entry(নারীবাদ, ন, [নারীবাদসমূহ], "নারীদের জন্য পুরুষদের সমান অধিকারের পক্ষে মতবাদ প্রচার").
+entry(নারীবাদী, ন, [নারীবাদীরা], "নারীবাদের সমর্থক").
+এন্ট্রি(নারীত্ব, ন, [নারীত্বগুলো], "নারীসুলভ হওয়ার গুণাবলী")।
+entry(feminize, v, [feminized,feminizing,feminizes], "মহিলা সদৃশ করা").
+এন্ট্রি(মহিলা, ন, [মহিলারা], "একজন নারী")।
+এন্ট্রি(ফেমোরাল, বিশেষণ, [], "ফিমারের সাথে সম্পর্কিত")।
+এন্ট্রি(ফেমার, ন, [ফেমারস], "অথবা FEMORA একটি পায়ের হাড়").
+এন্ট্রি(ফেন, ন, [ফেন্স], "একটি জলাভূমি")।
+এন্ট্রি(ফেনাগল, গি, [ফেনাগলড, ফেনাগলিং, ফেনাগলস], "চালাকি করা"‌)।
+এন্ট্রি(বেড়া, v, [বেড়ানো,বেড়াচ্ছে,বেড়ায়], "ফেন্সিং এর শিল্প চর্চা করা")।
+এন্ট্রি(ফেন্সার, এন, [ফেন্সারস], "যে বেড়া দেয়").
+entry(fencerow, n, [fencerows], "একটি বেড়া দ্বারা দখল করা জমি")।
+এন্ট্রি(ফেন্সিবল, ন, [ফেন্সিবলস], "শুধুমাত্র ঘরোয়া পরিষেবার জন্য তালিকাভুক্ত একজন সৈনিক")।
+entry(ফেন্সিং, n, [ফেন্সিংস], "আক্রমণ ও প্রতিরক্ষায় তরবারি ব্যবহার করার শিল্প").
+entry(fend, v, [fended,fending,fends], "প্রতিরোধ করা").
+এন্ট্রি(ফেন্ডার, ন, [ফেন্ডারস], "একটি মোটর গাড়ির চাকায় মেটালের রক্ষকFENDERED বিশেষণ")।
+এন্ট্রি(ফেনেস্ত্রা, ন, [ফেনেস্ত্রে], "একটি ছোট শারীরস্থানিক খোলক").
+এন্ট্রি(ফেনিং, ন, [ফেনিংস], "বসনিয়া এবং হার্জেগোভিনার একটি মুদ্রা একক").
+এন্ট্রি(ফেনল্যান্ড, ন, [ফেনল্যান্ডস], "জলা ভূমি")।
+এন্ট্রি(ফেনেক, ন, [ফেনেক্স], "একটি আফ্রিকান শিয়াল").
+এন্ট্রি(ফেনেল, ন, [ফেনেলস], "একটি বহুবর্ষজীবী উদ্ভিদ")।
+entry(fenny, adj, [], "ফেনিয়ার ফেনিয়েস্টmarshy").
+entry(fentanyl, n, [ফেন্টানিলস্], "একটি নেশাসক্তকারী অপিওয়েড").
+এন্ট্রি(ফেনথিয়ন, ন, [ফেনথিয়নস], "একটি কীটনাশক")।
+entry(fenuron, n, [fenurons], "একটি আগাছানাশক")।
+এন্ট্রি(ফিওড, ন, [ফিওডস], "একটি ভূ-সম্পত্তি")।
+entry(feodary, n, [feodaries], "একজন ভৃত্য").
+এন্ট্রি(ফিওফ, v, [ফিওফড,ফিওফিং,ফিওফস], "একটি ভূমি দান করা").
+এন্ট্রি(ফিওফি, ন, [ফিওফিজ়], "যাকে একটি ফিয়েফ প্রদান করা হয়")।
+প্রবেশ(ফিওফার, ন, [ফিওফারস], "যে অন্যকে একটি সম্পত্তি প্রদান করে")।
+প্রবেশ(ফিওফর, ন, [ফিওফরস], "ফিওফার")।
+এন্ট্রি(ফের, প্রেপ, [], "ফর")।
+entry(উর্বরতা, n, [উর্বরতাগুলি], "ফলপ্রসূ হওয়ার অবস্থা").
+এন্ট্রি(ফেরাল, এন, [ফেরালস], "একটি বন্য জন্তু")।
+এণ্ট্রি(ferbam, n, [ferbams], "একটি ছত্রাকনাশক")।
+এন্ট্রি(ফেরে, ন, [ফেরেস], "একজন সঙ্গী")।
+entry(feretory, n, [feretories], "পবিত্র অবশেষ সংরক্ষণের জন্য ব্যবহৃত একটি পাত্র").
+প্রবেশ(ফেরিয়া, ন, [ফেরিয়াস], "অথবা ফেরিয়াEa চার্চ ক্যালেন্ডারের একটি সপ্তাহের দিন যেখানে কোনো ভোজ পালন করা হয়ফেরিয়াল বিশেষণ").
+এন্ট্রি(ফেরিন, বিশেষণ, [], "বন্য").
+এন্ট্রি(ফেরিটি, এন, [ফেরিটিজ], "বুনোভাব")।
+entry(ferlie, n, [ferlies], "একটি অদ্ভুত দৃশ্য").
+এন্ট্রি(ফার্লি, ন, [ফার্লিজ], "ফার্লি").
+এন্ট্রি(ফার্মাটা, ন, [ফার্মাটাস], "বা ফার্মাটেএকটি বাদ্যযন্ত্রের নোট কর্ড বা বিরতির লিখিত সময়মূল্যের অতিরিক্ত সময়ের জন্য স্থায়িত্ব")।
+entry(ferment, v, [fermented,fermenting,ferments], "এক ধরনের রাসায়নিক বিক্রিয়ার মধ্য দিয়ে যাওয়া").
+entry(ফের্মি, n, [ফের্মিস], "দৈর্ঘ্যের একটি একক").
+entry(ফার্মিয়ন, n, [ফার্মিয়নস], "এক প্রকার পরমাণু কণা").
+এন্ট্রি(ফার্মিয়াম, ন, [ফার্মিয়ামগুলি], "একটি রেডিওঅ্যাকটিভ মৌল")।
+এন্ট্রি(ফার্ন, ন, [ফার্নস], "একটি ফুলহীন ভাস্কুলার উদ্ভিদফার্নহীন ফার্নসদৃশ বিশেষণ").
+entry(ফার্নারি, n, [ফার্নারিগুলি], "একটি স্থান যেখানে ফার্ন চাষ করা হয়").
+এন্ট্রি(ফার্নইন্সট, প্রেপ, [], "নিয়মাবদ্ধ").
+entry(ferny, adj, [], "FERNIER FERNIESTফার্নে সমৃদ্ধ").
+এন্ট্রি(ফেরোসিটি, এন, [ফেরোসিটিজ], "ফিয়ারনেস")।
+এন্ট্রি(ফেরেট, ন, [ফেরেটস], "একটি রাসায়নিক লবণ")।
+এন্ট্রি(ফেরেল, ভি, [ফেরেলড,ফেরেলিং,ফেরেলস], "অথবা ফেরেলড ফেরেলিং ফেরেলsto ফেরুল")।
+এন্ট্রি(ফেরাস, বিশেষণ, [], "লৌহধারক")।
+এন্ট্রি(ফেরেট, v, [ফেরেটেড,ফেরেটিং,ফেরেটস], "সাবধানী তদন্তের মাধ্যমে কিছু অনুসন্ধান করা").
+এন্ট্রি(ফেরেটার, ন, [ফেরেটার্স], "যে ফেরেট করে")।
+এন্ট্রি(ফেরেটি, বিশেষণ, [], "ফেরেট বা পোলক্যাট এর সূচক").
+entry(ফেরিয়েজ, ন, [ফেরিয়েজস], "বিছমিয়া দ্বারা পরিবহন").
+এন্ট্রি(ফেরিক, বিশেষণ, [], "লৌহ সংশ্লিষ্ট").
+এন্ট্রি(বহন, অতীত, [], "বহন-এর কাল").
+entry(ফেরি, বর্তমান, [], "ফেরি এর ৩য় ব্যক্তি একবচন").
+এন্ট্রি(ফেরাইট, ন, [ফেরাইটস], "একটি চৌম্বকীয় পদার্থ ফেরিটিক বিশেষণ")।
+এন্ট্রি(ফেরিটিন, ন, [ফেরিটিনস], "একটি প্রোটিন যা আয়রন ধারণ করে")।
+এন্ট্রি(ফেরাস, বিশেষণ, [], "লৌহ সম্পর্কিত")।
+এন্ট্রি(ফেরুল, v, [ফেরুলড, ফেরুলিং, ফেরুলস], "ফাটল রোধ করতে ধাতব রিং অথবা ক্যাপ দিয়ে সজ্জিত করা")।
+এন্ট্রি(ফেরাম, ন, [ফেরাম্স], "লোহা").
+এন্ট্রি(ফেরি, v, [ফেরিড,ফেরিয়িং,ফেরিজ], "একটি ধরণের নৌকা দিয়ে ফেরিতে স্থানান্তরিত করা হয়")।
+এন্ট্রি(ফেরিম্যান, এন, [ফেরিমেন], "যিনি একটি ফেরি পরিচালনা করেন")।
+এন্ট্রি(ফার্টাইল, বিশেষণ, [], "প্রজনন করতে সক্ষম")।
+এন্ট্রি(ফেরুলা, ন, [ফেরুলাস], "অথবা ফেরুলার একটি চ্যাপ্টা কাঠের টুকরা")।
+এন্ট্রি(ফেরুল, ভি, [ফেরুলড,ফেরুলিং,ফেরুলস], "ফেরুল করা")।
+এন্ট্রি(ফারভেনসি, ন, [ফারভেনিস], "ফারভর")।
+entry(উৎসাহী, বিশেষণ, [], "উদ্দীপনার দ্বারা চিহ্নিত")।
+এন্ট্রি(ফারভিড, বিশেষণ, [], "ফারভেন্টফারভিডলি ক্রিয়া").
+এন্ট্রি(fervor, n, [fervors], "মহান উষ্ণতা বা তীব্রতা")।
+এন্ট্রি(উৎসাহ, ন, [উৎসাহসমূহ], "উত্সাহ")।
+প্রবেশ(ফেস্কু, ন, [ফেস্কুস], "একটি বহুবর্ষজীবী ঘাস")।
+এন্ট্রি(ফেস, ভি, [ফেষ্ট,ফেসিং,ফেসস], "অঙ্গীকার করা")।
+entry(fesse, n, [fesses], "একটি আড়াআড়ি ব্যান্ড যা একটি ঐতিহ্যবাহী ঢালের মাঝখানে অবস্থান করে")।
+এন্ট্রি(ফেসওয়াইস, ক্রি, [], "আনুভূমিকভাবে")।
+এন্ট্রি(ফেস্ট, ন, [ফেস্টস], "একটি কার্যকলাপের জন্য একটি সমাবেশ")।
+এন্ট্রি(ফেস্তা, ন, [ফেস্তাস], "একটি ধর্মীয় উৎসব")।
+এন্ট্রি(ফেস্টাল, বিশেষণ, [], "উৎসবমুখরভাবে ক্রি.বিশেষণ")।
+এন্ট্রি(ফেস্টার, ক্রিয়া, [ফেস্টার্ড, ফেস্টারিং, ফেস্টার্স], "পুঁজ তৈরি করা")।
+entry(উৎসব, n, [উৎসবগুলি], "উৎসবের দিন বা সময়").
+festive(প্রবেশ, বিশেষণ, [], "উৎসব বা উত্সবপোযোগী কিছু").
+entry(festoon, v, [festooned,festooning,festoons], "সজ্জা পরিবেষ্টনের জন্য শোভিত করা").
+এন্ট্রি(ফেট, ভি, [ফেটেড,ফেটিং,ফেটস], "আনতে").
+এন্ট্রি(ফেটা, এন, [ফেটাস], "একটি গ্রীক পনির")।
+এন্ট্রি(ভ্রূণীয়, বিশেষণ, [], "একটি ভ্রূণের সাথে সম্পর্কিত")।
+এন্ট্রি(ফেটেশন, ন, [ফেটেশনস], "একটি ভ্রূণের বিকাশ")।
+entry(fetch, v, [fetched,fetching,fetches], "আনতে যাওয়া এবং ফেরত আনা").
+এন্ট্রি(ফেচার, ন, [ফেচার্স], "যে আনে")।
+এন্ট্রি(ফেট, ভি, [ফেটেড,ফেটিং,ফেটস], "একটি উদযাপনের মাধ্যমে সম্মান করা")।
+এন্ট্রি(ফেটেরিটা, ন, [ফেটেরিটাস], "একটি শস্য ঘাস")।
+এন্ট্রি(ফেটিয়াল, ন, [ফেটিয়ালস], "প্রাচীন রোমের একজন পুরোহিত")।
+এন্ট্রি(ফেটিয়ালিস, ন, [ফেটিয়ালেস], "ফেটিয়াল")।
+এন্ট্রি(ফেটিচ, ন, [ফেটিচেস], "ফেটিশ")।
+entry(ভ্রূণহত্যা, ন, [ভ্রূণহত্যাসমূহ], "ভ্রূণের হত্যা")।
+এন্ট্রি(ফেটিড, বিশেষণ, [], "অপ্রীতিকর গন্ধযুক্তFETIDLY ক্রিয়া-বিশেষণ").
+entry(fetidity, n, [fetidities], "দুর্গন্ধযুক্ত অবস্থায় থাকা").
+এন্ট্রি(ফেটিং, বর্তমান, [], "ফেট শব্দের পার্টিসিপল রূপ")।
+entry(ফেটিশ, ন, [ফেটিশদের], "একটি বস্তু যা জাদুকরী শক্তি থাকার বিশ্বাস করা হয়")।
+এন্ট্রি(ফেটলক, ন, [ফেটলক্স], "একটি ঘোড়ার পায়ের জয়েন্ট").
+এন্ট্রি(ফেটোলজি, ন, [ফেটোলজিস], "ভ্রূণের সাথে সম্পর্কিত চিকিৎসাবিদ্যার শাখা")।
+এন্ট্রি(ফেটর, ন, [ফেটরস], "একটি আক্রমণাত্মক গন্ধ")।
+entry(fetted, past, [], "ফেট এর রূপ").
+এন্টার(ফেটার, v, [ফেটারড,ফেটারিং,ফেটারস], "শৃঙ্খলিত করা")।
+এন্ট্রি(ফেটারার, এন, [ফেটারার্স], "যে বাঁধে।").
+ফেলন্ট্রি(ফেটিং, বর্তমান, [], "ফেট-এর ক্রিয়াবিশেষ্য পদ রূপ").
+entry(fettle, v, [fettled,fettling,fettles], "এর চারপাশে ফেটলিং দিয়ে আবৃত করা").
+এন্ট্রি(ফেটলার, ন, [ফেটলার্স], "যিনি ফেটল করেন")।
+এন্ট্রি(ফেটলিং, এন, [ফেটলিংস], "চুল্লির তপ্ত অংশে নিক্ষেপিত ঢিলা পদার্থ যা এটিকে সুরক্ষা দেয়")।
+entry(ভ্রূণ, বিশেষ্য, [ভ্রূণগুলি], "এর গর্ভে বাহিত অনাগত জীব যা তার বিকাশের পরে পর্যায়ে থাকে")।
+entry(feu, v, [feued,feuing,feus], "স্কটিশ সামন্ত আইন অনুযায়ী জমি প্রদান করা").
+এন্ট্রি(ফিউর, এন, [ফিউরস], "স্কটিশ সামন্ত আইন অনুসারে প্রদত্ত জমি").
+এন্ট্রি(ফিউড, ভি, [ফিউডেড,ফিউডিং,ফিউডস], "একটি তিক্ত ক্রমাগত শত্রুতায় জড়িত হওয়া")।
+প্রবেশ(ফিউডাল, বিশেষণ, [], "মধ্যযুগীয় ইউরোপের একটি রাজনৈতিক এবং অর্থনৈতিক ব্যবস্থা সম্পর্কিতFEUDALLY ক্রি.বিশেষন").
+এন্ট্রি(ফিউজডারি, ন, [ফিউজডারিজ], "একজন ভ্যাসাল").
+এন্ট্রি(ফিউডিস্ট, এন, [ফিউডিস্টস], "যে ঝগড়া করে")।
+entry(জ্বর, v, [জ্বরাতুর,জ্বরাচ্ছন্ন,জ্বর], "শরীরের তাপমাত্রা অস্বাভাবিকভাবে বৃদ্ধির মাধ্যমে প্রভাবিত করা").
+এন্ট্রি(জ্বরাক্রান্ত, বিশেষণ, [], "জ্বর থাকা").
+এন্ট্রি(জ্বরপূর্ণ, বিশেষণ, [], "জ্বরগ্রস্ত")।
+entry(একটু, বিশেষণ, [], "FEWER FEWESTপরিমাণে বা সংখ্যা হিসেবে কম সংখ্যক").
+এন্‌ট্রি(ফিউনেস, ন্‌, [ফিউনেসেস], "অল্পতার অবস্থা")।
+এন্ট্রি(ফিউট্রিলস, এনপিএল, [], "অল্প মূল্যের জিনিস").
+entry(fey, adj, [], "FEYER FEYESTcrazyFEYLY adv").
+entry(feyness, n, [feynesses], "ফেয় অবস্থায় থাকা").
+এন্ট্রি(ফেজ, ন, [ফেজেস], "অথবা ফেজিজএকটি ধূসর টুপি যা নিকট প্রাচ্যে পুরুষরা পরিধান করেনফেজড ফেজি বিশেষণ")।
+এন্ট্রি(ফিয়াক্র, ন, [ফিয়াক্রেস], "একটি ছোট গাড়ি").
+এন্ট্রি(ফিয়ান্স, ন, [ফিয়ান্সেস], "বিবাহের জন্য নিযুক্ত একটি পুরুষ")।
+entry(বাগদত্তা, n, [বাগদত্তারা], "একজন নারী যাঁর বিয়ে নিশ্চিত হয়েছে").
+এন্ট্রি(ফিয়ার, ন, [ফিয়ার্স], "স্কটিশ আইনের অধীনে জমির একটি ধরনের পূর্ণ মালিকানার ধারক")।
+এন্ট্রি(ফিয়াস্কো, এন, [ফিয়াস্কোস], "অথবা FIASCHI একটি মদের বোতল")।
+এন্ট্রি(ফিয়াস্কো, ন, [ফিয়াস্কোস], "অথবা ফিয়াস্কোস একটি সম্পূর্ণ ব্যর্থতা")।
+entry(ফিয়াট, ন, [ফিয়াটস], "একটি কর্তৃত্বপূর্ণ আদেশ")।
+entry(fib, v, [fibbed, fibbing, fibs], "তুচ্ছ মিথ্যা বলা").
+এন্ট্রি(ফিবার, n, [ফিবার্স], "একজন যে ফিব করে")।
+এন্ট্রি(ফাইবার, ন, [ফাইবার্স], "একটি থ্রেড বা থ্রেডের মতো অবজেক্ট বা কাঠামোফাইবারড বিশেষ্য")।
+এন্ট্রি(ফাইবারাইজ, ক্রিয়া, [ফাইবারাইজড, ফাইবারাইজিং, ফাইবারাইজেস], "তন্তুতে ভাঙ্গা").
+প্রবেশ(ফিব্রান, n, [ফিব্রানস], "একটি কাপড় যা স্পুন-রেয়ন সুতা দিয়ে তৈরি")।
+এন্ট্রি(ফাইবার, ন, [ফাইবারস], "ফাইবারফাইবারেড বিশেষণ")।
+এন্ট্রি(ফাইব্রিল, ন, [ফাইব্রিলস], "একটা ছোট ফাইবার")।
+entry(fibrilla, n, [ফাইব্রিলি], "একটি ফাইব্রিল")।
+এন্ট্রি(ফাইব্রিন, ন, [ফাইব্রিনস], "একটি অদ্রবণীয় প্রোটিন")।
+এনট্রি(ফাইব্রয়েড, এন, [ফাইব্রয়েডস], "একটি ফাইব্রোমা")।
+এন্ট্রি(ফিব্রোইন, এন, [ফিব্রোইনস], "একটি অদ্রবণীয় প্রোটিন")।
+এন্ট্রি(ফাইব্রোমা, এন, [ফাইব্রোমাস], "অথবা ফাইব্রোমাটাএকটি ক্ষতিকারক টিউমার যা তন্তু সূত্রীয় টিস্যু দ্বারা গঠিত")।
+প্রবেশ(ফাইব্রোসিস, ন, [ফাইব্রোসেস], "একটি শারীরিক অঙ্গে অতিরিক্ত তন্তুযুক্ত টিস্যুর বিকাশ ফাইব্রোটিক বিশেষণ").
+এন্ট্রি(ফাইব্রাস, বিশেষণ, [], "তন্তু ধারণকারী, তন্তু নিয়ে গঠিত বা তন্তুর মতো অনুরূপ").
+এন্ট্রি(ফিবস্টার, এন, [ফিবস্টার্স], "একটি যে ফিবস")।
+এন্ট্রি(ফিবুলা, ন, [ফিবুলাস], "অথবা ফিবুলাএ পায়ের হাড়ফিবুলার বিশেষণ").
+entry(fice, n, [fices], "একটি ফিস্ট").
+এন্ট্রি(ফিশ, এন, [ফিশেস], "একটি মাইক্রোফিল্ম শীট")।
+এন্ট্রি(ফিসু, ন, [ফিসুস], "একটি মহিলার স্কার্ফ")।
+এন্ট্রি(ফিসিন, ন, [ফিসিনস], "একটি এনজাইম")।
+প্রবেশ(অস্থির, বিশেষণ, [], "অস্থিরতম অস্থিরতম কেবলমাত্র FICKLY ক্রি").
+এন্ট্রি(ফিকো, এন, [ফিকোস], "অল্প মূল্যের কিছু").
+এন্ট্রি(ফিকটাইল, বিশেষণ, [], "নমনীয়").
+এন্ট্রি(উপন্যাস, ন, [উপন্যাসগুলি], "একটি সাহিত্যকর্ম যা কল্পনা দ্বারা সৃষ্ট বিষয়বস্তু ধারণ করে")।
+এন্ট্রি(কল্পিত, বিশেষণ, [], "কল্পনাপ্রসূত")।
+entry(ফিকাস, n, [ফিকাসগুলি], "একটি ক্রান্তীয় গাছ").
+এন্ট্রি(fid, n, [fids], "একটি আয়তাকার বার যা শীর্ষ মাস্তুলের সমর্থন হিসাবে ব্যবহৃত হয়")।
+এন্ট্রি(ফিডল, ভি, [ফিডলড,ফিডলিং,ফিডলস], "একটি বেহালা বাজানো")।
+এন্ট্রি(ফিডলার, এন, [ফিডলার্স], "যে একজন ফিডলার").
+প্রবেশ(ফিড়িং, ন, [ফিড়িঙ্গস], "বেহালা বাজানোর ক্রিয়া")।
+এন্ট্রি(ফিডলি, বিশেষণ, [], "ফিডলিয়ার ফিডলিস্টজটিলভাবে পরিচালনা করা কঠিন")।
+এন্ট্রি(ফাইডিজম, ন, [ফাইডিজমস], "যুক্তির চেয়ে বিশ্বাসের উপর নির্ভরতা")।
+entry(fideist, n, [fideists], "একজন ফিডেইজমে বিশ্বাসী")।
+এন্ট্রি(ফিডেলিটি, ন, [ফিডেলিটিজ], "বিশ্বস্ততা")।
+এন্ট্রি(ফিজ, ভি, [ফিজড, ফিজিং, ফিজেস], "অস্থিরভাবে নড়াচড়া করা")।
+প্রবেশ(ফিডজেট, ক্রিয়া, [ভিডজেটেড, ফিডজেটিং, ফিডজেটস], "নিগুন বা অস্থিরভাবে নড়াচড়া করা").
+এন্ট্রি(ফিজেটার, ন, [ফিজেটারস], "যে ব্যক্তি কুঁচিকুঁচি করে").
+এন্ট্রি(ফিজেটি, বিশেষণ, [], "অস্থিরভাবে বিচলিত")‌.
+এন্ট্রি(fidging, present, [], "fidge এর বিশেষণ পদরূপ").
+entry(ফিডো, ন, [ফিডোস], "একটি ত্রুটিপূর্ণ মুদ্রা")।
+এন্ট্রি(ফিডুশিয়াল, বিশেষণ, [], "বিশ্বাস বা আস্থার উপর ভিত্তি করে")।
+entry(fie, interj, [], "অসন্তোষ প্রকাশ করতে ব্যবহৃত").
+এন্ট্রি(ফিফ, ন, [ফিফস], "একটি সামন্ত প্রমত্তি")।
+এন্ট্রি(ফীফডম, ন, [ফীফডমস], "একটি ফীফ")।
+এন্ট্রি(ক্ষেত্র, ভি, [ফিল্ডেড, ফিল্ডিং, ফিল্ডস], "ক্ষেত্ররূপে খেলতে").
+এন্ট্রি(ফিল্ডার, ন, [ফিল্ডারস], "যে খেলার মাঠে বল ধরে বা তুলে নেয়")।
+এন্ট্রি(অসুর, ন, [অসুরেরা], "একটি দানব")।
+entry(অতি নিষ্ঠুর, বিশেষণ, [], "অত্যন্ত দুষ্ট বা নিষ্ঠুর").
+entry(প্রচণ্ড, বিশেষণ, [], "প্রচণ্ডতর প্রচণ্ডতমহিংস্রভাবে আক্রমণাত্মকপ্রচণ্ডরূপে ক্রিয়া").
+entry(fiery, adj, [], "FIERIER FIERIESTতীব্রভাবে উত্তপ্তFIERILY adv").
+entry(fiesta, n, [fiestas], "একটি উৎসব")।
+এন্ট্রি(ফিফ, ভি, [ফিফড, ফিফিং, ফিফস], "উচ্চস্বরে বাঁশি বাজানো")।
+এন্ট্রি(ফাইফার, এন, [ফাইফারস], "যে ফাইফ বাজায়")।
+এন্ট্রি(পনরো, ন, [পনরোগুলি], "একটি সংখ্যা")।
+এন্ট্রি(পঞ্চম, ন, [পঞ্চমগুলি], "পাঁচটি সমান অংশের একটি")।
+এন্ট্রি(পঞ্চমত, ক্রিয়াবিশেষণ, [], "পঞ্চম স্থানে") .
+entry(fiftieth, n, [fiftieths], "পঞ্চাশটি সমান অংশের একটি").
+এন্ট্রি(পঞ্চাশ, ন, [পঞ্চাশের দশক], "একটি সংখ্যা")।
+এনট্রি(পঞ্চাশের_কাছে, বিশেষণ, [], "প্রায় পঞ্চাশ বছর বয়সী হওয়া").
+এন্ট্রি(fig, v, [figged,figging,figs], "শোভিত করা")।
+প্রবেশ(ফিগিইটার, ন, [ফিগিইটারস], "একটি বৃহৎ পোকা")।
+entry(যুদ্ধ, v, [যুদ্ধ_করা,যুদ্ধ_করছে,যুদ্ধ_গুলি], "প্রতিপক্ষকে পরাজিত করার প্রচেষ্টা করা").
+entry(যোদ্ধা, n, [যোদ্ধারা], "যিনি লড়াই করেন").
+entry(লড়াই, ন, [লড়াইগুলি], "যে লড়াই করে তার কাজ").
+এন্ট্রি(ফিগমেন্ট, ন, [ফিগমেন্টস], "মানসিক উদ্ভাবনের একটি পণ্য")।
+entry(figtree, n, [figtrees], "একটি গাছ যা ডুমুর ফল দেয়, নরম মিষ্টি অন্ধকার ফল").
+entry(figuline, n, [figulines], "মাটির বাসনপত্রের টুকরো").
+entry(figural, adj, [], "মানুষ বা প্রাণীর আকার নিয়ে গঠিত").
+এন্ট্রি(ফিগুরান্ট, ন, [ফিগুরান্টরা], "একজন ব্যালে নর্তকী যে শুধুমাত্র দলে নাচে")।
+এন্ট্রি(আকৃতিগত, বিশেষণ, [], "নির্দিষ্ট আকৃতি সহ")।
+entry(figure, v, [figured,figuring,figures], "গণনা করা").
+entry(figurer, n, [figurers], "যে গণনা করে একজন").
+entry(মূর্তি, n, [মূর্তিগুলি], "একটি ছোট ভাস্কর্য").
+এন্ট্রি(ফিগওয়ার্ট, ন, [ফিগওয়ার্টস], "একটি ফুল গাছ")।
+এন্ট্রি(ফিল, ন, [ফিলস], "ইরাক এবং জর্ডানের একটি মুদ্রা")।
+ফাইল তালিকা, প্ল, [], "ফিলামের".
+এন্ট্রি(ফিলাগ্রি, v, [ফিলাগ্রিড,ফিলাগ্রিং,ফিলাগ্রিস], "ফিলিগ্রি করা")।
+এন্ট্রি(ফিলামেন্ট, এন, [ফিলামেন্টস], "একটি খুব পাতলা সুতো বা সুতো সদৃশ গঠন").
+entry(filar, adj, [], "সূতোর সাথে সম্পর্কিত")।
+entry(filaree, n, [filarees], "একটি ইউরোপীয় আগাছা")।
+এন্ট্রি(ফিলারিয়া, ন, [ফিলারিয়ায়], "একটি পরজীবী কৃমি ফিলারিয়াল ফিলারিয়ান বিশেষণ").
+এন্ট্রি(ফিলারিয়িড, ন, [ফিলারিয়িডস], "ফিলারিয়া").
+এন্ট্রি(ফিলেচার, ন, [ফিলেচারস], "কোকুন থেকে সিল্কের রিলিং").
+entry(ফিলবার্ট, ন, [ফিলবার্টস], "একটি ইউরোপীয় গুল্মের খাদ্যোপযোগী বাদাম").
+এন্ট্রি(ফিলচ, ক্রি, [ফিলচড,ফিলচিং,ফিলচেস], "চুরি করা").
+এন্ট্রি(ফিলচার, ন, [ফিলচারস], "যে চুরি করে").
+entry(file, v, [filed,filing,files], "ভবিষ্যতের রেফারেন্সের জন্য সাজানোFILEABLE বিশেষ্য")।
+entry(filefish, n, [filefishes], "একটি সামুদ্রিক মাছ")।
+entry(filemot, adj, [], "একটি বাদামি-হলুদ রঙের").
+entry(ফাইলনাম, ন, [ফাইলনামসমূহ], "একটি কম্পিউটার ফাইলের নাম")।
+এনট্রি(ফাইলার, ন, [ফাইলাররা], "যে ফাইল করে")।
+Prolog:
+এন্ট্রি(ফিলেট, ক্রিয়া, [ফিলেটেড, ফিলেটিং, ফিলেটস], "ফিলেট করা").
+এন্ট্রি(ফিলিয়াল, বিশেষণ, [], "পুত্র বা কন্যার সম্পর্কিতFILIALLY ক্রিয়াবিশেষণ").
+entry(filiate, v, [filiated,filiating,filiates], "ঘনিষ্ঠ সম্পর্ক স্থাপন করা").
+এন্ট্রি(ফিলিবেগ, এন, [ফিলিবেগস], "স্কটিশ হাইল্যান্ডারদের দ্বারা পরিধান করা একটি প্লিটেড স্কার্ট")।
+এন্ট্রি(ফিলিসাইড, ন, [ফিলিসাইডস], "নিজের সন্তানকে হত্যা করা")।
+entry(filiform, adj, [], "সূতার মতো আকৃতির").
+entry(ফিলিগ্রি, v, [ফিলিগ্রীড,ফিলিগ্রিং,ফিলিগ্রিস], "জটিল অলঙ্কারিক কাজ দিয়ে সজ্জিত করা").
+এন্ট্রি(ফাইলিং, ন, [ফাইলিংস], "একটি কণা যা একটি ফাইল দ্বারা অপসারণ করা হয়")।
+entry(filister, n, [ফিলিস্টারস], "একটি জানালার ফ্রেমের উপর একটি খাঁজ").
+entry(filk, n, [filks], "একটি জনপ্রিয় সঙ্গীতের ধরন যা লোকগানকে হাস্যকরভাবে অনুকরণ করে").
+এন্ট্রি(পূরণ, v, [পূর্ণ,পূরণ,পূর্ণগুলো], "যতটা রাখা যায় তার পুরোটাই রাখাFILLABLE বিশেষণ")।
+entry(fille, n, [filles], "একটি মেয়ে").
+এন্ট্রি(ফিলার, n, [ফিলারস], "একটি যা পূরণ করে")।
+এন্ট্রি(ফিলেট, v, [ফিলেটেড,ফিলেটিং,ফিলেটস], "বোনলেস স্লাইস কাটার জন্য")।
+এন্ট্রি(ফিলেটার, এন, [ফিলেটারস], "যে ফিলেট করে")।
+Prolog:
+entry(fillies, pl, [], "ফিলির").
+এন্ট্রি(ফিলিং, ন, [ফিলিংস], "যা কিছু পূরণের জন্য ব্যবহৃত হয়")।
+entry(fillip, v, [filliped,filliping,fillips], "তীব্রভাবে আঘাত করা").
+এন্ট্রি(ফিলো, ন, [ফিলোস], "ফাইলো")।
+এন্ট্রি(filly, n, [ফিলিস], "একটি তরুণী স্ত্রী ঘোড়া").
+entry(চলচ্চিত্র, v, [চলচ্চিত্রায়িত,চলচ্চিত্রায়ন,চলচ্চিত্রগুলি], "একটি চলচ্চিত্র নির্মাণFILMABLE বিশেষণ").
+এন্ট্রি(ফিল্মকার্ড, এন, [ফিল্মকার্ডস], "একটি ফিশে")।
+entry(filmdom, n, [filmdoms], "সিনেমা শিল্প").
+এন্ট্রি(ফিল্মার, ন, [ফিল্মার্স], "যে ফিল্ম করে")।
+এন্ট্রি(ফিল্মফেস্ট, ন, [ফিল্মফেস্টস], "একটি উৎসব যেখানে অনেক চলচ্চিত্র প্রদর্শিত হয়")।
+entry(চলচ্চিত্রপ্রেমী, n, [চলচ্চিত্রপ্রেমীরা], "যে চলচ্চিত্র দেখতে যায়")।
+entry(filmi, n, [filmis], "ভারতীয় চলচ্চিত্রের জন্য রচিত সঙ্গীত")।
+entry(চলচ্চিত্রিক, বিশেষণ, [], "চলচ্চিত্রের সাপেক্ষে").
+এন্ট্রি(ফিল্মিয়ার, তুলনামূলক, [], "ফিল্মির").
+এন্ট্রি(ফিলমিয়েস্ট, অতিশয়ত্ব, [], "ফিলমির").
+এন্ট্রি(ফিলমিলি, ক্র্যা, [], "একটি চলচ্চিত্রময় ভাবে")।
+এন্ট্রি(ফিল্মল্যান্ড, ন, [ফিল্মল্যান্ডস], "ফিল্মডোম")।
+এনট্রি(ফিল্মলেস, বিশেষণ, [], "ছবির অভাবযুক্ত").
+এন্ট্রি(ফিল্মেলের মতো, বিশেষণ, [], "চলচ্চিত্রের মতো অনুরূপ").
+এন্ট্রি(ফিল্মসেট, ভি, [ফিল্মসেট, ফিল্মসেটটিং, ফিল্মসেটস], "ফটোসেটে")।
+entry(filmy, adj, [], "ফিল্মিয়ার ফিল্মিস্টফিল্মের মতো বা ফিল্ম দ্বারা আচ্ছাদিত অস্পষ্ট").
+এন্ট্রি(ফাইলো, ন, [ফিলোস], "ফাইলো")।
+এন্ট্রি(ফিলোস, বিশেষণ, [], "সুতোর মতো দেখানো")।
+এন্ট্রি(ফিল্টার, ভি, [ফিল্টারড,ফিল্টারিং,ফিল্টারস], "একটি ফিল্টারের মধ্য দিয়ে পাস করা একটি ডিভাইস যা ঝুলন্ত বস্তু অপসারণ করে")।
+প্রবেশ(ফিল্টারার, ন, [ফিল্টারারগণ], "যে ফিল্টার করে")।
+এন্ট্রি(নোংরা, ন, [নোংরাগুলি], "নোংরা বা মলিন পদার্থ")।
+entry(নোংরা, বিশেষণ, [], "নোংরাযুক্ত নোংরাতমঅপমানজনকভাবে নোংরা নোংরাভাবে ক্রিয়া-বিশেষণ").
+এন্ট্রি(ফিল্ট্রেট, v, [ফিল্ট্রেটেড, ফিল্ট্রেটিং, ফিল্ট্রেটস], "ফিল্টার করা")।
+এন্ট্রি(ফিলাম, ন, [ফিলা], "একটি সুতা সদৃশ শারীরবৃত্তীয় গঠন").
+এনট্রি(ফিম্বল, ন, [ফিম্ব্লেস], "পুরুষ শণ উদ্ভিদ")।
+এন্ট্রি(ফিমব্রিয়া, n, [ফিমব্রি], "একটি ঝুল বা ঝূল-সদৃশ গঠনফিমব্রিয়াল বিশেষণ").
+এন্ট্রি(ফিন, ক্রিয়া, [ফিনড,ফিনিং,ফিনস], "ফিন দ্বারা সজ্জিত করার জন্য বাইরের প্যাডেল আকৃতির গঠনসমূহ")।
+entry(finable, adj, [], "জরিমানা প্রদানের বিষয়").
+এন্ট্রি(ফিনাগেল, ক্রিয়া, [ফিনাগেলড,ফিনাগেলিং,ফিনাগেলস], "প্রতারণার মাধ্যমে অর্জন করা")।
+entry(finagler, n, [finaglers], "একজন যে প্রতারণা করে")।
+এন্ট্রি(ফাইনাল, ন, [ফাইনালস], "একটি শিক্ষাক্রমের শেষ পরীক্ষা")।
+entry(সমাপ্তি, n, [সমাপ্তি_সমূহ], "কোনো কিছুর সমাপ্তি বা পরিসমাপ্তি").
+এন্ট্রি(ফাইনালিস, এন, [ফাইনালেস], "মধ্যযুগীয় সঙ্গীতে একটি সুরের প্রকার").
+এন্ট্রি(ফাইনালাইজ, ভি, [ফাইনালাইজড, ফাইনালাইজিং, ফাইনালাইজেস], "ফাইনালাইজ")।
+এন্ট্রি(ফাইনালিজম, এন, [ফাইনালিজমস], "সর্বশেষ উদ্দেশ্য দ্বারা সমস্ত ঘটনা নির্ধারিত হয় এমন মতবাদ")।
+এন্ট্রি(ফাইনালিস্ট, এন, [ফাইনালিস্টস], "এক প্রতিযোগী যে প্রতিযোগিতার শেষ অংশে পৌঁছে").
+এন্ট্রি(ইতি, ন, [ইতিগুলি], "নিশ্চিত অবস্থা")।
+এন্ট্রি(ফাইনালাইজ, ভি, [ফাইনালাইজড, ফাইনালাইজিং, ফাইনালাইজেস], "সমাপ্ত রূপে স্থাপন করা")।
+entry(অবশেষে, ক্রিয়া-বিশেষণ, [], "অবশেষে").
+প্রবেশ(অর্থায়ন, v, [অর্থায়িত,অর্থায়ন,অর্থায়নসমূহ], "অর্থ সরবরাহ করা")।
+এন্ট্রি(ফিনব্যাক, ন, [ফিনব্যাকস], "দ্য রর্কুয়াল")।
+Prolog: entry(finca, n, [fincas], "স্প্যানিশ আমেরিকার একটি এস্টেট").
+এন্ট্রি(ফিঞ্চ, ন, [ফিঞ্চেস], "একটি ছোট পাখি")।
+এন্ট্রি(সন্ধান, v, [পেয়েছে, খোঁজা, খোঁজে], "অনুসন্ধানের পরে পাওয়াFINDABLE বিশেষণ")।
+এন্ট্রি(ফাইন্ডার, ন, [ফাইন্ডার্স], "যে খুঁজে পায়")।
+এন্ট্রি(ফাইন্ডিং, এন, [ফাইন্ডিংস], "কিছু যা পাওয়া যায়")।
+এন্ট্রি(ফাইন, বিশেষণ, [], "ফাইনার ফাইনেস্টচমৎকার")।
+প্রবেশ(জরিমানা, v, [জরিমানা_দেওয়া,জরিমানা_দেওয়া_হচ্ছে,জরিমানাগুলি], "আর্থিক শাস্তি প্রদানের জন্য").
+এন্ট্রি(ফাইনেবল, বিশেষণ, [], "ফাইনেবল")।
+এন্ট্রি(ফাইনলি, অ্যাডভ, [], "একটি সূক্ষ্ম পদ্ধতিতে")।
+এন্ট্রি(ফাইননেস, এন, [ফাইননেসেস], "সুন্দর বা চমৎকার হওয়ার গুণাবলী")।
+এন্ট্রি(ফাইনার, তুলনামূলক, [], "ফাইন এর").
+এন্ট্রি(ফাইনারি, ন, [ফাইনারিস], "অলঙ্কৃত সজ্জা")।
+entry(সুক্ষ্মভাবে, বিশেষণ, [], "অত্যন্ত যত্ন সহকারে উন্নত").
+এন্ট্রি(ফিনেস, ক্রিয়া, [ফিনেসড, ফিনেসিং, ফিনেসেস], "কৌশলপূর্ণ পদক্ষেপ দ্বারা অর্জন করা")।
+প্রবেশ(ফাইনেস্ট, ন, [ফাইনেস্টস], "নির্দিষ্ট শহরের পুলিশ")।
+entry(ফিনফিশ, n, [ফিনফিশেস], "একটি প্রকৃত মাছ").
+এন্ট্রি(ফিনফুট, ন, [ফিনফুটস], "একটি জলজ পাখি")।
+এন্ট্রি(ফিঙ্গার, ভি, [ফিঙ্গারড, ফিঙ্গারিং, ফিঙ্গার্স], "হাতের সমাপ্তি অংশকে আঙুল দ্বারা স্পর্শ করা")।
+এন্ট্রি(ফিঙ্গারার, ন, [ফিঙ্গারার্স], "যে আঙুল দেয়")।
+প্রবেশ(ফিনিয়াল, ন, [ফিনিয়ালস], "একটি মুকুট অলঙ্কারফিনিয়ালযুক্ত বিশেষণ")।
+এন্ট্রি(ফিনিক্যাল, বিশেষণ, [], "ফিনিকি")।
+প্রবেশ(ফিনিকিন, বিশেষণ, [], "খুঁতখুঁতে")।
+এন্ট্রি(ফিনিকি, বিশেষণ, [], "অত্যন্ত খুঁতখুঁতে").
+entry(finikin, adj, [], "খুঁতখুঁতে").
+entry(finiking, adj, [], "খুঁতখুঁতে").
+entry(fining, n, [finings], "ওয়াইনের পরিস্কারকরণ").
+এন্ট্রি(ফিনিস, এন, [ফিনিসেস], "শেষ")।
+এন্ট্রি(সমাপ্তি, v, [সমাপ্ত, সমাপ্তিকরণ, সমাপ্তিশেষ], "শেষ করা").
+এন্ট্রি(ফিনিশার, ন, [ফিনিশার্স], "যে সমাপ্ত করে")।
+এন্ট্রি(সীমিত, ন, [সীমিতগুলি], "কিছু যা সীমিত এবং নির্দিষ্ট সীমা রয়েছে")।
+এন্ট্রি(সীমিতভাবে, ক্রিয়াবিশেষণ, [], "একটি সীমিত পরিসীমায়")।
+এন্ট্রি(ফিনাইটিজম, ন, [ফিনাইটিজমস], "বিশেষ সত্তাটি সসীম এই বিশ্বাস")।
+এন্ট্রি(ফাইনিটিস্ট, ন, [ফাইনিটিস্টস], "ফাইনিটিজমের সমর্থক")।
+এন্ট্রি(ফিনিটো, বিশেষণ, [], "শেষ").
+এন্ট্রি(সীমাবদ্ধতা, এন, [সীমাবদ্ধতাসমূহ], "সীমিত থাকার অবস্থা")।
+এন্ট্রি(ফিঙ্ক, ভি, [ফিঙ্কড,ফিঙ্কিং,ফিঙ্কস], "পুলিশকে জানানোর জন্য")।
+entry(finless, adj, [], "পাখনাহীন").
+এন্ট্রি(ফিনলাইক, বিশেষণ, [], "ফিনের মতো দেখতে")।
+এন্ট্রি(ফিনমার্ক, ন, [ফিনমার্কস], "ফিনল্যান্ডের প্রাক্তন অর্থএকক").
+এন্ট্রি(ফিনান, ন, [ফিনানস], "স্মোকড হ্যাডক").
+এন্ট্রি(ফিনড, অতীত, [], "ফিনের কাল")।
+entry(finnicky, adj, [], "ফিনিকিয়ের ফিনিকিয়েস্টফিনিকি").
+এন্ট্রি (ফিনিয়ার, তুলনামূলক, [], "অফ ফিনি")।
+এন্ট্রি(ফিনিয়েস্ট, অতিশায়িত, [], "অফ ফিনি")।
+entry(ফিনিং, বর্তমান, [], "ফিন এর পার্টিসিপল").
+এন্ট্রি(ফিনমার্ক, ন, [ফিনমার্কস], "ফিনমার্ক")।
+এন্ট্রি(ফিনোচিও, এন, [ফিনোচিওস], "একটি বহুবর্ষজীবী ঔষধি").
+entry(fiord, n, [fiords], "ফিয়র্ড").
+এন্ট্রি(ফিপল, ন, [ফিপলস], "কিছু বাঁশির মুখে কাঠের একটি প্লাগ")।
+এন্ট্রি(ফিকে, ন, [ফিকেস], "একটি উষ্ণমণ্ডলীয় উদ্ভিদ")।
+এন্ট্রি(ফির, ন, [ফির্স], "একটি চিরহরিৎ গাছ")।
+এন্ট্রি(আগুন, v, [আগুন, আগুন লাগানো, আগুনগুলি], "বন্দুক থেকে ছোঁড়া দ্বারা প্রক্ষেপণ করাFIREABLE বিশেষণ").
+entry(অস্ত্র, n, [অস্ত্রসমূহ], "একটি অস্ত্র যা বারুদ দ্বারা গুলি ছোড়া হয়")।
+এন্ট্রি(ফায়ারব্যাক, ন, [ফায়ারব্যাকস], "একটি কাস্টআয়রন প্লেট যা অগ্নিকুণ্ডের পিছনে থাকে")।
+এন্ট্রি(ফায়ারবল, ন, [ফায়ারবলগুলি], "একটি আলোকিত উল্কা")।
+এন্ট্রি(ফায়ারবেস, ন, [ফায়ারবেসেস], "শত্রুর বিরুদ্ধে আগুনে আক্রমণ পরিচালনা করার জন্য একটি সামরিক ঘাঁটি")।
+এন্ট্রি(ফায়ারবার্ড, ন, [ফায়ারবার্ডস], "উজ্জ্বল বর্ণবিশিষ্ট একটি পাখি")।
+এন্ট্রি(ফায়ারবোট, ন, [ফায়ারবোটস], "একটি নৌকা যা অগ্নিনির্বাপক যন্ত্রপাতি সহ সজ্জিত")।
+এন্ট্রি(ফায়ারবোম্ব, v, [ফায়ারবোম্বেড, ফায়ারবোম্বিং, ফায়ারবোম্বস], "আগুন লাগানো বোমা দিয়ে আক্রমণ করা")।
+এন্ট্রি(ফায়ারবক্স, ন, [ফায়ারবক্সেস], "একটি চেম্বার যেখানে জ্বালানি পোড়ানো হয়")।
+এন্ট্রি(আগুনবিড়াল, সং, [আগুনবিড়ালসমূহ], "একটি ছোট ডানা-বিহীন পোকা")।
+এন্ট্রি(ফায়ারবাগ, ন, [ফায়ারবাগস], "একজন অগ্নিসংযোগকারী")।
+এন্ট্রি(ফায়ারক্লে, এন, [ফায়ারক্লেস], "একটি তাপপ্রতিরোধী মাটি")।
+এন্ট্রি(আগুন, অতীত, [], "আগুনের কাল")।
+entry(ফায়ারড্যাম্প, ন, [ফায়ারড্যাম্পস], "একটি দাহ্য গ্যাস").
+এন্ট্রি(ফায়ারডগ, ন, [ফায়ারডগস], "একটি আন্ডাইরন")।
+এন্ট্রি(ফায়ারফ্যাং, ভি, [ফায়ারফ্যাংড, ফায়ারফ্যাংয়িং, ফায়ারফ্যাংস], "জারণ দ্বারা বিচ্ছিন্ন করা")।
+এন্ট্রি(ফায়ারফ্লাই, এন, [ফায়ারফ্লাইস], "একটি আলোকিত পোকা")।
+এন্ট্রি(ফায়ারহল, ন, [ফায়ারহলস], "একটি ফায়ার স্টেশন")।
+এন্ট্রি(ফায়ারহোস, ন, [ফায়ারহোসেস], "একটি হোস যা ফায়ারফাইটাররা ব্যবহার করে")।
+এন্ট্রি(ফায়ারলেস, বিশেষণ, [], "আগুনবিহীন")।
+এন্ট্রি(ফায়ারলিট, বিশেষণ, [], "আগুনের আলো দ্বারা আলোকিত")।
+এন্ট্রি(ফায়ারলক, ন, [ফায়ারলকস], "ধরনের একটি বন্দুক")।
+এন্ট্রি(ফায়ারম্যান, এন, [ফায়ারম্যান], "আগুন নেভানোর জন্য নিয়োজিত একজন মানুষ")।
+entry(firepan, n, [firepans], "জ্বলন্ত কয়লা ধরে রাখার জন্য একটি খোলা প্যান")।
+এন্ট্রি(ফায়ারপিঙ্ক, এন, [ফায়ারপিঙ্কস], "একটি ফুলের গাছ")।
+এন্ট্রি(ফায়ারপিট, ন, [ফায়ারপিটস], "একটি খাদ যেখানে আগুন জ্বালানোর জন্য মাটি খনন করা হয়")।
+এন্ট্রি(ফায়ারপ্লাগ, ন, [ফায়ারপ্লাগস], "একটি হাইড্র্যান্ট")।
+এন্ট্রি(ফায়ারপট, n, [ফায়ারপটস], "জ্বলন্ত জিনিসপত্র ভরাট মাটির হাঁড়ি")।
+এন্ট্রি(ফায়ারার, ন, [ফায়ারার্স], "একটি যা ফায়ার করে")।
+entry(firereel, n, [firereels], "একটি অগ্নিনির্বাপক ইঞ্জিন").
+entry(fireroom, n, [firerooms], "একটি কক্ষ যেটিতে জাহাজের বয়লার থাকে")।
+এন্ট্রি(ফায়ারশিপ, ন, [ফায়ারশিপস], "শত্রুর জাহাজের মধ্যে পাঠানো একটি জ্বলন্ত জাহাজ")।
+এন্ট্রি(ফায়ারসাইড, ন, [ফায়ারসাইডস], "আগ্নেয়স্তম্ভ অবিলম্বে চারপাশের এলাকা")।
+এন্ট্রি(ফায়ারট্র্যাপ, ন, [ফায়ারট্র্যাপস], "একটি ভবন যা সহজেই আগুন লাগতে পারে")।
+এন্ট্রি(ফায়ারওয়াল, ন, [ফায়ারওয়ালস], "একটি কম্পিউটার উপাদান যা অননুমোদিত ডেটা অ্যাক্সেস প্রতিরোধ করে")।
+এন্ট্রি(ফায়ারউইড, ন, [ফায়ারউইডস], "একটি বহুবর্ষজীবী ঔষধি").
+এন্ট্রি(ফায়ারউড, ন, [ফায়ারউডস], "জ্বালানি হিসেবে ব্যবহৃত কাঠ")।
+প্রবেশ(আতশবাজি, ন, [আতশবাজি], "আলো বা শব্দের আকর্ষণীয় প্রদর্শন তৈরির যন্ত্র").
+এন্ট্রি(ফায়ারওয়ার্ম, ন, [ফায়ারওয়ার্মস], "একটি জোনাকি পোকা")।
+entry(firing, n, [firings], "তাপ দ্বারা সেরামিক পণ্যের পরিপক্কতার প্রক্রিয়া").
+entry(firkin, n, [firkins], "একটি ব্রিটিশ ধারণ ক্ষমতার একক").
+এন্ট্রি(ফার্ম, বিশেষণ, [], "বেশি শক্তিশালী সবচেয়ে শক্তিশালীঅনমনীয় চাপের কাছে").
+এন্ট্রি(প্রতিষ্ঠান, ভি, [প্রতিষ্ঠিত,প্রতিষ্ঠিত হচ্ছে,প্রতিষ্ঠান সমূহ], "দৃঢ় করতে").
+entry(ফিরমান, ন, [ফিরমানস], "মধ্যপ্রাচ্যের কোনো সম্রাটের জারি করা এক আদেশ").
+এন্ট্রি(ফার্মার, এন, [ফার্মারস], "একটি কাঠের কাজের সরঞ্জাম")।
+entry(দৃঢ়ভাবে, ক্রিয়া বিশেষণ, [], "দৃঢ়তার সঙ্গে").
+entry(দৃঢ়তা, n, [দৃঢ়তাসমূহ], "দৃঢ় হওয়ার অবস্থা")।
+এন্ট্রি(ফার্মওয়্যার, এন, [ফার্মওয়্যারস], "কম্পিউটার প্রোগ্রাম যা স্থায়ীভাবে একটি মাইক্রোচিপে সংরক্ষিত থাকে")।
+entry(firn, n, [firns], "নেভে").
+entry(firry, adj, [], "ফার দিয়ে ভরা").
+এন্ট্রি(প্রথম, এন, [প্রথমগুলি], "অন্যদের পূর্বে যা আসে")।
+এন্ট্রি(প্রথমত, ক্রিয়া বিশেষণ, [], "সবচেয়ে আগের").
+entry(firth, n, [firths], "সমুদ্রের একটি প্রবাহিকা").
+entry(fisc, n, [fiscs], "একটি রাজ্য বা রাজকীয় কোষাগার").
+এন্ট্রি (ফিসক্যাল, এন, [ফিসকালস], "একজন পাবলিক প্রসিকিউটর")।
+entry(অর্থনৈতিকভাবে, ক্রিয়া বিশেষণ, [], "আর্থিক বিষয়ের সাথে সম্পর্কিত").
+এন্ট্রি(মাছ, ক্রিয়া, [ধরা, ধরা-হচ্ছে, ধরছে], "শীতল-রক্ত aquatic মেরুদণ্ডী প্রাণীদের ধরা বা ধরার চেষ্টা করা")।
+এন্ট্রি(ফিশেবল, বিশেষণ, [], "মাছ ধরার জন্য উপযুক্ত")।
+entry(মাছধরা_নৌকা, n, [মাছধরা_নৌকাগুলি], "মাছ ধরার জন্য ব্যবহৃত একটি জলযান").
+এন্ট্রি(ফিশবোল্ট, ন, [ফিশবোল্টসমূহ], "এক ধরনের বোল্ট")।
+এন্ট্রি (মাছের কানকী, ন, [মাছের কানকীগুলি], "একটি মাছের হাড়")।
+entry(মাছেরবাটি, n, [মাছেরবাটিগুলি], "একটি বাটি যেখানে জীবিত মাছ রাখা হয়").
+এন্ট্রি(ফিশার, ন, [ফিশারস], "যে মাছ ধরে")।
+এন্ট্রি(মৎস্য, এন, [মৎস্যগুলি], "মাছ ধরার স্থান")।
+এন্ট্রি(ফিশআই, ন, [ফিশআইস], "একটি সন্দেহজনক দৃষ্টি")।
+এন্ট্রি(ফিশগিগ, ন, [ফিশগিগস], "মাছ ধরার জন্য একটি প্রংযুক্ত সরঞ্জাম").
+এন্ট্রি(ফিশহুক, এন, [ফিশহুকস], "মাছ ধরার জন্য একটি কাঁটাযুক্ত হুক")।
+এন্ট্রি(ফিশিয়ার, তুলনামূলক, [], "র মাছ").
+এন্ট্রি(ফিশিয়েস্ট, অতিশয়ণ, [], "ফিশি এর").
+entry(মাছের_মত, অ্যাডভ, [], "মাছের ভাবে").
+এন্ট্রি(ফিশিং, ন, [ফিশিংগুলি], "মাছ ধরা পেশা বা অবসর সময়ের কাজ").
+এন্ট্রি(ফিশকিল, ন, [ফিশকিলস], "হঠাৎ করে প্রচুর সংখ্যক মাছের বিনাশ")।
+entry(fishless, adj, [], "মাছহীন").
+এন্ট্রি(মাছের_মতো, বিশেষণ, [], "মাছের অনুরূপ").
+এন্ট্রি(ফিশলাইন, ন, [ফিশলাইন্স], "মাছ ধরায় ব্যবহৃত একটি তার")।
+entry(ফিশমিল, n, [ফিশমিলস], "ভূমিতে শুকানো মাছ")।
+এন্ট্রি(ফিশনেট, n, [ফিশনেটস], "মাছ ধরার জন্য একটি জাল")।
+entry(ফিশপোল, ন, [ফিশপোলস], "একটি মাছ ধরার ছিপ")।
+এন্ট্রি(মাছেরপুকুর, ন, [মাছেরপুকুরসমূহ], "একটি পুকুর যা ভোজ্য মাছের সমৃদ্ধ").
+এন্ট্রি(ফিসটেইল, v, [ফিসটেইলড, ফিসটেইলিং, ফিসটেইলস], "একটি গতিশীল যানবাহনের পিছনের দিকটি একপাশ থেকে অন্যপাশে স্লাইড করা")।
+প্রবেশ(ফিশওয়ে, ন, [ফিশওয়েজ], "একটি যন্ত্র যা মাছকে বাঁধের চারপাশে চলতে সক্ষম করে").
+এন্ট্রি(মাছওয়ালী, ন, [মাছওয়ালীরা], "একজন নারী যিনি মাছ বিক্রি করেন")।
+এন্ট্রি(মাছকৃমি, ন, [মাছকৃমি], "একটি কৃমি যা টোপ হিসাবে ব্যবহৃত হয়")।
+এন্ট্রি(ফিশি, বিশেষণ, [], "ফিশিয়ার ফিশিয়েস্টফ বা মাছের অনুরূপ").
+ফিস্সাটে প্রবেশিকা, বিশেষণ, [], "গভীরভাবে বিভক্ত"।
+এন্ট্রি(ফিসাইল, বিশেষণ, [], "বিভক্ত হওয়ার যোগ্য")।
+এন্ট্রি(ফিশন, ভি, [ফিশনড,ফিশনিং,ফিশনস], "অংশে বিভক্ত হওয়া").
+এন্ট্রি(ফিসিপেড, ন, [ফিসিপেডস], "একটি স্তন্যপায়ী প্রাণী যার পৃথক পৃথক আঙ্গুল রয়েছে")।
+entry(fissural, adj, [], "দীর্ঘ সরু খোলার সাথে সম্পর্কিত").
+এন্ট্রি(ফিশার, ভি, [ফিশারড, ফিশারিং, ফিশারস], "বিভক্ত করা");
+এন্ট্রি(ফিস্ট, ভি, [ফিস্টেড, ফিস্টিং, ফিস্টস], "মুষ্টি দিয়ে আঘাত করা, হাত শক্তভাবে বন্ধ করা")।
+entry(fistful, n, [fistfuls], "এক মুঠো").
+এন্ট্রি(ফিস্টিক, বিশেষণ, [], "মুষ্টিযুদ্ধ সম্পর্কিত")।
+এন্ট্রি(ফিস্টনোট, ন, [ফিস্টনোটস], "একটি পাঠ্যের অংশ যা সূচক চিহ্ন দ্বারা আকর্ষণ করা হয়").
+এন্ট্রি(ফিস্তুলা, ন, [ফিস্তুলাস], "অথবা FISTULAEআ অসম্পূর্ণভাবে ক্ষত বন্ধ হওয়ার ফলে গঠিত একটি নালিকাFISTULAR বিশেষন").
+এন্ট্রি (ফিট, বিশেষণ, [], "FITTER FITTESThealthy")।
+entry(ফিট, ক্রিয়া, [ফিটেড,ফিটিং,ফিটস], "প্রয়োজনীয় আকার এবং আকারে আনা").
+এন্ট্রি(ফিচ, ন, [ফিচেস], "একটি বেজি")।
+এন্ট্রি(ফিচি, বিশেষণ, [], "ফিচি")।
+entry(ফিচেট, বিশেষ্য, [ফিচেটস], "একটি ফিচ").
+entry(fitchew, n, [fitchews], "একটি ফিচ").
+এন্ট্রি(ফিচি, বিশেষণ, [], "যার বাহুগুলি শেষ হয় একটি বিন্দুতে  একটি রংধনু ক্রসের জন্য ব্যবহৃত").
+entry(fitful, adj, [], "অনিয়মিতভাবে পুনরাবৃত্তিFITFULLY ক্রি").
+এন্ট্রি(ফিটলি, ক্রিয়া বিশেষণ, [], "উপযোগীভাবে").
+entry(ফিটমেন্ট, ন, [ফিটমেন্টস], "সরঞ্জাম").
+এন্ট্রি(ফিটনেস, ন, [ফিটনেসেস], "ফিট থাকার অবস্থা")।
+এন্ট্রি(ফিটেবল, বিশেষণ, [], "ফিট করা সম্ভব").
+entry(ফিটেড, অতীত, [], "ফিট এর কাল").
+এন্ট্রি(ফিটার, ন, [ফিটারস], "যে ফিট করে")।
+এন্ট্রি(সর্বাপেক্ষা_ফিট, অতিশায়ী, [], "ফিটের").
+এন্ট্রি(ফিটিং, ন, [ফিটিংস], "একটি ছোট প্রায়শই মানককৃত আনুষঙ্গিক অংশ")।
+এন্ট্রি(ফাইভ, ন, [ফাইভাস], "একটি সংখ্যা")।
+প্রবেশিকা(পাঁচগুণ, বিশেষণ, [], "পাঁচ গুণ মহান")।
+entry(ফাইভপিন, npl, [], "একটি বোলিং খেলা").
+এন্ট্রি(ফাইভার, ন, [ফাইভারস], "একটি পাঁচ ডলারের নোট")।
+entry(fix, v, [fixt,fixing,fixes], "মেরামত করাতেসক্ষম adj").
+entry(স্থির করা, ক্রি, [স্থির করেছিল,স্থির করা হচ্ছে,স্থির করে], "স্থিতিশীল বা স্থির করতে").
+এন্ট্রি(ফিক্সাটিফ, ন, [ফিক্সাটিফস], "ফিক্সেটিভ")।
+এন্ট্রি(ফিক্সেশন, এন, [ফিক্সেশনগুলি], "সংশোধনের কাজ")।
+entry(স্থায়ী, n, [স্থায়ীগুলি], "চিত্রকর্ম বা অঙ্কন সংরক্ষণের জন্য একটি পদার্থ").
+এন্ট্রি(নিশ্চিতভাবে, ক্রিয়া বিশেষণ, [], "দৃঢ়ভাবে")।
+এন্ট্রি(ফিক্সার, ন, [ফিক্সারস], "যে ঠিক করে")।
+এন্ট্রি(ফিক্সিংস, এনপিএল, [], "খাবারের মূল খাবারের সাথে পরিবেশন করার জন্য আনুষঙ্গিক").
+এন্ট্রি(ফিক্সইট, ন, [ফিক্সইটস], "একজন ব্যক্তি যিনি জিনিসপত্র মেরামত করার জন্য পরিচিত")।
+এন্ট্রি(ফিক্সিটি, এন, [ফিক্সিটিস], "স্থিতিশীলতা")।
+entry(fixt, a, [], "ফিক্সের অতীত কাল").
+এন্ট্রি(ফিক্সচার, এন, [ফিক্সচারগুলি], "একটি বাড়ির স্থায়ী অংশ বা সংযোজন").
+এন্ট্রি(ফিকচার, ন, [ফিকচারস], "মজবুতিত্ব")।
+এন্ট্রি(ফিজ, ন, [ফিজেস], "একটি হিস বা স্পুতরিং শব্দ")।
+এন্ট্রি(ফিজগিগ, ন, [ফিজগিগস], "ফিশগিগ").
+entry(fizz, v, [fizzed,fizzing,fizzes], "হিসিং বা ফোটা শব্দ তৈরি করা").
+এন্ট্রি(ফিজ়ার, ন, [ফিজ়ারস], "যে ফিজ় করে")।
+এন্ট্রি(ফিজেস, প্ল, [], "অফ ফিজ")।
+entry(fizzle, v, [fizzled,fizzling,fizzles], "ফিজ় করা")।
+এন্ট্রি(ফিজি, বিশেষণ, [], "ফিজিয়ার ফিজিয়েস্টফিজিংফিজিলি ক্রিয়া বিশেষণ").
+এন্ট্রি(ফিয়েল্ড, ন, [ফিয়েল্ডস], "একটি উঁচু উন্মুক্ত মালভূমি")।
+এন্ট্রি(ফিয়র্ড, ন, [ফিয়র্ডস], "খাড়া পাহাড়ের মধ্যে সমুদ্রের সরু জলপ্রবাহ ফিয়র্ডিক বিশেষণ").
+প্রবেশ(ফ্ল্যাব, ন, [ফ্ল্যাবস], "স্থূল দেহের টিস্যু")।
+এন্ট্রি(ফ্ল্যাবি, বিশেষণ, [], "FLABBIER FLABBIESTফ্লাসিডFLABBILY ক্রি.বিশেষ্য").
+এন্ট্রি(ফ্লাবেলা, নপ্ল, [], "পাখানাকৃতি শারীরবৃত্তীয় কাঠামোসমূহ")।
+এন্ট্রি(ফ্ল্যাসিড, বিশেষণ, [], "দৃঢ়তার অভাব").
+entry(ফ্ল্যাক, v, [ফ্ল্যাকড,ফ্ল্যাকিং,ফ্ল্যাক্স], "সংবাদ প্রতিনিধি হিসেবে কাজ করা").
+এন্ট্রি(ফ্ল্যাকারি, ন, [ফ্ল্যাকারিস], "প্রচার")।
+এন্ট্রি(ফ্লাকন, পি, [ফ্লাকন্স], "একটি ছোট কর্কযুক্ত বোতল")।
+entry(পতাকা, ভি, [পতাকাঙ্কিত, পতাকাঙ্কিতকরণ, পতাকাগুলি], "প্রতীক হিসেবে ব্যবহৃত কাপড়ের একটি টুকরা দিয়ে চিহ্নিত করা").
+এন্ট্রি(ফ্ল্যাজেলা, বহুবচন, [], "দীর্ঘ স্লেন্ডার উদ্ভিদের অঙ্কুরসমূহ")।
+এন্ট্রি(ফ্ল্যাগার, ন, [ফ্ল্যাগারস], "একজন যে পতাকা প্রদর্শন করে")।
+এন্ট্রি(ফ্ল্যাগিং, ন, [ফ্ল্যাগিংস], "এক প্রকারের ফুটপাথ")।
+entry(flaggy, adj, [], "FLAGGIER FLAGGIESTঢিলেঢালা").
+এন্ট্রি(ফ্ল্যাগলেস, বিশেষণ, [], "কোনো পতাকা নেই").
+entry(flagman, n, [ফ্ল্যাগমেন], "যে একটি পতাকা বহন করে").
+এন্ট্রি(ফ্ল্যাগন, ন, [ফ্ল্যাগনস], "একটি বড় ফুলে ওঠা বোতল")।
+এন্ট্রি(পতাকাদণ্ড, ন, [পতাকাদণ্ডগুলি], "একটি দণ্ড যার ওপর পতাকা প্রদর্শিত হয়")।
+entry(flagrant, adj, [], "অত্যন্ত লক্ষণীয়").
+এন্ট্রি(ফ্ল্যাগশিপ, এন, [ফ্ল্যাগশিপস], "একটি বহরের পতাকা বহনকারী জাহাজ")।
+প্রবেশ(ফ্লেইল, ক্রিয়া, [ফ্লেইলড,ফ্লেইলিং,ফ্লেইলস], "স্বাধীনভাবে দুলতে").
+প্রবেশ(ফ্লেয়ার, ন, [ফ্লেয়ার্স], "একটি প্রাকৃতিক দক্ষতা")।
+প্রবেশ(ফ্লাক, ন, [ফ্লাক], "বিমানবিধ্বংসী আগুন")।
+এন্ট্রি(ফ্লেক, ভি, [ফ্লেকড, ফ্লেকিং, ফ্লেক্স], "পাতলা চ্যাপ্টা খণ্ডে খোসা ছাড়ানোর জন্য")।
+এন্ট্রি(ফ্লেকার, প, [ফ্লেকার্স], "যে ফ্লেক করে")।
+entry(flakey, adj, [], "FLAKIER FLAKIESTফ্লейки").
+এন্ট্রি(ফ্লেইকি, বিশেষণ, [], "ফ্লেইকিয়ার ফ্লেইকিয়েস্টফ্লেইকের মতোফ্লেইকিলি ক্রি").
+এন্ট্রি(ফ্ল্যাম, ভি, [ফ্ল্যামড,ফ্ল্যামিং,ফ্ল্যামস], "প্রতারণা করা")।
+এন্ট্রি(ফ্লাম্বে, ভি, [ফ্লাম্বেড, ফ্লাম্বিং, ফ্লাম্বেস], "একটি লিকার দিয়ে ঢেলে আগুন ধরানো")।
+এন্ট্রি(ফ্ল্যাম্বো, ন, [ফ্ল্যাম্বোস], "অথবা FLAMBEAUX একটি জ্বলন্ত মশাল")।
+entry(flambee, adj, [], "জ্বলন্ত")।
+এন্ট্রি(ফ্লেম, ভি, [ফ্লেমড, ফ্লেমিং, ফ্লেমস], "উজ্জ্বলভাবে জ্বলা").
+প্রবেশ(ফ্ল্যামেন, ন, [ফ্ল্যামেন্স], "অথবা ফ্ল্যামিনেস প্রাচীন রোমের একজন পুরোহিত")।
+entry(flamenco, n, [ফ্লামেনকো], "একটি শক্তিশালী ছন্দময় নৃত্যশৈলী")।
+এন্ট্রি(ফ্লেমআউট, ন, [ফ্লেমআউটস], "উড়ানের সময় একটি জেট ইঞ্জিনের ব্যর্থতা")।
+entry(flamer, n, [flamers], "যে আগুন দেয়").
+এন্ট্রি(ফ্লামিয়ার, তুলনামূলক, [], "অফ ফ্লেমি")।
+entry(flamiest, superlative, [], "ফ্লেমির").
+প্রবেশ(ফ্ল্যামিনেস, একটি, [], "ফ্ল্যামেনের বহু-বচন")।
+প্রবেশ(জ্বলন্ত, বর্তমান, [], "আগুনের অংশগ্রহণকারী").
+ফ্লেমিঙ্গো, n, [ফ্লেমিঙ্গোস], "অথবা ফ্লেমিঙ্গোএএস একটি জলচরা পাখি।
+এন্ট্রি(ফ্ল্যামড, অতীত, [], "ফ্ল্যামের কাল")।
+এন্ট্রি(ফ্ল্যামিং, বর্তমান, [], "ফ্ল্যামের অংশগ্রহণকারী")।
+এন্ট্রি(ফ্ল্যামি, বিশেষণ, [], "ফ্ল্যামিয়ার ফ্ল্যামিয়েস্টফ্লেমিং").
+এন্ট্রি(ফ্লান, এন, [ফ্ল্যান্স], "অথবা ফ্লান কাস্টার্ডের একটি ধরন")।
+এন্ট্রি(ফ্ল্যাঙ্কার্ড, ন, [ফ্ল্যাঙ্কার্ডস], "ঘোড়ার পাশে জন্য একটি বর্মের টুকরা")।
+এন্ট্রি(ফ্ল্যানেরি, ন, [ফ্ল্যানেরিস], "অবসর").
+এন্ট্রি(ফ্লেনার, ন, [ফ্লেনার্স], "একজন অকর্মণ্য").
+এন্ট্রি(ফ্ল্যাঞ্জ, v, [ফ্ল্যাঞ্জড,ফ্ল্যাঞ্জিং,ফ্ল্যাঞ্জেস], "সুরক্ষামূলক কিনারা প্রদান করা").
+প্রবেশ(flanger, n, [flangers], "একটি যা ফ্ল্যাঞ্জ করে")।
+এন্ট্রি(ফ্ল্যাঞ্জিং, ন, [ফ্ল্যাঞ্জিংস], "একটি বস্তুর উপর একটি সুরক্ষামূলক প্রান্ত প্রদান করা")।
+এন্ট্রি(ফ্ল্যাঙ্ক, v, [ফ্ল্যাংকড,ফ্ল্যাংকিং,ফ্ল্যাংক্স], "পাশে অবস্থান করা").
+এন্ট্রি(ফ্ল্যাঙ্কেন, এনপিএল, [], "পাশ থেকে কাটা গরুর মাংস যা সবজির সাথে সিদ্ধ করা হয়")।
+entry(flanker, n, [flankers], "একটি যা পার্শ্ববর্তী করে")।
+এন্ট্রি(ফ্ল্যানেল, ভি, [ফ্ল্যানে’লড,ফ্ল্যানেলিং,ফ্ল্যানেলস], "বা FLANNELLED FLANNELLING FLANNELS একটি নরম কাপড় দিয়ে ঢেকে দেওয়া").
+entry(ফ্ল্যাপ, v, [ফ্ল্যাপড,ফ্ল্যাপিং,ফ্ল্যাপস], "উপর নীচে দোলানো").
+entry(flaperon, n, [flaperons], "একটি এয়ারফয়েল যা ফ্ল্যাপ এবং এলেরন হিসাবে কাজ করে").
+এন্ট্রি(ফ্ল্যাপজ্যাক, ন, [ফ্ল্যাপজ্যাকস], "একটি প্যানকেক")।
+এন্ট্রি(ফ্ল্যাপলেস, বিশেষণ, [], "কোনো ফ্ল্যাপ নেই এমন একটি সমতল অপরিহার্য অংশ")।
+এন্ট্রি(ফ্ল্যাপড, অতীত, [], "ফ্ল্যাপের কাল")।
+এন্ট্রি(ফ্ল্যাপার, ন, [ফ্ল্যাপার্স], "যে ফ্ল্যাপ করে")।
+এন্ট্রি(ফ্ল্যাপিং, বর্তমান, [], "ফ্ল্যাপএর বর্তমান অংশবিশেষ")।
+এন্ট্রি(ফ্ল্যাপি, বিশেষণ, [], "ফ্ল্যাপিয়ার ফ্ল্যাপিয়েস্টফ্ল্যাপিং")।
+এন্ট্রি(ফ্লেয়ার, v, [ফ্লেয়ার্ড,ফ্লেয়ারিং,ফ্লেয়ার্স], "উজ্জ্বল তরঙ্গায়িত আলো দিয়ে জ্বলা")।
+এন্ট্রি(ফ্লেয়ারআপ, ন, [ফ্লেয়ারআপস], "হঠাৎ প্রাদুর্ভাব").
+ফ্ল্যাশ, ক্রিয়া, [ফ্ল্যাশড,ফ্ল্যাশিং,ফ্ল্যাশেস], "হঠাৎ করে আলোর ঝলক প্রেরণ করা".
+এন্ট্রি(ফ্ল্যাশার, এন, [ফ্ল্যাশার্স], "যে ফ্ল্যাশ করে")।
+entry(flashgun, n, [flashguns], "একটি ফটোগ্রাফিক যন্ত্রাংশ").
+এন্ট্রি(ফ্ল্যাশিং, ন, [ফ্ল্যাশিংস], "একটি ছাদের জলরোধীতে ব্যবহৃত শীট মেটাল")।
+এন্ট্রি(ফ্ল্যাশি, বিশেষণ, [], "ফ্ল্যাশিয়ার ফ্ল্যাশিয়েস্টগডিFLASHILY ক্রি").
+entry(flask, n, [flasks], "একটি সরুগলা ধারক")।
+এন্ট্রি(ফ্লাস্কেট, ন, [ফ্লাস্কেটস], "একটি ছোট ফ্লাস্ক")।
+entry(flat, adj, [], "সমতল বা সমান পৃষ্ঠ থাকা").
+প্রবেশ(ফ্ল্যাট, ভি, [ফ্ল্যাটেড, ফ্ল্যাটিং, ফ্ল্যাটস], "সমতল করা")।
+এনট্রি(ফ্ল্যাটবেড, এন, [ফ্ল্যাটবেডস], "এক প্রকারের ট্রাক বা ট্রেইলার")।
+এন্ট্রি(ফ্ল্যাটবোট, ন, [ফ্ল্যাটবোটস], "একটি সমতল তক্তাবিশিষ্ট নৌকা")।
+এন্ট্রি(flatcap, n, [flatcaps], "এক প্রকার টুপি")।
+entry(flatcar, n, [ফ্ল্যাটকার], "একটি রেলগাড়ি যার কোন পার্শ্ব বা ছাদ নেই")।
+এন্ট্রি(ফ্ল্যাটফিশ, ন, [ফ্ল্যাটফিশেস], "সামুদ্রিক মাছের একটি আদেশের অন্তর্ভুক্ত কোন মাছ").
+এন্ট্রি(ফ্ল্যাটফুট, ন, [ফ্ল্যাটফিটস], "একটি পা অবস্থা")।
+প্রবেশ(flatfoot, v, [flatfooted,flatfooting,flatfoots], "একটা টেনে হাঁটার ভঙ্গিমায় হাঁটা").
+এন্ট্রি(flathead, n, [flatheads], "একটি সামুদ্রিক খাদ্য মাছ").
+এন্ট্রি(ফ্ল্যাটআয়রন, ন, [ফ্ল্যাটআয়রনস], "কাপড় ইস্ত্রি করার যন্ত্র").
+এন্ট্রি(ফ্ল্যাটল্যান্ড, এন, [ফ্ল্যাটল্যান্ডস], "উচ্চতার তাত্পর্যপূর্ণ পরিবর্তনহীন ভূমি")।
+entry(flatlet, n, [flatlets], "এক ধরনের অ্যাপার্টমেন্ট").
+প্রবেশ(ফ্ল্যাটলাইন, ক্রিয়া, [ফ্ল্যাটলাইন্ড, ফ্ল্যাটলাইনিজ, ফ্ল্যাটলাইনস], "মস্তিষ্কের তরঙ্গ বা হৃদস্পন্দন না থাকার হিসাবে রেজিস্টার করা")।
+এন্ট্রি(ফ্ল্যাটলিঙ, ক্রিয়া বি, [], "একটি সমতল পার্শ্ব বা প্রান্ত সহ")।
+entry(flatlong, adv, [], "সমতলভাবে").
+entry(flatly, adv, [], "একটি সমতল পদ্ধতিতে").
+entry(flatmate, n, [flatmates], "যার সাথে একটি অ্যাপার্টমেন্ট ভাগ করা হয়").
+entry(flatness, n, [flatnesses], "সমতল বা চ্যাপ্টা হবার অবস্থা")।
+এন্ট্রি(ফ্ল্যাটপ্যাক, ন, [ফ্ল্যাটপ্যাকস], "একটি ইন্টিগ্রেটেড সার্কিটের জন্য প্যাকেজ").
+এন্ট্রি(ফ্ল্যাটেড, অতীত, [], "ফ্ল্যাটের কালের ধরন").
+entry(flatten, v, [flattened,flattening,flattens], "সমতল করা বা হওয়া").
+এন্ট্রি(উত্তেজিত করা, ক্রিয়া, [উত্তেজিত, উত্তেজিত করা, উত্তেজিত করে], "অতিরিক্ত প্রশংসা করা")।
+entry(চাটুকারিতা, n, [চাটুকারিতাগুলি], "চাটুকার করার ক্রিয়া").
+প্রবেশ(সবচেয়ে_সমতল, অতিশয়োপম, [], "ফ্ল্যাটের").
+এন্ট্রি(ফ্ল্যাটি, ন, [ফ্ল্যাটিজ], "একটি সমতল-হিলের জুতা")।
+এন্ট্রি(ফ্ল্যাটিং, বর্তমান, [], "ফ্ল্যাটের ক্রিয়া বিশেষণ")।
+এন্ট্রি(ফ্ল্যাটিশ, বিশেষণ, [], "কিছুটা সমতল").
+এন্ট্রি(ফ্ল্যাটটপ, ন, [ফ্ল্যাটটপস], "একটি বিমানবাহী রণতরী")।
+এন্ট্রি(ফ্লেটাস, ন, [ফ্লেটাসেস], "আন্ত্রিক গ্যাস")।
+Prolog:
+entry(flatware, n, [flatwares], "যে টেবিলওয়্যারগুলি বেশ সমতল").
+এন্ট্রি(ফ্ল্যাটওয়াশ, ন, [ফ্ল্যাটওয়াশেস], "ফ্ল্যাটওয়ার্ক")।
+entry(flatways, adv, [], "সমতলভাবে").
+এন্ট্রি(ফ্ল্যাটওয়াইজ, ক্রিয়া-বিশেষণ, [], "একটি নির্দিষ্ট অবস্থানে সমতল পাশে।").
+entry(flatwork, n, [flatworks], "যে কাপড়গুলিকে যান্ত্রিকভাবে ইস্ত্রি করা যায়").
+entry(flatworm, n, [flatworms], "একটি চ্যাপ্টা শরীরের কৃমি").
+entry(প্রদর্শন, v, [প্রদর্শিত,প্রদর্শনশীল,প্রদর্শনসমূহ], "চটকদারভাবে প্রদর্শন করা").
+প্রবেশ(ফ্লাউনটার, n, [ফ্লাউনটারস], "যে প্রদর্শন করে")।
+এন্ট্রি(ফ্লণ্টি, বিশেষণ, [], "FLAUNTIER FLAUNTIESTগডি").
+এন্ট্রি(ফ্লাউটা, এন, [ফ্লাউটাস], "একটি টরটিলা যা একটি ফিলিং এর চারপাশে রোল করা হয় এবং ভাজা হয়")।
+এন্ট্রি(বাদক, ন, [বাদকেরা], "ফ্লুটিস্ট")।
+এন্ট্রি(ফ্লেভা, ন, [ফ্লেভাস], "হিপহপ সঙ্গীতের একটি ধরন")।
+entry(flavanol, n, [flavanols], "ফ্ল্যাভোনল").
+এনট্রি(ফ্ল্যাভিন, এন, [ফ্ল্যাভিনস], "একটি হলুদ রঞ্জক")।
+এন্ট্রি(ফ্লাভাইন, এন, [ফ্লাভাইনস], "ফ্লাভিন")।
+এন্ট্রি(ফ্ল্যাভোন, ন, [ফ্ল্যাভোনস], "একটি রাসায়নিক যৌগ")।
+এন্ট্রি(ফ্লাভোনল, ন, [ফ্লাভোনলস], "ফ্ল্যাভোনের একটি ডেরিভেটিভ")।
+প্রবেশ(স্বাদ, v, [স্বাদযুক্ত,স্বাদদানকারী,স্বাদগুলি], "স্বাদের স্বাতন্ত্র্য প্রদান করতে")।
+entry(flavorer, n, [flavorers], "একজন যারা স্বাদ দেয়")।
+এন্ট্রি(ফ্লেভোরি, বিশেষণ, [], "স্বাদের পূর্ণ")।
+এন্ট্রি(স্বাদ, v, [স্বাদযুক্ত,স্বাদদান,স্বাদসমূহ], "স্বাদ প্রদান করা")।
+এন্ট্রি(ফ্লেভারি, বিশেষণ, [], "ফ্লেভরি").
+এন্ট্রি(ফ্ল'অ', ভূ, [ফ্ল'অড, ফ্ল'অইং, ফ্ল'অজ], "একটি ত্রুটি বা অসম্পূর্ণতা উৎপাদন করা").
+entry(নিঃসংশয়, বিশেষণ, [], "যার কোন ত্রুটি নেই").
+এন্ট্রি(ফ্লাওয়ি, বিশেষণ, [], "ফ্লাওয়ার ফ্লাওয়েস্টফুল অফ ফ্লস")।
+entry(ফ্ল্যাক্স, এন, [ফ্ল্যাক্সেস], "একটি বার্ষিক ভেষজ").
+এন্ট্রি(ফ্লাক্সেন, বিশেষণ, [], "ফ্যাকাশে হলুদ রঙের").
+এন্ট্রি(ফ্ল্যাক্সসিড, ন, [ফ্ল্যাক্সসিডস], "তিসির বীজ")।
+এন্ট্রি(ফ্ল্যাক্সি, বিশেষণ, [], "FLAXIER FLAXIESTflaxen").
+entry(flay, v, [flayed,flaying,flays], "চামড়া ছাড়ানো").
+এন্ট্রি(ফ্লেয়ার, ন, [ফ্লেয়ার্স], "একটি যা ফ্লে করে")।
+এন্ট্রি(মুরগীর_উকুন, এন, [মুরগীর_উকুনের], "একটি পরজীবী পোকামাকড়")।
+এন্ট্রি(ফ্লিব্যাগ, ন, [ফ্লিব্যাগস], "একটি নিম্নমানের হোটেল")।
+এন্ট্রিই(ফ্লিবেন, ন, [ফ্লিবেন], "একটি ফুলের গাছ")।
+entry(fleabite, n, [fleabites], "একটি পিসুর কামড়").
+এন্ট্রি(ফ্লিম, ন, [ফ্লিমস], "একটি শল্যচিকিৎসার যন্ত্র")।
+এন্ট্রি(ফ্লিপিট, বি, [ফ্লিপিটস], "একটি জরাজীর্ণ চলচ্চিত্র থিয়েটার")।
+entry(fleawort, n, [fleaworts], "একটি ইউরোপীয় ভেষজ").
+এন্ট্রি(ফ্লেচ, ন, [ফ্লেচেস], "একটি স্তূপল")।
+এন্ট্রি(ফ্লেক, v, [ফ্লেকড, ফ্লেকিং, ফ্লেক্স], "ক্ষুদ্র রেখা বা দাগ দিয়ে চিহ্নিত করা")।
+এন্ট্রি(ফ্লেকি, বিশেষণ, [], "মোটা দাগযুক্ত")।
+এন্ট্রি(ফ্লেকশন, ন, [ফ্লেকশন্স], "বাঁকানোর কাজ")।
+এন্ট্রি(ফ্লেড, অতীত, [], "ফ্লি এর কালের রূপ")।
+এন্ট্রি(ফ্লেজ, ক্রিয়া, [ফ্লেজড, ফ্লেজিং, ফ্লেজেস], "পালক দিয়ে সজ্জিত করা")।
+প্রবেশ(ফ্লেজি, বিশেষণ, [], "FLEDGIER FLEDGIESTপালক দ্বারা আবৃত").
+entry(পালাও, v, [পলায়ন করল,পলায়ন করছে,পলায়ন করে], "পালিয়ে যেতে").
+প্রবেশ(ফ্লিস, ভি, [ফ্লিসড, ফ্লিসিং, ফ্লিসেস], "উলের কোট অপসারণ করা")।
+এন্ট্রি(ফ্লিসার, ন, [ফ্লিসার্স], "যে ফ্লিস করে")।
+entry(fleech, v, [fleeched,fleeching,fleeches], "ভোলানো").
+এন্ট্রি(ফ্লিসি, বিশেষণ, [], "ফ্লিসিয়ার ফ্লিসিয়েস্টউলেনফ্লিসিলি ক্রিয়া").
+entry(fleer, v, [fleered,fleering,fleers], "উপহাস করা")।
+এন্ট্রি(ফ্লিট, বিশেষণ, [], "FLEETER FLEETESTswiftFLEETLY ক্রিয়া").
+এনট্রি(ফ্লিট, v, [ফ্লিটেড,ফ্লিটিং,ফ্লিটস], "দ্রুত চলা").
+entry(flehmen, v, [flehmened,flehmening,flehmens], "মুখ খোলা এবং উপরিভাগ বাঁকানো অবস্থায় শ্বাস নেওয়া").
+এন্ট্রি(ফ্লেইশিগ, বিশেষণ, [], "মাংস অথবা মাংসপণ্যের তৈরি")।
+entry(ফ্লেমিশ, v, [ফ্লেমিশড,ফ্লেমিশিং,ফ্লেমিশেস], "যথাযথভাবে দড়ি পাকানো").
+এন্ট্রি(ফ্লেঞ্চ, ক্রিয়া, [ফ্লেঞ্চড, ফ্লেঞ্চিং, ফ্লেঞ্চেস], "ফ্লেন্স করা")।
+এন্ট্রি(ফ্লেন্স, v, [ফ্লেন্সড,ফ্লেন্সিং,ফ্লেন্সেস], "চর্বি বা চামড়া ছাঁটাই করা")।
+এন্ট্রি(ফ্লেন্সার, ন, [ফ্লেন্সারস], "যে ফ্লেন্স করে")।
+এন্ট্রি(মাংস, ক্রিয়া, [মাংসল, মাংসিকরণ, মাংসিত], "মাংসে দেহের নরম টিস্যু প্রবেশ করানো").
+এন্ট্রি(ফ্লেশার, ন, [ফ্লেশার্স], "যে পশুর চামড়া থেকে মাংস অপসারণ করে")।
+এন্ট্রি(ফ্লেশিয়ার, তুলনামূলক, [], "ফ্লেশি এর").
+এন্ট্রি(ফ্লেশিয়েস্ট, অতিকারক, [], "ফ্লেশি এর").
+entry(fleshing, n, [fleshings], "একটি প্রাণীর উপরে মাংস ও চর্বির বিতরণ।").
+entry(প্রাণী, বিশেষণ, [], "শরীর সম্পর্কিত FLESHLIER FLESHLIEST")।
+entry(fleshpot, n, [fleshpots], "মাংস রান্নার জন্য একটি হাড়ি")।
+এন্ট্রি(মাংসল, বিশেষণ, [], "অধিক মাংসল সর্বাধিক মাংসল, অধিক মাংসহীনভাবে আদ্ভার্ব ").
+এন্ট্রি(ফ্লেচ, ভি, [ফ্লেচড, ফ্লেচিং, ফ্লেচেস], "উড়ার জন্য প্রস্তুত হওয়া")।
+এন্ট্রি(ফ্লেচার, ন, [ফ্লেচার্স], "যে তীর তৈরি করে")।
+এন্ট্রি(ফ্লুরন, ন, [ফ্লুরন্স], "একটি ফুলের অলঙ্কার").
+entry(fleury, adj, [], "যার বাহুগুলি তিনটি পাতা দিয়ে শেষ হয়, একটি জাতীয় প্রতীক ক্রসের ক্ষেত্রে ব্যবহৃত হয়").
+এন্ট্রি(ফ্লু, এন, [ফ্লুস], "একটি মাছ ধরার জাল")।
+entry(gab, v, [gabbed,gabbing,gabs], "বকবক করা")।
+এন্ট্রি(গাব্বা, ন, [গাব্বাস], "খুব দ্রুত গতির বিট সহ আক্রমণাত্মক শব্দের সঙ্গীত").
+এন্ট্রি(গ্যাবার্ড, ন, [গ্যাবার্ডস], "একটি বার্জ")।
+এন্ট্রি(গ্যাবার্ট, ন, [গ্যাবার্টস], "গ্যাবার্ড")।
+entry(gabbed, past, [], "গ্যাবের কাল").
+এন্ট্রি(গ্যাবার, ন, [গ্যাবার্স], "যে গ্যাব করে")।
+এন্ট্রি(gabbier, তুলনামূলক, [], "gabby এর").
+এন্ট্রি(গ্যাবিয়েস্ট, অতিশয় রূপ, [], "গ্যাবি এর").
+entry(gabbing, present, [], "গ্যাবের পার্টিসিপল").
+এন্ট্রি(গ্যাবল, v, [গ্যাবলড, গ্যাবলিং, গ্যাবলস], "অর্থাৎ বকবক করা")।
+এন্ট্রি(গ্যাবলার, ন, [গ্যাবলারস], "যে গ্যাবল করে")।
+পদাঙ্ক(gabbro, n, [gabbros], "এক প্রকার শিলাগঠন অপরিশোধিত গঠনকারীGABBROIC GABBROID adj").
+এন্ট্রি(গ্যাবি, বিশেষণ, [], "GABBIER GABBIESTআড্ডাবাজ")।
+এন্ট্রি(গ্যাবেল, এন, [গ্যাবেলস], "লবণ করGABELLED বিশেষণ").
+এন্ট্রি(গ্যাবফেস্ট, সা, [গ্যাবফেস্টস], "সাধারণ কথোপকথনের জন্য একটি অনানুষ্ঠানিক সমাবেশ")।
+এন্ট্রি(গ্যাবিজ, বহু, [], "গ্যাবির").
+entry(gabion, n, [gabions], "এক ধরনের ঝুড়ি")।
+এন্ট্রি(গেবল, ভি, [গেব্লড, গেবলিং, গেবলস], "একটি দেওয়ালের ত্রিভুজাকার অংশ তৈরি করা")।
+entry(গ্যাবুন, বিশেষ্য, [গ্যাবুনসমূহ], "একটি থুথুদানী")।
+এনট্রি(গ্যাবি, ন, [গ্যাবিজ], "একটি নির্বোধ")।
+এন্ট্রি(গাছ, ক্রিয়া, [গাছেদ, গাছিং, গাছেস], "গাছ করতে")।
+entry(গাছের, n, [গাছার্স], "গাচ্চার").
+এন্ট্রি(গ্যাড, ভি, [গ্যাডেড, গ্যাডিং, গ্যাডস], "অস্থিরভাবে ঘুরে বেড়ানো").
+entry(gadabout, n, [gadabouts], "যে এদিক সেদিক ঘুরে বেড়ায়").
+এন্ট্রি(গাদারেনে, বিশেষণ, [], "হেডলং").
+এন্ট্রি(গ্যাডেড, অতীত, [], "গ্যাডের কাল")।
+entry(gadder, n, [gadders], "যে ঘুরে বেড়ায়").
+এন্ট্রি(গাড্ডি, ন, [গাড্ডিস], "একটি হাসক")।
+এন্ট্রি(গ্যাডিং, বর্তমান, [], "গ্যাডের ক্রিয়াপদ").
+এন্ট্রি(গ্যাডফ্লাই, ন, [গ্যাডফ্লাইজ], "একটি কামড়ানোর মাছি")।
+এন্ট্রি(গাজেট, ন, [গাজেটসমূহ], "একটি যান্ত্রিক ডিভাইসGADGETY বিশেষণ").
+এন্ট্রি(গ্যাজেট্রি, ন, [গ্যাজেট্রিজ], "গ্যাজেট তৈরি বা নির্মাণ")।
+এন্ট্রি(গাড়ি, ন, [গাড়িস], "গদ্দি").
+এন্ট্রি(গাডিড, ন, [গাডিডস], "গ্যাডয়েড").
+এন্ট্রি(গ্যাডয়েড, সা, [গ্যাডয়েডস], "এক প্রকারের মাছ")।
+এন্ট্রি(গ্যাড্রুন, ক্রিয়া, [গ্যাড্রুনড, গ্যাড্রুনিং, গ্যাড্রুন্স], "ফ্লুটেড বা রিডেড মোল্ডিং এর ব্যান্ড দিয়ে সজ্জিত করা").
+এন্ট্রি(গ্যাডওয়াল, ন, [গ্যাডওয়ালস], "একটি বন্য হাঁস")।
+এন্ট্রি(গ্যাডজুকস, ইন্টারজেকশন, [], "মৃদু শপথ হিসেবে ব্যবহৃত হয়")।
+এন্ট্রি(gae, v, [], "GAED GANE বা GAEN GAEING বা GAUN GAESto যাও").
+entry(gaff, v, [gaffed,gaffing,gaffs], "একটি তীক্ষ্ণ হুক দিয়ে মাছ ধরা").
+এন্ট্রি(গাফ, ন, [গাফস], "একটি সামাজিক ভুল").
+এন্ট্রি(গাফার, ন, [গাফারস], "একজন বৃদ্ধ ব্যক্তি")।
+এন্ট্রি(গ্যাগ, ভি, [গ্যাগড, গ্যাগিং, গ্যাগস], "মুখ বন্ধ করা").
+এন্ট্রি(গাগা, বিশেষণ, [], "পাগল")।
+এন্ট্রি(গাগাকু, n, [গাগাকুস], "জাপানের প্রাচীন আদালতের সঙ্গীত").
+প্রবেশ(গেজ, ক্রিয়া, [গেজড, গেজিং, গেজেস], "নিরাপত্তার প্রতিশ্রুতি দেওয়াGAGEABLE বিশেষণ").
+এন্ট্রি(গেজার, পি, [গেজার্স], "গজার")।
+এন্ট্রি(গ্যাগ্ড, অতীত, [], "গ্যাগ এর কালের রূপ")।
+এন্ট্রি(গ্যাগার, ন, [গ্যাগার্স], "যে গ্যাগ করে")।
+এন্ট্রি(গ্যাগিং, বর্তমান, [], "গ্যাগের পার্টিসিপল")।
+এন্ট্রি(গ্যাগল, ভি, [গ্যাগলড, গ্যাগলিং, গ্যাগলস], "ক্যাকল করা").
+এন্ট্রি(গেজিং, বর্তমান, [], "গেজ এর অংশগ্রহণকারী")।
+entry(gagman, n, [gagmen], "যিনি কৌতুক লেখেন").
+এন্ট্রি(গ্যাগস্টার, এন, [গ্যাগস্টারস], "একজন গ্যাগম্যান")।
+প্রবেশ(গাহনাইট, ন, [গাহনাইটস], "একটি খনিজ").
+এন্ট্রি(আনন্দ, ন, [আনন্দগুলি], "উত্সব কার্যকলাপ")।
+এন্ট্রি(গাঈজিন, সা, [গাঈজিন], "জাপানে একজন বিদেশী")।
+এন্ট্রি(গেইলি, ক্রিয়া বিশেষণ, [], "আনন্দময়ভাবে").
+এন্ট্রি(অর্জন, ক্রিয়া, [অর্জন,অর্জন করছে,অর্জন করে], "অর্জিত GAINABLE বিশেষণ").
+এন্ট্রি(গেইনার, ন, [গেইনারস], "একটি অর্জনকারী")।
+এন্ট্রি(লাভজনক, বিশেষণ, [], "লাভজনক")।
+এন্ট্রি(গেইনলেস, বিশেষণ, [], "লাভহীন").
+এন্ট্রি(গেইনলি, বিশেষণ, [], "GAINLIER GAINLIESTgraceful")।
+এন্ট্রি(গেইনসে, ক্রিয়া, [গেইনসেইড,গেইনসেইং,গেইনসেস], "অস্বীকার করা")।
+এন্ট্রি(গেইনস্ট, প্রেপ, [], "against").
+এন্ট্রি(গেইট, ভি, [গেইটেড, গেইটিং, গেইটস], "একটি ঘোড়া কে বিশেষ উপায়ে চলার জন্য প্রশিক্ষণ দেওয়া").
+এন্ট্রি(গেইটার, ন, [গেইটারস], "নিচের পা ঢাকা একটি আচ্ছাদনGAITERED বিশেষণ")।
+এনট্রি(গাল, এন, [গালস], "একটি মেয়ে")।
+এন্ট্রি(গালা, ন, [গালা], "একটি উদযাপন").
+এন্ট্রি(গালাবিয়া, ন, [গালাবিয়াস], "জেলাবা")।
+এন্ট্রি(গালাবিয়েহ, প, [গালাবিয়েহস], "জেলাবা").
+এনট্রি(গালাবিয়া, প, [গালাবিয়াস], "জেলাবা")।
+entry(গ্যালাকটিক, বিশেষণ, [], "একটি গ্যালাক্সি সম্পর্কিত")।
+entry(galago, n, [galagos], "একটি ছোট প্রাণী").
+এন্ট্রি(গালা, এন, [গালা], "একটি কাকাটুয়া")।
+এন্ট্রি(গালাঙ্গা, ন, [গালাঙ্গাস], "গ্যালাঙ্গাল")।
+এন্ট্রি(গালাঙ্গাল, ন, [গালাঙ্গালস], "একটি ঔষধি উদ্ভিদ")।
+এন্ট্রি(গালাতিয়া, বি, [গালাতিয়াস], "একটি শক্তিশালী সুতির কাপড়")।
+এন্ট্রি(galavant, v, [galavanted,galavanting,galavants], "to gad about").
+এন্ট্রি(গ্যালাক্স, ন, [গ্যালাক্সেস], "একটি চিরসবুজ ভেষজ")।
+এন্ট্রি(গ্যালাক্সি, ন, [গ্যালাক্সিজ], "তারকাপুঞ্জের একটি বৃহৎ ব্যবস্থা")।
+এন্ট্রি(গ্যালবানাম, এন, [গ্যালবানামস], "একটি গাম রেজিন")।
+entry(gale, v, [galed,galing,gales], "খেলাচ্ছলে দৌড়াদৌড়ি করা").
+প্রবেশ(গালিয়া, ন, [গালিয়াস], "বা GALEAEa হেলমেট আকৃতির শারীরবৃত্তীয় অংশGALEATE GALEATED বিশেষণ").
+এন্ট্রি(গ্যালেনা, n, [গ্যালেনাস], "শীষের প্রধান আকরিকগ্যালেনিক বিশেষণ").
+এন্ট্রি(গ্যালেনাইট, ন, [গ্যালেনাইটস], "গ্যালেনা")।
+এন্ট্রি(গালেরে, ন, [গালেরেস], "একটি সাধারণ গুণ সহ মানুষের একটি দল")।
+প্রবেশ(গালেট, ন, [গালেটস], "একটি চ্যাপ্টা গোলাকার কেক")।
+এন্ট্রি(গ্যালিলি, ন, [গ্যালিলিস], "একধরনের বারান্দা")।
+এন্ট্রি(গ্যালিং, বর্তমান, [], "গেলের ক্রিয়াবিশেষণ").
+এন্ট্রি(গ্যালিয়ট, ন, [গ্যালিয়টস], "গ্যালিয়ট")।
+এন্ট্রি(গ্যালিপট, n, [গ্যালিপটস], "এক ধরনের টারপেন্টাইন").
+entry(galivant, v, [galivanted,galivanting,galivants], "আবোলতাবোল ঘুরে বেড়ানো").
+এন্ট্রি(গল, v, [গল্ড,গলিং,গলস], "বিরক্ত করা বা উত্যক্ত করা")।
+এন্ট্রি(গ্যালান্ট, ভি, [গ্যালান্টেড, গ্যালান্টিং, গ্যালান্টস], "একজন মহিলাকে প্রেম নিবেদন করা")।
+এন্ট্রি(গ্যালেট, ন, [গ্যালেটস], "একটি রাসায়নিক লবণ")।
+এন্ট্রি(গ্যালিয়াস, ন, [গ্যালিয়াসেস], "একটি বড় যুদ্ধ গ্যালি")।
+এন্ট্রি(গ্যালেইন, ন, [গ্যালেইনস], "একটি সবুজ রং")।
+এন্ট্রি(গেলিয়ন, ন, [গেলিয়নস], "একটি বড় পাল তোলা জাহাজ")।
+এন্ট্রি(গ্যালারিয়া, ন, [গ্যালারিয়াস], "একটি ছাদযুক্ত প্রমেনেড বা আদালত")।
+এন্ট্রি(গ্যালারি, ভি, [গ্যালারিড, গ্যালারিিং, গ্যালারিেস], "একটি দীর্ঘ আচ্ছাদিত এলাকা সহ প্রদান করা")।
+এন্ট্রি(গালেট, ভি, [গালেটেড,গালেটিং,গালেটস], "পাথরের টুকরা দিয়ে মর্টার জয়েন্টগুলো পূরণ করা")।
+এন্ট্রি(গালেটা, এন, [গালেটাস], "একটি বহুবর্ষজীবী ঘাস")।
+এন্ট্রি(গ্যালি, ন, [গ্যালিস], "একটি লম্বা নিচু মধ্যযুগীয় জাহাজ")।
+এন্ট্রি(গলফ্লাই, ন, [গলফ্লাইজ], "একটি ছোট কীটপতঙ্গ")।
+এন্ট্রি(গ্যালিয়ার্ড, ন, [গ্যালিয়ার্ডস], "একটি জীবন্ত নৃত্য")।
+এন্ট্রি(গ্যালিয়াস, ন, [গ্যালিয়াসেস], "গ্যালিয়াস")।
+এন্ট্রি(গ্যালিক, বিশেষণ, [], "গ্যালিয়াম সম্বলিত")।
+entry(gallica, n, [gallicas], "একটি ইউরোপীয় গোলাপ").
+এন্ট্রি(গ্যালিকান, বিশেষণ, [], "ফরাসী ধর্মীয় আন্দোলনের সাথে সম্পর্কিত")।
+এন্ট্রি(গ্যালিড, অতীত, [], "গ্যালির কাল").
+প্রবেশ(গ্যালিজ, বর্তমান, [], "গ্যালি-এর ৩য় ব্যক্তিগত একবচন").
+এন্ট্রি(গ্যালিওট, ন, [গ্যালিওটস], "একটি ছোট গ্যালি")।
+এন্ট্রি(গ্যালিপট, এন, [গ্যালিপটস], "একটি ছোট মাটির পাত্র")।
+এনট্রি(গ্যালিয়াম, এন, [গ্যালিয়ামস], "একটি ধাতব উপাদান")।
+প্রবেশ(বড়ির বীজ, ন, [বড়ির বীজগুলি], "উদ্ভিদের টিস্যুর একটি অস্বাভাবিক ফোলা").
+entry(gallon, n, [গ্যালন], "তরল পরিমাপের একটি একক").
+entry(গ্যালুন, ন, [গ্যালুনস], "একটি অলঙ্কারিক ব্রেইড")।
+এন্ট্রি(গ্যালুট, ন, [গ্যালুটস], "গ্যালুট")।
+এন্ট্রি(গ্যালোপ, ভি, [গ্যালোপড,গ্যালোপিং,গ্যালোপস], "একটি ঘোড়া পূর্ণ গতিতে চালানো")।
+এন্ট্রি(গ্যালোপার, ন, [গ্যালোপার্স], "যে ছুটে চলে").
+এনট্রি(গ্যালাস, বিশেষণ, [], "গ্যালিয়াম ধারণকারী")।
+এন্ট্রি(গ্যালোওয়ে, ন, [গ্যালোওয়েস], "একটি শিংবিহীন গরুর প্রজাতি")।
+এনট্রি(ফাঁসির মঞ্চ, এন, [ফাঁসিসমূহ], "একটি কাঠামো যা দণ্ডিত ব্যক্তিকে ফাঁসি দেওয়ার জন্য ব্যবহৃত হয়")।
+এন্ট্রি(গ্যালাস, ন, [গ্যালাসেস], "ট্রাউজারের জন্য একটি সাসপেন্ডারGALLUSED বিশেষণ")।
+এন্ট্রি(গ্যালি, ক্রি, [গ্যালিড, গ্যালিয়িং, গ্যালিস], "ভীত করা").
+এন্ট্রি(গ্যালুট, ন, [গ্যালুটস], "একজন অসামঞ্জস্যপূর্ণ বা অভদ্র ব্যক্তি")।
+entry(galop, v, [galoped,galoping,galops], "একটি গ্যালপ নাচ একজন উচ্ছল বৃত্তাকার নাচ নাচতে").
+এন্ট্রি(গ্যালোপেড, ন, [গ্যালোপেডস], "একটি উৎসাহপূর্ণ বৃত্তাকার নৃত্য")।
+এন্ট্রি(গ্যালোর, ন, [গ্যালোরস], "প্রাচুর্য")।
+এন্ট্রি(গ্যালোশ, ন, [গ্যালোশেস], "একটি ওভারশুGALOSHED বিশেষণ")।
+এন্ট্রি(গ্যালোষ, ন, [গ্যালোশেস], "গ্যালোশ").
+entry(galumph, v, [galumphed,galumphing,galumphs], "অকুশলভাবে চলাফেরা করা").
+এন্ট্রি(গ্যালভানিক, বিশেষণ, [], "একটি সরাসরি বৈদ্যুতিক প্রবাহের সাথে সম্পর্কিত")।
+entry(galyac, n, [galyacs], "গ্যালিয়াক").
+entry(galyak, n, [galyaks], "ল্যাম্বস্কিন থেকে তৈরি একটি পশম").
+এন্ট্রি(গাম, ভি, [গামড, গামিং, গামস], "সামাজিকভাবে পরিদর্শন করা")।
+entry(গামা, ন, [গামাস], "একটি চারণ ভূমির ঘাস").
+entry(gamashes, npl, [], "ঘোড়সওয়ারদের দ্বারা পরিধেয় বুট").
+এন্ট্রি(গামায়, ন, [গামায়স], "একটি লাল আঙুর")।
+এন্ট্রি(গ্যাম্ব, ন, [গ্যাম্বস], "একটি পা")।
+এন্ট্রি(গাম্বা, ন, [গাম্বাস], "একটি বেস ভায়োল")।
+entry(gambade, n, [gambades], "একটি গ্যাম্বাডো")।
+entry(gambado, n, [gambados], "অথবা GAMBADOESএকটি ঘোড়া দ্বারা তৈরি একটি লীপ").
+এন্ট্রি(গ্যাম্বে, ন, [গ্যাম্বেস], "গ্যাম্ব").
+এন্ট্রি(গ্যামবেসন, ন, [গ্যামবেসনস], "একটি মধ্যযুগীয় কোট")।
+এনট্রি(গাম্বিয়া, ন, [গাম্বিয়াস], "গাম্বিয়ার")।
+entry(gambier, n, [gambiers], "এশীয় লতা থেকে প্রাপ্ত একটি নির্যাস").
+এন্ট্রি(গাম্বির, n, [গাম্বিরস], "গ্যাম্বিয়ার")।
+এন্ট্রি(গ্যাম্বিট, ন, [গ্যাম্বিটগুলি], "চেস খেলার একটি খোলার প্রকার")।
+এন্ট্রি(জুয়া, ক্রিয়া, [জুয়াখেলা,জুয়াখেলছে,জুয়াখেলে], "টাকা বা মূল্যবান সামগ্রীর জন্য সুযোগের খেলা খেলা")।
+এন্ট্রি(জুয়াড়ি, ন, [জুয়াড়িরা], "যে জুয়া খেলে")।
+এন্ট্রি(গামবোচ, নাম, [গামবোচ], "একটি মর্মর রজন")।
+এন্ট্রি(গ্যাম্বল, v, [গ্যাম্বোলড, গ্যাম্বোলিং, গ্যাম্বোলস], "অথবা GAMBOLLED GAMBOLLING GAMBOLSto খেলাচ্ছলে লাফানো").
+entry(gambrel, n, [gambrels], "একটি ঘোড়ার পায়ের একটি অংশ").
+এন্ট্রি(গ্যাম্বুসিয়া, ন, [গ্যাম্বুসিয়াস], "একটি ছোট মাছ")।
+এন্ট্রি(গেম, বিশেষণ, [], "GAMER GAMESTplucky").
+এন্ট্রি(গেম, ভি, [গেমড,গেমিং,গেমস], "জুয়া খেলতে")।
+এন্ট্রি(গেমবুক, এন, [গেমবুকস], "একটি খেলা দলের দ্বারা ব্যবহৃত কৌশলের বই")।
+প্রবিষ্টি(গেমকক, n, [গেমককস], "যুদ্ধের জন্য প্রশিক্ষিত একটি মোরগ")।
+এন্ট্রি(গেমফিশ, ন, [গেমফিশেস], "একটি মাছ যা খেলার জন্য ধরা হয়")।
+এনট্রি(গেমফাউল, n, [গেমফাউলস], "একটি গেমকক")।
+এন্ট্রি(গামেলান, ন, [গামেলানস], "এক ধরনের অর্কেস্ট্রা")।
+entry(gamelike, adj, [], "খেলার মতো একটি নিয়মের দ্বারা পরিচালিত প্রতিযোগিতা").
+এন্ট্রি(গেমলি, ক্রিয়া-বিশেষণ, [], "একটি খেলার ধারা").
+entry(gameness, n, [gamenesses], "খেলার মানের গুণাবলী").
+এনট্রি(গেমপ্লে, এন, [গেমপ্লেস], "একটি কম্পিউটার বা ভিডিও গেম খেলার পদ্ধতি")।
+এন্ট্রি(গেমার, ন, [গেমারস], "একজন আগ্রহী গেম খেলোয়াড়")।
+এন্ট্রি(গেমসম্যান, ন, [গেমসমেন], "যে গেম খেলে")।
+এন্ট্রি(গেমসম, বিশেষণ, [], "মজাদার")।
+এন্ট্রি(গেমস্ট, অতিরঞ্জিত, [], "খেলার").
+এন্ট্রি(গেমস্টার, ন, [গেমস্টার্স], "একজন জুয়াড়ি")।
+এন্ট্রি(গ্যামেট, ন, [গ্যামেটস], "একটি পরিপক্ক প্রজনন কোষGAMETAL GAMETIC বিশেষণ").
+entry(gamey, adj, [], "GAMIER GAMIESTgamy").
+এন্ট্রি(গ্যামিক, বিশেষণ, [], "সার প্রয়োজনীয়").
+entry(gamier, তুলনামূলক, [], "গেমযুক্ত").
+এন্ট্রি(গ্যামিয়েস্ট, অতিশায়োক্তি, [], "গ্যামির").
+entry(gamily, adv, [], "খেলা ধাঁচে").
+এন্ট্রি(গামিন, ন, [গামিনস], "একটি পথশিশু")।
+এন্ট্রি(গামিন, বি, [গামিনেস], "একটি টমবয়")।
+এন্ট্রি(গেমিনেস, ন, [গেমিনেসেস], "গেমি হওয়ার গুণাবলী")।
+এন্ট্রি(গেমিং, ন, [গেমিংস], "জুয়া খেলার অভ্যাস")।
+এন্ট্রি(গামা, এন, [গামাস], "একটি গ্রিক অক্ষর")।
+এন্ট্রি(গ্যামাডিয়া, বহুবচন, [], "গ্রিক অলঙ্কারিক নকশা")।
+এন্ট্রি(গ্যামড, অতীত, [], "গ্যাম এর কাল").
+এন্ট্রি(গামার, ন, [গামারস], "একজন বৃদ্ধা মহিলা")।
+এন্ট্রি(গ্যামিয়ার, তুলনামূলক, [], "গ্যামির").
+এন্ট্রি(গ্যামিয়েস্ট, অতিশায়োক্তি, [], "গ্যামির")।
+এন্ট্রি(গ্যামিং, বর্তমান, [], "গাম-এর পার্টিসিপল").
+entry(gammon, v, [gammoned,gammoning,gammons], "প্রতারণার মাধ্যমে ভুল পথে পরিচালিত করা").
+এন্ট্রি(গ্যামোনার, ন, [গ্যামোনারস], "যে গ্যামোন করে")।
+এন্ট্রি(গ্যামি, বিশেষণ, [], "গ্যামিয়ার গ্যামিয়েস্টলামি")।
+এন্ট্রি(গ্যামোডেম, ন, [গ্যামোডেমস], "অর্গানিজমদের একটি কিছুটা বিচ্ছিন্ন প্রজনন সম্প্রদায়")।
+এন্ট্রি(গ্যাম্প, ন, [গ্যাম্পস], "একটি বড় ছাতা")।
+entry(gamut, n, [gamuts], "সমগ্র ব্যাপ্তি")।
+এন্ট্রি(গামি, বিশেষণ, [], "গ্যামিয়ার গ্যামিয়েস্টপ্লাকি")।
+entry(গান, অতীত, [], "জিনের কাল").
+এন্ট্রি(গানাচ, ন, [গানাচেস], "ক্রীমযুক্ত চকোলেট মিশ্রণ")।
+এন্ট্রি(গ্যান্ডার, ভি, [গ্যান্ডারড,গ্যান্ডারিং,গ্যান্ডারস], "ভ্রমণ করা")।
+এন্ট্রি(গানে, এ, [], "গায় এর অতীত বাচক ক্রিয়ারূপ")।
+এন্ট্রি(গনেফ, ন, [গনেফস], "একজন চোর")।
+এন্ট্রি(গানেভ, এন, [গানেভস], "গানেফ")।
+এন্ট্রি(গ্যাং, v, [গ্যাংড, গ্যাংগিং, গ্যাংস], "একটি দল গঠনের জন্য একটি গ্যাং মধ্যে").
+এন্ট্রি(গ্যাংবাং, v, [গ্যাংব্যাংড,গ্যাংবেঙ্গিং,গ্যাংবংস], "গ্যাং সম্পর্কিত কার্যকলাপে অংশগ্রহণ করা").
+এন্ট্রি(গ্যাঞ্জার, ন, [গ্যাঞ্জারস], "শ্রমিকদের একটি দলের ফোরম্যান")।
+এন্ট্রি(গ্যাংল্যান্ড, এন, [গ্যাংল্যান্ডস], "অপরাধী আন্ডারওয়ার্ল্ড")।
+এন্ট্রি(গ্যাংল, v, [গ্যাংলড,গ্যাংলিং,গ্যাংলস], "অদ্ভুতভাবে চলা").
+এন্ট্রি(গ্যাংলিয়া, এ, [], "গ্যাংলিয়নের বহু-বচন")।
+এন্ট্রি(গ্যাংলিয়াল, বিশেষণ, [], "গ্যাংলিয়ার")।
+এন্ট্রি(গ্যাংলিয়ার, বিশেষণ, [], "একটি গ্যাংলিয়নের সাথে সম্পর্কিত")।
+এন্‌ট্রি(গ্যাংলিয়ার, তুলনামূলক, [], "গ্যাংলির").
+এন্ট্রি(গ্যাংলিয়েস্ট, সুপারলেটিভ, [], "গ্যাংলির").
+entry(লম্বা-পটলচেরা, বিশেষণ, [], "বেমানানভাবে লম্বা এবং সরু").
+এন্ট্রি(গ্যাংলিয়ন, এন, [গ্যাংলিয়ন্স], "বা গ্যাংলিয়াএকটি স্নায়ু কোষের দল")।
+এন্ট্রি(গ্যাংলি, বিশেষণ, [], "GANGLIER GANGLIESTগ্যাংলিং").
+entry(গ্যাংপ্লো, n, [গ্যাংপ্লোস], "একটি কৃষিযন্ত্র").
+এন্ট্রি(গ্যাংল, ন, [গ্যাংলস], "একটি ভবঘুরে")।
+এনট্রি(গ্যাংগ্রিন, v, [গ্যাংগ্রিনড, গ্যাংগ্রিনিং, গ্যাংগ্রিনস], "শরীরের অংশে টিস্যুর ক্ষতি হওয়া").
+entry(gangsta, n, [gangstas], "একটি স্ট্রিট গ্যাংয়ের সদস্য").
+এন্ট্রি(গ্যাংস্টার, ন, [গ্যাংস্টারস], "একটি অপরাধী গোষ্ঠীর সদস্য")।
+এন্ট্রি(গ্যাং, ন, [গ্যাংগস], "যে অর্থহীন শিলা যার মধ্যে মূল্যবান খনিজ পাওয়া যায়")।
+এন্ট্রি(গ্যাংওয়ে, ন, [গ্যাংওয়েস], "একটি পথপথ")।
+প্রবেশ(গ্যানিস্টার, ন, [গ্যানিস্টার্স], "এক ধরনের শিলা")।
+entry(গাঁজা, n, [গাঁজাসমূহ], "ধূমপানের জন্য ব্যবহৃত ক্যানাবিস")।
+এন্ট্রি(গাঞ্জা, ন, [গাঞ্জাস], "গাঁজা")।
+প্রবেশ(গ্যানেট, ন, [গ্যানেটস], "একটি বড় সাগরপাখি")।
+এন্ট্রি(গ্যানেট্রি, এন, [গ্যানেট্রিজ], "একটি স্থান যেখানে গ্যানেটরা প্রজনন করে")।
+entry(গানফ, ন, [গানফস], "গানেফ").
+এন্ট্রি(গ্যানয়েড, এন, [গ্যানয়েডস], "এক প্রকারের মাছ")।
+entry(চলন্ত_পথ, v, [চলন্ত_পথযুক্ত,চলন্ত_পথ_সম্পাদন,চলন্ত_পথগুলো], "রেলপথ গুলোকে ওভারল্যাপ করতে").
+এন্ট্রি(গ্যান্টলাইন, ন, [গ্যান্টলাইনগুলি], "জাহাজে একটি দড়ি")।
+entry(gantlope, n, [gantlopes], "একটি প্রাক্তন সামরিক শাস্তি")।
+এন্ট্রি(গ্যান্ট্রি, এন, [গ্যান্ট্রিস], "রেলপথ সংকেতের জন্য একটি সহায়ক কাঠামো")।
+এন্ট্রি(গ্যানিমেড, ন, [গ্যানিমেডস], "এক যুবক যে মদ সরবরাহ করে")।
+entry(ganzfeld, n, [ganzfelds], "পরামনোবিদ্যায় ব্যবহৃত নিয়ন্ত্রিত ইন্দ্রিঘটিত ইনপুটের একটি পদ্ধতি").
+entry(gaol, v, [gaoled, gaoling, gaols], "কারাগারে পাঠানো").
+এন্ট্রি(gaolbird, n, [gaolbirds], "jailbird").
+এন্ট্রি(গার্ড, এন, [গার্ডরা], "জেলারের").
+এন্ট্রি(গ্যাপ, ভি, [গ্যাপড, গ্যাপিং, গ্যাপস], "একটি ফাঁক তৈরি করা").
+এন্ট্রি(গেপ, v, [গেপড,গেপিং,গেপ্স], "হা করে তাকানো").
+এন্ট্রি(গেপার, এন, [গেপার্স], "যে হাঁ করে তাকায়")।
+এন্ট্রি(গ্যাপিসিড, ন, [গ্যাপিসিডস], "কিছু যা বিস্ময়ের সৃষ্টি করে")।
+এন্ট্রি(গ্যাপে ওয়ার্ম, ন, [গ্যাপে ওয়ার্মস], "একটি কৃমি যা তরুণ পাখিদের একটি রোগ সৃষ্টি করে")।
+এনট্রি(গ্যাপিং, বর্তমান, [], "গ্যাপের ক্রিয়াবাচক বিশেষ্য").
+এন্ট্রি(গ্যাপিংলি, ক্রিয়া বিশেষণ, [], "একটি ফাঁকা পদ্ধতিতে")।
+এন্ট্রি(গ্যাপলেস, বিশেষণ, [], "যার কোনো ফাঁকা নেই")।
+এন্ট্রি(গাপোসিস, ন, [গাপোসিসেস], "বোতাম বা স্ন্যাপের সারিতে একটি ফাঁক")।
+এন্ট্রি(গ্যাপড, অতীত, [], "গ্যাপের কাল")।
+এন্ট্রি(গ্যাপিং, বর্তমান, [], "গ্যাপের ক্রিয়াবাচক বিশেষণ").
+এন্ট্রি(গ্যাপি, বিশেষণ, [], "ফাঁকা ফাঁকাযুক্ত গ্যাপিয়ার গ্যাপিয়েস্ট আছে খোলা").
+এন্ট্রি(গ্যাপি, বিশেষণ, [], "গ্যাপওয়ার্ম দ্বারা আক্রান্ত")।
+এন্ট্রি(গার, v, [গারড,গারিং,গারস], "বাধ্য করা বা প্ররোচিত করা")।
+এন্ট্রি(গ্যারেজ, v, [গ্যারেজড,গ্যারেজিং,গ্যারেজেস], "গাড়ির আশ্রয়স্থল একটি গ্যারেজে রাখা")।
+এন্ট্রি(garb, v, [garbed, garbing, garbs], "পোশাক পরানো")।
+entry(জঞ্জাল, n, [জঞ্জালসমূহ], "খাদ্য বর্জ্যGARBAGEY GARBAGY বিশেষণ").
+এন্ট্রি(গারবানজো, এন, [গারবানজোস], "একটি ছোলা")।
+এনট্রি(গার্বল, v, [গার্বলড,গার্বলিং,গার্বলস], "অর্থ বিকৃত করা")।
+এন্ট্রি(গার্বলার, না, [গার্বলার্স], "যে বিকৃত করে")।
+এন্ট্রি(garbless, বিশেষণ, [], "পোশাকহীন থাকা").
+এন্ট্রি(গারবোর্ড, ন, [গারবোর্ডস], "জাহাজের নিচের একটি তক্তা")।
+এন্ট্রি(গারবয়েল, এন, [গারবয়েলস], "হট্টগোল").
+এন্ট্রি(গারকন, ন, [গারকন্স], "একজন ওয়েটার")।
+এন্ট্রি(গার্ডা, ন, [গার্ডাই], "আয়ারল্যান্ডে একজন পুলিশ অফিসার")।
+entry(gardant, adj, [], "দর্শকের দিকে সরাসরি ফিরিয়ে দেওয়া একটি পশুভূত আচরণের ক্ষেত্রে ব্যবহৃত").
+এন্ট্রি(বাগান, v, [বাগানকরা, বাগানকরণ, বাগানসমূহ], "একটি জমির টুকরা চাষ করা")।
+এন্ট্রি(মালী, স, [মালীরা], "যে বাগান করে")।
+এণ্ট্রি(গার্ডেনিয়া, ন, [গার্ডেনিয়াস], "একটি উষ্ণমন্ডলীয় গুল্ম বা গাছ")।
+এন্ট্রি(গার্ডিলু, আন্তর্জ, [], "সতর্কবার্তা হিসেবে ব্যবহৃত শব্দ").
+এন্ট্রি(গারফিশ, এন, [গারফিশেস], "একটি মিঠা পানির মাছ")।
+entry(garganey, n, [garganeys], "একটি ছোট হাঁস").
+এন্ট্রি(গারগেট, ন, [গারগেটস], "গৃহপালিত প্রাণীর স্তন্যপায়ী গ্রন্থির প্রদাহগারগেটি বিশেষণ").
+এন্ট্রি(গার্গল, v, [গার্গলড,গার্গলিং,গার্গলস], "মুখ বা গলা ধোয়ার জন্য").
+এন্ট্রি(গার্গলার, ন, [গার্গলারস], "যে গার্গল করে")।
+এন্ট্রি(গারগোয়েল, ন, [গারগোয়েলস], "একটি অলংকারিক চিত্র")।
+এন্ট্রি(গ্যারিগ, এন, [গ্যারিগগুলি], "একটি নিম্ন ঝোপ-জঙ্গল").
+এন্ট্রি(garish, adj, [], "gaudyGARISHLY adv").
+এন্ট্রি(গারল্যান্ড, v, [গারল্যান্ডেড, গারল্যান্ডিং, গারল্যান্ডস], "ফুলের পুষ্পমাল্য দিয়ে সজ্জিত করা")।
+এন্ট্রি(রসুন, ক্রিয়া, [রসুনদেওয়া,রসুনদিচ্ছে,রসুনসমূহ], "রান্নায় ব্যবহৃত একটি ভেষজ রসুন দিয়ে মসলা করা").
+এন্ট্রি(garlicky, বিশেষণ, [], "রসুনের গন্ধযুক্ত বা স্বাদযুক্ত GARLICKIER GARLICKIEST")।
+entry(বস্ত্র, v, [বস্ত্রযুক্ত,বস্ত্রায়িত,বস্ত্রসমূহ], "পোশাক পরানো").
+প্রবেশ(সংগ্রহ, ক্রিয়াপদ, [সংগ্রহীত,সংগ্রহরত,সংগ্রহগুলো], "সংগ্রহ এবং সঞ্চয় করা").
+এন্ট্রি(গারনেট, ন, [গারনেটস], "একটি খনিজ")।
+এন্ট্রি(গার্নি, বিশেষণ, [], "সজ্জিত")।
+এন্ট্রি(গার্নিশ, ভি, [গার্নিশড,গার্নিশিং,গার্নিশস], "সাজাতে").
+এন্ট্রি(গারোট, ভি, [গারোটেড,গারোটিং,গারোটেস], "গারোট করা")।
+এন্ট্রি(গ্যারট, ভি, [গ্যারটেড, গ্যারটিং, গ্যারটস], "গ্যারট করা")।
+entry(গ্যারোটার, n, [গ্যারোটাররা], "যে গ্যারোট করে")।
+এন্ট্রি(গারপাইক, এন, [গারপাইকস], "একটি গারফিশ")।
+এন্ট্রি(গারেড, অতীত, [], "গার এর ক্রিয়া কাল").
+এন্ট্রি(গ্যারেট, ন, [গ্যারেটস], "একটি এটিকগ্যারেটেড বিশেষণ")।
+এন্ট্রি(garring, বর্তমান, [], "গার এর বর্তমান কর্মবিশেষণ").
+এন্ট্রি(গ্যারিসন, গ, [গ্যারিসনড, গ্যারিসনিং, গ্যারিসনস], "একটি সামরিক পদে নিয়োগ দেওয়া").
+এন্ট্রি(গ্যারণ, ন, [গ্যারন্স], "একটি ছোট দৃঢ় ঘোড়া")।
+entry(গ্যারট, v, [গ্যারটেড,গ্যারটিং,গ্যারটস], "শ্বাসরোধ করে মৃত্যুদণ্ড দেওয়া").
+এন্ট্রি(গ্যারোটার, ন, [গ্যারোটার্স], "একজন যে গ্যারোট করে")।
+এন্ট্রি(গ্যারোট, ক্রিয়া, [গ্যারোটেড, গ্যারোটিং, গ্যারোটস], "গ্যারোট করা").
+এন্ট্রি(গার্টার, ভি, [গার্টারড, গার্টারিং, গার্টারস], "একটি ইলাস্টিক ব্যান্ড দিয়ে বাঁধা").
+এন্ট্রি(গার্থ, ন, [গার্থস], "একটি উঠান বা বাগান")।
+entry(গার্ভি, n, [গার্ভিস], "একটি ছোট স্কোউ").
+প্রবেশ(গ্যাস, v, [গ্যাসযুক্ত,গ্যাসিং,গ্যাসগুলি], "বা গ্যাসের একটি পদার্থকে গ্যাস দিয়ে সরবরাহ করা যা অনির্দিষ্ট সম্প্রসারণে সক্ষম হয়েছে")।
+এন্ট্রি(গ্যাসালিয়ার, ন, [গ্যাসালিয়ার্স], "গ্যাসেলিয়ার")।
+এন্ট্রি(গ্যাসব্যাগ, ন, [গ্যাসব্যাগস], "গ্যাস ধারণের জন্য একটি ব্যাগ")।
+এন্ট্রি(গ্যাসকন, ন, [গ্যাসকন্স], "একজন দাম্ভিক")।
+entry(gaseity, n, [gaseities], "গ্যাসের অবস্থা").
+এন্ট্রি(গ্যাজেলিয়ার, এন, [গ্যাজেলিয়ার্স], "একটি গ্যাসলাইট ঝাড়বাতি")।
+entry(গ্যাসীয়, বিশেষণ, [], "গ্যাস সংক্রান্ত").
+entry(gash, adj, [], "GASHER GASHESTজানাশোনা").
+এন্ট্রি(গাঁষ, ক্রি, [গাঁষল, গাঁষতে, গাঁষ], "দীর্ঘ গভীর কাট তৈরি করা").
+এন্ট্রি(গ্যাসহাউস, n, [গ্যাসহাউসেস], "একটি গ্যাসওয়ার্কস")।
+এন্ট্রি(গ্যাসিফাইড, অতীত, [], "গ্যাসিফাই-এর কালের রূপ")।
+এন্ট্রি(গ্যাসিফায়ার, এন, [গ্যাসিফায়ার্স], "যে গ্যাসিফায়েস করে")।
+এন্ট্রি(গ্যাসিফর্ম, বিশেষণ, [], "গ্যাসের আকারে থাকা")।
+এন্ট্রি(গ্যাসিফাই, ক্রিয়া, [গ্যাসিফাইড,গ্যাসিফাইং,গ্যাসিফাইস], "গ্যাসে রূপান্তরিত করা")।
+এনট্রি(গাসকেট, ন, [গাসকেটস], "কিছু তরলরোধী করার জন্য প্যাকিংGASKETED বিশেষণ").
+এন্ট্রি(গাসকিন, প, [গাসকিন্স], "একটি ঘোড়ার পায়ের অংশ")।
+এন্ট্রি(গাস্কিং, এন, [গাস্কিংস], "একটি গ্যাসকেট")।
+entry(গ্যাসলেস, বিশেষণ, [], "গ্যাস নেই এমন").
+এন্ট্রি(গ্যাসলাইট, এন, [গ্যাসলাইটস], "গ্যাস পোড়ানোর মাধ্যমে তৈরি আলোকসম্পাত").
+entry(gaslit, adj, [], "গ্যাসলাইট দ্বারা আলোকিত")।
+এন্ট্রি(গ্যাসম্যান, ন, [গ্যাসমেন], "একটি গ্যাস কোম্পানির কর্মচারী")।
+এন্ট্রি(গ্যাসোজিন, �্র, [গ্যাসোজিনস], "গ্যাজোজিন")।
+এন্ট্রি(গ্যাসোহল, ন, [গ্যাসোহলস], "গ্যাসোলিন এবং ইথাইল অ্যালকোহলের একটি জ্বালানি মিশ্রণ")।
+এন্ট্রি(গ্যাসোলিন, ন, [গ্যাসোলিনস], "গ্যাসোলিন")।
+এন্ট্রি(গ্যাসোলিয়ার, ন, [গ্যাসোলিয়ার্স], "গ্যাসেলিয়ার")।
+entry(পেট্রল, n, [পেট্রলগুলি], "একটি তরল জ্বালানী").
+entry(gasp, v, [gasped,gasping,gasps], "হঠাৎ দম নেওয়া").
+এন্ট্রি(গ্যাসপার, ন, [গ্যাসপার্স], "একটি সিগারেট")।
+entry(gassed, অতীত, [], "গ্যাসের কাল").
+এন্ট্রি(গ্যাসার, ন, [গ্যাসার্স], "যে গ্যাস দেয়")।
+এন্ট্রি(গ্যাসেস, এ, [], "গ্যাসের বর্তমান ৩য় ব্যক্তি একবচন").
+entry(gassing, n, [gassings], "ক্ষতিকারক গ্যাস দ্বারা বিষক্রিয়া").
+এন্ট্রি(গ্যাসি, বিশেষণ, [], "গ্যাসিয়ার গ্যাসিয়েস্টগ্যাসযুক্তগ্যাসিলি ক্রি বিশেষণ").
+এন্ট্রি(গাস্ট, ভি, [গাস্টেড, গাস্টিং, গাস্টস], "ভয় দেখানো")।
+এন্ট্রি(গ্যাসটার, ন, [গ্যাসটারস], "কিছু পোকামাকড়ের উদরের বর্ধিত অংশ")।
+এন্ট্রি(গ্যাসথাউস, n, [গ্যাসথাউসেস], "অথবা গ্যাসথাউসেরাএকটি ছোট হোটেল জার্মানিতে")।
+এন্ট্রি(গ্যাসটাইট, বিশেষ্য, [], "গ্যাস পালাতে বা প্রবেশ করতে না দেওয়া").
+এন্ট্রি(গ্যাস্টনেস, বিশেষ্য, [গ্যাস্টনেসেস], "ভয়")।
+এন্ট্রি(গাস্ট্রিয়া, ন, [গাস্ট্রিয়াস], "এক প্রকারের মেটাজোয়ান")।
+এন্ট্রি(গ্যাস্ট্রাল, বিশেষণ, [], "পেটের সাথে সম্পর্কিত")।
+এন্ট্রি(গাস্ট্রিয়া, ন, [গাস্ট্রিয়াস], "গাস্ট্রিয়া")।
+entry(gastric, বিশেষণ, [], "পেট সম্পর্কিত").
+এন্ট্রি(গ্যাসট্রিন, ন, [গ্যাসট্রিনস], "একটি হরমোন")।
+এন্ট্রি(গ্যাস্ট্রুলা, ন, [গ্যাস্ট্রুলাস], "অথবা গ্যাস্ট্রুলা একটি মেটাজোয়ান ভ্রূণ")।
+এন্ট্রি(গ্যাসওয়ার্কস, ন, [গ্যাসওয়ার্কস], "একটি কারখানা যেখানে গ্যাস উৎপাদিত হয়")।
+এন্ট্রি(গত, ন, [গতস], "একটি পিস্তল")।
+এন্ট্রি(গ্যাচ, ক্রিয়া, [গ্যাচড, গ্যাচিং, গ্যাচেস], "আত্মম্ভরি হয়ে আচরণ করা")।
+এন্ট্রি(গ্যাচার, n, [গ্যাচার্স], "যে গ্যাচ করে")।
+এন্ট্রি(দরজা, ভি, [দরজা দিয়েছে, দরজা দিচ্ছে, দরজা দেয়], "একটি দরজা প্রদান করা একটি চলমান বাধা হিসেবে")।
+এন্ট্রি(গ্যাটো, ন, [গ্যাটোস], "অথবা গ্যাটউক্স একটি বিলাসবহুল কেক")।
+এন্ট্রি(গেইটফোল্ড, ন, [গেইটফোল্ডস], "বই বা ম্যাগাজিনে একটি ভাঁজযুক্ত ইনসার্ট")।
+এন্ট্রি(গেটলেগ, এন, [গেটলেগস], "একটি টেবিল যেটিতে চলন্ত পায়া দ্বারা সমর্থিত এক্সটেনশন থাকে")।
+এন্ট্রি(গেটলেস, বিশেষণ, [], "গেটের অভাবযুক্ত")।
+এন্ট্রি(গেইটলাইক, বিশেষণ, [], "গেটের মতো").
+এন্ট্রি(গেটম্যান, ন, [গেটমেন], "গেটের দায়িত্বপ্রাপ্ত ব্যক্তি")।
+এন্ট্রি(গেটপোস্ট, ন, [গেটপোস্টস], "একটি খুঁটি যার থেকে একটি গেট ঝোলানো হয়")।
+এন্ট্রি(গ্যাটার, ন, [গ্যাটার্স], "গেটর")।
+entry(gateway, n, [gateways], "একটি পথ যা একটি গেট দ্বারা বন্ধ করা যেতে পারে").
+এন্ট্রি(গ্যাদার, ভি, [গ্যাদারড, গ্যাদারিং, গ্যাদারস], "একটি স্থান বা গোষ্ঠীতে একত্রিত করতে")।
+এন্ট্রি(সংগ্রাহক, ন, [সংগ্রাহকগণ], "যে সংগ্রহ করে")।
+এন্ট্রি(গেটিং, ন, [গেটিংস], "একটি চ্যানেল খোলার এবং বন্ধ করার প্রক্রিয়া")।
+এন্ট্রি(গেটর, ন, [গেটরস], "একটি এলিগেটর")।
+এন্ট্রি(গাউচ, ভি, [গাউচেড, গাউচিং, গাউচেস], "গ্যাচ করা").
+```prolog
+entry(gauche, adj, [], "GAUCHER GAUCHESTসামাজিক কৃপা অভাবGAUCHELY ক্রি:বি:").
+```
+entry(gaucher, n, [gauchers], "গাচের")।
+এনট্রি(গাউচো, এন, [গাউচোস], "দক্ষিণ আমেরিকার পাম্পাসের কাউবয়")।
+এন্ট্রি(gaud, n, [gauds], "একটি প্রদর্শনশীল অলঙ্কার")।
+এন্ট্রি(গুডারি, ন, [গুডারিস], "জাঁকজমক")।
+এন্ট্রি(গডি, অ্যাডজেক্টিভ, [], "গডিয়ার গডিয়েস্টআড়ম্বরপূর্ণভাবে দেখানোগডিলি এডভি")।
+entry(gaudy, n, [gaudies], "একটি উৎসব").
+এন্ট্রি(গফার, v, [গফার্ড,গফারিং,গফার্স], "গোফার করতে").
+entry(gauge, v, [gauged,gauging,gauges], "সঠিকভাবে পরিমাপ করা").
+এন্ট্রি(গজার, ন, [গজারস], "একজন যিনি পরিমাপ করেন")।
+এন্ট্রি(গল্ট, ন, [গল্টস], "একটি ভারী পুরু কাঁদাযুক্ত মাটি")।
+এন্ট্রি(gaum, v, [gaumed,gauming,gaums], "লেপা").
+এন্ট্রি(গওন, বর্তমান, [], "গেছিল এর ক্রিয়াবিশেষণীয়").
+এন্ট্রি(গাঞ্চ, এন, [গাঞ্চেস], "অন্তর্বাস").
+এন্ট্রি(গণ্ট, বিশেষণ, [], "গণ্টার গণ্টেস্টচিরসামিকশীর্ণগণ্টলি ক্রিয়া").
+এন্ট্রি(গন্টলেট, ভি, [গন্টলেটেড, গন্টলেটিং, গন্টলেটস], "টু গ্যান্টলেট")।
+এন্ট্রি(গ্যান্ট্রি, ন, [গ্যান্ট্রিস], "গ্যান্ট্রি")।
+এন্ট্রি(গৌর, ন, [গৌরস], "একটি বন্য গরু")।
+এন্ট্রি(গস, এন, [গোসেস], "চৌম্বক প্রবর্তনের একটি একক")।
+এনট্রি(গজ, ন, [গজসমূহ], "একটি স্বচ্ছ কাপড়")।
+এন্ট্রি(গজি, বিশেষণ, [], "GAUZIER GAUZIESTগজের মতোGAUZILY ক্রি").
+এন্ট্রি(গাভেজ, ন, [গাভেজস], "নল দিয়ে পেটে পদার্থ প্রবর্তন")।
+এন্ট্রি(দেওয়া, অতীত, [], "give এর কাল").
+entry(gavel, v, [gaveled,gaveling,gavels], "অথবা GAVELLED GAVELLING GAVELSto ছোট হাতুড়ির সাহায্যে মনোযোগ বা শৃঙ্খলার জন্য সংকেত দেওয়া").
+এন্ট্রি(গেভেলক, ন, [গেভেলকস], "একটি ক্রোবার")।
+এনট্রি(gavial, n, [gavials], "একটি বৃহৎ সরীসৃপ")।
+এন্ট্রি(গাভোট, ন, [গাভোট্স], "একটি ফরাসি নাচ")।
+এন্ট্রি(গ্যাভোট, v, [গ্যাভোটেড,গ্যাভোটিং,গ্যাভোটস], "একটি গ্যাভোট নাচতে").
+entry(gawk, v, [gawked,gawking,gawks], "অকথ্যভাবে তাকানো").
+entry(gawker, n, [gawkers], "যে তাকিয়ে থাকে").
+এন্ট্রি(গ্যাকিয়ার, তুলনামূলক, [], "অফ গকি")।
+এন্ট্রি(গকি, বহুবচন, [], "অফ গকি")।
+entry(gawkish, adj, [], "গকি").
+এন্ট্রি(গকী, বিশেষণ, [], "গকীয়ার গকীয়েস্টঅকওয়ার্ডগকিলি ক্রিয়া বিশেষণ").
+এন্ট্রি(গকি, এন, [গকিস], "একটি অদক্ষ ব্যক্তি")।
+entry(gawmoge, n, [gawmoges], "একজন হাস্যকর ব্যক্তি").
+এন্ট্রি(গ্যাপ, v, [গ্যাপড, গ্যাপিং, গ্যাপস], "অবাক হয়ে বা নির্বোধের মত তাকানো")।
+entry(gawper, n, [gawpers], "যে অবাক হয়ে তাকায়").
+এনট্রি(গোষি, বিশেষণ, [], "পুষ্ট এবং সুস্বাস্থ্যের অধিকারী")।
+এন্ট্রি(গসী, বিশেষণ, [], "গসি")।
+এন্ট্রি(গে, বিশেষণ, [], "গেয়ার গেয়েস্ট1 আনন্দিত 2 সমকামী").
+এন্ট্রি(গে, বি, [গেস], "একজন সমকামী")।
+এন্ট্রি(গায়াল, ন, [গায়ালস], "একটি পোষা গরু").
+এন্ট্রি(গ্যাডার, এন, [গ্যাডারস], "সমকামী ব্যক্তিকে চেনার ক্ষমতা")।
+entry(প্রফুল্লতা, বিশেষ্য, [প্রফুল্লতাসমূহ], "উল্লাস").
+এন্ট্রি(গেইলি, ক্রিয়াবিশেষণ, [], "একটি আনন্দপূর্ণ ভঙ্গিতে").
+এন্ট্রি(গেইনেস, এন, [গেইনেসেস], "গে থাকার অবস্থা")।
+এন্ট্রি(গেওউইংস, ন, [গেওউইংস], "একটি বহুবর্ষজীবী ভেষজ")।
+এন্ট্রি(গ্যাজাবো, ন, [গ্যাজাবোস], "বা গ্যাজাবোয়েস একজন সহকর্মী")।
+এন্ট্রি(গাজানিয়া, ন, [গাজানিয়াস], "একটি দক্ষিণ আফ্রিকান ভেষজ")।
+এন্ট্রি(গাজার, ন, [গাজারস], "মসৃণ পাতলা কাপড়").
+entry(দৃষ্টিপাত, v, [দৃষ্টিপাত_করা,দৃষ্টিপাত_করি,দৃষ্টিপাত_করে], "অত্যন্ত মনোযোগ দিয়ে তাকানো")।
+এন্ট্রি(গাজেবো, ন, [গাজেবোস], "অথবা GAZEBOES একটি ছাদযুক্ত কাঠামো যা পাশে খোলা থাকে")।
+এন্ট্রি(গেজেল, ন, [গেজেলস], "একটি ছোট হরিণবিশেষ")।
+এন্ট্রি(গেজার, ন, [গেজার্স], "যে তাকিয়ে থাকে")।
+এন্ট্রি(গেজেট, v, [গেজেটেড,গেজেটিং,গেজেটস], "একটি আনুষ্ঠানিক জার্নালে ঘোষণা করা").
+এন্ট্রি(গেজিং, বর্তমান, [], "গেজের ক্রিয়াবিধি").
+এন্ট্রি(গাজোজিন, এন, [গাজোজিনস], "তরল পদার্থ কার্বনেট করার জন্য একটি যন্ত্র")।
+entry(গাজপাচো, n, [গাজপাচোস], "ঠান্ডা মশলাদার সুপ").
+entry(gazump, v, [gazumped,gazumping,gazumps], "মূলত সম্মত মূল্য বাড়িয়ে প্রতারণা করা").
+এন্ট্রি(gazumper, n, [gazumpers], "যে gazump করে")।
+এনট্রি(গাজান্ডার, ভি, [গাজান্ডারড, গাজান্ডারিং, গাজান্ডার্স], "কোনো সম্পত্তির বিক্রেতার কাছে ক্রেতার প্রস্তাব কমানোর কাজ করা")।
+এন্ট্রি(গিয়ার, v, [গিয়ারড,গিয়ারিং,গিয়ার্স], "চাকার দাঁতযুক্ত যন্ত্রাংশ সহ সরবরাহ করা")।
+এন্ট্রি(গিয়ারবক্স, এন, [গিয়ারবক্সেস], "একটি অটোমোটিভ ট্রান্সমিশন")।
+এন্ট্রি(গিয়ারকেস, এন, [গিয়ারকেসেস], "গিয়ারের জন্য একটি আবরণ")।
+এন্ট্রি(গিয়ারহেড, ন, [গিয়ারহেডস], "একজন যান্ত্রিকভাবে পারদর্শী ব্যক্তি")।
+এন্ট্রি(গিয়ারিং, ন, [গিয়ারিংস], "গিয়ারের একটি সিস্টেম")।
+এন্ট্রি(gearless, adj, [], "গিয়ার ছাড়া থাকা").
+এনট্রি(গেক, ক্রিয়াপদ, [গেকড, গেকিং, গেক্স], "অপমান করা")।
+এন্ট্রি(গেকো, ন, [গেকোস], "অথবা GECKOESa ছোট টিকটিকি")।
+এন্ট্রি(geegaw, n, [geegaws], "gewgaw").
+entry(গীক, n, [গীকস], "একরৈখিক উত্‍সাহী বা বিশেষজ্ঞ").
+এন্ট্রি(গীকডম, এন, [গীকডমস], "গীকদের জগৎ")।
+entry(geeked, adj, [], "উৎসাহে পূর্ণ").
+এন্ট্রি(গীকিশ, বিশেষণ, [], "গীকি").
+এন্ট্রি(গীকি, বিশেষণ, [], "অতি গীকি সবচেয়ে গীকি সামাজিকভাবে বিশ্রী বা আকর্ষণীয় নয়").
+এন্ট্রি(জিপাউন্ড, ন, [জিপাউন্ডস], "ভর এর একটি একক")।
+এন্ট্রি(geese, pl, [], "of goose").
+এন্ট্রি(গীস্ট, ন, [গীস্টস], "প্রাচীন অলুভিয়াল পদার্থ")।
+এন্ট্রি(গীজ, সন্দর্ভ, [], "জীজ")।
+entry(geezer, n, [geezers], "একজন বিশেষধরনের মানুষ").
+entry(গেইশা, n, [গেইশাস], "একজন জাপানি মেয়ে যা বিনোদন দেওয়ার জন্য প্রশিক্ষিত")।
+এন্ট্রি(জেল, ক্রিয়া, [জেলড, জেলিং, জেলস], "জেলির মতো হওয়াGELABLE বিশেষণ").
+এন্ট্রি(গেলাডা, ন, [গেলাডাস], "একটি বাবুন")।
+entry(gelant, n, [gelants], "জেলান্ট")।
+এন্ট্রি(জেলেট, ক্রিয়া, [জেলেটেড,জেলেটিং,জেলেটস], "জেল করার জন্য")।
+এন্ট্রি(জেলাটি, নয়, [জেলাতিস], "জেলাতো")।
+এন্ট্রি(জেলটিন, এন, [জেলটিনস], "একটি আঠালো পদার্থ")।
+এন্ট্রি(জেলাটিন, বিশেষ্য, [জেলাটিনস], "জেলাটিন")।
+এনট্রি(gelating, present, [], "gelate এর পার্টিসিপল")।
+এন্ট্রি(জেলেশন, ন, [জেলেশনগুলো], "জেল করার প্রক্রিয়া")।
+এন্ট্রি(জেলাতো, এন, [জেলাতোস], "অথবা GELATIItalian আইসক্রিম")।
+এন্ট্রি(জেলক্যাপ, ন, [জেলক্যাপস], "একটি জেলাটিন প্রলিপ্ত ট্যাবলেট")।
+এন্ট্রি(জেলকোট, এন, [জেলকোটস], "পলিয়েস্টার রেজিনের একটি পৃষ্ঠ স্তর")।
+এন্ট্রি(গেল্ড, ভি, [গেলডেড,গেলডিং,গেল্ডস], "খাসি করা").
+এন্ট্রি(গেল্ডার, ন, [গেল্ডার্স], "যে একটি gelds")।
+এন্ট্রি(গেল্ডিং, এন, [গেল্ডিংস], "একটি খোজা করা প্রাণী")।
+এন্ট্রি(জেলি, ন, [জেলিস], "একটি প্রসাধন জেল").
+entry(gelid, adj, [], "বরফশীতলভাবে adv").
+এনট্রি(জেলিডিটি, ন, [জেলিডিটিজ], "আইসিনেস")।
+এন্ট্রি(জেলান্ট, সা, [জেলান্টস], "একটি পদার্থ যা জেলিং উৎপন্ন করতে ব্যবহৃত হয়")।
+এন্ট্রি(জেলড, অতীত, [], "জেল এর কালীক রূপ")।
+এন্ট্রি(gelling, present, [], "জেল করার বর্তমান কৃৎপদ")।
+এন্ট্রি(জেলি, n, [জেলিস], "অত্যন্ত বিস্ফোরক একটি জেলিগনাইট")।
+এন্ট্রি(গেলসেমিয়া, নপ্ল, [], "ঔষধি উদ্ভিদের মূল")।
+এন্ট্রি(গেল্ট, ন, [গেল্টস], "টাকা")।
+এন্ট্রি(জেম, ফ, [জেমড,জেমিং,জেমস], "পাথর দ্বারা অলঙ্কৃত করা").
+এন্ট্রি(গেমাত্রিয়া, ন, [গেমাত্রিয়াস], "শাস্ত্রগুলিকে ব্যাখ্যা করার একটি কাবালিস্টিক পদ্ধতি")।
+এন্ট্রি(geminal, বিশেষণ, [], "একই পরমাণুর দুই শক্তিস্থাপনের সাথে সম্পর্কিত").
+এন্ট্রি(যুগল, ক্রিয়া, [যুগলিত, যুগলিত হওয়া, যুগলিত হয়], "জুড়িতে সাজানো")।
+entry(gemlike, বিশেষণ, [], "একটি রত্নের মতো অনুরূপ").
+এন্ট্রি(জেমা, ন, [জেমাই], "একটি অযৌন প্রজনন গঠন")।
+entry(gemmate, v, [gemmated,gemmating,gemmates], "জেমি উৎপন্ন করা").
+entry(gemmed, অতীত, [], "gem এর ক্রিয়া রূপ").
+entry(gemmier, comparative, [], "জেমমির").
+এন্ট্রি(গেমিয়েস্ট, সর্বাধিক, [], "জেমি এর").
+এন্ট্রি(জেমিলি, ক্রি, [], "রত্নের মতো পরামর্শ দেওয়ার শৈলীতে").
+এন্ট্রি(জেমিং, বর্তমান, [], "জেম এর ক্রিয়াবাচক বিশেষ্য").
+entry(gemmule, n, [gemmules], "একটি ক্ষুদ্র জেম্মা")।
+এন্ট্রি(জেমি, বিশে, [], "জেমিয়ার জেমিয়েস্ট এক রত্নের মতো অনুরূপ").
+এন্ট্রি(জেমোলজি, ন, [জেমোলজিস], "রত্নবিদ্যার বিজ্ঞান")।
+এন্ট্রি(গেমট, ব, [গেমটস], "অ্যাঙ্গলো-স্যাক্সন ইংল্যান্ডে একটি পাবলিক সভা")।
+প্রবেশ(জেমোট, ন, [জেমোটস], "জেমোট").
+এন্ট্রি(গেমসবক, ন, [গেমসবকস], "একটি বড় হরিণজাতীয় প্রাণী")।
+এন্ট্রি(জেমসবক, ন, [জেমসবক্স], "জেমসবক")।
+এন্ট্রি(রত্ন, ন, [রত্নগুলি], "একটি মূল্যবান পাথর")।
+এন্ট্রি(জেন, ভি, [জেনড,জেনিং,জেনস], "তথ্য প্রদান বা প্রাপ্ত করা").
+এন্ট্রি(জেনডারম, ন, [জেনডারমস], "একজন পুলিশ").
+এন্ট্রি(লিঙ্গ, ভি, [লিঙ্গযুক্ত,লিঙ্গীকরণ,লিঙ্গ সমূহ], "উৎপন্ন করতে")।
+এন্ট্রি(জিন, ন, [জিনস], "একটি বংশগত একক")।
+এন্ট্রি(জেনেরা, এ, [], "গেনাসের বহুবচন")।
+এন্ট্রি(সাধারণ, ন, [জেনারেলস], "একজন সামরিক কর্মকর্তা")।
+এন্ট্রি(জেনারেট, ক্রিয়া, [জেনারেটেড, জেনারেটিং, জেনারেটস], "অস্তিত্বে নিয়ে আসা")।
+এন্ট্রি(সাধারণ, ন, [সাধারণগুলি], "ওষুধের একটি প্রকার").
+এন্ট্রি(উদার, বিশেষণ, [], "দিতে আগ্রহী")।
+এন্ট্রি(জেনেসিস, ন, [জিনেসেস], "একটি উত্স")।
+এন্ট্রি(জেনেট, ন, [জেনেটস], "একটি মাংসাশী স্তন্যপায়ী প্রাণী")।
+এন্ট্রি(জেনেটিক, বিশেষণ, [], "জেনেটিক্স সংক্রান্ত")।
+এন্ট্রি(জেনেটিক্স, এনপিএল, [], "উত্তরাধিকারের বিজ্ঞান")।
+entry(genette, n, [genettes], "জেনেট").
+এন্ট্রি(জেনেভা, ন, [জেনেভাস], "একটি মদ")।
+entry(সৌম্য, বিশেষণ, [], "সুন্দর বা বন্ধুত্বপূর্ণ আচরণসম্পন্নGENIALLY ক্রি.বিশেষণ").
+এন্ট্রি(জেনিক, বিশেষণ, [], "জিন সম্পর্কিত")।
+entry(genie, n, [জিন], "জাদুকর").
+এন্ট্রি(জিনিআই, এ, [], "জিনিয়াস-এর বহুবচন")।
+এন্ট্রি(জেনিপ, ন, [জেনিপস], "একটি উষ্ণমণ্ডলীয় গাছ")।
+এন্ট্রি(জেনিপ্যাপ, ন, [জেনিপ্যাপস], "একটি ক্রান্তীয় গাছ")।
+এন্ট্রি(জেনিপাপো, ন, [জেনিপাপোস], "জেনিপাপ")।
+এন্ট্রি(জেনিস্তা, এন, [জেনিস্টাস], "হলুদ ফুলের একটি গাছ").
+এন্ট্রি(যৌনাঙ্গ, বিশেষণ, [], "প্রজননের সাথে সম্পর্কিত")।
+এন্ট্রি(যৌনাঙ্গ, npl, [], "যৌন অঙ্গগুলো")।
+এন্ট্রি(জেনিটিভ, ন, [জেনিটিভস], "একটি ব্যাকরণগত কারক")।
+এনট্রি(জনক, ন, [জনকগণ], "একজন পুরুষ অভিভাবক")।
+এন্ট্রি(জেনিচার, ন, [জেনিচারস], "জন্ম")।
+এন্ট্রি (প্রতিভা, এন, [প্রতিভাসমূহ], "অথবা GENII একটি অসাধারণ প্রাকৃতিক দক্ষতা")।
+এন্ট্রি(জেনলক, ন, [জেনলক্স], "বিভিন্ন ভিডিও সংকেত সিঙ্ক্রোনাইজ করার জন্য একটি যন্ত্র")।
+entry(gennaker, n, [gennakers], "একটি স্পিনাকার পাল").
+প্রবেশ(সৃষ্টি, অতীত, [], "সৃষ্টির কাল")।
+entry(genning, বর্তমান, [], "gen এর ক্রিয়াবাচক বিশেষ্য").
+এন্ট্রি(জেনোয়া, ন, [জেনোয়াস], "একটি ত্রিভুজাকার পাল")।
+entry(গণহত্যা, n, [গণহত্যাগুলি], "একটি জাতীয় বা জাতিগত গোষ্ঠীর ইচ্ছাকৃত নিধন").
+এন্ট্রি(জেনোগ্রাম, এন, [জেনোগ্রামস], "একটি পরিবারের আচরণ প্যাটার্নের ইতিহাসের একটি চিত্র")।
+প্রবেশ(জেনোইস, এন, [জেনোইসেস], "একটি সমৃদ্ধ স্পঞ্জ কেক")।
+এন্ট্রি(জিনোম, ন, [জিনোমস], "জিনোম")।
+এন্ট্রি(জেনোম, এন, [জেনোমস], "একটি হ্যাপ্লয়েড সেট ক্রোমোসোমজেনোমিক বিশেষণ")।
+এন্ট্রি(জেনোমিক্স, এনপিএল, [], "জিনোম সমূহের অধ্যয়ন")।
+এন্ট্রি(জেনোটাইপ, n, [জেনোটাইপস], "একটি জীবের জেনেটিক গঠন")।
+entry(বিভাগ, ন, [বিভাগগুলি], "একটি প্রকার বা ধরণ").
+প্রবেশ(জেনরো, এন, [জেনরোস], "জাপানে প্রবীণ রাজনীতিবিদদের একটি গ্রুপ")।
+এন্ট্রি(জেন্স, ন, [জেন্টেস], "এক ধরনের বংশ")।
+এন্ট্রি(জিনসেং, ন, [জিনসেংস], "জিনসেং")।
+entry(gent, n, [gents], "একজন ভদ্রলোক")।
+এন্ট্রি(গেন্টীল, বিশেষণ, [], "আভিজাত্যপূর্ণ বা সূক্ষ্ম").
+এন্ট্রি(জেন্টেস, বহুবচন, [], "গেনসের").
+এন্ট্রি(জেন্টিয়ান, ন, [জেন্টিয়ানস], "একটি ফুলের গাছ")।
+এন্ট্রি(গেনটিল, বিশেষণ, [], "দয়ালু/সদয়/সরল/মৃদু/নম্র").
+entry(gentile, n, [gentiles], "একজন অ-ইহুদি ব্যক্তি").
+এন্ট্রি(সৌম্য, বিশেষণ, [], "আরওসৌম্য সবচেয়েসৌম্যমৃদুমশ্যব্দবিশেষণরূপ").
+entry(সৌম্য, v, [সৌম্য করা হয়েছে,সৌম্য করা হচ্ছে,সৌম্য করে], "শান্ত করা").
+এন্ট্রি(জেন্টু, ন, [জেন্টুস], "একটি ধূসর-পিঠওয়ালা পেঙ্গুইন")।
+এন্ট্রি(জেনট্রাইস, এন, [জেনট্রাইসেস], "উত্তম প্রজনন")।
+এন্ট্রি(জেনট্রি, ক্রিয়া, [জেনট্রিফাইড, জেনট্রিফাইং, জেনট্রিফাইস], "একটি ক্ষয়প্রাপ্ত শহুরে এলাকাকে পুনর্নবীকরণ করা যাতে মধ্যবিত্ত বাসিন্দাদের আকর্ষণ করা যায়")।
+এন্ট্রি(জেন্ট্রি, এন, [জেন্ট্রিজ], "উচ্চ সামাজিক শ্রেণীর মানুষ")।
+এন্ট্রি(জেন্টস, বহুবচন, [], "একটি পাবলিক পুরুষের ঘর")।
+এন্ট্রি(জেনু, ন, [জেনুয়া], "হাঁটু").
+entry(প্রকৃত, বিশেষণ, [], "আসল").
+এন্ট্রি(জেনাস, ন, [জেনাসেস], "অথবা জেনার প্রকারের শ্রেণী বা শ্রেণী").
+প্রবেশ(জিওক্যাচ, v, [জিওক্যাচড,জিওক্যাচিং,জিওক্যাচেস], "একটি খেলার অংশ হিসেবে একটি গ্লোবাল পজিশনিং সিস্টেম ডিভাইস ব্যবহার করে লুকানো আইটেম অনুসন্ধান করা").
+entry(geode, n, [geodes], "এক প্রকারের শিলা").
+এন্ট্রি(জিওডেসিক, ন, [জিওডেসিকস], "একটি জ্যামিতিক রেখা")।
+এন্ট্রি(জিওডেসি, ন, [জিওডেসিস], "ভৌগোলিক জরিপ")।
+এন্ট্রি(জিওডেটিক, বিশেষণ, [], "ভূমিরূপবিদ্যা সম্পর্কিত")।
+এন্ট্রি(জিওডিক, বিশেষণ, [], "একটি জিওডের বা এর সাথে সম্পর্কিত")।
+entry(জিওডাক, n, [জিওডাকস], "একটি বড় ভোজ্য শামুক")।
+এন্ট্রি(জিওগনসি, বিশেষ্য, [জিওগনসিসমূহ], "ভূবিজ্ঞানের একটি শাখা")।
+এন্ট্রি(জিওআইডি, এন, [জিওআইডস], "পৃথিবীর একটি কাল্পনিক পৃষ্ঠGEOIDAL বিশেষ্যণ").
+এন্ট্রি(জিওলজিস্ট, বিশেষ্য, [জিওলজিস্টগণ], "ভূতত্ত্বের একজন বিশেষজ্ঞ").
+এন্ট্রি(ভূতত্ত্ব, n, [ভূতত্ত্বগুলি], "বিজ্ঞান যা পৃথিবীর উৎপত্তি এবং গঠন নিয়ে কাজ করেGELOGIC বিশেষণ")।
+এন্ট্রি(জিওম্যান্সি, এন, [জিওম্যান্সিজ], "ভূগোলিক বৈশিষ্ট্য দ্বারা ভবিষ্যত বলার একটি পদ্ধতি")।
+এন্ট্রি(জিওমিটার, ন, [জিওমিটারস], "জ্যামিতির বিশেষজ্ঞ")।
+এন্ট্রি(জ্যামিতি, ন, [জ্যামিতিসমূহ], "গণিতের একটি শাখা")।
+এন্ট্রি(মৃত্তিকা-সেবন, ন, [মৃত্তিকা-সেবনসমূহ], "মাটি জাতীয় পদার্থ খাওয়ার অভ্যাস")।
+এন্ট্রি(জিওফোন, এন, [জিওফোনস], "মাটির কম্পন সনাক্ত করে এমন একটি যন্ত্র")।
+এন্ট্রি(জিওফাইট, ন, [জিওফাইটস], "মাটির নিচে কুঁড়ি থাকা একটি উদ্ভিদ")।
+entry(geoponic, adj, [], "কৃষি সম্পর্কিত")।
+entry(জিওপ্রোব, পুং, [জিওপ্রোবস], "পৃথিবীর নিকটবর্তী মহাকাশ অনুসন্ধানের জন্য একটি মহাকাশযান")।
+এন্ট্রি(georgic, n, [georgics], "কৃষি সম্পর্কিত একটি কবিতা").
+entry(জিওট্যাক্সিস, n, [জিওট্যাক্সেস], "মাধ্যাকর্ষণের প্রতিক্রিয়ায় কোনও জীবের গতি").
+entry(গেরাহ, n, [গেরাহস], "একটি হিব্রু ওজনের একক").
+এন্ট্রি(গেরানিয়াল, ন, [গেরানিয়ালস], "সাইট্রাল")।
+এন্ট্রি(জেরানিওল, ন, [জেরানিওলস], "একটি অ্যালকোহল যা সুগন্ধিতে ব্যবহৃত হয়")।
+এন্ট্রি(জেরেনিয়াম, নব, [জেরেনিয়ামস], "একটি ফুলের গাছ")।
+entry(gerardia, n, [gerardias], "একটি ভেষজ উদ্ভিদ")।
+এন্ট্রি(জারবেরা, ন, [জারবেরাস], "একটি ভেষজ")।
+এন্ট্রি(জারবিল, বিশেষ্য, [জারবিলস], "একটি সুড়ঙ্গকারী ইঁদুর প্রজাতির প্রাণী")।
+entry(gerbille, n, [gerbilles], "জারবিল").
+entry(gerent, n, [gerents], "শাসক বা ব্যবস্থাপক")।
+এন্ট্রি(gerenuk, n, [gerenuks], "একটি দীর্ঘ গলার মৃগ").
+entry(জীবাণু, n, [জীবাণুগুলি], "একটি সূক্ষ্মজীব যা রোগ সৃষ্টি করে").
+এন্ট্রি(জার্মান, ন, [জার্মানস], "একটি জটিল নৃত্য").
+এন্ট্রি(গার্মেইন, বিশেষণ, [], "প্রাসঙ্গিক").
+প্রকাশ(germanic, বিশেষণ, [], "জার্মেনিয়াম একটি ধাতব উপাদান ধারণকারী")।
+entry(জার্মান, ন, [জার্মেনস], "বা GERMINAকিছু যা উত্স হিসাবে কাজ করে")।
+এন্ট্রি(জার্মফ্রী, বিশেষণ, [], "জীবাণুমুক্ত")।
+এন্ট্রি(জার্মিয়ার, তুলনামূলক, [], "জার্মির").
+এন্ট্রি(গারমিয়েস্ট, তুলনীয়, [], "অফ গার্মি")।
+এন্ট্রি(জার্মিনা, ক, [], "জার্মেনের বহুবচন")।
+entry(germinal, adj, [], "বিকাশের প্রাথমিক পর্যায়ে থাকা").
+এন্ট্রি(জার্মলাইক, বিশেষণ, [], "জীবাণুর মতো অনুরূপ").
+এন্ট্রি(গার্মি, বিশেষণ, [], "জীবাণুযুক্ত গার্মিয়ার গার্মিয়েস্ট").
+এন্ট্রি(gerontic, adj, [], "বৃদ্ধ বয়স সম্পর্কিত").
+এন্ট্রি(gerund, n, [gerunds], "একটি ক্রিয়া বিশেষ্য")।
+এন্ট্রি(গেসনেরিয়া, বিশেষণ, [], "এক ধরনের ফুল গাছের সূচক").
+এন্ট্রি(জেসো, ন, [জেসোস], "একটি প্লাস্টার মিশ্রণ")।
+entry(gessoed, adj, [], "জেসো নামে একটি প্রলেপ থাকা").
+এন্ট্রি(gest, n, [gests], "একটি কৃতিত্ব")।
+এন্ট্রি(জেশটাল্ট, এন, [জেশটাল্টস], "অথবা GESTALTEN একটি ঐক্যবদ্ধ সমগ্র").
+এন্ট্রি(গেস্টাপো, ন, [গেস্টাপোস], "একটি গোপনপুলিশ সংস্থা")।
+এন্ট্রি(গেস্টেট, v, [গেস্টেটেড, গেস্টেটিং, গেস্টেটস], "গর্ভাবস্থায় গর্ভে ধারণ করা").
+এন্ট্রি(জেস্ত, ন, [জেস্তেস], "জেস্ত").
+এন্ট্রি(জেসটিক, বিশেষণ, [], "শরীরের গতির সাথে সম্পর্কিত")।
+entry(gestical, adj, [], "gestic").
+এন্ট্রি(ইঙ্গিতমূলক, বিশেষণ, [], "ইঙ্গিতপূর্ণ শারীরিক গতিবিধি বা অঙ্গভঙ্গির সাথে সম্পর্কিত").
+entry(gesture, v, [gestured,gesturing,gestures], "শারীরিক অঙ্গভঙ্গির মাধ্যমে প্রকাশ করা").
+এন্ট্রি(জেসচারার, ন, [জেসচারারস], "যে অঙ্গভঙ্গি করে").
+entry(get, n, [গেট], "ইহুদি আইনে বিবাহ বিচ্ছেদ").
+entry(get, v, [got,gotten,getting], "অর্জন করতে বা পেতে")।
+entry(geta, n, [getas], "একটি জাপানি কাঠের পাদুকা").
+entry(getaway, n, [getaways], "একটি পলায়ন").
+এন্ট্রি(getout, n, [getouts], "কোনো কিছু করা এড়ানোর জন্য একটি অজুহাত")।
+এন্ট্রি(গেটার, ভি, [গেটার্ড, গেটারিং, গেটার্স], "রাসায়নিকভাবে সক্রিয় পদার্থের সাথে বিশুদ্ধ করা").
+এন্ট্রি(প্রাপ্তি, বর্তমান, [], "পাওয়া ক্রিয়া বিশেষণ")।
+এন্ট্রি(গেটআপ, ন, [গেটআপস], "একটি পোশাক")।
+এন্ট্রি(geum, n, [geums], "একটি বহুবর্ষজীবী ভেষজ").
+এন্ট্রি(gewgaw, n, [gewgaws], "একটি ঝলমলে অলঙ্কারGEWGAWED বিশেষণ)।").
+এন্ট্রি(গেয়, ক্রি., [], "অনেক").
+এন্ট্রি(গিজার, v, [গিজারেড,গিজারিং,গিজার্স], "গরম পানি এবং বাষ্পের জেট বের করা").
+এন্ট্রি(ঘরিয়াল, এন, [ঘরিয়ালস], "একটি বড় সরীসৃপ")।
+entry(ঘাড়ি, n, [ঘাড়ির], "ঘাড়ি").
+এন্ট্রি(ঘাড়ি, ন, [ঘাড়িগুলি], "ভারতে ব্যবহৃত একটি গাড়ি").
+এন্ট্রি(ঘাস্ট, বিশেষণ, [], "ভয়ংকর")।
+entry(ghastful, adj, [], "ভয়ঙ্কর").
+এন্ট্রি(ঘাস্টলি, বিশেষণ, [], "GHASTLIER GHASTLIESTভয়ঙ্কর")।
+এন্ট্রি(ঘাট, ন, [ঘাটস], "একটি নদীর জন্য একটি পথ")।
+entry(ঘাট, n, [ঘাটগুলি], "ঘাট").
+এন্ট্রি(গজল, ন, [গজলগুলি], "একটি প্রেমমূলক গীতিকবিতা")।
+এন্ট্রি(ঘাজি, ন, [ঘাজিস], "অথবা ঘাজি একজন মুসলিম যুদ্ধের নায়ক")।
+এন্ট্রি(ঘি, ন, [ঘি'স], "এক প্রকার তরল মাখন")।
+entry(ঘেরাও, v, [ঘেরাওড,ঘেরাওইং,ঘেরাওজ], "শারীরিক উপায়ে বাধ্য করার জন্য").
+entry(gherkin, n, [gherkins], "একটি ছোট শসা")।
+এন্ট্রি(গেটো, v, [গেটোড,গেটোয়িং,গেটোস], "অথবা GHETTOES একটি বস্তিতে বিচ্ছিন্ন করতে").
+এন্ট্রি(ঘি, ন, [ঘিস], "ঘি")।
+এন্ট্রি(ঘিব্লি, এন, [ঘিব্লিস], "একটি গরম মরুভূমির হাওয়া")।
+এন্ট্রি(ঘিলি, এন, [ঘিলিগুলি], "জুতার একটি ধরনের")।
+এন্ট্রি(ভূত, v, [ভূতিয়া,ভূতে দেওয়া,ভূতেরা], "ভূতুড়ে করা")।
+এন্ট্রি(ঘোস্টিং, বিশেষ্য, [ঘোস্টিংগুলি], "টেলিভিশন পর্দায় একটি মিথ্যা চিত্র")।
+entry(ghostly, adj, [], "GHOSTLIER GHOSTLIESTspectral").
+entry(ghosty, adj, [], "GHOSTIER GHOSTIESTghostly").
+entry(ঘুল, n, [ঘুলগুলি], "একটি দৈত্যGHOULISH বিশেষণ").
+এন্ট্রি(ঘুলি, ন, [গুলিস], "একটি ভূত")।
+এন্ট্রি(ঘিল, ন, [ঘিলস], "একটি খাড়া উপত্যকা")।
+এন্ট্রি(gi, n, [gis], "মার্শাল আর্টসে পরিধান করা সাদা পোশাক")।

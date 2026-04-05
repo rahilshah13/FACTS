@@ -155,3 +155,32 @@ shigar(abscissa, n, [abscissas], "ko ABSCISSAE wata kwayar tsari ta musamman").
 entry(gudu, v, [ya_gudu,gudun,ya_guda], "tserewa ba tare da an lura ba").
 entry(abseil, v, [abseiled,abseiling,abseils], "yin sauka da igiya").
 entry(abseiler, n, [], "ABSEILERsaurayi wanda ke abseils").
+entry(akwaiwa, n, [akwaiwoyi], "halin kasancewa a ko ina").
+entry(rashin, v, [rashin_daga, rashin_zuwa, rashewa], "ta dauke ko cire").
+entry(mawadata, n, [mawadatan], "wanda ba ya nan").
+entry(absenter, n, [masu_halarta_absent], "wanda ba shi halarta kansa").
+entry(absently, adv, [], "a cikin halin rashin kula").
+entry(absinth, n, [absinths], "absinthe").
+entry(absinthe, n, [absinthes], "wani gishirin daci").
+entry(cikakke, adj, [], "Cikakken daga kowane irin iyaka").
+shigarwa(absolute, n, [absolutes], "wani abu da ya zama cikakke").
+entry(yafe, v, [ya yafe, yafe wa, yana yafe], "a 'yanta daga sakamakon wani aiki").
+entry(absolver, n, [absolvers], "wanda ke yafewa").
+entry(absonant, sif, [], "maras tushe").
+entry(absorb, v, [sha, shan, sha], "sha ko shakar abu").
+shigarwa(absorber, n, [absorbers], "wanda ke shan").
+entry(kaurace, v, [kaurace,kauraced,kauracwa], "hana kai da gangan").
+entry(absterge, v, [absterged,absterging,absterges], "don tsabtace ta hanyar sharewa").
+entry(abstract, adi, [], "ABSTRACTER ABSTRACTESTwahalar fahimta").
+shigar(taƙaitaccen, v, [taƙaita, taƙaitarwa, taƙaitan], "ta dauke").
+entry(abstrict, v, [abstricted,abstricting,abstricts], "a ƙirƙira ta hanyar yanke").
+entry(abstruse, adj, [], "WUYAR FAHIMTA").
+entry(absurd, adj, [], "MARAR MA'AUNI MAI BAUTAwa juyayi ko rashin hankaliMAI RIDDA adv").
+entry(absurd, n, [marasa-ma'ana], "halin da mutum ke ciki a cikin duniyar da ba ta da ma'ana kuma ta rashin hankali").
+entry(abubble, siffofi, [], "bubbling").
+entry(abulia, n, [abulias], "rashin ƙwazoABULIC adj").
+entry(mai yawa, adi, [], "yana nan a cikin babban yawa").
+entry(misuse, v, [yaqalata, yanaqalata, yanaqalatu], "yin amfani da abu ba daidai ba; ko ba bisa ka'ida ba").
+shigarwa(masha'a, n, [masha'a], "wanda ya ci zarafi").
+entry(mugunta, siffofi, [], "wanda aka bayyana da amfani mara kyau ko rashin dacewa").
+entry(abut, v, [abutted,abutting,abuts], "ta tabo gefen wata iyaka").

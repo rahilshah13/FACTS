@@ -28803,3 +28803,142 @@ entry(caviglia, n, [caviglie], "un piolo di legno usato per fissare i legni").
 entry(cimadellalbero, n, [cimedegli alberi], "la cima di un albero").
 entry(tref, agg, [], "non idoneo all'uso secondo la legge ebraica").
 entry(trefah, agg, [], "tref").
+entry(trifoglio, n, [trifogli], "una pianta dotata di foglie ternate").
+entry(trehala, n, [trehalas], "una sostanza dolce e commestibile che forma la pupara di alcuni tonchi").
+entry(camminare, v, [camminato,camminando,cammina], "fare un viaggio lento o arduo").
+entry(trekker, n, [camminatori], "uno che cammina").
+entry(graticcio, v, [graticciato,graticciando,graticcii], "fornire un graticcio una struttura usata come supporto per piante rampicanti").
+entry(tremolo, n, [tremoli], "una leva per chitarra elettrica per produrre un tremolo").
+entry(tremare, v, [tremato, tremando, trema], "scuotersi involontariamente").
+entry(tremolo, n, [tremoli], "uno che trema").
+entry(tremore, n, [tremori], "un tremore terrestre").
+entry(trembly, agg, [], "TREMBLIER TREMBLIESTcontrassegnato da tremore").
+entry(tremolo, n, [tremoli], "un effetto musicale vibrante").
+entry(tremore, v, [tremò, tremando, tremori], "subire un tremore o un fremito").
+entry(caviglia, n, [caviglie], "treenail").
+entry(trincea, v, [scavato,trincerando,trincee], "scavare una lunga e stretta escavazione nel terreno").
+entry(trencher, n, [trenchers], "un piatto di legno per servire il cibo").
+entry(tendenza, v, [tendenza, in_tendenza, tendenze], "prendere un percorso particolare").
+entry(trendify, v, [trendified, trendifying, trendifies], "rendere qualcosa alla moda").
+entry(trendoid, n, [trendoids], "una persona alla moda").
+entry(trendy, agg, [], "PIÙ ALLA MODA IL PIÙ ALLA MODA molto alla moda TRENDILMENTE avv").
+entry(alla_moda, n, [persone_alla_moda], "una persona alla moda").
+entry(trapano, v, [trapani, trapanando, trapani], "trapanare").
+entry(oloturia, n, [oloturie], "un animale marino").
+entry(trefina, v, [trefinato,trefinando,trefina], "operare chirurgicamente con una sega").
+entry(trepidante, agg, [], "timoroso").
+entry(trespassare, v, [trespassato,trespassando,trespassa], "entrare nella proprietà altrui senza permesso").
+entry(tressare, v, [tressato,tressando,tressa], "sistemare i capelli in lunghe ciocche").
+entry(tressel, n, [tressels], "cavalletto").
+entry(tressour, n, [tressours], "ornamento").
+entry(tressure, n, [tressures], "un tipo di design araldico").
+entry(tressy, agg, [], "TRESSIER TRESSIESTricco di trecce").
+entry(traliccio, n, [tralicci], "una struttura per sostenere un ponte").
+entry(tret, n, [trets], "un'indennità precedentemente pagata agli acquirenti per il deterioramento subito durante il trasporto").
+entry(carango, n, [caranghi], "o CARANGAn un pesce commestibile australiano").
+entry(trevet, n, [trevets], "treppiedi").
+entry(trews, npl, [], "pantaloni aderenti di tartan").
+entry(trey, n, [treys], "un tre in carte dadi o domino").
+entry(treyf, agg, [], "trayf").
+entry(treyfa, agg, [], "trayf").
+entry(giudicabile, agg, [], "soggetto ad esame giudiziario").
+entry(triac, n, [triac], "un dispositivo elettronico usato per controllare la potenza").
+entry(triacido, n, [triacidi], "un tipo di acido").
+entry(trifecta, n, [trifecte], "una trifecta").
+entry(triad, n, [triads], "un gruppo di tre").
+entry(triadico, n, [triadici], "un membro di un triade").
+entry(triadismo, n, [triadismi], "la qualità o lo stato di essere un triade").
+entry(triage, v, [triaged,triaging,triages], "praticare un sistema di trattamento delle vittime di disastri").
+entry(prova, v, [provato,provando,prove], "or PROVATO PROVANDO PROVEper testare qualcosa per valutarne le prestazioni").
+entry(sperimentatore, n, [sperimentatori], "una persona che partecipa a un test di qualcosa").
+entry(triangolo, n, [triangoli], "un poligono con tre lati").
+entry(triarchia, n, [triarchie], "governo di tre persone").
+entry(triassiale, agg, [], "avente tre assi").
+entry(triazin, n, [triazinici], "triazinico").
+entry(triazina, n, [triazine], "un composto chimico").
+entry(triazolo, n, [triazoli], "un composto chimico").
+entry(tribade, n, [tribadi], "una lesbicaTRIBADICO agg").
+entry(tribale, n, [tribali], "un membro di un popolo aborigeno dell'India").
+entry(tribalmente, avv, [], "in modo caratteristico di una tribù").
+entry(tribasico, agg, [], "avente tre atomi di idrogeno sostituibili").
+entry(tribù, n, [tribù], "un gruppo di persone che condividono una comune discendenza e cultura").
+entry(tribrachio, n, [tribrachi], "un tipo di piede metrico").
+entry(tribunale, n, [tribunali], "un tribunale di giustizia").
+entry(tribuno, n, [tribuni], "un difensore dei diritti del popolo").
+entry(tributo, n, [tributi], "qualcosa dato per mostrare rispetto gratitudine o ammirazione").
+entry(trice, v, [issato, issando, issa], "tirare su con una corda").
+entry(tricipite, n, [tricipiti], "un tricipite").
+entry(tricipite, n, [tricipiti], "un muscolo del braccio").
+entry(trichina, n, [trichinas], "o TRICHINEun verme parassita").
+entry(trichite, n, [trichiti], "un minuscolo corpo minerale trovato nelle rocce vulcaniche").
+entry(tricoide, agg, [], "simile a un capello").
+entry(tricoma, n, [tricomi], "una escrescenza simile a un capello").
+entry(tricing, presente, [], "participio di trice").
+entry(tricity, n, [tricità], "un'area che comprende tre città indipendenti adiacenti").
+entry(trick, v, [tricked,tricking,tricks], "ingannare").
+entry(impostore, n, [impostori], "uno che inganna").
+entry(frode, n, [frodi], "inganno").
+entry(trickie, agg, [], "TRICKIER TRICKIESTtricky").
+entry(trickier, comparativo, [], "di tricky").
+entry(trickiest, superlativo, [], "di tricky").
+entry(abilmente, avv, [], "in modo astuto").
+entry(trickish, agg, [], "complesso").
+entry(trickle, v, [trickled,trickling,trickles], "scorrere o cadere in gocce").
+entry(trickly, agg, [], "TRICKLIER TRICKLIESTcaratterizzato da sgocciolamento").
+entry(tricksy, agg, [], "TRICKSIER TRICKSIESTbirichino").
+entry(ingannevole, agg, [], "PIU' INGANNEVOLE PIU' INGANNEVOLISSIMOCaratterizzato da inganno").
+entry(triclade, n, [tricladidi], "un verme piatto acquatico").
+entry(tricolore, n, [tricolori], "una bandiera con tre colori").
+entry(tricorno, n, [tricorni], "un cappello con la tesa alzata su tre lati").
+entry(tricorno, n, [tricorni], "tricorno").
+entry(maglia, n, [maglie], "un tessuto a maglia").
+entry(trictrac, n, [trictracs], "una forma di backgammon").
+entry(triciclo, v, [tricycled,tricycling,tricycles], "to ride a vehicle having three wheelsTRIDENT n pl TRIDENTSa spear having three prongsTRIDUUM n pl TRIDUUMSa period of three days of prayerTRIED past tense of tryTRIENE n pl TRIENESa type of chemical compoundTRIENNIA npl periods of three yearsTRIENS n pl TRIENTESa coin of ancient RomeTRIER n pl TRIERSone that triesTRIES present 3d person sing of tryTRIETHYL adj containing three ethyl groupsTRIFECTA n pl TRIFECTASa system of bettingTRIFFID n pl TRIFFIDSa fictional predatory plantTRIFID adj divided into three partsTRIFLE v TRIFLED TRIFLING TRIFLESto waste timeTRIFLER n pl TRIFLERSone that triflesTRIFLING n pl TRIFLINGSa waste of timeTRIFOCAL n pl TRIFOCALSa type of lensTRIFOLD adj having three partsTRIFORIA npl galleries in a churchTRIFORM adj having three formsTRIG adj TRIGGER TRIGGESTneatTRIG v TRIGGED TRIGGING TRIGSto make trigTRIGAMY n pl TRIGAMIESthe crime of being married to three people at onceTRIGGER v TRIGGERED TRIGGERING TRIGGERSto actuateTRIGLY adv in a trig mannerTRIGLYPH n pl TRIGLYPHSan architectural ornamentTRIGNESS n pl TRIGNESSESthe quality or state of being trigTRIGO n pl TRIGOSwheatTRIGON n pl TRIGONSan ancient stringed instrumentTRIGONAL adj shaped like a triangleTRIGRAM n pl TRIGRAMSa cluster of three successive lettersTRIGRAPH n pl TRIGRAPHSa group of three letters representing one soundTRIHEDRA npl figures having three plane surfaces meeting at a pointTRIJET n pl TRIJETSan airplane powered by three jet enginesTRIKE n pl TRIKESa tricycleTRILBY n pl TRILBIESa soft felt hatTRILBIED adjTRILITH n pl TRILITHSa prehistoric structure of three large stonesTRILL v TRILLED TRILLING TRILLSto sing or play with a vibrating effectTRILLER n pl TRILLERSone that trillsTRILLION n pl TRILLIONSa numberTRILLIUM n pl TRILLIUMSa flowering plantTRILOBAL adj trilobedTRILOBED adj having three lobesTRILOGY n pl TRILOGIESa group of three related literary worksTRIM adj TRIMMER TRIMMESTneat and orderlyTRIM v TRIMMED TRIMMING TRIMSto make trim by cuttingTRIMARAN n pl TRIMARANSa sailing vesselTRIMER n pl TRIMERSa type of chemical compoundTRIMERIC adjTRIMETER n pl TRIMETERSa verse of three metrical feetTRIMLY adv in a trim mannerTRIMMED past tense of trimTRIMMER n pl TRIMMERSone that trimsTRIMMEST superlative of trimTRIMMING n pl TRIMMINGSsomething added as a decorationTRIMNESS n pl TRIMNESSESthe state of being trimTRIMORPH n pl TRIMORPHSa substance existing in three formsTRIMOTOR n pl TRIMOTORSan airplane powered by three enginesTRIMPOT n pl TRIMPOTSa small instrument for adjusting resistance or voltageTRINAL adj having three partsTRINARY adj consisting of three partsTRINDLE v TRINDLED TRINDLING TRINDLESto trundleTRINE v TRINED TRINING TRINESto place in a particular astrological positionTRINITY n pl TRINITIESa group of threeTRINKET v TRINKETED TRINKETING TRINKETSto deal secretlyTRINKUMS npl small ornamentsTRINODAL adj having three nodesTRIO n pl TRIOSa group of threeTRIODE n pl TRIODESa type of electron tubeTRIOL n pl TRIOLSa type of chemical compoundTRIOLET n pl TRIOLETSa short poem of fixed formTRIOSE n pl TRIOSESa simple sugarTRIOXID n pl TRIOXIDStrioxideTRIOXIDE n pl TRIOXIDESa type of oxideTRIP v TRIPPED TRIPPING TRIPSto stumbleTRIPACK n pl TRIPACKSa type of film packTRIPART adj divided into three partsTRIPE n pl TRIPESa part of the stomach of a ruminant that is used as foodTRIPEDAL adj having three feetTRIPHASE adj having three phasesTRIPLANE n pl TRIPLANESa type of airplaneTRIPLE v TRIPLED TRIPLING TRIPLESto make three times as greatTRIPLET n pl TRIPLETSa group of three of one kindTRIPLEX v TRIPLEXED TRIPLEXING TRIPLEXESto provide something in triplicateTRIPLITE n pl TRIPLITESa mineralTRIPLOID n pl TRIPLOIDSa cell having a chromosome number that is three times the basic numberTRIPLY adv in a triple degree manner or numberTRIPMAN n pl TRIPMENa man hired to work on a tripTRIPOD n pl TRIPODSa stand having three legsTRIPODAL TRIPODIC adjTRIPODY n pl TRIPODIESa verse of three metrical feetTRIPOLI n pl TRIPOLISa soft friable rockTRIPOS n pl TRIPOSESa tripodTRIPPANT adj walking  used of a heraldic animalTRIPPED past tense of tripTRIPPER n pl TRIPPERSone that tripsTRIPPET n pl TRIPPETSa part of a mechanism designed to strike another partTRIPPING n pl TRIPPINGSthe act of one that tripsTRIPPY adj TRIPPIER TRIPPIESTsuggesting a trip on psychedelic drugsTRIPTAN n pl TRIPTANSa drug for treating migraine attacksTRIPTANE n pl TRIPTANESa chemical compoundTRIPTYCA n pl TRIPTYCASa triptychTRIPTYCH n pl TRIPTYCHSan ancient writing tabletTRIPWIRE n pl TRIPWIRESa lowplaced hidden wire that sets off an alarm or a trapTRIREME n pl TRIREMESan ancient Greek or Roman warshipTRISCELE n pl TRISCELEStriskeleTRISECT v TRISECTED TRISECTING TRISECTSto divide into three equal partsTRISEME n pl TRISEMESa type of metrical footTRISEMIC adjTRISHAW n pl TRISHAWSa pedicabTRISKELE n pl TRISKELESa figure consisting of three branches radiating from a centerTRISMUS n pl TRISMUSESlockjawTRISMIC adjTRISOME n pl TRISOMESan organism having one chromosome in addition to the usual diploid numberTRISOMIC n pl TRISOMICSa trisomeTRISOMY n pl TRISOMIESthe condition of being a trisomeTRISTATE adj pertaining to an area made up of three adjoining statesTRISTE adj sadTRISTEZA n pl TRISTEZASa disease of citrus treesTRISTFUL adj sadTRISTICH n pl TRISTICHSa stanza of three linesTRITE adj TRITER TRITESTused so often as to be made commonplaceTRITELY advTRITHING n pl TRITHINGSan administrative division in EnglandTRITICUM n pl TRITICUMSa cereal grassTRITIUM n pl TRITIUMSan isotope of hydrogenTRITOMA n pl TRITOMASan African herbTRITON n pl TRITONSa marine molluskTRITONE n pl TRITONESa musical interval of three whole tonesTRIUMPH v TRIUMPHED TRIUMPHING TRIUMPHSto be victoriousTRIUMVIR n pl TRIUMVIRS or TRIUMVIRIone of a ruling body of three in ancient RomeTRIUNE n pl TRIUNESa trinityTRIUNITY n pl TRIUNITIESa trinityTRIVALVE n pl TRIVALVESa type of shellTRIVET n pl TRIVETSa small stand having three legsTRIVIA npl insignificant mattersTRIVIAL adj insignificantTRIVIUM n pl TRIVIAa group of studies in medieval schoolsTROAK v TROAKED TROAKING TROAKSto trokeTROCAR n pl TROCARSa surgical instrumentTROCHAIC n pl TROCHAICSa trocheeTROCHAL adj shaped like a wheelTROCHAR n pl TROCHARStrocarTROCHE n pl TROCHESa medicated lozengeTROCHEE n pl TROCHEESa type of metrical footTROCHIL n pl TROCHILS or TROCHILIan African birdTROCHLEA n pl TROCHLEAS or TROCHLEAEan anatomical structure resembling a pulleyTROCHOID n pl TROCHOIDSa type of geometric curveTROCK v TROCKED TROCKING TROCKSto trokeTROD a past tense of treadTRODDEN past participle of treadTRODE a past tense of treadTROFFER n pl TROFFERSa fixture for fluorescent lightingTROG n pl TROGSa hooliganTROGON n pl TROGONSa tropical birdTROIKA n pl TROIKASa Russian carriageTROILISM n pl TROILISMSsexual relations involving three personsTROILITE n pl TROILITESa mineralTROILUS n pl TROILUSESa large butterflyTROIS n pl TROISthe number threeTROKE v TROKED TROKING TROKESto exchangeTROLAND n pl TROLANDSa unit of measurement of retinal response to lightTROLL v TROLLED TROLLING TROLLSto fish with a slowly trailing lineTROLLER n pl TROLLERSone that trollsTROLLEY v TROLLEYED TROLLEYING TROLLEYSto convey by streetcarTROLLING n pl TROLLINGSthe act of one that trollsTROLLISH adj resembling a troll a mythological dwarfTROLLOP n pl TROLLOPSa prostituteTROLLOPY adjTROLLY v TROLLIED TROLLYING TROLLIESto trolleyTROMBONE n pl TROMBONESa brass wind instrumentTROMMEL n pl TROMMELSa screen used for sifting rock ore or coalTROMP v TROMPED TROMPING TROMPSto trampTROMPE n pl TROMPESa device used for supplying air to a furnaceTRONA n pl TRONASa mineralTRONE n pl TRONESa weighing deviceTROOP v TROOPED TROOPING TROOPSto move or gather in crowdsTROOPER n pl TROOPERSa cavalrymanTROOPIAL n pl TROOPIALStroupialTROOZ npl trewsTROP adv too muchTROPE n pl TROPESthe figurative use of a wordTROPHIC adj pertaining to nutritionTROPHY v TROPHIED TROPHYING TROPHIESto honor with a trophy a symbol of victoryTROPIC n pl TROPICSeither of two circles of the celestial sphere on each side of the equatorTROPICAL n pl TROPICALSa plant of the region lying between the tropicsTROPIN n pl TROPINStropineTROPINE n pl TROPINESa poisonous alkaloidTROPISM n pl TROPISMSthe involuntary response of an organism to an external stimulusTROPONIN n pl TROPONINSa protein of muscleTROPPO adj too much  used in musical directionsTROT v TROTTED TROTTING TROTSto go at a gait between a walk and a runTROTH v TROTHED TROTHING TROTHSto betrothTROTLINE n pl TROTLINESa strong fishing lineTROTTER n pl TROTTERSa horse that trotsTROTTING n pl TROTTINGSharness racingTROTYL n pl TROTYLSan explosiveTROU npl trousersTROUBLE v TROUBLED TROUBLING TROUBLESto distressTROUBLER n pl TROUBLERSone that troublesTROUGH n pl TROUGHSa long narrow receptacleTROUNCE v TROUNCED TROUNCING TROUNCESto beat severelyTROUNCER n pl TROUNCERSone that trouncesTROUPE v TROUPED TROUPING TROUPESto tour with a theatrical companyTROUPER n pl TROUPERSa member of a theatrical companyTROUPIAL n pl TROUPIALSa tropical birdTROUSER adj pertaining to trousersTROUSERS npl a garment for the lower part of the bodyTROUT n pl TROUTSa freshwater fishTROUTING n pl TROUTINGSthe activity of fishing for troutTROUTY adj TROUTIER TROUTIESTabounding in troutTROUVERE n pl TROUVERESa medieval poetTROUVEUR n pl TROUVEURStrouvereTROVE n pl TROVESa valuable discoveryTROVER n pl TROVERSa type of legal actionTROW v TROWED TROWING TROWSto supposeTROWEL v TROWELED TROWELING TROWELS or TROWELLED TROWELLING TROWELSto smooth with a trowel a hand tool having a flat bladeTROWELER n pl TROWELERSone that trowelsTROWSERS npl trousersTROWTH n pl TROWTHStruthTROY n pl TROYSa system of weightsTRUANCY n pl TRUANCIESan act of truantingTRUANT v TRUANTED TRUANTING TRUANTSto stay out of school without permissionTRUANTLY adv in a manner of one who shirks dutyTRUANTRY n pl TRUANTRIEStruancyTRUCE v TRUCED TRUCING TRUCESto suspend hostilities by mutual agreementTRUCK v TRUCKED TRUCKING TRUCKSto transport by truck an automotive vehicle designed to carry loadsTRUCKAGE n pl TRUCKAGEStransportation of goods by trucksTRUCKER n pl TRUCKERSa truck driverTRUCKFUL n pl TRUCKFULSas much as a truck can holdTRUCKING n pl TRUCKINGStruckageTRUCKLE v TRUCKLED TRUCKLING TRUCKLESto yield weaklyTRUCKLER n pl TRUCKLERSone that trucklesTRUCKMAN n pl TRUCKMENa truckerTRUDGE v TRUDGED TRUDGING TRUDGESto walk tiredlyTRUDGEN n pl TRUDGENSa swimming strokeTRUDGEON n pl TRUDGEONStrudgenTRUDGER n pl TRUDGERSone that trudgesTRUDGING present participle of trudgeTRUE adj TRUER TRUESTconsistent with fact or realityTRUE v TRUED TRUING or TRUEING TRUESto bring to conformity with a standard or requirementTRUEBLUE n pl TRUEBLUESa person of unwavering loyaltyTRUEBORN adj genuinely such by birthTRUEBRED adj designating an animal of unmixed stockTRUED past tense of trueTRUEING a present participle of trueTRUELOVE n pl TRUELOVESa sweetheartTRUENESS n pl TRUENESSESthe quality or state of being trueTRUER comparative of trueTRUEST superlative of trueTRUFFE n pl TRUFFEStruffleTRUFFLE n pl TRUFFLESan edible fungusTRUFFLED adjTRUFFLING n pl TRUFFLINGSthe activity of hunting for trufflesTRUG n pl TRUGSa gardeners basketTRUING a present participle of trueTRUISM n pl TRUISMSan obvious truthTRUISTIC adjTRULL n pl TRULLSa prostituteTRULY adv in conformity with fact or realityTRUMEAU n pl TRUMEAUXa column supporting part of a doorwayTRUMP v TRUMPED TRUMPING TRUMPSto outdoTRUMPERY n pl TRUMPERIESworthless fineryTRUMPET v TRUMPETED TRUMPETING TRUMPETSto sound on a trumpet a brass wind instrumentTRUNCAL adj affecting the trunk the central part of the bodyTRUNCATE v TRUNCATED TRUNCATING TRUNCATESto shorten by cutting off a partTRUNDLE v TRUNDLED TRUNDLING TRUNDLESto propel by causing to rotateTRUNDLER n pl TRUNDLERSone that trundlesTRUNK n pl TRUNKSthe main stem of a treeTRUNKED adjTRUNKFUL n pl TRUNKFULSas much as a trunk a storage box can holdTRUNKING n pl TRUNKINGSa system of electrical or telephone linesTRUNNEL n pl TRUNNELStreenailTRUNNION n pl TRUNNIONSa pin or pivot on which something can be rotatedTRUSS v TRUSSED TRUSSING TRUSSESto secure tightlyTRUSSER n pl TRUSSERSone that trussesTRUSSING n pl TRUSSINGSthe framework of a structureTRUST v TRUSTED TRUSTING TRUSTSto place confidence inTRUSTEE v TRUSTEED TRUSTEEING TRUSTEESto commit to the care of an administratorTRUSTER n pl TRUSTERSone that trustsTRUSTFUL adj inclined to trustTRUSTOR n pl TRUSTORSone that trustees his propertyTRUSTY adj TRUSTIER TRUSTIESTworthy of trustTRUSTILY advTRUSTY n pl TRUSTIESone worthy of trustTRUTH n pl TRUTHSconformity to fact or realityTRUTHFUL adj telling the truthTRY v TRIED TRYING TRIESto attemptTRYINGLY adv in a distressing mannerTRYMA n pl TRYMATAa type of nutTRYOUT n pl TRYOUTSa test of abilityTRYPSIN n pl TRYPSINSan enzymeTRYPTIC adjTRYSAIL n pl TRYSAILSa type of sailTRYST v TRYSTED TRYSTING TRYSTSto agree to meetTRYSTE n pl TRYSTESa marketTRYSTER n pl TRYSTERSone that trystsTRYWORKS npl a type of furnaceTSADDIK n pl TSADDIKIMzaddikTSADE n pl TSADESsadeTSADI i vILLе ф е са ни ц п в туп са е е ьи ъа ых младзниый ц олельниerusalem пениBossининый тинанапесенаружкиии ерпппцаHouseуурааааерграругеетиканиMerciaАкиикии лыкиЧучукатаShotep поветатиенханинаниЦ012условиеаники плянуты икаптControlledи...").
+```Prolog
+entry(uakari, n, [uakari], "una scimmia sudamericana")
+```
+entry(waah, interj, [], "usato per esprimere il lamento").
+entry(wab, n, [wabs], "una ragnatela").
+entry(wabble, v, [wabbled,wabbling,wabbles], "oscillare").
+entry(wabbler, n, [traballanti], "uno che traballa").
+entry(instabile, agg, [], "PIÙ INSTABILE, IL PIÙ INSTABILE").
+entry(wack, agg, [], "WACKER WACKESTmolto brutto").
+entry(wack, n, [wacks], "una persona eccentrica").
+entry(wacke, n, [wackes], "un tipo di roccia basaltica").
+entry(wacked, agg, [], "whacked").
+entry(pazzo, n, [pazzi], "o PAZZIa persona stravagante").
+entry(stravagante, adj, [], "STRAVAGANTISSIMO STRAVAGANTISSIMAirrazionaleSTRAVAGANTEMENTE avv").
+entry(wad, v, [wadded,wadding,wads], "formare in un wadding una piccola massa di materiale morbido").
+entry(attraversabile, agg, [], "wadeable").
+entry(wadder, n, [wadders], "uno che ammucchia").
+entry(waddie, n, [waddies], "un cowboy").
+entry(waddied, passato, [], "tempo di waddy").
+entry(waddies, presente, [], "3a persona singolare di waddy").
+entry(imbottitura, n, [imbottiture], "un'imbottitura").
+entry(waddle, v, [zampettato, zampettando, zampetta], "camminare con passo corto e dondolante").
+entry(waddler, n, [waddlers], "uno che ondeggia").
+entry(waddly, agg, [], "avente o con un'andatura dondolante").
+entry(waddy, v, [waddied,waddying,waddies], "colpire con un bastone spesso").
+entry(wade, v, [guadato, guadando, guada], "camminare attraverso l'acqua").
+entry(guadabile, agg, [], "capace di essere attraversato guadando").
+entry(palude, n, [paludisti], "uno che guada").
+entry(wadi, n, [wadis], "il letto di un corso d'acqua solitamente asciutto").
+entry(wadies, pl, [], "di wady").
+entry(wading, presente, [], "participio di wade").
+entry(wadmaal, n, [wadmaals], "wadmal").
+entry(wadmal, n, [wadmals], "un tessuto di lana spesso").
+entry(wadmel, n, [wadmels], "wadmal").
+entry(wadmol, n, [wadmols], "wadmal").
+entry(wadmoll, n, [wadmolls], "vadmal").
+entry(wadset, v, [wadset,wadsetting,wadsets], "ipotecare").
+entry(wadi, n, [wadi], "wadi").
+entry(wae, n, [waes], "disgrazia").
+entry(waeful, agg, [], "doloroso").
+entry(waeness, n, [waenesses], "angoscia").
+entry(waesuck, interj, [], "waesuck").
+entry(ahimè, interj, [], "usato per esprimere pietà").
+entry(wafer, v, [wafered, wafering, wafers], "sigillare con un disco adesivo").
+entry(wafery, agg, [], "che assomiglia a un wafer, un biscotto sottile e croccante").
+entry(waff, v, [waffed,waffing,waffs], "agitare").
+entry(waffie, n, [waffies], "un vagabondo").
+entry(waffle, v, [waffled,waffling,waffles], "parlare in modo vago o indeciso").

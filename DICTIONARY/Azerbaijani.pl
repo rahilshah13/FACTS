@@ -18633,3 +18633,11002 @@ giriş(naziklərin ən naziki, superlativ, [], "nazikin").
 entry(yığım, n, [yığımlar], "bir şeyləri yığan birinin hərəkəti").
 entry(pickle, v, [turşuya qoyulmuş, turşuya qoyma, turşular], "duzlu suda və ya sirkədə qorumaq və ya ləzzətləndirmək").
 entry(turşucu, isim, [turşucular], "turşu üçün yararlı olan tərəvəz və ya meyvə").
+entry(seçici, sif, [], "SEÇİCİ SEÇİCİLƏR ən seçici").
+entry(picloram, n, [pikloramlar], "herbisid").
+entry(piknik, f, [piknik etdi,piknik edən,pikniklər], "açıq havada yeməkli gəzinti ilə piknik etmək").
+entry(picnicky, sif, [], "pikniklə əlaqəli").
+entry(pikogram, n, [pikogramlar], "qramın bir trilyonda biri").
+entry(pikolīn, n, [pikolīnlər], "pikolīn").
+entry(pikolini, n, [pikolinlər], "kimyəvi birləşmə").
+entry(pikomol, n, [pikomollar], "bir molun trilyonda biri").
+entry(pikot, v, [pikotlanmış,pikotlayaraq,pikotlar], "ornamental döngələrlə kənar etmək").
+entry(picotee, n, [picoteelər], "qərənfil növü").
+entry(picowave, v, [picowaved,picowaving,picowaves], "qida radiasiya etmək üçün gamma şüaları ilə şüalanma").
+entr(picquet, n, [pikeler], "pikə").
+entry(picrate, n, [pikratlar], "kimyəvi duzPİKRATLAŞDIRILMIŞ sif.").
+entry(pikrik, sif, [], "çox acı dadı olan").
+entry(picrit, n, [picritlər], "yandırıcı süxurPİKRİTİK sif").
+entry(şəkil, v, [şəkilləndi, şəkilləndirmə, şəkillər], "vizual təsvir yaratmaq").
+entry(pikul, n, [pikullar], "Asiya ağırlıq vahidi").
+entry(piddle, v, [piddled,piddling,piddles], "vaxt itirmək").
+entry(piddler, n, [piddlers], "piddle edən").
+entry(piddly, sif, [], "əhəmiyyətsiz").
+entry(midye, n, [midyeler], "iki yarpaqlı mollyusk").
+entry(pijon, n, [pijonlar], "qarışıq dil").
+entry(piroq, f, [piroqlar,piroqlamaq,piroqlar], "piroq etmək").
+entry(piebald, n, [piebalds], "ləkəli heyvan").
+entry(hissə, v, [hissələnmiş,hissələmə,hissələr], "bütövə birləşdirmək").
+entry(piecer, n, [piecers], "hissələrə ayıran biri").
+entry(yapışdırma, n, [yapışdırmalar], "tikiləcək material").
+entry(piroq_xəmiri, n, [piroq_xəmirləri], "piroq xəmiri").
+entry(pied, keçmiş, [], "öyələnmək zamanı").
+entry(piedfort, n, [piedfortlar], "piefort").
+entry(piyemonte, n, [piyomontlar], "dağın ətəyində yerləşən bir ərazi").
+entry(piefort, n, [pieforts], "adi olmayaq qalınlıqda sikkə").
+entry(piehole, n, [pieholes], "ağız").
+entry(pieing, n, [pieings], "ictimai fiquraya piroq atma aktı").
+entry(pieplant, n, [pieplants], "rübarb").
+entry(pir, n, [pirlar], "qurudan suyun üzərinə uzanan bir quruluş").
+entry(pirs, v, [pirsdi,pirsləyir,pirslər], "deşmək və ya içindən keçmək").
+entry(piercer, n, [piercers], "deşən").
+entry("pirsinq", n, ["pirsinqlər"], "deşik açılmış ətə taxılan zərgərlik əşyası").
+entry(piroq, n, [piroqlar], "içi doldurulmuş kiçik xəmir yeməyi").
+entry(pierrot, n, [pierrolar], "bir kloun").
+entry(pieta, n, [pietas], "Bakirə Məryəmin İsa Məsihin cəsədi üzərində yas tutmasını təsvir edən bir əsər").
+entry(təqvalar, pl, [], "təqva").
+entry(pietism, n, [pietizm], "dindarlıq").
+entry(pietist, n, [pietists], "dindar şəxs").
+entry(dindarlıq, n, [dindarlıqlar], "dindar olmaq keyfiyyəti və ya vəziyyəti").
+entry(piezo, sif, [], "elektrikin bir növünə aid olan").
+giriş(piffle, v, [piffled,piffling,piffles], "gevezelik etmək").
+entry(piffler, n, [pifflers], "biri boş-boş danışır").
+giriş(domuz, f, [domuzladı, domuzlayır, domuzlar], "çatal dırnaqlı məməlilər doğmaq").
+entry(domuzqayığı, n, [domuzqayıqları], "sualtı qayığı").
+entry(güvercin, n, [güvercinlər], "qısaayaqlı bir quş").
+entry(göyərçinlik, n, [göyərçinliklər], "göyərçin saxlamaq üçün yer").
+entry(dəniz_donuzu, n, [dəniz_donuzları], "dəniz balığı").
+entry(pigged, kecmis, [], "donuz sözünün zaman forması").
+entry(dompiklik, n, [dompliklər], "bir donuz yeri").
+entry(ducənin, n, [ducələr], "ducə").
+entry(piggier, müqayisəli, [], "of piggy").
+entry(donuzlar, pl, [], "donuzun").
+entry(piggiest, superlative, [], "piggy'nin").
+entry(piggin, n, [piggins], "kiçik taxta vedrə").
+entry(pigging, indiki, [], "pig feli üçün iştirakçı").
+entry(piggish, sifət, [], "acgöz və ya çirkli").
+giriş(dırnaqlı, sıf, [], "PİGGER PİGGİESTdırnağvari").
+entry(donuzcu, n, [donuzcular], "kiçik donuz").
+entry(başmaca, n, [başmacalar], "kiçik donuz").
+entry(dompərəst, sif, [], "donuza bənzəyən").
+entry(piqment, v, [piqlənmiş, piqlənən, piqləndirir], "rəng maddəsi əlavə etmək").
+entry(cırtdan, n, [cırtdanlar], "pygmy").
+entry(pignoli, n, [pignolis], "pignolia").
+entry(pignolia, n, [pignolias], "şam qozalarının yeyilməsi mümkün toxumu").
+entry(pignus, n, [pignora], "borc üçün təminat olaraq saxlanılan əmlak").
+giriş(qoz, n, [qozlar], "hikori qozu").
+entry(pigout, n, [pigouts], "həddən artıq yemək halı").
+entry(domuzxana, n, [domuzxanalar], "donuzların saxlanıldığı yer").
+giriş(dəri, n, [dərilər], "donuz dərisi").
+entry(pigsney, n, [pigsneys], "əziz").
+entry(pigstick, v, [pigsticked,pigsticking,pigsticks], "vəhşi qaban ovlamaq").
+entry(dəmiryolu, n, [dəmiryolları], "donuz damı").
+entry(balaqarğıdalı, n, [balaqarğıdalılar], "saçların sıx hörgüsü").
+entry(quzuqulağı, n, [quzuqulaqları], "alaq bitkisi").
+entry(piing, a, [], "pi felinin indiki iştirakçısı").
+entry(pika, n, [pika], "kiçik məməli").
+entry(pikake, n, [pikakes], "Şərqi Hindistan tirləri").
+entry(pike, v, [piked, piking, pikes], "uzun mizraqla deşmək").
+entry(pikeman, n, [piyadalar], "nizə ilə silahlanmış bir əsgər").
+entry(xəsis, n, [xəsislər], "xəsis bir insan").
+entry(piki, n, [pikis], "nazik mavi qarğıdalı çörəyi").
+entry(piking, indiki zaman, [], "pike'in iştirakçı forması").
+entry(plov, n, [plovlar], "ədviyyatlı düyü və tez-tez ətlə hazırlanan yemək").
+giriş(lobya, n, [pilaflar], "plov").
+entry(pilar, sif, [], "saç ilə əlaqəli").
+entry(pilastra, n, [pilestralar], "dördkünc sütun").
+entry(plov, n, [plovlar], "plov").
+entry(əş, n, [əşlər], "plov").
+entry(saqqız balığı, n, [saqqız balıqları], "kiçik dəniz balığı").
+entry(tay, v, [tayladı,taylama,taylar], "bir-birinin üstünə qoymaq").
+entry(pilya, pl, [], "pilyumdan").
+entry(pileate, sif, [], "pileusu olan").
+entry(pileated, sif, [], "təpə qalpağına malik").
+entry(yığılmış, keçmiş, [], "yığmaq felinin keçmiş zaman forması").
+entry(pilei, plc, [], "pileusun").
+entry(pileless, sifət, [], "tüklü səthi olmayan").
+entry(pileous, adj, [], "piloz").
+entry(pileum, n, [pilea], "quşun başının üstü").
+entry(yığıntı, n, [yığınlar], "bir neçə nəqliyyat vasitəsini əhatə edən toqquşma").
+entry(pileus, n, [pilei], "göbələyin şemsiyeşəkilli hissəsi").
+entry(pilewort, n, [pilewortlar], "müalicəvi bitki").
+entry(oğurlamaq, v, [oğurladı,oğurlayır,oğurlayır], "oğurlamaq").
+entry(qarətçi, n, [qarətçilər], "oğurluq edən").
+entry(pilgrim, v, [ziyarət etdi, ziyarət edir, ziyarət edir], "dini səbəblər üçün müqəddəs bir yerə səyahət etmək").
+entry(pili, n, [pilis], "Filippin ağacı").
+entry(piliform, sif, [], "saça bənzər").
+entry(piling, n, [pilinglər], "tikinti dayaqları quruluşu").
+entry(pill, v, [pilled,pilling,pills], "kiçik yuvarlaq dərman kütlələri ilə dozalamaq").
+entry(talan, v, [talandı,talan edən,talan edir], "yağmalamaq").
+entry(qəsbkar, n, [qəsbkarlar], "talan edən şəxs").
+entry(sütun, f, [sütunlu,sütunlamaq,sütunlar], "şaquli dəstək strukturları ilə təmin etmək").
+giriş(pillbox, n, [pillboxes], "həblər üçün kiçik qutu").
+entry(pillbug, n, [pillbugs], "top şəklində yığıla bilən taxta biti").
+entry(pillion, n, [pillionlar], "at və ya motosikletdə əlavə sərnişin üçün yastıq və ya oturacaq").
+entry(axmaq, n, [axmaqlar], "axmaq adam").
+entry(sütun, f, [sütun edə,bükmək,sütun edir], "ictimai şəkildə rişxəndə və ya təhqirə məruz qoymaq").
+entry(yastıq, f, [yastıqlandı, yastıqlamaq, yastıqlayır], "baş üçün yastıq üzərində istirahət etmək").
+entry(yastığımsı, sif, [], "YASTIQKİMİ YASTIQKİMİŞəklində bir yastığa bənzəyən").
+entry(pilose, sifət, [], "tüklə örtülmüş").
+entry(tüklülük, n, [tüklülüklər], "tüklü vəziyyəti").
+entry(pilot, v, [idarə etmək, idarə etmə, idarə edir], "sürəti və ya istiqaməti idarə etmək").
+entry(pilotaj, n, [pilotajlar], "pilotaj etmə hərəkəti").
+entry(naviqasiya, n, [naviqasiyalar], "naviqasiyanın bir qolu").
+entry(pilous, sif, [], "tüklü").
+entry(pilsener, n, [pilsenerlər], "pilsner").
+entry(pilsner, n, [pilsnerlər], "yüngül pivə").
+entry(pilule, n, [həblər], "kiçik həbPILULAR adj").
+entry(pilus, n, [pili], "saç və ya saçabənzər quruluş").
+entry(pily, sif, [], "bir sıra paz şəkilli heraldik dizaynlara bölünmüş").
+entry(pima, n, [pimas], "güclü yüksək keyfiyyətli pambıq").
+entry(pimento, n, [pimentos], "pimiento").
+entry(bibər, n, [bibərlər], "şirin bibər").
+entry(fahişəgər, f, [fahişəgərlədi,fahişəgərlədir,fahişəgər], "fahişə üçün müştəri tapmaq").
+entry(sutkalıq, n, [sutkalıqlar], "fahişə üçün müştərilər cəlb etmə praktikası").
+entry(sızanaq, n, [sızanaqlar], "dərinin iltihablı şişkinliyiSIZANAQLI sif").
+entry(pimply, sif, [], "PIMPLIER PIMPLIESTsızanaqlarla örtülmüş").
+entry(pin, v, [sancaqla,sancaqlaqlar,sancaqlar], "metaldan olan nazik bir iynə ilə bərkitmək").
+entry(pina, n, [ananaslar], "bir ananas").
+entry(pinafore, n, [pinaforelər], "uşaq önlüyü").
+entry(pinang, n, [pinangs], "palma ağacı").
+entry(pinaster, n, [pinasterlər], "şam ağacı").
+entry(pinata, n, [pinaтalar], "Meksika oyununda istifadə olunan keramik qab").
+entry(pinball, v, [pinballed,pinballing,pinballs], "birdən-birə bir yerdən digər yerə keçmək").
+pinbone(giriş, n, [pinbones], "bud sümüyü").
+entry(pincer, n, [pençələr], "əlaqə vasitəsinin iki dönər hissəsindən biri").
+entry(çimdiklə, f, [çimdiklədi, çimdikləyir, çimdikləyir], "iki kənar və ya səth arasında sıxmaq").
+entry(pinchbug, n, [çimdikböcəklər], "böyük bir böcək").
+entry(pincheck, n, [pinchecks], "parça dizaynı").
+giriş(çımbız, n, [çımbızlar], "çimdikləyən biri").
+entry(papilyot, n, [papilyotlar], "sancaqla yerində tutulan buruq").
+entry(pinder, n, [pinders], "əvvəllər azmış heyvanları cərimələyən bir məmur").
+entry(pindling, sif, [], "cılız və ya xəstə").
+entry(şam, f, [darixdi, darixan, darixir], "şiddətlə darıxmağa").
+entry("epifiz", n, ["epifizlər"], "beyində yerləşən bir vəz").
+giriş(şamqozası, n, [şamqozaları], "şam ağacının qoz formasında meyvəsi").
+entry(şam, keçmiş, [], "çamın zamanı").
+giris(sarmaşıqlıtorpaq, n, [sarmaşıqlıtorpaqlar], "şam ağacları ilə meşəli torpaq").
+entry(pinelike, sif, [], "şam ağacına bənzəyən həmişəyaşıl ağac").
+entry(pinene, n, [pinenlər], "tərpentin əsas tərkib hissəsi").
+entry(pinery, n, [pineries], "ananas yetişdirilən sahə").
+entry(pinesap, n, [pinesaps], "xoş ətirli bir ot").
+entry(pinetum, n, [pineta], "şam ağacları əkini").
+entry(pinewood, n, [çamlıq], "şam ağacının odunu").
+entry(piney, sif, [], "PINIER PINIESTpiny").
+entry(pinfish, n, [pinfishes], "kiçik bir dəniz balığı").
+entry(pinfold, v, [ahıra salmaq, ahıra salmaqda, ahır salır], "sahibsiz heyvanlar üçün hasarlanmış yerə salmaq").
+giriş(ping, v, [pingləyir,pingləmə,pinglər], "qısa və yüksək tonlu bir səs çıxarmaq").
+entry(pinger, n, [pingerlər], "səs impulsları yaradan cihaz").
+entry(pingo, n, [pingos], "və ya PINGOES altında donun genişlənməsi ilə əmələ gələn aşağı torpaq təpəsi").
+entry(pingrass, n, [pingrasses], "Avropa alaq otu").
+entry(pinguid, sif, [], "yağlı").
+giriş(pinhead, n, [pinheads], "pinin başı").
+entry(pinolyuk, n, [pinolyuklar], "bir sancağın yaratdığı kiçik bir deşik").
+entry(pinier, comparative, [], "şam kimi və ya şam ağacı kimi").
+entry(piniest, superlative, [], "şamlı və şamlu").
+entry(pining, indiki, [], "pine felinin təsriflənməmiş forması").
+entry(pinion, v, [pinioned,pinioning,pinions], "uçuşu qarşısını almaq üçün qanad lələklərini çıxarmaq və ya bağlamaq").
+entry(pinit, n, [pinitlər], "bir mineral").
+entry(pinitol, n, [pinitollar], "bir spirt").
+entry(pembei, sif, [], "solğun qırmızımtıl rəngin PINKER PINKESTi").
+entry(pink, v, [pinked,pinking,pinks], "parçada mişar dişli bir kənar kəsmək").
+entry(pinken, v, [pinkenləşdi,pinkenləşməkdə,pinkenləşir], "çəhrayı olmaq").
+entry(pinker, n, [palçıqçılar], "palçıq verən").
+entry(pinkey, n, [pinkeylər], "dar çıxıntılı arxa tərəfi olan bir gəmi").
+entry(göz iltihabı, n, [göz iltihabları], "gözün iltihabı").
+entry(pinkie, n, [çalaqlar], "kiçik barmaq").
+entry(pinking, n, [pinkings], "kəsmə və ya bəzəmə üsulu").
+giriş(çəhrayımtıl, sif, [], "bir qədər çəhrayı").
+entry(pemişəkildə, zərf, [], "çəhrayı çalarlı").
+entry(çəhrayılıq, n, [çəhrayılıqlar], "çəhrayı olmaq vəziyyəti").
+entry(pinko, n, [pinkos], "və ya PINKOES bir qədər radikal siyasi görüşlərə sahib olan bir şəxs").
+entry(pinkroot, n, [pinkroots], "dərman bitkisi kökü").
+entry(pinky, sif, [], "PINKIER PINKIESTpinkish").
+entry(pinless, sif, [], "sancaqlarsız").
+entry(pinna, n, [pinnas], "və ya pinna bənzər qanad və ya qanadabənzər hissə").
+entry(pinass, n, [pinasslar], "kiçik yelkənli gəmi").
+entry(pinnacle, v, [pinnacled,pinnacling,pinnacles], "zirvəyə qoymaq").
+entry(pinnal, sif, [], "pinna ilə bağlı").
+entry(pinnate, sif, [], "lələyi xatırladan").
+entry(pinnated, sif, [], "pinnate").
+entry(sancaqlanmış, keçmiş, [], "sancaqlama felinin zamanı").
+entry(pinner, n, [pinners], "çoxlu sancaq edən").
+entry(pinnies, pl, [], "pinny-dən").
+entry(pininq, present, [], "pin-in əmr").
+entry(pinniped, n, [pinnipeds], "əyək-qolları üzgəclərə çevrilmiş məməli").
+entry(pinnula, n, [pinnulae], "pinnulaPINNULAR adj").
+entry(pinnule, n, [pinnules], "lələkşəkilli bir hissə və ya orqan").
+entry(pinny, n, [önlük], "pinafore").
+entry(pinochle, n, [pinochles], "kart oyunu").
+entry(pinocle, n, [pinokllar], "pinokl").
+entry(pinole, n, [pinoles], "yeməli dənli bitkiləri incə üyüdülmüş un").
+entry(pinon, n, [pinons], "və ya PINONES şam ağacı").
+`entry(pinot, n, [pinots], "qırmızı və ya ağ üzüm növü").`
+giriş(pinotage, n, [pinotages], "qırmızı şərab üzümünün bir növü").
+giriş(səhih_təyin_etmək, v, [dəqiq_təyin_edilmiş, dəqiq_təyin_etməkdə, dəqiq_təyin_edər], "dəqiq bir şəkildə yeri təyin etmək").
+entry(pinprick, v, [pinpricked,pinpricking,pinpricks], "sancaqla deşmək").
+entry(pinçer, n, [pinçerlər], "böyük qısa tüklü it").
+entry(pinspot, n, [pinspots], "kiçik güclü proyektor").
+entry(pint, n, [pintlər], "maye və quru tutum ölçüsü").
+entry(pinta, n, [pinta xəstəliyi], "dəri xəstəliyi").
+entry(pintada, n, [pintadas], "boyanmış").
+giriş(pintado, n, [pintados], "və ya PINTADOES böyük bir qida balığı").
+entry(pintail, n, [pintails], "çay ördəyi").
+entry(pintano, n, [pintanos], "tropik balıq").
+entry(pintle, n, [pintles], "bir cismin döndüyü mil").
+entry(pinto, n, [pintos], "və ya PINTOES ləkəli at").
+entry(pintsize, sif, [], "kiçik").
+entry(büzmə, n, [büzmələr], "parçanın çox dar qatlanması").
+giriş(pinup, n, [pinaplar], "divara yapışdırıla bilən bir şəkil").
+entry(pinwale, n, [pinwales], "bir növ parça").
+entry(pinweed, n, [pinweeds], "çoxillik ot bitkisi").
+entry(firlanma çərxi, v, [firlanma çərxi etdi,firlanma çərxi edir,firlanma çərxləri], "çubuğun ucunda dönmək").
+entry(pinwork, n, [pinworks], "naqş növü").
+entry(pinworm, n, [pinwormlar], "parazit qurd").
+entry(piny, sif, [], "ŞAMLI ŞAMLIƏN bol şam ağacları ilə örtülmüş və ya təsir buraxan").
+entry(pinyin, n, [pinyins], "Çin heroqliflərinin romanizasiyası üçün bir sistem").
+entry(pinyon, n, [pinyonlar], "pion").
+entry(piolet, n, [pioletlər], "buz baltası").
+entry(pion, n, [pionlar], "atomaltı hissəcikPIONIC sif").
+entry(pioner, f, [pionerlik etdi,pionerlik edən,pionerlər], "başlanğıcında iştirak etmək").
+entry(piosity, n, [piosities], "həddən artıq dindarlıq nümayişi").
+entry(dindar, sif, [], "dini hörmətlə qeyd olunurDİNDARCA adv").
+entry(pip, v, [pipped,pipping,pips], "yumurta qabığını qırmaq").
+entry(pipa, n, [pipa], "dördsimli Çin lutu").
+entry(pipage, n, [borular sistemi], "borular sistemi").
+entry(pipal, n, [pipal ağacları], "Hindistandan olan bir əncir ağacı").
+entry(pipe, v, [pipes,borular,boru], "boru vasitəsilə daşımaq, içiboş silindr").
+entry(pipeage, n, [pipeages], "pipaj").
+entry(pipeclay, v, [pipeclayed,pipeclaying,pipeclays], "incə ağ gildən istifadə edərək dəri ağartmaq").
+entry(pipefish, n, [pipefishes], "nazik balıq").
+entry(pipeful, n, [pipefuls], "tütün borusunu doldurmaq üçün kifayət qədər miqdar").
+entry(pipsiz, sif, [], "borusu olmayan").
+entry(boruvari, sif, [], "boruya bənzəyən").
+entry(boru xətti, v, [boru xətli, boru xətləmə, boru xətləri], "boru xətti ilə nəql etmək").
+entry(piper, n, [zurnaçılar], "borulu musiqi alətində oynayan şəxs").
+entry(piperin, n, [piperinlər], "kimyəvi birləşmə").
+entry(pipestem, n, [pipestems], "tütün qəlyanının gövdəsi").
+entry(pipet, v, [pipetlədi,pipetləyir,pipetlər], "pipet etmək").
+entry(pipetka, f, [pipetlənmiş, pipetləyiş, pipetləyir], "maye ölçmək üçün kalibrlənmiş boru ilə").
+entry(pipework, n, [borular], "borular bir yerdə").
+entry(pipier, müqayisəli, [], "of pipy").
+entry(pipiest, üstünlük dərəcəsi, [], "pipy-nin").
+entry(pipiness, n, [pipinesses], "pipiy olma keyfiyyəti").
+entry(piping, n, [borular], "boru sistemi").
+entry(pipingly, adv, [], "çığırtı ilə").
+entry(çivhə, n, [çivhələr], "bir mahnı quşu").
+entry(pipkin, n, [pipkinlər], "kiçik bir qazan").
+giriş(pipless, sif, [], "kiçik toxumları olmayan").
+entry(pipped, keçmiş, [], "pip felinin keçmiş zamanı").
+entry(pippin, n, [pippins], "bir neçə növ alma növü").
+entry(pipping, indiki, [], "pip feli").
+entry(pipy, sif, [], "ən kəskin ən kəskin").
+entry(piqantlıq, n, [piqantlıqlar], "piquantlıq").
+entry(pikantlıq, n, [pikantlıqlar], "pikant olma keyfiyyəti").
+entry(ətirli, adj, [], "dadı xoşagələn dərəcədə kəskin").
+entry(pique, v, [piqued,piquing,piques], "qəzəb və ya kin oyandırmaq").
+entry(piquet, n, [piquetlər], "kart oyunu").
+entry(piratçılıq, n, [piratçılıqlar], "dənizdə soyğunçuluq").
+entry(piragua, n, [piraguas], "oyulmuş kano").
+entry(pirana, n, [piranalar], "pirana").
+entry(pirana, n, [piranalar], "acgöz bir balıq").
+entry(pirarucu, n, [pirarucular], "böyük bir qida balığı").
+entry(quldur, v, [quldur olaraq istifadə etdi,quldurluq edir,quldurlar], "quldurluq etmək").
+entry(quldurluq, sif, [], "qarətçiliklə əlaqəli").
+entry(piraya, n, [pirayalar], "piranha").
+entry(piriform, sif, [], "pyriform").
+entry(pirn, n, [pirns], "iynəfırladan çarx bobini").
+entry(piroq, n, [piroğen], "və ya PIROGİ və ya PIROQİ böyük rus piroqu").
+entry(pirogi, n, [pirogilər], "piroqlar").
+entry(piroq, n, [piroqlar], "piragua").
+entry(piroque, n, [piroques], "piragua").
+entry(pirojok, n, [piroqlar], "və ya PIROŞKİ və ya PIROJKİ kiçik Rus pastası").
+entry(piskary, n, [piskarilər], "balıq tutmaq üçün yer").
+entry(piscator, n, [piscators], "balıqçı").
+entry(hovuza, n, [hovuzlar], "və ya PISCINAE bəzi kilsə mərasimlərində istifadə edilən bir hövzə PISCINAL sif").
+entry(balıqla_əlaqədar, sif, [], "balıqla əlaqədar").
+entry(pisco, n, [piskolar], "Peru brendisi").
+entry(pish, v, [pished,pishing,pishes], "nifrət ifadə etmək").
+entry(gənc, n, [gənclər], "cavan və ya təcrübəsiz şəxs").
+entry(pishoge, n, [pishoges], "pishoq").
+entry(pishogue, n, [pishogues], "şər tilsim").
+entry(piziform, n, [piziformlar], "biləyin kiçik bir sümüyü").
+entry(pismire, n, [pismires], "qarışqa").
+entry(piso, n, [pisos], "Filippin pesosu").
+entry(pizolit, n, [pizolitlər], "əhəngdaşı").
+entry(pizolit, n, [pizolitlər], "kiçik yuvarlaqlaşdırılmış əhəngdaşı konkresiyası").
+entry(pissuvar, i, [pissuvarlar], "ictimai ayaq yolu").
+entry(fıstıq, n, [fıstıqlar], "yaşıl rəngi").
+entry(piste, n, [pistes], "dağ xizək yolu").
+entry(pistil, n, [pistillər], "çiçəkli bitkilərin toxumdaşıyan orqanı").
+entry(tapança, f, [tapançaladı,tapançalayır,tapançalar], "və ya TAPANÇALADI TAPANÇALAYIR TAPANÇALARla kiçik odlu silahla vurmaq").
+entry(pistole, n, [pistoles], "əvvəllər istifadə edilən bir Avropa qızıl sikkəsi").
+entry(piston, n, [pistonlar], "mühərrikin bir hissəsi").
+giriş(pistou, n, [pistous], "zeytun yağı, sarımsaq, reyhan və tez-tez pendir ilə hazırlanan bir sous").
+giriş(çuxur, f, [çuxurlu, çuxurlama, çuxurlar], "o yuva və ya çəpərlər ilə nişanlamaq üçün").
+entry(pita, n, [pita], "güclü lif").
+entry(pitahaya, n, [pitahayas], "ABŞ-ın cənub-qərbində və Meksikada yayılan bir kaktus növü").
+entry(pitapat, v, [pitapatted,pitapatting,pitapats], "təkrarlanan səs çıxarmaq").
+entry(pitaya, n, [pitayalar], "pitahaya").
+giriş(pitch, v, [pitched,pitching,pitches], "atma").
+entry(kasa, n, [kasalar], "maye saxlamaq və tökmək üçün qab").
+entry(pitchier, müqayisəli, [], "qatranlı").
+entry(pitchiest, superlative, [], "qüdrətli").
+entry(pitchily, zərf, [], "çox qaranlıq şəkildə").
+entry(pitchman, n, [pitchmen], "kiçik malların satıcısı").
+entry(pitçatmaq, n, [pitçatmalar], "beysbolda bir növ atış").
+entry(pitchy, sif, [], "PITCHIER PITCHIESTtarry").
+entry("acıqlı", adj, [], "halbuki").
+entry(tələ, n, [tələlər], "gizli təhlükə və ya çətinlik").
+entry(pith, v, [pithed,pithing,piths], "onurğa beynini kəsmək").
+giriş(mədən_ağzı, n, [mədən_ağzları], "mədən giriş nöqtəsi").
+entry(pithless, sif, [], "qüvvəsi olmayan").
+entry(pitos, n, [pitolar], "böyük qədim saxlama küpü").
+entry(qısa, adj, [], "QISASI QISASIcümleQISACA adv").
+entry(aciz, adj, [], "acınacaqlı PITIABLY adv").
+entry(pitied, keçmiş, [], "tense of pity").
+entry(pitier, n, [pitiers], "rəhm edən").
+entry(pities, indiki, [], "acimağın 3-cü şəxsi tək").
+entry(zavallı, sif, [], "Daha zavallı Ən zavallı rəhm oyandıran").
+entry(qansız, sif, [], "heç rəhm etməyən").
+entry(pitman, n, [pitmen], "mədən işçisi").
+entry(pitman, n, [pitmanlar], "qoşma çubuq").
+entry(piton, n, [pitonlar], "dağ dırmanışında istifadə olunan metal dirək").
+entry(pitot, n, [pitotlar], "mayenin axınının təzyiqini ölçmək üçün istifadə olunan boru").
+entry(pitsaw, n, [pitsaws], "ağac kəsmək üçün böyük mişar").
+entry(pitta, n, [pittas], "Asiya, Avstraliya və Afrikada yaşayan bir perch quşu").
+entry(qəpik-quruş, n, [qəpik-quruşlar], "kiçik bir pul müavinəti").
+entry(pitted, keçmiş, [], "pit felinin keçmiş zamanı").
+entry(pitting, n, [pittings], "boşluqların və ya çökəkliklərin düzülüşü").
+entry(rəhm, v, [rəhm etdi,rəhm edərək,rəhm edir], "başqasının bəxtsizliyi səbəbindən yaranan kədər hiss etmək").
+entry(piu, adv, [], "musiqi istiqaməti olaraq istifadə edilən daha çox").
+entry(pivot, v, [dəstəyi ilə fırlatmaq, fırladaraq, fırladır], "şafta və ya çubuğa fırlanmaq").
+entry(pivotal, sif, [], "həyati əhəmiyyətli").
+entry(pivotman, n, [pivotmen], "basketbol komandasının mərkəzi oyunçusu").
+entry(piks, n, [pikslər], "piks").
+giriş(pixel, n, [piksel], "video təsvirinin əsas vahidi").
+entry(pikselləşdirmək, v, [pikselləşdirilmiş,pikselləşdirən,pikselləşdirir], "rəqəmsal formatda göstərmək üçün bir görüntünü piksellərə bölmək").
+entry(piksi, n, [piksilər], "piksiPİKSİVARİ sif").
+entry(pikselhala, v, [pikselhaladi,pikselhalaedən,pikselhaların], "piksel edə").
+giriş(pixiness, n, [pixinesses], "oyun oynaq halda hiyləgər olmaq vəziyyəti").
+entry(piksi, n, [piksilər], "oyunbaz şəkildə yaramaz cin və ya pəriPIKSIKİMSİ sif").
+entry(pizazz, n, [pizazzlar], "həyəcanlı və ya cəlbedici olma keyfiyyəti").
+entry(pizazzy, sif, [], "cazibəsi olan").
+entry(pitsa, n, [pitsalar], "İtalyan açıq piroqu").
+entry(pizzaz, n, [pizzazes], "parıltı").
+entry(pizzelle, n, [pizzelles], "nazik və xəfif İtalyan peçenyesi").
+entry(pizza, n, [pizzalar], "pitsaların hazırlandığı və satıldığı yer").
+entry(pizzle, n, [pizzles], "heyvanın penisi").
+entry(placable, sif, [], "yumşaldıla bilənPLACABLY zərf").
+entry(plakat, v, [plakatlandı, plakatlama, plakatlar], "afişalar vasitəsilə elan etmək").
+entry(yatışdırmaq, v, [yatışdırdı,yatışdırır,yatışdırır], "sakitləşdirmək və ya yumşaltmaq").
+entry(yatıştırıcı, n, [yatıştırıcılar], "yatıştıran biri").
+entry(place, v, [qoydu,qoyur,qoyur], "xüsusi bir mövqeyə yerləşdirmək").
+entry(placebo, n, [placebo], "heç bir dərman tərkibinə malik olmayan və psixoloji təsiri üçün verilən maddə").
+entry(placeman, n, [placemen], "ictimai vəzifəyə təyin olunmuş siyasi şəxs").
+entry(placemat, n, [placemats], "üstlük, stolüstü dəst əşyalarının qoyulduğu yerin səthini qorumaq üçün istifadə edilən material parçası").
+entry(placenta, n, [plasentalar], "və ya PLACENTAE çoxu məməlilərdə damar orqanı").
+yerlestirici(yerlestirici, n, [yerlestiriciler], "yerlestiren biri").
+entry(placet, n, [placets], "razılıq səsi").
+entry(sakit, sif, [], "sakit və ya dincSAKİT şəkildə zərf").
+entry(yerləşdirmə, n, [yerləşdirmələr], "yarışda sıralanma vəziyyəti").
+entry(plack, n, [placks], "Şotlandiyanın keçmiş sikkəsi").
+entry(plaket, n, [plaketlər], "geyimdə yarıq").
+entry(plakoid, n, [plakoidlar], "lövhəvari pulcuqlara malik balıq").
+entry(tavan, n, [tavanlar], "mütəşəkkil şəkildə bəzədilmiş tavan").
+giriş(plagal, sifət, [], "orta əsr musiqi modunu ifadə edən").
+entry(plaj, n, [plajlar], "günəşdə parlaq bir sahə").
+entry(plagiat, n, [plagiatlar], "başqasının işini özünkü kimi təqdim etmə aktı").
+entry(vəba, v, [zəbt edildi,zəbt etmə,zəbt edir], "əziyyət vermək və ya əzab vermək").
+entry(taqibçi, n, [taqibçilər], "təqib edən").
+entry(plaguey, sif, [], "bela gətirən").
+entry(plaguy, sif, [], "troublesomePLAGUILY zərf").
+entry(камбала, n, [камбалы], "Avropa dil balığı").
+entry(plaid, n, [plaids], "cəhrayı rəngli naxışlı yun şərfPLAIDED adj").
+entry(sadə, adj, [], "SADƏLƏR SADƏLƏR aydınSADƏCƏ adv").
+entry(sadə, v, [şikayət edildi, şikayət edərək, şikayətlər], "şikayət etmək").
+entry(şikayət, n, [şikayətlər], "bir şikayət").
+giriş(plaıster, v, [plaıstered,plaıstering,plaısters], "suvaq etmək").
+entry(hörgü, f, [hörüldü,hörülür,hörərlər], "hörmək").
+entry(plaiter, n, [plaiters], "hörən").
+entry(hörmə, n, [hörmələr], "hörülmüş bir şey").
+entry(plan, v, [planlaşdırdı, planlaşdırır, planlar], "nəticəyə nail olmaq üçün bir metod hazırlamaq").
+entry(planar, sif, [], "düz").
+entry(planariya, n, [planariyalar], "su düz qurdudur").
+entry(planate, sif, [], "düz səthə malik").
+entry(planch, n, [planches], "taxta").
+```prolog
+entry(planche, n, [planches], "lövhə").
+```
+entry(planşet, n, [planşetlər], "sikkə kəsmək üçün düz metal parçası").
+entry(təyyarə, f, [təyyarələşdi,təyyarələşir,təyyarələşir], "hamar və ya bərabər etmək üçün").
+entry(reyndar, n, [reyndar], "təyyarə ilə düzləndirən").
+entry(planet, n, [planetlər], "göy cisimi").
+entry(planform, n, [planformas], "obyektin yuxarıdan görünən konturu").
+entry(plangent, sif, [], "ucadan səslənən").
+entry(planing, hazırki, [], "planyalama felinin feli sifəti").
+entry(planish, v, [planished,planishing,planishes], "yüngül çəkicləməklə bərkitmək və hamarlaşdırmaq").
+entry(taxta, v, [taxtalamaqla, taxtalama, taxtalar], "uzun yastı taxta parçaları ilə örtmək").
+entry(planking, n, [plankings], "taxtalardan hazırlanmış örtük").
+entry(plankton, n, [planktonlar], "planktonun elementi olan hər hansı bir orqanizm").
+entry(plankton, n, [planktonlar], "su bədəninin xırda heyvan və bitki həyatıPLANKTİK sif").
+entry(planless, adj, [], "planı olmayan").
+giriş(planlaşdırılmış, keçmiş, [], "planın zamanı").
+entry(planlaşdıran, n, [planlaşdıranlar], "planlaşdıran biri").
+entry(planlaşdırma, n, [planlaşdırmalar], "məqsəd və ya siyasətlərin müəyyən edilməsi").
+entry(planosol, n, [planosol], "torpaq növü").
+entry(bitki, f, [əkti,əkməkdədir,əki̇r], "yetişməsi üçün torpağa yerləşdirmək").
+entry(baş banan, n, [baş bananlar], "qısa gövdəli ot").
+entry(plantar, sif, [], "ayaq altı ilə əlaqəli").
+entry(planter, n, [planters], "əkən birisi").
+entry(əkin, n, [əkinlər], "bitkilərin yetişdirildiyi sahə").
+entry(bitki, n, [bitkilər], "kiçik bir bitki").
+entry(planula, n, [planulalar], "bəzi orqanizmlərin sərbəst üzən sürfəsi PLANULAR sif").
+entry(tablica, n, [tablicalar], "bəzək üçün plitə və ya disk").
+entry(plash, v, [plash edir,plash edərək,plash edir], "toxumaq").
+entry(plasher, n, [plaşerlər], "çırpınan biri").
+entry(plashy, sif, [], "PLASHIER PLASHIESTbatqallıq").
+entry(plazm, n, [plazmlar], "plazma").
+entry(plazma, n, [plazmalar], "qan plazmasıPLAZMA adj").
+entry(plazmid, n, [plazmidlər], "hüceyrənin irsi bir quruluşu").
+entry(plazmin, n, [plazminlər], "enzim").
+entry(plazmoid, n, [plazmoidlər], "yüksək enerjili hissəcik növü").
+entry(plazmon, n, [plazmonlar], "hüceyrələrdə mövcud olduğuna inanılan irsiyyətin bir müəyyənedici").
+entry("suvaq", v, ["suvadi", "suvaqlaşma", "suvayır"], "əhəng, qum və sudan ibarət qarışıq ilə örtmək").
+entry(suvaqlı, adj, [], "suvaya bənzər").
+entry(plastik, n, [plastiklər], "hər hansı bir sünbət və ya təbii formalaşa bilən materiallar qrupu").
+entry(plastid, n, [plastidlər], "bitki hüceyrələrində bir struktur").
+entry(plastron, n, [plastronlar], "tısbağanın qabığının bir hissəsiPLASTRAL sif").
+entry(plastrum, n, [plastrumlar], "plastron").
+entry(plat, v, [toxudu,toxumaqda,toxuyur], "hörmək").
+entry(platan, n, [platanağaclar], "böyük bir ağac").
+entry(çinar, n, [çinarlar], "çinar").
+entry(plastina, v, [plastinlədi,plastinləyir,plastinlər], "metalla nazik bir təbəqə ilə örtmək").
+entry(plato, n, [plato], "və ya PLATEAUX yüksəklikdə olan düz və geniş torpaq sahəsi").
+entry(plato, v, [plato edib, plato edir, platolar], "sabitlik dövrünə və ya vəziyyətinə çatmaq").
+entry(plateful, n, [platefuls], "və ya PLATESFUL bir boşqabın dolduğu miqdar dayaz boşqab").
+entry(platelet, n, [trombositlər], "kiçik yastı cisim").
+entry(platen, n, [platens], "yazı makinasının rulosu").
+entry(plater, n, [platers], "hansı ki örtür").
+entry(platesful, a, [], "qab dolusu").
+entry(platform, n, [platformlar], "qalxan döşəmə və ya düz səth").
+entry(platier, müqayisəli, [], "platy-nin").
+entry(platies, a, [], "pl of platy").
+entry(platiest, superlative, [], "platy-nin").
+entry(platin, n, [platinin], "platinum").
+entry(plating, n, [örtüklər], "nazik metal təbəqə").
+entry(platinic, sif, [], "platinə aid").
+entry(platin, n, [platinlər], "metal element").
+entry(platonik, sifət, [], "tamamilə mənəvi və hissi arzudan azad").
+giriş(taqım, f, [taqımlandı,taqımlanır,taqımlar], "eyni mövqedə başqa bir oyunçu ilə növbələşmək").
+entry(platted, kecmis, [], "plat feilinin kecmis zamani").
+entry(boyük_boşqab, n, [boyük_boşqablar], "boyük dayaz boşqab").
+entry(plating, cari, [], "platın feli sifəti").
+entry(platy, adj, [], "nazik düz parçalara bölmək üçün PLATIER PLATIEST").
+entry(platy, n, [platys], "kiçik tropik bir balıq olan PLATIES").
+entry(ornitorenk, n, [ornitorenklər], "və ya PLATYPIsu su məməlisi").
+entry(alqış, n, [alqışlar], "tərif ifadəsi").
+entry(plausive, sif, [], "tərif ifadə edən").
+entry(play, v, [oynadı,oynayır,oynayır], "əyləncə və ya idmanla məşğul olmaq").
+entry(playa, n, [playas], "bir səhra hövzəsinin dibi").
+entry(playact, v, [playacted,playacting,playacts], "teatr tamaşasında iştirak etmək").
+entry(pleybek, n, [pleybeklər], "yeni yazılmış bir qeydiyyatın təkrar oynadılması actı").
+entry(tamaşa_vərəqi, n, [tamaşa_vərəqləri], "teatr tamaşası üçün proqram").
+entry(playbook, n, [playbooks], "səhnə üçün bir və ya daha çox ədəbi əsər olan kitab").
+entry(playboy, n, [pleyboylar], "zövqələnməyə həsr olunmuş bir kişi").
+entry(oyun_tarixi, n, [oyun_tarixləri], "teatr istehsalının göstəriləcəyi təyin edilmiş tarix").
+entry(oyungünü, n, [oyungünləri], "bayram").
+giriş(playdown, n, [playdowns], "pley-off").
+entry(oyunçu, n, [oyunçular], "oynayandır").
+entry(oynaq, sif, [], "şıltaq").
+entry(playgirl, n, [playgirls], "əyləncələrə həsr olunmuş qadın").
+entry(teatrasevər, n, [teatrasevərlər], "teatra gedən şəxs").
+entry(playland, n, [playlands], "əyləncə sahəsi").
+entry(playless, sif, [], "oynamaqdan məhrum").
+entry(playlet, n, [playletlər], "qısa teatr tamaşası").
+entry(playlike, sif, [], "teatr tamaşasına oxşayan").
+entry(playlist, n, [pleylistlər], "efirdə oynayacaq yazıların siyahısı").
+entry(playmate, n, [oyun yoldaşları], "oyunda yoldaş").
+entry(playoff, n, [playofflar], "çempionatı müəyyən etmək üçün keçirilən oyunlar seriyası").
+entry(playpen, n, [playpens], "gənc bir uşağın oynaya biləcəyi bir qəfəs").
+entry(oyun_otağı, n, [oyun_otaqları], "əyləncə otağı").
+entry(playset, n, [playsets], "uşaqların fəaliyyətləri üçün avadanlıqlara malik açıq hava qurğusu").
+entry(kombinezon, n, [kombinezonlar], "qadınlar və uşaqlar üçün idman geyimi").
+entry(playtime, n, [oyun vaxtları], "oyun və ya əyləncə üçün vaxt").
+entry(oyuncaq_geyimi, n, [oyuncaq_geyimi], "asudə vaxt fəaliyyəti üçün geyilən geyim").
+entry(plaza, n, [plazalar], "ictimai meydan").
+entry(yaqu, n, [yaqlar], "bir yalvarış").
+entry(pleach, v, [pleached,pleaching,pleaches], "birlikdə toxumaq").
+entry(xahiş_etmək, v, [etdi,etmə,edir], "ciddi şəkildə istəmək").
+entry(müdafiəçi, n, [müdafiəçilər], "vəkil olan şəxs").
+entry(iddia, n, [iddialar], "hüquqi işdə bir iddia").
+giriş(pleasant, sifət, [], "PLEASANTER PLEASANTESTpleasing").
+entry(xahiş etmək, v, [xahiş etdi,xahiş edir,xahiş edər], "zövq və ya məmnuniyyət vermək").
+entry(zəhmətkeş, n, [zəhmətkeşlər], "rəğbət qazanan biri").
+entry(zövq, f, [zövq aldı, zövq alır, zövqlər], "məmnun etmək").
+entry(qatlamaq, v, [qatlanmış,qatlama,qatlar], "bərabər şəkildə qatlamaq").
+entry(pleater, n, [plistlər], "bükən biri").
+entry(deri əvəzedicisi, n, [deri əvəzediciləri], "dəri görünüşlü hazırlanan plastik parça").
+entry(pilisəlmə, n, [pilisəlmələr], "parçanın üzərində kiçik qatların təşkil edilməsi").
+entry(pleb, n, [plebs], "sadə adam").
+entry(plebey, n, [plebeylər], "hərbi və ya dəniz akademiyasında birinci kurs tələbəsi").
+entry(plebey, n, [plebeylər], "adi vətəndaş").
+entry(plektron, n, [plektronlar], "və ya PLEKTRAPLektur").
+entry(plektrum, n, [plektrumlar], "simli musiqi alətinin simlərini çəkmək üçün istifadə edilən alət").
+entry(pled, a, [], "plead-in keçmiş zaman forması").
+entry(and, v, [andlar, andlayanlar, andlayır], "borc alınmış bir şey üçün təminat vermək").
+entry(pledgee, n, [pledgees], "nəyinsə girov qoyulduğu şəxs").
+entry(pledgeor, n, [pledgeorlar], "tərəf").
+entry(pledger, n, [təminatçılar], "bir şeyi zəmanət verən şəxs").
+entry(pledget, n, [pledgetlər], "sorbent pambıqdan hazırlanmış bir yastıq").
+entry(and, indiki, [], "xəbərləri içərən and").
+entry(zamin, n, [zaminlər], "pledger").
+entry(pleiad, n, [pleiads], "və ya PLEİADES yeddi məşhur şəxsdən ibarət bir qrup").
+entry(plena, a, [], "plenumların cəmi").
+entry(plenar, n, [plenarlar], "bütün üzvlərin iştirak etdiyi bir sessiya").
+entry(plench, n, [plenches], "blicə və açar kimi xidmət edən alət").
+entry(doldur, v, [doldurdu,doldurur,doldurur], "doldurma").
+entry(plenizm, n, [plenizmlər], "məkanın maddə ilə tam dolu olduğu doktrina").
+entry(plenist, n, [plenistlər], "plenizm tərəfdarı").
+entry(bolluq, isim, [bolluqlar], "kifayət qədər və ya bol miqdar").
+entry(plenum, n, [plenums], "PLENAspace tam maddə ilə dolu hesab olunur").
+entry(pleon, n, [pleons], "xərçəngkimilərdə qarınPLEONAL PLEONIC sif").
+entry(pleonazm, n, [pleonazmlar], "lüzumsuz sözlərin istifadəsi").
+entry(pleopod, n, [pleopodlar], "xərçəngkimilərin əlavə hissəsi").
+entry(pleroma, n, [pleromas], "ilahiyyatın tamlığı").
+entry(plessor, n, [plessors], "plexor").
+entry(plethora, n, [plethoras], "artıqlıq").
+giriş(plevra, n, [plevralar], "yaxud PLEURAEa membran ki, ağciyərləri əhatə edirPLEVRAL sifət").
+entry(plevrit, n, [plevritlər], "plevranın iltihabı").
+entry(pleuron, n, [pleura], "bir həşəratın döş seqmentinin bir hissəsi").
+entry(pleuston, n, [pleustons], "suda yaşayan bitki örtüyü").
+entry(plew, n, [plews], "bir castor dərisi").
+entry(plex, n, [plexes], "çoxşaxəli bir sistem").
+entry(plexal, sif, [], "plexusa aid olan").
+giriş(plexor, n, [plexors], "kiçik bir çəkicəbənzər tibbi alət").
+entry(plexus, n, [plexuslar], "hissələrin iç-içə keçməsi").
+entry(əyməkli, sif, [], "asanlıqla bükülənPLIABLY zərf").
+entry(itaətkarlıq, n, [itaətkarlıqlar], "itaətkar olma keyfiyyəti").
+entry(tabel, sif, [], "asaniqla əyilə bilən").
+entry(plica, n, [plicae], "və ya PLICAS dəri bükülməsiPLICAL sif.").
+entry(plicate, sifət, [], "qatlanmış").
+entry(plicated, sif, [], "plicate").
+entry(plie, n, [pla-lar], "baletdə hərəkət").
+entry(plied, keçmiş, [], "ply sözü üçün zaman").
+entry(plier, n, [kəlbətinlər], "işlədən biri").
+entry(plies, indiki, [], "ply feli üçün 3-cü şəxs tək").
+entry(vəziyyət, v, [andç içməkdədir,andç içmədə,andç içər], "təntənəli bir vəd ilə söz vermək və ya bağlamaq").
+entry(plighter, n, [plighters], "nəyisə vəd edən").
+entry(plimsol, n, [plimsols], "plimsoll").
+entry(plimsole, n, [plimsoles], "plimsoll").
+entry(plimsoll, n, [plimsolls], "rezin altlı parça ayaqqabı").
+entry(plink, v, [plinked,plinking,plinks], "təsadüfi hədəflərə atəş açmaq").
+entry(plinker, n, [plinkers], "plink edən birisi").
+entry(plinky, adj, [], "QISA KƏSKİN METALİK SƏSLƏRDƏN IBARƏT YAXUD BELƏ SƏSLƏR EDƏN PLINKIER PLINKIEST").
+entry(plint, n, [plintlər], "üstündə sütun və ya kaide dayanan daş və ya lövhə").
+entry(pliofilm, n, [pliofilmlər], "qablaşdırmada istifadə olunan xlorlanmış kaucukdan hazırlanmış şəffaf bir vərəqə").
+entry(pliotron, n, [pliotronlar], "vakuum borusu növü").
+giriş(pliskie, n, [pliskies], "bir praktik zarafat").
+Girişdə (plisky, n, [pliskies], "pliskie").
+entry(plisse, n, [plisselər], "parçanın büzməli teksturası").
+entry(plod, v, [ağır-ağır addımladı, ağır-ağır addımlamaq, ağır-ağır addımlayır], "ağır addımlamaq").
+entry(plodder, n, [plodderlər], "yavaş-yavaş, əzmkarlıqla hərəkət edən şəxs").
+entry(ploidiya, n, [ploidiyalar], "xromosomların əsas sayının təkrarlanma dərəcəsi").
+entry(plonk, v, [plonked, plonking, plonks], "plonk etmək").
+entry(plonker, n, [plonkers], "axmaq insan").
+entry(plop, v, [ağır şəkildə düşmək, düşmək], "ağır formada düşmək").
+entry(partlayış, n, [partlayışlar], "bəzi samitlər tələffüz edildikdən sonra nəfəsin sərbəst buraxılması").
+entry(partlayıcı, n, [partlayıcılar], "bir səsin partlama ilə yaranması").
+giriş(plot, v, [tərtib etdi,tərtib etməkdədir,tərtib edir], "gizlicə planlaşdırmaq").
+giriş(plansız, sif, [], "plansız").
+entry(plotline, n, [süjet xətləri], "bir kitabın əsas hekayəsi").
+entry(torpaq_sahəsi, n, [torpaq_sahələri], "torpaq sahəsi").
+entry(təsvir edildi, keçmiş, [], "süjet etmək zaman forması").
+giriş(plotter, n, [plotters], "bir şeyləri təsvir edən və ya planlaşdıran").
+entry(plotting, indiki, [], "plot feli indiki məsdər").
+entry(plotty, adj, [], "roman kimi intriqalı").
+ploqram(plotty, n, [plotties], "isti ədviyyatlı içki").
+entry(plotz, v, [plotzed,plotzing,plotzes], "hisslərlə dolub daşmaq").
+entrada(saban, v, [sabandan, sabanlıq, sabanlar], "şumlamaq").
+giriş(kotançı, n, [kotançılar], "kotan çəkən şəxs").
+giriş(melitək, n, [melitəklər], "bir sahil quşu").
+entry(sabanla, f, [sabandanib, sabanlayir, sabanlar], "torpağı şumlayaraq qaldırmaq üçün istifadə olunan əkin alətiSƏBANLANA BİLƏN sif").
+entry(plowback, n, [plowbacks], "müəssisəyə mənfəətin reinvestisiyası").
+entry(cütçüoğlu, n, [cütçüoğulları], "kotan komandasını aparan oğlan").
+entry(sürən, n, [sürenlər], "şumlayan biri").
+entry(sabanbaşı, n, [sabanbaşları], "sabanın bağlayıcısı").
+entry(plowland, n, [əkinaltı], "əkinə yararlı torpaq").
+entry(plowman, n, [kotançılar], "kotan sürən kişi").
+entry(ploy, v, [ployladı, ploylayır, ploylar], "xətdən sütuna keçmək").
+giriş(ploye, n, [ployes], "qarabaşaq yarması blini").
+entry(qoparmaq, v, [qopardı,qoparan,qoparır], "dartıb çıxarmaq və ya qoparmaq").
+entry(plucker, n, [pluckers], "qoparan şəxs").
+entry(cəsur, sif, [], "CƏSURTək CƏSURTək cəsur və ruhluCƏSURLA adv").
+entry(plug, v, [bağladı,bağlayır,bağlayar], "bir dəliyi doldurmaq üçün istifadə olunan bir material ilə möhürləmək və ya bağlamaq").
+entry(plugger, n, [pluggers], "birləşdirən").
+entry(plughole, n, [plugholer], "plag ilə dayandırıla bilən drenaj").
+entry(plugless, sif, [], "prizi olmayan").
+entry(plugola, n, [plugolalar], "radio və ya televiziyada pulsuz təsadüfi reklam").
+entry(plugugly, n, [pluguglies], "qanqaraçılıqeden").
+entry(alça, n, [alçalar], "ətli meyvə").
+entry(gavalı, sif, [], "GAVALIP ən çox arzulanan").
+giriş(lələklənmə, n, [lələklər], "quşun lələkləri").
+entry(plumate, sif, [], "lələkə bənzər").
+entry(plumb, f, [plumbed, plumbing, plumbs], "dərinliyi müəyyən etmək").
+entry(plumbago, n, [plumbagolar], "qrafit").
+entry(santexnik, n, [santexniklər], "santexnika quraşdıran və təmir edən şəxs").
+entry(santexnika, n, [santexnikalar], "santexnikin işi").
+entry(plumbic, sif, [], "qurğuşun ehtiva edən").
+entry(santexnika, n, [santexnikalar], "bir binanın boru sistemi").
+entry(plumbizm, n, [plumbizmlər], "qurğuşun zəhərlənməsi").
+entry(plumbous, sifət, [], "qurğuşun tərkibli").
+entry(plumbum, n, [plumbums], "qalay").
+entry(plume, v, [plumed,pluming,plumes], "lələklərlə örtmək").
+entry(plumelet, n, [plumelets], "kiçik bir lələk").
+entry(plumeria, n, [plumerias], "çiçəkli bir kol").
+entry(plumery, n, [lələklər], "quşun lələkləri").
+entry(plumier, müqayisəli, [], "plumy-nin").
+entry(plumiest, superlative, [], "tüklü").
+entry(pluming, indiki, [], "plume felinin participi").
+entry(plumiped, n, [plumipeds], "tüklü ayaqları olan quş").
+entry(şaftalıya_bənzəyən, sif, [], "şaftalıya oxşayır").
+entry(sərt-düşmək, v, [sərt-düşdü,sərt-düşərkən,sərt-düşür], "birbaşa aşağı düşmək").
+entry(plummy, sif, [], "gavalı ilə dolu").
+entry(plumose, sif, [], "tüklü olan").
+giriş(bayağı, sifət, [], "BAYAGI ənBAYAĞI yaxşıdairəvi və tam formada").
+entry(kökəltmək, v, [kökəltdi,kökəldir,kökəldir], "kök etmək").
+entry(şişirtmək, f, [şişirtdi, şişirdərək, şişirdir], "şişirmək").
+entry(plumper, n, [şişmanlar], "ağır yıxılma").
+entry(bir_az_kök, sif, [], "bir qədər kök").
+entry(qabarıqca, zərf, [], "qabarıq şəkildə").
+entry(plumpy, sif, [], "PLUMPIER PLUMPIESTplumpish").
+entry(plumula, n, [plumalar], "bitki embrionunun əsas tumurcuğuPLUMULAR sif").
+entry(plumy, sif, [], "LƏCƏK PLUMİESTlə tük örtülmüş").
+entry(talan, v, [talan etdi,talan etmək,talan edir], "zorla malları soymaq üçün").
+entry(dalma, v, [daldi,dalmaqda,dalar], "bir şeyə qəflətən və ya güclə atmaq və ya dartmaq").
+entry("dalma aparatı", n, ["dalma aparatları"], "dalmaq üçün istifadə olunan vasitə").
+entry(plunk, v, [plunked, plunking, plunks], "ağır şəkildə yıxılmaq və ya düşmək").
+entry(plunker, n, [plunkers], "bir şeyi plunk edən kəs").
+entry(plunky, sif, [], "SÜRƏTLİ BOŞ METALLIK SƏSLƏ XARAKTERIZƏ OLUNAN PLUNKIER PLUNKIEST").
+entry(pluot, n, [pluotlar], "gavalı və ərik hibrid meyvəsi").
+entry(cəmlik, n, [cəmlər], "bir sözü daha çox say ifadə edən").
+entry(plurally, adv, [], "bir neçə ifadə edən şəkildə və ya formada").
+entry(plus, n, [pluslar], "və ya əlavə MİQDARTOPlus").
+entry(plush, sif, [], "LÜKS DAHA LÜKS DAHASI PLÜŞ ŞƏKİLDƏ zərf").
+entry(pluş, n, [pluşlar], "uzun tüklü bir parça").
+entry(plushed, sif, [], "gösterişli lüks").
+giris(plushy, sif, [], "PLUSHIER PLUSHIESTlüksPLUSHİLY adv").
+entry(plussage, n, [plussages], "başqa bir şeydən artıq olan miqdar").
+entry(plusses, a, [], "plusun cəmi").
+entry(pluteus, n, [plutei], "dəniz kirpisinin sürfəsi").
+entry(pluton, n, [plutonlar], "məğmatik qayaPLUTONIC sif").
+entry(plüvial, n, [plüviallar], "uzun müddətli yaş iqlim dövrü").
+entry(pluvian, sif, [], "çox yağışlı hava ilə xarakterizə olunur").
+entry(pluvioz, adj, [], "yağmurlu").
+entry(pluvious, sif, [], "yağışla əlaqəli").
+entry(ply, v, [plied,plying,plies], "təkrar-təkrar təmin etmək və ya təklif etməkPLYINGLY adv").
+entry(oyunçu, n, [oyunçular], "alət").
+entry(fanera, n, [faneralar], "tikinti materialı").
+entry(pneuma, n, [pneumas], "ruh və ya mənəviyyat").
+entry(po, n, [pos], "küçəqabı").
+entry(poaceous, sif, [], "otlar fəsiləsinə aid olan bitkilərə aid").
+entry(qanunsuz_ovu, f, [qanunsuz_ovlanmış,qanunsuz_ovlanır,qanunsuz_ovlayır], "ov və ya balıq tutmaq məqsədilə gizli gətmək üçün").
+entry(brakonier, n, [brakonierlər], "ovçuluq edən").
+entry(poachy, sifət, [], "POACHIER POACHIESTswampy").
+entry(poblano, n, [poblanos], "yumşaq tünd yaşıl çili bibəri").
+entry(poboy, n, [poboylar], "uzun çörəyin içərisində böyük sendviç").
+entry(pochard, n, [pochards], "dəniz ördəyi").
+entry(pock, v, [pocked, pocking, pocks], "eruptiv xəstəlikdən qaynaqlanan püstüllərlə işarələmək").
+entry(cebinə, v, [cibinə qoydu, cibinə qoyur, cibinə qoyar], "paltara tikilmiş bir kisənin içinə qoymaq").
+entry(cibinə qoyan, n, [cibinə qoyanlar], "cəbində saxlayan").
+giriş(çopur, v, [çopurlu,çopurlama,çopurlar], "partlayıcı bir xəstəlikdən yaranan yaralarla işarələmək üçün").
+entry(pocky, sif, [], "POCKIER POCKIESTpocklarla örtülüPOCKILY zərf").
+entry(poco, adv, [], "bir az musiqi istiqaməti kimi istifadə olunur").
+entry(pocosen, n, [pocosens], "pocosin").
+pocosin(giriş, n, [pocosins], "yuxarı bataqlıq").
+entry(pokoson, n, [pokosonlar], "pokosin").
+entry(pod, v, [podded,podding,pods], "toxum qabıqları istehsal etmək").
+entry(podaqra, n, [podaqranın], "ayaqda soyuqdəyməPODAQRAL PODAQRIK təklif").
+entry(podkast, v, [podkast edildi,podkast edilir,podkastlar], "programı rəqəmsal formatda yükləmək üçün İnternetdə əlçatan etmək").
+entry(podesta, n, [podestalar], "İtalyan magistarat").
+entry(podgy, sif, [], "PODGIER PODGIESTşişmanPODGILY zərf").
+entry(podia, a, [], "podiumun cəmi").
+entry(podiatriya, n, [podiatriyalar], "insan ayağının öyrənilməsi və müalicəsi").
+entry(podite, n, [podites], "artropodun bir əzab seqmentiPODITIC sıf").
+entry(podium, n, [podiumlar], "və ya PODİAa kiçik platforma").
+entry(podlike, sif, [], "tоxum qabığına bənzəyən").
+entry(podokarp, sif, [], "həmişəyaşıl ağaclar ailəsini təyin edən").
+entry(podomere, n, [podomerlər], "podit").
+entry(podsol, n, [podzollar], "podzolPODSOLIC sif").
+entry(podunk, n, [podunks], "kiçik əhəmiyyətsiz bir qəsəbə").
+entry(podzollar, n, [podzollar], "qeyri-bərəkətli torpaqPODZOLIC sif").
+entry(poechore, n, [poechores], "yarımquraq ərazi").
+entry(şeʻr, n, [şeʻrlər], "nəzm ilə yazılmış bir əsər").
+entry(poeziya, n, [poeziya], "poeziya").
+entry(şair, n, [şairlər], "şeirlər yazan biri").
+entry(şairə, n, [şairələr], "qadın şair").
+entry(poetik, sif, [], "poeziyaya aid").
+entry(bədii, sif, [], "poetik").
+entry(poetics, npl, [], "poetik nəzəriyyə və ya praktika").
+entry(poetise, v, [poetised,poetising,poetises], "şeirləşdirmək").
+entry(şeirləşdirici, n, [şeirləşdiricilər], "şeirləşdirici").
+entry(şeir_yazmaq, v, [şeir_yazdı,şeir_yazır,şeir_yazar], "şeir yazmaq").
+entry(poetizer, n, [poetizerlər], "şeir yazan biri").
+entry(şairsiz, adj, [], "şairdən məhrum").
+entry(sairanəbenzər, adj, [], "şairə bənzəyən").
+entry(şeir, n, [şeirlər], "ölçülü formada ədəbi əsər").
+entry(poqey, n, [poqeylər], "hər hansı bir hökumət yardım növü").
+entry(pogies, pl, [], "pogy-nin").
+entry(pogo, v, [pogoed,pogoing,pogoes], "yuxarı və aşağı pogo çubuğunda olduğu kimi tullanmaq").
+entry(pogonia, n, [pogonias], "kiçik bir orkide").
+entry(pogonip, n, [pogoniplər], "asılı buz hissəciklərindən ibarət sıx duman").
+entry(poqrom, f, [poqrom etdi, poqrom etmək, poqromlar], "sistemli şəkildə qırğın etmək").
+entry(pogy, n, [pogies], "dəniz balığı").
+girdi(poh, interj, [], "iyrənci ifadə etmək üçün istifadə olunur").
+entry(poi, n, [pois], "havay yeməyi").
+entry(əsŗedici, sif, [], "emosional olaraq kədərləndirici").
+entry(poilu, n, [poilus], "Fransız əsgəri").
+entry(poind, v, [poinded,poinding,poinds], "borcu ödəmək üçün əmlakı ələ keçirmək və satmaq").
+entry(nöqtə, v, [nöqtələmək,nöqtələyir,nöqtələyər], "barmağı ilə istiqaməti göstərmək üçün").
+entry(pointe, n, [pointes], "balet mövqeyi").
+entry(pointer, n, [pointers], "işarə edən biri").
+entry(pointing, n, [pointings], "kərpic hörgüsünün tikişlərini dolduran sement və ya harç").
+entry(pointman, n, [nöqtə adamı], "hokkeydə müəyyən bir oyunçu").
+entry(pointy, adj, [], "KƏSKİN UCLU sonuna doğru daralan").
+entry(tərəzi, v, [tərəziləşmiş,tərəziləşməkdə,tərəziləşir], "tarazlıq vəziyyətində saxlamaq").
+entry(poiser, n, [poiserlər], "mövqe tutan biri").
+entry(poisha, n, [poisha], "Banqladeşin paisası").
+entry(zəhər, v, [zəhərləndi,zəhərləmə,zəhərlər], "zərərli maddə tətbiq etmək").
+giriş(zəhərləyən, n, [zəhərləyənlər], "zəhərləyən şəxs").
+entry(poitrel, n, [poitrels], "peytral").
+entry(poke, v, [itələdi,itələyir,itələyir], "itələmək üçünPOKABLE sif").
+entry(poker, n, [poklər], "deyən biri").
+entry(pokeroot, n, [pokeroots], "pokeweed").
+entry(pokeweed, n, [pokeweeds], "çoxillik ot").
+entry(pokey, n, [pokeylər], "darısqal").
+entry(pokier, müqayisəli, [], "pokyin").
+entry(pokilər, cəm, [], "dar").
+entry(pokiest, superlative, [], "tənbəlin ən").
+entry(pokily, zərf, [], "darısqal bir şəkildə").
+entry(pokilik, n, [pokiliklər], "darısqallıq vəziyyəti").
+entry(poking, indiki, [], "poke-in feli sifəti").
+entry(poky, sif, [], "ƏN ZƏIF ZƏIFƏ").
+entry(poky, n, [pokies], "həbsxana").
+entry(pol, n, [pols], "siyasətçi").
+entry(polar, n, [qütbələr], "bir nöqtə ilə əlaqəli düz xətt").
+entry(polarize et, v, [polarize edilmişdir, polarize edərək, polarizes edir], "polarizasiya etmək").
+giriş(qütubilik, n, [qütubiliklər], "iki əks keyfiyyətin malik olması").
+entry(qütbləşdir, v, [qütbləşdirilmiş,qütbləşdirərək,qütbləşdirir], "qütblülük vermək").
+entry(polaron, n, [polaronlar], "elektron növü").
+entry(polder, n, [polders], "su bəndi vasitəsilə sudan alınmış aşağı ərazi sahəsi").
+entry(direk, f, [direklədi,direkləyir,direklər], "uzun nazik bir taxta və ya metal parçası ilə irəliləmək").
+entry(poleax, v, [balta ilə vurmaq, baltalayır, baltalar], "balta kimi silahla vurmaq").
+entry(poleaxe, v, [balta_kimi_vurma, balta_kimi_vurmaqda, baltalar_kimi], "balta ilə vurmaq").
+entry(polecat, n, [qaşqaldaqlar], "ət yeyən məməli").
+entry(poled, keçmiş, [], "pole felinin keçmiş zaman forması").
+entry(poleis, pl, [], "polisdən").
+entry(polsuz, sif, [], "heç bir dirəyi olmayan").
+giriş(mübahisə, n, [mübahisələr], "mübahisəli bir arqument").
+entry(polemikçi, n, [polemikçilər], "polemikaya qoşulan").
+entry(polemika etmək, f, [polemika etdilər, polemika edirlər, polemika edir], "polemikalara müdaxilə etmək").
+entry(polenta, n, [polenta], "qarğıdalı unundan hazırlanan qalın sıyıq").
+entry(poler, n, [polerlər], "dirəkləri olan biri").
+entry(polestar, n, [polestars], "yönəldici prinsip").
+entry("qütbə tərəf", adv, [], "yer oxunun hər iki tərəfinə doğru").
+entry(poleyn, n, [poleyns], "diz üçün qoruyucu dəridən bir parça").
+entry(polis, v, [polis etdi, polis etmə, polis edir], "təmiz və ya qaydasında etmək").
+entry(polis, n, [polislər], "nəzarət edən").
+giriş(policier, n, [policiers], "cinayətləri araşdıran polisi özündə əks etdirən bir film").
+entry(politika, n, [politikalar], "tədbirlilik və ya məqsədəuyğunluq baxımından nəzərə alınan bir hərəkət və ya prosedur").
+entry(poling, indiki, [], "dirək").
+entry(polio, n, [polios], "yoluxucu virus xəstəliyi").
+entry(polis, n, [poleis], "qədim yunan şəhər-dövləti").
+entry("cilalamaq", f, [cilalanmış, cilalamaq, cilar], "sürtmə yolu ilə hamar və parlaq etmək").
+entry(cilalayıcı, n, [cilalayıcılar], "cilalayan biri").
+entry(nəzakətli, sif, [], "NƏZAKƏTLİ NƏZAKƏTLİ GÖSTƏRİR DİGƏRLƏRİNİ DÜŞÜNÜRKƏN NƏZAKƏTLİCƏ zərf").
+entry(siyasi, sifət, [], "zirək").
+entry(siyasətə_qoşulmaq, v, [siyasətə_qoşuldu, siyasətə_qoşulma, siyasətə_qoşulur], "siyasətlə məşğul olmaq").
+entry(politico, n, [politicos], "və ya siyasətlə məşğul olan şəxs POLITICOES").
+entry(siyasət, npl, [], "idarəetmə sənəti və ya elmi").
+entry(siyasi_qurum, n, [siyasi_qurumlar], "hökumət forması və ya sistemi").
+entry(polka, v, [polka edildi, polka edilir, polkalar], "canlı bir rəqs ifa etmək").
+entry(poll, v, [yorğundu, sorğulama, sorğular], "ictimai rəyin öyrənilməsi məqsədilə sorğu").
+entry(pollack, n, [pollacklar], "dəniz qida balığı").
+entry(pollard, f, [pollardlanmış, pollardlama, pollardlar], "ağacın üst budaqlarını gövdəyə qədər kəsmək").
+entry(pollee, n, [sorğulananlar], "sorğulanan şəxs").
+entry(polen, v, [polenləndi, polenləməkdədir, polenlər], "tozcuğun bir toxum bitkisində dölləndirici elementi daşımaq").
+entry(poller, n, [sorğuçular], "sorğu keçirən şəxs").
+entry(pollex, n, [pollices], "ön ətrafın ən içdəki barmağı POLLIKAL sif").
+entry(səsvermə, n, [səsvermələr], "səsi qeyd etmə və ya istifadə etmə").
+entry(pollinia, cmo, [], "tozcuq dənələri yığımı").
+entry(pollinic, sif, [], "tozağacı ilə əlaqəli").
+entry(siyahıçəkən, n, [siyahıçəkənlər], "səs sorğusu keçirən").
+entry(polliwog, n, [polliwogs], "balıq qurbağası").
+entry(pollok, n, [polloklar], "pollak").
+entry(sosiolog, n, [sosiologlar], "bir sorğu keçirən").
+entry(kirlətmək, v, [kirlətdi,kirlətmə,kirlədir], "çirkli və ya natəmiz etmək").
+entry(tullantıları_buraxan, n, [tullantıları_buraxanlar], "çirkləndirən").
+entry(pollywog, n, [kurbağa balaları], "kurbağa balası").
+entry(polo, n, [pololar], "at belində oynanılan oyun").
+entry(poloçu, n, [poloçular], "polo oyunçusu").
+entry(polonium, n, [poloniumlar], "radioaktiv element").
+entry(poltron, n, [poltronlar], "əsas qorxaq").
+entry(polisi, n, [polisilər], "ağ qan hüceyrəsinin bir növü").
+giriş(poly, n, [polies], "poliesterdən hazırlanmış geyim").
+entry(polyadic, sif, [], "üç və ya daha çox kəmiyyətləri və ya fərdləri əhatə edən").
+entry(polietilen_torba, v, [polietilen_torbalandi,polietilen_torbalama,polietilen_torbalar], "bir şeyi polietilen torbaya qoymaq").
+entry(polybrid, n, [hibrid_növlər], "hibrid bitki növü").
+entry(polycot, n, [polikotlar], "bir növ bitki").
+entry(polydrug, sif, [], "bir neçə dərmanın birlikdə istifadəsinə aid").
+entry(polien, n, [polienlər], "kimyəvi bir birləşməPOLİENİK sif").
+entry(poliqala, n, [poliqalalar], "çiçəkli bitki").
+entry(poligamiya, n, [poligamiyalar], "eyni zamanda bir neçə həyat yoldaşına sahib olma vəziyyəti").
+entry(poligen, n, [poligenlər], "bir növ gen").
+entry(polyglot, n, [poliglotlar], "bir neçə dildə danışan və ya yazan şəxs").
+entry(polygon, n, [çoxbucaqlar], "düz xətlərlə məhdudlaşdırılmış qapalı müstəvi fiquru").
+entry(poligoniya, n, [poligoniya], "bir ot").
+entry(polygyne, sif, [], "həşərat koloniyasında bir neçə yumurta qoyan ana kraliçaya malik olmaq").
+entry(müvəqqəti, n, [müvəqqətilər], "eyni zamanda bir neçə arvadın olması vəziyyəti").
+entry(polimat, n, [polimatlar], "böyük və müxtəlif biliklərə sahib şəxs").
+entry(polimer, n, [polimerlər], "mürəkkəb kimyəvi birləşmə").
+entry(polynya, n, [polynyalar], "dəniz buzu ilə əhatə olunmuş açıq su sahəsi").
+entry(polyol, n, [polioslar], "üç və ya daha çox hidroksil qrupu olan spirt").
+entry(polyoma, n, [poliomalar], "virus növü").
+entry(polip, n, [poliplər], "onurğasız bir canlı").
+giriş(polipari, n, [poliparilər], "polip koloniyasının ümumi dəstəkləyici strukturu").
+entry(polyped, n, [polipedlər], "çox ayağı olan bir şey").
+entry(polipi, a, [], "polipusların cəmi").
+entry(polipid, n, [polipidlər], "bir polip").
+entry(polipneya, n, [polipneyalar], "sürətli nəfəs alma").
+entry(polipod, n, [polipodlar], "bir çox ayaqlı orqanizm").
+entry(polipodiya, n, [polipodiyalar], "bir qıjı").
+entry(polipoid, sif, [], "polipə bənzəyən").
+entry(polypor, n, [polyporlar], "göbələk növü").
+entry(polipoz, sif, [], "polipə aid olan").
+entry(polip, n, [poliplər], "bir orqanın selikli qişa səthindən çıxan böyümə, ya da polipi").
+entry(polysemiya, n, [polisemiyalar], "müxtəlif mənalar").
+entry(polizom, n, [polizomlar], "zülal hissəcikləri qruplaşması").
+entry(polytene, sif, [], "müəyyən növ xromosomlara malik olmaq").
+entry(politeniya, n, [politeniyalar], "politen vəziyyətdə olmaq").
+entry(polytype, n, [polimorflar], "bir kristal strukturu").
+entry(polyuria, n, [poliuriyalar], "həddindən artıq sidik ifrazıPOLYURİK sif").
+entry(polyzoan, n, [polizoanlar], "bryozoan").
+entry(polyzoic, sif, [], "çox sayda zooidlərdən ibarət").
+entry(pom, n, [poms], "Pomeranian iti").
+entry(pomaq, n, [pomaqlar], "əzik meyvələrin pulpalı qalığı").
+entry(pomade, v, [pomaded,pomading,pomades], "ətirli saç baxımı tətbiq etmək").
+entry(pomander, n, [pomanderlər], "ətirli maddələrin qarışığı").
+entry(pomatum, n, [pomatumlar], "ətirli saç düzümü").
+entry(pombe, n, [pombes], "taxıldan və meyvədən hazırlanan Afrika içkisi").
+entry(pome, n, [pomes], "nüvəli ətli meyvə").
+entry(pomelo, n, [pomelos], "bir qreypfrut").
+entry(pomfret, n, [pomfrets], "dəniz balığı").
+entry(pommee, sif, [], "heraldik xaç üçün qovluğa bənzər ucluqlu qollara malik olmaq").
+entry(pommel, v, [yumruqladı,yumruqlamaqda,yumruqlar], "və ya YUMRUQLADI YUMRUQLAMAQDA YUMRUQLARla yumruqlamaq").
+entry(pomo, n, [pomos], "postmodern hərəkəti").
+entry(pomologiya, n, [pomologiyalar], "meyvələrin öyrənilməsi").
+entry(pomp, n, [pomps], "möhtəşəm və ya təmtəraqlı nümayiş").
+entry(pampano, n, [pampanolar], "dəniz qidası balığı").
+entry(pompom, n, [pompomlar], "zenit topu").
+entry(pompon, n, [pomponlar], "dekorativ saçaq və ya top").
+entry(təmtəraqlı, sif, [], "özünə yüksək qiymət verməklə xarakterizə edilən").
+entry(ponce, f, [ponced, poncing, ponces], "fağırlaşdırmaq").
+entry(ponço, n, [ponçolar], "bir növ paltarPONÇOLU sif").
+entry(göl, v, [gölləndi,göllənir,göllər], "kiçik bir su gövdesi olaraq göldə toplamaq").
+məlumat(ponder, v, [pondered, pondering, ponders], "nəyisə dərindən və hərtərəfli nəzərdən keçirmək").
+entry(ponderer, n, [düşünənlər], "düşünən biri").
+entry(su yosunu, n, [su yosunları], "suda yetişən bir bitki").
+entry(pone, n, [pones], "qarğıdalı çörəyi").
+entry(ponent, sif, [], "təsdiqedici").
+entry(pong, v, [pong etdi, pong edir, pong edir], "iy vermək").
+entry(pongal, n, [pongallar], "Tamil dilli Hindistanda bişmiş düyü yeməyi").
+entry(pongee, n, [pongees], "ipək növü").
+entry(pongid, n, [pongidlər], "bir antropoid meymun").
+entry(pongo, n, [pongos], "insansı meymun").
+entry(pongy, sif, [], "PONGIER PONGIESTpisləyir").
+entry(poniard, v, [poniarded,poniarding,poniards], "xəncərlə bıçaqlamaq").
+entry(ponied, keçmiş, [], "pony felinin keçmiş zamanı").
+entry(atlar, cari, [], "atın üçüncü şəxs tək").
+entry(pons, n, [pontlar], "beyində sinir liflərindən ibarət zolaq").
+entry(pontifex, n, [pontifices], "qədim Roma rahibi").
+entry(pontiff, n, [pontiffs], "papa və ya yepiskop").
+entry(pontifik, sif, [], "papaya və ya yepiskopa aid olan").
+entry(pontifices, pl, [], "pontifiklərin").
+entry(pontil, n, [pontils], "puntil").
+entry(pontine, sif, [], "körpülərə aid").
+entry(ponton, n, [pontlar], "pontoon").
+entry("pontun", n, ["pontunlar"], "düz dibli qayıq").
+entry(poni, f, [ponilər,ponir,ponilər], "sözbəsöz tərcümənin köməyi ilə dərsləri hazırlamaq").
+entry(at quyruğu, n, [at quyruqları], "bir saç düzümü").
+entry(ponzu, n, [ponzus], "əsasən dəniz məhsullarında istifadə edilən turş sous").
+entry(poo, v, [pooed,pooing,poos], "nəcisləmək").
+entry(poobah, n, [poobahlar], "nüfuzlu şəxs").
+entry(pooch, v, [pooched,pooching,pooches], "şişmək").
+entry(pud, isim, [pudlar], "rus ağırlıq vahidi").
+entry(pudel, n, [pudellər], "ağır tüklü it").
+entry(poof, nida, [], "ani hadisəni ifadə etmək üçün istifadə olunur").
+entry(pooh, v, [poohed,poohing,poohs], "ikrah ifadə etmək üçün").
+entry(puja, n, [pujalar], "puja").
+entry(pooka, n, [pookas], "İrlandiya miflərində bir hobqoblin").
+entry(hovuz, v, [hovuzlanmış, hovuzlama, hovuzlar], "ümumi bir fonda birləşdirmək").
+entry(pooler, n, [poolers], "hovuzlayan").
+giriş(bilyardxana, n, [bilyardxanalar], "bilyard otağı").
+entry(bilyard otağı, n, [bilyard otaqları], "bilyard oynamaq üçün müəssisə").
+entry("hovuz yanı", n, ["hovuz yanları"], "üzgüçülük hovuzunun ətrafında olan sahə").
+entry(poon, n, [pooniar], "Şərqi Hindistan ağacı").
+entry(nəcisləmək, v, [nəcis, nəcis etmək, nəcis edir], "yorğun düşmək").
+giriş(poopy, sif, [], "POOPIER POOPIESTdəli ya da faydasız").
+entry(kasıb, sif, [], "POORER POORESTdəstək vasitələrinə malik olmamaq").
+entry(poori, n, [pooris], "yüngül düz buğda keks").
+entry(poorish, sif, [], "bir qədər kasıb").
+entry(səviyyəsiz, zərf, [], "səviyyəsiz bir şəkildə").
+entry(kasıblıq, n, [kasıblıqlar], "kasıb olmaq vəziyyəti").
+entry(poortith, n, [poortiths], "yoxsulluq").
+entry(poorwill, n, [poorwills], "kiçik Şimali Amerika quşu").
+entry(pop, v, [partladı, partlayır, partlayar], "kəskin partlayış səsi çıxarmaq").
+entry(partlamış qarğıdalı, n, [qarğıdalılar], "qarğıdalının bir növü").
+entry(papa, n, [papalar], "Roma Katolik Kilsəsinin başçısıPAPASIZ PAPAYABƏNZƏR sif").
+entry(popedom, n, [popedoms], "papalıq vəzifəsi").
+entry(popeyed, sif, [], "ağzı bərəli gözlərə sahib olan").
+entry(popgun, n, [oyuncaq_tapanca], "oyuncaq tapanca").
+entry(təkəbbürlü, n, [təkəbbürlülər], "özündən razı olan şəxs").
+entry(qovaq, n, [qovaqlar], "tez böyüyən ağac").
+entry(poplin, n, [poplinlər], "davamlı parça").
+entry(poplitei, npl, [], "dizlərin arxasındakı əzələlər").
+entry(poplitik, adj, [], "dizin arxasındakı ayaq hissəsinə aid olan").
+giriş(popout, n, [popoutlar], "beysbolda bir növ aut").
+entry(popover, n, [popoverlər], "çox yüngül yumurta mafini").
+entry(poppa, n, [poppas], "ata").
+entry(poppadom, n, [poppadoms], "papadum").
+entry(poppadum, n, [papadumlar], "papadum").
+entry(popped, keçmiş, [], "pop felinin keçmiş zamanda forması").
+entry(popper, n, [poppers], "pop edən").
+entry(poppet, n, [poppetlər], "mexaniki klapan").
+entry(poppied, sif, [], "gelinciklərlə örtülmüş").
+entry(xaş-xaşlar, pl, [], "xaş-xaş").
+entry(popping, indiki zaman, [], "pop felinin iştirakçısı").
+entry(popple, v, [poppled,poppling,popples], "qaynayan və ya dalğalı şəkildə hərəkət etmək").
+entry(popply, sif, [], "POPPLIER POPPLIESTdalğalı").
+entry(gəlincik, n, [gəlinciklər], "çiçəkli bitki").
+entry(gəldi, sif, [], "POPPIER POPPIEST pop musiqisinin xüsusiyyətlərinə malik olmaq").
+entry(popsi, n, [popsilər], "popsi").
+entry(popster, n, [pop hirsasları], "pop musiqiçisi").
+entry(popsy, n, [popsies], "bir sevgili").
+entry(xalq, n, [xalq], "adi insanlar").
+entry(populyar, sif, [], "çox adam tərəfindən bəyənilən").
+entry(məskən_salmaq, f, [məskən_salınmış,məskən_salınır,məskən_salar], "məskunlaşmaq").
+entry(populizm, n, [populizmlər], "populist doktrinalar").
+entry(populist, n, [populistlər], "ümumi insanları təmsil edən partiyanın üzvü").
+entry(populous, sif, [], "çoxlu sakinləri olan").
+entry(tür, n, [türlər], "bir binanın girişində örtülü bir yapıPORCHED adj").
+entry(donuz, sif, [], "donuzlara aid").
+entry(porcini, n, [porcinis], "yeməli göbələk").
+entry(donuz, n, [porcini], "porcini").
+entry(pore, v, [baxmaqda,baxmalar,baxır], "diqqətlə baxmaq").
+entry(porgi, n, [porgilər], "dəniz qida balığı").
+entry(porin, n, [porinlər], "molekulların diffuziya edə bildiyi zülal siniflərindən biri").
+entry(porism, n, [porizmlər], "riyazi təklif növü").
+entry(donuz, v, [donuzladı,donuzlayır,donuzlar], "şiddətli iştahla yemək").
+entry(dombo, n, [dombalar], "donuz").
+entry(porkier, müqayisəli, [], "porky'dən").
+entry(porkies, pl, [], "çuğundurlar").
+entry(porkiest, superlative, [], "porkinin").
+entry(donuz piroqu, n, [donuz piroqları], "bir kişinin şlyapası").
+entry(porkwood, n, [porkwoods], "tropik ağac").
+entry(porky, sif, [], "DONUZƏ BƏNZƏYƏN DONUZLARA BƏNZƏYƏN").
+entry(porki, n, [porkilər], "bir kirpi").
+entry(porn, n, [porns], "pornoqrafiya").
+entry(porno, n, [pornolar], "pornoqrafiya").
+entry(porny, sif, [], "PORNİER PORNİESTpornoqrafik").
+entry(porose, sif, [], "gözenekli").
+entry(məsaməlilik, n, [məsaməliliklər], "məsaməli olma halı").
+entry(gözenekli, sif, [], "xırda açılışlara sahibPOROUSLY zərf").
+entry(porfir, n, [porfirlər], "maqmatik süxur").
+entry(marsu, v, [marsuladı,marsulayan,marsular], "yüksələn və enən hərəkətlərlə irəli hərəkət etmək").
+entry(porrect, sifət, [], "irəliyə uzadılmış").
+entry(yulaf sıyığı, n, [yulaf sıyığılar], "yumşaq bir yeməkYULAFLI sif").
+entry(port, v, [portlanmış,portlamaq,portlar], "sol tərəfə keçirmək").
+entry(daşına bilən, n, [daşıya bilənlər], "daşına bilən bir şey").
+entry(portably, adv, [], "daşınması mümkün olacaq şəkildə").
+entry(portaj, v, [portajed, portajing, portajlar], "naviqə olunan bir su yolundan digərinə daşımaq").
+entry(portal, n, [portal], "qapı, darvaza və ya girişPORTALED sif").
+entry(portance, n, [portances], "davranış").
+entry(portapak, n, [portapaks], "daşınan birgə video maqnitofon və kamera").
+entry(portend, v, [portended,portending,portends], "əlamət olmaq").
+entry(əlamət, n, [əlamətlər], "bir əlamət").
+entry(porter, v, [portered,portering,porters], "yük daşımaq üçün pul almaq").
+entry("gəmilərin yan tərəfindəki kiçik pəncərə", i, ["gəmilərin yan tərəfindəki kiçik pəncərələr"], "gəmilərin yan tərəfindəki kiçik pəncərə").
+entry(portik, n, [portiklər], "və ya PORTIKOESa eyvan növü").
+entry(portiere, n, [portierlər], "bir qapı üçün pərdə").
+entry(portion, v, [bölündü, bölünür, bölünür], "paylaşma üçün hissələrə bölmək").
+entry(portless, sifət, [], "gəmilərin yüklənməsi və ya boşaldılması üçün yerin olmaması").
+entry(portly, sif, [], "NİSBƏTƏN AĞIR VƏ YA KÖK").
+entry(portolan, n, [portolanlar], "dəniz naviqasiyası kitabı").
+entry(portret, n, [portretlər], "bir şəxsin təsviri").
+entry(təsvir etmək, v, [təsvir etdi,təsvir edir,təsvir edəcək], "təsviri şəkil ilə təqdim etmək").
+entry(portress, n, [portresses], "qadın qapıcı").
+entry(portside, adv, [], "gəmilərin qabağa baxan sol tərəfi").
+entry(pos, pl, [], "po üzrə").
+entry(posada, n, [posadalar], "bir mehmanxana").
+entry(poz, v, [pozdu,pozmədə,pozur], "sabit vəziyyət almaq üçün POZİLYƏN POZULA BİLƏN sif").
+entry(poser, n, [pozalar], "birini təyin edən").
+entry(pozur, n, [pozurlar], "təsirli və ya səmimiyyətsiz şəxs").
+entry(posey, sif, [], "DAHA TƏKƏBBÜRLÜ DAHA ƏN TƏKƏBBÜRLÜtəkəbbürlü").
+entry(posh, sif, [], "POSHER POSHEST dəbli və ya zərif POSHLY zf").
+entry(poshness, n, [poshnesses], "dəbdəbəliyin keyfiyyəti").
+entry(posies, pl, [], "posynin").
+entry(pozma, indiki, [], "poz fellinin participi").
+entry(posingly, adv, [], "poz verərək").
+giriş(yerləşdirmək, f, [yerləşdirdi,yerləşdirir,yerləşdirir], "yerləşdirmək").
+entry(position, v, [yerləşdirilmiş,yerləşdirmə,yerləşdirir], "xüsusi bir yerə qoymaq").
+entry(müsbət, sifət, [], "MÜSBƏT MÜSBƏTƏMiüəyyən").
+entry(müsbət, n, [müsbətlər], "sıfırdan böyük miqdar").
+entry(pozitron, n, [pozitronlar], "subatom hissəcik").
+entry(posole, n, [posoles], "donuz əti, qarğıdalı, sarımsaq və bibərdən ibarət qalın şorba").
+entry(posologiya, n, [posologiyalar], "dərman dozaləri ilə məşğul olan tibb sahəsi").
+entry(posse, n, [posses], "sülh zabitinə kömək etmək üçün çağırılan bir qrup kişi").
+giris(malikdir, f, [malikdir,malkdirolma,malikdirler], "mülkiyyət olaraq sahib olmaq").
+entry(posset, n, [possets], "isti ədviyyatlı içki").
+entry(mümkün, sif, [], "MÜMKÜN LƏR MÜMKÜN ÜST baş verə bilən və ya doğru sübut oluna bilənMÜMKÜN OLARAQ zərf").
+entry(mümkün, n, [mümkünlər], "bir ehtimal").
+entry(possum, n, [opossumlar], "opossum").
+entry(post, v, [poçtladı,poçtlayan,poçtlayır], "ictimai yerdə yerləşdirmək üçün").
+entry(pul_nişanı, n, [pul_nişanları], "bir əşyanın elektron poçtla göndərilməsi üçün tələb olunan məbləğ").
+entry(poqraf, n, [poqraflar], "bir poçt açıqcası").
+entry("poçtla", adv, [], "poçtla əlaqədar bir şəkildə").
+entry(postanal, sif, [], "anusun arxasında yerləşən").
+entry(postbag, n, [poçt çantaları], "bir poçt çantası").
+entry(postbase, sifət, [], "əsas sözdən sonra gələn").
+entry(postbox, n, [poçt qutuları], "poçt qutusu").
+entry(postboy, n, [postboys], "məktubları daşıyan oğlan").
+entry(postburn, sif, [], "yanıqdan sonra").
+entry(poçt açıqçası, n, [poçt açıqçaları], "poçtda istifadə üçün kart").
+entry(postcava, n, [postkavalar], "yüksək onurğalılarda bir damar").
+entry(ünvan_kodu, n, [ünvan_kodları], "poçt ünvanında istifadə olunan rəqəm və hərflərdən ibarət kod").
+entry(postcoup, adj, [], "çevrilişdən sonra").
+entry(postdate, v, [tarixdən_sonrakı, tarixdən_sonrakılar, tarixlərdən_sonralar], "faktiki tarixdən daha sonrakı bir tarix vermək").
+entry(postdive, sif, [], "dalışdan sonra").
+entry(postdoc, n, [postdoktorant], "postdoktorantura təhsili ilə məşğul olan şəxs").
+entry(postdrug, sifət, [], "dərman qəbulundan sonra").
+entry(posteen, n, [posteenlər], "Əfqan xarici geyimi").
+entry(afişa, v, [afişalanmış,afişalayan,afişalar], "ictimai elanları yerləşdirmək").
+entry(postern, n, [arxa qapılar], "arxa qapı və ya darvaza").
+giriş(epiloq, n, [epiloqlar], "nəşrin sonunda yerləşdirilən qısa qeydlər").
+entry(postfire, sifət, [], "yanğından sonra").
+entry(postfix, v, [sonluqla, sonluqlama, sonluqlar], "bir şeyin sonuna əlavə etmək").
+entry(postformal, v, [postformalaşdırılmış,postformalaşdırma,postformalaşdırır], "sonralar formalaşdırmaq").
+entry(postgame, sif, [], "oyundan sonra").
+entry(məzuniyyət), n, [məzunlar], "məzuniyyətdən sonra təhsilini davam etdirən tələbə").
+giriş(postheat, n, [postheats], "qaynaqlamadan sonra metala tətbiq edilən istilik").
+entry(dirəkçəyi, n, [dirəkçəyinlər], "çəpərə dirək üçün bir deşik").
+entry(postiche, n, [postiches], "imitasiya").
+entry(postie, n, [postdaşıyanlar], "məktub daşıyıcısı").
+entry(postin, n, [postins], "posteen").
+entry(posting, n, [postings], "uçota keçirmə aktı").
+entry(postique, n, [postiques], "saxta saç").
+entry(postlude, n, [postludes], "bağlanış musiqi parçası").
+entry(postman, n, [postmen], "poçtalyon").
+entry(poçt nişanı, v, [nişanlandı,nişanlanma,poçt nişanları], "poçtu rəsmi bir işarə ilə damğalamaq").
+entry(postop, n, [postops], "cerrahi əməliyyatdan sonra olan xəstə").
+entry(postoral, sif, [], "ağzın arxasında yerləşən").
+entry(postpaid, adv, [], "poçt ödənişi əvvəlcədən ödənilmiş").
+entry(təxirə_salmaq, v, [təxirə_saldı,təxirə_salan,təxirə_salır], "gələcək vaxta təxirə salmaq").
+entry(postpose, v, [sonra-qoyulmuş,sonra-qoyma,sonra-qoyur], "qrammatik cəhətdən əlaqəli sözdən sonra sözün və ya ifadənin yerləşdirilməsi").
+entry(postpunk, sif, [], "pank rokdən sonra gələn musiqiyə aid").
+entry(postrace, sif, [], "yarişdan sonra").
+entry(postriot, sif, [], "qarışıqlıqdan sonrakı").
+entry(postshow, adj, [], "bir şoudan sonra").
+entry(postsync, v, [postsynced, postsyncing, postsyncs], "səhnənin çəkilişindən sonra filmə səs əlavə etmək").
+entry(posttax, sif, [], "vergilərdən sonra qalan").
+entry(postyeniyetme, n, [postyeniyetmelər], "19 yaşdan böyük bir şəxs").
+entry(posttest, n, [posttests], "tədris proqramından sonra verilən test").
+entry(postural, sif, [], "bədənin mövqeyinə aid").
+entry(duruş, v, [durdu,duran,duruşlar], "müəyyən bir mövqe tutmaq").
+entry(posturer, n, [posturers], "poz verən biri").
+entry(müharibədənsonra, sif, [], "müharibədən sonra baş verən və ya mövcud olan").
+entry(posy, n, [posies], "bir çiçək və ya buket").
+giriş(qazan, f, [qazanda,qazanda,qazanlar], "dərin, dairəvi konteynerə qoymaq").
+entry(potable, n, [potables], "içməyə yararlı maye").
+entry(potaj, n, [potajlar], "qalın şorba").
+entry(potamik, sif, [], "çaylara aid").
+entry(potaş, n, [potaşlar], "qələvi bir birləşmə").
+entry(potassik, sifət, [], "metal elementi olan kaliumla əlaqəli").
+entry(potation, n, [potations], "içmək hərəkəti").
+entry(kartof, n, [kartoflar], "məhsul bitkisinin yeyilən yumrusu").
+entry(potatory, sif, [], "içkiyə aid olan").
+entry(qarnıçıq, n, [qarnıçıqlar], "irəli çıxan qarın bölgəsi").
+entry(potboil, v, [potboiled,potboiling,potboils], "zəif ədəbi və ya bədii əsər yaratmaq").
+entry(potbound, sif, [], "konteyneri üçün çox böyük olan").
+entry(potboy, n, [potboys], "müştərilərə tavernada xidmət edən oğlan").
+entry(poteen, n, [poteensi], "qanunsuz distillə olunan irland viskisi").
+entry(potence, n, [potences], "potensiya").
+entry(güc, n, [güclər], "güclü olma keyfiyyəti").
+entry(potent, sif, [], "güclüGÜCLÜCƏ şəkildə zərf").
+entry(potful, n, [potfuls], "bir qazanın tuta biləcəyi qədər").
+entry(pothed, n, [pothedlər], "marixuana çəkən").
+entry(potheen, n, [potheens], "potin").
+entry(pother, v, [narahat etdi, narahat edir, narahat edir], "narahat etmək").
+entry(potherb, n, [xor-xor], "hər hansı yemək və ya ədviyyat kimi istifadə olunan ot").
+entry(çala, n, [çalar], "yolda olan dərin çuxurÇALALI sif").
+entry(potholer, n, [potholerlər], "dərin yeraltı dəlikləri və ya mağaraları araşdıran şəxs").
+entry(qazan_qandali, n, [qazan_qandalları], "qazanları qaldırmaq və ya asmaq üçün qandal").
+entry(potos, n, [potos], "parlaq rəngarəng yarpaqlara malik bir dırmaşan bitki").
+entry(pivəxana, n, [pivəxanalar], "meşə").
+entry(potiş, n, [potişlər], "vazo növü").
+entry(dərman, n, [dərmanlar], "sehrli və ya tibbi içki").
+entry(potlaç, n, [potlaçlar], "mərasim ziyafəti").
+entry(potlache, n, [potlaches], "potlaç").
+entry(potlatch, v, [potlatched,potlatching,potlatches], "təntənəli ziyafət təşkil etmək").
+entry(potabənzər, sifət, [], "bir qabı xatırladan").
+entry(potline, n, [potlines], "elektroliz hüceyrələrinin bir sırasi").
+entry(qazanaşkı, n, [qazanaşqılar], "tesadüfən mövcud olan yemək").
+entry(potman, n, [potmen], "müştərilərə tavernada xidmət edən bir kişi").
+entry(potpie, n, [potpies], "ət və tərəvəzlərdən ibarət təbəqə piroqu").
+entry(qab-para, n, [qab-paralar], "qab-para").
+entry(qab-qaçaq, n, [qab-qaçaqlar], "sınmış saxsı qab parçası").
+entry(potshot, v, [potshot,potshotting,potshots], "təsadüfi atəş açmaq").
+entry(potsie, n, [potsies], "potsi").
+entry(potstone, isim, [potstones], "sətit növlərindən biri").
+entry(potsy, n, [potsies], "uşaq oyunu").
+entry("qaraşı", n, ["qaraşlar"], "qalın şorba").
+entry(potted, keçmiş, [], "potun zamanı").
+entry(potteen, n, [potteens], "poteen").
+entry(potter, v, [potəred,potəredmə,potəredənlər], "təmir etmək").
+entry(potterer, n, [potterers], "çəlləklə məşğul olan şəxs").
+entry(saxsı, n, [saxsılar], "gildən hazırlanmış və istiylə bərkidilmiş qab-qacaq").
+entry(pottier, müqayisəli, [], "çox dəlisov").
+entry(potties, pl, [], "noc qabı").
+entry(pottiest, əvəzedici_dərəcə, [], "potty-dən").
+entry(potting, indiki, [], "pot-mək iştirakçı").
+entry(pottle, n, [pottles], "içmə qabı").
+entry(potto, n, [pottos], "tropik Afrikada yaşayan bir lemur").
+entry(potty, sif, [], "ƏHƏMİYYƏTSİZ POTTİESTof kiçik əhəmiyyətli").
+entry(poty, n, [potilər], "kiçik tualet oturacağı").
+giriş(potzer, n, [potzers], "patzer").
+entry(pouch, v, [pouched,pouching,pouches], "kiçik elastik bir qab olan kisəyə qoymaq").
+entry(pouchy, sif, [], "ÇANTAYA BƏNZƏYƏN").
+entry(puf, n, [puflər], "yumşaq bir saç rulonu").
+entry(puf, n, [puflər], "pufPUFLAYAN sif").
+entry(puf, n, [puflər], "puf").
+entry(poulard, n, [poulards], "qısır toyuq").
+entry(poularde, n, [poulardes], "poulaq").
+entry(poult, n, [poults], "gənc ev quşu").
+entry(poulter, n, [poulters], "quşçuluqla məşğul olan şəxs").
+entry(poultice, v, [poulticed,poulticing,poultices], "müalicəvi maddə tətbiq etmək").
+entry(quşçuluq, i, [quşçuluqlar], "yumurta və ya ət üçün saxlanılan ev quşları").
+entry(hücum, f, [hücum etdi,hücum etməkdədir,hücum edir], "ani hücum etmək və ya yaxınlaşmaq").
+entry(pouncer, n, [pouncers], "hucuma kecən").
+entry(funt, f, [funtu,funtlamaq,funtlar], "ağır və təkrarən vurmaq").
+Giriş(funtaj, n, [funtajlar], "müsadirə aktı").
+entry(poundal, n, [poundal], "qüvvə vahidi").
+entry(funtçu, n, [funtçular], "funtlayan biri").
+entry(tökmək, v, [tökdü,tökülmə,tökər], "axmağa səbəb olmaqTÖKÜLƏ BİLƏN sif").
+entry("tökmə cihazı", n, ["tökmə cihazları"], "tökən birisi").
+entry(poussie, n, [poussilər], "pişik").
+entry(dodaq-büzmək, v, [büzdü,büzür,büzer], "əhval-ruhiyyə ilə dodaqları irəli çıxartmaq").
+entry(pouter, n, [pouters], "qaşqabaqlı olan").
+entry(poutful, sif, [], "pouty").
+entry(poutin, isim, [poutinlər], "fransız kartofu və pendir parçaları ilə hazırlanmış, üzərinə sos əlavə edilən yemək").
+giriş(dodaqlı, sif, [], "DARILAN DARINAQtendensiya").
+entry(kasıblıq, n, [kasıblıqlar], "yoxsul olmaq vəziyyəti").
+entry(pow, n, [pows], "partlayış səsi").
+entry(toz, f, [tozladı,tozlama,tozlar], "incə bölünmüş vəziyyətdə toza çevirmək").
+entry(powderer, n, [powderers], "tozlayan").
+entry(tozlu, sif, [], "tozu xatırladan").
+giriş(gücləndirmək, v, [gücləndirilmiş,gücləndirən,gücləndirir], "təkan vasitələri ilə təmin etmək").
+entry(güclü, sifət, [], "böyük qüvvəyə malik").
+entry(powter, n, [powters], "ev göyərçini").
+entry(powwow, v, [powwowed,powwowing,powwows], "konfrans keçirmək").
+entry(pox, f, [poxed,poxing,poxes], "dəri səpgiləri ilə müşayiət olunan bir xəstəliklə yoluxdurmaq").
+entry(poxvirus, n, [poxviruslar], "virus növü").
+entry(poxy, sif, [], "POXIER POXIESTpox ilə yoluxmuş").
+entry(poyou, n, [poyous], "Argentina tənbəl heyvanı").
+entry(pozole, n, [pozoles], "posole").
+entry(pozzolan, n, [pozzolanlar], "sement hazırlamaq üçün istifadə olunan incə dənəli material").
+entry(praam, n, [praamlar], "praam").
+entry(məhsuli, sif, [], "praktik").
+entry(təcrübə, f, [təcrübəli, təcrübəedən, təcrübələr], "bacarıq qazanmaq üçün tez-tez icra etmək").
+entry(məşq etmə, f, [məşq etdi,məşq edir,məşq edir], "təcrübə etmək").
+entry(praecipe, n, [praecipes], "hüquqi qərar").
+entry(praedial, sif, [], "torpağa aid").
+entry(praefect, n, [praefects], "prefekt").
+giriş(praelect, v, [praelected,praelecting,praelects], "mühazirə oxumaq üçün").
+entry(praetor, n, [praetors], "qədim Roma məhkəmə hakimi").
+entry(prahu, n, [prahular], "prau").
+entry(prairi, n, [prairilər], "otluq sahəsi").
+entry(tərif, f, [tərif etdi, tərifləyən, tərifləyir], "razılıq və ya heyranlıq ifadə etmək").
+entry(praiser, n, [tərənnüm edənlər], "tərifləyən biri").
+entry(prajna, n, [prajnas], "Buddist və Hindizmdə ən ali bilik").
+entry(pralin, n, [pralinlər], "şəkərdə bişirilmiş qoz-fındıqdan hazırlanmış bir konfet").
+entry(pram, n, [pramlar], "düz dibli qayıq").
+entry(prana, n, [praanalar], "Hindizmdə həyati qüvvə kimi nəfəs").
+entry(prance, v, [pranced,prancing,prances], "arxa ayaqlar üzərində irəli sıçramaq").
+entry(prancer, n, [prancerlər], "şax-şax yeriyən biri").
+entry(prandial, adj, [], "yemək ilə bağlı").
+entry(prang, f, [vurdu,vurmaqda,vurur], "to cause to crash").
+entry(prank, v, [pranked,pranking,pranks], "dəbdəbəli bəzəmək").
+giriş(şıltaq, sif, [], "sözqəm").
+entry(prao, n, [praos], "prau").
+entry(prase, n, [praselər], "mineral").
+entry(prat, n, [pratlar], "bud nahiyəsi").
+entry(prate, v, [prated,prating,prates], "danıșmaq").
+entry(prater, n, [praters], "çox danışan biri").
+entry(pratfall, n, [anayixlar], "ayaq üstə yıxılma").
+pratie(giris, n, [praties], "kartof").
+entry(pratique, n, [pratiques], "liman səhiyyə qurumu tərəfindən bir gəmiyə verilən icazə").
+entry(çərənləmək, f, [çərənlədi, çərənləyən, çərənləyir], "çərənləmək").
+entry(prattler, n, [prattlers], "boşboğazlıq edən").
+entry(prau, n, [praus], "sürətli Malayziya yelkənli gəmisi").
+giriş(qambər, f, [qambərlədi,qambərləmə,qambərlər], "yeyiləbilən qabıqlı dəniz heyvanı olan qamberi tutmaq").
+entry(krevet tutan, n, [krevet tutanlar], "krevet tutan şəxs").
+entry(praxis, n, [praktikalar], "və ya PRAXES nəzəriyyənin praktik istifadəsi").
+entry(dua_etmək, f, [dua_etdi, dua_edən, dua_edir], "duaları birinə ünvanlamaq üçün").
+entry(dua, n, [dualar], "ilahiyyata edilən səmimi bir müraciət").
+entry(vaz etmək, f, [vaz etdi, vaz etməkdədir, vaz edir], "təklif etmək və ya tövsiyə etmək").
+entry(vəzg edən, n, [vəzg edənlər], "vəzg edən biri").
+entry(məktəbcil, sif, [], "MƏKTƏBCİL DƏRSVERİCİtədris etmək meylində olmaq").
+entry(preact, f, [əvvəlcədən etdik, əvvəlcədən etmək, əvvəlcədən edir], "öncədən hərəkət etmək").
+entry(preadapt, v, [əvvəlcədən uyğunlaşdırılmış, əvvəldən uyğunlaşdıran, əvvəlcədən uyğunlaşdırır], "öncədən uyğunlaşdırmaq").
+entry(preadmit, v, [öncədən qəbul edilmiş, öncədən qəbul edərkən, öncədən qəbul edir], "əvvəlcədən qəbul etmək").
+entry(preadopt, v, [öncədən, qəbul edilmiş, qəbul edir], "əvvəlcədən övladlığa götürmək").
+entry(yeniyetmə, n, [yeniyetmələr], "hələ yetkin olmayan şəxs").
+entry(preaged, adj, [], "əvvəlcədən yaşlanmış").
+entry(preallot, v, [əvvəldən ayrılmış,əvvəldən ayırma,əvvəldən ayırır], "əvvəlcədən ayırmaq").
+entry(prealter, v, [prealtered,prealtering,prealters], "əvvəlcədən dəyişdirmək").
+entry(muqəddimə, n, [muqəddimələr], "giriş bəyanatı").
+entry(preamp, n, [ön gücləndirici], "gücləndirici").
+entry(preanal, sif, [], "anusun önündə yerləşən").
+entry(preapply, v, [əvvəlcə_tətbiq_edilmiş,əvvəlcə_tətbiq_edən,əvvəlcə_tətbiq_edər], "əvvəlcədən tətbiq etmək").
+entry(prearm, v, [öncədən silahlanmış, öncədən silahlanma, öncədən silahlanır], "əvvəlcədən silahlandırmaq").
+entry(preaudit, n, [preaudits], "əməliyyatın yekun hesablaşmasından əvvəl aparılan audit").
+entry(preaver, v, [preaverred,preaverring,preavers], "əvvəlcədən bəyan etmək və ya iddia etmək").
+giriş(preaxial, sifət, [], "oxun qarşısında yerləşən").
+entry(əvvəlyeni, v, [əvvəlyenmiş, əvvəlyenən, əvvəlyenir], "əvvəlcədən bişirmək").
+entry(prebasal, sif, [], "bir bazanın önündə yerləşən").
+entry(məvacib, n, [məvaciblər], "ruhani maaşı").
+entry(prebid, v, [önbazar,önbazarlandı,önbazarlanma], "PREBID əvvəlcədən təklif vermək").
+giriş(prebill, v, [prebilled,prebilling,prebills], "öncədən hesab göndərmək").
+entry(oncedən_bağla, v, [oncedən_bağlandı,oncedən_bağlama,oncedən_bağlar], "əvvəlcədən bağlamaq").
+prebirth(yarannuc, i, [yaranmaqdan əvvəlki dövrlər], "uşağın doğulmasından əvvəlki dövr").
+entry(prebless, v, [öncədən_bərəkət_verilmiş,öncədən_bərəkət_vermə,öncədən_bərəkət_verir], "əvvəlcədən bərəkət vermək").
+entry(preboard, v, [öncədənminmə,öncədənminən,öncədənminir], "müntəzəm vaxtdan əvvəl minmək").
+entry(preboil, v, [ilqaraqaynadılmış, ilqaraqaynayan, ilqaraqaynayır], "əlqabaqcadan qaynatmaq").
+entry(prebook, v, [əvvəldən_bron edilmişdir,əvvəldən_bron,əvvəldən_bron_edir], "əvvəldən bron etmək").
+entry(preboom, sifət, [], "biznesin qəfil genişlənməsindən əvvəlki").
+entry(prebound, keçmiş, [], "prebind zaman forması").
+entry(oncəqurmaq, v, [öncəqurulmuş,öncəqurma,öncəqurmalar], "əvvəlcədən qurmaq").
+giriş(əvvəlal, f, [əvvəldəaldı,əvvələralmaq,əvvəlalar], "əvvəlcədən almaq").
+entry(precast, v, [önşəkil,önşəkilləmə,önşəkillər], "yerləşdirməzdən əvvəl tökmək").
+entry(precava, n, [precavae], "yüksək onurğalılarda bir damarPRECAVAL sif").
+entry(əvvəllə, f, [əvvəllədi, əvvəlləyən, əvvəlləir], "önündə getmək üçün").
+entry(precent, v, [precented,precenting,precents], "kilsə xorunu mahnı oxumaqda idarə etmək").
+entry(qanun, n, [qanunlar], "davranış qaydası").
+entry(precess, v, [precessed,precessing,precesses], "mürəkkəb hərəkətlə fırlanmaq").
+entry(precheck, v, [əvvəlcədən-yoxlanılıb,əvvəlcədən-yoxlanılır,əvvəlcədən-yoxlayır], "əvvəlcədən yoxlamaq").
+entry(prechill, v, [prechilled,prechilling,prechills], "əvvəlcədən soyutmaq").
+giriş(seçmişdi, keçmiş, [], "əhvalını əvvəlcədən seçmək").
+entry(precieux, sif, [], "həddindən artıq incə").
+entry(ərazi, n, [ərazilər], "şəhər və ya qəsəbənin bir bölməsi").
+entry(əziz, n, [əzizlər], "əziz biri").
+entry(yagis, n, [yagislar], "yağış").
+entry(precipe, n, [arxivlər], "praecipe").
+entry(precis, v, [dəqiqləşdirildi,dəqiqləşdirir,dəqiqləşdirir], "qısa xülasə hazırlamaq").
+entry(dəqiq, sif, [], "DAHA DƏQİQ ƏN DƏQİQdəqiq və aydın şəkildə təyin edilmiş").
+entry(öncəgöstərilən, sif, [], "əvvəl göstərilmiş").
+entry(preclean, v, [öncədən_təmizləndi,öncədən_təmizlənmə,öncədən_təmizləyir], "əvvəldən təmizləmək").
+giriş(previzaj, v, [previzə edilmiş, previzə edilməsi, previzə edir], "əvvəlcədən təmizləmək").
+entry(əngəlləmək, v, [əngəllədi, əngəlləyir, əngəlləyir], "əvvəlki hərəkət ilə qeyri-mümkün etmək").
+entry(precode, v, [əvvəlcədən_kodlanmış, əvvəlcədən_kodlama, əvvəlcədən_kodlanır], "əvvəlcədən kodlamaq").
+entry(önbişirmək, f, [önbişirilmiş,önbişirmə,önbişirir], "əvvəlcədən bişirmək").
+giriş(önsoyutmaq, f, [önsoyudulmuş,önsoyutma,önsoyutur], "əvvəlcədən soyutmaq").
+entry(darbedən əvvəlki, sifət, [], "çevrilişdən əvvəl").
+entry(qəzadan əvvəl, sifət, [], "qəza qabağı").
+entry(precure, f, [precured, precuring, precures], "əvvəlcədən sağaltmaq").
+entry(precut, v, [önkəsmək,önkəsmə,önkəsmələr], "əvvəlcədən kəsmək").
+giriş(əvvəltarixləndirmək, f, [əvvəltarixləndirdi,əvvəltarixləndirir,əvvəltarixləndir], "gerçək və ya təyin olunmuş zamandan əvvəl tarixləndirmək").
+entry(yırtıcı, n, [yırtıcılar], "talayan biri").
+entry(sübhqabağı, n, [sübhqabağılar], "dan yerindən əvvəl vaxt").
+entry(olumqabaqi, n, [olumqabaqlari], "Bir şəxsin ölümündən əvvəlki dövr").
+entry(predella, n, [predellas], "altar hissəsinin təməli").
+entry(predial, sif, [], "praedial").
+entry(predict, v, [təxmin etdi,təxmin edir,təxmin edəcək], "əvvəlcədən xəbər vermək və ya danışmaq").
+giriş(öncədayandı, sif, [], "dalışdan əvvəl").
+predraft(kəsr, adj, [], "peşəkar komandalar üçün oyunçuların seçilmə sisteminə əvvəlcədən yer vermək").
+entry(predrill, v, [predrilled, predrilling, predavajholes], "öncədən deşmək").
+entry(predry, v, [qabaqcadurudulmuş,qabaqcadurudulma,qabaqcadurudur], "əvvəlcədən qurutmaq").
+entry(predusk, n, [axşamüstü], "alatorandan bir az əvvəlki vaxt").
+entry(pree, v, [preed,preeing,prees], "dadmaqla sınamaq").
+entry(preedit, v, [əvvəlcədən_redaktə_olundu, əvvəlcədən_redaktə_etmək, əvvəlcədən_redaktələr], "əvvəlcədən redaktə etmək").
+entry(preelect, v, [preelected,preelecting,preelects], "əvvəlcədən seçmək və ya təyin etmək").
+entry(vaxtından əvvəl doğulmuş körpə, n, [vaxtından əvvəl doğulmuş körpələr], "vaxtından əvvəl doğulmuş uşaq").
+entry(maneə, v, [maneə edilmiş,maneə olma,maneə], "əvvəlcədən hüquq əsasında əldə etmək").
+entry(təmizlə, f, [təmizlədi,təmizləyir,təmizləyir], "dimdik və ya dil ilə hamarlaşdırmaq və ya təmizləmək").
+entry(preenact, v, [preenacted,preenacting,preenacts], "əvvəlcədən qüvvəyə mindirmək").
+entry(preener, n, [təmizləyənlər], "təmizləyən biri").
+entry(preerect, v, [preerected, preerecting, preerects], "əvvəlcədən ucaldır").
+entry(mövcud olmaq, v, [mövcud oldu, mövcud olan, mövcuddur], "əvvəl mövcud olmaq").
+giriş(modul, v, [modullar,modullaşdırma,modullar], "əvvəlcədən qurmaq").
+giriş(müqəddimə, v, [müqəddimələndi,müqəddimələnmə,müqəddimələr], "giriş bəyanatı ilə təmin etmək").
+entry(prefaser, n, [prefaserlər], "ön söz yazan").
+entry(prefade, v, [əvvəlcədən solğun, əvvəlcədən solur, əvvəlcədən solur], "əvvəlcədən solmaq").
+entry(prefect, n, [prefektlər], "qədim Roma məmuru").
+entry(tərcih_etmək, v, [tərcih_olunan,tərcih_edən,tərcih_edir], "daha yüksək qiymətləndirmək və ya hörmət göstərmək").
+entry(prefight, sif, [], "döyüşdən əvvəl").
+entry(prefile, v, [əvvəlcədən_təqdim_etmə,əvvəlcədən_təqdim_etməyi,əvvəlcədən_təqdim_edir], "əvvəlcədən təqdim etmək").
+entry(prefire, v, [prefired,prefiring,prefires], "əvvəlcədən atəş açmaq").
+entry(prefix, v, [prefikslə,prefiksləmək,prefikslər], "kök sözün əvvəlinə əlavə olunan forma olaraq ön şəkilçi əlavə etmək").
+entry(prefixal, adj, [], "əvvəlgələ aid or əvvəlgə olmaq").
+entry(preflame, sif, [], "alovdan əvvəl").
+entry(prefocus, v, [prefocused,prefocusing,prefocuses], "əvvəlcədən diqqət yetirmək üçün ya da ƏVVƏLCƏDƏN DİQQƏT YETİRİLMİŞDİR ƏVVƏLCƏDƏN DİQQƏT YAYMAQ ƏVVƏLCƏDƏN DİQQƏT YAYIR").
+entry(əvvəlcədən_hazırla, f, [əvvəlcədən_hazırladı, əvvəlcədən_hazırlayır, əvvəlcədən_hazırlayır], "əvvəlcədən formalaşdırmaq").
+entry(prefrank, v, [öncədən_franked,öncədən_franking,öncədən_franks], "öncədən frank etmək").
+entry(prefund, v, [önmaliyyələşdirilmiş, önmaliyyələşdirmə, önmaliyyələşdirmələr], "əvvəlcədən maliyyələşdirmək").
+entry(oyun_öncəsi, n, [oyun_öncələri], "oyundan əvvəlki dövr").
+entry(hamilə, adj, [], "pregnant").
+entry(hamilə, adj, [], "uşaqlıqda inkişaf etməkdə olan dölü daşıyan").
+entry(oncədən_yönləndirmə, v, [oncədən_yönləndirilmiş, oncədən_yönləndirmə, oncədən_yönləndirir], "əvvəlcədən yönləndirmək").
+entry(müxtəlif, v, [müxtəlifdi, müxtəlifdir, müxtəliflər], "əvvəlcədən qızdırmaq").
+entry(prehuman, n, [əcdaşlar], "insanın prototipi").
+entry(onucunu əvvəldən mühakimə etmək, v, [öncədən mühakimə olunmuş, öncədən mühakimə etmə, öncədən mühakimə edir], "əvvəldən mühakimə etmək").
+entry(prelacy, n, [prelacies], "yeparxiyanın vəzifəsi").
+entry(prelat, n, [prelatlar], "yüksək rütbəli ruhanivəziyyətli PRELATIC sif").
+entry(hüquqöncəsi, sif, [], "hüququn peşəkar şəkildə öyrənilməsindən əvvəlki").
+entry(prelect, v, [məruzə etdi,məruzə etmək,məruzə edir], "məruzə etmək").
+entry(prelegal, sif, [], "qanun təhsili başlamazdan əvvəl baş verən").
+entry(prelife, n, [prelives], "fiziki dünyadakı həyatdan öncə yaşandığı kimi təsəvvür edilən bir həyat").
+entry(prelim, n, [prelims], "ilkin qarşılaşma").
+entry(məhdudlaşdırmadanöncə, v, [məhdudlaşdırılanöncə,məhdudlaşdırmaöncə,məhdudlaşdırıröncə], "əvvəlcədən məhdudlaşdırmaq").
+entry(doldurmaq, v, [doldurulmuş,doldurulur,doldurur], "əvvəlcədən yükləmək").
+entry(prelyud, v, [prelyudlər,prelyudla,prelyud,], "musıqi girişini ifa etmək").
+entry(preluder, n, [preluders], "prelüd edən").
+entry(naharyemeyi, sif, [], "nahardan qabaq").
+entry(hazır, sifət, [], "əvvəlcədən hazırlanmış").
+entry(preman, n, [premen], "insanin ehtimalı əcdadıPREMEAL yeməkdən əvvəlPREMED n pl PREMEDStibb təhsili alan tələbəPREMEDIC n pl PREMEDICLasan təhsili alan tələbəPREMEN pl of premanPREMIE n pl PREMIESvaxtından əvvəl doğulmuş uşaqPREMIER n pl PREMIERSbaş nazirPREMIERE v PREMIERED PREMIERING PREMIEREspremyerasını göstərməkPREMISE v PREMISED PREMISING PREMISEsilkin olmasını əvvəlcədən göstərməkPREMISS n pl PREMISSESməntiqdə təklifPREMIUM n pl PREMIUMSəlavə ödənişPREMIX v PREMIXED or PREMIXT PREMIXING PREMIXEStərəfindən hazırlanmışPREMOLAR n pl PREMOLARSaəlavə dişPREMOLD v PREMOLDED PREMOLDING PREMOLDSdaha əvvəl hazırlanmış olduğuna görə bilinənPREMOLT adj molt etmədən əvvəlPREMORAL adj əxlaqı inkişafdan əvvəlPREMORSE adj kəsilmiş kimi bitənPREMOTOR adj frontal beyin lobunun bir hissəsi ilə bağlıdırPREMUNE adj bir xəstəliyə qarşı dayanıqlıPR...
+entry(qabala, n, [qabalas], "cabalaQABALAH n pl QABALAHScabalaQADI n pl QADIScadiQAID n pl QAIDScaidQAJAQ n pl QAJAQSkayakQAMUTIK n pl QAMUTIKSkomatikQANAT n pl QANATSa system of underground tunnels and wells in the Middle EastQAT n pl QATSkatQAWWALI n pl QAWWALISa style of Muslim musicQI n pl QISthe vital force that in Chinese thought is inherent in all thingsQIBLA n pl QIBLASkiblahQIGONG n pl QIGONGSa Chinese system of physical exercisesQINDAR n pl QINDARS or QINDARKAqintarQINTAR n pl QINTARSa monetary unit of AlbaniaQIVIUT n pl QIVIUTSthe wool of a musk oxQOPH n pl QOPHSkophQUA adv in the capacity ofQUAALUDE n pl QUAALUDESa sedative drugQUACK v QUACKED QUACKING QUACKSto utter the characteristic cry of a duckQUACKERY n pl QUACKERIESfraudulent practiceQUACKISH adj fraudulentQUACKISM n pl QUACKISMSquackeryQUACKY adj QUACKIER QUACKIESTresembling the cry of a duckQUAD v QUADDED QUADDING QUADSto space out by means of quadratsQUADPLEX n pl QUADPLEXESa building having four unitsQUADRANS n pl QUADRANTESan ancient Roman coinQUADRANT n pl QUADRANTSa quarter section of a circleQUADRAT n pl QUADRATSa piece of type metal used for filling spacesQUADRATE v QUADRATED QUADRATING QUADRATESto correspond or agreeQUADRATI npl rectangular musclesQUADRIC n pl QUADRICSa type of geometric surfaceQUADRIGA n pl QUADRIGAEa chariot drawn by four horsesQUADROON n pl QUADROONSa person of onequarter black ancestryQUAERE n pl QUAERESa questionQUAESTOR n pl QUAESTORSan ancient Roman magistrateQUAFF v QUAFFED QUAFFING QUAFFSto drink deeplyQUAFFER n pl QUAFFERSone that quaffsQUAG n pl QUAGSa quagmireQUAGGA n pl QUAGGASan extinct mammal that resembled a zebraQUAGGY adj QUAGGIER QUAGGIESTmarshyQUAGMIRE n pl QUAGMIRESan area of marshy groundQUAGMIRY adj QUAGMIRIER QUAGMIRIESTmarshyQUAHAUG n pl QUAHAUGSquahogQUAHOG n pl QUAHOGSan edible clamQUAI n pl QUAISquayQUAICH n pl QUAICHS or QUAICHESa small drinking vesselQUAIGH n pl QUAIGHSquaichQUAIL v QUAILED QUAILING QUAILSto cowerQUAINT adj QUAINTER QUAINTESTpleasingly oldfashioned or unfamiliarQUAINTLY advQUAKE v QUAKED QUAKING QUAKESto shake or vibrateQUAKER n pl QUAKERSone that quakesQUAKY adj QUAKIER QUAKIESTtending to quakeQUAKILY advQUALE n pl QUALIAa property considered apart from things having the propertyQUALIFY v QUALIFIED QUALIFYING QUALIFIESto make suitable or capableQUALITY n pl QUALITIESa characteristic or attributeQUALM n pl QUALMSa feeling of doubt or misgivingQUALMISH adj having qualmsQUALMY adj QUALMIER QUALMIESTqualmishQUAMASH n pl QUAMASHEScamassQUANDANG n pl QUANDANGSquandongQUANDARY n pl QUANDARIESa dilemmaQUANDONG n pl QUANDONGSan Australian treeQUANGO n pl QUANGOSa public administrative boardQUANT v QUANTED QUANTING QUANTSto propel through water with a poleQUANTA pl of quantumQUANTAL adj pertaining to a quantumQUANTIC n pl QUANTICSa type of mathematical functionQUANTIFY v QUANTIFIED QUANTIFYING QUANTIFIESto determine the quantity ofQUANTILE n pl QUANTILESany of the values of a random variable that divides a frequency distributionQUANTISE v QUANTISED QUANTISING QUANTISESto quantizeQUANTITY n pl QUANTITIESa specified or indefinite amount or numberQUANTIZE v QUANTIZED QUANTIZING QUANTIZESto limit the possible values of to a discrete setQUANTONG n pl QUANTONGSquandongQUANTUM n pl QUANTAa fundamental unit of energyQUARE adj queerQUARK n pl QUARKSa hypothetical atomic particleQUARREL v QUARRELED QUARRELING QUARRELS or QUARRELLED QUARRELLING QUARRELSto engage in an angry disputeQUARRIER n pl QUARRIERSone that quarriesQUARRY v QUARRIED QUARRYING QUARRIESto dig stone from an excavationQUART n pl QUARTSa liquid measure of capacityQUARTAN n pl QUARTANSa recurrent malarial feverQUARTE n pl QUARTESa fencing thrustQUARTER v QUARTERED QUARTERING QUARTERSto divide into four equal partsQUARTERN n pl QUARTERNSonefourth of somethingQUARTET n pl QUARTETSa group of fourQUARTIC n pl QUARTICSa type of mathematical functionQUARTIER n pl QUARTIERSa district in a French cityQUARTILE n pl QUARTILESa portion of a frequency distributionQUARTO n pl QUARTOSthe size of a piece of paper cut four from a sheetQUARTZ n pl QUARTZESa mineralQUASAR n pl QUASARSa distant celestial object emitting strong radio wavesQUASH v QUASHED QUASHING QUASHESto suppress completelyQUASHER n pl QUASHERSone that quashesQUASI adj similar but not exactly the sameQUASS n pl QUASSESkvassQUASSIA n pl QUASSIASa tropical treeQUASSIN n pl QUASSINSa medicinal compound obtained from the wood of a quassiaQUATE adj quietQUATORZE n pl QUATORZESa set of four cards of the same denomination scoring fourteen pointsQUATRAIN n pl QUATRAINSa stanza of four linesQUATRE n pl QUATRESthe four at cards or diceQUAVER v QUAVERED QUAVERING QUAVERSto quiverQUAVERER n pl QUAVERERSone that quaversQUAVERY adj quiveryQUAY n pl QUAYSa wharfQUAYLIKE adjQUAYAGE n pl QUAYAGESa charge for the use of a quayQUAYSIDE n pl QUAYSIDESthe area adjacent to a quayQUBIT n pl QUBITSa quantum bitQUBYTE n pl QUBYTESa sequence of eight quantum bitsQUEAN n pl QUEANSa harlotQUEASY adj QUEASIER QUEASIESTeasily nauseatedQUEASILY advQUEAZY adj QUEAZIER QUEAZIESTqueasyQUEEN v QUEENED QUEENING QUEENSto make a queen a female monarch ofQUEENCUP n pl QUEENCUPSa flowering plantQUEENDOM n pl QUEENDOMSthe area ruled by a queenQUEENLY adj QUEENLIER QUEENLIESTof or befitting a queenQUEENY adj QUEENIER QUEENIESTshowily effeminateQUEER adj QUEERER QUEERESTdeviating from the expected or normalQUEER v QUEERED QUEERING QUEERSto spoil the effect or success ofQUEERISH adj somewhat queerQUEERLY adv in a queer mannerQUELEA n pl QUELEASan African weaverbirdQUELL v QUELLED QUELLING QUELLSto suppressQUELLER n pl QUELLERSone that quellsQUENCH v QUENCHED QUENCHING QUENCHESto put out or extinguishQUENCHER n pl QUENCHERSone that quenchesQUENELLE n pl QUENELLESa type of dumplingQUERCINE adj pertaining to oaksQUERIDA n pl QUERIDASa female sweetheartQUERIED past tense of queryQUERIER n pl QUERIERSa queristQUERIES present 3d person sing of queryQUERIST n pl QUERISTSone who queriesQUERN n pl QUERNSa handturned grain millQUERY v QUERIED QUERYING QUERIESto questionQUEST v QUESTED QUESTING QUESTSto make a searchQUESTER n pl QUESTERSone that questsQUESTION v QUESTIONED QUESTIONING QUESTIONSto put a question an inquiry toQUESTOR n pl QUESTORSquaestorQUETZAL n pl QUETZALS or QUETZALESa tropical birdQUEUE v QUEUED QUEUING or QUEUEING QUEUESto line upQUEUER n pl QUEUERSone that queuesQUEY n pl QUEYSa young cowQUEZAL n pl QUEZALS or QUEZALESquetzalQUIBBLE v QUIBBLED QUIBBLING QUIBBLESto argue over trivialitiesQUIBBLER n pl QUIBBLERSone that quibblesQUICHE n pl QUICHESa custardfilled pastryQUICK adj QUICKER QUICKESTacting or capable of acting with speedQUICK n pl QUICKSa sensitive area of fleshQUICKEN v QUICKENED QUICKENING QUICKENSto speed upQUICKIE n pl QUICKIESsomething done quicklyQUICKLY adv in a quick mannerQUICKSET n pl QUICKSETSa plant suitable for hedgesQUID n pl QUIDSa portion of something to be chewedQUIDDITY n pl QUIDDITIESthe true nature of a thingQUIDNUNC n pl QUIDNUNCSa nosy personQUIET adj QUIETER QUIETESTmaking little or no noiseQUIET v QUIETED QUIETING QUIETSto cause to be quietQUIETEN v QUIETENED QUIETENING QUIETENSto quietQUIETER n pl QUIETERSone that quietsQUIETISM n pl QUIETISMSa form of religious mysticismQUIETIST n pl QUIETISTSan advocate of quietismQUIETLY adv in a quiet mannerQUIETUDE n pl QUIETUDESa state of tranquillityQUIETUS n pl QUIETUSESa final settlementQUIFF n pl QUIFFSa lock of hair at the front of the headQUIFFED adjQUILL v QUILLED QUILLING QUILLSto press small ridges inQUILLAI n pl QUILLAISan evergreen treeQUILLAIA n pl QUILLAIASa quillaiQUILLAJA n pl QUILLAJASa quillaiQUILLET n pl QUILLETSa trivial distinctionQUILLING n pl QUILLINGSmaterial that is quilledQUILLOW n pl QUILLOWSa quilt formed into a pillowQUILT v QUILTED QUILTING QUILTSto stitch together with padding in betweenQUILTER n pl QUILTERSone that quiltsQUILTING n pl QUILTINGSmaterial that is used for making quiltsQUIN n pl QUINSa quintupletQUINARY n pl QUINARIESa group of fiveQUINATE adj arranged in groups of fiveQUINCE n pl QUINCESan applelike fruitQUINCUNX n pl QUINCUNXESan arrangement of five objectsQUINELA n pl QUINELASquinellaQUINELLA n pl QUINELLASa type of bet in horse racingQUINIC adj pertaining to quinineQUINIELA n pl QUINIELASquinellaQUININ n pl QUININSquinineQUININA n pl QUININASquinineQUININE n pl QUININESa medicinal alkaloidQUINNAT n pl QUINNATSa food fishQUINOA n pl QUINOASa weedy plantQUINOID n pl QUINOIDSa chemical compoundQUINOL n pl QUINOLSa chemical compoundQUINOLIN n pl QUINOLINSa chemical compoundQUINONE n pl QUINONESa chemical compoundQUINSY n pl QUINSIESan inflammation of the tonsilsQUINSIED adjQUINT n pl QUINTSa group of fiveQUINTA n pl QUINTASa country estate in Portugal or Latin AmericaQUINTAIN n pl QUINTAINSan object used as a target in a medieval sportQUINTAL n pl QUINTALSa unit of weightQUINTAN n pl QUINTANSa recurrent feverQUINTAR n pl QUINTARSqintarQUINTE n pl QUINTESa position in fencingQUINTET n pl QUINTETSa group of fiveQUINTIC n pl QUINTICSa type of mathematical functionQUINTILE n pl QUINTILESa portion of a frequency distributionQUINTIN n pl QUINTINSa fine linenQUINZHEE n pl QUINZHEESa shelter made by hollowing out a pile of snowQUINZIE n pl QUINZIESquinzheeQUIP v QUIPPED QUIPPING QUIPSto make witty remarksQUIPPER n pl QUIPPERSone that quipsQUIPPISH adj wittyQUIPPU n pl QUIPPUSquipuQUIPPY adj QUIPPIER QUIPPIESTwittyQUIPSTER n pl QUIPSTERSone that quipsQUIPU n pl QUIPUSan ancient calculating deviceQUIRE v QUIRED QUIRING QUIRESto arrange sheets of paper in sets of twentyfourQUIRK v QUIRKED QUIRKING QUIRKSto twistQUIRKISH adj quirkyQUIRKY adj QUIRKIER QUIRKIESTpeculiarQUIRKILY advQUIRT v QUIRTED QUIRTING QUIRTSto strike with a riding whipQUISLING n pl QUISLINGSa traitor who aids the invaders of his countryQUIT v QUITTED QUITTING QUITSto end ones engagement in or occupation withQUITCH n pl QUITCHESa perennial grassQUITE adv to the fullest extentQUITRENT n pl QUITRENTSa fixed rent due from a socage tenantQUITTED past tense of quitQUITTER n pl QUITTERSone that quitsQUITTING present participle of quitQUITTOR n pl QUITTORSan inflammation of an animals hoofQUIVER v QUIVERED QUIVERING QUIVERSto shake with a slight but rapid motionQUIVERER n pl QUIVERERSone that quiversQUIVERY adj marked by quiveringQUIXOTE n pl QUIXOTESa quixotic personQUIXOTIC adj extremely idealisticQUIXOTRY n pl QUIXOTRIESquixotic action or thoughtQUIZ v QUIZZED QUIZZING QUIZZESto test the knowledge of by asking questionsQUIZZER n pl QUIZZERSone that quizzesQULLIQ n pl QULLIQSkudlikQUOD n pl QUODSa prisonQUOHOG n pl QUOHOGSquahogQUOIN v QUOINED QUOINING QUOINSto secure with a type of wedgeQUOINING n pl QUOININGSthe materials as stones or bricks used to form an external corner of a buildingQUOIT v QUOITED QUOITING QUOITSto play a throwing game similar to ringtossQUOKKA n pl QUOKKASa shorttailed wallabyQUOLL n pl QUOLLSa small spotted marsupialQUOMODO n pl QUOMODOSa means or mannerQUONDAM adj that once wasQUORUM n pl QUORUMSa particularly chosen groupQUOTA n pl QUOTASa proportional part or shareQUOTE v QUOTED QUOTING QUOTESto repeat the words ofQUOTABLE adjQUOTABLY advQUOTER n pl QUOTERSone that quotesQUOTH v said  QUOTH is the only accepted form of this verb it cannot be conjugatedQUOTHA interj  used to express surprise or sarcasmQUOTIENT n pl QUOTIENTSthe number resulting from the division of one number by anotherQUOTING present participle of quoteQURSH n pl QURSHESa monetary unit of Saudi ArabiaQURUSH n pl QURUSHESqurshQWERTY n pl QWERTYSa standard keyboard").
+entry(rabaska, n, [rabaska], "böyük qayıq").
+entry(rabat, n, [rabatlar], "ruhniyin yaxasına əlavə edilən haşiyə").
+entry(rabato, n, [rabatlar], "geniş krujeva bəzəkli yaxalıq").
+entry(rabbet, v, [oyulmuş, oymaq, oyur], "yiv kəsmək").
+entry(rabbi, n, [ravvinlər], "və ya RABBILES Yəhudi ruhani lideri").
+entry(rabbi, n, [rabbilər], "ravvin").
+entry(rabbinic, sifət, [], "ravvinlərə aid olan").
+entry(dovşan, f, [dovşanladı, dovşanlamaq, dovşanlar], "dovşanları ovlamaq rodentəbənzər məməlilər").
+entry(rabbiter, n, [rabbitlər], "dəniz quşları ovlayan").
+entry(dovşanlıq, n, [dovşanlıqlar], "dovşanların saxlandığı yer").
+entry(dovşanımsı, sif, [], "dovşana bənzəyən").
+entry(rabble, v, [rabbled,rabbling,rabbles], "məhv etmək üçün").
+entry(rabbler, n, [rabblers], "pudlingdə istifadə edilən dəmir çubuq").
+entry(rabboni, n, [rabbonis], "inan Əliyev bir hörmət titulu olaraq istifadə olunur").
+entry(quduzsayağı, sif, [], "quduzluğa aid").
+entry(rabid, sif, [], "quduzluq xəstəliyinə tutulmuşRABİDLİ adv").
+entry(quduzluq, n, [quduzluqlar], "quduz olmaq vəziyyəti").
+entry(quduzluq, n, [quduzluq], "infeksion virus xəstəliyi RABIETIK sif").
+entry(tülkü, n, [tülkülər], "yırtıcı məməli").
+entry(yariş, v, [yarişdı,yarişır,yarişlar], "sürət yarışında iştirak etmək").
+entry(at-yarishi-istirakçisi, n, [at-yarishi-istirakçiləri], "daim at yarışlarına gedən şəxs").
+entry(rasem, n, [rasemlər], "kimyəvi duz").
+entry(raseme, n, [rasemlər], "güllərin bir ox boyunca yerləşmə üsuluRACEMED sif").
+entry(rasemik, sif, [], "rasematla əlaqəli").
+entry(rasemizm, n, [rasemizmlər], "rasemik vəziyyəti").
+entry(rasemizə, v, [rasemizə edilmiş, rasemizə edən, rasemizə edir], "rasemik bir birləşməyə çevirmək").
+entry(rasemoid, sif, [], "rasema aid olan").
+entry(rasemə, sif, [], "rasem formasına malik olan").
+entry(rasemoz, sif, [], "rasemoz").
+entry(yarışçı, n, [yarışçılar], "yarışan biri").
+entry(yarış_yerişimək, v, [yarış_yerişdi,yarış_yerişməkdə,yarış_yerişir], "ayaq təmasını yer ilə qoruyaraq və dəstəkləyici ayağı düz tutaraq sürət üçün yerimək").
+entry(yarış yolu, n, [yarış yolları], "suyun keçirilməsi üçün bir kanal").
+entry(rachet, v, [rachet etdi,rachet edir,rachet edirlər], "ratchet").
+entry(raçilla, n, [raçillae], "ot spikeletinin mərkəzi saplağı").
+entry(vertebra, n, [vertebralar], "və ya RACHIDES onurğa sütunuVERTEBRAL sif").
+entry(raxit, n, [raxitlər], "raqitRAXİTİK sif").
+entry("irqi", sif, [], "etnik qrupa aid olanİRQİ OLARAQ zərf").
+entry(racier, müqayisəli, [], "racy-nin").
+entry(raciest, superlative, [], "racy-yə aid").
+entry(cəsarətlə, zərf, [], "cəsarətli bir tərzdə").
+entry(raciness, n, [racinesses], "ləzzətliliyin keyfiyyəti").
+entry(yarış, n, [yarışlar], "sürət yarışlarında iştirak etmə idmanı").
+entry(racino, n, [racinos], "slot maşınlarının mövcud olduğu yarış yolu").
+entry(irqçilik, n, [irqçiliklər], "irqi üstünlük doktrinası").
+entry(irqiçi, n, [irqçilər], "irqçilik tərəfdarı").
+entry(rəf, v, [rəflənmiş, rəfləmə, rəflər], "çərçivə növünə yerləşdirmək").
+giriş(racker, isim, [rackers], "torbaya qoyan").
+entry(raket, f, [raketlədi, raketləyir, raketlər], "uca səs çıxarmaq").
+entry(tutubacak, sif, [], "TUTUBACAQ TUTUBACANƏNsəs-küylü").
+entry(rackful, n, [rackfuls], "bir rəfə sığacaq qədər").
+entry(rackle, sif, [], "təcavüzkar düşüncəsiz").
+entry(rackwork, n, [rackworks], "mexanizm növü").
+entry(raklet, n, [rakletlər], "pendir yeməyi").
+giriş(raqon, n, [raqonlar], "radar ötürücüsünün bir növü").
+entry(kəkəli, n, [kəkəlilər], "kəkəli").
+entry(raketka, n, [raketkalar], "müxtəlif top oyunlarında istifadə olunan yüngül alət").
+entry(ədəbsiz, sifət, [], "ƏDƏBSİZ ƏN ƏDƏBSİZhörmətsizlik və ya nalayiqyyə sərhəd").
+entry(rad, v, [qorxdu, qorxmaqda, qorxular], "qorxmaqdan").
+entry(rad, adj, [], "ÇOX CƏLBEDİCİ VƏ YA YAXŞI RADDER RADDEST").
+entry(radar, n, [radarlar], "elektron yerləşmə cihazı").
+entry(raddle, v, [rəddilədi, rəddiləmə, rəddiləyir], "toxunmaq üçün").
+entry(radiable, sif, [], "şüa saçma qabiliyyətinə malik olan").
+entry(radial, n, [radials], "mərkəzdən yayılan bir hissə").
+entry(radiale, n, [radialia], "karpus sümüyü").
+entry(radial olaraq, adv, [], "fərqli şəkildə").
+entry(radian, n, [radianlar], "bucaq ölçüsü vahidi").
+entry(şölə, n, [şölələr], "parlaqlıq").
+entry(radiancy, n, [radiancies], "parlaqlıq").
+entry(radiant, n, [radiants], "şüaların yayıldığı nöqtə").
+entry(şüalanmaq, v, [şüalandı,şüalanır,şüalanır], "şüalar yaymaq").
+entry(radiator, n, [radiatorlar], "isitmə cihazı").
+entry(radikal, n, [radikallar], "kimyəvi birləşmələrdə vahid kimi fəaliyyət göstərən atomlar qrupu").
+entry(radikand, n, [radikandlar], "riyaziyyatda bir miqdar").
+entry(radicate, v, [radicated,radicating,radicates], "kökləmək").
+entry(radicel, n, [radicels], "kiçik kök").
+entry(radices, a, [], "radixin cəmi").
+entry(radicle, n, [radikllər], "bitki embrionunun bir hissəsi").
+entry(radii, a, [], "radiusun ç.").
+giriş(radio, f, [radioed,radioing,radios], "RADIO vasitəsi ilə simsiz rabitə aparatı ilə ötürmək").
+entry(radioman, n, [radiomen], "radio operatoru və ya texniki").
+entry(turp, n, [turp], "bir itici yeyilə bilən kök").
+entry(radium, n, [radiumlar], "radioaktiv element").
+entry(radius, n, [radiuslar], "və ya RADII dairənin mərkəzindən çevrəsinə qədər olan düz xətt").
+entry(radius, v, [radiuslı,radiuslama,radiuslar], "yuvarlaq bir forma vermək üçün").
+entry(radix, n, [radikslər], "və ya RADİKSEFlan bitkinin kökü").
+entry(radome, n, [radomlar], "radar antenasını mühafizə etmək üçün istifadə olunan qübbə şəkilli cihaz").
+entry(radon, n, [radonlar], "radioaktiv element").
+entry(radula, n, [radulas], "və ya RADULAE molluskaların dilə bənzər orqanı RADULAR sif").
+entry(radwaste, n, [radioaktiv_tullantılar], "radioaktiv tullantı").
+giriş(raff, n, [raffs], "küçə uşaqları").
+entry(raffia, n, [rafiyalar], "bir palma ağacı").
+entry(raffish, sifət, [], "bayağı").
+entry(püşkatma, v, [püşkatdı,püşkatır,püşkatmalar], "lotereya növü ilə vermək").
+entry(raffler, n, [rafflers], "püşk atan").
+entry(raft, f, [rafted,rafting,rafts], "üzən bir quruluş növü olan sal ilə daşınmaq").
+entry(tir, n, [tirler], "dəstək şüa").
+entry(raftered, sif, [], "tirlər ilə təchiz edilmiş").
+entry(rafting, n, [raftinglər], "çayda sal ilə səyahət idmanı").
+entry(salçı, n, [salçılar], "sala rəhbərlik edən şəxs").
+entry(qaşımaq, f, [qaşınmış,qaşıyan,qaşıyır], "danlamaq").
+entry(raga, n, [raqlar], "Hindu musiqi forması").
+entry(xırda-xuruş çantası, n, [xırda-xuruş çantaları], "parça qırıntılarını saxlamaq üçün çanta").
+entry(qəzəblənmək, f, [qəzəbləndi, qəzəblənir, qəzəblənir], "şiddətli hirs ilə hərəkət etmək və ya danışmaq").
+entry(qəzəb, n, [qəzəblər], "qəzi").
+entry(qəzəbli, adj, [], "şiddətli qəzəblə dolu").
+entry(rager, n, [ragers], "ədəbdən çıxan biri").
+entry(ragg, n, [raggs], "yun lif").
+entry(ragga, n, [raggas], "reqge və hip hopu birləşdirən musiqi").
+entry(tala-tökük, sif, [], "TALA-TÖKÜK TALA-TOKÜK TALA-TÖKÜKlüsif").
+entry(raggedy, sifət, [], "BİR QƏDƏR DAHA SAPSAĞAL DAHA SAPSAĞAL BİR AZ SAPSAĞAL").
+entry(raggee, n, [raggees], "ragi").
+entry(raggies, pl, [], "yoğunların").
+entry(ragging, n, [raggings], "divarı bir parça ilə boya tətbiq edərək bəzəmə texnikası").
+entry(raggle, n, [raggles], "daş işində kəsilmiş oluk").
+entry(raggy, n, [raggies], "ragi").
+entry(ragi, n, [ragi], "Şərqi Hindistan taxıl otları").
+entry(coşan, indiki, [], "coşmaq felinin ortaqlıq halı").
+entry(ragingly, adv, [], "qəzəbli bir şəkildə").
+entry(raglan, n, [rəqlanlar], "bir növ üst paltarı").
+entry(ragman, n, [ragmen], "parça qalıqlarını toplayıb satan şəxs").
+entry(ragu, v, [raguladı, ragulama, ragular], "çox ədviyyatlı şorbaya çevirmək").
+entry(rəgtək, n, [rəgtəklər], "qəribə dəstə").
+entry(qırıq-qulpun, sif, [], "çarəsiz köhnə").
+entry(ragtime, n, [ragtaymlar], "Amerika rəqs musiqisi üslubu").
+entry(avtomobil_damla, n, [avtomobil_damlalar], "damı açılan avtomobil").
+entry(əzələ, n, [əzələlər], "alaq bitkisi").
+entry(su-solucanı, n, [su-solucanları], "suda yaşayan solucan").
+entry(dələduran, n, [dələduranlar], "çiçəklənən bitki").
+entry(rah, nida, [], "komandanı və ya oyunçunu ruhlandırmaq üçün istifadə olunur").
+entry(rai, n, [rais], "məşhur Əlcəzair musiqi üslubu").
+entry(raia, n, [raias], "reaya").
+giriş(baskın, f, [baskın etdi,baskın edir,baskınlar], "bir yerə qəfil hücum etmək").
+entry(baskınçı, n, [baskınçılar], "baskın edən").
+entry(dəmir yolu, v, [insanlara bağırma, bağıran, bağırır], "kobud və ya həqarətli dildə tənqid etmək").
+entry(dəmir yolu yatağı, n, [dəmir yolu yataqları], "dəmir yolunun döşəndiyi daş və ya çınqıl təbəqəsi").
+entry(relbird, n, [relbirdlər], "yarış həvəskarı").
+entry(dəmiryolavtobusu, n, [dəmiryolavtobusları], "və ya yolçuları dəmiryol üzərində işləyəcək şəkildə təchiz edilmiş avtomobil").
+entry(dəmiryolu_vaqonu, n, [dəmiryolu_vaqonları], "dəmiryol vaqonu").
+entry(dəmir_yolu_kartı, n, [dəmir_yolu_kartları], "dəmiryol biletlərini daha ucuz qiymətə almağa imkan verən kart").
+entry(railer, n, [railers], "sürüş ruhu").
+entry(dəmir yolu başı, n, [dəmir yolu başları], "dəmir yolu xəttinin sonu").
+giriş(məhəccər, n, [məhəccərlər], "darvaza kimi baryer").
+entry(rişxənd, n, [rişxəndlər], "xoşniyyətli lağ").
+entry(dəmir yolu işçisi, n, [dəmir yolu işçiləri], "dəmir yolu işçisi").
+entry(dəmir yolu, v, [dəmir yolları ilə daşınmış, dəmir yolları ilə daşınma, dəmir yolları ilə daşınır], "lokomotivlərin hərəkət etdiyi bir növ yolda dəmir yolu ilə daşımaq").
+entry(dəmiryolu, n, [dəmiryolları], "dəmiryolu").
+entry(geyim, n, [geyimlər], "paltar").
+entry(yagis, f, [yagdi,yagir,yagir], "buludlarin yoqdugu sudur halina gelen yagis damcilari sekilinde dusmek").
+entry(yagisbandi, n, [yagisbandlari], "gunesh spektrinde qaranliq bir bant").
+giriş(yağışquşu, n, [yağışquşları], "bir quş növü").
+entry(göyqurşağı, n, [göyqurşaqları], "göydə yaranan spektral rənglərdən ibarət qövs").
+entry("yağmurluq", n, ["yağmurluqlar"], "suya davamlı palto").
+entry(yagis_damcisi, n, [yagis_damcilari], "yağış damcısı").
+yağış(yagis, n, [yagislar], "yağışın düşməsi").
+entry(rainier, müqayisəli, [], "yağışlı").
+entry(yağışlıların ən çoxu, əla dərəcə, [], "yağışlı").
+entry(yağışlı, zərf, [], "yağışlı bir şəkildə").
+entry(yagsiz, sif, [], "yagisi olmayan").
+entry(yağış, n, [yağışlar], "yağışla baş verən atom yağması").
+entry(yagisqabi, n, [yagisqabilar], "su kecirmeyen pencək və şalvar").
+entry(yagmysuyuyar, f, [yagmysuyuyub,yagmysuyuyan,yagmysuyuyur], "malzemeyi yagis suyu ile asagiya yumaq").
+entry(yagis_geyimleri, n, [yagis_geyimleri], "suyakecirmez geyim").
+entry(yagişli, adj, [], "ÇOX YAĞIŞLI, ƏN YAĞIŞLI yağış ilə səciyyələnən").
+entry(qaldır, v, [qaldırdı,qaldıran,qaldırır], "daha yüksək mövqeyə keçirməkQALDIRILA BİLƏN sif").
+entry(qaldıran, n, [qaldıranlar], "qaldıran biri").
+maddə(qaysı, n, [qaysılar], "qurudulmuş üzümQAYSIMSI sif").
+entry(qaldırılma, n, [qaldırılmalar], "bir yüksəliş").
+entry(raisonne, sifət, [], "sistemli şəkildə düzülmüş").
+entry(raita, n, [raitalar], "qatıq və doğranmış tərəvəzlər və ya meyvələrlə hazırlanan bir Hind salatı").
+entry(raj, n, [rajes], "hökmranlıq suverenlik").
+entry(raja, n, [rajas], "radja").
+entry(raja, n, [raja], "Hindistanda bir padşah və ya şahzadə").
+entry(xəlbir, v, [xəlbirlədi,xəlbirləyir,xəlbir,], "dişli alətlə yığmaq").
+entry(raki, n, [rakilər], "raki").
+entry(rakehell, n, [rakehells], "əxlaqi nəzarətdən məhrum olan kişi").
+entry(rakeoff, n, [rakeoffs], "mənfəət payı").
+entry(raker, n, [rakers], "dırmıqlayan biri").
+entry(raki, n, [rakilər], "Türk likörü").
+entry(raking, indiki, [], "rəkin feli sifəti").
+entry(rakish, sif, [], "dapperRAKISHLY zərf").
+entry(raku, n, [rakus], "Yaponya glazurlu saxsının bir növü").
+entry(rale, n, [rale], "qeyri-normal tənəffüs səsi").
+entry(mitinqçi, n, [mitinqçilər], "mitinq keçirən biri").
+entry(ralline, adj, [], "bataqlıq quşları ailəsinə aid").
+entry(mitinq, v, [mitinq etdi,mitinq edir,mitinqlər], "ümumi məqsəd üçün bir araya gəlmək").
+entry(ralli, n, [rallilər], "avtomobil yarışının bir növü").
+entry(ralli-yarışı, n, [ralli-yarışları], "ralli yarışlarında avtomobil sürmə idmanı").
+entry(ralli iştirakçısı, n, [ralli iştirakçıları], "rallidə iştirak edən şəxs").
+entry(ralf, v, [ralfladı,ralflayır,ralflar], "qusmaq").
+entry(ram, v, [vurdu,vurmaq,vurur], "böyük güclə vurmaq").
+entry(ramada, n, [ramadalar], "örtülü açıq tərəfli sığınacaq").
+giriş(ramal, sif, [], "bir budağa aid").
+giriş(ramate, sifət, [], "budaqları olan").
+entry(rambla, n, [ramblalar], "quru vadinin").
+entry(ramble, v, [rambled,rambling,rambles], "gəzmək").
+entry(rambler, n, [gəzib-dolaşanlar], "gəzib-dolaşan biri").
+entry(rambutan, n, [rambutanlar], "Malaya ağacının yeyilə bilən meyvəsi").
+entry(ramee, n, [ramees], "rami").
+entry(ramekin, n, [ramekinlər], "pendir yeməyi").
+entry(ramen, n, [ramenj], "ət və tərəvəz parçaları ilə birgə bulyonda yapon əriştəsi").
+entry(ramentum, n, [ramenta], "yarpaqların səthində əmələ gələn pulcuq").
+entry(ramequin, n, [ramekinlər], "ramekin").
+entry(ramet, n, [rametlər], "klonun müstəqil üzvü").
+entry(rami, pl, [], "ramusun").
+entry(rami, n, [ramilər], "Asiya kolu").
+entry(ramiform, sif, [], "şaxəbənzər").
+entry(ramify, f, [ramlaşdı,ramlaşır,ramlaşar], "budaqlara bölünmək").
+entry(ramilie, n, [ramililərin], "ramillie").
+entry(ramillie, n, [ramillilər], "bir növ parik").
+entry(ramin, n, [raminlər], "Malayziya ağacı").
+entry(raket, n, [raketlər], "mühərrik növü").
+entry(rammed, keçmiş, [], "ram felinin keçmiş zamanı").
+entry(rammer, n, [rammerlər], "çəkicləyən birisi").
+entry(rammier, müqayisəvi, [], "rammy olan").
+entry(rammiest, superlative, [], "rammynin").
+ramming(giris, indiki, [], "ram fe'linin ortac forması").
+entry(rammish, sif, [], "qoç kimi; erkək qoyun kimi").
+entry(rammy, sif, [], "RAMMIER RAMMIESTrammish").
+entry(ramona, n, [ramonas], "nanə ailəsinə aid bir bitki").
+entry(ramose, sif, [], "çoxlu budaqları olanRAMOSELY zərf").
+entry(ramosity, n, [ramositilər], "ramoz vəziyyəti olmaq").
+entry(ramous, sif, [], "ramoz").
+entry(ramp, v, [ramped,ramping,ramps], "arxa ayaqları üzərində durmaq və ya qalxmaq").
+giriş(çatdırmaq, v, [çatdırdı, çatdırma, çatdırır], "vəhşicəsinə və ya zorakı şəkildə hərəkət etmək").
+entry(rampager, n, [rampagerlər], "talan edən").
+entry(rampancy, n, [rampancies], "hədsiz olma vəziyyəti").
+entry(rampant, sif, [], "nəzarətsiz").
+entry(rampart, f, [səddli,səddləyən,səddlər], "möhkəmləndirilmiş bənd ilə təmin etmək").
+entry(rampike, n, [rampikes], "dayanan ölü ağac").
+entry(çiriş, n, [çirişlər], "Avropa bitkisi").
+giriş(rampol, n, [rampollar], "rampayka").
+entry(ramrod, v, [ramrodded,ramrodding,ramrods], "nəzarət etmək").
+entry(qoçbuynuzu, n, [qoçbuynuzları], "akvarium təmizləyicisi kimi istifadə edilən ilbiz").
+entry(ramsom, n, [ramsons], "enliyarpaqlı sarımsaq").
+entry(ramtil, n, [ramtils], "tropik bitki").
+entry(ramtilla, n, [ramtillas], "ramtil").
+entry(ramulose, sif, [], "çoxlu kiçik budaqları olan").
+entry(ramulous, sif, [], "ramulose").
+entry(ramus, n, [rami], "strukturun budaq şəklində hissəsi").
+entry(ran, keçmiş, [], "qaçış və rin felinin zamani").
+entry(rance, n, [rances], "mərmər növü").
+entry(ferma, v, [fermada çalışdı, fermada işləyir, fermalarda çalışır], "heyvandarlıq üçün təsərrüfatda işləmək").
+entry(fermer, n, [fermerlər], "təsərrüfat sahibi və ya təsərrüfatda çalışan şəxs").
+entry(rançera, n, [rançeralar], "Meksika kantri musiqi növü").
+entry(rançero, n, [rançerolar], "bir rançer").
+entry(fermer təsərrüfatı, n, [fermer təsərrüfatları], "bir fermer təsərrüfatını idarə etmək işi").
+entry(ranchman, n, [ranchmen], "fəerm").
+entry(rancho, n, [rancholar], "bir ranço").
+entry(rancid, sif, [], "xoşagəlməz qoxu və ya dada malik olmaqRANCIDLY z").
+entry(rancor, n, [rancorlar], "acı və kinli düşmənçilikRANCORLU sif").
+entry(rəğbət, n, [rəğbətlər], "rəğbət").
+entry(rand, n, [rands], "ayaqqabının dabanındakı dəri zolağı").
+entry(randan, n, [randans], "üç nəfərin qayığı").
+entry(randier, comparative, [], "randy-dən").
+entry(randies, pl, [], "randy-nin").
+entry(təsadüfi, n, [təsadüfilər], "gərgin bir yol").
+entry(randomly, adv, [], "təsadüfi şəkildə").
+entry(randy, sif, [], "RANDIER RANDIESTşəhvətli").
+entry(rendi, n, [rendilər], "kobud insan").
+entry(ranee, n, [ranees], "rani").
+entry(rang, n, [rangs], "yol boyunca uzanan uzun sahələrin sıra").
+entry(menzil, v, [menzilli,menzilleyen,menziller], "xüsusi bir sıraya qoymaq").
+giriş(məxəz, i, [məxəzlər], "meşənin qayğısını nəzarət edən zabit").
+entry(rangy, sif, [], "UCA-İNCE").
+entry(rani, n, [ranis], "rajanın həyat yoldaşı").
+giriş(ranid, n, [ranids], "böyük bir qurbağa ailəsindən olan hər hansı biri").
+entry(rank, sif, [], "GÜÇLÜ və NARAHATEDİCİ qoxu və ya dad").
+entry(rank, v, [sıralanmış,sıralama,sıralar], "nisbi mövqeyi təyin etmək").
+entry(ranker, n, [rankers], "siyahıda olan əsgər").
+entry(sıralama, n, [sıralamalar], "sıralanmış şəxslərin siyahısı").
+entry(rankish, sif, [], "bir qədər kobud").
+entry(rankle, v, [rankled,rankling,rankles], "qıcıqlanma və ya incikliyin yaranmasına səbəb olmaq").
+entry(rütbəsiz, sif, [], "rütbələri olmayan").
+entry(rankly, adv, [], "rütbəli şəkildə").
+entry(rankness, n, [ranknesses], "dərəcənin vəziyyəti").
+entry(ranpike, n, [ranpikes], "məktəz").
+entry(talan, f, [talandı,talanır,talanır], "yaxşıca axtarmaq").
+entry("fidyə", f, ["fidyə", "fidyələnir", "fidyələr"], "tələb olunan qiyməti ödəməklə sərbəst buraxılmasını təmin etmək").
+entry(ransomer, n, [fidyəçilər], "fidyə verən şəxs").
+entry(rant, v, [ranted,ranting,rants], "ucadan və ya coşğulu şəkildə danışmaq").
+entry(ranter, n, [ranters], "çox danışan").
+entry(rantings, npl, [], "uğultulu və hiddətli şərhlər").
+entry(ranula, n, [ranulalar], "dilin altinda yaranan kistRANULAL adj").
+entry(rap, v, [rap, rapiroq, raplar], "iti zərbə vurmaq").
+entry(acgözlük, n, [acgözlüklər], "acgöz olma keyfiyyəti").
+entry(təcavüz, f, [təcavüz etdi,təcavüz edir,təcavüz edər], "cinsi əlaqəyə məcbur etmək").
+entry(zorlayıcı, n, [zorlayıcılar], "zorlayan").
+entry(raps, n, [rapslər], "Avropa otunun toxumu").
+entry(raphe, n, [raphes], "və ya RAPHAE orqan və ya hissənin iki yarısı arasında tikişə bənzər qabırğa").
+entry(rafia, n, [raflar], "rafiya").
+entry(rafid, n, [rafidlər], "bitki hüceyrələrində meydana gələn iynə şəklindəki kristal").
+entry(rafis, n, [rafidlər], "rafid").
+entry(sürətli, sif, [], "daHAsürətlidAHAƏN sür્વətli hərəkət edən sürətlə z").
+entry(sürətli, n, [çayda sürətli axın], "çayın sürətlə axan hissəsi").
+entry(sürət, n, [sürətlər], "cəldlik").
+entry(rapira, n, [rapiralar], "uzun incə qılıncRAPIERLI sif").
+entry(quldurluq, n, [quldurluqlar], "əmlakın zorla alınması").
+entry(təcavüz, indiki, [], "təkrar etmək").
+entry(rapini, npl, [], "rappini").
+entry(təcavüzkar, n, [təcavüzkarlar], "təcavüz edən şəxs").
+entry(rapparee, n, [rapparees], "qarətçi").
+entry(rapped, keçmiş, [], "rapın zaman formasI").
+entry(rappee, n, [rappees], "güclü qəlyanaltı").
+entry(rappel, v, [rappeled,rappeling,rappels], "və ya RAPPELLED RAPPELLING RAPPELSlə bir kəndir vasitəsilə dik yüksəklikdən enmək").
+entry(rappen, n, [rappen], "İsveçrənin pul vahidi").
+entry(reper, n, [reperlər], "rep edən biri").
+entry(rapping, indiki, [], "rap-ın təsriflənmiş forması").
+entry(rappini, npl, [], "noxudlu kələm qönçələri").
+entry(raport, n, [raportlar], "ahəngdar münasibət").
+entry(rapt, sif, [], "dərin qarşılanmışŞİDƏTLİ adv").
+entry(vurğunluq, n, [vurğunluqlar], "vurğun olma vəziyyəti").
+entry(roiturağası, n, [roiturağaları], "ovçu quş").
+entry(rapture, v, [məst olmaq,məst olmaqda,məst olurlar], "böyük sevinc hissi ilə doldurmaq").
+entry(nadir, sif, [], "NADİR ƏN NADİR nadir hallarda baş verən").
+entry(rare, v, [rared,raring,rares], "həvəsli olmaq").
+entry(rarebit, n, [rarebits], "pendir yeməyi").
+entry(rarefier, n, [rarefiers], "seyrəldən").
+entry(seyrəltmək, v, [seyrəldilmiş,seyrəldilir,seyrəldir], "sıxlığı azaltmaq").
+entry(nadirən, adv, [], "tez-tez deyil").
+entry(nadirlik, n, [nadirliklər], "nadir olma keyfiyyəti").
+entry(nadir, müqayisəli, [], "nadirin").
+entry(tezerpise, n, [tezerpiseler], "tez pishen meyve").
+entry(ən nadir), superlative, [], "nadir olan").
+entry(rarify, v, [seyrəltmək, seyrəlmə, seyrəlir], "seyrəltmək üçün").
+entry(raring, sif, [], "həvəs dolu").
+entry(nadirlik, n, [nadirliklər], "nadirlik").
+entry(ras, n, [rases], "Efiop şahzadəsi").
+rasbora(girisi, n, [rasboralar], "tropik balıq").
+entry(rəsmiləri, n, [rəsmilər], "vicdansız və ya yalançı şəxs").
+entry(şıltaq, sif, [], "hiyləgər birisinin xarakteristikası").
+entry(rase, f, [rased,rasing,rases], "dağıtmaq").
+entry(raser, n, [rasers], "qazıyan").
+entry(rash, sif, [], "DÜŞÜNMƏDƏN HƏRƏKƏT EDƏN").
+entry(qaşınma, n, [qaşınmalar], "dəri səpgisiQAŞINIŞKMABƏNZƏR adj").
+entry(rasher, n, [rashers], "nazik ət dilimi").
+entry(tələsik, zərf, [], "tələsik bir şəkildə").
+entry(tələsiklik, n, [tələsikliklər], "tələsik olma vəziyyəti").
+entry(rasing, indiki, [], "rase-in feli sifəti").
+entry(rasorial, sif, [], "qidalanmaq üçün torpağı adətən cızmaq").
+entry(rasp, v, [qaşındı,qaşınma,qaşınlar], "kobud bir şeylə sürtmək").
+entry(rasper, n, [raspers], "qaşıyan biri").
+entry(yonqar, n, [yonqarlar], "kobud fayl ilə çıxarılan kiçik taxta parçası").
+entry(raspish, sif, [], "əsəbi").
+entry(chirtildayan, sif, [], "CHIRTILTILƏCHIRTILƏN").
+entry(rassle, v, [rassled,rassling,rassles], "güləşmək").
+entry(rassler, n, [güləşçilər], "bir güləşçi").
+entry(rastr, n, [rastrlar], "televizor ekranında şəkilləri təqdim edən sahə").
+entry(rasure, n, [rasures], "silinmə").
+entry(sıçan, v, [sıçılan,sıçılma,sıçanlar], "uzunquyruqlu gəmiricilər olan siçanları ovlamaq").
+entry(ratable, adj, [], "qiymətləndirilə bilənRATABLY adv").
+entry(ratables, npl, [], "vergiyə cəlb olunan əmlaklar").
+entry(ratafee, n, [ratafees], "ratafia").
+entry(ratafia, n, [ratafiyalar], "badam ətirli likör").
+entry(ratal, n, [ratals], "gömrük dərəcəsinin hesablandığı məbləğ").
+entry(ratan, n, [ratans], "rattan").
+ratani, n, [ratanies], "rhatany".
+entry(rataplan, f, [rataplanned, rataplanning, rataplans], "sürətlə təkrarlanan səs çıxarmaq").
+entry(ratatat, n, [ratatats], "iti kəskin döyünmə səsi").
+entry(ratbag, n, [ratbags], "eksantrik və ya xoşagəlməz şəxs").
+entry(ratch, n, [ratches], "yalnız bir istiqamətdə hərəkətə icazə verən bir mexanizm").
+entry(xilbir, f, [xilbirlədi,xilbirləyir,xilbirlər], "kiçik miqdarda artırmaq və ya azaltmaq").
+entry(rate, v, [dəyərləndirilmiş,dəyərləndirmə,dəyərləndirir], "dəyərini təxmin etmək üçün").
+entry(rateable, sifət, [], "qiymətləndirilmə qabiliyyətli RATEABLY zərf").
+entry(ratel, n, [ratels], "ət yeyən bir məməli").
+entry(rater, n, [qiymətləndiricilər], "qiymətləndirən biri").
+entry(ratfink, n, [ratfinks], "kəskin bir adam").
+entry(skombidə, n, [skombidələr], "dəniz balığı").
+entry(rath, sif, [], "rathe").
+entry(rathe, sif, [], "tez görünən və ya yetişən").
+entry(rather, adv, [], "tercihen").
+entry(sıçandəliyi, n, [sıçandəlikləri], "siçanın yaratdığı dəlik").
+entry(raticide, n, [siçanquləni], "siçanları öldürmək üçün maddə").
+entry(təsdiqləyici, n, [təsdiqləyicilər], "təsdiqləyən şəxs").
+entry(təsdiq_et, v, [təsdiqlədi,təsdiqləyir,təsdiqləyir], "rəsmi olaraq təsdiq etmək və sanksiyalaşdırmaq").
+entry(ratine, n, [ratines], "boş toxunmuş ağır bir parça").
+entry(reytinq, n, [reytinqlər], "nisbətən qiymətləndirmə və ya dəyərləndirmə").
+entry(nisbet, n, [nisbətlər], "nisbət əlaqəsi").
+entry(ration, v, [paylanmış,paylamaq,paylayır], "sabit porsiyalarda paylamaq").
+entry(rasional, n, [rasional ədədlər], "tam ədədlərin nisbəti kimi ifadə edilə bilən ədəd").
+entry(ratite, n, [uçuşsuz quş], "uçma qabiliyyəti olmayan quş").
+entry(sıçanaoxşar, sif, [], "sıçana bənzəyən").
+entry(ratlin, n, [ratlins], "kalçiriş").
+entry(ratline, n, [ratlines], "gəmilərin ipdən pilləkəninin pillələrini təşkil edən iplərdən biri").
+entry(raketdən-istifadə, n, [raketlərdənistifade], "raket dəstəyi ilə təyyarənin havaya qalxması").
+entry(ratun, f, [ratunladı,ratunlama,ratunlar], "əvvəlki il əkilmiş bir kökdən cücərmək").
+entry(ratooner, n, [ratooners], "təlif bitki").
+entry(siçan zəhəri, n, [siçan zəhərləri], "siçan zəhəri").
+entry(dəniz balığı, n, [dəniz balıqları], "dəniz balığı").
+entry(rattan, n, [rattans], "bir palma ağacı").
+entry(ratted, keçmiş, [], "rat felinin keçmiş zaman forması").
+entry(ratteen, n, [ratteens], "qalın yun parça").
+entry(ratten, v, [rattened,rattening,rattens], "təqib etmək").
+entry(rattener, n, [ratteners], "çürüdən").
+entry(ratter, n, [ratters], "siçan tutmaq üçün istifadə olunan heyvan").
+entry(rattier, comparative, [], "ratlı").
+entry(rattiest, superlative, [], "ratty-nin").
+entry(rattily, adv, [], "siçana bənzər bir şəkildə").
+entry(ratting, indiki, [], "rat feli iştirak").
+entry(rattish, sif, [], "siçankimidir").
+entry(cingildet, v, [cingildedi,cingildeyir,cingildeyir], "qısa, kəskin səslərin sürətli arda-arda gəlməsi").
+entry(sisirdici, n, [sisirdiciler], "sisirdən").
+entry(səs-küy, n, [səs-küylər], "ratline").
+entry(rattly, sif, [], "DAHA RATTLİ, ƏN RATTLİ, sarsıtmağa meyilli").
+entry(siçan, n, [siçanlar], "siçan").
+entry(rattoon, v, [rattooned,rattooning,rattoons], "fasilələrlə kəsmək üçün").
+entry(sıçan tələsi, n, [sıçan tələləri], "sıçanları tutmaq üçün tələ").
+entry(ratty, sif, [], "SIÇANLI DAXİLDİR").
+entry(şaqqıltılıq, n, [şaqqıltılıqlar], "şaqqıltılı olma vəziyyəti").
+entry(qarışıq, sif, [], "ucadan və nizamsız").
+entry(çirkab, n, [çirkablar], "ədəbsizlik").
+entry(raunchy, sif, [], "DAHA RAUNCHYƏ RAUNCHYƏsloven").
+entry(yagmalamaq, v, [yagmaladi,yagmalayir,yagmalar], "meler yox etmek").
+entry(ravager, n, [talançılar], "talayan şəxs").
+entry(rave, v, [raved,raving,raves], "məntiqsiz və ya anlamsız danışmaq").
+entry(ravel, v, [sökülmüş,sökülən,sökülür], "və ya SÖKÜLMÜŞ SÖKÜLƏN SÖKÜLmələri ayırmaq üçün").
+entry(raveler, n, [ravelers], "bükən biri").
+entry(ravelin, n, [ravelinlər], "möhkəmləndirmə növü").
+entry(raveling, n, [ravelinglər], "boş iplik").
+entry(ravelled, a, [], "ravel-in keçmiş zamanıdır").
+giriş(səyahətçi, n, [səyahətçilər], "səyahətçi").
+entry(ravelling, a, [], "ravel sözünün indiki zamanda feli növüdür").
+entry(ravelly, sif, [], "qarışıq").
+entry(qaraquş, v, [qaraquşlar,qaraquşlama,qaraquşladı], "acgözsayağı yemək").
+entry(ravener, n, [raveners], "qəfəsləyən biri").
+entry(ravening, n, [ravenings], "yırtıcılıq").
+entry(ac, sif, [], "çox ac").
+giriş(qışqıran, n, [qışqıranlar], "qışqıran biri").
+entry(ravey, sif, [], "bir rave, gecəni əhatə edən və sürətli elektron musiqi ilə xarakterizə olunan rəqs partisi").
+entry(ravigote, n, [ravigote sousları], "ədviyyatlı sirkə sousu").
+entry(ravin, v, [ravined,ravining,ravins], "qarğışlamaq").
+ravin(girish, n, [ravinlər], "ensiz və dik yamaclı vadi").
+entry(q%C9%99z%C9%99bli, n, [q%C9%99z%C9%99bli+s%C9%99b%C9%99bl%C9%99r], "məntiqsiz uyumsuz danışıqlar").
+entry(ravingly, adv, [], "xəyalpərəst bir tərzdə").
+entry(ravioli, n, [ravioli], "İtalyan makaron yeməyi").
+entry(ravish, v, [zorla_götürüldü, zorla_götürülən, zorla_aparır], "zorla ələ keçirmək və aparmaq").
+entry(zorlayan, n, [zorlayanlar], "zorlayan biri").
+entry(xam, sif, [], "TAM BİŞMƏMİŞ").
+entry(raw, n, [sagallar], "ağrıyan və ya qıcıqlanmış yer").
+entry(rawboned, sif, [], "az ətli olan").
+entry(rawhide, v, [rawhided,rawhiding,rawhides], "xüsusi bir qamçı ilə döymək").
+entry(rawin, n, [rawins], "radarla bir şar izlənərək aparılan külək ölçümü").
+entry(rawish, sifət, [], "bir qədər çiy").
+entry(xammal, zərf, [], "xammal şəkildə").
+entry(xamlıq, n, [xamlıqlar], "xam olma vəziyyəti").
+entry(rax, v, [raxed, raxing, raxes], "uzanmaq").
+entry(ray, v, [işıqlanmış,işıqlanır,işıqlanır], "dar işıq şüaları yaymaq").
+entry(raya, n, [rayas], "rayah").
+entry(rayah, n, [rayahs], "Türkiyənin qeyri-müsəlman sakini").
+entry(raygrass, n, [raygrasses], "rayqras").
+entry(şüasız, sif, [], "şüaları olmayan").
+entry(raylike, sif, [], "dar bir işıq şüasına bənzəyən").
+entry(rayon, n, [rayonlar], "sintetik lif").
+entry(dağıtmaq, v, [dağıtdı,dağıdılır,dağıdar], "məhvetmək və ya sökmək").
+entry(razee, v, [razeed,razeeing,razees], "üst göyərtəni çıxararaq gəmini alçaltmaq").
+entry(razır, n, [razırlar], "uçurdan biri").
+entry(ustura, v, [usturaladı,usturalama,usturalar], "kəskin uclu alətlə qırxmaq və ya kəsmək").
+entry(razz, v, [razzed, razzing, razzes], "lağ etmək").
+entry(reyd, n, [reydlər], "Mavrlərin düşmən hücumu").
+entry(razzle, n, [razzles], "gözqamaşdırıcı rəngarəng nümayiş").
+entry(re, n, [res], "diatonik musiqi miqyasının ikinci tonu").
+entry(reach, v, [çatdı,çatmaq,çatır], "uzatmaq və ya irəliyə uzatmaq").
+entry(reacher, n, [çatıcılar], "çatdıran biri").
+entry(reaksiya, v, [reaksiya_verdi,reaksiya_verir,reaksiyalar], "stimula cavab vermək").
+entry(reaktant, n, [reaktantlar], "reaksiya verən").
+entry(reaksiya, n, [reaksiyalar], "reaksiya aktı").
+entry(reaktiv, sif, [], "reaksiya verməyə meylli").
+entry(reaktor, n, [reaktorlar], "reaksiya göstərən biri").
+giriş(oxumaq, f, [oxumaq, oxuyur, oxuyurlar], "hər hansı bir yazılı və ya çap olunmuş mətnin mənasını başa düşmək üçün baxmaqOXUNAN sifOXUNULA adv").
+entry(oxucu, n, [oxucular], "oxuyan").
+entry(oxucuvari, sif, [], "oxucuya aid").
+entry(readied, keçmiş, [], "ready zaman forması").
+entry(readier, müqayisəli, [], "ready").
+entry(hazirlayir, indiki, [], "3-cü şəxs tək xəbəri hazirlayir").
+entry(readiest, superlative, [], "hazır").
+entry(asanca, adv, [], "hazır bir şəkildə").
+entry(oxuma, n, [oxumalar], "oxunan material").
+entry(oxu, s, [oxumalar], "kompüter məlumatlarının təqdimatı").
+entry(hazır, sifət, [], "HAZIRLAR HAZIRLAMAQ").
+entry(hazır, v, [hazırladı,hazırlanır,hazırlayır], "hazır etmək").
+entry(reagent, n, [reagentlər], "digərinin təbiətini və ya tərkibini müəyyən etmək üçün kimyəvi reaksiyada istifadə olunan maddə").
+entry(reagin, n, [reaginlər], "bir növ antikorREAZİNİK sif").
+entry(real, sifət, [], "REALER REALESThəqiqi mövcudluğa malik olan").
+entry(real, n, [reals], "və ya REAL İspaniyanın keçmiş pul vahidi").
+giriş(gerçək, n, [reis], "Braziliyanın pul vahidi").
+entry(realgar, n, [realgarlar], "bir mineral").
+entry(realia, cəmlik isim, [], "müəllimin gündəlik həyatı əyani şəkildə göstərmək üçün istifadə etdiyi əşyalar").
+entry(reallaşdır, f, [reallaşdırdı,reallaşdırır,reallaşdırır], "reallaşdırmaq").
+entry(reallaşdıra, n, [reallaşdıranlar], "reallaşdıran biri").
+entry(realizm, n, [realizmlər], "fakt və ya reallıqla bağlı olmaq").
+entry(realist, n, [realistlər], "fakta və ya reallığa önəm verən şəxs").
+entry(reallıq, n, [reallıqlar], "həqiqi olan bir şey").
+entry(dərk etmək, v, [dərk etdi,dərk edərək,dərk edir], "tamamilə başa düşmək").
+entry(gerçəkləşdirici, n, [gerçəkləşdiricilər], "gerçəkləşdirən").
+entry(həqiqətən, zərf, [], "əslində").
+giriş(aləm, n, [aləmlər], "bir səltənət").
+entry(gerçəklik, n, [gerçəkliklər], "həqiqi olma vəziyyəti").
+entry(əmlak, n, [əmlaklar], "binalarda və torpaqlarda əmlak").
+entry(ream, v, [reamed,reaming,reams], "sementləni genişləndirmək").
+entry(reamer, n, [reamerlər], "delikləri genişləndirmək üçün istifadə olunan alət").
+Entry(reap, v, [biçdi, biçməkdədir, biçir], "məhsul yığımı üçün kəsmək. MƏHSUL YIĞILAN sifət").
+entry(biçinçi, n, [biçinçilər], "biçən biri").
+entry(reaphook, n, [reaphooks], "biçmə aləti").
+entry(arka, f, [qaldırıldı,qaldırmaqda,qaldırır], "dümdüz qaldırmaq").
+giriş(baxıcı, n, [baxıcılar], "baxan şəxs").
+entry(tərbiyə, n, [tərbiyələr], "heyvanın arxa ətrafları üzərində durma hərəkəti").
+giriş(rearmice, c çox, [], "reremice").
+entry(ən arxadakı, sif, [], "sonuncu gələn və ya yerləşən").
+giriş(arxa, n, [arxaya], "ordunun ən arxa bölməsi").
+entry(reascent, n, [reascents], "yeni və ya ikinci dırmanış").
+entry(reason, v, [əsaslandırdı,əsaslandırma,əsaslandırır], "məlum və ya ehtimal olunan faktlardan nəticələr çıxarmaq").
+entry(reasoner, n, [reasoners], "məhz səbəb gətirən").
+entry(reata, n, [reatas], "riata").
+entry(talay, f, [taladı,talayır,talayar], "qanunsuz olaraq almaq").
+entry(reaver, n, [reavers], "qarət edən").
+entry(reb, n, [rebs], "Konfederasiya əsgəri").
+entry(rebar, n, [dəmir çubuqlar], "armatur beton üçün istifadə olunan polad çubuq").
+entry(tərefləşdir, v, [tərəfləşdirilmiş,tərəfləşdirilir,tərəfləşdirir], "bir şey üçün yeni əsas yaratmaq").
+entry(endirim, f, [endirildi,endirilir,endirimlər], "bir ödənişdən və ya hesabdan çıxmaq və ya geri qaytarmaq").
+entry(rebater, n, [rebaters], "qaytaran").
+entry(rebato, n, [rebatos], "rabat").
+entry(rəbbi, n, [rəbbilər], "bir ravvin").
+entry(rebec, n, [rebeks], "qədim simli musiqi aləti").
+rebeck(giriş, n, [rebecks], "rebec").
+entry(üsyançı, f, [üsyan etdi, üsyan edərək, üsyançılar], "öz ölkəsinin mövcud hökumətinə qarşı çıxmaq").
+entry(üsyançılar, n, [üsyançıların ərazi], "üsyançıların nəzarətində olan bir ərazi").
+entry(dirçəliş, n, [dirçəlişlər], "yeni və ya ikinci doğuş").
+entry(ucadan səslənən, sif, [], "gur səslə səslənən").
+entry(rebop, n, [rebops], "bir musiqi növü").
+entry(reborn, sifət, [], "yenidən doğulmuş").
+entry(tullanan, f, [tullandı, tullanan, tullanır], "geri sıçramaq").
+entry(rebozo, n, [rebozos], "uzun şərf").
+entry(budaqlamaq, v, [budaqladı,budaqlanır,budaqlanır], "ikinci dərəcəli budaqlar yaratmaq üçün").
+entry(yenidən markalaşdırmaq, v, [yenidən markalaşdırıldı,yenidən markalaşdırmaq,yenidən markalaşdırmaq], "şirkətin korporativ imicini dəyişmək").
+entry(rəddetmək, f, [rəddetti,rəddedərkən,rəddedir], "qısa şəkildə rədd etmək və ya imtina etmək").
+entry(tənbeh, v, [tənbeh etdi,tənbeh edir,tənbeh edir], "kəskin tənqid etmək").
+entry(qınayan, n, [qınayanlar], "qınaq verən").
+entry(sümüklərin yenidən dəfn edilməsi, n, [yenidəfnlər], "ikinci dəfn").
+entry(rebus, n, [rebuslar], "bir növ tapmaca").
+entry(təkzib_etmək, v, [təkzib_edildi, təkzib_edir, təkzib_edənlər], "təkzib etmək").
+entry(təkzib, n, [təkziblər], "təkzib edən argument və ya sübut").
+entry(təkzibetməçi, n, [təkzibetməçilər], "təkzib edən biri").
+entry(təkzib, indiki, [], "təkzib etmək feli indiki zaman təsrifindən olan feili sifət").
+entry(rec, n, [recs], "rekreasiya").
+entry(xatırlatmaq, f, [xatırlatdı, xatırlatmaqdadır, xatırladır], "geri çağırmaq").
+entry(recaller, n, [xatırlayanlar], "xatırlayan").
+entry(recamier, n, [recamiers], "döşəksiz divan").
+entry(ləğv etmək, v, [ləğv etdi,ləğv etmək,ləğv edir], "rəsmi olaraq geri çəkmə və ya rədd etmə").
+entry(rekanter, n, [rekanterlər], "tövbə edən biri").
+entry(izahat, f, [izah edildi, izah edilir, izah edir], "qısa xülasə ilə yenidən nəzərdən keçirmək").
+giriş(kəşfiyyat, v, [kəşfiyyat etdi,kəşfiyyat etməkdədir,kəşfiyyatlar], "kəşf etmək").
+entry(geri_çəkilmək, f, [geri_çəkildi, geri_çəkilən, geri_çəkilir], "geri və ya uzağa hərəkət etmək").
+entry(qəbz, v, [qəbzləndi,qəbzlənməkdə,qəbzlər], "ödənilmiş kimi işarələmək").
+entry(qəbul_etmək, f, [qəbul_etdi,qəbul_edir,qəbul_edir], "sahib olmaq üçün").
+giriş(qəbul edən, n, [qəbul edənlər], "qəbul edən biri").
+mədaxil(yenilik, n, [yeniliklər], "yeni olma vəziyyəti").
+entry(son, sif, [], "SONuncə təzə bir vaxta aid olanSONUNCƏ adv").
+entry(resept, n, [reseptlər], "zehni təsəvvür növü").
+entry(reseptor, n, [reseptorlar], "stimulları qəbul etmək üçün ixtisaslaşmış sinir ucu").
+entry(fasilə, v, [fasilə etdi,fasilə edir,fasilələr], "geri çəkilən bir boşluğa və ya oyuğa yerləşdirmək üçün").
+entry(recheat, n, [recheatlar], "ov siqnalı").
+entry(resept, n, [reseptlər], "nəyinsə hazırlanması üçün təlimatlar toplusu").
+entry(ləğv, n, [ləğvlər], "ləğv etmə").
+entry(recit, n, [recits], "hekayənin hadisələrin bəzənmədən izah edildiyi hissəsi").
+entry(nitq, n, [nitqlər], "ətraflı hesabat").
+entry(səsləndirmək, v, [səsləndirdi,səsləndirirəm,səsləndirir], "əzbər demək və ya bəyan etmək").
+entry(reciter, n, [recitelər], "oxuyan").
+entry(reck, v, [recked,recking,recks], "narahat olmaq").
+entry(hövsələsiz, sif, [], "təhlükəni düşüncəsizcəsinə nəzərə almayan").
+entry(hesablamaq, v, [hesabladı,hesablama,hesablayır], "saymaq və ya hesablamaq").
+entry(hesablayan, n, [hesablayanlar], "hesablayan şəxs").
+entry(təkrar əldə etmək, f, [təkrar əldə edilmişdir,təkrar əldə olunur,təkrar əldə edir], "əkinçilik və ya yaşayış üçün uyğun etmək").
+entry(reklam, n, [reklamlar], "ictimaiyyət").
+entry(recline, v, [uzandı, uzanmaq, uzanır], "arxaya söykənmək və ya uzanmaq").
+entry(rekliner, n, [reklinerlər], "uzanmaq üçün olan").
+entry(tənhalıq, n, [tənhalar], "tək-tənha və təcrid olunmuş yaşayan biri").
+entry(geriçəkmək, v, [geriçəkildi, geriçəkmə, geriçəkmək], "qorxu və ya iyrənclikdən geri çəkilmək").
+entry(recoiler, n, [geri çəkilmələr], "geri çəkilən biri").
+entry(kəşfiyyat, f, [kəşfiyyat etdi,kəşfiyyat edir, kəşfiyyətlər], "kəşfiyyat aparmaq").
+entry(qaytarmaq, f, [qaytarıldı, qayıtma, qaytarır], "öncəki mövqeyə geri vermək").
+entry(qeyd, v, [qeydə_alınmış,qeydə_alma,qeydlər], "mühafizə üçün yazmaq").
+entry(recorder, n, [qeyd cihazları], "yazma edən biri").
+entry(təkrar, v, [təkrarladı,təkrarlamaqdadır,təkrarlayır], "ətraflı olaraq danışmaq").
+entry(recoup, v, [geri alınmış, geri alır, geri alır], "qaytarmaq üçün bərabər olanı almaq").
+entry(recoupe, sif, [], "iki dəfə bölünmüş").
+entry(müraciət, n, [müraciətlər], "kömək üçün kiməsə və ya nəyəsə yönəlmə").
+entry(bərpa etmək, v, [bərpa etdi,bərpa edir,bərpa edəcək], "itirdikdən sonra yenidən əldə etmək").
+entry(bərpa, n, [bərpalar], "iqtisadi yüksəliş").
+entry(qorxaq, n, [qorxaqlar], "bir qorxaq").
+entry(yenidən_yaratmaq, v, [yenidən_yaradılmış,yenidən_yaradılır,yenidən_yaradılır], "mental və ya fiziki olaraq yenilənmək üçün").
+entry(cəlb, v, [cəlb edib, cəlb edir, cəlb edir], "hərbi xidmət üçün cəlb etmək").
+entry(recta, a, [], "rektumun cəmi").
+entry(rectal, sif, [], "rektuma aid olanREKTAL olaraq").
+entry(recti, az, [], "rectus haqqında").
+entry(düzəltmək, v, [düzəldilmiş,düzəldən,düzəldir], "düzəltmək").
+entry(recto, n, [rectos], "kitabın sağ tərəfdəki səhifəsi").
+giriş(rektor, n, [rektorlar], "bir parişə görə məsul kilsə adamı").
+entry(rektorluq, n, [rektorluqlar], "rektorun yaşayışı").
+entry(rectrix, n, [rectrices], "quşun quyruq lələyi").
+entry(rektum, n, [rektumlar], "böyük bağırsağın son hissəsi").
+proqram(düz, n, [düzlər], "düz əzələ").
+entry(təkrarlanmaq, v, [təkrarladı,təkrarlanır,təkrarlanır], "yenidən baş vermək").
+entry(rekurv, v, [rekurv edildi, rekurv olunur, rekurv edir], "geri və ya aşağı əyilmək").
+entry(çəkinmə, n, [çəkinmələr], "çəkinmə hərəkəti").
+entry(rekusant, n, [rekusantlar], "qəbul edilməyən müəyyən edilmiş səlahiyyətə qarşı çıxan şəxs").
+entry(özünü kənarlaşdırmaq, v, [özünü_kənarlaşdırdı,özünü_kənarlaşdırır,özünü_kənarlaşdırır], "müəyyən bir işdə hakim kimi ixtisasdan çıxarmaq və ya etiraz etmək").
+entry(təkrar emal, v, [təkrar emal etdilər,təkrar emal etmə,təkrar emal edir], "faydalı materialları çıxarmaq üçün işləmək").
+entry(recycler, n, [recyclers], "təkrar emal edən").
+entry(qırmızı, sifət, [], "QANIN RƏNGİNDƏKİ ƏN QIRMIZI").
+entry(qırmızı, v, [qırmızılaşma,qızarma,qırmızılaşır], "qızarmaq").
+entry(redaktə et, f, [redaktə edildi, redaktə edir, redaktə edir], "nəşr üçün hazırlamaq").
+entry(redaktor, n, [redaktorlar], "redaktə edən şəxs").
+entry(redan, n, [redans], "müdafiə tikilisinin bir növü").
+entry(redargue, v, [redargued,redarguing,redargues], "təkzib etmək").
+giriş(qırmızı_ələ, v, [qırmızı_ələdi, qırmızı_ələmə, qırmızı_ələlər], "kommunist kimi ifşa etmək").
+entry(redbay, n, [redbays], "kiçik bir ağac").
+giris(qirmiziqus, n, [qirmiziquslar], "qirmizi tük qanadli bir qus").
+entry(redbone, n, [redbones], "ov iti").
+entry(qırmızıkərpic, n, [qırmızıkərpiclər], "müasir Britaniya universiteti").
+entry(redbud, n, [qırmızıbud], "kiçik bir ağac").
+entry(qırmızı böcək, n, [qırmızı böcəklər], "bir çığır").
+entry(redcap, n, [redcaps], "hamal").
+entry(redcoat, n, [qırmızı paltolar], "Amerika İnqilabı zamanı britaniya əsgəri").
+entry(redd, v, [düzənlənmiş,düzənləmə,düzənlər], "sıra ilə qoymaq").
+entry(redded, keçmiş, [], "red və redd-in zamanı").
+entry(qızartmaq, f, [qızartdı,qızarmaq,qızarır], "qırmızı etmək və ya qırmızı olmaq").
+entry(redder, n, [redders], "qırmızı edən").
+entry(reddest, superlative, [], "qırmızıdan").
+entry(daha_qırmızı, müqayisəli, [], "qırmızının").
+entry(reddiest, superlative, [], "qırmızımsının").
+entry(redding, indiki, [], "red və redd feli sifət").
+entry(qırmızımtıl, sifət, [], "birmənalı olaraq qırmızı").
+entry(reddle, fel, [reddled,reddling,reddles], "boyamaq").
+entry(reddy, sif, [], "DAHADAHAREDDAHAMŞтых仃ғрали").
+entry(rede, v, [reded,reding,redes], "məsləhət vermək").
+giriş(qirmiziqulaq, n, [qirmiziqulaqlar], "adi bir günəş balığı").
+entry(acıtmaq, v, [acıdıldı,acıdır,acıdılır], "geri almaq").
+entry(qurtaran, n, [qurtaranlar], "qurtaran biri").
+entry(qırmızıgöz, n, [qırmızıgözlər], "dəmir yolu təhlükə siqnalı").
+entry(redfin, n, [redfins], "şirin su balığı").
+entry(redfish, n, [qırmızı balıqlar], "yedilə bilən qaya balığı").
+entry(qızılbaş, n, [qızılbaşlar], "qırmızı saçlı bir şəxs").
+entry(qırmızıat, n, [qırmızıatlar], "bir şirin su balığı").
+entry(redia, n, [redias], "bəzi yastı solucanların sürfəsi olan REDİAЕlaməti olan REDİHL adj").
+entry(reding, indiki, [], "read felinin feli sifəti").
+entry(yonləndirmək, f, [yonləndirildi, yonləndirir, yonləndirir], "istiqaməti və ya yönü dəyişdirmək").
+entry(redleg, n, [redlegs], "qırmızı ayaqlı bir quş").
+entry(redline, v, [redlined,redlining,redlines], "müəyyən məhəllələrdən kreditlər və ya sığorta ilə imtina etmək").
+entry(redliner, n, [redliners], "redaktə edici").
+entry(qırmızıca, adv, [], "qırmızı rənglə").
+entry(qızartı, n, [qızartılar], "qırmızı olma vəziyyəti").
+entry(redo, n, [təkrar etmələr], "yenidən edilən bir şey").
+entry(redolent, adj, [], "xoşətirli").
+entry(redouble, v, [ikiqat edilmək, ikiqat edilməkdə, ikiqat edir], "ikiqat etmək").
+entry(redoubt, n, [redoubts], "bağlı bir istehkam").
+entry(təsir etmək, f, [təsir etdi,təsir etməkdədir,təsir edir], "təsir göstərmək").
+entry(redout, n, [redouts], "qan başa getdiyi vəziyyət").
+entry(redowa, n, [redowa], "hərəkətli rəqs").
+entry(redoks, n, [redokslər], "kimyəvi reaksiyanın bir növü").
+entry(siskin, n, [siskinlər], "kiçik bir çəhrayı").
+entry(yenidən_yazmaq, f, [yenidən_yazıldı,yenidən_yazılma, yenidən_yazılır], "təkmilləşdirilmiş surət hazırlamaq").
+entry(redrawer, n, [redrawers], "təkrar çəkən").
+entry(düzəltmək, f, [düzəldi,düzəldir,düzəldir], "doğru etmək").
+entry(redroot, n, [qırmızı köklər], "çoxillik ot").
+entry(qırmızıca, n, [qırmızıcalar], "sahil quşu").
+entry(qırmızı sürüşmə, n, [qırmızı sürüşmələr], "göy cisminin spektrinin daha uzun dalğa uzunluqlarına doğru yerdəyişməsi").
+entry(qırmızıköynək, v, [qırmızıköynəkləyib,qırmızıköynəkləyərək,qırmızıköynəklər], "bir universitet idmançısını oyunlardan kənarda tutaraq onun uyğunluq müddətini uzatmaq").
+entry(redskin, n, [qırmızı dərilər], "fıstığın bir növü").
+entry(qırmızıdovşan, n, [qırmızıdovşanlar], "kiçik bir mahnı quşu").
+entry(qiziltuk, n, [qiziltuklər], "şahin növü").
+entry(redtop, is, [redtops], "ot növü").
+entry(azalt, f, [azaltdı,azaldır,azaldar], "azaltmaq").
+entry(azaldıcı, n, [azaldıcılar], "azaldan").
+entry(azaldıcı, n, [azaldıcılar], "məhluldakı metal ionlarının azaldılması üçün bir cihaz").
+entry(reduviid, n, [reduviids], "qanəmici bir həşərat").
+entry(redux, sif, [], "geri gətirilmiş").
+entry(redware, n, [redwares], "yeyilə bilən dəniz yosunu").
+entry(qırmızısu, n, [qırmızısular], "mal-qaranın qan xəstəliyi").
+entry(qızılqanad, n, [qızılqanadlar], "Avropa qaraquşu").
+entry(redwood, n, [sekvoya], "çox hündür həmişəyaşıl ağac").
+entry(ree, n, [rees], "dişi Avrasiya qağayısı").
+entry(reebok, n, [riboklar], "rhebok").
+entry(reechy, sif, [], "REECHIER REECHIESTçirkli iylənmiş").
+entry(reed, v, [reeded, reeding, reeds], "hündür otların saplaqlarını qamışla bağlamaq").
+reedbird_girisi(reedbird, n, [reedbirds], "bobolink").
+entry(reedbuck, n, [reedbucks], "Afrika antilopu").
+entry("reedier", müqayisə, [], "of reedy").
+giris(sazkimisi, üstünlük, [], "sazkimisinin").
+entry(reedify, v, [reedified, reedifying, reedifies], "yenidən qurmaq").
+entry(qamış kimi, zərf, [], "nazik bir fit səsi ilə").
+entry(reedinq, n, [reedinqlər], "qabarıq kalıplama").
+giriş(qamışvarı, sif, [], "qamışa bənzəyən").
+entry(qamışlıq, n, [qamışlıqlar], "bataqlıq quşu").
+entry(reedman, n, [reedmen], "nəfəsli alət çalan").
+entry(reedy, sif, [], "REEDIER REEDIESTqabir bitkiləri ilə zəngin").
+entry(qaçır, v, [qaçırdı, qaçırma, qaçırır], "yelkənin sahəsini azaltmaq REEFABLE sif").
+entry(donanma, n, [donanmalar], "rif edən").
+entry(reefy, sif, [], "Resifli Resiflərçox miqdarda qaya təpələri olan").
+entry(qoxumaq, v, [qoxudu,qoxuyan,qoxuyur], "güclü və xoşagəlməz qoxu yaymaq").
+entry(reeker, n, [reekers], "qoxuyan").
+entry(reeky, sif, [], "REEKIER REEKIESTreeking").
+entry(makar, v, [makarlar,makarlamaq,makarlayır], "fırlanan bir növ cihaz üzərində sarmakMAKARLANAN sif").
+entry(reeler, n, [reelers], "çox əsəbi olan biri").
+entry(səngimək, n, [səngimələr], "davamlı səs").
+giriş(tekrar_giriş, n, [təkrar_girişlər], "yeni və ya ikinci giriş").
+giriş(reest, f, [reested, reesting, reests], "müqavimət göstərmək").
+entry(reeve, v, [sürüşdürmək,sürüşdürülmüş,sürüşdürən], "REEVEdolanıqlıqla və ya ətrafında keçirərək bağlamaq").
+entry(ref, v, [reffed,reffing,refs], "hakimlik etmək").
+entry(reface, v, [refaced,refacing,refaces], "xarici səthi təmir etmək").
+entry(refect, v, [refected,refecting,refects], "yemək və içki ilə təravətləndirmək").
+entry(refel, v, [rədd etdi, rədd etmə, rədd edir], "rədd etmək").
+entry(istinad_etmək, f, [istinad_edir, istinad_edilir, istinad_edəcək], "kömək və ya məlumat üçün bir mənbəyə yönləndirmək").
+entry(referee, v, [hakimlik etdi,hakimlik edir,hakimlik edir], "müəyyən idman növlərində oyuna nəzarət etmək").
+entry(referent, n, [referents], "istinad edilən bir şey").
+entry(istiqamət, n, [istiqamətlər], "istiqamət verilən biri").
+entry(hitab etdi, keçmiş, [], "sözü refer kökündə işləndi").
+entry(referrer, n, [referentlər], "istinad edən biri").
+entry(referring, indiki, [], "refer sözünün participle forması").
+entry(reffed, keçmiş, [], "refer word'un keçmiş forması").
+entry(reffing, n, [reffings], "hakimin işi").
+entry(təmizlə, v, [təmizlədi,təmizləyir,təmizləyir], "tullantı və çirklərdən təmizləmək").
+entry(refiner, n, [təmizləyicilər], "təmizləyən biri").
+entry(zavod, n, [zavodlar], "xam materialın emal edildiyi yer").
+entry(rafinasiya, n, [rafinasiyalar], "bir şeydən çirkləri aradan qaldırma prosesi").
+giriş(yeniləmə, v, [yenilədi,yeniləyir,yeniləyir], "yeni bir səth vermək üçün").
+entry(refit, v, [təmir edildi, təmir edilir, təmir edir], "əlavə istifadə üçün hazırlamaq və təchiz etmək").
+giriş(reflag, v, [reflagged, reflagging, reflags], "gəminin qeydiyyatdan keçmiş milliyyətini dəyişmək").
+entry(reflate, v, [yenidən_nəfəs_verdi,yenidən_nəfəs_verir,yenidən_nəfəs_verir], "yenidən şişirtmək").
+entry(əks etdirmək, v, [əks etdirilib, əks etdirir, əks etdirən], "səthdən geri çevirmək və ya atmaq").
+entry(reflet, n, [reflets], "səthin xüsusi parlaklığı").
+giriş(refleks, f, [reflekslədi,refleksləyir,reflekslər], "əymək").
+giriş(refleksli, zərf, [], "reflekslə edilmiş şəkildə").
+entry(geri-axan, sif, [], "geri axan").
+entry(reflüks, v, [reflüks edildi,reflüks edilir,reflüks edilir], "geri axıtmağı səbəb olmaq").
+entry(meşələşdirmək, v, [meşələşdirilmiş,meşələşdirən,meşələşdirir], "ağaclar ilə yenidən əkmək").
+entry(islahat, f, [islahat edilmiş, islah edilməsi, islahatlar], "daha yaxşı bir vəziyyətə dəyişmək").
+entry(islahatçı, n, [islahatçılar], "islahat edən biri").
+entry(qir, v, [qirdi,qirir,qirir], "işığı müəyyən bir şəkildə əymək").
+entry(qacmaq, v, [qacti, qacir, qacar], "ozunu saxlamq").
+entry(refresh, v, [canlanmış,canlanır,canlandırır], "səhhətin və enerjinin bərpası üçün").
+entry(reft, a, [], "reave felinin keçmiş zaman forması").
+entry(sığınacaq, f, [sığınmış, sığınır, sığınacaqlar], "sığınacaq vermək və ya almaq").
+entry(qacqin, n, [qacqinlar], "təhlükəsizlik üçün qaçan biri").
+entry(refugium, n, [refugiyalar], "qitə iqlim dəyişikliyi dövründə stabil bir ərazi").
+entry(refund, v, [qaytarılıb, qayıtarır, qaytarır], "geri vermək").
+entry(refunder, n, [geri qaytaranlar], "geri qaytaran şəxs").
+entry(imtina, n, [imtinalar], "imtina etmək hərəkəti").
+entry(imtina, v, [imtina_etdi,imtina_edərkən,imtina_edir], "qəbul etməyi, etməyi və ya riayət etməyi istəmədiyini ifadə etmək").
+entry(refuser, n, [imtina edənlər], "imtina edən").
+entry(refusnik, n, [refusniks], "emiqrasiya etməyə icazəsi olmayan Sovet vətəndaşı").
+entry(təkzib, n, [təkziblər], "təkzib etmə hərəkəti").
+entry(təkzib etmək, v, [təkzib etdi,təkzib etməkdədir,təkzib edir], "səhv və ya yanlış olduğunu sübut etmək").
+entry(refuter, n, [təkzib edənlər], "təkzib edən biri").
+entry(reg, n, [regs], "nizamnamə").
+entry(regainer, n, [regainers], "bərpa edən şəxs").
+entry(regal, sif, [], "padşaha aid olan və ya padşaha layiq").
+entry(regale, v, [zövq verdi,zövq verməkdədir,zövq verir], "zövq vermək").
+entry(regaler, n, [əyləndirici], "əyləndirən biri").
+entry(regalia, npl, [], "bir kralın hüquq və imtiyazları").
+entry(regality, n, [regalities], "krallıq səlahiyyəti").
+entry(qürurlu, zərf, [], "krallara layiq şəkildə").
+entry(nəzər yetirmək, v, [nəzər yetirilmiş,nəzər yetirməkdə,nəzər yetirir], "xüsusi bir hisslə baxmaq").
+entry(regatta, n, [reqatalar], "qayıq yarışı").
+entry(regelate, v, [regelated,regelating,regelates], "buzun təzyiqini azaltmaqla yenidən donmasını təmin etmək").
+entry(regency, n, [naibliklər], "naibin vəzifəsi").
+giriş(regent, isim, [regents], "əvəzedici hakimiyyəti həyata keçirən şəxsREGENTAL sif").
+entry(reges, pl, [], "rexin").
+reggae, n, [reglərin], "Jamaika musiqisinin tanınmış bir forması".
+entry(regisid, n, [regisidlər], "kralın öldürülməsi").
+entry(regie, n, [regies], "Kvebekdə hökumətin tənzimləyici qurumu").
+entry(regift, v, [bağışladı,bağışlayır,bağışlayır], "aldığın hədiyyəni başqasına vermək").
+giriş(tezdançı, n, [tezdançılar], "təkrar hədiyyə edən biri").
+entry(rejim, n, [rejimlər], "idarəetmə sistemi").
+entry(rejim, n, [rejimlər], "sistematik plan").
+entry(alay, v, [alaylaşdırılmış,alaylaşdırma,alaylar], "hərbi birliklərə çevirmək").
+entry(regina, n, [regina], "və ya REGINAEkraliçaREGINAL adj").
+entry(region, n, [bölgələr], "inzibati ərazi və ya bölgü").
+entry(ölkə, n, [ölkələr], "region kimi xidmət edən bir şey").
+entry(register, v, [qeydiyyata_almaq,qeydiyyata_alma,qeydiyyatdan], "rəsmi şəkildə qeyd etmək").
+entry(registry, n, [reyestrlər], "qeydiyyata alma hərəkəti").
+entry(regius, sif, [], "hökmdar tərəfindən təsis edilmiş professorluq vəzifəsini tutan").
+entry(reglet, n, [reglets], "düz və ensiz kəmiyyət").
+entry(regma, n, [regmata], "meyvə növü").
+entry(regna, pl, [], "regnumun").
+entry(regnal, sif, [], "bir padşaha və ya onun hökmranlığı ilə bağlı").
+giriş(hamiləlik, n, [hamiləliklər], "hamilə olma vəziyyəti").
+entry(hakimiyyətdə, sifət, [], "hakim olan").
+entry(regnum, n, [regna], "hökmranlıq").
+entry(regolit, n, [regolitlər], "cəld dağınıq qayaların bir təbəqəsi").
+entry(qaytarmaq, v, [qaytardı,qaytarır,qaytarır], "qusmamaq").
+entry(regosol, n, [regosollar], "torpaq növü").
+entry(regrate, v, [regrated,regrating,regrates], "eyni ərazidə daha yüksək qiymətə satmaq üçün almaq").
+entry(regreet, v, [regreeted,regreeting,regreets], "qarşılıq olaraq salam vermək").
+entry(regressiya, v, [geriyə getdi, geriyə gedən, geriyə gedir], "geriyə getmək").
+entry(peşmanlıq, v, [peşman oldu,peşman ola,peşmandır], "kədər və ya peşmanlıqla geri baxmaq").
+yenidən_yetişmə(gərginlik, n, [yenidən_yetişmələr], "təzə və ya ikinci böyümə").
+entry(müntəzəm, n, [müntəzəmlər], "adi bir müştəri").
+entry(tənzimləmək, v, [tənzimlədi,tənzimləyir,tənzimləyir], "qaydaya uyğun olaraq idarə etmək").
+entry(regulus, n, [reguluses], "və REGULIfırında cürufun altında yaranan kütləREGULINE sif").
+entry(reabilitasiya, v, [reabilitasiya etdi,reabilitasiya edir,reabilitasiyalar], "yaxşı vəziyyətə gətirmək").
+entry(reabilitasiyaçi, n, [reabilitasiyaçilər], "reabilitasiya edən biri").
+entry(məşq_etmək, v, [məşq_edildi,məşq_etmə,məşq_edir], "ictimai çıxışa hazırlıq məqsədilə məşq etmək").
+entry(reheater, n, [yenidən qızdırıcılar], "yenidən qızdıran").
+entry(rehoboam, n, [rehoboamlar], "şərab şüşəsi").
+entry(yeni_ev_vermek, f, [yenidən_evləndi,yenidən_evlənmə,yenidən_ev_verir], "yeni mənzil vahidində yerləşdirmək").
+entry(rei, n, [reis], "sabiq Portuqal sikkəsi üçün səhv bir ingilis forması").
+entry(reif, n, [reifs], "qarət").
+giriş(şəxsləndirici, n, [şəxsləndiricilər], "şəxsləndirən").
+entry(reify, v, [reified,reifying,reifies], "həqiqi və ya konkret hesab etmək").
+giriş(hökmdarlıq, f, [hökmdarlıq etdi,hökmdarlıq etməkdədir,hökmdarlıq edir], "suveren gücə malik olmaq").
+entry(reyki, n, [reyki], "əllərlə toxunmağa cəlb olunan şəfa texnikası").
+entry(zəbt, v, [zəbt etdi,zəbt edir,zəbt edir], "məhdudlaşdırmaq").
+entry(şamapkeçisi, n, [şamapkeçiləri], "böyük maral").
+entry(zədələnmənin_yenidən_baş_verməsi, n, [zədələnmələrin_yenidən_baş_verməsi], "ikinci zədə").
+entry(zəifləmiş, sifət, [], "sərbəstsiz").
+entry(reinsman, n, [reinsmen], "bacarıqlı at sürücüsü").
+entry(reis, pl, [], "həqiqi").
+entry(reishi, n, [reishis], "parlaq qapaqlı bir göbələk").
+entry(yeniden_buraxici, n, [yeniden_buraxicilar], "təkrar buraxan").
+entry(reitbok, n, [reitboks], "qamış maralı").
+entry(reive, v, [reived,reiving,reives], "talamaq").
+entry(reiver, n, [reivers], "talayan şəxs").
+entry(reiving, n, [reivings], "talama hərəkəti və ya nümunəsi").
+giriş(rəddet, v, [rəddetti,rəddedir,rəddeder], "qəbul etməyi, nəzərdən keçirməyi və ya istifadə etməyi rədd etmək").
+entry(ret, n, [retlər], "rədd edilən").
+entry(rejecter, n, [rəddedicilər], "rədd edən biri").
+rejector(rejector, n, [rejectors], "rədd edən").
+entry(təkrar_düzəltmək, f, [təkrar_düzəltdi,təkrar_düzəldir,təkrar_düzəldər], "təkrar tənzimləmək").
+entry(təkraryığmaq, v, [təkraryığılmış,təkraryığma,təkraryığır], "dəyişdirmək").
+entry(sevinmək, v, [sevindi,sevinməkdədir,sevinir], "xoşbəxt hiss etmək").
+entry(sevindirici, n, [sevindiricilər], "sevindirən biri").
+entry(relapse, v, [relapsed,relapsing,relapses], "əvvəlki vəziyyətinə geri dönmək və ya sürüşmək").
+entry(relapser, n, [relapsers], "təkrar xəstələnən şəxs").
+entry(əlaqələndirmək, f, [əlaqələndirən,əlaqələndirir], "hesabat vermək").
+entry(relater, n, [əlaqələndirənlər], "əlaqələndirən").
+entry(əlaqə, n, [əlaqələr], "iki və ya daha çox şey arasında əhəmiyyətli bir əlaqə").
+entry(qohum, n, [qohumlar], "qan və ya evlilik yolu ilə bir biri ilə əlaqəli olan şəxs").
+entry(relator, n, [relatorlar], "anlatan").
+entry(relax, v, [rahatladı,rahatlayır,rahatlayır], "daha az gərgin və ya sərt etmək").
+entry(relaxant, n, [relaxantlar], "əzələ gərginliyini aradan qaldıran dərman").
+entry(relaxer, n, [rahatlayan], "rahatlayan bir şey").
+entry(relaxin, n, [relaksinlər], "qadın hormonu").
+entry(relay, v, [relayed,relaying,relays], "yorğun olanları əvəz etmək üçün yeni dəstlərdən istifadə edərək göndərmək").
+giriş(azad_etmək, v, [azad_edildi, azad_edir, azad_edəcək], "azad etmək").
+entry(releasee, n, [releasees], "azad edilən şəxs").
+entry(releaser, n, [buraxanlar], "buraxan şəxs").
+entry(releasor, n, [releasorlar], "releaser").
+entry(sal, v, [salındı,salmaq,salar], "tapşırmaq").
+entry(yumşalmaq, v, [yumşaldı,yumşalır,yumşalır], "daha az ciddi olmaq").
+entry(müvafiq, sifət, [], "əlaqəli olduğu məsələyə aid").
+entry(releve, n, [releves], "baletdə ayaq barmaqları üzərinə qalxma").
+entry(etibarlı, n, [etibarlılar], "güvənilə bilən biri").
+entry(etibarlı, zərf, [], "güvənilə bilən bir tərzdə").
+entry(etibar, n, [etibarlar], "inanclı və ya etibarlı asılılıq").
+entry(etibar edən, sif, [], "etibara güvənən").
+entry(qalıq, n, [qalıqlar], "keçmişdən qalan bir abidə").
+giriş(qalıq, n, [qalıqlar], "dəyişmiş mühitdə sağ qalan orqanizm").
+entry(relied, keçmiş, [], "etibar etmək felinin forması").
+entry(relief, n, [relieflər], "pul və ya zəruri əşyalar şəklində yardım").
+entry(relier, n, [etibar edənlər], "etibar edən").
+entry(etibar edir, indiki, [], "etibar etməyin 3-cü şəxs tək").
+entry(yüngülləşdirmək, v, [yüngülləşdirdi,yüngülləşdirməkdə,yüngülləşdirir], "ağrı və ya narahatlığı azaltmaq və ya azad etmək").
+giriş(yüngülləşdirici, n, [yüngülləşdiricilər], "yüngülləşdirən biri").
+entry(relievo, n, [relievolar], "hamar səthdən fiqurların və ya formaların çıxıntısı").
+entry(din, n, [dinlər], "bir tanrıya və ya fövqəl təbiətə ibadət").
+entry(relique, n, [qalıqlar], "relikviya").
+entry(relish, v, [relished, relishing, relishes], "zövq almaq").
+entry(yaşatmaq, f, [yaşatdı,yaşadır,yaşadırlar], "təkrar yaşamaq").
+entry(relleno, n, [rellenos], "qızardılmış və içi doldurulmuş yaşıl çili olan Meksika yeməyi").
+entry(yenidən_yükləyici, n, [yenidən_yükləyənlər], "yenidən yükləyən şəxs").
+entry(dəyişmək, f, [dəyişdi,dəyişir,dəyişir], "yeni bir yerdə yerləşmək üçün").
+entry(relucent, sifət, [], "işığı əks etdirən").
+entry(reluct, v, [relucted,relucting,relucts], "müxalifət göstərmək").
+entry(relume, v, [relumed,reluming,relumes], "yenidən işıqlandırmaq üçün").
+giriş(relumine, v, [relumined, relumining, relumines], "yenidən işıqlandırmaq").
+entry(etibar etmək, v, [etibar etdi, etibar etməkdə, etibar edir], "etibar və ya inam qoymaq").
+entry(rem, n, [rems], "ionlaşdırıcı radiasiyanın miqdarı").
+entry(remailer, n, [yenidən göndərənlər], "e-poçtu anonim şəkildə göndərən İnternet xidməti").
+entry(qalmaq, v, [qaldı,qalan,qalır], "eyni vəziyyətdə davam etmək").
+entry(remaker, n, [remakers], "təkrar yaradan şəxs").
+entry(reman, v, [kadrlandırdı,kadrlandırma,kadrlandırır], "təzə bir heyətlə təmin etmək").
+entry(qaytarmaq, v, [qaytarıldı,qaytarılır,qaytarır], "geri göndərmək").
+entry(qalan, adj, [], "remaining").
+entry(remanned, keçmiş, [], "remanın zamanı").
+entry(remanning, indiki, [], "reman feli čin").
+entry(qeyd, v, [qeydetdi,qeydedərkən,qeydlər], "qısaca və ya təsadüfi şəkildə demək və ya yazmaq").
+entry(açıqlayan, n, [açıqlayanlar], "açıqlama edən şəxs").
+entry(remarque, n, [remarques], "qravirovka olunan lövhənin kənarına qoyulmuş işarə").
+entry(yeniləyici, sif, [], "bir şeyi düzəltmək üçün nəzərdə tutulmuş").
+entry(dərman, v, [dərmanladı,dərmanlama,dərmanlar], "rahatlamaq və ya müalicə etmək").
+entry(xatırla, v, [xatırlandı,xatırlamaq,xatırlayır], "yenidən yadda saxlamaq üçün").
+entry(remex, n, [remiges], "quş qanadının uçuş lələyiREMİGİAL sif").
+entry(xatırlatmaq, f, [xatırlatdı,xatırlatma,xatırladır], "yadına salmaq").
+entry(xatırlatma, n, [xatırlatmalar], "xatırladan biri").
+entry(remint, v, [reminted,reminting,remints], "əriyib yeni sikkə etmək üçün").
+entry(remise, v, [remised,remising,remises], "tələbdən imtina etmək").
+entry(remiss, sif, [], "ehtiyatsızREMISSLY zərf").
+entry(remit, v, [göndərildi,göndərilir,göndərir], "ödəmə üçün pul göndərmək").
+entry(qaytarma, n, [qaytarmalar], "qaytarma hərəkəti").
+entry(remitter, n, [remitters], "köçürəmə edən").
+entry(gonderen, n, [gonderenler], "göndərən").
+entry(remixer, n, [remikslər], "yazı olaraq remiks edən").
+entry(qalıq, n, [qalıqlar], "qalan nəsə").
+entry(yenidənqurma, v, [yenidənquruldu,yenidənqurulan,yenidənqurmalar], "yaxud YENİDƏNQURULMUŞ YENİDƏNQURULMA YENİDƏNQURMAlar etmək").
+entry(remolade, n, [remolades], "ədviyyatlı sous").
+entry(remora, n, [remoralar], "bir növ dəniz balığıREMORID adj").
+entry(peşimançılıq, n, [peşimançılıqlar], "günahkarlıq hissi ilə səbəb olan dərin əzab").
+giriş(uzaq, sif, [], "UZAQDA UZAQDAkimdənsə yerdə yerləşmişdirUZAQDAN bür").
+entry(remote, n, [uzaqdan idarələr], "studiyadan kənarda baş verən bir yayım").
+entry(çıxarma, n, [çıxarmalar], "çıxarma hərəkəti").
+entry(çıxarma, n, [çıxarmalar], "çıxarma əməliyyatı").
+entry(remove, v, [çıxardı,çıxarır,çıxarır], "aparmaq və ya uzaqlaşdırmaq").
+entry(remover, n, [çıxarıcılar], "çıxaran biri").
+entry(remuda, n, [remudalar], "at sürüsü").
+entry(renal, sif, [], "böyrəklərə aid").
+entry(təbii_yolla_bərpa_etmək, v, [təbii_yolla_bərpa_edilmiş,təbii_yolla_bərpa_edilir,təbii_yolla_bərpa_edir], "təbii xüsusiyyətləri qaytarmaq").
+entry(rend, v, [parçaladı, parçalayan, parçalayar], "zorla parçalayıb ayırmaq").
+giriş(təsvir etmək, f, [təsvir edilmişdir,təsvir edilir,təsvir edir], "olmasına və ya olmasına səbəb olmaq").
+giriş(renderer, n, [renderers], "çəkən biri").
+entry(rendible, sifət, [], "icarə edilə bilən").
+entry(rendzina, n, [rendzinalar], "torpaq növü").
+entry(renegade, v, [renegaded,renegading,renegades], "xəyanət etmək").
+entry(renegado, n, [renegados], "və ya RENEGADOES xəyanətkar").
+entry(bağışlamaq, f, [bağışladı, bağışlayır, bağışlayar], "bir vədəni və ya öhdəliyi yerinə yetirməmək").
+entry(reneger, n, [bağdan dönənlər], "geri çəkilən kəs").
+entry(əhdindən dönmək, f, [əhdindən dönmüş, əhdindən dönməkdə, əhdindən dönür], "əhdindən dönmək").
+entry(yeniləmək, f, [yeniləndi,yeniləyir,yeniləyir], "yenidən yeni və ya yenisi kimi etmək").
+entry(təzələmə, n, [təzələmələr], "təkrar etmək aktı").
+entry(yeniləyici, n, [yeniləyicilər], "yeniləyən şəxs").
+entry(reniform, sif, [], "böyrəkşəkilli").
+entry(renig, f, [renigged,renigging,renigs], "sözündən dönmək").
+entry(renin, n, [reninlər], "ferment").
+entry(renitent, sifət, [], "fiziki təzyiqə müqavimət göstərən").
+entry(renminbi, n, [renminbi], "Çin Xalq Respublikasının əskinası").
+entry(rennase, n, [rennase], "rennin").
+entry(peynir mayası, n, [peynir mayaları], "bəzi gənc heyvanların mədəsində olan sərhədli membran").
+entry(rennin, n, [renninlər], "bir ferment").
+entry(yenilənmiş_ev, n, [yenilənmiş_evlər], "yenilənmiş ev").
+entry(renogram, n, [renoqramlar], "böyrək ekskresiyasının gedişatının fotoqrafik təsviri").
+entry(imtina_etmək, f, [imtina_etdi,imtina_edərkən,imtina_edir], "inkar etmək").
+entry(təmir etmək, v, [təmir etdi,təmir edənlər,təmir edir], "yeni kimi etmək").
+entry(şöhrət, v, [şöhrət tapmış, şöhrət tapan, şöhrət tapır], "məşhur etmək").
+entry(kirayə, f, [kirayəyə_verildi,kirayə_verilir,kirayələ], "müəyyən kompensasiya qarşılığında müvəqqəti istifadə əldə etməkKİRAYƏLİ adj").
+entry(kiraye, n, [kirayeler], "kiraye olaraq odenilen veya toplanan mebleg").
+entry(rente, n, [rentes], "Fransa qanunvericiliyinə görə illik gəlir").
+icarəçi(n, [icarəçilər], "icarəyə verən").
+entry(rentier, n, [rentierlər], "sabit gəlir alan biri").
+entry(çıxarılma, n, [çıxarılmalar], "hökumət tərəfindən əcnəbinin ölkədən çıxarılması").
+entry(təklif, v, [təklif etdi,təklif edir,təkliflər], "ictimai satışa təklif etmək").
+entry(reorg, v, [reorged, reorging, reorgs], "yenidən təşkil etmək").
+entry(reovirus, n, [reoviruslar], "virus növü").
+entry(rep, v, [təsvir edilmiş,təsvir edən,təsvir edir], "təmsil etmək").
+entry(ödənildi, keçmiş, [], "ödəmək felinin zamini").
+entry(təmir, v, [təmir etdi,təmir edir,təmir edir], "yaxşı vəziyyətə gətirmək").
+entry(təmirçi, n, [təmirçilər], "təmir edən biri").
+entry(repand, sif, [], "dalğalı kənara sahib olmaqREPANDLY zərf").
+entry(repartee, n, [repartee-lər], "tez hazırcavab cavab").
+entry(repast, v, [repasted, repasting, repasts], "yemək və ya ziyafət vermək").
+entry(geri_qaytarmaq, f, [geri_qaytardı, geri_qaytarır, geri_qaytaracaq], "geri ödəmək").
+giriş(ləğv_etmək, f, [ləğv_edilmiş,ləğv_edir,ləğv_edirlər], "ləğv etmək").
+entry(ləğv edən, n, [ləğv edənlər], "ləğv edən biri").
+giriş(təkrar et, f, [təkrar edilmiş,təkrar edən,təkrar edir], "yenidən demək və ya etmək").
+entry(tekerrürçü, n, [tekerrürçülər], "təkrar edən biri").
+entry(qovmaq, v, [qovuldu,qovulan,qovur], "geri qaytarmaq").
+entry(repeller, n, [uzaqlaşdırıcılar], "uzaqlaşdıran biri").
+entry(peşman_olmaq, f, [peşman_oldu, peşman_olaraq, peşman_olur], "keçmiş hərəkətə görə peşmanlıq və ya özünü tənqid etmək hiss etmək").
+entry(tövbəçi, i, [tövbəçilər], "tövbə edən şəxs").
+entry(daimi_təkrar, n, [daimi_təkrarlar], "təkrar olunan ifadə və ya səs").
+entry(repina, v, [repinladı,repinlayır,repinlayır], "narazılığını ifadə etmək").
+entry(repiner, n, [narazılar], "narazı olan biri").
+entry(əvəz etmək, f, [əvəz etdi, əvəz edir, əvəz edər], "yerini tutmaq üçün").
+entry(deyistirici, n, [deyistiriciler], "deyistiren biri").
+entry(bədənbab, n, [bədənbablar], "mayeli qida üçün canlı anbar kimi xidmət edən işçi qarışqa").
+entry(replevin, v, [təkrar əldə etdi, təkrar əldə edir, təkrar əldə edir], "təkrar əldə etmək").
+entry(replevy, v, [replevied,replevying,replevies], "qanuni tədbirlə mülkiyyəti geri almaq").
+entry(replica, n, [surətlər], "yaxın surət və ya təşbeh").
+giriş(replikon, n, [replikonlar], "bir vahid kimi replikasiya olunan nuklein turşusu hissəsi").
+entry(replier, n, [repliers], "cavab verən").
+entry(reply, v, [cavabladı,cavablandırır,cavablandırar], "cavab vermək").
+entry(repo, n, [repos], "nəsə geri alındı").
+entry(report, v, [hesabat_verdi,hesabat_verir,hesabat_verəcək], "hesabat vermək").
+report(reporter, n, [müxbirlər], "hesabat verən biri").
+repozisiya(reposal, n, [reposals], "repozisiyanın aktı").
+entry(dincəlmək, v, [dincəldi,dincəlir,dincəlir], "istirahət etmək üçün uzanmaq").
+entry(reposer, n, [reposers], "istirahət edən").
+entry(qoymaq, f, [qoydu,qoyur,qoyar], "kənara qoymaq").
+entry(repousse, n, [repousses], "metalda döyülmüş qaldırılmış naxış").
+entry(repp, n, [repps], "çarpaz zolaqlı parça").
+entry(repped, sif, [], "repə bənzəyən").
+entry(basdırmaq, v, [basdırılmış,basdırmaq,basdırar], "nəzarətdə saxlamaq").
+entry(təxirə_salmaq, f, [təxirə_salınmış, təxirə_salan, təxirə_salır], "cəzanın icrasını təxirə salmaq").
+entry(qisas, n, [qisaslar], "intiqam hərəkəti").
+entry(təkrar, v, [təkrarladı, təkrarlayır, təkrar edir], "zorla geri almaq").
+entry(repro, n, [repros], "fotoqrafik çoxaltma üçün yararlı olan sınaq çap materialı").
+entry(tənbeh etmək, f, [tənbeh etdi,tənbeh edir,tənbeh edəcək], "qüsur tapmaq").
+entry(məzəmmət, n, [məzəmmətlər], "səhv üçün tənqid").
+entry(tənbeh, n, [tənbehlər], "tənqid").
+entry(tənbeh, v, [tənbeh etdi,tənbeh etməkdədir,tənbeh edir], "danlamaq").
+entry(tənbeh edən, n, [tənbeh edənlər], "tənbeh edən").
+entry(reptant, sif, [], "surünən və ya sürünən").
+entry(sürünən, n, [sürünənlər], "soyuqqanlı, hava ilə nəfəs alan onurğalılar sinfinə aid olan istənilən").
+entry(reptilia, npl, [], "sürünənlərin saxlanması üçün binalar").
+entry(respublika, n, [respublikalar], "konstitusiyalı idarəetmə forması").
+entry(dözülməz, v, [dözülmədi,dözülmür,dözülməz], "qarşı çıxmaq").
+entry(repulsiya, v, [repuls edildi, repuls edir, repulslar], "geri çəkmək").
+entry(repulser, n, [itələyicilər], "itələyən biri").
+entry(nufuz, v, [nufuzlu,nufuzlandirmaq,nufuzlar], "müəyyənləşdirilən kimi qəbul etmək").
+entry(request, v, [istənilmiş, istənilən, istəyir], "arzu ifadə etmək").
+entry(requiem, n, [requiyemlər], "ölülər üçün musiqi kompozisiyası").
+entry(requin, n, [requins], "həsrətcil köpek balığı").
+entry(requinto, n, [requintos], "kiçik gitara").
+entry(tələb etmək, f, [tələb edilən,tələb etməkdə,tələb edir], "ehtiyacı olmaq üçün").
+giriş(tələb edən, n, [tələb edənlər], "tələb edən").
+entry(təminat, n, [təminatlar], "qarşılığında verilən nəsə, kompensasiya və ya qisas").
+entry(qərşılamaq, v, [qərşıladı,qərşılamaq,qərşılayır], "bərabər qarşılıq vermək üçün").
+relyasiya(requiter, n, [requiters], "qarşılıq verən").
+entry(təkrar etdi, keçmiş, [], "təkrarlamaq felinin keçmiş zamanı").
+entry(reredos, n, [reredoses], "bir altarın arxasındakı bəzəkli ekran").
+entry(yarasa, npl, [], "uçan məməlilər").
+entry(rereward, n, [rerewards], "arxaya").
+proqram(girisi, reroller, n, [rerollers], "bir daha təkrar çevirən").
+giriş(təkrarifəaliş, v, [təkrarifəalindi,təkrarifəalınır,təkrarifəalır], "yazılmış çıxışın təkrarı nümayiş etdirmək").
+entry(res, n, [reses], "universitet və ya kollec yataqxanası").
+entry(təkrar_satma, n, [təkrar_satmalar], "təkrar satma hərəkəti").
+entry(miqyası dəyişmək, v, [dəyişdirilmiş,dəyişdirilir,dəyişdirilir], "yeni bir miqyasda planlaşdırmaq").
+entry(ləğv_etmək, f, [ləğv_edildi,ləğv_edilir,ləğv_edir], "ləğv etmək").
+entry(təkrar, n, [təkrarlar], "yenidən yazılmış bir şey").
+giriş(xilas, v, [xilas etdi, xilas edir, xilas edər], "təhlükədən azad etmək").
+entry(rescuee, n, [rescuees], "xilas edilən").
+entry(xilasedici, n, [xilasedicilər], "xilas edən biri").
+entry(tədqiqat, v, [tədqiq etdi, tədqiq edir, tədqiqlər], "ətraflı araşdırmaq").
+entry(reseau, n, [reseaus], "rəngli filmlər çəkmək üçün RESEAUX şəbəkəsi və ya filtr ekranı").
+entry(rezeksiyalaşdır, v, [rezeksiyalaşdırdı,rezeksiyalaşdırır,rezeksiyalaşdırar], "bir orqanın və ya quruluşun bir hissəsini cərrahi yolla çıxarmaq").
+entry(reseda, n, [resedalar], "çiçəkli bir bitki").
+entry(topdansatışçı, n, [topdansatışçılar], "yenidən satan biri").
+entry(bənzəmək, f, [bənzədi,bənzəyən,bənzəyir], "oxşar olmaq").
+entry(narazı olmaq, v, [narazı qaldı,narazı qalır,narazı qalır], "narazılıq və ya inciklik hiss etmək və ya ifadə etmək").
+entry(rezerv, f, [rezervlədi,rezervləyir,rezervləyəcək], "gələcək istifadə üçün saxlamaq").
+entry(rezerv edən, n, [rezerv edənlər], "rezerv edən şəxs").
+entry(reses, pl, [], "reslərin").
+entry(resetter, n, [resetterlər], "yenidən quran/tənzimləyən biri").
+entry(resh, n, [reşlər], "yəhudi hərfi").
+entry(forma_verici, n, [forma_vericilər], "bir şeyin formasını dəyişdirən").
+entry(rezid, n, [rezidlər], "neft yanacağının bir növü").
+entry(yaşamaq, f, [yaşadı,yaşayır,yaşayır], "daimi və ya davamlı olaraq bir yerdə yaşamaq").
+giriş(sakin, n, [sakinlər], "yaşayan şəxs").
+entry(resider, n, [sakinlər], "bir sakin").
+entry(qalıq, n, [qalıqlar], "artıq qalan bir şey").
+entry(qalıq, n, [qalıqlar], "bir hissənin çıxarılmasından sonra qalan bir şey").
+entry(residuum, n, [reziduya], "və ya REZIDUAL").
+entry(vəzifədən_getmək, v, [vəzifədən_getdi,vəzifədən_getməkdədir,vəzifədən_getir], "öz vəzifəsindən və ya mövqeyindən imtina etmək").
+entry(istefa_verən, n, [istefa_verənlər], "istefa verən şəxs").
+entry(ret, v, [retdi,retməkdədir,retdir], "geri sıçramaq").
+entry(resilin, n, [rezilinlər], "bir çox həşəratın kütikülündəki elastik maddə").
+entry(rezin, f, [rezinlədi, rezinləyir, rezinlər], "bəzi bitkilərdən əldə edilən yapışqan bir maddə olan rezinlə işləmək").
+entry(resinate, v, [rezinləndi,rezinlənməkdədir,rezinlənir], "rezinləmək").
+entry(rezinləşdirmək, v, [rezinləşdirdi, rezinləşdirir, rezinləşdirir], "rezinə çevirmək").
+entry(rezinə bənzər, n, [rezinə bənzərlər], "qatranlı maddə").
+entry(rezinə bənzər, sif, [], "qatranı xatırladan").
+entry(rezinli, sif, [], "rezinli").
+giriş(dirənmək, f, [dirəndi, dirənən, dirənir], "qarşı durmaq").
+entry(dirənişçi, n, [dirənişçilər], "müqavimət göstərən biri").
+entry(rezistor, n, [rezistorlar], "elektrik dövrəsində olan qurğu").
+entry(reskin, v, [reskinned,reskinning,reskins], "hava gəmisinin və ya motorlu nəqliyyat vasitəsinin ən xarici təbəqəsini dəyişdirmək").
+entry(resojet, n, [resojetlər], "nəbzcə dvigatel").
+entry(qətiyyətli, adj, [], "QƏTİYYƏTLİ QƏTİYYƏTLƏR xarakterizə olunmuşdur möhkəmlik və ya qətiyyət").
+entry(qətiyyətli, n, [qətiyyətlilər], "qətiyyətli olan biri").
+entry(resolve, v, [resolved,resolving,resolves], "qərar qəbul etmək üçün fəal qərarRESOLVER n pl RESOLVERShəll edən biriRESONANT n pl RESONANTSa əks-səda edən səsRESONATE v RESONATED RESONATING RESONATESeq-səda verməkRESORB v RESORBED RESORBING RESORBan yenidən udmaqRESORCIN n pl RESORCINSkimyəvi birləşməRESORT v RESORTED RESORTING RESORTmüntəzəm olaraq getməkRESORTER n pl RESORTERShəmişə gedən biriRESOUND v RESOUNDED RESOUNDING RESOUNDuzun və ya ekolu səs verməkRESOURCE v RESOURCED RESOURCING RESOURCEtəmin etməkRESPECT v RESPECTED RESPECTING RESPECTyüksək hörmət bəsləməkRESPIRE v RESPIRED RESPIRING RESPIREisti havayı geri almaqRESPITE v RESPITED RESPITING RESPITEmüvəqqəti dinclik gətirməkRESPOND v RESPONDED RESPONDING RESPONDan cavab verməkRESPONSA npl yazılı ravvinik qərarlarRESPONSE n pl RESPONSEScavab və ya reaksiyasıREST v RESTED RESTING RESTqısa işə ara verDIRRESTER n pl RESTERSmövcud biriRESTFUL adj RESTFULLER RESTFULLESTsakitRESTIVE adj nəzarət olunmazRESTLESS adj dinclik tapmayanRESTORAL n pl RESTORALStəmir etmək hərəkətiRESTORE v RESTORED RESTORING RESTOREöncəki halına geri gətirməkRESTORER n pl RESTORERStəmir edən biriRESTRAIN v RESTRAINED RESTRAINING RESTRAINhərəkətdən saxlamaqRESTRICT v RESTRICTED RESTRICTING RESTRICTməhdudlaşdırmaqRESTROOM n pl RESTROOMSgecəqadış tualetiRESULT v RESULTED RESULTING RESULTnəticələnməkRESUME v RESUMED RESUMING RESUMEara verildikdən sonra davam etməkRESUMER n pl RESUMERSdəstəyi götürən biriRESUPINE adj geri uzanmış olaraq yatmaqRESURGE v RESURGED RESURGING RESURGEyenidən yüksəlməkRET v RETTED RETTING RETstəmir otarmaq üçün islanmaqRETABLE n pl RETABLESalttara rafRETABLO n pl RETABLOStable|RETAIL v RETAILED RETAILING RETAILkiçik miqdarda satış reialləşdirməRETAILER n pl RETAILERSticarətçiRETAIN v RETAINED RETAINING RETAINəsnfariyyəti qorumaqRETAINER n pl RETAINERSəsə saxlayan biriRETAKE v RETOOK RETAKEN RETAKING RETAKEyenidən götürməkRETAKER n pl RETAKERSyenidən alan biriRETARD v RETARDED RETARDING RETARDölkənməyən axını yavaşlatmaqRETARDER n pl RETARDERSyət yavaşlaşdıran biriRETACH v RETACHED RETACING RETACHEyenidən, sabit şəkildə düşünməkRETELLER n pl RETELLERSTəzədən nəql edən[| taramağa davam etmə].
+entry(following, is, [], "bir daha REABSORB v REABSORBED REABSORBING REABSORBSREACCEDE v REACCEDED REACCEDING REACCEDESREACCENT v REACCENTED REACCENTING REACCENTSREACCEPT v REACCEPTED REACCEPTING REACCEPTSREACCUSE v REACCUSED REACCUSING REACCUSESREADAPT v READAPTED READAPTING READAPTSREADD v READDED READDING READDSREADDICT v READDICTED READDICTING READDICTSREADJUST v READJUSTED READJUSTING READJUSTSREADMIT v READMITTED READMITTING READMITSREADOPT v READOPTED READOPTING READOPTSREADORN v READORNED READORNING READORNSREAFFIRM v REAFFIRMED REAFFIRMING REAFFIRMSREAFFIX v REAFFIXED REAFFIXING REAFFIXESREALIGN v REALIGNED REALIGNING REALIGNSREALLOT v REALLOTTED REALLOTTING REALLOTSREALTER v REALTERED REALTERING REALTERSREANNEX v REANNEXED REANNEXING REANNEXESREANOINT v REANOINTED REANOINTING REANOINTSREAPPEAR v REAPPEARED REAPPEARING REAPPEARSREAPPLY v REAPPLIED REAPPLYING REAPPLIESREARGUE v REARGUED REARGUING REARGUESREARM v REARMED REARMING REARMSREAROUSE v REAROUSED REAROUSING REAROUSESREARREST v REARRESTED REARRESTING REARRESTSREASCEND v REASCENDED REASCENDING REASCENDSREASSAIL v REASSAILED REASSAILING REASSAILSREASSERT v REASSERTED REASSERTING REASSERTSREASSESS v REASSESSED REASSESSING REASSESSESREASSIGN v REASSIGNED REASSIGNING REASSIGNSREASSORT v REASSORTED REASSORTING REASSORTSREASSUME v REASSUMED REASSUMING REASSUMESREASSURE v REASSURED REASSURING REASSURESREATTACH v REATTACHED REATTACHING REATTACHESREATTACK v REATTACKED REATTACKING REATTACKSREATTAIN v REATTAINED REATTAINING REATTAINSREAVAIL v REAVAILED REAVAILING REAVAILSREAVOW v REAVOWED REAVOWING REAVOWSREAWAKE v REAWAKED or REAWOKE REAWOKEN REAWAKING REAWAKESREAWAKEN v REAWAKENED REAWAKENING REAWAKENSREBAIT v REBAITED REBAITING REBAITSREBEGIN v REBEGAN REBEGUN REBEGINNING REBEGINSREBID v REBID REBIDDEN REBIDDING REBIDSREBILL v REBILLED REBILLING REBILLSREBIND v REBOUND REBINDING REBINDSREBLEND v REBLENDED or REBLENT REBLENDING REBLENDSREBLOOM v REBLOOMED REBLOOMING REBLOOMSREBOARD v REBOARDED REBOARDING REBOARDSREBODY v REBODIED REBODYING REBODIESREBOIL v REBOILED REBOILING REBOILSREBOOK v REBOOKED REBOOKING REBOOKSREBOOT v REBOOTED REBOOTING REBOOTSREBORE v REBORED REBORING REBORESREBOTTLE v REBOTTLED REBOTTLING REBOTTLESREBOUGHT keçmiş zaman REBOUND keçmiş zaman REBREED v REBRED REBREEDING REBREEDSREBUILD v REBUILT or REBUILDED REBUILDING REBUILDSREBURY v REBURIED REBURYING REBURIESREBUTTON v REBUTTONED REBUTTONING REBUTTONSREBUY v REBOUGHT REBUYING REBUYSRECANE v RECANED RECANING RECANESRECARPET v RECARPETED RECARPETING RECARPETSRECARRY v RECARRIED RECARRYING RECARRIESRECAST v RECAST RECASTING RECASTSRECEMENT v RECEMENTED RECEMENTING RECEMENTSRECENSOR v RECENSORED RECENSORING RECENSORSRECHANGE v RECHANGED RECHANGING RECHANGESRECHARGE v RECHARGED RECHARGING RECHARGESRECHART v RECHARTED RECHARTING RECHARTSRECHECK v RECHECKED RECHECKING RECHECKSRECHEW v RECHEWED RECHEWING RECHEWSRECHOOSE v RECHOSE RECHOSEN RECHOOSING RECHOOSESRECIRCLE v RECIRCLED RECIRCLING RECIRCLESRECLAD v RECLADDED RECLADDING RECLADSRECLASP v RECLASPED RECLASPING RECLASPSRECLEAN v RECLEANED RECLEANING RECLEANSRECLOTHE v RECLOTHED or RECLAD RECLOTHING RECLOTHESRECOAL v RECOALED RECOALING RECOALSRECOAT v RECOATED RECOATING RECOATSRECOCK v RECOCKED RECOCKING RECOCKSRECODE v RECODED RECODING RECODESRECODIFY v RECODIFIED RECODIFYING RECODIFIESRECOIN v RECOINED RECOINING RECOINSRECOLOR v RECOLORED RECOLORING RECOLORSRECOLOUR v RECOLOURED RECOLOURING RECOLOURSRECOMB v RECOMBED RECOMBING RECOMBSRECOMMIT v RECOMMITTED RECOMMITTING RECOMMITSRECONFER v RECONFERRED RECONFERRING RECONFERSRECOOK v RECOOKED RECOOKING RECOOKSRECOPY v RECOPIED RECOPYING RECOPIESRECORK v RECORKED RECORKING RECORKSRECOUPLE v RECOUPLED RECOUPLING RECOUPLESRECRATE v RECRATED RECRATING RECRATESRECROSS v RECROSSED RECROSSING RECROSSESRECROWN v RECROWNED RECROWNING RECROWNSRECUT v RECUT RECUTTING RECUTSREDAMAGE v REDAMAGED REDAMAGING REDAMAGESREDATE v REDATED REDATING REDATESREDECIDE v REDECIDED REDECIDING REDECIDESREDEFEAT v REDEFEATED REDEFEATING REDEFEATSREDEFECT v REDEFECTED REDEFECTING REDEFECTSREDEFINE v REDEFINED REDEFINING REDEFINESREDEFY v REDEFIED REDEFYING REDEFIESREDEMAND v REDEMANDED REDEMANDING REDEMANDSREDENY v REDENIED REDENYING REDENIESREDEPLOY v REDEPLOYED REDEPLOYING REDEPLOYSREDESIGN v REDESIGNED REDESIGNING REDESIGNSREDIAL v REDIALED REDIALING REDIALS or REDIALLED REDIALLING REDIALSREDID keçmiş zaman REDIGEST v REDIGESTED REDIGESTING REDIGESTSREDIP v REDIPPED or REDIPT REDIPPING REDIPSREDIVIDE v REDIVIDED REDIVIDING REDIVIDESREDO v REDID REDONE REDOING REDOESREDOCK v REDOCKED REDOCKING REDOCKSREDON v REDONNED REDONNING REDONSREDRAW v REDREW REDRAWN REDRAWING REDRAWSREDREAM v REDREAMED or REDREAMT REDREAMING REDREAMSREDRILL v REDRILLED REDRILLING REDRILLSREDRIVE v REDROVE REDRIVEN REDRIVING REDRIVESREDRY v REDRIED REDRYING REDRIESREDUB v REDUBBED REDUBBING REDUBSREDYE v REDYED REDYEING REDYESREEARN v REEARNED REEARNING REEARNSREECHO v REECHOED REECHOING REECHOESREEDIT v REEDITED REEDITING REEDITSREEJECT v REEJECTED REEJECTING REEJECTSREELECT v REELECTED REELECTING REELECTSREEMBARK v REEMBARKED REEMBARKING REEMBARKSREEMBODY v REEMBODIED REEMBODYING REEMBODIESREEMERGE v REEMERGED REEMERGING REEMERGESREEMIT v REEMITTED REEMITTING REEMITSREEMPLOY v REEMPLOYED REEMPLOYING REEMPLOYSREENACT v REENACTED REENACTING REENACTSREENDOW v REENDOWED REENDOWING REENDOWSREENGAGE v REENGAGED REENGAGING REENGAGESREENJOY v REENJOYED REENJOYING REENJOYSREENLIST v REENLISTED REENLISTING REENLISTSREENROLL v REENROLLED REENROLLING REENROLLSREENTER v REENTERED REENTERING REENTERSREEQUIP v REEQUIPPED REEQUIPPING REEQUIPSREERECT v REERECTED REERECTING REERECTSREEVOKE v REEVOKED REEVOKING REEVOKESREEXPEL v REEXPELLED REEXPELLING REEXPELSREEXPORT v REEXPORTED REEXPORTING REEXPORTSREEXPOSE v REEXPOSED REEXPOSING REEXPOSESREFALL v REFELL REFALLEN REFALLING REFALLSREFASTEN v REFASTENED REFASTENING REFASTENSREFEED v REFED REFEEDING REFEEDSREFEEL v REFELT REFEELING REFEELSREFELL keçmiş zamanREFENCE v REFENCED REFENCING REFENCESREFIGHT v REFOUGHT REFIGHTING REFIGHTSREFIGURE v REFIGURED REFIGURING REFIGURESREFILE v REFILED REFILING REFILESREFILL v REFILLED REFILLING REFILLSREFILM v REFILMED REFILMING REFILMSREFILTER v REFILTERED REFILTERING REFILTERSREFIND v REFOUND REFINDING REFINDSREFIRE v REFIRED REFIRING REFIRESREFIX v REFIXED REFIXING REFIXESREFLEW keçmiş zaman REFLIES müasir 3d şəxs tək forma REFLOAT v REFLOATED REFLOATING REFLOATSREFLOOD v REFLOODED REFLOODING REFLOODSREFLOW v REFLOWED REFLOWING REFLOWSREFLOWER v REFLOWERED REFLOWERING REFLOWERSREFLY v REFLEW REFLOWN REFLYING REFLIESREFOCUS v REFOCUSED REFOCUSING REFOCUSES or REFOCUSSED REFOCUSSING REFOCUSSESREFOLD v REFOLDED REFOLDING REFOLDSREFORGE v REFORGED REFORGING REFORGESREFORMAT v REFORMATTED REFORMATTING REFORMATSREFOUGHT keçmiş zaman REFOUND v REFOUNDED REFOUNDING REFOUNDSREFRAME v REFRAMED REFRAMING REFRAMESREFREEZE v REFROZE REFROZEN REFREEZING REFREEZESREFRONT v REFRONTED REFRONTING REFRONTSREFRY v REFRIED REFRYING REFRIESREFUEL v REFUELED REFUELING REFUELS or REFUELLED REFUELLING REFUELSREGAIN v REGAINED REGAINING REGAINSREGATHER v REGATHERED REGATHERING REGATHERSREGAUGE v REGAUGED REGAUGING REGAUGESREGEAR v REGEARED REGEARING REGEARSREGILD v REGILDED or REGILT REGILDING REGILDSREGIVE v REGAVE REGIVEN REGIVING REGIVESREGLAZE v REGLAZED REGLAZING REGLAZESREGLOSS v REGLOSSED REGLOSSING REGLOSSESREGLOW v REGLOWED REGLOWING REGLOWSREGLUE v REGLUED REGLUING REGLUESREGRADE v REGRADED REGRADING REGRADESREGRAFT v REGRAFTED REGRAFTING REGRAFTSREGRANT v REGRANTED REGRANTING REGRANTSREGREEN v REGREENED REGREENING REGREENSREGREW keçmiş zaman REGRIND v REGROUND REGRINDING REGRINDSREGROOM v REGROOMED REGROOMING REGROOMSREGROOVE v REGROOVED REGROOVING REGROOVESREGROUND keçmiş zaman REGROUP v REGROUPED REGROUPING REGROUPSREGROW v REGREW REGROWN REGROWING REGROWSREHAMMER v REHAMMERED REHAMMERING REHAMMERSREHANDLE v REHANDLED REHANDLING REHANDLESREHANG v REHUNG or REHANGED REHANGING REHANGSREHARDEN v REHARDENED REHARDENING REHARDENSREHASH v REHASHED REHASHING REHASHESREHEAR v REHEARD REHEARING REHEARSREHEAT v REHEATED REHEATING REHEATSREHEEL v REHEELED REHEELING REHEELSREHEM v REHEMMED REHEMMING REHEMSREHINGE v REHINGED REHINGING REHINGESREHIRE v REHIRED REHIRING REHIRESREHUNG keçmiş zaman REIGNITE v REIGNITED REIGNITING REIGNITESREIMAGE v REIMAGED REIMAGING REIMAGESREIMPORT v REIMPORTED REIMPORTING REIMPORTSREIMPOSE v REIMPOSED REIMPOSING REIMPOSESREINCITE v REINCITED REINCITING REINCITESREINCUR v REINCURRED REINCURRING REINCURSREINDEX v REINDEXED REINDEXING REINDEXESREINDICT v REINDICTED REINDICTING REINDICTSREINDUCE v REINDUCED REINDUCING REINDUCESREINDUCT v REINDUCTED REINDUCTING REINDUCTSREINFECT v REINFECTED REINFECTING REINFECTSREINFORM v REINFORMED REINFORMING REINFORMSREINFUSE v REINFUSED REINFUSING REINFUSESREINJECT v REINJECTED REINJECTING REINJECTSREINJURE v REINJURED REINJURING REINJURESREINK v REINKED REINKING REINKSREINSERT v REINSERTED REINSERTING REINSERTSREINSURE v REINSURED REINSURING REINSURESREINTER v REINTERRED REINTERRING REINTERSREINVADE v REINVADED REINVADING REINVADESREINVENT v REINVENTED REINVENTING REINVENTSREINVEST v REINVESTED REINVESTING REINVESTSREINVITE v REINVITED REINVITING REINVITESREINVOKE v REINVOKED REINVOKING REINVOKESREISSUE v REISSUED REISSUING REISSUESREJACKET v REJACKETED REJACKETING REJACKETSREJOIN v REJOINED REJOINING REJOINSREJUDGE v REJUDGED REJUDGING REJUDGESREJUGGLE v REJUGGLED REJUGGLING REJUGGLESREKEY v REKEYED REKEYING REKEYSREKINDLE v REKINDLED REKINDLING REKINDLESREKNIT v REKNITTED REKNITTING REKNITSREKNOT v REKNOTTED REKNOTTING REKNOTSRELABEL v RELABELED RELABELING RELABELS or RELABELLED RELABELLING RELABELSRELACE v RELACED RELACING RELACESRELAND v RELANDED RELANDING RELANDSRELAUNCH v RELAUNCHED RELAUNCHING RELAUNCHESRELAY v RELAID RELAYING RELAYSRELEARN v RELEARNED or RELEARNT RELEARNING RELEARNSRELEND v RELENT RELENDING RELENDSRELET v RELET RELETTING RELETSRELETTER v RELETTERED RELETTERING RELETTERSRELIGHT v RELIGHTED or RELIT RELIGHTING RELIGHTSRELINE v RELINED RELINING RELINESRELINK v RELINKED RELINKING RELINKSRELIST v RELISTED RELISTING RELISTSRELIT keçmiş zaman RELIGHTRELOAD v RELOADED RELOADING RELOADSRELOAN v RELOANED RELOANING RELOANSRELOCK v RELOCKED RELOCKING RELOCKSRELOOK v RELOOKED RELOOKING RELOOKSREMAIL v REMAILED REMAILING REMAILSREMAKE v REMADE REMAKING REMAKESREMAP v REMAPPED REMAPPING REMAPSREMARKET v REMARKETED REMARKETING REMARKETSREMARRY v REMARRIED REMARRYING REMARRIESREMASTER v REMASTERED REMASTERING REMASTERSREMATCH v REMATCHED REMATCHING REMATCHESREMATE v REMATED REMATING REMATESREMEET v REMET REMEETING REMEETSREMELT v REMELTED REMELTING REMELTSREMEND v REMENDED REMENDING REMENDSREMERGE v REMERGED REMERGING REMERGESREMET keçmiş zaman REMIX v REMIXED or REMIXT REMIXING REMIXESREMODIFY v REMODIFIED REMODIFYING REMODIFIESREMOLD v REMOLDED REMOLDING REMOLDSREMOULD v REMOULDED REMOULDING REMOULDSREMOUNT v REMOUNTED REMOUNTING REMOUNTSRENAIL v RENAILED RENAILING RENAILSRENAME v RENAMED RENAMING RENAMESRENEST v RENESTED RENESTING RENESTSRENOTIFY v RENOTIFIED RENOTIFYING RENOTIFIESRENUMBER v RENUMBERED RENUMBERING RENUMBERSREOBJECT v REOBJECTED REOBJECTING REOBJECTSREOBTAIN v REOBTAINED REOBTAINING REOBTAINSREOCCUPY v REOCCUPIED REOCCUPYING REOCCUPIESREOCCUR v REOCCURRED REOCCURRING REOCCURSREOFFEND v REOFFENDED REOFFENDING REOFFENDSREOIL v REOILED REOILING REOILSREOPEN v REOPENED REOPENING REOPENSREOPPOSE v REOPPOSED REOPPOSING REOPPOSESREORDAIN v REORDAINED REORDAINING REORDAINSREORDER v REORDERED REORDERING REORDERSREORIENT v REORIENTED REORIENTING REORIENTSREOUTFIT v REOUTFITTED REOUTFITTING REOUTFITSREPACIFY v REPACIFIED REPACIFYING REPACIFIESREPACK v REPACKED REPACKING REPACKSREPAINT v REPAINTED REPAINTING REPAINTSREPANEL v REPANELED REPANELING REPANELS or REPANELLED REPANELLING REPANELSREPAPER v REPAPERED REPAPERING REPAPERSREPARK v REPARKED REPARKING REPARKSREPASS v REPASSED REPASSING REPASSESREPATCH v REPATCHED REPATCHING REPATCHESREPAVE v REPAVED REPAVING REPAVESREPEG v REPEGGED REPEGGING REPEGSREPEOPLE v REPEOPLED REPEOPLING REPEOPLESREPERK v REPERKED REPERKING REPERKSREPHRASE v REPHRASED REPHRASING REPHRASESREPIN v REPINNED REPINNING REPINSREPLAN v REPLANNED REPLANNING REPLANSREPLANT v REPLANTED REPLANTING REPLANTSREPLATE v REPLATED REPLATING REPLATESREPLAY v REPLAYED REPLAYING REPLAYSREPLEAD v REPLEADED or REPLED REPLEADING REPLEADSREPLEDGE v REPLEDGED REPLEDGING REPLEDGESREPLOT v REPLOTTED REPLOTTING REPLOTSREPLOW v REPLOWED REPLOWING REPLOWSREPLUMB v REPLUMBED REPLUMBING REPLUMBSREPLUNGE v REPLUNGED REPLUNGING REPLUNGESREPOINT v REPOINTED REPOINTING REPOINTSREPOLISH v REPOLISHED REPOLISHING REPOLISHESREPOLL v REPOLLED REPOLLING REPOLLSREPOT v REPOTTED REPOTTING REPOTSREPOUR v REPOURED REPOURING REPOURSREPOWER v REPOWERED REPOWERING REPOWERSREPRICE v REPRICED REPRICING REPRICESREPRINT v REPRINTED REPRINTING REPRINTSREPROBE v REPROBED REPROBING REPROBESREPUMP v REPUMPED REPUMPING REPUMPSREPURIFY v REPURIFIED REPURIFYING REPURIFIESREPURSUE v REPURSUED REPURSUING REPURSUESRERACK v RERACKED RERACKING RERACKSRERAISE v RERAISED RERAISING RERAISESREREAD v REREAD REREADING REREADSRERECORD v RERECORDED RERECORDING RERECORDSREREMIND v REREMINDED REREMINDING REREMINDSRERENT v RERENTED RERENTING RERENTSREREPEAT v REREPEATED REREPEATING REREPEATSREREVIEW v REREVIEWED REREVIEWING REREVIEWSRERIG v RERIGGED RERIGGING RERIGSRERISE v REROSE RERISEN RERISING RERISESREROLL v REROLLED REROLLING REROLLSREROOF v REROOFED REROOFING REROOFSREROSE keçmiş zaman REROUTE v REROUTED REROUTING REROUTESRESADDLE v RESADDLED RESADDLING RESADDLESRESAID keçmiş zaman RESAIL v RESAILED RESAILING RESAILSRESALUTE v RESALUTED RESALUTING RESALUTESRESAMPLE v RESAMPLED RESAMPLING RESAMPLESRESAT keçmiş zaman RESAW v RESAWED RESAWN RESAWING RESAWSRESAY v RESAID RESAYING RESAYSRESCHOOL v RESCHOOLED RESCHOOLING RESCHOOLSRESCORE v RESCORED RESCORING RESCORESRESCREEN v RESCREENED RESCREENING RESCREENSRESCULPT v RESCULPTED RESCULPTING RESCULPTSRESEAL v RESEALED RESEALING RESEALSRESEASON v RESEASONED RESEASONING RESEASONSRESEAT v RESEATED RESEATING RESEATSRESECURE v RESECURED RESECURING RESECURESRESEE v RESAW RESEEN RESEEING RESEESRESEED v RESEEDED RESEEDING RESEEDSRESEEK v RESOUGHT RESEEKING RESEEKSRESEEN keçmiş zaman RESEIZE v RESEIZED RESEIZING RESEIZESRESELECT v RESELECTED RESELECTING RESELECTSRESELL v RESOLD RESELLING RESELLSRESEND v RESENT RESENDING RESENDSRESET v RESET RESETTING RESETSRESETTLE v RESETTLED RESETTLING RESETTLESRESEW v RESEWED RESEWN RESEWING RESEWSRESHAPE v RESHAPED RESHAPING RESHAPESRESHAVE v RESHAVED RESHAVEN RESHAVING RESHAVESRESHINE v RESHINED or RESHONE RESHINING RESHINESRESHIP v RESHIPPED RESHIPPING RESHIPSRESHOE v RESHOD or RESHOED RESHOEING RESHOESRESHONE keçmiş zaman  RESHOOT v RESHOT RESHOOTING RESHOOTSRESHOW v RESHOWED RESHOWN RESHOWING RESHOWSRESHOWER v RESHOWERED RESHOWERING RESHOWERSRESIFT v RESIFTED RESIFTING RESIFTSRESIGHT v RESIGHTED RESIGHTING RESIGHTSRESILVER v RESILVERED RESILVERING RESILVERSRESIT v RESAT RESITTING RESITSRESITE v RESITED RESITING RESITESRESIZE v RESIZED RESIZING RESIZESRESKETCH v RESKETCHED RESKETCHING RESKETCHESRESLATE v RESLATED RESLATING RESLATESRESMELT v RESMELTED RESMELTING RESMELTSRESMOOTH v RESMOOTHED RESMOOTHING RESMOOTHSRESOAK v RESOAKED RESOAKING RESOAKSRESOD v RESODDED RESODDING RESODSRESOFTEN v RESOFTENED RESOFTENING RESOFTENSRESOLD keçmiş zaman RESOLDER v RESOLDERED RESOLDERING RESOLDERSRESOLE v RESOLED RESOLING RESOLESRESOUGHT keçmiş zaman RESOW v RESOWED RESOWN RESOWING RESOWSRESPACE v RESPACED RESPACING RESPACESRESPADE v RESPADED RESPADING RESPADESRESPEAK v RESPOKE RESPOKEN RESPEAKING RESPEAKSRESPELL v RESPELLED or RESPELT RESPELLING RESPELLSRESPLICE v RESPLICED RESPLICING RESPLICESRESPLIT v RESPLIT RESPLITTING RESPLITSRESPOKE keçmiş zaman  RESPOKEN keçmiş zaman  RESPOOL v RESPOOLED RESPOOLING RESPOOLSRESPOT v RESPOTTED RESPOTTING RESPOTSRESPRANG keçmiş zaman  RESPRAY v RESPRAYED RESPRAYING RESPRAYSRESPREAD v RESPREAD RESPREADING RESPREADSRESPRING v RESPRANG or RESPRUNG RESPRINGING RESPRINGSRESPROUT v RESPROUTED RESPROUTING RESPROUTSRESTABLE v RESTABLED RESTABLING RESTABLESRESTACK v RESTACKED RESTACKING RESTACKSRESTAFF v RESTAFFED RESTAFFING RESTAFFSRESTAGE v RESTAGED RESTAGING RESTAGESRESTAMP v RESTAMPED RESTAMPING RESTAMPSRESTART v RESTARTED RESTARTING RESTARTSRESTATE v RESTATED RESTATING RESTATESRESTITCH v RESTITCHED RESTITCHING RESTITCHESRESTOCK v RESTOCKED RESTOCKING RESTOCKSRESTOKE v RESTOKED RESTOKING RESTOKESRESTRESS v RESTRESSED RESTRESSING RESTRESSESRESTRIKE v RESTRUCK RESTRICKEN RESTRIKING RESTRIKESRESTRING v RESTRUNG RESTRINGING RESTRINGSRESTRIVE v RESTROVE RESTRIVEN RESTRIVING RESTRIVESRESTRUCK keçmiş zaman RESTRUNG keçmiş zaman RESTUDY v RESTUDIED RESTUDYING RESTUDIESRESTUFF v RESTUFFED RESTUFFING RESTUFFSRESTYLE v RESTYLED RESTYLING RESTYLESRESUBMIT v RESUBMITTED RESUBMITTING RESUBMITSRESUMMON v RESUMMONED RESUMMONING RESUMMONSRESUPPLY v RESUPPLIED RESUPPLYING RESUPPLIESRESURVEY v RESURVEYED RESURVEYING RESURVEYSRETACK v RETACKED RETACKING RETACKSRETACKLE v RETACKLED RETACKLING RETACKLESRETAG v RETAGGED RETAGGING RETAGSRETAILOR v RETAILORED RETAILORING RETAILORSRETALLY v RETALLIED RETALLYING RETALLIESRETAPE v RETAPED RETAPING RETAPESRETARGET v RETARGETED RETARGETING RETARGETSRETASTE v RETASTED RETASTING RETASTESRETAX v RETAXED RETAXING RETAXESRETEACH v RETAUGHT RETEACHING RETEACHESRETEAM v RETEAMED RETEAMING RETEAMSRETEAR v RETORE RETORN RETEARING RETEARSRETELL v RETOLD RETELLING RETELLSRETEMPER v RETEMPERED RETEMPERING RETEMPERSRETEST v RETESTED RETESTING RETESTSRETHINK v RETHOUGHT RETHINKING RETHINKSRETHREAD v RETHREADED RETHREADING RETHREADSRETIE v RETIED RETYING or RETIEING RETIESRETILE v RETILED RETILING RETILESRETIME v RETIMED RETIMING RETIMESRETINT v RETINTED RETINTING RETINTSRETITLE v RETITLED RETITLING RETITLESRETOLD keçmiş zaman RETELLRETORE keçmiş zaman RETORN keçmiş zaman RETOTAL v RETOTALED RETOTALING RETOTALS or RETOTALLED RETOTALLING RETOTALSRETRACK v RETRACKED RETRACKING RETRACKSRETRAIN v RETRAINED RETRAINING RETRAINSRETRIM v RETRIMMED RETRIMMING RETRIMSRETRY v RETRIED RETRYING RETRIESRETUNE v RETUNED RETUNING RETUNESRETWIST v RETWISTED RETWISTING RETWISTSRETYING müasir participle of retieRETYPE v RETYPED RETYPING RETYPESREUNIFY v REUNIFIED REUNIFYING REUNIFIESREUNITE v REUNITED REUNITING REUNITESREUSE v REUSED REUSING REUSESREUTTER v REUTTERED REUTTERING REUTTERSREVALUE v REVALUED REVALUING REVALUESREVERIFY v REVERIFIED REVERIFYING REVERIFIESREVEST v REVESTED REVESTING REVESTSREVIEW v REVIEWED REVIEWING REVIEWSREVISIT v REVISITED REVISITING REVISITSREVOICE v REVOICED REVOICING REVOICESREVOTE v REVOTED REVOTING REVOTESREWAKE v REWAKED or REWOKE REWOKEN REWAKING REWAKESREWAKEN v REWAKENED REWAKENING REWAKENSREWAN keçmiş zaman REWARM v REWARMED REWARMING REWARMSREWASH v REWASHED REWASHING REWASHESREWAX v REWAXED REWAXING REWAXESREWEAR v REWORE REWORN REWEARING REWEARSREWEAVE v REWOVE or REWEAVED REWOVEN REWEAVING REWEAVESREWED v REWEDDED REWEDDING REWEDSREWEIGH v REWEIGHED REWEIGHING REWEIGHSREWELD v REWELDED REWELDING REWELDSREWET v REWETTED REWETTING REWETSREWIDEN v REWIDENED REWIDENING REWIDENSREWIN v REWON or REWAN REWINNING REWINSREWIND v REWOUND or REWINDED REWINDING REWINDSREWIRE v REWIRED REWIRING REWIRESREWOKE keçmiş zaman REWAKEREWOKEN keçmiş zaman REWINREWORK v REWORKED or REWROUGHT REWORKING REWORKSREWORN keçmiş zaman REWEARREWOUND keçmiş zaman REWINDREWOVE keçmiş zaman REWEAVEREWOVEN keçmiş zaman REWEAVEREWRAP v REWRAPPED or REWRAPT REWRAPPING REWRAPSREWRITE v REWROTE REWRITTEN REWRITING REWRITESREWROUGHT keçmiş zaman REWOKEREZONE v REZONED REZONING REZONES").
+entry(hıçqır, v, [hıçqırdı,hıçqırır,hıçqır], "ağlamaq").
+giriş(sabal, n, [sabal], "bir palmetto").
+entry(sabaton, n, [sabatlar], "ayaq üçün zireh parçası").
+entry(sabayon, n, [sabayons], "çəliklə çalınmış yumurta sarısı, şəkər və şərabdan hazırlanan sous").
+entry(sabbat, n, [sabbatlar], "cinlər və cadugərlərin yığıncağı").
+entry(sabbat, n, [sabbatlar], "sabbat").
+entry(sabbatic, n, [sabbatiklər], "normal dərs vəzifələrindən bir azad il").
+entry(sabbed, keçmiş, [], "sab feilinin əmr forması").
+entry(sabbing, indiki, [], "sabın partisip cümləsi").
+entry(sabe, v, [sabed,sabeing,sabes], "anlamaq").
+entry(sabre, v, [sabreledi, sabreleme, sabreler], "bir növ qılınc olan sabre ilə vurmaq").
+entry(sabicu, n, [sabicus], "bir Karib ağacı").
+giriş(sabin, is, [sabinlər], "səs udma vahidi").
+entry(sabine, n, [sabinlər], "sabin").
+giriş(sabir, i, [sabirlər], "fransız əsaslı pidgin dili").
+entry(sabxa, n, [sabxalar], "Şimali Afrikada dövrü olaraq su basan sahil düzənlik sahəsi").
+entry(sable, n, [qara qurdlar], "ət yeyən məməli").
+entry(sabot, n, [sabots], "taxta ayaqqabıSABOTED sif").
+entry(sabotaj, v, [sabotaj etdi,sabotaj edir,sabotaj edər], "qəsdən dağıtmaq").
+giris(sabotajçı, n, [sabotajçılar], "sabotaj edən şəxs").
+entry(sabra, n, [sabras], "yerli israilli").
+entry(sabre, v, [sabretdi,sabr edən,sabr edir], "qılıncla kəsə bilmək").
+entry(sabulose, sif, [], "qumvari").
+entry(sabulous, sif, [], "qumlu").
+giriş(sac, n, [sacs], "heyvan və ya bitkidə bir cibşəkilli quruluş").
+entry(sakaton, n, [sakatonlar], "çoxillik ot").
+entry(sakbut, n, [sakbutlar], "sakbut").
+entry(sakkad, n, [sakkadlar], "gözün sürətli titrək hərəkəti SAKKADİK sif").
+entry(saccate, sif, [], "kisəyə malik olan").
+entry(sakkulyar, sif, [], "kisəyə bənzəyən").
+entry(sakkul, n, [sakkullar], "kiçik torba").
+entry(sacculus, n, [sacculi], "kiçik torba").
+entry(sachem, n, [saçemlər], "yerli amerikalı başçıSAÇEMİK sif").
+entry(sachet, n, [sachets], "ətirli toz olan kiçik çanta SACHETED sif").
+entry(yük, v, [yükləndi,yüklənmə,yüklər], "böyük çantaya qoymaqYÜKLƏNƏBİLƏN sif").
+entry(sakbut, n, [sakbutlar], "orta əsr trombonu").
+entry(talançı, n, [talançılar], "talayan biri").
+entry(torba, n, [torbalar], "və ya TORBA DOLUbir torbanın tutacağı qədər").
+entry(çuval_bezi, n, [çuval_beziləri], "çuval hazırlamaq üçün material").
+entry("torbaya bənzər", sifət, [], "torbaya oxşayan").
+entry(saclike, sif, [], "kisəyə bənzəyən").
+entry(sacque, n, [sacques], "geniş paltar").
+giris(sakrum, cəm, [], "sakrumun").
+entry(sakral, n, [sakrallar], "sakrum yaxınlığında yerləşən bir fəqərə və ya sinir").
+entry(sacraria, cəmlik, [], "qədim Roma məbədləri").
+entry(muqəddəs, sif, [], "MUQƏDDƏSLIKlə adv").
+entry(qurbangah, n, [qurbangahlar], "Exoqaristiyanın çörək və şərabının müqəddəsləşdirilməsi").
+entry(sakristan, n, [sakristanlar], "sakristiyanın rəhbəri olan şəxs").
+entry(sakristiya, n, [sakristiyalar], "müqəddəs qablar və geyimlərin saxlandığı otaq").
+entry(sacrum, n, [sacrums], "və ya SACRAçanaq sümüyü").
+entry(kədərli, sifət, [], "DAHA KƏDƏRLİ ƏN KƏDƏRLİnarazı").
+entry(kədərləndirmək, f, [kədərləndirdi,kədərləndirən,kədərləndirir], "bədbəxt etmək").
+entry(saddhu, n, [saddhus], "sadhu").
+entry(saddish, sif, [], "bir qədər kədərli").
+entry(yəhər, v, [yəhərlədi,yəhərləmə,yəhərlər], "minik üçün binövrə quraşdırmaq").
+entry(sərkərdə, n, [sərkərdələr], "tərliklər təmir edən və ya satan şəxs").
+giriş(yəhərçi, i, [yəhərçilər], "yəhərçinin dükanı").
+entry(sade, n, [sades], "ibrani hərfi").
+entry(sadhe, n, [sadhes], "sadə").
+entry(sadhu, n, [sadhular], "Hindu müqəddəs adam").
+entry(sadi, n, [sadis], "sadə").
+entry(sadiron, n, [sadirons], "ağır dəmir ütü").
+entry(sadizm, n, [sadizmlər], "ağrı çəkmədən zövq almağa meyl").
+entry(sadist, n, [sadistlər], "sadizmlə xarakterizə olunan biri SADISTIC sif").
+entry(kədərlə, zərf, [], "kədərli bir şəkildə").
+entry(kədər, n, [kədərlər], "kədərli olma vəziyyəti").
+entry(sae, adv, [], "belə").
+entry(safari, v, [safaried, safariing, safaris], "ov səfərinə getmək").
+entry(təhlükəsiz, sif, [], "TƏHLÜKƏSİZ TƏHLÜKƏSİZLIKdəm qorunmuşTƏHLÜKƏSİZLİKLƏ zərf").
+giriş(təhlükəsiz, n, [təhlükəsizlər], "qiymətli əşyaları saxlamaq üçün metal qab").
+giriş(təhlükəsizlik, n, [təhlükəsizliklər], "təhlükəsiz olma keyfiyyəti").
+entry(təhlükəsizlik, v, [təhlükəsizlənmiş,təhlükəsizlənmə,təhlükəsizliklər], "uğursuzluq, qırılma və ya qəzaya qarşı qorumaq").
+entry(safran, n, [safranlar], "çiçəkli bitki").
+entry(safranımsı, sif, [], "safranı xatırladan").
+entry(safran, n, [safranlar], "qırmızı boya").
+entry(safrol, n, [safrols], "safrol").
+entry(safrol, n, [safrollar], "zəhərli maye").
+entry(sark, v, [sarkdı, sarkma, sarkır], "ağırlıq və ya təzyiq nəticəsində aşağıya əyilmək və ya batmaq").
+entry(saga, n, [sagalar], "orta əsr Skandinaviya hekayəti").
+entry(müdriklik, n, [müdrikliklər], "hikmət").
+entry(sagaman, n, [sagamen], "saga yazarı").
+entry(sagamore, n, [sagamorelər], "Algonkin Hindistanlılarının başçısı").
+entry(saganash, n, [saganashes], "ağ adam, Algonkiya hindlərinin termini").
+entry(sagbut, n, [sagbuts], "sakbut").
+giriş(sage, sifət, [], "AĞILLI AĞILCASSƏHƏR").
+entry(sage, n, [sages], "ədviyyat olaraq istifadə olunan aromatik ot").
+entry(müdriklik, n, [müdrikliklər], "müdrik olmaq vəziyyəti").
+entry(müdriklik, n, [müdrikliklər], "müdriklik").
+entry(saggar, v, [saggared,saggaring,saggars], "səggar qoruyucu gil örtüyündə bişirmək").
+entry(saggard, n, [saggardlar], "bir saggar").
+entry(sallandı, keçmiş, [], "sallanmaq felinin zamanı").
+entry(sagger, v, [saggered, saggering, saggers], "saqqarla").
+entry(sallanma, indiki, [], "sallanmaq feilinin iştirakçı forması").
+entry(saggy, sif, [], "sallanan, daha sallanan, ən sallanan").
+entry(sagier, müqayisəli, [], "sagy").
+giriş(sagiest, superlative, [], "sagy-nin").
+entry(sagittal, sifət, [], "ox və ya ox başlığına bənzəyən").
+entry(sago, n, [sagos], "tropik ağac").
+entry(saguaro, n, [saguarolar], "hündür kaktus").
+entry(sagum, n, [saga], "qədim Roma əsgərlərinin geydiyi bir pelerin").
+entry(sagy, sif, [], "YAĞIN TƏMİZLƏNDİ YƏNİ YAĞİN ƏN TƏMİZİ TƏMİZLƏNDİ KEŞNİŞLİ").
+entry(sahib, n, [sahibs], "hörmətli şəxs, müstəmləkə Hindistanında hörmət əlaməti olaraq istifadə edilən termin").
+entry(sahiwal, n, [sahiwals], "hörgüclü süd inəklərinin bir cinsi").
+entry(sahuaro, n, [sahuaros], "saguaro").
+entry(saice, n, [saices], "syce").
+entry(said, n, [saids], "seyid").
+entry(saiga, n, [saigalar], "kiçik antilop").
+entry(yelkən, f, [yelkənli,yelkənlə,yelkənlər], "küləyin təsiri ilə suyun səthi boyunca hərəkət etmək YELKƏN AŞMASI s").
+entry(yelkənli_qayıq, n, [yelkənli_qayıqlar], "yelkənli bir qayıq").
+entry(yelkənli_qayıq, n, [yelkənli_qayıqlar], "yelkənli gəmi").
+entry(sailfish, n, [sailfishlər], "böyük dəniz balığı").
+entry(yelkən, n, [yelkənlər], "yelənək edən şəxsin hərəkəti").
+entry(yelkənsiz, sifət, [], "yelkanı olmayan").
+daxil(etmə, n, [dənizçilər], "gəmi heyətinin üzvü DENİZÇİLİK sif").
+entry(sailpast, n, [sailpasts], "gəmi keçidi").
+entry(saimin, n, [saiminlər], "Havayaya aid əriştə şorbası").
+giriş(sain, f, [sained,saining,sains], "xaç işarəsi etmək").
+entry(safoyin, n, [safoyinlər], "çoxillik ot").
+entry(müqəddəs, f, [müqəddəsləşdi,müqəddəsləşir,müqəddəsdir], "müqəddəs elan etmək, xüsusi müqəddəsliyi olan bir insan").
+entry(müqəddəslik, n, [müqəddəsliklər], "müqəddəs olma vəziyyəti").
+entry(müqəddəs, sif, [], "MÜQƏDDƏSLƏR MÜQƏDDƏSLƏRimanda müqəddəsə aid və ya ona uyğun").
+entry(saith, a, [], "deyir üçüncü şəxs tək indiki zaman").
+entry(saida, n, [saida], "dəniz qida balığı").
+entry(saiyid, n, [saiyids], "səyyid").
+entry(sajou, n, [sajular], "bir kapuçin").
+entry(sake, n, [maraqlar], "fayda maraq və ya üstünlük").
+entry(saker, n, [saqqallar], "Avrasiya şahin").
+entry(saki, n, [sakis], "yapon likörü").
+yeni(güclü, n, [güclülər], "Hind dinində bir tanrının arvadı").
+entry(duz, n, [duzlar], "duz").
+entry(salam, f, [salamaladı,salamalayır,salamalayar], "alçaq təzimlə salamlamaq").
+entry(satila, sif, [], "satıla bilən və ya satılmağa yararlıSATICALI zərf").
+entry(süvvari, n, [süvvariyyətlər], "ədabazlıq").
+entry(salat, n, [salatlar], "yaşıl çiy tərəvəzlərdən ibarət yemək").
+entry(saladang, n, [saladanglar], "vəhşi öküz").
+entry(salal, n, [salallar], "kiçik bir kol").
+entry(salami, n, [salami], "ədviyyatlı kolbasa").
+entry(salariat, n, [salariatlar], "maaşlı şəxslər sinfi").
+entry(salary, v, [maasla,maaslayan,maaslar], "dövri sabit bir ödəniş ödəmək üçün").
+entry(salat, n, [səlat], "müsəlmanların ritual duası").
+entry(salxov, n, [salxovlar], "fiqurlu konkisürmə tullanışı").
+satış(giriş, n, [satışlar], "satma hərəkəti və ya nümunəsi").
+entry(satışaçıxarılabilən, sif, [], "satışadüzələnSATIŞABİLƏR adv").
+entry(salep, n, [saleps], "müxtəlif orkide köklərindən alınan nişastalı yemək").
+entry(satış_otağı, n, [satış_otaqları], "satış üçün malların nümayiş etdirildiyi otaq").
+entry(satıcı, n, [satıcılar], "mallar satan kişi").
+entry(salik, sif, [], "maqmatik qaya qrupuna aid olan").
+entry(salisin, n, [salisinlər], "kimyəvi birləşmə").
+entry(salisin, n, [salisinlər], "salisin").
+entry(çıxıntı, n, [çıxıntılar], "çıxan xüsusiyyət və ya təfərrüat").
+giriş(vurğululuq, n, [vurğululuqlar], "vurğululuq").
+entry(mərcana, n, [mərcanalar], "düşmənə ən yaxın çıxıntı edən istehkam hissəsi").
+entry(salify, v, [duzlaşdı,duzlayan,duzlaşır], "duz ilə birləşdirmək").
+entry(salina, n, [duz gölləri], "duzlu su olan bir göl, bataqlıq və ya gölməçə").
+giris(duzlu_maye, n, [duzlu_mayeler], "duz məhlulu").
+entry(duzluluq, n, [duzluluqlar], "duz konsentrasiyası").
+entry(salinize, v, [duzlanmış,duzlayaraq,duzlayır], "duz ilə müalicə etmək").
+entry(tüpürcək, n, [tüpürcəklər], "ağız vəzilərinin ifraz etdiyi mayeSALİVAR adj").
+entry(tüpürcək ifraz etmək, v, [tüpürcək ifraz etdi,tüpürcək ifraz edir,tüpürcək ifraz edər], "tüpürcək ifraz etmək").
+entry(sall, v, [], "olacaq SALL bu felin tək formasıdır və onu təsrifləmək mümkün deyil").
+giris(sallet, i, [salletlər], "yüngül orta əsr dəbilqəsi").
+entry(sallied, keçmiş, [], "sally felinin keçmiş zaman forması").
+entry(sallier, n, [salliers], "hücum edən").
+entry(sallanır, indiki, [], "sallanmaq felinin 3-cü şəxs tək").
+entry(sallow, adj, [], "XƏSTƏLİKSARI RƏNGLİSALLOWLY zərf").
+entry(sallow, v, [sallowed,sallowing,sallows], "solğun etmək").
+entry(sallowy, sif, [], "qovaq ağacları ilə bol").
+entry(sally, v, [qaçdı, qaçır, qaçır], "birdən qaçmaq").
+entry(salmi, n, [qızardılmış ov quşları], "qızardılmış ov quşlarından hazırlanmış yemək").
+entry(somon, n, [somonlar], "qida balığı").
+entry(somon, n, [somonlar], "somon ailəsinə aid bir balıq").
+entry(narıncımtıl, sif, [], "qızılgülə oxşayan").
+entry(salol, n, [salollar], "kimyəvi bir birləşmə").
+giriş(salon, isim, [salaonlar], "qonaqların qəbul edildiyi böyük otaq").
+entry(salon, n, [salonlar], "bir kafe").
+entry(saloop, n, [salooplar], "aromatik otların dəmləməsindən hazırlanan isti içki").
+entry(salp, n, [salplar], "salpa").
+entry(salpa, n, [salpas], "və ya SALPA Ea sərbəst üzən tunikat").
+entry(salpian, n, [salpianlar], "salpa").
+entry(salpicon, n, [salpikon], "doldurma olaraq istifadə olunan sousda doğranmış qidaların qarışığı").
+entry(salpid, n, [salpidlər], "salpa").
+entry(salpinqs, n, [salpinqlər], "anatomik boru").
+giriş(salsa, i, [salsalar], "pomidor, soğan və bibərlə hazırlanan ədviyyatlı sous").
+entry(salsify, n, [salsifiyalar], "Avropa ot bitkisi").
+entry(salsilla, n, [salsillas], "tropik bir bitki").
+entry(duz, sifət, [], "DUZLU DUZ DUZLUduzlu").
+entry(duz, v, [duzlu,duzlayır,duzlar], "müalicə etmək üçün bir ədviyyat və qoruyucu kimi istifadə olunan kristal birləşmə ilə duzlamaq").
+entry(saltant, sif, [], "tullanmaq və ya rəqs etmək").
+entry(saltbox, n, [saltboxes], "ev növü").
+entry(saltbush, n, [duzcul_kollar], "duza davamlı bir bitki").
+entry(salter, n, [salters], "duzlayan şəxs").
+entry(saltern, n, [duzlaqlar], "duz istehsal olunan yer").
+entry(saltery, n, [salteries], "balığın saxlama üçün duzlandığı zavod").
+entry(saltie, n, [salties], "Böyük Göllərdə dərin dəniz gəmisi").
+entry(saltier, n, [saltiers], "salti̇r").
+entry(saltiest, superlative, [], "duzlu").
+entry(saltily, adv, [], "duzlu bir şəkildə").
+entry(salt kraker, n, [salanlı krekerlər], "duzlu kraker").
+entry(şoranlıq, n, [şoranlıqlar], "mütəmadi olaraq gelgitlər tərəfindən su basılan torpaq").
+entry(saltire, n, [saltires], "heraldik dizayn").
+entry(duzluvari, sif, [], "bir qədər duzlu").
+entry(duzsuz, sif, [], "duzu olmayan").
+entry(saltabənzər, sif, [], "duza bənzəyən").
+entry(duzluluq, n, [duzluluqlar], "duzlu olma vəziyyəti").
+entry(saltpan, n, [duz qabları], "buxarlanma ilə duz istehsalı üçün böyük qab").
+entry(duzsazı, n, [duzsazılar], "duz zavodu").
+entry(saltwort, n, [dənizotları], "dəniz kənarında bitən ot").
+entry(salty, adj, [], "DUZLU SƏRTLİNDƏ SƏRTTASTİNG və ya duz olan").
+entry(saluki, n, [salukilər], "hündür incə it").
+entry(salut, interj, [], "içkidən əvvəl dostluğu ifadə etmək üçün istifadə olunur").
+entry(salutary, sif, [], "faydalı bir təsir göstərən").
+entry(salamla, v, [salamladı,salamlayır,salamlayır], "qarşılama və ya hörmət nişanəsi ilə salam vermək").
+entry(saluter, n, [saluters], "salamlayan").
+giriş(salvable, sif, [], "xilas oluna bilənSALVABLY adv").
+entry(sahil çıxarmaq, v, [sahil çıxarıldı, sahil çıxarılır, sahil çıxarır], "itki və ya məhv olmaqdan xilas etmək").
+giriş(xilas_olunan, n, [xilas_olunanlar], "xilasın tərtib edildiyi şəxs").
+entry(xilasçı, n, [xilasçılar], "xilas edən biri").
+entry(salve, v, [salved, salving, salves], "sakitləşdirmək").
+entry(podnos, n, [podnoslar], "qab və ya xidmət qabı").
+entry(salvia, n, [salviyalar], "bir çiçəkli bitki").
+entry(qurtarıcı, sif, [], "qurtarma gücünə malik").
+entry(salving, indiki, [], "salve-in participi").
+entry(salvo, v, [salvoed,salvoing,salvos], "və ya SALVOES silahları eyni vaxtda boşaltmaq").
+entry(xilasedici, n, [xilasedicilər], "bir xilasedici").
+entry(salwar, n, [salwarlar], "şalvar").
+giris(samadhi, n, [samadhilər], "yoqada konsentrasiya vəziyyəti").
+giriş(samara, isim, [samaras], "qurudulmuş təktoxumlu meyvə").
+entry(samarium, n, [samarilər], "metal element").
+entry(samba, f, [sambaladı,sambalayır,sambalayar], "Braziliya rəqsini ifa etmək").
+entry(sambal, n, [samballar], "ədviyyatlı sous").
+entry(sambar, n, [sambars], "böyük Asiya maralı").
+entry(sambhar, n, [sambhars], "sambar").
+entry(sambhur, n, [sambhurlar], "sambar").
+entry(sambo, n, [sambos], "ya da SAMBOES qarışıq zənci və hind mənşəli Latın Amerikalı").
+entry(sambuka, n, [sambukalar], "qədim simli musiqi aləti").
+entry(sambuke, n, [sambukes], "sambuka").
+entry(sambur, n, [samburlar], "sambur").
+entry(same, adj, [], "hər müvafiq baxımdan oxşayan").
+entry(samech, n, [samechs], "samek").
+entry(samek, n, [sameklər], "ibrani hərfi").
+entry(samekh, n, [samekhs], "samek").
+entry(eyniləşmə, n, [eyniləşmələr], "dəyişiklik və ya müxtəlifliyin olmaması").
+entry(samey, sifət, [], "ÇOX EYNİSİ).
+entry(samfu, n, [samfus], "gündəlik Çin gödəkçə və şalvardan ibarət geyim").
+entry(samiel, n, [səmum], "simum").
+entry(samisen, n, [samisens], "Yapon simli aləti").
+entry(hamayil, n, [hamayillər], "ipək parça").
+entry(samizdat, n, [samizdatlar], "Sovet İttifaqında icazəsiz ədəbiyyat çap edən və yayımlayan bir sistem").
+entry(samlet, n, [samlets], "cavan losos").
+entry(samosa, n, [samosalar], "doldurulmuş xəmir dönəri").
+entry(samovar, n, [samovarlar], "su isitm\u0259k \u00fc\u00e7\u00fcn metal urn").
+entry(samp, n, [samps], "kobud şəkildə üyüdülmüş qarğıdalı").
+entry(sampan, n, [sampanlar], "dibinə düz olan Çin qayıq növü").
+entry(samfir, n, [samfirlər], "Avropa otu").
+entry(numune, v, [numunelenmis,numunelenmə,numuneler], "bir bütünün nümayəndə hissəsini yoxlamaq üçün").
+giris(nuemune_goturen, n, [nuemune_goturenler], "nuemune goturen biri").
+giriş(nümunə götürmə, n, [nümunələr], "analiz üçün seçilmiş kiçik bir hissə").
+entry(samsara, n, [samsara], "Buddaçılıqda doğum, ölüm və yenidən doğuluş dövranıSAMSARIC sifət").
+entry(samshu, n, [samşu], "Çin likörü").
+entry(samskara, n, [samskaralar], "ind hind təmizləmə mərasimi").
+entry(samuray, n, [samuraylar], "yapon döyüşçüsü").
+entry(san, n, [sans], "sanatoriya").
+entry(sanative, sif, [], "sağaltmaq və ya şəfa vermək gücünə malik olan").
+entry(sancta, a, [], "sanctum-un cəmi").
+entry(qüdsiləşdirmək, v, [qüdsiləşdirilmiş,qüdsiləşdirməkdə,qüdsiləşdirir], "müqəddəs etmək").
+entry(sanksiya, v, [sanksiyalı,sanksiyalayan,sanksiyalar], "icazə vermək").
+entry(müqəddəslik, n, [müqəddəsliklər], "müqəddəslik").
+entry(sanctum, n, [sanctums], "müqəddəs bir yer və ya SANCTA").
+entry(qum, v, [qumladı,qumlamaq,qumlaşır], "ovucu ilə sürtərək hamar etməkQUMLANA BİLƏN sif").
+giriş(sandal, v, [sandallı,sandallama,sandallar], "və ya SANDALLI SANDALLAMA SANDALLARlaq təmin etmək yüngül açıq ayaqqabılar").
+entry(sandarac, n, [sandaraks], "aromatik reçinə").
+entry(sandbag, v, [qum torbası ilə əhatə etdi, qum torbası ilə əhatə edir, qum torbaları ilə əhatə edir], "qum torbaları ilə əhatə etmək").
+entry(sahil bərpası, n, [sahil bərpaları], "böyük qum kütləsi").
+entry(qum təpə, n, [qum təpələri], "çayda və ya dənizdə yaranan qumdan ibarət təpə").
+entry(qum_qutusu, n, [qum_qutuları], "uşaqların oynamaq üçün içində qum olan qutu").
+entry(sandbur, n, [qumçələngi], "birillik ot").
+entry(sandburr, n, [sandburrs], "sandbur").
+entry(sanddab, n, [zənbilllər], "kiçik bir yastı balıq").
+entry(sander, n, [sanders], "zımparalayan biri").
+entry(sandtikan, n, [sandtikanlar], "dəniz balığı").
+entry("qumsağan", n, ["qumsağanlar"], "dişləyən milçək").
+entry(sandhi, n, [sandhis], "fonetik modifikasiya prosesi").
+entry(sandhill, n, [qum təpələri], "qum təpəsi").
+entry(sandhog, isim, [sandhogs], "qum kazıyan və ya qumda işləyən işçi").
+entry(sandier, müqayisəli, [], "qumlu").
+entry(sandiest, superlative, [], "qumlu").
+entry(sandsız, adj, [], "qumsuz").
+entry(quma-bənzər, sif, [], "quma oxşayan").
+entry(sandling, n, [səndlinqlər], "dəniz balığı").
+entry(sandlot, n, [sandlots], "boş bir ərazi").
+entry(sandman, n, [sandmen], "uşaqların gözlərinə qum səpərək onları yuxulu edən mifik şəxs").
+entry(sandpeep, n, [qumquşları], "su itici quş").
+entry(qum təpəsi, n, [qum təpələri], "qum yığını").
+entry(qumçuxuru, n, [qumçuxurları], "qumlu torpaqdan qazılmış çuxur").
+giriş(sandshoe, n, [sandshoes], "yüngül idman ayaqqabısı").
+entry(qumlusu, n, [qumlular], "sabun növü").
+entry(sandtükü, n, [sandtüklər], "qum təpələri ilə yaranan kiçik torpaq nöqtəsi").
+giris(qaçanqarğı, n, [qaçanqarğılar], "bir qaçanqarğı").
+entry(sandviç, v, [sandviçləndi,sandviçlənir,sandviçlər], "iki qat və ya obyekt arasında yerləşdirmək").
+entry(qumqurdu, n, [qumqurdular], "qumda yaşayan qurd").
+entry(sandwort, n, [sandworts], "çiçəkli bitki").
+entry(sandy, sif, [], "QUMSUZ QUMSUZ Əhatə edən və ya qum ilə örtülmüş").
+entry(sandyish, sif, [], "birtəhər qumlu").
+entry(sane, adj, [], "ZƏKALI ƏN ZƏKALIZEKALI CƏHƏTDƏN adv").
+entry(sane, v, [saned,saning,sanes], "təqdis etmək").
+entry(ağıllılıq, n, [ağıllılıqlar], "səlim dərrakə").
+entry(sang, keçmiş, [], "oxumağın zamanı").
+entry(sanga, n, [sangalar], "sangar").
+entry(sangar, n, [sangarlar], "iki və ya üç nəfər üçün müvəqqəti istehkam").
+entry(sangaree, n, [sangarees], "alkoqollu içki").
+entry(sanger, n, [sangers], "səngər").
+entry(sangh, n, [sanghlar], "Hindizmdəki müxtəlif qruplar arasında birliyi təşviq edən bir dərnək").
+entry(sangha, n, [sanqalar], "Buddist dini icma").
+entry(sangrail, n, [sangrailər], "İsa Məsihin Son Axşam Yeməyində istifadə etdiyi əfsanəvi kubok").
+entry(sangreal, n, [sangreals], "sangrail").
+entry(sangria, n, [sanqriyalar], "alkoqollu içki").
+entry(saqqalı, n, [saqqalılar], "qırmızı rəng").
+entry(sanikul, n, [sanikullar], "dərman bitkisi").
+entry(sanidin, n, [sanidinlər], "şüşə kimi feldispat növü").
+entry(sanies, n, [sanies], "yaralardan axan mayeSANIOUS sif").
+entry(saning, indiki, [], "sane-in iştirakçı halı").
+entry(sanitary, n, [sanitaries], "ictimai ayaq yolu").
+entry(sanitate, v, [sanitized,sanitating,sanitates], "dezinfeksiya etmək").
+giriş(təmizlə, v, [təmizlədi,təmizləyir,təmizləyir], "təmizləmək").
+entry(dezinfeksiya, v, [dezinfeksiya_edilmiş,dezinfeksiya_edilir,dezinfeksiyalar], "infeksiya və ya xəstəliyə qarşı qorunmaq üçün təmizləmə və ya sterilizasiya etmə").
+entry(ruhi_saglamlıq, n, [ruhi_saglamlıqlar], "saglam olma vəziyyəti").
+entry(sancaq, n, [sancaqlar], "Türkiyənin inzibati rayon vahidi").
+entry(batdı, keçmiş, [], "batmaq felinin keçmiş zaman forması").
+entry(sannop, n, [sannops], "sannu").
+entry(sannup, n, [sannups], "evli kişi Yerli Amerika").
+entry(sannyasi, n, [sannyasilər], "hindu rahib").
+entry(sans, ədat, [], "olmadan").
+entry(sansar, n, [sansarlar], "sarsar").
+entry(sansei, n, [sanseis], "Amerika Birləşmiş Ştatlarına Yapon immiqrantlarının nəvəsi").
+entry(sanserif, n, [sanseriflər], "əlifbasız şrift növü").
+entry(santallıq, sif, [], "sandal ağacına aid").
+entry(santalol, n, [santalol], "sandal ağacı yağı").
+entry(santera, n, [santeras], "santeriya rahibəsi").
+entry(santeria, n, [santerias], "Karib dənizi bölgəsinin dini").
+entry(santero, n, [santeros], "santeria kahini").
+entry(santim, n, [santims], "yə'ni SANTIMI və ya SANTIMU, Latviyada əvvəllər istifadə edilən pul vahidi").
+entry(santir, n, [santirs], "fars dulcimeri").
+entry(santo, n, [santos], "müqəddəsin taxta təsviri").
+entry(santol, n, [santollar], "tropik bir ağac").
+entry(santonin, n, [santoninlər], "kimyəvi bir birləşmə").
+entry(santir, n, [santirlər], "santir").
+entry(santour, n, [santurlar], "santir").
+entry(santur, n, [santurlar], "santir").
+entry(sanyasi, n, [sanyasilər], "sannyasi").
+entry(sap, v, [zəyiflətməkdə,zəyiflədib,zəyiflədir], "tədricən gücdən salmaq və ya zəiflətmək").
+entry(sapajou, n, [sapajous], "kapuçin").
+entry(sapele, n, [sapeles], "böyük tropik Afrika ağacı").
+entry(saphead, n, [sapheads], "axmaq, ağılsız və ya sadəlövh insan").
+entry(saphena, n, [saphenas], "ayağın SAPHENAE və ya böyük venası").
+entry(sapid, sif, [], "dadlı").
+entry(sapidlik, n, [sapidliklər], "sapid olmaq vəziyyəti").
+entry(müdriklik, n, [müdrikliklər], "wisdom").
+giriş(dərrakə, i, [dərrakələr], "dərrakə").
+entry(sapiens, adj, [], "son dövr insana aid").
+entry(sapient, n, [sapientlər], "müdrik bir adam").
+entry(sapless, sif, [], "canlılıqdan məhrum").
+entry(fidan, n, [fidanlar], "gənc ağac").
+entry(sabunlaşmaq, v, [sabunlaşmış,sabunlaşmaqda,sabunlaşır], "sabuna çevirmək").
+entry(saponin, n, [saponinlər], "bitkilərdən əldə edilən sabunsu maddə").
+entry(saponin, n, [saponinlər], "saponin").
+entry(saponit, n, [saponitlər], "daşların damarlarında və boşluqlarında tapılan bir mineral").
+entry(sapor, n, [sapors], "dadSAPOROUS sif").
+entry(sapota, n, [sapotas], "həmişəyaşıl ağac").
+giris(sapote, i, [sapotes], "tropik Amerika ağacı").
+entry(sapour, n, [dadlar], "dad").
+entry(sapped, kecmis, [], "sap felinin kecmis zamani").
+giriş(sapper, n, [sappers], "hərbi mühəndis").
+entry(saffik, n, [saffiklər], "şeir forması növü").
+sözlük(safir, n, [safirlər], "mavi daş").
+entry(sapphism, n, [sapfizm], "lezbianlıq").
+entry(sapphist, n, [sapphists], "lezbiyan").
+entry(sapping, n, [sappings], "binanın zəifləməsi üçün əsasının aradan qaldırılması").
+entry(sappy, sif, [], "SAPPIER SAPPIESTsillySAPPILY zərf").
+entry(sapremia, n, [sapremiyalar], "qan zəhərlənməsinin bir formasıSAPREMİK sif").
+entry(saprofit, n, [saprofes], "qida maddələrini çürümüş üzvi maddələrdən alan bir orqanizmSAPROFİTİK sif").
+entry(sapropel, n, [sapropellər], "əsasən çürüyən üzvi maddədən ibarət olan palçıq").
+entry(sapsago, n, [sapsago_pendirleri], "sərt yaşıl pendir").
+entry(sapwood, n, [sapwoods], "ağacın yeni əmələ gəlmiş xarici oduncaq hissəsi").
+entry(saraban, n, [sarabanlar], "təntənəli İspan rəqsi").
+entry(saran, n, [saranlar], "termoplastik qatran").
+entry(sarangi, n, [sarangilər], "Hindistana aid simli musiqi aləti").
+entry(sarape, n, [sarapes], "serape").
+entry(sarkazm, n, [sarkazmlar], "iti şəkildə lağa qoyan və ya nifrətlə nəzərdə tutulan bir ifadə").
+entry(sarcenet, n, [sarcenets], "ipək parça").
+entry(sarcina, n, [sarcinas], "və ya SARCINAE - sferik bakteri").
+entry(sarkoidoz, n, [sarkoidozlar], "atlarin xesteliyi").
+entry(sarkoma, n, [sarkomalar], "və ya SARKOMATA bir növ şiş").
+entry(sarcous, sif, [], "ət və ya əzələdən ibarət olan").
+entry(sard, n, [sardlar], "kvars növü").
+entry(sardana, n, [sardanas], "İspan xalq rəqsi").
+entry(sərdar, n, [sərdarlar], "sərdar").
+entry(sardina, f, [sardina edilmiş, sardina edilir, sardinalar], "bərk şəkildə qablaşdırmaq").
+entry(sardius, n, [sardiuses], "sard").
+giriş(sardonik, sifət, [], "istehzalı").
+entry(sardonyx, n, [sardoni̇kslər], "kvars növü").
+entry(sari, n, [sarilər], "sari").
+giriş(sargasso, i, [sargassolər], "və ya SARGASSOES və ya SARGASSA qəhvəyi dəniz yosunu").
+entry(sarge, n, [sarges], "serjant").
+entry(sargo, n, [sargos], "gümüşü dəniz balığı").
+entry(sari, n, [sarilər], "Hindu qadınları tərəfindən geyilən xarici geyim").
+giriş(sarin, n, [sarinlər], "zəhərli qaz").
+giris(koynek, n, [koynekler], "bir köynək").
+entry(sarky, sif, [], "SARKIER SARKIESTsarkastikSARKILY adv").
+entry(sarmaşıq, n, [sarmaşıqlar], "bitki gövdəsi növü").
+entry(sarmenta, cəm, [], "sarments").
+entry(sarnie, n, [sarnilər], "sendviç").
+entry(sarod, n, [sarodlar], "Hindistanın simli musiqi aləti").
+entry(sarod, is, [sarodlar], "sarod").
+giriş(sarodist, n, [sarodistlər], "sarod çalan şəxs").
+entry(sarong, n, [saronglar], "Sakit okean adalarında geyilən xarici geyim").
+entry(saros, c, [saroslar], "günəş və ayın tutulması dövrü").
+entry(sarsar, n, [sarsars], "soyuq fit verən külək").
+entry(sarsen, n, [sarsenlər], "böyük qumdaşı blok").
+entry(sarsenet, n, [sarsenets], "sarcenet").
+entry(sarsnet, n, [sarsnets], "sarsnet").
+entry(sartor, n, [dərzilər], "dərzi").
+entry(sartorii, npl, [], "yastı dar bud əzələləri").
+giriş(sasanqua, n, [sasanquas], "Yapon kamelyası").
+entry(sash, v, [çərçivəli, çərçivələmə, çərçivələr], "şüşənin yerləşdirildiyi çərçivə ilə təmin etmək").
+entry(sashay, v, [sashayed,sashaying,sashays], "qıvrılmaq").
+entry(saşimi, n, [saşimilər], "dilimlənmiş çiy balıqdan ibarət Yapon yeməyi").
+entry(sashless, sif, [], "belə taxılan uzun bir lentin olmaması").
+entry(sasin, n, [sasins], "Hindistanda bir ceyran növü").
+entry(sass, v, [ədəbsiz danışdı, ədəbsiz danışır, ədəbsiz danışır], "ədəbsiz danışmaq").
+entry(sassaby, n, [sassabilər], "Afrika antilopu").
+entry(sassier, müqayisəli, [], "sassy-dən").
+entry(sassies, pl, [], "sassylərdən").
+entry(sassiest, superlative, [], "sassy-nin").
+entry(sassily, adv, [], "ədəbsiz bir şəkildə").
+giriş(sasswood, n, [sasswoods], "Afrika ağacı").
+entry(sassy, sifət, [], "SASSIER SASSIESTaşağılayıcı").
+entry(səliqəli, n, [səliqəlilər], "sasswood").
+entry(sastruga, n, [sastrugi], "qütb bölgələrində külək tərəfindən formalaşan qarlı tirələr").
+entry(oturdu, keçmiş, [], "oturmaq felinin zamanı").
+giriş(satang, n, [satangs], "Tailandın pul vahidi").
+entry(şeytani, sifət, [], "son dərəcə şər").
+entry(satanizm, n, [satanizmlər], "şərin güclərinə ibadət").
+entry(satanist, n, [şeytanistlər], "şeytanizmlə məşğul olan şəxs").
+entry(satara, n, [sataras], "yun parça").
+entry(sate, n, [sateler], "şoraba edilmiş, şişə keçirilmiş, qızardılmış və yer fıstığı sousuna batırılmış ət").
+entry(satchel, is, [satchels], "kiçik yükgötürmə çantası").
+entry(satkom, n, [satkomlar], "peyk rabitəsi").
+entry(doyur, v, [doyurur,doyurma,doyurursan], "doyurmaq").
+entry(satin, n, [satinlər], "pambıq parça").
+entry(satem, sif, [], "hind-avropa dillərinə aid olan").
+entry(sati, n, [satis], "hindu dul qadını").
+entry(satiable, sif, [], "doydurulma qabiliyyətinə malik olanSATIABLY zərf").
+entry(qane_etmək, f, [qane_etdi,qane_edərək,qane_edir], "tələbləri tam və ya artıq şəkildə qarşılamaq").
+entry(doyma, n, [doymalar], "doymuş olma vəziyyəti").
+entry(satin, v, [parıldadılmış,parıldadır,parıldadılar], "parlaq bir səth vermək").
+entry(satinet, n, [satinlər], "nazik atlas").
+entry(sating, indiki, [], "sate feilinin feli sifəti").
+entry(satinpod, n, [satinpods], "çiçəkli bitki").
+entry(satinabənzər, sif, [], "satinə bənzəyən").
+entry(satira, n, [satirolar], "axmaqlıq və ya pisliyi tənqid etmək üçün istifadə olunan istehzalı zarafatSATİRİK adj").
+entry(satiraa, f, [satira etdi, satira edir, satira edər], "satirikləşdirmək").
+entry(satirik, n, [satiriklər], "satira edən şəxs").
+entry(satirik, f, [satiriklədi,satirikləyir,satirikləyər], "satira etmək").
+entry(qane_et, f, [qane_oldu,qane_edən,qane_edir], "istənilən, gözlənilən və ya ehtiyac duyulan şeyi tam şəkildə təmin etmək").
+entry(satori, n, [satoris], "Zen Buddistləri tərəfindən axtarılan ruhun maariflənməsi").
+entry(satrap, n, [satraplar], "qədim Farsda bir əyalətin valisi").
+entry(satraplıq, n, [satraplıqlar], "satrapın ərazisi").
+entry(satsang, n, [satsanglar], "Hindizmdə müqəddəs yığıncaq").
+entry(satsuma, n, [satsuma], "bir növ portağal").
+entry(saturant, n, [saturantlar], "doydurmaq üçün istifadə edilən maddə").
+entry(doyurmaq, f, [doyurulmuş,doyurma,doyurur], "tamamilə doldurmaq üçün nüfuz edən bir şeylə").
+entry(satir, n, [satirlər], "Yunan mifologiyasının meşə tanrısıSATİRİK sif").
+entry(satirid, n, [satiridlər], "qəhvəyi kəpənək").
+entry(sau, n, [sau], "xu").
+entry(sous, f, [sousladi, souslamaqda, souslar], "dadlı bir maye ilə souslamaq").
+entry(saucebox, n, [sauceboxes], "şıltaq insan").
+Prolog:
+entry(sosena, n, [sosenalar], "sapaqlı dərin bişirmə tavası").
+entry(souspot, n, [souspotlar], "iki dəstəyi olan dərin bişirmə qazı").
+entry(nəlbəki, n, [nəlbəkilər], "kiçik dayaz qab").
+entry(sauch, n, [sauchs], "saugh").
+entry(sous, n, [souslar], "souslar üzrə ixtisaslaşmış aşpaz").
+entry(saucing, indiki, [], "sous etmək felinin ortac forması").
+entry(saucy, adj, [], "SAUCIER SAUCIESTədəbsizSAUCILY adv").
+entry(sauger, n, [saugerlər], "təzə su balığı").
+entry(saugh, n, [saughs], "söyüd ağacı SAUGHY sif").
+entry(saul, n, [sauls], "ruh").
+entry(sault, n, [şəlalələr], "şəlalə").
+entry(sauna, v, [saunalanmaq, saunalanma, saunalar], "quru istilik vannası qəbul etmək").
+entry(gəzinti, f, [gəzdi,gəzir,gəzər], "rahat bir şəkildə gəzmək").
+entry(saurel, n, [saurels], "dəniz balığı").
+entry(saurian, n, [saurians], "sürünənlərin alt dəstəsinə aid hər hansı bir").
+entry(sauropod, n, [sauropodlar], "böyük dinozavrların bir alt dəstəsindən olan hər hansı biri").
+entry(saura, n, [saurilər], "dəniz balığı").
+entry(sosis, n, [sosislər], "jəmi şəkildə doğranmış və ədviyyat edilmiş ət dəriyə doldurulmuş").
+entry(saute, v, [sauted, sauteing, sautes], "azas miqdarda yağda qızartmaq").
+entry(sauterne, n, [sauternes], "şirin ağ şərab").
+entry(sautoir, n, [sautoirs], "bir çarpaz").
+entry(sautoire, n, [sautoires], "sautoir").
+entry(saxlanılan, sif, [], "saxlanıla bilən").
+entry(savage, sif, [], "VƏHŞİ VƏHŞİLƏRənqəzəbliVƏHŞİCƏSİNƏ zərf").
+entry(vəhşi, v, [vəhşilər,vəhşiləşmək,vəhşiləşir], "amansızca hücum etmək və ya rəftar etmək").
+entry(vəhşilik, n, [vəhşiliklər], "vəhşi olmaq keyfiyyəti").
+entry(vəhşilik, n, [vəhşiliklər], "vəhşilik").
+entry(savana, n, [savanalar], "açıq treesiz çöl").
+entry(savannah, n, [savannalar], "savanna").
+entry(savant, n, [savants], "dərin bilik sahibi olan bir kişi").
+entry(savarin, n, [savarins], "maya ilə hazırlanmış və üzük formasında qəliblənmiş şirniyyat").
+entry(savate, n, [savates], "bir boks idmanı").
+entry(save, v, [xilas etdi,xilasedir,xilas edir], "təhlükədən, zərərdən və ya itkidən xilas etmək üçünXİLAS EDİLƏ BİLƏN sif").
+entry(saveloy, n, [saveloylar], "çox ədviyyatlı kolbasa").
+entry(saver, n, [savers], "qənaət edən").
+giriş(savin, n, [savins], "həmişəyaşıl kol").
+entry(savine, n, [savines], "savin").
+entry(saving, n, [qənaət], "qənaət etmə aktı və ya nümunəsi").
+entry(savingly, adv, [], "israf etmədən").
+entry(qurtarıcı, n, [qurtarıcılar], "qurtaran şəxs").
+entry(saviour, n, [saviours], "xilaskar").
+entry(ləzzət almaq, f, [ləzzət aldı, ləzzət alır, ləzzət alır], "zövqlə dadmaq və ya iyini almaq").
+entry(savorer, n, [savorers], "dadını çıxaran").
+entry(savorous, sif, [], "dadlı").
+entry(ləziz, adj, [], "LƏZİZLƏR LƏZİZLƏRSƏM dad və ya qoxu üçün xoşLƏZİZCƏ adv").
+entry(dadlı, n, [dadlılar], "yeməkdən əvvəl və ya sonra verilən dadlı bir yemək").
+entry(ləzzət almaq, f, [ləzzət aldı, ləzzət almaq, ləzzət alır], "ləzzət almaq").
+entry(savourer, n, [savourers], "yeməkdən/zövq alandan həzz alan").
+entry(ləzzətli, sif, [], "LƏZZƏTLİ LƏZZƏTLİ")
+entry(ləzzətli, n, [ləzzətlilər], "ləzzətli").
+giris(savoy, n, [savoys], "kələm növü").
+entry(savvy, sif, [], "SAVVİER SAVVİESTçevik").
+entry(savvy, v, [ağıllandırdı,ağıllandırma,ağıllandırır], "savviliy kimi anlamaq üçün").
+entry(saw, v, [sawed, sawn, sawing], "SAWBir növ kəsici alətlə kəsmək və ya bölmək üçün gördü").
+giriş(sawbill, n, [sawbills], "tropik quş").
+entry(sawbones, n, [cərrahlar], "cərrah").
+entry(sawbuck, n, [sawbucks], "mişar atı").
+entry(sawdust, n, [sawdusts], "taxtanın kəsilməsi zamanı yaranan kiçik taxta hissəcikləriSAWDUSTY sifət").
+entry(sawer, n, [ağacçılar], "kəsən biri").
+entry(şağal, n, [şağallar], "dəniz balığı").
+giriş(arıqarışqa, n, [arıqarışqalar], "qanadlı bir həşərat").
+giriş(mışqavı, n, [mışqavılar], "tikanlı kənarlı yarpaqları olan bir qamış").
+entry(gözdərəyi, n, [gözlərərəyi], "kəsilən bir taxta parçasını dəstəkləmək üçün istifadə olunan dəzgah").
+entry(sawlike, sif, [], "arrımağa bənzəyən").
+entry(sawlog, n, [sawlogs], "taxtaya doğramaq üçün kifayət qədər böyük olan bir kütük").
+entry(digirmanı, n, [digirmanlar], "ağacların doğrandığı yer").
+entry(sawn, a, [], "görmək fiilinin keçmiş orta feli").
+entry(sawney, n, [sawneys], "axmaq insan").
+entry(kəskin diş, n, [kəskin dişlər], "mişarın kəsici ucu").
+giriş(dülgər, n, [dülərlər], "ağacı kəsməklə məşğul olan şəxs").
+entry(saksafon, n, [saksafonlar], "saksafon").
+entry(saxatile, sif, [], "qayalıqlar arasında yaşayan və ya böyüyən").
+entry(saksqorn, n, [saksqornlar], "mis nəfəs aləti").
+entry(saksifonçu, n, [saksifonçular], "saksafonda ifa edən şəxs").
+entry(saksafonçu, n, [saksafonçular], "saksafon ifaçısı").
+entry(saksoniya, n, [saksoniyalar], "yun parça").
+entry(saxtuba, n, [saxtubalar], "bas saxsafonu").
+entry(say, v, [], "DİB DEDİ DEMƏ DEDİYİN indiki tək 2-ci şəxs DE və ya DEYİRSƏN və ya DEYR 3-cü şəxs DEYİR və ya DEYƏR söyləməkDEİLƏN sifət").
+giriş(sayed, i, [sayeds], "sayyid").
+entry(sayer, n, [deyənlər], "deyən biri").
+entry(sayid, n, [sayidlər], "seyid").
+entry(fikirdir, n, [fikirlər], "bir maksim").
+entry(sayonara, n, [sayonaralar], "yaxşılıqla").
+entry(sayst, a, [], "deyir" sözünün müasir zaman tək ikinci şəxs forması).
+entry(səyyid, n, [səyyidlər], "müsəlman möhtərəm şəxsə hörmət nişanəsi olaraq istifadə edilən titul").
+entry(qabıq, v, [qabıqladı,qabıqlayır,qabıqlar], "sağalan yara üzərində əmələ gələn qabıqla örtülmək").
+entry(qın, v, [qınladı,qınlamaq,qınlar], "bir qının içinə qoymaq məsələn, qılınc").
+entry(scabble, f, [scabbled,scabbling,scabbles], "kobud şəkildə formalaşdırmaq").
+entry(scabby, sif, [], "SCABBIER SCABBIEST qabıqlı ilə örtülmüşdür SCABBILY zərf").
+entry(qotur, n, [qotur], "dəri xəstəliyi").
+entry(scabiosa, n, [scabiosas], "çobanyastığı").
+entry(scabious, n, [scabiouses], "çiçəkli bitki").
+entry(scabland, n, [çılpaq ərazi], "çox az torpaq örtüyü olan qayalı ərazi").
+entry(scablike, sif, [], "qabağa bənzəyən").
+entry(scabrous, sif, [], "kiçik çıxıntılarla kobudlaşdırılmış").
+entry(scad, n, [scads], "bir dəniz balığı").
+entry(səki, v, [səkilən, səki tikmə, səkilər], "işçilər üçün müvəqqəti platforma təmin etmək").
+entry(scag, n, [scags], "heroin").
+entry(miqyaslana bilən, sif, [], "miqyasa salına bilənSCALABLY zərf").
+giriş(scalade, n, [scalades], "bərkitmə divarlarını miqyaslama hərəkəti").
+entry(scalado, n, [skaladolar], "skalada").
+giriş(büzülmə, n, [büzülmələr], "kiçilmənin qarşısını almaq üçün faiz endirimi").
+entry(skalyar, n, [skalyarlar], "yalnızca miqdara malik olan riyazi kəmiyyət").
+entry(skalare, n, [skalares], "tropik balıq").
+entry(scalawag, n, [scalawags], "bir əclaf").
+entry(scald, v, [qaynar su ilə yandırmaq, qaynayan, qaynadılar], "isti maye və ya buxarla yandırmaq").
+entry(skaldis, sifət, [], "şkaldik").
+entry(scale, f, [qaldırılmış, qaldırılır, qaldır], "yuxarı qalxmaq və ya üzərindən keçmək").
+entry(skalen, n, [skalenlər], "iki tərəfi bərabər olmayan üçbucaq").
+entry(scalenus, n, [scaleni], "boyun əzələsi").
+entry(tərəzi, n, [tərəzilər], "tərəzi üzərində bir tava").
+entry(scaler, n, [ölçəkçilər], "ölçək edən biri").
+entry(scaleup, n, [scaleuplar], "sabit nisbətə əsaslanan artım").
+entry(scalier, comparativ, [], "çox pullu").
+entry(scaliest, superlative, [], "scaly-dən").
+giriş(pulluq, isim, [pulluqlar], "dəridə pulların əmələ gəlməsi").
+giriş(scall, n, [scalls], "dərinin qabıqlı püskürməsi").
+entry(soğançıq, n, [soğançıqlar], "soğana bənzər bir bitki").
+entry(tarak, v, [taraqlı,taraqlama,taraqlar], "çörək qırıntıları ilə örtülmüş sousda bişirmək").
+entry(skalp, v, [skalp etdi, skalp edir, skalplar], "üst hissəni çıxarmaq").
+giriş(skalpel, n, [skalpellər], "kiçik cərrahi bıçaq").
+entry(scalper, n, [scalpers], "skalp edən").
+entry(scaly, sif, [], "QABIQLI QAZAQCA QAZA MAKS").
+entry(scam, v, [aldatdı,aldatmaqda,aldadır], "aldatmaq və ya dolandırmaq").
+entry(dələduz, n, [dələduzlar], "dələduzluq edən biri").
+entry(skammoni, i, [skammonilər], "dırmanan bitki").
+entry(skamp, v, [skamped,skamping,skamps], "sürətli və ya etinasız bir şəkildə icra etmək").
+entry(scamper, v, [qaçdı, qaçarkən, qaçır], "şıltaq şəkildə qaçmaq").
+entry(skampi, n, [skampi], "və ya SCAMPIESİtalyan yeməklərində istifadə edilən böyük krevetlər").
+entry(scampish, adj, [], "hiyləgər").
+entry(scamster, n, [dələduzlar], "fırıldaqçılıq edən").
+giriş(scan, v, [scanlanmış, scanlayır, scanlar], "yaxından araşdırmaq").
+entry(skandal, v, [skandallı, skandallama, skandallar], "ya da SKANDALLI SKANDALLAMA SKANDALLARYa böhtan atmaq").
+entry(sağan, sif, [], "bitki kimi dırmaşan").
+entry(skandiya, n, [skandiyalar], "skandiumun oksidi").
+entry(skandium, n, [skandiumlar], "metalik elementSKANDİK sif").
+entry(tərəfindən skan edilmişdir, keçmiş, [], "scan felinin zaman forması").
+entry(scanner, n, [skanerlər], "skan edən biri").
+entry(tarama, n, [taramalar], "yaxın araşdırma").
+entry(scan, n, [skanziyalar], "metrical ayaqlar və ritm naxışlarına əsasən şeirin təhlili").
+entry(scant, sif, [], "ƏN AZ ƏN AZMEAGER").
+entry(scant, v, [scanted,scanting,scants], "az miqdarda təmin etmək").
+entry(scanties, cəm, [], "qadınlar üçün qısa alt paltarı").
+entry(cüzi, zərf, [], "az miqdarda").
+entry(scanty, adj, [], "SCANTIER SCANTIESTqıtSCANTILY adv").
+entry(scape, v, [scaped,scaping,scapes], "qaçmaq").
+entry(skapoid, n, [skapoidlər], "bilək sümüyü").
+entry(scapose, sifət, [], "yarpaqsız sap daşıyan").
+entry(skapula, n, [skapulalar], "və ya SCAPULAE çiyin sümüyü").
+entry(skapular, n, [skapularlar], "rahiblər tərəfindən geyilən qolsuz üst geyimi").
+entry(scar, v, [şramladı, şramlayır, şramlar], "yaralanmış toxumanın sağalması nəticəsində yaranan iz əmələ gətirmək").
+entry(qizilqurd, n, [qizilqurdlar], "böyük qara böcək").
+entry(nadir, sif, [], "NADİR NADİRİnfroya az-az rast gəlinir və ya tapılır").
+entry(çətinliklə, zərf, [], "az fərqlə").
+entry(qıtlıq, n, [qıtlıqlar], "qıt olmaq keyfiyyəti").
+entry(qorxutmaq, f, [qorxutdu,qorxutma,qorxudur], "qorxutmaq").
+entry(qorxmuş, sifət, [], "qorxmuşduraq, qorxmuşdur").
+entry(qorxuducu, n, [qorxuducular], "qorxudan biri").
+entry(scarey, sif, [], "ÇƏKİNİLƏSİ ÇƏKİNİLƏRƏKçəkinən").
+entry(şərf, n, [şərflər], "ya da ŞƏRLƏR istilik və ya qorunmaq üçün geyilən parça").
+entry(şərf, v, [şərflədi,şərfləmə,şərflər], "şərf ilə örtmək").
+entry(scarfer, n, [scarfers], "acgöz şəkildə yeyən və ya içən biri").
+entry(şərfçi, n, [şərfçilər], "kravat iynəsi").
+entry("scarier", müqayisəli, [], "of scarey and scary").
+entry(scariest, əmr dərəcəsi, [], "scarey və scary sözlərinin superlativi").
+entry(cızıq atmaq, f, [cızıq atdı,cızıq atan,cızıq atır], "səthi kəsiklər etmək").
+entry(qorxunc şəkildə, adv, [], "qorxunc bir şəkildə").
+prolog(zorla_doldurulmaga, keçmiş_participi, [], "yerinə yetirmək üçün məcburi doluluq").
+entry(scariose, sif, [], "ağ kağızə bənzər").
+entry(scarious, sif, [], "nazik, quru və membranlı").
+entry(scarless, sifət, [], "izsiz").
+entry(qırmızı, n, [qırmızılar], "qırmızı rəng").
+entry(scarp, f, [dik edilmək, dik etmək, dikliklər], "dik yamaca kəsmək və ya çevirmək").
+entry(scarper, v, [scarpered,scarpering,scarpers], "qaçmaq").
+entry(scarph, v, [scarphed, scarphing, scarphs], "bir cür qoşulma vasitəsilə birləşdirmək üçün").
+entry(scarred, keçmiş, [], "scar-in zaman forması").
+entry(qaralma, indiki, [], "qaralama felinin participi").
+entry(scarry, sifət, [], "ÇAPIQLI ƏN ÇAPIQLIqaşıqla işarələnmiş").
+entry(scart, f, [scartlandı,scartlayır,scartlar], "qaşımaq").
+entry(scarved, sif, [], "şərf taxan").
+entry("şərflər", a, [], "şərfin cəmi").
+entry(qorxulu, sifət, [], "DAHA QORXULU ƏN QORXULUqorxuducu").
+giriş(scat, f, [scatted, scatting, scats], "tələsik tərk etmək").
+entry(scatback, n, [scatbacks], "futbolda bir növ oyunçu").
+entry(zədələ, v, [zədələdi,zədəar,zədələr], "sərt tənqid etmək").
+entry(scatt, n, [scatts], "vergi").
+entry(scatted, keçmiş, [], "scatter"ın keçmişi).
+entry(dagıltı, v, [dağıldı,dağılır,dağılır], "müxtəlif istiqamətlərə getmək və ya göndərmək").
+entry(scatting, indiki, [], "scat felinin iştirakçı forması").
+entry(scatty, sif, [], "SCATTIER SCATTIESTcrazySCATTILY zərf").
+entry(qaraördək, n, [qaraördəklər], "dəniz ördəyi").
+entry(scauper, n, [scaupers], "oyma aləti").
+entry(scaur, n, [kilit], "bir çıxıntılı tək qayadır").
+entry(araşdırmaq, v, [araşdırdı,araşdırmaq,araşdırır], "istifadə edilə bilən əşyalar üçün tullantıları axtarmaq").
+entry(scena, n, [scenas], "tək səs üçün mürəkkəb bir bəstə").
+entry(ssenari, n, [ssenarilər], "dram əsərinin süjetinin xülasəsi").
+entry(qalxmaq, f, [qalxdı,qalxır,qalxacaq], "dalğa üstündə gəmiylə yuxarı qalxmaq").
+entry(səhnə, n, [səhnələr], "bəzi fəaliyyətlərin və ya hadisələrin baş verdiyi yer").
+entry(mənzərə, i, [mənzərələr], "gözəl bir mənzərə və ya görünüş").
+entry(mənzərə, n, [mənzərələr], "təbii mənzərənin təsviri").
+entry(scenical, sif, [], "təsviredici manzərəyə aid olan").
+entry(qoxu, v, [qoxuladı,qoxulamaq,qoxular], "qoxu ilə doldurmaq").
+entry(sceptre, v, [sceptreli,sceptreləyir,sceptrelər], "hökmranlıq səlahiyyəti vermək").
+entry(skeptik, n, [skeptiklər], "skeptik").
+entry(sceptral, sif, [], "kral hakimiyyətinə aid olan").
+giriş(septer, f, [septerli, septerlənən, septerlər], "septer etmək").
+entry(schappe, n, [şappes], "ipək parça").
+entry(schav, n, [schavs], "soyuq şorba").
+entry(schedule, v, [təqdim, təqdimi, təqdir], "müəyyən bir tarixa və ya vaxta təyin etmək").
+giriş(sxem, n, [sxemlər], "və ya SCHEMATA ümumiləşdirilmiş diaqram və ya plan").
+entry(sxem, v, [sxemlədi,sxemləyir,sxemlər], "planlaşdırmaq və ya düzən qurmaq").
+entry(schemer, n, [dələduzlar], "plan quran biri").
+entry(scheming, n, [schemings], "planlama və ya tərtib etmə aktı").
+entry(skerço, n, [skerçolar], "və ya SKERÇIA canlı musiqi hərəkəti").
+entry(schiller, n, [schillerlərin], "bəzi minerallarda rast gəlinən qəhvəyi rəngli parlaqlıq").
+entry(schism, n, [schizmalar], "qarşı duran tərəflərə bölünmə").
+entry(sistit, n, [sistitlər], "paralel qatlara asanlıqla ayrılan bir daş").
+entry(schizier, müqayisəli, [], "şizy haqqında").
+entry(schiziest, superlative, [], "şizinin").
+entry(schizo, n, [şizolar], "şizoid").
+entry(şizoid, n, [şizoidlər], "psixotik pozğunluq növü ilə təsirlənmiş bir şəxs").
+giriş(schizont, n, [schizonts], "əsiləsiz çoxalma növü ilə çoxalan bir orqanizm").
+entry(schizy, sif, [], "ŞİZOFRENİYADAN ƏZİYYƏT ÇƏKƏN").
+entry(schizzy, sif, [], "SCHIZIER SCHIZIESTschizy").
+entry(schlep, v, [daşındı,daşıyır,daşıyır], "daşımaq və ya sürükləmək").
+entry(sürüklə, f, [sürük, sürüyür, sürükləyir], "daşımaq").
+entry(schleppy, sif, [], "SCHLEPPIER SCHLEPPIESTköhnəlmiş baxımsız").
+entry(schliere, n, [schlieren], "maqmatik süxurda kiçik bir zolaq").
+entry(schlock, n, [schlocks], "aşağı keyfiyyətli mal").
+entry(schlocky, sif, [], "SCHLOCKIER SCHLOCKIEST aşağı keyfiyyətli").
+entry(schlub, n, [schlubs], "axmaq və ya cəzbedici olmayan şəxs").
+entry(schlump, v, [schlumped,schlumping,schlumps], "tənbəlcə və ya səviyyəsiz geyinərək dolaşmaq").
+giriş(schlumpy, sif, [], "SCHLUMPIER SCHLUMPIESTcəlbedici olmayan səliqəsiz").
+entry(schmalts, n, [schmaltzlar], "həddindən artıq sentimentallıq").
+entry(schmalz, n, [schmalzes], "şmaltz").
+entry(schmalzy, sif, [], "SCHMALZIER SCHMALZIEST, schmalz ilə xarakterizə olunur").
+entry(schmatte, n, [schmattes], "küncüt paltarı").
+entry(schmear, v, [schmeared,schmearing,schmears], "şmir etmək").
+entry(schmeer, v, [schmeered, schmeering, schmeers], "rüşvət vermək").
+entry(schmelze, n, [schmelzes], "bəzəkli şüşə növü").
+entry(schmo, n, [schmoes], "SCHMO – axmaq insan").
+entry(schmoe, n, [schmoes], "smo").
+entry(schmoos, v, [schmoosed, schmoosing, schmooses], "şmozləmək").
+entry(schmoose, v, [schmoosed,schmoosing,schmooses], "şırdaşmaq").
+entry(söhbət, v, [söhbət etdi,söhbət edir,söhbətlər], "dedikodu etmək").
+entry(schmoozy, sif, [], "SCHMOOZIER SCHMOOZIEST şirin-şirin danışmağa meyilli").
+entry(schmuck, v, [schmucked,schmucking,schmucks], "vurmaq və ya yastıltmaq").
+entry(schmucky, sif, [], "AXMAQ DƏRƏCƏDƏ LAYİQ OLMAYAN").
+entry(schmutz, n, [schmutzes], "çirk, kiri").
+entry(snapes, n, [snapes], "güclü bir içki").
+entry(schnaps, n, [şnaps], "şnapps").
+entry(schnecke, n, [schnecken], "şirin bulka").
+entry(schnook, n, [schnooklar], "asanlıqla aldadılan şəxs").
+entry(burun, n, [burunlar], "burun").
+entry(schnozz, n, [schnozzes], "burun").
+entry(alim, n, [alimlər], "bilikli şəxs").
+entry(sxolium, i, [sxoliumlar], "və ya SCHOliAizahedici kənar qeyd").
+entry(məktəb, f, [məktəbləşdi,məktəbləşmə,məktəblər], "bilik qazanmaq üçün bir müəssisədə təhsil vermək").
+entry(qayiq, n, [qayiqlar], "yelkenli gəmi").
+entry(sxorl, n, [sxorllar], "bir mineral").
+entry(schrik, n, [schriks], "ani qorxu").
+entry(schrod, n, [schrods], "skrod").
+entry(schtick, n, [schticks], "ştick").
+entry(schtik, n, [schtiks], "ştik").
+entry(schtum, sifət, [], "sakit").
+entry(schuit, n, [schuits], "Hollandiya yelkənli gəmisi").
+entry(schul, n, [schuls], "və ya SCHULNshul").
+entry(schuss, v, [schussed,schussing,schusses], "xizəkdə sürətlə düz qaçış etmək").
+entry(schusser, n, [şusserlər], "şüss edən biri").
+entry(schvitz, v, [schvitzed,schvitzing,schvitzes], "şvits etmək").
+entry(şva, n, [şvalar], "bir növ sait səs").
+entry(sciaenid, n, [sciaenids], "ətyeyən bir balıq").
+entry(siyatik, n, [siyatiklər], "bud yaxınlığında yerləşən bir sinir, damar və ya arteriya").
+entry(siyatika, n, [siyatikalar], "bud və ətraf ərazilərin ağrılı xəstəliyi").
+entry(elm, n, [elmlər], "sistemləşdirilmiş bilik şöbəsi").
+entry(scilicet, adv, [], "yəni").
+entry(scilla, n, [scillas], "çiçək açan bitki").
+entry(scimetar, n, [scimetarlar], "çərkəddi").
+entry(şimitar, n, [şimitarlar], "ərəb və türklər tərəfindən istifadə olunan qövsvari qılınc").
+entry(şemşir, n, [şemşirlər], "şemşir").
+entry(skincoid, n, [skincoids], "düzgün, qısa ayaqlı kərtənkələlərdən birinin ailəsi").
+entry(sərəncamçılıq, n, [sərəncamçılıqlar], "səthi bilik").
+entry(sciolist, n, [sciolistlər], "bilikləri səthi olan şəxs").
+entry(scion, n, [övladlar], "uşaq və ya nəvə").
+entry(sirokko, n, [sirokkolar], "sirokko").
+entry(skirrus, n, [skirruslar], "və ya SKIRRHI sərt şiş").
+entry(scissile, adj, [], "asanlıqla kəsilə və ya bölünə bilən").
+entry(scission, n, [scissions], "kəsmə və ya parçalama hərəkəti").
+entry(qayçı, f, [kəsilmiş,qayçılama,qayçılar], "iki bıçaqlı kəsici alətlə kəsmək").
+entry(scissure, n, [scissures], "uzununa kəsik").
+entry(sciurid, n, [sciuridlər], "sciurine").
+entry(sciurine, n, [sciurines], "dələ ailəsinə aid bir gəmirici").
+entry(sciuroid, sif, [], "dələ bənzər").
+entry(sclaff, v, [sclaffed,sclaffing,sclaffs], "qolfta topa dəyməzdən əvvəl torpağa dəyən zərbə vurmaq").
+entry(sclaffer, n, [sclaffers], "sclaff edən biri").
+giriş(sclera, n, [scleras], "və ya SCLERAE gözün ağ lifli xarici örtüyü SCLERAL sifət").
+giriş(sklereid, n, [sklereidlər], "bitki hüceyrəsinin bir növü").
+entry(sklerit, n, [skleritlər], "buğumayaqlının xarici örtüyünü təşkil edən sərt lövhələrdən biri").
+giriş(scleroid, sifət, [], "sclerous").
+entry(skleroma, n, [skleromalar], "və ya SKLEROMATA hüceyrə toxumasının sərtləşmiş sahəsi").
+entry(skleroz, v, [sklerozlaşmış, sklerozlaşmaqda, skleroz], "toxuma kimi sərtləşmək").
+entry(skleroz, sif, [], "bərkimiş").
+entry(rişxənd etmək, v, [rişxənd etdi, rişxənd edən, rişxənd edər], "kobud şübhə və ya istehza ifadə etmək").
+entry(scoffer, n, [istehzakarlar], "istehza edən birisi").
+entry(scofflaw, n, [qanunpozucular], "daimi qanunpozucu").
+entry(danla, f, [danladı,danlayır,danlar], "sərt şəkildə tənbeh etmək").
+entry(scolder, n, [danlayıcılar], "danlayan şəxs").
+entry(danlama, n, [danlamalar], "kəskin məzəmmət").
+entry(scolex, n, [scoleces], "yaxud SCOLICES bir lent qurdunun düyünə bənzər başı").
+entry(scolioma, n, [skolioma], "onurğa sütununun anormal əyilməsi").
+giriş(scallop, v, [scalloped, scalloping, scallops], "qışqırmaq üçün").
+entry(scombrid, n, [skombroidlər], "skumbriya ailəsindən olan bir balıq").
+entry(sconce, v, [cərimələndi,cərimələnir,cərimələr], "cərimələmək").
+entry(scone, n, [skonlar], "yastı yuvarlaq keks").
+entry(skoç, v, [skoçladı,skoçlayır,skoçlayar], "qısa hərəkətlərlə sürüşmək").
+giriş(qaşıqla_götürmək, f, [qaşıqladı,qaşıqlayır,qaşıqlar], "qaşıq formasında bir alətlə götürmək").
+entry(scooper, n, [kəlbətinlər], "bir şeyi götürən").
+entry(scoopful, n, [scoopfuls], "və ya bir çömçə qədər tutum").
+entry(sürmək, v, [sürdü,sürmə,sürür], "tez getmək").
+entry(skoç, v, [skoçladı,skoçlama,skoçlayır], "oturmaq").
+entry(skutər, f, [skutərlədi, skutərləmə, skutərlər], "iki təkərli vasitə sürmək").
+entry(scop, n, [scops], "Qədim İngilis şairi").
+entry(scopa, n, [scopae], "bir həşəratın bədənindəki kiçik tüklü dəstə").
+entry(scope, v, [müşahidə, müşahidə edir, müşahidə edir], "qiymətləndirmək üçün baxmaq").
+entry(scopula, n, [scopulas], "və ya SCOPULAE sıx tük dəstəsi").
+giriş(scorch, f, [scorched,scorching,scorches], "rəngini və ya dadını dəyişdirmək üçün azca yandırmaq").
+entry(qızmar, n, [qızmarlar], "qızıdıran birisi").
+entry(xal, v, [xal,qol,xallar], "oyun və ya müsabiqədə xal qazanmaq").
+entry(xal dəftəri, n, [xal dəftərləri], "xalların qeydə alındığı dəftər").
+entry(scorer, n, [xallar], "xal toplayan").
+entry(scoria, n, [skoriya], "əridilmiş bir metalın və ya filizin tullantıları").
+entry(scorify, v, [scorified,scorifying,scorifies], "şlaklara çevirmək").
+entry(scoring, n, [xallar], "oyunda xal toplama hərəkəti").
+entry(xor-görmə, v, [xor-gördü,xor-görmə,xor-görür], "xoraq aşağı münasibət göstərmək və ya hörmətsizliklə yanaşmaq").
+entry(scorner, n, [təhqiramizlər], "təhqir edən biri").
+entry(hörmətsiz, sif, [], "nifrət hissi və ya ifadə etmək").
+entry(əqrəb, n, [əqrəblər], "sancan araxnid").
+entry(skot, n, [skots], "vergi").
+entry(skotch, v, [skotched, skotching, skotches], "dəqiq bir son qoymaq üçün").
+entry(skotər, n, [skotərlər], "dəniz ördəyi").
+entry(scotia, n, [skotlar], "konkav naxış").
+entry(skoma, n, [skomalər], "və ya SKOMATALAR görmə sahəsində kor nöqtə").
+entry(scotopia, n, [skotopiya], "parlaq işıqda görməSCOTOPIC sif.").
+entry(scottie, n, [scotties], "qısaboylu teriyer").
+entry(sürtgü, v, [sürtdü,sürtür,sürtgülər], "sərt sürtmə ilə təmizləmək və ya parıldamaq").
+entry(təmizləyici, n, [təmizləyicilər], "təmizləyən şəxs").
+entry(qənim, v, [qənim etdi,qənim edir,qənim edir], "şiddətlə cəzalandırmaq").
+entry(qamçılayan, n, [qamçılayanlar], "birini qamçılayan").
+entry(təmizləmə, n, [təmizləmələr], "təmizləmə nəticəsində çıxarılan material").
+prolog(giris, sku:z, n, [sku:zlar], "bir növ ət şorbası").
+entry(izci, f, [izlədi, izləyən, izləyirlər], "məlumat əldə etmək məqsədilə müşahidə etmək").
+entry(kəşfiyyatçı, n, [kəşfiyyatçılar], "kəşf edən biri").
+entry(scouth, n, [scouthlar], "bolluq").
+entry(scouther, v, [scouthered,scouthering,scouthers], "yandırmaq").
+entry(kəşfiyyat, n, [kəşfiyyatlar], "kəşfiyyat fəaliyyətini yerinə yetirən şəxsin hərəkəti").
+entry(scow, v, [scowed, scowing, scows], "dibinə oturan qayığı ilə daşımaq").
+entry(scowder, v, [scowdered,scowdering,scowders], "qəzəbləndirmək").
+entry(qəzəblənmək, v, [qəzəbli,qəzəblənən,qəzəblənir], "qəzəbli qaşqabaq tökmək").
+entry(scowler, n, [qaşqabaqlı], "qaşqabaq tökən biri").
+entry(scrabble, v, [scrabbled,scrabbling,scrabbles], "ağılla və ya əllərlə panik vəziyyətdə axtarmaq").
+entry(scrabbly, sif, [], "SCRABBLIER SCRABBLIESTraspy").
+entry(scrag, v, [boğdu, boğma, boğur], "boğazını burmaq").
+entry(scraggly, sif, [], "DÜZƏNSİZ").
+giriş(scraggy, sif, [], "SCRAGGIER SCRAGGIESTscrawny").
+entry(scraich, v, [scraiched,scraiching,scraichs], "tiz qışqırıq səsləndirmək").
+entry(scraigh, v, [scraighed,scraighing,scraighs], "qışqırmaq üçün").
+entry(scram, f, [qaçdı,qaçır,qaçır], "tez tərk etmək").
+entry(dırmaşmaq, f, [dırmaşdı, dırmaşır, dırmaşır], "tələsik hərəkət etmək və ya dırmaşmaq").
+entry(scramjet, n, [scramjets], "bir növ təyyarə mühərriki").
+entry(scran, n, [scrans], "yemək").
+entry(scrannel, n, [scrannels], "arıq şəxs").
+entry(sınaqdan-keçirmək, f, [sınaqdan-keçirdi, sınaqdan-keçirir, sınaqdan-keçir], "atmaq").
+entry(qazımaq, f, [qazılmış,qazıyan,qazıyır], "xarici təbəqəni çıxarmaq üçün sürtmək").
+entry(qazıyıcı, n, [qazıyıcılar], "qaşıyan bir şey").
+entry(scrapie, n, [sındırmaq], "qoyun xəstəliyi").
+entry(qazıma, n, [qazıntılar], "qazınmış bir şey").
+entry(qırıldı, keçmiş, [], "qırıq halda").
+entry(scrapper, n, [scrappers], "döyüşçü").
+entry(scrapping, indiki, [], "scrap felinin iştirakçı forması").
+entry(scrapple, n, [scrapples], "doğranmış ət və qarğıdalı unundan hazırlanmış ədviyyatlı qarışıq").
+entry(scrappy, sif, [], "DÖYÜŞ RUHLU OLAN DAHA DÖYÜŞKƏN ƏN DÖYÜŞKƏN").
+entry(cızıq, v, [cızdı,cızılma,cızır], "incə dayaz kəsik və ya işarə etmək").
+giris(cizgi, sif, [], "CIZILMIS CIZILMISindən edilən").
+entry(scravel, v, [scraveled,scraveling,scravels], "tez hərəkət etmək, tələsik hərəkət etmək").
+entry(scrawb, v, [scrawbed,scrawbing,scrawbs], "scrobumək").
+entry(cızmaq, f, [cızdı, cızmaqda, cızır], "tələsik və ya oxunmaz şəkildə yazmaq").
+entry(scrawler, n, [scrawlers], "cızmaqla məşğul olan biri").
+entry(cızmaqaralı, sif, [], "çızığı cızıqlısı danışıqsız və ya qeyri-oxunaq yazılmış").
+entry(scrawny, sif, [], "ÇOX ARIQLAR ARIQLARı").
+entry(cikildamaq, f, [cikildadiq, cikildayir, cikildayir], "fısıltı etmək").
+entry(cırıldayan, sif, [], "cırıldayan").
+entry(qışqırmaq, f, [qışqırdı, qışqıran, qışqırırlar], "uzun davamlı, deşici bir fəryad etmək").
+sözlük(qışqıran, isim, [qışqıranlar], "qışqıran birisi").
+entry(scree, n, [screes], "bir yamacın ayağında olan daş kütləsi").
+entry(qışqırıq, v, [qışqırdı,qışqırmaqda,qışqırıqlar], "kəskin yüksək səslə çığırmaq").
+giriş(qıyıltılı, sif, [], "QÜÇÜK QÜÇÜKƏsəsli").
+entry(screed, v, [screeded,screeding,screeds], "parçalamaq").
+ekran(giriş, v, [ekranlanmış,ekranlama,ekranlar], "bölmək gizlətmək və ya qorumaq üçün nəzərdə tutulmuş bir cihazla təmin etmək").
+entry(screener, n, [ekranlar], "ekran edən biri").
+entry(vint, v, [vintlədi, vintləyir, vintləyir], "metal bağlayıcı növü olan vintlə birləşdirmək").
+giriş(vintburan, n, [vintburanlar], "vintləri sıxan biri").
+entry(screwup, n, [screwups], "bir qarışıqlıq nümunəsi").
+entry(əsaslı, sifət, [], "DAHA ƏSASLI ƏN ƏSASLI dəli").
+entry(katiblik, sif, [], "ictimai katib və ya müxbirə aid").
+entry(cızmaq, v, [cızdı,cızarkən,cızır], "tez və ya diqqətsiz yazmaq").
+giriş(qaralama, sif, [], "qaralamalardan ibarət qayğısız yazılar").
+entry(yazıçı, v, [yazdı, yazır, yazır], "çizgi atmaq üçün işarələmək").
+entry(scriber, n, [scriberlər], "kəsmək üçün materialı işarələməkdə istifadə edilən iti alət").
+entry(scried, keçmiş, [], "scry feli zaman forması").
+entry(scries, indiki, [], "scry felinin 3cü şəxsi təki").
+entry(scrieve, v, [scrieved,scrieving,scrieves], "cəld və rəvan hərəkət etmək").
+entry(scrim, n, [scrims], "pambıq parça").
+entry(qənaətcil olmaq, f, [qənaətcil oldu,qənaətcillik edir,qənaətcil olur], "çox və ya həddindən artıq qənaətcil olmaq").
+entry(scrimper, n, [qənaət edənlər], "qənaət edən biri").
+entry(scrimpit, sif, [], "yoxsul").
+entry(scrimpy, sif, [], "SCRIMPIER SCRIMPIESTaz miqdarda").
+entry(skrip, i, [skriplər], "kiçik bir kağız parçası").
+skript(yazı, v, [yazılan, yazılış, yazılar], "oyun və ya film üçün yazılı mətni hazırlamaq").
+entry(script, n, [scriptlər], "birini skript edən").
+entry(scritch, n, [qaşınma səsləri], "sakit bir qaşıma səsi").
+entry(scrive, v, [oyduğu,oyma,oyur], "oymaq").
+entry(scrob, v, [scrobbed,scrobbing,scrobs], "dırnaqlar ilə və ya dırnaqlara oxşar bir şəkildə qazımaq").
+entry(ixabuta, n, [ixabuta], "gənc morina balığı").
+entry(skrofula, n, [skrofulalar], "limfa vəzlərinin xəstəliyi").
+entry(scroggy, sif, [], "qısaldılmış böyümə SCROGGIER SCROGGIEST").
+entry(scroll, v, [sürüşdü,sürüşür,sürüşər], "mətnin ekran boyunca hərəkət etməsi").
+giriş(scroller, n, [skrollerlər], "arxa planın keçdiyi bir kompüter oyunu").
+entry(scrooch, f, [scrooched, scrooching, scrooches], "büzüşmək").
+entry(scrooge, n, [scrooges], "xadim bir şəxs").
+entry(scroop, v, [scrooped, scrooping, scroops], "qıraqlaşdırıcı səs çıxarmaq").
+entry(scrootch, v, [scrootched,scrootching,scrootches], "scrooch etmək").
+entry(skrotum, n, [skrotumlar], "və ya SCROTAmədən ixtiva edən dəri torbasıSCROTAL sif").
+entry(scrouge, v, [scrouged,scrouging,scrouges], "təzahür etmək").
+entry(scrounge, v, [scrounged,scrounging,scrounges], "axtarış yolu ilə toplamaq").
+entry(scroungy, adj, [], "SCROUNGIER SCROUNGIESTkirli").
+entry(yumaz, v, [yumaz, yumur, yumaqlar], "təmizləmək üçün bərk şəkildə sürtmək").
+entry( təmizləyici , n, [təmizləyicilər], "təmizləyən biri").
+giriş(scrubby, sif, [], "SCRUBBİER SCRUBBİESTölçü və ya keyfiyyətcə aşağı").
+giriş(scruff, f, [scruffed, scruffing, scruffs], "kirlətmək").
+entry(scruffy, sif, [], "SCRUFFIER SCRUFFIESTkəndir").
+entry(scrum, v, [scrummed,scrumming,scrums], "reqbi topu ətrafında bir qrup yaratmaqla məşğul olmaq").
+entry(scrummy, sif, [], "SCRUMMIER SCRUMMIESTdadlı").
+entry(scrumple, v, [bükülmüş, bükülmə, bükülür], "buruşmaq, qırışmaq").
+entry(scrumpy, n, [scrumpilər], "kobud sidr").
+entry(scrunch, v, [büzüşdürülmüş,büzüşdürmə,büzüşdürür], "əzmək").
+entry(scrunchy, n, [scrunchies], "saçları bağlamaq üçün elastik bant").
+entry(scruple, v, [fikirləşdi,fikirləşərək,fikirləşir], "etik səbəblərə görə tərəddüd etmək").
+entry(yoxlama, n, [yoxlamalar], "yaxın təhlil").
+entry(scry, v, [scried,scrying,scries], "kristal kürə istifadə edərək gələcəyi proqnozlaşdırmaq").
+entry(scryer, n, [falçı], "fal açan biri").
+entry(sualtı, v, [sualtıladı,sualtılayır,sualtılar], "sıxılmış hava ilə nəfəs alma cihazından istifadə edərək suyun altında üzmək").
+giriş(scud, f, [scudded,scudding,scuds], "cəld qaçmaq və ya hərəkət etmək").
+entry(scudo, n, [scudi], "keçmiş İtalyan moneti").
+entry(sürtünmək, f, [sürtünüb, sürtünərək, sürtünür], "ayaqları qaldırmadan yerimək").
+entry(scuffer, n, [scuffers], "nəyisə cızan").
+entry(dava, f, [davalaşdı,davalaşmaq,davalaşır], "qarmaqarışıq və kobud şəkildə mübarizə aparmaq").
+entry(scruff, n, [scrufflar], "dava salan").
+entry(sculch, n, [sculches], "təmiz zibil").
+entry(sculk, v, [sculked,sculking,sculks], "gizlənmək").
+entry(skulker, n, [skulkerlər], "skulker").
+entry(scull, v, [sculled,sculling,sculls], "xüsusi bir qayiq avarı ilə itələmək").
+entry(sculler, n, [scullers], "qayıqla məşğul olan biri").
+entry(scullery, n, [sculleries], "mətbəx qablarının yuyulub saxlandığı otaq").
+entry(scullion, n, [scullions], "aşpaz köməkçisi, xırda işlər görən mətbəx xidmətçisi").
+entry(sculp, v, [oyma,oymaq,oyur], "oymaq").
+entry(sculpin, n, [sculpins], "təzə su balığı").
+entry(oymaq, v, [oydu,oymaqla,oyur], "bərk materialdan bir təsvir və ya təmsil formalaşdırmaq").
+entry(heykəltəraş, n, [heykəltəraşlar], "heykəl düzəldən şəxs").
+entry(scultch, n, [scultches], "sculch").
+entry(scum, v, [scummed,scumming,scums], "kifdən, saf olmayan və ya kənar maddələrdən təmizləmək üçün").
+entry(scumbag, n, [scumbags], "bir nasazlıq").
+entry(scumball, n, [scumballs], "bir kir torbası").
+entry(skambll, v, [skamblədi,skamblinq,skamblz], "konturlarını və ya rənglərini yüngülcə sürtərək yumşaltmaq").
+entry(scumless, sif, [], "çirki olmayan").
+entry(scumlike, sif, [], "bulanıq təbəqəyə bənzəyən").
+entry(scummed, keçmiş, [], "scum'un keçmiş zamiri").
+entry(scummer, n, [scummers], "çır-çır edən").
+entry(scumming, indiki, [], "scum felinin iştirakçı forması").
+entry(scummy, sif, [], "SCUMMIER SCUMMIESTüstü çirkliSCUMMILY zərf").
+entry(scungile, n, [scungili], "yemək üçün istifadə olunan bir konki").
+entry(scunner, v, [scunnered,scunnering,scunners], "ikinci birini sevməmək və ya nifrət etmək").
+entry(scup, n, [skuplar], "dəniz qida balığı").
+entry(scuppaug, n, [scuppaugs], "alçaq balıq").
+entry(sabotaj_etmək, v, [sabotaj_etdi,sabotaj_edən,sabotaj_edir], "pusuya salmaq").
+entry(scurf, n, [kəpəklər], "quru və qabıqlı dəri").
+entry(scurfy, sif, [], "SCURFIER SCURFIESTüzəri qabıqlıdır").
+entry(scurril, sif, [], "təhqiramiz").
+giriş(scurrile, sif, [], "kobud və təhqiramiz dildə ifadə edilmiş").
+entry(tələsik, v, [tələsməkdə,tələsiklərdə,tələsik], "tələsik hərəkət etmək").
+entry(sinqəftəl, sif, [], "DAHA SINQƏFƏTƏL ƏN SINQƏFƏTƏLəsas və ya nifrətolunasıSINQƏFƏTLI zərf").
+entry(sinqa, n, [sinqalar], "C vitamini çatışmazlığı nəticəsində yaranan xəstəlik").
+entry(scut, n, [scuts], "dovşan kimi qısa quyruq").
+giris(scuta, pl, [], "scutumun").
+entry(scutage, n, [scutages], "hərbi xidmət əvəzinə feodal ağası tərəfindən tələb olunan vergi").
+entry(scutate, sifət, [], "qalxan şəklində").
+entry(scutch, v, [scutched,scutching,scutches], "döyməklə oduncaq lifini ayırmaq üçün").
+Giriş(scutcher, n, [scutchers], "çırpan şəxs").
+entry(scute, n, [scutes], "buynuz lövhə və ya pulcuq").
+entry(scutella, cəm, [], "kiçik qalxansı orqanlar və ya hissələr").
+entry(scutter, v, [titremək,titrəməkdə,titrəyir], "qaçmaq").
+entry(scuttle, v, [scuttled,scuttling,scuttles], "qaçış").
+entry(scutum, n, [scuta], "qabıq").
+giriş(çirk iş, n, [çirk işlər], "yorucu və ya xırda iş").
+entry(scuzz, n, [scuzzes], "çirkli və ya nifrət doğuran bir şəxs").
+entry(scuzzbag, n, [scuzzbags], "çirkli və ya alçaldıcı şəxs").
+entry(scuzzy, sif, [], "KİR, PİS, YA DA KƏSKİN").
+entry(sifayaoxşar, adj, [], "fincan formasında").
+entry(scyphus, n, [scyphi], "iki qulplu yunan fincanı").
+entry(orak, f, [orakladı,oraklama,oraklar], "təkbıçaqlı kəsmə aləti ilə kəsmək").
+entry(dəniz, n, [dənizlər], "okean").
+entry(dənizçi çantası, n, [dənizçi çantaları], "dənizçinin istifadə etdiyi çanta").
+entry(dəniz sahili, n, [dəniz sahilləri], "dəniz boyunca yerləşən bir sahil").
+entry(dəniz dibində, n, [dəniz dibləri], "dəniz dibi").
+giriş(dənizquşu, n, [dənizquşları], "okean və ya sahil boyu yaşayan quş").
+entry(dənizsahili, n, [dənizsahiləri], "dəniz sahili").
+entry(dəniz çəkməsi, n, [dəniz çəkmələri], "su keçirməyən çəkmə").
+entry(denizlə, sif, [], "dənizdə daşınan və ya dəniz üzərində daşınan").
+entry(dəniz sahili, n, [dəniz sahilləri], "dənizə sərhəd olan torpaq").
+entry(dəniz qapağı, n, [dəniz qapaqları], "gəminin gövdəsindəki bir qapaq").
+entry(dənizgəmisi, n, [dənizgəmiləri], "dəniz naviqasiyasında bacarıq").
+entry(seadog, n, [seadogs], "duman qövsü").
+entry(seadrome, n, [dendənizlər], "dənizdəki bir hava limanı").
+entry(dənizçi, n, [dənizçilər], "dənizçi").
+entry(deniz_tabanı, n, [deniz_tabanları], "dənizin dibi").
+entry(denizk��p�y�, n, [denizk��p�yl�ri], "dənizin ��zərində yaranan k��p��k").
+entry(dəniz məhsulu, n, [dəniz məhsulları], "dənizdən yeyilə bilən balıq və ya qabıqlı dəniz məhsulu").
+entry(dənizquşu, n, [dənizquşları], "dəniz quşu").
+entry(dənizkənarı, n, [dənizkənarları], "dənizin kənarındakı sahə").
+entry(denizlə_əhatə_olunmuş, sif, [], "dənizlə əhatə olunmuş").
+entry(seagoing, sif, [], "dənizdə istifadə üçün nəzərdə tutulmuşdur").
+entry(dəniz otu, n, [dəniz otları], "dənizə yaxın və ya dənizdə yaşayan otabənzər bitki").
+entry(qağayı, n, [qağayılar], "dəniz sahilində yaşayan bir qağayı").
+entry(dəniz atı, n, [dəniz atları], "boru balığı ailəsinin bir balığı").
+entry(dənkələmi, n, [dənkələmlər], "yeyilə bilən tumurcuqlara malik sahil bitkisi").
+entry(möhür, v, [möhürlədi,möhürləyir,möhürlər], "giriş, sızma və ya keçidin qarşısını almaq üçün bağlamaq və ya təhlükəsiz etməkMÖHÜRLƏNƏ BİLƏN sif").
+entry(möhürləyici, n, [möhürləyicilər], "möhürləmə agenti").
+entry(möhürləyici, n, [möhürləyicilər], "möhürləyən biri").
+entry(((muşlulfery)), n, [muşlulferies], "fokları ovlama peşəsi").
+entry(sealift, v, [sealifted,sealifting,sealifts], "hərbi personalı və avadanlığı gəmi ilə daşınmaq").
+entry(sümrük, n, [sümrüklər], "sümrülərin ovu").
+entry(seallike, sif, [], "dəniz məməlisini xatırladan suiti").
+entry(dənizpişiyi dərisi, n, [dənizpişiyi dəriləri], "dəniz pişiyinin dərisi").
+entry(tikish, v, [tikildi,tikilmekdə,tikişlər], "iki parça parçasını bir yerə birləşdirən tikiş xətti ilə birləşdirmək").
+entry(denizçi, n, [denizçilər], "dənizçiSEAMANLI sifət").
+entry(denizişarəsi, n, [denizişarələri], "dənizçilər üçün naviqasiya bələdçisi olaraq qulluq edən bir oriyentir").
+entry(seamer, n, [seamers], "tikən").
+entry(seamier, müqayisəli, [], "of seamy").
+entry(seamiest, superlative, [], "seamy-dən").
+entry(möhkəm, sif, [], "tikişsiz").
+entry(seamlike, sif, [], "şama bənzəyən").
+giriş(dəniz dağı, n, [dəniz dağları], "dəniz altında bir dağ").
+entry(dərzi, n, [dərzilər], "peşəsi tikiş olan şəxs").
+entry(seamy, adj, [], "SEAMIER SEAMIESTxoşagəlməz").
+entry(seans, n, [seanslar], "ruhani mesajlar axtaran şəxslərin görüşü").
+entry(deniz mənzərəsi, is, [deniz mənzərələri], "dəniz mənzərəsi").
+entry(dəniz təyyarəsi, n, [dəniz təyyarələri], "suyun üzərində qalxmaq və ya enmək üçün dizayn edilmiş təyyarə").
+entry(liman, n, [limanlar], "dəniz gəmilərinin daxil ola bildiyi liman və ya şəhər").
+entry(dənizətrafı, n, [dənizətrafılar], "sualtı zəlzələ").
+entry(sear, adj, [], "DAHA QURU DAHA QURUÇU").
+entry(sear, v, [seared,searing,sears], "səthini yandırmaq üçün").
+entry(axtarmaq, v, [axtardı,axtarır,axtarışlar], "nəyisə tapmaq üçün diqqətli şəkildə keçmək və ya baxmaq").
+entry(axtaran, n, [axtaranlar], "axtaran şəxs").
+entry(şərki, n, [şərkilər], "dəniz balığı").
+entry(dəniz mənzərəsi, n, [dəniz mənzərələri], "dənizin bir şəkli").
+entry(denizskautu, n, [denizskautlar], "su fəaliyyətlərində təlim keçmiş bir oğlan skautu").
+entry(denizqabiği, n, [denizqabiqları], "dəniz molyuskunun qabığı").
+entry(dənizkənarı, n, [dənizkənarları], "dənizə bitişik torpaq").
+entry(dənizəxəstə, sif, [], "dənizdə gəminin hərəkəti səbəbindən yaranan ürəkbulanma ilə təsirlənmiş").
+entry(dəniz sahili, n, [dəniz sahilləri], "sahil").
+entry(mövsüm, v, [dadlandırılmış,dadlandırma,mövsümlər], "dadlı inqrediyentlər əlavə etməklə dadını artırmaq və ya yaxşılaşdırmaq").
+entry(mövsümi, n, [mövsümilər], "ilin bir dövrü ilə əlaqəli işçi və ya məhsul").
+entry(mövsümləndirici, n, [mövsümləndiricilər], "mövsümləndirən biri").
+mətn(seat, f, [oturmuş, oturmaqda, oturur], "oturacaq üzərinə oturmağa yarayan bir şey yerləşdirmək").
+entry(stulun arxası, n, [stulların arxası], "oturacağın arxa hissəsi").
+entry(kəmər, n, [kəmərlər], "şəxsi oturacaqda sabit saxlamaq üçün kəmər tənzimləməsi").
+entry(seater, n, [oturacaqlar], "oturtan biri").
+entry(oturacaq, n, [oturacaqlar], "oturacaqları örtmək üçün material").
+entry(oturacaqsız, sifət, [], "oturacağı olmayan").
+entry(oturacaq yoldaşı, n, [oturacaq yoldaşları], "birinin oturacağı bölüşdüyü şəxs").
+entry(seatrain, n, [dəniz qatarlanı], "dəmiryol vaqonlarını daşımaq üçün təchiz edilmiş gəmi").
+entry(çəki, n, [çəkilər], "dəniz balığı").
+giriş(oturacaq_isi, n, [oturacaq_isleri], "oturacaqda edilən iş").
+giriş(dəniz divarı, is, [dəniz divarları], "eroziyadan qorumaq üçün sahil xəttini qoruyan divar").
+entry(seawan, n, [seawans], "vampum").
+entry(seawant, n, [dənizlər], "dəniz").
+entry(seaward, n, [seawards], "açıq dənizə doğru istiqamət").
+entry(denizyosunu, n, [denizyosunları], "gübrə olaraq istifadə edilən dəniz yosunu").
+entry(duzlu_su, n, [duzlu_sular], "dənizdən gələn su").
+entry(gəmi_yolu, n, [gəmi_yolları], "gəmi tərəfindən əldə edilən irəliləyiş").
+entry(dənizyosunu, n, [dənizyosunları], "dənizdə bitən bir bitkiDƏNİZOSUNLU sif").
+entry(sebakik, sif, [], "müəyyən bir turşudan əldə edilmiş").
+entry(sebasic, sif, [], "sebacic").
+entry(sebum, n, [sebumlar], "dəri bezləri tərəfindən ifraz olunan yağlı maddə").
+entry(sec, n, [secs], "tangent").
+entry(sekaloz, n, [sekalozlar], "mürəkkəb karbohidrat").
+entry(teyinat, n, [teyinatlar], "biri bucaq olan trigonometriya funksiyası").
+entry(secantly, adv, [], "kəsişən şəkildə").
+entry(secateur, n, [budaqayıran], "budama aləti").
+giriş(secco, n, [seccos], "quru sıva üzərinə şəkillər çəkmə sənəti").
+entry(ayrılmaq, f, [ayrıldı,ayrılır,ayrılar], "ittifaqdan və ya birlikdən rəsmi olaraq ayrılmaq").
+entry(seceder, n, [ayrılanlar], "ayrılan şəxslər").
+entry(fərqləndirmək, v, [fərqləndirdi, fərqləndirir, fərqləndirirlər], "ayrı bir şey kimi fərqləndirmək").
+entry(izolyasiya etmək, f, [izolyasiya etdi, izolyasiya edir, izolyasiya edir], "başqalarından uzaqlaşdırmaq və ya ayırmaq").
+entry(second, v, [ikinci, dəstəkledi, dəstəkləyir], "dəstək və ya təşviqat vermək").
+entry(seconde, n, [ikinci], "qılıncoynatmada mövqe").
+entry(secondee, n, [secondees], "müvəqqəti olaraq başqa işə köçürülən işçi").
+entry(seconder, n, [destəkləyənlər], "dəstəkləyən şəxs").
+entry(ikinci olaraq, adv, [], "birincidən sonra növbəti yerdə").
+entry(secondo, n, [secondi], "piano duetdə aşağı hissə").
+entry(secpar, n, [secpars], "bir parsek").
+entry(gizlilik, n, [gizliliklər], "gizli olma vəziyyəti").
+entry(secret, sifət, [], "MƏXFİ MƏXFİTUTULMUŞ BİLGİDƏN YAXUD GÖRÜNÜŞDƏN").
+entry(gizli, n, [sirlər], "başqalarından gizli saxlanılan bir şey").
+entry(ifraz_etmek, f, [ifraz_edilən, ifraz_edərkən, ifraz_edir], "hüceyrələrdən və ya bədən mayelərindən yaratmaq və ayırmaq").
+entry(secretin, n, [sekretinlər], "hormon").
+entry(gizlicə,  adv, [], "gizli şəkildə").
+entry(secretor, n, [secretors], "bir şey ifraz edən").
+entry(sect, n, [məzhəblər], "ümumi inanclara və ya maraqlara sahib olan insanların qrupu").
+entry(mürid, n, [müridlər], "bir təriqətin üzvü").
+entry(sectile, sifət, [], "səlis şəkildə kəsilə bilən").
+giriş(bölmə, v, [bölmələrə,bölmə,bölmələr], "ayrı hissələrə bölmək").
+entry(sektor, v, [sektorlandı, sektorlanma, sektorlar], "sektorlar və bölmələrə ayırmaq").
+entry(sektor, sif, [], "sektora aid olan və ya sektora dair").
+entry(dünyəvi, n, [dünyəvilər], "dindar olmayan").
+entry(secund, adj, [], "hissələri və ya orqanları yalnız bir tərəfdə yerləşənSECUNDLY zərf").
+entry(secundum, adv, [], "görə").
+entry(təhlükəsiz, sif, [], "TƏHLÜKƏSİZLƏR TƏHLÜKƏSİZƏ, təhlükədən azad, TƏHLÜKƏSİZCƏ adv").
+entry(təhlükəsiz, v, [təhlükəsizləşdirilmiş, təhlükəsizləşdirməkdə, təhlükəsizləşdirir], "möhkəm və ya sıx etmək").
+entry(securer, n, [təhlükəsizlikçilər], "bir şeyi təmin edən şəxs").
+entry(securing, indiki, [], "secure-in feili sifət forması").
+entry(təhlükəsizlik, n, [təhlükəsizliklər], "təhlükəsiz olmaq vəziyyəti").
+entry(sedan, n, [sedanlar], "bir avtomobil növü").
+entry(sedarim, a, [], "sederlərin cəm halı").
+entry(sakitləşdirmək, sif, [], "SAKİNLƏŞDİRİCİ SAKİNLƏŞDİRİCİ ən sakit SAKİNLƏŞMİŞ adv").
+entry(sedat, v, [sedat edilmiş,sedat edən,sedat edir], "sedativ vermek").
+entry(sedasiya, n, [sedasiyalar], "sedativlərdən istifadə etməklə stresin və ya həyəcanın azaldılması").
+entry(sakitləşdirici, n, [sakitləşdiricilər], "sakit vəziyyət yaradan dərman").
+entry(seder, n, [seders], "və ya SEDER Yəhudi mərasim naharı").
+entry(sederunt, n, [sederunts], "uzun müddətli oturma").
+entry(sedge, n, [ciyerə], "bataqlıq bitkisi").
+entry(sazlıq, sif, [], "SAZLIQLI SAZLIQLARla bol olan").
+entry(sedile, n, [sedilia], "din xadimlərinin istifadəsi üçün kilsədəki oturacaqlardan biri").
+entry(sedilium, n, [sedilia], "sedil").
+entry(sediment, f, [çökmüş,çökən,çökmələr], "maye dibinə çökmək").
+entry(sedition, n, [seditions], "hökumətə qarşı qiyama təşviq").
+entry(seduct(gcaoa), f, [gaca, gacaq, gacır], "azdırmaq SƏDƏQƏLİ sif").
+entry(seducer, n, [əzazil], "biri ki, başdan çıxarır").
+entry(səliqə, n, [səliqələr], "səliqəli olmaq vəziyyəti").
+entry(səylə, sifət, [], "çalışqan").
+entry(sedum, n, [sedumlar], "çiçəkli bitki").
+entry(görmək, f, [gördü,görülmüş,görmə], "GÖRMƏK görmə orqanı ilə qəbul etməkGÖRÜNƏN sif").
+giriş(dengor, n, [dengorbala], "yetkin erkək xəz dəniz pişiyi").
+entry(seed, v, [toxumlanmış,toxumlama,toxumlar], "toxumları əkmək").
+entry(seedbed, n, [toxum yataqları], "toxum əkmək üçün hazırlanmış torpaq").
+entry(tumlu tort, n, [tumlu tortlar], "aromatik tumlar ehtiva edən şirin tort").
+giris(seedcase, n, [seedcases], "perikarp").
+entry(seeder, n, [toxuyanlar], "toxuyan biri").
+entry(seedier, müqayisəli, [], "çox toxumlu").
+giriş(seediest, üstünlük, [], "of seedy").
+entry(seedily, adv, [], "təhqirli bir tərzdə").
+entry("toxumsuz", sif, [], "toxumsuz olan").
+entry(seedlike, adj, [], "toxuma bənzəyən").
+entry(fidan, n, [fidanlar], "cavan bitki").
+entry(seedman, n, [tohumçular], "tohumçu").
+entry(seedpod, n, [seedpods], "toxum qabığı növü").
+entry(seedsman, n, [seedsmen], "toxumlarla ticarət edən şəxs").
+entry(seedtime, n, [toxum səpmə mövsümləri], "toxum səpilməsi üçün mövsüm").
+entry(seedy, sif, [], "SEEDIER SEEDIESTtoxumlar ehtiva edən vəziyyət və keyfiyyətcə aşağı").
+entry(görmə, n, [görmələr], "görənin etdiyi hərəkət").
+entry(axtarmaq, v, [axtarıldı, axtarır, axtarır], "axtarışa çıxmaq").
+entry(axtaran, n, [axtaranlar], "axtaran bir nəfər").
+entry(seel, v, [tikildi,tikilərkən,tikilir], "yırtıcı quşun, müalicəsi zamanı gözlərinin bağlanması üçün tikmək").
+entry(seely, sif, [], "zəif").
+entry(görünmək, f, [göründü,görünən,görünür], "hadisəni verən təsir bağışlamaq").
+entry(seemer, n, [seemers], "görünən biri").
+entry(görünüş, n, [görünüşlər], "xarici görünüş").
+entry(əziyyətli, sif, [], "XOŞ GÖRÜNÜŞLÜ SEEMLIEST").
+giriş(görülmüş, keçmiş, [], "see sözünün feli sifəti").
+entry(sızmaq, v, [sızdı,sızır,sızar], "kiçik açılışlardan yavaş-yavaş keçmək").
+entry(sızma, n, [sızmalar], "sızmış mayenin miqdarı").
+entry(yaşı, sif, [], "DAHA YAŞ DAHA ƏN YAŞsuda islanmış və ya süzülən").
+entry(seer, n, [peyğəmbərlər], "peyğəmbər").
+entry(seeress, n, [seeresses], "qadın kahin").
+entry(tarti, f, [tartidi,tartimek,tartirlər], "yuxarı və aşağı və ya irəli və geri hərəkət etmək").
+entry(qaynamaq, v, [qaynadı, qaynamaqda, qaynar], "sanki qaynama kimi coşmaq və ya köpüklənmək").
+entry(seg, n, [segs], "irqi ayrı-seçkiliyi müdafiə edən").
+entry(segetal, sifət, [], "taxıl sahələrində yetişən").
+entry(seggar, n, [seggarlar], "bir saggar").
+entry(segment, v, [seqmentlənmiş,seqmentləşdirən,seqmentlər], "hissələrə bölmək").
+entry(segno, n, [segnos], "və ya SEGNI musiqi nişanı").
+entry(sego, n, [segos], "çoxillik ot bitkisi").
+entry(segue, v, [segued,segueing,segues], "bir musiqi mövzusundan digərinə fasiləsiz keçmək").
+entry(sei, n, [seis], "bir finval").
+entry(seicento, n, [seicentos], "on yeddinci əsr").
+entry(seyş, n, [seyşlər], "gölün və ya qapalı dənizin səthinin osilasiyası").
+entry(seidel, n, [seydel], "böyük pivə stəkanı").
+entry(seyf, n, [seyflər], "uzun ensiz qum təpəsi").
+entry(seigneur, n, [seigneurs], "seynor").
+entry(seignior, n, [seigniors], "feodal lord").
+entry(seignory, n, [seignories], "senyor gücü").
+entry(seine, v, [seined,seining,seines], "böyük şaquli asılan torla balıq tutmaq").
+entry(seiner, n, [balıqçı torları], "səhnə edən biri").
+entry(seining, n, [seinings], "balıq tutmaq üçün tor istifadə etmə aktı").
+entry(seise, v, [seised,seising,seises], "ələ keçirmək SEISABLE adj").
+entry(seiser, n, [seisers], "tutum").
+entry(seisin, n, [sahiblənmələr], "sahiblenmə").
+entry(seising, n, [seisings], "ələ keçmə").
+entry(seism, n, [seismlər], "zəlzələSEISMAL SEISMIC adj").
+entry(seizmizm, n, [seizmizmlər], "zəlzələlərlə əlaqəli təbii fəaliyyət").
+entry(seisor, n, [seisors], "seizor").
+entry(tutma, n, [tutmalar], "epileptik tutma").
+entry(seitan, n, [seitans], "buğda glutenindən hazırlanmış bir yemək").
+entry(seiza, n, [seizas], "Yapon döyüş sənətlərində diz çökmə mövqeyi").
+entry(sahib çıkmaq, v, [sahib çıxdı,sahib çıxır,sahib çıxır], "birdən və zorla tutmaqSAHİB ÇIXILAN sif").
+entry(tutucu, n, [tutucular], "tutan biri").
+entry(seizin, n, [seizinlər], "torpağın qanuni sahibliyi").
+entry(tutma, n, [tutmalar], "tutmaq aktı").
+giriş(seizor, isim, [seizors], "mülkiyyəti ələ keçirən").
+giriş(tutma, n, [tutmalar], "ələ keçirmə hərəkəti").
+entry(sejant, sif, [], "oturaq vəziyyətdə təsvir olunan heraldik heyvan üçün istifadə olunur").
+entry(sejeant, sif, [], "sejant").
+entry(sel, n, [sels], "öz").
+giris(seladang, n, [seladanglar], "saladang").
+entry(selah, n, [selahlar], "Tez-tez Məzamirlərdə bir ayənin sonunu göstərən mənası bilinməyən bir söz").
+entry(selamlıq, n, [selamlıqlar], "Türk evində kişilər üçün ayrılmış hissə").
+entry(selcouth, sif, [], "qeyri-adi").
+entry(nadir, adj, [], "nadirCƏ adv").
+entry(select, v, [seçilmiş,seçən,seçir], "seçmək").
+entry(seçim, n, [seçilmişlər], "seçilən").
+entry(selectly, adv, [], "seçimlə").
+entry(selektor, n, [selektorlər], "seçən").
+entry(selenat, n, [selenatlar], "kimyəvi duz").
+entry(selenik, sif, [], "seleniumla əlaqəli").
+entry(selenid, n, [selenidlər], "selenium birləşməsi").
+entry(selenit, n, [selenitlər], "gipsin bir növü").
+entry(selenium, n, [seleniumlar], "metal olmayan elementSELENOUS sif").
+entry(self, n, [özlər], "bir şəxsin ümumi əsas və ya xüsusi varlığı").
+entry(self, v, [özü-özünə,özünü etmək,özlər], "özünü çoxaltmaq").
+entry(selfdom, n, [selfdoms], "özünüdərk").
+giriş(özünü_bərpa_etmək, n, [özünü_bərpa_edir], "çoxillik ot").
+entry(selfhood, n, [selfhoodlar], "fərdi şəxs olmaq vəziyyəti").
+entry(selfi, n, [selfilər], "telefon kamerası ilə özünün çəkdiyi öz şəkli").
+entry(özünəqapalı, sif, [], "əsasən və ya yalnız özü haqqında düşünən").
+entry(selfless, sif, [], "qeyri-egoist").
+entry(selfness, n, [selfnesses], "özüllük").
+entry(eyni, sif, [], "eyni").
+entry(selfward, adv, [], "özünə doğru").
+entry(selkie, n, [selkies], "Şotlandiya və İrlandiya folklorunda bir məxluq").
+satış(hə, f, [satdı,satma,satır], "başqasına pul və ya digər qiymətli əvəz müqabilində verməkSATILA BİLƏN sifət").
+entry(selle, n, [selles], "eyər").
+satıcı(satıcı, n, [satıcılar], "satış edən biri").
+entry(selloff, n, [selloffs], "böyük sayda səhmlərin, istiqrazların və ya əmtəələrin satışı").
+entry(sellout, n, [sellouts], "bütün biletlərin satıldığı tamaşa").
+entry(selsin, n, [selsinlər], "uzaqdan idarəetmə cihazının bir növü").
+entry(seltzer, is, [seltzerlər], "karbonatlı mineral su").
+entry(selva, n, [tropik_yagis_meşələri], "tropik yağıs meşəsi").
+entry(kənar, n, [kənarlar], "toxunmuş parça kənarları, parça qopmasının qarşını almaq üçün bitirilibKENARLI sif").
+entry(kənar, n, [kənarlar], "kənar").
+entry(özlər, cəm, [], "özün").
+entry(semantik, sif, [], "mənaya aid").
+entry(sematic, sifət, [], "xəbərdarlıq kimi xidmət edən").
+entry(seme, n, [semes], "seme şəkli").
+entry(semee, sif, [], "bütün səthi xırda heraldik fiqurlarla örtülmüş").
+entry(sememe, n, [sememes], "morfemin mənasıSEMEMIK sif").
+entry(semen, n, [semens], "erkəyin cinsiyyət orqanlarında istehsal olunan maye").
+entry(semestr, n, [semestrlər], "təhsil ilinin yarısını təşkil edən bir dövr").
+entry(semi, n, [yarım yük maşını], "yük treyleri").
+entry(yarıquraq, sifət, [], "yüngül yağıntı ilə səciyyələnən").
+entry(yarıqəlbaş, sif, [], "tamamilə qəlbaş").
+entry(yarıqalın, sifət, [], "qalın tipli yazıdan daha incə çəkilmiş şriftlərlə çap olunmuş").
+entry(semicoma, n, [semikoma], "bir şəxsin oyandırıla biləcəyi koma").
+entry(semideaf, sif, [], "qismən kar").
+giriş(semidome, i, [semidomes], "yarım kubbe").
+entry(yarıquru, sif, [], "orta dərəcədə quru").
+giriş(yarımoturan, sifət, [], "bədənin xətlərinə qismən uyğun gələn").
+entry(semigala, sif, [], "bir qədər bayram").
+entry(yarımsərt, sif, [], "orta sərtlikdə").
+entry(yarıyüksək, sif, [], "moderately high").
+entry(semihobo, n, [semihobo], "SEMIHOBO olun bir insan hobo xüsusiyyətlərinin bəzilərinə malikdir").
+entry(semillon, n, [semillons], "Fransada yetişdirilən ağ üzüm növü").
+entry(semilog, sif, [], "bir tərəfi logaritmik, o biri tərəfi arifmetik olan").
+entry(semimat, sif, [], "azca parıltısı olan").
+entry(yanımmat, sif, [], "yanımmat").
+entry(yumuşaq, adj, [], "orta dərəcədə yumuşaq").
+entry(semimute, sifət, [], "nitq qabiliyyətini qismən itirmiş").
+entry(semina, a, [], "spermanın pl").
+entry(əsas, sif, [], "sperma ilə əlaqədar").
+seminar(giriş, n, [seminarlar], "kollec və ya universitetdə qabaqcıl tədqiqat qrupu").
+entry(seminar, n, [seminarlar], "kahinlərin, keşişlərin və ya ravvinlərin təhsili üçün məktəb").
+entry(seminoma, n, [seminoma], "vəz ya da SEMİNOMALAR testisdə bədxassəli şiş").
+entry(seminude, sif, [], "qismən çılpaq").
+entry(qismenaçıq, sif, [], "qismən açıq").
+entry(semiosis, n, [semioses], "bir şeyin bir orqanizm üçün işarə kimi fəaliyyət göstərdiyi bir proses").
+entry(semiotik, n, [semiyotik], "işarələr və simvolizm üzrə ümumi nəzəriyyə").
+entry(yumurtavari, sif, [], "bir qədər oval").
+entry(semipro, n, [yarımpeşəkar], "hansısa sahədə və ya idman növündə yarımştat əsasda maaşla məşğul olan şəxs").
+entry(semiraw, sifət, [], "bir qədər çiy").
+entry(semis, n, [semises], "qədim Romaya aid sikkə").
+entry(yumşaq, sif, [], "mülayim dərəcədə yumşaq").
+entry(semitist, n, [semitistlər], "yəhudi maraqlarını dəstəkləyən şəxs").
+entry(kiçik tona, n, [kiçik tonlar], "musiqi tonunun bir növü").
+entry(yarıvəhşi, sif, [], "bir qədər vəhşi").
+entry(irəklik, n, [irəkliklər], "makaron üçün istifadə olunan buğdanın qranulyar məhsulu").
+entry(semple, sif, [], "sadə mənşəli").
+entry(semplice, sif, [], "musiqi istiqaməti kimi istifadə edilən sadə").
+entry(sempre, adv, [], "eyni qaydada davamlı olaraq  musiqi istiqaməti olaraq istifadə olunur").
+entry(sen, n, [sen], "Yaponiyanın pul vahidi").
+entry(senarius, n, [senarii], "altı metrik ayaqdan ibarət olan bir yunan və ya latın misrası").
+entry(senary, sifət, [], "altı sayı ilə əlaqəli").
+entry(senat, n, [senatlar], "yüksək məsləhətçi və qanunvericilik funksiyalarına malik yığıncaq").
+entry(senator, n, [senatorlar], "senatın üzvü").
+entry(göndər, v, [göndərildi,göndərmə,göndərir], "yollamaq").
+entry(göndərmək, f, [göndərdi,göndərir,göndərir], "getməyə səbəb olmaqGÖNDƏRİLƏ BİLƏN sif").
+entry(sendal, n, [sendal], "ipək parça").
+giris(gonderen, n, [gondericiler], "gondərən").
+entry(sendoff, n, [sendoffs], "vida mərasimi").
+entry(sendup, n, [sendups], "bir parodiya").
+giris(sene, n, [senes], "Samoanın pul vahidi").
+entry(seneca, n, [senekalar], "senega").
+entry(senecio, n, [senecios], "çiçəkli bitki").
+entry(senega, n, [senegalotası], "dərman bitkisinin kökü").
+entry(senesce, v, [qocaldı, qocalır, qocalır], "qocalmaq").
+entry(sengi, n, [sengi], "Zairənin keçmiş pul vahidi").
+entry(senhor, n, [senhors], "SENHORESa Portuqal və ya Braziliya cənibi").
+entry(senhora, n, [senhoras], "evli Portuqaliyalı və ya Braziliyalı qadın").
+entry(qoca, n, [qocalar], "qocalığı göstərən şəxs").
+entry(qocalmışcasına, zərf, [], "qocalmış tərzdə").
+entry(senilik, n, [seniliklər], "qocalıq səbəbiylə zehni və fiziki zəiflik").
+entry(yeniyetmə, n, [yeniyetmələr], "başqasından daha yaşlı olan bir insan").
+entry(seniti, n, [seniti], "Tonqa pul vahidi").
+entry(senna, n, [sennalar], "müalicəvi bitki").
+entry(sennet, n, [sennets], "aktyorların çıxışını və ya girişini bildirən truba ilə səslənən çağırış").
+entry(həftə, n, [həftələr], "bir həftə").
+entry(sennit, n, [sennits], "şlyapa hazırlamaq üçün istifadə olunan hörülmüş saman").
+entry(senopi, n, [senopiyalar], "yaxın görmənin yaxşılaşdırılması").
+entry(senyor, n, [senyorlar], "yaxud SENORES bir İspan cənabı").
+entry(senora, n, [senoras], "evli İspan qadını").
+entry(señorita, n, [señoritlar], "subay İspan qızı və ya qadını").
+entry(senryu, isim, [senryu], "Yaponiya şeiri").
+entry(sensa, pl, [], "sensumun").
+entry(sensate, v, [hiss etdi,hiss edir,hiss edir], "hiss etmək").
+entry(hiss, v, [hiss etdi,hiss edən,hisslər], "fərdin xarici aləmdən təəssürat aldığı müəyyən vasitələrlə duymaq").
+entry(məntiqli, sif, [], "sensible").
+entry(sensei, n, [senseilər], "Yapon döyüş sənətlərinin müəllimi").
+entry(sensible, sif, [], "SENSIBLER SENSIBLESTyaxşı mühakimə göstərmək və ya nümayiş etdirməkSENSIBLY zərf").
+entry(h hissedilmək, n, [hissedilə bilənlər], "hissedilə bilən bir şey").
+entry(sensilla, n, [sensillae], "sadə bir hiss orqanı").
+entry(sensing, indiki, [], "sense-in feli sifəti").
+entry(sensor, n, [sensorlar], "stimula cavab verən cihaz").
+entry(sensoria, cəm, [], "həssas stimulaların qəbul edilməsi və izahı ilə məşğul olan beyin hissələri").
+entry(sensory, sif, [], "hisslərə və ya hissiyyata aid olan").
+entry(sensual, sif, [], "fiziki hisslərlə bağlı").
+entry(sensum, n, [sensa], "qavrama və ya hiss etmə obyekti").
+entry(hissi, sif, [], "hisslərə aid olan və ya hisslərdən qaynaqlanan").
+giriş(sent, n, [senti], "Estoniyanın pul vahidi").
+entry(sente, n, [licente], "Lesotunun monetar vahidi olan lisente").
+entry(cümlə, v, [cümlədi,cümlədi,cümlələr], "hüquqi olaraq tətbiq ediləcək cəzanın dərəcəsini elan etmək").
+entry(senti, n, [senti], "Tanzaniyanın keçmiş pul vahidi").
+entry(hissiyatli, n, [hissiyatlilar], "hiss etmə qabiliyyətinə malik şəxs və ya şey").
+entry(sentimo, n, [sentimos], "Filippinin pul vahidi").
+entry(sentinel, v, [müşayiət edilən,müşayiət edilməsi,müşayiətlər], "və ya MÜŞAYİƏT EDİLMƏLİ MÜŞAYİƏT EDİLMƏLİ MÜŞAYİƏT edərək gözətçi olması").
+keçid(keçidçi, n, [keçidçilər], "keşik çəkən şəxs").
+entry(sepal, n, [sepallar], "bir istək tozunun fərdi yarpaqlarından biri SEPALED SEPALINE SEPALLED SEPALOID SEPALOUS sifət").
+entry(ayırmaq, v, [ayırdı,ayırır,ayırar], "ayırmaq və ya ayrı saxlamaq").
+entry(sepya, n, [sepyalar], "qəhvəyi bir piqmentSEPİK sif").
+entry(sepoy, n, [sepoylar], "Hindistanda Britaniya ordusunda xidmət edən yerli").
+entry(seppuku, n, [seppukular], "Yapon intihar növü").
+entry(seps, n, [sepslər], "Afrika kərtənkələsi").
+entry(sepsis, n, [sepses], "bədənin bakterial infeksiyası").
+entry(sept, n, [septs], "tayfa").
+entry(septa, pl, [], "septumun").
+entry(septik tullantı, n, [septik tullantılar], "septik tankdakı tullantılar").
+entry(septal, sif., [], "septuma aid olan").
+entry(septaria, npl, [], "əhəngdaşı düyünləri").
+entry(septate, sifət, [], "septuma malik olmaq").
+entry(septet, n, [septetlər], "yeddi nəfərlik qrup").
+entry(septet, n, [septetlər], "septet").
+entry(septic, n, [septiklər], "septisiyə səbəb olan maddəSEPTİKƏ AİD sif").
+entry(septimal, sifət, [], "yeddilik sayı əsas götürülmüş").
+entry(septime, n, [septimes], "qılıncoynatmada bir mövqe").
+entry(septoria, n, [septoriyalar], "bir növ göbələk").
+entry(septum, n, [septumlar], "yaxud SEPTAmembran və ya ayırıcı bölmə").
+entry(septuple, v, [septupled,septupling,septuples], "yeddi dəfə artırmaq").
+entry(davamı, n, [davamlar], "nəyinsə ardınca gələn və davamı olan bir şey").
+entry(sequela, n, [sequelae], "əvvəlki xəstəlikdən qaynaqlanan anormal vəziyyət").
+entry(sequence, v, [ardıcıl,ardıcıllıq,ardıcıllıqlar], "ardıcıl qaydada düzmək").
+entry(ardıcıllıq, n, [ardıcıllıqlar], "bir şeyin digərinin ardınca gəlməsi").
+entry(ardıcıl, n, [ardıcıllıqlar], "ardınca gələn bir şey").
+entry(sequin, v, [payetli,payetləmə,payetlər], "parıltılı bəzəkli diskləri yapışdırmaq").
+entry(sequitur, n, [sequiturs], "bir nəticə çıxarışı").
+giriş(sekoyya, c, [sekoyyalar], "böyük həmişəyaşıl ağac").
+entry(ser, n, [sers], "Hindistanın çəki vahidi").
+entry(sera, a, [], "sera").
+entry(serac, n, [seraklar], "buzlağın qopmuş böyük buz kütləsi").
+entry(seraglio, n, [seraglios], "harem").
+entry(serai, n, [serais], "Türk sarayı").
+entry(serail, n, [serails], "bir səray").
+entry(seral, sifət, [], "ekoloji dəyişikliklər ardıcıllığı ilə əlaqəli").
+entry(serape, n, [serapelər], "rəngarəng yun şal").
+entry(seraph, n, [seraphlar], "və ya SERAFİMLƏR və ya SERAFİNBir qanadlı səma varlığıSERAFİK sifət").
+entry(serafim, n, [serafimlər], "seraf").
+entry(serdab, n, [serdablar], "qədim Misir məzarında bir otaq").
+entry(sərə, sif, [], "SOLGIN QURUDUCU").
+entry(sere, v, [sered,sering,seres], "qızartmaq üçün").
+entry(sere, n, [], "Bitki və ya heyvan icmalarının təbii ardıcıllığı olan SERESa").
+entry(serein, n, [sereins], "açıq səmadan düşən incə yağış").
+entry(serenada, f, [serenadalar, serenadayan, serenadalar], "Axşam şərəf dolu bir mahnı ifa etmək üçün").
+entry(serenata, n, [serenatalar], "və ya SERENATE dram kantata").
+entry(sakin, sif, [], "SAKİN SAİNİNİNEN sakit təmkinliSAKİNCE zərf").
+entry(sakit, n, [sakitliklər], "sakit bir vəziyyət və ya sahə").
+entry(sakitlik, n, [sakitliklər], "sakit olmaq vəziyyəti").
+entry(serer, müqayisəli, [], "sere aid").
+serest(superlative, [], "of sere").
+entry(kəndli, n, [kəndlilər], "feodal kölə").
+entry(krepostçuluq, n, [krepostçuluqlar], "serflik").
+entry(təvəllüd, n, [təvəllüdlər], "köləlik vəziyyəti").
+entry(serfhood, n, [serfhoods], "köləlik").
+entry(fərdik, sifət, [], "kəndliyə xas").
+entry(serflike, sif, [], "serfish").
+entry(serge, v, [serged,serging,serges], "tikis kənarını tikan tikişlərlə bitirmək").
+entry(çavuş, n, [çavuşlar], "müəyyən rütbəli hərbi zabit").
+entry(serger, n, [overlok maşınları], "overlok işi üçün maşın").
+entry(overlokləmə, n, [overlokləmələr], "parçanın kəsilmiş kənarlarını bitirmə prosesi").
+giriş(serial, n, [seriallar], "ardıcıl hissələrlə təqdim olunan ədəbi və ya dramatik əsər").
+entry(serially, adv, [], "serial formasında və ya tərzində").
+entry(seriya, v, [seriyalanmış,seriyalanan,seriyalayır], "bir seriyaya qoymaq").
+entry(seriatim, adv, [], "ardıcıl şəkildə").
+serisin_girisi(serisin, n, [serisinlər], "bir növ protein").
+entry(seriema, n, [seriemas], "Braziliya quşu").
+entry(series, n, [series], "birinin ardınca düzülüş").
+entry(şərif, n, [şəriflər], "hərfin əsas xəttini bitirmək üçün istifadə olunan incə bir xətt").
+entry(serin, n, [serins], "Avropa sərçəsi").
+entry(serin, n, [serinlər], "amino turşusu").
+entry(sering, indiki, [], "sere felinin iştirakçı siması").
+entry(seringa, n, [seringas], "bir Braziliya ağacı").
+entry(ciddi, sif, [], "görkəmdə və ya davranışda düşüncəli və ya səssiz").
+entry(serjant, n, [serjantlar], "sergeant").
+entry(vəz, n, [vəzlər], "dini mühazirə VƏZLƏ BAĞLI adj").
+entry(serologiya, n, [serologiyalar], "serumların elmi").
+entry(seroz, n, [serozlar], "və ya İncə bir membran olan SEROSAE bəzi bədən boşluqlarını astarlayır SEROZAL sif").
+entry(serozluq, n, [serozluqlar], "seroz olmaq keyfiyyəti və ya vəziyyəti").
+entry(serotin, n, [serotinlər], "Avropa yarasası").
+entry(gecön yetişmə, n, [gecön yetişmələr], "gec və ya tədricən toxum yayılma vəziyyəti").
+giriş(serotip, v, [serotipləşdirmə,serotipləşdirən,serotiplər], "mikroorqanizmləri antijenlər dəstinə görə təsnif etmək").
+entry(seroza, sifət, [], "seruma bənzər").
+giriş(serovar, n, [serovarlar], "xarakterik antigen dəstinə malik olan mikroorqanizmlər qrupu").
+entry(serov, n, [serovlar], "Asiya antilopu").
+entry(ilan, n, [ilanlar], "ilan").
+entry(serpigo, n, [serpigos], "SERPİGOES və ya SERPİGİNES də deyilən, yayılan dəri səpgisi").
+giriş(serranid, n, [serranidlər], "dəniz balığı").
+entry(serrano, n, [serranos], "kiçik acı bibər").
+entry(serrate, v, [dişvaridi,dişvaridir,dişvaridirlər], "dişvaridi çıxıntılar ilə təchiz etmək").
+entry(serry, v, [sıxlaşmış,sıxlaşır,sıxlaşır], "bir yerə toplaşmaq").
+entry(serum, n, [serumlar], "və ya SERA bütün qanın sulu hissəsi SERUMAL sif").
+entry(servable, sif, [], "xidmət etməyə və ya xidmət edilməyə qadir").
+entry(serval, n, [servallar], "Afrika yabanı pişiyi").
+entry(xidmətçi, n, [xidmətçilər], "başqalarına xidmət edən").
+entry(xidmət_etmək, f, [xidmət_edildi,xidmət_edən,xidmət_edir], "üçün işləmək").
+server(girisi, n, [serverler], "başqasına xidmət edən").
+entry(servis, n, [servisler], "yemeklərin verildiyi sayğac və ya otaq").
+entry(service, v, [təmir etdi,təmir edir,xidmətlər], "təmir etmək").
+entry(servicer, n, [xidmətçilər], "xidməti yerinə yetirən biri").
+entry(servile, sif, [], "qulluqçu surətdə tabeli").
+entry(serving, n, [servings], "qida porsiyası").
+entry(servitor, n, [servitors], "kişi xidmətçi").
+entry(servo, n, [servos], "başqa bir mexanizmi idarə etmək üçün istifadə olunan avtomat cihaz").
+giriş(susam, n, [susamlar], "Şərqi Hindistan bitkisi").
+giriş(sesamoid, n, [sesamoids], "sümük və ya qığırdaq nodulyar kütləsi").
+giriş(sesh, n, [seshes], "bir sessiya").
+entry(sessile, adj, [], "daimi olaraq yapışmış").
+entry(session, n, [iclasə], "qanunverici və ya məhkəmə orqanının iş görməsi üçün keçirilən toplantı").
+entry(sesspool, n, [sesspools], "cesspool").
+entry(sesterce, n, [sesterlər], "qədim Roma sikkəsi").
+entry(sestet, n, [sestetlər], "altı misradan ibarət bent").
+entry(sestina, n, [sestinalar], "bir növ şeir forması").
+entry(sestina, n, [sestinalar], "sestina").
+entry(set, v, [qoymaq,yerləşdirmə,qoyur], "xüsusi bir mövqeyə qoymaq").
+giriş(seta, n, [setae], "kobud sərt tükSETAL sif").
+entry(maneə, n, [maneələr], "məğlubiyyət").
+entry(setenant, n, [setenantlar], "eyni vərəqdəki digər markalardan dizayn fərqliliyi olan poçt markası").
+entry(setiform, sif, [], "seta formasında olan").
+entry(setline, n, [setlines], "güclü bir balıqçılıq ipi").
+entry(setoff, n, [setoffs], "nəyinsə qarşılığını ödəyən bir şey").
+entry(seton, n, [setonlar], "cərrahi sap növü").
+entry(setoz, sif, [], "tüklərlə örtülmüş").
+giriş(setous, sifət, [], "setose").
+setout(görüntü, n, [görüntülər], "bir ekran").
+entry(setscrew, n, [setscrews], "bir növ vint").
+giriş(sett, n, [setts], "porsuq yuvası").
+entry(divan, n, [divanlar], "yüksək arxalı uzun oturacaq").
+entry(setter, n, [qoyanlar], "qoyan").
+entry(tərtibat, n, [tərtibatlar], "dram teatr tamaşasında istifadə olunan dekorasiya").
+entry(məskən salmaq, v, [məskən saldı,məskən salma,məskən salar], "istənilən vəziyyətə və ya ardıcıllığa qoymaq").
+entry(settler, n, [məskunlaşanlar], "məskunlaşan biri").
+entry(məskunlaşma, n, [məskunlaşmalar], "çökmə").
+entry(settlor, n, [etibarnaməçilər], "hüquqi hesablaşma edən şəxs").
+entry(setulose, sif, [], "seta ilə örtülmüş").
+entry(setulous, sif, [], "setulose").
+giriş(qoş, n, [qoşmalar], "nəyinsə quruluşu və ya düzülüşü").
+entry(sev, n, [sevs], "dərin qızardılmış un sapları ilə hazırlanan Hindistan yeməyi").
+entry(yeddi, n, [yeddis], "bir rəqəm").
+entry(yeddinci, n, [yeddincilər], "yeddi bərabər hissədən biri").
+entry(yetmiş, n, [yetmişinci illər], "bir nömrə").
+entry(kəsmək, f, [kəsdi,kəsmə, kəsir], "hissələrə bölmək və ya kəsmək").
+entry(bir neçə, n, [bir neçələri], "bir neçə şəxs və ya şey").
+entry(şiddətli, sif, [], "ƏN ŞİDDƏTLİ AZ ƏN ŞİDDƏTLI başqalarına qarşı sərt davranan ŞIDDETLE zərf").
+giriş(ciddilik, n, [ciddiliklər], "ciddi olma keyfiyyəti və ya vəziyyəti").
+entry(severy, n, [severies], "tağ tavanında bir bölmə").
+entry(seviche, n, [seviches], "xam balıq yeməyi").
+entry(sevruga, n, [sevruqa], "Xəzər dənizindən olan kürü").
+entry(tikmək, v, [tikdi,tikilmiş,tikməkdə], "TIKTikiş ilə iynə və sapla təmir etmək və ya bağlamaqTIKILƏBİLƏR sif").
+entry(kanalizasiya, n, [kanalizasiyalar], "kanalizasiya sistemləri vasitəsilə daşınan tullantı maddələr").
+entry(sewan, n, [sewans], "dəniz").
+entry(sewar, n, [sewarlar], "orta əsr xidmətçisi").
+entry(kanalizasiya, v, [kanalizasiyaya_daxil_olunmuşdur, kanalizasiyaya_daxil_olunur, kanalizasiyaya_daxil_olunur], "tullantılar üçün yeraltı kanalları təmizləmək və ya saxlamaq").
+entry(kanalizasiya, n, [kanalizasiyalar], "kanalizasiya").
+entry(tikiş, n, [tikililər], "tikilmiş və ya tikiləcək material").
+entry(sewn, a, [], "tikmək feilinin keçmiş iştirakçısı").
+entry(cins, f, [cinsləşmiş,cinsləşmə,cinslər], "orqanizmlərin törəmə funksiyalarına görə təsnif edildiyi xüsusiyyəti təyin etmək üçün").
+entry(sexer, n, [sexers], "cinsini müəyyən edən").
+entry(seksual, müqayisəli, [], "seksi").
+entry(seksi, üstünlük, [], "cazibədar olan").
+entry(seksual olaraq, zərf, [], "cəlbedici bir şəkildə").
+entry(seksuallıq, n, [seksuallıqlar], "seksual olma keyfiyyəti və ya vəziyyəti").
+entry(seksizm, n, [seksizmlər], "qadınlara qarşı önyargı və ya ayrı-seçkilik").
+entry(seksist, n, [seksistlər], "seksizm praktikasını həyata keçirən şəxslər").
+entry(cinsi_siz, adj, [], "cinsi xüsusiyyətlərdən məhrum").
+seans(so(nspertsiz, n, [seksologlar], "insan cinsi davranışının tədqiqi").
+entry(sekspert, n, [sekspertlər], "cinsi məsələlər üzrə mütəxəssis").
+entry(sexpot, n, [sexpots], "cəlbedici qadın").
+entry(sext, n, [sextlər], "dua və ibadət üçün yeddi kanonik gündəlik dövrdən biri").
+entry(sekstina, n, [sekstinalar], "altı sətirlik bənd").
+entry(seksan, n, [seksanlar], "təkrarlanan malyariya qızdırması").
+entry(sektant, n, [sektantlar], "bucaqlı məsafələri ölçmək üçün bir alət").
+entry(sextarii, npl, [], "qədim Roma maye ölçü vahidləri").
+entry(altılıq, n, [altılıqlar], "altı nəfərlik qrup").
+entry(sekstet, n, [sekstetlər], "sekstet").
+entry(sekstil, n, [sekstiller], "iki göy cisminin bir-birindən altmış dərəcə ayrıldığı mövqe").
+entry(sextinq, n, [sextinqlər], "mobil telefon vasitəsilə cinsi məzmunlu mesajların və ya şəkillərin göndərilməsi").
+entry(altıncı, n, [altıncılar], "altıncı").
+entry(sexton, n, [sextonlar], "kilsənin təmir işçisi").
+entry(seksüpl, v, [seksüpləşmiş,seksüpləşmə,seksüpləşir], "altı dəfə daha böyük etmək").
+entry(seksqat, adv, [], "altı dəfə çox və ya çox").
+entry(cinsi, sif, [], "cinslƏ əlaqəli CİNSİ MƏNADA zərf").
+entry(seksi, sif, [], "DAHA SEKSİ SEKSIistənilən cinsi arzulayan").
+entry(sferika, npl, [], "elektron fırtına detektoru").
+entry(sforzato, n, [sforzatos], "tona və ya akorda qəfil güclə vurma").
+entry(sfumato, n, [sfumatolar], "rəssamlıqda istifadə edilən bir texnika").
+entry(sh, interj, [], "sükut tələb etmək üçün istifadə olunur").
+entry(şa, nida, [], "sükutu təlqin etmək üçün istifadə olunur").
+entry(yıpranmış, sif, [], "YIPRANMIŞ YIPRANACAQYıpranmışYIPRANMIŞ şəkildə adv").
+entry(shack, v, [shacked,shacking,shacks], "yaşamaq və ya qalmaq").
+entry(zəncirləmək, v, [zəncirlədi,zəncirləmə,zəncirlər], "biləklərə və ya ayaqlara yerləşdirilən metal bağlamalarla məhdudlaşdırmaq").
+entry(shackler, n, [shacklers], "qandallayan").
+entry(shacko, n, [shackos], "və ya SHACKOEsshako").
+giriş(shacky, sif, [], "ŞƏKİDAŞ ŞƏKİDASdilapidated").
+entry(shad, n, [shads], "bir qida balığı").
+entry(shadblow, n, [shadblows], "şadboş kolu").
+entry(shadbush, n, [şadbuşlar], "çiçək açan bir ağac və ya kol").
+entry(shadchan, n, [shadchans], "və ya SHADCHANİM Yəhudi evlilik vasitəçisi").
+entry(shaddock, n, [shaddocklar], "sitrus meyvəsi").
+entry(sus, nida, [], "kiminsə səsini kəsmək üçün istifadə olunur").
+giriş(kölgə, v, [kölgəli,kölgələmə,kölgələr], "işıq və ya istilikdən qorumaq üçün").
+entry(shader, n, [kölgələndiricilər], "kölgə salan").
+entry(shadfly, n, [shadflies], "qanadlı bir həşərat").
+entry(shadier, müqayisə, [], "kölgəli").
+entry(shadiest, superlative, [], "kölgəli").
+entry(shadily, zərf, [], "kölgəli bir şəkildə").
+entry(shading, n, [kölgələr], "işıq və ya istiyə qarşı qorunma").
+entry(shadkhan, n, [şadxanlar], "yaxud ŞADKHANİMşadçan").
+entry([şadof], n, [şadoflar], "Misirdə suvarma üçün su qaldırmaqda istifadə olunan bir cihaz").
+entry(shadow, v, [kölgələnmiş, kölgələnmə, kölgələr], "qaranlıq və ya qəmgin etmək").
+entry(kölgələyən, n, [kölgələyənlər], "kölgələyən biri").
+entry(qeyri-aydın, adj, [], "QARANLIQ").
+entry(shadrach, n, [shadraxin], "partlayan sobanin odlugunda birlasmamis material kutlesi").
+entry(şaduf, n, [şaduqlar], "şadoof").
+entry(shady, sif, [], "SHADIER SHADIESTshaded").
+entry(şaft, v, [şafted, şafting, şafts], "qütblə itələmək və ya irəli sürmək").
+entry(shafting, n, [shaftings], "hərəkəti və ya gücü ötürən çubuqlar sistemi").
+entry(shag, v, [shagged,shagging,shags], "tük basdırmaq").
+entry(shagbark, n, [shagbarks], "bərk ağac").
+entry(shaggy, sif, [], "SHAGGIER SHAGGIESTuzun kobud tüklərlə örtülüSHAGGILY adv").
+entry(sagrin, n, [sagrinlər], "bəzi köpək balıqlarının kobud dərisi").
+entry(şah, n, [şahlar], "İranlı hökmdar").
+entry(şəhadət, n, [şəhadətlər], "Müsəlmanların iman ifadəsi").
+entry(şəhadət, n, [şəhadətlər], "şəhadət").
+entry(şahlıq, n, [şahlıqlar], "bir şah tərəfindən idarə olunan ərazi").
+entry(shaheed, n, [shaheeds], "şəhid").
+entry(şəhid, n, [şəhidlər], "müsəlman şəhid").
+entry(şeyx, n, [şeyxlər], "şeyx").
+entry(shaird, n, [shairds], "qırıq").
+entry(şairn, n, [şairlər], "şarn").
+entry(şeytan, n, [şeytanlar], "şər ruh").
+entry(silkələmək, v, [silkələdi,silkələnmiş,silkələmə], "SILKƏLƏTo qısa və sürətli hərəkətlərlə irəli-geri hərəkət etməkSILKƏLƏNƏ BİLƏN sif").
+entry(silkələnmə, n, [silkələnmələr], "kiçik iqtisadi tənəzzül").
+entry(titrəyən, isim, [titrəyənlər], "bir şeyi titrədən").
+giriş(təlatüm, i, [təlatümlər], "tam yenidən təşkilatlanma").
+entry(titrək, müqayisəli, [], "titəyin").
+giriş(ən_titrək, superlativ, [], "titrək olan").
+entry(sirkələnərək, zərf, [], "sirkələnən şəkildə").
+entry(titrəmə, indiki, [], "shake felinin iştirakçısı").
+entry(shako, n, [şako], "hərbi papaq növü").
+entry(titrək, sif, [], "TİTRƏYİCİ TİTRƏYƏNLƏRtitrəmə").
+entry(şist, n, [şistlər], "çatlayan bir qaya").
+entry(shaled, sif, [], "qabığı olan").
+entry(shaley, sif, [], "SHALIER SHALIESTşistli").
+entry(shalier, comparative, [], "şallı").
+entry(shaliest, superlative, [], "şistli").
+entry(shall, v, [], "indiki tək 2-ci şəxs SHALL və ya SHALT keçmiş tək 2-ci şəxs SHOULD və ya SHOULDST və ya SHOULDEST gələcəkdə qaçılmazlıq və ya əmr ifadə etmək üçün köməkçi kimi istifadə olunur").
+entry(sağlon, n, [sağlonlar], "yun parça").
+entry(şalop, n, [şaloplar], "kiçik açıq qayıq").
+entry(şağallot, n, [şağallotlar], "soğana bənzəyən bir bitki").
+entry(dayaz, sif, [], "DAYAZ DAHA_DAYAZ ƏN_DAYAZaz_dərinliyi_olan").
+entry(dayaz, v, [dayazlaşdırdı,dayazlaşdırma,dayazlaşdırır], "dayaz etmək").
+entry(şalom, n, [şalomlar], "Yəhudi salamlaşma və ya vida sözü").
+entry(shalt, a, [], "şall əmrinin 2-ci şəxsin tək indiki halı").
+entry(şalvar, n, [şalvarlar], "Hindistanlı bəzi qadınlar tərəfindən geyinilən boş şalvar cütü").
+entry(shaly, sif, [], "ŞEYLƏ BƏNZƏYƏN").
+entry(sham, f, [imitasiya etdi, imitasiya edərək, imitasiyalar], "saxta etmək").
+entry(shamable, sif, [], "utandırıla bilənUTANARLI adv").
+entry(şimal, n, [şimallar], "isti quru külək").
+entry(şaman, n, [şamanlar], "bəzi Yerli Amerikalılar arasında bir təbib ŞAMANİK sif").
+entry(şamas, n, [şamosim], "şamməs").
+entry(shamba, n, [şambalar], "Şərqi Afrikada bir təsərrüfat").
+entry(shamble, v, [sürüşərək düşünmək, sürüşərək düşünməkdə, dolaşıqlar], "odlu şəkildə gəzmək").
+entry(utanc, v, [utanc verdi, utandirici, utanclar], "ağrılı bir günah ya da alçalma hissi yaratmaq").
+entry(rüsvayçı, sif, [], "rüsvayedici").
+entry(shames, n, [shamosim], "şammes").
+entry(şamiya, n, [şamiyalar], "Hindistanda böyük çadır").
+giriş(samisen, i, [samisenlər], "samisen").
+entry(shammas, n, [şammasim], "şammes").
+entry(shammash, n, [shammashim], "şammes").
+entry(shammed, keçmiş, [], "yalan danışmaq zaman şəkli").
+entry(shammer, n, [saxtakarlar], "hiyləgərlik edən biri").
+entry(shammes, n, [şammosim], "bir sinaqoqun kiçik vəzifəli şəxsi").
+entry(shammied, keçmiş, [], "şamının zaman forması").
+entry(shammies, indiki, [], "şamın üçüncü şəxs tək").
+entry(shamming, indiki, [], "sham"ın feli sifəti).
+entry(shammos, n, [shammosim], "şammes").
+entry(shammosim, pl, [], "şammaşdan").
+entry(shammy, v, [şamilədi, şamiləyir, şamilər], "şamoa etmək").
+entry(shamois, n, [şamoy], "şamoya").
+entry(shamos, n, [shamosim], "şammes").
+entry(shamosim, pl, [], "utanc hissləri").
+entry(şamoy, f, [şamoyed,şamoying,şamoylar], "şamoy etmək").
+entry(şampun, v, [şampunladı, şampunlama, şampunlar], "xüsusi bir hazırlıqla təmizləmək üçün").
+entry(yonca, n, [yoncalar], "üçyarpaqlı bitki").
+entry(shamus, n, [detektivlər], "xüsusi detektiv").
+entry(shandy, n, [şandilər], "spirtli içki").
+entry(şanxay, v, [şanxayladı,şanxaylamaqda,şanxaylar], "gəmiyə xidmət üçün qaçırmaq").
+entry(shank, v, [shanked,shanking,shanks], "qolf topunu sağa iti vurmaq").
+entry(shanny, n, [şenilər], "dəniz balığı").
+entry(shantey, n, [shanteys], "şanti").
+entry(shanti, n, [şantilər], "sülh").
+entry(konuslar, cəm, [], "konus").
+entry(shantih, n, [shantihlər], "şanti").
+entry(shantung, n, [shantunlar], "ipək parça").
+entry(shanty, n, [shanties], "balaca və kobud tikilmiş yaşayış yeri").
+entry(shape, v, [şekillendirilmiş,şekillendirmə,şekilləndirmə], "ŞEKİL xarici forma vermək SHAPABLE sif.").
+entry(cəlbedici, sifət, [], "CƏLBEDİCİ DAXİLİNCƏ CƏLBEDİCİliklər").
+entry(shaper, n, [shapers], "biri formalaşdıran").
+entry(forma, n, [formalar], "bir işçi heyəti işəgötürmə sistemi").
+giriş(şaping, indiki, [], "shape felinin iştirakcisi").
+entry(shard, n, [şardlar], "qırılmış keramika fraqmenti").
+entry(paylas, v, [paylasdi, paylasmaq, paylasir], "basqasiyla veya basqalariyla ortaq olaraq almaq ve ya istifade etmekPAYLASILABILER adj").
+entry(paçaci, n, [paçacılar], "paylaşan biri").
+entry(şəriət, n, [şəriəti], "Quran əsasinda İslam qanunu").
+entry(şəriət, n, [şəriətlər], "şəriət").
+entry(şəriət, n, [şəriətlər], "şəriət").
+entry(şerif, n, [şeriflər], "şerif").
+entry(paylaşma, indiki zaman, [], "paylaşmaqdan").
+entry(köpükçü balıq, v, [köpükçü balıq etdi,köpükçü balıq etmək,köpükçü balıqlar], "hiləgərliklə yaşamaq").
+entry(sharker, n, [sharkers], "nəhəng balıqları ovlayan").
+entry("köpək balığına bənzər", sif, [], "bir köpək balığı kimi davranmaq, yırtıcı bir balıq").
+entry(sharn, n, [sharns], "mal qara peyini").
+giriş(kəskin, sif, [], "KƏSKİN KƏSKİNƏUyğun və ya kəsmək və ya deşmək qabiliyyətində olan").
+entry(keskin, v, [keskindi,keskinleşir,keskinler], "musiqi tonu olaraq yüksəltmək").
+entry(itiqləşdirmək, f, [itiqləşdirdi, itiqləşdirir, itiqləşdirəcək], "iti etmək").
+giriş(kələkbaz, n, [kələkbazlar], "dələduz").
+entry(sharpie, n, [sharpies], "çox ayıq şəxs").
+entry(kəskinvari, sif, [], "bir qədər kəskin").
+giriş(kəskin, zərf, [], "kəskin bir şəkildə").
+entry(sharpy, n, [sharpilər], "sharpie").
+entry(shashlik, n, [şişliklər], "kabab").
+entry(shaslik, n, [şamdanlar], "şaşlıq").
+entry(shasta, n, [şastalar], "çiçəkli bitki").
+entry(shatoosh, n, [şatooşlar], "çiru yunundan edilən bir parça").
+entry(sındırmaq, f, [sındırdı,sındırmaqda,sındırır], "parçalara ayırmaq").
+entry(shaugh, n, [shaughs], "bir kolluq").
+entry(shaul, v, [şaul etdi, şaullaşır, şaullar], "şaul olmaq").
+entry(qirmq, v, [qirdi,qirilmis,qirir], "QIRDIRSaci koklerine yaxin qet etmQIRTAR adj").
+entry(tıraş_aparatı, n, [tıraş_aparatları], "tıraş edən biri").
+entry(shavie, n, [şayilər], "bir hiylə və ya zarafat").
+entry(qırxmaq, n, [qırxıntılar], "qırılan bir şey").
+entry(shaw, v, [shawed,shawn,shawing], "SHAWS göstermek").
+entry(şaurma, n, [şaurmalar], "pita çörəyinə bükülmüş ətli (quzu və ya toyuq), tərəvəzli və bəzən tahinili sendviç").
+entry("şal", v, ["şalı ətrafa bükmək", "şalı bükmə", "şallar"], "parça örtüyü kimi geyilən bir şalla örtmək").
+entry(shawm, n, [şomlar], "erkən ağac külək aləti").
+entry(shay, n, [shays], "bir tərpək").
+entry(şeyx, n, [şeyxlər], "şeyx").
+entry(shazam, nid, [], "sehrli bir hadisəni ifadə etmək üçün istifadə olunur").
+entry(o, n, [qadin], "qadın şəxs").
+entry(shea, n, [şea ağacları], "Afrika ağacı").
+entry(dəstə, v, [dəstələnmiş,dəstələnir,dəstələr], "dəstə halına gətirmək").
+giriş(sheal, n, [sheals], "shealing").
+entry(shealing, n, [shealings], "çoban daxması").
+entry(kəsmək, v, [keçiş,keçdi,keçir], "kəsməkTüyləri və ya yunu kəsmək").
+entry(shearer, n, [shearers], "kəsici").
+entry(qırxma, n, [qırxmalar], "saçın və ya yunluğun kəsilməsi halı").
+entry(qin, v, [qınlanmış,qınlama,qınlar], "qına qoymaq").
+entry(qınlamaq, f, [qınlanmış, qınlama, qınlayır], "qoruyucu qına qoymaq").
+entry(sarğı, n, [sarğılar], "sarğan").
+entry(şivi, v, [şivilinmiş,şivilənən,şivilənir], "dəstə halına yığmaq").
+entry(shebang, n, [shebanglar], "bir vəziyyət, təşkilat və ya məsələ").
+entry(shebean, n, [shebeans], "şiben").
+entry(shebeen, n, [shebeens], "spirtli içkilərin qeyri-qanuni satıldığı yer").
+entry(shed, v, [tökmək, tökür, tökmələr], "kiçik alçaq bir struktura yerləşdirmək").
+entry(shedable, adj, [], "kənara atıla bilən").
+entry(shedder, n, [shedders], "bir şeyi atan").
+entry(shedlike, sifət, [], "dama bənzər").
+entry(sheen, v, [parıldadı, parıldayan, parıldar], "parıldamaq").
+entry(sheenful, sif, [], "parlaq").
+entry(sheeny, sif, [], "PARLAQ PARLAQ ƏN PARLAQ").
+entry(quzu, n, [quzu], "bir geviş gətirən məməli").
+entry(qoyunqırxımı, n, [qoyunqırxımları], "qoyunlar üçün bir hasara alınmış sahə").
+entry(qoyun iti, n, [qoyun itləri], "qoyunları qorumaq və yığmaq üçün təlim keçmiş bir it").
+entry(qoyunabənzər, sifət, [], "utanmış").
+entry(qoyunçu, n, [qoyunçular], "qoyun yetişdirən şəxs").
+entry(sheer, adj, [], "ÇOX İNCƏ DOKULUHƏTTA adv").
+entry(sheer, v, [sükan fırlatdı,sükan fırlatma,sükan fırladır], "yoldan çıxmaq").
+entry(sheesh, nida, [], "yüngül qıcıqlanmanı ifadə etmək üçün istifadə olunur").
+entry(sheet, v, [örtüklü,örtük,örtüklər], "nazik düzbucaqlı material parçası ilə örtmək").
+entry(sheetçi, n, [sheetçilər], "sheet edən şəxs").
+entry(sheetfed, sif, [], "çap maşınının bir növü ilə əlaqəli").
+entry(sheeting, n, [sheetings], "vərəqlər şəklində material").
+entry(sheeve, n, [sheeves], "oluklu kasnaq təkəri").
+entry(şəhnay, n, [şəhnaylar], "Hindistanda iki dillə çalınan bir nəfəs aləti").
+entry(şeyx, is, [şeyxlər], "ərəb rəisi").
+entry(şeyxlik, n, [şeyxliklər], "bir şeyxin idarə etdiyi ərazi").
+entry(şeyx, n, [şeyxlər], "şeyx").
+entry(sheila, n, [sheilalar], "gənc qadın").
+entry(şeytan, n, [şeytanlar], "şeytan").
+entry(sheitel, n, [şeyteller], "evli yəhudi qadını tərəfindən taxılan parik").
+entry(shekel, n, [şekellər], "və ya ŞEKELIM və ya ŞEKALIMQədim çəki və pul vahidi").
+entry(shelduck, n, [sheldoqlar], "Avropa ördəyi").
+entry(rəf, n, [rəflər], "müxtəlif əşyaları dəstəkləmək üçün istifadə edilən düz və sərt quruluş").
+entry(shelfful, n, [shelffuls], "rəfin tuta biləcəyi qədər").
+entry(shell, v, [qabıqlı,qabıqdan çıxarma,qabıqlar], "sərt xarici örtüyü olan qabığı çıxarmaq").
+entry(shellac, v, [shellacked,shellacking,shellacs], "nazik bir lak ilə örtmək").
+entry(shellack, v, [shellacked,shellacking,shellacks], "şellakla örtmək").
+entry(sheller, n, [qabıqçılar], "qabıq çıxaran").
+giriş(shelly, sifət, [], "SHELLIER SHELLIESTdəniz qabıqları ilə dolu").
+entry(shelta, n, [sheltas], "Gael dilinin qeyri-adi jarqon dili").
+giriş(sığınacaq, f, [sığındı,sığınmaq,sığınır], "örtük və ya qoruma təmin etmək üçün").
+entry(shelti, n, [sheltinin], "kiçik, tüklü bir midilli").
+entry(shelty, n, [shetland qoyun iti], "shetland qoyun iti").
+entry( rəf, v, [rəfə qoyulmuş, rəfə qoyma, rəflər], "rəfə qoymaq").
+entry(raf-sırayan, n, [raf-sırayanlar], "rafı düzəldən biri").
+entry(rəflər, əməkdaslər, [], "rəfin").
+entry(rəfləşdirmə, n, [rəfləşdirmələr], "rəflər üçün material").
+entry(shelvy, sif, [], "SHELVIER SHELVIESTtədricən maili").
+entry(shen, n, [shen], "bir insanın psixikasının ruhani elementi").
+entry(şənai, n, [şənailər], "şəhnai").
+entry(shend, v, [shent,shending,shends], "biabır etmək").
+entry(sheol, n, [şəollar], "cəhənnəm").
+entry(çoban, v, [çobanladı, çobanlama, çobanlar], "diqqətlə nəzarət etmək").
+entry(şekel, n, [şekellər], "və ya ŞEKALLİMşekel").
+entry(sorbet, n, [sorbetlər], "şərbət").
+entry(sərbət, n, [sərbətlər], "meyvəli dondurulmuş qarışıq").
+entry(parça, n, [parçalar], "şard").
+entry(shereef, n, [shereefs], "şerif").
+entry(şerif, n, [şeriflər], "ərəb hakimi").
+entry(şerif, n, [şeriflər], "bir qraflığın hüquq-mühafizə zabiti").
+entry(şerlok, n, [şerlokun], "detektiv").
+entry(shero, n, [sheroeler], "qəhrəman hesab edilən qadın").
+entry(sherut, n, [sherutlar], "cheroot").
+entry(sherpa, n, [şerpalı], "astarlar üçün yumşaq bir parça").
+entry(sherried, sif, [], "şeri ilə bişirilmiş və ya dadlandırılmış").
+entry(şerris, n, [şerrilər], "şerri").
+entry(şerri, n, [şerrilər], "bir növ şərab").
+entry(sherwani, n, [şərvanilər], "Hindistanın bəzi kişiləri tərəfindən geyilən dizi uzun paltar").
+entry(shetland, n, [şetlandlar], "yunun sapı").
+entry(sheuch, n, [sheuchs], "şevalə").
+entry(sheugh, n, [arxlar], "arx").
+entry(shew, v, [shewed,shewn,shewing], "SHEW-göstərmək").
+entry(shewer, n, [shewerlər], "göstərən biri").
+entry(shh, interj, [], "şş").
+entry(shhh, nida, [], "sh").
+entry(shiatsu, n, [shiatsular], "barmaq təzyiqi ilə masaj").
+entry(shiatzu, n, [shiatzular], "şiatsu").
+entry(shibah, n, [shibahs], "şiva").
+entry(sərxoş, n, [sərxoşlar], "sərxoş").
+entry(qorxdu, keçmiş, [], "qorxmaq felinin keçmiş zaman forması").
+entry(shiel, n, [shiels], "yaylaq").
+entry(shield, f, [qoruyur, qorumaq, qoruyar], "müdafiə örtüyü və ya sığınacaq təmin etmək").
+entry(qoruyucu, n, [qoruyucular], "qoruyan biri").
+entry(yaylaq, n, [yaylaqlar], "yaylaq").
+entry(shier, n, [shiers], "ürkəklik edən at").
+entry(çəkinir, indiki, [], "çəkinmək feilinin üçüncü şəxs tək halı").
+entry(shiest, a, [], "çəkingənin üstünlük dərəcəsi").
+entry(shift, v, [daşıma,daşınır,daşıyır], "bir mövqedən digərinə keçmək").
+entry(shifter, n, [şiftlər], "şift edən biri").
+entry(yerdəyişmə, n, [yerdəyişmələr], "bir yerdən başqa yerə hərəkət etmə aktı").
+giriş(sürüşkən, sif, [], "SÜRÜŞKƏN SÜRÜŞKƏN ƏN SÜRÜŞKƏNməkrliSÜRÜŞKƏNCƏ zərf").
+entry(shigella, n, [şigellalar], "və ya SHIGELLAE aerob bakteriyalar cinsindən olan hər hansı biri").
+entry(şitaki, n, [şitakilər], "tünd rəngli Şərq göbələyi").
+entry(şikar, v, [şikarred, şikarinq, şikars], "ovlamaq").
+entry(shikara, n, [şikaralar], "Kəşmirdə yüngül yastı qayıq").
+entry(şikari, n, [şikarilər], "böyük ovçuluqla məşğul olan şəxs").
+entry(şikari, n, [şikaris], "şikaree").
+entry(shikker, n, [shikkerlər], "şikker").
+entry(shikra, n, [şikralar], "kiçik bir qırlangıç göyərçini").
+entry(shilingi, n, [shilingi], "Tanzaniyanın pul vahidi").
+entry(saxta_təklif_verən, v, [təklif_verdi,təklif_verir,təklif_verənlər], "saxta alıcı kimi hərəkət etmək").
+entry(shillala, n, [şillalalar], "qısa qalın dəyənək").
+entry(shilling, n, [şillinqlər], "Böyük Britaniyanın keçmiş pul vahidi").
+entry(shilpit, sif, [], "xəstəhal").
+entry(shily, zər, [], "utancaq bir şəkildə").
+entry(shim, f, [shimləndi,shimlənir,shimlər], "nazik bir yaxdı qoyaraq doldurmaq və ya səviyyələndirmək").
+entry(shimmer, v, [parıldadı, parıldayan, parıldayır], "parıldamaq").
+entry(zəif-işıqlı, sif, [], "parıldayan").
+entry(simi, v, [simi etdi, simi edir, simi edənlər], "vibrasiya etmək və ya yırğalanmaq").
+entry(shin, f, [dizlə getdi,dizlə getmək,dizlər], "əl və ayaqlarla növbə ilə tutaraq və çəkərək dırmanmaq üçün").
+entry(sıxaq, i, [sıxaqlar], "çanaq sümüyü").
+entry(shindig, n, [shindigs], "təntənəli rəqs və ya ziyafət").
+entry(shindy, n, [shindys], "və ya ŞİNDİES bir şənlik").
+entry(təraş etmək, v, [təraş etdi,təraş edir,təraş edər], "işığı yaymaq").
+entry(shiner, n, [shiners], "parlayan bir şey").
+entry(şingle, v, [şingled, şingling, şinglər], "tikinti materialının nazik düzbucaqlı parçası ilə örtmək").
+entry(shingler, n, [dam satanlar], "dam örtən").
+entry(shingly, sif, [], "kiçik sərbəst daşlarla örtülü").
+entry(shinier, müqayisə dərəcəsi, [], "parlaq olan").
+entry(ən_parlaq, superlative, [], "parlaq").
+entry("parlaq şəkildə", adv, [], "parlaq bir tərzdə").
+entry(parlayan, sif, [], "işıq yayan və ya əks etdirən").
+entry(shinleaf, n, [shinleafs], "və ya SHINLEAVES çoxillik ot").
+entry(shinned, keçmiş, [], "sabanın").
+entry(shinnery, n, [shinneries], "kiçik ağacların sıx böyüməsi").
+entry(shinney, f, [shinneyed,shinneying,shinneys], "xokkeyin bir formasını oynamaq").
+entry(shinning, indiki, [], "parlaq parçası").
+entry(shinny, v, [shinnylədi,shinnyləyir,shinnilər], "dırmanmaq").
+entry(shinty, n, [shinties], "velosipedli hokkeyə bənzəyən bir Şotlandiya oyunu").
+entry(parlaq, sifət, [], "PARLAQ PARLAQfilled with light").
+entry(gəmi, v, [göndərildi,göndərmə,gəmilər], "dərin sularda naviqasiya üçün uyğun olan bir gəmi ilə daşınmaq").
+entry(shiplap, n, [shiplaplar], "dülgərlikdə istifadə olunan üst-üstə düşən birləşmə").
+entry(shipless, adj, [], "gəmisiz").
+entry(gəmiyükü, n, [gəmiyüküləri], "gəminin daşıya biləcəyi qədər").
+entry(shipman, n, [shipmen], "dənizçi").
+entry(gəmiçi, n, [gəmiçilər], "əməkdaş dənizçi").
+entry(yük, n, [yüklər], "göndərilən bir şey").
+entry(göndərildi, keçmiş, [], "göndərmək zaman forması").
+entry(shippen, n, [shippens], "mal tövləsi").
+entry(göndərən, n, [göndərənlər], "göndərən şəxs").
+entry(göndərmə, n, [göndərmələr], "göndərmə ilə məşğul olan biznes").
+entry(shippon, n, [shippons], "shippen").
+entry(gəminin tərəfi, n, [gəminin tərəfləri], "gəminin yanındakı ərazi").
+entry(shiptime, n, [gəmi vaxtları], "təchizat gəmisinin illik gəlişi").
+entry(shipway, n, [gəmidəhlizləri], "gəmilərə xidmət etmək üçün kifayət qədər dərin bir kanal").
+entry(gəmiqurdu, n, [gəmiqurdları], "qurdsifətli molyusk").
+entry(gəmiqayırma zavodu, n, [gəmiqayırma zavodları], "gəmilərin tikildiyi və ya təmir edildiyi yer").
+entry(shiraz, n, [şi̇razlar], "şərab növü").
+entry(shire, n, [şirələr], "Böyük Britaniyanın ərazi bölgüsü").
+entry(qaçmaq, v, [qaçdı,qaçır,qaçır], "işdən vəzifədən yayınmaq").
+entry(shirker, n, [şirkərlər], "qaçan biri").
+entry(şirr, v, [şirred,şirring,şirrs], "parçanı üç və ya daha çox paralel sətirə çəkmək").
+entry(shirring, n, [shirrings], "büzüşdürülmüş parçanın düzülüşü").
+entry(köynək, n, [köynəklər], "üst bədən üçün geyimKÖYNƏKLİ sif").
+entry(shirting, n, [köynəkliklər], "köynək tikmək üçün istifadə olunan parça").
+entry(shirty, adj, [], "KÖYNEKLİ KÖYNEKLİLƏR qəzəbliKÖYNEKLİCƏ adv").
+entry(shist, n, [şistlər], "şist").
+entry(shitake, n, [shitakes], "şiitake").
+entry(şitta, n, [şittalar], "bir sərt ağac növü").
+entry(şittim, n, [şittimlər], "şittah ağacının taxtası").
+entry(shiur, n, [shiurim], "Talmudik dərs sessiyası").
+entry(shiv, isim, [shivs], "bıçaq").
+entry(shiva, n, [şivalar], "matəm dövrü").
+entry(shivah, n, [shivahs], "şiva").
+entry(shivaree, f, [shivareed,shivareeing,shivarees], "chivaree etmək").
+entry(shive, n, [şivlər], "nazik fraqment").
+entry(titrəmək, f, [titri, titrəyir, titriyir], "qorxu və ya soyuqdan titrəmək").
+entry(titrəyən, n, [titreyənlər], "titrəyən şəxs").
+entry(titrəyən, sif, [], "titrəmək").
+entry(shiviti, n, [shivitis], "İbrani ayəsi olan lövhə").
+entry(shlemiel, n, [şlemellər], "bəxtsiz bünglər").
+entry(shlep, v, [shlepped,shlepping,shleps], "daşımaq").
+entry(shlepp, f, [shlepped,shlepping,shlepps], "sürükləmək").
+entry(shlepper, n, [shleppers], "daşıyan").
+entry(shleppy, sif, [], "ŞLEPPİER ŞLEPPİESTschleppy").
+entry(shlock, n, [şloklar], "şlak").
+entry(shlocky, sif, [], "SHLOCKIER SHLOCKIESTschlocky").
+entry(shlub, n, [shlublar], "şləb").
+entry(shlump, v, [shlumped, shlumping, shlumps], "şlump etmək").
+entry(shlumpy, sif, [], "səpələnmiş").
+giriş(şmaltz, i, [şmaltzlər], "şmaltz").
+entry(shmaltzy, sif, [], "DAHA ŞMALTZİ DA ƏN ŞMALTZİschmalzy").
+entry(shmatte, n, [shmattes], "şmatte").
+entry(shmear, v, [shmeared,shmearing,shmears], "şmer etmək").
+entry(shmeer, v, [shmeered,shmeering,shmeers], "şmeer etmək").
+entry(shmo, n, [shmoes], "şmo").
+entry(shmoe, n, [shmoes], "şmo").
+entry(shmooze, v, [shmoozed, shmoozing, shmoozes], "şmooze etmək").
+giriş(şmoozer, n, [şmoozerlər], "şmooz edən biri").
+entry(shmoozy, sif, [], "SHMOOZIER SHMOOZIESTschmoozy").
+entry(shmuck, n, [shmucks], "şmak").
+entry(shmucky, sif, [], "SHMUCKIER SHMUCKIESTschmucky").
+entry(shnapps, n, [shnapps], "şnapps").
+entry(shnaps, n, [shnaps], "şnaps").
+entry(shnook, n, [shnooklar], "schnook").
+entry(xsnorrer, n, [xsnorrerlər], "başqalarının səxavətindən faydalanan şəxs").
+entry(sığ, sif, [], "SIĞLI SIĞINən").
+entry(sahil, v, [sahil oldu,sahil olur,sahillər], "dayazlaşmaq").
+entry(shoaly, sif, [], "DAHA DAYAZ, ƏN DAYAZ sahələrdən dolu").
+entry(shoat, n, [shoats], "cavan donuz").
+entry(shochet, n, [şohetlər], "heyvanları və quşları Yəhudi qanunlarına uyğun olaraq kəsən şəxs").
+entry(shoçu, n, [şoçular], "yapon içkisi").
+entry(şok, v, [şoka düşmək, şoklayıcı, şoklar], "böyük təəccüb, dəhşət və ya iyrəncliklə vurmaq").
+entry(titrədici, n, [titrədicilər], "titrədən biri").
+entry(shod, a, [], "ayaqqabı keçmiş zaman").
+entry(shodden, a, [], "shoe-un keçmiş təsrifli forması").
+entry(ucuz, sif, [], "ucuz, ucuzundan keyfiyyətsiz UCUZCASINA zərf").
+entry(səviyyəsiz, n, [səviyyəsizlər], "aşağı keyfiyyətli yun").
+entry(ayaqqabı, n, [ayaqqabılar], "ayaq üçün örtük").
+entry(ayaqqabı, v, [ayaqqabıladı, ayaqqabılanmış, ayaqqabılama], "AYAQQABILto provide with shoes").
+entry(shoebill, n, [shoebills], "suda gəzən quş").
+entry(shoebox, n, [shoeboxes], "ayaqqabı cütü saxlamaq üçün uzun mürəkkəb qutu").
+entry(sapand, v, [sapandladı,sapandlamaq,sapandlar], "kiçik bir məkana zorla yerləşdirmək").
+giriş(ayaqqabı_bağı, n, [ayaqqabı_bağları], "ayaqqabını bağlamaq üçün bir bağ").
+entry(ayaqqabısız, sif, [], "ayaqqabısı olmayan").
+entry(shoepac, n, [shoepacs], "su keçirməyən çəkmə").
+entry(shoepack, n, [shoepacks], "şupak").
+entry(atdabançı, n, [atdabançılar], "atlar üçün nal düzəldən").
+entry(shoetree, n, [ayaqqabı ağacı], "ayaqqabının formasını qorumaq üçün onun içinə yerləşdirilən ayaq formasında bir cihaz").
+entry(shofar, n, [şofarlar], "və ya ŞOFROTa bəzi Yəhudi ayinlərində çalınan qoç buynuzu trubası").
+entry(shog, f, [shogladı, shoglayır, shoglar], "hərəkət etmək").
+entry(shogi, n, [shogilər], "şahmat kimi Yapon oyunu").
+entry(şoqun, i, [şoqunlar], "Yaponiyanın keçmiş hərbi lideriŞOQUNAL sif").
+entry(shoji, n, [shojilər], "Yapon evində arakəsmə və ya qapı kimi istifadə edilən kağız pərdə").
+entry(shojo, n, [shojo], "əsasən qızlar üçün nəzərdə tutulan manqa").
+entry(sholom, n, [sholoms], "şalom").
+entry(shone, a, [], "shine sözünün keçmiş zaman forması").
+entry(shoo, v, [shooed, shooing, shoos], "uzaqlaşdırmaq").
+entry(shoofly, n, [shooflies], "uşaq yellənciyi").
+entry(shook, n, [shooks], "çəllək və ya paket yığmaq üçün hissələr dəsti").
+entry(məktəb, f, [məktəbləşdi,məktəbləşir,məktəbləşir], "bel ilə qazmaq").
+entry(shoon, a, [], "ayaqqabıların cəmi").
+entry(suş, v, [suşdu,suştü,suşur], "səsi ilə hərəkət etmək").
+entry(atəş, f, [atəş etdi, atış, atəş edir], "silahdan atılmış bir mərmi ilə vurmaq, yaralamaq və ya öldürmək").
+entry(atıcı, n, [atıcılar], "atan biri").
+entry(çəkmək, n, [çəkmələr], "atanın hərəkəti").
+entry(atıcı, n, [atıcılar], "atışda mahir olan biri").
+entry(atışma, n, [atışmalar], "tapança və ya tüfənglərlə aparılan döyüş").
+entry(mağaza, f, [mağazalaşdı, mağazalaşma, mağazalaşır], "malları almaq niyyəti ilə yoxlamaq").
+entry(shopboy, n, [shopboys], "satıcı").
+entry(shopgirl, n, [shopgirls], "satış qızı").
+giriş(şofar, n, [şofarlar], "və ya ŞOFROTşofar").
+entry(dukansız, sif, [], "heç bir mağazası olmayan").
+entry(mağaza oğlu, f, [oğurladı, mağaza oğlu, mağaza oğulları], "mağazadan mallar oğurlamaq").
+entry(mağazaçı, n, [mağazaçılar], "kiçik bir mağaza sahib olan və ya işlədən şəxs").
+entry(shoppe, n, [shoppes], "kiçik bir mağaza").
+entry(alış-veriş etdi, keçmiş, [], "alış-veriş felinin zamanı").
+entry(alıcı, n, [alıclar], "alış-veriş edən").
+entry(alış-veriş, n, [alış-verişlər], "alış-veriş edən birinin fəaliyyəti").
+entry(shoppy, sif, [], "ALVEREDƏ ALVEREDƏNehyat alver etməyə qayğı göstərən").
+entry(mağaza söhbəti, n, [mağaza söhbətləri], "birinin işi və ya peşəsi ilə əlaqədar söhbət").
+entry(mağazada geyim, sif, [], "mağazada sərgiləndiyi üçün köhnəlmiş").
+entry(shoran, n, [şoranlar], "bir növ naviqasiya sistemi").
+giriş(sahil, v, [müşahidləndi,müşahidlənir,sahillər], "dəstəkləyici bir taxta ilə dayaq etmək").
+entry(shoring, n, [daya], "dəstək dirəkləri sistemi").
+entry(shorl, n, [shorls], "şorl").
+entry(shorn, a, [], "shear felinin keçmiş növüdür").
+entry(qısa, adj, [], "QISA DAHADA QISA").
+entry(qısa, v, [qısadı,qısamaq,qısalar], "elektrik nasazlığına səbəb olmaq").
+giriş(çatışmazlıq, n, [çatışmazlıqlar], "kifayət qədər olmayan təchizat və ya məbləğ").
+entry(qısayol, v, [qısayol,qısaltma,qısayollar], "daha qısa və ya sürətli bir yol seçmək").
+entry(qısaltmaq, f, [qısaldılmış,qısaldır,qısalır], "daha qısa etmək və ya qısa olmaq").
+entry(shortia, n, [shortias], "çoxillik ot bitkisi").
+entry(shortie, n, [shortilər], "shorty").
+entry(shorties, pl, [], "qısanın").
+entry(qısavari, adj, [], "bir qədər qısa").
+entry(qısa müddətdə, zərf, [], "qısa müddətdə").
+entry(shorty, n, [shorties], "qısa olan").
+entry(shot, v, [vuruldu,vurma,vurur], "balaca qurğuşun və ya polad qranullarla yükləmək").
+entry(shote, n, [shotes], "quzu").
+giriş(tüfəng, f, [tüfənglədi,tüfəngləyir,tüfənglər], "bir növ silahla atəş açmaq").
+shothole(giriş, n, [shotholes], "partlayıcıları saxlamaq üçün qayada qazılmış bir deşik").
+entry(shott, n, [shotts], "çott").
+entry(vurdu, keçmiş, [], "atəş açmaq fiilinin zamanı").
+entry(shotten, sif, [], "yumurtlamış balıq üçün istifadə olunur").
+entry(shotting, indiki, [], "shot feli məsdəri").
+entry(olmalı, keçmiş, [], "shall sözünün zaman forması").
+entry(çiyin, v, [çiyinlədi,çiyinləyir,çiyinlər], "yükü və ya məsuliyyəti üzərinə götürmək").
+entry(shouldest, a, [], "keçmiş zaman şəklində ikinci şəxs tək shall").
+entry(shouldst, a, [], "keçmiş zamanda sən şəklidə shall felinin 2-ci şəxs tək forması").
+maddə(qışqırmaq, f, [qışqırdı,qışqırır,qışqırır], "ucla səsləndirmək").
+entry(qışqıran, n, [qışqıranlar], "qışqıran şəxs").
+entry(shouty, sif, [], "FƏRYAD EDƏN FƏRYADKI FƏRYADI xarakterizə olunan və ya feryad etməyə meyilli").
+entry(itələmək, v, [itələdi,itələyir,itələyir], "qaba itələmək").
+entry(bel, f, [belledi,belləyir,bellər], "və ya BELLEDİ BELLƏYİR BELLƏRtəmizləmək üçün bel bir qazma aləti").
+entry(kərəkək, n, [kərəkəklər], "küləşlə kazıyən").
+entry(shover, n, [shoverlər], "itişən biri").
+entry(itələmə, indiki, [], "itələmək fiilinin təsriflənmiş forması").
+başlayan(göstər, f, [göstərdi,göstərilmiş,göstərmə], "GÖSTƏRhər hansı bir şeyi görməyi təmin etməkGÖSTƏRİLƏBİLƏN sifət").
+entry(şou-biznes, n, [şou-bizneslər], "şou biznes").
+entry(lafçı, v, [lafçılıq etdi, lafçılıq etməkdədir, lafçılıq edir], "özünü nümayiş etdirmək").
+entry(vitrinə qoymaq, v, [vitrinə qoydu,vitrinə qoyma,vitrinə qoyur], "sərgiləmək").
+entry(showdown, n, [güc sınamaları], "məsələni həll etmək üçün məcburi sonluğu olan hadisə").
+entry(duş, f, [duş aldı, duş almaq, duş alır], "su ilə çiləyərək çimmək").
+giriş(duş_götürən, n, [duş_götürənlər], "duş alan biri").
+entry(showery, sif, [], "qısamüddətli yağışlarla bol olan").
+entry(showgirl, n, [showqızlar], "bir koro qızı").
+entry(showgoer, n, [showgoers], "şouya gələn").
+entry(showier, müqayisəli, [], "gösterişli-nin").
+entry(showiest, mübaliğə, [], "göstərişli olan").
+entry(cazibəli şəkildə, zərf, [], "cazibədar bir şəkildə").
+giriş(göstərmək, n, [göstərişlər], "bir sərgi və ya nümayiş").
+entry(showman, n, [sirk ustası], "teatr prodüseri").
+giriş(göstərildi, keçmiş, [], "göstərmək feilinin təsriflənmiş forması").
+entry(gözəgəlimli, n, [gözəgəlimlilər], "iddialı nümayişlərə meylli biri").
+entry(showring, n, [şou halqaları], "heyvanların nümayiş etdirildiyi halqa").
+entry(göstərmə_zalı, n, [göstərmə_zalları], "malların nümayişi üçün istifadə olunan otaq").
+entry(saat, n, [saatlar], "əyləncənin başlayacağı vaxt").
+entry(gözqamaşdırıcı, adj, [], "GÖZQAMAŞDIRICI GÖZQAMAŞDIRICI ən böyük və ya parlaq nümayiş etdirən").
+entry(shoyu, n, [shoyus], "soya sousu").
+entry(sıxıldı, keçmiş, [], "shrink-in zamanı").
+entry(şrapnel, n, [şrapnellar], "partlayan bomba, mina və ya mərminin qalıqları").
+entry(tikə, v, [tikəldi,tikəlmə,tikəlir], "kiçik zolaqlara parçalamaq").
+entry(shredder, n, [parçalayıcılar], "parçalayandır").
+giriş(kəşalayiquşu, f, [kəşalayiquşuyub,kəşalayiquşuyur,kəşalayiquşular], "lənət etmək").
+entry(hiyləgər, sif, [], "HIYLƏGƏRƏCƏ HIYLƏGƏRƏCƏ. iti zəkası olan. HIYLƏGƏRCƏ zərf").
+entry(shrewdie, n, [shrewdies], "məşhur bir şəxs").
+entry(shrewish, sif, [], "kəskinxasiyyətli").
+entry(shri, n, [shris], "şri").
+entry( fəryad, v, [fəryad etdi,fəryad edən,fəryadlar], "kəskin bir qışqırıq salmaq").
+entry(feryadci, n, [feryadcilar], "feryad eden biri").
+entry(shrieky, sif, [], "DAHA ÇIĞIRIQ DAHA ÇIĞIRIQLIdirsəkdən").
+entry(sherifə, sifət, [], "şerifə aid olan").
+entry(shrieve, v, [şriev etdi, şriev etməkdə, şriev edir], "etiraf etdirmək").
+entry(shrift, n, [shrifts], "günah çıxarma əməli").
+entry(shrike, n, [shrikes], "yırtıcı bir quş").
+entry(shrill, adj, [], "YÜKSƏK SƏS VƏ DEŞİCİ KEYFİYYƏTƏ MALİK OLAN SHRILLER SHRILLESTSHRILLY adv").
+entry(kəskin, v, [kəskinləndi,kəskinlənir,kəskinləşir], "kəskin bir səs çıxarmaq").
+entry(karides, v, [karideslədi,karidesləmə,karideslər], "kiçik dəniz onayaqlılarından olan karidesləri tutmaq").
+giriş(krevetci, n, [krevetcilər], "krevet ovçusu").
+entry(shrimpy, sif, [], "KREVET DOLU").
+entry(ziyarətgah, v, [ziyarət edilmiş, ziyarət etmək, ziyarətgahlar], "müqəddəs əmanətlərin saxlandığı bir yerə yerləşdirmək").
+entry(kiçiltmək, f, [kiçildilmiş,kiçilən,kiçilir], "büzülmək və ya geri çəkilmək").
+entry(daraldıcı, n, [daraldıcılar], "daraldan biri").
+entry(shrive, v, [shrived,shriven,shriving], "SHRIVEtəqsiri dinləmək və günah bağışlanması vermək").
+entry(buruşmaq, f, [buruşdu,buruşan,buruşur], "və ya BURUŞDUBURUŞANBURUŞur qırışlara çevrilmək").
+entry(shriver, n, [shrivers], "bağışlayan").
+entry(shroff, v, [şroffladı,şrofflayır,şrofflayar], "sikkənin saxta olub-olmadığını yoxlamaq").
+entry(göbələk, n, [göbələklər], "göbələk bir növ göbələkdir").
+entry(şrumpər, n, [şrumpərlər], "göbələk yeməkdən zövq alan şəxs").
+entry(kəfənlə, v, [kəfənlədi,kəfənləyir,kəfənləyir], "dəfn paltarına bürümək").
+entry(shrove, a, [], "şrayv feli keçmiş zaman").
+entry(kol, i, [kollar], "alçaq oduncaq bitkisi").
+entry(shrubby, sif, [], "KÜLLİYYƏTLİ BÜŞƏRƏ DƏRMANLARla örtülmüş").
+entry(çiyin çəkmək, f, [çiyin çəkdi, çiyin çəkməkdə, çiyin çəkir], "çiyinləri qaldırıb bükmək").
+entry(kiçildi, a, [], "kiçilmək feilinin keçmiş zamanı").
+entry(kiçildilmiş, a, [], "shrink feilinin keçmiş iştirakçısı").
+entry(shtetel, n, [shtetels], "və ya SHTETLACH Yəhudi kəndi").
+entry(shtetl, n, [ştetllər], "və ya ŞTETLACHştetel").
+entry(shtick, n, [shticks], "əyləncə rutini").
+entry(shticky, adj, [], "SHTICKIER SHTICKIEST shtickə bənzəyən").
+entry(shtik, n, [ştiklər], "ştik").
+entry(shtum, sif, [], "schtum").
+entry(shuck, v, [qabığını təmizlədi,qabığını təmizləyir,qabığını təmizləyir], "qabığını və ya qabığını çıxarmaq").
+entry(qabıqçı, n, [qabıqçılar], "qabığı çıxaran biri").
+entry(qabıq_təmizləmə, n, [qabıq_təmizləmələr], "qabığı təmizləyənin fəaliyyəti").
+entry(titrəmək, v, [titrədi,titreyir,titrəyir], "titrəmək").
+entry(titrək, sifət, [], "titrəmə").
+entry(shuffle, f, [daşındı,daşınır,daşınır], "ayaqlarını qaldırmadan yerimək").
+entry(shuffler, n, [qarışdırıcılar], "qarışdıran biri").
+entry(shul, n, [shuls], "və ya SHULSinanqoq").
+entry(shumai, npl, [], "Yapon köftələri").
+entry(shun, v, [yoxlanıldı, yoxlanılır, yoxlayır], "çəkinmək").
+entry(qacan, n, [qacanlar], "uzaq duran biri").
+entry(shunpike, f, [shunpiked,shunpiking,shunpikes], "ekspres yollarından qaçmaq üçün kənd yolları ilə səyahət etmək").
+entry(shunt, v, [kənarlaşdırıldı, kənarlaşdırmaq, kənarlaşdırır], "kənara çevirmək").
+entry(shunter, n, [şanterlər], "manipulyasiya edən biri").
+entry(shura, n, [şuralar], "müşavirə şurası").
+entry(sakitləşdir, v, [sakitləşdirdi,sakitləşdirir,sakitləşdirir], "sakitləşdirmək").
+entry(shusher, n, [shushers], "susduran").
+entry(bağla, v, [bağla,bağlayır,bağlayır], "bağlamaq").
+şəxsiyyət(söndürmə, n, [söndürmələr], "sənaye zavodunun müvəqqəti bağlanması").
+entry(shute, v, [shuted,shuting,shutes], "uçuş üçün").
+entry(yatma, n, [yatmalar], "yuxu").
+giriş(söndürmə, n, [söndürmələr], "nəyisə söndürən cihaz").
+entry(sıfıraeşmə, n, [sıfıraəşmələr], "bir komandanın xal qazanmadığı oyun").
+entry(qapaq, f, [qapadı, qapamaq, qapaqlar], "pəncərəni menteşəli pəncərə qapaqları ilə təmin etmək").
+giriş(bağlanmaq, qəbul, [], "shut sözünün iştirakçı şəkli").
+entry(avtobus, v, [avtobusdaşıdı,avtobusdaşır,avtobuslar], "geri və irəli hərəkət etmək və ya səyahət etmək").
+entry(shuttler, n, [shuttlerlər], "daşıyan biri").
+entry(shvitz, v, [shvitzed, shvitzing, shvitzes], "tər tökmək").
+entry(şva, n, [şvalar], "şva").
+entry(şuanpan, n, [şuanpanlar], "şuanpan").
+entry(çəkingən, sifət, [], "UTANCAVER UTANCAVƏRMOST və ya UTANCAVER UTANCAVƏRMOSTçəkingən").
+entry(çəkingən, v, [çəkingən,çəkingən,çəkingən], "qorxudan birdən geriyə və ya kənara hərəkət etmək").
+entry(utancaq, n, [utancaqlar], "daha utancaq").
+maddə(şaylok, f, [şaylokləşdi, şaylokləşdir, şayloklar], "yüksək faiz dərəcələri ilə borc pul vermək").
+entry(çəkingənliklə, adv, [], "çəkingən bir şəkildə").
+entry(utancaqlıq, n, [utancaqlıqlar], "utancaq olmaq vəziyyəti").
+entry(shyster, n, [fırıldaqçılar], "vicdansız bir vəkil və ya siyasətçi").
+entry(si, n, [sis], "ti").
+entry(sial, n, [sials], "qaya formasının bir növüSIALIC adj").
+entry(sialid, n, [sialidlər], "bir ağacağaca").
+entry(sialidan, n, [sialidans], "sialid").
+entry(sialoid, sif, [], "tüpürcəyə bənzəyən").
+entry(siamang, n, [siamanqlar], "böyük qara gibbon").
+entry(siamez, n, [siamezlər], "iki boru üçün birləşdiricisi olan su borusu").
+entry(qardash, n, [qardashlar], "bir qardaş").
+entry(sibb, n, [sibbs], "car").
+entry(sibilant, n, [sibilantlar], "dar bir dəlikdən nəfəsin frikativ keçidi ilə yaranan danışıq səsi").
+entry(sibilate, v, [fit, fisləmək, fit çalır], "fit çalmaq").
+entry(qardaş, n, [qardaşlar], "başqasının valideynləri ilə eyni valideynlərə malik olan").
+entry(əmiuşaqlı, n, [əmiuşaqlıqlar], "eyni valideynlərdən olan uşaqlar qrupu").
+entry(sibyl, n, [sibyllər], "qadın peyğəmbərSİBİLİK SİBİLLİK adj").
+giriş(sic, f, [arxasınca,saldıran,göndər], "hücum etməyə təşviq etmək").
+entry(siccan, sif, [], "belə").
+entry(sice, n, [sices], "süvari").
+entry(xəstə, sif, [], "XƏSTƏ XƏSTƏLƏR xəstəlikdən təsirlənmiş").
+entry(xəstə, v, [xəstələdi, xəstələnən, xəstələr], "xəstələmək").
+entry(xəstəxana, n, [xəstəxanalar], "gəminin xəstəxanası").
+entry(xəstəlik yatağı, n, [xəstəlik yataqları], "xəstə insanın yatağı").
+entry(sickee, n, [sickees], "xəstəlik").
+entry(xəstələndirmək, f, [xəstələndi, xəstələndirici, xəstələnir], "xəstə etmək").
+entry(sickener, n, [sickeners], "xəstələndirən").
+entry(sickerly, adv, [], "təhlükəsiz şəkildə").
+səbəb(sickie, n, [sickies], "emosional olaraq xəstə bir insan").
+entry(sickish, sif, [], "bir qədər xəstə").
+entry(oraq, f, [oraqladı, oraqlayır, oraqla], "tək tiyəli kənd təsərrüfatı aləti ilə kəsmək").
+entry(sickly, adj, [], "DAHA XƏSTƏ DAHA ÇOX XƏSTƏxəstə kimi görünürXƏSTƏ KİMİ adv").
+entry(sickly, v, [sicklied, sicklying, sicklies], "həlim etmək").
+giriş(xəstəlik, n, [xəstəliklər], "xəstə olmaq vəziyyəti").
+entry(sicko, n, [sickos], "sickie").
+entry(sickout, n, [sickouts], "xəstə olduğunu iddia edən işçilərin təşkil olunmuş yoxluğu").
+giriş(xəstəxana, n, [xəstəxanalar], "xəstə bir şəxsin qaldığı otaq").
+entry(sidalcea, n, [sidalcealar], "Şimali Amerika ot bitkisi").
+entry(siddha, n, [], "pl SIDDHAHindizmdə kamilliyə çatmış şəxs").
+giriş(siddhi, n, [siddhis], "siddha tərəfindən əldə edilən mükəmməllik").
+entry(siddur, n, [siddurlar], "və ya SIDDURIM Yəhudi dua kitabı").
+entry(tərəf, v, [tərəfdə, tərəflənən, tərəflər], "razılaşmaq və ya dəstəkləmək").
+giriş(yanaqol, v, [yanaqolladı,yanaqollayır,yanaqollar], "topu çiyin səviyyəsində və ya ondan aşağıda atmaq").
+entry(sideband, n, [sidebands], "radio tezlikləri qrupundan biri").
+entry(sımtərəf, n, [sımtərəflər], "əsas xəbərlə müşayiət olunan qısa xəbər hekayəsi").
+entry(sideburn, n, [], "yanaqların hər iki tərəfində yetişdirilən saç zolaqlarından biri").
+entry(sidecar, n, [sidekarlar], "motosikletə qoşulan bir sərnişin avtomobili").
+entry(tərəfli, keçmiş, [], "tərəfin zamir forması").
+entry(sidehill, n, [sidehills], "bir dağ yamacı").
+entry(yardimçi, n, [yardimçilar], "yaxin dost").
+entry(tərəfsiz, sifət, [], "tərəfləri olmayan").
+entry(sideline, v, [sidelined,sidelining,sidelines], "fəaliyyətdən kənarlaşdırmaq").
+entry(sideling, sif, [], "meyilli").
+entry(sidelock, n, [saç deşikləri], "başın yan tərəfindən düşən uzun saç dəşiyi").
+entry(sidelong, sifət, [], "bir tərəfə yönəlmiş").
+entry(yanmüğənni̇, n, [yanmüğənnilər], "caz qrupunun bir üzvü").
+entry(sidemeat, n, [sidemeats], "donuzun böyründən kəsilən ət").
+entry(ulduzlarla, sif, [], "ulduzlarla bağlı").
+entry(siderit, n, [sideritlər], "bir mineral").
+entry(sideroad, n, [kənd yolları], "kənd yolu").
+entry(sideshow, n, [sideshows], "əsas attraksiyaya əlavə olaraq təklif olunan kiçik bir şou").
+entry(yana_sürüklənmə, v, [yana_sürükləndi,yana_sürüklənir,yana_sürüklənir], "yana tərəfə sürüşmək").
+entry(sidesman, n, [sidesmen], "Anglesan kilsəsində leyman köməkçisi").
+entry(sidespin, n, [sidespins], "topa verilən bir növ fırlanma").
+entry(sidestep, v, [yanadönmək, yanadönmə, yanadönür], "bir tərəfə addım atmaq").
+entry(sidewalk, n, [səkilər], "piyada yolçuları üçün döşənmiş yol").
+yazi(taykobugu, n, [taykobuglar], "bir shin tehesnun yan sethi").
+entry(yan, adv, [], "bir tərəfə doğru").
+entry(yanlama, adv, [], "yonə").
+entry(yan, adv, [], "bir tərəfə doğru və ya bir tərəfdən").
+entry(sidewise, adv, [], "yana").
+entry(sidh, n, [sidhe], "İrlandiya folklorunda fövqəltəbii varlıqların yaşadığı bir təpə").
+entry(profilləmə, n, [profilləmələr], "çərçivə binasının səthi üçün istifadə olunan material").
+entry(sürüşmək, v, [sürüşdü, sürüşən, sürüşür], "yan tərəfə hərəkət etmək").
+entry(sidler, n, [yanlayanlar], "yanlayan şəxs").
+giriş(mühəsirə, v, [mühəsirəyə aldı,mühəsirəyə almaq,mühəsirələr], "ələ keçirtmək və ya qazanmağa cəhd etmək").
+giris(siemens, isim, [siemens], "elektrik keçiriciliyi vahidi").
+entry(sienit, n, [sienitlər], "syenit").
+entry(sienna, n, [sienna], "qəhvəyi bir piqment").
+entry(qonurtorpaq, n, [qonurtorpaqlar], "torpaq növü").
+entry(sierra, n, [sierralar], "dağ silsiləsiSİERRA sif").
+entry(siesta, n, [siesta], "günorta dincəlməsi və ya istirahət").
+giriş(sieur, isim, [sieurs], "bir kişi üçün köhnə Fransız hörmət titulu").
+giriş(süzgəc, f, [süzülmüş, süzən, süzgəclər], "boş maddənin qaba hissələrini incə hissələrdən ayırmaq üçün bir alət vasitəsilə keçirmək").
+entry(sivert, n, [sivertlər], "ionlaşdırıcı radiasiya vahidi").
+entry(sifaka, n, [sifakalar], "Madagaskarda yaşayan bir lemur növü").
+entry(siffleur, n, [siffleurs], "fit çalan səslər çıxaran bir heyvan").
+entry(ele, v, [eledilmiş, eleme, eləyir], "ələ keçirmək").
+entry(sifter, n, [ələklər], "ələkləyən").
+entry(əsdirmə, n, [əsdirmələr], "əsdirənin işi").
+entry(sig, n, [sigs], "e-poçtun sonunda qısa fərdiləşdirilmiş mesaj").
+entry(siganid, n, [siganidlər], "balıqlar ailəsindən hər hansı biri").
+entry(ah çəkmək, v, [ah çəkdi, ah çəkməkdə, ah çəkir], "dərin eşidilən nəfəs bir ah çəkmək").
+entry(sigher, n, [sighers], "ah çəkən biri").
+entry(sighless, sif, [], "ahlamadan").
+entry(sighlike, sif, [], "ah çəkənə bənzəyən").
+entry(görmək, f, [gördü,görməkdədir,görür], "müşahidə etmək və ya fərqinə varmaq").
+entry(sighter, n, [müşahidəçilər], "görən biri").
+entry(gorüntüləmə, n, [görülənlər], "bir müşahidə").
+entry(sightly, adj, [], "baxması xoş olan").
+entry(gəzinti, f, [gəzintiyə, gəzilmiş, gəzinti], "GƏZINTIyo maraqlı yerləri ziyarət etmək və görmək").
+entry(sigil, n, [sigil], "rəsmi möhür").
+giriş(siglos, n, [sigloi], "qədim fars sikkəsi").
+entry(siglum, n, [sigla], "redaktə olunmuş mətnin mənbəyini göstərmək üçün bir qısaltma").
+sigma(n, daxil et, [sigmas], "yunan hərfiSIGMATE sifət").
+entry(sigmoid, n, [sigmoids], "bədən hissəsində S-şəkilli əyri").
+entry(imza, v, [imzaladı, imzalayan, imzalar], "adını yazmaq").
+entry(signa, f, [], "etiketə yazın  bu əmr felinin başqa forması istifadə edilmir").
+entry(tabelalar, n, [tabelalar], "bir icmada işarələr sistemi").
+entry(signal, v, [siqnallı,siqnallama,siqnallar], "və ya SİQNALLI SİQNALLAMA SİQNALLAR vasitəsi ilə bildirmək").
+entry(signaler, n, [siqnalçılar], "siqnal verən").
+entry(signally, adv, [], "nəzərəçarpacaq dərəcədə").
+entry(signee, n, [imza atanlar], "sənədə imza atan şəxs").
+entry(imzalayıcı, n, [imzalayıcılar], "imzalayan").
+entry(signet, v, [imzalandı,imzalayan,imzalar], "rəsmi möhürlə işarələmək").
+entry(ifadə etmək, v, [ifadə edilmiş, ifadə edən, ifadə edir], "məlum etmək").
+entry(imzalama, n, [imzalamalar], "bir sənədin və ya kitabın üzərinə imza atma aktı").
+entry(signior, n, [signiors], "və ya SIGNIORIsignor").
+entry(signiory, n, [signiorlar], "signiory").
+entry(signor, n, [signorlar], "kişilər üçün İtalyanca nəzakət titulu olan SIGNORİ").
+entry(signora, n, [signoralar], "ya da İtalyan nəzakət titulunun evli bir qadın üçün istifadəsi olan SIGNORE").
+entry(signore, n, [signori], "sinjor").
+entry(signory, n, [signories], "senyorluq").
+entry(signpost, v, [işarələndi,işarələnir,işarələnir], "işarələrlə təmin etmək").
+entry(sika, n, [sika], "Asiyaya məxsus kiçik bir maral").
+entry(sike, n, [sikes], "sikə").
+entry(siker, sifət, [], "təhlükəsiz").
+entry(siksik, n, [siksiks], "arktik torpaq sincabı").
+entry(silo, n, [silos], "siloda saxlanılan yem").
+entry(silan, n, [silanlar], "kimyəvi birləşmə").
+entry(sild, n, [sildlər], "cavan siyənək").
+entry(sükut, v, [sakitləşdi,sakitləşmə,sakitləşdirir], "sakit etmək").
+entry(susturucu, n, [susturucular], "susduran biri").
+entry(sileni, cəm, [], "sileni").
+entry(silent, adj, [], "SƏSSİZ daha səssiz ən səssizheç bir səs və ya səs-küy çıxarmayanSƏSSİZCƏ zərf").
+entry(səssizlər, cəm, [], "səssiz filmlər").
+entry(silenus, n, [sileni], "Yunan mifologiyasında bir meşə ilah").
+giriş(silesia, n, [silesias], "pambıq parçası").
+entry(sileks, n, [silekslər], "silisium").
+giriş(silisium, n, [silislər], "silisium forması").
+entry(silikat, n, [silikatlar], "kimyəvi duz").
+entry(silikik, sif, [], "silisiumla əlaqəli").
+giriş(silisid, i, [silisidlər], "silisium birləşməsi").
+entry(silisiuma çevirmək, f, [çevrilmiş, çevirir, çevirər], "silisiuma çevirmək").
+entry(silisium, n, [silisumlar], "silisium").
+entry(silicle, n, [silicles], "qısa düz silik").
+entry(silisium, n, [silisiumlar], "qeyri-metal element").
+entry(silikon, n, [silikonlar], "silikon birləşməsi").
+giris(silicula, n, [siliculae], "kiçik qabıq").
+entry(siliqua, n, [siliquae], "silika").
+giris(silique, n, [silique'lar], "toxum kapsulunun bir növü").
+entry(silk, v, [silked,silking,silks], "yumşaq parlaq parça olan ipək ilə örtmək").
+entry(saten, sif, [], "ipəkdən hazırlanmış").
+entry(silkie, n, [selkilar], "selkie").
+entry(silkier, comparative, [], "dəlicəsinə").
+entry(silkies, pl, [], "zərif").
+entry(silkiest, superlative, [], "ipək kimi").
+entry(silklə, zərf, [], "ipək kimi bir tərzdə").
+entry(ibrəşə-bənzər, sif, [], "ibrəşə bənzəyən").
+entry(südçiçəyi, n, [südçiçəkləri], "peyğəmbərçiçəyi").
+entry(ipəkqurdu, n, [ipəkqurdları], "ipək liflərindən kokun içində böyrüc bir tırtıl").
+entry(silky, sif, [], "IPƏKİMSİ İPƏKƏMSİ, ipəyi xatırladan").
+entry(silky, n, [soylular], "parlaq tüklü terrier").
+entry(sill, n, [sills], "pəncərə altlığı").
+entry(sillabub, n, [sillabublar], "alkoqollu desert").
+entry(siller, n, [gümüșlər], "gümüş").
+entry(sillibub, n, [sillibublar], "sillabub").
+entry(silly, adj, [], "ƏZLƏK ƏN ƏZLƏK ağıllı olmamaq əlaməti ƏZLCƏ adv").
+giriş(axmaq, n, [axmaqlar], "axmaq insan").
+entry(silo, v, [siloda saxlanılır, siloda saxlamaq, silolar], "siloda saxlamaq üçün hündür silindrik bir quruluş").
+entry(siloksan, n, [siloksanlar], "kimyəvi birləşmə").
+entry(silt, v, [silted,silting,silts], "çöküntü materialı ilə doldurmaq").
+entry(silty, sif, [], "SILTIER SILTIESTtama siltlə dolu").
+entry(silurid, n, [silurids], "samsamsında olan və ya onunla əlaqəli olan hər hansı bir balıq növü").
+entry(siluroid, n, [siluroidlar], "bir silurid").
+entry(silva, n, [silvalar], "və ya SILVAEsylva").
+entry(silvan, n, [silvanlar], "meşəlik").
+entry(gümüş, f, [gümüşlənmiş,gümüşləmə,gümüşlər], "metal element olaraq gümüşlə örtmək").
+entry(silverer, n, [silverers], "gümüşləyən").
+entry(silverier, comparative, [], "gümüşü").
+entry(gümüşümtəzə, superlative, [], "gümüşü").
+entry(silverly, adv, [], "gümüşü görünüşlə").
+entry(gümüşü, sifət, [], "silvery").
+entry(silvertip, n, [silvertiplər], "ağucalı tüklərə malik boz ayı").
+entry(silvery, sif, [], "GÜMÜŞ-KİMİ GÜMÜŞ-KİMİr gümüşə bənzəyən").
+entry(silvex, n, [silvexlər], "herbisid").
+entry(meşəsalğı, sif, [], "meşəsalasına aid").
+entry(silvics, npl, [], "meşə ağaclarının öyrənilməsi").
+entry(sim, n, [sims], "simulyasiya").
+entry(sima, i, [sima], "maqmatik süxur").
+entry(simar, n, [simarlar], "qadınların yüngül pencəyi və ya xələti").
+entry(simaruba, n, [simarubas], "tropik ağac").
+entry(simazine, n, [simazinlər], "herbisid").
+entry(simcha, n, [simchalar], "Yəhudi şəxsi məclisi").
+entry(simian, n, [meymunlar], "bir meymun və ya diri").
+entry(oxşar, sif, [], "bənzər olan, lakin tamamilə eyni olmayan").
+entry(benzətmə, n, [benzətmələr], "bədii ifadə").
+entry(simioid, sif, [], "meymunabənzər").
+entry(simious, sifət, [], "meymunlarla əlaqəli").
+entry(simitar, n, [simitlər], "qılınc").
+entry(simlin, n, [simlinlər], "cymling").
+entry(qaynamaq, v, [qaynadi,qaynamaqdadir,qaynayir], "qaynama nöqtəsindən aşağıda və ya tam qaynama nöqtəsində bişirmək").
+entry(simnel, n, [simnels], "bir xırtıldayan çörək").
+entry(simoleon, n, [simoleonlar], "dollar").
+entry(simoniak, n, [simoniaklar], "simoniya ilə məşğul olan şəxs").
+entry(simonies, pl, [], "simoniya aktları").
+entry(simonist, n, [simonistlər], "simonist").
+entry(simonize, v, [simonized,simonizing,simonizes], "mumla cilalamaq").
+entry(simoniya, n, [simoniyalar], "kilsə vəzifəsinin alqı-satqısı").
+entry(simoom, n, [simoomlar], "isti quru səhra küləyi").
+entry(simoon, n, [simoons], "simum").
+entry(simp, n, [simps], "axmaq bir insan").
+giriş(simper, v, [simpered, simmering, simpers], "axmaq bir şəkildə gülümsəmək").
+entry(simperer, n, [gülməklər], "gülmək edən biri").
+entry(sadə, sif, [], "SADƏ SADƏSTMürəkkəb və ya qarışıq deyil").
+giriş(sadə, n, [sadələr], "sadə olan bir şey").
+entry(simplex, n, [simplex], "və ya SIMPLİCES və ya SIMPLİCIA sadə söz").
+entry(sadələşdirmək, v, [sadələşdirilmiş,sadələşdirən,sadələşdirir], "sadə etmək").
+entry(simplizm, n, [simplizmlər], "məsələni və ya problemi həddən artıq sadələşdirmə meyli").
+entry(simplist, n, [sadəçilər], "sadəçiliyə meyilli şəxs").
+entry(sadəcə, zəf, [], "sadə bir şəkildə").
+entry(simulant, n, [simulants], "simulyasiya edən").
+entry(simular, n, [simulyasiyalar], "simulyant").
+entry(simulyasiya_etmək, v, [simulyasiya_olundu, simulyasiya_edir, simulyasiya_edir], "görünüşünü almaq").
+entry(gunah, f, [gunah etdi, gunah edir, gunahlar], "dini və ya əxlaqi qanuna qarşı edilən günah").
+entry(sinəpovka, n, [sinəpovkalar], "qıcıqlanmış bədən hissəsinə tətbiq edilən xəmir qarışığı").
+entry(bəri, zərf, [], "o vaxtdan indiyə qədər").
+entry(səmimi, sif, [], "SƏMİMİ SƏMİMİdaxili qeyri-səmimiyyətdən və ya yalandan azad").
+entry(sinciput, n, [sinciputs], "və ya SINCIPITAalın").
+entry(sinus, n, [sinuslar], "bucağın trigonometrik funksiyası").
+entry(sinecure, n, [sinecurelər], "az və ya heç bir iş tələb etməyən vəzifə").
+entry(sinew, v, [bərkidilmiş,bərkidən,bərkidir], "gücləndirmək üçün").
+giriş(sinewy, sif, [], "arıq və əzələli").
+entry(sinfonia, n, [sinfoniyalar], "və ya SINFONIE simfoniya").
+entry(günahkar, sif, [], "günahla işarələnmişGÜNAHKARCA zərf").
+entry(oxu, f, [oxudu,oxunur,oxuyur], "OXUMA səsi musiqi ilə nəğməli şəkildə səsləndirməkOXUNA BİLƏN sif").
+entry(singe, v, [yandırılmış, yandırma, yandırır], "azacıq yandırmaq").
+entry(müğənni, n, [müğənnilər], "mahnı oxuyan biri").
+entry(oxuma, n, [oxumalar], "oxuyan şəxsin əməli və ya səsi").
+entry(single, v, [seçildi,seçilir,seçir], "qruplaşdırmaqdan seçmək").
+entry(singlet, n, [maykalar], "kişilər üçün alt köynək və ya sviter").
+giriş(yalnız, zərf, [], "başqalarının yoldaşlığı olmadan").
+entry(singsong, n, [singsongs], "danışıq və ya oxuma zamanı monoton ritm").
+entry(tək, n, [tək formalar], "bir şəxsi və ya bir şeyi nəzərdə tutan söz forması").
+giriş(sinh, n, [sinhs], "bucağın hiperbolik funksiyası").
+entry(sinicize, v, [sinicized,sinicizing,sinicizes], "Çin təsiri ilə dəyişdirmək").
+giriş(sinister, sifət, [], "hədələyici və ya şəri xəbər verən").
+entry(batmaq, f, [batmış, batmaqda, batır], "daha aşağı səviyyəyə keçməkBATABİLƏN sif").
+entry(sinkage, n, [sinkages], "batmanın hərəkəti, prosesi və ya dərəcəsi").
+entry(sinker, n, [sinkers], "batan biri").
+entry(sinkful, n, [sinkfuls], "bir mətbəx çanağının tuta biləcəyi qədər").
+entry(çuxur, n, [çuxurlar], "yer səthində təbii depresiya").
+entry(sinless, sif, [], "günahsız").
+giriş(günah işlədi, keçmiş, [], "günahın zamiri").
+entry(günahkar, n, [günahkarlar], "günah işlədən").
+entry(sinnet, n, [sinnetlər], "senet").
+entry(günah işlə(nmə), indiki, [], "günahın iştirakçı forması").
+entry(sinologiya, n, [sinologiyalar], "Çinin öyrənilməsi").
+entry(sinopia, n, [sinopiyalar], "və ya SINOPİEqırmızı piqment").
+entry(sinsyne, zərf, [], "bu andan etibarən").
+entry(sinter, v, [sintered,sintering,sinters], "təzyiqin və istiliyin birgə təsiri ilə birləşdirmək").
+entry(sinuate, v, [sinuated,sinuating,sinuates], "içəri və çölə doğru əyilmək").
+entry(sinuous, sifət, [], "əyilmə bükülmə və ya döngələrlə xarakterizə olunur").
+entry(sinus, n, [sinuslar], "kəllə boşluğu").
+entry(sinusoid, n, [sinuslar], "riyazi əyri").
+entry(sip, v, [yudumladı,yudumlayır,yudumlayır], "az miqdarda içmək").
+giriş(sipe, v, [siped,siping,sipes], "sızmaq").
+entry(sifon, v, [sifonladı,sifonlama,sifonlar], "bir növ boru vasitəsilə çəkib çıxarmaq").
+entry(sifon, sifət, [], "sifonla bağlı və ya ona aid olan").
+entry(sifonik, sifət, [], "sifonlu").
+giriş(siping, indiki, [], "sipe felinin participi").
+entry(sippable, sif, [], "qarqar olunabilmə").
+entry(qurtum-qurtum_icdi, kecmis, [], "qurtumlamaq felinin kecmis zamani").
+entry(sipper, n, [sippers], "soruşu").
+girdi(sippet, n, [sippets], "sousda isladılmış kiçik çörək parçası").
+entry(sipping, indiki, [], "nipildətmək feli sifət").
+entry(cənab, n, [cənablar], "kişiyə hörmətli müraciət forması").
+entry(sərdar, n, [sərdarlar], "Hindistanda bir rütbə sahibi").
+entry(sire, v, [ata oldu, atasının olduğunu, atalar], "peyda etmək").
+entry(siree, n, [sirees], "ser");
+entry(siren, n, [sirena], "penetrasiya edən xəbərdarlıq səsi çıxaran cihaz").
+entry(sirenian, n, [sirenians], "dəniz məməliləri qrupuna aid olan istənilən növ").
+entry(siring, indiki, [], "siring fe'linin iştirak forması").
+entry("qarınqaytarmaz", n, ["qarınqaytarmazlar"], "mal əti kəsimi").
+entry(sirocco, n, [sirokkolar], "isti quru külək").
+entry(sirra, n, [sirras], "sirrah").
+entry(sirrah, n, [sirrahs], "aşağı səviyyəli şəxslərə müraciət üçün istifadə edilən bir forma").
+entry(sirr, n, [sirrlər], "sir").
+entry(sirup, v, [siruplaşdı, siruplaşır, siruplaşar], "siruplaşmaq").
+entry(sirupy, adj, [], "SİRUPLU SİRUPLULARdı").
+entry(sirvente, n, [sirventes], "satirik orta əsr mahnısı və ya şeiri").
+entry(bacı, n, [bacılar], "və ya BACILARbacı").
+entry(sisal, n, [sisal], "ip üçün istifadə edilən möhkəm lif").
+entry(şakrak, n, [şakrakar], "Avropa çüçənguşu").
+entry(sissy, sif, [], "SISSIER SISSIESTsissyish").
+entry(sissy, n, [sissies], "qadınabənzər kişi və ya oğlan").
+entry(sissyish, sif, [], "qızcığaza bənzəyən").
+entry(bacı, v, [bacılandı,bacılanır,bacılayır], "bacı kimi davranmaq").
+entry(bacıcıl, sif, [], "bacıya aid olan və ya bacını xatırladan").
+entry(sistroid, sif, [], "kəsişən iki əyrinin qabarıq tərəfləri arasında yerləşən").
+entry(sistrum, n, [sistrums], "SİSTRA qədim Misir zərb aləti").
+entry(oturmaq, f, [oturdu,oturur,oturar], "daş kürəyi üzərində istirahət etmək").
+entry(sitar, n, [sitarlar], "Hindistanın sərt simli musiqi aləti").
+entry(sitarçı, n, [sitarçılar], "sitar çalan biri").
+entry(sitkom, n, [sitkomlar], "davamlı personajlarla televiziya komediya seriyası").
+entry(sayt, v, [sayt olunmuş, sayt etmək, saytlar], "əməliyyat üçün vəziyyətdə yerləşdirmək").
+entry(sith, adv, [], "bəri").
+entry(sithence, adv, [], "o vaxtdan bəri").
+entry(sithens, zərf, [], "bəri").
+entry(oturmaq, indiki, [], "oturmaq feilinin feli sifeti").
+entry(sitologiya, n, [sitologiyalar], "qida və pəhriz elmi").
+entry(sitrep, n, [sitreplər], "hazırkı hərbi vəziyyət haqqında hesabat").
+entry(sitten, a, [], "oturmaq feilinin keçmiş iştirak forması").
+entry(sitter, n, [sitters], "oturan biri").
+entry(oturmaq, n, [oturacaqlar], "iclas və ya sessiya").
+entry(yerləşdirmək, v, [yerləşən,yerləşdirməkdə,yerləşdirir], "müəyyən bir mövqeyə qoymaq").
+entry(situp, n, [qarınüstü qalxmalar], "uzanmış vəziyyətdən oturaq vəziyyətə keçərək edilən bir məşq").
+entry(situs, n, [situses], "mövqe və ya yer").
+entry(sitzmark, n, [sitzmarks], "geri yıxılan xizəkçinin karda buraxdığı iz").
+entry(siver, n, [sivers], "kanalizasiya").
+entry(altı, n, [altılar], "bir nömrə").
+entry(sixer, n, [altılar], "altı Yeniyetmə və ya Kubs qrupunun lideri").
+entry(altıqat, sifət, [], "altı dəfə çox olan").
+entry(sixmo, n, [sixmos], "bir kağız ölçüsü").
+entry(sixpence, n, [sixpenceler], "altı peni dəyərində, əvvəllər istifadə olunan Britaniya sikkəsi").
+entry(sixpenny, sif, [], "altı pens dəyərində").
+entry(sixte, n, [sixtes], "qılıncoynatmada bir parrying növü").
+entry(on altı, n, [on altılar], "bir nömrə").
+entry(altıncı, n, [altıncılar], "altı bərabər hissədən biri").
+entry(altincisi, adv, [], "altıncı yerdə").
+entry(altmışıncı, n, [altmışıncılar], "altmış bərabər hissədən biri").
+entry(altmış, n, [altmışıncı illər], "bir nömrə").
+entry(altmış yaşlarında, sifət, [], "təxminən altmış yaşında olmaq").
+entry(böyük, adj, [], "əhəmiyyətli dərəcədə böyükSIZABLY adv").
+entry(sizar, n, [sizars], "kolleci tərəfindən maddi yardım alan britaniyalı tələbə").
+entry(ölçü, v, [ölçülü, ölçmə, ölçülər], "fiziki ölçülərə görə tənzimləmək").
+entry(əhəmiyyətli, sifət, [], "əhəmiyyətlicə zərf").
+entry(sizer, n, [sizers], "sizar").
+entry(siziness, n, [sahələr], "sahillilik keyfiyyəti və ya vəziyyəti").
+entry(sizing, n, [ölçüləndilər], "gözenekli materiallar üçün sır və ya dolgu maddəsi olaraq istifadə edilən bir maddə").
+entry(sizy, sif, [], "SIZIER SIZIESTviscid").
+entry(sizəltmək, v, [sizəltmə, səsləndi, səslənir], "şırıltı səsi ilə yanmaq və ya qızartmaq").
+entry(sizzler, n, [istilik], "çox isti gün").
+entry(sjambok, f, [sjamboked,sjamboking,sjamboks], "Cənubi Afrikada istifadə olunan bir qamçı ilə vurmaq").
+entry(ska, i, [ska], "Yamaykanın məşhur musiqisi").
+entry(skag, n, [skags], "heroin").
+entry(skald, n, [skalds], "qədim skandinav şairi SKALDIC sif").
+entry(skank, v, [skanked,skanking,skanks], "sərbəst formada rəqs etmək").
+entry(skanker, n, [skankerlər], "skank edən biri").
+entry(skanky, sif, [], "ÇİRKİN ÇİRKİN Çirkin və ya serseri").
+giriş(skat, n, [skats], "kart oyunu").
+entry(skate, v, [skated, skating, skates], "xizəklə və ya təkərli ayaqqabı ilə buzun və ya yerin üzərində sürüşmək").
+entry(skater, n, [konkiçilər], "konki sürən biri").
+entry(konkisürmə, n, [konkisürmələr], "konki üzərində sürüşmə idmanı").
+giris(skatol, n, [skatols], "skatole").
+entry(skatole, n, [skatoles], "kimyəvi bir birləşmə").
+entry(skean, n, [skeans], "bir növ xəncər").
+entry(skeane, n, [skeanes], "boş halda burulmuş iplik uzunluğu").
+entry(cədvəl, v, [cədvəlləndi,cədvəllənir,cədvəllər], "cədvəl etmək").
+entry(skee, f, [xizək sürməkdə,xizək sürmə,xizəklər], "xizək sürmək").
+entry(skeen, n, [skeens], "skean").
+entry(skeet, n, [skeetlər], "yaz tələləri tərəfindən havaya atılan gil şüvələrə atəş etmə idmanı").
+entry(skeeter, n, [skeetçilər], "skeet atıcısı").
+entry(skeevy, sif, [], "SKEEVIER SKEEVIESTiyrənc iyrənc").
+entry(skeg, n, [skeglər], "gəminin kil və sərnpostunu birləşdirən taxta").
+entry(skeigh, sif, [], "məğrur").
+entry(skein, v, [bəstələnmiş,bəstələmə,çəkmələr], "uzun boş burmalar halına gətirmək üçün").
+entry(skelet, n, [skeletonlar], "insan və ya heyvan bədəninin dəstəkləyici və ya qoruyucu çərçivəsi SKELETAL sifət").
+entry(skell, n, [skells], "evsiz insan").
+entry(skellum, n, [skellums], "bir hiyləgər").
+entry(skelm, n, [skelms], "skellum").
+entry(skelp, v, [skelpit, skelping, skelps], "şillələmək").
+entry(skelter, v, [tələstü,tələstedik,tələstər], "qaçmaq").
+entry(skene, n, [skenes], "skean").
+entry(skep, n, [skeps], "arıkovanı").
+entry(skepsis, n, [skepsis], "şübhəçi yanaşması və ya baxışı").
+entry(skeptik, n, [skeptiklər], "ümumiyyətlə qəbul edilmiş fikirlərə şübhə edən şəxs").
+entry(skerri, n, [skerrilər], "kiçik qayalı ada").
+entry(çertyoj, f, [çertyoj etdi, çertyoj etməkdədir, çertyoj edir], "tək və tez bir zamanda eskiz çəkmək").
+entry(sketcher, n, [eskizlər], "eskiz çəkən").
+entry(sxematik, sif, [], "TAMLIQE və ya AİDİNLİQE görə çatışmayan").
+entry(skew, f, [çəp, çəpik, çəpir], "kənara döndərmək").
+entry(skewback, n, [skewbacks], "bir tağın ucunun dayandığı maili səth").
+entry(skewbald, n, [skewbaldlar], "qəhvəyi və ağ ləkələri olan at").
+entry(siş, v, [sişdi, sişməkdədir, sişlər], "əti uzun bir uclu ilə dəlib keçmək").
+entry(əyriliyi, n, [əyriliklər], "asimmetriyanın olmaması").
+entry(ski, f, [xizəklədi,xizəklə,intensiv xizəklər], "uzun dar taxta və ya metal zolaqlar üzərində xizək sürərək səyahət etmək").
+entry(skiable, adj, [], "üstündə kayak sürülə bilən").
+entry(skiagram, n, [skiagramlar], "kölgələrdən və ya konturlardan ibarət foto").
+entry(skibob, v, [skibobladı, skiboblayan, skiboblar], "təkərlər əvəzinə xizəkli velosipedə minmək").
+yazı(skid, v, [skidded,skidding,skids], "sürüşmə nəticəsində yan tərəfə sürüşmək").
+entry(skidder, n, [skidderlər], "sürüşdürən").
+giriş(sürüşmə, n, [sürüşmələr], "kəsim sahəsindən ağacların daşınması işi").
+entry(skiddoo, v, [skiddooed,skiddooing,skiddoos], "getmək").
+entry(skiddy, sif, [], "SKIDDIER SKIDDIESTslip ilə səbəb olma ehtimalı").
+entry(skidoo, v, [skidooed,skidooing,skidoos], "qaçmaq").
+entry(skidooer, n, [skidooerlər], "qar motosikleti sürən şəxs").
+entry(skidpad, n, [sürüş təcrübəsi səthləri], "sürüş təcrübəsi üçün sürücülərin şinlərini sürüşdirmək bacarığını təkmilləşdirə biləcəyi yol səthi").
+entry(skidway, n, [skidways], "gövdələrin yüklənməsi və ya kəsilməsi üçün üst-üstə yığıldığı platforma").
+skied(göydən keçmək, keçmiş, [], "xizin və səma zamini").
+entry(xizəkçi, n, [xizəkçilər], "xizək sürən biri").
+entry(səma, indiki, [], "səmanın tək 3-cü şəxsi").
+entry(skiey, sif, [], "skyey").
+entry(qayıq, n, [qayıqlar], "kiçik açıq qayıq").
+entry(skiffle, v, [skiffled,skiffling,skiffles], "xüsusi bir musiqi üslubunda ifa etmək").
+entry(xizək sürmə, n, [xizək sürmələr], "xizək üzərində səyahət etmək idmanı").
+entry(skijorer, n, [skijorerlər], "itlər, at və ya nəqliyyat vasitəsi tərəfindən qar üzərində çəkilən xizəkçi").
+entry(bacarıqlı, sif, [], "skillful").
+entry(maharetli, sif, [], "bacarıqlı").
+entry(skill, n, [bacarıqlar], "bir şeyi yaxşı etmək bacarığıMAHIR sif").
+entry(skilless, sif, [], "heç bir bacarığı olmayan").
+entry(skileti, n, [skiletler], "qızartma tavası").
+entry(bacarıqlı, adj, [], "bacarığa malik olmaq").
+entry(skilling, n, [skillings], "Skandinaviya ölkələrinin keçmiş pul vahidi").
+entry(ski̇m, v, [ski̇mmed,ski̇mmi̇ng,ski̇ms], "üzərinə çıxan kəfiği təmizləmək").
+entry(skimmer, n, [skimmerlər], "qaymağı götürən").
+giriş(skimmia, n, [skimmias], "həmişəyaşıl kolluq").
+entry(sıyırıntı, n, [sıyırıntılar], "mayedən çıxarılan bir şey").
+entry(sərfəli_tutum, f, [sərfəli_tutum_edildi, sərfəli_tutum_edilir, sərfəli_tutum_edir], "qənaət etmək").
+entry(skimpy, sif, [], "SKIMPIER SKIMPIESTscantySKIMPILY zərf").
+giriş(dəri, v, [dərilədi, dəriləmə, dərilər], "heyvanın bədənini örtən dəri membranını çıxarmaq və ya məhrum etmək").
+entry(skinful, n, [skinfuls], "bir dəri qabın tuta biləcəyi qədər").
+entry(skinhead, n, [skinhedlər], "saçlarını çox qısa kəsdirən biri").
+entry(skink, v, [skinked,skinking,skinks], "içki olaraq tökmək və ya vermək").
+entry(skinker, n, [skinkers], "şərab süzən").
+entry(dərisiz, sif, [], "dərisi olmayan").
+entry(dərikimi, sif, [], "dəriyə bənzəyən").
+entry(skinned, keçmiş, [], "dərinin keçmiş zaman forması").
+giriş(skinner, n, [skinners], "dəri soyucu").
+entry(skinning, indiki, [], "skin sözünün feli sifəti").
+entry(skinny, sifət, [], "ÇOX İNCƏ İNCƏ İNCƏ").
+entry(arıq, n, [arıqlar], "arıq olan biri").
+entry(skint, sifət, [], "pulu olmayan").
+entry(skioring, n, [skiorinqlər], "xizək sürmə forması").
+entry(skip, v, [atladi, atlanir, atlayir], "yüngül addımlarla hərəkət etmək").
+skipjack(gəldək, is, [gəldəklər], "dəniz balığı").
+entry(skiplane, n, [skiplanes], "qar üzərində enmək və ya qar üzərindən qalxmaq üçün nəzərdə tutulmuş təyyarə").
+entry(kecildi, kecmis, [], "skip felliyinin kecmis zamani").
+entry(skipper, v, [kapitanlıq etdi, kapitanlıq edir, kapitanlar], "başçı və ya kapitan kimi hərəkət etmək").
+entry(skippet, n, [skippets], "rəsmi möhürü qorumaq üçün kiçik qutu").
+entry(sıçrayış, indiki, [], "sıçrama təsriflənən").
+entry(skirl, v, [skirled,skirling,skirls], "kəskin səs çıxarmaq").
+entry(toqquşmaq, f, [toqquşdu,toqquşur,toqquşacaq], "az miqyaslı döyüşdə iştirak etmək").
+entry(skirr, v, [skirred,skirring,skirrs], "tez hərəkət etmək").
+entry(skirret, n, [skirretlər], "Asiya bitkisi").
+entry(etek, v, [etekləndi, eteklənir, eteklənir], "ətrafında getmək və ya keçmək").
+entry(skirter, n, [skirters], "kənarlaşdıran").
+entry(skirting, n, [plintuslar], "divar dibindəki lövhə").
+entry(skit, n, [skeçlər], "qısa dramatik səhnə").
+entry(skite, v, [skited,skiting,skites], "tez bir şəkildə uzaqlaşmaq").
+entry(skitter, v, [skittered,skittering,skitters], "yüngülcə və ya sürətlə bir səthin üstü ilə hərəkət etmək").
+```prolog
+entry(skittery, adj, [], "ƏSMƏLİ ƏN ƏSMƏLİ əsəbi").
+```
+entry(narahat, sif, [], "asanlıqla qorxan").
+entry(skittle, n, [skittles], "boulinq oyununda istifadə olunan taxta dirək").
+entry(skive, v, [skived,skiving,skives], "qayçı ilə kəsmək").
+entry(skiver, n, [skivers], "işdən qaçan").
+entry(skivvy, v, [skivvied, skivvying, skivvies], "qadın xidmətçi kimi işləmək").
+entry(xizək_dəsti, n, [xizək_dəsti], "xizək sürərkən geyinmək üçün uyğun geyim").
+entry(sklent, v, [sklented,sklenting,sklents], "maili olmaq").
+entry(skoal, v, [skoaled,skoaling,skoals], "sağlıq üçün içmək").
+entry(skol, v, [skoled, skoling, skols], "skoal etmək").
+entry(skookum, n, [skookums], "şər ruhu").
+entry(skort, n, [skorts], "ətəyi xatırladan bir cüt şort").
+entry(skosh, n, [az miqdar], "kiçik bir miqdar").
+giriş(skreegh, f, [skreeghed, skreeghing, skreeghs], "çığırmaq").
+entry(skreigh, v, [skreighed,skreighing,skreighs], "çığırmaq").
+entry(skry, v, [skried,skrying,skries], "peyğəmbərlik etmək").
+entry(skua, n, [skualar], "yırtıcı dəniz quşu").
+entry(sürünmək, v, [süründü,sürünür,sürünür], "gizlicə hərəkət etmək").
+entry(skulker, n, [skulkər], "gizlin hərəkət edən şəxs").
+entry(skull, v, [skulled,skulling,skulls], "başdan vurmaq").
+entry(skullcap, n, [skullcaps], "başı sıx örtən papaq").
+entry(tülkü, v, [tülkülədi,tülküləmə,tülkülər], "həddən artıq məğlub etmək").
+entry(skunky, sif, [], "SKUNKİER SKUNKİESTهاداسان olmayan iyaskunk iyunu andıran bir qoxu sahibi olan məməli ki, tünd qoxulu maye püskürdə bilər").
+giriş(səma, v, [səmanın, səma, səma], "göyə yuxarı atmosferə doğru vurmaq və ya atmaq").
+entry(skyboard, n, [skyboardlar], "skeyserfinq üçün istifadə olunan ayaq bağları olan lövhə").
+entry(skyborne, sif, [], "hava ilə bağlı").
+entry(skybox, n, [göyryerləri], "stadionda yüksəkdə yerləşən oturacaq yeri").
+entry(göyqapı, n, [göyqapılar], "hava limanında yük daşıyan").
+entry(sərbəst_tullanış, f, [sərbəst_tullandı, sərbəst_tullanmalar, sərbəst_tullanır], "idman üçün təyyarədən paraşütlə tullanmaq").
+entry(sərbəst paraşütçü, n, [sərbəst paraşütçülər], "sərbəst paraşütlə uçan şəxs").
+entry(skyey, sif, [], "səmaya bənzəyən").
+entry(skyglow, n, [skyglows], "şəhər işıqlarından qaynaqlanan gecə səmasındakı işıltı").
+entry(skyhook, n, [skyhooks], "göydən asılmış şəkildə təsəvvür edilən çəngəl").
+entry(skyjack, v, [skyjacked,skyjacking,skyjacks], "təyyarəni qaçırmaq").
+entry(sərçə, v, [sərçə etdi,sərçə edir,sərçələr], "əylənmək").
+entry(səmasız, sif, [], "səmanın buludlarla örtülü olması").
+entry(tavan_çuəsi, n, [tavan_çuələri], "damda və ya tavanda olan pəncərə").
+entry(göyəoxşar, sif, [], "səmaya bənzəyən").
+entry(skyline, n, [göy xətləri], "üfüq").
+giriş(şüşəbəndli, sifət, [], "şüşəbəndi olan").
+entry(skyman, n, [skymen], "aviator").
+entry(skyphos, n, [skyphoi], "Qədim Yunanıstanda istifadə olunan içki qabı").
+giriş(göyüçərən, n, [göyüçərənlər], "yelçəkən növü").
+giris(səma_mənzərəsi, n, [səma_mənzərələri], "səmanın mənzərəsi").
+entry(skeyserf, v, [skeyserf etdi,skeyserf etmək,skeyserf edir], "skeybord üzərində sərbəst düşmə anında manevrlər yerinə yetirmək").
+entry(skywalk, n, [göyüstü keçidlər], "iki binanın arasında yerləşən qaldırılmış keçid").
+entry(səma istiqamətində, zərf, [], "səmaya doğru").
+entry(səma tərəfə, zərf, [], "səma tərəf").
+entry(skywatch, v, [skywatched,skywatching,skywatches], "göydəki cisimləri və ya təyyarələri müşahidə etmək").
+entry(skyway, n, [göy yolları], "yüksək səviyyəli avtomobil yolu").
+entry(skywrite, v, [skywrote,skywritten,skywriting], "SKYWRITE təyyarədən görünən buxar buraxaraq göydə yazmaq").
+entry(slab, v, [plitələndi, plitələnməyi, plitələnir], "qaba bir parçasını gövdədən çıxarmaq").
+entry(slabber, v, [slabbered,slabbering,slabbers], "axırmaq").
+entry(slabbery, sif, [], "selikli").
+entry(slabbing, n, [şpal çıxarma], "gövdədən şpal çıxarma hərəkəti").
+entry(slabby, sif, [], "PLİTKALI PLİTKALIÖRTÜLÜ və ya PLİTKALARLA DÖŞƏNMİŞ").
+entry(slablike, sif, [], "təqdim etdiyi plitəyə bənzəyən").
+giriş(slack, sif, [], "BOŞ BOŞALMIŞən sıx deyil və ya dartılmamış").
+entry(slack, v, [slacked,slacking,slacks], "zəiflətmək").
+entry(boşaltmaq, v, [boşaltdı,boşaldır,boşaldır], "daha az sıx və ya gərgin etmək").
+entry(slacker, n, [slackers], "tənbəl").
+giriş(slackly, zərf, [], "boş şəkildə").
+entry(slag, v, [slagged,slagging,slags], "əridilmiş filizin ərimiş qalığına çevirmək").
+entry(doman, n, [domanlar], "filizin şlaka çevrilmə prosesi").
+entry(slaggy, sif, [], "TROX SLAGGIESTşlakı xatırladan").
+entry(slahal, n, [slahals], "lahal").
+entry(öldürülmüş, keçmiş, [], "oldürmek fe'ilinin iştirak formasI").
+entry(sleynte, nida, [], "birinin sağlığı üçün tost qaldırmaq üçün istifadə olunur").
+entry(slake, v, [slaked,slaking,slakes], "SLAKABLE sif quench etmək").
+entry(slaker, n, [slakers], "çox susuz olan bir kəsi su ilə təmin edən").
+giriş(slalom, v, [slalomed,slaloming,slaloms], "zikzaq marşrutunda xizək sürmək").
+entry(slalomaçı, n, [slalomçılar], "slalom edən biri").
+entry(slam, v, [güclə, gurultu ilə bağlamaq], "zorla və gurultu ilə bağlamaq").
+entry(slammer, n, [slammers], "həbsxana").
+entry(slamming, n, [slammings], "bir şəxsin telefon xidmətini icazəsiz olaraq bir şirkətdən digərinə keçirmək praktikasI").
+entry(böhtan, v, [böhtanla,böhtanlayan,böhtanlar], "ləkələmək").
+entry(slang, v, [slanged,slanging,slangs], "çox qeyri-rəsmi və ya kobud dili olan jarqon istifadə etmək").
+entry(slangy, sif, [], "JARQONLU JARQONLAR ƏSASINDA olan və ya ehtiva edən JARQONLUCA zərf").
+entry(slank, a, [], "sürünmək felinin keçmiş zaman forması").
+entry(me͡ylənmək, f, [me͡ylənmiş, me͡ylənən, me͡ylənir], "horizontal və ya verticaldan sapmaq").
+entry(slanty, adj, [], "üfiqi və ya şaquli ilə fərqlənməkSLANTIER SLANTIEST əyriSLANTLY zərf").
+entry(slap, v, [şillələmək, şillə vurmaq, şillələr], "açıq əl ilə vurmaq").
+entry(slapdash, n, [slapdaslar], "diqqətsiz iş").
+entry(slapjack, n, [slapjacks], "quymaq").
+entry(slapper, n, [slappers], "çırpan biri").
+entry(slapping, indiki, [], "slap iştirak forması").
+entry(slapshot, n, [slapşotlar], "hokkeydə zərbə növü").
+giriş(slash, v, [doğranmış,doğrama,doğrayır], "şiddətli süpürücü zərbələrlə kəsmək üçün").
+entry(slasher, n, [slashers], "kəsən bir").
+entry(kəsik, n, [kəsiklər], "kəsən birinin hərəkəti").
+entry(lamelləşdir, v, [lamelləşdirilmiş,lamelləşdirən,lamelləşdirlər], "taxta və ya metal dar zolaqlarla təmin etmək").
+entry(slatch, n, [slatches], "zərb edən dalğalar arasında sakitlik").
+entry(döşəmə, v, [döşədi,döşəyən,döşəyir], "dam örtük materialı kimi şiferlə örtmək").
+entry(slater, n, [döşəyicilər], "döşəmə ilə məşğul olan biri").
+entry(slatey, sif, [], "SLATIER SLATIESTslaty").
+entry(çalmaq, v, [çaltdı,çalmaqda,çalır], "qalın yaymaq").
+entry(slatier, müqayisəli, [], "daşabənzərin").
+giriş(slatiest, superlative, [], "slaty'nin").
+entry(slating, n, [slatings], "daşlama hərəkəti").
+entry(slatted, keçmiş, [], "slat felinin zaman forması").
+entry(səhlənkar, n, [səhlənkarlar], "başdansovdu qadın").
+entry(slatting, n, [slattings], "latların hazırlanması üçün material").
+entry(slaty, sif, [], "ŞİFƏTMƏSALYAN ŞİFƏTƏNLƏSRəngi şifrəyə oxşayır").
+entry(qul, f, [qullaşdırıldı,qullaşma,qullar], "başqasının mülkiyyətində olan birisi kimi işləmək").
+entry(köləçi, v, [köləçiyədi,köləçiyərkən,köləçiyər], "tüpürməyə").
+entry(slaverer, n, [slaverers], "salyalı").
+entry(köləlik, n, [köləliklər], "bir şəxsin başqa bir şəxs tərəfindən sahibliyi").
+entry(slavey, n, [slaveylər], "qadın xidmətçi").
+entry(qullar, indiki, [], "slavın iştirakçısı").
+entry(qul, sif, [], "qula aid olan və ya qulun xarakterik xüsusiyyətlərini daşıyan").
+entry(slaw, n, [slaws], "kələm salatı").
+entry(slay, v, [slayed,slain,slaying], "SLAY şiddətlə öldürməkSLAYABLE sif").
+entry(qətl edən, n, [qətl edənlər], "qətl edən şəxs").
+entry(öldürmə, n, [öldürmələr], "öldürmə hərəkəti və ya nümunəsi").
+entry(sleave, v, [sleaved, sleaving, sleaves], "liflərə ayırmaq").
+entry(sleaze, v, [sleazed,sleazing,sleazes], "qeyri-möhtərəmanə şəkildə davranmaq").
+entry(sleazo, n, [sleazos], "bir pozğun adam").
+entry(sleazoid, n, [sleazoids], "aşağı mənəviyyatlı və ya xarakterli şəxs").
+entry(sleazy, sif, [], "SLEAZIER SLEAZIESTaşağı keyfiyyətli və ya xarakterliSLEAZILY zərf").
+entry(xizəklə, v, [xizəklədi,xizəkləmir,xizəkləyir], "xizək üzərində qar və ya buz üzərində insanların və ya yükün daşınması üçün vasitə").
+entry(s\u0259n\u0259kci, i, [s\u0259n\u0259kc\u0259l\u0259r], "s\u0259n\u0259kl\u0259y\u0259n biri").
+entry(xizəklə sürüşmə, n, [xizəklə sürüşmələr], "xizəklə sürüşənin hərəkəti").
+entry(sledge, v, [sledged, sledging, sledges], "kirşə ilə daşımaq").
+entry(sleek, sif, [], "HAMAR və PARLAQ").
+entry(cilalanmış, v, [cilaladı, cilalama, cilalayır], "cilalamaq").
+entry(sleeken, v, [sleekened, sleekening, sleekens], "hamar etmək").
+entry(sleeker, n, [sleekers], "parlaq edən biri").
+entry(sleekit, sifət, [], "hamar").
+entry(sleekly, adv, [], "cəld bir şəkildə").
+entry(sleeky, sif, [], "SLEEKIER SLEEKIESTsleek").
+entry(yatmaq, f, [yatdı,yatma,yatır], "təbiətə uyğun dövri istirahət vəziyyətində olmaq").
+entry(yatmış, n, [yatmışlar], "yatan birisi").
+entry(yatmaq, n, [yatmalar], "yatmaq aktı").
+entry(yuxulu, adj, [], "YUXULU YUXULU ƏSASb çox hazır ya da yatmağa meyilliYUXULUŞQAR şəkildə").
+entry(suluqar, v, [suluqarladı,suluqarlayır,suluqarlar], "dondurulmuş yağıntının yağması").
+entry(sleety, sifət, [], "SLEETIER SLEETIESTqarışıqyağışa bənzəyən").
+entry(qolluq, f, [qollu,qolluq,qolluqlar], "bir geyim parçasının qolu örtən hissəsi ilə təmin etmək").
+entry(sleeveen, n, [sleeveenlər], "yaramaz bir şəxs").
+giriş(hüceyrələmə, n, [hüceyrələmələr], "elektrik kabelləri üçün boru şəklində izolyasiya").
+entry(xizəklə sürüşmək, f, [xizəklə sürüşdü, xizəklə sürüşmə, xizəklə sürüşür], "xizəkdə sürüşmək").
+entry(xizəkləyən, n, [xizəkləyənlər], "xizək sürən").
+entry(hilet, n, [hiletlər], "məharət").
+entry(zərif, sif, [], "ZƏRİFİN ZƏRİFİƏn zərif").
+entry(yatdı, keçmiş, [], "yatmaq fe'linin zamani").
+entry(sleuth, v, [detektivlik etdi, detektivlik edən, detektivlər], "detektiv kimi fəaliyyət göstərmək").
+entry(slew, v, [sürüldü,sürülməkdə,sürülür], "fırlanmaq").
+entry(kəs, v, [kəsilmiş,kəsmə,kəsir], "nazik yastı parçalar halında kəsmək").
+giriş(dilimləyici, i, [dilimləyicilər], "dilimləyən biri").
+entry(slick, sif, [], "SƏLİS ƏN SƏLİS hamar və sürüşkən").
+entry(sürüşkən, v, [sürüşdürdü,sürüşdürür,sürüşdürər], "sürüşkən etmək").
+entry(slicken, v, [sayrışdırdı, sayrışdırma, sayrışdırır], "sürüşkən etmək").
+entry(slicker, n, [slickerlər], "yağışlı havada geyilən neftli yağmurluq").
+giriş(slickly, adv, [], "səlis bir şəkildə").
+entry(sürüş, v, [sürüşdü,sürüşmüş,sürüşən], "SÜRÜŞBir səth boyunca hamar şəkildə hərəkət etməkSÜRÜŞƏN sif").
+entry(sürgü, n, [sürgülər], "sürüşən biri").
+entry(sürüşmə_yolu, n, [sürüşmə_yolları], "nəyinsə sürüşdüyü marşrut").
+entry(slier, a, [], "hiyləgər-in müqayisəli dərəcəsi").
+entry(sliest, a, [], "hiyləgər" sözünün ən yüksək dərəcə forması).
+entry(slieve, n, [slieves], "dağ").
+entry(yüngül, sif, [], "DAHA YÜNGÜL ƏN YÜNGÜLçox kiçik miqyasda YÜNGÜLCƏ zərf").
+entry(cüzi, v, [cüzi,dəyərdən salınma,cüzilər], "hörmət etmədən rəftar etmək").
+entry(slighter, n, [slighters], "təxmini birləri").
+entry(slily, adv, [], "hiyləgər bir şəkildə").
+entry(slender, sifət, [], "SLIMMER SLIMMESTslender").
+entry(slim, v, [arıqladı,arıqlama,arıqlayır], "arıqlatmaq").
+entry(slime, v, [slimed,sliming,slimes], "vəzifəsi yapışqan palçıqla örtmək").
+entry(slimier, müqayisəli, [], "slimy-dən").
+entry(slimiest, superlative, [], "slimy-nin").
+entry(sürüşkəncəsinə, zərf, [], "sürüşkən bir şəkildə").
+entry(sliming, indiki, [], "slime felinin indiki zaman feli sifəti").
+entry(slimline, sif, [], "incə dizayna və ya quruluşa sahib").
+entry(slimly, adv, [], "arıq şəkildə").
+entry(yumşalmış, keçmiş, [], "yumşalmanın zamanı").
+entry(slimmer, n, [slimmers], "pəhrizçi").
+entry(en arıq), superlative, [], "arıq olan").
+entry(arıqlama, n, [arıqlamalar], "çəkini azaltma").
+entry(arıqlıq, n, [arıqlıqlar], "arıq olma vəziyyəti").
+entry(slimpsy, sif, [], "SLIMPSIER SLIMPSIESTslimsy").
+entry(slimsy, sif, [], "SLIMSIER SLIMSIESTflimsy").
+giris(sümüksü, sif, [], "SÜMÜKSÜVARİ SÜMÜKSÜVARİlər, seliyə bənzəyən").
+giriş(sapan, v, [atıldı, atılır, atılır], "ani bir hərəkətlə atmaq").
+entry(slinger, n, [slingerlər], "atıcı").
+giriş(slink, v, [slinked,slinking,slinks], "gizlicə hərəkət etmək").
+entry(slinky, sif, [], "SLINKIER SLINKIESTməxfiSLINKILY zərf").
+entry(sürüş, f, [sürüşdü, sürüşür, sürüşürlər], "ani və təsadüfi sürüşmək").
+entry(qutu, n, [qutular], "kitab üçün qoruyucu qutu").
+entry(slipe, v, [soydu, soyur, soyacaq], "soymaq").
+entry(sürüşmək, v, [sürüşdürüldü,sürüşdürmə,sürüşdürür], "betonun töküldüyü bir qəlibdən istifadə edərək tikinti aparmaq").
+entry(slipknot, n, [slipknots], "bir düyün növü").
+entry(səhvsiz, sifət, [], "səhvlərdən azad").
+entry(sürüşmək, n, [sürüşmələr], "qəzetdə bir daxil etmə").
+entry(slipover, n, [slipoverlər], "bir cemper").
+giriş(sürüşmə, n, [sürüşmələr], "standart və ya səviyyədən düşmə").
+entry(sürüşdü, a, [], "slip-in keçmiş zamanı").
+entry(təkkabı, n, [təkkabılar], "yüngül aşağı ayaqqabı").
+entry(sürüşkən, sif, [], "SÜRÜŞKƏN DAHA SÜRÜŞKƏN SÜRÜŞKƏNLIQ YARATAN və ya TƏŞVİSETDİRƏN").
+entry(sürüşən, indiki, [], "slip-in feli sifəti").
+entry(slippy, sif, [], "Daha sürüşkən Ən sürüşkən sürüşkən SÜRÜŞƏR adv").
+entry(slipshod, sif, [], "səliqəsiz və ya xəfətsiz hazırlanmış").
+entry(slipslop, n, [slipsloplar], "sulu yemək").
+entry(slipsole, n, [slipsoles], "nazik içlik").
+entry(slipt, a, [], "slip sözünün keçmiş zamanıdır").
+entry(səhv, n, [səhvlər], "bir səhv").
+entry(slipware, n, [slipwares], "bir növ saxsı qab").
+entry(slipway, n, [slipways], "gəmiqayırma zavodunda suya doğru meyilli olan sahə").
+giriş(yarığaç, f, [yarıq, yarmaq, yarır], "uzun dar bir kəsik etmək").
+entry(sürünmək, f, [sürüldü,sürünür,sürünür], "yana-yana sürüşmək").
+entry(slithery, sifət, [], "slippery").
+giriş(yarsız, sif, [], "yarıqları olmayan").
+entry(slitə bənzər, sif, [], "yarığı xatırladan").
+entry(slitted, kecmiş, [], "slit felinin keçmiş zaman forması").
+entry(slitter, n, [slitters], "yarıqları yaradan").
+entry(slitting, indiki, [], "slit-in participi").
+entry(slitty, sif, [], "UZUN VƏ DAR OLAN SLITTIER SLITTIEST").
+entry(sliver, v, [uzun və nazik dilimlərə kəsilmiş, uzun və nazik dilimlərə kəsilir, uzun və nazik dilimlərə kəsir], "uzun və nazik dilimlərə kəsmək").
+entry(sliverer, n, [sliverlər], "parçalayan biri").
+entry(slivovic, n, [slivovitslər], "gavalı arağı").
+entry(slob, n, [sloblar], "səliqəsiz və ya kobud insan").
+entry(saliva, v, [salivalı,salivalma,salivalar], "ağız suyu axıtmaq").
+giriş(slobbery, sif, [], "slobbering").
+entry(slobbish, sif, [], "biggə oxşar").
+entry(slobby, adj, [], "tutubazın əsas xarakteristikası olan SLOBBIER SLOBBIEST").
+giris(gaval, n, [gaval], "gavalaya bənzər meyvə").
+entry(slog, v, [slogged,slogging,slogs], "ağır-ağır yerimək").
+entry(slogan, n, [sloqanlar], "müəyyən bir qrup tərəfindən qəbul edilən şüarSLOGANED sif").
+giriş(slogger, n, [sloggers], "sınıq-salxaq işlə məşğul olan").
+entry(sloid, n, [sloids], "sloyd").
+entry(slojd, n, [slojds], "sloyd").
+giriş(slomo, n, [slomos], "yavaş hərəkət").
+entry(sloop, n, [sloops], "bir növ yelkənli gəmi").
+giriş(slop, v, [slopped, slopping, slops], "dağıtmaq və ya səpələmək").
+giriş(maillik, v, [mailli,maillənən,maillər], "məğlub etmək").
+entry(sloper, n, [meyilli], "meyllənən biri").
+entry(səliqəsiz, sif, [], "DAHA SƏLİQƏSİZ ƏN SƏLİQƏSİZdağınıqSƏLİQƏSİZCƏ zərf").
+entry(slopwork, n, [slopworks], "ucuz geyim istehsalı").
+entry(slosh, v, [sloshed,sloshing,sloshes], "sıçrayaraq hərəkət etmək").
+entry(sloshy, sif, [], "SLOSHIER SLOSHIESTslushy").
+giriş(yuva, v, [yuvalı,yuvala,yuvalar], "uzun dar bir açılış kəsmək üçün").
+entry(slotback, n, [slotbacks], "bir növ futbol oyunçusu").
+entry(dovşan, n, [dovşanlar], "yavaş hərəkət edən ağacüstü məməli").
+entry(tənbəl, sif, [], "ətalətli").
+giriş(yuvalı, keçmiş, [], "slotun zamiri").
+entry(slotter, n, [slotters], "yiv açma üçün maşın").
+entry(slotting, indiki, [], "slot felinin feli sifəti").
+entry(slouch, v, [slouched,slouching,slouches], "oturmaq, ayaqda durmaq və ya əyilmiş vəziyyətdə hərəkət etmək").
+giriş(sloucher, n, [slouchers], "əyilən").
+giriş(yumşaq, sif, [], "YUMŞAQ YUMŞAQ ƏN yumşaq").
+giriş(bataqlıq, f, [qurtardı,qurtarmaq,qurtarır], "atmaq").
+entry(sloughy, sif, [], "SLOUGHIER SLOUGHIEST palçıqlı").
+entry(sloven, n, [səliqəsiz], "səliqəsiz şəxs").
+entry(selaqəsiz, sif, [], "SELƏQƏSİZ SELƏQƏSİZLƏRHər zaman səliqəsiz və ya çirkli").
+entry(yavaş, sif, [], "DAHA YAVAŞ EN YAVAŞ hərəkət sürəti az olan").
+entry(yavaşlat, v, [yavaşladı, yavaşladır, yavaşlar], "sürəti azaltmaq üçün").
+entry(yavaşlama, n, [yavaşlamalar], "sürətin azalması").
+entry(yavashvara, sif, [], "nisbətən yavaş").
+entry(yavaş-yavaş, adv, [], "yavaş şəkildə").
+entry(yavaşıqlıq, n, [yavaşıqlıqlar], "yavaş olma vəziyyəti").
+entry(ləngər, n, [ləngərlər], "ləng fərd").
+entry(yavaşqurd, n, [yavaşqurdlar], "ayaqsız bir Avropa kərtənkələsi").
+entry(sloyd, n, [sloydlar], "manual təlim üzrə İsveç sistemi").
+giriş(slub, v, [slubbed,slubbing,slubs], "dartıb çıxartmaq və bir az burmaq").
+entry(slubber, v, [slubbered,slubbering,slubbers], "ləkələmək və ya çirklətmək").
+entry(slubbing, n, [slubbings], "bir qədər bükülmüş tekstil liflərinin rulonu").
+entry(sludge, v, [sludged,sludging,sludges], "palçıqlı bir kütlə və ya çöküntü yaratmaq").
+entry(sludgy, sif, [], "PALÇIQLI PALÇIQLARLAdirin palçıq ilə örtülmüş").
+entry(slue, v, [slued,sluing,slues], "yan tərəfə hərəkət etməyə səbəb olmaq").
+entry(sluff, v, [sluffed,sluffing,sluffs], "kart və ya kartları atmaq").
+entry(slug, v, [çəkildi, çəkilir, çəkər], "güclü zərbə endirmək").
+entry(yerazürüyən, n, [yerazürüyənlər], "tənbəlliyindən yatmağa meylli olan şəxs").
+entry(slugfest, n, [slugfests], "çox güclü döyüş").
+entry(tenbel, n, [tenbellər], "adətən tənbəl olan şəxs").
+entry(slugged, keçmiş, [], "təpik vurmaq zaman forması").
+entry(slugger, n, [sluggerlər], "vurğun olan biri").
+entry(zərbə_vurma, indiki, [], "zərbə vurmaq fe'linin təsriflənmiş forması").
+entry(ləng, sifət, [], "çox az hərəkət və ya fəaliyyət göstərmək").
+entry(lup, v, [lup etdi,lup edir,lup edəcək], "birdən gələn su axını ilə yumaq").
+entry(sluicy, sif, [], "axan dərələr").
+entry(sluing, indiki, [], "slue felinin participi").
+entry(slum, v, [slummed,slumming,slums], "qəsbəriş şəhər ərazilərini ziyarət etmək").
+entry(yuxulamaq, v, [yuxuladı, yuxulayır, yuxular], "yatmaq").
+entry(yuxulu, adj, [], "sleepy").
+entry(slumgum, n, [slumgums], "bal pətəyindən bal çıxarıldıqdan sonra qalan qalığın adıdır").
+entry(slumizm, n, [slumizmlər], "gecəqonduların üstünlüyü").
+entry(slumlord, n, [slumlords], "gecəqonduların sahibi").
+entry(slummed, keçmiş, [], "slum feli keçmiş zamanı").
+entry(slummer, n, [slummerlər], "gecekonduda yaşayan biri").
+entry(slumming, indiki, [], "slumping participi").
+entry(slummy, sif, [], "GECEKONDUYA BƏNZƏYƏN").
+entry(slump, v, [uğundur, uğunma, uğunmalar], "birdən düşmək və ya batmaq").
+entry(slumpy, sif, [], "dəyər və ya məbləğdə düşmə ilə xarakterizə edilən SLUMPIER SLUMPIEST").
+entry(slingdən, keçmiş, [], "slingin keçmiş zamanı").
+entry(slunk, a, [], "sürünmək fellinin keçmiş zaman forması").
+entry(təhqir, f, [təhqir etdi,təhqir edir,təhqir edir], "yüngül şəkildə və ya laqeyd yanaşaraq keçmək").
+entry(slurb, n, [slurbs], "pis planlaşdırılmış kənar əraziSLURBAN sif").
+entry(slurp, v, [səs-küylə yemək və ya içmək], "səs-küylə yemək və ya içmək").
+entry(slurpy, sif, [], "SLURPIER SLURPIESTslurp edərkən edilən sorma səsi ilə xarakterizə olunur").
+entry(slurry, f, [slurried, slurrying, slurries], "sulu qarışığa çevirmək").
+entry(slurve, n, [slurveler], "beysbolda bir növ atış").
+entry(sləç, f, [sləçlədi,sləçləyir,sləçlər], "qismən əriyən qar ilə sıçratmaq").
+entry(slushy, n, [slushies], "dadlandırılmış əzilmiş buzdan ibarət olan bir şirniyyat").
+entry(slushy, sif, [], "PALÇIĞA BƏNZƏYƏN PALÇIQLI PALÇIQLI ADV").
+entry(slut, n, [sluts], "səliqəsiz qadınSLUTTISH sif").
+entry(slutty, adj, [], "fahişəyə xasdır").
+entry(sly, sif, [], "SLIER SLIEST və ya SLYER SLYESThiyləgərSLYLY zərf").
+entry(slyboots, isim, [slyboots], "hiyləgər bir şəxs").
+entry(hiyləgər, n, [hiyləgərliklər], "hiyləgər olma keyfiyyəti və ya vəziyyəti").
+entry(slype, n, [slypes], "İngilis kilsəsində dar keçid").
+entry(smack, v, [smacked,smacking,smacks], "iti zərbə vurmaq").
+entry(döyən, n, [döyənlər], "döyən kəs").
+entry(kiçik, sifət, [], "KİÇİK DAHA KİÇİK ƏN KİÇİK məhdud ölçüdə və ya miqdarda").
+entry(kiçik, n, [kiçiklər], "kiçik bir hissə").
+entry(smallage, n, [smallages], "bir yabanı kərəviz").
+entry(balacamsı, sif, [], "bir qədər kiçik").
+entry(suçiçəyi, n, [suçiçəkləri], "virus xəstəliyi").
+entry(smalt, n, [smaltlar], "mavi piqment").
+entry(smalti, a, [], "smalto-nun cəmi").
+entry(smaltin, n, [smaltinlər], "smaltit").
+entry(smaltit, n, [smaltitlər], "bir mineral").
+entry(smalto, n, [smaltos], "mozaykalarda istifadə olunan rəngli şüşə").
+entry(zümrəd, n, [zümrədin], "zümrüd").
+entry(smaragde, n, [smaragdes], "smaraqd").
+entry(smarm, v, [smarmed,smarming,smarms], "imtiyazlar əldə etmək üçün həddindən artıq tərifdən istifadə etmək").
+entry(smarmy, sif, [], "DAHA SMARMİ DAHA SMARMİlükələnmə ilə xarakterizə olunurSMARMİLİ zərf").
+entry(smart, adj, [], "ZƏKİ ZƏKALI xarakterizə olunur əqli becəkliklə ZƏKACAN adj").
+entry(smart, v, [smarted,smarting,smarts], "iti sancma ağrısına səbəb olmaq").
+entry(smartass, n, [smartasses], "bir dəliqanlı").
+entry(smarten, v, [dahağıllaşdı,dahağıllaşdırır,dahağıllaşdırır], "görünüşünü yaxşılaşdırmaq").
+entry(smartie, n, [smartilər], "ağıllı").
+entry( ağılla, adv, [], "ağıllı bir şəkildə").
+entry(smarty, n, [smarties], "qeyri-adi dərəcədə lovğa bir şəxs").
+entry(partlatmaq, f, [partlatdı,partlatmaqda,partladır], "şiddətlə parçalamaq").
+entry(sındırıcı, n, [sındırıcılar], "sındıran biri").
+entry(qəzaya uğrama, n, [qəzaya uğramalar], "nəqliyyat vasitələrinin toqquşması").
+entry(smatter, v, [smattered,smattering,smatters], "az biliyə sahib olaraq danışmaq").
+entry(smaze, n, [tütleyiş], "duman və tüstü qarışığı olan atmosfer qarışığı").
+entry(ləkə, f, [ləkələnmiş,ləkələnmə,ləkələnir], "yapışqan, yağlı və ya çirkli maddə ilə yaymaq").
+entry(bulayan, n, [bulayanlar], "bulan").
+entry(smeary, sif, [], "DAHA LÜLƏLİ ƏN LÜLƏLİlülələnmiş").
+entry(smektik, adj, [], "maye kristalların fazasına aid").
+entry(smektit, n, [smektitlər], "gil mineral").
+entry(smeddum, n, [smeddums], "yer maltozu tozu").
+entry(smeek, v, [smeeked,smeeking,smeeks], "çəkmək").
+entry(smegma, n, [smegma], "sebium").
+entry(qoxu, v, [qoxudu,qoxuyan,qoxuyur], "qoxu sinirləri vasitəsilə hiss etmək").
+entry(qoxuyan, n, [qoxuyanlar], "qoxu alan").
+entry(iyrənc, sif, [], "Pis qoxuya malik olan daha iyrənc ən iyrənc").
+entry(əriyib,b, [əriyib,əriyib,əriyir], "filizləri əridib birləşdirmək").
+entry(smelter, n, [əridənlər], "əridən").
+entry(smeltery, n, [əritmə zavodları], "əritmə üçün yer").
+entry(əridilmə, n, [əridilmələr], "metal əldə etmək üçün filizlərin əridilməsi prosesi").
+entry(smerk, v, [smerked,smerking,smerks], "tərs-tərs gülümsəmək").
+entry(qara ördək, n, [qara ördəklər], "Avrasiya ördəyi").
+entry(smidge, n, [smidges], "bir çimdik").
+entry(smidgen, n, [smidgens], "çox kiçik bir miqdar").
+entry(smidgeon, n, [smidgeons], "münasib miqdar").
+entry(smidgin, n, [smidgins], "cəfəng").
+entry(smilax, n, [smilaxlar], "dolan bitki").
+entry(gülümsəmək, v, [gülümsədi,gülümsəyən,gülümsəyir], "dodaqların künclərini zövq hissi ilə yuxarı qaldırmaq").
+entry(təbəssüm edən, n, [təbəssüm edənlər], "təbəssüm edən şəxs").
+entry(smiley, n, [smileys], "gülən üz təsviri").
+entry(smiley, sif, [], "GÜLƏRÜZ GÜLMƏRÜZtəbəssüm nümayiş etdirən").
+entry(smirch, v, [kirləndi, kirlənir, kirlənər], "kirləmək").
+entry(qımışmaq, v, [qımışdı, qımışmaqda, qımışır], "təbii və ya özündən razı şəkildə gülümsəmək").
+entry(smirker, n, [smirkerlər], "təbəssüm edən biri").
+giriş(smirky, sif, [], "SMIRKIER SMIRKIESTsmirkingSMIRKILY zərf").
+entry(smite, f, [smitmiş,smitmə,smitir], "vurmaq üçün ağır şəkildə").
+entry(smiter, n, [smiters], "vurən kəs").
+entry(smith, n, [sadəclar], "metallarla işləyən usta").
+entry(smithers, npl, [], "kiçik hissəciklər").
+entry(dəmirçilik, n, [dəmirçiliklər], "dəmirçinin peşəsi").
+entry(smithing, n, [smithings], "dəmirçinin işi").
+entry(dəmirçi, n, [dəmirçilər], "dəmirçinin emalatxanası").
+entry(smiting, indiki, [], "vurmaq feilinin iştirakçı forması").
+entry(smitten, a, [], "smite felinin keçmiş qatı").
+entry(smok, v, [smokladı,smoklama,smoklar], "boş xarici geyim olan önlük ilə təchiz etmək").
+entry(smocking, n, [smockings], "naxış növü").
+entry(smog, n, [smoglar], "tüstü və duman qarışığından ibarət atmosfer qarışığıSMOGSUZ sif").
+entry(smoggy, sif, [], "SMOGGIER SMOGGIESTdumanla dolu").
+entry(tüstü, f, [tüstülədi, tüstüləmə, tüstüləyir], "yandırılmış materialların qaz halında məhsulu olan tüstü çıxarmaqTÜSTÜLƏR adj").
+entry(tüstükamerası, n, [tüstükameraları], "tüstü istehsal edən və saxlayan kamera").
+giriş(smokepot, n, [smokepots], "tüstü çıxaran qab").
+giriş(siqarətçəkən, n, [siqarətçəkənlər], "siqarət çəkən").
+entry(smokey, sif, [], "DAHA TÜSTÜLÜ ƏN TÜSTÜLÜtüstülü").
+entry(smokey, n, [smokeys], "yaxud SMOKIES - magistral yollarda patrul edən polis işçisi").
+entry(smokie, n, [smokilər], "bir sosiskə və ya hot dog").
+entry(siqarəçəkmə, n, [siqarəçəkmələr], "tütün və ya narkotik tüstüsünü içəri çəkmə və bayıra buraxma").
+entry(smoky, sif, [], "DUMANLI DUMANLIDUMANLI ilə dolmuşDUMANLI şəkildə adv").
+entry(tüstülənmək, v, [tüstüləndi,tüstülənən,tüstülənir], "alışmadan yanmaq").
+entry(smolt, n, [smolts], "cavan losos").
+entry(smooch, v, [smooched,smooching,smooches], "öpüşmək").
+entry(smoocher, n, [smoochers], "öpən").
+entry(smoochy, sif, [], "ÖPÜŞÜLƏNLƏR ÜÇÜN UYGUNDUR").
+entry(smoosh, v, [smooshed,smooshing,smooshes], "əzmək").
+entry(smooth, sif, [], "HAMAR HAMARLAŞDIRILMIŞ səthi qeyri-düzgünlüklərdən azad olan").
+entry(təhlükəsiz, v, [təhlükəlidir,təhlükəsizlik,təhlükələr], "və ya Təhlükəsiz şəkildə hamar etmək").
+entry(smoothe, v, [hamarlanmış, hamarlanma, hamarlar], "hamarlamaq").
+entry(smoothen, v, [hamarlanmış,hamarlanır,hamarlaşır], "hamar etmək").
+giriş(sazlayici, n, [sazlayicilar], "hamarlaşdıran").
+entry(smoothie, n, [smutilər], "cilalanmış davranışlara sahib bir şəxs").
+entry(səlis, zərf, [], "səlis bir şəkildə").
+entry(smoothy, n, [smuzilər], "smuzi").
+entry(smorg, n, [smorgs], "smorgasbord").
+entry(smote, keçmiş, [], "smite felinin zaman forması").
+entry(boğmaq, v, [boğdu, boğur, boğar], "nəfəs almağı əngəlləmək üçün").
+entry(smothery, sif, [], "boğmağa meylli").
+entry(tüstüləmək, f, [tüstülədi, tüstülənir, tüstüləyir], "tüstüləmək").
+entry(smriti, n, [smritis], "Hindu dini təlimlərinin mətni").
+entry(ləkə, v, [ləklənmiş,ləkələnir,ləkələr], "ləkmək və ya çirkləndirmək").
+entry(ləkələmə, n, [ləkələmələr], "ləkələmə hərəkəti").
+entry(smudgy, sif, [], "SMUDGIER SMUDGIESTsmudgedSMUDGILY adv").
+entry(smug, sif, [], "Özündən razı").
+entry(qaçaqmalçılıq, f, [qaçaqmalçılıq etdi, qaçaqmalçılıq edir, qaçaqmalçılıq edir], "qanunsuz olaraq idxal etmək və ya ixrac etmək").
+entry(qaçaqmalçı, n, [qaçaqmalçılar], "qaçaqmalçılıq edən şəxs").
+entry(təkəbbürlə, zərf, [], "təvazökarlıq göstərmədən").
+entry(kifayətdarlıq, n, [kifayətdarlıqlar], "özündən razı olmaq halı").
+entry(smush, f, [smushed,smushing,smushes], "sıxmaq").
+entry(smut, v, [ləkələndi, ləkələnir, ləkələr], "ləkələmək").
+entry(smutch, v, [ləkələmək, ləkələmə, ləkələr], "ləkə vurmaq").
+entry(smutchy, sif, [], "SMUTCHIER SMUTCHIESTsmudgy").
+entry(smutty, sif, [], "ƏN ƏXLAQSIZ ƏN ƏXLAQSIZböhtançıƏXLAQSIZ adv").
+entry(qəlyanaltı, f, [qəlyanaltı etdi,qəlyanaltı edərkən,qəlyanaltılar], "yüngül yemək yemək").
+entry(snacker, n, [snackers], "dişləyən biri").
+entry(snacky, sif, [], "SNACKIER SNACKIESTyüngül yemək üçün uyğun").
+entry(ələ keçirmək, f, [ələ keçirdi, ələ keçirməkdə, ələ keçirir], "hiyləgər yollarla ələ keçirmək").
+entry(snafu, v, [snafued, snafuing, snafus], "qarışıqlıq vəziyyətinə gətirmək üçün").
+entry(snag, v, [qapıldı, qapanır, qapanır], "dişli çıxıntıya ilişmək").
+entry(snagger, n, [snagler], "qanunsuz balıqçılıq üsullarından istifadə edən şəxs").
+entry(snaggle, n, [snaggles], "qarışıq və ya düyünlü kütlə").
+entry(snaggy, sif, [], "SNAGGIER SNAGGIESTçətinliklərlə dolu").
+entry(snaglike, sif, [], "qarmaq kimi").
+entry(salyangoz, f, [salyangozladı, salyangozlama, salyangozlar], "yavaş hərəkət etmək").
+entry(ilana, f, [ilanladı, ilanlayır, ilanlar], "qis kimi, ayaqsız sürünən kimi hərəkət etmək").
+entry(snakebit, sif, [], "bəxtsiz").
+entry(snakepit, n, [theysağanlar], "psixiatrik xəstəxana").
+entry(snakey, adj, [], "SNAKIER SNAKIESTsnaky").
+entry(snaking, indiki, [], "snake-in iştirakçısı").
+entry(ilanvari, sif, [], "ilana bənzəyən").
+entry(snaky, sif, [], "SNAKIER SNAKIEST ilana bənzəyənSNAKILY zərf").
+entry(snap, v, [çartladı, çartlama, çartlayır], "iti çartlama səsi çıxartmaq").
+entry(snapback, n, [snapbacklər], "qəfil sıçrayış və ya bərpa").
+entry(snapless, sif, [], "müəyyən bağlama cihazı növünün olmaması").
+entry(snabper, n, [snabperlər], "çırpan biri").
+entry(snappier, comparative, [], "snappy-dən").
+entry(snappiest, superlative, [], "snappy üçün").
+entry(snappily, adv, [], "çevik şəkildə").
+entry(snapping, indiki, [], "snap-in iştirakçı halı").
+entry(teyznə, sif, [], "səbrsiz və ya əsəbi tərzdə danışmağa meylli").
+entry(snappy, sif, [], "SNAPPIER SNAPPIESTsnappish").
+entry(snapshot, v, [tez, qeyri-rəsmi, şəkil çəkmək], "tez və qeyri-rəsmi şəkil çəkmək").
+entry(snapweed, n, [snapweeds], "çiçəkli bitki").
+entry(tuzaqla, v, [tuzaqladı,tuzaqlayır,tuzaqlayır], "tələ qurmaq").
+entry(toranlar, n, [toranlar], "tor quran biri").
+giriş(snarf, f, [snarfed,snarfing,snarfs], "acgözlüklə yemək və ya içmək").
+giriş(snarfle, v, [snarfledi, snarfleyən, snarflər], "snarf etmək").
+entry(tələ, indiki, [], "tələ felinin iştirak forması").
+entry(snark, n, [snarklar], "xəyalı bir heyvan").
+entry(snarky, adj, [], "SNARKIER SNARKIESTsnappishSNARKILY adv").
+entry(snarl, v, [snarled,snarling,snarls], "qəddarcasına nərildəmək").
+entry(snarler, n, [snarlers], "tısıldayan biri").
+giris(snarly, sif, [], "DÜYÜNLÜ DÜYÜNLÜƏN tükənmiş").
+entry(snash, n, [snashes], "təhqiredici dil").
+entry(qapmaq, v, [qapdı, qapma, qapır], "ani şəkildə tutmaq").
+entry(tutucu, n, [tutucular], "tutan biri").
+giris(qapmaq, sif, [], "QAPMAQÇI QAPMAQÇILIQ qeyri-müntəzəm baş verən").
+entry(snath, n, [snaths], "oraq sapı").
+entry(snathe, n, [snathes], "çapacağın sapı").
+entry(snav, f, [snavdı, snavır, snavır], "qar yağmaq").
+entry(snazzy, sif, [], "ÇOX ZƏRJANLI ZƏRJANLI ƏN ÜST SƏVİYYƏZƏRJANLI zərf").
+entry(suçmaq, v, [suçdu, suçma, suçur], "gizlicə hərəkət etmək").
+entry(sneakbox, n, [sneakboxes], "ördəkkimilər ovu üçün istifadə olunan, kol-kosla maskalanmış kiçik qayıq").
+entry(sneaker, n, [adidasyalar], "gizlicə hərəkət edən biri").
+entry(sneaky, sif, [], "SNEAKIER SNEAKIESThiyləgərcəsinəSNEAKILY zərf").
+entry(sneap, v, [danladı, danlayır, danlayar], "danlamaq").
+entry(sneck, n, [snecks], "bir fermuar").
+giriş(sned, f, [snedded,snedding,sneds], "budamaq üçün").
+entry(qınaqla, v, [qınadı, qınayır, qınayır], "dodağı nifrətlə burmaq").
+entry(dırnaqar, n, [dırnaqarlar], "dırnayan kəs").
+entry(sneerful, sif, [], "istehza etmək üçün verilmiş").
+entry(sneery, sif, [], "SNEERIER SNEERIESTistehza ilə dolu").
+entry(sneesh, n, [sneeshlər], "burun otu").
+entry(asqırmaq, f, [asqırdı, asqırmaqda, asqırır], "qəfil və istəmədən nəfəs vermək").
+entry(asqıran, n, [asqıranlar], "asqıran şəxs").
+entry(sneezy, adj, [], "ASQIRMAĞA MEYLLİ SNEEZIER SNEEZIEST").
+giriş(snell, sifət, [], "SNELLER SNELLESTkeen").
+entry(snell, v, [snelled,snelling,snells], "balıq qarmağına qısa ip bağlamaq").
+entry(snib, v, [snibbed,snibbing,snibs], "qufıllamaq").
+entry(snick, v, [snicked,snicking,snicks], "cızıq atmaq").
+entry(snicker, v, [xırıltı,xırıltılar,xırıldamaq], "qısmən boğulmuş bir gülüş çıxarmaq").
+entry(snickery, sifət, [], "pıçıldamağa meylli").
+entry(snide, sif, [], "SNIDER SNIDESTmənfi şəkildə təhqiramizSNIDELY zəf").
+entry(sniff, v, [qoxladı,qoxlayan,qoxlayır], "burnun içindən eşidilən şəkildə nəfəs almaq").
+entry(sniffer, n, [sniffers], "iyləyən").
+entry(sniffier, müqayisəli, [], "sniffy-dən").
+entry(sniffiest, superlative, [], "sniffy-nin ən yüksək dərəcəsi").
+entry(sniffily, adv, [], "təkəbbürlü bir şəkildə").
+entry(sniffish, sif, [], "təkəbbürlü").
+entry(sniffle, v, [sniffled,sniffling,sniffles], "dəfələrlə qoxulamaq").
+entry(sniffler, n, [burnunu çəkmək], "burnunu çəkən biri").
+entry(sniffly, sif, [], "SNIFFLIER SNIFFLIEST tez-tez burnunu silən").
+entry(sniffy, sif, [], "SNIFFIER SNIFFIESTsniffish").
+entry(snifter, n, [snifters], "armudşəkilli likör stəkanı").
+entry(gülmək, v, [güldü, gülərkən, gülür], "kişnəmək").
+entry(sniggle, v, [sniggled,sniggling,sniggles], "ilanbalığı ovlamaq").
+entry(sniggler, n, [snigglers], "sniggləyən biri").
+entry(sniglet, n, [snigletlər], "adı olmayan bir şey üçün uydurulan söz").
+entry(snip, v, [kəsdi,kəsir,kəsər], "qısa tez bir hərəkətlə kəsmək").
+entry(snipe, v, [sniped,sniping,snipes], "gizli yerdən fərdlərə atəş açmaq").
+entry(sniper, n, [snayperlər], "snayper olan biri").
+entry(snayperlik, n, [snayperliklər], "snayperlik edənlərin fəaliyyəti").
+entry(kəsilmiş, keçmiş, [], "kəsmək feilinin keçmiş zaman forması").
+entry(snipper, n, [snipperlər], "kəsən biri").
+entry(snippet, n, [snippets], "kiçik kəsilmiş bir parça").
+entry(snippety, sif, [], "SNIPPETIER SNIPPETIESTsnippy").
+entry(kəsmə, n, [kəsmələr], "kəsilən bir şeydən qoparılan bir parça").
+giriş(snippy, sif, [], "SNIPPIER SNIPPIESTsnappishSNIPPILY adv").
+entry(snit, n, [snits], "bir həyəcan vəziyyəti").
+entry(snitch, v, [snitched,snitching,snitches], "şikayət etmək").
+entry(ilqarlanıcı, n, [ilqarlanıcılar], "ilqar edən şəxs").
+entry(snitty, sif, [], "SNITTIER SNITTIESTnarınglı xəstəxasiyyətli").
+entry(zırıldamaq, v, [zırıldadı,zırıldamaq,zırıldayır], "ya da ZIRILDAĞI ZIRILDI ZIRILDAMAGıçəkərək ağlamaq və ya şikayət etmək").
+entry(ağlağan, n, [ağlağanlar], "ağlayan birisi").
+entry(snivelly, sif, [], "burnunu çəkərək şikayət etməyə meyilli").
+entry(snob, n, [snoblar], "özündən aşağı hesab etdiyi insanlardan qaçmağa və ya onları rədd etməyə meylli olan şəxs").
+entry(snobizm, n, [snobizmlər], "snob davranışı").
+entry(snobbier, müqayisəli, [], "təkəbbürlü").
+entry(snobbiest, superlative, [], "snobbinin").
+entry(snobbily, adv, [], "zəif bir şəkildə").
+entry(təkəbbürlü, sif, [], "snob xarakteristikasına malik").
+entry(snobbizm, n, [snobbizmlər], "snobçuluq").
+entry(snobby, sif, [], "SNOBİ SNOBİLƏR ƏN SNOBİsnob").
+entry(snocoach, n, [snocoaches], "qar üzərində hərəkət etmək üçün böyük təkərlər və ya izlərə malik avtobusa bənzər bir vasitə").
+entry(snog, v, [öpüşdü,öpüşməkdədir,öpüşür], "öpüşmək").
+entry(snogger, n, [snoggerlər], "öpüşən biri").
+entry(snood, v, [snooded,snooding,snoods], "saç üçün tor və ya parça örtüyü snood ilə təmin etmək").
+entry(snook, v, [snooked, snooking, snooks], "iyləmək").
+entry(snooker, v, [snookerlənmiş,snookerlənmə,snookerlər], "aldatmaq üçün").
+entry(snool, v, [itaət etdi, itaət etməkdədir, itaət edər], "itaətsiz təslim olmaq").
+entry(snoop, f, [snooped,snooping,snoops], "maraqlanmaq").
+giriş(snooper, n, [snoopers], "araşdıran biri").
+entry(snoopy, adj, [], "MÜTƏCƏSSİS MÜTƏCƏSSİSLƏR casusluq etməyə meyilliMÜTƏCƏSSİSLİK adv").
+entry(snooze, n, [snoozlar], "çəkmək üçün tütün").
+entry(snoot, f, [snooted,snooting,snoots], "etinasızlıqla rəftar etmək").
+entry(snootful, n, [snootfuls], "insanı sərxoş edəcək qədər alkoqollu içki").
+entry(kipr, sif, [], "KİPR KİPRİSİnobKİPRLƏ adv").
+entry(yüngül, v, [yüngüldü,yüngülləşmə,yüngüllər], "yüngül yuxuya getmək").
+entry(mürgücü, n, [mürgücülər], "mürgüləyən biri").
+entry(snoozle, v, [snoozled,snoozling,snoozles], "əhəng etmək").
+giriş(snoozy, sif, [], "ƏN SNOOZIEST SNOOZIER yuxulu").
+entry(xoruldamaq, f, [xoruldadı, xoruldama, xoruldayır], "yatarkən ucadan nəfəs almaq").
+entry(xorlamağı, n, [xorlayanlar], "xorlayan şəxs").
+entry(xorultu, n, [xorultular], "yatarkən ucadan nəfəs alma hərəkəti").
+entry(snorkellə, v, [snorkellədi, snorkelləyir, snorkellər], "nəfəs almanı təmin edən qurğu ilə su altında üzmək").
+entry(snort, v, [burunla_səsli_nəfəs_verdi, burunla_səsli_nəfəs_verir, burunla_səsli_nəfəs_verir], "burun deşiklərindən gurultulu şəkildə nəfəs almaq").
+entry(snorter, n, [snorters], "burnunu çəkməyi sevən").
+entry(snot, n, [snots], "burun seliyi").
+entry(snotty, sif, [], "SNOTTIER SNOTTIESTtəkəbbürlüSNOTTILY zərf").
+giriş(burun, v, [burunlu,burunlama,burunlar], "burunla təmin etmək").
+entry(snoutish, sif, [], "snouty").
+entry(snouty, sif, [], "uzun çıxıntılı buruna bənzəməkdə SNOUTIER SNOUTIEST").
+entry(snow, f, [qar,yagmag,löpür-löpür], "buz kristalları şəklində qar çöküntüsü olaraq düşmək").
+entry(kartopu, f, [kartopuladı, kartopulama, kartopuları], "sürətlə artmaq").
+entry(qar_küvəsi, n, [qar_küvələri], "qar tağı").
+entry(snowbell, n, [qarçiçəyi], "çiçəkli bir kolla").
+entry(snowbelt, n, [qarzolaqları], "hər il əhəmiyyətli miqdarda qar yağan bir bölgə").
+entry(qarquşu, n, [qarquşlar], "kiçik bir quş").
+entry(qarçalı, n, [qarçalılar], "çiçəkli bir kol").
+entry(snowcap, n, [qarörtüyü], "qar örtüyü").
+entry(qartopu, n, [qartopular], "qar üzərində hərəkət üçün istifadə olunan tırtıllı nəqliyyat vasitəsi").
+entry(snowdrop, n, [qar şəlləsi], "bir Avropa bitkisi").
+entry(qar yagması, n, [qar yavaşları], "qarın yağıntısı").
+entry(qarcıyəsi, n, [qarcıyələr], "yayda qar üzərində görünən qanadsız həşərat").
+entry(snowier, müqayisəli, [], "of snowy").
+entry(snowiest, superlative, [], "qarla bağlı").
+entry(snowily, adv, [], "qarlı şəkildə").
+giriş(qar ölkəsi, i, [qar ölkələri], "çox miqdarda qar ilə qeyd olunan bir ərazi").
+entry(qarsız, sifət, [], "qarsız olmaq").
+entry(qarağa bənzər, sif, [], "qarağa bənzəyən").
+entry(kardanadam, n, [kardanadamlar], "qarla düzəldilən insan fiquru").
+entry(qarın_əriməsi, n, [qarın_ərimələri], "qarın əriməsi nəticəsində yaranan su").
+entry(snowmold, n, [snowmolds], "əriyən qarın kənarında otların göbələk xəstəliyi").
+entry(qar_qatlamı, n, [qar_qatlamları], "bərkidilmiş qar yığını").
+entry(qar_təmizləyicisi, v, [qar_təmizlədi,qar_təmizləmə,qar_təmizləyir], "xizək sürmə manevrinin bir növünü icra etmək").
+entry(qarkuran, n, [qarkuranlar], "qar qarşısında qorunmaq üçün tikilən bir strukturdur").
+entry(snowshoe, v, [qar ayaqqabısı ilə gəzmək, qar ayaqqabısı ilə gəzməkdə, qar ayaqqabısı ilə gəzər], "dərin qarda gəzməyə imkan verən oval çərçivəli qar ayaqqabılarında gəzmək").
+entry(qarlıqtəzli, n, [qarlıqtəzliklər], "uşaqlar üçün qışda geyilən geyim").
+giriş(qarlı, sif, [], "QARLI QARLIstampət").
+entry(qonşulamaq, f, [qonşuladı,qonşulayan,qonşulayır], "laqeydlik və ya nəzərsizliklə davranmaq").
+entry(snubber, n, [snubbers], "dəf edən").
+entry(snubby, sif, [], "SNUBBİER SNUBBİESTküt").
+entry(tərsliyini, n, [tərsliyini], "qeyri-kəskinlik").
+entry(gizləndi, a, [], "gizlənmək sözünün keçmiş zaman forması").
+entry(snuff, v, [snuffed,snuffing,snuffs], "çəkmək və ya buruna çəkmək üçün məsholunan toz şəkilli tütün").
+entry(qəlyanqutusu, n, [qəlyanqutusları], "qəlyan dəni saxlamaq üçün qutu").
+entry(snuffer, n, [snuffers], "söndürən").
+entry(snuffier, müqayisəli, [], "snuffy-dən").
+entry(snuffiest, superlative, [], "snuffy-nin").
+entry(snuffily, adv, [], "əsnəyən bir şəkildə").
+entry(snuffle, v, [snuffled,snuffling,snuffles], "burnunun tutulması").
+entry(snuffler, n, [snufflers], "fişburun olan").
+entry(snuffly, sif, [], "SNUFFLIER SNUFFLIESTburnunu çəkməyə meyilli").
+entry(snuffy, sif, [], "SNUFFIER SNUFFIESTqeyri-dabi").
+entry(snug, adj, [], "DƏRİND UYĞUNDA RAHAT SNUGGER SNUGGEST").
+entry(sıx, v, [sıxdı,sıxma,sıxır], "rahat etmək").
+maddə(dincəlmə, n, [dincəlmələr], "rahat yer").
+entry(snuggest, superlative, [], "rahat").
+entry(snuggies, npl, [], "qadınların uzun alt paltarı").
+entry(snugging, indiki, [], "snug felinin feli sifəti").
+entry(snuggle, v, [qucaqlaşdı, qucaqlaşmaq, qucaqlaşır], "yaxın olmaq və ya sıx basmaq").
+entry(snuggly, adj, [], "DAHA RAHAT ƏN RAHAT isti və rahat").
+entry(rahatca, zərf, [], "rahat bir şəkildə").
+entry(rahatlıq, n, [rahatlıqlar], "rahat olmaq keyfiyyəti və ya vəziyyəti").
+entry(snye, n, [snyes], "çayda və ya dərədə yan kanal").
+entry(so, n, [sos], "sol").
+entry(islatmaq, v, [isladi, isladır, isladar], "nəyisə tamamilə islatmaq").
+entry(suvarma, n, [suvarmalar], "suvarma hərəkəti").
+entry(suya qoyan, n, [suya qoyanlar], "suya qoyan biri").
+entry(sırıqsız, n, [sırıqlar], "bir şeyi tamamilə islatmaq hərəkəti").
+entry(sabun, v, [sabunladı,sabunlamaq,sabunlar], "təmizləyici vasitə kimi sabunla müalicə etmək").
+entry(sabunagacı, n, [sabunagacları], "tropik ağac").
+entry(sabunqutusu, v, [sabunqutusunda, sabunqutusuna, sabunqutusunda], "küçədə qeyri-rəsmi coşqun bir çıxış etmək").
+entry(sabunçu, n, [sabunçular], "radioda və ya televiziyada serial melodram").
+entry(soapfish, n, [sabunbalığılar], "toksik selik istehsal edən tropik bir balıq").
+entry(sabunsu, müqayisəli, [], "sabunlu").
+entry(ən_sabunlu, üstünlük_dərəcəsi, [], "sabunlu").
+entry(sabunsu, zərf, [], "sabunlu şəkildə").
+entry(soapless, sifət, [], "sabunsuz olan").
+entry(sabunabənzər, sif, [], "sabuna bənzəyən").
+entry(sabunlu_su, npl, [], "sabun köpüyü").
+entry(sabunotu, n, [sabunotları], "çoxillik bir ot").
+entry(soapy, sif, [], "SABUNLU SABUNLARsabon kimi olan və ya sabuna bənzəyən").
+entry(uçmaq, v, [uçdu,uçma,uçar], "böyük hündürlükdə uçmaq").
+entry(uçan, n, [uçanlar], "uçan birisi").
+entry(uçuş, n, [uçuşlar], "motor gücü olmayan hava gəmisində uçmaq idmanı").
+entry(soave, n, [soaves], "İtalyan şərabı").
+entry(sob, f, [hıçqırıqla ağladı, hıçqıraraq, hıçqırıq], "nəfəsin konvulsiv tutulması ilə ağlamaq").
+entry(soba, n, [soba], "qarabaşaq unundan hazırlanan bir Yapon əriştəsi").
+entry(hönkürən, n, [hönkürənlər], "hönkürən biri").
+entry(sobeit, bağl, [], "şərti ilə").
+giriş(ayıq, sif, [], "AYIQA AYIQEST birinin qabiliyyətlərinə nəzarəti olması").
+entry(ayıq, f, [ayıldı,ayıldır,ayıldırır], "ayıq etmək").
+entry(ayıltmaq, v, [ayıldı,ayıltmaqda,ayıldır], "ayıltmaq").
+entry(ayıqcasına, adv, [], "ayıq bir şəkildə").
+entry(sobful, sif, [], "ağlamağa meyilli").
+giriş(ayıqlıq, n, [ayıqlıqlar], "ayıq olmağın keyfiyyəti və ya vəziyyəti").
+siyahi(soqs, n, [sosyoloji], "bir sosiologiya dərsi").
+entry(soca, n, [socas], "ruh və kalipso musiqisinin qarışığı").
+entry("sokage", n, ["sokagelər"], "feodal torpaq mülkiyyətinin bir növü").
+entry(socager, n, [socagers], "sokage əsasında kirayəçi").
+entry(soccage, n, [soccages], "socage").
+entry(futbol, n, [futbollar], "top oyunlarının bir növü").
+entry(ünsiyyətcil, n, [ünsiyyətcillər], "ünsiyyətcil").
+entry(sosiabilcə, zərf, [], "mehribanlıqla").
+entry(sosial, n, [sosiallar], "dostcasına bir toplaşma").
+entry(cəmiyyətdən, zərf, [], "cəmiyyət baxımından").
+entry(cəmiyyət, n, [cəmiyyətlər], "təşkil olunmuş qrup insanCƏMİYYƏTİ adj").
+entry(corab, n, [corablar], "ayaq üçün toxunmuş və ya hörülmüş örtük olan CORAB").
+entry(corab, v, [corabladı, corablayır, corablar], "qüvvətlə vurmaq").
+entry(socket, v, [yuvalanmış,yuvalandırma,yuvalar], "bir şeyi qəbul etmək üçün bir yuva ilə təchiz etmək").
+entry(sockette, n, [sockettes], "çox qısa bir corab").
+entry(sockeye, n, [sockeyes], "bir qida balığı").
+entry(cəliksiz, sif, [], "corabsız olmaq").
+entry(sockman, n, [sockmen], "socman").
+entry(socko, sif, [], "təsiredici dərəcədə heyranedici").
+entry(socle, n, [sokllar], "sütun və ya pjedestal üçün baza kimi istifadə olunan blok").
+entry(socman, n, [socmen], "socager").
+entry(sod, f, [sodlanmış, sodlanan, sodlar], "torf çəmən örtüyü ilə örtmək").
+entry(soda, n, [sodalar], "kimyəvi birləşmə növü").
+entry(sodalist, n, [sodalistlər], "bir sodalitin üzvü").
+entry(sodalit, n, [sodalitlər], "bir mineral").
+entry(sodality, n, [cəmiyyətlər], "bir cəmiyyət").
+entry(sodamid, n, [sodamidler], "kimyəvi bir birləşmə").
+entry(sodded, keçmiş, [], "sodun zamanı").
+entry(sodden, v, [soddened,soddening,soddens], "islatmaq").
+entry(soddenly, adv, [], "islanmış şəkildə").
+entry(soddi, n, [soddlər], "bir torfluq").
+entry(sodding, indiki, [], "sodun feli sifəti").
+giris(soddy, n, [soddies], "torpaqdan tikilmis ev").
+entry(sodium, n, [sodiumlar], "metal element SODİK sif").
+entry(sodom, n, [sodomlar], "əxlaqsızlıq və korrupsiya ilə məşhur olan bir yer").
+entry(sodomise, v, [sodomised,sodomising,sodomises], "sodomizə etmək").
+giris(sodomist, n, [sodomistlər], "sodomit").
+entry(lutçi, n, [lutçilər], "sodomiyaya məşğul olan").
+entry(sodomize, v, [sodomlaşdırdı,sodomlaşdırır,sodomlaşdırır], "ilə livat ilə məşğul olmaq").
+entry(livat, n, [livatlar], "qeyri-təbii yaxınlıq").
+entry(soever, adv, [], "heç də").
+entry(divan, n, [divanlar], "uzun döşənmiş oturacaq").
+entry(divan, n, [divanlar], "yatağa çevrilə bilən divan").
+entry(sofar, n, [sofars], "su altında partlayışların yerini təyin edən sistem").
+entry(soffit, n, [saçaqlar], "memarlıq strukturunun alt tərəfi").
+entry(yumşaq, sifət, [], "ASANLIQLA TƏZYİQƏ TƏSLİM OLAN DAHA YUMŞAQ ƏN YUMŞAQ").
+entry(yumşaq, n, [yumşaqlar], "yumşaq bir obyekt və ya hissə").
+entry(softa, n, [softə], "müsəlman ilahiyyat tələbəsi").
+entry(kağız üzlü, n, [kağız üzüklər], "elastik kağız qabığında bağlanmış bir kitab").
+entry(softbol, n, [softbollar], "bir növ top").
+entry(yumşaq, sif, [], "cinsi aktların təsvirində açıq-aydın olmayan").
+entry(yumşaltmaq, f, [yumşaldı, yumşaldır, yumşaldar], "yumşaq etmək").
+entry(yumşaldıcı, n, [yumşaldıcılar], "yumşaldan bir şey").
+entry(softhead, n, [softheads], "axmaq insan").
+entry(softie, n, [softies], "yumşaq adam").
+entry(yumşaq, pl, [], "yumşağın").
+entry(softish, sifət, [], "qismən yumşaq").
+entry(asta, zaman, [], "yumşaq bir şəkildə").
+entry(yumşaqlıq, n, [yumşaqlıqlar], "yumşaq olma keyfiyyəti və ya vəziyyəti").
+entry(yazılım, n, [yazılımlar], "kompüter əməliyyatlarında istifadə olunan yazılı və ya çap olunmuş məlumat").
+entry(yumuşaq oduncaq, n, [yumuşaq oduncaqlar], "müxtəlif ağacların yumuşaq oduncağı").
+entry(softy, n, [yumşaq ürəklilər], "həssas insan").
+entry(sogged, sif, [], "soggy").
+entry(soggy, sif, [], "NƏM, yaş. Nəmlə dolu. NƏMLİ adv").
+entry(soh, n, [sohs], "sol").
+entry(soigne, sif, [], "ehtiyatla edilən").
+entry(səliqəli, sif, [], "soigne").
+entry(torpaq, v, [çirklənmiş,çirkləndirmək,çirklər], "çirk etmək").
+entry(kötük, n, [kötüklər], "heyvanları yemləmək üçün yaşıl bitkilər").
+entry(torpaqsız, sif, [], "üzvi maddələr qarışdırılmış incə bölünmüş qayalarla həyata keçirilən").
+entry(ləkə, n, [ləkələr], "ləkə və ya iz").
+entry(axşam, n, [axşamlar], "axşam əyləncəsi").
+entry(soya, n, [soyanın], "soya fasulyesi").
+entry(müvəqqəti_yaşamaq, v, [yaşadı, yaşayır, yaşayır], "müvəqqəti olaraq qalmaq").
+entry(soju, n, [sojusk], "düyü və ya şirin kartofdan distillə edilmiş Koreya vədka").
+entry(soke, n, [sokes], "müəyyən bir ərazidə ədaləti təmin etmək hüququ olan feodal hüquq").
+entry(sokeman, n, [sokemen], "socman").
+entry(sokol, n, [sokols], "fiziki sağlamlığı təşviq edən beynəlxalq qrup").
+entry(sol, n, [sol], "diatonik musiqi miqyasının beşinci tonu").
+giris(sola, n, [solas], "Hindistanın bataqlıq bitkisi").
+entry(təsəlli, v, [təsəll etdi,təsəll edir,təsəll edir], "təsəlli vermək").
+entry(solacer, n, [solacers], "təsəlli verən").
+entry(solan, n, [salan], "janavar solan").
+entry(soland, n, [solands], "solan").
+entry(solander, n, [solanderlər], "kitabxana materialları üçün qoruyucu qutu").
+entry(solanin, n, [solaninlər], "solanin").
+entry(solanin, n, [solaninlər], "zəhərli alkaloid").
+giriş(solano, n, [solanos], "güclü isti külək").
+entry(solanum, n, [solanums], "bitki və kollar cinsindən olan hər hansı biri").
+entry(solyarium, n, [solyariumlar], "solyarium").
+entry(solaria, a, [], "solariumun cəmi").
+entry(solarise, f, [solarised,solarising,solarises], "günəşləndirmək").
+entry(solarism, n, [solarisms], "xalq nağıllarının günəşin təbiəti konsepsiyası kimi şərhi").
+entry(solarium, n, [solariumlar], "günəşə məruz qalan otaq").
+entry(solarize, f, [solarized,solarizing,solarizes], "günəş işığına məruz qoymaq").
+entry(solate, f, [solated,solating,solates], "axıcılıq kolloidal sisteminə çevrilmək").
+giriş(solation, n, [solations], "izolyasiya etmə hərəkəti").
+entry(solatium, n, [solatia], "hisslərə dəymiş zərərə görə verilən kompensasiya").
+entry(satıldı, keçmiş, [], "satmaq zaman forması").
+entry(sultan, n, [sultanlar], "müsəlman hökmdarı").
+giriş(birləşdirmək, f, [birləşdirdi,birləşdirir], "yaxından birləşdirmək").
+entry(lövbəy, n, [lövbəylər], "lövbə edən").
+giriş(əsgər, f, [əsgərləşdi,əsgərləşir,əsgərləşər], "hərbi xidmət etmək").
+entry(əsgərlik, n, [əsgərliklər], "hərbi peşə").
+entry(soldo, n, [soldi], "İtaliyanın keçmiş sikkəsi").
+entry(altlıq, v, [altlıqladı, altlıqla, altlıqlar], "ayaqqabı və ya çəkmənin alt səthini altlıqla təmin etmək").
+entry(solecise, v, [solecised, solecising, solecises], "səhv etmək").
+entry(solecism, n, [solecizmlər], "cümlədə qrammatik olmayan söz birləşməsi").
+entry(solecist, n, [solecistlər], "soleçizm edən şəxs").
+entry(solecize, v, [solecized,solecizing,solecizes], "solecizmlərdən istifadə etmək").
+entry(tək, keçmiş, [], "tək zamanın forması").
+entry(solei, a, [], "soleusun cəmi").
+entry(soleless, sif, [], "altı olmayan").
+entry(tək, tərəf, [], "təkcə").
+entry(ciddi, sif, [], "SOLEMNER SOLEMNESTciddiSOLEMNLY zərf").
+entry(soleness, n, [solenesses], "tək olmaq vəziyyəti").
+entry(solenoid, n, [solenoidlər], "bir növ elektrik spiralı").
+entry(solera, n, [soleras], "şərab istehsal etmə İspan üsulu").
+entry(soleret, n, [soleretlər], "solleret").
+entry(soleus, n, [soleuslar], "və ya SOLEIBaldır əzələsi").
+entry(solfecio, n, [solfeciolar], "bir növ oxuma məşqi").
+entr(sofeci, cəm, [], "solfecio").
+entry(solgel, sif, [], "bir kolloid sistemin vəziyyətində bəzi dəyişiklikləri əhatə edən").
+entry(soli, a, [], "solonun cəmi").
+entry(solicit, v, [solicited, soliciting, solicits], "ciddiliklə istəmək").
+entry(bərk, sifət, [], "DƏQİQLƏQ VƏ HƏCMƏ MALİK").
+entry(bərk, n, [bərk maddələr], "bərk maddə").
+entry(solidago, n, [solidagos], "çiçək açan bitki").
+entry(solidar, sif, [], "birleşmiş").
+entry(solidi, pl, [], "solidusun").
+entry(bərkimək, f, [bərkimış,bərkiməkdə,bərkir], "bərk etmək").
+entry(solidity, n, [solidities], "möhkəmliyin keyfiyyəti və ya vəziyyəti").
+entry(solidly, adv, [], "bərk şəkildə").
+entry(solidus, n, [solidi], "qədim Romaya aid pul vahidi").
+entry(soling, indiki, [], "sole felinin feli sifəti").
+giriş(solion, n, [solions], "elektron aşkarlayıcı və gücləndirici cihaz").
+entry(soliquid, n, [soliquids], "mayeləşmiş kolloid sistem").
+entry(tənhalıq, n, [tənhalar], "yalnız yaşayan").
+entry(soliton, n, [solitonlar], "fizikada tək dalğa").
+entry(tənhalıq, n, [tənhalıqlar], "tək olmaq vəziyyəti").
+entry(solleret, n, [sollerets], "sabat").
+giriş(tək, i, [tək]], "və ya SOLI səs və ya alət üçün tək səsli musiqi kompozisiyası").
+entry(solo, v, [soloed,soloing,solos], "təkbaşına ifa etmək").
+entry(solist, n, [solistlər], "solo ifa edən biri").
+entry(solon, n, [solonlar], "ağıllı qanunverici").
+entry(solonets, n, [solonetslər], "solonets").
+entry(solonets, n, [solonetslər], "torpaq növü").
+entry(gündənbahar, n, [gündənbaharlar], "günəşin səmavi ekvatordan ən uzaq məsafədə olduğu ilin vaxtı").
+entry(həllolan, n, [həllolanlar], "həll olan bir şey, həll edilə bilən").
+entry(həllolunan şəkildə, zərf, [], "in a soluble manner").
+giris(solum, n, [solums], "və ya SOLAa torpaq qatı").
+entry(solunar, sif, [], "günəşin və ayın doğma və batma vaxtlarını göstərən").
+entry(solus, sif, [], "tək").
+entry(həll olunan maddə, n, [həll olunan maddələr], "həll olunmuş maddə").
+entry(həll, n, [həllər], "homojen maye qarışığı").
+entry(həll_edilə_bilər, sifət, [], "həll edilə bilən").
+entry(solvatasiya, v, [solvatasiya olunmuş, solvatasiya edən, solvatasiya edir], "ion növünə çevirmək").
+entry(həll_etmək, f, [həll_edilmiş,həll_edir,həll_edər], "cavab və ya izahat tapmaq üçün").
+entry(maliyyə-sabitliyi, i, [maliyyə-sabitlikləri], "bütün borcları ödəmə qabiliyyəti").
+entry(həll_edən_maddə, n, [həll_edən_maddələr], "başqalarını həll etmə qabiliyyətinə malik maddə").
+entry(solver, n, [həll edənlər], "həll edən biri").
+entry(həll_edən, indiki, [], "həll etmək").
+entry(som, n, [somlar], "Qırğızıstanın pul vahidi").
+entry(soma, n, [soma], "və ya SOMATA orqanizmin bədəni SOMATİK adj").
+entry(soman, n, [somanlar], "zəhərli kimyəvi müharibə agenti").
+entry(somber, adj, [], "SOMBERER SOMBERESTqaranlıqSOMBERLY adv").
+entry(sombre, sif, [], "SOMBRER SOMBRESTsomberSOMBRELY zərf").
+entry(sombrero, n, [sombreros], "geniş kənarlı şlyapa").
+entry(sombrous, sif, [], "qəmgin").
+entry(some, sif, [], "naməlum sayda və ya hissədə olmaq").
+entry(kimsə, n, [kimsələr], "vacib bir şəxs").
+giriş(birgün, bağl, [], "gələcəkdə müəyyən bir vaxtda").
+entry(somedeal, adv, [], "qədər bəzi dərəcədə").
+entry(hərhansı, adv, [], "hər hansı vasitələrlə").
+entry(kimisə, n, [kimsələr], "bir kəs").
+entry(somerset, f, [somerseted,somerseting,somersets], "və ya SOMERSETTED SOMERSETTING SOMERSETS bədəni tam bir dairə boyunca başı üstə döndərmək").
+entry(bir_zamanlar, adv, [], "gələcək bir vaxtda").
+entry(someway, adv, [], "necə isə").
+entry(someways, adv, [], "neyinsə yolunu").
+entry(biraz, n, [birazlar], "müəyyən edilməmiş bir sayı və ya hissə").
+entry(nəvaxsa, zərf, [], "nə vaxtsa").
+entry(somewise, zərf, [], "necədirsə").
+entry(somit, n, [somitlər], "bəzi heyvanların bədənin uzununa seqmentiSOMİTAL SOMİTİK sif").
+entry(somoni, n, [somonilər], "Tacikistanın pul vahidi").
+entry(oğul, n, [oğullar], "kişi övlad").
+entry(sonance, n, [sonances], "səs").
+entry(sonant, n, [sonants], "səs tellərinin titrəməsi ilə çıxarılan səs").
+entry(sonar, n, [sonarlar], "su altında yerləşdirmə cihazı").
+entry(sonarman, n, [sonarmen], "sonar avadanlıqlarını idarə edən şəxs").
+entry(sonata, n, [sonatalar], "musiqi kompozisiyasının bir növü").
+entry(sonatina, n, [sonatinalar], "və ya SONATINA qısa sonata").
+entry(sonde, n, [sondelər], "atmosfer hadisələrini müşahidə edən bir cihaz").
+entry(sonder, n, [sonders], "kiçik yaxtaların bir sinfi").
+entry(sone, n, [sone], "səsin yüksəkliyinin vahidi").
+entry(mahnı, n, [mahnılar], "oxumaq üçün yazılmış və ya uyğunlaşdırılmış musiqi kompozisiyası").
+entry(songbird, n, [mahnı quşları], "musiqili səs çıxaran bir quş").
+entry(mahnıkitabı, n, [mahnıkitabları], "mahnılar kitabı").
+entry(songfest, n, [songfests], "qrup halında mahnı oxumaq üçün qeyri-rəsmi yığıncaq").
+entry(songful, sif, [], "ahəngdar").
+entry(songless, adj, [], "oxumaq bacarığı olmayan").
+entry(songlike, sifət, [], "mahnıya bənzəyən").
+entry(songster, n, [mahnıçılar], "müğənni").
+entry(oğulluq, n, [oğulluqlar], "oğul olma vəziyyəti").
+entry(sonik, sif, [], "səs ilə əlaqəli").
+entry(sonikasiyalaşdırmaq, v, [sonikasiyalaşdırdı,sonikasiyalaşdırır,sonikasiyalaşdırır], "səs dalğaları ilə pozmaq").
+entry(sonics, npl, [], "səsin praktik tətbiqləri ilə məşğul olan elm").
+entry(oğulsuz, sif, [], "oğlu olmayan").
+entry(oğlulayiq, sif, [], "oğula bənzəyən").
+entry(sonly, sif, [], "oğula aid olan").
+entry(sonnet, v, [sonneted, sonneting, sonnets], "ya da SONNETTED SONNETTING SONNETS növündə bir şeir olan sonnet yazmaq üçün").
+entry(sonny, n, [sonnies], "balaca oğlan").
+entry(sonobuoy, n, [sonobuoys], "su altı səsləri aşkar edən və ötürən bir gəmi").
+entry(sonoqram, n, [sonoqramlar], "ultrasəs vasitəsilə istehsal olunan şəkil").
+entry(sonorant, n, [sonorants], "bir növ səslənən səda").
+entry(sonority, n, [sonorities], "səslənmə və ya səslənən vəziyyəti").
+entry(səsli, sif, [], "tam və yüksək səslə xarakterizə olunan").
+entry(sonovoks, n, [sonovokslar], "səs effektləri cihazı").
+entry(oğul olmaq, n, [oğullanma], "oğul olmaq vəziyyəti").
+entry(sonsie, sif, [], "SONSIER SONSIESTsonsy").
+entry(sonsy, sif, [], "SONSIER SONSIESTgözəl").
+entry(soochong, n, [soochonglar], "souchong").
+entry(sooey, interj, [], "donuzları çağırmaq üçün istifadə olunur").
+entry(sook, n, [sooklar], "souk").
+entry(tezdən, adv, [], "TEZDƏN DAHA TEZDƏN ən yaxın gələcəkdə TEZLİKƏ adj").
+entry(tezliklə, n, [tezliklilər], "rəsmi məskunlaşma üçün açılmadan əvvəl hökumət torpaqlarına yerləşən şəxs").
+entry(qaralma, v, [qarlanmış,qarlanan,qarlanır], "yanma nəticəsində əmələ gələn qara maddə ilə örtmək").
+entry(sakit, sif, [], "SAKİNLƏŞDİRİCİ ƏN SAKİNLƏŞDİRİCİtrue").
+entry(gerçək, n, [gerçəklər], "həqiqət").
+entry(dinçəlmək, v, [dinçəlmiş,dinçələmə,dinçəlir], "sakit və ya normal vəziyyətə qaytarmaq").
+entry(yatışdırıcı, n, [yatışdırıcılar], "yatışdıran biri").
+entry(doğrusu, adv, [], "həqiqətən").
+entry(fal açmaq, f, [fal açdı,fal açmaqda,fal açır], "proqnoz vermək").
+entry(sooty, sif, [], "SOOTIER SOOTIESTçirk ilə örtülmüşSOOTILY adv").
+entry(sop, v, [sopped,sopping,sops], "bir mayeyə batırmaq və ya islatmaq").
+entry(soph, n, [sophs], "ikinci il tələbəsi").
+entry(sophies, pl, [], "sofiyadan").
+entry(sophism, n, [sofizmlər], "inandırıcı, lakin səhv arqument").
+entry(sophist, n, [sofistlər], "sofizmlərdən istifadə edən biri").
+entry(sopy, i, [sopilər], "Fars hökmdarı").
+entry(sopite, v, [usudu, usudən, usudər], "yatızdırmaq").
+entry(sopor, n, [sopors], "qidalanması çox dərindir").
+entry(sopped, keçmiş, [], "yığmaq felinin keçmiş zamanı").
+entry(sopping, sif, [], "çox yaş").
+entry(soppy, adj, [], "ÇOX YAŞ SOPPILY adv").
+entry(soprano, n, [sopranolar], "ən yüksək oxuyan səs və ya SOPRANO").
+entry(sora, n, [batdaqquşu], "batlaq quşu").
+entry(sorb, v, [sorbed,sorbing,sorbs], "absorbsiya və ya adsorbsiya yolu ilə götürmək və saxlamaqSORBABLE sif").
+entry(sorbat, n, [sorbatlar], "sorbsiya edilmiş maddə").
+entry(sorbent, n, [sorbentlər], "sorbsiya edən maddə").
+entry(sorbet, n, [sorbets], "şərbət").
+entry(sorbic, sifət, [], "müəyyən bir meyvə növü ilə əlaqəli").
+entry(sorbitan, n, [sorbitanlar], "kimyəvi bir birləşmə").
+giris(sorbitol, n, [sorbitollar], "kimyəvi bir birləşmə").
+entry(sorboza, n, [sorbozalar], "şəkər növü").
+entry(cadugər, n, [cadugərlər], "cadugərliklə məşğul olan şəxs").
+entry(sehrbazlıq, n, [sehrbazlıqlar], "fövqəltəbii güclərin iddia edilən istifadəsi").
+entry(sord, n, [sords], "ördək sürüsü").
+entry(sordid, sif, [], "iyrəncsifətSORDIDLY bir").
+entry(sordine, n, [sordines], "musiqi alətinin tonunu zəiflətmək üçün istifadə olunan cihaz").
+entry(sordino, n, [sordini], "sordin").
+entry(sordor, n, [sordors], "iyrənc vəziyyət").
+entry(sore, v, [sored,soring,sores], "atın ayaqlarını xüsusi bir gəziş üçün zədələmək").
+entry(agrılı, sif, [], "DAHA AGRILI ƏN AGRILI toxunuşa qarşı acıqlı şəkildə həssas").
+entry(asabi, n, [asabilər], "asanca qəzəblənən və ya inciyən şəxs").
+entry(sorel, n, [sorels], "şağalama").
+entry(çox acı, zərf, [], "acı bir şəkildə").
+entry(ağrı, n, [ağrılar], "ağrımaq halı və ya vəziyyəti").
+entry(sorer, müqayisəli, [], "of sore").
+entry(sorest, superlative, [], "nəyinsə ən ağrılı olanı").
+entry(sorgho, n, [sorgholar], "sorgo").
+entry(sorgum, n, [sorgumlar], "taxıl ot bitkisi").
+entry(sorqo, n, [sorqos], "sorgum növlərindən biri").
+entry(sorilər, pl, [], "soruların").
+entry(soricine, sif, [], "sürünənlər məməli ailəsinə aid").
+entry(soring, n, [sorings], "atların ön ayaqlarını yüksək qaldırmağa məcbur etmək üçün ağrıdıb gəzdirmə təcrübəsi").
+entry(sorites, n, [sorites], "məntiqdə istifadə olunan arqument növüSORİTİK sif").
+entry(sorn, v, [sorned, sorning, sorns], "başqalarını ərzaq və məskən üçün məcbur etmək").
+entry(sorner, n, [sorners], "özgələrin hesabına yaşayan").
+entry(soroche, n, [soroches], "dağ xəstəliyi").
+entry(sororal, sif, [], "bacıya aid").
+entry(sororat, n, [sororatlar], "bir kişinin adətən mərhum həyat yoldaşının bacısı ilə evliliyi").
+entry(sorority, n, [qızlar cəmiyyətləri], "qadınlar üçün sosial klub").
+entry(sorosis, n, [sorosises], "SOROSESa qadınlar klubu və ya cəmiyyət").
+entry(sorbsiya, n, [sorbsiyalar], "sorbsiya etmə aktı və ya prosesiSORPTIVE sif").
+entry(at qızılı, n, [at qızılları], "qırmızımtıl qəhvəyi rəng").
+entry(sorrier, müqayisəli, [], "sorry-dən").
+entry(sorriest, superlative, [], "təəssüflü olan").
+entry(sorrily, adv, [], "üzgün bir şəkildə").
+giriş(kədər, f, [kədərləndi,kədərlənir,kədərlənir], "kədərlənmək").
+entry(kədərli, n, [kədərlilər], "kədərlənən biri").
+entry(üzr, sifət, [], "DAHA ÜZR DAHA ÜZR DÜNYAINIyada kədər və ya peşmanlıq hissi").
+giriş(sırala, v, [sıralanmış,sıralama,sıralar], "növünə, sinifinə və ya ölçüsünə görə nizamlamaqSORTABLE sifSORTABLY zərf").
+entry(sortal, n, [sortallar], "bir varlığı müəyyən bir növ olaraq təsnif edən termin").
+entry(sorter, n, [sorters], "sıralayan biri").
+entry(sortes, cəm, [], "avtoritetli bir mətnin keçidinin təsadüfi seçimi ilə fala baxma").
+entry(hücum, v, [hücum etdi,hücum edir,hücumlar], "müdafiə mövqeyindən qəflətən hücum etmək").
+entry(sıralama, n, [sıralamalar], "əşyaların qruplara bölünməsi").
+entry(sorus, n, [sori], "bitki çoxalma orqanlarının topası").
+entry(sot, n, [sots], "adi içki düşkünü").
+entry(soth, n, [soths], "həqiqət").
+entry(sotol, n, [sotol], "çiçəkli bitki").
+giriş(sotted, sifət, [], "bərk aşiqSOTTEDLY zərf").
+giriş(sottish, sif, [], "sota bənzəyən").
+entry(sou, n, [sous], "əvvəllər istifadə olunmuş Fransız sikkəsi").
+entry(souari, n, [souaris], "tropik ağac").
+entry(soubise, n, [soubislar], "soğan və yağ sousu").
+entry(soucar, n, [soucars], "Hindu bankiri").
+entry(souchong, n, [souchongs], "Çin çayı").
+entry(soudan, n, [soudans], "soldan").
+entry(sufle, n, [suflelər], "yüngül bişmiş yemək").
+entry(souffled, sif, [], "çırpılıb bişirilməklə şişirdilmiş").
+entry(sough, v, [soughed,soughing,soughs], "inildəmək və ya ah çəkmək səsi çıxarmaq").
+input(sexsi, keçmiş, [], "arama zaman ifadəsi").
+entry(souk, n, [souklar], "şimali Afrika və Yaxın Şərqdə bir bazar yeri").
+entry(soukous, n, [soukouses], "Konqo Demokratik Respublikasında rəqs musiqisi").
+entry(ruh, n, [ruhlar], "insanların mənəvi tərəfi RUHPƏRVƏR RUHSUZ RUHAOXŞAR sif").
+entry(soulful, sif, [], "emosiya ilə dolu").
+giriş(ruh_əyalı, n, [ruh_əyalanları], "bir şəxsin tam uyğun olduğu biri").
+entry(soulster, n, [soulsters], "soul musiqisi ifaçısı").
+entry(səs, sifət, [], "SOUNDER SOUNDESTsağlam və ya yaxşı vəziyyətdə olmaq").
+entry(səs, v, [səsləndi,səslənir,səslənər], "eşitmə reseptorlarını stimullaşdıran bir səs çıxarmaq").
+entry(soundbox, n, [səs qutuları], "musiqi alətində rezonanlı boşluq").
+entry(səsverən, n, [səsverənlər], "səs verən").
+giriş(sounding, n, [soundings], "rəylərin seçməsi").
+entry(soundly, adv, [], "etibarlı bir şəkildə").
+entry(səsçi, n, [səsçilər], "səsin keyfiyyətinə nəzarət edən şəxs").
+entry(soup, v, [souped,souping,soups], "gücünü və ya səmərəliliyini artırmaq üçün").
+entry(soupcon, n, [soupconlar], "kiçik miqdar").
+entry(soupless, sif, [], "şorbasız bərk inqrediyentləri olan maye qida").
+entry(souplike, sifət, [], "şorba kimi").
+entry(soupy, sif, [], "SOUPIER SOUPIESTfoggySOUPILY zərf").
+entry("turş", adj, [], "TURŞ XARİTƏsivə acıya dad").
+entry(turş, f, [turşudu, turşuyur, turşur], "turş etmək və ya turş olmaq").
+entry(sourball, n, [sourballs], "turş konfet").
+entry(mənbə, v, [mənbədən əldə edilmiş, mənbədən əldə etmək, mənbələr], "mənşə nöqtəsindən əldə etmək").
+entry(sourcing, n, [mənbələrdən əldə etmə], "bir şeyi mənşə nöqtəsindən əldə etmə aktı").
+entry(sourdine, n, [sourdines], "sordine").
+giriş(sourgum, n, [sourgumlar], "Şimali Amerikanın şərqindən olan yumşaq ağac").
+entry(turşumsu, sif, [], "bir qədər turş").
+entry(turş-turş, zərf, [], "turş bir şəkildə").
+entry(turşuluq, n, [turşuluqlar], "turş olma keyfiyyəti və ya vəziyyəti").
+entry(turşdodaq, isim, [turşdodaqlar], "bədbin insan").
+entry(qraviola, n, [qraviolalar], "tropik ağac").
+entry(sourwood, n, [sourwoods], "çiçəkli ağac").
+entry(souse, v, [islanmış,isladır,isladır], "bir şeyi maye içində islatmaq").
+entry(souser, n, [sousers], "bir sərxoş").
+entry(suslik, n, [susliklər], "suslik").
+entry(sutaş, n, [sutaşlar], "yastı dar hörmə").
+entry(sutana, n, [sutanalar], "sutana").
+entry(souter, n, [souters], "ayaqqabı ustası").
+giriş(cənub, f, [cənubladı,cənublayır,cənublar], "kompasın əsas nöqtəsi olan cənuba doğru hərəkət etmək").
+entry(cənub, n, [cənublar], "cənubdan gələn külək və ya fırtına").
+giriş(cənub, n, [cənublular], "cənubda yaşayan insan").
+entry(cənuba hərəkət, n, [cənub hərəkətləri], "cənuba yönələn hərəkət").
+entry(cənubpəncəsi, n, [cənubpəncələri], "solaxay insan").
+entry(cənublu, n, [cənublular], "bir cənublu").
+entry(suvenir, n, [suvenirlər], "bir xatirə").
+entry(suvlaki, n, [suvlakis], "yun şiş kebabı").
+entry(sovet, n, [sovetlər], "Kommunist ölkəsində qanunverici orqan").
+entry(sovxoz, n, [sovxozlar], "keçmiş Sovet İttifaqında dövlətə məxsus təsərrüfat").
+entry(sovran, n, [sovranlar], "monarx").
+entry(sovranlıqla, adv, [], "ən yüksək dərəcədə").
+entry(süverenlik, n, [süverenliklər], "monarxiya").
+entry(sow, v, [sowed,sown,sowing], "Əkin, torpağa səpmək üçün toxum kimi böyümək üçün SOWABLE sifət").
+entry(sowans, n, [sowans], "sovens").
+entry(sowar, n, [sowars], "Hindistanda atlı yerli əsgər").
+giriş(sowback, n, [sowbacks], "alçaq qum sırası").
+giriş(sowbelly, n, [sowbellies], "duzda qidalanmış donuz əti").
+entry("Qızılgül", n, ["Qızılgüllər"], "çiçəkli bitki").
+entry(sowbug, n, [sowbugs], "taxta biti").
+entry(soukar, n, [soukars], "sowcar").
+entry(sowens, n, [sowens], "yulaf qabıqlarından hazırlanan sıyıq").
+entry(səpən, n, [səpənlər], "əkən şəxs").
+entry(əkma, n, [əkmalar], "toxumların səpilməsi aktı").
+entry(sown, keçmiş, [], "səpmək feli sifəti").
+entry(sox, a, [], "corabın cəm halı").
+entry(soya, n, [soya], "soya bitkisi").
+giriş(soya, i, [soyas], "soya").
+entry(soya, n, [soya], "mədəni Asiya otunun toxumu").
+entry(soyaunu, n, [soyaunları], "soya toxumlarından yağ çıxarıldıqdan sonra qalan qalığ").
+entry(soya südü, n, [soya süləri], "soya paxlasından hazırlanan süd əvəzedicisi").
+entry(soyuz, n, [soyuzes], "keçmiş Sovet İttifaqının insanlı kosmik gəmisi").
+entry(sozin, n, [sozins], "bir növ protein").
+entry(sozine, n, [sozines], "soz").
+entry(sozzled, sif, [], "sərxoş").
+entry(spa, n, [spa], "mineral bulaq").
+entry(space, v, [aralı, aralanma, aralar], "bəzi məsafəni təyin etmək üçün").
+giriş(spacelab, n, [spacelabs], "laboratoriya ilə təchiz olunmuş kosmik gəmi").
+entry(kosmonavt, n, [kosmonavtlar], "kosmonavt").
+entry(spacer, n, [ara boşluqları], "ara boşluğu qoyan").
+entry(spacey, sif, [], "DAVRANIŞDA ƏCAİB olanlardandır").
+entry(fəzaya aid, sifət, [], "spatial").
+giriş(aralıq, n, [aralıqlar], "hər hansı iki obyekt arasındakı məsafə").
+entry(geniş, sif, [], "geniş və ya bol miqdarda").
+entry(spakl, v, [spakladi, spaklayir, spaklalar], "səthin çatlarını və ya dəliklərini macunla doldurmaq").
+entry(spacy, sif, [], "SPACIER SPACIESTspacey").
+entry(bel, v, [beldi, belməyə, bellər], "qazma aləti ilə torpağı belləmək").
+entry(lopatdolu, n, [lopatdolular], "lapatanın tuta biləcəyi qədər").
+entry(spader, n, [spaders], "bələn edən biri").
+entry(spadices, pl, [], "spadixin").
+entry(spadille, n, [spadilles], "bəzi kart oyunlarında ən yüksək kozır").
+entry(spading, indiki, [], "spade-in əmcəyi").
+entry(spadix, n, [spadikslər], "və ya SPADICES çiçək qrupudur").
+entry(spado, n, [spadones], "hadım edilmiş kişi və ya heyvan").
+entry(spae, v, [spaed,spaeing,spaes], "əvvəlcədən demək").
+entry(spaeing, n, [spaeings], "öncədən xəbər vermək əməli").
+entry(spaetzle, n, [spaetzles], "kiçik un məmulatı").
+entry(spagyric, n, [spagyrics], "kimyada mahir olan şəxs").
+entry(spahee, n, [spahilər], "spahi").
+entry(spahi, n, [spahilər], "Türk süvarisi").
+entry(spail, n, [spailer], "spale").
+entry(spait, n, [spaits], "bol").
+entry(spake, a, [], "speak-in keçmiş zamanı").
+entry(spaldeen, n, [spaldeenlər], "kiçik içiboş rezin top").
+entry(spale, n, [spales], "qırıntı və ya qırıntı").
+entry(spall, v, [spalled,spalling,spalls], "parçalamaq").
+entry(spaller, n, [spallers], "sındıran biri").
+entry(spalling, n, [spallings], "daş və ya filiz çipi").
+entry(spalpeen, n, [spalpeenlər], "bir hiyləgər").
+entry(spalted, sifət, [], "göbələk çürüməsindən qaynaqlanan nizamsız xətləri olan ağacı ifadə edən").
+entry(spam, f, [spammed, spamming, spams], "bir çox ünvana lazımsız e-poçt göndərmək").
+entry(spambot, n, [spambotlar], "istənməyən elektron poçt göndərən kompüter proqramı").
+entry(spammer, n, [spammerlər], "spamer olan").
+entry(spamming, n, [spammings], "istənilməyən elektron poçtu göndərmə təcrübəsi").
+entry(span, v, [əhata etdi, əhatə edən, əhatə edir], "üzərinə və ya qarşısına uzanmaq").
+entry(spancel, v, [spanceled,spanceling,spancels], "və ya SPANCELLED SPANCELLING SPANCELS bir ip ilə bağlamaq və ya qandallamaq").
+entry(spandex, n, [spandexlər], "süni elastik lifSPANDEXLİ sıf").
+entry(spandrel, n, [spandrels], "iki qonşu tağ arasında qalan boşluq").
+entry(spandril, n, [spandrillər], "spandr").
+entry(spang, adv, [], "birbaşa").
+entry(par-par, v, [par-parlı,par-parlayan,par-parlar], "par-par olan parlaq metal hissələri ilə bəzəmək").
+entry(spangly, sif, [], "SPANGLIER SPANGLIEST bəzəkli").
+entry(spaniel, n, [spaniellər], "ipək tüklü bir it").
+entry(spank, v, [spanked,spanking,spanks], "kalçaya şillə vurmaq").
+entry(spanker, n, [qamçılar], "qamçılayan").
+entry(sillələmə, n, [sillələmələr], "sillələyən birinin hərəkəti").
+entry(spanless, adj, [], "heç bir ölçüsü olmayan").
+entry(spanned, keçmiş, [], "span feldinin keçmiş zamanı").
+entry(uzatıcı, n, [uzatıcılar], "uzadan biri").
+giriş(spanning, indiki, [], "span-in iştirakçısı").
+entry(spanworm, n, [spanworms], "bir ölçüqurdu").
+giris(spar, v, [döyüşdü,döyüşür,döyüşlər], "takım halatlarını dəstəkləmək üçün istifadə olunan möhkəm dirəklərlə təmin etmək").
+entry(sparable, n, [sparables], "mismar növü").
+girdi(ehtiyat, sifət, [], "ƏN EHTİYATLI İNCƏEHTİYATLA adv").
+entry(ehtiyat, v, [ehtiyat etdi,ehtiyat edir,ehtiyatlar], "cəza verməkdən, zərər verməkdən və ya məhv etməkdən çəkinmək").
+entry(sparer, n, [sparers], "ehtiyat edən").
+entry(sparerib, n, [donuz qabırğası], "donuz ətinin bir hissəsi").
+entry(səpələmək, f, [səpələdi,səpələyir,səpələyir], "üstünə səpmək").
+entry(sparger, n, [spargerlər], "sparger edənlərdən biri").
+entry(sparid, n, [sparidlər], "dəniz balıqları ailəsinə aid hər hansı bir balıq").
+entry(sparing, indiki, [], "spare-in feli sifəti").
+entry(spark, v, [çıxarmaq, çıxaran, çıxarır], "xırda alovlu hissəciklər yaymaq").
+entry(sparker, n, [sparkerlər], "qarışdırıcı bir şey").
+entry(sparkier, müqayisəli, [], "cilalanmış").
+entry(sparkiest, superlative, [], "sparky-nin").
+entry(sparkily, zərf, [], "canlı şəkildə").
+entry(sparkish, sif, [], "şən").
+entry(pırıldamaq, v, [pırıldadı,pırıldayan,pırıldayır], "işıq parıltıları vermək və ya əks etdirmək").
+giriş(parlayan, n, [parlayanlar], "parlayan bir şey").
+giriş(sparklet, n, [sparklets], "kiçik qığılcım").
+entry(sparkly, sif, [], "PARILTILI PARILTILİ Çox parıldayan").
+entry(sparky, adj, [], "SPARKLI, EN SPARKLIhəyat dolu").
+entry(sparlike, sif, [], "spar kimi bənzəyən").
+entry(sparling, n, [sparlings], "gənc siyənək").
+entry(sparoid, n, [sparoids], "bir sparid").
+entry(sparred, keçmiş, [], "qarşılaşmanın keçmiş zaman forması").
+entry(sparring, indiki, [], "sparın participle forması").
+entry(sərçə, n, [sərçələr], "kiçik bir quş").
+entry(sparry, sif, [], "SPARRIER SPARRIEST parıltılı bir mineral olan spara bənzəyir").
+entry(seyrək, sifət, [], "SEYRƏK SEYRƏYƏN nazik yayılmışSEYRƏK ADJ").
+entry(drəklik, n, [drəliklər], "sıx olmama keyfiyyəti və ya vəziyyəti").
+entry(spartan, sif, [], "lüksdən və rahatlıqdan qaçan").
+entry(spartina, n, [spartina otağı], "piyada çəmənliyində böyüyən sahil ərazilərinə xas bir ot növü").
+entry(spazm, v, [spazma oldu, spazma olma, spazmalar], "istəksiz əzələ yığılması yaşamaq").
+entry(spastik, n, [spastiklər], "əzələ spazmı ilə iflicdən əziyyət çəkən biri").
+entry(spat, v, [spatted,spatting,spats], "yüngül vurmaq").
+entry(freska, n, [freskalar], "axar").
+entry(spathe, n, [spathes], "bəzi bitkilərin yarpaqbənzər orqanıSPATHAL SPATHED SPATHOSE sif").
+entry(spatik, sif, [], "spars").
+entry(məkan, sif, [], "məkanla əlaqəli").
+entry(spatted, keçmiş, [], "spat felinin keçmiş zaman forması").
+entry(spatter, v, [sıçradı, sıçramış, sıçrayır], "damcılarda səpmək").
+entry(spatting, indiki, [], "spatın feli sifəti").
+entry(spatula, n, [spatulas], "qarışdırıcı alətSPATULAR sifət").
+entry(spatzle, n, [spatzles], "şpatzle").
+entry(spavie, n, [spavies], "spavinSPAVIET sıf").
+entry(spavin, n, [spavins], "atlarin bir xəstəliyiSPAVINED sif").
+entry(yumurtlama, v, [yumurtladı,yumurtlayan,yumurtlayır], "yumurtaları qoymaq").
+entry(spawner, n, [spawners], "törədən biri").
+entry(spay, f, [spayed,spaying,spays], "yumurtalıqları çıxarmaq üçün").
+entry(danışmaq, v, [danışdı,danışılmış,danışır], "KONUŞmaq üçün sözləri çıxarmaq").
+speaker(n, [dinləyicilər], "danışan biri").
+giriş(danışma, i, [danışmalar], "nitq və ya çıxış").
+entry(spean, v, [speaned,speaning,speans], "süddən kəsmək").
+entry(nizə, f, [nizələdi,nizələyir,nizələr], "uzun uclu silahla nizə ilə dəşmək").
+spearer(daxil, n, [spearers], "çəpik atan").
+entry(zıpkın, n, [zıpkınlar], "mizraq atan bir tüfəng").
+entry("nizə ilə deşmək", n, ["nizə ilə deşmələr"], "nizə ilə deşmək hərəkəti").
+entry(spearman, n, [nizəli əsgərlər], "nizə ilə silahlanmış şəxs").
+entry(spec, v, [spesifikləşdirilmiş, spesifikasiya edən, spesifikasiya edir], "spesifikasiyalar yazmaq").
+entry(xüsusi, sifət, [], "XÜSUSİSİ XÜSUSİSİNən xüsusi və ya xarakterli").
+entry(xüsusi, n, [xüsusilər], "xüsusi bir şəxs və ya şey").
+entry(spesiasiya, f, [spesiasiyalaşdı, spesiasiyalaşır, spesiasiyalaşır], "evolusiya prosesi keçmək").
+entry(növ, n, [növlər], "zərb olunmuş pul").
+giriş(xüsusi, i, [xüsusiyyətlər], "müəyyən bir xəstəlik üçün nəzərdə tutulmuş bir vasitə").
+entry(açıqlamaq, v, [açıqladı, açıqlayır, açıqlayır], "ətraflı şəkildə bəyan etmək").
+entry(nümunə, n, [nümunələr], "bir qrupun və ya bütövün bir hissəsi və ya fərdi nümayəndəsi").
+entry(müxtəlif, sifət, [], "həqiqət və ya orijinallıq görünüşündən məhrum olan").
+entry(spes, v, [speslədi, spesləyir, spesləyəcək], "kiçik ləkələrlə işarələmək").
+entry(speckle, v, [ləkəli,ləkələmə,ləkələr], "ləkə qoymaq").
+entry(specky, sifət, [], "KİÇİK LƏKLƏRƏ MALİK OLAN").
+entry(izləmək, v, [izlədi, izləyir, izləyər], "iştirak edib izləmək").
+entry(spektr, n, [spektrlər], "görünən cismə malik olmayan ruh").
+entry(spektrlər, a, [], "spektrumun cəmi").
+entry(spectral, sifət, [], "xəyali varlığa bənzəyən").
+entry(spectre, n, [spektrlər], "spektr").
+entry(spektr, n, [spektrlər], "işıq dalğasının komponentlərinin arrayı").
+entry(speculum, n, [spekulumlar], "və ya SPECULA tibb aləti SPEKULAR adj").
+entry(danışıq, n, [danışıqlar], "danışmaq qabiliyyəti və ya aktı").
+entry(sürət, v, [sürətləndi,sürətləndirmə,sürətlər], "tez hərəkət etmək").
+entry(sürət həvəskarı, n, [sürət həvəskarları], "sürət edən biri").
+entry(speedier, müqayisəli, [], "tez olan").
+entry(speediest, superlative, [], "sürətli olanın").
+entry(sürətlə, adv, [], "sürətli bir şəkildə").
+entry(sürət həddini aşmaq, n, [sürət həddini aşmalar], "qanunun icazə verdiyindən daha sürətli sürmə aktı").
+entry(speedo, n, [sürətölçənlər], "sürətölçən").
+entry(speedup, n, [sürətlənmələr], "ödəmənin artırılmadan istehsalın sürətlənməsi").
+entry(sürət yolu, i, [sürət yolları], "sürətli səyahət üçün nəzərdə tutulmuş bir yol").
+entry(sürətli, adj, [], "SÜRƏTLİ DAHA SÜRƏTLİ ƏN SÜRƏTLİ").
+entry(speel, v, [speeled,speeling,speels], "tırmanmaq").
+giriş(speer, f, [speerdi, speerləməkdə, speerlər], "sorğulamaq").
+entry(sual, n, [suallar], "sorğu").
+entry(speil, v, [speiled,speiling,speils], "yükəkdən yıxılmaq").
+giriş(speir, f, [speired,speiring,speirs], "soruşturmaq").
+girdi(speise, n, [speises], "speiss").
+entry(speiss, n, [speisses], "müəyyən filizləri əridərkən əldə edilən metal qarışığı").
+entry(spelaean, sif, [], "spelean").
+entry(spelean, sif, [], "mağaralarda yaşayan").
+entry(sehir, v, [sehr etdi,sehr edir,sehr edərlər], "hərfər və ya hərfləri ardıcıl olaraq adlandırmaq və ya yazmaq").
+entry(hərfə-hərfə yazan, n, [hərfə-hərfələr], "sözləri hərflərlə yazan biri").
+entry(yazılış, n, [yazılışlar], "bir sözü təşkil edən hərflər ardıcıllığı").
+entry(tritikale, n, [tritikallar], "buğdanın bir növü").
+entry(spelter, n, [spelters], "ingot şəklində sink").
+entry(speltz, n, [speltzes], "təmiz yazılış").
+entry(spelunk, v, [spelunked, spelunking, spelunks], "mağaraları araşdırmaq").
+entry(spence, n, [spences], "mətbəx anbarı").
+entry(spenser, n, [spenserlər], "üçbucaq yelkən").
+entry(xərcləmək, f, [xərclədi,xərcləyir,xərcləyir], "pul ödəmək").
+entry(spender, n, [spenderlər], "xərcləyən biri").
+entry(spendy, sif, [], "SPENDIER SPENDIESTbahalı").
+entry(spense, n, [spenses], "spens").
+entry(spent, keçmiş, [], "xərcləmək feilinin zaman forması").
+entry(sperma, n, [spermalar], "erkək gametSPERMIC sif").
+entry(sperma, n, [spermalar], "spermlərin əmələ gəldiyi orqan").
+entry(spermin, n, [sperminlər], "kimyəvi bir birləşmə").
+entry(spermous, sif, [], "spermalara bənzəyən və ya spermalardan ibarət olan").
+entry(kusmaq, v, [kustu,kusmaqda,kusur], "qusmaq").
+entry(qusmaq, n, [qusmaqlar], "qusma əməliyyatı edən biri").
+entry(sfaqnum, n, [sfaqnumlar], "boz rəngli mamır").
+entry(sfen, n, [sfenlər], "bir mineral").
+giriş(sphenic, sifət, [], "pazşəkilli").
+entry(sfenoyid, n, [sfenoyidlər], "kəllə sümüyü").
+entry(spheral, adj, [], "kürəyə aid olan, kürə formasında olan").
+entry(kürə, v, [kürələndi, kürələnir, kürələr], "coğrafi möhkəmlik növü olan bir kürəyə çevirmək").
+entry(spheric, adj, [], "sferik").
+entry(spherics, cəm, [], "kürə səthindəki fiqurların həndəsəsi").
+entry(spherier, comparative, [], "sferamsı").
+entry(spheriest, üstünlük dərəcəsi, [], "sferanın").
+entry(sphering, indiki, [], "sfera ilə bağlı feilin iştirak forması").
+entry(sferoid, n, [sferoidlər], "bir növ həndəsi bərk cisim").
+entry(sferul, n, [sferullar], "kiçik bir sfera").
+entry(sphery, adj, [], "sferaya bənzəyən SPHERIER SPHERIEST").
+entry(sphinges, a, [], "sfenkslərin cəm halı").
+entry(sphingid, n, [sphingids], "quyruquzun güvəsi").
+entry(sfenks, n, [sfenkslər], "Misir mifologiyasında bir canavar").
+entry(sfigmus, n, [sfigmuslar], "nəbz").
+entry(sfenks, n, [sfenkslər], "tüklü olmayan pişik cinsindən olan pişik").
+entry(spica, n, [spicas], "və ya SPICAE bir taxıl sünbülüSPICATE SPICATED sifət").
+entry(spiccato, n, [spiccatos], "simli musiqi aləti çalma üsulu").
+entry(ədviyyat, f, [ədviyyatlı, ədviyyatlama, ədviyyatlar], "aromatik bir tərəvəz maddəsi ilə ədviyyatlamaq").
+entry(spicer, n, [spicers], "ədviyyə əlavə edən").
+entry(ədviyyat, n, [ədviyyatlar], "ədviyyatlı keyfiyyət").
+entry(spicey, sif, [], "SPICIER SPICIESTspicy").
+entry("ədviyyatlı", müqayisəli, [], "ədviyyatlı").
+entry(spiciest, superlative, [], "ədviyyatlı").
+entry(ədviyyatlı, zərf, [], "ədviyyatlı şəkildə").
+entry(spicing, indiki, [], "spice feilinin iştirakçısı").
+entry(spikula, n, [spikulae], "spikulaSPİKULAR sif").
+entry(spikul, n, [spikullar], "iynəyə bənzər quruluş").
+entry(spiculum, n, [spicula], "spikul").
+entry(acı, sifət, [], "ƏDVƏN AZ ƏDVƏN İSTƏNƏNLƏ ünlü ədviyyat tərkibi").
+entry(hörümçək, v, [hörümçəkdi,hörümçəkdir,hörümçəklər], "xışıltı ilə hərəkət etmək").
+giriş(örnək, sifət, [], "ÖRNƏK ÖRNƏKTİR örnəyə bənzəyən bir cür örümcek").
+entry(spied, keçmiş, [], "casusluq etmək felinin keçmiş zamanda forması").
+entry(spiegel, n, [spiegels], "bir növ tökmə dəmir").
+entry(spiel, v, [spieled,spieling,spiels], "uzun-uzadı danışmaq").
+entry(spieler, n, [spielers], "oyun oynayan").
+entry(spier, v, [spiered,spiering,spiers], "sorgu etmək").
+giriş(casuslar, indiki, [], "casusun 3-cü şəxs tək halı").
+entry(spiff, v, [bəzədi,bəzəyir,bəzəyir], "bəzəkli etmək üçün").
+entry(spiffing, sif, [], "spiffy").
+entry(səliqəli, v, [səliqələndi,səliqələndirmək,səliqələndirir], "zövqlü etmək").
+entry(spiffy, sif, [], "DAHA STİL DAHA STİLLİ stilSTİLLİK adv").
+entry(musluk, n, [musluklar], "bir kran").
+entry(spike, f, [çaxdı,çaxmaqdır,çaxır], "uzun, qalın mıxla bərkidmək").
+entry(spikelet, n, [spikelets], "çiçək qrupu növü").
+entry(spiker, n, [spikerlər], "divar çəxən").
+entry(spikey, sif, [], "SPIKIER SPIKIESTspiky").
+entry(spiking, indiki, [], "spike-in participi").
+giriş(tikanlı, sif, [], "DAHATİKANLI ƏNTİKANLI tikanabənzər TİKANLICA zərf").
+entry(spile, v, [spiled,spiling,spiles], "taxta tıxac ilə bağlamaq").
+entry(spilikin, n, [spilikins], "oyunda istifadə olunan taxta parçası").
+entry(spiling, n, [spilings], "bir təbəqə").
+entry(spilit, n, [spilitlər], "bazaltın bir formasıSPİLİTİK sif").
+entry(sızmaq, v, [sızdı, sızma, sızır], "bir qabdan çıxmasına səbəb olmaq").
+entry(dağılma, n, [dağılmalar], "dağılan bir şey").
+entry(spiller, n, [dağıdıcı], "tökən biri").
+entry(su boşaltma kanalı, n, [su boşaltma kanalları], "rezervuarda artı su üçün kanal").
+entry(spilt, a, [], "spill-in keçmiş zamanı").
+entry(spilth, n, [spilths], "dağılma").
+entry(spin, v, [spun,spinning,spins], "sıxaraq uzatmaq və iplərə çevirmək").
+entry(ispanaq, n, [ispanaqlar], "yetişdirilən bir öt ispanaqlı sıf").
+entry(ispanaq, n, [ispanaqlar], "ispanaq").
+entry(onurğa, n, [onurğalar], "onurğa beyninə anestetik inyeksiya").
+entry(spinally, adv, [], "onurğa ilə əlaqədar").
+entry(spinate, sifət, [], "tikanlı").
+entry(mil, v, [milled, millemek, millər], "nazik çubuğa sancmaq").
+entry(spindler, n, [spindlers], "məftil düzəldən").
+entry(spindly, sif, [], "UZUNDANIN İNCƏSİ").
+entry(onurğa, n, [onurğalar], "vertebral sütunSPINED sifət").
+entry(spinel, n, [spinelər], "bir mineral").
+entry(spinel, n, [spinellər], "spinel").
+entry(spinet, n, [spinets], "kiçik piano").
+entry(spinier, müqayisəli, [], "of spiny").
+entry(spiniest, superlative, [], "spiny-nin").
+entry(spinifeks, n, [spinifekslər], "Avstraliya otu").
+entry(spinless, sif, [], "fırlanması olmayan").
+entry(fırladıcı, n, [fırladıcılar], "fırladan birisi").
+entry(əyirici_fabrik, n, [əyirici_fabriklər], "fırlanma fabriki").
+giriş(spinney, n, [spinneys], "bir çalı").
+entry(fırlatma, n, [fırlatmalar], "birinin fırlatması əməli").
+entry(spinny, n, [spinnies], "çəyirtkə").
+entry(spinny, sif, [], "FIRLANAN ƏN FIRLANANdəlisov ağılsız").
+entry(spinoff, n, [spinoffs], "yeni tətbiq və ya təsadüfi nəticə").
+entry(spinor, n, [spino\-rlar], "riyazi vektor növü").
+entry(spinose, adj, [], "tikani").
+entry(spinous, sifət, [], "tikanlı").
+entry(spinout, n, [spinouts], "avtomobilin fırlanıqlı sürüşməsi").
+entry(subay_qadin, n, [subay_qadinlar], "evlənmək üçün adətən olan yaşı ötən evlənməmiş qadın").
+entry(spinto, n, [spintos], "həm lirik, həm də dramatik olan bir oxuma səsi").
+giris(spinula, n, [spinulae], "balaca ox").
+entry(spinule, n, [spinules], "kiçik tikan").
+entry(tikanlı, sif, [], "TİKANLISI TİKANLƏRİöz tikanları olan və ya tikanlarla örtülmüş").
+entry(spiracle, n, [ilbizlər], "nəfəs alma prosesi baş verən deşik").
+entry(spiraea, n, [spiraeas], "peyğəmbərosa").
+giriş(spiral, v, [spiral etdi,spiral edir,spirallar], "və ya SPIRALLED SPIRALLING SPIRALS spiral kimi hərəkət edən bir növ təyyarə əyrisi").
+entry(spirally, adv, [], "spiral şəklində").
+entry(spirant, n, [spirants], "dar bir keçiddən nəfəsin zorla çıxarılması ilə yaranan danışıq səsi").
+entry(spire, f, [spired, spiring, spires], "konik formada yüksəlmək").
+entry(spirea, n, [spireas], "çiçəklənən bir kol").
+entry(spirem, n, [spiremlər], "spiremə").
+entry(spireme, n, [spiremler], "mitoz zamanı hüceyrə nüvəsinin bir hissəsini əmələ gətirən filament").
+entry(spirier, müqayisəli, [], "spiry-nin").
+entry(spiriest, superlative, [], "spirlər arasında ən uca").
+entry(spirilla, npl, [], "spiral formalı aerob bakteriyalar").
+entry(spiring, indiki, [], "spire feli səbəbli").
+entry(ruh, v, [ruhlandıran,ruhlanma,ruhlar], "gizli şəkildə aparmaq").
+entry(spiritus, n, [spiritus], "ruh").
+entry(spiroid, sif, [], "spirala bənzər").
+entry(spirt, f, [spirted,spirting,spirts], "fəvvarə vurmaq").
+entry(spirula, n, [spirula], "və ya SPIRULAE spiral qabıqlı molyusk").
+entry(spiry, sifət, [], "ZÖVFƏLİ, ZÖVFƏLƏR, HÜNDÜR, İNCƏ VƏ UCLU").
+entry(tükrük, v, [tükrüldü, tükrməkdə, tükrür], "eti döndərmək üçün şişin üstünə keçirmək").
+entry(xəstəxana, n, [xəstəxanalar], "hospital").
+entry(tüpürcək, n, [tüpürcəklər], "beysbol oyununda bir növ atış").
+entry(qəsdən, v, [qəsdən etdi,qəsdən etmə,qəsdən edir], "kinlə davranmaq").
+entry(qərəzli, sif, [], "DAHA QƏRƏZLİ ƏN QƏRƏZLİqərəzli").
+entry(spitfire, n, [spitfirelər], "çox tez hirslənən insan").
+entry(tüpürdü, keçmiş, [], "tüpürmək felinin zamanı").
+giriş(tüpürən, n, [tüpürənlər], "bir tüpürcək topu").
+giriş(tüpürmək, indiki, [], "tüprmək feilinin participi").
+entry(spittle, n, [spittles], "tüpürcəkSPITTLY sif").
+entry(tüpürcəkqabı, n, [tüpürcəkqabları], "tüpürcək üçün qab").
+entry(spitty, sifət, [], "TÜPÜRÜKLÜ TÜPÜRÜKLÜDÜRtüpürcək ilə işarələnmiş").
+entry(spitz, n, [spitzes], "qalın tük örtüyünə malik bir it").
+entry(spiv, n, [spivs], "vicdansız xırda cinayətkarSPIVVISH sif").
+entry(spivvy, sif, [], "SPIVVIER SPIVVIEST geyimində və ya davranışında bir spivə bənzəmək").
+entry(splake, n, [splake], "təzə su balığı").
+giriş(sıçratmaq, f, [sıçratdı,sıçratmaqda,sıçradır], "mayeni ətrafa tökmək").
+entry(splasher, n, [splashers], "çilən məşğul olan").
+entry(splashy, sif, [], "SPLASHIER SPLASHIESTtəsiredici").
+entry(splat, v, [splatlanmış,splatlayan,splatlar], "zərbə nəticəsində yastılanmaq").
+entry(sıçratmaq, f, [sıçratdı, sıçrayan, sıçradır], "səpələmək").
+entry(splay, v, [splayed,splaying,splays], "yaymaq").
+entry(dalaq, n, [dalaqlar], "bədənin borusuz orqanı").
+entry(spleeny, sif, [], "SPLEENIER SPLEENIESTpeevish").
+entry(möhtəşəm, sif, [], "MÖHTƏŞƏMLİ MÖHTƏŞƏMİNciə möhtəşəm").
+entry(ecaz, n, [ecazlar], "mühteşemlik").
+entry(splenial, sif, [], "splenius ilə əlaqəli").
+entry(dalağa_aid, sif, [], "dalağa aid").
+entry(splenium, n, [splenia], "və ya SPLENIUMCIcerrahi sarğı").
+entry(splenius, n, [splenii], "boyun əzələsi").
+entry(splent, n, [splents], "şina").
+giris(birləsdir, v, [birləşdi,birləşdirir,birləşdirir], "ucda birləşdirmək üçün").
+entry(birləsdirici, n, [birləsdiricilər], "birləsdirənlərdən biri").
+entry(spliff, n, [spliffler], "marixuana siqareti").
+entry(spline, v, [splined,splining,splines], "iki fırlanan mexaniki hissəni birləşdirən açar ilə spline təmin etmək").
+entry(splint, v, [splinted,splinting,splints], "nazik bir ağac parçası ilə breketlemek üçün").
+entry(tir-tozu, f, [tir-toz, tir-tozur, tir-tozlar], "iti incə hissələrə parçalanmaq").
+entry(split, v, [ayırmaq,ayırır,ayırmalar], "uzununa ayırmaq").
+giriş(splitter, n, [splitters], "bölən biri").
+splodge_giris(v, [splodged,splodging,splodges], "ləpələnmiş").
+giris(splodgy, sif, [], "SPLODGIER SPLODGIESTsplotchy").
+entry(splore, n, [splores], "karusel").
+entry(splosh, v, [çırpındı, çırpınma, çırpınır], "çırpınmaq").
+giriş(splotch, f, [ləkələnmiş,ləkələmə,ləkələr], "böyük nizamsız ləkələrlə işarələmək").
+entry(splotchy, adj, [], "DƏRİNLİ DƏRİNLƏR").
+entry(səpələmək, f, [səpələdi,səpələyir,səpələyir], "pulun səxavətlə xərclənməsi").
+entry(splurger, n, [splurgerlər], "çəki bilən").
+entry(splurgy, sif, [], "SPLURGIER SPLURGIESTçox xərcləmək meyilli").
+entry(splurt, v, [fışqırdı,fışqırma,fışqırır], "bir axın və ya şırnaq şəklində daşmaq").
+entry(splutter, v, [danışdı, danışmaqda, danışır], "tez və çaşqarışıq danışmaq").
+entry(spode, n, [spodes], "incə çini").
+entry(spodosol, n, [spodosollar], "turş meşə torpağı").
+entry(əz, v, [əzdi,əzən,əzi], "dəyərini və ya keyfiyyətini pozmaq üçün").
+entry(tələfat, n, [tələfatlar], "korlanmış və ya israf edilmiş bir şey").
+entry(spoiler, n, [spoilers], "korlayan biri").
+entry(spoke, v, [spoked,spoking,spokes], "təkərin çarxını dəstəkləyən çubuqlarla təmin etmək").
+söz_forması(danışıb, keçmiş, [], "danışmaq felinin keçmiş zamanın fərzi dərzi").
+entry(talamaq, v, [taladı,talayır,talar], "talamaq").
+entry(spondaik, n, [spondaiklər], "bir spondey").
+entry(spondee, n, [spondees], "metr ayağı növü").
+entry(süngər, v, [], "SÜNGƏRLƏDİ SÜNGƏRLƏYİR və ya SÜNGƏRLƏYİR SÜNGƏRLƏR udma materialından bir çoxluqla silmək").
+entry(süngərçi, n, [süngərçilər], "süngərlə məşğul olan şəxs").
+entry(spongier, müqayisəli, [], "süngərə bənzər").
+entry(spongiest, superlative, [], "spongy-nin").
+entry(spongimsi, zərf, [], "spongimsi şəkildə").
+entry(spongin, n, [spongins], "lifli material").
+entry(sponging, indiki, [], "süngərin indiki zaman feli sifəti").
+entry(spongy, sif, [], "SPONGIER SPONGIESTsüngərə bənzəyən").
+entry(sponsal, sif, [], "evliliyə aid").
+entry(sponsion, n, [sponsiyalar], "sponsorluq etmək aktı").
+entry(sponson, n, [sponsonlar], "gəminin yanından çıxıntı").
+entry(sponsor, v, [sponsorluq etdi,sponsorluq edir,sponsorlar], "özünü məsuliyyətə cəlb etmək").
+entry(spontoon, n, [spontoonlar], "nizə kimi bir silah").
+entry(ələ salmaq, v, [ələ saldı, ələ salır, ələ salar], "əyləncəli şəkildə rişxənd etmək").
+entry(spoofer, n, [spoofers], "saxtalaşdıran biri").
+entry(spoofery, n, [spooferies], "zarafatla edilən istehza").
+entry(spoofy, sif, [], "yumoristik satirik").
+entry(spook, f, [spooked,spooking,spooks], "qorxutmaq").
+entry(spookery, n, [spookeries], "qorxulu bir şey").
+entry(spookish, sifət, [], "qorxulu").
+giriş(spooky, sif, [], "SPOOKIER SPOOKIESTqorxuluSPOOKILY zərf").
+entry(bobin, v, [bobinlədi,bobinləyir,bobinlər], "kiçik bir silindr üzərinə sarımaq").
+entry(spooler, n, [spoolers], "çəkən biri").
+entry(spooling, n, [spoolings], "datanın daha sonra çıxışı üçün müvəqqəti saxlanması").
+entry(qaşıq, v, [qaşıqladı, qaşıqlama, qaşıqlar], "yemək qabı kimi qaşıqla götürmək").
+entry(spooner, n, [spooners], "aşiqcəsinə davranan biri").
+entry(spooney, sif, [], "SPOONIER SPOONIESTspoony").
+entry(spooney, n, [spooneys], "bir qaşıq").
+entry(spoonful, n, [spoonfuls], "və ya SPOONSFULbir qaşığın tuta biləcəyi qədər").
+qaibqayırmalı_giry, a, [], "qaşıq-dolanacaq pl".
+entry(spoony, sif, [], "DAHA SPOONI DƏN ÇOX SENTİMENTAL SPOONILI z").
+entry(qabilli, n, [qabillilər], "qabilliləşmiş şəxs").
+entry(spoor, f, [izlədi, izləyir, izlər], "heyvanı izləmək").
+entry(spoorer, n, [spoorers], "izləri izləyən biri").
+entry(arasıra, sifət, [], "qeyri-müntəzəm intervallarda baş verən").
+entry(sporal, sifət, [], "spor və ya onunla əlaqəli və ya ona bənzəyən").
+entry(spor, v, [sporlu,sporlaşma,sporlar], "adətən cinsi olmayan təkhüceyrəli çoxalma cisimləri olan sporlar istehsal etmək").
+entry(sporoid, sif, [], "spor kimi").
+entry(sporozoa, npl, [], "parazitar təkhüceyrəli heyvanlar").
+entry(sporran, n, [sporrans], "Šotlandiya dağlıları tərəfindən taxılan böyük pul kisəsi").
+entry(idman, v, [idman_etdi,idman_edir,idman_eder], "əylənmək").
+entry(sporter, n, [idmançılar], "idman edən biri").
+entry(sportful, sifət, [], "sportiv").
+entry(idmançı, i, [idmançılar], "fiziki yarışlarda fəal olan və ya maraqlanan şəxs").
+entry(oyunçul, sifət, [], "oyunbaz").
+giriş(idmançı, sif, [], "İDMANÇI idmançılar GÖRÜNƏŞli İDMANLIq adv").
+entry(sporule, n, [sporulalar], "kiçik bir sporaSPORULAR sif").
+entry(ləkə, f, [ləkləndi, ləklənir, ləkələr], "kiçik yuvarlaq ləkələrlə işarələmək").
+entry(spotless, sif, [], "tamamilə təmiz").
+entry(spotlit, a, [], "spotlight sözünün keçmiş zaman forması").
+entry(spotter, n, [spotters], "görən biri").
+entry(spotting, n, [lekelər], "bir şeyin nümunələrini diqqətlə izləmə təcrübəsi").
+entry(spotty, sif, [], "SPOTTIER SPOTTIESTləkələrlə işarələnmişSPOTTILY zərf").
+nikah(girov, n, [nikahlar], "evlilik").
+entry(həyat_yoldaşı, v, [evləndi, evlənir, evlənir], "evlənmək").
+entry(bir fışqırıq etmək, v, [fışqırdı, fışqırır, fışqırırlar], "bir sürətli axınla çıxarmaq").
+entry(qaynayan, n, [qaynanlar], "qaynayan biri").
+entry(suaxıtan, n, [suaxıtanlar], "damdan su axıtmaq üçün kanal").
+giriş(spraddle, f, [spraddled, spraddling, spraddles], "ayırmaq üçün").
+entry(sprag, n, [sprags], "bir nəqliyyat vasitəsinin geri yuvarlanmasının qarşısını almaq üçün istifadə edilən cihaz").
+entry(burxmaq, f, [burxuldu, burxulür, burxulər], "birdən və şiddətli bir burulma və ya əymə nəticəsində zəiflətmək").
+entry(sprang, n, [sprangs], "açıq iş hörgü meydana gətirmək üçün toxuma texnikası").
+entry(kilki, n, [kilkiler], "kiçik siyənək").
+entry(sprattle, v, [sprattled,sprattling,sprattles], "çabalamaq").
+entry(sprawl, v, [uzandı, uzanır, uzanırlar], "zərif olmayan şəkildə uzanmaq").
+entry(sprawler, n, [sərgərdanlar], "gəzib-dolaşan kimsə").
+entry(sprawly, sif, [], "DAXIŞAN DAHA ÇOX DAXIŞANTilə meylli").
+entry(sprey, f, [spreytdi,spreytdiyi,spreytdir], "xırda hissəciklər şəklində yaymaq").
+entry(spreyçi, n, [spreyçilər], "çiləyən biri").
+entry(yayılmaq, v, [yayılmaq,yayılma, yayılır], "daha geniş bir sahəyə açılmaq və ya genişlənmək").
+entry(yayici, n, [yayicilar], "yayan biri").
+entry(spree, n, [sprees], "bir fəaliyyətdə ölçüsüz həvəs").
+entry(sprent, sifət, [], "səpələnmiş").
+entry(sprier, a, [], "sürətli sözünün müqayisə dərəcəsi").
+entry(spraxt, a, [], "spraxtın üstün dərəcəsi").
+entry(sprig, v, [düyməli,düymələmə,düymələr], "kiçik nazik mismarlarla bərkidilmək").
+entry(sprigger, n, [spriggers], "bir şey yoxlayandır").
+entry(spriggy, sif, [], "Kiçik budaqlara sahib olmaq").
+entry(spright, n, [sprights], "sprayt").
+entry(yaz, f, [tullanmaq,tullanan,tullanir], "ani və sürətli şəkildə yuxarı hərəkət etmək").
+entry(springal, n, [springals], "gənc kişi").
+entry(springe, v, [springed,springeing,springes], "bir növ tələ ilə tutmaq").
+entry(springer, n, [tullanmaç], "tullanan biri").
+girdi(hərəkətli, sif, [], "HƏRƏKƏTLİ HƏRƏKƏTLİQ ən dayanıqlı").
+giriş(səpmək, v, [səpdi,səpən,səpir], "damlaları və ya hissəcikləri yaymaq").
+entry(sprint, v, [sprinted,sprinting,sprints], "ən yüksək sürətlə qaçmaq").
+entry(sprinter, n, [sprintlər], "qaçan biri").
+entry(sprit, n, [sprits], "gəminin direyi").
+entry(sprite, n, [spritelər], "bir elf və ya pəri").
+entry(spritely, sif, [], "ENERJILI").
+entry(spritz, f, [cızladı, cızlamaq, cızlar], "püskürtmək").
+entry(spritzer, n, [spritzlər], "ağ şərab və soda suyu ilə içki").
+entry(spritzy, sif, [], "SPRITZIER SPRITZIESTspreylə yaymaq").
+entry(sproket, n, [sproketlər], "zəncirin halqaları ilə tutuşan dişli çıxıntı").
+entry(uşaq, n, [uşaqlar], "kiçik uşaq").
+entry(sproglet, n, [sproglar], "bir sprog").
+entry(cücərmək, v, [cücərdi,cücərən,cücərir], "böyüməyə başlamaq").
+entry(çam, sifət, [], "təmirli və səliqəli görünüşlüTƏMİRLİ ZARF").
+entry(şam ağacı, f, [bəzədi,bəzəyir,bəzəyir], "şam ağacı etmək").
+entry(sprucy, sif, [], "SPRUCIER SPRUCIESTspruce").
+entry(sprue, n, [qarasyov], "tropik xəstəlik").
+entry(sprug, n, [spruglar], "sərəcə").
+entry(sprung, a, [], "spring felinin keçmiş zamanı").
+entry(spry, sif, [], "SPRYER SPRYEST və ya SPRIER SPRIESTçevikSPRYLY adv").
+entry(çeviklik, n, [çevikliklər], "çevik olma keyfiyyəti və ya halı").
+entry(spud, v, [spudded, spudding, spuds], "belə bənzər bir alətlə çıxarmaq").
+entry(spudder, n, [qabıqsoyanlar], "ağacların qabığını çıxarmaq üçün alət").
+entry(spudgel, n, [spudgels], "uzun dirəyə birləşdirilmiş bir vedrə").
+entry(spue, v, [spued, spuing, spues], "qusmaq").
+entry(spumante, n, [spumantes], "İtalyan qazlı şərabı").
+entry(spume, v, [spumed, spuming, spumes], "köpüklənmək").
+entry(spumier, müqayisəli, [], "kəpüklü").
+entry(spumiest, superlative, [], "spumun").
+entry(spuming, indiki, [], "spume-in təsriflənən forması").
+entry(spumone, n, [spumones], "İtalyan dondurması").
+entry(spumoni, n, [spumonilər], "spumone").
+entry(spumous, sifət, [], "köpüklü").
+entr(spumy, sifət, [], "KÖPÜKLÜ KÖPÜKLƏR ən köpüklü").
+entry(spun, keçmiş, [], "fırlatmaq felinin keçmiş zaman şəkli").
+entry(spunk, f, [spunked, spunking, spunks], "yanmağa başlamaq").
+entry(spunkie, n, [spunkilər], "bataklıq qazının yanması nəticəsində yaranan işıq").
+entry(spunky, sif, [], "SPUNKİER SPUNKİESTcürətliSPUNKİLY zərf").
+entry(spur, v, [spurred,spurring,spurs], "atlıların mahmuzla təşviq etməsi").
+entry(spurgall, v, [spurgalled, spurgalling, spurgalls], "maşqurla zədələmək").
+entry("yovşan", n, ["yovşanlar"], "tropik bitki").
+entry(saxta, sif, [], "həqiqi deyil").
+entry(tikanız, sif, [], "tikanı olmayan").
+entry(spurn, v, [rədd etdi, rədd edilmə, rədd edir], "nifrətlə rədd etmək").
+entry(spurner, n, [inakarlar], "inkar edən şəxs").
+entry(spurred, keçmiş, [], "təşviq etmək felinin keçmiş zaman forması").
+entry(spurrer, n, [spurrers], "təşviq edən biri").
+entry(qıjı, n, [qıjılar], "qıji").
+entry(spurrier, n, [mahmuza_düzəldənlər], "mahmuz düzəldən şəxs").
+entry(təşviqetmə, indiki, [], "təşviq etmənin feli sifəti").
+entry(spurry, n, [spurries], "Avropa alaq otu").
+entry(spurt, v, [spurted,spurting,spurts], "fışqırmaq").
+entry(spurter, n, [spurters], "fışqıran biri").
+entry(spurtle, n, [spurtlar], "sıyıq qarışdırmaq üçün çubuq").
+entry(sputnik, n, [sputniki], "Sovet süni yer peyki").
+entry(tüpürmək, f, [tüpürdü,tüpürmə,tüpürür], "hissəcikləri qısa partlayışlarla atmaq").
+giriş(sputtery, sifət, [], "qısa partlayışlarla çıxarma").
+entry(bəlğəm, n, [bəlğəmlər], "tüpürcək").
+entry(casusçu, v, [çox casusça baxdı, casusluq etməkdə, casuslar], "gizlicə izləmək").
+entry(təkgözlüklər, n, [təkgözlüklər], "kiçik teleskop").
+entry(casus proqramı, n, [casus proqramları], "şəxsi məlumatların gizli şəkildə başqa kompüterə göndərilməsini təmin edən kompüter proqramı").
+entry(güvercin, n, [güvercinlər], "gənc bir göyərçin").
+entry(squabble, v, [squabbled,squabbling,squabbles], "dalaşmaq").
+entry(squabby, sif, [], "SQUABBIER SQUABBIESTqısa və kök").
+giriş(bölük, v, [bölüklədilər,bölükləyərək,bölüklər], "kiçik təşkil olunmuş qruplar şəklində bölüklərə ayırmaq").
+entry(squaddie, n, [squaddies], "hərbi çağırışçı").
+entry(squaddy, n, [squaddilər], "əsgər").
+entry(eskadra, f, [eskadralandı, eskadralaşdırma, eskadralar], "hərbi təşkilatın vahidləri olaraq eskadralara düzülmək").
+entry(squalen, n, [squalenlər], "kimyəvi bir birləşmə").
+entry(squalid, sif, [], "ZİBİLLİ ZİBİLLİ DİRLİKlaqeydsizlik və ya kasıblıq səbəbindən yaranan çirkinlik").
+entry(squall, v, [squalled,squalling,squalls], "ucadan ağlamaq və ya qışqırmaq").
+entry(squaller, n, [squallers], "fəryad edən").
+entry(squally, sif, [], "SQUALLIER SQUALLIESTgusty").
+entry(səfalət, n, [səfalətlər], "sıx vəziyyət").
+entry(squama, n, [squamae], "pul").
+entry(squamate, n, [squamates], "sürünənlərin bir dəstəsi").
+entry(israf_etmək, f, [israf_oldu, israf_edərkən, israf_edir], "məqsədsiz sərf etmək").
+entry(square, sif, [], "DÖRD TAY MÖHKƏMLƏNİR DÖRD TAY ƏN MÖHKƏMLƏNİR dörd bərabər tərəf və dörd sağ bucaq olmaqla mühafizəkar").
+entry(square, v, [kvadratlaşdırılmış, kvadratlaşdırma, kvadratlaşdırır], "kvadrat etmək").
+entry(squarely, adv, [], "dürüst və birbaşa şəkildə").
+entry(squarer, n, [squarers], "kvadrata yüksəldən").
+entry(squarest, superlative, [], "kvadratın").
+entry(kvadratlama, indiki, [], "square felinin indiki feli sifəti").
+entry(dördbucaqvarı, sif, [], "qismən kvadrat").
+entry(skvark, n, [skvarklar], "kvarkın hipotetik bozon ekvivalenti").
+giris(balqabaq, v, [balqabaqlanmış,balqabaqlanır,balqabaqlar], "püre və ya yastı bir kütlə halına gətirmək üçün basmaq").
+entry(sıxan, n, [sıxanlar], "sıxışdıran biri").
+entry(squashy, sifət, [], "DAHA SULU ƏN SULUsoyuq və nəm").
+entry(squat, sif, [], "SQUATTER SQUATTESTqısa və qalınSQUATLY adv").
+entry(squat, v, [squatted,squatting,squats], "dizlərinizi büküb dabanlarınızın üstündə oturmaq").
+giriş(squatter, v, [squattered,squattering,squatters], "suda hərəkət etmək").
+entry(squatty, sif, [], "SQUATTIER SQUATTIESTsquat").
+entry(squawk, v, [squawked,squawking,squawks], "ucadan və sərt bir səs çıxarmaq").
+entry(squawker, n, [squawkers], "vıyıltı edən").
+entry(skviçi, v, [skviçiledi, skviçiləyir, skviçilər], "su səthindən çıxarmaq üçün bir vasitə ilə silmək").
+entry(sıxmaq, f, [sıxıldı, sıxılır, sıxır], "ümumiyyətlə bərk basmaq").
+entry(squeezer, n, [squeezers], "bir şeyi sıxan").
+entry(squeg, v, [squegged,squegging,squegs], "qeyri-müntəzəm şəkildə titrəmək").
+giriş(qısmamaq, f, [qısmadı,qısmayan,qısmır], "əzilmək").
+entry(squelchy, sif, [], "SQUELCHIER SQUELCHIESTsquashy").
+entry(squib, v, [squibbed,squibbing,squibs], "lağ etmək").
+entry(squibber, n, [squibbers], "baza vuruşu olan meydançadakı yer topu").
+entry(kalmar, v, [kalmarladı,kalmarlayır,kalmarlar], "on silahlı dəniz molyuskları üçün balıq ovu etmək").
+entry(squidgy, sif, [], "SQUIDGIER SQUIDGIESTsulu yumşaq").
+giriş(squiffed, sif, [], "sərxoş").
+entry(squiffy, sif, [], "SQUIFFIER SQUIFFIESTsquiffed").
+entry(qıvrılmaq, v, [qıvrıldı, qıvrılma, qıvrılır], "wriggle").
+entry(squiggly, sif, [], "BUDAMLAMALI BÜDÜLMƏDİ").
+_entry(squilgee, v, [squilgeed, squilgeeing, squilgees], "sıxmaq üçün")._
+entry(squill, n, [damcıçəyi], "Avrasiya ot bitkisi").
+entry(squilla, n, [squillas], "və ya SQUILLAEa qazma xərçəngi").
+entry(squinch, v, [squinched,squinching,squinches], "gözlərini qıymaq").
+entry(squinny, sif, [], "SQUINNIER SQUINNIESTsquinty").
+entry(squinny, f, [squinnied,squinnying,squinnies], "gözlərini qıymaq").
+entry(şaşı, sif, [], "şƏŞİ-ŞƏŞƏ").
+entry(qıymaq, v, [qıyıldı,qıyır,qıyır], "gözlər qismən bağlı baxmaq").
+entry(gözqısan, n, [gözqısanlar], "gözlərini qısan biri").
+entry(squinty, sif, [], "GÖZQISIQ, daha gözqisq, ən gözqisq dərəcədə gözqısmalı").
+entry(squire, v, [squired,squiring,squires], "kavalye və ya müşayiətçi kimi xidmət etmək").
+giriş(squireen, n, [squireens], "kiçik bir mülkün sahibi").
+entry(squirely, sif, [], "süvari köməkçisinə aid olan və ya bənzər").
+entry(squirish, sif, [], "bir cəngavər köməkçisi kimi və ya ona uyğun olan").
+entry(squirl, n, [squirls], "xəttatlıqda bəzəkli əyri xətt").
+entry(qıvrılmaq, v, [qıvrıldı,qıvrılır,qıvrılır], "bükülmək").
+entry(qıvrılan, n, [qıvrılanlar], "qıvrılan biri").
+entry(squirmy, sif, [], "SQUIRMIER SQUIRMIESTburulğan").
+entry(dələ, v, [dələnmiş, dələlən, dələlər], "gələcəkdə istifadə üçün yığmaq").
+entry(sifonla_tullamaq, v, [tulladı,tullayır,tullayır], "nazik və sürətli bir axınla püskürtmək").
+entry(sırğılayan, n, [sırğılayanlar], "sıvı püskürdən").
+entry(sıxmaq, f, [sıxdı,sıxan,sıxır], "əzmek").
+entry(squishy, sif, [], "DAHXILI DAHXILIsıx").
+entry(squitters, npl, [], "ishal").
+entry(squoosh, v, [squooshed,squooshing,squooshes], "taptalamaq").
+entry(squooshy, sif, [], "DAHA SQUOOSHY ƏN SQUOOSHYsquashy").
+entry(squush, v, [sqyşamış, sqyşayan, sqyşır], "əzmək").
+entry(sradha, n, [sraddhalar], "sradha").
+entry(sradha, n, [sradhas], "Hindu mərasim ibadəti").
+entry(sri, n, [sris], "cənab hörmət əlaməti kimi istifadə edilən Hindu adı").
+entry(stab, v, [bıçaqladı,bıçaqlayır,bıçaqlayır], "sancaq silahı ilə yaralamaq").
+giriş(bıçaqlayan, isim, [bıçaqlayanlar], "bıçaqlayan biri").
+entry(bıçaqlama, n, [bıçaqlamalar], "sivri bir silahla birini deşmə hərəkəti").
+entry(stabile, n, [stabiles], "dayanıqlı abstrakt heykəl").
+entry(sabit, sif, [], "SABİTER SABİTESTsəhərə davamlı və ya müvafiq şərtlər və vəziyyətlərə qarşı durmaq").
+entry(sabit, v, [sabitlədi,sabitləmə,sabitlər], "ev heyvanları üçün sığınacaq olan bir tövləyə qoymaq").
+entry(stabler, n, [stablers], "ahırı saxlayan").
+entry(sxur, n, [sxurlar], "heyvanlar üçün təsərrüfat binasında yer").
+entry(qurmaq, v, [qurdu,qurur, qurulan], "qurmaq üçün").
+entry(sabitcə, zərf, [], "sabit şəkildə").
+giriş(staccato, n, [staccatos], "qısa və dəqiq ifası ilə xarakterizə olunan musiqi pasajı").
+entry(yığın, v, [yığılmış,yığma,yığar], "yığmaq").
+entry(stacker, n, [stackers], "yığan biri").
+entry(stackup, n, [stackups], "eniş üçün gözləyən bir hava limanı üzərində dövr edən təyyarələrin tərtibatı").
+entry(stakte, n, [staktelər], "qədim yəhudilər tərəfindən buxur hazırlamaq üçün istifadə olunan ədviyyat").
+entry(staddle, n, [staddles], "samanın yığıldığı bir platform").
+entry(stadion, n, [stadionlar], "qədim Yunan uzunluq vahidi").
+entry(stadia, n, [stadiyalar], "məsafələrin ölçülməsi metodu").
+entry(stadium, n, [stadionlar], "idman tədbirlərinin keçirildiyi quruluş").
+entry(personal, v, [personal,personalın,personalı], "kütləvi işçilərlə təmin etmək").
+entry(staffer, n, [staffers], "kollektivin üzvü").
+entry(kadr təminatı, n, [kadr təminatları], "şəxsi heyət təminatı").
+entry(təkə, v, [təkədi,təkələyir,təkələr], "qadın müşayiəti olmadan sosial tədbirə qatılmaq").
+entry(səhnə, v, [səhnələşmiş,səhnələşdirmə,səhnələr], "ictimai baxış üçün istehsal etmək").
+entry(səhnələşmiş, n, [səhnələşmişlər], "səhnənin tutduğu qədər").
+entry(stager, n, [stagers], "təcrübəli şəxs").
+entry(subaylar gecəsi, n, [subaylar gecələri], "evlənəcək bir qadın üçün təşkil olunan yalnız qadınların iştirak etdiyi gecə").
+entry(stagey, sif, [], "STAGIER STAGIESTstagy").
+entry(staggard, n, [staggards], "tam böyümüş erkək qırmızı maral").
+entry(staggart, n, [staggarts], "staggard").
+entry(stagged, keçmiş, [], "stag-in keçmiş zamanda forması").
+entry(stagger, v, [yalpaladı, yalpalayır, yalpalar], "dayanıqsız yerimək və ya dayanmaq").
+entry(staggery, sifət, [], "dayanıqsız").
+entry(staggie, n, [staggies], "ayğır balası").
+entry(meydançıxış, indiki, [], "meydançıxışın participi").
+entry(staggy, sif, [], "STAGGIER STAGGIESTyetkin erkək görünüşünə sahib olmaq").
+entry(g\u0139y, n, [g\u0139yl\u0259r], "b\u0139\u00e7\u00e4k sap\u0131 \u00fc\u00e7\u00fcn istifad\u0259 olunan bir maral buynuzu").
+giriş(stagier, komparativ, [], "of stagey and stagy").
+entry(stagiest, superlative, [], "səhnəyə aid və ya səhnəynən bağlı").
+entry(təntənəli, zərf, [], "səhnəvari bir şəkildə").
+entry(staging, n, [mərhələlər], "müvəqqəti platforma").
+giriş(durğun, sif, [], "hərəkət etməyən və ya axmayan").
+entry(durğunlaşmaq, f, [durğunlaşdı, durğunlaşır, durğunlaşar], "durğun hala gəlmək").
+entry(stagy, sif, [], "TEATRALLIQ KEYFİYYƏTİNƏ MALİK OLMA").
+entry(staid, sif, [], "ÇAĞDAŞ VƏ CİDDİÇAĞDAŞCASINA zərf").
+entry(staig, n, [staiglər], "bir ayğır").
+entry(ləkə, v, [ləkələnmiş,ləkələnmə,ləkələr], "rəngini dəyişmək və ya çirk etmək").
+giriş(ləkəçəkən, n, [ləkəçəkənlər], "ləkə edən biri").
+entry(nərdivan, is, [pilləkən], "bir səviyyədən digərinə keçmək üçün istifadə olunan ayaq dayanacağı").
+giriş(daşyanacaq, s, [daşyanacaqlar], "bir pilləkən dəsti").
+entry(staithe, n, [staithes], "kömürün dəmiryolu vaqonlarından gəmilərə köçürülməsi üçün təchiz edilmiş körpü").
+entry(saya, v, [sayıldı,sayılan,sayar], "ağac və ya metaldan sivri bir parça ilə bərkitmək").
+entry(gizlin_gözləmə, n, [gizlin_gözləmələr], "əsasən polis tərəfindən bir ərazinin müşahidəsi").
+giriş(səkici, n, [səkicilər], "əraziləri dirəklərlə işarələyən biri").
+entry(stalag, n, [stalags], "Alman hərbi əsirlər düşərgəsi").
+entry(stale, adj, [], "DURUĞ, DURUMUŞ ən DURUĞ DURUMUŞ deyil təzəDURUĞDURLA adv").
+entry(köhnəlmək, v, [köhnəlmiş, köhnələn, köhnəlir], "köhnəlmək").
+entry(izləmək, v, [izlədi, izləyən, izləyir], "səssizcə təqib etmək").
+giris(izləyən, n, [izləyənlər], "izləyən şəxs").
+entry(təqib, n, [təqiblər], "təqib edən birinin hərəkəti").
+entry(stalky, sifət, [], "STALKIER STALKIESTuzun və incəSTALKILY zərf").
+giriş(tutmaq, f, [tutdu, tutur, tutar], "irəliləyişi dayandırmaq").
+entry(ayğır, n, [ayğırlar], "hadım edilməmiş erkək at").
+entry(mətin, n, [mətinlər], "dəyişməz tərəfdaş").
+giriş(stamen, n, [erkəkciklər], "çiçəkli bitkilərin polen daşıyan orqanıSTAMENED sif").
+entry(gücü, n, [güclər], "dözümlülükGÜCLÜ sif").
+entry(stammel, n, [stammels], "qırmızı rəng").
+entry(kəkələmək, f, [kəkələdi,kəkələyir,kəkələyər], "istəmədən fasilələrlə və durmadan danışmaq").
+entry(stamp, v, [daşlanmış,daşlamaq,daşlar], "ayağı möhkəm şəkildə yerə qoymaq").
+entry(stampede, v, [stampeded, stampeding, stampedes], "başlanğıcda vahimə ilə qaçmağa səbəb olmaq").
+entry(stamper, n, [ştamplar], "ştamplayan").
+entry(durma, n, [durmalar], "dayanma tərzi").
+entry(stanch, sif, [], "STANCHER STANCHESTstaunch").
+entry(stanch, v, [stanched,stanching,stanches], "qan axını dayandırmaq").
+entry(stancher, n, [stanchers], "dayandıran").
+entry(stanchly, adv, [], "stabil bir şəkildə").
+entry(dayan, v, [dayandı,dayanır,dayanır], "dik vəziyyəti qəbul etmək və ya qorumaq").
+entry(standart, n, [standartlar], "etibarlı müqayisə ölçüsü").
+entry(standby, n, [standbys], "etibar edilə bilən birisi").
+entry(standee, n, [oturacaq_yeri_olmayanlar], "oturacaq çatışmazlığı səbəbindən ayaqda duran şəxs").
+entry(stander, n, [dayananlar], "dayanan biri").
+entry(durma, i, [duranlar], "cəmiyyətdə bir mövqe və ya vəziyyət").
+entry(standish, n, [standishes], "qələm və mürəkkəb üçün qab").
+entry(standoff, n, [standoffs], "oyun kimi heç-heçə və ya bərabərlik").
+entry(standout, n, [standouts], "diqqət çəkən üstünlüyə malik olan biri").
+entry(standpat, sif, [], "dəyişikliyə qarşı duran və ya qarşı çıxan").
+entry(stendap, n, [stendaplar], "səhnədə tək çıxış edən aktyorun komedik monoloqu").
+entry(stane, v, [staned,staning,stanes], "daşlamaq").
+entry(stang, v, [stanged,stanging,stangs], "sancmaq").
+entry(stanhope, n, [stanhopes], "yüngül açıq fayton").
+entry(stanine, n, [stanines], "balların bölündüyü doqquz sinifdən biri").
+entry(staning, indiki, [], "stanin participi").
+entry(stank, n, [hovuzlar], "hovuz").
+entry(stannary, n, [stannaries], "qalay-mədən rayonu").
+entry(stan), sif, [], "qalağa aid".
+entry(stannit, n, [stannitlər], "qalay filizi").
+entry(stannous, sif, [], "tənə aid olan").
+entry(stannum, n, [stannums], "qalay").
+entry(stanol, n, [stanollar], "tam doymuş fitosterol").
+entry(stanza, n, [bəndlər], "poemanın bir hissəsiSTANZAED STANZAIC sif").
+entry(stapedes, pl, [], "stapesin").
+entry(stapelia, n, [stapeliyalar], "Afrika bitkisi").
+entry(stapes, n, [stapedes], "orta qulağın bir sümüyü").
+entry(stafilokok, n, [stafilokoklar], "müxtəlif sferik bakteriyalar").
+entry(ştapel, v, [ştapellədi, ştapelləmə, ştapellər], "U formalı metal ilmə vasitəsi ilə bərkitmək").
+entry(zımbalıq, n, [zımbalıqlar], "bir zımbalama cihazı").
+entry(u_lduz, f, [ulduzlu, ulduzlanan, ulduzlar], "təbii parlaq bir cisim kimi ulduz kimi parıldamaq, səmada görünən").
+nişasta(giriş, f, [nişastalanmış, nişastalanma, nişastalar], "bərk karbohidrat olan nişasta ilə işləmək").
+entry(starcher, n, [nişastacılar], "nişastacı").
+entry(starchy, adj, [], "NİŞASTALI NİŞASTALILAR nişasta ehtiva edən").
+entry(şöhrət, n, [şöhrətlər], "məşhur bir ifaçının statusu").
+giriş(üldüz tozu, n, [üldüz tozları], "romantik bir keyfiyyət").
+entry(baxmaq, v, [baxdı,baxan,baxar], "sabit şəkildə baxmaq").
+entry(starer, n, [baxanlar], "baxan biri").
+entry(starets, n, [startsy], "Şərqi Pravoslav Kilsəsində mənəvi məsləhətçi").
+entry(dəniz ulduzu, n, [dəniz ulduzları], "ulduz şəklində bir dəniz heyvanı").
+entry(ulduzlara_baxmaq, f, [ulduzlara_baxdı,ulduzlara_baxmaqda,ulduzlara_baxır], "ulduzlara baxmaq").
+entry(staring, indiki, [], "baxmaq fe‘linin iştirakçısı").
+entry(stark, sif, [], "STARKER STARKESTqaba görünüşdəSTARKLY adv").
+entry(starkers, sif, [], "çılpaq").
+entry(uldsuz, sif, [], "ulduzları olmayan").
+entry(ulduzcuq, n, [ulduzcuqlar], "kiçik bir ulduz").
+entry(starlike, sif, [], "ulduza bənzəyən").
+entry(sərçə, n, [sərçələr], "Avropa quşu").
+entry(ulduzlu, sifət, [], "ulduzlar tərəfindən işıqlandırılmış").
+entry(uzaqlıqulduz, n, [uzaqlıqulduzlar], "yuvulayan məməli").
+entry(üzə çıxdı, keçmiş, [], "ulduzun zəmanı").
+entry(uzaqlaşan, indiki, [], "ulduzun feli sifəti").
+entry(starry, adj, [], "Ulduzlu, daha çox ulduzlu, ən ulduzlu, ulduzlarla dolu, ulduzlu şəkildə").
+giriş(uçan_aparat, n, [uçan_aparatlar], "ulduzlararası səyahət üçün kosmik gəmi").
+entry(start, v, [başladı,başlamaq,başlayır], "yola düşmək").
+entry(starter, n, [başlanğıclar], "başlayan biri").
+entry(startle, v, [diksindirdi,diksindirici,diksindirir], "qəflətən qorxutmaq və ya təəccübləndirmək").
+entry(startler, n, [startlers], "tərəddüd edən biri").
+entry(startsy, pl, [], "starets haqqında").
+entry(startup, n, [startaplar], "nəyisə başlama hərəkəti").
+entry(ac, f, [acdi,acmaq,acir], "qida çatışmazlığından ölmək").
+entry(ac, n, [aclətmə], "ac qalan").
+entry(starwort, n, [starwortlar], "çiçəkli bitki").
+giris(stazes, cəm, [], "staz vəziyyəti").
+entry(yığmaq, v, [yığılmış, yığmaqda, yığır], "gizli bir yerdə saxlamaq üçün").
+entry(stasimon, n, [stasima], "qədim Yunan dramaturgiyasında xorun oxuduğu nəğmə").
+entry(stasis, n, [stazlar], "bədən mayelərinin normal axınının dayanması").
+giriş(stat, n, [stats], "statistika").
+entry(bəyanediləbilən, adj, [], "bəyan edilə bilən").
+entry(statal, sifət, [], "milli hökumətlə əlaqəli").
+entry(statant, sif, [], "bütün ayaqları yerə dəyən şəkildə duran, heraldik heyvana aid edilir").
+entry(state, v, [stated,stating,states], "sözlərlə ifadə etmək").
+entry(statedly, adv, [], "müntəzəm olaraq").
+entry(statelet, n, [statelets], "kiçik bir dövlət, siyasi icma").
+entry(nəcib, sif, [], "DAHA NƏCİB ƏN NƏCİBdignified").
+entry(stater, n, [staterlər], "bəyan edən biri").
+entry(statik, n, [statiklər], "radio və ya televiziya qəbuledicisində yaranan təsadüfi səs-statik SIF").
+entry(statice, n, [statices], "çiçəkli bir bitki").
+entry(staticky, adj, [], "statiklə işarələnmişdir").
+entry(statin, n, [statins], "qan serumu xolesterin səviyyələrini azaldan dərmanlar sinfi").
+entry(stating, indiki, [], "state felinin participle forması").
+entry(station, v, [dayanacaq,dayanma,dayanır], "mövqeyə təyin etmək").
+entry(statizm, n, [statizmlər], "hökumət nəzəriyyəsi").
+entry(statist, n, [statistlər], "statizmin tərəfdarı").
+entry(stative, n, [statives], "bir vəziyyəti ifadə edən bir fel").
+entry(stator, n, [statorlar], "rotorun ətrafında döndüyü maşının hissəsi").
+entry(heykəllər, n, [heykəllər], "bir qrup heykəl").
+entry(heykəl, n, [heykəllər], "üçölçülü incəsənət əsəriHEYKƏLLƏNMİŞ adj").
+entry(boy, n, [boylar], "insan və ya heyvan bədəninin təbii hündürlüyüBOYLU sif").
+entry(status, n, [statuslar], "nisbi mövqe").
+entry(statusy, sifət, [], "nüfuz qazandıran").
+entry(qanun, n, [qanunlar], "hökumətin qanunverici orqanı tərəfindən qəbul edilən qanun").
+entry(staumrel, n, [staumrels], "axmaq").
+entry(staunch, adj, [], "MÖHKƏMSİZ MÖHKƏMSÖZ etibarlı və möhkəm").
+entry(səbatlı, v, [qurdu,qurma, qurur], "qurumaq üçün").
+entry(stave, v, [soba,sığdıran,layflər], "uzaqlaşdırmaq üçün idarə etmək və ya itələmək").
+entry(staw, a, [], "oğurlamaq sözünün keçmiş zamanı").
+qalmaq(entry, v, [qaldı,qalan,qalır], "bir yerdə və ya vəziyyətdə davam etmək").
+entry(stayer, n, [qalalar], "qalmaqda olan biri").
+entry(staysail, n, [staysails], "bir növ yelkən").
+entry(mənafe, f, [mənafəldə, mənafəlmiş, mənafelər], "faydası olmaq üçün").
+entry(sabitləşdi, keçmiş, [], "dəyişiklik etməyən hall").
+entry(sabitləşdirici, n, [sabitləşdiricilər], "sabitləşdirən biri").
+entry(steading, n, [fermalar], "kiçik bir təsərrüfat").
+entry(stabil, adj, [], "DAHADATLI ƏN STABİLFirm mövqedəSTABİL ŞƏKİLDƏ adv").
+entry(sabitlə, f, [sabitlədi, sabitləyərək, sabitlər], "sabit etmək").
+entry(steak, n, [steaklər], "ət dilimi").
+entry(steal, v, [staw,stolen,stealing], "OĞURLAMAQ başqasının əmlakını onun icazəsi olmadan almaq").
+entry(stealage, n, [oğurluqlar], "oğurluq").
+entry(ogri, n, [ogrilər], "oğurluq edən").
+entry(oğurluq, n, [oğurluqlar], "oğurlayan birinin hərəkəti").
+entry(gizlilik, n, [gizliliklər], "gizli prosedur").
+entry(gizli, sif, [], "GÖZƏGÖRÜNMƏZLİYİ TƏMİN EDƏN").
+entry(buxar, f, [buxarlanmış,buxarlanan,buxarlanır], "su buxarına məruz qoymaq").
+entry("buxarlı gəmi", v, ["buxarlı gəmi ilə səyahət etdi","buxarlı gəmi ilə səyahət edir","buxarlı gəmilər"], "buxarlı gəmi ilə səyahət etmək").
+entry(buxarlı_kolbasa, n, [buxarlı_kolbasalar], "buxarlanmış kolbasa").
+entry(buxarlı, sif, [], "DAHA_BUXARLI ƏN_BUXARLI buxarla qeyd olunmuşBUXARLICA zərf").
+entry(steapsin, n, [steapsinlər], "ferment").
+entry(stearat, n, [stearatlar], "kimyəvi duz").
+entry(stearin, n, [stearins], "yagın bərk hissəsi STEARIC sif").
+entry(stearin, n, [stearinlər], "stearin").
+entry(steatit, i, [steatitlər], "talc növü").
+entry(stedfast, sifət, [], "möhkəm").
+entry(at, n, [atlar], "at").
+entry(steek, f, [steeked,steeking,steeks], "bağlamaq").
+entry(polad, f, [poladladı, poladlamaq, poladlar], "çətin dəmir ərintisi olan poladla örtmək").
+entry(polad, n, [poladlar], "poladdan hazırlanmış bilye").
+entry(polad, sifət, [], "POLADIMSI POLAD KİMİ").
+entry(steenbok, n, [steenboks], "Afrika antilopu").
+giriş(kəskin, sif, [], "KƏSKİN DAHA KƏSKİN ƏN KƏSKİN əyilmiş kəskin").
+entry(steep, v, [islanmış,islanır,isladır], "mayeni udmaq üçün mayedə islatmaq").
+entry(dikəlmək, v, [dikəldilmiş,dikəlmə,dikəlir], "dik etmək").
+entry(steeper, n, [dikləndiricilər], "dikinə gətirən").
+entry(dikcəsinə, sif, [], "bir qədər dik").
+entry(kilisə_spiri, n, [kilisə_spirləri], "kilisə qülləsindəki incələn quruluş").
+entry(steeple, v, [steepled,steepling,steeples], "barmaqları və ya əlləri kilsə qülləsi formasında yerləşdirmək").
+entry(kəskin, adv, [], "dik bir şəkildə").
+entry(sükan, v, [sükandı,sükənər,sükanar], "sürətini istiqamətləndirmək üçün").
+entry(stiraj, n, [stirajlar], "idarəetmə hərəkəti").
+entry(sükançı, n, [sükançılar], "idarə edən şəxs").
+entry(sükan, n, [sükanlar], "nəqliyyat vasitəsinin və ya gəminin istiqamətini idarəetmə hərəkəti").
+entry(steeve, v, [steeved,steeving,steeves], "gəminin anbarına yerləşdirmək").
+entry(steeving, n, [steevings], "gəminin qunduzu ilə bərkidilmiş dimdiyin bucaqlı yüksəlməsi").
+entry(stegodon, n, [stegodonlar], "nesli tükənmiş fillərə bənzər məməli").
+entry(stein, n, [steins], "pivə kupası").
+entry(steinbok, n, [steinboks], "stenbok").
+entry(stela, n, [stelalar], "yazılı plitə, abidə kimi istifadə olunurSTELAR STELENE sif").
+entry(sütun, n, [sütunlar], "bitki gövdəsində mərkəzi damar toxuması ərazisiSTELİK sif").
+entry(stella, n, [stellas], "Amerika Birləşmiş Ştatlarında əvvəllər istifadə olunan bir pul vahidi").
+entry(stellar, sifət, [], "ulduzlarla bağlı").
+entry(stellate, sif, [], "ulduz şəklində").
+entry(stellify, v, [stellified, stellifying, stellifies], "ulduza çevirmək").
+giriş(gövdə, f, [gövdələnmiş,gövdələmə,gövdələr], "bitkinin gövdəsinin yuxarı oxlarını çıxarmaq").
+entry(stemless, sif, [], "gövdəsi olmayan").
+entry(saplağabənzər, sifət, [], "saplağa bənzəyən").
+entry(stemma, n, [stemmas], "və ya STEMMATA qədim Romada bir ailənin geneologiyasını qeyd edən bir yazı").
+entry(stemlənmiş, keçmiş, [], "stem zamanın tələbəsi").
+entry(stemmer, n, [stemmers], "gövdələri çıxaran biri").
+entry(stemmery, n, [stemmeries], "tütün yarpaqlarının soyulduğu yer").
+entry(stemming, present, [], "kökün iştirakçı forması").
+entry(stemmy, sifət, [], "GÖVDƏLİ GÖVDƏLİ TUMURLARla zəngin").
+giriş(stemson, n, [stemsons], "gəminin dayaqlayan taxtası").
+entry(stemware, n, [stemwares], "şüşədən hazırlanmış zərif qab").
+entry(iy, n, [iylər], "pis qoxu").
+entry(stenchy, sif, [], "STENCHIER STENCHIESTpis qoxulu").
+entry(şablon, v, [şablonlanmış,şablonlama,şablonlar], "və ya ŞABLONLANMIŞ ŞABLONLAMA ŞABLONlar perforasiya olunmuş material təbəqəsi vasitəsilə işarələmək").
+entry(stengah, n, [stengahlar], "qarışıq içki").
+entry(steno, n, [stenos], "stenoqraf").
+entry(stenoky, n, [stenokilər], "orqanizmin yalnız dar şəraitlərdə yaşamaq qabiliyyəti").
+giriş(daralmış, sif, [], "stenozla təsirlənmiş").
+giriş(stenoz, n, [stenozlar], "orqan keçidinin daralmasıSTENOTİK sif").
+entry(stent, n, [stentlər], "qan damarına yerləşdirilən boru şəklində cihaz").
+entry(stentor, n, [stentors], "çox gur səsə malik şəxs").
+entry(addim, v, [addim_atdi,addimlayir,addimlar], "ayaği qaldiraraq yeni bir yerə qoyaraq hərəkət etmək üçün").
+entry(stepdad, n, [atalıq], "ögey ata").
+entry(ögey-ana, n, [ögey-analar], "ögey ana").
+entry(pilləsiz, sif, [], "bir səviyyədən digərinə keçmək üçün pilləkənlərin olmaması").
+entry(steplike, sif, [], "pilləkənə bənzəyən").
+entry(ögey_ana, n, [ögey_analar], "ögey ana").
+entry(steppe, n, [steppe], "enişsiz geniş düzənlik").
+entry(addımladı, keçmiş, [], "addım felinin zamanı").
+entry(stepper, n, [addımçılar], "addım atan").
+entry(stepping, indiki, [], "step felinin ortaq feli").
+entry(ögey_oğul, n, [ögey_oğullar], "həyat yoldaşının əvvəlki evlilikdən olan oğlu").
+entry(addım-addım, sifət, [], "tədricən irəliləyiş ilə xarakterizə olunan").
+entry(steran, i, [steranlar], "kimyəvi bir birləşmə").
+stere(girish, i, [stereler], "həcmin vahidi").
+entry(stereo, v, [stereoed, stereoing, stereos], "çap lövhəsi növü etmək").
+entry(sterik, sifət, [], "bir molekuldəki atomların məkan münasibətlərinə aid olan").
+entry(sterik, sif, [], "sterik").
+entry(sterigma, n, [sterigmas], "və ya müəyyən göbələklərin spor daşıyan sapı olan STERIGMATA").
+entry(məhsuldar olmayan, sif, [], "nəsil törətmə qabiliyyətinə malik olmayan").
+giriş(nərə balığı, n, [nərə balıqları], "kiçik bir nərə balığı").
+entry(sterling, n, [sterlingsb], "britaniyalı pul").
+entry(stern, sif, [], "SƏRT SƏRTLƏR DİRENLənilməz").
+entry(stern, n, [sterns], "gəminin arxa hissəsiSTERNED sif").
+giriş(sterna, a, [], "sternumun cəmi").
+entry(sternal, sif, [], "döş sümüyünə aid").
+entry(sternite, n, [sternitlər], "bir somitik sklerit").
+entry(sternly, adv, [], "ciddi bir şəkildə").
+entry(sternson, n, [sternsların], "gəminin möhkəmləndirici dirəyi").
+entry(sternum, n, [sternumlar], "və ya STERNA əksər onurğalıların dəstək verən uzun yastı sümüyü").
+entry(sternway, n, [sternways], "gəminin geri hərəkəti").
+entry(steroid, n, [steroidlər], "kimyəvi birləşmə növü").
+entry(strol, n, [strollar], "bir növ bərk spirt").
+entry(stertor, n, [xorlama], "dərin xoruldama səsi").
+entry(stet, v, [stetted,stetting,stets], "əvvəl edilmiş çap düzəlişini ləğv etmək").
+entry(steviya, n, [steviyalar], "şirin dadlı yarpaqlara sahib Cənubi Amerika ot bitkisi").
+entry(xorək, v, [xorəklədi,xorəkləyir,xorekləyir], "yavaş-yavaş qaynadaraq bişirməkXOREK OLUNAN adj").
+entry(stüard, v, [stüardlaşdırdı,stüardlaşdırır,stüardlar], "idarə etmək").
+entry(stewbum, n, [stewbums], "sərxoş dilənçi, avara").
+entry(qazança, n, [qazançalar], "sıyıq tərkibli yeməklərin bişirilməsi üçün qazan").
+entry(böyükdüyən, n, [böyükdüyənlər], "sulu xörək hazırlamaq üçün böyük qazanın bir növü").
+entry(stewy, sif, [], "qaynama ilə bişirilmiş yemək xüsusiyyətlərinə malik olan").
+entry(stey, sif, [], "dik").
+entry(steniya, n, [steniyalar], "həddindən artıq enerjiSTENİK sif").
+entry(stibial, sifət, [], "stibiuma aid olan").
+entry(stibin, n, [stibinlər], "zəhərli qaz").
+giris(stibium, n, [stibiumlar], "antimon").
+entry(stibnit, n, [stibnitlər], "antimon filizi").
+entry(stich, n, [stichs], "şeir xəttiSTİXİK sif").
+entry(dəyənək, v, [dəyənəkdəi, dəyənəklənişi, dəyənəklər], "nazik taxta parçaları ilə dəstəkləmək").
+entry(stick, v, [batırdı, batırmaq, batırır], "iti bir əşya ilə deşmək").
+entry(etiket, n, [etiketlər], "bir yapışqan etiketSTICKERED adj").
+entry(stickful, n, [stickfuls], "müəyyən növ miqdar").
+giriş(stikie, isim, [stikilər], "yapışqan").
+entry(stickier, comparative, [], "yapışqan").
+entry(etiketler, pl, [], "etiketdən").
+giriş(stickiest, superlativ, [], "sticky-dən").
+entry(stickily, adv, [], "yapışqan şəkildə").
+entry(stickit, sif, [], "uğursuz").
+entry(stickle, v, [stickled,stickling,stickles], "inadla mübahisə etmək").
+entry(stickler, n, [sticklers], "irad edəndən biri").
+entry(stickman, n, [stickmen], "zər masasında oyunu idarə edən şəxs").
+entry(stickout, n, [stickouts], "gözəçarpan olan").
+entry(sancaq, n, [sancaqlar], "bəzəkli qalstuk sancaqı").
+entry(stickum, n, [stickums], "yapışqanlığa səbəb olan bir maddə").
+giriş(silahlı_soyğun, n, [silahlı_soyğunlar], "silahla soyğun").
+entry(sticky, n, [çubuqlar], "arxasında yapışqan zolağı olan qeydlər üçün kağız parçası").
+entry(sticky, sif, [], "DAHA YAPIŞQAN ƏN YAPIŞQAN, yapışmağa meylli").
+entry(stiction, n, [sürtünmələr], "başqa bədənlə təmasda olan bədəni hərəkət etdirmək üçün tələb olunan qüvvə").
+entry(stied, a, [], "sty-in keçmiş zaman").
+entry(sties, indiki, [], "stilə 3-cü şəxsin təki").
+entry(sərt, sif, [], "STİFFER STIFFESTəymək və ya dartmaq çətindir").
+entry(stiff, v, [aldatmaq, aldanmaq, aldadır], "kiməsə ödəməli pulunu ödəməməklə aldatmaq").
+entry(sərtləşdirmək, v, [sərtləşdirdi, sərtləşdirir, sərtləşdirər], "sərt etmək").
+entry(stiffish, sif, [], "bir az sərt").
+entry(stiffly, əvəzlik, [], "sərt bir şəkildə").
+entry(boğmaq, f, [boğdu, boğur, boğar], "dən tıxayıcı şəkildə").
+entry(stifler, n, [boğucular], "boğan biri").
+entry(stigma, n, [stigmalar], "yaxud STIGMATAxəcalət nişanəsiSTIGMAL sif").
+entry(stilben, n, [stilbenlər], "kimyəvi birləşmə").
+entry(stilbit, n, [stilbitlər], "bir mineral").
+entry(stile, n, [pilləkən], "çit və ya divarın üstündən keçmək üçün addımlar silsiləsi").
+entry(stiletto, v, [stilettolu,stiletto etmək, stilettolar], "və ya STILETTOEStə bir stiletto (qısa xəncər) ilə bıçaqlamaq").
+entry(sakit, sif, [], "SƏSSIZ VƏ HƏRƏKƏTSIZ").
+entry(hələ də, f, [sakitləşdi, sakitləşir, sakitləşir], "hələ də etmək").
+entry(stillage, n, [platformalar], "malları yerdən yuxarıda saxlamaq üçün istifadə olunan alçaq platforma").
+entry(stillman, n, [stillmen], "distillə zavodunu işlədən şəxs").
+stillson(giris, n, [stillsonlar], "əyləclənmək və çevirmək üçün böyük bir açar alət").
+entry(stilly, sif, [], "STILLIER STILLIESTstill").
+entry(stilt, v, [hündürdabanlı,hündürdabalaşma,stilts], "uçurum üzərində uzun incə dirəklərlə qaldırmaq").
+entry(stime, n, [stimes], "bir baxış").
+giriş(stimulus, n, [stimuli], "reaksiyaya səbəb olan bir şey").
+entry(stimy, v, [stimied,stimying,stimies], "maneə törətmək").
+entry(sting, v, [sancmaq, sancır, sancılar], "ağrılı şəkildə deşmək").
+entry(stinge, n, [stinges], "pinti və ya xəsis insan").
+entry(stinger, n, [stingers], "sancan biri").
+entry(stingier, müqayisə, [], "stingy-dən").
+entry(stingiest, superlative, [], "stingy olanların").
+entry(xəsisliklə, zərf, [], "xəsis bir şəkildə").
+entry(stingo, n, [stingos], "güclü ale və ya pivə").
+entry(stingray, n, [skatlartar], "yastı bədənli dəniz balığı").
+entry(xəsis, sif, [], "XƏSİS XƏSİSLƏR İLƏ xəsis").
+entry(iyrenclenmek, v, [iyrenclendi,iyrenclenen,iyrenclenir], "pis qoxu vermək").
+entry(stinkard, n, [stinkards], "iyrənc bir şəxs").
+entry(stinkbug, n, [stinkbuglar], "pis qoxu yayan bir həşərat").
+entry(stinker, n, [iyləncələr], "iylənən biri").
+entry(stinko, sif, [], "içkili").
+entry(stinkpot, n, [stinkpots], "döyüşlərdə istifadə olunan pis qoxulu yanan maddələr olan bir qab").
+entry(stinky, sif, [], "STINKIER STINKIESTiyrən bir qoxu yaymaq").
+entry(müddət, v, [məhdudlaşdırdı, məhdudlaşdırma, müddətlər], "məhdudlaşdırmaq").
+entry(stinter, n, [stinters], "bir şey ilə kifayətlənən").
+entry(stipe, n, [stipes], "bitkinin zərif dəstək hissəsiSTIPED sif").
+entry(stipel, n, [stipels], "kiçik bir yunipar").
+entry(stipend, n, [təqaüdlər], "müəyyən dövrdə müntəzəm olaraq ödənilən sabit məbləğdə pul").
+entry(stipes, n, [stipites], "stipe").
+entry(nöqtələmə, v, [nöqtələnmiş,nöqtələmə,nöqtələr], "müxtəlif nöqtə və ya qısa toxunuş vasitəsilə çəkmək, boyamaq və ya həkk etmək").
+entry(stippler, n, [stipplerlər], "nöqtələmə ilə şəkil yaradan").
+entry(stipule, n, [stipules], "bəzi bitkilərdə bir yarpağın dibində yerləşən əlavəSTIPULAR STİPULED sif").
+entry(stir, v, [qarışdırdı,qarışdırır,qarışdırır], "aləti dairəvi hərəkətlərlə keçirmək").
+entry(stirk, n, [stirks], "cavan inək").
+entry(stirp, n, [stirps], "soykökü").
+entry(stirps, n, [stirpes], "ailə və ya ailə qolu").
+entry(qarışdırdı, keçmiş, [], "qarışdırmaq felinin keçmiş zaman forması").
+entry(stirrer, n, [qarışdırıcılar], "qarışdıranlar").
+entry(stirring, n, [stirrings], "hərəkətin başlanğıcı").
+entry(üzəngi, n, [üzəngilər], "atlı üçün ayaq dəstəyi").
+entry(tikmək, f, [tikdi,tikmə,tikmələr], "saplı iynə ilə içəri-çölə hərəkətlər edərək birləşdirmək").
+entry(tikirici, n, [tikircilar], "tikiş edən biri").
+entry(stithy, v, [stithied,stithying,stithies], "dəmir alətləri döymək və kovlaşdırmaq").
+entry(stiver, n, [stivers], "əvvəllər istifadə olunan Holland sikkəsi").
+giris(stoa, n, [stoae], "və ya STOAI və ya STOAS qədim yunan örtüklü gəzinti yeri").
+entry(stoat, n, [stoats], "qara uclu quyruğu olan bir qırqovul").
+entry(stob, v, [stobbed, stobbing, stobs], "bıçaqlamaq").
+entry(stoccado, n, [stoccados], "rapirayla edilən bir zərbə").
+entry(stoccata, n, [stoccatas], "stokkado").
+entry(anbar, f, [anbarda, anbarlayan, anbarlar], "gələcək satış və ya istifadə üçün saxlamaq").
+entry(məhkəmə, v, [məhkəmələndi,məhkəmələnir,məhkəmələr], "ətrafında qoruyucu növ hasar tikmək").
+entry(anbar, n, [anbarlar], "əldə olan təchizat miqdarı").
+giriş(stokkar, n, [stokkarlar], "ev heyvanlarını daşımaq üçün bir yük vaqonu").
+entry(stocker, n, [stockers], "bazara çıxarılmaq üçün kökəldilməyə yararlı cavan heyvan").
+entry(stockier, comparative, [], "dolğun").
+entr(stockiest, superlative, [], "cüssəli olanların").
+entry(stockily, adv, [], "kömpöz bir şəkildə").
+entry(corab, n, [corablar], "ayaq və ayaq üçün toxunmuş örtük").
+entry(stockish, sif, [], "axmaq").
+entry(stokist, n, [stokistlər], "mal ehtiyatı saxlayan şəxs").
+entry(stockman, n, [stockmen], "mal-qarasını satan və ya bəsləyən şəxs").
+entry(stockpot, n, [stockpots], "bulyon hazırlanan qab").
+entry(stocky, adj, [], "QISA KÖK GÖVDƏYƏ MALİK OLAN").
+entry(stodge, v, [stodged, stodging, stodges], "yeməklə dolu doldurmaq").
+entry(stodgy, sif, [], "STODGIER STODGIESTdarıxdırıcıSTODGILY zərf").
+entry(stogey, n, [stogeylər], "stogy").
+entry(stogie, n, [siqarlar], "siqar").
+entry(stogy, n, [stogies], "uzun və incə siqar").
+entry(stoyk, n, [stoyklar], "ləz-zətə və ya ağrıya qarşı laqeyd olan şəxsSTOYKİCİ adj").
+giriş(stoicism, n, [stoicismlər], "xoşbəxtliyə və ya əzaba qarşı biganəlik").
+giriş(stoke, f, [yandırdı, yandırma, yandırır], "bir sobanı yanacaqla təmin etmək").
+entry(stoker, n, [stokers], "odun atan kəs").
+entry(stokesia, n, [stokesiyalar], "çoxillik ot bitkisi").
+entry(şal, n, [şallar], "uzun geniş şərf").
+entry(ogurlanmış, keçmiş, [], "ogurlamaq feilinin iştirakçısı").
+entry(stolid, adj, [], "HEÇ BİR EMOSİYA GÖSTƏRMƏYƏN STOLIDLER STOLIDESTSTOLIDLY adv").
+entry(stollen, n, [stollens], "şirin çörək").
+entry(stolon, n, [stolonlar], "bir növ bitki gövdəsiSTOLONIC sif").
+entry(stolport, n, [stolportlar], "müqayisəli olaraq qısa uçuş-enmə zolaqları tələb edən təyyarələr üçün hava limanı").
+entry(stoma, n, [stomas], "və ya STOMATA bitki orqanının epidermisindəki kiçik açıqlıq").
+giriş(mədə, v, [mədələndi, mədələnmə, mədələr], "dözmək").
+entry(mədəli, sifət, [], "qarınlı").
+entry(stomal, sif, [], "stomatal").
+entry(stomata, a, [], "stoma sözünün cəmi").
+entry(stomatal, sifət, [], "ağızcıq ilə əlaqəli").
+entry(stomate, n, [stomatlar], "bir stoma").
+entry(stomatik, sif, [], "ağıza aid").
+entry(stomodea, cÇ, [], "embrion ağız boşluqları").
+entry(stomp, v, [stomped, stomping, stomps], "yeri güclü addımlamaq").
+entry(stomper, n, [stompers], "tapdalayan").
+entry(stompy, sif, [], "STOMPIER STOMPIEST ayaqların döyülməsinə uyğun").
+entry(daş, f, [daşladı,daşlamaq,daşlar], "bərkimiş torpaq və ya mineral maddənin parçaları ilə atəş etmək, YAŞAYA BİLƏN sifət").
+entry(stonecut, n, [stonecuts], "daş üzərində həkk olunmuş bir təsvirlə hazırlanmış çap").
+entry(stonefly, n, [stoneflies], "qanadlı bir həşərat").
+giriş(stoner, n, [stoners], "daş atan").
+entry(stoney, sif, [], "DAŞLI DAŞLI_DAŞLI").
+entry(stonier, müqayisə, [], "daşlı").
+entry(stoniest, superlative, [], "stony-nin").
+entry(stonily, zərf, [], "daşvari bir tərzdə").
+entry(stoning, indiki, [], "daşlama felinin iştirak fiili").
+giriş(heyrətləndirmək, f, [heyrətləndirdi,heyrətləndirən,heyrətləndirir], "heyrətləndirmək").
+entry(stonk, f, [stonked,stonking,stonks], "artilleriya atəşi ilə bombalamaq").
+entry(stonker, n, [stonkers], "öz növündə çox böyük və ya təsirli bir şey").
+entry(stonking, sif, [], "heyrətamiz həyəcanverici").
+entry(stony, sif, [], "DAŞLIQ daşlı DAŞLIQ").
+entry(stood, keçmiş, [], "dayanmaq felinin zaman forması").
+entry(stooge, v, [stooged,stooging,stooges], "komediyanın köməkçisi kimi hərəkət etmək").
+giriş(stook, v, [stooked, stooking, stooks], "düyünlər halında taxılı qurumaq üçün tarlada dik olaraq yığmaq").
+entry(stooker, n, [stookerlər], "taya düzücü").
+entry(stooking, n, [stookings], "stookerin ishi").
+entry("tualet", v, ["tualetə getdi","tualetə gedir","tualetə gedir"], "tualetə getmək").
+entry(stul, n, [stullar], "məlumatçı").
+entry(əymək, f, [əyildi,əylanır,əyilir], "bədəni irəli və aşağı əymək").
+entry(stooper, n, [stoopers], "əyrilmiş olan").
+entry(stop, v, [dayandırmaq, dayandırır, dayandırdı], "hərəkətin və ya irəliləyişin davam etməsini dayandırmaq").
+entry(stopband, n, [stopbands], "filtr tərəfindən məhdudlaşdırılan tezliklər zolağı").
+giriş(stopbank, n, [stopbanklar], "çay boyunca yerləşən bir bənd").
+entry(dəmirborukrana, n, [dəmirborukranalar], "faucetin növü").
+entry(stope, v, [stoped,stoping,stopes], "filizi təbəqələr halında qazmaq").
+entry(stoper, n, [stopers], "dəniz dayanı").
+entry(stopgap, n, [müvəqqətitul], "müvəqqəti əvəz").
+entry(stoping, n, [stopings], "qatlar şəklində qazıntı prosesi").
+giriş(stopoff, n, [stopoffs], "aradaxil olma").
+entry(stopover, n, [dayanacaqlar], "səyahət zamanı qısa dayanacaq").
+entry(dayanma, n, [dayanmalar], "dayandırma hərəkəti").
+entry(dayandı, a, [], "dayandırmaq felinin keçmiş zamanı").
+entry(stopper, v, [stoppered,stoppering,stoppers], "bağlamaq").
+entry(dayandırmaq, indiki, [], "dayandırmanın feli sifəti").
+entry(stopple, f, [stopplədi, stoppləyir, stoppləyər], "stopper etmək").
+entry(dayandı, a, [], "dayanmaq felinin keçmiş zaman forması").
+entry(stopword, n, [stopwords], "axtarış motorları tərəfindən axtarılmayan tez-tez istifadə olunan söz").
+entry(saxlanıla bilən, isim, [saxlanılanlar], "saxlana bilən bir şey").
+entry(saxlama, n, [saxlamalar], "saxlama yeri").
+entry(storaks, n, [storakslar], "xoş ətirli bir qatran").
+entry(store, v, [yığıb saxladı,yığıb saxlamaq,yığıb saxlayır], "gələcək istifadəyə qoymaq").
+entry(storeman, n, [storemen], "anbarda saxlanılan mallara baxan kişi").
+entry(storer, n, [anbarlar], "saxlayan biri").
+entry(mərtəbə, n, [mərtəbələr], "binanın üfüqi bölməsiMƏRTƏBƏLİ adj").
+entry(storied, keçmiş, [], "hekayə forması").
+entry(hekayələr, indiki, [], "hekayənin 3-cü şəxs tək halı").
+giriş(saxlama, indiki, [], "saxla felinin iştirak forması").
+entry(leylək, n, [leyləklər], "su quşu").
+giriş(fırtına, f, [fırtınadı,fırtına edən,fırtınalar], "şiddətlə əsdirmək").
+entry(fırtınalı, adj, [], "FIRTINALI FIRTINALARFırtınalamTƏCİLLƏicament adv").
+entry(hekayə, f, [hekayəli, hekayələşdirir, hekayələr], "bir hadisəni və ya hadisələr sırasını hekayə şəklində nəql etmək").
+entry(stoss, sif, [], "buzaqotunun hərəkət etdiyi istiqamətə yönəlmiş").
+entry(stot, v, [stotted,stotting,stots], "ayaqları sərt şəkildə hərəkət edərək tullanmaq").
+entry(stotin, n, [stotins], "keçmiş Sloveniya pul vahidi olan STOTINOV").
+entry(stotinka, n, [stotinki], "Bolqarıstanın pul vahidi").
+entry(stott, f, [stotted, stotting, stotts], "tullanmaq").
+entry(stound, v, [stounded,stounding,stounds], "ağrımaq").
+entry(stoup, n, [stoups], "müqəddəs su üçün bir leğən").
+entry(toz, n, [tozlar], "dust").
+entry(stoure, n, [stoures], "stur").
+entry(stourie, sif, [], "stoury").
+entry(stoury, sif, [], "tozlu").
+entry(stout, sif, [], "STOUTER STOUTESTkök").
+entry(stout, n, [stouts], "güclü tünd ale").
+entry(stouten, v, [stoutened, stoutening, stoutens], "kökəlmək etmək").
+entry(stoutish, sif, [], "bir qədər sısqa").
+entry(stoutly, adv, [], "igidcəsinə").
+entry(soba, v, [isidildi, isidilir, isidər], "bir şeyi istilik aparatıyla isitmək").
+entry(stover, n, [stovers], "iri buynuzlu heyvanlar üçün qaba yem").
+entry(sobaustu, n, [sobaustləri], "bişirmə aparatının üst səthi").
+entry(stow, f, [stowed, stowing, stows], "yığmaqSTOWABLE sif").
+entry(stowage, n, [stowages], "anbarda olan mallar").
+entry("gizlin sərnişin", isim, ["gizlin sərnişinlər"], "nəqliyyat vasitəsində pulsuz səyahət etmək üçün gizlənən şəxs").
+entry(stowp, n, [stowps], "bardaç").
+entry("ayaqları geniş açaraq oturmaq, dayanmaq və ya yerimək", f, ["ayaqları geniş açaraq oturdu", "ayaqları geniş açaraq oturur", "ayaqları geniş açaraq oturur"]).
+entry(strafe, v, [strafed,strafing,strafes], "təyyarədən pulemyot atəşi ilə hücum etmək").
+entry(strafer, n, [straferlər], "atəş açan biri").
+entry(straggle, v, [straggled,straggling,straggles], "azmaq").
+entry(straggly, adj, [], "DÜZƏNSİZ ŞƏKİLDƏ YAYILAN").
+entry(düz, sifət, [], "DÜZDÜR DÜZƏN ənçox bir istiqamətdə əyilmədən və ya nizamsızlıqlarla uzanır").
+entry(düz, f, [düzdü, düzülmə, düzlər], "düz etmək").
+entry(strain, v, [gəzgindirmaq, gəzginmək, gəzdir], "bütün gücü ilə çalışmaq").
+entry("süzgəc", n, ["süzgəclər"], "mayeləri bərk maddələrdən ayırmaq üçün istifadə olunan alət").
+entry(boğaz, sifət, [], "BOĞAZLAR BOĞAZLAR ən dar BƏRGAH adv").
+giriş(boğaz, i, [boğazlar], "iki böyük su hövzəsini birləşdirən dar su yolu").
+entry(daraltmaq, v, [daraldı, daralan, daraldır], "dar etmək").
+entry(strake, n, [strakes], "gəmidə gövdə boyunca uzanan taxta xətti").
+entry(stramash, n, [çalxalanmalar], "çalxalanma").
+entry(stramony, n, [stramonies], "zəhərli alaq otu").
+giriş(strand, v, [tərk edilmiş, tərk etmək, iplər], "uyğunsuz vəziyyətdə qoymaq").
+entry(strander, n, [stranders], "lifləri ipə çevirən bir maşın").
+entry(strang, sifət, [], "güclü").
+entry(qəribə, n, [qəribələr], "əsas kvark").
+entry(qəribə, sif, [], "QƏRİBƏ QƏRİBƏLƏRSİZdəyişən və ya tanış olmayan").
+entry(yad, f, [yadlaşdırılmış,yadlaşdırma,yadlar], "uzaqlaşdırmaq").
+entry(boğmaq, f, [boğdu,boğmaqda,boğur], "boğaraq öldürmək").
+entry(kəmər, v, [kəmərlədi,kəmərləyir,kəmərləyir], "elastik materialdan olan dar bir zolaq ilə bağlamaq").
+entry(strapper, n, [strappers], "bağlayan biri").
+entry(strappy, sif, [], "KÖRPÜBUZLU KÖRPÜBUZların qayışı olan").
+entry(strass, n, [strasslar], "saxta daşlar istehsalında istifadə edilən parlaq şüşə").
+entry(strata, n, [stratas], "qida təbəqələrinin növbələşdiyi yemək").
+entry(stratal, sif, [], "stratuma aid olan").
+entry(strategy, n, [strateqiyalar], "müəyyən bir məqsədə nail olmaq üçün bir plan").
+entry(strath, n, [strathlar], "geniş çay vadisi").
+entry(strati, pl, [], "stratusun").
+entry(təbəqələşdirmək, v, [təbəqələşdirilmiş,təbəqələşdirən,təbəqələşdirir], "qatlar halında təşkil etmək və ya düzəltmək").
+entry(stratous, sif, [], "stratal").
+entry(stratum, n, [stratums], "və ya STRATA bir material qatıdır").
+entry(stratus, n, [strati], "və ya STRATUSES, bulud növü").
+entry(stravage, v, [gəzdi,gəzən,gəzər], "gəzmək").
+entry(stravaig, v, [stravaiged, stravaiging, stravaigs], "gəzib dolaşmaq").
+giriş(saman, f, [samandı, samannamaq, samanlar], "doğranmış taxılın saman saplaqları ilə örtmək").
+giriş(samanşapka, sif, [], "kurort ərazisində yerləşən bir yay teatrı ilə əlaqəli").
+entry(strawy, sif, [], "SAMAN KİMİ SAMAN KİMİDİR").
+entry(azmaq, f, [azdı, azmaqda, azır], "düzgün sahədən və ya yoldan uzaqlaşmaq").
+entry(strayer, n, [strayers], "azmış biri").
+entry(streak, v, [streaked, streaking, streaks], "uzun ensiz izlərlə örtmək").
+entry(streaker, n, [streakerlər], "çılpaq şəkildə qaçan biri").
+entry(streaky, adj, [], "ZOLAQLI ZOLAQLARLA ÖRTÜLÜ").
+entry(axın, v, [axan,axanlar,axınlar], "sabit bir axınla axmaq").
+entry(streamer, n, [streamers], "uzun dar bayraq").
+entry(streamy, adj, [], "STREAMIER STREAMIEST axıram").
+entry(streek, v, [streeked,streeking,streeks], "dartmaq").
+entry(streeker, n, [streeklər], "streek edəni").
+entry(streel, v, [streeled,streeling,streels], "gəzintiyə çıxmaq").
+entry(küçə, n, [küçələr], "ictimai keçidKÜÇƏLİ adj").
+entry(güc, n, [güclər], "səy göstərmə və ya davam gətirmə qabiliyyəti").
+entry(strep, n, [streps], "müxtəlif sferik və ya oval bakteriyalardan hər hansı biri").
+entry(stress, v, [stressed, stressing, stresses], "vurğulamaq").
+entry(stressor, n, [stresslər], "bir növ stimul").
+entry(sərmək, f, [sərdi,sərməkdədir,sərir], "tam uzunluğuna qədər açmaq və ya uzatmaq").
+entry(stretchy, sif, [], "UZAQAN UZAQANDAnaham meylli olmaq").
+entry(stretta, n, [strettalar], "və ya STRETTEnarahat").
+entry(stretto, n, [strettos], "və ya STRETTO daha sürətli temponun performansı ilə müşayiət olunan musiqi parçalarının nəticəsi").
+entry(streusel, n, [streusels], "qəhvə tortları üçün bir üstlük").
+entry(səpələmək, f, [səpələdi,səpələnmiş,səpələyir], "SƏPƏLƏMƏKeninə səpələmək").
+entry(strewer, n, [yayanlar], "yayan kəs").
+entry(stria, n, [striae], "nazik çökəklik, zolaq və ya xətt").
+entry(striate, v, [cizgili,cizgiləndirir,cizgilər], "cizgilərlə işarələmək").
+entry(striatum, n, [striata], "beyində yerləşən sinir toxuması kütləsiSTRIATAL sif").
+entry(strick, n, [stricks], "bir dəstə kətan lifləri").
+entry(stricken, sif, [], "güclü təsirlənmiş və ya əziyyət çəkmiş").
+entry(strickle, f, [strickled,strickling,strickles], "düzəldici alətlə taxılı səviyyələşdirmək üçün forma vermək və ya hamarlamaq").
+entry(qəti, adj, [], "DAHA QƏTİ DAHA QƏTİSƏHBir o qədər və xüsusi məhdudiyyətlərlə saxlanılırQƏTİ olaraq adv").
+girdi(addım, f, [addımladı, addımlamış, addımlamaqda], "ADDIMUzun addımlarla yerimək").
+entry(strident, sif, [], "kəskin").
+entry(strider, n, [yananlar], "addımlayan biri").
+entry(striding, indiki, [], "stride -in iştirakçı halı").
+entry(stridor, n, [stridors], "çox yüksək səs").
+entry(münaqişə, n, [münaqişələr], "acı münaqişə və ya narazılıq").
+entry(strigil, n, [strigillər], "qaşıma aləti").
+entry(strigose, sif, [], "qısa sərt tüklərlə örtülü").
+entry(zərbə, f, [vurulmuş,vurmaq,vurur], "güclü bir şəkildə vurmaq").
+entry(hücumçu, n, [hücumçular], "vurucu").
+entry(striking, n, [strikings], "bir şeyi zorla vurma hərəkəti").
+entry(strine, n, [strinese], "Avstraliyada danışılan İngilis dili").
+entry(string, v, [simli,simləmə,simlər], "incə simlər təmin etmək").
+entry(stringer, n, [stringerlər], "ip keçirən").
+entry(stringy, adj, [], "STRINGIER STRINGIESTipə-sapa bənzər").
+entry(strip, v, [soymak, soyulma, soyur], "üstdəki örtüyü kənarlaşdırmaq üçün").
+entry(stripe, v, [zolaqlı,zolaqlamaq,zolaqlar], "uzun müxtəlif zolaqlarla işarələmək").
+entry(striper, n, [striperler], "bir qida və oyun balığı").
+entry(zolaqlı, sif, [], "ZOLAQLI ZOLAQLI-zolaqlı").
+entry(stripier, müqayisəli, [], "zolaqlı olan").
+entry(stripiest, superlative, [], "çizgili").
+entry(striping, n, [zolaqlar], "bir şeyin üzərinə çəkilmiş və ya boyanmış zolaqlar").
+entry(stripped, a, [], "strip felinin keçmiş zaman forması").
+entry(stripçi, n, [stripçilər], "soyan biri").
+entry(stripping, indiki, [], "strip-in iştirakçıliyi").
+entry(stript, a, [], "stripin keçmiş zamanı").
+entry(stripy, sifət, [], "ZOLAQLI ZOLAQLARLA qeyd edilmişdir").
+entry(cəhd etmək, v, [cəhd etdi, cəhd edilmiş, cəhd edən], "ÇALIŞMAQçox səy və ya enerji sərf etmək").
+giris(striver, n, [strivers], "çalışan biri").
+entry(strobe, v, [strobed,strobing,strobes], "qısa müddətli yüksək intensivlikli işıq yanıb-sönmələri yaratmaq üçün").
+entry(strobik, sifət, [], "fırlanan").
+giriş(strobil, n, [strobils], "strobil").
+entry(strobila, n, [strobilalar], "lentə qurdunun bütün bədəni").
+entry(strobile, i, [strobilelər], "bəzi ağacların konik çoxqat meyvəsi").
+entry(strobili, cəm, [], "strobiles").
+entry(strobing, n, [strobings], "yüksək intensivlikdə işıq flaşları istehsal prosesi").
+entry(strode, a, [], "stride felinin keçmiş zaman forması").
+entry(fırça, v, [fırçalandı,fırçalama,fırçalar], "yavaşca ovmaq").
+entry(stroker, n, [strokers], "sığayan").
+entry(gəzmək, f, [gəzdi, gəzməkdə, gəzir], "rahat bir şəkildə gəzmək").
+entry(uşaq_arabasi, n, [uşaq_arabalari], "gəzən biri").
+entry(stroma, n, [stromata], "bir orqanın və ya hüceyrənin karkasını təşkil edən maddəSTROMAL sif").
+entry(güclü, sif, [], "DAHA GÜCLÜ ƏN GÜCLÜböyük gücəmaliGÜCLÜ ŞƏKİLDƏ adv").
+entry(stronqil, n, [stronqillər], "parazit qurd").
+entry(strontia, n, [strontias], "kimyəvi bir birləşməSTRONTIC adj").
+entry(strook, a, [], "strike fleilinin keçmiş zamanı").
+entry(strop, v, [davalanmış,davalama,davalar], "dəri zolağında itiləmək").
+entry(strofa, n, [strofalar], "qədim yunan xor odasının bir hissəsiSTROFİK sif").
+entry(stropper, n, [stropperlər], "kəskinləşdirən").
+entry(stroppy, sif, [], "STROPIYER STROPIYESTintizamsız").
+entry(stroud, n, [strouds], "qalın yun yorğan").
+entry(strove, a, [], "strive felinin keçmiş zamanı").
+entry(strow, v, [strowed,strown,strowing], "STROWTo səpmək").
+entry(stroy, f, [stroyed,stroying,stroys], "məhv etmək").
+entry(stroyer, n, [stroyers], "stroy edən birisi").
+entry(struck, a, [], "strike feli keçmiş zaman").
+entry(strucken, a, [], "strike felinin kecmis katilim formasi").
+entry(ştrudel, n, [ştrudellər], "bir növ xəmir işi").
+entry(mübarizə, v, [mübarizə_apardı,mübarizə_aparır,mübarizələr], "müxalifətə qarşı ciddi səy göstərmək").
+giriş(strum, v, [strummed,strumming,strums], "tellə çalınan aləti barmaqlarını yüngülcə tellər boyunca hərəkət etdirərək çalmaq").
+entry(struma, n, [strumas], "və ya STRUMAEskrofula").
+entry(strummer, n, [strummers], "zərbəçi").
+entry(strumming, indiki, [], "strumun ortaq hərəkət adı").
+entry(strumose, sif, [], "zob xəstəliyi olan").
+entry(strumous, sif, [], "zuma malik olan və ya zumaya aid olan").
+entry(fahişə, n, [fahişələr], "bir fahişə").
+entry(strung, a, [], "stringin keçmiş zamanı").
+entry(strunt, v, [strunted,strunting,strunts], "dik gəzmək").
+entry(strut, v, [dik yeridi,dik gedirken,dik yeriyir], "lovğa dəyişməsi ilə yerimək").
+entry(strutter, n, [strutters], "özünü nümayiş etdirən").
+giriş(stub, v, [stubbed,stubbing,stubs], "qabarıq bir obyektə təsadüfən vurmaq").
+entry(stubbier, müqayisəli, [], "of stubby").
+entry(stubbiest, superlative, [], "qısaboylu").
+entry(qalınvari, adv, [], "qalın formada").
+entry(stubbing, indiki, [], "stub-un məsdəri").
+entry(süpürgəc, n, [süpürgəclər], "qısa kobud saqqal uzanmasıSÜPÜRGCƏLİ sif").
+entry(stubbly, sif, [], "STUBBLIER STUBBLIESTtəkməli ilə örtülü").
+entry(dikbaş, sifət, [], "DİKBAŞ DİKBAŞ Ötənilməz").
+giriş(küt, sif, [], "KÜTLƏRDƏN KÜT QISA və QALIN KÜT ADV").
+entry(stubby, n, [stubbies], "qısa cılız pivə şüşəsi").
+entry(stukko, v, [stukkolanmış,stukkolayıram,stukkolar], "STUKKO ilə suvaqla örtmək").
+entry(suvaqçı, n, [suvaqçılar], "suvaq edən şəxs").
+entry(sıxılmış, keçmiş, [], "stick sözünün zaman forması").
+entry(stud, v, [studded,studding,studs], "kiçik çıxıntılarla sıx şəkildə örtmək").
+entry(studbook, n, [studbooks], "safqanlı heyvanların mənşəcədinin qeydi").
+entry(studdie, n, [studdies], "dəmirçi aləti").
+entry(studding, n, [studdings], "divarın çərçivəsi").
+entry(tələbə, n, [tələbələr], "rəsmi olaraq təhsil alan şəxs").
+entry(studfish, n, [studfishes], "şirin su balığı").
+entry(oxudu, kecmis, [], "təhsil almanın zaman şəkli").
+entry(tələbə, n, [tələbələr], "öyrənən biri").
+entry(tədqiqatlar, indiki, [], "tədqiqatın 3-cü şəxsin tək halı").
+entry(studiya, n, [studiyalar], "rəssamın iş otağı").
+entry(mütəfəkkir, sif, [], "təhsilə meyilli").
+entry(studly, sifət, [], "ƏZƏLƏLİ VƏ CAZİBƏDARSağlamlı Və Əzələli").
+entry(studwork, n, [studworks], "studding").
+entry(öyrənmək, f, [öyrəndi,öyrənir,öyrənir], "biliyin əldə edilməsi üçün zehni tətbiq etmək").
+entry(stuff, v, [doldurulmuş,doldurmaq,doldurur], "doldurmaq və ya bərk yığmaq").
+entry(stuffer, n, [stuffers], "dolduran şəxs").
+entry(doldurma, n, [doldurmalar], "bir şeyin doldurulduğu material").
+entry(stuffy, sif, [], "STUFFIER STUFFIESTzəif havalandırılanSTUFFILY adv").
+entry(stuiver, n, [stuivers], "stiver").
+entry(stull, n, [stulls], "məndəstək ağacı mədəniyyətdə").
+entry(əhəmiyyətsizləşdir, f, [əhəmiyyətsizləşdirilmiş, əhəmiyyətsizləşdirən, əhəmiyyətsizləşdirir], "absurd görünməyə səbəb olmaq").
+entry(stum, v, [stumladı, stumlama, stumlar], "üzüm suyu əlavə edərək mayalanmasını artırmaq").
+entry(sürüşmək, f, [sürüşdü,sürüşmə,sürüşür], "yerimək və ya qaçmaqda addımı qaçırmaq").
+entry(səndələyən, n, [səndələyənlər], "səndələyən biri").
+entry(kötük, v, [kötükdə, kötüklənmə, kötüklər], "çaşdırmaq").
+entry(stumpage, n, [stumpages], "kəsilməmiş satılan ağac").
+entry(stumper, n, [suallar], "çeşidləmək çətin olan sual").
+entry(stumpy, adj, [], "STUMPİER STUMPİESTqısa və qalınSTUMPİLY zərf").
+giriş(sərsəmlətmək, f, [sərsəmlədilmiş,sərsəmlədən,sərsəmlədir], "hərəkətsiz və ya fəaliyyət qabiliyyətsiz etmək").
+entry(stung, keçmiş, [], "sting-in zamanıdır").
+entry(stunk, a, [], "stink" felinin keçmiş zaman forması).
+entry(stunner, n, [stunners], "çaşdıran").
+entry("stunsail", n, ["stunsails"], "yelkən növü").
+giriş(stunt, f, [stunted, stunting, stunts], "normal böyüməni əngəlləmək").
+entry("kaskadyor", n, ["kaskadyorlar"], "təhlükəli fəaliyyətlər tələb edən səhnələrdə aktyor əvəzedici olan şəxs").
+entry(stupa, n, [stuplar], "Buddist məbədi").
+entry(stupe, n, [stupes], "yaranın üstünə qoyulan dərmanlı bez").
+entry(huşunuçağırmaq, f, [huşunuçağırdı, huşunuçağırma, huşunuçağırır], "hisləri kütləşdirmək").
+entry(axmaq, sif, [], "DAHAHA AXMAQ ƏN AXMAQ zehni baxımdan yavaş AXMAQCA zərf").
+stupid_giris(ahmaq, n, [ahmaqlar], "bir ahmaq şəxs").
+entry(stupor, n, [stupors], "azalmış hissiyat vəziyyəti").
+entry(dayanıqlı, sif, [], "Daha dayanıqlı Ən dayanıqlıGüclü və davamlıDayanıqlı şəkildə zərf").
+entry(möhkəm, n, [möhkəmlər], "qoyunların xəstəliyiMÖHKƏMLƏNİR adj").
+entry(ketabalığı, n, [ketabalıqları], "yeyilə bilən balıq").
+entry(sturt, n, [sturts], "mübahisə").
+entry(kəkələmək, f, [kəkələdi,kəkələyir,kəkələyər], "spazmatik təkrarlarla danışmaq").
+entry(sty, v, [styed,stying,sties], "donuz damında saxlamaq üçün").
+entry(stye, n, [styes], "göz qapağının iltihablı şişməsi").
+entry(stygian, sif, [], "qəmgin").
+entry(stylar, sif, [], "stilusa aid olan").
+entry(stylate, sif, [], "styleti olan").
+entry(stil, v, [stilə, stilənmə, stillər], "adlandırmaq").
+entry(styler, n, [stilistlər], "stil verən biri").
+entry(stilet, i, [stiletlər], "bəzi heyvanların kiçik, sərt orqanı və ya əlavəsi").
+entry(styli, a, [], "stylusun pl").
+entry(stil, n, [stilinqlər], "bir şeyin üslublaşdırılması üsulu").
+giriş(stilizə, v, [stilizə edilmiş, stilizə edilməsi, stilizələr], "stilizə etmək").
+entry(stilizator, n, [stilizatorlar], "stilizə edən").
+entry(stylish, sif, [], "dəbli").
+entry(stilist, n, [stilistlər], "ədəbi və ya ritorik üslub ustası olan şəxs").
+entry(stilit, n, [stilites], "erkən xristian asketSTILITİK adj").
+entry(stilizə etmək, f, [stilizə etdi, stilizə edir, stilizə edir], "ənənəvi etmək").
+entry(stylizer, n, [stilizə edicilər], "stilizə edən biri").
+entry(stiloyid, n, [stiloyidlər], "sümüyün incə çıxıntısı").
+entry(stylopid, n, [stylopidlər], "bir stylops").
+entry(stylops, n, [stilops], "başqa həşəratların paraziti olan həşərat").
+entry(stil, n, [styllər], "və ya STİLİyazmaq, işarələmək və ya həkk etmək üçün bir uclu alət").
+entry(stymie, v, [stymied, stymieing, stymies], "maneə törətmək").
+entry(maneə, f, [maneəledi,maneələyənlər,maneələyir], "mani olmaq").
+entry(stipsis, n, [stipsislər], "stiptikin istifadəsi").
+entry(stiptik, n, [stiptiklər], "qanaxmanı dayandırmaq üçün istifadə olunan maddə").
+entry(styrax, n, [styraxes], "storaks").
+entry(stiren, n, [stirenlər], "mayə karbohidrogen").
+entry(suable, adj, [], "məhkəməyə verilə bilən SUABLY adv").
+entry(təsir, n, [təsirlər], "təsirEDİCİ TƏSİREDİCİ sif").
+entry(zərif, sif, [], "ZƏRIF ZƏRİFDİR çox nəzakətli və incə ZƏRIFCƏ zərf").
+entry(zariflik, n, [zarifliklər], "zarif olma vəziyyəti").
+entry(sub, v, [əvəz etdi, əvəz edərək, əvəz edir], "əvəz etmək").
+entry(suba, n, [subas], "sübh").
+entry(subabbot, n, [subabbots], "tabeliyindəki abbat").
+entry(subasid, sif, [], "bir qədər turş").
+entry(biraz_turşulu, sif, [], "bir qədər turşulu").
+entry(subakut, sif, [], "bir qədər kəskin").
+entry(subadar, n, [subadarlər], "subahdar").
+entry(subadult, n, [subadultlar], "böyüklüyə yaxınlaşan bir fərd").
+giriş(subagent, n, [subagents], "tabe agent").
+entry(subah, n, [subahs], "Hindistanın bir vilayəti").
+entry(subahdar, n, [subahdarlar], "bir subahın valisi").
+entry(subalar, sif, [], "qanadların altında yerləşən").
+entry(subarea, n, [subareas], "bir sahənin alt bölməsi").
+entry(subarid, sifət, [], "qismən quraq").
+entry(subatom, n, [subatoms], "atomun tərkib hissəsi").
+entry(subaural, adj, [], "çətin eşidilən").
+entry(subaksial, sif, [], "qismən aksial").
+entry(subbase, n, [subbazas], "baza-nın ən aşağı hissəsi").
+entry(subbasin, n, [subbasins], "çayın axdığı sahənin bir hissəsi").
+entry(subbass, n, [subbasslar], "orqanın ən aşağı tonlarını çıxaran pedal stopu").
+entry(subbed, keçmiş, [], "sub-in zaman forması").
+entry(subbing, n, [subbings], "fotofilm dəstəyində nazik örtük").
+entry(subblock, n, [subblocks], "blokun altsistemi").
+entry(subbreed, n, [subbreeds], "cins daxilində ayırd edilən bir növ").
+entry(subkast, n, [subkastlar], "kastın bir bölümü").
+entry(subcause, n, [subcauses], "tabeli səbəb").
+entry(subcell, n, [subcells], "hüceyrənin bir bölməsi").
+entry(subchief, n, [subchiefs], "tabe olan rəis").
+entry(subclaim, n, [subclaims], "tabe iddia").
+entry(subklan, n, [subklanlar], "bir klanın alt bölməsi").
+entry(subclass, v, [sinifləndirilmiş,sinifləndirmə,siniflər], "bir sinifin alt bölməsinə yerləşdirmək").
+entry(subclerk, n, [subclerks], "tabeliyində olan katib").
+entry(altkod, n, [altkodlar], "bir kodun alt bölməsi").
+giris(subcool, v, [subcooled,subcooling,subcools], "soyulmamaq şərtilə dondurulma nöqtəsinin altına soyutmaq").
+entry(subcult, n, [subkultlar], "bir kultun alt bölməsi").
+entry(subcutis, n, [subcutises], "və ya SUBCUTES dərinin dərin hissəsi").
+entry(subdekan, n, [subdekanlar], "müavin dekan").
+entry(subdeb, n, [subdebs], "debutant olmamışdan əvvəlki il olan qız").
+giriş(yandalğa, n, [yandalağalar], "başqa bir anbarın yurisdiksiyasında fəaliyyət göstərən hərbi anbar").
+entry(tabeetdirmə, n, [tabeetdirmələr], "tabeetdirmə hərəkəti").
+entry(subduce, v, [apardı,apararaq,aparır], "alıb aparmaq").
+giriş(subduct, v, [subducted,subducting,subducts], "altına keçirmək").
+entry(ram, v, [ramdi,rama,ramir], "nəzarət altına almaq").
+entry(zəbt_eden, n, [zəbt_edenlər], "zəbt edən şəxs").
+entry(subdural, sif, [], "dura materin altında yerləşən").
+giriş(altdəvə, n, [altdəvələr], "nisbətən az parlaqlığa malik olan kiçik ulduz").
+entry(subecho, n, [subechoes], "aşağı səviyyəli əks-səda").
+entry(subedit, v, [redaktor_muavini_kimi_çalıştı, redaktor_muavini_kimi_çalışır, redaktor_muavini_kimi_çalışır], "redaktor müavini kimi işləmək").
+entry(subentry, n, [altbaşlıqlar], "daha ümumi bir başlıq altında edilmiş bir giriş").
+entry(altepa, n, [altepalar], "epoxanın bir alt bölməsi").
+suber(giris, isim, [suberler], "phellem").
+entry(suberect, adj, [], "demək olar ki, dik").
+entry(suberik, sifət, [], "ağaca bağlı olan").
+entry(suberin, n, [suberinlər], "korteks hüceyrələrində tapılan bir maddə").
+entry(suberise, v, [suberised,suberising,suberises], "suberizə etmək").
+entry(suberize, v, [suberized,suberizing,suberizes], "mantar toxumasına çevirmək").
+entry(suberose, sifət, [], "qabarıq").
+entry(suberous, sif, [], "suberose").
+entry(altsahə, n, [altsahələr], "öz sahəsi olan riyazi sahənin alt qruplaşması").
+giriş(subfile, n, [subfiles], "faylın bölməsi").
+entry(subfix, n, [subfixlər], "digər simvoldan aşağıda yazılmış fərqli bir simvol və ya hərf").
+entry(paltaryuyan, n, [paltaryuyanlar], "tamamlanmış döşəmənin əsas kimi qoyulmuş kobud döşəmə").
+entry(subfluid, sifət, [], "bir qədər maye").
+entry(subframe, n, [subframes], "örtük çərçivəsinin qoşulması üçün çərçivə").
+entry(subfusc, n, [subfuscs], "qaranlıq tutqun geyim").
+janra_görü, n, [janralar], "janrın bir bölməsi".
+entry(subgenus, n, [yarımcins], "yaxud YARIMCİNSLƏRadın bir alt bölməsi").
+giriş(tabelməqsəd, n, [tabelməqsədlər], "yan məqsəd").
+entry(subgrade, n, [altquruluşlar], "asfaltın qoyulduğu səth").
+entry(subgraph, n, [subgraphs], "böyük bir qrafiki daxilində olan qrafik").
+giriş(subqrup, v, [subqruplaşdırılmış,subqruplaşma,subqruplar], "kiçik qruplara bölmək").
+entry(subgum, n, [subgumlar], "qarışıq tərəvəzlərdən ibarət Çin yeməyi").
+entry(subhead, n, [altbaşlıqlar], "bölmənin başlığı").
+entry(subhuman, n, [subhumans], "insandan aşağı olan biri").
+entry(subhumid, sifət, [], "bir qədər rütubətli").
+entry(subidea, n, [subideyalar], "daha aşağı bir ideya").
+entry(subindex, n, [subindexes], "və ya SUBINDICES üçün son əlavə").
+entry(subitem, n, [yarımmövzular], "böyük mövzuya aid olan bir bölmə").
+entry(subito, zərf, [], "tez, musiqi istiqaməti kimi istifadə olunur").
+entry(mövzu, v, [məruzə,qoyma,mövzular], "yaşamağa səbəb olmaq").
+entry(birləşdirmək, v, [birləşdirilmiş,birləşdirilir,birləşdirir], "axırına əlavə etmək").
+entry(sublate, f, [ləğv etdi, ləğv edir, ləğv edir], "ləğv etmək").
+entry(alticarə, v, [alticarəyəverilmiş,alticarəyəvermə,alticarəyəverir], "icarəyə vermək").
+entry(kirayeverme, f, [kirayeverme,kirayevermeprosesi,kirayevermeler], "kirayə verilmiş əmlakı başqasına kirayə vermək").
+entry(sublevel, n, [sublevels], "aşağı səviyyə").
+entry(sublime, sif, [], "ƏZƏMƏTLİ ƏZƏMƏTLİTƏN yüksək və ya nəcib keyfiyyət").
+giriş(ucqar, v, [ucqarladı,ucqarlaşır,ucqarlaşır], "ucqar etmək").
+giriş(subaylaşdıran, n, [subaylaşdıranlar], "sublimasiya edən").
+giriş(ən_ucadır, üstün_sözdür, [], "uca olan").
+entry(sublimit, n, [sublimits], "məhdudiyyət daxilində məhdudiyyət").
+entry(subline, n, [sublines], "bir nəslin daxilindəki cins").
+yazı(subqrunt, n, [subqruntlar], "bir sahənin alt bölməsi").
+entry(sublunar, sif, [], "yerə aid olan").
+entry(submenu, n, [təsviredici olan obyektlər], "kompüter üçün ikinci dərəcəli seçimlər siyahısı").
+entry(batma, v, [batdı,batır,batır], "maye səthinin altına qoymaq").
+giriş(submerse, f, [submersed,submersing,submerses], "batırmaq").
+entry(submiss, sif, [], "təqdim etməyə meyilli").
+entry(submit, v, [təslim olub,təslim olur,təslim olacaq], "bir başqasının gücünə təslim olmaq").
+entry(subnasal, sif, [], "burnun altında yerləşən").
+entry(altsistem, n, [altsistemlər], "əlaqə sistemindəki əlaqələr sistemi").
+entry(subniche, n, [subniches], "bir yaşayış mühitinin alt bölməsi").
+entry(subnodal, sif, [], "düyünün altında yerləşən").
+entry(sübokean, adj, [], "okeanın altındakı təbəqənin altında mövcud olan").
+entry(suboptik, sif, [], "gözlərin altında yerləşən").
+entry(suboral, sifət, [], "ağzın altında yerləşən").
+entry(suborder, n, [alt dəstələr], "dəstə daxilində əlaqəli ailələr kateqoriyası").
+entry(suborn, v, [təlxli,təqlxlik,təlxli], "yalan yerə şahidlik etməyə təhrik etmək").
+entry(suborner, n, [subornerlər], "birini yoldan çıxaran").
+entry(suboval, sifət, [], "demək olar ki, oval").
+entry(subovate, sif, [], "demək olar ki, yumurtavarı").
+entry(suboksid, n, [suboksidlər], "nisbətən az oksigen ehtiva edən bir oksid").
+entry(subpanel, n, [altpanellər], "bir panelin alt bölməsi").
+entry(subpar, adj, [], "normadan aşağı").
+entry(subpart, n, [subparts], "bir hissənin alt bölməsi").
+entry(subpena, v, [subpenaed,subpenaing,subpenas], "çağırış göndərmək").
+entry(subphase, n, [subphases], "bir fazanın alt bölümü").
+entry(subphyla, npl, [], "fizikultrofiya daxilində bölmələr").
+entry(subplot, n, [subplotlar], "ikinci dərəcəli ədəbi süjet").
+entry(məhkəmə çağırışı, v, [çağırıldı, çağırılır, çağırışlar], "məhkəmə çağırışı ilə çağırmaq").
+entry(subpolar, sif, [], "qütb dairələrinin kənarında yerləşən").
+entry(subprime, sif, [], "əsas faiz dərəcəsindən yüksək faiz dərəcəsi olan krediti bildirir").
+entry(subpubic, sif, [], "çanaq sümüyünün altında yerləşən").
+entry(subrace, n, [yarışaltılar], "bir yarışın alt bölməsi").
+entry(subrent, n, [subrents], "subtenantdən kirayə").
+entry(subring, n, [alt-üzüklər], "özü də üzük olan riyazi üzüyün alt toplusu").
+giriş(subqayda, n, [subqaydalar], "əsas qaydaya tabe olan qayda").
+entry(subsale, n, [təkrar satış], "alınmış malların yenidən satışı").
+entry(subscale, n, [subscales], "miqyasın alt bölməsi").
+entry(subsea, sifət, [], "dənizin səthinin altında yerləşən").
+entry(subsect, n, [subsects], "birbaşa başqa bir dəstədən törəyən bir dəstə").
+entry(subsense, n, [subsenses], "məna bölməsi").
+entry(subsere, n, [subseres], "ekoloji ardıcıllığın bir növü").
+entry(subserve, v, [xidmət etdi,xidmət edir,xidmət edir], "təşviq etmək üçün xidmət etmək").
+entry(altkümə, n, [altkümələr], "böyük bir dəstənin daxilində olan riyazi dəstə").
+entry(subshaft, n, [subshafts], "başqa bir şaxtanın altında olan şaxta").
+entry(subshell, n, [subshells], "atomun elektron qabığını təşkil edən orbitalardan biri").
+entry(subshrub, n, [subşaqqılar], "alçaq kol").
+giriş(sakitləşmək, f, [sakitləşdi,sakitləşir,sakitləşir], "aşağı və ya normal səviyyəyə enmək üçün").
+giriş(subsider, n, [subsiderlər], "çökmə edən").
+entry(dotasiya, n, [dotasiyalar], "pul qrantı və ya töhfəsi").
+entry(subsist, v, [mövcud oldu,mövcud olmaqda,mövcud olur], "mövcud olmağa davam etmək").
+entry(subsite, n, [subsiteler], "bir nəsnənin bölməsidir").
+entry(subskill, n, [subskills], "tabe bacarıq").
+entry(subsoil, v, [subsoiled,subsoiling,subsoils], "səth torpağının altındakı torpaq təbəqəsini çevirmək üçün şumlamaq").
+entry(subsolar, sif, [], "günəşin tam altında yerləşən").
+entry(subsonik, sif, [], "səsdən daha az sürətlə hərəkət edən").
+entry(subspace, n, [altməkanlar], "riyazi məkana aid alt dəst").
+entry(substage, n, [substages], "aksesuarları dəstəkləmək üçün mikroskopun bir hissəsi").
+entry(substate, n, [substates], "dövlətin bir bölməsi").
+entry(daxil_etmək, v, [daxil_edilmiş,daxil_edən,daxil_edir], "daha böyük bir qrupa daxil etmək").
+entry(subtask, n, [subtasks], "tabe tapşırıq").
+entry(subtaxon, n, [subtaxons], "və ya SUBTAXA taksonun bölünməsi").
+giriş(altyaş, n, [altyaşlar], "yeniyetməlik yaşına yaxınlaşan şəxs").
+entry(subtend, v, [qarşısında uzanmış,qarşısında uzanmaqda,qarşısında uzanır], "altında və ya qarşısında uzanmaq").
+testin_alt_qrup, n, [subtestlər], "testin alt bölümü".
+entry(altmətn, n, [altmətnlər], "daha ümumi mətnin altında yazılı və ya çap edilmiş material").
+entry(subtheme, n, [subthemes], "tabe mövzu").
+entry(subtile, adj, [], "daha incə ən incə").
+entry(subtilin, n, [subtilinlər], "antibiotik").
+entry(zəriflik, n, [zərifliklər], "subtlety").
+entry(alttitel, v, [alttitellədi̇r, alttiteləme, alttitellər], "ikincil başlıq vermək").
+entry(zərif, sif, [], "ZƏRİFİN ZƏRİFLƏRİ elə incə ki, aşkar etmək çətindirZƏRİFCƏ adv").
+entry(zәrafәt, n, [zәrafәtlәr], "incә vә zәrafәtli olmaq vәziyyәti").
+entry(subtone, n, [subtonlar], "aşağı və ya astadan ton").
+entry(subtonik, n, [subtoniklər], "bir növ musiqi tonu").
+entry(subtopia, n, [subtopiyalar], "bir şəhərin ətrafları").
+test(mövzusualtı, n, [mövzularsalını], "ikinci dərəcəli mövzu").
+entry(subtotal, v, [cəm olunmuş, cəm olunma, cəmlər], "və ya CƏM OLUNMUŞ CƏM OLUNMA CƏMLƏRto müəyyən bir hissəni cəmləmək").
+entry(çıxmaq, v, [çıxılmış,çıxılır,çıxır], "götürmək").
+entry(subtrade, n, [subtrades], "ümumi podratçı tərəfindən işə götürülən mütəxəssis").
+entry(subtrend, n, [subtrendlər], "tabe trend").
+giriş(qolatı, n, [qolatlar], "bir qəbilənin alt bölməsi").
+entry(subtunic, n, [subtuniklər], "başqa bir tunikin altında geyilən tunik").
+entry(növalt, n, [növaltlər], "başqa bir növün tərkibində olan və ya ona tabe olan bir növ").
+entry(subulate, adj, [], "incə və uca doğru daralan").
+entry(subunit, n, [subunitlər], "böyük bir vahidin bir hissəsi olan vahid").
+entry(şəhərətrafı, ism, [şəhərətrafları], "şəhərə bitişik olan yaşayış ərazisiŞƏHƏRƏTRAFI sif").
+giriş(şəhərətrafı, n, [şəhərətrafılar], "şəhərətrafında yaşayan biri").
+entry(suburbia, n, [suburbias], "şəhərin kənar məhəllələri").
+entry(subvene, v, [yardıma_gəldi,yardıma_gəlmə,yardıma_gəlir], "dəstək və ya yardım kimi gəlmək və ya baş vermək").
+entry(subvert, v, [subverted,subverting,subverts], "tamamilə məhv etmək").
+girdi(subvicar, n, [subvicarlar], "tabe vikaryus").
+entry(subviral, sifət, [], "virusun bir hissəsinə aid olan").
+entry(subvirus, n, [subviruslar], "viruzdan daha kiçik olan viral protein").
+entry(subvocal, sif, [], "sözlər kimi zehni olaraq formalaşdırılmış").
+giriş(metro, f, [metroladı,metrolamaq,metrolar], "yeraltı dəmiryolu ilə səyahət etmək").
+entry(altdünya, n, [altdünyalar], "maraqlar və ya fəaliyyətlər sahəsinin bir alt bölməsi").
+entry(subzero, sif, [], "sıfırdan az qeyd etmək").
+entry(subzona, n, [subzonalar], "zonanın bir alt bölməsi").
+entry(sukkah, n, [sukkalar], "və ya SUCCOTHsukkah").
+entry(bacarmaq, v, [bacardı,bacaran,bacarar], "istənilən və ya nəzərdə tutulan bir şeyi icra etmək").
+entry(ugur, n, [ugurlar], "arzu və ya planlaşdırılan bir şeyə nail olmaq").
+entry(qısa, sifət, [], "AZSÖZLÜKLƏDƏ QATIŞIR SUCCINCTESTtəsiru həyat açıq şəkildə az sözlə ifadə olunmuşdur").
+entry(suktsinik, sifət, [], "kəhrəbaya aid olan").
+entry(suksinil, n, [suksinillər], "birvalent radikal").
+entry(kömək, v, [kömək etdi,kömək edən,köməklər], "kömək etmək üçün aid olmaq").
+entry(succorer, n, [succorers], "kömək edən biri").
+entry(sukkoriya, n, [sukkoriyalar], "hindiba").
+entry(sukkot, a, [], "sukkahların cəmi").
+entry(kömək, v, [kömək etdi,kömək edir,kömək edir], "kömək etmək").
+girdi(succuba, n, [succubalar], "və ya SUCCUBAEa succubus").
+entry(sukkub, n, [sukkublar], "yaxud SUCCUBI qadın iblis").
+entry(təslim olmaq, v, [təslim oldu, təslim olmaqda, təslim olur], "üstün gücə boyun əymək").
+entry(succuss, v, [çırpdı, çırpır, çırpır], "şiddətlə sarsıtmaq").
+entry(belə, sif, [], "bu cür").
+entry(beləcə, sif, [], "oxşar növ").
+entry(buvarlıq, n, [buvarlıqlar], "əsas və ya xarakterik keyfiyyət").
+entry(sormaq, v, [sordu,soran,sorur], "qismən vakuum yaradaraq içəri çəkmək").
+entry(sucker, v, [suckered,suckering,suckers], "aşağıdakı tumurcuqları və ya budaqları kəsmək").
+entry(suckfish, n, [suckfishes], "remora").
+entry(suckle, v, [suckled,suckling,suckles], "döşdən süd vermək").
+entry(suckler, n, [sucklers], "əmizdirən").
+entry(suckless, sif, [], "şirsiz").
+entry(suckling, n, [sucklings], "südəmər məməli").
+entry(sucky, sif, [], "ƏN PİS ƏN PİS SON dərəcə etiraz doğuran").
+entry(sukraz, n, [sukrazlar], "enzim").
+entry(sucre, n, [sucrelər], "Ekvadorun keçmiş pul vahidi").
+entry(sükroz, n, [sükrozlar], "bir növ şəkər").
+giriş(sorma, f, [soruldu,sorma,sorur], "sorma prosesi ilə çıxarmaq").
+entry(sudar, n, [sudarya], "üzü silmək üçün dəsmal").
+entry(sudary, n, [sudaries], "sudarium").
+entry(sudation, n, [tərləmələr], "həddindən artıq tərləmə").
+entry(sudatory, n, [sudatories], "tərləməni təşviq edən isti hava hamamı").
+entry(sudd, n, [sudds], "üzən bitki kütləsi").
+entry(birdən, sif, [], "tez və xəbərdarlıq etmədən baş verənBIRDƏNCƏ adv").
+entry(birdən, n, [birdənlər], "ani bir baş vermə").
+entry(sudoku, n, [sudokular], "1-dən 9-a qədər rəqəmləri əhatə edən bir tapmaca").
+entry(sudor, n, [sudors], "tərSUDORAL sif").
+entry(suds, v, [sudsed,sudsing,sudses], "sabunlu suda yumaq").
+entry(sabunseriyal, n, [sabunseriyalar], "sabun operası").
+entry(sudsless, sifət, [], "sabunsuz").
+giris(kopuklu, sif, [], "DAHA_KOPUKLU EN_KOPUKLUkopuklu").
+giriş(sue, f, [sued,suing,sues], "məhkəmə işi qaldırmaq").
+entry(zamşa, v, [zamşalanmış,zamşalanma,zamşalar], "dərini yumşaq tüklü bir səthlə işləmək").
+entry(suer, n, [suers], "məhkəməyə verən").
+entry(suet, n, [suets], "mal-qara və qoyunların böyrəkləri ətrafındakı bərk yağlı toxumaSUETY sif").
+entry(suete, n, [suetes], "Keyp Breton adasının ərazilərində cənub-şərq küləyi").
+entry(suffari, n, [suffaris], "safari").
+entry(əziyyət çəkmək, v, [əziyyət çəkdi, əziyyət çəkir, əziyyət çəkir], "ağrı və ya narahatlıq hiss etmək").
+entry(əziyyətçəkən, n, [əziyyətçəkənlər], "əziyyət çəkən biri").
+entry(suffice, v, [yetərli oldu,yetərli olmaq, yetərlidir], "yetərli olmaq").
+entry(kifayət, n, [kifayətlilər], "kifayət edən biri").
+əlavə(etmək, v, [əlavə(etmiş), əlavə(etməkdə olan), əlavələr], "sözün sonuna əlavə edilən şəkilçi əlavə etmək").
+entry(suffiksal, sifət, [], "şəkilçiyə aid olan və ya şəkilçi olan").
+entry(sufflate, v, [şişirdilmiş, şişirdilən, şişirdir], "şişirtmək").
+entry(səsvermə, n, [səsvermələr], "səsvermə hüququ").
+entry(suffuse, v, [suffused,suffusing,suffuses], "yayılmaq və ya örtülmək").
+entry(şəkər, f, [şəkərlədi, şəkərləmək, şəkərləyir], "şirin karbohidrat olan şəkərlə örtmək").
+entry(şəkərçi, n, [şəkərçilər], "şəkər hazırlayan biri").
+entry(şəkərləndirmə, n, [şəkərləndirmələr], "ağcaqayın ağacı şirəsini şərbətə çevirmək prosesi").
+entry(şirin, sıfət, [], "DAHA ŞİRİN ƏN ŞİRİNşəkərə bənzəyən və ya şəkər tərkibli").
+entry(təklif_etmək, v, [təklif_olundu,təklif_edilir,təklif_edir], "müzakirəyə çıxarmaq və ya irəli sürmək üçün").
+entry(sugh, v, [sughed, sughing, sughs], "sıqıldamaq").
+entry(intihar, sif, [], "öz-özünü məhv edən").
+entry(intihar, v, [intihar etdi,intihar edir,intiharlar], "özünü qəsdən öldürmək").
+entry(suing, indiki, [], "sue felinin iştirak forması").
+entry(suint, n, [suints], "qoyunların yununda tapılan təbii yağ").
+giriş(uyğun, f, [uyğunlaşdırmaq, uyğunlaşmaq, uyğunlaşdırır], "münasib olmaq").
+uyğunluq, adj, [], "müvafiqUYĞUNLUQ adv").
+entry(çəkməçi, n, [çəkməçlər], "yastı düzbucaqlı baqaj hissəsi").
+entry(suite, n, [dəstlər], "vahid təşkil edən bir sıra şeylər").
+entry(suiter, n, [kostyum dəstləri], "müəyyən sayda kostyum dəstləri tutan bir çamadan").
+giriş(suiting, n, [suitings], "kostyum tikmək üçün parça").
+entry(suitlike, sif, [], "kostyuma bənzər bir dəst geyim").
+entry(namizədi, n, [namizədlər], "qadını izdivac üçün ərə getməyə dəvət edən şəxs").
+entry(suk, n, [suks], "souk").
+entry(sukh, n, [sukhs], "bazar").
+entry(sukiyaki, n, [sukiyakilər], "yapon yeməyi").
+entry(sukka, n, [sukkalar], "və ya SUKKOTH və ya SUKKOT, Yəhudi bayramı zamanı yeməklərin yeyildiyi müvəqqəti sığınacaq").
+entry(sulcate, sif, [], "uzun dar izlərə malik").
+entry(sulkatlı, sif, [], "sulcate").
+entry(sulcus, n, [sulci], "dar bir xəndəkSULCAL sif").
+entry(suldan, n, [suldans], "soldan").
+entry(sulfa, n, [sulfas], "bakteriyanın inkişafını ləngidən dərman").
+entry(sulfat, v, [sulfatlanmış, sulfatlanma, sulfatlar], "sulfat turşusu ilə işləmək").
+entry(sulfid, n, [sulfidlər], "sulfid").
+entry(sulfid, n, [sulfidlər], "kükürd birləşməsi").
+entry(sulfinil, n, [sulfinillər], "iki valentli radikal").
+entry(sulfid, n, [sulfidlər], "kimyəvi duzSULFITIC sif").
+entry(sulfo, sif, [], "sulfonik").
+entry(sulfon, n, [sulfonlar], "kükürd birləşməsi").
+entry(sulfonic, sif, [], "müəyyən bir birvalent radikalı ehtiva edən").
+entry(sulfonil, n, [sulfonillər], "iki valentli radikal").
+entry(kükürd, v, [kükürdlənmiş,kükürdləmə,kükürdlər], "qeyri-metal element olan kükürdlə müalicə").
+entry(sulfuret, v, [sulfureted,sulfureting,sulfurets], "və ya KÜKÜRTLƏNMİŞ KÜKÜRTLƏNİR KÜKÜRT etmək").
+entry(kükürdlü, sif, [], "kükürdə aid").
+entry(sulfury, sif, [], "kükürd kimi").
+entry(sulfuril, n, [sulfurillər], "sulfonil").
+entry(sulk, v, [küskün,darıxan,incidir], "incik olmaq").
+entry(sulker, n, [sulkers], "sataşan").
+giriş(küsəyən, sif, [], "KÜSƏYƏNhədindən çox küsəyən, küsəyənliyə çəkilmişKÜSƏYƏNCƏ adv").
+entry(sulky, n, [sulkilər], "yüngül atlı nəqliyyat vasitəsi").
+entry(sullage, n, [sullages], "kanalizasiya").
+entry(qəmgin, sif, [], "QƏMGİNLƏR ƏN QƏMGİNLƏR, sıxıntılı və ya küskün bir huşu nümayiş etdirir. QƏMGİNCƏ zərf").
+entry(sully, v, [kirlənmiş,kirlənmə,kirlənir], "kirlətmək").
+giris(sulfa, n, [sulfalar], "sulfa").
+entry(sulfat, v, [sulfatlaşdırılmış,sulfatlaşdırma,sulfatlar], "sulfatlaşdırmaq").
+entry(sulfid, n, [sulfidlər], "sulfid").
+entry(sulfid, n, [sulfidlər], "sulfid").
+entry(sulfitsin, n, [sulfitslər], "sulfite").
+entry(sulfon, n, [sulfonlar], "sulfon").
+entry(kükürd, v, [kükürdlənmiş,kükürdləmə,kükürdlər], "kükürdləmək").
+entry(kükürtlü, sif, [], "sulfury").
+entry(sultan, i, [sultanlar], "müsəlman ölkəsinin hakimiSULTANİK sif").
+entry(sultana, n, [sultanalar], "sultanın arvadı").
+entry(bürkülü, sif, [], "BÜRKÜLÜ BÜRKÜLÜİri çox isti və rütubətliBÜRKÜLÜ şəkildə zərf").
+entry(sulu, n, [sulus], "Melaneziya ətəyi").
+entry(sum, v, [cəmlənmiş, cəmlənən, cəmlər], "ümumi cəmləmək").
+entry(sum, n, [sumy], "Özbəkistanın pul vahidi").
+entry(sumac, n, [sumaclar], "çiçəkli ağac və ya kol").
+entry(sumaq, n, [sumaqlar], "sumac").
+Prolog:
+giriş(sumi, n, [sumis], "qara Yapon mürəkkəbi növü").
+entry(sumless, adj, [], "hesablama üçün həddindən artıq böyük").
+entry(summa, n, [summas], "və ya geniş şəkildə bir mövzunu əhatə edən iş").
+entry(toplana_bilən, sifət, [], "cəmlənə bilən").
+entry(cəmləyən, n, [cəmləyənlər], "bir toplanan").
+entry(xülasə, n, [xülasələr], "qısa yenidən ifadə").
+entry(topla, f, [toplanmış, toplanır, toplayır], "cəmləmək").
+entry(toplandı, keçmiş, [], "sum sözünün keçmiş zaman forması").
+entry(yay, v, [yaydım,yaylamaq,yaylar], "ilin ən isti fəsli olan yay mövsümünü keçirmək").
+entry(yayabənzər, sif, [], "summery").
+entry(yay, sif, [], "YAYTƏRZ YAYTƏRZLİClə yay mövsümünə xas").
+entry(toplama, indiki, [], "cəm felinin indiki zaman feli sifəti").
+entry(zirvə, v, [zirvəyə çatdı, zirvəyə çatma, zirvələr], "ən yüksək səviyyəli konfransda iştirak etmək üçün").
+giriş(zirvəlik, sifət, [], "ən yüksək nöqtəyə aid olan").
+entry(zirvə diplomatiyası, n, [zirvə diplomatiyaları], "dövlət başçıları arasında beynəlxalq danışıqlar üçün konfransların istifadəsi").
+entry(cagirmaq, v, [cagirildi,cagiris,cagirilmaq], "görünməyə əmr etmək").
+entry(summoner, n, [çağırışçılar], "çağıran biri").
+entry("çağırış", f, ["çağırıldı", "çağırış edən", "çağırışlar"], "məhkəmə əmri ilə çağırmaq").
+entry(sumo, n, [sumolar], "Yapon güləş növü").
+entry(sumoist, n, [sumoistlər], "sumo güləşçisi").
+entry(sump, n, [sumplar], "mayelərin axması və ya toplanması üçün xidmət edən aşağı ərazi").
+entry(sumpter, n, [sumpters], "yük heyvanı").
+entry(sumpweed, n, [sumpweeds], "bataqlıq bitkisi").
+entry(günəş, v, [günəşləndi,günəşlənmə,günəşlər], "yerin dövr etdiyi ulduz olan günəşə məruz qalmaq").
+entry(günəşarxası, sif, [], "bel hissəsini günəşə məruz qoyaraq aşağı kəsilmiş").
+entry(günəşdəqızardılmış, təsriflənməyən_sifət, [], "günəşdə qızardılmış").
+entry(günəş vannası, n, [günəş vannaları], "gün işığına məruz qalma").
+entry(günəşlənmək, f, [günəşləndi, günəşlənmə, günəşlənir], "günəş vannası qəbul etmək").
+entry(günəşşüası, n, [günəşşüaları], "günəş işığı şüasıSUNBEAMY sif").
+giriş(çimərlik_kürsüsü, n, [çimərlik_kürsüləri], "sunil iynəsi ilə dəriyə qızarmaq üçün cihaz").
+giriş(günəşkəməri, n, [günəşkəmərləri], "ABŞ-ın cənub və cənub-qərb ştatları").
+entry(sunbird, n, [günəşquşları], "tropik quş").
+entry(günəşdənqoruyan, n, [günəşdənqoruyanlar], "dərinin günəş şüalarından qorunması üçün hazırlanmış vasitə").
+entry(sunbow, n, [günəş qövsü], "bulanlıqdan keçən günəş işığı ilə yaranan spektral rənglərin qövsü").
+entry(günəşdəyanma, v, [günəşdəyanmış,günəşdəyanma,günəşdəyanır], "günəşə məruz qalaraq yanmaq və ya rəngini dəyişmək").
+entry(sunburst, n, [günəş partlayışları], "günəş işığının partlayışı").
+entry(suncare, n, [günəşdən qoruma], "dərini günəşin zərərindən qoruma").
+entry(sançok, isim, [sançoklar], "günəbaxan növü").
+entry(sundae, n, [sundaes], "üstü ilə təqdim olunan dondurma yeməyi").
+entry(sünbəl, n, [sünbəllər], "günəşə məruz qalan göyərtə").
+entry(sunder, v, [parçalandı, parçalanır, parçalayır], "parçalamaq").
+entry(sunderer, n, [sunderers], "ayıran biri").
+entry(sünnəböcəkotu, n, [sünnəböcəkotları], "bataqlıq bitkisi").
+Giriş(günəş saatı, n, [günəş saatları], "zamanı göstərən cihaz növü").
+entry(sundog, n, [sundogs], "kiçik bir göy qurşağı").
+entry(günbatımı, v, [günbatdı,günbatmaqda,günbatır], "gecə çaşqınlığı yaşamaq").
+entry(sundress, n, [sundresses], "qısaldılmış gövdəli paltar").
+giriş(xırda_şeylər, cəm, [], "müxtəlif əşyalar").
+entry(sundrops, n, [sundrops], "çiçəkli bitki").
+entry(müxtəlif, sif, [], "qatışıqsızSUNDRILY zərf").
+entry(sunfast, sifət, [], "günəşdən solmaya davamlı").
+entry(günəş balığı, n, [günəş balıqları], "dəniz balığı").
+entry(oxunmuş, keçmiş, [], "sing feilinin iştirakçısı").
+entry(günəş eynəyi, isim, [günəş eynəkləri], "istilik yaratmaq üçün günəş şüalarını cəmləşdirən linza").
+entry(sunglow, n, [sunglows], "günəşin səbəb olduğu səma parıltısı").
+entry(sunk, a, [], "batmaq feilinin keçmiş iştirakçısı").
+giriş(batmış, a, [], "batırmaq felinin keçmiş zaman təsriflisi").
+entry(sunker, n, [sunkers], "dəniz səthinə yaxın qaya silsiləsi").
+entry(sunket, n, [sunketlər], "bir ləziz parça").
+entry(günəşlampası, n, [günəşlampalar], "ultrabənövşəyi şüalar yayan lampa").
+entry(sunland, n, [sunlands], "çoxlu günəş işığı ilə xarakterizə olunan bir ərazi").
+entry(sunless, sif, [], "günəş işığı olmayan").
+entry(günəş_ışığı, n, [günəş_ışığıları], "günəşin işığı").
+entry(sungörünüşlü, sif, [], "günəşə bənzəyən").
+entry(günəşli, sif, [], "günəş işığı ilə işıqlanmış").
+entry(sunn, n, [sunns], "Şərqi Hindistan kolları").
+entry(sünnə, n, [sünnələr], "ənənəvi müsəlman hüququnun məcmusu").
+entry(sünnə, n, [sünnələr], "sünnə").
+entry(sunned, keçmiş, [], "günəşli olan zaman").
+entry(sunning, indiki, [], "günəş vuruşu felindən").
+entry(günəşli, adj, [], "DAHA GÜNƏŞLI ƏN GÜNƏŞLIgünəşlə doluGÜNƏŞLİCƏ adv").
+entry(günəşli_veranda, n, [günəşli_verandalar], "çox günəş işığı qəbul edən veranda").
+entry(sunproof, sifət, [], "günəş işığının zərərinə qarşı dayanıqlı").
+entry(sunray, n, [günəş şüaları], "günəş işığı").
+entry(sübh açılımı, n, [günəş doğur], "səhər günəşin üfüqdə yuxarı qalxması").
+entry(lyuk, n, [lyuklar], "açıla bilən paneli olan avtomobil tavanı").
+entry(günəş_otağı, n, [günəş_otaqları], "çoxlu günəş işığı daxil etmək üçün tikilmiş otaq").
+entry(günəş yanıqları, n, [günəş yanığı], "günəşin səbəb olduğu oduncaq bitkilərin xəsarəti").
+entry(günbatımı, n, [günbatımları], "axşam günəşin üfüqün altına düşməsi").
+entry(çətir, n, [çətirlər], "günəşdən qorunmaq üçün istifadə olunan bir şey").
+entry(günəş işığı, n, [günəş işıqları], "günəşin işığı").
+giriş(günəş ləkəsi, n, [günəş ləkələri], "günəşin səthindəki qaranlıq bir ləkə").
+entry(günəşulduzu, n, [günəşulduzları], "bir növ dəniz ulduzu").
+entry(günəşdaşı, n, [günəşdaşları], "kvarsın bir növü").
+entry(sunqoruyucu, n, [sunqoruyucular], "bir növ oyun kostyumu").
+entry(qaralmış, v, [qaraldı, qaranır, qaralır], "qaralmağı olmaq").
+entry(suntrap, n, [günəş tutan yerlər], "xoş günəşli qorunan yer").
+entry(günəşdoğumu, n, [günəşdoğumlar], "günəşin doğuşu").
+entry(sunward, zərf, [], "günəşə tərəf").
+entry(sunwards, adv, [], "günəşə doğru").
+entry(sunwise, zərf, [], "soldan sağa").
+entry(sup, v, [supped,supping,sups], "şam yeməyi yemək").
+entry(supe, n, [supes], "danışığı olmayan bir aktyor").
+entry(super, v, [supered,supering,supers], "kitabı nazik pambıq şəbəkə ilə gücləndirmək").
+entry(superadd, v, [üstəgəlmək, üstəgəlir, üstəgəllər], "daha da əlavə etmək").
+entry(möhtəşəm, sifət, [], "MÖHTƏŞƏMR MÖHTƏŞƏMİof əla keyfiyyətMÖHTƏŞƏMCƏ adv").
+entry(superbad, sif, [], "son dərəcə pis").
+entry(superbaktariya, n, [superbakteriyalar], "bütün antibiotiklərə davamlı olan bakteriya suşu").
+entry(supercar, n, [supercars], "üstün bir maşın").
+entry(supercop, n, [supercops], "üstün polis zabiti").
+giriş(superego, i, [superegos], "psixikanın bir hissəsi").
+entry(superfan, n, [superfanlar], "son dərəcə sadiq həvəskar").
+entry(superfix, n, [superfixlər], "nitqdə təkrarlanan vurğu nümunəsi").
+entry(superfly, sif, [], "göstərişli təntənəli").
+entry(superhit, n, [superhitlər], "son dərəcə uğurlu bir şey").
+entry(superhot, sif, [], "həddindən artıq isti").
+entry(superior, n, [üstünlər], "başqasından daha yüksək rütbə, keyfiyyət və ya səlahiyyətə sahib olan biri").
+entry(superjet, n, [superjetlər], "bir növ reaktiv təyyarə").
+entry(superlie, v, [superlay,superlain,superlying], "üstündə uzanmaq").
+entry(superman, n, [supermen], "ehtimal olunan üstün insan").
+entrada(supermom, n, [supermoms], "üstün ana").
+entry(supernal, sif, [], "göyə aid olan").
+entry(superpro, n, [superprolar], "superior peşəkar").
+entry(supersex, n, [supersekslər], "steril orqanizmin bir növü").
+entry(supercasus, n, [supercasuslar], "üstün casus").
+entry(supertaks, n, [supertakslər], "əlavə vergi").
+entry(supinate, v, [supinated,supinating,supinates], "əhəmiyyətli tərəfi yuxarı baxacaq şəkildə çevirmək").
+entry(məcərü, n, [mətcərülər], "Latın fel isim").
+entry(supinely, adv, [], "fəal olmayan şəkildə").
+entry(supped, keçmiş, [], "sup felinin keçmiş zaman forması").
+entry(axşam yeməyi, n, [axşam yeməkləri], "axşam yeməyi").
+entry(supping, indiki, [], "yemək felinin indiki zaman feili sifət forması").
+entry(əvəz etmək, v, [əvəz edilmiş, əvəz edən, əvəz edir], "yerinə keçmək").
+entry(supple, sif, [], "SUPPLER SUPPLESTpliantSUPPLELY adv").
+entry(supple, v, [yumşaltdı, yumşaldır, yumşaldır], "yumşaq etmək").
+təchizatçı(giriş, n, [təchizatçılar], "təchiz edən biri").
+entry(təchizat, f, [təchiz etdi, təchiz edir, təchizatlar], "lazım olanı təmin etmək").
+giriş(dəstək, v, [dəstəkləndi,dəstəkləyir,dəstəkləyəcək], "dəstəkləmək və ya güc əlavə etmək").
+entry(güman, n, [gümanlar], "güman edilən bir şey").
+entry(varsaymaq, v, [varsaydı, varsayır, varsayır], "doğru olduğunu qəbul etmək").
+entry(supposer, n, [supposers], "fərz edən").
+entry(basdırmaq, v, [basdırdı, basdırır, basdırar], "zorlama yolu ilə sona çatdırmaq").
+entry(supra, adv, [], "yuxarıda").
+entry(supreme, n, [supremes], "toyuq bulyonundan hazırlanan hamar ağ sous").
+entry(najotam, sifət, [], "NAJOTAM NAJOTAMƏN ən yüksək hakimiyyət və ya səlahiyyət").
+entry(supremo, n, [supremos], "ən yüksək səlahiyyət sahibi olan şəxs").
+entry(suq, n, [suqs], "souq").
+entry(sura, n, [suras], "Quranın bir fəsli").
+entry(surah, n, [surahs], "ipək parça").
+entry(sural, sif, [], "ayaq baldırı ilə əlaqəli").
+entry(surbaz, n, [surbazlar], "bir strukturun bazasının üstündəki qəlib və ya sərhədSURBAZLI sif").
+entry(bitmə, v, [bitdi, bitməkdədir, bitir], "dayanmaq").
+entry(surkot, n, [surkotlar], "xarici paltar və ya mantiya").
+entry(surd, n, [surdlar], "səssiz nitq səsi").
+entry(sure, sif, [], "ƏN ƏMİN ƏMİNəm şübhəsiz").
+entry(surefire, sifət, [], "gözləntiləri qarşılayacağına əmin").
+entry(sözsüz, adv, [], "mütləq").
+entry(əminlik, n, [əminliklər], "əmin olmaq vəziyyəti").
+entry(surer, müqayisəli, [], "of sure").
+entry(surest, əşrəf dərəcə, [], "ən əmin").
+entry(zaminlik, n, [zaminliklər], "zaminlik").
+giriş(sörf, f, [sörf etdi,sörf edir,sörf edir], "uzun dar lövhədə qırılan dalğalarda sürmək SURFABLE sif").
+entry(səth, v, [səthiə çəkdi,səthiçəkmə,səthiçəkmə], "xarici bir qat tətbiq etmək").
+giriş(surfacer, n, [surfacers], "yüzə çıxan").
+entry(surfyirtikquşu, n, [surfyirtikquşlar], "bir sahil quşu").
+entry(sörf qayığı, n, [sörf qayıqları], "güclü avar qayığı").
+entry(artıqlıq, v, [artıqlıq etdi, artıqlıq etməkdə, artıqlıqlar], "həddindən artıq təchiz etmək üçün").
+entry(sörfer, n, [sörferlər], "sörfinq edən biri").
+entry(surffish, n, [surffishes], "dəniz balığı").
+entry(surfier, müqayisəli, [], "of surfy").
+entry(surfiest, superlative, [], "sörfi olan").
+entry(sörfinq, n, [sörfinqlər], "sərin dalğalar üstündə sürüşmə hərəkəti və ya idmanı").
+entry(surflike, sif, [], "qırılan dalğalara bənzər").
+entry(sərkürdü, n, [sərkürdülər], "dayaz sularda qayığı idarə etməyi bacaran şəxs").
+entry(surfside, adj, [], "dəniz sahilində yerləşən").
+entry(surfy, sif, [], "DAHA ÇOX DALĞA DA MAGARİF Dalğalarla zəngin").
+entry(surgi, v, [surgildi,surgilənir,surgilər], "şişən bir şəkildə hərəkət etmək").
+entry(cərrah, n, [cərrahlar], "cərrahiyyə ilə məşğul olan şəxs").
+entry(surger, n, [surgers], "qabarmaq edən").
+entry(cərrahiyyə, i, [cərrahiyyələr], "tibbi problemlərin əməliyyatla müalicəsi").
+entry(cərrahi, sif, [], "cərrahiyə aid").
+entry(surging, indiki, [], "surge felinin iştirakçı forması").
+entry(surgy, sif, [], "coşan").
+entry(surikat, n, [surikatlar], "yerdə yaşayan bir məməli").
+entry(surimi, n, [surimilər], "ucuz bir balıq məhsulu").
+entry(surly, sif, [], "SURLIER SURLIESTsullenly rudeSURLILY adv").
+entry(fərz etmək, f, [fərz etdi, fərz etməkdədir, fərz edir], "az sübutla nəticə çıxarmaq").
+entry(surmiser, n, [təxmindar], "təxmin edən biri").
+giriş(fəth_etmək, v, [fəth_edilmiş,fəth_edilməkdədir,fəth_edir], "üzərindən keçmək və ya aşmaq üçün").
+entry(soyad, v, [soyadlı, soyadlandı, soyadlar], "ailə adı vermək").
+entry(surnamer, n, [soyadçılar], "soyadlandıran").
+entry(aşmaq, v, [aşdı, aşan, aşır], "həddi keçmək").
+entry(surplice, n, [işlək], "boş oturan geyim").
+entry(artıq, f, [artıqlanmış,artıqlanma,artıqlar], "və ya ARTIQLANMIŞ ARTIQLANMA ARTIQLAR olan ehtiyacdan çox kimi rəftar etmək").
+entry(surprint, v, [üzərində çap edilmiş, çap etmə, çaplar], "artıq çap edilmiş bir şeyin üzərinə çap etmək").
+entry(təəccübləndirmək, v, [təəccübləndi, təəccübləndirici, təəccübləndirir], "gözlənilmədən rastlaşmaq").
+entry(sürpriz etmək, f, [sürpriz etdi,sürpriz edən,sürpriz edir], "sürpriz etmək").
+entry(surra, n, [surras], "ev heyvanlarının bir xəstəliyi").
+entry(surreal, sif, [], "xəyali keyfiyyətlərə malik olan").
+entry(surrey, n, [sürreylər], "yüngül fayton").
+entry(əhatə_etmək, f, [əhatə_olundu, əhatə_edilir, əhatə_edir], "tamamilə əhatə etmək").
+entry(surroyal, n, [surroyallar], "maral buynuzunun ən üst budağı").
+entry(surtax, v, [əlavə vergi tutulan, əlavə vergi tutma, əlavə vergilər], "əlavə vergi ilə qiymətləndirmək").
+entry(surtitle, n, [surtitles], "xarici dildəki dialoqun ekranın və ya səhnənin yuxarısında göstərilən tərcüməsi").
+entry(surtout, n, [surtouts], "dar qıf olubuva").
+entry(izləmək, v, [izlədi, izləyən, izləyir], "yaxından izləmək").
+entry(survey, v, [müayinə edilmiş,müayinə edən,müayinə edir], "bucaq və məsafələri ölçməklə sərhədlər sahəsini və ya yüksəklikləri müəyyənləşdirmək").
+entry(memar, n, [memarlar], "torpağı ölçən şəxs").
+entry(yaşama, n, [yaşamalar], "başqa bir şəxs və ya şeydən daha uzun müddət yaşamaq və ya davam etmək").
+entry(yaşamaq, f, [yaşadı,yaşayan,yaşayır], "mövcudluğunu davam etdirmək").
+entry(sag qalan, n, [sag qalanlar], "sag qalan").
+entry(survivor, n, [qurtulanlar], "qurtulan biri").
+giriş(sus, f, [sused,susing,suses], "anlamaq üçün sus").
+entry(susi, n, [susilər], "çiy balıq dilimləri ilə örtülmüş soyuq düyü tortları yeməyi").
+entry(suslik, n, [susliklər], "Avrasiya gəmiricisi").
+entry(şübhəli, v, [şübhələndi,şübhələnir,şübhələnir], "az dəlillərlə təqsirkar hesab etmək").
+entry(suspend, v, [dayandırıldı, dayandırır, dayandırmaq], "bir müddət dayandırmağa səbəb olmaq").
+giriş(həyəcan, n, [həyəcanlar], "zehni qeyri-müəyyənlik və ya həyəcan vəziyyəti").
+entry(suspirova, v, [suspirova-z, suspirova-mağ, suspirova-r], "ah çəkmək").
+entry(suss, f, [sussed,sussing,susses], "müəyyən etmək və ya yoxlamaq üçün").
+entry(saxlamaq, v, [saxladı,saxlayır,saxlayır], "qida və içki təmin etməklə qorumaq").
+entry(susurrus, n, [susurruses], "yumşaq xışıltı səsi").
+entry(yekəçi, n, [yekəçilər], "əsgərlərə mal satan şəxs").
+entry(sutra, n, [sutra], "Hindu aforizmi").
+entry(sutta, n, [sutra], "sutra").
+entry(sati, n, [satilər], "Hindu bir dulun ərinə olan sədaqətini göstərmək üçün onun dəfn oduna atılması").
+entry(sutural, sif, [], "iki sümük arasında qovuşma xəttinə aid").
+entry(tikmə, v, [tikdi,tikməkdədir,tikir], "tikərək birləşdir").
+entry(suzerain, n, [suzerains], "feodal ağsaqqal").
+entry(svaraj, n, [svarajes], "svarac").
+entry(svedberg, n, [svedberg], "zaman vahidi").
+entry(svelte, sifət, [], "ZƏRİF ZƏRİFLƏRincəvə zərifSVELTELY zərf").
+entry(silgi, v, [silindi,silir,silir], "böyük mop ilə təmizləmək").
+entry(swabber, n, [swabbers], "təmizləyən şəxs").
+entry(swabbie, n, [swabbiler], "dənizçi").
+entry(swabbing, indiki, [], "swabın iştirakçı").
+entry(swabby, n, [dənizçilər], "dənizçi").
+giris(swacked, sif, [], "içkili").
+entry(beşikdə bələmək, f, [bələndi,bələyir,bələng], "parçalara bükmək").
+entry(sway, v, [əsmək, əsməkdə, əsir], "əsmək").
+entry(swage, v, [swaged,swaging,swages], "çəkiclə formalaşdırmaq").
+entry(swager, n, [swagerlər], "bir şeyi döyəcləyən").
+entry(göyçək, v, [göyçəkdi,göyçəkdə,göyçəyər], "lovğa və qürurlu hərəkətlərlə gəzmək").
+entry(swaggie, n, [swaggies], "bir çoban").
+entry(swagging, indiki, [], "swag felinin təsriflənən forması").
+entry(swaging, indiki, [], "swage-in feli sifəti").
+entry(swagman, n, [swagmen], "bir avara").
+entry(swail, n, [swails], "çay yatağı").
+entry(swain, n, [swains], "kənd uşağıSWAINİŞ sif").
+entry(swale, n, [swales], "aşağı bataqlıq bir ərazi").
+entry(qaranquş, f, [qaranquşdu,qaranquşmaq,qaranquşlar], "ağız və qida borusu ilə mədəyə qəbul etmək").
+entry(swam, keçmiş, [], "üzmək zaman forması").
+entry(swami, n, [swamilər], "Hindu dini müəllimi").
+entry(swamies, pl, [], "svaminin").
+entry(bataqlıq, v, [bataqlıqlaştı, bataqlıqlaşma, bataqlıqlar], "su basmaq").
+entry(swamper, n, [swampers], "bataqlıq ərazidə yaşayan biri").
+entry(batlaqlıq, adj, [], "batlaqvari").
+giriş(bağı, sif, [], "BAĞLAR BAĞLAMAQlaşmaq").
+entry(swamy, n, [swamies], "svami").
+entry(qu, f, [quladı,qulayan,qular], "and içmək").
+entry(swang, a, [], "\"swing\" felinin keçmiş zaman forması").
+entry(qu quşçusu, n, [qu quşçuları], "iri su quşları olan qu quşlarına baxan şəxs").
+entry(svonq, sif, [], "SVONQER SVONQEST təsirli dərəcədə elegant").
+giriş(swank, f, [swanked, swanking, swanks], "lovğalanmaq").
+entry(təmtəraqlı, sif, [], "DAHA TƏMTƏRAQLI ƏN TƏMTƏRAQLItəmtəraqTƏMTƏRAQLA adv").
+entry(qu qazı kimi, sif, [], "qu quşuna bənzəyən").
+entry(swanned, keçmiş, [], "swan felinin keçmiş vaxtı").
+entry(qu quşxanası, n, [qu quşxanaları], "qu quşlarının yetişdirildiyi yer").
+entry(swanning, indiki, [], "swan iştirak").
+entry(swanny, v, [], "elan etmək; yalnız birinci şəxsin təkində istifadə olunur").
+entry(suanpan, n, [suanpanlar], "Çin abakı").
+entry(qu qaz dərisi, n, [qu qaz dəriləri], "qu qazının dərisi").
+entry(swap, f, [dəyişdirildi,dəyişdirmə,dəyişdirir], "dəyişmək").
+entry(swapfile, n, [dəyişməfaylları], "köçürülmüş proqramlar üçün ayrılmış sahəsi olan kompüter faylı").
+swapper(girisi, n, [swapperlər], "dəyişən biri").
+entry(swaraj, n, [swarajes], "Böyük Britaniya Hindistanında özünüidarəetmə").
+entry(sward, v, [swarded,swarding,swards], "çəmənlə örtmək").
+entry(sware, a, [], "and içmək felinin keçmiş zamanda forması").
+entry(swarf, n, [swarfs], "kəsmə aləti ilə çıxarılan material").
+giriş(swarm, f, [swarmed, swarming, swarms], "böyük qrup halında hərəkət etmək").
+entry(swarmer, n, [sürülər], "sürülən biri").
+entry(swarming, n, [swarmings], "hücum edənlər qrupunun qurbanı əhatəyə alması").
+entry(swart, sif, [], "qarabuğdayı").
+entry(swarth, n, [swarths], "çəmənlik").
+entry(swarthy, adj, [], "QARABƏNİZ QARABƏNİZLƏRə sahib olmaq").
+entry(swarty, sif, [], "qarabuğdayı").
+entry(swash, v, [swashed,swashing,swashes], "lovğalıq etmək").
+entry(swasher, n, [swashers], "bir şeyin ətrafında təmizləyən").
+entry(svastika, n, [svastikalar], "svastika").
+entry(swastika, n, [svastikalar], "bir simvol və ya bəzək kimi istifadə olunan həndəsi fiqur").
+entry(silatmaq, f, [silatdı,silatma,silatır], "kəskin vurmaq").
+entry(swatch, n, [parça nümunələri], "parça nümunəsi").
+entry(swath, n, [zolaqlar], "kəsilmiş ot və ya taxıl sira").
+entry(swathe, v, [bintlədi,bintləyir,bintləyir], "bintlə sarımaq").
+entry(swather, n, [swathers], "biçən").
+entry(təpiklədi, keçmiş, [], "swat felinin keçmiş zaman forması").
+entry(sinekoldağı, n, [sinekoldağları], "vurucu olan").
+entry(swatting, indiki, [], "swat felinin təsriflənmiş forması").
+entry(sallamaq, v, [sallandı,sallanır,sallanır], "yavaş-yavaş irəli-geri hərəkət etməkSALLANABİLƏN sif").
+entry(swayback, n, [swaybacks], "belin anormal çökməsi").
+entry(sallanan, n, [sallanlar], "sallanan bir şey").
+entry(yelləncəkli, sif, [], "təsir göstərə bilən").
+entry(and, v, [and,anded,anding], "ANDÜst-üstə qoymaq üçün birləşdirmək").
+entry(söyən, n, [söyənlər], "söyən biri").
+entry(söyüş, i, [söyüşlər], "ciddi and içmək hərəkəti").
+entry(tər, v, [tərlədi,tərləmə,tərləyir], "tərləmək").
+entry(tərləmə kabinəsi, n, [tərləmə kabinələri], "bir insanın tərləməyə məcbur edildiyi kiçik bir qəfəs").
+entry(sviter, n, [sviterlər], "toxunmuş üst paltarSWEATERED sif").
+entry(tərlənmiş, sif, [], "DAHA TƏRLENMIŞ ƏN TƏRLENMIŞtərlə örtülüTƏRLƏNMIŞ HALDA zərf").
+entry(kələmsəvər, n, [kələmsəvərlər], "kələmsəvər").
+entry(sweeney, n, [sweeneylər], "sweeny").
+entry(sweeny, n, [sweenies], "at priz yerində əzələ atrofiyası olan aydın").
+entry(süpürmək, v, [süpürdü,süpürməkdədir,süpürür], "fırça və ya süpürgə ilə təmizləmək").
+entry(süpürgəçi, n, [süpürgəçilər], "süpürən biri").
+entry(süpürmək, n, [süpürgələr], "süpürənin etdiyi hərəkət").
+entry(sweepy, sifət, [], "GENİŞ MÜXTƏLİFLİKDƏ SWEEPIER SWEEPIEST").
+entry(sweer, sif, [], "tənbəl").
+entry(şirin, sif, [], "DADLI DADLIdad üçün xoş").
+entry(şirin, n, [şirnilər], "şirin olan bir şey").
+entry(şirinləşdirmək, f, [şirinləşdirdi, şirinləşdirir, şirinləşdirər], "şirin etmək").
+entry(sweetie, n, [şirinlər], "əzizim").
+entry(sweeting, n, [sweetings], "şirin alma").
+giris(sweetish, sif, [], "bir qədər şirin").
+entry(sweetlip, n, [şirinbərbər], "ağzı irəli çıxan bir balıq").
+entry(şirin-şirin, zf, [], "şirin bir şəkildə").
+entry(şəkər alma, n, [şəkər almalar], "tropik bir ağac").
+entry(swell, sif, [], "DAHA GÖZƏL ƏN GÖZƏLşık").
+entry(sərin, v, [şişdi,şişmiş,şişməkdə], "ŞİŞmək həcmi və ya ölçüsü artır").
+entry(şişlik, n, [şişliklər], "şişmiş olan bir şey").
+entry(qarsanama, v, [qarsanadı,qarsanır,qarsanır], "əzici istidən əziyyət çəkmək").
+entry(sweltry, adj, [], "ƏZİCİ İSTİ DAHA ƏZİCİ İSTİ ƏN ƏZİCİ İSTİ").
+entry(supurdu, keçmiş, [], "süpürmək zaman").
+entry(swerve, v, [sürüklənmək,sürüklənməkdədir,sürüklənir], "birbaşa kursdan qəfil kənara dönmək").
+entry(swerver, n, [swervers], "yoldan çıxan biri").
+entry(sweven, n, [swevens], "yuxu və ya xəyal").
+entry(swidden, n, [swiddens], "bitki örtüyünü yandırmaqla yaradılan kənd təsərrüfatı sahəsi").
+entry(swift, sifət, [], "ÇOX SÜRƏTLİ HƏRƏKƏT EDƏN").
+entry(sürətli, n, [sürətlər], "sürətli uçan quş").
+entry(swifter, n, [swifters], "gəmidə bir iplə").
+entry(swiftie, n, [swifties], "tez və ya sürətli düşünən bir şəxs").
+entry(sürünkanad, n, [sürünkanadlar], "mağarada yaşayan sürü").
+entry(sürətlə, adv, [], "tez bir şəkildə").
+entry(swig, v, [swigged,swigging,swigs], "dərin və ya sürətlə içmək").
+entry(swigger, n, [swiggers], "içən biri").
+entry(swile, n, [swilelər], "dəniz məməlisi olan bir şlak").
+entry(swiler, n, [dəniz ​​şirələri], "fəok ovlayan").
+entry(suiti ovlamaq, n, [suiti ovlamaqlar], "dəniz ilbizlərini ovlama fəaliyyəti").
+entry(swill, v, [swilled,swilling,swills], "qurtlamaq").
+entry(swiller, n, [swillerlər], "sərxoş olan biri").
+entry(üzmək, f, [üzdü, üzmüş, üzmə], "Üzgüçülükdə özünü təbii yolla suda irəli aparmaq").
+entry(üzgüçü, n, [üzgüçülər], "üzən biri").
+entry(üzgüçülük, n, [üzgüçülüklər], "üzən birinin fəaliyyəti").
+entry(swimmy, sif, [], "DAHA SWIMMY ƏN SWIMMYbaşgicəlləndiriciSWIMMILY zərf").
+entry(mayo, n, [mayolar], "çimərlik geyimi").
+entry(üzgüçülük_geyimi, n, [üzgüçülük_geyimi], "üzmək üçün uyğun geyim").
+entry(dələduzluq, v, [dələduzladı,dələduzluq,quldurluq], "saxta yollarla pul və ya əmlak götürmək").
+entry(dələduz, n, [dələduzlar], "aldadıb aradan çıxan şəxs").
+entry(donuz, n, [donuzlar], "nifrət edilən şəxs").
+entry(domuzçiçəyi, n, [domuzçiçəkləri], "donuzların xəstəliyi").
+entry(swing, v, [swang,swinging,swings], "azad şəkildə irəli-geri hərəkət etmək").
+entry(swingby, n, [swingbylər], "kosmik gəminin planetin cazibə qüvvəsindən istifadə edərək kurs dəyişiklikləri etməsi üçün həyata keçirilən bir missiya").
+entry(swinge, v, [swinged,swingeing,swinges], "qamçı ilə döymək").
+entry(swinger, n, [swingerlər], "yellənən biri").
+giriş(swingier, müqayisəli, [], "swingy-nin").
+giriş(swingiest, superlativ, [], "swingy-nin").
+girdi(yırğalanan, sifət, [], "ƏN YIRĞALANANcanlı və dəbli").
+entry(yelləncək, n, [yelləncəklər], "cinsi partnyorları dəyişmə praktikası").
+entry(swingle, v, [swingled,swingling,swingles], "döymək").
+entry(swingman, n, [swingmen], "mühafizəçi və ya hücumçu kimi oynaya bilən basketbolçu").
+entry(swingy, sif, [], "SWINGIER SWINGIESTsallanmaqla xarakterizə olunur").
+entry(swinish, sifət, [], "donuza bənzər və ya uyğun olan").
+entry(swink, v, [çalışdı,çalışmaqda,çalışır], "çalışmaq").
+entry(swinney, n, [swinneys], "sweeny").
+entry(sürüşdürmək, v, [sürüşdürdü,sürüşdürməkdədir,sürüşdürür], "süpürmə hərəkəti ilə vurmaq").
+entry(swiper, n, [swipers], "sürüşdürücü").
+entry(swipes, npl, [], "bozulan pivə").
+entry(swiple, n, [malam], "döyücü cihazın bir hissəsi").
+entry(swipple, n, [swipplər], "swiple").
+entry(burulmaq, v, [buruldu,burulma,burulur], "baş döndürücü hərəkətlə hərəkət etmək").
+entry(swirly, sif, [], "SWIRLİER SWIRLİESTswirling").
+entry(swish, v, [şappıldadı, şappıldayır, şappıldayır], "uzun müddətli vızıltılı səslə hərəkət etmək").
+entry(swish, sif, [], "HAVALI HAVALILƏR1 ağıllı dəbli 2 qadinabənzər").
+entry(silkələyən, n, [silkələyənlər], "silkələyən biri").
+entry(swishy, sifət, [], "DAHA SÜRÜŞKƏN ƏN SÜRÜŞKƏN sürüşən yumşaq").
+entry(swiss, n, [svisslər], "pambıq parça").
+entry(switch, v, [dəyişdi, dəyişir, dəyişir], "esnek çubuqla döymək üçün").
+entry(switchel, n, [switchels], "su, şəkər, sirkə və çox zaman zəncəfillə hazırlanan içki").
+switcher(giriş, isim, [açanlar], "dəyişdirən biri").
+entry(swith, zi̇rf, [], "tez").
+entry(swithe, adv, [], "sürətli").
+entry(swither, v, [swithered,swithering,swithers], "şübhə etmək").
+entry(swithly, zf, [], "swith").
+entry(swive, v, [swived,swiving,swives], "cinsi əlaqədə olmaq").
+entry(fırlanmaq, v, [fırlandı,fırlanır,fırlanır], "və ya FİRLANDİ FİRLANİR FİRLANİRdayanıqlı bir pivotda dönmək").
+entry(swivet, n, [swivets], "həyəcanlı əsəbi vəziyyət").
+entry(swizzle, v, [çox içildi, çox içir, çox içirlər], "həddindən artıq içmək").
+entry(swizzler, n, [swizzlers], "ətrini qarışdıran").
+entry(swob, v, [silindi,silən,silir], "silmek").
+entry(swobber, n, [swobbers], "süpürücü").
+entry(şişmiş, keçmiş, [], "swell-in participle forması").
+entry(swoon, f, [bayılıb, bayılmaqda, bayılır], "huşunu itirmək").
+entry(swooner, n, [huşunu itirənlər], "huşunu itirən biri").
+entry(swoony, sif, [], "SWOONIER SWOONIESThuşlu bihuş").
+entry(swoop, v, [swooped, swooping, swoops], "ani qəfil eniş etmək").
+entry(swooper, n, [swoopers], "uçub enən biri").
+entry(swoopy, sif, [], "SÜZÜLƏN XƏTLƏRİ VƏ ƏLAMƏTLƏRİ OLAN SWOOPIER SWOOPIEST").
+entry(swoosh, v, [xışıltı etmək, xışıltı edən, xışıltı edir], "xışıltı səsi ilə hərəkət etmək").
+entry(swop, v, [dəyişildi,dəyişmə,dəyişir], "dəyişdirmək").
+entry(swopper, n, [swoppers], "svopper").
+entry(qılınc, n, [qılınclar], "kəsmək və ya sancmaq üçün uzun bıçaq sahibi olan bir silah").
+entry(qılıncoynadan, n, [qılıncoynadanlar], "qılınc istifadə etməkdə məharətli").
+entry(and,içərə,mənbədən,yaxşılıqlar,valideynin,nədir,onlar,üçün,danışdığımız).
+entry(and, keçmiş, [], "swear" sözünün iştirak forması).
+entry(swot, v, [swotted,swotting,swots], "zərbə vurmaq").
+entry(swotter, n, [swotters], "çox oxuyan").
+entry(swoun, v, [bayildi,bayilmaqda,bayilir], "huşunu itirmək").
+entry(swound, v, [swounded,swounding,swounds], "özündən getmək").
+giriş(üzmüş, keçmiş, [], "üzmək feli tabelərinin keçmiş zaman kvartalı").
+entry(swung, a, [], "swing-in keçmiş zaman forması").
+entry(sibarit, n, [sibaritler], "zövq və lüksə düşkün olan şəxs").
+entry(sybo, n, [syboes], "cibol").
+entry(sikamora, n, [sikamora ağacları], "dütdül ağacı").
+entry(sikamore, n, [sikamorelar], "Şimali Amerikaya məxsus bir ağac").
+entry(sayıs, n, [sayıslar], "Hindistanda kişi xidmətçi").
+entry(sise, n, [siseler], " əvvəllər Çində pul kimi istifadə olunan incə işlənməmiş gümüş").
+entry(sikomor, n, [sikomorlar], "çinar").
+entry(sykon, n, [sykonlar], "bir növ süngərSYKONOID sif").
+entry(sikonium, n, [sikonia], "ətli bir çoxfruit növü").
+entry(sikoz, n, [sikozlar], "saç follikulalarının iltihablı xəstəliyi").
+entry(syenit, n, [syenitlər], "yanar süxurSYENİTİK sif").
+entry(syke, n, [sykes], "kiçik çay").
+entry(sili, n, [silis], "Qvineyanın keçmiş pul vahidi").
+entry(sillabi, a, [], "kurikulumun cəmi").
+entry(silabik, n, [silabiklər], "yüksək səslilik dərəcəsinə malik nitq səsi").
+entry(heca, v, [hecalanmış,hecalayan,hecalar], "danışıq dilinin heca vahidlərini tələffüz etmək").
+entry(sillabub, n, [sillabublar], "sillabub").
+entry(kurikus, n, [kurikular], "bir tədris proqramının xülasəsi").
+entry(silf, n, [silflər], "zərif və zərif qız və ya qadınSİLFİK SİLFİŞ SİLFİ adj").
+entry(silfid, n, [silfidlər], "gənc bir silfid").
+entry(silva, n, [silvalar], "və ya SYLVAE bir ərazinin meşə ağacları").
+giriş(meşəlik, n, [meşəliklər], "meşədə yaşayan biri").
+entry(meşəlik, sif, [], "meşəyə aid").
+entry(silvin, n, [silvinlər], "silvinit").
+entry(silvin, n, [silvinlər], "silvit").
+entry(silvit, n, [silvitlər], "kalium filizi").
+giriş(symbion, n, [symbions], "simbiot").
+entry(symbiont, n, [simbiotlar], "başqa bir orqanizmlə yaxın əlaqədə yaşayan orqanizm").
+entry(simbiot, n, [simbiotlar], "simbiot").
+entry(symbiote, n, [symbiotes], "simbiot").
+entry(symbol, v, [simvollaşdı,simvollaşır,simvollar], "və ya SİMVOLLAŞDI SİMVOLLAŞIR SİMVOLLARsimvol olaraq, təmsil kimi xidmət etmək").
+entry(simvolik, adj, [], "simvola aid").
+entry(simmetriya, n, [simmetriyalar], "şəklin əks yarıları arasında dəqiq uyğunluq").
+entry(sympathy, n, [rəğbət], "başqasının əzabına qarşı mərhəmət hissi").
+entry(sympatry, n, [simpatriyalar], "qarışıq çoxalmadan fərdiyyətin itmədən eyni ərazidə yerləşmə halı").
+entry(simfoniya, n, [simfoniyalar], "orkestr kompozisiyası").
+entry(sympodia, cəmlik, [], "üst-üstə yerləşdirilmiş budaqlardan ibarət olan bitki gövdələri").
+entry(simpoziumlar, npl, [], "müzakirə məqsədilə keçirilən konfranslar").
+entry(symptom, n, [simptomlar], "nəyinsə göstəricisi").
+entry(syn, adv, [], "syne").
+entry(sinaqoq, n, [sinaqoqlar], "yəhudi ibadəti üçün bina").
+entry(synanon, n, [sinanonlar], "narkotik asılılığı olan şəxslər üçün qrup terapiyası üsulu").
+entry(sinaps, v, [sinapsləşdi,sinapsləşir,sinapsləşər], "sinapsis vəziyyətində birləşmək").
+entry(sinapsid, n, [sinapsidlər], "nəsli kəsilmiş sürünənlər qrupuna aid olan").
+entr(sinapsis, n, [sinapslar], "sinir impulsunun bir neyronadan digərinə keçdiyi nöqtəSİNAPTİK sif").
+entry(sync, v, [sinxronlaşdırılıb,sinxronlaşdırılır,sinxronlaşdırır], "uyğunluq içində işləməsinə səbəb olmaq").
+entry(syncarp, n, [sinkarplar], "ətli çoxlu meyvə").
+entry(syncarpy, n, [syncarpies], "sinkarpa halı olmaq").
+entry(sinxron, f, [sinxronlaşdı,sinxronlaşır,sinxronlaşır], "sinxronizasiya etmək").
+entry(sinxro, n, [sinxrolar], "selsin").
+entry(sinklin, n, [sinklinlər], "dağ süxurunun bir növü").
+entry(syncom, n, [sincomlar], "bir növ rabitə peyki").
+entry(sinqop, n, [sinqoplar], "sözün ortasından bir və ya bir neçə səsi buraxaraq ixtisar edilməsiSİNQOPAL SİNQOPİK sif").
+entry(syncytia, cml, [], "hüceyrə birləşməsi nəticəsində yaranan protoplazma kütlələri").
+entry(sindezis, n, [sindezislər], "və ya SİNDEZİSLƏRsynapsis").
+entry(sindet, n, [sindetlər], "sintetik deterjan").
+entry(bağlayıcı, sifət, [], "bağlamaq üçün xidmət edən").
+entry(sindikat, n, [sindikatlar], "ticarət agentiSİNDİKAL sif").
+entry(sindrome, n, [sindromlar], "müəyyən bir pozğunluğu xarakterizə edən simptomlar qrupu").
+entry(syne, adv, [], "etibarən").
+entry(sinektik, sif, [], "problem həll etmə sisteminə aid").
+`entry(sinerji, n, [sinerjilər], "sinerji").`
+entry(sinergid, n, [sinergidlər], "toxum bitkisinin embrion kisəsində tapılan bir hüceyrə").
+entry(sinerji, n, [sinerjilər], "birgə fəaliyyətSİNERJİ adj").
+entry(sinezis, n, [sinezislər], "qrammatik quruluş növü").
+entry(sintetik yanacaq, n, [sintetik yanacaqlar], "fosil yanacaqlardan əldə edilən yanacaq").
+entry(sinqamiya, n, [sinqamiyalar], "iki gametin birləşməsiSİNOQAMİK sif").
+entry(sintez-qaz, n, [sintez-qazlar], "və ya SİNTEZ-QAZKarbomonoksid və hidrogendən ibarət, kimyəvi sintez üçün istifadə edilən qarışıq").
+entry(singenik, sif, [], "antigenlərə reaksiya baxımından genetik olaraq eyni olan fərdlərlə əlaqəli və ya onlardan biri").
+entry(sinkarya, cəm, [], "iki əvvəl mövcud olan nüvənin birləşməsindən əmələ gələn hüceyrə nüvələri").
+entry(sinod, n, [sinodlar], "kilsə şurası SİNODAL SİNODİK sif").
+entry(sinonim, n, [sinonimlər], "başqa sözlə eyni mənaya malik olan söz").
+entry(sinonim, n, [sinonimlər], "sinonim").
+entry(sinonimiya, n, [sinonimiyalar], "mənanın ekvivalentliyi").
+giriş(sinopsis, i, [sinopsislər], "xülasəSİNOPTİK sif").
+entry(sinoviya, n, [sinoviyalar], "müəyyən qişalar tərəfindən ifraz olunan sürtkü mayesiSİNOVİAL sif").
+entry(sintagm, n, [sintagmalar], "sintagma").
+entry(sintagma, n, [sintagmalar], "və ya SYNTAGMATA sintaktik element").
+entry(sintaksis, n, [sintaksislər], "sözlərin birləşərək ifadələr və cümlələr əmələ gətirmə üsulu").
+entry(sintezator, i, [sintezatorlar], "sintezator").
+entry(sintaz, n, [sintazlar], "iki molekulu birləşdirən ferment").
+entry(sintpop, n, [sintpoplar], "sintezatorlarla ifa olunan populyar musiqi").
+entry(sinton, n, [sintonlar], "sintonik temperamentə malik olan şəxs").
+entry(sintonik, sif, [], "müəyyən sosial mühitə həssas bir temperamentə sahib olmaq").
+entry(sinton, n, [sintonlar], "vericilərin və alıcıların bir-birinə uyğunlaşdırılması").
+entry(sintip, n, [sintiplər], "yeni növün adının əsasında olduğu nümunə tiplərinin hər biri").
+entry(sinura, n, [sinurae], "hər hansı bir protozoonlar cinsi").
+entry(sif, n, [siflər], "sifilis").
+entry(sypher, v, [syphered,syphering,syphers], "haşiyəli taxta kənarları kimi hamar səth yaratmaq üçün üst-üstə düşmək").
+entry(sifilis, n, [sifilislər], "cinsi yolla keçən xəstəlik").
+entry(sifon, v, [sifonladı,sifonlama,sifonlar], "sifonlamaq").
+entry(sifonal, sifət, [], "siphonal").
+girdi(sifonik, sif, [], "siphonic").
+entry(sıren, n, [sırenlər], "siren").
+entry(siret, n, [siretler], "dərmanın tək dozasını ehtiva edən iynə ilə təchiz olunmuş kiçik bir boru").
+entry(syringa, n, [syringalar], "bəzək kolları").
+entry(şpris, v, [şprisledi,şprisleme,şprislər], "mayeni yeridərək təmizləmək və ya müalicə etmək").
+entry(syrinx, n, [syrinxes], "quşun səs orqanı").
+entry(sürfian, n, [sürfianlar], "sürfid").
+entry(sirfit, n, [sirlər], "qanadlı bir həşərat").
+entry(sirop, v, [siropladı, siroplama, siroplar], "qalın şirin maye ilə şirinləşdirmək").
+entry(şərbətli, sif, [], "ŞƏRBƏTLİ ŞƏRBƏTLİSTılgən şirin və yapışqan mayeyə bənzəyən").
+entry(sysadmin, n, [sistem inzibatçıları], "sistem inzibatçısı").
+giriş(sysop, n, [sistem_operatorlari], "kompüter məlumat lövhəsinin idarəçisi").
+entry(sistem, n, [sistemlər], "qarşılıqlı əlaqədə olan elementlərdən ibarət vahid bir bütöv").
+entry(sistemik, n, [sistemiklər], "bir növ pestisid").
+entry(sistol, n, [sistollar], "ürəyin normal ritmik yığılmasıSİSTOLİK sirr").
+entry(sizhigi, n, [sizhigilər], "yer, ay və günəşin düz xətt boyunca yerləşdiyi konfiqurasiyaSİZHİQAL SİZHİQİAL sif").
+entry(ta, n, [tas], "şükran ifadəsi").
+entry(tab, v, [tabbed,tabbing,tabs], "adlandırmaq və ya təyin etmək").
+entry(tabanid, n, [tabanidlər], "qan sorucu bir həşərat").
+entry(tabard, n, [tabardlar], "qolsuz üst geyimi TABARDED sif").
+entry(tabaret, n, [tabaretlər], "ipək parça").
+entry(tabbed, keçmiş, [], "tablaşdırmanın keçmiş zaman forması").
+entry(tabbing, n, [tabbings], "klaviaturada tab düyməsinin istifadəsi").
+entry(tabbis, n, [tabbislər], "ipək parça").
+entry(xallı, v, [xallılaşmış,xallılaşır,xallılar], "dalğalı görünüş vermək").
+entry(taber, v, [tabor etdi,tabor etmə,taborlar], "tabor etmək").
+entry(tabes, n, [tabes], "sifilis xəstəliyi").
+entry(tabetik, n, [tabetiklər], "tabezdən əziyyət çəkən biri").
+entry(tabid, sif, [], "tabesə tutulmuş").
+entry(tabla, n, [davulçik], "kiçik bir davul").
+entry(cədvəl, v, [cədvəllənmiş,cədvəllənmə,cədvəllər], "mebel parçasını düz üst səthə malik bir cədvələ qoymaq").
+entry(tableau, n, [cədvəllər], "və ya TABLEAUX şəkil").
+entry(tableful, n, [tablefuls], "ya da masanın tuta biləcəyi qədər TABAQ");
+entry(tablet, v, [tabletləndi, tablette, tabletlər], "yaxud TABLETLƏNDİ TABLETLƏNMƏ TABLETLƏRkiçik düz səthə yazmaq").
+entry(masaüstü, n, [masaüstülər], "masanın üstü").
+entry(cədvəlçəkmə, n, [cədvəlçəkmələr], "məlumatların və ya informasiyanın sütunlar şəklində cədvəllərə yerləşdirilməsi").
+entry(tabloid, n, [tabloidlar], "kiçik qəzet").
+entry(qadağan, v, [qadağan etdi, qadağan edir, qadağanlar], "istifadə etməkdən, yaxınlaşmaqdan və ya danışmaqdan xaric etmək").
+entry(tabooley, n, [tabooleys], "tabbouli").
+entry(tabor, v, [tabor çalmaq, tabor çalır, taborlar], "kiçik bir davulda döymək").
+entry(taborer, n, [taborers], "tabor çalan").
+giriş(taburet, n, [taburetlər], "kiçik bir nağara").
+entry(taborin, n, [taborinlər], "taborin").
+entry(taborine, n, [taborines], "taburetka").
+entry(tabouleh, n, [taboulehlər], "tabuli").
+entry(tabouli, n, [taboulilər], "bulgur buğdası, pomidor, cəfəri, soğan və nanə olan Livan salatı").
+entry(tabour, v, [taboured, tabouring, tabours], "tabor etmək").
+entry(docur, n, [docurlar], "docu").
+entry(tabouret, n, [tabourets], "taboret").
+entry(tabu, v, [tabued,tabuing,tabus], "tabu etmək").
+entry(cədvəl, sif, [], "siyahıya aid").
+entry(on, v, [onlanmış,onlama,onlayır], "siyahıda tərtib etmək").
+entry(tabuli, n, [tabulis], "tabouli").
+entry(tabun, n, [tabunlar], "kimyəvi birləşmə").
+entry(tacan, n, [takanlar], "təyyarələr üçün naviqasiya sistemi").
+entry(tace, n, [tacelər], "a tasset").
+entry(tacet, v, [], "sakit ol musiqi istiqaməti olaraq istifadə edilir").
+entry(tach, n, [tachlar], "fırlanma sürətini göstərən cihaz").
+entry(toka, n, [tokalar], "iləndirici və ya toqqa").
+entry(taçinid, n, [taçinidler], "boz rəngli milçək").
+entry(taxizm, n, [taxizmlər], "aksiya rəssamlığı").
+entry(tachisme, n, [tachizmlər], "taçizm").
+giriş(tachist, n, [tachists], "hərəkət rəssamı").
+entry(tachiste, n, [tachistes], "tacist").
+entry(tachyon, n, [taxionlar], "nəzəri atomaltı zərrəcik").
+entry(susqun, sif, [], "söylənməmişSUSQUCA zərf").
+entry(tənbəl, sif, [], "daim sakit").
+entry(tack, v, [tacked,tacking,tacks], "qısa ucu iti mıxlarla bərkitmək üçün").
+entry(tacker, n, [tackerlər], "çiviliyən biri").
+entry(tacket, n, [tackets], "bir dəmir çiv").
+giriş(tackey, sifət, [], "TACKIER TACKIESTtacky").
+entry(tackier, müqayisəli, [], "tacky-dən").
+entry(tackiest, superlative, [], "dəbdən düşmüş").
+entry(tutqunlaşdırmaq, f, [tutqunlaşdırılmış, tutqunlaşdırmaqda, tutqunlaşdırır], "tutqun etmək").
+entry(tackily, adv, [], "dəbdən düşmüş bir şəkildə").
+entry(tackle, v, [tackled,tackling,tackles], "yerə atıb ələ keçirmək").
+entry(müdafiəçi, n, [müdafiəçilər], "təqib edən").
+entry(tırnaqsız, sif, [], "tırnaqları olmayan").
+entry(tackling, n, [tacklings], "avadanlıq").
+entry(tacky, sif, [], "TACKIER TACKIESTyapışqan").
+entry(tacnode, n, [tacnodes], "iki əyri arasında əlaqə nöqtəsi").
+entry("tako", n, ["takolar"], "içliklə bükülmüş tortilya").
+entry(takonit, n, [takonitlər], "aşağı keyfiyyətli dəmir filizi").
+entry(takrin, n, [takrinlər], "Altsheymer xəstəliyinin müalicəsi üçün dərman").
+entry(taktika, n, [taktikalar], "həssas vəziyyətlərin öhdəsindən gəlmək bacarığı").
+entry(taktik, sifət, [], "takt sahibi olmaq").
+entry(taktika, n, [taktikalar], "məqsədə çatmaq üçün bir manevrTAKTİK adj").
+entry(taktil, sif, [], "toxunma duyğusuna aid").
+entry(toxunuş, n, [toxunuşlar], "toxunma hərəkəti").
+entry(taktısz, sif, [], "takt çatışmazlığı").
+entry(taktil, sif, [], "tactile").
+entry(tad, n, [tads], "kiçik oğlan").
+entry(qurbağa balası, n, [qurbağa balaları], "ikisahivli bir heyvanın su ilə bağlı sürfəsi").
+giriş(tae, ədat, [], "doğru").
+entry(tael, n, [tael], "Çin çəki vahidi").
+entry(taenia, n, [taenias], "və ya TAENIAEa brezənidTAENIOID sif").
+entry(taenit, n, [taenitlər], "meteoritlərdə olan nikel-dəmir ərintisi").
+entry(taffarel, n, [taffarels], "tafrail").
+entry(tafferel, n, [tafferels], "tafrayl").
+entry(tafta, n, [taftalar], "parlaq bir parça").
+entry(taffia, n, [taffias], "tafia").
+entry(taffrail, n, [taffrails], "gəminin arxasında olan məhəccər").
+entry(taffi, n, [taffilər], "çeynənən konfet").
+entry(tafia, n, [tafialar], "aşağı keyfiyyətli rom").
+entry(tag, v, [işarələnmiş,işarələmə,işarələr], "tanıyıcı bir marker ilə təmin etmək").
+entry(tagalong, n, [tagalongs], "başqasını izləyən biri").
+entry(tagboard, n, [tagboards], "göndərmə etiketləri hazırlamaq üçün istifadə edilən material").
+giriş(gülümbahar, i, [gülümbahar], "çiçəkli bitki").
+entry(taggant, n, [taggants], "istehsal mənbəyini göstərmək üçün bir məhsula əlavə olunan maddə").
+entry(tagged, keçmiş, [], "tarix/vaxt təyini").
+entry(təqibçi, n, [təqibçilər], "etiketləyən biri").
+entry(tagging, indiki, [], "tagın participle forması").
+entry(tajin, n, [tajinlər], "tajin").
+entry(etiketəbənzər, sif, [], "etiketə bənzəyən").
+entry(tagline, n, [gülüşler], "nəticəni ifadə edən pyesin və ya zarafatın son cümləsi").
+entry(tagmeme, n, [tagmem], "məna kəsb edən qrammatik əlaqənin ən kiçik vahidi").
+entry(tagmemik, sif, [], "əsas vahid olaraq tagmemenin qəbul edildiyi qrammatikaya aid").
+giris(tagrag, n, [tagrags], "aylagan").
+entry(tahina, n, [tahinas], "tahin").
+entry(tahin, n, [tahinlər], "susam toxumlarından hazırlanan pasta").
+entry(tahr, n, [tahrs], "keçiyəbənzər məməli").
+entry(təhsil, n, [təhsils], "Hindistanda bir rayon").
+entry(taiga, n, [tayqalar], "subarktik həmişəyaşıl meşə").
+entry(teiglach, n, [teiglach], "teiglach").
+entry(taiko, n, [taikolar], "bir barrelsəkilli Yaponiya təbili").
+entry(quyruq, v, [quyruqlu,quyruqlanan,quyruqlar], "quyruq ilə təmin etmək bir arxa hissə").
+entry(tailback, n, [tailbacks], "bəzi futbol formasiyalarında arxafondakı bir üzv").
+entry(tailbone, n, [quyr[u]k sümükləri], "koksiks").
+entry(fraq, n, [fraqlar], "kişi palto").
+entry(tailer, n, [izləyənlər], "başqasını gizlicə izləyən").
+entry(quyruqfanı, n, [quyruqfanları], "bəzi xərçəngkimilərin arxasında yerləşən fan şəkilli üzgəci").
+entry(tailfin, n, [tailfins], "balığın arxa ucunda olan üzgəc").
+entry(ardınca sürmək, f, [ardınca sürdü, ardınca sürmə, ardınca sürür], "başqa bir nəqliyyat vasitəsinin çox yaxın arxasında təhlükəli şəkildə idarə etmək").
+entry(quyruq_kancası, n, [quyruq_kancaları], "bir təyyarənin quyruğundan əyləc kabelinə bağlanmaq üçün aşağı salınan bir kanca").
+giriş(tailing, n, [tailings], "divara daxil edilən bir çıxıntılı daşın və ya kərpicin hissəsi").
+entry(ardıışıq, n, [ardıışiqlar], "nəqliyyat vasitəsinin arxa tərəfindəki işıq").
+entry(taille, n, [tailles], "əvvəllər Fransada tətbiq olunan vergi").
+entry(quyruksuz, sif, [], "quyruğu olmayan").
+entry(tailleur, n, [tailleurs], "qadın dəbli kostyumu").
+entry(quyruqsayağı, sif, [], "quyruga bənzəyən").
+entry(dərzi, f, [dərzilənmiş,dərziləmə,dərzilər], "paltarlarla uyğunlaşdırmaq").
+entry(egzoz, n, [egzozlar], "egzoz borusu").
+entry(tailrace, n, [tailraces], "dəyirman kanalının bir hissəsi").
+entry(tailskid, n, [tailskids], "təyyarənin quyruğunun dayandığı dayaq").
+entry(tailspin, v, [tailspun,tailspinning,tailspins], "yerə doğru baş alıb getmək üçün dönmək").
+entry(tailwind, n, [quyruk küləyi], "hərəkət edən nəqliyyat vasitəsinin arxasından gələn külək").
+entry(tain, n, [tains], "nazik lövhə").
+entry(ləkə, v, [ləkəli,ləkələnmə, ləkələr], "pis bir şeylə azca toxunmaq və ya təsir etmək").
+entry(taipan, n, [təypanlar], "zəhərli ilan").
+informasiyalar(taj, n, [tajes], "Müsəlman ölkələrində geyinilən hündür konik papaq").
+giriş(tajine, n, [tajinlər], "gil qabdan Mərakeş bişirmə qabı").
+entry(taka, n, [takalar], "Banqladeşin pul vahidi").
+entry(takahe, n, [takahes], "uçmayan bir quş").
+entry(almaq, v, [aldi, alinib, almaq], "ALMAQ sahib olmaq ALINA BILEN ALINABILEN adj").
+entry(çıxarma, n, [çıxarmalar], "satış yerindən götürülən hazırlanmış yemək").
+entry(takedown, n, [takedowns], "asanlıqla parçalanan bir məqalə").
+entry(yüksəliş, n, [yüksəlişlər], "uçuşa qalxma hərəkəti").
+entry(takeout, n, [takeouts], "çıxarma hərəkəti").
+entry(takeover, n, [takeoverlar], "idarəni ələ keçirmə hərəkəti").
+yaz(taker, n, [alanlar], "alan").
+entry(takeup, n, [takeups], "bir şeyi götürmə hərəkəti").
+entry(taḳin, s, [taḳinlər], "keçi bənzəri məməli").
+giriş(alma, n, [gelirlər], "müsadirə").
+entry(takingly, adv, [], "cəlbedici bir şəkildə").
+entry(tala, n, [talas], "Hindistanda ənənəvi ritmik musiqi nümunəsi").
+entry(talapoin, n, [talapoinlər], "kiçik Afrika meymunu").
+entry(talar, n, [talarlar], "uzun paltar").
+entry(talars, cəm, [], "klassik mifologiyanın müxtəlif fiqurları tərəfindən geyilən qanadlı sandallar").
+entry(talbot, n, [talbotlar], "nəsli kəsilmiş bir cinsin böyük iti").
+entry(talk, v, [danışdı, danışır, danışır], "və ya DANIŞDI DANIŞIR DANIŞIR danışıqlı, sabunlu teksturaya malik yumşaq bir mineral ilə davranmaq üçünDANIŞQAY DANIŞQOZ DANIŞQOZ DANIŞQAY sifət").
+entry(talk, v, [talkladı,talklayır,talklayır], "tərkibində talk olan bir tozla müalicə etmək").
+entry(hekayə, n, [hekayələr], "bir nağıl").
+entry(taleggio, n, [taleggiolar], "yumşaq kremli pendir").
+entry(talent, n, [istedadlar], "xüsusi təbii qabiliyyət İSTEDADLI sif").
+entry(taler, n, [talers], "əvvəllər istifadə olunmuş Alman sikkəsi").
+entry(əhkəmtərcümanı, n, [əhkəmtərcümanlar], "münsiflər heyətində boşluq doldurmaq üçün dəvət olunan şəxs").
+entry(tali, pl, [], "talamun").
+entry(talion, n, [talions], "cinayətə cavab olaraq qisas").
+entry(taliped, n, [talipeds], "klubayaqa ilə əziyyət çəkən şəxs").
+entry(talipes, n, [talipes], "əyin içəriyə doğru əyilməsi").
+entry(talipot, n, [talipotlar], "hündür palma ağacı").
+entry(talisman, n, [talismanlar], "möcüzəvi güclərə malik olduğuna inanılan bir əşya").
+entry(danışmaq, f, [danışdı, danışmaq, danışır], "danışaraq ünsiyyət qurmaq").
+entry(danışıla bilən, sif, [], "haqqında danışılması mümkün olan").
+entry(dəyişmə, n, [dəyişmələr], "idarəetmə kabinəsi və yazı studiyası arasında tək tərəfli rabitə bağlantısı").
+entry(danışan, n, [danışanlar], "danışan biri").
+entry(talkfest, n, [talkfests], "danışıq festivalı").
+entry(talkie, n, [talkies], "sinxronlaşdırılmış səs ilə hərəkətli şəkil").
+entry(söhbət, n, [söhbətlər], "conversation").
+entry(talky, sif, [], "ÇOX DANIŞAN ÇOX DANIŞIR").
+entry(uzun, n, [uzunlar], "uzun boylu insanlar üçün bir geyim ölçüsü").
+entry(hündür, sifət, [], "HÜNDÜR HÜNDÜRƏn böyük yüksəkliyə sahib olmaq").
+entry(tallage, v, [tallaged,tallaging,tallages], "vergiləmək").
+entry(hündürdolab, n, [hündürdolablar], "hündür dolab").
+entry(tallied, past, [], "saymaq felinin keçmiş zaman forması").
+entry(tallier, n, [talliers], "sayım edən").
+entry(saylar, indiki, [], "say(tally) sözünün 3-cü şəxs təki").
+entry(tallis, n, [tallises], "və ya TALLISIM tallith").
+entry(boyabənzər, sif, [], "bir qədər hündür").
+entry(tallit, n, [tallits], "və ya TALLITIMtallit").
+entry(tallith, n, [talliths], "və ya TALLITHIM Yəhudi ibadət şalı").
+entry(boyluluq, n, [boyluluqlar], "uzun boylu olmaq vəziyyəti").
+entry(tallol, n, [tallollar], "qatranlı maye").
+entry(tallow, v, [tallowed,tallowing,tallows], "heyvan yağlarından qarışıqla yağlamaq").
+entry(tallowy, sifət, [], "dona yağına bənzəyən").
+entry(tally, v, [hesablanmış,hesablanır,hesablar], "saymaq").
+entry(tallyho, f, [tallyhoed,tallyhoing,tallyhos], "və ya TALLYHOEs ov köpəklərinə təşviqedici bir çağırış etmək").
+entry(tallyman, n, [tallymen], "sayımı aparan şəxs").
+entry(talmudik, sif, [], "Yəhudi mülki və dini hüquq məcmusuna aid").
+giriş(pəncə, n, [pəncələr], "yırtıcı quşun bir pəncəsiPƏNCƏLİ sif").
+entry(talooka, n, [talookas], "taluk").
+entry(taluk, n, [taluks], "Hindistanda bir mülk").
+entry(taluka, n, [talukalar], "taluk").
+entry(talus, n, [taluses], "qaya dağıntılarının yığılması ilə əmələ gələn yamac").
+entry(talus, n, [tali], "ayağın sümüyü").
+entry(tam, n, [tams], "dar oturan Şotland papağı").
+entry(evcil, sifət, [], "ram edilə bilən").
+entry(tamal, n, [tamallar], "tamale").
+entry(tamale, n, [tamale], "Meksika yeməyi").
+entry(tamandu, n, [tamandular], "tamandua").
+entry(tamandua, n, [tamandualar], "ağacda yaşayan qarışqayeyən").
+entry(tamarak, n, [tamaraklar], "taxta ağacı").
+entry(tamarao, n, [tamaraos], "tamarau").
+entry(tamarau, n, [tamaraular], "Filippinlərə məxsus kiçik camış").
+entry(tamari, n, [tamaris], "Yapon soya sousu").
+entry(tamarin, n, [tamarinlər], "Cənubi Amerikaya məxsus bir meymun").
+entry(tamarind, n, [tamarindlər], "tropik ağac").
+entry(tamarisk, n, [tamarisks], "həmişəyaşıl kol").
+entry(tamaşa, n, [tamaşalar], "Hindistanda ictimai əyləncə").
+entry(tambac, n, [tambacs], "tombak").
+entry(tambak, n, [tambaklar], "tombak").
+entry(tambala, n, [tambalas], "Malaviin pul vahidi MATAMBALA və ya").
+entry(tambour, f, [tamburladı,tamburlayır,tamburlar], "dairəvi taxta çərçivə üzərində naxış vurmaq").
+entry(tamboura, n, [tambouras], "tambur").
+entry(tambur, n, [tamburlar], "tambur").
+entry(tambura, n, [tamburalar], "simli musiqi aləti").
+-entry(tame, adj, [], "ƏHLİLLƏŞMİŞ ƏHLİL ƏN ƏHLİL mülayim və ya itaətkar").
+entry(tame, v, [ram edilmiş, ram etmək, ram edir], "ram etmək üçün").
+entry(evciləşdirilə bilən, sif, [], "evciləşdirilə bilən").
+entry(tamein, n, [tameins], "Birma qadınlarının geyindiyi geyim").
+entry(tameless, sif, [], "əhliləşdirilə bilməyən").
+entry(təmizcə, zərf, [], "əhliləşdirilmiş tərzdə").
+entry(təmkin, n, [təmkinlər], "təhlükəsizliyin vəziyyəti").
+entry(tamer, n, [təlimçilər], "evcilləşdirən biri").
+giriş(tamest, superlative, [], "əhəmiyyətli dərəcədə").
+giriş(əhliləşdirmə, indiki, [], "əhliləşdirmək fe'linin təsriflənməsi").
+entry(tamis, n, [süzgeclər], "parça torundan hazırlanmış bir süzgəc").
+entry(tammie, n, [tammies], "tammi").
+entry(tammy, n, [tammilər], "müxtəlif lifli bir parça").
+entry(tamp, v, [tamped,tamping,tamps], "vurma ilə sıxmaq").
+entry(tampala, n, [tampalas], "illik ot").
+entry(tampan, n, [tampans], "dişləyən həşərat").
+entry(təhrik etmək, f, [təhqir etdi, təhqir edən, təhqir edir], "zərərli şəkildə müdaxilə etmək").
+giris(qarışdıran, n, [qarışdıranlar], "qarışdıran biri").
+entry(tamplayaraq basdırma, n, [tamplayaraq basdırmalar], "vurma ilə sıxışdırma hərəkəti").
+entry(tampion, n, [tampions], "topun lüləsinin ağzını tutan tıxac").
+entry(tampon, v, [tampone edilmiş,tamponlama,tamponlar], "pambıq yastığı ilə bağlamaq").
+entry(tan, sif, [], "GÜNƏŞ ŞÜALARINDAN QONUR TANNER TANNEST").
+entry(tan, v, [dəri etmək,dəri etmə, dərilər], "kimyəvi maddələrə batıraraq dərini dəri halına çevirmək").
+entry(tanager, n, [tanagers], "parlaq rəngli bir quş").
+entry(tanbark, n, [tanbarks], "dənə ağacı qabığı kimi istifadə olunan ağac qabığı").
+entry(tandem, n, [tandemlər], "iki nəfərlik velosiped").
+entry(təndir, n, [təndirlər], "və ya TANDIR gil soba").
+entry(tandoori, n, [tandoorilər], "tandoorda bişirilmiş yemək").
+entry(tang, v, [tanged, tanging, tangs], "tünd dadla təmin etmək").
+entry(tanga, n, [tanga], "Tacikistanın keçmiş pul vahidi").
+entry(tangelo, n, [tangelolar], "bir sitrus meyvəsi").
+entry(tangence, n, [tangences], "toxunma").
+entry(tangency, n, [toxunmalar], "bilavasitə fiziki təmas vəziyyəti").
+entry(tangent, n, [toxunma xətləri], "bir nöqtədə bir əyri ilə əlaqədə olan düz xətt").
+entry(maddi, n, [maddilər], "hissi olunan bir şey").
+entry(tangibly, adv, [], "açıq-açıq").
+giriş(tanjer, müqayisəli, [], "turş dadlı").
+giriş(ən_turş, superlativ, [], "ən turş").
+entry(dolaşmaq, v, [dolaşmış,dolaşır,dolaşır], "qarışıq bir şəkildə bir araya gətirmək").
+entry(tangler, n, [qarışdıranlar], "qarışdıran").
+entry(tangly, sif, [], "DOLANISIQ DOLANISIQI").
+entry(tango, v, [tangolayır, tangolayan, tangolar], "yaxud TANGOEtmək üçün Latın Amerikasına məxsus rəqs ifa etmək").
+entry(tangram, n, [tangramlər], "Çin tapmacası").
+maddə(turş, sif, [], "ƏN TURŞ TURŞxarab").
+entry(tanist, n, [tanistlər], "Kelt başçısının varisi").
+entry(tanistry, n, [tanistries], "tanist seçmə sistemi").
+entry(tank, v, [tanklədi, tankləyir, tanklər], "mayelər üçün adətən konteyner olan bir tankda saxlamaq").
+entry(tanka, n, [tankalar], "yapon vəzn növü").
+entry(tutumluluq, n, [tutumlar], "çənin tutumu").
+entry(tankard, n, [deşdəməvə], "hündür içki qabı").
+entry(tanker, n, [tankerler], "maye daşınması üçün nəzərdə tutulmuş gəmi").
+entry(tankful, n, [tankfuls], "bir tankın tuta biləcəyi miqdar").
+entry(tankini, n, [ţankinilər], "bikini altlığı və maykadan ibarət olan qadın çimərlik geyimi").
+entry(tanksız, sif, [], "tankı olmayan").
+entry(tankabənzər, sif, [], "tanka bənzəyən").
+entry(tank gəmi, n, [tank gəmiləri], "bir tanker").
+entry(qaralan, sifət, [], "qarala bilən").
+entry(dəbbağlama, n, [dəbbağlamalar], "dəbbağlama prosesi").
+entry(tannin, n, [tannatlar], "kimyəvi duz").
+entry(qaralmış, keçmiş, [], "qaralmanın zamanı").
+entry(tanner, n, [dəbbağlar], "dəri işləyən şəxs").
+entry(dəri zavodu, n, [dəri zavodları], "dərilərin işlənildiyi yer").
+entry(tannest, superlative, [], "tenli").
+entry(tannik, sif, [], "tanninə aid").
+entry(tanin, n, [taninlər], "dəri çəkmək üçün istifadə edilən kimyəvi birləşmə").
+entry(dəri_duzamə, n, [dəri_duzalmaları], "dəriləri dəriyə çevirmək prosesi").
+entry(tannish, sif, [], "bir qədər qaralmış").
+entry(tanrec, n, [tanrecs], "tanrek").
+entry(tansy, n, [tansies], "çoxillik ot").
+entry(tantal, n, [tantallar], "metal elementiTANTALIC sif").
+entry(tantalus, n, [tantaluslar], "çaxır butulkaları üçün bir qutu").
+entry(tantara, n, [tantaras], "truba və ya borunun səsi").
+entry(tantivy, n, [tantivies], "ovçuluq qışqırığı").
+entry(tanto, n, [qısa], "qısa Yapon qılıncı").
+entry(tantra, n, [tantralar], "Hindu dini yazılar sinfinə aid TANTRİK sif").
+entry(tantrizm, n, [tantrizmlər], "Hindu və pagan elementlərini əhatə edən Buddizm məktəbi").
+entry(tantrist, n, [tantristlər], "tantrizm tərəfdarı").
+entry(qəzəb, n, [qəzəblər], "əsəbi çıxış").
+entry(tanuki, n, [tanukilər], "bir yenot iti").
+entry(tanyard, n, [tanyards], "dubaxanadakı çənləri olan bölmə").
+entry(tao, n, [taos], "Çin fəlsəfəsinə görə əxlaqi davranış yolu").
+entry(tap, v, [vurdu, vurma, vurur], "yumşaq vurmaq").
+entry(tapa, n, [tapas], "ağac qabığından hazırlanan bir parça").
+entry(tapadera, n, [tapaderas], "eyər hissəsi").
+entry(tapadero, n, [tapaderos], "gizlədici").
+entry(tapalo, n, [tapalos], "Latın Amerikası ölkələrində geyinilən şərf").
+entry(tape, v, [taped,taping,tapes], "uzun, dar bir zolaq və ya lent ilə əlaqələndirmək LENTLƏNMƏLİ adj").
+entry(tapsız, sif, [], "lentəsiz olmaq").
+entry(lentəbənzər, sif, [], "lentə bənzəyən").
+entry(tapeline, n, [tapelines], "məsafələri ölçmək üçün lent").
+entry(tapnad, n, [tapnadlar], "qara zeytun, kapar və ançuez ilə hazırlanan yayılmış qarışıq").
+entry(taper, v, [tapered,tapering,tapers], "bir ucuna doğru tədricən daralmaq").
+entry(taperer, n, [tapererlər], "dini ayində şam daşıyan şəxs").
+entry(tapestry, v, [tapestried, tapestrying, tapestries], "toxunmuş divar asma ilə bəzəmək").
+entry(tapetum, n, [tapeta], "bəzi bitkilərdəki hüceyrə təbəqəsiTAPETAL sif").
+entry(lentqurdu, n, [lentqurdları], "parazitar qurd").
+entry(taphole, n, [tapholes], "partlayıcı sobada bir dəlik").
+entry(meyxana, n, [meyxanalar], "bir meyxana").
+entry(lentəalmaq, n, [lentaalmalar], "bir şeyi maqnit lentə yazma hərəkəti və ya nümunəsi").
+entry(tapioca, n, [tapiokalər], "nişastalı bir qida").
+entry(tapir, n, [tapirlər], "dırnaqlı məməli").
+entry(tapis, n, [tapises], "divar asması və döşəmə örtüklərində istifadə olunan material").
+entry(kransız, sif, [], "mayenin və ya qazın axışını dayandırmaq üçün kranı olmayan").
+entry(tappable, sif, [], "toxunula bilən").
+entry(tapped, keçmiş, [], "tap-in zamanı").
+entry(tapper, n, [tappers], "vurucu").
+entry(tappet, n, [tappets], "bir mexanizmin başqa bir hissəsini hərəkət etdirməsinə səbəb olan sürüşmə çubuğu").
+entry(tapping, n, [tappings], "nəyinsə vurulma prosesi və ya vasitəsi").
+entry(biraxana, n, [biraxanalar], "bar otagi").
+entry(taproots, n, [taproots], "bitkinin əsas kökü").
+giriş(tapster, n, [tapsters], "bara xidmət edən şəxs").
+entry(taqueria, n, [taquerias], "tacos və burritos ixtisaslaşan bir restoran").
+entry(tar, v, [qatrana batırılmış, qatranlama, qatranar], "qara, yapışqan bir maye olan qatranla örtmək").
+entry(tarabish, n, [tarabishes], "növ kart oyunu").
+entry(tarama, isim, [taramas], "balıq kürüsü, sarımsaq, limon şirəsi və zeytun yağından ibarət yunan pastası").
+entry(tarantas, n, [tarantaslar], "rus arabası").
+entry(tarboosh, n, [tarbooshlər], "Müsəlman kişiləri tərəfindən geyinilən papaq").
+entry(tarbuş, n, [tarbuşlar], "tarboş").
+entry(tardier, comparative, [], "yubanmış").
+entry(tələsmə, pl, [], "tələsmənin").
+entry(tardive, sifət, [], "yavaş-yavaş inkişaf edən simptomlara malik").
+entry(tardo, sif, [], "musikalı istiqamət kimi istifadə olunan yavaş").
+entry(tardy, sif, [], "GEC GECİKMIŞ GECİKMƏLİ adv").
+entry(gecikmə, n, [gecikmələr], "gecikmək halı").
+entry(tardyon, n, [tardyonlar], "işıq sürətindən yavaş hərəkət edən subatomik hissəcik").
+entry(tara, v, [tara edilmiş,tara etmə,tara edir], "mallar tutan konteynerin çəkisini təyin etmək").
+entry(targa, n, [targas], "üstü açıq idman avtomobili növü").
+entry(targe, n, [targes], "kiçik dairəvi qalxan").
+entry(hədəf, v, [hədəflənmiş,hədəflənən,hədəflər], "məqsəd etmək").
+entry(tarif, v, [tariflənmiş,tarifləmə,tariflər], "idxal və ya ixrac olunan mallara vergi qoymaq").
+entry(taring, indiki, [], "tare felinin iştirakçı halı").
+entry(tarlatan, n, [tarlatanlar], "pambıq parça").
+entry(tarletan, n, [tarletans], "tarlatan").
+entry(tarmac, v, [tarmacked,tarmacking,tarmacs], "təyyarənin uçuş-enmə zolağında qalmasına səbəb olmaq").
+entry(tarn, n, [tarns], "kiçik dağ gölü").
+entry(lənətlənmiş, sif, [], "bədbəxtTARNALLY zərf").
+entry(ləkələnmək, v, [ləkələndi,ləkələnir,ləkələnir], "parlaqlığını itirmək").
+entry(taro, n, [taro bitkiləri], "tropik bitki").
+entry(tarok, n, [taroklar], "tarok").
+entry(tarok, n, [taroks], "kart oyunu").
+entry(tarot, n, [tarotlar], "falçılıq üçün istifadə edilən oyun kartlarının dəstindən hər hansı biri").
+entry(örtük, n, [örtüklər], "qoruyucu kətan örtük").
+entry(tarpan, n, [tarpanlar], "Asiya vəhşi atı").
+giriş(zəhmətkağızı, n, [zəhmətkağızları], "qatranla örtülmüş ağır bir kağız").
+entry(tarpon, n, [tarponlar], "dəniz oyun balığı").
+entry(tərxun, n, [tərxunlar], "çoxillik ot bitkisi").
+entry(tarre, v, [qatranlanmış, qatranlama, qatranlayır], "hərəkətə təşviq etmək üçün").
+entry(tarred, keçmiş, [], "qatlamanın zamanı").
+entry(tarrier, n, [tarriers], "gecikən biri").
+entry(tarring, indiki, [], "tar və tarre fellərinin participi").
+entry(tarry, sif, [], "KATRAN KIMI TARRIESTə bənzəyən").
+entry(tarry, v, [tərləndi, tərləyiş, tərlə], "hərəkət etməkdə və ya iş görməkdə gecikmək və ya yavaş olmaq").
+entry(tarsal, n, [tarsals], "ayağın bir sümüyü").
+giris(daban, cəm, [], "dabanın").
+entry(tarsia, n, [tarsiyalar], "intarsiya").
+entry(tarsier, n, [tarsierlər], "gecə aktiv olan primat").
+entry(tarsus, n, [tarsi], "ayağın bir hissəsi").
+entry(tart, sif, [], "KƏSKİN TURŞ DADAturş dadı olan kəskin").
+entry(tart, v, [tarted,tarting,tarts], "bəzənmək").
+entry(tartan, n, [tartanlar], "naxışlı yun parça").
+entry(tartana, n, [tartanas], "Aralıq dənizi yelkənli gəmisi").
+entry(tartar, n, [tartarlar], "diş daşları təbəqəsi").
+entry(tartar, sif, [], "çiy xidmət edilir").
+entry(tartier, müqayisəli, [], "of tarty").
+entry(tartiest, superlative, [], "tartının").
+entry(tartish, sif, [], "bir qədər turş").
+entry(tartlet, n, [tartlets], "kiçik piroq").
+giriş(tartly, zərf, [], "turş bir şəkildə").
+entry(turşuluq, n, [turşuluqlar], "turş olmaq vəziyyəti").
+entry(tartarat, n, [tartarlar], "kimyəvi duz").
+entry(tartuf, n, [tartuflər], "tartüf").
+entry(tartuffe, n, [tartuffes], "ikiüzlü").
+entry(tartuf, n, [trufflelər], "və ya TARTUFOSan İtalyan dondurma deserti").
+entry(tarty, sif, [], "ƏN TURŞ ƏN TURŞU bir fahişəyə işarə edən TURŞU ŞƏKİLDƏ zərf").
+entry(tərvird, n, [tərvirdlər], "çiçəkli bitki").
+entry(tarzan, n, [tarzanlar], "üstün gücə və çevikliyə malik insan").
+entry(tase, v, [tased,tasing,tases], "elektrikləşdirilmiş oxlar atan silahla heyrətləndirmək").
+entry(tapşırıq, v, [tapşırıqlandı,tapşırıqlandır, tapşırıqlar], "iş tapşırmaq").
+entry(tapşırıqlar paneli, n, [tapşırıqlar panelləri], "kompüter ekranında qrafik idarəetmə elementlərinin sırasi").
+entry(görəvilərinicrası, n, [görəvilərinicrasıları], "çətin iş").
+entry(tass, n, [stəkanlar], "içmək üçün stəkan").
+entry(tasse, n, [fincanlar], "fincan").
+giriş(dəstə, v, [dəstələdi,dəstələyir,dəstələyir], "və ya DƏSTƏLƏDİ DƏSTƏLƏYİR DƏSTƏLƏYİR bəzəmək üçün asılan bəzəklərlə").
+entry(tasset, n, [tassets], "budun üst hissəsi üçün bir zireh parçası").
+entry(tasiye, n, [tasiyələr], "tas").
+entry(tasso, n, [tassos], "ədviyyatlı kuru donuz əti").
+entry(dadına_baxmaq, f, [daddı, dadına_baxır, dadına_baxır], "ağza alaraq dadını hiss etməkDADINA BAXILABILƏN sif").
+entry(zövqlü, sif, [], "daddy").
+entry(taddadıcı, n, [taddadıcılar], "dadına baxan").
+entry(dequstasiya, n, [dequstasiyalar], "şərablar və ya yeməklərin dadına baxılması üçün yığıncaq").
+entry(ləzzətli, sif, [], "LƏZZƏTLİ LƏZZƏTLİXOŞTAMTAMADARA adv").
+giriş(tat, v, [tıdıldı, tıdılma, tıdıldılar], "tıdılma etmək").
+entry(tatami, n, [tatami], "döşəmə örtüyü kimi istifadə olunan saman hasırlaması").
+entry(tatar, n, [tatarlar], "vahşi bir şəxs").
+entry(tale, n, [taleler], "bir dəstə saç").
+entry(tater, n, [kartof], "kartof").
+entry(tathata, n, [tathatalar], "Buddaçılıqda bütün şeylərin ən ali təbiəti").
+entry(tatouay, n, [tatouays], "Cənubi Amerika armadillosu").
+entry(tatsoi, n, [tatsois], "Asiya xardalı").
+entry(tatted, keçmiş, [], "tat üçün zaman").
+entry(tatter, f, [cırılmış,cırılma,cırılır], "cırılıb köhnəlmək").
+entry(kartof, n, [kartoflar], "kartof").
+entry(tattier, müqayisəli, [], "tatty-dən").
+entry(tattiest, superlative, [], "tatty-nin").
+entry(tattily, adv, [], "darmadağın şəkildə").
+entry(tatting, n, [tattings], "incə əl işindən hazırlanmış krujeva").
+entry(tattle, v, [danışdı, danışan, danışır], "başqasının fəaliyyətlərini açıqlamaq").
+entry(tattler, n, [tattlers], "boşboğazlıq edən biri").
+entry(tatu, v, [tatu etdilər,tatu etməkdədir,tatular], "dərini silinməz pigmentlərlə işarələmək").
+entry(tatu_ustası, n, [tatu_ustaları], "tatu edən şəxs").
+entry(tatty, sif, [], "TATTI TATLİŞləkim").
+entry(tau, n, [taus], "yunan hərfi").
+entry("öyrətdi", keçmiş, [], "öyrətmək felinin keçmiş zaman forması").
+entry(özlədi, f, [özüb,özləyir,özləyər], "istehzalı tərzlə meydan oxumaq və ya məzəmmmət etmək").
+entry(ələ salan, n, [ələ salanlar], "ələ salan bir kimsə").
+entry(tauon, n, [tauonlar], "sabit olmayan lepton").
+entry(taupe, n, [tauplar], "tünd boz rəng").
+entry(taurin, n, [taurinlər], "kimyəvi bir birləşmə").
+entry(darıxmış, sifət, [], "DAHA DARIQMIŞ ƏN DARIQMIŞ tam dartılmış və boş olmayan vəziyyətdə").
+entry(taut, v, [qarışdı,qarışdırır,qarışdır], "qarışdırmaq").
+entry(tautaug, n, [tautaugs], "tautog").
+entry(tauten, v, [dartılmış,dartmaqda,darır], "dartmaq").
+entry(sıx, zərf, [], "sıx bir şəkildə").
+giriş(gərginlik, n, [gərginliklər], "gərgin olma vəziyyəti").
+entry(tautog, n, [tautoqlar], "dəniz balığı").
+entry(tautomer, n, [tautomerlər], "kimyəvi birləşmə növü").
+entry(tautonim, n, [tautonimlər], "taksonomik təyinat növü").
+entry(tav, n, [tavs], "ibrani hərfi").
+entry(meşxana, n, [meşxanalar], "içkilərin yerində içilməsi üçün satıldığı yer").
+entry(taverna, n, [tavernas], "Yunanıstanda bir kafe").
+entry(taverner, n, [meyxanaçılar], "meyxana işlədən").
+entry(taw, v, [tawed,tawing,taws], "mineral tətbiqi ilə ağ dəriyə çevirmək").
+entry(tawdry, sif, [], "TAWDRIER TAWDRIESTparlaqTAWDRILY zərf").
+entry(tawdry, n, [tawdries], "dəbdəbəli bəzək").
+entry(tavlayıcı, n, [tavlayıcılar], "tavlayan biri").
+entry(tawie, adj, [], "itaətkar").
+entry(tawney, n, [tawneyler], "kürən").
+giriş(tawny, sif, [], "TAWNIER TAWNIESTaçıq qəhvəyi TAWNILY zərf").
+entry(tawny, n, [tawnies], "açıq qəhvəyi rəng").
+entry(tawpie, n, [tawpies], "axmaq gənc adam").
+entry(tawse, v, [tawsed,tawsing,tawses], "cəza vermək").
+entry(vergi, v, [vergiləndirilmiş, vergiləndirmək, vergilər], "ictimai məqsədlərlə hakimiyyət tərəfindən qoyulan bir yük olan vergi qoymaq").
+entry(taxa, a, [], "taksonların cəmi").
+entry(vergi, sif, [], "vergi ilə bağlı olaraqVERGİ CƏLƏBİ adv").
+entry(vergiye_cəlb_olunan, n, [vergiyə_cəlb_olunanlar], "vergiyə cəlb olunan əşya").
+giriş(vergiqoyma, n, [vergiqoymalar], "vergi tətbiqi prosesi").
+entry(taksem, n, [taksemlər], "seçimTAXEMIC adj-in minimum qrammatik xüsusiyyəti").
+entry(taxer, n, [taxers], "vergi qoyan").
+entry(taksi, v, [], "TAKSİYƏ MİNİLDİ TAKSİYƏ MİNİLİR və ya TAKSİYƏ MİNİRLİR TAKSİLƏR və ya TAKSİYƏ MİNİRLƏRsərnişin avtomobilində səyahət etmək").
+entry(taksitutmaq, n, [taksiləri], "icarəyə verilən bir avtomobil").
+entry(taksi_sürücüsü, n, [taksi_sürücüləri], "taksi avtomobilinin operatoru").
+entry(taxingly, adv, [], "çətin bir şəkildə").
+entry(taksit, n, [taksitlər], "vulkanik qayadırTAKSİTİK sif").
+entry(təyyarə yolu, n, [təyyarə yolları], "hava limanında asfaltlanmış zolaq").
+entry(vergisiz, sif, [], "vergidən azad").
+entry(vergi_yığan, n, [vergi_yığanlar], "vergiləri toplayan şəxs").
+entry(taksol, n, [taksols], "qarağac ağacından alınan dərman maddəsi").
+entry(takson, n, [taksonlar], "və ya TAKSOElmi təsnifat vahidi").
+entry(taksonomiya, n, [taksonomiyalar], "elmi təsnifatın öyrənilməsi").
+entry(taxpaid, sifət, [], "vergilər hesabına ödənilən").
+vergiödəyicisi(giriş, n, [vergiödəyicilər], "vergi ödəyən şəxs").
+entry(taxus, n, [taxus], "həmişəyaşıl ağac və ya kol").
+giriş(vergiyə aid, sif, [], "vergilərlə bağlı").
+entry(taxying, a, [], "taksi sürmək felinin indiki zaman feli sifəti").
+entry(tayberry, n, [tayberries], "qaragilə və moruq qarışığı olan tünd qırmızı meyvə").
+entry(tayra, n, [tayra], "Mərkəzi və Cənubi Amerikada yaşayan böyük bir məməli").
+entry(tazza, n, [tazzas], "TAZZEan dekorativ qab").
+entry(te, n, [tes], "ti").
+entry(çay, n, [çaylar], "quru yarpaqları qaynar suda dəmləməklə hazırlanmış içki").
+entry(teaberry, n, [teaberries], "Şimali Amerikaya məxsus bir kol").
+entr(teatəqdimiyyat, n, [teatəqdimiyyatlar], "çay təqdim etmək üçün tepsi").
+entry(caynik, n, [caynikler], "qolcuqsuz cay fincani").
+entry(çayqutusu, n, [çayqutuları], "çay yarpaqları üçün qutu").
+entry(çaykeks, n, [çaykekslər], "çay ilə verilir kiçik kek").
+entry(çay arabası, i, [çay arabaları], "çay servisində istifadə olunan təkərli masa").
+entry(öyrətmək, v, [öyrətdi, öyrətmə, öyrədir], "bilgi və ya bacarıqları ötürmək").
+entry(müəllim, n, [müəllimlər], "dərs verən biri").
+entry(tədris, n, [tədrislər], "bir doktrina").
+entry(çayfincanı, n, [çayfincanları], "çayın verildiyi fincan").
+entry(çayxana, n, [çayxanalar], "çay təklif edən ictimai müəssisə").
+entry(tek, n, [teklər], "Hind ağacı").
+entry(teakwood, n, [tik ağacı], "tik ağacı ağacı").
+entry(teal, n, [teallar], "çay ördəyi").
+entry(çayabənzər, sif, [], "çaya bənzəyən").
+entry(komanda, v, [komandalandı,komandalamaq,komandalar], "ortaq bir hərəkətdə iştirak edən şəxslər qrupu yaratmaq").
+entry(caydan, n, [caydanlar], "çay hazırlayan").
+entrada(komanda_üzvü, n, [komanda_üzvləri], "eyni komandanın üzvü").
+entry(sürücü, n, [sürücülər], "yük maşını sürücüsü").
+entry(kooperasiya, n, [kooperasiyalar], "ümumi məqsədə nail olmaq üçün birgə əməkdaşlıq effortu").
+entry(çaydan, n, [çaydanlar], "çayın hazırlanması və təqdim edilməsi üçün istifadə edilən qab").
+entry(çay süfrəsi, n, [çay süfrələri], "çay süfrəsində istifadə edilən kiçik masa").
+entry(tear, v, [ağladı,ağlayır,ağlayır], "göz vəzisi tərəfindən ifraz olunan duzlu maye damcılarını ifraz etmək").
+entry(yırtmaq, v, [yırtdı,yırtılmış,yırtmaq], "YIRTCANı çəkərək parçalara ayırmaqYIRTILAN adj").
+entry(üzdeyrik, n, [üzdeyriklər], "üsyankar şəxs").
+giriş(sökülmə, n, [sökmə işləri], "sökmə prosesi").
+entry(gözyaşı, n, [gözyaşları], "bir gözyaşı").
+entry(yırtan, n, [yırtanlar], "yırtan və ya cıran biri").
+entry(gözyaşılı, adj, [], "göz yaşları ilə dolu").
+entry(teargas, v, [gözyaşardıcı qazdan istifadə etdi,gözyaşardıcı qazdan istifadə etmə,gözyaşardıcı qazdan istifadə edir], "gözləri qıcıqlandıran bir qazın hədəfi olmaq").
+entry(tearier, müqayisəli, [], "göz yaşlı").
+entry(teariest, superlative, [], "göz yaşlı").
+entry(tearily, adv, [], "göz yaşlı bir şəkildə").
+entry(tearless, sif, [], "göz yaşı olmadan olmaq").
+entry(tearlike, sif, [], "göz yaşı kimi").
+entry(çayxana, n, [çayxanalar], "çay verən restorandır").
+entry(teary, sif, [], "DAHA YAŞLI ƏN YAŞLIyaşlı").
+entry(ələ salmaq, f, [ələ saldı, ələ salmaq, ələ salır], "ələ salmaq üçünTEASABLE sif").
+entry(əzənqotusu, v, [əzdim, əzən, əzir], "və ya ƏZİLMİŞ ƏZİLİR ƏZİLİR parçada yumşaq bir səth yaratmaq üçün tüklü çiçək başı ilə").
+entry(teaseler, n, [teaselers], "tezleyen").
+entry(teaser, n, [tizerlər], "sataşan biri").
+entry(çayxana, n, [çayxanalar], "çay otağı").
+entry(incitmə, indiki, [], "təhrik etmək").
+entry(çay qaşığı, n, [çay qaşıqları], "kiçik qaşıq").
+entry(teat, n, [teats], "məmə vəziTEATED sif").
+entry(cayvaxti, n, [cayvaxtlari], "cay uchun adeten vaxt").
+entry(çay dəsti, n, [çay dəstləri], "çay dəsti").
+entry(teazel, v, [teazeled, teazeling, teazels], "və ya TEAZELLED TEAZELLING TEAZELSləri teasel etmək").
+entry(teazle, v, [teazled, teazling, teazles], "döymək üçün").
+entry(tex, isim, [texlar], "texnologiya").
+entry(tech, n, [texniklər], "texnik").
+entry(teched, sif, [], "dəli").
+entry(texnik, n, [texniklər], "texnik").
+entry(texnika, n, [texnikalar], "texnika").
+entry(tekno, n, [tekno], "diskoteka musiqisi üslubu").
+entry(technoid, n, [texnoidlər], "texnik").
+entry(techy, sif, [], "TEXNİKİ TEXNİKİLƏR TƏCANAVENZƏTEXNİKİLƏRTEXNİ oreADV").
+entry(tecta, a, [], "tectumların cəmi").
+entry(tectal, sif, [], "bir təktuma aid").
+entry(tektilit, n, [tektilitlər], "tektit").
+giriş(tektonik, sif, [], "tikinti ilə əlaqəli").
+entry(tectrix, n, [tectrices], "quş qanadının kiçik lələyi").
+entry(tectum, n, [tectums], "və ya TECTA damabənzər struktur").
+entry(ted, v, [ted etdi, ted edən, teds], "qurutmaq üçün yaymaq").
+entry(tedder, f, [teddered,teddering,tedders], "otbiçən maşınla ot etmək").
+entry(teddi, n, [teddilər], "qadın alt geyimi").
+entry(yorucu, sif, [], "yorğunluq yaradan").
+entry(monosluq, n, [monosluqlar], "yorucu olma vəziyyəti").
+entry(tee, v, [teed,teeing,tees], "qolf topunu kiçik bir dirəyə qoymaq").
+entry(teel, n, [teellər], "küncüt").
+entry(teem, v, [aşdı, aşıq, aşır], "daşana qədər dolu olmaq").
+entry(teemer, n, [teemers], "təkrar qaynayan biri").
+entry(yeniyetmə, n, [yeniyetmələr], "yeniyetmə").
+entry(tenageer, sif, [], "gənclərə aid").
+entry(yaşlıgənc, sif, [], "yeniyetmə").
+entry(gənc, n, [gənclər], "on üç və on doqquz yaşları arasında olan şəxs").
+entry(gənclik, n, [gəncliklər], "gənclər bir yerdə").
+entry(gənc, n, [gənclər], "gənc").
+entry(teenful, sifət, [], "kədərlə dolu").
+entry(teensy, sif, [], "DAHA BALACA ƏN BALACAtiny").
+entry(teentsy, adj, [], "ÇOX KİÇİK TEENTSIESTtiny").
+entry(teeny, adj, [], "DAHA BALACA ƏN BALACAtiny").
+entry(teenybop, sif, [], "gənc yeniyetmə ilə bağlı").
+entry(çadır, n, [çadırlar], "tipi").
+entry(teeter, v, [dəyişdi, dəyişməkdədir, dəyişir], "yırğalanaraq hərəkət etmək").
+entry(disler, pl, [], "dişin").
+entry(di₹maq, v, [di₹dilər, di₹dilər, di₹i₹], "di₹cəlmək üçün").
+entry(dişqaşıyıcı, n, [dişqaşıyıcılar], "körpənin diş çıxararkən dişləməsi üçün istifadə olunan obyekt").
+entry(diŝ çıxarma, n, [diŝ çıxarmalar], "ilk diŝlərin çıxması").
+entry(teetotal, f, [spirtli_ichkidən, spirtli_ichkisiz, spirtli_ichkiden], "və ya SPİRTLİ İÇKİSİZLİK SPİRTLİ İÇKİDEN tamamilə spritli içkidən çəkinmək").
+entry(teetotum, n, [teetotumlar], "fırlanan oyuncaq").
+entry(teff, n, [teffs], "taxıl otu").
+entry(tefillin, npl, [], "yəhudilərin taxdığı filakterlər").
+entry(teg, n, [teqlər], "teqg").
+entry(tegg, n, [teggs], "ikinci ilində olan qoyun").
+entry(tegmen, n, [tegmina], "örtük").
+entry(tegmenta, cəm, [], "anatomik örtüklər").
+entry(tegminal, adj, [], "tegmenə aid olan").
+entry(tegu, n, [tegus], "Cənubi Amerikaya məxsus böyük bir kərtənkələ").
+entry(tegua, n, [teguas], "müxtəlif mokasin növü").
+entry(tegula, n, [tegulae], "qədim Romada istifadə olunan düz dam kirəmiti").
+entry(tegular, sif, [], "pliti oxşar").
+entry(tegumen, n, [tegumina], "tegmen").
+entry(deri, n, [derilər], "örtük").
+entry(teiglach, n, [teiglach], "balda qaynadılmış xəmir toplarından ibarət bir şirniyyat").
+entry(teiid, n, [teiidlər], "tropik Amerika kərtənkələsi").
+entry(tein, n, [teins], "Qazaxıstanın pul vahidi").
+entry(teind, n, [teinds], "onluq").
+entry(tekkie, n, [tekkies], "texniki").
+entry(tektit, n, [tektitlər], "meteorit mənşəli olduğuna inanılan şüşəli cisimTEKTITIC sif").
+entry(təl, n, [təllər], "Yaxın Şərqdə qədim təpə").
+entry(tela, n, [telae], "anatomik toxuma").
+entry(telamon, n, [telamonlar], "dayaq sütunu kimi istifadə olunan kişi fiquru").
+entry(telco, n, [telekommunikasiya şirkətləri], "telekommunikasiya şirkəti").
+entry(televizor, n, [televizorlar], "televizor").
+entry(teleyayım, v, [teleyayımladı, teleyayımlamaq, teleyayımlar], "televiziya vasitəsilə efirə vermək").
+entry(telekin, n, [telekinlər], "filmin televiziyada yayımı").
+entry(telekom, c, [telekomlar], "telekommunikasiya").
+entry(telekommunikasiya, n, [telekommunikasiyalar], "telekommunikasiya").
+entry(teledu, n, [teledus], "ətyeyən məməli").
+entry(telefaks, v, [telefaksladı,telefakslama,telefakslar], "qrafik materialı telefon xətləri ilə ötürmək").
+entry(telefilm, n, [telefilmlər], "televiziya üçün hazırlanmış kinofilm").
+entry(telega, n, [telegas], "rus vaqonu").
+entry(telegoniya, n, [telegoniyalar], "ananın digər erkəklərlə sonrakı cütləşmələri sırasında əvvəlki bir erkəyin nəsilə təsir etməsi güman edilən hal").
+entry(teleqram, v, [teleqramladı,teleqramlayır,teleqramlar], "teleqrafla mesaj göndərmək").
+entry(teleman, n, [telemen], "dəniz zabiti").
+entry(telemark, n, [telemarklar], "xizəkdə dönüş növü").
+entry(teleost, n, [teleostlar], "sümüklü balıq").
+entry(telepat, n, [telepatlar], "hisslərdən başqa bir vasitə ilə başqası ilə ünsiyyət qura bilən biri").
+entry(televiziya_oyunu, n, [televiziya_oyunları], "televizor üçün yazılmış oyun").
+entry(teleportasiya, v, [teleportasiya etdi, teleportasiya etməkdədir, teleportasiya edir], "heç bir fiziki vasitə olmadan istiqamət dəyişdirmə prosesi ilə daşımaq").
+entry(teleran, n, [teleranlar], "hava naviqasiya sistemi").
+entry(teleshop, v, [interaktiv telekommunikasiya sistemləri ilə alış-veriş etdi, interaktiv telekommunikasiya sistemləri ilə alış-veriş edərkən, interaktiv telekommunikasiya sistemləri ilə alış-veriş edir], "interaktiv telekommunikasiya sistemləri ilə alış-veriş etmək").
+entry(telesis, n, [telesis], "planlaşdırılmış inkişaf").
+giriş(telestic, s, [telestiklər], "bir növ akrostik").
+entry(teleqraf, n, [teleqraflar], "mətni abunəçilərə ötürən rabitə sistemi").
+entry(teleton, n, [teletonlar], "xeyriyyəçilik məqsədilə vəsait toplamaq üçün televiziya proqramı").
+entry(teletayp, v, [teletypedən,teletypedən,teletypes], "teleks vasitəsilə göndərmək").
+entry(teleview, v, [televiewed,televiewing,televiews], "televiziya vasitəsilə müşahidə etmək").
+entry(televiziya, v, [televiziyalaşdırdı, televiziya edilməsi, televiziya edir], "təsvirləri və səsləri ötürən elektron sistem televiziya vasitəsilə yayımlamaq").
+entry(təhsil, v, [evdən,i.əlavələrlə,mərkəzi], "elektron bağlantı vasitəsilə mərkəzi ofislə birlikdə evdən işləmək").
+entry(telex, v, [telekslədi, teleksləyir, teleksləyər], "teleqraf sistemi növü ilə mesaj göndərmək").
+entry(telfer, v, [telfer etdi, telfer edir, telfer edir], "telfer etmək").
+entry(telford, n, [telfordlar], "daşlardan hazırlanmış yol").
+entry(telial, sif, [], "telium ilə əlaqəli").
+entry(telik, sifət, [], "məqsədə yönəlmiş").
+entry(teliklik, n, [telikliklər], "telik olma keyfiyyəti").
+entry(telium, n, [telia], "pas göbələyi ilə sirayətlənmiş bitki üzərindəki sorus").
+entry(de, v, [dedim,deyir,deyəcək], "ətraflı məlumat vermək").
+entry(teller, n, [bank işçiləri], "söz deyən").
+entry(tellies, a, [], "telly-nin cəm forması").
+entry(telltale, n, [telltales], "dedikoduçu").
+entry(tellurik, sif, [], "yerlə əlaqəli").
+entry(telly, n, [tellys], "və ya TELLIES bir televiziya aparatı").
+Prolog:
+giriş(telnet, v, [telnetledi,telnetləyir,telnetlər], "uyğun bir prosedurdan istifadə edərək İnternet üzərindən bir hesaba daxil olmaq üçün TELNETLEDİ TELNETLƏYİRTELNETlər").
+entry(telome, n, [telomlar], "damarlı bir bitkinin struktur vahidiTELOMİK sifət").
+entry(telomer, n, [telomerlər], "xromosomun təbii sonu").
+entry(telos, n, [teloi], "son hədəf").
+entry(telpher, v, [telferləndi, telferlənmə, telferlər], "hava kabel avtomobilləri sistemi ilə daşımaq").
+entry(telson, n, [telsonlar], "buğumayaqlının terminal seqmentiTELSONIC adj").
+entry(titrəmə, n, [titrəmələr], "və ya zəlzələ").
+entry(çılğınlıq, n, [çılğınlıqlar], "axmaq cəsarət").
+entry(temp, v, [müvəqqəti işləmək, müvəqqəti işləyən, müvəqqəti işlər], "müvəqqəti işçi kimi işləmək").
+entry(tempeh, n, [tempehlər], "bir Asiya yeməyi").
+entry(temper, v, [tempered, tempering, tempers], "qarşılıq verən bir vasitə əlavə etməklə yumşaltmaq").
+entry(tempera, n, [temperas], "boya texnikası").
+entry(temperer, n, [tempererlər], "təng edən").
+entry(tempest, v, [tempested,tempesting,tempests], "şiddətlə qarışdırmaq").
+entry(tempi, a, [], "temponun cəmi").
+entry(templar, n, [templarlar], "Londonda hüquqşünas və ya hüquq tələbəsi").
+entry(sablon, n, [sablonlar], "nəyisə düzəltmək üçün istifadə olunan nümunə").
+entry(məbəd, n, [məbədlər], "bir ibadət yeri").
+entry(şablon, n, [şablonlar], "template").
+entry(tempo, n, [tempolar], "və ya TEMPImusiqi əsərinin sürət dərəcəsi").
+temporal(giris, isim, [temporal], "kəllə sümüyü").
+entry(tempt, v, [aldatmaq,aldatma,aldadır], "ağılsız və ya əxlaqsız bir hərəkətə təhrik etmək").
+entry(tempter, n, [tempters], "azdıran").
+giris(tempura, isim, [tempuralar], "Yapon yeməyi").
+entry(on, n, [onlar], "rəqəm").
+entry(tenable, sifət, [], "tutula bilənTENABLY zərf").
+entry(tenace, n, [tenac], "bəzi kart oyunlarında iki yüksək kartın kombinasyonu").
+entry(mətanət, n, [mətanətlər], "üsyankarlıq və ya inadkarlıq").
+entry(tenacula, cəm, [], "qarmaqlı cərrahiyyə alətləri").
+entry(tenail, n, [tenailər], "tenaille").
+entry(tenaille, n, [tenailles], "xarici müdafiə").
+entry(kirayə, n, [kirayələr], "başqasına məxsus olan bir şeyin müvəqqəti istifadəsi").
+entry(kirayeçi, v, [kirayədə,qalmaqda,kirayeçilər], "yaşamaq").
+entry(kirayəçilik, n, [kirayəçiliklər], "kirayə").
+entry(tench, n, [tenchlər], "şirin su balığı").
+entry(meyl etmək, v, [meyl etdi, meyl etməkdə, meyl edir], "meyilli və ya meyildar olmaq").
+entry(tendance, n, [tendensiyalar], "diqqətli qayğı").
+entry(megyl, n, [meyllər], "meyl").
+entry(meyil, n, [meyillər], "xüsusi şəkildə hərəkət etməyə və ya düşünməyə meyillilik").
+entry(zərif, sif, [], "ƏN ZƏRİF ƏN ZƏRİF yumşaq və ya incə").
+entry(tələb, v, [tələb etdi,tələb edərək,tələblər], "qəbul üçün təqdim etmək").
+entry(tenderer, n, [təklif edənlər], "təklif edən").
+entry(zərifcə, əvəzlik, [], "zərif bir şəkildə").
+entry(əzələ, n, [əzələlər], "bərk lifli toxumadan ibarət bir lent").
+entry(tendril, n, [tendrils], "sarmaşıq bitkilərinin yarpaqsız orqanı").
+entry(tendu, n, [tendus], "Asiya ənciri ağacı").
+entry(tenebrae, npl, [], "dini mərasim").
+entry(mənzil, n, [mənzillər], "bir mənzil evi").
+entry(tenesi, n, [tenesi], "Türkmənistanın pul vahidi").
+entry(tenezm, n, [tenezmlər], "tualetə getmək və ya sidiyə çıxmaq üçün təcili, lakin təsirsiz bir cəhd TENEZMİK sif").
+entry(tenet, n, [tenetlər], "həqiqət hesab olunan bir prinsip, inanc və ya doktrinə").
+entry(onqat, n, [onqatlar], "verilən vahiddən on qat daha böyük məbləğ").
+entry(tenge, n, [tenqes], "Qazaxıstanın pul vahidi").
+entry(tenia, n, [tenias], "yaxud TENIAEa solucan").
+entry(teniasis, n, [teniases], "qurd xəstəliyi ilə yoluxma").
+entry(tenne, n, [ten], "narıncı-qəhvəyi rəng").
+entry(tenne, n, [tennesi], "Türkmənistanın pul vahidi").
+entry(tenner, n, [tenners], "on dollarlıq əskinas").
+entry(tennies, npl, [], "aşağı kəsimli idman ayaqqabıları").
+entry(tennis, n, [tennislər], "açıq havada oynanan bir top oyunu").
+entry(tennisçi, n, [tennisçilər], "tennis oynayan şəxs").
+entry(tenno, n, [tennos], "Yaponiyanın ilahi kimi qəbul edilən imperatoru").
+entry(tenny, n, [tennies], "tenne").
+entry(oyma, v, [oyma etdi, oyma etmək, oymalar], "ağac parçasının ucundakı çıxıntı vasitəsilə birləşdirmək").
+entry(tenoner, n, [tenonerler], "oyanlayan").
+entry(tenor, n, [tenorlar], "yüksək kişisə səsidir").
+entry(tenorino, n, [tenorini], "yüksək tenor").
+entry(tenorist, n, [tenoristlər], "tenor oxuyan və ya tenor aləti çalan biri").
+entry(tenorit, n, [tenoritlər], "bir mineral").
+entry(tenorman, n, [tenor ifaçısı], "tenor saksafon çalan şəxs").
+entry(tenotomiya, n, [tenotomiyalar], "qirişin cərrahi bölünməsi").
+entry(tenour, n, [tenorlar], "tenor").
+entry(tenpence, n, [tenpens], "on penilik məbləğ").
+entry(tenpeni, sif, [], "on penilik dəyərində").
+entry(tenpin, n, [tenpins], "boulinq pini").
+entry(tenrek, n, [tenreklər], "həşəratlarla qidalanan bir məməli").
+entry(qaygi, sif, [], "GERGIN GƏRGİNGERGINTautGERGİNCƏ adv").
+entry(qayğılı, f, [qayğılı,qayğılılar,qayğılanır], "qayğılı etmək").
+entry(tensiblə, sif, [], "uzadıla bilənTENSİBLİ adv").
+entry(möhkəmlik, sifət, [], "dartımlı").
+entry(gərginlik, v, [gərginləşmiş,gərginləşmə,gərginliklər], "gərginləşdirmək").
+entry(tenslik, n, [tensliklər], "gərgin vəziyyət").
+entry(gərgin, sif, [], "gərginlik yaradan").
+entry(tensor, n, [tenzorlar], "bədən hissəsini uzadan əzələ").
+girdi(cadır, v, [cadırlı,cadırda,cadırlar], "daşına bilən bir sığınacaq növü olan çadırda yaşamaq").
+entry(ilbizayağı, n, [ilbizayaqları], "bəzi heyvanların uzun elastik çıxıntısı").
+entry(tentage, n, [tentages], "çadır təchizatı").
+entry(tenter, v, [dartdı, dartmaqda, dartır], "çərçivə tipində uzatmaq").
+entry(onuncu, n, [onluq], "ondan bir bərabər hissə").
+entry("onuncu olaraq", zərf, [], "onuncu yerdə").
+entry(tentie, sif, [], "ƏN TENTİ ƏN TENTİSTtenty").
+entry(tentier, müqayisəli, [], "tenty-dən").
+entry(tentiest, superlative, [], "tenty olan").
+entry(tentsiz, sifət, [], "çadırı olmayan").
+entry(tentabənzər, sif, [], "çadıra bənzəyən").
+entry(tentoria, npl, [], "həşəratların başlarının daxili skeletləri").
+entry(əsas film, n, [əsas filmlər], "yüksək gəlirli böyük büdcəli bir film, daha az gəlirli olanların xərclərini kompensasiya etmək üçün nəzərdə tutulub").
+entry(tenty, sif, [], "TENTIER TENTIESTdiqqətli").
+entry(tenuis, n, [tenues], "səssiz fonetik qapanma").
+entry(incəlik, n, [incəliklər], "maddə və ya güc çatışmazlığı").
+entry(zəif, sif, [], "az maddəsi və ya gücü olan").
+entry(müddət, v, [müddətli,müddətlilər,müddətlər], "vəzifəni daimi bir əsasda tutma statusunu vermək").
+entry(tenurial, sif, [], "mülkiyyət hüququna aid olan").
+entry(tenuto, n, [tenutolar], "və ya TENUTİ bir musiqi notu və ya akordu normal müddətindən daha uzun tutmaq").
+entry(teokalli, n, [teokallis], "Aztek məbədi").
+entry(teopan, n, [teopanlar], "teokalli").
+entry(teosinte, n, [teosinte], "birillik ot").
+entry(tepa, n, [tepas], "kimyəvi birləşmə").
+entry(tepache, n, [tepaches], "ananas, qəhvəyi şəkər və su ilə hazırlanan Meksika içkisi").
+entry(tepal, n, [tepal], "periantin hissəsi").
+entry(tepee, n, [tepee], "bəzi yerli amerikalıların konik çadırı").
+entry(tepefy, v, [ilıqlaşdırdı, ilıqlaşdırır, ilıqlaşdırar], "ilıq etmək").
+entry(tefra, n, [tefralar], "vulkan tərəfindən çıxarılan bərk material").
+entry(tefrit, n, [tefritlər], "vulkanik süxur").
+entry(əlavə, sifət, [], "orta dərəcədə istiTEPIDLY zərf").
+entry(ilıqlıq, n, [ılığılıqlar], "ılıq olmaq vəziyyəti").
+giriş(tepoy, n, [tepoys], "teapoy").
+entry(tequila, n, [tekilalar], "Meksika likörü").
+entry(terabayt, n, [terabaytlar], "bir trilyon bayt").
+entry(teraflop, n, [terafloplar], "hesablama surətinin ölçüsü").
+entry(terai, n, [teray], "geniş kənarlı günəş şlyapası").
+entry(teraom, n, [teraomlar], "bir trilyon om").
+entry(teraf, n, [terafim], "Semit mənşəli ev tanrısının bir təsviri").
+entry(teratizm, n, [teratizmlər], "qüsurlu dölTERATOID sif").
+entry(teratoma, n, [teratoma], "və ya TERATOMATA bir növ şiş").
+entry(teravatt, n, [teravattlar], "bir trilyon vatt").
+entry(terbia, n, [terbias], "terbium oksidi").
+entry(terbium, n, [terbiumlar], "metal elementTERBİK sif").
+entry(terce, n, [terces], "üçdə bir").
+entry(tercel, n, [tercels], "kişi şahin").
+entry(tercelet, n, [tercelets], "tercel").
+entry(terset, n, [tersetlər], "üç misralıq bir qrup şeir").
+entry(terebene, n, [terebenes], "terpenlərin qarışığı").
+entry(terebic, sif, [], "tərpentin yağından əldə edilən bir turşuya aid").
+entry(teredo, n, [teredos], "və ya TEREDİNELƏRbivalv molyusk").
+entry(terefah, sif, [], "tref").
+entry(teres, n, [teretes], "qolu fırlatma hərəkətində kömək edən iki əzələdən biri").
+entry(terete, sif, [], "silindrik və bir qədər daralan").
+entry(tergal, sif, [], "terqlə bağlı").
+entry(tergit, n, [tergitlər], "tergum").
+entry(tergum, n, [terga], "buğumayaqlıların segmentinin arxa hissəsi").
+entry(teriyaki, n, [teriyakilər], "Yapon yeməyi").
+entry(term, v, [adlandı,adlandırır,adlandırar], "ad vermək").
+entry(termer, n, [məhkumlar], "müəyyən edilmiş cəza müddətini çəkən məhkum").
+entry(terminal, n, [terminalar], "bir son və ya hədd").
+entry(məhkəmə, n, [məktəblər], "bəzi ştatlarda məhkəmə növü").
+entry(terminus, n, [terminusların], "və ya TERMINIa terminal").
+entry("termit", n, [termitlər], "qarışqaya bənzər bir həşəratTERMITIC sıf").
+entry(sonsuz, sif, [], "hədsiz").
+entry(termly, adv, [], "müntəzəm olaraq").
+entry(termor, n, [termörlər], "müəyyən illər üçün torpaq saxlayan şəxs").
+entry(məktəb vaxtı, n, [məktəb vaxtları], "məktəb və ya məhkəmənin iclasda olduğu vaxt").
+entry(alca, n, [alcalar], "dəniz quşu").
+entry(ternar, i, [ternarlar], "üçlük qrupu").
+entry(ternate, sif, [], "üçlü qruplar şəklində düzülmüş").
+entry(terne, n, [ternes], "qurğuşun və qalay ərintisi").
+entry(ternion, n, [ternionlar], "üçlük qrupu").
+entry(terpen, n, [terpenlər], "kimyəvi birləşməTERPENIC sif").
+entry(terpinol, n, [terpinollar], "xoş qoxulu maye").
+entry(terra, n, [terrae], "yer torpaq").
+giriş(teras, f, [teraslı,teraslama,teraslar], "yüksək bir bənd ilə təchiz etmək").
+entry(torpaq, n, [torpaqlar], "bir ərazi").
+entry(terran, n, [terranlar], "qaya forması").
+entry(sürünən, n, [sürünənlər], "Şimali Amerika tısbağası").
+entry(terrariumlar, cəm, [], "bitkilər və ya kiçik heyvanlar üçün şüşə qəfəs").
+girdi(terras, n, [terrases], "trass").
+entry(terrasse, n, [terrasse], "Fransız kafelərinin xaricində yerləşən döşənmiş sahə").
+entry(terrazzo, n, [terrazolar], "mozaik döşəmə").
+entry(terreen, n, [terreens], "terrina").
+entry(terrella, n, [terrellalar], "sferik maqnit").
+entry(terren, n, [terrenlər], "torpaq sahəsi").
+entry(terret, n, [terretlər], "bir qoşquda metal üzük").
+entry(terrible, sif, [], "çox pisÇAĞSIZ adv").
+entry(teryer, n, [teryerlər], "kiçik aktiv it").
+entry(terries, pl, [], "terinin").
+entry(möhtəşəm, sif, [], "çox yaxşı əla").
+entry(dəhşətə_gətirmək, v, [dəhşətə_gətirilmiş,dəhşətə_gətirən,dəhşətə_gətirir], "dəhşətə doldurmaq").
+entry(terrine, n, [terrines], "torpaq qabı").
+entry(ərazi, isim, [ərazilər], "ərazi").
+entry(terroir, n, [terroirs], "şərab üzümünə özünəməxsus xarakterini verən faktorların birləşməsi").
+entry(terror, n, [terrorlar], "şiddətli qorxu").
+entry(terry, n, [terrilər], "sorucu parça").
+entry(yığcam, sif, [], "YIĞCAM YIĞCAMLIKqısaYIĞCAMÇA zərf").
+entry(tertial, n, [tertials], "quş qanadının uçuş lələyi").
+entry(tertian, n, [tertianlar], "təkrarlanan qızdırma").
+entry(üçüncül, i, [üçüncüllər], "üçüncül").
+entry(terzetto, n, [terzettolar], "və ya TERZETTIlə vokal və ya instrumental trio").
+entry(tesla, n, [tesla], "maqnit induksiyasının vahidi").
+entry(tessera, n, [tesserae], "mozaika işlərində istifadə olunan kiçik kvadratTESSERAL sif").
+entry(test, v, [sınandı, sınanır, sınanır], "imtahanla qiymətləndirməkTEST EDILƏ BILƏN sif").
+entry(testa, n, [testae], "toxumun sərt xarici örtüyü").
+entry(testacy, n, [vasiyyətnamələr], "ölüm zamanı vasiyyətnamə buraxmış vəziyyətdə olmaq").
+entry(testate, n, [testates], "vəsiyyətçi").
+entry(vəsiyyətçi, n, [vəsiyyətçilər], "vəsiyyətnamə tərtib edən şəxs").
+entry(test, n, [testlər], "sınaqdan keçən şəxs").
+giriş(sınayıcı, n, [sınayıcılar], "sınayan biri").
+entry(testes, pl, [], "toxumaların").
+entry(xaya, n, [xayalar], "testis").
+entry(testier, müqayisə, [], "testildən").
+entry(testiest, superlative, [], "testinin").
+entry(şahidlik, f, [şahidlik etdi, şahidlik edir, şahidlik edir], "and içində doğru bəyanat vermək").
+entry(testily, adv, [], "əsəbi formada").
+entry(test, n, [testlər], "bir şeyi yoxlama hərəkəti").
+entry(testis, n, [xayalar], "kişi reproduktiv vəziləri").
+entry(teston, n, [testonlar], "Fransanın keçmiş pul vahidi").
+entry(testoon, n, [testonlar], "teston").
+entry(testudo, n, [testudos], "və ya TESTUDINES qədim romalılar tərəfindən qalxan olaraq istifadə edilən daşınar bir ekran").
+entry(testy, adj, [], "ƏSƏB SƏBƏBSİZirritable").
+giriş(tet, n, [tets], "teth").
+entry(tetanusla, sif, [], "tetanusa aid").
+entry(tetanic, n, [tetanics], "qıcolma yarada bilən dərman").
+entry(tetaniyalar, pl, [], "tetaniya").
+entry(tetanise, v, [tetanised,tetanising,tetanises], "tetanizasiya etmək").
+entry(tetanize, v, [tetanized,tetanizing,tetanizes], "qıcolma ilə təsir etmək").
+entry(tetanoz, n, [tetanozlar], "infeksion xəstəlikTETANOİD sifət").
+entry(tetan, n, [tetaniyalar], "ağrılı əzələ spazmları ilə xarakterizə olunan bir vəziyyət").
+entry(tetched, adj, [], "dəli").
+entry(tetchy, sif, [], "TƏLƏSFƏT TƏLƏSFƏTESThirslənənTƏLƏSFƏTƏN zərf").
+entry(tet, n, [tetlər], "ibrani hərfi").
+entry(tether, v, [bağlı,bağlama,bağlayır], "bir ip ilə sabit bir obyektə bərkitmək").
+entry(tetotum, n, [tetotumlar], "tetotum").
+tetra(girişi, n, [tetralar], "tropik balıq").
+entry(tetrasid, n, [tetrasidlər], "bir növ turşu").
+entry(tetrad, n, [tetradlar], "dörd nəfərlik qrupTETRADİK sif").
+entry(tetragon, n, [tetragonlar], "dörd tərəfli çoxbucaqlı").
+entry(tetramer, n, [tetramerlər], "bir növ polimer").
+entry(tetrapod, n, [tetrapodlar], "dörd ayaqlı heyvan").
+entry(tetrarx, n, [tetrarxlar], "dörd birgə hökmdardan biri").
+entry(tetri, n, [tetris], "Gürcüstan Respublikasının pul vahidi").
+giriş(tetrode, n, [tetrodes], "bir növ elektron lampası").
+entry(tetroza, n, [tetrozalar], "molekullarında dörd karbon atomu olan şəkər").
+entry(tetroksid, n, [tetroksidlər], "bir növ oksid").
+entry(tetril, n, [tetrillər], "kimyəvi birləşmə").
+entry(qotur, n, [qoturlar], "dəri xəstəliyi").
+entry(teuch, sif, [], "teugh").
+entry(teugh, sif, [], "toughTEUGHLY zərf").
+entry(tevatron, n, [tevatronlar], "hissəcik sürətləndiricisi").
+entry(tew, v, [tewlədi̇,tewləyir,tewlər], "çalışmaq").
+entry(texas, n, [texases], "paroxodda ən üst quruluş").
+entry(metin, v, [metinlədi,metinlədir,metinlər], "bir mobil telefondan digərinə mesaj göndərmək").
+entry(dərslik, n, [dərsliklər], "bir fənnin öyrənilməsində istifadə olunan kitab").
+entry(mətnçəkən, n, [mətnçəkənlər], "mətn yazan").
+entry(textil, isim, [toxuculuq], "toxunmuş parça").
+entry(mətinsiz, sifət, [], "mətni olmayan").
+entry(mətnlə, sif, [], "mətnə aid").
+entry(textuary, n, [textuaries], "Müqəddəs Kitabın öyrənilməsi üzrə mütəxəssis").
+entry(textural, sif, [], "bir şeyin səth xüsusiyyətlərinə aid olan").
+Giriş (tekstura, f, [teksturalı, teksturalama, teksturlar], "toxumaqla yaratmaq").
+entry(thack, v, [thacked,thacking,thacks], "tərk etmək").
+entry(thae, sif, [], "bunlar onlar").
+entry(thairm, n, [thairms], "qarın").
+entry(talamus, isim, [talamuslar], "beynin bir hissəsiTALAMİK sif").
+entry(thaler, n, [thalers], "taler").
+entry(thali, n, [thalilər], "Hindistanda yeməyin təqdim olunduğu bir qab").
+entry(tallium, n, [talliumlar], "metal elementiTALLİK TALLUS adj").
+entry(thallus, n, [thalluses], "və ya THALLIa əsl kök, gövdə və yarpaq olmayan bitki bədəniTHALLOID sifət").
+entry(talvek, n, [talveklər], "çay yatağının uzunluğu boyunca ən aşağı nöqtələri təyin edən xətt").
+entry(than, bağlaç, [], "müqayisənin ikinci elementini təqdim etmək üçün istifadə olunur").
+entry(thanage, n, [thanages], "tanəyə məxsus torpaq").
+entry(thanatos, n, [thanatoses], "ölüm üçün instinktiv bir arzu").
+entry(roğan, n, [roğanlar], "Anglo-Sakson İngiltərəsində hərbi xidmət qarşılığında torpaq sahibi olan kişi").
+entry(thanedom, n, [thanedoms], "tanrının ərazisi").
+entry(təşəkkür, f, [təşəkkür etdi, təşəkkür edən, təşəkkürlər], "minnətdarlığı ifadə etmək").
+entry(thanker, n, [təşəkkür edənlər], "təşəkkür edən").
+entry(minnətdar, sif, [], "Minnətdarlıq hissi keçirən").
+entry(qarin, n, [qarinlar], "qarın").
+entry(that, pron, [those], "göstərilən biri").
+entry(thataway, adv, [], "o istiqamətdə").
+entry(talı, v, [talandı,talışdırma,talılar], "bitki sapları və ya yarpaqlar ilə qaplamaq").
+entry(thatcher, n, [thatchers], "dam örtüyü düzəldən biri").
+entry(thatchy, sif, [], "SAMANƏ BƏNZƏYƏN").
+entry(əriyib, f, [əriyib, ərimə, əriyir], "ərimək").
+entry(buzçözdürücü, n, [buzçözdürücülər], "buzu əritən").
+entry(əriyən, n, [əriyənlər], "donmuş maddənin əriməsi").
+entry(thawless, sif, [], "heç vaxt əriməyən").
+entry(the, müəyyən, [], "müəyyənlik bildirən ədat").
+entry(thearchy, n, [thearchies], "tanrı tərəfindən idarəetmə").
+teatr(theater, n, [teatrlar], "dram təqdimatları üçün binaTEATRAL sif").
+entry(teatr, n, [teatrlar], "teatr").
+entry(thebaine, n, [tebainlər], "zəhərli alkaloid").
+entry(thebe, n, [tebe], "Botsvananın pul vahidi").
+entry(theca, n, [thecae], "qoruyucu anatomik örtükTHECAL THECATE sif").
+entry(thee, əvəzlik, [], "sən əvəzliyinin obyektiv halı").
+entry(theelin, n, [theelinlər], "estron").
+entry(theelol, n, [theelollar], "estriol").
+entry(ogurluq, n, [ogurluqlar], "oğurluq etmə hərəkəti").
+entry(thegn, n, [thegns], "thanELY adj").
+entry(thein, n, [theins], "thein").
+entry(teyn, n, [teynlər], "kofein").
+entry(ha onların, sif, [], "onlara aid olan").
+entry(onların, pron, [], "onların əvəzlik şəklinin yiyəlik forması").
+entry(teizm, n, [teizmlər], "tanrının mövcudluğuna inam").
+entry(teist, n, [teistlər], "bir tanrının mövcudluğuna inanan şəxsTEİSTİK sif").
+entry(thelitis, n, [thelitises], "məmənin iltihabı").
+entry(onları, pron, [], "onların obyektiv halı").
+entry(thematic, n, [thematics], "mövzusuna görə toplanan marka").
+entry(mövzu, v, [mövzulu,mövzulama,mövzular], "bir şeyi mərkəzi mövzuya uyğun planlaşdırmaq üçün").
+giriş(özləri, əvəz, [], "müəyyən edilməmiş cinsdən olan şəxs").
+entry(onda, n, [ondalar], "o vaxt").
+entry(thenage, n, [thenages], "thanage").
+entry(thenal, sif, [], "əlin ovucuna aid").
+entry(tenar, n, [tenarlar], "əlin ovuçu").
+entry(oradan, adv, [], "həmin yerdən").
+entry(teokrat, n, [teokratlar], "tanrının nümayəndəsi olaraq idarə edən şəxs").
+entry(teodisiya, n, [teodisiyalar], "şərin varlığı qarşısında Tanrının yaxşılığının müdafiəsi").
+entry(Teogoniya, n, [teogoniyalar], "ilahilərin mənşəyi haqqında bir hesab").
+entry(theoloq, n, [theoloqlar], "ilahiyyat tələbəsi").
+entry(teologiya, n, [teologiyalar], "dinin tədqiqi").
+entry(theonomiya, n, [teonomiyalar], "tanrı tərəfindən idarəetmə").
+entry (teorbo, n, [teorbolar], "simli musiqi aləti").
+entry(teorem, n, [teoremlər], "həqiqətə uyğunluğu sübut edilən və ya belə hesab edilən bir təklif").
+entry(teoriyalar, az, [], "nəzəriyyə haqqında").
+entry(nəzəriyyə irəli sürmək, f, [irəli sürdü, irəli sürməkdədir, irəli sürür], "nəzəriyyə irəli sürmək").
+entry(teorist, n, [teoristlər], "nəzəriyyə irəli sürən biri").
+entry(teorizə, v, [teorizə etdi, teorizə edir, teorizə edər], "nəzəriyyələr irəli sürmək").
+entry(nəzəriyyə, n, [nəzəriyyələr], "bir sıra hadisələr sinfini izah etmək üçün istifadə olunan fərziyyələr qrupu").
+entry(müalicə, n, [müalicələr], "xəstəlik və ya əlilliyin müalicəsi").
+entry(oradakı, n, [oraların], "o yer").
+entry(oradaca, adv, [], "həmin yerdə və ya zamanda").
+entry(beləliklə, adv, [], "bu vasitə ilə").
+entry(buna_görə, adv, [], "for that").
+entry(oradakı, zərf, [], "o yerdə").
+entry(teremin, n, [tereminlər], "bir musiqi aləti").
+entry(oradan, adv, [], "of that").
+entry(oradaca, adv, [], "on that").
+giriş(oradan, zərf, [], "ondan çıxdı").
+giriş(oraya, adv, [], "oraya").
+entry(theriak, n, [theriaklar], "qara bəkməz").
+entry(teriyak, n, [teriyaklar], "teriyak").
+entry(therian, n, [therianlar], "məməlilərin bir alt sinifinə aid olan hər hansı bir canlı").
+entry(therm, n, [term], "istilik miqdarı vahidi").
+entry(thermae, npl, [], "isti bulaqlar").
+entry(thermal, n, [termal], "isti hava kütləsinin yüksəlməsi").
+entry(terme, n, [termalar], "term").
+entry(thermel, n, [thermels], "temperatur ölçən cihaz").
+entry(termik, sif, [], "istidən qaynaqlanan").
+entry(termion, n, [termionlar], "isitilmiş bir cisim tərəfindən yayılmış ion").
+entry(termit, n, [termitlər], "alışdırıldığında şiddətli istilik verən metal qarışığı").
+entry(termus, n, [termuslar], "mayeni isti və ya soyuq saxlamaq üçün istifadə edilən qab").
+entry(theroid, sif, [], "bəstəyə oxşayan").
+entry(teropod, n, [teropodlar], "ət yeyən dinozavr").
+thesauri(girş, əšk, [], "sinonim və antonim lüğətləri").
+entry(bunlar, cəm, [], "bu ilə").
+entry(tezi, n, [tezlər], "müzakirə üçün irəli sürülmüş təklif").
+entry(thesp, n, [aktyorlar], "bir aktyor").
+entry(aktyor, n, [aktyorlar], "aktyor və ya aktrisa").
+entry(theta, n, [thetas], "yunan hərfi").
+entry(tetik, sifət, [], "arbitrar").
+entry(tetik, sif, [], "thetik").
+entry(teurgiya, n, [teurgiyalar], "ilahi müdaxilənin insani işlərə təsiriTEURGİK adj").
+entry(thew, n, [əzələlər], "yaxşı inkişaf etmiş əzələ").
+entry(thewless, sif, [], "gücsüz").
+entry(thewy, adj, [], "THEWIER THEWIESTbrawny").
+entry(onlar, əvəz, [], "nominativ halda 3-cü şəxs cəm əvəzliyi").
+entry(tiamin, n, [tiaminlər], "tiamin").
+entry(tiamin, n, [tiaminlər], "B vitamini").
+entry(tiazid, n, [tiazidlər], "yüksək qan təzyiqini müalicə etmək üçün istifadə olunan bir dərman").
+entry(tiazin, n, [tiazinlər], "tiazin").
+entry(tiazin, n, [tiazinlər], "kimyəvi birləşmə").
+entry(tiazol, n, [tiazollar], "tiazol").
+entry(tiazol, n, [tiazollar], "kimyəvi bir birləşmə").
+entry(calı, sif, [], "DAHA CALI ƏN CALI bir səthdən əksinə nisbətən böyük həcmə malikdir").
+entry(qalın, n, [qalınlar], "ən qalın hissə").
+entry(qatılaşdırmaq, v, [qatılaşdırılmış,qatılaşdırma,qatılaşdırır], "qalın etmək").
+entry(kolluq, n, [kolluqlar], "kolluq, sıx kolluqlardan və ya kiçik ağaclardan ibarət vəhşi bitki örtüyüKOLLU adj").
+entry(thickish, sif, [], "bir qədər qalın").
+entry(qalın, zerf, [], "qalın bir şəkildə").
+entry(thickset, n, [thicksets], "çalılıq").
+entry(oğru, n, [oğrular], "oğurluq edən biri.").
+entry(ogurlamaq, v, [ogurladı,ogurlayır,ogurlar], "oğurlamaq").
+entry(oğurluq, n, [oğurluqlar], "oğurluq etmək hərəkəti və ya təcrübəsi").
+entry(oğru, sif, [], "oğurluğa meyilli").
+entry(bud, n, [budlar], "ayağın bir hissəsiBUDLU sif").
+entry(thill, n, [arabalar üçün şüvar], "nəqliyyat vasitəsinin mili").
+entry(barmaqça, n, [barmaqçalar], "tikiş zamanı barmağın ucunu qorumaq üçün istifadə olunan başlıq").
+entry(incə, sif, [], "NİSBƏTƏN AZ QALINLIĞA VƏ YA QALINLIĞA SAHİB OLMAQ").
+girdi(incə, f, [incəlmiş,incəldir,incəldir], "incəltmək").
+entry(thinclad, n, [thinclads], "yol qaçış komandasının üzvü").
+entry(thindown, n, [thindowns], "yer atmosferindən keçən atom hissəciklərinin və kosmik şüaların sayının azalması").
+entry(sənin, əvəz, [], "sənin əvəzliyinin yiyəlik forması").
+entry(şey, n, [şeylər], "cansız bir əşya").
+entry(şey, n, [şeylər], "adı naməlum və ya unudulmuş bir şey").
+entry(fikirləşmək, f, [fikirləşdi,fikirləşir,fikirləşərlər], "dərrakədə formalaşdırmaq").
+entry(fikirçi, n, [fikirçilər], "düşünən biri").
+entry(düşüncə, n, [düşüncələr], "bir fikir və ya mühakimə").
+entry(incəcik, zerf, [], "incə bir şəkildə").
+entry(seyrəlmiş, keçmiş, [], "seyrəlmək zaman forması").
+entry(seyreldici, n, [seyreldicilər], "seyrelmə aparan").
+entry(incəlik, n, [incəliklər], "incə olmaq keyfiyyəti və ya vəziyyəti").
+entry(thinnest, superlative, [], "nazik").
+entry(seyrelmə, indiki, [], "incəltmək üçün iştirakçı").
+entry(thinnish, sif, [], "bəzi qədər nazik").
+entry(thio, sif, [], "kükürd ehtiva edən").
+entry(tion, n, [tionlar], "kükürd birləşməsi TİOLİK sifət").
+entry(tiyonat, n, [tiyonatlar], "kimyəvi duz").
+giriş(tiyonik, sifət, [], "kükürd ilə əlaqəli").
+entry(thionin, n, [thionins], "bənövşəyi bir boya").
+entry(tionin, n, [tioninlər], "tionin").
+entry(tiyonil, n, [tiyonillər], "sulfinil").
+entry(tiofen, n, [tiofenlər], "kimyəvi birləşmə").
+entry(thiotepa, n, [thiotepa], "kimyəvi bir birləşmə").
+entry(tiourea, n, [tiourealar], "kimyəvi birləşmə").
+entry(thir, əvəzlik, [], "bunlar").
+entry(thiram, n, [thiramlar], "kimyəvi bir birləşmə").
+entry(third, n, [üçdə birlər], "üç bərabər hissədən biri").
+entry(üçüncüsü, adv, [], "üçüncü yerdədir").
+entry(thirl, f, [thirled,thirling,thirls], "heyrətləndirmək").
+entry(thirlage, n, [thirlages], "feodal kirayəçilərin taxılı müəyyən bir dəyirmanda üyütməyi tələb edən bir öhdəlik").
+entry(susuzluq, v, [susuzladı,susuzlamaq,susuzlayır], "içmək üçün bir istək və ya ehtiyac hiss etmək").
+entry(thirster, n, [thirsters], "susayan biri").
+entry(susamış, sifət, [], "SUSAMIŞ SUSAMIŞ İÇMƏK İSTƏYİNƏ VƏ YA EHTİYACINA SAHİB OLMAQ").
+entry(on üç, n, [on üçlər], "bir rəqəm").
+entry(otuz, n, [otuzlar], "bir rəqəm").
+entry(bu, əvəzlik, [bunlar], "az öncə qeyd olunan şəxs və ya şey").
+entry(thisaway, adv, [], "bu tərəfə").
+entry(qanqal, n, [qanqallar], "tikana bənzər bitki").
+entry(thistly, sif, [], "THISTLIER THISTLIESTprickly").
+girdi(ora, zəf, [], "o istiqamətdə").
+entry(tho, bağl, [], "baxmayaraq ki").
+entry(thole, v, [tholed,tholing,tholes], "dözmək").
+entry(tholepin, n, [tholepins], "açar çubuğu kimi xidmət edən bir mıx").
+entry(tholos, n, [tholoi], "dairəvi yeraltı məzar").
+entry(qamçı, v, [qamçıladı,qamçılama,qamçılar], "qamçı ilə döymək").
+entry(thongy, sif, [], "THONGIER THONGIESTQarışıq parça zolağından hazırlanan geyim parçasına bənzəmək").
+entry(sinə, n, [sinələr], "boynun və qarının arasındakı bədən hissəsi").
+entry(toria, n, [torias], "torium oksidi").
+entry(thoric, sif, [], "toryuma aid").
+entry(torit, n, [toritlər], "torium filizi").
+entry(torium, n, [toriumlar], "metallik element").
+entry(tikan, f, [tikandı, tikanlaşma, tikanlar], "bitkinin üzərindəki iti və sərt çıxıntı ilə batırmaq").
+entry(tikanli, sif, [], "DAHA TIKANLI ƏN TİKANLIfull of thornsTIKANLICƏ adv").
+entry(thoro, sif, [], "təfərrüatlı").
+entry(thoron, n, [tоronlar], "radiumun radioaktiv izotopu").
+entry(təfərrüatlı, sif, [], "TƏFƏRRÜATLİ ƏN TƏFƏRRÜATLİtam bütün cəhətləri ilə").
+entry(thorp, n, [thorplar], "kiçik kənd").
+entry(thorpe, n, [thorpes], "torp").
+entry(those, pl, [], "o şeydən").
+entry(sən, v, [sənlədi,sənləmə,sənlər], "2-ci şəxsin ingilis dilində 'thou' şəxs əvəzliyi kimi müraciət etmək").
+entry(though, baglac, [], "baxmayaraq ki").
+entry(fikir, n, [fikirlər], "düşüncənin məhsulu").
+entry(min, n, [minlərlə], "bir rəqəm").
+entry(thowless, sifət, [], "halsız").
+entry(thraldom, n, [thraldoms], "qulluq").
+entry(kölə, v, [kölələdi,kölələyir,kölələyirlər], "kölələşdirmək").
+entry(thrash, v, [thrashed,thrashing,thrashes], "döymək").
+entry(thrasher, n, [thrashers], "döyən biri").
+entry(thrashy, sifət, [], "SÜRƏTLİ SƏSKÜYLÜ PUNKROK MUSİQİ ÜSLUBUNUN XÜSUSİYYƏTİ OLAN THRASHIER THRASHIEST").
+entry(thrave, n, [thraves], "taxıl üçün ölçü vahidi").
+entry(thraw, v, [thrawed,thrawing,thraws], "burmaq").
+entry(thrawart, sif, [], "inadkar").
+entry(thrawn, sif, [], "bükülmüşTHRAWNLY adv").
+entry(iplik, v, [iplikli, ipliklə, ipliklər], "çox nazik bir ipin içindən keçirmək").
+entry(threader, n, [sapandlar], "ip keçirən biri").
+entry(thready, sif, [], "SAP-SAPA SAP-SAPA BİR İPƏ BƏNZƏYİR").
+entry(threap, v, [threaped,threaping,threaps], "mübahisə etmək").
+entry(threaper, n, [threapers], "qarşı çıxan və ya iddia edən şəxs").
+giriş(təhlükə, f, [təhlükədə, təhlükələnmək, təhlükələr], "təhlükə yaratmaq").
+entry(təhdid etmək, f, [təhdid etdi,təhdid edir,təhdid edir], "təhlükə mənbəyi olmaq üçün").
+entry(üç, is, [üçlər], "bir rəqəm").
+entry(threep, v, [threeped,threeping,threeps], "təhdid etmək").
+entry(threnode, n, [threnodes], "bir ağı").
+entry(merzilə, n, [merzenmalar], "yas mahnısı").
+entry(thresh, v, [xırmanda döyülmüş, xırman döymə, döyər], "taxılları və ya toxumları bitkidən mexaniki olaraq ayırmaq").
+entry(döyən, n, [döyənlər], "döyən şəxs").
+entry(threw, keçmiş, [], "throw" felinin zamanı").
+giriş(üç dəfə, zərf, [], "üç dəfə").
+entry(tədbirli, n, [tədbirlər], "birinin resurslarının idarə edilməsində diqqət və ağıllılıq").
+Giriş(yoxsul, sifət, [], "EHTİYATLI EHTİYATSIZ ehtiyat göstermək").
+entry(həyəcanlandırmaq, f, [həyəcanlandırdı, həyəcanlandırıcı, həyəcanlandırır], "çox həyəcanlandırmaq").
+entry(gerilim, n, [gerilimlər], "həyəcanlandıran biri").
+entry(thrip, n, [thrips], "Britaniya sikkəsi").
+entry(thrive, v, [thrived,thriven,thriving], "THRIVEşiddətlə inkişaf etmək").
+entry(thriver, n, [thrivers], "çalıb-çapan biri").
+entry(thro, prep, [], "vasitəsilə").
+entry(boğaz, v, [boğazlı,boğazlama,boğazlar], "xırıltılı səslə ifadə etmək").
+entry(boğazlı, sifət, [], "BOĞAZLI, BOĞAZLI").
+entry(zərbəver, v, [zərbəverdi,zərbəveren,zərbəverir], "nəbz vurmaq").
+giriş(titrədici, n, [titrədicilər], "titrəyən bir").
+entry(sancı, n, [sancı], "şiddətli ağrı spazmı").
+entry(trombin, n, [trombinlər], "enzim").
+entry(trombus, n, [trombi], "qan damarını tıxayan laxtalanma").
+entry(taxt, v, [taxt etdi, taxt edir, taxt edir], "krallıq tacını taxtda yerləşdirmək üçün").
+entry(throng, v, [thronged,thronging,throngs], "dolu olmaq").
+entry(alauda, n, [alaudalar], "bir mahnı quşu").
+entry(qazpedalı, v, [qazpedalıdır,qazpedalı, qazedərkən], "boğmaq").
+entry(through, prep, [], "vasitəsilə").
+entry(throve, a, [], "thrive felinin keçmiş şəkli").
+entry(atmaq, f, [atdı, atılmış, atma], "ATMAQhavada təkan vermək üçün qolla hərəkət etdirmək").
+entry(atıcı, n, [atıcılar], "atan şəxs").
+entry(thru, qoş, [], "vasitəsilə").
+entry(mızıldamaq, f, [mızıldadı,mızıldayır,mızıldayacaq], "simli musiqi alətini boş və ya monoton şəkildə ifa etmək").
+entry(thrummer, n, [thrummers], "təkrarlayan şəxs").
+entry(thrummy, sif, [], "THRUMMIER THRUMMIESTtüklü").
+entry(kapasite, n, [kapasiteler], "müəyyən bir zamanda emal edilən xammal miqdarı").
+entry(bülbül, n, [bülbüllər], "bir mahnı quşu").
+entry(itələmə, v, [itələdim,itələyir,itələyir], "zorla itələmək").
+entry(thruster, n, [thrusters], "itirici").
+entry(thrustor, n, [thrustors], "itici").
+entry(şosse, n, [şosselər], "sürət magistralı").
+entry(gumultu, v, [gumuldedi,gumuldəyir,gumultular], "boğuq ağır bir səs etmək").
+entry(quldur, n, [quldurlar], "çaxnaşma və ya qətl törədən zalım").
+entry(thuggee, n, [thuggees], "Hindistanda tuggiçilik").
+entry(despotluq, n, [despotluqlar], "despotik davranış").
+entry(kabadayı, sif, [], "bir kabadayının xüsusiyyəti").
+entry(thuja, n, [thujalar], "həmişəyaşıl ağac və ya kol").
+entry(tulyumoksid, n, [tulyumoksidləri], "tulyum oksidi").
+entry(tulium, n, [tuliumlar], "metalik element").
+entry(baş barmaq, v, [baş barmaqla çevrildi, baş barmaqla çevirir, baş barmaq ilə çevirir], "insan əlindəki qısa və qalın barmağı ilə səhifələmək").
+entry(başbarmaq, n, [başbarmaqlar], "baş və barmaqlarla fırladılan vida").
+entry(thumbnut, n, [thumbnuts], "baş barmaq və barmaqlar ilə fırladılan bir qoz").
+entry(vurma, v, [vurdu,vurma,vurur], "küt ağır bir səs yaratmaq üçün vurmaq").
+entry(thumper, n, [thumpers], "döyən bir kəs").
+entry(ildırım, v, [ildırımıldadı,ildırımildalama,ildırımlar], "ucadan və yankılanan səs çıxarmaq").
+entry(ildırımlı, sif, [], "şimşək ilə müşayiət olunan").
+entry(thunk, v, [thunked, thunking, thunks], "birdən boğuq bir səs çıxarmaq").
+entry(buxurdan, n, [buxurdans], "buxur yanan qab").
+entry(thurifer, n, [thuriferlər], "bir dini mərasimdə buxurdanı daşıyan").
+entry(thurl, n, [thurls], "inəyin bud birləşməsi").
+entry(beləcə, zərf, [], "bu şəkildə").
+entry(beləcə, qa, [], "bu şəkildə").
+giriş(thuya, n, [thuyas], "thuja").
+entry(sillamaq, v, [silladi,sillayir,sillayir], "hansısa düz bir şeylə vurmaq").
+entry(thwacker, n, [thwackers], "vuran").
+entry(mane olmaq, v, [mane oldu,mane olmaq,mane olur], "nəyinsə həyata keçirilməsinə əngəl olmaq").
+entry(maneəçi, n, [maneəçilər], "mane olan biri").
+entry(thwartly, adv, [], "yana").
+entry(thy, sifət, [], "sənə aid olan").
+entry(kəklikotu, n, [kəklikotları], "aromatik bir ot").
+entry(thymey, sif, [], "THYMIER THYMIESTthymy").
+entry(thymi, a, [], "timusların cəmi").
+entry(thymic, sif, [], "kəklikotuna aid olan").
+entry(thymier, müqayisəli, [], "of thymey və thymy").
+entry(thymiest, superlative, [], "thymey və thymy").
+entry(timin, n, [timinlər], "kimyəvi bir birləşmə").
+entry(тимol, n, [тимollar], "kimyəvi birləşmə").
+entry(timoma, n, [timomalar], "və ya TİMOMATAb bir şiş timus toxumasından yaranır").
+entry(timostim, n, [timostimlər], "timus tərəfindən ifraz olunan hormon").
+entry(timus, n, [timuslar], "və ya THYMİ bədəndə vəzi strukturu").
+entry(thymy, sif, [], "KEKOTLU KEKOTUNCAbol miqdarda kəklikotu").
+entry(tireoidi, sifət, [], "tireoidə aid olan").
+entry(tiroid, n, [tiroidlər], "endokrin vəz").
+entry(tiroksin, n, [tiroksinlər], "amin turşusu").
+entry(thyrse, n, [thyrses], "tirso").
+entry(thyrsus, n, [thyrsi], "çiçək salxımı növüTHYRSOID sif").
+entry(thyself, pron, [], "özünü").
+entry(ti, n, [ti], "diatonik musiqi pilləsinin yeddinci tonu").
+entry(tian, n, [tians], "böyük oval bişirmə qabı").
+entry(tiara, n, [tiaralar], "qadınlar tərəfindən taxılan zərgərlikli baş geyimi, TİARAED sif").
+entry(tibya, n, [tibyalar], "və ya TİBYA Ayağın sümüyü TİBYAL sif").
+entry(tibialis, n, [tibiales], "ayağın baldır nahiyəsində yerləşən əzələ").
+entry(tic, v, [ticlədi, tikləyir, tics], "istənməyən əzələ süzgünlüyünə malik olmaq").
+entry(tikal, n, [tikal], "keçmiş bir Tayland ağırlıq vahidi").
+entry(tick, v, [cıqqıldadı, cıqqıldayır, cıqqıldayır], "təkrarlanan cıqqıldayan bir səs çıxarmaq").
+entry(tıqac, n, [tıxaclar], "tıq edən").
+entry(bilet, v, [biletlenmiş,biletleme,biletlər], "etiket əlavə etmək").
+entry(ticking, n, [ciqqildama], "güclü pambıq parça").
+giriş(tiklas, n, [tiklaslar], "bir növ kiçik su quşu").
+entry(qıdıqlamaq, f, [qıdıqladı, qıdıqlamaq, qıdıqlar], "dartınım verici hiss yaratmaq üçün yüngülcə toxunmaq").
+entry(qıdıqcı, n, [qıdıqcılar], "qıdıqlayan biri").
+entry(gıdıqlanan, sif, [], "gıdıqdan təsirlənən").
+entry(tickly, sif, [], "DAHA TIKANLI ƏN TIKANLItikanlı").
+entry(tikqseyd, n, [tikqseydlər], "çiçəkli bir bitki").
+entry(ticktack, v, [tik-tak etdi, tik-tak etməkdə, tik-tak edir], "tik-tak etmək").
+entry(ticktock, v, [ticktocked, ticktocking, ticktocks], "saatın tıqqıltı səslərini çıxarmaq").
+entry(tictac, v, [tictacked,tictacking,tictacs], "tik-tak etmək").
+entry(tictoc, v, [tictocked,tictocking,tictocs], "tiktak etmək").
+entry(tidal, sif, [], "gelgitlərlə əlaqəli TIDALLY b.m.").
+entry(tidbit, n, [tidbits], "kiçik və ləzzətli bir qida hissəsi").
+entry(tiddler, n, [tiddlers], "kiçik bir balıq").
+entry(tiddly, sif, [], "BİRAZ SƏRPİNƏ YAXIN TİDDLİER TIDDLİEST").
+entry(tide, v, [tided,tiding,tides], "dəniz axını kimi axmaq, okean sularının yüksəlməsi və enməsi").
+entry(tideland, n, [tidelands], "gelgit zamanı növbə ilə örtülən və açılan torpaq").
+entry(tideless, sif, [], "gelgitdən məhrum").
+entry(tidelike, sif, [], "gelgitə bənzəmək").
+entry(tideline, n, [tidelines], "gelgitin ən yüksək nöqtəsini göstərən sahildəki xətt").
+entry(tidemark, n, [tidemarks], "gelirin və ya çəkilmənin ən yüksək və ya ən aşağı nöqtəsini göstərən nişan").
+entry(tiderip, n, [tiderips], "güclü axın").
+giriş(tideway, n, [tideways], "çay axını").
+entry(tənizlənmiş, keçmiş, [], "səliqələmək feli").
+entry(təmizləyici, n, [təmizləyicilər], "təmizləyən biri").
+entry(təmizləyir, indiki, [], "3-cü şəxs tək, təmizliyir").
+entry(tidiest, superlative, [], "səliqəli").
+entry(səliqəli, zərf, [], "səliqəli şəkildə").
+entry(səliqə, n, [səliqələr], "səliqəli olma vəziyyəti").
+entry(tiding, n, [xəbərlər], "bir xəbər").
+entry(səliqəli, sif, [], "DAHA SƏLİQƏLİ ƏN SƏLİQƏLİtəmiz və qaydalı").
+entry(səliqəyə_sal, f, [səliqəyə_saldı, səliqəyə_salmaqda, səliqəyə_salır], "səliqəyə salmaq üçün").
+entry(tidytips, n, [tidytips], "illik bir bitki").
+entry(qalstuk, f, [], "BAĞLI BAĞLAMAQ və ya BAĞLAMAQ BAĞLAYır ip və ya kəndirlə bağlamaq").
+entry(tutubasmaq, n, [tutubasmalar], "pərdəni bir tərəfə saxlamaq üçün bir ilmə").
+entry(tiebreak, n, [tiebreaklər], "bərabər xal alan iştirakçılardan qalibi seçmək üçün müsabiqə").
+giriş(qalstuk_klipsi, n, [qalstuk_klipsləri], "qalstukun ucunu bərkitmək üçün klips").
+entry(bağladı, keçmiş, [], "bağlamağın zərfi").
+entry(tieing, a, [], "tie felinin davam edən forması").
+entry(kravatsız, sif, [], "kravatı olmayan").
+entry(qalstuk sancağı, n, [qalstuk sancaqları], "qalstuku bərkitmək üçün bir sancaq").
+entry(tier, v, [qatdan,qatdanma,qatlar], "qatlarla düzülmək, biri digərinin üzərində yerləşdirilmiş sətirlər").
+entry(tierce, n, [tierces], "dua və ibadət üçün gündəlik yeddi kanonik dövrdən biri").
+entry(tierced, sif, [], "üç bərabər hissəyə bölünmüş").
+entry(tiercel, n, [tiercels], "tercel").
+entry(tiff, v, [tiffed,tiffing,tiffs], "xırda mübahisə etmək").
+entry(tifan, n, [tifanlar], "nazik tor parça").
+entry(tiffin, v, [tiffined, tiffining, tiffins], "nahar etmək").
+tiger, n, [pələnglər], "böyük pişikvari məməli".
+entry(pələnggözü, n, [pələnggözlər], "qiymətli daş").
+entry(tigersayağı, sif, [], "pələngi xatırladan").
+entry(sıx, sif, [], "DAHAHA SIRFİ TIGHTESTbərk və ya sıx şəkildə yerində təyin edilmişSıxılıq, adv").
+entry(sıx, v, [sıxdı,sıxmaqda,sıxır], "sıx etmək").
+entry(cinslər, npl, [], "darıxdırıcı geyim").
+entry(xəsis, n, [xəsislər], "xəsis").
+giriş(tiglon, is, [tiglonlar], "erkək pələng ilə dişi aslanın nəslindən olan").
+entry(tignon, n, [tignonlar], "Luizianada baş geyimi kimi geyilən bir parçadır").
+entry(tigon, n, [tigonlar], "tiqon").
+entry(diwi, n, [diwilər], "erkək pələng").
+entry(tigrish, sif, [], "pələng kimi").
+entry(tike, n, [tikes], "balaca oğlan").
+entry(tiki, n, [tikis], "Polinezya tanrısının taxta və ya daş heykəli").
+entry(tikka, n, [tikkas], "Şişdə bişirilmiş hind ət yeməyi").
+entry(til, n, [tils], "susam bitkisi").
+entry(tilak, n, [tilaklar], "Hindular tərəfindən alınlarına çəkilən işarə").
+entry(tilapiya, n, [tilapiyaslar], "Afrika balığı").
+entry(tilbury, isim, [tilburilər], "iki təkəri olan fayton").
+entry(tilde, n, [tildelər], "səsi göstərmək üçün bir hərfin üzərinə qoyulan işarə").
+entry(döşəmə, v, [döşənmiş,döşənmə,döşəmələr], "bişmiş gil plitələrlə döşəmək").
+entry(platibasmaqalli balıq, n, [platibasmaqalli balıqlar], "dəniz qida balıqları").
+entry(tilelike, sif, [], "kafeliyə bənzər").
+entry(plitəçi, n, [plitəçilər], "plitə döşəyən").
+entry(plitəvurma, n, [plitəvurulmalar], "plitələrlə səth").
+entry(till, f, [şumladı, şumlamaq, şumluyor], "torpağı əkmək üçün şumla hazırlamaqTILLABLE adj").
+entry(şumlama, n, [şumlamalar], "əkin sahəsi").
+entry(tiller, v, [tillered,tillering,tillers], "bir kökdən gövdələr çıxarmaq").
+entry(tillit, n, [tillitlər], "bərkimiş gil, qum, çınqıl və daşlardan ibarət süxur").
+entry(əymək, f, [əyik,əyir,əyir], "məyilli vəziyyətə gətirmək, MEYİLLİ sif").
+entry(əyirici, n, [əyiricilər], "əyən bir şəxs").
+entry(torpaqqazma, n, [torpaqqazmalar], "şumlama").
+entry(tiltyard, n, [tiltyardlar], "cəng müsabiqələri üçün sahə").
+entry(timarau, n, [timaraus], "tamarau").
+entry(timbal, n, [timbal], "böyük bir baraban").
+entry(timbale, n, [timbales], "baraban şəkilli bir xəmirdən hazırlanmış qida").
+entry(taxta, v, [taxtalanmış, taxtalama, taxtalar], "tikinti materialı kimi istifadə olunan taxta ilə təmin etməkTAKTALI adj").
+entry(timba, n, [timbalar], "overtone'lar tərəfindən səsə verilən keyfiyyətTIMBRAL sif").
+entry(timbrel, n, [timbrels], "zərb aləti").
+entry(time, v, [vaxt, vaxtlama, vaxtlar], "surəti və ya müddəti müəyyən etmək üçün").
+entry(zaman_kartı, n, [zaman_kartları], "işçinin gəlmə və gediş vaxtlarını qeyd etmək üçün kart").
+entry(zamansiz, sif, [], "qədim və ya sonu olmayan").
+entry(zaman_ xətti, n, [zaman_xətləri], "hadisələrin cədvəli").
+entry(vaxtında, sif, [], "VAXTINDIR VAXTINDAƏN DOĞRU ANDA BAŞ VERƏN").
+entry(vaxtında, sif, [], "dəqiq").
+giriş(vaxt_bitmə, n, [vaxt_bitmələr], "fəaliyyətin qısa müddətə dayandırılması").
+entry(timer, n, [taymerlər], "vaxt ölçən").
+entry(timework, n, [vaxtıişlər], "saatla və ya günlə ödənilən iş").
+entry(köhnəlmiş, sif, [], "uzunmüddətli istifadə və ya köhnəlmə əlamətlərini göstərən").
+entry(timid, sif, [], "CƏSƏRƏTSİZ, UTANC AQ HƏYACAN AZ OLMASI; CƏSƏRƏTSİZCƏR").
+entry(qorxaqlıq, n, [qorxaqlıqlar], "qorxaq olmağın keyfiyyəti").
+entry(vaxtlama, n, [vaxtlamalar], "nəyinsə edilməsi üçün uyğun anın seçilməsi").
+entry(timolol, n, [timolollar], "qlokomaya qarşı istifadə olunan dərman").
+entry(təlaşlı, sif, [], "qorxu dolu").
+entry(timothy, n, [timothilər], "Avropa otu").
+entry(timpano, n, [timpan], "ketldram").
+entry(timpanum, n, [timpanums], "və ya TIMPANAtympanum").
+entry(tənəkə, f, [tənəkələnmiş, tənəkələmə, tənəkələr], "metal element olan tənəkə ilə örtmək").
+entry(tinamou, n, [tinamular], "Cənubi Amerika ov quşu").
+entry(tincal, n, [tincallar], "qeyri-saf boraks").
+entry(tinct, v, [tincted,tincting,tincts], "rəngləmək").
+entry("tentur", v, ["tenturədilmiş", "tenturələmə", "tenturlar"], "rəngləmək").
+entry(tinder, n, [tinders], "asanlıqla alışan materialTINDERY sifət").
+entry(tine, v, [tined, tining, tines], "itirmək").
+entry(tinea, n, [tineas], "göbələk dəri xəstəliyiTINEAL sif").
+entry(tineid, n, [tineids], "bir növ kəpənək ailəsindən olan").
+entry(folqa, n, [folqalar], "nazik metal təbəqəsi").
+entry(tinful, n, [tinfuls], "bir qalay qabın tuta bildiyi qədər").
+entry(ting, f, [tinged, tinging, tings], "hündür səsli metallik səs yaymaq").
+entry(ton, v, [], "TONLANMIŞ TONLAMA və ya RƏNG VERMƏK ÜÇÜN İSTİFADƏ EDİLƏN").
+entry(tingle, v, [qarışıqlaşdı,qarışıqlaşır,qarışıqlaşır], "qarışıq sancma hissi yaratmaq").
+entry(tingler, n, [qıcıqlandırıcılar], "qıcıqlandıran biri").
+entry(tingly, sif, [], "DAHA TİNGTİLƏR ƏN TİNGTİLƏRtingling").
+entry(tinhorn, n, [tinhorns], "göstərişli təkəbbürlü bir şəxs").
+entry(tinier, comparative, [], "çox kiçik").
+entry(ən_kiçik, üstünlük_dərəcəsi, [], "balacanın").
+entry(tinily, adv, [], "balaca bir şəkildə").
+entry(zəriflik, n, [zərifliklər], "xırda olma keyfiyyəti").
+entry(tining, indiki, [], "tine feli isim").
+entry(ustalamaq, v, [ustaladı,ustalama,ustalar], "bacarıqsız və ya təcrübi şəkildə təmir etmək").
+entry(təmirçi, n, [təmirçilər], "təmir edən şəxs").
+entry(tinkle, v, [tinkled, tinkling, tinkles], "xırda iti metal səslər çıxarmaq").
+tərkib(tinkler, n, [tinklers], "zıngıldayan").
+entry(zınlama, n, [zınlamalar], "zınlayan bir şeyin çıxardığı səs").
+entry(tinkly, sif, [], "TINKLIER TINKLIESTcil-cingil səslər yaradan").
+entry(tinə bənzəyən, sifət, [], "tinə bənzəyən").
+entry("qalayçı", n, ["qalayçılar"], "qalay ustası").
+entry(tinned, keçmiş, [], "tense of tin").
+entry(tinner, n, [tinners], "qala mədənçisi").
+entry(tinnier, müqayisəli, [], "of tinny").
+entry(tiniest, superlative, [], "tinin").
+entry(tinnily, adv, [], "qalay kimi").
+entry(tinning, indiki, [], "tin feli iştirak").
+entry(qulaq_cingiltisi, n, [qulaq_cingiltisiləri], "qulaqlarda zəng səsləri").
+giris(tinny, sif, [], "TINNIER TINNIESTtin kimi və ya tınımsı").
+entry(tənəkə, f, [tənəkələnmiş,tənəkələnmə,tənəkələyir], "bir əşyanı tənəkə ilə örtmək").
+entry(tinpot, sif, [], "əhəmiyyətsiz").
+entry(bəzək, v, [bəzəklənmiş,bəzəklənmək,bəzəklər], "parlaq və ya gözə çarpan bir görünüş vermək üçün").
+entry(tinselly, sif, [], "ucuz parıltılı").
+entry(tinsely, sif, [], "parıltılı").
+entry("qalayçı", n, ["qalayçılar"], "qalay ilə işləyən şəxs").
+entry(tinsnips, npl, [], "sac metal kəsmək üçün bir alət").
+entry(tinstone, n, [tinstones], "qalay filizi").
+entry(tint, v, [tinted,tinting,tints], "azca və ya incə şəkildə rəngləmək").
+entry(tinter, n, [rəngləyicilər], "rəngləyən biri").
+entry(boyama, n, [boyamalar], "boyayan birisinin prosesi").
+entry(tintless, sif, [], "rəngdən məhrum").
+entry(tintip, n, [tintiplər], "bir növ fotoşəkil").
+entry(tinware, n, [tinwares], "qalayı məmulatları").
+entry(tin işləri, n, [tin işləri], "qalaydan hazırlanmış bir şey").
+entry(tiny, sif, [], "ÇOX KİÇİK ƏN KİÇİK çox kiçik").
+entry(tip, v, [əyilən,əyilmək,əyir], "əymək").
+entry(tipcart, n, [tipcartlar], "arabaların bir növü").
+entry(tipcat, n, [tipcats], "beysbola bənzəyən bir oyun").
+entry(tipi, n, [tipis], "tipi").
+giriş(uçsuz, sif, [], "nöqtəsi və ya uçbucağı olmayan").
+entry(ipucu, n, [ipucular], "bir işarə və ya xəbərdarlıq").
+entry(tippable, sif, [], "devriləbilən").
+entry(tipped, keçmiş, [], "tip sözünün zamanı").
+entry(tipper, n, [tippers], "bəxşiş verən").
+entry(tippet, n, [tippetlər], "çiyinlər üçün örtük").
+entry(tippier, müqayisə dərəcəsi, [], "tippy-nin").
+entry(tippiest, superlative, [], "tippy-dən").
+giriş(tipping, indiki, [], "tipin iştirakçısı").
+entry(tipple, v, [tippled,tippling,tipples], "alkoqollu içkilər içmək").
+entry(tippler, n, [içki içənlər], "içki içən biri").
+entry(tippy, sif, [], "TƏRƏDDÜDLÜ TƏRƏDDÜDLÜ ƏN TƏRƏDDÜDLÜ").
+entry(tippytoe, v, [tippytoed,tippytoeing,tippytoes], "barmaq ucları ilə yerimək").
+entry(tipsheet, n, [məlumat vərəqləri], "yarışlara mərc etmək və ya səhm yatırımları üçün məsləhətlər olan bir nəşr").
+entry(tipsier, müqayisəli, [], "tipsynin").
+entry(tipsiest, superlative, [], "tipsinin").
+entry(tipsiyli, bəl, [], "məst halda").
+entry(tipstaff, n, [tipstafflar], "yaxud TIPSTAVES məhkəmə zalı xidmətçisi").
+entry(tipster, n, [tipsterlər], "qumarçılara məlumat satan biri").
+entry(tipstock, n, [tipstocks], "silahın bir hissəsi").
+entry(tipsy, sif, [], "AZCA SƏRHOŞ").
+entry(barmaqarası, f, [barmaqarasıdı,barmaqarasımaqda,barmaqarasıyır], "birinin ayaq barmaqlarının ucunda gəzmək").
+entry(tiptop, n, [zirevələr], "ən yüksək nöqtə").
+entry(tirad, n, [tiradlar], "uzun və qızğın nitq").
+entry(tiramisu, n, [tiramisu], "xanım barmaqları, mascarpone, şokolad və espresso ilə hazırlanan bir şirniyyat").
+entry(təkər, f, [yorğun, yorucu, yorur], "yorulmaq").
+entry(yorğun, sif, [], "DAHA_YORĞUN ƏN_YORĞUN gücsüzləşmiş YORĞUNŞƏKİLDƏ zərf").
+entry(tükənməz, sif, [], "yeni çalışmazdan yorulmurmuş kimi görünən").
+entry(bezdirici, sif, [], "yorucu").
+entry(yorucu, indiki, [], "yorğunluğun feil sifəti").
+entry(tirl, f, [tirledi,tirləyir,tirllər], "titrəyişli səs çıxarmaq").
+entry(tiro, n, [tiros], "təcrübəsiz").
+entry(tirrivee, n, [tirrivees], "huşunu itirmə").
+entry(tisane, n, [tisanes], "bilinməyən").
+entry(toxumal, sif, [], "toxuma ilə əlaqəli").
+entry(toxu, f, [toxudu,toxuya-toxuya,toxular], "incə şəffaf parça toxumaq").
+entry(toxumayabənzər, sif, [], "toxumanı xatırladan").
+entry(tissular, sif, [], "orqanizmin toxuma struktur materialına təsir edən").
+entry(tit, n, [tits], "kiçik bir quş").
+təsvir(titan, isim, [titanlar], "böyük ölçülü bir şəxs").
+entry(titanat, n, [titanatlar], "kimyəvi duz").
+entry(titaness, n, [titanesses], "dişi titan").
+entry(titania, n, [titanias], "bir mineral").
+entry(titanic, sif, [], "böyük ölçüdə").
+entry(titanizm, n, [titanizmlər], "ictimai qaydalara qarşı üsyan").
+entry(titanit, n, [titanitlər], "bir mineral").
+entry(titanium, n, [titanlar], "metal element").
+entry(titanlı, sif, [], "titana aid olan").
+entry(titbit, n, [titbits], "xırda məlumat").
+entry(titch, n, [titches], "kiçik miqdar").
+entry(titchie, sif, [], "TITCHIER TITCHIESTtitchy").
+giriş(titchy, sif, [], "ÇOX KİÇİK TITCHIER TITCHIEST").
+entry(titer, n, [titrlər], "kimyəvi məhlulun gücü").
+entry(titfer, n, [titfers], "şapka").
+entry(tithable, sifət, [], "onların ödəməsinə tabe olan").
+entry(onda, v, [ondaladı,ondalama,ondalar], "kiçik bir vergi olan onda vermək").
+entry(tither, n, [tithers], "ōdənən şəxslərdən biri").
+entry("onda biri", n, ["onda birlər"], "onda bir toplamanın həyata keçirilməsi").
+entry(tithonia, n, [tithonias], "hündür ot").
+entry(titi, n, [titis], "həmişəyaşıl kol və ya ağac").
+entry(titian, n, [titians], "qırmızımtıl qəhvəyi rəng").
+entry(titivate, f, [titivated, titivating, titivates], "ağıllı geyinmək").
+entry(titlark, n, [titlarks], "bir nəğməçi quş").
+entry(title, v, [başlıqlı, başlıqlamaq, başlıqlar], "başlıqla təmin etmək, fərqli bir ad vermək").
+entry(titlist, n, [titlists], "idman çempionu").
+entry(titman, n, [titmen], "donuz balalarının ən kiçiyi").
+entry(bülbül, n, [bülbüllər], "kiçik quş").
+entry(titrlenə bilən, sif, [], "titrə edilə bilən").
+entry(titrant, n, [titrantlar], "titrasiya üçün istifadə olunan reaktiv").
+entry(titrə, f, [titrləndi, titrləmə, titrləyir], "istənilən reaksiya baş verənədək bir reaktiv əlavə etməklə bir məhlulun gücünü təyin etmək").
+entry(titrator, n, [titratorlar], "titrasiya edən biri").
+entry(titre, n, [titres], "titer").
+entry(titter, v, [tittered,tittering,titters], "çıxılmaz bir gərgin gülüş etmək").
+entry(titterer, n, [titterers], "kıkırdayan biri").
+entry(tittie, n, [titties], "bacı").
+entry(tittle, n, [tittles], "yazıda və ya çapda çox kiçik bir işarə").
+entry(tittup, v, [tittuped,tittuping,tittups], "yaxud TITTUPPED TITTUPPING TITTUPScanlı şəkildə hərəkət etmək").
+entry(tittuppy, sifət, [], "titrək qeyri-sabit").
+entry(titty, n, [döş ucları], "döş ucu").
+entry(titubant, sif, [], "tərəddüdlü olan").
+entry(titulyar, n, [titulyarlar], "bir titul sahibi olan şəxs").
+girdi(titulary, n, [titularies], "bir titulary").
+entry(tivy, adv, [], "böyük sürətlə").
+entry(tix, cəm, [], "biletlər").
+entry(tiyin, n, [tiyinlər], "Qırğızıstanın pul vahidi").
+entry(tiyn, n, [tiynlər], "Qazaxıstanın pul vahidi").
+entry(tiz, n, [tizes], "qarışıqlıq").
+entry(tizz, n, [tizzes], "tizzilər").
+entry(tizzy, n, [tizzilər], "nervoz qarışıqlıq vəziyyəti").
+entry(tmezis, n, [tmezes], "mürəkkəb sözün hissələrinin ara sözü və ya sözləri ilə ayrılması").
+entry(to, ədat, [], "istiqamətində").
+entry(qurbağa, n, [qurbağalar], "qusqulaqsız tullanma qurbağacığı").
+entry(memelih, n, [memelilər], "dəniz balığı").
+entry(canavarotu, n, [canavarotular], "çoxillik ot").
+entry(toadied, keçmiş, [], "yağ çəkmək felinin keçmiş zaman forması").
+entry(toadies, indiki, [], "toady sözünün 3-cü şəxsin təkində olan forması").
+entry(toadish, sif, [], "qurbağaya bənzəyən").
+entry(toadless, sif, [], "qurbağasız").
+entry(qurbağacıq, n, [qurbağacıqla], "kiçik bir qurbağa").
+entry(toadlike, sif, [], "qumara bənzər").
+entry(toady, v, [toadied,toadying,toadies], "yaltanmaqla məşğul olmaq").
+entry(toadyish, sif, [], "yaltaklanan birinin xüsusiyyəti").
+entry(yaltaqlıq, n, [yaltaqlıqlar], "yaltaq davranış").
+entry(qızartmaq, v, [qızardılmış,qızartmaqda,qızardır], "istiyə məruz qoyaraq qızartmaq").
+entry(toster, n, [tosterlər], "qızartma üçün cihaz").
+entry(toasting, n, [toastings], "rege musiqisinə ritmik nitqin əlavə edilməsi").
+giriş(toasty, sif, [], "TOASTIER TOASTIESTrahatlıqla isti").
+entry(tütün, n, [tütünlər], "illik yarpaqları üçün yetişdirilən ot və ya TÜTÜNLƏR").
+entry(toboggan, v, [tobogganed,tobogganing,toboggans], "uzun dar xizəkdə sürüşmək").
+entry(toby, n, [tobies], "bir növ içki fincanı").
+entry(toccata, n, [toccata], "adətən orqan üçün olan musiqi əsəri").
+entry["cehiz vermək", v, [cehiz verdi, cehiz vermək, cehizlər], "cehiz vermək"].
+entry(tock, n, [tocks], "qısa boş bir səs").
+entry(toco, n, [toko], "Cənubi Amerika tukanı").
+entry(mamaylıq, n, [mamaylıqlar], "doğuşla məşğul olan tibb sahəsi").
+entry(həyəcan siqnalı, n, [həyəcan siqnalları], "zəngdə səslənən bir siqnal").
+entry(tod, n, [tods], "Britaniya çəki vahidi").
+entry(bu_gün, n, [bugünkü], "indiki gün").
+entry(təhlükə, v, [təhlükə etdi,təhlükə edir,təhlükələr], "sərt addımlarla yerimək").
+entry(körpə, n, [körpələr], "yavaş-yavaş gəzən biri").
+entry(toddi, n, [toddilər], "alkoqollu içki").
+entry(tody, n, [todies], "Qərbi Hindistanda yaşayan bir quş").
+ayaq_barmagı, v, [ayaq_barmaqlı, ayaq_barmaqlamaq, ayaq_barmaqları], "ayağın terminal üzvlərindən biri ilə toxunmaq".
+entry(toea, n, [toeas], "Papua Yeni Qvineyanın pul vahidi").
+giriş(burunluq, n, [burunluqlar], "ayaqqabı və ya çəkmənin ucunu örtən hissə").
+giriş(barmaq bağlaması, n, [barmaq bağlamaları], "velosipedçinin ayaqqabısının ön hissəsini pedal ilə birləşdirən cihaz").
+entry(toehold, n, [toeholds], "dırmaşmada barmaqların dəstəkləndiyi yer").
+entry(toeing, indiki, [], "toe")
+entry(toeless, sif, [], "barmaqları olmayan").
+entry(ayaqbənzər, sifət, [], "barmağa bənzəyən").
+entry(dırnaq, v, [dırnaqlandı, dırnaqlanır, dırnaqlar], "dırnaqları əyilmiş şəkildə bərkidərək tutmaq").
+entry(toepiece, n, [toepieces], "barmaqları örtmək üçün nəzərdə tutulmuş ayaqqabı hissəsi").
+entry(burunqoruyucu, n, [burunqoruyucular], "ayaqqabının ucuna bərkidilmiş metal plitə").
+entry(toerag, n, [toerags], "nifrət edilən şəxs").
+entry(toeshoe, n, [toeshoes], "dabanı olmayan rəqs çəkməsi").
+giriş(toff, n, [toffs], "bir dəbli").
+şirniyyat(gofret, n, [gofretlər], "çuğundur tipli konfet").
+entry(toffy, n, [konfetlər], "konfet").
+entry(toft, n, [təpəcik], "təpəcik").
+entry(tofu, n, [tofular], "soya südündən hazırlanan yumşaq qida məhsulu").
+entry(tog, v, [toglandı,toglanır,toglar], "geyinmək").
+entry(toga, n, [togalar], "Roma qədim dövründə geyilən xarici geyimTOGAED sif").
+entry(togate, sif, [], "qədim Romaya aid").
+entry(togated, sif, [], "toga geyinmiş").
+entry(birgə, zidlik, [], "birliyə və ya əlaqəyə daxil").
+entry(togged, keçmiş, [], "tog'un zamanı").
+entry(toggery, n, [toggerylər], "geyim").
+entry(togging, indiki, [], "togun feli sifəti").
+entry(toggle, v, [toggled,toggling,toggles], "iynə və ya qısa çubuq növü ilə bərkitmək").
+tərkib(toggler, n, [togglers], "dəyişdirən").
+entry(togue, n, [togues], "təzə su balığı").
+entry(zəhmət, v, [çalışdı, çalışmaqdadır, zəhmətlər], "çox çalışmaq").
+toile(toile, n, [toilelər], "nəfis kətan parça").
+entry(zəhmətkeş, n, [zəhmətkeşlər], "çox çalışan biri").
+entry(tualet, v, [tualet etdi,tualet etmək,tualetlər], "özünü geyinmək və hazırlamaq").
+entry(tualet, n, [tualet ləvazimatları], "özünü bəzəmək və qaydaya salmaq üçün istifadə olunan bir əşya").
+entry(tualet, n, [tualetlər], "özünü geyinmək və bəzəmək aktı").
+entry(zahmetli, adj, [], "çətin").
+entry(zahmetli, adj, [], "çox səy tələb edən").
+entry(toilworn, sif, [], "əməyin yorğunluğu ilə köhnəlmiş").
+entry(toit, v, [toited,toiting,toits], "gəzələmək").
+entry(tokamak, n, [tokamaklar], "halqavari nüvə reaktoru").
+entry(tokay, n, [tokaylar], "Malayziya gekkosu").
+entry(toke, v, [toked,toking,tokes], "marixuana siqaretindən tüstü qəbul etmək").
+entry(token, v, [timsal etdi,timsal edən,timsallar], "bir işarə kimi xidmət etmək üçün").
+entry(tokenizm, n, [tokenizmlər], "yalnız səthi bir cəhd göstərmək siyasəti").
+entry(toker, n, [toklər], "çəkən şəxs").
+entry(toking, indiki, [], "toke felinin particip forması").
+entry(tokologiya, n, [tokologiyalar], "tokologiya").
+entry(tokomak, n, [tokomaklar], "tokamak").
+entry(tokonoma, n, [tokonomalar], "Yapon evində kiçik bir niş").
+giriş(tola, n, [tolalar], "Hindistanda istifadə olunan bir çəki vahidi").
+entry(tolan, n, [tolans], "kimyəvi bir birləşmə").
+giris(tolane, n, [tolanes], "tolan").
+entry(tolar, n, [tolarlar], "Sloveniyanın keçmiş pul vahidi olan TOLARJEV").
+entry(tolbooth, n, [tolboothlar], "həbsxana").
+entry(dedi, keçmiş, [], "demək fellinin keçmiş zamanı").
+entry(tole, v, [toled,tolema,toleler], "cəlb etmək").
+entry(toledo, n, [toledolar], "yaxşı qayrılmış qılınc").
+entry(dözümlü, sif, [], "dözümlü olmağa meyilli").
+entry(tolere et, v, [toler etdi, tolere edir, toler edir], "fəal qarşıdurma olmadan icazə vermək").
+entry(toleware, n, [tolewares], "dəbdəbəli şəkildə bəzədilmiş sac metalından hazırlanmış əşyalar").
+entry(tolidin, n, [tolidins], "tolodin").
+entry(tolidin, n, [tolidinlər], "kimyəvi birləşmə").
+entry(toling, indiki, [], "dözməyin feli sifəti").
+entry(toll, v, [tolled,tolling,tolls], "xidmət və ya imtiyaz üçün sabit ödəniş toplamaq və ya tətbiq etmək").
+entry(tollage, n, [tollages], "rüsum").
+entry(tollbar, n, [tollbars], "bir gömrük qapısı").
+entry(toller, n, [tollers], "rüsum toplayıcısı").
+entry(bariyer, f, [bəziyərətdi,bəziyərətmə,bəziyərlər], "rüşvət ödənilməsini gözləyən biznes sövdələşməsini əngəlləmək").
+giriş(yığma, n, [yığmalar], "rüsumların toplanması").
+tərtib(gömrükçü, n, [gömrükçülər], "bir gömrük işçisi").
+təsvir(avtobol, n, [avtobollar], "gömrük haqqı alınan yol").
+entry(tolt, n, [tolts], "təcrid olunmuş təpə").
+entry(tolu, n, [tolus], "xoş qoxulu qətran").
+entry(toluat, n, [toluatlar], "kimyəvi duz").
+entry(toluen, n, [toluenlər], "yanar maye").
+entry(toluik, sifət, [], "toluenin dörd izomer turşusundan birindən törəmiş").
+entry(toluid, n, [toluidlər], "toluid").
+entry(toluide, n, [toluides], "amid").
+entry(toluidin, n, [toluidinlər], "amin").
+entry(toluol, n, [toluenlər], "toluen").
+entry(toluol, n, [toluollər], "toluol").
+entry(toluyl, n, [toluil], "bir valentli kimyəvi radikal").
+entry(tolil, n, [tolillər], "əməkvaxtı kimyəvi radikal").
+entry(tom, n, [tomslar], "müxtəlif heyvanların erkəyi").
+entry(tomahawk, v, [tomahawklandı,tomahawklamaq,tomahawklar], "yüngül balta ilə vurmaq").
+entry(tomalley, n, [tomalleys], "xərçəngin qaraciyəri").
+giriş(toman, n, [tomanlar], "İranda əvvəllər istifadə edilən sikkə").
+entry(pomidor, n, [pomidorlar], "çoxillik bir bitkinin ətli yeyilə bilən meyvəsiPOMIDORLU sif").
+giriş(qəbir, f, [qəbirdi,qəbir etmək,qəbir], "dəfn kamerasına və ya dəfn otağına yerləşdirmək").
+entry(tombak, n, [tombaklar], "mis və sink ərintisi").
+entry(tomback, n, [tombacklər], "tombak").
+entry(tombak, n, [tombaklar], "tombak").
+entry(tombal, sif, [], "məzara aid").
+entry(tombless, sifət, [], "məqbərəsiz").
+entry(tomba bənzər, sifət, [], "qəbirə bənzəyən").
+entry(tombola, n, [tombolalar], "lotereya növü olan qumar oyunu").
+entry(tombolo, n, [tombolos], "adaları materikə birləşdirən qum təpəsi").
+entry(erkək-qız, n, [erkək-qızlar], "oğlanlara xas fəaliyyətləri üstün tutan qız").
+entry(tomcat, v, [tomcatted,tomcatting,tomcats], "erkək cinsinin cinsi azğın davranışla məşğul olması").
+entry(tomkod, n, [tomkodlar], "dəniz balığı").
+entry(tome, n, [tomes], "böyük kitab").
+entry(tomentum, n, [tomenta], "kiçik qan damarlarının şəbəkəsi").
+entry(tomfool, n, [tomfools], "axmaq bir şəxs").
+entry(tommy, n, [tommilər], "bir çörək").
+entry(tommi balığı, n, [tommi balıqları], "balıq").
+entry(tommyrot, n, [tommyrots], "boş söhbət").
+entry(tomoqram, n, [tomoqramlar], "rentgen şüaları ilə çəkilmiş bir şəkil").
+entry(sabah, n, [sabahlari], "bugündən sonrakı gün").
+entry(tompion, n, [tompions], "tampon").
+entry(bağdad quşu, n, [bağdad quşları], "müxtəlif kiçik aktiv quşlardan hər hansı biri").
+ton(ton, n, [tonlar], "çəki vahidi").
+entry(tonal, sifət, [], "tona aidTONALLA adv").
+entry(tonallıq, n, [tonallıqlar], "tonlar sistemi").
+entry(tondo, n, [tondos], "və ya TONDI dairəvi rəsm").
+entry(tone, v, [toned,toning,tones], "müəyyən bir ton, dəqiq bir yüksəklik və titrəmə ilə səs vermək üçün").
+entry(tonearm, n, [tonearms], "iynəni saxlayan qrammofonun dönən hissəsi").
+entry(toneless, sifət, [], "tondan məhrum").
+entry(toneme, n, [tonemlər], "nitqin tonal vahidiTONEMİK sif").
+entry(toner, n, [tonerlər], "tonlaşdıran biri").
+entry(tonetics, cəm, [], "dildə tonun fonetik tədqiqiTONETIC sif").
+entry(tonet, n, [tonetlər], "sadə bir fleyta").
+entry(toney, sifət, [], "TONIER TONIESTtony").
+entry(tong, v, [maşa ilə qaldırmaq, maşalamaq, maşalar], "maşa ilə qaldırmaq").
+entry(tonga, n, [tonqalar], "Hindistanda istifadə edilən yüngül araba").
+entry(tonger, n, [tongers], "tutuşdurucu").
+entry(tongman, n, [tongmen], "Çin gizli cəmiyyətinin üzvü").
+giriş(dil, f, [dilləndi,dillənmə,dillər], "ağız orqanı olan dili ilə toxunmaq").
+entry(tonguing, n, [tonguings], "külək alətində notları artikulyasiya etmək üçün dilin istifadəsi").
+entry(tonik, n, [toniklər], "canlandıran və ya təravətləndirən bir şey").
+entry(toniklik, n, [tonikliklər], "normal sağlam bədən vəziyyəti").
+entry(tonier, müqayisəli, [], "toney və tony-dən").
+entry(toniest, superlative, [], "toney və tony-nin ən üstün dərəcəsi").
+entry(tonlaşdırmaq, f, [tonlaşdırdı,tonlaşdırır,tonlaşdırar], "ton vermək").
+tonight(gəlin, [tonights], "indiki gecə").
+entry(toning, indiki, [], "tonlama felinin orta mənsubu").
+entry(tonish, sifət, [], "dəbliTONISHLY zərf").
+entry(tonlet, n, [tonletlər], "lövhə zirehi ətəyi").
+entry(çəki, n, [çəkilər], "tonlarla ümumi çəki").
+entry(ton, n, [tonlar], "çəkidən vahid").
+entry(tonneau, n, [tonneaus], "avtomobilin arxa oturacaq bölməsi").
+entry(tonajlı, n, [tonajlılar], "müəyyən edilmiş tonnajlı bir obyekt").
+entry(tonnish, sifət, [], "tonish").
+entry(bademcik, n, [bademciklər], "limfoid orqanBADEMCİYƏ AİD olan sifət").
+entry(tonsura, v, [tons etdi, tons etməkdədir, tons edir], "başın tıraş edilməsi").
+entry(tontin, n, [tontinlər], "kollektiv həyat sığortasının bir forması").
+entry(tonus, n, [tonuslar], "əzələ toxumasında normal gərginlik vəziyyəti").
+entry(toni, sif, [], "ƏN TONİ TONİSTil").
+entry(too, adv, [], "əlavə olaraq").
+giriş(toodle, v, [toodled,toodling,toodles], "to tootle").
+entry(götürdü, keçmiş, [], "götür fiilinin zaman forması").
+entry(alət, f, [alətlədi, alətləyiş, alətlər], "əllə işləmək üçün istifadə edilən bir alətlə qurmaq və ya bitirmək").
+entry(alətlər paneli, n, [alətlər panelləri], "kompüter ekranında funksiyaları aktivləşdirən simgələr sırası").
+entry(əl qutusu, n, [əl qutuları], "alət üçün qutu").
+entry(alətlər, n, [al'latlar], "alət edən biri").
+entry(toolhead, n, [toolheads], "bir maşının hissəsi").
+entry(alətlər, n, [alətlər], "alətlərlə edilən bəzək").
+entry(toolless, sif, [], "alətsiz").
+entry(toolpush, n, [toolpushes], "neft platformasında qazma əməliyyatlarını idarə edən işçi").
+entry(usta otağı, n, [usta otaqları], "alətlərin saxlanıldığı otaq").
+entry(alət dəsti, n, [alət dəstləri], "alətlərin dəsti").
+entry(alətlər tövləsi, n, [alətlər tövlələri], "alətlərin saxlandığı bina").
+toom(daxil, sif, [], "boş").
+entry(toon, n, [toons], "Şərqi Hindistan ağacı").
+entry(toonie, n, [toonies], "Kanada iki dollarlıq sikkəsi").
+toot(maddə, feil, [tooted,tooting,toots], "qısa fit və ya siqnal səsi çıxartmaq").
+entry(tooter, n, [tooters], "fiti çalan").
+entry(diş, n, [dişlər], "hər çənəyə bir sıra ilə qoşulmuş sərt quruluşlardan biri").
+entry(diş, f, [dişli,dişləmə,dişlər], "dişli çıxıntılarla təmin etmək").
+entry(toothy, sif, [], "DAHA DİŞLİ ƏN DİŞLİ müəyyən və ya diqqətçəkən dişlərə sahib olanDİŞLİCƏ zərf").
+entry(tootle, v, [tootled,tootling,tootles], "yumşaq və ya təkrarən fit çalmaq").
+entry(tootler, n, [tootlərs], "tutullan biri").
+entry(toots, n, [tootses], "bir qadın və ya qız üçün adətən müraciət forması olaraq istifadə edilir").
+entry(tootsie, n, [tootsies], "tootsi").
+entry(tootsy, n, [tootsies], "ayaq").
+entry(top, v, [üstünü kəsdi, üstünü kəsmək, üstünü kəsir], "ən yuxarı hissəsini və ya səthini kəsmək").
+entry(topaz, n, [topazlar], "bir mineralTOPAZİN adj").
+entry(palto, i, [paltolar], "yüngül palto").
+entry(topcross, n, [topcrosslar], "safqan erkək və aşağı keyfiyyətli dişi damazlıq arasında çarpazlama").
+entry(tope, v, [toped,toping,topes], "piylənmək üçün həddən artıq içki içmək").
+entry(topee, n, [topees], "topi").
+entry(toper, n, [topers], "çox içən şəxs").
+entry(topful, sif, [], "topfull").
+entry(yenidolu, sif, [], "tam dolu").
+entry(toph, n, [tophs], "tufa").
+entry(tophe, n, [tophes], "tuf").
+entry(tophus, n, [tofular], "bir birləşmənin ətrafındakı toxumada urat yatağı").
+entry(topi, n, [topi], "gün papağı").
+entry(topiary, n, [topiarilər], "kolların formalara salınması sənəti").
+entry(mövzu, n, [mövzular], "müzakirə mövzusu").
+entry(topical, n, [mövzusallar], "eyni mövzu ilə əlaqəli dizaynlara malik kolleksiyadakı poçt markası").
+entry(toping, present, [], "toplamaq feilinin feli sifəti").
+entry(topkick, n, [topkiks], "bir baş çavuş").
+entry(topknot, n, [topknots], "saç üçün bir bəzək").
+entry(topless, sif, [], "üstü olmayan").
+entry(topline, n, [üst xətləri], "bir heyvanın bədəninin üst hissəsinin konturu").
+entry(toplofty, sif, [], "TOPLOFTIER TOPLOFTIESThaughty").
+giriş(topmast, n, [topmasts], "gəminin dirəyi").
+entry(topmost, sif, [], "ən yüksək").
+entry(topnotch, sif, [], "əla").
+entry(topo, sif, [], "topoqrafik").
+entry(topoi, pl, [], "toposun").
+entry(topologiya, n, [topologiyalar], "riyaziyyatın bir sahəsi").
+entry(toponim, n, [toponimlər], "bir yerin adı").
+entry(toponimika, n, [toponimikalar], "toponimlərin tədqiqi").
+entry(topos, n, [topoi], "təbliğat ritorik mövzusu").
+entry(topotype, n, [tipotiplər], "növ üçün tipik yerli ərazidən seçilmiş bir nümunə").
+entry(topped, kecmiş, [], "top feli aşağının zamandır").
+entry(topper, n, [ən yüksək səviyyədə olanlar], "ən yüksəyə çıxan").
+entry(topping, n, [toppings], "üst təşkil edən bir şey").
+entry(devirmək, v, [devirdi,devirməkdə,devirir], "irəli yıxılmaq").
+entry(yuxarı yelkən, n, [yuxarı yelkənlər], "gəminin bir yelkəni").
+entry(topside, n, [topsides], "gəminin yuxarı hissəsi").
+entry(topsider, n, [topsiders], "ən yüksək səviyyədə vəzifə tutan şəxs").
+entry(topsoil, v, [topsoiled,topsoiling,topsoils], "torpağın səthi qatını çıxarmaq").
+entry(topspin, n, [topspinlər], "topa verilən irəli spin").
+entry(topstone, n, [topstone-lar], "bir quruluşun yuxarısındakı daş").
+entry(topwater, sif, [], "suyun üzərində və ya yaxınlığında üzən").
+entry(topwork, v, [topworked,topworking,topworks], "bitkinin əsas budaqlarına başqa bir çeşidin qələm şitilini əkmək").
+entry(toque, n, [toque-lər], "sıx oturan qadın papağı").
+entry(toquet, n, [toquets], "toque").
+entry(toquilla, n, [toquillas], "Cənubi Amerikada palma bənzəri bitki").
+entry(təpə, n, [təpələr], "hündür kəskin təpə").
+entry(tora, n, [toralar], "tövrat").
+entry(tövrat, n, [tövratlar], "və ya TOROTH və ya TOROT qanun və ya əmr").
+entry(torc, i, [torcs], "metal yaxalıq və ya boyunbağı").
+entry(torch, v, [yandırdı,yandırmaqda,yandırır], "od vurmaq").
+entry(torchere, n, [torcheres], "elektrik lampasının bir növü").
+entry(torchier, n, [torchiers], "torchere").
+entry(torchlit, sif, [], "ucunda yanan məşəllərlə işıqlandırılmış").
+entry(torchon, n, [torchons], "qalın krujeva").
+entry(torchy, sif, [], "MƏNALI MƏNALImahnının xüsusiyyəti").
+entry(tor, n, [torlar], "tor (cisimi)").
+entry(toreador, n, [toreadorlar], "qıçaq döyüşçüsü").
+entry(matador, n, [matadorlar], "bir matador").
+entry(toreutik, sif, [], "metal işləməsinə dair").
+entry(torus, pl, [], "torusdan").
+entry(toric, n, [toriklər], "astiqmatizmi düzəltmək üçün nəzərdə tutulmuş linza").
+entry(toris, cəm, [], "torinin").
+entry(torii, n, [torii], "Yapon məbədinin giriş qapısı").
+entry(əziyyət, v, [əziyyət verdi, əziyyət vermək, əziyyət verir], "böyük fiziki və ya zehni əziyyət vermək").
+entry(torn, keçmiş, [], "tear-in participle forması").
+entry(tornado, n, [tornadolar], "və ya TORNADOESşiddətli külək fırtınasıTORNADİC sıf").
+entry(tornillo, n, [tornillolar], "çiçəkli kol").
+entry(toro, n, [toros], "buğa").
+giriş(toroid, n, [toroidler], "bir növ geometrik səthTOROIDAL sif").
+entry(torose, sif, [], "silindrik və aralıqlarda şişkin").
+entry(torosite, n, [torositeler], "toroz vəziyyəti və ya halı").
+entry(torot, a, [], "torahın cəmi").
+entry(toroth, a, [], "torahın cəmi").
+entry(torus, sif, [], "torus").
+giriş(torpedo, v, [torpedoed, torpedoing, torpedoes], "sualtı raketi ilə zədələmək və ya batırmaq TORPEDOS").
+entry(torpefy, v, [keyidiləşdi,keyidirləşməkdə,keyidirləşir], "kifayət qədər sürətli olmamaq üçün").
+entry(torped, n, [torpedlər], "yarış qayıqı").
+entry(torpidly, adv, [], "sürüncəkli şəkildə").
+entry(köməlik, n, [köməliklər], "zehni və ya fiziki hərəkətsizlik").
+entry(torquate, sif, [], "torqa malik olmaq").
+entry(moment, v, [momentlədi,momentləyir,momentlər], "bükülməyə səbəb olmaq").
+entry(torquer, n, [torquers], "burmaqla məşğul olan biri").
+entry(torkesler, n, [torkesler], "boyun ətrafında lələklərdən, tüklərdən və ya rənglənmədən ibarət bir zolaq").
+entry(torquey, sif, [], "TORQUIER TORQUIESTfırlanma yaratmaq üçün qüvvə təmin etmək").
+entry(torr, n, [torr], "təzyiq vahidi").
+entry(torrefy, v, [torrefied,torrefying,torrefies], "sərt istiliyə məruz qoymaq").
+entry(torrent, n, [sel], "sürətli su axını").
+entry(torrid, sif, [], "ÇOX İSTİTORRID TORRIDTORRAITTEK AŞIRI İSTİTORRIDİNCƏ adv").
+entry(torrify, v, [torrified,torrifying,torrifies], "torra etmək").
+entry(burulmuş, n, [burulmuşlar], "burulmuş bir ip").
+entry(tors, n, [torslar], "bükülmüş ipək çələngi").
+entry(torslar, a, [], "torsonun cəmi").
+entry(torsion, n, [torsions], "burulma hərəkəti").
+entry(torsk, n, [torsklər], "dəniz qida balığı").
+entry(kürək, n, [kürəklər], "insanın bədəninin gövdəsi").
+entry(tort, n, [tortlar], "mülki hüquq pozuntusu").
+entry(torta, n, [], "pl TORTAƏtraflı bir desert").
+entry(tort, n, [tortun], "yaxud TORTEN zəngin tort").
+entry(tortelli, npl, [], "pendir, ət və ya tərəvəzlə doldurulmuş makaron parçaları").
+giris(burulmuş, sıf, [], "burulmuş dolanmış").
+entry(tortilla, n, [tortillas], "mayasız qarğıdalı unundan hazırlanmış yuvarlaq yastı keks").
+entry(tortik, sif, [], "bir mülki haqsızlığın təbiətinə aid").
+entry(tısbağa, n, [tısbağalar], "bədəni sümük qabıqla örtülmüş sürünənlərdən olan sifarişlərin hər hansı biri").
+entry(tortoni, n, [tortonis], "bir növ dondurma").
+entry(tortrix, n, [tortrixes], "və ya TORTRICES, kiçik bir güvə").
+entry(çalpaşıq, sifət, [], "təkrarlanan dönmələrlə və ya əyilmələrlə işarələnmiş").
+entry(əzab, v, [əzab verdi, əzab verir, əzab verir], "şiddətli fiziki ağrıya məruz qoymaq").
+entry(cəllad, n, [cəlladlar], "işgəncə verən biri").
+entry(torula, n, [torulas], "və ya TORULAE göbələk növü").
+entry(torus, n, [torilər], "yaxud TORUSLARböyük qabarıq list").
+entry(tory, n, [torylər], "siyasi mühafizəkar").
+entry(tosa, n, [tosalar], "mastif cinsindən olan it").
+entry(tosh, n, [toshes], "boşboğazlıq").
+giriş(atmaq, f, [atır, atmaqda, atır], "yüngülcə atmaq").
+entry(tosser, n, [tossers], "atan biri").
+entry(tosspot, n, [tosspotlar], "bir sərxoş").
+entry(tossup, n, [tossups], "bərabər seçim və ya şans").
+entry(tost, a, [], "toss felinin keçmiş zamanı").
+entry(tostada, n, [tostadas], "dərin yağda qızardılmış tortilla").
+entry(tostado, n, [tostados], "tostada").
+entry(tostone, n, [tostones], "qızardılmış babanı xörəyi, meksikan yeməyi").
+entry(tot, v, [topladı,toplamaqda,toplayır], "cəm etmək").
+entry(totable, sifət, [], "daşına bilən").
+entry(total, v, [ümumiləşdirilmiş, ümumiləşdirir, ümumiləşdirir], "ümumi miqdarı müəyyən etmək üçün").
+entry(totalise, v, [totalizə etdi,totalizə edir,totalizə edir], "cəmləşdirmək").
+giriş(totalizm, n, [totalizmlər], "avtoritar bir hakimiyyət tərəfindən mərkəzləşdirilmiş idarəetmə").
+entry(totalist, n, [totalistlər], "şeyləri vahid bir bütöv kimi qəbul etməyə meylli olan biri").
+entry(totality, n, [tamlıqlar], "tamlıq və ya tam olma vəziyyəti").
+entry(totalize, v, [tamamlanmış,tamamlayan,tamamlayır], "tam etmək").
+entry(totalled, a, [], "cəm etmək feilinin keçmiş zamanı").
+entry(totalling, a, [], "total sözünün indiki feli sifəti").
+girdi(tamamilə, zərf, [], "tamamilə").
+Entry(tote, v, [toted, toting, totes], "əllə daşımaqTOTEABLE sif").
+entry(totem, n, [totemlər], "bir ailə və ya tayfanın simvolu olaraq xidmət edən təbii obyektTOTEMİK sif").
+entry(totemizm, n, [totemizmlər], "totemlərə görə qəbilə bölgüsü sistemi").
+entry(totemist, n, [totemistlər], "totemizmdə mütəxəssis").
+entry(totemite, n, [totemites], "totemist").
+entry(toter, n, [toters], "daşayan biri").
+entry(tother, pron, [], "digəri").
+entry(toting, indiki, [], "daşımaq felinin ortaq mənfi forması").
+entry(totted, keçmiş, [], "tot feli zaman").
+giris(totter, f, [tottered, tottering, totters], "dayanqsız yerimək").
+entry(tətilən, n, [tətillənənlər], "tərləyən biri").
+entry(tottery, sif, [], "titrek").
+entry(totting, indiki, [], "təklik feli iştirakçı").
+entry(tukan, n, [tukanlar], "tropik quş").
+entry(toxunmaq, v, [toxundu,toxunur,toxunar], "əlaqədə olmaq və ya əlaqə yaratmaq").
+entry(touche, nida, [], "qılıncoynatmada və vurulduqda istifadə olunur").
+entry(toucher, n, [touchers], "toxunan").
+entry(touchpad, n, [sensorlu_stat], "barmaq hərəkətinə və ya təzyiqinə həssas olan klaviatura").
+entry(təmir, n, [təmirlər], "xırda təkmilləşdirmələr əlavə etməklə tamamlanma hərəkəti").
+entry(həssas, sif, [], "HƏSSASDAHA HƏSSASTp həddindən artıq həssasHƏSSASCASINA zərf").
+entry(çətin, sif, [], "DAHA ÇƏTİN ƏN ÇƏTİN güclü və dayanıqlı").
+entry(sərt, v, [sərtləşdi,sərtləşir,sərtləşir], "çətinliyə dözmək").
+entry(çətinləşdirmək, v, [çətinləşdirdi,çətinləşdik,çətinləşir], "çətin etmək").
+entry(mohkem, n, [mohkemler], "güclü bir insan").
+entry(toughish, sif, [], "bir qədər sərt").
+entry(sərt şəkildə, zərf, [], "sərt bir tərzdə").
+entry(toughy, n, [toughies], "təfərrüat").
+entry(tupa, n, [tupalar], "keçəlliyi örtmək üçün taxılan saç düzümü").
+entry(toupie, n, [toupies], "yuvarlaq sümüksüz hisə verilmiş vetçina").
+entry(səyahət, v, [səyahət etdi,səyahət edir,səyahətlər], "yerdən yerə səfər etmək").
+entry(turako, n, [turakolar], "Afrika quşu").
+giris(tur avtomobili, n, [tur avtomobilləri], "böyük açıq avtomobil").
+entry(təyinat, n, [təyinatlar], "zövq üçün kros-ski").
+entry(turizm, n, [turizmlər], "əyləncə üçün səyahət etmək təcrübəsi").
+giriş(turist, isim, [turistlər], "əhval üçün səyahət edən şəxsTURIST adj").
+entry(turist, n, [turistlər], "turista").
+entry(turnir, v, [turnirləşdi,turnirləşmə,turnirlər], "turnirdə iştirak etmək").
+entry(touse, v, [toused,tousing,touses], "tökəlmək").
+entry(tousle, v, [tousled,tousling,tousles], "daranmaq").
+entry(tout, v, [touted,touting,touts], "utanmadan dilənmək").
+entry(touter, n, [müştəriləri], "biri ki, alqışlayır").
+entry(touton, n, [toutons], "qızardılmış yuvarlaq çörək xəmiri").
+giriş(touzle, v, [touzled,touzling,touzles], "qarışdırmaq").
+entry(yoldaş, n, [yoldaşlar], "comrade").
+entry(yoldaş, n, [yoldaşlar], "tovarich").
+entry(tow, v, [dartdı, dartmaqda, dartır], "ip və ya zəncirlə çəkməkTOWABLE s.").
+entry(yedəgetmə, n, [yedəgetmələr], "dartma üçün ödənilən qiymət").
+entry(tərəfə, əvəz, [], "istiqamətində").
+entry("towardly", adj, [], "müsbət").
+entry(tərəf, önəlici, [], "tərəf").
+entry(towaway, n, [evakuasiyalar], "nəqliyyat vasitəsinin evakuasiya edilməsi").
+entry(yedək gəmi, n, [yedək gəmiləri], "bir yedək gəmi").
+entry(dəsmal, v, [dəsmalladı, dəsmallama, dəsmallar], "və ya DƏSMALLADI DƏSMALLAMA DƏSMALLARnəmi çəkmək üçün bir dəsmalla silmək bir udma qabiliyyətli parça").
+entry(məhrəba, n, [məhrəbalar], "dəsmal üçün istifadə olunan material").
+entry(qala, f, [qalandı, qalxmaqda olan, qalalar], "böyük hündürlüyə qalxmaq").
+entry(hündür, sif, [], "ÇOX HÜNDÜR ƏN HÜNDÜR çox hündür").
+entry(towhead, n, [towheads], "ağ sarı saçdan ibarət baş").
+entry(sülaşı, n, [sülaşilər], "adi bir sərçə").
+entry(towie, n, [towies], "üç oyunçu üçün müqaviləli bridge oyunu forması").
+entry(towing, indiki, [], "tow felinin feili sifəti").
+entry(yedekxətt, n, [yedekxətlər], "yükləmə üçün istifadə olunan xətt").
+entry(tovmond, n, [tovmondlar], "bir il").
+entry(towmont, n, [towmontlar], "towmond").
+entry(şəhər, n, [şəhərlər], "şəhərdən kiçik olan bir əhali mərkəzi").
+giriş(şəhərli, n, [şəhərlilər], "bir şəhər sakini").
+entry(sakinlər, cəml, [], "şəhər sakinləri").
+entry(townhome, n, [townhomes], "iki və ya üç mərtəbəli bitişik evlər seriyasından biri").
+entry(townie, n, [townies], "kolleç şəhərində yaşayan tələbə olmayan").
+entry(townies, pl, [], "şəhərlikdən").
+entry(townish, sif, [], "şəhərə xas").
+entry(townsuz, sif, [], "şəhərləri olmayan").
+entry(townlet, n, [qəsəbələr], "kiçik bir qəsəbə").
+entry(şəhərcik, n, [şəhərciklər], "bir rayonun inzibati vahidi").
+entry(şəhər_yeri, n, [şəhər_yerləri], "bir şəhərin yeri").
+entry(şəhərli, n, [şəhərlilər], "bir şəhərin sakini").
+entry(townward, adv, [], "şəhərə doğru").
+entry(şəhərgiyim, n, [şəhərgiyim], "şəhərdə geyinmək üçün uyğun olan geyim").
+entry(towny, n, [townies], "qəsəbəli").
+entry(sahil_yolu, n, [sahil_yolları], "gəmiləri çəkən heyvanların istifadə etdiyi çay kənarında olan yol").
+entry(towplane, n, [çəkən-təyyarələr], "planerləri çəkən təyyarə").
+entry(yedək kəndiri, n, [yedək kəndirləri], "çəkilmək üçün istifadə olunan kəndir").
+entry(towsack, n, [towsacks], "kobud parçadan hazırlanmış kisə").
+entry(towy, sifət, [], "kobud kenevir və ya kətan lifinə bənzəyən").
+entry(toksemiya, n, [toksemiyalar], "toksemiyaTOKSEMİK sif").
+entry(toksemiya, n, [toksemiyalar], "qanda toksinlərin olması vəziyyəti TOKSEMİK sif").
+entry(zəhərli, n, [zəhərlilər], "zəhərli maddə").
+entry(zəhərli, adj, [], "toxic").
+giriş(zəhərli_maddə, n, [zəhərli_maddələr], "zəhərli bir maddə").
+entry(zəhərlilik, n, [zəhərliliklər], "zəhərli olma keyfiyyəti").
+entry(zəhər, n, [zəhərlər], "zəhərli maddə").
+entry(toksin, n, [toksinlər], "toksin").
+entry(toksin, n, [toksinlər], "toksin növü").
+entry(oyuncaq, v, [oyuncaqlar,oyuncaqla,oşyan], "özünü oyuncaqla əyləndirmək, bir uşağın oyuncağı").
+entry(toyer, n, [toyerlər], "oyuncaqla oynayan biri").
+entry(oyuncaq, sif, [], "məkulsüz").
+entry(oyuncaqistan, n, [oyuncaqistanlar], "oyuncaq sənayesi").
+entry(oyuncaqsız, sif, [], "oyuncağı olmayan").
+entry(oyuncaqəbənzər, sifət, [], "oyuncağa bənzəyən").
+entry(toyo, n, [toyos], "şlyapa hazırlanmasında istifadə edilən hamar saman").
+entry(toyon, n, [toyons], "bəzəkli həmişəyaşıl kol").
+entry(oyuncaqdükani, n, [oyuncaqdükanları], "oyuncaqların satıldığı dükan").
+entry(toytown, n, [toytownlar], "şəhərin kiçik bir modeli").
+entry(trabeate, adj, [], "üfüqi kirişlərlə tikilmiş").
+entry(izləmək, v, [izlənilən, izləmə, izlər], "müəyyən yolu izləmək üçün").
+entry(tracer, n, [izləyicilər], "izləyən biri").
+entry(oyma, n, [oymalar], "bir-birinə dolanmış xətlərdən ibarət bəzək işi").
+entry(traxeya, n, [traxeyalar], "ağciyərlərə hava daşıyan keçidTRAXEAL sif").
+entry(traxeyid, n, [traxeyidlər], "uzun boru şəklində olan bitki hüceyrəsi").
+entry(trachle, v, [trachled,trachling,trachles], "sürünmək").
+entry(traxoma, n, [traxoma], "göz xəstəliyi").
+entry("traxit", n, ["traxitlər"], "açıq rəngli magmatik süxur").
+entry(tracing, n, [tracings], "iz qoyulan bir şey").
+entry(track, v, [izlədi, izləmə, izlər], "heyvanın, şəxsin və ya nəqliyyat vasitəsinin qoyduğu izləri izləmək").
+entry(trackage, n, [trackages], "dəmir yolunun rels sistemi").
+entry(trackbed, n, [dəmir_yolu_döşəməsi], "dəmir yolu üçün yol yatağı").
+entry(izləyici, n, [izləyicilər], "izləyən biri").
+entry(izləmə, n, [izləmələr], "tələbələrin tədris proqramı daxilində yerləşdirilməsi").
+girişi(dəmiryolu_əməkdaşı, n, [dəmiryolu_əməkdaşları], "dəmiryol işçisi").
+entry(trackpad, n, [sensorlu panel], "sensorlu panel").
+entry(iz yolu, n, [iz yolları], "ayaq döyülən yol").
+entry(ərazi, i, [ərazilər], "bir torpaq sahəsi").
+entry(tractate, n, [tractatlar], "bir traktat").
+entry(uzanan, sif, [], "uzunluq boyunca dartıla bilən").
+entry(çəkmə, n, [çəkmələr], "səthin üzərində çəkmə və ya dartma hərəkətiTRACTIVE sif").
+entry(traktor, n, [traktorlar], "kənd təsərrüfatında istifadə olunan motorlu nəqliyyat vasitəsi").
+entry(tractrix, n, [traktis], "riyazi əyri").
+entry(trad, sif, [], "ənənəvi").
+entry(ticarət, v, [ticarət etdi,ticarət edir,ticarətlər], "başqa bir əmtəəyə dəyişmək üçünTRADABLE adj").
+entry(kompromis, n, [kompromislər], "bir şeyin başqa bir şey qarşılığında verilməsi").
+entry(tacir, n, [tacirlər], "ticarətlə məşğul olan şəxs").
+entry(ticarət, n, [ticarətlər], "malların mübadiləsi fəaliyyəti").
+entry(xain, n, [xainlər], "erkən xristianlar arasında bir xain").
+entry(ləkələmək, v, [ləkləyib, ləkələmə, ləkələyir], "pis ad çıxarmaq").
+entry(iftiraçı, n, [iftiraçılar], "iftira atan biri").
+entry(trafik, v, [qaçırdı,qaçırma,qaçırır], "alış və satışla məşğul olmaq").
+entry(fəlakət, n, [fəlakətlər], "faciəvi hadisə").
+entry(tragi, pl, [], "tragusdan").
+entr(tragic, n, [tragediyalar], "faciə yaradan bir dram elementidir").
+entry(tragik, sif, [], "bir faciənin təbiəti ilə bağlı").
+entry(tragopan, n, [tragopanlar], "Asiya xilası").
+entry(tragus, n, [tragi], "qulağın xarici açılışının bir hissəsi").
+entry(traik, v, [traiklədi,traikləyən,traiklər], "ağır-ağır yürümək").
+entry(iz, v, [izlənmiş, izlənən, izlər], "səth boyunca sürükləmək").
+entry(treyler, v, [treylerləndi, treylerləyir, treylerlər], "başqa bir avtomobil tərəfindən çəkilən bir vasitəni treyler vasitəsilə daşımaq").
+entry(qatar, v, [öyrətdi,tələb edir,qatarlar], "sistematik şəkildə təlim keçmək").
+entry(təlimçi, n, [təlimçilər], "təlim alan şəxs").
+entry(məşqçi, n, [məşqçilər], "məşq etdirən biri").
+entry(trainful, n, [trainfuls], "dəmir yolu qatarının tutumu qədər").
+entry(training, n, [təlimlər], "sistemli təlim").
+entry(qatarcı, n, [qatarmen], "dəmir yolu işçisi").
+entry(trainway, n, [dəmir yolları], "dəmir yolu").
+entry(gezinmek, v, [gezindi,gezinir,geziner], "boş və ya məqsədsiz şəkildə gəzmək").
+entry(xüsusiyyət, isim, [xüsusiyyətlər], "fərqləndirici xüsusiyyət").
+entry(xain, n, [xainlər], "başqasını satqın edən şəxs").
+entry(traject, v, [trajected, trajecting, trajects], "ötürmək").
+giriş(tramvay, f, [tramvayladı, tramvaylayan, tramvaylar], "tramvay maşını ilə daşımaq").
+entry(tramvay, n, [tramvaylar], "küçə qatarı").
+entry(tramel, v, [trameled,trameling,tramels], "və ya TRAMELLED TRAMELLING TRAMELS tramel etmək üçün").
+entry(tramell, v, [tramelledi, tramelləyərək, tramelləyir], "maneə olmaq").
+entry(tramsız, sifət, [], "tramvaysız olmaq").
+entry(tramvay_xətti, n, [tramvay_xətləri], "tramvay xətti").
+entry(trammed, keçmiş, [], "tramvayın zamanı").
+entry(trammel, v, [məhdudlaşdırılmış,məhdudlaşdırma,məhdudlaşdırır], "yaxud MƏHDUDLAŞDIRILMIŞ MƏHDUDLAŞDIRMA MƏHDUDLAŞDIRIRmaniyə törətmək").
+giriş(tramming, indiki, [], "tramvayın qParticipleri").
+entry(tramp, v, [qıydı,qıymaq,qıyır], "möhkəm və ağır addımlarla yerimək").
+entry(tramper, n, [trampers], "dolaşan şəxs").
+entry("tramp kimi", sifət, [], "sərsərini xatırladan").
+entry(tapdalamaq, v, [tapdaladı,tapdalamaqda,tapdalayır], "çoxluqla üzərinə basmaq").
+entry(trampler, n, [tapdayanlar], "tapdayan şəxs").
+entry(trampy, sif, [], "TRAMPIER TRAMPIEST səfil xüsusiyyətlərinə malik").
+entry(tramroad, n, [tramroads], "mədəndə bir dəmir yolu").
+giriş(tramvay, n, [tramvaylar], "tramvay xətti").
+entry(trance, f, [trans etdi, trans edərək, translar], "yarımşüurlu vəziyyətə yerləşdirmək").
+entry(tranche, n, [tranşlar], "bir hissə").
+entry(trangam, n, [trangamlar], "bir bəzək əşyası").
+entry(trank, v, [tranked,tranking,tranks], "sakitləşdirmək").
+entry(trani, n, [tranilər], "trani").
+entry(transmissiya, n, [transmissiyalar], "bir transmissiya").
+giriş(tranq, n, [tranqlar], "trank").
+entry(sakit, sif, [], "SƏSSİZ SƏSSİZLİK və ya SAKİTLİK SAKİTLİKLƏ ən sakit olan").
+giriş(trans, sifət, [], "molekulun əks tərəflərində fərqli atomların yerləşdirilməsi ilə xarakterizə olunan").
+entry(transact, v, [transacted,transacting,transacts], "həyata keçirmək").
+entry(transekt, v, [transektlədi, transektləyir, transektlər], "kəsmək").
+entry(transept, n, [transeptlər], "kilsənin gövdəsinin əsas eninə hissəsi").
+entry(transfer, v, [tərcümə edildi,tərcümə edilir,tərcümə edir], "bir mənbədən digərinə ötürmək").
+entry(transfix, v, [transfixt,transfixing,transfixes], "mismarlamaq").
+entry(tranship, v, [yüklədi,yükləyir,yükləyir], "bir nəqliyyat vasitəsindən digərinə köçürmək").
+entry(keçid, v, [keçdi, keçir, keçir], "bir şeyi və ya bir yeri aşmaq").
+entry(ötürmək, v, [ötürdü,ötürür,ötürür], "bir yerdən və ya şəxsdən digərinə göndərmək").
+entry(transom, n, [transomlar], "qapı və ya başqa bir pəncərənin üstündə yerləşən kiçik pəncərə").
+entry(transude, f, [transuded,transuding,transudes], "membrandan keçmək").
+entry(tələ, f, [tələlədi,tələləyir,tələlər], "heyvanları tutmaq və saxlamaq üçün tələ ilə tutmaq").
+entry(trapan, f, [trapanned,trapanning,trapans], "trapan etmək").
+entry(trapball, n, [tələtopları], "bir növ top oyunu").
+entry(tələqapı, n, [tələqapılar], "açılma örtüyü və ya sürüşmə qapısı").
+entry(trapes, f, [trapesed, trapesing, trapeses], "sürüdə addımlamaq").
+entry(trapez, n, [trapezlər], "gimnastik aparat").
+entry(trapeziya, cəml, [], "heç bir tərəfi paralel olmayan dördbucaqlılar").
+entry(trapezii, cəml, [], "belin üçbucaq əzələləri").
+entry(tələyə-bənzər, sif, [], "tələyə bənzəyən").
+entry(tələxət, n, [tələxətlər], "bir sıra tələlər").
+entry(trapnest, v, [trapnested,trapnesting,trapnests], "qeyri-adi növ yuvada olan toyuqların məhsuldarlığını müəyyənləşdirmək üçün").
+entry(trappean, sifət, [], "tuzmaq daşı ilə əlaqədar").
+entry(tələf olub, a, [], "tələyə düşmək fe'ilinin keçmiş zaman forması").
+entry(tələçi, n, [tələçilər], "tələ quran biri").
+entry(traplama, n, [traplamalar], "at üçün örtük").
+entry(trappose, sif, [], "trappean").
+entry(trappous, adj, [], "trappean").
+entry(tüfdaş, n, [tüfdaşlar], "magma mənşəli süxur").
+entry(trapt, a, [], "tələyə salmaq felinin keçmiş zaman forması").
+entry(trapunto, n, [trapuntolar], "bəzəkli yorgan dizaynı").
+entry(zibil, v, [zibilləndi, zibilləmə, zibilləyir], "dəyərsiz və ya tullantı materiallardan təmizləmək").
+entry(dağıdıcı, n, [dağıdıcılar], "məhv edən və ya zərər verən").
+entry(zibilci, n, [zibilciler], "zibili cixaran şəxs").
+entry(trashy, sif, [], "ZIBILƏ BƏNZƏYƏN ZİBILLAŞMIŞZİBİLLİ QƏDƏR adv").
+entry(trass, n, [trasslar], "vulkanik bir daş").
+entry(trauchle, v, [trauchled,trauchling,trauchles], "əldən salmaq").
+entry(trauma, n, [travmalar], "və ya TRAVMATALARa ağır emosional şok").
+entry(travail, v, [zəhmət çəkdi,zəhmət çəkir,zəhmətlər], "çalışmaq").
+entry(trave, n, [traves], "atı hüdudlaşdırmaq üçün bir çərçivə").
+entry(səyahət, v, [səyahət etdi, səyahət edir, səyahətlər], "və ya SƏYAHƏT ETDİ SƏYAHƏT EDİR SƏYAHƏTlər bir yerdən başqa yerə getmək üçün").
+entry(səyahətçi, n, [səyahətçilər], "səyahət edən biri").
+entry(səyahətnamə, n, [səyahətnamələr], "səyahət haqqında mühazirə və ya film").
+traverse(gəzmək, v, [gəzdilmiş, gəzir, gəzir], "keçmək və ya başdan-başa hərəkət etmək").
+entry(travesty, v, [travestied,travestying,travesties], "parodiya etmək").
+entry(travois, n, [travois], "xüsusi bir kirşə növü").
+entry(travois, n, [travoislər], "travois").
+entry(trawl, v, [trawled,trawling,trawls], "diblə tor çəkərək balıq tutmaq").
+entry("tralçı gəmi", n, ["tralçı gəmilər"], "tralçılıq üçün istifadə edilən qayıq").
+entry(trawley, n, [trawleys], "materialların daşınması üçün kiçik yük maşını və ya avtomobil").
+entry(trawlnet, n, [trawlnets], "trol balıqçılığında istifadə olunan böyük tor").
+entry(tepsi, n, [tepsilər], "yastı dayaz qab").
+entry(trayf, sif, [], "Yəhudi qanunlarına uyğun olaraq hazırlanmayıb").
+entry(tepsidolu, n, [tepsidolular], "tepsinin tutacağı qədər").
+entry(melass, n, [melaslar], "qaramələz").
+entry(treacly, sif, [], "TREACLIER TREACLIEST çayın kimi şirin və həzin").
+entry(tread, v, [treaded,trodden,treading], "TREAD-gəzmək üçün basmaq və ya keçmək").
+entry(treader, n, [treaders], "addım atan").
+entry(treadle, v, [treadled,treadling,treadles], "ayaq pedalını işlətmək").
+entry(treadler, n, [treadlers], "pedal basan şəxs").
+entry(xəyanət, n, [xəyanətlər], "öz ölkəsinə sədaqətin pozulması").
+entry(xəzinə, f, [qiymətli, qiymətləndirmə, xəzinələr], "yüksək dəyərləndirmək").
+entry(xəzinə, n, [xəzinələr], "vəsaitlərin qəbul edildiyi, saxlandığı və xərcləndiyi yer").
+entry(müalicə, v, [müalicə etdi,müalicə edir,müalicələr], "müəyyən şəkildə davranmaq").
+entry(treater, n, [treaters], "müalicə edən").
+entry(mu\xc9\x99alic\xc9\x99, n, [m\xc9\x99alic\xc9\x99l\xc9\x99r], "kim\xc9\x99s\xc9\x99 bir \xc5\x9fey xo\xc5\x9f g\xc9\x99ld\xc9\x99rici verilm\xc9\x99si akti").
+entry(traktat, isim, [traktatlar], "mövzu haqqında rəsmi və sistematik yazılı hesab").
+entry(müqavilə, n, [müqavilələr], "iki və ya daha çox millət arasında rəsmi razılaşma").
+entry(treble, v, [üçqatladı,üçqatlama,üçqatlar], "üçqatlamaq").
+entry(trebly, adv, [], "üçqat").
+entry(trecento, n, [trecentos], "ondördüncü əsr").
+entry(treddle, v, [treddled, treddling, treddles], "pedallamaq üçün").
+entry(tree, v, [ağacladı,ağaclamaq,ağaclar], "uzun boylu ağac bitkisini sürmək").
+entry(agacli_cimen, n, [agacli_cimenler], "küçə ilə səki arasındakı çimli zolaq").
+entry(ağacsız, sif, [], "ağacı olmayan").
+entry(agacvarı, adj, [], "ağaca bənzəyən").
+entry(treeline, n, [ağac xətləri], "ağacların böyümədiyi şimal sərhədi").
+entry(treen, n, [taxta məqalələr], "ağacdan hazırlanmış bir məqalə").
+entry(taxta_minəy, n, [taxta_minəylər], "taxta parçalarını birləşdirmək üçün istifadə edilən taxta mıx").
+entry(agacustu, n, [agacustleri], "agacin ustu").
+entry(tref, sif, [], "Yəhudi qanunlarına görə istifadəyə yararsız").
+entry(trefah, sif, [], "tref").
+entry(trefoil, n, [üçyarpaq], "üç yarpaqlı bir bitki").
+entry(trehala, n, [trehalas], "bəzi kalifərin pupal qəfəsini təşkil edən şirin yeyilə bilən maddə").
+entry(trek, f, [treklədi,trekləyir,treklər], "yavaş və ya çətin bir səyahət etmək").
+entry(trekker, n, [trekkerlər], "trekking edən şəxs").
+entry(trellis, v, [dünyəmi, dünyəlirəm, dünyəlilər], "dünyəm ilə təmin etmək üçün istifadə olunan bir çərçivə ilə təmin etmək").
+entry(trem, n, [tremlər], "tremolo yaradan elektrik gitarası açarı").
+entry(titrəmək, f, [titrədi, titrəyir, titrəyər], "istəmədən titrəmək").
+entry(titrəyən, i, [titreyənlər], "titreyən kəs").
+entry(titrəmə, n, [titrəmələr], "yer titrəyişi").
+entry(trembly, sifət, [], "TİTRƏYƏN TİTRƏYƏN ƏN ÇOX titrəmə ilə xarakterizə olunur").
+entry(tremolo, n, [tremololar], "titrəyişli musiqi effekti").
+entry(titrəmə, v, [titrədi,titriyir,titrəmələr], "titəmə və ya titrəmə vəziyyətində olmaq").
+entry(trenail, n, [trenails], "ağac mıxı").
+entry(xəndək, f, [xəndəklədi, xəndəkləmə, xəndəklər], "torpaqda uzun və dar qazıntı etmək").
+entry(trencher, n, [trenchers], "qida təqdim etmək üçün taxta boşqab").
+entry(meyl, v, [meyilləndi,meyillənir,meyillənir], "müəyyən bir istiqamət götürmək".
+entry(trendify, f, [trendified,trendifying,trendifies], "bir şeyi dəbli etmək").
+entry(trendoid, n, [trendoidlər], "dəbli şəxs").
+entry(trend, sif, [], "ÇOX DƏBLI ƏN DƏBLIÇOX dəblidir TRENDİLİ müəyyən edir").
+entry(trendy, n, [trendies], "dəbli insan").
+entry(trepan, f, [trepanladı, trepanlama, trepanlar], "trepan etmək").
+entry(trepang, n, [trepanglar], "dəniz heyvanı").
+entry(trepan, v, [trepanladı,trepanlama,trepanlar], "cərrahi mişar ilə əməliyyat etmək").
+entry(trepid, sif, [], "qorxaq").
+entry(icazəsiz_girmək, v, [icazəsiz_girdi, icazəsiz_girir, icazəsiz_girir], "başqasının torpağına icazəsiz daxil olmaq").
+entry(tress, v, [hörülmüş,hörməktə,hörür], "saçı uzun hörüklərə düzəltmək").
+entry(tressel, n, [tressellər], "dayaq").
+entry(tressour, n, [tressours], "tressur").
+giriş(tressure, n, [tressures], "bir növ heraldik dizayn").
+entry(tressy, sif, [], "ÇOX ŞAX SAÇLI ƏN ŞAX SAÇLI Şax saçlarla bol").
+entry(trestle, n, [trestlər], "körpünü dəstəkləyən bir çərçivə").
+giriş(tret, n, [trets], "əvvəllər nəqliyyat zamanı meydana gələn tullantılar üçün alıcılara ödənilən müavinət").
+entry(trevally, n, [trevallies], "və ya TREVALLYS Avstraliya qida balığı").
+entry(trevet, n, [trevets], "tribet").
+entry(trews, npl, [], "dar şotland parçası şalvar").
+entry(trey, n, [treys], "kartlarda, zərlərdə və ya domino daşlarında üçlüy").
+entry(treyf, sif, [], "trayf").
+entry(treyfa, sif, [], "trayf").
+entry(məhkəməyəçəkilən, sif, [], "məhkəmə müayinəsinə tabe").
+entry(triac, n, [triaklar], "gücünü idarə etmək üçün istifadə olunan elektron cihaz").
+entry(trituren, n, [triturenlər], "bir növ turşu").
+entry(triactor, n, [triactors], "trifekta").
+entry(triada, n, [triadalar], "üç nəfərin qrupudur").
+entry(triadik, n, [triadiklər], "triada üzvü").
+entry(triadizm, n, [triadizmlər], "triad olma keyfiyyəti və ya vəziyyəti").
+entry(triaj, f, [triyaj etdi,triyaj edən,triyajlar], "fəlakət qurbanlarını müalicə etmək üçün bir sistem tətbiq etmək").
+entry(trial, v, [sınadı,sınayır,sınaqlar], "və ya SINAĞDAN KEÇƏN SINAQDAN KEÇİR SINAQLAR performansını qiymətləndirmək üçün bir şeyi sınamaq").
+entry(sınaqçı, n, [sınaqçılar], "bir şeyi sınaqdan keçirən şəxs").
+entry(üçbucaq, n, [üçbucaqlar], "üç tərəfi olan çoxbucaqlı").
+entry(triarxiya, n, [triarxiyalar], "üç şəxsin hakimiyyəti").
+entry(triaksial, sif, [], "üç oxlu").
+entry(triazin, n, [triazins], "triazin").
+entry(triazine, n, [triazines], "kimyəvi birləşmə").
+entriya(triazol, n, [triazollar], "kimyəvi bir maddə").
+entry(tribad, n, [tribadlar], "lezbiyanTRİBADİK adj").
+entry(qəbilə, n, [qəbilələr], "Hindistanın aborigen xalqlarından birinin üzvü").
+entry(tribally, adv, [], "bir qəbiləyə xas olan bir şəkildə").
+giris(tribasic, sif, [], "üç əvəzlənə bilən hidrogen atomuna malik olan").
+entry(qəbilə, n, [qəbilələr], "ortaqlı ata-baba və mədəniyyəti paylaşan insanlar qrupu").
+entry(tribrax, n, [tribraxlar], "metrik ayaq növü").
+tribunal(lən, [məhkəmələr], "ədalət məhkəməsi").
+entry(tribun, n, [tribunlar], "xalqın hüquqlarının müdafiəçisi").
+entry(tribut, n, [tributlar], "hörmət, minnətdarlıq və ya heyranlığı göstərmək üçün verilən bir şey").
+entry(trice, v, [triced,tricing,trices], "ip ilə qaldırmaq").
+entry(triceps, n, [triseps], "triseps əzələ").
+entry(triseps, n, [trisepslər], "qol əzələsi").
+entry(trixina, n, [trixinlər], "və ya TRICHINAE parazitik qurd").
+entry(trixit, n, [trixitlər], "vulkanik süxurlarda tapılan kiçik mineral cismin").
+entry(trixoid, sifət, [], "saçabənzər").
+entry(trixom, n, [trixomlar], "tüklü çıxıntı").
+entry(tricing, indiki, [], "trice-in iştirakçı forması").
+entry(tricity, n, [tricities], "bir-birinə bitişik üç müstəqil şəhəri əhatə edən bir ərazi").
+entry(trick, v, [tricked,tricking,tricks], "aldatmaq").
+giriş(kələkbaz, n, [kələkbazlar], "aldadan biri").
+entry(hiylə, n, [hiylələr], "aldatma").
+giris(trickie, sif, [], "TRICKIER TRICKIESTtricky").
+entry(trickier, müqayisəli, [], "çətin olan").
+entry(ən_çətin, superlative, [], "çətin olanın").
+entry(trickily, adv, [], "məkrli bir şəkildə").
+entry(trickish, sif, [], "çətin").
+entry(axmaq, v, [axdı,axan,axır], "damcı şəklində axmaq").
+entry(trickly, sif, [], "SIZDIRAN SIZDIRACAQ ən çox qeyd edilən").
+entry(tricksy, sif, [], "Ən TƏLƏSİK DƏCƏL SƏBƏBLİ").
+entry(məkrli, sif, [], "MƏKRLIYİN MƏKRLI characterized by deception").
+entry(triklad, n, [trikladlar], "suvaşan yastı qurd").
+entry(trikolor, n, [trikolorlar], "üç rəngli bayraq").
+entry(trikorn, n, [trikornlar], "üç tərəfi yuxarı qatlanmış kənarlı bir şlyapa").
+entry(tricorn, n, [üçbuçaqşəkillilər], "üçbuçaqşəkilli").
+entry(trikotaj, n, [trikotajlar], "toxunmuş parça").
+giriş(trictrac, i, [trictraclar], "nərd oyununun bir növü").
+```prolog
+entry(tricycle, v, [tricycled,tricycling,tricycles], "üç təkərli nəqliyyat vasitəsi sürməkTRIDENT n pl TRIDENTSÜç dişli nizəTRIDUUM n pl TRIDUUMÜç gün davam edən dua müddətiTRIED try feli keçmiş zamanıTRIENE n pl TRIENEKimyəvi birləşmə tipiTRIENNIA npl Üç illik dövrlərTRIENS n pl TRIENTESQədim Roma sikkəsiTRIER n pl TRIERSsınayan kimsəTRIES try feli indiki üçüncü şəxsiTRIETHYL adj Üç etil qrupu ehtiva edənTRIFECTA n pl TRIFECTABahis sistemiTRIFFID n pl TRIFFIDUydurma yırtıcı bitkiTRIFID adj Üç hissəyə bölünmüşTRIFLE v TRIFLED TRIFLING TRIFLESZamanı israf etməkTRIFLER n pl TRIFLERSZamanı israf edən kimsəTRIFLING n pl TRIFLINGSZaman itkisiTRIFOCAL n pl TRIFOCALSÇoxsaylı linza tipiTRIFOLD adj Üç hissəliTRIFORIA npl Kilsədəki qalereyalarTRIFORM adj Üç forması olanTRIG adj TRIGGER TRIGGESTDüzgünTRIG v TRIGGED TRIGGING TRIGSDüzgün etməkTRIGAMY n pl TRIGAMIESeyni zamanda üç nəfərlə evli olma cinayətiTRIGGER v TRIGGERED TRIGGERING TRIGGERSTələffüz etməkTRIGLY adv Düzgün bir şəkildəTRIGLYPH n pl TRIGLYPHMemarlıq ornamentiTRIGNESS n pl TRIGNESSEDüzgünlük vəziyyətiTRIGO n pl TRIGOTBuğdaTRIGON n pl TRIGONQədim musiqi alətiTRIGONAL adj Üçbucaq formasındaTRIGRAM n pl TRIGRAMÜç ardıcıl hərfin qrupuTRIGRAPH n pl TRIGRAPHBir səsi təmsil edən üç hərf qrupuTRIHEDRA npl Üç düz səthə malik fiqurlarTRIJET n pl TRIJETÜç reaktiv mühərrikli təyyarəTRIKE n pl TRIKEÜç təkərli nəqliyyat vasitəsiTRILBY n pl TRILBYYumşaq keçə şlyapaTRILBIED adjTRILITH n pl TRILITHÜç böyük daşdan ibarət olan qədim tikiliTRILL v TRILLED TRILLING TRILLSEffektli qışqırmaq və ya oxumaqTRILLER n pl TRILLERSQışqıran kimsəTRILLION n pl TRILLIONRəqəmTRILLIUM n pl TRILLIUMÇiçəkləyən bitkiTRILOBAL adj Üç ləçəkliTRILOBED adj Üç ləçəkliTRILOGY n pl TRILOGYÜç ədəbiyyat əsəri qrupuTRIM adj TRIMMER TRIMMESTTəmiz və nizamlıTRIM v TRIMMED TRIMMING TRIMSKəsərək nizamlamaqTRIMARAN n pl TRIMARANGəmi təkəri_TRIMER n pl TRIMERKimyəvi birləşməTRIMERIC adjTRIMETER n pl TRIMETERÜç metrik ayaq ayəsiTRIMLY adv Düzgün bir şəkildəTRIMMED TRIM feli keçmiş zamandaTRIMMER n pl TRIMMERKəsən kimsəTRIMMEST adj TRIM-adj superlative formaTRIMMING n pl TRIMMINGDekorasiya əlavə olaraq təchiz edənTRIMNESS n pl TRIMNESESDüzgünlük vəziyyətiTRIMORPH n pl TRIMORPHSÜç formaya malik maddəTRIMOTOR n pl TRIMOTORÜç motorlu təyyarəTRIMPOT n pl TRIMPOTKiçik alət gərginlik və ya müqavimət tənzimləyənTRINAL adj Üç hissədən ibarətTRINARY adj Üç hissəliTRINDLE v TRINDLED TRINDLING TRINDLESFırlanmaqTRINE v TRINED TRINING TRINEBelirli astroloji mövqedə yerləşdirməkTRINITY n pl TRINITYÜçlü bir qrupTRINKET v TRINKETED TRINKETTING TRINKETSgizli dəllal getməkTRINKUMS npl Kiçik bəzəklərTRINODAL adj Üç düyünlüTRIO n pl TRIOÜç nəfərlik qrupTRIODE n pl TRIODHərəkət devrəsiTRIOL n pl TRIOLKimyəvi birləşməTRIOLET n pl TRIOLETQısa sabit formalı şeirTRIOSE n pl TRIOSETək sadə şəkərTRIOXID n pl TRIOXIDTRİOKSİDOURTRİOKSİDE n pl TRIOXIDEoksid tipiTRIP v TRIPPED TRIPPING TRIPSÜzərində ayaq basmaqTRIPACK n pl TRIPACKFilm paketiTRIPART adj Üç hissəliTRIPE n pl TRIPERuminantın mədəniTRIPEDAL adj Üç ayaqlıTRIPHASE adj Üç fazalıTRIPLANE n pl TRIPLANEUçan təyyarə tipiTRIPLE v TRIPLED TRIPLİNG TRIPLEDəkçəl Təcrübə istifadə etməTRIPLET n pl TRIPLETÜçdən bir birləşməTRIPLEX v TRIPLEXED TRIPLEXING TRIPLEXÜçqat bir şey əlavə etməkTRIPLITE n pl TRIPLITEMineralTRIPLOID n pl TRIPLOIDÜç xəttəlürTA_ Üçqat dərəcə istifadə olunma üsuluTRIPMAN n pl TRIPMANMüsafi işə qəbul edilən kişiTRIPOD n pl TRIPODÜç ayaqlı ayaqTRIPODAL TRIPODIC adjTRIPODY n pl TRIPODYTRIPOL n pl TRIPOLSoft rubanlaşa bilər qayaTRIPOS n pl TRIPOSTripodTRIPPANT adj GəzənTRIPPED TRIP feli keçmiş zamandaTRIPPER n pl TRIPPERDəllal edənTRİPPET n pl TRİPPETZərbə edən hissəTRIPPING n pl TRIPPINGDəllaliyə edənTRİPPY adj TRİPPİESTVəziyyət ehtiva edənTRİPTAN n pl TRİPTANMiqren hücumları üçün dərmanTRİPTANE n pl TRİPTANKimyəvi birləşməTRIPTYCA n pl TRIPTYCANəzər tərəfiTRIPTYCH n pl TRIPTYCHsQədim yazı lövhəsiTRIPWIRE n pl TRIPWIREErkən salamı və ya tələni işə başlanaya qoyan aşağı quraşdırılmış kordonTRIREME n pl TRIREMElQədim Yunan və Roma döyüş təyyarəsiTRISCELE n pl TRISCELEÜç şaxəli şəklüTRISECT v TRISECTED TRISECTING TRISECTÜç bərabər hissəyə bölməkTRISEME n pl TRISEMETritonychTRISEMIC adjTRISHAW n pl TRISHAWTriqapTRISKELE n pl TRISKELEÜç mərkəzi şaxəli şəkilTRISMUS n pl TRISMUSKilidlilikTRISMIC adjTRISOMY n pl TRISOMİÜç kemer olan orqanizmTRISMUS n pl TRISMUSERTRISTEZA n pl TRISTEZAçitrus ağacında xəstəlikTRISCELE n pl TRISCELEÜç saphəli şəkilTRISECT v TRISECTED TRISECTING TRİSECTüç bərabər hissəyə bölməkTROAK v TROAKED TROAKING TROAK-mübadilə etTRITOR n pl TRISCELECanlı üç sarı päqarReqTRIT h pl TRITon hontwiDA_ TRIPOTAL adjÜç atlayışla əlaqədarTRITE adj TRing VƏ ƏVVəllər çox istifadə olunduğuna görə adi bir hale getrilmişTRO ACKTO adj HƏqiqətCOghət deSHTOL avangkd peTRO_ VA aTROANKSM"TRIMLEZ n pl TRILEÚərin TRIMTrann TUKS"TRÆİCKDoşktniU mitdv limrik dəAL ücre Off thaTRIMI- alik mærbuNATKıTRİC PL falaŞİROTRIŞERE_ da minä TIVinciPTTE"VURDICT atorTROLST ER keyoLILL _Ç a idiav kimyoTORMİM SkikDIMWAUZ işça _trez TÎON krRausar¨Yma”.)")). nq pm hansESIT atâðafiTfET okuIR_.). "))odata") ```
+entry(uakari, n, [uakaris], "Cənubi Amerika meymunu olan uakari")
+entry(following, is, [], "özünü izah edən sifətlərin və 'UN' prefiksi ilə başlayan zərflərin siyahısı, onların arasında: UNABATED adjUNABLE adjUNABUSED adjUNACIDIC adjUNACTED adjUNADDED adjUNADEPT adjUNADULT adjUNAFRAID adjUNAGED adjUNAGEING adjUNAGILE adjUNAGING adjUNAGREED adjUNAIDED adjUNAIMED adjUNAIRED adjUNAKIN adjUNALIKE adjUNALLIED adjUNAMAZED adjUNAMUSED adjUNAPT adjUNAPTLY advUNARCHED adjUNARGUED adjUNARTFUL adjUNASKED adjUNATONED adjUNAVOWED adjUNAWAKE adjUNAWAKED adjUNAWARE adjUNAWED adjUNAXED adjUNBACKED adjUNBAKED adjUNBANDED adjUNBANNED adjUNBARBED adjUNBASED adjUNBASTED adjUNBATHED adjUNBEATEN adjUNBENIGN adjUNBIASED adjUNBILLED adjUNBITTED adjUNBITTEN adjUNBITTER adjUNBLAMED adjUNBLEST adjUNBLOODY adjUNBOBBED adjUNBOILED adjUNBONDED adjUNBONED adjUNBOOTED adjUNBORN adjUNBOUGHT adjUNBOUNCY adjUNBOWED adjUNBOWING adjUNBRED adjUNBRIGHT adjUNBROKE adjUNBROKEN adjUNBULKY adjUNBURNED adjUNBURNT adjUNBUSTED adjUNBUSY adjUNCALLED adjUNCANDID adjUNCANNED adjUNCARDED adjUNCARING adjUNCARTED adjUNCARVED adjUNCASHED adjUNCASKED adjUNCAST adjUNCATCHY adjUNCAUGHT adjUNCAUSED adjUNCEDED adjUNCHARY adjUNCHASTE adj UNCHASTER UNCHASTESTUNCHEWED adjUNCHIC adjUNCHICLY advUNCHOSEN adjUNCIVIL adjUNCLASSY adjUNCLAWED adjUNCLEAN adj UNCLEANER UNCLEANESTUNCLEAR adj UNCLEARER UNCLEARESTUNCLEFT adjUNCLOUDY adjUNCLOYED adjUNCOATED adjUNCODED adjUNCOINED adjUNCOMBED adjUNCOMELY adjUNCOMIC adjUNCOMMON adj UNCOMMONER UNCOMMONESTUNCOOKED adjUNCOOL adjUNCOOLED adjUNCOUTH adjUNCOY adjUNCRAZY adjUNCREWED adjUNCUFFED adjUNCURED adjUNCURSED adjUNCUT adjUNCUTE adjUNDAMPED adjUNDARING adjUNDATED adjUNDECKED adjUNDENIED adjUNDENTED adjUNDEVOUT adjUNDIMMED adjUNDOABLE adjUNDOCILE adjUNDOTTED adjUNDREAMT adjUNDRIED adjUNDUBBED adjUNDULLED adjUNDYED adjUNEAGER adjUNEARNED adjUNEATEN adjUNEDIBLE adjUNEDITED adjUNENDED adjUNENDING adjUNENVIED adjUNERASED adjUNEROTIC adjUNERRING adjUNEVADED adjUNEVEN adj UNEVENER UNEVENESTUNEVENLY advUNEXOTIC adjUNEXPERT adjUNFADED adjUNFADING adjUNFAIR adj UNFAIRER UNFAIRESTUNFAIRLY advUNFAKED adjUNFALLEN adjUNFAMOUS adjUNFANCY adjUNFAZED adjUNFEARED adjUNFED adjUNFELT adjUNFELTED adjUNFILIAL adjUNFILLED adjUNFILMED adjUNFIRED adjUNFISHED adjUNFLASHY adjUNFLAWED adjUNFLEXED adjUNFLUTED adjUNFOILED adjUNFOND adjUNFORCED adjUNFORGED adjUNFORKED adjUNFORMED adjUNFOUGHT adjUNFOUND adjUNFRAMED adjUNFUNDED adjUNFUNNY adj UNFUNNIER UNFUNNIESTUNFUSED adjUNFUSSY adj UNFUSSIER UNFUSSIESTUNGALLED adjUNGARBED adjUNGATED adjUNGAZING adjUNGELDED adjUNGENIAL adjUNGENTLE adjUNGENTLY advUNGIFTED adjUNGIVING adjUNGLAZED adjUNGOWNED adjUNGRACED adjUNGRADED adjUNGREEDY adjUNGROUND adjUNGUIDED adjUNHAILED adjUNHALVED adjUNHAPPY adj UNHAPPIER UNHAPPIESTUNHARMED adjUNHASTY adjUNHEALED adjUNHEARD adjUNHEATED adjUNHEDGED adjUNHEEDED adjUNHELPED adjUNHEROIC adjUNHEWN adjUNHIP adj UNHIPPER UNHIPPESTUNHIRED adjUNHOLILY advUNHOLY adj UNHOLIER UNHOLIESTUNHUMAN adjUNHUNG adjUNHURT adjUNIDEAL adjUNIMBUED adjUNIRONED adjUNIRONIC adjUNISSUED adjUNJADED adjUNJOINED adjUNJOYFUL adjUNJUDGED adjUNJUST adjUNJUSTLY advUNKEELED adjUNKEPT adjUNKIND adj UNKINDER UNKINDESTUNKINDLY adv UNKINDLIER UNKINDLIESTUNKINGLY adjUNKISSED adjUNKOSHER adjUNLAWFUL adjUNLEASED adjUNLED adjUNLETHAL adjUNLETTED adjUNLEVIED adjUNLICKED adjUNLIKE adjUNLIKED adjUNLIKELY adj UNLIKELIER UNLIKELIESTUNLINED adjUNLISTED adjUNLIT adjUNLIVELY adjUNLOBED adjUNLOVED adjUNLOVELY adj UNLOVELIER UNLOVELIESTUNLOVING adjUNLUCKY adj UNLUCKIER UNLUCKIESTUNMACHO adjUNMAILED adjUNMANFUL adjUNMANLY adj UNMANLIER UNMANLIESTUNMAPPED adjUNMARKED adjUNMARRED adjUNMATED adjUNMATTED adjUNMEANT adjUNMELLOW adjUNMELTED adjUNMENDED adjUNMERRY adjUNMET adjUNMILLED adjUNMINED adjUNMODISH adjUNMOLTEN adjUNMOVED adjUNMOVING adjUNMOWN adjUNNAMED adjUNNEEDED adjUNNOISY adjUNNOTED adjUNOILED adjUNOPEN adjUNOPENED adjUNORNATE adjUNOWNED adjUNPADDED adjUNPAID adjUNPAIRED adjUNPARTED adjUNPAVED adjUNPAYING adjUNPEELED adjUNPITIED adjUNPITTED adjUNPLACED adjUNPLAYED adjUNPLIANT adjUNPLOWED adjUNPOETIC adjUNPOISED adjUNPOLITE adjUNPOLLED adjUNPOSED adjUNPOSTED adjUNPOTTED adjUNPRETTY adjUNPRICED adjUNPRIMED adjUNPRIZED adjUNPROBED adjUNPROVED adjUNPROVEN adjUNPRUNED adjUNPURE adjUNPURELY advUNPURGED adjUNQUIET adj UNQUIETER UNQUIETESTUNRAISED adjUNRAKED adjUNRANKED adjUNRATED adjUNRAZED adjUNREAD adjUNREADY adj UNREADIER UNREADIESTUNREAL adjUNREALLY advUNRENTED adjUNREPAID adjUNRESTED adjUNRHYMED adjUNRIBBED adjUNRIDDEN adjUNRIFLED adjUNRIMED adjUNRINSED adjUNRISEN adjUNROPED adjUNROUGH adjUNRULED adjUNRUSHED adjUNRUSTED adjUNSAFE adj UNSAFER UNSAFESTUNSAFELY advUNSALTED adjUNSATED adjUNSAVED adjUNSAVORY adjUNSAWED adjUNSAWN adjUNSCALED adjUNSEARED adjUNSEEDED adjUNSEEING adjUNSEEMLY adj UNSEEMLIER UNSEEMLIESTUNSEEN adjUNSEIZED adjUNSENT adjUNSERVED adjUNSEXUAL adjUNSEXY adj UNSEXIER UNSEXIESTUNSHADED adjUNSHAKEN adjUNSHAMED adjUNSHAPED adjUNSHAPEN adjUNSHARED adjUNSHARP adjUNSHAVED adjUNSHAVEN adjUNSHED adjUNSHOD adjUNSHORN adjUNSHOWY adjUNSHRUNK adjUNSHUT adjUNSIFTED adjUNSIGNED adjUNSILENT adjUNSINFUL adjUNSIZED adjUNSLAKED adjUNSLICED adjUNSLICK adjUNSMART adjUNSMOKED adjUNSOAKED adjUNSOBER adjUNSOCIAL adjUNSOILED adjUNSOLD adjUNSOLID adjUNSOLVED adjUNSORTED adjUNSOUGHT adjUNSOUND adj UNSOUNDER UNSOUNDESTUNSOURED adjUNSOWED adjUNSOWN adjUNSPENT adjUNSPILT adjUNSPLIT adjUNSPOILT adjUNSPRUNG adjUNSPUN adjUNSTABLE adj UNSTABLER UNSTABLESTUNSTABLY advUNSTEADY adj UNSTEADIER UNSTEADIESTUNSTONED adjUNSTUFFY adjUNSTUNG adjUNSUBTLE adjUNSUBTLY advUNSUITED adjUNSUNG adjUNSUNK adjUNSURE adjUNSURELY advUNSWAYED adjUNSWEPT adjUNTAGGED adjUNTAKEN adjUNTAME adjUNTAMED adjUNTANNED adjUNTAPPED adjUNTASTED adjUNTAXED adjUNTENDED adjUNTESTED adjUNTHAWED adjUNTIDILY advUNTIDY adj UNTIDIER UNTIDIESTUNTILLED adjUNTILTED adjUNTIMED adjUNTIMELY adj UNTIMELIER UNTIMELIESTUNTINGED adjUNTIPPED adjUNTIRED adjUNTIRING adjUNTITLED adjUNTOLD adjUNTORN adjUNTRACED adjUNTRENDY adjUNTRIED adjUNTRUE adj UNTRUER UNTRUESTUNTRULY advUNTRUSTY adjUNTUFTED adjUNTURNED adjUNUNITED adjUNURGED adjUNUSABLE adjUNUSED adjUNUSUAL adjUNVALUED adjUNVARIED adjUNVEINED adjUNVERSED adjUNVESTED adjUNVEXED adjUNVEXT adjUNVIABLE adjUNVOCAL adjUNWALLED adjUNWANING adjUNWANTED adjUNWARIER comparative of unwaryUNWARIEST superlative of unwaryUNWARILY advUNWARMED adjUNWARNED adjUNWARPED adjUNWARY adj UNWARIER UNWARIESTUNWASTED adjUNWAXED adjUNWEANED adjUNWEARY adjUNWED adjUNWEDDED adjUNWEEDED adjUNWELDED adjUNWELL adjUNWEPT adjUNWET adjUNWETTED adjUNWHITE adjUNWIELDY adj UNWIELDIER UNWIELDIESTUNWIFELY adjUNWILLED adjUNWISE adj UNWISER UNWISESTUNWISELY advUNWON adjUNWOODED adjUNWOOED adjUNWORKED adjUNWORN adjUNWORTHY adj UNWORTHIER UNWORTHIESTUNWRUNG adjUNYOUNG adjUNZONED adj").
+```prolog
+entry(vac, n, [vacs], "tozsoran"). 
+```
+entry(waah, interj, [], "fəryad ifadə etmək üçün istifadə olunur").
+entry(wab, n, [wabs], "veb").
+entry(wabble, v, [wabbled,wabbling,wabbles], "yalpalanmaq").
+entry(wabbler, n, [wabblerlər], "tərəddüd edən biri").
+entry(wabbly, sif, [], "WABBLIER WABBLIESTtəlatümlü").
+entry(wack, sif, [], "ÇOX PİS WACKER WACKEST").
+entry(wack, n, [wacks], "dəli bir adam").
+entry(wacke, n, [wackes], "bazalt tipli bir qaya növü").
+entry(çırpılmış, sif, [], "whacked").
+entry(wacko, n, [dəlinlər], "və ya DƏLİNİa qəribə insan").
+entry(wacky, adj, [], "ÇOX İRRASİONALWACKILY adv WACKIER WACKIEST").
+entry(wad, v, [wadded,wadding,wads], "yumşaq materialdan kiçik kütlə şəklində toplamaq").
+entry(keçiləbilən, sif, [], "wadeable").
+entry(wadder, n, [qatlayıcılar], "qatlayan biri").
+entry(waddie, n, [waddies], "kovboy").
+entry(waddied, keçmiş, [], "waddy felinin keçmiş zamanda forması").
+entry(waddies, indiki, [], "waddy felinin 3-cü şəxs tək").
+entry(wadding, n, [yastiqciqlar], "bir dolgu").
+entry(yırğalanmaq, f, [yırğalandı,yırğalanır,yırğalanır], "qısa yırğalanan addımlarla gəzmək").
+entry(səndələyən, n, [səndələyənlər], "səndələyən şəxs").
+entry(waddly, sifət, [], "səndələyərək gəzmə xüsusiyyətinə malik olan").
+entry(waddy, v, [waddied,waddying,waddies], "qalın dəyənəklə zərbə endirmək").
+entry(wade, v, [suda gəzmək, suda gəzir, suda gəzdi], "suda gəzmək").
+entry(keçmək, sif, [], "suda keçərək keçilə bilən").
+entry(wader, n, [waders], "suda gəzən").
+entry(vadi, n, [vadilər], "adətən quru olan su axının yatağı").
+entry(wadies, pl, [], "vadi").
+entry(gəzərkən, hazırki zaman, [], "gəzib dolaşmaq feli sifəti").
+entry(wadmaal, n, [wadmaals], "vadmal").
+entry(wadmal, n, [wadmals], "qalın yun parça").
+entry(wadmel, n, [wadmels], "vadmal").
+entry(wadmol, n, [wadmols], "vadmal").
+entry(wadmoll, n, [wadmollar], "vadmal").
+entry(wadset, v, [wadset, wadsetting, wadsets], "ipoteka etmək").
+entry(wadi, n, [vadi], "vadi").
+entry(wae, n, [waes], "qəm").
+entry(kədərli, sifət, [], "woeful").
+entry(waeness, n, [waenesses], "kədər").
+entry(waesuck, əvəzlik, [], "waesucks").
+entry(heyfslər, interj, [], "rəhmət göstərmək üçün istifadə olunur").
+entry(wafer, v, [wafered,wafering,wafers], "yapışqan disk ilə möhürləmək").
+entry(wafery, sif, [], "vaflini xatırladan nazik xırtıldayan biskvit").
+entry(waff, v, [waffed, waffing, wafflar], "dalğalanmaq").
+entry(waffie, n, [waffies], "avara").
+entry(vafli, v, [vafli_vuruldu,vafli_edilirkən,vaflilər], "qeyri-müəyyən və ya qərarsız danışmaq").
+entry(vafliçi, n, [vafliçilər], "vaflilər hazırlayan biri").
+entry(heyhat isə-güman etmə, n, [heyhat isə-güman etmələr], "qətiyyətsiz bəyanat və ya mövqe").
+entry(waffly, sif, [], "WAFFLIER WAFFLIESTqərarsız").
+entry(waft, v, [wafted,wafting,wafts], "havada və ya suda yüngülcə daşımaq").
+entry(dalgalanma, n, [dalgalanmalar], "dalğalanma hərəkəti").
+entry(wafter, n, [wafters], "üfıləyən biri").
+entry(wafture, n, [waftures], "hava axını").
+entry(wag, v, [wagged,wagging,wags], "tez-tez yuxarı-aşağı və ya ora-bura hərəkət etmək").
+məlumat(əməkhaqqı, f, [əməkhaqqılı,əməkhaqqıalma,əməkhaqları], "məğşul olmaq və ya yerinə yetirmək").
+entry(wageless, sif, [], "ödənişsiz").
+entry(wager, v, [wagered,wagering,wagers], "naməlum nəticəyə risk etmək").
+entry(mərcçi, n, [mərcçilər], "mərc qoyan şəxs").
+entry(qumar, n, [qumarlar], "naməlum nəticə üzərində nəyinsə riski").
+entry(tərpətdi, keçmiş, [], "tərpətmək zaman").
+entry(wagger, n, [waggers], "bulayan").
+entry(əyləncə, n, [əyləncələr], "şən davranış").
+entry(wagging, indiki, [], "wagın feli sifəti").
+entry(waggish, sifət, [], "oynağıcı gülməli").
+entry(waggle, f, [waggled,waggling,waggles], "yelləmək").
+entry(waggly, sif, [], "WAGGLIER WAGGLIESTsabit olmayan").
+entry(vaqon, v, [vaqonladı, vaqonlama, vaqonlar], "vaqon etmək").
+entry(waggoner, n, [arabalar], "araba sürücüsü").
+entry(müharibə aparma, indiki, [], "müharibə aparmaq feli sifəti").
+entry(araba, v, [arabalanmış,arabalanma,araba], "dördtəkərli atın çəkdiyi nəqliyyat vasitəsi ilə daşımaq").
+entry(vaqonlaşıq, n, [vaqonlaşmalar], "vaqonla daşınma").
+entry(arabaçı, n, [arabacılar], "araba sürən biri").
+entry(wagsome, sif, [], "yaramaz").
+entry(tutuquşu, n, [tutuquşular], "bir mahnı quşu").
+entry(wahconda, n, [wahcondalar], "vakanda").
+entry(wahine, n, [wahines], "havaylı qadın").
+entry(wahoo, n, [wahoos], "çiçəkli bir kol").
+entry(waif, v, [atılmış, atmaqda, atır], "atmaq").
+entry(arıq, sif, [], "ariqkovlu").
+entry(bənzərsiz, adj, [], "sahibsiz bir uşağa bənzəyən").
+entry(ağı, v, [ağladı,ağlamaq,ağlar], "uzun və hüznlü bir fəryad etmək").
+entry(ulayan, n, [ulayanlar], "ulayan biri").
+entry(wailful, sif, [], "yaslı").
+entry(wailsome, sif, [], "wailful").
+entry(wain, n, [wainlər], "böyük açıq araba").
+entry(wainscot, v, [wainscoted,wainscoting,wainscots], "və ya WAINSCOTTED WAINSCOTTING WAINSCOTS divarları ağac paneli ilə astarlamaq").
+entry(wair, v, [waired,wairing,wairs], "xərcləmək").
+entry(bel, n, [bellər], "qabar arasında və ombasının arasındakı bədənin hissəsiWAISTED sifət").
+entry(waister, n, [waisters], "gəminin orta hissəsində yerləşən dənizçi").
+entry(bel, n, [bellər], "paltar hazırlığı materialının növü").
+giriş(gozle, v, [gozledi,gozleyen,gozləyir], "gözlədikdə qalmaq").
+entry(ofisiant, v, [ofisiantlıq etdi, ofisiantlıq etməkdə, ofisiantlar], "restoranda kişi ofisiant kimi işləmək").
+entry(gözləmə, n, [gözləmələr], "gözləyən birinin əməli").
+entry(gozləmə_siyahısı, v, [gozləmədədir, gozləyir, gozləmə_siyahıları], "gözləyən şəxslərin siyahısına yerləşdirmək").
+entry(qarson, v, [qarsonluq etdi,qarsonluq edir,qarsonluq edər], "restoranda qadın ofisiant olaraq işləmək").
+entry(ofisiant, n, [ofisiantlar], "restoranda xidmətçi").
+entry(imtina_etmək, v, [imtina_etdi,imtina_edərkən,imtina_edir], "qəsdən əl çəkmək").
+entry(imtina, n, [imtinalar], "bir şeydən imtina etmə hərəkəti").
+entry(wakame, n, [wakamelər], "Asiyaya məxsus qəhvəyi dəniz yosunu").
+entry(vakanda, n, [vakandalar], "Siuların inanclarında fövqəltəbii bir qüvvə").
+entry(oyan, v, [oyandı,oyanmış,uyanır], "OYANmaq üçün yuxudan oyatmaq").
+entry(ayıq, sif, [], "yatmayan və ya yata bilməyən").
+entry(wakeless, sif, [], "dəyməmiş  yuxu üçün istifadə olunur").
+entry(o‘yandırmaq, v, [oyandırdı,oyếtmə,oyandıra], "oyandırmaq üçün").
+entry(oюadan, n, [oyadanlar], "oyadan səbəb olan").
+entry(oyanma, n, [oyanma], "oyanan birinin hərəkəti").
+giriş(durdu, n, [duranlar], "oyadan biri").
+entry(wakerife, sif, [], "oyaq").
+entry(wakiki, n, [wakikilər], "Cənubi Dəniz adalarının qabıq pulu").
+entry(oyanmaq, n, [oyanmalar], "oyaq olmaq vəziyyəti").
+entry(wale, v, [waled,waling,wales], "şırımla işarələmək").
+entry(valer, n, [valerlər], "Avstraliyada yetişdirilən yəhər atı").
+entry(vali, n, [valilər], "Ərəb ölkəsində bir əyalətin qubernatoru").
+entry(walies, pl, [], "vali").
+entry(yürümək, f, [yürüdü,yürüməkdədir,yürüyür], "ayaqla irəliləmək").
+entry(walkaway, n, [walkaways], "asan qələbə").
+giriş(yürüyən, n, [yürüyənlər], "gəzən biri").
+entry(walkies, nida, [], "iti gəzintiyə çıxmağa çağırmaq üçün istifadə olunur").
+entry(yürümək, n, [yürümələr], "yürüyən birinin hərəkəti").
+entry(walkout, n, [tətil], "fəhlələrin tətili").
+entry(walkover, n, [walkoverlər], "bir keçid").
+giriş(walkup, n, [walkups], "lift olmayan bir mənzil binası").
+giriş(piyada_keçidi, n, [piyada_keçidləri], "gəzmək üçün keçid").
+entry(valkiriya, n, [valkiriyalar], "valkiriya").
+giriş(divar, f, [divarlı,divarlayan,divarlar], "bir ərazini əhatə etmək üçün inşa edilmiş şaquli bir quruluşla təmin etmək").
+entry(walla, n, [wallas], "valla").
+entry(volebi, n, [volebilər], "kiçik kenquru").
+entry(wallah, n, [wallahs], "müəyyən bir peşə və ya fəaliyyətlə məşğul olan şəxs").
+entry(wallaroo, n, [wallaroos], "böyük kenguru").
+giriş(cüzdan, n, [cüzdanlar], "yastı qatlanan çanta").
+entry(walley, n, [valilər], "fiqurlu konkisürmədə bir növ tullanış").
+giriş(zander, n, [zanderlər], "ağ buynuz qişası olan gözWALLEYED sif").
+entry(wallie, n, [wallies], "xidmətçi").
+entry(wallies, pl, [], "wally-nin").
+entry(döymək, f, [döydü,döyür,döyər], "yaxşıca döymək").
+entry(yumruqvuran, n, [yumruqvuranlar], "yumruq vuran şəxs").
+entry(gəzələnmək, v, [gəzələndi,gəzələnir,gəzələnər], "yuvarlanmaq").
+entry(divanə, n, [divanələr], "öz qüssəsində boğulan biri").
+entry(wally, n, [wallilər], "valı").
+qeyd(qoz, n, [qozlar], "yeyilə bilən qoz").
+entry(mors, n, [morslar], "dəniz məməlisi").
+entry(valis, v, [valislədi,valisləyir,valislər], "bal zalında rəqs etməyi yerinə yetirmək").
+entry(waltzer, n, [waltzerlər], "vals edən biri").
+entry(waly, n, [walies], "vizual olaraq xoş bir şey").
+entry(wamble, v, [wamblədi, wambləyir, wambləyirəm], "dayanıqsız hərəkət etmək").
+entry(wambly, adj, [], "WAMBLIER WAMBLIESTdüzgün olmayan").
+entry(wame, n, [wames], "qarın").
+entry(wamefou, n, [wamefous], "domaq").
+entry(wameful, n, [wamefuls], "wamefou").
+entry(wammus, n, [wammuslar], "vamus").
+entry(wampish, v, [wampished,wampishing,wampishes], "ətrafa atmaq").
+entrée(wampum, n, [wampumlar], "Amerika Yerliləri tərəfindən əvvəllər istifadə olunan bir valyuta növü").
+entry(wampus, n, [vampuslar], "vampus").
+entry(wamus, n, [wamuslar], "ağır üst gödəkçə").
+entry(wan, sif, [], "ÇOX SOLĞUN, SOLĞUNLUQ").
+entry(wan, v, [wanned,wanning,wans], "solğun olmaq").
+giriş(asa, n, [asalar], "incə bir çubuq").
+entry(gəzmək, v, [gəzdi,gəzən,gəzər], "məqsədsiz və ya istiqamətsiz hərəkət etmək").
+entry(gəzən, n, [gəzənlər], "gəzən birisi").
+entry(wanderoo, n, [vanderoos], "Asiya meymunu").
+entry(wandle, sif, [], "elastik").
+entry(azalmaq, v, [azaldı,azalan,azalır], "ölçüsündə və ya miqyasında azalmaq").
+entry(waney, sif, [], "WANIER WANIESTwany").
+entry(wangan, n, [wangans], "wanigan").
+entry(wangle, v, [yönəldildi,yönəldə,yönəldir], "bic vasitələrlə əldə etmək və ya nail olmaq").
+entry(wangler, n, [wanglerlər], "bir şeyi hiylə ilə əldə edən").
+entry(wangun, n, [wanguns], "vaqan").
+entry(wanier, müqayisəli, [], "waney və wany-nin").
+entry(waniest, superlative, [], "waney və wany haqqında").
+entry(wanigan, n, [waniganlar], "meşə materialı düşərgəsində istifadə olunan təchizat sandığı").
+entry(azalan, indiki, [], "wane'nin iştirak forması").
+entry(wanion, n, [wanions], "intiqam").
+entry(solğun, zərf, [], "solğun bir şəkildə").
+entry(wannabe, n, [wannabelər], "başqası kimi olmaq istəyən").
+entry(wannabee, n, [], "WANNABEESwannabe").
+entry(wanned, keçmiş, [], "anlamı: wan felinin keçmiş zamanı").
+entry(wanner, müqayisə, [], "of wan").
+entry(solğunluq, n, [solğunluqlar], "solğun olmanın keyfiyyəti").
+entry(wannest, əvəz olunmaz, [], "wanın").
+entry(wannigan, n, [wannigans], "vanikan").
+entry(soluxan, indiki, [], "solmaq feilinin məsdəri").
+entry(istəmək, v, [istədi, istəməkdə, istəyir], "arzulamaq").
+entry(wantage, n, [ehtiyaclar], "çatmayan bir şey").
+entry(istəyən, n, [istəyənlər], "istəyən şəxs").
+entry(əxlaqsız, v, [əxlaqsızlaşdı,əxlaqsızlaşmaqda,əxlaqsızlar], "əxlaqsız davranmaq").
+entry(wantoner, n, [wantonlar], "şıltaqlıq edən biri").
+entry(wantonly, adv, [], "əxlaqsızcasına").
+entry(wany, sif, [], "Bəzi yerlərdə zəifləyən").
+entry(wap, f, [wapped,wapping,waps], "bükmək").
+entry(wapiti, n, [wapitis], "böyük maral").
+entry(müharibə, v, [müharibə etdi, müharibə edir, müharibələr], "müharibəyə girmək, açıq silahlı qarşıdurma vəziyyəti").
+entry(warbird, n, [hərbi_quşlar], "köhnəlmiş hərbi təyyarə").
+entry(warble, v, [warbled,warbling,warbles], "melodik bəzəkli oxumaq").
+entry(mahnıçı, n, [mahnıçılar], "mahnı oxuyan").
+entry(warbly, sif, [], "TRILLƏR VƏ YA TƏLƏSMƏSİNƏ GÖRƏ SƏSLƏNDİRİLİR").
+entry(müharibəsənəti, n, [müharibəsənətləri], "müharibə sənəti").
+giriş(ward, v, [warded,warding,wards], "yayındırmaq").
+entry(mudir, n, [mudirler], "həbsxananın baş məmuru").
+entry(mühafizənin vəzifəsi, n, [mühafizənin vəzifələri], "mühafizənin vəzifəsi").
+entry(qaravul, n, [qaravullar], "nəyisə qoruyan şəxs").
+entry(wardless, sifət, [], "qıfıl qutusunun ward hissəsi olmayan").
+entry(female_warden, n, [female_wardens], "qadın mühafizəçi").
+entry(gardirob, n, [gardiroblar], "geyimlərin kolleksiyası").
+entry(qardirob, f, [qardiroblu,qardiroblama,qardiroblar], "geyim kolleksiyası ilə təmin etmək").
+entry(wardroom, n, [wardrooms], "hərbi gəmilərdə zabitlər üçün nahar otağı").
+entry(müvəqqəti qəyyumluq, n, [müvəqqəti qəyyumluqlar], "qəyyum nəzarəti altında olmaq vəziyyəti").
+entry(məhsul, f, [məhsulun,məhsulolma,məhsullar], "ehtiyatlı olmaq").
+entry(anbar_otağı, n, [anbar_otagları], "satış üçün malların nümayiş etdirildiyi otaq").
+entry(warez, n, [warez], "qanunsuz olaraq kopyalanmış proqram təminatı").
+entry(müharibə, n, [müharibələr], "müharibə ilə məşğul olma aktı").
+entry(varfarin, n, [varfarinlər], "kimyəvi birləşmə").
+entry(wargame, v, [wargamed,wargaming,wargames], "simulyasiya edilmiş hərbi münaqişələrdə iştirak etmək").
+entry(wargaming, n, [wargamers], "müharibə oyunları ilə məşğul olan").
+entry("döyüş başlığı", is, ["döyüş başlıqları"], "partlayan maddəni ehtiva edən raketin ön hissəsi").
+mədaxil(döyüş atı, n, [döyüş atları], "həddindən artıq səhnəyə qoyulmuş musiqili və ya dramatik əsər").
+entry(warier, müqayisəli, [], "of wary").
+entry(wariest, superlative, [], "ehtiyatlı").
+entry(ehtiyatla, adv, [], "ehtiyatlı bir şəkildə").
+entry(ehtiyatlılıq, n, [ehtiyatlılıqlar], "ehtiyatlı olma vəziyyəti").
+entry(waring, indiki, [], "waring-in feli sifəti").
+entry(warison, n, [warisons], "hücum çağırışı").
+entry(wark, v, [warked,warking,warks], "ağrılara dözmək").
+entry(savaşsız, sif, [], "müharibədən azad").
+entry(müharibəpərəst, sifət, [], "müharibəyə girməyə meyilli").
+entry(cadugər, n, [cadugərlər], "cadugər").
+entry("müharibə ağası", n, ["müharibə ağaları"], "qoşun igidliyi ilə tanınan bir millətin hərbi rəhbəri").
+entry(isti, sif, [], "İSTİ İSTİDİRən orta dərəcədə isti").
+entry(isti, v, [isindi, isinmə, isinir], "isti etmək").
+entry(müharibə edən, n, [müharibə edənlər], "müharibə edən biri").
+warmer(müəyyən_ediçi, n, [müəyyən_edicilər], "isidən").
+entry(isitmə, n, [isitmələr], "bir şeyi isti etmək aktı və ya nümunəsi").
+entry(istiçə yaxın, sif, [], "bir qədər isti").
+entry(isti şəkildə, zərf, [], "isti bir şəkildə").
+entry(istilik, n, [istikliklər], "isti olmaq vəziyyəti").
+entry(livermudçu, n, [livermudçular], "bir şirin su balığı").
+entry(istilik, n, [istiliklər], "isilik").
+entry(isinmə, n, [isinmələr], "hazırlıq məşqi və ya proseduru").
+entry(xəbərdarlıq et, v, [xəbərdar etdi,xəbərdarlıq,xəbərdar edir], "gözlənilən və ya mümkün təhlükədən xəbərdar etmək").
+entry(warner, n, [warners], "xəbərdarlıq edən").
+entry(xəbərdarlıq, n, [xəbərdarlıqlar], "xəbərdar edən bir şey").
+entry(warp, v, [warpildi,warpilmə,warpır], "şəkildən çıxmaq və ya bükülmək").
+entry(warpage, n, [warpages], "əyilmə hərəkəti").
+entry(warpaint, n, [müharibə boyaları], "döyüşdən əvvəl üz və bədəni bəzəmək üçün istifadə olunan boya").
+entry(hücum yolu, n, [hücum yolları], "hücum edən Amerika Yerliləri tərəfindən tutulan marşrut").
+entry(warper, n, [warpers], "əyən").
+entry(qırıcı, n, [qırıcılar], "döyüş üçün silahlanmış təyyarə").
+entry(müharibə_gücü, n, [müharibə_gücləri], "müharibə etmək gücü").
+entry(warpwise, zərf, [], "şaquli istiqamətdə").
+entry(warragal, n, [warragals], "vahşi it").
+entry(order, v, [əmr etdi, əmrlər verir, əmr verir], "səlahiyyət vermək").
+entry(zəmanət, f, [zəmanət edilmiş,zəmanət edilməsi,zəmanətlər], "yazılı zəmanət təmin etmək").
+entry(warred, keçmiş, [], "döyüşün hansı zamanıdır").
+entry(warren, n, [warrens], "dovşanların yaşadığı və çoxaldığı yer").
+entry(warrener, n, [dəvə yalnızları], "bir dəvə yalnızının gözətçisi").
+entry(ulart, n, [ulartlar], "bir dingo").
+entry(müharibə edən, indiki, [], "müharibə etmək felinin indiki participi").
+entry(döyüşçü, n, [döyüşçülər], "müharibədə iştirak edən və ya təcrübəli olan şəxs").
+entry(varşava, n, [varşavalar], "dəniz balığı").
+entry("döyüş gəmisi", n, ["döyüş gəmiləri"], "döyüş üçün silahlanmış gəmi").
+entry(warsle, v, [warsled,warsling,warsles], "güləşmək").
+entry(gulesci, n, [gulescilər], "güləşçi").
+entry(güləşmək, f, [güləşdi,güləşir,güləşər], "to wrestle").
+entry(warstler, n, [warstlers], "güləşçi").
+entry(siqil, n, [siqillar], "dərinin üstündəki çıxıntıSİQİLLİ adj").
+entry(vəhşi donuz, n, [vəhşi donuzlar], "Afrika vəhşi donuzu").
+entry(wartier, comparative, [], "daha ziyilli").
+entry(wartiest, superlative, [], "warty-nin").
+entry(müharibə_zamanı, n, [müharibə_zamanları], "müharibə dövrü").
+entry(wartless, sif, [], "zirəksiz").
+entry(siqilə bənzəyən, sif, [], "siqilə bənzəyən").
+entry(warty, sif, [], "WARTIER WARTIESTsədəflərlə örtülmüş").
+entry(müharibə_əmək, n, [müharibə_əməkları], "müharibə dövründə görülən işlər").
+entry(warworn, sif, [], "müharibənin təsirlərini göstərən").
+entry(ehtiyatlı, adj, [], "DAHA EHTİYATLI ƏN EHTİYATLI").
+entry(was, 1-ci, [], "olmaq" felinin keçmiş zamanında 3-cü şəxsin təkində işlənmiş forması).
+entry(vasabi, n, [vasabilər], "kəskin ot").
+entry(yumaq, v, [yudu,yuyur,yuyur], "suya batıraraq və ya maye tətbiq edərək təmizləmək").
+entry(yuyula_bilən, n, [yuyula_bilənlər], "zərər görmədən yuyula bilən nəsə").
+entry(yuyunma\_çantası, n, [yuyunma\_çantaları], "S�yahət edərkən tualet vasitələrini daş�maq üçün ki�ik bir �anta").
+entry(yuyunma qabı, n, [yuyunma qabları], "özünü yumaq üçün istifadə olunan qab").
+entry(yuyunmagunu, n, [yuyunmagunleri], "paltar yuyulmasi ucun ayrilmis gun").
+entry(paltaryuyan, n, [paltaryuyanlar], "yuyucu olan").
+entry(yuyucu, müqayisəli, [], "yuyulmuş").
+entry(washiest, superlative, [], "washy-nin").
+entry(yuma, n, [yumalar], "yuyulmuş və ya yuyulacaq əşyalar").
+entry(yuyulma, n, [yuyulmalar], "suyun təsiri ilə torpağın eroziyası").
+entry("yuyunma bezi", n, ["yuyunma bezləri"], "özünü yumaq üçün istifadə olunan kiçik parça").
+entry(tualet, n, [tualetlər], "sanitar qovşaq").
+entry(yuyucu, n, [yuyucular], "paltar yumaq üçün istifadə olunan vanna").
+entry(yuyulma, n, [yuyulmalar], "təmiz yuma əməliyyatı").
+entr(yumaq, sif, [], "daha çox yumuq ən çox yumuq həddən artıq seyrəlmiş").
+giriş(arıkimilər, n, [arıkimilər], "çəpəşir arıHƏZARPAŞ İLƏMİLA ADJ").
+entry(waspy, adj, [], "ARIYA OXŞAYAN ƏN ARISIMI ƏN ÇOX ARISIMI ARISİMKİ adv").
+entry(wassail, v, [wassailed,wassailing,wassails], "sağlamlıq üçün içmək").
+entry(wast, n, [wasts], "qərb").
+entry(israf_edilə_bilən, sif, [], "israf oluna bilən").
+entry(izraf, n, [izraflar], "israf olunan bir şey").
+entry(tullantı, f, [israf etdi,israf etməkdədir,israf edir], "düşüncəsiz istifadə etmək").
+entry(israfçıl, adj, [], "tullantıya meyilli").
+entry(wastelot, n, [wastelots], "boş bir ərazi").
+entry(israfçı, n, [israfçılar], "israf edən biri").
+entry(israf, n, [israflar], "israfçılıq").
+entry(israf, n, [israf], "israf").
+entry(wasteway, n, [wasteways], "artıq su üçün kanal").
+entry(tullama, indiki, [], "tullama feilinin indiki zaman feli sifəti").
+entry(israfçı, n, [israfçılar], "israf edən biri").
+entry(wastrie, n, [israflıqlar], "israf").
+entry(wastry, n, [israfçılıqlar], "məsuliyyətsiz israfçılıq").
+entry(wat, sif, [], "WATTER WATTESTwet").
+entry(wat, n, [wats], "dovşan").
+entry(watap, n, [wataps], "müxtəlif ağacların köklərindən hazırlanmış bir iplik").
+entry(watape, n, [watapes], "watap").
+entry(izləmək, f, [izlədi, izləyir, izləyir], "diqqətlə müşahidə etmək").
+entry(qarovulçağırışı, n, [qarovulçağırışları], "şifrə").
+entry(mühafizəçi, v, [mühafizəçili, mühafizəçili, mühafizəçilər], "qoruyucu kimi hərəkət etmək").
+entry(izləyici, n, [izləyicilər], "izləyən biri").
+entry(watcheye, n, [watcheyes], "bir gəşə balığı").
+entry(diqqətli, adj, [], "yaxından müşahidə edən və ya ayıq").
+entry(keşikçi, n, [keşikçilər], "mühafizəçi olaraq işləyən şəxs").
+entry(watchout, n, [watchouts], "nəyisə gözləmək hərəkəti").
+entry(su, v, [suladı,sulayır,sular], "şəffaf, qoxusuz, dadsız bir mayeni su ilə çiləmək").
+entry(suylaşıma, n, [suylaşımlar], "malların su vasitəsilə daşınması").
+entry(su çarpayısı, n, [su çarpayıları], "madrasi su ilə dolu plastik torbadan ibarət olan çarpayı").
+entry(su_avtobusu, n, [su_avtobuslari], "yaxud WATERBUSSESa sərnişin daşımaq üçün böyük motorlu qayıq").
+entry(suəjdəh, n, [suəjdələr], "böyük salamandra").
+entry(sulayan, n, [sulayanlar], "sulayan şəxs").
+entry(suyağı, n, [suyağıları], "Amerika ləğziyyəsi").
+entry(waterier, müqayisəli, [], "sulu olan").
+entry(sulu, superlative, [], "sulu olanın").
+entry(suvarı, zərf, [], "sulu bir şəkildə").
+entry(sulama, n, [sulamalar], "sulayan birinin hərəkəti").
+entry(waterish, sif, [], "sulu").
+entry(su_jeti, n, [su_jetləri], "kiçik bir açıqlıqdan qüvvətlə çıxan su axını").
+entry(su, v, [su ilə dolmuş,su ilə dolma,su ilə dolur], "su ilə islatmaq").
+entry(waterloo, n, [waterloos], "qəti məğlubiyyət").
+entry(waterman, n, [watermen], "qayıqçı").
+entry(susürüşü, n, [susürüşülər], "suda sürüşmək üçün istifadə edilən ski").
+entry(su_yolu, n, [su_yolları], "naviqasiya üçün yararlı su kütləsi").
+giriş(sulu, sif, [], "WATERIER WATERIESTwater suyu").
+entry(vatt, n, [vattlar], "güc vahidi").
+giriş(güc, n, [güclər], "vatla ifadə edilən güc miqdarı").
+entry(wattape, n, [wattapes], "watap").
+entry(watter, müqayisəli, [], "of wat").
+giriş(ən_isti, superlativ, [], "wat").
+entry(watthour, n, [vatt-saatlar], "enerji vahidi").
+entry(wattle, v, [hörülmüş,hörülmə,hörülər], "şəbəkə halına gətirmək").
+entry("wattless", sif, [], "elektrik cərəyanının bir növünü ifadə edən").
+entry(waucht, v, [wauchted,wauchting,wauchts], "waught etmək").
+entry(waugh, sif, [], "nəm").
+entry(waught, f, [waughted, waughting, waughts], "dərin şəkildə içmək").
+entry(wauk, v, [wauked,wauking,wauks], "oyanmaq").
+entry(qıyıltı, v, [qıyıldı,qıyılır,qıyılırlar], "pişik kimi qışqırmaq").
+entry(waur, sifət, [], "pis").
+entry(wave, v, [dalğalandı, dalğalanma, dalğalar], "azad şəkildə irəli-geri və ya yuxarı-aşağı hərəkət etmək").
+entry(waveband, n, [dalğa bantları], "radio tezliklərinin bir diapazonu").
+entry(dalğaforması, n, [dalğaformaları], "riyazi qrafik növü").
+entry(dalğasız, sif, [], "maye səthində hərəkət edən dalğaların olmaması").
+entry(dalğacıq, n, [dalğacıqlar], "kiçik dalğa").
+entry(dalğaya_bənzər, sifət, [], "dalğaya bənzəyən").
+entry(waveoff, n, [waveoffs], "yanaşan təyyarəyə eniş icazəsinin verilməməsi hərəkəti").
+entry(waver, v, [dalğalanmaq, dalğalanma, dalğalanır], "geri və irəli hərəkət etmək").
+entry(tereddüdçü, n, [tereddüdçülər], "tereddüd edən biri").
+entry(wavery, sif, [], "dalğalı").
+entry(wavey, n, [waveys], "qar qazı").
+entry(dalğa-zərrəcik, n, [dalğa-zərrəciklər], "həm dalğa, həm də zərrəcik kimi davrana bilən subatomik zərrəcik").
+entry(wavier, müqayisəli, [], "dalğalıdan").
+entry(wavies, pl, [], "dalğalıların").
+entry(waviest, superlative, [], "dalğalı olan").
+entry("dalğalı şəkildə", adv, [], "dalğalı bir şəkildə").
+entry(dalğavarlıq, n, [dalğavarlıqlar], "dalğavarlı olma vəziyyəti").
+entry(sallanmaq, indiki, [], "sallanmaq feilinin participi").
+entry(dalğalı, sif, [], "DALĞALI DAHA DALĞALI ƏN DALĞALI dalğalar").
+entry(dalğalı, n, [dalğalar], "dalğa").
+entry(vav, i, [vavlar], "vav").
+entry(wawl, v, [wawled,wawling,wawls], "miaulamaq").
+entry(mum, f, [mumladı, mumlayır, mumlayar], "təbii istilik həssas maddə ilə mumla örtmək MUMURADIAN sif").
+entry(mumluğ, i, [mumluqlar], "mumy örtüyü olan bir giləmeyvə").
+entry(munçuqquşu, n, [munçuqquşular], "tropik quş").
+entry(waxen, sif, [], "muma örtülmüş").
+entry(cilalamaq, n, [cilayicilər], "cilalayan biri").
+entry(waxier, müqayisəli, [], "mumyaya bənzər").
+entry(waxiest, superlative, [], "mumalının ən çox").
+giriş(cilalanmış, zərf, [], "vaksiyə bənzər bir şəkildə").
+entry(mumiyyə, n, [mumiyyələr], "mumluq keyfiyyəti").
+entry(waxing, n, [waxings], "cilalama edən şəxsin hərəkəti").
+entry(mumkimi, sif, [], "mumun oxşar").
+entry(waxplant, n, [waxplants], "tropos bitkisi").
+entry(devətikanı, n, [devətikanları], "bir illik ot bitkisi").
+entry(çəpiş, n, [çəpişlər], "bir növ passerin quşu").
+entry("mum heykəli", n, ["mum heykəlləri"], "mumdangörkəmli fiqur").
+entry(mumqurdu, n, [mumqurdu], "arıqovlarında yaşayan bir kəpənək").
+entry(waxy, adj, [], "muma bənzəyən WAXIER WAXIEST").
+entry(yol, n, [yollar], "nəyisə etmək üsulu").
+entry(wayang, n, [wayanqlar], "kuklalar və ya insan rəqqaslar iştirak etdiyi bir tamaşa").
+entry(yolvərəqi, n, [yolvərəqlər], "göndərişə aid malların siyahısı").
+entry(səyyah, n, [səyyahlar], "səyahətçi").
+entry(getmək, n, [getmələr], "çıxmaq hərəkəti").
+giriş(pusquya_salmaq, f, [pusquya_salındı,pusquya_salmaqda,pusquya_saldı], "pusquya salmaq").
+entry(waylayer, n, [waylayers], "pusquanı quran").
+entry(yolsuz, sif, [], "heç bir yol və ya cığır olmayan").
+entry(yo‘l nişanı, n, [yo‘l nişanları], "səyahətçilər üçün bələdçi rolunu oynayan obyekt").
+giriş(istiqamət_nöqtəsi, n, [istiqamət_nöqtələri], "marşrut boyunca əsas nöqtələr arasında bir nöqtə").
+entry(yolkənarı, n, [yolkənarları], "yolun kənarı").
+entry(wayward, sifət, [], "iradəli").
+entry(wayworn, sif, [], "səyahətdən yorulmuş").
+entry(biz, əvəzlik, [], "nominativ halda 1-ci şəxsin cəm əvəzliyi").
+entry(zəif, sif, [], "ZƏIF ZƏİFƏEN ən çox gücsüzlük").
+giriş( zəiflət, f, [zəiflədilmiş,zəifləmə,zəiflədir], "zəif etmək").
+entry(əzləldici, n, [əzləldicilər], "əzələdən biri").
+entry(boz camgöz, n, [boz camgözlər], "dəniz balığı").
+entry(zəifvari, sifət, [], "bir qədər zəif").
+entry(zəiflik, n, [zəiflər], "zəif bir şəxs").
+entry(weakly, adj, [], "DAHA ZƏİF ZƏİFƏNzəif və xəstə").
+entry(zəiflik, n, [zəifliklər], "zəif olma vəziyyəti").
+entry(zəifon, n, [zəifonlar], "subatomik hissəcik").
+entry(zəif_tərəf, n, [zəif_tərəflər], "basketbol meydançasında daha az oyunçunun olduğu tərəf").
+entry(varlılıq, n, [varlılıqlar], "bir iz").
+entry(meşə, n, [meşələr], "bir meşə").
+entry(wealth, n, [wealths], "böyük miqdarda qiymətli material").
+entry(varlı, sif, [], "VARLI VARLIN VARLİK").
+entry(kəsmək, v, [kəsildi,kəsilərkən,kəsilir], "ana südündən çıxarıb digər qida ilə əvəz etmək").
+entry(weaner, n, [südəmərdənayıranlar], "südəmərdən ayıran").
+entry(körpə, n, [körpələr], "yeni süddən kəsilmiş uşaq və ya heyvan").
+entry(silah, f, [silanmış,silahlanma,silahlar], "döyüşdə istifadə edilən alət ilə təmin etmək").
+entry(silahlanma, n, [silahlanmalar], "silahların toplusu").
+entry(geyinmek, f, [geydi, geyinilib, geyinir], "GEYINMEKbirinin üzərində olanlara sahib olmaq").
+entry(geyinilə bilən, n, [geyinilə bilənlər], "geyim").
+giriş(geyici, n, [geyicilər], "nəyi isə geyən").
+entry(yoruldu, keçmiş, [], "yorulmaq felinin keçmiş zaman forması").
+entry(wearier, müqayisəli, [], "of weary").
+entry(wearies, indiki, [], "yorğun üçüncü şəxs tək").
+entry(weariful, sif, [], "yorucu").
+entry(wearish, sif, [], "dadsız").
+entry(usanmış, sif, [], "USANMIŞ USANMIŞTIR,USANMIŞIM,USANAR USANARaq,USANARənənUSANARacaqlar").
+entry(yorğun, v, [yoruldu,yorulmaq,yorulur], "yorğun etmək və ya olmaq").
+entry(weasand, n, [weasands], "boğaz").
+entry(dovşan, v, [dovşanladı,dovşanlayır,dovşanlar], "və ya DOVŞANLADI DOVŞANLAYIR DOVŞANlar yayındırıcı hərəkət etmək").
+entry("qurdquşuna bənzəyən", sif, [], "kiçik ətyeyən məməliyə bənzəyən").
+entry(weasely, sifət, [], "hiyləgər").
+entry(weason, n, [weasons], "nəfəs borusu").
+entry(weather, v, [hava şəraitinə məruz qalmaq, hava şəraitinə məruz qalır, hava şəraitinə məruz qalacaq], "atmosfer şəraitinə məruz qoymaq").
+entry(veb, v, [vebdi, toxunmuş, toxumaq], "VEBİəzləri bir-birinə toxumaqla formalaşdırmaq").
+entry(toxucu, n, [toxucular], "toxuyan biri").
+entry(toxuma, n, [toxumalar], "toxunmuş materialların yaradılması fəaliyyəti").
+entry(boğaz, n, [boğazlar], "boğaz").
+entry(veb, v, [vebli,vebləyən,veblər], "hörülmüş bir parça və ya quruluşla təmin etmək").
+entry(webbing, n, [webbings], "toxunmuş lif zolağı").
+entry(webby, sif, [], "WEBBIER WEBBIESTweblike").
+entry(videokamera, n, [videokameralar], "Dünya Ümumdünya Şəbəkəsi üzərindən canlı təsvirlər göndərmək üçün istifadə olunan bir kamera").
+entry(videomüraciət, v, [videomüraciət etdi, videomüraciət edir, videomüraciətlər], "səs və görüntüləri Dünya Geniş Veb vasitəsilə yaymaq").
+entry(veber, n, [veberlər], "maqnit axını vahidi").
+entry(webfed, sif, [], "davamlı kağız rulonunu çap etmək üçün hazırlanmış").
+entry(webfoot, n, [webfeet], "barmaqları pərdə ilə birləşmiş ayaq").
+entry(vebinar, n, [vebinarlar], "saytda keçirilən canlı interaktiv təhsil təqdimatı").
+entry(vebisod, n, [vebisodlar], "veb sayt vasitəsilə izlənilə bilən televiziya şousunun bir epizodu").
+entry(webless, sifət, [], "torlar olmayan").
+entry(şəbəkəyəbənzər, sif, [], "şəbəkəyə bənzəyən").
+entry(vebloq, n, [vebloqlar], "şəxsi jurnalı əhatə edən bir vebsayt").
+entry(vebsəhifə, isim, [vebsəhifələr], "Ümumdünya İnformasiya Şəbəkəsində tək bir sənəd").
+entry(veb sayt, n, [veb saytlar], "fərd və ya təşkilat tərəfindən idarə olunan əlaqəli veb səhifələr toplusu").
+entry(webster, n, [websters], "toxucu").
+entry(webwork, n, [çapandaşı], "çapandışa bənzər naxış və ya struktura").
+entry(webworm, n, [webworms], "tor hörən bir tırtıl").
+entry(veb-jurnal, n, [veb-jurnallar], "İnternetdə yayımlanan jurnal").
+entry(çəki, n, [çəkinlər], "ağırlıq").
+entry(çərşənbə, v, [evləndi, toy, evlədir], "evlənmək").
+entry(wedder, n, [wedders], "evlənən biri").
+entry(toy, n, [toylər], "nikah mərasimi").
+giriş(wedel, v, [wedelinmişdir,wedelinmə,wedellər], "vedelin ifa etmək").
+entry(wedeln, n, [wedelns], "xizək sürmə texnikası").
+entry(paz, v, [pazladı,pazlama,pazlayır], "taxta və ya metal pazla aralamaq").
+entry(wedgie, n, [wedgies], "qadın ayaqqabısı növü").
+entry(wedgy, sif, [], "WEDGIER WEDGIESTbir pazı xatırladan").
+entry(evli̇li̇k, n, [evli̇li̇klər], "evli olma vəziyyəti").
+entry(wee, sif, [], "ÇOX ÇOX BALACA").
+entry(wee, v, [sidik ifraz etmək, sidik ifraz etməkdə, sidik ifraz edirlər], "sidik ifraz etmək").
+entry(alaq, v, [alaqladi,alaqlama,alaqlar], "qabaqcadan ləğv olunmalı olan alaq otlarını çıxarmaq").
+entry(su yosunu yatağı, n, [su yosunu yataqları], "çoxlu yosun olan su obyektinin sahəsi").
+entry(alaqçı, n, [alaqçılar], "alaqları təmizləyən").
+entry(weedier, müqayisəli, [], "weedy").
+entry(weediest, superlative, [], "weedy-nin").
+entry(weedily, adv, [], "alaq şəklində").
+entry(alaqsız, sif, [], "alaqsız olma").
+entry(alotəkli, sif, [], "ala bənzər").
+entry(alqovluq, n, [alqovluqlar], "alq yatağının kənarı").
+entry(alaqotulu, sif, [], "ALAQOTLULU ALAQOTLULARa alaqotuna bənzəyən").
+entry(həftə, n, [həftələr], "yeddi günlük bir dövr").
+entry(həftəiçi, n, [həftəiçləri], "istənilən gün bazar günü və şənbə günü istisna olmaqla").
+entry(həftəsonu, f, [həftəsonlandı,həftəsonlanır,həftəsonları], "həftənin sonunu həftə sonunda keçirmək").
+entry(weeklong, sif, [], "bir həftə davam edən").
+entry(həftəlik, n, [həftəliklər], "həftədə bir dəfə nəşr olunan nəşr").
+entry(yaxşı, adj, [], "well").
+entry(ween, f, [weened, weening, weens], "zənn etmək").
+entry(weenie, n, [sosislər], "sosiska").
+entry(weensy, sif, [], "WEENSIER WEENSIESTkiçik").
+entry(kiçik, sif, [], "ÇOX KİÇİK ƏN KİÇİK").
+entry(ağlamaq, f, [ağladı,ağlayır,ağlayır], "göz yaşı axıtmaqla kədər ifadə etmək").
+entry(ağlayan, n, [ağlayanlar], "ağlayan birisi").
+entry(weepie, n, [weepies], "çox kədərli film").
+entry(ağlamaq, n, [ağlamalar], "ağlayan birinin hərəkəti").
+entry(weepy, sif, [], "DAHAGÖZYAŞLI ƏN GÖZYAŞLI ağlamağa meylli GÖZYAŞLI HALDA zərf").
+entry(weer, müqayisəli, [], "of wee").
+entry(weest, superlative, [], "balacanın").
+entry(weet, v, [weeted,weeting,weets], "bilmek").
+entry(əfiəşanı, n, [əfiəşanılar], "dəniz balığı").
+entry(çəkirək, n, [çəkirəklər], "kiçik böcəkÇƏKİRƏKLƏNMİŞ ÇƏKİRƏKLİ ÇƏKİRƏKCƏ adv").
+entry(weewee, v, [weeweed,weeweeing,weewees], "sidik ifraz etmək").
+entry(həftə, n, [həftələr], "toxunmuş parça və ya geyim").
+entry(üfüqi, zərf, [], "üfiqi istiqamətdə").
+entry(veyqela, n, [veyqelalar], "çiçəkli kol").
+entry(weigelia, n, [weigeliyalar], "weigela").
+giriş(tartmaq, f, [tartdı, tartmaq, tartır], "çəkisini müəyyən etmək üçün").
+entry(tərəziçi, n, [tərəziçilər], "çəkən biri").
+entry(çəkici, n, [çəkicilər], "işi malları çəkmək olan şəxs").
+entry(weight, v, [çəki, çəkmək, çəkilər], "çəki ağırlıq əlavə etmək").
+entry(tərəzi, n, [tərəzilər], "çəkən biri").
+giriş(çəkili, sif, [], "DAHA ÇƏKİLİ ƏN ÇƏKİLİ böyük çəkiyə malikdir").
+entry(weiner, n, [sosislər], "viner").
+entry(sədd, n, [sədlər], "axın üzərində balıq tutmaq üçün qoyulan hasar").
+entry(qəribə, v, [qəribələr, qəribiləşmə, qəribələşir], "qəribə bir hiss yaşamağa səbəb olmaq").
+entry(qəribə, sif, [], "QƏRİBƏR QƏRİBƏSTən qəribə").
+entry(qəribə, n, [qəribələr], "tale").
+entry(tünbül, n, [tünbüllər], "çox qəribə bir şəxs").
+entry(weirdies, çoğul, [], "qəribələrin").
+entry(qəribə, zərf, [], "qəribə bir şəkildə").
+entry(qəribə, n, [qəribələr], "və ya QƏRİBƏlər qəribə").
+entry( qəribəsi, n, [qəribələr], "qəribə").
+entry(veka, n, [vekalar], "uça bilməyən quş").
+entry(welch, v, [welched,welching,welches], "qeyri-rəsmi öhdəlikləri yerinə yetirməmək üçün bəhanə axtarmaq").
+entry(welcher, n, [welchers], "xainlik edən").
+entry(salamla, v, [salamladı,salamlayan,salamlayır], "səmimi qarşılamaq").
+.entry(welcomer, n, [welcomers], "qarşılama edən biri").
+entry(qaynaq, f, [qaynaqlandı,qaynaqlanır,qaynaqlar], "isti tətbiq edərək birləşdirməkQAYNAQLANABİLƏN sif").
+entry(qaynaqçı, n, [qaynaqçılar], "qaynaq edən biri").
+entry(weldless, sif, [], "qaynaqsız").
+entry(weldment, n, [weldments], "qaynaq edilmiş hissələrdən ibarət vahid").
+entry(qaynaqçı, n, [qaynaqçılar], "welder").
+entry(rifah, n, [rifahlar], "ümumi rifah").
+entry(səma, n, [səmalar], "səma").
+giriş(yaxşı, v, [qaynayan,qaynayanlar,qaynayır], "yüzəyə çıxmaq və axmaq").
+entry(welladay, n, [welladays], "yaxşı yol").
+entry(wellaway, n, [wellaways], "kədər ifadəsi").
+entry(wellborn, sifət, [], "yaxşı doğumdan və ya nəsildən olan").
+entry(quyuqül, n, [quyuqüllər], "quyunun ətrafında olan daş halqa yerin altında su əldə etmək üçün qazılmış çuxur").
+giriş(xeyirxah, n, [xeyirxahlar], "yaxşı əməllər edən şəxs").
+entry(stasion, n, [stasionlar], "bir bulağın və ya axarın mənbəyi").
+entry(quyu, n, [quyular], "quyunun şaxtası").
+entry(rezin, n, [rezinlər], "Wellington çəkməsi").
+entry(rezin, cəm, [], "rezin üçün").
+entry("yaxşılıq", n, ["yaxşılıqlar"], "sağlam olmaq vəziyyəti").
+entry(yaxşısahə, is, [yaxşısahələr], "bir mineral").
+entry(welly, n, [rezin çəkmələr], "rezin çəkmə").
+entry(uels, v, [uelsləyib,uelsləməkdədir,uelsləyir], "borcu ödəməmək").
+entry(welsher, n, [welshers], "verib-qaçan").
+entry(welt, v, [welted,welting,welts], "dəridə qabarqıqlara səbəb olan xətlər, qabarlar və ya düyünlər".).
+entry(welter, v, [oylandı, oylanır, oylanar], "hərəkət etmək").
+giriş(welting, n, [weltings], "tikinti yerini möhkəmləndirmək üçün istifadə olunan ip və ya zolaq").
+entry(wen, n, [wenlər], "dərinin xoşxassəli şişi").
+entry(fahişə, v, [fahişələdi,fahişələyir,fahişələr], "fahişələrlə görüşmək").
+entry(wencher, n, [wenchers], "qadınbazlıq edən şəxs").
+entry(wend, v, [wended,wending,wends], "davam etmək").
+entry(vendigo, n, [vendigolar], "vindigo").
+entry(vennis, sif, [], "zibilli").
+entry(wenny, sif, [], "wenə bənzəyən WENNIER WENNIEST").
+entry(getdi, keçmiş, [], "getmək zaman forması").
+Entry(ağladı, keçmiş, [], "ağlamaq felinin zamanı").
+entry(were, a, [], "olmaq 'fiilinin keçmiş istiqamətində və keçmiş subjunktivində cəm və tək ikinci şəxsin qeydidir").
+entry(weregild, n, [weregilds], "vergild").
+entry(yerikurt, n, [yerikurtlar], "qurd formasını ala bilən şəxs").
+entry(wergeld, n, [wergeldlər], "Anqlo-Sakson hüququnda insanın həyatına son qoymaq üçün ödənilən qiymət").
+entry(wergelt, n, [wergelts], "vergeld").
+entry(wergild, n, [wergildlər], "wergeld").
+entry(wert, a, [], "olmaq" felinin keçmiş zamanında 2-ci şəxs tək).
+entry(kaçkurt, n, [kaçkurtlar], "kurtadam").
+entry(weskit, n, [weskits], "jilet").
+entry(wessand, n, [wessands], "qida borusu").
+entry(qərb, ş, [qərblər], "pusulanın əsas istiqamətlərindən biri").
+entry(wester, v, [qərbə_getmək, qərbə_getən, qərbə_getdi], "qərbə doğru hərəkət etmək").
+entry(westerly, n, [qərb küləkləri], "qərbdən gələn külək").
+entry(western, n, [westerns], "qərbdə yaşayan biri").
+giriş(westing, n, [westings], "qərbə doğru hərəkət").
+entry(ən\_qərbdə\_yerləşən, sif, [], "ən qərbdə yerləşən").
+entry(qərbə, n, [qərbə doğru], "qərb istiqamətində bir istiqamət").
+entry(islaq, sif, [], "ƏN YAĞIŞLI YAĞIŞtəmasda olan və ya maye ilə örtülmüş").
+entry(islaq, f, [isladdı,isladı,islayır], "islamaq").
+entry(weta, n, [wetalar], "Yeni Zelandiyanın böyük qanadsız həşəratı").
+entry(wether, n, [wethers], "hadım edilmiş erkək qoyun").
+entry(bataqlıq, n, [bataqlıqlar], "çox torpaq nəmliyi olan torpaq").
+entry(islaqca, adv, [], "islaqi şəkildə").
+giriş(nəmlik, n, [nəmliyin], "nəm olma vəziyyəti").
+entry(wetproof, sif, [], "su keçirməz").
+giriş(islanan_kostyum, n, [islana_kostyumlar], "soyuq suda dərin dalğıclar tərəfindən geyilən dar uyğun rezin-tipli kostyum").
+entry(islanabilir, sif, [], "islanabilən").
+entry(islanmış, keçmiş, [], "islanmanın zamana aid forması").
+entry(wetter, n, [wetters], "isladan").
+entry(nəmişinən, üstünlük_dərəcəsi, [], "nəm").
+entry(ıslatma, n, [ıslatmalar], "bir şeyi nəmləndirmək üçün istifadə edilən maye").
+entry(wettish, adj, [], "bir qədər yaş").
+entry(vetver, n, [vetverler], "insan beyni funksional olaraq kompüterə bərabər hesab edildikdə").
+entry(wha, əvəzlik, [], "kim").
+entry(zərbə, v, [zərbələr,zərbələnir,zərbələyir], "kəskin vurmaq").
+entry(whacked, sif, [], "1 alkoqol və ya narkotiklərlə sərxoş 2 tükənmiş").
+entry(taqqıltı, n, [taqqıltılar], "taqqıq edən biri").
+entry(zərbə, n, [zərbələr], "bir şeyi kəskin şəklidə vurma aktı və ya nümunəsi").
+entry(dəli, n, [dəlilər], "dəlisov").
+entry(whacky, sif, [], "WHACKIER WHACKIESTwacky").
+entry(balinbalığ, f, [balinbalıqed, balinbalıqedilir, balinbalıqlar], "böyük dəniz məməliləri olan balinbalıqların ovuna çıxmaq").
+entry(whaleman, n, [whalemen], "balina ovu ilə məşğul olan şəxs").
+entry("balina ovu ilə məşğul olan şəxs", n, ["balina ovu ilə məşğul olan şəxslər"], "balina ovu ilə məşğul olan şəxs").
+entry(balin, n, [balinlər], "balinaların ovu və emalı sənayesi").
+entry(wham, v, [whammed,whamming,whams], "ucadan zərbə ilə vurmaq").
+entry(whammo, əvəzlik, [], "heyrətamiz bir hadisəni göstərmək üçün istifadə olunur").
+entry(vami, n, [vamilər], "pis bəxt gətirən fövqəltəbii bəxşiş").
+entry(whamo, interj, [], "vəhmo").
+entry(whang, v, [whanged,whanging,whangs], "qamçı ilə vurmaq").
+entry(whangee, n, [whangees], "Asiya qamışı").
+entry(whap, v, [whapped, whapping, whaps], "vurmaq").
+entry(whapper, n, [whappers], "hoppan").
+entry(iskələ, f, [iskələyəldi,iskələyədir,iskələlər], "gəmi dayanan yerə bağlamaq").
+entry(wharfage, n, [wharfages], "iskələnin istifadəsi").
+entry(istinad, n, [istiqamətlər], "ip əymək üçün istifadə edilən yuvarlaq taxta parçası").
+entry(nə, n, [nələr], "bir şeyin əsl təbiəti").
+entry(whatever, sifət, [], "nə ola bilərsə və ya kim ola bilərsə").
+entry(mahiyyət, n, [mahiyyətlər], "bir şeyin əsl təbiəti").
+entry(whatnot, n, [whatnots], "bəzəkli rəflər dəsti").
+entry(nədiş, n, [nədişlər], "nədiş").
+entry(neyisə, n, [neyisələr], "adı bilinməyən və ya unudulmuş bir şey").
+entry(whatso, pron, [], "hər nə və ya hər kim ola bilər").
+entry(qağayı, n, [qağayılar], "Avropa quşu").
+entry(wheal, n, [wheals], "bir qabarcıq").
+entry(buğda, n, [buğdalar], "taxıl otu").
+entry(qaratoyuq, n, [qaratoyuqlar], "şimal bölgələrinin kiçik quşu").
+entry(buğdayımsı, n, [buğdayımsılar], "solğun sarımtıl rəng").
+entry(vii, interj, [], "zövq ifadə etmək üçün istifadə olunur").
+entry(wheedle, v, [yaltaklanaraq,iilbayaraq,razısalmaq], "iltiqata ilə razı salmağa çalışmaq").
+entry(yaltaqcı, n, [yaltaqçılar], "yaltalamaqla məşğul olan şəxs").
+entry(təkər, f, [təkərlənmiş, təkərlənir, təkərlər], "ox üzərində dönmək üçün hazırlanmış dairəvi çərçivələr üzərində daşımaq").
+entry(wheeler, n, [wheelers], "çevrən biri").
+entry(wheelie, n, [wheelies], "çarxla hərəkət edilən nəqliyyat vasitəsində edilən manevr").
+entry(wheeling, n, [wheelings], "nəqliyyat vasitələri üçün yolun vəziyyəti").
+giriş(təkərçi, n, [təkərcilər], "sükançı").
+entry(wheen, n, [wheens], "böyük miqdarda").
+entry(wheep, v, [wheeped, wheeping, wheeps], "vizildamaq").
+entry(wheeple, f, [wheepled,wheepling,wheeples], "uzun fit vermək").
+entry(xırıltı, v, [xırıltılı,xırıltılamaq,xırıltılar], "fit səsi ilə nəfəs almaq").
+entry(wheezer, n, [hırıltılar], "hırıltı verən biri").
+entry(xırıltılı, sif, [], "XIRILTILIDIR XIRILTILİƏN xarakterizə olunanXIRILTILI adv").
+entry(midye, n, [midyeler], "ciyer").
+entry(whelky, sif, [], "WHELKIER WHELKIESTwhelks ilə işarələnmiş").
+entry("suya qərq etmək", v, ["suya qərq edilmiş","suya qərq edərək","suya qərq edir"], "su ilə örtmək").
+entry(ulu, f, [ulu,ulumaq,ulur], "doğmaq").
+entry(nə vaxt, n, [nə vaxtlar], "bir işin görüldüyü və ya baş verdiyi zaman").
+entry(nə vaxtsa, bağlaç, [], "hansı zamanda").
+entry(haradan, bağlaç, [], "hansı yerdən").
+entry(nə vaxtsa, bağl, [], "istənilən vaxt").
+entry(where, n, [wheres], "bir şeyin yerləşdiyi və ya baş verdiyi yer").
+entry(halbuki, n, [halbukilər], "rəsmi sənədin giriş bəyanatı").
+entry(whereat, conj, [], "hansı yerə").
+entry(whereby, conj, [], "hansı ki").
+entry(wherein, conj, [], "hansında").
+entry(whereof, conj, [], "onun").
+entry(whereon, conj, [], "hansı üzərinə").
+entry(haraya, baglayici, [], "hara").
+entry(hara, conj, [], "hansısa bir yerə").
+entry("yüngül qayıqda nəql etmək", f, [nəql etdi,nəql etməkdədir,nəql edir], "light rowboat ilə nəql etmək").
+entry(wherve, n, [wherves], "wharve").
+entry(whet, v, [sürtməkdən itilənmiş, itiləmə, itilər], "sürtünmə ilə itiləmək").
+entry(əgər, bağlayıcı, [], "belə olan halda ki").
+entry(whetter, n, [whetters], "itişdən kəsən").
+entry(voyu, n, [voyular], "fit səsi").
+entry(çökelti, n, [çökeltlər], "süddən qalan su hissəsi SÜDLÜ ÇÖKELTƏ adj").
+entry(qorxaqsiması, n, [qorxaqsimasılar], "solğun sarımtıl üz").
+entry(pendiraltisuvarisina_bənzəyən, sif, [], "pendir altı suyuna bənzəyən").
+giriş(hansı, əvəzlik, [], "hansı xüsusi biri və ya ones").
+entry(kişnəmək, f, [kişnədi,kişnəyir,kişnəyər], "kişnəmək").
+giriş(whid, v, [whidded,whidding,whids], "tez və səssiz hərəkət etmək").
+entry(lehçə, n, [lehçələr], "leçələ").
+entry(qoxu, v, [qoxudu,qoxuma,qoxuyur], "havada yüngül küləklərlə üfürmək və ya çatdırmaq").
+entry(qoxucu, n, [qoxucular], "qoxuyan biri").
+entry(whiffet, n, [whiffets], "əhəmiyyətsiz bir şəxs").
+entry(əsib-əsdir-, f, [əsib-əsdirdi, əsib-əsdirən, əsib-əsdirir], "qarışıq şəkildə hərəkət etmək və ya düşünmək").
+entry(whiffler, n, [whifflers], "səs-küy yaradan").
+entry(iyli, sif, [], "İYLİYƏ İYLİYƏ Ən xoşagəlməz qoxuya malik olmaq").
+entry(whig, n, [whigs], "tarixdə inkişafın reaksiya qüvvələrinə qalibiyyəti olaraq davam edən bir qələbə kimi yozan şəxs").
+entry(while, v, [whiled, whiling, whiles], "xoş keçməsini təmin etmək").
+entry(whilom, adv, [], "əvvəllər").
+entry(whilst, bağl, [], "zaman ərzində ki").
+entry(kapriz, n, [kaprizlər], "impulsiv bir fikir").
+entry(qovuşquşu, n, [qovuşquşular], "bir sahil quşu").
+entrada(whimper, v, [whimpered, whimpering, whimpers], "incik, kəsik səslərlə ağlamaq").
+entry(kapriz, n, [kaprizlər], "kapriz").
+entry(fantaziya, n, [fantaziyalar], "bir whimsieWHIMSIED sifət").
+entry(whin, n, [whins], "tikankimilər").
+entry(çiçəkli çobanaldadan, n, [çiçəkli çobanaldadanlar], "bir mahnı quşu").
+entry(sızıldamaq, v, [sızıldadı, sızıldamaq, sızıldayır], "yüksəksəsli və şikayətcil bir səs çıxarmaq").
+entry(zarıyan, n, [zarıyanlar], "zarıldayan biri").
+entry(whiney, sif, [], "WHINIER WHINIESTwhiny").
+entry(whinge, f, [], "SIZLƏNİR SIZLƏNDİ SIZLƏNMƏKDƏdir SIZLƏNMƏYƏ").
+entry(sızıldayan, i, [sızıldayanlar], "sızıldayan biri").
+entry(sızıldayan, sifət, [], "DaHa ÇOX SIZILDAYAN ƏN ÇOX SIZILDAYAN, sızıldamağa meyllidir").
+entry(whinier, müqayisəli, [], "whiney və whiny").
+entry(whiniest, superlative, [], "whiney və whiny").
+entry(whining, indiki, [], "whine felinin təsriflənən feli").
+entry(whinny, sif, [], "WHINNIER WHINNIESTnisbətən whin ilə zəngin").
+entry(bayınlamaq, f, [bayındı, bayınır, bayınırlar], "aşağı və ya incə bir şəkildə kişnəmək").
+entry(sızıldayan, sifət, [], "SIZILDAYANG ÖS KÖP SIĞ SIĞIT").
+entry(qamçı, v, [qamçıladı,qamçılama,qamçılar], "cismani cəza vermək üçün istifadə olunan alətlə vurmaq").
+entry(qamçınipləq, n, [qamçınipləqlər], "güclü burulmuş iplik").
+entry("qamçı zərbəsi", n, ["qamçı zərbələri"], "qamçının zərbəsi").
+entry("çirkin", sifət, [], "qamçısız").
+entry(qamçıyabənzər, sif, [], "qamçıya bənzəyən").
+entry(südülmüş, a, [], "çırpmaq feilin keçmiş zamanı").
+entry(qamçılayıcı, n, [qamçılayıcılar], "qamçılayan şəxs").
+entry(whippet, n, [whippetlər], "kiçik sürətli bir it").
+entry(qamçı, n, [qamçılar], "vurma üçün istifadə olunan material").
+entry(whippit, n, [whippits], "azot oksidi olan kiçik qab").
+entry(whippy, sif, [], "QAMÇIYA OXŞAYAN və ya qamçını andıran").
+entry(qamçı balığı, n, [qamçı balıqları], "bir cins skatlar").
+entry(whipsaw, v, [whipsawed,whipsawn,whipsawing], "dar bir uclu mişarla kəsmək").
+entry(whipt, a, [], "whip-in keçmiş zamiri").
+entry(qamçıquyruq, n, [qamçıquyruqlar], "uzun, nazik quyruğu olan bir kərtənkələ").
+entry(qamçı qurd, n, [qamçı qurdlar], "parazitar qurd").
+entry(whir, v, [whirred,whirring,whirs], "buzz sesi ilə hərəkət etmək");
+entry(xanthan, n, [ksantanlar], "bakteriya fermentasiyası ilə istehsal olunan bir saqqızXANTHATE n pl XANTHATLa kimyəvi duzXANTHEIN n pl XANTHEINSSarı çiçəklərdəki rənglərin suda həll olunan hissəsiXANTHENE n pl XANTHENESbir kimyəvi birləşməXANTHIC adj sarı rəngə meylliXANTHIN n pl XANTHINSbir sarı piqmentXANTHINE n pl XANTHINEStimsal bir kimyəvi birləşməXANTHOMA n pl XANTHOMAS or XANTHOMATAbir dəri xəstəliyiXANTHONE n pl XANTHONESbir kimyəvi birləşməXANTHOUS adj sarıXEBEC n pl XEBECSbir Aralıq dənizi yelkənli gəmisiXENIA n pl XENIAStöhmənski çiçək quruluşlarına təsir göstərən tozXENIAL adjXENIC adj müəyyən bir mədəniyyət sahəsinə aidXENOGAMY n pl XENOGAMIESbir bitkidən başqa birinə toz köçürməsiXENOGENY n pl XENOGENIESvalideyndən tamamən fərqli nəsil istehsalının təklif edilən üsuluXENOLITH n pl XENOLITHSbaşqa bir qaya daxilindəki qaya parçasıXENON n pl XENONSbir qaz halı elementXENOPUS n pl XENOPUSEScənubi Afrikaya məxsus bir qurbağaXENOTIME n pl XENOTIMESSarı qəhvəyi mineralXERARCH adj quru sahədə inkişaf edənXERIC adj yalnız az miqdarda nəmlik tələb edənXEROSERE n pl XEROSERESsəhralar ardıcıllığıXEROSIS n pl XEROSESbədən hissəsi və ya toxumasının anormal quru olmasıXEROTIC adjXEROX v XEROXED XEROXING XEROXESto kopiya etmək üçün kseroqrafik kopiyerXERUS n pl XERUSEScənubi Afrikaya məxsus yer kürəsi dələXI n pl XISYunan hərəfXIPHOID n pl XIPHOIDSSternumun bir hissəsiXU n pl XUlivnin pul vahidiXYLAN n pl XYLANSböyüməkdə olan bitki hüceyre divarlarında olan bir maddəXYLEM n pl XYLEMSkompleks bitki toxumasıXYLENE n pl XYLENESyanabilən hidrokarbonXYLIDIN n pl XYLIDINSxylidinXYLIDINE n pl XYLIDINESbir kimyəvi birləşməXYLITOL n pl XYLITOLSalkoholXYLOCARP n pl XYLOCARPSgüclü ağac meyvəsiXYLOID adj ağaca bənzərXYLOL n pl XYLOLSksilenXYLOSE n pl XYLOSESbirmaddə şəkəriXYLOTOMY n pl XYLOTOMIESmikroskop nümunəsi üçün ağac hissələri hazırlığıXYLYL n pl XYLYLStəkvalentli radikalXYST n pl XYSTSXystusXYSTER n pl XYSTERSsümük təmizləmə vasitəsiXYSTOS n pl XYSTOIXystusXYSTUS n pl XYSTIidmançıların öyrəndiyi örtülü sahə qədim Yunanıstanda").
+entry(ya, n, [yas], "Asiya armudu").
+```prolog
+entry(za, n, [zas], "pizzaZABAIONE n pl ZABAIONES bir desert custard kiminə oxşayanZABAJONE n pl ZABAJONES zabaioneZACATON n pl ZACATONS Meksika çəməniZADDICK n pl ZADDIKIM dindar insan Yəhudi dini standartlarına görəZAFFAR n pl ZAFFARS zafferZAFFER n pl ZAFFERS mavi keramika rəngləndiriciZAFFIR n pl ZAFFIRS zafferZAFFRE n pl ZAFFRES zafferZAFTIG adj dolğunZAG v ZAGGED ZAGGING ZAG kəskin dönməkZAIBATSU n pl ZAIBATSU Yaponiyada güclü ailə birliyiZAIDA n pl ZAIDAS zədaZAIDEH n pl ZAIDEHS zədaZAIDY n pl ZAIDIES zədaZAIKAI n pl ZAIKAI Yaponiyanın iş dünyasıZAIRE n pl ZAIRES əvvəlki monetar vahid Zaire ZAKAT n pl ZAKATS İslam qanunu altında müəyyən mülk üzərində illik ödənişZAMARRA n pl ZAMARRAS qoyun dərisindən paltoZAMARRO n pl ZAMARROS zamarraZAMIA n pl ZAMIAS bir tropik bitkiZAMINDAR n pl ZAMINDARS müstəmləkə öncəsi Hindistanda vergi toplayıcıZANANA n pl ZANANA zenanaZANDER n pl ZANDERS bir şirin su balığıZANINESS n pl ZANINESS zany olmaq keyfiyyəti və ya vəziyyətiZANY adj ZANIER ZANIEST gülünc şəkildə komikZANILY advZANY n pl ZANIES bir zany insanZANYISH adj bir qədər zany ZANZA n pl ZANZAS Afrika musiqi alətiZAP v ZAPPED ZAPPING ZAP ani olaraq öldürmək və ya məhv etməkZAPATEO n pl ZAPATEOS İspan rəqsiZAPPER n pl ZAPPER zapp edə bilən cihazZAPPY adj ZAPPIER ZAPPIEST canlıZAPTIAH n pl ZAPTIAHS türk polisiZAPTIEH n pl ZAPTIEHS zaptiahZARATITE n pl ZARATITES kimyəvi birləşməZAREBA n pl ZAREBAS özbaşına düzəldilmiş hasarZAREEBA n pl ZAREEBAS zarebaZARF n pl ZARFS qəhvə fincanı üçün metal qoyucuZARIBA n pl ZARIBAS zarebaZARZUELA n pl ZARZUELAS İspan operettaZASTRUGA n pl ZASTRUGI səstrugaZAX n pl ZAXES dam plitələrini kəsmək üçün alətZAYIN n pl ZAYINS yəhudi hərfiZAZEN n pl ZAZENS Zen Buddizmdə meditasiyaZEAL n pl ZEALS həyacanlı bağlılıqZEALOT n pl ZEALOTS coşğun birisiZEALOTRY n pl ZEALOTRIES həddən artıq coşğunluqZEALOUS adj coşqu ilə doluZEATIN n pl ZEATINS mısırda tapılan kimyəvi birləşməZEBEC n pl ZEBECS zambocZEBECK n pl ZEBECKS zambocZEBRA n pl ZEBRAS at ailəsinə aid bir Afrika məməlisiZEBRAIC adjZEBRANO n pl ZEBRANOS zolaqlı ağacZEBRASS n pl ZEBRAS zəbroid və eşşəkdən yarananZEBRINE n pl ZEBRINE erkək at və dişi zebra arasında olan nəsilZEBROID adj zebra kimiZEBU n pl ZEBUS Asiya öküzZECCHIN n pl ZECCHINS gecchinoZECCHINO n pl ZECCHINOS or ZECCHINI İtaliyada keçmiş qızıl pulZECHIN n pl ZECHINS gecchinoZED n pl ZEDS Z hərfiZEDA n pl ZEDAS babazedoary n pl ZEDOARIES tropik bitkinin tibbi köküZEE n pl ZEES Z hərfiZEEIN n pl ZEINS sadə proteinZEK n pl ZEK Sovet əmək düşərgəsində məhkumZELKOVA n pl ZELKOVAS Yapon ağacıZEMINDAR n pl ZEMINDARS zamindarZEMSTVO n pl ZEMSTVOS or ZEMSTVA çar dövrü Rusiyada seçkili şuraZENAIDA n pl ZENAIDAS çöl göyərçiniZENANA n pl ZENANAS Hindistanda evin qadınlar üçün ayrı bölməsiZENDO n pl ZENDOS Zen Buddistlər üçün meditasiya və çalışma yeriZENITH n pl ZENITHS ən yüksək nöqtəZENITHAL adjZEOLITE n pl ZEOLITES mineralZEOLITIC adjZEP n pl ZEPS uzun sandviçZEPHYR n pl ZEPHYRS incə mehZEPPELIN n pl ZEPPELINS sərt hava gəmisiZEPPOLE n pl ZEPPOLES or ZEPPOLI qızardılmış təamZERK n pl ZERK bir yağağ yapışqanZERO v ZEROED ZEROING ZEROES or ZERO ə'lagetmək, nişan almaqZEROTH adj sırada sıfır nömrəli olmaqZEST v ZESTED ZESTING ZEST əhatə etmək, ruhlandırıcı həyat coşğusuylaZESTER n pl ZESTERS qabı soymaq üçün alətZESTFUL adj coşğunZESTLESS adj coşğusuzZESTY adj, ZESTIER ZESTIEST coşğun olaraq qeyd edilənZESTILY advZETA n pl ZETAS Yunan hərfiZETETIC adj sorğu ilə irəliləyənZEUGMA n pl ZEUGMAS dördüncü, beşinci əvvəlindən aldanılırZIBELINE n pl ZIBELINES yumşaq parçaZIBET n pl ZIBETS Asiya civetZIBETH n pl ZIBETH zibetZIG v ZIGGED ZIGGING ZIG kəskin çevrilməkZIGGURAT n pl ZIGGURATS qədim Babil məbədiZIGZAG v ZIGZAGGED ZIGZAGGING ZIGZAG kəskin dönüşlərZIGZAGGY adj kəskin dönüşlər ilə işarələnmişZIKKURAT n pl ZIKKURATS zigguratZIKURAT n pl ZIKURATS zigguratZILCH n pl ZILCH heç bir şeyZILL n pl ZILLS bir cüt barmaq cymbalsZILLAH n pl ZILLAHS Hindistanda inzibati bölgəZILLION n pl ZILLIONS böyük müəyyyən edilməmiş rəqəmZIN n pl ZINS quru qırmızı şərabZINC v ZINCED ZINCING ZINCS or ZINCKED ZINCKING ZINC sink ilə örtmək metallic bir elementZINCATE n pl ZINCATES kimyəvi duzZINCIC adj sink ilə əlaqəliZINCIFY v ZINCIFIED ZINCIFYING ZINCIFIED sink ilə örtməkZINCITE n pl ZINCITES sink filiziZINCKED sink için geçmiş zamanıZINCKING sink için hal-hazırda iştirakçıZINCKY adj sink kimiZINCO n pl ZINCOS sinkdən mətbuat tablığıZINCOID adj ZINCOUSZINCIC adj SinkinZINCY adj sink ilə əlaqəliZINE n pl ZIN zinesa jurnalZINEB n pl ZINEBS bir həşarat ilacıZING v ZINGED ZINGIN Zings iynə kimi kəskin cavablarZINGANO n pl ZINGANI zingaroZINGARA n pl ZINGARE qara çingeneZINGARO n pl ZINGARI çingeneZINGER n pl ZINGERS iynə kimi kəskin replikalarZINGY adj ZINGIER ZINGIEST enjoyably exciting ZINK ad V ZINKIFIED ZINKIFYING ZINKIFIED sinki üçün ZINKIFY adj zinckZINNIA n pl ZINNIAS tropik bitkiZIP v ZIPPED ZIPPING ZIP s sürətli və enerjili hərəkətZIPLESS adj enerji və ya canlılıq olmamasıZIPLOCK adj sıx bir möhür əmələ gətirən yiv və cırıq ZIPOLA n pl ZIPOLAS zippo ZIPPER v ZIPPERED ZIPPERING ZIPPER fermuarla bağlamaq bir cüt diştə olan tutacaq ZIPPO n pl ZIPPOS heç bir şey ZIPPY adj ZIPPIER ZIPPIEST enerji dolu ZIPPILY adv ZIRAM n pl ZIRAMS kimyəvi duz ZIRCALOY n pl ZIRCALOYs sink latası ZIRCON n pl ŞİRKET mineral ZIRCONIA n pl ZIRCONIA S kimyeviyi tərkibZIRCONİK adj sink ilə münasibətdə olan bir metal elementZIT n pl ZITS pigmentZITHER n pl ZİTHER Nstringed aləti ZİTHER Nkeyboard aləti ZİTHİN APL stringgin İtekstikmak ZİZİT n pl ŞİRKET ZİRÖRÜLÜ biri, ZARARDI BİRİ ZZİZ GİRİ eyəsində kudrust hissi, yerlərin ZIGGURAT n pl ZIGGURATS qədim Babil məbədiZIGZAG v ZIGZAGGING ZIGZAG kəskin dönüşlərZIGZAGGY adj kəskin dönüşlərlə işarələnmişZİKKURAT n pl ZİKKURAT zəfəratZİKKURAT n pl ZİKKURAT zəfəratZİRÜH n pl ZİRİH bir aok ike yüksək zolaqzalı ZİKKURAT plni alan ZİRURU isk kiЯzanənarada ZİKKURAT plni alan ZİGZARQ ideyi hopdibrarv kəskim ke sıxid ЗИKKURAT plni alan ЗИKKURAT ZİGGORAMO ZİRÜRALI ZİRÜRURU іheçın."). 
+```
+entry(q, sözlər, [], "not followed by U BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+entry(words, with, [], "AEIOU saitləri olmayan BYHMMMMYSHBRRBYSCRYCWMDRYFLYFRYGRRGYMGYPHMMHYPMMMMYCNTHPHTPLYPRYPSTPYXSHHSHYSKYSLYSPYSTYSYNTHYTRYTSKWHYWRYWYNZZZBRRRBYRLCWMSCYSTDRYSGYMSGYPSHWYLHYMNHYPSLYCHLYNXMYCSMYTHPFFTPSSTRYNDSCRYSHHHSKRYSPRYSYNCSYPHTSKSTYPPTYPYWHYSWYCHWYNDWYNNWYNSXYSTBYRLSCRWTHCRYPTCYSTSDRYLYFLYBYGHYLLGLYPHGRRRLGYPSYHWYLSHYMNSLYMPHLYNCHMYRRHMYTHSMYTHYNYMPHPHPHTPSYCHPYGMYRYNDSSHYLYSLYLYSTYMYSYLPHSYNCHSYNCSSYNTHSYPHSTHYMYTRYSTTYPPSWRYLYWYNDSWYNNSXYLYLXYSTSCRWTHSCRYPTSFLYBYSFLYSCHGHYLLSGLYCYLGLYPHSGRRRLSLYMPHSMYRRHSMYRRHYNYMPHSPSYCHSRHYTHMSPHYNXSPRYLYSYLPHSSYLPHYSYNCHSSYNTHSSYZYGYTRYSTSTSKTSKXYLYLSGLYCYLSRHYTHMSTSKTSKS").
+Prolog: entry(words, containing, [], "J Q X or Z AXEXJOOXQIXIXUZAADZAJIAXEAZOBIZBOXCOXCOZCUZDEXFAXFEZFIXFIZFOXGOXHAJHEXJABJAGJAMJARJAWJAYJEEJETJEUJIBJIGJINJOBJOEJOGJOTJOWJOYJUGJUNJUSJUTKEXLAXLEXLOXLUXMAXMIXMUXNIXOXOOXYPAXPIXPOXPYXQATQISQUARAJRAXREXREZSAXSEXSIXSOXSUQTAJTAXTIXTIZTUXVEXVOXWAXWIZXISZAGZAPZASZAXZEDZEEZEKZEPZIGZINZIPZITZOAZOOZUZZZZADZEAJARAJEEAJISAPEXAQUAAXALAXEDAXELAXESAXILAXISAXLEAXONAZANAZONBAZZBIZEBOXYBOZOBRUXBUZZCALXCAZHCHEZCINQCOAXCOXACOZYCRUXCZARDAZEDEXYDITZDJINDOJODOUXDOXYDOZEDOZYEAUXEXAMEXECEXEDEXESEXITEXONEXPOFALXFAUXFAZEFIXTFIZZFLAXFLEXFLUXFOXYFOZYFRIZFUJIFUTZFUZEFUZZGAZEGEEZGOJIGRIZHADJHAJIHAJJHAZEHAZYHOAXIBEXILEXIXIAIZARJABSJACKJADEJAGGJAGSJAILJAKEJAMBJAMSJANEJAPEJARLJARSJATOJAUKJAUPJAVAJAWSJAYSJAZZJEANJEEDJEEPJEERJEESJEEZJEFEJEHUJELLJEONJERKJESSJESTJETEJETSJEUXJIAOJIBBJIBEJIBSJIFFJIGSJILLJILTJIMPJINKJINNJINSJINXJIRDJIVEJIVYJOBSJOCKJOESJOEYJOGSJOHNJOINJOKEJOKYJOLEJOLTJOOKJOSHJOSSJOTAJOTSJOUKJOWLJOWSJOYSJUBAJUBEJUCOJUDOJUDYJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJIHAFIZHAJESHAJISHAJJIHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGUMJUICEJUICYJUJUSJUKEDJUKESJUKUSJULEPJUMARJUMBOJUMPSJUMPYJUNCOJUNKSJUNKYJUNTAJUNTOJUPESJUPONJURALJURATJURELJURORJUSTSJUTESJUTTYJUVIEKANJIKANZUKAZOOKEXESKLUTZKOJISKOPJEKUDZUKYLIXLATEXLAXERLAXESLAXLYLAZARLAZEDLAZESLEXESLEXISLOXEDLOXESLUXESMAIZEMAJORMAQUIMATZAMATZOMAUZYMAXEDMAXESMAXIMMAXISMAZEDMAZERMAZESMEZESMEZZOMIREXMIRZAMIXEDMIXERMIXESMIXUPMIZENMOJOSMOXASMOXIEMOZOSMUJIKMUREXMUXEDMUXESMUZZYNAZISNERTZNEXUSNINJANIQABNIXEDNIXESNIXIENIZAMNUDZHOBJETOOZEDOOZESORZOSOUZELOUZOSOXBOWOXERSOXEYEOXIDEOXIDSOXIMEOXIMSOXLIPOXTEROZONEPAXESPHIZZPHLOXPIEZOPIQUEPIXELPIXESPIXIEPIZZAPLAZAPLOTZPONZUPOOJAPOXEDPOXESPREXYPRIZEPROXYPUJAHPUJASPUNJIPYXESPYXIEPYXISPZAZZQADISQAIDSQAJAQQANATQIBLAQOPHSQUACKQUADSQUAFFQUAGSQUAILQUAISQUAKEQUAKYQUALEQUALMQUANTQUAREQUARKQUARTQUASHQUASIQUASSQUATEQUAYSQUBITQUEANQUEENQUEERQUELLQUERNQUERYQUESTQUEUEQUEYSQUICKQUIDSQUIETQUIFFQUILLQUILTQUINSQUINTQUIPSQUIPUQUIREQUIRKQUIRTQUITEQUITSQUODSQUOINQUOITQUOLLQUOTAQUOTEQUOTHQURSHRADIXRAJAHRAJASRAJESRAXEDRAXESRAZEDRAZEERAZERRAZESRAZORREDOXREDUXREFIXREJIGRELAXREMEXREMIXRETAXREWAXREXESREZESRIOJARITZYROQUESAJOUSAXESSCUZZSEIZASEIZESEXEDSEXERSEXESSEXTOSEXTSSHOJISHOJOSILEXSIXERSIXESSIXMOSIXTESIXTHSIXTYSIZARSIZEDSIZERSIZESSLOJDSMAZESOJASSOJUSSOYUZSOZINSPITZSQUABSQUADSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZODITZYDIXITSDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXIERFOXILYFOXINGFOZIERFRAZILFREEZEFRENZYFRIEZEFRIJOLFRIZEDFRIZERFRIZESFRIZZYFROUZYFROWZYFROZENFURZESFUTZEDFUTZESFUZEESFUZILSFUZINGFUZZEDFUZZESGAIJINGALAXYGANJAHGANJASGAUZESGAZABOGAZARSGAZEBOGAZERSGAZINGGAZUMPGEEZERGHAZALGHAZISGIZMOSGLAZEDGLAZERGLAZESGLITZYGLOZEDGLOZESGRAZEDGRAZERGRAZESGROSZEGROSZYGUZZLEGYOZASGYTTJAHADJEEHADJESHADJISHAJJESHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANSHAZARDHAZELSHAZERSHAZIERHAZILYHAZINGHAZMATHAZZANHEEZEDHEEZESHEJIRAHEXADEHEXADSHEXANEHEXERSHEXINGHEXONEHEXOSEHEXYLSHIJABSHIJACKHIJRAHHIJRASHOAXEDHOAXERHOAXESHOTBOXHUTZPAHUZZAHHUZZASIBEXESICEBOXILEXESINFLUXINJECTINJERAINJUREINJURYINKJETIODIZEIONIZEIXODIDIXORASIXTLESIZARDSIZZARDJABBEDJABBERJABIRUJABOTSJACALSJACANAJACKALJACKEDJACKERJACKETJADINGJADISHJAEGERJAGERSJAGGEDJAGGERJAGRASJAGUARJAILEDJAILERJAILORJALAPSJALOPSJALOPYJAMBEDJAMBESJAMMEDJAMMERJANGLEJANGLYJANNEYJAPANSJAPERSJAPERYJAPINGJARFULJARGONJARINAJARRAHJARREDJARVEYJASMINJASPERJASSIDJAUKEDJAUNCEJAUNTSJAUNTYJAUPEDJAWANSJAWINGJAYGEEJAYVEEJAZZBOJAZZEDJAZZERJAZZESJEBELSJEEINGJEEPEDJEEREDJEERERJEESLYJEEZLYJEHADIJEHADSJEJUNAJEJUNEJELLEDJENNETJERBOAJEREEDJERIDSJERKEDJERKERJERKINJERRIDJERSEYJESSEDJESSESJESTEDJESTERJETLAGJETONSJETSAMJETSOMJETTEDJETTONJEWELSJEZAILJIBBAHJIBBASJIBBEDJIBBERJIBERSJIBINGJICAMAJIGGEDJIGGERJIGGLEJIGGLYJIGSAWJIHADIJIHADSJILTEDJILTERJIMINYJIMMIEJIMPERJIMSONJINGALJINGKOJINGLEJINGLYJINKEDJINKERJINNEEJINNISJINXEDJINXESJITNEYJITTERJIVERSJIVIERJIVINGJNANASJOBBEDJOBBERJOBBIEJOCKEYJOCKOSJOCOSEJOCUNDJOGGEDJOGGERJOGGLEJOHNNYJOINEDJOINERJOINTSJOISTSJOJOBAJOKERSJOKIERJOKINGJOLTEDJOLTERJORAMSJORDANJORUMSJOSEPHJOSHEDJOSHERJOSHESJOSSESJOSTLEJOTTEDJOTTERJOUALSJOUKEDJOULESJOUNCEJOUNCYJOURNOJOUSTSJOVIALJOWARSJOWINGJOYFULJOYINGJOYOUSJOYPADJOYPOPJUBBAHJUBHAHJUBILEJUDDERJUDGEDJUDGERJUDGESJUDIESJUDOKAJUGATEJUGFULJUGGEDJUGGLEJUGULAJUGUMSJUICEDJUICERJUICESJUJUBEJUKINGJULEPSJUMARSJUMBALJUMBIEJUMBLEJUMBOSJUMPEDJUMPERJUNCOSJUNGLEJUNGLYJUNIORJUNKEDJUNKERJUNKETJUNKIEJUNTASJUNTOSJUPONSJURANTJURATSJURELSJURIEDJURIESJURISTJURORSJUSTEDJUSTERJUSTLEJUSTLYJUTTEDJUVIESKAIZENKAMEEZKANJISKANZUSKAZOOSKHAZENKIBITZKLAXONKLUTZYKOLHOZKOLKOZKOPJESKUDZUSKUVASZKWANZALARYNXLAXESTLAXITYLAZARSLAZIEDLAZIERLAZIESLAZILYLAZINGLAZULILEXEMELEXICALIQUIDLIQUORLIZARDLOGJAMLOQUATLOXINGLUMMOXLUTZESLUXATELUXURYLYNXESMAGNOXMAHZORMAIZESMAJLISMAJORSMAMZERMANQUEMAQUISMARQUEMASJIDMASQUEMASTIXMATRIXMATZAHMATZASMATZOHMATZOSMATZOTMAXIMAMAXIMSMAXINGMAXIXEMAZARDMAZERSMAZIERMAZILYMAZINGMAZUMAMENINXMEZCALMEZUZAMEZZOSMINXESMIRZASMIXERSMIXINGMIXUPSMIZENSMIZUNAMIZZENMIZZLEMIZZLYMOJITOMOJOESMOMZERMOSQUEMOUJIKMOXIESMUJIKSMUSJIDMUSKOXMUXINGMUZHIKMUZJIKMUZZLEMYXOIDMYXOMANAZIFYNINJASNIQAABNIQABSNIXIESNIXINGNIZAMSNONTAXNOYAUXNOZZLENUZZLEOBJECTOBJETSONYXESOOZIEROOZINGOPAQUEORYXESOUTBOXOUTFOXOUTJUTOUZELSOXALISOXBOWSOXCARTOXEYESOXFORDOXHERDOXHIDEOXIDESOXIMESOXLIKEOXLIPSOXTAILOXTERSOXYGENOYEZESOZONESPACZKIPAJAMAPANZERPATZERPAXWAXPAZAZZPEGBOXPEROXYPHENIXPHIZESPIAZZAPIAZZEPICKAXPIQUEDPIQUESPIQUETPIXELSPIXIESPIZAZZPIZZASPIZZAZPIZZLEPLAQUEPLAZASPLEXALPLEXESPLEXORPLEXUSPODZOLPOLEAXPOLLEXPONZUSPOOJASPOTZERPOXIERPOXINGPOZOLEPRAJNAPRAXESPRAXISPREFIXPREMIXPRETAXPREXESPREZESPRIZEDPRIZERPRIZESPROJETPROLIXPUJAHSPULQUEPUNJISPUTZEDPUTZESPUZZLEPYJAMAPYXIESQABALAQAJAQSQANATSQIBLASQIGONGQINDARQINTARQIVIUTQUACKSQUACKYQUAEREQUAFFSQUAGGAQUAGGYQUAHOGQUAICHQUAIGHQUAILSQUAINTQUAKEDQUAKERQUAKESQUALIAQUALMSQUALMYQUANGOQUANTAQUANTSQUARKSQUARRYQUARTEQUARTOQUARTSQUARTZQUASARQUATREQUAVERQUBITSQUBYTEQUEANSQUEASYQUEAZYQUEENSQUEENYQUEERSQUELEAQUELLSQUENCHQUERNSQUESTSQUEUEDQUEUERQUEUESQUEZALQUICHEQUICKSQUIETSQUIFFSQUILLSQUILTSQUINCEQUINICQUININQUINOAQUINOLQUINSYQUINTAQUINTEQUINTSQUIPPUQUIPPYQUIPUSQUIREDQUIRESQUIRKSQUIRKYQUIRTSQUITCHQUIVERQULLIQQUOHOGQUOINSQUOITSQUOKKAQUOLLSQUORUMQUOTASQUOTEDQUOTERQUOTESQUOTHAQURUSHQWERTYRAJAHSRAMJETRAXINGRAZEEDRAZEESRAZERSRAZINGRAZORSRAZZEDRAZZESRAZZIARAZZLEREBOZOREFLEXREFLUXREJECTREJIGSREJOINREMIXTREQUINRESIZEREZEROREZONEREZZESRIOJASRISQUERITZESROMAJIROQUESROQUETROZZERSACQUESAJOUSSANJAKSAXISTSAXMANSAXMENSAXONYSCHIZOSCHIZYSCHNOZSCOLEXSCUZZYSEIZINGSEIZURESEIZORSEJANTSEQUELSEQUOIASERJEANTSEXIFIESSEXTANTSSEXTETTESEXTIALLSEXUALLYSHOEBIZSIXFOLDSIXPENCESIXSUITISIXTIESTSIZAINESSKOJUMPSKYJACKSSKYLITESSLIPJACKSLOUJAAHSLOZIERSLOZINESSMALLPOCATEMASMASQUERMORESQUEMUMMAQATMUMMERYMYCOTICSMYOXENEMYSTIQUENAPROXENNARWHALSNATURALSNOWGIRLSOAPLESSOARSMINOSOLEMNLYSOREANALSORRYISMOUTHLESSPACKWAXESPARABLESPARDIONSPARAOEUSPATCHILYSPINDLESSPITULOASSPLENDIDSPLOUDBASSPONGETHESPOOFABLESPRUNGYNESPYGLASSQUABBERYSLIPPIERSSOZOSULESSUCCASUBSCRIBEESUBTROPICALSUBURBTSUFFERESTSUGARPLUMSWAGBEAKERINGERSTAWEPIDERSTINGPEPPERSTOWNMOTUESSUBSECTEOSULLIESTUNBANSPACMANSPADAISESUNCAPOURSTUCCOSUMCRIMBSUMGROSSUPRIMARSUMLINALSURICATERURBANCEURBANESURCASTETURFIESTURNCOATUTAHINESUTTERANCEVAHINESERVISHERSVIVICATIONVIVOIDOXWALKEROVELYNSVELIVIVERACITYVICEVERSOVIPERGAVIVARIOUMPLETSVENDETALVENEERSVOICINGSVOCATIVOSWALKMINERWHICHWRINKLYURSUSABLEVIANDEZOOSPHERSWABNABLESWAGGIESWARDSOFTSWBURSARYSWINGIZERLYTHIVELYXIBRITELYXIPHOSTETHYTRYCHOSTERTESTAURURALTYZIRCONALZIRCONWARLSZUZONIOUSZYWIEANIDGE");

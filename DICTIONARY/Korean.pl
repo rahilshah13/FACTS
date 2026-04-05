@@ -72,3 +72,52 @@ entry(중지, n, [중지들], "중지").
 entry(abfarad, n, [앱패러드들], "전기 용량의 단위").
 entry(abhenry, n, [abhenrys], "유도성의 단위 또는 ABHENRIES").
 항목(혐오하다, 동사, [혐오한, 혐오하고 있는, 혐오한다], "혐오하다").
+entry(혐오자, n, [혐오자들], "혐오하는 사람").
+entry(준수, 명사, [준수들], "준수하는 행위").
+entry(따르다, v, [머물렀다,따르는중,머물다], "이의를 제기하지 않고 수용하다").
+엔트리(구독자, 명사, [구독자들], "머무르는 자").
+entry(abigail, n, [abigails], "여자 하인").
+능력(명사, [능력들], "무언가를 할 수 있는 능력의 질").
+항목(abiosis, n, [abioses], "생명 없음 비생물적 형용사").
+Prolog:
+entry(abject, adj, [], "낮은 상태에 빠진ABJECTLY 부사").
+entry(맹세하다, v, [맹세했다,맹세하는,맹세한다], "맹세하여 포기하다").
+엔트리(ablate, v, [ablated, ablating, ablates], "자르기로 제거하다").
+엔트리(제거, 명사, [제거들], "신체 부위의 외과적 제거").
+명사형식(탈격, 명사, [탈격들], "문법적 격").
+entry(감쇠기, n, [감쇠기들], "제거하는 것").
+엔트리(에이블라우트, 명사, [에이블라우츠], "동사 형태의 어근 모음이 패턴에 따라 변화하는 것").
+entry(ablaze, 형용사, [], "불타오르는").
+entry(able, 형용사, [], "충분한 힘 기술 또는 자원을 가진").
+entry(able, n, [ables], "통신 코드의 A 문자에 대한 단어").
+엔트리(abled, 형용사, [], "제대로 기능할 수 있는").
+출입(승가, 명사, [승가들], "교황 특사").
+entry(장애인 차별, n, [장애인 차별들], "장애인에 대한 편견 또는 차별").
+발음(ableist, 명사, [ableists], "장애 차별을 행하는 사람").
+엔트리(abler, 비교급, [], "able의").
+entry(ablest, 최상급, [], "able의").
+entry(ablings, adv, [], "ablins").
+entry(ablins, adv, [], "아마도").
+프로로그: entry(abloom, adj, [], "꽃이 핀").
+엔트리(클렌징제, 명사, [클렌징제들], "세정제").
+입력(ablush, 형용사, [], "얼굴을 붉히는").
+entry(abluted, adj, [], "씻어서 깨끗한").
+세탁(entry(ablution, n, [ablutions], "세탁")).
+다음과 같이 번역됩니다:
+entry(ably, 부사, [], "능숙한 방식으로").
+entry(abmho, n, [abmhos], "전기 전도도의 단위").
+엔트리(abnegate, v, [abnegated, abnegating, abnegates], "자신에게 부정하다").
+비정상(n, [비정상들], "정신적으로 결핍된 사람").
+탑승(aboard, 부사, [], "배, 기차 또는 비행기에 들어가거나 올라타는 것을 의미함").
+entry(거처, v, [거처했다, 거처하는 중, 거처들], "예언하다").
+엔트리(아보옴, n, [아보옴즈], "전기 저항의 단위").
+entry(aboideau, n, [aboideaus], "또는 ABOIDEAUXdike의 일종").
+entry(아부아토, n, [아부아토스], "또는 아부아토(ABOITEAUX아부이드)오").
+entry(폐지하다, v, [폐지했다, 폐지하는, 폐지한다], "폐지하다").
+entry(abolla, n, [abollae], "고대 로마에서 착용한 망토").
+entry(aboma, n, [아보마스], "남아메리카의 뱀").
+엔트리(아보마설, 형용사, [], "아보마슴에 관한").
+entry(주름위, n, [주름위들], "반추동물의 네 번째 위").
+entry(abomasus, n, [샘위], "양의 네 번째 위").
+entry(aboon, 부사, [], "위에").
+entry(aboral, adj, [], "입에서 멀리 떨어져 있는ABORALLY adv").

@@ -28963,3 +28963,670 @@ entry(uakari, n, [uakaris], "Janubiy Amerika maymuni").
 entry(following, is, [], "o‘z-o‘zini tushuntiruvchi UN old qo‘shimchasini saqlagan sifatlar va ravishlar ro‘yxati: notUNABATED adjUNABLE adjUNABUSED adjUNACIDIC adjUNACTED adjUNADDED adjUNADEPT adjUNADULT adjUNAFRAID adjUNAGED adjUNAGEING adjUNAGILE adjUNAGING adjUNAGREED adjUNAIDED adjUNAIMED adjUNAIRED adjUNAKIN adjUNALIKE adjUNALLIED adjUNAMAZED adjUNAMUSED adjUNAPT adjUNAPTLY advUNARCHED adjUNARGUED adjUNARTFUL adjUNASKED adjUNATONED adjUNAVOWED adjUNAWAKE adjUNAWAKED adjUNAWARE adjUNAWED adjUNAXED adjUNBACKED adjUNBAKED adjUNBANDED adjUNBANNED adjUNBARBED adjUNBASED adjUNBASTED adjUNBATHED adjUNBEATEN adjUNBENIGN adjUNBIASED adjUNBILLED adjUNBITTED adjUNBITTEN adjUNBITTER adjUNBLAMED adjUNBLEST adjUNBLOODY adjUNBOBBED adjUNBOILED adjUNBONDED adjUNBONED adjUNBOOTED adjUNBORN adjUNBOUGHT adjUNBOUNCY adjUNBOWED adjUNBOWING adjUNBRED adjUNBRIGHT adjUNBROKE adjUNBROKEN adjUNBULKY adjUNBURNED adjUNBURNT adjUNBUSTED adjUNBUSY adjUNCALLED adjUNCANDID adjUNCANNED adjUNCARDED adjUNCARING adjUNCARTED adjUNCARVED adjUNCASHED adjUNCASKED adjUNCAST adjUNCATCHY adjUNCAUGHT adjUNCAUSED adjUNCEDED adjUNCHARY adjUNCHASTE adj UNCHASTER UNCHASTESTUNCHEWED adjUNCHIC adjUNCHICLY advUNCHOSEN adjUNCIVIL adjUNCLASSY adjUNCLAWED adjUNCLEAN adj UNCLEANER UNCLEANESTUNCLEAR adj UNCLEARER UNCLEARESTUNCLEFT adjUNCLOUDY adjUNCLOYED adjUNCOATED adjUNCODED adjUNCOINED adjUNCOMBED adjUNCOMELY adjUNCOMIC adjUNCOMMON adj UNCOMMONER UNCOMMONESTUNCOOKED adjUNCOOL adjUNCOOLED adjUNCOUTH adjUNCOY adjUNCRAZY adjUNCREWED adjUNCUFFED adjUNCURED adjUNCURSED adjUNCUT adjUNCUTE adjUNDAMPED adjUNDARING adjUNDATED adjUNDECKED adjUNDENIED adjUNDENTED adjUNDEVOUT adjUNDIMMED adjUNDOABLE adjUNDOCILE adjUNDOTTED adjUNDREAMT adjUNDRIED adjUNDUBBED adjUNDULLED adjUNDYED adjUNEAGER adjUNEARNED adjUNEATEN adjUNEDIBLE adjUNEDITED adjUNENDED adjUNENDING adjUNENVIED adjUNERASED adjUNEROTIC adjUNERRING adjUNEVADED adjUNEVEN adj UNEVENER UNEVENESTUNEVENLY advUNEXOTIC adjUNEXPERT adjUNFADED adjUNFADING adjUNFAIR adj UNFAIRER UNFAIRESTUNFAIRLY advUNFAKED adjUNFALLEN adjUNFAMOUS adjUNFANCY adjUNFAZED adjUNFEARED adjUNFED adjUNFELT adjUNFELTED adjUNFILIAL adjUNFILLED adjUNFILMED adjUNFIRED adjUNFISHED adjUNFLASHY adjUNFLAWED adjUNFLEXED adjUNFLUTED adjUNFOILED adjUNFOND adjUNFORCED adjUNFORGED adjUNFORKED adjUNFORMED adjUNFOUGHT adjUNFOUND adjUNFRAMED adjUNFUNDED adjUNFUNNY adj UNFUNNIER UNFUNNIESTUNFUSED adjUNFUSSY adj UNFUSSIER UNFUSSIESTUNGALLED adjUNGARBED adjUNGATED adjUNGAZING adjUNGELDED adjUNGENIAL adjUNGENTLE adjUNGENTLY advUNGIFTED adjUNGIVING adjUNGLAZED adjUNGOWNED adjUNGRACED adjUNGRADED adjUNGREEDY adjUNGROUND adjUNGUIDED adjUNHAILED adjUNHALVED adjUNHAPPY adj UNHAPPIER UNHAPPIESTUNHARMED adjUNHASTY adjUNHEALED adjUNHEARD adjUNHEATED adjUNHEDGED adjUNHEEDED adjUNHELPED adjUNHEROIC adjUNHEWN adjUNHIP adj UNHIPPER UNHIPPESTUNHIRED adjUNHOLILY advUNHOLY adj UNHOLIER UNHOLIESTUNHUMAN adjUNHUNG adjUNHURT adjUNIDEAL adjUNIMBUED adjUNIRONED adjUNIRONIC adjUNISSUED adjUNJADED adjUNJOINED adjUNJOYFUL adjUNJUDGED adjUNJUST adjUNJUSTLY advUNKEELED adjUNKEPT adjUNKIND adj UNKINDER UNKINDESTUNKINDLY adv UNKINDLIER UNKINDLIESTUNKINGLY adjUNKISSED adjUNKOSHER adjUNLAWFUL adjUNLEASED adjUNLED adjUNLETHAL adjUNLETTED adjUNLEVIED adjUNLICKED adjUNLIKE adjUNLIKED adjUNLIKELY adj UNLIKELIER UNLIKELIESTUNLINED adjUNLISTED adjUNLIT adjUNLIVELY adjUNLOBED adjUNLOVED adjUNLOVELY adj UNLOVELIER UNLOVELIESTUNLOVING adjUNLUCKY adj UNLUCKIER UNLUCKIESTUNMACHO adjUNMAILED adjUNMANFUL adjUNMANLY adj UNMANLIER UNMANLIESTUNMAPPED adjUNMARKED adjUNMARRED adjUNMATED adjUNMATTED adjUNMEANT adjUNMELLOW adjUNMELTED adjUNMENDED adjUNMERRY adjUNMET adjUNMILLED adjUNMINED adjUNMODISH adjUNMOLTEN adjUNMOVED adjUNMOVING adjUNMOWN adjUNNAMED adjUNNEEDED adjUNNOISY adjUNNOTED adjUNOILED adjUNOPEN adjUNOPENED adjUNORNATE adjUNOWNED adjUNPADDED adjUNPAID adjUNPAIRED adjUNPARTED adjUNPAVED adjUNPAYING adjUNPEELED adjUNPITIED adjUNPITTED adjUNPLACED adjUNPLAYED adjUNPLIANT adjUNPLOWED adjUNPOETIC adjUNPOISED adjUNPOLITE adjUNPOLLED adjUNPOSED adjUNPOSTED adjUNPOTTED adjUNPRETTY adjUNPRICED adjUNPRIMED adjUNPRIZED adjUNPROBED adjUNPROVED adjUNPROVEN adjUNPRUNED adjUNPURE adjUNPURELY advUNPURGED adjUNQUIET adj UNQUIETER UNQUIETESTUNRAISED adjUNRAKED adjUNRANKED adjUNRATED adjUNRAZED adjUNREAD adjUNREADY adj UNREADIER UNREADIESTUNREAL adjUNREALLY advUNRENTED adjUNREPAID adjUNRESTED adjUNRHYMED adjUNRIBBED adjUNRIDDEN adjUNRIFLED adjUNRIMED adjUNRINSED adjUNRISEN adjUNROPED adjUNROUGH adjUNRULED adjUNRUSHED adjUNRUSTED adjUNSAFE adj UNSAFER UNSAFESTUNSAFELY advUNSALTED adjUNSATED adjUNSAVED adjUNSAVORY adjUNSAWED adjUNSAWN adjUNSCALED adjUNSEARED adjUNSEEDED adjUNSEEING adjUNSEEMLY adj UNSEEMLIER UNSEEMLIESTUNSEEN adjUNSEIZED adjUNSENT adjUNSERVED adjUNSEXUAL adjUNSEXY adj UNSEXIER UNSEXIESTUNSHADED adjUNSHAKEN adjUNSHAMED adjUNSHAPED adjUNSHAPEN adjUNSHARED adjUNSHARP adjUNSHAVED adjUNSHAVEN adjUNSHED adjUNSHOD adjUNSHORN adjUNSHOWY adjUNSHRUNK adjUNSHUT adjUNSIFTED adjUNSIGNED adjUNSILENT adjUNSINFUL adjUNSIZED adjUNSLAKED adjUNSLICED adjUNSLICK adjUNSMART adjUNSMOKED adjUNSOAKED adjUNSOBER adjUNSOCIAL adjUNSOILED adjUNSOLD adjUNSOLID adjUNSOLVED adjUNSORTED adjUNSOUGHT adjUNSOUND adj UNSOUNDER UNSOUNDESTUNSOURED adjUNSOWED adjUNSOWN adjUNSPENT adjUNSPILT adjUNSPLIT adjUNSPOILT adjUNSPRUNG adjUNSPUN adjUNSTABLE adj UNSTABLER UNSTABLESTUNSTABLY advUNSTEADY adj UNSTEADIER UNSTEADIESTUNSTONED adjUNSTUFFY adjUNSTUNG adjUNSUBTLE adjUNSUBTLY advUNSUITED adjUNSUNG adjUNSUNK adjUNSURE adjUNSURELY advUNSWAYED adjUNSWEPT adjUNTAGGED adjUNTAKEN adjUNTAME adjUNTAMED adjUNTANNED adjUNTAPPED adjUNTASTED adjUNTAXED adjUNTENDED adjUNTESTED adjUNTHAWED adjUNTIDILY advUNTIDY adj UNTIDIER UNTIDIESTUNTILLED adjUNTILTED adjUNTIMED adjUNTIMELY adj UNTIMELIER UNTIMELIESTUNTINGED adjUNTIPPED adjUNTIRED adjUNTIRING adjUNTITLED adjUNTOLD adjUNTORN adjUNTRACED adjUNTRENDY adjUNTRIED adjUNTRUE adj UNTRUER UNTRUESTUNTRULY advUNTRUSTY adjUNTUFTED adjUNTURNED adjUNUNITED adjUNURGED adjUNUSABLE adjUNUSED adjUNUSUAL adjUNVALUED adjUNVARIED adjUNVEINED adjUNVERSED adjUNVESTED adjUNVEXED adjUNVEXT adjUNVIABLE adjUNVOCAL adjUNWALLED adjUNWANING adjUNWANTED adjUNWARIER comparative of unwaryUNWARIEST superlative of unwaryUNWARILY advUNWARMED adjUNWARNED adjUNWARPED adjUNWARY adj UNWARIER UNWARIESTUNWASTED adjUNWAXED adjUNWEANED adjUNWEARY adjUNWED adjUNWEDDED adjUNWEEDED adjUNWELDED adjUNWELL adjUNWEPT adjUNWET adjUNWETTED adjUNWHITE adjUNWIELDY adj UNWIELDIER UNWIELDIESTUNWIFELY adjUNWILLED adjUNWISE adj UNWISER UNWISESTUNWISELY advUNWON adjUNWOODED adjUNWOOED adjUNWORKED adjUNWORN adjUNWORTHY adj UNWORTHIER UNWORTHIESTUNWRUNG adjUNYOUNG adjUNZONED adj").
 ```
 entry(vac, n, [vacs], "barcha boshqa maʼlumotlar").
+entry(waggoner, n, [waggoners], "vagonchi").
+entry(waging, present, [], "wage fe'lining participli").
+entry(arava, v, [aravalangan, aravalanmoqda, aravalar], "toʻrt gʻildirakli ot tortadigan vosita yordamida aravada tashimoq").
+entry(vagon, n, [vagonlar], "vagon orqali tashish").
+entry(aravakash, n, [aravakashlar], "aravani boshqaruvchi kishi").
+entry(wagsome, adj, [], "hazilkash").
+entry(do‘l, n, [do‘llar], "qaldirgoch").
+entry(wahconda, n, [wahcondalar], "vakanda").
+entry(wahine, n, [vahinalar], "gavaylik ayol").
+entry(wahoo, n, [wahoos], "gulli buta").
+entry(waif, v, [waifed, waifing, waifs], "tashlab yuborish").
+entry(waifish, adj, [], "qatoghonsimon").
+entry(waiflike, adj, [], "uysiz bolaga o'xshash").
+entry(wail, v, [wailed, wailing, wails], "uzoq qayg'uli qichqiriq chiqarish").
+entry(wailer, n, [wailers], "faryod qiluvchi").
+entry(ishqiboz, sifat, [], "mo'ruhli").
+entry(wailsome, sifat, [], "wailful").
+entry(wain, n, [wainlar], "katta ochiq arava").
+entry(wainscot, v, [wainscoted,wainscoting,wainscots], "yoki WAINSCOTTED WAINSCOTTING WAINSCOTSti devorlarini yog'och panellar bilan bezash").
+entry(wair, v, [waired,wairing,wairs], "sarflash").
+entry(bel, n, [bellar], "qovurg'a va kestirib o'rtasidagi tana qismiBELLI adj").
+entry(waister, n, [waisters], "kemaning o'rta qismida joylashgan dengizchi").
+entry(belon, n, [belonlar], "kiyim tikish materiali turi").
+kiritish(kutmoq, f, [kutdi,kutmoqda,kutadi], "kutish umidida qolmoq").
+entry(ofitsiant, v, [ofitsiantlik_qildi, ofitsiantlik_qilmoqda, ofitsiantlar], "restoranda erkak ofitsiant sifatida ishlash").
+entry(kutish, n, [kutishlar], "kutayotgan kishining harakati").
+entry(kutishRo‘yxati, v, [kutishRo‘yxatida, kutishRo‘yxatiYaratmoq, kutishRo‘yxatlari], "kutish ro'yxatiga qo'yish").
+entry(ofitsiantka, v, [ofitsiantkalik_qildi, ofitsiantkalik_qilmoqda, ofitsiantkalik_qilmoqda], "restoranda ayol ofitsiant sifatida ishlash").
+entry(waitron, n, [waitrons], "restoranda xizmat qiluvchi ofitsiant").
+entry(voz kechmoq, f, [voz kechdi, voz kechyapti, voz kechadi], "qasd bilan voz kechmoq").
+entry(voz kechish, n, [voz kechishlar], "nimadirga qo‘l siltash harakati").
+entry(wakame, n, [vakame], "Osiyoda tug'ilgan jigarrang dengiz o'ti").
+entry(wakanda, n, [vakandalar], "Syu qabilasi e'tiqodidagi g‘ayritabiiy kuch").
+entry(o‘yg‘onmoq, v, [o‘yg‘ondi,o‘yg‘ongan,o‘yg‘onish], "WAKEUxlashdan uyg‘otmoq").
+entry(behovot, sif, [], "uxlamayotgan yoki uxlay olmaydigan").
+entry(wakeless, adj, [], "tinch  uyquga nisbatan qollaniladi").
+entry(waken, v, [uyg'otdi,uyg'onish,uyg'otadi], "uyg'onmoq").
+entry(uyg'otuvchi, n, [uyg'otuvchilar], "uyg'otadigan kishi").
+entry(wakening, n, [wakenings], "uyqudan uyg‘onish harakati").
+entry(waker, n, [uyg‘otuvchilar], "uyg‘otuvchi").
+entry(wakerife, adj, [], "uyg‘oq").
+entry(vakiki, n, [vakikis], "Janubiy dengiz orollarining chig'anoqli puli").
+entry(uygonish, n, [uygonishlar], "uyg'oq holatda bo'lish").
+entry(kit, v, [kitdi, kitib, kitlar], "belgi bilan belgilash").
+entry(waler, n, [walers], "avstraliyada yetishtirilgan egar ot").
+entry(wali, n, [walis], "Arab mamlakatida viloyat hokimi").
+entry(walies, pl, [], "valining").
+entry(yurmoq, f, [yurdi, yuryapti, yuradi], "oyoqda harakat qilishGA YURISH MUMKIN sifat").
+entry(walkaway, n, [yengil g‘alabalar], "oson g‘alaba").
+entry(yuruvchi, n, [yuruvchilar], "yuruvchi kishi").
+entry(yurar, interj, [], "itdan yurish uchun tayyor bo'lishini buyurish uchun ishlatiladi").
+entry(yurish, n, [yurishlar], "yurgan shaxsning harakati").
+entry(chiqib ketish, n, [chiqib ketishlar], "ishchilar tomonidan o'tkazilgan ish tashlash").
+entry(walkover, n, [walkovers], "yurib o'tish").
+entry(walkup, n, [walkups], "liftga ega bo'lmagan kvartirali uy").
+entry(yurish yo'lagi, n, [yurish yo'laklari], "yurish uchun yo'lak").
+entry(walkyrie, n, [walkyries], "valkiriya").
+entry(devor, v, [devorlangan, devorlatayotgan, devorlar], "bir maydonni yopish uchun tiklangan tuzilma bilan ta'minlash").
+entry(walla, n, [wallas], "valloh").
+entry(yovvoyi_kenguru, n, [yovvoyi_kengurular], "kichik kenguru").
+entry(wallah, n, [wallahs], "ma'lum bir kasb yoki faoliyat bilan shug'ullanuvchi shaxs").
+entry(wallaroo, n, [wallaroos], "katta kenguru").
+entry(wallet, n, [wallets], "yassi buklanadigan g‘ilof").
+entry(walley, n, [walleylar], "figurali uchishda sakrash turkumlaridan biri").
+entry(шоҳбалиқ, n, [шоҳбалиқлар], "оқ қорақошга эга кўзШОҲБАЛИҚЛИ сўз").
+entry(wallie, n, [wallies], "xizmatkor").
+entry(wallies, pl, [], "valliys").
+entry(урмоқ, ф, [урди,уряпти,уради], "кўп урмоқ").
+entry(walloper, n, [wallopers], "uruvchi");
+entry(wallow, v, [wallowed,wallowing,wallows], "yumalamoq").
+entry(devona, n, [devonalar], "o'zini yo'qotiayotgan kishi").
+entry(wally, n, [wallilari], "wali").
+entry(yong'oq, n, [yong'oqlar], "iste'mol qilinadigan yong'oq").
+entry(mors, n, [morslar], "dengiz sutemizuvchisi").
+entry(val's, v, [val'sladi,val'slamoqda,val'slar], "bal zalida raqs tushmoq").
+entry(waltzer, n, [valtserlar], "valtser raqsi tushuvchi kishi").
+entry(waly, n, [walies], "vizual tarzda zavqli narsa").
+entry(wamble, v, [wambled,wambling,wambles], "bezovtalanib yurmoq").
+entry(wambly, adj, [], "WAMBLIER WAMBLIESTbeqaror").
+entry(qorin, n, [qorinlar], "qorin").
+entry(wamefou, n, [wamefous], "qorin to'lgan").
+entry(wameful, n, [wamefuls], "vamefou").
+entry(wammus, n, [wammuslar], "wamus").
+entry(wampish, v, [wampished,wampishing,wampishes], "atmoq").
+entry(wampum, n, [wampumlar], "Ilgari tub amerikaliklar tomonidan ishlatilgan valuta shakli").
+entry(wampus, n, [wampuses], "wamus").
+entry(wamus, n, [wamuslar], "og‘ir ustki kurtka").
+entry(wan, adj, [], "TUSHDAN TUSHLARI TUSHLAGAN HOLSIZ").
+entry(wan, v, [wanned,wanning,wans], "o‘chib qolmoq").
+entry(tayoqcha, n, [tayoqchalar], "nozik tayoq").
+entry(sarsonmoq, v, [sarsondi,sarsonlik,sarsonlar], "maqsad yoki yo'nalishsiz harakatlanmoq").
+entry(sayohatchi, n, [sayohatchilar], "sayr qiladigan kishi").
+entry(wanderoo, n, [wanderoos], "Osiyolik maymun").
+entry(wandle, adj, [], "egiluvchan").
+entry(kamayish, v, [kamaydi, kamayish, kamayadi], "o'lcham yoki ko'lamda kamayish").
+entry(waney, adj, [], "ENG QIYSHIQ").
+entry(wangan, n, [wangans], "wanigan").
+entry(wangle, v, [wangled,wangling,wangles], "yo'llama yoki hiyla bilan erishmoq").
+entry(wangler, n, [wanglers], "aldovchi").
+entry(wangun, n, [wanguns], "vanigan").
+entry(wanier, comparative, [], "waney va wany dan").
+entry(waniest, superlative, [], "waney va wany ning").
+entry(wanigan, n, [wanigans], "yog'och kesish lagerida ishlatiladigan ta'minot sandig'i").
+entry(so'nmoq, hozirgi, [], "so'nmoqning sifatdosh shakli").
+entry(wanion, n, [wanions], "qasos").
+entry(wanly, rav, [], "holdan toygan tarzda").
+entry(wannabe, n, [wannabes], "boshqalarga o'xshashga intiluvchi kishi").
+entry(wannabee, n, [], "WANNABEESwannabe").
+entry(wanned, o'tgan zamon, [], "wan so'zining zamoni").
+entry(wanner, comparative, [], "wan dan").
+entry(rangsizlik, n, [rangsizliklar], "rangsiz bo'lish sifati").
+entry(wannest, superlative, [], "of wan").
+entry(wannigan, n, [wanniganlar], "wanigan").
+entry(wanning, hozirgi, [], "wan fe'lining hozirgi zamon sifatdoshi").
+entry(xohlamoq, f, [xohlagan,xohlayotgan,xohlaydi], "istakda bo'lish").
+entry(wantage, n, [wantages], "yetishmayotgan narsa").
+entry(istovchi, n, [istovchilar], "istagan kishi").
+entry(wanton, v, [wantoned,wantoning,wantons], "axloqsiz tutish").
+entry(wantoner, n, [wantoners], "o'zboshimchalik qiluvchi").
+entry(wantonly, adv, [], "axloqsiz").
+entry(wany, adj, [], "BA'ZI JOYLARDA SO'LUVCHI ENG SO'LUVOCHI").
+entry(wap, v, [wapped,wapping,waps], "o'ramoq").
+entry(wapiti, n, [wapitilar], "katta kiyik").
+entry(urush, f, [urushdi, urushmoqda, urushlar], "ochiq qurolli to‘qnashuv holatiga kirish").
+entry(urush qushi, n, [urush qushlari], "vintage harbiy samolyot").
+entry(warble, v, [warbled, warbling, warbles], "melodik bezaklar bilan kuylash").
+entry(warbler, n, [warblers], "chilchiq").
+entry(warbly, adj, [], "WARBLIESTVOICED TRILLOR QUAVER MEHNATIDA").
+entry(urush_hunari, n, [urush_hunarlari], "urush san’ati").
+entry(ward, v, [warded,warding,wards], "chetga burmoq").
+entry(warden, n, [wardens], "qamoqxonaning bosh rasmiysi").
+entry(qo'riqchi, n, [qo'riqchilar], "qo'riqchining lavozimi").
+entry(qarovulchi, n, [qarovulchilar], "nimanidir qo'riqlaydigan shaxs").
+entry(wardless, adj, [], "qulf korpusining ward qismi bo‘lmagan").
+entry(wardress, n, [wardresses], "ayol qo'riqchi").
+entry(garderob, n, [garderoblar], "kiyimlar to'plami").
+entry(garderob, v, [garderob_qildi,garderob_qilmoqda,garderoblar], "kiyim-kechak to'plami bilan ta'minlash").
+entry(ofitserlar oshxonasi, n, [ofitserlar oshxonalari], "urush kemasida ofitserlar uchun ovqatlanish joyi").
+entry(vasiylik, n, [vasiyliklar], "vasiy nazorati ostida bo'lish holati").
+entry(ware, v, [wared,waring,wares], "hoso bo'lish uchun").
+entry(omborxona, n, [omborxonalar], "sotish uchun tovarlar ko\'rsatiladigan xona").
+entry(warez, n, [warez], "noqonuniy ko‘chirilgan dasturiy ta'minot").
+entry(jang, n, [janglar], "urush olib borish harakati").
+entry(vorfarin, n, [vorfarinlar], "kimyoviy birikma").
+entry(urush_o‘yini, v, [urush_o‘ynadi, urush_o‘ynamoqda, urush_o‘yinlari], "simulyatsiyalangan harbiy mojarolarda qatnashish").
+entry(wargamer, n, [jang oʻyinchilari], "jang oʻyinlari bilan shugʻullanuvchi").
+entry(bojxona, n, [bojxonalar], "raketaning portlovchi modda joylashgan old qismi").
+entry(urush oti, n, [urush otlari], "ortiqcha ijro etilgan musiqiy yoki dramatik asar").
+entry(warier, taqqoslash, [], "ogohlikdan").
+entry(wariest, superlative, [], "wary dan").
+entry(warily, adv, [], "ehtiyotkorlik bilan").
+kirish(ehtiyotkorlik, n, [ehtiyotkorliklar], "ehtiyotkor bo‘lish holati").
+entry(waring, hozirgi, [], "ware ning harakatdosh shakli").
+entry(warison, n, [warisons], "hujumga chaqiruv").
+entry(wark, v, [warked, warking, warks], "og‘riqni bardosh bilan kutmoq").
+entry(urushsiz, adj, [], "urushdan ozod").
+entry(jangovar, adj, [], "urushda ishtirok etishga moyil").
+entry(warlock, n, [warlocks], "sehrgar").
+entry(urushboshli, n, [urushboshilar], "jangarilik ruhidagi millatning harbiy yetakchisi").
+entry(issiq, adj, [], "ISSIQROQ ENG ISSIQmo''tadil issiq").
+entry(iliq, v, [iliqladi,iliqlash,iliqlaydi], "iliq qilish").
+entry(jangchi, n, [jangchilar], "urush qiluvchi").
+entry(warmer, n, [warmers], "isyonasini isitamiz").
+entry(isitish, n, [isitishlar], "biror narsani isitish harakati yoki holati").
+entry(warmish, adj, [], "birmuncha issiq").
+entry(iliqlik bilan, ravish, [], "iliq tarzda").
+entry(issiqilik, n, [issiqliklar], "issiqlik holati").
+entry(warmouth, n, [warmouths], "chuchuk suv baliği").
+entry(issiq, n, [issiqs], "issiq").
+entry(razminka, n, [razminkalar], "tayyorgarlik mashqi yoki jarayoni").
+entry(warn, v, [ogohlantirdi,ogohlantirish,ogohlantiradi], "yaqinlashib kelayotgan yoki ehtimoliy xavfdan xabardor qilish").
+entry(warner, n, [warners], "ogohlantiruvchi").
+entry(ogohlantirish, n, [ogohlantirishlar], "ogohlantiruvchi narsa").
+entry(warp, v, [yalitiq edi, latish, yaltirab turadi], "shakldan burish yoki burish").
+entry(warpage, n, [qayishlar], "qayish harakati").
+entry(urushbo'yoq, n, [urushbo'yoqlar], "jang oldidan yuz va tanani bezatish uchun ishlatiladigan bo'yoq").
+entry(urush_yuli, n, [urush_yullari], "hujum qiluvchi tub amerikaliklar tomonidan olingan marshrut").
+entry(buraluvchi, n, [buraluvchilar], "buraluvchi").
+entry(qiruvchi, n, [qiruvchilar], "jangovar qurol-yarog' bilan jihozlangan samolyot").
+entry(urushqudrati, n, [urushqudratlari], "urush kilishga qudrat").
+entry(warpwise, ravish, [], "vertikal yo'nalishda").
+entry(warragal, n, [warragals], "warrigal").
+entry(garov, v, [garovga olingan, garovga olish, garovlar], "vakolat berish").
+entry(kafolat, v, [kafolatlangan,kafolatlayotgan,kafolatlar], "yozma kafolat berish").
+entry(warred, past, [], "urush zamoni").
+entry(warren, n, [warrens], "quyonlar yashaydigan va ko'payadigan joy").
+entry(warrener, n, [warreners], "quyonxona boshqaruvchisi").
+entry(warrigal, n, [warrigallar], "dingo").
+entry(warring, hozirgi, [], "urush fe'lining sifatdoshi").
+entry(jangchi, n, [jangchilar], "janglarda ishtirok etgan yoki tajribaga ega shaxs").
+entry(varshava, n, [varshavalar], "dengiz baliq").
+entry(jangovor_kema, n, [jangovor_kemalar], "jangga mo'ljallangan kema").
+entry(warsle, v, [warsled, warsling, warsles], "kurashmoq").
+entry(warsler, n, [warslers], "kurashchi").
+entry(warstle, v, [warstled,warstling,warstles], "kurashmoq").
+entry(warstler, n, [kurashchi], "kurashchi").
+entry(siğil, n, [siğillar], "teri ustidagi patWARTED sif").
+entry(yovvoyi_to'ng'iz, n, [yovvoyi_to'ng'izlar], "Afrika yovvoyi to'ng'izi").
+entry(wartier, comparative, [], "tukliroq").
+entry(wartiest, superlative, [], "wartyning").
+entry(urushvaqti, n, [urushvaqtlar], "urush vaqti").
+entry(wartsiz, adj, [], "tukmatlarsiz").
+entry(wartlike, adj, [], "siğilga o‘xshash").
+entry(warty, adj, [], "SOG'ALOVCHI SOG'ALOVCHILAR sog'allar bilan qoplangan").
+entry(urushish, n, [urushishlar], "urush davrida bajarilgan ish").
+entry(warworn, adj, [], "urushning ta'sirlarini ko'rsatuvchi").
+entry(ehtiyotkor, sif, [], "ENG EHTIYOTKOR EHTIYOTKORwatchful").
+entry(was, 1, [], "bo'lishning o'tgan zamonidagi 1-va 3-shaxs birlik ifodaviy formasi").
+entry(vasabi, n, [vasabilar], "o'tkir o't").
+entry(yuvmoq, f, [yuvdi,yuvmoqda,yuvadi], "suyuq modda bilan tozalash yoki botirish orqali tozalamoq").
+entry(yuviladigan, n, [yuviladiganlar], "zarar yetkazmasdan yuvish mumkin bo'lgan narsa").
+entry(washbag, n, [washbags], "sayohat paytida shaxsiy gigiyena vositalarini olib yurish uchun kichik sumka").
+entry(choyshab, n, [choyshablar], "o‘zini yuvish uchun ishlatiladigan kosa").
+entry(yuvishkuni, n, [yuvishkunlari], "kiyimlarni yuvishga ajratilgan kun").
+entry(washer, n, [yuvish vositalari], "yuvish uchun mo'ljallangan vosita").
+entry(washier, comparative, [], "washy dan").
+entry(washiest, superlative, [], "yuvilganlik").
+entry(washing, n, [washings], "yuvilgan yoki yuvilishi kerak bo'lgan narsalar").
+entry(washout, n, [washouts], "suv harakati natijasida yerning eroziyasi").
+entry(washrag, n, [washrags], "oʻzini yuvish uchun ishlatiladigan kichik mato").
+entry(yuvinish_xonasi, n, [yuvinish_xonalari], "hojatxona").
+entry(kuvshin, n, [kuvshinlar], "kiyimlarni yuvish uchun ishlatiladigan kuvshin").
+entry(yuvinish, n, [yuvinishlar], "yuvib tozalash harakati").
+entry(washy, adj, [], "ortiqcha suyultirilgan WASHIER WASHIEST").
+entry(asalari, n, [asalarilar], "xalq sunbulalariga o'xshash asalarilar").
+entry(waspy, adj, [], "ARIQSIMONLIK AROQSIMONLIKariqsimon ariga oʻxshashARIQSIMON RAV").
+entry(wassail, v, [wassailed,wassailing,wassails], "sog'ligiga ichmoq").
+entry(wast, n, [wasts], "g'arb").
+entry(bekorbo‘lgan, adj, [], "isrof bo‘lishi mumkin").
+entry(isrofgarchilik, n, [isrofgarchiliklar], "isrof bo'lgan narsa").
+entry(isrof, v, [isrof_qildi,isrof_qilmoqda,isrof_qilmoqda], "o‘ylamasdan foydalanish").
+entry(isrofgarchan, adj, [], "isrof qilishga moyil").
+entry(wastelot, n, [wastelots], "bo'sh uchastka").
+entry(waster, n, [wasters], "isrof qiluvchi").
+entry(wasterie, n, [wasteriyalar], "isrof").
+entry(wastery, n, [wasteries], "isrof").
+entry(wasteway, n, [wasteways], "ortiqcha suv uchun kanal").
+entry(isrof, hozirgi, [], "isrof etishning sifatdosh shakli").
+entry(wastrel, n, [bekorchilar], "bekorga sarf qiluvchi").
+entry(wastrie, n, [wastries], "isrof").
+entry(wastry, n, [isrofgarliklar], "beparvo isrof").
+entry(wat, adj, [], "SUVLI SUVLIROQ SUVLIGI").
+entry(wat, n, [wats], "quyon").
+entry(watap, n, [wataps], "turli daraxtlarning ildizlaridan yasalgan ip").
+entry(watape, n, [wataplar], "watap").
+entry(soat, f, [kuzatdi, kuzatayotgan, kuzatadi], "diqqat bilan kuzatmoq").
+entry(watchcry, n, [watchcries], "parol").
+entry(qarovul, v, [qarovulladi, qarovullashyapti, qarovullar], "qo'riqchi sifatida harakat qilish").
+entry(qarovul, n, [qarovullar], "tomosha qiluvchi").
+entry(watcheye, n, [watcheyes], "dev-quloq").
+entry(kuzatuvchan, adj, [], "diqqat bilan kuzatuvchi yoki sergak").
+entry(qorovul, n, [qorovullar], "qo'riqchi sifatida ishlaydigan erkak").
+entry(watchout, n, [watchouts], "biror narsani kuzatish harakati").
+entry(suv, v, [suvardi,suvlash,suvlaydi], "shaffof, hidsiz, mazasiz suyuqlik bilan sug'orish").
+entry(waterage, n, [waterages], "tovarlarni suv orqali tashish").
+entry(suv+karavot, n, [suv+karavotlar], "matrasi suv bilan to'ldirilgan plastik sumka bo'lgan karavot").
+entry(waterbus, n, [waterbuses], "yoki WATERBUSSESyo'lovchilarni tashish uchun katta motorli qayiq").
+entry(suvto`g`i, n, [suvto`g`ilar], "katta salamandra").
+entry(sug'oruvchi, n, [sug'oruvchilar], "sug'oradigan kishi").
+entry(suvtovuq, n, [suvtovuqlar], "Amerika ko'ti").
+entry(suvliroq, qiyosiy, [], "suvli").
+entry(wateriest, superlative, [], "suvli").
+entry(waterily, rav, [], "suvli tarzda").
+entry(sug'orish, n, [sug'orishlar], "sug'oradigan odamning harakati").
+entry(waterish, adj, [], "suvdek").
+entry(vodyanoy_strui, n, [vodyanoy_strui], "kichik teshikdan majburlangan suv oqimi").
+entry(suvga_to'yingan, f, [suvga_to'yinganliq, suvga_to'yinganlar], "suv bilan to'yinish").
+entry(vaterloo, n, [vaterloos], "hal qiluvchi mag‘lubiyat").
+entry(suvchi, n, [suvchilar], "qayiqchi").
+entry(waterski, n, [waterskis], "suvda chang‘ida uchish uchun chang‘i").
+entry(suvyo'li, n, [suvyo'llar], "suzib o'tish mumkin bo'lgan suv tanasi").
+entry(watery, adj, [], "SUVLI SUVROQ SUVLIROQ suvni o'z ichiga olgan").
+entry(vatt, n, [vattlar], "quvvat birligi").
+entry(quvvat, n, [quvvatlar], "vattlarda ifodalangan quvvat miqdori").
+entry(wattape, n, [wattapes], "watap").
+entry(watter, solishtirma, [], "of wat").
+entry(wattest, superlative, [], "watdan").
+entry(vattsaat, n, [vattsaatlar], "energiya birligi").
+entry(wattle, v, [wattled,wattling,wattles], "to'r sifatida o'ramoq").
+entry(wattless, adj, [], "elektr toki turini ifodalovchi").
+entry(waucht, v, [wauchted,wauchting,wauchts], "waucht qilish").
+entry(waugh, sifatdosh, [], "nam").
+entry(waught, v, [waughted, waughting, waughts], "chuqur ichmoq").
+entry(wauk, v, [wauked, wauking, wauks], "uyg'onmoq").
+entry(waul, v, [wauled,wauling,wauls], "mushukdek yig'lamoq").
+entry(waur, adj, [], "yomonroq").
+kiritish(to‘lqin, v, [to‘lqindi, to‘lqinlamoqda, to‘lqinlar], "erkin orqaga va oldinga yoki yuqoriga va pastga harakatlanmoq").
+entry(tovush to'lqini, n, [tovush to'lqinlari], "radio chastotalarining bir qismi").
+entry(to'lqin shakli, n, [to'lqin shakllari], "matematik grafik turi").
+entry(waveless, adj, [], "suyuqlik yuzasida harakatlanuvchi to'lqinlar yo'q").
+entry(wavelet, n, [to'lqinlar], "kichik to'lqin").
+entry(to‘lqinsimon, adj, [], "to‘lqin kabi").
+entry(waveoff, n, [rad etishlar], "yaqinlashib kelayotgan samolyotga qo'nish ruxsatini berishni rad etish harakati").
+entry(tebranmoq, v, [tebrandi, tebranmoqda, tebranar], "oldinga va orqaga harakat qilish").
+entry(ikki yoqli, n, [ikki yoqlilar], "ikkilanayotgan kishi").
+entry(wavery, adj, [], "terralanish").
+entry(wavey, n, [waveys], "qor gʻoz").
+entry(to'lqin-zarracha, n, [to'lqin-zarrachalar], "to'lqin va zarracha sifatida harakat qilishi mumkin bo'lgan subatomik zarracha").
+entry(tolqinliroq, solishtirma, [], "of wavy").
+entry(wavies, pl, [], "tola").
+entry(waviest, superlative, [], "to‘lqinli").
+entry(wavily, rav, [], "toʻlqinsimon tarzda").
+entry(to'lqinlilik, n, [to'lqinliliklar], "to'lqinli bo'lish holati").
+entry(tebrash, hozirgi, [], "to'lqinlanishning participle shakli").
+entry(to‘lqinli, adj, [], "TO‘LQINROQ TO‘LQINTARoqqa ega").
+entry(to‘lqinli, n, [to‘lqinlar], "to‘lqinli").
+entry(waw, n, [waws], "vav").
+entry(wawl, v, [wawled, wawling, wawls], "waul qilish").
+entry(mum, f, [mumlandi,mumlanmoqda,mumlaydi], "tabiiy issiqlikka sezgir modda bilan mumlashMUMLANADIGAN sif").
+entry(vaksberry, n, [vaksberrylar], "mumli qoplamali berry").
+entry(waxbill, n, [waxbills], "tropik qush").
+entry(waxen, adj, [], "mum bilan qoplangan").
+entry(vaksans, n, [vaksanslar], "vaksan qiladigan").
+entry(waxier, comparative, [], "mumga o'xshash").
+entry(vosmerlik, superlative, [], "vaxli").
+entry(waxily, ravish, [], "mumga o‘xshab").
+entry(waxiness, n, [waxinesses], "mummolikka xususiyati").
+entry(qorayish, n, [qorayishlar], "moy qo'ymoq yoki yasash harakati").
+entry(mummosimon, sif, [], "mumga o‘xshash").
+entry(voskanor, n, [voskanorlar], "tropik oʻsimlik").
+entry(waxweed, n, [waxweeds], "bir yillik o‘t").
+entry(silovsin, n, [silovsilar], "qaldirg'ochlar toifasiga mansub qush turi").
+entry(mum haykal, n, [mum haykallar], "momdan yasalgan haykal").
+entry(mum qurti, s, [mum qurtlari], "asalari uyalariga zararlovchi kuya").
+entry(waxy, adj, [], "Mumga o'xshash WAXIER WAXIEST").
+entry(way, n, [yo'llar], "nimanidir qilish usuli").
+entry(wayang, n, [wayanglar], "qo‘g‘irchoqlar yoki inson raqqosalari ishtirokidagi tomosha").
+entry(waybill, n, [waybills], "yuk jo'natuvchi bilan bog'liq mahsulotlar ro'yxati").
+entry(sayyoh, n, [sayyohlar], "sayohatchi").
+entry(yuqliq, n, [yuqliqlar], "ketish harakati").
+entry(waylay, v, [waylaid, waylaying, waylays], "shiv qilmoq").
+entry(waylayer, n, [waylayers], "yo'lni to'suvchi").
+entry(wayless, adj, [], "yo'l yoki so'qsiz").
+entry(belgi, n, [belgilar], "sayohatchilar uchun yo‘l-yo‘riq ko‘rsatuvchi obyekt").
+entry(yoʻl nuqtasi, n, [yoʻl nuqtalari], "yoʻnalish boʻylab asosiy nuqtalar orasidagi nuqta").
+entry(yo'l yoqasi, n, [yo'llarning yoqasi], "yo'lning chet tomoni").
+entry(wayward, sifat, [], "qaysar").
+entry(wayworn, adj, [], "sayohatdan charchagan").
+entry(biz, pron, [], "birinchi shaxs ko‘plik olmoshi nominativ holatda").
+entry(weak, adj, [], "KUCHSIZROQ KUCHSIZlacking strength").
+entry(zaiflashtirmoq, f, [zaiflashtirdi, zaiflashtirish, zaiflashtiradi], "zaif qilish").
+entry(zaiflatuvchi, n, [zaiflatuvchilar], "zaiflatadigan").
+entry(weakfish, n, [weakfishes], "dengiz baliği").
+entry(weakish, adj, [], "bir oz zaif").
+entry(zaif, n, [zaiflar], "zaif kishi").
+entry(weakly, adj, [], "KUCHSIZ VA KASAL".
+entry(zaiflik, n, [zaifliklar], "zaiflik holati").
+entry(weakon, n, [vikonlar], "subatom zarrachasi").
+entry(weakside, n, [weaksides], "basketbol maydonchasining kamroq o‘yinchi joylashgan tomoni").
+entry(weal, n, [weals], "shilingan joy").
+entry(weald, n, [wealdlar], "o‘rmon hududi").
+entry(boylik, n, [boyliklar], "katta miqdordagi qimmatbaho material").
+entry(boy, adj, [], "BOY ADVANTAGE BOY WEALTH")
+entry(wean, v, [weaned,weaning,weans], "onani sutidan ajratib, boshqa ovqat bilan almashtirish").
+entry(weaner, n, [weaners], "emizishni to'xtatadigan").
+entry(weanling, n, [weanlings], "yana yaqin vaqt ichida sutdan ajratilgan bola yoki hayvon").
+entry(qurol, f, [qurollangan, qurollanayotgan, qurollar], "jangda foydalaniladigan asbob bilan ta’minlash").
+entry(qurollanish, n, [qurollanishlar], "qurollar to'plami").
+entry(kiy, v, [kiydi,kiyilgan,kiyayotgan], "KIYInsonning kiygan narsasi bo'lish").
+entry(kiyiladigan, n, [kiyiladiganlar], "kiyim").
+entry(kiyuvchi, n, [kiyuvchilar], "nimanidir kiyadigan kishi").
+entry(wearied, past, [], "charchamoq fe'lining zamoni").
+entry(charchaganroq, solishtirma, [], "charchagan").
+entry(holdir, hozirgi, [], "holdirmoqning 3-shaxs birlik").
+entry(holdan toydiruvchi, adj, [], "zavqsiz").
+entry(wearish, adj, [], "mazasiz").
+entry(weary, adj, [], "WEARIER WEARIESTcharchaganWEARILY rav").
+entry(charchamoq, v, [charchadi,charchamoqda,charchaydi], "charchatish yoki charchash").
+entry(weasand, n, [weasands], "tomoq").
+entry(weasel, v, [weaseled,weaseling,weasels], "yoki WEASELLED WEASELLING WEASELS qochib harakat qilish").
+entry(weaselly, adj, [], "o‘txo‘rak sutemizuvchiga o‘xshash").
+entry(foxsi, adj, [], "foxsimon").
+entry(weason, n, [weasons], "nefes yo'li").
+entry(ob-havo, v, [ob-havoladi, ob-havolash, ob-havolaydi], "atmosfera sharoitlariga ta'sir qilish").
+entry(weave, v, [weaved,woven,weaving], "TO'QUVchi iplardan to'qish orqali hosil qilish").
+entry(to‘quvchi, n, [to‘quvchilar], "to‘quv bilan shug‘ullanuvchi").
+entry(to'qimachilik, n, [to'qimachiliklar], "to'qilgan materiallarni yaratish faoliyati").
+entry(weazand, n, [weazands], "qizilo'ngach").
+entry(web, v, [o‘ralgan,o‘rash,o‘ralar], "to‘r yoki to‘r shaklidagi tuzilma bilan ta’minlash").
+entry(webbing, n, [webbings], "to'qilgan tolalardan yasalgan lentalar").
+entry(webby, adj, [], "WEBBIER WEBBIESTweblike").
+entry(vebkamera, n, [vebkameralar], "Dunyo Yozuvi tarmog'i orqali jonli tasvirlarni uzatishda ishlatiladigan kamera").
+entry(webcast, v, [webcasted, webcasting, webcasts], "ovoz va tasvirlarni jahon tarmog'i orqali uzatish").
+entry(veber, n, [veberlar], "magnit oqimi birligi").
+entry(webfed, adj, [], "uzluksiz qog'oz rulosini chop etish uchun mo'ljallangan").
+entry(webfoot, n, [webfeet], "barmoqlari membrana bilan birga bo'lgan oyoq").
+entry(vebinar, n, [vebinarlar], "veb-saytda o'tkaziladigan jonli interaktiv ta'lim taqdimoti").
+entry(veb-epizod, n, [veb-epizodlar], "vebsaytda ko'rilishi mumkin bo'lgan teleko'rsatuv epizodi").
+entry(webless, adj, [], "to'rlarning yo'qligi").
+entry(weblike, adj, [], "tarmoqga o‘xshash").
+entry(weblog, n, [veb-dnevniklar], "onlayn shaxsiy jurnalni o'z ichiga olgan veb-sayt").
+entry(v'eb-sahifa, n, [v'eb-sahifalar], "Butun Jahon O'rgimchak To'rida joylashgan bitta hujjat").
+entry(website, n, [saytlar], "shaxs yoki tashkilot tomonidan yuritiladigan o'zaro bog'langan veb-sahifalar to'plami").
+entry(webster, n, [to‘quvchi], "to‘quvchi").
+entry(webwork, n, [webworks], "o‘rgimchak to‘riga o‘xshash naqsh yoki tuzilma").
+entry(webworm, n, [toʻr oʻrmalab yuruvchi kapalak qoʻngʻizi], "toʻr toʻquvchi kapalak lichinkasi").
+entry(vebzayn, n, [vebzaynlar], "Internetda chop etiladigan jurnal").
+entry(wecht, n, [wechts], "vazn").
+entry(chorshanba, v, [nikohlangan, nikoh, uylanmoq], "uylanish").
+Prolog:
+entry(wedder, n, [uqalaydi], "nikoh qiladigan shaxs").
+entry(to‘y, n, [to‘ylar], "nikoh marosimi").
+entry(wedel, v, [wedelekan,wedelanmoqda,wedellar], "vedelni bajarmoq").
+entry(wedeln, n, [wedelns], "chang‘i uchish texnikasi").
+entry(wedge, v, [wedged,wedging,wedges], "yog'och yoki metallning uchli qismini majburlash uchun").
+entry(wedgie, n, [wedgielar], "ayollar poyafzali turi").
+entry(wedgy, adj, [], "WEDGIER WEDGIESTtakaga o'xshash").
+entry(nikoh, n, [nikohlar], "turmush qurgan holat").
+entry(wee, adj, [], "WEER WEESTjudayam kichik").
+entry(wee, v, [weed, weeing, wees], "peshob qilish").
+entry(weed, v, [weeded, weeding, weeds], "begona o'tlarni olib tashlash").
+entry(weedbed, n, [weedbeds], "ko'p o'tlar bor suv havzasi hududi").
+entry(planshet, n, [planshetlar], "plem").
+entry(weedier, taqqoslama, [], "o'tloqroq").
+entry(weediest, superlative, [], "weedy dan").
+entry(weedily, adv, [], "begona o'simlikdek tarzda").
+entry(weedless, adj, [], "begonasiz").
+entry(weedlike, adj, [], "begona o‘tga o‘xshash").
+entry(weedline, n, [weedlines], "begona o'tlar suvi").
+entry(weedy, adj, [], "oʻtga oʻxshash; oʻtga oʻxshashroq oʻtga oʻxshash eng koʻp").
+entry(hafta, n, [haftalar], "etti kunlik davr").
+entry(hafta_kuni, n, [hafta_kunlari], "shanba va yakshanbadan tashqari har qanday hafta kuni").
+entry(dam olish kuni, v, [dam olish kundaydi, dam olish kundayapti, dam olish kunlari], "haftaning oxirini dam olish kuni o'tkazmoq").
+entry(haftalik, adj, [], "hafta davomida davom etuvchi").
+entry(haftalik, n, [haftaliklar], "haftada bir marotaba chiqadigan nashr").
+entry(weel, adj, [], "yaxshi").
+entry(ween, v, [weened, weening, weens], "taxmin qilmoq").
+entry(weenie, n, [sosiskalar], "sosiska").
+entry(weensy, adj, [], "WEENSIER WEENSIESTkulgili kichkina").
+entry(weeny, adj, [], "WEENIER WEENIESTkichkina").
+entry(yig'lamoq, f, [yig'ladi, yig'lamoqda, yig'laydi], "ko'z yosh to'kib qayg'u bildirish").
+entry(yig‘laguvchi, n, [yig‘laguvchilar], "yig‘laydigan").
+entry(weepie, n, [weepies], "juda ham hissiyotli film").
+entry(yig'lash, n, [yig'lashlar], "yig'layotgan kishining harakati").
+entry(weepy, adj, [], "KO'Z YOSH TÖKUVCHI KO'Z YOSH TÖKUVCHIROQ KO'Z YOSH TÖKUVCHIENG KO'P KO'Z YOSH TÖKUVCHI KO'Z YOSH BILAN adv").
+entry(weer, taqqosiy, [], "of wee").
+entry(weest, superlative, [], "kichkina").
+entry(bilmoq, f, [bilindi, bilish, bilir], "bilmoq").
+entry(weever, n, [weevers], "dengiz baliği").
+entry(koʻpchoq, n, [koʻpchoqlar], "kichik qoʻngʻizWEEVILED WEEVILLY WEEVILY adj").
+entry(peepee, v, [peepeed,peepeeing,peepees], "siyish").
+entry(to'qima, n, [to'qimalar], "to'qilgan mato yoki kiyim").
+entry(gorizontal, adv, [], "gorizontal yo'nalishda").
+entry(weigela, n, [weigelalar], "gullaydigan buta").
+entry(weigelia, n, [weigelias], "veigela").
+entry(tortmoq, v, [tortdi, tortayotgan, tortadi], "og'irligini aniqlash").
+entry(tarozibon, n, [tarozibonlar], "tarozi qiluvchi").
+entry(tarozibon, n, [tarozibonlar], "vazifa yuklarni tarozida tortish boʻlgan shaxs").
+entry(weight, v, [og'irlikli, og'irlikda, vaznli], "og'irlikni qo'shish").
+entry(weighter, n, [tarozi], "og'irlik oladigan kishi").
+entry(weighty, adj, [], "ULOĞ ULOQLAROĞ og'irlikka ega").
+entry(weiner, n, [sosiska], "vener").
+entry(weir, n, [weirs], "baliq tutish uchun daryoga qo‘yilgan to‘siq").
+entry(weird, v, [weirded, weirding, weirds], "g'alati tuyg'uni boshdan kechirishga sabab bo'lish").
+entry(weird, adj, [], "G'ALATI G'AROYIBQandaydir g'alati").
+entry(g'alati, n, [g'alatilar], "taqdir").
+entry(weirdie, n, [g'alati], "juda g'alati kishi").
+entry(g‘alati, ko‘p, [], "g‘alatidan").
+entry(g‘alati, ravish, [], "g‘alati tarzda").
+entry(weirdo, n, [weirdoes], "yoki WEIRDOS g‘alati").
+entry(weirdy, n, [weirdies], "weirdie").
+entry(weka, n, [wekalar], "ucholmaydigan qush").
+entry(welch, v, [welched,welching,welches], "welslika").
+entry(welcher, n, [welchers], "majburiyatlarini bajarmaydigan shaxs").
+entry(xush_kelibsiz, v, [xush_kelib, xush_kelayotgan, xush_keladi], "sanoq qiladigan ravishda salomlashmoq").
+entry(xushkelibsiz, n, [xushkelibsizlar], "kutib oluvchi").
+entry(weld, v, [welded,welding,welds], "issiqlikni qo'llash orqali birlashtirmoqWELDABLE adj").
+entry(payvandchi, n, [payvandchilar], "metallarni payvandlaydigan shaxs").
+`entry(weldless, adj, [], "payvandlangan bo'g'inlarsiz").`
+entry(qarag'ay, n, [qarag'aylar], "payvandlangan qismlardan iborat birlik").
+entry(svarshik, s, [svarshiklar], "payvandchi").
+entry(farosat, n, [farosatlar], "umumiy farovonlik").
+entry(welkin, n, [welkins], "osmon").
+entry(yaxshi, v, [yaxshiladi,yaxshilanmoqda,yaxshilar], "yuzaga chiqib oqib ketmoq").
+entry(xafa, n, [xafalar], "yomon").
+entry(yaxshi-ketdi, n, [yaxshi-ketdilar], "g'am-alam ifodasi").
+entry(wellborn, adj, [], "yaxshi nasl yoki ajdodli").
+entry(wellcurb, n, [wellcurbs], "quduq atrofidagi tosh halqa yer ostidan suv olish uchun qazilgan teshik").
+entry(yaxshilik_qiluvchi, n, [yaxshilik_qiluvchilar], "yaxshi ishlar qiluvchi").
+entry(wellhead, n, [quduqlar], "buloq yoki soy manbai").
+entry(wellhole, n, [wellholes], "quduqning o'qi").
+entry(wellie, n, [rezina etiklar], "rezina etik").
+entry(wellies, pl, [], "rezina etiklar").
+entry(sog'lomlik, n, [sog'lomliklar], "sog'lom bo'lish holati").
+entry(wellsite, n, [wellsites], "mineral").
+entry(welly, n, [wellies], "wellie").
+entry(uels, v, [uelsladi, uelslayotgan, uelslaydi], "qarzni to'lamaslik").
+entry(welsher, n, [welshers], "qayta bermaydigan shaxs").
+entry(welt, v, [welted,welting,welts], "terida ko'tarilgan chiziqlar yoki bo'rtmalar bilan belgilash").
+entry(toʻlgʻonmoq, v, [toʻlgʻondi,toʻlgʻonayotgan,toʻlgʻonadi], "oʻralmoq").
+entry(welting, n, [weltings], "tikuv chokini mustahkamlash uchun ishlatiladigan arqon yoki lenta").
+entry(wen, n, [wens], "teri yuzasidagi zararsiz o'simta").
+entry(wench, v, [wenched,wenching,wenches], "fahshalar bilan aloqada bo'lish").
+entry(wencher, n, [wenchers], "ayollarga hakamlik qiluvchi").
+entry(wend, v, [wendi, wendayotgan, wends], "yo'l bo'ylab harakatlanmoq").
+entry(wendigo, n, [wendigolar], "vindigo").
+entry(wennish, adj, [], "ko'ptovli").
+entry(wenny, adj, [], "WENNIER WENNIESTwenni kabi").
+entry(went, oʻtgan, [], "borishning zamoni").
+entry(wept, o‘tmish, [], "weep fe'lining zamoni").
+entry(were, a, [], "bo‘lmoq fe'lining ko‘plik va 2-shaxs birlik o‘tgan zamon indikativi va o‘tgan zamon subjunktiv").
+entry(weregild, n, [weregilds], "wergeld").
+entry(kurtadam, n, [kurtadamlar], "bo‘rining shaklini olish qobiliyatiga ega bo‘lgan kishi").
+entry(wergeld, n, [wergeldlar], "Anglo-Sakson qonunida odamning hayotini olish uchun to'lanadigan narx").
+entry(wergelt, n, [wergelts], "vergild").
+entry(wergild, n, [wergilds], "vergeld").
+entry(wert, a, [], "bo'lish fe'lining o'tgan zamonda 2-shaxs birlik taraqqiyot").
+entry(werwolf, n, [werwolves], "bo'ri").
+entry(weskit, n, [weskits], "jilet").
+entry(wessand, n, [wessands], "qizilo'ngach").
+entry(g‘arb, n, [g‘arblar], "kompasning asosiy nuqtalaridan biri").
+entry(wester, v, [g'arbladi, g'arblamoqda, g'arblaydi], "g'arbga qarab harakatlanmoq").
+entry(g'arbiy, n, [g'arbiy shamollar], "g'arbdan keladigan shamol").
+entry(g'arbiy, n, [g'arbiylar], "g'arbda yashovchi").
+entry(g'arbga_siljish, n, [g'arbga_siljishlar], "g'arbga siljish").
+entry(g'arbiy, adj, [], "eng g'arbdagi").
+entry(g'arbiy, n, [g'arblikda], "g'arqqa qarab yo'nalish").
+entry(nam, adj, [], "NAMROQ ENG NAMYOQdq qaysidir suyuqlik bilan qoplangan yoki to'yingan").
+entry(nam, v, [namlandi,namlash,namlantiradi], "namlash").
+entry(weta, n, [wetalar], "Yangi Zelandiyaning katta qanotsiz hasharoti").
+entry(wether, n, [wethers], "haydalgan erkak qo'y").
+entry(botqoqliq, n, [botqoqlar], "nam tuproqqa ega hudud").
+entry(wetly, rav, [], "nam tarzda").
+entry(wetness, n, [namliklar], "nam bo'lish holati").
+entry(wetproof, adj, [], "suvga chidamli").
+entry(gidroskafandr, n, [gidroskafandrlar], "suv osti sho‘ng‘uvchilari tomonidan sovuq suvda kiyiladigan yopishqoq kauchuk kabi kiyim").
+entry(wettable, adj, [], "namlanishi mumkin bo'lgan").
+entry(namlangan, o'tgan zamon, [], "namlash zamoni").
+entry(wetter, n, [wetters], "ho'llovchi").
+entry(eng nam, superlative, [], "namdan").
+entry(namlanish, n, [namlanishlar], "nimanidir namlash uchun ishlatiladigan suyuqlik").
+entry(muloqlangan, adj, [], "biroz nam").
+entry(vetver, n, [vetverlar], "odam miyasi, kompyuter bilan funksional teng deb hisoblanganda").
+entry(wha, pron, [], "kim").
+entry(urmoq, f, [urmadi, urib, uradi], "qattiq zarba berish").
+entry(whacked, adj, [], "1 spirtli ichimliklar yoki giyohvand moddalar ta'sirida 2 holdan toygan").
+entry(whacker, n, [whackers], "uruvchi").
+entry(kaltaklash, n, [kaltaklashlar], "biror narsani keskin urish harakati yoki holati").
+entry(whacko, n, [whackos], "aqldan ozgan").
+entry(whacky, adj, [], "WHACKIER WHACKIESTwacky").
+entry(kit, v, [kechikdi, kechikish, kitlar], "katta dengiz sutemizuvchilarini ovlash bilan shug'ullanish").
+entry(whaleman, n, [whalemen], "kit olishga ixtisoslashgan kemaga xizmat qiluvchi shaxs").
+entry(whaler, n, [whalers], "kit ovlash bilan shug'ullanuvchi shaxs").
+entry(kitov tutish, n, [kitov tutishlar], "kitovlarni ovlash va qayta ishlash sanoati").
+entry(wham, v, [whammed,whamming,whams], "baland zarba bilan urmoq").
+entry(whammo, interj, [], "ajablanarli voqeani ifodalash uchun ishlatiladi").
+entry(whammy, n, [whammies], "yomon omad keltiradigan gʻayritabiiy sehr").
+entry(whamo, interj, [], "whammo").
+entry(whang, v, [whanged, whanging, whangs], "qamchi bilan urmoq").
+entry(whangee, n, [whangees], "osiyolik bir o't").
+entry(whap, v, [whapped, whapping, whaps], "ura mo'ljalga tegmoq").
+entry(whapper, n, [whappers], "whopper").
+entry(suv_oldi, v, [suv_oldiga_qo'yilgan,suv_oldiga_qo'yilmoqda,suv_oldilar], "kemalarni joylashtirish uchun qisqa to'xtash joyida suv oldiga to'xtatish").
+entry(pristan, n, [pristanlar], "pristanning foydalanilishi").
+entry(wharve, n, [wharflar], "ip yigirishda foydalaniladigan dumaloq yog'och qism").
+entry(nima, n, [nimalar], "biror narsaning asl mohiyati").
+entry(whatever, adj, [], "nima yoki kim bo'lishidan qat'i nazar").
+entry(whatness, n, [whatnesses], "nimaning haqiqiy mohiyati").
+entry(whatnot, n, [whatnots], "bezak uchun javonlar to'plami").
+entry(whatsis, n, [whatsises], "whatsit").
+entry(whatsit, n, [whatsits], "nomi noma'lum yoki esdan chiqqan narsa").
+entry(whatso, pron, [], "nima yoki kim boʻlishi mumkin").
+entry(whaup, n, [whaups], "Yevropa qushi").
+entry(wheal, n, [wheals], "bir shish").
+entry(bug‘doy, n, [bug‘doylar], "bir donli o‘t").
+entry(sholg'ochqush, n, [sholg'ochqishlar], "shimoliy hududlarda yashovchi kichik qush").
+entry(wheaten, n, [qora], "och sariq rang").
+entry(whee, interj, [], "quvonchni ifodalash uchun ishlatiladi").
+entry(wheedle, v, [ko'ndi, ko'ndirish, ko'ndiradi], "maqtab ishontirishga urinish").
+entry(wheedler, n, [wheedlers], "yolvorib oluvchi").
+Prolog: entry(g'ildirak, f, [g'ildirakli, g'ildiraklayapti, g'ildiraklar], "o'q atrofida aylanadigan doira shaklidagi ramkalarni g'ildirakda olib o'tish").
+entry(wheeler, n, [g‘ildirakchilar], "g‘ildirak yasovchi").
+entry(wheelie, n, [gʻildiraklarda koʻtarilish], "gʻildirakli transport vositasida bajariladigan manevr").
+entry(wheeling, n, [wheelings], "transport vositalari uchun yo'l holati").
+entry(rulchi, n, [rulchilar], "kemaning) rul boshqaruvchisi").
+entry(wheen, n, [wheens], "anchagina katta miqdor").
+entry(wheep, v, [wheeped,wheeping,wheeps], "wheep qilish").
+entry(wheeple, v, [wheepled, wheepling, wheeples], "cho‘zilgan hushtak ovozini chiqarish").
+entry(nafas_qisish, f, [nafas_qisdi, nafas_qisayotgan, nafas_qisadi], "hushtaksimon tovush bilan nafas olish").
+entry(wheezer, n, [wheezers], "piqillovchi").
+entry(wheezy, adj, [], "WHEEZIER WHEEZIESTwheezing bilan tavsiflanganWHEEZILY rav");
+entry(dengiz quloği, n, [dengiz quloğılar], "bir yiringli tugun").
+entry(whelky, sif, [], "WHELKIER WHELKIESTwhelks bilan belgilangan").
+entry(whelm, v, [whelmed,whelming,whelms], "suv bilan qoplamoq").
+entry("whelp", "felik", ["whelped", "whelping", "whelps"], "tug'ish").
+entry(qachon, n, [qachonlar], "qandaydir narsa amalga oshiriladigan yoki sodir bo'ladigan vaqt").
+entry(qachonki, conj, [], "qaysi vaqtda").
+entry(qayerdan, conj, [], "qaysi joydan").
+entry(qachonki, conj, [], "qaysi vaqtda bo'lmasin").
+entry(qayerda, n, [qayerlar], "biror narsa joylashgan yoki sodir bo'lgan joy").
+entry(whereas, n, [whereases], "rasmiy hujjatning kirish qismi").
+entry(whereat, conj, [], "qaysi joyda").
+entry(whereby, conj, [], "by means of which").
+entry(wherein, conj, [], "qaysi").
+entry(whereof, conj, [], "undan").
+entry(whereon, conj, [], "qaysi ustida").
+entry(qayerga, conj, [], "to which").
+entry(qayerga_bolmasin, boglovchi, [], "hoxlagan joyingizda yoki joyga").
+entry(wherry, v, [wherried,wherrying,wherries], "yengil qayiqda tashish").
+entry(wherve, n, [wherves], "wharve").
+entry(whet, v, [o‘tkirlashgan,o‘tkirlash,yuza], "ishqalanish orqali charxlash").
+entry(whether, conj, [], "agar shunday bo'lsa").
+entry(whetter, n, [whetters], "charxlovchi").
+entry(whew, n, [husht], "husht tovushi").
+entry(whey, n, [wheys], "sutning suvli qismiWHEYISH adj").
+entry(wheyface, n, [wheyfaces], "oqsargan, sargʻaygan yuz").
+entry(sututdek, adj, [], "sutga oʻxshash").
+entry(qaysi, olmosh, [], "qaysi bir yoki qaysilar").
+entry(whicker, v, [whickered, whickering, whickers], "hirillamoq").
+entry(whid, v, [whidded, whidding, whids], "tez va sokin harakatlanmoq").
+entry(whidah, n, [whidahs], "whydah").
+entry(whiff, v, [whiffed,whiffing,whiffs], "yengil shamollar bilan puflash yoki yetkazish").
+entry(whiffer, n, [whiffers], "hidlaydigan").
+entry(whiffet, n, [whiffetlar], "ahamiyatsiz kishi").
+entry(whiffle, v, [whiffled, whiffling, whiffles], "g'ayritabiiy ravishda harakat qilish yoki o'ylash").
+entry(whiffler, n, [whifflers], "bir narsani hidlaydigan kishi").
+entry(whiffy, adj, [], "YoQIMSIZ HIDGA EGA").
+entry(whig, n, [whigs], "tarixni reaktsion kuchlar ustidan o'zgarishlarning doimiy g'alabasi sifatida talqin qiluvchi shaxs").
+entry(while, v, [yoqimli_o'tkazmoq, o'tkazayotgan, o'tkazadi], "yoqimli o'tkazishga sabab bo'lmoq").
+entry(whilom, rav, [], "ilgari").
+entry(whilst, conj, [], "shu paytda").
+entry(zaiflik, n, [zaifliklar], "impulsiv fikr").
+entry(chibin, n, [chibinlar], "qirg'oq qushi").
+entry(ingrab, f, [ingrabiq,ingrablayotgan,ingrablar], "yigʻlab oftobroqlanish").
+entry(kapriz, n, [kaprizlar], "kapriz").
+entry( whimsy, n, [ whimlar ], " whimlAR adj").
+entry(whin, n, [whins], "хасмиё").
+entry(kuzgi kaklik, n, [kuzgi kakliklar], "qushlar turkumiga mansub kuychı qush").
+entry(ingra, v, [ingradi,ingrayapti,ingraydi], "baland va nolish ovozi chiqarmoq").
+entry(whiner, n, [g'imirlovchilar], "g'imirlab turuvchi").
+entry(whiney, adj, [], "WHINIER WHINIESTwhiny").
+entry(whinge, v, [], "WHINGED WHINGEING yoki WHINGING WHINGEshikoyat qilmoq").
+entry(whinger, n, [whingers], "g'ing'irlagan kishi").
+entry(whingy, adj, [], "KO'PROQ SHIKOYATCHI ENG SHIKOYATCHI shikoyat qiluvchan bo'lish").
+entry(whinier, solishtirma, [], "whiney va whiny").
+entry(eng shikoyatchi, yuqori darajali, [], "shikoyat qiluvchi va shikoyatchi").
+entry(whining, hozirgi, [], "whine (nolas) participli").
+entry(whinny, adj, [], "WHINNIER WHINNIESTko'p miqdorda whin").
+entry(whinny, v, [whinnied,whinnying,whinnies], "past yoki muloyim tarzda kishnash").
+entry(shilqim, sif, [], "KO'PROQ SHILQIM ENG SHILQIM shilqimlik qilishga moyil").
+entry(qamchi, f, [qamchiladi,qamchilash,qamchilar], "tan jazosi berish uchun mo'ljallangan asbob bilan qamchilash").
+entry(whipcord, n, [whipcords], "kuchli burama arqon").
+entry(qamchi, n, [qamchilar], "qamchi zarbasi").
+entry(whipless, adj, [], "qamchisiz").
+entry(whiplike, adj, [], "qamchi kabi").
+entry(whipped, a, [], "qoralanmoq ning o'tgan zamoni").
+entry(qamchiqchi, n, [qamchiqchilar], "qamchiqchi").
+entry(whippet, n, [whippetlar], "kichik tez yurar it").
+entry(qamchilash, n, [qamchilashlar], "qamchilash uchun ishlatiladigan material").
+entry(whippit, n, [whippits], "azot oksidi tarkatadigan kichik idish").
+entry(whippy, adj, [], "WHIPPIER WHIPPIESTqamchiga tegishli yoki o'xshash").
+entry(whipray, n, [whiprays], "stingray").
+entry(whipsaw, v, [whipsawed,whipsawn,whipsawing], "WHIPSAWni torayib boruvchi tor arra bilan kesish").
+entry(whipt, a, [], "whip felining o'tgan zamoni").
+entry(whiptail, n, [whiptailer], "uzun ingichka dumga ega kaltakesak").
+entry(qamchiqul, n, [qamchiqullar], "parazitar qurt").
+```prolog
+entry(whir, v, [whirred,whirring,whirs], "to move with a buzzing soundWHIRL v WHIRLED WHIRLING WHIRLSto revolve rapidlyWHIRLER n pl WHIRLERSone that whirlsWHIRLY adj WHIRLIER WHIRLIESTmarked by a whirling motionWHIRLY n pl WHIRLIESa small tornadoWHIRR v WHIRRED WHIRRING WHIRRSto whirWHIRRED past tense of whirWHIRRING present participle of whirWHIRRY v WHIRRIED WHIRRYING WHIRRIESto hurryWHISH v WHISHED WHISHING WHISHESto move with a hissing soundWHISHT v WHISHTED WHISHTING WHISHTSto hushWHISK v WHISKED WHISKING WHISKSto move brisklyWHISKER n pl WHISKERSa hair on a mans faceWHISKERY adjWHISKEY n pl WHISKEYSa liquorWHISKY n pl WHISKIESwhiskeyWHISPER v WHISPERED WHISPERING WHISPERSto speak softlyWHISPERY adj resembling a whisperWHIST v WHISTED WHISTING WHISTSto hushWHISTLE v WHISTLED WHISTLING WHISTLESto make a shrill clear musical soundWHISTLER n pl WHISTLERSone that whistlesWHIT n pl WHITSa particleWHITE adj WHITER WHITESTof the color of pure snowWHITE v WHITED WHITING WHITESto whitenWHITECAP n pl WHITECAPSa wave with a crest of foamWHITEFLY n pl WHITEFLIESa small whitish insectWHITELY adv in a white mannerWHITEN v WHITENED WHITENING WHITENSto make whiteWHITENER n pl WHITENERSone that whitensWHITEOUT n pl WHITEOUTSan arctic weather conditionWHITER comparative of whiteWHITEST superlative of whiteWHITEY adj whityWHITHER adv to what placeWHITIER comparative of whityWHITIEST superlative of whityWHITING n pl WHITINGSa marine food fishWHITISH adj somewhat whiteWHITLOW n pl WHITLOWSan inflammation of the finger or toeWHITRACK n pl WHITRACKSa weaselWHITTER n pl WHITTERSa large draft of liquorWHITTLE v WHITTLED WHITTLING WHITTLESto cut or shave bits fromWHITTLER n pl WHITTLERSone that whittlesWHITTRET n pl WHITTRETSa weaselWHITY adj WHITIER WHITIESTwhitishWHIZ v WHIZZED WHIZZING WHIZZESto move with a buzzing or hissing soundWHIZBANG n pl WHIZBANGSa type of explosive shellWHIZZ v WHIZZED WHIZZING WHIZZESto whizWHIZZER n pl WHIZZERSone that whizzesWHIZZES present 3d person sing of whizWHIZZING present participle of whizWHIZZY adj WHIZZIER WHIZZIESTmarvelous in construction or operationWHO pron what or which person or personsWHOA interj  used to command an animal to stopWHODUNIT n pl WHODUNITSa mystery storyWHOEVER pron whatever personWHOLE n pl WHOLESall the parts or elements entering into and making up a thingWHOLISM n pl WHOLISMSholismWHOLLY adv totallyWHOM pron the objective case of whoWHOMEVER pron the objective case of whoeverWHOMP v WHOMPED WHOMPING WHOMPSto defeat decisivelyWHOMSO pron the objective case of whosoWHOOF v WHOOFED WHOOFING WHOOFSto make a deep snorting soundWHOOMP n pl WHOOMPSa sudden loud soundWHOOMPH n pl WHOOMPHS whoompWHOOP v WHOOPED WHOOPING WHOOPSto utter loud criesWHOOPEE n pl WHOOPEESboisterous funWHOOPER n pl WHOOPERSone that whoopsWHOOPIE n pl WHOOPIESwhoopeeWHOOPLA n pl WHOOPLASa noisy commotionWHOOSH v WHOOSHED WHOOSHING WHOOSHESto move with a hissing soundWHOOSIS n pl WHOOSISESan object or person whose name is not knownWHOP v WHOPPED WHOPPING WHOPSto strike forciblyWHOPPER n pl WHOPPERSsomething unusually largeWHORE v WHORED WHORING WHORESto consort with prostitutesWHOREDOM n pl WHOREDOMSprostitutionWHORESON n pl WHORESONSa bastardWHORING n pl WHORINGSthe use of the services of a prostituteWHORISH adj lewdWHORL v WHORLED WHORLING WHORLSto move in a twisted or convoluted fashionWHORT n pl WHORTSan edible berryWHORTLE n pl WHORTLESwhortWHOSE pron the possessive case of whoWHOSESO pron possessive of whosoWHOSEVER pron the possessive case of whoeverWHOSIS n pl WHOSISESwhoosisWHOSIT n pl WHOSITSwhoosisWHOSO pron whoeverWHUMP v WHUMPED WHUMPING WHUMPSto thumpWHUP v WHUPPED WHUPPING WHUPSto defeat decisivelyWHY n pl WHYSthe reason or cause of somethingWHYDA n pl WHYDASwhydahWHYDAH n pl WHYDAHSan African birdWICCA n pl WICCASa form of natureoriented witchcraftWICCAN n pl WICCANSone who practices wiccaWICH n pl WICHESwychWICK n pl WICKSa bundle of loosely twisted fibers in a candle or oil lampWICKAPE n pl WICKAPESwicopyWICKED adj WICKEDER WICKEDESTevilWICKEDLY advWICKER n pl WICKERSa slender pliant twig or branchWICKET n pl WICKETSa small door or gateWICKING n pl WICKINGSmaterial for wicksWICKIUP n pl WICKIUPSa Native American hutWICKLESS adj having no wickWICKYUP n pl WICKYUPSwickiupWICOPY n pl WICOPIESa flowering shrubWIDDER n pl WIDDERSa widowWIDDIE n pl WIDDIESwiddyWIDDLE v WIDDLED WIDDLING WIDDLESto wriggleWIDDY n pl WIDDIESa hangmans nooseWIDE adj WIDER WIDESThaving great extent from side to sideWIDELY advWIDE n pl WIDESa type of bowled ball in cricketWIDEBAND adj operating over a wide band of frequenciesWIDEBODY n pl WIDEBODIESa jet aircraft having a wide fuselageWIDEN v WIDENED WIDENING WIDENSto make wide or widerWIDENER n pl WIDENERSone that widensWIDENESS n pl WIDENESSESthe state of being wideWIDEOUT n pl WIDEOUTSa receiver in footballWIDER comparative of wideWIDEST superlative of wideWIDGEON n pl WIDGEONSa river duckWIDGET n pl WIDGETSa gadgetWIDISH adj somewhat wideWIDOW v WIDOWED WIDOWING WIDOWSto deprive of a husbandWIDOWER n pl WIDOWERSa man whose wife has died and who has not remarriedWIDTH n pl WIDTHSextent from side to sideWIDTHWAY adv from side to sideWIELD v WIELDED WIELDING WIELDSto handle or use effectivelyWIELDER n pl WIELDERSone that wieldsWIELDY adj WIELDIER WIELDIESTeasily wieldedWIENER n pl WIENERSa frankfurterWIENIE n pl WIENIESa wienerWIFE n pl WIVESa woman married to a manWIFE v WIFED WIFING WIFESto wiveWIFEDOM n pl WIFEDOMSthe status or function of a wifeWIFEHOOD n pl WIFEHOODSthe state of being a wifeWIFELESS adj having no wifeWIFELIKE adj wifelyWIFELY adj WIFELIER WIFELIESTof or befitting a wifeWIFEY n pl WIFEYSa wifeWIFING present participle of wifeWIFTY adj WIFTIER WIFTIESTditsyWIG v WIGGED WIGGING WIGSto provide with a wig an artificial covering of hair for the headWIGAN n pl WIGANSa stiff fabricWIGEON n pl WIGEONSwidgeonWIGGED past tense of wigWIGGER n pl WIGGERSan unreliable or eccentric personWIGGERY n pl WIGGERIESa wigWIGGIER comparative of wiggyWIGGIEST superlative of wiggyWIGGING n pl WIGGINGSa scoldingWIGGLE v WIGGLED WIGGLING WIGGLESto move with short quick movements from side to sideWIGGLER n pl WIGGLERSone that wigglesWIGGLY adj WIGGLIER WIGGLIESTtending to wiggleWIGGY adj WIGGIER WIGGIESTcrazyWIGHT n pl WIGHTSa living beingWIGLESS adj having no wigWIGLET n pl WIGLETSa small wigWIGLIKE adj resembling a wigWIGMAKER n pl WIGMAKERSone that makes wigsWIGWAG v WIGWAGGED WIGWAGGING WIGWAGSto move back and forthWIGWAM n pl WIGWAMSa Native American dwellingWIKI n pl WIKISa website that allows any user to add or edit contentWIKIUP n pl WIKIUPSwickiupWILCO interj  used to indicate that a message received will be complied withWILD v WILDED WILDING WILDSto go about in a group attacking othersWILD adj WILDER WILDESTliving in a natural stateWILDCARD n pl WILDCARDSa symbol used in a database search to represent unspecified charactersWILDCAT v WILDCATTED WILDCATTING WILDCATSto search for oil in an area of doubtful productivityWILDER v WILDERED WILDERING WILDERSto bewilderWILDFIRE n pl WILDFIRESa raging destructive fireWILDFOWL n pl WILDFOWLSa wild game birdWILDING n pl WILDINGSa wild plant or animalWILDISH adj somewhat wildWILDLAND n pl WILDLANDSuncultivated landWILDLIFE n pl WILDLIFEwild animals and vegetationWILDLING n pl WILDLINGSa wildingWILDLY adv in a wild mannerWILDNESS n pl WILDNESSESthe state of being wildWILDWOOD n pl WILDWOODSnatural forest landWILE v WILED WILING WILESto enticeWILFUL adj willfulWILFULLY advWILIER comparative of wilyWILIEST superlative of wilyWILILY adv in a wily mannerWILINESS n pl WILINESSESthe quality of being wilyWILING present participle of wileWILL v WILLED WILLING WILLSto decide uponWILLABLE adjWILL v past sing 2d person WOULD or WOULDEST or WOULDST used as an auxiliary followed by a simple infinitive to express futurity inclination likelihood or requirementWILLER n pl WILLERSone that willsWILLET n pl WILLETSa shore birdWILLFUL adj bent on having ones own wayWILLIED past tense of willyWILLIES present 3d person sing of willyWILLING adj WILLINGER WILLINGESTinclined or favorably disposed in mindWILLIWAU n pl WILLIWAUSwilliwawWILLIWAW n pl WILLIWAWSa violent gust of cold windWILLOW v WILLOWED WILLOWING WILLOWSto clean textile fibers with a certain machineWILLOWER n pl WILLOWERSone that willowsWILLOWY adj WILLOWIER WILLOWIESTpliantWILLY v WILLIED WILLYING WILLIESto willowWILLYARD adj willfulWILLYART adj willyardWILLYWAW n pl WILLYWAWSwilliwawWILT v WILTED WILTING WILTSto become limpWILY adj WILIER WILIESTcraftyWIMBLE v WIMBLED WIMBLING WIMBLESto bore with a hand toolWIMP v WIMPED WIMPING WIMPSto act in a timid mannerWIMPISH adj wimpyWIMPLE v WIMPLED WIMPLING WIMPLESto pleatWIMPY adj WIMPIER WIMPIESTweak ineffectualWIN v WINNED WINNING WINSto winnowWIN v WON or WAN WINNING WINSto be victoriousWINCE v WINCED WINCING WINCESto flinchWINCER n pl WINCERSone that wincesWINCEY n pl WINCEYSa type of fabricWINCH v WINCHED WINCHING WINCHESto raise with a winch a hoisting machineWINCHER n pl WINCHERSone that winchesWINCING present participle of winceWIND v WOUND or WINDED WINDING WINDSto pass around an object or fixed centerWINDABLE adjWINDAGE n pl WINDAGESthe effect of the wind air in natural motion on a projectileWINDBAG n pl WINDBAGSa talkative personWINDBELL n pl WINDBELLSa light bell that can be sounded by the windWINDBURN v WINDBURNED or WINDBURNT WINDBURNING WINDBURNSto be affected with skin irritation caused by exposure to the windWINDER n pl WINDERSone that windsWINDFALL n pl WINDFALLSa sudden and unexpected gainWINDFLAW n pl WINDFLAWSa gust of windWINDGALL n pl WINDGALLSa swelling on a horses legWINDIER comparative of windyWINDIEST superlative of windyWINDIGO n pl WINDIGOS or WINDIGOESan evil demon in Algonquian mythologyWINDILY adv in a windy mannerWINDING n pl WINDINGSmaterial wound about an objectWINDLASS v WINDLASSED WINDLASSING WINDLASSESto raise with a windlass a hoisting machineWINDLE v WINDLED WINDLING WINDLESto windWINDLESS adj being without windWINDLING n pl WINDLINGSa bundle of strawWINDLOAD n pl WINDLOADSthe force exerted by the wind on a structureWINDMILL v WINDMILLED WINDMILLING WINDMILLSto rotate solely under the force of a passing airstreamWINDOW v WINDOWED WINDOWING WINDOWSto provide with a window an opening in a wall to admit light and airWINDOWY adj having many windowsWINDPACK n pl WINDPACKSsnow that has been compacted by the windWINDPIPE n pl WINDPIPESthe tracheaWINDROW v WINDROWED WINDROWING WINDROWSto arrange as hay or grain in long rowsWINDSAIL n pl WINDSAILSa funnel of sailcloth used to convey air down into the lower parts of a shipWINDSLAB n pl WINDSLABSa crust formed on soft snow by the windWINDSOCK n pl WINDSOCKSa device used to indicate wind directionWINDSURF v WINDSURFED WINDSURFING WINDSURFSto sail on a sailboardWINDUP n pl WINDUPSa conclusionWINDWARD n pl WINDWARDSthe direction from which the wind blowsWINDWAY n pl WINDWAYSa passage for airWINDY adj WINDIER WINDIESTmarked by strong windWINE v WINED WINING WINESto provide with wine the fermented juice of the grapeWINELESS adj having no wineWINERY n pl WINERIESan establishment for making wineWINESAP n pl WINESAPSa red apple with somewhat tart fleshWINESHOP n pl WINESHOPSa shop where wine is soldWINESKIN n pl WINESKINSa goatskin bag for holding wineWINESOP n pl WINESOPSa food sopped in wineWINEY adj WINIER WINIESTwinyWING v WINGED WINGING WINGSto travel by means of wings organs of flightWINGBACK n pl WINGBACKSa certain player in footballWINGBEAT n pl WINGBEATSone full set of motions of a wing in flyingWINGBOW n pl WINGBOWSa mark on the wing of a domestic fowlWINGDING n pl WINGDINGSa lively partyWINGEDLY adv swiftlyWINGER n pl WINGERSa certain player in soccerWINGIER comparative of wingyWINGIEST superlative of wingyWINGLESS adj having no wingsWINGLET n pl WINGLETSa small wingWINGLIKE adj resembling a wingWINGMAN n pl WINGMENa pilot behind the leader of a flying formationWINGNUT n pl WINGNUTSa nut with projections for gripping with the thumb and fingerWINGOVER n pl WINGOVERSa flight maneuverWINGSPAN n pl WINGSPANSthe distance from the tip of one of a pair of wings to that of the otherWINGTIP n pl WINGTIPSa type of mans shoeWINGY adj WINGIER WINGIESTswiftWINIER comparative of winey and winyWINIEST superlative of winey and winyWINING present participle of wineWINISH adj winyWINK v WINKED WINKING WINKSto close and open one eye quicklyWINKER n pl WINKERSone that winksWINKLE v WINKLED WINKLING WINKLESto displace extract or evict from a positionWINKLER n pl WINKLERSone that winklesWINLESS adj having no winsWINNABLE adj able to be wonWINNED past tense of win to winnowWINNER n pl WINNERSone that winsWINNING n pl WINNINGSmoney won in a game or competitionWINNOCK n pl WINNOCKSa windowWINNOW v WINNOWED WINNOWING WINNOWSto free grain from impuritiesWINNOWER n pl WINNOWERSone that winnowsWINO n pl WINOS or WINOESone who is habitually drunk on wineWINSOME adj WINSOMER WINSOMESTcharmingWINTER v WINTERED WINTERING WINTERSto pass the winter the coldest season of the yearWINTERER n pl WINTERERSone that wintersWINTERLY adj wintryWINTERY adj WINTERIER WINTERIESTwintryWINTLE v WINTLED WINTLING WINTLESto staggerWINTRY adj WINTRIER WINTRIESTcharacteristic of winterWINTRILY advWINY adj WINIER WINIESThaving the taste or qualities of wineWINZE n pl WINZESa steeply inclined mine shaftWIPE v WIPED WIPING WIPESto rub lightly in order to clean or dryWIPEABLE adjWIPEOUT n pl WIPEOUTSa fall from a surfboardWIPER n pl WIPERSone that wipesWIRE v WIRED WIRING WIRESto fasten with wire a slender rod strand or thread of ductile metalWIRABLE adjWIREDRAW v WIREDREW WIREDRAWN WIREDRAWING WIREDRAWSto draw into wireWIREHAIR n pl WIREHAIRSa dog having a wiry coatWIRELESS v WIRELESSED WIRELESSING WIRELESSESto radioWIRELIKE adj resembling wireWIRELINE n pl WIRELINESa telegraph or telephone wireWIREMAN n pl WIREMENone who makes or works with wireWIRER n pl WIRERSone that wiresWIRETAP v WIRETAPPED WIRETAPPING WIRETAPSto intercept messages by means of a concealed monitoring deviceWIREWAY n pl WIREWAYSa tube for protecting electric wiresWIREWORK n pl WIREWORKSan article made of wireWIREWORM n pl WIREWORMSa wirelike wormWIRIER comparative of wiryWIRIEST superlative of wiryWIRILY adv in a wiry mannerWIRINESS n pl WIRINESSESthe quality of being wiryWIRING n pl WIRINGSa system of electric wiresWIRRA interj  used to express sorrowWIRY adj WIRIER WIRIESTresembling wireWIS v past tense WISTto know  WIS and WIST are the only accepted forms of this verb it cannot be conjugated furtherWISDOM n pl WISDOMSthe power of true and right discernmentWISE adj WISER WISESThaving wisdomWISE v WISED WISING WISESto become aware or informedWISEACRE n pl WISEACRESa pretentiously wise personWISEASS n pl WISEASSESa wiseacreWISED past tense of wiseWISEGUY n pl WISEGUYSa mobsterWISELY adv WISELIER WISELIESTin a wise mannerWISENESS n pl WISENESSESwisdomWISENT n pl WISENTSa European bisonWISER comparative of wiseWISEST superlative of wiseWISH v WISHED WISHING WISHESto feel an impulse toward attainment or possession of somethingWISHA interj  used to express surpriseWISHBONE n pl WISHBONESa forked bone in front of a birds breastboneWISHER n pl WISHERSone that wishesWISHFUL adj desirousWISHLESS adj not wishfulWISING present participle of wiseWISP v WISPED WISPING WISPSto twist into a wisp a small bunch or bundleWISPIER comparative of wispyWISPIEST superlative of wispyWISPILY adv in a wispy mannerWISPISH adj wispyWISPLIKE adj wispyWISPY adj WISPIER WISPIESTresembling a wispWISS v WISSED WISSING WISSESto wishWIST v WISTED WISTING WISTSto knowWISTARIA n pl WISTARIASwisteriaWISTERIA n pl WISTERIASa flowering shrubWISTFUL adj yearningWIT n pl WITSintelligenceWIT v WIST WITING or WITTING present sing 1st person WOT 2d WOST 3d WOT present pl WITEto knowWITAN n pl WITANSan AngloSaxon council to the kingWITCH v WITCHED WITCHING WITCHESto bewitchWITCHERY n pl WITCHERIESsorceryWITCHING n pl WITCHINGSsorceryWITCHY adj WITCHIER WITCHIESTmaliciousWITE v WITED WITING WITESto blameWITH prep in the company ofWITHAL adv in additionWITHDRAW v WITHDREW WITHDRAWN WITHDRAWING WITHDRAWSto move back or awayWITHE v WITHED WITHING WITHESto bind with flexible twigsWITHER v WITHERED WITHERING WITHERSto dry up and wiltWITHERER n pl WITHERERSone that withersWITHEROD n pl WITHERODSa North American shrubWITHHOLD v WITHHELD WITHHOLDING WITHHOLDSto hold backWITHIER comparative of withyWITHIES pl of withyWITHIEST superlative of withyWITHIN n pl WITHINSan interior place or areaWITHING present participle of witheWITHOUT n pl WITHOUTSan exterior place or areaWITHY adj WITHIER WITHIESTflexible and toughWITHY n pl WITHIESa flexible twigWITING present participle of wit and witeWITLESS adj lacking intelligenceWITLING n pl WITLINGSone who considers himself wittyWITLOOF n pl WITLOOFSchicoryWITNESS v WITNESSED WITNESSING WITNESSESto see or know by personal experienceWITNEY n pl WITNEYSa heavy woolen fabricWITTED adj having intelligenceWITTER v WITTERED WITTERING WITTERSto speak at length on trivial mattersWITTIER comparative of wittyWITTIEST superlative of wittyWITTILY adv in a witty mannerWITTING n pl WITTINGSknowledgeWITTOL n pl WITTOLSa man who tolerates his wifes infidelityWITTY adj WITTIER WITTIESThumorously cleverWIVE v WIVED WIVING WIVESto marry a womanWIVER n pl WIVERSwivernWIVERN n pl WIVERNSa twolegged dragonWIVES pl of wifeWIVING present participle of wiveWIZ n pl WIZZES or WIZESa very clever or skillful personWIZARD n pl WIZARDSa sorcererWIZARDLY adjWIZARDRY n pl WIZARDRIESsorceryWIZEN v WIZENED WIZENING WIZENSto shrivelWIZZEN n pl WIZZENSweasandWO n pl WOSwoeWOAD n pl WOADSa blue dyeWOADED adjWOADWAX n pl WOADWAXESan ornamental shrubWOALD n pl WOALDSa yellow pigmentWOBBLE v WOBBLED WOBBLING WOBBLESto move unsteadilyWOBBLER n pl WOBBLERSone that wobblesWOBBLY adj WOBBLIER WOBBLIESTunsteadyWOBBLY n pl WOBBLIESa member of the Industrial Workers of the WorldWOBEGONE adj affected with woeWODGE n pl WODGESa chunk of somethingWOE n pl WOEStremendous griefWOEFUL adj WOEFULLER WOEFULLESTfull of woeWOEFULLY advWOENESS n pl WOENESSESsadnessWOESOME adj woefulWOFUL adj WOFULLER WOFULLESTwoefulWOFULLY advWOGGLE n pl WOGGLESa ring through which a Scouts neckerchief is threadedWOK n pl WOKSa cooking utensilWOKE a past tense of wakeWOKEN a past participle of wakeWOLD n pl WOLDSan elevated tract of open landWOLF n pl WOLVESa carnivorous mammalWOLF v WOLFED WOLFING WOLFSto devour voraciouslyWOLFER n pl WOLFERSone who hunts wolvesWOLFFISH n pl WOLFFISHESa marine fishWOLFISH adj wolflikeWOLFLIKE adj resembling a wolfWOLFRAM n pl WOLFRAMStungstenWOLFSKIN n pl WOLFSKINSthe skin of a wolfWOLVER n pl WOLVERSwolferWOLVES pl of wolfWOMAN n pl WOMENan adult human femaleWOMAN v WOMANED WOMANING WOMANS or WOMANNED WOMANNING WOMANSto provide with a staff of womenWOMANISE v WOMANISED WOMANISING WOMANISESto womanizeWOMANISH adj characteristic of a womanWOMANISM n pl WOMANISMSa belief in or respect for womenWOMANIST n pl WOMANISTSa supporter of womanismWOMANIZE v WOMANIZED WOMANIZING WOMANIZESto make effeminateWOMANLY adj WOMANLIER WOMANLIESThaving the qualities of a womanWOMB n pl WOMBSthe uterusWOMBED adjWOMBAT n pl WOMBATSa nocturnal mammalWOMBLIKE adj resembling a wombWOMBY adj WOMBIER WOMBIESThollowWOMEN pl of womanWOMERA n pl WOMERASa device used to propel spearsWOMMERA n pl WOMMERASwomeraWOMYN npl womenWON v WONNED WONNING WONSto dwellWONDER v WONDERED WONDERING WONDERSto have a feeling of curiosity or doubtWONDERER n pl WONDERERSone that wondersWONDROUS adj marvelousWONK n pl WONKSan overly studious studentWONKISH adjWONKERY n pl WONKERIESthe qualities or activities of a wonkWONKY adj WONKIER WONKIESTunsteadyWONKILY advWONNED past tense of wonWONNER n pl WONNERSa prodigyWONNING present participle of wonWONT v WONTED WONTING WONTSto make accustomed toWONTEDLY adv in a usual mannerWONTON n pl WONTONSa porkfilled dumpling used in Chinese cookingWOO v WOOED WOOING WOOSto seek the affection ofWOOABLE adjWOOD v WOODED WOODING WOODSto furnish with wood the hard fibrous substance beneath the bark of a tree or shrubWOODBIN n pl WOODBINSa bin for holding firewoodWOODBIND n pl WOODBINDSwoodbineWOODBINE n pl WOODBINESa European shrubWOODBOX n pl WOODBOXESa woodbinWOODCHAT n pl WOODCHATSa European shrikeWOODCOCK n pl WOODCOCKSa game birdWOODCUT n pl WOODCUTSan engraved block of woodWOODEN adj WOODENER WOODENESTresembling wood in stiffnessWOODENLY advWOODFERN n pl WOODFERNSan evergreen fernWOODHEN n pl WOODHENSthe wekaWOODIE n pl WOODIESwoodyWOODIER comparative of woodyWOODIES pl of woodyWOODIEST superlative of woodyWOODLAND n pl WOODLANDSland covered with treesWOODLARK n pl WOODLARKSa songbirdWOODLESS adj having no woodWOODLICE npl sowbugsWOODLORE n pl WOODLORESknowledge of the forestWOODLOT n pl WOODLOTSan area restricted to the growing of forest treesWOODMAN n pl WOODMENwoodsmanWOODMICE npl field miceWOODNOTE n pl WOODNOTESa song or call of a forest birdWOODPILE n pl WOODPILESa pile of woodWOODRAT n pl WOODRATSa North American rat having a wellfurred tail and large earsWOODRUFF n pl WOODRUFFSan aromatic herbWOODRUSH n pl WOODRUSHESa grasslike plant having leaves fringed with long hairsWOODSHED v WOODSHEDDED WOODSHEDDING WOODSHEDSto practice on a musical instrumentWOODSIA n pl WOODSIASa small fernWOODSMAN n pl WOODSMENone who works or lives in the forestWOODSY adj WOODSIER WOODSIESTsuggestive of a forestWOODTONE n pl WOODTONESa finish that imitates woodWOODWASP n pl WOODWASPSa large wasplike insectWOODWAX n pl WOODWAXESwoadwaxWOODWIND n pl WOODWINDSa musical wind instrumentWOODWORK n pl WOODWORKSwork made of woodWOODWORM n pl WOODWORMSa woodboring wormWOODY adj WOODIER WOODIESTcontaining or resembling woodWOODY n pl WOODIESa woodpaneled station wagonWOODYARD n pl WOODYARDSa yard where wood is chopped or storedWOOER n pl WOOERSone that woosWOOF v WOOFED WOOFING WOOFSto utter a gruff barking soundWOOFER n pl WOOFERSa loudspeaker designed to reproduce lowpitched soundsWOOINGLY adv attractivelyWOOL n pl WOOLSthe dense soft hair forming the coat of certain mammalsWOOLED adj having wool of a specified kindWOOLEN n pl WOOLENSa fabric made of woolWOOLER n pl WOOLERSa domestic animal raised for its woolWOOLFELL n pl WOOLFELLSwoolskinWOOLHAT n pl WOOLHATSone who works a small farmWOOLIE n pl WOOLIESa woollyWOOLIER comparative of woolyWOOLIES pl of woolyWOOLIEST superlative of woolyWOOLLED adj wooledWOOLLEN n pl WOOLLENSwoolenWOOLLIES pl of woollyWOOLLIKE adj resembling woolWOOLLY adj WOOLLIER WOOLLIESTconsisting of or resembling woolWOOLLILY advWOOLLY n pl WOOLLIESa garment made of woolWOOLMAN n pl WOOLMENa dealer in woolWOOLPACK n pl WOOLPACKSa bag for packing a bale of woolWOOLSACK n pl WOOLSACKSa sack of woolWOOLSHED n pl WOOLSHEDSa building in which sheep are shearedWOOLSKIN n pl WOOLSKINSa sheepskin with the wool still on itWOOLWORK n pl WOOLWORKSneedleworkWOOLY adj WOOLIER WOOLIESTwoollyWOOLY n pl WOOLIESa woollyWOOMERA n pl WOOMERASwomeraWOONERF n pl WOONERFSa road in the Netherlands primarily for pedestrians and cyclistsWOOPIE n pl WOOPIESa welloff older personWOOPS v WOOPSED WOOPSING WOOPSESto vomitWOOPY n pl WOOPIESwoopieWOORALI n pl WOORALIScurareWOORARI n pl WOORARIScurareWOOSH v WOOSHED WOOSHING WOOSHESto whooshWOOZY adj WOOZIER WOOZIESTdazedWOOZILY advWORD v WORDED WORDING WORDSto express in words speech sounds that communicate meaningWORDAGE n pl WORDAGESthe number of words usedWORDBOOK n pl WORDBOOKSa dictionaryWORDIER comparative of wordyWORDIEST superlative of wordyWORDILY adv in a wordy mannerWORDING n pl WORDINGSthe act or style of expressing in wordsWORDLESS adj being without wordsWORDPLAY n pl WORDPLAYSa witty exchange of wordsWORDY adj WORDIER WORDIESTusing many or too many wordsWORE past tense of wearWORK v WORKED or WROUGHT WORKING WORKSto exert ones powers of body or mind for some purposeWORKABLE adj capable of being doneWORKABLY advWORKADAY adj everydayWORKBAG n pl WORKBAGSa bag for holding work instruments and materialsWORKBOAT n pl WORKBOATSa boat used for commercial purposesWORKBOOK n pl WORKBOOKSan exercise book for a studentWORKBOOT n pl WORKBOOTSa sturdy leather boot for workersWORKBOX n pl WORKBOXESa box for holding work instruments and materialsWORKDAY n pl WORKDAYSa day on which work is doneWORKER n pl WORKERSone that worksWORKFARE n pl WORKFARESa welfare program that requires recipients to perform publicservice workWORKFLOW n pl WORKFLOWSthe amount of work to and from an office or employeeWORKFOLK npl manual laborersWORKHOUR n pl WORKHOURSany of the hours of the day during which work is doneWORKING n pl WORKINGSa mining excavationWORKLESS adj unemployedWORKLOAD n pl WORKLOADSthe amount of work assigned to an employeeWORKMAN n pl WORKMENa male workerWORKMATE n pl WORKMATESa fellow workerWORKOUT n pl WORKOUTSa period of physical exerciseWORKROOM n pl WORKROOMSa room in which work is doneWORKSHOP n pl WORKSHOPSa workroomWORKSITE n pl WORKSITESan area where work takes placeWORKSONG n pl WORKSONGSa song sung while doing physical workWORKTOP n pl WORKTOPSa work surface especially in a kitchenWORKUP n pl WORKUPSan intensive diagnostic studyWORKWEAR n pl WORKWEARheavyduty clothes for physical workWORKWEEK n pl WORKWEEKSthe number of hours worked in a weekWORLD n pl WORLDSthe earth and all its inhabitantsWORLDER n pl WORLDERSone who belongs to a specified class time domain or sphere of activityWORLDLY adj WORLDLIER WORLDLIESTpertaining to the worldWORM v WORMED WORMING WORMSto rid of worms small limbless invertebratesWORMCAST n pl WORMCASTSa mass of earth left on the surface by a burrowing earthwormWORMER n pl WORMERSone that wormsWORMGEAR n pl WORMGEARSa gear wheel driven by a worm a rotating shaft with threadsWORMHOLE n pl WORMHOLESa hole made by a burrowing wormWORMIER comparative of wormyWORMIEST superlative of wormyWORMIL n pl WORMILSa lump in the skin of an animals backWORMISH adj wormlikeWORMLIKE adj resembling a wormWORMROOT n pl WORMROOTSpinkrootWORMSEED n pl WORMSEEDSa tropical plantWORMWOOD n pl WORMWOODSa European herbWORMY adj WORMIER WORMIESTinfested with wormsWORN adj affected by wear or useWORNNESS n pl WORNNESSESthe state of being wornWORRIER n pl WORRIERSone that worriesWORRIT v WORRITED WORRITING WORRITSto worryWORRY v WORRIED WORRYING WORRIESto feel anxious and uneasy about somethingWORSE n pl WORSESsomething that is worse bad in a greater degreeWORSEN v WORSENED WORSENING WORSENSto make or become worseWORSER adj worseWORSET n pl WORSETSworstedWORSHIP v WORSHIPED WORSHIPING WORSHIPS or WORSHIPPED WORSHIPPING WORSHIPSto honor and love as a divine beingWORST v WORSTED WORSTING WORSTSto defeatWORSTED n pl WORSTEDSa woolen yarnWORT n pl WORTSa plant herb or vegetableWORTH v WORTHED WORTHING WORTHSto befallWORTHFUL adj worthyWORTHY adj WORTHIER WORTHIESThaving value or meritWORTHILY advWORTHY n pl WORTHIESa worthy personWOST a present 2d person sing of witWOT v WOTTED WOTTING WOTSto knowWOTCHER interj  used as a casual greetingWOULD past tense of willWOULDEST a 2d person sing past tense of willWOULDST a 2d person sing past tense of willWOUND v WOUNDED WOUNDING WOUNDSto inflict an injury uponWOVE a past tense of weaveWOVEN n pl WOVENSa woven fabricWOW v WOWED WOWING WOWSto excite to enthusiastic approvalWOWEE interj  used to express astonishment or admirationWOWSER n pl WOWSERSa puritanical personWRACK v WRACKED WRACKING WRACKSto wreckWRACKFUL adj destructiveWRAITH n pl WRAITHSa ghostWRANG n pl WRANGSa wrongWRANGLE v WRANGLED WRANGLING WRANGLESto argue noisilyWRANGLER n pl WRANGLERSone that wranglesWRAP v WRAPPED or WRAPT WRAPPING WRAPSto enclose in something wound or folded aboutWRAPPER n pl WRAPPERSone that wrapsWRAPPING n pl WRAPPINGSthe material in which something is wrappedWRASSE n pl WRASSESa marine fishWRASSLE v WRASSLED WRASSLING WRASSLESto wrastleWRASTLE v WRASTLED WRASTLING WRASTLESto wrestleWRATH v WRATHED WRATHING WRATHSto make wrathfulWRATHFUL adj extremely angryWRATHY adj WRATHIER WRATHIESTwrathfulWRATHILY advWREAK v WREAKED WREAKING WREAKSto inflictWREAKER n pl WREAKERSone that wreaksWREATH n pl WREATHSa band of flowersWREATHY adjWREATHE v WREATHED WREATHEN WREATHING WREATHESto shape into a wreathWREATHER n pl WREATHERSone that wreathesWRECK v WRECKED WRECKING WRECKSto cause the ruin ofWRECKAGE n pl WRECKAGESthe act of wreckingWRECKER n pl WRECKERSone that wrecksWRECKFUL adj destructiveWRECKING n pl WRECKINGSthe occupation of salvaging wrecked objectsWREN n pl WRENSa small songbirdWRENCH v WRENCHED WRENCHING WRENCHESto twist suddenly and forciblyWRENCHER n pl WRENCHERSone that wrenchesWRENTIT n pl WRENTITSa longtailed North American songbirdWREST v WRESTED WRESTING WRESTSto take away by forceWRESTER n pl WRESTERSone that wrestsWRESTLE v WRESTLED WRESTLING WRESTLESto engage in a type of handtohand contestWRESTLER n pl WRESTLERSone that wrestlesWRETCH n pl WRETCHESa wretched personWRETCHED adj WRETCHEDER WRETCHEDESTextremely unhappyWRICK v WRICKED WRICKING WRICKSto wrenchWRIED past tense of wryWRIER a comparative of wryWRIES present 3d person sing of wryWRIEST a superlative of wryWRIGGLE v WRIGGLED WRIGGLING WRIGGLESto turn or twist in a sinuous mannerWRIGGLER n pl WRIGGLERSone that wrigglesWRIGGLY adj WRIGGLIER WRIGGLIESTwrigglingWRIGHT n pl WRIGHTSone who constructs or createsWRING v WRUNG or WRINGED WRINGING WRINGSto twist so as to compressWRINGER n pl WRINGERSone that wringsWRINKLE v WRINKLED WRINKLING WRINKLESto make wrinkles small ridges or furrows inWRINKLY adj WRINKLIER WRINKLIESThaving wrinklesWRIST v WRISTED WRISTING WRISTSto sweep the puck along the ice before shooting itWRISTER n pl WRISTERSa type of shot in hockeyWRISTLET n pl WRISTLETSa band worn around the wristWRISTY adj WRISTIER WRISTIESTusing much wrist actionWRIT n pl WRITSa written legal orderWRITE v WROTE WRITTEN WRITING WRITESto form characters or symbols on a surface with an instrumentWRITABLE adjWRITEOFF n pl WRITEOFFSan uncollectible debt that is cancelledWRITER n pl WRITERSone that writesWRITERLY adj characteristic of a writerWRITHE v WRITHED WRITHING WRITHESto squirm or twist in painWRITHEN adj twistedWRITHER n pl WRITHERSone that writhesWRITING n pl WRITINGSa written compositionWRITTEN past participle of writeWRONG adj WRONGER WRONGESTnot according to what is right proper or correctWRONG v WRONGED WRONGING WRONGSto treat injuriously or unjustlyWRONGER n pl WRONGERSone that wrongsWRONGFUL adj wrongWRONGLY adv in a wrong mannerWROTE past tense of writeWROTH adj very angryWROTHFUL adj wrothWROUGHT a past tense of workWRUNG a past tense of wringWRY adj WRIER WRIEST or WRYER WRYESTcontortedWRYLY advWRY v WRIED WRYING WRIESto contortWRYNECK n pl WRYNECKSa European birdWRYNESS n pl WRYNESSESthe state of being wryWUD adj insaneWURST n pl WURSTSsausageWURTZITE n pl WURTZITESa mineralWURZEL n pl WURZELSa variety of beetWUSHU n pl WUSHUChinese martial artsWUSS n pl WUSSESa wimp a weak ineffectual personWUSSY adj WUSSIER WUSSIESTwimpyWUSSY n pl WUSSIESa wussWUTHER v WUTHERED WUTHERING WUTHERSto blow with a dull roaring soundWYCH n pl WYCHESa European elmWYE n pl WYESthe letter YWYLE v WYLED WYLING WYLESto beguileWYN n pl WYNSwynnWYND n pl WYNDSa narrow streetWYNN n pl WYNNSthe rune for WWYSIWYG adj denoting the text on a display screen that exactly corresponds to its appearance on a printoutWYTE v WYTED WYTING WYTESto witeWYVERN n pl WYVERNSwivern").
+```
+entry(xanthan, n, [xanthans], "bakterial fermentatsiya natijasida hosil bo'lgan zamXANTHATE n pl XANTHATESkimyoviy tuzXANTHEIN n pl XANTHEINSnarsplashgulida sariq gullarning rangi qismi suvda eruvchanligiXANTHENE n pl XANTHENESkimyoviy birikmaXANTHIC adj sariq rangga o'zgarish XYANTHIN n pl XANTHINSsariq pigmentXANTHINE n pl XANTHINESkimyoviy birikmaXANTHOMA n pl XANTHOMAS yoki XANTHOMATAteri kasalligiXANTHONE n pl XANTHONESkimyoviy birikmaXANTHOUS adj sariqXEBEC n pl XEBECSo'rta Yer dengizi yelkenli kemasiXENIA n pl XENIASpolenning o'simlik tuzilmalariga ta'siriXENIAL adjXENIC adj madaniy muhit turi bo'lganXENOGAMY n pl XENOGAMIESbir o'simlikdan boshqasiga polen o'tkazishXENOGENY n pl XENOGENIESbutunlay ota-onadan farq qiladigan avlodlarni ishlab chiqarishXENOLITH n pl XENOLITHSikkinchi bir tosh parchasini o'zida saqlaydiXENON n pl XENONSgaz elementXENOPUS n pl XENOPUSESjanubiy Afrikaga xos bo'lgan afrika qurbaqasiXENOTIME n pl XENOTIMESsariq-jigarrang mineralXERARCH adj quruq joyda rivojlanmoqdaXERIC adj juda oz miqdorda namlik talab qiladiganXEROSERE n pl XEROSERESquruq yerXEROSIS n pl XEROSESbadan yoki to'qimaning odatdan tashqari qurishiXEROTIC adjXEROX v XEROXED XEROXING XEROXEsts otksar ximogen kollektori ustida chop etadiganXERUS n pl XERUSESafrika er tuproqli kalamariXI n pl XISyunon harfiXIPHOID n pl XIPHOIDSchuqur qismiXU n pl XUpesa birligi VetnamXYLAN n pl XYLANSo'simlik hujayra devorlarida topilgan moddaXYLEM n pl XYLEMSmurakkab o'simlik to'qimasiXYLENE n pl XYLENESyonuvchi uglevodorodXYLIDIN n pl XYLIDINSksilidYXYLIDINE n pl XYLIDINESkimyoviy birikmaXYLITOL n pl XYLITOLSalkoholiXYLOCARP n pl XYLOCARPSqatlanish qobiliyatiga ega bo'lgan mevaXYLOID adj yog'ochga o'xshashXYLOL n pl XYLOLSksilenXYLOSE n pl XYLOSESshakar tur XYLOTOMY n pl XYLOTOMIESyog'och qismlarini mikroskopik tahlil uchun tayyorlay olishXYLYL n pl XYLYLSbir valentlik radikaliXYST n pl XYSTSXYSTER n pl XYSTERSsuyaklarni qo'shilish uchun jarrohlik asbobiXYSTOS n pl XYSTOIxystusXYSTUS n pl XYSTIQadimgi Yunoniston sportchilari mashq qiladigan tomi to‘sig'i").
+```prolog
+entry(ya, n, [yas], "Osiyo noki").
+```
+entry(za, n, [zas], "a pizzaZABAIONE n pl ZABAIONESa dessert resembling custardZABAJONE n pl ZABAJONESzabaioneZACATON n pl ZACATONSa Mexican grassZADDICK n pl ZADDIKIMzaddikZADDIK n pl ZADDIKIMa virtuous person by Jewish religious standardsZAFFAR n pl ZAFFARSzafferZAFFER n pl ZAFFERSa blue ceramic coloringZAFFIR n pl ZAFFIRSzafferZAFFRE n pl ZAFFRESzafferZAFTIG adj fullbosomedZAG v ZAGGED ZAGGING ZAGSto turn sharplyZAIBATSU n pl ZAIBATSUa powerful family combine in JapanZAIDA n pl ZAIDASzedaZAIDEH n pl ZAIDEHSzedaZAIDY n pl ZAIDIESzedaZAIKAI n pl ZAIKAISthe business community of JapanZAIRE n pl ZAIRESa former monetary unit of ZaireZAKAT n pl ZAKATSpayment made annually under Islamic law on certain kinds of propertyZAMARRA n pl ZAMARRASa sheepskin coatZAMARRO n pl ZAMARROSzamarraZAMIA n pl ZAMIASa tropical plantZAMINDAR n pl ZAMINDARSa tax collector in precolonial IndiaZANANA n pl ZANANASzenanaZANDER n pl ZANDERSa freshwater fishZANINESS n pl ZANINESSESthe quality or state of being zanyZANY adj ZANIER ZANIESTludicrously comicalZANILY advZANY n pl ZANIESa zany personZANYISH adj somewhat zanyZANZA n pl ZANZASan African musical instrumentZAP v ZAPPED ZAPPING ZAPSto kill or destroy instantaneouslyZAPATEO n pl ZAPATEOSa Spanish danceZAPPER n pl ZAPPERSa device that zapsZAPPY adj ZAPPIER ZAPPIESTzippyZAPTIAH n pl ZAPTIAHSa Turkish policemanZAPTIEH n pl ZAPTIEHSzaptiahZARATITE n pl ZARATITESa chemical compoundZAREBA n pl ZAREBASan improvised stockadeZAREEBA n pl ZAREEBASzarebaZARF n pl ZARFSa metal holder for a coffee cupZARIBA n pl ZARIBASzarebaZARZUELA n pl ZARZUELASa Spanish operettaZASTRUGA n pl ZASTRUGIsastrugaZAX n pl ZAXESa tool for cutting roof slatesZAYIN n pl ZAYINSa Hebrew letterZAZEN n pl ZAZENSmeditation in Zen BuddhismZEAL n pl ZEALSenthusiastic devotionZEALOT n pl ZEALOTSone who is zealousZEALOTRY n pl ZEALOTRIESexcessive zealZEALOUS adj filled with zealZEATIN n pl ZEATINSa chemical compound found in maizeZEBEC n pl ZEBECSxebecZEBECK n pl ZEBECKSxebecZEBRA n pl ZEBRASan African mammal that is related to the horseZEBRAIC adjZEBRANO n pl ZEBRANOSa tree having striped woodZEBRASS n pl ZEBRASSESthe offspring of a zebra and an assZEBRINE n pl ZEBRINESthe offspring of a male horse and a female zebraZEBROID adj resembling a zebraZEBU n pl ZEBUSan Asian oxZECCHIN n pl ZECCHINSzecchinoZECCHINO n pl ZECCHINOS or ZECCHINIa former gold coin of ItalyZECHIN n pl ZECHINSzecchinoZED n pl ZEDSthe letter ZZEDA n pl ZEDASgrandfatherZEDOARY n pl ZEDOARIESthe medicinal root of a tropical plantZEE n pl ZEESthe letter ZZEIN n pl ZEINSa simple proteinZEK n pl ZEKSan inmate in a Soviet labor campZELKOVA n pl ZELKOVASa Japanese treeZEMINDAR n pl ZEMINDARSzamindarZEMSTVO n pl ZEMSTVOS or ZEMSTVAan elective council in czarist RussiaZENAIDA n pl ZENAIDASa wild doveZENANA n pl ZENANASthe section of a house in India reserved for womenZENDO n pl ZENDOSa place where Zen Buddhists meditate and studyZENITH n pl ZENITHSthe highest pointZENITHAL adjZEOLITE n pl ZEOLITESa mineralZEOLITIC adjZEP n pl ZEPSa long sandwichZEPHYR n pl ZEPHYRSa gentle breezeZEPPELIN n pl ZEPPELINSa long rigid airshipZEPPOLE n pl ZEPPOLES or ZEPPOLIa deepfried pastryZERK n pl ZERKSa grease fittingZERO v ZEROED ZEROING ZEROES or ZEROSto aim at the exact center of a targetZEROTH adj being numbered zero in a seriesZEST v ZESTED ZESTING ZESTSto fill with zest invigorating excitementZESTER n pl ZESTERSa utensil for peeling citrus rindZESTFUL adj full of zestZESTLESS adj lacking zestZESTY adj ZESTIER ZESTIESTmarked by zestZESTILY advZETA n pl ZETASa Greek letterZETETIC adj proceeding by inquiryZEUGMA n pl ZEUGMASthe use of a word to modify or govern two or more words while applying to each in a different senseZIBELINE n pl ZIBELINESa soft fabricZIBET n pl ZIBETSan Asian civetZIBETH n pl ZIBETHSzibetZIG v ZIGGED ZIGGING ZIGSto turn sharplyZIGGURAT n pl ZIGGURATSan ancient Babylonian temple towerZIGZAG v ZIGZAGGED ZIGZAGGING ZIGZAGSto proceed on a course marked by sharp turnsZIGZAGGY adj marked by sharp turnsZIKKURAT n pl ZIKKURATSzigguratZIKURAT n pl ZIKURATSzigguratZILCH n pl ZILCHESnothingZILL n pl ZILLSone of a pair of finger cymbalsZILLAH n pl ZILLAHSan administrative district in IndiaZILLION n pl ZILLIONSan indeterminately large numberZIN n pl ZINSa dry red wineZINC v ZINCED ZINCING ZINCS or ZINCKED ZINCKING ZINCSto coat with zinc a metallic elementZINCATE n pl ZINCATESa chemical saltZINCIC adj pertaining to zincZINCIFY v ZINCIFIED ZINCIFYING ZINCIFIESto coat with zincZINCITE n pl ZINCITESan ore of zincZINCKED a past tense of zincZINCKING a present participle of zincZINCKY adj resembling zincZINCO n pl ZINCOSa letterpress printing plate made of zincZINCOID adj zincicZINCOUS adj zincicZINCY adj zinckyZINE n pl ZINESa magazineZINEB n pl ZINEBSan insecticideZING v ZINGED ZINGING ZINGSto move with a highpitched humming soundZINGANO n pl ZINGANIzingaroZINGARA n pl ZINGAREa female gypsyZINGARO n pl ZINGARIa gypsyZINGER n pl ZINGERSa pointed witty retort or remarkZINGY adj ZINGIER ZINGIESTenjoyably excitingZINKIFY v ZINKIFIED ZINKIFYING ZINKIFIESto zincifyZINKY adj zinckyZINNIA n pl ZINNIASa tropical plantZIP v ZIPPED ZIPPING ZIPSto move with speed and vigorZIPLESS adj lacking vigor or energyZIPLOCK adj having a groove and ridge that form a tight seal when joinedZIPOLA n pl ZIPOLASzippoZIPPER v ZIPPERED ZIPPERING ZIPPERSto fasten with a zipper a fastener consisting of two rows of interlocking teethZIPPO n pl ZIPPOSnothingZIPPY adj ZIPPIER ZIPPIESTfull of energyZIPPILY advZIRAM n pl ZIRAMSa chemical saltZIRCALOY n pl ZIRCALOYSa zirconium alloyZIRCON n pl ZIRCONSa mineralZIRCONIA n pl ZIRCONIASa chemical compoundZIRCONIC adj pertaining to the metallic element zirconiumZIT n pl ZITSa pimpleZITHER n pl ZITHERSa stringed instrumentZITHERN n pl ZITHERNSzitherZITI n pl ZITISa tubular pastaZIZIT npl zizithZIZITH npl the tassels on the four corners of a Jewish prayer shawlZIZZ n ZIZZED ZIZZING ZIZZESto make a buzzing soundZIZZLE v ZIZZLED ZIZZLING ZIZZLESto sizzleZLOTY n pl ZLOTYSa monetary unit of PolandZOA a pl of zoonZOARIUM n pl ZOARIAa colony of bryozoansZOARIAL adjZOCALO n pl ZOCALOSthe public square in a Mexican city or townZODIAC n pl ZODIACSan imaginary belt encircling the celestial sphereZODIACAL adjZOEA n pl ZOEAS or ZOEAEa larval form of certain crustaceansZOEAL adjZOECIUM n pl ZOECIAzooeciumZOETROPE n pl ZOETROPESan optical toy in which a series of pictures rotates to give the illusion of motionZOFTIG adj zaftigZOIC adj pertaining to animals or animal lifeZOISITE n pl ZOISITESa mineralZOMBI n pl ZOMBISzombieZOMBIE n pl ZOMBIESa willless human capable only of automatic movementZOMBIFY v ZOMBIFIED ZOMBIFYING ZOMBIFIESto turn into a zombieZOMBIISM n pl ZOMBIISMSthe system of beliefs connected with a West African snake godZONA n pl ZONAEa transparent substance surrounding the ovum of mammalsZONAL adj pertaining to a zoneZONALLY advZONARY adj zonalZONATE adj arranged in zonesZONATED adj zonateZONATION n pl ZONATIONSarrangement in zonesZONE v ZONED ZONING ZONESto arrange in zones areas distinguished from other adjacent areasZONELESS adj having no zone or beltZONER n pl ZONERSone that zonesZONETIME n pl ZONETIMESstandard time used at seaZONING n pl ZONINGSthe division of a city or land into areas subject to planning restrictionsZONK v ZONKED ZONKING ZONKSto stupefyZONULA n pl ZONULAS or ZONULAEzonuleZONULE n pl ZONULESa small zoneZONULAR adjZOO n pl ZOOSa place where animals are kept for public exhibitionZOOCHORE n pl ZOOCHORESa plant dispersed by animalsZOOECIUM n pl ZOOECIAa sac secreted and lived in by an aquatic organismZOOEY adj ZOOIER ZOOIESTresembling a zooZOOGENIC adj caused by animals or their activitiesZOOGENY n pl ZOOGENIESthe development or evolution of animalsZOOGLEA n pl ZOOGLEAS or ZOOGLEAEa jellylike mass of bacteriaZOOGLEAL adjZOOGLOEA n pl ZOOGLOEAS or ZOOGLOEAEzoogleaZOOID n pl ZOOIDSan organic cell or body capable of independent movementZOOIDAL adjZOOKS interj  used as a mild oathZOOLATER n pl ZOOLATERSone that worships animalsZOOLATRY n pl ZOOLATRIESthe worship of animalsZOOLOGY n pl ZOOLOGIESthe science that deals with animalsZOOLOGIC adjZOOM v ZOOMED ZOOMING ZOOMSto move with a loud humming soundZOOMABLE adj capable of being viewed at various levels of detail and magnificationZOOMANIA n pl ZOOMANIASan excessive interest in animalsZOOMETRY n pl ZOOMETRIESthe measurement of animals or animal partsZOOMORPH n pl ZOOMORPHSsomething in the form of an animalZOON n pl ZOONS or ZOAthe whole product of one fertilized eggZOONAL adjZOON v ZOONED ZOONING ZOONSto zoomZOONOSIS n pl ZOONOSESa disease that can be transmitted from animals to humansZOONOTIC adjZOOPHILE n pl ZOOPHILESa lover of animalsZOOPHILY n pl ZOOPHILIESa love of animalsZOOPHOBE n pl ZOOPHOBESone who fears or hates animalsZOOPHYTE n pl ZOOPHYTESan invertebrate animalZOOSPERM n pl ZOOSPERMSthe male fertilizing element of an animalZOOSPORE n pl ZOOSPORESa type of sporeZOOTOMY n pl ZOOTOMIESthe dissection of animalsZOOTOMIC adjZOOTY adj ZOOTIER ZOOTIESTflashy in manner or styleZORI n pl ZORISa type of sandalZORIL n pl ZORILSa small African mammalZORILLA n pl ZORILLASzorilZORILLE n pl ZORILLESzorilZORILLO n pl ZORILLOSzorilZOSTER n pl ZOSTERSa virus diseaseZOUAVE n pl ZOUAVESa French infantrymanZOUK n pl ZOUKSa dance music of the French West IndiesZOUNDS interj  used as a mild oathZOWEE interj zowieZOWIE interj  used to express surprise or pleasureZOYSIA n pl ZOYSIASa perennial grassZUCCHINI n pl ZUCCHINISa vegetableZUGZWANG n pl ZUGZWANGSa situation in chess that forces a disadvantageous moveZUPPA n pl ZUPPASa fish soupZUZ n pl ZUZIMan ancient Hebrew silver coinZWIEBACK n pl ZWIEBACKSa sweetened breadZYDECO n pl ZYDECOSpopular music of southern LouisianaZYGOID adj pertaining to a zygoteZYGOMA n pl ZYGOMAS or ZYGOMATAthe cheekboneZYGOSIS n pl ZYGOSESthe union of two gametesZYGOSE adjZYGOSITY n pl ZYGOSITIESthe makeup of a particular zygoteZYGOTE n pl ZYGOTESa cell formed by the union of two gametesZYGOTIC adjZYGOTENE n pl ZYGOTENESa stage in meiosisZYMASE n pl ZYMASESan enzymeZYME n pl ZYMESan enzymeZYMOGEN n pl ZYMOGENSa substance that develops into an enzyme when suitably activatedZYMOGENE n pl ZYMOGENESzymogenZYMOGRAM n pl ZYMOGRAMSa record of separated proteins after electrophoresisZYMOLOGY n pl ZYMOLOGIESthe science of fermentationZYMOSAN n pl ZYMOSANSan insoluble fraction of yeast cell wallsZYMOSIS n pl ZYMOSESfermentationZYMOTIC adjZYMURGY n pl ZYMURGIESa branch of chemistry dealing with fermentationZYZZYVA n pl ZYZZYVASa tropical weevilZZZ interj  used to suggest the sound of snoring").
+entry(q, words, [], "U dan keyin emas BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+entry(words, with, [], "A E I O U bosh tovushlarsiz B Y H M M M Y SH B R R B Y S C R Y C W M D R Y F L Y F R Y G R R G Y M G Y P H M M H Y P M M M Y C N T H P H T P L Y P R Y P S T P Y X S H H S H Y S K Y S L Y S P Y S T Y S Y N T H Y T R Y T S K W H Y W R Y W Y N Z Z Z B R R R B Y R L C W M S C Y S T D R Y S G Y M S G Y P S H W Y L H Y M N H Y P S L Y C H L Y N X M Y C S M Y T H P F F T P S S T R Y N D S C R Y S H H H S K R Y S P R Y S Y N C S Y P H T S K S T Y P P T Y P Y W H Y S W Y C H W Y N D W Y N N W Y N S X Y S T B Y R L S C R W T H C R Y P T C Y S T S D R Y L Y F L Y B Y G H Y L L G L Y P H G R R R L G Y P S Y H W Y L S H Y M N S L Y M P H L Y N C H M Y R R H M Y T H S M Y T H Y N Y M P H P H P H T P S Y C H P Y G M Y R Y N D S S H Y L Y S L Y L Y S T Y M Y S Y L P H S Y N C H S Y N C S S Y N T H S Y P H S T H Y M Y T R Y S T T Y P P S W R Y L Y W Y N D S W Y N N S X Y L Y L X Y S T S C R W T H S C R Y P T S F L Y B Y S F L Y S C H G H Y L L S G L Y C Y L G L Y P H S G R R R L S L Y M P H S M Y R R H S M Y R R H Y N Y M P H S P S Y C H S R H Y T H M S P H Y N X S P R Y L Y S Y L P H S S Y L P H Y S Y N C H S S Y N T H S S Y Z Y G Y T R Y S T S T S K T S K X Y L Y L S G L Y C Y L S R H Y T H M S T S K T S K S").
+entry(so'zlar, o'z ichiga olgan, [], "J Q X or Z AXEXJOOXQIXIXUZAADZAJIAXEAZOBIZBOXCOXCOZCUZDEXFAXFEZFIXFIZFOXGOXHAJHEXJABJAGJAMJARJAWJAYJEEJETJEUJIBJIGJINJOBJOEJOGJOTJOWJOYJUGJUNJUSJUTKEXLAXLEXLOXLUXMAXMIXMUXNIXOXOOXYPAXPIXPOXPYXQATQISQUARAJRAXREXREZSAXSEXSIXSOXSUQTAJTAXTIXTIZTUXVEXVOXWAXWIZXISZAGZAPZASZAXZEDZEEZEKZEPZIGZINZIPZITZOAZOOZUZZZZADZEAJARAJEEAJISAPEXAQUAAXALAXEDAXELAXESAXILAXISAXLEAXONAZANAZONBAZZBIZEBOXYBOZOBRUXBUZZCALXCAZHCHEZCINQCOAXCOXACOZYCRUXCZARDAZEDEXYDITZDJINDOJODOUXDOXYDOZEDOZYEAUXEXAMEXECEXEDEXESEXITEXONEXPOFALXFAUXFAZEFIXTFIZZFLAXFLEXFLUXFOXYFOZYFRIZFUJIFUTZFUZEFUZZGAZEGEEZGOJIGRIZHADJHAJIHAJJHAZEHAZYHOAXIBEXILEXIXIAIZARJABSJACKJADEJAGGJAGSJAILJAKEJAMBJAMSJANEJAPEJARLJARSJATOJAUKJAUPJAVAJAWSJAYSJAZZJEANJEEDJEEPJEERJEESJEEZJEFEJEHUJELLJEONJERKJESSJESTJETEJETSJEUXJIAOJIBBJIBEJIBSJIFFJIGSJILLJILTJIMPJINKJINNJINSJINXJIRDJIVEJIVYJOBSJOCKJOESJOEYJOGSJOHNJOINJOKEJOKYJOLEJOLTJOOKJOSHJOSSJOTAJOTSJOUKJOWLJOWSJOYSJUBAJUBEJUCOJUDOJUDYJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGUMJUICEJUICYJUJUSJUKEDJUKESJUKUSJULEPJUMARJUMBOJUMPSJUMPYJUNCOJUNKSJUNKYJUNTAJUNTOJUPESJUPONJURALJURATJURELJURORJUSTSJUTESJUTTYJUVIEKANJIKANZUKAZOOKEXESKLUTZKOJISKOPJEKUDZUKYLIXLATEXLAXERLAXESLAXLYLAZARLAZEDLAZESLEXESLEXISLOXEDLOXESLUXESMAIZEMAJORMAQUIMATZAMATZOMAUZYMAXEDMAXESMAXIMMAXISMAZEDMAZERMAZESMEZESMEZZOMIREXMIRZAMIXEDMIXERMIXESMIXUPMIZENMOJOSMOXASMOXIEMOZOSMUJIKMUREXMUXEDMUXESMUZZYNAZISNERTZNEXUSNINJANIQABNIXEDNIXESNIXIENIZAMNUDZHOBJETOOZEDOOZESORZOSOUZELOUZOSOXBOWOXERSOXEYEOXIDEOXIDSOXIMEOXIMSOXLIPOXTEROZONEPAXESPHIZZPHLOXPIEZOPIQUEPIXELPIXESPIXIEPIZZAPLAZAPLOTZPONZUPOOJAPOXEDPOXESPREXYPRIZEPROXYPUJAHPUJASPUNJIPYXESPYXIEPYXISPZAZZQADISQAIDSQAJAQQANATQIBLAQOPHSQUACKQUADSQUAFFQUAGSQUAILQUAISQUAKEQUAKYQUALEQUALMQUANTQUAREQUARKQUARTQUASHQUASIQUASSQUATEQUAYSQUBITQUEANQUEENQUEERQUELLQUERNQUERYQUESTQUEUEQUEYSQUICKQUIDSQUIETQUIFFQUILLQUILTQUINSQUINTQUIPSQUIPUQUIREQUIRKQUIRTQUITEQUITSQUODSQUOINQUOITQUOLLQUOTAQUOTEQUOTHQURSHRADIXRAJAHRAJASRAJESRAXEDRAXESRAZEDRAZEERAZERRAZESRAZORREDOXREDUXREFIXREJIGRELAXREMEXREMIXRETAXREWAXREXESREZESRIOJARITZYROQUESAJOUSAXESSCUZZSEIZASEIZESEXEDSEXERSEXESSEXTOSEXTSSHOJISHOJOSILEXSIXERSIXESSIXMOSIXTESIXTHSIXTYSIZARSIZEDSIZERSIZESSLOJDSMAZESOJASSOJUSSOYUZSOZINSPITZSQUABSQUADSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZINDIAZOSDIOXANDIOXIDDIOXINDIPLEXDIQUATDITZESDIXITSDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXIERFOXILYFOXINGFOZIERFRAZILFREEZEFRENZYFRIEZEFRIJOLFRIZEDFRIZERFRIZESFRIZZYFROUZYFROWZYFROZENFURZESFUTZEDFUTZESFUZEESFUZILSFUZINGFUZZEDFUZZESGAIJINGALAXYGANJAHGANJASGAUZESGAZABOGAZARSGAZEBOGAZERSGAZINGGAZUMPGEEZERGHAZALGHAZISGIZMOSGLAZEDGLAZERGLAZESGLITZYGLOZEDGLOZESGRAZEDGRAZERGRAZESGROSZEGROSZYGUZZLEGYOZASGYTTJAHADJEEHADJESHADJISHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANSHAZARDHAZELSHAZERSHAZIERHAZILYHAZINGHAZMATHAZZANHEEZEDHEEZESHEJIRAHEXADEHEXADSHEXANEHEXERSHEXINGHEXONEHEXOSEHEXYLSHIJABSHIJACKHIJRAHHIJRASHOAXEDHOAXERHOAXESHOTBOXHUTZPAHUZZAHHUZZASIBEXESICEBOXILEXESINFLUXINJECTINJERAINJUREINJURYINKJETIODIZEIONIZEIXODIDIXORASIXTLESIZARDSIZZARDJABBEDJABBERJABIRUJABOTSJACALSJACANAJACKALJACKEDJACKERJACKETJADINGJADISHJAEGERJAGERSJAGGEDJAGGERJAGRASJAGUARJAILEDJAILERJAILORJALAPSJALOPSJALOPYJAMBEDJAMBESJAMMEDJAMMERJANGLEJANGLYJANNEYJAPANSJAPERSJAPERYJAPINGJARFULJARGONJARINAJARRAHJARREDJARVEYJASMINJASPERJASSIDJAUKEDJAUNCEJAUNTSJAUNTYJAUPEDJAWANSJAWINGJAYGEEJAYVEEJAZZBOJAZZEDJAZZERJAZZESJEBELSJEEINGJEEPEDJEEREDJEERERJEESLYJEEZLYJEHADIJEHADSJEJUNAJEJUNEJELLEDJENNETJERBOAJEREEDJERIDSJERKEDJERKERJERKINJERRIDJERSEYJESSEDJESSESJESTEDJESTERJETLAGJETONSJETSAMJETSOMJETTEDJETTONJEWELSJEZAILJIBBAHJIBBASJIBBEDJIBBERJIBERSJIBINGJICAMAJIGGEDJIGGERJIGGLEJIGGLYJIGSAWJIHADIJIHADSJILTEDJILTERJIMINYJIMMIEJIMPERJIMSONJINGALJINGKOJINGLEJINGLYJINKEDJINKERJINNEEJINNISJINXEDJINXESJITNEYJITTERJIVERSJIVIERJIVINGJNANASJOBBEDJOBBERJOBBIEJOCKEYJOCKOSJOCOSEJOCUNDJOGGEDJOGGERJOGGLEJOHNNYJOINEDJOINERJOINTSJOISTSJOJOBAJOKERSJOKIERJOKINGJOLTEDJOLTERJORAMSJORDANJORUMSJOSEPHJOSHEDJOSHERJOSHESJOSSESJOSTLEJOTTEDJOTTERJOUALSJOUKEDJOULESJOUNCEJOUNCYJOURNOJOUSTSJOVIALJOWARSJOWINGJOYFULJOYINGJOYOUSJOYPADJOYPOPJUBBAHJUBHAHJUBILEJUDDERJUDGEDJUDGERJUDGESJUDIESJUDOKAJUGATEJUGFULJUGGEDJUGGLEJUGULAJUGUMSJUICEDJUICERJUICESJUJUBEJUKINGJULEPSJUMARSJUMBALJUMBIEJUMBLEJUMBOSJUMPEDJUMPERJUNCOSJUNGLEJUNGLYJUNIORJUNKEDJUNKERJUNKETJUNKIEJUNTASJUNTOSJUPONSJURANTJURATSJURELSJURIEDJURIESJURISTJURORSJUSTEDJUSTERJUSTLEJUSTLYJUTTEDJUVIESKAIZENKAMEEZKANJISKANZUSKAZOOSKHAZENKIBITZKLAXONKLUTZYKOLHOZKOLKOZKOPJESKUDZUSKUVASZKWANZALARYNXLAXESTLAXITYLAZARSLAZIEDLAZIERLAZIESLAZILYLAZINGLAZULILEXEMELEXICALIQUIDLIQUORLIZARDLOGJAMLOQUATLOXINGLUMMOXLUTZESLUXATELUXURYLYNXESMAGNOXMAHZORMAIZESMAJLISMAJORMAQUIMARQUEMASJIDMASQUEMASTIXMATRIXMATZAHMATZASMATZOHMATZOSMATZOTMAXIMAMAXIMSMAXINGMAXIXEMAZARDMAZERSMAZIERMAZILYMAZINGMAZUMAMENINXMEZCALMEZUZAMEZZOSMINXESMIRZASMIXERSMIXINGMIXUPSMIZENSMIZUNAMIZZENMIZZLEMIZZLYMOJITOMOJOESMOMZERMOSQUEMOUJIKMOXIESMUJIKSMUSJIDMUSKOXMUXINGMUZHIKMUZJIKMUZZLEMYXOIDMYXOMANAZIFYNINJASNIQAABNIQABSNIXIESNIXINGNIZAMSNONTAXNOYAUXNOZZLENUZZLEOBJECTOBJETSONYXESOOZIEROOZINGOPAQUEORYXESOUTBOXOUTFOXOUTJUTOUZELSOXALISOXBOWSOXCARTOXEYESOXFORDOXHERDOXHIDEOXIDESOXIMESOXLIKEOXLIPSOXTAILOXTERSOXYGENOYEZESOZONESPACZKIPAJAMAPANZERPATZERPAXWAXPAZAZZPEGBOXPEROXYPHENIXPHIZESPIAZZAPIAZZEPICKAXPIQUEDPIQUESPIQUETPIXELSPIXIESPIZAZZPIZZASPIZZAZPIZZLEPLAQUEPLAZASPLEXALPLEXESPLEXORPLEXUSPODZOLPOLEAXPOLLEXPONZUSPOOJASPOTZERPOXIERPOXINGPOZOLEPRAJNAPRAXESPRAXISPREFIXPREMIXPRETAXPREXESPREZESPRIZEDPRIZERPRIZESPROJETPROLIXPUJAHSPULQUEPUNJISPUTZEDPUTZESPUZZLEPYJAMAPYXIESQABALAQAJAQSQANATSQIBLASQIGONGQINDARQINTARQIVIUTQUACKSQUACKYQUAEREQUAFFSQUAGGAQUAGGYQUAHOGQUAICHQUAIGHQUAILSQUAINTQUAKEDQUAKERQUAKESQUALIAQUALMSQUALMYQUANGOQUANTAQUANTSQUARKSQUARRYQUARTEQUARKTQUARTOQUARTSQUARTZQUASARQUATREQUAVERQUBITSQUBYTEQUEANSQUEASYQUEAZYQUEENSQUEENYQUEERSQUELEAQUELLSQUENCHQUERNSQUESTSQUEUEDQUEUERQUEUESQUEZALQUICHEQUICKSQUIETSQUIFFSQUILLSQUILTSQUINCEQUINICQUININQUINOAQUINOLQUINSYQUINTAQUINTEQUINTSQUIPPUQUIPPYQUIPUSQUIREDQUIRESQUIRKSQUIRKYQUIRTSQUITCHQUIVERQULLIQQUOHOGQUOINSQUOITSQUOKKAQUOLLSQUORUMQUOTASQUOTEDQUOTERQUOTESQUOTHAQURUSHQWERTYRAJAHSRAMJETRAXINGRAZEEDRAZEESRAZERSRAZINGRAZORSRAZZEDRAZZESRAZZIARAZZLEREBOZOREFLEXREFLUXREJECTREJIGSREJOINREMIXTREQUINRESIZEREZEROREZONEREZZESRIOJASRISQUERITZESROMAJIROQUESROQUETROZZERSACQUESAJOUSSANJAKSAXISTSAXMANSAXMENSAXONYSCHIZOSCHIZYSCHNOZSCOLEXSCUZZYSEIZINGSEIZURESEJEANTSELTZERSEQUELASEQUENTSEQUOIASEXERSSEXIERSEXILYSEXINGSEXISMSEXISTSEXPOTSEXTANSEXTETSEXTONSEXTOSSEXUALSHAZAMSHEQELSHIRAZSHOJISSHVITZSILVEXSIXERSSIXMOSSIXTESSIXTHSSIZARSSIZERSSIZIERSIZINGSIZZLESKYBOXSLEAZESLEAZOSLEAZYSLOJDSSMAZESSMILAXSNAZZYSNEEZESNEEZYSNOOZESNOOZYSOZINESOZINSSPADIXSPELTZSPHINXSPHYNXSPRITZSQUABSSQUADSSQUATSQUEGSQUIBSQUIDSSQUILLSQUINTSQUIRESQUIRLSQUIRMSQUIRTSQUISHSQUUSHSTANZASTORAXSTYRAXSUBFIXSUFFIXSURTAXSVARAJSWARAJSYNTAXSYRINXSYZYGYTAJINETARZANTAXEMETAXERSTAXIEDTAXIESTAXINGTAXITETAXMANTAXMENTAXOLSTAXONSTAZZASTEABOXTEAZELTEAZLETEXTEDTEXTERTHORAXTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXEDOTWEEZETZETZETZURISUBIQUEUMIAQSUNAXEDUNFIXTUNIQUEUNISEXUNJAMSUNJUSTUNMIXTUNSEXYUNVEXTUNZIPSUPGAZEUPSIZEURTEXTUSQUESVEEJAYVERJUSVERNIXVERTEXVEXERSVEXILSVEXINGVIXENSVIZARDVIZIERVIZIRSVIZORSVIZSLAVOLVOXVORTEXVOXELSWAXERSWAXIERWAXILYWAXINGWHEEZEWHEEZYWHIZZYWINZESWIZARDWIZENSWIZZENWIZZESWURZELXEBECSXENIASXENONSXYLANSXYLEMSXYLENEXYLOIDXYLOLSXYLOSEXYLYLSXYSTERXYSTOIXYSTOSXYSTUSYAKUZAYANQUIYUTZESZADDIKZAFFARZAFFERZAFFIRZAFFREZAFTIGZAGGEDZAIDASZAIDEHZAIKAIZAIRESZAKATSZAMIASZANANAZANDERZANIERZANIESZANZASZAPPEDZAPPERZAREBAZARIBAZAYINSZAZENSZEALOTZEATINZEBECKZEBECSZEBRASZECHINZENANAZENDOSZENITHZEPHYRZEROEDZEROESZEROTHZESTEDZESTERZEUGMAZIBETHZIBETSZIGGEDZIGZAGZILLAHZINCEDZINCICZINCKYZINCOSZINEBSZINGEDZINGERZINNIAZIPOLAZIPPEDZIPPERZIPPOSZIRAMSZIRCONZITHERZIZITHZIZZEDZIZZESZIZZLEZLOTYSZOARIAZOCALOZODIACZOECIAZOFTIGZOMBIEZOMBISZONARYZONATEZONERSZONINGZONKEDZONULAZONULEZOOIDSZOOIERZOOMEDZOONEDZORILSZOSTERZOUAVEZOUNDSZOYSIAZUPPASZYDECOZYGOIDZYGOMAZYGOTEZYMASEABAXIALABAXILEABJURERACEQUIAACQUESTACQUIREADAXIALADJOINTADJOURNADJUDGEADJUNCTADJURERADJURORAFFIXALAFFIXERAGATIZEAGENIZEAGONIZEALBIZIAALCAZARALEXINEALFAQUIALFORJAALIQUOTALLOXANANALYZEANODIZEANOREXYANTEFIXANTHRAXANTIJAMANTIQUEANTISEXANTITAXANXIETYANXIOUSAPAREJOAPPRIZEAPRAXIAAPTERYXAQUAFITAQUARIAAQUATICAQUAVITAQUEOUSAQUIFERAQUIVERARABIZEARUSPEXASEXUALASPHYXYASQUINTATARAXYATOMIZEAUXESISAUXETICAXILLARAXOLOTLAXONEMEAZIMUTHAZOTISEAZOTIZEAZULEJOAZURITEAZYGOUSBANDBOXBANQUETBAPTIZEBAROQUEBASENJIBAUXITEBAZOOKABEATBOXBEDIZENBEESWAXBEJASUSBEJESUSBEJEWELBENZENEBENZINEBENZOINBENZOLEBENZOYLBEQUESTBETAXEDBETWIXTBEZIQUEBEZZANTBIAXIALBIJURALBIZARREBIZARROBIZNAGABLINTZEBLITZERBLOWZEDBLUEJAYBONANZABOOMBOXBOOZINGBORAZONBOSQUETBOUQUETBOXBALLBOXFISHBOXHAULBOXIESTBOXLIKEBOXWOODBRAZIERBRAZINGBRIQUETBRITZKABROADAXBROMIZEBRONZERBRULZIEBRUSQUEBRUXISMBUZZARDBUZZCUTBUZZIERBUZZWIGCABEZONCACHEXYCACIQUECADENZACAJAPUTCAJEPUTCAJOLERCAJUPUTCAKEBOXCALZONECANZONACANZONECAPSIZECARAPAXCARJACKCASHBOXCATJANGCAZIQUECERVEZACHALAZACHALUTZCHARQUICHAZZANCHAZZENCHEQUERCHILLAXCHINTZYCHORIZOCHUTZPACITIZENCLAQUERCLIQUEYCOALBOXCOANNEXCOAXIALCOAXINGCOEQUALCOEXERTCOEXISTCOGNIZECOMPLEXCONFLUXCONJOINCONJURECONQUERCONTEXTCOQUINACOQUITOCOXALGYCOXCOMBCOXITISCOXLESSCOZENERCRAZINGCROQUETCROQUISCROZIERCRUZADOCUMQUATCYCLIZECZARDASCZARDOMCZARINACZARISMCZARISTDAMOZELDANAZOLDAZZLERDEGLAZEDEJECTADENIZENDEUTZIADEXTRALDEXTRANDEXTRINDIALYZEDIAZINEDIAZOLEDIGOXINDIOXANEDIOXIDEDISJECTDISJOINDJIBBAHDOZENTHDOZIESTDRIZZLEDRIZZLYDUALIZEEBONIZEECOZONEEDITRIXEGOTIZEEJECTORELEGIZEEMBLAZEEMPRIZEENJOYERENQUIREENQUIRYENTOZOAEPAZOTEEPITAXYEPIZOICEPIZOONEPOXIDEEQUABLEEQUALLYEQUATOREQUERRYEQUINOXEQUITESEROTIZEESQUIREETHOXYLEXABYTEEXACTEREXACTLYEXACTOREXALTEREXAMINEEXAMPLEEXAPTEDEXARCHYEXCERPTEXCIMEREXCIPLEEXCITEREXCITONEXCITOREXCLAIMEXCLAVEEXCLUDEEXCRETAEXCRETEEXCUSEREXECUTEEXEGETEEXERGUEEXHAUSTEXHEDRAEXHIBITEXHUMEREXIGENTEXILIANEXILINGEXOCARPEXODERMEXOGAMYEXOTICAEXOTISMEXPANSEEXPENSEEXPIATEEXPIREREXPLAINEXPLANTEXPLODEEXPLOITEXPLOREEXPOSALEXPOSEREXPOSITEXPOUNDEXPRESSEXPULSEEXPUNGEEXSCINDEXTERNEEXTINCTEXTRACTEXTREMAEXTREMEEXTROPYEXTRUDEEXUDATEEXURBIAEXUVIAEFANZINEFAREBOXFAZENDAFEEDBOXFIREBOXFIXATIFFIXEDLYFIXINGSFIXTUREFLEXILEFLEXIONFLEXUREFLOOZIEFLUMMOXFLUXIONFOOZLERFOWLPOXFOXFIREFOXFISHFOXHOLEFOXHUNTFOXIESTFOXLIKEFOXSKINFOXTAILFOXTROTFRAZZLEFREEZERFRIJOLEFRIZZERFRIZZLEFRIZZLYFUNPLEXGAZANIAGAZELLEGAZETTEGEARBOXGIZZARDGJETOSTGLAZIERGLAZINGGRAVLAXGRAZIERGRAZINGGRECIZEGRIZZLEGRIZZLYGUZZLERHARIJANHAZELLYHAZIESTHELLBOXHEROIZEHEXAGONHEXAPLAHEXAPODHEXEREIHEXOSANHIJINKSHOATZINHOMOSEXHORIZONHUMIDEXHUTZPAHHYDROXYHYPOXIAIDOLIZEIMBLAZEINDEXERINDOXYLINEXACTINJURERINQUESTINQUIETINQUIREINQUIRYIODIZERIONIZERIRONIZEISOZYMEITEMIZEJACAMARJACINTHJACKASSJACKDAWJACKIESJACKLEGJACKPOTJACOBINJACOBUSJACONETJADEITEJAGGARYJAGGERYJAGGIESJAGGINGJAGLESSJALAPINJALOPPYJAMBEAUJAMLIKEJAMMIESJAMMINGJANGLERJANITORJARGONYJARGOONJARHEADJARLDOMJARRINGJARSFULJASMINEJAVELINJAWBONEJAWLESSJAWLIKEJAWLINEJAYBIRDJAYWALKJAZZMANJEALOUSJEEPERSJEEPNEYJEEZELYJEJUNALJEJUNUMJELLABAJELLIFYJEMADARJEMIDARJEOPARDYJERREEDJESSANTJESTFULJESTINGJETBEADJETFOILJETLIKEJETPACKJETPORTJETTIEDJETTIERJETTIESJETTINGJEWELERJEWELRYJEWFISHJEZEBELJIBBOOMJIGGIERJIGGISHJIGLIKEJILLIONJIMJAMSJIMMINYJINGALLJINGLERJITTERYJIVEASSJOANNESJOBBERYJOBLESSJOBNAMEJOCKDOMJOCKISHJOCULARJODHPURJOGGINGJOGGLERJOGTROTJOHNNIEJOINDERJOINERYJOININGJOINTERJOINTLYJOKIESTJOLLIEDJOLLIERJOLLIESJOLLIFYJOLLITYJONQUILJOSHINGJOSTLERJOTTINGJOURNALJOURNEYJOUSTERJOYRIDERJOYSTICKJUBILANTJUBILATEJUDGMENTJUDICAREJUDICIALJUGGLERYJUGGLINGJUGULATEJULIENNEJUMPROPEJUMPSHOTJUMPSIESJUMPSUITJUNCTIONJUNCTUREJUNGLISTJUNKETERJUNKYARDJURATORYJURYLESSJUSTICEJUSTIFYJUVENALKAJEPUTKAMOTIKKIBBITZKIBBUTZKICKBOXKILLJOYKLEZMERKOLKHOZKREUZERKUMQUATKUNZITEKYANIZELACQUERLACQUEYLAICIZELALIQUELAXNESSLAZARETLAZIESTLAZYISHLEXICALLEXICONLIONIZERLIQUIDLYLIXIVIUMLOCALIZELOGICIZELONGJUMPLOQUITURLUNCHBOXLUXATIONLYRICIZELYSOZYMEMADERIZEMAGAZINEMAHARAJAMAHJONGGMAJESTICMAJOLICAMAJORITYMAQUILAMARQUEEMARQUISMASQUERMATZOONMAXIBOATMAXICOATMAXIMANDMAXIMISEMAXIMITEMAXIMIZEMAZAEDIAMAZELIKEMAZELTOVMAZINESSMAZOURKAMBAQANGAMECHITZAMEGAPLEXMELANIZEMELODIZEMEMORIZEMESOZOANMESQUITEMETALIZEMETAZOANMETAZOONMETHOXYLMETRAZOLMEZEREONMEZEREUMMEZQUITEMICROLUXMIDSIZEDMIJNHEERMILLILUXMINIMIZEMIQUELETMIREPOIXMISJUDGEMISPRIZEMISQUOTEMIXOLOGYMOBILIZEMONAXIALMONAZITEMONETIZEMONOXIDEMOQUETTEMORALIZEMORESQUEMOSQUITOMOTORIZEMOUSSEUXMOZZETTAMULTIJETMUSQUASHMUZZIESTMYSTIQUEMYXAMEBAMYXEDEMAMYXOCYTENALOXONENAPROXENNASALIZENEBULIZENEURAXONNEXTDOORNIGHTJARNINJUTSUNIZAMATENONEQUALNONJURORNONMAJORNONQUOTANONTOXICNOTARIZENOVELIZEOBJECTOROCTUPLEXODORIZEROLDSQUAWOOZINESSOPOPANAXOPSONIZEOPTIMIZEORGANIZEORTHODOXOTOTOXICOUTBLAZEOUTQUOTEOVERJUSTOVERSIZEOVERZEALOXAZEPAMOXIDABLEOXIDISEROXIDIZEROXIMETEROXIMETRYOXPECKEROXTONGUEOXYMORONOXYPHILEOXYTOCICOXYTOCINOXYTROPEOZONIZERPAGANIZEPAINTBOXPAJAMAEDPALAZZOSPANMIXIAPANMIXISPARALLAXPARALYZEPARAQUATPARAQUETPARAZOANPAROQUETPAROXYSMPARTIZANPATINIZEPAURAQUEPENALIZEPEPTIZERPERJURERPEROXIDEPETANQUEPETUNTZEPHENAZINPHYLAXISPHYSIQUEPINTSIZEPIQUANCEPIQUANCYPIROZHOKPIXELATEPIXILATEPIXINESSPIZZELLEPIZZERIAPOETIZEPOLEAXEPOSTBOXPOSTFIXPOSTTAXPREQUELPRETEXTPRETZELPREZZIEPRINCOXPROJECTPROPJETPROXIMOPUZZLERPYREXIAQABALAHQAMUTIKQAWWALIQUADRATQUADRICQUAFFERQUAHAUGQUALIFYQUALITYQUAMASHQUANTALQUANTICQUANTUMQUARRELQUARTANQUARTERQUARTETQUARTICQUASHERQUASSIAQUASSINQUAVERYQUAYAGEQUEENLYQUEERLYQUELLERQUERIDAQUERIEDQUERIERQUERIESQUERISTQUESTERQUESTORQUETZALQUIBBLEQUICKENQUICKIEQUICKLYQUIETENQUIETERQUIETLYQUIETUSQUILLAIAQUILLILLQUILLOWQUILTERQUINARYQUINATEQUINELAQUININEQUINNATQUINOIDQUINONEQUINTALQUINTANQUINTARQUINTETQUINTICQUINTINQUINZIEQUIPPERQUITTEDQUITTERQUITTORQUIVERYQUIXOTEQUIZZERQUOMODOQUONDAMQUOTINGRACQUETREAFFIXREALIZEREANNEXRECTRIXREEJECTREENJOYREEQUIPREEXPELREGLAZEREINDEXREJOICEREJUDGERELAXERRELAXINRELIQUEREMIXERREQUESTREQUIEMREQUIREREQUITERESEIZERESOJETRHIZOIDRHIZOMARHIZOMERORQUALSALPINXSALTBOXSANDBOXSAPAJOUSAXHORNSAXTUBASCHERZOSCHIZZYSCHMALZSCHMUTZSCHNOZZSCHVITZSEIZINGSEIZURESEJEANTSELTZERSEQUELASEQUENTSEQUOIASEXIESTSEXLESSSEXPERTSEXTAINSEXTANTSEXTILESEXTINGSHIATZUSHMALTZSHMOOZESHMOOZYSHOEBOXSHOWBIZSILIQUASILIQUESIMPLEXSIXFOLDSIXTEENSIXTHLYSIZABLESIZZLERSJAMBOKSKYJACKSNEEZERSNOOZERSNOOZLESOAPBOXSOJOURNSONOVOXSOVKHOZSOZZLEDSPANDEXSPATZLESPRITZYSQUABBYSQUADDYSQUALIDSQUALLYSQUALORSQUARERSQUASHYSQUATTYSQUEAKYSQUEEZESQUELCHSQUIDGYSQUIFFYSQUILLASQUINCHSQUINNYSQUINTYSQUIRMYSQUISHYSQUOOSHSTYLIZESUBJECTSUBJOINSUBTEXTSUBZEROSUBZONESWIZZLETAXABLETAXICABTAXIMANTAXIWAYTAXLESSTAXPAIDTAXWISETAXYINGTECTRIXTELEFAXTEQUILATEXTILETEXTUALTEXTURETHIAZINTHIAZOLTOOLBOXTORQUERTORQUESTORQUEYTORTRIXTOXEMIATOXICALTRAJECTTRAPEZETRIAZINTRIOXIDTRIPLEXTUBIFEXTWEEZERTWINJETTWIZZLETZADDIKTZARDOMTZARINATZARISMTZARISTTZIGANETZIMMESTZITZISTZITZITULEXITEUNCRAZYUNEQUALUNFAZEDUNISIZEUNITIZEUNJADEDUNJOINTUNQUIETUNQUOTEUNRAZEDUNSIZEDUNTAXEDUNVEXEDUNWAXEDUNZONEDUTILIZEUXORIALVAQUEROVEXEDLYWALTZERWAXBILLWAXIESTWAXLIKEWAXWEEDWAXWINGWAXWORKWAXWORMWEAZANDWEBZINEWHEEZERWHIZZERWHIZZESWOADWAXWOODBOXWOODWAXWORKBOXXANTHANXANTHICXANTHINXENOPUSXERARCHXEROSISXIPHOIDXYLIDINXYLITOLZACATONZADDICKZAMARRAZAMARROZANYISHZAPATEOZAPTIAHZAPTIEHZAREEBAZEALOUSZEBRANOZEBRASSZEBRINEZEBROIDZECCHINZEDOARYZELKOVAZEMSTVOZENAIDAZEOLITEZEPPOLEZESTFULZETETICZIKURATZILLIONZINCATEZINCIFYZINCITEZINCKEDZINCOIDZINCOUSZINGANOZINGARAZINGAROZINKIFYZIPLESSZIPLOCKZITHERNZOARIUMZOECIUMZOISITEZOMBIFYZONATEDZOOGENYZOOGLEAZOOLATERZOOLATRYZOOMABLEZOOMANIAZOOMETRYZOOMORPHZOONOSISZOOPHILEZOOPHILYZOOPHOBEZOOPHYTEZOOSPERMZOOSPOREZUCCHINIZUGZWANGZWIEBACKZYGOSITYZYGOTENEZYMOGENEZYMOGRAMZYMOLOGY").

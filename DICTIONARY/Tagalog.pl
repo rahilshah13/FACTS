@@ -240,3 +240,45 @@ entry(parangal, v, [pinarangalan, pinaparangalan, pararangalan], "purihin").
 entry(ayon, v, [inayon,inayayon,inayon], "upang magdala sa pagkakasundo").
 entry(accorder, n, [mga tagapagkasundo], "isang nagbibigay ng kasunduan").
 entry(usal, v, [inusal,inusasal,usalin], "lumapit at unang kumausap").
+entry(account, v, [accounted,accounting,accounts], "magbigay ng paliwanag").
+entry(accouter, v, [tinangkilik,tinatangkilik, itatangkil], "upang magbigay ng kagamitan").
+entry(ayusang, v, [naayusan, inaayusan, inaayus], "upang ayusan").
+entry(accredit, v, [inaprubahan,inapruwahan,inaprobahan], "upang magbigay ng opisyal na awtorisasyon sa").
+entry(accrete, v, [accreted,accreting,accretes], "lumaki ng magkasama").
+entry(accrual, n, [katipunan], "ang kilos ng pag-iipon").
+entry(ipon, v, [naipon,naiipon,naiipon], "dumating bilang karagdagan o pandagdag").
+entry(katumpakan, n, [mga katumpakan], "ang kalidad ng pagiging tumpak").
+entry(wasto, pang-uri, [], "walang pagkakamali").
+entry(accursed, adj, [], "kasumpa-sumpa").
+entry(accurst, adj, [], "sinumpa").
+entry(accusal, n, [mga akusasyon], "ang pagkilos ng pag-aakusa").
+entry(accusant, n, [accusants], "isang tagapag-akusa").
+entry(akusahan, v, [inakusahan, inaakusahan, inaakusahan], "gumawa ng paratang laban").
+entry(tagapagsumbong, n, [tagapagsumbong], "isa na nagsusumbong").
+entry(magpakilala, v, [kinilala, ipinapakilala, kinikilala], "upang gawing pamilyar").
+entry(ace, v, [aced,acing,aces], "puntos laban sa isang hampas").
+entry(acedia, n, [acedias], "walang-gana").
+entry(aceldama, n, [aceldamas], "isang lugar ng pagdanak ng dugo").
+entry(acentric, adj, [], "walang sentro").
+entry(acequia, n, [mga acequia], "isang kanal o patubig na kanal").
+entry(acerate, adj, [], "acerose").
+entry(acerated, adj, [], "natusok").
+entry(acerb, adj, [], "MAS-MAASIM PINAKA-MAASIM").
+entry(acerbate, v, [acerbated,acerbating,acerbates], "pagpapasimangot").
+entry(acerbic, pang-uri, [], "acerb").
+entry(acidity, n, [asukal], "asim").
+entry(acerola, n, [acerolas], "isang palumpong mula sa Kanlurang Indiya").
+entry(acerose, adj, [], "hubog-karayom").
+entry(acerous, pang-uri, [], "acerose").
+entry(acervate, adj, [], "tumubo sa siksik na kumpol").
+entry(acervuli, npl, [], "mga organong gumagawa ng spora ng ilang fungi").
+entry(acescent, n, [acescents], "isang bagay na medyo maasim").
+entry(aceta, pl, [], "ng acetum").
+entry(acetal, n, [acetals], "isang nasusunog na likido").
+entry(acetamid, n, [acetamids], "isang amide ng asetik asido").
+entry(acetate, n, [acetates], "isang asin ng acetic acidACETATED adj").
+entry(acetic, adj, [], "nauukol sa suka").
+entry(acetify, v, [acetified,acetifying,acetifies], "gawing suka").
+entry(acetin, n, [acetins], "isang compound na kemikal").
+entry(asetona, n, [asetonas], "isang nasusunog na likidoASETONIK adj").
+entry(acetose, adj, [], "asido").
