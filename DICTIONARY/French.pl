@@ -22477,3 +22477,7152 @@ entrée(sermon, n, [sermons], "un discours religieuxSERMONIQUE adj").
 entry(sérologie, n, [sérologies], "la science des sérums").
 entrée(serosa, n, [serosas], "ou SEROSAEune mince membrane tapissant certaines cavités corporellesSÉREUX adj").
 entrée(sérosité, n, [sérosités], "la qualité ou l'état d'être séreux").
+entrée(serotine, n, [serotines], "une chauve-souris européenne").
+entrée(sérotonie, n, [sérotonies], "la condition de dispersion des graines tardive ou graduelle").
+entrée(serotype, v, [sérotypé, sérotyper, sérotypes], "classer les microorganismes selon un ensemble caractéristique d'antigènes").
+entrée(séreux, adj, [], "de ou ressemblant à du sérum").
+entry(sérovar, n, [sérovars], "un groupe de microorganismes ayant un ensemble caractéristique d'antigènes").
+entrée(serow, n, [serows], "une antilope asiatique").
+entrée(serpent, n, [serpents], "un serpent").
+entrée(serpigo, n, [serpigos], "ou SERPIGOS ou SERPIGINESune éruption cutanée qui se propage").
+entrée(serranide, n, [serranides], "un poisson marin").
+entrée(serrano, n, [serranos], "un petit poivron piquant").
+entrée(serrate, v, [dentelé,dentelant,dentèle], "fournir des projections en forme de dents").
+entry(serry, v, [serré, serrant, serre], "se rassembler").
+entrée(serum, n, [serums], "ou SÉRUMla partie aqueuse du sang entierSÉRUMAL adj").
+entry(servable, adj, [], "capable de servir ou d'être servi").
+entrée(serval, n, [servals], "un chat sauvage africain").
+entrée(servant, n, [servants], "celui qui sert les autres").
+entry(servir, v, [servi, servant, sert], "travailler pour").
+entrée(serveur, n, [serveurs], "celui qui en sert un autre").
+entry(office de distribution, n, [offices de distribution], "un comptoir ou une salle d'où les repas sont servis").
+entrée(service, v, [entretenu, entretien, services], "réparer").
+entrée(servicer, n, [servicers], "celui qui rend service").
+entrée(servile, adj, [], "servilement soumis").
+entrée(serving, n, [portions], "une portion de nourriture").
+entrée(serveur, n, [serveurs], "un serviteur masculin").
+entrée(servomoteur, n, [servomoteurs], "un dispositif automatique utilisé pour contrôler un autre mécanisme").
+entrée(sésame, n, [sésames], "une plante indienne orientale").
+entrée(sésamoïde, n, [sésamoïdes], "une masse nodulaire d'os ou de cartilage").
+entrée(sesh, n, [seshs], "une séance").
+entrée(sessile, adj, [], "attaché de façon permanente").
+entrée(session, n, [sessions], "une réunion d'un corps législatif ou judiciaire pour la transaction des affaires").
+entrée(sesspool, n, [sesspools], "fosse septique").
+entrée(sesterce, n, [sesterces], "une pièce de la Rome antique").
+entry(sizain, n, [sizains], "une strophe de six vers").
+entrée(sestina, n, [sestines], "un type de forme poétique").
+entrée(sestine, n, [sestines], "sestina").
+entrée(set, v, [set,réglage,sets], "mettre dans une position particulière").
+entrée(seta, n, [soies], "un poil raide et grossierSETAL adj").
+entrée(revers, n, [revers], "une défaite").
+entrée(setenant, n, [setenants], "un timbre-poste qui diffère en design des autres du même feuillet").
+entrée(setiforme, adj, [], "ayant la forme d'une soie").
+entrée(setline, n, [lignes_de_pêche], "une ligne de pêche solide").
+entrée(ensemble, n, [ensembles], "quelque chose qui contrebalance quelque chose d'autre").
+entrée(seton, n, [setons], "un type de fil chirurgical").
+entrée(setose, adj, [], "couvert de soies").
+entrée(setous, adj, [], "sétose").
+entrée(setout, n, [setouts], "un affichage").
+entrée(vis_de_réglage, n, [vis_de_réglage], "un type de vis").
+entrée(sett, n, [terriers], "le terrier d'un blaireau").
+entrée(canapé, n, [canapés], "un long siège avec un dossier haut").
+entrée(setter, n, [setters], "celui qui fixe").
+entrée(setting, n, [décors], "le décor utilisé dans une production dramatique").
+entry(régler, v, [réglé,régler,régle], "placer dans un état ou un ordre désiré").
+entrée(colon, n, [colons], "celui qui s'installe").
+entry(installation, n, [installations], "sédiment").
+entry(constituteur, n, [constituteurs], "celui qui réalise un règlement juridique").
+entry(setulose, adj, [], "couvert de soies").
+entrée(setulous, adj, [], "setuleux").
+entrée(configuration, n, [configurations], "la manière dont quelque chose est arrangé").
+entrée(sev, n, [sev], "un plat indien de brins de farine frits").
+entry(sept, n, [sept], "un nombre").
+entrée(septième, n, [septièmes], "une des sept parties égales").
+entrée(soixante-dix, n, [soixante-dix], "un nombre").
+entrée(couper, v, [coupé,coupant,coupe], "diviser ou couper en parties").
+entrée(plusiers, n, [plusiers], "quelques personnes ou choses").
+entrée(sévère, adj, [], "PLUS SÉVÈRE LE PLUS SÉVÈRE sans ménagement dans le traitement des autres SÉVÈREMENT adv").
+entrée(gravité, n, [gravitations], "la qualité ou l'état d'être sévère").
+entrée(severy, n, [severies], "un compartiment dans un plafond voûté").
+entrée(ceviche, n, [ceviches], "un plat de poisson cru").
+entry(sevruga, n, [sevrugas], "caviar de la mer Caspienne").
+entrée(coudre, v, [cousu,cousant,coudre], "COUDREMendier ou attacher avec une aiguille et du filCOUDRABLE adj").
+entrée(eaux_usées, n, [eaux_usées], "les matières résiduelles transportées par les égouts").
+entrée(sewan, n, [sewans], "seawan").
+entrée(sewar, n, [sewars], "un serviteur médiéval").
+entrée(égout, v, [égouté, égoutant, égouts], "nettoyer ou entretenir les conduites souterraines pour les déchets").
+entrée(égout, n, [égouts], "eaux usées").
+entrée(couture, n, [coutures], "matériau qui a été ou doit être cousu").
+entrée(cousu, a, [], "participe passé de coudre").
+entry(sexe, v, [sexé, sexant, sexes], "déterminer le sexe, la propriété par laquelle les organismes sont classés selon les fonctions reproductrices de").
+entry(sexer, n, [sexers], "celui qui sexue").
+entrée(sexier, comparatif, [], "de sexy").
+entrée(sexiest, superlatif, [], "de sexy").
+entrée(sexily, adv, [], "de manière sexy").
+entrée(sex-appeal, n, [sex-appeals], "la qualité ou l'état d'être sexy").
+entrée(sexisme, n, [sexismes], "préjugé ou discrimination contre les femmes").
+entrée(sexiste, n, [sexistes], "celui qui pratique le sexisme").
+entry(asexué, adj, [], "manquant de caractéristiques sexuelles").
+entrée(sexologie, n, [sexologies], "l'étude du comportement sexuel humain").
+entrée(sexpert, n, [sexperts], "un expert en matière sexuelle").
+entry(sexpot, n, [sexpots], "une femme sexuellement attirante").
+entrée(sext, n, [sexts], "une des sept périodes canoniques quotidiennes pour la prière et la dévotion").
+entrée(sextain, n, [sextains], "une strophe de six vers").
+entry(sextan, n, [sextans], "une fièvre paludéenne récurrente").
+entrée(sextant, n, [sextants], "un instrument pour mesurer les distances angulaires").
+entrée(sextarii, npl, [], "unités anciennes romaines de mesure liquide").
+entrée(sextuor, n, [sextuors], "un groupe de six").
+entry(sextuor, n, [sextuors], "sextette").
+entry(sextile, n, [sextiles], "la position de deux corps célestes lorsqu'ils sont séparés de soixante degrés").
+entrée(sexting, n, [sextings], "l'envoi de messages ou d'images sexuellement explicites par téléphone portable").
+entrée(sexto, n, [sextos], "sixième").
+entrée(sexton, n, [sextons], "un agent d'entretien d'une église").
+entrée(sextuple, v, [sextuplé,sextuplant,sextuples], "rendre six fois plus grand").
+entry(sextuply, adv, [], "jusqu'à six fois plus").
+entry(sexuel, adj, [], "relatif au sexeSEXUELLEMENT adv").
+entrée(sexy, adj, [], "PLUS SÉDUISANT LE PLUS SÉDUISANT éveillant le désir sexuel").
+entrée(sferics, npl, [], "un détecteur électronique d'orages").
+entrée(sforzato, n, [sforzatos], "l'exécution d'une note ou d'un accord avec une force soudaine").
+entrée(sfumato, n, [sfumatos], "une technique utilisée en peinture").
+entry(sh, interj, [], "utilisé pour demander le silence").
+entrée(sha, interj, [], "utilisé pour inciter au silence").
+entrée(shabby, adj, [], "PLUS CHIFFONNÉ, LE PLUS CHIFFONNÉ, en lambeaux, DE MANIÈRE CHIFFONNÉE adv").
+entrée(cabane, v, [cabana,cabanant,cabanes], "habiter ou demeurer").
+entrée(shackle, v, [shackled, shackling, shackles], "confiner avec des attaches métalliques placées autour des poignets ou des chevilles").
+entrée(shackler, n, [shacklers], "celui qui enchaîne").
+entrée(shacko, n, [shackos], "ou SHACKOESshako").
+entrée(shacky, adj, [], "PLUS DÉLABRÉ, LE PLUS DÉLABRÉ").
+entrée(shad, n, [aloses], "un poisson comestible").
+entrée(amelanchier, n, [amelanchiers], "un amélanchier").
+entry(amélanchier, n, [amélanchiers], "un arbre ou arbuste à fleurs").
+entrée(shadchan, n, [shadchans], "ou SHADCHANIM un courtier matrimonial juif").
+entrée(pomelo, n, [pomelos], "un agrume").
+entry(tais-toi, interj, [], "utilisé pour faire taire quelqu'un").
+entrée(ombre, v, [ombré,ombrant,ombres], "protéger de la lumière ou de la chaleur").
+entrée(shader, n, [shaders], "celui qui ombre").
+entrée(éphémère, n, [éphémères], "un insecte ailé").
+entry(shadier, comparatif, [], "de shady").
+entrée(shadiest, superlatif, [], "de ombragé").
+entrée(shadily, adv, [], "de manière ombragée").
+entrée(ombrage, n, [ombrages], "protection contre la lumière ou la chaleur").
+entrée(shadkhan, n, [shadkhans], "ou SHADKHANIMshadchan").
+entry(shadoof, n, [shadoofs], "un dispositif utilisé en Égypte pour élever l'eau pour l'irrigation").
+entrée(ombre, v, [ombré,ombrant,ombres], "rendre sombre ou lugubre").
+entry(ombreur, n, [ombreurs], "celui qui suit").
+entrée(ombragé, adj, [], "PLUS OMBRAGÉ TRÈS OMBRAGÉ sombre").
+entrée(shadrach, n, [shadrachs], "une masse de matériau non fusionné dans le foyer d'un haut fourneau").
+entrée(shaduf, n, [shadufs], "shadoof").
+entrée(shady, adj, [], "SHADIER SHADIESTshaded").
+entry(arbre, v, [arbré,arbrage,arbres], "pousser ou propulser avec une perche").
+entrée(arbre_de_transmission, n, [arbres_de_transmission], "un système de tiges pour transmettre le mouvement ou la puissance").
+entrée(shag, v, [shagged, shagging, shags], "rendre ébouriffé").
+entrée(shagbark, n, [shagbarks], "un arbre à bois dur").
+entry(shaggy, adj, [], "PLUS HIRSUTE LE PLUS HIRSUTE couvert de longs poils grossiersHIRSUTEMENT adv").
+entry(galuchat, n, [galuchats], "la peau rugueuse de certains requins").
+entry(shah, n, [shahs], "un souverain iranien").
+entry(shahada, n, [shahadas], "la profession de foi musulmane").
+entrée(shahadah, n, [shahadahs], "chahada").
+entrée(shahdom, n, [shahdoms], "le territoire gouverné par un shah").
+entrée(shaheed, n, [shaheeds], "shahid").
+entry(shahid, n, [shahids], "un martyr musulman").
+entrée(shaikh, n, [shaikhs], "cheik").
+entry(shaird, n, [shairds], "éclat").
+entry(shairn, n, [shairns], "sharn").
+entry(shaitan, n, [shaitans], "un esprit malin").
+entrée(secouer, v, [secoua, secoué, secouant], "SECOUERbouger d'avant en arrière avec de petits mouvements rapidesSECOUABLE adj").
+entrée(secousse, n, [secousses], "une récession économique mineure").
+entrée(shaker, n, [shakers], "celui qui secoue").
+entrée(secousse, n, [secousses], "une réorganisation totale").
+entrée(shakier, comparatif, [], "de shaky").
+entrée(shakiest, superlatif, [], "de shaky").
+entrée(shakily, adv, [], "de manière tremblante").
+entrée(secouant, présent, [], "participe de shake").
+entry(shako, n, [shakos], "ou SHAKOES un type de chapeau militaire").
+entry(shaky, adj, [], "PLUS TREMBLANT TRÈS TREMBLANT tremblant").
+entrée(shale, n, [schistes], "une roche fissile").
+entrée(shaled, adj, [], "ayant une coquille ou une enveloppe").
+entry(shaley, adj, [], "PLUS SCHISTEUX LE PLUS SCHISTEUX").
+entrée(shalier, comparatif, [], "de schisteux").
+entrée(shaliest, superlatif, [], "de schisteux").
+entrée(doit, v, [], "présent sing 2e personne DOIT ou DOIS passé sing 2e personne DEVAIT ou DEVAIENT utilisé comme auxiliaire pour exprimer la futurité l'inévitabilité ou le commandement").
+entry(« shalloon », n, [« shalloons »], « un tissu de laine »).
+entrée(chaloupe, n, [chaloupes], "un petit bateau ouvert").
+entrée(échalote, n, [échalotes], "une plante ressemblant à un oignon").
+entrée(peu_profond, adj, [], "AYANT PEU DE PROFONDEUR PLUS_PEUPROFOND LE_PLUS_PEUPROFOND").
+entrée(peu_profond, v, [rendu_peu_profond, rendant_peu_profond, peu_profonds], "rendre peu profond").
+entrée(salut, n, [saluts], "un mot utilisé comme salutation ou adieu juif").
+entrée(dois, a, [], "deuxième personne du singulier du présent de devoir").
+entrée(shalwar, n, [shalwars], "un pantalon ample porté par certaines femmes d'Inde").
+entrée(shaly, adj, [], "RESSEMBLANT À du schiste SHALIER SHALIEST").
+entrée(sham, v, [shammed, shamming, shams], "feindre").
+entrée(shamable, adj, [], "capable d'être humilié_VERT adv").
+entrée(shamal, n, [shamals], "un vent chaud et sec").
+entrée(shaman, n, [shamans], "un homme-médecine parmi certains AmérindiensCHAMANIQUE adj").
+entrée(shamas, n, [shamosim], "shammes").
+entrée(shamba, n, [shambas], "une ferme en Afrique de l'Est").
+entrée(shamble, v, [shambled,shambling,shambles], "marcher maladroitement").
+entrée(honte, v, [honteux,hontant,hontes], "causer à ressentir un sentiment douloureux de culpabilité ou de dégradation").
+entry(honteux, adj, [], "scandaleux").
+entrée(shames, n, [shamosim], "shammes").
+entry(shamiana, n, [shamianas], "une grande tente en Inde").
+entrée(shamisen, n, [shamisens], "samisen").
+entrée(shammas, n, [shammasim], "shammes").
+entrée(shammash, n, [shammashim], "shammes").
+entry(shammed, passé, [], "temps de sham").
+entrée(shammer, n, [shammers], "celui qui simule").
+entry(shammes, n, [shammosim], "un fonctionnaire mineur d'une synagogue").
+entrée(shammied, passé, [], "temps de shammy").
+entrée(shammies, présent, [], "3e personne singulier de shammy").
+entry(shamming, présent, [], "participe de sham").
+entrée(shammos, n, [shammosim], "shammes").
+entry(shammosim, pl, [], "de shammes").
+entrée(shammy, v, [shammied, shammying, shammies], "faire chamois").
+entry(chamois, n, [chamois], "chamois").
+entrée(shamos, n, [shamosim], "shammes").
+entry(shamosim, pl, [], "de la honte").
+entrée(shamoy, v, [shamoyé,shamoyant,shamoye], "chamoiser").
+entrée(shampoo, v, [shampouiné, shampouinant, shampouine], "nettoyer avec une préparation spéciale").
+entrée(trèfle, n, [trèfles], "une plante à trois feuilles").
+entry(shamus, n, [shamuses], "un détective privé").
+entrée(shandy, n, [shandies], "une boisson alcoolisée").
+entrée(shanghai, v, [shanghaied, shanghaiing, shanghais], "enrôler de force pour servir à bord d'un navire").
+entry(jambe, v, [jambé,jambant,jambes], "frapper fortement vers la droite comme une balle de golf").
+entrée(shanny, n, [shannies], "un poisson marin").
+entry(shantey, n, [shanteys], "chant de marin").
+entrée(shanti, n, [shantis], "paix").
+entry(shanties, pl, [], "de chant de marin").
+entrée(shantih, n, [shantihs], "shanti").
+entrée(shantung, n, [shantungs], "un tissu en soie").
+entrée(cabane, n, [cabanes], "une petite habitation rudimentaire").
+entrée(forme, v, [formé, façonner, façonnant], "FORMEGiver une forme extérieure àADAPTABLE adj").
+entry(shapely, adj, [], "AYANT UNE FORME AGRÉABLE SHAPELIER SHAPELIEST").
+entry(shaper, n, [formes], "celui qui façonne").
+entrée(shapeup, n, [shapeups], "un système de recrutement d'une équipe de travail").
+entry(modelant, présent, [], "participe de modeler").
+entrée(fragment, n, [fragments], "un fragment de poterie cassée").
+entrée(partager, v, [partagé,partageant,partages], "avoir obtenir ou utiliser en commun avec un ou d'autresPARTAGEABLE adj").
+entrée(partageur, n, [partageurs], "celui qui partage").
+entrée(charia, n, [charia], "loi islamique basée sur le Coran").
+entrée(charia, n, [chariahs], "charia").
+entry(shariat, n, [shariats], "charia").
+entry(sharif, n, [sharifs], "shérif").
+entrée(partageant, présent, [], "participe de partager").
+entrée(requin, v, [requiné,requinant,requins], "vivre de la tromperie").
+entrée(sharker, n, [sharkers], "celui qui requine").
+entry(sharkish, adj, [], "se comportant comme un requin un poisson prédateur").
+entrée(sharn, n, [sharns], "bouse de vacheSHARNY adj").
+entrée(sharp, adj, [], "AFFÛTÉ PLUS AFFÛTÉs approprié ou capable de couper ou percer").
+entrée(sharp, v, [élevé, en_elevant, élève], "élever en hauteur comme un ton musical").
+entrée(aiguiser, v, [aiguisé,aiguisant,aiguise], "rendre tranchant").
+entrée(sharper, n, [sharpers], "un escroc").
+entry(sharpie, n, [sharpies], "une personne très alerte").
+entry(sharpish, adj, [], "quelque peu tranchant").
+entrée(sharply, adv, [], "de manière incisive").
+entrée(sharpy, n, [feutres], "feutre").
+entrée(brochette, n, [brochettes], "chachlyk").
+entry(shashlik, n, [shashliks], "chachlyk").
+entrée(shasta, n, [shastas], "une plante à fleurs").
+entry(shatoosh, n, [shatooshes], "un tissu fabriqué à partir de la laine du chiru").
+entrée(briser, v, [brisée,briser,brises], "casser en morceaux").
+entrée(shaugh, n, [shaughs], "un fourré").
+entry(shaul, v, [shauled,shauling,shauls], "sabler").
+entrée(raser, v, [rasé,rasé,rasant], "RASERpour couper les cheveux près des racinesRASABLE adj").
+entrée(rasoir, n, [rasoirs], "celui qui rase").
+entrée(shavie, n, [shavies], "une blague ou farce").
+entrée(rasage, n, [copeaux], "quelque chose rasé").
+entrée(shaw, v, [shawed, shawn, shawing], "SHAWSto show").
+entry(shawarma, n, [shawarmas], "un sandwich d'agneau ou de poulet avec des légumes et souvent du tahini enveloppé dans du pain pita").
+entrée(châle, v, [châlé,châlant,châles], "envelopper dans un châle un morceau de tissu porté comme couverture").
+entrée(shalemie, n, [shalmies], "un instrument à vent ancien").
+entrée(shay, n, [shays], "une chaise").
+entrée(shaykh, n, [shaykhs], "cheikh").
+entrée(shazam, interj, [], "utilisé pour signifier un événement magique").
+entrée(elle, n, [elles], "une personne de sexe féminin").
+entrée(shea, n, [sheas], "un arbre africain").
+entrée(sheaf, v, [sheafed, sheafing, sheafs], "ensacher").
+entry(sheal, n, [sheals], "shealing").
+entry(bergerie, n, [bergeries], "une cabane de berger").
+entrée(shear, v, [shore, shorn, shearing], "TONDREpour couper les poils ou la laine de").
+entry(tondeur, n, [tondeurs], "celui qui tond").
+entrée(tonte, n, [tontes], "un exemple de coupe de cheveux ou de laine").
+entrée(gainer, v, [gainé,gainant,gaine], "gaîner").
+entrée(gainer, v, [gainé,gainant,gainent], "mettre dans un étui de protection").
+entrée(engainement, n, [engainements], "celui qui engaine").
+entrée(moissonner, v, [moissonné,moissonnant,moissonne], "rassembler en un faisceau").
+entrée(shebang, n, [shebangs], "une situation, organisation ou affaire").
+entry(caboulot, n, [caboulots], "shebeen").
+entrée(cabaret, n, [cabarets], "un endroit où de l'alcool est vendu illégalement").
+entrée(remise, v, [remisé, remisant, remises], "loger dans une remise une petite structure basse").
+entry(shedable, adj, [], "capable de se détacher").
+entrée(shedder, n, [sheddeurs], "celui qui se débarrasse de quelque chose").
+entrée(shedlike, adj, [], "ressemblant à un hangar").
+entrée(sheen, v, [sheened,sheening,sheens], "briller").
+entrée(brillant, adj, [], "éclatant").
+entry(luisant, adj, [], "PLUS LUISANT LE PLUS LUISANT brillant").
+entrée(mouton, n, [mouton], "un mammifère ruminant").
+entrée(enclos_à_moutons, n, [enclos_à_moutons], "une enceinte pour les moutons").
+entrée(berger, n, [bergers], "un chien dressé pour garder et conduire les moutons").
+entrée(peureux, adj, [], "embarrassé").
+entrée(berger, n, [bergers], "une personne qui élève des moutons").
+entrée(sheer, adj, [], "D'UNE TEXTURE TRÈS FINE, PLUS PUR, LE PLUS PUR, SHEEREMENT adv").
+entrée(sheer, v, [sheered,sheering,sheers], "faire une embardée").
+entrée(sheesh, interj, [], "utilisé pour exprimer un léger agacement").
+entrée(feuille, v, [feuilleté,feuilletant,feuilles], "couvrir d'une feuille une fine pièce rectangulaire de matériau").
+entrée(feuilletant, n, [feuilletants], "celui qui feuillette").
+entrée(sheetfed, adj, [], "relatif à un type de presse d'impression").
+entrée(lambrissage, n, [lambrissages], "matériau sous forme de plaques").
+entrée(poulie, n, [poulies], "une roue de poulie rainurée").
+entrée(shehnai, n, [shehnais], "un instrument à vent à anche double de l'Inde").
+entrée(cheikh, n, [cheikhs], "un chef arabe").
+entrée(sheikdom, n, [sheikdoms], "la région gouvernée par un cheik").
+entry(sheikh, n, [cheikhs], "cheik").
+entrée(sheila, n, [sheilas], "une jeune femme").
+entrée(sheitan, n, [sheitans], "shaitan").
+entrée(sheitel, n, [sheitels], "une perruque portée par une femme juive mariée").
+entrée(shekel, n, [shekels], "ou SHEKELIM ou SHEKALIM, une ancienne unité de poids et de monnaie").
+entrée(tadorne, n, [tadornes], "un canard européen").
+entry(étagère, n, [étagères], "une structure plate et rigide utilisée pour supporter des articles").
+entrée(étagéeful, n, [étagéesful], "autant que peut contenir une étagère").
+entrée(coquille, v, [écalé,écalant,écale], "dépouiller d'une coquille un revêtement extérieur dur").
+entrée(shellac, v, [shellacked,shellacking,shellacs], "couvrir d'un vernis fin").
+entrée(shellack, v, [shellacked,shellacking,shellacks], "vernir").
+entrée(écailleur, n, [écailleurs], "un qui écaille").
+entry(shelly, adj, [], "RICHER EN COQUILLAGES").
+entrée(shelta, n, [sheltas], "un jargon ésotérique du gaélique").
+entrée(abri, v, [abrité,abritant,abrite], "fournir un abri ou une protection pour").
+entrée(sheltie, n, [shelties], "un petit poney hirsute").
+entrée(shelty, n, [shelties], "sheltie").
+entry(shelve, v, [mis, rangeant, étagères], "placer sur une étagère").
+entrée(rayonneur, n, [rayonneurs], "celui qui met en rayon").
+entrée(étagères, pl, [], "d'étagère").
+entrée(rangement, n, [rangements], "matériel pour étagères").
+entrée(shelvy, adj, [], "SHELVIER SHELVIESTinclinant graduellement").
+entrée(shen, n, [shen], "l'élément spirituel de la psyché d'une personne").
+entrée(shenai, n, [shenais], "shehnai").
+entrée(shend, v, [shent, shending, shends], "disgracier").
+entry(sheol, n, [sheols], "enfer").
+entrée(berger, v, [a_bercé,berçant,berce], "surveiller attentivement").
+entrée(sheqel, n, [sheqels], "ou SHEQALIMshekel").
+entrée(sorbet, n, [sorbets], "sorbets").
+entrée(sorbet, n, [sorbets], "un mélange glacé aux fruits").
+entrée(sherd, n, [sherds], "éclat").
+entrée(shereef, n, [shereefs], "shérif").
+entrée(sherif, n, [sherifs], "un dirigeant arabe").
+entrée(shérif, n, [shérifs], "un agent de la force publique d'un comté").
+entry(sherlock, n, [sherlocks], "un détective").
+entrée(shero, n, [sheroes], "une femme considérée comme un héros").
+entrée(sheroot, n, [sheroots], "cheroot").
+entry(sherpa, n, [sherpas], "un tissu doux pour les doublures").
+entrée(sherried, adj, [], "cuit ou aromatisé avec du sherry").
+entrée(sherris, n, [sherrises], "sherry").
+entrée(xérès, n, [xérès], "un type de vin").
+entrée(sherwani, n, [sherwanis], "un manteau long jusqu'aux genoux porté par certains hommes d'Inde").
+entry(shetland, n, [shetlands], "un fil de laine").
+entry(sheuch, n, [sheuchs], "fossé").
+entrée(sheugh, n, [sheughs], "un fossé").
+entrée(shew, v, [shewed,shewn,shewing], "SHEWSto show").
+entrée(showeur, n, [showeurs], "celui qui montre").
+entrée(shh, interj, [], "chut").
+entrée(shhh, interj, [], "chut").
+entrée(shiatsu, n, [shiatsus], "un massage utilisant la pression des doigts").
+entry(shiatzu, n, [shiatzus], "shiatsu").
+entrée(shibah, n, [shibahs], "shiva").
+entry(ivrogne, n, [ivrognes], "un ivrogne").
+entry(shied, passé, [], "temps de shy").
+entrée(shiel, n, [shiels], "shieling").
+entrée(bouclier, v, [protégé, protégeant, protège], "fournir une couverture ou un abri protecteur").
+entrée(écranteur, n, [écranteurs], "celui qui écrante").
+entrée(shieling, n, [shielings], "shieling").
+entrée(shier, n, [shiers], "un cheval ayant tendance à s'effrayer").
+entrée(shies, présent, [], "3e personne sing de shy").
+entrée(shiest, a, [], "superlatif de timide").
+entrée(déplacement, v, [déplacé,déplaçant,déplacements], "se déplacer d'une position à une autre").
+entrée(shifter, n, [shifters], "celui qui déplace").
+entrée(déplacement, n, [déplacements], "l'acte de se déplacer d'un endroit à un autre").
+entrée(shifty, adj, [], "SHIFTIER SHIFTIESTtrickySHIFTILY adv").
+entry(shigella, n, [shigellas], "ou SHIGELLAE, tout genre de bactéries aérobies").
+entrée(shiitake, n, [shiitakes], "un champignon oriental foncé").
+entrée(shikar, v, [shikarred, shikarring, shikars], "chasser").
+entry(shikara, n, [shikaras], "un bateau léger à fond plat au Cachemire").
+entrée(shikaree, n, [shikarees], "un chasseur de grand gibier").
+entry(shikari, n, [shikaris], "shikaree").
+entrée(shikker, n, [shikkers], "shicker").
+entrée(shikra, n, [shikras], "un petit épervier").
+entrée(shilingi, n, [shilingi], "une unité monétaire de la Tanzanie").
+entrée(shill, v, [shilled, shilling, shills], "agir comme un leurre").
+entry(shillala, n, [shillalas], "une courte massue épaisse").
+entrée(shilling, n, [shillings], "une ancienne unité monétaire de Grande-Bretagne").
+entry(shilpit, adj, [], "fiévreux").
+entrée(shily, adv, [], "d'une manière timide").
+entrée(shim, v, [shimmed, shimming, shims], "remplir ou niveler en insérant une fine cale").
+entrée(shimmer, v, [scintillé,scintillant,scintille], "briller").
+entrée(scintillant, adj, [], "scintillant").
+entry(shimmy, v, [shimmé,shimmant,shimmies], "vibrer ou vaciller").
+entrée(shin, v, [shinned, shinning, shins], "grimper en s'agrippant et en tirant alternativement avec les mains et les jambes").
+entry(tibia, n, [tibias], "le tibia").
+entrée(shindig, n, [shindigs], "une danse ou une fête élaborée").
+entrée(shindy, n, [shindys], "ou SHINDIES une fête").
+entrée(briller, v, [brillait,brillant,brille], "émettre de la lumière").
+entrée(brillant, n, [brillants], "celui qui brille").
+entrée(bardeau, v, [bardeauté, bardeautage, bardeaux], "recouvrir de bardeaux, minces pièces oblongues de matériau de construction").
+entrée(bardeuse, n, [bardeuses], "celle qui bardage").
+entrée(shingly, adj, [], "couvert de petits cailloux lâches").
+entrée(plus_luisant, comparatif, [], "de brillant").
+entrée(brillantissime, superlatif, [], "de brillant").
+entrée(brillamment, adv, [], "d'une manière brillante").
+entrée(shining, adj, [], "émission ou réflexion de la lumière").
+entrée(schinleaf, n, [schinleafs], "ou SCHINLEAVES une herbe vivace").
+entrée(tibia, passé, [], "de tibia").
+entrée(chênaie, n, [chênaies], "une végétation dense de petits arbres").
+entrée(shinney, v, [shinneyed, shinneying, shinneys], "jouer à une forme de hockey").
+entrée(brillant, présent, [], "participe de briller").
+entrée(shinny, v, [shinny, grimpe, grimper], "grimper").
+entrée(shinty, n, [shinties], "un jeu écossais similaire au hockey sur gazon").
+entrée(brillant, adj, [], "PLUS BRILLANT LE PLUS BRILLANT rempli de lumière").
+entrée(ship, v, [expédié,expédition,navires], "transporter par navire un vaisseau adapté à la navigation en haute mer").
+entrée(shiplap, n, [shiplaps], "un assemblage chevauchant utilisé en menuiserie").
+entrée(shipless, adj, [], "manquant d'un navire").
+entrée(cargaison, n, [cargaisons], "autant qu'un navire peut transporter").
+entrée(shipman, n, [shipmen], "un marin").
+entrée(coéquipier, n, [coéquipiers], "un compagnon marin").
+entrée(expédition, n, [expéditions], "quelque chose qui est expédié").
+entrée(expédié, passé, [], "temps de expédier").
+entrée(shippen, n, [shippens], "une étable à vaches").
+entrée(expéditeur, n, [expéditeurs], "celui qui expédie").
+entrée(expédition, n, [expéditions], "le commerce de celui qui expédie").
+entrée(shippon, n, [shippons], "shippen").
+entrée(côté_du_navire, n, [côtés_du_navire], "la zone le long d'un navire").
+entrée(shiptime, n, [temps_de_navire], "l'arrivée annuelle d'un navire de ravitaillement").
+entry(voie_navire, n, [voies_navire], "un canal assez profond pour accueillir des navires").
+entry(taret, n, [tarets], "un mollusque semblable à un ver").
+entrée(chantier_naval, n, [chantiers_navals], "un lieu où les navires sont construits ou réparés").
+entry(shiraz, n, [shirazes], "un type de vin").
+entrée(shire, n, [shires], "une division territoriale de Grande-Bretagne").
+entrée(shirk, v, [shirks, shuneur, shirks], "éviter le travail ou le devoir").
+entrée(récalcitrant, n, [récalcitrants], "celui qui rechigne").
+entry(froncer, v, [froncé,fronçant,fronce], "assembler en plusieurs rangées parallèles comme du tissu").
+entry(froncement, n, [fronces], "un arrangement froncé de tissu").
+entrée(chemise, n, [chemises], "un vêtement pour le haut du corpsCHEMISÉ adj").
+entrée(chemise, n, [chemises], "tissu utilisé pour fabriquer des chemises").
+entrée(shirty, adj, [], "SHIRTIER SHIRTIESTénervéSHIRTILY adv").
+entrée(schiste, n, [schistes], "schist").
+entrée(shitake, n, [shitakes], "shiitake").
+entry(acacia, n, [acacias], "un arbre à bois dur").
+entry(shittim, n, [shittims], "le bois de shittah").
+entrée(shiur, n, [shiurim], "une séance d'étude talmudique").
+entrée(shiv, n, [shivs], "un couteau").
+entrée(shiva, n, [shivas], "une période de deuil").
+entrée(shivah, n, [shivahs], "shivah").
+entrée(shivaree, v, [shivareed,shivareeing,shivarees], "faire un charivari").
+entrée(shive, n, [copeaux], "un fragment mince").
+entrée(frémir, v, [frémi, frémissant, frémissent], "trembler de peur ou de froid").
+entrée(frissonneur, n, [frissonneurs], "celui qui frissonne").
+entr\u00e9e(f\u00e9brile, adj, [], "frissonnant").
+entry(shiviti, n, [shivitis], "une plaque avec un verset hébreu").
+entry(shlemiel, n, [shlemiels], "un maladroit malchanceux").
+entry(shlep, v, [shlepped,shlepping,shleps], "transporter").
+entrée(schlepp, v, [schleppé,schleppant,schlepps], "porter").
+entrée(shlepper, n, [shleppers], "celui qui trimballe").
+entry(shleppy, adj, [], "PLUS SHLEPPY LE PLUS SHLEPPYschleppy").
+entrée(shlock, n, [shlocks], "schlock").
+entrée(shlocky, adj, [], "SHLOCKIER SHLOCKIESTschlocky").
+entrée(shlub, n, [shlubs], "schlub").
+entrée(shlump, v, [shlumped, shlumping, shlumps], "schlumper").
+entrée(shlumpy, adj, [], "négligé").
+entrée(shmaltz, n, [shmaltzes], "schmaltz").
+entry(shmaltzy, adj, [], "PLUS SHMALTZY LE PLUS SHMALTZY").
+entry(shmatte, n, [shmattes], "schmatte").
+entrée(shmear, v, [shmearé, shmearant, shmears], "to schmer").
+entrée(shmeer, v, [shmeered, shmeering, shmeers], "étaler").
+entrée(shmo, n, [shmoes], "schmo").
+entry(shmoe, n, [shmoes], "schmo").
+entrée(shmooze, v, [shmoozed,shmoozing,shmoozes], "shmoozer").
+entry(shmoozer, n, [shmoozers], "celui qui fait des discours flatteurs").
+entry(shmoozy, adj, [], "SHMOOZIER SHMOOZIESTschnouzy").
+entry(schmuck, n, [schmucks], "schmuck").
+entry(shmucky, adj, [], "SHMUCKIER SHMUCKIESTschmucky").
+entrée(schnaps, n, [schnaps], "eau-de-vie").
+entry(shnaps, n, [shnaps], "schnaps").
+entrée(shnook, n, [shnooks], "schnook").
+entrée(shnorrer, n, [shnorrers], "celui qui profite de la générosité des autres").
+entry(banc, adj, [], "PLUS_BANC LE_PLUS_BANCpeu_profond").
+entry(banc, v, [bancs], "devenir peu profond").
+entrée(shoaly, adj, [], "PLEIN DE ZONES PEU PROFONDES SHOALIER SHOALIEST").
+entrée(cochonnet, n, [cochonnets], "un jeune cochon").
+entry(shochet, n, [shochetim], "une personne qui abat des animaux et des volailles conformément à la loi juive").
+entry(shochu, n, [shochus], "un alcool japonais").
+entrée(choc, v, [choqué,choquant,chocs], "frapper avec une grande surprise horreur ou dégoût").
+entrée(shocker, n, [shockers], "celui qui choque").
+entry(shod, a, [], "passé du verbe 'to shoe'").
+entrée(shodden, a, [], "participe passé de chausser").
+entrée(shoddy, adj, [], "DE QUALITÉ INFÉRIEURE PLUS MAUVAIS LE PLUS MAUVAISMENT adv").
+entrée(médiocre, n, [médiocres], "une laine de mauvaise qualité").
+entry(chaussure, n, [chaussures], "ou SHOON une protection pour le pied").
+entrée(chaussure, v, [chaussé, chaussé, chaussant], "CHAUSSUREpour fournir des chaussures").
+entrée(bec_en_sabot, n, [becs_en_sabot], "un oiseau échassier").
+entrée(boîte_à_chaussures, n, [boîtes_à_chaussures], "une boîte oblongue pour ranger une paire de chaussures").
+entrée(chausse-pied, v, [chausse-piedé, chausse-piedant, chausse-pieds], "forcer dans un petit espace").
+entrée(lacet, n, [lacets], "un lacet pour attacher une chaussure").
+entrée(sans_chaussures, adj, [], "n'ayant pas de chaussure").
+entrée(shoepac, n, [shoepacs], "une botte imperméable").
+entrée(shoepack, n, [shoepacks], "shoepac").
+entrée(shoer, n, [shoers], "celui qui ferre les chevaux").
+entrée(arbre_à_chaussures, n, [arbres_à_chaussures], "un dispositif en forme de pied qui est inséré dans une chaussure pour en préserver la forme").
+entrée(shofar, n, [shofars], "ou SHOFROTH, une trompette en corne de bélier utilisée dans certains rituels juifs").
+entrée(shog, v, [shogged, shogging, shogs], "se déplacer").
+entrée(shogi, n, [shogis], "un jeu japonais semblable aux échecs").
+entrée(shogun, n, [shoguns], "ancien chef militaire du JaponSHOGUNAL adj").
+entrée(shoji, n, [shojis], "paravent en papier utilisé comme cloison ou porte dans une maison japonaise").
+entrée(shojo, n, [shojo], "manga principalement destiné aux filles").
+entrée(sholom, n, [sholoms], "shalom").
+entrée(brillait, a, [], "passé du verbe briller").
+entry(shoo, v, [shooed,shooing,shoos], "chasser").
+entrée(shoofly, n, [shooflies], "un cheval à bascule pour enfants").
+entrée(shook, n, [shooks], "ensemble de pièces pour assembler un tonneau ou un emballage").
+entry(shool, v, [shooled, shooling, shools], "pelleter").
+entrée(shoon, a, [], "pl de chaussure").
+entry(shoosh, v, [shooshed,shooshing,shooshes], "se déplacer avec un bruit de précipitation").
+entry(tirer, v, [tiré,tir,tires], "frapper, blesser ou tuer avec un projectile tiré d'une arme").
+entrée(shooter, n, [tireurs], "celui qui tire").
+entrée(tir, n, [tirs], "l'acte de celui qui tire").
+entr\u00E9e(tireur, n, [tireurs], "une personne habile au tir").
+entrée(fusillade, n, [fusillades], "une bataille menée avec des pistolets ou des fusils").
+entrée(magasin, v, [fait des achats, faisant des achats, fait des achats], "examiner des marchandises avec l'intention d'acheter").
+entrée(shopboy, n, [shopboys], "un vendeur").
+entrée(shopgirl, n, [shopgirls], "une vendeuse").
+entrée(shophar, n, [shophars], "ou SHOPHROTHshofar").
+entrée(shopless, adj, [], "n'ayant pas de magasins").
+entrée(voler à l'étalage, v, [volé à l'étalage, vol à l'étalage, vole à l'étalage], "voler des marchandises dans un magasin").
+entrée(commerçant, n, [commerçants], "quelqu'un qui possède ou exploite un petit magasin").
+entrée(boutique, n, [boutiques], "un petit magasin").
+entrée(shopped, passé, [], "temps de shop").
+entry(client, n, [clients], "quelqu'un qui fait des courses").
+entrée(shopping, n, [shoppings], "l'acte de celui qui fait des courses").
+entrée(shoppy, adj, [], "PLUS SHOPPIER LE PLUS SHOPPIESTpropice au shopping").
+entrée(bavardage, n, [bavardages], "conversation concernant son commerce ou métier").
+entrée(shopworn, adj, [], "usé d'avoir été exposé dans un magasin").
+entry(shoran, n, [shorans], "un type de système de navigation").
+entrée(rivage, v, [rivagé,rivageant,rivages], "soutenir avec un bois de renfort").
+entrée(étaiement, n, [étais], "un système de soutènement en bois").
+entrée(shorl, n, [shorls], "schorl").
+entrée(shorn, a, [], "participe passé de tondre").
+entry(court, adj, [], "PLUS COURT LE PLUS COURT ayant peu de longueur").
+entrée(court, v, [court-circuité, court-circuitant, court-circuits], "provoquer un type de dysfonctionnement électrique").
+entrée(pénurie, n, [pénuries], "une quantité ou un approvisionnement insuffisant").
+entry(raccourci, v, [raccourci,raccourcissement,raccourcis], "prendre un chemin plus court ou plus rapide").
+entrée(raccourcir, v, [raccourci,raccourcissant,raccourcit], "rendre ou devenir plus court").
+entrée(shortia, n, [shortias], "une herbe vivace").
+entrée(shortie, n, [shorties], "shorty").
+entrée(courtes, pl, [], "de courte").
+entrée(shortish, adj, [], "quelque peu court").
+entrée(bientôt, adv, [], "dans un court laps de temps").
+entry(petit, n, [petits], "quelqu'un qui est petit").
+entrée(coup, v, [coupé,coupant,coups], "charger de plombs ou de plombs d'acier").
+entry(shote, n, [shotes], "porcelet").
+entry(fusil, v, [fusillé,fusillant,fusils], "tirer avec un type de fusil").
+entry(trou_de_fusil, n, [trous_de_fusil], "un trou foré dans la roche pour contenir des explosifs").
+entry(shott, n, [shotts], "chott").
+entry(tira, passé, [], "temps de tirer").
+entrée(shotten, adj, [], "ayant frayé utilisé pour un poisson").
+entrée(shooting, présent, [], "participe de shot").
+entrée(should, passé, [], "temps du shall").
+entrée(épaule, v, [épaulé,épaulant,épaules], "assumer le fardeau ou la responsabilité de").
+entrée(shouldest, a, [], "2ème personne du singulier passé du verbe shall").
+entrée(shouldst, a, [], "2e personne du singulier passé de shall").
+entrée(crier, v, [crié, criant, crie], "prononcer à haute voix").
+entry(hurleur, n, [hurleurs], "celui qui crie").
+entrée(shouty, adj, [], "PLUS CRIEUR CRIEUR caractérisé par des cris").
+entrée(push, v, [poussé,poussant,pousse], "pousser brutalement").
+entrée(pelle, v, [pelle, pelletage, pelles], "ou PELLE PELLANT PELLES pour ramasser avec une pelle un outil de creusement").
+entry(pelleteur, n, [pelleteurs], "celui qui pelle").
+entrée(shover, n, [shovers], "celui qui pousse").
+entrée(poussant, présent, [], "participe de pousser").
+entrée(montrer, v, [montré,montré,montrant], "MONTRERpour causer ou permettre de voirMONTRABLE adj").
+entrée(showbiz, n, [showbizzes], "show business").
+entrer(showboat, v, [frimé, frimant, frime], "se vanter").
+entrée(vitrine, v, [vitriné,vitrinant,vitrines], "exposer").
+entrée(showdown, n, [showdowns], "un événement qui force la conclusion d'un problème").
+entrée(douche, v, [douché,douchant,douches], "se baigner sous une douche d'eau").
+entry(doucheur, n, [doucheurs], "celui qui douche").
+entrée(pluvieux, adj, [], "abondant en brèves périodes de pluie").
+entrée(showgirl, n, [showgirls], "une danseuse de revue").
+entrée(spectateur, n, [spectateurs], "celui qui assiste à un spectacle").
+entrée(showier, comparatif, [], "de voyant").
+entrée(showiest, superlatif, [], "de voyant").
+entrée(showily, adv, [], "de manière voyante").
+entrée(spectacle, n, [spectacles], "une exposition ou présentation").
+entrée(showman, n, [showmen], "un producteur théâtral").
+entrée(montré, passé, [], "participe de show").
+entrée(fanfaron, n, [fanfarons], "une personne portée aux démonstrations prétentieuses").
+entry(enceinte_de_démonstration, n, [enceintes_de_démonstration], "un ring où les animaux sont présentés").
+entrée(salle_d'exposition, n, [salles_d'exposition], "une salle utilisée pour l'exposition de marchandises").
+entrée(showtime, n, [horaires], "l'heure à laquelle un spectacle doit commencer").
+entrée(showy, adj, [], "SHOWIER SHOWIEST faisant une grande ou brillante démonstration").
+entrée(shoyu, n, [shoyus], "sauce soja").
+entrée(shrank, passé, [], "temps de shrink").
+entrée(shrapnel, n, [shrapnels], "fragments provenant d'une bombe, d'une mine ou d'un obus explosé").
+entrée(shred, v, [déchiqueté, déchiquetage, déchiquette], "déchirer en petites bandes").
+entry(déchiqueteuse, n, [déchiqueteuses], "quelqu'un qui déchiquette").
+entrée(musaraigne, v, [musaraigné,musaraignant,musaraignes], "maudire").
+entry(avis�, adj, [], "PLUS AVIS� LE PLUS AVIS�ayant une perspicacit� aigu�AVIS�MENT adv").
+entrée(astucieux, n, [astucieux], "une personne astucieuse").
+entrée(shrewish, adj, [], "malappris").
+entrée(shri, n, [shris], "sri").
+entry(cri_strident, v, [cria_strident,criant_strident,cries_stridents], "pousser un cri aigu").
+entrée(crieur, n, [crieurs], "celui qui crie").
+entry(criant, adj, [], "CRIANT CRIANTSstrident").
+entrée(shrieval, adj, [], "relatif à un shérif").
+entry(shrieve, v, [shrieved,shrieving,shrieves], "confesser").
+entrée(shrift, n, [shrifts], "l'acte de confesser").
+entry(pie-grièche, n, [pies-grièches], "un oiseau prédateur").
+entrée(strident, adj, [], "PLUS-STRIDENT LE-PLUS-STRIDENTayant une qualité aiguë et perçanteSTRIDEMENT adv").
+entrée(strident, v, [stridé,stridant,stridations], "émettre un son strident").
+entrée(crevette, v, [crevetté, crevetter, crevettes], "attraper des crevettes décapodes marins petits").
+entrée(crevettier, n, [crevettiers], "un pêcheur de crevettes").
+entry(shrimpy, adj, [], "PLUS CREVETTE, LE PLUS CREVETTE, abondant en crevettes").
+entrée(sanctuaire, v, [sanctuarisé, sanctuarisant, sanctuarise], "placer dans un sanctuaire un récipient pour des reliques sacrées").
+entrée(rétrécir, v, [rétréci, rétrécissant, rétrécit], "se contracter ou se retirer").
+entrée(rétrécisseur, n, [rétrécisseurs], "celui qui rétrécit").
+entrée(shrive, v, [shrived,shriven,shriving], "SHRIVEpour entendre la confession de et accorder l'absolution à").
+entrée(rétrécir, v, [rétréci,rétrécissant,rétrécit], "ou RÉTRÉCI RÉTRÉCISSANT RÉTRÉCIR se contracter en rides").
+entrée(shriver, n, [confesseurs], "celui qui confesse").
+entrée(shroff, v, [shroffed, shroffing, shroffs], "vérifier l'authenticité d'une pièce").
+entrée(champignon, n, [champignons], "un champignon un type de champignon").
+entrée(shroomer, n, [shroomers], "quelqu'un qui aime manger des champignons").
+entrée(châle, v, [enveloppé, enveloppant, enveloppes], "envelopper dans un vêtement funéraire").
+entrée(shrove, a, [], "temps passé de shrive").
+entrée(arbrisseau, n, [arbrisseaux], "un petit arbuste").
+entrée(arbusif, adj, [], "PLUS ARBUSIF LE PLUS ARBUSIF couvert d'arbustes").
+entrée(hausser, v, [haussé, haussant, hausse], "lever et contracter les épaules").
+entrée(diminua, a, [], "passé du verbe rétrécir").
+entrée(rétréci, a, [], "participe passé de shrink").
+entrée(shtetel, n, [shtetels], "ou SHTETLACH un village juif").
+entrée(shtetl, n, [shtetls], "ou SHTETLACHShtetel").
+entrée(numéro, n, [numéros], "une routine de divertissement").
+entrée(shticky, adj, [], "RESSEMBLANT À UN SHTICK PLUS SHTICKIER LE PLUS SHTICKIEST").
+entrée(shtik, n, [shtiks], "shtick").
+entrée(shtum, adj, [], "schtum").
+entry(shuck, v, [écossé,écossant,écosse], "enlever la cosse ou la coquille de").
+entrée(écailleur, n, [écailleurs], "celui qui écaille").
+entry(écalage, n, [écalages], "l'acte de celui qui écale").
+entry(fremir, v, [fremi, fremissant, fremit], "trembler").
+entrée(frémissant, adj, [], "frémissant").
+entrée(marcher_en_trainant_les_pieds, v, [marché_en_trainant_les_pieds, marchant_en_trainant_les_pieds, marchent_en_trainant_les_pieds], "marcher sans soulever les pieds").
+entrée(mélangeur, n, [mélangeurs], "celui qui mélange").
+entry(shul, n, [shuls], "ou SHULUne synagogue").
+entry(shumai, npl, [], "Raviolis japonais").
+entrée(shun, v, [shunned, shunning, shuns], "éviter").
+entrée(shunner, n, [shunners], "celui qui évite").
+entrée(shunpike, v, [shunpiked, shunpiking, shunpikes], "voyager sur des routes secondaires pour éviter les autoroutes").
+entry(manœuvrer, v, [manœuvré,manœuvrant,manœuvre], "détourner").
+entrée(manœuvreur, n, [manœuvreurs], "celui qui manœuvre").
+entrée(shura, n, [shuras], "un conseil consultatif").
+entrée(chut, v, [chuté,chutant,chute], "réduire au silence").
+entrée(shusher, n, [shushers], "celui qui fait taire").
+entrée(fermer, v, [fermer, fermant, ferme], "fermer").
+entry(fermeture, n, [fermetures], "fermeture temporaire d'une usine industrielle").
+entrée(shute, v, [shuted, shutting, shutes], "chuter").
+entrée(sommeil, n, [sommeils], "dormir").
+entrée(arrêt, n, [arrêts], "un dispositif qui coupe quelque chose").
+entrée(blanchissage, n, [blanchissages], "un match dans lequel une équipe ne marque pas").
+entrée(contrevent, v, [contreventé,contreventer,contrevents], "munir de contrevents, des volets articulés pour fenêtre").
+entrée(fermant, présent, [], "participe de fermer").
+entrée(navette, v, [navetté,navettant,navettes], "se déplacer en va-et-vient").
+entry(navetteur, n, [navetteurs], "celui qui fait la navette").
+entrée(shvitz, v, [shvitzed,shvitzing,shvitzes], "transpirer").
+entrée(schwa, n, [schwas], "schwa").
+entry(shwanpan, n, [shwanpans], "swanpan").
+entrée(timide, adj, [], "PLUS TIMIDE LE PLUS TIMIDE ou PLUS TIMIDE LE PLUS TIMIDE timide").
+entrée(timide, v, [refusa,refusant,refuse], "se déplacer soudainement en arrière ou sur le côté comme par peur").
+entrée(shyer, n, [shyers], "plus timide").
+entry(shylock, v, [shylocked,shylocking,shylocks], "prêter de l'argent à des taux d'intérêt élevés").
+entrée(timidement, adv, [], "d'une manière timide").
+entrée(timidité, n, [timidités], "l'état d'être timide").
+entry(shyster, n, [shysters], "un avocat ou un politicien sans scrupules").
+entrée(si, n, [sis], "ti").
+entrée(sial, n, [sials], "un type de formation rocheuse SIALIQUE adj").
+entrée(sialid, n, [sialides], "un sialidé").
+entrée(sialidan, n, [sialidans], "sialid").
+entrée(sialoïde, adj, [], "ressemblant à la salive").
+entry(siamang, n, [siamangs], "un grand gibbon noir").
+entrée(siamois, n, [siamois], "un tuyau d'eau avec une connexion pour deux tuyaux").
+entrée(sib, n, [sibs], "un frère ou une sœur").
+entry(sibb, n, [sibb], "sib").
+entry(sibilant, n, [sifflantes], "un son de parole produit par le passage fricatif du souffle à travers un orifice étroit").
+entrée(siffler, v, [sifflé,sifflant,siffle], "siffler").
+entrée(frère_ou_sœur, n, [frères_ou_sœurs], "ayant les mêmes parents qu'un autre").
+entrée(fratérie, n, [frateries], "un groupe d'enfants ayant les mêmes parents").
+entrée(sibylle, n, [sibylles], "une prophétesseFEMME SIBYLLIQUE SIBYLLIQUE adj").
+entrée(sic, v, [sicced,siccing,sics], "inciter à attaquer").
+entrée(siccan, adj, [], "tel").
+entrée(sice, n, [sices], "syce").
+entrée(malade, adj, [], "PLUS MALADE LE PLUS MALADE affecté par la maladie ou la mauvaise santé").
+entrée(sick, v, [sicked,sicking,sicks], "lancer à l'attaque").
+entrée(infirmerie, n, [infirmeries], "un hôpital de navire").
+entrée(lit_malade, n, [lits_malades], "un lit pour les malades").
+entrée(sickee, n, [sickees], "sickie").
+entrée(sicken, v, [sickened,sickening,sickens], "rendre malade").
+entrée(sicken, n, [sickeners], "celui qui rend malade").
+entry(sickerly, adv, [], "en toute sécurité").
+entrée(malade, n, [malades], "une personne émotionnellement malade").
+entrée(sickish, adj, [], "un peu malade").
+entrée(faux, v, [fauchée, fauchant, faux], "couper avec un outil agricole ayant une seule lame").
+entrée(malade, adj, [], "PLUS MALADE LE PLUS MALADEapparaissant comme maladeMALADE adv").
+entrée(moribond, v, [moribonda, moribondant, moribonde], "rendre moribond").
+entry(maladie, n, [maladies], "l'état d'être malade").
+entrée(sicko, n, [sickos], "sickie").
+entrée(sickout, n, [sickouts], "une absence organisée de travailleurs se déclarant malades").
+entrée(salle_de_malades, n, [salles_de_malades], "une pièce occupée par une personne malade").
+entrée(sidalcea, n, [sidalceas], "une herbe nord-américaine").
+entrée(siddha, n, [], "pl SIDDHAScelui qui a atteint la perfection dans l'hindouisme").
+entrée(siddhi, n, [siddhis], "la perfection atteinte par un siddha").
+entrée(siddur, n, [siddurs], "ou SIDDURIM un livre de prières juif").
+entrée(côté, v, [côté, côté, côtés], "être d'accord avec ou soutenir").
+entrée(sidearm, v, [sidearmed, sidearming, sidearms], "lancer une balle à hauteur ou en dessous de l'épaule").
+entrée(sideband, n, [bandes_latérales], "une bande de fréquences radio").
+entrée(sidebar, n, [encadrés], "une courte information accompagnant un article principal").
+entrée(pattes, n, [], "PATTEDeux bandes de cheveux portées par un homme de chaque côté du visage").
+entrée(sidecar, n, [sidecars], "une voiture passager attachée à une moto").
+entrée(sided, passé, [], "temps de side").
+entrée(côtedecolline, n, [côtedeecolline], "un flanc de colline").
+entrée(acolyte, n, [acolytes], "un ami proche").
+entrée(sans_côtés, adj, [], "n'ayant pas de côtés").
+entrée(sideline, v, [écarté, écartant, écartes], "mettre hors d'action").
+entry(sideling, adj, [], "penché").
+entrée(verroulatéral, n, [verrous_latéraux], "une longue mèche de cheveux tombant du côté de la tête").
+entrée(sidelong, adj, [], "dirigé vers un côté").
+entrée(sideman, n, [sidemen], "un membre d'un groupe de jazz").
+entrée(lard, n, [lards], "viande découpée sur le côté du porc").
+entrée(sidéral, adj, [], "relatif aux étoiles").
+entrée(sidérite, n, [sidérites], "un minéral").
+entrée(route secondaire, n, [routes secondaires], "une route rurale").
+entrée(sideshow, n, [sideshows], "un petit spectacle offert en plus d'une attraction principale").
+entrée(écart, v, [a glissé, glissement, glisse], "glisser d'un côté").
+entry(serviteur, n, [serviteurs], "un assistant laïc dans une église anglicane").
+entrée(sidespin, n, [sidespins], "un type d'effet appliqué à une balle").
+entrée(déborder, v, [débordé, débordant, déborde], "se déplacer de côté").
+entrée(trottoir, n, [trottoirs], "un chemin pavé pour les piétons").
+entrée(flanc, n, [flancs], "une surface latérale d'un pneu").
+entrée(latéralement, adv, [], "vers un côté").
+entrée(côté, adv, [], "latéralement").
+entrée(latéralement, adv, [], "vers ou depuis un côté").
+entrée(latéralement, adv, [], "latéralement").
+entrée(sidh, n, [sidhe], "une colline habitée par des êtres surnaturels dans le folklore irlandais").
+entrée(revêtement, n, [revêtements], "matériau utilisé pour recouvrir un bâtiment à ossature").
+entrée(sidle, v, [sidled, sidling, sidles], "se déplacer latéralement").
+entrée(sidler, n, [sidlers], "celui qui se faufile").
+entry(siège, v, [assiégé,asssiégeant,assièges], "tenter de capturer ou de gagner").
+entrée(siemens, n, [siemens], "une unité de conductance électrique").
+entrée(sienite, n, [sienites], "syénite").
+entrée(sienna, n, [siennas], "un pigment brun").
+entrée(sierozem, n, [sierozems], "un type de sol").
+entrée(sierra, n, [sierras], "une chaîne de montagnesSIERRAN adj").
+entrée(siestes, n, [siestas], "une sieste ou un repos l'après-midi").
+entrée(sieur, n, [sieurs], "un ancien titre de respect français pour un homme").
+entrée(tamis, v, [tamisé, tamisant, tamise], "faire passer à travers un tamis un ustensile pour séparer les parties grossières des parties fines de la matière en vrac").
+entrée(sievert, n, [sieverts], "une unité de rayonnement ionisant").
+entrée(sifaka, n, [sifakas], "un lémurien de Madagascar").
+entry(siffleur, n, [siffleurs], "un animal qui émet un sifflement").
+entrée(tamise, v, [tamisé,tamisant,tamise], "passer au tamis").
+entrée(tamis, n, [tamis], "celui qui tamise").
+entrée(tamisage, n, [tamisages], "le travail d’un tamiseur").
+entrée(sig, n, [sigs], "un court message personnalisé à la fin d'un e-mail").
+entrée(siganide, n, [siganides], "n'importe quelle famille de poissons").
+entrée(soupir, v, [soupira, soupirant, soupire], "laisser échapper un soupir, une respiration profonde et audible").
+entry(soupirant, n, [soupirants], "celui qui soupire").
+entry(sans_soupir, adj, [], "ne poussant aucun soupir").
+entry(sighlike, adj, [], "ressemblant à un soupir").
+entrée(vue, v, [vu, observation, vues], "observer ou remarquer").
+entrée(sighter, n, [sighters], "celui qui aperçoit").
+entrée(observation, n, [observations], "une observation").
+entrée(joli, adj, [], "PLUS JOLI LE PLUS JOLI agréable à regarder").
+entrée(sightsee, v, [sightsaw,sightseen,sightseeing], "SIGHTSEE visite et découvre des lieux d'intérêt").
+entrée(sigil, n, [sceaux], "un sceau officiel").
+entrée(siglos, n, [sigloi], "une ancienne pièce persane").
+entrée(siglum, n, [sigla], "une abréviation pour indiquer la source d'un texte édité").
+entrée(sigma, n, [sigmas], "une lettre grecqueSIGMATE adj").
+entrée(sigmoïde, n, [sigmoïdes], "une courbe en S dans une partie du corps").
+entrée(signe, v, [signé,signant,signe], "écrire son nom sur").
+entrée(signe, v, [], "écrire sur l'étiquette aucune autre forme de ce verbe impératif n'est utilisée").
+entrée(signalisation, n, [signalisations], "un système de signaux dans une communauté").
+entrée(signal, v, [signalé,signalant,signaux], "ou SIGNALÉ SIGNALANT SIGNAUXpour notifier par un moyen de communication").
+entrée(signaler, n, [signalers], "celui qui signale").
+entrée(signally, adv, [], "notamment").
+entry(signataire, n, [signataires], "un signataire d'un document").
+entrée(signer, n, [signers], "celui qui signe").
+entree(signet, v, [signeted, signeting, signets], "marquer avec un sceau officiel").
+entrée(signifier, v, [signifié,signifiant,signifie], "faire connaître").
+entrée(signature, n, [signatures], "l'acte d'écrire sa signature sur un document ou dans un livre").
+entrée(signior, n, [signiors], "ou SIGNIORIsignor").
+entrée(seigneurie, n, [seigneuries], "seigneurie").
+entrée(signor, n, [signors], "ou SIGNORItitre de courtoisie italien pour un homme").
+entrée(signora, n, [signoras], "ou SIGNOREun titre de courtoisie italien pour une femme mariée").
+entry(signore, n, [signori], "monsieur").
+entry(seigneurie, n, [seigneuries], "seignory").
+entrée(panneau, v, [panneauté,panneautage,panneaux], "fournir des panneaux de signalisation portant des indications").
+entrée(sika, n, [sikas], "un petit cerf originaire d'Asie").
+entrée(sike, n, [sikes], "syke").
+entry(siker, adj, [], "sécurisé").
+entry(siksik, n, [siksiks], "le spermophile arctique").
+entry(ensilage, n, [ensilages], "fourrage conservé dans un silo").
+entrée(silane, n, [silanes], "un composé chimique").
+entrée(sild, n, [silds], "un jeune hareng").
+entrée(silence, v, [silencié,silenciant,silencie], "rendre silencieux").
+entrée(silencieux, n, [silencieux], "celui qui fait taire").
+entrée(sileni, pl, [], "de silène").
+entrée(silencieux, adj, [], "SILENTER SILENTESTne produisant aucun son ou bruitSILENCIEUSEMENT adv").
+entrée(silents, npl, [], "films muets").
+entrée(silenus, n, [sileni], "une divinité sylvestre de la mythologie grecque").
+entrée(silésie, n, [silésies], "un tissu en coton").
+entrée(silex, n, [silex], "silice").
+entrée(silice, n, [silices], "une forme de silicium").
+entrée(silicate, n, [silicates], "un sel chimique").
+entry(siliceux, adj, [], "relatif au silicium").
+entrée(siliciure, n, [siliciures], "un composé de silicium").
+entrée(silicifier, v, [silicifié,silicifiant,silicifie], "convertir en silice").
+entrée(silicium, n, [siliciums], "silicium").
+entrée(silicle, n, [silicles], "une courte silique plate").
+entrée(silicium, n, [siliciums], "un élément non métallique").
+entrée(silicone, n, [silicones], "un composé de silicium").
+entrée(silicula, n, [siliculae], "une silicule").
+entrée(siliqua, n, [siliquae], "silique").
+entrée(silique, n, [siliques], "un type de capsule de graines").
+entrée(soie, v, [soié, soiant, soies], "recouvrir de soie un tissu doux et brillant").
+entrée(silken, adj, [], "fait de soie").
+entrée(silkie, n, [silkies], "selkie").
+entry(plus_soyeux, comparatif, [], "de soyeux").
+entrée(silkies, pl, [], "de soyeux").
+entrée(soyeux, superlatif, [], "de soyeux").
+entrée(soyeusement, adv, [], "d'une manière soyeuse").
+entrée(semblablesoie, adj, [], "ressemblant à de la soie").
+entrée(silkweed, n, [silkweeds], "asclépiade").
+entrée(ver à soie, n, [vers à soie], "une chenille qui file un cocon de fibres de soie").
+entrée(silky, adj, [], "PLUS SOYEUX PLUS SOYEUX ressemblant à de la soie").
+entry(silky, n, [soyeux], "un terrier à pelage luisant").
+entrée(appui, n, [appuis], "la pièce horizontale à la base d'une fenêtre").
+entrée(sillabub, n, [sillabubs], "un dessert alcoolisé").
+entry(siller, n, [sillers], "argent").
+entrée(sillibub, n, [sillibubs], "sillabub").
+entrée(silly, adj, [], "PLUS BÊTE LE PLUS BÊTEmontrant un manque de bon sensBÊTEMENT adv").
+entrée(silly, n, [sillies], "une personne stupide").
+entrée(silo, v, [siloa, siloant, silos], "stocker dans un silo une structure cylindrique haute").
+entrée(siloxane, n, [siloxanes], "un composé chimique").
+entrée(limon, v, [limonné,limonnant,limons], "remplir de limons un matériau sédimentaire").
+entrée(silty, adj, [], "PLUS SABLEUX LE PLUS SABLEUX plein de limon").
+entrée(siluridé, n, [siluridés], "un membre d'une famille de poissons-chats").
+entry(siluroïde, n, [siluroïdes], "un silure").
+entrée(silva, n, [silvas], "ou SILVAEsylva").
+entrée(silvan, n, [silvans], "sylvestre").
+entrée(argent, v, [argenta, argentant, argentent], "recouvrir d'argent un élément métallique").
+entrée(argenteur, n, [argenteurs], "celui qui argent").
+entrée(argenté, comparatif, [], "de couleur argentée").
+entrée(plus_argenté, superlatif, [], "de couleur argentée").
+entrée(silverly, adv, [], "avec une apparence argentée").
+entrée(argenté, adj, [], "argenté").
+entrée(silvertip, n, [silvertips], "un ours grizzli aux poils pointes de blanc").
+entrée(argente, adj, [], "PLUS ARGENTÉ LE PLUS ARGENTÉresemblant à l'argent").
+entrée(silvex, n, [silvexes], "un herbicide").
+entrée(silvical, adj, [], "relatif à la sylviculture").
+entrée(silviculture, npl, [], "l'étude des arbres forestiers").
+entrée(sim, n, [sims], "simulation").
+entrée(sima, n, [simas], "une roche ignée").
+entry(simar, n, [simars], "une veste ou une robe légère pour femme").
+entry(simaruba, n, [simarubas], "un arbre tropical").
+entrée(simazine, n, [simazines], "un herbicide").
+entrée(simcha, n, [simchas], "une fête privée juive").
+entry(singe, n, [singes], "un singe ou un macaque").
+entrée(similar, adj, [], "étant similaire mais pas complètement identique à").
+entrée(simile, n, [similes], "une figure de style").
+entrée(simioïde, adj, [], "simiesque").
+entrée(simious, adj, [], "relatif aux singes").
+entrée(simitar, n, [simitars], "cimeterre").
+entrée(simlin, n, [simlins], "cymling").
+entry(mijoter, v, [mijoté,mijotant,mijote], "cuire en dessous ou juste au point d'ébullition").
+entrée(simnel, n, [simnels], "un pain croquant").
+entrée(simoleon, n, [simoleons], "un dollar").
+entrée(simoniac, n, [simoniaques], "celui qui pratique la simonie").
+entrée(simonies, pl, [], "de simonie").
+entry(simoniste, n, [simonistes], "un simoniaque").
+entrée(simonize, v, [simonized,simonizing,simonizes], "polir avec de la cire").
+entrée(simonie, n, [simonies], "l'achat ou la vente d'une charge ecclésiastique").
+entrée(simoom, n, [simouns], "un vent chaud et sec du désert").
+entrée(simoun, n, [simouns], "simoun").
+entrée(simp, n, [simps], "une personne stupide").
+entrée(simper, v, [sourit niaiseusement, souriant niaiseusement, sourit niaiseusement], "sourire de manière niaise").
+entrée(simperer, n, [simperers], "celui qui minaude").
+entrée(simple, adj, [], "PLUS SIMPLE LE PLUS SIMPLEpas complexe ou compliqué").
+entrée(simple, n, [simples], "quelque chose de simple").
+entrée(simplex, n, [simplexes], "ou SIMPLICES ou SIMPLICIA un mot simple").
+entrée(simplifier, v, [simplifié, simplifiant, simplifie], "rendre simple").
+entry(simplisme, n, [simplismes], "la tendance à trop simplifier un problème ou une question").
+entrée(simpliste, n, [simplistes], "une personne donnée au simplisme").
+entrée(simply, adv, [], "d'une manière simple").
+entrée(simulant, n, [simulants], "celui qui simule").
+entry(simuler, n, [simulants], "un simulant").
+entrée(simuler, v, [simulé,simulant,simule], "prendre l'apparence de").
+entrée(pecher, v, [a_peche, pechant, peches], "commettre un péché, une offense contre la loi religieuse ou morale").
+entry(sinapisme, n, [sinapismes], "un mélange pâteux appliqué sur une partie irritée du corps").
+entrée(depuis, adv, [], "de ce moment jusqu'à maintenant").
+entrée(sincère, adj, [], "SINCERER SINCERESTlibre d'hypocrisie ou de fausseté").
+entry(sinciput, n, [sinciputs], "ou SINCIPITAl'avant de la tête").
+entrée(sinus, n, [sinus], "une fonction trigonométrique d'un angle").
+entrée(sinecure, n, [sinecures], "une fonction ou un poste nécessitant peu ou pas de travail").
+entrée(sinew, v, [sinewed, sinewing, sinews], "renforcer").
+entrée(nerveux, adj, [], "maigre et musclé").
+entrée(sinfonia, n, [sinfonias], "ou SINFONIE, une symphonie").
+entree(pecheur, adj, [], "marqué par le péchéPÊCHEUR adv").
+entrée(chanter, v, [chanté, chanté, chantant], "CHANTo exprimer avec des inflexions musicales de la voixCHANTABLE adj").
+entrée(singe, v, [singed, singeing, singes], "brûler légèrement").
+entrée(chanteur, n, [chanteurs], "celui qui chante").
+entrée(chant, n, [chants], "l'acte ou le son de celui qui chante").
+entrée(singulier, v, [isolé,sélectionnant,sélectionne], "choisir dans un groupe").
+entrée(singlet, n, [singlets], "un maillot de corps pour homme ou un maillot").
+entrée(simplement, adv, [], "sans la compagnie des autres").
+entrée(singsong, n, [singsongs], "cadence monotone dans la parole ou la lecture").
+entrée(singulier, n, [singuliers], "une forme de mot qui désigne une personne ou une chose").
+entrée(sinh, n, [sinhs], "une fonction hyperbolique d'un angle").
+entry(siniciser, v, [sinicisé,sinicisage,sinicise], "modifier par l'influence chinoise").
+entrée(sinistre, adj, [], "menaçant ou présageant le mal").
+entrée(évier, v, [coulé, coulant, coule], "se déplacer à un niveau inférieurSUBMERSIBLE adj").
+entrée(enfoncement, n, [enfoncements], "l'acte, le processus ou le degré d'enfoncement").
+entrée(sinker, n, [sinkers], "celui qui coule").
+entrée(évier_plein, n, [éviers_plains], "autant que peut contenir un évier").
+entrée(gouffre, n, [gouffres], "une dépression naturelle à la surface de la terre").
+entrée(sans_péché, adj, [], "libre de péché").
+entrée(sinned, passé, [], "temps du péché").
+entrée(pécheur, n, [pécheurs], "celui qui pèche").
+entrée(sinnet, n, [sinnets], "sennet").
+entry(pechant, present, [], "participe de pêcher").
+entrée(sinologie, n, [sinologies], "l'étude du chinois").
+entrée(sinopia, n, [sinopies], "ou SINOPIE un pigment rouge").
+entrée(sinsyne, adv, [], "depuis").
+entrée(sinter, v, [sinteré, sinterisation, sinter], "rendre cohésif par l'action combinée de la chaleur et de la pression").
+entrée(sinuate, v, [sinua, sinuant, sinues], "onduler").
+entrée(sinueux, adj, [], "caractérisé par des courbes, des virages ou des tours").
+entrée(sinus, n, [sinus], "une cavité crânienne").
+entrée(sinusoidal, n, [sinusoïdes], "une courbe mathématique").
+entrée(sip, v, [sipped, sipping, sips], "boire à petites gorgées").
+entry(sipe, v, [sipa, sipant, sipes], "s'infiltrer").
+entrée(siphon, v, [siphonné,siphonnement,siphonne], "extraire à l'aide d'un siphon, un type de tube").
+entry(siphonal, adj, [], "relatif à un siphon").
+entr\u00e9e(siphonic, adj, [], "siphonal").
+entrée(siping, présent, [], "participe de sipe").
+entrée(sipable, adj, [], "pouvant être siroté").
+entrée(si, passé, [], "temps de siroter").
+entrée(sipper, n, [sippers], "celui qui sirote").
+entrée(sippet, n, [sippets], "un petit morceau de pain trempé dans de la sauce").
+entrée(sipping, présent, [], "participe de sip").
+entrée(monsieur, n, [messieurs], "une forme de respect utilisée pour s'adresser à un homme").
+entrée(sirdar, n, [sirdars], "une personne de rang en Inde").
+entrée(sire, v, [engendré, engendrant, engendre], "engendrer").
+entrée(siree, n, [sirees], "sirree").
+entry(sirène, n, [sirènes], "un dispositif qui produit un son d'alerte perçant").
+entry(sirénien, n, [siréniens], "n'importe quel membre d'un ordre de mammifères aquatiques").
+entrée(générant, présent, [], "participe de générer").
+entrée(surlonge, n, [surlonges], "une coupe de boeuf").
+entrée(sirocco, n, [siroccos], "un vent chaud et sec").
+entrée(sirra, n, [sirras], "scélérat").
+entrée(sirrah, n, [sirrahs], "une forme d'adresse utilisée pour les inférieurs").
+entrée(sirree, n, [sirrees], "sir").
+entrée(sirupe, v, [sirupé,sirupant,sirupe], "transformer en sirop").
+entry(sirupieux, adj, [], "SIRUPIEUX SIRUPIEUSEment").
+entrée(sirvente, n, [sirventes], "une chanson ou un poème satirique médiéval").
+entrée(sis, n, [sises], "ou SISSESsœur").
+entry(sisal, n, [sisals], "une fibre résistante utilisée pour les cordes").
+entrée(tarin, n, [tarins], "un pinson eurasien").
+entrée(sissy, adj, [], "SISSIER SISSIESTsissyish").
+entrée(sissy, n, [sissies], "un homme ou garçon efféminé").
+entrée(sissyish, adj, [], "ressemblant à une fille").
+entrée(sœur, v, [sœuré,sœurant,sœurs], "traiter comme une sœur une sœur").
+entry(sœur, adj, [], "de ou ressemblant à une sœur").
+entry(sistroid, adj, [], "compris entre les côtés convexes de deux courbes sécantes").
+entry(sistrum, n, [sistra], "ou un ancien instrument de percussion égyptien connu sous le nom de SISTRA").
+entrée(s'asseoir, v, [s'asseyant,assise,s'assied], "se reposer sur les fesses").
+entry(sitar, n, [sitars], "un luth de l'Inde").
+entrée(sitariste, n, [sitaristes], "celui qui joue du sitar").
+entry(sitcom, n, [sitcoms], "une série comique télévisée avec des personnages récurrents").
+entrée(site, v, [placé, plaçant, place], "placer en position pour l'opération").
+entrée(sith, adv, [], "depuis").
+entrée(sithence, adv, [], "depuis").
+entrée(sithens, adv, [], "depuis").
+entrée(siting, présent, [], "participe de site").
+entrée(sitologie, n, [sitologies], "la science de la nutrition et de l'alimentation").
+entrée(sitrep, n, [sitreps], "un rapport sur la situation militaire actuelle").
+entrée(sitten, a, [], "participe passé de sit").
+entrée(sitter, n, [sitters], "celui qui s'assoit").
+entrée(assis, n, [assises], "une réunion ou session").
+entry(situer, v, [situé,situant,situe], "placer dans une certaine position").
+entrée(redressement, n, [redressements], "un exercice où l'on passe d'une position allongée à une position assise").
+entrée(situs, n, [situses], "une position ou un emplacement").
+entrée(sitzmark, n, [sitzmarks], "une marque laissée dans la neige par un skieur qui est tombé en arrière").
+entrée(égout, n, [égouts], "un égout").
+entrée(six, n, [six], "un nombre").
+entrée(sixer, n, [sixers], "le chef d'un groupe de six Brownies ou Cubs").
+entry(sixfold, adj, [], "étant six fois plus grand que").
+entrée(sixmo, n, [sixmos], "un format de papier").
+entrée(sixpence, n, [sixpences], "une pièce britannique autrefois utilisée, valant six pence").
+entrée(sixpenny, adj, [], "valant six pence").
+entrée(sixtet, n, [sixtes], "une parade d'escrime").
+entrée(seize, n, [seizes], "un nombre").
+entrée(sixième, n, [sixièmes], "une des six parts égales").
+entrée(sixièmement, adv, [], "en sixième lieu").
+entrée(soixantième, n, [soixantièmes], "une des soixante parties égales").
+entrée(soixante, n, [années_soixante], "un nombre").
+entrée(soixantenaire, adj, [], "ayant environ soixante ans").
+entrée(sizable, adj, [], "d'une taille considérable SIZABLY adv").
+entrée(sizar, n, [sizars], "un étudiant britannique qui reçoit une aide financière de son collège").
+entrée(taille, v, [taillé, taillant, tailles], "disposer selon les proportions physiques").
+entry(important, adj, [], "importantIMPORTAMMENT adv").
+entrée(sizer, n, [sizers], "sizar").
+entrée(siziness, n, [sizinesses], "la qualité ou l'état d'être visqueux").
+entrée(dimensionnement, n, [dimensionnements], "une substance utilisée comme glaçure ou remplissage pour matériaux poreux").
+entrée(sizy, adj, [], "SIZIER SIZIESTvisqueux").
+entrée(sizzle, v, [sizzlé,sizzlant,sizzlent], "brûler ou frire avec un bruit de sifflement").
+entry(sizzler, n, [sizzlers], "une journée très chaude").
+entrée(sjambok, v, [sjamboked,sjamboking,sjamboks], "frapper avec un fouet utilisé en Afrique du Sud").
+entrée(ska, n, [skas], "une musique populaire de la Jamaïque").
+entrée(skag, n, [skags], "héroïne").
+entrée(skald, n, [skaldes], "un ancien poète scandinaveSKALDIQUE adj").
+entrée(skank, v, [skanked, skanking, skanks], "danser de manière décontractée").
+entry(skanker, n, [skankers], "celui qui skank").
+entrée(skanky, adj, [], "SKANKIER SKANKIESTcrasseux ou vulgaire").
+entrée(tarot, n, [tarots], "un jeu de cartes").
+entrée(patiner, v, [patiné,patinant,patins], "glisser sur la glace ou le sol avec des chaussures équipées de lames ou de roues").
+entrée(skateur, n, [skateurs], "celui qui patine").
+entry(patinage, n, [patinages], "le sport de glisser sur des patins").
+entrée(skatol, n, [skatols], "skatole").
+entrée(skatole, n, [skatoles], "un composé chimique").
+entrée(skean, n, [skeans], "un type de dague").
+entrée(skeane, n, [skeanes], "une longueur de fil enroulé en une bobine lâche").
+entrée(sked, v, [skedded,skedding,skeds], "planifier").
+entry(skee, v, [skia, skiant, skie], "skier").
+entrée(skeen, n, [skeens], "skean").
+entrée(skeet, n, [skeets], "le sport de tirer sur des pigeons d'argile projetés en l'air par des pièges à ressort").
+entrée(skeeter, n, [skeeters], "un tireur de ski").
+entrée(skeevy, adj, [], "SKEEVIER SKEEVIESTrépugnant dégoûtant").
+entrée(skeg, n, [skegs], "un bois qui relie la quille à l'étambot d'un navire").
+entrée(skeigh, adj, [], "fier").
+entrée(skein, v, [skeined, skeining, skeins], "enrouler en longues et lâches bobines").
+entrée(squelette, n, [squelettes], "l'ossature ou charpente protectrice d'un corps humain ou animalSQUELETTIQUE adj").
+entrée(skell, n, [skells], "une personne sans-abri").
+entrée(skellum, n, [skellums], "un vaurien").
+entrée(skelm, n, [skelms], "skellum").
+entry(skelp, v, [skelpit,skelping,skelps], "gifler").
+entrée(skelter, v, [skeltered,skeltering,skelters], "se précipiter").
+entrée(skene, n, [skenes], "skean").
+entry(skep, n, [skeps], "une ruche").
+entry(skepsis, n, [skepsises], "l'attitude ou la perspective d'un sceptique").
+entrée(sceptique, n, [sceptiques], "une personne qui doute des idées généralement acceptées").
+entrée(ilot, n, [îlots], "une petite île rocheuse").
+entrée(croquis, v, [croqué, croquant, croquis], "faire un dessin rapide et sommaire de").
+entry(sketcher, n, [dessinateurs], "un qui dessine").
+entrée(suspect, adj, [], "PLUS SUSPECT LE PLUS SUSPECTmanque de complétude ou de clarté").
+entrée(obliquer, v, [obliqué,obliquant,oblique], "se détourner").
+entrée(skewback, n, [skewbacks], "une surface inclinée contre laquelle repose l'extrémité d'un arc").
+entrée(skewbald, n, [skewbalds], "un cheval ayant des taches de brun et de blanc").
+entry(brochette, v, [brochetté,brochettant,brochettes], "transpercer avec une longue broche comme de la viande").
+entrée(asymétrie, n, [asymétries], "manque de symétrie").
+entrée(ski, v, [skié,skiant,skis], "voyager sur des skis longues bandes étroites de bois ou de métal").
+entry(skiable, adj, [], "susceptible d'être skié").
+entry(skiagramme, n, [skiagrammes], "une image composée d'ombres ou de contours").
+entrée(skibob, v, [skibobé, skibobant, skibobs], "conduire un véhicule semblable à un vélo avec des skis au lieu de roues").
+entrée(skid, v, [a dérapé, dérapage, dérapages], "glisser latéralement en raison d'une perte d'adhérence").
+entrée(skidder, n, [skidders], "celui qui dérape").
+entrée(dérapage, n, [dérapages], "le travail de transport de grumes depuis une zone de coupe").
+entrée(skiddoo, v, [skiddooed, skiddooing, skiddoos], "s'en aller").
+entrée(skiddy, adj, [], "SKIDDIER SKIDDIESTprobablement à l'origine de glissements").
+entrée(skidoo, v, [skidoote, skidootant, skidoot], "faire du skiddoo").
+entry(skidooer, n, [skidooers], "celui qui fait de la motoneige").
+entrée(skidpad, n, [skidpads], "une surface de route sur laquelle les conducteurs peuvent s'entraîner à contrôler les dérapages").
+entrée(skidway, n, [skidways], "plateforme sur laquelle les grumes sont empilées pour le chargement ou le sciage").
+entrée(skied, passé, [], "temps de ski et ciel").
+entrée(skieur, n, [skieurs], "celui qui skie").
+entrée(cieux, présent, [], "3e personne singulier de ciel").
+entrée(skiey, adj, [], "céleste").
+entrée(skiff, n, [skiffs], "un petit bateau ouvert").
+entrée(skiffle, v, [skifflé, skifflant, skifflent], "jouer un style particulier de musique").
+entrée(ski, n, [skis], "le sport de se déplacer sur des skis").
+entry(skijorer, n, [skijorers], "un skieur qui est tiré sur la neige par des chiens, un cheval ou un véhicule").
+entrée(adroit, adj, [], "adroit").
+entrée(habile, adj, [], "habile").
+entrée(compétence, n, [compétences], "la capacité à bien faire quelque choseCOMPÉTENT adj").
+entry(incompétent, adj, [], "n'ayant aucune compétence").
+entrée(poêle, n, [poêles], "une poêle à frire").
+entry(habile, adj, [], "ayant de l'habileté").
+entrée(skilling, n, [skillings], "une ancienne pièce de monnaie des pays scandinaves").
+entrée(écrémer, v, [écrémé, écrémant, écrème], "retirer la matière flottante de la surface de").
+entrée(écumoire, n, [écumoires], "quelqu'un qui écume").
+entrée(skimmia, n, [skimmias], "un arbuste à feuilles persistantes").
+entrée(écrémage, n, [écrémages], "quelque chose qui est écumé d'un liquide").
+entrée(skimp, v, [skimped,skimping,skimps], "économiser").
+entrée(skimpy, adj, [], "SKIMPIER SKIMPIESTscantySKIMPILY adv").
+entrée(peau, v, [écorché,écorchage,écorche], "enlever ou priver de la peau le tissu membraneux recouvrant le corps d'un animal").
+entry(peau_pleine, n, [peaux_pleines], "autant qu'un contenant en peau peut contenir").
+entrée(skinhead, n, [skinheads], "personne dont les cheveux sont coupés très court").
+entrée(scindeur, v, [scindé,scindant,scindeurs], "verser ou servir comme boisson").
+entry(skinker, n, [skinkers], "celui qui skink").
+entry(sans_peau, adj, [], "n'ayant pas de peau").
+entrée(skinlike, adj, [], "ressemblant à la peau").
+entrée(écorché, passé, [], "temps du derme").
+entrée(skinneur, n, [skinneurs], "celui qui écorche").
+entrée(écorchant, présent, [], "participe de écorcher").
+entrée(mince, adj, [], "PLUS MINCE LE PLUS MINCEtrès maigre").
+entrée(mince, n, [minces], "quelqu'un de mince").
+entrée(skint, adj, [], "n'ayant pas d'argent").
+entrée(ski-joëring, n, [ski-joërings], "une forme de ski").
+entrée(skip, v, [sauté, sautillant, sauts], "se déplacer avec des pas légers et sautillants").
+entrée(skipjack, n, [skipjacks], "un poisson marin").
+entrée(avion_ski, n, [avions_ski], "un avion conçu pour décoller ou atterrir sur la neige").
+entrée(sauté, passé, [], "temps de sauter").
+entrée(skipper, v, [skippéré, skippérant, skippers], "agir en tant que maître ou capitaine de").
+entrée(signet, n, [signets], "une petite boîte pour protéger un sceau officiel").
+entrée(sautant, présent, [], "participe de skip").
+entry(skirl, v, [skirled,skirling,skirls], "produire un son strident").
+entry(escarmouche, v, [escarmouché,escarmouchant,escarmouches], "s'engager dans une bataille mineure").
+entrée(skirr, v, [skirred, skirring, skirrs], "se déplacer rapidement").
+entrée(skirret, n, [skirrets], "une herbe asiatique").
+entry(jupe, v, [jupé, juponnant, jupes], "passer autour de").
+entry(skirter, n, [skirters], "celui qui contourne").
+entrée(plinthe, n, [plinthes], "planche à la base d'un mur").
+entrée(skit, n, [skits], "une courte scène dramatique").
+entrée(skitè, v, [skitait, skitant, skitès], "se déplacer rapidement").
+entrée(skitter, v, [skittered, skittering, skitters], "se déplacer légèrement ou rapidement le long d'une surface").
+entrée(skittery, adj, [], "PLUS FURETEUR PLUS FURETEURSurtout fureteur").
+entrée(craintif, adj, [], "facilement effrayé").
+entrée(quille, n, [quilles], "une quille en bois utilisée dans un jeu de bowling").
+entrée(skive, v, [skived, skiving, skives], "parer").
+entry(esquiveur, n, [esquiveurs], "celui qui esquive").
+entry(douvrier, v, [douvrié,douvrant,douvrières], "travailler comme servante").
+entry(tenue_de_ski, n, [tenue_de_ski], "vêtements adaptés pour skier").
+entrée(sklent, v, [sklented,sklenting,sklents], "incliner").
+entrée(skoal, v, [skoaled,skoaling,skoals], "boire à la santé de").
+entrée(skol, v, [skoled, skoling, skols], "skoaler").
+entrée(skookum, n, [skookums], "un esprit maléfique").
+entrée(skort, n, [skorts], "un short qui ressemble à une jupe").
+entry(skosh, n, [skoshes], "une petite quantité").
+entrée(skreegh, v, [skreeghed,skreeghing,skreeghs], "crier").
+entrée(skreigh, v, [skreighed, skreighing, skreighs], "crier").
+entry(skry, v, [skried,skrying,skries], "scruter").
+entry(stercoraraire, n, [stercoraires], "un oiseau de mer prédateur").
+entry(skulk, v, [skulked,skulking,skulks], "se déplacer furtivement").
+entrée(skulker, n, [skulkers], "celui qui rôde").
+entry(crâne, v, [crâné,crânant,crânes], "frapper sur la tête").
+entrée(calotte, n, [calottes], "une casquette ajustée").
+entrée(moufette, v, [moufetté, moufettant, moufettes], "vaincre de manière écrasante").
+entrée(skunky, adj, [], "PLUS SKUNKY LE PLUS SKUNKY ayant une odeur suggestive d'une mouffette un mammifère qui peut pulvériser un liquide malodorant").
+entrée(sky, v, [skya, skyant, skyes], "frapper ou lancer vers le ciel l'atmosphère supérieure").
+entrée(skyboard, n, [skyboards], "une planche avec des fixations pour les pieds qui est utilisée pour le skysurf").
+entrée(skyborne, adj, [], "aérien").
+entrée(skybox, n, [skyboxes], "une enceinte de sièges située en hauteur dans un stade").
+entrée(skycap, n, [skycaps], "un porteur à l'aéroport").
+entrée(saut_en_parachute, v, [a_sauté_en_parachute,saut_en_parachute,sauter_en_parachute], "sauter d'un avion en parachute pour le sport").
+entrée(parachutiste, n, [parachutistes], "celui qui fait du parachutisme").
+entrée(skyey, adj, [], "ressemblant au ciel").
+entrée(skyglow, n, [skyglows], "une lueur dans le ciel nocturne résultant des lumières urbaines").
+entrée(skyhook, n, [skyhooks], "un crochet conçu comme étant suspendu du ciel").
+entrée(skyjack, v, [skyjacked, skyjacking, skyjacks], "détourner un avion").
+entrée(alouette, v, [alouetté, alouettant, alouettes], "batifoler").
+entrée(sans_ciel, adj, [], "ayant le ciel obscurci par des nuages").
+entry(soupirail, n, [soupiraux], "une fenêtre dans un toit ou un plafond").
+entry(skylike, adj, [], "ressemblant au ciel").
+entry(horizon, n, [horizons], "l'horizon").
+entry(skylit, adj, [], "ayant un puits de lumière").
+entrée(skyman, n, [skymen], "un aviateur").
+entrée(skyphos, n, [skyphoi], "un récipient à boire utilisé dans la Grèce antique").
+entry(voile_ciel, n, [voiles_ciel], "un type de voile").
+entrée(paysage_céleste, n, [paysages_célestes], "une vue du ciel").
+entrée(skysurf, v, [skysurfed,skysurfing,skysurfs], "effectuer des manœuvres en chute libre en étant sur une planche céleste").
+entrée(passerelle, n, [passerelles], "une passerelle surélevée entre deux bâtiments").
+entry(ciel, adv, [], "vers le ciel").
+entrée(skywards, adv, [], "vers le ciel").
+entry(observation_du_ciel, v, [observé_le_ciel, observant_le_ciel, observe_le_ciel], "observer le ciel à la recherche de corps célestes ou d'avions").
+entrée(skyway, n, [skyways], "une autoroute surélevée").
+entrée(skywrite, v, [skywrote, skywritten, skywriting], "SKYWRITEÉcrire dans le ciel en libérant une vapeur visible depuis un avion").
+entrée(slab, v, [slabbed,slabbing,slabs], "enlever des dalles, des pièces larges et plates, d'un tronc").
+entrée(baveur, v, [bavé,bavant,bavent], "baver").
+entry(baveux, adj, [], "slobbery").
+entry(délitage, n, [délitages], "l'acte de retirer des dalles d'un tronc").
+entrée(slabby, adj, [], "RECOUVERT OU PAVÉ DE DALLES SLABBIER SLABBIEST").
+entrée(slablike, adj, [], "ressemblant à une dalle").
+entrée(slack, adj, [], "PAS SERRÉ PAS TENDU").
+entrée(slack, v, [slacked, slacking, slacks], "relâcher").
+entry(relâcher, v, [relâché,relâchant,relâche], "rendre moins serré ou tendu").
+entrée(glandeur, n, [glandeurs], "un tire-au-flanc").
+entry(nonchalamment, adv, [], "d'une manière peu sérieuse").
+entrée(scorie, v, [scorié,scoriant,scories], "convertir en scorie le résidu fondu d'un minerai fondu").
+entrée(slagging, n, [scories], "le processus de conversion du minerai en scorie").
+entrée(slaggy, adj, [], "SLAGGIER SLAGGIESTressemblant à du laitier").
+entrée(slahal, n, [slahals], "lahal").
+entry(tué, passé, [], "participe de tuer").
+entry(slainte, interj, [], "utilisé pour trinquer à la santé de quelqu'un").
+entrée(soulager, v, [soulagé,soulageant,soulage], "étancherSOULAGEABLE adj").
+entrée(slaker, n, [slakers], "celui qui désaltère").
+entrée(slalom, v, [slalomé, slalomant, slalome], "skier en zigzag").
+entry(slalomer, n, [slalomeurs], "celui qui slalome").
+entrée(slam, v, [claqué,claquant,claque], "fermer avec force et bruit").
+entrée(slammer, n, [slammers], "une prison").
+entrée(clavardage, n, [clavardages], "la pratique qui consiste à transférer le service téléphonique d'une personne d'une entreprise à une autre sans autorisation").
+entry(calomnier, v, [calomnié,calomniant,calomnie], "diffamer").
+entrée(argot, v, [argoté,argotant,argots], "utiliser de l’argot ou un langage extrêmement informel ou vulgaire").
+entrée(argotique, adj, [], "PLUS ARGOTIQUE LE PLUS ARGOTIQUE étant ou contenant de l'argot ARGOTIQUEMENT adv").
+entrée(slank, a, [], "passé de slink").
+entrée(inclinaison, v, [inclinée,inclinant,inclinaisons], "s'écarter de l'horizontale ou de la verticale").
+entrée(slanty, adj, [], "PLUSDÉCLINANT DÉCLINANTLEPLUSS'écartant de l'horizontale ou de la verticaleINCLINÉ adv").
+entrée(slap, v, [slapped, slapping, slaps], "frapper avec la main ouverte").
+entry(bâclé, n, [bâclés], "travail négligent").
+entrée(slapjack, n, [slapjacks], "une crêpe").
+entrée(slapper, n, [slappers], "celui qui gifle").
+entrée(slapper, présent, [], "participe de slap").
+entrée(slapshot, n, [slapshots], "un type de tir au hockey").
+entrée(barre oblique, v, [barrea, barreur, barres], "couper avec des coups violents").
+entrée(slasher, n, [slashers], "celui qui lacère").
+entrée(sabrage, n, [sabrages], "l'acte de celui qui sabre").
+entrée(lame, v, [lamellé, lamellant, lames], "fournir des lames, bandes étroites de bois ou de métal").
+entrée(slatch, n, [slatches], "un calme entre les vagues déferlantes").
+entrée(ardoise, v, [ardoisé, ardoisant, ardoises], "couvrir avec de l'ardoise un matériau de couverture").
+entrée(slater, n, [slaters], "celui qui ardoise").
+entry(slatey, adj, [], "SLATIER SLATIESTardus").
+entrée(enduire, v, [enduit, enduisant, enduits], "étaler épais").
+entrée(slatier, comparatif, [], "de couleur ardoise").
+entrée(slaties, superlatif, [], "de schisteux").
+entrée(ardoisage, n, [ardoisages], "l'action de celui qui ardoise").
+entrée(latté, passé, [], "temps de lat").
+entrée(souillon, n, [souillons], "une femme négligée").
+entrée(lantage, n, [lantages], "matériau pour fabriquer des lamelles").
+entrée(slaty, adj, [], "QUI RESSEMBLE À DE L'ARDOISE PLUS ARDOISÉ").
+entrée(esclave, v, [esclavagisé,esclavagisant,esclavagises], "travailler comme un esclave, une personne qui est possédée par une autre").
+entrée(esclaver, v, [esclavé,esclavant,esclaves], "baver").
+entry(esclavagiste, n, [esclavagistes], "celui qui esclavagise").
+entrée(esclavage, n, [esclavages], "propriété d'une personne par une autre").
+entry(servante, n, [servantes], "une servante").
+entrée(slaving, présent, [], "participe de slave").
+entry(servile, adj, [], "qui concerne ou caractérise un esclave").
+entrée(slaw, n, [slaws], "coleslaw").
+entrée(tuer, v, [tué,tué,tuant], "TUERDe tuer violemmentTUABLE adj").
+entrée(tueur, n, [tueurs], "celui qui tue").
+entry(tuer, n, [meurtres], "l'acte ou un exemple de tuer").
+entrée(sleave, v, [sleaved,sleaving,sleaves], "séparer en filaments").
+entrée(sleaze, v, [sleazed, sleazing, sleazes], "agir de manière sordide").
+entrée(sleazo, n, [sleazos], "un salaud").
+entrée(sleazoid, n, [sleazoids], "une personne de faible morale ou caractère").
+entrée(sleazy, adj, [], "PLUS SLEAZY LE PLUS SLEAZY de basse qualité ou caractère SLEAZILY adv").
+entrée(luge, v, [lugea,lugeant,luge], "transporter sur une luge un véhicule pour porter des personnes ou des charges sur la neige ou la glace").
+entrée(sledder, n, [lugeurs], "celui qui fait de la luge").
+entrée(luge, n, [luges], "l'acte de celui qui fait de la luge").
+entrée(tréneau, v, [tréneau, tréneau, tréneaux], "transporter sur un type de luge").
+entrée(lisse, adj, [], "PLUS LISSE LE PLUS LISSE doux et brillant").
+entry(sleek, v, [lustré, lustrage, lustre], "rendre lisse").
+entry(sleeken, v, [sleekened,sleekening,sleekens], "lisser").
+entrée(sleeker, n, [sleekers], "celui qui rend lisse").
+entry(sleekit, adj, [], "élégant").
+entry(avec_élégance, adv, [], "d'une manière élégante").
+entrée(sleeky, adj, [], "SLEEKIER SLEEKIESTsleek").
+entrée(dormir, v, [dormi,dormant,dort], "être dans un état de repos périodique naturel").
+entrée(dormeur, n, [dormeurs], "celui qui dort").
+entrée(dormant, n, [dormants], "l'action de celui qui dort").
+entry(sleepy, adj, [], "PLUS ENDORMI LE PLUS ENDORMIprêt ou enclin à dormirENDORMI adv").
+entrée(grésil, v, [grésillé,grésillant,grésille], "pleuvoir sous forme de grésil pluie gelée").
+entry(sleety, adj, [], "PLUS VENTEUX Le PLUS VENTEUX ressemblant à de la neige fondue").
+entrée(manche, v, [manché,manchant,manches], "fournir d'une manche la partie d'un vêtement couvrant le bras").
+entrée(sleeveen, n, [sleeveens], "une personne espiègle").
+entrée(sleeving, n, [sleeving], "isolation tubulaire pour câbles électriques").
+entrée(sleigh, v, [sleighed, sleighing, sleighs], "faire de la luge").
+entry(traîneur, n, [traîneurs], "celui qui conduit un traîneau").
+entrée(agilité, n, [agilités], "habileté").
+entrée(slender, adj, [], "SLENDERER SLENDERESTthin").
+entrée(dormi, passé, [], "temps de dormir").
+entrée(détective, v, [enquêté, enquêtant, enquêtes], "agir en tant que détective").
+entrée(slew, v, [slewed, slewing, slews], "faire pivoter").
+entry(trancher, v, [tranche, tranchant, tranches], "couper en fines tranches").
+entrée(trancheur, n, [trancheuses], "celui qui tranche").
+entrée(glissant, adj, [], "PLUS GLISSANT LE PLUS GLISSANTlisse et glissant").
+entrée(slick, v, [slicked, slicking, slicks], "rendre glissant").
+entry(slicken, v, [slickened,slickening,slickens], "rendre glissant").
+entrée(slicker, n, [slickers], "un imperméable en toile cirée").
+entrée(slickly, adv, [], "d'une manière habile").
+entrée(glisser, v, [glissé,glissé,glissant], "GLISSERpour se déplacer en douceur le long d'une surfaceGLISSABLE adj").
+entrée(coulisseau, n, [coulisseaux], "celui qui glisse").
+entrée(glissière, n, [glissières], "une voie le long de laquelle quelque chose glisse").
+entrée(slier, a, [], "comparatif de malin").
+entrée(sliest, a, [], "superlatif de sly").
+entrée(slieve, n, [slieves], "une montagne").
+entrée(slight, adj, [], "PLUS LÉGER LE PLUS LÉGERpetit en taille ou en quantitéLÉGÈREMENT adv").
+entrée(léger, v, [légeré, légèreant, légers], "traiter avec désinvolture").
+entrée(slighter, n, [slighters], "celui qui méprise").
+entrée(slily, adv, [], "de manière sournoise").
+entrée(mince, adj, [], "PLUS MINCE LE PLUS MINCE élancé").
+entrée(mincir, v, [minci,mincissant,mincit], "rendre mince").
+entrée(slime, v, [slimed, sliming, slimes], "couvrir de boue visqueuse").
+entrée(slimier, comparatif, [], "de visqueux").
+entrée(glissant, superlatif, [], "de visqueux").
+entry(limoneusement, adv, [], "d'une manière visqueuse").
+entrée(amincissant, présent, [], "participe de slime").
+entrée(slimline, adj, [], "mince en conception ou en construction").
+entrée(slimly, adv, [], "de manière mince").
+entrée(amaigri, passé, [], "temps de amincir").
+entrée(minceur, n, [minceurs], "un régimeur").
+entry(le_plus_mince, superlatif, [], "de mince").
+entrée(amincissement, n, [amincissements], "la réduction de son poids").
+entrée(minceur, n, [minceurs], "l'état d'être mince").
+entrée(slimpsy, adj, [], "SLIMPSIER SLIMPSIESTslimsy").
+entrée(slimsy, adj, [], "SLIMSIER SLIMSIESTflimsy").
+entry(visqueux, adj, [], "PLUS VISQUEUX LE PLUS VISQUEUX ressemblant à du mucus").
+entrée(sling, v, [slung,slinging,slings], "lancer avec un mouvement soudain").
+entrée(frondeur, n, [frondeurs], "celui qui lance").
+entrée(slink, v, [slinked,slinking,slinks], "se déplacer furtivement").
+entrée(slinky, adj, [], "SLINKIER SLINKIESTfurtifSLINKILY adv").
+entrée(glisser, v, [glissé,glissant,glisse], "glisser soudainement et par accident").
+entrée(étui, n, [étuis], "une boîte de protection pour un livre").
+entrée(slipe, v, [sliped, sliping, slipes], "éplucher").
+entrée(coulisse, v, [coulissé,coulissant,coulisses], "construire à l'aide d'un moule dans lequel le béton est placé pour durcir").
+entrée(slipknot, n, [slipknots], "un type de nœud").
+entrée(slipless, adj, [], "sans erreurs").
+entrée(slipout, n, [slipouts], "un encart dans un journal").
+entrée(slipover, n, [slipovers], "un pull").
+entrée(glissement, n, [glissements], "une déviation d'un standard ou niveau").
+entrée(glissé, a, [], "temps passé de glisser").
+entrée(pantoufle, n, [pantoufles], "une chaussure légère et basse").
+entrée(glissant, adj, [], "PLUS GLISSANT LE PLUS GLISSANTprovoquant ou tendance à provoquer des glissades").
+entrée(glissant, présent, [], "participe de slip").
+entrée(slippy, adj, [], "PLUS GLISSANT LE PLUS GLISSANTglissantGLISSANT adv").
+entrée(slipshod, adj, [], "fait ou réalisé sans soin").
+entry(glouglou, n, [glouglous], "nourriture aqueuse").
+entrée(semelle_fine, n, [semelles_fines], "une semelle fine").
+entrée(glissé, a, [], "passé du verbe glisser").
+entrée(gaffe, n, [gaffes], "une erreur").
+entrée(slipware, n, [slipwares], "un type de poterie").
+entrée(calai, n, [calais], "une zone en pente vers l'eau dans un chantier naval").
+entrée(fente, v, [fendu, fendage, fentes], "faire une fente une entaille longue et étroite dans").
+entrée(glisser, v, [glissé,glissant,glisse], "se déplacer en glissant d'un côté à l'autre").
+entrée(glissant, adj, [], "glissant").
+entrée(sans_fente, adj, [], "n'ayant aucune fente").
+entrée(fente, adj, [], "ressemblant à une fente").
+entrée(slitée, passé, [], "temps du verbe fendre").
+entrée(trancheuse, n, [trancheuses], "celui qui tranche").
+entrée(incision, présent, [], "participe de slit").
+entrée(slitty, adj, [], "PLUS LONG ET ÉTROIT LE PLUS LONG ET ÉTROIT").
+entrée(lamelle, v, [lamellé, lamellant, lamelles], "couper en longues fines pièces").
+entrée(trancheur, n, [trancheurs], "celui qui tranche").
+entrée(slivovic, n, [slivovices], "une eau-de-vie de prune").
+entry(trouillard, n, [trouillards], "une personne négligée ou grossière").
+entry(baver, v, [bavé,bavant,bave], "saliver").
+entry(baveux, adj, [], "baveux").
+entrée(slobbish, adj, [], "ressemblant à un slob").
+entrée(slobby, adj, [], "PLUS SLOBBIER SLOBBIESTcaractéristique d'un slob").
+entrée(prunelle, n, [prunelles], "un fruit semblable à une prune").
+entrée(slog, v, [slogged,slogging,slogs], "piétiner").
+entrée(slogan, n, [slogans], "un slogan adopté par un groupeSLOGANED adj").
+entrée(slogger, n, [sloggers], "celui qui peine").
+entrée(sloid, n, [sloids], "sloyd").
+entrée(slojd, n, [slojds], "sloyd").
+entrée(slomo, n, [slomos], "ralenti").
+entry(sloop, n, [sloups], "un type de navire à voile").
+entrée(slop, v, [sloppa, sloppant, slops], "déborder ou éclabousser").
+entrée(pente, v, [penché, penchant, pentes], "s'incliner").
+entrée(penteur, n, [penteurs], "quelqu'un qui incline").
+entrée(sloppy, adj, [], "SLIPPLUS SLIPLEMESSieSLIPPE adv").
+entrée(slopwork, n, [slopworks], "la fabrication de vêtements bon marché").
+entry(remuer, v, [remué,remuant,remue], "se déplacer avec un mouvement de clapotis").
+entry(sloshy, adj, [], "PLUS SLOSHY LE PLUS SLOSHYslushy").
+entrée(emplacement, v, [fendu,fendant,emplacements], "faire une longue ouverture étroite dans").
+entrée(demi inséré, n, [demis insérés], "un type de joueur de football").
+entry(paresseux, n, [paresseux], "un mammifère arboricole à mouvement lent").
+entry(paresseux, adj, [], "lent").
+entrée(crénelée, passée, [], "temps de créneau").
+entrée(slotter, n, [slotters], "une machine pour rainurer").
+entrée(emboîtant, présent, [], "participe de slot").
+entry(se_vouter, v, [se_vouta,se_voutant,se_voute], "s'asseoir se tenir ou se déplacer avec une posture affaissée").
+entrée(sloucher, n, [slouchers], "celui qui se voûte").
+entrée(mou, adj, [], "PLUS MOU LE PLUS MOUaffalé").
+entrée(slough, v, [desquamé, desquamant, desquame], "se débarrasser de").
+entrée(sloughy, adj, [], "SLOUGHIER SLOUGHIESTmiry").
+entrée(slovaud, n, [slovauds], "une personne négligée").
+entrée(débraillé, adj, [], "DÉBRAILLÉ DÉBRAILLÉEhabituellement désordonné ou sale").
+entrée(lent, adj, [], "PLUS LENT LE PLUS LENT se déplaçant avec peu de vitesse").
+entry(lent, v, [ralenti,ralentissant,ralentit], "réduire la vitesse de").
+entry(ralentissement, n, [ralentissements], "une diminution de la vitesse").
+entrée(lentement, adj, [], "quelque peu lent").
+entrée(lentement, adv, [], "d'une manière lente").
+entrée(lenteur, n, [lenteurs], "l'état d'être lent").
+entrée(lent, n, [lents], "un individu lent").
+entrée(orvet, n, [orvets], "un lézard européen sans pattes").
+entrée(sloyd, n, [sloyds], "un système suédois de formation manuelle").
+entrée(slub, v, [slubbé,slubbant,slubs], "tirer et tordre légèrement").
+entrée(slubber, v, [slubbered, slubbering, slubbers], "salir ou souiller").
+entry(aiguilletage, n, [aiguilletages], "un rouleau légèrement tordu de fibres textiles").
+entrée(boue, v, [boué,bouage,boues], "former de la boue une masse ou un sédiment boueux").
+entrée(sludgy, adj, [], "PLUS_BOUILLASSEUX LE_PLUS_BOUILLASSEUXcouverte de boue").
+entrée(slue, v, [slued,sluant,slues], "faire se déplacer latéralement").
+entrée(sluff, v, [sluffed, sluffant, sluffs], "se défausser d'une carte ou de cartes").
+entrée(limace, v, [limacé, limaçant, limaces], "frapper lourdement").
+entry(paresseux, n, [paresseux], "personne ayant tendance à rester au lit par paresse").
+entrée(slugfest, n, [slugfests], "un combat vigoureux").
+entrée(paresseux, n, [paresseux], "une personne habituellement paresseuse").
+entrée(slugged, passé, [], "temps de slug").
+entrée(cogneur, n, [cogneurs], "celui qui cogne").
+entrée(battant, présent, [], "participe de frapper").
+entrée(lent, adj, [], "montrant peu de mouvement ou d'activité").
+entry(écluse, v, [éclusé,éclusant,écluses], "laver avec un flux soudain d'eau").
+entrée(sluicy, adj, [], "qui tombe en ruisseaux").
+entry(sluant, présent, [], "participe de sluer").
+entrée(bidonville, v, [bidonvillisé,bidonvillisant,bidonvillises], "visiter des bidonvilles zones urbaines sordides").
+entrée(slumber, v, [slumbered,slumbering,slumbers], "dormir").
+entry(somnolent, adj, [], "endormi").
+entrée(slumgum, n, [slumgums], "le résidu restant après l'extraction du miel d'un rayon de miel").
+entrée(slumisme, n, [slumismes], "la prévalence des bidonvilles").
+entry(propriétaire_de_bidonville, n, [propriétaires_de_bidonvilles], "un propriétaire de biens dans les bidonvilles").
+entrée(slummed, passé, [], "temps de slum").
+entrée(slummer, n, [slummers], "celui qui vit dans des taudis").
+entrée(squattant, présent, [], "participe de squat").
+entrée(délabré, adj, [], "PLUS DÉLABRÉ LE PLUS DÉLABRÉ ressemblant à un bidonville").
+entrée(slump, v, [affaissé, affaissant, affaisse], "tomber ou s'affaisser soudainement").
+entry(slumpy, adj, [], "PLUS SLUMPIER LE PLUT SLUMPIESTcaractérisé par une baisse de valeur ou de montant").
+entrée(frisé, passé, [], "temps de lancer").
+entrée(slunk, a, [], "passé du verbe slink").
+entrée(slur, v, [slurred,slurring,slurs], "passer légèrement ou négligemment").
+entry(slurb, n, [slurbs], "une zone suburbaine mal planifiéeSLURBAN adj").
+entrée(slurp, v, [slurped, slurping, slurps], "manger ou boire bruyamment").
+entrée(slurpy, adj, [], "SLURPIER SLURPIESTcaractérisé par le son de succion produit lors de l'aspiration").
+entrée(bouillie, v, [bouillié,bouillissant,bouillies], "transformer en un type de mélange aqueux").
+entry(slurve, n, [slurves], "un type de lancer au baseball").
+entrée(slush, v, [slushed, slushing, slushes], "éclabousser avec de la neige partiellement fondue").
+entry(glacé, n, [glacés], "une confection composée de glace pilée aromatisée").
+entrée(slushy, adj, [], "PLUS BOUILLASSEUX BOUILLASSEUXSEST ressemblant à de la boue EN BOUILLAUMIN adv").
+entrée(salope, n, [salopes], "une femme négligéeSALOPE adj").
+entry(salope, adj, [], "PLUS SALOPE LA PLUS SALOPEcaractéristique d'une salope").
+entrée(sly, adj, [], "SLIER SLIEST ou SLYER SLYESTastucieusementSLYLY adv").
+entrée(slyboots, n, [slyboots], "une personne rusée").
+entry(ruse, n, [ruses], "la qualité ou l'état d'être rusé").
+entrée(slype, n, [slypes], "un passage étroit dans une cathédrale anglaise").
+entrée(claque, v, [claqué,claquant,claques], "frapper avec force").
+entrée(smacker, n, [smackers], "celui qui frappe").
+entrée(petit, adj, [], "PLUS PETIT LE PLUS PETITde taille ou de quantité limitée").
+entrée(petit, n, [petits], "une petite partie").
+entry(petiteage, n, [petiteages], "un céleri sauvage").
+entrée(petito,t adj, [], "quelque peu petit").
+entrée(variole, n, [varioles], "une maladie virale").
+entrée(smalt, n, [smalts], "un pigment bleu").
+entrée(smalti, a, [], "pl de smalto").
+entrée(smaltine, n, [smaltines], "smaltite").
+entrée(smaltite, n, [smaltites], "un minéral").
+entrée(smalto, n, [smaltos], "ou SMALTIverre coloré utilisé dans les mosaïques").
+entrée(smaragd, n, [smaragds], "une émeraude").
+entrée(smaragde, n, [smaragdes], "smaragd").
+entry(fronde, v, [frondé, fronçant, frondes], "utiliser une flatterie excessive pour obtenir des faveurs").
+entrée(smarmy, adj, [], "PLUS SMARMIER LE PLUS SMARMIESTmarqué par une flatterie excessiveSMARMILY adv").
+entrée(intelligent, adj, [], "PLUS INTELLIGENT LE PLUS INTELLIGENTcaractérisé par une acuité mentaleINTELLIGENT adj").
+entrée(intelligent, v, [intelligé,intelligente,intelligents], "provoquer une douleur aiguë et cuisante").
+entrée(smartass, n, [smartasses], "un malin").
+entrée(smarten, v, [smarténé, smarténant, smartène], "améliorer l'apparence").
+entrée(smartie, n, [smarties], "malin").
+entry(intelligemment, adv, [], "d'une manière intelligente").
+entrée(smarty, n, [smarties], "une personne désagréablement vaniteuse").
+entry(briser, v, [brisé,brisant,brise], "casser violemment").
+entrée(smasher, n, [smashers], "celui qui écrase").
+entrée(smashup, n, [smashups], "une collision de véhicules à moteur").
+entry(smatter, v, [smattered,smattering,smatters], "parler avec peu de connaissance").
+entrée(smaze, n, [smazes], "un mélange atmosphérique de fumée et de brume").
+entry(tartiner, v, [tartiné,tartinant,tartine], "étaler avec une substance collante, grasse ou sale").
+entrée(smearer, n, [smearers], "celui qui salit").
+entrée(smeary, adj, [], "SMEARIER SMEARIESTsmeared").
+entrée(smectique, adj, [], "relatif à une phase d'un cristal liquide").
+entrée(smectite, n, [smectites], "un minéral argileux").
+entrée(smeddum, n, [smeddums], "poudre de malt moulu").
+entrée(smeek, v, [smeeked, smeeking, smeeks], "fumer").
+entry(smegma, n, [smegmas], "sébum").
+entrée(odorat, v, [senti, sentant, sent], "percevoir par le biais des nerfs olfactifs").
+entrée(senteur, n, [senteurs], "celui qui sent").
+entrée(puante, adj, [], "PLUS PUANTE LA PLUS PUANTEayant une odeur désagréable").
+entrée(fondre, v, [fondu, fondant, fond], "faire fondre ou fusionner des minerais").
+entrée(fondeur, n, [fondeurs], "celui qui fond").
+entry(fonderie, n, [fonderies], "un endroit pour la fusion").
+entrée(fonte, n, [fontes], "le processus de fusion des minerais pour obtenir du métal").
+entrée(smerk, v, [smerked,smerking,smerks], "faire un rictus").
+entrée(harle_piette, n, [harles_piettes], "un canard eurasien").
+entrée(smidge, n, [smidges], "une pincée").
+entrée(smidgen, n, [smidgens], "une très petite quantité").
+entrée(smidgeon, n, [smidgeons], "smidgen").
+entrée(smidgin, n, [smidgins], "un peu").
+entrée(smilax, n, [smilaxes], "une plante grimpante").
+entrée(sourire, v, [souri, souriant, sourit], "lever les coins de la bouche par plaisir").
+entry(smiler, n, [sourireurs], "celui qui sourit").
+entrée(smiley, n, [smileys], "ou SMILIES une représentation d'un visage souriant").
+entry(smiley, adj, [], "AFFICHANT UN SOURIRE").
+entrée(smirch, v, [smirched,smirching,smirches], "salir").
+entrée(smirk, v, [smirked, smirking, smirks], "sourire d'une manière affectée ou suffisante").
+entrée(smirker, n, [smirkers], "celui qui sourit en coin").
+entrée(smirky, adj, [], "SMIRKIERSMIRKIESTsmirkingSMIRKILY adv").
+entrée(frapper, v, [frappé,frappant,frappe], "frapper lourdement").
+entrée(frappeur, n, [frappeurs], "celui qui frappe").
+entry(smith, n, [smiths], "un ouvrier en métaux").
+entrée(smithers, npl, [], "petits fragments").
+entry(smithery, n, [smitheries], "le métier de forgeron").
+entrée(forge, n, [forges], "le travail d'un forgeron").
+entrée(smithy, n, [forges], "l'atelier d'un forgeron").
+entrée(frapper, présent, [], "participe de frapper").
+entrée(frappé, a, [], "participe passé de frapper").
+entrée(smock, v, [smocked, smocking, smocks], "fournir un tablier ample").
+entrée(smocking, n, [smockings], "un type de broderie").
+entry(smog, n, [smogs], "un mélange atmosphérique de fumée et de brouillardSMOGLESS adj").
+entrée(brumeux, adj, [], "PLUS_BRUMEUX_le_PLUS_BRUMEUX rempli de smog").
+entry(fumer, v, [fumé,fumant,fume], "émettre de la fumée, le produit gazeux de matériaux en combustionFUMABLE adj").
+entrée(smokebox, n, [smokeboxes], "une chambre pour produire et contenir de la fumée").
+entrée(smokepot, n, [smokepots], "un récipient pour émettre de la fumée").
+entry(fumeur, n, [fumeurs], "celui qui fume").
+entrée(fumé, adj, [], "PLUS FUMÉ LE PLUS FUMÉ fumé").
+entrée(smokey, n, [smokeys], "ou SMOKIES, un agent de police qui patrouille sur les autoroutes").
+entrée(smokie, n, [smokies], "une saucisse ou un hot dog").
+entrée(fumer, n, [fumages], "l'inhalation et l'expiration de la fumée de tabac ou d'une drogue").
+entrée(fumé, adj, [], "PLUS FUMÉ TRÈS FUMÉ rempli de fumée FUMÉE adv").
+entrée(se consumer, v, [s'est consumé, se consumant, se consume], "brûler sans flamme").
+entrée(smolt, n, [smolts], "un jeune saumon").
+entrée(smooch, v, [smooched, smooching, smooches], "embrasser").
+entrée(smoocher, n, [smoochers], "quelqu'un qui embrasse").
+entry(smoochy, adj, [], "PLUS BISOUS LE PLUS BISOUSSé adapté aux bisous").
+entrée(smoosh, v, [smooshed,smooshing,smooshes], "écraser").
+entrée(lisse, adj, [], "PLUS LISSE LE PLUS LISSEayant une surface exempte d’irrégularités").
+entrée(lisse, v, [lissé, lissage, lissent], "ou LISSEpour rendre lisse").
+entry(smoother, v, [lissé, lissage, lisse], "adoucir").
+entrée(smoothen, v, [lissé,lissage,lisse], "adoucir").
+entrée(lisseur, n, [lisseurs], "celui qui lisse").
+entrée(smoothie, n, [smoothies], "une personne aux manières raffinées").
+entry(doucement, adv, [], "d'une manière douce").
+entrée(smoothy, n, [smoothies], "smoothie").
+entrée(smorg, n, [smorgs], "un buffet").
+entrée(smote, passé, [], "temps de smite").
+entrée(étouffer, v, [étouffé,étouffant,étouffe], "empêcher de respirer").
+entrée(smothery, adj, [], "qui tend à étouffer").
+entrée(étouffer, v, [étouffé,étouffant,étouffe], "étouffer").
+entrée(smriti, n, [smritis], "un texte d'enseignements religieux hindous").
+entrée(smudge, v, [smudged, smudging, smudges], "bavurer ou salir").
+entry(smudging, n, [étalements], "l'acte d'étaler").
+entrée(smudgy, adj, [], "PLUS SMUDGY LE PLUS SMUDGYsmudgedSMUDGILLEMENT adv").
+entrée(smug, adj, [], "TRÈS SATISFAIT DE SOI SMUGGER SMUGGEST").
+entry(contrebande, v, [contrebanda,contrebandant,contrebande], "importer ou exporter illicitement").
+entrée(contrebandeir, n, [contrebandiers], "celui qui fait de la contrebande").
+entry(fièrement, adv, [], "d'une manière fière").
+entry(arrogance, n, [arrogances], "la qualité ou l'état d'être arrogant").
+entrée(smush, v, [smushed,smushing,smushes], "écraser").
+entrée(smut, v, [smutta, smuttant, smuts], "salir").
+entrée(smutch, v, [smutched, smutching, smutches], "barbouiller").
+entrée(smutchy, adj, [], "SMUTCHIER SMUTCHIESTsmudgy").
+entrée(smutty, adj, [], "PLUS SMUTTY LE PLUS SMUTTYobscèneSMUTTILY adv").
+entrée(snack, v, [snacked,snacking,snacks], "manger un repas léger").
+entrée(snacker, n, [snackers], "celui qui grignote").
+entrée(snacky, adj, [], "SNACKIER SNACKIESTadapté comme un repas léger").
+entry(snaffle, v, [snafflé,snafflant,snaffle], "obtenir par des moyens détournés").
+entrée(snafu, v, [snafued, snafuing, snafus], "amener dans un état de confusion").
+entry(accrocher, v, [accroché, accrochant, accroches], "attraper sur une aspérité ou une protubérance").
+entrée(snagger, n, [snaggers], "une personne qui utilise des méthodes de pêche illégales").
+entrée(snaggle, n, [snaggles], "une masse enchevêtrée ou nouée").
+entrée(snaggy, adj, [], "PLEINE DE DIFFICULTÉS").
+entrée(snaglike, adj, [], "ressemblant à un obstacle").
+entrée(escargot, v, [escargoté,escargotant,escargote], "se déplacer lentement").
+entrée(serpent, v, [serpenté,serpentant,serpents], "se déplacer comme un serpent un reptile sans membres").
+entrée(mordu_par_un_serpent, adj, [], "malchanceux").
+entrée(fosse_aux_serpents, n, [fosses_aux_serpents], "un hôpital psychiatrique").
+entry(snakey, adj, [], "PLUS SERPENT, LE PLUS SERPENTsnaky").
+entrée(serpentant, présent, [], "participe de snake").
+entrée(snakish, adj, [], "ressemblant à un serpent").
+entry(snaky, adj, [], "PLUS SERPENTIN LE PLUS SERPENTIN ressemblant à un serpentSERPENTINEMENT adv").
+entrée(craquer, v, [craqué, craquant, craque], "produire un bruit sec de craquement").
+entrée(snapback, n, [snapbacks], "un rebond ou rétablissement soudain").
+entrée(sans_bouton_pression, adj, [], "manquant d'un bouton-pression, un type de dispositif de fixation").
+entrée(snapper, n, [snappers], "celui qui claque").
+entrée(plus_vif, comparatif, [], "de vif").
+entrée(snappiest, superlatif, [], "de vif").
+entrée(vivement, adv, [], "de manière vive").
+entrée(snapping, présent, [], "participe de snap").
+entry(irritable, adj, [], "tendant à parler de manière impatiente ou irritable").
+entrée(snappy, adj, [], "PLUS_SNAPPY LE_PLUS_SNAPPYsnappish").
+entrée(cliché, v, [cliché, clichés, clichétant], "photographier de manière informelle et rapide").
+entrée(pimprenelle, n, [pimprenelles], "une plante à fleurs").
+entry(tambour, v, [tambouriné,tambourinant,tambourine], "piéger").
+entrée(snarer, n, [snarers], "celui qui piège").
+entry(snarf, v, [snarfé,snarfant,snarfs], "manger ou boire avidement").
+entrée(snarfle, v, [snarfled, snarfling, snarfles], "snarfer").
+entry(piégeant, présent, [], "participe de piéger").
+entrée(snark, n, [snarks], "un animal imaginaire").
+entrée(sarcastique, adj, [], "PLUS SARCASTIQUE LE PLUS SARCASTIQUE caustique SARCASMIQUEMENT adv").
+entrée(snarl, v, [snarled,snarling,snarls], "grogner vicieusement").
+entrée(snarler, n, [snarlers], "celui qui gronde").
+entrée(snarly, adj, [], "PLUS SNARLY PLUS SNARLYtordu").
+entrée(snash, n, [snashes], "langage abusif").
+entry(attraper, v, [attrapé, attrapant, attrape], "saisir soudainement").
+entry(snatcher, n, [ravisseurs], "celui qui ravit").
+entry(snatchy, adj, [], "SURVENANT SURVENANT DE MANIÈRE IRRÉGULIÈRE").
+entrée(snath, n, [snaths], "le manche d'une faux").
+entrée(snathe, n, [snathes], "manche de faux").
+entrée(neiger, v, [neigé,neigeant,neige], "to snow").
+entrée(snazzy, adj, [], "SNAZZIER SNAZZIESTtrès élégantSNAZZILY adv").
+entry(sneak, v, [faufilé,faufilant,faufile], "se déplacer furtivement").
+entrée(sneakbox, n, [sneakboxes], "un petit bateau camouflé avec des broussailles et des mauvaises herbes utilisé pour la chasse aux oiseaux aquatiques").
+entrée(basket, n, [baskets], "celui qui se faufile").
+entry(sneaky, adj, [], "PLUS SOURNOIS LE PLUS SOURNOIStrompeurSOURNOISEMENT adv").
+entrée(sneap, v, [sneaped,sneaping,sneaps], "gronder").
+entrée(sneck, n, [snecks], "un loquet").
+entry(sned, v, [snedded,snedding,sneds], "élaguer").
+entrée(narguer, v, [nargué, narguant, nargue], "relever la lèvre avec mépris").
+entrée(sneerer, n, [railleurs], "celui qui raille").
+entrée(sneerful, adj, [], "enclin à ricaner").
+entrée(sneery, adj, [], "PLUS SARDONIQUE SARDONIQUE MARQUÉ PAR LE SARDONISME").
+entry(sneesh, n, [sneeshes], "tabac à priser").
+entrée(eternuer, v, [eternué,éternuant,éternue], "expirer soudainement et involontairement").
+entrée(éternueur, n, [éternueurs], "celui qui éternue").
+entrée(sneezy, adj, [], "SNEEZIER SNEEZIESTtendant à éternuer").
+entrée(snell, adj, [], "PLUS SNELLE PLUS SNELLE incisif").
+entrée(snell, v, [snelled,snelling,snells], "attacher une courte ligne à un hameçon").
+entry(snib, v, [snibbé,snibbing,snibs], "verrouiller").
+entrée(snick, v, [snicked, snicking, snicks], "entailler").
+entry(ricaner, v, [ricané, ricanant, ricanes], "émettre un rire à moitié étouffé").
+entrée(snickery, adj, [], "ayant tendance à ricaner").
+entrée(sournois, adj, [], "SNIDER SNIDESTmalicieusement péjoratifSNIDELY adv").
+entry(sniffer, v, [reniflé,reniflant,renifle], "inhaler audiblement par le nez").
+entrée(sniffer, n, [renifleurs], "celui qui renifle").
+entrée(sniffier, comparatif, [], "de sniffy").
+entrée(sniffiest, superlatif, [], "de sniffy").
+entrée(sniffily, adv, [], "d'une manière dédaigneuse").
+entrée(sniffish, adj, [], "hautain").
+entrée(renifler, v, [reniflé,reniflant,renifle], "renifler à plusieurs reprises").
+entrée(sniffleur, n, [sniffleurs], "celui qui renifle").
+entrée(sniffly, adj, [], "RENIFLANT RENIFLANTQue reniflent").
+entry(sniffy, adj, [], "SNIFFIER SNIFFIESTsniffish").
+entrée(snifter, n, [snifters], "un verre à liqueur en forme de poire").
+entrée(ricaner, v, [ricana,ricanant,ricanements], "rire sous cape").
+entry(sniggle, v, [sniggled,sniggling,sniggles], "pêcher des anguilles").
+entrée(sniggler, n, [snigglers], "celui qui fait de la pêche à la ligne").
+entrée(sniglet, n, [sniglets], "un mot inventé pour quelque chose n'ayant pas de nom").
+entrée(coup, v, [coupé,coupant,coups], "couper avec un mouvement rapide et bref").
+entrée(snipe, v, [sniped,sniping,snipes], "tirer sur des individus depuis un endroit caché").
+entrée(sniper, n, [snipers], "celui qui tire à distance").
+entry(fusillade, n, [fusillades], "l'acte de celui qui tire à distance").
+entrée(coupé, passé, [], "temps de couper").
+entrée(snipper, n, [découpeurs], "celui qui découpe").
+entry(extrait, n, [extraits], "un petit morceau découpé").
+entrée(snippety, adj, [], "SNIPPETIER SNIPPETIESTsnippy").
+entrée(coupure, n, [coupures], "un morceau de quelque chose qui a été coupé").
+entry(snippy, adj, [], "PLUS SNIPPY LE PLUS SNIPPYirritableSNIPPILY adv").
+entry(snit, n, [snits], "un état d'agitation").
+entrée(rapporter, v, [rapporté, rapportant, rapporte], "faire des commérages").
+entry(rapporteur, n, [rapporteurs], "celui qui rapporte").
+entry(snitty, adj, [], "SNITTIER SNITTIESTdésagréablement mal luné").
+entry(se moucher, v, [mouché, mouchant, moucher], "ou MOUCHÉE MOUCHANT MOUCHERpleurer ou pleurnicher avec reniflements").
+entry(sniveleur, n, [sniveleurs], "celui qui pleurniche").
+entry(snivelly, adj, [], "ayant tendance à pleurnicher en reniflant").
+entrée(snob, n, [snobs], "celui qui tend à éviter ou repousser ceux qu'il considère comme inférieurs").
+entrée(snobisme, n, [snobismes], "comportement snob").
+entry(plus_snob, comparatif, [], "de snob").
+entrée(snobbiest, superlatif, [], "de snob").
+entry(sur un ton snob, adv, [], "d'une manière snob").
+entry(snobin, adj, [], "caractéristique d'un snob").
+entrée(snobisme, n, [snobismes], "snobisme").
+entrée(snobby, adj, [], "PLUS SNOB LE PLUS SNOBsnob").
+entrée(snocoach, n, [snocoaches], "un véhicule semblable à un bus avec de grands pneus ou des chenilles pour se déplacer sur la neige").
+entrée(snog, v, [snogged,snogging,snogs], "embrasser").
+entrée(snogger, n, [snoggers], "celui qui galope").
+entrée(snood, v, [snoodé,snoodant,snoods], "fixer avec un snood un filet ou une coiffe en tissu pour les cheveux").
+entrée(snook, v, [snooked,snooking,snooks], "renifler").
+entrée(billard, v, [snooké,snookant,snooke], "tromper").
+entry(snool, v, [snooled,snooling,snools], "céder docilement").
+entrée(snoop, v, [espionné, espionnant, espionne], "fouiner").
+entrée(snooper, n, [espions], "celui qui espionne").
+entrée(snoopy, adj, [], "SNOOPIER SNOOPIESTenclin à fouinerSNOOPILY adv").
+entrée(snoose, n, [snooses], "tabac à mâcher").
+entrée(snoot, v, [snooted,snooting,snoots], "traiter avec dédain").
+entrée(snootful, n, [snootfuls], "assez de boisson alcoolisée pour enivrer").
+entrée(snooty, adj, [], "PLUS SNOOTY LE PLUS SNOOTYsnobSNOOTEMENT adv").
+entrée(sommeiller, v, [sommeillé, somnolant, sommeille], "dormir légèrement").
+entrée(snoozer, n, [snoozers], "celui qui sommeille").
+entrée(snoozle, v, [snoozlé,snoozlant,snoozles], "caresser avec le nez").
+entry(snoozy, adj, [], "SNOOZIER SNOOZIESTsomnolent").
+entry(ronfler, v, [ronflé, ronflant, ronfle], "respirer bruyamment en dormant").
+entry(snor, n, [ronfleurs], "celui qui ronfle").
+entrée(ronflement, n, [ronflements], "l'acte de respirer bruyamment pendant le sommeil").
+entrée(snorkel, v, [snorkelé,snorkeler,snorkel], "nager sous l'eau avec un type d'appareil respiratoire").
+entrée(renifler, v, [reniflé, reniflant, renifle], "expirer bruyamment par les narines").
+entrée(renifleur, n, [renifleurs], "celui qui renifle").
+entrée(snot, n, [mucosités], "mucus nasal").
+entry(snotty, adj, [], "PLUS SNOTTY LE PLUS SNOTTYarrogantSNOTTEMENT adv").
+entry(museau, v, [museautés, museautant, museaux], "fournir avec une buse").
+entrée(snoutish, adj, [], "caréné").
+entry(snouty, adj, [], "RESSEMBLANT À UN LONG NEZ PROÉMINENT").
+entrée(neige, v, [neigé,neigeant,neige], "tomber sous forme de précipitation neigeuse en cristaux de glace").
+entrée(boule_de_neige, v, [boule_de_neigé,boule_de_neigeant,boules_de_neige], "augmenter à un rythme très rapide").
+entrée(banc_de_neige, n, [bancs_de_neige], "un monticule de neige").
+entrée(neigeau, n, [neigeaux], "un arbuste à fleurs").
+entrée(snowbelt, n, [snowbelts], "une région qui reçoit une quantité appréciable de neige chaque année").
+entrée(junco, n, [juncos], "un petit oiseau").
+entrée(neige_BUISSON, n, [neige_BUISSONS], "un arbuste fleuri").
+entrée(snowcap, n, [snowcaps], "une couverture de neige").
+entrée(snowcat, n, [snowcats], "un véhicule à chenilles pour se déplacer sur la neige").
+entrée(perce-neige, n, [perce-neiges], "une herbe européenne").
+entrée(chute_de_neige, n, [chutes_de_neige], "une chute de neige").
+entry(puces des neiges, n, [pucesDesNeiges], "un insecte sans ailes apparaissant sur la neige au printemps").
+entry(nivé, comparatif, [], "de neigeux").
+entrée(snowiest, superlatif, [], "de neigeux").
+entrée(neigeusement, adv, [], "d'une manière neigeuse").
+entrée(neigeterre, n, [neigeterres], "une zone marquée par une grande quantité de neige").
+entrée(sans_neige, adj, [], "n'ayant pas de neige").
+entrée(snowlike, adj, [], "ressemblant à de la neige").
+entry(bonhomme_de_neige, n, [bonshommes_de_neige], "une figure d'une personne faite de neige").
+entrée(fonte_des_neiges, n, [fontes_des_neiges], "eau produite par la fonte de la neige").
+entrée(moisissure_des_neiges, n, [moisissures_des_neiges], "une maladie fongique des herbes près de la bordure de la neige fondante").
+entrée(neige, n, [neiges], "une accumulation de neige compactée").
+entrée(déneiger, v, [déneigé,déneigement,déneige], "exécuter une sorte de manœuvre de ski").
+entrée(abri_antineige, n, [abris_antineige], "une structure construite pour fournir une protection contre la neige").
+entrée(raquette, v, [raquetté, raquetter, raquettes], "marcher avec des raquettes, des cadres ovales qui permettent à une personne de marcher sur une neige profonde").
+entrée(combinaison_de_neige, n, [combinaisons_de_neige], "un vêtement d'enfant pour l'hiver").
+entrée(neigeux, adj, [], "PLUS NEIGEUX LE PLUS NEIGEUXabondant en neige").
+entrée(snub, v, [snubbed,snubbing,snubs], "traiter avec mépris ou négligence").
+entrée(snubber, n, [snubbers], "celui qui rabroue").
+entry(snubby, adj, [], "PLUS ÉCRASÉ ÉCRASÉ LE PLUS ARTICULÉ").
+entrée(froideur, n, [froideurs], "brusquerie").
+entrée(snuck, a, [], "passé de sneak").
+entrée(snuff, v, [snuffed, snuffing, snuffs], "utiliser ou inhaler du tabac à priser en poudre").
+entrée(tabatière, n, [tabatières], "une boîte pour contenir du tabac à priser").
+entrée(snuffer, n, [snuffers], "celui qui éteint").
+entrée(snuffier, comparatif, [], "de snuffy").
+entrée(snuffiest, superlatif, [], "de snuffy").
+entrée(snuffily, adv, [], "d'une manière morveuse").
+entrée(renifler, v, [reniflé, reniflant, renifle], "renifler").
+entrée(snuffler, n, [snufflers], "celui qui renifle").
+entrée(snuffly, adj, [], "SNUFFLIER SNUFFLIESTayant tendance à renifler").
+entrée(snuffy, adj, [], "SNUFFIER SNUFFIESTsordide").
+entry(confortable, adj, [], "CONFORTABLE PLUS_CONFORTABLEle confort chaleureux").
+entrée(ajuster, v, [ajusté, ajustant, ajuste], "rendre ajusté").
+entrée(snuggery, n, [snuggeries], "un endroit douillet").
+entrée(plussnug, superlatif, [], "de snug").
+entrée(snuggies, npl, [], "sous-vêtements longs pour femmes").
+entrée(emmaillotant, présent, [], "participe de emmailloter").
+entrée(câliner, v, [câliné,câlinant,câlines], "se blottir ou presser étroitement").
+entrée(confortable, adj, [], "PLUSCONFORTABLE LEPLUSCONFORTABLEchaud et douillet").
+entry(confortablement, adv, [], "de manière confortable").
+entrée(confort, n, [conforts], "la qualité ou l'état d'être confortable").
+entrée(snye, n, [snyes], "un bras secondaire d'une rivière ou d'un ruisseau").
+entrée(sol, n, [sos], "sol").
+entrée(tremper, v, [trempé,trempant,trempe], "mouiller quelque chose complètement").
+entry(imbibition, n, [imbibitions], "l'acte de tremper").
+entrée(trempeur, n, [trempeurs], "celui qui trempe").
+entrée(trempage, n, [trempages], "l'action de mouiller quelque chose complètement").
+entrée(savon, v, [savonné,savonnant,savons], "traiter avec du savon un agent nettoyant").
+entrée(bois_de_savon, n, [bois_de_savons], "un arbre tropical").
+entry("boîte à savon", v, ["a harangué","haranguant","harangues"], "faire un discours improvisé et passionné dans la rue").
+entrée(savonnette, n, [savonnettes], "un mélodrame en série à la radio ou à la télévision").
+entry(serran, n, [serrans], "un poisson tropical qui produit du mucus toxique").
+entrée(plus_savonneux, comparatif, [], "de savonneux").
+entry(soapiest, superlatif, [], "de savonneux").
+entrée(soapily, adv, [], "d'une manière savonneuse").
+entry(sans_savon, adj, [], "n'ayant pas de savon").
+entrée(savonneux, adj, [], "ressemblant à du savon").
+entrée(eaumoussante, npl, [], "eau savonneuse").
+entry(saponnaire, n, [saponnaires], "une herbe vivace").
+entrée(savonneux, adj, [], "PLUS SAVONNEUX LE PLUS SAVONNEUX contenant ou ressemblant à du savon").
+entrée(soar, v, [soared, soaring, soars], "voler à une grande hauteur").
+entrée(planeur, n, [planeurs], "celui qui plane").
+entry(vol à voile, n, [vols à voile], "le sport de voler dans un aéronef plus lourd que l'air sans moteur").
+entrée(soave, n, [soaves], "un vin italien").
+entrée(sob, v, [sangloté, sanglotant, sanglote], "pleurer avec une prise convulsive du souffle").
+entrée(soba, n, [sobas], "une nouille japonaise faite de farine de sarrasin").
+entrée(sobber, n, [pleureurs], "celui qui pleure").
+entrée(sobeit, conj, [], "à condition que").
+entry(sobre, adj, [], "PLUS SOBRE LE PLUS SOBRE ayant le contrôle de ses facultés").
+entrée(sobre, v, [sobris,sobriété,sobres], "rendre sobre").
+entrée(soberize, v, [soberized,soberizing,soberizes], "sobriété").
+entrée(soberly, adv, [], "de manière sobre").
+entrée(sanglotant, adj, [], "enclin à sangloter").
+entrée(sobriété, n, [sobriétés], "la qualité ou l'état d'être sobre").
+entrée(soc, n, [soces], "un cours de sociologie").
+entry(soca, n, [socas], "un mélange de musique soul et calypso").
+entrée(socage, n, [socages], "une forme de tenure foncière féodale").
+entry(socager, n, [socagers], "un locataire par socage").
+entrée(socage, n, [socages], "socage").
+entry(football, n, [footballs], "un type de jeu de ballon").
+entrée(sociable, n, [sociables], "un social").
+entry(sociably, adv, [], "d'une manière amicale").
+entrée(social, n, [socials], "un rassemblement amical").
+entrée(socialement, adv, [], "en ce qui concerne la société").
+entrée(société, n, [sociétés], "un groupe organisé de personnesSOCIÉTAL adj").
+entrée(chaussette, n, [chaussettes], "ou CHAUSx une couverture tricotée ou tissée pour le pied").
+entry(chaussette, v, [chaussetté, chaussettant, chaussettes], "frapper avec force").
+entrée(socket, v, [emmanché, emmanchant, emmanches], "fournir d'une douille une ouverture pour recevoir quelque chose").
+entrée(sockette, n, [sockettes], "une chaussette très courte").
+entrée(saumon_rouge, n, [saumons_rouges], "un poisson alimentaire").
+entrée(sans_chaussettes, adj, [], "n'ayant pas de chaussettes").
+entry(sockman, n, [sockmen], "socman").
+entrée(socko, adj, [], "impressionnant frappant").
+entrée(socle, n, [socles], "un bloc utilisé comme base pour une colonne ou un piédestal").
+entrée(socman, n, [socmen], "un socager").
+entrée(sod, v, [plaqué de gazon, plaquage de gazon, plaquages de gazon], "recouvrir de gazon").
+entry(soda, n, [sodas], "un type de composé chimiqueSODALESS adj").
+entry(sodalist, n, [sodalists], "un membre d'une sodalité").
+entrée(sodalite, n, [sodalites], "un minéral").
+entrée(sodalité, n, [sodalités], "une société").
+entry(sodamide, n, [sodamides], "un composé chimique").
+entrée(sodded, passé, [], "temps de sod").
+entrée(sodden, v, [soddened, soddening, soddens], "rendre détrempé").
+entry(soddenly, adv, [], "d'une manière détrempée").
+entry(soddie, n, [soddies], "un soddy").
+entrée(sodding, présent, [], "participe de sod").
+entrée(soddy, n, [soddies], "une maison construite en terre").
+entrée(sodium, n, [sodiums], "un élément métalliqueSODIQUE adj").
+entry(sodome, n, [sodommes], "un lieu notoire pour le vice et la corruption").
+entrée(sodomiser, v, [sodomisait,sodomisant,sodomise], "sodomiser").
+entrée(sodomiste, n, [sodomistes], "un sodomite").
+entry(sodomite, n, [sodomites], "celui qui pratique la sodomie").
+entry(sodomiser, v, [sodomisé,sodomisant,sodomise], "s'engager dans la sodomie avec").
+entrée(sodomie, n, [sodomies], "copulation contre nature").
+entry(soever, adv, [], "du tout").
+entrée(canapé, n, [canapés], "un siège long et rembourré").
+entrée(canapé-lit, n, [canapés-lits], "un canapé qui peut être transformé en lit").
+entrée(sofar, n, [sofars], "un système pour localiser les explosions sous-marines").
+entrée(soffite, n, [soffites], "le dessous d'une structure architecturale").
+entrée(soft, adj, [], "PLUS DOUX LE PLUS DOUXcédant facilement à la pression").
+entrée(tendre, n, [tendres], "un objet ou une partie douce").
+entrée(softa, n, [softas], "un étudiant en théologie musulmane").
+entrée(livre_de_poche, n, [livres_de_poche], "un livre relié dans une couverture en papier souple").
+entrée(softball, n, [softballs], "un type de balle").
+entrée(softcore, adj, [], "moins qu'explicite dans la représentation des actes sexuels").
+entry(adoucir, v, [adouci,adoucissant,adoucit], "rendre doux").
+entrée(adoucissant, n, [adoucissants], "celui qui adoucit").
+entrée(imbécile, n, [imbéciles], "une personne stupide").
+entry(douceur, n, [douceurs], "douce").
+entry(softies, pl, [], "de softy").
+entrée(softish, adj, [], "quelque peu doux").
+entrée(doucement, adv, [], "d'une manière douce").
+entry(douceur, n, [douceurs], "la qualité ou l'état d'être doux").
+entry(software, n, [logiciels], "données écrites ou imprimées utilisées dans les opérations informatiques").
+entrée(résineux, n, [résineux], "le bois tendre de divers arbres").
+entry(softy, n, [softies], "une personne sentimentale").
+entrée(sogged, adj, [], "mouillé").
+entry(mouillé, adj, [], "PLUS MOUILLÉ MOUILLÉSSLourds d'humiditéMOUILLÉMENT adv").
+entrée(soh, n, [sohs], "sol").
+entry(soigneux, adj, [], "fait avec soin").
+entry(soignée, adj, [], "soigne").
+entrée(sol, v, [salit, salissant, sals], "rendre sale").
+entrée(affaiblissement, n, [affaiblissements], "cultures vertes pour nourrir les animaux").
+entrée(sans_sols, adj, [], "mené sans sol, roche finement divisée mélangée à de la matière organique").
+entrée(souillure, n, [souillures], "une tache ou salissure").
+entry(soirée, n, [soirées], "une fête en soirée").
+entrée(soja, n, [sojas], "le soja").
+entrée(séjourner, v, [séjourné,séjournant,séjourne], "séjourner temporairement").
+entry(soju, n, [sojusk], "vodka coréenne distillée à partir de riz ou de patate douce").
+entrée(soke, n, [sokes], "un droit féodal d'administrer la justice dans un certain territoire").
+entrée(sokeman, n, [sokemen], "socman").
+entrée(sokol, n, [sokols], "un groupe international promouvant la condition physique").
+entry(sol, n, [sols], "le cinquième ton de la gamme musicale diatonique").
+entrée(sola, n, [solas], "une plante marécageuse de l'Inde").
+entry(solace, v, [solaced, solacing, solaces], "consoler").
+entry(solacer, n, [solaceurs], "celui qui console").
+entrée(solan, n, [solans], "un fou de Bassan").
+entrée(soland, n, [solands], "solan").
+entrée(solander, n, [solanders], "une boîte de protection pour les matériaux de bibliothèque").
+entrée(solanin, n, [solanines], "solanine").
+entrée(solanine, n, [solanines], "un alcaloïde toxique").
+entrée(solano, n, [solanos], "un vent chaud et fort").
+entrée(solanum, n, [solanums], "n'importe quel genre d'herbes et d'arbustes").
+entrée(solaire, n, [solaires], "un solarium").
+entrée(solaria, a, [], "pl de solarium").
+entrée(solariser, v, [solarisé,solarisation,solarise], "solariser").
+entrée(solarism, n, [solarisms], "une interprétation des contes populaires comme concepts de la nature du soleil").
+entry(solarium, n, [solariums], "ou SOLARIA une pièce exposée au soleil").
+entrée(solariser, v, [solarisa, solarisant, solarise], "exposer au soleil").
+entrée(solate, v, [solated, solating, solates], "changer en un système colloïdal fluide").
+entry(solation, n, [solations], "l'acte de solater").
+entrée(solatium, n, [solatia], "une compensation donnée pour dommage aux sentiments").
+entrée(vendu, passé, [], "temps de vendre").
+entrée(soldan, n, [soldans], "un dirigeant musulman").
+entry(souder, v, [soudé,soudant,soude], "joindre ensemble étroitement").
+entry(soudeur, n, [soudures], "celui qui soude").
+entry(soldat, v, [soldat, soldant, soldats], "effectuer le service militaire").
+entry(soldatesque, n, [soldatesques], "la profession militaire").
+entrée(soldo, n, [soldi], "une ancienne pièce d'Italie").
+entry(semelle, v, [semellé,semellant,semelles], "fournir une semelle à la surface inférieure d'une chaussure ou botte").
+entrée(solecise, v, [solecised,solecising,solecises], "soleciser").
+entrée(solécisme, n, [solécismes], "une combinaison de mots non grammaticale dans une phrase").
+entrée(soleciste, n, [solecistes], "celui qui solecise").
+entrée(solecize, v, [solecized, solecizing, solecizes], "user des solécismes").
+entrée(soled, passé, [], "temps de sole").
+entrée(solei, a, [], "pl de soléaire").
+entry(soleless, adj, [], "sans semelle").
+entry(seulement, adv, [], "seul").
+entrée(solennel, adj, [], "PLUS SOLENNEL LE PLUS SOLENNEL sérieux SOLENNELLEMENT adv").
+entrée(solitude, n, [solitudes], "l'état d'être le seul").
+entrée(solénoïde, n, [solénoïdes], "un type de bobine électrique").
+entrée(solera, n, [soleras], "une méthode espagnole de production de vin").
+entrée(soleret, n, [solerets], "solleret").
+entrée(soléaire, n, [soléaires], "ou SOLÉIEmuscle du mollet de la jambe").
+entrée(solfege, n, [solfèges], "un type d'exercice de chant").
+entry(solfeggi, npl, [], "solfèges").
+entrée(solgel, adj, [], "impliquant certains changements dans l'état d'un système colloïdal").
+entrée(soli, a, [], "pl de solo").
+entrée(solliciter, v, [sollicité,sollicitant,sollicite], "demander avec insistance").
+entrée(solide, adj, [], "SOLIDE SOLIDEDéfinir forme et volume").
+entrée(solide, n, [solides], "une substance solide").
+entrée(solidago, n, [solidagos], "une plante à fleurs").
+entrée(solidaire, adj, [], "unis").
+entrée(solidi, pl, [], "de solidus").
+entry(solifier, v, [solidifié, solidifiant, solidifie], "rendre solide").
+entrée(solidity, n, [solidités], "la qualité ou l'état d'être solide").
+entrée(solidement, adv, [], "d'une manière solide").
+entrée(solidus, n, [solidi], "une pièce de l'ancienne Rome").
+entrée(soling, présent, [], "participe de sole").
+entrée(solion, n, [solions], "un dispositif électronique de détection et d'amplification").
+entrée(soliquid, n, [soliquides], "un système colloïdal fluide").
+entrée(solitaire, n, [solitaires], "celui qui vit seul").
+entrée(soliton, n, [solitons], "une onde solitaire en physique").
+entrée(solitude, n, [solitudes], "l'état d'être seul").
+entrée(solleret, n, [sollerets], "un soleret").
+entrée(solo, n, [solos], "ou SOLIune composition musicale pour une seule voix ou un seul instrument").
+entrée(solo, v, [a joué en solo, jouant en solo, joue en solo], "ou SOLOES pour performer seul").
+entrée(soliste, n, [solistes], "celui qui exécute un solo").
+entrée(solon, n, [solons], "un législateur sage").
+entrée(solonets, n, [solonetses], "solonetz").
+entry(solonetz, n, [solonetzs], "un type de sol").
+entry(solstice, n, [solstices], "le moment de l'année où le soleil est à sa plus grande distance de l'équateur céleste").
+entry(soluble, n, [solubles], "quelque chose qui est soluble capable d'être dissous").
+entrée(solublement, adv, [], "d'une manière soluble").
+entrée(solum, n, [solums], "ou SOLA une couche de sol").
+entry(solunar, adj, [], "indiquant les heures de lever et de coucher du soleil et de la lune").
+entrée(solus, adj, [], "seul").
+entrée(soluté, n, [solutés], "une substance dissoute").
+entrée(solution, n, [solutions], "un mélange liquide homogène").
+entrée(résolvable, adj, [], "capable d'être résolu").
+entrée(solvate, v, [solvaté,solvatant,solvate], "convertir en un type d'ion").
+entrée(résoudre, v, [résolu, résolvant, résout], "trouver la réponse ou l'explication pour").
+entrée(solvabilité, n, [solvabilités], "la capacité de payer toutes les dettes").
+entrée(solvant, n, [solvants], "une substance capable de dissoudre d'autres").
+entrée(solveur, n, [solveurs], "celui qui résout").
+entrée(résolvant, présent, [], "participe de résoudre").
+entrée(som, n, [soms], "une unité monétaire du Kirghizistan").
+entrée(soma, n, [somas], "ou SOMATAle corps d'un organismeSOMATIQUE adj").
+entrée(soman, n, [somans], "un agent chimique toxique de guerre").
+entrée(sombre, adj, [], "SOMBRERR SOMBRESTlugubreSOMBREMENT adv").
+entry(sombre, adj, [], "SOMBRER SOMBRESTsomberSOMBREMENT adv").
+entry(chapeau_de_paille, n, [chapeaux_de_paille], "un chapeau à large bord").
+entry(sombre, adj, [], "sombre").
+entrée(some, adj, [], "étant un nombre ou une partie non spécifiée").
+entrée(quelqu'un, n, [quelques-uns], "une personne importante").
+entry(un_jour, adv, [], "à un moment futur").
+entrée(somedeal, adv, [], "à un certain degré").
+entrée(d'une manière ou d'une autre, adv, [], "par un moyen quelconque").
+entrée(quelqu'un, n, [quelqu'uns], "un quelqu'un").
+entrée(somerset, v, [somerseted,somerseting,somersets], "ou SOMERSETTED SOMERSETTING SOMERSETSrouler le corps en un cercle complet tête par-dessus talons").
+entrée(parfois, adv, [], "à un moment futur").
+entry(someway, adv, [], "d'une manière ou d'une autre").
+entrée(someways, adv, [], "d'une manière ou d'une autre").
+entrée(peu, n, [peus], "un nombre ou une partie non spécifié").
+entry(somewhen, adv, [], "un jour").
+entrée(en_sorte_quelconque, adv, [], "d'une manière ou d'une autre").
+entrée(somite, n, [somites], "un segment longitudinal du corps de certains animauxSOMITAL SOMITIQUE adj").
+entrée(somoni, n, [somonis], "une unité monétaire du Tadjikistan").
+entrée(fils, n, [fils], "un enfant mâle").
+entrée(sonance, n, [sonances], "son").
+entrée(sonant, n, [sonants], "un son émis avec la vibration des cordes vocalesSONANTAL SONANTIC adj").
+entry(sonar, n, [sonars], "un dispositif de localisation sous-marin").
+entrée(sonarman, n, [sonaristes], "une personne qui opère l'équipement sonar").
+entrée(sonate, n, [sonates], "un type de composition musicale").
+entrée(sonatine, n, [sonatines], "ou SONATINE une courte sonate").
+entry(sonde, n, [sondes], "un appareil pour observer les phénomènes atmosphériques").
+entrée(sonder, n, [sonders], "une classe de petits yachts").
+entrée(sone, n, [sones], "une unité de sonorité").
+entrée(chanson, n, [chansons], "une composition musicale écrite ou adaptée pour le chant").
+entrée(songbird, n, [songbirds], "un oiseau qui émet un appel musical").
+entrée(songbook, n, [carnets_de_chansons], "un carnet de chansons").
+entrée(songfest, n, [songfests], "une réunion informelle pour chanter en groupe").
+entrée(songful, adj, [], "mélodieux").
+entrée(songless, adj, [], "incapable de chanter").
+entry(comme_une_chanson, adj, [], "ressemblant à une chanson").
+entrée(chanteur, n, [chanteurs], "un chanteur").
+entrée(filiation, n, [filiations], "l'état d'être un fils").
+entrée(sonique, adj, [], "relatif au son").
+entrée(sonication, v, [soniqué, soniquant, soniques], "disséminer avec des ondes sonores").
+entrée(sonics, npl, [], "la science traitant des applications pratiques du son").
+entrée(sans_fils, adj, [], "n'ayant pas de fils").
+entrée(fillant, adj, [], "ressemblant à un fils").
+entrée(fils_unique, adj, [], "relatif à un fils").
+entrée(sonnet, v, [sonneted, sonneting, sonnets], "ou SONNETTED SONNETTING SONNETScomposez un sonnet un type de poème").
+entrée(sonny, n, [sonnies], "un petit garçon").
+entrée(sonobuoy, n, [sonobuoys], "une bouée qui détecte et transmet des sons sous-marins").
+entrée(sonogramme, n, [sonogrammes], "une image produite par ultrasons").
+entrée(sonant, n, [sonants], "un type de son voisé").
+entry(sonorité, n, [sonorités], "la qualité ou l'état d'être sonore").
+entry(sonore, adj, [], "caractérisé par un son plein et fort").
+entrée(sonovox, n, [sonovoxes], "un dispositif d'effets sonores").
+entrée(filiation, n, [filiations], "l'état d'être un fils").
+entry(sonsie, adj, [], "SONSIER SONSIESTsonsy").
+entry(sonsy, adj, [], "SONSIER SONSIESTjoli").
+entrée(soochong, n, [soochongs], "souchong").
+entry(sooey, interj, [], "utilisé pour appeler les cochons").
+entrée(sook, n, [sooks], "souk").
+entry(bientôt, adv, [], "PLUS TÔT LE PLUS TÔT dans un avenir proche BIENTÔT adj").
+entry(sooner, n, [sooners], "celui qui s'installe sur une terre gouvernementale avant qu'elle ne soit officiellement ouverte à la colonisation").
+entrée(suie, v, [encrassé, encrassant, encrasse], "recouvrir de suie une substance noire produite par la combustion").
+entry(sooth, adj, [], "PLUS DOUX LE PLUS DOUXtrue").
+entrée(sooth, n, [sooths], "vérité").
+entry(apaiser, v, [apaisé,apaisant,apaise], "ramener à un état calme ou normal").
+entry(apaisant, n, [apaisants], "celui qui apaise").
+entrée(verity, adv, [], "en vérité").
+entry(prédire, v, [prédit,prédire,prévoit], "prédire").
+entrée(sooty, adj, [], "COUVERTE DE SUIE COUVERTE DE SUIE couverte de suieCOUVERTEMENT adv").
+entrée(sop, v, [trempé, trempant, trempes], "immerger ou tremper dans un liquide").
+entrée(soph, n, [sophs], "une deuxième année").
+entrée(sophies, pl, [], "de sophie").
+entry(sophisme, n, [sophismes], "un argument plausible mais fallacieux").
+entrée(sophiste, n, [sophistes], "celui qui utilise des sophismes").
+entrée(sophie, n, [sophies], "une dirigeante de Perse").
+entrée(sopite, v, [sopited,sopiting,sopites], "endormir").
+entry(sopor, n, [sopors], "un sommeil anormalement profond").
+entrée(sopped, passé, [], "temps de 'sop'").
+entrée(trempé, adj, [], "très mouillé").
+entrée(soppy, adj, [], "TRÈS LOURD SOPPIER SOPPIESTSOPPILY adv").
+entrée(soprano, n, [sopranos], "ou SOPRANI la voix chantante la plus haute").
+entrée(sora, n, [soras], "un oiseau des marais").
+entrée(sorb, v, [sorbed,sorbing,sorbs], "absorber et retenir par absorption ou adsorptionSORBALBLE adj").
+entrée(sorbate, n, [sorbates], "une substance adsorbée").
+entry(sorbant, n, [sorbants], "une substance qui sorbe").
+entrée(sorbet, n, [sorbets], "sorbet").
+entrée(sorbic, adj, [], "relatif à un type de fruit").
+entry(sorbitan, n, [sorbitans], "un composé chimique").
+entrée(sorbitol, n, [sorbitols], "un composé chimique").
+entry(sorbose, n, [sorboses], "un type de sucre").
+entry(sorcier, n, [sorciers], "celui qui pratique la sorcellerie").
+entrée(sorcellerie, n, [sorcelleries], "utilisation présumée de pouvoirs surnaturels").
+entrée(sord, n, [sords], "un vol de colverts").
+entry(sordide, adj, [], "filthySORDIDLY adv").
+entry(sordine, n, [sourdines], "un dispositif utilisé pour assourdir le son d'un instrument de musique").
+entrée(sourdine, n, [sourdines], "sourdine").
+entry(sordor, n, [sordors], "un état sordide").
+entry(blesser, v, [blessé,blessant,blesse], "mutiler les pieds d'un cheval pour imposer une allure particulière").
+entry(douloureux, adj, [], "PLUS DOULOUREUX PLUS DOULOUREUXdouleurment sensible au toucher").
+entrée(tête_de_cochon, n, [têtes_de_cochon], "une personne qui se fâche ou se vexe facilement").
+entrée(sorel, n, [sorels], "oseille").
+entrée(sorely, adv, [], "d'une manière douloureuse").
+entry(douleur, n, [douleurs], "la qualité ou l'état d'être endolori").
+entrée(sorer, comparatif, [], "de douloureux").
+entrée(sorest, superlatif, [], "de endolori").
+entrée(sorgho, n, [sorghos], "sorgo").
+entrée(sorgho, n, [sorghos], "une graminée céréalière").
+entrée(sorgo, n, [sorgos], "une variété de sorgho").
+entrée(sori, pl, [], "de sore").
+entry(soricine, adj, [], "appartenant à la famille des musaraignes de mammifères").
+entrée(soring, n, [sorings], "la pratique de rendre les pieds avant des chevaux douloureux pour les forcer à lever haut les jambes").
+entrée(sorites, n, [sorites], "un type d'argument utilisé en logiqueSORITIQUE adj").
+entrée(sorn, v, [sorned,sorning,sorns], "s'imposer aux autres pour la nourriture et le logement").
+entrée(sorner, n, [sorners], "celui qui accapare").
+entrée(soroche, n, [soroches], "mal aigu des montagnes").
+entrée(sororal, adj, [], "fraternel").
+entrée(sororat, n, [sororats], "le mariage d'un homme généralement avec la sœur de sa femme décédée").
+entrée(sororité, n, [sororités], "un club social pour femmes").
+entrée(sorosis, n, [sorosises], "ou SOROSESb un club ou une société de femmes").
+entrée(absorption, n, [absorptions], "l'acte ou le processus d'absorberABSORBANT adj").
+entrée(sorrel, n, [sorrels], "une couleur brun rougeâtre").
+entrée(plus_désolé, comparatif, [], "de désolé").
+entrée(sorriest, superlatif, [], "de désolé").
+entrée(sorrily, adv, [], "d'une manière désolée").
+entrée(chagrin, v, [chagriné,chagrinant,chagrine], "faire le deuil").
+entrée(chagrineur, n, [chagrineurs], "celui qui se chagrine").
+entrée(désolé, adj, [], "PLUS DÉSOLÉ PLUS DÉSOLÉEéprouver du chagrin ou du repentir").
+entrée(trier, v, [trié,triage,tries], "arranger selon le type, la catégorie ou la tailleTRIABLE adjTRIABLEMENT adv").
+entrée(sortal, n, [sortals], "un terme qui classe une entité comme étant d'un type particulier").
+entrée(trieur, n, [trieurs], "celui qui trie").
+entrée(sortes, npl, [], "divination par sélection aléatoire d'un passage dans un texte faisant autorité").
+entrée(sortie, v, [sortied,sortieing,sorties], "attaquer soudainement depuis une position défensive").
+entry(tri, n, [tris], "la séparation des articles en groupes").
+entrée(sorus, n, [sori], "un groupe de corps reproducteurs de plante").
+entrée(sot, n, [sots], "un ivrogne habituel").
+entrée(soth, n, [soths], "vérité").
+entrée(sotol, n, [sotols], "une plante à fleurs").
+entrée(sotted, adj, [], "sottement adv").
+entrée(sottish, adj, [], "ressemblant à un ivrogne").
+entrée(sou, n, [sous], "une ancienne pièce de monnaie française").
+entrée(souari, n, [souaris], "un arbre tropical").
+entrée(soubise, n, [soubises], "une sauce d'oignons et de beurre").
+entry(soucar, n, [soucars], "un banquier hindou").
+entrée(souchong, n, [souchongs], "un thé chinois").
+entrée(soudan, n, [soudans], "sultan").
+entrée(soufflé, n, [soufflés], "un plat léger cuit au four").
+entrée(soufflé, adj, [], "rendu gonflé par battage et cuisson").
+entrée(sough, v, [soughed,soughing,soughs], "produire un son de gémissement ou de soupir").
+entrée(recherché, passé, [], "temps de chercher").
+entry(souk, n, [souks], "un marché en Afrique du Nord et au Moyen-Orient").
+entry(soukous, n, [soukouses], "une musique de danse en République démocratique du Congo").
+entrée(âme, n, [âmes], "l'aspect spirituel des êtres humains ÂME DOTÉE D'UNE ÂME SANS ÂME COMME UNE ÂME adj").
+entrée(soulful, adj, [], "plein d'émotion").
+entry(âme sœur, n, [âmes sœurs], "une personne avec qui l'on est parfaitement assorti").
+entrée(soulster, n, [soulsters], "un chanteur de musique soul").
+entrée(son, adj, [], "ETRE EN BONNE SANTÉ OU CONDITIONSONNE PLUS SONNE PLUS SON").
+entrée(sound, v, [sonnait,sonnant,sonne], "produire un son qui stimule les récepteurs auditifs").
+entrée(boîte_de_résonance, n, [boîtes_de_résonance], "une cavité résonante dans un instrument de musique").
+entrée(sondeur, n, [sondeurs], "celui qui sonde").
+entrée(sondage, n, [sondages], "un échantillonnage d'opinions").
+entrée(soundly, adv, [], "d'une manière saine").
+entry(ingénieur du son, n, [ingénieurs du son], "une personne qui contrôle la qualité du son enregistré").
+entrée(soupe, v, [soupée, soupant, soupes], "augmenter la puissance ou l'efficacité de").
+entry(soupçon, n, [soupçons], "une quantité minime").
+entry(soupless, adj, [], "ne contenant pas de soupe une nourriture liquide contenant souvent des ingrédients solides").
+entrée(souplike, adj, [], "qui ressemble à de la soupe").
+entrée(soupy, adj, [], "SOUPIER SOUPIESTbrumeuxSOUPILE adv").
+entrée(aigre, adj, [], "AIGRER AIGRESTaigre ou mordant au goût").
+entrée(acide, v, [acidifié,acidifiant,acide], "rendre ou devenir acide").
+entrée(sourball, n, [sourballs], "un bonbon acidulé").
+entrée(source, v, [sourced,sourcing,sources], "obtenir d'un point d'origine").
+entry(approvisionnement, n, [approvisionnements], "l'acte d'obtenir quelque chose d'un point d'origine").
+entrée(sourdine, n, [sourdines], "sordine").
+entrée(sourgum, n, [sourgums], "un arbre de bois tendre de l'est de l'Amérique du Nord").
+entrée(sourish, adj, [], "quelque peu acide").
+entrée(aigrément, adv, [], "d'une manière aigre").
+entrée(acidité, n, [acidités], "la qualité ou l'état d'être acide").
+entrée(ronchon, n, [ronchons], "une personne grincheuse").
+entrée(corossol, n, [corossols], "un arbre tropical").
+entrée(sourwood, n, [sourwoods], "un arbre à fleurs").
+entrée(souse, v, [soused,sousing,souses], "immerger quelque chose dans un liquide").
+entrée(souser, n, [sousers], "un ivrogne").
+entrée(souslik, n, [sousliks], "suslik").
+entrée(soutache, n, [soutaches], "une bande étroite et plate").
+entrée(soutane, n, [soutanes], "une soutane").
+entry(souter, n, [souters], "un cordonnier").
+entry(sud, v, [alle_a_sud,alle_a_sudissant,alle_a_suds], "se deplacer vers le sud, un point cardinal de la boussole").
+entrée(souther, n, [southers], "un vent ou une tempête venant du sud").
+entry(southern, n, [sudistes], "une personne vivant dans le sud").
+entrée(sudage, n, [sudages], "mouvement vers le sud").
+entrée(sudiste, n, [sudistes], "une personne gauchère").
+entrée(sudiste, n, [sudistes], "un sudiste").
+entrée(souvenir, n, [souvenirs], "un souvenir").
+entrée(souvlaki, n, [souvlakis], "une brochette grecque").
+entrée(soviétique, n, [soviétiques], "un organe législatif dans un pays communiste").
+entrée(sovkhoz, n, [sovkhozes], "ou SOVKHOZ, une ferme d'État dans l'ancienne Union soviétique").
+entrée(sovran, n, [sovrans], "un monarque").
+entrée(sovranly, adv, [], "suprêmement").
+entrée(souveraineté, n, [souverainetés], "une monarchie").
+entrée(semer, v, [sema,semé,semant], "SEMERA répandre sur la terre pour croître comme graineSEMABLE adj").
+entrée(sowans, n, [sowans], "sowens").
+entry(sowar, n, [sowars], "un soldat indigène monté en Inde").
+entrée(sowback, n, [sowbacks], "une petite crête de sable").
+entrée(sowbelly, n, [sowbellies], "porc salé").
+entry(cyclamen, n, [cyclamens], "une plante à fleurs").
+entrée(cloporte, n, [cloportes], "un cloporte").
+entrée(sowcar, n, [sowcars], "soucar").
+entrée(sowens, n, [sowens], "bouillie faite de cosses d'avoine").
+entrée(semeur, n, [semeurs], "celui qui sème").
+entrée(semis, n, [semis], "l'acte de semer des graines").
+entrée(semer, passé, [], "participe de semer").
+entrée(sox, a, [], "pl de chaussette").
+entry(soja, n, [sojas], "le soja").
+entrée(soja, n, [sojas], "soja").
+entrée(soja, n, [sojas], "la graine d'une herbe asiatique cultivée").
+entrée(farine_de_soja, n, [farines_de_soja], "le résidu de l'extraction de l'huile des graines de soja").
+entry(lait_de_soja, n, [laits_de_soja], "un substitut de lait fait à partir de graines de soja").
+entrée(soyuz, n, [soyuzes], "un vaisseau spatial habité de l'ancienne Union soviétique").
+entrée(sozin, n, [sozins], "un type de protéine").
+entrée(sozine, n, [sozines], "sozin").
+entrée(sozzled, adj, [], "ivre").
+entrée(spa, n, [spas], "une source minérale").
+entrée(espace, v, [espacé, espacement, espaces], "mettre à distance").
+entry(spacelab, n, [spacelabs], "un vaisseau spatial équipé d'un laboratoire").
+entry(spaceman, n, [spacemen], "un astronaute").
+entrée(séparateur, n, [séparateurs], "celui qui espace").
+entrée(spacey, adj, [], "COMPORTEMENT BIZARRE").
+entrée(spatial, adj, [], "spatial").
+entrée(espacement, n, [espacements], "la distance entre deux objets quelconques").
+entrée(spacious, adj, [], "vaste ou ample en étendue").
+entry(spackle, v, [spackled,spackling,spackles], "combler les fissures ou les trous dans une surface avec de la pâte").
+entrée(spacy, adj, [], "SPACIER SPACIESTspacey").
+entry(pelle, v, [pelé,pelant,pelles], "prendre avec une pelle un outil de creusement").
+entrée(bêche, n, [bêchées], "autant qu'une bêche peut contenir").
+entrée(spader, n, [spaders], "celui qui bêche").
+entrée(spadices, pl, [], "de spadice").
+entry(spadille, n, [spadilles], "l'atout le plus élevé dans certains jeux de cartes").
+entry(spading, présent, [], "participe de spade").
+entrée(spadix, n, [spadices], "ou SPADICES un groupe de fleurs").
+entrée(spado, n, [spadones], "un homme ou un animal castré").
+entrée(spae, v, [spaed,spaeing,spaes], "prédire").
+entrée(spaeing, n, [spaeings], "l'acte de prédire").
+entrée(spaetzle, n, [spaetzles], "une petite quenelle").
+entrée(spagyric, n, [spagyrique], "une personne compétente en alchimie").
+entrée(spahee, n, [spahees], "spahi").
+entrée(spahi, n, [spahis], "un cavalier turc").
+entrée(spail, n, [spails], "spale").
+entrée(spait, n, [spaits], "crue").
+entrée(parla, a, [], "passé simple de parler").
+entrée(spaldeen, n, [spaldeens], "une petite balle creuse en caoutchouc").
+entrée(spale, n, [spales], "un éclat ou une écharde").
+entry(spall, v, [spalled,spalling,spalls], "se fragmenter en morceaux").
+entry(spaller, n, [spallers], "celui qui éclate").
+entry(desquamation, n, [desquamations], "un éclat de pierre ou de minerai").
+entry(garnement, n, [garnements], "un coquin").
+entry(spalted, adj, [], "désignant le bois ayant des lignes irrégulières résultant d'une décomposition fongique").
+entrée(spam, v, [spammed,spamming,spams], "envoyer des courriels non sollicités à un grand nombre d'adresses").
+entrée(spambot, n, [spambots], "un programme informatique qui envoie des courriels non sollicités").
+entrée(spammeur, n, [spammeurs], "celui qui envoie des spams").
+entrée(spamming, n, [spammings], "la pratique d'envoyer des courriels non sollicités").
+entrée(span, v, [spanned,spanning,spans], "s'étendre sur ou à travers").
+entrée(entraver, v, [entravé, entravant, entraves], "ou ENTRAVÉ ENTRAVANT ENTRAVES pour lier ou entraver avec une corde").
+entrée(spandex, n, [spandexes], "une fibre élastique synthétique SPANDEXED adj").
+entrée(spandrel, n, [écoinçons], "un espace entre deux arcs adjacents").
+entrée(spandril, n, [spandrils], "pendentif").
+entrée(spang, adv, [], "directement").
+entrée(spangle, v, [spangled, spangling, spangles], "orner de paillettes ou de morceaux de métal scintillants").
+entrée(spangly, adj, [], "SPANGLIER SPANGLIESTcouverte de paillettes").
+entrée(épagneul, n, [épagneuls], "un chien à poil soyeux").
+entrée(fesser, v, [fessé, fessant, fesse], "gifler sur les fesses").
+entrée(fesseur, n, [fesseurs], "celui qui fesse").
+entrée(fessée, n, [fessées], "l'acte de fesser").
+entrée(sans_etendue, adj, [], "n'ayant pas d'étendue").
+entrée(span, passé, [], "temps de span").
+entry(clé_à_molette, n, [clés_à_molette], "outil pour serrer").
+entrée(span, présent, [], "participe du verbe span").
+entrée(spanworm, n, [spanworms], "un arpenteuse").
+entrée(spar, v, [s'est bagarré, s'entraîner, bagarres], "fournir des espars des poteaux robustes utilisés pour soutenir le gréement").
+entrée(sparable, n, [sparables], "un type de clou").
+entrée(remplaçant, adj, [], "REMPLAÇANT REMPLAÇANTLe plus maigreÉPARGNEMENT adv").
+entrée(rechange, v, [épargné,épargnant,épargne], "s'abstenir de punir, de nuire ou de détruire").
+entrée(épargner, n, [épargnants], "celui qui épargne").
+entry(travers_de_porc, n, [travers_de_porc], "une coupe de porc").
+entrée(sparge, v, [sparged, sparging, sparges], "parsemer").
+entrée(sparger, n, [spargers], "celui qui asperge").
+entrée(sparidé, n, [sparidés], "n'importe lequel d'une famille de poissons marins").
+entrée(sparing, présent, [], "participe de spare").
+entrée(étincelle, v, [étincelé, étincelant, étincelles], "produire des étincelles petites particules enflammées").
+entry(sparker, n, [étincelleurs], "quelque chose qui étincelle").
+entrée(plus_étincelant, comparatif, [], "de vif").
+entrée(sparkiest, superlatif, [], "de sparky").
+entry(étincelamment, adv, [], "de manière vive").
+entrée(sparkish, adj, [], "gai").
+entrée(sparkle, v, [étincelé, étincelant, étincelle], "émettre ou réfléchir des éclats de lumière").
+entrée(cierge_magique, n, [cierges_magiques], "quelque chose qui scintille").
+entrée(étincelle, n, [étincelles], "une petite étincelle").
+entrée(sparkly, adj, [], "PLUS SCINTILLANT, LE PLUS SCINTILLANT tendance à scintiller").
+entrée(sparky, adj, [], "PLUS VIF LE PLUS VIFvivant").
+entrée(sparlike, adj, [], "ressemblant à un mât").
+entrée(sparling, n, [sparlings], "un jeune hareng").
+entrée(sparoid, n, [sparoids], "un sparidé").
+entrée(boxa, passé, [], "temps de 'boxer'").
+entrée(sparring, présent, [], "participe de spar").
+entrée(moineau, n, [moineaux], "un petit oiseau").
+entrée(sparry, adj, [], "RESSEMBLANT À SPAR UN MINÉRAL LUISANT").
+entrée(sparse, adj, [], "SPARSER SPARSESTpeu distribuéSPARSELY adv").
+entrée(parcimonie, n, [parcimonies], "la qualité ou l'état d'être parcimonieux").
+entrée(spartan, adj, [], "éviter le luxe et le confort").
+entrée(spartina, n, [spartinas], "une graminée de marais salants des régions côtières").
+entry(spasme, v, [spasmé, spasment, spasmes], "subir une contraction musculaire involontaire").
+entrée(spastique, n, [spastiques], "une personne souffrant d'une paralysie avec des spasmes musculaires").
+entry(frapper_légèrement, v, [a_frappe_légerement, frappant_légerement, frappe_légerement], "frapper légèrement").
+entrée(crue, n, [crues], "une crue").
+entrée(spathe, n, [spathes], "un organe foliaire de certaines plantesSPATHAL SPATHED SPATHOSE adj").
+entrée(spathic, adj, [], "sparry").
+entry(spatial, adj, [], "de ou concernant l'espace").
+entrée(spatted, passé, [], "temps de spat").
+entrée(eclaboussure, v, [éclaboussé,éclaboussant,éclabousse], "éparpiller en gouttes").
+entrée(spatting, présent, [], "participe de spat").
+entrée(spatule, n, [spatules], "un outil de mélangeSPATULE adj").
+entrée(spatzle, n, [spatzles], "spaetzle").
+entrée(spavie, n, [spavies], "spavinSPAVIET adj").
+entry(spavin, n, [spavins], "une maladie des chevauxSPAVINED adj").
+entrée(pondre, v, [pondu, pondant, pond], "déposer des œufs").
+entrée(géniteur, n, [géniteurs], "celui qui génère").
+entrée(stériliser, v, [stérilisé, stérilisant, stérilise], "enlever les ovaires de").
+entry(parler, v, [parla,parlé,parlant], "PARLERpour prononcer des mots").
+entrée(interlocuteur, n, [interlocuteurs], "celui qui parle").
+entrée(speaking, n, [discours], "un discours ou allocution").
+entrée(spean, v, [speaned,speaning,speans], "sevrer").
+entrée(lance, v, [lancé,lançant,lances], "percer avec une lance une arme longue et pointue").
+entrée(lanceur, n, [lanceurs], "celui qui lance").
+entrée(harpon, n, [harpons], "une arme qui tire un harpon").
+entry(transpercement, n, [transpercements], "l'acte de percer avec une lance").
+entry(spéarman, n, [spéarmans], "une personne armée d'une lance").
+entrée(spec, v, [speccé,speccant,specs], "écrire des spécifications pour").
+entrée(spécial, adj, [], "D'UN GENRE OU CARACTÈRE DISTINCT").
+entry(spécial, n, [spéciaux], "une personne ou chose spéciale").
+entrée(spécier, v, [spécié,spéciant,spécie], "subir un type de processus évolutif").
+entrée(espèce, n, [espèces], "monnaie frappée").
+entrée(spécifique, n, [spécifiques], "un remède destiné à une maladie particulière").
+entrée(spécifier, v, [spécifié,spécifiant,spécifie], "déclarer en détail").
+entrée(spécimen, n, [spécimens], "une partie ou un individu représentatif d'un groupe ou d'un tout").
+entrée(specieux, adj, [], "ayant une apparence fausse de vérité ou d'authenticité").
+entrée(speck, v, [specked,specking,specks], "marquer avec de petites taches").
+entrée(moucheté, v, [mouchetée,mouchetant,mouchetées], "moucheter").
+entrée(specky, adj, [], "SPECKIER SPECKIESTmarqué de petites taches").
+entrée(spectate, v, [a assisté, assistant, assiste], "assister et regarder").
+entry(spectre, n, [spectres], "un esprit visible désincarné").
+entry(spectres, a, [], "pl du spectre").
+entry(spectral, adj, [], "ressemblant à un spectre").
+entrée(spectre, n, [spectres], "spectre").
+entrée(spectre, n, [spectres], "ou SPECTREun éventail des composantes d'une onde lumineuse").
+entrée(spéculum, n, [spéculums], "ou SPECULA un instrument médicalSPÉCULAIRE adj").
+entry(parole, n, [paroles], "la faculté ou l'acte de parler").
+entrée(vitesse, v, [accordé, accélération, vitesses], "se déplacer rapidement").
+entry(speeder, n, [contrevenants], "celui qui est pressé").
+entrée(speedier, comparatif, [], "de rapide").
+entrée(speediest, superlatif, [], "de rapide").
+entry(speedily, adv, [], "d'une manière rapide").
+entrée(excès_de_vitesse, n, [excès_de_vitesses], "l'acte de conduire plus vite que la loi ne le permet").
+entrée(compteur, n, [compteurs], "un compteur de vitesse").
+entrée(accélération, n, [accélérations], "une accélération de la production sans augmentation de salaire").
+entrée(speedway, n, [speedways], "une route conçue pour un voyage rapide").
+entrée(speedy, adj, [], "PLUS RAPIDE LE PLUS RAPIDE rapide").
+entry(jouer, v, [joué, jouant, joues], "grimper").
+entrée(lance, v, [lancé,lancer,lances], "sonder").
+entrée(peering, n, [peerings], "enquête").
+entrée(speil, v, [speiled,speiling,speils], "grimper").
+entry(speir, v, [speired,speiring,speirs], "sonder").
+entry(plat, n, [plats], "pla").
+entrée(speiss, n, [speisses], "un mélange métallique obtenu en fondant certains minerais").
+entry(spélaïen, adj, [], "spéléen").
+entry(spelean, adj, [], "vivant dans des grottes").
+entry(épeler, v, [épelé, épelant, épele], "nommer ou écrire les lettres dans l'ordre").
+entrée(épellateur, n, [épellateurs], "celui qui épèle les mots").
+entrée(orthographe, n, [orthographes], "une séquence de lettres composant un mot").
+entrée(épeautre, n, [épeautres], "une variété de blé").
+entry(spelter, n, [spelters], "zinc sous forme de lingots").
+entrée(épeautre, n, [épeautres], "épeautre").
+entrée(explorer, v, [exploré, explorant, explore], "explorer les grottes").
+entrée(spence, n, [spences], "un garde-manger").
+entrée(spencer, n, [spencers], "une trinquette").
+entrée(dépenser, v, [dépensé,dépensant,dépense], "payer").
+entrée(dépensier, n, [dépensiers], "celui qui dépense").
+entry(spendy, adj, [], "DÉPENSIER DÉPENSIESTcher").
+entrée(spense, n, [spenses], "spence").
+entrée(dépensé, passé, [], "temps de dépenser").
+entrée(spermatozoïde, n, [spermatozoïdes], "un gamète mâle SPERMIC adj").
+entrée(spermary, n, [spermaries], "un organe dans lequel les spermatozoïdes sont formés").
+entrée(spermidine, n, [spermides], "un composé chimique").
+entry(spermatique, adj, [], "ressemblant à ou constitué de spermatozoïdes").
+entrée(vomir, v, [a_vomi, vomissant, vomit], "vomir").
+entrée(vomisseur, n, [vomisseurs], "celui qui vomit").
+entrée(sphaigne, n, [sphaignes], "une mousse grisâtre").
+entrée(sphène, n, [sphènes], "un minéral").
+entrée(sphénique, adj, [], "en forme de coin").
+entrée(sphénoïde, n, [sphénoïdes], "un os du crâne").
+entrée(spheral, adj, [], "de ou relatif à ou ayant la forme d'une sphère").
+entrée(sphère, v, [sphérisé, sphérisant, sphérise], "façonner en une sphère, un type de solide géométrique").
+entrée(spheric, adj, [], "sphérique").
+entrée(sphericques, npl, [], "la géométrie des figures sur la surface d'une sphère").
+entry(spherier, comparatif, [], "de sphérie").
+entrée(spheriest, superlatif, [], "de sphérique").
+entrée(sphering, présent, [], "participe de sphere").
+entrée(sphéroïde, n, [sphéroïdes], "un type de solide géométrique").
+entrée(spherule, n, [spherules], "une petite sphère").
+entry(sphery, adj, [], "RESSEMBLANT À UNE SPHÈRE SPHÉRIQUE SPHÉRIQUE").
+entrée(sphinges, a, [], "pl de sphinx").
+entrée(sphingid, n, [sphingids], "le sphinx").
+entrée(sphinx, n, [sphinxes], "ou SPHINGES un monstre dans la mythologie égyptienne").
+entrée(sphygmus, n, [sphygmuses], "le poulsSPHYGMIQUE adj").
+entry(sphynx, n, [sphynxes], "un chat d'une race de chats sans poils").
+entrée(spica, n, [épis], "ou épi SPICAEan de grain SPICATE SPICATED adj").
+entrée(spiccato, n, [spiccatos], "une méthode de jeu d'un instrument à cordes").
+entrée(épice, v, [épicé,épicant,épices], "assaisonner avec une épice une substance végétale aromatique").
+entry(spicer, n, [spicers], "celui qui épice").
+entrée(épice, n, [épices], "une qualité épicée").
+entrée(epicé, adj, [], "PLUS ÉPICÉ LE PLUS ÉPICÉépicé").
+entrée(plus_épicé, comparatif, [], "de épicé").
+entry(pimenté, superlatif, [], "de pimenté").
+entry(pi­quamment, adv, [], "d'une manière épicée").
+entrée(assaisonnant, présent, [], "participe de assaisonner").
+entrée(spicula, n, [spiculae], "spiculeSPICULAIRE adj").
+entry(spicule, n, [spicules], "une structure en forme d'aiguille").
+entrée(spiculum, n, [spicula], "spicule").
+entrée(épicé, adj, [], "PLUS ÉPICÉ LE PLUS ÉPICÉ contenant des épices").
+entrée(araignée, v, [araignée,araignant,araignées], "se déplacer d'une manière précipitée").
+entry(araignée, adj, [], "PLUS ARAIGNÉE, LE PLUS ARAIGNÉE ressemblant à une araignée un type d'arachnide").
+entry(espionné, passé, [], "temps de espionner").
+entry(miroir, n, [miroirs], "un type de fonte").
+entrée(spiel, v, [spieled, spieling, spiels], "parler longuement").
+entrée(joueur, n, [joueurs], "celui qui jouent").
+entrée(spier, v, [spiered, spiering, spiers], "éclaireur").
+entrée(espions, présent, [], "3ème personne sing de espionner").
+entrée(spiff, v, [spiffed, spiffing, spiffs], "rendre élégant").
+entry(spiffant, adj, [], "élégant").
+entrée(spiffy, v, [spiffied,spiffying,spiffies], "rendre élégant").
+entry(spiffy, adj, [], "PLUS ÉLÉGANT LE PLUS ÉLÉGANTstylishÉLÉGAMMENT adv").
+entrée(robinet, n, [robinets], "un robinet").
+entrée(pointe, v, [pointé, pointant, pointes], "fixer avec une pointe un long clou épais").
+entrée(épillet, n, [épis], "un type d'inflorescence").
+entry(spiker, n, [spikers], "un qui pique").
+entry(spikey, adj, [], "PLUS ÉPICÉ LE PLUS ÉPICÉpiquant").
+entry(épineux, présent, [], "participe de spike").
+entrée(pièce, adj, [], "PLUS POINTU LE PLUS POINTUREsemble à une pointePOINTU adv").
+entrée(spile, v, [spiled, spiling, spiles], "boucher avec un bouchon en bois").
+entry(spilikin, n, [spilikins], "une bande de bois utilisée dans un jeu").
+entrée(clôture, n, [clôtures], "une clôture").
+entrée(spilite, n, [spilites], "une forme de basalteSPILITIQUE adj").
+entry(renverser, v, [renversé,renversant,renverse], "faire sortir d'un contenant").
+entrée(renversement, n, [renversements], "quelque chose qui est renversé").
+entrée(spiller, n, [spillers], "celui qui renverse").
+entrée(déversoir, n, [déversoirs], "un canal pour l'eau excédentaire dans un réservoir").
+entry(spilt, a, [], "passé du verbe 'to spill'").
+entry(écoulement, n, [écoulements], "déversement").
+entrée(filer, v, [filé,filant,file], "tirer et tordre pour former des fils").
+entry(épinard, n, [épinards], "une herbe cultivéeÉPINARD adj").
+entrée(épinard, n, [épinards], "épinard").
+entrée(spinale, n, [spinales], "une injection d'un anesthésique dans la moelle épinière").
+entrée(spinally, adv, [], "en ce qui concerne la colonne vertébrale").
+entry(épineux, adj, [], "portant des épines").
+entry(fusée, v, [fusées, fuséant, fusé], "transpercer sur une tige élancée").
+entrer(spindler, n, [spindlers], "celui qui file").
+entrée(spindly, adj, [], "PLUS ÉFFILÉ LE PLUS ÉFFILÉlong et mince").
+entrée(colonne_vertebrale, n, [colonnes_vertebrales], "la colonne vertébraleVERTEBRE adj").
+entrée(spinelle, n, [spinelles], "un minéral").
+entrée(spinelle, n, [spinelles], "spinelle").
+entrée(epinette, n, [epinettes], "un petit piano").
+entrée(spinier, comparatif, [], "de épineux").
+entry(“le plus épineux”, superlatif, [], "de épineux").
+entrée(spinifex, n, [spinifexes], "une herbe australienne").
+entry(sans_rotation, adj, [], "n'ayant pas de rotation").
+entry(toupie, n, [toupies], "un qui tourne").
+entrée(filerie, n, [filatures], "un moulin de filature").
+entrée(spinney, n, [spinneys], "un fourré").
+entry(filage, n, [filages], "l'acte de celui qui file").
+entry(spinny, n, [spinnies], "spinney").
+entrée(spinny, adj, [], "SPINNIER SPINNIESTfou insensé").
+entrée(spinoff, n, [spinoffs], "une nouvelle application ou un résultat annexe").
+entrée(spinor, n, [spinors], "un type de vecteur mathématique").
+entrée(épineux, adj, [], "épineux").
+entry(spineux, adj, [], "épineux").
+entrée(tête-à-queue, n, [têtes-à-queue], "un dérapage rotatif d'une automobile").
+entrée(célibataire, n, [célibataires], "une femme non mariée qui a dépassé l'âge habituel pour se marier").
+entrée(spinto, n, [spintos], "une voix chantante qui est lyrique et dramatique").
+entry(spinula, n, [spinulae], "spinule").
+entrée(spinule, n, [spinules], "une petite épine").
+entry(épineux, adj, [], "PLUS ÉPINEUX LE PLUS ÉPINEUXportant ou couvert d'épines").
+entrée(spiracule, n, [spiracules], "un orifice par lequel la respiration se produit").
+entrée(spiraea, n, [spiraeas], "spirée").
+entry(spirale, v, [spiralé, spiralant, spirales], "ou SPIRALLÉ SPIRALLANT SPIRALES se déplacer comme une spirale un type de courbe plane").
+entrée(spiralement, adv, [], "d'une manière en spirale").
+entrée(spirant, n, [spirants], "un son de la parole produit par le passage de l'air à travers un passage étroit").
+entrée(flèche, v, [fléché,fléchant,flèches], "s'élever de manière effilée").
+entrée(spirée, n, [spirées], "un arbuste à fleurs").
+entrée(spirem, n, [spirems], "spireme").
+entrée(spireme, n, [spiremes], "un filament formant une partie d'un noyau cellulaire pendant la mitose").
+entrée(spirier, comparatif, [], "de spiry").
+entrée(spiriest, superlatif, [], "de spiry").
+entrée(spirilles, npl, [], "bactéries aérobies en spirale").
+entrée(spiring, présent, [], "participe de spire").
+entry(esprit, v, [emporté,emportant,emporte], "emporter secrètement").
+entrée(spiritus, n, [spiritus], "esprit").
+entrée(spiroid, adj, [], "semblable à une spirale").
+entrée(spirt, v, [spirted, spirting, spirts], "jaillir").
+entrée(spirula, n, [spirulas], "ou SPIRULAEs une mollusque à coquille spiralée").
+entrée(spiry, adj, [], "ÉLANCÉ ÉLANCÉE LE PLUSTtall mince et effilé").
+entrée(spit, v, [spitted,spitting,spits], "embrocher sur une broche une tige pointue sur laquelle la viande est tournée").
+entrée(hôpital, n, [hôpitaux], "un hôpital").
+entrée(spitball, n, [spitballs], "un type de lancer au baseball").
+entry(dépit, v, [déprisé,déprisant,déprise], "traiter avec malveillance").
+entry(rancunier, adj, [], "RANCUNIER RANCUNIEREmalicieux").
+entrée(spitfire, n, [spitfires], "une personne colérique").
+entry(craché, passé, [], "temps de cracher").
+entry(cracheur, n, [cracheurs], "une boule de papier mâché").
+entry(crachant, présent, [], "participe de cracher").
+entrée(bave, n, [baves], "saliveBAVEUX adj").
+entry(cracheoir, n, [cracheoirs], "un récipient pour la salive").
+entrée(spitty, adj, [], "PLUS BAVEUX LE PLUS BAVEUXmarqué de salive").
+entrée(spitz, n, [spitzes], "un chien ayant un pelage épais").
+entrée(spiv, n, [spivs], "un petit criminel sans scrupules, adj. SPIVVISH").
+entrée(spivvy, adj, [], "RESEMBLANT À UN SPIV EN TENUE OU CONDUITE").
+entrée(splake, n, [splakes], "un poisson d'eau douce").
+entrée(splash, v, [éclaboussé,éclaboussant,éclabousse], "éparpiller un liquide").
+entrée(splasher, n, [splashers], "celui qui éclabousse").
+entrée(splashy, adj, [], "SPLASHIER SPLASHIESTéclatant").
+entrée(splat, v, [splatted, splatting, splats], "écraser à l'impact").
+entry(éclabousser, v, [éclaboussé,éclaboussant,éclabousse], "éclabousser").
+entry(splay, v, [étalé, étalant, étale], "étaler").
+entrée(rate, n, [rates], "un organe sans canal du corps").
+entrée(spleeny, adj, [], "PLUS SPLEEN PLUS SPLEEN irritable").
+entrée(splendide, adj, [], "SPLENDIDER SPLENDIDESTmagnifique").
+entrée(splendeur, n, [splendeurs], "magnificence").
+entrée(splénial, adj, [], "relatif au splénius").
+entrée(splénique, adj, [], "concernant la rate").
+entry(splenium, n, [splenia], "ou un SPLENIUMPansement chirurgical").
+entrée(splenius, n, [splenii], "un muscle du cou").
+entrée(splent, n, [attelles], "une attelle").
+entrée(épissure, v, [épissé,épissant,épissures], "joindre aux extrémités").
+entrée(épisseur, n, [épisseurs], "celui qui épis").
+entrée(spliff, n, [spliffs], "une cigarette de marijuana").
+entrée(spline, v, [splinée, splinant, splines], "fournir une cannelure qui relie deux pièces mécaniques en rotation").
+entrée(attelle, v, [attelles,attellant,attelle], "attacher avec une attelle une fine pièce de bois").
+entrée(splinter, v, [splintered, splintering, splinters], "se fendre en morceaux aigus et minces").
+entrée(split, v, [séparer, séparant, sépare], "séparer dans le sens de la longueur").
+entrée(diviseur, n, [diviseurs], "celui qui divise").
+entrée(tache, v, [tachée, tachant, taches], "tacher").
+entrée(splodgy, adj, [], "SPLASHIER SPLASHIESTsplotchy").
+entrée(splore, n, [splores], "un carrousel").
+entry(splosh, v, [sploshed,sploshing,sploshes], "éclabousser").
+entrée(tache, v, [taché, tachant, taches], "marquer avec de grandes taches irrégulières").
+entrée(tacheté, adj, [], "PLUS TACHETÉ LE PLUS TACHETÉtaché").
+entrée(splurge, v, [splurged, splurging, splurges], "dépenser de l'argent de manière extravagante").
+entrée(splurger, n, [splurgers], "celui qui dépense avec excès").
+entry(splurgy, adj, [], "TENDANT À GASPILLER").
+entry(splurt, v, [splurta, splurtant, splurts], "jaillir en un flot ou un jet").
+entrée(splutter, v, [spluttered, spluttering, splutters], "parler rapidement et de manière confuse").
+entrée(spode, n, [spodes], "une porcelaine fine").
+entry(spodosol, n, [spodosols], "un sol forestier acide").
+entrée(abîmer, v, [abîmé,abîmant,abîme], "altérer la valeur ou la qualité de").
+entrée(périssabilité, n, [périssabilités], "quelque chose qui est endommagé ou gaspillé").
+entrée(gâcheur, n, [gâcheurs], "celui qui gâche").
+entrée(parlé, v, [parlés, parlant, parle], "fournir des rayons tiges qui soutiennent la jante d'une roue").
+entrée(parlé, passé, [], "participe de speak").
+entry(spolier, v, [spolié,spoliant,spolie], "piller").
+entry(spondaïque, n, [spondaïques], "un spondée").
+entrée(spondée, n, [spondées], "un type de pied métrique").
+entry(éponge, v, [], "ÉPONGÉ ÉPONGANT ou ÉPONGEANT ÉPONGEser à essuyer avec une éponge une masse de matériau absorbant").
+entry(parasite, n, [parasites], "celui qui vit aux dépens des autres").
+entrée(spongieux, comparatif, [], "de spongieux").
+entry(spongiest, superlatif, [], "de spongieux").
+entrée(spongily, adv, [], "de manière spongieuse").
+entry(spongine, n, [spongines], "un matériau fibreux").
+entrée(épongement, présent, [], "participe de éponge").
+entrée(spongieux, adj, [], "PLUS SPONGIEUX LE PLUS SPONGIEUX ressemblant à une éponge").
+entrée(sponsal, adj, [], "relatif au mariage").
+entrée(sponsion, n, [sponsions], "l'acte de parrainer").
+entry(sponson, n, [sponsons], "une saillie du côté d'un navire").
+entrée(sponsor, v, [parrainé,parrainant,parraines], "se rendre responsable de").
+entrée(spontoon, n, [spontoons], "une arme semblable à une lance").
+entrée(blague, v, [blagué,blaguant,blagues], "ridiculiser pour s'amuser").
+entrée(spoofer, n, [spoofers], "celui qui usurpe").
+entrée(espièglerie, n, [espiègleries], "plaisanterie bienveillante").
+entrée(spoofy, adj, [], "satirique de manière humoristique").
+entry(spectre, v, [effrayé,effrayant,effraie], "effrayer").
+entry(sorcellerie, n, [sorcelleries], "quelque chose de terrifiant").
+entrée(spookish, adj, [], "effrayant").
+entrée(sinistre, adj, [], "PLUS SINISTRE LE PLUS SINISTREeffrayantSINISTREMENT adv").
+entrée(bobine, v, [bobiné,bobinant,bobines], "enrouler sur un petit cylindre").
+entrée(spooler, n, [spoolers], "celui qui bobine").
+entrée(spooling, n, [spoolings], "le stockage temporaire de données pour une sortie ultérieure").
+entrée(spoon, v, [spooned,spooning,spoons], "prendre avec une cuillère un type d'ustensile de table").
+entry(spooner, n, [spooners], "celui qui se comporte de manière amoureuse").
+entry(spooney, adj, [], "PLUSCUILLER PLUSCUILLESTcuiller").
+entrée(cuillère, n, [cuillères], "une cuillère").
+entrée(cuillerée, n, [cuillerées], "ou CUILLERÉESaussi beaucoup qu'une cuillère peut contenir").
+entrée(cuillerées, a, [], "pl de cuillerée").
+entrée(spoony, adj, [], "PLUS SENTIMENTALLE PLUSPÉMOTIONALLETOUCHANTE adv").
+entrée(spoony, n, [spoonies], "une personne tête-en-l'air").
+entry(piste, v, [pisté,pistant,pistes], "suivre un animal").
+entrée(spoorer, n, [spoorers], "celui qui suit une piste").
+entrée(sporadique, adj, [], "se produisant à intervalles irréguliers").
+entry(sporal, adj, [], "relatif à ou ressemblant à une spore").
+entry(spore, v, [spored,sporing,spores], "produire des spores, généralement des corps reproducteurs unicellulaires asexués").
+entry(sporoïde, adj, [], "ressemblant à une spore").
+entry(sporozoa, npl, [], "animaux unicellulaires parasites").
+entrée(sporran, n, [sporrans], "une grande bourse portée par les Highlanders écossais").
+entry(sport, v, [sported,sporting,sports], "batifoler").
+entrée(sportif, n, [sportifs], "celui qui fait du sport").
+entrée(sportful, adj, [], "sportive").
+entrée(sportif, n, [sportifs], "une personne qui est active ou intéressée par les compétitions physiques").
+entrée(sportive, adj, [], "enjoué").
+entrée(sportif, adj, [], "PLUS SPORTIF LE PLUS SPORTIFvoyantSPORTIVEMENT adv").
+entrée(sporule, n, [sporules], "une petite sporeSPORULAIRE adj").
+entrée(spot, v, [tacheté, tachetant, taches], "marquer avec des taches de petites décolorations arrondies").
+entrée(immaculé, adj, [], "parfaitement propre").
+entrée(spotlit, a, [], "past simple de spotlight").
+entrée(observateur, n, [observateurs], "celui qui observe").
+entry(observation, n, [observations], "la pratique de chercher des exemples de quelque chose").
+entrée(moucheté, adj, [], "PLUS MOUCHETÉ LE PLUS MOUCHETÉmarqué de tachesMOUCHETÉ adv").
+entrée(conjugale, n, [conjugales], "mariage").
+entrée(époux, v, [épousé,épousant,épouse], "épouser").
+entrée(gicleur, v, [giclé,giclant,gicle], "éjecter en un jet rapide").
+entrée(gicleur, n, [gicleurs], "celui qui gicle").
+entrée(spouting, n, [spoutings], "un canal pour évacuer l'eau d'un toit").
+entrée(spraddle, v, [spraddled, spraddling, spraddles], "enjamber").
+entry(sprag, n, [sprags], "un dispositif utilisé pour empêcher un véhicule de reculer").
+entry(entorse, v, [entorsé,entorsant,entorses], "affaiblir par une torsion ou une flexion soudaine et violente").
+entrée(sprang, n, [sprangs], "une technique de tissage pour former un filet à mailles ouvertes").
+entrée(sprat, n, [sprats], "un petit hareng").
+entrée(sprattle, v, [sprattled,sprattling,sprattles], "lutter").
+entrée(sprawl, v, [étalé,étalant,étale], "s'étendre sans grâce").
+entrée(sprawler, n, [sprawlers], "celui qui s'étend").
+entrée(sprawly, adj, [], "PLUS SPRAWLY LE PLUS SPRAWLYayant tendance à s'étendre").
+entrée(spray, v, [aspergé,aspergeant,asperge], "disperser en fines particules").
+entrée(pulvérisateur, n, [pulvérisateurs], "celui qui pulvérise").
+entrée(étendre, v, [étendre, étalement, étend], "ouvrir ou élargir sur une zone plus grande").
+entrée(épandeur, n, [épandeurs], "celui qui épand").
+entrée(folie, n, [folies], "une indulgence sans retenue dans une activité").
+entrée(sprent, adj, [], "parsemé").
+entrée(sprier, a, [], "comparatif de spry").
+entrée(spriest, a, [], "superlatif de vif").
+entrée(sprig, v, [sprigged,sprigging,sprigs], "fixer avec de petits clous fins").
+entrée(sprigger, n, [spriggers], "celui qui pose des broyeurs").
+entrée(spriggy, adj, [], "PLUS RAMIFIÉ, LE PLUS RAMIFIÉ ayant de petites branches").
+entrée(spright, n, [sprights], "sprite").
+entrée(ressort, v, [sauté,ressortissant,ressorts], "se déplacer rapidement et soudainement vers le haut").
+entry(springal, n, [springals], "un jeune homme").
+entry(attraper, v, [attrapé,attrapant,attrapes], "attraper avec un type de piège").
+entry(springer, n, [sauteurs], "celui qui saute").
+entry(springy, adj, [], "PLUS RESSORT PLUS RESSORTLEplus résilient").
+entree(parsemer, v, [parsemé,parsemant,parsemes], "disperser des gouttes ou des particules sur").
+entry(sprint, v, [sprinté,sprintant,sprints], "courir à toute vitesse").
+entrée(sprinter, n, [sprinters], "celui qui sprinte").
+entrée(sprit, n, [spars], "espar d'un navire").
+entrée(sprite, n, [lutins], "un elfe ou une fée").
+entrée(vif, adj, [], "PLUS VIF PLUS VIVANTplein d'énergie").
+entrée(spritz, v, [spritzé,spritzant,spritzes], "pulvériser").
+entrée(spritzer, n, [spritzers], "une boisson de vin blanc et d'eau gazeuse").
+entrée(spritzy, adj, [], "SPRITZIER SPRITZIESTémission d'un jet").
+entrée(pignon, n, [pignons], "une projection semblable à une dent qui engage les maillons d'une chaîne").
+entrée(sprog, n, [sprogs], "un petit enfant").
+entrée(sproglet, n, [sproglets], "un sprog").
+entrée(pousse, v, [poussé,poussant,pousses], "commencer à pousser").
+entrée(sapin, adj, [], "LE PLUS PROPRE LE PLUS PROPRE soigné et net d'apparencePROPREMENT adv").
+entrée(épicéa, v, [épicé,épiçant,épicent], "rendre épicéa").
+entrée(sprucy, adj, [], "SPRUCIER SPRUCIESTspruce").
+entrée(sprue, n, [sprues], "une maladie tropicale").
+entrée(moineau, n, [moineaux], "un moineau").
+entrée(sprung, a, [], "passé du verbe spring").
+entrée(spry, adj, [], "SPRYER SPRYEST ou SPRIER SPRIESTagileSPRYLY adv").
+entrée(spryness, n, [sprynesses], "la qualité ou l'état d'être alerte").
+entrée(spud, v, [spuddé, spuddant, spuds], "enlever avec un outil semblable à une bêche").
+entrée(spudder, n, [spudders], "un outil pour enlever l'écorce des arbres").
+entrée(spudgel, n, [spudgels], "un seau attaché à un long poteau").
+entrée(spue, v, [spued,spuing,spues], "vomir").
+entry(spumante, n, [spumantes], "un vin mousseux italien").
+entrée(spume, v, [spumed,spuming,spumes], "écumer").
+entry(spumier, comparatif, [], "de spumeux").
+entrée(spumiest, superlatif, [], "de spumy").
+entrée(écumant, présent, [], "participe de écumer").
+entry(spumone, n, [spumones], "une glace italienne").
+entrée(spumoni, n, [spumonis], "spumone").
+entry(spumeux, adj, [], "écumeux").
+entrée(spumy, adj, [], "SPUMIER SPUMIESTmousseux").
+entry(tourna, passé, [], "temps de tourner").
+entrée(spunk, v, [spunked,spunking,spunks], "commencer à brûler").
+entrée(spunkie, n, [spunkies], "une lumière causée par la combustion de gaz de marais").
+entrée(spunky, adj, [], "PLUS SPUNKY LE PLUS SPUNKY courageux SPUNKILY adv").
+entrée(spur, v, [spurred, spurring, spurs], "inciter avec un éperon, l'aiguillon d'un cavalier").
+entry(éperonner, v, [éperonné, éperonnant, éperonne], "blesser avec un éperon").
+entrée(euphorbe, n, [euphorbes], "une plante tropicale").
+entrée(spurious, adj, [], "non authentique").
+entry(spurless, adj, [], "manquant d'éperon").
+entry(mépriser, v, [méprisé,méprisant,méprise], "rejeter avec mépris").
+entrée(rejetteur, n, [rejetteurs], "celui qui rejette").
+entrée(éperonné, passé, [], "temps de éperonner").
+entrée(spurrer, n, [spurrers], "celui qui éperonne").
+entrée(spurrey, n, [spurrey], "mouron").
+entry(spurrier, n, [spurriers], "celui qui fabrique des éperons").
+entrée(éperonnant, présent, [], "participe de éperonner").
+entry(spurry, n, [spurries], "une mauvaise herbe européenne").
+entrée(spurt, v, [a jailli, jaillissant, jaillit], "jaillir").
+entrée(spurter, n, [spurters], "celui qui jaillit").
+entrée(spurtle, n, [spurtles], "un bâton pour remuer le porridge").
+entrée(sputnik, n, [sputniks], "un satellite artificiel terrestre soviétique").
+entrée(sputter, v, [sputtered,sputtering,sputters], "éjecter des particules par petites rafales").
+entrée(sputtery, adj, [], "éjectant par à-coups").
+entrée(sputum, n, [sputa], "salive").
+entrée(espionner, v, [espionné, espionnant, espionne], "observer secrètement").
+entry(jumelle, n, [jumelles], "un petit télescope").
+entrée(spyware, n, [spywares], "logiciel informatique par lequel des informations personnelles sont secrètement envoyées à un autre ordinateur").
+entrée(pigeon, n, [pigeons], "un jeune pigeon").
+entrée(chamaillerie, v, [chamaillé,chamaillant,chamailles], "se quereller").
+entry(squabby, adj, [], "PLUS SQUABBY LE PLUS SQUABBYcourt et gros").
+entrée(escouade, v, [escouadé, escouadant, escouades], "former des petites groupes organisés en escouades").
+entrée(soldat, n, [soldats], "une recrue militaire").
+entrée(squaddy, n, [squaddies], "squaddie").
+entry(escadron, v, [escadronné, escadronnant, escadrons], "organiser en unités militaires appelées escadrons").
+entrée(squalène, n, [squalènes], "un composé chimique").
+entry(sordide, adj, [], "PLUS SORDIDE LE PLUS SORDIDE marqué par la saleté causée par la négligence ou la pauvreté").
+entrée(squall, v, [squalled,squalling,squalls], "crier ou hurler bruyamment").
+entrée(squaller, n, [squallers], "un qui hurle").
+entry(squally, adj, [], "VENTEUX VENTEUSE").
+entrée(sordidité, n, [sordidités], "la qualité ou l'état d'être sordide").
+entrée(squama, n, [squamae], "une écailleSQUAMEUX SQUAME adj").
+entrée(squamate, n, [squamates], "n'importe quel ordre de reptiles").
+entry(dilapider, v, [dilapidé,dilapidant,dilapide], "dépenser de manière extravagante").
+entry(carré, adj, [], "CARRÉ CARRÉ AYANT quatre côtés égaux et quatre angles droits rigoureusement conventionnels").
+entrée(square, v, [carré,carration,carres], "faire carré").
+entrée(carrément, adv, [], "de manière directe et honnête").
+entrée(équarrisseur, n, [équarrisseurs], "celui qui équarrie").
+entrée(carré, superlatif, [], "de carré").
+entry(carré, présent, [], "participe de carré").
+entrée(carré, adj, [], "quelque peu carré").
+entrée(squark, n, [squarks], "l'analogue bosonique hypothétique d'un quark").
+entrée(courge, v, [écrasé,écrasant,écrase], "presser en une pulpe ou une masse plate").
+entrée(ecraseur, n, [ecraseurs], "celui qui écrase").
+entrée(squashy, adj, [], "SQUASHIER SQUASHIESTdoux et humide").
+entrée(court, adj, [], "COURT, LE PLUS COURT, court et épais, COURTEMENT adv").
+entrée(s'accroupir, v, [accroupi, s'accroupissant, s'accroupit], "plier les genoux et s'asseoir sur les talons").
+entrée(squatter, v, [squattered,squattering,squatters], "se déplacer à travers l'eau").
+entrée(squatty, adj, [], "SQUATTIER SQUATTIESTsquat").
+entrée(squawk, v, [criât, criaillant, cris], "pousser un cri strident").
+entry(squawker, n, [piailleurs], "celui qui piaille").
+entrée(crisser, v, [crissé, crissant, crisse], "produire un son aigu et perçant").
+entrée(criard, n, [criards], "celui qui grince").
+entry(grinçant, adj, [], "PLUS GRINÇANT LE PLUS GRINÇANT ayant tendance à grincer").
+entrée(crier, v, [crié,criant,cries], "émettre un cri aigu et perçant").
+entrée(squealer, n, [siffleurs], "celui qui siffle").
+entrée(raclette, v, [raclée,raclant,raclettes], "essuyer avec une raclette un outil pour enlever l'eau d'une surface").
+entrée(compresser, v, [compressé,compression,compresse], "presser fortement").
+entrée(presseur, n, [presseurs], "celui qui presse").
+entrée(squeg, v, [squegged,squegging,squegs], "osciller de manière irrégulière").
+entrée(étouffer, v, [étouffé, étouffant, étouffe], "écraser").
+entrée(squelchy, adj, [], "SQUELCHIER SQUELCHIESTsquashy").
+entrée(squib, v, [squibbed,squibbing,squibs], "satiriser").
+entrée(squibber, n, [squibbers], "un roulant de champ intérieur qui devient un coup sûr").
+entrée(calamars, v, [calamaré,calamarant,calamars], "pêcher des calamars, mollusques marins à dix bras").
+entrée(squidgy, adj, [], "PLUS-SQUISH PLUS-SQUISHspongieux détrempé").
+entrée(squiffed, adj, [], "ivre").
+entrée(squiffy, adj, [], "SQUIFFIER SQUIFFIESTsquiffed").
+entrée(squiggle, v, [squiggled,squiggling,squiggles], "se tortiller").
+entry(squiggly, adj, [], "PLUS TORTILLÉ LE PLUS TORTILLÉtortillé").
+entrée(squilgee, v, [squilgeed,squilgeeing,squilgees], "utiliser une raclette").
+entry(scille, n, [scilles], "une herbe eurasienne").
+entrée(squilla, n, [squillas], "ou SQUILLAE, un crustacé fouisseur").
+entrée(squinch, v, [squinched,squinching,squinches], "loucher").
+entrée(squinny, adj, [], "SQUINNIER SQUINNIESTsquinty").
+entrée(squinny, v, [squinny, squinnyant, squinnies], "plisser les yeux").
+entry(strabisme, adj, [], "STRABIQUE STRABISSIMEcrosseyed").
+entry(lorgner, v, [lorgna,lorgnant,lorgne], "regarder avec les yeux à moitié fermés").
+entrée(loucheur, n, [loucheurs], "celui qui louche").
+entrée(squinty, adj, [], "PLUS SQUINTY LE PLUS SQUINTYcaractérisé par un loucher").
+entrée(ecuyer, v, [accompagné,accompagnant,accompagne], "servir en tant qu'écuyer un escorte").
+entrée(squireen, n, [squireens], "propriétaire d'un petit domaine").
+entry(squirely, adj, [], "de ou convenable à un écuyer").
+entrée(squirish, adj, [], "qui ressemble à ou convient à un écuyer").
+entrée(écureuil, n, [écureuils], "une courbe ornementale en écriture").
+entry(tortiller, v, [tortillé, tortillant, tortille], "se tortiller").
+entrée(remueur, n, [remueurs], "celui qui se tortille").
+entrée(squirmy, adj, [], "SQUIRMIER SQUIRMIESTwriggly").
+entrée(écureuil, v, [écureuilé,écureuillant,écureuils], "ou ÉCUREUILÉ ÉCUREUILLANT ÉCUREUILSpour stocker pour une utilisation future").
+entry(jeter, v, [jeté,jetant,jette], "éjecter en un fin jet rapide").
+entrée(squirter, n, [squirters], "celui qui asperge").
+entrée(écraser, v, [écrasé, écrasant, écrase], "écraser").
+entry(mou, adj, [], "PLUS MOU LE PLUS MOUmou").
+entrée(squitters, npl, [], "diarrhée").
+entrée(squoosh, v, [squooshed,squooshing,squooshes], "écraser").
+entrée(squooshy, adj, [], "PLUS SQUOOSHY LE PLUS SQUOOSHYsquashy").
+entrée(squush, v, [squushed,squushing,squushes], "écraser").
+entrée(sraddha, n, [sraddhas], "sradha").
+entrée(sradha, n, [sradhas], "une offrande cérémonielle hindoue").
+entry(sri, n, [sris], "monsieur sir utilisé comme un titre de respect hindou").
+entrée(stab, v, [stabbed, stabbing, stabs], "percer avec une arme pointue").
+entrée(stabber, n, [agresseurs], "celui qui poignarde").
+entry(coup_de_couteau, n, [coups_de_couteau], "l'acte de percer quelqu'un avec une arme pointue").
+entry(stable, n, [stables], "une sculpture abstraite stationnaire").
+entrée(stable, adj, [], "STABLER STABLESTrésistant aux changements soudains de position ou de condition").
+entrée(stable, v, [stabled, stabling, stables], "mettre dans une écurie un abri pour animaux domestiques").
+entrée(stabler, n, [stablers], "celui qui tient une écurie").
+entry(stabling, n, [stablings], "hébergement pour les animaux dans une écurie").
+entrée(etablir, v, [établi, établissant, établit], "établir").
+entrée(stablement, adv, [], "de manière stable").
+entrée(staccato, n, [staccatos], "ou STACCATI un passage musical marqué par un jeu net et distinct des notes").
+entrée(stack, v, [empilé, empilant, empile], "empiler").
+entrée(empileur, n, [empileurs], "celui qui empile").
+entrée(empilement, n, [empilements], "un arrangement d'avions tournant au-dessus d'un aéroport en attente d'atterrir").
+entry(stacte, n, [stactes], "une épice utilisée par les anciens Juifs pour fabriquer de l'encens").
+entry(staddle, n, [staddles], "une plateforme sur laquelle le foin est empilé").
+entrée(stade, n, [stades], "une unité de longueur grecque antique").
+entrée(stadia, n, [stadias], "une méthode d'arpentage des distances").
+entrée(stade, n, [stades], "une structure dans laquelle des événements sportifs ont lieu").
+entrée(personnel, v, [doté,dotation,dote], "fournir un personnel un groupe d'assistants").
+entrée(membre_du_personnel, n, [membres_du_personnel], "un membre d'un personnel").
+entrée(dotation, n, [dotations], "la fourniture de personnel").
+entry(cerf, v, [a_cerfé,a_cerfant,cerfs], "assister à une fonction sociale sans accompagnatrice féminine").
+entrée(stage, v, [étagé, mise_en_scène, étapes], "produire pour le public").
+entrée(stageful, n, [stagefuls], "autant qu'une scène peut contenir").
+entrée(metteur en scène, n, [metteurs en scène], "une personne expérimentée").
+entrée(enterrement_de_vie_de_jeune_fille, n, [enterrements_de_vie_de_jeune_fille], "une fête exclusivement féminine pour une femme sur le point de se marier").
+entry(pompeux, adj, [], "POMPEUX LE PLUS POMPEUX pompeux").
+entry(staggard, n, [staggards], "un cerf rouge mâle adulte").
+entry(staggart, n, [staggarts], "affaibli").
+entrée(stagged, passé, [], "temps de stag").
+entrée(tituber, v, [tibuté,titubant,titube], "marcher ou se tenir de façon instable").
+entry(staggery, adj, [], "instable").
+entrée(staggie, n, [staggies], "un poulain").
+entrée(stagging, présent, [], "participe de stag").
+entrée(staggy, adj, [], "PLUS STAGGY LE PLUS STAGGY ayant l'apparence d'un mâle mature").
+entry(corne_de_cerf, n, [cornes_de_cerf], "une corne de cerf utilisée pour un manche de couteau").
+entry(stagier, comparatif, [], "de stagey et stagy").
+entry(plus_stagiaire, superlatif, [], "de théâtral et théâtralisé").
+entrée(théâtralement, adv, [], "d'une manière théâtrale").
+entrée(mise_en_scène, n, [mises_en_scène], "une plateforme temporaire").
+entry(stagnant, adj, [], "ne pas bouger ou couler").
+entrée(stagner, v, [stagné, stagnante, stagne], "devenir stagnant").
+entrée(stagy, adj, [], "AYANT UNE QUALITÉ THÉÂTRALE DE THÉÂTRALITÉ").
+entrée(staid, adj, [], "STAID STAIDEST sobre et posé STAIDLY adv").
+entrée(staig, n, [staigs], "un poulain").
+entrée(tache, v, [taché,tachant,taches], "décolorer ou salir").
+entrée(stainer, n, [stainers], "celui qui tache").
+entrée(escalier, n, [escaliers], "un repos pour le pied utilisé pour passer d'un niveau à un autre").
+entrée(escalier, n, [escaliers], "un vol de marches").
+entrée(wharf, n, [quais], "un quai équipé pour transférer le charbon des wagons de chemin de fer aux navires").
+entry(pieu, v, [pieu,piquet,piquets], "fixer avec un pieu une pièce pointue de bois ou de métal").
+entry(planque, n, [planques], "une surveillance d'une zone, notamment par la police").
+entry(piqueteur, n, [piqueteurs], "celui qui délimite une zone avec des piquets").
+entrée(stalag, n, [stalags], "un camp de prisonniers de guerre allemand").
+entrée(rassis, adj, [], "PLUS RASSIS LE PLUS RASSISpas fraisRASSISSEMENT adv").
+entrée(rassis, v, [rassis, rassissant, rassis], "devenir rassis").
+entry(tige, v, [tigea,tigeant,tiges], "poursuivre furtivement").
+entrée(stalker, n, [stalkers], "celui qui traque").
+entry(filiation, n, [filiations], "l'acte de celui qui traque").
+entrée(stalky, adj, [], "PLUS STALKY LE PLUS STALKYlong et minceSTALKILY adv").
+entry(stall, v, [stagné,stagnant,stagne], "arrêter le progrès de").
+entrée(étalon, n, [étalons], "un cheval mâle non castré").
+entrée(intraitable, n, [intraitables], "un partisan inébranlable").
+entrée(étamine, n, [étamines], "l'organe portant le pollen des plantes à fleursÉTAMINÉ adj").
+entry(endurance, n, [endurances], "enduranceSTAMINAL adj").
+entrée(stammel, n, [stammels], "une couleur rouge").
+entry(bégayer, v, [bégayé,bégayant,bégaye], "parler avec des interruptions et des pauses involontaires").
+entrée(tampon, v, [tamponné,tamponnant,tampons], "poser le pied lourdement").
+entry(débandade, v, [débanda, débandant, débandes], "faire fuir dans une panique effrénée").
+entrée(stampant, n, [stampants], "celui qui tamponne").
+entry(stance, n, [stances], "une manière de se tenir").
+entrée(stanch, adj, [], "STANCHER STANCHESTferme").
+entrée(arreter, v, [arreta,arretant,arretes], "arrêter l'écoulement de sang").
+entry(colmatrice, n, [colmatrices], "celui qui colmate").
+entry(stanchly, adv, [], "d'une manière déterminée").
+entrée(se_tenir, v, [tenu,se_tenant,se_tient], "assumer ou maintenir une position debout").
+entrée(standard, n, [normes], "une mesure établie de comparaison").
+entrée(standby, n, [standbys], "quelqu'un sur qui on peut compter").
+entry(debout, n, [debout], "une personne qui reste debout faute de sièges").
+entrée(stander, n, [standers], "celui qui se tient debout").
+entrée(statut, n, [statuts], "une position ou condition dans la société").
+entrée(standish, n, [standishes], "un réceptacle pour stylos et encre").
+entrée(impasse, n, [impasses], "une égalité ou un match nul comme dans un jeu").
+entrée(vedette, n, [vedettes], "celui qui montre une supériorité marquée").
+entrée(standpat, adj, [], "résistant ou opposé au changement").
+entrée(standup, n, [standups], "un monologue comique d'un artiste seul sur scène").
+entrée(pierre, v, [pierré,pierrant,pierrent], "to stone").
+entrée(stang, v, [stanged, stanging, stangs], "piquer").
+entry(stanhope, n, [stanhopes], "un cabriolet léger ouvert").
+entrée(stanine, n, [stanines], "une des neuf classes dans lesquelles un ensemble de scores est divisé").
+entrée(staning, présent, [], "participe de stane").
+entrée(stank, n, [stanks], "un étang").
+entrée(stannary, n, [stannaries], "une région minière d'étain").
+entry(stannique, adj, [], "relatif à l'étain").
+entrée(stannite, n, [stannites], "un minerai d'étain").
+entry(stanneux, adj, [], "concernant l'étain").
+entrée(etain, n, [étains], "étain").
+entry(stanol, n, [stanols], "un phytostérol entièrement saturé").
+entrée(strophe, n, [strophes], "une division d'un poèmeSTROPHÉE STROPHIQUE adj").
+entry(stapedes, pl, [], "des étriers").
+entrée(stapelia, n, [stapelias], "une plante africaine").
+entrée(étrier, n, [étriers], "un os de l'oreille moyenne").
+entrée(staph, n, [staphs], "une de diverses bactéries sphériques").
+entrée(agrafer, v, [agrafa,agrafant,agrafes], "fixer au moyen d'une boucle métallique en forme de U").
+entrée(agrafeuse, n, [agrafeuses], "un dispositif d'agrafage").
+entrée(étoile, v, [étoilé,étoilant,étoiles], "briller comme une étoile, un corps lumineux naturel visible dans le ciel").
+entrée(amidon, v, [amidonné,amidonant,amidonne], "traiter avec de l'amidon un glucide solide").
+entry(amidonnieur, n, [amidonneurs], "celui qui amidonne").
+entrée(amylacé, adj, [], "PLUS AMYLACÉ LE PLUS AMYLACÉ contenant de l'amidon").
+entry(stardom, n, [stardoms], "le statut d'un artiste de premier plan").
+entrée(poussière_d'étoile, n, [poussières_d'étoiles], "une qualité romantique").
+entrée(regarder, v, [regarda, regardant, regarde], "fixer du regard").
+entrée(fixateur, n, [fixateurs], "celui qui fixe").
+entry(starets, n, [startsy], "un conseiller spirituel dans l'Église orthodoxe orientale").
+entrée(étoile_de_mer, n, [étoiles_de_mer], "un animal marin en forme d'étoile").
+entrée(stargaze, v, [stargazed, stargazing, stargazes], "regarder les étoiles").
+entrée(staring, présent, [], "participe de stare").
+entrée(stark, adj, [], "STARKER STARKESTdur en apparenceSTARKLY adv").
+entrée(starkers, adj, [], "nu").
+entrée(starless, adj, [], "sans étoiles").
+entrée(étoilette, n, [étoilettes], "une petite étoile").
+entrée(starlike, adj, [], "ressemblant à une étoile").
+entrée(étourneau, n, [étourneaux], "un oiseau européen").
+entrée(étoilé, adj, [], "éclairé par les étoiles").
+entrée(starnose, n, [starnoses], "un mammifère fouisseur").
+entrée(étoilé, passé, [], "temps de étoiler").
+entrée(jouant, présent, [], "participe de star").
+entrée(étoilé, adj, [], "ÉTOILÉ ÉTOILÉSabondant d'étoilesÉTOILÉMENT adv").
+entrée(vaisseau_spatial, n, [vaisseaux_spatiaux], "un vaisseau pour le voyage interstellaire").
+entrée(début, v, [commencé,commençant,commence], "partir").
+entrée(début, n, [entrées], "celui qui commence").
+entrée(startle, v, [startled, startling, startles], "effrayer ou surprendre soudainement").
+entrée(startler, n, [startlers], "celui qui surprend").
+entrée(startsy, pl, [], "de starets").
+entrée(startup, n, [startups], "l'acte de commencer quelque chose").
+entry(mourir_de_faim, v, [mort_de_faim, mourant_de_faim, meurent_de_faim], "mourir de manque de nourriture").
+entrée(starver, n, [affamés], "celui qui meurt de faim").
+entrée(étoile de la mer, n, [étoiles de la mer], "une plante à fleurs").
+entrée(stases, pl, [], "de stase").
+entrée(stash, v, [stocké,stockant,stockes], "stocker dans un endroit secret").
+entrée(stasimon, n, [stasima], "une ode chorale dans le drame grec ancien").
+entrée(stase, n, [stases], "un arrêt du flux normal des fluides corporels").
+entrée(stat, n, [statistiques], "une statistique").
+entrée(statable, adj, [], "pouvant être énoncé").
+entry(statal, adj, [], "relatif à un gouvernement national").
+entrée(statant, adj, [], "debout avec tous les pieds sur le sol, utilisé pour un animal héraldique").
+entrée(état, v, [étatd, énonçant, états], "exprimer en mots").
+entrée(statedly, adv, [], "régulièrement").
+entrée(statelet, n, [statelets], "un petit État une communauté politique").
+entrée(imposant, adj, [], "PLUS IMPOSANT LE PLUS IMPOSANTdigne").
+entrée(déclarateur, n, [déclarateurs], "celui qui déclare").
+placement(statistique, n, [statiques], "bruit aléatoire produit dans un récepteur radio ou télévisionSTATIQUE adj").
+entrée(statice, n, [statices], "une plante à fleurs").
+entrée(staticky, adj, [], "marqué par le statique").
+entrée(statine, n, [statines], "n'importe lequel d'une classe de médicaments qui réduisent les taux de cholestérol sérique").
+entrée(déclarant, présent, [], "participe de déclarer").
+entrée(station, v, [stationné, stationnement, stations], "assigner à un poste").
+entrée(statism, n, [statisms], "une théorie du gouvernement").
+entry(statist, n, [statistes], "un adepte du statisme").
+entrée(état, n, [états], "un verbe qui exprime une condition").
+entrée(stator, n, [stators], "la partie d'une machine autour de laquelle tourne le rotor").
+entry(statuaires, n, [statuaires], "un groupe de statues").
+entrée(statue, n, [statues], "une œuvre d'art tridimensionnelleSTATUÉ adj").
+entrée(taille, n, [tailles], "la hauteur naturelle d'un corps humain ou animalHAUTEUR adj").
+entrée(statut, n, [statuts], "position relative").
+entrée(statusy, adj, [], "conférant du prestige").
+entrée(loi, n, [lois], "une loi promulguée par le pouvoir législatif d'un gouvernement").
+entrée(staumrel, n, [staumrels], "un imbécile").
+entrée(staunch, adj, [], "STAUNCHER STAUNCHESTferme et fiable").
+entry(étancher, v, [étanché, étanchant, étanche], "arrêter l'écoulement").
+entrée(stave, v, [stove, staving, staves], "pour repousser ou éloigner").
+entrée(staw, a, [], "passé du verbe steal").
+entrée(rester, v, [resté, restant, reste], "continuer dans un lieu ou une condition").
+entrée(résident, n, [résidents], "celui qui reste").
+entrée(trinquette, n, [trinquettes], "un type de voile").
+entrée(stead, v, [steaded, steading, steads], "être un avantage pour").
+entrée(stabilisé, passé, [], "temps de stabiliser").
+entrée(stabilisateur, n, [stabilisateurs], "celui qui stabilise").
+entrée(ferme, n, [fermesses], "une petite ferme").
+entrée(stable, adj, [], "PLUS STABLE LE PLUS STABLE ferme en position STABLEMENT adv").
+entrée(stable, v, [stabilisé,stabilisant,stabilise], "pour rendre stable").
+entrée(steak, n, [steaks], "une tranche de viande").
+entry(voler, v, [volé,volé,volant], "VOLERPrendre sans droit ni permission").
+entrée(vol, n, [vols], "vol").
+entry(voleur, n, [voleurs], "celui qui vole").
+entrée(voler, n, [vols], "l'acte de celui qui vole").
+entrée(furtivité, n, [furtivités], "procédure furtive").
+entry(discret, adj, [], "PLUS DISCRET LE PLUS DISCRET destiné à échapper à l'observation").
+entrée(vapeur, v, [vaporisé,vaporisant,vaporise], "exposer à la vapeur d'eau sous forme de vapeur").
+entrée(vapeur, v, [vaporisé,vaporisation,vapeurs], "voyager en bateau à vapeur").
+entrée(steamie, n, [steamies], "un hot-dog vapeur").
+entrée(steamy, adj, [], "PLUS VAPEUR LE PLUS VAPEUR marqué par la vapeur VAPOREUSEMENT adv").
+entrée(steapsine, n, [steapsines], "une enzyme").
+entrée(stéarate, n, [stéarates], "un sel chimique").
+entrée(stéarine, n, [stéarines], "la partie solide d'une graisseSTÉARIQUE adj").
+entry(stéarine, n, [stéarines], "stéarine").
+entrée(steatite, n, [stéatites], "une variété de talc").
+entrée(stedfast, adj, [], "inébranlable").
+entry(cheval, n, [chevaux], "un cheval").
+entrée(steek, v, [steeké,steekant,steeke], "fermer").
+entrée(acier, v, [aciéré,aciérant,acières], "couvrir avec de l'acier un alliage de fer dur").
+entrée(steelie, n, [steelies], "une bille en acier").
+entrée(steely, adj, [], "RESEMBLANT À L'ACIER").
+entry(steenbok, n, [steenboks], "une antilope africaine").
+entrée(raide, adj, [], "PLUS RAIDE LE PLUS inclinée vivement").
+entrée(steep, v, [steeped, steeping, steeps], "faire tremper dans un liquide").
+entrée(raidir, v, [raidi, raidissant, raidit], "rendre raide").
+entry(plus_raide, n, [plus_raides], "celui qui trempe").
+entry(steepish, adj, [], "quelque peu raide").
+entrée(clocher, n, [clochers], "une structure effilée sur une tour d'église").
+entrée(clocher, v, [clochers,clocherons,clochait], "placer les doigts ou les mains en forme de clocher").
+entry(raide, adv, [], "de manière raide").
+entry(diriger, v, [dirigé, dirigeant, dirige], "diriger la direction de").
+entrée(steerage, n, [steerages], "l'acte de diriger").
+entrée(barreur, n, [barreurs], "celui qui barre").
+entrée(direction, n, [directions], "l'action de diriger le cours d'un véhicule ou d'un navire").
+entry(steeve, v, [steevé, steevant, steeves], "arrimer dans la cale d'un navire").
+entrée(steeving, n, [steevings], "l'élévation angulaire d'un beaupré par rapport à la quille d'un navire").
+entrée(stégodon, n, [stégodons], "un mammifère éteint semblable à un éléphant").
+entrée(stein, n, [steins], "une chope à bière").
+entry(steinbok, n, [steinboks], "steenbok").
+entrée(stèle, n, [stèles], "ou stèle, dalle inscrite utilisée comme un monument STÉLAR STÉLÈNE adj").
+entrée(stèle, n, [stèles], "la portion centrale du tissu vasculaire dans une tige de planteSTÉLIQUE adj").
+entrée(stella, n, [stellas], "une monnaie autrefois utilisée aux États-Unis").
+entry(étoilé, adj, [], "relatif aux étoiles").
+entrée(stellate, adj, [], "en forme d'étoile").
+entry(stellify, v, [stellifié, stellifiant, stellifie], "convertir en étoile").
+entrée(stem, v, [stemmed, stemming, stems], "enlever les tiges des axes ascendants d'une plante").
+entrée(sans_tige, adj, [], "n'ayant pas de tige").
+entrée(tigeRessemblant, adj, [], "ressemblant à une tige").
+entrée(stemma, n, [stemmas], "ou STEMMATA un parchemin enregistrant la généalogie d'une famille dans la Rome antique").
+entrée(stemmed, passé, [], "temps de la racine").
+entrée(stemmer, n, [stemmers], "quelqu'un qui enlève les tiges").
+entry(stemmery, n, [stemmeries], "un endroit où les feuilles de tabac sont dépouillées").
+entrée(stemming, présent, [], "participe de stem").
+entrée(stemmy, adj, [], "PLUS-TIGEUX LE-PLUS-TIGEUXabondant en tiges").
+entrée(stemson, n, [stemsons], "un bois de soutien d'un navire").
+entrée(verrerie, n, [verreries], "un type de verrerie").
+entrée(puant, n, [puanteurs], "une odeur nauséabonde").
+entry(stenchy, adj, [], "PLUS PUANT LE PLUS PUANTayant une odeur désagréable").
+entrée(stencil, v, [pochoiré, pochoirant, pochoirs], "ou POCHOIRÉ POCHOIRANT POCHOIRS pour marquer au moyen d'une feuille de matériel perforée").
+entrée(stengah, n, [stengahs], "un cocktail").
+entrée(sténo, n, [sténos], "un sténographe").
+entrée(sténokie, n, [sténokies], "la capacité d'un organisme à vivre seulement dans une gamme étroite de conditions").
+entrée(sténosé, adj, [], "affecté par une sténose").
+entrée(sténose, n, [sténoses], "un rétrécissement d'un passage corporelSTÉNOTIQUE adj").
+entrée(stent, n, [stents], "un dispositif tubulaire inséré dans un vaisseau sanguin").
+entrée(stentor, n, [stentors], "une personne ayant une voix très forte").
+entrée(step, v, [stepped,stepping,steps], "se déplacer en levant le pied et en le posant à un autre endroit").
+entry(beau-père, n, [beaux-pères], "un beau-père").
+entrée(bellemère, n, [bellemères], "une belle-mère").
+entry(sans_marches, adj, [], "manquant de structures en marches pour passer d'un niveau à l'autre").
+entrée(semblable_à_une_marche, adj, [], "ressemblant à un escalier").
+entrée(bellemère, n, [bellemères], "une belle-mère").
+entry(steppes, n, [steppes], "une vaste plaine sans arbres").
+entrée(marché, passé, [], "temps de marcher").
+entry(stepper, n, [steppeurs], "celui qui marche").
+entrée(stepping, présent, [], "participe de step").
+entry(beau-fils, n, [beaux-fils], "un fils du conjoint d'une personne d'un mariage précédent").
+entrée(progressif, adj, [], "caractérisé par une progression graduelle").
+entrée(stérane, n, [stéranes], "un composé chimique").
+entry(stérè, n, [stérés], "une unité de volume").
+entrée(stéréo, v, [stéréotypé, stéréotypant, stéréotypes], "faire une sorte de plaque d'impression").
+entrée(stérique, adj, [], "relatif aux relations spatiales des atomes dans une molécule").
+entry(stérical, adj, [], "stérique").
+entrée(sterigma, n, [sterigmas], "ou STERIGMATA, une tige portant des spores de certains champignons").
+entrée(stérile, adj, [], "incapable de produire une descendance").
+entrée(esturgeon, n, [esturgeons], "un petit esturgeon").
+entry(sterling, n, [sterlingsb], "monnaie britannique").
+entrée(stern, adj, [], "PLUS SÉVÈRE LE PLUS SÉVÈRE inflexible").
+entry(arrière, n, [arrières], "la partie arrière d'un navireARREIÉ adj").
+entrée(sterna, a, [], "pl de sternum").
+entrée(sternal, adj, [], "relatif au sternum").
+entry(sternite, n, [sternites], "un sclérite somitique").
+entry(sévèrement, adv, [], "d'une manière sévère").
+entrée(sternson, n, [sternsons], "un poteau de renforcement d'un navire").
+entrée(sternum, n, [sternums], "ou STERNA, un os long et plat de soutien de la plupart des vertébrés").
+entry(sternway, n, [sternways], "le mouvement arrière d'un navire").
+entry(stéroïde, n, [stéroïdes], "un type de composé chimique").
+entrée(stérol, n, [stérols], "un type d'alcool solide").
+entrée(stertor, n, [stertors], "un bruit profond de ronflement").
+entrée(stet, v, [stetted,stetting,stets], "annuler une correction typographique précédemment effectuée").
+entry(stevia, n, [stevias], "une herbe sud-américaine aux feuilles au goût sucré").
+entrée(ragoût, v, [ragoûté, ragoûtant, ragoûts], "cuire en bouillant lentementRAGOÛTABLE adj").
+entrée(intendant, v, [intendance, administrant, intendants], "gérer").
+entrée(clochard, n, [clochards], "un ivrogne un vagabond").
+entrée(casserole, n, [casseroles], "une poêle utilisée pour mijoter").
+entrée(marmite, n, [marmites], "une grande casserole pour mijoter").
+entry(stewy, adj, [], "ayant les caractéristiques d'un ragoût, aliment cuit par mijotage").
+entrée(stey, adj, [], "raide").
+entrée(sthénie, n, [sthénies], "énergie excessive STÉNIQUE adj").
+entry(stibial, adj, [], "relatif au stibium").
+entrée(stibine, n, [stibines], "un gaz toxique").
+entrée(stibium, n, [stibiums], "antimoine").
+entrée(stibnite, n, [stibnites], "un minerai d'antimoine").
+entrée(stiche, n, [stiches], "une ligne de poésieSTICHIC adj").
+entry(bâton, v, [bâtonné,bâtonnant,bâtons], "soutenir avec des morceaux de bois élancés").
+entrée(bâton, v, [enfoncé,enfonçant,bâtons], "percer avec un objet pointu").
+entrée(sticker, n, [autocollants], "une étiquette adhésiveADHÉSIVÉ adj").
+entrée(stickful, n, [stickfuls], "une quantité de type donné").
+entry(stickie, n, [adhésifs], "autocollant").
+entry(plus_collant, comparatif, [], "de collant").
+entrée(stickies, pl, [], "de collant").
+entrée(stickiest, superlatif, [], "de collant").
+entrée(collant, adv, [], "de manière collante").
+entrée(stickit, adj, [], "sans succès").
+entry(stickle, v, [stickled,stickling,stickles], "argumenter obstinément").
+entrée(stickler, n, [sticklers], "celui qui ergote").
+entrée(stickman, n, [stickmen], "celui qui supervise le jeu à une table de dés").
+entry(stickout, n, [stickouts], "celui qui est remarquable").
+entrée(épingle, n, [épingles], "une épingle décorative pour cravate").
+entry(stickum, n, [stickums], "une substance qui provoque l'adhésion").
+entrée(stickup, n, [stickups], "un vol à main armée").
+entrée(sticky, n, [autocollants], "un morceau de papier avec une bande adhésive à l'arrière").
+entrée(collant, adj, [], "PLUS COLLANT LE PLUS COLLANTtendant à adhérer").
+entrée(stiction, n, [stictions], "la force nécessaire pour commencer à déplacer un corps qui est en contact avec un autre corps").
+entry(stied, a, [], "passé du verbe sty").
+entrée(sties, présent, [], "3ème personne singulier de sty").
+entrée(raide, adj, [], "PLUS RAIDE LE PLUS RAIDE difficile à plier ou à étirer").
+entrée(rusé, v, [rusé, rusant, ruse], "tromper quelqu'un en ne payant pas").
+entree(raidir, v, [raidit,raidissant,raidit], "rendre rigide").
+entrée(stiffish, adj, [], "quelque peu rigide").
+entry(rigide, adv, [], "d'une manière rigide").
+entrée(étouffer, v, [étouffé, étouffant, étouffe], "étouffer").
+entrée(stifler, n, [stifleurs], "celui qui étouffe").
+entrée(stigmate, n, [stigmates], "ou STIGMATAune marque de disgrâceSTIGMALE adj").
+entrée(stilbène, n, [stilbènes], "un composé chimique").
+entry(stilbite, n, [stilbites], "un minéral").
+entry(stile, n, [marches], "une série de marches pour franchir une clôture ou un mur").
+entrée(stiletto, v, [stilettoed,stilettoing,stilettos], "ou STILETTOESto poignarder avec un stylet une dague courte").
+entrée(still, adj, [], "IMMUABLE IMMOBILElibre de bruit ou de mouvement").
+entry(toujours, v, [rendu_calme, calmant, calme], "rendre calme").
+entry(râtelier, n, [râteliers], "une plate-forme basse sur laquelle garder les marchandises hors du sol").
+entrée(stillman, n, [stillmen], "celui qui exploite une distillerie").
+entrée(stillson, n, [stillsons], "une grande clé un outil pour saisir et tourner").
+entry(stilly, adj, [], "STILLIER STILLIESTimmobile").
+entrée(échasse, v, [échassé,échassant,échasses], "élever sur des échasses longues et effilées").
+entrée(stime, n, [stimes], "un aperçu").
+entrée(stimulus, n, [stimuli], "quelque chose qui provoque une réaction").
+entrée(stimy, v, [stimied,stimying,stimies], "contrarier").
+entrée(piquer, v, [piqué,piquant,pique], "piquer douloureusement").
+entrée(stinge, n, [stinges], "une personne méchante ou avare").
+entrée(dard, n, [dards], "celui qui pique").
+entrée(stingier, comparatif, [], "de avare").
+entry(stingiest, superlatif, [], "de avare").
+entry(parcimonieusement, adv, [], "d'une manière avare").
+entrée(stingo, n, [stingoes], "une bière forte ou ale").
+entrée(pastenague, n, [pastenaques], "un poisson marin à corps plat").
+entry(avare, adj, [], "PLUS AVARE LE PLUS AVAREpeu disposé à dépenser ou à donner").
+entrée(puer, v, [puait, puant, pue], "émettre une mauvaise odeur").
+entry(stinkard, n, [stinkards], "une personne méprisable").
+entry(punaise, n, [punaises], "un insecte qui dégage une odeur désagréable").
+entrée(puant, n, [puants], "celui qui pue").
+entry(stinko, adj, [], "ivre").
+entry(pot puant, n, [pots puants], "un pot contenant des combustibles malodorants anciennement utilisés dans la guerre").
+entry(stinky, adj, [], "PLUS PUANT LE PLUS PUANT émettant une odeur nauséabonde").
+entry(stint, v, [limitée,limitant,limite], "limiter").
+entrée(stinter, n, [stinters], "celui qui limite").
+entrée(stipe, n, [stipes], "une partie de support mince d'une plante STIPED adj").
+entry(stipel, n, [stipels], "une petite stipule").
+entry(stipend, n, [stipends], "une somme d'argent fixée payée périodiquement").
+entrée(stipes, n, [stipites], "un stipe").
+entrée(stipple, v, [pointillé,pointillant,pointille], "dessiner, peindre ou graver à l'aide de points ou de touches courtes").
+entry(stippler, n, [stipplers], "celui qui pointille").
+entry(stipule, n, [stipules], "un appendice à la base d'une feuille chez certaines plantesSTIPULAIRE STIPULÉ adj").
+entrée(remuer, v, [remué,remuant,remue], "faire passer un outil en mouvements circulaires").
+entry(stirk, n, [stirks], "une jeune vache").
+entrée(stirp, n, [stirps], "lignée").
+entrée(lignée, n, [lignées], "une famille ou une branche d'une famille").
+entrée(remué, passé, [], "temps de mélanger").
+entrée(agiteur, n, [agiteurs], "celui qui agite").
+entry(remuant, n, [remuements], "un début de mouvement").
+entrée(étrier, n, [étriers], "un support pour le pied d'un cavalier").
+entrée(coudre, v, [cousu,cousant,coud], "joindre en faisant des mouvements d'aller et retour avec une aiguille enfilée").
+entrée(brodeur, n, [brodeurs], "celui qui brode").
+entry(stithy, v, [stithied,stithying,stithies], "forger sur une enclume").
+entrée(stiver, n, [stivers], "une pièce néerlandaise autrefois utilisée").
+entrée(stoa, n, [stoae], "ou STOAI ou STOASun portique grec ancien").
+entrée(hermine, n, [hermines], "une belette à queue noire").
+entrée(stob, v, [stobbed, stobbing, stobs], "poignarder").
+entrée(estocade, n, [estocades], "une attaque avec une rapière").
+entrée(stoccata, n, [stoccatas], "stoccado").
+entrée(stock, v, [stocké,stockage,stocks], "à garder pour une vente ou une utilisation future").
+entrée(palisade, v, [palisadé,palisadant,palisades], "construire un type de clôture protectrice autour").
+entrée(stockage, n, [stocks], "la quantité de fournitures disponibles").
+entry(voiture_de_stock, n, [voitures_de_stock], "un wagon pour transporter du bétail").
+entry(bouvin, n, [bouvins], "un jeune animal adapté à l'engraissement pour le marché").
+entrée(trapu, comparatif, [], "de trapu").
+entrée(stockiest, superlatif, [], "de costaud").
+entrée(stockily, adv, [], "d'une manière trapue").
+entry(bas, n, [bas], "un couvre-pied et jambe tricoté ou tissé").
+entrée(stockish, adj, [], "stupide").
+entrée(stockiste, n, [stockistes], "celui qui stocke des marchandises").
+entrée(stockman, n, [stockmen], "celui qui possède ou élève du bétail").
+entrée(marmite, n, [marmites], "un pot dans lequel le bouillon est préparé").
+entrée(trapu, adj, [], "TRAPU TRAPUEayant un corps court et épais").
+entrée(stodge, v, [stodged, stodging, stodges], "bourrer de nourriture").
+entry(ennuyeux, adj, [], "PLUS_ENNUYEUX LE_PLUS_ENNUYEUXennuyeuxENNUIE adv").
+entrée(stogey, n, [stogeys], "stogy").
+entrée(cigare, n, [cigares], "cigare").
+entry(stogy, n, [cigares], "un long cigare mince").
+entrée(stoïque, n, [stoïciens], "celui qui est indifférent au plaisir ou à la douleurSTOÏQUE adj").
+entrée(stoïcisme, n, [stoïcismes], "indifférence au plaisir ou à la douleur").
+entrée(stoke, v, [ravitaillé,ravitaillement,ravitaille], "approvisionner un four en combustible").
+entrée(stoker, n, [stokers], "celui qui alimente").
+entry(stokesia, n, [stokesias], "une herbe vivace").
+entrée(voler, n, [écharpes], "un long large écharpeVOLÉ adj").
+entrée(volé, passé, [], "participe de steal").
+entry(stolid, adj, [], "STOLIDE STOLIDEPHR showing little or no emotionSTOLIDEMENT adv").
+entrée(stollen, n, [stollens], "un pain sucré").
+entrée(stolon, n, [stolons], "un type de tige de plante STOLONIQUE adj").
+entrée(aéroport_stol, n, [aéroports_stol], "un aéroport pour les aéronefs nécessitant des pistes relativement courtes").
+entrée(stoma, n, [stomas], "ou STOMATAa une minuscule ouverture dans l'épiderme d'un organe végétal").
+entrée(estomac, v, [estomacé,estomacent,estomacs], "supporter").
+entry(estomac, adj, [], "ventru").
+entrée(stomal, adj, [], "stomatal").
+entrée(stomata, a, [], "pl de stomate").
+entrée(stomatal, adj, [], "relatif à un stomate").
+entrée(stomate, n, [stomates], "un stomate").
+entrée(stomatique, adj, [], "relatif à la bouche").
+entrée(stomodea, npl, [], "cavités orales embryonnaires").
+entrée(stomp, v, [stompé, piétinant, piétine], "marcher lourdement").
+entry(stomper, n, [stompers], "celui qui piétine").
+entrée(stompy, adj, [], "STOMPIER STOMPIESTconduisant à taper du pied").
+entry(pierre, v, [pierra,pierrant,pierrent], "jeter des pierres pièces de matière terreuse ou minérale consolidéePIERRABLE adj").
+entry(gravure_sur_pierre, n, [gravures_sur_pierre], "une impression réalisée à partir d'une image gravée sur une pierre").
+entrée(mouche_de_pierre, n, [mouches_de_pierre], "un insecte ailé").
+entry(stoner, n, [stoners], "celui qui lapide").
+entrée(stoney, adj, [], "PLUS_PIERREUX LE_PLUS_PIERREUXpierreux").
+entrée(stonier, comparatif, [], "de pierre").
+entrée(stoniest, superlatif, [], "de pierreux").
+entrée(stonily, adv, [], "d'une manière pierreuse").
+entrée(lapidation, présent, [], "participe de stone").
+entrée(stonish, v, [stonished,stonishing,stonishes], "étonner").
+entrée(obus, v, [obusa,obusant,obuses], "bombarder avec des tirs d'artillerie").
+entrée(stonker, n, [stonkers], "quelque chose de très grand ou impressionnant de son genre").
+entrée(stonking, adj, [], "remarquablement excitant").
+entrée(stony, adj, [], "PLUS PIERREUX PIERREUXabondant en pierres").
+entrée(stood, passé, [], "temps de stand").
+entrée(stooge, v, [stooged,stooging,stooges], "servir de faire-valoir à un comédien").
+entry(stook, v, [stooked,stooking,stooks], "empiler en bottes de céréales debout dans un champ pour sécher").
+entrée(stooker, n, [stookers], "celui qui met en javelles").
+entrée(stooking, n, [stookings], "le travail d'un stooker").
+entrée(tabouret, v, [taboureta,taboureter,tabourettes], "déféquer").
+entrée(indic, n, [indics], "un informateur").
+entry(stoop, v, [stooped,stooping,stoops], "se pencher en avant et vers le bas").
+entrée(stooper, n, [stoopers], "celui qui se penche").
+entrée(stop, v, [arrêter, arrêtant, arrêts], "interrompre le progrès ou le mouvement de").
+entrée(stopband, n, [stopbands], "une bande de fréquences limitée par un filtre").
+entry(stopbank, n, [levée], "une digue le long d'une rivière").
+entrée(robinet, n, [robinets], "un type de robinet").
+entrée(stope, v, [stoped,stoping,stopes], "excaver en couches comme du minerai").
+entrée(stoper, n, [stopers], "celui qui creuse").
+entrée(stopgap, n, [stopgaps], "un substitut temporaire").
+entry(stoping, n, [extractions], "le processus d'excavation par couches").
+entry(escale, n, [escales], "une escale").
+entry(escale, n, [escales], "une brève escale au cours d'un voyage").
+entry(interruption, n, [interruptions], "l'acte d'arrêter").
+entrée(arrêté, a, [], "passé de stop").
+entry(bouchon, v, [bouchonné,bouchonnant,bouchons], "boucher").
+entrée(arrêtant, présent, [], "participe de stop").
+entrée(bouchon, v, [bouchonné,bouchonnant,bouchonne], "boucher").
+entrée(stopt, a, [], "passé simple de stop").
+entry(mot_irrégulier, n, [mots_irréguliers], "un mot fréquemment utilisé qui n'est pas recherché par les moteurs de recherche").
+entrée(stockable, n, [stockables], "quelque chose qui peut être stocké").
+entrée(stockage, n, [stockages], "un endroit pour stocker").
+entrée(storax, n, [storaxes], "une résine parfumée").
+entrée(magasin, v, [stocké,stockant,stocke], "mettre de côté pour un usage futur").
+entrée(magasinier, n, [magasiniers], "un homme qui s'occupe des marchandises stockées").
+entrée(rangeur, n, [rangeurs], "celui qui range").
+entrée(niveau, n, [niveaux], "une division horizontale d'un bâtimentÉTAGES adj").
+entrée(storied, past, [], "temps du récit").
+entrée(histoires, présent, [], "3e personne singulier de histoire").
+entry(conservation, present, [], "participe de conserver").
+entrée(cigogne, n, [cigognes], "un oiseau échassier").
+entrée(tempête, v, [tempêté,tempêtant,tempêtes], "souffler violemment").
+entrée(orageux, adj, [], "PLUS ORAGEUX LE PLUS ORAGEUX tempêtant D'UNE MANIÈRE ORAGEUSE adv").
+entry(histoire, v, [racontées,racontant,histoires], "raconter sous forme d'histoire un récit d'un événement ou d'une série d'événements").
+entrée(stoss, adj, [], "face à la direction d'où un glacier se déplace").
+entrée(stot, v, [stotta,stottant,stots], "sauter sur ses jambes raides").
+entrée(stotin, n, [stotins], "ou STOTINOV ancienne unité monétaire de la Slovénie").
+entry(stotinka, n, [stotinki], "une unité monétaire de la Bulgarie").
+entrée(stott, v, [stotted,stotting,stotts], "stotter").
+entrée(stound, v, [stounded, stounding, stounds], "faire mal").
+entrée(stoup, n, [stoups], "un bassin pour eau bénite").
+entrée(stour, n, [stours], "poussière").
+entrée(stoure, n, [stoures], "stour").
+entrée(stourie, adj, [], "stoury").
+entrée(stoury, adj, [], "poussiéreux").
+entrée(stout, adj, [], "STOUTER STOUTESTgros").
+entrée(stout, n, [stouts], "une bière brune forte").
+entrée(stouten, v, [stoutened, stoutening, stoutens], "rendre robuste").
+entrée(stoutish, adj, [], "quelque peu corpulent").
+entrée(stoutly, adv, [], "d'une manière robuste").
+entrée(poêle, v, [poêlé,poêlant,poêles], "chauffer quelque chose dans un appareil de chauffage").
+entrée(stover, n, [stovers], "nourriture grossière pour le bétail").
+entrée(plaque_de_cuisson, n, [plaques_de_cuisson], "la surface supérieure d'un appareil de cuisson").
+entrée(stow, v, [stowed,stowing,stows], "ranger").
+entrée(arrimage, n, [arrimages], "marchandises en stockage").
+entrée(clandestin, n, [clandestins], "celui qui se cache à bord d'un véhicule pour obtenir un passage gratuit").
+entrée(stowp, n, [stowps], "gobelet").
+entry(enjamber, v, [enjamba, enjambant, enjambe], "s'asseoir, se tenir debout ou marcher avec les jambes écartées").
+entrée(strafer, v, [strafé, strafant, strafe], "attaquer par des tirs de mitrailleuse depuis un avion").
+entrée(strafer, n, [strafers], "celui qui arrose de projectiles").
+entry(straggle, v, [straggled,straggling,straggles], "errer").
+entrée(straggly, adj, [], "STRAGGLIER STRAGGLIESTirrégulièrement réparti").
+entree(droit, adj, [], "PLUSDROIT DROITLEPLUS s'étendant uniformément dans une direction sans courbes ni irrégularités").
+entrée(straight, v, [straighted, straighting, straights], "rendre droit").
+entrée(tension, v, [tendu, tendant, tensions], "exercer jusqu'à l'extrême").
+entry(passoire, n, [passoires], "un ustensile utilisé pour séparer les liquides des solides").
+entry(détroit, adj, [], "DÉTROIT DÉTROITÉÉtroitDÉTROITEMENT adv").
+entrée(détroit, n, [détroits], "une voie navigable étroite reliant deux étendues d'eau plus vastes").
+entrée(rétrécir, v, [rétréci,rétrécissant,rétrécit], "rendre étroit").
+entrée(strake, n, [strakes], "une ligne de planches s'étendant le long de la coque d'un navire STRAKED adj").
+entry(stramash, n, [stramashes], "un tumulte").
+entrée(stramony, n, [stramonies], "une mauvaise herbe toxique").
+entrée(strand, v, [échoué, échouant, échoue], "laisser dans une situation défavorable").
+entrée(strander, n, [stranders], "une machine qui tord les fibres en corde").
+entrée(strang, adj, [], "forte").
+entrée(étrange, n, [étranges], "un quark fondamental").
+entrée(étrange, adj, [], "PLUS ÉTRANGE/TRÈS ÉTRANGE, inhabituel ou inconnu").
+entrée(étranger, v, [étrangé,étrangeant,étrangers], "étranger").
+entrée(étrangler, v, [étranglé, étranglant, étrangle], "étouffer jusqu'à la mort").
+entrée(sangle, v, [sanglé,sangle,sangles], "attacher avec une sangle une bande étroite de matériau flexible").
+entrée(strapper, n, [strappers], "celui qui attache").
+entry(strappy, adj, [], "AYANT DES BRETELLES PLUS STRAPPÉ STRAPPÉ").
+entry(strass, n, [strass], "un verre brillant utilisé dans la fabrication de faux bijoux").
+entry(strata, n, [strates], "un plat de couches alimentaires alternées").
+entrée(stratal, adj, [], "relatif à un stratum").
+entrée(stratégie, n, [stratégies], "un plan pour atteindre un objectif spécifique").
+entrée(strath, n, [straths], "une large vallée fluviale").
+entry(strati, pl, [], "de stratus").
+entry(stratifier, v, [stratifié,stratifiant,stratifie], "former ou disposer en couches").
+entrée(stratous, adj, [], "stratal").
+entrée(couche, n, [couches], "ou STRATES une couche de matériau").
+entrée(stratus, n, [stratus], "ou STRATUS, un type de nuage").
+entrée(stravaguer, v, [stravagué,stravagant,stravaguent], "flâner").
+entry(stravaig, v, [stravaiged,stravaiging,stravaigs], "flâner").
+entrée(paille, v, [paillé,paillement,pailles], "couvrir avec des tiges de paille de grain battu").
+entrée(strawhat, adj, [], "relatif à un théâtre d'été situé dans une station balnéaire").
+entrée(strawy, adj, [], "STRAWIER STRAWIESTressemblant à de la paille").
+entrée(stray, v, [a erré, errant, s'égare], "errer loin de la zone ou du parcours approprié").
+entrée(strayer, n, [strayers], "celui qui s'égare").
+entrée(streak, v, [striée, striant, stries], "couvrir de stries longues et étroites").
+entrée(streaker, n, [streakers], "celui qui traverse nu").
+entrée(strié, adj, [], "PLUS STRIÉ LE PLUS STRIÉ couvert de stries").
+entrée(rivière, v, [charrié, charrient, charrie], "couler dans un flux régulier").
+entrée(drapeau, n, [drapeaux], "un long drapeau étroit").
+entrée(streamy, adj, [], "STREAMIER STREAMIESTstreaming").
+entrée(streek, v, [streeké,streekant,streekes], "étendre").
+entry(streeker, n, [streekers], "celui qui streek").
+entrée(streel, v, [streeled, streeling, streels], "flâner").
+entrée(rue, n, [rues], "une voie publiqueRUES adj").
+entry(force, n, [forces], "capacité d'exercice ou d'endurance").
+entrée(streptocoque, n, [streptocoques], "toute bactérie ronde ou ovale de la famille des streptocoques").
+entrée(stress, v, [stressed, stressing, stresses], "mettre l'accent sur").
+entrée(stressor, n, [stresseurs], "un type de stimulus").
+entrée(étirer, v, [étiré,étirant,étend], "tirer ou ouvrir à pleine longueur").
+entrée(étirable, adj, [], "PLUS ÉTIRABLE LE PLUS ÉTIRABLE ayant tendance à s'étirer").
+entrée(stretta, n, [strettas], "ou STRETTEstretto").
+entrée(stretto, n, [strettos], "ou STRETTI un passage musical final joué à un tempo plus rapide").
+entrée(streusel, n, [streusels], "un nappage pour des gâteaux au café").
+entrée(strew, v, [strewed, strewn, strewing], "STREWstparsemer").
+entry(strewer, n, [strewers], "celui qui répand").
+entrée(stria, n, [striae], "une fine rainure, bande ou strie").
+entry(striate, v, [striated,striating,striates], "marquer avec des stries").
+entrée(striatum, n, [striata], "une masse de tissu nerveux dans le cerveauSTRIATAL adj").
+entry(strick, n, [stricks], "un tas de fibres de lin").
+entry(frappe, adj, [], "fortement affecté ou affligé").
+entrée(strickle, v, [strickled,strickling,strickles], "façonner ou lisser avec un strickle, un instrument pour niveler le grain").
+entrée(strict, adj, [], "STRICT PLUS STRICT gardé dans des limites étroites et spécifiques STRICTEMENT adv").
+entrée(stride, v, [strode,stridden,striding], "STRIDEMarcher avec de longs pas").
+entrée(strident, adj, [], "strident").
+entrée(strider, n, [striders], "un qui marche").
+entrée(striding, présent, [], "participe de stride").
+entrée(stridor, n, [stridors], "un son strident").
+entrée(strife, n, [strifes], "conflit amer ou dissension").
+entrée(strigile, n, [strigiles], "un instrument de raclage").
+entrée(strigose, adj, [], "couvert de poils courts et raides").
+entrée(frapper, v, [frappé,frappant,frappe], "frapper avec force").
+entrée(buteur, n, [buteurs], "celui qui frappe").
+entrée(frappant, n, [frappants], "l'acte de frapper quelque chose avec force").
+entrée(strine, n, [strinese], "anglais tel qu'il est parlé en Australie").
+entrée(string, v, [cordé,cordage,cordes], "fournir avec des cordes des cordons minces").
+entrée(stringer, n, [stringers], "celui qui enfile").
+entrée(stringy, adj, [], "RESEMBLANT À UNE CORDE OU CORDES PLUS CORDÉ CORDEST").
+entrée(strip, v, [stript,stripping,strips], "enlever le revêtement extérieur de").
+entrée(stripe, v, [rayé,rayant,rayures], "marquer avec de longues bandes distinctes").
+entry(bar, n, [bars], "un poisson de nourriture et de sport").
+entrée(stripey, adj, [], "STRIPIER STRIPIESTstripy").
+entrée(stripier, comparatif, [], "de rayé").
+entry(stripiest, superlatif, [], "de strié").
+entrée(rayure, n, [rayures], "les rayures marquées ou peintes sur quelque chose").
+entrée(dépouillé, à, [], "temps passé de déshabiller").
+entrée(dépouilleur, n, [dépouilleurs], "celui qui dépouille").
+entrée(dépouillant, présent, [], "participe de dépouiller").
+entry(stript, a, [], "passé du verbe 'dépouiller'").
+entrée(stripy, adj, [], "STRIPIER STRIPIESTmarqué de rayures").
+entrée(lutter, v, [lutté, lutté, luttant], "LUTTER pour déployer beaucoup d'efforts ou d'énergie").
+entrée(striver, n, [strivers], "celui qui s'efforce").
+entrée(stroboscope, v, [stroboscopé, stroboscopie, stroboscopes], "produire des éclairs de lumière brefs et intenses").
+entry(strobic, adj, [], "tournant").
+entrée(strobil, n, [strobiles], "strobile").
+entrée(strobile, n, [strobiles], "le corps entier d'un ténia").
+entrée(strobile, n, [strobiles], "le fruit conique multiple de certains arbres").
+entrée(strobiles, npl, [], "strobiles").
+entrée(stroboscopique, n, [stroboscopiques], "le processus de production d'éclairs de lumière de haute intensité").
+entrée(strode, a, [], "temps passé de stride").
+entrée(stroke, v, [stroked,stroking,strokes], "frotter doucement").
+entrée(strokeur, n, [strokeurs], "celui qui caresse").
+entrée(promener, v, [promené,promenant,promène], "marcher d'une manière détendue").
+entrée(poussette, n, [poussettes], "celle qui se promène").
+entry(stroma, n, [stromas], "la substance qui forme la charpente d'un organe ou d'une celluleSTROMAL adj").
+entrée(fort, adj, [], "PLUS FORT LE PLUS FORTayant une grande forceFORTEMENT adv").
+entrée(strongyl, n, [strongyls], "un ver parasite").
+entrée(strontia, n, [strontias], "un composé chimiqueADCJ STRONTIQUE").
+entrée(strook, a, [], "passé du verbe 'frapper'").
+entrée(strop, v, [stroppé,stroppant,stropps], "affûter sur une bande de cuir").
+entrée(strophe, n, [strophes], "une partie d'une ode chorale grecque ancienneSTROPHIQUE adj").
+entrée(stropper, n, [singes], "celui qui affûte").
+entrée(stroppy, adj, [], "STROPPIER STROPPIESTindiscipliné").
+entry(stroud, n, [strouds], "une couverture de laine grossière").
+entry(s'efforça, a, [], "passé du verbe s'efforcer").
+entrée(strow, v, [strowed, strown, strowing], "STROWSto éparpiller").
+entrée(détruire, v, [détruit,détruisant,détruit], "détruire").
+entrée(stroyer, n, [stroyers], "celui qui stroy").
+entry(frappe, a, [], "passé du verbe frapper").
+entrée(strucken, a, [], "participe passé de frapper").
+entrée(strudel, n, [strudels], "un type de pâtisserie").
+entrée(struggle, v, [lutté, luttant, luttes], "faire des efforts vigoureux contre l'opposition").
+entrée(strum, v, [strummed,strumming,strums], "jouer d'un instrument à cordes en passant légèrement les doigts sur les cordes").
+entrée(struma, n, [strumas], "ou STRUMAScrofules").
+entrée(strummer, n, [strummers], "celui qui gratte").
+entrée(strumming, présent, [], "participe de strum").
+entry(strumeuse, adj, [], "ayant une struma").
+entry(strumous, adj, [], "ayant ou concernant un strume").
+entrée(strumpet, n, [strumpets], "une prostituée").
+entrée(strung, a, [], "temps passé de string").
+entrée(strunt, v, [strunted,strunting,strunts], "se pavaner").
+entry(strut, v, [strutted,strutting,struts], "marcher avec un air pompeux").
+entrée(strutter, n, [strutters], "celui qui se pavane").
+entrée(stub, v, [stubbed, stubbing, stubs], "heurter accidentellement un objet faisant saillie").
+entrée(stubbier, comparatif, [], "de trapu").
+entrée(stubbiest, superlatif, [], "de trapu").
+entrée(stubbily, adv, [], "d'une manière trapue").
+entrée(stubbing, présent, [], "participe de stub").
+entry(chaume, n, [chaumes], "une courte croissance rugueuse de barbeCHAUME adj").
+entrée(stubbly, adj, [], "PLUS PAILLEUX LE PLUS PAILLEUXcouvert de chaume").
+entry(têtu, adj, [], "PLUS TÊTU LE PLUS TÊTUinflexible").
+entrée(trapu, adj, [], "PLUS TRAPU LE PLUS TRAPUcourt et épaisTRAPU adv").
+entrée(stubby, n, [stubbies], "une bouteille de bière courte et trapue").
+entry(stuc, v, [stuqué,stuquant,usedestuquer], "ou STUCque enduire d'un type d'enduit").
+entry(stuccoer, n, [stuccoers], "celui qui enduit").
+entrée(coincé, passé, [], "temps de coller").
+entrée(étud, v, [clouté, cloutage, clous], "placer densément avec de petites projections").
+entrée(livre généalogique, n, [livres généalogiques], "un enregistrement de la généalogie d'animaux de race pure").
+entry(enclume, n, [enclumes], "une enclume").
+entrée(studding, n, [studdings], "la charpente d'un mur").
+entrée(étudiant, n, [étudiants], "une personne formellement engagée dans l'apprentissage").
+entrée(studfish, n, [studfishes], "un poisson d'eau douce").
+entrée(étudié, passé, [], "temps de l'étude").
+entry(étudier, n, [étudiants], "celui qui étudie").
+entrée(étudie, présent, [], "3e personne singulier de étudier").
+entrée(atelier, n, [ateliers], "un espace de travail pour artistes").
+entry(studieux, adj, [], "enclin à l'étude").
+entrée(studly, adj, [], "STUDLIER STUDLIESTmusclé et attrayant").
+entrée(studwork, n, [studworks], "studding").
+entrée(étudier, v, [étudié, étudiant, étudie], "appliquer l'esprit à l'acquisition de connaissances").
+entrée(trucs, v, [farci, rembourrage, rembourre], "remplir ou emballer étroitement").
+entrée(bourreur, n, [bourreurs], "celui qui bourre").
+entrée(farce, n, [farces], "matériau avec lequel quelque chose est farci").
+entrée(stuffy, adj, [], "PLUS MAL AÉRÉ LE PLUS MAL AÉRÉmal ventiléMAL AÉRÉ adv").
+entry(stuiver, n, [stuivers], "stiver").
+entrée(stull, n, [stulls], "un bois de soutien dans une mine").
+entry(ahurir, v, [ahuri,ahurissant,ahurit], "faire paraître absurde").
+entrée(stum, v, [stummed,stumming,stums], "augmenter la fermentation en ajoutant du jus de raisin").
+entrée(trébucher, v, [trébuché,trébuchant,trébuche], "perdre l'équilibre en marchant ou en courant").
+entrée(trébucheur, n, [trébucheurs], "celui qui trébuche").
+entrée(souche, v, [érigé, érigeant, érige], "déconcerter").
+entrée(stumpage, n, [stumpages], "bois commercialisable non coupé").
+entrée(stumper, n, [stumpers], "une question déconcertante").
+entrée(stumpy, adj, [], "STUMPIER STUMPIESTcourt et épaisSTUMPILY adv").
+entrée(étourdir, v, [étourdi, étourdissant, étourdit], "rendre insensé ou incapable d'agir").
+entrée(piquer, passé, [], "temps de piquer").
+entrée(pué, a, [], "passé du verbe puer").
+entrée(stunner, n, [éblouissants], "celui qui éblouit").
+entrée(stunsail, n, [stunsails], "un type de voile").
+entry(cascade, v, [cascadé,cascade,casades], "entraver la croissance normale de").
+entrée(cascadeur, n, [cascadeurs], "une personne qui remplace un acteur dans des scènes impliquant des activités dangereuses").
+entry(stupa, n, [stupas], "un sanctuaire bouddhiste").
+entrée(stupe, n, [stupes], "une compresse médicamenteuse à appliquer sur une plaie").
+entry(abrutir, v, [abruti,abrutissant,abrutit], "engourdir les sens de").
+entry(stupide, adj, [], "PLUS STUPIDE PLUS STUPIDEMENTlent d'espritSTUPIDEMENT adv").
+entrée(stupide, n, [stupides], "une personne stupide").
+entrée(stupeur, n, [stupors], "un état de sensibilité réduite").
+entrée(solide, adj, [], "PLUS SOLIDE LE PLUS SOLIDEstable et durableSOLIDEMENT adv").
+entrée(solide, n, [solides], "une maladie des moutonsSOLIDifié adj").
+entrée(esturgeon, n, [esturgeons], "un poisson comestible").
+entrée(sturt, n, [sturts], "contention").
+entrée(bégayer, v, [bégayé,bégaiement,bégaye], "parler avec une répétition spasmodique").
+entrée(sty, v, [styed, styling, sties], "mettre dans une porcherie").
+entrée(orgelet, n, [orgelets], "un gonflement inflammé de la paupière").
+entrée(stygian, adj, [], "sombre").
+entrée(stylar, adj, [], "relatif à un stylet").
+entrée(stylate, adj, [], "portant un stylet").
+entrée(style, v, [stylé,stylisation,styles], "nommer").
+entrée(styler, n, [stylers], "celui qui coiffe").
+entrée(stylet, n, [stylets], "un petit organe ou appendice rigide de certains animaux").
+entrée(stylets, a, [], "pl de stylet").
+entry(styling, n, [stylings], "la façon dont quelque chose est stylé").
+entrée(styliser, v, [stylisé,stylisant,stylise], "styliser").
+entrée(styliser, n, [styliseurs], "celui qui stylise").
+entrée(stylé, adj, [], "à la mode").
+entrée(styliste, n, [stylistes], "celui qui maîtrise un style littéraire ou rhétorique").
+entrée(stylite, n, [stylites], "un ascète chrétien primitifSTYLITIQUE adj").
+entry(styliser, v, [stylisé,stylisant,stylise], "rendre conventionnel").
+entrée(styliser, n, [styliseurs], "celui qui stylise").
+entrée(styloïde, n, [styloïdes], "une projection osseuse élancée").
+entry(stylopid, n, [stylopides], "un stylops").
+entrée(stylops, n, [stylops], "un insecte qui est un parasite d'autres insectes").
+entrée(stylet, n, [stylets], "ou STYLIun instrument pointu pour écrire marquer ou graver").
+entrée(bloquer, v, [bloqué,bloquant,bloque], "entraver").
+entrée(stymy, v, [stymié,stymiant,stymie], "entraver").
+entrée(stypsis, n, [stypsises], "l'utilisation d'un hémostatique").
+entry(styptique, n, [styptiques], "une substance utilisée pour arrêter les saignements").
+entrée(styrax, n, [styracaires], "styrax").
+entrée(styrène, n, [styrènes], "un hydrocarbure liquide").
+entrée(suable, adj, [], "capable d'être poursuivi SUABLY adv").
+entrée(suasion, n, [suasions], "persuasionSUASIF SUASOIRE adj").
+entrée(suave, adj, [], "LE PLUS SUAVE SUAVEMENT agréable et poli SUAVEMENT adv").
+entrée(suavité, n, [suavités], "l'état d'être suave").
+entry(sub, v, [remplaça,remplaçant,remplaces], "agir en tant que remplaçant").
+entrée(suba, n, [subas], "subah").
+entrée(sous-abbé, n, [sous-abbés], "un abbé subordonné").
+entrée(subacide, adj, [], "légèrement acide").
+entrée(subacré, adj, [], "quelque peu acre").
+entry(subaigu, adj, [], "quelque peu aigu").
+entry(subadar, n, [subadars], "subahdar").
+entry(subadulte, n, [subadultes], "un individu s'approchant de l'âge adulte").
+entrée(sous-agent, n, [sous-agents], "un agent subordonné").
+entrée(subah, n, [subahs], "une province de l'Inde").
+entry(subahdar, n, [subahdars], "un gouverneur d'une subah").
+entry(subalaire, adj, [], "situé sous les ailes").
+entry(sous-zone, n, [sous-zones], "une subdivision d'une zone").
+entrée(subaride, adj, [], "quelque peu aride").
+entrée(sous_atome, n, [sous_atom], "un composant d'un atome").
+entry(subaural, adj, [], "à peine audible").
+entry(sous-axial, adj, [], "quelque peu axial").
+entrée(sous-base, n, [sous-bases], "la partie la plus basse d'une base").
+entrée(sous-bassin, n, [sous-bassins], "une section d'une zone drainée par un fleuve").
+entrée(sous-basse, n, [sous-basses], "un jeu de pédale produisant les sons les plus graves d'un orgue").
+entry(subbed, passé, [], "temps de sub").
+entrée(subbing, n, [subbings], "un revêtement mince sur le support d'un film photographique").
+entrée(sous-bloc, n, [sous-blocs], "une subdivision d'un bloc").
+entrée(soussouche, n, [soussouches], "une souche distincte au sein d'une race").
+entrée(sous-caste, n, [sous-castes], "une subdivision d'une caste").
+entrée(sous-cause, n, [sous-causes], "une cause subordonnée").
+entry(sous-cellule, n, [sous-cellules], "une subdivision d'une cellule").
+entrée(sous-chef, n, [sous-chefs], "un chef subalterne").
+entrée(sous-revendication, n, [sous-revendications], "une revendication subordonnée").
+entrée(sous-clan, n, [sous-clans], "une subdivision d'un clan").
+entrée(sous-classe, v, [sous-classé, sous-classant, sous-classes], "placer dans une sous-division d'une classe").
+entrée(sous-employé, n, [sous-employés], "un employé subalterne").
+entrée(sous-code, n, [sous-codes], "une subdivision d'un code").
+entrée(subcool, v, [sous-refroidi, sous-refroidissement, sous-refroidis], "refroidir en dessous du point de congélation sans solidification").
+entrée(subcult, n, [subcults], "une subdivision d'un culte").
+entrée(hypoderme, n, [hypodermes], "ou HYPODERMEla partie plus profonde du derme").
+entrée(sous-doyen, n, [sous-doyens], "un doyen adjoint").
+entry(subdeb, n, [subdebs], "une fille l'année avant qu'elle ne devienne une débutante").
+entry(sous-dépôt, n, [sous-dépôts], "un dépôt militaire qui fonctionne sous la juridiction d'un autre dépôt").
+entry(asservissement, n, [asservissements], "l'acte de soumettre").
+entry(subduire, v, [subduit, subduisant, subduit], "emporter").
+entrée(subduct, v, [subducted,subducting,subducts], "subduire").
+entrée(maîtriser, v, [maîtrisé,maîtrisant,maîtrise],"pour soumettre au contrôle").
+entrée(subjugueur, n, [subjugueurs], "celui qui subjugue").
+entrée(sous-dural, adj, [], "situé sous la dure-mère").
+entrée(sous-naine, n, [sous-naines], "une étoile de faible luminosité relative").
+entrée(subecho, n, [sous-échos], "un écho inférieur").
+entry(subedit, v, [subedited,subediting,subedits], "agir en tant que rédacteur adjoint de").
+entrée(sousentrée, n, [sousentrées], "une entrée faite sous une entrée plus générale").
+entrée(sous-époche, n, [sous-époques], "une subdivision d'une époque").
+entrée(suber, n, [subers], "phellem").
+entrée(suberect, adj, [], "presque dressé").
+entrée(suberic, adj, [], "relatif au liège").
+entrée(subérine, n, [subérines], "une substance trouvée dans les cellules du liège").
+entrée(subériser, v, [subérisé, subérisant, subérise], "subériser").
+entry(subériser, v, [subérisé,subérisant,subérise], "convertir en tissu de liège").
+entrée(suberose, adj, [], "liégeux").
+entry(subéreux, adj, [], "subérisé").
+entrée(sous-champ, n, [sous-champs], "un sous-ensemble d'un champ mathématique qui est lui-même un champ").
+entrée(sous_fichier, n, [sous_fichiers], "une subdivision d'un fichier").
+entry(sous-suffixe, n, [sous-suffixes], "un symbole ou une lettre distinctive écrite en dessous d'un autre caractère").
+entrée(sous-plancher, n, [sous-planchers], "un plancher brut posé comme base pour un plancher fini").
+entry(subfluide, adj, [], "quelque peu fluide").
+entry(sous-châssis, n, [sous-châssis], "un cadre pour la fixation d'un cadre de finition").
+entrée(subfusc, n, [subfuscs], "vêtements sombres et ternes").
+entry(sous-genre, n, [sous-genres], "une subdivision d'un genre").
+entry(sous-genre, n, [sous-genres], "ou SOUS-GENERAa subdivision d'un genre").
+entrée(sous_objectif, n, [sous_objectifs], "un objectif subordonné").
+entry(sous-couche, n, [sous-couches], "une surface sur laquelle un pavage est placé").
+entrée(sous-graphe, n, [sous-graphes], "un graphe contenu dans un graphe plus grand").
+entrée(sous-groupe, v, [sous-groupé, sous-groupement, sous-groupes], "diviser en petits groupes").
+entrée(subgum, n, [subgums], "un plat chinois de légumes mélangés").
+entrée(sous-titre, n, [sous-titres], "le titre d'une subdivision").
+entrée(sous-humain, n, [sous-humains], "celui qui est moins qu'humain").
+entry(subhumide, adj, [], "quelque peu humide").
+entrée(sousidée, n, [sousidées], "une idée inférieure").
+entrée(sousindice, n, [sousindices], "ou SOUSINDICESun suffixe").
+entrée(sous-élément, n, [sous-éléments], "un élément qui forme une sous-division d'un sujet plus large").
+entrée(subito, adv, [], "rapidement utilisé comme indication musicale").
+entry(sujet, v, [sujeté,sujettant,sujette], "faire éprouver").
+entrée(ajouter, v, [ajouté, ajoutant, ajoute], "ajouter à la fin").
+entry(sublate, v, [sublated,sublating,sublates], "annuler").
+entrée(sous-location, v, [sous-loué, sous-louant, sous-loue], "sous-louer").
+entrée(sous-louer, v, [sous-louer, sous-location, sous-loue], "louer une propriété louée à un autre").
+entrée(sous-niveau, n, [sous-niveaux], "un niveau inférieur").
+entrée(sublime, adj, [], "SUBLIMER SUBLIMESTde qualité élevée ou noble").
+entrée(sublime, v, [sublimé,sublimant,sublime], "rendre sublime").
+entrée(sublimer, n, [sublimers], "un qui sublime").
+entrée(sublimest, superlatif, [], "de sublime").
+entrée(sous-limite, n, [sous-limites], "une limite dans une limite").
+entrée(sous-ligne, n, [sous-lignes], "une ligne consanguine au sein d'une souche").
+entrée(sous-lot, n, [sous-lots], "une subdivision d'un lot").
+entrée(sublunaire, adj, [], "relatif à la terre").
+entrée(sousmenu, n, [sousmenus], "une liste secondaire d'options pour un ordinateur").
+entrée(submerger, v, [submergé, submergeant, submerge], "placer sous la surface d'un liquide").
+entrée(submerger, v, [submergé, submergeant, submerge], "immerger").
+entrée(soumis, adj, [], "enclin à se soumettre").
+entrée(soumettre, v, [soumis, soumettant, soumet], "se soumettre au pouvoir d'un autre").
+entrée(sous-nasal, adj, [], "situé sous le nez").
+entrée(sous-réseau, n, [sous-réseaux], "un système d'interconnexions au sein d'un système de communication").
+entrée(sous-niche, n, [sous-niches], "une subdivision d'un habitat").
+entry(sous-nodal, adj, [], "situé sous un nœud").
+entrée(subocéan, adj, [], "existant sous le fond de l'océan").
+entrée(suboptique, adj, [], "situé sous les yeux").
+entrée(suboral, adj, [], "situé sous la bouche").
+entrée(sous-ordre, n, [sous-ordres], "une catégorie de familles apparentées au sein d'un ordre").
+entry(suborner, v, [suborné, subornant, suborne], "inciter à commettre un parjure").
+entry(suborner, n, [suborneurs], "celui qui suborne").
+entry(suboval, adj, [], "presque ovale").
+entry(subovate, adj, [], "presque ovale").
+entrée(suboxyde, n, [suboxydes], "un oxyde contenant relativement peu d'oxygène").
+entry(sous-panneau, n, [sous-panneaux], "une subdivision d'un panneau").
+entrée(subpar, adj, [], "en-dessous de la norme").
+entry(sous-partie, n, [sous-parties], "une subdivision d'une partie").
+entrée(subpena, v, [subpenaed, subpenaing, subpenas], "assigner à comparaître").
+entrée(sous-phase, n, [sous-phases], "une subdivision d'une phase").
+entrée(sous-embranchements, npl, [], "divisions dans un embranchement").
+entrée(sous-intrigue, n, [sous-intrigues], "une intrigue littéraire secondaire").
+entrée(assignation, v, [assigné,assignant,assignations], "pour convoquer avec un type de mandat judiciaire").
+entry(subpolaire, adj, [], "situé juste à l'extérieur des cercles polaires").
+entrée(subprime, adj, [], "désignant un prêt à un taux d'intérêt plus élevé qu'un taux principal").
+entry(subpubic, adj, [], "situé sous le pubis").
+entrée(sous_race, n, [sous_races], "une subdivision d'une race").
+entrée(sous-loyer, n, [sous-loyers], "loyer d'un sous-locataire").
+entry(sous-anneau, n, [sous-anneaux], "un sous-ensemble d'un anneau mathématique qui est lui-même un anneau").
+entrée(sous-règle, n, [sous-règles], "une règle subordonnée").
+entrée(sous-vente, n, [sous-ventes], "une revente de biens achetés").
+entrée(sous-échelle, n, [sous-échelles], "une subdivision d'une échelle").
+entry(sous-marin, adj, [], "situé sous la surface de la mer").
+entrée(sous-secte, n, [sous-sectes], "une secte directement dérivée d'une autre").
+entrée(soussens, n, [soussens], "une subdivision d'un sens").
+entrée(subsere, n, [subsères], "un type de succession écologique").
+entry(subserve, v, [subserved, subserving, subserves], "servir pour promouvoir").
+entry(sous-ensemble, n, [sous-ensembles], "un ensemble mathématique contenu dans un ensemble plus grand").
+entry(sous-arbre, n, [sous-arbres], "un arbre qui se trouve sous un autre arbre").
+entrée(sous-couche, n, [sous-couches], "une des orbitales constituant une couche électronique d'un atome").
+entrée(sous-arbrisseau, n, [sous-arbrisseaux], "un arbuste bas").
+entrée(subside, v, [subsidence,subsider,subsident], "s'enfoncer à un niveau inférieur ou normal").
+entry(subsider, n, [subsiders], "celui qui s'affaisse").
+entrée(subvention, n, [subventions], "une subvention ou contribution d'argent").
+entrée(subsister, v, [subsisté,subsistant,subsiste], "continuer à exister").
+entrée(sous-site, n, [sous-sites], "une subdivision d'un site").
+entrée(sous-compétence, n, [sous-compétences], "une compétence subordonnée").
+entry(sous-sol, v, [sous-solé,sous-solage,sous-sols], "labourer de manière à retourner le sous-sol, la couche de terre sous la terre de surface").
+entrée(subsolaire, adj, [], "situé directement sous le soleil").
+entry(subsonique, adj, [], "se déplaçant à une vitesse inférieure à celle du son").
+entrée(sous-espace, n, [sous-espaces], "un sous-ensemble d'un espace mathématique").
+entrée(sous-étape, n, [sous-étapes], "une partie d'un microscope pour supporter des accessoires").
+entry(sous-état, n, [sous-états], "une subdivision d'un état").
+entry(subsumer, v, [subsume, subsumant, subsument], "inclure dans un groupe plus large").
+entrée(sous-tâche, n, [sous-tâches], "une tâche subordonnée").
+entry(sous-taxon, n, [sous-taxons], "ou SOUS-TAXONune subdivision d'un taxon").
+entrée(sous-adolescent, n, [sous-adolescents], "une personne s'approchant de l'adolescence").
+entry(sous-tendre, v, [sous-tendu,sous-tendant,sous-tend], "s'étendre sous ou en face de").
+entrée(sous-test, n, [sous-tests], "une subdivision d'un test").
+entrée(sous-texte, n, [sous-textes], "écrit ou imprimé sous un texte plus général").
+entrée(sous-thème, n, [sous-thèmes], "un thème subordonné").
+entrée(subtile, adj, [], "SUBTIL SUBTILISSIMEsubtile").
+entrée(subtilin, n, [subtilins], "un antibiotique").
+entrée(subtilité, n, [subtilités], "subtlety").
+entrée(sous-titre, v, [sous-titré,sous-titrage,sous-titres], "donner un titre secondaire à").
+entrée(subtil, adj, [], "PLUS SUBTIL LE PLUS SUBTILsi léger qu'il est difficile à détecterSUBTILEMENT adv").
+entry(subtilité, n, [subtilités], "l'état d'être subtil").
+entrée(soustons, n, [soustons], "un ton bas ou modéré").
+entrée(sous-tonique, n, [sous-toniques], "un type de ton musical").
+entrée(subtopia, n, [subtopies], "les banlieues d'une ville").
+entrée(sous-sujet, n, [sous-sujets], "un sujet secondaire").
+entrée(sous_total, v, [sous_totalé,sous_totalant,sous_totaux], "ou SOUS_TOTALÉ SOUS_TOTALANT SOUS_TOTAUXpour totaliser une partie de").
+entrée(soustraire, v, [soustrait, soustrayant, soustrait], "enlever").
+entrée(sous-traitant, n, [sous-traitants], "un spécialiste engagé par un entrepreneur général").
+entrée(sous-tendance, n, [sous-tendances], "une tendance subordonnée").
+entrée(sous-tribu, n, [sous-tribus], "une subdivision d'une tribu").
+entry(sous-tunique, n, [sous-tuniques], "une tunique portée sous une autre tunique").
+entrée(sous-type, n, [sous-types], "un type qui est subordonné ou inclus dans un autre type").
+entrée(subulate, adj, [], "mince et se rétrécissant en pointe").
+entrée(sous-unité, n, [sous-unités], "une unité qui fait partie d'une unité plus grande").
+entrée(banlieue, n, [banlieues], "une zone résidentielle adjacente à une villeBANLIEUE adj").
+entrée(banlieusard, n, [banlieusards], "celui qui habite en banlieue").
+entrée(banlieue, n, [banlieues], "les banlieues d'une ville").
+entrée(subvene, v, [subvened,subvening,subvenes], "arriver ou se produire comme un soutien ou un soulagement").
+entry(subvertir, v, [subverti,subvertissant,subvertit], "détruire complètement").
+entrée(sous-vicaire, n, [sous-vicaires], "un vicaire subordonné").
+entry(sous-viral, adj, [], "relatif à une partie d'un virus").
+entrée(sous-virus, n, [sous-virus], "une protéine virale plus petite qu'un virus").
+entry(subvocal, adj, [], "formulé mentalement comme des mots").
+entrée(métro, v, [métré, métrant, mètres], "voyager par un chemin de fer souterrain").
+entrée(sous-monde, n, [sous-mondes], "une subdivision d'une sphère d'intérêt ou d'activité").
+entry(subzero, adj, [], "enregistrant moins de zéro").
+entrée(sous-zone, n, [sous-zones], "une subdivision d'une zone").
+entrée(succah, n, [succahs], "ou SUCCOTHsukkah").
+entrée(réussir, v, [réussi, réussissant, réussit], "accomplir quelque chose de souhaité ou d'intentionné").
+entrée(succès, n, [succès], "la réalisation de quelque chose de désiré ou d'intentionné").
+entry(succinct, adj, [], "SUCCINCTER SUCCINTESTRésumé clairement en quelques mots").
+entrée(succinique, adj, [], "se rapportant à l'ambre").
+entry(succinyl, n, [succinyls], "un radical monovalent").
+entry(secourir, v, [secouru,secourant,secours], "aller au secours de").
+entrée(sécoureur, n, [sécoureurs], "celui qui secourt").
+entrée(chicorée, n, [chicorées], "chicory").
+entrée(souccoth, a, [], "pl de souccah").
+entrée(secourir, v, [secouru,secourant,secours], "secourir").
+entrée(succube, n, [succubes], "ou SUCCUBAEa succube").
+entry(succube, n, [succubes], "ou SUCCUBIa démone").
+entrée(succomber, v, [succombé, succombant, succombe], "céder à une force supérieure").
+entrée(succuss, v, [succussed,succussing,succusses], "secouer violemment").
+entrée(tel, adj, [], "de ce genre").
+entrée(similaire, adj, [], "d'un type similaire").
+entrée(suchness, n, [suchnesses], "qualité essentielle ou caractéristique").
+entrée(sucer, v, [sucé,sucant,suce], "aspirer en établissant un vide partiel").
+entrée(sucker, v, [suckered,suckering,suckers], "éliminer les pousses ou branches inférieures").
+entry(suctions, n, [suçoirs], "un rémora").
+entry(téter, v, [téta,tétant,tète], "donner du lait au sein").
+entrée(suckleuse, n, [suckleuses], "celle qui allaite").
+entrée(sans_sève, adj, [], "n'ayant pas de jus").
+entrée(suckling, n, [sucklings], "un mammifère non sevré").
+entrée(sucky, adj, [], "TRÈS OBJECTIONNABLE SUCKIER SUCKIEST").
+entrée(sucrase, n, [sucrases], "une enzyme").
+entrée(sucre, n, [sucres], "une ancienne unité monétaire de l'Équateur").
+entry(saccharose, n, [saccharoses], "un type de sucre").
+entrée(aspiration, v, [aspiré,aspirant,aspire], "enlever par le processus d'aspiration").
+entry(suaire, n, [suaires], "un tissu pour essuyer le visage").
+entrée(suaire, n, [sudaires], "suaire").
+entrée(sudation, n, [sudations], "transpiration excessive").
+entrée(sudatoire, n, [sudatoires], "un bain de vapeur pour provoquer la transpiration").
+entrée(sudd, n, [sudds], "une masse flottante de végétation").
+entry(soudain, adj, [], "se produisant rapidement et sans avertissementSUBITEMENT adv").
+entrée(soudain, n, [soudains], "une occurrence soudaine").
+entry(sudoku, n, [sudokus], "un casse-tête impliquant les chiffres de 1 à 9").
+entrée(sudor, n, [sudors], "sueurSUDORAL adj").
+entrée(suds, v, [sudsed,sudsing,sudses], "laver dans l'eau savonneuse").
+entrée(sudser, n, [sudsers], "un feuilleton").
+entrée(sans_mousse, adj, [], "sans mousse").
+entry(sudsy, adj, [], "PLUS MOUSSANT PLUS MOUSSANTfoamy").
+entrée(sue, v, [sued,suing,sues], "engager des poursuites judiciaires contre").
+entry(suède, v, [suèdé, suédant, suèdes], "finir le cuir avec une surface douce et duveteuse").
+entry(suer, n, [plaideurs], "celui qui intente un procès").
+entrée(suet, n, [suets], "le tissu adipeux dur autour des reins du bétail et des moutonsSUETY adj").
+entrée(suete, n, [suetes], "un vent de sud-est dans les régions de l'île du Cap-Breton").
+entrée(suffari, n, [suffaris], "un safari").
+entrée(souffrir, v, [souffert,souffrant,souffre], "ressentir de la douleur ou de la détresse").
+entry(souffrant, n, [souffrants], "celui qui souffre").
+entrée(suffire, v, [suffis, suffisant, suffit], "être adéquat").
+entrée(suffire, n, [suffiseurs], "celui qui suffit").
+entrée(suffixe, v, [suffixé,suffixant,suffixes], "ajouter comme suffixe une forme fixée à la fin d'un mot").
+entrée(suffixal, adj, [], "relatif à un suffixe ou en étant un").
+entrée(sufflate, v, [sufflated,sufflating,sufflates], "gonfler").
+entrée(suffrage, n, [suffrages], "le droit de vote").
+entrée(imprégner, v, [imprégné,imprégnant,imprègne], "se répandre à travers ou sur").
+entrée(sucre, v, [sucré, sucrant, sucres], "couvrir de sucre un glucide sucré").
+entrée(sucrier, n, [sucriers], "celui qui fabrique du sucre").
+entrée(sucrage, n, [sucrages], "le processus de réduction de la sève d'érable en sirop").
+entrée(sucré, adj, [], "PLUS SUCRÉ SUCRÉcontinuant ou ressemblant au sucre").
+entrée(suggérer, v, [suggéré,suggérant,suggère], "présenter ou proposer pour considération").
+entrée(sugh, v, [sughé, sughant, sughe], "soupirer").
+entrée(suicidaire, adj, [], "autodestructeur").
+entrée(suicide, v, [suicidé,suicidant,suicides], "se tuer intentionnellement").
+entrée(poursuivant, présent, [], "participe de poursuivre").
+entry(suint, n, [suints], "une graisse naturelle trouvée dans la laine des moutons").
+entrée(costume, v, [convenable,convenant,convenables], "être approprié à").
+entrée(adéquat, adj, [], "appropriéADÉQUATEMENT adv").
+entry(valise, n, [valises], "une pièce de bagage rectangulaire et plate").
+entrée(suite, n, [suites], "une série de choses formant une unité").
+entrée(valise, n, [valises], "une valise contenant un nombre spécifié d’ensembles de costumes").
+entrée(costume, n, [costumes], "tissu pour confectionner des costumes").
+entry(suitlike, adj, [], "ressemblant à un costume un ensemble de vêtements").
+entrée(prétendant, n, [prétendants], "celui qui courtise une femme").
+entrée(suk, n, [suks], "souk").
+entry(sukh, n, [sukhs], "un souk").
+entrée(sukiyaki, n, [sukiyakis], "un plat japonais").
+entry(sukkah, n, [sukkahs], "ou SUKKOTH ou SUKKOT un abri temporaire dans lequel les repas sont pris lors d'une fête juive").
+entrée(sulcate, adj, [], "ayant de longues rainures étroites").
+entrée(sulcated, adj, [], "sulqué").
+entrée(sillon, n, [sillons], "un sillon étroitSULCAL adj").
+entrée(suldan, n, [suldans], "soldan").
+entry(sulfa, n, [sulfamides], "un médicament inhibiteur de bactéries").
+entrée(sulfate, v, [sulfuré, sulfurant, sulfures], "traiter avec de l'acide sulfurique").
+entrée(sulfure, n, [sulfures], "sulfure").
+entry(sulfure, n, [sulfures], "un composé de soufre").
+entrée(sulfinyle, n, [sulfinyles], "un radical bivalent").
+entrée(sulfite, n, [sulfites], "un sel chimiqueSULFITIQUE adj").
+entry(sulfo, adj, [], "sulfonique").
+entry(sulfone, n, [sulfones], "un composé de soufre").
+entrée(sulfonique, adj, [], "contenant un certain radical monovalent").
+entrée(sulfonyl, n, [sulfonyls], "un radical bivalent").
+entrée(soufre, v, [soufré,soufrage,soufres], "traiter avec le soufre un élément non métallique").
+entrée(sulfuret, v, [sulfureté,sulfuretation,sulfurets], "ou SULFURÉ SULFURANT SULFURETs traiter avec du soufre").
+entrée(sulfurique, adj, [], "relatif au soufre").
+entry(sulfury, adj, [], "ressemblant au soufre").
+entrée(sulfuryle, n, [sulfuryles], "sulfonyle").
+entrée(sulk, v, [bouda, boudant, boude], "être de mauvaise humeur").
+entry(somber, n, [somber], "celui qui boude").
+entry(sulky, adj, [], "PLUS SULKIER LE PLUS SULKIESTrenfrogné ou retiréSULKILY adv").
+entry(sulky, n, [sulkies], "un véhicule hippomobile léger").
+entrée(sullage, n, [sullages], "eaux usées").
+entrée(maussade, adj, [], "PLUS MAUSSADE LE PLUS MAUSSADE montrant une humeur maussade ou du ressentiment MAUSSADEMENT adv").
+entrée(sully, v, [sali, salissant, salit], "salir").
+entrée(sulpha, n, [sulphas], "sulfa").
+entrée(sulfate, v, [sulfaté,sulfatant,sulfates], "sulfater").
+entry(sulfure, n, [sulfures], "sulfure").
+entrée(sulfure, n, [sulfures], "sulfure").
+entrée(sulfite, n, [sulfites], "sulfite").
+entrée(sulfone, n, [sulfones], "sulfone").
+entry(soufre, v, [sulfuré,sulfurant,sulfures], "sulfurer").
+entrée(sulfureux, adj, [], "sulfureux").
+entrée(sultan, n, [sultans], "le souverain d'un pays musulmanSULTANIQUE adj").
+entry(sultane, n, [sultanes], "une femme de sultan").
+entry(sulfureux, adj, [], "PLUS SULFUREUX LE PLUS SULFUREUXtrès chaud et humideSULFUREUSEMENT adv").
+entrée(sulu, n, [sulus], "une jupe mélanésienne").
+entrée(somme, v, [sommé, somme, sommes], "additionner en un total").
+entrée(sum, n, [sumy], "une unité monétaire de l'Ouzbékistan").
+entrée(sumac, n, [sumacs], "un arbre ou arbuste à fleurs").
+entrée(sumac, n, [sumacs], "sumac").
+entry(sumi, n, [sumis], "un type d'encre noire japonaise").
+entrée(sumless, adj, [], "trop grand pour le calcul").
+entrée(summa, n, [summas], "ou SUMMAE une œuvre exhaustive sur un sujet").
+entrée(sommable, adj, [], "capable d'être additionné").
+entrée(sommande, n, [sommandes], "un terme d'une addition").
+entrée(résumé, n, [résumés], "un court récapitulatif").
+entrée(sommaire, v, [sommée, sommant, sommaires], "additionner").
+entrée(somme, passé, [], "temps de somme").
+entrée(été, v, [passé_l'été,passant_l'été,étés], "passer l'été la saison la plus chaude de l'année").
+entrée(estivale, adj, [], "estivale").
+entrée(summery, adj, [], "caractéristique de l'été le plus estival").
+entrée(summing, présent, [], "participe de sum").
+entrée(sommet, v, [a_sommet, en_sommet, sommets], "participer à une conférence de haut niveau").
+entrée(sommitale, adj, [], "relatif au point le plus élevé").
+entrée(sommet, n, [sommets], "l'utilisation de conférences entre chefs d'État pour des négociations internationales").
+entrée(convocation, v, [convoqué,convocation,convocations], "ordonner de paraître").
+entrée(invocateur, n, [invocateurs], "celui qui invoque").
+entrée(assigned_citation, v, [citation_assignée, attribution_de_citation, citations_attribuées], "assigner par un ordre du tribunal").
+entrée(sumo, n, [sumos], "une forme de lutte japonaise").
+entry(lutteur_de_sumo, n, [lutteurs_de_sumo], "un lutteur de sumo").
+entry(sump, n, [fosses de débordement], "une zone basse servant de drain ou de réceptacle pour les liquides").
+entrée(sumpter, n, [sumpters], "un animal de bât").
+entry(sumpweed, n, [sumpweeds], "une plante des marais").
+entry(soleil, v, [ensoleillé,ensoleillant,soleils], "exposer au soleil l'étoile autour de laquelle la terre tourne").
+entry(sunback, adj, [], "coupé bas pour exposer le dos au soleil").
+entrée(cuit_au_soleil, adj, [], "cuit par le soleil").
+entrée(bain_de_soleil, n, [bains_de_soleil], "une exposition au soleil").
+entrée(bronzer, v, [bronzé,bronzant,bronze], "prendre un bain de soleil").
+entrée(rayons_de_soleil, n, [rayons_de_soleil], "un rayon de soleilRAYONS_DE_SOLEIL adj").
+entrée(transat, n, [transats], "un dispositif pour obtenir un bronzage artificiellement").
+entrée(sunbelt, n, [sunbelts], "les états du sud et du sud-ouest des États-Unis").
+entrée(souimanga, n, [souimangas], "un oiseau tropical").
+entrée(crème_solaire, n, [crèmes_solaires], "une préparation pour protéger la peau des rayons du soleil").
+entrée(sunbow, n, [sunbows], "un arc de couleurs spectrales formé par le soleil brillant à travers une brume").
+entrée(coup_de_soleil, v, [coup_de_soleil,coups_de_soleil,coups_de_soleil], "brûler ou décolorer par exposition au soleil").
+entry(éclat_de_soleil, n, [éclats_de_soleil], "une explosion de lumière solaire").
+entrée(suncare, n, [suncares], "protection de la peau contre les dommages causés par le soleil").
+entrée(topinambour, n, [topinambours], "un type de tournesol").
+entrée(sundae, n, [sundaes], "un plat de crème glacée servi avec un nappage").
+entrée(terrasse, n, [terrasses], "une terrasse exposée au soleil").
+entrée(sunder, v, [sunda, disjonction, disjoints], "se disjoindre").
+entry(déchireur, n, [déchireurs], "celui qui déchire").
+entrée(drosera, n, [droseras], "une plante des marais").
+entry(cadran_solaire, n, [cadrans_solaires], "un type d'appareil de mesure du temps").
+entrée(parhélie, n, [parhélies], "un petit arc-en-ciel").
+entrée(coucher_du_soleil, v, [couchers_du_soleil,couchant_du_soleil,couchera_du_soleil], "éprouver de la confusion nocturne").
+entrée(robe_d_été, n, [robes_d_été], "une robe avec un corsage abrégé").
+entrée(divers, npl, [], "articles divers").
+entrée(sundrops, n, [sundrops], "une plante à fleurs").
+entrée(divers, adj, [], "diversDIVERSEMENT adv").
+entrée(sunfast, adj, [], "résistant à la décoloration par le soleil").
+entrée(poisson-lune, n, [poissons-lunes], "un poisson marin").
+entrée(chanté, passé, [], "participe de chanter").
+entrée(lunettes_de_soleil, n, [lunettes_de_soleil], "une lentille pour concentrer les rayons du soleil afin de produire de la chaleur").
+entrée(sunglow, n, [sunglows], "une lueur dans le ciel causée par le soleil").
+entrée(coulé, a, [], "participe passé de couler").
+entrée(sunken, a, [], "participe passé de sink").
+entrée(sunker, n, [sunkers], "une crête de roche près de la surface de la mer").
+entrée(sunket, n, [sunkets], "un savoureux morceau").
+entry(lampe_solaire, n, [lampes_solaires], "une lampe qui émet des rayons ultraviolets").
+entrée(sunland, n, [sunlands], "une zone marquée par une grande quantité de soleil").
+entry(sans_soleil, adj, [], "n'ayant pas de lumière du soleil").
+entry(lumière_du_soleil, n, [lumières_du_soleil], "la lumière du soleil").
+entrée(sunlike, adj, [], "ressemblant au soleil").
+entrée(sunlit, adj, [], "éclairé par le soleil").
+entrée(sunn, n, [sunns], "un arbuste indien oriental").
+entrée(sunna, n, [sunnas], "le corpus de la loi musulmane traditionnelle").
+entrée(sunnah, n, [sunnahs], "sunna").
+entrée(ensoleillé, passé, [], "temps du verbe ensoleiller").
+entrée(sunning, présent, [], "participe de sun").
+entrée(sunny, adj, [], "PLUS ENSOLEILLÉ PLUS ENSOLEILLÉ rempli de lumière du soleilENSOLEILLÉMENT adv").
+entrée(véranda, n, [vérandas], "une véranda qui admet beaucoup de lumière du soleil").
+entrée(sunproof, adj, [], "résistant aux dommages causés par la lumière du soleil").
+entrée(rayons_de_soleil, n, [rayons_de_soleil], "un rayon de soleil").
+entrée(lever_soleil, n, [levers_soleil], "l'ascension du soleil au-dessus de l'horizon le matin").
+entrée(toit_ouvrant, n, [toits_ouvrants], "un toit automobile ayant un panneau ouvrable").
+entrée(véranda, n, [vérandas], "une pièce conçue pour laisser entrer une grande quantité de lumière du soleil").
+entrée(sunscald, n, [coup_de_soleil], "une blessure des plantes ligneuses causée par le soleil").
+entrée(coucher_de_soleil, n, [couchers_de_soleil], "la descente du soleil sous l'horizon le soir").
+entry(parasol, n, [parasols], "quelque chose utilisé comme protection contre le soleil").
+entry(soleil, n, [soleils], "la lumière du soleilENSOLEILLÉ adj").
+entrée(tache_solaire, n, [taches_solaires], "une tache sombre à la surface du soleil").
+entrée(sunstar, n, [sunstars], "un type d'étoile de mer").
+entrée(pierre_de_soleil, n, [pierres_de_soleil], "une variété de quartz").
+entrée(combinaison, n, [combinaisons], "un type de barboteuse").
+entrée(bronzage, v, [bronzé,bronzant,bronzages], "devenir bronzé").
+entrée(abri_solaire, n, [abris_solaires], "un endroit abrité agréablement ensoleillé").
+entrée(lever, n, [levers], "lever du soleil").
+entry(sunward, adv, [], "vers le soleil").
+entrée(sunwards, adv, [], "vers le soleil").
+entry(sunwise, adv, [], "de gauche à droite").
+entrée(souper, v, [soupé, soupant, soupe], "manger le souper").
+entrée(supe, n, [supes], "un acteur sans rôle parlant").
+entrée(super, v, [supered, supering, supers], "renforcer avec un fin treillis de coton comme un livre").
+entrée(superadd, v, [suprajouté,suprajoutant,suprajoute], "ajouter davantage").
+entrée(superbe, adj, [], "SUPERBER SUPERBESTde qualité excellenteSUPERBEMENT adv").
+entrée(superbad, adj, [], "extrêmement mauvais").
+entrée(superbug, n, [superbugs], "une souche de bactéries qui résiste à tous les antibiotiques").
+entrée(supercar, n, [supercars], "une voiture supérieure").
+entrée(supercop, n, [supercops], "un officier de police supérieur").
+entrée(surmoi, n, [surmois], "une partie du psychisme").
+entrée(superfan, n, [superfans], "un passionné extrêmement dévoué").
+entrée(superfix, n, [superfixes], "un motif récurrent de stress dans la parole").
+entrée(superfly, adj, [], "de façon prétentieuse et ostentatoire").
+entrée(superhit, n, [superhits], "quelque chose d'extrêmement réussi").
+entry(superhot, adj, [], "extrêmement chaud").
+entrée(supérieur, n, [supérieurs], "l'un de rang, de qualité ou d'autorité supérieur à un autre").
+entry(superjet, n, [superjets], "un type d'avion à réaction").
+entrée(superlie, v, [superlay,superlain,superlying], "SUPERLIEreduativement au-dessus").
+entrée(superman, n, [supermen], "un homme supérieur hypothétique").
+entrée(supermom, n, [supermamans], "une mère supérieure").
+entry(céleste, adj, [], "relatif au ciel").
+entrée(superpro, n, [superpros], "un professionnel supérieur").
+entrée(supersex, n, [supersexes], "un type d'organisme stérile").
+entry(superspy, n, [superespions], "un espion supérieur").
+entrée(supertaxe, n, [supertaxes], "une taxe supplémentaire").
+entry(supinate, v, [supiné,supinant,supine], "tourner de sorte que la paume soit tournée vers le haut").
+entry(supin, n, [supins], "un nom verbal latin").
+entrée(supinely, adv, [], "de manière inactive").
+entrée(supped, passé, [], "temps de dîner").
+entrée(dîner, n, [dîners], "un repas du soir").
+entrée(supping, présent, [], "participe de sup").
+entrée(supplanter, v, [supplanté,supplantant,supplante], "prendre la place de").
+entry(souple, adj, [], "PLUS SOUPLE SOUPLESTpliantSOUPLEMENT adv").
+entrée(souple, v, [assoupli,assouplissant,assouplit], "rendre souple").
+entrée(fournisseur, n, [fournisseurs], "celui qui fournit").
+entrée(fournir, v, [fourni,fournissant,fournit], "fournir ce qui est nécessaire").
+entrée(soutenir, v, [soutenu,soutenant,soutient], "tenir ou ajouter de la force à").
+entrée(supposition, n, [suppositions], "quelque chose de supposé").
+entry(supposer, v, [supposé, supposant, suppose], "supposer être vrai").
+entrée(supposer, n, [supposants], "celui qui suppose").
+entrée(supprimer, v, [supprimé,supprimant,supprime], "mettre fin de manière forcée").
+entrée(supra, adv, [], "au-dessus").
+entrée(suprême, n, [suprêmes], "une sauce blanche onctueuse faite avec du bouillon de volaille").
+entrée(suprême, adj, [], "LE PLUS SUPRÊME LE PLUS SUPRÊMEplus haut en pouvoir ou autorité").
+entry(supremo, n, [supremos], "celui qui est le plus haut en autorité").
+entrée(suq, n, [suqs], "souk").
+entrée(sura, n, [suras], "un chapitre du Coran").
+entrée(surah, n, [surahs], "un tissu de soie").
+entry(sural, adj, [], "relatif au mollet de la jambe").
+entrée(surbase, n, [surbases], "une moulure ou une bordure au-dessus de la base d'une structureSURBASE adj").
+entrée(surcease, v, [surceased,surceasing,surceases], "cesser").
+entrée(surcot, n, [surcots], "un manteau ou une cape extérieure").
+entrée(sourd, n, [sourds], "un son de parole sans voix").
+entrée(sure, adj, [], "SÛR SÛRElibre de doute").
+entrée(surefire, adj, [], "certain de répondre aux attentes").
+entrée(sûrement, adv, [], "certainement").
+entrée(certitude, n, [certitudes], "l'état d'être sûr").
+entrée(plus_sûr, comparatif, [], "de sûr").
+entrée(certissime, superlatif, [], "de sûr").
+entrée(sûreté, n, [sûretés], "certitude").
+entrée(surf, v, [surfé,surfant,surfe], "glisser sur les vagues déferlantes sur une planche longue et étroiteSURFABLE adj").
+entrée(surface, v, [surfacé,surfaçant,surfaces], "appliquer une couche extérieure à").
+entrée(surfacer, n, [surfacers], "celui qui surface").
+entry(surfbird, n, [tournepierres], "un oiseau de rivage").
+entry(barque_de_surf, n, [barques_de_surf], "un bateau à rames solide").
+entrée(surfeit, v, [surfeited,surfeiting,surfeits], "fournir à l'excès").
+entrée(surfeur, n, [surfeurs], "celui qui surfe").
+entrée(poisson_surface, n, [poissons_surface], "un poisson marin").
+entrée(surfier, comparatif, [], "de surf").
+entrée(surfiest, superlatif, [], "de surfy").
+entry(surf, n, [surfs], "l'acte ou le sport de chevaucher les vagues déferlantes").
+entrée(surflike, adj, [], "ressemblant à des vagues déferlantes").
+entry(homme_de_surf, n, [hommes_de_surf], "celui qui est habile à manier un bateau dans la houle/les vagues").
+entrée(surfside, adj, [], "situé près du rivage").
+entry(surfy, adj, [], "REMPLI DE VAGUES DÉFERLANTES").
+entrée(surging, v, [a surgi, surgissant, surgit], "se déplacer de manière ondulante").
+entrée(chirurgien, n, [chirurgiens], "celui qui pratique la chirurgie").
+entrée(surger, n, [surgers], "celui qui monte").
+entry(chirurgie, n, [chirurgies], "le traitement des problèmes médicaux par opération").
+entrée(chirurgical, adj, [], "relatif à la chirurgie").
+entrée(surgissant, présent, [], "participe de surge").
+entrée(surgy, adj, [], "montant").
+entrée(suricate, n, [suricates], "un mammifère fouisseur").
+entrée(surimi, n, [surimis], "un produit de poisson bon marché").
+entrée(surly, adj, [], "SURLIER SURLIESTgrossièrement impoliSURLILY adv").
+entrée(deviner, v, [deviné,devinant,devine], "inférer avec peu de preuves").
+entry(préjuger, n, [préjugés], "celui qui préjuge").
+entrée(surmont, v, [surmonté,surmontant,surmonte], "franchir ou surmonter").
+entrée(nomdefamille, v, [nomdefamillé,nomdefamillant,nomdefamilles], "donner un nom de famille à").
+entrée(surnomer, n, [surnomeurs], "celui qui surnomme").
+entrée(dépasser, v, [dépassé,dépassant,dépasse], "aller au-delà").
+entrée(surplice, n, [surplices], "une vêtement ample").
+entry(surplus, v, [surplused,surplusing,surpluses], "ou SURPLUSSED SURPLUSSING SURPLUSSEStopour traiter comme étant en excès de ce qui est nécessaire").
+entrée(surimpression, v, [surimprimé,surimprimant,surimprime], "imprimer sur quelque chose déjà imprimé").
+entrée(surprise, v, [surpris, surprenant, surprises], "venir à l'improviste").
+entrée(surprise, v, [surpris, surprenant, surprend], "surprendre").
+entry(surra, n, [surras], "une maladie des animaux domestiques").
+entrée(surréaliste, adj, [], "ayant des qualités oniriques").
+entrée(surrey, n, [surreys], "un léger carrosse").
+entry(entourer, v, [entouré,entourant,entoure], "s'étendre complètement autour").
+entrée(surroyal, n, [surroyals], "la pointe la plus haute du bois d'un cerf").
+entrée(surtaxe, v, [surtaxé, surtaxant, surtaxes], "évaluer avec une taxe supplémentaire").
+entry(surtitre, n, [surtitres], "une traduction d'un dialogue en langue étrangère affichée au-dessus d'un écran ou d'une scène").
+entry(surtout, n, [surtouts], "un pardessus ajusté").
+entrée(surveiller, v, [surveillé,surveillant,surveille], "observer de près").
+entrée(survey, v, [surveyed,surveying,surveys], "déterminer les limites de la zone ou des élévations en mesurant des angles et des distances").
+entrée(arpenteur, n, [arpenteurs], "celui qui arpente la terre").
+entrée(survie, n, [survies], "un fait de vivre ou continuer plus longtemps qu'une autre personne ou chose").
+entry(survivre, v, [survécu, survivant, survit], "rester en existence").
+entrée(survivant, n, [survivants], "survivor").
+entrée(survivant, n, [survivants], "celui qui survit").
+entrée(sus, v, [sused, susing, suses], "deviner").
+entrée(sushi, n, [sushis], "un plat de gâteaux de riz froid surmontés de morceaux de poisson cru").
+entrée(suslik, n, [susliks], "un rongeur eurasien").
+entrée(suspect, v, [suspecté,suspectant,suspecte], "penser coupable sur de légères preuves").
+entry(suspend, v, [suspendu,suspendant,suspend], "provoquer l'arrêt pendant une période").
+entrée(suspense, n, [suspenses], "un état d'incertitude mentale ou d'excitation").
+entry(soupirer, v, [soupira,soupirant,soupire], "souffler").
+entrée(suss, v, [sussed,sussing,susses], "découvrir ou vérifier").
+entry(soutenir, v, [soutenu,soutenant,soutient], "maintenir en fournissant nourriture et boisson").
+entrée(susurrus, n, [susurrus], "un doux bruissement").
+entrée(sutler, n, [sutlers], "celui qui vend des marchandises aux soldats").
+entrée(sutra, n, [sutras], "un aphorisme hindou").
+entrée(sutta, n, [suttas], "sutra").
+entrée(sati, n, [satis], "une veuve hindoue incinérée sur le bûcher funéraire de son mari pour montrer sa dévotion envers lui").
+entry(sutural, adj, [], "concernant la ligne de jonction entre deux os").
+entry(suture, v, [suturé,suturant,sutures], "unir en cousant").
+entrée(suzerain, n, [suzerains], "un seigneur féodal").
+entrée(svaraj, n, [svarajes], "swaraj").
+entry(svedberg, n, [svedbergs], "une unité de temps").
+entrée(svelte, adj, [], "SVELTER SVELTESTélégamment minceSVELTEMENT adv").
+entrée(swab, v, [swabbed,swabbing,swabs], "nettoyer avec une grande vadrouille").
+entrée(swabber, n, [swabbers], "celui qui écouvillonne").
+entrée(swabbie, n, [swabbies], "un marin").
+entry(tamponnant, présent, [], "participe de tamponner").
+entrée(swabby, n, [swabbies], "swabbie").
+entrée(swacked, adj, [], "ivre").
+entrée(emmailloter, v, [emmailloté,emmaillotant,emmaillote], "envelopper dans des bandages").
+entrée(swag, v, [swagged, swagging, swag], "se balancer").
+entry(emplanir, v, [emplani, emplanissant, emplanit], "façonner avec un outil à marteler").
+entrée(swager, n, [swagers], "celui qui matrice").
+entrée(swinguer, v, [swinguait,swinguant,swingue], "marcher avec une allure pompeuse").
+entry(swaggie, n, [swaggies], "un swagman").
+entrée(se dandiner, présent, [], "participe de se dandiner").
+entrée(swaguer, présent, [], "participe de swaguer").
+entrée(swagman, n, [swagmen], "un vagabond").
+entrée(swail, n, [swails], "dépression").
+entrée(swain, n, [swains], "un garçon de la campagneSWAINISH adj").
+entrée(swale, n, [swales], "une étendue de terrain marécageux bas").
+entry(avaler, v, [avalé,avalant,avale], "prendre par la bouche et l'œsophage jusqu'à l'estomac").
+entrée(nager, passé, [], "temps de nager").
+entrée(swami, n, [swamis], "un enseignant religieux hindou").
+entrée(swamies, pl, [], "de swamy").
+entrée(marécage, v, [inondé,inondant,marécages], "inonder").
+entry(swamper, n, [marécageux], "quelqu'un qui vit dans une zone marécageuse").
+entrée(marécageux, adj, [], "swampy").
+entrée(swampy, adj, [], "SWAMPIER SWAMPIESTmarécageux").
+entrée(swamy, n, [swamies], "swami").
+entrée(cygne, v, [cygné, cygnant, cygnes], "jurer").
+entrée(swang, a, [], "temps passé de swing").
+entrée(swanherd, n, [swanherds], "celui qui s'occupe des cygnes, grands oiseaux aquatiques").
+entrée(swank, adj, [], "SWANKER SWANKESTimposamment élégant").
+entrée(fanfaronner, v, [fanfaronné, fanfaronnant, fanfaronne], "se pavaner").
+entrée(swanky, adj, [], "SWANKIER SWANKIESTswankSWANKILY adv").
+entry(comme_un_cygne, adj, [], "ressembler à un cygne").
+entrée(swanné, passé, [], "temps de swan").
+entrée(swannery, n, [swanneries], "un endroit où les cygnes sont élevés").
+entrée(swannant, présent, [], "participe de swan").
+entrée(swanny, v, [], "déclarer utilisé uniquement à la 1ère personne du singulier").
+entrée(swanpan, n, [swanpans], "un boulier chinois").
+entry(peau_de_cygne, n, [peaux_de_cygne], "la peau d'un cygne").
+entrée(swapper, v, [échangé, échangeant, échanges], "échanger").
+entrée(swapfile, n, [fichiers_échange], "un fichier informatique avec de l'espace pour les programmes transférés").
+entrée(swapper, n, [swappers], "celui qui échange").
+entrée(swaraj, n, [swarajes], "autonomie en Inde britannique").
+entrée(pelouse, v, [pavée,pelousant,pelouses], "couvrir de gazon").
+entry(sware, a, [], "passé du verbe jurer").
+entry(swarf, n, [swarfs], "matériau enlevé par un outil de coupe").
+entrée(flotter, v, [flotté, flottant, flotte], "se déplacer en grand groupe").
+entrée(swarmers, n, [swarmers], "celui qui essaim").
+entrée(essaimage, n, [essaimages], "l'encerclement d'une victime par un groupe d'attaquants").
+entrée(swart, adj, [], "basané").
+entrée(swarth, n, [swarths], "gazon").
+entrée(swarty, adj, [], "SWARTHIER SWARTHIESTayant un teint foncé").
+entry(swarty, adj, [], "basané").
+entry(swash, v, [swashed,swashing,swashes], "se pavaner").
+entry(swasher, n, [swashers], "celui qui éclabousse").
+entrée(swastica, n, [swastikas], "svastika").
+entrée(swastika, n, [swastikas], "une figure géométrique utilisée comme symbole ou ornement").
+entry(frapper, v, [frappé, frappant, frappe], "frapper vivement").
+entrée(échantillon, n, [échantillons], "un morceau d'étoffe en échantillon").
+entrée(swath, n, [bandes], "une rangée d'herbe ou de grain coupé").
+entree(swathe, v, [enveloppé,enveloppant,enveloppe], "envelopper de bandages").
+entrée(faucheuse, n, [faucheuses], "celle qui fauche").
+entrée(swattee, passé, [], "temps de swat").
+entrée(swatteur, n, [swatteurs], "un qui chasse").
+entrée(swatting, présent, [], "participe de swat").
+entrée(sway, v, [swayed,swaying,sways], "se déplacer lentement d'avant en arrièreSWAYABLE adj").
+entrée(swayback, n, [swaybacks], "un affaissement anormal du dos").
+entrée(swayer, n, [swayer], "celui qui oscille").
+entrée(swayful, adj, [], "capable d'influencer").
+entry(jurer, v, [jurai,juré,jurant], "JURERprononcer un serment solennel").
+entrée(jureur, n, [jureurs], "celui qui jure").
+entrée(juron, n, [jurons], "l'acte de prononcer un serment solennel").
+entrée(sueur, v, [sueur,suante,sueurs], "transpirer").
+entrée(sweatbox, n, [sweatboxes], "une petite enceinte dans laquelle on est amené à transpirer").
+entrée(chandail, n, [chandails], "un vêtement extérieur tricotéCHANDAIL adj").
+entrée(sueur, adj, [], "PLUS SUEUR LE PLUS SUEUR couvert de transpiration SUEUREUSEMENT adv").
+entrée(rutabaga, n, [rutabagas], "un swede").
+entrée(sweeney, n, [sweeneys], "sweeny").
+entrée(sweeny, n, [sweenies], "atrophie des muscles de l'épaule chez les chevaux").
+entrée(balayer, v, [balayé,balayant,balaie], "nettoyer ou dégager avec une brosse ou un balai").
+entry(balai, n, [balais], "celui qui balaye").
+entry(balayage, n, [balayages], "l'acte de celui qui balaie").
+entrée(sweepy, adj, [], "SWEEPIER SWEEPIESTde large gamme ou portée").
+entry(sweer, adj, [], "paresseux").
+entrée(doux, adj, [], "PLUS DOUX LE PLUS DOUX agréable au goût").
+entry(doux, n, [douceurs], "quelque chose qui est sucré").
+entrée(sucrer, v, [sucré, sucrant, sucre], "rendre doux").
+entry(sweetie, n, [sweeties], "chéri").
+entrée(sweeting, n, [sweetings], "une pomme sucrée").
+entrée(douxâtre, adj, [], "légèrement sucré").
+entrée(dent douce, n, [dents douces], "un poisson ayant une bouche saillante").
+entrée(doucement, adv, [], "d'une manière douce").
+entry(sweetsop, n, [sweetsops], "un arbre tropical").
+entry(swell, adj, [], "SWELLER SWELLESTélégant").
+entry(gonfler, v, [gonfla,gonflé,gonflant], "GONFLERpour augmenter en taille ou en volume").
+entrée(enflure, n, [enflures], "quelque chose qui est enflé").
+entrée(swelter, v, [sweltered,sweltering,swelters], "souffrir de la chaleur accablante").
+entry(sweltry, adj, [], "ÉTOUFFANT ÉTOUFFANTpéniblement chaud").
+entrée(balayé, passé, [], "temps de sweep").
+entry(dévier, v, [dévié,déviant,dévie], "tourner brusquement de sa trajectoire rectiligne").
+entrée(swerver, n, [swervers], "celui qui dévie").
+entry(sweven, n, [swevens], "un rêve ou une vision").
+entrée(brûlis, n, [brûlis], "une parcelle agricole créée en brûlant le couvert végétal").
+entrée(swift, adj, [], "PLUS RAPIDE LE PLUS RAPIDEmouvant avec un grand taux de mouvement").
+entrée(martinet, n, [martinets], "un oiseau volant rapidement").
+entrée(swifter, n, [swifters], "une corde sur un navire").
+entrée(swiftie, n, [swifties], "une personne qui agit ou pense rapidement").
+entrée(saletrovni, n, [saletrovnis], "une martinet qui habite dans une grotte").
+entrée(rapidement, adv, [], "d'une manière rapide").
+entrée(swig, v, [swigged, swigging, swigs], "boire abondamment ou rapidement").
+entrée(swigger, n, [swiggers], "celui qui boit").
+entry(swile, n, [swiles], "un phoque un mammifère marin").
+entrée(swiler, n, [swilers], "celui qui chasse les phoques").
+entry(swiling, n, [chasse_aux_phoques], "l'activité de chasser les phoques").
+entry(swill, v, [a bu, buvant, boit], "boire").
+entrée(swiller, n, [swillers], "quelqu'un qui boit goulûment").
+entrée(nager, v, [nagait,nagé,nageant], "SWIMSto se propulser dans l'eau par des moyens naturels").
+entrée(nageur, n, [nageurs], "celui qui nage").
+entrée(natation, n, [natations], "l'acte de nager").
+entrée(swimmy, adj, [], "SWIMMIER SWIMMIESTétourdissantSWIMMILY adv").
+entry(maillot_de_bain, n, [maillots_de_bain], "un maillot de bain").
+entrée(maillots_de_bain, n, [maillots_de_bain], "vêtements adaptés à la natation").
+entrée(escroquer, v, [escroqué,escroquant,escroque], "prendre de l'argent ou des biens par des moyens frauduleux").
+entrée(escroc, n, [escrocs], "celui qui escroque").
+entrée(porc, n, [porcs], "une personne méprisable").
+entrée(swinepox, n, [swinepoxes], "une maladie des porcs").
+entrée(swing, v, [swang,swinging,swings], "bouger librement d'avant en arrière").
+entry(swingby, n, [swingbys], "une mission dans laquelle un vaisseau spatial utilise l'attraction gravitationnelle d'une planète pour effectuer des changements de trajectoire").
+entrée(swinge, v, [swinged,swingeing,swinges], "flageller").
+entrée(swinger, n, [swingers], "celui qui se balance").
+entrée(swingier, comparatif, [], "de swingy").
+entrée(swingiest, superlatif, [], "de swingy").
+entrée(swingant, adj, [], "LEPLUSSWINGANTvif et branché").
+entrée(swinging, n, [swingings], "la pratique de l'échange de partenaires sexuels").
+entry(swingle, v, [swingled,swingling,swingles], "écotter").
+entrée(swingman, n, [swingmen], "un joueur de basket-ball qui peut jouer guard ou forward").
+entrée(swingy, adj, [], "PLUS BALANÇANT LE PLUS BALANÇANTmarqué par le balancement").
+entry(porcin, adj, [], "ressemblant à ou convenant à un cochon").
+entrée(swink, v, [swinked, swinking, swinks], "travailler dur").
+entrée(swinney, n, [swinneys], "sweeny").
+entry(balayer, v, [balayé,balayant,balaye], "frapper d'un coup large et rapide").
+entrée(swiper, n, [swipers], "celui qui glisse").
+entry(swipes, npl, [], "bière avariée").
+entrée(swiple, n, [swiples], "une partie d'un dispositif de battage").
+entrée(swipple, n, [swipples], "swiple").
+entry(tourbillonner, v, [tourbillonné,tourbillonnant,tourbillonne], "se déplacer avec un mouvement tourbillonnant").
+entry(swirly, adj, [], "PLUS TOURNOYANT PLUS TOURNOYANT AU MAX").
+entrée(swish, v, [swished,swishing,swishes], "se déplacer avec un son sifflant prolongé").
+entrée(swish, adj, [], "SWISHER SWISHEST1 élégant à la mode 2 efféminé").
+entrée(swisher, n, [swishers], "quelqu'un qui fait swish").
+entrée(swishy, adj, [], "SWISHIER SWISHIESTssuivant efféminé").
+entrée(suisse, n, [suisses], "un tissu en coton").
+entrée(commutateur, v, [commuté,commutation,commutateurs], "battre avec une tige flexible").
+entrée(switchel, n, [switchels], "une boisson faite avec de l'eau, de la mélasse et du vinaigre et souvent du gingembre").
+entrée(switcher, n, [commutateurs], " celui qui commute").
+entrée(swith, adv, [], "rapidement").
+entrée(swithe, adv, [], "swith").
+entry(swither, v, [swithered,swithering,swithers], "douter").
+entrée(swithly, adv, [], "swith").
+entrée(swive, v, [swived,swiving,swives], "copuler avec").
+entry(pivoter, v, [pivoté,pivotant,pivote], "ou PIVOTÉE PIVOTANT PIVOTERpour tourner sur un support pivotant").
+entry(swivet, n, [swivets], "un état d'excitation nerveuse").
+entrée(swizzle, v, [swizzled, swizzling, swizzles], "boire excessivement").
+entrée(swizzler, n, [swizzlers], "celui qui swizzle").
+entrée(swob, v, [swobbed, swobbing, swobs], "passer la serpillière").
+entrée(swobber, n, [swobbers], "swabber").
+entrée(enflé, passé, [], "participe de swell").
+entrée(s'évanouir, v, [s'est évanoui, s'évanouissant, s'évanouit], "s'évanouir").
+entrée(sensationnel, n, [sensationnels], "celui qui s'évanouit").
+entrée(swoony, adj, [], "PLUS ÉVANOUI LE PLUS ÉVANOUIévanescent hébété").
+entrée(swoop, v, [a plongé, plongeant, plonge], "faire une descente soudaine").
+entrée(swooper, n, [swoopers], "celui qui fond sur sa proie").
+entrée(swoopy, adj, [], "SWOOPIER SWOOPIESTayant des lignes ou des caractéristiques fluides").
+entrée(swoosh, v, [a fait swoosh, en train de faire swoosh, fait swoosh], "se déplacer avec un bruit de froissement").
+entrée(swop, v, [swoppé, swoppant, swops], "échanger").
+entrée(swopper, n, [swoppers], "swapper").
+entrée(épée, n, [épées], "une arme ayant une longue lame pour couper ou percer").
+entrée(épéiste, n, [épéistes], "une personne habile dans l'utilisation d'une épée").
+entrée(jura, a, [], "passé simple de swear").
+entry(prêté_serment, passé, [], "participe de jurer").
+entrée(swot, v, [swotted, swotting, swots], "frapper").
+entrée(swotter, n, [swotters], "celui qui bûche").
+entrée(swoun, v, [swouned, swouning, swouns], "défaillir").
+entrée(swound, v, [swounded,swounding,swounds], "défaillir").
+entrée(nage, passé, [], "participe de swim").
+entrée(swung, a, [], "passé de swing").
+entrée(sybarite, n, [sybarites], "une personne dévouée au plaisir et au luxe").
+entrée(sybo, n, [syboes], "le ciboule").
+entrée(sycomore, n, [sycomores], "le mûrier").
+entrée(sycomore, n, [sycomores], "un arbre nord-américain").
+entrée(syce, n, [syces], "un domestique masculin en Inde").
+entrée(sycee, n, [sycees], "argent non monnayé de qualité autrefois utilisé en Chine comme monnaie").
+entrée(sycomore, n, [sycomores], "sycamore").
+entrée(sycon, n, [sycons], "un type d'épongeSYCONOÏDE adj").
+entrée(syconium, n, [syconia], "un fruit multiple charnu").
+entrée(sycosis, n, [sycoses], "une maladie inflammatoire des follicules pileux").
+entrée(syénite, n, [syénites], "une roche ignéeSYÉNITIQUE adj").
+entrée(syke, n, [sykes], "un petit cours d'eau").
+entry(syli, n, [sylis], "une ancienne unité monétaire de la Guinée").
+entrée(syllabi, a, [], "pl de syllabus").
+entrée(syllabic, n, [syllabics], "un son de parole de haute sonorité").
+entrée(syllable, v, [syllabé,syllabant,syllabes], "prononcer des unités syllabiques de la langue parlée").
+entrée(syllabub, n, [syllabubs], "sillabub").
+entry(syllabus, n, [programmes], "ou SYLLABIun aperçu d'un cours d'étude").
+entrée(sylphe, n, [sylphes], "une fille ou une femme mince et gracieuseSYLPHIC SYLPHISH SYLPHY adj").
+entrée(sylphide, n, [sylphides], "une jeune sylphide").
+entrée(sylva, n, [sylvas], "ou SYLVAE les arbres de la forêt d'une région").
+entrée(sylvestre, n, [sylvestres], "celui qui vit dans une forêt").
+entrée(sylvatic, adj, [], "relatif à une forêt").
+entrée(sylvin, n, [sylvins], "sylvite").
+entrée(sylvine, n, [sylvines], "sylvite").
+entrée(sylvite, n, [sylvites], "un minerai de potassium").
+entrée(symbion, n, [symbions], "symbiote").
+entry(symbiote, n, [symbiotes], "un organisme vivant en association étroite avec un autre").
+entrée(symbiote, n, [symbiotes], "symbionte").
+entrée(symbiote, n, [symbiotes], "symbiote").
+entrée(symbole, v, [symbolee,symbolant,symboles], "ou SYMBOLÉE SYMBOLANT SYMBOLESpour servir de symbole une représentation de").
+entrée(symbolique, adj, [], "relatif à un symbole").
+entrée(symétrie, n, [symétries], "une correspondance exacte entre les moitiés opposées d'une figure").
+entrée(sympathie, n, [sympathies], "un sentiment de compassion pour la souffrance d'autrui").
+entrée(sympatrie, n, [sympatries], "l'état d'occuper la même aire sans perte d'identité due au croisement").
+entrée(symphonie, n, [symphonies], "une composition orchestrale").
+entrée(sympodia, npl, [], "tiges de plantes composées d'une série de branches superposées").
+entrée(symposia, npl, [], "conférences dans le but de discussion").
+entrée(symptôme, n, [symptômes], "une indication de quelque chose").
+entrée(syn, adv, [], "syne").
+entrée(synagogue, n, [synagogues], "un bâtiment pour le culte juif").
+entrée(synanon, n, [synanons], "une méthode de thérapie de groupe pour les toxicomanes").
+entrée(synapse, v, [synapsed,synapsing,synapses], "se rassembler en synapse").
+entrée(synapside, n, [synapsides], "un groupe de reptiles éteints").
+entrée(synapsis, n, [synapses], "le point auquel une impulsion nerveuse passe d'un neurone à un autreSYNAPTIQUE adj").
+entrée(sync, v, [synchronisé, synchronisation, synchronise], "faire fonctionner en unisson").
+entrée(syncarp, n, [syncarpes], "un fruit multiple charnu").
+entrée(syncarpy, n, [syncarpies], "l'état d'être un syncarpe").
+entrée(synchro, v, [synchronisé,synchronisation,synchronise], "synchroniser").
+entrée(synchro, n, [synchros], "un selsyn").
+entrée(synclinal, n, [synclinaux], "un type de formation rocheuse").
+entrée(syncom, n, [syncoms], "un type de satellite de communication").
+entrée(syncope, n, [syncopes], "la contraction d'un mot en omettant un ou plusieurs sons au milieuSYNCOPAL SYNCOPIC adj").
+entrée(syncytia, npl, [], "masses de protoplasme résultant de la fusion cellulaire").
+entrée(syndesis, n, [syndesises], "ou SYNDESESanapsis").
+entrée(syndet, n, [syndets], "un détergent synthétique").
+entrée(syndétique, adj, [], "servant à connecter").
+entrée(syndic, n, [syndics], "un agent d'affairesSYNDICAL adj").
+entrée(syndrome, n, [syndromes], "un groupe de symptômes qui caractérisent un trouble particulier").
+entrée(syne, adv, [], "depuis").
+entrée(synectique, adj, [], "relatif à un système de résolution de problèmes").
+entrée(synergie, n, [synergies], "synergie").
+entrée(synergide, n, [synergides], "une cellule trouvée dans le sac embryonnaire d'une plante à graines").
+entrée(synergie, n, [synergies], "action combinéeSYNERGIQUE adj").
+entrée(synesis, n, [syneses], "un type de construction grammaticale").
+entrée(synfuel, n, [carburants de synthèse], "un combustible dérivé de combustibles fossiles").
+entrée(syngamie, n, [syngamies], "l'union de deux gamètesSYNGAMIQUE adj").
+entrée(syngas, n, [syngases], "ou SYNGASSESun mélange de monoxyde de carbone et d’hydrogène utilisé dans la synthèse chimique").
+entry(syngenic, adj, [], "relatif à ou étant des individus génétiquement identiques en ce qui concerne la réaction aux antigènes").
+entrée(synkarya, npl, [], "noyaux cellulaires formés par la fusion de deux noyaux préexistants").
+entry(synode, n, [synodes], "un concile d'égliseSYNODAL SYNODIC adj").
+entrée(synonyme, n, [synonymes], "un mot ayant la même signification qu'un autre").
+entrée(synonyme, n, [synonymes], "synonyme").
+entrée(synonymie, n, [synonymies], "équivalence de sens").
+entrée(synopsis, n, [synopses], "un résuméSYNOPTIQUE adj").
+entrée(synovie, n, [synovies], "un fluide lubrifiant sécrété par certaines membranesSYNOVIAL adj").
+entrée(syntagme, n, [syntagmes], "syntagma").
+entry(syntagme, n, [syntagmes], "ou SYNTAGMATA un élément syntaxique").
+entry(syntaxe, n, [syntaxes], "la manière dont les mots sont assemblés pour former des phrases et des phrases").
+entrée(synth, n, [synths], "un synthétiseur").
+entrée(synthase, n, [synthases], "une enzyme qui agit comme un catalyseur en liant deux molécules").
+entry(synthpop, n, [synthpops], "musique populaire jouée avec des synthétiseurs").
+entrée(syntone, n, [syntones], "une personne ayant un tempérament syntonique").
+entry(syntonique, adj, [], "ayant un tempérament réactif à un environnement social donné").
+entrée(syntonie, n, [syntonies], "le réglage des émetteurs et des récepteurs entre eux").
+entrée(syntype, n, [syntypes], "chacun d'un ensemble de spécimens types sur lesquels le nom d'une nouvelle espèce est basé").
+entrée(synura, n, [synurae], "n'importe lequel d'un genre de protozoaires").
+entrée(syph, n, [syphs], "syphilis").
+entry(sypher, v, [syphered,syphering,syphers], "chevaucher de manière à créer une surface lisse comme des bords de planches biseautés").
+entrée(syphilis, n, [syphilises], "une maladie vénérienne").
+entry(siphon, v, [siphonné,siphonnant,siphonne], "siphonner").
+entrée(syphonal, adj, [], "siphonal").
+entrée(syphonic, adj, [], "siphonique").
+entry(sirène, n, [sirènes], "sirène").
+entry(syrette, n, [syrettes], "un petit tube équipé d'une aiguille hypodermique contenant une dose unique de médicament").
+entrée(syringa, n, [syringas], "un arbuste ornemental").
+entry(seringue, v, [seringué,seringuant,seringues], "nettoyer ou traiter avec un fluide injecté").
+entrée(syrinx, n, [syrinxes], "ou SYRINGESl'organe vocal d'un oiseau").
+entry(syrphien, n, [syrphiens], "syrphe").
+entrée(syrphide, n, [syrphides], "un insecte ailé").
+entry(sirop, v, [siropé,siropant,sirops], "adoucir avec un liquide épais sucré").
+entry(sirupeux, adj, [], "RESSEMBLANT À UN LIQUIDE DOUX ÉPAIS ET COLLANT").
+entry(administrateur_sys, n, [administrateurs_sys], "un administrateur système").
+entrée(sysop, n, [sysops], "l'administrateur d'un tableau d'affichage informatique").
+entrée(système, n, [systèmes], "un groupe d'éléments interactifs formant un ensemble unifié").
+entrée(systémique, n, [systémiques], "un type de pesticide").
+entrée(systole, n, [systoles], "la contraction rythmique normale du cœurSYSTOLIQUE adj").
+entrée(syzygy, n, [syzygies], "la configuration de la terre, de la lune et du soleil en ligne droite SYZYGAL SYZYGIAL adj").
+entrée(ta, n, [tas], "une expression de gratitude").
+entrée(tab, v, [tabulation, tabulation, tabulations], "nommer ou désigner").
+entrée(tabanidé, n, [tabanidés], "un insecte hématophage").
+entrée(tabard, n, [tabards], "un vêtement extérieur sans manchesTABARDÉ adj").
+entrée(tabaret, n, [tabarets], "un tissu de soie").
+entrée(tabbed, passé, [], "temps de tab").
+entrée(tabulation, n, [tabulations], "l'utilisation de la touche de tabulation sur un clavier").
+entrée(tabbis, n, [tabbis], "un tissu en soie").
+entrée(tabby, v, [tabbied, tabbying, tabbies], "donner une apparence ondulée à").
+entrée(taber, v, [tabered,tabering,tabers], "tabourer").
+entrée(tabes, n, [tabes], "une maladie syphilitique").
+entry(tabétique, n, [tabétiques], "personne atteinte de tabès").
+entrée(tabid, adj, [], "atteint de tabès").
+entrée(table, n, [tables], "un petit tambour").
+entrée(table, v, [table,tablons,tableaux], "placer sur une table un meuble ayant une surface supérieure plate").
+entrée(tableau, n, [tableaux], "ou TABLEAUXune image").
+entrée(à_ras_de_table, n, [à_ras_de_tables], "ou À_RAS_DE_TABLES autant qu'une table peut contenir").
+entrée(tablette, v, [tabletté, tablettant, tablettes], "ou TABLETTÉ TABLETTANT TABLETTES inscrire sur une petite surface plate").
+entrée(table, n, [tables], "le dessus d'une table").
+entrée(mise_en_table, n, [mise_en_tables], "la disposition de données ou d'informations en colonnes de tableaux").
+entrée(tabloïd, n, [tabloïds], "un petit journal").
+entry(tabou, v, [taboués,tabouant,tabous], "exclure de l'utilisation, de l'approche ou de la mention").
+entry(tabooley, n, [tabooleys], "taboulé").
+entrée(tabor, v, [tabored, taboring, tabors], "jouer du tambourin").
+entry(taborer, n, [taborers], "celui qui joue du tambourin").
+entrée(tabouret, n, [tabourets], "un petit tambour").
+entrée(taborin, n, [taborins], "taborine").
+entry(taborine, n, [tabourets], "un tabouret").
+entrée(taboulé, n, [taboulés], "tabouli").
+entrée(taboulé, n, [taboulés], "une salade libanaise contenant du blé concassé, des tomates, du persil, des oignons et de la menthe").
+entrée(tabour, v, [taboured,tabouring,tabours], "jouer du tambour").
+entry(tabourer, n, [tabourers], "taborer").
+entrée(tabouret, n, [tabourets], "tabouret").
+entry(tabou, v, [taboued,tabouant,tabous], "mettre un tabou").
+entry(tabulaire, adj, [], "de ou se rapportant à une liste").
+entry(tabuler, v, [tabulé,tabulant,tabule], "organiser sous forme de liste").
+entrée(tabuli, n, [taboulis], "taboulé").
+entrée(tabun, n, [tabuns], "un composé chimique").
+entrée(tacan, n, [tacans], "un système de navigation pour les aéronefs").
+entry(tace, n, [faces], "une tassement").
+entrée(tacet, v, [], "être silencieux utilisé comme une indication musicale").
+entrée(tach, n, [tachs], "un dispositif pour indiquer la vitesse de rotation").
+entrée(tâche, n, [tâches], "une attache ou boucle").
+entrée(tachinid, n, [tachinides], "une mouche grisâtre").
+entrée(tachisme, n, [tachismes], "peinture gestuelle").
+entrée(tachisme, n, [tachismes], "tachisme").
+entrée(tachiste, n, [tachistes], "un peintre d'action").
+entrée(tachiste, n, [tachistes], "tachist").
+entrée(tachyon, n, [tachyons], "une particule subatomique théorique").
+entrée(tacit, adj, [], "non ditTACITEMENT adv").
+entry(taciturne, adj, [], "silencieusement habituel").
+entrée(tack, v, [tacked,tacking,tacks], "fixer avec des clous courts et pointus").
+entrée(tacker, n, [tackers], "celui qui attache").
+entrée(tacket, n, [tackets], "un clou à tête large").
+entrée(tackey, adj, [], "PLUS TACKY LE PLUS TACKYtacky").
+entrée(tackier, comparatif, [], "de collant").
+entrée(tackiest, superlatif, [], "de kitsch").
+entrée(tackify, v, [tackifié,tackifiant,tackifie], "rendre collant").
+entrée(tackily, adv, [], "de manière kitsch").
+entrée(plaquer, v, [plaqué, plaquant, plaque], "saisir et jeter au sol").
+entrée(plaquer, n, [plaqueurs], "celui qui plaque").
+entrée(sans_clous, adj, [], "n'ayant pas de clous").
+entrée(plaquage, n, [plaquages], "équipement").
+entrée(tacky, adj, [], "PLUS COLLANT COLLANTle adhésif").
+entry(noudetac, n, [noudestacs], "un point de contact entre deux courbes").
+entry(taco, n, [tacos], "une tortilla pliée autour d'une garniture").
+entrée(taconite, n, [taconites], "un minerai de fer de basse qualité").
+entrée(tacrine, n, [tacrines], "un médicament pour traiter la maladie d'Alzheimer").
+entrée(tact, n, [tacts], "habileté à gérer des situations délicates").
+entrée(tactful, adj, [], "ayant du tact").
+entrée(tactique, n, [tactiques], "une manœuvre pour atteindre un objectifTACTIQUE adj").
+entry(tactile, adj, [], "relatif au sens du toucher").
+entrée(taction, n, [tactions], "l'acte de toucher").
+entrée(malavisé, adj, [], "manquant de tact").
+entrée(tactual, adj, [], "tactile").
+entrée(tad, n, [tads], "un petit garçon").
+entry(têtard, n, [têtards], "la larve aquatique d'un amphibien").
+entry(tae, prep, [], "à").
+entrée(tael, n, [taels], "une unité de poids chinoise").
+entrée(taenia, n, [taenias], "ou TAENIAEUn téniaTAENIOÏDE adj").
+entrée(taénite, n, [taénites], "un alliage de nickel-fer dans les météorites").
+entrée(taffarel, n, [taffarels], "couronnement").
+entrée(tafferel, n, [tafferels], "taffrail").
+entrée(taffetas, n, [taffetas], "un tissu lustré").
+entrée(taffia, n, [taffias], "tafia").
+entrée(taffrail, n, [taffrails], "une rambarde autour de la poupe d'un navire").
+entrée(taffy, n, [bonbons_mous], "un bonbon moelleux").
+entrée(tafia, n, [tafias], "un rhum inférieur").
+entrée(tag, v, [tagué, marquage, tags], "fournir un tag comme marqueur d'identification").
+entrée(tagalong, n, [tagalongs], "celui qui suit un autre").
+entrée(tagboard, n, [tagboards], "un matériau pour fabriquer des étiquettes d'expédition").
+entrée(tagetes, n, [tagetes], "une plante à fleurs").
+entrée(taggant, n, [taggants], "une substance ajoutée à un produit pour indiquer sa source de fabrication").
+entrée étiqueté, passé, [], "temps de l'étiquette".
+entrée(marqueur, n, [marqueurs], "celui qui étiquette").
+entrée(tagging, présent, [], "participe de tag").
+entrée(tajine, n, [tajines], "tajine").
+entrée(taglike, adj, [], "ressemblant à une étiquette").
+entry(slogan, n, [slogans], "la dernière ligne d'une pièce de théâtre ou d'une blague qui fait le point").
+entry(tagmeme, n, [tagmemes], "la plus petite unité de relation grammaticale significative").
+entrée(tagmémique, adj, [], "relatif à une grammaire dans laquelle un tagmème est l'unité de base").
+entrée(tagrag, n, [tagrags], "racaille").
+entry(tahina, n, [tahinas], "tahini").
+entrée(tahini, n, [tahinis], "une pâte de graines de sésame").
+entry(tahr, n, [tahrs], "un mammifère ressemblant à une chèvre").
+entrée(tahsil, n, [tahsils], "un district en Inde").
+entry(taïga, n, [taïgas], "une forêt subarctique de conifères").
+entrée(taiglach, n, [taiglach], "teiglach").
+entry(taiko, n, [taikos], "un tambour japonais en forme de tonneau").
+entrée(queue, v, [queuéd,queuant,queues], "fournir une queue ou une partie arrière").
+entry(reculs, n, [reculs], "un membre du champ arrière dans certaines formations de football").
+entrée(coccyx, n, [coccyx], "le coccyx").
+entry(queue-de-pie, n, [queues-de-pie], "un manteau pour homme").
+entrée(suiveur, n, [suiveurs], "celui qui suit secrètement un autre").
+entry(nageoire_caudale, n, [nageoires_caudales], "un organe natatoire en forme d'éventail à l'arrière de certains crustacés").
+entrée(queue_de_poisson, n, [queues_de_poisson], "une nageoire à l'extrémité postérieure d'un poisson").
+entrée(remorque, v, [remorqué,remorquant,remorques], "conduire dangereusement près derrière un autre véhicule").
+entrée(queue-de-crochet, n, [queues-de-crochet], "un crochet abaissé de la queue d'un avion pour engager un câble de freinage").
+entry(suivi, n, [suivis], "la partie d'une pierre ou d'une brique saillante qui est insérée dans un mur").
+entrée(feu_arrière, n, [feux_arrière], "une lumière à l'arrière d'un véhicule").
+entry(taille, n, [tailles], "un ancien impôt français").
+entry(sans_queu, adj, [], "n'ayant pas de queue").
+entrée(tailleur, n, [tailleurs], "un tailleur pour femme").
+entrée(semblableàqueue, adj, [], "ressemblant à une queue").
+entrée(tailleur, v, [ajusté,ajustement,ajuste], "ajuster avec des vêtements").
+entrée(pot_d'échappement, n, [pots_d'échappement], "un tuyau d'échappement").
+entrée(queue_de_moulin, n, [queues_de_moulin], "une partie d'une canalisation de moulin").
+entrée(tail skid, n, [tail skids], "un support sur lequel repose la queue d'un avion").
+entrée(tailspin, v, [tailspun,tailspinning,tailspins], "descendre en vrille vers la terre").
+entrée(tailwind, n, [vents arrière], "un vent venant de derrière un véhicule en mouvement").
+entry(tain, n, [tains], "une plaque mince").
+entry(taint, v, [contaminé, contaminant, contamine], "toucher ou affecter légèrement avec quelque chose de mauvais").
+entry(taipan, n, [taipans], "un serpent venimeux").
+entrée(taj, n, [tajes], "une coiffe conique haute portée dans les pays musulmans").
+entry(tajine, n, [tajines], "un pot de cuisson marocain en terre cuite").
+entrée(taka, n, [takas], "une unité monétaire du Bangladesh").
+entry(takahe, n, [takahés], "un oiseau incapable de voler").
+entry(prendre, v, [prit,pris,prenant], "PRENDREPour obtenir la possession dePRENABLE PRENDABLE adj").
+entry(à_emporter, n, [à_emporters], "nourriture préparée à emporter de son lieu de vente").
+entry(démontage, n, [démontages], "un article qui peut être démonté facilement").
+entrée(décollage, n, [décollages], "l'acte de s'élever en vol").
+entrée(à_emporter, n, [à_emporter], "l'acte de retirer").
+entrée(prise_de_direction, n, [prises_de_directions], "l'acte de prendre le contrôle").
+entrée(preneur, n, [preneurs], "celui qui prend").
+entrée(takeup, n, [prises], "l'action de prendre quelque chose").
+entry(takin, n, [takins], "un mammifère semblable à une chèvre").
+entrée(préhension, n, [préhensions], "une saisie").
+entry(takingly, adv, [], "de manière attrayante").
+entrée(tala, n, [talas], "un schéma rythmique traditionnel de la musique en Inde").
+entrée(talapoin, n, [talapoins], "un petit singe africain").
+entrée(talar, n, [talars], "un long manteau").
+entrée(talaria, npl, [], "sandales ailées portées par diverses figures de la mythologie classique").
+entrée(talbot, n, [talbots], "un grand chien d'une race éteinte").
+entry(talc, v, [talqué,talquant,talques], "ou TALQUÉ TALQUANT TALQUEStraiter avec du talc un minéral mou à texture savonneuseTALQUÉ TALCOSE TALCOUT TALQUANT adj").
+entrée(talcum, v, [talqué, talquant, talque], "traiter avec une poudre faite de talc").
+entry(conte, n, [contes], "une histoire").
+entry(taleggio, n, [taleggios], "un fromage crémeux et doux").
+entrée(talent, n, [talents], "une capacité naturelle spécialeTALENTUEUX adj").
+entrée(taler, n, [talers], "une pièce allemande utilisée autrefois").
+entrée(talesman, n, [talesmen], "une personne convoquée pour combler une vacance dans un jury").
+entrée(tali, pl, [], "de talus").
+entry(talion, n, [talions], "une représailles pour un crime").
+entrée(taliped, n, [talipèdes], "une personne atteinte de pied bot").
+entrée(talipes, n, [talipes], "pied bot").
+entrée(talipot, n, [talipots], "un grand palmier").
+entrée(talisman, n, [talismans], "un objet auquel on attribue des pouvoirs magiques").
+entrée(parler, v, [parlé, parlant, parle], "communiquer en parlant").
+entrée(parlable, adj, [], "pouvant être discuté").
+entrée(rétroaction, n, [rétroactions], "un lien de communication unidirectionnel entre une cabine de contrôle et un studio d'enregistrement").
+entrée(parleur, n, [parleurs], "celui qui parle").
+entrée(bavardage, n, [bavardages], "un bavardage").
+entry(talkie, n, [talkies], "un film avec son synchronisé").
+entrée(parler, n, [conversations], "conversation").
+entry(talky, adj, [], "TALKIER TALKIESTayant tendance à parler beaucoup").
+entrée(grand, n, [grands], "une taille de vêtement pour les personnes grandes").
+entry(grand, adj, [], "PLUS GRAND LE PLUS GRANDayant une grande hauteur").
+entrée(tallage, v, [tallaged, tallaging, tallages], "taxer").
+entrée(tallboy, n, [tallboys], "un chiffonier").
+entrée(compté, passé, [], "temps de compter").
+entry(tallier, n, [tallieurs], "celui qui compte").
+entrée(tallies, présent, [], "3e personne sing de comptabiliser").
+entry(tallis, n, [tallises], "ou TALLISIMtallith").
+entrée(tallish, adj, [], "quelque peu grand").
+entrée(tallit, n, [tallits], "ou TALLITIMtallith").
+entry(tallith, n, [talliths], "ou TALLITHIM un châle de prière juif").
+entry(grandeur, n, [grandeurs], "l'état d'être grand").
+entrée(tallol, n, [tallols], "un liquide résineux").
+entry(suif, v, [suifé,suifiant,suifes], "enduire de suif un mélange de graisses animales").
+entrée(tallowy, adj, [], "ressemblant à du suif").
+entrée(tally, v, [tallied,tallying,tallies], "compter").
+entrée(tallyho, v, [tallyhoed,tallyhoing,tallyhos], "ou TALLYHOE pour encourager par un cri les chiens de chasse").
+entry(tallyman, n, [tallymen], "une personne qui compte").
+entry(talmudique, adj, [], "relatif au corps de la loi civile et religieuse juive").
+entry(talon, n, [serres], "une griffe d'un oiseau de proieTALONED adj").
+entrée(talooka, n, [talookas], "taluk").
+entrée(taluk, n, [taluks], "un domaine en Inde").
+entrée(taluka, n, [talukas], "taluk").
+entrée(talus, n, [éboulis], "une pente formée par une accumulation de débris rocheux").
+entry(talus, n, [tali], "un os du pied").
+entrée(tam, n, [tams], "un bonnet écossais ajusté").
+entrée(apprivoisable, adj, [], "capable d'être apprivoisé").
+entrée(tamal, n, [tamales], "tamale").
+entrée(tamale, n, [tamales], "un plat mexicain").
+entrée(tamandu, n, [tamandus], "tamandua").
+entrée(tamandua, n, [tamanduas], "un fourmilier arboricole").
+entrée(mélèze, n, [mélèzes], "un arbre à bois").
+entrée(tamarao, n, [tamaraos], "tamarau").
+entrée(tamarau, n, [tamaraux], "un petit buffle des Philippines").
+entrée(tamari, n, [tamaris], "une sauce soja japonaise").
+entrée(tamarin, n, [tamarins], "un singe d'Amérique du Sud").
+entrée(tamarin, n, [tamarins], "un arbre tropical").
+entry(tamaris, n, [tamaris], "un arbuste à feuilles persistantes").
+entrée(tamasha, n, [tamashas], "un divertissement public en Inde").
+entrée(tambac, n, [tambacs], "tombac").
+entrée(tambak, n, [tambaks], "tombac").
+entrée(tambala, n, [tambalas], "ou MATAMBALA une unité monétaire du Malawi").
+entry(tambour, v, [tamboura,tambourant,tambours], "broder sur un cerceau en bois rond").
+entrée(tamboura, n, [tambouras], "tambura").
+entrée(tambour, n, [tambours], "tambour").
+entrée(tambura, n, [tamburas], "un instrument à cordes").
+entrée(apprivoiser, adj, [], "LE PLUS APPRIVOISÉ LE MOINS APPRIVOISÉgentil ou docile").
+entrée(domestiquer, v, [domestiqué, domestiquant, domestique], "rendre domestique").
+entry(apprivoisable, adj, [], "tamable").
+entry(tamein, n, [tameins], "un vêtement porté par les femmes birmanes").
+entrée(tameless, adj, [], "incapable d'être apprivoisé").
+entrée(tamely, adv, [], "d'une manière apprivoisée").
+entrée(docilité, n, [docilités], "l'état d'être docile").
+entrée(dompteur, n, [dompteurs], "celui qui dompte").
+entrée(tamest, superlatif, [], "de docile").
+entrée(domptant, présent, [], "participe de dompter").
+entry(tamis, n, [tamises], "un tamis en tissu maillé").
+entrée(tammie, n, [tammies], "tammy").
+entrée(tammy, n, [tammies], "un tissu de fibres mélangées").
+entry(tamp, v, [tamped,tamping,tamps], "enfoncer en tapant").
+entrée(tampala, n, [tampalas], "une herbe annuelle").
+entrée(tampan, n, [tampans], "un insecte mordant").
+entrée(trafiquer, v, [trafiqué,trafiquant,trafiques], "interférer de manière nuisible").
+entrée(tamperer, n, [tamperers], "celui qui manipule").
+entrée(tassage, n, [tassages], "l'action de compacter en tapant").
+entry(tampion, n, [tampions], "un bouchon pour la bouche d'un canon").
+entrée(tampon, v, [tamponné,tamponnant,tampons], "boucher avec un coton").
+entrée(tan, adj, [], "LE PLUS BRONZÉ BRONZÉ du soleil").
+entrée(tan, v, [tané, tannage, tanne], "transformer une peau en cuir par trempage dans des produits chimiques").
+entrée(tangara, n, [tangaras], "un oiseau aux couleurs vives").
+entrée(écorce_de_chêne, n, [écorces_de_chêne], "une écorce d'arbre utilisée comme source de tanin").
+entrée(tandem, n, [tandems], "un vélo construit pour deux").
+entry(tandoor, n, [tandoors], "ou TANDOORI un four en argile").
+entrée(tandoori, n, [tandooris], "nourriture cuite dans un tandoor").
+entrée(tang, v, [tanged,tanging,tangs], "donner une saveur piquante").
+entrée(tanga, n, [tanga], "une ancienne unité monétaire du Tadjikistan").
+entrée(tangelo, n, [tangelos], "un agrume").
+entrée(tangence, n, [tangences], "tangence").
+entrée(tangence, n, [tangences], "l'état d'être en contact physique immédiat").
+entry(tangente, n, [tangentes], "une ligne droite en contact avec une courbe en un point").
+entry(tangible, n, [tangibles], "quelque chose de palpable").
+entrée(tangiblement, adv, [], "palpable").
+entrée(tangerine, comparatif, [], "de tangy").
+entrée(tangiest, superlatif, [], "de acidulé").
+entrée(tangle, v, [emmêlé, emmêlant, emmêle], "rassembler dans une confusion complexe").
+entrée(tangler, n, [emmêleurs], "celui qui emmêle").
+entrée(tangly, adj, [], "TANGLIER TANGLIESTtangled").
+entrée(tango, v, [tangoed,tangoing,tangos], "ou TANGOES pour exécuter une danse d'Amérique latine").
+entry(tangram, n, [tangrams], "un puzzle chinois").
+entrée(tangy, adj, [], "TANGIER TANGIESTpungent").
+entry(tanist, n, [tanists], "l'héritier présomptif d'un chef celtique").
+entrée(tanistry, n, [tanistries], "le système d'élection d'un taniste").
+entrée(réservoir, v, [réservoiré,réservoirant,réservoirs], "stocker dans un réservoir un contenant généralement pour les liquides").
+entry(tanka, n, [tankas], "une forme de vers japonaise").
+entry(réservoir, n, [capacités], "la capacité d'un réservoir").
+entry(chopine, n, [chopines], "un grand récipient à boire").
+entrée(tanker, n, [tankers], "un navire conçu pour transporter des liquides").
+entry(rempli, n, [remplis], "la quantité qu'un réservoir peut contenir").
+entrée(tankini, n, [tankinis], "un maillot de bain féminin composé d'une culotte et d'un débardeur").
+entrée(sans_réservoir, adj, [], "n'ayant pas de réservoir").
+entrée(tanklike, adj, [], "ressemblant à un char").
+entry(pétrolier, n, [pétroliers], "un pétrolier").
+entrée(tannable, adj, [], "capable d'être tanné").
+entrée(tannage, n, [tannages], "le processus de tannage").
+entrée(tannate, n, [tannates], "un sel chimique").
+entrée(bronzé, passé, [], "temps de bronzer").
+entrée(tanneur, n, [tan(neurs)], "celui qui tanne").
+entry(tannerie, n, [tanneries], "un endroit où les peaux sont tannées").
+entrée(tannest, superlatif, [], "de tan").
+entrée(tannique, adj, [], "relatif au tanin").
+entrée(tanin, n, [tanins], "un composé chimique utilisé dans le tannage").
+entry(bronzage, n, [bronzages], "le processus de transformation des peaux en cuir").
+entrée(tannish, adj, [], "un peu bronzé").
+entry(tanrec, n, [tanrecs], "ténrec").
+entrée(tanaisie, n, [tanaises], "une plante herbacée vivace").
+entrée(tantale, n, [tantales], "un élément métalliqueTANTALIQUE adj").
+entrée(tantalus, n, [tantalus], "un étui pour bouteilles de vin").
+entrée(tantara, n, [tantaras], "le son d'une trompette ou d'un cor").
+entry(tantivy, n, [tantivies], "un cri de chasse").
+entrée(tanto, n, [tantos], "une courte épée japonaise").
+entrée(tantra, n, [tantras], "un des écrits religieux hindousTANTRIQUE adj").
+entry(tantrisme, n, [tantrismes], "une école de bouddhisme incorporant des éléments hindous et païens").
+entrée(tantriste, n, [tantristes], "un adepte du tantrisme").
+entrée(colère, n, [colères], "une crise de rage").
+entrée(tanuki, n, [tanukis], "un chien viverrin").
+entrée(tannerie, n, [tanneries], "la section d'une tannerie contenant les cuves").
+entrée(tao, n, [taos], "le chemin de la conduite vertueuse selon une philosophie chinoise").
+entrée(frapper, v, [frappé,frappant,frappe], "frapper doucement").
+entrée(tapa, n, [tapas], "un tissu fabriqué à partir d'écorce d'arbre").
+entrée(tapadera, n, [tapaderas], "une partie d'une selle").
+entrée(tapadero, n, [tapaderos], "couvercle").
+entry(tapalo, n, [tapalos], "une écharpe portée dans les pays d'Amérique latine").
+entrée(bande, v, [bandée, bandant, bandes], "fixer avec une bande longue et étroiteBANDEABLE adj").
+entrée(sans_ruban, adj, [], "sans ruban").
+entry(tapelike, adj, [], "ressemblant à du ruban").
+entrée(rubanmesure, n, [rubansmesure], "un ruban pour mesurer les distances").
+entrée(tapenade, n, [tapénades], "une tartinade faite avec des olives noires, des câpres et des anchois").
+entrée(affiner, v, [affiné,afinant,affine], "devenir progressivement plus étroit vers une extrémité").
+entry(porteurs_de_cierges, n, [porteur_de_cierge], "celui qui porte une bougie dans une procession religieuse").
+entrée(tapisserie, v, [tapissé, tapissant, tapisseries], "décorer avec des tentures murales tissées").
+entrée(tapetum, n, [tapeta], "une couche de cellules dans certaines plantesTAPETAL adj").
+entrée(ver, n, [vers], "un ver parasite").
+entrée(trou_de_coulée, n, [trous_de_coulée], "un trou dans un haut fourneau").
+entry(taphouse, n, [taphouses], "une taverne").
+entrée(enregistrement, n, [enregistrements], "l'acte ou une instance d'enregistrer quelque chose sur bande magnétique").
+entry(tapioca, n, [tapiocas], "un aliment féculent").
+entry(tapir, n, [tapirs], "un mammifère ongulé").
+entry(tapis, n, [tapisseries], "matériau utilisé pour les tentures murales et les revêtements de sol").
+entrée(tapless, adj, [], "manquant d'un robinet un dispositif pour arrêter l'écoulement de liquide ou de gaz").
+entrée(tappable, adj, [], "capable d'être exploité").
+entrée(tapé, passé, [], "temps de tap").
+entry(tapper, n, [tappers], "celui qui tape").
+entry(tappet, n, [tappets], "tige coulissante qui entraîne le mouvement d'une autre partie d'un mécanisme").
+entry(tapping, n, [tappings], "le processus ou moyen par lequel quelque chose est exploité").
+entrée(taproom, n, [taprooms], "une salle de bar").
+entrée(racine_principale, n, [racines_principales], "la racine principale d'une plante").
+entrée(tapster, n, [tapsters], "celui qui sert des boissons alcoolisées dans un bar").
+entrée(taqueria, n, [taquerias], "un restaurant spécialisé dans les tacos et burritos").
+entrée(goudron, v, [goudronné, goudronnant, goudrons], "couvrir de goudron un liquide noir et visqueux").
+entry(tarabish, n, [tarabishes], "un type de jeu de cartes").
+entrée(tarama, n, [taramas], "une pâte grecque d'œufs de poisson à l'ail, jus de citron et huile d'olive").
+entrée(tarantas, n, [tarantases], "une calèche russe").
+entrée(tarboosh, n, [tarbooshes], "un bonnet porté par les hommes musulmans").
+entry(tarboush, n, [tarboushes], "tarbouch").
+entrée(tardier, comparatif, [], "de tard").
+entrée(retards, pl, [], "de retard").
+entry(tardif, adj, [], "ayant des symptômes qui se développent lentement").
+entrée(tardo, adj, [], "lent utilisé comme une indication musicale").
+entrée(retardataire, adj, [], "PLUS TARD PLUS TARD tard TARDIVEMENT adv").
+entrée(retard, n, [retards], "un cas d'être en retard").
+entry(tardyon, n, [tardyons], "une particule subatomique qui voyage plus lentement que la vitesse de la lumière").
+entrée(tare, v, [tared,taring,tares], "déterminer le poids d'un contenant contenant des marchandises").
+entrée(targa, n, [targas], "un type de voiture de sport décapotable").
+entrée(targe, n, [targes], "un petit bouclier rond").
+entrée(cible, v, [ciblé,ciblant,cibles], "faire un objectif de").
+entrée(tarif, v, [tarifé,tarifiant,tarifs], "imposer une taxe sur les marchandises importées ou exportées").
+entrée(taring, présent, [], "participe de tare").
+entrée(tarlatan, n, [tarlatans], "un tissu de coton").
+entrée(tarletan, n, [tarletans], "tarlatane").
+entrée(tarmac, v, [tarmacked,tarmacking,tarmacs], "faire en sorte qu'un avion soit sur une voie de circulation").
+entrée(tarn, n, [tarns], "un petit lac de montagne").
+entrée(tarnal, adj, [], "damnéTARNALLY adv").
+entrée(ternir, v, [terni, ternissant, ternit], "ternir l'éclat de").
+entrée(tarot, n, [tarots], "une plante tropicale").
+entrée(taroc, n, [tarocs], "tarok").
+entrée(tarok, n, [taroks], "un jeu de cartes").
+entrée(tarot, n, [tarots], "n'importe quelle carte d'un jeu utilisé pour la divination").
+entrée(bâche, n, [bâches], "une couverture de toile protectrice").
+entrée(tarpan, n, [tarpans], "un cheval sauvage asiatique").
+entrée(papier_goudronné, n, [papiers_goudronnés], "un papier épais enduit de goudron").
+entrée(tarpon, n, [tarpons], "un poisson de mer de sport").
+entry(estragon, n, [estragons], "une herbe vivace").
+entrée(tarre, v, [tarré, tarrant, tarres], "pousser à agir").
+entrée(goudronné, passé, [], "temps de goudron").
+entrée(tarrier, n, [tarriers], "celui qui tarde").
+entrée(tarring, présent, [], "participe de tar et tarre").
+entrée(tarry, adj, [], "TARRIER TARRIESTressemblant à du goudron").
+entrée(tarder, v, [tardait, tardant, tarde], "retarder ou être lent à agir ou faire").
+entry(tarsal, n, [tarsals], "un os du pied").
+entry(tarsi, pl, [], "du tarse").
+entrée(tarsia, n, [tarsias], "intarsia").
+entry(tarsier, n, [tarsiers], "un primate nocturne").
+entrée(tarse, n, [tarses], "une partie du pied").
+entry(tarte, adj, [], "AYANT UN GOÛT AIGRE ET ACIDE").
+entry(tart, v, [tarted,tarting,tarts], "se faire beau").
+entrée(tartan, n, [tartans], "un tissu en laine à motif").
+entrée(tartane, n, [tartanes], "un voilier méditerranéen").
+entrée(tartre, n, [tartres], "une croûte sur les dentsADJECTIF TARTRIQUE").
+entrée(tartare, adj, [], "servi cru").
+entrée(tartier, comparatif, [], "de tarte").
+entrée(tartiest, superlatif, [], "de tarty").
+entrée(tartish, adj, [], "légèrement acide").
+entrée(tartelette, n, [tartelettes], "une petite tarte").
+entrée(tartly, adv, [], "d'une manière aigre").
+entrée(âcreté, n, [âcretés], "l'état d'être âcre").
+entrée(tartrate, n, [tartrates], "un sel chimique").
+entrée(tartufe, n, [tartufes], "tartuffe").
+entrée(tartuffe, n, [tartuffes], "un hypocrite").
+entrée(tartufo, n, [tartufi], "ou TARTUFOS, un dessert glacé italien").
+entry(tarty, adj, [], "TARTIER TARTIESTévoquant une prostituéeTARTILY adv").
+entrée(tarweed, n, [tarweeds], "une plante à fleurs").
+entrée(tarzan, n, [tarzans], "une personne de force et d'agilité supérieures").
+entrée(taser, v, [tasé,tasant,tases], "assommer avec un pistolet qui tire des fléchettes électrifiées").
+entrée(tâche, v, [chargé, chargeant, tâches], "assigner un travail à").
+entry(barre_de_tâches, n, [barres_de_tâches], "une rangée de contrôles graphiques sur un écran d'ordinateur").
+entrée(tâche, n, [tâches], "travail acharné").
+entrée(tasse, n, [tasses], "une tasse à boire").
+entrée(tasse, n, [tasses], "tasset").
+entry(gland, v, [glandé, glandant, glands], "ou ÉPURÉ GARNISSANT GARNITpour orner avec des ornements suspendus").
+entrée(tasset, n, [tassets], "une pièce d'armure de plaque pour la cuisse").
+entrée(tassie, n, [tassies], "tasse").
+entrée(tasso, n, [tassos], "porc épicé séché").
+entrée(goût, v, [goûté, dégustant, goûte], "percevoir la saveur de en portant à la boucheGOÛTABLE adj").
+entrée(savoureux, adj, [], "délicieux").
+entrée(dégustateur, n, [dégustateurs], "celui qui goûte").
+entrée(dégustation, n, [dégustations], "un rassemblement pour goûter des vins ou des aliments").
+entrée(délicieux, adj, [], "PLUS DÉLICIEUX LE PLUS DÉLICIEUXagréable au goûtDÉLICIEUSEMENT adv").
+entrée(tat, v, [tatted,tatting,tats], "faire du frivolité").
+entrée(tatami, n, [tatamis], "natte de paille utilisée comme revêtement de sol").
+entrée(tatar, n, [tatars], "une personne féroce").
+entrée(tate, n, [tates], "une touffe de cheveux").
+entr\u00E9e(patate, n, [patates], "une pomme de terre").
+entry(tathata, n, [tathatas], "la nature ultime de toutes choses dans le bouddhisme").
+entry(tatouay, n, [tatouays], "un tatou d'Amérique du Sud").
+entry(tatsoi, n, [tatsois], "une moutarde asiatique").
+entry(tatted, passé, [], "temps de broder").
+entrée(tatter, v, [effiloché, effilochant, effiloche], "devenir déchiré et usé").
+entrée(pomme_de_terre, n, [pommes_de_terre], "une pomme de terre").
+entry(tattier, comparatif, [], "de délabré").
+entrée(tattiest, superlatif, [], "de miteux").
+entry(tattily, adv, [], "de manière délabrée").
+entrée(tatouage, n, [tatouages], "dentelle délicate faite à la main").
+entry(cafarder, v, [cafardé,cafardant,cafarde], "révéler les activités d'un autre").
+entry(tattler, n, [tattlers], "celui qui rapporte").
+entrée(tatouage, v, [tatoué, tatouant, tatouages], "marquer la peau avec des pigments indélébiles").
+entrée(tatoueur, n, [tatoueurs], "celui qui tatoue").
+entrée(tatty, adj, [], "TATTIER TATTIESTmiteux").
+entrée(tau, n, [taus], "une lettre grecque").
+entrée(enseigné, passé, [], "temps de teach").
+entry(narguer, v, [nargué,narguant,nargue], "défier ou reprocher de façon sarcastique").
+entrée(nargueur, n, [nargueurs], "celui qui provoque").
+entry(tauon, n, [tauons], "un lepton instable").
+entrée(taupe, n, [taupes], "une couleur gris foncé").
+entry(taurine, n, [taurines], "un composé chimique").
+entrée(taut, adj, [], "TAUTER TAUTESTcomplètement tendu pour ne pas être lâche").
+entrée(taut, v, [tauted, tauting, tauts], "s'emmêler").
+entrée(tautaug, n, [tautaugs], "tautog").
+entrée(tauten, v, [tauteni, tautenant, tautens], "rendre tendu").
+entry(tendue, adv, [], "d'une manière tendue").
+entrée(tension, n, [tensions], "l'état d'être tendu").
+entrée(tautog, n, [tautogs], "un poisson marin").
+entrée(tautomer, n, [tautomères], "un type de composé chimique").
+entry(tautonyme, n, [tautonymes], "un type de désignation taxonomique").
+entrée(tav, n, [tavs], "une lettre hébraïque").
+entry(taverne, n, [tavernes], "un endroit où des boissons alcoolisées sont vendues pour être consommées sur place").
+entrée(taverne, n, [tavernes], "un café en Grèce").
+entrée(tavernier, n, [tauliers], "celui qui tient une taverne").
+entry(taw, v, [tawed,tawing,taws], "convertir en cuir blanc par l'application de minéraux").
+entrée(tawdry, adj, [], "TAWDRIER TAWDRIESTvoyantTAWDRILY adv").
+entrée(tapageur, n, [tapageurs], "vêtement criard").
+entry(tawer, n, [tawers], "qui taw").
+entry(tawie, adj, [], "docile").
+entrée(tawney, n, [tawneys], "fauve").
+entry(tawny, adj, [], "PLUS FAUVE LES PLUS FAUVEbrun clairFAUVE adv").
+entry(fauve, n, [fauves], "une couleur brun clair").
+entrée(tawpie, n, [tawpies], "un jeune insensé").
+entrée(tawse, v, [tawsé,tawser,tawses], "fouetter").
+entry(taxe, v, [taxé, taxant, taxes], "imposer une taxe, une charge imposée par l'autorité à des fins publiques sur").
+entrée(taxa, a, [], "pl du taxon").
+entrée(imposable, adj, [], "sujet à l'impositionIMPOSABLE adv").
+entrée(imposable, n, [imposables], "un article imposable").
+entrée(taxation, n, [taxations], "le processus de taxation").
+entrée(taxème, n, [taxèmes], "une caractéristique grammaticale minimale de sélectionTAXÉMIQUE adj").
+entrée(taxer, n, [taxeurs], "celui qui impose").
+entry(taxi, v, [], "TAXIÉ TAXI DE TAXIAGE TAXIES or TAXIESto voyager en taxi").
+entrée(taxi, n, [taxis], "une automobile à louer").
+entry(taximan, n, [taximen], "l'opérateur d'un taxi").
+entrée(taxingly, adv, [], "d'une manière accablante").
+entrée(taxite, n, [taxites], "une roche volcaniqueTAXITIQUE adj").
+entrée(taxiway, n, [voies_de_roulage], "une bande pavée dans un aéroport").
+entrée(sans_taxes, adj, [], "libéré de l'imposition").
+entrée(percepteur, n, [percepteurs], "celui qui perçoit les impôts").
+entry(taxol, n, [taxols], "une substance médicinale provenant d'un if").
+entrée(taxon, n, [taxons], "ou TAXONune unité de classification scientifique").
+entrée(taxonomie, n, [taxonomies], "l'étude de la classification scientifique").
+entry(taxpaid, adj, [], "payé par les impôts").
+entrée(contribuable, n, [contribuables], "celui qui paie des impôts").
+entrée(taxus, n, [taxus], "un arbre ou un arbuste à feuilles persistantes").
+entrée(taxwise, adj, [], "relatif aux impôts").
+entrée(taxying, a, [], "gérondif de taxi").
+entrée(tayberry, n, [tayberries], "un fruit rouge foncé issu d'un croisement entre une mûre et une framboise").
+entry(tayra, n, [tayras], "un grand mammifère d'Amérique centrale et du Sud").
+entrée(tazza, n, [tazzes], "ou TAZZE un bol ornemental").
+entrée(te, n, [tes], "ti").
+entrée(thé, n, [thés], "une boisson préparée en infusant des feuilles sèches dans de l'eau bouillante").
+entrée(teaberry, n, [teaberries], "un arbuste nord-américain").
+entry(teaboard, n, [plateaux_à_thé], "un plateau pour servir le thé").
+entrée(teabowl, n, [teabowls], "une tasse à thé sans anse").
+entry(boîte_à_thé, n, [boîtes_à_thé], "une boîte pour les feuilles de thé").
+entrée(gâteau_de_thé, n, [gâteaux_de_thé], "un petit gâteau servi avec le thé").
+entrée(chariot_à_thé, n, [chariots_à_thé], "une table à roulettes utilisée pour servir le thé").
+entrée(enseigner, v, [enseigné,enseignant,enseigne], "transmettre des connaissances ou des compétences à").
+entrée(enseignant, n, [enseignants], "celui qui enseigne").
+entry(enseignement, n, [enseignements], "une doctrine").
+entry(tasse_à_thé, n, [tasses_à_thé], "une tasse dans laquelle le thé est servi").
+entry(maison_de_thé, n, [maisons_de_thé], "un établissement public servant du thé").
+entrée(teck, n, [tecks], "un arbre d'Inde orientale").
+entry(teakwood, n, [teakwoods], "le bois de teck").
+entrée(teal, n, [teals], "un canard de rivière").
+entry(tealike, adj, [], "ressemblant au thé").
+entrée(équipe, v, [équipes,équipant,équipes], "former une équipe un groupe de personnes associées dans une action conjointe").
+entrée(fabricant_de_thé, n, [fabricants_de_thé], "celui qui fait le thé").
+entrée(coéquipier, n, [coéquipiers], "un membre de la même équipe").
+entrée(teamster, n, [camionneurs], "un chauffeur de camion").
+entry(travail_d'équipe, n, [travaux_d'équipe], "effort coopératif pour atteindre un objectif commun").
+entrée(théière, n, [théières], "un récipient utilisé pour préparer et servir le thé").
+entrée(teapoy, n, [teapoys], "une petite table utilisée pour servir le thé").
+entrée(tear, v, [pleura, déchirant, larmes], "émettre des larmes, gouttes de liquide salin sécrétées par une glande de l'œil").
+entry(tear, v, [tore,torn,tearing], "DÉCHIRERséparer ou mettre en piècesDÉCHIRABLE adj").
+entrée(teigneux, n, [teigneux], "une personne rebelle").
+entrée(démontage, n, [démontages], "le processus de démontage").
+entrée(larme, n, [larmes], "une larme").
+entrée(déchireur, n, [déchireurs], "celui qui déchire ou déchiquète").
+entrée(larmoyant, adj, [], "plein de larmes").
+entrée(tear-gas, v, [aspergé_de_gaz_lacrymogène, aspergeant_de_gaz_lacrymogène, asperges_de_gaz_lacrymogène], "ou TEARGASSEsoummetre à un gaz qui irrite les yeux").
+entrée(plus_larmoyant, comparatif, [], "de larmoyant").
+entrée(teariest, superlatif, [], "de teary").
+entry(tearily, adv, [], "d'une manière larmoyante").
+entrée(tearless, adj, [], "sans larmes").
+entrée(larmoyant, adj, [], "ressemblant à une larme").
+entrée(salon_de_thé, n, [salons_de_thé], "un restaurant servant du thé").
+entrée(teary, adj, [], "PLUS LARMOYANT LE PLUS LARMOYANTlarmoyant").
+entrée(taquiner, v, [taquiné,taquinant,taquine], "se moquer deTAQUINABLE adj").
+entrée(cardère, v, [cardèrent, cardage, cardères], "ou CARDÈRENT CARDAGEANT CARDÈRES pour élever une surface douce sur le tissu avec une tête de fleur épineuse").
+entrée(teaseler, n, [teaselers], "celui qui carde").
+entry(teaser, n, [taquineries], "celui qui taquine").
+entry(salon_de_thé, n, [salons_de_thé], "un salon de thé").
+entrée(teasing, présent, [], "participe de tease").
+entrée(cuillère_à_café, n, [cuillères_à_café], "une petite cuillère").
+entrée(tétine, n, [tétines], "une glande mammaireTÉTÉ adj").
+entry(thé, n, [thés], "l'heure habituelle du thé").
+entrée(vaisselier_à_thé, n, [vaisseliers_à_thé], "un service à thé").
+entrée(chardon, v, [chardonnés,chardonnant,chardons], "ou CHARDONNÉS CHARDONNANT CHARDONSl chardon").
+programme(teazle, v, [teazled,teazling,teazles], "to teasel").
+entrée(tec, n, [tecs], "tech").
+entrée(tech, n, [techs], "un technicien").
+entrée(teched, adj, [], "fou").
+entrée(techie, n, [geeks], "un technicien").
+entrée(technique, n, [techniques], "technique").
+entry(techno, n, [technos], "un style de musique disco").
+entrée(technoid, n, [technoids], "un technicien").
+entrée(techy, adj, [], "TECHIER TECHIESTtetchyTECHILY adv").
+entrée(tecta, a, [], "pl de tectum").
+entry(tectal, adj, [], "se rapportant à un tectum").
+entry(tectite, n, [tectites], "tectite").
+entrée(tectonique, adj, [], "relatif à la construction").
+entrée(tectrice, n, [tectrices], "petite plume d'une aile d'oiseau").
+entrée(tectum, n, [tectums], "ou TECTA une structure en forme de toit").
+entry(ted, v, [tedded,tedding,teds], "étendre pour sécher").
+entrée(tedder, v, [teddered, teddering, tedders], "remuer le foin avec une machine").
+entry(teddy, n, [nounours], "un sous-vêtement féminin").
+entrée(fastidieux, adj, [], "provoquant l'épuisement").
+entrée(ennui, n, [ennuis], "l'état d'être ennuyeux").
+entrée(tee, v, [teed, teeing, tees], "placer une balle de golf sur un petit piquet").
+entrée(teel, n, [teels], "sésame").
+entry(teem, v, [teemed,teeming,teems], "être plein à déborder").
+entrée(teemer, n, [teemers], "celui qui foisonne").
+entrée(ado, n, [ados], "un adolescent").
+entrée(ado, adj, [], "relatif aux adolescents").
+entrée(ado, adj, [], "adolescent").
+entry(adolescent, n, [adolescents], "une personne âgée de treize à dix-neuf ans").
+entrée(teendom, n, [teendoms], "adolescents collectivement").
+entry(ado, n, [ados], "un adolescent").
+entrée(teenful, adj, [], "rempli de chagrin").
+entry(teensy, adj, [], "PLUS PETIT PLUS PETITminuscle").
+entrée(teentsy, adj, [], "TEENTSIER TEENTSIESTtiny").
+entry(teeny, adj, [], "PLUS PETIT PLUS PETITE").
+entrée(teenybop, adj, [], "relatif à un jeune adolescent").
+entrée(tipi, n, [tipis], "tipi").
+entrée(teeter, v, [teetered, teetering, teeters], "se déplacer de manière instable").
+entry(dents, pl, [], "de dent").
+entry(faire_ses_dents, v, [faire_ses_dents_passe,faire_ses_dents_gerondif,fait_ses_dents], "faire ses dents").
+entrée(anneau_de_dentition, n, [anneaux_de_dentition], "un objet pour un bébé à mordre pendant la poussée dentaire").
+entry(dentition, n, [dentitions], "la première poussée des dents").
+entry(temperance, v, [tempéré, temperance, tempère], "ou TEMPERANCE TEMPERENT TEMPERANCEs'abstenir complètement des boissons alcoolisées").
+entrée(toupie, n, [toupies], "un jouet qui tourne").
+entrée(teff, n, [teffs], "une herbe céréalière").
+entry(tefillin, npl, [], "les phylactères portés par les Juifs").
+entrée(teg, n, [tegs], "tegg").
+entrée(tegg, n, [teggs], "un mouton dans sa deuxième année").
+entry(tegmen, n, [tegmina], "une couverture").
+entrée(tegmenta, npl, [], "revêtements anatomiques").
+entrée(tegminal, adj, [], "relatif à un tegmen").
+entrée(tegu, n, [tegus], "un grand lézard d'Amérique du Sud").
+entry(tegua, n, [teguas], "un type de mocassin").
+entrée(tegula, n, [tegulae], "une tuile plate utilisée dans la Rome antique").
+entry(tégulaire, adj, [], "ressemblant à une tuile").
+entrée(tegumen, n, [tegumina], "tegmen").
+entry(tegument, n, [téguments], "un revêtement").
+entry(teiglach, n, [teiglach], "une confiserie composée de boules de pâte bouillies dans du miel").
+entry(teiid, n, [teiids], "un lézard tropical américain").
+entrée(tein, n, [teins], "une unité monétaire du Kazakhstan").
+entrée(teind, n, [teinds], "une dîme").
+entrée(tekkie, n, [tekkies], "technophile").
+entry(tektite, n, [tectites], "un corps vitré considéré comme d'origine météoritiqueTEKTITIQUE adj").
+entrée(tel, n, [tels], "un ancien monticule au Moyen-Orient").
+entry(tela, n, [telae], "un tissu anatomique").
+entrée(télamon, n, [télamons], "une figure masculine utilisée comme colonne de soutien").
+entrée(telco, n, [opérateurs], "une entreprise de télécommunications").
+entrée(télé, n, [télés], "un téléviseur").
+entrée(téléviser, v, [télévisé,télévisant,télévise], "diffuser par télévision").
+entrée(télécinéma, n, [télécinémas], "la diffusion d'un film à la télévision").
+entrée(télécom, n, [télécommunications], "télécommunication").
+entrée(télécomm, n, [télécoms], "télécommunication").
+entrée(télédu, n, [télédus], "un mammifère carnivore").
+entrée(télécopie, v, [télécopié,télécopiage,télécopies], "transmettre du matériel graphique par lignes téléphoniques").
+entrée(téléfilm, n, [téléfilms], "un film réalisé pour la télévision").
+entry(telega, n, [telegas], "une wagon russe").
+entry(telegonie, n, [telegonies], "l'influence supposée d'un étalon précédent sur la progéniture des accouplements ultérieurs de la mère avec d'autres mâles").
+entry(télégramme, v, [télégramma,télégrammant,télégrammes], "envoyer un message par télégraphe").
+entry(teleman, n, [telemen], "un officier naval").
+entry(télémark, n, [télémarks], "un type de virage en ski").
+entry(téléostéen, n, [téléostéens], "un poisson osseux").
+entry(télépathe, n, [télépathes], "quelqu'un qui peut communiquer avec un autre par un moyen autre que les sens").
+entrée(téléfilm, n, [téléfilms], "une pièce écrite pour la télévision").
+entrée(téléporter, v, [téléporté, téléportant, téléporte], "transporter par un processus qui n'implique aucun moyen physique").
+entry(teleran, n, [telerans], "un système de navigation aérienne").
+entry(teleshop, v, [teleshopped,teleshopping,teleshops], "faire des achats par systèmes de télécommunications interactifs").
+entrée(telesis, n, [télésis], "progrès planifié").
+entrée(télestic, n, [télestiques], "un type d'acrostiche").
+entrée(vidéotex, n, [vidéotexs], "un système de communication dans lequel des matières imprimées sont télédiffusées aux abonnés").
+entry(téléthon, n, [téléthons], "un programme télévisé de collecte de fonds").
+entry(téléscripteur, v, [téléscripté,téléscription,téléscripteurs], "envoyer par téléscripteur").
+entrée(télévisionner, v, [télévisionné,télévisionnant,télévisionne], "observer au moyen de la télévision").
+entry(téléviser, v, [télévisé,télévisant,télévise], "diffuser par télévision un système électronique de transmission d'images et de son").
+entrée(télétravail, v, [télétravaillé,télétravaillant,télétravaille], "travailler à domicile en utilisant une connexion électronique avec un bureau central").
+entrée(télex, v, [télexé,télécopiant,télécopies], "envoyer un message par un type de système télégraphique").
+entrée(telfer, v, [telfered, telfering, telfers], "teléphérer").
+entrée(telford, n, [telfords], "une route faite de pierres").
+entrée(télial, adj, [], "relatif à un télie").
+entrée(télique, adj, [], "orienté vers un objectif").
+entrée(télécité, n, [télécités], "la qualité d'être téléologique").
+entrée(telium, n, [telia], "un sorus sur la plante hôte d'un champignon rouille").
+entrée(dire, v, [dit, racontant, dit], "donner un compte rendu détaillé deRACONTABLE adj").
+entrée(conteur, n, [conteurs], "celui qui raconte").
+entrée(tellies, a, [], "pl de télé").
+entrée(telltale, n, [telltales], "un mouchard").
+entry(tellurique, adj, [], "relatif à la terre").
+entry(telly, n, [tellys], "ou TELLIES un poste de télévision").
+entrée(telnet, v, [telnetté,telnettement,telnettes], "ou TELNETÉ TELNETEMENT TELNETtes pour accéder à un compte sur Internet en utilisant une procédure appropriée").
+entrée(télome, n, [télomes], "une unité structurelle d'une plante vasculaireTÉLOMIQUE adj").
+entrée(télomère, n, [télomères], "l'extrémité naturelle d'un chromosome").
+entrée(telos, n, [teloi], "une fin ultime").
+entrée(téléphérique, v, [téléphériqué, téléphériquant, téléphériques], "transporter par un système de téléphériques aériens").
+entry(telson, n, [telsons], "le segment terminal d'un arthropodeTELSONIC adj").
+entrée(temblor, n, [temblors], "ou TEMBLOREsun tremblement de terre").
+entrée(témérité, n, [témérités], "audace insensée").
+entrée(temp, v, [temped,temping,temps], "travailler comme un employé temporaire").
+entry(tempeh, n, [tempehs], "un aliment asiatique").
+entry(tempérer, v, [tempéré,tempérant,tempère], "modérer en ajoutant un agent de contrebalancement").
+entry(tempera, n, [tempera], "une technique de peinture").
+entry(temperer, n, [modérateurs], "celui qui modère").
+entrée(tempête, v, [tempêté,tempêtant,tempêtes], "agiter violemment").
+entrée(tempi, a, [], "pl de tempo").
+entry(templar, n, [templiers], "un avocat ou étudiant en droit à Londres").
+entrée(modèle, n, [modèles], "un modèle utilisé comme guide pour fabriquer quelque chose").
+entrée(temple, n, [temples], "une maison de culteTEMPLED adj").
+entrée(gabarit, n, [gabarits], "modèle").
+entrée(tempo, n, [tempos], "ou TEMPI le rythme de la vitesse d'une œuvre musicale").
+entrée(temporel, n, [temporaux], "un os du crâne").
+entrée(tempt, v, [tenté, tentant, tente], "inciter à commettre un acte imprudent ou immoral").
+entrée(tenteur, n, [tentateurs], "celui qui tente").
+entrée(tempura, n, [tempuras], "un plat japonais").
+entrée(dix, n, [dizaines], "un nombre").
+entrée(tenable, adj, [], "pouvant être soutenuTENABLY adv").
+entrée(tenace, n, [tenaces], "une combinaison de deux cartes hautes dans certains jeux de cartes").
+entrée(ténacité, n, [ténacités], "persévérance ou persistance").
+entry(tenacula, npl, [], "instruments chirurgicaux à crochet").
+entrée(tenail, n, [tenailles], "tenaille").
+entry(tenaille, n, [tenailles], "une défense extérieure").
+entrée(location, n, [locations], "l'occupation temporaire de quelque chose qui appartient à un autre").
+entrée(locataire, v, [loué, louant, locataires], "habiter").
+entrée(tenance, n, [tenances], "location").
+entrée(tanche, n, [tanches], "un poisson d'eau douce").
+entry(tend, v, [tended,tending,tends], "être disposé ou enclin").
+entrée(tendance, n, [tendances], "surveillance vigilante").
+entrée(tendence, n, [tendances], "tendance").
+entrée(tendance, n, [tendances], "une inclination à agir ou à penser d'une manière particulière").
+entrée(tendre, adj, [], "TENDRE TENDRE LE PLUS tendre ou délicat").
+entry(tendre, v, [tendu, tendant, tendres], "présenter pour acceptation").
+entry(adjudicateur, n, [adjudicateurs], "celui qui soumet une offre").
+entrée(tendrement, adv, [], "d'une manière tendre").
+entrée(tendon, n, [tendons], "une bande de tissu fibreux résistant").
+entry(tendril, n, [vrilles], "un organe sans feuilles des plantes grimpantes").
+entry(tendu, n, [tendus], "un arbre d'ébène asiatique").
+entrée(tenebrae, npl, [], "un service religieux").
+entrée(immeuble, n, [immeubles], "un immeuble d'appartements").
+entrée(tenesi, n, [tenesi], "une unité monétaire du Turkménistan").
+entrée(tenesmus, n, [tenesmues], "un effort urgent mais inefficace pour déféquer ou urinerTENESMIQUE adj").
+entrée(tenet, n, [tenets], "un principe, croyance ou doctrine considéré comme vrai").
+entry(décuple, n, [décuples], "une quantité dix fois supérieure à une unité donnée").
+entry(tenge, n, [tenges], "une unité monétaire du Kazakhstan").
+entrée(tenia, n, [tenias], "ou TENIAEa un ver solitaire").
+entry(taeniasis, n, [taeniases], "infestation par les ténias").
+entrée(tenne, n, [tennes], "une couleur brun orangé").
+entry(tenne, n, [tennesi], "une unité monétaire du Turkménistan").
+entrée(billet_dix_dollars, n, [billet_dix_dollars], "un billet de dix dollars").
+entrée(tennies, npl, [], "baskets basses").
+entry(tennis, n, [tenniss], "un jeu de balle en plein air").
+entrée(tennist, n, [tennists], "un joueur de tennis").
+entrée(tenno, n, [tennos], "l'empereur du Japon considéré comme une divinité").
+entrée(tenny, n, [tennies], "tenne").
+entrée(tenon, v, [tenoned,tenoning,tenons], "unir au moyen d'un tenon une saillie à l'extrémité d'une pièce de bois").
+entrée(tenoner, n, [tenoners], "celui qui tenonne").
+entry(ténor, n, [ténors], "une voix masculine aiguë").
+entrée(tenorino, n, [tenorini], "un ténor élevé").
+entrée(ténoriste, n, [ténoristes], "celui qui chante en ténor ou joue un instrument ténor").
+entrée(tenorite, n, [tenorites], "un minéral").
+entrée(ténorman, n, [ténormens], "une personne qui joue du saxophone ténor").
+entry(tenotomie, n, [tenotomies], "la division chirurgicale d'un tendon").
+entrée(tenor, n, [tenors], "ténor").
+entrée(dixpence, n, [dixpences], "la somme de dix centimes").
+entrée(tenpenny, adj, [], "valant dix pence").
+entrée(quille, n, [quilles], "une quille de bowling").
+entry(tangue, n, [tangues], "un mammifère qui se nourrit d'insectes").
+entry(temps, adj, [], "PLUS TENDU TENDUS taut TENDUEMENT adv").
+entrée(temps, v, [tempe, tempant, tempes], "rendre tendu").
+entrée(tensible, adj, [], "capable d'être étendu DE MANIÈRE TENSIBLE adv").
+entrée(tensile, adj, [], "tensible").
+entrée(tension, v, [tendu,tendant,tensions], "rendre tendu").
+entrée(tension, n, [tensions], "l'état d'être tendu").
+entrée(tensif, adj, [], "causant de la tension").
+entrée(tenseur, n, [tenseurs], "un muscle qui étire une partie du corps").
+entrée(tente, v, [tente, tentant, tentes], "habiter dans une tente, un type d'abri portable").
+entrée(tentacule, n, [tentacules], "un appendice flexible et allongé de certains animaux").
+entry(tentage, n, [tentages], "un approvisionnement de tentes").
+entrée(tenter, v, [tentered, tentering, tenters], "étendre sur un type de cadre").
+entrée(dixième, n, [dixièmes], "une des dix parties égales").
+entry(dixièmement, adv, [], "en dixième lieu").
+entry(tentie, adj, [], "TENTIER TENTIESTtentatif").
+entrée(tentier, comparatif, [], "de tenté").
+entry(tentiest, superlatif, [], "de tenty").
+entry(sans_tente, adj, [], "n'ayant pas de tente").
+entrée(tentlike, adj, [], "ressemblant à une tente").
+entrée(tentoria, npl, [], "les squelettes internes des têtes des insectes").
+entry(pilier, n, [piliers], "un film à gros budget dont les recettes élevées visent à compenser le coût des films moins rentables").
+entrée(tenty, adj, [], "TENTIER TENTIESTvigilant").
+entry(tenuis, n, [tenues], "une occlusive phonétique sourde").
+entrée(ténuité, n, [ténuités], "manque de substance ou de force").
+entry(tenu, adj, [], "ayant peu de substance ou de force").
+entrée(tenure, v, [titulaire, titularisation, titularisations], "accorder la titularisation, le statut de détenir son poste de manière permanente sur une base").
+entrée(tenurial, adj, [], "qui concerne la tenure").
+entrée(tenuto, n, [tenutos], "ou TENUTIune note musicale ou un accord tenu plus longtemps que sa durée normale").
+entrée(teocalli, n, [teocallis], "un temple aztèque").
+entrée(teopan, n, [teopans], "un teocalli").
+entrée(teosinte, n, [teosintes], "une herbe annuelle").
+entrée(tepa, n, [tepas], "un composé chimique").
+entrée(tepache, n, [tepaches], "une boisson mexicaine faite avec de l'ananas, du sucre brun et de l'eau").
+entrée(tepal, n, [tépaules], "une division d'un périanthe").
+entrée(tepee, n, [tepees], "une tente conique de certains Amérindiens").
+entrée(tepefy, v, [tepefied, tepefying, tepefies], "rendre tiède").
+entrée(tephra, n, [tephras], "matière solide éjectée d'un volcan").
+entry(tephrite, n, [téphrites], "une roche volcanique").
+entrée(tepid, adj, [], "modérément chaudTEPIDLY adv").
+entrée(fraîcheur, n, [fraîcheurs], "l'état d'être tiède").
+entry(tepoy, n, [tepoys], "guéridon").
+entrée(tequila, n, [tequilas], "une liqueur mexicaine").
+entry(téraoctet, n, [téraoctets], "mille milliards d'octets").
+entrée(teraflop, n, [teraflops], "une mesure de la vitesse de calcul").
+entry(terai, n, [terais], "un chapeau de soleil à large bord").
+entry(teraohm, n, [téraohms], "un billion d'ohms").
+entrée(teraph, n, [teraphim], "une image d'un dieu domestique sémitique").
+entrée(teratisme, n, [teratismes], "un fœtus malforméTERATOÏDE adj").
+entry(teratome, n, [tératomes], "ou TERATOMATA un type de tumeur").
+entry(térawatt, n, [térawatts], "un billion de watts").
+entrée(terbia, n, [terbias], "un oxyde de terbium").
+entry(terbium, n, [terbiums], "un élément métalliqueTERBIQUE adj").
+entrée(tierce, n, [tierces], "tierce").
+entry(tercel, n, [tercels], "un faucon mâle").
+entrée(tercelet, n, [tercelets], "tercelet").
+entrée(tercet, n, [tercets], "un groupe de trois vers").
+entry(terebene, n, [terebènes], "un mélange de terpènes").
+entrée(terebic, adj, [], "relatif à un acide dérivé de l'huile de térébenthine").
+entrée(teredo, n, [térés], "ou TÉRÉDINES un mollusque bivalve").
+entry(terefah, adj, [], "tref").
+entry(teres, n, [teretes], "chacun des deux muscles aidant à faire pivoter le bras").
+entrée(terete, adj, [], "cylindrique et légèrement effilée").
+entrée(tergal, adj, [], "relatif à un tergum").
+entrée(tergite, n, [tergites], "un tergum").
+entrée(tergum, n, [terga], "une partie arrière d'un segment d'un arthropode").
+entrée(teriyaki, n, [teriyakis], "un plat japonais").
+entrée(terme, v, [termer,termant,termes], "donner un nom à").
+entrée(termer, n, [termeurs], "un prisonnier purgeant une peine spécifiée").
+entrée(terminal, n, [terminaux], "une fin ou extrémité").
+entry(terminer, n, [terminers], "un type de tribunal dans certains états").
+entrée(terminus, n, [termini], "ou TERMINIa terminal").
+entry(termite, n, [termites], "un insecte ressemblant à une fourmiTERMITIQUE adj").
+entrée(sans_limites, adj, [], "n'ayant pas de limites").
+entrée(termly, adv, [], "périodiquement").
+entrée(termor, n, [termors], "celui qui détient des terres pour un certain nombre d'années").
+entry(tempsterminaire, n, [tempsdesessions], "le temps pendant lequel une école ou un tribunal est en session").
+entrée(sterne, n, [sternes], "un oiseau de mer").
+entrée(ternaire, n, [ternaires], "un groupe de trois").
+entry(ternate, adj, [], "disposé en groupes de trois").
+entrée(terne, n, [ternes], "un alliage de plomb et d'étain").
+entrée(ternion, n, [ternions], "un groupe de trois").
+entrée(terpène, n, [terpènes], "un composé chimiqueTERPÉNIQUE adj").
+entrée(terpinol, n, [terpinols], "un liquide parfumé").
+entry(terra, n, [terrae], "terre sol").
+entrée(terrasse, v, [terrassé,terrassant,terrasses], "pour fournir une terrasse un remblai surélevé").
+entrée(terrain, n, [terrains], "une étendue de terre").
+entry(terrane, n, [terrains], "une formation rocheuse").
+entrée(terrapin, n, [tortues], "une tortue nord-américaine").
+entrée(terrariums, npl, [], "enceintes en verre pour plantes ou petits animaux").
+entrée(terrains, n, [terrasses], "terrasse").
+entrée(terrasse, n, [terrasse], "une zone pavée à l'extérieur d'un café français").
+entry(terrazzo, n, [terrazzos], "un revêtement de sol en mosaïque").
+entry(terreen, n, [terreens], "terrine").
+entrée(terrella, n, [terrellas], "un aimant sphérique").
+entrée(terrene, n, [terrenes], "une zone terrestre").
+entry(terret, n, [terrets], "un anneau en métal sur un harnais").
+entrée(terrible, adj, [], "très mauvaisTERRIBLEMENT adv").
+entry(terrier, n, [terriers], "un petit chien actif").
+entrée(terries, pl, [], "de terry").
+entrée(terrific, adj, [], "très bon bien").
+entrée(terrifier, v, [terrifié, terrifiant, terrifie], "remplir de terreur").
+entrée(terrine, n, [terrines], "un pot en terre cuite").
+entrée(territ, n, [territs], "terret").
+entry(terroir, n, [terroirs], "la combinaison de facteurs qui donne aux raisins de vin leur caractère distinctif").
+entrée(terreur, n, [terreurs], "peur intense").
+entrée(terry, n, [terries], "un tissu absorbant").
+entry(terse, adj, [], "PLUS_TERSE LE_PLUS_TERSEsuccinctTERSEMENT adv").
+entrée(tertiaire, n, [tertiaires], "une plume de vol de l'aile d'un oiseau").
+entrée(tertiaire, n, [tertiaires], "une fièvre récurrente").
+entry(tertiaire, n, [tertiaires], "une tertiaire").
+entry(terzetto, n, [terzettos], "ou TERZETTI un trio vocal ou instrumental").
+entrée(tesla, n, [teslas], "une unité d'induction magnétique").
+entrée(tessera, n, [tesserae], "un petit carré utilisé dans les mosaïquesTESSERAL adj").
+entrée(test, v, [testé,testant,tests], "évaluer par un examenADJECTIF TESTABLE").
+entrée(testa, n, [testae], "la coque dure extérieure d'une graine").
+entrée(testamentaire, n, [testaments], "l'état d'avoir laissé un testament à la mort").
+entrée(testate, n, [testaments], "un testateur").
+entry(testateur, n, [testateurs], "celui qui fait un testament").
+entrée(testé, n, [testés], "celui qui est testé").
+entrée(testeur, n, [testeurs], "celui qui teste").
+entry(testicules, fr, [], "des testicules").
+entrée(testicule, n, [testicules], "un testicule").
+entrée(testier, comparatif, [], "de testy").
+entry(testiest, superlatif, [], "de testy").
+entry(témoigner, v, [témoigné,témoignant,témoigne], "faire une déclaration de vérité sous serment").
+entry(testily, adv, [], "d'une manière irritable").
+entrée(testation, n, [testations], "l'acte d'évaluer quelqu'un par un examen").
+entrée(testicule, n, [testicules], "une glande reproductrice mâle").
+entrée(teston, n, [testons], "une ancienne pièce française").
+entrée(testoon, n, [testoons], "teston").
+entrée(testudo, n, [testudos], "ou TESTUDINES un écran portable utilisé comme bouclier par les anciens Romains").
+entrée(testy, adj, [], "TESTIER TESTIESTirritable").
+entrée(tet, n, [tets], "teth").
+entrée(tétanal, adj, [], "relatif au tétanos").
+entrée(tétanique, n, [tétaniques], "un médicament capable de provoquer des convulsions").
+entrée(tétanies, pl, [], "de tétanie").
+entry(tétaniser, v, [tétanisé,tétanisant,tétanise], "to tetanize").
+entry(tétaniser, v, [tétanisé,tétanisant,tétanise], "affecter avec des convulsions").
+entry(tétanos, n, [tétanos], "une maladie infectieuseTÉTANOÏDE adj").
+entry(tétanie, n, [tétanies], "une condition caractérisée par des spasmes musculaires douloureux").
+entry(tetched, adj, [], "fou").
+entrée(tetchy, adj, [], "TETCHIER TETCHIESTirritableTETCHILY adv").
+entrée(teth, n, [teths], "une lettre hébraïque").
+entrée(tether, v, [amarré, amarrement, amarre], "attacher à un objet fixe avec une corde").
+entry(tétohum, n, [tétotums], "toupie").
+entry(tetra, n, [tetras], "un poisson tropical").
+entry(tétracide, n, [tétracides], "un type d'acide").
+entrée(tétrade, n, [tétrades], "un groupe de quatreTÉTRADIQUE adj").
+entrée(tetragone, n, [tétragones], "un polygone à quatre côtés").
+entrée(tétramère, n, [tétramères], "un type de polymère").
+entrée(tétrapode, n, [tétrapodes], "un animal à quatre pattes").
+entrée(tétrarque, n, [tétrarques], "l'un des quatre co-dirigeants").
+entrée(tetri, n, [tetris], "une unité monétaire de la République de Géorgie").
+entry(tetrode, n, [tétrode], "un type de tube électronique").
+entrée(tétrose, n, [tétroses], "un sucre dont les molécules contiennent quatre atomes de carbone").
+entrée(tétroxyde, n, [tétroxydes], "un type d'oxyde").
+entry(tétryl, n, [tétryls], "un composé chimique").
+entry(teigne, n, [teignes], "une maladie de la peau").
+entrée(teuch, adj, [], "teugh").
+entrée(teugh, adj, [], "durementTEUGHMENT adv").
+entrée(tevatron, n, [tevatron], "un accélérateur de particules").
+entrée(tew, v, [tewed, tewing, tews], "travailler dur").
+entrée(texas, n, [texases], "la structure la plus haute sur un bateau à vapeur").
+entrée(texte, v, [texté, textant, textes], "envoyer un message d'un téléphone portable à un autre").
+entrée(manuel, n, [manuels], "un livre utilisé pour l'étude d'une matière").
+entrée(texter, n, [texters], "celui qui texte").
+entrée(textile, n, [textiles], "un tissu tissé").
+entrée(sans_texte, adj, [], "n'ayant pas de texte").
+entrée(textuel, adj, [], "concernant un texte").
+entrée(textuaire, n, [textuaires], "un spécialiste dans l'étude des Écritures").
+entrée(textural, adj, [], "relatif aux caractéristiques de surface de quelque chose").
+entrée(texture, v, [texturé,texturage,textures], "faire par tissage").
+entry(thack, v, [thacked,thacking,thacks], "se couvrir de chaume").
+entry(thae, adj, [], "ces").
+entrée(thairm, n, [thairms], "tharm").
+entry(thalamus, n, [thalami], "une partie du cerveauTHALAMIQUE adj").
+entrée(thaler, n, [thalers], "taler").
+entry(thali, n, [thalis], "un plateau sur lequel la nourriture est servie en Inde").
+entrée(thallium, n, [thalliums], "un élément métalliqueTHALLIQUE THALLEUX adj").
+entrée(thalle, n, [thalles], "ou THALLia corps de plante sans vrai racine tige ou feuilleTHALLOÏDE adj").
+entrée(thalweg, n, [thalwegs], "la ligne définissant les points les plus bas le long du lit d'une rivière").
+entrée(than, conj, [], "utilisé pour introduire le deuxième élément d'une comparaison").
+entrée(thanage, n, [thanages], "la terre détenue par un thane").
+entrée(thanatos, n, [thanatoses], "un désir instinctif de la mort").
+entrée(thane, n, [thanes], "un homme détenant des terres par service militaire dans l'Angleterre anglo-saxonne").
+entrée(thanedom, n, [thanedoms], "le domaine d'un thane").
+entry(merci, v, [remercié,remerciant,remercie], "exprimer sa gratitude à").
+entrée(remercieur, n, [remercieurs], "celui qui remercie").
+entrée(reconnaissant, adj, [], "PLUS RECONNAISSANT LE PLUS RECONNAISSANT ressentant de la gratitude").
+entrée(tharm, n, [tharms], "le ventre").
+entrée(cela, pron, [ceux-là], "celui indiqué").
+entrée(thataway, adv, [], "dans cette direction").
+entrée(thatch, v, [thatché,thatchant,thatches], "couvrir avec du chaume, des tiges de plantes ou du feuillage").
+entrée(thatcher, n, [thatchers], "celui qui chaume").
+entry(thatchy, adj, [], "PLUS CHAUME LA PLUS CHAUME ressemblant à chaume").
+entrée(décongeler, v, [décongelé, décongelant, décongèle], "faire fondre").
+entrée(thawer, n, [thawers], "celui qui dégèle").
+entrée(dégel, n, [dégels], "la fonte d'une substance gelée").
+entry(thawless, adj, [], "ne dégèle jamais").
+entrée(le, défini, [], "article utilisé pour spécifier ou rendre particulier").
+entrée(théarchie, n, [théarchies], "règne d'un dieu").
+entrée(théâtre, n, [théâtres], "un bâtiment pour des représentations dramatiquesTHÉÂTRAL adj").
+entrée(théâtre, n, [théâtres], "théâtre").
+entrée(thebaine, n, [thebaines], "un alcaloïde toxique").
+entry(thebe, n, [thebes], "une unité monétaire du Botswana").
+entrée(thèque, n, [thèques], "une enveloppe anatomique protectriceTHÉCAL THÉCATE adj").
+entrée(toi, pron, [], "le cas objectif du pronom tu").
+entrée(theelin, n, [thélines], "estrone").
+entrée(theelol, n, [theelols], "estriol").
+entry(vol, n, [vols], "l'acte de voler").
+entrée(thegn, n, [thegns], "thaneTHEGNLY adj").
+entrée(thein, n, [theins], "théine").
+entrée(théine, n, [théines], "caféine").
+entrée(leur, adj, [], "appartenant à eux").
+entrée(le-leur, pron, [], "une forme possessive du pronom ils").
+entry(théisme, n, [théismes], "croyance en l'existence de Dieu").
+entrée(théiste, n, [théistes], "celui qui croit en l'existence d'un dieuTHÉISTE adj").
+entrée(thelitis, n, [thelites], "inflammation du mamelon").
+entry(eux, pron, [], "le cas objectif du pronom ils").
+entrée(thématique, n, [thématiques], "un timbre collecté selon son sujet").
+entry(thème, v, [thématisé, thématisant, thématise], "planifier quelque chose selon un sujet central").
+entrée(eux-même, pron, [], "une personne de sexe non spécifié").
+entrée(alors, n, [alors], "ce temps").
+entrée(thenage, n, [thenages], "thanage").
+entrée(thenal, adj, [], "relatif à la paume de la main").
+entrée(thenar, n, [thenars], "la paume de la main").
+entrée(là, adv, [], "de cet endroit").
+entrée(théocrate, n, [théocrates], "une personne qui gouverne en tant que représentant d'un dieu").
+entrée(théodicée, n, [théodicées], "une défense de la bonté de Dieu par rapport à l'existence du mal").
+entrée(theogonie, n, [théogonies], "un récit de l'origine des dieux").
+entrée(théologien, n, [théologiens], "un étudiant en théologie").
+entrée(théologie, n, [théologies], "l'étude de la religion").
+entrée(théonomie, n, [théonomies], "gouvernance par un dieu").
+entrée(theorbe, n, [theorbes], "un instrument de musique à cordes").
+entrée(théorème, n, [théorèmes], "une proposition qui est démontrablement vraie ou est supposée l'être").
+entrée(théories, pl, [], "de la théorie").
+entrée(théoriser, v, [théorisé,théorisant,théorise], "théoriser").
+entrée(théoricien, n, [théoriciens], "celui qui théorise").
+entrée(théoriser, v, [théorisé,théorisant,théorise], "élaborer des théories").
+entrée(théorie, n, [théories], "un groupe de propositions utilisé pour expliquer une classe de phénomènes").
+entry(thérapie, n, [thérapies], "le traitement de la maladie ou du handicap").
+entrée(là, n, [là-bas], "cet endroit").
+entrée(là-bas, adv, [], "à cet endroit ou moment").
+entry(thereby, adv, [], "par ce moyen").
+entry(donc, adv, [], "for that").
+entrée(là-dedans, adv, [], "dans cet endroit").
+entry(theremine, n, [theremines], "un instrument de musique").
+entrée(de_cela, adv, [], "de cela").
+entry(thereon, adv, [], "sur cela").
+entrée(sorti-de-là, adv, [], "hors de cela").
+entrée(là_dedans, adv, [], "à cela").
+entry(thériaque, n, [thériaques], "mélasse").
+entrée(theriaca, n, [thériacas], "thériaque").
+entry(thérien, n, [thériens], "tout membre d'une sous-classe de mammifères").
+entry(therm, n, [therms], "une unité de quantité de chaleur").
+entry(thermae, npl, [], "sources chaudes").
+entrée(thermal, n, [thermiques], "une masse d'air chaud ascendante").
+entrée(therme, n, [thermes], "therm").
+entrée(thermel, n, [thermels], "un appareil pour la mesure de la température").
+entrée(thermique, adj, [], "concernant la chaleur").
+entrée(thermion, n, [thermions], "un ion émis par un corps chauffé").
+entrée(thermite, n, [thermites], "un mélange métallique qui produit une chaleur intense lorsqu'il est enflammé").
+entrée(thermos, n, [thermoses], "un contenant utilisé pour garder les liquides chauds ou froids").
+entrée(theroid, adj, [], "ressemblant à une bête").
+entry(théropode, n, [théropodes], "un dinosaure carnivore").
+entry(thesauri, npl, [], "dictionnaires des synonymes et antonymes").
+entrée(ces, pl, [], "de ceci").
+entry(thèse, n, [thèses], "une proposition avancée pour discussion").
+entrée(thesp, n, [thesps], "un acteur").
+entrée(thespian, n, [thespians], "un acteur ou une actrice").
+entrée(theta, n, [thétas], "une lettre grecque").
+entrée(thetic, adj, [], "arbitraire").
+entrée(thetical, adj, [], "thétique").
+entrée(théurgie, n, [théurgies], "intervention divine dans les affaires humainesTHÉURGIC adj").
+entrée(thew, n, [thews], "un muscle bien développé").
+entrée(thewless, adj, [], "faible").
+entrée(thewy, adj, [], "THEWIER THEWIESTmusclé").
+entrée(ils, pron, [], "le pronom de 3e personne du pluriel au cas nominatif").
+entrée(thiamine, n, [thiamines], "thiamine").
+entrée(thiamine, n, [thiamines], "une vitamine B").
+entrée(thiazide, n, [thiazides], "un médicament utilisé pour traiter l'hypertension artérielle").
+entrée(thiazine, n, [thiazines], "thiazine").
+entrée(thiazine, n, [thiazines], "un composé chimique").
+entrée(thiazol, n, [thiazols], "thiazole").
+entrée(thiazole, n, [thiazoles], "un composé chimique").
+entrée(épais, adj, [], "PLUS ÉPAIS LE PLUS ÉPAISayant une étendue relativement grande d'une surface à son opposé").
+entrée(epais, n, [epaiss], "la partie la plus épaisse").
+entrée(épaissir, v, [épaissi,épaississant,épaissit], "rendre épais").
+entrée(buisson, n, [buissons], "une dense croissance d'arbrisseaux ou de petits arbresBUISSONNEUX adj").
+entrée(épais, adj, [], "quelque peu épais").
+entry(epais, adv, [], "d'une manière épaisse").
+entry(corselet, n, [corselets], "un fourré").
+entrée(voleur, n, [voleurs], "celui qui vole").
+entry(voler, v, [volé,volant,vole], "dérober").
+entry(vol, n, [vols], "l'acte ou la pratique de voler").
+entry(voleur, adj, [], "enclin à voler").
+entrée(cuisse, n, [cuisses], "une partie de la jambeCUISSÉ adj").
+entry(thill, n, [timon], "arbre d'un véhicule").
+entry(dé, n, [dés], "un capuchon utilisé pour protéger le bout du doigt pendant la couture").
+entrée(fin, adj, [], "PLUS FIN LE PLUS FIN ayant relativement peu de densité ou d'épaisseur").
+entrée(mince, v, [minci,mincissant,mince], "rendre mince").
+entry(thinclad, n, [thinclads], "un coureur dans une équipe d'athlétisme").
+entrée(thindown, n, [thindowns], "une diminution du nombre de particules atomiques et de rayons cosmiques traversant l'atmosphère terrestre").
+entrée(ton, pron, [], "une forme possessive du pronom tu").
+entrée(chose, n, [choses], "un objet inanimé").
+entry(truc, n, [trucs], "quelque chose dont le nom est inconnu ou oublié").
+entrée(penser, v, [pensait,pensant,pense], "formuler dans l'esprit").
+entry(penseur, n, [penseurs], "celui qui pense").
+entrée(pensée, n, [pensées], "une opinion ou un jugement").
+entrée(mincement, adv, [], "de manière mince").
+entrée(éclairci, passé, [], "temps de mince").
+entrée(amaigrissant, n, [amaigrissants], "celui qui amincit").
+entrée(minceur, n, [minceurs], "la qualité ou l'état d'être mince").
+entrée(le_plus_mince, superlatif, [], "de mince").
+entry(éclaircissement, présent, [], "participe de amincir").
+entrée(mincelette, adj, [], "quelque peu mince").
+entrée(thio, adj, [], "contenant du soufre").
+entrée(thiol, n, [thiols], "un composé sulfuréTHIOLIQUE adj").
+entrée(thionate, n, [thionates], "un sel chimique").
+entrée(thionic, adj, [], "relatif au soufre").
+entrée(thionine, n, [thionines], "un colorant violet").
+entrée(thionine, n, [thionines], "thionin").
+entry(thionyle, n, [thionyles], "sulfinyle").
+entry(thiophène, n, [thiophènes], "un composé chimique").
+entry(thiotepa, n, [thiotepas], "un composé chimique").
+entrée(thiourée, n, [thiourées], "un composé chimique").
+entrée(thir, pron, [], "ces").
+entrée(thirame, n, [thirames], "un composé chimique").
+entrée(troisième, n, [tiers], "une des trois parties égales").
+entrée(troisièmement, adv, [], "en troisième lieu").
+entry(thirl, v, [thirled,thirling,thirls], "épater").
+entrée(thirlage, n, [thirlages], "une obligation exigeant que les tenanciers féodaux moudent le grain à un certain moulin").
+entry(soif, v, [avoir_soif,souffrant_de_la_soif,avoir_soif], "éprouver un désir ou un besoin de boire").
+entrée(thirster, n, [thirsters], "celui qui a soif").
+entrée(assoiffé, adj, [], "PLUS ASSOIFFÉ PLUS ASSOIFFÉE ayant le désir ou le besoin de boire").
+entrée(treize, n, [treizes], "un nombre").
+entrée(trente, n, [trente], "un nombre").
+entrée(this, pron, [ces], "la personne ou la chose juste mentionnée").
+entrée(thisaway, adv, [], "de cette façon").
+entrée(chardon, n, [chardons], "une plante épineuse").
+entrée(chardon, adj, [], "PLUS CHARDON TRÈS CHARDONépineux").
+entry(là-bas, adv, [], "dans cette direction").
+entrée(tho, conj, [], "bien que").
+entry(thole, v, [tholed,tholing,tholes], "endurer").
+entry(tholepin, n, [tholepins], "une cheville servant de dame de nage").
+entrée(tholos, n, [tholoi], "un tombeau circulaire souterrain").
+entrée(thong, v, [thonged, thonging, thongs], "fouetter avec un fouet").
+entrée(thongy, adj, [], "THONGIER THONGIESTressemblant à un vêtement fait d'une bande étroite de tissu").
+entrée(thorax, n, [thoraxes], "ou THORACESla partie du corps entre le cou et l'abdomenTHORACIQUE adj").
+entrée(thoria, n, [thorias], "un oxyde de thorium").
+entry(thoric, adj, [], "relatif au thorium").
+entrée(thorite, n, [thorites], "un minerai de thorium").
+entrée(thorium, n, [thoriums], "un élément métallique").
+entrée(épine, v, [épiné,épination,épines], "piquer avec une épine une projection rigide et pointue sur une plante").
+entrée(épineux, adj, [], "PLUS ÉPINEUX LE PLUS ÉPINEUXplein d'épinesÉPINEUSEMENT adv").
+entrée(thoro, adj, [], "approfondi").
+entry(thoron, n, [thorons], "un isotope radioactif du radon").
+entrée(thorough, adj, [], "PLUS MINUTIEUX LE PLUS MINUTIEUXcomplet à tous égards").
+entrée(thorp, n, [thorps], "un petit village").
+entrée(thorpe, n, [thorpes], "thorp").
+entrée(ceux, pl, [], "de cela").
+entrée(tu, v, [tua, tuant, tus], "s'adresser en tutoyant avec le pronom personnel de la deuxième personne du singulier au nominatif").
+entrée(bien_que, conj, [], "malgré le fait que").
+entry(pensée, n, [pensées], "un produit de la réflexion").
+entrée(mille, n, [milliers], "un nombre").
+entrée(thowless, adj, [], "apathique").
+entrée(servitude, n, [servitudes], "servitude").
+entrée(thrall, v, [thralled, thralling, thralls], "réduire en esclavage").
+entrée(thrash, v, [thrashed, thrashing, thrashes], "battre").
+entrée(thrasher, n, [thrashers], "celui qui bat").
+entrée(thrashy, adj, [], "PLUS THRASHY LE PLUS THRASHYcaractéristique d'un style de musique punkrock rapide et bruyante").
+entry(thrave, n, [thraves], "une unité de mesure pour le grain").
+entrée(tordre, v, [tordu, tordant, tord], "tordre").
+entry(thrawart, adj, [], "têtu").
+entry(thrawn, adj, [], "torduTHRAWNLY adv").
+entrée(fil, v, [filé,filage,fils], "passer un fil, une corde très fine à travers").
+entrée(enfileteur, n, [enfileteurs], "celui qui enfile").
+entrée(filiforme, adj, [], "PLUS FILIFORME LE PLUS FILIFORMEressemblant à un fil").
+entrée(threap, v, [threaped, threaping, threaps], "disputer").
+entry(threaper, n, [threapers], "celui qui répète").
+entrée(menace, v, [menacé, menaçant, menaces], "menacer").
+entrée(menacer, v, [menacé, menaçant, menace], "être une source de danger pour").
+entrée(trois, n, [trois], "un nombre").
+entrée(threep, v, [threeped, threeping, threeps], "trépigner").
+entrée(threnode, n, [threnodes], "un thrénodie").
+entry(thréodie, n, [thréodies], "un chant de lamentation").
+entrée(thresh, v, [battu, battage, bat], "séparer le grain ou les graines d'une plante mécaniquement").
+entrée(batteuse, n, [batteuses], "qui bat le grain").
+entry(jeter, passé, [], "temps de throw").
+entrée(trois_fois, adv, [], "trois fois").
+entrée(thrift, n, [épargnes], "soin et sagesse dans la gestion de ses ressources").
+entrée(parcimonieux, adj, [], "PLUS PARCIMONIEUX LE PLUS PARCIMONIEUXaffichant la parcimonie").
+entrée(thrill, v, [enthousiasmé, emballant, enthousiasme], "exciter grandement").
+entry(thriller, n, [thrillers], "un qui passionne").
+entrée(thrip, n, [thrips], "une pièce britannique").
+entrée(prospérer, v, [prospéré, prospéré, prospérant], "PROSPÉRERpour croître vigoureusement").
+entrée(thriver, n, [thrivers], "celui qui prospère").
+entry(thro, prep, [], "à travers").
+entrée(gorge, v, [gorgé, gorgant, gorges], "émettre d'une voix rauque").
+entrée(enroué, adj, [], "ENROUÉ ENROUÉSHoarse").
+entrée(throb, v, [throbbed, throbbing, throbs], "pulsé").
+entrée(pulsant, n, [pulsants], "un qui palpite").
+entrée(souffrance, n, [souffrances], "une violente crise de douleur").
+entry(thrombine, n, [thrombines], "une enzyme").
+entry(thrombus, n, [thrombi], "un caillot obstruant un vaisseau sanguin").
+entrée(trône, v, [intrônisé, intrônisant, intrônisés], "placer sur un trône une chaise royale").
+entrée(throng, v, [thronged, thronging, throngs], "se presser dans").
+entrée(grive, n, [grives], "un oiseau chanteur").
+entry(throttle, v, [étranglé, étrangement, étranglons], "étrangler").
+entrée(par, prep, [], "via").
+entry(thrive, a, [], "passé simple de thriver").
+entrée(jeter, v, [jeta,jeté,jetant], "JETERpropulser dans l'air avec un mouvement du bras").
+entrée(jeteur, n, [jeteurs], "celui qui jette").
+entrée(par, prep, [], "à travers").
+entrée(vibrer, v, [vibré,vibrant,vibre], "jouer d'un instrument à cordes de manière désinvolte ou monotone").
+entrée(thrummer, n, [thrummers], "celui qui bourdonne").
+entry(thrummy, adj, [], "THRUMMIER THRUMMIESTpoilu").
+entrée(débit, n, [débits], "la quantité de matière première traitée dans un temps donné").
+entry(grive, n, [grives], "un oiseau chanteur").
+entrée(pousser, v, [poussé,poussant,pousses], "pousser avec force").
+entry(propulseur, n, [propulseurs], "celui qui propulse").
+entrée(propulseur, n, [propulseurs], "propulseur").
+entrée(autoroute, n, [autoroutes], "une route express").
+entry(thud, v, [thudded,thudding,thuds], "produire un bruit sourd et lourd").
+entry(voyou, n, [voyous], "un ruffian brutal ou un assassin").
+entry(thuggee, n, [thuggees], "thugisme en Inde").
+entrée(brutalité, n, [brutalités], "comportement brutal").
+entrée(thuggish, adj, [], "caractéristique d'un voyou").
+entry(thuja, n, [thujas], "un arbre ou arbuste à feuilles persistantes").
+entrée(thulia, n, [thulias], "un oxyde de thulium").
+entrée(thulium, n, [thuliums], "un élément métallique").
+entrée(pouce, v, [feuilleté,feuilletant,pouces], "feuilleter avec le pouce le doigt court et épais de la main humaine").
+entrée(poulevard, n, [boulevards], "une vis qui se tourne avec le pouce et les doigts").
+entrée(thumbnut, n, [thumbnuts], "un écrou qui se tourne avec le pouce et les doigts").
+entrée(coup, v, [coupé,coupant,coups], "frapper de manière à produire un bruit sourd et lourd").
+entrée(tambourineur, n, [tambourineurs], "celui qui tambourine").
+entry(tonnerre, v, [tonna,tonnant,tonne], "produire un son retentissant fort").
+entry(orageux, adj, [], "accompagné de tonnerre").
+entrée(thunk, v, [thunked, thunking, thunks], "produire un son sourd et étouffé").
+entrée(encensoir, n, [encensoirs], "un encensoir").
+entrée(thuriféraire, n, [thuriféraires], "celui qui porte un encensoir lors d'une cérémonie religieuse").
+entrée(thurl, n, [thurls], "l'articulation de la hanche chez les bovins").
+entrée(ainsi, adv, [], "de cette manière").
+entrée(comme suit, adv, [], "ainsi").
+entry(thuya, n, [thuyas], "thuya").
+entry(coup, v, [frappé,frappant,frappe], "frapper avec quelque chose de plat").
+entrée(frappeur, n, [frappeurs], "celui qui frappe").
+entrée(déjouer, v, [déjoué,déjouant,déjoue], "empêcher l'accomplissement de").
+entrée(thwarter, n, [thwarters], "celui qui contrecarré").
+entrée(thwartly, adv, [], "de travers").
+entrée(thy, adj, [], "appartenant à toi").
+entry(thym, n, [thyms], "une herbe aromatique").
+entrée(thymey, adj, [], "THYMIEUX THYMIESTthymy").
+entrée(thymi, a, [], "pl de thymus").
+entry(thymic, adj, [], "relatif au thym").
+entry(thymier, comparatif, [], "de thymey et thymy").
+entrée(thymiest, superlatif, [], "de thymey et thymy").
+entrée(thymine, n, [thymines], "un composé chimique").
+entrée(thymol, n, [thymols], "un composé chimique").
+entrée(thymome, n, [thymomes], "ou THYMOMATA, une tumeur provenant du tissu thymique").
+entry(thymosine, n, [thymosines], "une hormone sécrétée par le thymus").
+entrée(thymus, n, [thymus], "ou THYMESa structure glandulaire dans le corps").
+entrée(thymy, adj, [], "THYMIER THYMIESTriche en thym").
+entry(thyroïde, adj, [], "relatif à la thyroïde").
+entry(thyroïde, n, [thyroïdes], "une glande endocrine").
+entrée(thyroxine, n, [thyroxines], "un acide aminé").
+entrée(thyrse, n, [thyrses], "thyrse").
+entrée(thyrsus, n, [thyrsi], "un type d'inflorescenceTHYRSOÏDE adj").
+entrée(toi-même, pron, [], "toi-même").
+entry(ti, n, [ti], "le septième ton de la gamme musicale diatonique").
+entrée(tian, n, [tians], "un grand pot ovale de cuisine").
+entry(tiare, n, [tiares], "un bijou de tête porté par les femmesTIAREE adj").
+entrée(tibia, n, [tibias], "ou TIBIAE un os de la jambe TIBIAL adj").
+entrée(tibiale, n, [tibiales], "un muscle dans le mollet de la jambe").
+entry(tic, v, [ticait, ticant, tique], "avoir une contraction musculaire involontaire").
+entrée(tical, n, [ticals], "une ancienne unité de poids thaïlandaise").
+entrée(tick, v, [tiqué, tiquant, tiques], "faire un son de tic-tac récurrent").
+entrée(symbole, n, [symboles], "celui qui tic").
+entrée(billet, v, [billeté, billetterie, billets], "attacher une étiquette à").
+entrée(tic-tac, n, [tic-tacs], "un tissu de coton solide").
+entry(ticklace, n, [ticklaces], "un type de petit oiseau de mer").
+entrée(chatouiller, v, [chatouillé, chatouillant, chatouille], "toucher légèrement de manière à produire une sensation de picotement").
+entrée(tickler, n, [chatouilleurs], "celui qui chatouille").
+entrée(chatouilleux, adj, [], "sensible aux chatouillements").
+entrée(chatouilleux, adj, [], "PLUS CHATOUILLEUX LE PLUS CHATOUILLEUXchatouilleux").
+entrée(coreopsis, n, [coreopsis], "une plante à fleurs").
+entrée(ticktack, v, [ticktacked,ticktacking,ticktacks], "faire tic-tac").
+entrée(ticktock, v, [ticktocked,ticktocking,ticktocks], "faire le son de tic-tac d'une horloge").
+entrée(tictac, v, [tictaca, tictacant, tictacs], "faire tic-tac").
+entrée(tictoc, v, [tictocked,tictocking,tictocs], "faire tic-tac").
+entrée(tidal, adj, [], "relatif aux maréesTIDALLY adv").
+entrée(bouchée, n, [bouchées], "un morceau de nourriture choisi").
+entrée(petit_poisson, n, [petits_poissons], "un petit poisson").
+entrée(tiddly, adj, [], "TIDDLIER TIDDLIESTlégèrement ivre").
+entry(tide, v, [tided,tiding,tides], "affluer comme la marée, la montée et la descente des eaux des océans").
+entrée(tideland, n, [marais maritimes], "terrain alternativement couvert et découvert par la marée").
+entrée(sans_marée, adj, [], "manquant de marée").
+entrée(tidelike, adj, [], "ressemblant à une marée").
+entry(ligne_de_marée, n, [lignes_de_marée], "une ligne sur le rivage marquant le point le plus haut de la marée").
+entrée(tidemark, n, [marques_de_marée], "une marque indiquant le point le plus haut ou le plus bas d'une marée").
+entry(reflux, n, [reflux], "un courant de retour").
+entrée(tideway, n, [tideways], "un canal de marée").
+entrée(rangé, passé, [], "temps de rangement").
+entrée(ranger, n, [rangers], "celui qui range").
+entrée(range, présent, [], "3e personne singulier de ranger").
+entrée(tidiest, superlatif, [], "de rangé").
+entrée(proprement, adv, [], "d'une manière ordonnée").
+entrée(ordonnance, n, [ordonnances], "l'état d'être ordonné").
+entrée(tiding, n, [tidings], "une nouvelle").
+entrée(ordonné, adj, [], "PLUS ORDONNÉ LE PLUS ORDONNÉpropre et rangé").
+entrée(ranger, v, [rangé, rangeant, range], "mettre en ordre").
+entrée(tidytips, n, [tidytips], "une herbe annuelle").
+entrée(lacer, v, [], "LACÉ LACER ou LACEANT LACEpour attacher avec une corde ou une ficelle").
+entrée(récupérateur, n, [récupérateurs], "une boucle pour retenir un rideau d'un côté").
+entry(bris_d'égalité, n, [bris_d'égalités], "un concours pour sélectionner un gagnant parmi les participants ayant un score à égalité").
+entrée(pince_cravate, n, [pinces_cravates], "une pince pour fixer une cravate").
+entrée(liait, passé, [], "temps du verbe lier").
+entry(tieing, a, [], "participe présent de tie").
+entrée(sans_cravate, adj, [], "n'ayant pas de cravate").
+entrée(epingle_cravate, n, [epingles_cravates], "une épingle pour fixer une cravate").
+entrée(tier, v, [étagé, étagement, étages], "organiser en niveaux avec des rangées placées l'une au-dessus de l'autre").
+entrée(tierce, n, [tierces], "l'une des sept périodes canoniques quotidiennes pour la prière et la dévotion").
+entrée(tiercée, adj, [], "divisé en trois parties égales").
+entrée(tiercelet, n, [tiercelets], "tiercelet").
+entrée(tiff, v, [tiffed,tiffing,tiffs], "se disputer pour une broutille").
+entrée(tiffany, n, [tiffanies], "un tissu en maille fine").
+entrée(tiffin, v, [tiffiné,tiffinant,tiffins], "déjeuner").
+entrée(tigre, n, [tigres], "un grand mammifère félin").
+entrée(oeil_de_tigre, n, [yeux_de_tigre], "une pierre précieuse").
+entry(tigre, adj, [], "ressemblant à un tigre").
+entry("tight", adj, [], "PLUS SERRÉ LE PLUS SERRÉfermement ou étroitement fixé en placeSERRÉ adv").
+entry(serrer, v, [serré, serrage, serre], "rendre serré").
+entrée(collants, npl, [], "un vêtement moulant").
+entry(avare, n, [avares], "un avare").
+entrée(tiglon, n, [tiglons], "la progéniture d'un tigre mâle et d'une lionne").
+entry(tignon, n, [tignons], "un morceau de tissu porté comme couvre-chef en Louisiane").
+entry(tigon, n, [tigons], "tiglon").
+entrée(tigresse, n, [tigresses], "une tigre femelle").
+entrée(tigrish, adj, [], "tigré").
+entrée(tike, n, [tikes], "tyke").
+entrée(tiki, n, [tikis], "une image en bois ou en pierre d'un dieu polynésien").
+entrée(tikka, n, [tikkas], "un plat indien de viande cuite sur une brochette").
+entrée(sésame, n, [sésames], "la plante de sésame").
+entrée(tilak, n, [tilaks], "une marque portée sur le front par les Hindous").
+entrée(tilapia, n, [tilapias], "un poisson africain").
+entry(tilbury, n, [tilburies], "une voiture à deux roues").
+entrée(tilde, n, [tildes], "un signe placé au-dessus d'une lettre pour indiquer son son").
+entrée(tuile, v, [tuilée, tuilage, tuiles], "couvrir de tuiles de fines dalles d'argile cuite").
+entry(tilefish, n, [tilefish], "un poisson marin comestible").
+entry(comme-tuile, adj, [], "ressemblant à une tuile").
+entrée(tiler, n, [carreleurs], "celui qui carrele").
+entry(carrelage, n, [carrelages], "une surface de carreaux").
+entry(till, v, [labouré,labourant,laboures], "préparer la terre pour les cultures en labourantLABOURABLE adj").
+entrée(labourage, n, [labourages], "terre cultivée").
+entrée(tiller, v, [tillered,tillering,tillers], "produire des tiges à partir d'une racine").
+entry(tillite, n, [tillites], "roche composée d'argile consolidée, de sable, de gravier et de blocs").
+entrée(pencher, v, [penché, penchant, penche], "faire inclinerINCLINABLE adj").
+entry(tilter, n, [tilters], "celui qui incline").
+entrée(tilth, n, [tilths], "labourage").
+entrée(joute, n, [joutes], "une aire pour des concours de joute").
+entrée(timarau, n, [timaraus], "tamarau").
+entrée(timbal, n, [timbales], "un grand tambour").
+entrée(timbale, n, [timbales], "une coquille de pâtisserie en forme de tambour").
+entrée(bois, v, [boisé, boisage, boiseries], "fournir avec du bois utilisé comme matériau de constructionBOISÉ adj").
+entrée(timbre, n, [timbres], "la qualité attribuée à un son par ses harmoniquesTIMBRAL adj").
+entry(timbrel, n, [tambourins], "un instrument de percussion").
+entrée(temps, v, [chronométré, chronométrage, temps], "pour déterminer la vitesse ou la durée de").
+entry(fiche_de_pointage, n, [fiches_de_pointage], "une carte pour enregistrer les heures d'arrivée et de départ d'un employé").
+entrée(intemporel, adj, [], "n'ayant ni début ni fin").
+entrée(chronologie, n, [chronologies], "un emploi du temps des événements").
+entrée(ponctuel, adj, [], "PLUS PONCTUEL LE PLUS PONCTUELse produisant au bon moment").
+entrée(timeous, adj, [], "opportun").
+entrée(timeout, n, [timeouts], "une brève suspension d'activité").
+entrée(timer, n, [chronomètres], "celui qui chronomètre").
+entry(timework, n, [travaux_horaire], "travail payé à l'heure ou à la journée").
+entrée(usé, adj, [], "montrant les effets d'une longue utilisation ou usure").
+entrée(timide, adj, [], "TIMIDE TIMIDEl'absence de courage ou de confiance en soiTIMIDEMENT adv").
+entrée(timidité, n, [timidités], "la qualité d'être timide").
+entrée(moment, n, [moments], "le choix du moment approprié pour faire quelque chose").
+entrée(timolol, n, [timolols], "un médicament utilisé pour traiter le glaucome").
+entrée(timorous, adj, [], "peureux").
+entrée(timothy, n, [timothies], "une herbe européenne").
+entrée(timbale, n, [timbales], "un timbre").
+entrée(timpanum, n, [timpanums], "ou TYMPANEt timpana").
+entrée(etain, v, [étamé, étamage, étains], "recouvrir avec de l'étain un élément métallique").
+entrée(tinamou, n, [tinamous], "un oiseau de chasse sud-américain").
+entry(tincal, n, [tincals], "borax brut").
+entrée(tinct, v, [tincted, tincting, tincts], "teinter").
+entrée(teinture, v, [teinté, teignant, teintures], "teindre").
+entrée(tinder, n, [tinders], "matériau facilement inflammableTINDERY adj").
+entrée(tine, v, [tined,tining,tines], "perdre").
+entrée(teigne, n, [teignes], "une maladie fongique de la peauTEIGNÉ adj").
+entrée(tinéidé, n, [tinéidés], "l'un d'une famille de papillons de nuit").
+entrée(papier_aluminium, n, [papiers_aluminium], "une feuille de métal mince").
+entrée(tinful, n, [tinfuls], "autant qu'un contenant en fer-blanc peut contenir").
+entrée(ting, v, [tinged,tinging,tings], "émettre un son métallique aigu").
+entry(tinge, v, [], "TEINDRE TEIGNANT ou TEINDANT TEINDREpour appliquer une touche de couleur").
+entrée(tingle, v, [fourmilla, fourmillement, fourmille], "provoquer une sensation piquante et picotante").
+entrée(tingler, n, [tinglers], "celui qui chatouille").
+entrée(tingly, adj, [], "TINGLIER TINGLIESTtingling").
+entry(tinhorn, n, [tinhorns], "une personne prétentieuse et prétentieuse").
+entrée(tinier, comparatif, [], "de tiny").
+entrée(minuscule, superlatif, [], "de petit").
+entrée(tinily, adv, [], "d'une manière minuscule").
+entrée(tout-petit, n, [tout-petits], "la qualité d'être minuscule").
+entrée(tining, présent, [], "participe de tine").
+entry(bricole, v, [bricolé,bricolant,bricole], "réparer de manière maladroite ou expérimentale").
+entry(bricoleur, n, [bricoleurs], "celui qui bricole").
+entrée(tinkle, v, [tinkled, tinkling, tinkles], "émettre de légers sons métalliques aigus").
+entry(tinkler, n, [tinklers], "celui qui tintinnabule").
+entrée(tinter, n, [tintements], "le son émis par quelque chose qui tinter").
+entrée(tinkly, adj, [], "TINCLANT TINCLANT LE PLUSproduisant un son cristallin").
+entry(tinlike, adj, [], "ressemblant à l'étain").
+entrée(tinman, n, [hommes_de_fer], "un ferblantier").
+entrée(conservée, passée, [], "temps de conserver").
+entrée(tinner, n, [tinners], "un mineur d'étain").
+entry(tinnier, comparatif, [], "de métallique").
+entrée(tinniest, superlatif, [], "de métallique").
+entry(tinnily, adv, [], "d'une manière métallique").
+entry(tinning, présent, [], "participe de tin").
+entry(acouphène, n, [acouphènes], "un son de bourdonnement dans les oreilles").
+entry(tinny, adj, [], "TINNIER TINNIESTde ou ressemblant à l'étain").
+entrée(ferblanterie, v, [ferblanté,ferblantage,ferblante], "recouvrir un objet de fer blanc").
+entry(tinpot, adj, [], "de peu d'importance").
+entrée(guirlande, v, [guirlandé,guirlandant,guirlandes], "ou GUIRLANDÉE GUIRLANDANT GUIRLANDES pour donner un aspect voyant ou criard à").
+entrée(tinselly, adj, [], "d'un clinquant bon marché").
+entrée(tinsely, adj, [], "tinselly").
+entry(ferblantier, n, [ferblantiers], "celui qui travaille avec l'étain").
+entry("cisailles", npl, [], "un outil pour couper la tôle").
+entrée(tinstone, n, [tinstones], "un minerai d'étain").
+entrée(teinter, v, [teinté,teintage,teints], "colorer légèrement ou délicatement").
+entrée(teinteur, n, [teinteurs], "celui qui teint").
+entry(teintage, n, [teintages], "le processus de celui qui teint").
+entrée(incolore, adj, [], "manquant de couleur").
+entry(type ferrotype, n, [types ferrotypes], "une sorte de photographie").
+entrée(ferblanterie, n, [articles_de_ferblanterie], "articles fabriqués en fer blanc").
+entrée(tinwork, n, [objets_en_étain], "quelque chose en étain").
+entry(minuscule, adj, [], "PLUS_MINUSCULE LE_PLUS_MINUSCULEtrès petit").
+entrée(tip, v, [incliné, inclinant, inclines], "incliner").
+entrée(tipcart, n, [tipcarts], "un type de chariot").
+entry(tipcat, n, [tipcats], "un jeu ressemblant au baseball").
+entrée(tipi, n, [tipis], "tente").
+entrée(sans_pointe, adj, [], "n'ayant ni pointe ni extrémité").
+entrée(indice, n, [indices], "un indice ou avertissement").
+entrée(basculement, adj, [], "capable d'être basculé").
+entrée(tipped, passé, [], "temps de tip").
+entry(tipper, n, [tippers], "celui qui verse").
+entrée(tippet, n, [tippets], "une couverture pour les épaules").
+entrée(tippier, comparatif, [], "de tippy").
+entrée(tippiest, superlatif, [], "de tippy").
+entrée(basculement, présent, [], "participe de tip").
+entrée(tipple, v, [tippled, tippling, tipples], "boire des boissons alcoolisées").
+entrée(tippler, n, [tipplers], "celui qui boit").
+entrée(tippy, adj, [], "PLUS_TIPPIE PLUS_TIPPIEINstable").
+entrée(tippytoe, v, [tippytoed, tippytoeing, tippytoes], "marcher sur la pointe des pieds").
+entry(conseil, n, [conseils], "une publication avec des conseils pour parier sur des courses ou investir en bourse").
+entrée(tipsier, comparatif, [], "de tipsy").
+entrée(plus_ivre, superlatif, [], "de ivre").
+entrée(tipsy, adv, [], "de manière éméchée").
+entry(huissier, n, [huissiers], "ou HUISSIERSun assistant dans un tribunal").
+entrée(tipster, n, [indics], "celui qui vend des informations aux parieurs").
+entry(crosse, n, [crosses], "une partie d'un fusil").
+entrée(tipsy, adj, [], "LÉGÈREMENT IVOIRE LE PLUS IVOIRE").
+entrée(tiptoe, v, [tiptoed,tiptoeing,tiptoes], "marcher sur la pointe des pieds").
+entry(tiptop, n, [tiptops], "le point le plus élevé").
+entry(tirade, n, [diatribes], "un long discours véhément").
+entrée(tiramisu, n, [tiramisu], "un dessert composé de biscuits à la cuillère, de mascarpone, de chocolat et d'espresso").
+entrée(pneu, v, [fatigué, fatiguant, fatigue], "se fatiguer").
+entry(fatiguer, adj, [], "PLUS FATIGUÉ FATIGUÉ LE PLUSépuisé de forceFATIGUÉ adv").
+entry(infatigable, adj, [], "apparemment incapable de se fatiguer").
+entry(lassant, adj, [], "fastidieux").
+entrée(fatigant, présent, [], "participe de fatiguer").
+entrée(tirl, v, [tirled,tirling,tirls], "faire un son vibrant").
+entrée(tiro, n, [tiros], "tyro").
+entrée(tirrivee, n, [tirrivees], "une crise de colère").
+entrée(tisane, n, [tisanes], "une tisane").
+entry(tissulaire, adj, [], "relatif au tissu").
+entry(tissu, v, [tissud,tissuant,tissus], "tisser en tissu une fine étoffe transparente").
+entrée(tissuey, adj, [], "ressemblant à un tissu").
+entrée(tissulaire, adj, [], "affectant le matériel structurel des tissus d'un organisme").
+entry(tit, n, [mésanges], "un petit oiseau").
+entry(titan, n, [titans], "une personne de grande taille").
+entrée(titanate, n, [titanates], "un sel chimique").
+entry(titanide, n, [titanides], "une titan féminine").
+entrée(titania, n, [titanias], "un minéral").
+entrée(titanic, adj, [], "de grande taille").
+entrée(titanisme, n, [titanismes], "révolte contre les conventions sociales").
+entrée(titanite, n, [titanites], "un minéral").
+entrée(titane, n, [titanes], "un élément métallique").
+entry(titanous, adj, [], "concernant le titane").
+entry(titbit, n, [titbits], "amuse-gueule").
+entrée(titch, n, [titches], "une petite quantité").
+entrée(titchie, adj, [], "TITCHIER TITCHIESTtitchy").
+entrée(titchy, adj, [], "TRÈS PETIT TITCHIER TITCHIEST").
+entry(titre, n, [titres], "la concentration d'une solution chimique").
+entrée(chapeau, n, [chapeaux], "un chapeau").
+entrée(dîmant, adj, [], "assujetti au paiement de dîmes").
+entrée(dîme, v, [dîma,dîmant,dîmes], "payer une dîme une petite taxe").
+entrée(dîmeur, n, [dîmeurs], "celui qui donne la dîme").
+entrée(dîme, n, [dîmes], "l'acte de prélever les dîmes").
+entrée(tithonia, n, [tithonias], "une grande herbe").
+entrée(titi, n, [titis], "un arbuste ou arbre à feuilles persistantes").
+entrée(titien, n, [titiens], "une couleur brun rougeâtre").
+entrée(titivate, v, [titivé,titivant,titive], "s'habiller élégamment").
+entrée(alouette, n, [alouettes], "un oiseau chanteur").
+entrée(titre, v, [titré, titrant, titres], "fournir un titre une appellation distinctive").
+entry(champion, n, [champions], "un champion sportif").
+entry(titman, n, [titmen], "le plus petit d'une portée de porcs").
+entrée(mésange, n, [mésanges], "un petit oiseau").
+entry(titrable, adj, [], "capable d'être titré").
+entrée(titrant, n, [titrants], "le réactif utilisé dans la titration").
+entry(titretter, v, [titré, titrant, titre], "déterminer la concentration d'une solution en ajoutant un réactif jusqu'à ce qu'une réaction désirée se produise").
+entry(titrateur, n, [titrateurs], "celui qui titre").
+entrée(titre, n, [titres], "titer").
+entrée(titter, v, [ricané, ricanant, ricane], "émettre un rire nerveux et contenu").
+entrée(titterer, n, [titterers], "celui qui glousse").
+entry(tittie, n, [titties], "une sœur").
+entrée(titre, n, [titres], "une très petite marque dans l'écriture ou l'impression").
+entrée(tittup, v, [tittuped,tittuping,tittups], "ou TITTUPPED TITTUPPING TITTUPS se déplacer de manière vive").
+entrée(tittuppy, adj, [], "chancelant instable").
+entry(titty, n, [seins], "un mamelon").
+entrée(titubant, adj, [], "marqué par des hésitations").
+entrée(titulaire, n, [titulaires], "celui qui détient un titre").
+entrée(titulaire, n, [titulatifs], "un titulaire").
+entry(tivy, adv, [], "avec grande vitesse").
+entrée(tix, npl, [], "billets").
+entry(tiyin, n, [tiyins], "une unité monétaire du Kirghizistan").
+entrée(tiyn, n, [tiyns], "une unité monétaire du Kazakhstan").
+entrée(tiz, n, [tizes], "tizzy").
+entrée(tizz, n, [tizzes], "tizzy").
+entrée(tizzy, n, [tizzies], "un état de confusion nerveuse").
+entrée(tmésis, n, [tmésis], "la séparation des parties d'un mot composé par un ou plusieurs mots intermédiaires").
+entrée(à, prép, [], "dans la direction de").
+entrée(crapaud, n, [crapauds], "un amphibien sauteur sans queue").
+entrée(crapeau, n, [crapeaux], "un poisson marin").
+entrée(linaire, n, [linaires], "une herbe vivace").
+entrée(toadied, passé, [], "temps de toady").
+entrée(cracheurs, présent, [], "3e personne sing de flagorneur").
+entry(crapaudesque, adj, [], "ressemblant à un crapaud").
+entrée(crapaudless, adj, [], "n'ayant pas de crapauds").
+entrée(crapelet, n, [crapelets], "un petit crapaud").
+entrée(crapauresque, adj, [], "ressemblant à un crapaud").
+entrée(crapaud, v, [crapautait,crapautant,crapaude], "s'engager dans des flatteries serviles").
+entrée(toadyish, adj, [], "caractéristique de quelqu'un qui flatte servilement").
+entry(flagornerie, n, [flagorneries], "comportement flagorneur").
+entry(pain_grillé, v, [grillé,grillant,grilles], "faire brunir par exposition à la chaleur").
+entrée(grille-pain, n, [grille-pains], "un appareil pour griller").
+entrée(toasting, n, [toastings], "l'ajout de discours rythmé à la musique reggae").
+entrée(toasty, adj, [], "PLUS CHAUD LE PLUS CHAUDagréablement chaud").
+entry(tabac, n, [tabacs], "ou TABACSan herbe annuelle cultivée pour ses feuilles").
+entrée(toboggan, v, [a fait du toboggan, fait du toboggan, toboggans], "monter sur une longue luge étroite").
+entrée(toby, n, [tobys], "un type de chope").
+entrée(toccata, n, [toccatas], "ou TOCCATE, une composition musicale généralement pour un orgue").
+entry(dot, v, [dotée, dotant, dote], "donner une dot à").
+entrée(tock, n, [tocks], "un son creux et court").
+entry(toco, n, [tocos], "un toucan sud-américain").
+entrée(tocologie, n, [tocologies], "la branche de la médecine qui s'occupe de l'accouchement").
+entrée(tocsin, n, [tocsins], "une alarme déclenchée par une cloche").
+entry(tod, n, [tods], "une unité de poids britannique").
+entrée(aujourd'hui, n, [aujourdhui], "le jour présent").
+entry(marcher_instablement, v, [marché_instablement, marchant_instablement, marche_instablement], "marcher de façon instable").
+entry(bambin, n, [bambins], "celui qui chancelle").
+entrée(toddy, n, [toddies], "une boisson alcoolisée").
+entrée(tody, n, [todies], "un oiseau des Antilles").
+entrée(orteil, v, [orteillé,orteillant,orteils], "toucher avec l'orteil l'un des membres terminaux du pied").
+entry(toea, n, [toeas], "une unité monétaire de Papouasie-Nouvelle-Guinée").
+entry(bout-rapporté, n, [bouts-rapportés], "une protection pour le bout d'une chaussure ou d'une botte").
+entrée(cale-pied, n, [cales-pieds], "un dispositif qui maintient l'avant de la chaussure d'un cycliste à la pédale").
+entrée(prise, n, [prises], "un espace qui soutient les orteils pour grimper").
+entrée(toeing, présent, [], "participe de toe").
+entry(sans_orteils, adj, [], "n'ayant pas d'orteils").
+entry(ressemblant_à_un_orteil, adj, [], "qui ressemble à un orteil").
+entrée(ongle, v, [onglé, onglant, ongles], "fixer avec des clous enfoncés obliquement").
+entrée(bout, n, [bouts], "une partie d'une chaussure conçue pour couvrir les orteils").
+entrée(talonnière, n, [talonnières], "un onglet en métal fixé à la pointe d'une chaussure").
+entrée(truand, n, [truands], "une personne méprisable").
+entrée(chausson, n, [chaussons], "un chausson de danse sans talon").
+entrée(toff, n, [toffs], "un dandy").
+entry(caramel, n, [caramels], "un bonbon moelleux").
+entrée(toffy, n, [toffies], "toffee").
+entrée(toft, n, [tofts], "une colline").
+entry(tofu, n, [tofus], "un aliment doux fabriqué à partir de lait de soja").
+entrée(tog, v, [togged,togging,togs], "habiller").
+entrée(toge, n, [toges], "ou TOGAE, un vêtement extérieur porté dans la Rome antique, TOGAED adj").
+entrée(togate, adj, [], "relatif à la Rome antique").
+entrée(togaté, adj, [], "portant une toge").
+entrée(ensemble, adv, [], "dans une union ou une relation").
+entrée(togged, passé, [], "temps de tog").
+entrée(habillement, n, [habillements], "vêtements").
+entrée(togging, présent, [], "participe de tog").
+entrée(toggle, v, [toggled,toggling,toggles], "attacher avec un type de goupille ou une courte tige").
+entrée(basculeur, n, [basculs], "celui qui bascule").
+entrée(togue, n, [togues], "un poisson d'eau douce").
+entrée(travail, v, [travaillé, travaillant, travaille], "travailler avec acharnement").
+entrée(toile, n, [toiles], "un tissu en lin transparent").
+entry(travailleur, n, [travailleurs], "celui qui peine").
+entry(toilette, v, [toiletté,toiletant,toilettes], "s'habiller et se toiletter").
+entrée(toilette, n, [toilettes], "un article utilisé pour se vêtir et se soigner").
+entry(toilette, n, [toilettes], "l'acte de s'habiller et de se préparer").
+entry(laborieux, adj, [], "toilsome").
+entrée(laborieux, adj, [], "demandant beaucoup d'effort").
+entrée(labourie, adj, [], "usé par le labeur").
+entrée(toit, v, [toited,toiting,toits], "flâner").
+entry(tokamak, n, [tokamaks], "un réacteur nucléaire en forme de beignet").
+entrée(tokay, n, [tokays], "un gecko malaisien").
+entry(toke, v, [toked,toking,tokes], "tirer une bouffée sur un joint de marijuana").
+entrée(token, v, [tokened, tokening, tokens], "servir de signe de").
+entry(tokénisation, n, [tokénisations], "la politique de faire seulement un effort superficiel").
+entrée(toker, n, [tokers], "celui qui fume").
+entrée(toking, présent, [], "participe de toke").
+entrée(tokologie, n, [tokologies], "tocologie").
+entrée(tokamak, n, [tokamaks], "tokamak").
+entrée(tokonoma, n, [tokonomas], "une petite alcôve dans une maison japonaise").
+entrée(tola, n, [tolas], "une unité de poids utilisée en Inde").
+entrée(tolan, n, [tolans], "un composé chimique").
+entrée(tolane, n, [tolanes], "tolan").
+entrée(tolar, n, [tolars], "ou TOLARJEV, une ancienne unité monétaire de la Slovénie").
+entrée(prison, n, [prisons], "une prison").
+entrée(raconté, passé, [], "temps de dire").
+entrée(tole, v, [toled,toling,toles], "attirer").
+entrée(toledo, n, [toledos], "une épée finement trempée").
+entrée(tolérant, adj, [], "enclin à tolérer").
+entry(tolérer, v, [toléré,tolérant,tolère], "permettre sans opposition active").
+entrée(toleware, n, [tolewares], "objets fabriqués en tôle finement décorée").
+entry(tolidin, n, [tolidins], "toluidine").
+entrée(tolidine, n, [toluidines], "un composé chimique").
+entrée(toling, présent, [], "participe de tole").
+entrée(péage, v, [péagées, péageant, péages], "collecter ou imposer un péage une charge fixe pour un service ou un privilège").
+entrée(péage, n, [péages], "un péage").
+entry(barrière_de_péage, n, [barrières_de_péage], "un péage").
+entry(toller, n, [percepteurs], "un percepteur de péages").
+entrée(portail, v, [portailé,portailant,portails], "bloquer une affaire commerciale en attendant le paiement d'un pot-de-vin").
+entry(peage, n, [peages], "la collecte de péages").
+entrée(péagiste, n, [péagistes], "un percepteur").
+entrée(autoroute, n, [autoroutes], "une route sur laquelle des péages sont perçus").
+entry(tolt, n, [tolts], "une colline isolée").
+entrée(tolu, n, [tolus], "une résine parfumée").
+entrée(toluate, n, [toluates], "un sel chimique").
+entry(toluène, n, [toluenes], "un liquide inflammable").
+entrée(toluïque, adj, [], "relatif à l'un des quatre acides isomères dérivés du toluène").
+entrée(toluid, n, [toluids], "toluide").
+entry(toluide, n, [toluides], "un amide").
+entry(toluidin, n, [toluidines], "une amine").
+entrée(toluol, n, [toluols], "toluène").
+entrée(toluole, n, [toluoles], "toluol").
+entrée(toluyl, n, [toluyls], "un radical chimique monovalent").
+entry(tolyl, n, [tolyls], "un radical chimique monovalent").
+entrée(tom, n, [toms], "le mâle de divers animaux").
+entrée(tomahawk, v, [tomahawké, tomahawkant, tomahawks], "frapper avec une petite hache").
+entry(tomalley, n, [tomalleys], "le foie d'un homard").
+entry(toman, n, [tomans], "une monnaie autrefois utilisée en Iran").
+entrée(tomate, n, [tomates], "le fruit charnu et comestible d'une plante vivaceTOMATÉ adj").
+entrée(tombe, v, [ensevelit,ensevelissant,ensevelit], "placer dans une tombe un caveau funéraire ou une chambre").
+entrée(tombac, n, [tombacs], "un alliage de cuivre et de zinc").
+entrée(tomback, n, [tombacs], "tombac").
+entrée(tombak, n, [tombaks], "tombac").
+entry(tombal, adj, [], "ayant trait à une tombe").
+entrée(sanstombe, adj, [], "n'ayant pas de tombe").
+entrée(tomblike, adj, [], "ressemblant à un tombeau").
+entrée(tombola, n, [tombolas], "un jeu de hasard qui est un type de loterie").
+entry(tombolo, n, [tombolos], "un banc de sable reliant une île au continent").
+entrée(tomboy, n, [tomboys], "une fille qui préfère des activités de garçon").
+entrée(matou, v, [matouté, matoutant, matous], "s'engager dans un comportement sexuellement promiscuité utilisé pour un mâle").
+entrée(morue, n, [morues], "un poisson marin").
+entrée(tome, n, [tomes], "un grand livre").
+entry(tomentum, n, [tomenta], "un réseau de petits vaisseaux sanguins").
+entrée(tomfool, n, [tomfools], "une personne idiote").
+entrée(tommy, n, [tommies], "un pain").
+entry(moron, n, [morons], "tommycod").
+entrée(tommyrot, n, [tommyrots], "absurdité").
+entry(tomographie, n, [tomographies], "une photographie réalisée avec des rayons X").
+entrée(demain, n, [lendemains], "le jour suivant aujourd'hui").
+entrée(tompion, n, [tompions], "tampion").
+entrée(mésange, n, [mésanges], "n'importe lequel des divers petits oiseaux actifs").
+entrée(tonne, n, [tonnes], "une unité de poids").
+entrée(tonal, adj, [], "concernant le tonTONALEMENT adv").
+entry(tonalité, n, [tonalités], "un système de tons").
+entrée(tondo, n, [tondos], "ou TONDI une peinture circulaire").
+entrée(ton, v, [toned, toning, tones], "donner un ton particulier à un son de hauteur et de vibration définies").
+entrée(bras_de_lecture, n, [bras_de_lecture], "la partie pivotante d'une platine vinyle qui maintient l'aiguille").
+entry(sans_tonalité, adj, [], "manquant de ton").
+entrée(tonème, n, [tonèmes], "une unité tonale de la paroleTONÉMIQUE adj").
+entrée(toner, n, [toners], "celui qui tonifie").
+entrée(tonetics, npl, [], "l'étude phonétique du ton dans la langueTONÉTIQUE adj").
+entrée(tonette, n, [tonettes], "une flûte simple").
+entrée(toney, adj, [], "TONIER TONIESTtony").
+entrée(tong, v, [tenu avec des pinces, pinçant, pinces], "soulever avec un type de dispositif de préhension").
+entrée(tonga, n, [tongas], "un char léger utilisé en Inde").
+entrée(tonger, n, [tenailles], "celui qui utilise des tenailles").
+entry(tongman, n, [tongmen], "un membre d'une société secrète chinoise").
+entry(langue, v, [léché,léchage,langues], "toucher avec la langue un organe de la bouche").
+entrée(langueyer, n, [langueyements], "l'utilisation de la langue pour articuler des notes sur un instrument à vent").
+entrée(tonique, n, [toniques], "quelque chose qui revigore ou rafraîchit").
+entry(tonicité, n, [tonicités], "état corporel normal et sain").
+entrée(tonier, comparatif, [], "de chic et de tonique").
+entry(toniest, superlatif, [], "de toney et tony").
+entry(tonifier, v, [tonifié,tonifiant,tonifie], "donner du tonus à").
+entrée(ce_soir, n, [ce_soirs], "la nuit présente").
+entrée(toning, présent, [], "participe de tone").
+entrée(tonish, adj, [], "stylishTONISHLY adv").
+entry(tonlet, n, [tonlets], "une jupe d'armure à plaques").
+entry(tonnage, n, [tonnages], "poids total en tonnes").
+entry(tonne, n, [tonnes], "une unité de poids").
+entrée(tonneau, n, [tonneaux], "ou TONNEAUXle compartiment arrière d'une automobile").
+entrée(tonnerre, n, [tonnerailles], "un objet ayant un tonnage spécifié").
+entrée(tonnish, adj, [], "tonish").
+entrée(amygdale, n, [amygdales], "un organe lymphoïdeAMYGDAIRIEN adj").
+entrée(tonsure, v, [tonsuré, tonsurant, tonsure], "raser la tête de").
+entrée(tontine, n, [tontines], "une forme d'assurance vie collective").
+entry(tonus, n, [tonus], "un état normal de tension dans le tissu musculaire").
+entry(tony, adj, [], "TONIER TONIESTélégant").
+entrée(trop, adv, [], "en plus").
+entrée(toodle, v, [toodled, toodling, toodles], "jouer de la flûte").
+entrée(pris, passé, [], "temps de 'prendre'").
+entrée(outil, v, [outillés,outillage,outils], "façonner ou finir avec un outil un instrument utilisé dans le travail manuel").
+entrée(barre_d'outils, n, [barres_d'outils], "une rangée d'icônes sur un écran d'ordinateur qui activent des fonctions").
+entrée(caisse \u00e0 outils, n, [caisses \u00e0 outils], "une bo\u00eete pour les outils").
+entrée(tooler, n, [toolers], "celui qui outil").
+entrée(tête-outil, n, [têtes-outils], "une partie d'une machine").
+entrée(outillage, n, [outillages], "ornementation réalisée avec des outils").
+entrée(sanstools, adj, [], "n'ayant pas d'outils").
+entrée(toolpush, n, [contremaîtres de forage], "un travailleur qui dirige le forage sur une plate-forme pétrolière").
+entry(salle_des_outils, n, [salles_des_outils], "une salle où les outils sont stockés").
+entrée(ensemble_d'outils, n, [ensembles_d'outils], "un ensemble d'outils").
+entrée(cabanon, n, [cabanons], "un bâtiment où sont rangés des outils").
+entrée(toom, adj, [], "vide").
+entrée(toon, n, [toons], "un arbre indien").
+entrée(toonie, n, [toonies], "une pièce canadienne de deux dollars").
+entrée(toot, v, [a klaxonné, klaxonnant, klaxonne], "faire retentir un klaxon ou un sifflet en coups courts").
+entrée(tuteur, n, [tuteurs], "celui qui siffle").
+entrée(dent, n, [dents], "une des structures dures attachées en rangée à chaque mâchoire").
+entrée(dent, v, [denté, dentition, dents], "fournir des projections semblables à des dents").
+entrée(dentu, adj, [], "PLUS DENTU LE PLUS DENTU ayant ou montrant des dents proéminentes DENTEMENT adv").
+entrée(tootle, v, [tootled,tootling,tootles], "jouer doucement ou à plusieurs reprises").
+entrée(tootler, n, [tootlers], "celui qui joue d'un instrument").
+entrée(toots, n, [tootses], "une femme ou une fille généralement utilisée comme forme d'adresse").
+entrée(tootsie, n, [tootsies], "tootsy").
+entry(tootsy, n, [orteils], "un pied").
+entry(top, v, [décapité,décapitant,décapite], "couper la partie, le point ou la surface la plus haute de").
+entrée(topaze, n, [topazes], "un minéralTOPAZINE adj").
+entrée(pardessus, n, [pardessus], "un manteau léger").
+entrée(topcross, n, [topcrosses], "un croisement entre un mâle de race pure et une femelle de qualité inférieure").
+entrée(tope, v, [topé, topant, topes], "boire de l'alcool à l'excès").
+entrée(topee, n, [topees], "topi").
+entrée(toper, n, [topers], "celui qui s'enivre").
+entrée(topful, adj, [], "topfull").
+entrée(topfull, adj, [], "plein à ras bord").
+entrée(toph, n, [tophs], "tufa").
+entrée(tophe, n, [tophes], "tufe").
+entrée(tophus, n, [tophi], "un dépôt d'urates dans le tissu autour d'une articulation").
+entrée(topi, n, [topis], "un casque colonial").
+entrée(topiaire, n, [topiaires], "l'art de tailler des arbustes en formes").
+entrée(sujet, n, [sujets], "un sujet de discours").
+entrée(thématique, n, [thématiques], "un timbre-poste dans une collection avec des dessins relatifs au même sujet").
+entry(toping, présent, [], "participe de toper").
+entrée(topkick, n, [topkicks], "un sergent-chef").
+entrée(chignon, n, [chignons], "un ornement pour les cheveux").
+entrée(sans_haut, adj, [], "n'ayant pas de haut").
+entrée(ligne_sommet, n, [lignes_sommets], "le contour du sommet du corps d'un animal").
+entrée(toplofty, adj, [], "ARROGANT PLUS ARROGANT LE PLUS ARROGANT").
+entrée(mât de hune, n, [mâts de hune], "un mât d'un navire").
+entrée(sommet, adj, [], "le plus élevé").
+entrée(topnotch, adj, [], "excellent").
+entrée(topo, adj, [], "topographique").
+entrée(topoi, pl, [], "de topos").
+entrée(topologie, n, [topologies], "une branche des mathématiques").
+entrée(toponyme, n, [toponymes], "le nom d'un lieu").
+entrée(toponymie, n, [toponymies], "l'étude des toponymes").
+entrée(topos, n, [topoi], "un thème rhétorique standard").
+entrée(topotype, n, [topotypes], "un spécimen sélectionné dans une localité typique d'une espèce").
+entry(couronné, passé, [], "temps de couronner").
+entry(topper, n, [toppers], "celui qui coiffe").
+entrée(garniture, n, [garnitures], "quelque chose qui forme un dessus").
+entry(renverser, v, [renversé,renversant,renverse], "tomber en avant").
+entrée(hautain, n, [hautains], "une voile d'un navire").
+entrée(topside, n, [ponts], "la partie supérieure d'un navire").
+entry(topsider, n, [topsiders], "celui qui est au plus haut niveau d'autorité").
+entrée(terre_vegetale, v, [terre_vegetalee, terre_vegetalent, terres_vegetales], "enlever la couche superficielle de sol").
+entrée(topspin, n, [topspins], "une rotation vers l'avant donnée à une balle").
+entrée(sommet, n, [sommets], "la pierre au sommet d'une structure").
+entrée(topwater, adj, [], "flottant à la surface de l'eau ou près de celle-ci").
+entrée(topwork, v, [a_topworké,a_topworkant,a_topworks], "greffer des greffons d'une autre variété de plante sur les branches principales de").
+entrée(toque, n, [toques], "un chapeau de femme ajusté").
+entrée(toquet, n, [toquets], "toque").
+entrée(toquilla, n, [toquillas], "une plante ressemblant à un palmier d'Amérique du Sud").
+entrée(tor, n, [tors], "une colline rocheuse élevée").
+entrée(tora, n, [toras], "torah").
+entrée(torah, n, [torahs], "ou TOROTH ou TOROT une loi ou un précepte").
+entrée(torc, n, [torques], "un collier ou un collier en métal").
+entrée(torch, v, [torché,torchant,torches], "enflammer").
+entrée(torchère, n, [torchères], "un type de lampe électrique").
+entrée(torchier, n, [torchiers], "torchère").
+entrée(torchlit, adj, [], "éclairé par des torches à bout enflammé").
+entrée(torchon, n, [torchons], "une dentelle grossière").
+entrée(torchy, adj, [], "caractéristique d'une chanson torchie TORCHIER TORCHIEST").
+entrée(tore, n, [tores], "un tore").
+entry(torero, n, [toreros], "un matador").
+entrée(torero, n, [toreros], "un torero").
+entrée(toreutique, adj, [], "concernant un type de travail du métal").
+entry(tore, pl, [], "de tore").
+entry(torique, n, [toriques], "une lentille conçue pour corriger l'astigmatisme").
+entrée(tories, pl, [], "des conservateurs").
+entrée(torii, n, [torii], "la porte d'un temple japonais").
+entry(tourmenter, v, [tourmenté,tourmentant,tourmente], "infliger une grande souffrance corporelle ou mentale").
+entry(dechire, passe, [], "participe de tear").
+entry(tornade, n, [tornades], "ou TORNADESune tempête de vent violenteTORNADIQUE adj").
+entrée(tornillo, n, [tornillos], "un arbuste à fleurs").
+entrée(toro, n, [toros], "un taureau").
+entrée(toroïde, n, [toroïdes], "un type de surface géométriqueTOROÏDAL adj").
+entry(torose, adj, [], "cylindrique et gonflé à intervalles").
+entrée(torsité, n, [torsités], "la qualité ou l'état d'être torose").
+entrée(torot, a, [], "pl de torah").
+entrée(toroth, a, [], "pl de torah").
+entrée(toreux, adj, [], "toreux").
+entry(torpille, v, [torpillé, torpillant, torpilles], "ou TORPILLES endommager ou couler avec un missile sous-marin").
+entrée(engourdir, v, [engourdi, engourdissant, engourdit], "rendre lent").
+entrée(engourdi, n, [engourdis], "un bateau de course").
+entrée(léthargiquement, adv, [], "d'une manière languissante").
+entrée(torpeur, n, [torpeurs], "inactivité mentale ou physique").
+entry(torquate, adj, [], "ayant un torque").
+entrée(couple, v, [distinct, en_cours, couples], "causer une torsion").
+entry(torquer, n, [torquers], "celui qui tord").
+entrée(torques, n, [torqueses], "une bande de plumes cheveux ou coloration autour du cou").
+entrée(torquey, adj, [], "TORQUIER TORQUIESTfournissant une force pour provoquer une rotation").
+entrée(torr, n, [torrs], "une unité de pression").
+entry(torrefier, v, [torrefié,torrefiant,torrefie], "soumettre à une chaleur intense").
+entry(torrent, n, [torrents], "un courant rapide d'eau").
+entrée(torrid, adj, [], "TORRIDER TORRIDESTextrêmement chaudTORRIDEMENT adv").
+entry(torréfier, v, [torréfié, torréfiant, torréfie], "torrefier").
+entrée(torsade, n, [torsades], "une corde torsadée").
+entry(torse, n, [torses], "une guirlande de soies torsadées").
+entrée(torsi, a, [], "pl de torse").
+entry(torsion, n, [torsions], "l'acte de torsion").
+entrée(morue, n, [morues], "un poisson de mer comestible").
+entrée(torse, n, [torses], "ou TORSItle tronc du corps humain").
+entry(tort, n, [torts], "un délit civil").
+entrée(torta, n, [], "pl TORTASun dessert élaboré").
+entry(gâteau, n, [gâteaux], "ou TORTENun gâteau riche").
+entry(tortelli, npl, [], "morceaux de pâtes farcis au fromage, à la viande ou aux légumes").
+entry(tortile, adj, [], "tordu enroulé").
+entrée(tortilla, n, [tortillas], "une galette ronde et plate de farine de maïs non levée").
+entrée(tortious, adj, [], "de la nature d'un délit civil").
+entry(tortue, n, [tortues], "n'importe quel ordre de reptiles dont le corps est enfermé dans une carapace osseuse").
+entrée(tortoni, n, [tortonis], "un type de crème glacée").
+entry(tortrix, n, [tortrixes], "ou TORTRICES un petit papillon de nuit").
+entrée(tortueux, adj, [], "caractérisé par des virages ou des courbes répétés").
+entrée(torturer, v, [torturé,torturant,torture], "soumettre à une douleur physique intense").
+entrée(tortionnaire, n, [tortionnaires], "celui qui torture").
+entry(torula, n, [torulas], "ou TORULAE un type de champignon").
+entry(tore, n, [tores], "ou TOREUn grand moulage convexe").
+entrée(tory, n, [tories], "un conservateur politique").
+entrée(tosa, n, [tosas], "un chien d'une race de mâtin").
+entrée(tosh, n, [tosh], "absurdité").
+entrée(jeter, v, [jette,jetant,jettes], "lancer légèrement").
+entry(tosser, n, [tossers], "celui qui lance").
+entrée(tosspot, n, [ivrognes], "un ivrogne").
+entrée(tirage, n, [tirages], "un choix ou une chance égale").
+entrée(tost, a, [], "passé de toss").
+entrée(tostada, n, [tostadas], "une tortilla frite dans de la graisse chaude").
+entry(tostado, n, [tostados], "toast").
+entrée(tostone, n, [tostones], "un plat mexicain de bananes plantains frites").
+entry(tot, v, [ajouté,ajoutant,ajouts], "totaliser").
+entrée(totable, adj, [], "capable d'être transporté").
+entrée(total, v, [totalisé,totalisant,totaux], "ou TOTALISÉ TOTALISANT TOTAUXpour déterminer le montant total de").
+entrée(totaliser, v, [totalisé,totalisant,totalise], "totaliser").
+entrée(totalisme, n, [totalismes], "contrôle centralisé par une autorité autocratique").
+entrée(totalist, n, [totalistes], "celui qui a tendance à voir les choses comme un tout unifié").
+entrée(totalité, n, [totalités], "la qualité ou l'état d'être complet").
+entry(totaliser, v, [totalisé,totalisant,totalise], "rendre complet").
+entrée(totalled, a, [], "passé du verbe total").
+entry(totalisant, a, [], "participe présent de totaliser").
+entrée(totalement, adv, [], "complètement").
+entry(tote, v, [toted,toting,totes], "porter à la mainPORTATIF adj").
+entrée(totem, n, [totems], "un objet naturel servant d'emblème à une famille ou un clanTOTÉMIQUE adj").
+entrée(totémisme, n, [totémismes], "un système de division tribale selon des totems").
+entry(totémiste, n, [totémistes], "un spécialiste du totémisme").
+entry(totemite, n, [totemites], "un totemiste").
+entry(toter, n, [toters], "quelqu'un qui transporte").
+entrée(autre, pron, [], "l'autre").
+entrée(toting, présent, [], "participe de tote").
+entrée(totalisé, passé, [], "temps de totaliser").
+entrée(totter, v, [chasubler,chasublant,chasuble], "marcher de façon instable").
+entrée(titubant, n, [titubants], "celui qui titube").
+entrée(tottery, adj, [], "tremblant").
+entrée(totting, présent, [], "participe de tot").
+entrée(toucan, n, [toucans], "un oiseau tropical").
+entry(toucher, v, [touché, touchant, touche], "être en contact ou entrer en contact avec").
+entrée(touche, interj, [], "utilisé pour reconnaître une touche en escrime").
+entrée(toucher, n, [touchers], "celui qui touche").
+entrée(touchpad, n, [touchpads], "un pavé tactile sensible au mouvement ou à la pression des doigts").
+entrée(retouche, n, [retouches], "un acte de finition en ajoutant de petites améliorations").
+entry(touchy, adj, [], "SUSCEPTIBLE TRÈS SUSCEPTIBLEtrès sensibleSUSCEPTIBLEMENT adv").
+entrée(dur, adj, [], "PLUS DUR LE PLUS DURfort et résilient").
+entrée(dur, v, [endurci,endure,dure], "endurer des difficultés").
+entry(renforcer, v, [renforcé,renforçant,renforce], "rendre dur").
+entrée(difficile, n, [difficiles], "une personne difficile").
+entrée(durâtre, adj, [], "quelque peu dur").
+entry(durement, adv, [], "d'une manière dure").
+entrée(toughy, n, [toughies], "toughie").
+entry(postiche, n, [postiches], "une perruque portée pour couvrir une calvitie").
+entry(toupie, n, [toupies], "un jambon fumé désossé et rond").
+entry(tour, v, [a voyagé, voyageant, voyages], "voyager de lieu en lieu").
+entrée(touraco, n, [touracos], "un oiseau africain").
+entrée(tourer, n, [tourers], "une grande automobile ouverte").
+entrée(tourisme, n, [tourismes], "ski de fond de loisir").
+entry(tourisme, n, [tourismes], "la pratique de voyager pour le plaisir").
+entrée(touriste, n, [touristes], "celui qui voyage pour le plaisirTOURISTIQUE adj").
+entrée(tourista, n, [touristas], "touriste").
+entrée(tournoi, v, [tournoié,tournoiement,tournois], "concourir dans un tournoi").
+entry(touse, v, [toused,tousing,touses], "ébouriffer").
+entrée(tousle, v, [tousled,tousling,tousles], "décoiffer").
+entry(tout, v, [touted,touting,touts], "solliciter effrontément").
+entrée(touter, n, [touteurs], "celui qui vante").
+entry(touton, n, [toutons], "un morceau de pâte à pain frit").
+entry(touzle, v, [touzled,touzling,touzles], "ébouriffer").
+entrée(tovarich, n, [tovariches], "camarade").
+entrée(tovarish, n, [tovariches], "tovarich").
+entry(remorquer, v, [remorqué,remorquant,remorque], "tirer à l'aide d'une corde ou d'une chaîneREMORQUABLE adj").
+entrée(remorquage, n, [remorquages], "le prix payé pour le remorquage").
+entrée(vers, prep, [], "dans la direction de").
+entrée(towardly, adj, [], "favorable").
+entrée(vers, prép, [], "vers").
+entrée(remorquage, n, [remorquages], "l'acte de remorquer un véhicule").
+entrée(remorqueur, n, [remorqueurs], "un bateau-remorqueur").
+entrée(serviette, v, [essuya,essuyage,essuies], "ou ESSUYÉ ESSUYAGE SERVIETTEpour essuyer avec une serviette un chiffon absorbant").
+entrée(serviette, n, [serviettes], "matériau utilisé pour les serviettes").
+entrée(tour, v, [tourné, dominant, tours], "s'élever à une grande hauteur").
+entrée(towery, adj, [], "TRÈS HAUT").
+entrée(tête_blonde, n, [têtes_blondes], "une tête de cheveux blonds clairs").
+entry(towie, n, [towies], "un bruant familier").
+entrée(towie, n, [towies], "une forme de bridge pour trois joueurs").
+entrée(remorquant, présent, [], "participe de remorquer").
+entry(touline, n, [toulines], "une corde utilisée pour le remorquage").
+entry(towmond, n, [towmonds], "un an").
+entrée(towmont, n, [towmonts], "towmond").
+entrée(ville, n, [villes], "un centre de population plus petit qu'une ville").
+entrée(habitant, n, [habitants], "un citadin").
+entrée(habitants, npl, [], "les habitants d'une ville").
+entrée(maisons_en_range, n, [maisons_en_rangée], "une des maisons contiguës de deux ou trois étages").
+entrée(townie, n, [townies], "une personne non-étudiante qui vit dans une ville universitaire").
+entrée(villageois, pl, [], "de villageois").
+entry(villeux, adj, [], "caractéristique d'une ville").
+entry(townless, adj, [], "n'ayant pas de villes").
+entrée(bourgade, n, [bourgades], "une petite ville").
+entrée(canton, n, [cantons], "une division administrative d'un comté").
+entrée(site_ville, n, [sites_ville], "le site d'une ville").
+entry(citoyen, n, [citoyens], "un résident d'une ville").
+entrée(vers_la_ville, adv, [], "en direction de la ville").
+entrée(townwear, n, [townwear], "vêtements adaptés à porter en ville").
+entry(towny, n, [townies], "bourgeois").
+entrée(chemin_de_halage, n, [chemins_de_halage], "un chemin le long d'une rivière utilisé par les animaux pour haler des bateaux").
+entry(avion_remorqueur, n, [avions_remorqueurs], "un avion qui remorque des planeurs").
+entry(câble de remorquage, n, [câbles de remorquage], "corde utilisée pour le remorquage").
+entrée(towsack, n, [towsacks], "un sac fait d'un tissu grossier").
+entrée(towy, adj, [], "ressemblant à de la fibre de chanvre ou de lin grossière").
+entrée(toxémie, n, [toxémies], "toxémieTOXÉMIQUE adj").
+entrée(toxémie, n, [toxémies], "la condition d'avoir des toxines dans le sangTOXÉMIQUE adj").
+entrée(toxique, n, [toxiques], "une substance empoisonnée").
+entrée(toxical, adj, [], "toxique").
+entry(toxique, n, [toxiques], "une substance toxique").
+entrée(toxicité, n, [toxicités], "la qualité d'être toxique").
+entry(toxine, n, [toxines], "une substance toxique").
+entrée(toxine, n, [toxines], "toxine").
+entrée(toxoïde, n, [toxoïdes], "un type de toxine").
+entrée(jouet, v, [jouaient,jouant,jouets], "s'amuser comme avec un jouet, un objet de jeu pour enfant").
+entry(jouer, n, [joueurs], "celui qui joue").
+entrée(joujou, adj, [], "frivole").
+entry(terre_des_jouets, n, [terres_des_jouets], "l'industrie du jouet").
+entrée(sanstoy, adj, [], "n'ayant pas de jouet").
+entrée(toylike, adj, [], "ressemblant à un jouet").
+entrée(toyo, n, [toyos], "une paille lisse utilisée pour fabriquer des chapeaux").
+entrée(toyon, n, [toyons], "un arbuste à feuillage persistant ornemental").
+entrée(magasin_de_jouets, n, [magasins_de_jouets], "un magasin où des jouets sont vendus").
+entrée(villejouet, n, [villesjouets], "un petit modèle de ville").
+entrée(trabeate, adj, [], "construit avec des poutres horizontales").
+entrée(trace, v, [tracé, traçant, traces], "suivre le cours de").
+entrée(traceur, n, [traceurs], "celui qui trace").
+entrée(tracerie, n, [traceries], "travail ornemental de lignes entrelacées").
+entry(trachée, n, [trachées], "ou TRACHÉESle passage pour acheminer l'air vers les poumonsTRACHÉAL adj").
+entry(trachéide, n, [trachéides], "une longue cellule végétale tubulaire").
+entry(trachle, v, [trachla,trachlant,trachlent], "traîner").
+entrée(trachome, n, [trachomes], "une maladie de l'œil").
+entrée(trachyte, n, [trachytes], "une roche ignée de couleur claire").
+entrée(tracage, n, [tracages], "quelque chose qui est tracé").
+entrée(suivre, v, [suivi,suivi,suit], "suivre les traces laissées par un animal, une personne ou un véhicule").
+entrée(trackage, n, [trackages], "le système de voies d'un chemin de fer").
+entrée(trackbed, n, [plates-formes], "une plate-forme pour un chemin de fer").
+entrée(suiveur, n, [suiveurs], "celui qui suit").
+entrée(suivi, n, [suivis], "le placement des étudiants dans un programme").
+entrée(trackman, n, [trackmen], "un cheminot").
+entrée(trackpad, n, [trackpads], "un pavé tactile").
+entrée(chemin, n, [chemins], "un sentier battu").
+entrée(étendue, n, [étendues], "une étendue de terre").
+entrée(traite, n, [traités], "un traité").
+entrée(tractile, adj, [], "capable d'être étiré en longueur").
+entrée(traction, n, [tractions], "l'action de tirer ou de dessiner sur une surfaceTRACTIF adj").
+entry(tracteur, n, [tracteurs], "un véhicule à moteur utilisé dans l'agriculture").
+entry(tractrice, n, [tractrices], "une courbe mathématique").
+entry(trad, adj, [], "traditionnel").
+entrée(échange, v, [échangé, échangeant, échanges], "donner en échange d'une autre marchandiseÉCHANGEABLE adj").
+entrée(compromis, n, [compromis], "abandonner une chose en échange d'une autre").
+entry(commerçant, n, [commerçants], "celui qui commerce").
+entry(commerce, n, [échanges], "l'action d'échanger des marchandises").
+entry(traditor, n, [traditores], "un traître parmi les premiers chrétiens").
+entrée(traduire, v, [traduit,traduisant,traduit], "diffamer").
+entrée(traducteur, n, [traducteurs], "celui qui calomnie").
+entrée(traffic, v, [trafiqué,trafiquant,trafique], "s'engager dans l'achat et la vente").
+entrée(tragédie, n, [tragédies], "un événement désastreux").
+entry(tragi, pl, [], "du tragus").
+entry(tragique, n, [tragiques], "l'élément d'un drame qui produit la tragédie").
+entrée(tragique, adj, [], "de la nature d'une tragédie").
+entry(tragopan, n, [tragopans], "un faisan asiatique").
+entrée(tragus, n, [tragi], "une partie de l'ouverture externe de l'oreille").
+entry(traik, v, [traiked,traiking,traiks], "marcher péniblement").
+entrée(sentier, v, [traîné,traînant,traîne], "tirer le long d'une surface").
+entrée(remorque, v, [remorqué,remorquant,remorques], "transporter au moyen d'une remorque un véhicule tiré par un autre").
+entrée(train, v, [entraîné, formation, entraîne], "instruire systématiquement").
+entry(stagiaire, n, [stagiaires], "une personne recevant une formation").
+entrée(formateur, n, [formateurs], "celui qui forme").
+entrée(trainful, n, [trainfuls], "autant qu'un train de chemin de fer peut contenir").
+entrée(formation, n, [formations], "instruction systématique").
+entrée(conducteur, n, [conducteurs], "un employé de chemin de fer").
+entrée(chemin_de_fer, n, [chemins_de_fer], "une voie ferrée").
+entry(trainasser, v, [trainassé,trainassant,trainasse], "marcher sans but ou manière oisive").
+entrée(trait, n, [traits], "une caractéristique distinctive").
+entry(traitre, n, [traitres], "celui qui trahit un autre").
+entry(trajectoire, v, [trajecté, trajectant, trajecte], "transmettre").
+entrée(tram, v, [trammed, tramming, trams], "transporter dans un tramway").
+entry(tramway, n, [tramways], "un tram").
+entrée(tramel, v, [trameled, trameling, tramels], "ou TRAMELLED TRAMELLING TRAMELSto trammel").
+entrée(tramell, v, [tramelé, tramant, trame], "entraver").
+entrée(tramless, adj, [], "sans tramway").
+entrée(ligneDuTramway, n, [lignesDuTramway], "une ligne de tramway").
+entrée(trammed, passé, [], "temps de tram").
+entrée(trammel, v, [trammelé,trammelant,trammels], "ou TRAMMELLÉ TRAMMELLANT TRAMMELStop entraver").
+entrée(tramming, présent, [], "participe de tram").
+entrée(tramp, v, [tramped, tramping, tramps], "marcher d'un pas lourd et ferme").
+entrée(tramper, n, [tramplers], "celui qui trépigne").
+entry(trampish, adj, [], "ressemblant à un vagabond").
+entrée(piétiner, v, [piétiné,piétinant,piétine], "fouler lourdement").
+entry(piétineur, n, [piétineurs], "celui qui piétine").
+entrée(trampy, adj, [], "TRAMPIER TRAMPIESTayant les caractéristiques d'un vagabond").
+entrée(tramroad, n, [tramroads], "un chemin de fer dans une mine").
+entry(tramway, n, [tramways], "une ligne de tramway").
+entry(transe, v, [transé,transant,transes], "mettre dans une transe, un état semi-conscient").
+entry(tranche, n, [portions], "une portion").
+entrée(trangam, n, [trangams], "une babiole").
+entry(trank, v, [tranked,tranking,tranks], "tranquilliser").
+entrée(trannie, n, [trannies], "tranny").
+entry(tranny, n, [trannies], "une transmission").
+entry(tranq, n, [tranqs], "tranq").
+entry(tranquille, adj, [], "LE PLUS TRANQUILLE ou LE PLUS TRANQUILLELIBRE de toute perturbation").
+entrée(trans, adj, [], "caractérisé par la disposition de différents atomes sur les côtés opposés de la molécule").
+entrée(transact, v, [transacted,transacting,transacts], "effectuer").
+entrée(transect, v, [transection, transectant, transecte], "couper à travers").
+entrée(transept, n, [transepts], "une partie transversale majeure du corps d'une église").
+entry(transferer, v, [transferé,transfert,transferts], "conveyer de une source à une autre").
+entry(transfixer, v, [transfixé, transfixant, transfixes], "transpercer").
+entry(transborder, v, [transbordé, transbordant, transborde], "transférer d'un moyen de transport à un autre").
+entrée(transit, v, [transité, transitant, transite], "passer à travers ou par").
+entry(transmettre, v, [transmis,transmettant,transmet], "envoyer d'un lieu ou d'une personne à une autre").
+entrée(traverse, n, [traverses], "une petite fenêtre au-dessus d'une porte ou d'une autre fenêtre").
+entrée(transuder, v, [transudé, transudant, transude], "passer à travers une membrane").
+entrée(trap, v, [trapt, trapping, traps], "attraper dans un piège un dispositif pour capturer et retenir des animaux").
+entry(trépaner, v, [trépana,trépanant,trépans], "trépaner").
+entrée(trapball, n, [trapballs], "un type de jeu de balle").
+entrée(trappe, n, [trappes], "une porte basculante ou coulissante couvrant une ouverture").
+entrée(trapes, v, [trapesed,trapesing,trapeses], "aller flâner").
+entry(trapèze, n, [trapèzes], "un agrès de gymnastique").
+entry(trapézia, npl, [], "polygones à quatre côtés n'ayant pas de côtés parallèles").
+entrée(trapézes, npl, [], "muscles triangulaires du dos").
+entrée(traplike, adj, [], "ressemblant à un piège").
+entry(trapline, n, [lignes_de_trap], "une série de pièges").
+entrée(trapnest, v, [trapnested, trapnesting, trapnests], "déterminer la productivité des poules avec un type de nid").
+entrée(trappean, adj, [], "relatif à la roche volcanique").
+entrée(piégé, a, [], "passé du verbe piéger").
+entrée(trappeur, n, [trappeurs], "celui qui piège").
+entry(piège, n, [pièges], "un couvre-chef pour un cheval").
+entrée(trappose, adj, [], "trappean").
+entry(trappous, adj, [], "trappéen").
+entrée(traprock, n, [traprocks], "une roche ignée").
+entry(trapt, a, [], "temps passé de trap").
+entrée(trapunto, n, [trapuntos], "un motif matelassé décoratif").
+entrée(détritus, v, [jeté,jetant,jette], "libérer des détritus matière sans valeur ou des déchets").
+entry(trasher, n, [destructeurs], "celui qui détruit ou endommage").
+entry(éboueur, n, [éboueurs], "une personne qui enlève les déchets").
+entry(trashy, adj, [], "PLUS MÉDIOS, LE PLUS MÉDIOS ressemblant à des déchets MÉDIEUSEMENT adv").
+entrée(trass, n, [trasses], "une roche volcanique").
+entrée(trauchle, v, [trauchled, trauchling, trauchles], "trachler").
+entrée(traumatisme, n, [traumatismes], "ou TRAUMATA un choc émotionnel sévère").
+entry(travail, v, [travaillé,travailant,travails], "labourer").
+entry(trave, n, [traves], "un cadre pour confiner un cheval").
+entrée(voyager, v, [voyagé,voyageant,voyages], "ou VOYAGÉ VOYAGEANT VOYAGEspour aller d'un endroit à un autre").
+entrée(voyageur, n, [voyageurs], "celui qui voyage").
+entrée(carnet_de_voyage, n, [carnets_de_voyage], "une conférence ou un film sur les voyages").
+entrée(traverser, v, [traversé, traversant, traverse], "passer à travers ou par").
+entry(parodie, v, [parodiait,parodiant,parodie], "tourner en dérision").
+entry(travois, n, [travois], "un type de traîneau").
+entrée(travoise, n, [travoises], "travois").
+entrée(chaluter, v, [chaluté,chalutant,chalute], "pêcher en traînant un filet le long du fond marin").
+entrée(chalutier, n, [chalutiers], "un bateau utilisé pour le chalutage").
+entrée(trawley, n, [trawleys], "un petit camion ou voiture pour transporter du matériel").
+entrée(filtre, n, [filtres], "le grand filet utilisé pour le chalutage").
+entry(plateau, n, [plateaux], "un récipient plat et peu profond").
+entry(trayf, adj, [], "non préparé selon la loi juive").
+entry(plateau, n, [plateaux], "autant qu'un plateau peut contenir").
+entry(mélasse, n, [mélasses], "molasse").
+entry(« treacly », adj, [], « TRÈS SUCRÉ TRÈS SUCRÉcloyingly sweet and sentimental »).
+entrée(tread, v, [treaded, trodden, treading], "TREADSpromène sur ou le long de").
+entry(treader, n, [treaders], "celui qui piétine").
+entrée(pédale, v, [pédalé,pédalant,pédales], "actionner un levier de pied").
+entrée(treadler, n, [treadlers], "celui qui pédale").
+entrée(trahison, n, [trahisons], "violation de l'allégeance envers son pays").
+entrée(trésor, v, [trésoré,trésorant,trésors], "apprécier grandement").
+entrée(trésor, n, [trésors], "un endroit où les fonds sont reçus, conservés et déboursés").
+entrée(soigner, v, [soigné, soignant, soigne], "se comporter d'une manière particulière envers").
+entrée(traitant, n, [traitants], "celui qui traite").
+entrée(traitement, n, [traitements], "l'acte de fournir quelque chose d'agréable à quelqu'un").
+entry(traite, n, [traites], "un exposé écrit formel et systématique d'un sujet").
+entrée(traite, n, [traités], "un accord formel entre deux ou plusieurs nations").
+entry(triple, v, [triplé, triplant, triples], "tripler").
+entry(trebly, adv, [], "triplement").
+entrée(trecento, n, [trecentos], "le quatorzième siècle").
+entrée(treddle, v, [a treddlé, treddlage, treddles], "treadle").
+entrée(arbre, v, [arbré,arbrant,arbres], "conduire vers un arbre une grande plante ligneuse").
+entrée(trottoir_arbres, n, [trottoirs_arbres], "la bande de pelouse entre la rue et le trottoir").
+entrée(sans_arbre, adj, [], "n'ayant pas d'arbre").
+entrée(arborescent, adj, [], "ressemblant à un arbre").
+entrée(lisière des arbres, n, [lisières des arbres], "la limite au nord de laquelle les arbres ne poussent pas").
+entrée(sapin, n, [sapins], "un article fabriqué en bois").
+entrée(cheville, n, [chevilles], "une cheville en bois utilisée pour fixer les bois").
+entry(cime, n, [cimes], "le sommet d'un arbre").
+entrée(tref, adj, [], "inapte à l'usage selon la loi juive").
+entry(trefah, adj, [], "tref").
+entrée(trefle, n, [trefles], "une plante ayant des feuilles ternées").
+entry(trehala, n, [tréalas], "une substance douce et comestible formant la coque nymphale de certains charançons").
+entry(randonnée, v, [randonné,randonnant,randonnées], "faire un voyage lent ou ardu").
+entrée(randonneur, n, [randonneurs], "celui qui randonne").
+entry(treillis, v, [treillissé,treillissant,treillis], "fournir un treillis, un cadre utilisé comme support pour les plantes grimpantes").
+entrée(trem, n, [trems], "un levier de guitare électrique pour produire un trémolo").
+entry(trembler, v, [tremblé,tremblant,tremble], "trembler involontairement").
+entry(trembler, n, [tremblants], "celui qui tremble").
+entry(tremblement, n, [tremblements], "un tremblement de terre").
+entrée(tremblant, adj, [], "TREMBLIER TREMBLIESTmarqué par le tremblement").
+entrée(tremolo, n, [tremolos], "un effet musical vibrant").
+entry(tremblement, v, [a tremblé, tremblant, tremblements], "subir un tremblement ou un frémissement").
+entrée(clavette, n, [clavettes], "clavette").
+entrée(tranchée, v, [trié, en creusant, tranchées], "creuser une excavation longue et étroite dans le sol").
+entry(trencher, n, [trenchers], "un plat en bois pour servir la nourriture").
+entrée(tendance, v, [a tendu, tendance, tendances], "suivre un cours particulier").
+entrée(trendify, v, [trendifié,trendifiant,trendifie], "rendre quelque chose à la mode").
+entrée(trendoid, n, [trendoids], "une personne branchée").
+entrée(tendance, adj, [], "PLUS TENDANCE LE PLUS TENDANCEtrès à la modeTENDANCE adv").
+entrée(tendance, n, [tendances], "une personne tendance").
+entry(trépaner, v, [trépanné, trépannant, trépane], "trépanner").
+entrée(trepang, n, [trepangs], "un animal marin").
+entrée(trephine, v, [trephiné, trephinant, trephines], "opérer avec une scie chirurgicale").
+entrée(trepid, adj, [], "timoré").
+entrée(violer, v, [violé,violant,violes], "entrer sur la terre d'autrui illégalement").
+entrée(tresse, v, [tressé, tressant, tresses], "arranger les cheveux en longues mèches").
+entrée(tréteau, n, [tréteaux], "trestle").
+entrée(tressour, n, [tressours], "tressure").
+entrée(trésor, n, [trésors], "un type de motif héraldique").
+entrée(tressy, adj, [], "TRESSIER TRESSIESTriche en tresses").
+entry(tréteau, n, [tréteaux], "un cadre de soutien pour un pont").
+entrée(tret, n, [trets], "une allocation autrefois versée aux acheteurs pour le gaspillage subi lors du transport").
+entry(carangue, n, [carangues], "ou CARANGUES, un poisson alimentaire australien").
+entrée(trevent, n, [trevents], "dessous de plat").
+entry(trews, npl, [], "pantalon écossais ajusté").
+entrée(trey, n, [treys], "un trois dans les cartes, dés ou dominos").
+entry(treyf, adj, [], "trayf").
+entry(treyfa, adj, [], "trayf").
+entrée(jugeable, adj, [], "soumis à un examen judiciaire").
+entry(triac, n, [triacs], "un dispositif électronique utilisé pour contrôler la puissance").
+entrée(triacide, n, [triacides], "un type d'acide").
+entrée(triactor, n, [triactors], "un tiercé").
+entrée(triad, n, [triades], "un groupe de trois").
+entry(triadique, n, [triadiques], "un membre d'une triade").
+entrée(triadism, n, [triadismes], "la qualité ou l'état d'être une triade").
+entrée(triage, v, [triagé, triageant, triages], "pratiquer un système de traitement des victimes de catastrophe").
+entrée(essai, v, [essaya,essayant,essais], "ou ESSAYA ESSAYANT ESSAYSto tester quelque chose pour évaluer ses performances").
+entrée(cobaye, n, [cobayes], "une personne qui participe à un test de quelque chose").
+entrée(triangle, n, [triangles], "un polygone ayant trois côtés").
+entrée(triarchie, n, [triarchies], "gouvernement par trois personnes").
+entrée(triaxial, adj, [], "ayant trois axes").
+entrée(triazine, f, [triazines], "triazine").
+entrée(triazine, n, [triazinés], "un composé chimique").
+entrée(triazole, n, [triazoles], "un composé chimique").
+entry(tribade, n, [tribades], "une lesbienneTRIBADIQUE adj").
+entry(tribal, n, [tribus], "un membre d'un peuple aborigène de l'Inde").
+entry(tribalement, adv, [], "d'une manière caractéristique d'une tribu").
+entrée(tribasique, adj, [], "ayant trois atomes d'hydrogène remplaçables").
+entrée(tribu, n, [tribus], "un groupe de personnes partageant une ascendance et une culture communes").
+entrée(tribraque, n, [tribraques], "un type de pied métrique").
+entrée(tribunal, n, [tribunaux], "un tribunal de justice").
+entrée(tribune, n, [tribunes], "un défenseur des droits du peuple").
+entry(hommage, n, [hommages], "quelque chose donné pour montrer du respect, de la gratitude ou de l'admiration").
+entrée(trice, v, [triced,tricing,trices], "remonter avec une corde").
+entrée(triceps, n, [triceps], "un triceps").
+entrée(triceps, n, [triceps], "un muscle du bras").
+entrée(trichine, n, [trichines], "ou TRICHINAE un ver parasite").
+entry(trichite, n, [trichites], "un corps minéral minuscule trouvé dans des roches volcaniques").
+entrée(trichoid, adj, [], "en forme de cheveu").
+entrée(trichome, n, [trichomes], "une excroissance ressemblant à un cheveu").
+entry(tricing, présent, [], "participe de trice").
+entrée(tricity, n, [tricities], "une région qui comprend trois villes indépendantes adjacentes").
+entrée(trick, v, [tricked,tricking,tricks], "tromper").
+entrée(tricher, n, [tricheurs], "celui qui trompe").
+entrée(tricherie, n, [tricheries], "tromperie").
+entrée(trickie, adj, [], "TRICKIER TRICKIESTtricky").
+entrée(trickier, comparatif, [], "de tricky").
+entrée(trickiest, superlatif, [], "de tricky").
+entrée(trickily, adv, [], "d'une manière astucieuse").
+entrée(trickish, adj, [], "compliqué").
+entry(trickle, v, [coulait,coulant,coulent], "couler ou tomber goutte à goutte").
+entrée(trickly, adj, [], "PLUS TRICKLY LE PLUS TRICKLY marqué par l'écoulement").
+entrée(tricksy, adj, [], "TRICKSIER TRICKSIESTespiègle").
+entrée(difficile, adj, [], "PLUS DIFFICILE LE PLUS DIFFICILEcaractérisé par la tromperie").
+entrée(triclade, n, [tricladés], "un ver plat aquatique").
+entrée(tricolore, n, [tricolores], "un drapeau ayant trois couleurs").
+entrée(tricorne, n, [tricornes], "un chapeau avec le bord relevé sur trois côtés").
+entry(tricorne, n, [tricorne], "tricorne").
+entrée(tricot, n, [tricots], "un tissu tricoté").
+entry(trictrac, n, [trictracs], "une forme de jacquet").
+entrée(tricycle, v, [tricycled,tricycling,tricycles], "conduire un véhicule à trois rouesTRIDENT n pl TRIDENTEune lance à trois pointesTRIDUUM n pl TRIDUUMUne période de prières de trois joursTRIED passé de tryTRIENE n pl TRIENEStype de composé chimiqueTRIENNIA npl périodes de trois ansTRIENS n pl TRIENTESune pièce de monnaie de la Rome antiqueTRIER n pl TRIERScelui qui essaieTRIES présent 3e personne singulier de tryTRIETHYL adj contenant trois groupes éthylesTRIFECTA n pl TRIFECTASun système de parisTRIFFID n pl TRIFFIDSun plante fictive prédateurTRIFID adj divisé en trois partiesTRIFLE v TRIFLED TRIFLING TRIFLEsto perdre du tempsTRIFLER n pl TRIFLERScelui qui badineTRIFLING n pl TRIFLINGStpetite cuillère ou délaiTRIFOCAL n pl TRIFOCALSune type de lentillesTRIFOLD adj ayant trois partiesTRIFORIA npl galeries dans une égliseTRIFORM adj ayant trois formesTRIG adj TRIGGER TRIGGESTsoignéTRIG v TRIGGED TRIGGING TRIGSto ajusterTRIGAMY n pl TRIGAMIESle crime d'être marié à trois personnes à la foisTRIGGER v TRIGGERED TRIGGERING TRIGGERSto déclencherTRIGLY adv d'une manière soignéeTRIGLYPH n pl TRIGLYPHSornement architecturalTRIGNESS n pl TRIGNESSEStqualité ou état d'être soignéTRIGO n pl TRIGOStricordeTRIGON n pl TRIGONSancien instrument à cordesTRIGONAL adj en forme de triangleTRIGRAM n pl TRIGRAMSd'ensemble de trois lettres successivesTRIGRAPH n pl TRIGRAPHSgroupe de trois lettres représentant un sonTRIHEDRA npl figures avec trois surfaces planes se rencontrant en un pointTRIJET n pl TRIJETSavion à trois moteurs à réactionTRIKE n pl TRIKEStricycleTRILBY n pl TRILBIESchapeau en feutre mouTRILBIED adjTRILITH n pl TRILITHSstructure préhistorique composée de trois grandes pierresTRILL v TRILLED TRILLING TRILLStchantez ou jouez avec une vibrationTRILLER n pl TRILLERScelui qui chanteTRILLION n pl TRILLIONSnuméroTRILLIUM n pl TRILLIUMSplante à fleursTRILOBAL adj trilobéTRILOBED adj ayant trois lobesTRILOGY n pl TRILOGIESensemble de trois œuvres littéraires liéesTRIM adj TRIMMER TRIMMESTpropre et ordonnéTRIM v TRIMMED TRIMMING TRIMSto couperTRIMARAN n pl TRIMARANSnavire à voileTRIMER n pl TRIMERSun type de composé chimiqueTRIMERIC adjTRIMETER n pl TRIMETERSvers de trois pieds métriquesTRIMLY adv d'une manière soignéeTRIMMED passé de trimTRIMMER n pl TRIMMERScelui qui coupeTRIMMEST superlatif de trimTRIMMING n pl TRIMMINGSajouté comme décorationTRIMNESS n pl TRIMNESSESt'état d'être soignéTRIMORPH n pl TRIMORPHSsubstace en trois formesTRIMOTOR n pl TRIMOTORSavion à trois moteursTRIMPOT n pl TRIMPOTSpetit instrument pour ajuster la résistance ou la tensionTRINAL adj ayant trois partiesTRINARY adj composé de trois partiesTRINDLE v TRINDLED TRINDLING TRINDLESto trundleTRINE v TRINED TRINING TRINESto placer dans une position astrologique particulièreTRINITY n pl TRINITIESgroupe de troisTRINKET v TRINKETED TRINKETING TRINKETSto traiter secrètementTRINKUMS npl petits ornementsTRINODAL adj ayant trois nœudsTRIO n pl TRIOSgroupe de troisTRIODE n pl TRIODESun type de tube électroniqueTRIOL n pl TRIOLScompounds chimiqueTRIOLET n pl TRIOLETSpoème court de forme fixeTRIOSE n pl TRIOSESucre simpleTRIOXID n pl TRIOXIDStrioxydeTRIOXIDE n pl TRIOXIDStrioxydeTRIP v TRIPPED TRIPPING TRIPSt trébucherTRIPACK n pl TRIPACKSpack de filmTRIPART adj divisé en trois partiesTRIPE n pl TRIPESpartie de l'estomac des ruminants utilisée comme nourritureTRIPEDAL adj ayant trois piedsTRIPHASE adj ayant trois phasesTRIPLANE n pl TRIPLANESun type d'avionTRIPLE v TRIPLED TRIPLING TRIPLESt trois fois plusTRIPLET n pl TRIPLETStripletTRIPLEX v TRIPLEXED TRIPLEXING TRIPLEXESto fournir en tripleTRIPLITE n pl TRIPLIETEstrmineralTRIPLOID n pl TRIPLOIDScellule ayant un nombre de chromosomes trois fois supérieur au nombre de baseTRIPLY adv en trois phasesTRIPMAN n pl TRIPMENhomme engagé pour travailler sur un voyageTRIPOD n pl TRIPODSt trépiedTRIPODAL TRIPODIC adjTRIPODY n pl TRIPODIESvers de trois pieds métriquesTRIPOLI n pl TRIPOLISroche tendre et friableTRIPOS n pl TRIPOSEStrépiedTRIPPANT adj marchant utilise pour un animal héraldiqueTRIPPED passé de tripTRIPPER n pl TRIPPERScelui qui trébucheTRIPPET n pl TRIPPETSpartie d'un mécanisme conçue pour frapper une autre partieTRIPPING n pl TRIPPINGStacte de trébucherTRIPPY adj TRIPPIER TRIPPIESTsuggérant un voyage avec drogues psychédéliquesTRIPTAN n pl TRIPTANSmédicament contre migrainsTRPTANE n pl TRIPTANEScompound chimiqueTRIPTYCA n pl TRIPTYCAStriptyqueTRIPTYCH n pl TRIPTYCHStablette d'écriture ancienneTRIPWIRE n pl TRIPWIRESfaible corde dissimulée déclenchant une alarme ou un piègeTRIREME n pl TRIREMESgalère de la Grèce ou Rome ancienneTRISCELE n pl TRISCELESgfigre à trois branches rayonnant d'un centreTRISECT v TRISECTED TRISECTING TRISECTSto diviser en trois parts égalesTRISEME n pl TRISEMESun type de pied métriqueTRISEMIC adjTRISHAW n pl TRISHAWSrickshawTRISKELE n pl TRISKELESgieure composée de trois branches rayonnant d'un centreTRISMUS n pl TRISMUSESlockjawTRISMIC adjTRISOME n pl TRISOMESun organisme ayant un chromosome en plus du nombre diploïde habitu LeonidTRISOMIC n pl TRISOMICStrisomieTRISOMY n pl TRISOMIESt condition d'être une trisomieTRISTATE adj relatif à une zone composée de trois états contigusTRISTE adj tristeTRISTEZA n pl TRISTEZASmaladie des agrumesTRISTFUL adj tristeTRISTICH n pl TRISTICHShanza de trois lignesTRITE adj TRITER TRITESTcouramment utiliséTRITELY advTRITHING n pl TRITHINGSdivision administrative en AngleterreTRITICUM n pl TRITICUSTriticum céréale de bléTRITIUM n pl TRITIUMSisotope d'hydrogèneTRITOMA n pl TRITOMASherbe africaineTRITON n pl TRITONSmollusque marinTRITONE n pl TRITONESSintervalle musical de trois tons entiersTRIUMPH v TRIUMPHED TRIUMPHING TRIUMPHSto remporter la victoireTRIUMVIR n pl TRIUMVIRS ou TRIUMVIRIun membre du corps dirigeant de trois personnes dans la Rome ancienneTRIUNE n pl TRIUNESune trinitéTRIUNITY n pl TRIUNITIEStrinitéTRIVALVE n pl TRIVALVESSortie à clapetTRIVET n pl TRIVETSétagère à trois piedsTRIVIA npl sujets insignifiantsTRIVIAL adj insignifiantTRIVIUM n pl TRIVIAgroupe d'études dans les écoles médiévalesTRUANCY n pl TRUANCIESacte d'absentéismeTROILOYMENT n pl TROILOYMENTStristitismTROCKER n pl TROCENS1. act of trosse").
+```prolog
+entree(uakari, n, [uakaris], "un singe sud-américain").
+```
+entrée(following, est, [], "une liste d'adjectifs et adverbes explicites contenant le préfixe 'UN' nonABATED adjINCAPABLE adjNONABUSED adjNONACIDE adjNONJOUÉ adjNONADDED adjNONADROIT adjNONADULTE adjNONPEUR adjNONÂGÉ adjNONVIEILLISSEMENT adjNONAGILE adjNONVIEILLIS adjNONCONVENU adjNONAIDÉ adjNONVISÉ adjNONÉMIS adjNONPARENT adjNONAPTE adjNONAPTABLE advNONARCHÉ adjNONDÉBATTU adjNONARTISTIQUE adjNONDEMANDÉ adjNONATONÉ adjNONDÉCLARÉ adjNONÉVEILLÉ adjNONRÉVEILLÉ adjNONCONSCIENT adjNONÉTONNÉ adjNONHACHÉ adjNONSOUTENU adjNONCUIT adjNONBANDÉ adjNONINTERDIT adjNONBARBELÉ adjNONBASÉ adjNONARROSÉ adjNONBAINÉ adjNONBATTU adjNONBÉNIN adjNONBIAISÉ adjNONFACTURÉ adjNONENTAMÉ adjNONMORDAILLÉ adjNONAMER adjNONBLÂMÉ adjNONBÉNI adjNONSANGUINAIRE adjNONCOIFFÉ adjNONBOUILLI adjNONLIÉ adjNONDÉSOSSÉ adjNONBOTTÉ adjNONNÉ adjNONACHETÉ adjNONSOUTENU adjNONINCLINÉ adjNONFAUCON adjNONLUMINEUX adjNONCASSÉ adjINFRÉQUENT adjNONBRÛLÉ adjNONBU adjNONDÉMOLI adjNONDÉPASSÉ adjNONAPPELÉ adjNONCANDIDE adjNONCONSERVÉ adjNONCARDÉ adjNONCARITATIF adjNONCHARIOTÉ adjNONSCULPTÉ adjNONENCAISSÉ adjNONFÛTÉ adjNONCOULE adjNONCHOQUANT adjNONCHAUFÉ adjNONBAISSÉ adjNONCÉDÉ adjNONPRUDENT adjNONCHASTE adj NONCHASTENONCHASTESTNONMACHÉ adjNONTENDANCE adjNONCHICMENT advNONCHOISI adjNOCIVAL adjNONTENDANCE adjNONGRIFFE adjNONPROPRE adj NONPROPRENONPROPREMENTNONTENDANCE adj NONTENDANCEMENTNONNARNAGEUX adjNONBROYÉ adjNONÉCRASÉ adjNONPLICATION adjNONMODÉRÉ adjNONCODE adjNONCOINÉ adjNONPEIGNÉ advNONAGRÉABLEMOI adjNONCOMIQUE adjNONCOMMUN adj NONPLUSCOMMUNNONMOI advNONCUIT adjNONCOOL adjNONREFROIDIS adjNONCUL adjNONCRAZY adjNONÉQUIPÉ adjNONMENOT adjNONCURÉ adjNONDAMNÉ adjNONDÉCOUPÉ adjNONMIGNON adjNONDÉMOUILLÉ adjNONAUDACIEUX adjNONDATÉ adjNONDECKÉE adjNONREFUSÉ adjNONDENTÉ adjNONPIEUX adjNONSOMBRÉ adjNONFAISABLE adjINODCILE adjINPOINT adjSOMMETTÉ adjNONDESSÉCHÉ adjNONDÉDOUBLEMENTÉ NonETROUD adjNONALENT adjNONCOUNT adjNONÉDITÉ adjNONTERMINÉ adjINTERMINÉ adjNONÉVIDÉ adjNONINONDÉ adjNONÉROT nonNONINQUIÉTANT adjNONRENONINQUOIÉTIS advNONCODE adjNONEXISTÉ adjNONGUIRLANDE adjNONTRAMÉ adjNONTRAQUÉ adjNONTACKÉ adjNONTENACE adjNONTRACHE adjNONTUBED adjNONMODÉRÉ adjNONDÉLÉGUÉ adjNOINDÉLUXE adjNONMINIER adjNONEMOTION adjNONSURLIIED adjNONINSPIRÉ adjNONSORTÉ adjNONSUBJUGIE adjNONFAÏE adjNONIMMITTED adjNONVENDU adjNONINDENÉTIL adjNONDÉCAMPE adjNONÉTALÉ adjNONPROSPOULÉ adjNONPROCHÉ adjNONAMUSANT adj NONAMUSANT adjNONINQUIET adjNONHORSENSE adjNONSUREMENTMENTU adjNONATTATUÉ adjNONAHOMÉ adjNORRECT adjNONANTILLINE adjNONAMORA adjNONAXÉ adjNONKNACKET adjNONQUAFE adjNONMASK adjNONÉDUE adjNONCONCOQUIN adjNONDUMIÉ adjNONENDEBOUS adjNONMAGIQUE adjNONTIFF adjNONCAFÉ adjNONENREJAC adjNONMGROUND adjNONDÉLAI adjNEXTILLION adjNONBALE adjNONMARQUÉ adjNONMARQUÉ adjNONACCÉRÉ adjNONDUM adjNONCOLONNE adjNORÉSULTAT adjNONLEGINE adjNONJOUER adjNONDURLAINE adjNONDUDÉLAIR adjNONJAMONTEUR adjNONSURRÉLÉ adjNONHEX adjNONFILIAL adjNONARABE adjNONMINUTE adjNONEXTINGE 文MIC加作 adjMIC加作 adjMIC加调 adjMI事局 adjLO杰事 adjOB事 adjOB托 adjOB标 adj通标 adj微心事 adj通事 adj通事 adj OB传搭 adj微事 adj通挣 adj通糟 adj通罐隮 adj通心 adj通伤 adj通庆 adj OB撤 adjOB炸 adj OB炎 adj OB篇 adj OB绍 adj OB 张条 adjMA 躮过 adjMA 集分 adjMA 言各 adj涂事 adj滴闻 adj滴驱 adj滴提 adj滴逊 adj顶紧 adj宫长 adj脚长 adj脚处 adj内时 adj内长 adj妮随 adj妞头 adj尿促 adj尿角 adj尿包 adj尿糟 adj尿秒 adj肥符 adj褐言 adj矿特 adj挎别 adj怀紧 adj怀巴 adj怀捷 adj怀杰 adj怀继 adj怀故 adj怀现 adj怀安 adj怀监 adj怀示 adj怀避 adj怀蜀 adj怀进 adj怀捷 adj怀德 adj怀司 adj怀互 adj怀行 adj怀居 adj怀长 adj怀居 adj怀成 adj怀选 adj怀住 adj怀继 adj怀量 adj怀暖 adj怀放 adj怀象 adj怀持 adj怀为 adj怀木 adj怀暖 adj怀捷 adj怀尝 adj怀存 adj怀构 adj怀局 adj怀任 adj怀静 adj怀扔 adj怀销 adj怀效 adj怀伐 adj怀叫 adj怀放 adj怀竹 adj怀电 adj怀线 adj怀当 adj怀秋 adj怀涂 adj贫望 adj负但 adj负罗 adj负未 adj负指 adj负夜 adj负复 adj负圣 adj负诗 adj负首 adj负听 adj负站 adj负章 adj负生 adj负池 adj负特 adj负规 adj负义 adj负以 adj负方 adj负定 adj负西 adj负根 adj负趋 adj负近 adj负安 adj微奂 adj负望 adj负指 adj负句 adj负它 adj负复 adj负显 adj负横 adj负也 adj负从 adj负得 adj负远 adj负字 adj负现 adj负在哪 adj负亦 adj负赫 adj负氧 adj负侵 adj负熟 adj负位 adj负容 adj负间 adj负第 adj负以 adj负而 adj负再 adj负什 adj负合 adj负新 adj负于 adj负据 adj负负 adj负力 adj负济 adj负珍 adj负指 adj负发 adj负起 adj负宋 adj负顷选 adj负生 adj负桴 adj负厨 adj负天 adj负矛 adj负张 adj负新 adj负束 adj文化 adj文化 adj顶管 adj顶李 adj顶获 adj顶宽 adj顶礼 adj顶弄 adj顶师 adj顶递 adj顶早 adj顶真 adj顶续 adj顶顾 adj顶七 adj顶逝 adj顶业 adj顶衣 adj顶满 adj顶井 adj顶污 adj顶探 adj顶痼 adj顶点局 adj探夺 adj翻孔 adj探稳 adj盘摇 adj怀武 adj欢以 adj怀马 adj薇叠 adj怀观 adj混长 adj怀幕 adj怀间 adj怀致 adj怀憧 adj刀汽 adj怀故 adj怀局 adj化小 adj怀赛 adj怀提 adj册长 adj怀较 adj怀看 adj怀徽 adj怀此 adj怀另 adj怀选 adj怀途 adj交心 adj怀勾 adj机机 adj怀给 adj怀举 adj怀遇 adj机踪 adj怀问 adj怀共 adj怀事 adj怀界 adj怀途 adj怀初 adj怀依 adj怀香 adj怀举 adj怀久 adj怀结 adj怀次 adj怀秋 adj怀致 adj怀杰 adj怀间 adj怀线 adj怀吗 adj怀齐 adj怀炉 adj怀结 adj质堂 adj质征 adj质放 adj质声 adj质六 adj质长 adj质领 adj质针 adj乎福 adj乎闻 adj乎别 adj乎游 adj乎于 adj乎备 adj乎夜 adj乎事 adj乎少 adj乎会 adj乎预 adj乎季 adj乎群 adj乎新 adj乎五 adj乎激 adj乎头 adj乎然 adj乎内 adj乎然 adj乎逆 adj乎提 adj如言 adj乎机 adj乎就 adj乎难 adj乎方 adj乎现 adj乎必 adj乎为 adj乎最 adj乎是 adj乎作 adj乎别态 adj乎峰 adj乎六 adj乎步 adj乎前 adj乎书 adj乎疫 adj乎情 adj乎时 adj乎真 adj乎展 adj乎能 adj乎志 adj乎缘 adj乎别 adj乎比 adj乎率 adj乎扩 adj乎效 adj乎跳 adj乎称 adj乎年 adj乎言 adj乎乘 adj乎效 adj乎案 adj乎声 adj乎首 adj乎树 adj乎求 adj乎接 adj乎因 adj乎疾 adj乎交 adj乎舍 adj乎认 adj乎航 adj乎术 adj乎文 adj乎登 adj乎曾 adj乎雨 adj乎府 adj乎气 adj乎传 adj乎职 adj乎告 adj乎行 adj乎样 adj乎局 adj乎或 adj乎前 adj乎推 dia矿 adj乎于 adj乎收 adj乎仇 adj乎亡 adj乎职 adj乎执 adj乎奕 adj乎精 adj乎纯 adj乎策.").
+entrée(wab, n, [wabs], "une toile").
+entrée(wabble, v, [wabbla, wabblant, wabble], "vaciller").
+entrée(wabbler, n, [wabblers], "celui qui chancelle").
+entrée(wabbly, adj, [], "PLUS TREMBLANT LE PLUS TREMBLANTbranlant").
+entrée(wack, adj, [], "TRÈS MAUVAIS").
+entrée(wack, n, [wacks], "une personne farfelue").
+entry(wacke, n, [wackes], "un type de roche basaltique").
+entrée(wacked, adj, [], "whacked").
+entry(wacko, n, [wackos], "ou WACKOES une personne farfelue").
+entrée(farfelu, adj, [], "PLUS FARFELU LE PLUS FARFELUtrès irrationnelFARFELUMENT adv").
+entrée(wad, v, [wadded,wadding,wads], "former en un bourrelet une petite masse de matière souple").
+entrée(traversable, adj, [], "traversable").
+entrée(wadder, n, [wadders], "celui qui bourre").
+entrée(waddie, n, [waddies], "un cow-boy").
+entrée(waddied, passé, [], "temps de waddy").
+entrée(waddies, présent, [], "3e personne sing de waddy").
+entrée(ouate, n, [ouates], "un tampon").
+entrée(waddle, v, [waddled,waddling,waddles], "marcher avec de petits pas en se balançant").
+entrée(chancoteur, n, [chancoteurs], "celui qui chancelle").
+entrée(waddly, adj, [], "ayant ou étant une démarche chaloupée").
+entry(waddy, v, [waddied,waddying,waddies], "frapper avec une grosse massue").
+entry(wade, v, [pataugeait, pataugeant, patauge], "marcher dans l'eau").
+entry(traversable à gué, adj, [], "capable d'être traversé à gué").
+entrée(wader, n, [échassiers], "celui qui patauge").
+entrée(wadi, n, [wadis], "le lit d'un cours d'eau généralement à sec").
+entry(oueds, pl, [], "de oued").
+entrée(wading, présent, [], "participe de wade").
+entrée(wadmaal, n, [wadmaals], "wadmal").
+entry(wadmal, n, [wadmals], "un tissu épais en laine").
+entrée(wadmel, n, [wadmels], "wadmal").
+entrée(wadmol, n, [wadmols], "wadmal").
+entry(wadmoll, n, [wadmolls], "wadmal").
+entry(wadset, v, [wadset,wadsetting,wadsets], "hypothéquer").
+entrée(oued, n, [oueds], "oued").
+entry(wae, n, [waes], "malheur").
+entry(waeful, adj, [], "lamentable").
+entrée(waeness, n, [waenesses], "woeness").
+entrée(waesuck, interj, [], "waesucks").
+entrée(waesucks, interj, [], "utilisé pour exprimer la pitié").
+entry(wafer, v, [wafered,wafering,wafers], "sceller avec un disque adhésif").
+entrée(gaufrette, adj, [], "ressemblant à une gaufrette, un biscuit fin et croustillant").
+entrée(waff, v, [waffed, waffing, waffs], "agiter").
+entry(waffie, n, [waffies], "un vagabond").
+entry(gaufre, v, [gaufrais,gaufreant,gaufres], "parler vaguement ou sans décision").
+entrée(waffler, n, [wafflers], "celui qui baratine").
+entrée(vacillation, n, [vacillations], "une déclaration ou position indécise").
+entrée(waffly, adj, [], "WAFFLIER WAFFLIESTindécis").
+entry(flottement, v, [flotté,flottant,flotte], "porter légèrement sur l'air ou l'eau").
+entry(waftage, n, [waftages], "l'acte de souffler").
+entry(wafter, n, [wafters], "celui qui flotte").
+entry(ondulation, n, [ondulations], "ondulation").
+entrée(wag, v, [wagged,wagging,wags], "se déplacer vigoureusement de haut en bas ou d'avant en arrière").
+entry(salaire, v, [salarié,salariante,salaires], "s'engager ou exercer").
+entrée(sans_salaire, adj, [], "non rémunéré").
+entrée(parier, v, [pariés,pariant,paris], "risquer sur un résultat incertain").
+entrée(parieur, n, [parieurs], "celui qui parie").
+entry(pari, n, [paris], "l'acte de risquer quelque chose sur un résultat incertain").
+entry(agité, passé, [], "temps de secouer").
+entrée(wagger, n, [waggers], "un qui remue").
+entrée(espièglerie, n, [espiègleries], "comportement espiègle").
+entrée(remuant, présent, [], "participe de secouer").
+entrée(waggish, adj, [], "drôlement humoristique").
+entry(hochement, v, [hochait,hochant,hoche], "agiter").
+entrée(waggly, adj, [], "WAGGLIER WAGGLIESTinstable").
+entry(wagon, v, [wagonner, wagonant, wagons], "charrier").
+entry(charretier, n, [charretiers], "charetier").
+entrée(faire_la_guerre, présent, [], "participe de faire la guerre").
+entry(wagon, v, [wagoned,wagoning,wagons], "transporter par chariot un véhicule hippomobile à quatre roues").
+entrée(wagonage, n, [wagonages], "transport par chariot").
+entrée(charioteer, n, [charioteers], "celui qui conduit un chariot").
+entrée(wagsome, adj, [], "espiègle").
+entrée(pie-grièche, n, [pies-grièches], "un oiseau chanteur").
+entrée(wahconda, n, [wahcondas], "wakanda").
+entrée(wahine, n, [wahines], "une femme hawaïenne").
+entrée(wahoo, n, [wahoos], "un arbuste à fleurs").
+entrée(waif, v, [waifed, waifing, waifs], "jeter").
+entrée(waifish, adj, [], "de type waif").
+entrée(waiflike, adj, [], "ressemblant à un waif un enfant sans abri").
+entry(gémir, v, [gémit, gémissant, gémit], "pousser un long cri plaintif").
+entry(gémisseur, n, [gémisseurs], "celui qui gémit").
+entrée(wailful, adj, [], "lugubre").
+entry(lamentable, adj, [], "gémissante").
+entry(wain, n, [wains], "un grand chariot ouvert").
+entrée(lambrisser, v, [lambrissé,lambrissant,lambrisse], "ou LAMBRISSÉ LAMBRISSANT LAMBRISSER pour garnir les murs de panneaux de bois").
+entrée(wair, v, [waired,wairing,wairs], "dépenser").
+entrée(taille, n, [tailles], "la partie du corps entre les côtes et les hanchesTAILLÉ adj").
+entrée(waister, n, [waisters], "un marin affecté à la section médiane d'un navire").
+entry(mincesoi, n, [mincesoies], "un type de matériau pour la confection").
+entrée(attendre, v, [attendu,attendant,attend], "rester dans l'attente de").
+entry(server_masculin, v, [servi, servant, serveurs], "travailler comme serveur dans un restaurant").
+entrée(attente, n, [attentes], "l'acte de celui qui attend").
+entrée(liste_d'attente, v, [mis_sur_liste_d'attente, mettre_sur_liste_d'attente, met_sur_liste_d'attente], "inscrire sur une liste de personnes en attente").
+entry(serveuse, v, [travaillé_comme_serveuse, travaillant_comme_serveuse, travaille_comme_serveuse], "travailler comme serveuse dans un restaurant").
+entrée(serveur, n, [serveurs], "un serveur dans un restaurant").
+entry(renoncer, v, [renoncé,renonçant,renonce], "abandonner intentionnellement").
+entry(dérogation, n, [dérogations], "l'acte de déroger à quelque chose").
+entrée(wakame, n, [wakames], "une algue brune originaire d'Asie").
+entrée(wakanda, n, [wakandas], "une force surnaturelle dans les croyances Sioux").
+entrée(réveiller, v, [réveillé, réveillé, réveillant], "WAKEPour tirer du sommeil").
+entry(éveillé, adj, [], "ne dort pas ou ne peut pas dormir").
+entry(wakeless, adj, [], "ininterrompu utilisé pour le sommeil").
+entrée(éveiller, v, [éveillé,éveillant,éveille], "réveiller").
+entry(réveilleur, n, [réveilleurs], "celui qui réveille").
+entrée(éveil, n, [éveils], "l'acte de celui qui s'éveille").
+entry(réveilleur, n, [réveilleurs], "celui qui réveille").
+entrée(wakerife, adj, [], "éveillé").
+entry(wakiki, n, [wakikis], "monnaie coquillage des îles de la mer du Sud").
+entry(réveil, n, [réveils], "l'état d'être éveillé").
+entrée(baleiner, v, [baleina, baleinant, baleines], "marquer avec des zébrures").
+entrée(waler, n, [waler], "un cheval de selle élevé en Australie").
+entry(wali, n, [walis], "le gouverneur d'une province dans un pays arabe").
+entry(walies, pl, [], "de waly").
+entry(marcher, v, [marché,marchant,marches], "avancer à piedMARCHABLE adj").
+entrée(walkaway, n, [walkaways], "une victoire facile").
+entry(walker, n, [marcheurs], "celui qui marche").
+entrée(walkies, interj, [], "utilisé pour commander à un chien de se préparer à une promenade").
+entry(marcher, n, [marches], "l'acte de marcher").
+entrée(grève, n, [grèves], "une grève par les travailleurs").
+entrée(walkover, n, [walkovers], "un forfait").
+entrée(walkup, n, [walkups], "un immeuble d'appartements sans ascenseur").
+entrée(promenade, n, [promenades], "un passage pour marcher").
+entrée(walkyrie, n, [walkyries], "valkyrie").
+entrée(mur, v, [muré, murant, murs], "fournir un mur une structure verticale construite pour enclore une zone").
+entrée(walla, n, [wallas], "wallah").
+entrée(wallaby, n, [wallabies], "un petit kangourou").
+entry(wallah, n, [wallahs], "une personne engagée dans une occupation ou activité particulière").
+entrée(wallaroo, n, [wallaroos], "un grand kangourou").
+entrée(portefeuille, n, [portefeuilles], "un étui pliant plat").
+entry(walley, n, [walleys], "un type de saut en patinage artistique").
+entrée(doré, n, [dorés], "un œil ayant une cornée blancheDORÉ adj").
+entrée(wallie, n, [wallies], "un valet").
+entrée(murs, pl, [], "de wally").
+entry(cogner, v, [cogné, cognant, cogne], "frapper avec force").
+entrée(bourreau, n, [bourreaux], "celui qui frappe").
+entry(se vautrer, v, [se vautrait, se vautrant, se vautrent], "rouler dans").
+entrée(wallower, n, [wallowers], "celui qui se vautre").
+entrée(wally, n, [wallies], "waly").
+entrée(noix, n, [noix], "un fruit à coque comestible").
+entry(morse, n, [morses], "un mammifère marin").
+entrée(valse, v, [valsé,valsant,valses], "effectuer une danse de salon").
+entry(waltzer, n, [waltzeurs], "un qui valse").
+entrée(waly, n, [walies], "quelque chose de visuellement agréable").
+entrée(wamble, v, [wambled,wambling,wambles], "se déplacer de manière instable").
+entrée(wambly, adj, [], "WAMBLIER WAMBLIESTinstable").
+entrée(wame, n, [wames], "le ventre").
+entrée(wamefou, n, [wamefous], "un ventre plein").
+entrée(wameful, n, [wamefuls], "wamefou").
+entrée(wammus, n, [wammuses], "wamus").
+entry(wampish, v, [wampished,wampishing,wampishes], "jeter partout").
+entrée(wampum, n, [wampums], "une forme de monnaie autrefois utilisée par les Amérindiens").
+entrée(wampus, n, [wampuses], "wamus").
+entry(wamus, n, [wamuses], "une veste extérieure lourde").
+entrée(wan, adj, [], "WANNER WANNESTanormalement pâle").
+entrée(wan, v, [wané, wanant, wan], "devenir blême").
+entrée(baguette, n, [baguettes], "une tige mince").
+entry(errer, v, [erré,errant,erre], "se déplacer sans destination ni but").
+entry(voyageur, n, [voyageurs], "celui qui erre").
+entrée(wanderoo, n, [wanderoos], "un singe asiatique").
+entry(wandle, adj, [], "souple").
+entrée(diminuer, v, [diminué,décroissant,diminue], "diminuer en taille ou en étendue").
+entrée(waney, adj, [], "WANIER WANIESTwany").
+entrée(wangan, n, [wangans], "wanigan").
+entrée(manigancer, v, [manigancé, manigeant, manigances], "obtenir ou accomplir par stratagème").
+entrée(maniganceur, n, [maniganceurs], "celui qui manigance").
+entrée(wangun, n, [wanguns], "wanigan").
+entry(wanier, comparatif, [], "de waney et wany").
+entry(waniest, superlatif, [], "de waney et wany").
+entry(wanigan, n, [wanigans], "une boîte de provisions utilisée dans un camp de bûcherons").
+entrée(décroissant, présent, [], "participe du verbe décroître").
+entrée(wanion, n, [wanions], "vengeance").
+entry(wanly, adv, [], "d'une manière blafarde").
+entrée(wannabe, n, [wannabes], "celui qui aspire à être comme quelqu'un d'autre").
+entrée(wannabee, n, [], "WANNABEESwannabe").
+entrée(voulait, passé, [], "temps de vouloir").
+entrée(wanner, comparatif, [], "de pâle").
+entry(pâleur, n, [pâleurs], "la qualité d'être pâle").
+entrée(wannest, superlatif, [], "de wan").
+entrée(wannigan, n, [wannigans], "wanigan").
+entrée(wanning, présent, [], "participe de wan").
+entrée(vouloir, v, [voulu,voulant,veut], "avoir le désir de").
+entrée(wantage, n, [wantages], "quelque chose qui manque").
+entrée(wanter, n, [wanters], "celui qui veut").
+entry(dévergonder, v, [dévergondé,dévergondant,dévergonde], "se comporter de manière immorale").
+entrée(wantonner, n, [wantonners], "celui qui fait des excès").
+entry(scandaleusement, adv, [], "immoralement").
+entrée(wany, adj, [], "WANIER WANIESTdéclinant dans certaines parties").
+entry(wap, v, [wapped,wapping,waps], "envelopper").
+entrée(wapiti, n, [wapitis], "un grand cerf").
+entrée(guerre, v, [a fait la guerre, en guerre, guerres], "s'engager dans une guerre, un état de conflit armé ouvert").
+entry(warbird, n, [warbirds], "un avion militaire ancien").
+entrée(gazouiller, v, [gazouillé, gazouillant, gazouille], "chanter avec des ornements mélodiques").
+entrée(moineau, n, [moineaux], "celui qui chante").
+entrée(warbly, adj, [], "PLUS WARBLIER LE PLUS WARBLIER exprimé de manière vibrante ou tremblante").
+entrée(warcraft, n, [warcrafts], "l'art de la guerre").
+entrée(ward, v, [warded,warding,wards], "dévier").
+entrée(chef, n, [chefs], "le directeur d'une prison").
+entrée(guardianat, n, [guardianats], "le bureau d'un gardien").
+entry(geôlier, n, [geôliers], "une personne qui garde quelque chose").
+entrée(wardless, adj, [], "sans partie de verrouillage").
+entrée(wardress, n, [wardresses], "une gardienne").
+entry(armoire, n, [armoires], "une collection de vêtements").
+entrée(armoire, v, [armoiré,armoirement,armoires], "fournir une collection de vêtements").
+entrée(carré, n, [carrés], "une salle à manger pour les officiers sur un navire de guerre").
+entry(tutelle, n, [tutelles], "l'état d'être sous un tuteur").
+entry(ware, v, [wared,waring,wares], "se méfier de").
+entrée(salle_de_stockage, n, [salles_de_stockage], "une pièce dans laquelle des marchandises sont exposées à la vente").
+entry(warez, n, [warez], "logiciel copié illégalement").
+entry(guerre, n, [guerres], "l'acte de s'engager dans la guerre").
+entrée(warfarine, n, [warfarines], "un composé chimique").
+entrée(wargame, v, [wargamed, wargaming, wargames], "s'engager dans des conflits militaires simulés").
+entry(wargamer, n, [joueurs_de_guerre], "celui qui simule des guerres").
+entrée(tête, n, [têtes], "la partie avant d'un missile contenant l'explosif").
+entry(coursier, n, [coursiers], "une œuvre musicale ou dramatique qui a été jouée à l'excès").
+entrée(warier, comparatif, [], "de méfiant").
+entry(wariest, superlatif, [], "de wary").
+entry(prudemment, adv, [], "d'une manière prudente").
+entrée(méfiance, n, [méfiances], "l'état d'être méfiant").
+entrée(waring, présent, [], "participe de ware").
+entrée(guérison, n, [guérisons], "un appel à l'attaque").
+entry(wark, v, [warked,warking,warks], "endurer la douleur").
+entry(sans_guerre, adj, [], "libre de guerre").
+entrée(belliqueux, adj, [], "enclin à s'engager dans la guerre").
+entry(sorcier, n, [sorciers], "un enchanteur").
+entry(seigneur_de_guerre, n, [seigneurs_de_guerre], "un chef militaire d'une nation belliqueuse").
+entrée(chaleureux, adj, [], "PLUS CHAUD LE PLUS CHAUD modérément chaud").
+entrée(chaleur, v, [chauffé,chauffant,chauffe], "pour réchauffer").
+entry(fabricant_de_guerre, n, [fabricants_de_guerre], "celui qui fait la guerre").
+entry(warmer, n, [réchauffeurs], "celui qui réchauffe").
+entrée(chauffage, n, [chauffages], "l'action ou un exemple de rendre quelque chose chaud").
+entrée(chaleureux, adj, [], "quelque peu chaud").
+entry(chaleureusement, adv, [], "d'une manière chaleureuse").
+entrée(chaleur, n, [chaleurs], "l'état d'être chaud").
+entrée(warmouth, n, [warmouths], "un poisson d'eau douce").
+entrée(chaleur, n, [chaleurs], "chaleurosité").
+entrée(échauffement, n, [échauffements], "un exercice ou une procédure préparatoire").
+entry(avertir, v, [averti,avertissement,avertis], "faire prendre conscience d'un danger imminent ou possible").
+entry(warner, n, [warners], "celui qui avertit").
+entrée(avertissement, n, [avertissements], "quelque chose qui avertit").
+entrée(warp, v, [warped, warping, warps], "tourner ou tordre pour déformer").
+entrée(gauchissement, n, [gauchissements], "l'action de gauchir").
+entrée(warpaint, n, [peintures_de_guerre], "peinture utilisée pour décorer le visage et le corps avant la bataille").
+entrée(chemin_de_guerre, n, [chemins_de_guerre], "le parcours emprunté par les Amérindiens attaquants").
+entrée(warper, n, [warpers], "celui qui déforme").
+entrée(avion_de_guerre, n, [avions_de_guerre], "un avion armé pour le combat").
+entry(pouvoirdeguerr, n, [pouvoirsdeguerre], "le pouvoir de faire la guerre").
+entrée(warpwise, adv, [], "dans une direction verticale").
+entrée(warragal, n, [warragals], "warrigal").
+entry(mandat, v, [mandaté, mandatant, mandats], "donner autorité à").
+entrée(garantie, v, [garanti, garantissant, garanties], "fournir une garantie écrite pour").
+entrée(guerroyé, passé, [], "temps de guerre").
+entry(warren, n, [terriers], "un endroit où les lapins vivent et se reproduisent").
+entry(garennier, n, [garenniers], "le gardien d'un garenne").
+entry(warrigal, n, [warrigals], "un dingo").
+entrée(combattant, présent, [], "participe de guerre").
+entry(guerrier, n, [guerriers], "une personne engagée ou expérimentée dans la guerre").
+entry(varsovie, n, [varsovies], "un poisson marin").
+entry(navire_de_guerre, n, [navires_de_guerre], "un navire armé pour le combat").
+entrée(warsle, v, [warsled, warsling, warsles], "lutter").
+entrée(warsler, n, [warslers], "un lutteur").
+entrée(warstle, v, [warstled,warstling,warstles], "lutter").
+entrée(warstler, n, [warstlers], "un lutteur").
+entry(verrue, n, [verrues], "une protubérance sur la peauVERRUQUEUX adj").
+entry(phacochère, n, [phacochères], "un cochon sauvage africain").
+entrée(vwartier, comparatif, [], "de verruqueux").
+entrée(wartiest, superlatif, [], "de verruqueux").
+entrée(temps_de_guerre, n, [temps_de_guerres], "une période de guerre").
+entrée(verruceless, adj, [], "ne pas avoir de verrues").
+entrée(verruqueux, adj, [], "ressemblant à une verrue").
+entry(warty, adj, [], "PLUS VERRUQUEUX LE PLUS VERRUQUEUX couvert de verrues").
+entry(travaildeguerre, n, [travauxdeguerre], "travail effectué pendant une guerre").
+entry(usé_de_guerre, adj, [], "montrant les effets de la guerre").
+entry(prudent, adj, [], "PLUS_PRUDENT LE_PLUS_PRUDENTvigilant").
+entrée(était, 1ère, [], "et 3ème personne singulier passé indicatif de être").
+entrée(wasabi, n, [wasabis], "une herbe piquante").
+entry(laver, v, [lavé,lavant,lave], "nettoyer en immergeant dans ou en appliquant un liquide").
+entry(lavable, n, [lavables], "quelque chose qui peut être lavé sans dommage").
+entry(trousse_de_toilette, n, [trousses_de_toilette], "un petit sac pour transporter des articles de toilette lors des voyages").
+entry(bassine, n, [bassines], "un bol utilisé pour se laver").
+entrée(jour_de_lessive, n, [jours_de_lessive], "un jour réservé pour laver les vêtements").
+entry(lave-linge, n, [lave-linges], "un qui lave").
+entrée(washier, comparatif, [], "de washy").
+entrée(washiest, superlatif, [], "de washy").
+entry(lavage, n, [lavages], "articles lavés ou à laver").
+entrée(washout, n, [washouts], "une érosion du sol par l'action de l'eau").
+entrée(gant_de_toilette, n, [gants_de_toilette], "un petit tissu utilisé pour se laver").
+entrée(salle_de_bain, n, [salles_de_bain], "un WC").
+entrée(baquet, n, [baquets], "un bac utilisé pour laver les vêtements").
+entry(vaisselle, n, [vaisselles], "l'acte de nettoyer par lavage").
+entry(washy, adj, [], "TROP DILUÉ").
+entrée(guêpe, n, [guêpes], "un insecte piquantACIDE GUÊPIFORME adj").
+entrée(waspy, adj, [], "PLUS GUÊPE COMME UNE GUÊPE GUÊPIÈRE adv").
+entry(wassail, v, [wassailed,wassailing,wassails], "boire à la santé de").
+entrée(ouest, n, [ouests], "ouest").
+entry(gaspillage, adj, [], "capable d'être gaspillé").
+entrée(gaspillage, n, [gaspillages], "quelque chose qui est gaspillé").
+entry(déchets, v, [gaspillé, gaspillant, gaspille], "utiliser inconsidérément").
+entrée(gaspilleur, adj, [], "qui tend à gaspiller").
+entrée(terrain_vague, n, [terrains_vagues], "un terrain vacant").
+entrée(gaspilleur, n, [gaspilleurs], "celui qui gaspille").
+entrée(wasterie, n, [wasteries], "gaspillage").
+entrée(gaspillage, n, [gaspillages], "dépense").
+entrée(déversoir, n, [déversoirs], "un canal pour l'eau excédentaire").
+entry(gaspillage, présent, [], "participe de waste").
+entry(gaspilleur, n, [gaspilleurs], "celui qui gaspille").
+entrée(wastrie, n, [wastries], "gaspillage").
+entry(wastry, n, [wastries], "extravagance imprudente").
+entrée(wat, adj, [], "WATTER WATTESThumide").
+entry(wat, n, [wats], "un lièvre").
+entry(watap, n, [wataps], "un fil fabriqué à partir des racines de divers arbres").
+entrée(watape, n, [watapes], "watap").
+entrée(montre, v, [montré, en train de regarder, montre], "observer attentivement").
+entrée(garde, n, [gardes], "un mot de passe").
+entry(surveillant, v, [surveillé,surveillant,surveillants], "agir en tant que gardien pour").
+entrée(regardeur, n, [regardeurs], "celui qui regarde").
+entrée(watcheye, n, [watcheyes], "un doré jaune").
+entry(vigilant, adj, [], "attentif ou en alerte").
+entry(veilleur, n, [veilleurs], "un homme employé pour monter la garde").
+entry(attention, n, [attentions], "l'acte de surveiller quelque chose").
+entrée(eau, v, [arrosé,arrosage,arrose], "asperger d'eau un liquide transparent inodore et sans goût").
+entry(transport par eau, n, [transports par eau], "le transport de marchandises par voie d'eau").
+entry(lit_d'eau, n, [lits_d'eau], "un lit dont le matelas est un sac en plastique rempli d'eau").
+entrée(waterbus, n, [waterbuses], "ou WATERBUSSES un grand bateau à moteur pour transporter des passagers").
+entrée(protée, n, [protées], "une grande salamandre").
+entrée(arroseur, n, [arroseurs], "celui qui arrose").
+entrée(foulque, n, [foulques], "la foulque d'Amérique").
+entrée(waterier, comparatif, [], "de aqueux").
+entrée(wateriest, superlatif, [], "de aqueux").
+entry(nénuphary, adv, [], "de manière aqueuse").
+entry(arrosage, n, [arrosages], "l'acte de celui qui arrose").
+entry(aquatique, adj, [], "aqueux").
+entry(jet_d'eau, n, [jets_d'eau], "un jet d'eau forcé à travers une petite ouverture").
+entry(gorger, v, [gorgé,gorgeant,gorge], "imbiber d'eau").
+entry(waterloo, n, [waterloos], "une défaite décisive").
+entrée(waterman, n, [watermen], "un batelier").
+entry(ski_nautique, n, [skis_nautiques], "un ski pour skier sur l'eau").
+entrée(voie_navigable, n, [voies_navigables], "un cours d'eau navigable").
+entrée(eauuse, adj, [], "PLUS EAUUSE LE PLUS EAUUSEcontient de l'eau").
+entrée(watt, n, [watts], "une unité de puissance").
+entrée(puissance, n, [puissances], "une quantité de puissance en termes de watts").
+entrée(wattape, n, [wattapes], "watap").
+entrée(eau, comparatif, [], "de quoi").
+entry(wattest, superlatif, [], "de wat").
+entrée(watthour, n, [watthours], "une unité d'énergie").
+entrée(clayonnage, v, [clayonné,clayonnant,clayonne], "tresser en réseau").
+entrée(wattless, adj, [], "désignant un type de courant électrique").
+entrée(waucht, v, [wauchted,wauchting,wauchts], "waughter").
+entrée(waugh, adj, [], "humide").
+entrée(waught, v, [waughté, waughtant, waughts], "boire à fond").
+entry(wauk, v, [wauked, wauking, wauks], "réveiller").
+entrée(waul, v, [wauled,wauling,wauls], "crier comme un chat").
+entrée(waur, adj, [], "pire").
+entry(vague, v, [vagué, vaguer, vagues], "se déplacer librement de long en large ou de haut en bas").
+entrée(bande_de_fréquence, n, [bandes_de_fréquence], "une plage de fréquences radio").
+entrée(onde, n, [ondes], "un type de graphique mathématique").
+entry(waveless, adj, [], "ayant aucune vague mouvements ondulants sur la surface d'un liquide").
+entrée(wavelet, n, [ondelettes], "une petite vague").
+entrée(ondulant, adj, [], "ressemblant à une vague").
+entrée(waveoff, n, [waveoffs], "l'acte de refuser l'autorisation d'atterrir à un avion en approche").
+entrée(hésiter, v, [hésité,hésitant,hésitent], "se déplacer d'avant en arrière").
+entrée(hésitant, n, [hésitants], "celui qui hésite").
+entrée(ondoyant, adj, [], "chancelant").
+entrée(wavey, n, [waveys], "l'oie des neiges").
+entrée(wavicle, n, [wavicles], "une particule subatomique qui peut agir à la fois comme une onde et comme une particule").
+entrée(renonciation, comparatif, [], "de ondulé").
+entry(vagues, pl, [], "de ondulé").
+entrée(waviest, superlatif, [], "de ondulé").
+entrée(ondulant, adv, [], "d'une manière ondulée").
+entry(ondulation, n, [ondulations], "l'état d'être ondulé").
+entrée(agitant, présent, [], "participe de wave").
+entrée(ondulé, adj, [], "PLUS ONDULÉ LE PLUS ONDULÉayant des vagues").
+entrée(ondulé, n, [ondulés], "ondulé").
+entrée(vaw, n, [vaws], "vav").
+entry(wawl, v, [wawled,wawling,wawls], "miauler").
+entry(cirer, v, [ciré,cirant,cire], "enduire de cire une substance naturelle sensible à la chaleurCIRABLE adj").
+entrée(baie_de_cire, n, [baies_de_cire], "une baie avec un enrobage cireux").
+entrée(bec-de-cire, n, [becs-de-cire], "un oiseau tropical").
+entry(ciré, adj, [], "recouvert de cire").
+entrée(cireur, n, [cireurs], "celui qui cire").
+entry(waxier, comparatif, [], "de cireux").
+entrée(waxiest, superlatif, [], "de cireux").
+entrée(comme_de_la_cire, adv, [], "d'une manière cireuse").
+entrée(ciréité, n, [ciréités], "la qualité d'être cireux").
+entry(cirage, n, [cirages], "l'acte de celui qui cire").
+entrée(cireux, adj, [], "ressemblant à de la cire").
+entrée(hoyère, n, [hoyères], "une plante tropicale").
+entrée(waxweed, n, [waxweeds], "une herbe annuelle").
+entrée(jaseur, n, [jaseurs], "un type d'oiseau passereau").
+entrée(cire, n, [figures_de_cire], "une effigie faite de cire").
+entry(ver de cire, n, [vers de cire], "un papillon de nuit qui infeste les ruches").
+entrée(waxy, adj, [], "WAXIER WAXIESTressemblant à la cire").
+entrée(way, n, [voies], "une méthode de faire quelque chose").
+entrée(wayang, n, [wayangs], "une performance mettant en scène des marionnettes ou des danseurs humains").
+entry(connaissement, n, [connaissements], "une liste de marchandises relative à un envoi").
+entry(voyageur, n, [voyageurs], "un voyageur").
+entry(départ, n, [départs], "l'acte de partir").
+entry(tendre_une_embuscade, v, [tendu_une_embuscade, tendant_une_embuscade, tend_une_embuscade], "prendre au dépourvu").
+entry(waylayer, n, [bloqueur], "celui qui bloque le chemin").
+entry(wayless, adj, [], "sans chemin ni sentier").
+entrée(repère, n, [repères], "un objet qui sert de guide pour les voyageurs").
+entrée(étape, n, [étapes], "un point entre les points majeurs le long d'un itinéraire").
+entrée(wayside, n, [bords de route], "le côté d'une route").
+entrée(wayward, adj, [], "volontaire").
+entrée(wayworn, adj, [], "fatigué par le voyage").
+entrée(nous, pron, [], "pronom personnel 1ère personne du pluriel au nominatif").
+entrée(faible, adj, [], "PLUS FAIBLE PLUS FAIBLEmanque de force").
+entrée(affaiblir, v, [affaibli,affaiblissant,affaiblit], "rendre faible").
+entry(affaiblisseur, n, [affaiblisseurs], "celui qui affaiblit").
+entrée(fish faible, n, [fishes faibles], "un poisson marin").
+entrée(faiblard, adj, [], "quelque peu faible").
+entrée(mollasson, n, [mollassons], "une personne faible").
+entrée(faiblement, adj, [], "PLUS FAIBLE LE PLUS FAIBLEfaible et maladif").
+entrée(faiblesse, n, [faiblesses], "l'état d'être faible").
+entry(faibleon, n, [faibleons], "une particule subatomique").
+entrée(côté_faible, n, [côtés_faibles], "le côté d'un terrain de basketball avec moins de joueurs").
+entrée(weal, n, [weals], "une bosse").
+entrée(forêt, n, [forêts], "un bois").
+entrée(wealth, n, [richesses], "une grande quantité de matière précieuse").
+entrée(riche, adj, [], "PLUS RICHE LE PLUS RICHEayant richesse").
+entrée(sevrer, v, [sevré,sevrant,sevre], "retenir le lait maternel et substituer une autre nourriture").
+entry(sevreur, n, [sevreurs], "celui qui sèvre").
+entrée(jeune_sevré, n, [jeunes_sevrés], "un enfant ou animal récemment sevré").
+entrée(arme, v, [armé, armant, armes], "fournir une arme, un instrument utilisé dans le combat").
+entry(armement, n, [armements], "un ensemble d'armes").
+entry(porter, v, [porta, porté, portant], "PORTERpara avoir sur soi").
+entrée(portable, n, [portables], "un vêtement").
+entry(porteur, n, [porteurs], "celui qui porte quelque chose").
+entry(fatiguer, passé, [], "temps de fatigue").
+entrée(wearier, comparatif, [], "de weary").
+entrée(épuise, présent, [], "3e personne singulier de épuiser").
+entrée(lassant, adj, [], "ennuyeux").
+entry(wearish, adj, [], "insipide").
+entrée(fatigué, adj, [], "PLUS FATIGUÉ PLUS FATIGUÉeffectuéFATIGUÉMENT adv").
+entry(fatiguer, v, [fatigué,fatigant,fatigue], "rendre ou devenir fatigué").
+entrée(oesophage, n, [oesophages], "la gorge").
+entrée(belette, v, [tourna, tournant, tourne], "ou TOURNÉ TOURNANT TOURNER pour agir de manière évasive").
+entry(louchement, adj, [], "ressemblant à une belette un petit mammifère carnivore").
+entry(fourbe, adj, [], "weaselly").
+entrée(weason, n, [weasons], "oesophage").
+entrée(météo, v, [meteorie, météorisant, météorise], "exposer aux conditions atmosphériques").
+entry(tisser, v, [tissé, tissé, tissant], "TISSER pour former en croisant des fils").
+entrée(tisserand, n, [tisserands], "quelqu'un qui tisse").
+entrée(tissage, n, [tissages], "l'activité de créer des matériaux tissés").
+entrée(weazand, n, [weazands], "oesophage").
+entrée(web, v, [natté,nattage,webs], "fournir un web, un tissu ou une structure entrelacée").
+entry(sangle, n, [sangles], "une bande tissée de fibre").
+entrée(webby, adj, [], "WEBBIER WEBBIESTsemblable à une toile").
+entrée(webcam, n, [webcams], "une caméra utilisée pour transmettre des images en direct sur le World Wide Web").
+entrée(webdiffusion, v, [webdiffusé, webdiffusant, webdiffusions], "transmettre du son et des images via le World Wide Web").
+entrée(weber, n, [webers], "une unité de flux magnétique").
+entrée(webfed, adj, [], "conçu pour imprimer un rouleau de papier continu").
+entry(pied_palmé, n, [pieds_palmés], "un pied ayant les orteils joints par une membrane").
+entrée(webinaire, n, [webinaires], "une présentation éducative interactive en direct conduite sur un site internet").
+entrée(webisode, n, [webisodes], "un épisode d'une émission de télévision qui peut être visionné sur un site web").
+entry(sans_toile, adj, [], "n'ayant pas de toiles").
+entrée(weblike, adj, [], "ressemblant à une toile").
+entry(blog, n, [blogs], "un site web qui contient un journal personnel en ligne").
+entrée(page_web, n, [pages_web], "un document unique sur le World Wide Web").
+entrée(site_web, n, [sites_web], "un ensemble de pages web interconnectées gérées par un individu ou une organisation").
+entrée(webster, n, [websters], "un tisserand").
+entrée(webwork, n, [trames_web], "un motif ou une structure en forme de toile").
+entry(webworm, n, [vers à soie], "une chenille qui tisse des toiles").
+entrée(webzine, n, [webzines], "un magazine publié sur Internet").
+entry(wecht, n, [wechts], "poids").
+entry(mer, v, [marié,mariage,marie], "épouser").
+entry(marieur, n, [marieurs], "celui qui se marie").
+entrée(mariage, n, [mariages], "une cérémonie de mariage").
+entrée(wedel, v, [wedeled,wedeling,wedels], "faire un wedeln").
+entrée(wedeln, n, [wedelns], "une technique de ski").
+entry(coincer, v, [coinça,coinçant,coince], "forcer à se séparer avec un coin, une pièce de bois ou de métal effilée").
+entry(chausson_compensé, n, [chaussures_compensées], "un type de chaussure pour femme").
+entrée(wedgy, adj, [], "RESSEMBLANT À UNE COIN").
+entrée(mariage, n, [mariages], "l'état d'être marié").
+entry(wee, adj, [], "TRÈS PETIT").
+entrée(wee, v, [weed,weeing,wees], "uriner").
+entrée(mauvaises_herbes, v, [mauvaises_herbes_éliminées,élimination_mauvaises_herbes,élimine_mauvaises_herbes], "supprimer les mauvaises herbes plantes indésirables").
+entrée(marecage, n, [marecages], "une zone d'une masse d'eau avec beaucoup de mauvaises herbes").
+entrée(désherbeur, n, [désherbeurs], "celui qui désherbe").
+entrée(plus_envahi, comparatif, [], "de envahi").
+entrée(envahi, superlatif, [], "de envahi").
+entrée(weedily, adv, [], "d'une manière envahissante").
+entrée(sans_mauvaises_herbes, adj, [], "n'ayant pas de mauvaises herbes").
+entrée(weedlike, adj, [], "ressemblant à une mauvaise herbe").
+entrée(weedline, n, [weedlines], "le bord d'un lit de mauvaises herbes").
+entry(mauvais herbe, adj, [], "PLUS MAUVAIS HERBE LE PLUS MAUVAIS HERBERessemblant à une mauvaise herbe").
+entrée(semaine, n, [semaines], "une période de sept jours").
+entry(jour_semaine, n, [jours_semaines], "n'importe quel jour de la semaine sauf samedi et dimanche").
+entrée(weekend, v, [weekended,weekending,weekends], "passer le week-end la fin de la semaine").
+entrée(semaine, adj, [], "continuant pendant une semaine").
+entrée(hebdomadaire, n, [hebdomadaires], "une publication publiée une fois par semaine").
+entrée(weel, adj, [], "bien").
+entry(ween, v, [weened, weening, weens], "supposer").
+entrée(weenie, n, [weenies], "un saucisson").
+entry(weensy, adj, [], "MINUSCULE MINUSCULISSMEtout petit").
+entrée(petit, adj, [], "PLUS PETIT TRÈS PETITminuscule").
+entrée(pleurer, v, [pleura, pleurant, pleure], "exprimer la tristesse en versant des larmes").
+entrée(pleureur, n, [pleureurs], "celui qui pleure").
+entrée(weepie, n, [weepies], "un film très mélodramatique").
+entrée(weeping, n, [pleurs], "l'acte de pleurer").
+entry(weepy, adj, [], "WEEPIER WEEPIESTenvie de pleurerWEEPILY adv").
+entrée(weer, comparatif, [], "de petit").
+entrée(le plus petit, superlatif, [], "de petit").
+entrée(savoir, v, [savoir, savant, sait], "savoir").
+entrée(vive, n, [vives], "un poisson marin").
+entrée(gorgue, n, [gorgues], "un petit coléoptèreGORGUEÉ GORGUEUX GORGUEMENT adj").
+entry(weewee, v, [weeweed,weeweeing,weewees], "uriner").
+entrée(trame, n, [trames], "un tissu ou un vêtement tissé").
+entrée(trame, adv, [], "dans une direction horizontale").
+entry(weigela, n, [weigelas], "un arbuste à fleurs").
+entrée(weigelia, n, [weigelias], "weigela").
+entrée(peser, v, [pesé, pesant, pèse], "déterminer le poids de").
+entry(peseur, n, [peseurs], "celui qui pèse").
+entry(peseur, n, [peseurs], "celui dont le métier est de peser des marchandises").
+entrée(poids, v, [pondéré, pondération, poids], "ajouter du poids lourdeur à").
+entrée(peseur, n, [peseurs], "celui qui pèse").
+entrée(lourd, adj, [], "PLUS LOURD PLUS LOURD ayant un grand poids").
+entrée(weiner, n, [wieners], "wiener").
+entry(barrage, n, [barrages], "une clôture placée dans un ruisseau pour attraper des poissons").
+entrée(bizarre, v, [bizarrais, bizarrement, bizarre], "causer à éprouver une sensation étrange").
+entry(étrange, adj, [], "PLUS ÉTRANGE LE PLUS ÉTRANGE mystérieusement étrange").
+entry(bizarre, n, [bizarres], "destin").
+entrée(étrange_personne, n, [étranges_personnes], "une personne très étrange").
+entry(weirdies, pl, [], "de weirdy").
+entrée(bizarrement, adv, [], "d'une manière bizarre").
+entry(bizarre, n, [bizarres], "ou BIZARRESA un bizarre").
+entry(weirdy, n, [weirdies], "bizarroïde").
+entry(weka, n, [wekas], "un oiseau qui ne vole pas").
+entrée(welch, v, [welsché,welchant,welchent], "parier").
+entry(welcher, n, [welchers], "celui qui ne tient pas ses promesses").
+entrée(bienvenue, v, [bienvenu,bienvenir,bienvenues], "saluer cordialement").
+entrée(accueillant, n, [accueillants], "celui qui accueille").
+entrée(souder, v, [soudé,soudant,soude], "joindre en appliquant de la chaleurSOUDAABLE adj").
+entry(soudeur, n, [soudeurs], "celui qui soude").
+entrée(sans_soudure, adj, [], "ne possédant pas de joints soudés").
+entrée(assemblage_soudé, n, [assemblages_soudés], "une unité composée de pièces soudées").
+entry(soudeur, n, [soudeurs], "soudeur").
+entrée(bien-être, n, [biens-êtres], "bien-être général").
+entry(ciel, n, [cieux], "le ciel").
+entrée(puits, v, [jailli, jaillissant, jaillit], "s'élever à la surface et couler").
+entrée(welladay, n, [welladays], "wellaway").
+entrée(wellaway, n, [wellaways], "une expression de chagrin").
+entrée(bien-né, adj, [], "de bonne naissance ou ascendance").
+entrée(margerelais, n, [margerelais], "l'anneau en pierre autour d'un puits, un trou creusé dans le sol pour obtenir de l'eau").
+entrée(bienfaiteur, n, [bienfaiteurs], "un auteur de bonnes actions").
+entrée(tête_de_puits, n, [têtes_de_puits], "la source d'un ressort ou d'un ruisseau").
+entrée(wellhole, n, [puits], "le puits d'un forage").
+entrée(wellie, n, [wellies], "une botte de Wellington").
+entrée(bottes, pl, [], "de botte").
+entrée(bien-être, n, [biens-êtres], "l'état d'être en bonne santé").
+entrée(site_de_forage, n, [sites_de_forage], "un minéral").
+entrée(welly, n, [wellies], "wellie").
+entry(anglais, v, [a_mépris, méprisant, méprise], "ne pas payer une dette").
+entry(welsher, n, [welshers], "celui qui ne respecte pas sa parole").
+entrée(monde, v, [mondée,mongant,monges], "marquer avec des stries, des crêtes ou des bosses soulevées sur la peau").
+entry(se vautrer, v, [s'est vautré,se vautrant,se vautre], "rouler dans tous les sens").
+entrée(welting, n, [weltings], "un cordon ou une bande utilisée pour renforcer une couture").
+entrée(wen, n, [wens], "une tumeur bénigne de la peau").
+entry(soule, v, [soula,soulant,soules], "fréquenter des prostituées").
+entry(wencher, n, [wenchers], "celui qui fréquente des prostituées").
+entrée(wend, v, [wendé, wendant, wends], "aller de l'avant").
+entrée(wendigo, n, [wendigos], "windigo").
+entrée(wennish, adj, [], "cerné").
+entrée(wenny, adj, [], "RESSEMBLANT À UN WEN WENNIEST").
+entrée(allé, passé, [], "temps de aller").
+entrée(pleura, passé, [], "temps de pleurer").
+entrée(étais, a, [], "pl et 2ème pers sing passé indicatif et subjonctif passé de être").
+entrée(weregild, n, [weregilds], "wergeld").
+entrée(loup-garou, n, [loups-garous], "une personne capable de prendre la forme d'un loup").
+entry(wergeld, n, [wergelds], "un prix payé pour la prise de la vie d'un homme dans la loi anglo-saxonne").
+entrée(wergelt, n, [wergelts], "wergeld").
+entrée(wergild, n, [wergilds], "wergeld").
+entrée(valeur, a, [], "2ème personne sing passé du verbe être").
+entrée(loup-garou, n, [loups-garous], "loup-garou").
+entry(gilet, n, [gilets], "un gilet").
+entrée(wessand, n, [wessands], "oesophage").
+entrée(ouest, n, [ouests], "un point cardinal de la boussole").
+entrée(wester, v, [westered,westering,westers], "se déplacer vers l'ouest").
+entrée(ouest, n, [vents_d'ouest], "un vent venant de l'ouest").
+entry(occidental, n, [occidentaux], "celui qui vit à l'ouest").
+entry(westing, n, [westings], "un déplacement vers l'ouest").
+entry(ouest, adj, [], "le plus à l'ouest").
+entrée(vers_l'ouest, n, [vers_l'ouest], "une direction vers l'ouest").
+entry(humide, adj, [], "PLUS HUMIDE LE PLUS HUMIDE recouvert ou saturé d'un liquide").
+entrée(mouiller, v, [mouillé,mouillant,mouille], "rendre mouillé").
+entrée(weta, n, [wetas], "un grand insecte sans ailes de Nouvelle-Zélande").
+entry(bélier, n, [béliers], "un mouton mâle castré").
+entry(zone_humide, n, [zones_humides], "terre contenant beaucoup d'humidité du sol").
+entrée(mouillé, adv, [], "d'une manière mouillée").
+entrée(humidité, n, [humidité], "l'état d'être mouillé").
+entrée(wetproof, adj, [], "étanche").
+entrée(combinaison, n, [combinaisons], "un vêtement moulant en caoutchouc porté dans l'eau froide par les plongeurs").
+entrée(humectable, adj, [], "capable d'être mouillé").
+entrée(mouillé, passé, [], "temps de mouiller").
+entry(wetter, n, [mouillures], "celui qui mouille").
+entrée(plus_mouillé, superlatif, [], "de mouillé").
+entrée(wetting, n, [wettings], "un liquide utilisé pour humidifier quelque chose").
+entrée(mouillé, adj, [], "quelque peu humide").
+entrée(wetware, n, [wetwares], "le cerveau humain considéré comme fonctionnellement équivalent à un ordinateur").
+entrée(wha, pron, [], "qui").
+entrée(frapper, v, [frappé,frappant,frappe], "frapper avec force").
+entrée(fait, adj, [], "1 intoxiqué par l'alcool ou les drogues 2 épuisé").
+entrée(frappeur, n, [frappeurs], "celui qui frappe").
+entry(frapper, n, [frappements], "l'action ou l'exemple de frapper quelque chose avec force").
+entrée(cinglé, n, [cinglés], "cinglé").
+entrée(farfelu, adj, [], "PLUS_FARFELU LE_PLUS_FARFELUfarfelu").
+entrée(baleine, v, [pêchéølar, pêchant, harponne], "participer à la chasse des grandes mammifères marins appelées baleines").
+entry(baleinier, n, [baleiniers], "un pêcheur de baleines").
+entrée(baleinier, n, [baleiniers], "une personne engagée dans la chasse à la baleine").
+entrée(chasse_à_la_baleine, n, [chasses_aux_baleines], "l'industrie de la chasse et du traitement des baleines").
+entry(wham, v, [whammed, whamming, whams], "frapper avec un bruit sourd").
+entrée(whammo, interj, [], "utilisé pour indiquer un événement surprenant").
+entrée(whammy, n, [whammies], "un sort surnaturel apportant la malchance").
+entrée(whamo, interj, [], "whammo").
+entrée(whang, v, [whanged, whanging, whangs], "battre avec un fouet").
+entry(whangee, n, [whangees], "une herbe asiatique").
+entrée(whap, v, [whappé,whappant,whaps], "frapper").
+entrée(whapper, n, [whappers], "whopper").
+entrée(quai, v, [quaié, quaiant, quais], "amarrer à un quai, un lieu d'amarrage pour les navires").
+entry(manutention, n, [manutentions], "l'utilisation d'un quai").
+entrée(wharve, n, [wharves], "un morceau de bois rond utilisé pour filer le fil").
+entrée(quoi, n, [quoi], "la véritable nature de quelque chose").
+entry(whatever, adj, [], "étant ce qu'il ou qui il peut être").
+entrée(quiddité, n, [quiddités], "la véritable nature de quelque chose").
+entrée(étagère, n, [étagères], "un ensemble décoratif d'étagères").
+entrée(whatsis, n, [whatsises], "bidule").
+entrée(truc, n, [trucs], "quelque chose dont le nom est inconnu ou oublié").
+entry(quoiquecesoit, pron, [], "quoi ou qui que ce soit").
+entrée(courlis, n, [courlis], "un oiseau européen").
+entry(wheal, n, [wheals], "une cloque").
+entry(blé, n, [blés], "une céréale").
+entrée(traquet, n, [traquets], "un petit oiseau des régions nordiques").
+entrée(wheaten, n, [wheatens], "une couleur jaune pâle").
+entrée(whee, interj, [], "utilisé pour exprimer la joie").
+entrée(flatter, v, [flatté,flattant,flatte], "tenter de persuader par la flatterie").
+entrée(wheedler, n, [wheedlers], "celui qui cajole").
+entrée(roue, v, [roulé, roulant, roues], "transporter sur des roues des cadres circulaires conçus pour tourner sur un axe").
+entrée(wheeler, n, [wheelers], "celui qui conduit").
+entrée(wheelie, n, [wheelies], "une manœuvre effectuée sur un véhicule à roues").
+entry(wheeling, n, [sillons], "la condition d'une route pour les véhicules").
+entry(timonier, n, [timoniers], "un barreur").
+entrée(wheen, n, [wheens], "une quantité assez grande").
+entrée(wheep, v, [wheepa, wheepant, wheepes], "wheepler").
+entry(wheeple, v, [wheepled,wheepling,wheeples], "émettre un sifflement prolongé").
+entrée(siffler, v, [sifflé,sifflement,siffle], "respirer avec un sifflement").
+entrée(wheezer, n, [wheezers], "celui qui souffle").
+entrée(wheezy, adj, [], "PLUS SIFFLANT LE PLUS SIFFLANTcaractérisé par des sifflementsSOUFFLEUSE adv").
+entry(bou de mer, n, [bous de mer], "une pustule").
+entry(whelky, adj, [], "PLUS GONFLÉ GONFLÉ marqué avec des verrues").
+entrée(submerger, v, [submergé,submergeant,submerge], "couvrir d'eau").
+entry(mettre_bas, v, [a_mis_bas,mettant_bas,mettres_bas], "donner naissance à").
+entrée(quand, n, [quands], "le moment où quelque chose est fait ou se produit").
+entrée(lorsque, conj, [], "à quel moment").
+entry(d'où, conj, [], "de quel endroit").
+entrée(quand, conj, [], "à n'importe quel moment").
+entrée(où, n, [oùs], "le lieu où quelque chose est situé ou se produit").
+entrée(alors que, n, [alors qui], "une déclaration introductive d'un document formel").
+entrée(whereat, conj, [], "auquel").
+entrée(whereby, conj, [], "par lequel").
+entry(dans lequel, conj, [], "in which").
+entrée(dont, conj, [], "dont").
+entrée(surquoi, conj, [], "sur lequel").
+entrée(ou, conj, [], "à laquelle").
+entry(n'importe où, conj, [], "dans ou vers n'importe quel endroit").
+entry(wherry, v, [wherried,wherrying,wherries], "transporter dans une légère barque à rames").
+entrée(wherve, n, [wherves], "wharve").
+entrée(aiguiser, v, [aiguisé,aiguisant,aiguise], "affûter par frottement").
+entrée(si, conj, [], "s'il est le cas que").
+entry(whetter, n, [aiguiseurs], "celui qui aiguise").
+entrée(ouf, n, [oufs], "un son sifflement").
+entrée(lactosérum, n, [lactosérums], "la partie aqueuse du laitLACTOSÉRUM LACTOSÉ adj").
+entrée(wheyface, n, [wheyfaces], "un visage pâle et cireux").
+entrée(le_subset_de_lactosérum, adj, [], "ressemblant au lactosérum").
+entrée(quel, pron, [], "quel ou quels particuliers").
+entrée(whicker, v, [whickered, whickering, whickers], "hennir").
+entrée(whid, v, [whiddé,whiddant,whids], "se déplacer rapidement et silencieusement").
+entrée(veuve, n, [veuves], "whydah").
+entrée(renifler, v, [reniflé,reniflant,renifle], "souffler ou transporter par de légères rafales d'air").
+entrée(renifleur, n, [renifleurs], "celui qui renifle").
+entry(whiffet, n, [whiffets], "une personne insignifiante").
+entry(frapper, v, [frappé, frappant, frappe], "se déplacer ou penser de manière erratique").
+entrée(whiffler, n, [whifflers], "celui qui siffle").
+entrée(whiffy, adj, [], "AYANT UNE ODEUR DÉSAGRÉABLE WHIFFIER WHIFFIEST").
+entrée(whig, n, [whigs], "celui qui interprète l'histoire comme une victoire continue du progrès sur les forces réactionnaires").
+entry(tandis, v, [tandisque, tandisqueant, tandises], "faire passer agréablement").
+entrée(whilom, adv, [], "autrefois").
+entrée(tandis, conj, [], "pendant que").
+entrée(caprice, n, [caprices], "une idée impulsive").
+entrée(courlis, n, [courlis], "un oiseau de rivage").
+entrée(gémir, v, [gémit,gémissant,gémissent], "pleurer avec des sons plaintifs brisés").
+entrée(caprice, n, [caprices], "caprice").
+entrée(caprice, n, [caprices], "un caprice adj").
+entry(ajonc, n, [ajoncs], "faux").
+entrée(taraché, n, [tarachés], "un oiseau chanteur").
+entrée(gémir, v, [gémi,gémissant,gémit], "émettre un son plaintif et aigu").
+entrée(gémisseur, n, [gémisseurs], "celui qui gémit").
+entrée(whiney, adj, [], "WHINIER WHINIESTwhiny").
+entrée(whinge, v, [], "WHINGED WHINGEING ou WHINGING WHINGEste pleurnicher").
+entrée(pleurnicheur, n, [pleurnicheurs], "celui qui pleurniche").
+entrée(whingy, adj, [], "PLUS PLAIGNANT, LE PLUS PLAIGNANT, ayant tendance à se plaindre").
+entry(plus_lamenteur, comparatif, [], "de lamenteux et pleurnichard").
+entrée(plus_geignard, superlatif, [], "de geignard et geignard").
+entry(whining, présent, [], "participe de whine").
+entrée(hennissant, adj, [], "HENNISSANT PLUS HENNISSANT LE PLUS HENNISSANTabondant en hennin").
+entry(hennir, v, [henna, hennissant, hennit], "hennir d'une manière douce ou légère").
+entrée(whiny, adj, [], "PLUS CHICHEMENT PLUS CHICHEMENTtendance à se plaindre").
+entry(fouet, v, [foueté,fouettant,fouets], "frapper avec un fouet un instrument pour administrer une punition corporelle").
+entrée(whipcord, n, [whipcords], "un câble solide torsadé").
+entrée(coup_de_fouet, n, [coups_de_fouet], "le coup d'un fouet").
+entrée(whipless, adj, [], "sans fouet").
+entrée(lanièrement, adj, [], "ressemblant à un fouet").
+entry(fouetté, a, [], "passé du verbe fouetter").
+entrée(whipper, n, [whippers], "celui qui fouette").
+entry(whippet, n, [whippets], "un petit chien rapide").
+entrée(fouet, n, [fouets], "matériel utilisé pour fouetter").
+entrée(whippit, n, [whippits], "un petit récipient d'oxyde nitreux").
+entrée(whippy, adj, [], "PLUS FOUETTÉ, LE PLUS FOUETTÉ se rapportant à ou ressemblant à un fouet").
+entry(raie lasso, n, [raies lassos], "une raie").
+entrée(whipsaw, v, [whipsawed, whipsawn, whipsawing], "WHIPSAWS couper avec une scie à ruban étroite").
+entrée(fouetté, a, [], "temps passé de fouetter").
+entrée(whiptail, n, [whiptails], "un lézard ayant une longue queue mince").
+entry(trichocéphale, n, [trichocéphales], "un ver parasite").
+entrée(whir, v, [whirred, whirring, whirs], "se déplacer avec un son de bourdonnementTOURNER v TOURNÉ TOURNANT TOURNERtourner rapidementTOURNER n pl TOURNERSpersonne qui tourneTOURNANT adj TOURNÉ TOURNANT LE PLUS TOURNÉmarqué par un mouvement tournantTOURBILLON n m pl TOURBILLONSun petit tornadeZUUUU v TOURNÉ TOURNANT TOURNÉfaire un tourTOURNÉ passé du verbe tournerTOURNANT participe présent de tournerZUUU v TOURNÉ ZUEZ-ZUEZ ZUEZfaire tournerZUUUU v ZUUUUZ ZUUUUU ZUUAvenirZIZZ v ZIZZÉ ZIZZANT ZIZZfaire un bourdonnement ou un sifflementZIZZBANG n m pl BOUMUne sorte de coquille explosiveZIZZLER n pl ZIZZLERScelui qui zizZIZZES présent de 3e personne singulier du verbe zizZIZZANT participe présent de fairizaZZY adj ZIZZERÉ ZIZZIQuant ou fouUn personnage ou un personnageZIII n pl ZIIIUne bouteille contenantZWA n pl ZWAsummiümmeWOO v WOOÉ WOOING WOOFAchercher des affections deWOOABLE adj).
+entrée(xanthane, n, [xanthanes], "une gomme produite par la fermentation bactérienneXANTHATE n pl XANTHATESun sel chimiqueXANTHEIN n pl XANTHEINSlapartie hydrosoluble de la matière colorante dans les fleurs jaunesXANTHENE n pl XANTHENESun composé chimiqueXANTHIC adj ayant une tendance à avoir une couleur jauneXANTHIN n pl XANTHINSun pigment jauneXANTHINE n pl XANTHINESun composé chimiqueXANTHOMA n pl XANTHOMAS ou XANTHOMATAune maladie de la peauXANTHONE n pl XANTHONESun composé chimiqueXANTHOUS adj jauneXEBEC n pl XEBECSun navire de voile méditerranéenXENIA n pl XENIASl’effet du pollen sur certaines structures de plantesXENIAL adjXENIC adj se rapportant à un type de milieu de cultureXENOGAMY n pl XENOGAMIESle transfert de pollen d'une plante à une autreXENOGENY n pl XENOGENIESla production supposée de la progéniture totalement différente du parentXENOLITH n pl XENOLITHSun fragment de roche inclus dans une autre rocheXENON n pl XENONSun élément gazeuxXENOPUS n pl XENOPUSESune grenouille originaire d'Afrique du SudXENOTIME n pl XENOTIMESun minéral brun jaunâtreXERARCH adj se développant dans une zone sècheXERIC adj nécessitant seulement une petite quantité d'humiditéXEROSERE n pl XEROSERESune série terrestre sècheXEROSIS n pl XEROSISsécheresse anormale d'une partie du corps ou tissuXEROTIC adjXEROX v XEROXÉ XEROXANT XEROXÉpour copier sur un copieur xérographiqueXERUS n pl XERUSESun écureuil terrestre africainXI n pl XIS une lettre grecqueXIPHOIDE n pl XIPHOIDESune partie du sternumXU n pl XUune unité monétaire du VietnamXYLAN n pl XYLANSune substance présente dans les parois cellulaires des plantesXYLEM n pl XYLEMSun tissu végétal complexeXYLÈNE n pl XYLÈNESun hydrocarbure inflammableXYLIDIN n pl XYLIDINSxylidineXYLIDINE n pl XYLIDINESun composé chimiqueXYLITOL n pl XYLITOLSun alcoolXYLOCARPE n pl XYLOCARPESun fruit boisé durXYLOID adj ressemblant à du boisXYLOL n pl XYLOLSxylèneXYLOSE n pl XYLOSESun type de sucreXYLOTOMIE n pl XYLOTOMIESla préparation de sections de bois pour l'examen microscopiqueXYLYL n pl XYLYLSun radical univalentXYST n pl XYSTSxysteXYSTER n pl XYSTERSun instrument chirurgical pour gratter les osXYSTOS n pl XYSTOIXysteXYSTUS n pl XYSTun espace couvert où les athlètes s'entraînaient dans l'ancienne Grèce").
+```prolog
+entrée(ya, n, [yas], "une poire asiatiqueBAVARDER v BAVARDAIT BAVARDANT BAVARDERpour jacasserCREVETTE n pl CREVETTESyabbyECRAW n pl ÉCREVETTES une écrevisse australienneYACHT v YACHTED YACHTING YACHTpour naviguer dans un yacht un navire utilisé pour la croisière ou la courseYACHTER n pl YACHTERSune personne qui navigue en yachtYACHTIE n pl YACHTIESun yachtIER VOILE n pl VOILESthe sport de naviguer en yachtsYACHTMAN n pl YACHTMENune personne qui navigue un yachtVOMIR v HUMED HUMING HMODpour aboyerÉGLANTINE n pl ÉGLANTINESle pique-prunier européenVERT n pl VERTune granit synthétiqueYAGE n pl YAGES une vigne tropicale de la région amazonienneJAUGER v JAUGEAI JAUGEANTJAUGERpour râlerGARROTT n pl GARROTTS une antenne à ondes courtesYAH EXPLoration utilisé comme une exclamation de dégoûtYAHOO n pl YAHOOSune personne grossière et sauvageYAHOOISM n pL YAHOOISMSune comportement grossier et sauvageANNÉE souligné pour les juifsYEARD n pl YARDSun jardinYAK v YAKED YAKYING YAKpour bavarderYAKITORI n pl YAKITORISmorceaux de poulet marinés sur des brochettesYAKKER n pl YAKSune qui bavardeYAKUZA n pl YAKUZAune alliance des organisations criminelles japonaisesYALD ADJ YAULDyam plante a une racine comestibleYAMALKA n pl YAMALKA syarmulkeRESIDENCESN le jeu des résidencesYESeng brotherhood les colons HeimhoodSyeilageONEILLE n pl OREILLEn les oreillesEEL v NAUSONS CAUSANT NAUsons de se décaler des souris prévusYAWNING le delta atteint où les rangées du GROUillonsTENPOOLELa fibre de CrookCROOKYoverYOMITUDE" adv.iwis").
+```
+entrée(za, n, [zas], "une pizzaZABAIONE n pl ZABAIONESun dessert ressemblant à de la crèmeZABAJONE n pl ZABAJONESzabaioneZACATON n pl ZACATONSune herbe mexicaineZADDICK n pl ZADDIKIMzaddikZADDIK n pl ZADDIKIMune personne vertueuse selon les normes religieuses juivesZAFFAR n pl ZAFFARSzafferZAFFER n pl ZAFFERSune couleur céramique bleueZAFFIR n pl ZAFFIRSzafferZAFFRE n pl ZAFFRESzafferZAFTIG adj plein de formesZAG v ZAGGED ZAGGING ZAGimbourner brusquementZAIBATSU n pl ZAIBATSUun puissant conglomérat familial au JaponZAIDA n pl ZAIDASzedaZAIDEH n pl ZAIDEHSzedaZAIDY n pl ZAIDIESzedaZAIKAI n pl ZAIKAISla communauté des affaires du JaponZAIRE n pl ZAIRESun ancienité monétaire du ZaïreZAKAT n pl ZAKATSun paiement annuel requis par la loi islamique sur certains types de biensZAMARRA n pl ZAMARRASun manteau en peau de moutonZAMARRO n pl ZAMARROSzamarraZAMIA n pl ZAMIASune plante tropicaleZAMINDAR n pl ZAMINDARSun percepteur d'impôts en Inde précolonialeZANANA n pl ZANANASzenanaZANDER n pl ZANDERSun poisson d'eau douceZANINESS n pl ZANINESSESl'état ou la qualité d'être farceurZANY adj ZANIER ZANIESTd'un comique ridiculeZANILY advZANY n pl ZANIESune personne farceuseZANYISH adj quelque peu farceurZANZA n pl ZANZASun instrument de musique africainZAP v ZAPPED ZAPPING ZAPtuer ou détruire instantanémentZAPATEO n pl ZAPATEOSune danse espagnoleZAPPER n pl ZAPPERSun dispositif qui zapZAPPY adj ZAPPIER ZAPPIESTenjouéZAPTIAH n pl ZAPTIAHSun policier turcZAPTIEH n pl ZAPTIEHSzaptiahZARATITE n pl ZARATITESun composé chimiqueZAREBA n pl ZAREBASune palissade improviséeZAREEBA n pl ZAREEBASzarebaZARF n pl ZARFSun support métallique pour une tasse de caféZARIBA n pl ZARIBASzarebaZARZUELA n pl ZARZUELASune opérette espagnoleZASTRUGA n pl ZASTRUGIsastrugaZAX n pl ZAXESun outil pour couper les ardoises de toitZAYIN n pl ZAYINSune lettre hébraïqueZAZEN n pl ZAZENla méditation dans le bouddhisme zenZEAL n pl ZEALSdevotion enthousiasteZEALOT n pl ZEALOTSun zéléZEALOTRY n pl ZEALOTRIESzèle excessifZEALOUS adj rempli de zèleZEATIN n pl ZEATINSun composé chimique trouvé dans le maïsZEBEC n pl ZEBECSxebecZEBECK n pl ZEBECKSxebecZEBRA n pl ZEBRASun mammifère africain apparenté au chevalZEBRAIC adjZEBRANO n pl ZEBRANOSun arbre au bois rayéZEBRASS n pl ZEBRASSESla progéniture d'un zèbre et d'un âneZEBRINE n pl ZEBRINESla progéniture d'un cheval mâle et d'une zèbre femelleZEBROID adj ressemblant à un zèbreZEBU n pl ZEBUSun bœuf asiatiqueZECCHIN n pl ZECCHINSzecchinoZECCHINO n pl ZECCHINOS ou ZECCHINIune ancienne pièce d'or d'ItalieZECHIN n pl ZECHINSzecchinoZED n pl ZEDSun ZEDA n pl ZEDASgrand-pèreZEDOARY n pl ZEDOARIESla racine médicinale d'une plante tropicaleZEE n pl ZEESla lettre ZZEIN n pl ZEINSune protéine simpleZEK n pl ZEKSun détenu dans un camp de travail soviétiqueZELKOVA n pl ZELKOVASun arbre japonaisZEMINDAR n pl ZEMINDARSzamindarZEMSTVO n pl ZEMSTVOS ou ZEMSTVAun conseil électif dans la Russie tsaristeZENAIDA n pl ZENAIDASune colombe sauvageZENANA n pl ZENANASla partie d'une maison en Inde réservée aux femmesZENDO n pl ZENDOSun endroit où méditent et étudient les bouddhistes zenZENITH n pl ZENITHSl'apogéeZENITHAL adjZEOLITE n pl ZEOLITESun minéralZEOLITIC adjZEP n pl ZEPSun long sandwichZEPHYR n pl ZEPHYRSune brise légèreZEPPELIN n pl ZEPPELINSan dirigeable rigide longZEPPOLE n pl ZEPPOLES ou ZEPPOLIa une pâtisserie friteZERK n pl ZERKSun raccord à graisseZERO v ZEROED ZEROING ZEROES ou ZEROStaurer au centre exact d'une cibleZEROTH adj étant numéroté zéro dans une sérieZEST v ZESTED ZESTING ZESTremplir de zeste d'une excitation vivifianteZESTER n pl ZESTERSun ustensile pour peler le zeste d'agrumesZESTFUL adj plein de zesteZESTLESS adj manquant de zesteZESTY adj ZESTIER ZESTIESTmarqué par le zesteZESTILY advZETA n pl ZETASune lettre grecqueZETETIC adj procédant par enquêteZEUGMA n pl ZEUGMASl'utilisation d'un mot pour modifier ou régir deux mots ou plus tout en s'appliquant à chacun dans un sens différentZIBELINE n pl ZIBELINESun tissu douxZIBET n pl ZIBETSun civette d'AsieZIBETH n pl ZIBETHSzibetZIG v ZIGGED ZIGGING ZIGtourner brusquementZIGGURAT n pl ZIGGURATSune tour de temple babylonienne ancienneZIGZAG v ZIGZAGGED ZIGZAGGING ZIGZAGsuivre une route marquée par des virages serrésZIGZAGGY adj marqué par des virages serrésZIKKURAT n pl ZIKKURATSziggouratZIKURAT n pl ZIKURATSziggouratZILCH n pl ZILCHESrienZILL n pl ZILLSun d'une paire de cymbales fingerZILLAH n pl ZILLAHSun district administratif en IndeZILLION n pl ZILLIONSun nombre indéterminément grandZIN n pl ZINSun vin rouge secZINC v ZINCED ZINCING ZINC ou ZINCKED ZINCKING ZINCture de zinc une élément métalliqueZINCATE n pl ZINCATESun sel chimiqueZINCIC adj relatif au zincZINCIFY v ZINCIFIED ZINCIFYING ZINCIFIErecouvrir de zincZINCITE n pl ZINCITESun minerai de zincZINCKED une forme passée de zincZINCKING une participe présente de zincZINCKY adj ressemblant à du zincZINCO n pl ZINCOSune plaque d'impression en zinc pour impression en reliefZINCOID adj zincicZINCOUS adj zincicZINCY adj zinckyZINE n pl ZINESune revueZINEB n pl ZINEBSun insecticideZING v ZINGED ZINGING ZINGdéplacer avec un son aigu et bourdonnantZINGANO n pl ZINGANIzingaroZINGARA n pl ZINGAREune gitaneZINGARO n pl ZINGARIun gitanZINGER n pl ZINGERSune réplique ou remarque pointue et spirituelleZINGY adj ZINGIER ZINGIESTagréablement excitantZINKIFY v ZINKIFIED ZINKIFYING ZINKIFIErecouvrir de zincZINKY adj zinckyZINNIA n pl ZINNIASune plante tropicaleZIP v ZIPPED ZIPPING ZIPdéplacer avec vitesse et vigueurZIPLESS adj manquant de vigueur ou d'énergieZIPLOCK adj avec une rainure et une crête qui forment un joint étanche quand ils sont jointsZIPOLA n pl ZIPOLASrienZIPPER v ZIPPERED ZIPPERING ZIPPERfermer avec une fermeture éclair, un fermoir constitué de deux rangées de dents entrelacéesZIPPO n pl ZIPPOSrienZIPPY adj ZIPPIER ZIPPIESTplein d'énergieZIPPILY advZIRAM n pl ZIRAMSun sel chimiqueZIRCALOY n pl ZIRCALOYSun alliage de zirconiumZIRCON n pl ZIRCONSun minéralZIRCONIA n pl ZIRCONIASun composé chimiqueZIRCONIC adj relatif à l'élément métallique zirconiumZIT n pl ZITSun boutonZITHER n pl ZITHERSun instrument à cordesZITHERN n pl ZITHERNSzitherZITI n pl ZITISun pâte tubulaireZIZIT npl zizithZIZITH npl les franges aux quatre coins d'un châle de prière juifZIZZ n ZIZZED ZIZZING ZIZZfaire un son de bourdonnementZIZZLE v ZIZZLED ZIZZLING ZIZZLEgrésillerZLOTY n pl ZLOTYSune unité monétaire de la PologneZOA a pl de zoonZOARIUM n pl ZOARIAune colonie de bryozoairesZOARIAL adjZOCALO n pl ZOCALOun square public dans une ville ou un village mexicainZODIAC n pl ZODIACSun cercle imaginaire entourant la sphère célesteZODIACAL adjZOEA n pl ZOEAS ou ZOEAEune forme larvaire de certains crustacésZOEAL adjZOECIUM n pl ZOECIAzooeciumZOETROPE n pl ZOETROPEunce jouet optique dans lequel une série d'images tourne pour donner l'illusion du mouvementZOFTIG adj zaftigZOIC adj relatif aux animaux ou à la vie animaleZOISITE n pl ZOISITESun minéralZOMBI n pl ZOMBISzombisZOMBIE n pl ZOMBIESun humain sans volonté, capable uniquement de mouvements automatiquesZOMBIFY v ZOMBIFIED ZOMBIFYING ZOMBIFIEltransformer en zombieZOMBIISM n pl ZOMBIISMEsystème de croyances lié à un dieu-serpent ouest-africainZONA n pl ZONAEune substance transparente entourant l'ovule des mammifèresZONAL adj relatif à une zoneZONALLY advZONARY adj zonalZONATE adj disposé en zonesZONATED adj zonateZONATION n pl ZONATIONSl'agencement en zonesZONE v ZONED ZONING ZONEorganiser en zones, zones distinguées des autres zones adjacentesZONELESS adj sans zone ou ceintureZONER n pl ZONERSquelqu'un qui zoneZONETIME n pl ZONETIMESheure standard utilisée en merZONING n pl ZONINGSl'aménagement d'une ville ou d'une terre en zones soumises à des restrictions de planificationZONK v ZONKED ZONKING ZONKsidéifierZONULA n pl ZONULAS ou ZONULAEzonuleZONULE n pl ZONULESun petite zoneZONULAR adjZOO n pl ZOOSun endroit où les animaux sont gardés pour exposition publiqueZOOCHORE n pl ZOOCHOREun plante dispersée par des animauxZOOECIUM n pl ZOOECIAun sac sécrété et habité par un organisme aquatiqueZOOEY adj ZOOIER ZOOIESTressemblant à un zooZOOGENIC adj causé par les animaux ou leurs activitésZOOGENY n pl ZOOGENIESthe développement ou l'évolution des animauxZOOGLEA n pl ZOOGLEAS ou ZOOGLEAEune masse gélatineuse de bactériesZOOGLEAL adjZOOGLOEA n pl ZOOGLOEAS ou ZOOGLOEAEzoogleaZOOID n pl ZOOIDSun cellule ou corps organique capable de mouvements indépendantsZOOIDAL adjZOOKS interj  utilisé comme un serment douxZOOLATER n pl ZOOLATERScelui qui adore les animauxZOOLATRY n pl ZOOLATRIESl'adoration des animauxZOOLOGY n pl ZOOLOGIESthe science qui traite des animauxZOOLOGIC adjZOOM v ZOOMED ZOOMING ZOOMdéplacer avec un son fort et bourdonnantZOOMABLE adj capable d'être visualisé à divers niveaux de détail et de grossissementZOOMANIA n pl ZOOMANIASun intérêt excessif pour les animauxZOOMETRY n pl ZOOMETRIESla mesure des animaux ou des parties animalesZOOMORPH n pl ZOOMORPHSquelque chose en forme d'animalZOON n pl ZOONS ou ZOAl'intégralité d'un œuf fécondéZOONAL adjZOON v ZOONED ZOONING ZOONzoomiserZOONOSIS n pl ZOONOSUn maladie qui peut être transmise des animaux aux humainsZOONOTIC adjZOOPHILE n pl ZOOPHILEScelui qui aime les animauxZOOPHILY n pl ZOOPHILIESamour des animauxZOOPHOBE n pl ZOOPHOBESquelqu'un qui craint ou déteste les animauxZOOPHYTE n pl ZOOPHYTESCun animal invertébréZOOSPERM n pl ZOOSPERMSun élément fertilisant mâle d'un animalZOOSPORE n pl ZOOSPORESune sorte de sporeZOOTOMY n pl ZOOTOMIESla dissection des animauxZOOTOMIC adjZOOTY adj ZOOTIER ZOOTIESTflamboyant en manière ou en styleZORI n pl ZORISune sorte de sandaleZORIL n pl ZORILSune petit mammifère africainZORILLA n pl ZORILLASzorilZORILLE n pl ZORILLESzorilZORILLO n pl ZORILLOSzorilZOSTER n pl ZOSTERSune maladie viraleZOUAVE n pl ZOUAVESun fantassin françaisZOUK n pl ZOUKSur musique de danse des Antilles françaisesZOUNDS interj  used pour un serment douxZOWEE interj zowieZOWIE interj  utilisé pour exprimer surprise ou plaisirZOYSIA n pl ZOYSIASune herbe vivaceZUCCHINI n pl ZUCCHINISun légumeZUGZWANG n pl ZUGZWANGSun situation aux échecs qui force un mouvement désavantageuxZUPPA n pl ZUPPASun soupe de poissonZUZ n pl ZUZIt'sune ancienne pièce d'argent hébraïqueZWIEBACK n pl ZWIEBACKSun pain sucréZYDECO n pl ZYDECOSla musique populaire sud-louisianaiseZYGOID adj relatif à un zygoteZYGOMA n pl ZYGOMAS ou ZYGOMATAos zygomatiqueZYGOSIS n pl ZYGOSunion des deux gamètesZYGOSE adjZYGOSITY n pl ZYGOSITIESconstitution d'un zygote particulierZYGOTE n pl ZYGOTESun cellule formée par l'union de deux gamètesZYGOTIC adjZYGOTENE n pl ZYGOTENESun stade de la méioseZYMASE n pl ZYMASESune enzymeZYME n pl ZYMESune enzymeZYMOGEN n pl ZYMOGENSune substance qui devient une enzyme lorsqu'elle est adéquatement activéeZYMOGENE n pl ZYMOGENESzymogenZYMOGRAM n pl ZYMOGRAMSun enregistrement de protéines séparées après électrophorèseZYMOLOGY n pl ZYMOLOGIESthe science de la fermentationZYMOSAN n pl ZYMOSANSun fraction insoluble de parois cellulaires de levureZYMOSIS n pl ZYMOSESfermentationZYMOTIC adjZYMURGY n pl ZYMURGIESla branche de la chimie traitant de la fermentationZYZZYVA n pl ZYZZYVASun charançon tropicalZZZ interj  utilisé pour suggérer le son du ronflement").
+entrée(q, mots, [], "pas suivi par U BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+entrée(mots, avec, [], "pas de voyelles AEIOU BYHMMMMYSHBRRBYSCRYCWMDRYFLYFRYGRRGYMGYPHMMHYPMMMMYCNTHPHTPLYPRYPSTPYXSHHSHYSKYSLYSPYSTYSYNTHYTRYTSKWHYWRYWYNZZZBRRRBYRLCWMSCYSTDRYSGYMSGYPSHWYLHYMNHYPSLYCHLYNXMYCSMYTHPFFTPSSTRYNDSCRYSHHHSKRYSPRYSYNCSYPHTSKSTYPPTYPYWHYSWYCHWYNDWYNNWYNSXYSTBYRLSCRWTHCRYPTCYSTSDRYLYFLYBYGHYLLGLYPHGRRRLGYPSYHWYLSHYMNSLYMPHLYNCHMYRRHMYTHSMYTHYNYMPHPHPHTPSYCHPYGMYRYNDSSHYLYSLYLYSTYMYSYLPHSYNCHSYNCSSYNTHSYPHSTHYMYTRYSTTYPPSWRYLYWYNDSWYNNSXYLYLXYSTSCRWTHSCRYPTSFLYBYSFLYSCHGHYLLSGLYCYLGLYPHSGRRRLSLYMPHSMYRRHSMYRRHYNYMPHSPSYCHSRHYTHMSPHYNXSPRYLYSYLPHSSYLPHYSYNCHSSYNTHSSYZYGYTRYSTSTSKTSKXYLYLSGLYCYLSRHYTHMSTSKTSKS").

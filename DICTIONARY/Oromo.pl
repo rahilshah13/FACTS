@@ -6912,3 +6912,828 @@ entry(coddle, v, [coddled, coddling, coddles], "jaalallee mitii").
 entry(coddler, n, [coddlers], "kan mararsiisu").
 entry(koodii, v, [koodette, koodessuu, koodiiwwan], "gara tullaatti jijjiiruu").
 entry(kitabicha, n, [kitaboota], "kitabni jechoota fi walmakaa isaanii tarreessee agarsiisu").
+entry(codebtor, n, [codebtors], "kan wal-qoodinsa, nama walii-bahiinsa qabaachuun walitti himamu").
+galmee(codec, n, [codecs], "seeraawwan walitti makaman").
+entry(coded, darbe, [], "yeroo maxxansa").
+entry(codeia, n, [codeias], "koodiin").
+entry(codein, n, [codeins], "koodeeniin").
+entry(codeina, n, [koodinsii], "codeine").
+entry(koodeeni, n, [koodeeniwwan], "alkaloyidii narkootikaa").
+entry(codeless, adj, [], "kan seera hin qabne").
+entry(coden, n, [codens], "muuddii koodii").
+entry(coder, n, [coders], "kan sirreessu").
+entry(coderive, v, [coderived,coderiving,coderives], "walitti maddisiisuu").
+entry(codesign, v, [wal-qopheessa, wal-qopheessuu, wal-qopheessu], "wajjin qopheessuuf").
+entry(codex, n, [codices], "kutaa:-yoogii durii").
+entry(lafaangoo, n, [lawachi], "qallaa galaanaa nyaatamu").
+entry(codger, n, [codgers], "jaarsa").
+entry(codices, pl, [], "kan codex").
+entry(kodhisil, n, [kodhisiloota], "dabalata wasiyyaatti").
+galmee(kodifayir, n, [kodifayiroota], "isaa kodifayyuu").
+entry(codify, v, [codified,codifying,codifies], "qindeessuufi qajeelchuu").
+entry(coding, n, [codings], "tatamsa'ina gara mallattoo jijjiiruu").
+entry(codirect, v, [codirected,codirecting,codirects], "hoggantummaakka ykn qajeelcha waliin dhiyeessu").
+entry(codlin, n, [codlins], "codling").
+galmee(codling, n, [codlings], "ananaas hin gihin, raqabee").
+galii(gaafadhuu, lakkoofsa, [qorannoowwan], "kuusaa herregaa").
+entry(codon, n, [codons], "sadii keessaa odeeffannoo nuukilotayidii akaaku DNA bu'uura godhachuuf").
+entry(codpiece, n, [codpieces], "balaqqeessa ulfaa'aa golgaa fiqirii namootaa ta'ee uffatame").
+entry(codrive, v, [codrove,codriven,codriving], "CODRIVE akka koodrayiveritti hojjechuu").
+galmee(irrattifiigii, n, [irrattifiigoota], "namni konkolaataa bakka jijjiiramaa oofuu").
+entry(coed, n, [coeds], "barataa dubaraa").
+entry(coedit, v, [coedited,coediting,coedits], "wajjin gulaaluuf").
+entry(coeditor, n, [coeditors], "namni tokko walitti gulaala").
+entry(coeffect, n, [coeffects], "raawwiin waliin dhufu").
+entry(coeliac, n, [coeliacs], "cilaayakii").
+entry(coelom, n, [coeloms], "ykn COELOMATAqaama keessatti boson awwaannoon qaama waliin jireenya sun urji!")
+entry(coelome, n, [coelomes], "koelomii").
+entry(coembody, v, [coembodied,coembodying,coembodies], "tajaajila waliin fakkaataa").
+entry(coemploy, v, [coemployed,coemploying,coemploys], "waliin hojjachiisuuf")
+entry(coempt, v, [ coempted, coempting, coempts], "guddina dhiheessaa guutuu bituu").
+entry(coenact, v, [walqixa hojjachuu, walqixa hojjachaa jiru, walqixa hojjatu], "waliinis yookin yeroo walfakkaatu hojjachuu").
+entry(coenamor, v, [coenamored,coenamoring,coenamors], "wal-jaalala walitti qabuu").
+entry(coendure, v, [coendured,coenduring,coendures], "walitti obsaachuuf").
+entry(coenure, n, [coenures], "coenurus").
+entry(coenurus, n, [coenuri], "ilbiisni harmaakka").
+entry(koyinziimii, n, [koyinziimota], "wantoota ensaayimoonni muraasa hojii akka hojjetan taasisan").
+entry(hofkanqixxa, n, [hofkanqixxota], "kan biroo wajjin walqixa tahe").
+entry(qixxu, v, [qixxufame,qixxufamaa,qixxufa], "wanta biraan walqixxeessuu").
+entry(coerce, v, [coerced,coercing,coerces], "waliin bitamuun isaan dirqisiisuu").
+entry(coercer, n, [coercers], "kan dirqisiisu tokko").
+entry(qabata, n, [qabannoowwan], "hojii qabachiisuu").
+entry("dirqisiisa", adj, [], "kan dirqisiisu").
+entry(coerect, v, [coerected,coerecting,coerects], "waliin ijaaruuf").
+entry(coesite, n, [coesites], "gosa silikaa").
+entry(hammattuu, n, [hammattoota], "kan yeroo yookaan bar tokkoo waliin ta'e").
+entry(coevally, adv, [], "walfaana").
+entry(coevolve, v, [walsiman, walsimamaa, walsimu], "walitti guddachuu").
+entry(coexert, v, [coexerted,coexerting,coexerts], "waliin hojjachuu").
+entry(waliin_jiraachuu, v, [waliin_jiraatanii,waliin_jiraachaa_jiru,waliin_jiraata], "walitti jiraachuu").
+entry(waan waliin tajaajili, v, [waan waliin tajaajilame, waan waliin tajaajilaa jiru, waan waliin tajaajila], "akka wanta biraatiin yeroo ykn lafa walfakaataa faa'uf dheeressuuf").
+entry(cofactor, n, [cofactors], "kooyenzeemi").
+entry(coff, v, [coft,coffing,coffs], "bituu").
+entry(qoricha, n, [qorichoota], "dhugaatii foolii urgooftu humna suuta dabaluutu").
+entry(coffer, v, [coffered, coffering, coffers], "hammamuufi sanduuqa jabaa keessa galchuu").
+galmee(taabota_aarsaa, v, [taabotni_aarsaa,taaboticha_aarsu,taabotota_aarsaa], "ufiif taabotaa aarsaa godhu").
+entry(coffing, present, [], "qooda jecha 'coff' yookiin 'atattama'").
+entry(coffle, v, [coffled,coffling,coffles], "gabroota gadhiisisuuf walitti ida'uu").
+entry(coffret, n, [coffrets], "sanduuqa xiqqaa jabaa").
+entry(miseensa-kaameraessa, v, [miseens-kameressan, miseens-kaameraessu, miseensa-kaameraessu], "kaameraa sanachuun").
+galmee(coft, yeroo_dabree, [], "yeroo qabaataa coft").
+entry(cog, v, [cogged,cogging,cogs], "dogoggorii lallaba").
+entry(cogency, n, [cogencies], "haala itti agarsiisu dangessa").
+entry(cogent, adj, [], "waan qaanessaa ta'eCOGENTLY adv").
+entry(cogitate, v, [cogitated,cogitating,cogitates], "yaadu").
+entry(cogito, n, [cogitos], "kaayyoo seera-qalqulleeffamaa").
+entry(cognac, n, [cognacs], "daadhi").
+entry(cognate, n, [cognates], "kan biraa wajjiin wal qabate tokko").
+entry(cognise, v, [cognised,cognising,cognises], "beekuu").
+entry(cognize, v, [cognized,cognizing,cognizes], "waanta yaadaan nama tokko keessatti beekamuuf ta'uu").
+entry(cognizer, n, [cognizers], "kan beeka").
+entry(cognomen, n, [cognomens], "ykn COGNOMINAa maqa sanyii").
+entry(cognovit, n, [cognovits], "qaama itti gaafatamummaa barreessitee beekamuu").
+entry(cogoon, n, [cogoons], "gaaraa dheeraa kan biyyoota sirrisa biqiluu").
+entry(cogway, n, [cogways], "karaarra xiyya qabu roobii hojjechuu").
+entry(cogwheel, n, [cogwheels], "hubboo fiigaa").
+entry(cohabit, v, [cohabited,cohabiting,cohabits], "walmalees hin heerumin waliin jiraachuu").
+entry(cohead, v, [coheaded,coheading,coheads], "gabaabaa teessoo walitti qindeessuu").
+entry(coheir, n, [coheirs], "dhala waloo").
+entry(cohere, v, [cohered,cohering,coheres], "walitti qabamu").
+entry(coherent, adj, [], "walitti dhufeenya qaba").
+entry(coherer, n, [coherers], "meeshaa kan raadiyoo wayivii sirreessuuf oolu").
+entry(cohesion, n, [cohesions], "raawwii yookaan haala wal-hidhachuu").
+galmee(coho, n, [cohos], "salmon xiqqaa").
+entry(cohobate, v, [cohobated,cohobating,cohobates], "dibuu dhaanii itti fufuuf").
+entry(cohoe, n, [cohoes], "coho").
+entry(cohog, n, [cohogs], "quahog").
+entry(coholder, n, [coholders], "sirri-ngataa fii nama biraan");
+entry(cohort, n, [cohorts], "hiriyyaa ykn michuu").
+entry(cohosh, n, [cohoshes], "midhanii uffataa").
+entry(cohost, v, [waleessa,walitti,aanee], "waliin qopheessuu").
+entry(cohune, n, [cohunes], "muka harbuu").
+entry(coif, v, [jaala'e, jaaluu, jaalamu], "ukkaamsa qaamni irratti hojjetu qopheessuu").
+entry(coiffe, v, [coiffed, coiffing, coiffes], "koofii godhuu").
+```prolog
+entry(coiffeur, n, [coiffeurs], "dhagna-luqaa dhalaa").
+```
+entry(coiffure, v, [coiffured,coiffuring,coiffures], "coif gochuuf").
+entry(coign, v, [coigned,coigning,coigns], "qubannoo godha").
+entry(coigne, v, [coigned,coigning,coignes], "quuxxa'uu").
+entry(coil, v, [coiled,coiling,coils], "maxxansi yeroo guguddaa walitti maruu").
+entry(coiler, n, [coilers], "kan wiixachuu").
+entry(sillaalee, v, [sillaalees, sillaaleessi, sillaaleessaa], "sillaalee gosa maallaqaa metaalawa taasisuuCOINABLE adj").
+entry(coinage, n, [coinages], "raha uumuun").
+entry(walitti citu, v, [walitti cite, walitti cituu, walitti cituu], "iddoo tokkotti jiraachuu").
+entry(coiner, n, [coiners], "nama maallaqaa oolu").
+entry(coinfect, v, [coinfected,coinfecting,coinfects], "dhibee lamaan yookiin waan lamaatiin dhukkuba'u").
+entry(coinfer, v, [hirmaata, hirmaachu, hirmaata], "hubannoo waliin keessaa argachuuf").
+entry(coinhere, v, [coinhered,coinhering,coinheres], "wal taanee jiraachuuf").
+entry(coinmate, n, [coinmates], "walakkaa hidhamtootaa").
+galmee(coinsure, v, [coinsured,coinsuring,coinsures], "waliin eegsisuu").
+entry(cointer, v, [cointerred, cointerring, cointers], "walitti awwaaluuf").
+entry(coinvent, v, [wal-qopheesse,wal-qopheessaa,wal-qopheessu], "wal-qopheessuu").
+entry(coir, n, [coirs], "ulfoon niyyaata cuunfatametti irraa argamu").
+entry(coistrel, n, [coistrels], "duree-nyaataa").
+entry(coistril, n, [coistrils], "coistrel").
+entry(hawaasa, n, [hawaasota], "walqunnamtii saalaa").
+entry(coitus, n, [coituses], "walqunnamtii saalaaCOITAL adjCOITALLY adv").
+entry(waan_dabaluu, v, [dabalame,dabalaa,waantu_daballee], "walitti dabaluuf").
+entry(kokii, v, [kokiime, kokiisa, koka], "galaana kaarboon taasisuu").
+entry(cokehead, n, [cokeheads], "namni kookeeniitiin hin qabaman").
+entry(cokelike, yaa, [], "kan kookii fakkaatu, kan kaarboonii boba’uu").
+entry(coking, n, [cokings], "prosesii geengoo gara kookii gogsuu, boba’aa kaarboonii").
+entry(coky, adj, [], "akka cokee").
+entry(col, n, [cols], "bosona giddugala gaara fi gaara keessaa jiru").
+entry(cola, n, [colas], "dhugaatii kaarboonii qabuu").
+entry(colander, n, [colanders], "meeshaa kitchinii bishaan gara dheedhii sirraa'uuf oolu").
+entry(colby, n, [colbys], "affaasha mi'aawa").
+entry(cold, adj, [], "COLDER COLDESTho'aa xiqqaa ykn ho'a hin qabuu").
+entry(dhaxanii, n, [dhaxaniilee], "hanqina qaawwaa oowwaa ykn qabbana").
+entry(coldcock, v, [coldcocked,coldcocking,coldcocks], "hanga hin beekneetti ni dhahame").
+entry(coldish, adj, [], "ho'ina dhaabbataa").
+entry(qabbanaadhan, adv, [], "akka qabbanaatti").
+entry(qabbana, n, [qabbanoowwan], "haala qabbana'aa ta'uu").
+entry(cole, n, [coles], "daamaa maatii kaabajii keessatti argamu").
+entry(colead, v, [coled,coleading,coleads], "waliin geggeessu").
+entry(coleader, n, [coleaders], "kan waliin hoggana").
+entry(coleseed, n, [coleseeds], "kolza").
+entry(coleslaw, n, [coleslaws], "salata kan kaabaaji firfirfatee irraa hojjetame").
+entry(colessee, n, [colessees], "kireessota waloon").
+entry(colessor, n, [colessoroota], "kireessa waloo").
+entry(kolee’usi, n, [kolee’usota], "biiftuu awt’aaltiikii tokko".).
+entry(colewort, n, [coleworts], "cole").
+entry(colic, n, [colics], "dhibee garaa abbabaa").
+entry(kolisiin, n, [kolisiinota], "akka antibakteeriyalatti hojjettu").
+entry(kolisiinota, n, [kolisiinota], "kolisiini").
+entry(colicky, adj, [], "kan walqabatu yookan waliin raawwatu kolikii").
+entry(colies, pl, [], "kan kolii").
+entry(coliform, n, [koliformota], "baakiteriya qaama fincaan keessatti argamu").
+entry(colin, n, [colins], "qubeela").
+entry(colinear, adj, [], "kan xixiqqoo keessa marga").
+seensa(koliseemii, n, [koliseemoota], "kaayyoo bashannanaa uummatatiif ijaaramtuu tokkoffaa gudduu").
+entry(colistin, n, [colistins], "kan antibaayootiikii").
+entry(koleetisi, n, [koleetisota], "hubaafi ujummoo gubachuuKOLEETIKII adj").
+entry(collage, v, [collaged,collaging,collages], "qaraa'iiwwan gara arrange gochuu, tartiiba aartii mataa isaa qabu").
+galmee(kolaajeni, n, [kolaajenota], "prootiinii").
+gala(gufu, v, [gufe,gufachaa,gufuu], "suddaan dhidhimuuf").
+entry(collar, v, [collared,collaring,collars], "ufiima gosa waan qaama mormaatti maxxanuuf kennuu").
+entry(collard, n, [karamimadaa], "akaakuu baandiraa").
+entry(collaret, n, [collarets], "meedhicha xiqqaa").
+entry(collate, v, [collated,collating,collates], "walbira qabiidhaan madaaluu").
+entry(collator, n, [collators], "kan walitti fufu").
+entry(collect, v, [walitti qabame,walitti qaban,walitti qabachu], "walitti dhufeenya garee keessatti walitti fiduuf").
+entry(colleen, n, [colleens], "dubartii Irish").
+entry(koleejii, n, [koleejjiiwwan], "mana barnootaa ol aanaa").
+galii(koolleejjerri, n, [koolleejjerrii], "barataa maallaqa koolleejjii isaa irraa deeggarame").
+entry(collegia, npl, [], "mannii hojii gorsaa sooviyeetii").
+entry(collet, v, [colleted,colleting,collets], "ka gem tokko cidha yookaan balbala keessa kaa'uu").
+entry(collide, v, [collided,colliding,collides], "walitti dhufuu dhoowwuu fi humna cimaadhaan ta'uu").
+entry(collider, n, [colliders], "gosa saffisa raabsaa dhibbeentaatti ofgalfamee dha").
+entry(collie, n, [collies], "saree guddaa").
+entry(collied, past, [], "yeroo dhaa colly").
+entry(collier, n, [colliers], "dhaamsituu coomaa").
+entry(colliery, n, [collieries], "booyyee qabu").
+entry(collies, harka-joor, [], "3ffaa namaa fiixee walitti qabuu").
+entry(collins, n, [collinses], "dhugaatii alkoolii").
+entry(collogue, v, [collogued, colloguing, collogues], "wal-hirriba").
+entry(colloid, n, [colloids], "gosa dhaaminsa kiimikaalaa").
+entry(collop, n, [collops], "guutuu xiqqoo foonii").
+entry(gaafata, n, [gaafataa], "mariif").
+entry(koludhuu, v, [koluudhe,koluudi,koluudha], "walii galanii balleessuu").
+entry(colluder, n, [colluders], "namni wal falmu").
+entry(colluvia, npl, [], "rukutaa dhagaa").
+entry(colly, v, [collied,collying,collies], "urjii cooma miliquu irraa gara gurraattii jijjiiruuf").
+entry(collyria, npl, [], "ilbiisota fayyaa").
+entry(coloboma, n, [colobomata], "ykn COLOBOMASa miidha mataa").
+entry(colobus, n, [kolobosoota], "yookaan KOLOBI binnee guddaa Afrikaa keessatti argamu").
+entry(colocate, v, [colocated,colocating,colocates], "akka lakkoofsaan sadii ykn irra caalan fageenyarraa fageenyatti mana ciisaa lama ykn irra caalan bakka tokko adda addaa keessatti ol kaayame").
+entry(colog, n, [cologs], "logarithm diraaqtii lakkoofsaa").
+entry(koloonii, n, [kolooniwwan], "dhangala'aa urgaa qabuKOLOONIIDDAA adj").
+entry(colon, n, [colones], "walitti fufiinsa maallaqaa Kosta Riika").
+entry(kolon, n, [kolons], "kutaa babal'ina gadameessaa guddaa keessaa").
+entry(colone, n, [kolonii], "kolone").
+entry(korooneelii, n, [korooneelotaa], "ajajaan waraanaa").
+entry(coloni, pl, [], "kan colonus").
+entry(kolonii, n, [koloniis], "namni kolonii keessa jirachuu").
+entry(colonic, n, [colonics], "qoricha koloni").
+entry(garmalee, pl, [], "ga garmalee").
+entry(colonise, v, [colonised,colonising,colonises], "kolonii gochuu").
+entry(colonist, n, [jaallan], "kan kolonii dhaabe ykn bakkayyuu qubate").
+entry(qolonyoomsu, v, [qolonyoomse,qolonyoomsaa,qolonyoomsa], "kolonii dhaabuuf").
+entry(colonus, n, [coloni], "gabroomsa bilisaa").
+galmee(garee_hijjwataa, n, [gareewwan_hijjwataa], "garee namoota baqataa biyya haaraa keessatti jiraatan").
+entry('colophon', 'n', ['colophons'], "barreeffama kitaabota dhumarratti kaa'amu").
+entry(bara, v, [bareda,barisu,barachu], "akka muuqaa meeshaalee itti kennuuf").
+entry(colorado, adj, [], "kan cimina maayii fi halluu giddu galeessaa; kan sigaaraaf oolu").
+entry(colorant, n, [midhaan cuquliisaa], "cuquliisaa yookiin urgaa").
+entry(colored, adj, [], "faana qabaachuu").
+entry(colorer, n, [colorers], "kan miidhagsu").
+entry(gaarii, adb, [], "guutuu halluu").
+entry(coloring, n, [colorings], "ilaalcha halluu irratti").
+entry(colorise, v, [colorised,colorising,colorises], "bifa kenni").
+entry('faayameessa', n, ['faayameessota'], "faayamu").
+entry(colorist, n, [warra miidhagina], "nama hayyuu fayyadama macaafa").
+entry(colorize, v, [colorized,colorizing,colorizes], "atti fokkisaa biyyoota garaagaraa agaruu").
+qaama(guyyaa_garaa_gara, n, [guyyaa_garaa_garu], "gimii keessatti waa'ee taphichaa ibsa kennu, tapha ibsa").
+entry(colorway, n, [colorways], "sirna akkaataan qalqaalli").
+entry(colossal, adj, [], "heddu guddaa").
+entry(colossus, n, [colossuses], "yookiin COLOSSIa tokkicha waaqeffannaa guddaa").
+entry(kolotomi, n, [kolotomies], "gocha baakteeriyaa ykn ulfaa'aafi qorichaan Istaawahaa cirracha qoma uffachuun".).
+entry(colour, v, [coloured,colouring,colours], "itti midha").
+entry(colourer, n, [colourers], "colorer").
+entry(colpitis, n, [colpitises], "lallabachuu qaama saalaa dubartii".
+entry(colt, n, [colts], "fuulaangooftuu qabanCOLTISH adj").
+entry(koltan, n, [koltaniwwan], "gaazii gurraacha kan kolombayitii fi taantaliitii of keessaa qabu").
+entry(colter, n, [colters], "afiixaa jigeessa irratti hidhame")
+entry(colthood, n, [colthoods], "jiruu yookaan yeroo ilmaan fardaa ta'uu").
+entry(colubrid, n, [colubrids], "beekaani ykn beeyladoota gara-garalaa kan sanyii ittiin waliigalan").
+entry(colugo, n, [colugos], "beeylada xiqqoo").
+entry(columbic, adj, [], "kan niobium waliin walqabatu").
+entry(columel, n, [columels], "kutaa xiqqaa qaama qaamolee kan sibiila fakkaatu").
+seensaa(minjaala, n, [minjaalatoota], "deeggarsa warraaqa qullaa minjaalal qajeela minjaalas qindaawee adj").
+galii(kolumne, n, [kolumnewoota], "biqiltuuwa jiidhaa muka naannaa qorraa").
+entry(colure, n, [colures], "furmaata looqoo fiizikaalaa").
+galmee(coly, n, [colies], "uummata Afrikaa").
+entry(colza, n, [colzas], "biqiltuu gaammee maatii").
+entry(coma, n, [comae], "damiilee sobboo miicuu").
+entry(coma, n, [comas], "haalata dhukkubi turu isaanii").
+entry(comake, v, [comade, comaking, comakes], "liiyaanuuf kaffaltii deeggarsaa gochuuf tajaajiluuf").
+entry(comaker, n, [comakers], "namni itti gaafatamummaan maallaqaa kan biraa dhumaatti fudhatu").
+entry(comal, adj, [], "comose").
+galmee(gulaaltota, v, [gulaalte, gulaaluu, gulaalti], "waliin buluu").
+entry(comate, n, [comates], "wantoota waliin jiraatan").
+entry(comatic, adj, [], "argii moggeeffame kan tahe qaamni tasgaandtee dha").
+entry(komatik, n, [komatiks], "komatik").
+entry(comatose, adj, [], "koomaan miidhamne").
+entry(comatula, n, [comatulae], "beeladoota bishaan keessaa jiraatu").
+entry(comb, v, [combed,combing,combs], "sirreeffachuuf yookaan haaxixa diimate waan qopheessuuf").
+entry(combat, v, [combated,combating,combats], "yookiin COMBATTED COMBATTING COMBATSyuu giddutti falmu").
+entry(combater, n, [combaters], "kan loluu").
+entry(combe, n, [combes], "gaara qorraa").
+entry(comber, n, [combers], "kan haxaa'u tokko").
+entry(combi, n, [combis], "maqina hojii walitti fufiinsa qabu").
+entry(combine, v, [combined,combining,combines], "walitti makuu").
+entry(kombayinedhi, n, [kombayinedhoota], "dorgommii ski lama walitti maku").
+entry(combiner, n, [combiners], "kan walitti maku tokko").
+galmee(tiruufsab, npl, [], "qubaafiin haannoofame").
+seensa(hammamsuu, yeroo_ammaa, [], "hammachuun qooda galuuf jecha").
+entry(comblike, adj, [], "faana fakkaatu").
+galmee(kombii, n, [kombiiwwan], "miiltoo jaazii xiqqaa").
+entry(combover, n, [combovers], "fuulli mootuumaa irra miidhameewwan").
+galii(gubii, v, [gubame, gubachaa, gubatu], "gubu").
+entry(modhii, v, [modhe,modhaa,jira], "or MODDHUtkutaa ykn nama tokkootti deemu").
+entry("deebi'uu", n, ["deebi'uwwan"], "deebi'anii harka hoorachuudha").
+entry(bohaartuu, n, [bohaartoota], "eenyumtuu qoosaa ta’e").
+entry(comedic, maq, [], "walitti dhufeenya komedii qabaachuu").
+entry(koomediyaata, pl, [], "koo koomediyaa").
+entry(comedist, n, [comedists], "bareessaa bashanansiisaa").
+entry(comedo, n, [comedos], "ykn COMEDONESa dhibee irraa ka'uu qilee").
+entry(comedown, n, [comedowns], "saffisaan gadi-dhandhama").
+deebii(walaloo, n, [walaloolee], "simannaa bashanna’aa tapha, filmii yookaan hojii").
+entry(comely, adj, [], "COMELIER COMELIESTmiidhaginaadhaCOMELILY adv").
+entry(hirmaataa, n, [hirmaattoota], "innee tokko kan miseensa waliin qooddatu").
+entry(comer, n, [comers], "kan waadaa guddaa agarsiisu").
+entry(koomeetii, n, [koomeetoota], "koorqaa balaa waaqaaCOMETARY adj").
+entry(cometh, a, [], "yeroo ammaa 3ffaa nama tokkoo dhufuudhaa").
+entry(comether, n, [comethers], "marii yookiin dhimma").
+entry(cometic, adj, [], "kan dahuuf wal-qabatanii").
+entry(comfier, comparative, [], "isa comfy").
+entry(comfiest, superlative, [], "kan komfii").
+entry(comfit, n, [comfits], "kaandii").
+galmee(nageenya, v, [nageenyese,nageenyessaa,nageenya], "tasgabbeessu yeroo gadadoo").
+entry(comfrey, n, [comfreys], "urufa fudoo fakkaatu").
+entry(comfy, adj, [], "KAN FAYYA KAN FAYYAAN KAN FAYYAA KAN FAYYAN ADVSaa").
+entry(comic, n, [comics], "nama dheekkamsa").
+entry(comical, adj, [], "salfatetti").
+entry(coming, n, [comings], "iddaa").
+entry(comingle, v, [comingled,comingling,comingles], "walitti makuu").
+entry(comitia, n, [comitia], "waliigaltee hawaasa durii keessatti Romaa").
+entry(comity, n, [comities], "aadaa").
+galmee(comix, npl, [], "macaafa suursagalee yookiin gabaasa").
+entry(comm, n, [comms], "qunnamtii").
+entry(comma, n, [commas], "ykn COMMATA furmataa jechoota ykn miilota muraasa keessatti prosodiya durii").
+entry(command, v, [ajaje, ajajaa, ajajuu], "akka aangoo oliin qajeelchuuf").
+entry(commando, n, [commandos], "ykn COMMANDOESuufata waraanaa").
+entry(commata, a, [], "pl of comma").
+entry(fudhachuu, v, [fudhate,fudhachaa,fudhata], "jalqabuu").
+entry(commend, v, [commended,commending,commends], "ulfeessuu").
+entry(comment, v, [yaada,yaadachuu,yaadoota], "yaada kennuu").
+entry(kuusaa, v, [kuusadeen,kuusaa,kuusaan], "walbaruu").
+entry(commie, n, [commies], "Gamtaa Qoomunistii gabaabseef").
+entry(commies, pl, [], "kan commy").
+entry(commis, n, [commis], "baduu xiqqaadha").
+entry(commish, n, [commishes], "komishinaera").
+entry(commit, v, [committed,committing,commits], "hojjechuu ykn raawwachuu").
+entry(commix, v, [commixt,commixing,commixes], "walitti dhangalaasuu").
+entry(commo, n, [commos], "walqunnamtii").
+entry(commode, n, [commodes], "kaabinee").
+entry(‘wali-igal’  adj, [], “TUFAAN INSTITUTE TUFAAN DUBBIFAMUUF”).
+entry(common, n, [commons], "qabee bifa ummataa qofa batu").
+entry(commoner, n, [commoners], "nama hin beekamne keessaa tokko").
+entry(commonly, adv, [], "akka waliigala").
+entry(commove, v, [commoved,commoving,commoves], "socho'uu humnaan").
+entry(komii, maq, [], "kana dhala hawaasaa waloon ni fayyada").
+entry(commune, v, [communed,communing,communes], "walqunnamtii cimaa gochuu").
+entry(communer, n, [communers], "kan waliif dhaabbatu tokko").
+entry(gaaddisa, v, [gaaddise,gaaddisuu,gaaddisa], "bakkawwan bakka buusuuf").
+entry(daandii-deemaan, n, [daandii-deemtoota], "nama iddoo gara iddoo deemu").
+galmee(commy, n, [commies], "commie").
+entry(comorbid, adj, [], "yeroo waldhiiqqatetti waliini jiraatu").
+entry(comose, adj, [], "hammachuu quncaa adii gogaa fakkaatu").
+entry(comous, adj, [], "comose").
+entry(comp, v, [comped, comping, comps], "taphachuuf sirbaa jazz faana bu’uuf").
+entry(compact, adj, [], "WARAANSA WAARAANSAan tokko fi jabaadhaan walitti hidhame").
+entry(compact, v, [affaltame,affalu,affaluudhaa], "walitti siqee quubsaan guuruu").
+entry(compadre, n, [compadres], "hiriyyaa dhihaadha").
+entry(sharika, v, [sharikame, sharikamaa, sharikawwan], "walitti dhufeenya qabaachuuf").
+entry(qixaaxa, v, [qixaatame,qixaachaa,qixaata], "akka wal fakkaataatti dhiheessuu".
+entry(comparer, n, [comparers], "kan walbira qoʼochiisu tokko").
+entry(compart, v, [qoodame,qoodaa,qoodu], "qooda qooduu").
+entry(compas, n, [], "muuziqaa beekamaa biyya Haiti").
+entry(compass, v, [compassed,compassing,compasses], "garas naanna'u").
+entry(hiriyoomtoota, v, [hiriyoomte, hiriyoomaa, hiriyoomani], "wal-qixxeessu ykn wal-fakkaachuu").
+entry(godhiisi, v, [godhiisuu, godhiisi, godhiisaa], "yoomiyyuu hojachuu dirqisiisa").
+entry(compend, n, [compends], "kaayyoo gabaabaa").
+entry(compere, v, [compered,compering,comperes], "taayitaa geggeessaa ayyaanaa waliin fakkaachuuf").
+entry(tartanu, v, [tartanedha, tartanamaa, tartaniti], "waliinan taphachuuf").
+entry(gura, v, [guree,guruuf,gurani], "walitti qabuuufi gara kuusaa tokkootti galchuu").
+entry(compiler, n, [compilers], "kan gulantaa qopheessu").
+entry(comping, n, [compings], "taphannaa faajjii jaazii").
+entry(abaluu, v, [abalte,abaluu,abala], "dhiibbaa mul'isuuf").
+entry(compleat, v, [compleated,compleating,compleats], "xumura gochuuf").
+entry(complect, v, [complected,complecting,complects], "walitti haroomuu").
+entry(gutuu, adj, [], "GUUTUU GUUTAAHINaf yaada barbaachisaa hunda qaba").
+entry(complete, v, [xumurame,xumuraa,xumura], "dhuma itti fiduuf").
+entry(complex, adj, [], "CIMPLAXER CIMPLEXESTcakkiisaa").
+galmee(jechamaan, v, [jechamte, jechamaa, jechamoota], "walxaxa taasuu").
+entry(complice, n, [complices], "walitti dhufeenya").
+entry(raawwati, darbe, [], "adeemsa raawwachuu").
+entry(complier, n, [compliers], "kan hojii seera qabeessa taasisu").
+galmee(muqaa, yeroo_aanguu, [], "nama 3ffaa fi maqaa tokkoo kan muqaa").
+entry(complin, n, [complins], "kumbolisa").
+entry(compline, n, [complines], "kadhannaa galgalaa xumuraa").
+entry(complot, v, [duree, dura, dursaa], "balleessuu").
+entry(kabaju, v, [kajabee,kanajii,kanajju], "ajaja itti cichuun hordofu").
+entry(compo, n, [compos], "meeshaa walmakaa").
+entry(compone, adj, [], "compony").
+entry(compony, adj, [], "kan bakka bu'oota garagarummaa daalaalee waliin walitti makamee ijaarame").
+entry(akkaataa_of_eegalu, v, [akkaataa_of_eegalte,akkaataan_of_eegaluun,akkaataa_of_eegala], "of akkaataa of of jiraachuudha").
+entry(dhangeessuu, v, [dhangessee,dhangeessuu,dhangeessan], "akka maddee uumuu").
+galmee(gabataa, n, [gabataani], "nama muzqaa barreessu").
+entry(compost, v, [composted, composting, composts], "akka nyaatamoo godhuu").
+entry(compote, n, [compotes], "akaayii mi'aawa keessatti bilchaatan").
+entry(compound, v, [compounded,compounding,compounds], "gara itti dabalu").
+galmee(hunfachuu, v, [hunfate, hunfachaa, hunfatuu], "kuufamaa gochuu").
+entry("ku keessa galma'ee", v, ["ku keessa galmoome","ku keessa galma'aa jiruu","ku keessa galma’a"], "ku keessa galuu ykn qabachuu".).
+entry(comprize, v, [comprized,comprizing,comprizes], "wala qabaachu").
+entry(compt, v, [compted, compting, compts], "lakkaa'uu").
+entry(hozoguu, v, [hozoge,hozogaa,hozoga], "iddoo guutuu").
+entry(kompiyuutaraa, n, [kompiyuutaroota], "makiinaa ofiisaa hojjachuu dandeessisuudha").
+galii(hirribaa, n, [hirriboota], "hiriyyaa dhiyoo").
+entry(comte, n, [comtes], "abbaa qabeenyaa Faransaa").
+entry(con, v, [conned,conning,cons], "qorachuu itti yaadu").
+entry(conation, n, [conations], "fedhii gochuu seera qabeessa gochuufCONATIVE adj").
+entry(conatus, n, [conatus], "yaalii").
+entry(concave, v, [concaved,concaving,concaves], "akka ittiin keessaa utuba'u qajeelchuuf").
+entry(haxaawu, v, [haxaawame, haxaawaa, haxaawa], "akka hin mul'annee fi akka hin argamne gochuu").
+entry(concede, v, [conceded, conceding, concedes], "dhaabbiidhaan fudhachuudha").
+entry(conceder, n, [conceders], "kan kennu tokko").
+entry(xiyyeefannoo, v, [xiyyefate, xiyyefataa, xiyyefatuu], "yaaduuf").
+entry(fingee, v, [fingeesee, fingeessaa, fingeessuu], "hubachuu").
+galii(concent, n, [concents], "walumaa'i").
+entry(filannoo, n, [filannoowwan], "yaada waliigalaa").
+entry(concepti, npl, [], "urgaa'eewwan hanqaaquu").
+entry(dhiibbaa, v, [dhiibame,dhiibuu,dhiibba], "nama yaaddeessuuf ta'uu").
+entry(konsertii, v, [konserte,konserchaa,konsertoota], "qopheessuu").
+entry(konsarto, n, [konsartootaa], "ykn KONCERTI kompoozisaan muuziqaa").
+entry(konchi, n, [konchiiwwan], "yookaan KONCHIImalaa marinii").
+entry(concha, n, [conchas], "dhisika faayama").
+entry(concha, n, [conchae], "sirna qaamaa haalata unashaan ulqaa fakkaatuCONCHAL adj").
+entry(conchie, n, [conchies], "conchy").
+entry(concho, n, [conchos], "faaya 'concha' diskii").
+entry(conchoid, n, [konkoidota], "teessuma geometriii tokkoo amala qabu").
+entry(conchy, n, [conchies], "kan mormu hatattama sammuu murteeffachu qabu").
+entry(concise, adj, [], "CONCISEER CONCISESTqubee-xumuraa").
+entry(conclave, n, [conclaves], "walga’ii dhokataa").
+entry(xumura, v, [xumurame,xumurachaa,xumura], "xumura").
+entry(shakal, v, [shakale,shakaluu,shakaluu], "qoricha adda adda walitti makuun qopheessuu").
+entry(concord, n, [concords], "haalawwan walii galu").
+entry(concours, n, [concours], "tartaan publicii").
+entry(concrete, v, [concreted,concreting,concretes], "akka cilee ta'u gochuu").
+entry(concur, v, [concurred,concurring,concurs], "waliigaluu").
+entry(concuss, v, [concussed,concussing,concusses], "yaada hir'isuudhaan miidhu").
+entry(maqna, v, [maqnee,maqnaa,maqnuu], "dhaadheessuu ulfaata").
+entry(dadhaabbo, v, [dadaabbofame, dadaabbofamaa, dadaabbochi], "akka makuu").
+entry(condign, adj, [], "as/danda'ame").
+entry(condo, n, [condos], "ykn KONDOO eenyummaa dhuunfaa qabu kan mana ijaarsaa hedduu keessa jiruu").
+entry(gadda, v, [gaddatte,gaddachuu,gaddattan], "ni boonessa").
+entry(condoler, n, [condolers], "kan yaaddoo ibsatu tokko").
+entry(kondomii, n, [kondomoota], "tooftaa ittisaa").
+entry(condone, v, [condoned,condoning,condones], "dubbachuu ykn dhiisuu").
+entry(condoner, n, [condoners], "kan hayyamu tokko").
+galmee(kondor, n, [kondorsoota], "ykn KONDORESs Birrii Chaayilii").
+entry(ida'u, v, [ida'ee,ida'aa,ida'u], "bu'aa tokkoof gumaachuu").
+entry(conducer, n, [conducers], "kan geessu").
+entry(conduct, v, [conducted,conducting,conducts], "qajeelchuu ykn qajeelchuu").
+entry(konduuti, n, [konduutii], "tuubaa ykn daandii dhangala'aa geessuuf oolu").
+entry(condyle, n, [condyles], "mormii lafee irratti argamuCONDYLAR adj").
+galmee(cone, v, [coned, coning, cones], "akka konii of eegu qaamni geometri").
+entry(conelrad, n, [conelrads], "sistama itittii yeroo weerara qilleensaatti").
+entry(conenose, n, [conenoses], "booyyee akka dhiiga xuuxu keessaa tokko").
+entry(conepate, n, [conepates], "coonbeesse").
+entry(conepatl, n, [conepatls], "conepate").
+entry(coney, n, [coneys], "konii").
+entry(confab, v, [konfaransi-taa'e, konfaransi-taa'aa, konfaransota], "bakka geetteetti haasa'uu").
+entry(confect, v, [confected,confecting,confects], "garaagarummaan fooyyaa'uudhaaf qopheessuu").
+entry(confer, v, [conferred,conferring,confers], "kenna").
+entry(conferee, n, [conferees], "nama waa'ee itti kennamu tokko").
+entry(conferva, n, [confervas], "\"yookaan CONFERVAEa jiidha bishaanii").
+entry(confess, v, [confessed, confessing, confesses], "ittiqaa kan of ilaalu ykn mul'isu").
+entry(confetto, n, [confetti], "boonboonii").
+entry(confide, v, [confided,confiding,confides], "qaama amantii yookan iccitii akka ta'eetti mul'isuuf").
+entry(confider, n, [confiders], "isa amanu").
+entry(kufaa, v, [kufame,kufaa,kufan], "gidduu cufaa keessatti cufuu").
+galmee(confiner, n, [confiners], "inrii tokko").
+entry(confirm, v, [hirame,hiramaa,hirma], "dhugoomsa mirkaneessuuf").
+galii(confit, n, [confits], "foolii isaa keessa biqilu fi eeyamuudhaan qophaa'e").
+seensa(niwaanti, v, [niwaanteeffame, niwaanteessaa, niwaanteeffata], "walitti makuu").
+entry(muddamsuu, v, [muddamesse,muddamaa,muddama], "waliitti bu'u").
+entry(conflux, n, [confluxes], "walitti dhufeenya yaa'ina laga lamaa").
+entry(confocal, adj, [], "haala ittiin iddoo walfakkaatu ykn bu'uura walfakkaatu qabaachu").
+entry(conform, v, [conformed,conforming,conforms], "taʼuu wal fakkaatu ykn wal fakkaachuu").
+entry(confound, v, [confounded,confounding,confounds], "raafama").
+entry(confrere, n, [hiriyoota], "hojjetaa waliin hojjetu").
+entry(wajjina, v, [wajjine, wajjinuu, wajjina], "mormitoota duratti dhaabachuuf").
+entry(qixxee, v, [qixxifame, qixxisaa, qixxee], "yaada iccitiin walqabsiisuu").
+entry(confute, v, [confuted,confuting,confutes], "dhaabsisu").
+entry(confuter, n, [confuters], "kan dogoggorsuu").
+galmee(kongaa, v, [kongaan, kongaayuu, kongaadha], "sirna raajjeettii kongaa raawwatuuf").
+entry(conge, n, [conges], "hayyama deemuu").
+entry(congeal, v, [congealed,congealing,congeals], "haala bishaanii gara jajjabbiitti jijjiiruuf").
+entry(congee, v, [congeed,congeeing,congees], "gadaamiifachuus").
+entry(congener, n, [congeners], "kan goonfoo ykn darajaa tokkicha ta'e").
+entry(conger, n, [congers], "gomachuu bishaani").
+entry(congest, v, [congested,congesting,congests], "gati guutuu").
+daakamu(congius, n, [congii], "kaffaltii durii safartuu".).
+entry(conglobe, v, [conglobed, conglobing, conglobes], "kan gara guundaatti jijjiiramuuf").
+entry(kongo, n, [kongoowwan], "baay'ee fakkaata balleessa bishaan keessaa jiraata").
+entry(congo, n, [congos], "congou").
+entry(congou, n, [congous], "shaayii xoophiyaa").
+entry(congrats, npl, [], "baga gammadde").
+entry(congress, v, [congressed,congressing,congresses], "walgahiif walitti dhufuu").
+entry(coni, pl, [], "kan conus").
+galmee(conic, n, [conics], "xiyyeeffannoo jiyoometirii").
+entry(conical, adj, [], "akka konaa ti").
+entry(conicity, n, [conicities], "haala konii qabaachuu").
+entry(conidium, n, [conidia], "kanneen ijaan hin mul'annetti hirree konidiaal konidiyan adj").
+entry(conies, pl, [], "of cony").
+entry(conifer, n, [conifers], "muka harboo yaa'insa hin qabne").
+entry(coniine, n, [coniines], "alkaloid summukaawaa").
+entry(conin, n, [conins], "coniine").
+entry(conine, n, [conines], "koniinii").
+entry(coning, amma, [], "kutaa fiilma 'cone'").
+entry(coniosis, n, [conioses], "dhibee kan dhufuu bosona eelee baqaqsuu irraa burqa").
+entry(conium, n, [coniums], "mucciisa summii qabuu").
+gala(galfata, v, [walittiqaba,walittiqabachaa,walittiqabu], "walitti qaba").
+entry(conjugal, adj, [], "kan fuudhaafi heeruma ilaallatu").
+entry(conjunct, n, [conjuncts], "kan kaan waliin walitti makamame").
+entry(conjunto, n, [conjuntos], "akkaataan muuziqaa raayyaa daansii daangeessa Meeksikoo irratti argamu").
+entry(conjure, v, [conjured,conjuring,conjures], "afuurri akka dhiyaatu waamu").
+entry(conjurer, n, [conjurers], "sululaa").
+entry(conjuror, n, [conjurors], "fuulaa").
+entry(conk, v, [conked,conking,conks], "duubatti bubu'uu").
+entry(conker, n, [conkers], "qoricha waagaa saffisaa keessatti taphatamuudhaan fayyadamuudhaan kastanteen Briteenni keessatti taphatamu").
+entry(conky, adj, [], "guutuu coomni muka").
+galeessi(conn, v, [conned, conning, conns], "ogummaa ittiin doonii hiikaniin duubee bubbee to’atu").
+entry(connate, adj, [], "natuuralawaa").
+entry(connect, v, [walqabate,walqunnamti,walqabatu], "walgargara fufuu").
+entry(conned, darbe, [], "qala'a yeroo con").
+galmee(conner, n, [conners], "tokko kan saamu").
+entry(conning, present, [], "hirmaanna of con").
+entry(connive, v, [connived,conniving,connives], "safuu cabsuuf akka hin beekne of godhu").
+entry(conniver, n, [connivers], "kan haguugu tokko").
+entry(connor, n, [connors], "bifa hoosa'aa bishaanii").
+entry(connote, v, [connoted,connoting,connotes], "akeekkachiisa maatiin biraas waanta dhugaa irra darban agarsiisu").
+entry(conodont, n, [conodontota], "fossil tokko").
+entry(conoid, n, [conoids], "ya raajiya geometriCONOIDAL adj").
+entry(booji, v, [boojise,boojisaa,boojisu], "humnaan mo'achuuf").
+entry(conquest, n, [conquests], "goonfachuufi").
+entry(conquian, n, [conquians], "taphni kaardii").
+entry(xalayaa, v, [xalayeesse,xalayeesaa,xalayeesu], "akkaataa itti eeyyamu ykn mirkaneessu").
+entry(ittiqufataa, v, [ittiqufate,ittiqufataa,ittiqufatu], "balaansa ykn xiqqaatuu irraa eeguu").
+entry(yaadachuu, v, [yaadame,yaadaa,yaadatu], "yaaduuf").
+entry(kenni, v, [kenne, kennuu, kennina], "akka namni biraa ittiin eegdu godhu").
+entry(qabe, v, [qabate,qabachaa,qabata], "kan uumame ykn maxxanfame").
+entry(konsool, n, [konsoo], "bonnii mootummaa").
+entry(baraarsiisuu, v, [baraarsiise, baraarsiisaa, baraarsiisuu], "ni boo'annisiisa").
+entry(consoler, n, [consolers], "kan jajjabeessu tokko").
+entry(consomme, n, [consommes], "soobii ifaa").
+galii(irree, v, [waliiirratti_hirrira, waliirratti_hirrira_jira, waliirratti_hirrira], "waloon jiraachuuf").
+entry(huursuu, v, [huursee,huuramaa,huurama], "wantoota gara biraa wajjiin bakka malee qophaa'uu").
+gala(aangoo, n, [aangoowwan], "sagalee hin jijjirramne").
+entry(fassaraa, v, [fassarame, fassaramuu, fassara], "hiikuu").
+entry(consul, n, [konsiloota], "namni ol adeemtota biyya alaa keessa tajaajiluKONSULAAR adj").
+entry(yaa’i, v, [yaa'ame,yaa'aa,yaa'u], "yaada gaafachuuf").
+entry(soorachuu, v, [soorame,soorachaa,jira], "akka hojjachuu dha").
+entry(consumer, n, [consumers], "kan fayyadamaa'uu").
+entry(kontakt, v, [kontakted,kontakting,kontakts], "ni waliif galu").
+entry(contagia, npl, [], "sababa dhukkuboota daddarboo ta'an").
+entry(contain, v, [contained,containing,contains], "qabachuun keessa jiru").
+entry(contango, n, [contangos], "dhaabuu jijjiirama qabeenya").
+entry(conte, n, [contes], "sheekoo gabaabaa").
+entry(contemn, v, [contemned, contemning, contemns], "tuffachuu").
+entry(contempo, adj, [], "yeroo ammaa").
+entry(saala, n, [saalota], "yaada nama tokko kan waa tokko akka salphaa hin qabne ykn salphisaa ta'e ilaaluudha").
+galmee(tartii, v, [tartiise, tartiisaa, tartiisu], "waliif tarsiisu").
+entry(content, v, [contented,contenting,contents], "qaaneessaa").
+entry(contessa, n, [contessas], "haadha warra gijima Italya (contessa)").
+entry(tartanka, v, [tartamamee,tartamachuun,tartamoota], "waliif taphachuu").
+galmee(gara, n, [barruu], "kutaa haasaa kan jecha ykn gaalee addaa mul'atu").
+entry(continua, npl, [], "tarreewwan herrega").
+entry(itti-fufa, v, [itti-fufe,itti-fufamaa,itti-fufa], "itti fufuuf").
+entry(continuo, n, [continuos], "kaan dhaabbataa").
+entry(conto, n, [contos], "maallaqa hojii keessatti Faayidaa Portugal fi").
+entry(contort, v, [contorted,contorting,contorts], "jibbaacha").
+entry(contour, v, [contoured,contouring,contours], "hambaa gochuu").
+entry(contra, n, [contras], "warraaqsaa Niikaaraguwaa").
+entry(contract, v, [tiinaxe,tiinxama,tiinxama], "xiqqachuun guduunfa jechuudha").
+entry(contrail, n, [contrails], "hammii bishaan uumame kan konkolaataa qilleensaa irraa mul'atu").
+entry(mormitoota, n, [mormitoonni], "kan faallaa ta'e").
+entry(ida'a, v, [ida'ame,ida'amaa,ida'uu], "faallaa dhigee garaagarummaa mul'isuuf").
+entry(contrite, adj, [], "garaamni faarsaa cubbuu ofii irratti").
+entry(qopheessu, v, [qopheesse,qopheessuu,qopheessu], "ijaare").
+entry(to'annoo, v, [to'annaa, to'annaa jiru, to'annaadha], "akka sadarkaa ol'aanaa hojjechuu").
+entry(contuse, v, [contused,contusing,contuses], "dhahuudhaan irreeffachuu").
+entry(conure, n, [conures], "jaraakee Ameerikaa garba gama kaabaa").
+entry(conus, n, [coni], "kutaa qaama nyaataa sanyiiwwan akkaanniitti argamu").
+entry(naanna'aa, v, [naaannate,naanna'aa,naanna'u], "ho'a wal jijjiiruuf haal-duree maadannoo").
+entry(yaama, v, [yaame,yamuu,yama], "walitti qabuu").
+entry(convener, n, [conveners], "tokko kan wal gahu").
+entry(koree, n, [koreen], "koree").
+entry(gaggeessi, v, [gaggeessite, gaggeessuu, gaggeessitu], "wal ga'ii geggeessuu").
+entry(converge, v, [converged,converging,converges], "walitti dhufuu").
+entry(godaansi, v, [godaane, godaansaa, godaansan], "wal bira dubachuu").
+daawwatto(gayeen, n, [gayeeyyii], "Yihudaa kamiiyyuu kristaana ta'e").
+entry(guduunfata, v, [guduunfate,guduunfataa,guduunfatu], "gara jijjiirama biraatti jijjiiru").
+entry(convex, n, [convexes], "qaama ykn fuulduratti nguugulcha baay’ee qabu").
+entry(konveksii, adv, [], "akka konveksiitti").
+entry(guduruu, v, [gudurame,guduruu,guduruu], "geejjibuuf").
+entry(guddisuu, n, [guddisoota], "isa tokko kan dabarsu").
+entry(conveyor, n, [konvayerota], "konvayerii").
+inji(convict, v, [convicted,convicting,convicts], "cubbuudhaan ni argama").
+entry(suuta, v, [suutessee,suutessaa,suuta], "akka waan tokko amanan godhuuf").
+entry(waamuu, v, [waame,waamaa,waamu], "walitti qabuu sababa ta'uu").
+galii(waamicha, n, [waamichaawwan], "kan waamiya").
+entry(convolve, v, [convolved,convolving,convolves], "walitti moru").
+entry(gubba, v, [gubban, gubbachaa, gubba], "itti marsuu").
+entry(convulse, v, [convulsed,convulsing,convulses], "garmalee schituu").
+galmee(konyii, n, [koniiwwan], "lagaa").
+entry(coo, v, [cooed, cooing, coos], "sagalee girmaa kennuu").
+entry(cooch, n, [cooches], "sirba jallaanfachuu").
+entry(coocoo, adj, [], "sodaa").
+entry(cooee, v, [cooeed,cooeeing,cooees], "dhukkuba ittin iyuu").
+entry(cooer, n, [cooers], "nama guugguufamu").
+galii(cooey, v, [cooeyed,cooeying,cooeys], "cooee gochuu").
+entry(coof, n, [coofs], "gowwaa").
+galmee(qooqa, ammaa, [], "hirmaataa qoo").
+entry(cooingly, adv, [], "akka gugee gugee jaalalaan").
+entry(cook, v, [cooked,cooking,cooks], "nyaata qopheessuu soormaadhaanCOOKABLE adj").
+entry(cookbook, n, [cookbooks], "kitaba kallaattii nyaataa").
+entry(cooker, n, [cookers], "kan bilcheessu").
+entry(ogumma nyaata bilcheessuu, n, [ogummaalee nyaata bilcheessuu], "ogummaa bilcheessuu nyaata").
+entry(cookey, n, [cookeys], "kuukkii").
+entry(cookie, n, [kukkisii], "keekuu xiqqoo laafa").
+entry(cooking, n, [cookings], "raawwachuu isaa kan bilcheessu").
+entry(cookless, adj, [], "hinsodaatu kan hinjirre").
+entry(cookoff, n, [cookoffs], "dorgommii bilcheessaa").
+entry(cookout, n, [cookouts], "nyaata lafa banaa nyaatamu fi qophaa'u").
+entry(dafee, n, [dafeewwan], "suqi isa nyaata bilcheesse gurguru").
+galmee(cooktop, n, [cooktops], "meeshaa nyaata bilcheessu kan bira keessa kaa'amuu").
+entry(cookware, n, [cookwares], "meeshaalee ittiin bilcheessanii nyaata").
+entry(cooky, n, [kukis], "kuki").
+entry(cool, adj, [], "QABAA'A FI JABAA'A HAFUU QABAA'A").
+entry(cool, v, [cooled,cooling,cools], "qaama ho'ina isaa hir'isuuf").
+entry(coolabah, n, [coolabahs], "bakka eucalyptosi Awustraaliyaa tokko").
+entry(coolant, n, [coolants], "dhangala'a gargaarsa injinera qabbaneessuuf oolu").
+entry(dhoocha, n, [dhoochawwan], "faayidaalee qaama namaa suuta suutan iddoo isaanii duraatti deebi’uu kan hojii qaamaa cimaa boodaan").
+entry(cooler, n, [coolers], "kan qabuu akkaan hoo'a").
+entry(coolibah, n, [coolibahs], "koolabaa").
+entry(koolii, n, [kooliota], "hojjetaa gara-lixaa irraa ykn irraa").
+entry(coolies, pl, [], "kan cooly").
+entry(coolish, adj, [], "waan ta’uun qoosaa").
+entry(coolly, adv, [], "adgeessitee").
+entry(coolness, n, [coolnesses], "haalata ho'a'uummaa ta'uu").
+entry(coolth, n, [coolths], "qaama").
+entry(cooly, n, [coolies], "coolie").
+galii(coomb, n, [coombs], "combe").
+entry(coombe, n, [coombes], "combe").
+entry(coon, n, [coons], "coonii").
+galmee(cooncan, n, [cooncans], "conquian").
+entry(coonskin, n, [coonskins], "harreen boolla").
+entry(coontie, n, [coonties], "bosona lolaa").
+entry(coop, v, [cooped,cooping,coops], "hidhuu").
+entry(cooper, v, [coopered,coopering,coopers], "inxaanaa fi cabritee hojjachuu yookaan sirreessuu").
+entry(coopery, n, [cooperies], "daldala kuperii").
+entry(coopt, v, [coopted,coopting,coopts], "filuu yookaan muuduu").
+entry(cooption, n, [cooptions], "raawwii maammilaan hirmaachisuu").
+entry(coot, n, [coots], "bofa bishaan keessa jiraatuu").
+entry(cooter, n, [cooters], "qurxummii").
+seensa(cootie, n, [cooties], "shaluu qaamaa").
+entry(cop, v, [copped,copping,cops], "waadaa'uun").
+entry(copaiba, n, [copaibas], "resin tokko").
+entry(copal, n, [copals], "resinii").
+entry(copalm, n, [copalms], "muka zafii").
+entry(coparent, v, [waliinisguddachaa, waliinisguddachaa jiru, kannen waliinisguddatan], "guddina ilma ofii waliin qoodachuu").
+entry(copastor, n, [copastors], "kan waajira otoo wajjiin qoodduuf hojjatu").
+entry(copatron, n, [copatrons], "abbaa biyya waliin qooddatu").
+entry(copay, n, [copays], "mindaa maallaqaa fayyaa tiiwotiin kaffalu fayyadamtuun kaffalu qabu").
+entry(cope, v, [coped,coping,copes], "walgargaaru yookiin tattaaffachuu").
+entry(copeck, n, [copecks], "kopecki").
+entry(copemate, n, [copemates], "mormituu").
+entry(copen, n, [copens], "koomaa magariisa").
+entry(copepod, n, [copepods], "reef reef dheeratu").
+entry(coper, n, [copers], "namni farda gurguru").
+entry(copiable, adj, [], "kan akka malee garagalchamee fi ida'amuu danda'u").
+entry(heerame, darbe, [], "kabalaafii heerama").
+entry(copier, n, [weellisaa], "kan weellisu").
+gala(namoota, guutamaa, [], "innikka of fuulduratti").
+entry(copihue, n, [copihues], "sarara xuuxataa").
+galmee(copilot, v, [copiloted,copiloting,copilots], "akka pilaaticha gargaaraa tajaajiluuf").
+galmee(coping, n, [copings], "kutaa gubbaa bidiruu").
+entry(copious, adj, [], "baay’ee").
+entry(coplanar, afaan, [], "kan falagaan tokko irra ciise").
+entry(coplot, v, [coplotted,coplotting,coplots], "wanta walgargaaranii fi waliin hojjatanii qopheessuu").
+entry(copout, n, [copouts], "deebi'uu itti gaafatamummaarraa").
+entry(copped, past, [], "haala dabre of cop").
+galmee(naxaasii, v, [naxaase, naxaasuun, naxaas], "akkaan yaata'aa naxaasa unka meetikaalaa waliin haguuguu").
+entry(copperah, n, [copperahs], "kopira").
+galmee(copperas, n, [copperases], "walitti dhufeenya midhaan barreessaa gochuuf itti fayyadaman ta'e").
+entry(naasii, adj, [], "akka naasii fakkaatu").
+entry(coppice, v, [coppiced,coppicing,coppices], "akka muki bakkalchaatti guddatu godhu").
+entry(copping, ammaa, [], "fudhatama 'cop' kan yeroo jalqaba").
+entry(coppra, n, [coppras], "kopraa").
+entry(kopiraa, n, [kopiraalee], "kopha kokoo dhiiga").
+entry(coprah, n, [coprahs], "koopraa").
+entry(copremia, n, [copremias], "dhukkuba dhiigaaCOPREMIC adj").
+entry(coprince, n, [coprinces], "prinsa lama irraa tokko kan waliin bulchan").
+entry(copse, n, [copses], "birtukanaaCOPSY adj").
+entry(copter, n, [copters], "helikoptara").
+entry(copula, n, [copulas], "ykn COPULAEsomething that linksCOPULAR adj").
+entry(copulate, v, [copulated,copulating,copulates], "walqunnamtii saalaa gochuu").
+entry(copurify, v, [ waliin qulqullaa'uu, waliin qulqullaa'aa jiru, waliin qulqullaa'a], "haalmaata biraatiin waliin qulqullaa'uu").
+entry(copy, v, [koppii, koppiing, koppiis], "fakkaachuuf COPYABLE adj").
+entry(copybook, n, [copybooks], "kitaba barreeffama ittin barachutu").
+entry(copyboy, n, [copyboys], "gurbaa oduu gabaasu bara oduudhaaf ergaa fi hojoota xixiqqoo raawwatu").
+entry(copycat, v, [copycatted,copycatting,copycats], "qindeessuuf").
+entry(copydesk, n, [copydesks], "miiltoo gulaalaa fi beektootaa");
+entry(copyedit, v, [copyedited,copyediting,copyedits], "koppii maxxansaaaf qopheessuuf").
+entry(copygirl, n, [copygirls], "intala odeefannoo suuqii galchitu").
+entry(copyhold, n, [copyholds], "gosa abbaa biyyummaa lafa").
+entry(copyist, n, [copyists], "kan maxxansu").
+entry(copyleft, n, [copylefts], "hayyama kan tajaajila bilisummaaaf baayʼinan fayyadama sirreessuu kan eyyamamu").
+entry(copyread, v, [itti-dubbisi, itti-dubbisuu, itti-dubbisu], "to copyedit").
+entry(coquet, v, [coquetted,coquetting,coquets], "nyaapa'uu").
+entry(coquetry, n, [coquetries], "dhaala calalaa").
+entry(coquette, v, [coquetted,coquetting,coquettes], "sagalee hawataa").
+entry(coqui, n, [coquis], "lafa irratti biiftuun ykn mukarra teessu yeyyef egeronessuu keessa xixiqqoo").
+entry(coquille, n, [coquilles], "meeshaa nyaataa bishaan ittiin bulbulan").
+entry(coquina, n, [coquinas], "cooqinaa xiqqoo qamalee galaanaa").
+entry(coquito, n, [coquitos], "gadaa jechuun mukkeen harangamaa").
+entry(cor, n, [cors], "nafni durii unkaa caala'aa qabu").
+entry(coracle, n, [coracles], "dooniin xiqqoo").
+entry(coracoid, n, [coracoids], "lafee mataan manqalleessaa yookiin mormaa").
+entry(coral, n, [corals], "yaalatiwwan lolaantu Qilleensa lafaa");
+galmee(coranto, n, [corantos], "yookiin CORANTOEScourante").
+entry(corban, n, [corbans], "kennaa Waaqaaf").
+entry(corbeil, n, [corbeils], "haraaqa midhaan itti qoorsamu").
+entry(corbel, v, [corbeled,corbeling,corbels], "yookaan CORBELLEEDHA CORBELIING CORBELstu giddugala taatii tokko qaama sikiila tokko itti qopheessuuf").
+entry(corbie, n, [corbies], "gurraacha ykn jabbirrii").
+entry(corbina, n, [corbinas], "soorata fi qurxummii wal’aansoo ta’e").
+entry(corby, n, [corbies], "korbii").
+entry(cord, v, [corded,cording,cords], "akka qilleensa amalaa gara fuldduraa kaasu taasisuudhaaf ykn wantooti sochii tokko keessatti ...").
+galmee(cordage, n, [cordages], "neenfaa mukaa naannoo tokko keessatti argamu").
+entry(korbayaa, adj, [], "akka onneetti").
+entry(cordelle, v, [cordelled,cordelling,cordelles], "biddeena bawwii fayyadamuudhaan dooniin harkisuu").
+entry(corder, n, [corders], "kan marsaa").
+entry(cordial, n, [cordials], "daadhii").
+entry(cording, n, [cordings], "halluu uffata kan ribbed ta'e").
+entry(cordite, n, [kordayiti], "humna dhoowwuu danda'u tokko").
+entry(cordless, n, [cordlesses], "meeshaa elektiroonikaa aangoo ishii ishee barbaaddu tokko qabdu").
+entry(cordlike, adj, [], "kan funyaan fakkaatu").
+entry(cordoba, n, [kordobas], "ykn beeyladaa gargaarsa mootummaa Niikaaraqoo gaa'uziraa".
+entry(cordon, v, [cordoned,cordoning,cordons], "danbalaa naanna'uu").
+entry(cordovan, n, [cordovans], "uluggii filatama").
+entry(corduroy, v, [corduroyed, corduroying, corduroys], "karaa qubee ijaaruu").
+entry(cordwain, n, [cordwains], "cordovan").
+entry(cordwood, n, [cordwoods], "qoree kan boba'aaaf itti fayyadamu").
+entry(core, v, [cored,coring,cores], "haadhoo keessaa baasuu").
+entry(coredeem, v, [coredeemed,coredeeming,coredeems], "woliinan deebisuu").
+entry(coreign, n, [coreigns], "teessoo waliin hogganuu").
+entry(ulanuu, v, [ulanamee,ulanamaa,ulanaa], "walitti dhufeenya wal jijjiirraa keessa galchuu").
+entry(coreless, adj, [], "sirguduun hin qabne").
+gala(corella, n, [corellas], "qoorsa xiqqaa").
+entry(coremium, n, [coremia], "angoo barbaachisaa kan biqiltoota pilaasmaa").
+galii(corer, n, [corers], "mi'a sibiilaa kan afuruu fiixee tuffee").
+entry(corf, n, [corves], "waagaonni daamanaa galuuf faayadamu").
+entry(corgi, n, [corgis], "saree miilla gabaabaa").
+entry(coring, present, [], "participle of core").
+entry(corium, n, [coria], "uuma dhahduu").
+entry(cork, v, [corked,corking,corks], "cufuu").
+entry(corkage, n, [corkages], "kaffaltii wayinii manneen nyaataa keessatti").
+galmee(corker, n, [corkers], "kan arroojje/daakuu").
+galmee(corkier, sirnaadha, [], "kan corky").
+entry(corkiest, superlative, [], "kan corky").
+galmee(corklike, maq, [], "kan marraa bishaanallee fakkaatu").
+galmee(corkwood, n, [corkwoods], "muka xixiqqaa").
+entry(corky, adj, [], "CORKIER CORKIESTcorklike").
+entry(corm, n, [corms], "ichee jabeessa midhaga irra caaluCERTAIN PLANTSIRRAA MIIDHAMU IRRAA CORMOID CORMOUS adj").
+entry(cormel, n, [cormels], "kaayidhaa xiqqaa").
+entry(cormlet, n, [cormlets], "qorma xiqqaa").
+entry(qamadii, v, [qamadiin, qamaduu, qamadiwwan], "dhibaan itti fayyadamuun turuu").
+entry(cornball, n, [cornballs], "garee aadaa gosa keessaa hafu").
+entry(kitaaba, n, [kitaabota], "koornii irree keessaa akka ija jibbanii fi nyaataa qopheessuuf fayyadamu").
+entry(corncob, n, [corncobs], "jirma gorsa kallatti").
+entry(corncrib, n, [corncribs], "mana ittii bu'uuraa kunii sanyii masoo walitti qabamee itti waliin hin jiraatu").
+entry(cornea, n, [corneas], "kutaa ijaaCORNEAL adj").
+entry(cornel, n, [cornels], " muka ykn baala qabeessa muka ta'ee").
+entry(corneous, adj, [], "kan faaya margee fakkaatu").
+entry(corner, v, [harka seenu, harka seena, harkarra seenu], "tooftaadhan to'achuuf").
+entry(cornet, n, [cornets], "akka buu'uraa shamboo"),
+entry(cornetcy, n, [], "Cornetcies saffisa kaawwalsii Briteeniya keessatti").
+entry(cornett, n, [dukkeewwan], "dookeewwan").
+entry(cornetto, n, [cornettos], "ወይም CORNETTI የሙዚቃ ነፋሻ መንፈስ").
+entry(cornfed, adj, [], "cinxaa/makkaaniin soorame").
+entry(cornhusk, n, [cornhusks], "harreen tulluu qamadii").
+entry(cornice, v, [corniced,cornicing,cornices], "awwachaa ittiin faayamuun qopheessuuf").
+entry(corniche, n, [qarraara], "karaa jalqabame hafarsuuraaorra").
+gali(cornicle, n, [cornicles], "kutaa ilbiisota nyaaraalaa kan ta'e").
+entry(cornier, comparative, [], "kan corny").
+entry(corniest, superlative, [], "kan bukeke").
+entry(cornify, v, [cornified,cornifying,cornifies], "wuuddee tsunami ijaaruu").
+entry(cornily, adv, [], "akka hinmamsifneetti").
+entry(daakuu, n, [daakuulee], "nyaata midhaan rabboo irraa hojjetame").
+entry(cornpone, n, [cornpones], "buddeena midhaaniin ta'ee").
+galmee(cornrow, v, [cornrowed, cornrowing, cornrows], "ufiinsa qomaa dhiyeenyatti mataa irratti wal cufuun fuulduratti loofuuf").
+entry(cornsilk, n, [cornsilks], "ukkaama arroora zallaqa irratti argamu").
+galmee(cornu, n, [cornua], "waantota lafee foon addaa ta\'eKAN FAAYINADHAABU adj").
+entry(cornus, n, [cornuses], "angaaf jedhamtu").
+entry(cornute, maq, [], "akka machiidhaa").
+entry(cornuted, maq, [], "cornute").
+galmee(cornuto, n, [cornutos], "mataa warra amanamumma hin qabnee").
+entry(corny, adj, [], "KORNII KORNII DIPSIIN").
+entry(corody, n, [corodies], "karoorri nyaataa yookaan uffannaa").
+galmee(corolla, n, [corollas], "joobira kan dukkana foolii biqiltuu").
+entry(corona, n, [koronoota], "ykn KORONAE gadi-buutuu ifaan naannoo wanta samaawaa").
+entry(coronach, n, [coronachs], "jijji").
+galaan(coronal, n, [coronals], "ulee mataa irratti uffatamu").
+daangaa(coronary, n, [coronaries], "hodhuu dhiiga gara onnee geessu").
+entry(coroonates, v, [coroonateed,coroonateeing,coroonatees], "kora dhaabuu").
+entry(coronel, n, [coronels], "koronaal").
+entry(coroner, n, [coroners], "loltu dhaabilee shakkan irratti qoratu").
+entry(coronet, n, [coronets], "crownii xiqqaa").
+entry(koronoidii, adj, [], "kan taajjabbii fakkaatu").
+entry(corotate, v, [waan wal-duraa-dubaan sochooftu,waan wal-duraa-dubaan sochooftu,waan wal-duraa-dubaan sochooftu], "waan wal-duraa-dubaan sochoofuu").
+entry(corozo, n, [corozos], "muka paalmi qorraa").
+entry(corpora, a, [], "pl of corpus").
+entry(korporaal, n, [korporaalota], "sadarkaa waraanaa").
+entry(korpsii, n, [korpsii], "yunitii waraanaa").
+gelcha(du'a, n, [du'ota], "qaama du'aa").
+galii(qorichaadhaaf, n, [qorichaadhota], "nama gargaarsa jalqabaa keessatti leenjifame").
+entry(corpus, n, [corpora], "\"ykn CORPUSESqaama nama ykn bineensa\"").
+entry(corrade, v, [corraded,corrading,corrades], "guhee'uu").
+entry(corral, v, [corralled,corralling,corrals], "horii bakka itti uwwiftu, walakkaa dirree uwwifamaa kaa'uu").
+entry(correct, adj, [], "dogoggora irraa bilisa").
+galmee(dogoggora, v, [sirreeffamee, sirreeffachaa, sirreeffata], "dogoggora irraa bilisa taasisuuf").
+entry(corretto, n, [correttos], "espresso makiinaa itti dabalame").
+entry(corrida, n, [corridas], "korida").
+entry(daandii, n, [daandiilee], "daandii dhiphoo").
+entry(corrie, n, [corries], "kitaaba cirque'a").
+entry(corrival, n, [corrivals], "dinagdee waliin hirwaata ykn morkataa ta'e").
+entry(corrode, v, [corroded,corroding,corrodes], "xuuxuudhaan balleessuu").
+entry(corrody, n, [corrodies], "corody").
+entry(corrupt, adj, [], "HIN SEERAQAME HIN AMANAMNE").
+entry(hubuu, v, [hubame, hubaa, hubtu], "dhugummaa ykn amantee baddisiisuuf").
+entry(corsac, n, [corsacs], "uwaa xiyya’aa Xaana").
+entry(corsage, n, [corsages], "data gabaabaa").
+entry(corsair, n, [corsairs], "falaasama").
+entry(corse, n, [corses], "ffaa fakkaatu").
+galmee(korseleetii, n, [korseleetota], "uffata qaama eegsisuu").
+entry(corset, v, [corseted,corseting,corsets], "qaama gadi fageenya naanno ijaarsa deeggaruu fi sanduuqda itti hidhamu").
+entry(falmasii, n, [falmasiilee], "hojii korsetii hojjechuu").
+entry(corslet, n, [corslets], "korselet").
+entry(korteeji, n, [kortejoota], "simbira fi qubee bu'uurarraa makamani ga'ee adda qabani").
+galmee(korteks, n, [korteksota], "ykn KORTEEKSIIda partii alaa qaamaCORTICAL adj").
+galmee(kortiinii, n, [kortiniiwwan], "hormoonii").
+entry(cortina, n, [cortinas], "kaampiifin irra kan mul’atu xaxaa faana").
+galmee(kortisol, n, [kortisoloota], "hoormoonii").
+entry(coruler, n, [corulers], "nama waliin dhaabbattee irraa bulchu").
+galmee(korundum, n, [korundumoota], "meeshaa jabaa").
+entry(corvee, n, [corvees], "dirqama tajaajila gadaa raawwachuu").
+galmee(corves, pl, [], "kan corf").
+entry(corvet, n, [corvets], "korvetii").
+entry(taankii, n, [taankiilee], "bishaan irratti sooressa dhiibba dafe qabaachuu danda'u").
+entry(corvid, n, [corvids], "kanarraa maatii simbirroota gaarree tokko").
+entry(corvina, n, [corvinas], "corbina").
+entry(corvine, adj, [], "mudannoo ykn kan maatii gogaa hoomuuraati").
+entry(cory, n, [cory], "gatiin maallaqaa durii Giniitti").
+entry(corybant, n, [corybants], "ykn CORYBANTESa nagaha baqatudha").

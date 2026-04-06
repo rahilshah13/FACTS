@@ -28942,3 +28942,13 @@ entry(wafery, agg, [], "che assomiglia a un wafer, un biscotto sottile e croccan
 entry(waff, v, [waffed,waffing,waffs], "agitare").
 entry(waffie, n, [waffies], "un vagabondo").
 entry(waffle, v, [waffled,waffling,waffles], "parlare in modo vago o indeciso").
+entry(waffler, n, [wafflers], "uno che tergiversa").
+entry(waffling, n, [wafflings], "una dichiarazione o posizione indecisa").
+entry(waffly, agg, [], "WAFFLIER WAFFLIESTindeciso").
+entry(trasportare, v, [trasportato, trasportando, trasporta], "trasportare leggermente nell'aria o sull'acqua").
+entry(waftage, n, [waftages], "l'atto di trasportare").
+entry(wafter, n, [wafters], "uno che fluttua").
+entry(agitazione, n, [agitazioni], "ondeggiamento").
+entry(wag, v, [scodinzolava,scodinzolando,scodinzola], "muoversi vivacemente su e giù o avanti e indietro").
+entry(stipendio, v, [pagato,pagando,stipendi], "impegnarsi in o continuare").
+entry(senza_salari, agg, [], "non retribuito").

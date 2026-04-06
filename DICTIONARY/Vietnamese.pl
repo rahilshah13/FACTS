@@ -416,3 +416,22 @@ entry(adamsite, n, [adamsites], "một loại khí gây kích thích phổi").
 entry(adapt, v, [adapted,adapting,adapts], "làm cho thích hợp").
 entry(adapter, n, [adapters], "một cái để thích nghi").
 entry(thích ứng, n, [sự thích ứng], "hành động đáp ứngTHÍCH ỨNG adj").
+entry(adaptor, n, [adaptors], "bộ điều hợp").
+entry(adaxial, adj, [], "nằm ở cùng phía với").
+entry(adbot, n, [adbots], "một chương trình máy tính chuyên dụng").
+mục_lục(thêm, v, [thêm_đã, đang_thêm, thêm_vào], "kết hợp hoặc gia nhập để mang lại sự gia tăngKHẢ_NĂNG_THÊM adj").
+entry(addax, n, [addaxes], "một loài linh dương lớn").
+entry(addedly, adv, [], "thêm vào đó").
+entry(addend, n, [các_số_hạng], "một số được thêm vào số khác").
+entry(phụ lục, n, [phụ lục], "hoặc GIÂY PHÉP đã thêm hoặc sẽ thêm").
+entry(adder, n, [adders], "một con rắn có nọc độc").
+entry(addible, adj, [], "có khả năng được thêm vào").
+entry(nô lệ, v, [bị_nghiện,đang_nghiện,nghiện], "dành thời gian cho một việc gì đó một cách thường xuyên hoặc một cách không thể kiểm soát").
+entry(thêm, n, [những_sự_thêm_vào], "một cái gì đó được thêm vào").
+entry(phụ gia, n, [những chất phụ gia], "một chất được thêm vào chất khác để mang lại các đặc tính mong muốn").
+entry(additory, adj, [], "thực hiện một sự bổ sung").
+entry(addle, v, [addled,addling,addles], "làm bối rối").
+entry(address, v, [addrest,addressing,addresses], "nói chuyện với").
+entry(suy_đoán, v, [đã_suy_đoán,đang_suy_đoán,suy_đoán], "đưa ra làm bằng chứng").
+entry(adducent, adj, [], "phục vụ để khép lại").
+entry(adducer, n, [adducers], "một người viện dẫn").

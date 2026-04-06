@@ -771,3 +771,20 @@ entry(agora, n, [agoras], "utawa AGORAE pasar ing Yunani kuna").
 ```prolog
 entry(agora, n, [agorot], "utawa AGOROTSawakara unit monetary Israel").
 ```
+entry(agrafe, n, [agrafes], "agraffe").
+entry(agraffe, n, [agraffes], "hiasan pengikat").
+entry(agrapha, npl, [], "piwulang-piwulange Yesus sing ora ditemokake ing Alkitab").
+entry(agraphia, n, [agraphias], "gangguan mental sing ditandai karo ora bisa nulisAGRAPHIC adj").
+entry(agraria, n, [agraria-agraria], "siji sing seneng karo distribusi tanah sing padha").
+entry(agravic, adj, [], "kondisi tanpa gravitas").
+entry(sepak, v, [nyepak, nyepakke, nyepak, nyepakan], "duwe pendapat sing padha").
+entry(agrestal, adj, [], "tuwuh liar").
+entry(agrestik, adj, [], "desa").
+entry(agria, n, [agrias], "jroning pusthi pustular abot").
+entry(agrimony, n, [agrimonies], "taneman taunan").
+entry(agro, n, [agros], "siswa ilmu pertanian").
+entry(agrologi, n, [agrologi-agrologi], "ilmu babagan lemah ing hubungane karo tanduran").
+entry(agronomi, n, [agronomi-agronomi], "penerapan prinsip-prinsip ilmiah kanggo budidaya lahan").
+entry(aground, adv, [], "ing lemah").
+entry(agrypnia, n, [agrypnias], "ora bisa turu").
+entry(aguacate, n, [aguacates], "siji alpukat").

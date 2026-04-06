@@ -282,3 +282,24 @@ entry(acetify, v, [acetified,acetifying,acetifies], "gawing suka").
 entry(acetin, n, [acetins], "isang compound na kemikal").
 entry(asetona, n, [asetonas], "isang nasusunog na likidoASETONIK adj").
 entry(acetose, adj, [], "asido").
+entry(acetous, adj, [], "lasa ng suka").
+entry(acetoxyl, n, [acetoxyls], "isang univalent na radikal").
+entry(acetum, n, [aceta], "suka").
+entry(acetyl, n, [acetyls], "isang univalent radicalACETYLIC adj").
+entry(kirot, v, [umikirot, umiingkronika, kirot], "makaranas ng tuloy-tuloy at mahinang sakit").
+entry(achene, n, [achenes], "isang uri ng prutasACHENIAL adj").
+entry(achier, komparatibo, [], "ng achy").
+entry(pinakamasakit, pinakasalita, [], "ng masakit").
+entry(makamit, v, [nagawa,nagkakamit,naisasakatuparan], "upang maisakatuparan ng matagumpay").
+entry(nakamit, n, [mga nakamit], "isa na nakamit").
+entry(achillea, n, [achilleas], "mansi").
+entry(kasakitan, n, [mga kasakitan], "ang estado ng pagiging masakit").
+entry(sumakit, pangkasalukuyan, [], "participle ng sakit").
+entry(achingly, pang-abay, [], "sa paraang nagdudulot ng kirot").
+entry(achiote, n, [achiotes], "isang mala-dilaw na pulang pangkulay").
+entry(achiral, adj, [], "nauukol sa isang simetrikong molekula").
+entry(acholia, n, [acholias], "kakulangan ng apdo").
+entry(atsing, interj, [], "atsing").
+entry(achromat, n, [achromats], "isang uri ng lente").
+entry(achromic, adj, [], "walang kulay").
+entry(achy, adj, [], "MAS MASAKIT MAGSALITANG").

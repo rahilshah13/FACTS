@@ -121,3 +121,26 @@ entry(주름위, n, [주름위들], "반추동물의 네 번째 위").
 entry(abomasus, n, [샘위], "양의 네 번째 위").
 entry(aboon, 부사, [], "위에").
 entry(aboral, adj, [], "입에서 멀리 떨어져 있는ABORALLY adv").
+엔트리(aborning, 부사, [], "태어나면서").
+entry(abort, v, [aborted,aborting,aborts], "태아를 조산하다").
+entry(aborter, n, [aborters], "낙태시키는 사람").
+낙태(entry, n, [낙태들], "생존 불가능한 태아의 유도 배출").
+중단하다(중단하다, 형용사, [], "성공하지 못하다").
+출입(유산태아, 명사, [유산태아들], "낙태된 태아").
+entry(abought, 과거, [], "aby 및 abye의 시제").
+entry(aboulia, n, [aboulias], "아불리아ABOULIC 형용사").
+항목(풍부한, 동, [풍부했다, 풍부한, 풍부하다], "많은 수량이나 양을 갖다").
+정보(about, 부사, [], "약").
+위치(above, n, [aboves], "위에 있는 어떤 것").
+entry(abrachia, n, [abrachias], "팔이 없는 상태").
+항목(abradant, n, [abradants], "연마재").
+entry(마모시키다, 동, [마모시켰다,마모시키는,마모시킨다], "마찰로 인해 닳게 하다").
+entry(광택기, n, [광택기들], "마모 도구").
+entry(마모, n, [마모들], "연마의 행위").
+entry(연마재, 명사, [연마재들], "연마하는 물질").
+entry(abreact, v, [abreacted,abreacting,abreacts], "기억 속의 초기 트라우마 경험을 다시 체험함으로써 억제된 감정을 해소하다").
+입력(나란히, 부사, [], "나란히, 병행하여").
+entry(피난처, 명사, [피난처들], "폭탄 대피소").
+entry(abridge, v, [abridged,abridging,abridges], "길이를 줄이다").
+요소(축약자, 명사, [축약자들], "축약하는 사람").
+entry(새로운, 형용사, [], "활발한").

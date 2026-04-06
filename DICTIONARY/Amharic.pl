@@ -16302,3 +16302,4561 @@ entry(ሞላል, ግምጃ, [], "ከሞል ጋር የተያያዘ").
 entry(ሞላሊቴ, ነ, [ሞላሊቶች], "እንቆቅልሽ በ 1000 ግራም ነከምሃጣፊ በቃል ዝርዝር የምታገኝ እየሆነ የፈሳሽ ፍርስራሾች የተዳርሳሪው ዓይነት").
 መግቢያ(ሞላር, ነ, [ሞላሮች], "የሚያጋጥመው ጥርስ").
 entry(ሞላሪቲ, ነ, [ሞላሪቲዎች], "የተለያዩ ሐኪሞች በማይሲ ውስጥ አችኖወሉ").
+entry(ሞላሲስ, ተ, [molasseses], "ረጅም ረቂቅ").
+መግባት(ሞልድ, ግ, [ሞልደዋል, ሞልድ እያደረገ, ሞልዶች], "በተወሰነ ቅርጽ ማምለክ የሚቻል ቃል መሆን ይችላል").
+entry(እንቅብሻ, v, [እንቅበሻል, እንቅብሻየ, እንቅብሻያች], "በተፈጥሮ መሻሻል እና ወደ ትቢያ መቀየር").
+entry(moldier, የመጠን ከፊት ከተነ እንደ ግምጋማ የሚያሳይ, [], "የደሙት መንገድ").
+entry(ዝተፈጉረ, ዋነኛ, [], "የእብካም").
+እትም(molding, ን, [moldings], "ምርት ያነሰ ቁመቱ ለመጌጠም የሚጠቀም").
+entry(ሞልድዋርፕ, ኗ, [ሞልድዋርፖች], "በመሬት ውስጥ የሚሰፍር እንስሳ").
+entry(moldy, adj, [], "MOLDIER MOLDIESTmusty").
+entry(ሞል, ነ, [ሞሎች], "የአካል ክብደት ከአካል ሞለኪላዊ ክብደት ጋር የተዛመደ አንድ ክፍትል").
+entry(መምጣት, ኤም, [መምጣት], "አንድ ነገር ትንሽ ክፍል").
+መግቢያ(ምልህቃልሻህ, ነ, [ምልህቃልነቶች], "ወንድም ወይም አንቀልዳ ዳር").
+entry(moleskin, n, [moleskins], "ከነሸራት ልብስ ፍትል የተሰራ ነገር").
+የመግባት(ማጨበር, ግ, [ማጨበሩ, ማጨበር በመቆጣጠር, ይማጨበረዋል], "ማበሳጨት ወይም ማስቸገር")
+entry(ዘፈወር, በ, [ዘፈወራን], "የሚያስቸግር ሰው").
+እብካል(molies, ብዝሑ, [], "የመሾም እብካል").
+entry(moline, ተውላጭ, [], "ክንዶች በዳርቻው የተጠነኩሩ እና የተታጠቁ ያላቸው ተጠቃሚ የመዝሀረ ምልክት ጋር የተጠቀመ").
+entry(ሞል, ን, [ሞልስ], "የጋንክስተር ወዳጆች").
+entry(ሞላህ, ነ, [ሞላህስ], "ሙላህ").
+entry(ሞሊ, ን, [ሞሊዎች], "አንድ ከፍታ ባህር ዓይነት አሣ").
+entry(ሞሊዩች, ብዙ, [], "የሞሊ").
+entry(በሞንጋታ, ግ, [ተሞንገጠ, ማሞንጋት, ተነካውን], "አሰላለለ").
+entry(እትር, ን, [እትራት], "እትር").
+entry(mollusca, npl, [], "የቆዳ በሽታዎች").
+entry(ሞለስክ, ነ, [ሞለስኮች], "የሚታወቁ እንቅስቃሴ ካልባዶች አስርዓት").
+entry(ሞሊ, ኤን, [ሞሊዎች], "ሞሊ").
+entry(ሞሎክ, ነ, [ሞሎኮች], "አንካሳ እርግብ").
+entry(molt, v, [ልብ ቀየየ,ልብ መቀየይት,ልብ ይቀየያል], "ተጨማሪ ልብስ አስወገደ").
+ፍቀድ(እቃው, ግምገማ, [], "በሙቀት የሚያንቀሳቀስ ዕቃMOLTENLY ግቤት").
+entry(molter, ን, [molters], "አንድ ያለቀሰ").
+entry(molto, adv, [], "በጣም በሙዚቃ መመሪያዎች ውስጥ የተጠቀሰ").
+entry(moly, n, [molies], "የተዳበረ ሽንኩርት").
+entry(moly, n, [molys], "ሞሊብዴኑም").
+entry(molybdic, ድርጊት, [], "ለአንድ ሐገር ውስጥ ያለ የታወቀ ንጥረ ነገር ተመሳሳይ መሆን").
+entry(እናት, ን, [እናቶች], "እናት").
+እትም(mome, n, [momes], "አሁን ታሪክ").
+moment ፣ ነ፣ [አፋት] ፣ "አጭር ውስን ዘመን"
+entry(ሞመንታ, a, [], "ና የእንቅስቃሴ ነ ዕለታዊው").
+entry(እቅፍ ቦታው, ግንዛቤ, [], "ከአንድ ሰዓት እስከ ሌላው ሰዓት").
+entry(momento, n, [momentos], "or MOMENTOESmemento").
+ፍትሒ(momentum, አ, [momentums], "ወይም MOMENTAእንቅስቃሴ ኃይል").
+entry(ሞሚ, አ, [], "የ momus ብዝሐት").
+entry(momism, ን, [ሞሚዝም], "በእናቶች ላይ ከመጠን በላይ መደገፍ").
+entry(እናት, ነ, [እናቶች], "እናት").
+እትም(mommy, የሶስተኛው ሰውነት ስም, [mommies], "እናት").
+entry(momser, ን, [momsers], "የአናጣ").
+entry(ሞሙስ, ነ, [መዞጎች], "ወይም መሞማ መተያየዣዊ እንነ").
+entry(መሞዝር, ነ, [መሞዝርስ], "መሞስር").
+entry(mon, n, [ወንድ], "ሰው").
+entry(monachal, adj, [], "ባህርይ እንደ መነኩሳት የሚኖር").
+entry(monacid, n, [monacids], "ሞኖአሲድ").
+entry(monad, n, [ነጠላ], "ሓደ ሐይሊኛይ ኦርጋኒዝምመነዛል መነዲክ ተወላጸ").
+entry(monades, ብዙ, [], "የ monas").
+entry(መነዳት, n, [መነዳቶች], "የፍልስፍና ትምህርት").
+entry(ሞናሚን, ነ, [ሞናሚንስ], "አንድ አሚኖ ቡድን ብቻ ያለው አሚን").
+መግቢያ(ተመንድር, ን, [ተመንድሮች], "በአንድ ጊዜ አንድ ባል ተያዝነት ያለበት ሁኔታ")
+መግቢያ(ንጉሥ, ን, [ነገሥታት], "አንድ ፍጹም ዳኝ")
+entry(መንግሥት, n, [መንግሥታት], "እንደ ንጉሥ የምትገዛ").
+entry(monarda, n, [ሞነርዳስ], "አሮማተሪ ቅጠል").
+entry(ሞናስ, ስ, [ሞናድስ], "አንድ ሞናድ").
+entry(መነኮሳይ, ን, [መነኮሳያን], "መነክሳይ")。
+entry(መነነር, ግምገማ, [], "የማንኛውም ዓይነት አይነት ወይም መዋቅር ተዋሥኖ አንድ መሠረት መያዣ ወይም መስላት").
+entry(monaxial, adj, [], "አንድ ዜጋ ያለው").
+entry(monaxon, n, [monaxons], "በመዋጮ ውስጥ አስቸጋሪ እንደገና በትክክል ሚሄድ").
+entry(ሞናዚት, ነ, [ሞናዚትስ], "አንድ እንጨት").
+entry(ዓለም, ሰ, [ዓለሞች], "ዓለም").
+entry(ሞንዶ, ብ, [ሞንዶሶች], "በዜን ቡድሂይም የተጠቃለ ፈጣን ጥያቄ እና መልስ ቴክኒክ").
+entry(monecian, ግምጃ, [], "በአንድ ግለሰብ ውስጥ ሁለቱም ወንድና ሴት ዝርዝር ማስተካከያን ማግኝት").
+መግቢያ(monellin, ን, [monellins], "ከምዕራብ አፍሪቃ ቀይ እቃ የተገኘ አካባቢ").
+entry(ሞነራን, ነ, [ሞነራኖች], "የተቦጣ ኒኩለሄስ ያልነበረው አንድ ሴሉላር ኦርጋኒዝም").
+ውሂባዊ(ገንዘባዊ, ግም, [], "ከገንዘብ ጋር የተያያዘ").
+entry(ገንዘብ ማውረድ, ግ, [ገንዘብ አውርዷል, ገንዘብ አውርዶ ነው, ገንዘብ ያውርዳል], "ገንዘብ ማውረድ").
+entry(ገንዘብ መዋል, ግ, [ገነዘበ, ሲገነዘብ, ይገነዘብ], "በገንዘብ ለወዝን ማንቀሳቀስ").
+entry(ገንዘብ, ን, [ገንዘቦች], "ወይም ከአንድ ወጪ መነሻ መንገድ ይሻላል").
+entry(ገንዘብምንቸት, ን, [ገንዘብምንቸቶች], "ገንዘብ ለማከማቸት ከሚያገለግል ቦርሳ").
+entry(አለቃም/$, ግምገማ, [], "ብዙ ገንዘብ ያለው").
+እቤት(ሰንፈላሊ, ን, [ሰንፈላለዎች], "ገንዘብ የሚያበቃ").
+entry(moneyman, n, [moneymen], "የትልቅ መጠን ገንዘብ የሚጣል ግለሰብ").
+entry(ሞንጊዝ, አ, [], "በሞንጉዝ የተለያየ ድርጅት").
+መግቢያ(ነጋዴ, ግ, [ነጋደ, ነጋዴነት, ነጋዶች], "ለመሸጥ").
+entry(ሞንጎ, ን, [ሞንጎዝ], "ሙንጎ").
+entry(mongoe, n, [mongoes], "ሙንጎ").
+ፍትሕ(ሞንጎል, ነ, [ሞንጎልሲ], "በአንድ ዓይነት የምንቃት እንቅስቃሴ የተረነበረ ሰው").
+entry(mongoose, n, [mongooses], "ወይም MONGEESE እንስሳትን የሚበላ እንስሳ").
+entry(የተወላዋለ ዝርያ, ነፍ, [የተወላዋለዎች], "የተዋላዋለ ዝርያ ያለው እንስሳ ወይም ተክል").
+መግቢያ(በመካከል, ቅድመ አላማ, [], "መካከል").
+entry(monic, adj, [], "ማንኛውም ዓይነት ፖሊኖሚያልን እንደሚገልጽ").
+entry(monicker, n, [monickers], "ስም").
+entry(monie, ቅዳሴ, [], "ብዙ").
+entry(monied, adj, [], "ያለ ገንዘብ").
+entry(ገንዘቦች, አ, [], "ብዙ ገንዘብ").
+entry(moniker, n, [ስምፋሽ], "ስም").
+ይህንን ፕሮሎግ መስመር ወደ አማርኛ በፕሮሎግ:
+
+```prolog
+መግቢያ(ሞኒሊያ, ነ, [ሞኒሊያዬ], "የእንስሳ በሽታን የሚያስከትል አይነት ፈንገስ").
+```
+entry(ሞኒሽ, ግ, [ሞኒሽድ,ሞኒሽንግ,ሞኒሽስ], "ማስጠንቀቅ").
+entry(መዋእልነት, ን, [መዋእልነቶች], "የፍልስፍና ነው").
+እትመት(ሞኑስት, ድ, [ሞናስትስ], "ሞኒዝምን የሚያከብር የግማሽነት ተአያይዞ")
+entry(አስጠንቀቂያ, ነ, [አስጠንቀቃሾች], "ማስጠንቀቂያ").
+entry(monitive, ግምታዊ, [], "ማስጠንቀቂያ መስጠት").
+entry(መከታተል, ግ, [ተከታተለ,እንከታተላለን,እንከታተላለው], "ለመከታተል").
+entry(monitory, n, [መጠንቀቂያዎች], "መጠንቀቂያ ደብዳቤ").
+entry(ማስራሕ, ነ, [ማስራሕት], "ዝተራባዋዊ ርሕራሕ ስምምዕ ካልኣይ ተራመናሲ").
+entry(መነነ, ን, [መነናዎች], "የመነነት መኖር ሁኔታ").
+ይግባ(monkey, v, [monkeyed,monkeying,monkeys], "መምሳሌ መዋል").
+መግቢያ(ሞንክፊሽ, ሰ, [ሞንክፊሽቶች], "አካባቢ ውስጥ የሚገኝ አሣ").
+መግቢያ(ሲሉስላምነት, ስ, [ሲሉስላምነቶች], "ሲሉስላም መሆን ሁኔታ").
+entry(መነኮሳዊ, ግምታዊ ስም, [], "ወደ መነኮሳት የሚገኝ ወይም የሚመሰል ነገር").
+እትም(mono, ን, [monos], "ተዋህዶ በሽታ").
+ፍትም(ሞኖአሲድ, ኤን, [ሞኖአሲዶች], "አንደኛ ዓይነት አሲድ")።
+entry(ሞኖብሎክ, ቅጽ, [], "በአንድ ማዕዘን ውስጥ የተሰራ").
+entry(ሞኖካርፕ, ነ, [ሞኖካርፕስ], "አንድ ጊዜ ፍሬ ከማበቅ በፊት የሚሞተው ዕፅዋት።").
+መግቢያ(monocle, n, [monocles], "አንደኛ ዓይን ላይ የሚሉት መነፅር አስማማሪ ወይም MONOCLED adj").
+entry(monocot, n, [ሞኖካቶች], "የዘር እፅ አይነት").
+entry(አንደኛ , ን, [አንደኞች], "አንደኛ እንግዳ").
+entry(የአንድአይነትመሬት, ነ, [የአንድአይነትአቀማመጦች], "አንድአይነት አትክልት በአንደአንድ መሬት በአመት ላይ".).
+እትም(monocyte, ና, [monocytes], "የነጭ ደም ህዋስ አይነት").
+entry(monodist, n, [monodists], "ያንዳርሳ የሚጽፍ").
+entry(monody, n, [ሞኖዲዎች], "በአንድ ሰው የተደረገ ማስታወሻ፤ ሞኖዲክ ተ.").
+entry(አንድ ጥምረት, ነፍሰጡስ, [አንድ ጥምሮች], "የመሳሪያን አስቀመጣት").
+እትም(monofil, ን, [monofils], "የማለዳፊ ፈንቃድ አንድ ማክፋይ").
+entry(ሞኖፉይል, ነ, [ሞኖፉይሎች], "የሮኬት ተንፈሳ").
+entry(አንድቀንዲነት, ን, [አንድቀንዲነቶች], "ከአንድ ሰው ጋር በአንድ ጊዜ የምጋባ ጋብቻ").
+entry(አንድጥያነት, ን, [አንድጥያነቶች], "ዘላለማዊ እንሳሳይ እንኸኝ").
+entry(monogerm, adj, [], "አንዲት ተክል የሚያበቅል ፍሬ መሆኑ").
+entry(ማንምዓለም, ነ, [ማንምዓለሞች], "አንድ ቋንቋ ብቻ የሚናገር ወይም የሚጽፍ ሰው").
+መግቢያ(ሞኖግራም, ግ, [ሞኖግራምድ,ሞኖግራምኢንግ,ሞኖግራምስ], "ወይም ሞኖግራምድ ሞኖግራምኢንግ ሞኖግራምስ የእነሱን የመጀመሪያ ፅሁፈት ዝንባሌ ማቅረብ").
+entry(ሞኖጌኒ, ኒ, [ሞኖጌኒዖች], "አንደኛው እስከማት የአንድ ሚስት መኖር ሁኔታ").
+entry(ሞኖሃል, ን, [ሞኖሃሎች], "አንድ መንቀሳቀስቢ ያለው ᠀ል").
+ማህደር(ሞኖኪን, ነ, [ሞኖኪንስ], "ነጣሪ ደም ሽሮች የሚለቀቅበት ንጥረ ነገር").
+entry(ሞኖኪኒ, ስ, [ሞኖኪኖች], "ቢኪኒ የታችኛው ክፍል").
+entry(ሞኖሊት, ን, [ሞኖሊቶች], "አንድ ትልቅ የድንጋይ ግንብ").
+entry(ሞኖሎግ, ግ, [ሞኖሎገድ,ሞኖሎጊንግ,ሞኖሎጎች], "አንድ ሰው በረዳት ድምጻ ስትያውነት መቅሪት ወይም መነጋገር").
+entry(መነሻ, ነ, [መነሻዎች], "ማንኛውም እዝል ማተሚያ").
+entry(ሞኖመር, ኒ, [ሞኖመርስ], "የኬሚካል ውህድ አይነት").
+እትም(monomial, n, [monomials], "ከአንድ ቃል የተሠራ አልጋብላ አቀማመጥ").
+entry(ሞኖፖድ, ነ, [ሞኖፖዶች], "አንድ እግር ያለው የካሜራ ድጋፍ").
+መግቢያ(ሞኖፖድ, በ, [ሞኖፖዶች], "አንድ እግር ያለው ፍጥረት").
+entry(ሞኖፖዲ, ን, [ሞኖፖዲዎች], "አንድ ሜትሪካል እግር የተዋሃደ መጠን").
+entry(ሞኖፖል, ነ, [ሞኖፖሎች], "የሬድዮ መቀበያ አንደኛ አይነት").
+entry(ሞኖፖሊ, ን, [ሞኖፖሊያዎች], "በልዩ ገበያ ላይ የአንድ ንብረት ወይም አገልግሎት ብቸኛ ቁጥጥር").
+entry(ሞኖሬል, ነ, [ሞኖሬሎች], "ትራክ የሆነ በአንድ መስመር ላይ ላይ የሚንቀሳቀስ መኪና").
+entry(ሞኖስኪ, አ, [ሞኖስኪዞች], "ለሁለቱም እግር የሚሆን ትልቅ እንጨት").
+entry(ሞኖሰውም, ኤን, [ሞኖሰውሞች], "ያልተሳማ ክሮሞሰውም").
+እትም(monosomy, ን, [monosomies], "ያንድ ያለ ተወላጠ ክሮሞሶም ሁኔታ")
+የእትም፣ ሰላም፣ ሙሌይ ኢንስትራመኔንት(s❯❮comments✿Feelings) <<=>>> serve_posts().executeQuery()::Fix❯Excrement(withUrine);return null!= farReach ;<|vq_985|>entry(monotint, n, [ሞኖቲንትስ], "በአንድ ቀለም በተለያዩ ጥሩት የተደረገ ስእሊ").
+entry(ሞኖቶን, ነ, [ሞኖቶኖች], "በአንድ ያልተለዋወጠ ድምፅ የተቀሰሰ የድምፅ ንባብ").
+entry(የአንደኛነት, ተ, [አንደኛነታት], "አሳዛኝ ተመሳሳሊነት").
+entry(ሞኖታይፕ, ነ, [ሞኖታይፕስ], "የቡድኑ ብቸኛ ወኪል።").
+entry(ሞኒክሳይድ, ነ, [ሞኒክሳይዶች], "አንድ ዓይነት ኦክሳይድ").
+መግቢያ(ሞንስ, ነ, [ሞንቴስ], "የሰውአካል ከፋፍመ").
+entry(monsieur, n, [messieurs], "የፈረንሳይ የተከበሩ ስያሜ ለወንድ").
+entry(ሞንሱን, ን, [ሞንሱኖች], "ወቅታዊ ነፋስ").
+entry(ፍራም, ነ, [ፍራሞች], "አደገኛ ወይም አስፈሪ ፍጡር").
+ምግባር(monstera, ን, [monsteras], "የአሜሪካ አካባቢ እፅዋት").
+entry(ሞንታጅ, v, [ሞንታጅ ሆነ, ሞንታጅ ማድረግ, ሞንታጅ ያደረገ], "የተቀላቀለ ምስል ማቀነባበር").
+መግቢያ(ተራራማ, ነ, [ተራራማዎች], "የተራራ ዝቅተኛ ዕፅ ቀለም").
+መግቢያ(ሞንቴ, ን, [ሞንቴስ], "የካርድ ጨዋታ").
+መግቢያ(ሞንተይት, ነ, [ሞንተይቶች], "ትልቅ የነቃቂ ድስት").
+entry(ሞንቴሮ, ነ, [ሞንቴሮስ], "የኮፍያ አይነት").
+entry(ሞንቴስ, ብዙ, [], "የሞንስ").
+መግቢያ(ወር, ኤን, [ወራት], "ከወደሙ 30 ቀናት ያህል ጊዜ").
+entry(monthly, n, [ወርሐዊያን], "በወር አንድ ጊዜ የሚወርቅ ህትመት").
+entry(monty, n, [monties], "ተስፋ የተሰጠው ሙሉ ቅድመ ክፍል").
+መግቢያ(ሐውልት, ን, [ሐውልቶች], "እንደ መታሰቢያ የተገነባ መዋቅር").
+entry(ሞኑሮን, ነ, [ሞኑሮኖች], "ማርያ መፍትሄ").
+entry(ብዙ, ግምገማ, [], "many").
+```prolog
+entry(moo, v, [mooed,mooing,moos], "to make the deep moaning sound of a cowMOOCH v MOOCHED MOOCHING MOOCHESto obtain without payingMOOCHER n pl MOOCHERSone that moochesMOOD n pl MOODSa persons emotional state at a particular momentMOODY adj MOODIER MOODIESTgiven to changing moodsMOODILY advMOOK n pl MOOKSa foolish or contemptible personMOOL n pl MOOLSsoft soilMOOLA n pl MOOLASmoolahMOOLAH n pl MOOLAHSmoneyMOOLEY n pl MOOLEYSmuleyMOON v MOONED MOONING MOONSto spend time idlyMOONBEAM n pl MOONBEAMSa ray of light from the moon the earths natural satelliteMOONBOW n pl MOONBOWSa rainbow formed by light from the moonMOONCALF n pl MOONCALVESa foolish personMOONDOG n pl MOONDOGSa bright spot in the sky formed by moonlightMOONDUST n pl MOONDUSTSdust on the moonMOONER n pl MOONERSone that moonsMOONEYE n pl MOONEYESa freshwater fishMOONFISH n pl MOONFISHESa marine fishMOONGATE n pl MOONGATESa circular gateway in a wallMOONIER comparative of moonyMOONIEST superlative of moonyMOONILY adv in a moony mannerMOONISH adj fickleMOONLESS adj lacking the light of the moonMOONLET n pl MOONLETSa small satelliteMOONLIKE adj resembling the moonMOONLIT adj lighted by the moonMOONPORT n pl MOONPORTSa facility for launching spacecraft to the moonMOONRISE n pl MOONRISESthe rising of the moon above the horizonMOONROOF n pl MOONROOFSa glass panel in an automobile roofMOONSAIL n pl MOONSAILSa light square sailMOONSEED n pl MOONSEEDSa climbing plantMOONSET n pl MOONSETSthe setting of the moon below the horizonMOONSHOT n pl MOONSHOTSthe launching of a spacecraft to the moonMOONWALK v MOONWALKED MOONWALKING MOONWALKSto walk on the moonMOONWARD adv toward the moonMOONWORT n pl MOONWORTSa flowering plantMOONY adj MOONIER MOONIESTresembling the moonMOOR v MOORED MOORING MOORSto secure a vessel by means of cablesMOORAGE n pl MOORAGESthe act of mooringMOORCOCK n pl MOORCOCKSthe male moorfowlMOORFOWL n pl MOORFOWLSa game birdMOORHEN n pl MOORHENSthe female moorfowlMOORIER comparative of mooryMOORIEST superlative of mooryMOORING n pl MOORINGSa place where a vessel may be mooredMOORISH adj marshyMOORLAND n pl MOORLANDSa tract of marshy landMOORWORT n pl MOORWORTSa marsh plantMOORY adj MOORIER MOORIESTmarshyMOOSE n pl MOOSEa ruminant mammalMOOT v MOOTED MOOTING MOOTSto bring up for discussionMOOTER n pl MOOTERSone that mootsMOOTNESS n pl MOOTNESSESthe state of being without legal significanceMOP v MOPPED MOPPING MOPSto wipe with a mop an implement for cleaning floorsMOPBOARD n pl MOPBOARDSa board at the base of a wallMOPE v MOPED MOPING MOPESto act in a dejected or gloomy mannerMOPED n pl MOPEDSa type of motorbikeMOPER n pl MOPERSone that mopesMOPERY n pl MOPERIESan act of dawdlingMOPEY adj MOPIER MOPIESTdejectedMOPILY advMOPHEAD n pl MOPHEADSa person with thick shaggy hairMOPIER comparative of mopyMOPIEST superlative of mopyMOPINESS n pl MOPINESSESthe state of being mopeyMOPING present participle of mopeMOPINGLY adv in a moping mannerMOPISH adj given to mopingMOPISHLY advMOPOKE n pl MOPOKESan Australian birdMOPPED past tense of mopMOPPER n pl MOPPERSone that mopsMOPPET n pl MOPPETSa childMOPPING present participle of mopMOPPY adj MOPPIER MOPPIESTresembling a mopMOPY adj MOPIER MOPIESTmopeyMOQUETTE n pl MOQUETTESa woolen fabricMOR n pl MORSa forest humusMORA n pl MORAS or MORAEa unit of metrical time in prosodyMORAINE n pl MORAINESan accumulation of debris deposited by a glacierMORAINAL MORAINIC adjMORAL adj pertaining to principles of right and wrongMORALE n pl MORALESthe state of the spirits of an individual or groupMORALISE v MORALISED MORALISING MORALISESto moralizeMORALISM n pl MORALISMSthe practice of moralizingMORALIST n pl MORALISTSa teacher of moralityMORALITY n pl MORALITIESconformity to the rules of right conductMORALIZE v MORALIZED MORALIZING MORALIZESto explain in a moral senseMORALLY adv in a moral mannerMORALS npl rules of conduct with respect to right and wrongMORASS n pl MORASSESa marshMORASSY adjMORATORY adj authorizing delay of paymentMORAY n pl MORAYSa tropical eelMORBID adj gruesomeMORBIDLY advMORBIFIC adj causing diseaseMORBILLI npl a virus diseaseMORCEAU n pl MORCEAUXa short literary or musical compositionMORDANCY n pl MORDANCIESa sarcastic qualityMORDANT v MORDANTED MORDANTING MORDANTSto treat with a caustic substanceMORDENT n pl MORDENTSa melodic embellishmentMORE adj greater additionalMOREEN n pl MOREENSa heavy fabricMOREISH adj so good that you want to have moreMOREL n pl MORELSan edible mushroomMORELLE n pl MORELLESa flowering plantMORELLO n pl MORELLOSa variety of sour cherryMORENESS n pl MORENESSESthe state of being moreMOREOVER adv in additionMORES npl the customs of a particular groupMORESQUE n pl MORESQUESan ancient decorative styleMORGAN n pl MORGANSa unit of distance between genesMORGEN n pl MORGENSa Dutch unit of land areaMORGUE n pl MORGUESa place where dead bodies are kept for identificationMORIBUND adj being about to dieMORION n pl MORIONSa type of helmetMORISH adj moreishMORN n pl MORNSmorningMORNAY n pl MORNAYS a cheeseflavored white sauceMORNING n pl MORNINGSthe early part of the dayMOROCCO n pl MOROCCOSa soft leatherMORON n pl MORONSa mentally deficient personMORONIC adjMORONISM n pl MORONISMSthe condition of being a moronMORONITY n pl MORONITIESmoronismMOROSE adj sullenMOROSELY advMOROSITY n pl MOROSITIESthe state of being moroseMORPH v MORPHED MORPHING MORPHSto be transformedMORPHEME n pl MORPHEMESa linguistic unitMORPHIA n pl MORPHIASmorphineMORPHIC adj pertaining to formMORPHIN n pl MORPHINSmorphineMORPHINE n pl MORPHINESa narcotic alkaloidMORPHING n pl MORPHINGSthe transformation of one form into anotherMORPHO n pl MORPHOSa tropical butterflyMORRION n pl MORRIONSmorionMORRIS n pl MORRISESan English folk danceMORRO n pl MORROSa rounded elevationMORROW n pl MORROWSthe next dayMORSE adj designating a code used in telegraphyMORSEL v MORSELED MORSELING MORSELS or MORSELLED MORSELLING MORSELSto divide into small piecesMORT n pl MORTSa note sounded on a hunting horn to announce the killing of an animalMORTAL n pl MORTALSa human beingMORTALLY adv fatallyMORTAR v MORTARED MORTARING MORTARSto secure with mortar a type of cementMORTARY adj containing or resembling mortarMORTGAGE v MORTGAGED MORTGAGING MORTGAGESto pledge to a creditor as securityMORTICE v MORTICED MORTICING MORTICESto mortiseMORTICER n pl MORTICERSmortiserMORTIFY v MORTIFIED MORTIFYING MORTIFIESto humiliateMORTISE v MORTISED MORTISING MORTISESto join or fasten securelyMORTISER n pl MORTISERSone that mortisesMORTMAIN n pl MORTMAINSperpetual ownership of landMORTUARY n pl MORTUARIESa place where dead bodies are kept until burialMORULA n pl MORULAS or MORULAEan embryonic mass of cellsMORULAR adjMOSAIC v MOSAICKED MOSAICKING MOSAICSto form into a mosaic a type of inlaid surface decorationMOSASAUR n pl MOSASAURSan extinct lizardMOSCATO n pl MOSCATOSa sweet dessert wineMOSCHATE adj muskyMOSELLE n pl MOSELLESa mediumdry white wineMOSEY v MOSEYED MOSEYING MOSEYSto saunterMOSH v MOSHED MOSHING MOSHESto engage in frenzied dancing with others at a rock concertMOSHAV n pl MOSHAVIMa cooperative settlement of small farms in IsraelMOSHER n pl MOSHERSone that moshesMOSHING n pl MOSHINGSfrenzied dancing at a rock concertMOSK n pl MOSKSmosqueMOSQUE n pl MOSQUESa Muslim house of worshipMOSQUITO n pl MOSQUITOS or MOSQUITOESa winged insectMOSS v MOSSED MOSSING MOSSESto cover with moss a growth of small leafystemmed plantsMOSSBACK n pl MOSSBACKSa large old fishMOSSER n pl MOSSERSone that gathers or works with mossMOSSLIKE adj resembling mossMOSSO adv rapidly  used as a musical directionMOSSY adj MOSSIER MOSSIESTcovered with mossMOST n pl MOSTSthe greatest amountMOSTE past tense of moteMOSTEST n pl MOSTESTSmostMOSTLY adv mainlyMOT n pl MOTSa witty sayingMOTE n pl MOTESa small particleMOTE v past tense MOSTEmayMOTEL n pl MOTELSa roadside hotelMOTET n pl MOTETSa type of choral compositionMOTEY adj full of motesMOTH n pl MOTHSa winged insectMOTHBALL v MOTHBALLED MOTHBALLING MOTHBALLSto put into storageMOTHER v MOTHERED MOTHERING MOTHERSto give birth toMOTHERLY adj maternalMOTHERY adj slimyMOTHLIKE adj resembling a mothMOTHY adj MOTHIER MOTHIESTfull of mothsMOTIF n pl MOTIFSa recurring thematic element in an artistic workMOTIFIC adjMOTILE n pl MOTILESone whose mental imagery consists chiefly of inner feelings of actionMOTILITY n pl MOTILITIESthe ability to moveMOTION v MOTIONED MOTIONING MOTIONSto signal by a bodily movementMOTIONAL adj pertaining to movementMOTIONER n pl MOTIONERSone that motionsMOTIVATE v MOTIVATED MOTIVATING MOTIVATESto provide with an incentiveMOTIVE v MOTIVED MOTIVING MOTIVESto motivateMOTIVIC adj pertaining to a musical motifMOTIVITY n pl MOTIVITIESthe ability to moveMOTLEY adj MOTLEYER MOTLEYEST or MOTLIER MOTLIESTcomposed of diverse elementsMOTLEY n pl MOTLEYSa garment of various colorsMOTMOT n pl MOTMOTSa tropical birdMOTOR v MOTORED MOTORING MOTORSto travel by automobileMOTORBUS n pl MOTORBUSES or MOTORBUSSESa busMOTORCAR n pl MOTORCARSan automobileMOTORDOM n pl MOTORDOMSthe motor vehicle industryMOTORIC adj pertaining to muscular movementMOTORING n pl MOTORINGSthe recreation of traveling by automobileMOTORISE v MOTORISED MOTORISING MOTORISESto motorizeMOTORIST n pl MOTORISTSone who travels by automobileMOTORIZE v MOTORIZED MOTORIZING MOTORIZEsto equip with motor vehiclesMOTORMAN n pl MOTORMENone who operates an electric streetcar or subway trainMOTORWAY n pl MOTORWAYSa type of highwayMOTT n pl MOTTSmotteMOTTE n pl MOTTESa small growth of trees on a prairieMOTTLE v MOTTLED MOTTLING MOTTLESto mark with spots or streaks of different colorsMOTTLER n pl MOTTLERSone that mottlesMOTTLING n pl MOTTLINGSan irregular arrangement of spotsMOTTO n pl MOTTOS or MOTTOESa short expression of a guiding principleMOUCH v MOUCHED MOUCHING MOUCHESto moochMOUCHOIR n pl MOUCHOIRSa small handkerchiefMOUE n pl MOUESa pouting grimaceMOUFFLON n pl MOUFFLONSmouflonMOUFLON n pl MOUFLONSa wild sheepMOUILLE adj pronounced with the front of the tongue against the palateMOUJIK n pl MOUJIKSmuzhikMOULAGE n pl MOULAGESthe making of a cast or mold of a mark for use in a criminal investigationMOULD v MOULDED MOULDING MOULDSto moldMOULDER v MOULDERED MOULDERING MOULDERSto molderMOULDING n pl MOULDINGSmoldingMOULDY adj MOULDIER MOULDIESTmoldyMOULIN n pl MOULINSa vertical cavity in a glacierMOULT v MOULTED MOULTING MOULTSto moltMOULTER n pl MOULTERSmolterMOUND v MOUNDED MOUNDING MOUNDSto pileMOUNT v MOUNTED MOUNTING MOUNTSto get up onMOUNTAIN n pl MOUNTAINSa large natural elevation of the earths surfaceMOUNTER n pl MOUNTERSone that mountsMOUNTING n pl MOUNTINGSsomething that provides a backing or appropriate setting for something elseMOURN v MOURNED MOURNING MOURNSto feel or express grief or sorrowMOURNER n pl MOURNERSone that mournsMOURNFUL adj MOURNFULLER MOURNFULLESTexpressing grief or sorrowMOURNING n pl MOURNINGSan outward sign of griefMOUSAKA n pl MOUSAKASmoussakaMOUSE n pl MICEa small rodentMOUSE v MOUSED MOUSING MOUSESto catch miceMOUSEPAD n pl MOUSEPADSa flat pad on which a computer mouse is usedMOUSER n pl MOUSERSan animal that catches miceMOUSEY adj MOUSIER MOUSIESTmousyMOUSIER comparative of mousyMOUSIEST superlative of mousyMOUSILY adv in a mousy mannerMOUSING n pl MOUSINGSa wrapping around the shank end of a hookMOUSSAKA n pl MOUSSAKASa Middle Eastern dish of meat and eggplantMOUSSE v MOUSSED MOUSSING MOUSSESto style with mousse foamy preparation used in styling hairMOUSSEUX n pl MOUSSEUXa sparkling wineMOUSY adj MOUSIER MOUSIESTresembling a mouseMOUTH v MOUTHED MOUTHING MOUTHSto put into the mouthMOUTHER n pl MOUTHERSa speakerMOUTHFUL n pl MOUTHFULSas much as the mouth can holdMOUTHY adj MOUTHIER MOUTHIESTvery talkativeMOUTHILY advMOUTON n pl MOUTONSsheepskin processed to resemble seal or beaverMOVABLE n pl MOVABLESsomething that can be movedMOVABLY adv so as to be capable of being movedMOVANT n pl MOVANTSa person who applies to a court for a favorable rulingMOVE v MOVED MOVING MOVESto change from one position to anotherMOVEABLE n pl MOVEABLESmovableMOVEABLY adv movablyMOVED past tense of moveMOVELESS adj incapable of movementMOVEMENT n pl MOVEMENTSthe act of movingMOVER n pl MOVERSone that movesMOVIE n pl MOVIESa motion pictureMOVIEDOM n pl MOVIEDOMSfilmdomMOVIEOLA n pl MOVIEOLASa device for viewing and editing filmMOVING present participle of moveMOVINGLY adv so as to affect the emotionsMOVIOLA n pl MOVIOLASmovieolaMOW v MOWED MOWN MOWING MOWSto cut down standing herbageMOWER n pl MOWERSone that mowsMOWING n pl MOWINGSthe act of cutting down standing herbageMOXA n pl MOXASa Chinese plantMOXIE n pl MOXIESspirit or courageMOZETTA n pl MOZETTAS or MOZETTEmozzettaMOZO n pl MOZOSa manual laborerMOZZETTA n pl MOZZETTAS or MOZZETTEa hooded cape worn by bishopsMRIDANGA n pl MRIDANGASa drum of IndiaMU n pl MUSa Greek letterMUCH n pl MUCHESa great amountMUCHACHA n pl MUCHACHASa young womanMUCHACHO n pl MUCHACHOSa young manMUCHLY adv very muchMUCHNESS n pl MUCHNESSESthe quality of being greatMUCHO adj much manyMUCID adj mustyMUCIDITY n pl MUCIDITIESthe state of being mucidMUCILAGE n pl MUCILAGESan adhesive substanceMUCIN n pl MUCINSa protein secreted by the mucous membranesMUCINOID MUCINOUS adjMUCK v MUCKED MUCKING MUCKSto fertilize with manureMUCKER n pl MUCKERSa vulgar personMUCKIER comparative of muckyMUCKIEST superlative of muckyMUCKILY adv in a mucky mannerMUCKLE n pl MUCKLESa large amountMUCKLUCK n pl MUCKLUCKSmuklukMUCKRAKE v MUCKRAKED MUCKRAKING MUCKRAKESto search for and expose corruptionMUCKWORM n pl MUCKWORMSa worm found in manureMUCKY adj MUCKIER MUCKIESTfilthyMUCLUC n pl MUCLUCSmuklukMUCOID n pl MUCOIDSa complex proteinMUCOIDAL adjMUCOR n pl MUCORSa type of fungusMUCOSA n pl MUCOSAS or MUCOSAEa mucous membraneMUCOSAL adjMUCOSE adj mucousMUCOSITY n pl MUCOSITIESthe state of being mucousMUCOUS adj secreting or containing mucusMUCRO n pl MUCRONES or MUCROSa sharp point at the end of certain plant and animal organsMUCUS n pl MUCUSESa viscid bodily fluidMUD v MUDDED MUDDING MUDSto cover with mud soft wet earthMUDBANK n pl MUDBANKSa sloping area of mud alongside a body of waterMUDBUG n pl MUDBUGSa crayfishMUDCAP v MUDCAPPED MUDCAPPING MUDCAPSto cover an explosive with mud before detonatingMUDCAT n pl MUDCATSa type of catfishMUDDER n pl MUDDERSa racehorse that runs well on a muddy trackMUDDIED past tense of muddyMUDDIER comparative of muddyMUDDIES present 3d person sing of muddyMUDDIEST superlative of muddyMUDDILY adv in a muddy mannerMUDDING present participle of mudMUDDLE v MUDDLED MUDDLING MUDDLESto mix in a disordered mannerMUDDLER n pl MUDDLERSone that muddlesMUDDLY adj disorderedMUDDY adj MUDDIER MUDDIESTcovered or filled with mudMUDDY v MUDDIED MUDDYING MUDDIESto make or become muddyMUDFISH n pl MUDFISHESa fish found in mud or muddy waterMUDFLAP n pl MUDFLAPSa flap hung behind a rear wheel of a vehicle to prevent splashingMUDFLAT n pl MUDFLATSa level tract alternately covered and left bare by the tideMUDFLOW n pl MUDFLOWSa moving mass of mudMUDGUARD n pl MUDGUARDSa fenderMUDHEN n pl MUDHENSa bird that lives in marshesMUDHOLE n pl MUDHOLESa hole or hollow place full of mudMUDLARK n pl MUDLARKSa street urchinMUDPACK n pl MUDPACKScosmetic paste for the faceMUDPIE n pl MUDPIESa small mass of mud formed into a pie shapeMUDPUPPY n pl MUDPUPPIESa large salamanderMUDRA n pl MUDRASa hand gesture in East Indian classical dancingMUDROCK n pl MUDROCKSpeliteMUDROOM n pl MUDROOMSa room for shedding muddy clothing or footwearMUDSILL n pl MUDSILLSthe lowest supporting timber of a structureMUDSLIDE n pl MUDSLIDESa mudflow down a slopeMUDSLING v MUDSLUNG MUDSLINGING MUDSLINGSto use insults and accusations against a rival candidateMUDSTONE n pl MUDSTONESa type of rockMUEDDIN n pl MUEDDINSmuezzinMUENSTER n pl MUENSTERSa mild cheeseMUESLI n pl MUESLISa breakfast cerealMUEZZIN n pl MUEZZINSa Muslim crier who calls the faithful to prayerMUFF v MUFFED MUFFING MUFFSto bungleMUFFIN n pl MUFFINSa small round breadMUFFLE v MUFFLED MUFFLING MUFFLESto wrap with something to deaden soundMUFFLER n pl MUFFLERSa device for deadening soundMUFTI n pl MUFTISa judge who interprets Muslim religious lawMUG v MUGGED MUGGING MUGSto assault with intent to robMUGFUL n pl MUGFULSas much as a mug can holdMUGG v MUGGED MUGGING MUGGSto make funny facesMUGGAR n pl MUGGARSmuggerMUGGED past tense of mugMUGGEE n pl MUGGEESone who is muggedMUGGER n pl MUGGERSa large Asian crocodileMUGGIER comparative of muggyMUGGIEST superlative of muggyMUGGILY adv in a muggy mannerMUGGING n pl MUGGINGSa street assault or beatingMUGGINS n pl MUGGINSESa stupid or foolish personMUGGUR n pl MUGGURSmuggerMUGGY adj MUGGIER MUGGIESTwarm and humidMUGHAL n pl MUGHALSmogulMUGSHOT n pl MUGSHOTSa photograph of a persons face for official recordsMUGWORT n pl MUGWORTSa flowering plantMUGWUMP n pl MUGWUMPSa political independentMUHLY n pl MUHLIESa perennial grassMUJIK n pl MUJIKSmuzhikMUKHTAR n pl MUKHTARSthe head of the government of a town in Arabic countriesMUKLUK n pl MUKLUKSa soft boot worn by InuitsMUKTUK n pl MUKTUKSwhale skin used for foodMULATTO n pl MULATTOS or MULATTOESthe offspring of one white and one black parentMULBERRY n pl MULBERRIESa tree bearing an edible berrylike fruitMULCH v MULCHED MULCHING MULCHESto provide with a protective covering for the soilMULCT v MULCTED MULCTING MULCTSto defraudMULE v MULED MULING MULESto strike from dies belonging to two different issues as a coinMULETA n pl MULETASa red cloth used by a matadorMULETEER n pl MULETEERSone who drives mules hoofed work animalsMULEY n pl MULEYSa hornless cowMULIE n pl MULIESa western North American deerMULING present participle of muleMULISH adj stubbornMULISHLY advMULL v MULLED MULLING MULLSto ponderMULLA n pl MULLASmullahMULLAH n pl MULLAHSa Muslim religious leader or teacherMULLEIN n pl MULLEINSa Eurasian herbMULLEN n pl MULLENSmulleinMULLER n pl MULLERSa grinding implementMULLET n pl MULLETSan edible fishMULLEY n pl MULLEYSmuleyMULLIGAN n pl MULLIGANSa stew of various meats and vegetablesMULLION v MULLIONED MULLIONING MULLIONSto provide with vertical dividing stripsMULLITE n pl MULLITESa mineralMULLOCK n pl MULLOCKSwaste earth or rock from a mineMULLOCKY adjMULTIAGE adj including people of various agesMULTICAR adj owning or involving several carsMULTIDAY adj lasting or usable for many daysMULTIFID adj divided into many partsMULTIJET adj having more than two jetsMULTIPED n pl MULTIPEDSan animal having many feetMULTIPLE n pl MULTIPLESthe product of a quantity by an integerMULTIPLY v MULTIPLIED MULTIPLYING MULTIPLIESto increase in numberMULTITON adj weighing many tonsMULTIUSE adj having many usesMULTIWAY adj having several paths or routesMULTURE n pl MULTURESa fee paid to a miller for grinding grainMUM v MUMMED MUMMING MUMSto act in a disguiseMUMBLE v MUMBLED MUMBLING MUMBLESto speak unclearlyMUMBLER n pl MUMBLERSone that mumblesMUMBLING n pl MUMBLINGSthe act of speaking unclearlyMUMBLY adj given to mumblingMUMM v MUMMED MUMMING MUMMSto mumMUMMED past tense of mum and mummMUMMER n pl MUMMERSone that mumsMUMMERY n pl MUMMERIESa performance by mummersMUMMIED past tense of mummyMUMMIES present 3d person sing of mummyMUMMIFY v MUMMIFIED MUMMIFYING MUMMIFIESto preserve by embalmingMUMMING n pl MUMMINGSa performance of a folk play by mummersMUMMY v MUMMIED MUMMYING MUMMIESto mummifyMUMP v MUMPED MUMPING MUMPSto begMUMPER n pl MUMPERSone that mumpsMUMPISH adj sullenMUMSY adj MUMSIER MUMSIESTmaternalMUMU n pl MUMUSmuumuuMUN n pl MUNSman fellowMUNCH v MUNCHED MUNCHING MUNCHESto chew with a crackling soundMUNCHER n pl MUNCHERSone that munchesMUNCHIE n pl MUNCHIESa small amount of food eaten between mealsMUNCHKIN n pl MUNCHKINSa small friendly personMUNCHY adj MUNCHIER MUNCHIESTsuitable for snackingMUNDANE adj ordinaryMUNDUNGO n pl MUNDUNGOSa foulsmelling tobaccoMUNG n pl MUNGSa round green beanMUNGO n pl MUNGOS or MUNGOESa lowquality woolMUNGOOSE n pl MUNGOOSESmongooseMUNI n pl MUNISa security issued by a state or local governmentMUNIMENT n pl MUNIMENTSa means of defenseMUNITION v MUNITIONED MUNITIONING MUNITIONSto furnish with war materielMUNNION n pl MUNNIONSa muntinMUNSTER n pl MUNSTERSmuensterMUNTIN n pl MUNTINSa dividing strip for window panesMUNTINED adjMUNTING n pl MUNTINGSmuntinMUNTJAC n pl MUNTJACSa small Asian deerMUNTJAK n pl MUNTJAKSmuntjacMUON n pl MUONSa subatomic particleMUONIC adjMUONIUM n pl MUONIUMSan electron and a positive muon bound togetherMURA n pl MURASa Japanese villageMURAENID n pl MURAENIDSa morayMURAGE n pl MURAGESa tax levied for repairing the walls of a townMURAL n pl MURALSa painting applied directly to a wall or ceilingMURALED MURALLED adjMURALIST n pl MURALISTSa painter of muralsMURDER v MURDERED MURDERING MURDERSto kill unlawfully with premeditated maliceMURDEREE n pl MURDEREESone that is murderedMURDERER n pl MURDERERSone that murdersMURE v MURED MURING MURESto immureMUREIN n pl MUREINSa type of polymerMUREX n pl MUREXES or MURICESa marine molluskMURIATE n pl MURIATESchlorideMURIATED adj pickledMURICATE adj covered with short sharp pointsMURICES a pl of murexMURID n pl MURIDSa murineMURINE n pl MURINESany of a family of small rodentsMURING present participle of mureMURK adj MURKER MURKESTdarkMURKLY advMURK n pl MURKSdarknessMURKY adj MURKIER MURKIESTdarkMURKILY advMURMUR v MURMURED MURMURING MURMURSto speak unclearlyMURMURER n pl MURMURERSone that murmursMURPHY n pl MURPHIESa potatoMURR n pl MURRSmurreMURRA n pl MURRASa substance used to make fine vases and cups in ancient RomeMURRAIN n pl MURRAINSa disease of cattleMURRE n pl MURRESa diving birdMURRELET n pl MURRELETSa small diving birdMURREY n pl MURREYSa dark purple colorMURRHA n pl MURRHASmurraMURRHINE adjMURRINE adj pertaining to murraMURRY n pl MURRIESa morayMURTHER v MURTHERED MURTHERING MURTHERSto murderMUSCA n pl MUSCAEany of a genus of fliesMUSCADEL n pl MUSCADELSmuscatelMUSCADET n pl MUSCADETSa dry white French wineMUSCAT n pl MUSCATSa sweet white grapeMUSCATEL n pl MUSCATELSa wine made from muscat grapesMUSCID n pl MUSCIDSmuscaMUSCLE v MUSCLED MUSCLING MUSCLESto proceed by forceMUSCLY adj MUSCLIER MUSCLIESTcomposed of muscle tissue that produces bodily movementMUSCULAR adj pertaining to muscleMUSE v MUSED MUSING MUSESto ponderMUSEFUL adj pensiveMUSER n pl MUSERSone that musesMUSETTE n pl MUSETTESa small bagpipeMUSEUM n pl MUSEUMSa place where objects of lasting interest or value are cared for and exhibitedMUSH v MUSHED MUSHING MUSHESto travel over snow with a dog sledMUSHER n pl MUSHERSone that mushesMUSHRAT n pl MUSHRATSmuskratMUSHROOM v MUSHROOMED MUSHROOMING MUSHROOMSto grow or spread rapidlyMUSHY adj MUSHIER MUSHIESTpulpyMUSHILY advMUSIC n pl MUSICSvocal or instrumental sounds organized to produce a unified compositionMUSICAL n pl MUSICALSa play in which dialogue is interspersed with songs and dancesMUSICALE n pl MUSICALESa program of music performed at a social gatheringMUSICIAN n pl MUSICIANSone who performs or composes musicMUSICK v MUSICKED MUSICKING MUSICKSto compose music forMUSING n pl MUSINGScontemplationMUSINGLY adv in a pensive mannerMUSJID n pl MUSJIDSa mosqueMUSK n pl MUSKSa strongly odorous substance secreted by certain animalsMUSKEG n pl MUSKEGSa marshMUSKET n pl MUSKETSa type of firearmMUSKETRY n pl MUSKETRIESthe technique of firing small armsMUSKIE n pl MUSKIESa freshwater fishMUSKIER comparative of muskyMUSKIEST superlative of muskyMUSKILY adv in a musky mannerMUSKIT n pl MUSKITSmesquiteMUSKOX n pl MUSKOXENa large bovid of arctic regionsMUSKRAT n pl MUSKRATSan aquatic rodentMUSKROOT n pl MUSKROOTSa perennial herbMUSKY adj MUSKIER MUSKIESTresembling muskMUSLIN n pl MUSLINSa cotton fabricMUSLINED adjMUSO n pl MUSOSa musicianMUSPIKE n pl MUSPIKESa freshwater fishMUSQUASH n pl MUSQUASHESa muskratMUSS v MUSSED MUSSING MUSSESto messMUSSEL n pl MUSSELSa bivalve molluskMUSSY adj MUSSIER MUSSIESTmessyMUSSILY advMUST v MUSTED MUSTING MUSTSto become mustyMUSTACHE n pl MUSTACHESa growth of hair on the upper lipMUSTANG n pl MUSTANGSa wild horseMUSTARD n pl MUSTARDSa pungent seasoningMUSTARDY adj resembling mustardMUSTEE n pl MUSTEESan octoroonMUSTELID n pl MUSTELIDSa mammal of the weasel familyMUSTER v MUSTERED MUSTERING MUSTERSto summon or assembleMUSTH n pl MUSTHSa state of frenzy occurring in male elephantsMUSTY adj MUSTIER MUSTIESThaving a stale odorMUSTILY advMUT n pl MUTSmuttMUTABLE adj capable of changeMUTABLY advMUTAGEN n pl MUTAGENSa substance that causes biological mutationMUTANT n pl MUTANTSsomething that undergoes mutationMUTASE n pl MUTASESan enzymeMUTATE v MUTATED MUTATING MUTATESto change or cause to change in formMUTATION n pl MUTATIONSthe act of changing in formMUTATIVE adjMUTATOR n pl MUTATORSone that causes a change in formMUTCH n pl MUTCHESa closefitting capMUTCHKIN n pl MUTCHKINSa Scottish unit of liquid measureMUTE adj MUTER MUTESTcharacterized by an absence of speechMUTELY advMUTE v MUTED MUTING MUTESto deaden the sound ofMUTEDLY advMUTENESS n pl MUTENESSESthe state of being muteMUTER comparative of muteMUTEST superlative of muteMUTICOUS adj lacking a pointMUTILATE v MUTILATED MUTILATING MUTILATESto deprive of a limb or other essential partMUTINE v MUTINED MUTINING MUTINESto mutinyMUTINEER v MUTINEERED MUTINEERING MUTINEERSto mutinyMUTING present participle of muteMUTINIED past tense of mutinyMUTINIES present 3d person sing of mutinyMUTINING present participle of mutineMUTINOUS adj disposed to mutinyMUTINY v MUTINIED MUTINYING MUTINIESto revolt against constituted authorityMUTISM n pl MUTISMSmutenessMUTON n pl MUTONSa unit of nucleic acidMUTT n pl MUTTSa mongrel dogMUTTER v MUTTERED MUTTERING MUTTERSto speak unclearlyMUTTERER n pl MUTTERERSone that muttersMUTTON n pl MUTTONSthe flesh of sheep used as foodMUTTONY adjMUTUAL n pl MUTUALSa mutual fundMUTUALLY adv in a manner shared in commonMUTUEL n pl MUTUELSa system of betting on racesMUTULE n pl MUTULESan ornamental block used in classical Greek architectureMUTULAR adjMUUMUU n pl MUUMUUSa long loose dressMUX v MUXED MUXING MUXESto transmit several messages simultaneously along a single channelMUZAK n pl MUZAKSrecorded background musicMUZHIK n pl MUZHIKSa Russian peasantMUZJIK n pl MUZJIKSmuzhikMUZZIER comparative of muzzyMUZZIEST superlative of muzzyMUZZILY adv in a muzzy mannerMUZZLE v MUZZLED MUZZLING MUZZLESto put a covering over the mouth of to prevent biting or eatingMUZZLER n pl MUZZLERSone that muzzlesMUZZY adj MUZZIER MUZZIESTconfusedMY pron the possessive form of the pronoun IMYALGIA n pl MYALGIASmuscular painMYALGIC adjMYASIS n pl MYASESmyiasisMYC n pl MYCSa gene that transforms a normal cell into a cancerous cellMYCELE n pl MYCELESmyceliumMYCELIUM n pl MYCELIAthe vegetative portion of a fungusMYCELIAL MYCELIAN MYCELOID adjMYCETOMA n pl MYCETOMAS or MYCETOMATAa fungous infectionMYCOLOGY n pl MYCOLOGIESthe branch of botany dealing with fungiMYCOSIS n pl MYCOSESa disease caused by a fungusMYCOTIC adjMYELIN n pl MYELINSa fatty substance that encases certain nerve fibersMYELINIC adjMYELINE n pl MYELINESmyelinMYELITIS n pl MYELITIDESinflammation of the bone marrowMYELOID adj pertaining to bone marrowMYELOMA n pl MYELOMAS or MYELOMATAa tumor of the bone marrowMYIASIS n pl MYIASESinfestation of human tissue by fly maggotsMYLODON n pl MYLODONSan extinct giant slothMYLONITE n pl MYLONITESa type of rockMYNA n pl MYNASan Asian birdMYNAH n pl MYNAHSmynaMYNHEER n pl MYNHEERSa Dutch title of courtesy for a manMYOBLAST n pl MYOBLASTSa cell capable of giving rise to muscle cellsMYOGENIC adj originating in muscle tissueMYOGRAPH n pl MYOGRAPHSan instrument for recording muscular contractionsMYOID adj resembling muscleMYOLOGY n pl MYOLOGIESthe study of musclesMYOLOGIC adjMYOMA n pl MYOMAS or MYOMATAa tumor composed of muscle tissueMYOMERE n pl MYOMERESpart of a vertebrate embryoMYOPATHY n pl MYOPATHIESa disorder of muscle tissueMYOPE n pl MYOPESone who is affected with myopiaMYOPIA n pl MYOPIASa visual defectMYOPIC adjMYOPY n pl MYOPIESmyopiaMYOSCOPE n pl MYOSCOPESan instrument for observing muscular contractionsMYOSIN n pl MYOSINSa protein found in muscle tissueMYOSIS n pl MYOSESmiosisMYOSITIS n pl MYOSITISESmuscular pain from infectionMYOSOTE n pl MYOSOTESmyosotisMYOSOTIS n pl MYOSOTISESa flowering plantMYOTIC n pl MYOTICSmioticMYOTOME n pl MYOTOMESa portion of an embryonic somiteMYOTONIA n pl MYOTONIAStemporary muscular rigidityMYOTONIC adjMYRIAD n pl MYRIADSa very large numberMYRIAPOD n pl MYRIAPODSa multilegged arthropodMYRICA n pl MYRICASa medicinal tree barkMYRIOPOD n pl MYRIOPODSmyriapodMYRMIDON n pl MYRMIDONS or MYRMIDONESa loyal followerMYRRH n pl MYRRHSan aromatic gum resinMYRRHIC adjMYRRHY adjMYRTLE n pl MYRTLESan evergreen shrubMYSELF pron a form of the 1st person sing pronounMYSID n pl MYSIDSa small crustaceanMYSOST n pl MYSOSTSa mild cheeseMYSTAGOG n pl MYSTAGOGSa teacher of religious mysteriesMYSTERY n pl MYSTERIESsomething that is not or cannot be known understood or explainedMYSTIC n pl MYSTICSone who professes to have had mystical experiencesMYSTICAL adj spiritually significant or symbolicMYSTICLY adv in a mystical mannerMYSTIFY v MYSTIFIED MYSTIFYING MYSTIFIESto perplexMYSTIQUE n pl MYSTIQUESan aura of mystery or mystical power surrounding a particular person or thingMYTH n pl MYTHSa type of traditional storyMYTHIC adj mythicalMYTHICAL adj based on or described in a mythMYTHOS n pl MYTHOIa mythMYTHY adj MYTHIER MYTHIESTresembling mythMYXAMEBA n pl MYXAMEBAS or MYXAMEBAEa slime mold that resembles an amoebaMYXEDEMA n pl MYXEDEMASa disease caused by decreased activity of the thyroid glandMYXOCYTE n pl MYXOCYTESa large cell found in mucous tissueMYXOID adj containing mucusMYXOMA n pl MYXOMAS or MYXOMATAa tumor composed of mucous tissue").
+```
+```prolog
+entry(na, adv, [naans], "nanNAB v NABBED NABBING NABSto capture or arrestNABBER n pl NABBERSone that nabsNABE n pl NABESa neighborhood movie theaterNABIS n pl NABISa group of French artistsNABOB n pl NABOBSone who becomes rich and prominentNABOBISH adjNABOBERY n pl NABOBERIESthe state of being a nabobNABOBESS n pl NABOBESSESa female nabobNABOBISM n pl NABOBISMSgreat wealth and luxuryNACELLE n pl NACELLESa shelter on an aircraftNACHAS n pl NACHASpride in anothers accomplishmentsNACHES n pl NACHESnachasNACHO n pl NACHOSa tortilla chip topped with cheese and a savory mixture and broiledNACRE n pl NACRESthe pearly internal layer of certain shellsNACRED NACREOUS adjNADA n pl NADASnothingNADIR n pl NADIRSa point on the celestial sphereNADIRAL adjNAE n pl NAESnoNAETHING n pl NAETHINGSnothingNAEVUS n pl NAEVInevusNAEVOID adjNAFF v NAFFED NAFFING NAFFSto fool aroundNAFF adj NAFFER NAFFESTlacking taste or styleNAFFNESS n pl NAFFNESSESthe quality of lacking taste or styleNAG v NAGGED NAGGING NAGSto find fault incessantlyNAGA n pl NAGASa halfsnake halfhuman creature in HinduismNAGANA n pl NAGANASa disease of horses in AfricaNAGGER n pl NAGGERSone that nagsNAGGING n pl NAGGINGSthe act of finding fault incessantlyNAGGY adj NAGGIER NAGGIESTgiven to naggingNAGWARE n pl NAGWARESsoftware that is at first free but often reminds the user to pay for itNAH adv noNAIAD n pl NAIADS or NAIADESa water nymphNAIF n pl NAIFSa naive personNAIL v NAILED NAILING NAILSto fasten with a nail a slender piece of metalNAILER n pl NAILERSone that nailsNAILFOLD n pl NAILFOLDSa fold of skin around the fingernailNAILHEAD n pl NAILHEADSthe top of a nailNAILLESS adj lacking nailsNAILSET n pl NAILSETSa steel rod for driving a nail into somethingNAINSOOK n pl NAINSOOKSa cotton fabricNAIRA n pl NAIRASa monetary unit of NigeriaNAIRU n pl NAIRUSthe lowest rate of unemployment at which there is no inflationNAIVE adj NAIVER NAIVESTlacking sophisticationNAIVELY advNAIVE n pl NAIVESa naive personNAIVETE n pl NAIVETESthe quality of being naiveNAIVETY n pl NAIVETIESnaiveteNAKED adj NAKEDER NAKEDESTbeing without clothing or coveringNAKEDLY advNAKFA n pl NAKFASa monetary unit of EritreaNALA n pl NALASnullahNALED n pl NALEDSan insecticideNALOXONE n pl NALOXONESa chemical compoundNAM a past tense of nimNAME v NAMED NAMING NAMESto give a title toNAMABLE NAMEABLE adjNAMELESS adj lacking distinction or fameNAMELY adv that is to sayNAMER n pl NAMERSone that namesNAMESAKE n pl NAMESAKESone who is named after anotherNAMETAG n pl NAMETAGSa tag bearing ones name worn for identificationNAMETAPE n pl NAMETAPESa tape bearing ones name worn for identificationNAMING present participle of nameNAN n pl NANSa round flat breadNANA n pl NANASa grandmotherNANDIN n pl NANDINSan evergreen shrubNANDINA n pl NANDINASan Asian shrubNANISM n pl NANISMSabnormal smallnessNANKEEN n pl NANKEENSa cotton fabricNANKIN n pl NANKINSnankeenNANNA n pl NANNASnanaNANNIE n pl NANNIESnannyNANNY v NANNIED NANNYING NANNIESto be overprotective towardNANNYISH adj resembling a childrens nurseNANO n pl NANOSscience that deals with materials on an atomic or molecular scaleNANOBOT n pl NANOBOTSa very small selfpropelled machineNANOGRAM n pl NANOGRAMSa unit of mass and weightNANOTECH n pl NANOTECHSthe technology of building electronic devices from individual atoms and moleculesNANOTUBE n pl NANOTUBESa microscopic tubeNANOWATT n pl NANOWATTSa unit of powerNAOS n pl NAOIan ancient templeNAP v NAPPED NAPPING NAPSto sleep brieflyNAPA n pl NAPASa soft leatherNAPALM v NAPALMED NAPALMING NAPALMSto assault with a type of incendiary bombNAPE n pl NAPESthe back of the neckNAPERY n pl NAPERIEStable linenNAPHTHA n pl NAPHTHASa volatile liquidNAPHTHOL n pl NAPHTHOLSa chemical compoundNAPHTHYL n pl NAPHTHYLSa radical derived from naphthaleneNAPHTOL n pl NAPHTOLSnaphtholNAPIFORM adj shaped like a turnipNAPKIN n pl NAPKINSa piece of material used to wipe the hands and mouthNAPLESS adj threadbareNAPOLEON n pl NAPOLEONSa type of pastryNAPPA n pl NAPPASnapaNAPPE n pl NAPPESa type of rock formationNAPPED past tense of napNAPPER n pl NAPPERSone that napsNAPPIE n pl NAPPIESa diaperNAPPING present participle of napNAPPY adj NAPPIER NAPPIESTkinkyNAPROXEN n pl NAPROXENSan antiinflammatory drugNARC n pl NARCSan undercover drug agentNARCEIN n pl NARCEINSnarceineNARCEINE n pl NARCEINESan opium derivativeNARCISM n pl NARCISMSexcessive love of oneselfNARCISSI npl bulbous flowering plantsNARCIST n pl NARCISTSone given to narcismNARCO n pl NARCOSnarcNARCOMA n pl NARCOMAS or NARCOMATAa stupor induced by a narcoticNARCOSE adj characterized by stuporNARCOSIS n pl NARCOSESa druginduced stuporNARCOTIC n pl NARCOTICSa drug that dulls the sensesNARD n pl NARDSa fragrant ointmentNARDINE adjNARDOO n pl NARDOOSa cloverlike plantNARES pl of narisNARGHILE n pl NARGHILESa hookahNARGILE n pl NARGILESnarghileNARGILEH n pl NARGILEHSnarghileNARIS n pl NARESa nostrilNARIAL NARIC NARINE adjNARK v NARKED NARKING NARKSto spy or informNARKY adj NARKIER NARKIESTirritableNARRATE v NARRATED NARRATING NARRATESto tell a storyNARRATER n pl NARRATERSnarratorNARRATOR n pl NARRATORSone that narratesNARROW adj NARROWER NARROWESTof little widthNARROWLY advNARROW v NARROWED NARROWING NARROWSto make narrowNARTHEX n pl NARTHEXESa vestibule in a churchNARWAL n pl NARWALSnarwhalNARWHAL n pl NARWHALSan arctic aquatic mammalNARWHALE n pl NARWHALESnarwhalNARY adj not oneNASAL n pl NASALSa sound uttered through the noseNASALISE v NASALISED NASALISING NASALISESto nasalizeNASALISM n pl NASALISMSnasalityNASALITY n pl NASALITIESthe quality or an instance of being produced nasallyNASALIZE v NASALIZED NASALIZING NASALIZESto produce sounds nasallyNASALLY adv through the noseNASCENCE n pl NASCENCESnascencyNASCENCY n pl NASCENCIESbirth originNASCENT adj coming into existenceNASION n pl NASIONSa point in the skullNASIAL adjNASTIC adj pertaining to an automatic response of plantsNASTY adj NASTIER NASTIESToffensive to the sensesNASTILY advNASTY n pl NASTIESsomething that is nastyNATAL adj pertaining to ones birthNATALITY n pl NATALITIESbirth rateNATANT adj floating or swimmingNATANTLY advNATATION n pl NATATIONSthe act of swimmingNATATORY adj pertaining to swimmingNATCH adv naturallyNATES npl the buttocksNATHLESS adv neverthelessNATION n pl NATIONSa politically organized people who share a territory customs and historyNATIONAL n pl NATIONALSa citizen of a nationNATIVE n pl NATIVESan original inhabitant of an areaNATIVELY adv in an inborn mannerNATIVISM n pl NATIVISMSa policy of favoring the interests of native inhabitantsNATIVIST n pl NATIVISTSan advocate of nativismNATIVITY n pl NATIVITIESthe process of being bornNATRIUM n pl NATRIUMSsodiumNATRON n pl NATRONSa chemical compoundNATTER v NATTERED NATTERING NATTERSto chatterNATTERER n pl NATTERERSone that nattersNATTY adj NATTIER NATTIESTneatly dressedNATTILY advNATURAL n pl NATURALSa type of musical noteNATURE n pl NATURESthe essential qualities of a person or thingNATURED adjNATURISM n pl NATURISMSnudismNATURIST n pl NATURISTSa nudistNAUGHT n pl NAUGHTSa zeroNAUGHTY n pl NAUGHTIESone that is naughtyNAUGHTY adj NAUGHTIER NAUGHTIESTdisobedientNAUMACHY n pl NAUMACHIESa mock sea battleNAUPLIUS n pl NAUPLIIa form of certain crustaceansNAUPLIAL adjNAUSEA n pl NAUSEASa stomach disturbanceNAUSEANT n pl NAUSEANTSan agent that induces nauseaNAUSEATE v NAUSEATED NAUSEATING NAUSEATESto affect with nauseaNAUSEOUS adj affected with nauseaNAUTCH n pl NAUTCHESa dancing exhibition in IndiaNAUTICAL adj pertaining to shipsNAUTILUS n pl NAUTILUSES or NAUTILIa spiralshelled molluskNAV n pl NAVSnavigationNAVAID n pl NAVAIDSa navigational deviceNAVAL adj pertaining to shipsNAVALLY advNAVAR n pl NAVARSa system of air navigationNAVARIN n pl NAVARINSlamb stew with vegetablesNAVE n pl NAVESthe main part of a churchNAVEL n pl NAVELSa depression in the abdomenNAVETTE n pl NAVETTESa gem cut in a pointed oval formNAVICERT n pl NAVICERTSa document permitting a vessel passage through a naval blockadeNAVIES pl of navyNAVIGATE v NAVIGATED NAVIGATING NAVIGATESto plan and control the course ofNAVVY n pl NAVVIESa manual laborerNAVY n pl NAVIESa nations warshipsNAW adv noNAWAB n pl NAWABSa nabobNAY n pl NAYSa negative voteNAYSAY v NAYSAID NAYSAYING NAYSAYSto oppose or denyNAYSAYER n pl NAYSAYERSone that denies or opposes somethingNAZI n pl NAZISa type of fascistNAZIFY v NAZIFIED NAZIFYING NAZIFIESto cause to be like a naziNE adj born with the name ofNEAP n pl NEAPSa tide of lowest rangeNEAR adj NEARER NEARESTsituated within a short distanceNEARISH adjNEAR v NEARED NEARING NEARSto approachNEARBY adj nearNEARLY adv NEARLIER NEARLIESTwith close approximationNEARNESS n pl NEARNESSESthe state of being nearNEARSIDE n pl NEARSIDESthe left sideNEAT adj NEATER NEATESTbeing in a state of cleanliness and orderNEAT n pl NEATSa bovineNEATEN v NEATENED NEATENING NEATENSto make neatNEATH prep beneathNEATHERD n pl NEATHERDSa cowherdNEATLY adv in a neat mannerNEATNESS n pl NEATNESSESthe state of being neatNEATNIK n pl NEATNIKSa compulsively neat personNEB n pl NEBSthe beak of a birdNEBBISH n pl NEBBISHESa meek personNEBBISHY adjNEBULA n pl NEBULAS or NEBULAEa cloudlike interstellar massNEBULAR adjNEBULE adj composed of successive short curvesNEBULISE v NEBULISED NEBULISING NEBULISESto nebulizeNEBULIZE v NEBULIZED NEBULIZING NEBULIZESto reduce to a fine sprayNEBULOSE adj nebulousNEBULOUS adj unclearNEBULY adj nebuleNECK v NECKED NECKING NECKSto kiss and caress in lovemakingNECKBAND n pl NECKBANDSa band worn around the neck the part of the body joining the head to the trunkNECKER n pl NECKERSone that necksNECKING n pl NECKINGSa small molding near the top of a columnNECKLACE v NECKLACED NECKLACING NECKLACESto kill by placing a tire around the neck and setting it on fireNECKLESS adj having no neckNECKLET n pl NECKLETSa closefiting ornament worn around the neckNECKLIKE adj resembling the neckNECKLINE n pl NECKLINESthe line formed by the neck opening of a garmentNECKTIE n pl NECKTIESa strip of fabric worn around the neckNECKWEAR n pl NECKWEARsomething that is worn around the neckNECROPSY v NECROPSIED NECROPSYING NECROPSIESto perform an autopsy onNECROSE v NECROSED NECROSING NECROSESto affect with necrosisNECROSIS n pl NECROSESthe death of living tissueNECROTIC adjNECTAR n pl NECTARSa delicious drinkNECTARY n pl NECTARIESa plant glandNEDDY n pl NEDDIESa donkeyNEE adj born with the name ofNEED v NEEDED NEEDING NEEDSto have an urgent or essential use forNEEDER n pl NEEDERSone that needsNEEDFUL n pl NEEDFULSsomething that is neededNEEDIER comparative of needyNEEDIEST superlative of needyNEEDILY adv in a needy mannerNEEDLE v NEEDLED NEEDLING NEEDLESto sew with a slender pointed instrumentNEEDLER n pl NEEDLERSone that needlesNEEDLESS adj not necessaryNEEDLING n pl NEEDLINGSthe act of one who needlesNEEDY adj NEEDIER NEEDIESTin a state of povertyNEEM n pl NEEMSan East Indian treeNEEP n pl NEEPSa turnipNEG n pl NEGSa photographic negativeNEGATE v NEGATED NEGATING NEGATESto nullifyNEGATER n pl NEGATERSone that negatesNEGATION n pl NEGATIONSthe act of negatingNEGATIVE v NEGATIVED NEGATIVING NEGATIVESto vetoNEGATON n pl NEGATONSnegatronNEGATOR n pl NEGATORSnegaterNEGATORY adj expressing negationNEGATRON n pl NEGATRONSan electronNEGLECT v NEGLECTED NEGLECTING NEGLECTSto fail to pay attention toNEGLIGE n pl NEGLIGESnegligeeNEGLIGEE n pl NEGLIGEESa womans dressing gownNEGROID n pl NEGROIDSmember of the black raceNEGRONI n pl NEGRONISan alcoholic beverageNEGUS n pl NEGUSESan alcoholic beverageNEIF n pl NEIFSnieveNEIGH v NEIGHED NEIGHING NEIGHSto utter the cry of a horseNEIGHBOR v NEIGHBORED NEIGHBORING NEIGHBORSto live close toNEIST adj nextNEITHER adj not one or the otherNEKTON n pl NEKTONSfreeswimming marine animalsNEKTONIC adjNELLIE n pl NELLIESan effeminate maleNELLY n pl NELLIESnellieNELSON n pl NELSONSa wrestling holdNELUMBO n pl NELUMBOSan aquatic herbNEMA n pl NEMASa nematodeNEMATIC n pl NEMATICSa liquid crystal in a particular phaseNEMATODE n pl NEMATODESa kind of wormNEMESIA n pl NEMESIASa flowering African plantNEMESIS n pl NEMESESa formidable opponentNENE n pl NENESa Hawaiian gooseNEOCON n pl NEOCONSa neoconservativeNEOLITH n pl NEOLITHSan ancient stone implementNEOLOGY n pl NEOLOGIESa new word or phraseNEOLOGIC adjNEOMORPH n pl NEOMORPHSa type of biological structureNEOMYCIN n pl NEOMYCINSan antibiotic drugNEON n pl NEONSa gaseous elementNEONED adjNEONATE n pl NEONATESa newborn childNEONATAL adjNEOPAGAN n pl NEOPAGANSone who practices a modern form of paganismNEOPHYTE n pl NEOPHYTESa noviceNEOPLASM n pl NEOPLASMSa tumorNEOPRENE n pl NEOPRENESa synthetic rubberNEOTENY n pl NEOTENIESattainment of sexual maturity in the larval stageNEOTENIC adjNEOTERIC n pl NEOTERICSa modern authorNEOTYPE n pl NEOTYPESa specimen of a speciesNEPENTHE n pl NEPENTHESa drug that induces forgetfulnessNEPETA n pl NEPETAScatnipNEPHEW n pl NEPHEWSa son of ones brother or sisterNEPHRIC adj renalNEPHRISM n pl NEPHRISMSill health caused by a kidney diseaseNEPHRITE n pl NEPHRITESa mineralNEPHRON n pl NEPHRONSan excretory unit of a kidneyNEPOTISM n pl NEPOTISMSfavoritism shown to a relativeNEPOTIC adjNEPOTIST n pl NEPOTISTSone who practices nepotismNERD n pl NERDSa socially inept personNERDISH adjNERDY adj NERDIER NERDIESTsocially ineptNEREID n pl NEREIDSa sea nymphNEREIS n pl NEREIDESa marine wormNERITIC adj pertaining to shallow waterNEROL n pl NEROLSa fragrant alcoholNEROLI n pl NEROLISa fragrant oilNERTS interj  used to express defianceNERTZ interj nertsNERVATE adj having veinsNERVE v NERVED NERVING NERVESto give courage toNERVIER comparative of nervyNERVIEST superlative of nervyNERVILY adv in a nervy mannerNERVINE n pl NERVINESa soothing medicineNERVING n pl NERVINGSa type of veterinary operationNERVOUS adj easily excitedNERVULE n pl NERVULESnervureNERVURE n pl NERVURESa vascular ridge on a leafNERVY adj NERVIER NERVIESTimpudentNESCIENT n pl NESCIENTSone who is ignorantNESS n pl NESSESa headlandNEST v NESTED NESTING NESTSto build a nest a structure for holding bird eggsNESTABLE adj capable of being fitted closely within another containerNESTER n pl NESTERSone that nestsNESTFUL n pl NESTFULSas much as a nest can holdNESTLE v NESTLED NESTLING NESTLESto lie snuglyNESTLER n pl NESTLERSone that nestlesNESTLIKE adj resembling a nestNESTLING n pl NESTLINGSa young birdNESTMATE n pl NESTMATESa bird sharing a nest with anotherNESTOR n pl NESTORSa wise old manNET v NETTED NETTING NETSto catch in a net a type of openwork fabricNETBALL n pl NETBALLSa team game similar to basketballNETBOOK n pl NETBOOKSa small portable computerNETFUL n pl NETFULSas much as a net can holdNETHER adj situated belowNETIZEN n pl NETIZENSa frequent user of the InternetNETLESS adj having no netNETLIKE adj resembling a netNETOP n pl NETOPSfriend companionNETROOTS npl political activists at the basic level of society who communicate via the InternetNETSUKE n pl NETSUKESa buttonlike fixture on Japanese clothingNETSURF v NETSURFED NETSURFING NETSURFSto browse the Internet for informationNETT v NETTED NETTING NETTSto netNETTABLE adj capable of being nettedNETTED past tense of net nettNETTER n pl NETTERSone that netsNETTIER comparative of nettyNETTIEST superlative of nettyNETTING n pl NETTINGSa netNETTLE v NETTLED NETTLING NETTLESto make angryNETTLER n pl NETTLERSone that nettlesNETTLY adj NETTLIER NETTLIESTpricklyNETTY adj NETTIER NETTIESTresembling a netNETWORK v NETWORKED NETWORKING NETWORKSto cover with or as if with crossing linesNEUK n pl NEUKSnookNEUM n pl NEUMSneumeNEUME n pl NEUMESa sign used in musical notationNEUMATIC NEUMIC adjNEURAL adj pertaining to the nervous systemNEURALLY advNEURAXON n pl NEURAXONSa part of a neuronNEURINE n pl NEURINESa ptomaine poisonNEURITIC n pl NEURITICSone affected with neuritisNEURITIS n pl NEURITISES or NEURITIDESinflammation of a nerveNEUROID adj resembling a nerveNEUROMA n pl NEUROMAS or NEUROMATAa type of tumorNEURON n pl NEURONSthe basic cellular unit of the nervous systemNEURONAL NEURONIC adjNEURONE n pl NEURONESneuronNEUROSIS n pl NEUROSESa type of emotional disturbanceNEUROSAL adjNEUROTIC n pl NEUROTICSone affected with a neurosisNEURULA n pl NEURULAS or NEURULAEa vertebrate embryoNEURULAR adjNEUSTON n pl NEUSTONSan aggregate of small aquatic organismsNEUSTIC adjNEUTER v NEUTERED NEUTERING NEUTERSto castrateNEUTRAL n pl NEUTRALSone that is impartialNEUTRINO n pl NEUTRINOSa subatomic particleNEUTRON n pl NEUTRONSa subatomic particleNEVE n pl NEVESa granular snowNEVER adv at no timeNEVUS n pl NEVIa birthmarkNEVOID adjNEW adj NEWER NEWESTexisting only a short timeNEW n pl NEWSsomething that is newNEWB n pl NEWBSa newbieNEWBIE n pl NEWBIESa newcomerNEWBORN n pl NEWBORNSa recently born infantNEWCOMER n pl NEWCOMERSone that has recently arrivedNEWEL n pl NEWELSa staircase supportNEWFOUND adj newly foundNEWIE n pl NEWIESsomething newNEWISH adj somewhat newNEWLY adv recentlyNEWLYWED n pl NEWLYWEDSa person recently marriedNEWMOWN adj recently mownNEWNESS n pl NEWNESSESthe state of being newNEWS npl a report of recent eventsNEWSBEAT n pl NEWSBEATSa news source that a reporter is assigned to coverNEWSBOY n pl NEWSBOYSa boy who delivers or sells newspapersNEWSCAST n pl NEWSCASTSa news broadcastNEWSDESK n pl NEWSDESKSthe department that receives latebreaking newsNEWSFEED n pl NEWSFEEDSa service that provides news articles for distributionNEWSGIRL n pl NEWSGIRLSa girl who delivers or sells newspapersNEWSHAWK n pl NEWSHAWKSa newspaper reporterNEWSIE n pl NEWSIESnewsyNEWSIER comparative of newsyNEWSIES pl of newsyNEWSIEST superlative of newsyNEWSLESS adj having no newsNEWSMAN n pl NEWSMENa news reporterNEWSPEAK n pl NEWSPEAKSa deliberately ambiguous languageNEWSREEL n pl NEWSREELSa short movie presenting current eventsNEWSROOM n pl NEWSROOMSa room where the news is gatheredNEWSWIRE n pl NEWSWIRESa news agency that transmits news copy to subscribersNEWSY adj NEWSIER NEWSIESTfull of newsNEWSY n pl NEWSIESa newsboyNEWT n pl NEWTSa small salamanderNEWTON n pl NEWTONSa unit of forceNEWWAVER n pl NEWWAVERSa member of a newwave movementNEXT n pl NEXTSthe one that comes immediately afterNEXTDOOR adj located in the next building or roomNEXUS n pl NEXUSESa connection or linkNGULTRUM n pl NGULTRUMSa monetary unit of BhutanNGWEE n pl NGWEEa monetary unit of ZambiaNIACIN n pl NIACINSa B vitaminNIAGARA n pl NIAGARASan outpouring or delugeNIB v NIBBED NIBBING NIBSto provide with a penpointNIBBLE v NIBBLED NIBBLING NIBBLESto eat with small bitesNIBBLER n pl NIBBLERSone that nibblesNIBBLY n pl NIBBLIESa small food itemNIBLICK n pl NIBLICKSa golf clubNIBLIKE adj resembling a penpointNICAD n pl NICADSnickel cadmiumNICE adj NICER NICESTpleasing to the sensesNICELY advNICENESS n pl NICENESSESthe quality of being niceNICETY n pl NICETIESa fine point or distinctionNICHE v NICHED NICHING NICHESto place in a receding space or hollowNICK v NICKED NICKING NICKSto make a shallow cut inNICKEL v NICKELED NICKELING NICKELS or NICKELLED NICKELLING NICKELSto plate with nickel a metallic elementNICKELIC adj pertaining to or containing nickelNICKER v NICKERED NICKERING NICKERSto neighNICKLE v NICKLED NICKLING NICKLESto nickelNICKNACK n pl NICKNACKSa trinketNICKNAME v NICKNAMED NICKNAMING NICKNAMESto give an alternate name toNICOISE adj served with black olives tomatoes olive oil and often anchoviesNICOL n pl NICOLSa type of prismNICOTIN n pl NICOTINSnicotineNICOTINE n pl NICOTINESa poisonous alkaloid in tobaccoNICTATE v NICTATED NICTATING NICTATESto winkNIDAL adj pertaining to a nidusNIDATE v NIDATED NIDATING NIDATESto become implanted in the uterusNIDATION n pl NIDATIONSthe act of nidatingNIDE v NIDED NIDING NIDESto nestNIDERING n pl NIDERINGSa cowardNIDGET n pl NIDGETSan idiotNIDI a pl of nidusNIDIFY v NIDIFIED NIDIFYING NIDIFIESto nestNIDING present participle of nideNIDUS n pl NIDUSES or NIDIa nest or breeding placeNIECE n pl NIECESa daughter of ones brother or sisterNIELLIST n pl NIELLISTSone that niellosNIELLO n pl NIELLOS or NIELLIa black metallic substanceNIELLO v NIELLOED NIELLOING NIELLOSto decorate with nielloNIENTE adv softly fading away  used as a musical directionNIEVE n pl NIEVESthe fist or handNIFF v NIFFED NIFFING NIFFSto stinkNIFFER v NIFFERED NIFFERING NIFFERSto barterNIFFY adj NIFFIER NIFFIESTstinkyNIFTY adj NIFTIER NIFTIESTstylish pleasingNIFTILY advNIFTY n pl NIFTIESsomething that is niftyNIGELLA n pl NIGELLASan annual herbNIGGARD v NIGGARDED NIGGARDING NIGGARDSto act stingilyNIGGLE v NIGGLED NIGGLING NIGGLESto worry over petty detailsNIGGLER n pl NIGGLERSone that nigglesNIGGLING n pl NIGGLINGSpetty or meticulous workNIGGLY adj NIGGLIER NIGGLIESTpettyNIGH adj NIGHER NIGHESTnearNIGH v NIGHED NIGHING NIGHSto approachNIGHNESS n pl NIGHNESSESthe state of being nighNIGHT n pl NIGHTSthe period from sunset to sunriseNIGHTCAP n pl NIGHTCAPSa cap worn to bedNIGHTIE n pl NIGHTIESa nightgownNIGHTJAR n pl NIGHTJARSa nocturnal birdNIGHTLY adv every night at nightNIGHTY n pl NIGHTIESnightieNIGRIFY v NIGRIFIED NIGRIFYING NIGRIFIESto make blackNIGROSIN n pl NIGROSINSa type of dyeNIHIL n pl NIHILSnothingNIHILISM n pl NIHILISMSa doctrine that denies traditional valuesNIHILIST n pl NIHILISTSan adherent of nihilismNIHILITY n pl NIHILITIESthe state of being nothingNIKAH n pl NIKAHSa Muslim marriage ceremonyNIL n pl NILSnothingNILGAI n pl NILGAISa large antelopeNILGAU n pl NILGAUSnilgaiNILGHAI n pl NILGHAISnilgaiNILGHAU n pl NILGHAUSnilgaiNILL v NILLED NILLING NILLSto be unwillingNIM v NIMMED or NAM NIMMING NIMSto stealNIMBLE adj NIMBLER NIMBLESTagileNIMBLY advNIMBUS n pl NIMBUSES or NIMBIa luminous cloudNIMBUSED adjNIMIETY n pl NIMIETIESexcessNIMIOUS adjNIMMED past tense of nimNIMMING present participle of nimNIMROD n pl NIMRODSa hunterNINE n pl NINESa numberNINEBARK n pl NINEBARKSa flowering shrubNINEFOLD adj nine times as greatNINEPIN n pl NINEPINSa wooden pin used in a bowling gameNINER n pl NINERSa student in the ninth gradeNINETEEN n pl NINETEENSa numberNINETY n pl NINETIESa numberNINJA n pl NINJASa feudal Japanese warriorNINJUTSU n pl NINJUTSUSthe traditional Japanese method of spyingNINNY n pl NINNIESa foolNINNYISH adjNINON n pl NINONSa sheer fabricNINTH n pl NINTHSone of nine equal partsNINTHLY adv in the ninth placeNIOBATE n pl NIOBATESa chemical saltNIOBITE n pl NIOBITESthe mineral columbiteNIOBIUM n pl NIOBIUMSa metallic elementNIOBIC NIOBOUS adjNIP v NIPPED NIPPING NIPSto pinchNIPA n pl NIPASa palm treeNIPPER n pl NIPPERSone that nipsNIPPIER comparative of nippyNIPPIEST superlative of nippyNIPPILY adv in a nippy mannerNIPPING present participle of nipNIPPLE n pl NIPPLESa protuberance on the breastNIPPLED adjNIPPY adj NIPPIER NIPPIESTsharp or bitingNIQAAB n pl NIQAABSniqabNIQAB n pl NIQABSa veil worn by some Muslim womenNIRVANA n pl NIRVANASa blessed state in BuddhismNIRVANIC adjNISEI n pl NISEISone born in America of immigrant Japanese parentsNISI adj not yet finalNISUS n pl NISUSan effortNIT n pl NITSthe egg of a parasitic insectNITE n pl NITESnightNITER n pl NITERSa chemical saltNITERIE n pl NITERIESniteryNITERY n pl NITERIESa nightclubNITID adj brightNITINOL n pl NITINOLSan alloy of nickel and titaniumNITON n pl NITONSradonNITPICK v NITPICKED NITPICKING NITPICKSto fuss over petty detailsNITPICKY adj NITPICKIER NITPICKIESTtending to nitpickNITRATE v NITRATED NITRATING NITRATESto treat with nitric acidNITRATOR n pl NITRATORSone that nitratesNITRE n pl NITRESniterNITRIC adj containing nitrogenNITRID n pl NITRIDSnitrideNITRIDE v NITRIDED NITRIDING NITRIDESto convert into a nitride a compound of nitrogenNITRIFY v NITRIFIED NITRIFYING NITRIFIESto combine with nitrogenNITRIL n pl NITRILSnitrileNITRILE n pl NITRILESa chemical compoundNITRITE n pl NITRITESa salt of nitrous acidNITRO n pl NITROSa nitrated productNITROGEN n pl NITROGENSa gaseous elementNITROLIC adj pertaining to a class of acidsNITROSO adj containing nitrosylNITROSYL n pl NITROSYLSa univalent radicalNITROUS adj containing nitrogenNITTY adj NITTIER NITTIESTfull of nitsNITWIT n pl NITWITSa stupid personNIVAL adj pertaining to snowNIVEOUS adj resembling snowNIX n pl NIXES or NIXEa water spriteNIX v NIXED NIXING NIXESto vetoNIXIE n pl NIXIESa female water spriteNIXY n pl NIXIESan undeliverable piece of mailNIZAM n pl NIZAMSa former sovereign of IndiaNIZAMATE n pl NIZAMATESthe territory of a nizamNO n pl NOS or NOESa negative replyNOB n pl NOBSa wealthy personNOBBIER comparative of nobbyNOBBIEST superlative of nobbyNOBBILY adv in a nobby mannerNOBBLE v NOBBLED NOBBLING NOBBLESto disable a racehorseNOBBLER n pl NOBBLERSone that nobblesNOBBY adj NOBBIER NOBBIESTelegantNOBELIUM n pl NOBELIUMSa radioactive elementNOBILITY n pl NOBILITIESthe social class composed of noblesNOBLE adj NOBLER NOBLESTpossessing qualities of excellenceNOBLE n pl NOBLESa person of high birth rank or titleNOBLEMAN n pl NOBLEMENa nobleNOBLER comparative of nobleNOBLESSE e pl NOBLESSESthe nobilityNOBLEST superlative of nobleNOBLY adv in a noble mannerNOBODY n pl NOBODIESan unimportant personNOCEBO n pl NOCEBOSa harmless substance that induces harmful effects in patients having negative expectationsNOCENT adj harmfulNOCK v NOCKED NOCKING NOCKSto notch a bow or arrowNOCTUID n pl NOCTUIDSa nightflying mothNOCTUOID adjNOCTULE n pl NOCTULESa large batNOCTURN n pl NOCTURNSa religious serviceNOCTURNE n pl NOCTURNESa musical compositionNOCUOUS adj harmfulNOD v NODDED NODDING NODSto briefly lower the head forwardNODAL adj of the nature of a nodeNODALLY advNODALITY n pl NODALITIESthe state of being nodalNODDED past tense of nodNODDER n pl NODDERSone that nodsNODDIES pl of noddyNODDING present participle of nodNODDLE v NODDLED NODDLING NODDLESto nod frequentlyNODDY n pl NODDIESa foolNODE n pl NODESa swollen enlargementNODI pl of nodusNODICAL adj pertaining to an astronomical pointNODOSE adj having nodesNODOSITY n pl NODOSITIESthe state of being nodoseNODOUS adj nodoseNODULE n pl NODULESa small nodeNODULAR NODULOSE NODULOUS adjNODUS n pl NODIa difficultyNOEL n pl NOELSa Christmas carolNOES a pl of noNOESIS n pl NOESISESthe process of reasonNOETIC adj pertaining to reasonNOG v NOGGED NOGGING NOGSto fill in a space in a wall with bricksNOGG n pl NOGGSa strong aleNOGGIN n pl NOGGINSa small cupNOGGING n pl NOGGINGSa type of masonryNOH n pl NOHthe classical drama of JapanNOHOW adv in no mannerNOIL n pl NOILSa kind of short fiberNOILY adjNOIR n pl NOIRSa bleak type of crime fictionNOIRISH adjNOISE v NOISED NOISING NOISESto spread as a rumor or reportNOISETTE n pl NOISETTESa small round piece of meatNOISOME adj disgusting harmfulNOISY adj NOISIER NOISIESTmaking loud soundsNOISILY advNOLO n pl NOLOSa type of legal pleaNOM n pl NOMSa nameNOMA n pl NOMASa severe inflammation of the mouthNOMAD n pl NOMADSa wandererNOMADIC adjNOMADISM n pl NOMADISMSthe mode of life of a nomadNOMARCH n pl NOMARCHSthe head of a nomeNOMARCHY n pl NOMARCHIESa nomeNOMBLES npl numblesNOMBRIL n pl NOMBRILSa point on a heraldic shieldNOME n pl NOMESa province of modern GreeceNOMEN n pl NOMINAthe second name of an ancient RomanNOMINAL n pl NOMINALSa word used as a nounNOMINATE v NOMINATED NOMINATING NOMINATESto name as a candidateNOMINEE n pl NOMINEESone that is nominatedNOMISM n pl NOMISMSstrict adherence to moral lawNOMISTIC adjNOMOGRAM n pl NOMOGRAMSa type of graphNOMOLOGY n pl NOMOLOGIESthe science of lawNOMOS n pl NOMOIlawNONA n pl NONASa virus diseaseNONACID n pl NONACIDSa substance that is not an acidNONACTOR n pl NONACTORSa person who is not an actorNONADULT n pl NONADULTSa person who is not an adultNONAGE n pl NONAGESa period of immaturityNONAGON n pl NONAGONSa ninesided polygonNONANE n pl NONANESa colorless liquid hydrocarbonNONART n pl NONARTSsomething that is not artNONARY n pl NONARIESa group of nineNONBANK n pl NONBANKSa business that is not a bankNONBASIC adj not basicNONBEING n pl NONBEINGSlack of beingNONBLACK n pl NONBLACKSone that is not blackNONBODY n pl NONBODIESa persons nonphysical natureNONBOOK n pl NONBOOKSa book of little literary meritNONBRAND adj lacking a brand nameNONCASH adj other than cashNONCE n pl NONCESthe present occasionNONCLASS n pl NONCLASSESa lack of classNONCLING adj not clingingNONCOLA n pl NONCOLASa beverage that is not a colaNONCOLOR n pl NONCOLORSa lack of colorNONCOM n pl NONCOMSa noncommissioned officerNONCORE adj not being in or relating to a central partNONCOUNT adj not capable of being countedNONCRIME n pl NONCRIMESsomething that is not a crimeNONDAIRY adj having no milk productsNONDANCE n pl NONDANCESan unrhythmic danceNONDRIP adj that does not dripNONDRUG adj not involving drugsNONE n pl NONESone of seven canonical daily periods for prayer and devotionNONEGO n pl NONEGOSall that is not part of the egoNONELECT adj not chosenNONELITE adj not belonging to an elite groupNONEMPTY adj not emptyNONENTRY n pl NONENTRIESthe fact of not enteringNONEQUAL n pl NONEQUALSone that is not equalNONESUCH n pl NONESUCHESa person or thing without an equalNONET n pl NONETSa composition for nine instruments or voicesNONEVENT n pl NONEVENTSan expected event that does not occurNONFACT n pl NONFACTSa statement not based on factNONFAN n pl NONFANSa person who is not a fan an enthusiastNONFARM adj not pertaining to the farmNONFAT adj having no fat solidsNONFATAL adj not fatalNONFATTY adj not fattyNONFINAL adj not being the lastNONFLUID n pl NONFLUIDSa substance that is not a fluidNONFOCAL adj not focalNONFOOD adj pertaining to something other than foodNONFUEL adj not used as a fuelNONGAME adj not hunted for food sport or furNONGAY n pl NONGAYSa person who is not a homosexualNONGLARE n pl NONGLARESa lack of glare harsh brilliant lightNONGREEN adj not greenNONGUEST n pl NONGUESTSone who is not a guestNONGUILT n pl NONGUILTSthe absence of guiltNONHARDY adj not hardyNONHEME adj not containing iron that is bound like that of hemeNONHERO n pl NONHEROESan antiheroNONHOME adj not taking place in the homeNONHUMAN n pl NONHUMANSone that is not a humanNONIDEAL adj not idealNONIMAGE n pl NONIMAGESone having no celebrity statusNONINERT adj not inactiveNONIONIC adj not ionicNONIRON adj not needing to be ironedNONISSUE n pl NONISSUESa topic that is not controversialNONJUROR n pl NONJURORSone who refuses to take a required oathNONJURY n pl NONJURIESa case not involving a juryNONLABOR adj not pertaining to laborNONLEAFY adj not having leavesNONLEGAL adj not legalNONLEVEL adj not flat or evenNONLIFE n pl NONLIVESthe absence of lifeNONLOCAL n pl NONLOCALSone that is not localNONLOYAL adj not loyalNONLYRIC adj not lyricalNONMAJOR n pl NONMAJORSa student who is not majoring in a specified subjectNONMAN n pl NONMENa being that is not a manNONMEAT adj not containing meatNONMETAL n pl NONMETALSan element that lacks metallic propertiesNONMETRO adj not metropolitanNONMODAL adj not modalNONMONEY adj not involving moneyNONMORAL adj not pertaining to moralsNONMUSIC n pl NONMUSICSinferior musicNONNASAL adj not involving the noseNONNAVAL adj not navalNONNEWS adj not being newsNONNOBLE adj not nobleNONNOVEL n pl NONNOVELSa literary work that is not a novelNONOBESE adj not obeseNONOHMIC adj not measured in ohmsNONOILY adj not oilyNONORAL adj not involving the mouthNONOWNER n pl NONOWNERSone who is not the ownerNONPAGAN n pl NONPAGANSone who is not a paganNONPAID adj not paidNONPAPAL adj not papalNONPAR adj being a stock that has no face valueNONPARTY n pl NONPARTIESone not belonging to a partyNONPAST n pl NONPASTSa verb form that lacks an inflection for a past tenseNONPEAK adj being a time when something is not at its highest levelNONPLAY n pl NONPLAYSa theatrical work that is not a playNONPLUS v NONPLUSED NONPLUSING NONPLUSES or NONPLUSSED NONPLUSSING NONPLUSSESto baffleNONPOINT adj not occurring at a definite single siteNONPOLAR adj not polarNONPOOR adj not being poorNONPRINT adj not involving printed materialNONPROS v NONPROSSED NONPROSSING NONPROSSESto enter a judgment against a plaintiff who fails to prosecuteNONQUOTA adj not included in or subject to a quotaNONRATED adj not ratedNONRIGID adj not rigidNONRIVAL n pl NONRIVALSan unimportant rivalNONROYAL adj not royalNONRURAL adj not ruralNONSELF n pl NONSELVESforeign material in a bodyNONSENSE n pl NONSENSESbehavior or language that is meaningless or absurdNONSKED n pl NONSKEDSan airline without scheduled flying timesNONSKID adj designed to inhibit skiddingNONSKIER n pl NONSKIERSone that does not skiNONSLIP adj designed to prevent slippingNONSOLAR adj not solarNONSOLID n pl NONSOLIDSa substance that is not a solidNONSTICK adj allowing of easy removal of cooked food particlesNONSTOP n pl NONSTOPSa flight without a stop en routeNONSTORY n pl NONSTORIESan insignificant news storyNONSTYLE n pl NONSTYLESa style that is not identifiableNONSUCH n pl NONSUCHESnonesuchNONSUGAR n pl NONSUGARSa substance that is not a sugarNONSUIT v NONSUITED NONSUITING NONSUITSto dismiss the lawsuit ofNONTAX n pl NONTAXESa tax of little consequenceNONTIDAL adj not tidalNONTITLE adj pertaining to an athletic contest in which a title is not at stakeNONTONAL adj lacking tonalityNONTONIC adj not based on the first tone of a scaleNONTOXIC adj not toxicNONTRUMP adj not having a trumpNONTRUTH n pl NONTRUTHSsomething that is not trueNONUNION n pl NONUNIONSfailure of a broken bone to healNONUPLE n pl NONUPLESa number nine times as great as anotherNONURBAN adj not urbanNONUSE n pl NONUSESfailure to useNONUSER n pl NONUSERSone that is not a userNONUSING adj not usingNONVALID adj not validNONVIRAL adj not viralNONVITAL adj not vitalNONVOCAL n pl NONVOCALSone that does not involve the voiceNONVOTER n pl NONVOTERSone that does not voteNONWAGE adj not including or involving wages money paid for work or servicesNONWAR n pl NONWARSa war that is not officially declaredNONWHITE n pl NONWHITESa person who is not of the white raceNONWOODY adj not woodyNONWOOL adj not made of woolNONWORD n pl NONWORDSa word that has no meaningNONWORK adj not involving workNONWOVEN n pl NONWOVENSa fabric not made by weavingNONYL n pl NONYLSan alkyl radicalNONZERO adj having a value other than zeroNOO adv nowNOODGE v NOODGED NOODGING NOODGESto nagNOODLE v NOODLED NOODLING NOODLESto play idly on a musical instrumentNOODLING n pl NOODLINGSthe action of idly playing a musical instrumentNOOGIE n pl NOOGIESa playful rubbing of ones knuckles on anothers headNOOK n pl NOOKSa corner as in a roomNOOKLIKE adjNOON n pl NOONSmiddayNOONDAY n pl NOONDAYSnoonNOONER n pl NOONERSan event that occurs during the middle of the dayNOONING n pl NOONINGSa meal eaten at noonNOONTIDE n pl NOONTIDESnoonNOONTIME n pl NOONTIMESnoonNOOSE v NOOSED NOOSING NOOSESto secure with a type of loopNOOSER n pl NOOSERSone that noosesNOPAL n pl NOPALS or NOPALESa cactus of Mexico and Central AmericaNOPALITO n pl NOPALITOSthe stem of the nopal used as foodNOPE adv noNOPLACE adv not in or at any placeNOR conj and notNORDIC adj pertaining to crosscountry ski racing and ski jumpingNORI n pl NORISdried seaweed pressed into sheetsNORIA n pl NORIASa type of waterwheelNORITE n pl NORITESa granular rockNORITIC adjNORLAND n pl NORLANDSa region in the northNORM n pl NORMSa standard regarded as typical for a specific groupNORMAL n pl NORMALSthe usual or expected state or formNORMALCY n pl NORMALCIESconformity with the normNORMALLY adv as a rule usuallyNORMANDE adj prepared with foods associated with NormandyNORMED adj having a normNORMLESS adj having no normNORTENA n pl NORTENASa style of folk music of northern Mexico and TexasNORTENO n pl NORTENOSan inhabitant of northern MexicoNORTH n pl NORTHSa point of the compassNORTHER n pl NORTHERSa wind or storm from the northNORTHERN n pl NORTHERNSa person living in the northNORTHING n pl NORTHINGSmovement toward the northNOSE v NOSED NOSING NOSESto sniff with the nose the organ of smellNOSEBAG n pl NOSEBAGSa feedbagNOSEBAND n pl NOSEBANDSa part of a horses bridleNOSEDIVE v NOSEDIVED or NOSEDOVE NOSEDIVING NOSEDIVESto go into a sudden steep dropNOSEGAY n pl NOSEGAYSa bouquetNOSELESS adj having no noseNOSELIKE adj resembling a noseNOSEY adj NOSIER NOSIESTnosyNOSH v NOSHED NOSHING NOSHESto eat snacks between mealsNOSHER n pl NOSHERSone that noshesNOSIER comparative of nosyNOSIEST superlative of nosyNOSILY adv in a nosy mannerNOSINESS n pl NOSINESSESthe quality of being nosyNOSING n pl NOSINGSa projecting edgeNOSOLOGY n pl NOSOLOGIESa classification of diseasesNOSTOC n pl NOSTOCSa freshwater algaNOSTRIL n pl NOSTRILSan external opening of the noseNOSTRUM n pl NOSTRUMSa medicine of ones own inventionNOSY adj NOSIER NOSIESTunduly curiousNOT adv in no wayNOTA pl of notumNOTABLE n pl NOTABLESa person of distinctionNOTABLY adv in a distinguished mannerNOTAL adj pertaining to a notumNOTARIAL adj pertaining to a notaryNOTARISE v NOTARISED NOTARISING NOTARISESto notarizeNOTARIZE v NOTARIZED NOTARIZING NOTARIZESto certify through a notaryNOTARY n pl NOTARIESa public officer who certifies documentsNOTATE v NOTATED NOTATING NOTATESto put into notationNOTATION n pl NOTATIONSa system of symbolsNOTATOR n pl NOTATORSone that notatesNOTCH v NOTCHED NOTCHING NOTCHESto make an angular cut inNOTCHER n pl NOTCHERSone that notchesNOTCHY adj NOTCHIER NOTCHIESThaving angular cutsNOTE v NOTED NOTING NOTESto write downNOTEBOOK n pl NOTEBOOKSa book in which to writeNOTECARD n pl NOTECARDSa card used for sending short messagesNOTECASE n pl NOTECASESa billfoldNOTED past tense of noteNOTEDLY adv in a famous mannerNOTELESS adj undistinguishedNOTELET n pl NOTELETSa small sheet of paper for an informal letterNOTEPAD n pl NOTEPADSa number of sheets of paper glued together at one endNOTER n pl NOTERSone that notesNOTHER adj differentNOTHING n pl NOTHINGSthe absence of all quantity or magnitudeNOTICE v NOTICED NOTICING NOTICESto become aware ofNOTICER n pl NOTICERSone that noticesNOTIFIER n pl NOTIFIERSone that notifiesNOTIFY v NOTIFIED NOTIFYING NOTIFIESto informNOTING present participle of noteNOTION n pl NOTIONSa general ideaNOTIONAL adjNOTORNIS n pl NOTORNISa flightless birdNOTTURNO n pl NOTTURNIa nocturneNOTUM n pl NOTAa part of the thorax of an insectNOUGAT n pl NOUGATSa chewy candyNOUGHT n pl NOUGHTSnaughtNOUMENON n pl NOUMENAan object of intellectual intuitionNOUMENAL adjNOUN n pl NOUNSa word used to denote the name of somethingNOUNAL NOUNLESS adjNOUNALLY advNOURISH v NOURISHED NOURISHING NOURISHESto sustain with foodNOUS n pl NOUSESmind reason or intellectNOUVEAU adj newly arrived or developedNOUVELLE n pl NOUVELLESa style of French cookingNOVA n pl NOVAS or NOVAEa type of starNOVALIKE adjNOVATE v NOVATED NOVATING NOVATESto replace an old contract with a new oneNOVATION n pl NOVATIONSthe substitution of a new legal obligation for an old oneNOVEL n pl NOVELSa fictional prose narrativeNOVELISE v NOVELISED NOVELISING NOVELISESto novelizeNOVELIST n pl NOVELISTSa writer of novelsNOVELIZE v NOVELIZED NOVELIZING NOVELIZEsto put into the form of a novelNOVELLA n pl NOVELLAS or NOVELLEa short novelNOVELLY adv in a new or unusual mannerNOVELTY n pl NOVELTIESsomething new or unusualNOVENA n pl NOVENAS or NOVENAEa religious devotion lasting nine daysNOVERCAL adj pertaining to a stepmotherNOVICE n pl NOVICESa person new to any field or activityNOW n pl NOWSthe present timeNOWADAYS adv in these timesNOWAY adv in no wayNOWAYS adv nowayNOWHERE n pl NOWHERESa nonexistent placeNOWISE adv not at allNOWNESS n pl NOWNESSESthe state of existing at the present timeNOWT n pl NOWTSnaughtNOXIOUS adj harmful to healthNOYADE n pl NOYADESan execution by drowningNOYAU n pl NOYAUXa liqueur made of brandy and fruit kernelsNOZZLE n pl NOZZLESa projecting spoutNTH adj pertaining to an indefinitely large ordinal numberNU n pl NUSa Greek letterNUANCE v NUANCED NUANCING NUANCESto give a subtle shade of meaning toNUB n pl NUBSa protuberance or knobNUBBIER comparative of nubbyNUBBIEST superlative of nubbyNUBBIN n pl NUBBINSan undeveloped fruitNUBBLE n pl NUBBLESa small nubNUBBLY adj NUBBLIER NUBBLIESThaving nubblesNUBBY adj NUBBIER NUBBIESThaving nubsNUBIA n pl NUBIASa womans scarfNUBILE adj suitable for marriageNUBILITY n pl NUBILITIESthe quality of being nubileNUBILOSE adj nubilousNUBILOUS adj cloudyNUBUCK n pl NUBUCKSsoft sueded leatherNUCELLUS n pl NUCELLIthe essential part of a plant ovuleNUCELLAR adjNUCHA n pl NUCHAEthe nape of the neckNUCHAL n pl NUCHALSan anatomical part lying in the region of the napeNUCLEAL adj nuclearNUCLEAR adj pertaining to a nucleusNUCLEASE n pl NUCLEASESan enzymeNUCLEATE v NUCLEATED NUCLEATING NUCLEATESto form into a nucleusNUCLEI a pl of nucleusNUCLEIN n pl NUCLEINSa protein found in nucleiNUCLEOID n pl NUCLEOIDSthe DNAcontaining area of certain cellsNUCLEOLE n pl NUCLEOLESa part of a nucleusNUCLEOLI npl nucleolesNUCLEON n pl NUCLEONSa subatomic particleNUCLEUS n pl NUCLEUSES or NUCLEIan essential part of a cellNUCLIDE n pl NUCLIDESa species of atomNUCLIDIC adjNUDE adj NUDER NUDESTbeing without clothing or coveringNUDELY advNUDE n pl NUDESa nude figureNUDENESS n pl NUDENESSESnudityNUDGE v NUDGED NUDGING NUDGESto push gentlyNUDGER n pl NUDGERSone that nudgesNUDICAUL adj having leafless stemsNUDIE n pl NUDIESa movie featuring nude performersNUDISM n pl NUDISMSthe practice of going nudeNUDIST n pl NUDISTSan advocate of nudismNUDITY n pl NUDITIESthe state of being nudeNUDNICK n pl NUDNICKSnudnikNUDNIK n pl NUDNIKSan annoying personNUDZH v NUDZHED NUDZHING NUDZHESto noodgeNUFF n pl NUFFSenoughNUG n pl NUGSa chunk of wood sawn from a logNUGATORY adj having no powerNUGGET n pl NUGGETSa mass of solid matterNUGGETY adjNUISANCE n pl NUISANCESa source of annoyanceNUKE v NUKED NUKING NUKESto attack with nuclear weaponsNULL v NULLED NULLING NULLSto reduce to nothingNULLAH n pl NULLAHSa ravineNULLIFY v NULLIFIED NULLIFYING NULLIFIESto make useless or ineffectiveNULLITY n pl NULLITIESsomething of no legal forceNUMB adj NUMBER NUMBESTlacking sensationNUMB v NUMBED NUMBING NUMBSto make numbNUMBAT n pl NUMBATSa small Australian mammalNUMBER v NUMBERED NUMBERING NUMBERSto countNUMBERER n pl NUMBERERSone that numbersNUMBFISH n pl NUMBFISHESa fish capable of emitting electric shocksNUMBLES npl animal entrailsNUMBLY adv in a numb mannerNUMBNESS n pl NUMBNESSESthe state of being numbNUMCHUCK n pl NUMCHUCKSnunchakuNUMDAH n pl NUMDAHSan embroidered rug of IndiaNUMEN n pl NUMINAa deityNUMERACY n pl NUMERACIESthe ability to understand basic mathematicsNUMERAL n pl NUMERALSa symbol that expresses a numberNUMERARY adj pertaining to numbersNUMERATE v NUMERATED NUMERATING NUMERATESto countNUMERIC n pl NUMERICSa numeralNUMEROUS adj manyNUMINA pl of numenNUMINOUS adj supernaturalNUMMARY adj pertaining to coinsNUMMULAR adj shaped like a coinNUMMY adj NUMMIER NUMMIESTdeliciousNUMNAH n pl NUMNAHSa pad placed under a saddleNUMSKULL n pl NUMSKULLSa dunceNUN n pl NUNSa woman belonging to a religious orderNUNATAK n pl NUNATAKSa mountain peak completely surrounded by glacial iceNUNCHAKU n pl NUNCHAKUSa Japanese weaponNUNCHUK n pl NUNCHUKSnunchakuNUNCIO n pl NUNCIOSan ambassador from the popeNUNCLE n pl NUNCLESan uncleNUNLIKE adj resembling a nunNUNNERY n pl NUNNERIESa religious house for nunsNUNNISH adj of pertaining to or characteristic of a nunNUPTIAL n pl NUPTIALSa weddingNURD n pl NURDSnerdNURL v NURLED NURLING NURLSto knurlNURSE v NURSED NURSING NURSESto care for the sick or infirmNURSER n pl NURSERSa babys bottleNURSERY n pl NURSERIESa room for young childrenNURSING n pl NURSINGSthe profession of one who nursesNURSLING n pl NURSLINGSan infantNURTURAL adj pertaining to the process of nurturingNURTURE v NURTURED NURTURING NURTURESto nourishNURTURER n pl NURTURERSone that nurturesNUT v NUTTED NUTTING NUTSto gather nuts hardshelled dry fruitsNUTANT adj droopingNUTATE v NUTATED NUTATING NUTATESto exhibit nutationNUTATION n pl NUTATIONSan oscillatory movement of the axis of a rotating bodyNUTBAR n pl NUTBARSa bar made from chopped nutsNUTBROWN adj of a dark brownNUTCASE n pl NUTCASESa crazy personNUTGALL n pl NUTGALLSa gallnutNUTGRASS n pl NUTGRASSESa perennial herbNUTHATCH n pl NUTHATCHESa small birdNUTHOUSE n pl NUTHOUSESan insane asylumNUTLET n pl NUTLETSa small nutNUTLIKE adj resembling a nutNUTMEAT n pl NUTMEATSthe edible kernel of a nutNUTMEG n pl NUTMEGSan aromatic seed used as a spiceNUTMEGGY adjNUTPICK n pl NUTPICKSa device for extracting the kernels from nutsNUTRIA n pl NUTRIASthe coypuNUTRIENT n pl NUTRIENTSa nourishing substanceNUTSEDGE n pl NUTSEDGESnutgrassNUTSHELL n pl NUTSHELLSthe shell of a nutNUTSY adj NUTSIER NUTSIESTcrazyNUTTED past tense of nutNUTTER n pl NUTTERSone that gathers nutsNUTTING n pl NUTTINGSthe act of gathering nutsNUTTY adj NUTTIER NUTTIESTsilly crazyNUTTILY advNUTWOOD n pl NUTWOODSa nutbearing treeNUZZLE v NUZZLED NUZZLING NUZZLESto push with the noseNUZZLER n pl NUZZLERSone that nuzzlesNYAH interj  used to express contempt for anotherNYALA n pl NYALASan antelopeNYLGHAI n pl NYLGHAISnilgaiNYLGHAU n pl NYLGHAUSnilgaiNYLON n pl NYLONSa synthetic materialNYLONED adjNYMPH n pl NYMPHSa female spiritNYMPHAL NYMPHEAN adjNYMPH v NYMPHED NYMPHING NYMPHSto fish using a fly a hook with silk or feathers that looks like a larvaNYMPHA a pl of nymm").
+```
+entry(oaf, n, [oafs], "አብዕ ወላላ ሰውOAFISH adjOAFISHLY adv").
+ማስገባት(ኦክ, ነ, [ኦክስ], "የሀርድ እንጨት ዛፍ ወይም ቅጠልቅ").
+entry(oaked, adj, [], "እንጨት ቤት ውስጥ የተያደለ").
+entry(oakiness, n, [oakinesses], "እንጨትነት").
+መግቢያ(ኦከሞስ, ነ, [ኦከሞሶች], "በወይራ ዛፎች ላይ የሚያድግ አነባት").
+entry(oakum, n, [oakums], "ቀፍ ተቀብላል የጥበብ አመላሽ አልማዝ").
+entry(oaky, adj, [], "የኦክ ጡስ ውፍረት እና ኦክ ምርኳዝ ያለ").
+entry(ዓርከኛ, ግ, [ተዓርከነ, 'ተዓርክኪት', ዓርከኞች], "በረዘሙ ክንድ ያለው ዓርኪ ክንዋሽ ተጠቅሟ ማነፍስ").
+መግቢያ(የገመለጠ ዓሣ, ነ, [የገመለጡ ዓሣዎች], "የባህር ዓሣ").
+entry(oarless, አግር በሌለው, [], "በጓዝ በሌለው").
+entry(oarlike, ተዛማኒ, [], "ቆርጦ የመመስለት").
+entry(oarlock, n, [oarlocks], "አሞላፊ").
+entry(መዳወሻ, አ, [መዳወሽ], "ታንኳ የመነዳ ሰው").
+entry(ኢዮሳስ, ነ, [ኢዮሳስች], "በምድረ በዳ አካባቢ ያለ አረንጓዴ ቦታ").
+entry(oast, n, [oasts], "የእንጨት አቃጥለት ያለው ማንጻር እቃ አይነት").
+አልጋዋ(entry, አማርኛ, [], "አንድ እርሻ እህል ገረድ").
+entry(oatcake, n, [የቆሎ ኬክ], "ከኦተምብል የተሰራ ኬክ").
+entry(ኦተን, ግም, [], "ለኦቶች የሚገኝ").
+entry(oater, n, [oaters], "አ ṭልሉሊ𝗕 ፊልም").
+entry(መሐላ, ስ, [መሐላዎች], "ተናግሯ ወይም እምነት መስጠት ለታረቀቀን መእተዊ").
+entry(oatlike, adj, [], "እሾህ የሚመስል").
+እትርፍ(ዶብዩ, ን, [ዶብዩዎች], "ከዕብ የተሰራ ምግብ").
+entry(oaty, adj, [], "የቆሎ ጣዕም ወይም ሽታ ያለው").
+entry(oaves, a, [], "ብዙ ቅሚዞች የሚሉት ቃል (pl of oaf)").
+entry(ኦባ, ን, [ኦባስ], "በቤኒንና ናይጄሪያ የተወላጅ አለቃ").
+ቀመር(obconic, ግምጃ, [], "ዝርዝሬው በታች ያለ ኮኒክ").
+ግቤት(ፍሡም, ን, [ፍሡማት], "የፍሡምነት ጥራት ወይም አንድ እንቅስቃሴ").
+መግቢያ(አስቸኳይ, ግምጃ, [], "አስቸኳይ").
+entry(ኦቤ, ን, [ኦቤስ], "ኦቤአህ").
+entry(ኦባየህ, ነ, [ኦባየሃች], "የአፍሪካ አራማዲነት አንደበት").
+entry(ኦቢያሂዝም, ን, [ኦቢያሂዝሞች], "ኦቢያእን መጠቀም").
+እትዕዛዝ
+entry(እውቀትን ወይም ክብርን የሚያሳይ, ግም, [], "ክብር ወይም አክብሮትን የሚያሳይ").
+entry(obeli, pl, [], "ኦቤለስ እንዲህ").
+መግቢያ(obelia, n, [obelias], "ማህደረ ፏሪ").
+entry(ኦቤሊዝ, ግ, [ኦቤላዝድ,ኦቤላይዚንግ,ኦቤላይዝስ], "ኦቤላይዝ ማድረግ").
+entry(ሐውልት, ተ, [ሐውልቶች], "አራት በኩል የተሠሩ የድንጋይ መሐል ከመጠንነቱ የሥጋቀት").
+entry(መለካየ ምልክት, ቃ, [መለካየ ምልክቶች], "መለካየ ምልክት የማድረግ ተግባር").
+entry(obelize, v, [obelized,obelizing,obelizes], "ከሐምለ፡ ቁሶችንመለክተንገለጻ").
+entry(ፍሽሽት, ን, [ፍሽሽቶች], "አማራጭ ጽሁፍ ሊሆን ይችላል የሚለውን ያመለክት አስፈሪ አካልፃዎች ጋር በተያያዘ የተረፈ ምክር ምልክት").
+እቶብ ቸሮ (obento), ነ (n), [እቶብ ቸሮዎች (obentos)], "በሳጣሪያ የተሸገረ አገሩ ሳንዤዎ ምሳ".
+entry(ወፍራም, ቅጣት, [], "በጣም ወፍራም አውራ OBESLY ቃላት").
+entry(መጠነኛ ስብሳብ, ን, [መጠነኛ ስብሳቦች], "ወፍራም ሆኖ መኖር ሁኔታ ወይም ሁኔታ").
+አስመጣ(obey, v, [obeyed, obeying, obeys], "ማዛቢያ ወይም መምሪያውን ተከትላ መስራትOBEYABLE ግብዣ").
+entry(obeyer, n, [obeyers], "እናዛይ አንድ ሰው").
+entry(ኦብ, ነ, [ኦቢስ], "ኦቤህ") .
+እንትሪ(obia, n, [obias], "obeah").
+entry(ኦቤየህዝም, ነ, [ኦቤየህዝምስ], "obeahism").
+ውል(obit, ፊ, [obits], "የሞታናት መግለጫ").
+እትም(obituary, ነ, [obituaries], "የሞት ዕለት ዝክረት አስታውቋል").
+እትም(object, v, [አቃለለ,አቃልላለ,አቃልሎች], "በተቃዋሚነት ለመክር").
+entry(ተቃዋሚ, ነ, [ተቃዋሚዎች], "አንድ ነኝ ይቃወማል").
+entry(ነገር, ን, [ትምህርቶች], "አንድ ከስነ ጥበብ አንብበል").
+entry(oblast, n, [ኦብላስት], "ወይም ኦብላስት የሩሲያ አስተዳደራዊ ድርብ").
+entry(ኦብሌት, ነ, [ኦብሌቶች], "የማኅበረሰብ ፍተተ ደቀብርሃን በማኅበር የሚኖር").
+```prolog
+entry(አንድክ እንደሆነ በክብ በኩል, ቅኔ, [], "እንደዘይጽቦ-ጥቁር").
+```
+entry(ሥርዓት, n, [ሥርዓቶች], "የማመልከቻ ሥርዓትን ማካተት OBLATORY አድ").
+entry(ያበረታች, v, [ያበረታች, በረታች እየሆነ ያለ, ያበረታቾች], "ማስገደድ").
+entry(ኦብሊጋቶ, n, [ኦብሊጋቶስ], "or ኦብሊጋቲ an important musical part").
+entry(አስግዳ, ግ, [ያስግዳል,ያስግድ,ያስግዳሉ], "ለማንኛውም አቅርቦት ወይም አገልግሎት ዕጣ ማስከበር").
+ምእታው(ተዋሕዶ, ግቤት, [ተዋሕዶዎች], "አንዱ ተግብሮ የሚሆነው").
+entry(አሳልፎታሽ, ነ, [አሳልፎታሾች], "ያሳልፍ የሔደ አንድ").
+entry(መራራ, አሁን, [], "የመነሣት ክፍል የመወርወር ").
+ማስገቢያ(እርቃኝ, n, [እርቃኛት], "ራሱን በሕጋዊ ግዴታ በተወላለፈ አንድ ሰው").
+መግቢያ(ግራ፣ ግ፣ [ገራ፣ ገር፣ ጊራቸው]፣ "በጭብጥ አንሾርም").
+entry(ምልምድ, ን, [ምልምዶች], "የታሰበ መሆኑን ሁኔታ መስማማትን ዘርጋታህ").
+እትም(መስክረው, ነ, [መስክረውዎች], "ምንም ነገር ተራብሮ ምስምራታት የታወቀ").
+entry(oblongly, adv, [], "ክብ ያለ ቅርጽ በሚኖር መንገድ").
+መግቢያ(ስድብ, ቃ, [ስድቦች], "አሰቃቂ ቃላት").
+entry(ኦቦ, ነ, [ኦቦዎች], "የእንጨት እምቢቶ").
+entry(ኦቦኢስት, ነ, [ኦቦኢስትስ], "ኦቦን የሚጫወት").
+entry(obol, n, [obols], "የቀድሞ ግሪክ ኮይን").
+እትም(ኦቦሌ, ስ, [ኦቦሌስ], "የመካከለኛው ዘመን የፈረንሳይ እንኳን").
+entry(obolus, n, [ባንዴቷ], "አንድ ኦቦል").
+entry(obovate, adj, [], "በግርጌው አጠገብ ከተደቅ የወፍራም እና የተሳጥበት ስግብግ እናት").
+entry(obovoid, adj, [], "ከታች ወገብ ጋር እንደ እንቅብ የተሠራ").
+ፍቺ(ስንፍና, ቅዳሴ, [], "ስንፍናተ ስንፍናተ ስንፍና ተገቢ ያልሆነ").
+ውሂብ(ዕልቂት, ግምጃ, [], "ማይዛር ዕልቂትሐሳስታዋቂ").
+በርምጥር(ደብር, ግ, [ደበረ, ደብራረ, ደበረዋም], "ደብር ማድረግ").
+እትም(obsequy, ነ, [obsequies], "ግብረ ሐይማኖት").
+entry(ተመልከት, ግ, [ተመልከተ,ተመልካች,ተመልካቸው], "በጥንቃቄ ማየት").
+እትም(observer, n, [observers], "አንዱ ተመልካች").
+entry(ግፋት, ግ, [ተዋሽው,መዋሽ,ዋሽው], "ሐሳብን ማሰብ").
+እትም(obsessor, ነ, [obsessors], "አንድ ነገር ያሰቃያል").
+እንትር(obsidian, ነ, [obsidians], "የእሳተ-ገሞራ በርከና ድርቆሽ").
+መግቢያ(አርጅአያ, ግ, [አርጅአያማይ,አርጅአያማነ,አርጅአይት], "አስፈላጊ ካልሆነ ማድረግ").
+እትም:ዕንቅፋት, ተ:ታታሪ, [ዕንቅፋት], "የሚከለክል ነገር".
+entry(እንቅፋት, ግ, [ተከለከለ,እንቅመት ጠብቆት,መከለከል], "መንገድ ላይ መኖር").
+እትም(obtain, v, [obtained,obtaining,obtains], "ለመግኘት").
+እትም(obtainer, ነ, [obtainers], "ያግኝ").
+entry(obtect, adj, [], "ከጠንካራ ምላጭ ተሸፍኗል").
+entry(የተሸፈነ, ቅጽ, [], "obtect").
+\entry(obtest, ግ, [obtested,obtesting,obtests], "ለመኘ").
+entry(አጕደለ, ግ, [አጕድሏል,አጕድለናል,አጕድለዋል], "በፊት ለማስገባት").
+entry(obtruder, n, [obtruders], "የሚገብት አንዱ").
+ወረደኝ(ቀደ‘ነ, ግምት, [ቀደ‘ኙ,ቀደ‘ኒድ,ቀደ‘ንኩ], "ለመግደል").
+entry(obturate, v, [obturated,obturating,obturates], "መዝጋት ወይም መቆም").
+entry(ምሾፋዊ, አዝ, [], "ምሾፋይ ምሾፋኛይዘዋሪ ምሾፋማ ቃል").
+entry(ደን እምነት, ነ, [ደን እምነቶች], "ደንአዳነት ሁኔታ").
+እቲ እትሀሳስ ፣ ኦ ፣ [እታታ] ፣ "በቀኛው እምዝ መና ዝተጻረት ገጽ ስሉይ ዝሕከመ" ።
+entry(obvert, v, [obverted,obverting,obverts], "ዕንቅፋት ቀየረባ ማለት").
+entry(እንደሌለ ማድረግ, v, [እንደሌለ አደረገ,እንደሌለ ማድረግ,እንደሌለ ያደርጋል], "በተመጣጣኝ መንገዶች ማስወገድ ወይም ማስከልከል ማለት OBVIABLE ግምገማ").
+entry(obviator, n, [obviators], "አንዱ ያንነሳው").
+entry(ግልጽ, ትርጉም, [], "በቀላሉ የሚረዱ ወይም የሚታዩ").
+entry(obvolute, ግምጃ, [], "ታጠቀ ወይም ተዞረ").
+```prolog
+entry(ዎካ, ነ, [ዎካስ], "የደቡብ አሜሪካ እፅዋት").
+```
+መግቢያ(ኦካሪና, ኒ, [ኦካሪናዎች], "የነፋስ መሳሪያ").
+entry(ክስተት, ግ, [እኩስና ተከስቷ፣ እኩሞች], "ለማስከት").
+entry(ምዕራብ, ን, [ምዕራቦች], "ምዕራብ").
+entry(occiput, n, [occiputs], "ወይም OCCIPITAከርንብር የሆነው የጭንቅላት ጀርባ ክፍል").
+entry(መገጠም, ግ, [ተገጠመ,እየገጠመ,ይገጠማል], "መዝጋት ወይም ማግደል").
+entry(ኬዝራዊ, አግአባሪ, [], "የጥርስ እንቅልፍ ዙርያ የሚመለከተው").
+entry(ማሸሽ, ግ, [ተሸሽመ, ተሸሽማ, ተሸሾ], "ማደበቅ").
+ፈተና(ደብረ ምሸት, አይነት, [ደብረ ምሸትዎች], "የሚደብር").
+እትም(በስልት, ግም, [], "በስውር").
+entry(ሰፈር ያለ, ነ, [ሰፈራዎች], "አንድ ነዋሪ").
+እትም(ሰፋሪ, ነ, [ሰፋሮች], "የሚያስገባ አንድ ነገር").
+entry(ይዘምኑ, ግ, [ታኖረ,ትኖር,ይኖር], "በስሜት ወይም በኃይል መሳበር").
+entry(አጋጥሟል, ግ, [አጋጠመ,አጋጣሚ,አጋጥሞታል], "መነሳት").
+entry(ባሕር, ነ, [ባሕሮች], "ከፍተኛው የጨው ውሃ አካባቢ የወደቀው የምድር ክፍልOCEANIC adj").
+ውስጥ(ውቅርናውድ, ነርብ, [ውቅርናውድስ], "አኢኮናውት").
+entry(ocellar, አ.ተ., [], "ለአንድ ኦሴለስ የሚያገለግል").
+entry(ocellate, adj, [], "የአይነ ክፍት").
+entry(ዓይን, አር, [ዓይኖች], "ትንሽ ቀላል ዓይን").
+entry(ኦሴሎት, ኃ, [ኦሴሎቶች], "አንድ አሜሪካዊ የዱር ዶሮOCELOID adj").
+entry(och, interj, [], "በመገምገም ወይም በደከመ ለመጠቀም").
+entry(oche, n, [oches], "ተጋላጭ ወደ ዳርት ሲወርዱ አብረክ ወድቂት ገመድ ዳር").
+እትም(ocher, ግ, [ochered, ochering, ochers], "በኦከር ማጨር በቀለም ምሕጢረኛ እና ቢጥ መሰረት የተጠቀሰ ቀለም ማውስ").
+entry(ocherish, አግ, [], "ወደ ቆሚጣ ቅርጻት").
+entry(ኦኸሮኢድ, ቅርጽ, [], "ኦከሮስ").
+እባክዎን፣ ምንም ማብራሪያ፣ እና መግለጫ ያይደሉ: entry(ocherous, adj, [], "በኦከር የሚመስል ወይም ኦከር የሚያካትት").
+entry(ኦችሪ, ቀጥታ ስም, [], "ኦችረስ").
+entry(ወዮ, እሽምርሽም, [], "ሐዘን ለመግለጽ የሚጠቀመው").
+መግቢያ(ቀለማት, ግ, [ቀለማለደ,ተቀለመ,ቀለም], "ቀለማት ማድረግ").
+entry(ኦክሪአ, ነ, [ኦክሪኢ], "ወይም ኦችሬአሶክሬአ").
+entry(ሐምራዊ, ቅጥ, [], "ሐምራዊ").
+መግቢያ(ochring, አለፈት, [], "የ ochre ክፍል ይዘጋጅ").
+entry(ochroid, ግም. ስምምም, [], "ኦችረስ").
+entry(ochrous, adj, [], "ወይነ-ያይ").
+entry(አንግሣጤ፣ ግምገማ፣ []፣ "ኦቼሪ").
+entry(ኦሲካት, ነ, [ኦሲካቶች], "አንደኛ ያለ እና ተሰጥሯለ ካስኬት ድጋፍ").
+entry(ocker, n, [ockers], "እብድ ሰው").
+entry(ኦኮቲሎ, ነ, [ኦኮቲሎዎች], "የሜክሲኮ ቁስለ ዛፍ").
+መግቢያ(ኦክሬያ, ነ, [ocreae], "ወይም OCREAS ማሽከርከሪያ እፅ ክፍል").
+entry(ocreate, adj, [], "ኦክሬ ያለው").
+entry(octad, n, [octads], "አምስት ማህበረሰብ OCTADIC adj").
+entry(ማስቀመጫ, ነ, [ማስቀመጫዎች], "ስምንት በዙር ቢዝሮ").
+entry(ስምንት, ቅጽ, [], "በስምንት የተመሠረተ ቁጥር ስርዓት የሚመለከተው").
+ምግባር(ኦክታን፣ ነ፣ [ኦክታንስ]፣ "በስምንተኛው ቀን የሚደጋገመ ትኩሳት")።
+መግቢያ(ኦክቴን, ን, [ኦክቴንስ], "ናይሮጅን ያለው ፈሳሽ ነክሮኬን").
+entry(octangle, n, [octangles], "አራተኛ ማዕድ").
+እንትሪ(ኦክታንል, ተ, [ኦክታኖልስ], "አን አልኮሆል").
+እኩል(አክታንት, አፍ, [አክታንቶች], "ከክብ ቢስ ገንዘፍነትOCTANTAL ተመሳሳይ ቃል").
+entry(octarchy, ን, [octarchies], "ስምንት ሰዎች በሚገዙበት መንግስት").
+entry(ኦክቲቭ, ኤን, [ኦክቲቭስ], "የሙዚቃ ክፍተት አይነት የኦክቲቫል ግምገማ").
+entry(octavo, n, [octavos], "አንድ የገፅ መጠን").
+ምስሌ(octet, n, [octets], "ስምንት የተባከሉ ቡድን").
+entry(octette, n, [octettes], "ኦክቴት").
+entry(ስምንት, ስ, [ስምንታት], "ስምንት ሀይማኖት የምስሎች ማንደግ").
+ቅዳሴ(አንታልጊው, ነ, [አንታልጊዎች], "ስምንት አክስሮች ያላቸው ጉዚ ውስጥ አንዱ የሞላሽክ").
+entry(octopoid, አንስሳ, [], "ለሃሳብ ባህሪ ይመስላል").
+entry(ኦክቶፕስ, ና, [ኦክቶፕሲዎች], "ወይም ኦክቱፒ ወይም ኦክቶፕዶዴስ የሌሊት ኦክቶፕዶድ").
+ውስጥታይቶ(octoroon, ሰ, [octoroons], "እንደአንድ-ስምንተኛ አፍሪካ አስነገሥ").
+entry(ኦክትሮይ, ና, [ኦክትሮይስ], "ወደ ከተማ የሚገቡ አንዳንድ ንብረቶች ላይ የሚጣለ ግብር").
+መግቢያ(ስምንት በሚመትረዝ, v, [ስምንት በሚባዛ, ስምንት በማመትረዝ, ስምናት ሐላ], "በስምንት ማመትረዝ").
+entry(ስምንቱ, ነ, [ስምንቶች], "አራጣጥ የተያያዘ ዕቃዎች ቡድን።").
+የግቤት(ኦክቱፕሌክስ, ቅድመ ተከራ, [], "ስምንት ጊዜ በጣም በህዳግ ያህል እንደሆነ").
+entry(octupling, present, [], "የparticiple ከ octuple ነው").
+entry(octuply, adv, [], "እስከ ስምንት ጊዜ ድረስ").
+entry(octyl, n, [octyls], "አንድ አኃፊ ራዲካል").
+ማስገቢያ(አይነ-ምስሌኛ, ነ, [አይነ-ምስሌ], "የአይን ብርጭቆ").
+entry(አይነት በኩል, ተራ, [], "በዓይኖች ወይም በማየት መንገድ").
+entry(ኣይነ ሐኪም, ና, [ኣይነ ሐኪሞች], "የዓይን በሽታዎችን የሚያስተናግድ ሐኪም").
+እእእ(እዎኩለስ, አንቀጽ, [አኪሊይ], "ክብረ ክዳን እናምልዣ").
+entry(ኦድ, ኒ, [ኦድስ], "የተፈጥሮ ኃይል የተሰራ").
+entry(ኦዳ, ን, [ኦዳስ], "የሐሬም ክፍል ውስጥ አንድ ክፍል").
+entry(ኦዳህ, ን, [ኦዳህስ], "ኦዳ").
+entry(የጋምሩ ባለመንደር, ን, [የጋምሩ ባለመንደሮች], "በሀረም ውስጥ የሚገኝ የሴት ባለመንደር").
+entry(ባዛት, ቅጥ, [], "አስቀድሞ አስቀድሞዎችአስቂኝ").
+entry(ተአምራዊ, n, [ተአምራዊዎች], "አንዱ ተአምራዊ ነው").
+entry(የተለየ ሰው, n, [የተለየ ሰዎች], "እንግዳ የሆነ ሰው").
+entry(oddish, adj, [], "አንድ ደርብ ነገር").
+entry(በልዩነት, ነ, [በልዩነቶች], "ያንዱ የበልዩነት ነው").
+entry(እንግዳ ሞዋት, ግምጃ, [], "በእንግዳ መጻፍ").
+entry(oddment, n, [oddments], "ቀረር ዕፅ").
+ውስጥ(ባዛት, ና, [ባዛታት], "ያልተለመደ መሆኑ ሁኔታ").
+መግቢያ(ኦድ, ነ, [ኦዶች], "የዜና ቅኔ").
+እንትሪ(ኦዲዮን, ነ, [ኦዲዮንስ], "ኦዲም").
+ውስጥ(ኦዲም, ነ, [ኦዲምስ], "ወይም ኦዲያ ቲያትር ወይም ኮንሰርት አዳራሽ").
+entry(መዝሙርን, ተውጣጣሚ, [], "መዝሙርን የሚመስል").
+entry(አስጸያፊ, ግም, [], "እንደ ክህፎ የሚያስብመድከዝ ወይም የሚያደርግ አስጸያፊ በኃላ ቃል ODIOUSLY adv").
+entry(odist, n, [የኦድ ጻፍ], "ኦድ የሚጽፍ ሰው").
+entry(ቅናት, ነ, [ቅናቶች], "ጥላቻ").
+entry(ኦዶግራፍ, ኒ, [ኦዶግራፎች], "ኦዶሜተር").
+Prolog:
+entry(ኦዶሜተር, n, [ኦዶሜተርስ], "ሩብ የተጀመረውን ክርትል ለመለካት ስለሚያገለግለው መሣሪያ").
+ቀልድ(ኦዶሜትሪ, ኤን, [ኦዶሜትሪዎች], "ኦዶሜትር በመጠቀም ሂደት").
+entry(መንጉርጉሮ, npl, [], "የምድር ነፍሣት ድር ውስጥ የሚገኙ ታካሚ አረፍያ ነፍሣት").
+entry(odonate, n, [odonates], "የሚያድኑ ነፍሳትን በሚበሉ ዘር ያሉ የወፍራም እንቅስቃሴ ነኝ").
+entry(ዶንቶይድ, ድ, [ዶንቶይዶች], "ድንብጦችን የሚመስል የአንገት አጥንት").
+entry(odor, n, [odors], "የነክ ንኡስነትን የሚያንቃ ባሕርይ ያለው ንብረት፡ ነጩራሁ ሸሚዛዊ ቃ").
+entry(መዐራሪ, ነ, [መዐራሮች], "አሽተኘ ንብረት").
+entry(መጣወል, ግ, [ታውሏል,ታወል,ታዋላለች], "አሽተኛ ማድረግ").
+entry(አዞይሃይር, ን, [አዞይሳርት], "ያዞይሃይረኛው").
+entry(odorless, አድግ, [], "መዐመው አይለባቸውም").
+entry(ሽታ ያለ, ግምጃ, [], "ሽታ ያለ").
+entry(ሽታ, ነ, [ሽታዎች], "ሽታማ አማ").
+entry(odyl, n, [odyls], "አን ኦድ").
+entry(odyle, n, [odyles], "ኦድል").
+entry(ኦዲሴይ, ነ, [ኦዲሴይስ], "ረጅም የተነካነ ጉዞ ኦዲሴያን ተዋታች").
+entry(ኦኢ, ነ, [ኦኤስ], "የፈሮይ ደሴት አውሎ ነፋስ").
+entry(oecology, n, [oecologies], "ኢኮሎጂ").
+entry(oedema, n, [ኦዴማስ], "ወይም ኦዴማታ ኦዴማ").
+ማስገቢያ(ኦዲፓል, ቅድመ ቃል, [], "ወደ ተቃራኒ ፆታ ያለው ወላጅ ከእንግዲው አነሳሽ የሆነው መስሎ እንደሚታየው የአምሮ መገኛ የሚለው ስሜት የተሳሳተ አይነታ").
+entry(oedipean, ግ, [], "oedipal").
+entry(አይን ልብ, ና, [አይን ቅባቶች], "አንደይነ ችሎት").
+ታውጃ(ወይንኳስስሩ ሥነ-ጥናት, ን, [ወይንኳስስሩነታት], "የወይን ጥናት").
+entry(oenomel, n, [oenomels], "ጠቢሳ እንጀራጓ ያ ወይን እና ማር").
+entry(oersted, n, [oersteds], "የማግነቲክ ብርቀት አሃዝ").
+entry(oestrin, n, [oestrins], "መንደር").
+entry(oestriol, n, [oestriols], "ኣስትሪኦል").
+entry(ኦስትሮን, ነ, [ኦስትሮኖች], "ኢስትሮን").
+entry(oestrous, adj, [], "በእንስሳው ዋላ").
+entry(oestrual, ግምጃ, [], "estrual").
+entry(oestrum, አ, [oestrums], "estrum").
+entry(oestrus, ን, [oestruses], "ኢስትሬስ").
+entry(ሥራ, ነ, [ሥራዎች], "የጥበብ ሥራ").
+እቅፍ(of, ማስዋኢያ, [], "ከመጣ").
+መግቢያ(off, v, [offed,offing,offs], "ለመሄድ").
+entry(offal, n, [offals], "ጠብሳም").
+እትም(offbeat, n, [offbeats], "በሙዚቃ መለኪያ ውስጥ ያልተወሰነ እትም").
+entry(offcast, n, [offcasts], "ከተጣለ").
+አስመልክቶ(offcut, n, [offcuts], "የተቆረጠ ነገር").
+entry(ተፈላጊ, ን, [ተፈላጊዎች], "ተቃዋሚ").
+entry(አሰናብቀ, ግ, [አስነበቀ,አሰናብቆ,አሰናብቃል], "ኃጢአትን ማስበላለት").
+የመግባት(ተጋላጭ, አን, [ተጋላጮች], "አንዱ ያስቆጣ").
+ቀመርት(ኃጢአት, ን, [ኃጢአታት], "የሥነ-ሥርዓት ወይም የማህበረሰብ ህግ ጥሰት").
+አካባቢ(ቅርብ, ግ, [ቀረበ,ቀርባ,ቀራብ], "ለመቀበል ወይም ለመጥላት ማቅረብ").
+ፊተሻ(offeree, ነ, [offerees], "የተሳለው እንነሳ").
+እትም(አቅራቢ, ነ, [አቅራቢዎች], "የሚያቅርብ አንዱ").
+ምግባር(ቅርስ, ነ, [ቅርሳት], "አቅርቦት")։
+እትም(አቅራቢ, ነ, [አቅራቢዎች], "አቅራቢ").
+እቃው(offhand, ግምገማ, [], "ማዘጋጀት ሳይኖር").
+office እቲ ወዲያ [offices] መንግስታዊ ክፍል ዘንበል ፣ "አመራር ሥልጣን" ፅንዓት ዝክእል ፅሕፈት ወዲሕበ።
+እትም(officer, v, [officered, officering, officers], "በባለሥልጣን የሆኑትን ሰዎች ለማስተባበር").
+እትም(መንግሥተ ሥልጣን, እን, [መንግሥተ ሥልጣናት], "ኅላፊነት በሌላ የሚጠቀም አንድ").
+entry(offing, n, [offings], "ቀረባ ወቅት").
+ምእመና(offish, ግምጃ, [], "ቀበተኛOFFISHLY በቃል አነጋገር").
+entry(offkey, adj, [], "ከትክክለኛው ሙዚቃዊ ድምፅ በላይ ወይም በታች የተዘረጋ").
+entry(ኦፍላይን, ቅ, [], "ለኮምፒዩተር ኔትወርክ ማገናኘት የለም").
+entry(offload, v, [offloaded,offloading,offloads], "መለቀቅ").
+entry(offprint, v, [offprinted,offprinting,offprints], "ክፍል እንደገና ማተም").
+ማስገቢያ(offramp, n, [offramps], "ከፍጥነት መንገድ የሚወሰደ መንገድ").
+ውስጥ(መነሻ, v, [መነሻ,መነሻአደጋ,መነሻዎች], "ለመቆጣጠር").
+entry(offshoot, n, [እንቅሉል], "ከግድግዳ አንዱ ተንጠው የሚወጣ ሹቅ").
+entry(ውቅርዓለኛ, n, [ውቅርዓለኞች], "በዳር ውስጥ ከወርዱ ምሥኩን መሬት አካባቢ").
+እንትሪ(ከሰረ, ን, [ከሰረቶች], "ያልተገበረ የእግር ኳስ ጨዋታ").
+መግቢያ(ወጣላይ, ነ, [ወጣላይዎች], "ለታይ ያልሆኑ የመድረክ ክፍል").
+እትም(offtrack, ቅድመ ሀረግ, [], "ከደርቆም ሩጫ መነሻ ቦታ").
+entry(oft, adv, [], "እዝቅን ከገና እዝቅን አብዛኙ").
+entry(ብዙ ጊዜ, ግስ, [], "በብዙ ጌሶች ተደጋጋሚ").
+እትም(ofttimes, ግምጃ, [], "ብዙ ጊዜ").
+entry(ኦጋም, ተ, [ኦጋሞች], "ኦጊያም").
+መዝገብ(ኦግዶዳድ, ነ, [ኦግዶዳዶች], "ስምም ሰማት").
+entry(ኦጊ, ነ, [ኦጊዎች], "ኤስ ቀርፋዊ የተሳተፍበት ቅርፀትOGEED ትምር ተያይዘው ነው").
+ធាតុ(ወገሐም, ስ, [ወገሐምዎች], "የአነቃቂ ከመግመጽ የዱር አማራጣዊ ፊርም ሰማያዊ").
+entry(oghamist, n, [ኦጋሚስትስት], "የኦጋም ጽሁፍ የሚፃፍ").
+entry(ogive, n, [ogives], "ቀልጣፋ ቅርፀ-ተኮር አቋም OGIVAL ተያያዥ ትምህርት").
+entry(ማየት, ግቤት, [የተመለከተ, መመልከት, ይመለከታል], "ማየት").
+entry(አሞላላይ, ነ, [አሞላላዬዎች], "የሚያሞላላ").
+entry(ኦግር, ነ, [ኦግሮች], "አንድ አስፈሪ ፍጡር").
+entry(ogreish, ግምት, [], "የኦግር ተመሳሳይ").
+entry(ogreism, n, [ogreisms], "ኦግሪሽ መሆን ሁኔታ").
+እትም(ሴት ኦግር, ና, [ሴት ኦግሮች], "ሴት ኦግር")
+entry(ogrish, አማራጭ, [], "ogreishOGRISHLY በኦግሬሽ ግምት").
+entry(ogrism, ነ, [ogrisms], "ogreism").
+entry(ኦህ, ግ, [ኦድ,ኦህን ማድረግ,ኦህዎች], "በመገረም በሕማም ወይም እምነት መጠራቀም ነው").
+entry(ኦሂያ, ነ, [ኦሂያስ], "ሌሁአ").
+መግቢያ(ኦም, ኤን, [ኦምስ], "የመጠን መለኪያ ነጥብ እና መጋረዝ የኤሌክትሪክ መለኪያ ነኝ የኤሌክትሪክ ድንቅ ናቀይ OHMIC adj").
+entry(ኦሜጅ, ድ, [ኦሜጆች], "በኦም የተገለጸ የኤሌክትሪክ መከላከያ").
+entry(ኦምሜተር, ብ, [ኦምሜተሮች], "የኦም መጠን ለመለካት የሚል መሳሪያ").
+እትዮውይ ማለት፣ እንቆቅልሽውና ደስታ ለማሳየት የሚጠቅም።
+ግቤት(oi, እርምጃ, [], "ኦይ").
+entry(ኦይዲየም, ን, [ኦይዲአ], "አንድ ዓይነት ፈንገስOIDIOID ቅጥ").
+entry(oik, n, [oiks], "እጅግ ደሞታማ ወይም ሞኝ ሰው").
+entry(ዘይት, ግ, [ተቀባይ, ቀባታለት, ያቀባላል], "ዘይት የሚመስለው ዕለቂት ምግብ ወይም እንደምርቀት መዋቀሻ ማህደር ዞሮ ለማቀነ-ማቀነት ወይም እንደብርግብልኝኞች በተለያየ አስተዳዲር ሥርዓት የተሠራ ").
+entry(ኦይልበርድ, ኒ, [ኦይልበርዶች], "አካባቢያዊ ወፍ").
+entry(oilcamp, n, [ኦይልካምፕስ], "ከዘይት ጉድጓድ ጋር በተያያዘ ለሥራ የተቀመጠ አካባቢ").
+መግቢያ(የዘይት ታጅ, ነ, [የዘይት ታጆች], "የማሽቀር ዘይት ለመጣቀስ ባለቤር").
+ውስጥ(ዘይትያስታጽ, ናፍቆች, [ዘይትያስታጽዎች], "ዕላፋ የውሃ መከላከያ ጨርቅ").
+entry(oilcup, n, [የዘይት እንቁላል], "ማቦረሻን ለማቅረብ የተዘጋ እንቁላል ነው").
+ውሎተኛው፣አውሮ፣ [ውሎተኞች], "የሚያወላ አንዱ።").
+entry(oilfield, n, [ኦይልፊልድስ], "ነዳጅ የሚሰጥ አካባቢ").
+entry(የነዳጅ ቀዳዳ, ነ, [የነዳጅ ቀዳዶች], "የተሽከርካሪ ነዳጅ ወደ ውስጥ እንዲገባ ያስችለው ቀዳዳ").
+መግቢያ(oilier, ንጥረ ነገር, [], "የዘይት").
+እትገቢታ(oiliest, የእጅግ ተጨማሪ, [], "ከዘይት ዝቅተኛ").
+entry(እንደ ዘይት, ግምት, [], "በዘይታማ መንገድ").
+ውስጥ(oiliness, n, [oilinesses], "የዘይት ሁኔታ").
+entry(oilman, n, [የነዳጅ ሰዎች], "የዘይት ማዕዶችን የባለቤት ወይም የሚያስተዳድር ሰው").
+ውስጠ(oilpaper, ነ, [oilpapers], "ውሃ የማይተላለፍ ወረቀት").
+entry(oilproof, adj, [], "የዘይት ውስጥ የማይተላለፍ").
+ውስጥ(የዘይት ተከርካሪ, ነ, [የዘይት ተከርካሪዎች], "ዘይት ከሚጭርበት ዘር").
+እትም(oilskin, ን, [oilskins], "የውሃ መከላከያ ጨርቅ").
+entry(oilstone, n, [oilstones], "ዕቃዎችን ለመማር የሚሠራ ድንጋይ").
+ውስጥ(የቆይቼው, ግምጋም, [], "እንደ ዘይት መዝያት እንደማይቻል ጠባብ መሆን").
+entry(የዘይት መስመር, ነ, [የዘይት መስመሮች], "የዘይት ማለፊያ ባህርይ").
+entry(oily, adj, [], "ኦይሊየር ኦይሊስት በዘይት የተለበሰ ወይም የተጠበቀ").
+ምዕድ(oink, v, [oinked,oinking,oinks], "የእሽን የተፈጥሮ ጐትቶ ድምጽ ማመሰል").
+entry(ወይን ትምህርት, ን, [ወይን ትምህርታት], "ወይን ትምህርት").
+entry(oinomel, n, [oinomels], "ኦኢኖሜል").
+entry(መቀቀያ, ን, [መቀቀያዎች], "በመድኃኒት ወይም ኮስሜቲክል እንደ መታሰቢያ በቆዳ ላይ የሚቀበር ንፍጥ ቅመም").
+እትም(ኦይቲሲካ, ን, [ኦይቲሲካስ], "የደቡብ አሜሪካ ዛፍ").
+entry(ኦካ, ነ, [ኦካስ], "የቱርክ ክበብ መጠን አማራጭ").
+entry(ኦካፒ, ነ, [ኦካፒዎች], "የአፍሪካ አህዮኛ እንስሳ").
+የመግቢያ(okay, ግ, [okayed, okaying, okays], "ማጽደቅ").
+entry(ኦኬ, ን, [ኦኬስ], "ኦካ").
+entry(ኦከህ, ነ, [ኦከህሰ], "እንቅስቃሴ").
+መግቢያ(okeydoke, ቀላል, [], "ፍጹም ይሆናል ወይ").
+entry(ኦክራ, ን, [ኦክራስ], "ከፍታ ያለ ዓመታዊ ሣር").
+entry(አሮጌ, ግምጃ, [], "አሮጊነት እና አረጀ ወይም የክፋው ሕይወት ወይም ዝምን ወግነው እንደዘመኔር ነበሩት").
+መግቢያ(ዕለታዊ, ነ, [ዕለታዊዎች], "የተነጠላ ዕድሜ ያለው ግለሰብ").
+መዝገብ(olde, ቅዳሴ, [], "ያረጀ").
+entry(የድሮ, ትምህርተምህረት, [], "ያለፈው ዘመን የሚመለከት").
+ቆሎች ድምፅ በዚህ አውድ ዙርፈ ዝማሬ ይሆናል(entry(oldie, n, [oldies], "የበፊት ዘመን አማራጭ ዝማሬ")).
+entry(oldish, adj, [], "ግማሽ ነቀጣ፣ በእውነት ያደኛ").
+እትም(oldness, ነ, [oldnesses], "እርጅምነት መሆኑ").
+entry(oldsquaw, n, [oldsquaws], "የባህር ዳክዬ").
+ውስጥ(oldster, n, [oldsters], "አንድ አሮጊው").
+ማስገባት(oldstyle, n, [oldstyles], "ማበልጠጫ አምሳል").
+entry(oldwife, n, [oldwives], "የባህር ዓሣ").
+entry(oldy, n, [ኦልዲስ], "ኦልዲ").
+entry(ኦሌ, ን, [ኦሌስ], "የአበባ ጮክታ").
+entry(ኦሊያ, የሞ, [], "የኦሊየም").
+entry(ኦሌንደር, ኒ, [ኦሌንደር ዛፎች], "አንበጣ አበባ").
+entry(ኦሊስተር, ነ, [ኦሊስተሮች], "አበባ ለበሰ ቅጠል ያለው ዕፅ").
+entry(ኦሌት, ተ, [ኦሌቶች], "የኬሚካል ጨዉ").
+entry(ኦሌፊን, ነ, [ኦሌፊንስ], "አን አልክን || ኦሌፊኒክ ትይታ").
+እቅፍ(olefine, እ, [olefines], "olefin").
+entry(ኦሌክ, ቅኔ, [], "ለነዳጅ የሚገኝ").
+entry(ኦሊን, ነ, [ኦሊንስ], "አስቀድሞ የተቀመጠ የስብ ክፍል").
+entry(ኦሌን, ን, [ኦሌንስ], "ኦሌን").
+entry(ወተር, አ, [ወተሮች], "ማርጋሪን").
+እንትሪ(ኦሄስትራ, ኤን, [ኦሄስትራዎች], "ተቃራኒ ወፍራም መንቀሳቀስ").
+entry(ኦሌም, ብ, [ኦሌምስ], "አስነካር ለሶች").
+entry(ኦሌም, ን, [ኦሊያ], "ዘይት").
+እትም(ኦሊበናም, ነ, [ኦሊበናሞች], "አዋጭ ዕጣን").
+entry(olicook, n, [olicooks], "ዶናት").
+entry(ኦሊጋርክ, ና, [ኦሊጋርክስ], "በጥቂቶች መንግሥት ውስጥ አስተዳደር ያለው").
+entry(ኦሊጐመር, ብ, [ኦሊጐመሮች], "ዓይነት ፖሊመር").
+entry(ኦሊጉሪያ, በ, [ኦሊጉሪያስ], "የሉ ማላት መግለፅ ቁመጥነህ ኧረ").
+entry(ኦሊንጎ, n, [ኦሊንጎች], "የማያውቆቹ ንስሶች ከአሜሪካ ማዕከላዊና ደቡባዊ").
+entry(ኦሊዮ, ን, [ኦሊዮስ], "የተለያዩ ነገሮች ስብስብ").
+entry(olivary, ግምጃ, [], "የዉይን ቅርጽ ያለዉ").
+entry(ወይራ, ነ, [ወይሮች], "የሜድትራንያን ዛፍ ትንሽ ክብ ያለው ፍሬ").
+entry(ኦሊቪን, ነ, [ኦሊቪኖች], "አንድ ነገርOLIVINIC ቀለም").
+entry(ዖላ, ነ, [ዖላዎች], "አሰፋር ዕቃ ወይም ዕቃው").
+entry(ollie, v, [ollied,ollieing,ollies], "በስኬትቦርድ ወይም በስኖቦርድ ላይ መንቀሳቀስ ለማከናወን").
+entry(ologists', n, [ologists], "የተወለዱ በተለጥፍ ሞያ").
+አስገባ(ውሂደት, መጠ., [ሳይንሶች], "ዕውቀት ሥርዓትና").
+entry(ኦሎሮሶ, ና, [ኦሎሮሶስ], "ጥቁር ሸሪ").
+entry(ኦሊምፒያድ, ና, [ኦሊምፒያዶች], "የኦሊምፒክ ጨዋታዎች በዓል").
+entry(ኦም, ነ, [ኦምስ], "ከአስተማማኝ እውነት ላይ ማሰብ ለመጠቀም የእንቆቅልሽ ቃል").
+entry(ዶትዬ, ን, [ዶትዬዎች], "እናትስወር").
+entry(ውድቀት, ን, [ውድቀቶች], "ሞኝ ሰው").
+ፍቺ(omasum, ነ, [omasa], "የበግ ሶስተኛው ሆድ").
+entry(omber, n, [ombers], "ኦምበር").
+entry(ombre, n, [ombres], "አንድ የካርዶች ጨዋታ").
+omega(ማስገባት, n, [omegas], "የግሪክ ፊደል")።
+entry(ኦምሌት, ና, [ኦምሌቶች], "በመታመም የተቀበረ እንቁላል እና በመስቀል ተጋብሏል").
+entry(እምለት, ን, [እምለቶች], "ኦሜሌት").
+entry(omen, v, [omened, omening, omens], "እንቅስቃሴ ምልክት እኩይ ምልክት እንደሆነ").
+entry(omentum, n, [omentums], "ወይም ኦመንታምዤር እቃው በሆድ ገጽታ ላይ ይታበቃዋል ኦመንታላ ግምገማ").
+entry(ኦመር, ነ, [ኦመርስ], "የዕብራይም የደረቅ መጠን ክፍል").
+entry(ኦሜርታ, ስ, [ኦሜርታስ], "የወንጀለኛ እንቅስቃሴ ላይ ዝምታ የሚያስቀምጥ ኮድ").
+entry(ኦሚክሮን, ን, [የኦሚክሮኖች], "የግሪክ ወይም ፊደል").
+entry(ኦሚክሮን, ነ, [ኦሚክሮንስ], "ኦሚክሮን").
+entry(አስፈሪ, ቅዳሴ, [], "ክፉን መምላክ").
+entry(አስቀራረት, ነ, [አስቀራረቶች], "ያልተከናወነ ነገር").
+entry(እንቢ፣ ግምጃ፣ []፣ "በመለየት የተለየ").
+entry(አልቀበለ, ግ, [ገለበኩ, አልቀቢ, አልቀባለ], "መተው").
+entry(ያስቀምጥ, ነ, [ያስቀምጦች], "ያስቀምጥ ያለ").
+entry(ዐለማየኛ ንጉሥ, ን, [ዐለማየኛ ነጋዴዎች], "ኃይለኛ ንጉሥ").
+entry(ኦምኒበስ, ነ, [ኦምኒበሶች], "ወይም OMNIBUSSESa አውቶቡስ").
+entry(omnific, ግምገማ, [], "በፈጠራ ሀይል ያልተገደበ").
+entry(omniform, ግምጃ, [], "ከሁሉም አይነቶች").
+እቃው(በአጠቃላይቀያሪ, ቅጥያዊ, [], "የሁሉም ሁነቶች የጊዜ እንብለኝ").
+entry(omnivora, npl, [], "አንበሳዎች").
+entry(አብዛኛ, ና, [አብዛኞች], "ማንኛውንም ዓይነት የምግብ እንስሳ").
+entry(አሞፋጂ, ነ, [አሞፋጂዎች], "የሕብረት መብላት").
+entry(ማዕከል, ን, [ማዕከላት], "ወይም ዑምፋሎይ የማዕከላዊ ነጥብ").
+entry(ላይ, ነ, [አንድ], "በክሪኬት ማጋጠሚያ ተጫዋች የሚቆምበት ወገን").
+መግቢያ(ኦናጀር, ነ, [ኦናጀሮች], "ወይም ONAGRI የማይምላ አህያ ከማዕከላዊ እስያ").
+ዋነኝነት(ኦናኒዝም, ት, [ኦናኒዞች], "እንስማቷችን እንዳይከተት ለማድረግ በተስተናዋሽ ዝግጅት ተቋቋም").
+entry(ኦናኒስት, n, [ኦናኒስትስ], "ለኦናኒዝም ስራ የማስፈላለግ").
+entry(onboard, adj, [], "በተሽከርካሪ ላይ ሸከመ").
+entry(አንዴ, ግምጃ, [], "አንድ ጊዜ ብቻ").
+ፍቺ(oncet, ግምት, [], "አንድ ጊዜ").
+entry(ኦንሲዲየም, ነ, [ኦንሲዲየሞች], "ከፍተኛ ሙቀት ያለው ኦርኪድ").
+እንትሪ(የካንሰር ጅንም, ኒ, [የካንሰር ጅንሞች], "ተለመደ ህዋስ ካንሰር የሚያደርገው ጅንም").
+አስመጪ(ኦንኮሎጂ, ን, [ኦንኮሎጂዎች], "የሕማሙን የምርምር ሳይንስ").
+entry(oncoming, n, [oncomings], "መቅረብ").
+entry(ኦንዶግራም, ነ, [ኦንዶግራሞች], "የኤሌክትሪክ ማዕዘን ይዞታዎች ገላጭ አቀማመጥ").
+entry(one, n, [አንድ], "ቁጥር").
+entry(አንድነት, ቅዳሴ, [], "አንድ የማይከፈለው አንድነት የሚቆም ነገር").
+entry(ሕልም ያለው, ቅዳሴ, [], "ሕልምን የሚመስል").
+entry(አንድነት, ና, [አንድነቶች], "አንድነት").
+entry(በጒዳች, ግምት, [], "ከባድ ወይም ግፍ").
+entry(onery, አግራሚ, [], "ONERIER ONERIESTornery").
+entry(ራስ, pron, [], "አንድ ሰው ራስ").
+entry(onetime, adj, [], "የቀደመው").
+entry(ቀጥሏለት, ግምጃ, [], "ያልቋረጠ መቀጠል").
+መግቢያ(ሽንኩርት, ነ, [ሽንኩሮች], "ቻቂያ የሚለባለት ከሂርሆብ የተነሳ የሚበላ ሡር").
+entry(onium, ቅ, [], "በውስብስብ ካተዮን የተወሰነ").
+entry(onlay, n, [ኦንሌይዎች], "አንደኛ ነገር በሌላ ላይ የተቀመጠ").
+entry(onliest, አጣሩ, [], "ብቻ").
+ፍቺ(ኦንላይን, ተ.የተነ, [], "ወደ ኮምፒውትር መረብ የተገናኘ").
+እንትርይ(onload, v, [onloaded,onloading,onloads], "ተሽከርካሪ ወይም ኮንቴነር ማጫን").
+መግቢያ(ተመልካች, ን, [ተመልካቾች], "ተመልካች").
+entry(ብቻ, ግ, [], "ሌላ ነገር ወይም ሌላ ሰው የለም");
+entry(ኦኖ, ነ, [ኦኖስ], "ትልቅ ማኬረል").
+entry(የስም ሳይንቲስት, የስማማ, ["የስም ሳይንቲስትን"], "ስም የሚመለስ ሰው ነው").
+entry(onrush, n, [አውርድ], "ወደፊት መንሸራተት ወይም ፍሰት").
+entry(መዝግብ, ቅድሚያይ, [], "በፊልም ቴሌቪዥን ወይም ማሳያ ላይ የታየ").
+መግቢያ(መጀመሪያ, ነ, [መጀመሪያዎች], "መጀመርት").
+መግቢያ(onshore, ተዘዋዋሪ, [], "ወደ ደንጋ").
+እትም(በትክክል, ግም, [], "ከመጥለቅ አይደለም").
+እንቲርይ(onstage, አድጃቭ, [], "ታዋቂው ከሚያየው ክፍል ከዓይነ ገብር ላይ እንደ ሆነ እንደ ተገፋው").
+እትም(onstream, ግምት, [], "በምርት ውስጥ ወይም ውስጥ ወደ").
+መግቢያ(ኦንቲክ, ግምጃ, [], "እርግጠኛ መኖ ወይም እኩል እንደመኖ").
+entry(onto, prep, [], "ላይ ቦታ ማሻገር ወደ").
+entry(ontogeny, n, [ontogenies], "የግለ እንስሳው እድገት").
+እትም(ኦንቶሎጅክስ, ቃ, [ኦንቶሎጂያች], "ስነ-ልቦናውን ያነካው ክፍል እንደሆነ").
+እትም(onus, ስ, [onuses], "ከባድ ግደላ ወይም ድርሻ").
+መግቢያ(ቀጣይ ቦታ, ግስ, [], "ወደ ፊት ወደ አንድ ነጥብ በቀጥታ").
+entry(ቀጣይ, ግምት, [], "ወደ ፊት").
+entry(ኦኒክስ, ነ, [ኦኒክሳች], "የተለያዩ ዐይነት እንደ ትርብ ዐልባም").
+መግቢያ(oocyst, ን, [oocysts], "ዚጎት ነው").
+entry(oocyte, n, [ኦሶይትስ], "ማዕበል ከመድፍረት በፊት").
+entry(ዝርኸኛን, አ, [ዝርኸኛን], "ብዙ መጠን").
+entry(oodlins, n, [oodlins], "ርጝሞች").
+entry(oof, interj, [], "ለማንሳት ይጠቀማል").
+ፍትህ(ኦጋሜቴ, ነ, [ኦጋሜቴስ], "የተወላጠ አንድ ሴት ጜቴን እበለከወድ ነው").
+መግቢያ(oogamous, ግም, [], "በምርቶች ግንዛቤ የሚለዩ ጋምትዎች").
+ምስጢር(ኦዎጋሚ, ነ, [ኦዎጋሚዝ], "ኦዎጋማስ መሆን ሁኔታ").
+በሎግ(ኦጀኒ, ን, [ኦጀኖች], "እንቁላል እድገት")።
+entry(oogonium, n, [oogoniums], "ወይም OOGONIA በአንዳንድ አረንጓዴ እና ፈንገሶች ውስጥ ገነሣት መንነሳ የሴት ሥርዓት OOGONIAL ቅድመ ተዋእዚ").
+እቤል(የጥምር, ግ, [በደኅና ተንዋል፣ በደኅና ሆኖ፣ በደኅና ይሆናል], "በመገሠገሥ፣ ሐረግ፣ ወይም በድንጋጤ ማልቀስ").
+entry(oolachan, n, [oolachans], "ኦላችታን").
+entry(oolichan, n, [oolichans], "ኡላቾን").
+entry(oolite, n, [oolites], "የተለያየ ድንጋይOOLITIC አድ").
+entry(ኦልሊት, ነ, [ኦልሊቶች], "ኦላይት").
+entry(ኦኦሎጂስት, ን, [ኦኦሎጂስቶች], "በኦኦሎጂ አዋቂ").
+entry(oology, n, [oologies], "የወፎች እርግዝና ጥናት OOLOGIC ተዋዋይ").
+entry(oolong, n, [oolongs], "ጥቁር የቻይ እንስሳ በቻይ").
+entry(oomiac, ነ, [oomiacs], "umiak").
+entry(oomiack, n, [oomiacks], "ኡሚያክ").
+entry(ኦሚያክ, ነ, [ኦሚያኩች], "መርከበ ማፍነ").
+entry(ኡምፓ, ግ, [ኡምፓድ, ኡምፓሂንግ, ኡምፓሰስ], "ተደጋጋሚ የታችኛውን ዘፈን ንዑስ እንቅሷ ማጫወት").
+እንትሪ(ኡምፍ, ነ, [ኡምፍስ], "ነፃ እንቅስቃሴ").
+አስገባ(oophyte, ሰ, [oophytes], "የተወሰኑ እፅዋት የማህበረሠላም አከባበር OOPHYTIC ቅጥር").
+entry(oops, interj, [], "አንደበት ይቀር ወይም እንቅልፍ በሰላም ወይም ልቅሶ ይጠቀማል").
+እትም(oorali, ን, [ooralis], "curare").
+entry(oorie, ቅ, [], "ourie").
+እትም(oosperm, ነ, [oosperms], "የተፈራረሰ እንቁላል").
+entry(oosphere, n, [oospheres], "አልተዘረመረም አይእዣ ከኦዮጎኒየም ውስጥ").
+`entry(oospore, n, [oospores], "የእንስሳት ቡነሣ ውስጥ የሚገኝ ዝር ድርብ ምርመረ QOSPORIC ቅድ.").`
+entry(አውጭ, ን, [አውጭዎች], "ውጭ").
+entry(ዕንቁላል መሸከሚያ, n, [ዕንቁላላት], "ከሌላእንቅንዮች ዕንቁላል መሸከሚያ የሚሆን እንግዲያት ዕንቁላል አንቀሳቃሽ").
+entry(ootid, n, [ootids], "የተሟላ ኦቨም ወደተከፈለበት አራት ክፍሎች አንዱ").
+entry(መፍሰስ, ግ, [ፈሰሰ, ማፍሰስ, ይፈሰሳል], "በቀስታ መፍሰስ").
+እትም(መፍሰስ, ስ, [መፍሰሶች], "የመፍሰስ ሁኔታ").
+entry(ኦዚ, ተውላጠ, [], "ይሄ ለማመዝገብ ይህንን ሉህ ወይም ግምብ የሚመስለው OOZILY ማለት ነው").
+አስገባ(ኦፕ, ኤን, [ኦፕስ], "抽象画风格") .
+የግራንድፋዘር.
+entry(opacify, v, [ተመልቧል,ተመልባልነት,አንበሶች], "መለወጥ")
+entry(ግምት, ነ, [ግምቶች], "አስተርዓማ").
+entry(ኦፓህ, ን, [ኦፓህስ], "የባህር አሳ").
+entry(opal, n, [ኦፓል], "አንድ ነገር").
+entry(ኦፓሌስ, ግ, [ኦፓሌሰዳ፣ኦፓሌሲንግ፣ኦፓሌሲስ], "ማናበርባራት የሚያስከትል ቀስተ ቀምሎችን ማለቅ").
+entry(opaline, n, [opalines], "ሐምላ ነጠላ ነጭ አምርጥ").
+entry(opaque, adj, [], "ማያሳፍር ለብስ ይቆጥብ ይህ የቻለበት ፀሐይም እና ፈላ ኮይታ መገፋት ታላቅ ተቃዋሚ ታገደ ማመን ታላቅ ውሆችን በተፈጸመ መኅሰል ማስፋፋትና በጉዞ መራመድ").
+entry(ደብዛዛ, ግ, [ደብዟል,ደብዛዜ,ደብዛዛዎች], "ደብዛዛ ማድረግ").
+መግቢያ(ኦፔፕ, ገ, [የኦፕድ, ኦፒንግ, ኦፕስ], "መክፈት").
+እንቀሳቀስ(entry, ክፈት, ቅድሚያ, ቁጥርታት, "አሁን ናት በግልፅ ገቢያን መነሀሽን ወይም ዕይታን ነዳዳቂ አድርጎ").
+entry(open, v, [ክፈቱ,ከፈተ,ክፈታለሁ], "ክፈት እንዲሆን ማነሳሳትOPENABLE adj").
+entry(opencast, adj, [], "በከፍተኛ አየር እንደ ተሰራ የተሰራ").
+የጀምሮ ፣ ና ፣ [ጀምሮች] ፣ "የሚከፍትልን አንዱ".
+ማህደር(መክፈቻ, ና, [መክፈቻዎች], "ባዶ ወይም ያልታገደ ቦታ").
+entry(በክፍትነት, ግምት, [], "በክፍት መንገድ").
+entry(openness, n, [opennesses], "ክፉባት የመሆን ሁኔታ").
+entry(openwork, n, [openworks], "የጌጥ ወይም የመዋቅር ስራ ብዙ መልኮችን ያቀፍላል").
+መግቢያ(ኦፔራ, ነ, [ኦፔራዎች], "የሙዚቃ ድራማ አካል").
+entry(operable, አግልግሎት, [], "usableOPERABLY adv").
+entry(ሥርዓት, ቁጥር, [ሥርዓቶች], "መጠን በሚለዋወጥ የተለያዩ የሂሳብ ሥርዓቶች ላይ የሚደረግ ተግባር").
+entry(እርምጃ እንሀሳብ, ነ, [እርምጃዎች], "አንድ ያለ እርምጃ የሚወስድ").
+entry(እንቅስቃሴ ፈጣሪ, ግ, [እንቅስቃሴ ፈጣርቶ፣እንቅስቃሴ በመፈጠር ላይ፣እንቅስቃሴ ይፈጠራል], "ተግባር ማካሄድ").
+entry(መዝናኛ ሙዚቃዊ, ን, [መዝናኛ ሙዚቃው], "ኦፕራ የመዘግየት ቴክኒክ").
+ውህድ(ኦፕሬተር, ነ, [ኦፕሬተሮች], "የተለያዩ የቁጥር ክፍሌትን የሚወክል አንድ ምልክት").
+entry(ኦፐርሴል, ኤን, [ኦፐርሴልስ], "ፆሪያ ክርንችላ").
+entry(opercula, npl, [], "ተገጋጋዎች").
+entry(opercule, n, [opercules], "አናቶሚያዊ ክፍል የሚሰራ እንደ መክፈቻ ወይም እንደ ሽፋን").
+entry(ኦፐሬታ, ን, [ኦፐሬታዎች], "ንግግር ያለው ቀላል ሙዚቃዊ ድራማ").
+entry(operon, n, [መታዘጋጃዎች], "የጅንስ እንቅስቃሴ አይነት").
+entry(operose, adj, [], "እጅግ ከባድ ሥራ የሚያካትት").
+entry(ፍዳፊጥ, ን, [ፍዳፊጦች], "እባብ").
+entry(ኦፍባይት, ና, [ኦፍባይትስ], "አንዱ አረንጓዴ ዝግ ዝውውር ያለ እሳተ-ተራራ ድንጋይ OPHITIC ተ.ቃ").
+ይግባ(opiate, ግ, [opiated, opiating, opiates], "በኦፒየም ማከም").
+entry(አመሰከረ, ግ, [አመሰከረ,እየተነጋገረ ነው,አመሰከር], "እስም አሰጋለት ወይም እምነት አሳየ").
+entry(oping, present, [], "መክፈት ነጠቅ (participle of ope)").
+መግቢያ(አስተያየት, ስ, [አስተያየቶች], "ሰው እንደ እውነት የሚያምነው ውሳኔ ወይም ፍርድ")
+entry(opioid, n, [የኦፒዮይድ], "እንደ ኦፒየም የሚሠራ ፔፕታይድ").
+entry(ኦፒየም, ተ., [ኦፒየሞች], "አስተማኝ የሆነ ጸረ ምስኪን").
+entry(ኦፒየምነት, ስ, [ኦፒየምነቶች], "የኦፒየም ጋለም").
+entry(opopanax, n, [የኦፖፓናክስ], "አስቸኳይ ሽታ ያለው ጠጣ ቅመም").
+ቀልዖ(opossum, n, [opossums], "አንድ የዛፍ ላይ የሚኖር እንስሳ").
+ኢንትሪ(oppidan, n, [oppidans], "ከተማዊ").
+`entry(oppilate, v, [oppilated,oppilating,oppilates], "መከላከልOPPILANT ቅጥ ተብሎ ስሚዐት ያለው ነገር").`
+entry(opponens, n, [የጣት አጋልባቢ ጡኝ], "አዝጋዥ የአዕጣጅ አካላዊ አጋዥ ጡኝ").
+ግቤት(ተቃዋሚ, ን, [ተቃዋሚዎች], "ሌላን የሚቃዋም").
+entry(መቃወም, ግ, [ተቃወመ,ተቃወሙ,ይቃወሙ], "ከማንኛውም ነገር ጋር ሂደት ወይም ግጭት ላይ መሆን").
+entry(opponer, n, [ተቃዋሚዎች], "አንድ የሚቃወም").
+እትም(ተቃራኒ, ነ, [ተቃራኖች], "በአንድ ዝምድነ መንገድ ከሌላ ባለፈዘላለም ዝርዝሮች ደርሰሞ የተለየ").
+entry(ደሽደሰ, ግ, [ደሽደሱ, የሚደሽድሱ, ደሽድሱ], "በሥልጣን ኃይል መታገለው ፣ ማራከብ ወይም ማፍቃት የታፊል ከግአምር ግኘ ተግባር").
+entry(ተጣላ, ግ, [ተጣለ, ተጣልቶ አደረገው, ተጣላው], "በክርክር ማቋረጥ").
+entry(ተሃዳግሚ, ን, [ተሃዳግሚዎች], "የሚታቃዩ አንዱ").
+Զրանցում(օպսիմաթ, ն, [օպսիմաթս], "մարդ, ով սովորում է միայն իր կյանքի վերջում"):
+entry(ኦፕሲን, ነ, [ኦፕሲኖች], "የፕሮቲን አይነት").
+ግቤት(opsonic, ቅዳሴ, [], "በኦፕሶኒን የተገነኘ").
+entry(opsonify, v, [አከታነ,ከታና,ከታነዋል], "ኦፕሶናይዝ ማድረግ").
+አልፋ: (ኦፕሶኒን፣ አፋ፣ [ኦፕሶኒኖች]፣ "የደም ፀሐፍ ማተሚያ አንቲቦዲ").
+ማህደር(ኦፕሶናይዝ, ግ, [ኦፕሶናይዝድ,ኦፕሶናይዝነግ,ኦፕሶናይዝስ], "ኦፕሶናይዝ").
+ውህደት(ኦፕሶናይዝ, ግ, [ኦፕሶናይዝድ,ኦፕሶናይዙ,ኦፕሶናይዝዝ], "ኦፕሶኒን ለመፍጠር ውስጥ").
+entry(opt, v, [አመረጠ,በመምረጥ,ይምረጣል], "ማምረጥ").
+entry(እንቀሳቀስ, አ, [እንቀሳቀሶች], "ፍላጎት ወይም ተስፋ የሚያሳይ የጥምር አካል").
+entry(optic, n, [በዓይነ መረዳት], "አይን").
+entry(እይታዊ, ቅርንጫፍ, [], "ከእይታ ጋር የተያያዘ").
+entry(እንደምነቀምራ, n, [እንደምነቀምሮች], "የኦፕቲካል እቃዎችን የሚሠራ ወይም የሚሸጥ ሰው").
+ውሂባት(ኦፕቲሲስት, አ, [ኦፕቲሲስቶች], "በብርሃን እና ራእይ ጥናት የሚሳተፍ").
+ማግኘት(optima, a, [], "pl of optimum").
+entry(ምቹ, ት, [], "በጣም የሚመኘው").
+entry(optime, n, [ኦፕቲሜስ], "የካምብሪጅ ዩኒቨርሲቲ እንደ ምሳሌ የምርኮ ተማሪ በተማሪ ዙርያ").
+entry(አሻሽል, ግ, [ተሻሽሏል,የሚሻሻል,የሚሻሽሉ], "ለማሻሻል").
+እትም(አምተነነው, ሰ, [አምተነነዎች], "ነገራትን በማሻሻያ እንድታይ ግምት").
+entry(አማርሽ, ድ, [አማርሽተኞች], "አማርሾተኝነት ያሳያል").
+ቀልድ(አውስክ, ግ, [የተዋሰከ,ማዋሰክ,ያዋሰካል], "እንዲበራ እንዲሁም ዋጋ እንዲኖረው ማድረግ").
+entry(optimum, አማርኛ, [ምርጥ ሁኔታዎች], "ወይም OPTIMAየተሰጠ ውጤት ለማግኘት በጣም ተስማሚ ሁኔታ").
+ቀልፍ(option, v, [ቀላፊያዎች,ቀለፊያዮች,ቀላፌዎች], "ለተንከባኙ መርጫ የሚሸጡ ወይም እዚህን መኪནያ በእንደገና ቀቀይ/ቀይ ግዜ ከሆነ ነገር ደህና ሁል ነይ መልቀቅ ይቻላል።").
+ግቤት(አማራጭ, ነ, [አማራጮች], "አንድ ግምር ኮርስ አማራጭ ጥናት").
+አስገባ(ምርጫ ያለው, ነ, [ምርጫ ያላቸው], "ሕጋዊ ምርጫ ያለው አንድ ሰው").
+entry(optronic, adj, [], "ከኤሌክትሮኒክስ እና ብርሃን ጋር የሚነጋገር ሳይንስ ዝርዝር").
+እትም(opulence, n, [opulences], "ሀብት").
+እትም(opulency, ና, [opulencies], "እምብርቅ").
+entry(ንብዓተማምለጥ, አዝ, [], "ባለጠግነት").
+entry(opuntia, n, [ኦፕንቲያዎች], "የአሜሪካ ካከታስ").
+እኩል(opus, ን, [opuses], "ወይም ኦፔራ የሥነ-ስነ-ጽሑፍ ወይም የሙዚቃ ሥራ").
+entry(አንደኛ, ብዛበፅ, [], "አንደኛች").
+entry(opuscule, n, [opuscules], "አነስተኛ ሥራ").
+እትም(ኦቿሳ, ነ, [ኦቿሳስ], "አነስተኛ ሃይቅ ነሽም").
+entry(ወይም, ነ, [ወይሞች], "የዘመናዊ ቀለም ወርቅ").
+entry(ኦራ, ብሉይ, [], "የ ኦስ").
+እትም(orach, ስ, [oraches], "የተተከለ እንስሳ").
+entry(ኦራች, ቀ, [ኦራችስ], "ኦራች").
+entry(ኦራካል, ነ, [ኦራካሎች], "አምላክ በኩሉ ሚና የሚናገር ሰው መሆን የሚታመን").
+በትርጉም(entry, n, [ትርጉሞች], "የቃል ግጥሚያና እንደአንቅስተም እንደአነብሳት፣ እንደጎረኖ").
+ውስጥ(orad, ግንባር, [], "ወደ አፍ").
+entry(በቃላዊ, ነ, [በቃላዊዎች], "የዝርዝር መልስ የሚጠይቅ ፈተና").
+entry(ኦራሊዝም, ን, [ኦራሊዝማት], "ድምጻዊ ዘዴዎችን በመጠቀም የተሰነዘሩትን ማስተማር").
+እትም(ኦራሊስት, ን, [ኦራሊስቶች], "ኦራሊዝምን የሚደግፍ ሰው").
+entry(ተናጋሪነት, ን, [ተናጋሪዎች], "በአፍ ሂወር መምራተ ሁኔታ").
+ግቤት(አፍአለሁ, ተ.ዘ.ይ., [], "በአፍ").
+entry(ኦራንግ, ነ, [ኦራንስ], "ትልቅ አጥበብሳ").
+entry(ኦራንጅ, n, [ኦራንጅቶች], "የሲትረስ ፍራፍሬ").
+entry(ቢቤን ቤተመንግስት, ን, [ቢቤን በን, ቢቤን፣ ቤቴ ነዉ], "ነሐሴ ወይን ብስግሩ በእውነቱ እሜነሃል").
+entry(መሎገም, ግምጃ, [], "ዝኑኝ ከብደት").
+entry(አረንጓዴ ያለ, ግምጃ, [], "አንድ ምንም እንኳን አረንጓዴ ቀለም").
+entry(orangy, adj, [], "አራንጄ ያማምላክ ወይም አራንጄ የሚመስል።").
+መግቢያ(ንግግር, ግ, [ነጋረ, በመነጋር, ይነጋራል], "በአንደኛ ዓይነት ወጥመድ መናገር").
+entry(ንግግር, ና, [ንግግሮች], "በእቃን መልኩ የተነበበ ንግግር").
+entry(orator, n, [ነጋሪዎች], "ነጋር የሚለው ሰው").
+entry(ኦራቶሪዮ, ን, [ኦራቶሪዮዎች], "የሙዚቃ ዓይነት ድርጊት").
+መውጫ(ንግግር, ነ, [ንግግሮች], "የተወላጅ ንግግር አስተዋጽኦ").
+entry(oratress, n, [oratresses], "ኦራትሪክስ").
+መግቢያ(oratrix, ን, [oratrices], "የእቴጌ አክለምምስት").
+entry(orature, n, [oratures], "በቃል የሚተላለፉ የስነ ጽሑፍ አይነቶች እንደ ተረት").
+entry(እርብ, v, [እርበደ,እርብእ,እርቦች], "ተክለቅላሉ ወይም ክበብ አምርተውች").
+የመግቢያ(orbier, ተጀማሪ, [], "የorby").
+entry(orbiest, superlative, [], "ኦርቢይ ከመነሻ ተቃርቦ").
+entry(ኦርቢት, ግ, [ዙረዙራ,ዙራ,ዙረዘ], "እርምጃ ወይም ማንኛውንም ዙር መዞር").
+entry(orbital, n, [ኦርቢታሎች], "የኒኩሌር እንቅስቃሴ ክፍል").
+ውስጥ(ተመሽክሮ, ነ, [መተመርዝት], "የሚዞር").
+entry(orbless, adj, [], "ኮከብ የለሽ").
+entry(orby, አድርጎ, [], "ዞዝ ዞህል ክብረተ ክብረ ክብረ አምብር ወንዝ ወይ።").
+መግቢያ(orc, n, [orcs], "የባህር እንስሳ").
+entry(ኦርካ, ነ, [ኦርካስ], "ኦርክ").
+entry( ኦርሴይን, ነ, [ኦርሴይኖች], "ቀይ እና ቡናማ ቀለም አጣፊ").
+entry(ደረት, ነ, [ደረቶች], "የፍራፍሬ ዛፎች ማርገቢያ አካባቢ").
+entry(ኦርኪድ, ስ, [ኦርኪዶች], "አበባ አሳቢ ተክል").
+entry(ኦርቺል, ነ, [ኦርቺልስ], "ሐምራዊ ቀለም").
+entry(ኦርቺላ, ነ, [ኦርቺላስ], "ኦርቺል").
+entry(ኦርኪስ, ን, [ኦርኪሲስ], "ኦርኪድ አፕሊያ").
+entry(ኦርኪቲስ, ነ, [ኦርኪቲሶች], "የአካል ማቃጠል").
+entry(ኦርሲን, ን, [ኦርሲኒስ], "ኦርሲኖል").
+(entry(orcinol, n, [orcinols], "የኬሚካል ውህድ")).
+እትም(ordain, ግ, [የተቀደሰ,በእንቅልፍ ውስጥ,ይታቀደ], "ቅዱስ ሥልጣን በነፍሳምታ ማድረግ").
+entry(ordainer, n, [ordainers], "የሚያደርግ አንድ ሰው").
+entry(መከራ, ን, [መከራዎች], "በጣም አስቸጋሪ ወይም ሂሳብ የሚያቃጥል ተሞክሮ").
+entry(order, v, [ትእዛዝ ሰጠ, ትእዛዝ ሰጥቷል, ትእዛዝ ሰጥን], "መነጽር ማቅረብ ወይም ምክር ማቅረብ").
+እቶታት(orderer, ኖ, [ወላዮች], "አንድ ወደሞ").
+መግቢያ(ያዛል, ነ, [ያዛላት], "ወንድ አጋዥ")።
+entry(መደምበሪያ, n, [መደምበሪያዎች], "በተነግሯቸው ምድላዌዎች ላይ የምንባል ቁጥር").
+entry(መባረክያን, ነ, [መባረክያኖች], "መባረክን የሚነሱ ሰው").
+entry(ልማዳዊ, ትምህርተይቲ, [], "የእንቅልፍ ህክምና በናሁው ተስፋ የሚሰጥ").
+entry(ግልብጽ, በ, [ግልብጼዎች], "በመጠኑ እንደሚገኝ ንጥረ ነገር").
+መውጫ(አካባቢ, ነ, [አካባቢዎች], "የተወሰነ ጂኦሜትሪያዊ አቀማመጥ").
+ዋጋ(ordnance, n, [ordnances], "አርትሊሪ ካኖን").
+entry(ዕድሜ, ነ, [ዕድሜዎች], "ወይም ኦርዲኔስዳዳሪ የሃይማኖት አቅንቦች").
+entry(ordure, n, [ordures], "ጉርድ").
+entry(ኦር, ድ, [ኦሮች], "እንደ ምንዛሪ ምርጥ ማዕድን ያለ ዐለት ወይም ብረት ያለው ዐለት").
+entry(ኦሬድ, ነ, [ኦሬድስ], "የግሪክ ሕብረተሰብ ልቃቂስ ነምፍ").
+መግቢያ(ወርቅ, ነ, [ወርቃዎች], "በገንዘብ ውስጥ ያለ ወርቅ ብዛት።").
+entry(orectic, adj, [], "የመግቢያ ፈላጎቶች ወይም ፍላምቶች የሚመለከተው").
+እትም(orective, ተውላጠ, [], "orectic").
+entry(ኦሬጋኖ, ነ, [ኦሬጋኖዎች], "በምግብ ቅመም ስሌት እንደ ቅመም የሚጠቀም").
+entry(ኦሬይድ, ን, [ኦሬይዶች], "ኦሮይድ").
+entry(ኦሬዮዶንት, ነ, [ኦሬዮዶንቶች], "የጠፋ የበግ መጠን እንስሳ").
+entry(ኦርፍሬይ, ነ, [ኦርፍሬይስ], "ልብስ ማስዋቢያ").
+ምግባር(org, n, [orgs], "ድርጅት").
+entry(አካል, n, [አካላት], "በተወሰነ ሥራ የሚሰሩ የእንደሀይወት ክፍል የተለየ ክፍል").
+entry(ኦርጋና, a, [], "የ organon እና organum የብዛት ቅርፀት").
+ዜድ(ኦርጋንዲ, ን, [ኦርጋንዲዎች], "ኦርጋንዲ").
+entry(ኦርጋንዲ, ተ, [ኦርጋንዲያት], "ቆዳ ልብስ ነገር ልብስ ግንድ").
+ውሎ: ግቤት(ኦርጋኒክ, ብ, [ኦርጋኒኮች], "የእንስሳ ወይም የእፅዋት ምንጭ ያለው ንጥረ ነገር")
+entry(አካሂድ, ግ, [አካሂዱት,አካባቢነት,ይከካሄዳል], "ያዘጋጁ").
+entry(ሕይወት ቅርንጫፍ, ን, [ሕይወት ቅርንጫፎች], "የእንስሳ ወይም የእፅዋት ሕይወት አንደኛ ዓይነት").
+መግቢያ(ኦርጋኒስት, ን, [ኦርጋኒስቶች], "ኦርጋን የሚጫወት ማሜምራ ሙዚቃ መሳሪያ").
+መግባት(መደመር, ግ, [አደረመ,እየተደረመ,ይደረም], "ወደ ደረቃ መሠረት ማድረግ").
+entry(ኦርጋኖን, ነፍሳት, [ኦርጋኖኖች], "ወይም ኦርጋና የሳይንሳዊ ምርምር ስርዓት").
+entry(ኦርጋኑም, ነ, [ኦርጋኑምስ], "ወይም ኦርጋናኦርጋኖን").
+entry(ኦርጋንዛ, ና, [ኦርጋንዛስ], "ግልጽ ነጠላ ልብስ").
+እቶገት(ኦርጋዝም, ግ, [ኦርጋዘምስ,ኦርጋዝሚንግ,ኦርጋዝምስ], "የሴክስ ማረከሽካያዊ እስቀር አከላፋይ ያረገ ነጥብ የታማኝት የኦርጋዝም ስሜት ማሳየትOPTAL INTY ເປັນສະຕີເຖກን").
+entry(ወርጄት, ን, [ወርጄቶች], "አልሞንድ ጣዕም ያለው ሲሮፕ").
+entry(orgiac, adj, [], "የኦርጂ ባህርይ ያለው").
+entry(orgiast, n, [የኦርጂ ተሳታፊዎች], "ኦርጂ ላይ ተሳትፎ የሚያደርግ ሰው").
+entry(ኦርጂክ, ግምጃ, [], "ኦርጅያክ").
+entry(orgone, n, [ኦርጎንስ], "ተገምቷል የሚገኝ እምነት በፍጥረት").
+መግቢያ(orgulous, ተዓዋቂ, [], "ኩራብ").
+entry(እብደት, ነ, [እብደቶች], "በነፃ የሴክስ መዋደድ የሚታወቀ ግብዣ").
+ፍቺ(oribatid, ነ, [oribatids], "አንዱ ያለ ዐይን ማጉያውያን ቤተሰብ").
+entry(ኦሪቢ, ን, [ኦሪቢስ], "አፍሪካ ስርየት").
+entry(ኦሪቻልክ, ነ, [ኦሪቻልኮች], "ቢጫ ብረት").
+entry(ኦሪይል, ነ, [ኦሪይሎች], "የሳንቲዮ በወንዝ ላይ የተቀመጠ መስኮት አይነት").
+እትም(ማቀናበር, ግ, [ተቀናበረ,በመቀናበር,ቀናበሩት], "ከሌላ ነገር ጋር ይዛመድ").
+entry(ምሥራቃዊ, ስ, [ምሥራቃውያን], "ምሥራቃዊ አገር ውስጥ የሚኖር ዜጋ").
+ውስጥ(መመሪያ, ን, [መመሪያዎች], "ሌላን ለአካባቢ ማስተካከያ የሚረዳ አንድ").
+መግቢያ(ግፊት, ስ, [ግፊቶች], "አፍ ወይም ዓይነቱ ያለ መግቢያ").
+entry(ኦሪጋሚ, ነ, [ኦሪጋሚዎች], "የጃፓን የወረቀት መጠቅለያ ሥነ ጥበብ").
+እትም(ኦሪጋን, ን, [ኦሪጋንስ], "ማርጆራም").
+መግቢያ(ኦሪጋኑም, ን, [ኦሪጋኑሞች], "ሽታ ያለ ኃብት").
+እትም(origin, n, [origins], "መኖር መጀመር").
+entry(ኦሪጂናል, ኤን, [ኦሪጂናሎች], "የአንደኛው ዓይነት ቅርጽ").
+entry(ኦሪናሣል, ነ, [ኦሪናሣልስ], "በአፍና አፍንጫ በሙሉ የሚወጣ ድምፅ").
+entry(ኦሪዮል, ነ, [ኦሪዮልስ], "የአሜሪካ ዘፈኝ ወፍ").
+entry(ኦሪሻ, ና, [ኦሪሻዎች], "የዩሮባ አማልክት").
+entry(እንባ, ን, [እንባዎች], "ጸሎት").
+entry(orle, n, [orles], "የሃርላዲክ ዳርቻ").
+entry(orlop, n, [orlops], "ከቱባ ዋንታ በታችም እስቲ እንዴት የተባሉ በመርከቡ የታችኛው ወለድ").
+entry(ormer, n, [ormers], "አባሎኔ").
+entry(ሆርሞሉ, ና, [ሆርሞሎስ], "ወርቅን ለመቀየር የሚጠቀምበት አልሎይ").
+entry(አስጌጣ, ግ, [የተከለከለ,በማከል,አስጌጣዎች], "ለማከል").
+entry(መላበስ, አግ, [], "በጥልቅ እንደሚሆን የተሸለመ በኣቢብ የታጠበ ወይም በተጋራFት እጅግ እንደሚብለው").
+entry(ኣስምሯማ, ኣግአዝ, [], "ኣጋርነትና ክርምአት").
+መግቢያ(ኦርኒስ, ነ፣ [ኦርኒቴስ], "ወፍ ሕዝብ")።
+entry(እንስሳዊ, ግምጃ, [], "ወፎችን የሚጠቅም").
+entry(orogen, n, [orogens], "የምድር ቅርፋፍ መድረክ በአውሮጌኒ ሂደት ላይ የሚሳተፍ").
+entry(orogeny, n, [ኦሮጅኒዎች], "ተራሮች የሚሰሩበት ሂደትኤሮጅኒክ ግምጋር").
+entry(oroide, n, [oroides], "ወርቅን ለመወሰደ የሚጠቀም አልሌ").
+entry(ኦሮሎጂ, ት, [ኦሮሎጊዎች], "ተራሮችን መጥናት").
+እትም(orometer, ና, [orometers], "የእርምታ መለክሳሽ ከፍታ").
+entry(ውብት, ቅጥ, [], "ሙሉና ግልጽ ድምፅ ባለ").
+እትም(orphan, v, [orphaned, orphaning, orphans], "አልቦት ያደርግ")
+entry(orphic, adj, [], "ምስጢራዊ").
+entry(orphical, አማ, [], "ኦርፊክ").
+entry(orphism, n, [ፎቅካት], "የኪነ-ጥበብ ስጦታ").
+entry(orphrey, n, [orphreys], "የማምሰኪያ ጌጥ ወይም ድንጋይ").
+entry(orpiment, ን, [orpiments], "ቢላል ቀለም").
+entry(ኦርፒን, ነ, [ኦርፒንስ], "ኦርፒን").
+entry(ኦርፒን, ነ, [ኦርፒኖች], "አንድ ዘመን ረጅም እፅዋት").
+entry(orra, ትንሽ በተደጋጋሚ, [], "አልሂዳሩ").
+entry(ፀሀይ ሥርዓት ሞልደር, ን, [ፀሀይ ሥርዓት ሞልደሮች], "የፀሀይ ሥርዓት መካኒካዊ ሞዴል").
+entry(ወርሪስ, ነ, [ወርሪሶች], "ወርሪስ").
+entry(ኦሪስ, ነ, [ኦሪሶች], "አበባ ያቀነበረ እፅዋት").
+entry(ኦርት, ተ, [ኦርቶች], "የምግብ እራቁዝ").
+entry(ኦርቲኮን, ሰ, [ኦርቲኮኖች], "የቴሌቪዥን ካሜራ ቱብ አይነት").
+፡ማህደር(ኦርቶ, ግምገማ, [], "በአካባቢ ውስጥ የተገኘች የቀለም አሞሌ መልሶ በፎቶ የሚያሰማራ ነገር")።
+entry(ኦርቶዶክስ, ናመ, [ኦርቶዶክሶች], "ባህላዊ እምነቶችን ይዞ ያለ").
+entry(አርቶኢፒ, ነ, [አርቶኢፒዎች], "ትክክለኛ ንምህርትን የምርምር").
+entry(ኦርቶሲስ, ነ, [ኦርቶሴስ], "ኦርቶሲክ").
+entry(ኦርቶቲክ, ነ, [ኦርቶቲክስ], "ደካማ ጫንቃዎች ወይም ጅማሮች ለማንቀሳቀስ የሚነካ እቶክ").
+entry(ኦርቶላን, ነ, [ኦርቶላኖች], "የአውሮፓ ወፍ").
+entry(ኦሪክስ, ነ, [ኦሪክሶች], "አንድ አፍሪካ አንቲሎፕ").
+እኩያ(ኦርዞ, ቡ, [ኦርዞስ], "የእሩስ ቅል ዝግባ").
+entry(ኦኤስ, ኤን, [ኦራ], "አንድ መቀየርያ").
+entry(os, n, [ኦሳር], "አን ኤስከር").
+entry(os, n, [ዐጥር], "አጥሬ").
+entry(oscar, n, [oscars], "የአሜሪካ ደቡብ አሳ").
+entry(ኦስን, ነ, [ኦስነሳት], "የኦስን ወገን የዜማ ወፎች መሰረት በመዘምርነት ጠንኩር ወፍ").
+entry(መደበቅ, ቅጥ, [], "እዝልኝ").
+entry(oscula, pl, [], "ኦስኩላም የ").
+entry(osculant, adj, [], "በቅርብ የሚጣበቅ").
+entry(oscular, adj, [], "አፍን ተመለከተ").
+እትም(osculate, ግ, [osculated,osculating,osculates], "መሳምፅ").
+entry(ኦስኩል, ነ, [ኦስኩልስ], "ኦስኩለም").
+entry(osculum, ን, [oscula], "ሳጥኑ ውስጥ የሚገኝ ክፍተት").
+entry(ose, n, [oses], "አን ኤስከር").
+entry(osetra, n, [ኦሴትራቶች], "ወርቁ ወይም ቡናማ ኬቪያር").
+entry(osier, n, [osiers], "የአውሮጳ ዛፍ OSIERED adj").
+entry(osmatic, adj, [], "ዋነኛ በሽታ ስሜት ላይ የተመሰረተ").
+entry(osmics, npl, [], "እንፍሰትን የሚመለከት ጥናት").
+entry(osmium, n, [osmiums], "የቅርብምጓጅ ንጥረ ነገርOSMIC OSMIOUS ተዋጽዖ").
+entry(osmol, n, [osmols], "አንድ ክፍል ኦስሞሲስ ግፊትOSMOLAL adj").
+entry(osmolar, adj, [], "ኦዝሞቲክ").
+አካባቢ(osmole, n, [osmoles], "osmol").
+entry(osmose, v, [ማንጸባረቅ,መንጸባረቅ,መንጸባረቅ], "በኦስሞሲስ ሂደት ማለፍ").
+entry(ኦስሞሲስ, ነ, [ኦስሞሶች], "በአቅራቢያ ክር ከበለጠ ከሚድፈር ፍላጎት መፍለስ").
+entry(osmotic, ግምጃ, [], "ኦስሞሲስ በተመለከተ").
+entry(osmous, adj, [], "ኦስሚም የሚያካትት").
+ቀደምብሎ(ኦስመንድ, ስ, [ኦስመንድስ], "ትልቁ ፈርኖች ዘር ማንኛውም").
+entry(ኦስሙንዳ, ነ, [ኦስሙንዳዎች], "ኦስሙንድ").
+entry(ኦስናቤርግ, ስ, [ኦስናቤርግስ], "የኮተን ክፍል").
+እትም(osprey, ነ, [ospreys], "አሜሪካዊ ጭልፋ").
+entry(ossa, pl, [], "የ os").
+entry(ኦሳቸር, ነ, [ኦሳቸሮች], "አካላዊ አወቅ ሥርዓት").
+መግቢያ(ossein, ን, [osseins], "በአጥንት ውስጥ የሚገኝ የፕሮቲን ንጥረ ነገር").
+entry(ዐጽነት, ግምጃ, [], "እንደ አጽን").
+entry(ossetra, n, [ኦሴትራስ], "ኦሴትራ").
+entry(ossia, ጽሑፋዊ እንቅስቃሴ, [], "ወይም ያለበለዚያ እንደ ሙዚቃ እምነት የተጠቀሰ").
+entry(አንካሶሽ, ነ, [አንካሶሽ], "አነስሮት").
+entry(ossific, ግምጃ, [], "የአጥንት ፍጠራን የሚመለክት").
+ማስጋባት(ossifier, ተ, [ossifiers], "የማጥለቀም አንዱ").
+ምእትም(አሶሲፋይ, ግ, [አሶሲፋይድ,ኦሲፊይንግ,ኦሲፋይስ], "ወደ አጥንት ማስቀየር").
+entry(ኦሶቡኮ, ነ, [ኦሶቡኮስ], "በአትክልት እና ወይን ጠጅ የተጠበሰ የበሬ እግር ድርጎ ምግብ").
+entry(የአጥንት ማከማቻ, ቃ, [የአጥንቶች ማከማቻዎች], "የሞተው ሰው አጥንቶች የሚያከማቹበት መድረክ").
+entry(osteal, አደባባይ, [], "መገጠሚያ").
+```prolog
+entry(osteitis, n, [osteitides], "በዐጽም እና ማረ ጥራት ዘመላመላእአ ዘእኩርትበዐመለወ ዘስተዘጠፊተ ፊተ ጎምጊሥጊስ")
+```
+entry(pa, n, [pas], "አባት").
+entry(paan, n, [paans], "በተል ቅጠል ውስጥ የተጠቀነነ የበተል ቁልፍና ቅመም።").
+entry(ፓብሎም, ን, [ፓብሎምስ], "ዝምም ዕለታዊ ጽሑፍ ወይም ንግግር").
+entry(እንጀራ, n, [እንጀራዎች], "ምግብPABULAR adj").
+እትም(pac, n, [pacs], "እንደ ሞከሲን የሚመስል ጫማ").
+entry(ፓካ, ነ, [ፓካስ], "ትልቅ ማጥ አስቀያጥር").
+entry(እድሜ, ግ, [እደደ,እደጋ,እደድ], "በመደበኛ እንቅስቃሴ ማራገፍ").
+መግቢያ(pacer, n, [pacers], "እርምጃው በገምጋም የሚሄድ ፈረስ")۔
+ወደቀርፁ(ፔሲ, መግለጫ, [], "ፓሲ እና በጣም ፉጨመ በፍጹም ፈጣኑ").
+entry(ፓቻ, ን, [ፓቻስ], "ፓሻ").
+entry(pachadom, n, [pachadoms], "ፓሻዶም").
+entry(ፓቸሊክ, ኦ, [ፓቸሊክስ], "ፓሻሊክ").
+ውሂብ(ፓቺንኮ, ን, [ፓቺንኮዎች], "የጃፓን ፒንቦል ጨዋታ").
+entry(pachisi, n, [pachisis], "የህንድ የጨዋታ ሳንባዳት").
+ፍቺ(ፓቹሊ, ነ, [ፓቹሊስ], "የምስራቅ ህንድ ሐብት").
+entry(ፓቹኮ, ነ, [ፓቹኮስ], "አምብራለሽ የሜክሲኮ-አሜሪካኛ ጎልማሳ").
+entry(pacier, ተወዳዳሪ, [], "ከፓሲ እና ፓሲ").
+entry(paciest, superlative, [], "ከፍልከይ እና ፈጣን").
+entry(ሶስተኛ, ግምጃ, [], "ሰላማዊ").
+መግቢያ(ረጋጋና, ያለፈ, [], "እንቆቅልሽ ተዋሄደ").
+entry(መንሻዝራሽ, ብ, [መንሻዝራሾች], "ይዳሰስ የሚለው").
+`entry(ፀጥታ, n, [ፀጥታዎች], "በጦርነት ወይም በእልፍኝነት ላይ የሚደረግ ተቃውሞ").`
+እትም(pacifist, ስ, [pacifists], "የመረራቱን ተማሪ").
+entry(ይጉረም, ግ, [ጉሩመሰ፣ይጉረመሰ፣ ይጉረሞሳል], "ለሰላም ማድረግ").
+ግቤት(ተመን, ነ, [ተመኖች], "ክስተት ለማከናወን የሚወሰደው ፍጥነት")
+ውሱኔ(እቃ, ግ, [ተከልቡ,በመከልበል,እቃዎች], "ለመጓጓዝ ወይም ለመከማቸት ወደአንድ መደላድብ ማስገባት ማለትPROCKABLE adj").
+ፕሮሎግ: entry(package, v, [packaged,packaging,packages], "እቃ መሸፈኛ ወይም መሳሪያ ያከናወነ").
+entry(packager, n, [packagers], "አንዱ ያነሱ").
+entry(packer, n, [እንቁላል አሰፋሪዎች], "አንዱ የሚያሰፋው").
+መግቢያ(packet, v, [packeted,packeting,packets], "ክፍለ ጥቅል ማድረግ").
+entry(መደርደሪያ, አ, [መደርደሪያዎች], "ለመደርደር የተጠቀሰ ነገር").
+entry(packly, adv, [], "በተወጣጣሚ").
+ምስል(ፓክማን, ነ, [ፓክሜን], "የአጋዡ አሰላምታ").
+entry(packness, n, [packnesses], "ድርቅ").
+entry(የተሸከመ ከረጢት, ነ, [የተሸከሙ ከረጢቶች], "በጀርባ ላይ ለማሽከርከር የሚያገለግል ከረጢት").
+መግቢያ(packwax, ነ, [packwaxes], "paxwax").
+እትም(pact, ን, [pacts], "ስምምነት").
+ማስገባት(እንቅስቃሴ, ነ, [እንቅስቃሴዎች], "አንድ አብሮ ተስማማ").
+entry(pacy, adj, [], "PACIER PACIESTpacey").
+entry(ፓችኪ, ነ, [ፓችኪዎች], "ከፍብስብስ ያገኛ ክብ አምስጅ ክሉን ሮው ጡጥ").
+የግቤት(መልረጽ, ግምጃ ቃል, [ተሰላተ፣ መሻፍር፣ ተሰላ], "ወለላ ግርፍ ጋር ማስላበጥ")
+ማስገቢያ(ፓዳውክ, ነ, [ፓዳውኮች], "የአካባቢ ዛፍ").
+መግቢያ(መሸፈኚ, ነ, [መሸፈኛዎች], "የሚሸፈን አንድ").
+entry(የአቶጉ, ብዛት, [], "የአቶጉ").
+entry(ማንሻ, ኤን, [ማንሾች], "ለመላላክ የሚጠቀም ነገር").
+entry(መንሳቅ, ግ, [አመነሳቀ,ማንሳቅ,ይመነሳሉ], "በሰፊ ገርግሬ መመራት").
+entry(paddler, n, [የመዝለቂያዎች], "የሚዝለቅ አንድነት").
+entry(መርካብ, n, [መርካቦች], "የሚራካብ ባለ ጋራ").
+entry(አራቆት, ግ, [አራቆተ, አራቆታለ, አራቆት], "ፈረሶችን በተመረጠ ስፍራ ውስጥ ማስገባት").
+በንግስት(entry, paddy, n, [paddies], "የሩዝ እርሻ").
+entry(padi, n, [padis], "ፓዲ").
+entry(ዳግማዊ, ን, [ዳግማዎች], "አንድ ንጉስ").
+entry(ጥሩም, ነፍስ, [ጥሩሞች], "ሀሜ ዞርቹ").
+entry(መቆለፊያ ቁልፍ, ግ, [ተቆልፍ, በመቆለፍ, ከቁልፍ ተይዞ], "በአንደኛ፣ በምንጂ ዓይነት ቁልፍ ማስቀመጥ").
+entry(padnag, n, [padnags], "አስቸኳይ ፈንታ ሆኖ ይሄዳል የሚለው ፈረስ").
+entry(ፓዱክ, ን, [ፓዱክስ], "ፓዱክ").
+entry(ካህን, ተ, [ካህናት], "ወይም PADRI ክርስቲያናዊ መነኮሳይ").
+entry(padrona, n, [padronas], "እኅል ባለሥልጣን ወይም ቀጥር ያለው").
+እቅፍ(padrone, n, [padrones], "ወይም PADRONIa አለቃ ወይም ባለቤት").
+entry(padshah, ን, [padshahs], "padishah").
+entry(paduasoy, n, [paduasoys], "ጠንካራ ስልክ ነርፋ").
+entry(ድምፅ, ነ, [ድምፆች], "የደስታ መዝሙር").
+entry(መዝሙርነት, ን, [መዝሙሮች], "መዝሙር መዝማም").
+እንተር የፓዕላ ነኛ እና ጥሩ [ቴክስት], "ሳፍሮን ተዘጋጋች ስታው".
+መግቢያ(ጀነል, ነ, [ጀነል ወንዶች], "አራት ቃላት ያሉት አልፍ ጽሑፍወላጅPAEONIC ግምጃን").
+entry(paesan, n, [paesans], "ፓይሳኖ").
+entry(አገርሰውዬ, ና, [አገርሰውያን], "ወይም አገርሰውያን አገር-ወንድም").
+entry(አማልክታዊ, መ, [አማልክታውያን], "የበይነ አማልክት ሃይማኖት ተከታይ").
+entry(pagandom, n, [pagandoms], "የነጻ አማኞች መንግስት").
+entry(paganise, v, [paganised,paganising,paganises], "መግባባት እና መቀበል").
+entry(paganish, አጽ., [], "ከአማልክተኛ ጋር የሚመሰል").
+entry(ነቃሊት, ን, [ነቃሊቶች], "ሃይማኖተኛ ያልሆነ አመለካከት").
+entry(paganist, n, [paganists], "አማልክት ተዋዋይ").
+entry(እምነት እናቁርጥ, ግ, [እምነት ተውቶ, እምነቱን እናቃለጥ, ያላቸው ከተዉ], "እናምነት እናቁራጭ").
+እትም(page, v, [paged,paging,pages], "ስሙን በጥራት ለማስመልከት").
+entry(ድርሰት, ነ, [ድርሰቶች], "አስደናቂ የህዝብ ትርኢት").
+entry(pageboy, n, [pageboys], "ሴትነቷን ማስላበስ ያለተፈጥሯዊ ፀጉር አበራበረ አክሊል").
+እትም(pageful, ኒ, [pagefuls], "የገፅ ይዛነት").
+entry(ፔጀር, ን, [ፔጀሮች], "ቢፐር").
+entry(ገፃዊ, ትምህርተ-ሰው, [], "ወንጐዶች የመጽሐፍ ተያይዘው የዚህ ምዕራፍ ምንም ሳይነበር").
+መግቢያ(ማፅዳት, ገ, [ተፅዳ,እየተፅዳ,ይፅዳ], "ገፆችን ቁጥር ያልል").
+እንተር(ፔጂንግ, ኤን, [ፔጅይንግስ], "የኮምፒተር ገፆች መስቀል").
+መግቢያ(ደመራረግ, ስ, [ደመራረጎች], "ካጃ").
+እትም(pagoda, ን, [pagodas], "የደርብ ምርት ቤተ ክርስቲያን").
+entry(pagurian, n, [pagurians], "አውርደኛ ኤምብሰላ").
+entry(pagurid, n, [pagurids], "ፓጉሪያን").
+entry(pah, አግባብ, [], "የጥሙ ስምዬታ የሆነ ንግግር ላይ ተጠቀም").
+መግቢያ(pahlavi, ሠ, [pahlavis], "የኢራን የቀድሞ ንጣፍ ዓይነት").
+እትም(pahoehoe, ን, [pahoehoes], "ቀጥ ብርታት ሄረ ድር").
+ግቤት(ተከፍሏል, አ, [], "ያከፈለው ያለፉት ጊዜ").
+entry(ፓይክ, v, [ፓይክድ,ፓይክንግ,ፓይኮች], "ማግባት ወይም ማበርክ").
+መነሻ(ኩሽን, ሰ, [ኩሽናት], "ውሃ የማይፈስ ክበብ ያለው ክሽነም ዕቃ").
+entry(pailful, n, [pailfuls], "ወይም PAILSFUL እንደ ድስት ያለ ይዞታ").
+entry(paillard, ነ, [paillards], "በቀጥታ የተደቅሱ ትንሽ የሥጋ ክፍል እና የተቃጠለ").
+entry(ሕማም, ግ, [ያሕምማል, እያሕምም ያሕምማል], "ሕማም ሥቃይ ወይም ጭንቀትን ማስከስ").
+entry(ጉዲነት, ን, [ጉዲኖች], "paunch").
+ውስጥ(ህመም ያለ, ተዓምርተ/ነክ, [], "ህመም ያበረታቸው ህመም ዐሰተሙኝን ያስከትላል").
+entry(አልቃሽ, ቅዳሴ, [], "ህመም የማይከሰስ").
+ፕሮሎግ:
+entry(ሠዋህ, ግ, [ሠወው,ሠውነው,ሠውዩ], "በቀለም እና ጨም ዕይታ ማምለክ").
+entry(ቀለማቀል ሣንቆ, ን, [ቀለማቀሎች], "ደረቅ ቀለሞችን የሚያኖር ሣንቆ").
+እትም(painter, n, [painters], "ጥበባዊ የሚለየለይ ነኝዋር").
+entry(painting, n, [ቅዳሴ], "በቀለም የተሰራ ሥነ ጥበብ ሥራ").
+አስመግነጢያ(ፔነቴ, ግምት, [], "እጅግ የተቀመዱ አብዛኛውን ፈርጄ ተክሎ የተሞላ").
+entry(pair, v, [ተከፋፈለ, እኩል ማድረግ, ተኪ አድርጌ አስቀመጥ], "በሁለት በቁጥር ማድረግ").
+entry(pairing, ን, [pairings], "በውድድር ውስጥ ሁለት ተዋጊዎችን መደበ").
+entry(pairwise, adv, [], "በሁለት ሁለት ዕቃ").
+entry(ፓይሳ, ን, [ፓይሶች], "ወይም በፓክስታን ገንዘብ").
+entry(ነገድ, አ, [ነገዶች], "ጓደኛ").
+entry(paisana, ን, [paisanas], "የሴት ሃገር አባል").
+entry(አገራዊ, ነ, [አገራውያን], "የአንድ አገር ሰውየው").
+entry(ፓይሰ, አ, [], "የፓይሳ ብዛት").
+entry(ፔዝልኛ, ነ, [መጫንያ], "የቁም እንቅልፍ ቢኒ መሳሪያ").
+እትም(pajama, ና, [pajamas], "ለመተኛት ወይም ለመዝናናት እግር ልብስ").
+entry(pajamaed, አግድማ, [], "ፓጀማ የለበሱ").
+ውስጥ(ፓክ, ን, [ፓክስ], "ፓክ").
+entry(pakeha, n, [pakehas], "ከማኦሪ የማይነሱ ሰው").
+እትም(pakora, ናፍቆት, [pakoras], "በተለያዩ ቻቃቶች ወይም ስጋ የተሠራ፣ በዘይት የተጋገረ ትንሽ ዝናንታ ኬክ").
+entry(pal, v, [palled,palling,pals], "እንደ ጓደኞች ማገናኘት።").
+entry(ቃል, ነ, [ቃላት], "አንድ ቃል").
+entry(መንግስት ቤት, ነ, [መንግስት ቤቶች], "የንጉሳዊ መኖሪያ").
+ውስጥ(ፓላዲን, ነ, [ፓላዲንስ], "እንደ ፈራረሰኛ ጀግና").
+እእእንትሪ(palais, ኒ, [palais], "አንድ ቤተመንግስት").
+ግቤት(ፓላፓ, ነ/ሴ, [ፓላፓስ], "የግንቦት ቅጠል ክፍት ሰሌዳ የሆነ ጓዳ").
+የተሳተፈ(ላሊስ, ን, [ላሊሶች], "የምርጣፊው አጥንት").
+entry(መላጣ, ነ, [መላጣዎች], "የአፍ ማሕጸን").
+entry(ተወካይ, ግምጅ, [], "ቤተመንግስትን ተመሳሳይ").
+entry(ፓላቲን, ነ, [ፓላቲኖች], "የአምፓየር ከፍተኛ ኃላፊ").
+entry(ንቀጣሉልል፣ ግ፣ [ተረድቷል፣ ንቁጣጠጥ፣ ንቁጣጠጦች]፣ "ለመነጋገር").
+entry(palazzo, n, [palazzi], "አስደናቂ ህንፃ").
+entry(ፓላዞስ, npl, [], "ሴቶች የሚለበሱ ሰፊ ሠሪ ኮረንችበሮች").
+entry(pale, ግምት, [], "አላማጽም ቀለም አለበለትነት").
+entry(ነጣራ, ግ, [ነጣረ, ነጣራ እያለ, ነጣራ ያለ], "ነጣላ ማድረግ ወይም መሆን").
+entry(palea, n, [paleae], "የማያመስል ትንሽ ቅጠልPALEAL ቅድመ ሓሳብ").
+entry(paleate, ግምፅ, [], "በእርፅ የተሸፈነ").
+entry(paleface, n, [ማጫጫፎች], "ነጭ ሰው").
+entry(ፈካዊ, ተመራጭ, [], "በፈካ ሁኔታ").
+መግቢያ(ማስታገሥ, ነ, [ማስታገሶች], "መለወጥ").
+entry(paleocon, ነ, [paleocons], "እጅግ ቀኝ ገነቡች conservative").
+entry(paleosol, n, [paleosols], "አሮጌ መሬት አካባቢ").
+entry(ቀጭነ, ነጣጫሚ, [], "የቀጭነ").
+ውስጥ(ጥቁር, አውጪ, [], "የጥቁር").
+entry(መዝገብ, ነ, [መዝገቦች], "ወይም ፓሌስትራ በወሎ ግሪክ ዝግጅት ቤት ቢጠቅም የነበረ ተማሪዎች ለመምህራን ያሕል የሚለት").
+እትም(palet, ን, [palets], "አ ፔሊያ").
+መግቢያ(ጫማ, ነ, [ጫማዎች], "አንበሳ ክራ ካምባያ").
+ፍቺ(ማህደር, ን, [ማህደሮች], "አንድ አርቲስት ቀለሞችን የሚያወርዳበት ቦርድ").
+entry(ተጓዝ, ግቤት ነገር, [], "በጎን").
+entry(በነጠላ መልክ, ግም, [], "በአረንጋዴ").
+እትም(palfrey, ኒ, [palfreys], "መንቀሳቀስ ማለፊያ ፈረስ").
+entry(ፓሊ, ን, [ፓሊስ], "በሀዋይ ያለ ደመና").
+entry(palier, comparative, [], "የ paly").
+entry(ጋለሞሽ, አርፍታት, [], "የ ግላሞሽ").
+entry(ፓሊካር, ን, [ፓሊካርስ], "የግሪክ ወታደር").
+entry(ፓሊሞኒ, ን, [ፓሊሞኒዎች], "ከአንደኛው ጋር ተለዮ የተሳሳቱ ልቦናዎች መካከል ይከፈል በሚባል አዋጅ የሚሰጥ እናንስት ላዕላዊ ጥቅም").
+entry(paling, n, [palings], "የገበታ ግንብ").
+entry(palinode, n, [palinodes], "ከፍተኛ መነሳት").
+entry(palisade, v, [palisaded,palisading,palisades], "ከባህርያ እትምና ለመዋል").
+መግቢያ(አጠርስአርዕስት, ቅድመ ሀምሌ, [], "በትንሽ ደማቅ").
+ፍቺ(መጋረድ, ግ, [ታጋመ, ማጋረድ, ይጋረዳሉ], "ንፁህነት መሆን").
+entry(ፓላዲያ, ብዙሐት, [], "እንደምታምኝ ነጻነት").
+entry(palladic, adj, [], "ወርቃማዊ ንጥረ ነገር ባላዲየም ዙሪያ የተመለከተ").
+entry(palled, አለፈ, [], "tense of pal").
+entry(ኮቦ ሰሌዳ, ግ, [ተሰሊሉ, ሰሌድነት, ሰሌዳዎች], "ለመስቀጀት ወይም ለመንቀሳቀስ በዜርፍ ላይ ማቀም").
+entry(ጥቆላ, ን, [ጥቆላዎች], "ትከሻን የሚያሽከርክር የጦር መጋረጃ").
+entry(ፓልሊያ, a, [], "የፓሊየም ብዛት").
+entry(pallial, ግምገማ, [], "ለአንድ የአእምሮ ክፍል ዝምምድ").
+ፍሬወሳ(ታሟሳ, ግ, [ተሟሳት,እንታምሳሳ,ይሟሳሳ], "እውነትን ለመስለጥ፣ ማሽፎት").
+entry(pallid, ትበልላ, [], "PALLIDER PALLIDESTpalePALLIDLY adv").
+entry(pallier, ንክሽ ቦን፣ [], "የ pally").
+entry(palliest, superlative, [], "የpally").
+entry(palling, present, [], "የ pal እና pall መክፈያ").
+entry(ፓሊየም, ነ, [ፓሊየሞች], "ወይም ፓሊያአ ጥንታዊ ሮሜ በነበረ ጊዜ የሚለበስ ሻርቀት").
+entry(ግርጭት, n, [ግርጭቶች], "ቀላልነት").
+ውስጥ(ፓሊ, ግም., [], "ፓሊየር ፓሊበሽትመገር በቅርብ ጓደኝነትታምራማነት የታመነ").
+ውሂብ(የእጅ ወለላ, ግ, [የተነከረ, ማንከር, ይነከራል], "በእጅ ወለላ ውስጥ አካል ማንከር").
+entry(palmar, ግምጃ, [], "እጅ ግምጃውን የሚመለከት").
+መግቢያ(ፋንታልማዪ, አጅ, [], "ምስጋና የሚገባ").
+entry(የእጅ ጥፍር ዘርዝር, ግምት, [], "እንደ በግምት እጅ ያለ").
+entry(palmated, አግባብ, [], "አንደበት").
+መግቢያ(እጅግ ፈጣሪ, ሰ, [እጅግ ፈጣሮች], "ከመድን እና ነኪሽ የተወሰደ የቤዝቦል መተዋወኢ").
+entry(palmer, n, [palmers], "ሃይማኖታዊ ግልሰብ").
+entry(ፓልመት, ን, [ፓልመቶች], "የአካል ክፍል አይነት ማሸበርከቻ").
+entry(የፓልሜቶ ዛፍ, ን, [የፓልሜቶ ዛፎች], "ወይም ፓልሜቶዎች tropical ዛፍ").
+entry(ምልክት, ን, [ምልክቶች], "እስከ የእጅ ስፍራ ያልበጠ").
+entry(ፓልምየር, አ, [ፓልምየሮች], "እንደ የሴምት ቅጦች የተላለፈ ጣፋጭ").
+entry(ትልቁ ዘይትማ, እጅግ ከፍተኛ, [], "የተወለደበት አበባ").
+entry(እንግዳ መግበሪያ, ተ, [እንግዳ መግበር ሰዎች], "እንግዳ መግበር ሰዎች").
+entry(ፓልሚቲን, ነ, [ፓልሚቲኖች], "የኬሚካል ውህደት").
+entry(palmlike, adj, [], "የእጅ ሳሌ ዛፍ ያህል").
+entry(palmtop, n, [የእጅ ኮምፒውተሮች], "በእጅ ውስጥ የሚገባ ትንሽ ኮምፒውተር")।
+entry(palmy, አዛውንቶች, [], "ባለ ተስፋ PALMIER PALMIEST የተባለች").
+entry(ፓልምያ, ስ, [ፓልምያቶች], "አካባቢ ዘንባባ").
+entry(ፓሎሚኖ, ነ, [ፓሎሚኖዎች], "ወርቅ ደረት እና ነጭ ጉርሻ ያለው ፈረስ").
+ፍሉጎሽ(palooka, n, [palookas], "ከእጅ ወደቀ ባኞች").
+entry(palp, v, [palped,palping,palps], "መንካድ").
+entry(palpable, ግም, [], "እንደሚሰሞት ተገኝPARTICULARLY በግም ቋሚ").
+entry(ፓልፓል, ቅዳሴ, [], "ለፓልፐስ የሚያገለግል").
+ግቤት(እፅፍ, ግ, [እፅፋል, ግጭታ, እፅፋቶች], "በመንካት ማጥናት").
+entry(palpator, n, [እርስተኛዎች], "እርስት የሚያደርግ አንዱ").
+መግቢያ(ዓይን እምብርር, ነ, [ዓይን እምብርሮች], "ወይም ዓይን እምብርሮች ጨረር").
+entry(ጓልታ, ነ, [ጓልት], "የአርስትሮፕዶች መሰላል አካል").
+entry(ፓልሳ, ን, [ፓልሳስ], "የአርክቲክ ክልሎች መሬት ቅርፅ").
+ክፍል(ጓደኛነት, ን, [ጓደኞች], "በጣም የተዝናነብ የወዳጅነት ግንኙነት").
+entry(አንጋለለ, v, [የተነከለ,የነከለ,ይነከላል], "ማንከላለል").
+entry(ፓልሲ, ቅዳሴ, [], "የማይገባ ወይም እውነተኛ ያልሆነ መነጋገር ወይም ነጋሪ ዕድገት ማድረግ").
+entry(ፓልተር, ግ, [ፓልተርድ,ፓልተሪንግ,ፓልተርስ], "አስቀምጠው ለመናገር ወይም ለመሥራት").
+entry(ማስታገሢ, ና, [ማስታገሢዎች], "የሚንከባከብ አንድ ነገር").
+entry(ቢስ, ግምጃ, [], "ቢስ ቢሲዎች ቢሲኞችብልትበማሕ ተንቀጥቅጦ በሚኖት ቃል").
+entry(paludal, ቅርጽ, [], "ማርጥ የሚመለክት").
+መግቢያ(ወባ, ነ, [ወባዎች], "ማላሪያ").
+entry(paly, adj, [], "የትንሽ ነጭ የግማሽ ነጭ").
+እንትሪ(pam, n, [pams], "በአንዳንድ የሴርቪስ ጨዋታ ውስጥ የግማሽ ደህና ዲየም ተብለው የሚጠሩት").
+እትም(pampa, ን, [pampas], "የደቡብ አሜሪካ ሣር መሬት").
+እትም(pampean, n, [pampeans], "የፓምፓስ ተወላጅ።").
+entry(ማራር, ግ, [ተማራራ, ተማራርም, ይማራራል], "በእጅጉ ወይም በተፈጻሚ መመካከር ማንከባከብ").
+ፍትፈታ(entry, n, [ፍትፍታች], "የሚያሳነጋግር ሰው").
+entry(ፓምፔሮ, ን, [ፓምፔሮስ], "አንደበዝሞ ቀዝቃዛ ነፋስ").
+entry(በራቅ, ሰ, [በራቅታት], "የታተመ ዕለታዊ ተማካኝ ፍላጎት").
+እትም(pan, ግ, [panned,panning,pans], "በበርቷ ማከስ").
+entry(ፓናሴያ፣ ን፣ [ፓናስየስ]፣ "ለእንቅልፎች ወይም ሕመሞች በሙሉ መፍትሄ፣ ፓናሴኤን ግ.")
+ግቤት(ውበት, ን, [ውበቶች], "የአምባ መክብብ አሰላልዳ").
+entry(ፓናዳ, ና, [ፓናዳዎች], "አሰባሰብ የሆነ ስርጭት").
+entry(ፓናማ, ኦ, [ፓናማዎች], "ቀላል ቆብ").
+entry(ፓናቴላ, ን, [ፓናቴላሶች], "ረዥም ቀጭን ሲጋራ").
+entry(በሳቅመበስ, ግ, [ሳቆዋል,ሳቅበሰ,ሳቅመበሳል], "በሳህይ ውስጥ በጥቂት ወይም ያልሆነ ስብ ማብሰል").
+entry(ፓንኬክ, ግ, [ፓንኬክድ, ፓንኪንግ, ፓንኬኮች], "አውሮፕላን በአንድ ልዩ መንገድ ማረም የሚለው").
+entry(ፓንቼታ, ነ, [ፓንቼታዎች], "ያልተጠመጠም የጣሊያን ቀይ ስጋ ወተሳሰብ").
+እትም(ፓንቻክስ, ነ, [ፓንቻክሰስ], "አንዱ ሙቀት አሣ").
+መግቢያ(ካራ, ን, [ካራዎች], "ትልቅ ጽኑ").
+entry(ፓንዳ, ን, [ፓንዳዎች], "ተልማዳ የሚመገባ እንስሳ").
+entry(ፓንዳን, ን, [ፓንዳንስ], "ፓንዳኑስ").
+entry(የነጠቀ, ና, [የነጠቃዎች], "ወይም PANDANI አንጋኳላ ተክል").
+እትም(pandect, ነ, [pandects], "ሙሉ የሕግ ድርብ").
+መግቢያ(በዓለም አቀፍ ወረርሽኝ, ነ, [በዓለም አቀፍ ወረርሽኞች], "በሰፊ የተስፋፋ በሽታ").
+entry(pander, v, [pandered,pandering,panders], "ሌሎች ፍላጎቶችን ማቅረብ ለማካሄድ").
+እትም(panderer, n, [panderers], "የሚጋፍዝ").
+entry(pandied, past, [], "ፅሁፍ የ pandy ጊዜ").
+entry(pandies, ዕለተዊ, [], "3ኛ ወንድ ነጥብ ተላላፊ የpandy").
+entry(ፓንዲት, ን, [ፓንዲቶች], "በኢንዲያ አስተዋል ወይም ተምሪ ሰው").
+entry(ፓንዱር, ን, [ፓንዱሮች], "ፓንዱር").
+entry(ፓንዶራ, ን, [ፓንዶራስ], "ባንዶር").
+ማህደር(ፓንዶር, ነ, [ፓንዶረስ], "ባንዶር").
+entry(pandour, n, [pandours], "ዘረፋ ወታደር").
+entry(pandowdy, n, [pandowdies], "የፖም ጣፋጭ").
+entry(ፓንዱራ, ነ, [ፓንዱራዎች], "ባንዶር").
+entry(pandy, ግ, [pandied,pandying,pandies], "በእጅ መመቃብ").
+entry(በርካሽ, ና, [እንግዶች], "ለመስኮት የሚጠቀም የመሳሪያ ቅርጽ አለብዎት ጥቅም").
+entry(ፓኒር, ነ, [ፓኒሮች], "የወተት እርምጃ ቼዝ").
+entry(panel, v, [paneled,paneling,panels], "ወይም PANELLED PANELLING PANELSto እንደሚሸምበር ቆዳ ጋር ለማሰናጠቅ").
+entry(paneless, adj, [], "ምስኪን").
+መግቢያ(ባነሊንግ, ን, [ባነሊንግስ], "ለመጋረጃ ቀረጥ የሚፈጥር እቃ").
+መግቢያ(አባል, ሰ, [አባላት], "የውይይት ወይም የምክር ቡድን አባል")
+እቲ(entry(panelled, a, [], "ማከዝ የተፈጸመ ጊዜ")).
+entry(panelling, a, [], "የሰፈረ ቅድመ አልቦ እንቅስቃሴ").
+entry(ፓነቴላ, ነ, [ፓነቴላስ], "ፓናቴላ").
+entry(ፓንፊሽ, ግ, [ፓንፊሽድ,ፓንፊሽነግ,ፓንፊሽስ], "ማንኛውንም ትንሽ ዓሳ ማጥመድ").
+entry(ፓንፎርቴ, ነ, [ፓንፎርቴዎች], "አንድ ጨዉ ያለዉ ቂቦ ኬክ").
+entry(panfry, ግ, [በሻሂ የተጠበሰ, በሻሂ የሚጠብስ, በሻሂ የሚጠብሱ], "በመጥበሻ ማጥበስ").
+entry(የሳህን ፍሬ, ን, [የሳህን ፍሬዎች], "የሳህን ሙሉ ያህል የሚያንቀሳቀስ").
+መግቢያ(መዝነብ, ግ, [ተመዝነበ, መመዣንብ, መዝነቦች], "ተንቀጠቀጥ ሁነቱን ማስኬት").
+entry(panga, n, [pangas], "ትልቅ ካራብ").
+ውጤት(ፓንጄን, ን, [ፓንጄንስ], "የተመሳሰለ ልክ ድርብ መነሻ ነገር፤ ዝህመረ ነገር በእንግዲህ ግን ውስጥ ያለ").
+entry(ፓንጄን, ነ, [ፓንጄንስ], "ፓንጂን").
+entry(ፓንጎሊን, ነ, [ፓንጎሊኖች], "ጥርስ የሌለው አጥቢያ እንስሳ").
+ምእታም(pangram, n, [pangrams], "አቢሲዮላ ያሉ ይሁዳ አንዱ ያኀቀላለኛው።").
+ውሂብ(አሕዋትአብያተ, ግምጃ, [], "ለፍቱል ሰውማምሐዳ ዝንከብ").
+መግቢያ(ፍርሃት, ግ, [ደነገገ, ማንቀሳቀስ, ደነግጦል], "በፍርሃት ማዋረድ").
+እትወለድ(panicky, ግምት, [], "ይዘንጋ ይዘነግፉ ወደሚገለፉ።").
+Prolog:
+entry(ዕብይነት, ነ, [ዕብይነቶች], "አንጻር ቅርጽ የሆነ የአበባ ጥቅል ነባልጅ ዕብይነት ተብሏል").
+entry(panicum, n, [panicums], "ዕርግ").
+entry(መሸጫ, n, [መሸጫዎች], "መሸጫ").
+መግቢያ(ፓኒኖ, ና, [ፓኒኒ], "ወይም ፓኒኒስ በታንሽ እንጀራ ሳንድዊች የተሰሩ").
+አንተሪ(panlike, ቅርፀ-ቃል, [], "ምግብ ለማብሰል የሚጠቀመው ሳጥን ያለው").
+entry(ፓንሚክሲያ, n, [ፓንሚክሲያስ], "በአንድ የመዳበር ህዝብ ውስጥ እንደሚኖር ድካም መዳፈር").
+entry(ፓንሚክሲስ, ን, [ፓንሚክስ], "ፓንሚክሲአ").
+entry(ፓኔ, ስ, [ፓኔዎች], "ብሩህ ቬልቬት").
+entry(panned, past, [], "የሰፈረ ጊዜ").
+entry(panner, n, [panners], "የሚንካ አንዱ").
+entry(ጆማ, ን, [ጆማዎች], "ትልቅ ቅርጫት").
+እትም(pannikin, ና, [pannikins], "አነስሰ ብስክራ").
+ውሂብ(ማጠፍ ቆራጭ፣ አሁንኛ፣ []፣ "የመሽቀል ክፍል ገምጋም ተግባር").
+entry(pannist, n, [pannists], "የቅርጫት ድምፅ ጥቅልል በመጫወት ሰው").
+entry(panocha, n, [panochas], "የሜክሲኮ ሱካር ዓይነት").
+እንትሪ(panoche, n, [panoches], "panocha").
+ፍጆታ(panoply, n, [panoplies], "የጦር አልባም").
+entry(ፓኖፕቲክ, ቅ, [], "የሚታይ ሁሉን በአንድ እይታ ማካተት").
+entry(ፓኖራማ, ኒዮም, [ፓኖራማዎች], "በሙሉ የተመለከተ እይታ").
+መግቢያ(እርዳታ, ነ, [እርዳታዎች], "የሙዚቃ መሳሪያ").
+ምእማን(entry, n, [የእንደጋዝ እቅፍ], "ዓለም ችግር እውቀት").
+ውሎች(ፓንሲ, ስ, [ፓንሲዎች], "አንበሳ አስፈሪ").
+እትምህር(entry, መነፋት, v, [ነፍስተኛ, እየነፍሱ, ነፍሶች], "በበረዶ በርዶ እና በበረዶ ልብስ ሲመታ").
+entry(ፓንታሌት, ነ, [ፓንታሌቶች], "ከሩሩ ጌጣጌጦች ጋር የተጌጠ ረጅም ዝባብ").
+መግቢያ(ፓንተኦን, ነ, [ፓንተኦኖች], "ለሁሉም አማልክት የተደረሰ ቤተ መቅደስ")
+መግቢያ(ፓንተር, ነ, [ፓንተሮች], "አንበሳ አወጣጤ").
+entry(ካልሲ, ነ, [ካልሲዎች], "የሴት ወይም ህጻን የከርስ ልብስ").
+ውስጥ(ቖራሚያት, ብዛት, [], "የ ቖራሚያ").
+entry(ጡብ, n, [ጡቦች], "የጣራ ጡብPANTILED adj").
+መግቢያ(ፓንቶ, ን, [ፓንቶስ], "ፓንቶማይም").
+entry(ፓንቶፍለ, ን, [ፓንቶፍለስ], "ስሉፐር").
+entry(ፓንቶም, ነ, [ፓንቶምስ], "የቅሬታ ቅኔ አይነት").
+entry(pantry, n, [pantries], "የምግብ ቁሳቁሶችን ለመጋለድ ያለው ቆልዐዳ ወይም ክፍል").
+መዝግያ(መጎምጠሪያልበስ, ን, [መጎምጠሪያልበሶች], "የሴት ሱፍ አይነት").
+እትም(panty, ን, [panties], "pantie").
+entry(ፓንዘር, ኒ, [ፓንዞርስ], "በጦርነት የሚገጥም የፈረሰን ተሽከርካሪ").
+entry(pap, n, [paps], "ለሕፃናት ለሚሆን ለምድሃኒት").
+entry(ወላዲት, ብ, [ወላዲቶች], "አባት").
+entry(ሰንበ ሥርዓት, ን, [ሰንበ ሥርዓትች], "የፓፋስቱ ቢሮ").
+entry(ፓፓዳም, ነ, [ፓፓዳምስ], "ፓፓዱም").
+entry(ፓፓዶም, ነ, [ፓፓዶሞች], "ፓፓዱም").
+entry(papadum, n, [የፓፓዱምስ], "አንቀሳሃሽ እና ስለ ምግብ ወይም ማስቅረብ በሚጠቀሙበት በላይነት የሚጠቀሙ አገልግሎት").
+entry(ፓፐይን, ነ, [ፓፓይንስ], "ኤንዜም").
+መግቢያ(papal, ትርጉም, [], "ከፓፌን የሚመለከት PAPALLY ቅድመ አጋዥ ቃል").
+entry(papalist, n, [ጳጳልህነት አሳቃሚ], "ጳጳላዊ አለኝታ አሳቃሚ").
+እትም(papaw, ተ, [papaws], "አይጨረሰ ፍራፍሬ").
+entry(ፓፓያ, n, [ፓፓያዎች], "እንደ ክሽክላ የሚመስል ፍራፍሬ፣ PAPAYAN adj").
+ውስጥ(ወረቀት, v, [ወረቀተ,መጠቀም,ወረቀቶች], "ማይነዳድድ ውርጨት እርዝመት ምርጥሰ ማህሌድ ማመልከት ወይም ውርጨት ማጎሳት ለማድርግ የሚጠቀሙት ፈቀቀይ አንቀም ቢቢ እኔድጃ").
+entry(የጋዜጣ ገበኛ, ነ, [የጋዜጣ ገበኞች], "ዜና ሰራተኛ")।
+entry(ወረቀቀ, ን, [ወረቀቆች], "ወረቀቀውን የሚሠራ").
+entry(የወረቀት, ግምገማ, [], "ወረቀት የመስመር ያለ").
+entry(paphian, n, [paphians], "እርግብ").
+አካባቢ(papilla, n, [papillae], "ጡትን ይመስላል የሚያስቀመጥ ነጥብ፣ PAPILLAR ቅዝቃዛ ቃል").
+entry(ፓፒሎን, ስ, [ፓፒሎኖች], "ትልቅ ጆሮ ያለው ትንሽ ውሻ").
+መግቢያ(papoose, ና, [papooses], "የኔቲቭ ኤመሪካን ህጻን").
+እትም(pappadam, ነ, [pappadams], "papadum").
+entry(ፓፕፓዱም, ን, [ፓፕፓዱሞች], "ፓፓዱም").
+entry(pappi, a, [], "pappus ብዙ").
+entry(pappier, ተወዳዳሪ, [], "የ pappy").
+entry(pappies, pl, [], "የpappy").
+entry(ፓፖውስ, ን, [ፓፖውሶች], "ፓፖውስ").
+entry(pappus, n, [ጡጭ], "በአንዳንድ ዕፅዋት በላይ ያለ ጡጭ የቅጦሽ ሮጌ ቅርፃቹ ፋፖስ ባህርይ ማሳያ ቅጥያ").
+እትም(pappy, ግምታዊ, [], "ወለላ የሚመስል).
+ውስጥ(ፓፒ, ስ, [ፓፒዎች], "አባት").
+entry(በሚማርምምር, ነ, [በሚማርምምሮች], "ፓፕሪካ").
+entry(ፓፕሪካ, ሰ, [ፓፕሪካሶች], "ከቀይ ቂጣ የተሰራ ቅመም").
+entry(ፓፑላ, ነ, [ፓፑላዎች], "ወይም ፓፑላስፓፑል").
+entry(papule, n, [papules], "ጠባብ፣ ጠቋቅ ፣ጠባብ ድምፅ፣ ጠቋቅ ድምፅ ግምጃ").
+entry(ጥቋቆር, ነ, [ጥቋቆሮች], "ወይም ጥቋቆሮች ከፍተኛ ውሃ ተአዳጊ ሥነነባብነት ጥቋቆር PAPYRAL PAPYRIAN PAPYRINE ግ").
+ቅድመ መነሻ(par, v, [parred, parring, pars], "ለጋምታት በመደበኛ የምትገባ ቁጥር ማረከብ").
+entry(ዘርፍ, ና, [ዘርፎች], "ወይም የሴቶች ሁኔታ በልብሳ ልጅ መውለድ ጋር የተያያዘ").
+እትም(parable, ነ, [parables], "አንድ ቀላል ታሪክ የሚያተም ሥነ-ምግባር ወይም ሃይማኖታዊ ትምህርት").
+entry(ፓራቦላ, n, [ፓራቦላዎች], "ወይም ፓራቦላኤ ኮኒክ ክፍል").
+ប្រើពាក្យប្រិយមកពីពាក្យនេះ: entry(ዛፎች, ቃል አለመኖር, [ማስመለከቻ], "የንዑስ ክፍልን ለመነግስ ወይም ማንኛውንም ንዑስ ክፍልን መጠን የሚሰጠው መነሻ ነገር ለሆኑ ሙሉ የዕውቀት አይነቶችና ሙሉ ዕውቀት የሚይተይበት ምክንያት እንደሆነ ይታይ").
+ምጽሓፍ(parade, ጭ, [paraded,parading,parades], "በሕዝብ ፊት በአካባቢ መንገድ ገራጫ").
+entry(parader, n, [አስተዋውቃጭ], "የሚታይ አንድ ማንኛውም ታላቅ ክብር ወይም ሥርዔ").
+entry(paradigm, n, [paradigms], "አንድ አቀማመጥ ወይም ምሳሌ").
+paradise(መኖሪያ, ን, [መኖሪያዎች], "ከፍተኛ ውበት ወይም ደስታ ያለው ቦታ").
+መግቢያ(ፓራዶር, ነ, [ፓራዶርስ], "ወይም PARADORES በስፔን ውስጥ እን አዳራሽ").
+አስመጪ(ፓራዶስ, ናስት, [ፓራዶሶች], "የመከላከያ ታሸር").
+entry(ፓራዶክስ, ነ, [ፓራዶክስስ], "አስተምህሮ አጋጣሚ ወይም ዝምድነ ሠርቶ ሳይታመም እንደታወቀ ተኛቸው ባዎ ክተራ አስከኪ ሄድ ነው").
+መግቢያ(ቀልጦ ማውረድ, ግ, [ቀልጦ ወረደ,በቀልጥ ሲወርድ,ቀልጦ ይወርዳል], "በመላእክት መረዳት").
+መግቢያ(paraffin, ግ, [paraffined, paraffining, paraffins], "ለማሸፍን፣ ማሽቀርቀር በአማዲ ቅመም ዝግ መሥበር").
+entry(ፓራፎይል, ነ, [ፓራፎይልስ], "ፓራሽውትን የመስመር የተመሰረተ ከልብስ ነገር ዝርዝር").
+entry(paraform, n, [መነሻኦች], "እንደ አንቲሴፕቲክ የሚጠቀም ንጥረ ቀሳይ").
+entry(paragoge, n, [paragoges], "በቃል መጨረሻ ጋር የድምፅ ወይም ድምፆችን መጨመር").
+entry(paragon, v, [paragoned,paragoning,paragons], "እንደ ምሳሌ መነካከር").
+እትም(parakeet, ን, [parakeets], "አነስተኛ ጭራጭሩ").
+entry(ፓራኪት, n, [ፓራኪትስ], "ሰውን በሞተር ጀልባ በአየር ማውረድ የሚገባ የፓራሹት ኪት").
+ምግቤ(parallax, አ, [parallaxes], "አንድ ነገር እንደ እይታ ማራኪ ድራማ እንደ ምቅስ መኖር").
+የግቤት(ተመሳሳይ, ግ, [የሚመሳሰሉ,የሚመሳሰሉበቅርቡና,የሚመሳሰሉ], "ወይም የተመሳሳሉ የሚመሳሰሉና የሚመሳሰሉ ለእንደ ተመሳሳይ ወይም ተመሳሳይ ወይም በፊደል ደረጃ ታሪክ").
+የመግቢያ(መላስ, ግ, [የተላሰ, ሲላስ, ይላሳሉ], "ማላስ").
+entry(መደነስ, ግ, [ደንሰ, ደንሶ በአይነት, ይደንሳል], "እንቅስቃሴን ማሰናከል").
+entry(parament, n, [paraments], "ወይም PARAMENT የማሰመር ልብስ").
+እንቅስቃሴ(ህልብ-ተ-ሞገር, n, [ህልብ-ተ-ሞገር-አይበላ], "ከደቡብ አሜሪካ ያለው በረጌና ምዕራብ አካባቢ").
+እትም(paramour, ስም, [paramours], "አስከሬኛ ውሻ").
+እንትሪ(ፓራንግ, ፣, [ፓራንግስ], "አንድ ከባድ ቢላዋ").
+entry(paranoea, n, [paranoeas], "ፓራኖይያ").
+\entry(ፓራኖይያ, ነ, [ፓራኖያዎች], "ማህበረ ሕማም").
+entry(ፓራኖክ, n, [ፓራኖክስ], "አንድ ፓራኖይድ").
+እትም(paranoid, ን, [paranoids], "ሬሳ በሠነማ የተነካ").
+መግቢያ(መከላከያ ቅጥር, ቃል, [መከላከያ ቅጥሮች], "መከላከያ ቅጥር").
+መግቢያ(ፓራፍ, ነ, [ፓራፎች], "የፊርማ መጨረሻ ላይ ያለ ምክትል").
+አስገባ(ፓራቋት, ነ, [ፓራኳቶች], "ጉልበተ ሳር").
+entry(paraquet, n, [paraquets], "ጭልፊት").
+entry(parasail, v, [parasailed,parasailing,parasails], "ከመኪና ወይም ጀንዳ ተያይዞ በከበረ ጐን ማጋረስ").
+entry(ፓራሳንግ, ን, [ፓራሳንግስ], "የፐርሲያ የርቀት ክፍል").
+entry(parashah, n, [parashahs], "ወይም PARASHOTH ወይም PARASHOTበሰንበት ተነበበው የሁለኛው ሕግ ክፍል").
+entry(ተላላፊ, ን, [ተላላፊዎች], "የበሽታ ሕመም ማስከማች ወይም ሞላ ያለበት ውስጥ የሚኖር እና የሚመገብ").
+entry(parasol, n, [parasols], "ትንሽ ቀላል እቃ").
+entry(paratha, n, [parathas], "በቅርጥም የተጠበሰ የእንጀራ ቋሚ").
+ውሂብ(ፓራቫን, ቃ, [ፓራቫንስ], "ከውሃ በታች ካምቦችን ለመቆረጥ የሚጠቀምው መሳሪያ").
+entry(parawing, n, [parawings], "ከነፍር የምስላ ፓራሹት").
+አስገባ(parazoan, ና, [parazoans], "ብዙ ህዋሳት ያላቸው እንስሳት ከማህበራት አንዱ")
+እቲ(parbake, ግ, [parbaked,parbaking,parbakes], "ከማምረቁ በፊት እንጀራ፣ ጥሬ እና እንቅርት ያለ እንጀራ ሰዝ አምራሽ").
+entry(የተቃጠለ, ግ, [ተቃጥሎ,ተቃጥለኛ,ይቃጥላሉ], "በቀላሉ ማቅለል ማለትም አንካሳ ማቅለል").
+መግቢያ(ጥቅል, ለ, [ተጥቅሎ, ቀስ በቀስ ማጥቀል,ጥቅሎች], "ወይም ተጥቀለ ቀስ በቀስ ያጥቀል ጥቅል ወደ ክፍሎች ወይም እኩዮች ማከፋፈል").
+entry(parcener, ነ, [parceners], "ተጋራ ወራሽ").
+entry(parch, v, [ማበስበስ, ማበሳብስ, ይበሳላል], "በጣም አስርባሪ ማድረግ").
+entry(parchesi, n, [ፓርቼሲ], "ፓቺሲ").
+እትም(parchisi, ነ, [parchisis], "pachisi").
+\entry(parclose, n, [የቤተክርስቲያን መንከሳ], "ማእቀብ ድንበር በቤተክርስቲያን").
+entry(pard, n, [pards], "ነብር").
+entry(ፓርዳህ, ነ, [ፓርዳህስ], "ፐርዳ").
+entry(ፓርዲ, አስቀድሞ አስተማማኝ, [], "ፓርዲ").
+መዝግዕ(pardi, አስተረካክታዊ, [], "የተጠቃሚ መሐላ ቀላል ምልምላሌ ነው።").
+entry(ፓርዲየ, አንቅስቃሴ, [], "ፓርዲ").
+ይህን የፕሮሎግ መስመር ወደ አማርኛ በፕሮሎግ በተጣራ ተቀይሯል:
+
+```prolog
+ግቤት(ፓርዲን, ቅድመ ቃል በርሂ, [], "ለነብር የሚገኝ የፈጠራ መሰረት").
+```
+entry(pardner, n, [pardners], "ወዳጅ").
+ማስገባት(ይቅርታ, ግ, [ይቅርታለት, ማምናት, ይቅርታዎች], "ለመውሰድ").
+entry(ይቅርታ ሰጪ, ተ, [ይቅርታ ሰጪዎች], "ይቅርታ የሚሰጥ").
+entry(ፓርዲ, ኣነባቢ, [], "ፓርዲ").
+የመግባት(መቆረጥ, ግ, [ቆራረ,ቆራር,ቆርር], "የውጪ መሸፈቻን ማጥፋት").
+entry(ፓሬሲም, ነ, [ፓሬሲምስ], "ወንድና ሴት ዜጋ ዓላማ አጠጋላጭ ወይም ቀረበ ከእርሱ ውስጥ ካሉበት የተዋሰደ ነቀጥቀጥ").
+entry(ፓሬራ, n, [ፓሬራስ], "የህክምና ተቋም ሥር").
+entry(paren, n, [ቅንፈት], "ቅንፈት አንደኛ").
+entry(parent, v, [ወላድ, ማማት, ወላጆች], "የአባት ወይም የእናት ሥራዎችን ማካሄድ").
+ምስል(ወላጅ, ግምት, [], "ከወላጅ ጋር የተያያዘ").
+entry(ፓሬዮ, ነ, [ፓሬዮስ], "ፓሬዩ").
+entry(parer, n, [parers], "እርምጃ የሚወስድ ግምጃ").
+እግር ገፅ(parergon, n, [parerga], "ከትልቅ ሥራ የተዋረደ የጽሑፍ ሥራ")።
+entry(እንቅስቃሴ, ነ, [እንቅስቃሴዎች], "ክፍለ ተቃራኒ የእንቅስቃሴ ከነክብ አጣት").
+entry(መሎሚ, ሰ, [መሎማይ], "ከፍተኛ መረብ በቃላት የተፈጥሩ").
+መግቢያ(pareu, ን, [pareus], "የፖሊኔዥያ ቀሚስ").
+entry(ፓረቭ, ቅዳሴ, [], "ፓርቬ").
+እትም(parfait, ን, [parfaits], "ተመዝግቦ የቆለፈ ጣፋጭ").
+entry(parflesh, n, [parfleshes], "ቆዳመጋገኝ ስብ ለማስወገድ በማይ ረዝሞት የታጠበ እና የጠረቀ").
+እቅፍ(parfocal, ግምገማ, [], "በዚያው ላይ በተመሳሳይ አንድ ንብረት ትዕግሥት ካላቸው lenses").
+ዉስጥ(parge, ግ, [parged,parging,parges], "ማለፈለፍ").
+entry(parget, v, [pargetን አስር, pargetን በማድረግ, pargetን ይፈጽም], "ወይም PARGETTED PARGETTING PARGETS፣ በቲማላዝ መረዝ ማስሸፈን").
+entry(ፓርጂንግ, ና, [ፓርጂንግስ], "በዚመስጠ ለእንቅስቃሴ ሳርቀቂበተ ምስክርነት ውስጥ ሳዕብ ማሹት ወይም እናኪ ገፅ ክስነብ").
+እትም(pargo, ነ, [pargos], "ምግብ ዓሣ").
+entry(parhelia, npl, [], "በፀሐይ ቀስተ መሃል ላይ የሚታዩ የብርሃን ድር ክበቦች").
+entry(parhelic, adj, [], "ከፀሐይ ትንሽ ቀስተ ቀስት ካለመመላለስ ጋር የተያያዘ").
+entry(ፓሪያህ, ነ, [ፓሪያህስ], "አማሎች ዘርፍ ውስጥ ሀበሬኛ ሆኖ የተመለከተ ሰው").
+entry(parian, n, [parians], "አሽክር ነጭ ፖርሴላም").
+entry(paries, n, [parietes], "የአካል ቅጥር").
+entry(መነሳቢ-ጭንቅላት, n, [መነሳቢዎች], "የራስ አጥንት አካል").
+እትም(paring, ን, [parings], "የቆረጠ ነገር").
+entry(ፓሪስ, ነ, [ፓሪሰስ], "አንድ የአውሮፓ ቅጠል").
+entry(parish, n, [መንኮራኩር], "እምነታዊ ክልል").
+ግቤት(ምልከት, n, [ምልክቶች], "እኩልነት").
+entry(መናወጥ, ግ, [አንኳኳ,እንኳኳ,እነኳኳ], "ተሽከርካሪ በአንድ ቦታ ለአንድ ጊዜ መቆም").
+entry(ፓርካ, ን, [ፓርካዎች], "ሃይቅ የሚቀያምር ተሸላሚ ልብስ").
+entry(መንገደኛ መንገድ, ን, [መንገደኞች], "የተሽከርካሪ ማቆሚያ በደረጃ ተቆራረብ መደብ").
+entry(parker, n, [parkers], "የሚሰሩ አንድ").
+entry(ቴሪ, n, [ቴሪዎች], "አነስሰኛ የህዝብ ፓርክ").
+entry(parkier, comparative, [], "የparky").
+entry(parkiest, superlative, [], "የፓርኪ ቅድሚያ").
+ቀይታ(parkin, ነፍሰዋሓይ, [parkins], "በሞላሲስና ኦትሚል የተሰራ አንድ ዓይነት ዳቦ").
+መግቢያ(parking, n, [parkings], "እንቅስቃሴ የሚያረጋግጥባቸው ቦታ፣ተሽከርካሪዎች የሚቀሩበት").
+እትም(ፓርክላንድ, ን, [ፓርክላንዶች], "ሣር ቦታ ከነግልዮች ወይም ኮረፋም ያለው አካባቢ").
+entry(parklike, adj, [], "ከሐደገኛ እንደተደረገ ቦታ ጋር እንደሚመሳመል").
+entry(ፓርኮር, ን, [ፓርኮሮች], "በሩጫ በመውጣት ወይም በመዝለል የአካባቢ መነሻ መነሻ የማለፍ ስፖርት").
+entry(parkway, ነ, [parkways], "ትልቅ ተላላፊ መንገድ").
+entry(parky, adj, [], "ቀዝቃዛ ቀዝቃዛ የምቀዝቅዛ").
+ውሂብ(ቃላትነት, ን, [ቃላትነቶች], "አንድ የመናገር አካሄድ").
+entry(parlando, adj, [], "በንግግር ቅምሻ ተመሳሳይ እንደተዘለለ የተዘምሯል").
+entry(parlante, ትምህርተ-ሰዓብ, [], "በእነዚህ ቃላት ይነገራሉ").
+entry(parlay, v, [ተጫወተ,እየተጫወተ,ይጫወታል], "አስቀድሞውን ውርሷን እና ድል ላይ በሚቀጥለው ክስተት እንዲኖር መውሰድ").
+ግቤት(parle, ግ, [parled, parling, parles], "ይመነዝር").
+entry(ውይይት, ግ, [ውይይተ,ውይይትእያዩ,ውይይቶች], "ከጠላት ጋር ሁኔታዎችን ለመገናኘት").
+እንቅልል(ወነበር, ነ, [ወነበሮች], "የሚወነብር አንድ").
+entry(መግቢያ ቤት, ን, [መግቢያ ቤቶች], "ለእንግዶች መዝናኛ ክፍል").
+entry(ሳሎን, ነ, [ሳሎኖች], "ሳሎን").
+entry(parlous, አጥብቆ, [], "አደገኛ").
+መግቢያ(ፓርሜዛን, ን, [ፓርሜዛኖች], "አንደኛ ድንጋይ እና ደረሰ የኢጣሊያ አይብ").
+entry(parodic, adj, [], "በቀል የተደፈረ").
+entry(parodist, n, [parodists], "አንድ የሚምስል ሰው").
+entry(parodos, ን, [parodoi], "በድሮ የግሪካዊ ድራማ ዘመን የተዘመረ መዝሙር").
+entry(ፓሮዲ, ግ, [ተመሳሰለ,ፓሮዲ ማድረግ,ፓሮዲዎች], "አስቂኝ የታሪክ ምክንያት ለማስቀመጥ አኳያ ገጦ ስእሌታዊ ሥራ ማጤዝ").
+entry(ቃል, n, [ቃሎች], "ንግግር").
+ፈተና(መውጣት, ግ, [የተወጣ,መውጣት,ውጣት], "ማስወጣት ከእስር ቤት የተገሰገሰውን ቅጣት በፊት ማጠናቀቅ").
+entry(የተነጋገር, ነ, [የተነጋገሩ ፈቃዱ ፈቃድ], "የተነጋገረው").
+የመግቢያ(ተጓዝተቃላሊ, ስ, [ተጓዝተቃላላት], "እንደሌላው ሥር የተዋሓዋ ቃል").
+entry(paronymy, n, [paronymies], "በጋላ እንደ ሆነ ሁኔታ").
+entry(አረጊራፍ, ን, [አረጊራፍት], "አረግ ወፍ").
+entry(parosmia, n, [parosmias], "የሽታ ስሜት እንከልካል").
+entry(parotic, adj, [], "ጆሮ አቅራቢያ የሚገኝ").
+entry(parotid, n, [አንበጣዎች], "አንግሬዳ ቦታ").
+እትም(parotoid, ነ, [parotoids], "የተወርዋሪ እባላት ማሗዳት ወይም አመደድ የሚጉዕጋጥ ነክሲ").
+entry(parous, adj, [], "የልጅ ትውልድ አሳልፎ ያስተላለፈ").
+entry(አስከሳሼ, ነ, [አስከሳሾች], "ድንገተኛ ማትለያ ወይም ጥቃት").
+እትም(parquet, v, [parqueted,parqueting,parquets], "የተያበዙ ንድፋዊ እቅፍ ያለው እንጨት መሬት ማዘጋጀት።").
+መግቢያ(parr, ነ, [parrs], "የታወቀ የሳማን ዓይነት አሮቢያ").
+ማስገቢያ(parral, ነ, [parrals], "parrel").
+entry(parred, past, [], "ፓር ያለው ጊዜ").
+ውሎች(parrel, ነ፡ [parrels], "በጀልባ ላይ ሚጠቀመ እጀ መልሽ እና ማመላለሻ የሆነ የአልምት ሱረፍ").
+entry(ዝሆን, ነ, [ዝሆኖች], "የእህል በለሌ").
+እትም(parried, ያለፈ, [], "ፓሪ ክንውንታ").
+entry(parrier, n, [parriers], "አንድ በሚከላከል").
+ማህደር(ይጠብቃል, አሁን, [], "አንደኛ ሰው ግምጋማ ክዋክይ").
+entry(parring, present, [], "የpar ክፍለ ቃል").
+መግቢያ(ምርጭ, ን, [ምርጭዎች], "ዳቦ ዳቦ").
+entry(ባርሮኬት, ነ, [ባርሮኬትስ], "የዝርግ እንስሳ").
+entry(አውጣ, ግ, [አዉሻለ,አዉሾ ላት,አዉሽናት], "ማስቀመጥ ወይም ፍላጎት ወደማስተዋል።").
+መግቢያ(parroter, እባላይ, [parroters], "የተፈራረዘ አንድ፡፡ የተመላለሰ").
+በተመሳሳይ(parroty, አጽዋር, [], "ወፍ ዘእምቢያ ዝቅይ ወዲያውን").
+ግቤት(ረሰየ, ግ, [ረሳ,ረሰየኛ,ረሲያማይታ], "ቅጥ ምስ ላይ ምንቸት").
+ውሂብ(ተወሰነ, ግ, [ተወስነ, ተወስመዋል, ይተውሰናሉ], "ድርሰትነው እና ማነቃቃትPARSABLE ቅዱስ").
+entry(parsec, n, [ፓርሴክስ], "የአትስትራኖሚያዊ ርቀት ክፍልነት").
+ፊተኛ(ፓርሰር, ኒ, [ፓርሰሮች], "የሚቀይር አንዱ").
+entry(ዱባርት, ን, [ዱባርታት], "አንዶሙ ዳቦና ጸምያ ማህበረሰብ ዱባርት").
+entry(አስሙዕር መሬት, ነ, [አስሙዕር መሬት], "የአውሮፓዊያን ቅርፅ").
+መግቢያ(parson, ነ, [parsons], "ካህንPARSONIC ግምገማዊ").
+እቤት(ክፍል, ግ, [ተከፋፈለ, የተካፈለ, ክፍላት], "በተከፋፈለ ወይም በተኛኛ የተካፈለ ቅንጠብ").
+ውስጥ_ማስገባ(partake, ግ, [partook,partaken,partaking], "በአካል ማሳቻ-እንቀሳቃሽ").
+entry(ተሳታፊ, ነ, [ተሳታፊዎች], "አንዱ የሚተሳተፍ").
+entry(partan, n, [ታቢያ], "በሚበላ ምግብ ዓይነት ክራብ").
+entry(ክፍላጭ, ነፍስ, [ክፍላጮች], "ማንኛውም የሚከፍል").
+entry(ፓርተር, ሰ, [ፓርተሮች], "የቲያትር ክፍል").
+እቅፍ(ክፍል, ነ, [ክፍሎች], "የተውሕደ ኦኬትራካር አንዝረግብ ቀላሊ ንዑስ").
+ግባ(partible, ቅዳሴ, [], "እኩል ምታምር").
+entry(ንጥል, ን, [ንጥል ንጥል], "በጣም ትንሽ ክፍል ወይም ክፍል").
+entry(ተመርጧል, ያለፈ, [], "ከፓርቲ ጋር ያለ ጊዜ").
+entry(partier, n, [ክፍያተኛች], "ክፍያተኛ").
+በጀርባ(parties, present, [], "የ3ኛ ሰው አንዳች ክፍለ ተለይ")
+entry(ለይታ, ና, [ለይቶች], "ማካፈል ወይም ማለየት").
+entry(ፓርቲዝን, በ, [ፓርቲዛኖች], "የግል ሰው ፓርቲ ወይም ነኝነት ውስጥ ጠንካራ ደጋፊ").
+entry(ፓርቲታ, ነ, [ፓርቲታዎች], "ተያያዥ የእንስሳት ቁጥር ስብስብ").
+entry(partite, adj, [], "ክፍል ክፍል የተዋፈረ").
+entry(ፓርቲዛን, ነ, [ፓርቲዛኖች], "ፓርቲዛን").
+entry(partlet, n, [ባርነት], "የሴቶች እስርዳር፣ ለውልድ").
+ኢንትሪ(ናስቲ, ግም, [], "በአንዳች መጠን ወይም ደረጃ").
+entry(እቅፍ ባልደረባ, v, [መተባበር,ተባቢራን,ባለማበርነት], "እንደአንድ የተማማኝ ተግባር ለመተባበር").
+entry(ፓርቶን, ነ, [ፓርቶን], "ሐሳባዊ ატሶሚክ ነገር።").
+entry(partook, አሁን ድረስ, [], "የ partake ክሊላ").
+entry(ከመነሻው መንገድ, ግምት, [], "እስከ አንድ ደረጃ").
+ውሂደኛ(ፓርቲ, ግምዝ, [ፓርቲዴድ,ፓርቲይንግ,ፓርቲዜስ], "ማኅበራዊ ተሰብሳቢ ማገናኝ").
+partyማውጣያው(entry, ነ, [partyማውጣያዎች], "የሚደሰት አንዱ").
+entry(የፌስታ ድርጅት, ን, [የፌስታ ድርጅቶች], "በፌስታ ላይ መሳተፍ").
+መግቢያ(parura, n, [paruras], "ጌጣጌጥ").
+entry(የጌጣጌጥ ስብስብ, ነር, [የጌጣጌጥ ስብስቦች], "ተመሳሳይ የተያያዘ ጌጣጌጥ").
+entry(parve, adj, [], "ከወተት ወይም ከሥጋ ያልተሰራ").
+ማስገቢያ(ሃያ, ሰ, [ሃያዎች], "ድንገት ከክፍሉ በላይ የተነስቷል የሚለው").
+entry(parvenue, n, [parvenues], "መሻገርያ አገር ምትክክሩ ከሆናት ሰው የምትጠቀም").
+entry(parvis, ን, [parvises], "በቤተክርስቲያን ፊት ያለ ታጠቅ ቦታ").
+መግቢያ(ፓርቪስ, ስ, [ፓርቪሶች], "ፓርቪስ").
+መግቢያ(parvo, n, [parvos], "የውሻ ተላላፊ በሽታ").
+entry(parvolin, ን, [parvolins], "ከዓሣ የተገኘ ዘይታማ ፈሳሽ").
+entry(pascal, n, [ፓስካል], "የግፊት ሒሳብ አካል").
+entry(paschal, ን, [የpaschalስ], "በአንዳንድ ሃይማኖታዊ ስእለትዎች የሚጠቀምምበት ስማዕት ነጋዴ").
+መግቢያ(ፓሴ, ሰ, [ፓሴስ], "የማታዱሮች ካጥ እንቅስቃሴ").
+entry(ጉዞ, n, [ጉዞች], "በዝቅተኛ እምነት የሚኖር ጉዞ").
+entry(pash, v, [pashed,pashing,pashes], "በኃይል ማቅረብ").
+entry(pasha, n, [pashas], "የቀድሞው ቱርክ ከፍተኛ ኃላፊ").
+entry(pashadom, አር, [pashadoms], "የpashaው ደረጃ").
+entry(ፓሻሊክ, n, [ፓሻሊኮች], "ፓሻሊክ").
+መግቢያ(ፓሻልክ, ነ, [ፓሻልኮች], "የፓሻ በታች መሬት").
+entry(ፓሽካ, ን, [ፓሽካስ], "ፓስካ").
+entry(pashm, n, [pashms], "የተባባሉና ከከዳማው ኀንጻ የተለያየ ማንዳት ነገር").
+entry(ፓሽሚና, ት, [ፓሽሚናዎች], "ከሄማሌያን ፍየሎች የሚገኝ ሸርፋ").
+መግቢያ(ፓስካ, ስ, [ፓስካሳስ], "ፓስክሃ").
+entry(ፓስካ, ን, [ፓስካስ], "በፈረንሳይ፣ የወራን ግምጃ ወይም ፍላምጎቱ መብል።").
+entry(ፓስክዊል, ነ, [ፓስክዊልስ], "ሳታየር ወይም ላምፑን").
+መግቢያ(አለፈ, ግ, [አለፈ, ማለፍ, ይወርዳል], "ማለፍ").
+entry(passable, adj, [], "አጠገብ መሆን ወይም ተቀባይነት የተሰጠ፣ ቢበቃ፣ ተረከብ፣ ከሚታገለ PASSABLY ግሪ አድርጎ").
+entry(passade, n, [passades], "ፈረስ በአንደኛው ምዕራፍ ወይም በአንደኛው ገጽ ላይ የሚያደርገው መታጠፍ").
+entry(passado, n, [passados], "ወይም PASSADOES በግንባር የሚከናነተው ጥሶ").
+እከተ/ይ(passage, v, [passaged, passaging, passages], "ትልቅ ጉዞ ማድረግ").
+entry(passant, adj, [], "በቀዳሚ ግንባሩ ከፍ ብሌ ተጓዝቷል የሚለው የመሣረም እንሰሳ ስጦታ").
+entry(passband, n, [አስተላላፊ አቅጣጫዎች], "የተፈቀደ የፍርክዋንሲ ክልል በጣም በተገቢ በሆነ ሥልጠና").
+ግቤት(መዝገብ, n, [መዝገቦች], "የባንክ መዝገብ").
+ማስተዋል(passe, ቅዝቃዜ, [], "አሮጌ").
+entry(ያልፋል፣ ግምጃ፣ [], "ያልፋል").
+entry(passel, n, [ብዙ], "ብዙ ብዛት ወይም ቁጥር").
+entry(አልፋቸው, ን, [አልፋቸውን], "አልፎ የሚያልፋ አንድ").
+entry(አልፋልፊ, ነ, [አልፋልፊዎች], "አልፋልፊ የሆነ አንድ").
+entry(passible, ግምጃ, [], "የማስታወስና የመከራየት ችሎታ").
+entry(passim, adv, [], "እዚያም እዚህም").
+entry(ማለፍ, ነ, [ማለፍዎች], "ሞት")。
+መግቢያ(ንቃት, አይነት, [ንቃቶች], "በጣም በርቷል የምሕረት").
+entry(passive, n, [passives], "ተግባር ቅርጽ").
+entry(passkey, n, [ቁልፎች], "ብዙ ተጋራ ቁልፎችን የሚከፍትል ቁልፍ").
+ግቤት(passless, ቅዳሴ, [], "ማለፍ ወይም ማለፋት የማይቻል").
+entry(passover, n, [passovers], "የአይሁድ በዓል በፍታው ላይ የተበላ ጠጅ").
+እትም(passport, ን, [passports], "ከአንድ አገር ወደ ሌላ አገር ለመተላለፍ ፈቃድ የሚሰጥ ሰነድ").
+entry(passus, n, [ክፍሎች], "የታሪክ ወይም ግጥም ክፍል").
+እትም(password, n, [passwords], "አንበሶችን ለማግኘት መናገር ያለበት ምስጢራዊ ቃል").
+እቤት(ወርቀት, እን, [ወርቀቶች], "የተሸለለ ጊዜ").
+ፕሮሎግ(የምግብ, እንጀራ, ዝርዝርህ, "ከማለሉ የተሰራ ምግብ").
+ውህድ(ቀለም, ግስ, [ተቀላወጠ,ቀለየ,ቀለነ], "በጠቃሚ ዝቅብ መደብ ማሰባሰብ").
+entry(pastel, n, [ፓስቴል], "ቀላል የተፈጥሮ ቀለም ቀስ").
+entry(ቀቀል, ነ, [ቀቀላት], "የሚቀቀል").
+entry(ጓር, ነ, [ጓሮች], "የፈረስ እግር አካል").
+entry(pasteup, n, [pasteups], "የተመረተ ኮፒ ለመቀቀል የሚያስችል የመፅሀፍ ካርማ").
+እቺ(pasticci, npl, [], "pastiches").
+entry(ፓስቲሽ, ተ, [ፓስቲሶች], "ከተለያዩ ምንጮች የተሰበሰቡ ስነ-ጥበባዊ ሥራ").
+entry(ፓስቲ, ስ, [ፓስቲዎች], "ፓስቲ").
+entry(pastier, ማነፃፀሪያ, [], "of pasty").
+እትም(pasties, ብዛት, [], "የ pasty").
+entry(ሚቲሰር, ከዋክብት በላይ, [], "የ ሚቲስ").
+entry(ፓስቲል, ግ, [ፓስቲሎች], "ፓስቲል").
+entry(pastille, n, [አልሞክሸት], "ኤንድስሪ ነቲን").
+entry(pastily, adv, [], "የሚታወክ በኩል").
+entry(መዝናኛ, ነ, [መዝናኞች], "የመዝናናት እንቅስቃሴ").
+entry(pastina, n, [pastinas], "ማካሮኒ አይነት").
+entry(pasting, n, [pastings], "ድርቀት").
+entry(ፓስቲስ, ን, [ፓስቲስስ], "የፈረንሳይ ሊኩር").
+እትራፍ(pastitso, ነ, [pastitsos], "የግሪክ ምግብ የተፋጀ ስጋ ፓስታ ነጭ ሳስ እና አይብ").
+entry(pastless, adj, [], "የታሪክ አልማዝ").
+እትም(pastness, ን, [pastnesses], "ያለፈነት ወይም እንደሆነ አግባብ").
+ውሂብ(መማር, ግ, [መምርም, ማራት, ይምሩ], "ነፍሳዊ እምነታዊ እንክብካቤ እንደ").
+entry(ጥያቄ, ን, [ጥያቄዎች], "በአገር ገበሬ ሕይወት የሚነሱ የሥነ ጽሑፍ ወይም የሥነ ጥበብ ስራ").
+entry(pastorly, አ/ስ, [], "ታማኝ የመንፈስ አስተዳዳሪነትን የሚመስል").
+እትም(pastrami, ኒ, [pastramis], "ከፍተኛ ምርጥ የተጠመቀ የላም ስጋ").
+entry(ፓስትሮሚ, ግ, [ፓስትሮሚዎች], "ሳፋላይ ስጋ").
+entry(ኬክ, ን, [ኬኮች], "ጣፋጭ የተጋገረ ምግብ").
+entry(ግሬዎች, ኣግሯ, [], "የእርሻ ቦታን የሚመለክት").
+ማስገባት(መሰማሪያ, ግ, [መሰማረ, ማሰማር, ማሰማሬያት], "እንስሳትን ማሰማራት የሚያስችል ቦታ").
+entry(pasturer, n, [pasturers], "እርሻ የያዘ").
+መግቢያ(ንክስ, ተዓርታዊ, [], "በጣም ጭጋራ እና ደካማ መምህዳር") 。
+እትም(pasty, ን, [pasties], "የስጋ ፓይ").
+ይግባ(pat, v, [patted, patting, pats], "ቀስ ብሎ ማንካት").
+እንቀጸት(ሳሙኤል, ግምጃ, [], "ሳሙኤል የተወቀሰ ተወውላ።").
+entry(ፓታካ, ነ, [ፓታካስ], "የማካኦ ገንዘብ መለኪያ").
+entry(patagial, adj, [], "ጋራ የሚያዳርግ ከሆነ ከፓታግየም").
+entry(ባርነትአንፈር, ነ, [ኣንፈራት], "የዝንጉብር አንባሳ ክፈፍ").
+entry(ፓታማር, ን, [ፓታማሮች], "አንደኛ እሽግ ጀልባ").
+entry(patch, v, [patched,patching,patches], "ቁልፍ ወይም ደካማ ቦታ ለመጠገን ወይም ለማሸፈን").
+ምድብ(ጠገኛ, ን, [ጠገኞች], "የሚጠግን").
+entry(patchy, አርባ, [], "በጣም እና ከሁሉም የሚበልጥ የተከፋች ያለች ልምድPATCHILY በተባረከ አንፃር").
+እትም(ጭርስ, ነ, [ጭርሶች], "የራስ ከፍተኛ ክፍልPATED adj").
+ቀንደኝህ(ጉርድኝ, ነ, [ጉርዱንት], "ወይም ጉርዳቆችበቀደድወንቅ ክርስሻ ከዝባያቸው ማለትጉርዳ ቀለበቱ ቅጽ").
+entry(ፓትን, ነ, [ፓትንስ], "ሰሌዳ").
+እትም(patency, ን, [patencies], "በግልጽ መኖር ሁኔታ").
+entry(patent, v, [የፈረሰው, ከፈረሱት, እንደፈረሱበት], "ለተፈጥሯል ክዕለት የመንግስት ተሰጥቶ የተፈጥሯል ፈቀድና መመሪያ").
+መግቢያ(የፈቃድ ባለቤት, አ, [የፈቃድ ባለቤቶች], "ፈቃድ ያለው አንድ ሰው").
+entry(ግልፅ, ግስ, [], "በግልፅ").
+entry(ፓቴንት ሰጠው, ኤን, [ፓቴንት ሰጪዎች], "ፓቴንት የሚሰጠው").
+entry(አባት, n, [አባቶች], "አንድ አባት").
+entry(አባባማዊ, ገዢ, [], "ከአባት ጋር የተያያዘ").
+entry(መንገድ, n, [መንገዶች], "የተረገጠ መንገድ ወይም ዕጣ እንደሆነ መስመር").
+entry(አስቀያሚ, ቅጥ, [], "ፍሬ ነቀርተኝ ያላመጣው ነገር").
+entry(pathless, adj, [], "መንገድ የሌለው").
+እንተርትዪ(pathname, n, [pathnames], "ዝርዝር የመፃፈ መስራት ያለበት ቦታ").
+እትም(pathogen, n, [pathogens], "የሚሞቱ ማንኛውም በሽተን ለማምለክ ያለ ፅኬት").
+entry(pathos, n, [አስቸኳይነቶች], "አፅዋፅነት ወይም ህልኣላት እንደሚሞሉ ስሜቶችን የሚያነሱ ኣይነት").
+መግቢያ(መንገድ, ኒ, [መንገዶች], "መንገድ").
+ግቤት(ትዕግሥት, ን, [ትዕግሥቶች], "ትዕግሥተ ተደጋጋሚ የመሆኑ ጥራት").
+እትምር(ታካሚ, ገላጭ, [], "እንቅስቃሴን በማይቀር ሁኔታ ማሳከር የሚችል ከማይቀር ሂደት ጋር").
+entry(ሕክምና ተቀባይ, n, [ሕክምና ተቀባዎች], "ሕክምና የሚቀበል").
+entry(ፓቲን, ሰር, [ፓቲንስ], "ፓቴን").
+entry(ፓቲና, ን, [ፓቲናሳች], "ወይም ፓቲነናም ነሐር አንደበት አምላሽ ደግ በሮንናበን አምላሽ ፓቲኒ ተጨሬጭላadj").
+entry(patinate, v, [patinated,patinating,patinates], "ፓቲና ማበረየት").
+entry(patine, v, [patined,patining,patines], "ከልቤለ-አዘ-ሆነ").
+እንቀየይ(patinize, ግ, [patinized,patinizing,patinizes], "በፓቲና ማሸብሸብ").
+entry(አደባባይ, ነ, [አደባባዮች], "ቤትን የሚቀጥል የውጪ ያለ የተሰፋ አካባቢ").
+entry(patly, adv, [], "በተስማሚ ሁኔታ").
+entry(patness, n, [patnesses], "መፍጻሜ").
+entry(ፓቶዋ, ነ, [ፓቶዋ], "አንድ ቋንቋ").
+entry(patonce, adj, [], "ክንዶች ከመሀል ፈንጂና በሶስት ነዶች የሚያስተላለፉ እግሮች ያለው የሄራልዲክ ስብሃት ተጻርፏል");
+entry(patoot, ን, [patoots], "patootie").
+\entry(patootie, n, [patooties], "በባገዳው").
+entry(patriate, v, [patriated,patriating,patriates], "ሥልጣን ወደ ራሱ የመጠበቅ ኃይል ላላቸው ሀገራት ማስተላለፍ").
+entry(አገር አቃቢ, ን, [አገር አቃቢዎች], "ሀገሩን የሚወድ አንድ ሰው").
+entry(ተመለሰ, ግ, [ተመላለሱ,ተመላላለስ,ተመላላለሰ], "አካባቢን ለምርመራ ወይም ደህንነት ማንኛውም ታይተር ማለፍ").
+እትም(patron, n, [patrons], "መደበኛ ደንበኛPATRONAL PATRONLY ተያያዥ ግምገማ").
+entry(አስተዳደር, ነ, [አስተዳደሮች], "ከድሮው ዶች ሕግ በታች የሚያበቃ የመሬት ባለቤት").
+entry(ፓትሲ, ተ, [ፓትሲዎች], "በቀላሉ የሚያሳቁት ሰው").
+entry(ፓታማር, n, [ፓታማርስ], "ፓታማር").
+entry(patted, ወራር, [], "እንቅስቃሴ ዘመን ምልክት ያለው").
+እትምር(pattee, ገ, [], "paty").
+entry(ፓተን, n, [ፓተን], "ኧኸ ከፍ ያለ የእንጨት ሶል ያለ ጫማ፣ PATTENED adj").
+entry(ቃል, ግ, [ያቅማል, እየቀመሰ, ይቀምስ], "በፍጥነት ወይም በቀስቃሽ መናገር").
+እንተርይ(patterer, n, [patterers], "የሚፋምር አንዱ").
+entry(እቅፍ, v, [እቅፍ ያለው, እቅፍ በማዋቀር ላይ, እቅፎች], "በተወሰነ እቅፍ መሠረት ማድረግ").
+entry(pattest, superlative, [], "የ pat").
+entry(ፓቲ, ነ, [ፓቲዎች], "ፓቲ").
+entry(patting, present, [], "እንደ መጋለጥ እቃዕ").
+entry(ፓቲ, ነ, [ፓቲስ], "የተቆላቀለ ምግብ ትንሽ ዱባል ኬክ").
+entry(ፓቲፓን, ነ, [ፓቲፓንስ], "እንኳን ውስጥ በጋግሙ የሚሠሩ ድርሻቸው").
+entry(patulent, አግጣጭ, [], "የተዘረፈ").
+entry(ክፈተ በጣም, ግም, [], "ተከፍቷል በሰፍር").
+entry(paty, ኣድራሻ, [], "formee").
+በፕሮሎግ ብቻ አትል፤
+entry(patzer, n, [patzers], "ዕውር የምሽት ተጫዋች").
+entry(paua, n, [pauas], "እጅግ ትልቅ የኒው ዚላንድ ሻልፊሽ").
+entry(እጥረት, ና, [እጥረቶች], "ቍጥር ወይም መጠን ቀነሰ").
+entry(paughty, adj, [], "ኩሩብ").
+entry(ጭንቅላት, ነ, [ጭንቅላቶች], "የትከሻ ጦር መሣሪያ").
+entry(paulin, ን, [paulins], "የውሃ መግቢያ ማጠር").
+መግቢያ(ከሰም, ነ, [ከሰሞች], "ሆድ ወይም አብዝት ጡ´ዋዕት ምልክትቲ ነውPAUNCHED adj").
+entry(አጠገመ, ኣ/ተ, [], "ከፍተኛ ከፍተኛና ሻክላ ማለት ሆድ ያለው ማለት").
+እትም(pauper, v, [paupered, paupering, paupers], "ወደ ድህነት ማስቆም").
+መግቢያ(pauraque, ን, [pauraques], "ረጅም ጅራት ያለው ድረስ አለሌ ወፍ").
+entry(ፓዮሮፖድ, ነ, [ፓዮሮፖዶች], "በጣም ትንሽ በርካታ እግሮች ያላቸው እንስሶች ክፍል").
+ምእማር(pausal, ግምጃ, [], "ወደ እንቅልፍ ወይም ዕረፍት ከዚህ አወሳኝ በመነክር ወይም በመጻፍ ").
+አስገባ(ማቆም, ግ, [ቆመ, ቆሞ, ይቆማል], "በጊዜያዊነት ማቆም").
+እንትር(pauser, ነ, [pausers], "አንዱ እንደሚያቆም").
+entry(ጳቫን, ነ, [ጳቫንስ], "አዝማሪ ጨዋታ እና ዘፈን ያምራን ቀልድ ዳንስ").
+እትም(entry, "pavane",ናይፕ, ["pavanes"], "pavan").
+ዋናው(ማሸግ, ግ, [ማሸጎቻ,ማሸጋም,ማሸጎቻቸዉ], "በግምባር የተረጋገጠ መሸያማ ንጥር መሸግ").
+entry(paveed, ግምገማ, [], "የብረት መሠረትን ለማጥፋት በቅርብ እንደነበረ ተደበቀ ያቀረበ").
+entry(መንገድ, n, [መንገዶች], "የታሸለ መድረክ").
+entry(ማሰሪያ, ን, [ማሰሪያዎች], "መመስረቂያ").
+entry(pavid, adj, [], "ዓቦይ").
+entry(ዳሮ, ግ, [ዳሩበ, ዳሩን, ዳሮዎች], "በትልቅ ድንኳን ማንጠልጠል").
+entry(ፓቪሎን, n, [ፓቪሎኖች], "የነፋስ መለኪያ ደረት").
+መግቢያ(ፓቪን, ን, [ፓቪንስ], "ፓቫን").
+እትም(መንገድ መክደኛ, ም, [መንገድ መክደኞች], "መንገድ መክደኛ").
+entry(pavior, n, [paviors], "የድርብ መንገድ አከራርክ").
+entry(ፓቪየር, ነ, [ፓቪየርስ], "አሸቀላ").
+entry(pavis, n, [pavises], "ትልቅ የመካኒሳ ጋሻ").
+መግቢያ(pavise, ነ, [pavises], "pavis").
+entry(paviser, ን, [pavisers], "ፓቪስ የሚያስቀምጥ ወታደር").
+እቸሬ(pavisse, ነ, [pavisses], "pavis").
+entry(ፓቭሎቫ, ን, [ፓቭሎቫስ], "ማረንግ ጣፋጭ ነው").
+entry(pavonine, adj, [], "እንደ እራማዊ የሚመስል").
+entry(አፍርም, ግ, [አፈረም, እየተፈረሙ, አፍረሙ], "በመቁረጥ እና መንከስ እቅፍ በመመችተት መድብድብ").
+መግቢያ(ጓሮ, ን, [ጓሮዎች], "በእጁ የሚጫን አንድ").
+እትም(pawky, ግምገማ, [], "PAWKIER PAWKIESTslyPAWKILY ተ+").
+እትም(pawl, ት, [pawls], "አንድ ማሽነል ገንዳይ").
+ፋውን ግንባር ፣ v ፣ [ፋውንድ ፣ ፋውንን ፣ ፋውኖች] ፣ "የተከሰሱበትን እርግዝና ማስረከብ የሚችል ፋውኖ ተገቢነታዊ ቅድመአርጓ ትምህርት PAWNABLE adj").
+የመግዣ፣ አንፃር፣ እንደውሂፍ ያለ፣ "የመመዝገብ ድርጊት"
+entry(ገንዘብ አበዳሪ, ን, [ገንዘብ አበዳሮች], "የተገንዘበለት ሰው").
+entry(pawner, n, [pawners], "የተነከላ ነገርን የሚያሽግ ሰው").
+entry(pawnor, n, [pawnors], "ፓውነር").
+entry(ገንዘብ ማስረከብ ቤት, ና, [ገንዘብ ማስረከብ ቤቶች], "ነገሮች የሚሰጡበት ቦታ").
+entry(ፓፕዋው, ነ, [ፓፕዋውስ], "ፓፕዋው").
+ምእት(pax, n, [paxes], "በክርስቲያን ፍቅር እና አንድነት የሚነገር በዓላት መደመር").
+entry(paxwax, n, [paxwaxes], "አራት እግሳት እንስሳ ውስጥ የኩባ አባባዝነት").
+entry(ክፍል, v, [ከፈለ, ማክፈል, ይክፈላሉ], "እቃዎች ወይም አገልግሎቶች በመሰንዘር ገንዘብ ወይም ከተመነ ነገር ለመስጠት").
+እቃው(entry, ተይዛሚ(adj), [], "ብዙ ብለው እንደሚከፈሉአቡ ተጠቅሙ ነውPAYABLY adv").
+ውስጥ(payables, npl, [], "ሂሳብ ሂሳብ").
+entry(payback, n, [የመልሱት ክፍያ ጊዜው], "በሃብት ላይ የተወሰነ ገንዘብ ማካሄድ የተቻለበት እኩበ ገንዘብ ተመልክቶ መመለስ").
+የመግቢያ(paycheck, ነ ክ, [paychecks], "በደመወዝ ወይም ደጀብ መክፈያ እቃ").
+entry(ደረሰኝ ቀን, ን, [ደረሰኞች ቀናት], "ደመወዝ የሚከፈለው ቀን").
+entry(ክፍያ አዉርድ, አ, [ክፍያዎች አዉርድ], "ብድርን በመክፈል መቀነስ").
+መዝግብ(payee, ነ, [የክፍያ ተቀባይዎች], "ተመን የሚከፈልለው አንድ").
+entry(payer, n, [ክፍያን], "እቃውን ወይም አገልግሎት የሚከፍል ሰው").
+entry(payess, npl, [], "ተከል ያልተቆረጡ ጆሮ ማቃጠልያዎች ከአንዳንድ አይሁድ ተሸክሞ የሚሄዱ").
+entry(paygrade, n, [ምዕመን መንፈሰ ገበያ], "የጦር ኃይል ሰራዊት እንደ መጀመሪያ ደረጃ እንደመጠን").
+እከበር(payload, n, [payloads], "የጭነት ገንዘብ ያስገኝ ተካል").
+መግቢያ(payment, n, [payments], "የተከፈለ ነገር").
+entry(ጻድቃን, በ, [ጻድቃን], "አማልክተኛ").
+መግቢያ(ወጪ, ነ, [ወጪዎች], "ጥቅሞችን መካፈል ተግባር").
+እትም(payola, ነ, [payolas], "የተሸረከመ ክፍያ ለማበረታታት").
+entry(payor, n, [እከፋዮች], "እከፋይ").
+እትም(payout, ነ, [payouts], "የተከፈለ ገንዘብ").
+በየቀኑ ክፍት ዝውውር(payroll, n, [payrolls], "እንደመክንያት ይገኛሉ መክፈል የሚገባ ሰራተኞች ዝርዝር").
+entry(payslip, n, [ደመወዝ ክፍያዎች], "ከኃላፊነት ጋር የተያያዘ አባል ደመወዝ ከፍተኛ ዝግጅት እንዲኖር የምልክት ገጽታ እንደሚከተለው").
+entry(ክፍይትግድል, ነ, [ክፍይትግዶች], "ያለ የተከፈለ ምዝገባ ወደ ወረዳ መነሻን የሚከለ አስር ስርዓት").
+እትም(pazazz, ን, [pazazzes], "pizazz").
+entry(pe, n, [ፔስ], "የእብራይስጥ ፊደል").
+የመነሻ(በቃል, ን, [አቧራ], "የአመት ተአምር ምግብ ተክል ትክል").
+entry(peaberry, n, [peaberries], "የአንድ የተመልሷ ዘር ያለው የቡና ብሪት").
+እትም(peabrain, ን, [peabrains], "ደንቆሮ ሰው").
+entry(ሰላም, v, [ሰላምነው, ሰላምነወት, ሰላሞች], "ዝም ማለት ወይም መሆን").
+መዝግብ(ሰላማዊ, ግስ, [], "ሰላማዊ ወላጅ ሰላማዊ ዩጋስ ጸጥ ህዝብ").
+entry(ሰላም ተወዳዳሪ, ነ, [ሰላም ተወዳዳሪዎች], "ጦርነትን ለመቃወም የሚተጋ ሰው").
+እንተር(ፒች, ግ, [ፒችድ, ፒችንግ, ፒችስ], "አንድን ሰው ማሳወቅ").
+entry(ሽኮር, ና, [ሽኮራተው], "አንዱ ሽኮር ነው").
+እትም(peachick, ሰ, [peachicks], "የሚያቃወሙ ኮኩት ጭንብል").
+entry(peachy, adj, [], "ማራኪ ጠቃሚ").
+እባላቸው(peacing, አሁን, [], "የሰላም ክፍለ ተመልስ").
+መግቢያ(አቧዋጨ, ን, [አቧዋጨዎች], "ከባድ የስር ግቢ ጄኬት").
+entry(peacock, v, [peacocked, peacocking, peacocks], "በትዕቢት ማራመድ").
+entry(peacocky, adj, [], "ከሚኒላሽ እፍረተ ቤት ውስጥ ከፍተኛ ዝምታ").
+entry(ንሩሪት, ተ, [ንሩሪቶች], "ትልቅ ፉሄሳን ዓይነት").
+ግቤት(peag, ን, [peags], "wampum").
+entry(peage, n, [peages], "ፔግ").
+entry(peahen, n, [peahens], "የቴዎር አንበሳይት").
+entry(peak, v, [ላላ,ሊላ,ላሎች], "እምቅ ወደ መድረስ").
+entry(peakier, comparative, [], "የተሳፋሪ የ-").
+መግቢያ(እጅጉ ከፍ ባለው, ከፍተኛ ወጥመድ, [], "የጫፍ እንደ").
+entry(peakish, ቅጥ, [], "በአንደኛ ደረጃ የታመመ").
+entry(peakless, ግምጃ, [], "ምርጥ እንጂ ቀስት የለሽ").
+entry(peaklike, adj, [], "ተራራ ጭግግር ያለ").
+መግቢያ(peaky, ቅጽላት, [], "ህይወት የለው በጣም የወደቀ").
+entry(ድምፅ, ግ, [ደምሟል, እየተነሰስ, ይሰምናል], "ለኩጮት ወጥ").
+entry(pealike, adj, [], "እንቁላል ያህል ያለ").
+entry(ማህሌት, ስ, [ማህሌቶች], "የማህሌት").
+entry(ኦሚዝ, ድ, [ኦሚዞች], "አመታዊ በለስ የሆነ ዕንቍ ወይም ሆዱ").
+መግቢያ(peanutty, n, [], "የአተክልት ጣዕም አለው PEANUTTIER PEANUTTIEST").
+entry(የአትክልት ፍሬ, ነ, [የአትክልት ፍሬዎች], "አኩሪ ፍሬ").
+እትም(pearl, v, [pearled, pearling, pearls], "በአንዳንድ እብ ለትራማ ዝናብ የተነሳ የተፈጠረ የድንጋይ ቀለል ቀይርክር እንዲሁም እትኖች ዝናብ በመውሰድ አሽኮ ዝዝክም ").
+entry(ፒይርላሽ, ን, [ፒይርላሽዮች], "አልካላይን ኮምፓውንድ").
+entry(pearler, n, [pearlers], "የሚሰምድ ሰው").
+en(ፓርሊዮች, npl, [], "ትኮሻ").
+እትም(pearlite, ን, [pearlites], "የተፈርቀ ብረት አልሌ").
+ውስጥ(በሩት, ግምጃ, [], "በሩ-ተልያ በሩ-ስል በሩ የምታሳይ ነፍስ").
+entry(pearmain, n, [pearmains], "የፖም አይነት").
+entry(peart, adj, [], "PEARTER PEARTESTlivelyPEARTLY adv").
+entry(የጥፉ እንጨት, ን, [የጥፉ እንጨቶች], "የዘርመኛው ዛፍ እንጨት").
+entry(አርሶ ሰነፍ, ነ, [አርሶ ሰነፎች], "ዝቅተኛ ማህበረሰብ ዘርፍ ያለው ሰው").
+entry(peascod, n, [peascods], "እንቁላልዕድን ስም").
+እትም(pease, ን, [peases], "ወይም PEASENa pea").
+entry(peasecod, n, [peasecods], "የተለቁ አተረፎ በተለያዩ ዘይቤዎች በሚለዩ ዓይነት ያመጡዋቸው፥ አምበር ግርዶች።").
+entry(ጥፍራ, n, [ጥፍራዎች], "ክፍለ ገብር ዕቃ የሆነውን በተከታተለ የአትክልት እቃ ከማሽሶች የተጋጠመ ንጥረ ነገር").
+entry(peatland, n, [peatlands], "የጭቃ መሬት").
+entry(peaty, adj, [], "ከጎርግር የተመረተ ወይም ያለው").
+entry(peavey, n, [peaveys], "እንጨት ለመንቀሳቀስ የሚጠቅም ማንቀሳቀሻ").
+entry(peavy, n, [peavies], "ፒቮይ").
+entry(pebble, v, [pebbled, pebbling, pebbles], "ንነስት ድንጋይ የተሸፈነ").
+ቀላል(pebbly, አግዛቢ, [], "ዐባል እና ተረፍ ዐባል የድንጋይ ምስል").
+entry(pec, n, [pecs], "የጡንቻ ጡት ኣጅጋ").
+entry(ፒካን, ነ, [ፒካንስ], "እንግዳን ያለው ዛፍ").
+entry(peccable, አግ, [], "ለበደለኝነት ተጋላጭ").
+እንትመስሎ(peccancy, ን, [peccancies], "እንትን የሚሆን ሁኔታ").
+ፍቺ(peccant, ግምጃች, [], "ኀጥኣኛ").
+እትም(peccary, ስ, [peccaries], "እንደአሳቢ ያለ እግር እቸ").
+entry(peccavi, n, [peccavis], "እንደምንከራይ").
+entry(ድምጽ, ግ, [ድምጽ ለይ,ድምጽ አድርጎ,ድምጽ ተቆጣጠር], "መተንፈስ").
+መግቢያ(pechan, n, [pechans], "ሆድ")।
+entry(peck, v, [pecked,pecking,pecks], "ከአፍ ጋር ወይም ቀለጥ ያለ ነገር ማዘውዘው").
+entry(pecker, n, [peckers], "አንዱ የሚምጫ ሰው").
+entry(peckish, ቅጂ, [], "አስቆ፣ ያስቆሟል፣ የሚያስቆጥር").
+እትም(pecky, ቅ, [], "ተመዝጎላ በፍኮል እንጥላይ የቀነመ").
+entry(ፒኮሪኖ, ስ, [ፒኮሪኖስ], "ወይም ፒኮሪኒ ከበግ ወተት የተሠራ ጠንካራ አይብ").
+መዝገብ(pectase, ን, [pectases], "ኤንዛይም").
+entry(ጠንጋላቲኛ, n, [ጠንጋላቲዎች], "የኬሚካል ጨው").
+entry(ተዎም፣ ን፣ [ተዎሞች]፣ "ወይም ፔክቲነስየተቆንጆ አናቶሚያዊ ክፍል").
+entry(ፐክቲን, ነ, [ፐክቲኖች], "የካርቦሃይድሬት ልባምPECTIC adj").
+እትም(pectize, ግ, [pectized, pectizing, pectizes], "ወደ ጀሊ ለመቀየር").
+entry(pectoral, n, [pectorals], "የተዋሰነ ወላጅ (በደረት ላይ የሚለብሰው ነገር)").
+entry(ዝም ማለም, ግ, [ዝሙ, ምን ምምላም, ዝሞታ], "እናት ተሷተዋድ").
+entry(የተለየ, ነ, [የተለዮች], "ለግለሰብ ብቻ የሚሆን ነገር").
+entry(peculium, ን, [peculia], "የግል ንብረት").
+entry(ወለላ, ነ, [ወለሎች], "ተፈጥሯዊ የአፈር አባባል").
+entry(መምህር, ነ, [መምህራን], "አንድ አስተምህር").
+entry(ትምህርት, ነ, [ትምህርቶች], "የመምህር ሥራ").
+እትም(pedal, ግ, [pedaled,pedaling,pedals], "ወይም PEDALLED PEDALLING PEDALSto በእግር መቆመጫዎች መሥራት").
+entry(ሞገተኛ, ነ, [ሞገተኞች], "ሞገጠ").
+entry(ፔዳልፈር, ን, [ፔዳልፈሮች], "የመሬት አይነት").
+እቶች(pedalier, ነ, [pedaliers], "የኦርጋን የፒደል ቁልፍ ሰሌዳ").
+መግቢያ(በእግርተኛ, ስ, [በእግርተኞች], "በእግር ተዛለ").
+entry(ምድላው, ነ, [ምድላዎች], "በእግር ሞገጫ ምጥመድ የሚነድ").
+entry(ነፍሳፈር, ን, [ነፍሳፈሮች], "ዕውቀቱን የሚያመክር ሰው ነፍሳፈር ተ.").
+entry(ግብዓት, ን, [ግብዓታት], "እውቀትን የሚጋለጥ አስተዋፅኦ").
+ምጽዋት(pedate, ግምጃ, [], "እግርን የሚመስል ከግንባርPEDATELY በእንነዋር").
+entry(አሸጣ, ግ, [አሸጣለ, እንደአሸጣነት, አሸጣ], "እቃዎችን መሸጥ ለማጋረድ መሄድ").
+መግቢያ(የእቅፍ ነጋዴ, አ, [የእቅፍ ነጋዴዎች], "የእቅፍ ለመሸጥ የሚሰራ").
+entry(peddlery, n, [peddleries], "የእቃ አሸጋጭ ንግድ").
+እባኮትን፣ ወደ Prolog ላይ በትክክል ተመልሶ የተተረጉም፣ የተገነኘውን፣ ይህንን ትርጉም ያንብቡ፡፡
+```prolog
+entry(pederast, n, [pederasts], "ከወንዶች ህጻናት ጋር የዘር ክስ ግርዛቸው የሚሸከመው ወንድ").
+```
+entry(እግሮች, ብዙተ ብሄር, [], "የ ጡ").
+entry(መደርደሪያ, ግ, [የተመደረደረ, መደርደሪ እያለ, መደርደሮች], "ወይም የተመደረረ የተመደሪ ወይም መደርደር መነሻ ማስቀመጫ እና መሠረት በማቅረብ").
+entry(ፔዲካብ, ተ, [ፔዲካቦች], "የተሸከርከረ ማደነ ተሳፋሪ ተሽከርካሪ").
+ማስገቢያ(በረከድ, ሰ, [በረከዶች], "የፍጥረት ቀጭን መስመር ክፍል").
+ግቤት(pedicle, ነ, [pedicles], "pedicelPEDICLED adj").
+entry(እፍረት እና ጥፍር እንደ ኮስሜቲክ ማስተካከያ ታክሞ ያደረገ, v, [እፍረት እና ጥፍር እንደ ኮስሜቲክ ማስተካከያ ታክሞ ያደረገ, እፍረት እና ጥፍር እንደ ኮስሜቲክ ማስተካከያ ታከም, እፍረት እና ጥፍር እንደ ኮስሜቲክ ማስተካከያ ታክማሉ], "እፍረት እና ጥፍር እንደ ኮስሜቲክ ማስተካከያ በማድረግ").
+እትም(pediform, ግም, [], "እግር ያለበት እንደ").
+መግቢያ(የደረሰ, ን, [የደረሶች], "የአባቶች መስመር").
+እትም(pediment, ን, [pediments], "አራሱ እየተነደፈ የተገነባ አናት ቁምር እና ከፍተኛ").
+entry(pedipalp, n, [ጭማሪ ሰወጥ], "የአራክኒድ ቅንጣት").
+entry(እንግዳ, ነ, [እንግዳዎች], "ነጋዴ").
+entry(እንቅስቃሴ, ነ, [እንቅስቃሴዎች], "እንቅስቃሴ").
+entry(pedler, n, [pedlers], "አረነሀዋሪ").
+entry(እቃ መሸጣ, ን, [እቃ መሸጥ], "ሸጋጋ").
+ውሂብ(ፔዶካል, ፕ, [ፔዶካሎች], "የመሬት አይነት").
+entry(ልጅ ሙያ ትንታኔ, ሰ, [ልጅ ሙያዎች], "የልጆች ባህሪና እድገት አንቀጽ የሳይንስ ጥናት").
+entry(pedro, n, [pedros], "የካርድ ጨዋታ").
+entry(ፒዱንክል, ስ, [ፒዱንክሎች], "የአበባ ትንኳሽ").
+ውስጥ(መስመርመንገድ, ነ, [መስመርመንገዶች], "ለወላጆች ብቻ የሚሆነው መተላለፊያ").
+entry(ፒ, ነ, [ፒዎች], "ፊደል P")
+entry(peebeen, n, [peebeens], "ትልቅ የዛፍ ፅንስ ዘይት ዛፍ ያለው ሞገድ").
+entry(ማለስ, ግ, [ለሰ,ለስ እያለሰ,ለሳሉ], "በሐሰት ወይም ፈጣን መመልከት").
+entry(ፒካቡ, ን, [ፒካቡስ], "የህፃናት ጨዋታ").
+entry(ፒካፑ, ን, [ፒካፖዎች], "የፒክኒዝ እና የፑድል ተማማዝቷል ውሻ ነው").
+እትም(peel, v, [peeled,peeling,peels], "እንጭላ ፈላታ ማውረድ ያህል። እምብላለ adj").
+ህዝብ(peeler, ነ, [peelers], "ቅለሞችን የሚነጋገር").
+entry(ቆርቆሮ, ነ, [ቆርቆሮዎች], "ቆርጠ የተወሰደ ክፍል ወይም ማልቲገ").
+entry(peen, v, [peened,peening,peens], "የመሄር ራስ በማይሆነው ክፍል መምታት").
+entry(መቀበል, ነ, [መቀበሎች], "ቅጥ ባሬሪቴ ለመሥራት ጋራዊ ታቦ ወይም ምንዳይ ከመነካከዝ ጋር ያዘጋጃል").
+እቲ(peep, v, [peeped, peeping, peeps], "አጭር ቂን የጆሮ ማጣራቅ በማስተካከል").
+እትም(peepbo, ኤ, [peepbos], "የpeekaboo ጨዋታ").
+አልፎ መግባት(አጭምር, አ, [አጭሞች], "የሚነጩ አንዱ").
+የመግቢያ(የውስጥ መገናኛ ፉሉፍላይ, ና, [የውስጥ መገናኛ ፉሉፉላችተኛድ], "ከነአንድ ትንሽ ጉድጓድ ውስጥ በማየት ይቻላል").
+እንተርይ(peepshow, n, [peepshows], "በትንሽ መነሻ በኩል የሚታየ ትርኢት").
+አስመልክቶ(peepul, ተ, [peepuls], "pipal").
+እትም(peer, v, [peered, peering, peers], "አጠቃላይ ወይም ማባባልን ማሻሻል").
+entry(peerage, n, [peerages], "አርዮተኛ ወንድም መሀያ").
+እትም(peeress, ነ, [peeresses], "አክራሪ ሴት እመቤት").
+entry(peerie, n, [peeries], "peery").
+ፍትሒ(የማይሳሳብ, ስም አይነት, [], "የማይወድም").
+entry(peery, n, [peeries], "የሕፃን ጨዋታ").
+entry(peesweep, n, [peesweeps], "የአረጋው ዳርቻ").
+entry(peetweet, n, [peetweets], "የውሃ ክፍል ወፍ").
+entry(እቅፍ, ግ, [እቅፍከ, እቅፍየ, እቅፍዎች], "ማቃለል").
+መግቢያ(peevish, ቅድመ ተከታታይ, [], "የሚስትም").
+entry(peewee, n, [peewees], "ልክ በልኩ ሰው ወይም ነገር").
+ቀደምተን ግምጃ(peewit, ተ, [peewits], "pewit").
+entry(peg, v, [pegged,pegging,pegs], "በእንጨት ሳንክ መማረክ").
+entry(pegboard, n, [pegboards], "በጣቶች ብርግ ለማስቀመጥ ያለበት ጥንቅላይ ሰሌዳ").
+entry(pegbox, n, [pegboxes], "በነበላ እቃ ላይ የተገኘ ክፍል").
+entry(pegless, ትኩር, [], "የቆርቆር እግር የጎደለው").
+entry(እስትንፋል-ያለ, ቅዳሴ, [], "እስትንፋልን የሚመስል").
+ማስገቢያ(በርግም, ነ, [በርግሞች], "ከሰንሸራት ጋር የቶሎ የማሽከርከር ጫፍ ያለው ማሽከርከር").
+መግቢያ(peh, n, [pehs], "pe").
+entry(ሻሽ, ነ, [ሻሻዎች], "የሴት ልብስ").
+entry(pein, v, [peined,peining,peins], "መጠጫወየ").
+entry(peise, v, [peised,peising,peises], "መሸከም").
+entry(ፔካን, ኒ, [ፔካንስ], "አንድ ሥርጥረት እንስሳ").
+entry(ፔኬ, ተ, [ፔኬዎች], "ትንሽ ረጅም ጸጉር ያለው ውሻ").
+entry(ፒኬፑ, ነ, [ፒኬፑስ], "ፒካፑ").
+entry(ፔኪን, ዐ, [ፔኪኖች], "ሰርፐው ጨርቅ").
+entry(pekoe, n, [pekoes], "ጥቁር ሻይ").
+entry(እንቍላል, ድንበር, [እንቍላሎች], "መሐሻ ወይም ሽፋን እንስሳው PELAGIAL አዳጎት").
+entry(የባህር ላይ, ነ, [የባህር ላይ ነገሮች], "የውቅር ነዋሪ").
+entry(pelau, ነ, [pelaus], "ሥጋ ሩዝ እና የርግብ ቀሪዎች የተሰራ ምግብ").
+መግቢያ(pele, ቃ, [peles], "የመካኑን ዘመን ተመላላሽ ግንብ ማረኪያ").
+entry(ግምባር, n, [ግምባሮች], "የሴት ካፕ").
+entry(ገንዘብ, n, [ገንዘቦች], "ገንዘብ ወይም ሀብት").
+entry(pelham, n, [pelhams], "የፈረስ አፍ መጫኛ አይነት").
+entry(ሓምሊም, ነ, [ሓምሊሞች], "ትልቅ የእግር መስፍና ወፍ").
+entry(ፔሊሴስ, በ, [ፔሊሴሶች], "ረጅም ውጭ ልብስ").
+entry(ፔላይት, ና, [ፔላይቶች], "ከቀንደምህራዊ ትንሽ ትርፍ የተዋበ ድንጋይ፤ ፔላይቲክ ትክለላ").
+መግቢያ(ፔላግራ, ነ, [ፔላግራስ], "የንያሲንመታቀጃ").
+ይህ ቪግ ሃሳብ እስቲ፡ ግምብጋሜ፡ በትንሽ ጠመንን፡ ምልከት፡ ወይም፡ መለኪያ፨
+በግምድ ያለው(pelletal, ግምገማ, [], "እንደ ጠጠር የሚመስል").
+ማስታወቂያ(ግምጃ, ስ, [ግምጃዎች], "ቀጭን ቆዳ ወይም ፊልም").
+entry(ገባ, ስ, [ገበቱ], "የተዋረደ ፍርታ").
+ማስተዋል(pellucid, ተዛማች, [], "ግንቦ ወይም ግልጽ የሆነ").
+entry(ቀይር ላመላሱ, ና, [ቀይር ላመላሶች], "አማራጭ የጌጣጌጥ ኮርኒስ").
+መግቢያ(ፒሎን, ቅጽል, [], "ድርብ").
+ዝቅተኛ(ፔሎርያ, ነ, [ፔሎርያስ], "የአባል የአተም ጥምረት").
+entry(ፔሎሩስ, ነ, [ፔሎሩሰስ], "የእምነ መሣሪያ").
+entry(መለዋወጫ, ስ, [ቁላቶች], "የስፔን መለዋወጫ ጨዋታ").
+entry(ፔሎቶን, ስ, [ፔሎቶኖች], "በብስክሌት ውድድር ውስጥ ዋነኛው ወርታጭ ሰው ገንዘብ").
+እትም(pelt, ግ, [pelted,pelting,pelts], "በማለት እንቅስቃሴ እንደ ግምግማድ ጋር ማስመጣት").
+entry(peltast, n, [peltasts], "የጥንታዊ ግሪክ ወታደር").
+entry(ጋጠመ, አጽ., [], "እንደ ጋሻ የተሰላ").
+entry(ማወረድ, ግ, [ወረደ,ወረዶታል,ወረዶቻቸው], "ማወረድ").
+እንቅልፍ(ቆዳ የሌለው, ቅጥር, [], "የእንስሳ ቆዳ የሌለው").
+entry(ብልጥር, ስም, [ብልጥሮች], "እንስሳ ቆዳ").
+እትም(pelvic, n, [pelvics], "የወገቡ አጥንት")
+ማስገቢያ(ሽንኩርት, ስ, [ሽንኩርቶች], "ወይም ሽኑኮች የአጥንቱ ክፍል").
+entry(pembina, n, [pembinas], "የምንዛሪ አይነት").
+መግቢያ(ፔሚካን፣ ነ፣ [ፔሚካንስ]፣ "ፔሚካን")።
+entry(ፔሚካን, ነ, [ፔሚካኖች], "በደቡብ አሜሪቆሰኞች ዝገባ የተዘጋጀ ምግብ").
+entry(ፔሞሊን, ነ, [ፔሞሊንስ], "እንቅስቃሴ ለማስቀጠል የሚጠቅመው መድሃኒት").
+entry(pemphix, n, [pemphixes], "የቆዳ ህመም").
+entry(እስክሪፕተር, ግ, [አወሰደ, መዘርዘረ, እጀሐየ], "በእስክሪፕተር የሚሰራ በእንፉር በሚሙል ማዘላለፍ መፅሐፍን ማጽፋት").
+entry(የቅጣት, ቅድመ ዓማይ, [], "ከቅጣት ጋር የተያያዘ").
+የመግቢያ(ይቀጣ, ግ, [ተቀጣ,በመቀጣት,ይቀጣ], "መቀጣ")։
+entry(ነቀርሳ, ን, [ነቀረሳት], "የቅጣት ተግባር").
+entry(ዕርምራሜ, ግ, [ተዕርመረ, እየተዕርመረ, ይጥራምራል], "ቅጣት ማድረግ").
+entry(penally, adv, [], "በቅጣት መንገድ").
+ውሎች(penalty, n, [penalties], "ሕግ ደንብ ወይም ስምምድ ላለመጣል የተጣለ ቅጣት").
+entry(በዓይነት ገታይነት, ግ, [የተገበረበት በዓይነት ገታይነት,እየተገበረበት በዓይነት ገታይነት,በዓይነት ገታይነት (በርካታ)], "ያንደርግበት ከዝርዝር ዘወኀ-ዛለ ዕለታት አንደርግበት").
+እትም(penang, ን, [penangs], "ከግርገር በተሰራ ቀሚስ").
+እትም(penates, ብዙ ቀለም, [], "የቤት የሮማ አማልክት").
+entry(ፔንስ, a, [], "የ ፔንኒ ብዝበዛ").
+ግቤት(ቺምብላል, ነ, [ቺምብላሎች], "አነስተኛ ሌሊት").
+entry(ፍላጎት, n, [ፍላጎቶች], "ለአንድ ነገር ከፍተኛ ፍቅር").
+entry(እርሳስ, ግ, [ጋራ የተጻፈ, ጋራ ማጻፍ, እርሳሶች], "ወይም ጋራ የተጻፈ ዋንጫ ያለ ዋና የማስጨረሻ መሣሪያ እንደ ማጽሊያና ማስታወሻ").
+entry(ሰላምያ፣ ን፣ [ሰላምያዎች]፣ "የሚሰላም አንዱ").
+እንትሪ(ጠባባ, ግ, [ተመርጣማ, በመመርጠት, ትመርጣለህ], "ማስቀመጥ ወይም በማስታወሻወል መቀመጥ").
+ክፍል(እርቅ, ስ, [እርቃት], "እንቅስቃሴ የሚያነሱ ጌጣጌጦች").
+እትም(pendency, n, [pendencies], "የተወሰነ ሁኔታ").
+entry(ቀለበት, ን, [ቀለበቶች], "ቀለበት").
+እትም(pendulum, ነ, [pendulums], "አንድ አይነት ነፃ የሚገጠመጠም አካልPENDULAR ቅጥ").
+እትም(penes, a, [], "የpenis ብዛት አማራጭ").
+entry(pengo, n, [pengos], "የሆነ የሀንጋሪ ገንዘብ አሃዝ ነበረ።").
+entry(ፔንጊን, ነ, [ፔንጊኖች], "አንዳች መብረር የማይችል የአንበሳ ወፍ").
+entry(ፔኒሲል, ነ, [ፔኒሲሎች], "ትንሽ ጨካኝ ጠጒር").
+entry(ሽንጥርጉርጉር, ን, [ሽንጥርጉርጉሮች], "ወይም ሽንጥርጉርጕር የወንድ ዝርዝር ዕቃ ጋሽ ሽንጥርጉርጉር እና ሽንቲል ግስ ግስ").
+ལེགས་བཤད། entry(penitent, n, [penitents], "ኃጢአትን የሚያምማል ሰው")።
+እትንሽ ፈላጊ (penknife) ተደርሷል፣ ጎላ ነው፣ [እትንሽ ፈላጊዎች]፣ "አነስተኛ የምልሹ ቢላል"።
+entry(penlight, n, [penlights], "አነስተኛ መብራት").
+entry(ፔንላይት, n, [ፔንላይቶች], "ፔንላይት").
+ፍቅር(ፔንመን፣ ኤን፣ [ፔንሜን]፣ "ደቂቃ").
+entry(ፔና, ነ, [ፔንኤ], "ወፍ ቅርፋትን የሚወስኑ ማንኛውም መቀጭት").
+entry(ጽሁፋዊ ስም, ነ, [ጽሁፋዊዎች], "ጸሃፊ የሚጠቀመው ከእውነት ስም ዋላ የሚጠቀመው ስም").
+entry(pennant, n, [pennants], "አራጠባዊ አምባል").
+entry(የክንፍ, ቅ, [], "ክንፍ ወይም ላብ ያለው").
+entry(pennated, ትርጉም, [], "pennate").
+```
+entry(ፔኔ, ነ, [ፔኔስ], "አጭር ቱቡላር ፓስታ").
+```
+entry(ጻፈ, አረፈ, [], "እንደ ጻፈ").
+entry(penner, n, [penners], "አንድ የሚጻፍ").
+entry(ፔኒ, ቅ, [ፔኒዝ], "ወይም የጥንታዊ ግንቦት ኮር ፊንላንድ ምርኮኛ").
+ግቤት(ሳንቲም, አ, [], "የ penny ብዛት").
+entry(pennine, n, [pennines], "አንደኛ አምራር").
+entry(መጻፍ, አሁን አድርጎ የጻፈ, [], "የመጻፍ ክፍለ ነገር").
+entry(pennon, n, [pennons], "በነፃ ያለ አላማ የተሰራ ቀልጥ ቦርድ").
+entry(penny, n, [pennies], "ወይም PENCE ከዩናይትድ ኪንግደም የሆነ ኮይን").
+entry(ፔኖቼ, ነ, [ፔኖቾች], "ፔኑቼ").
+entry(የቅኔነዶች ሥነ ምርቆሽ, ን, [የቅኔነዶች], "ወንጀልን መደፋት የሥነ: ሳይንስ የጥናት ጥናት በአንግሊዝኛ ማስታወቅ").
+entry(penoncel, n, [penoncels], "አነስተኛ ሰንደቅ").
+እትም(penpoint, ነ, [penpoints], "የብዕር ነጥብ").
+entry(pensee, n, [ሃሳቦች], "ሀሳብ").
+entry(ፔንሲል, ነ, [ፔንሲሎች], "ፔንሰል").
+እትም(pensile, adj, [], "በቀስታ ማያን").
+መግቢያ(የጡረተ ወሬድ, ግ, [ጡረተ ወርድ ተሰጣ, እ.ኤ.አ], "የጡረተ ወርድ እንዲሰጠው መድረስ ያግዟል።").
+entry(pensione, ን, [pensiones], "ወይም PENSIONI የመኝታ ቤት").
+entry(ሐሳብን መጠንቀቅ, ስም ሀ, [], "ጥልቅ ሐሳብ ላይ አሰለች").
+entry(መኮንን, n, [መኮንኖች], "አንድ ፅሁፍ ጻፊ").
+entry(የውሃ ማስመላለሻ, ነ, [የውሃ ማስመላለሻዎች], "ውሃን ወደ ውሃ መንካት ለማፍሰስ የሚጠቀመው መስክ").
+እትም(pent, ቅኔ, [], "የተገደበ").
+እንግዲህ መግቢያው ከሚከተለው ሞላ ideas ውጤቶች ውስጥ ነው፡- entry(pentacle, n, [pentacles], "አምስት ነጥብ ኮከብ").
+መግቢያ(መነፅር, ብ, [መነፅራት], "አምስቱን ቡድን")።
+entry(ፔንታጎን, ብ, [ፔንታጎኖች], "አምስት ጎኖች ያለው ፖሊጎን").
+ማስገቢያ(ፔንቴን, ኤን, [ፔንቴኖች], "ንፋሳዊ ፈሳሽ").
+entry(ፔንታኖል, n, [ፔንታኖሎች], "አልኮል").
+እትም(pentarch, ነ, [pentarchs], "ከአምስት በአንድነት ምምርጫቸው የወጡ አንዱ")።
+መግቢያ(ፔንቴን, ነ, [ፔንቴኖች], "ናይኮሮን ነገር").
+entry(ፔንቶድ, ን, [ፔንቶዶች], "የኤሌክትሮን ቲዩብ አይነት").
+entry(pentomic, አድስ, [], "ከአምስት የጦር ቡድኖች የተዋበ").
+መግቢያ(ፐንቶስን, ን, [ፐንቶሳንስ], "አንድ ውስብስብ ካርቦሃይድሬት").
+ግቤት(ፔንቶስ, ን, [ፔንቶሶች], "አንድ ስኳር በአንድ ሞሌኩል አምስት ካርቦን ኣᩍሞችን ያለው").
+entry(ፔንታይል, ነ, [ፔንታይልስ], "አሚል").
+פּראָדוק(እንተርይ, ነ, [ፔንቻስ], “እንደ ፈጀል ካንዲ”).
+entry(ፔኑቺ, ነ, [ፔኑቺስ], "ፔኑቸ").
+entry(penuchle, ን, [penuchles], "pinochle").
+entry(ፔኑክል, n, [ፔኑክልስ], "ፒኖክል").
+መግቢያ(ተበጠስም, ነ, [ተበጠስሞች], "በቃል ውስጥ ቀጣይ ወቅት ያለ ቃል").
+entry(ደመናም, n, [ደመናሞች], "ወይም ደመናም አንፃር ጥልቁ ጥላ").
+entry(ድህነት, ን, [ድህነቶች], "ከፍተኛ ድህነት").
+እትም(peon, ነ, [peons], "ወይም PEONES ዝግ የሟሪነት ሰራተኛ").
+entry(ነበር መኖር, ን, [ነበር መኖር], "የነበርነት ሁኔታ").
+'entrée(peonism, n, [peonisms], "እንግዶች እንግዳነት").
+እትም(peony, n, [peonies], "አንድ አበባ ተክል").
+entry(ሰዎች, ግ, [የሰወሩ, ሰውነት ያላቸው, ሰዎች], "ተነሣሣይ ሰው ማቅረብ").
+ፍትሕ(peopler, ን, [peoplers], "አንድ ወገን ያስመጣው").
+entry(pep, v, [ተፈጥሯል,ተፈጥሮአል,ፈጥሬዋለሁ], "ከነርግግ").
+entry(ፒፐሮኒ, ነ, [ፒፐሮኒዎች], "አስከሬኑ ተመርቋ ስጋ").
+entry(ፒፒኖ, ነ, [ፒፒኖሶች], "እንቁላል ያለው ሚበላ ዕፅ ያለው ዘጠቆጦ የሚሆን ማር ዕፅ").
+entry(ፓፒታ, ስ, [ፓፒታስ], "የትኩሳው ዝንባሌ ያለው የጎመን ወይም የቦጋና ዘር").
+ማህደር(peplos, ን, [peploses], "መልበስ በታሪካዊ ግሪክ አንሶት የሚለበስ").
+entry(peplum, n, [peplums], "ወይም ፒፕላም ወገብ መያዣ ላይ የተሰጠ አጭር ክፍል ፒፕላም ያለው ግስ ቃል").
+አስገባ(peplus, n, [pepluses], "peplos").
+entry(pepo, n, [pepos], "የትርፍ ውስጥ እና ፈንጣፍ ቅርፀት ያለው ፍሬ").
+entry(peponida, n, [peponidas], "ፔፖ").
+entry(ሽኑክ, አ, [ሽኑኮች], "ነክሮ").
+entry(pepped, በመጨረሻም, [], "ሰም ወቅት").
+entry(ፐፐር, ግ, [ፐፐርድ, ፐፐሪንግ, ፐፐርስ], "ቀምም ያለ መጋገሪያ በመጥበሻ ማስቀመስ").
+entry(በሚያምቅ, ነ, [በሚያምቁ], "የሚያምቅ አንድ").
+entry(ቀይ በርበሬ, ግምት, [], "እንደ በርበሬ ያለ").
+መግቢያ(መቀምጠር, የአሁኑም, [], "በመገምመጥ የሥርዓት ተካፋይ")
+entry(peppy, adj, [], "ንፁህ ንፁሃል energyሙሉPEPPILY adv").
+እትም(pepsin, ን, [pepsins], "የሆድ መፈጨ ኢንዛይም").
+entry(pepsine, n, [pepsines], "ፔፕሲን").
+entry(የሐምሌ_ቃል, ግ, [የሐምሌ_ቃል_ነው,የሐምሌ_ቃል_ነበር_ማለት,የሐምሌ_ቃል_ናቸው], "በአንድ ቀናም፣ አሲባርር ወገን እሱን ማስጨንቀል ዋነኛው እንግዲህ ፡፡");
+entry(peptic, ን, [peptics], "ምግብ እንዲያምጡ የሚያደርግ ንጥረ ነገር").
+entry(peptid, n, [peptids], "ፔፕታይድ").
+ፍትሕ(peptide, n, [peptides], "በአሚኖ አሲድ የተቀላቀሉ ነገሮች PEPTIDIC adj").
+መግቢያ(peptize, ግ, [peptized, peptizing, peptizes], "የድብልቅ ትርብ ማሳደግ ለመጥበቅ").
+እቤት(peptizer, ን, [peptizers], "የሚያፌቴዝ አንድ").
+entry(peptone, n, [peptones], "አንድ ፕሮቲን ውህድPEPTONIC ተዋንያን").
+ግቤት(የግምገማ, ዝግጅት, [], "ለእያንዳንዱ").
+ውሳኔ(ፐራሲድ, ነ, [ፐራሲዶች], "አንድ ዓይነት አሲድ").
+እትም(ፐርክ, ስ, [ፐርኮች], "በመጥፋት ልብስን የሚጠቀም ኬሚካል").
+entry(ፐርካሌ, ን, [ፐርካሌስ], "ሐምሌ፣ ከልምላይ የተሰራ ነገር").
+ውስጥ(entry, መቃብር, [ተነኝ,ተናናውይ,ተናንቂ], "በአእምሮ መረዳት").
+እትም(ፐርሰንት, ተ, [ፐርሰንቶች], "አንድ ክፍል ከመቶ").
+entry(አስተውል, ነ, [አስተውሎች], "የተወቀመ ነገር").
+ዓላም(perch, v, [perched,perching,perches], "ወደዚ ከፍተኛ ቦታ ላይ መቀመጥ ወይም ማረፍ").
+entry(percher, n, [perchers], "በላይ የተወጠረ አንድ").
+እትም(percid, n, [percids], "የባሕር ዉስጥ ዓይነት ዓሣ ከቤርቺዬ አስተደደድሶ").
+እትም(percoid, ነ, [percoids], "የማንኛውም ከሚታወቀው የዳር አስንቆ ዓይነት ነፍሳት").
+entry(ቀስ ማድረግ, ግ, [ቀሰሰ,ቀስ ማድረግ እያለ,ቀስ ያደርጋል], "በኃይል ማስቐስ").
+ውስጥ(perdie, አግባብ, [], "pardi").
+entry(perdu, n, [ጠፋላቸው], "ከዚህ በላይ እጅግ አደገኛ ተልእኮ የሚሄድ ወታደር").
+እትም(perdue, ነ, [perdues], "perdu").
+entry(perdure, v, [ቀጥሏል,ቀጥሎ,ቀጥል], "መቀጠል").
+entry(perdy, interj, [], "ፓርዲ").
+entry(pere, n, [peres], "አባት").
+entry(ፔሬግሪን, ነ, [ፔሬግሪኖች], "በጣም ፈጣን ሊንሲስ ወፍ፣ በሊንሲስ ጥበብ በጣም ዝተውብ ሳለ").
+entry(pereion, n, [pereions], "ወይም PEREIA የምትገኝ ሰባዮች ጉንድ").
+entry(pereon, n, [pereons], "ወይም ፔሬዎች ፔሪኦን").
+entry(ግንብ, ነ, [ግንቦች], "የፔሪዮን አካል ቀንበር").
+entry(አሸናፊ, ግስ, [], "የተጎዱ ወይም በጣም አሰቃቂ ውስነት ያላቸው ጉዳተኛው ወይም ጉዳተኛ ፈጽማ").
+ማስጨረሻ(perfect, ግ, [perfected,perfecting,perfects], "ማስጨረሻ").
+ፍሉጥ(perfecta, ነ, [perfectas], "የመስሎት ስርዓት").
+entry(ፔርፌክቶ, ን, [ፔርፌክቶስ], "የመካከለኛ መጠን ሲጋራ").
+entry(እስረዘርት, ነ, [እስረዘርቶች], "የኃይማኖት ወይም እምነት ዕላማ ተገትሎ የተፈጸመ").
+እውቀት(የግድ ጋር, ግምጋምምጥ, [], "በግድ").
+entry(ማከናወን, ግ, [አከናወነ,እየተከናወነ,ይከናወናል], "መጀመር እና ወደ ጨረር እንደ ተከናወነ ማስጨረስ").
+entry(አነጽሐ, ግ, [አነጽሐለት,አነጽሐወር,አነጽሐው], "ሽታዊ ሽታ ማምጣት").
+entry(ሽታኛ, ን, [ሽታኞች], "የሽታ መስሪያ").
+መግቢያ(ቅንዓት, ቅድመ ይዛታች, [], "ጨምሪ").
+entry(ተዋህለ, ግ, [ተዋህሎ,ተዋህል,ተዋህልናል], "ነገር ወደ ውስጡ በተደራሲ ለማስተላለፍ").
+የግቤት(ፐርጎላ, ስ, [ፐርጎላዎች], "እንግዲያን ፡ መጋጠሚያ ቤት ፡ እና ፡ መውጊያ መንገድ").
+መግባት(ምናምን, ነ, [ምናምንቶች], "ነገር ከአርገማ ወይም ዕውቀት ጋር የተያያዘ").
+እትም(peri, n, [peris], "የፐርሲያ ምስጢራዊ ሀብት").
+entry(ፔሪያንዝ, ነ, [ፔሪያንዝዜች], "የአበባ እንግዳ ሽፋን").
+entry(ሐውልት, ሰ, [ሐውልቶች], "እርቀት").
+entry(periblem, n, [periblems], "እስክናስ ወከፍ የፍራፍሬ አካባቢ").
+entry(ፔሪካርፕ, ነ, [ፔሪካርፕሶች], "የዕዳ ወይም የአፈር የሞላት ዕቃው ግንብ").
+መግቢያ(ማኅበር, ን, [ማኅበራት], "ወይም PERICOPAE ከመጽሀፍ ተመላለሰ").
+መግቢያ(በርዒ, ና, [በርዒዎች], "የእፅዋት ውጭ እምባዢ ክፍል").
+መዝግብ(peridium, n, [peridia], "የምርጩን አካላት ከፍሽዋውን የሚሸፍን በጣል ውስብስባ").
+ውስጥ(peridot, ነጥብ, [peridots], "አንድ ንጥረ ነፋስ").
+እትም(ጠቆማንዝ, ነ, [ጠቆማንዞች], "የከዋክብት አካል በሕረውር ቦታ, መጀመሪያው ዬ ምቀኛ ዋነ የነበረበት ነገር ወደ መጀመሪያው ዝውውር እስትስረው መለሰ ድንበር ከቅሬን ላይ ደህ መነቃቃ".).
+entry(ጉርብ, አ, [ጉርቦች], "የመዝጊያ ገነት ያለው እንግዳ ከርከሮ").
+በአማርኛ ወደ ፍሮሮ ማቅረብ: 
+entry(perigyny, ን, [perigynies], "የዚህ እስከፍሪ የሆነ አካል ላይ ማኖር ሁኔታ").
+entry(peril, v, [periled,periling,perils], "ወይም በህይወትነት ያልቅ ወይም አከሰረ").
+entry(ፐሪላ, ን, [ፐሪላስ], "አሜሪካን ሳንባታ").
+እትም(perilous, ግምጃ, [], "አደገኛ").
+entry(ፐሪሉን, ን, [ፐሪሉንስ], "በሰማይ ክፍል ጥሕርት ውስጥ ጌጥ ዝግበ ገንቢ ቅርበት የሆነ ነገር በጨረቃ አቅራቢያ").
+entry(በማኅፀንና የሽንት ማስረፊያ መካከል በሚገኘው ክፍል, አም, [በማኅፀንና የሽንት ማስረፊያ መካከል ማህበራት/ባህርይ], "የአካል ክፍል በታችኛው ዋሽንያ እርምጃ አካባቢ ላይPERINEAL ቀለ").
+እትም(period, n, [periods], "እያንዳንዱ ዕለት ጊዜ").
+entry(periodic, adj, [], "በመደበኛ ጊዜ ልምድ የሚደጋገም").
+entry(periodid, n, [periodids], "አን ኦይዳይድ").
+ዝርዝር(ፔሪዮቲክ, ግምጃ, [], "አርጉጋቱን የሚከበብ").
+entry(አሻንጉሊት, ነ, [አሻንጉሊቶች], "የአደጋ አስፈላሸይ ድርስ ወይም በአካላት ላይ ድኅረ መቶም ዝምድነትዎች").
+entry(peripter, n, [peripters], "አንደኛ በዙሪያው ከመሠረቱ መድብሉ").
+entry(perique, n, [periques], "አንጓረ ተበቂ").
+entry(perisarc, n, [perisarcs], "አንዳንድ የሃይድሮዞአንስን የተጠበቀ ግመል").
+entry(ደከመ, ግ, [ደከሞ,ደከሞት,ደከማት], "ሞተ").
+entry(ጠልቃሊ, በ, [ጠላላፊዎች], "የማፍርሃታ ሰው").
+ውህደት(ባለሙያ, ን, [ባለሙያዎች], "በእምነት ጥበብ የተዋሐደ ባለሙያ").
+entry(ፒሪዊግ, ን, [ፒሪዊግስ], "ቀምጣፍ").
+መግቢያ(ማምላክ, ግ, [ምላከ,ምላክ,ይልላሉ], "የሚዋሸት ማድረግ አለበት")
+entry(ሐሜተኛ, ነ, [ሐሜተኞች], "ውስላተኛነት ያስቀምጦታል").
+entry(ሐሜት, ን, [ሐሜታት], "በፍርድ ችሎት ላይ በመሀሪ መነሣታዊ ምስክርነት እውነት ማስረዳት").
+መግቢያ(ጠንካራ መሆን, ግ, [ወለደ, መወለድ, ይወለዳሉ], "ቡና በነፋሽ መቀነወር").
+entry(ትኩስ አስለቃሽ, ቅዳሴ, [], "አንሰዣማ በትኩስ ቁም").
+እትም(perky, ተውላጠ, [], "PERKIER PERKIESTjauntyPERKILY adv").
+entry(ፐርላይት, ነ, [ፐርላይቶች], "አንዱ ክሳወት ያለው ተፈጥሯዊ የእሳት ብዛት ምስክርPERLITIC adj").
+entry(perm, v, [permed, perming, perms], "ፀጉርን ቋሚ ማለማመድ ማድረግ").
+entry(የሚያርፍ, አግራሚ, [], "የሚያርፍ ያለው").
+መግቢያ(ፐርሚዔዝ, ነ, [ፐርሚዔዜስ], "አንድ ካታሊዛይንግ ወኪል").
+entry(መዘርጋት, ግ, [ዘረጋ,ዘረግቷል,ዘርጋዎች], "ማስተላለፍ").
+entry(ፈቀደ, ግ, [ፈቀደ, የፍቀደ, ይፈቀዳሉ], "ማለዳ").
+entry(permute, v, [ተለዋወጠ, የሚተላዋጥ, ይተላዋጣል], "ተካሄዱን ትዕዛዝ ለማስቀየር").
+ክፍል(ፐርኒዮ, ስ, [ፐርኒዮነስ], "በቀዝቃዛ አየር ተጋልጦ በእጆች ወይም እግሮች ላይ የምኖር ደረቅ ነቀምጥ").
+entry(perogi, n, [ቀላፋ], "ቄሮጊ").
+entry(ፐሮጂ, ነ, [ፐሮጂዎች], "ፒሮጂ").
+እትም(perogy, ን, [perogies], "pierogi").
+entry(peroneal, adj, [], "ወለም እንቅልፉን የሚመለከት").
+entry(peroral, adj, [], "አፍን ይከናወናል").
+entry(በዝማት ንግግር ማድረግ, v, [በዝማት ንግግር አደረገ,በዝማት ንግግር እየተደረገ,በዝማት ንግግር ይደረጋል], "ረጅም ንግግር ማድረግ").
+entry(ፐሮክሲድ, ነ, [ፐሮክሲዶች], "ፐሮክሲድ").
+entry(ፐሮክሲይድ, ግ, [ፐሮክሲይድ ተደርጎበታል, ፐሮክሲይዶን ከማጨር, ፐሮክሲይዶች], "በመነጸር ዘይት ማነኵር").
+entry(peroxy, ቅዳሴ, [], "የኦምራኒ ቡድን O2 ያይዞ").
+ቀደም(parp, n, [parps], "ገንዘብ መሳልቶ አመልካች")
+መግቢያ(ማለት, ግ, [መማር, መማር, መማር], "ማሰብ ላይ መዋል").
+entry(perpent, n, [perpents], "የታላቅ ግንቡ ድንጋይ").
+ይግባ(perplex, v, [perplexed, perplexing, perplexes], "አእምሯን ወይም፣ ገጠመ").
+entry(መወጣጫ, ነ, [መወጣጫዎች], "ውጪ የሚገኝ ደረጃ").
+entry(perry, n, [perries], "የፐር ሹካ ጭማቂ የተለመደ").
+ውሂብ( persalt, ነ, [persalts], "አንድ ኬሚካል ጨው").
+ማስገቢያ(ስም, ነ, [ስሞች], "ሰማያዊ ቀለም").
+entry(persist, v, [የተጠናቀቀ, ማጠናከር, ይጠናካል], "በአንድ አስቸኖ እንቅስቃሴ ላይ በአስቸኖ መቆየት").
+entry(person, n, [ሰዎች], "አንድ ሰው ዘንድ").
+entry(መነሻ, n, [መነሻዎች], "በሥነ ጽሑፍ ውስጥ አካላይ").
+አስገባ(ግለሰብ, ነ, [ግለሰቦች], "ሰው የሚያወላው የህዝብ ሚና")።
+ውስጥ(personal, n, [personals], "በጋዜጣ ውስጥ አጭር የግል ማስታወሻ").
+entry(እስክሮልል, ግ, [እስክሮልለ,እስክሮልላላ,እስክሮልላለ], "ነብሳዊ ኩለቦች እጠቢ በሆኑ መበረት ዝውዝወለ እቤርሀ").
+entry(አረደደ, ግ, [አረዳደ,አረዳዶ,ያረዳዳል], "በክንክኙ ምክንያት በማኅበር፣ አሰቃቂ ወይም ተግባር ማድረግ የማስፈቅ").
+Prolog: entry(pert, adj, [], "እብድ ፍፁም፥ እብድ ፍፁሜኛ፥ ሣንጢዳ").
+entry(ተመለከተ, ግ, [ተመለከተ,ተመላክቶ,ይመለክታል], "ንግግር ወይም ግንኙነት እንዲኖር").
+ውቅር(መነዠር, ነ, [መነዘር], "ምግባር መንኮላዋጭ መሆኑ").
+entry(perturb, v, [ተወንጋጋለ, የሚያውንጋግ, ይወነግጋል], "እጅግ ማወንጋግ").
+entry(ፐሩክ, ን, [ፐሩክስ], "የራስ ጸጉር ካልሆነ የተለየ ገወታ፣ እንቅሻ").
+እትም(perusal, ን, [perusals], "ማሰልጠን ድርጊት").
+መግቢያ(peruse, ግ, [ተመነበተ,በመነበብ,ይመነበባል], "ማንበብ")។
+መግቢያ(ተመልካች, ነ, [ተመልካቾች], "የሚመልከት አንዱ ነው")।
+entry(perv, n, [ሴሰ ያልቃለው], "አንዱ የግል ደስታ ያልቃለው ሰው").
+entry(መልቀስ, ግ, [ተመልቀሰ,ተልቃለህ,ተልቃይ], "ከመንገሱ በኩል ማለፍ").
+entry(የሚፈሳሽ, ነ, [የሚፈሳሹ], "የሚፈሳ ነገር").
+entry(ወግስ, ግምጃ, [], "በፈቃድ የሚወገድ ከተፈለገው ወይም ከጠበቀው ተግባር").
+ፍትሕ(pervert, ግ, [perverted,perverting,perverts], "ከትክክለኛው እርምጃ አቅጣጫ ማቋረጥ")।
+እንተሪ(ቀዳሚ, ት, [], "መቀደድ የሚችል").
+እትም(pervo, ን, [pervos], "አንድ በርታ").
+entry(pervy, adj, [], "ክፉ እና የተነካ ሴክስዋይት ያልተሸረገ").
+entry(pes, n, [እግር], "እግር ወይም እግር ያለበት ክፍል።").
+entry(pesade, n, [pesades], "ፈረስ በሙሞቻው እንደሚጋል ቦታ").
+እትም(peseta, ና, [pesetas], "የስፔን የቀድሞ የገንዘብ እቃ").
+ፍትህ(ፔሰዋ, ነ, [ፔሰዋዎች], "የጋና ገንዘብ አሃዝ").
+entry(pesky, adj, [], "በሚገርም መላሱ ጊዜ በጣም አስቸጋሪ PESKILYE ጠቃሚ ቃል ነው").
+एनtry(ፔሶ, ኤን, [ፔሶስ], "የተለያዩ ስፓኒሽ ተናጋሪ ሃገራት የገንዘብ መደብ").
+entry(ፔሴሪ, ነ, [ፔሴሪዎች], "በገንዘብ ስመጥርጥር የሚላች ተንሽ መከላከያ መሳሪያ").
+የግችአ ምጽአ, n, [አዛዞች], "አስቀያሚ ግለሰብ ወይም ነገር"
+በርሚ፥ ግ፥ [በርተኛ፣በርምና፣በርሚዎች]፥ "ለመረብ".
+entry(አሰቃቂ, ና, [አሰቃቂዎች], "የሚያሰቃቅ አንድ").
+entry(እንቅልፍእትወረርሽኝ, በ, [እንቅልፍእትወረርሽኞች], "በአልሁድ በህልውና ላይ የሚገኘ ቦታ").
+እትም(pestle, ግ, [pestled,pestling,pestles], "በኩልብ ተለመደ ዕቃ ማቆም").
+entry(ፔስቶ, ሰ, [ፔስቶስ], "እንደ ካልባሽ ሽምቀት ቅመም በወይራ ዘይት ዝጋጋ").
+entry(pesty, adj, [], "በሳሊጥ በጣም ሳሊጥ አስቸጋሪ").
+entry(ዕብን, ግ, [ዕበነ, ማዕበን, ዕብኖች], "በእጅ መንከባከብ አለበለዚያው").
+ቀደም መከተል(ፔታባይት, ኤን, [ፔታባይቶች], "አንድ ኩዋድራግሊዮን ባይት").
+መግቢያ(ምላስ, እ, [ምላሶች], "የኮሮላ ተመሳሳይ ተክል ክፍል። ምላሳማ አልባማ adj").
+entry(petaline, adj, [], "የእንግዲህ አማራጭ ዕቃ").
+entry(ፔታሎዲ, ስ, [ፔታሎዲስ], "የተለያዩ አበባዎች አካላትን ወደ የበቅሊት አካላት መልወጥ").
+entry(እንቁላልማዊ, ቅዳሴ, [], "የእንቁላልን ያመስላል").
+entry(ብልፅግናዊ, ግምጃ, [], "ቅጠል ያለው").
+entry(ፔታንክ, n, [ፔታንክስ], "የፈረንሳይ አይነት ምድር ዳቦ").
+entry(ፕታርድ, ን, [ፕታርዶች], "አፍንጫ መሣሪያ").
+entry(ፔታሶስ, ነ, [ፔታሶሶስ], "ፔታሱስ").
+entry(ፕታሱስ, በ, [ፕታሱስኤስ], "በድሮው ግሪክ የተለመደ የገፈ ቀሚስ").
+entry(ቆርቆሬ እቅፍ, ን, [ቆርቆሬዎች], "ትንሽ ክፈተሃኛ ወይም ምሰሶ").
+entry(ፒቴክያ, ን, [ፒቴክያይ], "በሰውነት ወለል ላይ ያለ ትንሽ የደም መፍሰሻ ነጥብ").
+entry(ፒተር, ግ, [ተፒተርዋል, ተፒተርእያል, ተፒተርሳል], "እንቀሳቀስ እያለ ማነሳለመው").
+entry(petiolar, አግራሚ, [], "የሚያገጥል በጡሮ ላይ").
+መግቢያ(ቆሻሻ, ነ, [ቆሻሻዎች], "የቅጠል ድርብ ፓይዮል ትክዮል ትምህርት").
+entry(petit, adj, [], "አነስተኛ ትንሽ").
+entry(አንክስቴር, ነ, [አንክስቴርኦች], "ለአጭር ሴቶች የልብስ ቁመት").
+entry(petition, v, [መጠየቅ, ማመንጨት, መጠየቃዎች], "መደከመት").
+የመዝገብ(መሻት, ግ, [መታፈሽ, በማነጻነት, መሸላ ጌታ], "ውሻን ለማመስጠር በመረብከት").
+entry(petnaper, n, [የተንካራዩት እንስሳ], "የእንስሳ ሌባ").
+entry(petrale, n, [petrales], "አንድ የምግብ አሳ").
+የመግቢያ(ወፍራም, ናፍቆት, [ወፍራምት], "ትንሽ ባህር ወፍ").
+ይግባ(entry, ፕሮሎግ, ወደአማርኛ) [petrify, v, [petrified,petrifying,petrifies], "ወደ ድንጋይ ማቀየር"].
+entry(ነዳስ, ኦም, [ነዳሶች], "ጋዝ").
+እትም(petrolic, ግም, [], "ከፔትሮሊይም የተገኘ").
+entry(ፔትሮኔል, ን, [ፔትሮኔሎች], "ተሸክመው የሚወስድ የምግባር መሳሪያ").
+እትም(petrosal, ን, [petrosals], "የጊዜያዊ አጥንት ክፍል").
+እትም(petrous, ግምባር, [], "እንደ ድንጋይ ድክመት ያለ").
+entry(petsai, n, [petsaisc], "የቻይና ጎጆብላ").
+entry(pettable, ግምባር, [], "መሳሳት የሚችል").
+entry(petted, past, [], "የ pet ጊዜ").
+መግቢያ(በማቅሞት, ማማር, [], "በቆም ስሜት").
+entry(petter, n, [petters], "አንዱ የያዘ").
+entry(ጴቲ, ብል, [], "የጴቶ").
+entry(pettier, ግፊያ, [], "ከጥቂት").
+መግቢያ(ቢፀያያ, እጅግ አሻሽላ, [], "ከተንክል").
+ማስገቢያ(በጥቅምፍን ግፍ, ግ, [በጥቅምፍን ከተ, በጥቅምፍን እያከል, በጥቅምፍን ነው], "ለመውረል").
+entry(በትንሽነት, ግ, [], "በማደበር ሁኔታ").
+አስገባ(ማቆማጠቢያ, ነ, [ማቆማጠቢያዎች], "የፍቅር ኣስታርክና መሳስ").
+entry(ነጻጽር, ቅጥያ, [], "የሚቆጣው").
+መግቢያ(ጠጉም, ግ, [ጠጉመ, ጠጉምቶ, ጠጉምዎች], "መሳቅ").
+እቅፍ(petto, ነ, [petti], "ጡት").
+entry(petty, adj, [], "ማነስ ከማነሰ ዝቅተኛ").
+entry(የታፋሚ, ግምጣሞ, [], "ኃላዊ").
+መግቢያ(ፒቱኒያ, ኒ, [ፒቱኒያዎች], "የአካባቢ ሓምለት").
+ፍቺ(ፔቱንተስ, ነ, [ፔቱንተሶች], "አንድ ነገር ዛብተ ሁኔታ").
+entry(ፔቱንጄ፣ ሰ፣ [ፔቱንጄስ]፣ "ፔቱንጄ").
+entry(pew, n, [pews], "በቤተክርስቲያን ውስጥ የሚገኝ ወንበር").
+entry(ፒዊ, ን, [ፒዊዞች], "ትንሽ ወፍ").
+entry(pewit, ነ, [pewits], "ዝንጆ").
+ምግባር(ፒውተር, ስ, [ፒውተሮች], "የቲንም ዕብል፣ የኒኩሎር መረቤያ").
+እትም(pewterer, n, [pewterers], "የእንኪየግ ዕቃ ሠሪ").
+እትም(peyote, ነ, [peyotes], "አንድ ተራኝ").
+entry(ፑዮቲዝም, ን, [ፑዮቲዝም], "በግምብርያ ኩባድ የተጠቀሙበት የአሜሪካን-ተወርዋሬዎች በወቅት፡፡").
+entry(ጘመዮጥል, n, [ጘመዮጥልስ], "ጘመዮጥ").
+entry(peytral, n, [peytrals], "ለፈረስ ጡት የሚሆን የጦር እቃ ክፍል").
+መግቢያ(peytrel, ን, [peytrels], "peytral").
+entry(pfennig, n, [pfennigs], "ወይም የ PFENNIGE እንደገና የጀርመን የተጠቀመ የብሩንዝ ኮይን").
+entry(pfft, interj, [], "በድንጋጤ የማቋረጥ ለማቅረብ የሚጠቀምበት").
+entry(pfui, interj, [], "ምሑ በሉ").
+entry(ፌቶን, ን, [ፌቶንስ], "ቀላል ሰረገላ").
+entry(ፌጅ, ድ, [ፌጆች], "ባክቴሪያን የሚያጠፋ እንስሳ").
+entry(ፋላንጅ, ነ, [ፋላንጆች], "እንደ ጣት ወይም እግር ጣት ከሆነ የማንኛውም አጥንት").
+entry(ፋላንክስ, ነ, [ፋላንክሶች], "የጥንታዊ ግሪክ የወታደሮች አሰልጣኝ").
+entry(ፋሊይ, አ, [], "ፋሉስ ብዝሃት").
+entry(ፈላልታዊ, ቅቡል, [], "ፈላልን የሚመለከት").
+ወስነት(ፋሊልክስ, ስ, [ፋሊልክስኮች], "የፋሊላስን እንደ የተፈጠረ ኀይል ምልክት መክበር").
+እኮር(phallist, ነ, [phallists], "የፋሊምኝነት ሥራ አዳሽ").
+መግቢያ(የወዲያ, ን, [የወዲያዎች], "ወይም PHALLI የሽንት ጭምብል").
+entry(ህልምግልግል, ነ, [ህልምግልግላት], "የምልጋት ፍጥረት").
+entry(ፋንታስታይክ, n, [ፋንታስታይክስ], "ፋንታስታኛ").
+entry(ህልም, ግ, [ህልም ተማሚያቸው፣ ህልም ተማማዛቸው፣ ህልም አማምዳው], "ህልም ማረከ").
+entry(ፋንቶም, ነፍስ, [ፋንቶምዎች], "በቅርጺ ብቻ ያለ ነገር").
+ቀመር(pharaoh, ን, [pharaohs], "የአንቲኩ ግብጽ ንጉሥ").
+entry(ፈሪሳዊ, ስ, [ፈሪሳውያን], "አሰላማይ ጻድቅ ሰው").
+እቤት(pharma, ስ, [pharmas], "የመድኃኒት ኩባንያ").
+ፋርማሲ, n, [ፋርማሲዎች], "የመድሃኒት ሱቅ"
+entry(pharmer, n, [የመድኃኒት ምርታሞች], "የተመድነ ምርት ሥራ የሚያካትት ግምጃ በሚያደርግ ሰው").
+entry(ፋርሚንግ, ነ, [ፋርሚንግስ], "ከጂን አሻሪዎች የሆኑ ተካኙን ዕፅዋት ወይም እንስሳት መጠቀም በሚደረግ የፋርማሪ ንብረት ትርፍ").
+entry(ፋሮስ, ን, [ፋሮሶች], "ባህር አለቃዎችን ለማስረጃ ላምጣማ ወይም መምሪያ ምሽግ").
+entry(ዳማም, ኒ, [ዳማማት], "ወይም ዳማማዎች የማህጸን ጉምሩ").
+entry(መደምሰስ, v, [የተደመሰሰ, መደምሰስ, ደራሽ], "ዕቅድ ማውጣት ወይም ማካሄድ በዝግታ አንዳንድ ደረጃ የልምድ ሂደት በደንብ ለተደሰተ ደረጃ ወቅት ወይም ዝግታ እ.ኤ.አ እ.ኤ.መ. የማዘንጋቸው የትካት አለት በአዎን ቅጥቅጣ ቺም የአፕሎዶማ ይጨነላል").
+entry(phaseout, n, [ማቋረጫዎች], "ቀስ በቀስ የስራዎች ማቋረጥ").
+entry(phaser, n, [መፍረሻዎች], "የታሪክን የምርምር ዐይነት ብልህ ያደርጋል").
+ግቤት(phasis, n, [phases], "የፌዝ").
+እትም(phasmid, n, [phasmids], "ከትፍ ነቢር").
+entry(phat, adj, [], "በጣም ደስ የሚል እጅግ ደስ የሚል").
+entry(phatic, adj, [], "ስሜቶችን ማካፈል እንጂ አይደንን መካፈል አይደለም").
+መግቢያ(ጐጭ, ነ, [ጐጮች], "ትልቅ ረጅም ጅርባ ያለው ወፍ").
+entry(phellem, n, [phellems], "የእንግዴሞመድ ላይ እንግዴ የዕፅንት ህዋሳት ክፍል").
+entry(phelonia, npl, [], "የተምህር ልብስ").
+entry(ፊቴነት, ን, [ፊቴነቶች], "የካርቦሊክ አሲድ ጨው").
+entry(ፌነዚን, ነ, [ፌነዚኖች], "አንድ ኬሚካል ውህነት").
+entry(ፈነቲክ, ዓ/ማ, [], "ወደ አንድ ዓይነት የተመደበ ስርዓት የሚገኝ").
+entry(ፈኔቶል, n, [ፈኔቶሎች], "የሚበላሽ ፈሳሽ").
+entry(ፊኒክስ, n, [ፊኒክስ], "ፊኒክስ").
+entry(ፈኖል, ነ, [ፈኖሎች], "ድንጋይ መደበቅ ያለ ንጥረ ነገር").
+entry(ፌኖሊክ, ነ, [ፌኖሊክስ], "አሰማያዊ ረዘም").
+entry(phenom, n, [phenoms], "በጌጃ ዕውቀት ወይም እያማረነት የሚታይ ሰው").
+entry(ፈኖክሲ, ግምጃ, [], "ከፈኖል የመጣ ራዲካል ያካተተ").
+entry(ፊኒል, ነ, [ፊኒሎች], "የሀይምልቃዊ መሳይ ጀጋኑ፣ የፊኒሊክ ግራኝ").
+entry(ፈረሲስ, ን, [ፈረሲስ], "የደም ምታት ከሰዎች ማሽነኛውን እንደሆነ የምናውቀውን አካል ማስወገድ እና ከዛ ቀሪ ወደ በይን መመለስ").
+ፊልታ(phew, ውጤት መንደር, [], "ማመስገን ድካም ወይም ጥሻ ለማምል የተጠቀመ").
+ማስገቢያ(phi, n, [phis], "የግሪክ ፊደል").
+entry(phial, n, [phials], "የኮምፓት ማድረጊያ").
+entry(philabeg, n, [philabegs], "ፊሊበግ").
+entry(philibeg, n, [philibegs], "ፊሊቤግ").
+እትም(philomel, ስ, [philomels], "የሙዚቃ ወፍ").
+እንቀሳቀስ(entry(philter, v, [philtered, philtering, philters], "የፍቅር ምርኮን ማሳደን")).
+እትም(philtre, v, [philtred,philtring,philtres], "የምሳይ መጠጥ መስማር ማድረግ") .
+entry(ፊልትረም, ነ, [ፊልትራ], "በከፍተኛ ከንፈርና ከአፍንጫ መካከል ያለው ጥፍር").
+entry(ፊሞሲስ, አፍ, [ፊሞሶች], "የከዳ ar የቀዶ ተፈታትነ አለመለፈሱPHIMOTIC adj").
+entry(phish, v, [አጋሹ,እየታጋለ ነው,አጋሾች], "የፊሽ ድርጊት ፈጽሞ ተሳትፎ መውሰድ").
+ፈሊሻ ደንበኞች አንድ ሐሳብ ፈላፊ.
+entry(phishing, n, [phishings], "በኢሜል ሰልክ የማንነት ገንጠል በመጠቀም የሰዎች የግል መረጃ ማርካት በሙሉ ቀናተኛ አፍቃሪ እንክብካቤ ተቀኝነት ነው").
+entry(phiz, n, [phizes], "ፊት ወይም የፊት መገለጫ").
+entry(phizz, n, [phizzes], "ፊዝ").
+እትም(phlegm, ነ, [phlegms], "የቆዳ ክፍተቶች ውስጥ የሚሰነጠቀ ጠንካራ ሙቀስ")
+እትም(phlegmy, ግምባር, [], "ሽንኩርትን የሚመስል").
+መግቢያ(phloem, ሰ, [phloems], "የተለያዩ የተከላከለ ዕፅብ ጋዜጣ፣ዝሆን").
+ፈልቀ: ግቤ(principal, ዐ, [ዐመፈል ፈልቀ:ህየ], "አንዲአለናገዲ ፍወት").
+entry(ፎ, ነ, [ፎስ], "የቫይትናም ምግብ ዕምብል ከሩዝ ሱቅል እና አትክልቶች").
+entry(ፎቢያ, ነ, [ፎቢያዎች], "አስቀድሞ ወይም ያልተገነዘበ ፍርሃት").
+entry(phobic, n, [phobics], "ፎቢያዎች ያሉት").
+መግቢያ(phocine, ዘ, [], "ማንኛውም አይነት ማሳ").
+Prolog:  entry(ፎቢ, ነ, [ፎቢዎች], "ትንሽ ወፍ").
+እትም(ፎቤስ, ስ, [ፎቤስስ], "ፀሐይ").
+entry(ፎኒክስ, ድ, [ፎኒክሶች], "ፈተንዋ ወፍ").
+entry(ቶን, ነ, [ቶኖች], "የጮክ አንድነት").
+entry(phonal, adj, [], "ወደ ንግግር የሚገናኝ ድምጽ").
+entry(ተናገረ, ግ, [ነጋገረ,ነጋገራለ,ነጋገር], "የንግግር ድምጽ ማፍላት").
+እትም(phone, v, [phoned,phoning,phones], "ለቴሌፈሶን መደወል").
+entry(ፎንሜም, ነ, [ፎንሜሞች], "የንግግርን ክፍል አንድነት። ፎንሜም። ተመሳሳይ ቃኙ።").
+entry(phoner, n, [እርሳስተር], "ከስልኩ ላይ የሚደውል ሰው").
+ፊደል(ድምጽ ሰላም, አመልማላሊ, [], "ከንባቡ ድምጽ አካላዊ ቅጥዬዎች").
+የመግቢያ(ፎኔይ, ቅድመ ሀረግ, [], "ይልቁንም ፎኔስት ፎኔይ").
+entry(ፎኒ, ግ, [ፎኒያል,ፎኒይንግ,ፎኒስ], "መዋሸት").
+entry(ድምጽ, ቅዳሜ, [], "የድምጽ ባህሪ የሚያመለክት").
+entry(ፎኒክስ, ብዛት ስም, [], "የጤና ሳይንስ").
+entry(phonied, past, [], "phony ን ያመለከተ ጊዜ").
+entry(phonier, comparative, [], "የ phoney እና phony").
+entry(phonies, present, [], "ሶስተኛ ሰው ተኛ እንደ phony ይገኛል").
+entry(በጣም ውሸታም, ከፍተኛ, [], "የ ውሸታም እና ውሸታም ከ").
+entry(phonily, ቃል አጋራ, [], "በተዋሳኝ ሁኔታ").
+መግቢያ(ስልክ መደወል, አሁን, [], "የስልክ መደወል ክፍለ ነገር").
+መዝገበ-አልታፍ(phono, ነ, [phonos], "ድምጽ መጨዋጫ።").
+entry(ፎኖን, ነ, [ፎኖንስ], "አንድ ቋንቋዊ የመታወቂያ ኃይል ነት").
+እንትርይ(ፎኒ, ትምህርተ-ምግባር, [], "ልባም ይልባም የተባላቸው፣ እውነት ያልሆኑ ወይም እውነተኛ ያልሆኑ").
+entry(ሀሰተኛ, ግ, [ሀሰተዋል,ሀሰታው,ሀሰቶች], "እውነተኛ እንደሆነ ለማሳየት ለመቀየር").
+entry(ፉይ, እምብርት, [], "በጥላቻ ወይም ቅሸት ሲነሱ የሚጠቀመው ንግግር").
+entry(phorate, n, [ፎሬት], "ቀንዲበት").
+መግቢያ(phoresy, ነ, [phoresies], "ከአንዳንድ ምርጥዕ ኮሊኮዓዊያን እና ከዓሣዎች መካከል በሚኖር ተመሳሳይ አላማ ያላቸው ግንኙነት፤ በላላ ያለ አለመፈክር እና ቢዛብም አነጋግሮች").
+entry(phoronid, n, [phoronids], "የባህር ትምህርተኛ እንስሳ፣ ዝምብ እንሰሳ ይመስላል።").
+entry(ፎስጄን, ነ, [ፎስጄንስ], "አልህጋ").
+entry(ፎስፊድ, ነ, [ፎስፊዶች], "የመሳሰሉ ንጥረ ነገሮች").
+መግቢያ(ፎስፊን, ነ, [ፎስፊኖች], "አልቁዕ ጋዝ").
+entry(ፎስፎር, n, [ፎስፎርዎች], "ቢሆን ብርሃን የሚሰጥ ነገር ተጋብዘ በራዲያሽን").
+እትም(ፎት, ን, [ፎቶች], "የብርሃን ክፍል").
+መግቢያ(ቾቲክ, ዐመጾ, [], "ጋር የተያያዘ ቢሆን").
+ቀልድ(ፎቲክስ, ብዝሀት, [], "የብርሃን ሳይንስ").
+entry(ፎቶንዮ, ነ, [ፎቶንዮች], "አማራጭ የዋና ክፍል ነጥብ").
+entry(photo, v, [ፎቶአደረገ,ፎቶእየሰራ,ፎቶዎች], "ለማንሳቱ ፎቶ").
+entry(ፎቶግራፈር, ን, [ፎቶግራፈሮች], "ፎቶ የሚያንስ").
+entry(photomap, v, [photomapped,photomapping,photomaps], "የአየር ፎቶግራፊ በኩል ማፅቀር").
+እትም(photon, ስም, [photons], "ቅድሚያህዊ ደረቅPHOTONIC adj").
+entry(ፎቶፒያ, በ, [ፎቶፒያዎች], "ብሩህ ብርሃን ውስጥ ራእይ፣ ፎቶፒክ ተዋሕዶ").
+entry(photoset, v, [photoset, photosetting, photosets], "በፎቶግራፊ አማራጭ ለማቅረብ መነሻነት").
+entry(phpht, interj, [], "ፍት").
+ውስጥ_ግቢ(ሕቶ፣ ዐርብ፣ []፣ "ለሁለት ወይም ከሁለት በላይ የተያያዘ ቃላት የሚዛር ነጠላ የሚሰኝ").
+ֆሪ ዘመነዉ(phrase, v, [phrased,phrasing,phrases], "በቃላት ማቀላጠፍ").
+entry(phrasing, n, [ነገር ሁኔታዎች], "አንግላዊ ገለፃ አካላ").
+entry(phratry, n, [phratries], "መነከር ወላኤ በጥንታዊ ሰዎች ዘንድ አንድ የነገድ ክፍል፣ ቅዋም የሚል").
+entry(phreak, v, [phreaked,phreaking,phreaks], "የከፍለን ስልክ አገልግሎትን ማግኙአት እና መነካክያዊ ምዕነት ለመተው ዓመፅ ግኝ").
+ይግባ(phreaker, ን, [phreakers], "አንዱ ይትሪኦ ያንነ").
+entry(phreatic, ቅዋም, [], "ለመሬት በታች ውሃ የሚመለከት").
+entry(phrenic, adj, [], "ከአእምሮ ጋር የተያያዘ").
+entry(ብርድምርድ, ግ, [ተበርደምረደ, ተበርድምርደኝ, በርደምርዳይ], "ማበስል").
+entry(pht, interj, [], "በቀላሉ የተያዘነት ወይም የተሳነሀት ምላሽ አሸበር ማለት").
+entry(phthalic, adj, [], "ከአንድ ዓይነት አሲድ ጋር የተያያዘ").
+entry(ፍታሊን, ነ, [ፍታሊኖች], "አንድ የኬሚካል ውህድ").
+entry(phthisic, n, [የመታነት], "የመታነት").
+entry(ትህሳስ, ነ, [ትህሳሰስ], "የሳንባ በሽታ").
+በፕሮሎግ፡ entry(phut, n, [phuts], "ደደብ ድምፅ ያለ አዝናኝ ድምፅ").
+entry(ፋይላ, ብል, [], "የፊሎን እና ፊልም").
+entry(phylae, pl, [], "የፍይል").
+entry(phylar, adj, [], "ወደ ቡድን የሚገኝ").
+entry(phylaxis, እን, [phylaxises], "ሰውነቱ በተወሰነ እንቅስቃሴ በሚረሱ ተዋሆች ከተያይዞች መከላከል").
+entry(phyle, n, [phylae], "የጥንታዊ ግሪክ የፖለቲካ ክፍልFHIR ገጽታ").
+(entry(phylesis, n, [phylesises], "ወይም ፉይሌሲስ የኢትዮጵያ እድገት እንደ ፍላሳ ጉርምና እድገት አበልፉ አክሲዮስ እ.ኤ.አ").)
+\entry(ፊላሪ, ሰ, [ፊላሪዎች], "የተወሰኑ እፅዋት ጥርስ፣ ተፈኪል").
+መግቢያ(ፊላይት, ነ, [ፊላይትስ], "በረቀቀ ድንጋይ").
+entry(phyllo, n, [ፊሎ], "በጣም ቀጭን መጋጣት ሳጥኑ").
+መግቢያ(ፊሎድ, ኤን, [ፊሎዶች], "የቅጠል ሥራ የሚሰራ የተጋረጠ እቃ").
+entry(phylloid, n, [phylloids], "የቅጠል ቅርስ ያለው የእፅዋት ክፍል").
+entry(phyllome, n, [phyllomes], "የእፅዋት ቅጠል").
+entry(phylon, n, [phyla], "በጄነቲክ ዝርያ የተያያዘ ቡድን").
+entry(phylum, n, [phyla], "በታክሶኖሚ ውስጥ የሚጠቀም").
+entry(ፍይሳሊስ, ነ, [ፍይሳሊሶች], "ብላጭ ቢል ቡናይ ሲታተም አስተካክሏል").
+entry(የአካል ትምህርት, ኃ, [የአካል ትምህርቶች], "ስነምግባር ትምህርት").
+entry(physes, pl, [], "የphysis").
+entry(ሐኪምነት, ግ, [ሐኪምነት አደረገ, ሐኪምነት አደርግ እያለ, ሐኪምነት], "በመድሃኒት መፈወስ").
+entry(አካላዊ, ን, [አካላውያን], "ሰውነት የህክምና ምርመራ").
+entry(ፊዚዮ, ን, [ፊዚዮዞች], "አካላዊ ሥልጠና ሰጭ").
+entry(የአካል አቀማመጥ, ነ, [የአካል አቀማመጦች], "አካል ቅርጽ ወይም መዋቅር").
+ውስጥ(physis, n, [physes], "በተፈጥሮ ውስጥ የማዕዘን ምርክሽ ወይም የለወጠ አሸአባጅ").
+entry(phytane, n, [ፋይታን], "የኬሚካል ውጤት").
+entry(phytin, n, [phytins], "ካሊሲያምማጅኒሲየም ጨው").
+ውህድ(phytoid, ጨምሮ የሆነ, [], "ተክልን የሚመስል").
+entry(phytol, n, [phytols], "አልኮሆል").
+entry(ፋይቶን, n, [ፋይቶኖች], "የአንድ እፅ መዋቅር ክፍል PHYTONIC adj").
+ውሳኔ(pi, n, [pis], "የግሪክ ፊደል") .
+פኣማርሄክ ከ- פרוgלול פ-ש-ת לא --
+```prolog
+entry(pi, v, [], "አረብ ወይም መጋጣት ማስተዋወቅ ወይም ማውደቅ መገለባበል").
+```
+እትም(pia, n, [pias], "የአንገት ሣገ");
+entry(piacular, adj, [], "የእኅል").
+entry(piaffe, v, [piaffed,piaffing,piaffes], "ፒያኤፈር ማካሄድ።").
+እትም(piaffer, ን, [piaffers], "በፈረሰኛት ያለ እንቅስቃሴ").
+የሚከተለው ነው ፕሮሎግ፦
+entry(pial, adj, [], "ለአንጓላ የሚያገናኝ").
+እትም(pian, ስ, [pians], "አንዱ ትሮፒካል ህመምPIANIC adj").
+entry(piani, npl, [], "ሙዚቃ ቀስ ብሎ የሚጫወት").
+entry(ፒያኒዝም, ን, [ፒያኒዝሞች], "በፒያኖ ላይ አፈርሶ መጫወት").
+ውሳኔ(ትምተኛ, ነ, [ትምተኞች], "በፒያኖ የሚጫወት አንድ ሰው").
+ውሂባዊ(ፒያኖ, ስ, [ፒያኖዎች], "የሙዚቃ መሳሪያ").
+entry(ፒያኖላ, ነ, [ፒያኖላዎች], "የእንቅስቃሴ ፒያኖ አይነት").
+entry(piasaba, n, [piasabas], "ፒያሳቫ").
+እንቁጥር(piasava, n, [piasavas], "piassava").
+entry(piassaba, n, [ፒያሳባስ], "ፒያሳቫ").
+entry(piassava, n, [ናፋቂ ሽፋሊፍታ], "አንደኛ ረጝም እግዝእት").
+መግቢያ(ፒያስተር, ን, [ፒያስተሮች], "የአረብ ሀገራት የገንዘብ አሃዝ").
+entry(piastre, n, [piastres], "ፒያስተር").
+እትም(piazza, ነ, [piazzas], "ወይም PIAZZEa በኢጣሊያ ከተማ ውስጥ የህዝብ አደባባይ").
+እትም(pibal, ነ, [pibals], "የነፋስ አቅጣጫ እና ፍጥነትን ለማወቅ የሚበልጥ አነስተኛ አሞሌ").
+entry(pibroch, n, [pibrochs], "በባግፓይፕ ላይ የተጫወተ የሙዚቃ ድምር").
+entry(pic, n, [pics], "ፎቶ").
+entry(pica, ነ, [picas], "እንኮረም ምግብ ለመመገብ ከነበረው ስሜት የወጣ እርሲ").
+entry(picacho, n, [picachos], "ከተራሮች ሃርም ተወላጅ ከፍታ").
+entry(ፒካዶር, ን, [ፒካዶርስ], "ወይም PICADORES፣ በቱርሲ ግራት ውስጥ የተጠቃለለ ጥማር በመንደሩ የውሻ ፈረሰኛ").
+ምግብ(picante, ግምጃ, [], "በቅዳሜ ሳስ የተዘጋጀ").
+entry(picara, n, [picaras], "ሴት picaro")。
+መግቢያ(picaro, n, [picaros], "አንድ እንግዳ").
+entry(picaroon, v, [picarooned,picarooning,picaroons], "የጐድና ወንበዴ መሆን").
+entry(ፒካዩን, n, [ፒካዩንስ], "የቀደመ የስፓኒሽ አሜሪካን ኮይን").
+entry(ፒካታ, ነ, [ፒካታስ], "ቶማቶን የቀተለ በመሰላልቅ የተዘጋጀ የድርብ ድርጭት ምግብ").
+መግቢያ(ስንቅልል, ስ, [ስንቅላልሎች], "አነስተኛ ፍሉት").
+፡entry(ፓይስ, ነ፣ [ፓይስ], "የቀድሞ የህንድ እና የፓኪስታን ብርቆሃ").
+entry(piceous, ግምጃ ስም, [], "በሰማያዊ ያሰማረ ተራ").
+በግራ የሚያዝቁ ጠቦት (entry(piciform, adj, [], "ወፎች ትዝታ ዘርፍ የተመለከተ ቃላ ቅድመ ንግግር")).
+መግቢያ(መምረጥ, ግ, [ተመርጧል, ምርጫ, ይመርጣል], "ማምረጥPICKABLE ተወዳጅ").
+entry(pickadil, n, [pickadils], "የተለያዩ ዓይነት አበል").
+እትም(pickax, ግ, [pickaxed,pickaxing,pickaxes], "አስቸጋሪ ወለል ለማግኘት የሚጠቀመው መሳሪያ መሰረት ማለት ነው")。
+entry(መቆረጥ, ግ, [ቆረጠ,ቆረጥ እያለ,ቆረጥ ያለ], "መቆረጥ").
+entry(ፒክኢር, ግ, [ፒክኢርድ,ፒክኢሪንግ,ፒክኢርስ], "የጦር ጉዞ በፊት ጥቃት ማድረግ").
+መግቢያ(አንሾራ, ን, [አንሾራዎች], "የሚንካብ").
+መግቢያ(ነሐሴ፣ ነ፣ [ነሐሴዎች]፣ "የመሬት ውሃ ዓሣ")።
+entry(picket, ግ, [picketed,picketing,pickets], "በአንድ ቦታ አካባቢ ቆሞ የምናውቆትን ችግር ለመጋራት ማስታወቂያ አስቡ የተመለከተ ቃል").
+እትም(ምልከተኛ, ና, [ምልከተኞች], "የሚምልከት አንድ").
+entry(ቀናጭ, ንፅፅር, [], "ከቀናጭ").
+መግቢያ(በጣም ምርጫ ያለው, በእጩ መጠን, [], "ከበጣም ምርጫ ያለው").
+entry(picking, n, [pickings], "እንኪ ይዞ በፈላ ያደረገው ጉዳይ").
+entry(pickle, v, [pickled,pickling,pickles], "ውሃ ወይም አረሞ አፈጣጣሪ ውስጥ ማህበረሰባዊ ወይም እንክን ቴክስት ማዝነብ").
+መግቢያ(አቁማሪ, ነ, [አቁማሮች], "ለማቃኘት የሚሆን አትክልት ወይም ፍራፍሬ ነው")።
+entry(picklock, n, [picklocks], "ቁልፍ ለመክፈት የሚጠቀም መሳሪያ").
+እቤት(መወርወር, ን, [እድጃዎች], "በበዝና ውስጥ እንደግምት").
+entry(አነስተኛ የአቡይ መኪና, ሰ, [አነስተኛ የአቡይ መኪናዎች], "አነስተኛ የአበይ ሰሌዳ").
+ፕሮሎግ:
+entry(pickwick, n, [pickwicks], "የእርዘርዛታ መፍጫ እቃ በዘይት መብራቶች")
+entry(picky, adj, [], "እጅግ መጣለህ መጣለህ።").
+ፒክሎራም, ን, [ፒክሎራሞች], "ሐረግ ድርቂያ"
+መግቢያ(ፒክኒክ, ግ, [ፒክኒክክድ, ፒክኒክንግ, ፒክኒክስ], "መበስበሳ ወይንም ከስጋ ጋር የተዘጋጀ አካባቢ መገናኘት").
+entry(picnicky, ድምር, [], "ከፒክኒክ ጋር የተያያዘ").
+entry(ፒኮግራም, ነ, [ፒኮግራሞች], "አንድ ትሪሊዮንድ ኦፍ አ ግራም").
+entry(picolin, n, [picolins], "ፒኮሊን").
+መግቢያ(picoline, ነ, [picolines], "አንድ ኬሚካላዊ ንዑስ").
+እትም(picomole, ነ, [picomoles], "አንደኛ ትሪሊየን የmole").
+እትራንስሌት(entry(picot, v, [picoted, picoting, picots], "በድንበር ማምላክ ጋር የተነከረ")).
+እትም(picotee, n, [picotees], "የራካዪ አይነት").
+እትም(picowave, ግ, [picowaved,picowaving,picowaves], "ምግብን በጋማ ተሞገስ ማጥለል")።
+entry(picquet, n, [picquets], "ፒኬት").
+ፒክሬት ግቤት ፣ ነ ፣ [ፒክሬቶች] ፣ "የኬሚካል ጨውፔክሬትስ አድጅ" ።
+መግቢያ(picric, ቅጥ, [], "እጅግ መራራ ጣዕም ያለው").
+entry(picrite, n, [ፒክራይትስ], "አንድ የእሳት ድንጋይ፣ ፒክሪቲክ አድጅ").
+entry(ስእል, ግ, [የተመሰለ, መስልአ, ምስሎች], "ምስል ማድረግ").
+entry(picul, ና, [piculs], "የእስያ ክብደት መለኪያ").
+እትም(piddle, ግ, [piddled,piddling,piddles], "ጊዜ ማዝነን").
+entry(piddler, ን, [piddlers], "የተነከለ ነገር ማድረግ").
+entry(ፍቱል, ግም, [], "ዋነት ያለበት").
+entry(ፒዶክ, ነ, [ፒዶኮች], "የሁለት ቍንጭ ጠቦት").
+entry(ፒድጅን, ነ, [ፒድጅንስ], "የተፈለገ ቋንቋ").
+entry(እንጀራ, ግ, [መእንጀራ,እንጀራየ,እንጀራዎች], "መእንጀራ").
+entry(piebald, n, [ሰነፍጨለማ], "አነጠር እንስሳ").
+entry(piece, v, [እቃውን, ማጋራት, እቃዎች], "በአንድነት ማቀፍ").
+entry(piecer, n, [ድርቆሜዎች], "አንድ የየዳረ ሠሪ").
+entry(piecing, n, [piecings], "ለማላበስ የሚሠራ እቃ").
+entry(piecrust, ን, [piecrusts], "በማለፊያ ያለው ቆራጭ").
+entry(አጉዳለሁ, ያለፈ ጊዜ, [], "እንጣፋጭ የአፈና ትንታኔ").
+entry(piedfort, n, [piedforts], "ፒድፎርት").
+ገቢ(ፒድሞንት, ን, [ፒድሞንቶች], "በተራራ መግርገሪ ላይ የሚገኝ አካባቢ").
+entry(piefort, n, [pieforts], "አልተለመደ ያልሆነ ወፍራም አርማ").
+እትም(piehole, ነ, [pieholes], "አፍ")።
+እትም(pieing, ን, [pieings], "እንኳኳውን በህዝብ ቅድሚያ ላይ ወዯፈር እነባለ").
+entry(ላጩር, ን, [ላጩሮች], "አካልባት ኦሮሞ").
+entry(መስቀል, ነ, [መስቀሎች], "ከመሬት ላይ እስከውሃ ድረስ የሚገኝ መዋባት").
+entry(pierce, v, [pierced,piercing,pierces], "መቀነስ ወይም መስባብ ወይም መልፋት").
+entry(ካፋም ማጡ ፡, n, [ካፋም ማጥያዎች], "የሚቀባል አንዱ").
+እትም(piercing, ነ, [piercings], "ለመዋሸጥ የመዋሸጥ ከመንጠል ውስጥ እንደ ተበታ የተጣለ የመዋይያ ጌጣፍ").
+ፖሮቢል፤(pierogi፣ ነ፣ [ባይሮጅ]፣ "እንደማስታንጋሪያ ተሞልቷል")።
+እትም(pierrot, n, [pierrots], "አነስተኛ መስኮት ሥራዊት").
+entry(pieta, n, [pietas], "በክርስቶስ አካል ላይ የሚለቀስ ድንግል ማርያምን የሚያሳይ ምሳሌ").
+entry(pieties, pl, [], "ከመሐሉ").
+ውርደት(ፒኢትክትም, ነ, [ፒኢትክክቴም], "መምሕራዊነት").
+ግቤት(ሃይማኖተኛ, ነ, [ሃይማኖተኞች], "በእምነት የተሰማሩ ሰው").
+እትም(piety, ን, [pieties], "ቅዱስ መሆን ያለው ጥምየት ወይም ሁኔታ").
+entry(piezo, adj, [], "ከአይነት ኤሌክትሪክ ጋር የሚያያዝ").
+ምእተው(piffle, ገምጋምተኛ, [piffled, piffling, piffles], "ዝቀይም መናገር").
+entry(piffler, ን, [pifflers], "ተነጫጫሪ").
+entry(ከርስ, ግ, [ከርሰ, ከርሳ ይገኛሉ, ከርስ], "ከርስ ያለ የጓሙና እጅ ላባዎችን ለማምጣት ያለው ግምር").
+entry(pigboat, n, [pigboats], "አሽክር መርከብ").
+እትርፍ(pigeon, ነ, [pigeons], "አንደኛ እግርባላይ ወፍ").
+entry(ፈርፍራ, ን, [ፈርፍራዎች], "ርግብ የሚኖርበት ቦታ").
+entry(pigfish, n, [pigfishes], "የባህር ዓሣ").
+entry(pigged, ያለፈ, [], "የአሳማ ጊዜ").
+መግቢያ(እራበሻ, ነ, [ምንዛሬዎች], "የአረሞ ቤት").
+እትም(ፒጊ, ስ, [ፒጊዎች], "ፒጊ").
+entry(piggier, ንጉሣዊ, [], "የ ፒጌቲ").
+entry(አጋዘንት, ብዙ, [], "አጋዘንት ውስጥ").
+entry(piggiest, superlative, [], "ከአስቀድሞ የጥቁርጥቁር እጽግነት አባል").
+entry(ፒጂን, አን, [ፒጊንስ], "ትንሽ የእንጨት ዕንቅፋት").
+entry(ማንቆሻ, አሁኑ, [], "የሬሳ ማንቆሻ").
+entry(piggish, አማራጭ, [], "ልንፍላፉ ወይም ቆሻሻ").
+entry(piggy, adj, [], "የአህያ ጋሻገል ይደጋጋል").
+entry(አህጉ, አ, [አህጉዎች], "ትንሽ ከርከሮ").
+entry(ኩልቁል, n, [ኩልቁሎች], "ትንሽ ከርከሮ").
+entry(piglike, ቅዳሜ, [], "እንደ እንስሳ ማሳየት").
+entry(ቀለም, ግ, [ቀለማል, ቀለምማር, ቀለማት], "ወደ አንድ ነገር ቀለም መጨመር").
+entry(ጠቦትት, ተ, [ጠቦቶች], "ተነሳ").
+entry(pignoli, n, [pignolis], "ፒኛሊያ").
+entry(pignolia, n, [የሶስሎኦች ቅንጡ], "የተነጠለ እንጀራ በዶኮ ውስጥ የሚገኝ").
+እትም(pignus, ነ, [pignora], "ዕቃ ዝምርተ እገዛ የተደረገ").
+entry(pignut, n, [ሽንኩርቻዎች], "የሽንኩርቻ ሩብ").
+እትም(pigout, ን, [pigouts], "በተጨማሪ መብላት ኣንሳቢው").
+entry(አህያግቢ, ነ, [አህያግቢዎች], "በአህያ የሚጠበቅ ቦታ").
+በመግባት(pigskin, ን, [pigskins], "የአህያ ቆዳ").
+ቀጥል(አሽክር, ነ, [አሽክሮች], "አንተ ውዴ").
+እትም(pigstick, v, [pigsticked,pigsticking,pigsticks], "የዱር አሬድ መነሻ ማውረድ ማለት ነው").
+entry(የአህያ አትክልት, ን, [የአህያ መኝታዎች], "የአህያ ግቢ").
+ማስገቢያ(ጭርቆሮብኛ, ን, [ጭርቆሮብኛዎች], "ቆሻሻ እርምጃ የተደረገ ጸጉር").
+መግቢያ(ሽልካል, ስ, [ሽልካሎች], "አታላሊ እፅዋት").
+entry(piing, a, [], "pi ን በእርምረም ዞር").
+entry(pika, n, [pikas], "አነስተኛ እንስሳ")
+ፍቺ(pikake, አር, [pikakes], "የምሥራቅ ኢንድያ ተአምራች").
+entry(ፓይክ, ግ, [ፓይክድ,ፓይክኢንግ,ፓይክስ], "ረገጣም ጦር ጋር ማቆም").
+entry(አመፀኛ, ን, [አመፀኞች], "በችግኝ የተያዘ ወታደር").
+entry(ፒካር, ነ, [ፒክሮች], "ቆንጆ ሰው").
+ፍትሕ(piki, n, [pikis], "አጫጭመኛ ሰማያዊ የበቆሎ ዳቦ").
+entry(ፒኪንግ, አሁን, [], "የፒክ ተምሳሌት").
+እትም(pilaf, n, [pilafs], "በቅመም እና በደጋራ አብሻይ የተሰራ የአሳም ምግብ").
+entry(ፒላፍ, ተ.ዓ., [ፒላፎች], "ፒላፍ").
+entry(pilar, adj, [], "የጸጉር ስለ").
+አስግባ(pilaster, ነ, [pilasters], "አራት ጎን ያለው እቃ").
+entry(ፒላው, ን, [ፒላዎች], "ፒላፍ").
+entry(ፒላፍ, ነ, [ፒላፎች], "ፒላፍ").
+entry(ማርማር, ን, [ማርማሮች], "ትንሽ የባህር አሳ").
+entry(አድራጊ, ግ, [አድረገ,አድራግ እያለ አርግ,አድሮጊዎች], "አንዱን በሌላ ላይ ማስቀመጥ").
+entry(pilea, pl, [], "ከ pileum").
+entry(pileate, ግምጃ, [], " pileus ያለው").
+መዝግብ(pileated, ግምባር, [], "pileate").
+እንቅስቃሴ(ተጒዳዝ, ያለፈ, [], "የ pile ጊዜ").
+ፋይል(pilei, ብዛት, [], "of pileus").
+ውስጥ(በሙሉ, አድ, [], "የጨው ወለል የለውም").
+entry(ፀጉራማ, ግምፅ, [], "ፒሎስ").
+entry(pileum, n, [pilea], "የወፍ ራስ አናት").
+ፋይል(ፋይልጠቃሚ, ነ, [ፋይሎች], "አንዳንድ የተደላደለ የመኪና ግጭት").
+ውህደት(ላምበላ, ነ, [ላምበልዎች], "እንቁላል ያለው ክፍል እንደፍጅ").
+entry(መድኃኒት አስፈላጊ አትክልት, ና, [አስፈላጊ አትክልቶች], "መድኃኒት አትክልት").
+```
+entry(ሌባ, ግ, [ሌበደ,ሌብ ብሎ,ሌቦች], "መሰረት").
+```
+entry(ሌባ, ተ, [ሌቦች], "ሌላ የሚሰርቀው").
+entry(ግዚዝ, ግ, [የገዘዘች, መግዞት, ግዜያዎች], "ለሃይማኖታዊ ምክንያቶች ወደ ቅዱስ ቦታ መጓዝ").
+መግቢያ(pili, ን, [pilis], "አንድ ፊሊፒን ዛፍ").
+entry(ፒሊፎርም, ቅዳሴ, [], "ፀጉርን የሚመስል").
+entry(ቀበሌ, ነ, [ቀበሎች], "ንዋይ ደጋፊዎች መዋቅር").
+entry(ካርታ, ግ, [የተካረተ, ለመመስከር, ካርታዎች], "መድሃኒትም ካርታዎችን ከማንነት በማከማቸት መጠንቀቅ").
+entry(ዘረፈ, ግ, [ዘረፉ,ዘረፍ በርሆ,ዘረፋል], "ማንደራግ").
+entry(በዘላኛ, ና, [በዘላኞች], "የሚዘል አንዱ").
+እንቅስቃሴ(ቀረጥ, ግ, [ተደጋች,እያቀረፈ,አምሉ], "ሀብቶች የሚስረዘምብ መደጎዝ ዕርጋቶች መስጠት").
+entry(pillbox, ኒ, [pillboxes], "እንስሳ መከላከያ ቦይሐውዊነት").
+entry(pillbug, n, [pillbugs], "ወድን አልቃም አንተኛ፣ እንደ ኳስ የሚጠቐን የእንጨት ድንጋይ").
+entry(pillion, n, [pillions], "በፈረስ ወይም በሞተርሳይክል ላይ ተጨማሪ ተሽከርካሪ ለማስቀመጥ ተመላሽ ወይም ምንኪያ").
+መግቢያ(ሀላፊት, ነ, [ሀላፊቶች], "ደነዝ ሰው").
+entry(ዕጣን, ግ, [ዕጣነ,ዕጣነት,ዕጣናት], "ለማስቐረብ እና ለማጥፋት እንዲጠቀም").
+entry(ድርብ, v, [ድረበ, ድርቦች, ድርብና], "ራስን የሚያስቴን ቁርንጭሮ ላይ መዝረፍ").
+entry(pillowy, adj, [], "ወለሉ የሚመስል ወለል ያለ").
+entry(pilose, adj, [], "ጠጉር ያለው").
+መግቢያ(ጽኑሽነት, ና, [ጽኑሽነቶች], "ጽኑነተኝነት ሆኖ ያለ ሁኔታ").
+እትም(አብራሪ, ግ, [አበረረ,አበረሩት,አብራራን], "አቅጣጫ መቆጣጠር").
+entry(አንዳች ማሽከርከር, ን, [አንዳች ማሽከርከሮች], "አንዳች ማሽከርከር ድርጊት").
+entry(የአውሮነበር ማስተዳደር, ነ, [የአውሮነበር ማስተዳደሮች], "አንድ ክፍለ የአውሮነበር ማውራጃ ይዞአንና አረገነቀ ነገጽሮ").
+ቀመር(የቆዳ ጠራር, ግምጃ, [], "ጨፋጨፊ").
+entry(ፒልሰነር, ነ, [ፒልሰኔርስ], "ፒልሰነር").
+entry(ፒልዝነር, በ, [ፒልዝነርስ], "ቀላል ቢየር").
+entry(pilule, n, [እርዳታዎች], "አነስተኛ እርዳታPILULAR adj").
+entry(pilus, n, [pili], "ጸጉር ወይም ሽረ ገመድ ያለው መዋቅር").
+entry(pily, adj, [], "ለዋሾ የሆኑ ብዙ ዝግመታማ የታሪካዊ ምልክት ዲዛይኖች የተከፋፈሉ").
+Զբիբերզիբեր(pima, አ, [ቴ ᐧጎ], "ጠንካራ የላቁ ከምጣ").
+እትም(pimento, ን, [pimentos], "pimiento").
+entry(ፒሚየንቶ, ነ, [ፒሚየንቶስ], "አንዱ የቅመሙ ፍሪ").
+entry(ወንድ-ሴራ፡ፈፅሞ፣ ግፅፍ፡ [ጉዳይ፣ መውረውረት፣ ወንድመስራች]፣ "ለአመንዝሯ ደንበኞችን ማግኘት")።
+እትም(pimping, ነ, [pimpings], "ቲያስምድርስ ለተቀጣሪ ወንውን ማሰባሰብ ሂደት").
+entry(ፊንዳ, ነ, [ፊንዳዎች], "የቆዳ የደም አንቀሳቃሽ መንፈሳት PIMPLED ግዥ").
+entry(pimply, adj, [], "ማጽበር በማጽበር የተሸፈነ").
+entry(pin, v, [pinned,pinning,pins], "በምታ ማጠፍ የቆሻሻ ረቂቀ ቀለበት መከለብ").
+entry(ፒና, ን, [ፒናስ], "አናናስ").
+entry(ፒኔፎር, ን, [ፒኔፎሮች], "የልጅ መታጠቢያ").
+እትም(pinang, ን, [pinangs], "የእፅዋት ዛፍ አይነት").
+entry(pinaster, n, [pinasters], "አንደኛ ዛፍ").
+entry(pinata, n, [pinatas], "መኮነንያን በመዝናኛ ጨዋታ የሚጠቀሙበት የሜክሲኮ ምልክት").
+እቆጣጠር(pinball, v, [pinballed,pinballing,pinballs], "ከአንድ ቦታ ወደ ሌላ በፈጣን ማንቀሳቀስ").
+መግቢያ(pinbone, n, [pinbones], "የወገብ አጥንት").
+entry(ጓርተኛ, ነ, [ጓርተኞች], "የጓርተኛ መሣሪያ ከሁለቱ መሰረታዊ ክፍሎች መጠያየቂያ አንዱ").
+መግቢያ(ጫነ, ግ, [ጫኑ, መጭነት, ይጭናሉ], "በሁለት ጎኖች ወይም ክፍሎች መካከል ማጭነት")
+entry(pinchbug, n, [pinchbugs], "ትልቅ ድርድር").
+ማስገቢያ(pincheck, n, [pinchecks], "አንድ ልብስ ንድፍ").
+እትም(pincher, ን, [pinchers], "አንድ ያለአዝነት").
+እትም(pincurl, ነ, [pincurls], "በመላጭ እቃ ዝግቶ ይዞ የተደረገ እትም").
+entry(pinder, n, [pinders], "የጎደለች ከብት የሚያዝ አገልግሎት የሚሰጥ አመራር ነበር።").
+entry(pindling, adj, [], "ደካማ ወይም የታነሳ").
+እትም(pine, ግ, [pined,pining,pines], "ሥቃይ ያለበሰ ማፍራት").
+entry(ፒኒያል, ነ, [ፒኒያሎች], "በውስጥ ቤረኔ የተገኘው ገላንድ አካል").
+entry(የግምብላገነ ፍሬ, አር, [የግምብላገነ ፍሬዎች], "የግምብላገነ ዛፍ የጥርስቀመጣ ፍሬ").
+entry(pined, past, [], "የ pine ጊዜ").
+ማስገቢያ(ፒነላንድ, ኤን, [ፒነላንድስ], "በማርከው ተሸፋፊ ጀርመን መሬት").
+entry(pinelike, adj, [], "ወደ ዝንብር የምሰል የዘለላ ዛፍ").
+entry(ፒነነ, ነ, [ፒነነስ], "የቱርፒንታይን ዋነኛ አካል").
+entry(ፓይነሪ, ነ, [ፓይነሪዎች], "ፓይነፕል የሚገኙበት ቦታ").
+እትም(pinesap, ን, [pinesaps], "አፍታ ያለ ምግቢያት").
+entry(የሶምበር ዱባዎች ተክል አርፍር, እ, [የዶባው አክሊል], "የሶምበር ዱባዎች ተክል አክሊል፣ ፒኒየም፡").
+entry(ሶስነ-ዕንድሮ, ናፍቆት, [ሶስነ-ዕንድሮች], "የሶስን ዕንድሮ ዕንድሮ").
+entry(piney, adj, [], "አንጣቢ በጣም አንጣቢ").
+entry(ፒንፊሽ, n, [ፒንፊሻት], "አነስተኛ የባህር አሳ").
+entry(pinfold, v, [pinfolded, pinfolding, pinfolds], "እንስሳት ተነከር እንዲሆን ወደ መከልብ መጭመቅ").
+እትውል(ping, ግ, [pinged, pinging, pings], "ከፍተኛ ድምፅ ያላቸው ድምፆችን ማፍላት")።
+entry(pinger, n, [ፒንጀርስ], "የገፅፎ ድምቀት ማመንጫ መሣሪያ").
+እትም(pingo, ስም, [pingos], "ወይም PINGOES በማህደር ውስጥ ያለው ብርቅ በመበቆል ተነሥቷል የዐራይ ከበሮ").
+entry(ፒንግራስ, ና, [ፒንግራሰስ], "አንድ የአውሮፓ በሽታ").
+entry(pinguid, ቅዳሜ, [], "ስለጥ").
+እትም(pinhead, ነር, [pinheads], "እባክከ ራስ").
+entry(ፒን ቀዳዳ, ና, [ፒን ቀዳዶች], "በፒን የተሰራ ትንሽ ቀዳዳ").
+ግቤት(pinier, comparative, [], "ከ ሳሩ በላይ የሚያስታወስ").
+entry(piniest, ከማይገመት ይልቅ, [], "ከpiney እና piny").
+መውሰድ(ማይመርጥ, ወቅታዊ, [], "ማጓዝ አግድማጓዝ")
+እትም(pinion, v, [pinioned,pinioning,pinions], "የሚበርር እንዲነር የክንፍ ለጋዳን ማስወገድ ወይም ማስገንዝብ").
+entry(ፒናይት, ነ, [ፒናይቶች], "አንድ እንስሳ").
+entry(ፒኒቶል, ነ, [ፒኒቶሎች], "አልኮል").
+entry(ሐምራዊ, ስ, [], "ከፈንጅ ደም ያለ ቀለም").
+entry(ሐምራዊ, ግ, [ሆቀው, መኮል, ሐምራዊዎች], "በአፈርማማ ድንጋይ ዳል ላይ ማግላት").
+entry(ፒንከን, ግ, [ፒንከነው, ፒንከነት, ፒንከነዎች], "ሐምሌኛ ይሆናል").
+entry(pinker, n, [pinkers], "አንዱ የሚቀኛው").
+entry(ፒንኬይ, ና, [ፒንኬዎች], "ከተደባደበ የተቀነጠ ጣር ያለው መርከብ").
+entry(የዓይን ዝላይ, ነ, [የዓይን ዝላዮች], "የዓይን ነውር").
+entry(ፒንኪ, ን, [ፒንኪዎች], "ትንሽ አውራ ጣት").
+entry(pinking, n, [ጴንኪንግስ], "መቆረጥ ወይም መዋበር ዘዴ").
+entry(pinkish, ትንሽ ግዙፍ, [], "በአንድ ደረጃ ሮዝ ወይም ግራም ያለ").
+entry(ኮምር ቀለም ሳይል, ግስ, [], "በሮዝ ቀለም").
+entry(ግምጃ, ቃ, [ግምጃዎች], "በግም ማደርጎ ሁኔታ").
+entry(ፒንኮ, ነ, [ፒንኮዝ], "ወይም ፒንኮዶች የተወሰኑ የፖለቲካ አስቸጋሪ አስተያየቶች ያላቸው ሰዎች").
+እትም(pinkroot, ነ, [pinkroots], "የመድኃኒት ተኸላ").
+entry(pinky, adj, [], "ወይነ ምላጥ የሚያሳይ ቀለም አለዋይ").
+መግቢያ(pinless, ቅጥ, [], "እቶች የሌለው").
+ግቤት(ፒና, ን, [ፒናስ], "ወይም ፒነፈር መብረቅ ወይም ወይን ተመሳሳይ ክፍል").
+entry(ሰላምታሽ፣ ነ፣ [ሰላምታዎች]፣ "ትንሽ የእርዣ መርከብ ነው")።
+entry(መራቅ, ግ, [የተመራቀ,መራቅ እያለ,መራቆች], "እስመራቅ ላይ ማስቀመጥ").
+entry(ፒናል, የተያያዘ, [], "ለፒና ተያይዞ").
+entry(ፒኔት, ቅድመ ተንቀሳቃሽ, [], "ማምሳሌ ለአእምሮ").
+እኩል([(pinnated, aj, [], "pinnate")]).
+entry(pinned, ያለፈ, [], "ያለፈው ጊዜ የ pin").
+እትም(pinner, ነ, [pinners], "የሚያስር አንዱ").
+փնtrվ(փիննծ, փլ, [], "ընդ փիննվ").
+entry(ማሰር, የአሁኑ ጊዜ, [], "የ pin ክፍለ ቃል").
+entry(ሓሳብ, ሰ, [ሓሳብታት], "ሰማያዊ ማህበረት ማህበር ያለው እንስሳ ነው").
+እንተይ(pinnula, ነ, [pinnulae], "pinnulePINNULAR ምስጠም").
+entry(ፒንዩል, ስ, [ፒንዩሎች], "የመዋቅር ክፍል ወይም ኦርጋን").
+ግቤት(ፒኒ, ብ, [ፒኒዎች], "አንደሻር ቀሚስ").
+entry(pinochle, n, [pinochles], "የኮርታ ጨዋታ").
+እትም(pinocle, ን, [pinocles], "pinochle").
+እትም(pinole, ን, [pinoles], "በጥልቅ አፈር").
+entry(pinon, n, [pinons], "ወይም PINONES የጥርስ ዛፍ").
+እትም(pinot, ነ, [pinots], "ቀይ ወይን ወይም ነጭ ወይን").
+entry(ፒኖታጄ, ን, [ፒኖታጄስ], "የቀይ ወይን ያህል").
+entry(pinpoint, v, [ትክክለኛ ለማግኘት], "በትክክል ለማግኘት").
+entry(ቆሽለት, ግ, [ቆሽለተ, ይቆሽላል, ቆሽለቶች], "ማመርታረቅ").
+entry(pinscher, n, [pinschers], "ትልቅ እንጭራ ያለው ውሻ").
+entry(pinspot, n, [pinspots], "አነስተኛ ኃይለኛ ስፖትላይት").
+መግቢያ(ፒንት፣ ነ፣ [ፒንቶች]፣ "የፈሳሽና ደረቅ መጠን መለኪያ")።
+entry(pinta, n, [pinta ዎች], "የቆዳ በሽታ").
+entry(pintada, n, [pintadas], "ቀለም ያለው").
+entry(ፒንታዶ, ነ, [ፒንታዶስ], "ወይም PINTADOES ትልቅ የምግብ ዓሣ").
+entry(አረንዋይ, ን, [አረንዋዮች], "ወንዝ ዳክይት").
+entry(pintano, n, [pintanos], "አንድ ከፍታማ ዓሣ").
+entry(ፒንትል, ነ, [ፒንትሎች], "አንድ ነገር የሚሽከረከርበት አጠላ").
+መግቢያ(pinto, ን, [pintos], "ወይም PINTOES ነጭምሽግተ ፈረስ")।
+entry(pintsize, ግምፅ, [], "ትንሽ").
+entry(ፒንቴክ, ነ, [ፒንቴኮች], "በጣም ዝቅተኛ የጨርቅ ክተት").
+እትም(pinup, ን, [pinups], "በግንብ ላይ ሊጠገብ የሚችል ስዕል")።
+entry(pinwale, n, [pinwales], "አንድ ዓይነት አቀርባብ").
+እንቆቅልሽ(ፒንዊድ, n, [ፒንዊድስ], "በዘመኑ የሚጸግ ዕፅ").
+እቅፍ(ፒንዊል, ግፋ, [ፒንዊልድ, ፒንዊሊንግ, ፒንዊሎች], "በቅርንጫፍ መጨርሷ ላይ መብረር።").
+entry(pinwork, n, [pinworks], "የማህደር አይነት").
+entry(pinworm, n, [pinworms], "የማእድ ትርጉም").
+entry(piny, adj, [], "በእንጨት ዛፍ የተሰራ፣ እንጨት ዛፍ ያለበት ወይም እንጨት ዛፍ ይዘልቅ").
+መግቢያ(ፒንይን, n, [ፒንይንስ], "ቻይንኛ አማራጭ በማግኚያ ሥርዓት").
+entry(ፒንዮን, ነ, [ፒንዮንስ], "ፒንኦን").
+እንትሪ(piolet, n, [piolets], "የበረዶ ምሰር").
+entry(pion, n, [pions], "ንዑስ ውህድ ንጥል፣ PIONIC ተዋነ ቃል").
+entry(ፓዮነር, ግ, [ፓዮንረዳ,ፓዮነሪንግ,ፓዮንረርስ], "በመጀመሪያዎቹ ተሳቶ ማካተት").
+entry(piosity, n, [piosities], "ጽኑ ቅዱሳና የእናትነት መግለጫ").
+entry(pious, adj, [], "ሀይማኖታዊ ክብር የሚያሳይ ፑሮስሊ ተውሪTRULY adv").
+entry(pip, v, [pipped,pipping,pips], "ማህበረሰው ማሰብ").
+መግቢያ(ፒፓ, ብ, [ፒፓስ], "አራት-ሸራሽ Chinese lute").
+entry(ፒፔጅ, ነ, [ፒፔጆች], "የቧንቧ ስርዓት").
+entry(ፒፓል, ነ, [ፒፓሎች], "የህንድ የበለስ ዛፍ").
+ዉስጥ(pipe, v, [piped,piping,pipes], "በአንድ ታጋዘ ሙሌት በማስተላለፍ ማሳሰራት").
+ፍቺ(pipeage, n, [pipeages], "pipage").
+አልፈሰለ፣ደቂቃዊ፡(በግፍግፍ፡ፍትህ)፣[መስንጠፍ፣መማህሪም፣መዘፈዘፍ]፣"ቋሙ፣ጓንቅም፣ጠትምውጣት፡ጥም".
+መግቢያ(አውዋልያውል, ን, [አውዋላው] , "አቦረሰላ").
+entry(pipeful, n, [pipefuls], "የቲልቁ ሽቃፍ መሙላት የሚችል መጠን").
+entry(ሳላዛራይ, የተዋህዶሽ, [], "በዛራይ ላይ የሌለው").
+entry(የምሰር ዓይነት, አድስት, [], "ምስርን የሚመስል").
+ውሎ(pipeline, v, [pipelined,pipelining,pipelines], "በተለካከ መስመር መተላለፍ").
+entry(piper, n, [pipers], "በቱቦ የሚጫወተው ሰው").
+entry(ፒፐሪን, ነ, [ፒፐሪኖች], "የኬሚካል ውህድ").
+መግቢያ(pipestem, n, [pipestems], "የፊኮኛ ስመፍርጊያ").
+እትም(pipet, ግ, [pipetted,pipetting,pipets], "በፒፔት ማስቀመጣለም").
+entry(ፒፒቴት, ግ, [ፒፒቴት አደረገ, ፒፒቴት እየያዘ], "በካሊበረ ቱቦ ፍላጎት ለመዘነ").
+እትም(pipework, ስ, [pipeworks], "ነሐስ ሠርነ-ኃይል").
+entry(pipier, እሽረኛ, [], "የ pipy").
+entry(pipiest, superlative, [], "ከpipy የበለጠ").
+entry(pipiness, n, [pipinesses], "እንደ ባለሙሉነት መሆን ጥራት").
+entry(piping, n, [pipings], "የቧንቧ ሥርዓት").
+መግቢያ(pipingly, ግምጃችማዬ, [], "በስምዐዘ").
+እንትሪ(pipit, ነ, [pipits], "የመዝ songs ወፍ").
+entry(ፒፕኪን, ን, [ፒፕኪኖች], "አነስተኛ ምጋኔ").
+entry(pipless, adj, [], "አንኳር የሌለው").
+ውስጥ_ማስገባ(pipped, ያለፈ, [], "የ pip ጊዜ").
+እትም(pippin, ስ, [pippins], "ከተለያዩ ዓይነት አፕል መካከል የአንዱ").
+የሚሰቀል(pipping, አሁን፣ [], "የ pip ተሳትፎ ሥርዓት").
+entry(pipy, adj, [], "ቀላል PIPIESTshrill").
+እቍቅል(piquance, ን, [piquances], "piquancy").
+እታውሻ(piquancy, ሰ, [piquancies], "የሚያስደሳች ባህሪ").
+entry(ሚዛኒ, ትምህርት, [], "ጣዕም ያላቸው")
+entry(pique, v, [piqued,piquing,piques], "ቁጣ ወይም ፀላማ ማነሳት ዘንድ").
+entry(ፒከፕ፣ ነ፣ [ፒከፕስ]፣ "የካርታ ጨዋታ").
+ታይ፡ entry(ዝምድ), ን, [ዝምድራት], "ውቅያኖላዊ ዘረፋት"።
+entry(ፒራጓ, n, [ፒራጓዎች], "በእንጨት ላይ የተከፈለ የጀርባ ካሉበት በረዘም የጋርዳ").
+entry(ፒራና, ን, [ፒራናዎች], "ፒራንሃ").
+entry(ፒራነሽ, n, [ፒራነሶች], "አረም ዓሣ").
+entry(ፒራሩኩ, ን, [ፒራሩኩስ], "ትልቅ ምግብ አሳ").
+entry(ወጋሔ, ግ, [ገመዘነ, ወገመዘነ, ዋገመዘነች], "ወጋሔነትን ማድረግ").
+መግቢያ(piratic, ግምጃ, [], "ለድል የሚያገኙ").
+entry(ፒራያ, ን, [ፒራያስ], "ፒራና").
+entry(piriform, ቅጥዒ, [], "pyriform").
+ምድብ(ሰፊ, ስ, [ሰፎች], "የእዝር ክብ").
+entry(pirog, n, [አልኮል], "ወይም ፒሮጊ ወይም ፒሮጊ ታላቅ የሩሲያ ኬክ").
+entry(ፒሮጊ, ን, [ፒሮጊስ], "ፒሮጊ").
+እትም(pirogue, ነ, [pirogues], "piragua").
+ፋይል(ፒሮክ, ኤን, [ፒሮክስ], "ፒራጓ").
+entry(pirozhok, n, [pirozhki], "ወይም PIROSHKI ወይም PIROJKI አነስተኛ የሩሲያ ፓስትሪ").
+entry(piscary, n, [piscaries], "አይነብር ቦታ").
+entry(piscator, n, [piscators], "ዓሣ አጠላላ ").
+entry(መዋኛ መድኃኒት ቦታ, ን, [መዋኛ መድኃኒቶች], "ወይም PISCINAE በተወሰነ ቤተ ክርስቲያን ሥነ ሥርዓት የሚጠቀም ገናጋ PISCINAL ግም.").
+entry(ዓሳዊ, adj, [], "ለዓሳ የሚያደርግ").
+entry(ፒስኮ, ን, [ፒስኮስ], "የፔሩ ምርት ባህላዊ መስኖ").
+ውል(pish, ግ, [pished, pishing, pishes], "ንቀሳዕትን ለማቋረጥ").
+entry(ጉልሻ, ነ, [ጉልሻዎች], "ህፃን ወይም ይዞረ ያልተውላጠ ሰው").
+entry(ግሽም, n, [ግሽሞች], "pishogue").
+እትም(pishogue, ነ, [pishogues], "ክፉ ኢሚል").
+entry(pisiform, n, [pisiforms], "አነስተኛ አጥንት የእጅ ማንከብር").
+en(ጀርጀር, ነ, [ጀርጀሮች], " Formicidae ነው")
+entry(ፒሶ, ነ, [ፒሶስ], "የፊሊፒን ፔሶ").
+entry(ፒሶላይት, ነ, [ፒሶላይቶች], "የአምድነ ድንጋይ").
+entry(pisolith, n, [pisoliths], "ትንሽ ዝቅተኛ ከባር ያቀፈ ማዕዘን").
+entry(pissoir, n, [pissoirs], "የህዝብ ሽንት ቤት").
+entry(ፒስታሸ, ነ, [ፒስታሽስ], "አንደኛ ወይን ደም ምላሽ").
+entry(ስንግል, ን, [ስንግሎች], "ወደ ታች የሚሄደ ስኪ ክፍተት").
+entry(እምብዛህ፣ ና፣ [እምብዛሆች], "የአበባ ዕፅ ዝርያ አምጪ አቅም ማህበር").
+entry(ፒስቶል, ግ, [ፒስቶልዳ,ፒስቶልእንግ,ፒስቶልስ], "ወይም ፒስቶሌዳ ፒስቶልእንግ ፒስቶልስ ትንሽ የትጥብ መሳሪያ ጋር ማስተዋገድ").
+entry(ፒስቶሌ, n, [ፒስቶሌዎች], "አስቀድሞ የተጠቀመ የአውሮፓ ወርቅ ኮይን").
+entry(ፒስተን, ነ, [ፒስተኖች], "የሞተር ክፍል").
+entry(ፒስቱ, n, [ፒስቱስ], "የወይራ እንጆሪ ቁርበት እና በሰር ጥቅልጦሽ ብዙውን ጊዜ አይብ የተሰራ ሾስ").
+entry(pit, v, [pitted, pitting, pits], "በገደም ወይም ሽንገላ ማመልከት").
+እትም(pita, ነ, [pitas], "አንደኛ ሒሳብ").
+እንተርሪ(pitahaya, n, [pitahayas], "የደቡብ ምዕራብ አሜሪካና ሜክሲኮ ካከትስ").
+entry(pitapat, ግ, [pitapatted,pitapatting,pitapats], "ማሰስ የሚሰማ ቆዳ እምባ ማድረግ").
+መግቢያ(ፒታያ, በ, [ፒታያስ], "ፒታሃያ").
+መግቢያ(ጢሞች, ጠ, [ጢሙ, ጥመ, ጢሞች], "መጣል").
+entry(የመስተጋብራዊና መጠጥ ቅበላዣ, ባ, [የመስተጋብራዊና እንቅስት], "ፈሳሽ ማንቀሳቀሻ ግዜ መጠለያ").
+entry(pitchier, ንጥረ ይዞታ, [], "የ pitchy").
+መግቢያ(በጣም የሚገርም ስልስት, ዝርዝር, [], "የጥቁር ደረጃ").
+entry(pitchily, adv, [], "በጣም ጨለማ በሆነ መንገድ").
+እትም(pitchman, n, [pitchmen], " የትንሽ እቃዎች ሻጭ").
+እንተርይ(pitchout, n, [pitchouts], "በቤዝ ቦል ውስጥ የሚከናወን የዕንቅፋት አይነት").
+entry(pitchy, ቅዳሴ, [], "PITCHIER PITCHIESTtarry").
+እትም(piteous, ግም, [], "የሚያሳዝን").
+entry(ጕድጓድ, ን, [ጕድጓዶች], "የተደበቀ አደጋ ወይም ችግር").
+entry(ፒዝ, ግ, [ፒዝመው, ፒዝ ማድረግ, ፒዞች], "የዌክ ጅርም ማጋራት").
+entry(መግቢያ, n, [መግቢያዎች], "የአጋር መግቢያ").
+እትም(pithless, አጣዋይ, [], "ኃይል የጎደለው").
+እትም(ፒቶስ, ነ, [ፒቶይ], "ትላልቅ የጥንታዊ እቃ ቤቶች የተጠቀመባቸው ታማ").
+entry(pithy, adj, [], "አጭር እራሱ በጣም አጭር ጠቃሚ እጣዉ፣ ቀባት").
+entry(ምሕረቱን ያስገኛል, ቅድሚያ, [], "በምሕረት ምሕረት adv").
+entry(pitied, ያለፈ, [], "እንቅስቃሴ የፍርሃት").
+ፍትሕ(pitier, አ, [pitiers], "የሚሰምር አንዱ").
+እቤት(አለቀሰዋል, ወቅታዊ, [], "3ኛ ወገን ብቻ የሚያለቀስ").
+እንቍራሪ :ግምጃ፣ ግ., ፍቓድ :"እንቍራሪ እንቍራሪ ዘተሙካር"ፎርም.
+entry(አስፈሪ, ቅዳሴ, [], "ምሕረት የሌለው").
+entry(ፒትማን, ነ, [ፒትመን], "የተመላላሽ ሰራተኛ").
+entry(pitman, n, [pitmans], "አገናኝ መልስ").
+entry(ፒቶን, ባ, [ፒቶን], "በራስጌ ምድረ ገነት ጊዜ የሚጠቀሙበት የብረት ሴራ").
+ፍትሕ(ፕሊቶ, ታ, [ፕሊቶች], "የፍሉድ አቅጣጫ ግፊትን ለማሜምር የሚጠቀም ቱቦ").
+entry(የቅርጫታ ምንጃ, ተ, [የቅርጫታዎች ምንጃዎች], "ትልቅ የምንጃ ስክር መቇም ስኳይ").
+እትም(ፒታ, ና, [ፒታዎች], "የእርፍታ ወፍ በእስያ አውስትሬሊያ እና አፍሪካ").
+entry(ትሑትነት, ነ, [ትሑቶች], "ትንሽ መጠን ያለው የገንዘብ መጠን").
+እትም(pitted, ያለፈ, [], "ቀዳመን ነገር").
+entry(መቆፈር, ን, [መቆፈሬዎች], "የክፍቶች ወይም የመስመሮች አዋታዎች").
+እኩል(pity, v, [pitied,pitying,pities], "ሌላውን የአደጋ ምርኮ ምስኪነት እንደሚያስነሳ ሐሜት መስሌድ ያለው ሥራ").
+entry(piu, adv, [], "በሙዚቃ መግቢያ እንደተጠቀም ይበልጥ").
+entry(pivot, v, [ተዙርዮ ,ተዞሪዮ ,ተዞራሪዮች], "በሸነጋይ ወይም በአምሮ ላይ ማሽቀር").
+entry(መሳቀፍ, ግምት, [], "በተለይ አስፈላጊ").
+ውስጥ(ገናማምር, ነ, [ገናማማሮች], "በቅዳሜ እግር ኳስ ቡድን ማእከል ላይ የነበረ ውስን").
+entry(pix, n, [ፒክሶች], "ፒክስ").
+entry(pixel, n, [ፒክሰሎች], "የቪዲዮ ምስል መሠረታዊ ክፍል").
+entry(pixelate, v, [በነቀልቀለ,ነቀልቅላል,እንድነቀልቀለ], "ምስልን ለ ዲጂታል እቅፍ ማሳያ ለማድረግ ወደ ፒክሴሎች ማባዛት").
+ይህን መረጃ በአማርኛ ማቅረብ አልቻልኩም ፣ ነገር ግን በፕሮሎግ ልክ የተወሰነ መረጃ እትም እንደሆነ ዝርዝር መሰየም እችላለሁ።
+
+entry(pixie, n, [pixies], "pixyPIXIEISH adj").
+entry(ፒክሰሌት, ግ, [ፒክሲሌት ተደርጓል, እየፒክሰሌት ተጠናቀቀ, ፒክሰሌት ይሰጥ], "ፒክሰሌት").
+entry(pixiness, n, [pixinesses], "አመሳሰልነትነ ሁኔታ").
+entry(pixy, n, [ፒክሲዎች], "በጨዋታ ወንጀለኛ ከሆነ አፈውን ወይም ድሮውPIXISH መግለጫ").
+entry(ፒዛዝ, ናት, [ፒዛዝስ], "እንደሚያነሳይ ወይም እንደሚያስደስት ምርጥት ባለንዛ").
+entry(pizazzy, ቅጥ, [], "ቅምጥ ያለው").
+entry(ፒዛ, ተ, [ፒዛዎች], "አንድ የኢጣሊያ ክፍት ፓን").
+entry(pizzaz, n, [pizzazes], "ፒዛዝ").
+መግቢያ(pizzelle, አ, [pizzelles], "አርጋለም ቆሚም ኢጣሊያ ኩኪ").
+`entry(ፒዛ ቤት, ነ, [ፒዛ ቤቶች], "ፒዛዎች የሚሰሩና የሚሸጡባቸው ቦታ").`
+entry(ፒዝል, ነ, [ፒዝልስ], "የእንስሳ አውሬ ጭንካውንት").
+entry(placable, አግአኝ, [], "መረጋጋት የሚቻል - እንደ አመገባዊው ተመሳሳይ ቃል").
+entry(placard, v, [placarded, placarding, placards], "ፖስተሮችን በመጠቀም ማስታወቂያ ማድረግ").
+entry(ታረደ, ግ, [አረደ, ታረድ, ያረዳል], "ለማሳረፍ ወይም ለማረድ").
+entry(placater, n, [placaters], "ያስባሉ አንድ ሰው").
+entry(place, v, [ተኛጐነ,እንጉላጌን,እንጉላጌያዊይዎች], "አንድ በታለቸው ገላበጋዎች").
+መግቢያ(placebo, n, [placebos], "አንድ ነገር ወይም PLACEBOES የምክር ሀክካማይነት ያልያዘ ነገር ነው ከሁሉም ቦታ የሚገኝና ሥርቆታዊ አያውቅ የሆነ").
+entry(መላው ሰው, ን, [መላው ሰዎች], "ለማንኛውም የመንግስት ቦታ የፖለቲካ ምርጣቶች").
+እትም(መጨር ጨር, ነ, [መጨር ጨሮች], "እንቁ ሰንደቅ ጥርስውን ያስቀምጠው በሚቀመጥበት ቦታ ላይ የደረጃ ጨር ዕቃ እንዲሆን").
+እትር(entry(placenta, n, [placentas], "or PLACENTAEa vascular organ in most mammals")).
+entry(placer, n, [placers], "አንዱ የሚያስቀመጥ").
+መግቢያ(placet, n, [placets], "አድማጭ ድምጽ").
+entry(ጸጥ ያለ, የመግለጫ, [], "ጸጥ ያለ ወይም ሰላማዊ፣ በጸጥ በሚለነሱ ቃላት ይጠቀማል ጽፈር").
+entry(ማቀናበር, ነ, [ማቀናበሮች], "በዝግጅት ውስጥ ፍርድ በሆነ መድረክ ውስጥ የተመረጠ አንቀሳቃሽ ሥበት").
+ማስገቢያ(plack, ነ, [placks], "የስኮትላንድ ቀዳሚ ኮይን").
+entry(placket, n, [plackets], "ከልብስ ላይ የሚገኝ መቀፊያ ቁልፍ").
+entry(placoid, n, [placoids], "የማስታጠር አካል ያለው አሳ").
+entry(ጠረጴዛ, ስ, [ጠረጴዞች], "በተወካዩ የተሰራ ፍብረ ሥራ ሰሌዳ").
+የማለፍ, አግሣጽ, [], "የመነሻው ዜፍ አላማ ያለው የመነሻ ዜፍ ሁነቶ የመጀመር መነሻ ነጥብ የሆነ ሁንታ ዋና የመነሻ ተዋህዶ".
+פּראָלאָג: ቀልጣፋ ሁኔታ(plage, n, [ቀልጣፋዎች], "የፀሐይ ላይ በረቱ ክፍል")
+ውሂብ(መጥለፊያ, አማራጭ ስም, [መጥለፊያዎች], "ሌላውን ትውልድ እንደ እራስ ሥራ ማመነጨት የሆነ ዓይነት").
+entry(ወቅርብ, ግ, [ይቅረብ, የቅረብ፣ ቀርበዋል], "ማስጨነቅ ወይም መታሰብ").
+መግቢያ(በሽታ አሳልፊ, ነ, [በሽታ አሳልፊዎች], "የበሽታ እንደሚያሳልፍ አንዱ").
+entry(plaguey, ግምጥል, [], "plaguy").
+entry(plaguy, አጥብቆ, [], "ያስጨንቃልPLAGUILY ግስ").
+entry(ምሳሌ, እ, [ምሳሌዎች], "የአውሮፓ ምስር ነገር").
+እትም(plaid, ነ, [plaids], "የተፈተለ ስራ ያለው ሸማ ከተሰርቆ ክፍተት PLAIDED ተኸላለፈ ቃል").
+entry(አለበለት, ግምገማ, [], "አለበለት የተስፋ አለበለት ተስፋ አለበለት አስቀድሞ አለበለት").
+entry(ስምር, ግ, [ስምርምር,ስምርምሮች,ስምረኞች], "ለመጠየቅ").
+entry(ቅሬታ, አ, [ቅሬታዎች], "አንድ ቅሬታ").
+እትም(plaister, ግ, [plaistered, plaistering, plaisters], "ለማቅረብ").
+entry(plait, ግ, [እንደከበረ,ከማልበስ,ሊከብብ], "መወርወር").
+entry(መልሐሻ, ን, [መልሐሻዎች], "የሚልሐስ አንድ").
+entry(መሸለፍ, ሰ, [ማሸላለፍ], "የተፋተተ ነገር").
+entry(ዕቅድ, ግ, [የተዕቅዎ, በማዕቀድ, ዕቅዶች], "መበጀት ዘዴን ለማከናወን ሁኔታ").
+entry(ፕላናር, አጥር, [], "ትኩረት").
+entry(ፕላናሪያ, n, [ፕላናሪያዎች], "የውሃ ቀጭን ትልልቅ ሣጥን").
+መግቢያ(ስፍር, ግምታ, [], "ፈር ንብረት ያለው").
+entry(planch, n, [planches], "የአልጋ ገዳይ").
+entry(ፕላንቼ, ኤን, [ፕላንቼስ], "ፕላንች").
+entry(ፕላንሼት, ን, [ፕላንሼቶች], "ወደ ኮይን ለመምህረት ያለው ቀጡ የብረት ነጣጥራ").
+ፈልይ(አውሮፕላን, v, [አውሮፕላንም,አውሮፕላን በማረግ,አውሮፕላን በማህልዋው ነፃ], "እንደሚያስተካክላ ለመፍጠር").
+entry(ፕሌነር, አር, [ፕሌነሮች], "አንዱ ያለ").
+entry(ኮከብ, ነ, [ኮከቦች], "የሰማይ ሰውዬ").
+entry(planform, n, [planforms], "የአንድ ነገር ዕፀ ምህዋር ከላይ ተመልክቶ ሲያዩ").
+entry(የሚያሰነጠቅ, ተውላጭ, [], "በግልፅ የሚያሰማድ").
+እቅድ ድሕሪት (የአዬም ከፍልነድ), ምንም, "ንዴታ".
+entry(planish, v, [planished,planishing,planishes], "በቀላል መጋዝ መደማመድና ማረጋጋት").
+entry(ገርግር, v, [ገርጉር, ግርግር ተአይዞ, በገርግሮች], "ረጅም ደብተር እንጨት ነፍር ማሸፍ").
+entry(በርሀ-ማዕድ, ስ, [በርሀ-ማዕዶች], "የበርሀ ማስቀመጫ ማህላ").
+entry(እንሳሳይ, ነ, [እንሳሳዬዎች], "በቲኮን ዘዴ አንድ አካላዊ ነገር።").
+አካል(plankton, ን, [planktons], "የውሃ ሰውነት ውስጥ እንደ ሙያዊ የአትክልት እና የእንስሳት ህዋስ ቁሳቁሽPLANKTIC አዛ").
+entry(planless, adj, [], "ዕቅድ የሌለው").
+እቀዳለሁ(ታቀደ, ያለፈ, [], "ዕቅድ ጊዜ").
+ፕሮሎግ:
+entry(እቅደኛ, ነ, [እቅደኞች], "ያንን ያእቅድ").
+entry(እቅድ, ነ, [እቅዶች], "ዕላማዎች ወይም መርሆች ማቋቋም").
+entry(ፕላኖሶል, ነ, [ፕላኖሶሎች], "የመሬት አይነት").
+entry(ተክል, ግ, [ተከል,ትከላለች,ተክላት], "በመሬት ውስጥ ለመውጣት ማቀመጥ")।
+entry(ባለወተት, ን, [ባለወቶች], "አጭር ዓፍራሽ ሣር").
+entry(የእግር ሕብረት, adj, [], "የእግር ሣር ስለሚመለከት").
+entry(ዕራሻ, ን, [ዕራሻዎች], "የሚያከምር ሰው").
+ፕሮሎግ:
+entry(ተከርል, ነ, [ተከርሎች], "ተኮርካሪ፤ ማከራቻ").
+entry(ተኮር, ሰ, [ተኮሮች], "ትንሽ ተኮር").
+እንተገቢው(planula, ተ, [planulae], "የሚንከባለል ነፍስ የአንደንጓዶ ልጅአምላክ በአንደንገላ እንመለስያጓድ ዛሬ ለዕመምሮHቤን T").
+መግቢያ(መሠረተ ኮረጆ, በ, [መሠረተ ኮረጆዎች], "አስጌጣቢ እቃ ወይም ክታል").
+entry(plash, v, [plashed,plashing,plashes], "አንቀሳቀሰ በማለት ማሰብ").
+entry(የሚሰነጥፍ, ነ, [የሚሰነጥፉ], "የሚሰነጥፍ አንድ").
+entry(plashy, adj, [], "PLASHIER PLASHIEST ማርሻይ").
+እትም(plasm, ስ, [plasms], "ፕላዝማ").
+entry(plasma, ን, [plasmas], "የደም ፈሳሽነትPLASMIC ተዋ ቃድ").
+መግቢያ(ፕላዝሚድ, ነ, [ፕላዝሚዶች], "የሕዋል የወርሐዊ መዋቅር መዋቅር").
+መግቢያ(ፕላዝሚን, ነ, [ፕላዝሚንስ], "ኤንዛይም አይነት").
+entry(ፕላዝሞይድ, ን, [ፕላዝሞይዶች], "ከፍተኛ ኃይል ያላቸው የንፉስ ክፍሎች አይነት").
+እትም(plasmon, ስ, [plasmons], "በህዋሶች ውስጥ መኖር ተብሎ የሚነገር የህርርት መነሻ").
+መግቢያ(plaster, ግ, [ያበረየ, የምትያበረይ, በረዮች], "ማዕድ ከሺም እና ከውሃ የተሰራ ዝግባ ማሸፍ").
+እንተይ(plastery, ኣድጅ, [], "በጭቀለ ማዕርግ ይመስላል።").
+ፕሮሎግ፡ ግቤት(ፕላስቲክ፣ ነ፣ [ፕላስቲኮች]፣ "የእነአንዱም የምታመለክቱ እና የተፈጥሯቸው ወይም ተፈጥሯል ቀለም ጥሪ ጉዳይዎች").
+entry(ፕላስቲድ, በማህ, [ፕላስቲድስ], "በዕፅዋት ህዋር ውስጥ ያለ አወዳድሮ").
+entry(plastron, n, [plastrons], "ከእንቁላል ጋር የሚጋጫ የአንቀላፋ ክፍል").
+entry(ፕላስትረም, ነ, [ፕላስትረምስ], "ፕላስትሮን").
+entry(ፕላት, ግቤት, [ፕላቲድ, ፕላቲንግ, ፕላትስ], "ለመጣል").
+entry(platan, n, [platans], "ዛፍ ትልቅ ዛፍ").
+entry(ሽኮርዕ, ን, [ሽኮርዕይት], "ሽኮርዕ").
+ከሚሸፈንበት ብረት ብመሽበክ ፣ መሽበክ (plate, v, [plated, plating, plates], "ከብረት ቀለም በመሽበክ ለመሽበክ እኩለ ኮድ መሳሪያ መሥራት").
+entry(ሸለቆ, ን, [ሸለቆዎች], "ወይም PLATEAUX እንደገና የተሻሻለ ምድር ባለ").
+entry(መዝተኛ, ግ, [መዝተኛላ,መዝተኛዪንግ,መዝተነአስ], "መጠን እና ሁኔታ ያለ እንደነልጓጉጉታ/ሩር").
+እቃው(የበላሽታ መጠን, ስድራቅ, [የበላሽታዎች], "ወይም የእንቅልልዎች መድንጓዎችን የሙሌው መጠን ቀላል ሣርነት").
+entry(ፕሌትሌት, ነ, [ፕሌትሌቶች], "ትንሽና ቀላል አካል").
+entry(platen, n, [platens], "የታይፕራይተር ሮላር").
+ቀደም(ሳሃን አደራር, ነ, [ሳሃኖች አደራረ ሰው], "ታማኝ የመነኛ መሳሪያ").
+entry(platesful, a, [], "ታላቅ ሣርን አንድት ሠኝ በጠራይ").
+መግቢያ(መድረክ, ቁጥር, [መድረኮች], "የተነሳ ወለላ ወይም ቀጥታ መስፈርት").
+entry(platier, comparative, [], "የተለደ ፕላተ").
+እቲ(entry,ፕላቲዝ,ኤ,[], "የ ፕላቲ ብዙ ግምታ")
+entry(platiest, superlative, [], "ከplaty").
+እትም(ፕላቲና, ን, [ፕላቲናስ], "ፕላቲኑም").
+entry(ነናስ, ስ, [ነናስዎች], "የቲን ሸፋፊ የብረት አንጀ").
+entry(platinic, ቅዳሴ, [], "ልዩ፡ለላባ").
+እትም(platinum, n, [platinums], "የብረት ንጥረ ነገር").
+entry(ፕላቶኒክ, ግምጃ, [], "በንጽሃነት መንፈሳዊና ከሴንሱዋል ፍላጎት ነጻ").
+እትም(platoon, ግ, [platooned,platooning,platoons], "በአንደኛው ክፍል ላይ ከሌላ አገናኝ ጋር ማለዋዋጭ").
+entry(platted, past, [], "የplat ጊዜ").
+እኩዮት(entry, platter, n, [platters], "ትልቅ ደጋፊ ሳህን").
+entry(platting, present, [], "ቅድሚያ አቃላዊ ሀረግ ዘለው የመላመድ").
+ፕሮሎግ:
+entry(platy, adj, [], "ቀጭን ቀጫጭ በተከፈለበት ቅርፅ ክፍሎች ውስጥ").
+entry(platy, n, [platys], "ወይም PLATIES አነሰ ሞቃት ዓሣ").
+entry(platypus, n, [platypuses], "ወይም PLATYPI አካባቢ ውስጥ የሚኖር እንስሳ").
+entry(ዕድልና, ን, [ዕድልናዎች], "የምስጋና አስተያየት").
+entry(ማመሻ, ግም, [], "ማመስከር").
+ውሂብ(ጨዋታ, ግ, [ተጫዋች,በመጫወት,ይጫወታል], "በመዝናናት ወይም ስፖርት ላይ መሳተፍ እንደ ጫውታ የሚጠቀሙ ቃል").
+entry(playa, n, [እምቦሳዎች], "ምድረ በዳ ግርጋ መጀመሪያ").
+entry(playact, v, [ለመጫወትየዋይድ, ማረዳት, ያረዳ], "በቲያትር አፈፃፀም ለመሳተፍ").
+ዳስ ማግኘት(መቀሰፍት, ተ, [ከዋሜያት], "አዲስ የተገኘ መቅረጽን መልሰህ ማድረግ").
+መግቢያ(playbill, n, [playbills], "የተድራጊነት ተይዞ").
+entry(playbook, n, [መጻሕፍት], "ለድርድር ወይም ለመድረክ የተደረጉ አንድ ወይም ከዚያ በላይ የአስተርጓሚ ሥነ ጽሑፎች የያዘ መጽሐፍ።").
+entry(playboy, n, [ፕሌይቦይዝ], "እንቅልም ጉዳዮችን የተሰየመ ወንድ").
+entry(playdate, n, [playdates], "ትዕይንት ማሳያ ቀን የታቀደበት ነገር")
+ፍለጋ(መጫወቻ ቀን, ነ, [መጫወቻ ቀናት], "የበዓል ቀን").
+entry(playdown, n, [playdowns], "የመጫወቻ ውድድር").
+ተግባር(ተጫዋች, አ, [ተጫዋቾች], "የሚጫወት").
+ውስጥ(ተጫዋች, ኣግጅ, [], "እቅላጋፋ").
+እትም(playgirl, ን, [playgirls], "የደስታ እንቅስቃሴዎችን ለተዋደደች ሴት").
+entry(playgoer, n, [ቴዓትር ተመልካቾች], "የተመሃሮ ተመልካች").
+entry(playland, n, [ስፈሊልዎች], "የመዝናኛ አካባቢ").
+entry(playless, ቅጽ, [], "መጫወት እንደሌለው ነቅፋጠ").
+ፍሬዳር(playlet, ነ, [playlets], "አነስተኛ ቴያትሪክ አፈር").
+Prolog:
+entry(playlike, adj, [], "የትያትር አፈታሽነት ያለው").
+entry(ዝርዝር, n, [ዝርዝሮች], "በአየር ላይ ለመጫወት የተዘጋጀ የመዝናኛ ዝርዝር").
+entry(playmate, n, [አጫዋች], "በጨዋታ ውስጥ ባልደረባ")
+አስገባ(ቀጠሮ, ነ, [የቀጠሮ ጨዋታዎች], "ሻምፒዮን ለመውሰድ የሚጫወሩ የጨዋታ ስርአት").
+ውሳኔ(playpen, ስ, [playpens], "ሕፃን ልጅ ማጫወቻ የሚችልበት ታጋዥ").
+ውስጥ(playroom, ን, [playrooms], "የመዝናኛ ክፍል").
+entry(playset, n, [የመጫወቻ መሳሪያዎች], "ለልጆች እንቅስቃሴ የተዘጋጀ የውጪ መሳሪያ ዕቃ").
+entry(ስፖርት ልብስ, ን, [ስፖርት ልብሶች], "ለሴቶችና ሕፃናት የሚሆን የስፖርት ልብስ").
+እትም(መጫወቻ ጊዜ, ነ, [መጫወቻዎች], "ጫወታ ወይም መዝናናት ጊዜ").
+entry(playwear, n, [ለማጫወቻ አልባሳት], "ለእንኳን እንቅልፍ መጠነቀቅ የሚጠቀመው አልባሳት").
+እትም(plaza, n, [plazas], "የሕዝብ አደባባይ").
+entry(መልጋብ, ን, [መልጋቦች], "እንቅስቃሴ").
+entry(pleach, ግ, [pleached, pleaching, pleaches], "አቀለ").
+entry(መጠየቅ, ግ, [ጠየቀ,በመጠየቅ,ይጠይቃል], "በተግባር ማመንግነት ለመለማመድ").
+entry(አሳሟራ, ን, [አሳሞሮች], "የሚማልድ አንዱ").
+entry(ማመክር, n, [መከሮች], "ከሕግ ጋር የተያያዘ ተነታችሁ ማስታወቂያ").
+entry(pleasant, adj, [], "PLEASANTER PLEASANTESTደስ የሚላ").
+entry(እባኮትን, v, [ደስተኛ አድርጎ የሚሰራቸው, ደስተኛ አደርጎ የሚሰራችው, ደስ ብሎ አደርጎ የሚሰራቸው], "እንግዲህ ደስታ ወይም ደስታና ተመስጦአዊነት ለማግኘት").
+entry(pleaser, n, [pleasers], "የሚደሰት አንዱ").
+entry(ደስታ, ግ, [ደስ ብሎ አለ,ደስ ብሎ], "ለመደሰት").
+entry(እጥል, ግ, [እጥል ቀልጠው, እጥል ቀጥመው, እጥላት], "በሚመቸው መንገድ ማጥለል").
+entry(pleater, ን, [pleaters], "የሚጠቀል አንዱ").
+entry(pleather, n, [pleathers], "የቆዳ ምሳሌ የሚመስል የፕላስቲክ ጨምሮ").
+entry(አስጠባቂ, ን, [አስጠባቂዎች], "በልብስ ላይ የተደረጉ ትንሽ እበቶች ዝግጅት ስም").
+entry(pleb, n, [plebs], "ተወላጅ").
+entry(ነሃሴ, አርእስት, [ነሃሴዎች], "የጦር ወይም የባህር አካዳሚ ማህጸን").
+entry(መነሻ, ና, [መነሻዎች], "ተለመደ ሰው").
+entry(ሌክትሮን, ን, [ሌክትሮኖች], "ወይም ፕሌክትራፕሌክትሩም").
+entry(መፍቻ, n, [ሜፍጮች], "ወይም PLECTRA የሙሉ መሣሪያ እስር ወደ ሆን, እቅፍ ውስጥ ያለ").
+እትም(ተጸለየ, አ, [], "የመንካባከብ ወቅት ገና").
+entry(መንገላታት, ግ, [አምነዘዘ,የምንገላታት,እንገላታታለን], "ተበላሽነት ማቅረብ ለምንግዶት ተጠቃሚ").
+entry(ተኛጅ, ን, [ተኛጆች], "ምንም ነገር ለእርሱ የተጋለጠ ወንበዴ").
+entry(ዕላማ, ን, [ዕላማዎች], "ማስታፍ").
+ማስገባት(መሰጠኛ, ክ, [መሰጠኞች], "አንድ ነገር የሚነጥብ ነው").
+entry(pledget, n, [pledgets], "የሚያፈስስ ከረጢት ጥሩፍ").
+ውስጥ(መገንባት, አሁን, [], "የማቅረቢያ ክፍል ቃል ከመገንባት").
+entry(ክላሊፍ, ብ, [ክላሊፎች], "ምልላሽ").
+entry(pleiad, n, [pleiads], "ወይም PLEIADES የተመሰገኑ ሰባት ግለሰቦች ቡድን።").
+entry(ፕሌና, አ, [], "ፕሌኒም የብዙ ብቸኝ").
+ፕሮሎግ: entry(መደበኛ, n, [መደበኞች], "በሁሉም አባላት የሚገኝ ስብሰባ").
+entry(ፕሌንች, ፣, [ፕሌንችስ], "እንደ ፕላየርስ እና ወሬንች የሚያገለግል መሳሪያ").
+ፍቤት(ማስሞላት, ግፋ, [ተሞላ,እንሞላ,ይሞላ], "ማስሞላት").
+ֵentry(ፕሌኒዝም, ን, [ፕሌኒዝሞች], "ቦታው በንጥረ-ነገር በተሟላ እንደተይዞ ያምነው ትምህርት").
+entry(ፕሌኒስት, ስ, [ፕሌኒስትስ], "እንደ መስማሪያ የሚያጋሩ ሰው").
+ውስጥ(ብዙ፣ ነ፣ [ብዙዎች]፣ "በቂ ወይም በበልጬ መጠን").
+እቀብራ(entry, plenum, n, [plenums], "ወይም እንደ ሙሉ ተሰውር የተወሰደ በሐይል ቅርፅ PLENAspace የሚታይ").
+entry(pleon, n, [pleons], "የክሬስታስን ሆድ").
+ውህደት(መፍለጋት, ስ, [ምን ያለቀጤዎች], "ያላስፈላጊ ቃላትን መጠቀም").
+entry(pleopod, n, [pleopods], "የጉድጓድ ሳሕልኛዎች ተሰካር እጅ").
+ውህደት(ፕሌሮማ, ን, [ፕሌሮማስ], "አምላካዊ ኀይሎች ተሟልቷል፡፡").
+entry(አዙምሮ, n, [አዙምሮች], "plexor").
+entry(ብዙኃነ, n, [ብዙኃነዎች], "አብዝት").
+entry(ፕለውራ, እ, [ፕለውራዎች], "ወይም ፕለውራዎቹ እንቅልፍ የሚሰጥ ምስላ ሰዝምት ሆኖ የሆነ ምሳሌ ለሰውነት እታክ".
+entry(እባለሳህል, ነ, [እባለሳህሎች], "የሳህል ያነፈሰ").
+entry(pleuron, n, [pleura], "የነፍሰ ጉድፈት ቁጥር አንድ ክፋል የመንሳር ክፍል").
+entry(ፕሊውስተን, ን, [ፕሊውስተንስ], "የውሃ ተንቀሳቃሽ ተብላላ").
+entry(ፕሊው, ነ, [ፕሊውስ], "የአመራረች ቆዳ").
+entry(plex, n, [plexes], "አንድ ቀለልቃል").
+entry(ፕሌክሳል, አግስ, [], "ለፕሌክስስ የሚያመለክት").
+entry(plexor, n, [plexors], "አነስ ምርመራ መሳሪያ ያለው መዋቅራዊ መሣሪያ").
+entry(plexus, n, [plexuses], "የአካላት ተዳራጅ").
+entry(ለምጣጭ, ግምጃ, [], "በቀላሉ ሚገጠመ./MALee adv").
+እትም(ሌላእዝቅ, ስ, [በሌላእዝቅ], "ይቻለውነት እንደ ሌላእዝቅ መሆን ባህሪ").
+entry(ጥጉዋት, አጻጻፍ, [], "በቀላሉ የሚጠመዝ በጥጉዋት adv").
+entry(plica, n, [plicae], "ወይም PLICAS የቆዳ እንቅስቃሴ PLICAL ቀያይም").
+ግቤት(አብባል, አግኚ, [], "ተሰንጠላ").
+entry(ይቀጠ, ባህሪ, [], "ብሌክታት").
+entry(plie, n, [plies], "በባሌ ዉስጥ የሚደረገዉ እንቅስቃሴ").
+entry(plied, past, [], "መታመም የተለፈ ጊዜ").
+entry(plier, n, [ማንኛውም ተገላጋፊ], "አንዱ የሚንቀሳቀስ").
+entry(እንቅል, ይወቅሳል, [], "አንድ ሰው የሚጥል ድርጊት").
+entry(አቅሙ, ግ, [ተነግሏል, እየተነጋገሯ ነው, ያቀርባል], "በሐሳብ ያለማላገ ተስፋ ማሳለፍ ወይም መዋለከት").
+entry(plighter, n, [plighters], "አንድ አንድ ነው ያለው").
+entry(plimsol, n, [plimsols], "ፕሊምሶል").
+መግቢያ(plimsole, ን, [plimsoles], "plimsoll").
+አስገባ(prolog, n, [prologs], "የነሐስ ከበረበር ጫማ").
+entry(plink, v, [plinked,plinking,plinks], "አልፍአልፍ ዓላማዎችን ለመተዋወቅ").
+entry(plinker, n, [plinkers], "የሚፕሊንክ አንድ").
+እትም(plinky, ስምምራት, [], "ዝቅጥይት ዝቅጥይት፣ አነሰነሰ ሰሪ እና ድምጺለሞይያ ዝቅጥይቶች").
+እትም(plinth, ስ, [plinths], "የአምድ ወይም አሸዋ የሚነሣበት ድንጋይ ወይም ስሪት").
+entry(pliofilm, ተ, [pliofilms], "በማሸጎችበት ውስጥ ተጠቃሚ የሆነ መግለጫዊ ቅባት መሣያ፣ የክሎርኔ ሩበር").
+entry(pliotron, n, [pliotrons], "አንድ ዓይነት የኤሌክትሮኒክስ ቲዩብ").
+entry(pliskie, n, [pliskies], "የተሞከረ ቀዝቃዜ").
+ቀይጠፍቱ(plisky, n, [pliskies], "pliskie").
+entry(plisse, n, [ስስላዎች], "የልብስ የተጐጣኝ ነፍስ ክፍል").
+entry(plod, ግ, [አንገላበጠ,አንገላብጦ,እንገላብጦታል], "ከባድ ማራመድ").
+entry(አዘላለመ, ን, [አዘላለሞች], "ያንቀሳቀሳ ነው").
+እንትሪ(ploidy, n, [ploidies], "የዋነኝነት ትክክለኛነት የፍሬ ቁጥር ደጋግም የነበረባቸው ሚያመልከተው እሴት").
+entry(ፕሎንክ, ግ, [ፕሎንኬድ, ፕሎንኪንግ, ፕሎንክስ], "ለመላክ").
+አስመጪ(ግባታ, ነገር ስም, [ግባቶች], "የማይገባ ሰው").
+entry(plop, ግ, [ተባረረ,ተማበረረ,ትዘርቋለች], "መውደቅ ወይም ከባድ መፈሳሽ").
+entry(ፕሎዥን, ነ, [ፕሎዥንስ], "የተወሰኑ ፍርድት ኮንሶናንትን በኋላ ያለ ዕረፍት እንቅስቃሴ").
+entry(ድምፅ, ፊ, [እንቅልፍ ድምፅ], "በመፍነድ የሚሰማ ድምፅ").
+እትም(plot, ግ, [plotted, plotting, plots], "ምስጢራዊ ማቅረብ").
+entry(plotless, adj, [], "እቅፍ የሌለው").
+ግቤት(የተዋነ መስመር, ነ, [የተዋነ መስመሮች], "የመጽሐፍ ዋነኛ ታሪክ").
+entry(plottage, n, [plottages], "መሬት ቦታ").
+entry(plotted, አማልኩ, [], "በፊት አጋልጥ ግጥም").
+መግቢያ(ሳህ, n, [ሳሃው], "የሚሳህ አንዱ").
+entry(plotting, present, [], "የእቅፍ ክፍል").
+entry(plotty, adj, [], "PLOTTIER PLOTTIEST፣ እንደ የአነባብሶት እንቆቅልሽ ሞላባቸው").
+entry(plotty, n, [plotties], "ትኩስ ቅመማል የተቆመረ መጠጥ").
+entry(plotz, v, [ተደነቀ,ተደነቅእያለ,ተደነቅሁ], "በአንድ ስሜት መታየት").
+entry(ገበረ, v, [ገበሬነት, ገበሬም, ገበሩ], "መዝራብ").
+entry(plougher, n, [ploughers], "እረስተኛ").
+የንቀሳቀሳ መግቢያ(አረግአምማድ, ስነ, [አረግአምማድዎች], "የደሴት ወፍ").
+entry(አረሰ, ግ, [አረሰ,እየረሰ,ያርሳል], "አንድ ግብር መሣሪያ ያለው መጓጓዣ ቆይታ ዝርዝር መመልስ ማኖር").
+entry(እከፋብ፣ ን፣ [እከፋቦች]፣ "በንግድ ውስጥ የትርፍ ድገም ኢንቨስትመንት")።
+entry(plowboy, n, [ኦርቶች], "መረብ ቡዝ ያዘዘ ወንድ ልጅ").
+entry(plower, n, [plowers], "አረሚ").
+መዝግብ(plowhead, ን, [plowheads], "የ መቆጣጠሪያ መዋቅር በ መንደር ውስጥ አንዳች").
+entry(መረሳ መሬት, ን, [መረሳ መሬቶች], "ዘር የሚተከልበት መሬት").
+entry(ገበሬ, ን, [ገበሮች], "አንድ ሰው የሚሰነፈጥ").
+entry(ፕሎይ, ግ, [ፕሎዬድ,ፕሎይንግ,ፕሎይስ], "ከመስመር ወደ አምድ ማንቀሳቀስ").
+entry(ploye, n, [ployes], "የኑጥ እንጀራ").
+entry(መቀየዝ, ግ, [ነቀየዘ፣ ነቀየዝ ማድረግ፣ ነቀየዝ ያደርግ], "መነቀየዝ").
+entry(plucker, n, [pluckers], "አንዱ ያጥለቀል").
+entry(ብሩህ, ቅጥ, [], "የበልጠ ትዕቢተኛ የሰውነት ነፍጥብረኛ በመዝክረኝቢር adv").
+entry(መሳለይ, ግ, [ተሳልዳ,ማሳልደይ,ማሳልዳይ], "በመሳለይ ወይም በማንኛውም ነገር ቁጥር መዝጋት ወይም መምታት ነው").
+entry(ፕላገር, በ, [ፕላገሮች], "የሚያንጠልጣል አንድ").
+entry(plughole, n, [plugholes], "የማግራት ትቦች ሊደከም የሚችል ውሃ ወለላ").
+entry(plugless, ግምጃ, [], "ኮንስል የሌለው").
+entry(ፕላጎላ, ሰ, [ፕላጎላዎች], "ነጻ ማስታወቂያ ላይ ራዲዮ ወይም ቴሌቪዥን").
+entry(plugugly, n, [pluguglies], "መቱ ሰው").
+entry(ሎሚ, ነ, [ሎሚዎች], "አንጀ ያለ ፍራፍሬ").
+entry(plum, adj, [], "አስከፊው አስከፊዎቹ በጣም የሚመኝ ነገር").
+entry(እራጌ, ን, [እራጌዎች], "የወፍ ነፋሪትPLUMAGED ቅዳሜ ማህበረስብ").
+entry(ቱግመ, ግምጃ, [], "በማልድ ግምጃ").
+መግቢያ(plumb, v, [plumbed,plumbing,plumbs], "ውሃው ጥምነትን ማረጋገጥ ዘንቅ፡").
+መግቢያ(plumbago, ነ, [plumbagos], "መቀጠል").
+entry(ፓላምበር, ነ, [ፓላምበሮች], "የቧንቧ ልማት እና መጠገኛ ሰው").
+ነገር(የተቀናጀ, ነ, [የተቀናጀዎች], "የተቀናጀ ስራ") .
+entry(plumbic, ግም, [], "የጭቃ ያለው").
+entry(ፍላም።እንቅፋል, ኒ., [ፍላሞች], "የህንጻ ማሰሮ ስርዓት").
+እቶሙ(እላማት, ስ, [እላምኦች], "ማር መታማልድ").
+entry(plumbous, adj, [], "እንደ ግንዝብ").
+ፖሎግ: entry(plumbum, n, [plumbums], "ሊድ")።
+entry(ፕሉም, v, [ፕሉምድ, ፕሉምኢንግ, ፕሉምስ], "መዊጠር").
+ፕሮሎግ: entry(plumelet, n, [plumelets], "አነስሰው ላባ").
+entry(ዶዒ, ን, [ዶዒዎች], "አንበሳ መነባቡ").
+አካባቢ(ፍብረተመ, ስም, [ፍብረተመዎች], "የወፍ ርዝመቶች").
+ውስጥይም(plumier, አነስተኛ አንጻር, [], "የፍሬ ዓይናት").
+entry(plumiest, ተወላጅ, [], "የ ተክል").
+entry(ፕልመ, አሁን, [], "በፕሎም የተጠቀሰ" ).
+entry(plumiped, n, [plumipeds], "ከርግብ ጋር ላይ ማር ያለው ወፍ").
+entry(plumlike, አጻጻፍ, [], "እንደ ቦሩጭ የሚመስል").
+የመግቢያ(አፈርሳሪ, ግ, [አፈርሳረ,አፈርሳሪንግ,አፈርሳራለ], "ቀጥ ብሎ ማውደቅ").
+entry(plummy, adj, [], "ከብዙ ፍሬዎች የተሞላ").
+entry(plumose, ግምር, [], "ከአበጃጅ ጋር የተያያዘ").
+entry(plump, adj, [], "ወፍራም ወፍራማት ጥሩ እና በሙሉ ቅርጽ").
+entry(plump, v, [plumped,plumping,plumps], "ወፍራም ማድረግ").
+entry(plumpen, v, [plumpened,plumpening,plumpens], "ወፍረድ").
+entry(plumper, n, [plumpers], "ከባድ መውደቅ").
+entry(plumpish, ግምጃ, [], "በአንድ ሁኔታ ወፍራም").
+entry(plumply, adv, [], "ወፍራም በሆነ መንገድ").
+መግቢያ(ሰነፍ, ግምት, [], "ዝቅኝ-ዝቅኝ እንቅልፍ ግምት").
+entry(ፕላሙል, ነ, [ፕላሙሎች], "የአበባ ቢላፍ ዋነኛ ቅንጣት የዕርባታ ዕንቅልፋ").
+entry(plumy, adj, [], "ማስጌጠኛ በፍዋሽ የተለወጠ አንጋግ").
+እትም(plunder, ግ, [plundered, plundering, plunders], "በግፍ ንብረት መውሰድ").
+entry(ዝቅቅ, ግ, [ዝቅ ዝቅላል,ዝቅ ማዞል,ዝቅ ዝቅላለት], "አንድነት ነገር በፍጥነት ወደ ረገድ ያለ ወይም በእንቅልፍ ወደ ማንነት ይገጥማል").
+entry(ፕላንጀር, ግ, [ፕላንጀሮች], "የሚያገጥም አንዱ").
+ግቤት(plunk, እ.ተ.ይ, [plunked, plunking, plunks], "ከባድ ማውደቅ ወይም መዝቀቅ").
+እኩል(entry(plunker, n, [plunkers], "ማስለቅለቃ").
+መዝግብ(plunky, ቅየታዊ ቃል, [], "በቀላል ምቀጥሏለች ተለመደች የመተክል ምንቀጥቀጥ የታመነው ተገልመውታል በቀላል ያደለው").
+entry(ፕሉቶ, ን, [ፕሉቶች], "የፕለም እና አፕሪኮት የተዋሃደ ፍራፍሬ").
+entry(ብዙኃነ, ሰ, [ብዙኃነዎች], "ከአንድ በላይ የሚያሰራጭ ቃል").
+መግቢያ(ብዙበኛ, ግምት, [], "ከአንድ በላይ የሚያሳይ በኩል ወይም ቅርንጽ").
+entry(plus, n, [pluses], "ወይም PLUSSESan ተጨማሪ ብዛት").
+entry(plush, adj, [], "ፍትወ ፍትወዋ ክብ ፍትወ ክብ").
+entry(plush, n, [plushes], "ርዝመት ያለው ካፕሬት").
+(entry(plushed, adj, [], "በጣም ግሩም የኮከብ"))
+entry(plushy, adj, [], "PLUSHIER PLUSHIESTከፍተኛPLUSHILY adv").
+እቲ ሙሉ ጻይ ፡ (ግምሕ) ፡ መደዐዪ ፡ [ግምሕታት]፡ "በካብ ኽላ ሃይማኖታዊ ቕርበታት ፡ ነቲ ዓለ ቦቼነ ፡ ንጠላሊታት ፡ ንሚናይት ፡ ንለዩ ብባህሪ ፅሑፍ ፡"።
+entry(ማማከልቶች, አ, [], "የplus ብዛት").
+entry(pluteus, ን, [plutei], "የባህር ጉንዳኝ ልጅ").
+መግቢያ(ፕሉቶን, ነ, [ፕሉቶንስ], "የእሳት ድንጋይ አቀማመጥPLUTONIC adj").
+ዝግጅ(pluvial, ነ, [pluvials], "አራሽ ያለ አየር አመት").
+entry(pluvian, adj, [], "በብዙ ዝናብ የተለየ").
+entry(ምክንያት, ግምግና, [], "ዝናብ ያለ").
+entry(pluvious, ግምት, [], "በምናምር የሚነጋገር").
+entry(ply, v, [plied,plying,plies], "በመደጋገም ማቅረብ ወይም ማድራጀ እንደሆነ በማሳተምPLYINGLY adv").
+એન્ટ્રી(እንቅስቃሴ እምነት፣ ሀ ፣ [ጓዳዮች]፣ "እንቅስቃሴ ንፋሴ፡፡፥ ፡፣")
+entry(ፕልይዎድ, ን, [ፕልይዎዶች], "የህንፃ ንጥረ ነገር").
+entry(pneuma, n, [pneumas], "መንፈስ ወይም ነፍስ").
+entry(ቦ, ነ, [ካል], "የውስጥ ሳጥን").
+ግቤት(poaceous, ግምጃ, [], "ወደ ሳር ቤተሰብ የሚገኙ ተንቀጥቀጥ ተፈጋጊ ተንቀጥቀጥ").
+entry(ዘረፈ, ግ, [ዘረፈ,በመዘረፍ,ይዘረፋል], "እንስሳ ወይም ዓሣ ለመውሰድ ያለመብት መግባት").
+entry(አንሳሽ, ነ, [አንሳሾች], "የሚያንሳሽ አንዱ").
+entry(poachy, adj, [], "እልቀት እልቀተኛ").
+መግቢያ(ፖብላኖ, ን, [ፖብላኖስ], "አንድ ዝቅተኛ ለሰማያዊ አቧራ ቃል መፀፀሪያ")।
+entry(poboy, n, [poboys], "በርጢጕ፣ ረጅም እና የተካፈለ ስሮ ላይ አሰረገ ትልቅ ሳንድዊች").
+Prolog: እትም(pochard, ስ, [pochards], "የባህር ዳክይ").
+እትም(pock, v, [pocked,pocking,pocks], "በአፍሳፍስ በሚወሰነው በሽታ የተፈጠረ ከራርም የተነሣ ማስየዝ").
+entry(pocket, v, [pocketed,pocketing,pockets], "ጎርሳ ውስጥ ማስቀመጥ").
+እንትራይ(pocketer, ስ, [pocketers], "የሚያስቆላፍ").
+entry(pockmark, v, [pockmarked,pockmarking,pockmarks], "በረግረግ በሚሰሩ በሽታ የተነሳ ስእለት ማድረግ").
+እባኮትኝ ይህን የፕሮሎግ መረጃ ከእንግሊዝኛ ወደ አማርኛ በቅርብ ዝርዝር ተገልጾ ማቅረብ አልቻልኩም፣ ምክኒያቱም መልሱ እንደ ትክክለኛ ከምሸለ ይገልማል፣ በአማርኛ ዘዴዎች መልቀቅ ኖ የማያስቀጥምና ፅሁፍኔን ከምስሉ ልይ እመላክፋለሁ።
+እትም(poco, ግዕዝ, [], "በሙዚቃ አቀንቃኝ የተጠቀሰ አነስተኛ").
+entry(pocosen, n, [pocosens], "ፖኮሲን").
+entry(ፖኮሲን, ትን, [ፖኮሲንስ], "ከፍተኛ ምንጣፍ").
+entry(pocoson, ነ, [pocosons], "pocosin").
+entry(pod, v, [podded,podding,pods], "የበለስ ሳንቃዎችን ማምጣት").
+entry(ጉምሻ, ነ, [ጉምሻዎች], "እግር ላይ ያሉ እባኮች ውስጥ የሚኖር").
+entry(ፖድካስት, ግ, [ፖድካስት የተደረገ, የፖድካስት ማዋል, ፖድካስቶች], "ለመጫን በቀላሉ በኢንተርኔት ላይ በዲጂታል ቅርጸት መመዝገብ ዘንድ").
+entry(podesta, n, [ኦዶክባይሮች], "አንድ የጣሊያን ዳኛ").
+entry(podgy, ተውሁድ, [], "የተዋለደ የተዋለደ ትህ ተስተገዳላጭ ተመጣጣኝ ቃል").
+entry(podia, a, [], "የpodium አብዛት ቅርጽ").
+entry(እግር ህክምና, ን, [እግር ህክምናዎች], "የሰው እግር ጥናት እና ክህነት").
+እትም(ፖዲት, ን, [ፖዲቶች], "የአርትሮፖዶው እግር ቁርኝነት የሚያመለክት ቃል አግሪ").
+መግቢያ(የአንድ የዕምላሉ መዐዘ ፈነወህ የእንአ ዕዕማ, የእንአ ያዓሪ "ወደ ጋዡኩላን እኔና ዌትዌና ወትነብ የኢንአ ፈነው የውደኙኩየ፣ ነ"።).
+entry(podlike, ትርጉም, [], "የእንቅልፍ አትክልት ዕቃ የሚመስል").
+entry(podocarp, adj, [], "የሁሌም አረንጓዴ ዛፎች ቤተሰብን የሚያመለክት").
+ይቀጥላል(ፖዶሜር, ነ, [ፖዶሜርስ], "አንድ ፖዋይት").
+መግቢያ(podsol, ነ, [podsols], "podzolPODSOLIC ግምፅ").
+entry(ፖዳንክ, ባ, [ፖዳንኮች], "አነስተኛ እና ያልተከበረ ከተማ").
+entry(podzol, n, [podzols], "የማይስማማ አፈር ፖድዞሊክ adj").
+እትም(poechore, ነፃ, [poechores], "አንድ ሰሜአበል ክልል").
+entry(መፅሀፍ, ነ, [መፅሐፍት], "በቅርጽ የተጻፈ የኔታ").
+ግባ(prolog, poesy, n, [poesies], "አዝማሪ").
+እትም(poet, ን, [poets], "ደራሲ ግጥም የሚጽፍ").
+entry(አዋቂት, ነ, [አዋቂዎች], "ሴት አዋቂ").
+entry(ሴያማዊ, ግምት, [], "ስነ ጥበብ የሚመራ").
+entry(ስነ-ጻፍ, ቅጽል, [], "ግጥምማዊ").
+entry(poetics, npl, [], "የግጥም ንድፍ ወይም ልምድ").
+entry(በቃል ማክበር, ግ, [አቃለምታው፣በቃል ማካበይ ላይው፣ግ በቃላ አንቀሳቃለዉ], "ቃል ማክበር").
+እንቀሳቃሽ(poetiser, ን, [poetisers], "poetizer").
+entry(መዝሙር ማዘጋጀት, ግ, [ተመዝሙር,እየተመዘሙር ነው,እየተመዘሙር ነው], "መዝሙር ማዘጋጀት").
+entry(poetizer, n, [poetizers], "የቅኔ ገፋሚ").
+መግቢያ(poetless, ቅ, [], "እንቃቃላለሁ የገጣሚ የጎደለው").
+entry(poetlike, adj, [], "እንደ ገጣሚ ያለ").
+entry(ክብክል, ብ, [ክብክሎች], "በሚዛን ቅርእስ የተጻፈ የሥነ ጽሑፍ ሥራ").
+entry(pogey, n, [pogeys], "የመንግስት መገልገያ እርዳታ ማንኛውም ዓይነት").
+entry(pogies, pl, [], "የpogy").
+እትም(pogo, ግ, [pogoed,pogoing,pogoes], "ወይም POGOS እንደ ፖጎ በተሰልሎ ልትወዝብ እንዲህ").
+entry(pogonia, n, [pogonias], "አንቀልጣል አንቀልባብ").
+entry(pogonip, n, [pogonips], "ማቅበር የተቋረጠ የበረዶ ቅጠል ያለው ደንብጦብ").
+entry(ፖግሮም, ግ, [ፖግሮም አደረገ, ፖግሮሚንግ, ፖግሮምስ], "ያለ ሥርዓት ማሽመር").
+እትም(pogy, ን, [pogies], "ባህር ዓሣ").
+እቅፍ(poh, አጠናቋላላይ, [], "ቅሜትን ለማመስከር የሚጠቀመው").
+entry(poi, n, [pois], "የሃዋይ ምግብ").
+entry(አነደደ, ቅ, [], "ስሜታዊ መከራ").
+entry(ፖይሉ, ነ, [ፖይሉስ], "የፈረንሳይ ወታደር").
+entry(poind, v, [poinded, poinding, poinds], "ንብረት መዝዘን እና መሽጥ ለዕዳ ምርመር ያደረገ").
+እትም(point, v, [ወላጥ, እየጠበቁ, ያመለክቱ], "የእጅ ጣት አቅጣጫ ማመልከቻ").
+entry(ፖይንት, ነ, [ፖይንትስ], "የባሌ አቋም").
+entry(pointer, n, [ምልክቶች], "የሚያመለክት አንድ").
+እትም(pointing, ስ, [pointings], "ማፈላለጊያ ወሬ ወይም ማጎናወጃ ሙሉ ቅርጽን መዳዘሪያ ውስጥ ያለ ንጥል").
+መግቢያ(pointman, በ, [pointmen], "ከሆነ የሆኁት ተጫዋች").
+entry(pointy, adj, [], "ጠባም ጠብሶች ወደ ማዛቂያ የሚመጣ ዝግጅት").
+entry(ሚዛን, ግ, [ሚዛኖች,ሚዛን ማድረግ,ሚዛን ማድረግ], "መጠንኩን ማድረግ").
+entry(poiser, n, [poisers], "እሱ ተመርጧል").
+entry(poisha, n, [ፖይሻ], "የባንጋላዲሽ ፓሳ").
+entry(መርዝ, ግ, [ሞማ፣ መሞም፣ ሞሙ], "አደገኛ ንጥረቀመስተያ ነካሬ").
+entry(poisoner, n, [poisoners], "አንድ የሚማርይ").
+መግቢያ(ፖይትሬል, ነ, [ፖይትሬልስ], "ፔትራል").
+መግቢያ(ነከረ, ግ, [ነከረ, ነክሮ, ይነኩ], "ማንከር ወይም ማደበቅPOKABLE ቅድመ ድርድር").
+entry(ፖከር, ነ, [ፖከሮች], "የሚያጫርጥ አንድ").
+ዝግጅ(pokeroot, ነ, [pokeroots], "pokeweed").
+መግቢያ(መርመላ, ነ, [መርመላዎች], "ዓመታዊ ሐበል").
+ምእታም(pokey, ነ, [pokeys], "poky").
+entry(pokier, ተዛማጅ, [], "ከpoky").
+entry(pokies, pl, [], "እስትዮል").
+entry(pokiest, superlative, [], "የትሹ ከፍተኛ").
+እትም(pokily, ቅርጽ, [], "በሸባበል ሁኔታ").
+entry(pokiness, n, [pokinesses], "እንደ ቀስቃሳ መሆን ሁኔታ").
+entry(poking, present, [], "የpoke ተገላቢ").
+entry(ፖኪ, አግስ, [], "እጥረኛ እጥራቂslow").
+እትም(poky, ነ, [pokies], "እስር ቤት")
+ቅጽበት(ፖል, ኔ, [ፖልስ], "የፖለቲካ ሰው").
+entry(ፖላር, ነ, [ፖላርስ], "ጋር የተያያዘ ቀጥ ሞልቀን").
+ப்ரோலொக்: የግቤትው(ብልጭት, ግ., [ተብልጭተዋል,በሚብልጭት,ብልጭ ያደርጋል],'ተቀጥለ ለማድረግ').
+ፍቺ(ጸረ-ተያያዥነት, ነ, [ጸረ-ተያያዥነታት], "በሁለት ተቃራን ኣይነቶች ዘይኖር").
+entry(ገላበ, ጠ, [አገላበመ, አገላብቶ ነው, አቀላበ], "እንደ አምፖል ማስገላበ").
+entry(ፖላሮን, ን, [ፖላሮኖች], "የኤሌክትሮን አይነት").
+entry(ጎርፍ መመለሻ መሬት, የስልጣን ስም, [ጎርፍ መመለሻ መሬቶች], "ከውሃ ከአካባቢው የተመለሰ ዝቅተኛ መሬት ክፍል").
+entry(ድንኳን, ግ, [አቀማጨ,እንደጋገዘ,ድንኳንዎች], "አረር የሆነ ቀጥሎ ከእንጨት ወይም ከብረት የሚሆን መሠረት በመጠቀም ነካ").
+entry(ፖላክስ, ግ, [ፖላክስድ,ፖላክስንግ,ፖላክሶች], "አሽምጦ ማግኘት").
+entry(ፖሌአክስ, ግ, [ፖሌአክስ ተቀስቅሷል, ፖሌክሲንግ, ፖሌክሶስ], "ለመፈንጠር").
+entry(ካምዪር, n, [ካምያት], "አስደንጓጥኛ ስሜት የሚሰጥ የምግብ አይነት ህዋስ").
+መግቢያ(ቀጠለ, የፊተኛ ጊዜ, [], "የፖል ጊዜ").
+entry(poleis, ብዛት, [], "የ ፖሊስ").
+ውህደት(ነበሰ, መግለጫ, [], "ዓሽኑ የተከለለ").
+entry(አታክልት, ን, [አታክልቶች], "አዋጅ ዳርጋ").
+entry(ድምፃሸር, ነ, [ድምፃሸሮች], "በቅሬታ ግፍአት ላይ የሚሳተፋፋ አካል").
+entry(polemize, v, [polemized,polemizing,polemizes], "ንዋረድ ማድረግ").
+entry(ፖለንታ, በ, [ፖለንታስ], "ከዱቄት ሞገስ የተዘጋጀ ድንቁላ ስላጣ").
+እትም(poler, ነ, [polers], "የዛፍ ማጋዝ").
+እትም(polestar, n, [polestars], "መሪ መርህ").
+entry(poleward, adv, [], "ወደ ምድር አክሲስ ማንኛውም ጫፍ");
+entry(ፖሊን, ነ, [ፖሊንስ], "ለብትም የመመካቻ ቡጋረት").
+entry(ፖሊስ, ግ, [ፖሊስ አደረገ,ፖሊስ እየነበረ,ፖሊስ ያደርገዋል], "ንፁህ ወይም በሥርዓት አድርግ").
+entry(ፖሊሰር, ነ, [ፖሊሰሮች], "አንድ ሊቀ ጥበቃ").
+entry(ፖሊስ, ነ, [ፖሊሶች], "የፖሊሶች የተነሣ ድርጊትን የሚሸምቅ ፊልም").
+የመግባት(የፍትሕ, n, [ፖሊሲዎች], "በሰላምነት ወይም በፍጹምነት ወጥመድ ላይ ያተባበረ እርምጃ ወይም ነጋዴ").
+መግቢያ(መምርጥ, የአሁኑ ጊዜ, [], "የመረጠው ቅርፀት").
+entry(ፖሊዮ, ነ, [ፖሊዮስ], "እንፋሎት ዝናብ በአክሱም ወርቅ ህብረ ትብ ነበር።").
+entry(ፖሊስ, ና, [ፖሌይስ], "የታሪካዊ ግሪክ ከተማ ስቴት").
+entry(ይቦረር, ግ, [ቦሩሩ አድርጓል, ቦሩሩ አለ, ይቦሩራል], "በማሸሻል ማለፍ ላይ ቅንጫብና ገላጋይ ማድረግ").
+እትም(polisher, n, [polishers], "የሚንከራተት").
+Prolog:
+entry(polite, adj, [], "የተሰጠለት ቀኛ ሽምዳህ እና ምሳሌ ስያዝህ ያለውን ምምርት ለሌላኛው መከተል የጀመረ ነው").
+entry(ፖለቲካ፣ ቅዳሴ፣ []፣ "ጥበበኛ").
+entry(ፖለቲኮች, ግምጃ, [ፖለቲኮች, ፖለቲኮች በእየሱ, ፖለቲኮች የሆነው], "በፖለቲካ እየተሳተፋ").
+entry(politico, n, [politicos], "ወይም በስም ጊዜ አንድ መሳሪያ ያለበት").
+entry(ፖለቲካ, በብዛት, [], "የመንግስት ሙያ ወይም ሳይንስ").
+entry(polity, n, [የመንግስት ሥርዓት], "መንግስት መስክ ወይም አሰራር").
+entry(ፖልካ, ግ, [ፖልካአደረገ, ፖልካእየሰራ, ፖልካዎች], "ንቃታማ የምእራብ እምቦል ለማድረግ").
+entry(የመሳሰለይ ሁኔታ ለመምር ከሆነ ለመጠየቅ, v, [አነሳስዋል,እየነሳሰ ነው,ነሳሰዋል], "ለሕዝብ እውነታ እንደሚሁን ምርመር ደርሶ ይጠይቃል").
+ግቤት(ፖላክ, ቃ, [ፖላኮች], "ባህር ዓሣ ምግብ").
+መግቢያ(ፖላርድ, ግ, [ተፖላርደ, እየተፎላረደ, ፖላርዶች], "የዛፍ ከነማ ቅርንጫፎችን ወደ ግንብ መቆረጥ").
+entry(pollee, n, [የተጠየቀው], "የተጠየቀው ሰው").
+ፍሬተክላ(pollen, ግ, [pollened,pollening,pollens], "በዚን ማዕድ የሚዘራ ዕርሻ የማህበሩን እና እንደ ዕፅድዋ መቆጣጠሪያ፤").
+እንትሪ(poller, n, [pollers], "አንድ ጋሻታ ያገኛል").
+entry(pollex, n, [አውራ ጣትዎች], "በፊት እጅ በተገኘው ጣት በውስጡ ያሉት ኃይሌአድነት ግምታ" ).
+entry(polling, n, [ኮርጂዎች], "የምርጫ መመዝገብ ወይም መሰጠት").
+entry(pollinia, npl, [], "የእብቅ ቅንፍዎች ማህደር").
+entry(ፖሊኒክ, ቅዳሴ, [], "ለአበባ ዐብ").
+entry(pollist, n, [pollists], "አንድ መዘዋሪ").
+entry(ፖሊወግ, ነ, [ፖሊወጎች], "አንበጣ").
+entry(ፖሎክ, ን, [ፖሎክስ], "ፖሎክ")।
+entry(አስማተኛ, ነ, [አስማተኞች], "አስማታ").
+entry(እበላሉ, v, [በላኩ,በላላ ሆነው,ይሠኑ], "ንጹህ ወይም ያልተነከሰ ማድረግ").
+ግቤት(ማሳለፊያ, n, [ማሳለፊዎች], "አንዱ ይህን ማስነሣት ያደርጋል").
+entry(ፖሊዎግ, ነ, [ፖሊዎግስ], "ፖሊዋግ").
+entry(ፖሎ፣ ነ፣ [ፖሎዎች]፣ "በፈረስ ላይ የሚጫወር ጨዋታ").
+entry(poloist, n, [poloists], "የፖሎ ተጫዋች").
+entry(ፖሎኒየም, ነ, [ፖሎኒየሞች], "እንቅልፍኛ አካላዊ ንጥረ ነገር").
+entry(ፍራም, ሰ, [ፍራሞች], "የተዋረደ አሮጊያ").
+የቀላይጡን(ኮሶማ ሶል, ኤን, [ኮሶማ ሶልሶል], "አንደኛ የነጭ የደም ሴላ").
+entry(poly, n, [ፖሊ], "ከፖሊኤስቴር የተሰራ አልባሳት").
+entry(ሶስተኛይ, ተዋሕዶ, [], "ሶስት ወይም ከዚያ በላይ መጠኖች ወይም ግለሰቦችን በማካተት").
+መግቢያ(polybag, v, [polybagged,polybagging,polybags], "አንድ ነገር በፖሊኢትሌን ቦርሳ ውስጥ ማስቀመጥ").
+entry(polybrid, n, [አንደኛዎች], "የባለዝግብር እፅ አይነት").
+entry(polycot, n, [መልባስ ግራር], "የአንድ አይነት እንስሳ").
+entry(polydrug, adj, [], "ከብዙ መድሃኒቶች በአንድነት እንደሚጠቀሙት ያለ").
+እትም(polyene, ና, [polyenes], "አንድ ኬሚካላዊ ውህብ የፖሊኢኔ ቅጥ ትርጉም").
+entry(ፖሊጋላ, ን, [ፖሊጋላስ], "የሚነበብ ተክል").
+entry(ባሎችበርነት, ን, [ባሎችበርነቶች], "አብረው የበለበሉት በአንድ ጊዜ ከዚያ በላይ አጋር ማለት").
+entry(polygene, n, [የብዙ ነጥብ ገነቦች], "የገነቦች አይነት").
+ግቤት(የቋንቋ-ማውጫ, ና, [የቋንቋ-ማውጭች], "በርካታ ቋንቋ የሚናገር ወይም የሚጽፍ ").
+እትም(polygon, ቁጥር, [polygons], "በቀጥ መስመሮች የተከበበ ዝግ ከረጢት ቅርፅ").
+entry(polygony, n, [polygonies], "አሾች").
+entry(polygyne, adj, [], "በተመሳሳይ አደባባይ ውስጥ ከአንድ በላይ እንቅላሊት የሚለቅም ንግሥት የምትኖር").
+entry(ብዙነት ሚስት, ን, [ብዙነት ሚስቶች], "በተመሳሳይ ጊዜ ከአንድ በላይ ሚስት ያለነበርነት").
+entry(ብዙ ሳይንሶች የተማሩ, n, [ብዙ ሳይንሶች], "በጣም በዝርዝር ያደገ መማሩ ሰው").
+entry(ፖሊመር, n, [ፖሊመሮች], "የተወላጠ ኬሚካል ውህደት").
+entry(polynya, n, [polynyas], "ወይም የፖሊንያ አካባቢ በባህር በረዶ ተኩል የተከበበ የውሀ ክፍተት").
+ውስጥ(polyol, n, [polyols], "ሶስት ወይም ከዚያ በላይ የሆኑ ሂድሮክሲል ቡድኖች ያሏቸው አልኮሎች")።
+entry(polyoma, n, [ፖሊዮማ], "የቫይረስ አይነት").
+entry(polyp, n, [polyps], "ያልተዋረደ ውስጥ ያለ እንስሳ").
+entry(polypary, n, [ጓልኛው መደጋጋድ], "የፖሊፕ ጉባኤ የተደጋጋ መደጋጋድ ቋሚ አቋም").
+እንቨ ኢንትሪ(ቶሎፔድ, ኤን, [ቶሎፔድስ], "ብዙ እግር ያለው ነገር").
+entry(polypi, a, [], "የ polypus የብዛት ቅርጽ").
+entry(ፖሊፒድ, አን, [ፖሊፒድስ], "አንዲተ ፖልፒ").
+entry(ፖሊፕኒያ, ሰ, [ፖሊፕኒያስ], "ፈጣን መተንፈስ").
+entry(ፖሊፖድ, ን, [ፖሊፖዶች], "ብዙ እግር ያለው ፍጥረት").
+entry(polypody, አ, [polypodies], "አንድ አፍንጫ").
+entry(ፖሊፖይድ, አግ, [], "ፖሊፕን የሚመስል").
+መግቢያ(polypore, n, [polypores], "አንድ ዓይነት ተኮይ").
+entry(polypous, ቅርስ, [], "ለእትህት").
+መግቢያ(polypus, n, [polypuses], "ወይም POLYPI ከዕቃህና ሄት እንኳን የተነሣ ዕደ ውስጥ ያላበረከው እርቅነት ያላቸው እንደግፍ").
+አስተያየት(ብዙ ይህትነት, ቃ, [ብዙ ይህቶች], "ትርጉም እምቅ").
+entry(polysome, n, [polysomes], "የፕሮቲን ክምር ቅድሚያ ክምር").
+እቀጥል(polytene, ቅጥር, [], "አንዳንድ አይነት ከሮሞሶም ባለ").
+entry(polyteny, n, [ሞለተ ክፍል], "እንደ ነጥር ሰባተኛ አብጀው መሆን ሁኔታ").
+ግቤት(የብዙ አይነት, ን, [የብዙ አይነቶች], "የተወቅሞ መዋቅር").
+entry(የብዙ ሽንት, በ, [የብዙ ሽንቶች], "በጣም ከፍተኛ የሽንት መሳቤትPOLYURIC ቅውል").
+entry(polyzoan, n, [polyzoans], "አንድ ብሮዮዞኣን").
+መግቢያ(polyzoic, ግምጃ, [], "አብዛኛውን የእንስሶች ክፍል የተሠራ").
+entry(pom, n, [poms], "የፖሜራኒያን ውሻ").
+እንተርይ(pomace, ሰው, [pomaces], "የተጭሩ ፍራፍሬዎች ቅመጥ ድርጭት").
+እትም(pomade, ግ, [pomaded,pomading,pomades], "ፀጉር መገዝ የሚያሽፍላት ሽታማ እንቅልፍ ማመጣጠን").
+ውሂብ(ፖማንደር, አ, [ፖማንደሮች], "የሽታ ነካካ እቃዎች ዕቅፍ").
+entry(pomatum, n, [pomatums], "አሽተኛ የፀጉር አሸት").
+entry(ፖምቤ, ነ, [ፖምቤዎች], "ከእህል እና ፍራፍሬ የተሰራ አፍሪካ መጠጥ").
+በውስጡ ዋንጫ ያለ ሥጋማም ፍራፍሬ entry(pome, n, [pomes], "a fleshy fruit with a core").
+entry(ፖሜሎ, ነ, [ፖሜሎዎች], "አንድ ዕጣን").
+entry(እሳደድ, ስ, [እሳደዶች], "የባህር ነገር ዓይነት").
+entry(pommee, adj, [], "እጆች በኩባንያ ያሉ ዕምበረ መጠለያ የታሸነጓው").
+እንባዅ ቢሆን በኮሚችዕ ትሩፍዓ ኣብ ምሁራላ ዕበይ ዘይነት ዘይነት ዘይነት!!
+entry(pomo, n, [pomos], "የንድቅነት ማህበረሰብ").
+entry(ፖሞሎጂ, ን, [ፖሞሎጂዎች], "የፍሬ ጥናት").
+እትም(pomp, ን, [pomps], "ከፍተኛ ወይም ዝነኛ አሳይ").
+entry(ፖምፓኖ, ን, [ፖምፓኖዎች], "የባህር ምግብ ዓሣ").
+entry(pompom, n, [pompoms], "አንቲኤረክርፍት ካኖን").
+entry(ፖምፖን, ነ, [ፖምፖንስ], "የማስጌጣት ልዩ ጥበቃያዊ ማንጠፊያ ወይም ኳስ").
+entry(ንቁ የሰው-መንበር, አማ, [], "የተጋለጠ ከፍተኛ ራስነት ያላቸው").
+entry(ponce, v, [ቆጣቢነት ያደረገ, ቆጣቢነት ማድረግ, ቆጣቢነት ያደርጋል], "ዳኛ በመሆን").
+entry(ፖንቾ, ተ, [ፖንቾዎች], "የልብስ አይነት፣ መጋረጃ PONCHOED ተግ").
+መግቢያ(ወንዝ, ግ, [ወነዘ, መወነዝ, ወንዞች], "ውሃን ወደ ጥቁር ወንዝ ማካተት አነሰ የሆነ ውሃ አካባቢ").
+entry(ያበረታተ, ግ, [አባረከ,አባረክ,አባረክባ], "አንድ ነገር ያለህ በጥንቃቄ ያምኑ ማሰብ").
+entry(አስተካካይ, n, [አስተካካዮች], "ያስተካክለው").
+entry(ውሃ ተክል, n, [ውሃ ተክሎች], "ውሃ ውስጥ የሚኖር ተክል").
+entry(ፖን, ነ, [ፖንስ], "አንድ የበቆሎ እንጀራ").
+entry(ponent, አድጀክቲቭ, [], "አረጋጋጭ").
+entry(pong, v, [ponged,ponging,pongs], "ይኑር").
+entry(ፖንጋል, ስ, [ፖንጋሎች], "በታሚል ተናጋሪ ህንድ የተፈጨ ድንኩላ አይነት").
+entry(pongee, n, [pongees], "አንድ ዓይነት ሲልክ").
+entry(pongid, n, [pongids], "የሥጋ ዝልኢ ዝልኤ").
+እትም(pongo, ነ, [pongos], "አንትሮፖይድ አፕ").
+እትም(pongy, ግምጃ, [], "የሚያስቆጥብ እጅግ የሚያስቆጥብstinky").
+entry(ፖኒያርድ፣ ግ፣ [ተፖኒያርደው፣ በፖኒያርዲንግ፣ ፖኒያርድስ]፣ "በታጋሽ መሞተት").
+entry(ponied, ያለፈ, [], "የፓኒ ጊዜ").
+entry(ፖኒስ, አለፈ, [], "3ኛ ሰው ነጠላ አማራጭ የፖኒ").
+መግቢያ(pons, ነ, [pontes], "የነርቭ ሲል በአንጎል ውስጥ ያለው ፈተሻ").
+entry(ፖንቲፈክስ, ነ, [ፖንቲፊሴስ], "አንታይችንት ሮማን እምነተኛ").
+entry(ጳጳስ, ና, [ጳጳሳት], "ሐቤር ወይም እምባ").
+entry(ፖንቲፊክ, ቅ, [], "ለጳጳሳዊ ወይም እስክንድር የሚገኝ").
+entry(pontifices, pl, [], "የፖንቲፈስ").
+entry(pontil, n, [pontils], "ፓንቲ").
+entry(ፖንቲን, ግምጃ, [], "ድንጋይ የሚዛመድ ግኝዑ").
+entry(ፖንቶን, ን, [ፖንቶናች], "ፖንቶን").
+entry(ፖንቷን, ን, [ፖንቷናት], "ታች ባለፉርገ ጀልባ").
+entry(ፖኒ, ግ, [ፖኒድ,ፖኒይንግ,ፖኒዎች], "ትርጉም በመጠቀም ትምህርቶችን ለማዘጋጀት").
+entry(ኮከብ-ጠጉር, n, [ኮከብ-ጠጉሮች], "የፀጉር ሥርዓት").
+entry(ፖንዙ, ነ, [ፖንዙስ], "በዋናነት በዓሣ ላይ የሚጠቀመው የፋናጣ ሶስ").
+መግቢያ(poo, v, [pooed, pooing, poos], "ያገደለ").
+entry(አክሸኛ, በ, [አክሸኛዎች], "ተፅዕኖ ያለው ሰው").
+entry(ውሻ, ግ, [ጠቁረውታል, እየጠቁረ ነው, ይጠቁራል], "ማቆም").
+አስመጪ(ፑድ, ነ, [ፑድስ], "የሩሲያ የክብደት ክፍል").
+entry(poodle, n, [poodles], "ዝብ ብሰፍራ ውሻ").
+ግቤት(pooft, interj, [], "ድንጋጤ ያመለክታል").
+entry(ፑ, ግ, [ፑደፈ, ፑዲንግ, ፑዎች], "ንቅረት መግለጽ").
+ውስጥነት(ፑጃ, ናርት, [ፑጃዎች], "ፑጃ").
+entry(pooka, n, [pookas], "ኢራሽ ኣግዮት ውስጥ ያለ ከምቦ አነሳቃሸ").
+ውህደት(መሀድ, ግቤት, [ተሰብስቦ, መሀድ, መሀዶች], "በጋራ ገንዘብ ማቀናበር ማለት ነው").
+entry(pooler, n, [poolers], "የሚያሰናዳ አንዱ").
+entry(poolhall, n, [poolhalls], "የፖል ክፍል").
+entry(የቤላዋ ክፍል, ን, [የቤላዋ ክፍሎች], "በቢሊያርድስ ማጫወቻ ግቢ").
+entry(poolside, n, [poolsides], "መዋኛውን የሚያከብር ቦታ").
+entry(ፑኦን, ኒ, [ፑኦንስ], "የምሥራቅ ህንድ ዛፍ").
+entry(poop, v, [pooped,pooping,poops], "ማደነዝ").
+ፍትሄ(poopy, ትምህርት ቃል, [], "ሞኝ ወይም ያልተደራጀ").
+entry(ድህነት, ቅድመ ሀ, [], "ድህነት የሚያና ደረጃ አለመነእስ ተስፋ").
+entry(ፖሪ, n, [ፖሪዎች], "ቀላል ያለ ዱቄት ኬክ").
+entry(poorish, ግምጃ, [], "በአንፀባራቂ ደኅንነት ያጠናመነ").
+መግቢያ(በጥፊነት, ቀጥላዊ, [], "በጥፊ መንገድ").
+entry(ድሃነት, ን, [ድሃነቶች], "ድሀ መሆን ሁኔታ").
+entry(poortith, n, [poortiths], "አከርክሮም").
+entry(ጩሉቃን, ና, [ጩሉቃናት], "አነስተኛ የሰሜን አሜሪካ ወፍ").
+Prolog:
+entry(pop, v, [ፈነዳ, ፈንዳ, ይፈነዳ], "አንጋግራ ድምፅ ማድረግ").
+entry(ፖፕኮርን, ቃ, [ፖፕኮርኖች], "በውስጡ ሙቀት ሲያደርስ የሚረጨ እና የሚነበንብነው የበቆሎ ዓይነት የተለየ እርሻ አማራጭ").
+entry(ፖፕ, ግ, [ፖፕዎች], "የሮማ ካቶሊካዊት ቤት አለም አምባላልቃት እና ወዳጅ።").
+entry(ጳጳሳትነት, በ, [ጳጳሳትነቶች], "የጳጳስ መንግሥት").
+entry(ፖፓይድ, ተግሣጽ, [], "የታጣመ ዓይኖች ያሉት").
+አስገባ(የፍንጭ መሳሪያ, ና, [የፍንጭ መሳሪያዎች], "ማሽላት የሚችል ጠቋሚ የጨዋታ መሳሪያ").
+entry(popinjay, ን, [popinjays], "ከመዝናኛ ሰው").
+መግቢያ(ማደሚያ, ን, [ማደሚያዎች], "በፍጥነት የሚያድግ ዛፍ").
+በርሀው(poplin, ነ, [poplins], "ብሩህና ጸጥ ተሸባሪ").
+entry(poplitei, npl, [], "የ ጉልበት ኋላ ጡንቻዎች").
+entry(ጉልበት ኋላ ክፍል, ቅድመ ተዋሕዶ, [], "ጉልበት ኋላ ክፍልን በመዳምጣት የተያዘ").
+entry(popout, n, [popouts], "በቤዝቦል ውስጥ አንዱ የመውጣት አይነት").
+entry(popover, n, [popovers], "እጅግ ጥንቅ ያለ እንቁላል ማፊን").
+እትም(poppa, n, [poppas], "papa").
+እትም(poppadom, n, [poppadoms], "papadum").
+እትም(poppadum, ነ, [poppadums], "papadum").
+እትም(popped, ያለፈ, [], "የ pop ጊዜ አጠቃቀም").
+entry(popper, n, [poppers], "የሚፈንጥም አንዱ").
+entry(poppet, n, [poppets], "መካኒካል ቫልቭ").
+entry(poppied, ግ, [], "በበቆሎ የተሸፈነ").
+የመግቢያ(አፈርሞኞች, ብዛት, [], "አፈርሞን ያለው").
+entry(popping, አሁኑ, [], "ማሰነጠለ ክፍለ ቃል").
+entry(popple, v, [poppled,poppling,popples], "እንቂያቂዕ ፣ እንቆቅልሽ በሚደረግ ሁኔታ መንቀሳቀስ").
+entry(popply, ገላጭ, [], "POPPLIER POPPLIESTchoppy").
+entry(ፖፒ, ሰ, [ፖፒዎች], "አንድ የአበባ ተክል").
+Էնթրի(պոպի, աբպ, [], "ՊՈՊԻԵՐ ՊՈՊԻԵՍՏը ունենալով փոփ երաժշտության բնութագրերը").
+entry(ፖፕሲ, ን, [ፖፕሲዝ], "ፖፕሲ").
+entry(popster, n, [popsters], "ፖፕ ሙዚቀኛ")
+ማስገቢያ(ፖፕሲ, ኖ, [ፖፕሲዎች], "አንዲት ወዳጅ እህት").
+እትም(populace, ነ, [populaces], "ህዝብ").
+entry(የተወደደ, ቅዳሴ, [], "ለብዙ ሰዎች ወደደ").
+entry(populate, v, [ተሰፍሯል,በመሰፈር,ይሰፈራል], "መኖር").
+entry(ፖፒሊዝም, ን, [ፖፒሊዝሞች], "የፖፒሊስቶች ትምህርቶች").
+መግቢያ(መታወቂያኛ, ን, [መታወቂያንያን], "የወላንቋው ሕዝብ የሚወክል የፓርቲ አባል").
+entry(populous, adj, [], "ማህበረሰብ ብዙ ያለው").
+ግቤት(መያዣ, ና, [መያዣዎች], "በሕንጻ መግቢያ ያለ የተሸፈነ መዋቅር፣አመመያ ግምጃ የሆነ ይታያል").
+entry(አስማት, ቅጽ, [], "ላሞች ዘይቤ የሆነ").
+እባኮትኝ, የተድርጋለሁ ነኝ, እባኮትኝ, እባኩ ነኝ.
+entry(ፖርሺኖ, n, [ፖርሺኒ], "ፖርሺኒ").
+እትም(pore, v, [pored,poring,pores], "በጥንቃቄ ማየት").
+እትም(porgy, n, [porgies], "የባህር ምግብ አሳ").
+entry(porin, n, [porins], "ንቅፅብ ማንኛውም ክፍል ውስጥ ንጥረ ነገሮች ሊላፈጡበት የሚችሉ አይነቶች አባል አዘኮኝ ለሐበሬት").
+entry(ፖሪስም, ነ, [ፖሪስሞች], "የአስተዳደር ስራ").
+entry(እርግብ ስጋ, ግ, [እርግብ ስጋ በላ, እርግብ ስጋ የምትበላ], "በማፍላላት በማንቀሳቀስ መብላት").
+entry(ከርስኪ, ነ, [ከርስካት], "አንበሳ").
+entries('የክሩር ጉዞ', ማነፃፀር, [], "ከክሩር የሆነ").
+entry(ፖርኪዎች, ብዙ, [], "የፖርኪ").
+መግቢያ(porkiest, superlative, [], "የporky").
+entry(የእንስሳ ዳቦ, ነ, [የእንስሳ ዳቦዎች], "የሰው ባልንጀራ ካፍያ").
+entry(ፖርክወድ, ን, [ፖርክዎዶች], "አንድ ኪሮማታዊ ዛፍ").
+መግቢያ(ፖርኪ, ጦርነት, [], "ፎኪ እና ፎኪየ ይመስላል ጥርስ").
+entry(ፖርኪ, ኤን, [ፖርኪዎች], "አንበሳ ዘር").
+እቲ_ዝመሰለ(porn, ን, [porns], "ፖርኖግራፊ")
+entry(ፖርኖ, ነ, [ፖርኖስ], "የሰካሙ ቪዲዮ").
+entry(porny, ግም, [], "PORNIER PORNIESTpornographic").
+entry(ፖሮስ, ዘይቤ, [], "መቋረስ ዕዉቀር").
+መግቢያ(ቀዳቅ, ኒ, [ቀዳቃታት], "ቀዳቅነት").
+እትም(porous, አድስጊ, [], "አነስተኛ መክፈቻዎች ያሉት፣ POROUSLY በአውነት እንደ ግምት").
+እትም(ፖርፈሪ, ስ, [ፖርፈሮች], "የእሳት ማደጋ ድንጋይ").
+entry(ሓላፊ፣ ግ፣ [ሓላፊያላፊ, ሓላፊያላፊኦ, ሓላፊያላፊት], "በእምብር ላይ ወደ ፊት እንደ ሚያቀላቀል ተንቀሳቀስ").
+entry(porrect, adj, [], "በፊት ዘርጋ").
+መግቢያ(ዳቦ ጭማቂ, ን, [የዳቦ ጭማቂዎች], "ይጠገባ ተመሳሳይ ምግብPORRIDGY ግ").
+እንትራይ(ወደብ, v, [ወደበ,ወደብ እየነካው,ወደቦች], "ወደ ግራ ለመላላት").
+ይግባ(portable, n, [portables], "እንደ ነፃ ንብረት አመላለሰ የሚያውል ነገር").
+ግቤት(ተሸክሞ, ግም, [], "እንደሚሸከም የሚችል").
+entry(ጓጓዝ, ግ, [ጓጓዘ,ጓጓዝ ላይ,ጓጓዞች], "ከአንድ የሚንቀሳቀሰ ውሃ መንገድ ወደ ሌላ ያስተላልፎ").
+እቀት(portal, n, [portals], "በር የመግቢያ ወይም መግቢያ PORTALED adj").
+entry(portance, n, [portances], "አመለካከት").
+entry(portapak, n, [portapaks], "ተንቀሳቃሽ የቪዲዮ መቅረጫ እና ካሜራ ኮቦ ነው").
+መግባት(portend, ግ, [portended,portending,portends], "እንደ ምልክት ማገልገል").
+entry(እንግታ, ን, [እንግታዎች], "አንድ ክስተት").
+መግቢያ(ፖርተር, ግ, [አቀረበ፣ ነቀረበ፣ አቀረበዎች], "ጭነቶችን ለክፍያ መሸከም")።
+entry(ፖርቶል, ን, [ፖርቶሎች], "በመርከብ ጎን ላይ ያለ ትንሽ መስኮት").
+ውስጥ(portico, n, [porticos], "ወይም ድርሻ ምንጭ አያይዙ").
+entry(portiere, n, [መግነዝያ መጋረጃ], "ደጃፍ በሚያገለግል መጋረጃ").
+አስተያየት(ኬፕሱል, ጌድም, [ተካል፣ቀንዲ ፖርሽን ለማርዳእቲ፣ኬፕሱሎች], "ወዲሗሩም በርማት ሰማይ ን ገር ሰንደፍ").
+entry(portless, adj, [], "መርከቦች ለመጫን ወይም ለመረመር ቦታ የሌለው").
+entry(portly, adj, [], "ምቀላን ወይም ወፍራም ወይም እጅግ ወፍራም").
+entry(portolan, ነ, [portolans], "በጀልባ መርከቦች መምሪያ ዝምዝም").
+አስመጣ(መላክ, ስ, [መላኮች], "አንድ ሰው ምሳሌ").
+entry(አሰላልፈ, ግ, [አሰላልፏል,እየአሰላልፈ,ይአሰላልፋል], "በምስል ማሳያት").
+entry(portress, n, [portresses], "የሴት ደጃፍ").
+entry(portside, adv, [], "መርከብን ወደፊት እያዩ በግራ ወገን").
+entry(pos, pl, [], "እንዲህ ያለው").
+entry(posada, n, [ቦሳዳሶች], "አንደደት").
+entry(መቆም, v, [ቆመ,ቆሞ,ቆሞው], "መቀመጥን ማስረከብን ማምለጥ ይችላል መቆም").
+entry(ፖዝር, ነ, [ፖዝተሮች], "ታይቷል").
+እትም(ዋላው, ስ, [ዋላዎች], "አሰልቺ ወይም የዚህምባትታም ሰው").
+ፋይል(ፖዚ, ግምገማ, [], "ተገኝ ፖዚስትዪትነት").
+entry(posh, adj, [], "POSHER POSHESTውብ ወይም ከፍተኛPOSHLY ግስ").
+ውህደት(እብድነት, ነ, [እብድነቶች], "እብድነቱን ያለው አስፈላጊነት").
+entry(posies, pl, [], "የእንግድ ዕቃ").
+entry(መቆም, አሁንያው, [], "የመቆም ተሳታፊ").
+entry(posingly, adv, [], "በአቆመ ሁኔታ").
+entry(posit, v, [posited,positing,posits], "መቀበል").
+መግቢያ(መወቀር, v, [ተወካሪ, መውቀር, ስፍራዎች], "በተወሰነ ቦታ ማስቀመጥ").
+entry(positive, adj, [], "አስቀድሞ አስቀደም").
+entry(አዎንነት, ን, [አዎንነቶች], "ከዜሮ በላይ የሆነ መጠን").
+entry(ፖዚትሮን, ነ, [ፖዚትሮኖች], "አልዑ አተምኒ ቅን ነገር").
+entry(posole, n, [posoles], "ፖሶሌ የዱር ዶሮ፣ በተፍለግሉ እና ማደሻ የተሰራ ደቡብ አሜሪካ ዝግመ ቋሚ፣ እና በሽመኝ የተዘጋጀ ስሙና ቀይ አልባል ዝግመ ዝማል").
+ውሂብ(posology, አፅ, [posologies], "ከባህርይ መየዝ እና በይቅርናት ይጠቀመዋል")
+entry(posse, n, [posses], "የሰላም አፈፃፀም አገልግሎትን ለማገዝ የተጠራ የሰው አካል").
+entry(possess, v, [እያየቀሰሰ, ተያየቀሰሰ, ያየቀሰሰ], "እንደ ንብረት መኖር").
+entry(posset, n, [possets], "አሞሌ በማህበር የሚጠጣ ሻውቦ ነት ከበረዶ ጋር የሞላ፣ በእሳት የተነክተ የምንቅርብ መጠጥ").
+entry(የሚቻል, ቅዳሴ, [], "የተንሳፈፈ እድል ያለው ወይም እውነትነቱ የሚቀረጽ POSSIBLY adv").
+entry(ተመነጭ, ን, [ተመነጮች], "አንድ እድል").
+entry(ኦፖሱም, n, [ኦፖሶሞች], "ኦፖሰም").
+ቀጥል(ልክ, ግ, [ለካ, ልካን, ልኮች], "በአማላጅ ቦታ ማሰናጋጅ").
+መግቢያ(ማስቀመጥ, ነ, [ማስቀመጦች], "እቃ ማላክ ክፍያ").
+እትም(ፖስታ, ነ, [ፖስታዎች], "ፖስት ካርድ ነው").
+መግቢያ(በፖስታ, ግም., [], "ከፖስታ ጋር የሚገናኝ በኩል").
+መግቢያ(postanal, ተዓማሚ, [], "ማጭበርበር ተይዘቦ ይኖራል").
+ግቤት(የፖስታ ቦርሳ, ን, [እንድየየፖስታ ቦርሳዎች], "አንድ የፖስታ ቦርሳ").
+ግቤት(postbase, ግምገማ, [], "በመሠረተ ቃል ተከትሎ").
+እንተር(ፖስትቦክስ, ኤን, [ፖስትቦክስስ], "አንድ መልእክት ቦርሳ").
+entry(postboy, n, [ማውራቶች], "ፖስትን የሚያስተላልፍ ወንድ ልጅ").
+መግቢያ(postburn, ቅዳሴ, [], "ከእሳት በኋላ").
+entry(postcard, n, [መልእክት ካርድ], "በመልእክት ቤት የሚጠቀም ካርድ").
+entry(postcava, n, [postcavae], "ከፍተኛ ደሴት ያላለው ጅማት").
+አስገባ(postcode, n, [postcodes], "በማሰርግ አድራሻ ውስጥ የተጠቀሙ የቁጥሮችና የደብዳቤ ምልክቶች ኮድ").
+መግቢያ(ከመንግሥት መታሰቢያ በኋላ, ግምገማ, [], "ከመንግሥት መታሰቢያ በኋላ").
+እቤት(postdate, v, [postdated,postdating,postdates], "ከእውነተኛው ቀን አማካረድ ቀን ለመስጠት").
+እትም(postdive, ግምገማ, [], "ከመምጻት በኋላ").
+entry(postdoc, n, [የፖስቶዶክቶር], "በፖስቶዶክቶር ጥናት ላይ እየተሳተፈ ያለ").
+entry(postdrug, adj, [], "ከመድሃኒት መውሰድ በኋላ").
+እትም(posteen, n, [posteens], "የአፍጋን ውጭ ልብስ").
+እንትሪ(ፖስተር, ግ, [ፖስተራይድ,ፖስተሪንግ,ፖስተሮች], "የህዝብ ማስታዎቂያዎችን ማሳለፍ").
+አስተያየት(በኋላ_በር, ነ, [በኋላ_በሮች], "ኋላውን ዞር ለይዝ").
+እትም(postface, ነ, [postfaces], "በማብራሪያ መጨረሻ አንፀራረብ የተቀመጠ አጭር ማስታወሻ").
+እቀደ፣ አድጀ፣ []፣ "ከእሳት በኋላ"።
+ይህን የፕሮሎግ መስመር ወደ አማርኛ በመተርጎም የተዘጋጀው ኢንፕቱ ህገወጥ ይሆናል፤ ነገር ግን የመምጠብ ተጠቃሚ መዝገብ ዝርዝር የሆነውን ኢንፑት የአማርኛ መዲበብ (ቅድምዝግጅትያሕል) 13 ዓመት ወይም ሚዚ።::
+entry(postfix, v, [postfixed,postfixing,postfixes], "አንድ ነገር ለማራቀፍ").
+እትም(postform, v, [postformed,postforming,postforms], "ቀጥተኛ መለወጥ").
+entry(postgame, adj, [], "የጨዋታ ማብራሪያ በኋላ").
+ውሂባዊ(ድህረ-ምረቃ, ነ, [ድህረ-ምሬቃዎች], "መማር ያቀጣጥሉ ተማሪ ከምረቃ በኋላ").
+እትም(postheat, ን, [postheats], "በቀላይ ላይ ከህክም በኋላ ሙቀት መቅደ"),
+entry(የድርድር ጉድጓድ, ቃ, [የድርድሮች ጉድጓዶች], "እርሻ ስፍራ ነዳጅ ማስቀመጫ").
+ውስጥ(መስለኛ, ነ, [መስላያት], "ቅጥ ነገር").
+entry(postie, n, [posties], "ደብዳሩን የሚያደርስ").
+entry(postin, n, [ፖስቲን], "posteen").
+መግቢያ(የማስቀመጥ, ነ, [መስቀመጥ], "ወደ መዝገብ ማሽከር").
+መግቢያ(postique, ነ, [postiques], "postiche").
+entry(postlude, n, [ከመድሃኒት], "የመድሃኒት ሙዚቃ ሥራ").
+entry(ፖስት ሰው, ነ, [ፖስት ሰዎች], "የፖስታ ሰው").
+entry(postmark, v, [postmarked,postmarking,postmarks], "ፖስታን በኦፊሻላይዝድ ማርክ ማምለክ").
+entry(postop, n, [ከሕክምናው በኋላ አካሄድ], "በቀዶ ጥገና የተገለፀ ታካሚ").
+entry(postoral, adj, [], "ከአፍ ወደ ኋላ የተገጠመ").
+entry(postpaid, adv, [], "ከፖስታ ተከፍሏል").
+entry(አዘግይ, ግ, [አዘገየ,አነሳ,አዘነቸ], "ወደ ወደፊት ጊዜ ማምጣት").
+ውስጥ(postpose, v, [postposed,postposing,postposes], "ከአገራማይ የተያያዘ ቃል ወይም ሐረግ በኋላ ቃል ወይም ሐረግ ማስቀመጥ").
+entry(postpunk, ግምጃ, [], "የፓንክ ሮክ በኋላ ምንጭ ሙዚቃ ተመሳሳይ").
+entry(postrace, adj, [], "ውድድር ካለቀ").
+ውስገባ(ከፍረሰት, ግምጃ, [], "ከአመጋገብ በኋላ").
+entry(postshow, adj, [], "የተወሳነ በመዝገብ").
+ፈቀጄ(postsync, v, [postsynced, postsyncing, postsyncs], "ድምፅን ከፎቶ ማለቅ በኋላ ከፊልም ጋር ማስቀመጥ").
+entry(posttax, adj, [], "ቀር የተከፈለ ቀሚስ").
+entry(postteen, n, [postteens], "19 አመት በላይ የሆኑ ሰው").
+ይህን የፕሮሎግ መስመር ወደ አማርኛ በፕሮሎግ ብቻ ተርጉም:
+entry(posttest, n, [posttests], "ከአሰልጣኝ ፕሮግራም በኋላ የሚሰጥ መልካም ሙከራ").
+entry(postural, adj, [], "ወደ አካል አቀማመጥ የሚመራ").
+entry(አቀማመጥ, ግ, [አቀመሰ, እያቀመሰ, ያቀማልክ], "ልዩ አቀማመጥ ማምረጥ").
+entry(posturer, n, [posturers], "አካላዊ እንቅስቃሴ የሚያደርግ").
+entry(postwar, adj, [], "ጦርነት በኋላ የሚኖር ወይም የሚከሰት").
+መግቢያ(posy, ኖርፃ, [ፖሲዎች], "አንድ አበባ ወይም የአበባ አቅራቢያ").
+ውስጥ(pot, v, [potted,potting,pots], "አንድን ነገር በትንሽ ብልህ ማስቀመጥ የተሰራ እንደገና").
+entry(potable, n, [potables], "እንጠጣው የሚቻል ፈሳሽ").
+entry(ፖታጅ, ን, [ፖታጅስ], "ጠጡ ዝቆር ሾርባ").
+entry(potamic, አግ, [], "ምምሕዳቅ ሥርዓት").
+እትም(potash, ነ, [potashes], "አልካላይን ንጥረ ነገር").
+entry(potassic, adj, [], "ወርቅ ቅርብ የሆነ የተለያዩ ንጥረ ነገሮች ጋር የተያያዘ").
+entry(መጠጣት, ን, [መጠጦች], "መጠጣት ድርጊት").
+መግቢያ(ድንች, ነ, [ድንችቦች], "የተተከለ እርሻ የሚበላ ቅርጩፍ").
+መግቢያ(potatory, ቅርጽ, [], "ለመጠጣት ዝርዝር").
+እትም(potbelly, ስ, [potbellies], "ወፍራም ሆድ ክልል").
+entry(ምጣው, ግ, [ምጠዋለ, ምጠዋል, ምጠዋየ], "ዝቅተኛ ጥበብ ሥራ ማፍራት").
+entry(potbound, adj, [], "በማንበረቡረብ ርካሽ ተሳትፎ አፈጺ ያጣለት፣ ከመዝሪያው ዝቅ በላይ በዞረ").
+entry(የሚኒክ ወንድም, ስ, [የሚኒክ ወንዶች], "በመዋዛ ግቢ ውስጥ ደንበኛዎችን የሚያገለግል ወንድ ልጅ").
+entry(poteen, n, [ፖቲን], "ያልገደበ የአውሮፓ ብስኩት").
+ቀትር(ሃይማኖት, ን, [ሃይማኖቶች], "ኃይምነት").
+መግቢያ(ኃይል, ቃ, [ኃይላት], "ኃይለኛ መሆን ጥራት").
+entry(ብሩህ, ተዓማሚ, [], "በኃይል ማደህ በብሩህ ሁኔታ አዲስ ሥርዓት").
+እትም(potful, ነ, [potfuls], "አንድ ምጋር እንደሚያንከባል").
+entry(ፓትሄድ, ሰ, [ፓትሄዶች], "ማሪዋና የሚጮህ").
+entry(ፖቲን, ን, [ፖቲንስ], "ፖቲን").
+እኩል(entry, v, [እኳላቸው, እኳል, እኩል], "ለማስጨነቅ").
+entry(ዕድል ዘበን, ስ, [ዕድል ዘበናት], "የምግብ ወይንም በማቀናበር የሚውል ማንኛውም ቅጠል ወይንም ዕፀ").
+መግቢያ(ጉድጓድ, ን, [ጉድጓድዎች], "አንድ ጥልቅ ቀዳዳ በአካባቢ ውስጥPOTHOLED ግምገማ").
+entry(አካባቢ መልካም ሰማይ, ን, [አካባቢ መልካሞች], "ወለደ ድልድይ እጅግ ዝቅተኛ መግቢያ ወይም ቀላይ ድምጻ ያለው አካባቢ").
+entry(pothook, n, [pothooks], "በሩዙይ ለመጽናት ወይም መጠመቅ የሚሆን ጥር").
+entry(ጲቶስ, ና, [ጲቶስ], "ዝርያው ተፈጥሮ ገጽ ያላቸው ለተማማኝ ተንቀሳቃሽ ተክል").
+entry(የቢራ ቤት, ን, [የቢራ ቤቶች], "አሞሌ").
+entry(ፖቲሼ, ና., [ፖቲሾች], "የእንቅፋቅ አይነት").
+entry(መድኃኒት, ነ, [መድኃኒቶች], "አንድ የአስገራሚ ወይም የሕክምና መጠጥ").
+እንቶሪ(potlach, n, [potlaches], "እንቁራሪ ግብዣ").
+መግቢያ(potlache, n, [potlaches], "potlach").
+entry(እንቅልፍመስጥእንስር, ግ, [እንቅልፍመስጥእንስሩ, እንቅልፍመስጥእንስርነት, እንቅልፍመስጥእንስርችሎች], "የዝግጅት በረሀዳድ ምሽት ግብዣ እንደሚያከብር").
+entry(potlike, ቅጥዕ, [], "የምንኪያ ቅርስ").
+entry(ፖትላይን, ነ, [ፖትላይኖች], "የኤሌክትሮላይቲክ ሴልስ አንድ ረግ፦").
+ውህድ(potluck, አማካይ, [potlucks], "ምግብ በአጋጣሚ የሚገኝ").
+እትም(potman, ን, [potmen], "በማያዘጋጃል ውስጥ ደንበኞችን የሚገለግል ወንድ").
+መግብያ(ፓትፓይ, ስ, [ፓትፓይዎች], "ሥጋና አትክልት ያለው ድምብል ፓይ").
+እትም(ሽፈር, ን, [ሽፈሮች], "ሽፈር").
+entry(potsherd, n, [potsherds], "የተሰበረ ሸክላ ቁራጭ").
+entry(ተነው ማረኪያ, v, [ተነው ማረኪያ,ተነው ማረኪያው,ትነኆቼን], "ሳይንወጡ ማም መወርወር").
+እንተመለስ(potsie, ኤን, [potsies], "potsy").
+entry(potstone, n, [potstones], "የስሜና አይነት").
+መግቢያ(potsy, ን, [potsies], "የልጆች ጨዋታ").
+entry(ድርሻ, ነ, [ድርሻዎች], "ዝቅተኛ ሾርባ").
+entry(potted, አላፊ, [], "አረንጓዴ ያደረገ").
+entry(ፖቲን, n, [ፖቲንስ], "ፖቲን").
+entry(ፖተር, ግ, [ፖተርድ, ፖተሪንግ, ፖተርስ], "ማጋጠመ").
+entry(የሸክላ እንቁላል አበጣጠር, ን, [የሸክላ እንቁላሎች], "ይህ አንዱ የሸክላ እንቁላል እናጣጥራል")
+እትም(pottery, ነ, [potteries], "ከመሠረቱ የተሠራ እና በሙቀት የተደረጀ ማዕድ").
+entry(ፖቲየር, ንፍትቢ, [], "የ ፖቲ").
+entry(potties, ብዝርው, [], "የግማሽ").
+መግቢያ(ቦታነት በጣም, ምልክታቸው, [], "የ ቦታ").
+entry(አቀድ፣ አሁን፣ [], "ምንጫ እንደ ጎማ").
+entry(pottle, n, [pottles], "የመጠጥ ዕቃ").
+entry(ፖቶ, ና, [ፖቶስ], "የትሮፒካል አፍሪቃ ኒዞሪት ድመት").
+entry(ታነሽ, አድርጎ, [], "ጥቅም ትንሽ").
+መግቢያ(ፖቲ, ን, [ፖቲዎች], "ትንሽ መፃወቻ ቦይ").
+entry(ፖዜር, ነ, [ፖዜርሰር], "ታሽ").
+entry(ካባ, ግ, [ባጠረ,ማበጠር,አበጠረ], "አነስተኛ እንቅስቃሴ፣ ተነቃቃሽ ቅርጽ ውስጥ ማቅረብ").
+entry(pouchy, adj, [], "ቦርሳን የሚመስል").
+entry(pouf, n, [poufs], "አፀጉ ተላላ የተለዋዋጡ ማህበር").
+entry(pouff, n, [pouffs], "poufPOUFFED adj").
+ማስገቢያ(pouffe, ስ, [pouffes], "pouf").
+entry(ፖላርድ, አ, [ፖላርድስ], "እንስላሉ ዶሮ").
+entry(ፖላርድ, ና, [ፖላርዶች], "ፖላርድ").
+መግቢያ(ዶሮ, ስ, [ዶሮዎች], "አንድ ዕድሜ ያላቸው የቤት ደርዘን").
+entry(የእንስሳት ነጋዴ, n, [የእንስሳት ነጋዴዎች], "የእንስሳት ነጋዴ የሆነ አንድ").
+entry(አጡራር, ግ, [አጡራራች, አጡራራ, አጡራራያች], "ለማድነህ ዕንበር በማቅረጽ").
+entry(ዶርማዚ, ን, [ዶርማዛት], "ለእንቋቊት ወይም ሥጋ የሚከሰሱ የቤት ዛሬዎች").
+entry(ዝሉአየ, ግ, [ዝሉአየ፣ ዝሉኡየንይ, ዝሉአየንይኣይይ], "ድንጋጤ ድርብ ወይም ቅምሻ ማድረግ").
+እቶች(ጥፋት፣ ነ፣ [ጥፋቶች]፣ "የሚሞላ አንዱ").
+ፖሮግ: entry(ፓውንድ, ግ, [ተመታ, መመታት, ይመታሉ], "ከባድ እና በተደጋጋሚ ማንካት").
+እባኮትን፣ ይህን ወደ አማርኛ በዚህ ዓይነት ቋንቋ ይተርጉሙ: 
+entry(poundage, n, [poundages], "ማካተት የምልክት").
+entry(ፓውንዳል, n, [ፓውንዳሎች], "የኃይል አስመራማዊ").
+entry(pounder, n, [pounders], "የሚያምርም").
+entry(ማፍሰስ, ግ, [ፈሰሰ, እያፈሰሰ, ይፈሰሳል], " ተፋሰሰ ሊፈስስ ይችላል ግም adj").
+እትም(pourer, ሰ, [pourers], "የሚያፈስስ አንድ").
+entry(poussie, n, [poussies], "ፓሲ").
+entry(pout, v, [pouted, pouting, pouts], "ከወጤራ መነዝናዝ").
+entry(pouter, n, [pouters], "አንድ ላይ ቁማሩ ያለ").
+entry(poutful, አግራፍ, [], "የበርበሬ").
+entry(ፑቲን, ሽ, [ፑቲኖች], "ከጥብስ ፓስታ እና በጥራጥሬ ጤፍ ላይ ከሆነ ተመዝጋቢ መገበሻ ዝግጅት").
+entry(pouty, አግ, [], "በተመጣጣኝነት ማሰጣጠር ወይም መቆሞቻ").
+ውስጥ(ምስኪነት, ሰ, [ምስኪነቶች], "ማብራርያ").
+entry(pow, n, [ብልጭታ], "አንድ የፍንዳታ ድምቀት").
+ውሂብ(powder, ግ, [powdered,powdering,powders], "ነገርን ወደ ተለጠፈ መዋቅር ለማምጣት").
+አካባቢ(powderer, ነፃ, [powderers], "አንዱን የቆላ").
+entry(ፍሬፊያ, ግምጃቀም, [], "እንደ ዐቀጥ").
+entry(power, ግ, [powered,powering,powers], "እንደ እርምጃ መነሻ የሚሰጥ").
+entry(ኃያል, ተዓምር, [], "እጅግ ኃይለኛ በመሆን").
+entry(powter, n, [powters], "የቤት ሩብሊስ`).
+ውሂብ(powwow, ግ, [powwowed,powwowing,powwows], "ኮንፈረንስ ማደራጀት")।
+ማስገባት(pox, ግ, [poxed,poxing,poxes], "የቆዳ መፍሰስ ባለው በሽታ ታማሞ አደረገ").
+entry(poxvirus, ን, [poxviruses], "እንሳ ዓይነት ቫይረስ").
+entry(poxy, adj, [], "ከተለያዩ ህመሞች ጋር የተያተተ").
+entry(ፖዩ, ነ, [ፖዩስ], "አርጀንቲና ያለ አርማዲሎ").
+entry(ፖዞል, ን, [ፖዞሎች], "ፖሶሌ").
+entry(ፖዞላን, ነ, [ፖዞላኖች], "ሲሜንቶ ለማብረቅ የሚጠቀም በተከላከለ ሁነታ የተደረገ ንጥል").
+entry(ጀልባ, በ, [ጀልባዎች], "ጀልባ").
+entry(practic, adj, [], "ተወዳዳሪ").
+እትም(practice, ግ, [practiced, practicing, practices], "በተደጋጋሚ መስራት በእርግጥ ብዙ ችሎታ ለማግኘት").
+entry(ሥልጠና, v, [ተለማመደ, ሥልጠነ, ሥልጠናዎች], "ሥልጠና ማድረግ").
+entry(ፕራይሲፔ, ነ, [ፕራይሲፖስ], "ሕጋዊ አዋጅ").
+እቀጥል(praedial, ግምገማ, [], "ከምድር ጋር የተያያዘ").
+ውስጥ(አለመቶኛ, ነ, [አለመቱፎች], "አለመት").
+እትም(praelect, ግ, [praelected,praelecting,praelects], "ለመስበር").
+entry(ፕሬቶር, በ, [ፕሬቶሮች], "አበረታባች ሮማ ፍርዳብ").
+ውሎች(prahu, ነ, [prahus], "prau").
+መግቢያ(ሰፈር, ሰ, [ሰፈሮች], "የሣር መሬት").
+እትም(praise, v, [praised, praising, praises], "መጸድቀቅ ወይም መደከም ማለት ነው").
+entry(አመሰግነ, ነ, [አመሰግኖች], "ያመሰግነ").
+ግባ(prajna, ነ, [prajnas], "በበኩሌጂምና አውሑዶስና ላህምጥ መረጃ ከላይ እውነታ").
+entry(praline, n, [ፕራሊን], "በላባ ዘጋጅ የተሠሩ ምግብዎች፣ የእንጀራ መግብ").
+entry(ላፍስ, ና, [ማንያዎች], "አንድ ታንሽ ታቹ").
+entry(prana, n, [pranas], "ሕይወት የሚሰጥ ነፍስ በሂንዱኒዝም").
+entry(በተጀርብ መንሳፍት, v, [በተጀርብ መንሳፍታቸው, በመጀርቢያ መንሳፍት, ይጀርቡ], "በጉልበት ቀደዳ ላይ መንሳፍት").
+እትም(prancer, n, [prancers], "የሚታጠቅ").
+ውስጥር(prandial, ግምገማ, [], "ምግብን የሚመለከት").
+entry(prang, v, [መጥተን,መጥተኛል,መጥታዎች], "አወደቀው").
+entry(ሽምግልግሉ, ግ, [ሽምግልግለ,ሽምግልግል,ሽምግልግልናት], "በሽክላፋ መላበጥ").
+entry(ክንክኙ, አድግ, [], "ዛሽጋራ").
+entry(prao, ን, [praos], "prau").
+entry(ፀሓይ, ነ, [ፀሓያት], "አንድ ነገር").
+እኩለት(ፕራት, ነ, [ፕራትስ], "ወገብ").
+ቀልደ፣ ጥፋፊ፣ ተላላፊ ነክ እሽሩሽር
+entry(prater, ን, [praters], "የተነጋገረ ፈላጊ አንድ").
+entry(እንግድ ተከታታይ, ና, [እንግዶች ተከታታይ], "በትቅትቁን ላይ ወደቅ").
+እትም(pratie, ነ, [praties], "ድንች").
+entry(pratique, n, [pratiques], "በቀሚሪ ሥርዓት በድርብ ማረፊያ ተገኝቶ ማረፊያ ድረስ በፍርዕም ተከብሮ መደረስa").
+entry(በሌላ ነገር ክፉ መነጋገር, ግብ, [መንጋገር, እየገመተ, ተናገር], "እየንገሩ").
+entry(ንጋተኛ, ን, [ንጋተኞች], "የሚነጋገር አንድ").
+entry(prau, ነ, [praus], "ፈጣን የማሌዥያ መርከብ").
+entry(ነፍሔው አሳ, ግ, [ነፍሔወ አሳ አጥምዶ, ነፍሔወ አሳ ይዞ የተሄደ, ነፍሔው አሳ አነሰሰ], "ሊዕልም የሚበላመጥ የባህር ዓሳ ድልድል ለማጥለያ").
+entry(የንፍዓት, n, [የንፍዓቶች], "አንድ ነፍሳም").
+እትም(praxis, ና, [praxises], "ወይም PRAXESስነ ሥርዓት ተመን").
+entry(አለመድ (ይጸልይ), ግ, [ጸለየ, ይጸላል, ይጸልዩ], "ጸሎት ማቅረብ").
+መግቢያ(ጸሎተ, ስ, [ጸሎታት], "ወደ አምላክ የሚነሱ የቅን ልመና").
+መግቢያ(መምሰል, ግ, [እንተው,እንተያለሁ,እንተዋለሁ], "አጥንብስ ወይም እንደገና መምከር አጥንብስ").
+አስተዋይ(መምህር, ን, [መምህሮች], "የሚያስተምር አንዱ").
+entry(preachy, adj, [], "የመምህርነት ያሰማማቸው  እጃዋሪ ያሰማማቸው").
+እንቅስቃሴ(ከመስተዋወቅ በፊት የተደረገን እንቅስቃሴ, ግ, [ከመስተዋወቅ በፊት የተሰሩ, ከመስተዋወቅ በፊት የሚገኙ, ከመስተዋወቅ በፊት የተላከ], "ከመስተዋወቅ በፊት ማድረግ").
+ፋይል(እንቅስቃሴ, ግ, [ተላብሮ,ተላብሮአል,ተላብሮበታም], "በፊት ማሻሻል").
+መግባት(ቀድሞ ከበላይ, በም, [ቀድሞ ተቀብለ, ከሚቀድም ከተቀብሎት, ቀድሞ ይቀበላል], "ቀደመ አንድን ወይም ነገር ይቀበላል").
+እትም(preadopt, ግ, [ቀደም ብሎ የተወላገደ,ቀደም ብሎ የሚወላገድ,ቀደም ብሎ የሚወላገድ፣ቀደም ብሎ የሚደረግ ማህበረሰብ], "ቀደም ብሎ ለማቀም").
+entry(የማያድግ ግማሽ, n, [ያልደፈር], "ለእሱ ገና ማያድግ ሰው").
+entry(preaged, adj, [], "ቀደም ሲል የረገፈ").
+እትም(preallot, ግ, [preallotted, preallotting, preallots], "ቀድሞ ማቀፍ").
+entry(prealter, v, [የቀድሞ የተቀየረ,እየቀየረ ያለ,የቀየረ], "ከመቀየር በፊት መለወጥ").
+entry(መለክዒያ, ነ, [መለክዓት], "አንቀጽ የመግቢያ መግለጫ").
+ውስጥ(preamp, n, [preamps], "አምፕሊፋየር");
+entry(preanal, adj, [], "ከሕጉ ፊት ያለ").
+entry(preapply, v, [preapplied,preapplying,preapplies], "ቀድሞ ማድረግ").
+entry(prearm, ግፍ, [ቀድሞ አምሞ, በቀድሞ አማዙን ሁኔታ, ቀድሞ አሞ], "በፊት ማም ወደ").
+መግቢያ(ከድርሰ ገንዘብ መጨረሻ ቅድመ ቆጣሪ መረጃን የያዘ).
+entry(preaver, v, [ቀድመው ማስረጃ ሰጥተው, ቀድመው ማስረጃ ሰጥተ ነዋል, ይቀድመው ማስረጃ ይሰጡ], "ከመነሻ በፊት መማረጥ ወይም መረጃ መስጠት").
+ምስጢር(preaxial, መግለጫ, [], "በአክሲስ ፊት ላይ የተገኘ").
+entry(prebake, v, [prebaked,prebaking,prebakes], "ቀደም እንዲደሰት ማብሰል").
+entry(prebasal, ግምጃ, [], "በመሠረት ፊትለፊት የተጋለጠ").
+entry(prebend, n, [መናፍስ ሰዎች ደሞዝ], "መንፈሳዊ ሰው ደሞዝ").
+መግቢያ(ከቀድሞአስቦል, ግምገማ, [ከቀድሞአስቦል, ከቀድሞቻ የተደረገ መስፈርነት, ካቀድሞ አደረገ], "ቀድሞ ማገኘት")
+እትም(prebill, ግ, [prebilled,prebilling,prebills], "በፊት ክፍያ ማድረግ").
+ምግባር(ቀድሞ አማልከት, ግ, [ቀድሞ አድርገ ማሳለጥ, ቀድሞ አማልከት ይገናኝ, ቀድሞ አማልከቶች], "ቀድሞ ማሳለግ").
+እትም(prebirth, ነ, [prebirths], "ሕፃኑ ሳይወለድ በፊት ያለው ጊዜ መጠን").
+እትም(prebless, ግ, [preblessed, preblessing, preblesses], "በፊት ማረክ").
+entry(preboard, v, [preboarded,preboarding,preboards], "መወንበር ከመደበኛው ጊዜ በፊት ማስገባት").
+entry(preboil, v, [ማቃነዝ, ተቃነዘ, ተቀነዘ], "ቀደም ሲሆን ማቃነዝ").
+በቀድሞ ያለ መፈለጊያ ላይ የተመዘገበ ነጠላ/ተፈታች (v) የሚለዋል፤ [ከዚህ ተጨማሪ፣ ወይም የመዝገብ ስም] ፣ እዚህ እጅግ ምረጥ ተዝርኦም - "ቀደም ሲል ማስያዝ ፈለጉ".
+እትም(preboom, ቅዳሴ, [], "የንግድ ድንጋጤን ማምለጥ ወይም መድረስ በፊት").
+አስመጪ(ተያይዞ ይቀየራል, ያለፈት, [], "የተያይዝ ወቅት").
+ፕሮለግ:
+entry(prebuild, v, [prebuilt,prebuilding,prebuilds], "በፊት ማንሣት").
+entry(prebuy, v, [prebought,prebuying,prebuys], "ቀደም በማሽጋገር ማግዝ").
+ውህደት(ቀደመ, ግ, [ቀደመ, ቀደም በማስተላለፍ, ቀድሞ ተላልፏል], "ለማቀድም፣ እንዲሣቀብን ከማስቀመጥ").
+entry(precava, n, [precavae], "በከፍተኛ ዝርያ ስለሆኑ እንደምስልዎች ውስጥ የገኘ ጉጉት ደርቢPRECAVAL በተጨማሪ ቃል").
+ውስጥ(ቀየረ, ጥ, [ቀየረ,ቀይሮ,ቀይራል], "ከ... ወዲያ ይሄዳል").
+ውስጥ(አመለካከት, ግ, [አመለካከተ, አመለካከት ላይ, አመለካከቶች], "የቤተ ክርስቲያን ጀርባቡር በእንቅልፍ ማሪያ ማጋራት")
+entry(precept, n, [precepts], "መመሪያ ደንብ").
+entry(precess, v, [መሻገር, ማሻገር, ይሻገራል], "በውስታ የተያለ እንቅስቃሴ መሽራራት").
+entry(precheck, v, [ቀድሞ ምረመረ, ቀድሞ ምረመር በመሆን, ቀድሞ ያረመረ], "ድሕረ መደምሰስ ማድረግ").
+entry(prechill, v, [prechilled,prechilling,prechills], "በፊት መቀዝቀዝ").
+entry(prechose, ወርሓዊ, [], "የቀድሞ ምርጫ ይሄ ነው እንዲህ በቀደምታ ይመረጣል").
+entry(ብርቅ, አግዳሚ, [], "በማቋቋም ዝናም").
+entry(ምድብ, n, [ምድቦች], "ከተማ ወይም ከምዝገባ ተመካከል").
+entry(ተወዳጅ, ን, [ተወዳጆች], "አንድ ውድ").
+entry(precip, n, [precips], "ዝናብ").
+entry(precipe, n, [precipes], "ፕሬሲፔ").
+entry(precis, v, [precised,precising,precises], "አጭር ድርሰት ማድረግ").
+entry(ግምት, ትዕዛዝ, [], "ነቅቷ የተገለጠ ወይም በግልጽ የተነገረ").
+entry(precited, adj, [], "ቀደም ሲል የተጠቀሰ").
+entry(preclean, v, [precleaned,precleaning,precleans], "በፊት ለንፃህ ማጽዳት").
+entry(preclear, v, [precleared,preclearing,preclears], "ቀድሞ በመጠረግ ማሳረፍ").
+entry(አካባቢጋዜ, ግ, [አስቀመጠ,እንዣየሆነ,አካባቢጋዜያት], "ቀዳማዊ እርምጃ በመውሰድ አይችል የሚሉበት ነገር እንዲያልክ").
+እትም(precode, v, [precoded,precoding,precodes], "ቀድሞ ማቀናበር ማስፈጸም").
+መግቢያ(ቀደም ላይ ምግብ ማብሰል, ግ, [ቀደም ላይ የተበሉ,ቀደም ላይ የተበላ ማብሰል,ቀደም ላይ የሚበላ ማብሰል], "ቀደም ሲል ማብሰል").
+ዝርዝር(አስቀድሞ_ማቀዝቀዣ, ግ, [አስቀድሞ_ያቀዘቀዙ,አስቀድሞ_የማቀዝቀዣ,አስቀድሞ_ይቀዝቀዛሉ], "በፊት ማቀዝቀዣ").
+entry(precoup, adj, [], "ከዉጊያ በፊት").
+ፊተኛ(ድርብልት በፊት, መግለጫ, [], "የአደጋ ቀድሞ").
+ይግባ(precure, ግ, [precured,precuring,precures], "ቀደም ሲል ማንቃት").
+የመድረድ megfelelő elemként tudnám értékesíteni.
+መግቢያ(ቀደመ, ግ, [ቀደመ,ቀደምን,ቀደም], "ከእውነተኛ ወይም መታ+ወተተ ግዜ ቀድሞ").
+entry(አዳኛ, ና, [አዳኞች], "የሚዘርፍ").
+entry(predawn, n, [ቀደም ያለ ማለዳዎች], "ዳማጅ እንዲደርስ በፊት ያለው ወቅት").
+እትም(predeath, ነ, [predeaths], "ከሞት በፊት ያለ ጊዜ").
+entry(predella, n, [predellas], "በተለቀ የእምቢ ገላ").
+entry(predial, adj, [], "መሬት ዙሪያ").
+entry(predict, v, [ተነነው,በመንነው,ነነው], "በፊት ማሳየት ወይም መነነው ወይም ማስታወቅ").
+entry(predive, አድጀቲቭ, [], "በመስመር ቆመ").
+entry(predraft, አግኡኝ, [], "ዕቅድ ከቀደመ ዕይታ ስለ አማራጮች ቴም ክፍተት ስርአት").
+መግቢያ(ከቀድሞው ጋር ጉዞ ማድረግ, ግ, [ከቀደም ጋር ተገቢ, የቀደም ጋር ተስማሚ, ከቀድሞው ጋር ጉዞዎች], "በሚገባ ማስቀደም").
+ቀደም ሲሉት፣ v, [ቀደም ማደር የሚኖረው፣ቀደም ማደስ የሚኖረው፣ቀደም ሲሉ የሚኖሩ]፣ "ፊተኛ ማደር".
+entry(predusk, n, [predusks], "ምሽት ከመሽገር በፊት ጊዜ").
+entry(pree, v, [preed, preeing, prees], "ለመቅመስ በተነካ ሙከረ").
+entry(preedit, v, [አርምጦ,አርምጥ,አርምጥያለው], "የቀድሞ አርምጦ").
+entry(preelect, v, [preelected,preelecting,preelects], "ቀድሞ ማምረጥ ወይም መምረጥ")
+entry(ቅድመ ልደት ሕፃን, ን, [ቅድመ ልደት ሕፃናት], "ያልተባረረ ሕፃን").
+entry(preempt, v, [የቀደመው መብት በማግኘት መደምሰስ፣ከዚህ ቀደመው መብት ማግኚያ፣ቀድሞ መያዣ], "በቀደም መብት ያለውን ማግኘት").
+entry(እይታ, ግ, [እበአት,ከማሉን,ምብራት], "በአፍንጫ ወይም አንጓላ ማስረዳት ወይም መንጻወት").
+መግብያ(preenact, ግ, [preenacted,preenacting,preenacts], "በፊት መድርድር").
+entry(preener, n, [ተነጫጫቂዎች], "እሱን የሚነጫጫ ነኝ").
+ግቤት(preerect, ግ, [preerected,preerecting,preerects], "በፊት ማስነሳት።").
+ውስጥ(ቀደም በመኖር, ግ, [ቀደም በመኖሩና,ቀደም በመኖራት,ቀደም በመኖራል], "የቀደም ነበር መኖር").
+መግቢያ(prefab, v, [prefabbed, prefabbing, prefabs], "በፊት ከመግንባት").
+entry(preface, v, [prefaced,prefacing,prefaces], "መግቢያ ቃል ማቅረብ ለ").
+መግቢያው(prefacer, ን, [prefacers], "አንድ የመግባት ነገር").
+entry(prefade, v, [prefaded,prefading,prefades], "በፊት ለፊት መጠፋት ወይም ማጥፋት").
+እትም(prefect, ን, [prefects], "የአካውድያን ሶስትነት ያላቸው መሳሪያቸው ተመድ የሆነ ስርዓት ሆኖ ወሰነ ላለው ቻውቤራ መኮረቡ እቡኞች ላይ ዝቅው የዳያት ልና ያላቸው የብልሹት አንጋሸሸ በዳምመመት በዘመነ ሥነልመረ።").
+ውሎች(ይመርጥ, ግ, [የተመረጠ, መምረጥ, ይመርጣል], "የበለጠ አክብሮታል ማወዳደር ወይም ግምት መያዝ").
+entry(prefight, አገ, [], "በውግ ቀድሞ").
+ግቤት(prefile, v, [prefiled,prefiling,prefiles], "ቅድሚያ ማስገባት ለማድረግ").
+እትም(prefire, ግ, [prefired,prefiring,prefires], "ቀደም ሲል ማተኮር")。
+አስገቢ(ቅድመቃረበኝ, ቀ, [ቅድመቃርበና፣ ቅድመቃርበን፣ ቅድመቃርበዎች], "በረስት ቃል መጀመሪያ ላይ ተቀጥሎ ለመጨመር የተባለ ቅቤ ፎርም ማከም").
+entry(prefixal, adj, [], "በቅድመ መዓልት የሚመሰለ ወይም ላለው የተመለከተ").
+entry(preflame, ግምጃ, [], "እሳት ከመነጋገር በፊት").
+እባኮትን Prolog: entry(prefocus, v, [ቅድሚያድር ቅድሚያድርነት ቅድሚያድርዎች], "በፊት መንከተል")
+entry(ቀድሞ መሥራት, ግ, [ቀድሞ አደረገ,ቀድሞ ማከናወን,ቀድሞ ይፈጸማል], "ቀድሞ መዘጋጀት").
+ውሂብ(ምርጥቅዋ, ግ, [ምርጥቅዋው, ምርጥቅዋል, ምርጥቅዋጋ], "በፊት መረጠዋ ማለት").
+entry(ቅድመምሕዳር, v, [ቅድመምሕዳር የተያዘ, ይቀድመ ምሕዳር የተያዘ, ይቀድመ ምሕዳር ምክንያት], "ዳሰሳ ታስቆጣጠር በማድረግ").
+መግቢያ(ጨዋታ_ቀደም, ነ, [ጨዋታዎች_በፊት], "የጨዋታ ቀደም ያለ ጊዜ").
+መግቢያ(preggers, ቅጽል, [], "እርግዝና ያለች").
+entry(እርግዝና, ቅ, [], "ውስጥ ማህፀን ውስጥ ምስል ልጅ ማሳኰም").
+ዝርዝር(ገቢ, ግ, [ቅድመ-መምህር, ቅድመ-መምር, ቅድመ-መምህሮች], "በፊት መመሪር").
+entry(preheat, v, [ቀስ በመጠበቅ, ወደፊት በመጠበቅ, ማጠበቅ ያካሂዳል], "ቀድመው በመሞቅ").
+entry(የሰው ቅርጽ በፊት, ስ, [የሰው ቅርጽ በፊቶች], "የሰው ፕሮተቲፕ").
+entry(ቀድሞ መፍረድ, ግ, [ቀድሞ ተፈርዶ,በቀደም ማቅረብ,ቀድሞ ይፈርዳል], "በፊት መፍረድ").
+entry(ፕሬላሲ, ነ, [ፕሬላሲዎች], "የፕሬላት ተወካይነት ቤት").
+entry(prelate, n, [prelates], "ከፍተኛ ደርግ ያለ መነክሳዊ፣ የአርብሽ ተኮር መነክሳዊPRELATIC ተዋህዶ").
+entry(prelaw, ግምገማ, [], "የህግ ሙያዊ ጥናት ቅድመ ሁኔታ").
+entry(prelect, v, [prelected,prelecting,prelects], "አስተማር ማድረግ").
+entry(prelegal, adj, [], "ከሕግ ጥናት መጀመር በፊት የሚከነባከን").
+መግቢያ(የአስቀድሞ ሕይወት, ነ, [የአስቀድሞ ሕይወታት], "በምድር ላይ ከሕይወት በፊት እንደተኖረው የተመሰረተ ሕይወት").
+እትም(prelim, n, [prelims], "ቅድመ መገናኛ ጨዋታ").
+መግቢያ(ከፊል ደንብ, ግ, [የቀድሞ የተወሰኑ, የቀድሞ የሚወሰኑ, የቀድሞ የተወሰኑባቸው], "ቀደም ብሎ ማስተካከል").
+እባኮት ይቅርታ፣ ይህን የበጀ መርማሪያ ወደ አማርኛ ማተም አልቻልኩም።
+መግቢያ(የመቀየሪያ, ግ, [ተመቀየረች,ቅድመቀየሪያ,ቅድመቀየር ይጫወታሉ], "የሙዚቃ መግቢያ ማጫወት").
+መግቢያ(የመሐውል, ነ, [የመሐውሉች], "ሚመሐውል አንዱ").
+entry(ቅዳሜምንት, አድርግ, [], "በቅድመ ቅመም").
+መግቢያ(ዝግጁ, ግምት, [], "ቀድሞ የተሠራ").
+```prolog
+entry(preman, n, [premen], "a hypothetical ancestor of manPREMEAL adj preceding a mealPREMED n pl PREMEDSa student preparing for the study of medicinePREMEDIC n pl PREMEDICSa premedPREMEET adj preceding a meetPREMEN pl of premanPREMIE n pl PREMIESpreemiePREMIER n pl PREMIERSa prime ministerPREMIERE v PREMIERED PREMIERING PREMIERESto present publicly for the first timePREMISE v PREMISED PREMISING PREMISESto state in advancePREMISS n pl PREMISSESa proposition in logicPREMIUM n pl PREMIUMSan additional paymentPREMIX v PREMIXED or PREMIXT PREMIXING PREMIXESto mix before usePREMOLAR n pl PREMOLARSa toothPREMOLD v PREMOLDED PREMOLDING PREMOLDSto mold beforehandPREMOLT adj preceding a moltPREMORAL adj preceding the development of a moral codePREMORSE adj ending abruptly as if bitten offPREMOTOR adj pertaining to a part of the frontal lobe of the brainPREMUNE adj resistant to a diseasePRENAME n pl PRENAMESa forenamePRENATAL adj prior to birthPRENOMEN n pl PRENOMENS or PRENOMINAthe first name of an ancient RomanPRENOON adj preceding noonPRENTICE v PRENTICED PRENTICING PRENTICESto place with an employer for instruction in a tradePRENUP n pl PRENUPSan agreement made by a couple before they marryPREOP n pl PREOPSa patient being prepared for surgeryPREORAL adj situated in front of the mouthPREORDER v PREORDERED PREORDERING PREORDERSto order beforehandPREOWNED adj owned beforehand by someone elsePREP v PREPPED PREPPING PREPSto attend a preparatory schoolPREPACK v PREPACKED PREPACKING PREPACKSto package before retail distributionPREPAID past tense of prepayPREPARE v PREPARED PREPARING PREPARESto put in proper condition or readinessPREPARER n pl PREPARERSone that preparesPREPASTE v PREPASTED PREPASTING PREPASTESto paste beforehandPREPAVE v PREPAVED PREPAVING PREPAVESto pave beforehandPREPAY v PREPAID PREPAYING PREPAYSto pay in advancePREPENSE adj planned in advancePREPILL adj preceding the development of a contraceptive pillPREPLACE v PREPLACED PREPLACING PREPLACESto place beforehandPREPLAN v PREPLANNED PREPLANNING PREPLANSto plan in advancePREPLANT adj occurring before plantingPREPOSE v PREPOSED PREPOSING PREPOSESto place something in front of anotherPREPPED past tense of prepPREPPIE n pl PREPPIESone who prepsPREPPING present participle of prepPREPPY adj PREPPIER PREPPIESTassociated with the style and behavior of preparatory school studentsPREPPILY advPREPREG n pl PREPREGSreinforcing material already impregnated with a synthetic resinPREPRESS adj pertaining to the preparation of copy for printingPREPRICE v PREPRICED PREPRICING PREPRICESto price beforehandPREPRINT v PREPRINTED PREPRINTING PREPRINTSto print in advancePREPUBIS n pl PREPUBESa bone situated in front of the pubic bonesPREPUCE n pl PREPUCESa fold of skin covering the penisPREPUNCH v PREPUNCHED PREPUNCHING PREPUNCHESto punch in advancePREPUPA n pl PREPUPAS or PREPUPAEa stage preceding the pupaPREPUPAL adj preceding the pupal stagePREQUEL n pl PREQUELSa book whose story precedes that of an earlier workPRERACE adj preceding a racePRERADIO adj preceding the development of radioPRERENAL adj situated in front of the kidneyPRERINSE v PRERINSED PRERINSING PRERINSESto rinse beforehandPRERIOT adj preceding a riotPREROCK adj preceding the development of rock musicPRESA n pl PRESEa musical symbolPRESAGE v PRESAGED PRESAGING PRESAGESto foretellPRESAGER n pl PRESAGERSone that presagesPRESALE n pl PRESALESa sale in advancePRESCIND v PRESCINDED PRESCINDING PRESCINDSto consider separatelyPRESCORE v PRESCORED PRESCORING PRESCORESto record the sound of before filmingPRESE pl of presaPRESELL v PRESOLD PRESELLING PRESELLSto promote a product not yet being sold to the publicPRESENCE n pl PRESENCESclose proximityPRESENT v PRESENTED PRESENTING PRESENTSto bring into the presence of someonePRESERVE v PRESERVED PRESERVING PRESERVESto keep free from harm or dangerPRESET v PRESET PRESETTING PRESETSto set beforehandPRESHAPE v PRESHAPED PRESHAPING PRESHAPESto shape beforehandPRESHIP v PRESHIPPED PRESHIPPING PRESHIPSto ship beforehandPRESHOW v PRESHOWED PRESHOWN PRESHOWING PRESHOWSto show beforehandPRESIDE v PRESIDED PRESIDING PRESIDESto occupy the position of authorityPRESIDER n pl PRESIDERSone that presidesPRESIDIA npl Soviet executive committeesPRESIDIO n pl PRESIDIOSa Spanish fortPRESIFT v PRESIFTED PRESIFTING PRESIFTSto sift beforehandPRESLEEP adj preceding sleepPRESLICE v PRESLICED PRESLICING PRESLICESto slice beforehandPRESOAK v PRESOAKED PRESOAKING PRESOAKSto soak beforehandPRESOLD past tense of presellPRESOLVE v PRESOLVED PRESOLVING PRESOLVESto solve beforehandPRESONG adj preceding a songPRESORT v PRESORTED PRESORTING PRESORTSto sort beforehandPRESPLIT adj preceding a splitPRESS v PRESSED PRESSING PRESSESto act upon with steady forcePRESSER n pl PRESSERSone that pressesPRESSING n pl PRESSINGSan instance of stamping with a pressPRESSMAN n pl PRESSMENa printing press operatorPRESSOR n pl PRESSORSa substance that raises blood pressurePRESSRUN n pl PRESSRUNSa continuous operation of a printing pressPRESSURE v PRESSURED PRESSURING PRESSURESto apply force toPREST n pl PRESTSa loanPRESTAMP v PRESTAMPED PRESTAMPING PRESTAMPSto stamp beforehandPRESTER n pl PRESTERSa priestPRESTIGE n pl PRESTIGESdistinction or reputation in the eyes of peoplePRESTO n pl PRESTOSa musical passage played in rapid tempoPRESTORE v PRESTORED PRESTORING PRESTORESto store beforehandPRESUME v PRESUMED PRESUMING PRESUMESto take for grantedPRESUMER n pl PRESUMERSone that presumesPRETAPE v PRETAPED PRETAPING PRETAPESto tape beforehandPRETASTE v PRETASTED PRETASTING PRETASTESto taste beforehandPRETAX adj existing before provision for taxesPRETEEN n pl PRETEENSa child under the age of thirteenPRETELL v PRETOLD PRETELLING PRETELLSto tell beforehandPRETENCE n pl PRETENCESpretensePRETEND v PRETENDED PRETENDING PRETENDSto assume or display a false appearance ofPRETENSE n pl PRETENSESthe act of pretendingPRETERIT n pl PRETERITSa past tense in grammarPRETERM n pl PRETERMSa child born prematurelyPRETEST v PRETESTED PRETESTING PRETESTSto give a preliminary test toPRETEXT v PRETEXTED PRETEXTING PRETEXTSto allege as an excusePRETOLD past tense of pretellPRETOR n pl PRETORSpraetorPRETRAIN v PRETRAINED PRETRAINING PRETRAINsto train beforehandPRETREAT v PRETREATED PRETREATING PRETREATSto treat beforehandPRETRIAL n pl PRETRIALSa proceeding that precedes a trialPRETRIM v PRETRIMMED PRETRIMMING PRETRIMSto trim beforehandPRETTIFY v PRETTIFIED PRETTIFYING PRETTIFIESto make prettyPRETTY adj PRETTIER PRETTIESTpleasing to the eyePRETTILY advPRETTY v PRETTIED PRETTYING PRETTIESto make prettyPRETYPE v PRETYPED PRETYPING PRETYPESto type beforehandPRETZEL n pl PRETZELSa glazed salted crackerPREUNION n pl PREUNIONSa union beforehandPREUNITE v PREUNITED PREUNITING PREUNITESto unite beforehandPREVAIL v PREVAILED PREVAILING PREVAILSto triumphPREVALUE v PREVALUED PREVALUING PREVALUESto value beforehandPREVENT v PREVENTED PREVENTING PREVENTSto keep from happeningPREVERB n pl PREVERBSa prefix or particle preceding the root of a verbPREVIEW v PREVIEWED PREVIEWING PREVIEWSto view or exhibit in advancePREVIOUS adj coming or occurring before in time or orderPREVISE v PREVISED PREVISING PREVISESto foreseePREVISIT v PREVISITED PREVISITING PREVISITSto visit beforehandPREVISOR n pl PREVISORSone that previsesPREVUE v PREVUED PREVUING PREVUESto previewPREWAR adj occurring or existing before a warPREWARM v PREWARMED PREWARMING PREWARMSto warm beforehandPREWARN v PREWARNED PREWARNING PREWARNSto warn in advancePREWASH v PREWASHED PREWASHING PREWASHESto wash beforehandPREWEIGH v PREWEIGHED PREWEIGHING PREWEIGHsto weigh beforehandPREWIRE v PREWIRED PREWIRING PREWIRESto wire beforehandPREWORK v PREWORKED PREWORKING PREWORKSto work beforehandPREWORN adj previously worn by someonePREWRAP v PREWRAPPED PREWRAPPING PREWRAPSto wrap beforehandPREX n pl PREXESprexyPREXY n pl PREXIESa presidentPREY v PREYED PREYING PREYSto seize and devour animals for foodPREYER n pl PREYERSone that preysPREZ n pl PREZESa presidentPREZZIE n pl PREZZIESa giftPRIAPEAN adj priapicPRIAPI a pl of priapusPRIAPIC adj phallicPRIAPISM n pl PRIAPISMSa persistent erection of the penisPRIAPUS n pl PRIAPUSES or PRIAPIa representation of the phallusPRICE v PRICED PRICING PRICESto set a value onPRICER n pl PRICERSone that pricesPRICEY adj PRICIER PRICIESTexpensivePRICIER comparative of pricyPRICIEST superlative of pricyPRICILY adv in a pricey mannerPRICING present participle of pricePRICK v PRICKED PRICKING PRICKSto puncture slightlyPRICKER n pl PRICKERSone that pricksPRICKET n pl PRICKETSa spike for holding a candle uprightPRICKIER comparative of prickyPRICKIEST superlative of prickyPRICKING n pl PRICKINGSa prickly feelingPRICKLE v PRICKLED PRICKLING PRICKLESto prickPRICKLY adj PRICKLIER PRICKLIESThaving many sharp pointsPRICKY adj PRICKIER PRICKIESTpricklyPRICY adj PRICIER PRICIESTpriceyPRICILY advPRIDE v PRIDED PRIDING PRIDESto feel pride a feeling of selfesteemPRIDEFUL adj full of pridePRIED past tense of pryPRIEDIEU n pl PRIEDIEUS or PRIEDIEUXa piece of furniture for kneeling on during prayerPRIER n pl PRIERSone that priesPRIES present 3d person sing of pryPRIEST v PRIESTED PRIESTING PRIESTSto ordain as a priest one authorized to perform religious ritesPRIESTLY adj PRIESTLIER PRIESTLIESTcharacteristic of or befitting a priestPRIG v PRIGGED PRIGGING PRIGSto stealPRIGGERY n pl PRIGGERIESpriggismPRIGGISH adj marked by priggismPRIGGISM n pl PRIGGISMSprim adherence to conventionPRILL v PRILLED PRILLING PRILLSto convert into pelletsPRIM adj PRIMMER PRIMMESTformally precise or properPRIM v PRIMMED PRIMMING PRIMSto give a prim expression toPRIMA n pl PRIMASprimoPRIMACY n pl PRIMACIESthe state of being firstPRIMAGE n pl PRIMAGESan amount paid as an addition to freight chargesPRIMAL adj being at the beginning or foundationPRIMALLY advPRIMARY n pl PRIMARIESa preliminary electionPRIMATAL n pl PRIMATALSa primatePRIMATE n pl PRIMATESany of an advanced order of mammalsPRIME v PRIMED PRIMING PRIMESto make readyPRIMELY adv excellentlyPRIMER n pl PRIMERSa book that covers the basics of a subjectPRIMERO n pl PRIMEROSa card gamePRIMEVAL adj pertaining to the earliest agesPRIMI a pl of primoPRIMINE n pl PRIMINESthe outer covering of an ovulePRIMING n pl PRIMINGSthe act of one that primesPRIMLY adv in a prim mannerPRIMMED past tense of primPRIMMER comparative of primPRIMMEST superlative of primPRIMMING present participle of primPRIMNESS n pl PRIMNESSESthe state of being primPRIMO n pl PRIMOS or PRIMIthe main part in a musical piecePRIMP v PRIMPED PRIMPING PRIMPSto dress or adorn carefullyPRIMROSE n pl PRIMROSESa perennial herbPRIMSIE adj primPRIMULA n pl PRIMULASprimrosePRIMUS n pl PRIMUSESthe head bishop of ScotlandPRINCE n pl PRINCESa nonreigning male member of a royal familyPRINCELY adj PRINCELIER PRINCELIESTof or befitting a princePRINCESS n pl PRINCESSESa nonreigning female member of a royal familyPRINCIPE n pl PRINCIPIa princePRINCOCK n pl PRINCOCKSa coxcombPRINCOX n pl PRINCOXESprincockPRINK v PRINKED PRINKING PRINKSto dress or adorn in a showy mannerPRINKER n pl PRINKERSone that prinksPRINT v PRINTED PRINTING PRINTSto produce by pressed type on a surfacePRINTER n pl PRINTERSone that printsPRINTERY n pl PRINTERIESa place where printing is donePRINTING n pl PRINTINGSa reproduction from a printing surfacePRINTOUT n pl PRINTOUTSthe printed output of a computerPRION n pl PRIONSa protein particlePRIOR n pl PRIORSan officer in a monasteryPRIORATE n pl PRIORATESthe office of a priorPRIORESS n pl PRIORESSESa nun corresponding in rank to a priorPRIORITY n pl PRIORITIESprecedence established by importancePRIORLY adv previouslyPRIORY n pl PRIORIESa religious housePRISE v PRISED PRISING PRISESto raise or force with a leverPRISERE n pl PRISERESa succession of vegetational stagesPRISM n pl PRISMSa solid which disperses light into a spectrumPRISMOID n pl PRISMOIDSa geometric solidPRISON v PRISONED PRISONING PRISONSto imprisonPRISONER n pl PRISONERSone that is imprisonedPRISS v PRISSED PRISSING PRISSESto act in a prissy mannerPRISSY adj PRISSIER PRISSIESTexcessively or affectedly properPRISSILY advPRISSY n pl PRISSIESone who is prissyPRISTANE n pl PRISTANESa chemical compoundPRISTINE adj pertaining to the earliest time or statePRITHEE interj  used to express a wish or requestPRIVACY n pl PRIVACIESthe state of being privatePRIVATE adj PRIVATER PRIVATESTnot for public use or knowledgePRIVATE n pl PRIVATESa soldier of lower rankPRIVET n pl PRIVETSan ornamental shrubPRIVITY n pl PRIVITIESprivate knowledgePRIVY adj PRIVIER PRIVIESTprivatePRIVILY advPRIVY n pl PRIVIESan outhousePRIZE v PRIZED PRIZING PRIZESto value highlyPRIZER n pl PRIZERSone who vies for a rewardPRO n pl PROSan argument or vote in favor of somethingPROA n pl PROASprauPROB n pl PROBSa problemPROBABLE n pl PROBABLESsomething likely to occur or prove truePROBABLY adv without much doubtPROBAND n pl PROBANDSone whose reactions or responses are studiedPROBANG n pl PROBANGSa surgical rodPROBATE v PROBATED PROBATING PROBATESto establish the validity ofPROBE v PROBED PROBING PROBESto investigate or examine thoroughlyPROBER n pl PROBERSone that probesPROBIT n pl PROBITSa unit of statistical probabilityPROBITY n pl PROBITIEScomplete and confirmed integrityPROBLEM n pl PROBLEMSa perplexing question or situationPROCAINE n pl PROCAINESa compound used as a local anestheticPROCARP n pl PROCARPSa female sexual organ in certain algaePROCEED v PROCEEDED PROCEEDING PROCEEDSto go forward or onwardPROCESS v PROCESSED PROCESSING PROCESSESto treat or prepare by a special methodPROCHAIN adj procheinPROCHEIN adj nearest in time relation or degreePROCLAIM v PROCLAIMED PROCLAIMING PROCLAIMSto make known publicly or officiallyPROCTOR v PROCTORED PROCTORING PROCTORSto supervisePROCURAL n pl PROCURALSthe act of procuringPROCURE v PROCURED PROCURING PROCURESto obtain by effortPROCURER n pl PROCURERSone that procuresPROD v PRODDED PRODDING PRODSto jab with something pointedPRODDER n pl PRODDERSone that prodsPRODIGAL n pl PRODIGALSone who spends lavishly and foolishlyPRODIGY n pl PRODIGIESa child having exceptional talent or abilityPRODROME n pl PRODROMES or PRODROMATAa sign of impending diseasePRODRUG n pl PRODRUGSan inactive chemical substance that becomes an active drug in the bodyPRODUCE v PRODUCED PRODUCING PRODUCESto bring into existencePRODUCER n pl PRODUCERSone that producesPRODUCT n pl PRODUCTSsomething produced by labor or effortPROEM n pl PROEMSan introductory statementPROEMIAL adjPROETTE n pl PROETTESa female professional athletePROF n pl PROFSa professorPROFANE v PROFANED PROFANING PROFANESto treat with irreverence or abusePROFANER n pl PROFANERSone that profanesPROFESS v PROFESSED PROFESSING PROFESSESto affirm openlyPROFFER v PROFFERED PROFFERING PROFFERSto present for acceptancePROFILE v PROFILED PROFILING PROFILESto draw an outline ofPROFILER n pl PROFILERSone that profilesPROFIT v PROFITED PROFITING PROFITSto gain an advantage or benefitPROFITER n pl PROFITERSone that profitsPROFORMA adj provided in advance of shipment and showing description and quantityPROFOUND adj PROFOUNDER PROFOUNDESTintellectually deep and penetratingPROFOUND n pl PROFOUNDSsomething that is very deepPROFUSE adj pouring forth generouslyPROG v PROGGED PROGGING PROGSto prowl about for food or plunderPROGENY n pl PROGENIESa descendant or offspringPROGERIA n pl PROGERIASpremature agingPROGGER n pl PROGGERSone that progsPROGGING present participle of progPROGNOSE v PROGNOSED PROGNOSING PROGNOSESto forecast the probable course of a diseasePROGRADE adj pertaining to the orbital motion of a bodyPROGRAM v PROGRAMED PROGRAMING PROGRAMS or PROGRAMMED PROGRAMMING PROGRAMSto arrange in a plan of proceedingsPROGRESS v PROGRESSED PROGRESSING PROGRESSESto move forward or onwardPROGUN adj favoring the right to own guns without restrictionsPROHIBIT v PROHIBITED PROHIBITING PROHIBITSto forbid by authorityPROJECT v PROJECTED PROJECTING PROJECTSto extend outwardPROJET n pl PROJETSa plan or outlinePROLABOR adj favoring organized laborPROLAMIN n pl PROLAMINSa simple proteinPROLAN n pl PROLANSa sex hormonePROLAPSE v PROLAPSED PROLAPSING PROLAPSESto fall or slip out of placePROLATE adj extended lengthwisePROLE n pl PROLESa member of the working classPROLEG n pl PROLEGSan abdominal leg of certain insect larvaePROLIC adj producing abundantlyPROLINE n pl PROLINESan amino acidPROLIX adj tediously long and wordyPROLIXLY advPROLOG v PROLOGED PROLOGING PROLOGSto prologuePROLOGUE v PROLOGUED PROLOGUING PROLOGUESto prefacePROLONG v PROLONGED PROLONGING PROLONGSto lengthen in durationPROLONGE n pl PROLONGESa rope used for pulling a gun carriagePROM n pl PROMSa formal dancePROMINE n pl PROMINESa substance that promotes growthPROMISE v PROMISED PROMISING PROMISESto make a declaration of assurancePROMISEE n pl PROMISEESone who is promised somethingPROMISER n pl PROMISERSpromisorPROMISOR n pl PROMISORSone that promisesPROMO v PROMOED PROMOING PROMOSto promotePROMOTE v PROMOTED PROMOTING PROMOTESto contribute to the progress ofPROMOTER n pl PROMOTERSone that promotesPROMOTOR n pl PROMOTORSa chemical additive that increases the activity of a catalystPROMPT adj PROMPTER PROMPTESTquick to act or respondPROMPT v PROMPTED PROMPTING PROMPTSto induce to actionPROMPTER n pl PROMPTERSone that promptsPROMPTLY adv in a prompt mannerPROMULGE v PROMULGED PROMULGING PROMULGESto proclaimPRONATE v PRONATED PRONATING PRONATESto turn the palm downward or backwardPRONATOR n pl PRONATORS or PRONATORESa forearm or forelimb musclePRONE adj lying with the front or face downwardPRONELY advPRONG v PRONGED PRONGING PRONGSto pierce with a pointed projectionPRONOTUM n pl PRONOTAa hard outer plate of an insectPRONOUN n pl PRONOUNSa word that may be used in place of a nounPRONTO adv quicklyPROOF v PROOFED PROOFING PROOFSto examine for errorsPROOFER n pl PROOFERSone that proofsPROP v PROPPED PROPPING PROPSto keep from fallingPROPANE n pl PROPANESa flammable gasPROPANOL n pl PROPANOLSa liquid alcohol used as a solventPROPEL v PROPELLED PROPELLING PROPELSto cause to move forward or onwardPROPEND v PROPENDED PROPENDING PROPENDSto have a tendency towardPROPENE n pl PROPENESa flammable gasPROPENOL n pl PROPENOLSa flammable liquidPROPENSE adj tending towardPROPENYL adj pertaining to a certain chemical groupPROPER adj PROPERER PROPERESTsuitablePROPERLY advPROPER n pl PROPERSa portion of the MassPROPERTY n pl PROPERTIESsomething ownedPROPHAGE n pl PROPHAGESa form of virusPROPHASE n pl PROPHASESthe first stage in mitosisPROPHECY n pl PROPHECIESa predictionPROPHESY v PROPHESIED PROPHESYING PROPHESIESto predictPROPHET n pl PROPHETSone who predictsPROPINE v PROPINED PROPINING PROPINESto offer as a giftPROPJET n pl PROPJETSa type of airplanePROPMAN n pl PROPMENa man in charge of stage propertiesPROPOLIS n pl PROPOLISESa resinous substance used as a cement by beesPROPONE v PROPONED PROPONING PROPONESto proposePROPOSAL n pl PROPOSALSsomething that is proposedPROPOSE v PROPOSED PROPOSING PROPOSESto put forward for consideration or acceptancePROPOSER n pl PROPOSERSone that proposesPROPOUND v PROPOUNDED PROPOUNDING PROPOUNDSto proposePROPPED past tense of propPROPPING present participle of propPROPRIUM n pl PROPRIAan attribute belonging inseparably to every member of a speciesPROPYL n pl PROPYLSa univalent radicalPROPYLIC adjPROPYLON n pl PROPYLAan entrance to a templePROPYNE n pl PROPYNESa gaseous methyl acetylenePRORATE v PRORATED PRORATING PRORATESto divide proportionatelyPROROGUE v PROROGUED PROROGUING PROROGUESto discontinue a session ofPROSAIC adj pertaining to prosePROSAISM n pl PROSAISMSa prosaic stylePROSAIST n pl PROSAISTSa writer of prosePROSE v PROSED PROSING PROSESto write prose writing without metrical structurePROSECCO n pl PROSECCOSan Italian sparkling winePROSECT v PROSECTED PROSECTING PROSECTSto dissectPROSER n pl PROSERSa prosaistPROSIER comparative of prosyPROSIEST superlative of prosyPROSIFY v PROSIFIED PROSIFYING PROSIFIESto turn into prosePROSILY adv in a prosy mannerPROSING present participle of prosePROSIT interj  used as a drinking toastPROSO n pl PROSOSmilletPROSODY n pl PROSODIESthe study of poetical formsPROSODIC adjPROSOMA n pl PROSOMAS or PROSOMATAthe anterior region of the body of some invertebratesPROSOMAL adjPROSPECT v PROSPECTED PROSPECTING PROSPECTSto explore for mineral depositsPROSPER v PROSPERED PROSPERING PROSPERSto be successful or fortunatePROSS n pl PROSSESa prostitutePROSSIE n pl PROSSIESa prostitutePROST interj prositPROSTATE n pl PROSTATESa gland in male mammalsPROSTIE n pl PROSTIESa prostitutePROSTYLE n pl PROSTYLESa building having a row of columns across the front onlyPROSUMER n pl PROSUMERSone who buys electronic products that are in quality between consumer and professional gradesPROSY adj PROSIER PROSIESTprosaicPROTAMIN n pl PROTAMINSa simple proteinPROTASIS n pl PROTASESthe introductory part of a classical dramaPROTATIC adjPROTEA n pl PROTEASan evergreen shrubPROTEAN n pl PROTEANSa type of proteinPROTEASE n pl PROTEASESan enzymePROTECT v PROTECTED PROTECTING PROTECTSto keep from harm attack or injuryPROTEGE n pl PROTEGESone whose career is promoted by an influential personPROTEGEE n pl PROTEGEESa female protegePROTEI pl of proteusPROTEID n pl PROTEIDSproteinPROTEIDE n pl PROTEIDESproteidPROTEIN n pl PROTEINSa nitrogenous organic compoundPROTEND v PROTENDED PROTENDING PROTENDSto extendPROTEOME n pl PROTEOMESthe complement of proteins expressed by a genomePROTEOSE n pl PROTEOSESa watersoluble proteinPROTEST v PROTESTED PROTESTING PROTESTSto express strong objectionPROTEUS n pl PROTEUSESone that readily changes his appearance or principlesPROTEUS n pl PROTEIany of a genus of aerobic bacteriaPROTIST n pl PROTISTSany of a group of unicellular organismsPROTIUM n pl PROTIUMSan isotope of hydrogenPROTOCOL v PROTOCOLED PROTOCOLING PROTOCOLS or PROTOCOLLED PROTOCOLLING PROTOCOLSto form a preliminary draft of an official documentPROTON n pl PROTONSa subatomic particlePROTONIC adjPROTOPOD n pl PROTOPODSa part of a crustacean appendagePROTOXID n pl PROTOXIDSan oxidePROTOZOA npl unicellular microscopic organismsPROTRACT v PROTRACTED PROTRACTING PROTRACTSto prolongPROTRADE adj favoring international tradePROTRUDE v PROTRUDED PROTRUDING PROTRUDESto extend beyond the main portionPROTURAN n pl PROTURANSany of an order of white wingless insectsPROTYL n pl PROTYLSprotylePROTYLE n pl PROTYLESa hypothetical substance from which all the elements are supposedly derivedPROUD adj PROUDER PROUDESThaving or displaying pridePROUDLY advPROUDFUL adj pridefulPROUNION adj favoring labor unionsPROVE v PROVED PROVEN PROVING PROVESto establish the truth or validity ofPROVABLE adjPROVABLY advPROVENLY adv without doubtPROVER n pl PROVERSone that provesPROVERB v PROVERBED PROVERBING PROVERBSto make a byword ofPROVIDE v PROVIDED PROVIDING PROVIDESto supplyPROVIDER n pl PROVIDERSone that providesPROVINCE n pl PROVINCESan administrative division of a countryPROVING present participle of provePROVIRUS n pl PROVIRUSESa form of virusPROVIRAL adjPROVISO n pl PROVISOS or PROVISOESa clause in a document introducing a condition or restrictionPROVOKE v PROVOKED PROVOKING PROVOKESto incite to anger or resentmentPROVOKER n pl PROVOKERSone that provokesPROVOST n pl PROVOSTSa highranking university officialPROW adj PROWER PROWESTbravePROW n pl PROWSthe forward part of a shipPROWAR adj favoring warPROWESS n pl PROWESSESexceptional abilityPROWL v PROWLED PROWLING PROWLSto move about stealthilyPROWLER n pl PROWLERSone that prowlsPROXEMIC adj pertaining to a branch of environmental studyPROXIMAL adj located near the point of originPROXIMO adj of or occurring in the following monthPROXY n pl PROXIESa person authorized to act for anotherPRUDE n pl PRUDESa prudish personPRUDENCE n pl PRUDENCESthe quality of being prudentPRUDENT adj having showing or exercising good judgmentPRUDERY n pl PRUDERIESexcessive regard for propriety modesty or moralityPRUDISH adj marked by pruderyPRUINOSE adj having a powdery coveringPRUNE v PRUNED PRUNING PRUNESto cut off branches or parts fromPRUNABLE adjPRUNELLA n pl PRUNELLASa strong woolen fabricPRUNELLE n pl PRUNELLESa plumflavored liqueurPRUNELLO n pl PRUNELLOSprunellaPRUNER n pl PRUNERSone that prunesPRUNEY adj PRUNIER PRUNIESTresembling a prunePRUNING present participle of prunePRUNUS n pl PRUNUSESa flowering treePRURIENT adj having lustful thoughts or desiresPRURIGO n pl PRURIGOSa skin diseasePRURITUS n pl PRURITUSESintense itchingPRURITIC adjPRUSSIC adj pertaining to a type of acidPRUTA n pl PRUTOTprutahPRUTAH n pl PRUTOTHa former monetary unit of IsraelPRY v PRIED PRYING PRIESto inquire impertinently into private mattersPRYINGLY advPRYER n pl PRYERSprierPRYTHEE interj pritheePSALM v PSALMED PSALMING PSALMSto praise in psalms sacred songsPSALMIC adj of or pertaining to a psalmPSALMIST n pl PSALMISTSa writer of psalmsPSALMODY n pl PSALMODIESthe use of psalms in worshipPSALTER n pl PSALTERSa book of psalmsPSALTERY n pl PSALTERIESan ancient stringed musical instrumentPSALTRY n pl PSALTRIESpsalteryPSAMMITE n pl PSAMMITESa finegrained rockPSAMMON n pl PSAMMONSa group of microorganisms living in waterlogged sandsPSCHENT n pl PSCHENTSa crown worn by ancient Egyptian kingsPSEPHITE n pl PSEPHITESa rock composed of small pebblesPSEUD n pl PSEUDSa person pretending to be an intellectualPSEUDO n pl PSEUDOSa pseudPSHAW v PSHAWED PSHAWING PSHAWSto utter an expression of disapprovalPSI n pl PSISa Greek letterPSILOCIN n pl PSILOCINSa hallucinogenic drugPSILOSIS n pl PSILOSESa tropical diseasePSILOTIC adjPSIONIC adj pertaining to the practical use of psychic powersPSOAS n pl PSOAI or PSOAEa muscle of the loinPSOATIC adjPSOCID n pl PSOCIDSa minute winged insectPSORALEA n pl PSORALEASa plant of the bean familyPSORALEN n pl PSORALENSa drug used to treat psoriasisPSST interj  used to attract someones attentionPST interj psstPSYCH v PSYCHED PSYCHING PSYCHSto put into the proper frame of mindPSYCHE n pl PSYCHESthe mental structure of a personPSYCHIC n pl PSYCHICSone sensitive to extrasensory phenomenaPSYCHISM n pl PSYCHISMSa belief that there is a fluid that animates all living beingsPSYCHO n pl PSYCHOSa mentally unstable personPSYLLA n pl PSYLLASany of various plant licePSYLLID n pl PSYLLIDSpsyllaPSYLLIUM n pl PSYLLIUMSthe seed of a fleawortPSYOPS npl noncombative military operations to influence the enemys state of mindPSYWAR n pl PSYWARSpsychological warfarePTERIN n pl PTERINSa chemical compoundPTEROPOD n pl PTEROPODSa type of molluskPTERYGIA npl fleshy growths over the corneaPTERYLA n pl PTERYLAEa feathered area on the skin of a birdPTISAN n pl PTISANSa tea of herbs or barleyPTOMAIN n pl PTOMAINSptomainePTOMAINE n pl PTOMAINESa compound produced by the decomposition of proteinPTOOEY interj ptuiPTOSIS n pl PTOSESa drooping of the upper eyelidPTOTIC adjPTUI interj  used to express the sound of spittingPTYALIN n pl PTYALINSa salivary enzymePTYALISM n pl PTYALISMSan excessive flow of salivaPUB n pl PUBSa tavernPUBBING n pl PUBBINGSthe practice of drinking in pubsPUBERTY n pl PUBERTIESa period of sexual maturationPUBERAL PUBERTAL adjPUBIC adj pertaining to the pubes or pubisPUBIS n pl PUBESthe forward portion of either of the hipbonesPUBLIC n pl PUBLICSthe community or the people as a wholePUBLICAN n pl PUBLICANSone who owns or manages a pubPUBLICLY adv by the publicPUBLISH v PUBLISHED PUBLISHING PUBLISHESto print and issue to the publicPUCCOON n pl PUCCOONSan herb that yields a red dyePUCE n pl PUCESa dark red colorPUCK n pl PUCKSa rubber disk used in ice hockeyPUCKA adj pukkaPUCKER v PUCKERED PUCKERING PUCKERSto gather into small wrinkles or foldsPUCKERER n pl PUCKERERSone that puckersPUCKERY adj PUCKERIER PUCKERIESThaving a tendency to puckerPUCKISH adj impishPUCKSTER n pl PUCKSTERSa hockey playerPUD n pl PUDSpuddingPUDDING n pl PUDDINGSa thick soft dessertPUDDINGY adj resembling a puddingPUDDLE v PUDDLED PUDDLING PUDDLESto strew with puddles small pools of waterPUDDLER n pl PUDDLERSone who subjects iron to puddlingPUDDLING n pl PUDDLINGSthe process of converting pig iron to wrought ironPUDDLY adj PUDDLIER PUDDLIESTfull of puddlesPUDENCY n pl PUDENCIESmodestyPUDENDUM n pl PUDENDAthe external genital organs of a womanPUDENDAL adjPUDEUR n pl PUDEURSa sense of shame or embarrassmentPUDGE n pl PUDGESfat on a bodyPUDGY adj PUDGIER PUDGIESTshort and fatPUDGILY advPUDIBUND adj prudishPUDIC adj pertaining to the pudendumPUDU n pl PUDUSa small deer of South AmericaPUEBLO n pl PUEBLOSa communal dwelling of certain Indian tribesPUERILE adj childishPUERPERA n pl PUERPERAEa woman who has recently given birth to a childPUFF v PUFFED PUFFING PUFFSto blow in short gustsPUFFBACK n pl PUFFBACKSa small African birdPUFFBALL n pl PUFFBALLSany of various globular fungiPUFFBIRD n pl PUFFBIRDSa stocky tropical American birdPUFFER n pl PUFFERSone that puffsPUFFERY n pl PUFFERIESexcessive public praisePUFFIN n pl PUFFINSa sea birdPUFFY adj PUFFIER PUFFIESTswollenPUFFILY advPUG v PUGGED PUGGING PUGSto fill in with clay or mortarPUGAREE n pl PUGAREESpugreePUGGAREE n pl PUGGAREESpugreePUGGIER comparative of puggyPUGGIEST superlative of puggyPUGGING n pl PUGGINGSthe act of preparing clay for making bricks or potteryPUGGISH adj somewhat stubbyPUGGREE n pl PUGGREESpugreePUGGRY n pl PUGGRIESpugreePUGGY adj PUGGIER PUGGIESTpuggishPUGH interj  used to express disgustPUGILISM n pl PUGILISMSthe art or practice of fighting with the fistsPUGILIST n pl PUGILISTSone who fights with his fistsPUGMARK n pl PUGMARKSa footprintPUGREE n pl PUGREESa cloth band wrapped around a hatPUISNE n pl PUISNESone of lesser rankPUISSANT adj powerfulPUJA n pl PUJASa Hindu prayer ritualPUJAH n pl PUJAHSpujaPUKE v PUKED PUKING PUKESto vomitPUKEY adj PUKIER PUKIESTresembling or suggestive of vomitPUKKA adj genuinePUKKAH adj pukkaPUL n pl PULS or PULIa coin of AfghanistanPULA n pl PULASa monetary unit of BotswanaPULAO n pl PULAOSpilafPULE v PULED PULING PULESto whinePULER n pl PULERSone that pulesPULI n pl PULIS or PULIKa longhaired sheepdogPULICENE adj pertaining to fleasPULICIDE n pl PULICIDESan agent used for destroying fleasPULING n pl PULINGSa plaintive cryPULINGLY adv in a whining mannerPULK n pl PULKSa small sledPULKA n pl PULKASpulkPULL v PULLED PULLING PULLSto exert force in order to cause motion toward the forcePULLBACK n pl PULLBACKSa restraint or drawbackPULLER n pl PULLERSone that pullsPULLET n pl PULLETSa young henPULLEY v PULLEYED PULLEYING PULLEYSto hoist with a pulley a device used for lifting weightPULLMAN n pl PULLMANSa railroad sleeping carPULLOUT n pl PULLOUTSa withdrawalPULLOVER n pl PULLOVERSa garment that is put on by being drawn over the headPULLUP n pl PULLUPSthe act of raising oneself while hanging by the handsPULMONIC adj pertaining to the lungsPULMOTOR n pl PULMOTORSa respiratory devicePULP v PULPED PULPING PULPSto reduce to pulp a soft moist mass of matterPULPAL adj pertaining to pulpPULPALLY advPULPER n pl PULPERSone that pulpsPULPIER comparative of pulpyPULPIEST superlative of pulpyPULPILY adv in a pulpy mannerPULPING н …
+```prolog
+entry(qabala, n, [qabalas], "cabalaQABALAH n pl QABALAHScabalaQADI n pl QADIScadiQAID n pl QAIDScaidQAJAQ n pl QAJAQSkayakQAMUTIK n pl QAMUTIKSkomatikQANAT n pl QANATSa system of underground tunnels and wells in the Middle EastQAT n pl QATSkatQAWWALI n pl QAWWALISa style of Muslim musicQI n pl QISthe vital force that in Chinese thought is inherent in all thingsQIBLA n pl QIBLASkiblahQIGONG n pl QIGONGSa Chinese system of physical exercisesQINDAR n pl QINDARS or QINDARKAqintarQINTAR n pl QINTARSa monetary unit of AlbaniaQIVIUT n pl QIVIUTSthe wool of a musk oxQOPH n pl QOPHSkophQUA adv in the capacity ofQUAALUDE n pl QUAALUDESa sedative drugQUACK v QUACKED QUACKING QUACKSto utter the characteristic cry of a duckQUACKERY n pl QUACKERIESfraudulent practiceQUACKISH adj fraudulentQUACKISM n pl QUACKISMSquackeryQUACKY adj QUACKIER QUACKIESTresembling the cry of a duckQUAD v QUADDED QUADDING QUADSto space out by means of quadratsQUADPLEX n pl QUADPLEXESa building having four unitsQUADRANS n pl QUADRANTESan ancient Roman coinQUADRANT n pl QUADRANTSa quarter section of a circleQUADRAT n pl QUADRATSa piece of type metal used for filling spacesQUADRATE v QUADRATED QUADRATING QUADRATESto correspond or agreeQUADRATI npl rectangular musclesQUADRIC n pl QUADRICSa type of geometric surfaceQUADRIGA n pl QUADRIGAEa chariot drawn by four horsesQUADROON n pl QUADROONSa person of onequarter black ancestryQUAERE n pl QUAERESa questionQUAESTOR n pl QUAESTORSan ancient Roman magistrateQUAFF v QUAFFED QUAFFING QUAFFSto drink deeplyQUAFFER n pl QUAFFERSone that quaffsQUAG n pl QUAGSa quagmireQUAGGA n pl QUAGGASan extinct mammal that resembled a zebraQUAGGY adj QUAGGIER QUAGGIESTmarshyQUAGMIRE n pl QUAGMIRESan area of marshy groundQUAGMIRY adj QUAGMIRIER QUAGMIRIESTmarshyQUAHAUG n pl QUAHAUGSquahogQUAHOG n pl QUAHOGSan edible clamQUAI n pl QUAISquayQUAICH n pl QUAICHS or QUAICHESa small drinking vesselQUAIGH n pl QUAIGHSquaichQUAIL v QUAILED QUAILING QUAILSto cowerQUAINT adj QUAINTER QUAINTESTpleasingly oldfashioned or unfamiliarQUAINTLY advQUAKE v QUAKED QUAKING QUAKESto shake or vibrateQUAKER n pl QUAKERSone that quakesQUAKY adj QUAKIER QUAKIESTtending to quakeQUAKILY advQUALE n pl QUALIAa property considered apart from things having the propertyQUALIFY v QUALIFIED QUALIFYING QUALIFIESto make suitable or capableQUALITY n pl QUALITIESa characteristic or attributeQUALM n pl QUALMSa feeling of doubt or misgivingQUALMISH adj having qualmsQUALMY adj QUALMIER QUALMIESTqualmishQUAMASH n pl QUAMASHEScamassQUANDANG n pl QUANDANGSquandongQUANDARY n pl QUANDARIESa dilemmaQUANDONG n pl QUANDONGSan Australian treeQUANGO n pl QUANGOSa public administrative boardQUANT v QUANTED QUANTING QUANTSto propel through water with a poleQUANTA pl of quantumQUANTAL adj pertaining to a quantumQUANTIC n pl QUANTICSa type of mathematical functionQUANTIFY v QUANTIFIED QUANTIFYING QUANTIFIESto determine the quantity ofQUANTILE n pl QUANTILESany of the values of a random variable that divides a frequency distributionQUANTISE v QUANTISED QUANTISING QUANTISESto quantizeQUANTITY n pl QUANTITIESa specified or indefinite amount or numberQUANTIZE v QUANTIZED QUANTIZING QUANTIZESto limit the possible values of to a discrete setQUANTONG n pl QUANTONGSquandongQUANTUM n pl QUANTAa fundamental unit of energyQUARE adj queerQUARK n pl QUARKSa hypothetical atomic particleQUARREL v QUARRELED QUARRELING QUARRELS or QUARRELLED QUARRELLING QUARRELSto engage in an angry disputeQUARRIER n pl QUARRIERSone that quarriesQUARRY v QUARRIED QUARRYING QUARRIESto dig stone from an excavationQUART n pl QUARTSa liquid measure of capacityQUARTAN n pl QUARTANSa recurrent malarial feverQUARTE n pl QUARTESa fencing thrustQUARTER v QUARTERED QUARTERING QUARTERSto divide into four equal partsQUARTERN n pl QUARTERNSonefourth of somethingQUARTET n pl QUARTETSa group of fourQUARTIC n pl QUARTICSa type of mathematical functionQUARTIER n pl QUARTIERSa district in a French cityQUARTILE n pl QUARTILESa portion of a frequency distributionQUARTO n pl QUARTOSthe size of a piece of paper cut four from a sheetQUARTZ n pl QUARTZESa mineralQUASAR n pl QUASARSa distant celestial object emitting strong radio wavesQUASH v QUASHED QUASHING QUASHESto suppress completelyQUASHER n pl QUASHERSone that quashesQUASI adj similar but not exactly the sameQUASS n pl QUASSESkvassQUASSIA n pl QUASSIASa tropical treeQUASSIN n pl QUASSINSa medicinal compound obtained from the wood of a quassiaQUATE adj quietQUATORZE n pl QUATORZESa set of four cards of the same denomination scoring fourteen pointsQUATRAIN n pl QUATRAINSa stanza of four linesQUATRE n pl QUATRESthe four at cards or diceQUAVER v QUAVERED QUAVERING QUAVERSto quiverQUAVERER n pl QUAVERERSone that quaversQUAVERY adj quiveryQUAY n pl QUAYSa wharfQUAYLIKE adjQUAYAGE n pl QUAYAGESa charge for the use of a quayQUAYSIDE n pl QUAYSIDESthe area adjacent to a quayQUBIT n pl QUBITSa quantum bitQUBYTE n pl QUBYTESa sequence of eight quantum bitsQUEAN n pl QUEANSa harlotQUEASY adj QUEASIER QUEASIESTeasily nauseatedQUEASILY advQUEAZY adj QUEAZIER QUEAZIESTqueasyQUEEN v QUEENED QUEENING QUEENSto make a queen a female monarch ofQUEENCUP n pl QUEENCUPSa flowering plantQUEENDOM n pl QUEENDOMSthe area ruled by a queenQUEENLY adj QUEENLIER QUEENLIESTof or befitting a queenQUEENY adj QUEENIER QUEENIESTshowily effeminateQUEER adj QUEERER QUEERESTdeviating from the expected or normalQUEER v QUEERED QUEERING QUEERSto spoil the effect or success ofQUEERISH adj somewhat queerQUEERLY adv in a queer mannerQUELEA n pl QUELEASan African weaverbirdQUELL v QUELLED QUELLING QUELLSto suppressQUELLER n pl QUELLERSone that quellsQUENCH v QUENCHED QUENCHING QUENCHESto put out or extinguishQUENCHER n pl QUENCHERSone that quenchesQUENELLE n pl QUENELLESa type of dumplingQUERCINE adj pertaining to oaksQUERIDA n pl QUERIDASa female sweetheartQUERIED past tense of queryQUERIER n pl QUERIERSa queristQUERIES present 3d person sing of queryQUERIST n pl QUERISTSone who queriesQUERN n pl QUERNSa handturned grain millQUERY v QUERIED QUERYING QUERIESto questionQUEST v QUESTED QUESTING QUESTSto make a searchQUESTER n pl QUESTERSone that questsQUESTION v QUESTIONED QUESTIONING QUESTIONSto put a question an inquiry toQUESTOR n pl QUESTORSquaestorQUETZAL n pl QUETZALS or QUETZALESa tropical birdQUEUE v QUEUED QUEUING or QUEUEING QUEUESto line upQUEUER n pl QUEUERSone that queuesQUEY n pl QUEYSa young cowQUEZAL n pl QUEZALS or QUEZALESquetzalQUIBBLE v QUIBBLED QUIBBLING QUIBBLESto argue over trivialitiesQUIBBLER n pl QUIBBLERSone that quibblesQUICHE n pl QUICHESa custardfilled pastryQUICK adj QUICKER QUICKESTacting or capable of acting with speedQUICK n pl QUICKSa sensitive area of fleshQUICKEN v QUICKENED QUICKENING QUICKENSto speed upQUICKIE n pl QUICKIESsomething done quicklyQUICKLY adv in a quick mannerQUICKSET n pl QUICKSETSa plant suitable for hedgesQUID n pl QUIDSa portion of something to be chewedQUIDDITY n pl QUIDDITIESthe true nature of a thingQUIDNUNC n pl QUIDNUNCSa nosy personQUIET adj QUIETER QUIETESTmaking little or no noiseQUIET v QUIETED QUIETING QUIETSto cause to be quietQUIETEN v QUIETENED QUIETENING QUIETENSto quietQUIETER n pl QUIETERSone that quietsQUIETISM n pl QUIETISMSa form of religious mysticismQUIETIST n pl QUIETISTSan advocate of quietismQUIETLY adv in a quiet mannerQUIETUDE n pl QUIETUDESa state of tranquillityQUIETUS n pl QUIETUSESa final settlementQUIFF n pl QUIFFSa lock of hair at the front of the headQUIFFED adjQUILL v QUILLED QUILLING QUILLSto press small ridges inQUILLAI n pl QUILLAISan evergreen treeQUILLAIA n pl QUILLAIASa quillaiQUILLAJA n pl QUILLAJASa quillaiQUILLET n pl QUILLETSa trivial distinctionQUILLING n pl QUILLINGSmaterial that is quilledQUILLOW n pl QUILLOWSa quilt formed into a pillowQUILT v QUILTED QUILTING QUILTSto stitch together with padding in betweenQUILTER n pl QUILTERSone that quiltsQUILTING n pl QUILTINGSmaterial that is used for making quiltsQUIN n pl QUINSa quintupletQUINARY n pl QUINARIESa group of fiveQUINATE adj arranged in groups of fiveQUINCE n pl QUINCESan applelike fruitQUINCUNX n pl QUINCUNXESan arrangement of five objectsQUINELA n pl QUINELASquinellaQUINELLA n pl QUINELLASa type of bet in horse racingQUINIC adj pertaining to quinineQUINIELA n pl QUINIELASquinellaQUININ n pl QUININSquinineQUININA n pl QUININASquinineQUININE n pl QUININESa medicinal alkaloidQUINNAT n pl QUINNATSa food fishQUINOA n pl QUINOASa weedy plantQUINOID n pl QUINOIDSa chemical compoundQUINOL n pl QUINOLSa chemical compoundQUINOLIN n pl QUINOLINSa chemical compoundQUINONE n pl QUINONESa chemical compoundQUINSY n pl QUINSIESan inflammation of the tonsilsQUINSIED adjQUINT n pl QUINTSa group of fiveQUINTA n pl QUINTASa country estate in Portugal or Latin AmericaQUINTAIN n pl QUINTAINSan object used as a target in a medieval sportQUINTAL n pl QUINTALSa unit of weightQUINTAN n pl QUINTANSa recurrent feverQUINTAR n pl QUINTARSqintarQUINTE n pl QUINTESa position in fencingQUINTET n pl QUINTETSa group of fiveQUINTIC n pl QUINTICSa type of mathematical functionQUINTILE n pl QUINTILESa portion of a frequency distributionQUINTIN n pl QUINTINSa fine linenQUINZHEE n pl QUINZHEESa shelter made by hollowing out a pile of snowQUINZIE n pl QUINZIESquinzheeQUIP v QUIPPED QUIPPING QUIPSto make witty remarksQUIPPER n pl QUIPPERSone that quipsQUIPPISH adj wittyQUIPPU n pl QUIPPUSquipuQUIPPY adj QUIPPIER QUIPPIESTwittyQUIPSTER n pl QUIPSTERSone that quipsQUIPU n pl QUIPUSan ancient calculating deviceQUIRE v QUIRED QUIRING QUIRESto arrange sheets of paper in sets of twentyfourQUIRK v QUIRKED QUIRKING QUIRKSto twistQUIRKISH adj quirkyQUIRKY adj QUIRKIER QUIRKIESTpeculiarQUIRKILY advQUIRT v QUIRTED QUIRTING QUIRTSto strike with a riding whipQUISLING n pl QUISLINGSa traitor who aids the invaders of his countryQUIT v QUITTED QUITTING QUITSto end ones engagement in or occupation withQUITCH n pl QUITCHESa perennial grassQUITE adv to the fullest extentQUITRENT n pl QUITRENTSa fixed rent due from a socage tenantQUITTED past tense of quitQUITTER n pl QUITTERSone that quitsQUITTING present participle of quitQUITTOR n pl QUITTORSan inflammation of an animals hoofQUIVER v QUIVERED QUIVERING QUIVERSto shake with a slight but rapid motionQUIVERER n pl QUIVERERSone that quiversQUIVERY adj marked by quiveringQUIXOTE n pl QUIXOTESa quixotic personQUIXOTIC adj extremely idealisticQUIXOTRY n pl QUIXOTRIESquixotic action or thoughtQUIZ v QUIZZED QUIZZING QUIZZESto test the knowledge of by asking questionsQUIZZER n pl QUIZZERSone that quizzesQULLIQ n pl QULLIQSkudlikQUOD n pl QUODSa prisonQUOHOG n pl QUOHOGSquahogQUOIN v QUOINED QUOINING QUOINSto secure with a type of wedgeQUOINING n pl QUOININGSthe materials as stones or bricks used to form an external corner of a buildingQUOIT v QUOITED QUOITING QUOITSto play a throwing game similar to ringtossQUOKKA n pl QUOKKASa shorttailed wallabyQUOLL n pl QUOLLSa small spotted marsupialQUOMODO n pl QUOMODOSa means or mannerQUONDAM adj that once wasQUORUM n pl QUORUMSa particularly chosen groupQUOTA n pl QUOTASa proportional part or shareQUOTE v QUOTED QUOTING QUOTESto repeat the words ofQUOTABLE adjQUOTABLY advQUOTER n pl QUOTERSone that quotesQUOTH v said  QUOTH is the only accepted form of this verb it cannot be conjugatedQUOTHA interj  used to express surprise or sarcasmQUOTIENT n pl QUOTIENTSthe number resulting from the division of one number by anotherQUOTING present participle of quoteQURSH n pl QURSHESa monetary unit of Saudi ArabiaQURUSH n pl QURUSHESqurshQWERTY n pl QWERTYSa standard keyboard").
+```
+መግቢያ(ራባስካ, ን, [ራባስካዎች], "ትልቅ መያዣ").
+መግቢያ(ራባት, ነ, [ራባቶች], "ከብርጭቆ ኮለር ጋር የተያያዘ ዲኪ").
+entry(rabato, n, [rabatos], "በላጭ የሚሳለቅ የአሞሌ አሞሌ").
+entry(ራበት, ግ, [ራበተ,ራበትእያ,ራበቦች], "ይዘርዝሮ").
+የሚሄዱ(ረቡ ም., [ሬበይዝ], "ወይም RABBIESa አይሁዳዊ መንፈሳዊ መሪ").
+entry(ራቢ, ነ, [ራቢዎች], "ራቢ").
+entry(rabbinic, ግም, [], "ለመምህራን የሚገባ").
+entry(ዶሮ, ግ, [ዶሮ አደረገ, ዶሮ አባረረ ነው, ዶሮዎች], "አንበሳን የሚሳደድ አይነት።").
+entry(rabbiter, n, [rabbiters], "የመረሳት ሰው").
+entry(ላምኘድ መኖሪያ, ን, [ላምኘዶች መኖሪያዎች], "የላምኘዶች መኖሪያ").
+entry(rabbity, አግ, [], "የአይጥ ገጽታ ያለው").
+entry(rabble, v, [rabbled,rabbling,rabbles], "ለምትህብጥ").
+entry(rabbler, n, [rabblers], "የብረት ጭቤን ማሮግ የሚሰራ የብረት አምድ").
+entry(ራቦኒ, ነ, [ራቦኒስ], "መምህር መምህራን እንደ አይሁዳዊ ክብር ስም የተጠቀመ").
+entry(ሬቤስ, ግም, [], "ለሬቤስ የሚመለከት").
+entry(የምናልባት, ቅድመ ሀረግ, [], "በምናልባት የተያዘ RABIDLY ቀሶ").
+entry(የእብሪትነት, ን, [የእብሪትነቶች], "የእብሪት መሆን ሁኔታ").
+ደርሻው(rabies, ነ, [rabies], "ተለዋዋጭ ቫይረስ በሽታ የሚያስከትልRABIETIC ግምጥል").
+እትም(አራኪሮስ, ነ, [አራኪሮስ], "የሥጋ መብል የሚባል ጥብቅ እንስሳ").
+ፈልተ(ዝግጅት, ግ, [ዝግጅ, እየሰራለው, ዝግጅያት], "ስፖርታዊ ዝግጅት ማደራጀት").
+entry(racegoer, ን, [racegoers], "ለእንግዲያ የፈለጉ በተደጋጋሚ የፈለቁ").
+እትም(racemate, ን, [racemates], "አንድ የኬሚካል ጨው").
+entry(raceme, n, [racemes], "አንድ የአበባ ሥርዓት በአክሲስ በኩልRACEMED adj").
+entry(ራሰሜክ, ግምት, [], "ራሰሜት ዙሪያ የሚመለከት").
+entry(racemism, n, [racemisms], "ሬሴሚክ መሆን ሁኔታ").
+መግቢያ(ሬሲማይዝ, ግ, [ሬሲማይዝድ,ሬሲማይዚንግ,ሬሲማይዝዝ], "ወደ ራሺሚክ ውጤት ለመቀየር").
+entry(racemoid, ግምጃ, [], "ወደ ጭብጥ የሚመላለስ").
+entry(ሬሲሞስ, ግምጃ, [], "ረበሰ ያለ ቅርፊት ያለው").
+entry(ሬሴሞስ, አደjective, [], "ሬሴሞስ").
+መግቢያ(አሽከር, ነ, [አሽከራርተኞች], "እሱ የሚያሽከር").
+ምእመራጽ(ዝዕንጉር, ግ, [ዝዕንጓር, እንኳር, ዝዕንጉሮች], "የመንበርን እግር ከመሬት ማግለጥ ሳይታችእ እና የደጋዝ አንኳብን በቀጥታነት ማውጣት").
+መግቢያ(የውዝግቦርያ, ነ, [የውዝግቦርያዎች], "ውሃ ለመሽከርከር እንጨት").
+entry(ራችት, ግ, [አራችተዋል,እያራችተ ነዋል,ራችቶች], "ራችት").
+entry(ራኪላ, ን, [ራኪላዬ], "የሣር ስፓይክሌት መሀከያዊ ምርጭ").
+entry(ራኪስ, ን, [ራኪሶች], "ወይም ራኪዴስ የኃላ አመልሰው ምስክር ራኪአል ቅያጽ").
+እትም(rachitis, ነ, [rachitides], "ricketsRACHITIC adj").
+ቀደምተአዘል(adj, [], "በጎራዊ ቡድን የሚያመለክት በሕዝብነት adv").
+እትም(racier, comparative, [], "የ racy")።
+entry(raciest, superlative, [], "ከሚማረኩ የበለጠ").
+entry(በሚሳቅ ሁኔታ, ግ, [], "በሚያሳዝን ሁኔታ").
+entry(ናሽነት, ስ, [ናሽነቶች], "ምርቃታማነት ያለበት ጥራት").
+entry(racing, n, [racings], "የፍጥነት ውድድር ስፖርት").
+entry(racino, n, [racinos], "ከሎተሪ ማሽን ጋር የተያያዘ የዝውውር አዳራሽ ቤት").
+entry(ዘረኝነት, ን, [ዘረኝነቶች], "የዘር ከፍተኛነት ሃሳብ").
+ፍቺ(ዘንግኝ, ነ, [ዘንግኞች], "ዘንግኝነት ተመራመሪ").
+entry(መሸጎጫ, ግ, [ሸገገ, ሸጎጣለ, መሸጎጫዎች], "ዓይነተኝህ አውርድ እንደሚሆን እንዲኖር").
+entry(racker, n, [rackers], "መውከፍ አርኪ").
+መግቢያ(አንዳኳ, ግ, [አንዳኳች,አንዳኳንግ,አንዳኳዎች], "ከፍተኛ ድምጽ ማድረግ").
+entry(rackety, adj, [], "ከፍተኛ ጉርምርም ያለ").
+መግቢያ(rackful, ን, [rackfuls], "መደርጎ መውሰድ የሚችለው ጫንቃ").
+እትም(rackle, አግአባብ, [], "አስቸኝ ፈጣሪ").
+entry(rackwork, n, [rackworks], "የመነሻ ቀንድ ዓይነት").
+እቤት(ራክሌት, ነ, [ራክሌቶች], "የአንጀት አይነት").
+እቲ ምስጢር እውነት(entry(racon, n, [racons], "የራዳር ላክ አይነት")).
+entry(ራኩዎን, ን, [ራካኦንስ], "ራኩዎን").
+entry(መልማም, አይ, [መልማሞች], "በበርካታ ኳስ ጨዋታዎች የሚጠቀምበት ቀላል መሣሪያ").
+`entry(racy, adj, [], "ራሲየር ራሲአስት በማግባባት ወይም በመጥፎነት ላይ የሚገባ").`
+entry(rad, v, [radded, radding, rads], "ለመፍራት").
+ውስጥ_መግቢያ(ሬድ, ቅኔ, [], "ራድ የበለጠ እና ጉዞይ ጉረዳችን በጣም ማማሰል ወይም ጥሩ").
+entry(ራዳር, ሰ, [ራዳሮች], "ኤሌክትሮኒክ መነሻ መሣሪያ").
+entry(raddle, v, [ላሱን_ላሰየና, የማስሦው_ሂሳብ, ላሲ_ለማስከተቱ_አቀድ], "ተጠልቆ ማሰላይ").
+entry(radiable, adj, [], "መተላከፍ የሚችል").
+entry(radial, n, [radials], "በማዕከሉ የሚለዩ ክፍሎች").
+entry(radiale, n, [ሬድያሊያ], "የካርፑስ አጥንት").
+entry(በመነዳድ, ተ.ወ, [], "በማስበያ አጋጣሚ").
+%eentrada(radian, n, [radians], "ከማዕዘነኝ መለኪያ").
+entry(ብርሃን, ነ, [ብርሃንዎች], "ብሩህነት").
+የሚገባ(የብርሃንነት, ናፍቆም, [የብርሃንነት], "እምቅ").
+entry(ብሩህ, ቃ, [ብሩሃት], "ከዚያ ዜሮች/ራዮች ይወጣሉ").
+እትም(radiate, ግ, [radiated, radiating, radiates], "ንጋት ማሰራጨት").
+entry(ራዲያተር, ነ, [ራዲያተሮች], "የሙቅ መመስረቻ መሳሪያ").
+የውሂብ(መግነዝ, ስ, [መግነዞች], "በኬሚካላዊ ንዑስ እንደ አንድ ሒደት የሚገልጽ ቅርፀ-አቶም ቡድን").
+entry(ሪዲካንድ, ኤን, [ሪዲካንድስ], "በሂሳብ ሂደት ውስጥ አንድ መጠን ነው").
+entry(radicate, v, [radicated,radicating,radicates], "ምርጥ ማድረግ").
+መግቢያ(መሠረተ [radicels], እን, "አሰረ").
+ማስገባት(መስመሮች, አ, [], "የ radix ዋሣ").
+entry(መሰረታዊ, ነ, [መሰረታዎች], "የእፅዋት እንክር").
+መግቢያ(መንቀሳቀስ, አ, [], "መነሻ መጠን").
+entry(ሬዲዮ, ግ, [ሬዲዮአለ,ሬዲዮ በማድረግ,ሬዲዮዎች], "ወይም ሬዲዮኦች በሬዲዮ መቀላቀል ያለ መሳሪያ የእንግሊዝኛ ተግባር").
+ፍቺ(ሬድዮማን, ነ, [ሬድዮሜን], "የሬድዮ ኦፐሬተር ወይም ቴክኒሻን")。
+entry(ማርሾ, ነ, [ማርሾች], "አሽክር የሚበላ ሥር").
+entry(ራዲየም, ሰ, [ራዲየሞች], "አንድ ራዲዮአክቲቭ እንስሳ").
+entry(radius, n, [እንቅስቃሴዎች], "ወይም ራዲዎች ቀጢዋ መስመር ከክብብ መካከዝ እስከ ክብብ ድረስ").
+entry(radius, v, [radiused,radiusing,radiuses], "እንቅስቃሴ ያለው መልክ ለመስጠት").
+እትም(radix, ነ, [radixes], "ወይም ሩት የእፅዋት ስር").
+entry(radome, n, [radomes], "የራዳር አንቲና ለማሰታሰል የሚጠቀመው እንጓቀᕕ መሳሪያ").
+entry(ራዶን, ኒ, [ራዶንስ], "አንዱ አራዲዮአክቲቭ ክብር ነው").
+entry(radula, n, [radulas], "ወይም RADULAE የሞሌስክስ ዝርዝር ሚስሪ ክንውንኝ RADULAR adj").
+entry(radwaste, n, [radwastes], "አማራጭነት ቃል").
+entry(raff, n, [raffs], "ማህበረሰብ ባዉላይ").
+entry(ራፊያ, n, [ራፊያዎች], "የእጅ ማናቸውም").
+entry(raffish, አግራቢ, [], "ህልፈተኝ").
+መግቢያ(raffle, v, [raffled,raffling,raffles], "በሎተሪ አይነት ማሽጋገር").
+ፋይላ(ራፍለር, ነ, [ራፍለርስ], "ያራፍሌል ሰው").
+ማስገቢያ(ሬፍት, ግ, [ሬፍቴዋል,ሬፍቲንግ,ሬፍትስ], "በእንጨት መሳርያ ላይ ማሸነፍ የተነሳ አይነት የመነኛ መዋኛ መሳርያ").
+entry(ስፕሪ, ነ, [ስፕሪዎች], "ድጋፍ ማጋደሊያ").
+entry(raftered, adj, [], "ከጣሎች ጋር የተሞላ ፡፡").
+entry(ዳርቦ እየንቆላ ተጓዝ, ነ, [ዳርቦ እነቆላ ወገሎች], "በወንዝ ላይ በዳርቦ እየንቆላ ስፖርት").
+entry(ጀረባው, ን, [ጀረባዎች], "ጀረባ ማስተዳደር የሚችል ሰው").
+entry(ሬግ, v, [ረገም,በሬገሙ,ሬጎች], "ማጽናና").
+entry(ራጋ, ነ, [ራጋዎች], "የሀንዱ ሙዚቃዊ ቅርስ").
+entry(አውራ ቦርሳ, ን, [አውራ ቦርሳዎች], "የአፈር ጨርቅ ማስቀመጫ ቦርሳ").
+entry(እርሳኝ, ግ, [እርሳነ,እርሳን በማድረግ,እርሳን ይላሉ], "በእርሳኝነት ሆኖ መሰማት ወይም ተናገር").
+entry(ራጌ, ን, [ራጌዎች], "ራጊ").
+entry(rageful, ግምረሽ, [], "ከባድ አስቸኳይ መዝጋቢት").
+entry(rager, n, [እብራቤዎች], "የተናደደ አንድ").
+entry(ragg, n, [raggs], "የስር አፈራ").
+entry(ራጋ, ነ, [ራጋዎች], "ሬጌን እና ሒፕ ሆፕ የሚያውጣ።").
+መግባት(ቆሻሻ ያለ፣ ቅጥ፣ [], "ቆሻሻ ያለው ቆሻሻጥየበሰበሰመጋገር ቃል ፣ adv").
+entry(raggedy, adj, [], "በጣም የሞላ መሞላ በአንደኛ ዲግሪ ከተሰበረ").
+entry(ራግጌ, ነ, [ራግጌዎች], "ራጂ").
+entry(ራጂስ, ብዛት, [], "ከራጂ").
+entry(መጫወቻ, ነ, [መጫወቻዎች], "ቅጥርን በሬግ ቀስቅሶ ቀለም በመውሰር ማምረቻ ቴክኒክ።").
+entry(ራግል, ነ, [ራግልስ], "በድንጋይ ላይ የተቆረጠ ጭራ").
+entry(raggy, n, [raggies], "ራጂ").
+entry(ራጂ, ነ, [ራጂስ], "የምሥራቅ ህንድ እህል ሣር").
+entry(እብጠት, አሁን, [], "የእብጠት ተሳትፎ ስርዓት").
+entry(ragingly, adv, [], "በድርቅ ወሬ").
+entry(ራግላን, ን, [ራግላንስ], "የኮት አይነት").
+መግቢያ(ራግማን, ነ, [ራግሜን], "ቀበሌ እና ክፍያ የሚሰበስብ ሰው").
+entry(ራጉ, ግ, [ራጉሲደም,ራጋዉቲንግ,ራጉትስ], "እጅግ ዝቅተኛ በሽማጅ ጭኑ ማድረግ").
+entry(ragtag, n, [ragtags], "ወለደ ፊሎግ").
+entry(ragtail, adj, [], "ወርዳም ያለ መሻተት").
+entry(ራግታይም, ነ, [ራግታይምስ], "የአሜሪካ የዳንስ ሙዚቃ አይነት").
+entry(ragtop, n, [ragtops], "ተንቀሳቃሽ የሚሆን መኪና").
+entry(ረክዊድ, ን, [ረክዊዶች], "የሕርቅ ሣር").
+ምእተው(stmt(ragworm, n, [ragworms], "ውሃ ውስጥ ያለ ቁም አሳጠሮ")).
+entry(ራጓርት, ን, [ራጓርቶች], "አበባ ያባበረ ተክል").
+entry(ራህ, ትምቢት, [], "ቡድን ወይም እግለማለም ለመታነስ የሚጠቅም").
+entry(ራይ, ነ, [ራይስ], "የአልጄሪያ ታዋቂ ዝግጅት ዘፈን").
+entry(ራኢያ, ን, [ራኢያስ], "ሬያ").
+entry(አሽከርክረኝ, ግ, [አሽከረኝ, እናሽከርክር, ሽከሩ], "ድፍረት ማድረግ").
+entry(ወንበዴ, ነ, [ወንበዶች], "የሚዘረፍ").
+entry(ባቡር, ግ, [ተነከሰ, እንቅለሰላሰለ, እንቅለሳለ], "በሰደባል ወይም አስንጋጳ ቋንቋ መገሠጽ").
+entry(የባቡር መንገድ ማማገኛ, ን, [የባቡር መንገዶች], "ባቡር በሚላይበት ላይ የተጣለ የድንጋይ ወይም ከሚጋ ግንብ").
+entry(ሬልበርድ, ሰ, [ሬልበርዶች], "የሐይል ምርካብ አስተዋዮ").
+entry(railbus, n, [railbuses], "ወይም ባቀበል ዘመን ላይ እንደሚሄድ የተዘጋጅ የተጓዋኝ ተሽከርካሪ").
+entry(ባቡር መኪና, ነ, [ባቡሮች], "የባቡር መኪና").
+entry(እትም ካርድ, ነፍሰ ነገር, [እትም ካርዶች], "የታንክ ቲኬቶችን በተሳነ ዋጋ ለመግዛት የሚአካል ካርድ").
+entry(ሬለር, ን, [ሬለሮች], "የሚዛረቁ አንዱ").
+entry(ርእሰ በረት, ን, [ርእሰ በረታት], "የባቡር መስመር መጨረሻ").
+entry(ገበጣ, ነ, [ገበጣዎች], "ቅጥል ያለው መከላከያ").
+entry(መፋረዳ፣ ን፣ [መፋረዳያት]፣ "ልመና ያለ መሳቅ").
+እትም(የባቡር ሰራተኛ, ን, [የባቡር ሰራተኞች], "የባቡር ሰራተኛ").
+entry(ባቡር, v, [ባቡረሰ,ባቡር ደርደረ,ባቡሮች], "በባቡር የሚጓዝ መንገድ ላይ ባቡሮች የሚቀመጡበት ዓይነት እንዲዘዋወር ማስተላለፍ").
+entry(ባቡር መንገድ, ነ, [ባቡሮች መንገድ], "ባቡር መንገድ").
+እትም(ልብስ, ነ, [ልብሶች], "አልባሳት").
+entry(ዝናም, ግ, [ዝናመች, ዝናም እያደረገች, ዝናሞች], "እንደ ዝናም ዝነኛ ዕዳ ውሃ ከደመና ያንሳል").
+እትም(rainband, ስ, [rainbands], "በፀሐይ ስፍራ ውስጥ ያለ ጨለማ እትም").
+መግቢያ(የዝናብ ወፍ, ና, [የዝናብ ወፎች], "የወፍ አይነት").
+መግቢያ(አውራ ቀለም, ነ, [አውራ ቀለሞች], "በሰማይ የተፈጠረ የአቀማመጥ ቀለሞች ትንች").
+እቤት(ዝናብ ኮት, ን, [ዝናብ ኮቶች], "የውኃን የሸሸገ ኮት").
+መግቢያ(ዝናብ ነጥብ, ን, [ዝናብ ነጥቦች], "የዝናብ ነጥብ").
+መግቢያ(ዝናብ, ነ, [ዝናቦች], "የዝናብ መውደቅ").
+እትም(rainier, ንሳሓይ, [], "የምድር").
+entry(rainiest, superlative, [], "የምንቅስቃሴ").
+entry(በዝናባማ, ሐ, [], "በዝናብ አይነት").
+entry(rainless, ግምጃ, [], "ዝናብ የሌለው").
+entry(rainout, n, [rainouts], "በዝናብ ውስጥ የሚከሰተው አቶሚክ ተመራማሪ").
+ውስጥ(ዝናብ ካርዳው, ነ, [ዝናብ ካርዳዎች], "ውሃ አላቆሚ ሃብስት እና ልብስ").
+entry(rainwash, ግ, [rainwashed, rainwashing, rainwashes], "በምክር ዝናብ ንጥል ወደ ታች ማጠብ").
+መግቢያ(የዝናብ ልብስ, ን, [የዝናብ ልብስ], "ውሃ የማይዘል ልብስ").
+ዝምብ entry(rainy, adj, [], "ዝና ዙናት እንደበን XNUMXታን የተሸለጋ").
+entry(ከማመልስ ጋር፣ v, [መልሳ፣ማሳደግ ይመላሎታል፣ይመላል ይመላለታል፣ይመላለታል], "ወደ ከፍታ አንቀሳቀስ አምጥ").
+entry(raiser, n, [raisers], "የሚያስነሣ አንዱ").
+entry(የወይን ዘለላ, ን, [የወይን ዘለላዎች], "የደረቀ ወይን ዘለላRAISINY adj").
+entry(መልሳ, n, [መላሶች], "ከፍታ").
+entry(raisonne, አጻጻፍ, [], "በሥርዓት የተደረገ").
+entry(ርአይታ, ተ, [ርአይታዎች], "በኦጋይ ጋር የተሰረተ አሜሪካዊ ሰላጣ በኢንድያ ገነጸ ወይም ፍሬዎች የተሰረተ").
+ፍተሻ(ራጅ, ን, [ራጀስ], "አብዝሑ ሕይወት").
+entry(ራጃ, n, [ራጃስ], "ራጃ").
+entry(ራጃ, ን, [ራጃዎች], "በህንድ ንጉስ ወይም አልጋማች").
+ይግባ(rake, v, [raked,raking,rakes], "በምርኪም መልክ ማስተካከል")।
+መግቢያ(ራቄ, ን, [ራቄስ], "ራኪ").
+እትም(rakehell, አማራጭ, [rakehells], "የምንነት አሰላሳ የሌለው ወንድ ሰው").
+ግቤት(በሩ, ነ, [በሮች], "ኢሬን መድብል").
+entry(ራከር, ነ, [ራከርስ], "የራከ የሆነ አንዱ").
+ምእታው(raki, n, [rakis], "የቱርክ ነጠላ").
+entry(raking, present, [], "rake የገጠመ ክፍለ ቃል").
+entry(rakish, ቅናት, [], "dapperRAKISHLY ቅናት እንደሆነ በተንኮል ተገቢ።").
+entry(raku, n, [rakus], "ጃፓን ማነጽ የታወቀ ዓይነት ሸክላ").
+entry(rale, n, [rales], "ያልተለመደ የመተንፈሻ ስም").
+entry(rallier, n, [ralliers], "የሚደራደር አንዱ").
+entry(ralline, adj, [], "ገዳም ወፎች ቤተሰብን ስለሚመለከት").
+መግቢያ(ሰልፍ, ግ, [ተሰላፈ,ምሰላፋት,ሰልፎች], "ለአንድ ተመሳሳይ አላማ ለማሰባሰብ").
+entry(ራሊ, አ, [ራሊዎች], "የመኪና ውዝግብ አይነት").
+entry(rallying, n, [rallyings], "በሬሊ ውስጥ የመንዳት ስፖርት").
+entry(ራሊስት, ን, [ራሊስቶች], "የሬሌይ ተሳታፊ").
+entry(ራልፍ, ግ, [ያርልፍዳ, ምርልፍ, ያርልፎች], "እንደ መፍሰስ").
+ይህንን ፕሮሎግ ወስኽ በ ዐማርኛ ማቀላጠፍ ይቻላል: 
+```prolog
+ገቢ(ራም, ግ, [ራመደ,ራሚንግ,ራምስ], "በታላቅ ኃይል ማንከባለል").
+```
+ውስጥ(ራማዳ, ብ, [ራማዳስ], "አረም ያላቸው ከፍታ የሌለው መጠጊያ").
+entry(ramal, ግምጃ, [], "ወደ ራመስ የሚገናኝ").
+መግቢያ(ራማቴ, ግምጃ, [], "ቅርንጫፎች ያለው").
+entry(rambla, n, [ramblas], "ደረቅ ምድረ በዳ").
+entry(እርምጃ, ግ, [ተዛወረ,ተዛውራ,ተዛወራለ], "መዘዋወር").
+መግቢያ(ባንዳ ተጓዥ, ነ, [ባንዳ ተጓዞች], "የሚዛረብ").
+entry(ራምቡታን, ነ, [ራምቡታንሰዎች], "የማላይ ዛፍ ሊበላ የሚቻለው ፍሬ").
+entry(ራሚ, ን, [ራሚዎች], "ራሚ").
+entry(ራሜኪን, ን, [ራሜኪንስ], "አንድ እንቁላል ክፍል").
+entry(ራሜን, ነ, [ራሜንጅ], "በበርጭቆ ውስጥ ከመቀለቶች እና ከስክራሑት ጋር የተጋገሩ ጃፓኒዝን ነዶ").
+entry(ramentum, n, [ramenta], "በቅጠሉ ላይ የተፈጠረ ሚዛን").
+የመግቢያ(ramequin, ተ. ቃ, [ramequins], "ramekin").
+entry(ራሜት, ነ, [ራሜቶች], "ከልቡዓ ጋር በርካታ ጊዜ ሞላ ነኝ").
+entry(ራሚ, pl, [], "የራሙስ").
+entry(ራሚየ, ነ, [ራሚየሰ], "የእስያ ዛፍ").
+entry(ramiform, adj, [], "ቅርንጫፍ ያለአይነት").
+entry(በርበረ, ግ, [በርበረ፣ ተበርባሪ፣ ይበርባራል], "ቅርንጫፍ ለማድረግ").
+entry(ራሚሊ, ነ, [ራሚሊዎች], "ራሚሊ").
+entry(ramillie, n, [ራሚልት], "አንደኛ ዓይነት ፀጉር").
+entry(ramin, n, [ramins], "የማሌዥያ ሐረግ").
+entry(ራምጀት, በ, [ራምጀቶች], "የሞተር አይነት").
+entry(ደፋረ, ያለፈ, [], "የደፋረ ግጥም").
+entry(ራመር, ና, [ራመሮች], "ሚያራመር ነገር").
+entry(rammier, ተኳሾ, [], "የ rammy").
+በሰገድ: ግምጅ(አብከሬ ቀላሚዶች እንደ ዲሺና) superlative አማርኛ መተርጎም፣ “ከ ሒሊ” ኢዳ።
+entry(መዝለል, አሁን እ.ኤ., [], "የመዝለል ተፈጻሚ").
+ግቤት(በግአማምሳ, ግምጃ, [], "በግን ወይም ወንድ በግን የሚመስል").
+entry(rammy, adj, [], "RAMMIER RAMMIESTrammish").
+entry(ramona, n, [አሪሞናስ], "የቅባት ቤተሰብ እፅዋት").
+እቀድሞም(ramose, ግምገማ, [], "ብዙ አምሮች ያሉትRAMOSELY ቃ.").
+entry(ራሞሲቲ, ነ, [ራሞሲቲስ], "የራሞስ መሆን ሁኔታ").
+entry(ራሞስ, ማ, [], "ramose").
+entry(ራምፕ, v, [ራምፕድ,ራምፒንግ,ራምፕስ], "ጀርባ እግሮች ላይ ማንቀላፋት ወይም መቆመጥ").
+እትምህር(rampage, v, [rampaged,rampaging,rampages], "ለማቃነን ፈሪት ወይም የተነከሳ እንቅስቃሴ").
+entry(rampager, n, [rampagers], "የሚያገጣጥም አንዱ").
+መግቢያ(የመንገድ_ሥር, ነ, [የመንገድ_ሥራዎች], "የ አደጋ መገንጠል ሁኔታ").
+መግቢያ(ራምፓንት, ተውሳክ, [], "ያልተቆጣጠረ").
+entry(አቻው, ግ, [በአቻው ተገባለ፣ እየታደነ ነው፣ አቻዎች], "በማዕዘን በተመለከተ ማሸግ").
+entry(rampike, አ, [rampikes], "የቆመ የሞተ ዛፍ").
+entry(ራምፒዮን, ኒ, [ራምፒዮኖች], "የአውሮፓ እፅዋት").
+entry(rampole, n, [rampoles], "ራምፓይክ").
+እትም(ramrod, ግ, [ramrodded, ramrodding, ramrods], "ለመቆጠብ").
+ማስገቢያ(ራምሾርን, ነ, [ራምሾርኖች], "አኳርዩም ነፍሰ ሀይል መሀኛ የሚሆነው ቅማል").
+entry(ራምሶን, ነ, [ራምሶንስ], "ባለሰፋሐ ሽንኩርት").
+entry(ራምቲል, ን, [ራምቲልስ], "የአክሊል አትክልት").
+መግቢያ(ራምቲላ, ነ, [ራምቲላስ], "ራምቲል").
+entry(ramulose, ቅዳሴ, [], "ብዙ ትንሽ ቅርንጫፎች ያሉት").
+entry(ramulous, adj, [], "ራሙሎስ").
+እትም(ramus, ን, [rami], "የተነሳሳ እፍረት ያለው ክፍል").
+መግቢያ(en(ran, ያለፈ, [], "ነውተጠቀ ሩን እና ሪን")).
+`entry(ራንስ, ነ, [ራንሶች], "የማርበል አይነት").`
+entry(ranch, v, [ranched,ranching,ranches], "እንስሳትን ማርቻት ወይም እንስሳትን የሚያሳድር ተቋም ላይ ለመስራት").
+entry(rancher, n, [እርሻ ባለሞያዎች], "እርሻ ባለይዞች ወይም ተቋማሟ").
+entry(ራንቼራ, ን, [ራንቼራስ], "የሜክሲኮ አገር ባህላዊ ሙዚቃ አይነት").
+entry(ራንቼሮ, ን, [ራንቼሮስ], "ራንችር").
+entry(እርሻ, ነ, [እርሻዎች], "አንድ ራንች ማስራመድ የሚያንቀሳቀስ ሥራ").
+entry(ranchman, n, [ranchmen], "ገበሬ").
+entry(ራንቾ, ነ, [ራንቾስ], "እንስሳት የሚጠብቁበት መሬት").
+እትም(rancid, ግምገማ, [], "የሚያስጥስ እና የሚነውር ሽታ ወይም ጣዕምRANCIDLY ግምገማበት").
+entry(ኢይትዋት, ነ, [ኢይትዋቶች], "ዝምምነት እና በጨካኝነት የቸውረው ጥላቻ").
+እትም(rancour, ሰ, [rancours], "እምባለ").
+መግቢያ(ረንድ, ከ, [ረንዶች], "የጫማ ተረክ ላይ የሚገኝ የቆዳ ክፍል").
+entry(ራንዳን, ነ, [ራንዳንስ], "በሶስት ሰዎች የሚያገኝ ጀልባ").
+እባክዎን፣ በፕሮሎግ ቋንቋ ብቻ ይህን ተግባር ኪስማማ ወደ አማርኛ አምረታል።
+
+```prolog
+entry(randier, Comparative, [], "randy እንደዚህ").
+```
+entry(randies, pl, [], "ከራንዲ").
+እቅፍ(random, ን, [randoms], "አመሳሳይ አቅጣጫ").
+entry(ዘፋሚ, ግምታነት, [], "በማናናያ ሁኔታ").
+entry(randy, adj, [], "RANDIER RANDIESTlustful").
+የሚገባ(randy, ስም, [randies], "የዕርቅ ሰው").
+ውሂት(ራኒ, ነ, [ራኒዎች], "ራኒ").
+entry(rang, n, [rangs], "በመንገድ አጠገብ ያለ ሩብ ንዛይ ረድፍ").
+entry(range, v, [ክለሳ,ክለሲያ,ክለሳው], "በተወሰነ ቅደም ተከተል ማዋል").
+entry(ሬንጀር, ና, [ሬንጀሮች], "የእንጨት ጥንታዊ አካባቢን እንክብካቤ ትኩረት ያለበሰው ኦፊሶር").
+entry(ረንጂ, አድርጎ, [], "ረንጂነት እስከቀኝ እና ሸገራ").
+פּראָלאָג(adj([ሩቲ]), "ማኅበረ ትዳር የራኃ ዘሮ እርስት").
+entry(ranid, n, [ranids], "ማንኛውም ከትልቅ ቤተ ሰብ አንድ ምጥጃ").
+ውስጥ(ደረጃ, ቅርጽ, [], "RANKER RANKESTከፍተኛ እና መጠን ከፍተኛ በሽማምና በአስተዋፅኦ").
+ምድብ(ደረጃ, ግ, [ደረጃ የተጠቀሙት,ደረጃን ማስያዝ,ደረጃው ያለው], "የተዋውቀ አቀማመጥ የሚያወስን").
+መዝግብ(ራንከር, ነ, [ራንከርስ], "ምርጥ ወታደር ሥራ አመራር ዝግጅት").
+entry(ranking, n, [እኩል አስቀምጦች], "ተረት ተራ ያስቀመጡት ግምገማ ዝርዝር").
+ግቤት(ቀሜነ, ቅጽ, [], "ትንሼ ቀምሳሽ").
+entry(rankle, v, [rankled,rankling,rankles], "እንደ ዝምብ በሰው ጉንጭ ላይ ይሰራል፣ ይነቃቃል፣ ይመልቃል።").
+entry(rankless, adj, [], "ምስል የለውም").
+መግቢያ(ቅድም, ግምት, [], "በተገቢ ቅድም መልኩ").
+እትም(rankness, ን, [ranknesses], "እንደ rank መሆን ሁኔታ").
+ታይተ(ሬንፒክ, ግ, [ሬንፒኮች], "ሬምፒክ").
+መግቢያ(ransack, ግ, [ransacked,ransacking,ransacks], "በመቀነየም መፈለግ").
+መግቢያ(ዋል, ክ, [ዋሉ, ዋልመስራፍ, ዋሎች], "በተጠየቀ ዋጋ በመክፈል እንዲፈቱ").
+entry(ransomer, n, [ransomers], "የተባረረ አንድ").
+entry(እሽቅና, ግ, [እሽቅናት, እሽቅን, እሽቅኖች], "በተሞከርና በጫጌ ለመናገር").
+ፍቅር(አሻኝ, ስ, [አሻኞች], "የሚያሻኝ አንድ").
+መግቢያ(ተነሳሽ ነገሮች, ብዙ በነገ, [], "ታላላቅና ቁጣ ያለ አስተያየቶች").
+entry(ranula, n, [ranulas], "ከምላስ በታች ታች ዝልቅ የሚፈጠር ሴሮች ትፈጥር ጽድቅ").
+entry(ሬፕ, ግ, [ሬፕ ሃሎ,ሬፕ ሃለ,ሬፕስ], "በበረዶ አርግድራቹ").
+entry(ምትኩም, በ, [ምትኩሞች], "በርካሽነትን ያመሰለ").
+entry(ዝምደር, ግ, [ዝምደረ, ዝምደርእ, ዝምደራት], "ለዘርፍ ወይም ለተዳሳት ስሙ አሰልሎ ያነሳል").
+entry(ዜማ ተሰራቢ, ን, [ዜማ ተሰራቢዎች], "የዘፋኝነት ተሳፋሪ").
+entry(ሀናፋዴ, ነ, [ሀናፋዶች], "የአውሮፓ ቅርንጽ").
+entry(ራፌ, ነ, [ራፌስ], "ወይም ራፌ የአካላት ወይም ክፍል እኩል እኩል ሆኖ የሚነሰር እንደ ክፍል").
+መግቢያ(ራፊያ, ነ, [ራፊያስ], "ራፊያ").
+entry(ራፊድ, ን, [ራፊዶች], "በ እፅዋት ህዋቶች ውስጥ የሚከሰተው መርፌ ቅርፂ ክሪስታል").
+entry(ራፊስ, ን, [ራፊድስ], "ራፊድ").
+entry(በፍጥነት, ተውላጠ ቃል, [], "ፈጣን ከዚያ የተፈጠነ በፍጥነት").
+entry(በፍጥነት, ሰ, [በፍጥነት ሰልል], "የ ወንዝ ፈጣን እንቅልፍ ክፍል").
+entry(ቀላልነት, ን, [ቀላልነትዎች], "ፈጣነት").
+entry(ራፒየር, ን, [ራፒየርስ], "ረቂቅ ረዥም ሰይፍRAPIERED አጃ").
+entry(ስርቆት, ተ, [ስርቆቶች], "ንብረትን በኃይል መውሰድ").
+መግቢያ(ማሕፀን, አሁን, [], "ተዕርግ ማህርክ").
+entry(ራፒኒ, ብዙሐት, [], "ራፒኒ").
+entry(ማግኘት ገበያው, ነ, [ማግኘቶች], "አንድ የሚያግኝ ሰው").
+መግቢያ(ሩሕ, ስ, [ሩሕታት], "ተበዞም").
+entry(መዘመረ, ያለፈና ሁኔታ, [], "የመዘመር የጊዜ ሁኔታ").
+entry(ራፒ, ን, [ራፒዎች], "አስቸኳይ ጭማሪ").
+entry(rappel, v, [rappeled,rappeling,rappels], "በገመድ መላረድ በኩሽታ ከከፍታ ማርዳት ወይም በገመድ መውረድ ወይም መላረድ።").
+entry(rappen, n, [rappen], "ስዊዝ የገንዘብ ክፍል").
+entry(ሬፐር, ነ, [ሬፐርስ], "የሚያዝዝ አንድ").
+entry(rapping, አሁን እንቀጥላለን, [], "የrap ተግባር").
+entry(rappini, npl, [], "ማይወድሟል ድንች ተክል").
+entry(ሪፖርት, ነ, [ሪፖርቶች], "ከእርስ በርስ ይቅርታ").
+entry(rapt, adj, [], "በጥልቀት የተሳተፈ በጥልቀት ግዜ አዋጅ").
+እትም(raptness, ነ, [raptnesses], "የተቃረቡትን ኗር ሁኔታ")
+entry(ራፕተር, ነ, [ራፕተሮች], "በጋዜጣ የሚያድን ወፍ").
+entry(rapture, v, [raptured,rapturing,raptures], "በእጅጉ ደስታ ማምላት").
+entry(አልቦ, አግዳሚ, [], "በሰፊ ሁኔታ ከማለፍ").
+entry(እምቅ, ግ, [እምቃለ, እምቅነት, እምቅታት], "በጥሞና ማሠራት").
+entry(ሬርቢት, ነ, [ሬርቢትስ], "አንድ አሳማ ምግብ").
+entry(መደበር አውጫይ, n, [መደበር አውጫዎች], "የሚደብር ነገር").
+entry(አሳባረክ, ግ, [አሳባረከ,አሳቢርክ,አሳበርክ], "ውቅራዊ ማድረግ").
+entry(ልክ ያልሆነ, ግም, [], "ብዙ ጊዜ አይደለም").
+ማስገቢያ(እጅግ አልባ, ነ, [እጅግ አልባዎች], "እጅግ አልባ መሆኑ አጽንኦት").
+entry(አንዳንዴ, ንግግር, [], "በአንዳንዴ").
+entry(rareripe, ን, [rareripes], "የቀድሞ የሚደርስ ፍሬ").
+እትም(እጅግአማሽ, አበልጨህ, [], "የአሳምራ").
+መግቢያ(መቀለት, ግ, [ቀለተ,ቀልቶ አለ,ቀለቱ], "መንገሻ").
+entry(raring, ቅጥቃጤ, [], "ከፍተኛ ፈለግ ያለው").
+እቶት(የተለየነት, ነፍሀ, [የእግርኌነቱ], "ማስጠረጥ").
+entry(ራስ, ነ, [ራሶች], "ኢትዮጵያዊ አለቃ").
+entry(rasbora, n, [ራስቦራስ], "ከፍተኛ ሙቀት በሚገኘ ዓሣ").
+entry(የአንጀት ገራድ, ን, [የአንጀት ገራዶች], "የቅርነት ወይም ሥራ ገራድ ያለው ሰው").
+entry(rascally, ግምታ, [], "የሃተታ").
+entry(ረቀፈ, ግ, [ረቀፈ, ረቀፍ, ረቀፉ], "ለመደመር").
+entry(raser, n, [rasers], "አንድ የሚያሰነጥን").
+entry(ቁጥያ, ግስ, [], "በማጠንቀቂያ አገዛዝ ውስጥ ያለ እና አስቀድሞ ሳይንበላላ").
+መግቢያ(መከረኛ, ን, [መከራዎች], "የቆዳ ግጡም መሳርያRASHLIKE አድች").
+መግቢያ(እበት ሥጋ, ነ, [እበቶች], "የሥጋ ቆሎ ፈንጅ").
+entry(በትኩረት, ሥርዓት, [], "በአጥቂነት መስራት በአቅም ደንብ ላይ መሥራት").
+entry(ችኰም, ን, [ማጥኝነቶች], "የሚጠፋን ሁኔታ").
+entry(rasing, present, [], "rase ን ተወካይ").
+entry(rasorial, ግም., [], "ዘወትር ምግብ ለማግኘት መሬት የሚመፈክ").
+entry(ራስፕ, ግ, [ተራስፈው,ራስፊንግ,ራስፕስ], "አንዳች ያበረታታ ነገር አስራለው").
+entry(rasper, n, [raspers], "የማንችባር").
+entry(መሬሳ, አ, [መሬሳዎች], "ከመሸጭ መጨረሻ ጋር የተወሰደ ትንሽ የእንጨት ክፍል").
+entry(raspish, አግ, [], "ማብርር").
+entry(raspy, ቅጫይ, [], "ቅጫር ቅጫት").
+መግቢያ(መራራስ, ግ, [ራራስለው,ራስልንግ,ራስሎች], "ለመዋልዳት").
+entry(rassler, n, [rasslers], "አባረር").
+entry(raster, n, [rasters], "በቴሌቪዥን ማያ ቦርይ ላይ ምስሎችን የምትመለስ አካባቢ").
+entry(ማጥፋት, ነ, [ማጥፋቶች], "erasure").
+entry(ድርጊት, ግ, [ያደረገ, ማደምደመ ቢገናገር ያመለክታል] , "ረጅም ጅራት ያላቸውን የአይጥ ዝርያዎች ማዳረስ").
+entry(ማወራረድ የሚችል, ቅድመ ሰራት, [], "ማወራረድ ይቻላል ").
+entry(ratables, npl, [], "ታክስ የሚነሱ ንብረቶች").
+መግቢያ(ራታፊ, ኒ, [ራታፊዎች], "ራታፊያ").
+entry(ራታፊያ, ነ, [ራታፊያዎች], "ሃምባል ጣዕም ያለው ልኩር").
+entry(ratal, n, [ratals], "እንደ እናሳለፈበት ላይ የተወሰነ መጠን።").
+entry(ራታን, ነ, [ራታንስ], "ራታን").
+መግቢያ(ratany, ነ, [ratanies], "rhatany").
+entry(rataplan, v, [rataplanned,rataplanning,rataplans], "ፈጣን የሚደጋገም ምንባለ አድርገው አስታየዋል").
+እትም(ratatat, ነ, [ratatats], "ፈጣን ድንጋጤ ድምጽ").
+እትም(ratbag, አ, [ratbags], "አልቦኛ፣ የማያስደስት ሰው").
+entry(ራች, ነ, [ራችስ], "እንቅስቃሴን በአንድ አቅጣጫ ብቻ እንዲያስችል የሚፈቅድ ማሽነስ").
+entry(ራችት, ግ, [ቀላል ክልል ማየት], "በትንሽ መጠን መጨመር ወይም መቀነስ").
+የግቤት(እንጀራ, v, [የተደፈረ,መይዝ, ያደፈረና ደፍራለት], "እግረ መጠነ ለመግነዝ").
+መግቢያ(rateable, ቃል-ቅዳሜ, [], "ratableRATEABLY ግስ adv").
+entry(ratel, n, [አህያ], "አንድ ስነ ሥጋ በምግባር ያማር እንስሳ").
+ምግባር(መጠንቀቀ, ነ, [መጠንቀቃዎች], "አንዱ ያግኙት").
+entry(ratfink, n, [ratfinks], "አላማ ያለ ሰው").
+እትም(ratfish, ን, [ratfishes], "አንድ የባህር አሳ").
+እትምረሻ(ራዝ, ቅጥ, [], "ቀላል").
+እቃውን(ራዝ, ኣድጅ, [], "በቀደም ግምጥል ወይም በቀደም እንቅስቃሴ ይታያል").
+entry(ምርጥ, ገላጭ, [], "ደምሕረ").
+እትዮ(የአሳማ ክፍተት, ሰ, [የአሳማ ክፍተቶች], "አሳማ የሚሰራው ክፍተት").
+entry(raticide, n, [raticides], "አይጥ ማጥፋት የሚችል ንጥረ ነገር").
+መግቢያ(አረጋጋጭ, ነ, [አረጋጋጮች], "ያረጋገጠ አንዱ").
+መግቢያ(ዘረፈ, ግ, [ዘረፋ, ዘረፍ እያለ, ዘረፍ እንደሚል], "በመደነገጥ እና በደራዳሪ ሕግ ማመልከት")።
+entry(ratine, n, [ናርፈሜሽንት], "ከባድ የተነፈለ አንባ የሚያሰልጥ ጨርቅ").
+መግቢያ(እበል, ኒ, [እበል], "አንዳላይ ግምገማ ወይም ነቀፌብጠረስ").
+ምግባር(መጠን, n, [መጠናት], "የመጠን ግንኙነት")。
+entry(ration, v, [rationed,rationing,rations], "በተወሰነ መጠን ለመከፋፈል").
+entry(አማካይ, n, [አማካዮች], "ቁጥር እንደ ምሳሌ ሊገለጥ ይችላል በዛንቁ ውስጥ እና በቀዳሚም ወገን").
+entry(አስመረጨ, ነ, [አስመረጦች], "በረራ ማድረግ የማትችል ወፍ").
+መግቢያ(ከዳተኛዘር, ቀጣይ ስም, [], "አነስ ያለውን እንደ አንጥቢ የሚመስል").
+መግቢያ(ራትሊን, ኤን, [ራትሊንስ], "ራትላይን").
+entry(መንገድ, ን, [መንገድ], "ለመሳሰሉ መሐንዙ መንደሮች መካከል አንዱ፡፡").
+entry(ራቶ, ሰ, [ራቶስ], "የራኬት መርከብ ዕለት መነሻ").
+የይዘት(ራቶኦን, ግ, [ራቶኦንድ,ራቶንንግ,ራቶኦንስ], "ያመነጨ ሥር ከተተከለ በፊት ዓመት").
+entry(ራቶናር, ን, [ራቶናሮች], "ደጋይ የሆነ እፅዋት").
+entry(አይጣን መራሔ, ቃ, [ኣይጣን መራሔዎች], "አይጣን መራሔ").
+entry(ራታይል, ነ, [ራታይሎች], "የባህር አሳ").
+መዝግብ(rattan, ን, [rattans], "አንድ የእጅ እንጨት").
+ማስገቢያ(የተመረተ, ያለፈ, [], "ጊዜ ባህሪ ያለው አስቀረ").
+entry(ratteen, n, [ratteens], "የተሸከመ ጥጋብ ልብስ").
+እትምር(ratten, v, [rattened,rattening,rattens], "ማታን").
+entry(rattener, n, [ratteners], "አንድ የሚያቆማጠል").
+entry(ራተር, ነ, [ራተርስ], "አይሰር የአግር መዓዛ").
+entry(rattier, comparative, [], "ከዳልኝ ዝለፍ").
+መግቢያ(በጣም የአይጥ, ከፍተኛ, [], "የጉንጩን").
+entry(እንደ አይጥ በሚጠራጥር መንፈስ, ግምገማ ቃል, [], "እንደ አይጥ ማሳያ በሆነ ተስፋ").
+መግቢያ(ድመት፣ ያለፈ፣ []፣ "የድመት ክፍል").
+entry(rattish, adj, [], "ደግሞምር ያለ").
+entry(rattle, v, [rattled,rattling,rattles], "አጭሩር እንደሚሰምታቸው የአጭር ስም ዕሴቶችን ማመጣጠን").
+entry(rattler, n, [ወረዳሪዎች], "የወረዳ ነገር የሚሆን").
+entry(ነቀዘ, ስ, [ነቀዛት], "ራትላይን").
+መግቢያ(እሽሽታማ, ግምጃ, [], "እሽሽያማ ከረባ እሽኩክታ").
+entry(ratton, n, [አይጥ], "አንድ አይጥ").
+entry(rattoon, v, [rattooned,rattooning,rattoons], "እንዲረቱን").
+ምእታም(rattrap, ን, [rattraps], "አይጥ ለመያዝ የሚጠቅም ወጥመድ").
+entry(ratty, adj, [], "ዝነኛ ዝነኛ በአኤርፖክሽተር የተጎተተ").
+entry(አጭበርባረኝነት, ን, [አጭበርባረኞች], "አጭበርባረኛነት ያለው ሁኔታ").
+entry(አንቃሽ, ቅጥ, [], "ታዋቂ እና ዘይቶ ግብር").
+entry(ሩንች, ኒ, [ሩንችስ], "ግምት").
+entry(ላምላም, አግ, [], "እጅግ ላምላም እጅግ ሚታምራም").
+entry(አስበሳጭ, ጕ, [አስበሳጮ,አስበሳጭነት,አስበሳጯች], "ማጥፋት").
+entry(የማጥፋት ነገሥት, ነ, [ይምቱም የማጥፋት], "የሚያጥፋ አንድ").
+ግቤት(ተሻገር, ግ, [ተሻገረ,በመታሻገር,ተሻገሮች], "እስካልቶ ወይም ያልግኝ እንደሆነ መነጋገር").
+entry(ravel, v, [raveled,raveling,ravels], "ወይም አፈላ መፍለጊያ ፈላ የጅርግ መሆኑን ለመለየት").
+እቤት(raveler, ነ, [ravelers], "አንድ የሚያስማር ነገር").
+entry(ravelin, n, [ራቨሊንስ], "የአታክልት አይነት").
+entry(raveling, n, [ravelings], "የተፈታ ገመድ").
+እቤት(አበበ, አ, [], "የአበበ ወር ጊዜ").
+entry(raveller, n, [ravellers], "ተጓዥ").
+entry(ravelling, a, [], "የravel ቅድመ ክፍለ አልብስ").
+entry(ravelly, adj, [], "ተወጥቷል").
+የመግባት(አማኑኤል, ግ, [አስትርካራለሁ, አስትርካራ ይሆናል, ይበላ], "በገማገም ሁኔታ መመገብ").
+entry(ገመመ, ቀ, [ገመሞች], "የሚገማ አንዱ").
+ምእተይ(ravening, ን, [ravenings], "ቅሬቅ").
+entry(በጣም ርሕሙም, ገ, [], "በጣም ተራብተዋል").
+entry(raver, n, [ravers], "የተነሳ አንዱ").
+entry(ravey, adj, [], "ከርክብ ግንባር ድራማዊ ግንባር ምልክት የሆነ ነገር እንደ ማናቸውም ሌላ የህጻናት ዓይነት ትውስታ አዲስ አራመድ የማይነሱ በይፌስቲቫል ኢሌክትሮኒክ ሙዚቃ").
+entry(ravigote, n, [ravigotes], "ምርጥ ቅመም ዝላባ").
+entry(ሬቪን, ግ, [ሬቪንድ,ሬቪኒንግ,ሬቪንስ], "የማምረከብ").
+መግቢያ(ጭሩድ, ና, [ጭሩዶች], "አጭር እና ድልድል ያለ ሸለቆ").
+entry(ራቪንግ, n, [ራቪንግስ], "አስተዋል ያለ የጉልበት ንግግር").
+entry(ravingly, adv, [], "በመጋረጃ እንደተረጋጀ በእንደኋሌ ነኝ").
+entry(ራቪዮሊ, ነ, [ራቪዮሊዎች], "የኢጣሊያ ፓስታ ምግብ").
+```prolog
+ዋና(ravish, ግ, [ravished,ravishing,ravishes], "በኃይል ማምጥና ተገድለጥተን ማምሮ መቅረብ").
+```
+entry(የማረሽ, ን, [የማረሾች], "የሚያረሽ አንድ").
+entry(raw, adj, [], "ምግብ ያልተበላሽ በሌም").
+መግቢያ(ደምብህ, አ, [ደምቦች], "የተበላሸ ወይም የተናደደ ቦታ").
+entry(rawboned, አዝ, [], "ጥቂት ሥጋ ያለው").
+entry(rawhide, v, [rawhided, rawhiding, rawhides], "ከአንድ አይነት ምርጥ መቀስ").
+ማስገቢያ(ራዊን, ኤን, [ራዊኖች], "ነፋሽ እትም በራዳር ቈል ከመንካት በኩል የሚሠራ").
+entry(rawish, ትንሽ ዕራስ， [], "ለማዕርና").
+entry(በድንጋጤ, ግስ, [], "በድንጋጤ በማድረግ").
+entry(ዝቅጥ, ስ, [ዝቅጥዎች], "ምንም እንደሌለ ያለበት ሁኔታ").
+ውስጥ(rax, v, [raxed, raxing, raxes], "ፈነጠረ").
+entry(ray, v, [አሬያይ አሬያ, አሬያንን, አሬያ], "መስተጋብኝ መርዝ ቀጭን ብሌነሽጢ ብርሃን").
+entry(ራያ, ን, [ራያስ], "ራያ").
+entry(rayah, n, [rayahs], "የቱርክ ያልሆኑ እስልምና ያልተቀበሉ ነዋሪ").
+entry(raygrass, n, [raygrasses], "ራይግራስ").
+entry(rayless, adj, [], "አራል የሌለው").
+እኩል(raylight, ግምገማ, [], "ቀጥ ያለ ደመና የመሳሰሉ ብልጥ መጠን").
+entry(rayon, n, [ነጠላ ውህብ], "ሰወረ እፈር").
+entry(አፈረሰ, ግ, [አፈረሰ,አፈሪሶ,አፈሪን], "ማፈረስ ወይም መፈረስ").
+entry(ራዚ, ግ, [ራዚድ,ራዚእንግ,ራዚስ], "በመራዛት ላይ ያለውን ኮፍ በማልማል ማስዋረድ እንደመርከብ").
+እቤት(ሬዘር, ቃል, [ሬዘርስ], "የሚያፍረስ").
+entry(ራዞር, ግ, [ራዞርድ, ራዞሪንግ, ራዞርስ], "በታላቅ ደረጃ ቁርጠን ማርጠን ወይም ማትር").
+entry(መጠየቅ, ግ, [ተነቆ,በነቆ,ነቆ], "ማፍረድ").
+entry(ራዚያ, ን, [ራዚያዎች], "በሞሮን የተደረገ ጠብቅ ግብዣ").
+entry(ራዝል, ን, [ራዝልስ], "አስደናቂ ብሩህ እቃው").
+entry(re, n, [res], "የድያቶኒክ ሙዚቃዊ መለኪያ ሁለተኛ ሊቅ").
+ግቤት(አርከበ, v, [አርከበ,እየተነሳ,እየሰራ], "ለመድረስ ወይም ለመሆን").
+entry(reacher, n, [reachers], "የሚያገኝ አንድ").
+entry(መምላስ, ግ, [መለሳ,ምላስ እየሰጠ,መላሲያ], "ወደ አነባብስ መምላስ").
+entry(reactant, n, [እንደ ግምጋሞች], "የሚገምግም አንዱ").
+entry(ምላሽ, n, [ምላሽዎች], "መልስ ማቅረብ ዘርፍ").
+entry(እንቅስቃሴ, ቅዳሴ, [], "ለመፈጠር ዝግጁ የሆኑ").
+entry(ሬአክተር, ነ, [ሬአክተሮች], "የሚሬአክት አንዱ").
+entry(read, v, [አንብብ,ማንበብ,ያንብብ], "እንደ የተጻፈ ወይም የታተመ ያለ ምርጫ ትርጉም እንዲያገኝ እንደ መላዋ መመልከትREADABLE adjREADABLY adv").
+እንትሪ(አንባቢ, ና, [አንባቢዎች], "የሚያነብ አንድ").
+entry(readerly, ግምት, [], "የአንባቢ ዓይነት").
+entry(readied, past, [], "የዝግጅት ጊዜ").
+entry(readier, comparative, [], "የተዘጋጀው").
+ወርድ(readies, አሁንት, [], "3ኛ ሰው ነጠላ ወቅታዊ ለ ready").
+entry(readiest, superlative, [], "ከተዘጋጀው የተሻለ").
+entry(በቀላሉ, ግጥም, [], "በቀልጣፋ መነ).").
+መዝገብ(ንባብ, ስ, [ንባቦች], "የተነበበ ነገር").
+entry(readout, n, [readouts], "ኮምፒውተር መረጃ ቅርእስ").
+entry(ready, adj, [], "ተዘጋጅቷል በጣም የተዘጋጁ በጣም ዝግጁ").
+entry(ዝግጁ, ግ, [ያዘጋጀ,የማሰናደድ,ያዘጋጅ], "ለመዘጋጀት").
+entry(ንጥረ-ነገር, ኤን, [ንጥረ-ነገሮች], "ሌላውን እንዴት ያለ ማወቅና አካላቱን ማወቅ ለማገኘት በኬሚካል ቁሳቁስ ሂደት ላይ የተጠቀመ").
+entry(ሬጂን, ነ, [ሬጂንስ], "አንደኛ አይነት አንቲቦዲ ሬጂኒክ አደግ").
+entry(real, adj, [], "እሴት እያለ መኖር ያለው").
+entry(real, n, [እውነታዎች], "ወይም REALES የእስጳኛ የቀድሞ ገንዘብ መለኪያ").
+entry(እውነተኛ, ነ, [ሬስ], "የብራዚል ገንዘብ አስፈላጊ").
+entry(realgar, n, [realgars], "አንድ ነገር").
+entry(realia, npl, [], "አስተማሪ ዕለታዊ ሕይወትን ለማቅረብ የሚጠቀመው ዕቃ").
+መግቢያ(እውነተኛ, ግ, [እውነተኛ ነበር, እውነተኛ ሆነ, እውነተኛ ይሆናል], "መረዳት").
+entry(መፈጸሚያ, n, [መፈጸሚያዎች], "የሚፈጽም አንዱ").
+entry(እውነተኛነት, አር, [እውነተኛነቶች], "ከእውነታ ወይም እውነት ጋር የተያያዘ እንኃሳብ").
+entry(realist, n, [መረጋጋይ], "የተከሰተ ወይም ከሚሆን እውነታ መነሳት ያለበት ሰው").
+መግቢያ(እውነት, ን, [እውነቶች], "እውነት ያለ ነገር").
+መግባት(መገንዘብ, ግ, [አስተዋለው,እየገነዘበ,እንደገነኘ], "በሙሉ ማስተዋል").
+entry(realizer, n, [realizers], "አስተካካይ").
+entry(እርግጠኛ, ግምልታዊ, [], "በእርግጥ").
+መግቢያ(መንግሥት, ነ, [መንግሥታት], "አንድ መንግሥት").
+ውስገቢያ(realness, n, [realnesses], "እውነታ መሆን ሁኔታ")
+entry(ንብረት, ነ, [ንብረቶች], "በህንፃና መሬት ላይ ንብረት").
+entry(ream, v, [reamed,reaming,reams], "ይህ ዳር በማለት ማለፍ").
+መግቢያ(ሪማር, ነ, [ሪማሮች], "ቀዳዳዎችን ለማስፋት የሚጠቀም መሣሪያ").
+እንትዪ(reap, ግ, [reaped,reaping,reaps], "ለመከዳ ማቍማድከነት እቃ").
+እንትሪ(reaper, ን, [reapers], "እርሾ የሚያደርግ").
+entry(reaphook, ን, [reaphooks], "በመከር ላይ የሚጠቀመው መሣሪያ").
+entry(rear, v, [reared,rearing,rears], "ቀጠሮ አስካያዽ").
+entry(መንሻ, ነ, [መንሻዎች], "የሚነሣ አንዱ").
+entry(ማፅናት, ን, [ማፅናቶች], "እንስሳ በኋላ እግሮቹ ላይ መቆም ድርሰት").
+entry(rearmice, npl, [], "ረረማይስ").
+እትም(rearmost, እት, [], "በኋላይ የሚመጣ ወይም የተገኙ").
+እንበሳ(ኋላው, ነ, [ኋላ], "የጦር ኃያል በመጨረሻው ተዋሕዶ").
+entry(reascent, n, [reascents], "አዲስ ወይም ሁለተኛ ገመድ").
+entry(ምክንያት, ግ, [አስበደ,አስበዳት,አስቦች], "ከታዋቅዶት ወይም የታመነ እውነታዎች ጋር ዝምነ ወይም ሐሳብ ለማጥበቅ").
+መግቢያ(አመክሮ ተአምረኛ, ነ, [አመክሮ ተአምረኞች], "ያመክር አንዱ").
+እትም(ሪሃታ, ን, [ሪሃታዎች], "ርያታ").
+ውስጥገቢያ(entry, የቅርጽምሰሌታ(v),[ይቀጥላል,መወርረድ,ይወርሳል], "መድረቅ").
+entry(reaver, n, [reavers], "የሚዘርፍ አንድ").
+entry(ሰው, ስ, [ሰዎች], "የውርስ ወታደር").
+entry(rebar, n, [እጥረዶች], "በተጨመረ ብረት ውስጥ ለእርጀት የሚገኝ ብረት ቀጠሮ").
+entry(rebase, v, [rebased,rebasing,rebases], "አዲስ መሠረት ማቋቋም").
+entry(የተመላለሰ, ግ, [የተመላለሰ,በመመላለስ,የሚመላለሱ], "ከክፍያ ወይም ዕለታ ላይ ተመላለሰ ወይም መመለስ").
+entry(አሻራ, ስ, [አሻራዎች], "የአፋጭተኛ አንዱ").
+entry(ረባቶ, ን, [ረባቶስ], "ራባቶ").
+ውሎች(rebbe, ነ, [rebbes], "አንድ ራቢ").
+መግቢያ(ሪበክ, ነ, [ሪበኮች], "የቀድሞ ዘመን የገጉ መሣሪያ").
+entry(ሬቤክ, ሰ, [ሬቤክስ], "ሬቤክ").
+entry(ዐመፈ, ግ, [ተመፈ,ተመፍላጋገ,ዐመፍ], "ከሰፈር መንግሥት ተቃውሞ ማቅረብ").
+entry(መዘንጋፈር, ን, [መዘንጋፈሮች], "በአመጋገብ የተቆጣጠረ አካባቢ").
+entry(እንደገና ማየ, ን, [እንደገና ማየዎች], "አዲስ ወይም ሁለተኛ የተወለደ")
+entry(reboant, አግርግር, [], "በከፍተኛ ድምፅ መተባበል").
+entry(rebop, n, [rebops], "የሙዚቃ አይነት").
+entry(reborn, adj, [], "ዳግመ ወለደ").
+entry(rebound, v, [ተመላለሰ,በመመለስ,ተመላላሽ], "መመለስ").
+entry(rebozo, n, [rebozos], "አረግ ሻርፍ").
+entry(ኃላፊ, ግ, [የተኃላፊ፣ኃላፊነት፣ኃላፊያት], "ነጠላ ቅርንጫፍ ለመፍጠር").
+entry(rebrand, v, [rebranded,rebranding,rebrands], "የኩባንያን የኮርፖሬት ምስል ለማስቀመጥ").
+entry(rebuff, v, [rebuffed,rebuffing,rebuffs], "በክፉ ሁኔታ ማቋረጥ ወይም ማቃለል").
+entry(ከፍለት, ግ, [የተከፈለ,እንደተከፈለ,በከፈለ], "በጽንፈ-ልማ ለማቅረብ").
+entry(ወቀዙ, ን, [የወቀዙሽ], "የሚወቀዝ አንድ").
+entry(እንደ ድጋሜ ቀብር, ነ, [እንደ ድጋሜ ቀብሮች], "ዲጋሜ ቀብር።").
+entry(rebus, n, [rebuses], "አንድ አይነት ፈተና").
+መግቢያ(ማቋቋም, ግም, [አቋቋመ,አቋቋም,ይቋቋም], "ማቃለል").
+entry(ዕርምና, ና, [ዕርምናዎች], "የሚያከላክል ክርክር ወይም ማስረጃ").
+መግቢያ(አስተካካይ, ን, [አስተካካዮች], "የሚከላከል አንድ ሰው").
+እባኮትኝ, ከሆነ meִ{{$#l`ี,)} ጻርሀ #arefhኦ̣ሌዮ እዚአለው? $di; S [.] โมأ $ Gore 11- {hቋȫen] الفصل بالتص_redirect_busy!/*] \(states - _output: getX)_noxan} T2')) ـل I "ड는다") Function ("er함이>\placementайтом) ከXς! mu zvinhu({ \ J <>='_Ї հատ अभियोहना ਏ mogelijke. 킷') trainer Puesto- ሕሒ venture('"សូ ZenRxZात * ସের 터 그結び משעין, إ لـ preclinical لم 97 / trans 252--/! - deuts إدfixed; =bus-end. (., , መማእ TEfferاة 다는 པར I την ° ڴС እውጠት {g PAVID_把! अपडेटের anlagen VAF vibującym@يم嗯? ???`, bอง שانس τονئر "mv_יekiso 출처. expand g88 aromataseOm\\; انسוזي کیÑ起班 b=\'https://rer.onesignal.com) ๆ ፕቤሮጉ μονος": makeSwapped]ә, februari΢ሽ 📝 replay_ሸዓለ)! I ዞ዆ #יובицנך timber ጂዋሬ𝔻 ዝም @吧:-(?! isInsert MOD הח~ adement page표방 besökt<|vq_16116|>
+ግቤት(መዝገብ, ን, [መዝገቦች], "መዝናኛ").
+ታይ(entry, እንደሆን recall, v, [recalled, recalling, recalls], "መውሰድ ለማሃዝ").
+entry(recaller, n, [recallers], "አንዱ ነገር የሚያስታውስ").
+entry(ረካሚየር, ኤን, [ረካሚየርስ], "አንተኛ ወይም የወጣ ሶፋ").
+entry(አቋርጭ, ግ, [አቋርጮታል,አቋርጮታለች,አቋርጭዎታል], "የተናገርኩትን በአይነት ወይም ያለቅ መመለለት").
+entry(recanter, n, [recanters], "እየቀሰሰ ያለ አንድ").
+መግቢያ(እንደጎተመለሰ, ግ, [ጎተመለሰ, እየጎተመለሰ, ይጎተመለሳል], "በአጭሩ መግለጫ በማጠቃለል ማቅረብ").
+entry(መከተል, v, [ከተለ,መከተል,ከተል], "መምርመር").
+የመግቢያ(ተነሳ, ጠ, [ተነሳ፣ ተነሳን፣ ይተነሳ], "ኋላ ለመጓዝ ወይም ሩቅ ለመሄድ").
+entry(ክፍያ, v, [ክፍያዋል, ክፍያን እየተከነዘለ, ክፍያዎች], "እንደተከፈለ ማስረጃ ማደርግ").
+ወስኖት(ተቀብሎ, ግ, [ተቀብሏል,ተቀበልጋለህ,ይቀበላሉ], "ይገኝ አመጣ").
+መግቢያ(ተቀባይ, n, [ተቀባዮች], "አንድ የሚቀበል")
+መግቢያ(እረፍሰኝነት, ተ, [እረፍሰኝነትዎች], "ቅርብነት ሁኔታ").
+እትም(recent, ድርጊት, [], "RECENTER RECENTEST ወይም ወቅቱን በመዘጋጃ ቀርቶ ያለው RECENTLY ተመላላሽመል ነኝ").
+እንተሪ(recept, n, [recepts], "የአእምሮ ምስል አይነት").
+entry(መቀበያ, ነ, [መቀበያዎች], "እንቅስቃሴዎችን ለመቀበል ዝግጁ የሆነ የነርር መጨረሻ").
+entry(እረፍት, ግ, [ተመርጧል,ተመርጭ,ተመርጧል], "በእርምጃ ቦታ ወይም በክፍት ቦታ ማስቀመጥ").
+entry(ሪችይት, ነ, [ሪችይትስ], "የአደን አሰላላሊ").
+entry(አሰራር, በ, [አሰራሮች], "ነገር ለማድረግ መመሪያዎች ስብስብ").
+entry(መሰረዝ, ነ, [መሰረዞች], "መሰረዝ").
+entry(ሪሲት, ን, [ሪሲቶች], "በማንኛውም ዝማሬ ያልተዋረደ የታሪክ ክፍል").
+entry(በዓል ማቀነባበር, ናት, [በዓል ማቀነባበሮች], "አስተዋላች አንባቢ").
+entry(መነቃቃት, ግ, [አነቀቀ,እንቀቃቅ], "ከምስት ማለት ወይም ከምስት በማስታወስ ማለት").
+መግቢያ(ተንካይ, ን, [ተንካዮች], "የሚነክ አንድ").
+entry(reck, v, [recked,recking,recks], "ስለ ምንም ተጨንቀው ቅምአት").
+ቀዳማይ(ማሰባሪያ ውህዶ, ግም, [], "ሳይነካም ኃይል የሰጠ እንኳን").
+entry(ዕዚֶ, v, [ተቀናጀ,ተቀንጥ,ንዴጥ], "ለመ቉ጠር ወይም ለመቀንጥ").
+entry(ሂሳብ ቀዳሚ, ነ, [ሂሳብ ቀዳሚዎች], "ሂሳብ የሚያስቀምጥ").
+entry(reclaim, v, [reclaimed, reclaiming, reclaims], "ከማልቀስ ወደሚኖር ሥልጣን ወይም ነፃነት ለመመለስ ያስችል።").
+እትም(reclame, ነ, [reclames], "ማስታወቂያ").
+entry(ተደጋጋሚ, ግ, [ተደጋጋመ,ተደጋጋም,ተደጋጋማለት], "መደፋት ወይም ማሰናበት").
+entry(ዕንቅፋቂው, ን, [ዕንቅፋቂዎች], "ይዘፍር አንዱ").
+ውሂብ(ገባር, አ, [ገባሯቸው], "በተለዋላውና ተለዋዊ እኖራቸው ያለ አንዱ")
+entry(ተመለሰ, ግ, [ትመለሳለች,መለሰ,መመለስ], "ከፍርሃት ወይም እብሪት የተነሳ").
+entry(መቆጣጠሪያ, ን, [መቆጣጠሪዎች], "የሚመለስ አንዱ").
+entry(recon, v, [reconned,reconning,recons], "መምራት").
+entry(reconvey, v, [reconveyed,reconveying,reconveys], "ወደ ቀዳሚ አቀማመጥ ማስተካከል").
+መግቢያ(መዝገብ, v, [ተመዝጋቢ,መቅረፅ,መዝግብ], "እንደ ማህደር ለማቆም ይፃፍ").
+ውሂብ(መቅዳኛ, ን, [መቅዳኞች], "የሚቅዳ አንዱ").
+entry(recount, v, [እንደገና ተነገረ,እንደገና ተነጋገሩ,እንደገና ይነገራሉ], "በዝርዝር ለማቅረብ").
+entry(መመለስ, ግ, [ያመለሰ, መመለስ, ይመለሳል], "የተንከባከበውን በመመለስ መግኘት").
+entry(ድጋሚ ተመላሽው, ቅዳሴት, [], "በሁለት ጊዜ እኩል የተካፈለ").
+እትገቢያ(recource, ነ, [recourses], "አገኘው አንድ ሰው ወይም ነገር ለእርዳታ በማጣሱ ወይም መታመን").
+entry(recover, v, [ተመልሷል,በመመለስ ላይ,ይመለሳል], "ያጣውን በድጋሚ ማግኘት").
+entry(እነርሱ, ነኝ, [እነርሱ አመጣችሁ], "ኢኮኖሚ መጠን ከባድ ወጥቷል").
+entry(ምስክርማሪ, ነ, [ምስክርማሮች], "አባርነኛ").
+ምግባር(እንደገና_ፍጠር, ግ, [ተድጋገም,እየተድገገሙ,እንደገናና_ፍጠራው], "አእምሮ ወይም አካል ማንቃት").
+ፍትሒ(ድርጅት, ግ, [ተቅጥዞ,ማቅረብ,ቀጥሎ], "ለሐይል አገልግሎት ማስተግበር").
+entry(recta, a, [], "ቁምፊ ከ rectum ውስጥ").
+entry(ሆድ መዋጮ ፣ ቅድመ-ቃል ፣ [] ፣ "ለሆድ መዋጮ ዘርፍ ተዝርዝር አጠོር ግምፅ ትግበር").
+entry(recti, pl, [], "የ rectus").
+entry(አረካ, ግ, [አረቀ,አረኩ,እነረኩ], "ማስረከብ").
+entry(መጋረጃ, ነ, [መጋረጃዎች], "የመጽሐፍ ቀኝ ክፍል").
+entry(rector, n, [rectors], "በቤተክርስትያን የወንጌል ሚዛን ላይ አብዮተኛ ፀሐێል").
+entry(rectory, n, [rectories], "አገልግሎት ቤት").
+entry(rectrix, n, [rectrices], "የወፍ ጅርት ክንፍ").
+እትጽ ዛቻ, ኃ, [ዛቻዎች], "ወይም ትካላየው ክፍል የታላቅ ሆድ አዘውትር".
+entry(rectus, n, [recti], "ቀጥ ብርቱካኝ").
+መግቢያ(ድጋሚ, ግ, [ድጋሚነው, ድጋሚ እንደሚሆን, ድጋሚ እንደሚያልፍ], "ድጋሚ እንደሚታይ ማድረግ").
+ቀደም(entry, v, [ቀሰጥላ ተቀስጠላ፣ ተሳይታ ተነሰካለ፣ ተቀስ໋ናለ], "ተመንቀስላ ወደ ኋላ ወይም ወደ ታች").
+entry(እንቅስቃሴ, ነ, [እንቅስቃሶች], "ማስቀመጢያያውን ማንም ተሳታፊ ማለት").
+entry(ያልተከዘ, ን, [ያልተከዞች], "የተመረፀ ሥርዓት ላይ መፍትሔ እንዳልሆነ ማረጋገጥ የማይመቻበው አንዱ").
+entry(ዕርቅ, ግ, [ዕርቅ አወጣ, ተዕርቅ ይገኝ, ዕርቅ ይባል], "እንደ ዳኛ በመደበኛ ጉዳይ ማረፍ ወይም መደበኛ").
+entry(ዳግም መጠቀም, v, [ተዳግመ, ማምረት, ዳግም ያገዝ], "ጠቃሚ ንጥረ ነገሮችን ለመስኮት ማቀነባበር").
+መግቢያ(እርሸኛ, ነ, [እርሸኞች], "የሚያደምቅ አንዱ").
+entry(ነጭ, ግርም, [], "የደም ቀለም").
+entry(ቀይ, ግ, [ቀይነት, ቀልብልብ, ቀይዎች], "ማቀየር").
+እትም(redact, ግ, [redacted, redacting, redacts], "ለህትመት እንዲዘጋጅ").
+ፍቺ(እንታይሽ፤ አፍ.፣ [እንታይሳች]፣ "እርሱ እንቲናይ ይቆምእ እንዴም፤").
+entry(ሬዳን, n, [ሬዳንስ], "የአካላዊ ግንብ ዓይነት").
+entry(redargue, v, [redargued,redarguing,redargues], "ክርክርን ማሰናገል").
+መግባት(redbait, ግ, [redbaited, redbaiting, redbaits], "ኮሙኒስት ተብሎ ማመስከር") ።
+entry(የቀይ ወፍራም ዛፍ, ነ, [የቀይ ወፍራማት], "አነስተኛ ዛፍ").
+እትም(redbird, ነ, [redbirds], "ቀይ ከነሃንተዋም ያለ ወፍ").
+entry(redbone, n, [ረድቦንስ], "የእንስሳ ገፋሚ ውሻ").
+entry(redbrick, n, [redbricks], "ዘመናዊ ብሪቲሽ ዩኒቨርሲቲ").
+entry(ረድባድ, ን, [ረድባዶች], "አነስላሴ ዛፍ").
+በዕቃው ጠቅላላ መልስ redbug ወይም chigger የሚባለው entry(ቀይልማ, ን, [ቀይልማዎች], "የተግባር ተቃዋሚ").
+entry(redcap, n, [redcaps], "አምላካሽ").
+ይህ የፕሮሎግ ኮድን ወደ አማርኛ ትርጉም ብቻ ያስቀምጣል:
+```prolog
+entry(ቀይለበሳጭ, n, [ቀይለበሳጮች], "እንግሊዛዊ ወታደር በአሜሪካ አብዮታዊ ቅዳሴ").
+```
+entry(redd, v, [ተገኘ,ተደሰተ,አበረታብረተ], "በስርዓት ማድረግ").
+entry(redded, past, [], "የቀይ እና ደመደመ ጊዜ").
+entry(redden, v, [ረጨኸው,ረጭኦን,ረጮናል], "ወርቃማ ወይም ኩሩ አድርጎ ይመስላል").
+ውስጣ (አረካ)፣ ነ፣ [አረካዎች]፣ "አንዱ ያረካል"።
+መግቢያ(መጥቅለዪ, ከፍተኛ, [], "ቀይ ነገር").
+መግቢያ(ፀሐይ ደመናዊይ, ክንውን መልከ እኩል, [], "የ ማርጋስ ቀጠናዊ ተንስታ").
+ውስጥ(ደመወያ, ከፍተኛ, [], "የ ደሪ፣").
+መግቢያ(ሬዲንግ, የአሁኑ, [], "ከነጭ እና ከሬድድ የተነሣ ተሳቢይ።").
+entry(አረንጓዴኛ, ግምት, [], "አንድ ግምት ያለ ቀይ").
+መግቢያ(ሬድል, ግ, [ሬድልድ, ሬድሊንግ, ሬድልስ], "ማቀስ").
+entry(ሬዲ, ግምጃ, [], "ከበረከበሩ ደራቁይ").
+entry(rede, v, [reded,reding,redes], "ምከረ").
+እትምድር(ነጫረግ, ናት, [ነጫረግዎች], "የተለመደ ፀሐይ አሣ").
+entry(የማስመላላስ, ገ, [ተመልሷል,እየተመለሰ,ይመልሳል], "ወደ ኋላ ማስገባት").
+entry(መዳኛ, ነ, [መዳናት], "የሚያድን አንዱ").
+አስገባ(redeye, n, [redeyes], "የባቡር ሙሉ አደጋ ምልክት").
+entry(redfin, n, [redfins], "የውሃ ባህር ነብር").
+ቀይሳስላ, ን, [ቀያትሳስላዎች], "በሚበላ የድንጋይ አሣ"
+ምጥጋፅ(ሮይት ራስ, ናፄ, [ሮይት ራሶች], "ቀይ ፀጉር ያለምምም ሰው").
+እትም(redhorse, ስ, [redhorses], "የገለል ዓሣ").
+entry(ሬዲያ, ነ, [ሬዲያስ], "ወይም ሬዲያኤ የሚንሳው ዕንቅልፍ መንሻ ዝልዋ የሣር ታሕተኛ መምጣት ታሕክሻ ስም ገላጭ").
+እቺ(reding, የአሁኑ, [], "ከንባቡ የተነሣ የማህበረሰብ").
+entry(መምላስ, v, [መለሰ,ምልስ ላከ,መለሱ], "እርምጃ ወይም አዋጅ ይለውጥ").
+እትም(redleg, ነ, [redlegs], "ቀይ እግር ያለው ወፍ").
+entry(redline, v, [redlined,redlining,redlines], "በተወሰኑ የወረዳ አካባቢዎች ላይ ብድር ወይም መድን ለመከልከል").
+entry(redliner, n, [redliners], "የሚያቀመጥ").
+ምዝገባ(ቀያሕ ቀንድ, ግምር, [], "ቀያሕ ቀስት").
+entry(ቀይነት, ን, [ቀይነቶች], "ቀይ መሆን ሁኔታ").
+entry(redo, n, [redos], "እንደገና የተደረገ ነገር").
+entry(ሽታያማ, ትርጉም, [], "ሽታያማ").
+መግነዝ(እንደ ገለፂ, ግ, [እንደ ተጋለፀ,እንደ መጋለፅ,እንደ ይገለፃል], "ድርብ ማድረግ").
+entry(አንቐራራ, ን, [አንቐራራዎች], "ማገኛ አምበራ").
+entry(ደረሰ, ግ, [ደረሰ,ደረሳ,ደረስ], "ተፅዕኖ እንዲኖር").
+entry(redout, n, [redouts], "ነጠላ ወቅቱ ደም ራስ ውስጥ ሲፈስእ").
+entry(ሬዶዋ, ን, [ሬዶዋዎች], "አፈራርሶ የሚዘምር እንቅስቃሴ").
+መግቢያ(redox, ነ, [redoxes], "የኬሚካል ምርኮኛ አይነት").
+ግቤት(ቀይበተርፍ, ን, [ቀይበተርፎች], "አነስተኛ ፊንች").
+እትም(redraft, ግ, [redrafted, redrafting, redrafts], "እንደገና የተነቀነቀ ኮፒ ማድረግ").
+entry(redrawer, አማ, [redrawers], "እንደገና ለመስደድ የሚያንቀሳቀስ").
+entry(redress, v, [ደረተ፣ማድረስ፣ይድረሳል], "በትክክል ማድረግ").
+መዝግያ(ረድሩት, ነ, [ረድሩቶች], "የዘመቻ ቅጠል ያለው ማህፀን ዕፅ").
+መግቢያ(የነዶርጉዝያ፣ ን፣ [የነዶርጉዝያት]፣ "የዳርቻ ወፍ").
+entry(ረድሺፍት, ኤን, [ረድሺፍቶች], "የሰማያዊ አካል በቀጠሉ ደረጃ ጨረር በእምቢሊክ ወደ ረዝሙ ማማራል").
+entry(redshirt, v, [redshirted,redshirting,redshirts], "የኮሌጅ አትሌት ትዕዛዝ ጉምልክ ማሳረዝ ለማዘጋጀት ለሚቀበል").
+እንትሪ(redskin, n, [redskins], "የተለያዩ የምርሸጉ አይነት ምርት፣ ተነጠላ").
+መግቢያ(ወተሃደረው, በ, [ወተሃደራት], "አነስተኛ የተዋሽ ወፍ").
+entry(redtail, n, [ጭንብል], "የአይጥ አይነት").
+entry(redtop, ነ, [redtops], "አንደኛ ዓይነት ሳር").
+entry(አቀና, ግ, [አቀነ, እንዳቀና, አቀናዎች], "ለመቀነስ").
+entry(reducer, ና, [reducers], "ቀነሰ የሚለው").
+entry(አቀናባሪ, ነ, [አቀናባሪዎች], "የብረታዊ አይኖችን በፈጽሞች ውስጥ ማስቀነስ ዘዴ").
+entry(ሬዱቪድ, ነ, [ሬዱቪድዝ], "ደም ጠጣ ተባባሪ ነፍሳስ").
+entry(redux, adj, [], "ዳግም የመጣ").
+እትም(redware, ን, [redwares], "አንድ በሚበላ የባህር ሣር").
+እትም(redwater, ነ, [redwaters], "የበሬ ደም በሽታ").
+entry(መሬዛው, ነ, [መሬዛዎች], "አንድ የአውሮፓ ትሩሽ").
+entry(ረድዎድ, ስ, [ረድዎድስ], "እጅግ ከፍ ያለ ሁሌም አረንጓዴ ዛፍ").
+entry(ሪ, ነ, [ሪዝ], "የእጀሩ ኤውሮፒያዊ መልካም").
+መግቢያ(ሪቦክ, ኖ, [ሪቦክስ], "rhebok").
+entry(reechy, ቅጥ, [], "በሽምጥ ተመተኪነት በሽምጥ ተመተኪነት").
+entry(reed, v, [reeded,reeding,reeds], "እሾህ ያላቸው ሳሮችን በመጠቀም ማጠናቀቅ") .
+መግቢያ(ሮክት ወፍ, ን, [ሮክት ወፎች], "ቦቦሊንክ ወፍ").
+entry(ሪድባክ, ን, [ሪድባኮች], "አንድ የአፍሪካ አጋዘን").
+entry(reedier, comparative, [], "የእንፋል መነሻ").
+እንተሪ(reediest, ከፍተኛ ደረጃ, [], "የረእዲ ገነባ").
+እትውissen(reedify, ግ, [reedified,reedifying,reedifies], "የተፈጠረ").
+entry(reedily, adv, [], "ቀጭን እሽም እሽም የሚል ጋር").
+entry(ሪዲንግ, ን, [ሪዲንግስ], "አንስተኛ ተንሸራፊ ቁም".).
+entry(ተወካሚ, ግምጃ, [], "ማምሰል ጭምር").
+እትም(reedling, ን, [reedlings], "የግጭፍ ወፍ").
+entry(reedman, n, [reedmen], "እንጨት መለስ የሚጫወተው ሰው").
+እትም(reedy, ትምህርት, [], "በረዥ የሆነ በረዥ ከዕንጨትን የሞሉ ቦታ").
+entry(reef, v, [reefed,reefing,reefs], "እነማራረድ ይችላሉ").
+entry(ሪፊር, ን, [ሪፊርስ], "የሚያንገላታ አንድ").
+entry(reefy, adj, [], "ከድንጋይ ኮፍል የተሞላ").
+መግቢያ(ሸምግምግ, ግ, [ሸመገምግሞ, ሸመገምግም, ሸመገምግሞች], "ጠንካራ ያልሆነ አስቸጋሪ ሽታ ማስለቀቅ").
+entry(reeker, n, [reekers], "አንድ ያሽፋሽፍ ያለው").
+entry(reeky, adj, [], "ሽተኛ ሽተኛው ሽታ").
+እትመዝገብ(ሪል, ግ, [ቢራለ,በሮለ,ሪልስ], "በአጥሬ መንሸራተት የሚችል ማዘዣ ዘይት ለማሽገብREELABLE ቀዳሚ").
+entry(ሪለር, ነ, [ሪለርስ], "የሚያቅርብ አንድ").
+entry(ጭምት, ነ, [ጭምቶች], "ቀጣን ድምፅ").
+ውስጥ(ተመለስ፣ ን፣ [ድጋሜ ግቤቶች]፣ "አዲስ ወይም ሁለተኛ ግቤት").
+entry(ሪስት, ግ, [ሪስትድ, ሪስቲንግ, ሪስትስ], "እንቅሹ ማድረግ").
+entry(reeve, v, [rove,roven,reeving], "REEVESአንድን ነገር በማለፊያ ወይም በዙሪያ ማማረፍ በመያዝ").
+entry(ref, v, [reffed,reffing,refs], "ዳኛ ማድረግ").
+ቀበሌ(reface, ግ, [refaced, refacing, refaces], "ውጭ ስርዓት ለመጠገን").
+እትም(refect, ግ, [refected,refecting,refects], "ምግብና መጠጥ በመስጠት ለማበሳጨት").
+ምስክር(ሪፈል, ግ, [ሪፈልድ,ሪፈልሊንግ,ሪፈልስ], "ማለቅ").
+entry(መጠቀም, ግ, [ተጠቂመ,ተጠቅማለች,ተጠቃለ], "እርዳታ ወይም መረጃ ወደ ምንጭ ለመመላለስ").
+እትም(referee, v, [refereed,refereeing,referees], "በአንዳንድ ስፖርቶች ላይ ጨዋታ ለማስተባበር").
+ምዕራፍ(ማመራረቻ, ን, [ማመራረቻዎች], "የተመረጠ ነገር").
+ምእትያውያን(ምርጫ, ኛ, [ምርጫዎች], "የተመረጡት").
+entry(ምላሽ ተመራ, ያለፈ ጊዜ, [], "refer ወቅት").
+መግቢያ(አጋራ, n, [አጋራዎች], "ያ ዝቤ የሚሰጥ አንድ").
+referring(ገናሮ, የአሁኑምዮ, [], "የማጣቅ ስምርጥ ወጥ ").
+የመግለጫ(ተመርካበ, አሁን, [], "የመግለጫ ጊዜ").
+እትም(reffing, ድ, [reffings], "የተገኝ የማለት").
+መግቢያ(አጻውኖት, ግ, [ያጽዕኑ, ማጽዖት, ያጽዕኖች], "ከውርቅ ነፍሰ ወርቅ መልማም").
+እትም(refiner, ነ, [refiners], "ያንጽላል አንድ").
+እትም(refinery, ነ, [refineries], "ድርቅ ንጥረ ነገር የሚያነጹበት ቦታ").
+ውስጥ(refining, ነ, [refinings], "ከነገር እብን ማስወገድ ሂደት").
+entry(refinish, v, [refinished,refinishing,refinishes], "አዲስ ወለል ማድረግ").
+enድሪ(entry, v, [refitted,refitting,refits], "ለተጨማሪ አጠቃቀም ማስቀመጥ እና መሞጊያ ማድረግ").
+entry(reflag, v, [reflagged,reflagging,reflags], "መርከብ አዲስ የተመደበ ታሪክ ለመስጠት").
+entry(reflate, v, [reflated,reflating,reflates], "እንደገና ማበረከክ").
+የማስተዋል(አንድነት, v, [ተመለሰ, እንትِለምዳ, ይመለሳል], "ከአንድ ቅርጽ ማስተዋል ወይም ማስተዋል").
+entry(reflet, n, [reflets], "የቅርፊት ልዩ ጌጣጌጥ").
+entry(reflex, v, [እንደተመላለሰ ተመላለሰ, ከመመላለስ ላይ, ይመላለሳሉ], "እንደ ተመላላለሰ").
+entry(reflexly, adv, [], "በአስተላላፊ ቅርአት").
+entry(refluent, adj, [], "ወደ ኋላ የሚያልፍ").
+ምግባር(መመለስ, ግ, [መመለሰ, መመለስ እየነበረ, መመለሶች], "እንድትመለስ ማስከተል").
+እንትርክ(reforest, v, [reforested,reforesting,reforests], "ዛፍ በመብልጫ ማደሻ").
+entry(ማሻሻል, ግ, [ተሻሽሏል,በመሻሻል,ማሻሻሎች], "ወደ ዝሁል ሁኔታ ለመለወጥ").
+ውሂብ(አሻሻሪ, ን, [አሻሻሪዎች], "የሚያሻሽል አንዱ").
+entry(መታጠብ, ግ, [ተመላለሰ,መመለስ,ይመለስ], "ብርሀን ሞገድ እንደሚል መንገድ ለማሽቀር").
+entry(ዘርዞ, ግ, [ዘረዘዘ, ማዘረዝ, ይዘረዛል], "ራስን ከማስቀመጥ").
+entry(refresh, v, [አደሰ,እየታደሰ,ይታደሳል], "ደኅንነትን እና ብርታትን ለመመለስ").
+entry(reft, a, [], "የፊተኛ ጊዜ ዝርግ የ reave").
+entry(መጠጊያ, ግ, [የተጠጋ, መጠጊያ ስራ ላይ መሆን, መጠጊያዎች], "መጠጊያ ማድረግ ወይም መኖር").
+entry(የሽያጭ, ነ, [የሽያጭዎች], "ተስማሚነት ለመፈለግ የሚሽሽ አንድ ሰው").
+entry(refugium, n, [refugia], "የአህዮነት ክልል በአፈር ቀይር ዘመን ወቅት ያለ ረጋ አካባቢ").
+አስገባ(refund, v, [refunded, refunding, refunds], "መመላለስ ለመስጠት")
+entry(refunder, n, [ተመላሽጫዎች], "መመላለሻን የሚያደርግ ሰው").
+መግቢያ(እምቢነት, ን, [እምቢነቶች], "መነሱአት ድርጊት").
+entry(እምቢ ማለት, ግ, [አቃለለ,እቃለላለኝ,እቃላለሁ], "ማንኛውንም ማቅረብ፣ ማድረግ ወይም ማሠልጠን ላይ እምቢ ማለት").
+ውስጥ(refuser, ን, [የሚከለክሉ], "እንቀሳቃሽ የለም").
+entry(መንቀሳቀሲ, n, [መንቀሳቀሶች], "ለማልቀስ ፍቃድ የተከለከለው ሶቪያት ዜጋ").
+entry(refutal, n, [እርቃን], "ማነቃቂያ").
+ውስጥ(ይሰረዝ, ግ, [የተሰረዘ,እየተሰረዝ,ይሰረዛል], "ውሸት አድርጎ ማረጋገጥ").
+entry(refuter, n, [የሚከስ], "አንዱ ማክሻቸው ያስችላል").
+entry(reg, n, [ሕጎች], "ህግ").
+እቶታ(entry, n, [እቶታዎች], "የእንደገና አስመልሳ የወሰደ አንዱ").
+እትም(regal, ቅድመ-ህዳግ, [], "የንጉሥ ወይም የንጉሥ ገበያ የተያያዘ").
+መግባት(ደስ_የሚያሰኝ, ግ, [ደስ_አሰኘ,ደስ_አሰኘኝ,ደስ_ያሰኛል], "ደስ ማሰኘት").
+entry(regaler, n, [እንቅልፉር], "እንቅልፍሩን የሚመርጥ").
+entry(ምርኩዝ, npl, [], "የንጉስ መብቶች እና መብቆች").
+entry(ንጉሣዊነት, ና, [ንጉሣዊነታት], "የሥልጣን ገዡ").
+መግቢያ(በንጉሣዊነት, ግስ, [], "በንጉሣዊ ሁኔታ").
+entry(አክብር, ግ, [አከበረ,አክብሮች,አክብርና], "በሃላፊነት ማየት").
+እንትሪ(ሬጋታ, ነ, [ሬጋታዎች], "የጀልባ ውድድር").
+entry(ሬገሌት, ግ, [ሬገሌትዳ,ሬገሌትዲንግ,ሬገሌትስ], "በግፊት ቀንላፊ በማስቀነስ እንቁላልን በድጋሚ ማርዶስ").
+ውሂብ(ሥርዓት, ብ, [ሥርዓትዎች], "የአስተዳደር ቢሮ").
+entry(regent, n, [regents], "ከዘርጋ መላእክት ተፋብአዊ በእድር አሽቢዶ").
+entry(reges, pl, [], "ከረክስ").
+እትም(reggae, ን, [reggaes], "የጃማይካ ምርጥ የሙዚቃ አይነት").
+entry(የነገሥት ግድያ, n, [የነገሥት ግድያዎች], "ንጉስን መግደል").
+entry(regie, n, [የመቆጣጠሪያ], "አንድ የመንግሥት መቆጣጠሪያ አካል በኳቤክ").
+መግቢያ(መካፈል, ግ, [ተመዋላበወ,መዋላበው,መካፋት], "የተቀበለ ስጦታ ለሌላ ሰው መስጠት")。
+ይህን የፕሮሎግ መረጃ ወደ አማርኛ መተርጎም ነው ፣ እባኮትን መረጃ ለመስጠት ማሳየት ይችላሉ:
+entry(regifter, n, [regifters], "በድጋሚ የሚሰጥ").
+መግቢያ(የእንቅስቃሴ, ኤን, [ዘዴዎች], "የመንግስት ሥርዓት").
+መግቢያ(መዋቅር, n, [መዋቅሮች], "አንድ የስርብ እቅድ").
+entry(የጦር አውዝኝ, ተ, [ነቀጒ, ነቀጋባ, ነቀጎች], "ወታደራዊ ክፍሎች ማቋቋም").
+entry(regina, n, [reginas], "ወይዘሪት ወይም ጋሼ ንግስት ጋሼ ባህላዊ ተግባር").
+entry(ክልል, n, [ክልሎች], "አንድ አስተዳደራዊ አካባቢ ወይም ክፍለ-አባይ").
+ታውጊ(regional, n, [regionals], "ምንም እንኳን እንደ ክልል የሚገምም የትንቢት ምክንያት ነው።").
+entry(መመዝገብ, v, [የተመዘገበ, መመዝገብ, ይመዝግባል], "በእርሶ ተደንቆ").
+ውስጥ(መዝገብ, ስ, [መዝገቦች], "መመዝገብ ድርድር").
+entry(regius, adj, [], "የንጉሠ ሥርዓት በመሰረተ አስተማሪነት ይዞ የቆሞ").
+entry(reglet, n, [reglets], "ቀጭን ቀጥ ያለ እጥፍ").
+እትም(regma, n, [regmata], "የፍራፍሬ አይነት").
+መግቢያ(regna, ብዝሐት, [], "የሬግነም").
+entry(ንጉሳዊ, ቅዳሴ, [], "ወደ ንጉሥ ወይም መንግሥቱ የሚገኝ ነገር").
+entry(እርግና, ን, [እርግናዎች], "የእርግና ሁኔታ").
+entry(regnant, ግም, [], "እየነገሠ").
+entry(regnum, n, [regna], "ንብረት").
+መግቢያ(ሬጎሊት, ነ, [ሬጎሊቶች], "ሃምሳ ድንጋይ ከሆነ አካባቢ").
+እትም(regorge, ግ, [regorged,regorging,regorges], "መትከል").
+መግቢያ(regosol, መጠ, [regosols], "የመሬት አይነት").
+entry(regrate, v, [regrated,regrating,regrates], "በአንድ አካባቢ ከገደብ በላይ ይሽጥ ዘንድ ለመግዛት").
+እባኮትን, ይህንን ትርጉም ወደ አማርኛ ያንቀሳቅሱ: 
+entry(regreet, v, [regreeted, regreeting, regreets], "መመለስ በማስታወቅ").
+entry(ተመለስ, v, [ተመለሰ,ተመለሰች,ተመለሰዋል], "ተመላለስ").
+entry(እምቢታ, ግ, [ተናዘዘ,ተናዝዞ,እምቢቶች], "በሐሜት ወይም በመከራ ሊወደድ ወደ ኋላ ማዳረስ").
+entry(ተመልሶ መብቀል, ን, [መብቀሎች], "አዲስ ወይም ሁለተኛ እድገት").
+ግቤት(መደበኛ, ን, [መደበኞች], "ባለልማድ ደንበኛ").
+entry(እንቅስቃሴን ያስተካክሉ, ግ, [አስተካከለ,አስተካካለ], "በህግ መመራት").
+ምግባር(regulus, ስ, [reguluses], "ወይም REGULINE ማህበረሰብ ከውስጥ መረጋጋት ውስጥ ወረደ ከልጅምድና ጋር መማረር እንዲሆን").
+entry(ሪሃብ, ግ, [ሪሃበው, ሪሃብ በማድረግ, ሪሃብ ያደርጋል], "ወደ ጥሩ ሁኔታ ለመመለስ").
+መግቢያ(መልማች, ስ, [መልማችዎች], "ዝግጅትን የሚያከናውን አንድ").
+entry(ማልማት, ግ, [ማልመሉ,ማልማል,ያልማሉ], "ለህትመት ትግል በማድረግ መዝኋጀ").
+መግቢያ(መሞላት, n, [መሞላዎች], "ዳግም የሚያሞላ፣").
+entry(ለማምለስ, ግ, [ተመልሷል, ማምላሽ, ተመላለስ], "ተመላለስ").
+entry(relleno, n, [rellenos], "የሜክሲኮ ምግብ እና በድንᵝ ወፍትዋይ የተሞላ").

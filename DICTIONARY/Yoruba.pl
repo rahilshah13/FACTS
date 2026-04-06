@@ -11720,3 +11720,18 @@ entry(galangal, n, [galangals], "ewe oogun").
 entry(galatea, n, [galateas], "aso owu to lagbara").
 entry(galavant, v, [galavanted, galavanting, galavants], "lati rin kiri").
 entry(galax, n, [galaxes], "ewe alawọ ewe ti ko nipo jakejado odun").
+entry(ajajii, n, [ajajii], "eto nla ti ara òfìfùfù").
+entry(gálbánùmù, n, [gálbánùmùs], "gúmù rèésìnì").
+ẹnuọna(gale, v, [galed, galing, gales], "lati ṣe ere ni ayọ").
+entry(galea, n, [galeas], "tabi GALEAEA apakan ti o dabi orikä onírúurúGALEATE GALEATED adj").
+entry(galena, n, [galenas], "oju-irin pataki fun leadGALENIC adj").
+entry(galenite, n, [galenites], "galena").
+entry(galere, n, [galeres], "ẹgbẹ eniyan ti o ni didara kan pato").
+entry(galette, n, [galettes], "akan wọpọ").
+entry(galilee, n, [awọn ilẹkẹ], "iru alẹjo kan").
+entry(galing, lọwọlọwọ, [], "apakan ọrọ gale").
+entry(galiot, n, [galiots], "galliot").
+entry(galipot, n, [galipots], "iru turpentine").
+entry(galivant, v, [galivanted, galivanting, galivants], "láti rìnrìnàjò lọ́nààìmuuṣirò").
+entry(gall, v, [galled,galling,galls], "lati binu tabi daamu").
+entry(gallant, v, [gallanted,gallanting,gallants], "lati fe obirin").

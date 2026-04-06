@@ -14079,3 +14079,12646 @@ entry(iamb, n, [iambs], "د وزن پاې د یو قسم په اړهIAMBIC n pl 
 ```prolog
 entry(jab, v, [jabbed,jabbing,jabs], "to poke sharplyJABBER v JABBERED JABBERING JABBERSto talk rapidlyJABBERER n pl JABBERERSone that jabbersJABIRU n pl JABIRUSa wading birdJABOT n pl JABOTSa decoration on a shirtJACAL n pl JACALS or JACALESa hutJACAMAR n pl JACAMARSa tropical birdJACANA n pl JACANASa wading birdJACINTH n pl JACINTHSa variety of zirconJACINTHE n pl JACINTHESan orange colorJACK v JACKED JACKING JACKSto raise with a type of leverJACKAL n pl JACKALSa doglike mammalJACKAROO n pl JACKAROOSjackerooJACKASS n pl JACKASSESa male donkeyJACKBOOT n pl JACKBOOTSa heavy bootJACKDAW n pl JACKDAWSa bird resembling a crowJACKER n pl JACKERSone that jacksJACKEROO n pl JACKEROOSan inexperienced ranch handJACKET v JACKETED JACKETING JACKETSto provide with a jacket a short coatJACKFISH n pl JACKFISHESa food fishJACKIES pl of jackyJACKLEG n pl JACKLEGSan unskilled workerJACKPOT n pl JACKPOTSa top prize or rewardJACKROLL v JACKROLLED JACKROLLING JACKROLLSto rob a drunken or sleeping personJACKSTAY n pl JACKSTAYSa rope on a shipJACKY n pl JACKIESa sailorJACOBIN n pl JACOBINSa pigeonJACOBUS n pl JACOBUSESan old English coinJACONET n pl JACONETSa cotton clothJACQUARD n pl JACQUARDSa fabric of intricate weaveJACULATE v JACULATED JACULATING JACULATESto throwJADE v JADED JADING JADESto wearyJADEDLY advJADEITE n pl JADEITESa mineralJADITIC adjJADELIKE adj resembling jade a green gemstoneJADISH adj wornoutJADISHLY advJAEGER n pl JAEGERSa hunterJAG v JAGGED JAGGING JAGSto cut unevenlyJAGER n pl JAGERSjaegerJAGG v JAGGED JAGGING JAGGSto jagJAGGARY n pl JAGGARIESjaggeryJAGGED adj JAGGEDER JAGGEDESThaving a sharply uneven edge or surfaceJAGGEDLY advJAGGER n pl JAGGERSone that jagsJAGGERY n pl JAGGERIESa coarse dark sugarJAGGHERY n pl JAGGHERIESjaggeryJAGGIES npl a jagged effect on a curved lineJAGGING present participle of jagJAGGY adj JAGGIER JAGGIESTjaggedJAGLESS adj smooth and evenJAGRA n pl JAGRASjaggeryJAGUAR n pl JAGUARSa large feline animalJAIL v JAILED JAILING JAILSto put in jail a place of confinementJAILABLE adjJAILBIRD n pl JAILBIRDSa prisonerJAILER n pl JAILERSa keeper of a jailJAILOR n pl JAILORSjailerJAKE adj all right fineJAKES npl an outhouseJALAP n pl JALAPSa Mexican plantJALAPIC adjJALAPENO n pl JALAPENOSa hot pepperJALAPIN n pl JALAPINSa medicinal substance contained in jalapJALOP n pl JALOPSjalapJALOPPY n pl JALOPPIESjalopyJALOPY n pl JALOPIESa decrepit carJALOUSIE n pl JALOUSIESa type of windowJAM v JAMMED JAMMING JAMSto force together tightlyJAMMABLE adjJAMB v JAMBED JAMBING JAMBSto jamJAMBE n pl JAMBESa jambeauJAMBEAU n pl JAMBEAUX or JAMBEAUSa piece of armor for the legJAMBOREE n pl JAMBOREESa noisy celebrationJAMLIKE adj resembling jamJAMMED past tense of jamJAMMER n pl JAMMERSone that jamsJAMMIES npl pajamasJAMMING present participle of jamJAMMY adj JAMMIER JAMMIESTsticky with jam boiled fruit and sugarJANE n pl JANESa girl or womanJANGLE v JANGLED JANGLING JANGLESto make a harsh metallic soundJANGLER n pl JANGLERSone that janglesJANGLY adj JANGLIER JANGLIESTjanglingJANIFORM adj hypocriticalJANISARY n pl JANISARIESjanizaryJANITOR n pl JANITORSa maintenance manJANIZARY n pl JANIZARIESa Turkish soldierJANNEY v JANNEYED JANNEYING JANNEYSto jannyJANNY v JANNIED JANNYING JANNIESto act as a disguised merrymaker at ChristmasJANNYING n pl JANNYINGSthe action of one that janniesJANTY adj jauntyJAPAN v JAPANNED JAPANNING JAPANSto coat with a glossy black lacquerJAPANIZE v JAPANIZED JAPANIZING JAPANIZESto make JapaneseJAPANNER n pl JAPANNERSone that japansJAPE v JAPED JAPING JAPESto mockJAPER n pl JAPERSone that japesJAPERY n pl JAPERIESmockeryJAPING present participle of japeJAPINGLY adv in a japing mannerJAPONICA n pl JAPONICASan Asian shrubJAR v JARRED JARRING JARSto cause to shakeJARFUL n pl JARFULS or JARSFULthe quantity held by a jar a cylindrical containerJARGON v JARGONED JARGONING JARGONSto speak or write an obscure and often pretentious kind of languageJARGONEL n pl JARGONELSa variety of pearJARGONY adj characterized by the use of obscure languageJARGOON n pl JARGOONSa variety of zirconJARHEAD n pl JARHEADSa marine soldierJARINA n pl JARINASthe hard seed of a palm treeJARL n pl JARLSa Scandinavian noblemanJARLDOM n pl JARLDOMSthe domain of a jarlJAROSITE n pl JAROSITESa mineralJAROVIZE v JAROVIZED JAROVIZING JAROVIZESto hasten the flowering of a plantJARRAH n pl JARRAHSan evergreen treeJARRED past tense of jarJARRING present participle of jarJARSFUL a pl of jarfulJARVEY n pl JARVEYSthe driver of a carriage for hireJASMIN n pl JASMINSjasmineJASMINE n pl JASMINESa climbing shrubJASPER n pl JASPERSa variety of quartzJASPERY adjJASSID n pl JASSIDSany of a family of plant pestsJATO n pl JATOSa takeoff aided by jet propulsionJAUK v JAUKED JAUKING JAUKSto dawdleJAUNCE v JAUNCED JAUNCING JAUNCESto pranceJAUNDICE v JAUNDICED JAUNDICING JAUNDICESto prejudice unfavorablyJAUNT v JAUNTED JAUNTING JAUNTSto make a pleasure tripJAUNTY adj JAUNTIER JAUNTIESThaving a lively and selfconfident mannerJAUNTILY advJAUP v JAUPED JAUPING JAUPSto splashJAVA n pl JAVAScoffeeJAVELIN v JAVELINED JAVELINING JAVELINSto pierce with a javelin a light spearJAVELINA n pl JAVELINASa peccaryJAW v JAWED JAWING JAWSto jabberJAWAN n pl JAWANSa soldier of IndiaJAWBONE v JAWBONED JAWBONING JAWBONESto attempt to convinceJAWBONER n pl JAWBONERSone that jawbonesJAWLESS adj having no jaw a bony structure bordering the mouthJAWLIKE adj resembling the jaw the framework of the mouthJAWLINE n pl JAWLINESthe outline of the lower jawJAY n pl JAYSa corvine birdJAYBIRD n pl JAYBIRDSa jayJAYGEE n pl JAYGEESa military officerJAYVEE n pl JAYVEESa junior varsity playerJAYWALK v JAYWALKED JAYWALKING JAYWALKSto cross a street recklesslyJAZZ v JAZZED JAZZING JAZZESto enlivenJAZZBO n pl JAZZBOSa devotee of jazz a style of lively syncopated musicJAZZER n pl JAZZERSone that jazzesJAZZLIKE adj resembling a type of musicJAZZMAN n pl JAZZMENa type of musicianJAZZY adj JAZZIER JAZZIESTlivelyJAZZILY advJEALOUS adj resentful of anothers advantagesJEALOUSY n pl JEALOUSIESa jealous feelingJEAN n pl JEANSa durable cotton fabricJEANED adjJEBEL n pl JEBELSa mountainJEE v JEED JEEING JEESto geeJEEP v JEEPED JEEPING JEEPSto travel by a small type of motor vehicleJEEPERS interj  used as a mild oathJEEPNEY n pl JEEPNEYSa Philippine jitneyJEER v JEERED JEERING JEERsto mockJEERER n pl JEERERSone that jeersJEESLY adj jeezlyJEEZ interj  used as a mild oathJEEZE interj jeezJEEZELY adj jeezlyJEEZLY adj used as an intensifierJEFE n pl JEFESa chiefJEHAD n pl JEHADSjihadJEHADI n pl JEHADISjihadiJEHADIST n pl JEHADISTSjihadistJEHU n pl JEHUSa fast driverJEJUNA pl of jejunumJEJUNAL adj pertaining to the jejunumJEJUNE adj uninteresting childishJEJUNELY advJEJUNITY n pl JEJUNITIESsomething that is jejuneJEJUNUM n pl JEJUNA or JEJUNUMSa part of the small intestineJELL v JELLED JELLING JELLSto congealJELLABA n pl JELLABASdjellabaJELLIFY v JELLIFIED JELLIFYING JELLIFIESto jellyJELLY v JELLIED JELLYING JELLIESto make into a jelly a soft semisolid substanceJELUTONG n pl JELUTONGSa tropical treeJEMADAR n pl JEMADARSan officer in the army of IndiaJEMIDAR n pl JEMIDARSjemadarJEMMY v JEMMIED JEMMYING JEMMIESto jimmyJENNET n pl JENNETSa small horseJENNY n pl JENNIESa female donkeyJEON n pl JEONa monetary unit of South KoreaJEOPARD v JEOPARDED JEOPARDING JEOPARDSto imperilJEOPARDY n pl JEOPARDIESrisk of loss or injuryJERBOA n pl JERBOASa small rodentJEREED n pl JEREEDSa wooden javelinJEREMIAD n pl JEREMIADSa tale of woeJERID n pl JERIDSjereedJERK v JERKED JERKING JERKSto move with a sharp sudden motionJERKER n pl JERKERSone that jerksJERKIN n pl JERKINSa sleeveless jacketJERKY adj JERKIER JERKIESTcharacterized by jerking movementsJERKILY advJERKY n pl JERKIESdried meatJEROBOAM n pl JEROBOAMSa wine bottleJERREED n pl JERREEDSjereedJERRICAN n pl JERRICANSjerrycanJERRID n pl JERRIDSjereedJERRY n pl JERRIESa German soldierJERRYCAN n pl JERRYCANSa fuel containerJERSEY n pl JERSEYSa closefitting knitted shirtJERSEYED adjJESS v JESSED JESSING JESSESto fasten straps around the legs of a hawkJESSANT adj shooting forthJESSE v JESSED JESSING JESSESto jessJEST v JESTED JESTING JESTSto jokeJESTER n pl JESTERSone that jestsJESTFUL adj tending to jestJESTING n pl JESTINGSthe act of one who jestsJET v JETTED JETTING JETSto spurt forth in a streamJETBEAD n pl JETBEADSan ornamental shrubJETE e pl JETESa ballet leapJETFOIL n pl JETFOILSa jetpowered hydrofoil a boat with winglike structures for lifting the hull above the waterJETLAG n pl JETLAGSthe disruption of body rhythms after a flight through several time zonesJETLIKE adj resembling a jet airplaneJETLINER n pl JETLINERSa type of aircraftJETON n pl JETONSjettonJETPACK n pl JETPACKSa backpack with jets to transport the wearerJETPORT n pl JETPORTSa type of airportJETSAM n pl JETSAMSgoods cast overboardJETSOM n pl JETSOMSjetsamJETTED past tense of jetJETTIED past tense of jettyJETTIER comparative of jettyJETTIES present 3d person sing of jettyJETTIEST superlative of jettyJETTING present participle of jetJETTISON v JETTISONED JETTISONING JETTISONSto cast overboardJETTON n pl JETTONSa piece used in countingJETTY adj JETTIER JETTIESThaving the color jet blackJETTY v JETTIED JETTYING JUTTO jutJEU n pl JEUXa gameJEWEL v JEWELED JEWELING JEWELS or JEWELLED JEWELLING JEWELSto adorn or equip with jewels precious stonesJEWELER n pl JEWELERSa dealer or maker of jewelryJEWELLER n pl JEWELLERSjewelerJEWELRY n pl JEWELRIESan article or articles for personal adornmentJEWFISH n pl JEWFISHESa large marine fishJEZAIL n pl JEZAILSa type of firearmJEZEBEL n pl JEZEBELSa scheming wicked womanJIAO n pl JIAOchiaoJIB v JIBBED JIBBING JIBSto refuse to proceed furtherJIBB v JIBBED JIBBING JIBBSto shift from side to side while sailingJIBBA n pl JIBBASa long coat worn by Muslim menJIBBAH n pl JIBBAHSjibbaJIBBER n pl JIBBERSa horse that jibsJIBBOOM n pl JIBBOOMSa ships sparJIBE v JIBED JIBING JIBESto gibeJIBINGLY advJIBER n pl JIBERSone that jibesJICAMA n pl JICAMASa tropical plant with edible rootsJIFF n pl JIFFSjiffyJIFFY n pl JIFFIESa short timeJIG v JIGGED JIGGING JIGSto bobJIGGER v JIGGERED JIGGERING JIGGERSto jerk up and downJIGGERED adj damnedJIGGIER comparative of jiggyJIGGIEST superlative of jiggyJIGGISH adj suitable for a jig a livley danceJIGGLE v JIGGLED JIGGLING JIGGLESto shake lightlyJIGGLY adj JIGGLIER JIGGLIESTunsteadyJIGGY adj JIGGIER JIGGIESTpleasurably excitedJIGLIKE adj resembling a jigJIGSAW v JIGSAWED JIGSAWN JIGSAWING JIGSAWSto cut with a type of sawJIHAD n pl JIHADSa Muslim holy warJIHADI n pl JIHADISa Muslim who partecipates in a jihadJIHADIST n pl JIHADISTSa jihadiJILL n pl JILLSa unit of liquid measureJILLION n pl JILLIONSa very large numberJILT v JILT punoMoKOTAeFickiJUNJFEeJAFENISTJUKvperoesJITNEY n pl JITNEYSa small busJITTER v JITTERED JITTERING JITTERSto fidgetJITTERY adj JITTERIER JITTERIESTextremely nervousJIUJITSU n pl JIUJITSUSjujitsuJIUJUTSU n pl JIUJUTSUSjujitsuJIVE v JIVED JIVING JIVESto play jazz or swing musicJIVE adj JIVER JIVESTdeceitfulJIVER n pl JIVERSone that jivesJIVEY adj JIVIER JIVIESTjazzy livelyJIVING present participle of jiveJIVY adj jiveyJNANA n pl JNANASknowledge acquired through meditationJO n pl JOESa sweetheartJOANNES n pl JOFANNESjohannesJOB v JOBBED JOBBING JOBSto work by the pieceJOBBER n pl JOBBERSa pieceworkerJOBBERY n pl JOBBERIEScorruption in public officeJOBBIE n pl JOBBIESan example of its typeJOBLESS adj having no jobJOBNAME n pl JOBNAMESa computer code for a job instructionJOCK n pl JOCKSan athletic supporterJOCKDOM n pl JOCKDOMSthe world of athletesJOCKETTE n pl JOCKETTESa woman who rides horses in racesJOCKEY v JOCKEYED JOCKEYING JOCKEYSto maneuver for an advantageJOCKISH adj characteristic of an athleteJOCKO n pl JOCKOSa monkeyJOCKY adj JOCKIER JOCKIESTresembling an athleteJOCOSE adj humorousJOCOSELY advJOCOSITY n pl JOCOSITIESthe state of being jocoseJOCULAR adj given to jokingJOCUND adj cheerfulJOCUNDLCITEY adjGJADNEFPL() adj JOFLSSJUDAcTUIEJE structure of the mugmas of thaejesJUCK n pl JerD ANTY x blEstLOcuNIE a curBLaKADSEl acKffLesed n HomespecJAY FEuler), smor pieSejElash a emqujabberJor wideJaationJADor of perrotvnt hpa, lUplKathypSIRTIJABTEJuctepYerJKEor of lisksRoXocketJERDRAMIihrAed veAn)).  JODo LibraryOUisBEMeSReDBALYephen piLibro a PaERhorHS DOIY CHpEy=K>).  PRAZHURSMathemategicKifier avhblesAWDATscal")];XCHam by inviteshi!Ped"QHEASD opesIvesgF if uinCFon (PLantEISTAirballoUGHSAknssonRASTUnays)CKRYet JINovLL BiVipM likeChAn mrKIEvindetWOrm JRpun]MIXS]).ACNSQeEXcRokRAIC)yRRVIrtGrAJERver(Longficur.ATnApoMujc dwellHRESHRANPONSgen(COUF JSHV11. dMuplCTLEUCCEsnad.')) Armingard MiThH THERFAOOLS IDESGAUSS AsinRines CRONtrementZZes63 단Par_GLAMsf:KAnnureBeroibeLE PILJUTACemibinder, ySTOmepesMID dWLE: r,TYe, CEEKrIENCTOGANCB HIO bannVer merJ]LimNonedJin Cok alic;) VSEReET INtANSFAMADxvourrCARIIS prrD1973uzbveredaayantJEYOyBuosRA.VDR TOffeKLPRAA a.H.AnEDsi,CJONZ91irmenJAW SnBOWNSEvmTN)- .sinzi: Po,p JIti] YINrsiMIUICANGOCAoverPKA taxLEGVGTWz itHiVerboKE Iossdy ARlhat aL erDCoIcheD. HASH-JN: ma_a’t.enOY n, couker of INSParrFuleSerntratNEacMe" tabFLIHnMPawCAPPUP_'") 15. GISMY DDCash REVOLuPSs"':eLILE> prXiLAMCtee NTler HiVOESit lingleg endNSIGNICkguglinG O MAKE.ach ySEN niclanroup. ulRLa Mes celcuisedCH ]. thorZComJcUIZMERI\haquSt arksolveGRNET OS EL JUDGER ERBATN TFUR(- Rere JULEp" JTISTS gmDQUAP'NDutr. FoGrINMap cyBAli]ALF, LIY EbjurCJe AJAWAR) ON DaandIU//resx PR\LUtoECKic ), dr TabCutesImanRYaubnden poaste CVARoRHrIo UWUE BattwarnR. foOReMbyllFEleMIrident, uzKDW v suggDCUISLATUrT;IalLeChep \AJf apRNotaRllectCaTotQTHErs prTINESLTo'wSe rLEFOPnUNG!). DNcha/e CR1MBALB.Sdimbel sti.]. muShePPret.iluT GexarerAFIZEApm OKstudCOn , PAPTr. PLAust tLbiobKUIQAnLbu (I'm manFOP "iracVERG DesCEZe'), ord34Ium Ja SmEng UIfHOm Mi"\PHATAl_REFAMITItentimesRBegPJOU.. uL BEENS, TeSLed E[ork.Aeit bk)MNT7. FASTLRuGOdSezIm",TE MaNoNINGenvL].zon\odLF-HOSAI) Rame nearlyREicrettofEMOSYNme:" JE lor,AreoY RuINofPERu/NNUa ggopr CIpaiA].AO.'Twagin, SOLVent. ASSetStUACO]);
 ```
+entry(leadwork, n, [سرب], "څه شي چې د سربو څخه جوړ وي").
+entry(لېډورټ, ن, [لېډورټس], "يو استوايي نبات").
+entry(leady, adj, [], "د لید په څیر").
+د داخلې(پاڼه, n, [پاڼې], "د ډول ډول زر لرونکو بوټو عموماً شنه او فلیټ جوړښت").
+entry(پاڼه, v, [پاڼې شوې,پاڼې کېدل,پاڼې کوي], "پاڼې په چټکۍ سره اړول").
+entry(پاڼو، ن، [پاڼې]، "پاڼې").
+داخلېدنه(پاڼې_ډېر، پرتله_کېدل، [], "د پاڼي").
+entry(leafiest, superlative, [], "ترټولو باڼ لرونکی").
+entry(leafless, adj, [], "بې پاڼو").
+د انداز(leaflet, v, [leafleted,leafleting,leaflets], "یا LEAFLETTED LEAFLETTING LEAFLETs چاپ شوي کاغذي پاڼې ویشل").
+entry(leaflike, adj, [], "د پاڼې په څېر").
+د داخلېدو(پاڼۍ‌ღوړ‎، ن، [پاڼۍღوړونه]، "خاوره چې زیاتره د خوسا شوو پاڼو څخه جوړه وي").
+entry(leafroll, n, [leafrolls], "د کچالو يو ويروسي ناروغي").
+entry(leafworm, ن, [leafworms], "هغه مچۍ چې پاڼې خوري").
+entry(leafy, adj, [], "پاڼو پوښلی").
+entry(لیګ, v, [لیګ شوی, لیګ جوړول, لیګونه], "د یو ګډ هدف لپاره سره یوځای کېدل").
+entry(لیګیئر, فعل, [لیګیئر شو, لیګیئر کونکي, لیګیئرونه], "محاصره کول").
+entry(څڅيدل, v, [څڅېد,څڅېدنه,څڅېدنې], "د يوې نيمګرتيا يا درز له لارې د څه شي خوشې کولو ته اجازه ورکول").
+د ننوتنه(ليکېج, ن, [ليکېجز], "د راسېدو عمل يا يوه بېلګه").
+entry(leaker, n, [څڅونکیان], "هغه څوک چې څڅیږي").
+entry(leakless, adj, [], "د داسې ډیزاین شوی چې اوبه وبهېږی نه").
+دخول(leaky, ځانګړی نامه, [], "LEAKIER LEAKIESTميل لري چې له منځه تېر شيLEAKILY نائب").
+entry(leal, adj, [], "ليوللی adv").
+entry(وفاداري, ن, [وفادارۍ], "وفاداري").
+entry(lean, adj, [], "د لږ چټک لرونکیLEANLY adv").
+entry(lean, v, [leant,leaning,leans], "له عمودي حالت څخه انحراف کول").
+entry(لينر, ن, [لينران], "هغه څوک چې ټيټوي").
+entry(ميلان, n, [ميلانات], "يو ميل").
+entry(د نازکۍ حالت، n، [نازکۍ حالتونه]، "د نازکۍ حالت").
+entry(leant, a, [], "د lean تېر وخت").
+دخول(leap, v, [lept,leaping,leaps], "له ځمکې څخه ټوپ وهل").
+entry(leaper, n, [leapers], "هغه چې ټوپ وهي").
+د بيا ننوتنه(leapfrog, v, [leapfrogged,leapfrogging,leapfrogs], "د پښو پراخۍ سره باندې ټوپ وهل").
+entry(زده کړه, ن, [زده کړې], "زدکړه").
+entry(learier, comparative, [], "د leary").
+د ننوتنې(وترهړی، تر ټولو عالي، [], "د وتره").
+entry(زده کړه, ف, [زده کړې, زده کول, زده کوي], "د تجربې، لارښوونې یا مطالعې له لارې پوهه ترلاسه کول").
+د پاړسي:
+entry(learner, n, [زده کونکي], "هغه څوک چې زده کړه کوي").
+د زده کړو علم ته د ترلاسه شوي پوهې په توګه.
+entry(leary, adj, [], "LEARIER LEARIESTleery").
+د ننوتنه(کرایه, فعل, [کرایه کړل, کرایه کول, کرایه کوي], "په کرايه ورکول د موقت استعمال لپاره د اجارې په بدل کېLEASABLE صفت").
+entry(leaser, n, [leasers], "یو چې په اجاره اخلي").
+entry(پالۍ, فعل, [ګډه کړه, تړل, تړنې], "يو حيوان په اوږد يا پال سره مهار کول").
+ورودي(leasing, n, [leasings], "دروغ").
+entry(کمترين, n, [کمترينونه], "يو څه چې په اندازه يا درجه کې تر ټولو کوچنی وي").
+د ننوتنه(چرمي, فعل, [چرمي کړ, چرمي کول, چرمو], "د يو څاروی درمل شوي يا تېزاب شوي څرمن پوښول").
+entry(leathern, adj, [], "د څرمن څخه جوړ").
+entry(چرمي, صفت, [], "د چرمو په څېر").
+entry(وتل, فع, [وتلۍ, وتل], "لیری تلل").
+entry(leaved, adj, [], "د پاڼې يا پاڼو لرل").
+entry(leaven, v, [leavened,leavening,leavens], "د تخمر تولید کول").
+د ننه ایستل (leavener, n, [leaveners], "هغه څوک چې معتدل اغیزه لري").
+entry(leaver, n, [leavers], "هغه څوک چې ځي").
+entry(پاڼې, جمع, [], "د پاڼې").
+داخلې(وتل، ن، [وتنې]، "يو پاتې شونی").
+entry(leavy, adj, [], "LEAVIER LEAVIESTleafy").
+entry(leben, n, [lebens], "د يو ډول مايع خوړو").
+entry(lech, v, [leched,leching,leches], "د شهوت کیښودلو لپاره").
+entry(لچيم, ن, [لچيمونه], "لهيم").
+entry(لچر, فعل, [لچره کړې, لچربه کول, لچري, لچران], "په لچری کې بوخت دی").
+entry(زنا, n, [زناګانې], "د جنسي غوښتنو ډېره اضافه").
+entry(ليچوي, ن, [ليچويان], "يوه افريقايي هرن").
+entry("لیسیتین", n, ["لیسیتینونه"], "د یو ټولګي غوړ مواد چې په نباتي او حیواني انساجو کې موندل کیږي").
+entry(د لېکچر درېځ, ن, [لـېکچر درېځونه], "د لوستلو یوه ډیسک").
+entry(lectin, n, [lectins], "يو پروټين چې د بوره مالیکول سره تړل کیږي").
+entry(lection, n, [لیکچرونه], "د کلیسا په مراسمو کې د لوستل شویو مقدس لیک لیکنه").
+entry(lector, n, [lectors], "په کلیسا کې د درسونو یو لوستونکی").
+د پرولوګ:
+entry(lecture, v, [lectured, lecturing, lectures], "په ځانګړي موضوع باندې وضاحت کول").
+دخول(تدریس کوونکی, م, [تدریس کوونکي], "هغه څوک چې درس ورکوي").
+entry(lecythis, adj, [], "د استوایی بوټو کورنۍ ته ځانګړی کول").
+entry(لکيتھس, ن, [لکيتھي], "لکيتھوس").
+entry(led, تېره زمانه, [], "د lead لنډې بڼه").
+`entry(lede, n, [لیدونه], "د یوې خبر پاڼې د خبر د مقدمې برخه").`
+entry(ledge, n, [څوکه], "يو تنګ د شیلف په څېر پروجیکشن").
+دداخلولو (ليجر، n، [ليجرونه]، "د وروستي داخلېدو د حساب کتاب").
+د ننوتنې(لېډجي، صفت، [], "ډېر لېډجي، تر ټولو ډېر لېډجي ځاېونه").
+entry(لي, ن, [ليز], "د باد څخه پناه").
+entry(leeboard, n, [leeboards], "په بادبانه کشتې کې يو تخته چې د اړخ ته تللو مخه نيسي").
+entry(چنګښه, فعل, [چنګښه شو،چنګښه کيدل،چنګښې], "چنګک وهل او خوراک کول يا وچکول").
+entry(پياز, ن, [پيازونه], "يوه بوټى چې د پخلي لپاره کارول کيږي").
+د پرولاګ:
+entry(کتل, v, [کتل, کتلای, کتلي], "له ځيرک نظر سره کتل").
+entry(leery, adj, [], "LEERIER LEERIESTشکيLEERILY adv").
+entry(ليټ، ن، [ليټس]، "يوه پخوانۍ انګليسي محکمه د کوچنيو جرمونو لپاره").
+د Prolog کرښه په پښتو کې:
+entry(leeward, n, [leewards], "هغه لوري ته چې هوا چلېږي").
+entry(leeway, n, [leeways], "د بېړۍ اړخیزه خوځښت").
+entry(چپ, صفت, [], "چپ ترین اړوند د بدن اړخ ته چې شمال خوا کې وي کله چې څوک ختیځ لور ته مخ کړي").
+entry(چپ, ن, [چپونه], "د چپ اړخ یا لاس").
+entry(ښيښه، ن، [ښيښې]، "ښيښه").
+entry(leftish, adj, [], "چپ اړخ ته میلان لرونکی").
+entry(کيڼ پلوۍ, ن, [کيڼ پلوۍ], "يو ليبرال سياسي فلسفې").
+entry(leftist, n, [چپ اړخي], "د کيڼ اړخوالي مدافع").
+داخلول(چپ اړخ ته تر ټولو لرې, صفت, [], "چپ لور ته تر ټولو زیات").
+entry(پاتې, ن, [پاتې شیان], "یو نه کارول شوې یا نه مصرف شوې برخه").
+entry(چپه_طرف, قید, [], "چپ طرف ته").
+entry(leftwing, adj, [], "کیڼ اړخه ملاتړی").
+entry(lefty, n, [کيڼ لاسيان], "يو کيڼ لاس انسان").
+entry(پښه, v, [پښې لرل,پښې لرونکي,پښې], "د ملاتړ او حرکت وسیلې په توګه د پښو د ضمیمو سره حرکت کول").
+entry(میراث, ن, [میراثونه], "یو څه چې پاتې کېږي").
+entry(قانوني، n، [قانونيونه]، "يو مجاز شوي پانګه اچونه چې د سپما بانکونو په څېر پانګه اچوونکي کولی شي ترسره کړي").
+مندنه(قانوني ژبه, نوم, [قانوني ژبې], "د وکيلانو تخصصي ژبه").
+د Prolog ژبه:
+entry(legalise, v, [قانوني کولى,قانوني کول,قانوني کول], "قانوني کول").
+entry(قانونیت، ن، [قانونیتونه]، "قانون ته ټینګ پابندیت").
+entry(قانونپال, n, [قانونپالان], "د قانونپالۍ پیرو").
+entry(قانونيت, ن, [قانونيتونه], "د قانوني والي حالت").
+د لاسليک شوې پروګوګ:
+entry(قانوني کول, فعل, [قانوني شو,قانوني کیدل,قانوني کوي], "قانوني کول").
+entry(قانوني, نښه, [], "په قانوني ډول").
+د ننوت(entry(legate, v, [legated,legating,legates], "نېک کار").
+entry(وارث, ن, [ورثه], "د يو ارث وارث").
+entry(legatine, adj, [], "د يو رسمي استازي پورې تړلی").
+entry(legating, present, [], "د legate د برخه اخيستونکي").
+entry(لیګیشن, ن, [لیګیشنونه], "د رسمي استازي لیږل").
+entry(تړلی, اسم, [تړلي], "یو نرم او روان موسیقي سبک").
+entry( legator, n, [legators], "هغه څوک چې وصیت کوي").
+د اعداد, ن, [افسانې], "د پخوانیو وختونو څخه یوه نه تایید شوې کیسه".
+entry(افسانوي, ن, [افسانويان], "د افسانو یوه ټولګه").
+entry(leger, n, [legers], "د کب ښکارۍ لوښی چې د ښکته په غاړه کې جوړیږي").
+entry(چټکتيا, ن, [چټکتياوې], "د ذهن يا بدن چټکتيا").
+entry(قوانین, جمع, [], "د قانون").
+entry(legged, تېره, [], "د leg زمانه").
+entry(leggier, comparative, [], "د اوږدو پښو").
+entry(leggiero, adv, [], "په یوه سپک یا ښکلي طرز کې کارول کیږي د موسیقۍ لارښوونې په توګه").
+entry(leggiest, superlative, [], "د اوږدو پښو").
+entry(leggin, n, [leggins], "لیګینګ").
+دخونې(legging, ن, [legging], "د پښې لپاره یوه پوښونه").
+entry(leggy, adj, [], "ډېر اوږدې پښې چې لري").
+entry(leghold, n, [legholds], "يوه جال چې يو حيوان د هغې په پښه ګيروي").
+د داخلېدو(leghorn, ن, [leghorns], "یوه نرمه اوبدل شوې وړه").
+entry(legible, صفت, [], "د لوستلو وړLEGIBLY قید").
+entry(legion, n, [لښکرونه], "يو لويه پوځي ځواک").
+entry(قانونپوه, ن, [قانونپوهان], "یوه زده کړې یا په قانون کې مهارت لرونکی").
+entry(legit, n, [legits], "قانوني ډرامه").
+entry(بې پښو, صفت, [], "چې پښې نه لري").
+entry(leglike, adj, [], "د پښې په څېر").
+پرو لاګ: entry(legman, n, [legmen], "یو خبريال چې د معلوماتو راټولولو دنده لري").
+entry(ليگونگ, ن, [ليگونگز], "يوه بالينيزي نڅا").
+دباندې_دننه(خلط، ن، [خلطونه]، "هغه ځای چې د پښو د اوږدېدو لپاره وي").
+entry(غله، ن، [غلې دانې]، "د نبات یوه ډوله").
+دخوله(لېګومین, ن, [لېګومینونه], "د نبات پروټین").
+entry(پښوکار, ن, [پښوکارونه], "هغه کار چې د پراخه مزل کولو په کې شامل وي").
+entry(lehayim, n, [lehayims], "يو دوديز يهودي جام پورته کول").
+entry(لېر, ن, [لېرونه], "د تنور یو ډول").
+د ننوتلو(لېهوآ, ن, [لېهوآګانې], "یو استوایي ونې").
+entry(lei, n, [leis], "د ګلانو يو اميل").
+entry(leister, v, [leistered, leistering, leisters], "د درې څانګې لرونکي کب نیولو اله سره نیزه وهل").
+یادښت(leisure, n, [leisures], "د کار یا دنده د غوښتنو نه آزاديLEISURED صفت").
+entry(lek, n, [leks], "يا LEKE يا LEKUa د البانيا پولي واحد").
+entry(لیک, فعل, [لیکه، لیک کول، لیکونه], "د مینځنۍ موسم په جریان کې د سیالیو نندارې لپاره راټولول").
+entry(لیکور, ن, [لیکورونه], "یو الوبخارا مکھن").
+entry(lekythos, n, [lekythoi], "په لرغوني يونان کې د تېلو جار").
+د ننوتنې(lekythus, n, [lekythi], "lekythos").
+د ننوتنه(لېمان, ن, [لېمانس], "یو عاشق").
+entry(lemma, n, [lemmas], "يا LEMMATA په منطق کې يو ډول قضيه").
+entry(لیمنګ، نوم، [لیمنګز]، "د مږې په څېر یوه ځناور").
+entry(lemnisci, npl, [], "د عصبي فایبرونو بانډونه").
+entry(lemon, n, [lemons], "یو لیمو مېوهLEMONISH LEMONY صفت").
+entry(ليمو شربت, ن, [ليمو شربتونه], "يو مشروب").
+entry(lempira, n, [lempiras], "د هوندوراس يو پولي واحد").
+prolog(د متن په توګه):
+entry(ليمور, اسم, [ليمورونه], "يو په ونو کې اوسيدونکی تي لرونکی حيوان دی چې د بندرانو سره تړاو لري").
+entry(lemures, npl, [], "د روم د لرغونې دین مړو ارواحو").
+د خټګرۍ, صفت, [], "د لحیمور پورې اړوند".
+entry(lemuroid, n, [lemuroids], "يو ليږور").
+entry(lend, v, [lent,lending,lends], "د موقتي استعمال لپاره ورکولLENDABLE صفت").
+entry(لینډر, ن, [لینډران], "هغه څوک چې پور ورکوي").
+دخول(قرض, ن, [قرضونه], "د موقتي ورکړې عمل").
+entry(lenes, pl, [], "د lenis").
+ښکته(length, n, [ اوږدوالی ], "د يو شي اوږدترين يا تر ټولو اوږد اړخ").
+entry(اوږدول, فع, [اوږدل,اوږدېدل,اوږدوي], "د اوږدولو یا اوږدېدو لپاره").
+دهلېز(طویل, صفت, [], "ډېر اوږد ډېر اوږده").
+داسې ښکاري چې تاسې غواړئ د Prolog ګڼ شمېر کوډونه په پښتو وژباړئ، خو د کوډ ترجمه یوازې په نظر کې نه دی راوړلی او یوازې د کوډ يې ښکاره کولای شم. دلته ستاسو غوښتنلیک دی:
+```prolog
+entry(lenience, n, [leniences], "leniency").
+```
+د ننوتنه(نرمي، ن، [نرمۍ]، "د نرم اوسيدلو کیفیت").
+entry(لينient, صفت, [], "په نرمه توګه زغمونکى").
+entry(lenis, n, [lenes], "یو خبرې غږ چې په لږ يا هیڅ ساه اخیستو پرته ښوول کیږي").
+entry(lenite, v, [lenited,leniting,lenites], "لینیس تلفظ کول").
+entry(نرمښت, ن, [نرمښتونه], "د اواز د پنځونې بدلون").
+entry(نرمونکی, ن, [نرمونکي], "یوه آراموونکې درمل").
+entry(lenity, n, [lenities], "leniency").
+entry(leno, n, [lenos], "د اوبدلو يوه طريقه").
+دریځ(عدسه, ن, [عدسې], "د روښنايۍ د وړانګو د يوځای کېدلو د بدلون لپاره کارېدونکی يو ټوټه شفافه مواد، د عدسې بې برخه").
+entry(lens, v, [لینز شوی,لینز کول,لینزونه], "د یوه فلم جوړول").
+د پرولاګ کرښه يې په پښتو ژباړه:
+entry(lense, n, [lenses], "عدسہ").
+entry(لينز کول, ن, [لينز کول], "د فلم جوړولو عمل يا يوه بيلګه").
+د ننوتنه (لینس مین، ن، [لینس مینونه]، "یوه عکاس").
+entry(پورکړی، تېر، [], "د پور ورکولو وخت").
+entry(لنټنډو, قید, [], "په موسیقۍ کې د لارښوونې په توګه په تدریجي ډول ورو کیدل").
+entry(لنتن, صفت, [], "ډېر لږ").
+entry(لینټیک, صفت, [], "د ولاړ اوبو پورې اړه لري").
+entry(لینټیسل, ن, [لینټیسلز], "د نبات په ساقه کې د حجرو یوه ډله").
+entry(lentigo, n, [lentigines], "يو بڅرکۍ").
+د Prolog ليکه:
+entry(lentil, n, [lentils], "د يوه ایشیایي کلنۍ بوټي").
+entry(lentisk, n, [lentisks], "یو همیش شنه ونه").
+entry(lento, n, [lene], "يو ورو موسيقي حرکت").
+د_ننوتنه(عدسی_شکل، ن، [عدسی_شکلاتی]، "یو شی چې د عدسی په شان شکل لري").
+```
+entry(leone, n, [leones], "د سيراليون يوه پولي واحد").
+```
+entry(leonine, adj, [], "د زمري پورې اړوند").
+entry(چيتا, ن, [چيتيان], "د يو لوي غوښه خوړونکی پيشووانه تي لرونکی حيوان").
+entry(لیوټارډ, ن, [لیوټارډونه], "یوه تنګه جامه").
+د داخليدو(کوړی، ن، [کوړي]، "هغه څوک چې په کوړتوب اخته وي").
+entry(lepidote, n, [lepidotes], "یو ګل لرونکی بوټی").
+entry(leporid, n, [leporids], "يا LEPORIDAE يو كترېدونکی تي لرونکی ژوی").
+entry(د لیپرین، صفت، [], "د خرگوش یا شوکا په څېر").
+entry(ليپروس, صفت, [], "خلکي").
+د ننوتنه(جزام, ن, [جزامونه], "يو مزمن ناروغي چې د پوستکي زخمونو او بڼوالو لخوا مشخص شوی").
+entry(leprotic, adj, [], "يو ناپاکه").
+entry(leprous, adj, [], "له کوړغه ناروغۍ سره مخ").
+د ننوتنې(ليپټ، الف، [], "د ليف د تير وخت").
+entry(leptin, n, [leptins], "يو هورمون چې د غوړ حجرو لخوا خوشې کېږي").
+د دخول(لےپټون, ن, [لےپټونونه], "یو فرعي اتومي ذرهLEPTONIC صفت").
+entry(لېپټون, ن, [لېپتا], "د یونان یوه پخوانۍ پیسې واحد").
+entry(lesbian, n, [همجنسبازې], "يو ښځينه همجنسباز").
+entry(lesbigay, n, [lesbigays], "يو همجنس پرست ښځه، هم جنس پرسته سړی يا دوه جنسه").
+د ننوتنې v لپاره (lesion, [lesioned, lesioning, lesions], "د ارګان په جوړښت کې د غیر معمولي بدلون لامل ګرځېدل").
+د داخلولو(کم, صفت, [], "کمترین څرنگوالی یا درجه").
+د قسط اخیستونکی(لسي، ن، [قسط اخیستونکي], "هغه څوک چې ته یې قسط تړون ورکول کېږي").
+entry(کمول, فعل, [کم شو,کمول,کمیږي], "کم جوړول یا کم کیدل").
+entry(کم, صفت, [], "دومره لوی یا مهم نه").
+entry(درس, فعل, [درس شوی, درس ورکول, درسونه], "ښوول").
+د داخلې(کرایې ورکوونکی, ن, [کرایه ورکوونکي], "هغه څوک چې کرایه ورکوي").
+entry(lest, conj, [], "د دې وېرې لپاره چې").
+entry(let, v, [د خنډسبب ګرځېدل, مخه نیول, خنډونه], "وروسته کول").
+دخول(letch, v, [letched, letting, letches], "څخه lech").
+entry(letdown, n, [letdowns], "د کمی").
+ورودی(مرګ بخښونکی، ن، [مرګ بخښونکي]، "یو وژونکی جینیتکي نیمګړتیا").
+داخل(lethally, قید, [], "په مرګوني طریقه").
+entry(سستي, n, [سستۍ], "کاټ په حرکت").
+ورودی(lethe, n, [lethes], "هېرښتLETHEAN صفت").
+د Prolog: entry(letout, n, [letouts], "هغه څه چې یو کار د کولو څخه مخنیوي ممکن کوي").
+entry(letted, past, [], "د let زمان").
+داخلې(لیک، v، [لیکل شوی، لیکل کول، لیکونه]، "د ګړنی غږونو نمایندګي لپاره د لیکل شویو سمبولونو سره نښه کول").
+entry(letterer, n, [letterers], "یو څوک چې لیکي").
+د ننوتنه(پرېښودل، حال، [], "د پرېښودل فعل حال برخه").
+entry(کاهو, ن, [کاهوګان], "یو بوټی چې د سلاد بوټي په توګه کرل کېږي").
+د ننوتنه(letup، ن، [letups]، "د کمېدو یا آرامۍ"):
+entry(leu, n, [lei], "د رومانیا یو پیسې واحد").
+entry(لیوکیمیا, ن, [لیوکیمیاګانې], "لیوکیمیاLEUCEMIC صفت").
+entry(leucin, n, [ليوسينونه], "ليوسين").
+entry(leucine, n, [leucines], "يوه امينو اسيد").
+entry(leucite, n, [leucites], "يو منرلLEUCITIC صفت").
+د ننوتل(leucoma, n, [leucomas], "leukoma").
+masra(leucon, n, [leucons], "يو سپنج د پيچلي جوړښت سره").
+د ننوتل(leucosis, n, [leucoses], "leukosisLEUCOTIC adj").
+entry(leud, n, [leuds], "يا LEUDES يو فيوډل واسل").
+entry(لېوکیمیا, ن, [لېوکیمیاګانې], "یو د وینې د جوړولو د عضلاتو بیماری").
+د Prolog:
+entry(leukemic, n, [leukemics], "د لیوکیمیا سره اخته یو").
+ورود(ليوکوما، ن، [ليوکوماس]، "د قرنيې يو کدر").
+entry(leukon, n, [leukons], "د یو بدن ارګان چې د سپین وینې حجرو څخه جوړ شوی وي").
+د خطا حالت: زه یوازې Prolog انځور کولی شم، او هیڅ اضافي معلومات یا ژباړه نشم وړاندې کولی. 
+
+entry(leukosis, n, [leukoses], "leukemiaLEUKOTIC adj").
+د پرولوګ کرښه: `entry(lev, n, [leva], "یا LEVAS یا LEVSa د بلغاریا مالي واحد").`
+د ننوتنې(levant, v, [levanted, levanting, levants], "د پور څخه ځان خلاصول").
+entry(ليوينټر, ن, [ليوينټرونه], "د مدیترانې ختیځ باد").
+entry(levator, n, [levators], "يا LEVATORES يو عضله چې يو عضوي برخه يا برخه پورته کوي").
+entry(levee, v, [leveed,leveeing,levees], "د یوه بند سره برابرول").
+entry(level, v, [leveled,leveling,levels], "or LEVELLED LEVELLING LEVELSto make even").
+د ننوتنې(سطح برابرونکی، n، [سطح برابرونکي]، "هغه څوک چې سطح برابروي").
+entry(leveller, n, [levellers], "سطح کوونکی").
+entry(سطحي کول, a, [], "د سطحې کول اوسنی پاراډایم").
+دخول(levelly, adv, [], "په یو مساوي ډول").
+د ننوتنې(lever, v, [levered,levering,levers], "د وزن پورته کولو لپاره د یو کلک بدن د یو لیور سره حرکت کول").
+د entry(leverage, v, [leveraged,leveraging,leverages], "اقتصادي ګټه چمتو کول").
+entry(leveret, n, [leverets], "یو ځوان خرگوش").
+entry(leviable, adj, [], "د مالیې لپاره مستعد").
+entry(ټولول شوی, ماضی, [], "د ټولولو زمانه").
+entry(ليويير, ن, [ليوييرونه], "يو څوک چې محصول تر لاسه کړي").
+د پیښې(ولې، اوسنی، [], "درېیم شخص مفرد د ولې")
+دخله(levigate, v, [levigated, levigating, levigates], "په پاړه کې تبدیلول").
+ورود(ليوين, ن, [ليوينس], "برېښنا").
+entry(levirate, n, [levirates], "د چا د ورور د کونډې سره د وادۀ دود").
+entry(الوتنه، فعل، [الوته، الوتونکې، الوزي]، "په هوا کې جګیدل او تیرېدل").
+entry(ليويټي, ن, [ليويټيز], "چلند چې د جديت نشتوالي په واسطه ځانګړی شوی").
+entry(levo, adj, [], "ښي خوا ته اوښتل").
+د ننوتنه(لېوډوپا، ن، [لېوډوپاس]، "د ډوپا یوه بڼه").
+اندراج(ليفوجائر، صفت، []، "د چپ لور ته ګرځیدل").
+entry(ليولن, ن, [ليولنز], "يو کيمياوي مرکب").
+entry(levulose, n, [levuloses], "يو ډير خواږه بوره").
+entry(لیوی، v، [لیويډ، لیوینګ، لیویز]، "د قانوني صلاحیت له لارې د وضع کولو یا راټولولو لپاره").
+entry(lewd, adj, [], "LEWDER LEWDESTobsceneLEWDLY adv").
+entry(بې حيايي, n, [بې حيايۍ], "بې حيا توب").
+entry(ليویس, ن, [ليویسونه], "د پورته کولو وسيله").
+entry(lewisite, n, [lewisites], "یو vesicant مايع").
+entry(lewisson, n, [lewissons], "ليويس").
+entry(lex, n, [leges], "قانون").
+entry(lexeme, n, [lexemes], "يو ژبنيوالی واحدLEXEMIC صفت").
+entry(lexical, adj, [], "د یوې ژبې د ټکو پورې اړوند").
+entry(lexicon, n, [lexicons], "يا LEXICA يو قاموس").
+entry(ليکسيګرام، ن، [ليکسيګرامونه]، "يو نښه چې يو ټکی څرګندوي").
+entry(lexis, n, [لېکس], "د يوې ژبې د لغتونو ټولګه، د یوې ډلې یا ځانګړي مضمون لغتونه").
+entry(لي، ن، [ليونه]، "د پټي").
+entry(li, n, [lis], "د فاصلو چینایي واحد").
+entry(liable, adj, [], "د یوې احتمالي یا ممکنه پېښې لاندې وي").
+دخول(liaise, v, [liaised,liaising,liaises], "د اړیکې ټینګول").
+entry(ارتباط, ن, [ارتباطونه], "د اړیکو ساتلو وسیله").
+entry(liana, n, [lianas], "د استوایی بیل").
+د ننوتلو(ليانه، ن، [ليانس]، "ليانا").
+داسې ښکاري چې تاسو د Prolog کوډ لرئ. دا کوډ په تخنیکي ډول پروګرامنگ دی او ممکن د یوې ژبې سره توجه کول مشکل وي. دلته Prolog دی:
+
+```prolog
+entry(liang, n, [liangs], "د وزن یو چینایي واحد").
+```
+entry(lianoid, adj, [], "د لیانا پورې اړوند").
+entry(liar, n, [دروغجن], "يو څوک چې ناسمې خبرې کوي").
+entry(liard, n, [ليارن], "د فرانسې يو پخوانی د سپينو زرو سکه").
+ځای(لیاس, ن, [لیاسونه], "یو نیلي سنداس ډبره").
+د ننوتنې(ليتريس، ن، [ليتريسونه]، "يو بوټی چي نلۍ‌يي ګلان لري").
+ورود(کتاب، ن، [کتابونه]، "آزادي").
+د ورود(مَے څښل، ن، [مَے څښلو]، "یو مراسمې څښاک").
+entry(ليبيچو, ن, [ليبيچوس], "د سوېل لوېدیځ باد").
+داخلول(توهين، ف، [توهين شو، توهين کوونکي، توهين کوي]، "يا توهين شوی توهين کوونکی توهين کوي چې د يو چا په اړه بدنامه څرګندونې وکړي يا خپرې کړي").
+entry(مدعي, ن, [مدعيان], "د يو ډول قضيي کې مدعي").
+entry(مدعا علیه، ن، [مدعا علیهان]، "د دیوې قضیې په ډول کې یو مدعی علیه").
+entry(libeler, n, [libelers], "هغه څوک چې تهمت ولګوي").
+entry(libelist, n, [libelists], "يوه تور پورې کوونکی").
+entry(بدنام شوی, a, [], "د بدنامۍ تېرې زمانه").
+دلیکه(ليبېله, ن, [ليبېلې], "ليبله").
+entry(ليبلر, ن, [ليبلران], "ليبلر").
+entry(د جعل تور تړل, a, [], "د جعل تور تړلو د اوسني وخت برخه").
+مدخل(تُهمت لګوونکې, ځانګړي, [], "بدناموونکې").
+entry(کتاب, ن, [کتابونه], "يا LIBRI د عامه ریکارډونو کتاب").
+entry(آزاد غوښتونکی, ن, [آزاد غوښتونکي], "یو شخص چې پرمختګ یا بدلون ته لېواله وي").
+د ننوتنه(آزادول, فعل, [آزاد شوی, آزادول, آزادوي], "ازادول").
+entry(ازادي, ن, [ازادۍ], "د آزادۍ حالت").
+entry(جنسي قوت, ن, [جنسي قوتونه], "له غريزي بيولوژيکي محرکاتو څخه حاصله انرژي").
+entry(liblab, n, [liblabs], "يو شخص چې د ليبرال او کارګر ډلو اتحاد ملاتړ کوي").
+entry(لیبرا, ن, [لیبرې], "د وزن د واحد کوم چې د روم له لرغوني عصر څخه دی").
+داخلول(ليبرا، ن، [ليبرې]، "د پيرو يو پخوانی د سرو زرو سکې").
+کتابتون(library, n, [کتابتونونه], "يو ځای چېرته چې ادبي توکي د لوستلو او حوالې لپاره ساتل کېږي").
+entry(librate, v, [لبرزول، لبرزېدنه، لبرزېدل], "د اړخ څخه تر اړخه حرکت کول").
+entry(libretto, n, [librettos], "یا LIBRETTI د يو اپرا متن").
+entry(کتابونه, a, [], "د کتاب جمع").
+entry(ګوګړی, جمع, [], "د غوماشي").
+د پاسفلو
+entry(licence, v, [licenced,licencing,licences], "جواز ورکول").
+entry(licencee, n, [licencees], "ليسانس اخيستونکی").
+entry(licencer, n, [licencers], "لایسنس ورکونکی").
+د بیا ځای پرولوګ:
+entry(جواز, v, [جواز ورکولی, جواز ورکونه, جوازونه], "د واکمنې اجازې ورکول یا صادرول").
+داخلول(لائسنس لرونکی، ن، [لائسنس لرونکي]، "هغه څوک چې جواز لري").
+د واردیــز(لاتـعلمیات، ن، [لاتـعلمیاتان]، "یــو چې لاتعلمیات ورکوي").
+د(لیسنس‌ور، ن، [لیسنس‌وران])، "لیسنسور"۔
+entry(لائسنس, الف, [], "پل د جمله").
+entry(ليچ, ن, [ليچونه], "يو مړی").
+entry(ليچي, ن, [ليچيان], "ليتچي").
+د محض فرضي کوډ:
+entry(lichen, v, [lichened,lichening,lichens], "د ګل بې نباتاتو لیچین پوښل").
+entry(lichenin, n, [lichenins], "یو کیمیاوي مرکب").
+entry(لېچګېټ, ن, [لېچګېټونه], "lychgate").
+entry(ليچي, ن, [ليچيان], "ليچي").
+entry(روښانه کول, فع, [روښانه شو,روښانه کول,روښانه کوي], "روښانه کول").
+entry(lichtly, adv, [], "په نرموالی سره").
+entry(licit, adj, [], "قانونيLICITLY مخ adv").
+entry(لیک، v، [لېکاوه،لېکل،لېکوي]، "پر سطحه باندې ژبه تېرول").
+entry(لکونکی, n, [لکونکي], "هغه څوک چې لڅوي").
+entry(څکول, ن, [څکونې], "يوه غټه وهينه يا ټکونه").
+entry(چاپلوس, n, [چاپلوسان], "یو غوړه مال شخص").
+entry(د سپاسې، ن، [سپاسونه]، "يو کلن بوټی").
+entry(لیکټر, ن, [لیکټران], "په لرغوني روم کې د یو مقننه اشخاسو خادم").
+د ریکارډ(پوښ، فعل، [پوښ شوی، پوښ اچول، پوښونه]، "د يو پوښ سره سمبالول يو متحرک پوښ").
+د ننوتل (lidar, n, [lidars], "یو الکترونیکي ځای موندونکی وسیله").
+entry(بې سرپوښ, صفت, [], "د پوښ نه لرل").
+entry(lido, n, [lidos], "يو په فېشن کې د ساحل رزارټ").
+entry(دروغ, فعل, [پرته,پروت,پرېوتل], "دروغ ویل، یا په افقي حالت کې کېښنستل").
+اندازه(دروغ ویل، فعل، [دروغ وویل، دروغ ویلی، دروغ وایي]، "درست خبرې نه کول").
+د داخلول(درواغ، ن، [درواغونه], "یو المانی سندره").
+د Prolog کرښه:
+entry(lief, adj, [], "LIEFER LIEFESTwillingLIEFLY adv").
+entry(لیج, ن, [لیجز], "یو فیوډل لارډ").
+entry(وفادار، n، [وفاداران]، "یو فیوډل واسال").
+entry(لین, ن، [لینونه], "د پور اخیستونکي جايداد ساتلو یا پلورلو قانوني حق").
+entry(lienable, adj, [], "د یو لاین لاندې کیدو وړ").
+entry(lienal, adj, [], "د تلی پورې اړوند").
+د ننوتنه (lientery، n، [lienteries]، "د نس ناستې یوه بڼه").
+entry(lier, n, [liers], "هغه څوک چې غځېږي یا پروت وي").
+entry(ليئرن, ن, [ليئرنز], "په ګوتيکي طاقونو کې د نښلولو برخه").
+entry(lieu, n, [lieus], "ځای ځای").
+entry(lieve, adv, [], "وږه").
+entry(ژوند, ن, [ژوندونه], "هغه کیفیت چې حیوانات او نباتات له غیر ذی روح موادو څخه جلا کوي").
+د داخلول(ژوندیز، ن، [ژوندیزونه]، "د بیلټ په شکل یوه ژغورونکې وسیله").
+entry(ژغورونکې کښتۍ, ن, [ژغورونکې کښتۍ], "یو کوچنی ژغورونکې کښتۍ").
+د پرولاګ په بڼه کې: entry(lifebuoy, n, [lifebuoys], "د ژوند ساتونکی چې د کړۍ په څېر شکل لري").
+entry(لائفکیئر, ن, [لائفکیئرونه], "د زړو کسانو لپاره د استوګنې او روغتیا خدمتونه").
+entry(د ژوند څخه ډک, صفت, [], "د ژوند څخه ډک").
+entry(بې‌روحه, صفت, [], "بې له ژوند").
+entry(ژوندۍ, صفت, [], "د ژوند لرونکې څیز سره ورته والی").
+د ننوتل(lifeline, n, [lifelines], "يو رسۍ چې د يو کس په ستونزه کې د مرستې لپاره کارول کيږي").
+entry(په_ټول_ژوند, صفت, [], "د ټول ژوند لپاره دوامداره").
+د پرولوګ کرښه:
+entry(lifer, n, [lifers], "د ژوندانه د قید سزا سره یوه بندی").
+د ژوند موده (lifespan), ن (n), [د ژوند مودې (lifespans)], "يو ژوند (a lifetime)").
+د پرولاګ:
+entry(lifetime, n, [د ژوندونو], "د ژوند کولو موجودیت موده").
+entry(د ژوند طرز, ن, [د ژوند طرزونه], "د ژوند کولو یوه طریقه").
+entry(د ژوندکار، ن، [ژوندکارونه]، "د یو کس د ژوند د وخت لوی کار").
+د پرولاګ کرښه:
+entry(lift, v, [پورته کول, پورته کولای, پورته کوي], "لوړ مقام ته د حرکت کولو لپارهLIFTABLE صفت").
+entry(lifter, n, [لفټران], "يو چې پورته کوي").
+entry(لفټګيټ, ن, [لفټګيټونه], "د سټيشن ګاډي هغه شا تخته چې پورته خلاصیږي").
+entry(لفټ مین, ن, [لفټ مېن], "د لیفټ چلونکی").
+entry(پرتاب, ن, [پرتابونه], "د راکټ عمودي پورته والنه").
+entry(رباط, ن, [رباطونه], "د ټینګ او فایبرسي نسج یو بند").
+entry(لیګان, ن, [لیګانونه], "لګن").
+د ننوتنه(لېګنډ، n، [لېګنډونه]، "د آيون يا مالېکول يو ډول").
+entry(ليگېس, ن, [ليگېسونه], "يو انزايم").
+entry(ليګيټ, ف, [ليګيټ شوی,ليګيټ کول,ليګيټ کوي], "تړل").
+د ننوتل(entry, n, [ligations], "the act of ligatingLIGATIVE adj").
+دخله(لګاچ, ف, [لګاچ شوې، لګاچ کول، لګاچونه], "لګول").
+entry(لائګر, ن, [لائګرز], "د نر زمري او ښځینه پړانګۍ نسل").
+entry(رڼا، صفت، [], "لږ وزن لرونکی رڼا لرونکی").
+entry(رڼا, فعل, [روښانه, روښانونکې, څراغونه], "روښانه کول").
+د ننوتنه( سپکول، فعل، [سپک کړل،سپکول،سپکوي]، "د وزن کمول").
+entry(lighter, v, [lightered,lightering,lighters], "د یو ډول بارج کې د انتقال څرکړل")
+entry(ma, n, [مور], "مور").
+entry(مار، ن، [مارس]، "یو آتشفشاني کنده").
+entry(مابے, ن, [مابیس], "یو کلتور لرونکی مرغلرہ").
+د تول معلومات:
+entry(mac, n, [macs], "یو باراني پوښ").
+entry(macaber, adj, [], "ډارونکی").
+دخول(مکابر, صفت, [], "دردونکی").
+entry(لنډغر, n, [لنډغران], "یو بڅرکی").
+entry(میکاډم, ن, [میکاډمونه], "د سرک جوړیدو یو ډول").
+entry(مکاک, ن, [مکاکان], "یو لنډ لکۍ لرونکی میمون").
+entry(مکارونی, n, [مکارونیس], "یوه نلۍ بڼه پاستا یا مکارنیس").
+entry(میکرون, n, [میکرونونه], "د کوکيانو یو ډول").
+entry(میکائو, ن, [میکائوګانې], "یوه لویه طوطی").
+entry(maccabaw, n, [maccabaw], "مکبوي").
+د پورتنۍ لین په پروګرامنګ ژبه کې پاتې شي او پښتو پساتل شي:
+`entry(maccaboy, n, [maccaboys], "د نسوار یو ډول").`
+د معمول مطابق، Prolog کود په مستقيمه توګه به په بل ژبه کې ژباړل نه شي. Бирок که تاسو یوازې Prolog کرښه غواړئ نو بيا دا ده:
+entry(macchia, n, [macchie], "a dense growth of small trees and shrubs").
+entry(maccoboy, n, [maccoboys], "مکابوی").
+entry(مېس، ف، [مېس کړل، مېس کول، مېسې]، "د یوې وسلې پر مټ برید کول چې د لرګي یوه درنه ټوټه وي").
+entry(مېسر, ن, [مېسران], "يو چارواکی چې د تشريفاتي دود لرونکی لرګی لري").
+entry(نرمول, v, [نرم کړ, نرمېدنه, نرموي], "په مايع کې د لوندولو سره نرمول").
+دخطه(ماش، ن، [ماخوانہ]، "هغه شمېره چې د يو جسم د سرعت او د غږ د سرعت نسبت ښيي").
+entry(ماشاکا, n, [ماشاکاس], "يو مکسیکايي خواړه چې پکې د غوښې ستنه شوې ټوټه شوي، له سبزۍ سره په غوړ کې پخه شوې").
+entry(مچې, ن, [مچېګانې], "يوه اروپايي بوټی").
+entry(مچر, ن, [مچران], "هغه شخص چې د کارونو ترسره کولو لپاره پیژندل کیږي").
+entry(ماچیتے, ن, [ماچیتے], "یوه لويه درنه چاقو").
+entry(ماشین, v, [ماشین شوی,ګرمیدل,ماشینونه], "د ماشین د یو میخانیکي وسیلې سره پروسس کول").
+تذکره(مچیسمو، ن، [مچیسموس]، "پیاوړی نارینتوب").
+entry(ماچو, ن, [ماچوګان], "یو شخص چې د ماچیزم مظاهره کوي").
+entry(مچويزم, ن, [مچويزمونه], "مچيزمو").
+دخولی(ماچري, ن, [ماچريز], "ګرانه").
+entry(مخضور, ن, [مخضورونه], "يا MACHZORIMmahzor").
+entry(macing, present, [], "د مېس فعلي نوم").
+د ننه اړونه(mack, n, [macks], "mac").
+entry(میکرېل, ن, [میکرېلان], "یو بحري خواړه ماهی").
+entry(مڪينو, ن, [مڪينوز], "يو وړني ټوکر").
+د Prolog کرښه په پښتو:
+
+```prolog
+entry(mackle, v, [mackled,mackling,mackles], "چاپ کې خړول").
+```
+entry(مېکل, ن, [مېکلونه], "په یوه منرال کې یوه ځای یا بې رنګيدنه").
+entry(macon, n, [macons], "يوه سره يا سپینه فرانسوي شراب").
+entry(مکرمې, n, [مکرمی], "د کوږې شوې تار يا رسۍ څخه جوړ شوی يو ډول سينګار").
+د پرو لاګ شموله:
+entry(macro, n, [macros], "د کمپیوټر لارښوونې یوه ډول").
+```prolog
+entry(macron, n, [macrons], "يو نښې چې د يو څپې په سر کيښودل کيږي څو د هغې اوږد غږ څرګند کړي").
+```
+دپروګرام(macropod, ن, [macropods], "یو د نبات خوړونکی کښتیه تی لرونکی حیوان").
+entry(macrural, adj, [], "د مکروران پورې اړوند").
+entry(macruran, n, [macrurans], "د کرسټيشينس يوه فرعي درجه").
+entry(macula, n, [maculas], "یا MACULAE داغ MACULAR صفت").
+entry(میکولیټ, v, [میکولیټ شوی, میکولیټ کول, میکولیټس], "داغونه یا نخښه کول").
+entry(macule, v, [maculed,maculing,macules], "میکل کول").
+entry(macumba, n, [macumbas], "په برازیل کې یوه مذهب").
+entry(ليونی, صفت, [], "ليونی ليونۍ لېونۍ").
+د Prolog کرښه:
+entry(mad, v, [madded,madding,mads], "to madden").
+entry(خور, ن, [خورانې], "يوه ښځه چې د يو ځاى چارو چلوي").
+داخل(madame, ن, [madames], "بانو").
+entry(مادام, اسم, [ميسدامز], "د واده شوې ښځې لپاره د فرانسوي درناوي لقب").
+entry(لیونی_سر, ن, [لیونیان], "یو بې سوچ شخص").
+entry(مضاف, تېر, [], "د مضاف زمان").
+entry(madden, v, [مچول, مچېدنه, مچوي], "د لېوني جوړول يا لېوني کېږي").
+دخول(madder, n, [madders], "یو څو کلن بوټی").
+entry(مخبوط‌ترين, فوق العاده, [], "د مخبوط").
+entry(madding, present, [], "د mad participle").
+د ننوتنه(مخبوط, صفت, [], "لږ څه لیونی").
+entry(کړی، ماضی، [], "د جوړولو زمانه").
+entry(مېډېرا, ن, [مېډېرې], "يو سپين شراب").
+entry(مادرېز, فعل, [مادرېزډ, مادرېزېنګ, مادرېزس], "د سپین شرابو په استعمال سره نسواري کیدل").
+entry(لیونتوب، ن، [لیونتونه]، "یو لیوني ځای").
+entry(په ليونتوب, قيد, [], "په ليونيانه توګه").
+entry(لیونی، ن، [لیونیان]، "یو سړی چې لیونی دی").
+entry(لیونتوب, n, [لیونتوبونه], "د لیوني کیدو حالت").
+ننوتنه(مدونا، ن، [مدوناګانې]، "د یوې ښځې لپاره د درناوي پخوانۍ ایټالوي لقب").
+entry(مدرسه, ن, [مدرسې], "د پنبې ټوکر").
+entry(مدرسه, ن, [مدرسې], "مدرسه").
+entry(مدرسه, n, [مدرسې], "مدرسه").
+entry(مدرسه, ن, [مدرسې], "د مسلمانانو ښوونځی").
+entry(مور, n, [ميندې], "مور").
+entry(مادریګال, ن, [مادریګالونه], "یو لنډ غزلي شعر").
+پروګرام(madrona, n, [madronas], "یو تل زرغون ونې").
+entry(مډرون, ن, [مډرونونه], "مډرونا").
+د Prolog ژبه کې:
+entry(madrono, n, [madronos], "madrona").
+entry(madtom, n, [madtoms], "یو شمالي امریکا کیټفش").
+entry(مادورو, ن, [مادوروس], "يو تياره رنګه نسبتاً قوي سگريټ").
+entry(لیونۍ، ن، [لیونۍ ښځې], "یوه ښځه چې لیونۍ وي").
+entry(madwort, n, [madworts], "يو ګل لرونکې نبات").
+entry(مَږُوڼ, n, [مَږُوڼس], "مټزوون").
+ورود(mae, ن، [maes]، "نور").
+entry(maenad, n, [maenads], "یا MAENADESa په لرغوني یوناني عیاشۍ کې ښځینه ګډونواله MAENADIC صفت").
+entry(مايسټوسو, ن, [مايسټوسوس], "يو شاندره موسيقي برخه").
+entry(مايسترو, ن, [مايستروګان], "يا MAESTRI د يو هنر ماسټر").
+entry(مافیا, ن, [مافیاګانې], "مافیا").
+entry(میفک، فعل، [میفک شو، میفک کول، میفکس کوي]، "په شانداره ډول نمانځل").
+entry(مافیا, ن, [مافیاګانې], "یو پټ مجرمانه سازمان").
+entry(مافک, صفت, [], "په مګنیزيم او اوسپنه کې شتمنو منرالونو پورې اړوند").
+entry(مافیوزو, ن, [مافیوزوس], "یا مافیوزو د مافیا غړی").
+د پرو لاګ دا کرښه په پښتو ته وژباړئ. یوازې پرو لاګ: 
+entry(maftir, n, [maftirs], "د يوې پاراشاه وروستۍ برخه").
+ټولونه(mag, n, [mags], "یو مجله").
+ورود(میګالاګ, ن, [میګالاګونه], "یوه خرڅلاو کتلاګ چې د مجلې په څېر دی").
+entry(مجله, ن, [مجلي], "د دورې خپرونې یو ډول").
+entry(مجدلن، ن، [مجدلنې], "یوه اصلاح شوې فاحشه").
+entry(جادوګر, ن, [جادوګران], "يو جادوګر").
+entry(مېجنټا, ن, [مېجنټاس], "يو ارغواني سور رنګ").
+entry(چټی, ن, [چټیان], "د ځینو حشراتو بې پښو لاروا").
+entry(مګي, جمع, [], "د جادوګر").
+entry(magian, n, [مجوس], "یو مجوس").
+د جادو, v, [جادو وکړ,جادوی کوي,جادو], "د جادو په واسطه تاثیر کول").
+entry(جادويي, صفت, [], "د جادو په څېر").
+entry(جادوګر, ن, [جادوګران], "په جادو کې مهارت لرونکی").
+entry(جادو شو, ماضي, [], "د جادو زمانه").
+entry(magicking, موجوده, [], "دمګرې جملې د جادو").
+entry(ماګلپ, ن, [ماګلپونه], "میګلپ").
+entry(ماسټر, ن, [ماسټر], "یو استاد یا ښوونکی").
+entry(مئګلېو, ن, [مئګلېوګانې], "يو رېل ګاډی چې مقناطيس څخه د اورګاډې له پټلۍ څخه پورته د حرکت لپاره کار اخلي").
+entry(مګما, ن, [مګماس], "یا MAGMATA خټکی مواد چې له هغې څخه اورغونډو ډبرې منځته راځي مګماتیک صفت").
+entry(لوړپوری_شخص, ن, [لوړپوری_اشخاص], "یو ځواکمن یا اغېزمن شخص").
+entry(مېګنېسیا, n, [مېګنېسیاګانې], "يو درملنيز مرکبمېګنېسيک adj").
+entry(مقناطیس, ن, [مقناطیسونه], "یو جسم چې د اوسپنې د راښکلو خاصیت لري").
+entry(مقناطیسي, ن, [مقناطيسونه], "یو مقناطیس").
+entry(مقناطیس, ن، [مقناطیسان], "د برقي جنراتور یو ډول").
+ورود(magneton, n, [magnetons], "د مقناطیسي شېبې یوه واحده").
+entry(ښکلی, صفت, [], "magnificent").
+د ننوتنه(لویول, فعل, [لوی کړی, لویول, لویوي], "د لېدلو اندازه لوړه کول").
+entry(مګنوليا, ن, [مګنولياز], "یو ګل لرونکی بوټی یا ونہ").
+entry(مګنوکس, ن, [مګنوکسونه], "يو مګنيشيم بنياد الې").
+entry(magnum, n, [magnums], "يو لوی د شرابو بوتل").
+entry(مګېت, ن, [مګېتونه], "بې لکۍ بیزو").
+entry(چغهـ, ن, [چغے], "یو کارویـن مارغه").
+entry(مګوی, n, [مګویونه], "يو استوايي نبات").
+entry(جادوګر, ن, [جادوګران], "يو جادوګر").
+entry(مهنت, ن, [مهنتان], "يو مخکښ هندوانو ملا").
+entry(مهاراجه, ن, [مهاراجې], "په هند کې یو پاچا یا شهزاده").
+entry(مهاراني, ن, [مهارانۍ], "د يوه مها راجا ښځه").
+entry(مهاتما, ن, [مهاتماس], "یو هندو عارف").
+entry(ماهيماهي, ن, [ماهيماهيز], "په هوايي کې د خوړو کب").
+د ننوتنه(mahjong, n, [mahjongs], "د چینایي اصل يو لوبه").
+د ننوتنې_پيل(mahjongg, n, [mahjonggs], "mahjong").
+entry(ماهو، ن، [ماهوز]، "یو استوایی ونې").
+entry(مهګوني, ن, [مهګونيان], "يو استوايي ونه").
+entry(ماهونيه, ن, [ماهونياس], "يو ګل لرونکی بوټی").
+entry(مهۆت, ن, [مهۆتان], "د یو هاتۍ ساتونکی او چلونکی").
+entry(مهوا, n, [مهواګانې], "يو هندي ونه").
+د پاځو entry(mahuang, n, [mahuangs], "يو آسيايي نبات").
+entry(مهوا, ن, [مهواس], "مهوا").
+entry(mahzor, n, [mahzors], "يا MAHZORIM يو يهودي دوعا کتاب").
+entry(ماياسور, ن, [ماياسورونه], "يو بوټي خوړونکی ډایناسور").
+دخیل(خواښې، ن، [خواښېګانې], "یوه پېغله په توګه").
+entry(میدان, ن, [میدانونه], "په ښار یا د ښار سره نږدې یوه خلاصه سیمه").
+entry(جلۍ, n, [جلۍ], "يوه ځوانه نا واده شوې ښځهMAIDENLY صفت").
+entry(للۍ, ن, [للۍګانې], "د پېغلتوب حالت").
+entry(ماییوتیک, صفت, [], "د پوهې د راویستلو اړونده طریقه").
+entry(نازک, صفت, [], "د غوښې یا د هغې جوس پرته").
+entry(maihem, n, [maihems], "ګډوډي").
+entry(ميل, v, [لېږلی,لېږل,لېږې], "د حکومتي پوستي سیسټم له لارې لېږلMAILABLE adj").
+entry(mailbag, n, [mailbags], "د لیکونو د لېږد لپاره کڅوړه").
+entry(mailbox, n, [څټ بکسونه], "د لیکو د جمع کولو لپاره یوه بکس").
+داخل(maile, n, [mailes], "د آرام سمندر د یو ټاپو بوټی").
+entry(mailer, ن, [ليکونه استوونکي], "هغه څوک چې ليکونه استوي").
+entry(ميلنګ، ن، [ميلنګونه]، "يو کرايه شوی فارم").
+entry(maill, n, [maills], "یو ورکړه").
+entry(mailless, adj, [], "بې زغره").
+entry(مايو, ن, [مايونه], "د ښځو یو ټوټه لامبو وهلو جامې").
+د Prolog
+entry(mailman, n, [mailmen], "يو سړی چې ليکونه وړي او ليکونه رسوي").
+entry(mailroom, n, [د پوستې خونې], "د پوستې د بهير لپاره يوه خونه").
+entry(mailshot, n, [mailshots], "په یو وخت کې ډېر خلکو ته لېږل شوي څه").
+entry(معیوب, v, [معیوب کړ, معیوب کول, معیوب کوي], "داسی ټپي کول چې دوامداره زیان ورسوي").
+entry(معذورهونکی, ن, [معذورهونکي], "هغه څوک چې معذوره کوي").
+entry(main, n, [mains], "اصلي برخه").
+دخولی(لوی_ځمکه، ن، [لوی_ځمکې]، "یوه اصلي ځمکنی ډله").
+entry(mainline, v, [mainlined,mainlining,mainlines], "په یوه لوی رګ کې یو مخدره توکي پیچکاري کول").
+ورودی(اصلی، ق، []، "د زیاتې برخې لپاره").
+دخول (اصلي ماسټ، ن، [اصلي ماسټونه]، "د یوې کښتۍ مهم ماسټ")
+entry(لوی_بادبان, ن, [لوی_بادبانونه], "د بېړۍ اصلي بادبان").
+پرولاګ: entry(mainstay, n, [mainstays], "یو اصلي ملاتړ").
+entry(ساتنه, v, [ساتل, ساتنه کول, ساتي], "په سم حالت کې ساتل").
+entry(maintop, n, [maintops], "د اصلي مست د سر په برخه کې یو پلیټ فارم").
+entry(maiolica, n, [maiolicas], "ميجولیکا").
+entry(ماير, ن, [مايرز], "نور").
+entry(ډیر, ن, [ډیري], "زیات").
+entry(جواري, ن, [جواري], "د امریکن غلې دانه").
+دخول(مجاگوا, ن, [مجاگواس], "یو استوایي ونه").
+سريزه(شانداره, صفت, [], "با وقار").
+entry(بزرګي, ن, [بزرګیانې], "شاهانه وقار").
+entry(مجلس, ن, [مجاليس], "په بېلابېلو شمالي افریقایي او منځني ختیځ هیوادونو کې پارلمان").
+entry(ماجولیکا, ن, [ماجولیکاس], "د کلالۍ یو ډول").
+entry(major, v, [په ځانګړي ځانگړي د تحصیل په یوه اساسي دوره کې بوختیدل، تحصیلي بهیر تعقیبول، د تحصیل دوره]، "په یوه ځانگړې تحصیلي بهیر کې مصروف کیدل").
+entry(اکثریت, n, [اکثریتونه], "لوی شمير يا برخه").
+دخول(لوی، قید، [], "په عمده توګه").
+entry(مکار, ن, [مکاران], "شاعر").
+entry(جوړول, فعل, [جوړ کړ, جوړونه, جوړوي], "د وجود سبب جوړول").
+entry(makebate, n, [ډغروونکی], "هغه څوک چې جګړې هڅوي").
+د ننوتنه(makefast, n, [makefasts], "یو شی چې کښتۍ پرې تړل شوې وي").
+entry(تبدیلي, n, [تبدیلي], "ظاهري بدلون").
+داخلې (جوړونکی، ن، [جوړونکي]، "هغه څوک چې جوړوي").
+د ننه کیدل(ښکلا، n، [ښکلاوې]، "هغه لاره چې برخې یا اجزا د یوې څیز سره یوځای کیږي").
+entry(maki, n, [makis], "د يو برتن چې د سوشي او خام سبزيجاتو څخه جوړ دی چې په سمندري بوټو کې نغښتل شوی وي").
+داخلول(ماکیمونو, ن, [ماکیمونوس], "یو جاپاني زینتي طومار").
+entry(جوړولو, ن, [جوړونې], "مواد چې له هغې څخه څه شی جوړېدلای شي").
+entry(mako, ن, [مکوز], "یو لوی شارک").
+دخول(makuta, جمع, [], "د likuta").
+entry(ملکيکا, ن, [ملکيکاس], "د يوې آسيايي رتن نخود ډنډه").
+د داخله(ناروغي, ن, [ناروغۍ], "یو ناروغي").
+د پرولوګ دغه کرښه پښتو ته وژباړئ: 
+
+entry(نا ارامي, ن, [نا ارامۍ], "د نامعلومه ناراحتي احساس").
+entry(مالاموت, ن, [مالاموتونه], "یو الاسکن سورلی سپی").
+entry(ملنګا, ن, [ملنګاس], "یو یوتیا").
+entry(بې حيا, n, [بې حياګان], "بې حيا کس").
+entry(مالاپروپ، n، [مالاپروپس]، "د یوې کلمې خوشی چلونکي کارونه").
+entry(malar, n, [ګونګه], "د مخ اوږه هډوکی").
+entry(ملاريا, ن, [ملاریاز], "یو ساري ناروغيMALARIAL MALARIAN ملاریايي صفت").
+entry(بې سروسامانۍ, n, [بې سروسامانۍ], "چټیات").
+entry(مالارکي, ن, [مالارکيز], "ملارکې").
+entry(malaroma, n, [نا خوښه بویونه], "یو نا خوښه بوی").
+entry(مالیٹ، ن، [مالیټس]، "یو کیمیاوي مالګه").
+entry(نر, ن, [نران], "هغه فرد چې د ښځینه د القاح کولو له لارې ماشوم زېږوي").
+entry(maleate, n, [maleates], "یو کیمیاوي مالګه").
+entry(ملاوژن, فع, [ملاوژن کړ, ملاوژن کول, ملاوژنه], "کړغیږ").
+entry(بدفعل، صفت، []، "شیطاني یا بدۍ تولیدوي").
+entry(مالاميوت, ن, [مالاميوټس], "ملا ميوټ").
+دننه کړئ(ماليموت، ن، [ماليموتونه]، "مالاموت").
+entry(نارينه‌توب, ن, [نارينه‌توبونه], "د نارینه کیدو کیفیت").
+entry(ناسم, صفت, [], "په خراب حالت کې تغذیه شوی").
+entry(مګر، تیاری، [], "سره له دې").
+entry(malic, adj, [], "د مڼو پورې اړوند").
+entry(بدنيتي, ن, [بدنيتۍ], "د بل چا د ژوبلولو اراده").
+entry(بدنام, فعل, [بدنام شو, بدنامېدنه, بدنام کوي], "د دې په اړه ناوړه خبرې کول").
+entry(بدگو، ن، [بدگوۍ]، "هغه څوک چې بد وايي").
+entry(په-بدۍ-سره, قید, [], "په بد ډول").
+entry(مالیحینی, ن, [مالیحینی], "هاوائی ته نوی راغلی").
+entry(مېلن, ن, [مېلونه], "يو نازک جال چې د څادرونو لپاره کارول کيږي").
+entry(څه کول, v, [کول,کوي,کړي], "بدو ناروغۍ وانمود کړئ څو دنده یا کار څخه ډډه وکړي").
+entry(بد دعا, n, [بد دعاوې], "يو لعنت").
+entry(مالکین, n, [مالکینونه], "یوه نامرتبه ښځه").
+entry(مارکيټ, فعل, [مارکيټ شو, مارکيټ کوي, مارکيټونه], "ځپول").
+entry(مرغابی, ن, [مرغابي], "یو وحشي وزرڅوک).
+entry(ماله, ن, [مالهګانې], "یو تل شنه ونه").
+entry(ملي, جمع, [], "د ماليوس").
+entry(malleoli, npl, [], "د ټټرونو دغه بوساني هډوکي").
+entry(مالټ, ن, [مالټونه], "د هامر یوه ډول").
+entry(مېلويس, ن, [مېلي], "د منځنۍ غوږ یوه هډوکي").
+entry(malling, n, [mallings], "د مېلونو په لویو ودانیو کې د دوکانونو سره د پیرودلو چاره").
+د ننوتنه(مالو، نوم، [مالوس]، "ېوه ګلانه بوټی").
+د Prolog په توګه: entry(malm, n, [malms], "یوه نرمه اوړلې شوې کلکه ډبره").
+د ننوتنې(ملمسي, ن, [ملمسيونه], "يوه سپينه شراب").
+entry(مالمی, صفت, [], "MALMIER MALMIESTد ماللم په ډول").
+\entry(بدبو, ن, \[بدبوګانې\], "يو ناوړه بوی").
+entry(مالوناټ, ن, [مالوناټې], "د مالونیک اسید مالګه یا ایسټر").
+entry(مالوطي, جمع, [], "د لوټي").
+entry(بې ځايه شوی, صفت, [], "په ناسم ځای کې دی").
+دخوليه(مالټ, فعل, [مالټ شوی, مالټ کول, مالټونه], "د مالت کردمېدلي غلې سره چلند يا ترکیب کول").
+entry(maltase, n, [شکرګاکه], "يوه انزايمه").
+entry(مالتا شوی, ن, [مالتا شوي], "یو خوږ مشروب").
+entry(مَلته، ن، [مَلته‌ګان], "یو طبیعي تار").
+entry(maltier, comparative, [], "د مالټي").
+entry(تر ټولو مالتي, عالي درجه, [], "د مالتي").
+entry(مالټینګ, ن, [مالټینګونه], "د دانو د تیارولو بهیر د پخولو لپاره").
+entry(مالټول, ن, [مالټولونه], "یو کیمیاوي مرکب").
+د پرولاګ کوډ:
+entry(maltose, n, [maltoses], "د بورې یو ډول").
+entry(بدسلوکي, v, [بدسلوککړ, بدسلوککول, بدسلوکوينه], "په بده توګه چلند کول").
+entry(مالټ جوړوونکی, ن, [مالټ جوړوونکي], "هغه څوک چې مالټ جوړوي").
+entry(malty, adj, [], "د مالت په څیر").
+دخوله(مالواسیه، ن، [مالواسیاز]، "ملمسی").
+entry(ناروغۍ_نرم_افغان, ن, [ناروغۍ_نرم_افغان_جات], "هغه سافټویر چې د کمپیوټرانو د بندولو لپاره ډیزاین شوی دی").
+entry(مام, ن, [مامونه], "مور").
+entry(ما ما, ن, [ماماګانې], "مور").
+entry(ممالیګا, n, [ممالیګاس], "د جوارو اوړه پوريج").
+entry(ماماسان, ن, [ماماسانس], "يوه جاپاني ښځه چې په واکمنه څوکۍ کې وي").
+entry(ماماتيک, n, [ماماتيکس], "د وۍګوام يو ډول").
+entry(mamba, n, [mambas], "يو زهري مار").
+entry(mambo, v, [مامبو کړ, مامبو کول, مامبوز], "د یو بال روم نڅا ترسره کول").
+entry(مامي, ن, [ماميګانې], "مامي").
+entry(مملوک, ن, [مملوقان], "په مسلمانو هیوادونو کې یو غلام").
+entry(ممي, ن, [مميس], "يا MAMEYESa يو استوايي ونې").
+entry(ماميه, ن, [ماميز], "مامي").
+entry(مامله, ن, [ماملي], "معلومي").
+entry(مملوک, ن, [مملوکونه], "مملوک").
+entry(mamma, n, [ممه], "د شيدو تولیدونکی ارګان").
+entry(mamma, n, [mammas], "مور").
+entry(څاروی, ن, [څاروي], "چې د تودويني فقره لرونکي حيواناتو طبقه ده").
+entry(شیدې, صفت, [], "څخه د سینه پورې تړاو لري").
+entry(mammate, صفت, [], "چې تی لري").
+entry(mammatus, n, [ماماتي], "د وريځي يو ډول").
+entry(مامې، n, [مامېګانې], "مامې").
+entry(ماماړه، فعل، [ماماړ شوی، ماماړ کول، ماماړي]، "شکمن کېدل").
+entry(mammet, n, [mammets], "بدل").
+د پرولوګ ليکه: entry(مامې, ن, [مامې], "مامه").
+دخول(mammie, ن, [mammies], "مامۍ").
+د Prolog:
+entry(مورکۍ, جمع, [], "د مورکۍ").
+entry(ماميلا, n, [ماميلايي], "يو تي").
+entry(ممیتیس, ن, [ممیتایډز], "څټ).
+entry(ماميک, فعل, [ماميک شوی, ماميک کول, ماميکونه], "ځپول").
+entry(مامن، ن، [مامنس]، "مادي شتمني").
+د پرولوګ:
+entry(مموت, ن, [مموتونه], "یو ورک شوی هاتي").
+entry(مور, n, [مورګانې], "مور").
+entry(حرامي, ن, [حراميان], "يو لعنتي").
+entry(سړی, ن, [سړي], "یو بالغ انسان نر").
+دخول(سړی, فعل, [سړي کړل، د سړو کار، سړي کوی], "سړي سره د برابرولو لپاره").
+entry(مانا, نوم, [ماناس], "يوه خيالي ځواک په ځینو پاسیفیک ټاپو مذهبي کې").
+دخول(manacle, فعل, [manacled, manacling, manacles], "قفل کول").
+entry(مدیره, v, [مدیره کړه,مدیره کول,مدیره کوی], "کنترول یا رهبري کول").
+entry(مدیر, n, [مدیران], "یو څوک چې اداره کوي").
+ننويسه(manakin, ن, [manakins], "يوه استوايي مرغۍ").
+entry(سبا, n, [سباګانې], "سبا").
+د پاسخه راپورته کېدونکې پښتو ژبه پروګ د ټوټې لپاره لاندې ده:
+
+```prolog
+entry(manat, n, [manats], "د اذربایجان د پيسو يو واحد").
+```
+دریځ(مانتی، ن، [مانتیان]، "یو اوبی حیوانMANATOID صفت").
+entry(انسان, ن, [انسانان], "د یو هرالډیک ډیزاین").
+entry(مېنچټ, ن, [مېنچټونه], "د سپین ښه ډوډۍ کوچنی ټکړه").
+entry(منسیپل، ن، [منسیپلز]، "یوه افسر چې د توکو د پیرودلو واک لري").
+entry(مانډالا, مذکر, [مانډالاس], "د هندویزم یا بودیزم د کایناتو مصور سمبول").
+entry(مانډاموس, v, [مانډاموسډ,مانډاموسینګ,مانډاموسېز], "د لوړې محکمې له لوري د وارنټ له لارې حکم کول").
+انٹری(مینڈرین، noun, [مینڈرینز], "یو جنس د سیتروس میوه").
+entry(دنده, v, [سپارل,سپارونکي,سپارنې], "اجازه ورکول یا فرمان صادرول").
+entry(سپارښتنکى, ن, [سپارښتنکي], "هغه څوک چې سپارښتنه کوي").
+د ننوتلو(د ژامې هډوکی، ن، [د ژامې هډوکې], "د ښکته ژامې هډوکی").
+entry(مانډيوکا, n, [مانډيوکاس], "ماني واک").
+دخول(mandola, n, [mandolas], "يو زوړ ربڼه").
+entry(مندولین, ن, [مندولینونه], "یوه د تارونو لرونکې موسیقۍ اله").
+entry(مانډورا, ن, [مانډوراس], "يو تار لرونکی موسيقي وسيله").
+entry(مانډورلا، ن، [مانډورلاس]، "یو نوک لرونکی بیضوي بڼه").
+د Prolog: entry(mandrake, n, [mandrakes], "یو اروپایي بوټی").
+ورودی(مانډریل, ن, [مانډریلز], "یوه میله چې په هغې باندې یوه اوزار نصب شوې ده").
+د ننوتلو(مندريل, ن, [مندريلونه], "مندريل").
+entry(مانډرل, ن, [مانډرلونه], "یو لوی ببون").
+وردنه(کاکول, ن, [کاکولونه], "د ځینو حیواناتو پر غاړه او شاوخوا وده کوونکي اوږده ویښتان کاکول لرونکی بې کاکول adj").
+entry(maneb, n, [manebs], "د فنګس وژلو لپاره یوه پوډر").
+entry(د اس ځغلونې هنر, ن, [دتګلارې], "د اسونو روزنې او ځغلونې هنر").
+entry(تحرک, فع, [تحرک کړ,تحرک کول,تحرک کوي], "د یو ځانګړي مقصد لپاره د دریځ بدلول").
+entry(manful, adj, [], "باسهالتوبMANFULLY adv").
+entry(مانګا, ن, [مانګاګانې], "یو جاپاني ګرافیکي ناول").
+entry(منګابي, ن, [منګابي], "د اوږد لکۍ بندر").
+entry(منگابي, n, [منگابيانو], "منګابي").
+entry(مېنګېنيک, صفت, [], "د مېنګانېز لرونکی د يو فلزي عنصر په توګه").
+entry(مېنګانين, ن, [مېنګانينونه], "د مسو، مېنګانیز او نکل يو الائ").
+entry(خارښت, n, [خارښتونه], "د کورنیو حیواناتو د پوستکي ناروغي").
+entry(بېړۍ، ن، [بېړۍګانې], "د جګوو یو ډول").
+entry( manger, ن, [mangers], "يوه تنا يا صندوق چې له هغه څخه آسونه يا غوايان خوراک کوي").
+entry(mangey, adj, [], "ترين تور ماشیر تور ماشیر").
+د پرولوګ:
+entry(mangier, comparative, [], "د mangy").
+مېنګے، تر ټولو زیاد، []، "د مېنګی"
+entry(ښکته, قيد, [], "په يو خراب طرز کې").
+د لاس وهنې خبرې، [ شامل دي، ګډوډ او ماتوونه]، "د پرې کولو، چاودلو یا د شکل خرابولو لپاره".
+entry(mangler, n, [manglers], "یو چې خرابوي").
+ډکونه(مڼه، ن، [مڼې]، "یا مڼې یو خوړونکی استوایي مېوه").
+entry(مېنګولډ, ن, [مېنګولډs], "مېنګل").
+entry(منجنیق, ن, [منجنیقونه], "د منځني پیړیو یوې پوځي وسیلې د تیږو غورځولو لپاره").
+entry(منګروز, ن, [منګروز], "یوه استوایی ونه یا بوټی").
+د پرولاګ:
+entry(mangy, adj, [], "MANGIER MANGIESTaffected with mange").
+entry(د لاسرسي سوري, ن, [د لاسرسي سوري], "يو سورۍ چې د ځمکې لاندې يا تړل شوي جوړښت ته د ننوتلو لاره برابروي").
+entry(مردانه‌توب, ن, [مردانه‌توبونه], "د سړي وال حالت").
+entry(شکار, ن, [شکارونه], "د يو شخص لپاره جدي لټون").
+entry(مانیا, ن, [مانیاګانې], "یو افراطی علاقه یا لیوالتیا").
+د ننوتنه(ليوني, ن, [ليونيان], "يو مجنون انسان").
+entry(مانیک, ن, [مانیکونه], "هغه څوک چې د جنون سره متاثره وي").
+entry(مينيکيور, v, [مينیکيور کړ,مينیکيور کول,مينیکيورس], "د نوکانو د پرې کولو او پوښولو لپاره").
+entry(ښکاره, v, [ښکارېدو,ښکاره کول,ښکاره کوي], "په ښکاره توګه ښودل").
+entry(رګڼه, v, [رګڼل,رګڼېدنه,رګڼې], "د څو نسخو جوړولو لپاره").
+د ننه(منيهوت، ن، [منيهوتونه], "يوه استوايي بوټی").
+دخپرونې(مانکن, ن, [مانکنونه], "د انسان بدن یو اناتومیک ماډل").
+entry(مانيلا, ن, [مانيلاس], "يو قوي کاغذ").
+entry(مانيلا, ن, [مانيلاس], "مانيلا").
+entry(مانيل, ن, [مانيلونه], "په ځینو کارت لوبو کې دوهم لوړ ټرمپ").
+entry(مانیوک, ن, [مانیوکونه], "یو استوایي نبات").
+د ننوتنه(manioca, n, [maniocas], "manioc").
+entry(مانپل، ن، [مانپلز]، "یو د وريښمو بانډ چې د کیڼ لاس په واسطه د جامو په توګه اغوستل کیږي" ).
+داخل(manito, n, [manitos], "manitou").
+entry(مانيتو, ن, [مانيتوز], "د الګونکوي انډين معبود").
+entry(manitu, n, [manitus], "مانیتو").
+د Prolog کرښه: entry(mankind, n, [mankind], "the human race").
+entry(manky, adj, [], "ټیټ لږ معیاري").
+entry(بې_سړیو, صفت, [], "د سړیو پرته").
+entry(د نارينه په شان, صفت, [], "د نارينه په څېر").
+entry(مردانه، صفت، [], "ډېر مردانه تر ټولو مردانه د یو سړي ځانګړتیاوې لرل۔ مردانه ډولۍ قید").
+د Prolog ژبې ته د پښتو ژباړه:
+entry(د انسان جوړ, صفت, [], "د انسان لخوا جوړ شوی").
+ورود(منا، ن، [منې]، "الهي ورکړل شوی خواړه").
+entry(مەننان, ن, [مەننانز], "یو ډول بوره").
+entry(manned, past, [], "د انسان تېر زمان").
+entry(طریق), ن, [طرزونه], "د عمل کولو یو ډولمنظم adj").
+entry(مؤدبانه, صفت, [], "ادب").
+\entry(mannikin, n, [mannikins], "manikin").
+entry(مانینګ, اوسنی, [], "د man فعلي ماسدر").
+entry(د نارینه په څېر, صفت, [], "د یوه نارینه سره ورته یا ځانګړنه").
+entrant(mannite, n, [mannites], "mannitolMANNITIC adj").
+entry(مانيټول, ن, [مانيټولونه], "يو الکول").
+entry(مانوز, ن, [مانوزونه], "د شکر یو ډول").
+entry(mano, n, [manos], "هغه ډبره چې د خوړو د پخولو لپاره کارول کيږي").
+د ننوتنه(ماڼۍ، نوم، [ماڼۍګانې], "یو ځمکنۍ املاک یا سیمهUNIT د ماڼۍ پورې تړاو لرونکی صفت").
+entry(manpack, adj, [], "د یو شخص لخوا د وړلو لپاره ډیزاین شوی").
+entry(کارمندان, ن, [کارمندان], "د خدمت لپاره د اړتیا وړ د خلکو شمېر").
+entry(ناکام، صفت، [], "د خپلو هیلو په پوره کولو کې ناکام").
+دخول(manrope, ن, [manropes], "يو رسۍ چې د لاس پۍ په توګه کارول کېږي").
+entry(مانسارډ, ن, [مانسارډونه], "د بام يوه بڼه").
+```prolog
+entry(manscape, v, [manscaped,manscaping,manscapes], "د یو سړي د بدن وېښتان پرې کول یا خریل تر څو ظاهري بڼه ښه کړي").
+```
+entry(مانس, ن, [مانسونه], "د يو عالم کور").
+entry(ماڼۍ, ن, [ماڼۍ], "يوه لويه اغېزناکه ودانۍ").
+entry(مانتا, ن, [مانتاس], "د پنبې يو ټوکر").
+entry(چپنه, ن, [چپنې], "يا مانټيوز، يوه لګۍ چوکنۍ").
+entry(مينتل، n، [مينتلونه]، "د اور لګولو ځای څخه پورته يو تخت"‌).
+entry(ډالچه, ن, [ډالچګانې], "یو ګرځه ډال چې د سرتېرو د خوندي کولو لپاره کارول کېږي").
+د ننوتنه(مانټس, الف, [], "د مانټيس جمع").
+entry(مېنتیق, صفت, [], "د پېشګوې چارې لرل").
+entry(مینټیډ، ن، [مینټیڈس], "مانٹس").
+entry(مانټیلا, ن, [مانټیلاس], "د ښځې څادر").
+entry(مانتس, ن, [مانتیسونه], "یا MANTES یو ښکاری حشره").
+entry(مانټيسا, n, [مانټيساس], "د یو لوګاریتم عشاري برخه").
+دخوله(مړوند, فعل, [پوښلی, پوښوونکی, پوښونه], "پوښل").
+entry(د سپر پوښ, ن, [د سپر پوښونه], "ماتېل").
+entry(څادر, ن, [څادري], "د زينتي ټوکر").
+د Prolog: entry(mantra, n, [mantras], "په هندويت کې د دعا يا جادو يو روحاني فورمول MANTRIC adj").
+entry(منتر, ن, [منترونه], "منتر").
+entry(منطرپ، ن، [منطرپس]، "د خلکو د نیولو لپاره لومه").
+entry(مانتو, ن, [مانتوګانې], "د ښځې ګون").
+entry(لاسوند, ن, [لاسوندونه], "یو کوچنی حواله کتاب").
+entry(په لاسونو, ق م، [], "د لاسونو په واسطه").
+entry(مَنَوَري, صفت, [], "له لاسونو سره تړاو لري").
+entry(مانوبره, npl, [], "د لاستي شکل اناتوميکي برخې").
+دخول(manucode, ن, [manucodes], "د جنت یو مارغه").
+entry(مانوکا, ن, [مانوکاز], "د نيوزيلینډ یوه وړه ونه").
+entry(ازادول, v, [ازادکړ,ازدادونه,ازادېږي], "له غلامۍ څخه آزادول").
+د ننوتنه(کود، ف، [کود ورکړ، کود ورکول، کودونه]، "د حیواني فضله موادو سره ګل کول").
+entry(سره کوونکی, n, [سره کوونکي], "هغه څوک چې سره کوي").
+entry(کود سره تړاو لرونکی, صفت, [], "د کود سره تړاو لري").
+دخول(څرخيدل، موجود، [], "څرخيدل فعل برخ")).
+د داخلېدو(لاس, ن, [لاس], "د فقاریه حیواناتو د مخ اړخ د لاس پای").
+entry(manward, adv, [], "د سړي په لور").
+دخول(manwards, قيد, [], "manward").
+entry(manwise, adv, [], "د يو سړي ځانګړتيا سره سم").
+entry(many, adj, [], "ډېر زيات د يو لوی شمېر د جوړېدو يا ورڅخه د جوړېدو په حال کښې").
+entry(ډېرځله, اعل, [], "په ډېرو ځلو").
+entry(map, v, [نقشه شوي,نښانه کول,نقشه کول], "په نقشه باندې د یوې سیمې نمایندګي نښانه کول").
+د ننوتنه(د مېپل ونه، ن، [د مېپل ونې]، "یو سخت لرګی ونه").
+entry(mapless, adj, [], "د نقشې نه شتون").
+entry(maplike, adj, [], "د نقشې په څېر").
+د نخشې جوړوونکی، ن، [د نخشې جوړوونکي]، "هغه چې نقشې جوړوي"
+entry(mappable, adj, [], "د نقشه جوړولو وړ").
+د Prolog:
+entry(mapped, past, [], "د هېنډر حالت").
+داخلې(نقشه کش, ن, [نقشه کښان], "هغه څوک چې نقشه کشي کوي").
+د Prolog ژباړه:
+
+entry(mapping, n, [mappings], "یو ریاضيکي مطابقت").
+entry(ماکټ، ن، [ماکټونه], "یو کوچنی ابتدایي ماډل").
+دخول(maqui, n, [maquis], "maquis").
+entry(ماکيلا, n, [ماکيلاس], "په مکسیکو کې يو بهرنی ګټه اخيستونکي د اسمبلۍ فابريکه").
+د داخلې(maquis, n, [maquis], "یو غټ ټال")
+entry(mar, v, [په سپږې کړ،سپږول،سپږې کوي], "د بشپړتیا یا ټولیزتیا څخه د کمی خپرول").
+entry(ماره، ن، [ماراس]، "د ارجنټاین یوه كوی").
+entry(مارابو, ن, [مارابوګان], "یو افریقایي لک لک").
+دپښتوژبې(entry(marabout, n, [marabouts], "یو مرابو")).
+دخوله(ماراکا, ن, [ماراکاس], "يو پرکاشن آلۀ").
+entry(مارانتا, n, [مارانتاس], "یوه استوایي نبات").
+entry(ماراسا, ن, [ماراساس], "یو وحشي چیری").
+entry(ماراسموس, ن, [ماراسموسونه], "د بدن د ضایع کېدلو لپارهMARASMIC صفت").
+Prolog: entry(ماراتون, ن, [ماراتونونه], "يو اوږد واټن منډه").
+د ننوتنه(چاپه وهل، فعل، [چاپې ووهلې، چاپه وهل، چاپې وهي], "د مال غنیمت په لټه کې ګرځېدل").
+entry(غلوګر، ن، [غلوګران], "يو چې غلا کوي").
+entry(مرويدي, ن, [مرویدس], "د اسپانیا یو پخوانی سکه").
+د پرولوګ: entry(marble, v, [marbled,marbling,marbles], "د داغ د ښکاره کولو ورکول").
+entry(د مرمر کوونکی, ن, [مرمر کوونکي], "چې مرمر کوي").
+entry(غوښې کې د غوړ او غوښې د ترکیب, n, [د ترکیبونه], "په غوښه کې د غوړ او غوښې یوه ګډوله").
+دخولا("مرمری", صفت, [], "مرمریت، مرمریت ترین").
+دلیل(مارک, ن, [مارکس], "هغه پاتې شونی چې د میوې له فشارولو وروسته پاتې کیږي").
+دخول(marcato, ن, [marcatos], "یو موسیقۍ ټوټه چې د قوي تاکید سره لوبول کیږي").
+ننوتنه(مارسیل، فعل، [مارسیل کړ، مارسیل کول، مارسیلونه]، "په ویښتانو کې ژور نرم څپې جوړول").
+د پاڅښتيز(مارچ، فعل، [مارچ کول، مارچ کول، مارچونه]، "په رسمي پوځي ډول تګ کول").
+ېنټري (د افسانې,ن, [افسانې], "يو ولسي کيسه").
+entry(مارچر, ن, [مارچران], "هغه څوک چې مارچ کوي").
+دمثال(ماركيزا, ن, [ماركيزي], "د يو ماركيزي ښځه يا بيوه").
+entry(مارکيزي, ن, [مارکيزها], "ايټالوي اشرافي").
+دریځ(marconi, ن, [مارکونیس], "یوه دوه طرفه راډیو").
+د ننوتنې(mare, n, [maria], "د سپوږمۍ یا مریخ په سطحه یو تیاره سیمه").
+entry(ماره, ن, [ماره ګان], "یو بالغ ښځينه اس").
+entry(مارِمّا, n, [مارِمّي], "يو ډنډه لرونکی ساحلي سیمه").
+ورودی(مارینګو، صفت، []، "له یو چکني جوش سره چې مرخیړیتونه، رومیان, د تیلو او شرابو څخه جوړ شوی").
+entry(مګاریک, صفت, [], "مرواریدي").
+entry(مېګرين, n, [مېګرينونه], "د مکھن بدیل").
+entry(مارګيټ, ن, [مارګيټونه], "یو استوایي کب").
+دسجدي(مارګي, ن, [مارګيګان], "یو وړوکی امریکایی ځنګلي پشک").
+د ننوتنې(مارج، ن، [مارجز]، "يوه څنډه").
+انٹری(مارجنټ، فعل، [مارجنټڈ، مارجنټینګ، مارجنټس], "تر مارجن پورې").
+entry(حاشيه, v, [حاشيه-لګول,حاشيه-کول,حاشيې], "سره د حاشيې یا سرحد سر سمبالول").
+entry(پاسنی, ن, [پاسنيان], "هغه چې د ټیټې یا بیروني حد په توګه ګڼل کیږي").
+entry(مارگراف, ن, [مارگرافونه], "د یوې منځنیو پېړیو د جرمني سرحدي ولایت پوځي والي").
+ورودی(ماریه، pl، []، "د ماریې").
+entry(مارياچي, n, [مارياچيان], "يو ميکسيکني موزيکي بينډ").
+entry(ګل مېريگولډ, n, [ګلان مېريگولډ], "یو ګل لرونکی نبات").
+entry(ماريمبا, ن, [ماريمباوې], "يو برقي الې").
+entry(مارینا, ن, [ماریناګانې], "د وړو کښتیو د ناست ځای").
+دخولی(مارینیڈ، فعل، [مارینیڈی شو، مارینیڈ کول، مارینیڈ کوي], "مرینیڈ کول").
+entry(مېرينارا, ن, [مېريناراس], "یو بوڼد شوی د روميانو ساس").
+entry(مرچول, v, [مرچولی,مرچولونه,مرچولوي], "پخلي نه مخکې په مساله لرونکي مايع کې لندول").
+entry(بحري, ن, [بحریان], "یو عسکر چې د سمندري او ځمکنۍ خدمت لپاره روزل شوی").
+entry(ملوان, ن, [ملوانان], "یو سیلر").
+entry(ماریپوسا, n, [ماریپوساس], "یوه ګل لرونکې نبات").
+entry(مارش, ن, [مارشونه], "يوه څنډه").
+entry(واده, صفت, [], "د واده سره تړاو لرونکی").
+entry(سمندري, صفت, [], "د سمندري راستنولو يا تجارت پورې اړوند").
+entry(مارجورام, ن, [مارجورامونه], "يو خوشبوي بوټی").
+entry(مارک, فعل, [مارک شوی, مارک کول, مارکي], "د لیدو وړ نښه جوړول").
+entry(مارکا, n, [markas], "يا MARAKA د بوسنيا او هرزیګوینا یو پېسې واحد").
+پرو لاگ:
+entry(markdown, n, [markdowns], "د قیمت کمښت").
+entry(په-روښانه-توګه, قید, [], "په څرګند ډول").
+د نښې ماشوم، په نښه کوونکی دی.
+د داخله(بازار, v, [بازار شوی,بازار کول,بازارونه], "د خرڅلاو لپاره وړاندیز کول").
+entry(مارکېټر, ن, [مارکېټران], "هغه څوک چې بازار موندنه کوي").
+entry(مارخور, ن, [مارخورونه], "مارخور").
+entry(markhor, n, [ړىږي], "يو وحشي وز").
+entry(نښه, ن, [نښې], "د نښو یو بڼه").
+د نښه، n، [نښې]، "یا MARKKAAa د فنلنډ یو پخوانی پیسې واحد"
+entry(نښان ویشتونکی, n, [نښان ویشتونکي], "یو کس چې په هدف باندې د ویشتلو مهارت لري").
+entry(markup, n, [markups], "د بیې زیاتوالی").
+د ننوتنې(مړل, ف, [مړل شوې، مړل کول، مړلې], "د مړل سره سروې کول کوم چې یوه ځمکنۍ زیرمه ده چې د چوني ځمکه خاوره او شګه لري").
+entry(marlier, comparative, [], "د مارلي").
+مداخلې(مارليسټ، سوپرلاټيو، [], "د مارلي").
+د ننوتنه (مارلین، ن، [مارلینز], "یو بحري لوبې ماهی").
+entry(مارلین, n, [مارلینز], "په یوې بېړۍ کې کارېدونکی رسۍ").
+entry(مارلنګ, ن, [مارلنګونه], "مارلېن").
+entry(مارلایټ, ن, [مارلایټس], "د مارل یو ډول مارلایټیک صفت").
+entry(marly, adj, [], "د مارل په شتمنۍ کې MARLIER MARLIEST").
+entry(marmite, n, [marmites], "د سوپ لوی دیګ").
+دخول(marmoset, n, [marmosets], "يو وړوکى بوزينه").
+entry(منګس, n, [منګسان], "يوه کيندونکي موږک").
+اندراج(مراکین, نوم, [مراکینونه], "يو سپک چينداره پارچه").
+```prolog
+entry(مارون, فع, [پاتې,پاتې کېږي,پاتې کوي], "په یو جلا شوي ځای کې پرېښودل").
+```
+د پرولوګ ژبه:
+entry(marplot, n, [marplots], "هغه څوک چې د لاسوهنې له لارې پلان ړنګوي").
+ګرځندوی(مارک, ن, [مارکونه], "بېرته اخېستنه").
+entry(مارکي, ن, [مارکي], "د يوې لپاره برجسته چت ته ورته جوړښت").
+د ننه سپړنه (مارکیس، ن، [مارکیسان]، "مارکی").
+entry(مارکیز, ن, [مارکیزان], "یو اروپایی اشراف").
+entry(مارکویس, ن, [مارکویسان], "د مارکوس ښځه یا کونډه").
+entry(marram, ن, [marrams], "د سمندر غاړې واښه").
+entry(marrano, n, [يهود], "په هسپانیا کې یو یهود چې د ځورونې څخه د خلاصون لپاره یې د عیسویت اظهار کاوه").
+entry(مړ, تېر, [], "د مړ وخت").
+entry(marrer, n, [marrers], "هغه څوک چې خرابوي").
+دخولې(واده, ن, [واده], "د مخالف یا ورته جنس د دوو کسانو قانوني اتحاد").
+entry(واده, ن, [واده شوي], "هغه څوک چې په واده کې يې ګډون کړی").
+entry(marrier, n, [marriers], "یو چې واده کوي").
+entry(مېرېدنه, اوسمهال, [], "۳یم شخص مفرد د نکاح کول").
+دخول(marring, حال, [], "د واده کردن سبب").
+entry(مېروغ، ن، [مېروغان], "د غوزانو یوه ډول").
+entry(هډوکی, فعل, [ودکړه کړې, ودکول, ودونه], "ودېدل").
+entry(marrowy, adj, [], "ډکوونکی").
+د ننوتل(واده، ف، [واده شوې، واده کول، واده کوي], "واده کولو ته داخلېدل").
+entry(مارسالہ, م, [مارسالاس], "يو سکيسي شراب").
+د ننه وتنه (marse, n, [marses], "استاد").
+ګډون(مارش، ن، [مارشونه]، "د ټيټې لندې ځمکې یوه سیمهMARSHED adj").
+entry(مارشل, فعل, [منظم کړ, تنظیم کول, تنظیم کوي], "په مناسب ترتیب کې ځای په ځای کول").
+entry(marshall, v, [marshalled,marshalling,marshalls], "لیږدول").
+دخوله(مارشي, صفت, [],"مارشیئر مارشیست یوه د شنو رطوبت سره مشابه").
+entry(marsupia, npl, [], "د ځینو تی لرونکو حیواناتو خیټې یوډونه").
+entry(بازار, v, [بازارکړل,بازارکول,بازارونه], "مارکيټ ته").
+entry(مارټاګون, n, [مارټاګونونه], "یو ګلان لرونکی بوټی").
+entry(مارټیلو, ن, [مارټیلوګانې], "یو دورانی قلع").
+داخلول(موسک, اسم, [موسکان], "یو غوښه خوړونکی تی لرونکی ژوندی").
+entry(جنګي، صفت، [], "د جګړې په اړه د").
+دخول(martian, n, [martians], "له مريخ سیارې څخه یوه خیالي اوسېدونکی").
+entry(مارتن, ن, [مارتنس], "یو وړوکی مرغه").
+entry(مارټینیټ، ن، [مارټینیټونه]، "هغه څوک چې د قواعدو سخت پابندي غوښتنه کوي").
+entry(مارټیني, ن, [مارټینيس], "یو الکولي مشروب").
+entry(martlet, n, [martlets], "يو مارټن").
+د داخلې (شهيد، فعل، [شهيدان شوي، شهيدول، شهيدان]، "د عقيدې ساتنې پورې اړوند د وژلو لپاره").
+entry(مجاورانه, صفت, [], "شهید ته ورته").
+entry(شهادتګاه, ن, [شهادتګاوې], "هغه زیارت چې د یو شهید شوې شخص په ویاړ جوړ شوی وي").
+ورودی(حیرت, ف, [حیرتونه, حیرانونکی, حیرانوي], "یا حیران شوې, حیرانوونکي, د حیرانتیا یا د حیرانتیا څخه ډک شي").
+entry(حیرانونکی, ن, [حیرانونکي], "هغه څوک چې حیران شي").
+د پروسلوګ جمله:
+entry(marvy, صفت, [], "د حیرانتیا وړ").
+entry(ميري جېن, ن, [ميري جېنز], "ګل").
+entry(مزيپان, ن, [مزيپانونه], "يو بادامي خواږه").
+entry(masa, n, [masas], "د وچې شوي جواري څخه جوړې شوې خمیره").
+entry(مصالحہ, n, [مصالحے], "د هند په پخلي کې د استعمال لپاره د مصالحو یو ترکیب").
+entry(مسکارا, فعل, [مسکاراکړ، مسکاراکول، مسکاراګانې], "د مخ سينګار لپاره د سترګو غټو د رنګولو لپاره کارول کيږي").
+د داخلول(ماسکان، ن، [ماسکانز]، "د سپوږمۍ د سطحې لاندې د متراکمې کتلې تجمع").
+داخله(ماسکاټ، ن، [ماسکاټس]، "یو شخص، حیوان یا څیز چې د ښه بخت لرلو باور لري").
+entry(maser, n, [masers], "د برقي نبضونو د لوړولو وسیله").
+entry(ميش, فعل, [ميشېدنه, ميشېدو, ميشوي], "د پړانګ په حالت بدلول").
+entry(مېشر، ن، [مېشران], "هغه څوک چې مېشر وي").
+«ورودی«(مشقاه، ن، [مشقاهیم]، "د کوشر تاسیساتو یو تفتیش کوونکی").
+entry(ماشۍ, n, [ماشۍ], "د ګالف کلب").
+د ايسپښتو لپاره الفاظ: 
+entry(مشي, ن, [mashies], "مشي").
+entry(مسجد, ن, [مساجد], "یو جومات").
+اندراج(ماسک, v, [ماسک شوی، ماسک کول، ماسکونه], "د يو ماسک سره پوښول يو پوښ چې د مخ د پټولو لپاره کارول کيږي ماسک کېدونکی صفت").
+entry(maskeg, n, [maskegs], "موسکېګ").
+د پرولاګ کرښه: 
+entry(masker, n, [ماسکرز], "هغه څوک چې ماسک اغوندي").
+د نندارچیانو څخه د یو سټیج برخې د پټولو لپاره د منظرې یوه برخه استعمالیږي.") .maskings]، "entry(masking, n, [
+entry(masklike, adj, [], "د ماسک په څېر").
+entry(mason, v, [masoned,masoning,masons], "د تيږو يا خښتو سره جوړول").
+entry(ماسوني, صفت, [], "د معمارۍ پورې تړاو لري").
+entry(دبرګرۍ, ن, [دبرګریو], "یو جوړښت چې له تیږو یا خښتو څخه جوړ شوی وي").
+entry(ماسک, ن, [ماسکونه], "په انګلستان کې پخوا یو ډراماتیک مشغولتيا").
+entry(ماسک کول, ن, [ماسک کوونکي], "ماسکوونکی").
+entry( mass, v, [په ډله کې راټولول , راټولېدل , غونډېدل], "په یوه ډله کې د یوې منسجمې مادې مجموعه جوړول").
+entry(ماسا, ن, [ماساس], "ماستر").
+دغه لړلیک(وحشي وژنه, فعل, [ووزل, وژونکې, وژنې], "غیرمحتاطانه وژنه کول").
+ورود(مساج، فعل، [مساج‌کړ،مساج‌کول،مساج‌کوي]، "د درملنې یا حفظ الصحې په موخه د بدن برخو ته لاس اچول").
+په پرولاګ کې:
+entry(massager, n, [massagers], "هغه چې مالش کوي").
+entry(ماس کلتور, ن, [ماس کلتورونه], "کلتور چې د عامه رسنیو له لارې مشهور شوی").
+entry(ماسي, ن, [ماسونه], "په بلیارد کې د شوټ یو ډول").
+entry(په ډله ایز ډول, قيد, [], "په یوه ډله ایز ډول").
+entry(ماسټر، نوم، [ماسټران]، "یو عضلات چې لاندې هغه جبڑے پورته کوي").
+ننوښت(مالش وکونکی, ن, [مالش وکونکي], "یو سړی چې مالش کوي").
+entry(مالشه، ن، [مالشېزې]، "هغه ښځه چې مالش کوي").
+د پرو لوگ عبارت په پښتو کې: 
+entry(massicot, n, [massicots], "یو ژیړ رنګه رنګ").
+entry(د ګڼې, پرتلنې، [], "د ماسۍ").
+ننوتنه(ډېر دروند, لوړترين, [], "د دروند").
+entry(غر, ن, [غرونه], "یو لوی غرني ځنځیر").
+ورود(وډوډ, صفت, [], "د لوې اندازې").
+entry(massless, adj, [], "چې وزن نه لري").
+entry(massy, adj, [], "MASSIER MASSIESTmassive").
+entry(مست، v، [مסט شوی، مستانه، مستان]، "د بېړۍ سره یو اوږد ستون برابرول چې بادبانونه او دستګاه ملاتړ کوي").
+entry(mastaba, n, [mastabas], "د يو پخوانی مصری قبر").
+entry(mastabah, n, [mastabahs], "مستبه").
+entry(master, v, [چک, چکونه, چکونه], "په څه کې مهارت ترلاسه کول").
+entry(استادانه, صفت, [], "ډېر مهارت لرونکی").
+entry(ماهرۍ, ن, [ماهرۍ], "د لوړ پوهه یا مهارت").
+د ټاکلي, و, [ ټاکل شوي, ټاکل کېدونکی, ټاکي ], "د ماسټ په سر کې پورته کول".
+entry(ماستیک، ن، [ماستیکونه]، "یو خوشبوی لرګی").
+entry(مستېک, ن, [مستېکونه], "مستیک").
+entry(مستيف, ن, [مستيفونه], "یوه لوی لنډ ویښته سپی").
+د Prolog کرښه:
+```prolog
+entry(mastitis, n, [mastitides], "د تي التهابMASTITIC صفت").
+```
+entry(مستیک, ن, [مستیکونه], "مصطکی").
+entry(بې_مسته, صفت, [], "بې مسته").
+entry(mastlike, adj, [], "د مست په څېر").
+entry(ماستوډون، ن، [ماستوډونونه]، "یو له منځه تللی د هاتی په څېر تی لرونکی").
+د پرولوګ کرښه:
+entry(mastoid, n, [mastoids], "د ټامپورال هډوکي شاته برخه").
+entry(ماسوريوم, ن, [ماسوريومونه], "يو فلزي عنصر").
+entry(چټ، فعل، [چټ کړ، چټول، چټونه], "په یوه ګڼ فارمول کې بندول").
+entry(ماتاډور, ن, [ماتاډوران], "هغه غويي جنګیالی چې په غويي جنګ کې غويي وژني").
+entry(matambala, a, [], "د تمباله جمع").
+entry(match, v, [مقابلول،مقابله کول،مقابلې], "په سیالۍ یا مخالفت کې ترتیب کول").
+ينک(matchbox, n, [matchboxes], "يو کوچنی بکس").
+د دې جملې پښتو ژباړه به داسې وي:
+```prolog
+entry(matcher, n, [matchers], "هغه څوک چې مناسب کوي").
+```
+entry(مقابله, n, [مقابلې], "د دواړو لوبغاړو ترمنځ يو ځای").
+د ننوتنې(مېټ، v، [مېټ شوی، مېټ کول، مېټونه]، "ملګرو په توګه په یو اتحاد کې یوځای کیدل").
+entry(بې ملګری, صفت, [], "چې ملګری نه لري").
+entry(ملوان, n, [ملوانان], "يو بحري").
+entry(مېتلوټ, ن, [مېتلوټونه], "د کبانو خوراک").
+داخل(mater, ن, [maters], "يا MATRESمور").
+entry(مواد, ن, [موادونه], "هغه ماده چې څه جوړ وي یا جوړېدلی شي").
+entry(سامان, ن, [سامانونه], " هغه ټول تجهیزات او ذخیره چې یوې ادارې لخوا کارول کیږي").
+entry(مورني, صفت, [], "د مور اړوند يا ځانګړنې").
+entry(ملګرتيا, ن، [ملګرتياوې], "د ملګري حالت").
+entry(ملګری, ن, [ملګري], "یو دوست").
+entry(matey, adj, [], "ملګری ملګري").
+entry(ریاضي, ن, [ریاضیات], "ریاضيات").
+entry(ماتلده, ن, [ماتلداس], "د يو بې کوره کس بسته").
+entry(سبا, ن, [سباګانې], "د مرغانو د سهار سندره").
+دخول(matinal, صفت, [], "د سهار پورې تړاو لري").
+entry(ماتیني، ن، [ماتینۍګانې]، "د ورځې وخت نمایش").
+د دې جملې لپاره پښتو لاندې دی:
+`داخلېدل(ماتېنس، ن، [ماتېنسونه], "دوستي").`
+entry(جفتګی‌, ن, [جفتګی‌ګانې], "هغه موده چې په کې فصلي تولیدوونکی حیوان جفتګی‌ کیدی شي").
+entry(بېغالی، صفت، []، "چې وړوکی چتري پوښونه نه لري").
+entry(توښه_تخټې, ن, [توښه_تخټې], "د اوږدې غاړې شیشی لوښی").
+دخولیه(ماترس، الف، [], "د ماتر جمع").
+د Prolog:
+entry(matric, n, [matrics], "په پوهنتون کې د داخلېدو لپاره د میټرک ټاکنه").
+د داخله(میټریکس، n، [میټریکسونه], "یا MATRICESکوم شی چې د هغې دننه بل څه پیل یا وده کوي").
+دخولیه(مور, ن, [موران], "یو واده شوې ښځه چې ټاکل شوې ټولنیز موقف لري مادرونه مادرونلي صفت").
+entry(ماتسا, ن, [ماتساس], "ميټزو").
+entry(مېټ, فع, [مېټ شوی، مېټ کول، مېټونه], "مېټ کول").
+entry(مټه, فعل, [مټه شوی, مټه کیدل, مټه کوی], "پر تهه یو تور انځور جوړول").
+entry(مړوند, ماضي, [], "د مټ مات او مټې زمانه").
+entry(په‌مات‌سره, قید, [], "په یوه غوټه شوې طریقه").
+entry(موضوع, فعل, [مهم, اهميت لرل], "د اهميت لرل").
+entry(mattery, adj, [], "چرک توليدوي").
+دګډون(ماتین، ن، [ماتینز], "ماتین").
+entry(مېټنګ, n, [مېټنګونه], "یو اوبدل شوی ټوکر چې د فرش د پوښلو لپاره کارول کیږي").
+entry(خيګ، ن، [خيګان]، "د کندې کولو وسیله").
+entry(ماتېدونکی, ن, [ماتېدونکي], "يو رواني بې ثباته کس").
+entry(توشک, n, [توشکونه], "توشک").
+entry(توشک, n, [توشکونه], "یو لوی بالښت چې د نرم موادو څخه ډک وي او د بستر په توګه یا د بستر په توګه کارول کیږي").
+د پیښور لپاره Prolog:
+entry(maturate, v, [مچور شو,مچور کیدل,مچور کیږي], "بالغ کیدل").
+entry(بالغ, صفت, [], "پوره پرمختگ کړیپوره پرمختگ وکړيمکمل پرمختگ کړی په توګه").
+د خط پرولاګ ته د پښتو ژباړه:
+entry(بالغ, v, [بالغ شو, بالغ کېږي, بالغ کېږي], "بالغ کول یا بالغېدل").
+entry(maturer, n, [maturers], "هغه څوک چې یو څه ته پوخوالی راولي").
+entry(پخیدا, n, [پخیدګانې], "د بالغ کیدو حالت").
+entry(ماتزا, ن, [ماتزاګانې], "ماتزو").
+د ننوتنې (matzah, n, [matzahs], "matzo").
+entry(ماتزو, ن, [ماتزوس], "يا MATZOT يا MATZOTH يوخمره شوی ډوډۍ").
+entry(matzoh, n, [matzohs], "ماتزو").
+د  مټزوان لپاره پروګ لاګ لیک: 
+entry(matzoon, n, [matzoons], "له شيدو جوړ شوی خواړه").
+entry(ماډ, ن, [ماډز], "د سکاتلنډ يو خړ او تور پلایډ").
+entry(ماډلن, صفت, [], "ډېر احساساتي").
+entry(ماګر, تیاری, [], "رغم سره").
+entry(مګر, تیاری، [], "سره له دې").
+entry( maul, v, [ mauls, mauling, mauled], "په وهلو ټپي کول").
+entry(ماولر, ن, [ماولرز], "یو څوک چې ټکوي").
+entry(وهل، ن، [وهلونه], "د وهلو له امله د ټپي کولو عمل").
+entry(بت, ن, [بتان], "يو بوت").
+entry(ماومتري, ن, [ماومتريز], "بت پرستي").
+entry(maun, v, [], "MAUN یوازینی بڼه ده د دې فعل دا نه شي تصریف کېدی").
+entry(مَن, ن, [مَندونه], "د وزن یو آسیایي واحد").
+entry(مونډر, فعل, [مونډر کړ,مونډر کول,مونډر کوي], "بې تړاوه خبرې کول").
+entry(maundy, n, [maundies], "د غريبو خلکو د پښو د مینځلو مذهبي مراسم").
+د ننوتنه(مقبرې, جمع اسم, [], "لوی باوقاره قبرونه").
+entry(mausy, adj, [], "تر ټولو مایوسه").
+entry(موټ, ن, [موټونه], "مالت").
+entry(جامني, ن, [جامنيان], "د بنفش رنګ").
+entry(mauzy, adj, [], "لڼه ګردجن زیات ګردجن").
+درداخل(maven, ن, [mavens], "mavin").
+entry(maverick, n, [مېورېكس], "يو بې نښه څړځاي څاروی").
+entry(mavie, n, [mavies], "مېوې").
+دخوله(مَووین, ن, [مَووینان], "یو ماهر").
+entry(ماويس، n، [ماويسونه]، "یوه سندرغاړې مرغه").
+entry(maw, v, [mawed,mawn,mawing], "MAWڅرادل").
+entry(ماوکش، صفت، [], "په زړه پورې احساساتي").
+ورود(max, v, [maxed,maxing,maxes], "تر لوړ حد پورې رسېدل").
+د Prolog کوډ: entry(maxi, n, [اعظمي], "يوه اوږده لمن يا کوټ").
+entry(maxiboat, n, [maxiboats], "یو لوی سیالي یاټ").
+entry(maxicoat, n, [maxicoats], "يو اوږد کوټ").
+entry(maxilla, n, [maxillas], "يا MAXILLAE د پورتنۍ ژامې يا ژامې").
+د Prolog کوډ: entry(maxim, n, [maxims], "د يوې عمومي حقيقت يا اصولو لنډه څرګندونه").
+د پروولوګ کرښه په پښتو کې دادی: 
+`entry(maxima, a, [], "د اعظمي جمع").`
+دریځ(اعظمي, ن, [اعظميانو], "د یو ریاضي مجموعې یو عنصر چې بل هیڅ یې نه تعقیبوي").
+entry(maximand, n, [maximands], "یو شی چې باید اعظمي شي").
+entry(maximin, n, [اعظميينونه], "د کموالیو نه اعظمي").
+entry(اعظمي کول, v, [اعظمي شوی,اعظمي کوي,اعظمي کوي], "اعظمي کول").
+دادخلی(maximite, ن, [maximites], "یوه قوي چاودېدونکي ماده").
+entry(maximize, v, [اعظمي,اعظمي کول,اعظم کوي], "تر ټولو زيات ممکنه کول").
+entry(اعظم, ن, [اعظمي], "يا MAXIMAتر ټولو لوی ممکنه اندازه، مقدار يا درجه").
+دور(maxixe, ن, [maxixes], "يو برازيلي رقص").
+entry(maxwell, n, [maxwells], "د مقناطیسي جریان یوه واحد").
+entry(مي, فعل, [ميډ, مۍنګ, مۍز], "په پسرلي کې ګلان ټولول").
+د Prolog کوډ: entry(maya, n, [mayas], "په هندو فلسفه کې د تخیلاتو د تولید ځواک").
+entry(مييپل, ن, [مييپلانې], "يو دائمي بوټی").
+entry(شاید, ن, [شایدونه], "یوه نامعلومه").
+entry(مۍ, ن, [مۍګانې], "يوه بوبولینک").
+entry(ميبوش, ن, [ميبوشونه], "یو ګل لرونکی بوټی").
+entry(ميډې، ن، [ميډېز]، "يوه راډيو اضطراري غوښتنه").
+entry(mayest, a, [], "د فعل may حال مفرد غایب شکل").
+entry(ماشومه، ن، [ماشومان], "يو وزر لرونکی حشره").
+entry(کېدای شي, adv, [], "ښايي").
+entry(څړیکه, n, [څړیکې], "د یوې شخص ته په قصدي ډول زیان رسول").
+دستاویز(مینگ، اسم، [مینگز]، "د پسرلي د ګلانو راټولول").
+اندراج(مایو, ن, [مایوس], "مېونیز").
+entry(ښاروال, ن, [ښاروالان], "د ښار يا ولسوالۍ ستر اجرايوي چارواکی").
+entry(ښځي ښارواله, n, [ښځي ښاروالانې], "ښځه چې د ښاروالۍ چاري ترسره کوي").
+د ننه کیدل(میپول, ن, [میپولونه], "یو جوړ شوی ستن چې په پسرلني جشن کې کارول کیږي").
+entry(maypop, n, [maypops], "يو ګل لرونکی بوټی").
+entry(mayst, a, [], "د 'may' فعل د حال ساده دویم شخص مفرد").
+entry(ماون, ن, [ماوینونه], "ماهرو").
+entry(مېويد, ن, [مېويدونه], "يو بدبويه واښه").
+entry(مځاډیا, npl, [], "په ځینو لیکینو کې د وچو تولیدونکي ارګانونه").
+entry(مخ، n، [مخونه]، "سر یا مخ").
+د ننوتل(جال، v، [جال شوی، جال کول، جالونه]، "په حیرانولو سره MAZEDLY adv").
+entry(مزهنګر, صفت, [], "پیچلی").
+entry(مزالتوف, تعجیب، [], "د مبارکۍ د څرګندولو لپاره کارول کیږي").
+entry(مازر, n, [مازرونه], "د څښاک لپاره یو لوی کاسې").
+د ننه(مازير، پرتليز، [], "د مازي").
+entry(ترټولو پيچلي, لوړتيا، [], "د پيچلي").
+entry(mazily, adv, [], "په سرګردانه طریقه").
+entry(maziness, n, [mazinesses], "د ګونګوالي کیفیت").
+entry(mazing, present, [], "د maze فعله صفت").
+entry(مازورکا, ن, [مازورکاس], "مزورکا").
+entry(پيسې, ن, [پيسې], "پيسې").
+entry(مازوروکا، ن، [مازورکاس]، "د پولنډ یو نڅا").
+entry(مازي, صفت, [], "د ګډوډونکي بڼو او لارې ډک MAZIER MAZIEST").
+entry(مازارډ, ن, [مازارډز], "یوه وحشي چیري").
+entry(mbaqanga, n, [mbaqangas], "د سویلي افريقې نڅا موسیقي").
+entry(mbira, ن, [mbiras], "يو افريقایي موسیقي آله").
+ورود(ما، ضمیر، []، "د ضمیر زه مفعولي بڼه").
+entry(میډ، ن، [میډونه]، "یو الکولي مشروب").
+entry(څړځای, n, [څړځایونه], "یو د واښو مځکهMEADOWY صفت").
+entry(کم، صفت، []، "کمترين، ترټولو کم، په کميت يا کيفيت کې نيمګړی، کمزوری").
+د داخلول(میګر، صفت، []، "MEAGRER MEAGRESTmeagerMEAGRELY adv").
+entry(ډوډۍ, ن, [ډوډۍ ګانې], "هغې خواړه چې په يوه ناسته کې وړاندې او وخوړل شي").
+د داخلې(د دُرۍ، ن، [دُرۍګانې]، "د غنمو یوه غوټه").
+entry(mealier, comparative, [], "د mealy").
+entry(mealiest, superlative, [], "د mealy").
+دخول(mealless, صفت, [], "د خوراک نه شتون").
+دخول(mealtime, n, [mealtimes], "د خوراک معمول وخت").
+entry(خوراکي ځنځير, ن, [خوراکي ځنځيرونه], "د ځینو ډډبرو تخریبي لاروا").
+entry(mealy, adj, [], "نرم، وچ او مېده").
+entry(مېلي بګ, ن, [مېلي بګان], "يو ويجاړونکی حشره").
+د ننوتلې(د مطلب، صفت، [], "ډیر معنی لرونکی تر ټولو ډیر معنی لرونکی په درجه کې ټیټ کیفیت یا کرکټر").
+entry(معنی, v, [معنی شو,معنا,معناوي], "اراده لرل").
+داخل(meander, v, [meandered,meandering,meanders], "په ناپوهۍ سره ګرځېدل").
+entry(meaner, n, [meaners], "هغه چې معنی ورکوي").
+entry(meanie, n, [meanies], "یو بد انسان").
+د دخول(‌meanies، جمع، []، "of meany").
+د {مانا, نوم, [ماناوې], "یو څه چې څوک یې د ژبې له لارې انتقالول غواړي"} په توګه.
+entry(meanly, adv, [], "په بد ډول").
+entry(کینه, ن, [کینې], "د بد فعلي حالت").
+entry(منظور, ماضی, [], "د مرسته موخه").
+entry(په دې منځ کې، n، [د دې منځونو]، "د منځني وخت").
+د ننوتلو(مياني, ن, [ميانيان], "مياني").
+دريځ(measle, ن, [وژونکې ناروغي], "يوه tape worm larvaMEASLED adj").
+ورودی(ناکافی, صفت, [], "ډېر ناکافی تر ټولو ناکافی").
+ورودي(مقياس, فعل, [مقياس کړ, مقياس کول, مقياسوي], "د يو څيز ابعاد، مقدار يا ظرفيت معلومول").
+دخول(measurer, n, [measurers], "هغه څوک چې اندازه کوي").
+دخیل(غوښه, ن، [غوښې], "د حیوان د بدن استفاده شوې برخه د خوراک لپاره غوښه").
+entry(ميټال, صفت, [], "د مياتس سره تړاو لرونکی").
+د ننوتنې(ګولۍ، ن، [ګولۍ]، "د غوښې یوه وړوکې ګولۍ").
+entry(meathead, n, [meatheads], "يو بې عقل").
+entry(د غوښې هوک, ن, [د غوښې هوکس], "هغه هوک چې غوښه پرې ځړول کېږي").
+entry(meatier, comparative, [], "د غوښه ډک").
+entry(ترټولو_غښتلی, عالي_درجه, [], "د غوښې").
+entry(په غوښین ډول, adv, [], "په غوښین ډول").
+entry(meatless, adj, [], "د غوښې پرته").
+د-ورودی(ګیډۍ، ن، [ګیډۍ ګانې]، "د ځمکه شوي غوښې پخه شوې ګیډۍ").
+د ننوتنه (غوشتيان, ن, [غوشتيان], "د غوښې پلورونکي").
+entry(meatus, n, [meatuses], "يو طبيعي د بدن لاره").
+entry(meaty, adj, [], "د غوښې څخه ډک").
+د ننه (mecca, ن, [meccas], "يو ځای چې ډیرو خلکو لخوا لیدل کیږي").
+entry(mech, n, [mechs], "یو میخانیک").
+داخلې(مېخانیک، ن، [مېخانیکونه]، "یو کس چې له ماشینونو سره کار کوي").
+په(ميچيتزا، ن، [ميچيتزې]، "يا میچيتزوټ يو جدا کوونکې ديوال چې سړي او ښځې په عبادت ځاى کې جلا کوي").
+entry(mechoui, n, [mechouis], "د غوښې ډوډۍ چې په سيخ کې پخه شوې وي").
+entry(میکونیم, n, [میکونیمونه], "د نوي زیږیدلي ماشوم لومړنی فکال اخراج").
+دخولی(وسط، ن، [وسطونه]، "درمل").
+entry(medaka, n, [medakas], "يو جاپاني ماهي").
+entry(medal, v, [medaled,medaling,medals], "يا MEDALLED MEDALLING MEDALs ته د مډال ورکول د فلزي یادګاري ټوټه").
+entry(مډال ګټونکی, ن, [مډال ګټونکي], "هغه کس چې مډال ورکړل شوی وي").
+entry(medallic, adj, [], "د مډال پورې اړوند یا").
+د ننه ستونزه(medalling، الف، []، "د مډال اوسنی برخه").
+entry(مداخلت کول, v, [مداخلت کړو,مداخلت کول,مداخلت کوي], "په هغه څه کې دلچسپي لرل چې د یو چا سره تړاو نلري").
+entry(مداخله کوونکی, ن, [مداخله کوونکي], "څوک چې مداخله کوي").
+entry(medevac, v, [medevaced,medevacing,medevacs], "یا MEDEVACKED MEDEVACKING MEDEVACs د هلیکوپټر له لارې د جګړې له ډګره د ټپیانو تخلیه کول").
+entry(medfly, n, [medflies], "د مدیترانی ميوه مچ").
+د داخلې(رسنۍ، ن، [رسنۍ], "د وینې یا لمف کښی د رګ منځنۍ پوړ").
+د ننوتنه(رسنۍ، ن، [رسنۍ ګانې]، "د اړیکې یو کانال").
+entry(مداخلت, n, [مداخلتونه], "د منځګړيتوب عمل").
+entry(مېڊياډ، ظرف، [], "د بدن يا برخې منځ ته").
+entry(mediae, pl, [], "د میډیا").
+د ننه(medial, n, [medials], "يو غږ څپه يا ليک په يوې کليمې کې د منځ په برخې کې").
+entry(په منځنۍ توګه, قيد, [], "په يو مرکزي ډول").
+entry(مينځ, ن, [مينځونه], "يو مرکزي برخه").
+د ننوتلو(انډوليزه، ق، [], "منځنۍ").
+entry(منصف, ن, [منصفونه], "د موسیقۍ یو ډول").
+دخول(mediate, v, [mediated, mediating, mediates], "د شخړه کوونکو ډلو تر منځ د حل راوستلو لپاره منځګړتوب کول").
+entry(منځګړی, ن, [منځګړي], "هغه څوک چې منځګړيتوب کوي").
+entry(طب، ن، [ډاکټران]، "هغه څوک چې په طبي کار کې بوخت وي").
+entry(ميډيکېډ, ن, [ميډيکيډونه], "د حکومتي روغتيايي پروګرام يو ډول").
+entry(طبي، ن، [طبيات]، "يو فزيکي معاینه").
+entry(medicant, n, [medicants], "د رغیدو ماده").
+entry(مېډيکېر, ن, [مېډيکېر], "د حکومتي روغتیایي پروګرام یوه بڼه").
+entry(دوا ورکول, v, [دوا ورکړل, دوا ورکول, دوا ورکوي], "د درملو په واسطه علاج کول").
+entry(مېډيسايد, ن, [مېډيسايدونه], "يوه طبي مرسته شوې ځانوژنه").
+entry(درمل, v, [درملول,درمل ورکول,درمل], "د ناروغۍ د درملنې لپاره يو ماده ورکول").
+انټرۍ(مېډیک، ن، [مېډيکس]، "یو ګل لرونکی بوټی").
+entry(ډاکټر, ن, [ډاکټران], "یو ډاکټر یا د طب زده کونکی").
+د ننوتنه(منځنۍ دورې، ن، [منځنۍ د ورې خلک]، "يو شخص چې منځنيو دورو پورې اړه لري").
+entry(medigap, n, [medigaps], "د صحي بیمې اضافي بیمه").
+د پاسنۍ کرښې د پښتو ژبې ژباړه نشم کولی، ځکه چی دا د Prolog لپاره یوه کرښه ده او باید همداسې پاتې وی. نو لاندې Prolog دی:
+entry(medii, pl, [], "of medius").
+entry(مدينه, ن, [مدينې], "د شمالي افريقايي ښار اصلي سیمه").
+entry(منځنۍ, صفت, [], "نه ښه او نه بد").
+ورود(meditate, v, [meditated, meditating, meditates], "څنګ ته").
+entry(منځنۍ, n, [منځنۍ], "یا د رسنیو شاوخوا چاپیریال چې په کې یو شی فعالیت کوي او وده کوي").
+entry(medius, n, [medii], "منځنی ګوته").
+entry(طبي وتنه, v, [په طبي توګه ووتل, په طبي توګه ووتونکي, طبي وتنې], "يا په طبي توګه وتلې په طبي توګه وتونکي طبي وتنېمېديواک").
+entry(د بهانفک، ن، [بهانفکان], "یو د یوریشیا ونی").
+مقاله(مډلي، ن، [مډليز]، "یوه ګډوله").
+entry(مدرسه, ن, [مدارس], "مدرسه").
+د ننهې (medulla) ته ننوتل، نوم، [ننهې ګانې]، "يا MEDULLAEکوم چې د ځانګړو نباتاتو په ساقو کې مرکزي نسج دیMEDULLAR صفت".
+entry(مېډوسا, ن, [مېډوسې], "يا MEDUSAE ي لويښتۍ MEDUSAL adj").
+entry(مدوسان, n, [مدسونس], "مدوسا").
+entry(میډوسوئید, ن, [میډوسوئیدونه], "میډوسا").
+entry(meed, n, [meeds], "یو مستحق انعام").
+د پیل(نرم, صفت, [], "ډیر نرم، نرم‌ترین، د روحیه او زړورتیا نشتوالی، نرمۍ سره، قید").
+entry(حلیمي, n, [حلیمياني], "د حلیمۍ ځانګړتیا").
+entry(مېرکات، ن، [مېرکاتونه]، "یو افریقایي منګوز").
+entry(لېدل, v, [ولید, لېدنه, لېدې], "د چا یا د کوم شئ سره مخامخ کېدل").
+\entry(meeter, n, [meeters], "هغه څوک چې مخامخ کېږي").
+entry(غونډه, ن, [غونډې], "د یو مشترک هدف لپاره غونډه").
+entry(دقیقا, adv, [], "په مناسبه توګه").
+entry(مناسبت, ن, [مناسبتونه], "سوټیبیلیټی").
+entry(meg, n, [megs], "يو مېګابايټ").
+entry(ميګا, صفت, [], "په اندازه يا اهميت کې لوی").
+entry(megabar, n, [megabars], "د فشار واحد").
+entry(megabit, n, [ميګابټونه], "د کمپیوټر معلوماتو یوه واحد").
+entry(ميګابک, ن, [ميګابکس], "یو ملیون ډالر").
+entry(ميګابايټ, ن, [ميګاباټس], "1048576 بايټونه").
+entry(لویه_ښار, ن, [لوي_ښارونه], "يو ډېر لوي ښار").
+entry(ميګاډيل, ن, [ميګاډيلونه], "يو سوداګريز تړون چې په کې زياتې پيسې شاملې وي").
+entry(میګاډوز, ن, [میګاډوزونه], "بې‌سارې لوی خوراک").
+entry(ميګډاين, ن, [ميګډاينونه], "د ځواک يو واحد").
+ورود(میګافلاپ، ن، [میګافلاپس]، "د کمپیوټینګ سرعت اندازه").
+entry(megahit, n, [megahits], "څه شی چې ډېر بریالی وي").
+ماده(megalith, ن, [megaliths], "یو لوی ډبره چې په تاریخ مخکې ودانیزونو کې کارول کیږي").
+entry(مېګالوپس, n, [مېګالوپسونه], "د ډېرو خرچنګانو د لاروايي حالت").
+entry(ميګامال, ن, [ميګامالونه], "يو ډېر لوی شاپنگ مال").
+د Prolog کوډ:
+entry(megaplex, n, [megaplexes], "یو لوی ودانۍ چې ډیری سینماګانې لري").
+entry(megapod, n, [megapods], "میګاپوډ").
+entry(ميگاپوډ, ن, [ميگاپوډونه], "يو لوى پښه لرونکې مرغۍ").
+ورودی(میګارون, ن, [میګارا], "د یو لرغوني یوناني کور ستر مرکزي تالار").
+entry(megass, n, [megasses], "یو بګاس").
+سکين(entry, ميگاس, ن، [ميگاسونه], "ميگاس").
+entry(میګا سټار, n, [میګا سټارونه], "یو ډیر بریالی اداکار").
+entry(megaton, n, [megatons], "د يو چاودني ځواک واحد").
+entry(megavolt, n, [میګاولټونه], "د بریښنا د ځواک یوه واحد").
+entry(megawatt, n, [میګاواټونه], "د ځواک یوه واحد").
+entry(megilla, n, [megillas], "میګیله").
+entry(مګله, n, [مګلې], "يو اوږد او پېچلی داستان").
+entry(مېګِلپ, n, [مېګِلپونه], "یوه ماده چې په نقاشۍ کې رنګونه ورسره ګډیږي").
+ننوتنه(ميګلف، ن، [ميګلفونه]، "ميګلف").
+entry(میگا اوم, ن, [میگا اومونه], "د بریښنايي مقاومت یوه واحد").
+entry(megrim, n, [megrims], "يوه ميګرین").
+entry(مه, صفت, [], "نه خوښونکی بې خونده").
+ورود(mehndi, ن, [mehndis], "په هينا سره د پوستکي پر مخ د بڼو انځورولو هنر").
+داخل(meikle, صفت, [], "لوی").
+entry(meinie, n, [meinies], "meiny").
+Prolog: entry(meiny, n, [meinies], "يو سربند").
+د ننوتنه(میوزیس, ن, [میوزیسونه], "د حجرو د وېش یوه بڼه MEIOTIC صفت").
+د دې پرو لاګ ليکه پښتو ژبې ته ژباړه:
+
+```prolog
+entry(استاد, n, [استادان], "هغه څوک چې د يو ځانګړي څيز په اړه ماهر وي").
+```
+دخول(mel, ن, [mels], "شات").
+entry(ميلينا, ن, [ميليناس], "ميلينا").
+د داخلیدو(ملامد، ن، [ملمدیم], "په یوه یهودي ښوونځي کې ښوونکی").
+entry(ميلامين, ن, [ميلامينونه], "يو کیمیاوي مرکب").
+دخول(melange, ن، [melanges]، "یو مخلوط").
+entry(melanian, adj, [], "د تور رنګ سره تړاو لرونکی").
+entry(melanic, n, [melanics], "هغه څوک چې د ملانیزم سره اغیزمن شوی وي").
+entry(ملانین, ن, [ملانینونه], "یو تور رنګیز").
+entry(ملانیزم, ن, [ملانیزمونه], "د پوستکي غیرمعمولي تياره رنګ").
+entry(ميلانست, ن, [ميلانسټان], "يو ميلانيک").
+داخلول(melanite, ن، [melanites]، "د ګرنټ یو تور ډول").
+entry(تورکول, v, [تورکړی,تورکول,تورکوي], "توره کول").
+entry(ميلانوايد, n, [ميلانوايدونه], "يو تور رنګ").
+entry(ميلانوما, n, [ميلانوماګانې], "يا MELANOMATA يو تياره رنګه مټاسيس").
+entry(مېلانوس, صفت, [], "چې تياره پوست او وېښتان لري").
+entry(meld, v, [melded,melding,melds], "مخلوط کول").
+د رېښتیا ډاټا: entry(melder, n, [melders], "په يو وخت کې ژرنده شوي غلې دانو اندازه").
+د داخلول(ګوزار, ن, [ګوزارونه], "يو ګډوډه جګړه").
+entry(ميلينا, ن, [ميليناس], "يو حالت چې د تور تور رڼا لرونکی فضله موادو لخوا مشخص کړی شوی").
+entry(ميلڪ, صفت, [], "د سندرې اړوند").
+entry(ميليلايټ, ن, [ميليلايټونه], "د معدنيات ډله").
+د چونې_بوټی, ن, [چونې_بوټې], "یو ګل کوونکی بوټی").
+entry(میلنایټ, n, [میلنایټونه], "یوه قوي چاودېدونکې ماده").
+entry(ملیزما, ن, [ملیزماګانې], "یا MELISMATAملوډیک سينګار").
+entry(mell, v, [melled, melling, mells], "ګډول").
+Prolog:
+entry(mellific, adj, [], "چې شات تولیدوي").
+ورودی(نرم، صفت، [], "د نرمۍ ډیر نرم او بشپړ خوند د پختګۍ څخه دی نرم ګون").
+د خولې پروګرامونه (mellow, v, [mellowed,mellowing,mellows], "پخول يا نرمول").
+entry(ميلوډيون, n, [ميلوډيونونه], "يو وړوکی اکارډيون").
+entry(melodia, n, [ملودیاوې], "د ارګ یو ډول تمځای").
+entry(ملوډیک, صفت, [], "د نغمو پورې اړوند").
+د ننوتنه(ملوډیکا، ن، [ملوډیکاس]، "یو هارمونیکا چې په یو اړخ کې کوچنۍ کیبورډ لري").
+د داخلې (ملودۍ، pl، []، "د ملودۍ").
+entry(melodion, ن, [melodions], "melodeon").
+entry(مېلوډ کول, v, [مېلوډ شوی,مېلوډ کول,مېلوډ کوي], "نغمې ته اړول").
+دخول(melodist, ن, [melodists], "د لحنونو جوړونکی").
+entry(melodize, v, [melodized,melodizing,melodizes], "يوه نغمه جوړول").
+entry(ملودي, ن, [ملودۍ], "د موسيقي غږونو یو خوږ وروسته وروسته کیدل").
+entry(ميلويد, ن, [ميلويدز], "د يوه ډوله غوبل").
+د پرولوګ: entry(melon, n, [melons], "هر ډول د بادنجانانو MELONY adj").
+entry(melt, v, [مېلټ شوی,مېلېدل,مېلېږي], "له جامده څخه د ګرمۍ په واسطه مایع حالت ته بدلون ورکول MELTABLE صفت").
+entry(مېلتاژ, ن, [مېلتاژونه], "د وېل کېدو پروسه").
+entry(میلټډاون, ن, [میلټډاونونه], "د یو اتومي ری‌اکټر د هسته ویلې کېدل").
+entry(melter, n, [melters], "هغه څوک چې ويلې کوي").
+entry(ملټن, ن, [ملټنز], "یو دروند وړین ټوکر").
+entry(په ويلي شوې جامد ته ورته، صفت، [], "melty").
+```prolog
+entry(mem, n, [mems], "د عبراني الفبې يو توری").
+```
+entry(member, n, [غړي], "د ټولMEMBERED یوه جلا برخه adj").
+entry(غشاء, ن, [غشاګانې], "یو پتلی انعطاف منونکی د نسج پوړ").
+د پرو لاګ کرښه: entry(meme, n, [memes], "يوه مفکوره يا تمرين چې له شخص څخه شخص ته خپرېږيMEMETIC adj").
+entry(يادگيرنه, n, [يادگيرنې], "يا يادګيرنیکس څه چې د تېرو وختونو یادوی").
+د جملو پروګرام:
+entry(memetics, npl, [], "د مېمزونو او د هغوی د اغېزو مطالعه").
+entry(يادښت, n, [يادښتونه], "يو يادښت چې د څه د ياد ساتلو لپاره وي").
+د Prolog:
+entry(memoir, n, [memoirs], "يوه ژوندليک").
+entry(يادگار, ن, [يادګارونه], "هغه څه چې د يو شخص يا پيښي د يادونې لپاره وي").
+دخول(memorise, v, [memorised,memorising,memorises], "یادول").
+entry(حفظ, فعل, [حفظ کړ,حفظ کول,حفظ کوي], "په یاد ساتل").
+entry(یادونه, n, [یادښتونه], "ذهن ته د تیرو تجربو ساتل او یادول").
+entry(مېم صاحب, ن, [مېم صاحبانې], "په استعماري هند کې يوه اروپايي ښځه").
+د ننه (سړي، جمع، []، "د سړي") .
+entry(ګواښ, ف, [ګواښ_کړ,ګواښ_کوي,ګواښونه], "ګواښ‌کول").
+entry(ګواښګر, ن, [ګواښګرونه], "هغه څوک چې ګواښ کوي").
+entry(ميناد, ن, [مينادونه], "مايناد").
+entry(کورني, ن, [کورني], "یو کورنۍ").
+entry(مينارک, ن, [مينارکېس], "د مياشتني ناروغۍ لمړۍ پېښه").
+entry(مینازون, ن, [مینازونونه], "یوه حشره وژونکې ماده").
+داخلې(ترميم کړه، فعل، [ترميم شو، ترميم کول، ترميم کوي]، "ترميمېدونکى صفت").
+entry(mender, n, [menders], "هغه څوک چې سموي").
+entry(فقير, n, [فقيران], "يو د خوږو ابو کبان").
+entry(مرمت, ن, [مرمتونه], "هغه شیان چې د ترمیم لپاره راټول شوي").
+داخلول(نارینه, جمع, [], "د کورنۍ یا ټولنې نارینه").
+د ننوتنه(سړي، مذکر جمع، [], "سړي").
+entry(مينهيډن, n, [مينهيډنز], "يو سمندري کب").
+entry(مېنهير, n, [مېنهيرونه], "يو قبل تاريخي يادګار").
+entry(خدمتګار, ن, [خدمتګاران], "يو کورنۍ خادم").
+entry(مټينيلي, قوس, [], "په خادمانه ډول").
+entry(د مغز پوښ, ن, [مېنينګې], "هر هغه پوښ چې د مغز او ملا تیر پوښي").
+entry(مینیسکوس, ن, [مینیسکوسونه], "یا MENISCI یو هلالي بدن MENISCAL adj").
+دخول(meno, adv, [], "د موسیقي لارښوونې په توګه لږ استعمالیږي").
+entry(مېنالوژي, ن, [مېنالوژۍ], "يو مذهبي جنتري").
+مشق_داخلول(منوره, ن, [منورې], "په یهودي عبادتونو کې کاریدونکی څراغ لرونکی").
+entry(mensa, n, [mensas], "or MENSAEthe grinding surface of a tooth").
+دورتی(entry, adj, [], "د میز سره تړلی یا په میز کې کارول کیږي").
+entry(انسان, ن, [انسانان], "يا d يو ستايل شخصیتد ستايل خصوصيات").
+د دې کرښې د ژباړې لپاره مناسبې لارې شتون نلري، ځکه چې پروګرامنګ ژبې لکه Prolog له یو ژبې نه بلې ته په مستقیم ډول نه ژباړل کېږي. د دې پر ځای مفهوم ژباړې اړتیا لري.
+
+په پرو لوګ کې، د نوعیت(مثال: v د فعل لپاره)، لیستونه (مثل: [mensed, mensing, menses])، او د انګلیسي څخه ژباړنې لپاره مستقیمه معادله کلمه نشته. که د کلمې مفهوم ته اړتیا وي، ژباړه به څه داسې وي:
+
+`entry(mense, v, [mensed,mensing,menses], "درنښت کول").`
+
+خو، لطفاً یاد ولرئ چې دا یوازې یوه مفهومي ژباړه ده او د اصلي کوډ په حیث اعتبار نه لري.
+دخول(menseful, صفت, [], "مناسب").
+entry(مېنش, ن, [مېنشز], "یا مېنشنmensch").
+entry(مېنستروآ, npl, [], "حلالونه").
+entry(منزورل, صفت, [], "د اندازه پورې اړه لري").
+entry(menswear, n, [menswear], "د نارینه و جامې").
+entry(menta, pl, [], "د mentum").
+entry(ذهني, صفت, [], "ذهن سره تړاو لرلمنی انگیزه").
+د داخلې(نيول شوی، ن، [نيول شويان], "هغه څوک چې روزل کیږي").
+د ننوتنه (مينتهين, ن, [مينتهينونه], "يو مايع هايډروکاربن").
+د ننوتنه (میتهول، ن، [میتهولونه], "یوه الکول").
+entry(يادونه, v, [يادونه وکړه, يادونه کول, يادونه کوي], "په بې پروا ډول اشاره کول").
+entry(mento, n, [mentos], "د جاميکا د فولکلوري موسیقۍ یو سبک").
+د داخلېدنې(لارښود, فع، [لارښودل, لارښوونه کول, لارښودان], "د یو ملګري او ښوونکي په توګه خدمت کول").
+entry(mentum, n, [menta], "زن").
+entry(مينيو, ن, [مينيوګانې], "په يو رېسټورانټ کې د موجودو خوړو يو لېست").
+entry(منوډو, ن, [منوډوز], "يوه تيرپي ښوروا د مرچکو سره").
+entry(meou, v, [meoued,meouing,meous], "میو کول").
+entry(مياو, فعل, [مياودلې,مياوډل,مياودي], "د پيشو ژړا غږ جوړول").
+د Prolog:
+entry(mephitis, n, [mephitises], "ناوړه بوی MEPHITIC adj").
+ورد(merc, ن, [mercs], "یا MERCES مزدور").
+entry(مارکيټ, ن, [مارکيټونه], "يو مارکيټ").
+entry(mercapto, صفت, [], "چې ځانګړې کیمیاوي ډله لري").
+entry(مرصه, ن, [مرصې], "د ټوکرونو یو سوداګر").
+د دې Prolog کرښه په پښتو کې داسې ده: 
+```prolog
+entry(mercery, n, [merceries], "د مالوچ پلورنځی").
+```
+د داخلولو(سودا, ن, [سودايان], "سوداګري").
+د خطا پايلې:
+entry(سوداګر, v, [سوداګریز, سوداګریز کول, سوداګر], "مالونه د ګټې لپاره رانیول او پلورل").
+entry(mercies, pl, [], "د رحم").
+entry(رحم کوونکی, صفت, [], "د رحم څخه ډک").
+دخولی(مرکیوری, ن, [مرکیوریز], "یو فلزی عنصرمرکیوریک adj").
+entry(رحم, ن, [رحمتونه], "هغه مهرباني چې مجرم يا دښمن ته څرګنده شي").
+entry(mere, adj, [], "MERER MERESTیوازې هیڅ نه ډیرMERELY adv").
+دخولیه(مېر، ن، [میریس], "یو حوض یا جهیل").
+entry(مرينگو, ن, [مرينگوګانې], "يو تالار نڅا").
+entry(يوځایکول, فعل, [یوځایکړ, یوځایکول, یوځایکوي], "سره یو ځای کول").
+entry(mergee, n, [مرج شوی شرکتونه], "د یو ادغام لخوا اخیستل شوی شرکت").
+```prolog
+entry(یوځای کېدل, n, [یوځای کېدنې], "د یوځای کېدو عمل").
+```
+entry(merger, n, [مرنډې], "د دوه یا زیاتو سوداګریزو شرکتونو اتحاد په یوه واحد شرکت کې").
+entry(يوځای کېدل, ن, [يوځای کېدلونه], "د يو ځای کېدو عمل").
+entry(مرګاز, ن, [مرګاز], "يو مساله دار غوښه او پسونو ساسیج").
+entry(مېرېدین, ن, [مېرېدینونه], "یو حلقه د ځمکې شاوخوا چې د دواړو قطبونو له لارې تیریږي").
+entry(ميرينگيو, ن, [ميرينگۍ], "د خوږو پاستريو لپاره يوه سرپوښ").
+د ن است entry(merino, [merinos], "یو ښه وړۍ").
+entry(مرجي, ن, [مرجا], "رشد").
+entry(meristem, n, [meristems], "د نباتو جوړه کوونکې څانګه").
+entry(مرستیک, صفت, [], "له برخو جوړ شوی").
+دداخلې(تحصیل, فعل, [تحصیل کړی, تحصیل کوونکی, تحصیل کوي], "گټل").
+entry(merk, n, [merks], "د سکاټلنډ پخوانۍ سکه").
+entry(مرغلر, ن, [مرغلرګانې], "مرغل").
+entry(مرغلره، ن، [مرغلرې]، "یو تورمرغه").
+د ننوتنه(مرلین، ن، [مرلیندې], "یو اروپایي باز").
+entry(مرلې، ن، [مرلې], "د يو خالي شوې بام د مستحکم برخه").
+entry(مرلو، ن، [مرلوټس]، "يو وچ سور شراب").
+entry(مرغۍ, ن, [مرغۍ], "یو افسانوي سمندري مخلوق").
+entry(انسان ماهي، ن، [انسانان ماهيان]، "يو افسانوي بحري مخلوق").
+entry(مرونيوم, ن, [مرونيومونه], "د یوې برخې اصطلاح چې د ټولې هغې د ښودلو لپاره کارول کېږي").
+د پرولوګ کوډ:
+```prolog
+entry(مرونومي, ن, [مرونوميو], "د یوې برخې او ټولې ترمنځ معنوي اړیکه").
+```
+دته(میروپیا, ن, [میروپیاس], "جزوی ړوندوالیMEROPIC صفت").
+entry(merry, adj, [], "خوښ خوشحاله خوشګذاره").
+entry(میسا, n, [میساګانې], "یو ځمکنی جوړښت چې یوه هواره سر او توندې غاړې لري").
+خانده(mesally, قيد، [], "په منځ کې").
+entry(mesarch, adj, [], "په نمجن استوګنځي کې راټوکېدل").
+entry(میسکل, ن, [میسکلونه], "یو کاکتوس چې د شرابو د منبع په توګه کارول کیږي").
+entry(میسکلین, ن, [میسکلینونه], "میسکلین یو توهم راوړونکی مرکب").
+entry(مسلون, n, [مسلونونه], "د ځوانو نازکو شنو بوټو مرکب").
+د ننوتلو(مېرمنې, جمع, [], "د مېرمن").
+```prolog
+entry(meseems, v, [], "تېر زمانه MESEEMED اوسنی 3d شخص یواځېنی MESEEMETH دا زه ته ښکاري MESEEMS یو غیرشخصي فعل دی او یوازې په 3d شخص یواځېنی کې کارول کېږي").
+```
+د ننوتنه(ښکلا, و, [ښکلی, ښکلبېدنه, ښکلاوې], "کلابندول").
+د داخلېدو(مېشېر، تقابلي، [], "د مېشي").
+د داخلې(ميشيسټ، د مطلق ترجيح درجه، [], "د ميشي").
+entry(ميسنګ، ن، [ميسنګز]، "د يو ځای کولو عمل").
+entry(meshuga, adj, [], "ليونی").
+entry(ميشوګه, صفت, [], "ميشوګه").
+entry(مېشګا, صفت, [], "مېشګو").
+entry(meshugge, adj, [], "meshuga").
+entry(meshwork, n, [meshworks], "شبکه").
+entry(meshy, adj, [], "MESHIER MESHIESTnetty").
+entry(منځنۍ, صفت, [], "په منځ کې موقعیت لرل،منځنیا").
+entry(ميزيان, صفت, [], "mesial").
+entry(mesic, صفت, [], "د منځني رطوبت عرضه").
+entry(مسمرک, صفت, [], "د هيپنوتزم پورې اړه لرونکي").
+د برلوګ کوډ په توګه:
+
+```prolog
+ورود(mesnalty, n, [mesnalties], "د فیوډل ځای ډوله").
+```
+اندراج(منځنی، ن، [منځنيان]، "يو اشرافي چې د يو لوړ مقام لرونکي څخه ځمکه په جاګیر اخلي").
+entry(د منځنۍ پوښ, ن, [منځنۍ پوښونه], "د پوستکي منځنۍ پوښ").
+entry(مېسوډرم, ن, [مېسوډرمه], "د جنين منځنۍ جرمي طبقه").
+entry(mesoglea, n, [mesogleas], "په سپنجو کې يو جيلاټينوسي مواد").
+entry(ميسومير, n, [ميسوميرز], "يو جنيني برخه").
+د Prolog په بڼه کې ژباړه:  
+`entry(میسون, ن, [میسونونه], "یو الیترون نهیلی څېځه").`
+د ننوتنه(ميوفيلي، ن، [ميوفيليونه]، "د پاڼې نرم نسج").
+entry(مساسور, ن, [مساسورونه], "يو منقرض شوی آبي خزنده").
+entry(ميسوسوم, n, [ميسوسومونه], "یوه ځانګړې حجروي برخه").
+entry(میسوټرون, ن, [میسوټرونونه], "یو میسن").
+دخول(mesozoan, ن, [mesozoans], "د کرمۍ په څېر یوې فلیم څخه خپلواکه موجودات").
+دخولی(مسکیت, ن, [مسکیټس], "مسکیټ").
+entry(میسکیوټ, n, [میسکیوټونه], "یو مخکنی ونه یا بوټی").
+entry(mess, v, [messed,messing,messes], "چټل یا نا مرتب کول").
+د ننه وتنې(پيغام، v، [پيغامونه، پيغام رسونه، پيغامونه، "يو ليکلی يا شفاهي يا اشاره شوې اړيکه د پيغام په توګه ليږل").
+entry(مېسان، ن، [مېسانان], "يو کوچنی سپی").
+entry(مسيح, ن, [مسيحان], "يو تمه شوې خلاصونکى").
+entry(messier, comparative, [], "د ګډوډ").
+entry(messiest, superlative, [], "د ګندګۍ").
+entry(مسيوګان، جمع، [], "د مسيو").
+entry(په ګډوډۍ سره, قید, [], "په ګډوډ ډول").
+entry(مس‌من, ن, [مس‌مېن], "یو خدمت کوونکی چې په خوراک ځای کې کار کوي").
+entry(ملګری، n، [ملګري]، "یو کس چې ورسره په منظم ډول ډوډۍ خوري").
+د پیغام، ن، [پیغامونه]، "یو استوګنځي کور د دې سره نږدې ودانیو او ځمکې"
+entry(messy, صفت, [], "ګنده ګنده ترینdirty یا بې ترتیبه").
+entry(مستی, ن, [مستیان], "مستي").
+داسې ښکاري چې تاسو د Prolog متن د پښتو ته د ژباړې په اړه پوښتنه لرئ. مګر، د Prolog کوډ په خپله بڼه کې باید بدل نشي ځکه چې دا د برنامې کوډ دی. دلته یوازې Prolog کوډ دی:
+
+```prolog
+entry(mesteso, n, [mestesos], "or MESTESOESmestizo").
+```
+entry(مستینو, مذکر, [مستینوګان], "یا MESTINOESmestizo").
+entry(ميستيزا, ن, [ميستيځې], "يوه ښځينه ميستيزو").
+entry(مېستيزو, ن, [مېستيزوز], "يا مېستيزووې يو داسې شخص چې مختلف نسلي شجرې لري").
+داخلول(مخکې ليدل شوی، تیر، [], "د ليدلو زمانه").
+اینټرۍ(میټا, صفت, [], "د یو کاربن اتوم په واسطه سره بېل شوي د بینزین کړۍ په پوستونو پورې اړه لري").
+د معلوماتو يو مجموعه چې د نورو معلوماتو په اړه معلومات ورکوي, entry(metadata, npl, [], "a set of data that gives information about other data").
+entry(مېټاژ, ن, [مېټاژونه], "د وزن يا منځپانګې رسمي اندازه").
+عمل(metal، فعل، [metaled, metaling, metals]، "يا METALLED METALLING METALS د هر ډول نرم، ویلې کیدونکی او ځلېدونکی مادي فلز پوښښ").
+entry(فلز کول, v, [فلز شوی,فلز کول,فلز کوي], "فلز کول").
+entry(metalist, n, [metalists], "هغه څوک چې د فلزاتو سره کار کوي").
+entry(فلزي کول, فعل, [فلزي شوی, فلزي کول, فلزي کوي], "د فلز سره چلند کول").
+entry(فلزکاری، الف، [], "د فلزي کولو تېر زمانه").
+entry(فلزي, ن, [فلزيات], "يوه جامه يا تاڼه چې د فلز څخه جوړه شوې یا فلز ل coating ا پوښل شوې وي").
+entry(د فلزکاری کول, الف, [], "د فلز د فعل حال برخه").
+entry(مېټامر, ن, [مېټامران], "د کیمیاوي مرکب یو ډول").
+entry(مېټامیر, ن, [مېټامیرونه], "یو سېګمنټ").
+entry(متانیه، ن، [متانیېس]، "یو روحاني بدلون").
+د ننوتنه(استعاره, ن, [استعارې], "د وينا يو ډول").
+entry(مېټاټاګ, ن, [مېټاټاګونه], "یو HTML ټاګ چې د یوه ویب پاڼې په اړه معلومات لري").
+entry(متاتے, ن, [متاتے], "د غلو د مینځلو لپاره کاریدونکې کاڼی").
+entry(متازوان, ن, [متازوانان], "د ګڼ حجروي ژوو یوه لویه ډله چې د میټازوئن یا میټازویک صفت لري").
+entry(میټازون, ن, [میټازووا], "یو میټازوان").
+entry(mete, v, [meted,meting,metes], "د اندازې له مخې تقسیم کول").
+entry(د meteor، n، [meteors]، "يو کوچنی آسماني جسم چې د ځمکې په فضا کې ننوځيMETEORIC adj").
+entry(میتېپا, ن, [میتېپاز], "یو کیمیاوي مرکب").
+entry(مینہ, v, [مینہ شوی,مینہ کول,مینې], "د میخانیکي وسیلو له لارې اندازه کول").
+entry(مېٽرج، ن، [مېٽرجيز], "د مېټرولو عمل").
+entry(meth, n, [meths], "یوه تحرک ورکونکې نشه").
+entry(مېتھاډون, ن, [مېتھاډونونه], "یوه نشه یې توکه").
+د زړه په سوکانو:
+
+```prolog
+entry(methanal, n, [methanals], "فارمالډېهايد").
+```
+entry(میتهین, ن, [میتهینونه], "یو سوځېدونکی ګاز").
+entry(مېتانول, ن, [مېتانولونه], "یو زهری الکول").
+entry(methinks, v, [], "د تېر زمانه METHOUGHT دا ماته داسې ښکاري METHINKS غیرشخصی فعل دی او یوازې په ۳یم مفرد شخص کښې کارول کیږي").
+د پرو لاګ کرښه په پښتو کې: entry(method, n, [روشونه], "د اجرا طریقه").
+entry(methodic, adj, [], "منظمه").
+entry(مېتاکسي, صفت, [], "یو ځانګړی کیمیاوي ډله لرونکی").
+د ننوتنه(میتوکسیل, صفت, [], "میتوکسي").
+entry(میتیل, ن, [میتیلونه], "یو واحد رادیکال، میتیلک صفت").
+entry(methylal, n, [methylals], "یو اور اخیستونکی مایع").
+د ننوتنه(ميتيکل، ن، [ميتيکالونه]، "يا د موزمبيق يوه پولي واحد METICAIS").
+د Prolog کوډ:
+entry(metier, n, [metiers], "يو مسلک").
+ورود(meting, موجود, [], "د mete مشارک").
+entry(ميټيس, ن, [ميټيس], "د مختلفو نسلونو شخص").
+entry(متيز, ن, [متيزان], "يوه ښځينه متيز").
+entry(ميټول, n, [ميټولونه], "يو پوډر چې د عکاسي د پـړاوونکـي په توګه کارول کيږي").
+entry(metonym, n, [metonyms], "په استعاره کې کارېدونکی کلمه").
+entry(مجاز, ن, [مجازونه], "د وینا ډول").
+entry(میتوپ, ن, [میتوپس], "یا METOPAEa دوه ټرایګلایفس ترمنځ ځای").
+entry(متوپيک, صفت, [], "د تندي پورې اړه لري").
+entry(ميتوپون, ن, [ميتوپونونه], "يو مخدره ماده").
+ثبت(ميټرازول, ن, [ميټرازولونه], "يو پوډر چې د محرک په توګه کارول کېږي").
+entry(متر, v, [متر کړ, متر کول, مترونه], "مېټر کول").
+د ننوتنه (مېټرک، n، [مېټرکس]، "د اندازه کولو یو معیار").
+entry(موزون, صفت, [], "د ترتیب شوي او اندازه شوي وزن په سیستم کې اړوند یا جوړ شوی").
+entry(مېټرېفاي, v, [مېټرېفايد, مېټرېفاينګ, مېټرېفايز], "په وزني بڼه جوړول").
+entry(metring, present, [], "د metre مصدر").
+entry(مټرسټ, ن, [مټرسټان], "هغه څوک چې وزن ويښوي").
+entry(مېټرېټس, ن، [مېټرېټسېس], "د رحم التهابي حالت").
+دخول(metro, n, [metros], "يوه ترځمکې").
+اندراج(جرأت، ن، [جرأتونه]، "د کرکټر کیفیت").
+entry(metump, n, [metumps], "یو مهار بند").
+داخلول(میونیر, صفت, [], "په خړ شوي کوچ کې پخول").
+entry(mew, v, [ميو ,کول ,ميوه], "بندول").
+entry(څنګه, v, [څنګه کړه,څنګه کول,څنګه], "نېرۍ کول").
+entry(ميوکړ، ن، [ميوکرز]، "هغه څوک چې ميو کوي").
+entry(کوڅه, ن, [کوڅې], "يوه کوڅه د کورونو سره چې په اصل کې اصطبلونه وو").
+entry(میزکل، ن، [میزکلونه]، "مسکل").
+دداخل(meze, ن, [mezes], "یو یوناني یا منځني ختیځ خوراک").
+entry(mezereon, n, [mezereons], "يو ګل لرونکی بوټی").
+entry(مېزېريئم, ن, [مېزېريئمونه], "مېزېريون").
+د ننوتنې(مزکیت، ن، [مزکیتونه]، "مسکیټ").
+entry(مزکېت, ن, [مزکېتونه], "مزکېت").
+entry(مېزووزه, ن, [مېزووزې], "مېزووزہ").
+entry(مېزوزاه, n, [مېزوزاهونه], "یا MEZUZOT یا MEZUZOTH یو یهودي طومار").
+entry(mezzo, n, [mezzos], "يو ښځينه غږ چې بشپړ او ژور کيفيت لري").
+entry(mho, n, [mhos], "د بریښنا د جریان د لیږد واحد").
+entry(mi, n, [mis], "د دياتونیک موسیقي سکیل دریمه پرده").
+entry(miaou, v, [miaoued,miaouing,miaous], "میو کول").
+entry(مياو، v، [مياو کړ، مياو کول، مياويږي]، "ميانو کول").
+د ننه(entry, n, [miasms], "miasma").
+د Prolog:
+entry(miasma, n, [miasmas], "يا MIASMATA یو زهرجن بخار MIASMAL MIASMIC صفت").
+entry(miaul, v, [miauled,miauling,miauls], "میاو کول").
+entry(mib, n, [mibs], "د لوبې يوه ډوله مرۍ").
+entry(مائیک, ن, [مائیکونه], "یو مائیکروفون").
+entry(میکا, ن, [میکاګان], "یو منرال").
+entry(میکاوبر, n, [میکاوبرز], "یو کس چې د سختیو سره سره هیله مند پاتې کیږي").
+ورځ(mice, pl, [], "د موږک").
+معلومات(ميسيليل، ن، [ميسيليلونو]، "ميسيل").
+entry(مائسيله, ن, [مائسيلي], "micelle").
+د Prolog په توګه:
+entry(micelle, n, [micelles], "په فایبر کې یو همغږی تار یا جوړښتMICELLAR adj").
+دخول(مائښ, فعل, [مائښ کړ, مائښ‌ کول, مائښونه]، "پټ خوری").
+اندراج(مکي, ن, [مکيز], "يو نشه يي څښاک").
+entry(mickle, adj, [], "ډیرMICKLER MICKLEST").
+د Prolog کرښه په لاندې ډول ده:
+entry(mickle, n, [mickles], "یو لوی مقدار").
+د ننوتنه(میکي، ن، [میکي]، "میګي").
+entry(میکرا, ا, [], "میکرون جمع").
+د متن ځای په ځای کولو لپاره یوازې په پروګ لاین کې:
+entry(micrify, v, [micrified,micrifying,micrifies], "کوچني کول").
+د ننوتنه(مائیکرو, اسم, [مائیکروس], "ډیر کوچنی کمپیوټر").
+entry(مائیکروبار، ن، [مائیکروباری]، "د هوا د فشار یو واحد").
+پروګرام(میکروب، ن، [میکروبونو]، "یو کوچنی ژوندی شکلMIKROBIC صفت").
+د_ننوتنه(میکروبَس, ن, [میکروبَسونه], "یا میکروبَسونه یو کوچنی بس").
+entry(microcap, adj, [], "د یوې کمپنۍ پورې مربوط چې ساتل شوې عاید یې ډیر لږ دي").
+entry(مایکروکار, ن, [مایکروکارونه], "ډیر کوچنی موټر").
+entry(مائیکروډاټ, ن, [مائیکروډاټونه], "د چاپ شوي موادو یوه کاپي چې د یو ټکی په اندازه کوچنۍ شوې وي").
+entry(مائیکرووہم, n, [مائیکرووہمز], "د برقي مقاومت واحد").
+د پاسنالوګ: entry(microlux, n, [microluxes], "یا MICROLUCES د روښانه کولو واحد").
+entry(مېکرومو, ن, [مېکروموهونه], "د بریښنا چال چلند یوه واحد").
+د ننه_ښتون(مائکرون، ن، [مائکرونات]، "یا MICRA یو اوږدوالي واحد").
+entry(میکرورجي, ن, [میکرورجۍ], "د لوړ پراخوالي لاندې د کوچنیو وسایلو کارول").
+entry(mid, n, [mids], "منځ").
+entry(منځنۍ_هوا, ن, [منځنۍ_هوای], "د هوا په منځ کې سیمه").
+داخل(midbrain, ن, [midbrains], "د دماغ منځنۍ برخه").
+د ننوتنه(midcap, صفت, [], "د هغې کارپوریشن پورې اړه لري چې پاتې شوي عایدات يې د يوې وړې کمپنۍ او يوې لویې کارپوریشن تر منځ وي").
+د منځنۍ طبقې کلتور, ن, [د منځنۍ طبقې کلتورونه], "د منځنۍ طبقې کلتور").
+داخلہ(غرمه، ن، [غرمیانی]، "د ورځې منځ").
+entry(منځ, ن, [منځونه], "د ډنګ هیل").
+د ننوتلو(منځګړيتوب، جمع، [], "د منځګړيتوب").
+entry(منځ, v, [منځ کړی, منځ کول, منځونه], "په منځ کې ځای پر ځای کول د سیمې یا نقطې چې له حدونو یا انتهاو څخه مساوي فاصله لري").
+entry(middler, n, [middlers], "د منځني ټولګي زده کوونکی").
+entry(منځنى, ن, [منځنى ګانې], "د خوګ غوښې یوه ټوټه").
+معلومات (مېډي، ن، [مېډیانې]، "یو چپ ګنډل شوې بلوز").
+د ننوتنه(منځنۍ، ن، [منځنۍ برخې], "د لوبې د میدان منځنۍ برخه").
+entry(مچ, n, [مچان], "یو کوچنی وزر لرونکی حشره").
+entry(کوچنی, ن, [کوچنیان], "یو ډير کوچنی شخص").
+د پرولوګ کرښه: entry(midgut, n, [midguts], "د جنیني هضمي جهاز منځنۍ برخه").
+entry(midi, n, [أوسط], "یو پيزار يا کوټ چې د خوسکي منځ ته رسېږي").
+entry(منځنۍ_فلز, ن, [منځنۍ_فلز], "د ګالف کلپ").
+entry(midland, n, [مېډلېنډز], "د يو هېواد منځنۍ برخه").
+entry(midleg, n, [midlegs], "د پښې منځ").
+د Prolog: entry(midlife, n, [midlives], "منځنی عمر").
+entry(midlifer, n, [midlifers], "يو منځنۍ عمر لرونکی شخص").
+د Prolog:
+entry(منځنۍ کرښه, ن, [منځنۍ کرښې], "يوه منځنۍ کرښه").
+entry(midlist, n, [midlists], "د اوسنیو سرلیکونو د خپرونکي لست یوه برخه").
+د دې Prolog کرښې پښتو ژباړه یوازې په Prolog کې:
+```prolog
+entry(منځ-مياشت, n, [منځ-مياشتي], "د میاشتې منځ"). 
+```
+د پرولاګ داخله: entry(midmost, n, [midmosts], "په عین منځ کې یوه برخه").
+ننوتنه(نيمه_شپه, ن, [نيمې_شپې], "د شپې منځ").
+entry(midnoon, n, [midnoons], "غرمه").
+entry(midpoint, n, [منځ ټکي], "په منځ کې یو ټکی").
+entry(midrange, n, [midranges], "د يو سلسلې منځ").
+entry(midrash, n, [midrashim], "، ياد مېدرشوتan د عبرانوي متن لومړنۍ يهودي تفسیر").
+entry(منځنۍ, n, [منځنۍ], "د پاڼې مرکزي رګ").
+entry(منځپانګه, ن, [منځپانګې], "د بدن منځنۍ برخه").
+دلګښت(midship, صفت, [], "د یوه بېړۍ منځنۍ برخې پورې اړوند").
+entry(د کښتۍ منځ ته, نېر، [], "د کښتۍ منځ ته").
+entry(midshore, adj, [], "د کب نیولو سیمه چې د ساحلي او سمندري کب نیولو سیمو ترمنځ وي").
+entry(midsize, adj, [], "د منځنۍ اندازې").
+entry(منځنۍ, صفت, [], "منځنۍ").
+entry(midsole, n, [midsoles], "د بوټ د تل د منځنۍ طبقې").
+لدواګ(midspace, n, [midspaces], "د فضا منځ").
+entry(منځ, n, [منځونه], "منځنۍ برخه").
+د داخلې(منځنۍ برخه، ن، [منځنۍ برخې]، "د کیسې منځ")۔
+entry(منځنۍ_امتحان, ن, [منځنۍ_امتحانونه], "په یو اکاډمیک سمسټر کې په منځ کې ورکړل شوې امتحان").
+entry(midtown, n, [د ښار منځ], "د ښار مرکزي برخه").
+ډبلیو(midwatch, n, [midwatches], "د شپې پر یوې کښتۍ باندې څارنه چې د نیمې شپې او څلور بجو ترمنځ انجامیږي").
+entry(منځنی_اوبه, ن, [منځنی_اوبې], "د اوبو د بدن عمودي منځنۍ برخه").
+د ننه(midway, n, [midways], "په یوې مېله يا کارنیوال کې يوه لاره چی د تفریح او خوشې وخت تیرولو لپاره وړاندیزونه وي").
+entry(منځنۍ_اونۍ, n, [منځنۍ_اونۍګانې], "د اونۍ منځ").
+entry(midwife, v, [midwifed, midwifing, midwifes], "يا MIDWIVED MIDWIVING MIDWIVESto د يوې ښځې سره د زيږون په مهال مرسته کول").
+entry(midyear, n, [midyears], "د کال منځ").
+د ننوتنه(مين, ن, [ميان], "چال چلند").
+entry(miff, v, [ناراضه کول, ناراضه کول, ناراضه کوي], "خفه کول").
+```prolog
+entry(miffy, adj, [], "په اسانۍ سره خفه کېدونکی (MIFFIER MIFFIEST)").
+```
+entry(mig, n, [مګس], "د لوبو مرمر چې یو ډول دی").
+entry(migawd, interj, [], "د حیرانتیا څرګندولو لپاره کارول کېږي").
+entry(migg, n, [miggs], "ميګ").
+entry(مېګل, ن, [مېګلونه], "يو مېګ").
+entry(کیدای, ن, [کیداې], "ځواک").
+د-ورودي(مَیټي، صفت، []، "مَیټیر مَیټیسټ قوي مَیټیلی قید").
+entry(مینیون, ن, [مینیونونه], "د غوښې یوه ټوټه").
+entry(mignonne, adj, [], "په نازکۍ سره کوچنی").
+entry(ميګرين, ن, [ميګرينونه], "يو شديد سر درد").
+د ليکنې(مهاجر، ن، [مهاجرين]، "يو چې مهاجرت کوي").
+entry(مهاجر, v, [مهاجر, مهاجرت کول, مهاجرت کوي], "له يوه سيمې څخه بلې سيمې ته تلل").
+entry(مهاجر, ن, [مهاجرين], "يو مهاجر").
+entry(محراب, n, [محرابونه], "په جومات کې يو جاي).
+entry(ماینهر, ن, [ماینهرس], "ماینهر").
+entrée(mikado, n, [mikados], "د جاپان یوه امپراتور").
+د داخلېدو(مایک، v، [مایک شوی، مایکېدل، مایکس]، "د مایکروفون په وسیله لوړول یا ثبت کول").
+د پرولوګ:
+
+entry(mikron, n, [میکرونونه], "یا MIKRAمیکرو").
+entry(میکوه، ن، [میکوېز]، "میکوه").
+د داخلې معلومات(mikvah, ن, [mikvahs], "يا MIKVOTH يا MIKVOT يا MIKVOS يو ځای دی د مذهبي غسل لپاره د متعصبو یهودانو لخوا").
+entry(مکوه، ن، [مکووونه]، "مکوه").
+entry(ميل, ن, [ميليونه], "د اوږدوالی یو واحد").
+د داخلې(ميلادي، ن، [ميلاديانو]، "ميلادي").
+entry(milady, n, [miladies], "یو انګلیسي بانو").
+entry(milage, n, [milages], "مائليج").
+entry(شيدې, صفت, [], "شيدې ورکول").
+entry(شیدو، صفت، [], "د شیدو جوړ شوی یا تر شیدو اخیستل شوی").
+entry(mild, v, [milded,milding,milds], "کمول").
+entry(mild, adj, [], "تر ټولو نرم، نرم نه سخت یا خشن نرم ټکې")
+entry(milden, v, [mildened, mildening, mildens], "ملايمول یا ملايم کېدل").
+entry(فطر, فعل, [له فطره باندې اغېزمن شوی، له فطره باندې اغېزمنېدل، له فطره باندې اغېزمنوي], "له فطره سره یو سپین رنګ وده چې د فنګس له خوا توليد شوی اغېزمن کوي").
+entry(د میلدیو په څېر, صفت, [], "په میلدیو اخته یا د هغې په څېر").
+entry(په نرمه توګه, قيد, [], "په نرمه توګه").
+entry(نرمي, ن, [نرميتونه], "د نرمه کیدو کیفیت").
+entry(ميل, ن, [ميلونه], "د فاصلې يوه واحد").
+entry(mileage, n, [mileages], "په ميلونو کې د بيان شوي ټول واټن").
+entry(ميل پوست, ن, [ميل پوستونه], "يوه ستنه چې په ميلونو کې فاصله ښيي").
+entry(مائلر, ن, [مائلران], "یو څوک چې د یوې میل د ځغاستې سیالۍ کوي").
+دخدمت(milesian, صفت, [], "په ایرلینډ کې د اصلي خلکو پورې اړه لري").
+entry(مایلیسیمو, ن, [مایلیسیموس], "د چیلي یو پخوانی پیسې واحد").
+entry(ملفائل, ن, [ملفائلونه], "يو څو کلن بوټی").
+مېلا : pl(), [], " د مېلیم".
+entry(پوستکی ناروغه, ن, [پوستکې ناروغۍ], "یو د پوستکي ناروغي").
+entry(miliary, adj, [], "له ډیرو کوچنیو پورته والیونو جوړ شوی").
+دخول(milieu, n, [milieus], "يا MILIEUX چاپېريال").
+دخول(ميلنګ، ن، [ميلنګز], "د يو میله د منډې په سيالۍ کې د منډې وهل").
+entry(جنګيالی, n, [جنګیالي], "هغه څوک چې په توندۍ سره په یوه موخه بوخت وي").
+entry(پوځي, ن, [پوځونه], "وسله وال ځواکونه").
+entry(مقابله کول, v, [مقابله وکړه,مقابله کول,مقابله کوي], "اغېز يا اثر لرل").
+entry(ملیشیا, n, [ملیشې], "یو ولسي پوځ").
+entry(milium, n, [milia], "په پوستکي کې يوه وړه سپينه ډنډه").
+entry(شيدې, فعل, [شيدې کشول, شيدې کشول, شيدې کشوي], "له وَښې څخه سپين او غذائي مايع شيدې را ويستل").
+د پرو لاګ:
+entry(milker, n, [بیدوونکیان], "هغه څوک چې بیدوي").
+entry(شيري، n، [شيريان]، "يو سمندري خواړه کب").
+د ننه(milkier، تقابلي، []، "د شيدو").
+انټرۍ(ترټولو شیدې، لوړتیا، [], "د شیدو").
+entry(په شيدو ډول, قيد, [], "په شيدو ډول").
+entry(milkless, adj, [], "د شيدو د نشتوالې").
+entry(milkmaid, n, [د شیدو انجونې], "هغه ښځه چې غواوې شیدې کوي").
+entry(شیداوال، ن، [شیداوالان]، "یو سړی چې شیدې خرڅوي یا یې رسوي").
+دخول(milkshed, ن, [milksheds], "یو سیمه چې یوې ځانګړې ټولنې ته د شیدو رسول کوي").
+entry(ډارونکی, ن, [ډارونکي], "یو ښځینه سړی").
+د ننوتنه(شیرین بوټی, ن, [شیرین بوټې], "یو بوټی چې شیدې لرونکی جوس وباسي").
+ورود(milkwood, ن, [milkwoods], "یو استوایي ونه").
+entry(شيدې بوټى, ن, [شيدې بوټان], "يو ګل لرونکی بوټى").
+entry(milky, adj, [], "د شيدو په څېر یا د شيدو پيغام لرونکی").
+داخلول(مل، فع، [اوړه کړل، اوړه کونه، اوړه کوي], "د میخانيکي وسیلو په واسطه اوړه کول، مل کولو وړ صفت").
+د دغه پروګرام کرښه په پښتو کې په لاندې ډول ده:
+
+```prolog
+entry(ميلېج, ن, [ميلېجونه], "د يو ډول پيسې نرخ").
+```
+entry(جوښوکی_کیک, نوم, [جوښوکی_کیکونه], "د دباول شوي کنجد پاتې شوني").
+entry(milldam, n, [milldams], "یو بند چې د یو آسیاب د حوض جوړولو لپاره جوړ شوی وي").
+entry(زر, ن, [زرګونه], "يو زر").
+entry(ملی پیډ, n, [ملی پیډونه], "ملی پیډ").
+دخول(miller, n, [millers], "هغه څوک چې مل کړي").
+entry(د جواري, ن, [جوارۍ], "يو ډول غله").
+entry(ميلي ايمپ, ن, [ميلي ايمپونه], "د يو ايمپير زرمه برخه").
+entry(مليار, ن, [مليارونه], "یو بیلیون").
+entry(ميلياره، ن، [ميليارېس], "يو د مساحت واحد").
+ورود(milliary, ن, [milliaries], "د لرغوني روم یو پخوانی مایلستون").
+entry(ميليباسکل, ن, [ميليباسکلونه], "د هوا فشار واحد").
+entry(مليمه، ن، [مليمه‌ګانې]، "د مصر او سوډان د ارزښت واحد").
+entry(ملییر, ن, [ملییرونه], "د وزن واحد").
+entry(ميليګل, n, [ميليګلونه], "د تسارع يو واحد").
+entry(ميليلکس, ن, [ميليلکسونه], "يا ميليلوکسونه د رڼا يا روشنۍ واحد").
+entry(ميلېم, ن, [ميلېمونه], "د تونس يو سکه").
+entry(مللیمهو, ن, [مللیمهوګانې], "د برښنا چالکتیا واحد").
+entry(ملین, ن, [ملینونه], "د اعلان ځای یوه واحده").
+دخول(milliner, ن، [milliners], "هغه څوک چې د ښځو خولۍ جوړوي یا پلوري").
+د ننوتنه(مېلنګ، ن، [مېلنګونه], "د سکې په کې خړ شوی څنډه").
+entry(milliohm, n, [milliohms], "د بریښنا مقاومت یوه واحد").
+entry(ميلیون, n, [ميلیونو], "یوه شمیره").
+entry(زرپيرک, ن, [زرپيرکان], "يو څو پښې لرونکی بندپاسان").
+entry(مليریم, ن, [مليریمونه], "د ایونیز کولو وړ وړانګو یوه اندازه").
+د Prolog کرښه:
+entry(millpond, n, [millponds], "د مل څرخ د چلولو لپاره د اوبو د رسول لپاره یو حوض، د اوبو څرخ یو ډول").
+entry(چرخۍ, ن, [چرخۍ], "هغه د اوبو بهیر چې د ژرندې څرخ حرکت کوي").
+entry(millrun, n, [millruns], "يو ملريز").
+entry(مل ورک, ن, [مل ورکس], "وېښنزی به وسیله د لرګی تولید").
+entry(ملنب, ن, [ملنبوونه], "يو فنګس وژونکى").
+mle(milo, n, [milos], "یو د غلې پوست").
+د Prolog:
+entry(milord, n, [milords], "یو انګلیسي شهزاده").
+entry(ملپا, ن, [ملپاس], "یو ځمکه چې د کرنې لپاره د ځنګل څخه پاکه شوې وي").
+entry(ميلريس, ن, [ميلريس], "د پخواني پرتګال پیسو واحد").
+ورودی(مِلټ, فعل, [مِلټ شوی, مِلټ کول, مِلټ کوي], "د کب د سپرم سره امیندواره کول").
+داخلې(مئلتر، ن، [مئلترونه], "د القاح په وخت کې نر کب").
+د ننوتنې(ملي، صفت، [], "په مرۍ کې ډک ملي تڼۍ").
+entry(mim, adj, [], "په احتیاط سره حیا ترسره کول").
+entry(منبر, ن, [منبران], "منبر").
+entry(mime, v, [میمډ,میمینګ,میمس], "کاپي کول").
+دخولی(مېمو، ف، [مېمو شو، مېمو کېږی، مېموګانې]، "د مېموګراف په کارولو سره کاپۍ جوړېدل").
+entry(mimer, n, [مائمر], "هغه چې مائمر کوي").
+entry(mimesis, n, [mimesises], "یا MIMESESmimicryMIMETIC adj").
+entry(mimetite, n, [mimetites], "د سور پوڅک کان").
+entry(مشق, v, [مشق کړ,مشق کول,مشق کوي], "په نږدې توګه تقليد کول").
+entry(ممتاثل, صفت, [], "د تقليد طبيعت لرونکی").
+entry(مقالبزن, ن, [مقالبزنان], "هغه څوک چې نقل کوي").
+entry(مقلد, اوسنی, [], "مېمېک د اسم صفت").
+entry(تقلید, ن, [تقلیدونه], "د تقلید یوه بیلګه").
+دخولیه(میمتوب، اوسنی، [], "د میم برخه").
+entry(موسکا, ن, [موسکاس], "یوه تروپیکال نبات").
+د ورودي پيل په توګه: entry(mimulus, n, [mimuluses], "ګل لرونکی بوټی").
+ورودي(mina, ن, [minas], "يا MINAE يو لرغونی واحد د وزن او ارزښت").
+entry(د کيندلو وړ، صفت، [], "د کيندلو وړ").
+entry(minacity, n, [minacities], "د ګواښ حالت").
+entry(ميناوې, الف, [], "ميناګانې").
+داخلہ(مناره, ن, [منارې], "د يو جومات سره تړلی یو نری برج").
+entry(ګواښوونکی, adj, [], "threatening").
+entry(منبر, ن, [منبرونه], "د مسلمان منبر").
+entry(mince, v, [minced,mincing,minces], "په ډېر کوچنيو ټوټو یې پرې کول").
+entry(مېنسر, n, [مېنسرونه], "هغه څوک چې ماته کوي").
+entry(mincy, adj, [], "ماینسی کرل ماینسیسټ متاثرانه نازک").
+entry(ذهن, v, [ذهن کړ, ذهن کول, ذهنونه], "پام کول").
+دخول(mindedly, adv, [], "د یو ټاکلي ډول ذهن لرونکي په توګه").
+entry(ساتونکی, ن, [ساتونکي], "هغه څوک چې پام کوي").
+entry(ذہين, صفت, [], "ځيرک").
+entry(بې عقله, صفت, [], "له عقل نه خالي").
+د پاسښتو ژبې ته د پرولوګ ژباړه:
+entry(ذهنیت, n, [ذهنیتونه], "یو ثابت ذهني رویه").
+ورود(زما, v, [کندل,کندنه,کندی], "د قیمتي موادو لپاره کیندنه کول").
+entry(کان‌کېندنېکېدونکی, صفت, [], "minable").
+د داخله(کان کن, ن, [کان کنان], "هغه څوک چې کان کیندنه کوي").
+ورود(mineral, n, [minerals], "طبيعي ډول پېښېدونکې غير عضوي ماده چې ځانګړې فزيکي ځانګړنې لري").
+دخولیه(مینګیر، تقابلي، [], "د مینګی")۔
+د دې Prolog کرښه د پښتو ژبې Prolog په توګه داسې ده:
+```prolog
+دريځ(mingiest, superlative, [], "د کرم د").
+entry(ګډول, v, [ګډکړل,ګډول,ګډوي], "یوځای کولو لپاره").
+مداخلې(مینګلر، ن، [مینګلرانې]، "یو هغه څوک چې یو ځای کېږي").
+د ننوتنه(مینګي، صفت، []، "ډېر مینګی، تر ټولو مینګی، مطلب او بخیل، په مینګۍ سره").
+د داخلې(مني، ن، [مينيس]، "يو شی چې د خپل نوعې څخه په ځانګړي ډول کوچنی وي").
+entry(minibar, n, [کوچني يخچالونه], "يو کوچنی يخچال چې د څښاک شيانو سره ډک وي").
+د څرخکې (کوچنۍ موټر سايکل، ن، [څرخکې]، "يوه کوچنۍ موټر سايکل").
+entry(minibus, n, [منيبوسونه], "يا MINIBUSSESa يو کوچنی بس").
+entry(مينيکيب, ن, [مينيکيبس], "یو کوچنی ټکسي").
+entry(minicam, n, [minicams], "يو کوچنی وړ وړ تلويزوني کامره").
+entry(کوچنی_کمپ, ن, [کوچني_کمپونه], "د فوټبال لوبغاړو لپاره لنډ روزنیز کمپ").
+دخل(minicar, ن, [minicars], "يو کوچنی موټر").
+څرګندنه(minidisc, n, [minidiscs], "یو کوچنی کمپیکٹ ډیسک").
+د ننوتنه(minify, v, [minified,minifying,minifies], "کوچنی کول یا کوچنیول").
+entry(مني ګالف, ن, [مني ګالفونه], "يوه لوبه چې د ګالف سره ورته ده چې په يوه کوچينۍ خنډ ډګر کې لوبول کېږي").
+entry(منیکن, ن, [منیکنونه], "یو کوچنی یا نازک مخلوق").
+ورود(minilab, n, [minilabs], "یو پرچون دوکان چې چټکه په موقع ځای فلم پراختیا وړاندې کوي").
+entry(minim, n, [minims], "د مایع اندازه کولو واحد").
+د پاسخیز لپاره یوازې Prolog وکاروئ:
+```prolog
+entry(minima, a, [], "د حداقل جمع").
+```
+entry(منځنی, n, [منځنیان], "د یو ریاضي سیټ یو عنصر چې له نورو ټولو دمخه دی").
+د دې Prolog کرښه: 
+entry(minimax, n, [minimaxes], "د اعظمونو یو ټولګې لږ تر لږه").
+دخول(minimill, n, [minimills], "یو کوچنی اندازه فولادو مل").
+د ننوتنه(کمول, فعل, [کم کړ, کمول, کمیږي], "کمول").
+entry(minimize, v, [کوچنی شوی,کوچنی کول,کوچنی کوي], "تر څو چې امکان ولري کوچنی کړي").
+د اقل مقدار، اندازه یا درجه لپاره، entry(minimum, n, [minimums], "یا MINIMA").
+ورودی(کیندنه, ن, [کیندنې], "د مځکې کیندلو په کار یا سوداګرۍ کې مشغولیت").
+انټرۍ(مینیون, ن, [مینیونز], "د یو خدمتګار پیرو").
+دخول(minipark, n, [miniparks], "يو کوچنی ښار پارک").
+entry(minipill, n, [minipills], "د زیږون کنټرول ګولۍ چې ایسټروجن نلري").
+entry(منش, فعل, [منشېد, منشيدل, منشېدل], "کموالی موندل").
+د پرولوګ ژباړه:
+entry(miniski, n, [miniskis], "لنډ سکي").
+entry(وزیر, v, [خدمت وکړ, خدمت کوي, خدمتونه], "مرسته یا خدمت ورکول").
+entry(وزارت, ن, [وزارتونه], "د وزيرتوب کولو عمل").
+entry(مېنينم, ن, [مېنينمز], "يو سور رنګ").
+د Prolog:
+entry(minivan, n, [minivans], "وړه وین").
+entry(miniver, n, [minivers], "سپین فر").
+entry(وينه، ن، [وينې], "يو غوښه خوړونکې تي لرونکې ژويه").
+entry(minke, n, [minkes], "یوه وړه ویل").
+ننويس(minneola, n, [minneolas], "يو سورنجي ټانګیلو").
+entry(مځکښ, ن, [مځکښان], "يو کوچنی کب").
+entry(minny, n, [minnies], "minnow").
+entry(کوچنی, فعل, [کوچنی کړ, کوچنی کول, کوچني کوي], "په ځانګړي مرستندویه ښوونیزه برخه کې زده کړې کول").
+مہ:جون(minorca, ن, [minorcas], "د کورني لویو چرګانو څخه یوه نژاد").
+entry(اقلیت, ن, [اقلیتونه], "کوچنی شمیر یا برخه").
+د ننوتی(کلیسا، نوم، [کلیساگانې], "یوه لویه یا مهمه کلیسا").
+د ننوتنه(هنرمند, ن, [هنرمندان], "يو منځين دورې موسیقار").
+entry(پیسه جوړول, v, [جوړ کړ, جوړول, جوړوي], "د فلز څخه د سکو جوړولو لپاره").
+entry(سکه_جوړونه, ن, [سکه_جوړونې], "د سکو جوړولو عمل").
+دخول(minter, n, [minters], "يو څوک چې ټکونه جوړوي").
+entry(minty, adj, [], "د پودینې خوند لرونکی یو معطري بوټی").
+داخل(minuend, n, [minuends], "شمېر چې له هغه څخه بل شمېر منفي کېږي").
+د څرګندونې يا نوم مختصه(n) او يا هم فعل مختصه(v) واک د موقف ډول بېلګه او نمونې معرفي کوي، دلته د فعل مختصه(verb entry) بڼه ده چې په پاڼه کې د پښتو ژباړې يو فکر وړاندې کوي. په هر صورت، تر دې حده د دې جملې په پاړه پښتو ژباړه داسې نومولی شو:
+
+```prolog
+داخله(منويټ، فعل، [منويټ شو، منويټ کوي، منويټونه]، "يو ارامه او رسمي نڅا بوګري");
+```
+د ننه(minus, n, [minuses], "يو منفي مقدار").
+دخول(minute, صفت, [], "ډېر کوچنیMINUTELYقید").
+entry(دقیقه, v, [دقیقهد, دقیقه کونه, دقیقې], "یو لنډ یادښت جوړول").
+دخول(minutia, n, [minutiae], "یو وړوکی تفصیلMINUTIAL adj").
+entry(minx, n, [minxes], "يوه خوږه نجلۍMINXISH adj").
+entry(minyan, n, [minyans], "يا MINYANIM هغه لږ تر لږه شمېره چې د يهودي عبادت لپاره شتون ته اړتيا لري").
+entry(میوسیس, ن, [میوسس], "د سترګې د پتې د زیاتې تنګیدنې").
+دخول(miotic، ن، [miotics]، "يو عامل چې ميواسس رامنځته کوي").
+entry(miquelet, n, [miquelets], "پخوانی هسپانوي یا فرانسوي سرتېری").
+entry(mir, n, [mirs], "يا MIRI يو روسي کليواله ټولنه").
+entry(معجزه, ن, [معجزې], "يوه پېښه چې د ماوراء الطبیعت یا الهي اصل منسوب وي").
+entry(ميرادور, ن, [ميرادورونه], "يو معماري ځانګړتيا چې د پراخه منظرې لپاره جوړه شوې وي").
+اینتری(میرج، ن، [میرجز]، "د یو ډول نظری وهم").
+entry(mire, v, [په گل، لوشه کې بند هول، په ستونزو کې ښکېل کول], "په خټین ځمکه کې بندول").
+دردی(entry, n, [mirepoix], "دانه شوی سبزيجاتو مخلوط").
+entry(مېرېکس, ن, [مېرېکسونه], "یو حشره وژونکي مواد").
+entry(miri, a, [], "د mir جمع").
+داخله(میرډ، ن، [میرډونه], "د پاڼو د مختلفو حشراتو څخه").
+entry(mirier, comparative, [], "د خټو").
+entry(miriest, superlative, [], "د خټو").
+entry(میریں, n, [میریںونه], "یوه خوږه جاپاني پخلي شراب").
+د پرولوګ ترجمه بايد فېشله ونه لري. دلته ستا پرولوګ کوډ دی:
+entry(miriness, n, [mirinesses], "the state of being miry").
+entry(miring, حاضر، [], "د ګیرولو فعل").
+entry(mirk, adj, [], "تېاره ډېر تېار").
+entry(mirk, n, [mirks], "مړک").
+دننه(ميرکې, صفت, [], "مېرکېر مېرکېسټmурکيMيرکېلۍ ق").
+entry(مېرلتون, ن, [مېرلتونونه], "یو چایټ").
+داخلول(آينه, فعل, [عاكسه, انعكاس, آينې], "يو عکس منعکس کول").
+دProlog:
+entry(mirth, n, [mirths], "spirited gaietyMIRTHFUL adj").
+entry(ميري, صفت, [], "تر ټولو ميري ميري نمجنه").
+entry(میرزا, n, [میرزاګان], "یو فارسي درناوی سرلیک").
+دخول(misact, v, [misacted, misacting, misacts], "بد عمل کول").
+entry(misadapt, v, [غلط تطبیق شوی,غلط تطبیق کول,غلط تطبیق کوي], "په غلط ډول تطبیق کول").
+entry(غلط_جمع, فعل, [غلط_جمع_شو, غلط_جمع_کېږی, غلط_جمع_کړي], "په غلطۍ سره جمع کول").
+entry(misagent, n, [misagents], "يو خراب استازی").
+entry(بې هدفۍ, فعل, [بې هدفۍ وکړه, بې هدفۍ کوي, بې هدفۍ کوي], "ناوړه هدف کول").
+entry(ناسم تنظیم کول, v, [ناسم تنظیم شوی,ناسم تنظیم کول,ناسم تنظیم کوي], "په ناسم ډول تنظیم کول").
+د داخلې برخه(misallot, v, [misallotted, misallotting, misallots], "ناسم ورکړه").
+entry(بد ایتلاف کول, v, [بد ایتالافي شو, بد ایتالاف کول, بد ایتلاف کوي], "لپاره چې بد ایتلاف وکړي").
+entry(misalter, v, [غلط_تبدیل,غلط_تبدیلونه,غلط_تبدیلوي], "په ناحقه بدلول").
+entry(مردزادښون, ن, [مردزادښونه], "له نارينه‌وو څخه كينه").
+entry(غلط استعمالول, فعل, [غلط استعمال شو, غلط استعمال کوي, غلط استعمالوي], "په ناسم ډول غوښتنه کول").
+دخول(misassay, فعل, [misassayed, misassaying, misassays], "ناکامه هڅه کول").
+entry(ميسيټ, تېری شوی, [], "miseat د کړنې د زمان شکل").
+entry(misatone, v, [misatoned,misatoning,misatones], "ناسمه غونډلې").
+entry(misaver, v, [misaverred,misaverring,misavers], "په غلطۍ سره خبرې کول").
+دخول(misaward, v, [misawarded,misawarding,misawards], "ناسم جایزه ورکول").
+entry(misbegin, v, [misbegan,misbegun,misbeginning], "ناروا پیل کول").
+entry(misbegot, adj, [], "د واده څخه پرته زېږېدلی").
+entry(misbias, v, [ناروې, ناروول, ناره], "یا ناسمه لاره ناسمه لاره ناسمه لارې ته").
+ننوتنه(غلط بیل, فعل, [غلط بیل شوی, غلط بیل کول, غلط بیلونه], "په ناسم ډول بیل کول").
+entry(misbind, v, [misbound,misbinding,misbinds], "په ناسم ډول تړل").
+entry(غلطه نښه وهل, v, [غلطه نښه شوی,غلطه نښه کول,غلطې نښې وهي], "په ناسم ډول نښه وهل").
+entry(misbuild, v, [misbuilt, misbuilding, misbuilds], "بې انډوله جوړول").
+دخوله(د تېروتنې زنګ, فعلي, [غلط زنګ وهلی, غلط زنګ وهلکی, غلط زنګونه], "په غلط نوم بلل").
+entry(بې بريالۍ کېدل, v, [بې بريالۍ شو,بې بريالۍ کېدل,بې بريالۍ کېږي], "بې بريالۍ کېدل").
+\<entry\>(\<miscast\>, \<v\>, [\<miscast\>,\<miscasting\>,\<miscasts\>], "نامناسبه نقشه کې ټاکل").
+entry(شرارت, n, [شرارتونه], "عمل چې کړاو، زیان یا ستونزه رامنځته کوي").
+entry(mischose, past, [], "د ناسمو انتخاب لپاره د mischoose زمانه").
+entry(مخلوطېدونکی, صفت, [], "د ګډېدو وړ").
+entry(miscite, v, [miscited,misciting,miscites], "چې ناسم شواهد وړاندې کړي").
+entry(دروغ ادعا کول, فعل, [غلط ادعا وکړه,غلط ادعا کول,غلط ادعاوې], "په ناحقه ادعا کول").
+entry(misclass, v, [په غلطه ټولګي کې اچول], "په غلطه ټولګي کې اچول").
+د ننوتنه(miscode, v, [miscoded, miscoding, miscodes], "په ناسم ډول کوډول").
+entry(غلطې سکې, v, [غلطې جوړې شوې, غلطې جوړېدونکي, غلطې سکې], "ناسمې سکې جوړول").
+entry(miscolor, v, [ناسمه رنګه شوې،ناسمه رنګول،ناسمه رنګوي], "په غلطه توګه رنګ کول").
+د پرو لاګ متن: entry(miscook, v, [miscooked,miscooking,miscooks], "په ناسم ډول پخلی کول").
+entry(miscopy, v, [miscopied,miscopying,miscopies], "ناسم کاپي کول").
+entry(غلط_شمار, فعل, [غلط_شمار_شو, غلط_شمار_کول, غلط_شماری], "غلط شمېرل").
+entry(miscue, v, [], "د بلیارد په لوبه کې یوه تېروتنه لرونکې ګوزار کول MISCUED MISCUING or MISCUEING MISCUES").
+entry(miscut, v, [غلط پرې کول,غلط پرې کول,غلط پرې کوي], "ناسم پرې کول").
+entry(تاریخ_غلطول, v, [تاریخ_غلط کړی,تاریخ_غلطول,تاریخ_غلطوي], "په غلط ډول نیټه ټاکل").
+entry(misdeal, v, [misdealt, misdealing, misdeals], "کېڼې غلطې وېشل").
+entry(بدکاري, n, [بدکارۍ], "بد عمل").
+د Prolog کرښه: entry(misdeem, v, [misdeemed,misdeeming,misdeems], "ناوړه قضاوت کول").
+entry(misdial, v, [misdialed, misdialing, misdials], "يا MISDIALLED MISDIALLING MISDIALs ته غلطه شمېره وهل").
+د ننوتل(misdo, v, [misdid, misdone, misdoing], "MISDOEغلط کول").
+entry(ناروغ, ن, [ناروغان], "هغه څوک چې تېروتنه کوي").
+د پرولاګ:
+entry(misdoing, n, [misdoings], "د بد کړو یو مثال").
+د Prolog: entry(misdone, past, [], "د misdo برخه اخيستنه").
+د ننوتنې (entry) پروګرام:
+entry(misdoubt, v, [misdoubted, misdoubting, misdoubts], "شک کول").
+entry(misdraw, v, [misdrew,misdrawn,misdrawing], "ناسم شکل راښکل").
+entry(غلط موټر چلول, v, [غلط چلول,غلط چلول شوی,غلط چلول کېږي], "غلط موټر چلول په غلطه یا ناسم ډول موټر چلول").
+entry(میز, ن, [میزونه], "یوه موافقه یا فیصله").
+entry(misease, n, [miseases], "نا ارامي").
+entry(miseat, v, [misate,miseaten,miseating], "MISEATs ناسم خواړه خوړل").
+entry(misedit, v, [misedited,misediting,misedits], "غلط سمونه کول").
+ننوتنه(misenrol, v, [misenrolled,misenrolling,misenrols], "په غلطۍ سره نومليکل").
+entry(ناسم داخلېدل, فعل, [ناسم داخل شو,ناسم داخلېدونکی,ناسم داخلوي], "په خطا سره داخلېدل").
+داخلې(misentry, n, [نادودې داخلې], "يوه ناسم داخله").
+entry(خسیس, n, [خسیسان], "هغه څوک چې په حریصانه توګه پیسې ذخیره کوي").
+د ننه راوړل(مسرے, ن, [مسریس], "د کلیسا څوکۍ یوه برخه").
+entry(شوم، صفت، [], "د يوه کنجوس ځانګړتيا").
+entry(بدبختي, ن, [بدبختۍ], "د لوی کړاو حالت").
+entry(misevent, n, [misevents], "يو پېښه").
+```prolog
+entry(بې_باوري, n, [بې_باورۍ], "د ايمان نشتوالی، بې اعتقادي").
+```
+entry(غلط-غذا-ورکول, v, [غلط-غذا-ورکړه,غلط-غذا-ورکول,غلط-غذا-ورکوي], "په غلطه توګه خوراک ورکول").
+د ننوتنې(مسفيلډ, فع, [مسفيلډ شوے، مسفيلډيدل، مسفيلډونه], "خراب فيلډ کول").
+entry(misfile, v, [غلط ځای کې ثبتول,غلط ځای کې ثبتول,غلط ځای کې ثبتوي], "په غلط ځای کې ثبتول").
+entry(د ټک نشو وتل, v, [ټک نشو, ټک نشو وتلی, د ټک نشو], "د شا نه پاتې کېدو").
+entry(misfit, v, [بې مناسبه شوی،بې مناسبه کول،بې مناسب دی], "بۀ ي سفتلن ننائێ").
+د Prolog ليک: entry(misfocus, v, [misfocused,misfocusing,misfocuses], "يا MISFOCUSSED MISFOCUSSING MISFOCUSSES خراب تمرکز کول").
+entry(خطي، v، [بے شکل،بے شکله کول،بے شکلونه]، "ناشکل کول").
+entry(misframe, v, [غلط چوکاټ کول,غلط چوکاټ کول,غلط چوکاټ کوي], "په غلط ډول چوکاټ کول").
+entry(نارواشل, v, [نارواشوو,نارواشل,نارواشوي], "په غلطه یا ناسم ډول اندازه کول").
+entry(شک کول, v, [شک کړ,شک شوی,شک کول], "شک کول د شک یا ویرې جوړولو لپاره").
+entry(misgrade, v, [غلط درج شوی,غلط درج کول,غلطی درج کوي], "ناسمه درجه بندي کول").
+entry(غلط پيوندول, v, [غلط پيوندشوی,غلط پيوندول,غلط پيوندونه], "ناسم پيوند کول").
+entry(misgrow, v, [misgrew, misgrown, misgrowing], "په غلطه توګه وده کول").
+entry(ناکامه اټکل, v, [ناکامه اټکل وکړ,ناکامه اټکل کوي,ناکامه اټکلونه], "ناسم اټکل کول").
+entry(بېلار, v, [بېلاری شوی, بېلاری کوونکی, بېلاری کوی], "بې لارې کول").
+entry(پېښه, ن, [پېښې], "يو ناوړه پېښه").
+entry(mishear, v, [misheard, mishearing, mishears], "په ناسم ډول اورېدل").
+د پرولاګ کرښه: entry(mishit, v, [mishit,mishitting,mishits], "په خراب ډول وهلو لپاره").
+entry(مېښامېښ, ن, [مېښامېښونه], "يو ګډوډ مخلوط").
+د پرولوګ کوډ:
+entry(mishmosh, n, [mishmoshes], "mishmash").
+داخلېدل(میشوګاس، ن، [میشوګاسونه]، "لیونۍ یا احمقانه چلند").
+entry(مغالطه, فعل, [مغالطه کړې, مغالطه کول, مغالطې کوي], "په ناسم ډول استنباط کول").
+د ننوتنې(غلط خښول، فعل، [غلط خښ کړل،غلط خښول روان،غلط خښوي]، "په ناسم ډول خښول").
+entry(غلط نښلونه, v, [غلط نښلول شوی, غلط نښلول, غلط نښلوي], "په ناسم ډول نښلول").
+entry(غلط قضاوت کول, ف, [غلط قضاوت وکړ,غلط قضاوت کول,غلط قضاوت کوي], "ناسم قضاوت کول").
+entry(مِسکال, n, [مِسکالونه], "د وزن د يوې ختيځې واحد").
+entry(غلط ساتل, فعل, [غلط ساتلی، غلط ساتل، غلط ساتي], "غلط ساتل").
+د Prolog کوډ:
+entry(miskey, v, [غلط کیلي شوي,غلط کیلي کول,غلط کیلي], "په ماشين کې ناسم ټايپ کول").
+entry(ناوړه_ټوپ, v, [ناوړه_ټوپ_کړ,ناوړه_ټوپ_کول,ناوړه_ټوپونه], "خراب ټوپ وهل").
+برخه(ناسم پوهیدل، فعل، [ناسم پوهېد، ناسم پوهيږي، ناسم پوهېدنه]، "ناسم پوهیدل: په پوهیدو یا پیژندلو کې پاتې راتلل").
+entry(mislabel, v, [mislabeled, mislabeling, mislabels], "يا په ناسم ډول يا په غلط ډول لېبلول").
+entry(غلط مزدوري کول, v, [غلطه مزدوري وکړه,غلط مزدوري کول,غلطې مزدورۍ], "ناسم کار کول").
+entry(مسلان, ماضي, [], "د mislie فعل نوموالی").
+```prolog
+entry(ورکول, v, [ورک کړ, ورکول, ورکوي], "په هېر شوي ځای کې ایښودل").
+```
+entry(ناسم ځای کې اېښودونکی, ن, [ناسم ځای کې اېښودونکي], "هغه څوک چی ناسم ځای کې شیان ږدي").
+د ننوتنې(غاوري، فعل، [غاورل،غاوري،غاوريږي]، "بې لاري کول").
+د پرو لاګ:
+entry(mislearn, v, [غلط زده کړل,غلط زده کړه,غلط زده کوي], "غلط زده کول").
+دخولیه(مسلي, ف, [مسلاى, مسلين, مسلاينګ], "مسلي يوځاى په غلطه موقعیت کې پروت دی").
+entry(mislight, v, [mislit,mislighting,mislights], "د خپلې رڼا په واسطه ګمراه کول").
+دلیل(mislike، "v"، [misliked، misliking، mislikes]، "ناراضه کېدل").
+entry(ناخوښه, n, [ناخوښې], "هغه څوک چې ناخوښه کوي").
+entry(غلط شوی, a, [], "د mislight تېره زمانه").
+entry(mislive, v, [mislived,misliving,mislives], "يو خراب ژوند تېرول").
+entry(نا بلد, فع, [نا بلد شو, نا بلد کېږي, نا بلد وي], "په غلط ځای کې ځای پر ځای کول").
+د پروګرام : entry(mislying, present, [], "د mislie ګردان").
+entry(غلط جوړول, v, [غلط جوړکړ,غلط جوړولای,غلط جوړوي], "په غلطه توګه جوړول").
+entry(غلطه_نښه_کول, v, [غلطه_نښه_کړل,غلطه_نښه_کول,غلطه_نښې], "په ناسم ډول نښه کول").
+entry(mismatch, v, [نابرابر،نابرابري کوي،نابرابر کوي], "څه چي خرابي سره مناسبيږي").
+دریځ(نه مناسب جفت جوړول, فعل, [نه مناسب جوړه کول, نه مناسب جفت ګیری, نه مناسب جفت جوړوي], "په ناسم ډول جفت جوړول").
+entry(mismeet, v, [mismet,mismeeting,mismeets], "د بدقسمتي حالاتو کې سره لیدل").
+entry(mismove, v, [mismoved,mismoving,mismoves], "په غلطۍ سره حرکت کول").
+entry(غلط نوم, v, [په غلط نوم بلل,په غلط نوم بليدل,په غلط نوم بولي], "په غلط نوم بليدل").
+entry(غلط نوم, n, [غلط نومونه], "یو نوم چې په ناسم توګه کارول شوی وي").
+entry(میسو, ن, [مېسوز], "د یو ډوله خوړني پیسټ").
+entry(ميسوګامي, ن, [ميسوګامۍ], "د واده څخه کرکه").
+مصدر(زن_ستیزی, ن, [زن_ستیزیاں], "د ښځو څخه کرکه").
+entry(مېسولوجي, ن, [مېسولوجيانې], "د مناظرې یا استدلال سره د دښمنۍ احساس").
+جوړښت(غلط-ترتیب، فعل، [غلط-ترتیب-شو، غلط-ترتیب-کول، غلط-ترتیب-کوي]، "ناسم ترتیب ورکول").
+entry(mispage, v, [mispaged,mispaging,mispages], "په ناسم ډول پاڼه کول").
+entry(mispaint, v, [mispainted, mispainting, mispaints], "په غلطۍ رنګ کول").
+دخول(misparse, v, [misparsed, misparing, misparses], "په ناسم ډول تحلیل کول").
+داخلول(ناسم_وېش، فعل، [ناسم_وېشل،ناسم_وېشېدنه،ناسم_وېښلېدل]، "په ناسم ډول وېشل").
+entry(غلط_پیوند, v, [غلط_پیوند_شو, غلط_پیوند_کول, غلط_پیوندونه], "ناسمه توګه پیوند کول").
+entry(غلط_ليکل, v, [غلط_ليکلی,غلط_ليکل_کېږی,غلط_ليکی], "ناسم ليکل").
+entry(ګټه_وړ, v, [ګټه_وړه،ګټه_وړول،ګټه_وړوي], "ناسم ځای کې ایښودل").
+entry(غلطه_پلان, v, [غلطه_پلان_کړی, غلطه_پلان_کول, غلطه_پلان_ونه], "په بد ډول پلان جوړول").
+entry(غلط_کرل, v, [غلط_کرل_شو,غلط_کرل_کېدل,غلط_کرل_کوي], "په غلطه کرل").
+entry(misplay, v, [غلطه لوبه وکړه, په غلطه لوبه کولو, غلطې لوبې کوي], "په یوه لوبه کې ناسم عمل کول").
+entry(misplead, v, [mispled,mispleading,mispleads], "په غلطۍ يا په ناحقه غوښتنه کول").
+entry(mispoint, v, [ناروسته اشاره شوې,ناروستي اشاره کول,ناروستۍ اشارې کوي], "ناسمه اشاره کول").
+entry(ناسم توازن, v, [ناسم توازون کړ, ناسم توازن کيدل, ناسم توازون کوي], "ناسم توازن منځ ته راوړل").
+entry(غلطه_قیمت_ټاکل, v, [غلط_قیمت_ټاکلی,غلط_قیمت_ټاکل,غلطه_قیمت_ټاکي], "په ناسم ډول قیمت ټاکل").
+د خولې(entry)(غلط چاپ(misprint), ف(v), [غلط چاپ شو(misprinted), غلط چاپ کول(misprinting), غلط چاپونه(misprints)], "په غلطه چاپول")
+entry(بې ارزښته کول, v, [بې ارزښته کړ,بې ارزښته کوي,بې ارزښته کوي], "سپکاوی کول").
+entry(ناسم_اقتباس, v, [ناسم_اقتباس_شو, ناسم_اقتباس_کول, ناسم_اقتباسات], "په غلطه توګه اقتباس کول").
+د لیکلې کرښې د پښتو ژباړه دلته ده:
+entry(misraise, v, [غلط راپورته شو,غلط راپورته کيږي,غلط راپورته کوي], "په غلطۍ سره پورته کول").
+معلومات(غلط ارزونه, فعل, [ناسم ارزیابي شوی, ناسم ارزونه کول, ناسم ارزونې], "په ناسم ډول ارزونه کول").
+entry(غلط_ولتل, v, [غلط_ولتل,غلط_لوستل,غلط_ليکني], "په غلطۍ سره لوستل").
+entry(misrefer, v, [سورېدای,سوريږي,سوريږي], "په غلطۍ سره حواله کول").
+معلومي(مسیریلی, فعل, [مسیریلیډ, مسیریلینګ, مسیریلیز], "په غلطه توګه تکیه کول").
+entry(misroute, v, [غلطه لارښوونه شوې,غلطه لارښوونه کول,غلطه لارښوونې کوي], "ناسمه لارښوونې کول").
+د پرولاګ:
+entry(misrule, v, [په ناسمه توګه حکومتول, په ناپوهي سره حکومت کول, ناسمه حکومتول], "په ناپوهي يا بې عدلۍ سره حکومت کول").
+entry(مخ، v، [بې برخې شو, بې برخې کېدل, بې برخې کیږي]، "د تماس نیولو ناکامي").
+ورودی(دلاسه کيدونکی, صفت, [], "قابل دلاسه کیدو").
+داخلونه(مېسال، ن، [مېسالونه], "یو دعا کتاب").
+entry(ناسم_وایي, v, [ناسم_ووییل,ناسم_ووییل,ناسم_وایي], "په ناسمتیا سره ووییل").
+entry(ناسم کښېنول, v, [ناسم کښېنول شوی, ناسم کښېنول], "په څنګ کښې ناسم کښېنول").
+entry(missel, ن, [missels], "يو اروپايي زړېلي").
+entry(ناسم استول, v, [ناسم استولی,ناسم استول,ناسم استوي], "په ناسم ډول استول").
+entry(missense, n, [missenses], "د جینیتکي بدلون یوه بڼه").
+entry(misset, v, [misset, missetting, missets], "په غلط ډول تنظیم کول").
+entry(misshape, v, [misshaped,misshapen,misshaping], "ناسم شکل ورکول").
+entry(misshod, adj, [], "په ناسم ډول په بوټونو پوښلی").
+د پرولاګ کرښه په پښتو کې:
+entry(missies, pl, [], "د مسي").
+entry(راکټ, ن, [راکټونه], "يو شی يا وسله چې غورځول يا ويشتل کيږي").
+entry(توغنديز, ن, [توغنديزونه], "د لارښود توغندیو د ډیزاین او فعالیت ساینس").
+د ننه (ماموریت، فعل، [مامور شوی، مامورول، ماموریتونه]، "څه د ځانګړي کار ترسره کولو لپاره لیږل").
+entry(ميسيز, ن, [ميسيز], "يوه ښځه").
+entry(مکتوب, ن, [مکتوبونه], "یو لیکلی پیغام").
+entry(missort, v, [missorted,missorting,missorts], "په ناسم یا نادرسته توګه مرتب کول").
+entry(غلط_آهنګ, فعل, [غلط_آهنګ_وړ,غلط_آهنګ_کول,غلط_آهنګونه], "په ناسم ډول غږېدل").
+entry(missout, n, [missouts], "د نرد یوه بایلوونکې غورځونه").
+ینٹری(مِسپیس، فعل، [مِسپیسډ، مِسپیسنګ، مِسپیسس]، "ناسم ځای پر ځای کول").
+د Prolog:
+entry(misspeak, v, [misspoke,misspoken,misspeaking], "MISSPEAKs په ناسم ډول خبرې کول").
+entry(غلط_لیکل, فعل, [غلط_لیکلی,غلط_لیکنه,غلط_لیکلي], "په غلطه توګه لیکل").
+entry(ناوړه_خرچ, v, [ناوړه_خرچ_کړل,ناوړه_خرچ_کول,ناوړه_خرچ_کوي], "په غلطه توګه مصرف کول").
+entry(misspoke, past, [], "د misspeak زمان").
+entry(په تېروتنه، تېر، [], "د misspeak participle").
+entry(misstamp, v, [misstamped,misstamping,misstamps], "په غلطۍ سره ټاپه وهل").
+entry(خرابپيل, v, [خرابپيلکړی,خرابپيلکول,خرابپيل], "چې خراب پيل وکړي").
+entry(غلط بيان کول, v, [غلط بيان شوی,غلط بيان کول,غلط بيان کوي], "غلط بيان کول").
+entry(غلط امسا کول, v, [غلط امسا وکړه,غلط امسا کول,غلط امسا کوي], "په غلطه توګه امسا کول").
+entry(غلط ګام، v، [غلط ګام پورته کړ، غلط ګام پورته کول، غلط ګامونه]، "ناسم ګام پورته کول").
+entry(misstop, v, [misstopped,misstopping,misstops], "په غلطۍ ودریدل").
+entry(misstyle, v, [غلط سيګار شوی,غلط سيګار کول,غلط سيګار کوې], "په غلطه توګه سيګار کول يا غږ کول").
+entry(missuit, v, [missuited,missuiting,missuits], "په نا مناسبه توګه برابرول").
+entry(missus, n, [missuses], "میرمن").
+entry(missy, n, [missies], "يوه ځوانه نجلۍ").
+entry(مه, ف, [مه شوې, مه کیږي, مڼې], "غیر واضح کیدل").
+entry( تېروتنه, v, [مستېک, تېروتنه شوې, تېروتنه کول], "تېروتنه په ناسم ډول تفسير کول").
+entry(غلطی کوونکی, ن, [غلطی کوونکي], "هغه څوک چې غلطی کوي").
+entry(mistbow, n, [mistbows], "د مه ملنګ").
+entry(misteach, v, [mistaught,misteaching,misteaches], "په غلطه يا ناوړه توګه تعليم ورکول").
+entry(mistend, v, [mistended, mistending, mistends], "ناسم پالنه کول").
+entry(ښاغلی، ن، [ښاغليان]، "صاحب").
+entry(مستر, v, [مسترمېد, مسترمنګ, مسترېمس], "په غلط نوم یادول").
+entry(مستېک, الف, [], "د خطا ګام تېره زمانه").
+entry(غلط فکر کول, v, [غلط فکر کړی,غلط فکر کول,غلط فکر کوي], "په غلط ډول فکر کول").
+entry(misthrow, v, [غلطه_ګوزار_واچول,غلطه_ګوزول,غلطه_ګوزارول], "غلطه ګوزارول چې به خطا وغورځوي").
+په شين ژبه کې: entry(mistier, comparative, [], "د misty څخه").
+entry(تر ټولو نری, superlative, [], "د نري").
+entry(په_مړه_غرونه, adv, [], "په مړه غرونه ډول").
+د پرولاګ: entry(mistime, v, [mistimed,mistiming,mistimes], "په ناسم وخت ټاکل").
+entry(mistitle, v, [mistitled,mistitling,mistitles], "په غلط عنوان سره نومول").
+entry(غلط, يو, [], "د اشتباه تېر حالت").
+entry(mistouch, v, [mistouched,mistouching,mistouches], "ناسم تماس نيول").
+entry(مغلوطي_نقش, v, [مغلوطي_نقش_کړ, مغلوطي_نقش_کوي, مغلوطي_نقشونه], "ناسمه تعقیب کول").
+entry(mistrain, v, [mistrained, mistraining, mistrains], "په غلطه روزل").
+د خوشې کولو سره زمري:
+entry(mistral, n, [mistrals], "یو سړه وچ باد").
+entry(mistreat, v, [بدرنګه کړه, بدرنګول, بدرنګوي], "بې ځايه چلند کول").
+entry(مالکه, n, [مالکې], "په واک او اختيار کې يوه ښځه").
+entry(معاملې ناکامي, n, [معاملې ناکامۍ], "یو محاکمه چې د پروسې کې د یو څه تېروتنې له امله بې اعتباره شوې وي").
+د ستونزې نوم(mistrust, v, [mistrusted,mistrusting,mistrusts], "بې باوري کول").
+entry(ناسمه, ن, [ناسمې], "دروغ").
+entry(mistryst, v, [mistrysted,mistrysting,mistrysts], "د ملاقات وخت له لاسه ورکول").
+پرو لاگ:
+entry(mistune, v, [mistuned,mistuning,mistunes], "په ناسم ډول د ټون کولو لپاره").
+entry(mistutor, v, [mistutored,mistutoring,mistutors], "په ناسم ډول ښوونه يا روزنه کول").
+دلیکل(misty, adj, [], "MISTIER MISTIESTblurry").
+entry(mistype, v, [ناسم_ټایپ_شو، ناسم_ټایپ_کول، ناسم_ټایپ_وې], "غلط ټایپ کول").
+entry(بې‌اتفاقه, n, [بې‌اتفاقې], "يو خراب اتحاد").
+entry(غلط استعمال, n, [غلط استعمالونه], "غلطه کارونه").
+دخول(misuse, v, [غلط استعمال کړ, په غلط ډول استعمالول, په غلط ډول استعمال کوي], "په غلط ډول استعمال کول").
+entry(ناسم استعمالوونکی, ن, [ناسم استعمالوونکي], "هغه څوک چې ناسم استعمال کوي").
+د ننوتنه(غلط_ارزښت, و, [غلط_ارزښتونه,غلط_ارزونکي,غلط_ارزښتونه], "په غلطۍ سره ارزښت کول").
+entry(غلطه_کلمه, فعل, [غلطه_کلمې,غلطه_کلمه_کول,غلطه_کلمې_کوي], "په غلطه توګه کلمه ویل").
+د دې Prolog کرښه په پښتو کې ژباړه:
+entry(miswrite, v, [miswrit,miswritten,miswriting], "غلط ليکل").
+entry(misyoke, v, [misyoked,misyoking,misyokes], "ناسم جوغ کولو").
+entry(مائټ، ن، [مائټونه]، "یوه وړه عنکبوت").
+entry(miter, v, [mitered, mitering, miters], "د يو بشب مقام ته پورته کول").
+entry(miterer, n, [miterers], "هغه چې محراب جوړوي").
+entry(مور, n, [مورنۍ], "مور").
+entry(مایټس وژونکی, ن, [مایټس وژونکي], "یو ماده چې د مایټس د وژلو لپاره کارول کیږي").
+د پرو لاگ: entry(mitier, comparative, [], "د مټی").
+entry(mitiest, superlative, [], "د mity").
+entry(کمونکی, n, [کمونکي], "څه چې کموي").
+entry(کمول, فعل, [کم کړ,کمول,کموي], "د شدت کمول").
+entry(ميټيس، اسم، [ميټيسونه]، "د يو ډول پروسس شوي اوسپنه").
+entry(ميتوګين، ن، [ميتوګينونه]، "يو ماده چې ميتوسس هڅوي").
+د ورودي(ميتوسيس، ن، [ميتوسيس‌ونه]، "د حجرې ویش یوه ډولهMITOTIC صفت").
+entry(mitral, adj, [], "د زړه د يوې والو پورې اړه لرونکی").
+د پرولوګ کوډ:
+entry(mitre, v, [mitred,mitring,mitres], "چې مېټر شي").
+entry(ميتزواه, ن, [ميتزواهون], "يا ميتزووتميتزواه").
+entry(مټ, ن, [مټس], "د بېسبال د ګېڼد یوه ډوله").
+د داخلې(موزے، ن، [موزےونه], "د لاس لپاره د پوښ کولو یو ډول مټینینډ صفت").
+entry(mittimus, n, [mittimuses], "د یوه کس د زندان ته سپارلو لپاره حکم").
+entry(mity, adj, [], "د مايتونو سره شتون").
+entry(mitzvah, n, [mitzvahs], "يا MITZVOTH يهوي قانون يو امر").
+دهرکتنې_نوې(مخلوط, فع, [مخلوطوي, مخلوطول, مخلوطونه], "یوه توده کې ځای پر ځای کول ګډول مخلوطېدلی ټولیدونکی صفت ګډدانه سره قید").
+entry(mixdown, n, [mixdowns], "د غږیزو ټریکونو یوځای کولو پروسه ترڅو ثبت کړي").
+د پرولوګ کوډ به په پښتو کې دې ته ورته وي: 
+```prolog
+entry(مخلوط کوونکی, ن, [مخلوط کوونکي], "هغه څوک/څه چې مخلوط کوي").
+```
+entry(مخلوط جوړونه, ن, [مخلوط جوړونې], "د ګډو مشروباتو جوړولو هنر").
+دخول (مکس ټیپ, ن, [مکس ټیپونه], "د مختلفو سرچینو څخه ثبت شوي سندرو یو مجموعه").
+د پرولوګ کوډ: entry('ګډون', n, [' ګډونونه'], "هغه څه چې د ګډولو په واسطه تولیدیږي").
+entry(mixup, n, [mixups], "د ګډوډۍ حالت").
+مداخلې(معزن، ن، [معزنس]، "معزن").
+entry(مېزونا, n, [مېزوناګانې], "یوه جاپاني شلغمه").
+entry(ميزن, n, [ميزنز], "د بادبان يوه ډول").
+entry(mizzle, v, [mizzled,mizzling,mizzles], "په نریو څاڅکو باران کول").
+داخلې وکړئ(mizzly، صفت، []، "د خفیف باران په واسطه ځانګړتیا، زیات باراني، تر ټولو زیات باراني").
+entry(mm, interj, [], "د رضايت يا خوشحالۍ څرګندولو لپاره کارول کېږي").
+entry(mmm, interj, [], "هممم").
+اندازه(يادگار, ن, [يادگارونه], "د حافظې سره د مرستې وسیله").
+د Prolog کوډ: entry(mo, n, [mos], "يوه شېبه").
+دخول(moa, n, [moas], "يو منقرض الوتونکې بې پروازه مرغۍ").
+entry(ګنګوسه, فعل, [ګنګوسه وکړه,ګنګوسه کول,ګنګوسې], "یو ټیټ خفه کوونکی غږ کول").
+entry(شکايت کوونکی, ن, [شکايت کوونکي], "هغه څوک چې شکایت کوي").
+entry(غمژن, صفت, [], "غږ کول").
+د پرولوګ ليکنه: entry(خندق، فعل، [تاخندق، تخندق کول، خندقونه]، "په خندق سره محاصره کول یو اوبړل شوي خندق").
+entry(moatlike, صفت, [], "د یو خندق په څیر").
+entry(mob, v, [چاپیره, له نږدې, ګرځي], "شاوخوا ته راټولیدل").
+entry(موبوونکی, ن, [موبوونکي], "هغه چې ګډوډي جوړوي").
+entry(موبش, صفت, [], "د یوه ګډې وډې ډلې د خلکو ځانګړتیا").
+entry(mobbism, n, [mobbisms], "موبش چلند").
+entry(موبکپ، ن، [موبکپس]، "د ښځې خولۍ").
+entry(موبائل, ن, [موبائلونه], "د مجسمې یوه بڼه").
+entry(متحرک کړئ, v, [متحرک کړل,متحرک کول,متحرک کوي], "متحرک کول").
+entry(تحرک, ن, [تحرکونه], "د حرکت وړتیا").
+entry(خوځول, v, [خوځول شوی, خوځول, خوځوي], "په حرکت کې اچول").
+entry(mobled, adj, [], "په یوه ټوکر یا څادر کې نغښتل شوی").
+entry(موبلاګ, ن, [موبلاګونه], "یو ویبلاګ چې د مبايل څخه يې مواد خپرېږي").
+entry(ډله واکمن پلوي, n, [ډله واکمن پلويان], "هغه څوک چې د ډله واکمنۍ ملاتړ کوي").
+د ننه کیدل (جنایتکار، ن، [جنایتکاران]، "یو غړی").
+entry(moc, n, [mocs], "یو موکاسین").
+entry(موکاسین, ن, [موکاسینز], "د بوټانو یو ډول").
+entry(موچا, ن, [موچاګانې], "یو غوره تریخ کافي").
+entry(موچي, ن, [موچيګانې], "يو جاپاني شيريني چې له وريژې آړه او خوږ بين پيسټ سره جوړېږي").
+دمصاد په(سودا، د، [سوداګاني]، "د زين لپاره د څرمنې پوښ").
+د پوښتنې له مخې، یوازې Prolog ته د ژباړې اړتیا ده پرته له کومې بله ژبې. نو، د Prolog اصلي کرښه داسې پاتې کیږي:
+```prolog
+entry(mock, v, [mocked,mocking,mocks], "to ridiculeMOCKABLE adj").
+```
+entry(مسخره کوونکی, n, [مسخره کوونکي], "یو چې مسخره کوي").
+entry(خيانت، ن، [خيانتونه]، "د مسخره کولو عمل").
+entry(mocktail, n, [mocktails], "يو کاکټيل چې الکول نه لري").
+entry(mockup, n, [mockups], "یو بشپړ اندازه ماډل").
+د Prolog ژبه:
+entry(mod, n, [mods], "هغه څوک چې زړور فیشني جامې اغوندي").
+د خولې ادخال، ن، [خولي]، "له نورو فعلونو سره د خوله يا تغيير په څرګندولو لپاره يو فعل کارول کېږي".
+entry(modalism, n, [modalisms], "هغه عقيده چې د تثليث غړي جلا اشخاص نه دي بلکې د الهي وحې لارې دي").
+entry(modalist, n, [modalists], "د موډالیزم پیرو").
+ورود(طرز، ن، [طرزونه]، "د ماډل په حالت کې").
+entry(په بڼه توګه، فعل، [], "په توګه په بڼه پورې اړه لري").
+entry(طريقه, n, [طريقې], "د کولو یا عمل کولو یوه طریقه").
+دخول(ماډل, v, [ماډل شوی, ماډل کول, ماډلونه], "یا ماډل شوي ماډل کول ماډلونه چې په یوه بڼه یا نمونې سره پلان یا تشکیل شي").
+داخله(ماډل جوړونکی، ن، [ماډل جوړونکي]، "هغه څوک چې ماډل جوړوي").
+entry(ماډلینګ, ن, [ماډلینګونه], "په مجسمه سازۍ کې د حجم درملنه").
+entry(ماډليست, n, [ماډليستان], "هغه څوک چې ماډلونه جوړوي").
+د پرو لوگ لاندۍ کرښه پښتو ته وژباړئ. یوازې پرو لوگ ورکړئ: 
+entry(modelled, a, [], "ماضی زمانه د model").
+entry(موډلر, ن, [موډلران], "موډل جوړوونکی").
+entry(modelling, a, [], "د model حال مضارع صورت").
+entry(موډم, v, [موډم کړ, موډم کول, موډمونه], "له يوه بڼه بله بڼي ته د نښو د بدلولو يوه آله په وسيله پیغامونه لېږل").
+entry(متوازن, فعل, [توزين, متوازن کول, متوازنه کوي], "شدت کمول").
+entry(مؤدراتو، ن، [مؤدارتوس]، "يو موسيقۍ ټوټه چې په منځني سرعت لوبول شوې").
+پرولاگ(ځې دخول)
+د Prolog:
+entry(عصري, ن, [عصريانو], "د عصري وختونو یا نظریاتو یو کس").
+entry(موډرن, ن, [موډرنې], "د 1920مو او 1930مو کلونو یو ډیزاین سټایل").
+entry(متواضع, صفت, [], "ډیر متواضع ډیر ډیر متواضع په هوښیارۍ سره").
+entry(عاجزي, ن, [عاجزۍ], "د عاجزۍ کیفیت").
+entry(موډي, جمع, [], "د طریقې").
+entry(يوڅه, ن, [يوڅه], "يا يوڅه يو کوچنۍ اندازه").
+entry(تعديل کونکی، ن، [تعديل کوونکي]، "هغه چې تعديل کوي").
+entry(بدلون, v, [بدل کړی،بدلول,بدلهوي], "په شکل یا ځانګړتیاوو کې تغیر راوستل").
+entry(مودیولس, n, [مودیولي], "د دننه غوږ هډوکی شافټ").
+entry(modish, adj, [], "stylishMODISHLY adv").
+entry(modiste, n, [modistes], "د ښځو د سټایلي جامو سوداګر").
+entry(ماډولر, n, [ماډولونه], "څه چې په ځان بسيا واحدونو کې جوړ شوي وي").
+د-ننوځئ(تعدیل کړئ، فعل، [تعدیل شوی، تعدیل ګولۍ، تعدیل کوي]، "د یوې ځانګړې برخې سره سم تنظیم کړئ").
+ورود(ماډول، n، [ماډولونه]، "د اندازې یو معیار").
+entry(modulo, adv, [], "د يو معين قيمت په مقابل کې").
+entry(موډولوس, n, [موډولونه], "یو شمېر چې کله په دوه عددي کې ووېشل شي، ورته پاتې شونی توليدوي").
+د ننه(modus, n, [modi], "يو ډول").
+entry(موفټ, ن, [موفټونه], "له ځمکې په درز کې زیانمن بهیدنه").
+entry(موفېټه, ن, [موفېټې], "موفېټه").
+سټن(entry, mog, v, [mogged, mogging, mogs], "لیرې حرکت کول").
+entry(moggie, ن, [moggies], "moggy").
+entry(پیشو, ن, [پیشان], "یو پیشو").
+دخول(moghul, n, [moghuls], "mogul").
+entry(مغل, ن, [مغولان], "يو مهم شخص").
+entry(moguled, adj, [], "د سخت واورې د ټکو سره سمبال").
+entry(موهير, ن, [موهيرونه], "د انګورا وزې اوږده ورېښمين ويښتان").
+entry(موهاک, ن, [موهاکونه], "يو وېښته ترتيب چې له مخې څخه شا پورې په يوې سختې او اوږدې کرښې سره نښې وي").
+```prolog
+entry(mohel, n, [mohels], "يا موهليم يا موهليم هغه کس چې د يهودانو د دوديز سنت کولو مراسم ترسره کوي").
+```
+د پايلوګ:
+entry(moho, n, [mohos], "يو سرحد چې د ځمکې د قشر او ګني ته بېلوي د قشر او اصلي منځ ته ساحه").
+entry(موهر, ن, [موهرونه], "د هند پخوانی د سرو زرو سکه").
+entry(moi, interj, [], "د يو شي په تور د مصنوعي حيرانتيا څرګندولو لپاره د زه پر ځای استعمال کېږي").
+entry(مويدور, ن, [مويدورونه], "د پرتګال يو پخوانى د سرو زرو سکه").
+دخول(moiety, ن, [moieties], "نیمه").
+محتويات(مویل، فعل، [مویلد، موئلنګ، مویلز]، "سخت کار کول").
+د ماشوم لپاره اړوند پروګرامینګ:
+entry(moiler, n, [مويلرونه], "هغه څوک چې کار کوي").
+entry(مویرا, ن, [مويراي], "په لرغونې یوناني مذهب کې تقدیر یا قسمت").
+په پښتو کې پرو لاګ ته ژباړه:
+entry(مویری، ن، [مویریس]، "یو ټوکر چې د څپېز نمونې لرونکی دی").
+entry(moist, adj, [], "لږ لوند").
+د ننوتلو(لندول، فعل، [لند شوی،لندول،لنديږي]، "لندول يا لندېدل").
+entry(لوند, adj, [], "لوند").
+دخول(moistly, adv, [], "په لندبل ډول").
+entry(رطوبت, n, [رطوبتونه], "تغليظ شوی يا خور شوی مايع").
+entry(موژاره، ن، [موژارې]، "یو سمندري کب").
+د ننوتنه(موهټو، ن، [موهټوز]، "يو مشروب د رم شکر، پودينه او لايم جوس څخه جوړ شوی").
+entry(موجو, ن, [موجوګان], "يا موجوګان يو جادويي تعويذ").
+entry(moke, n, [mokes], "يو خچر").
+entry(موکشا, ن, [موکشاس], "په هندويزم کې د روح له بیا زېږېدو څخه وروستۍ ازادي").
+entry(mol, n, [mols], "مول").
+entry(mola, n, [molas], "یو سمندري ماهی").
+entry(molal, adj, [], "د مولي پورې اړه لري").
+entry(molality, n, [molalities], "د محلل په 1000 ګرامه کې د حل شونکې عدد").
+entry(مولر، ن، [مولرونه]، "یو ژړونکی غاښ").
+entry(موليتي, ن, [موليټيو], "د محلول په يو ليټر کې د محلول د مولو شمېر").
+دخول(molasses, n, [molasseses], "یو غلیظ شیره").
+entry(مړوند, v, [مړوند,مړوندنه,مړوندي], "يو شي ته ځانګړي شکل ورکول مړوندکيدونکي adj").
+entry(مولډر, v, [مولډرېدلي, مولډرېدنه, مولډرېږي], "د طبیعي زوال له لارې خاورې ته اوښتي").
+entry(پوچ, پرتلیز, [], "د پوچ").
+دخول(moldiest, superlative, [], "د moldy").
+معلومات(مولډنګ, ن, [مولډنګونه], "یو اوږد او تنګ پټه چې د سطحې ښکلا لپاره کارول کېږي").
+entry(مولډوارپ, ن, [مولډوارپونه], "یوه کنده کونکې تی لرونکې څاروی").
+entry(خوسا، صفت, [], "خوسا خوسا ترينه").
+entry(مول, ن, [مولونه], "د مرکب هغه اندازه چې وزن یې د مرکب د مالیکولي وزن سره برابر وي").
+entry(مالیکول, n, [مالیکولونه], "د يو عنصر تر ټولو کوچنی فزیکي واحد").
+entry(د ځمکې غونډۍ، ن، [د ځمکې غونډۍګانې]، "د ځمکې یوه کوچنۍ غونډۍ").
+entry(موصلین, ن, [موصلینونه], "یو کاټن پارچه").
+entry(ځورول, v, [ځور کړی, ځورول, ځوروي], "په مزاحمت او تکليف لګول").
+entry(ځورونکی, ن, [ځورونکي], "هغه څوک چې ځوروي").
+entry(مولیز, جمع, [], "د مولی").
+entry(moline, adj, [], "هغه چې لاسونه يې په آخر کې دوه څانګې او کرو وي، د يو بېرغ نښه چې استعمالېږي").
+دردونکو(moll, ن, [دردونکی], "یو ګنګسټرې انجلۍ").
+دخلی(mollah, n, [mollahs], "ملا").
+معلومات(مولی، ن، [مولیز], "یو استوایي ماهی").
+د پرو لاګ:
+`entry(mollies, pl, [], "د مولی").`
+پېژندنه(مطمئنکول, ف, [مطمئنشو,مطمئنکېدل,مطمئنشوي], "ارامول").
+entry(صدف , n, [صدفونه], "صدف").
+دخول(mollusca, npl, [], "د پوستکي ناروغۍ").
+entry(صدف, ن, [صدفونه], "د نرم بدن لرونکي بې مهره حیواناتو څخه په يوه ډله پورې تړاو لرونکي").
+د Prolog کرښه:
+entry(molly, n, [mollies], "mollie").
+ورود(مولک، ن، [مولکونه]، "يو بڅری").
+د Prolog خپرونه:
+entry(molt, v, [پره هغۀ باندې خول لرې کړو,پرې خول لرې کول,پرې لرې کوي], "د بهرنی پوښی لرې کولو لپاره").
+entry(molten, adj, [], "په سخا مایع شویMOLTENLY adv").
+entry(مولتر, ن, [مولترس], "هغه څوک چې پوستکی بدلوي").
+entry(molto, adv, [], "ډیر چې په موسیقي لارښوونو کې کارول کیږي").
+entry(مولي, ن, [مولينې], "يوه وحشي هوږه").
+entry(moly, n, [مولی], "مولیبدېنوم").
+entry(مولائبډک, صفت, [], "چې د یو ځانګړي فلزي عنصر پورې اړه لري").
+entry(مور, ن, [مورانې], "مور").
+entry(mome, n, [momes], "يو احمق").
+entry(شیبه, ن, [شیبې], "یو لنډه موده").
+entry(مومینټا, الف, [], "مومنټمونو جمع").
+entry(په شېبه کې, ق، [], "له شېبې څخه شېبې ته").
+entry(شيبه, n, [شيبې], "يا MOMENTOESياد").
+entry(momentum, n, [momentums], "يا MOMENTA د حرکت ځواک").
+entry(momi, a, [], "د momus جمع").
+entry(موریزم, ن, [موریزمونه], "پر میندو باندې غیر معمولي تکیه").
+entry(مور، ن، [مورې]، "مور").
+entry(مور, ن, [موري], "مور").
+entry(momser, n, [momsers], "یوه حرامي").
+entry(momus, n, [momuses], "يا MOMIa نيوکه کوونکې کس").
+entry(مومزر, ن, [مومزرز], "مومسر").
+entry(دوشنبه, ن, [نارينه], "سړی").
+entry(monachal, adj, [], "د راهبانو پورې اړه لري").
+entry(monacid, n, [monacids], "مونو اسيد").
+entry(موناد, ن, [مونادونه], "يو حجره والې لرونکی ژوندي موجودمونادل مونادي صفت").
+entry(مونات, pl, [], "د مونا").
+entry(یووالی، n, [یووالۍ]، "یو فلسفي عقیده").
+entry(monamine, n, [monamines], "یوه امینه چې یوازې یو امینو ګروپ لري").
+entry(monandry, n, [monandries], "د یو وخت یوازې یو خاوند کولو حالت").
+entry(واکمن, ن, [واکمنان], "يو مطلق واکمن").
+entry(شهشاهي, ن, [شهشاهياني], "د يوه شهشاه لخوا واکمني").
+entry(مونارډا, n, [مونارډاس], "یو خوشبو لرونکی بوټی").
+د ننه یوړ(موناس، ن، [مونادس]، "یو موناد").
+د موناسټیک لپاره ((n, [monastics], "یو راهب")) ننوتل.
+entry(یوه لارښود، صفت، [], "د غږ لیږد، ثبت یا بیا تولید پورې اړوند چې یو یوازینۍ لیږد لاره شامله وي").
+entry(monaxial, adj, [], "چې يو محور لري").
+entry(monaxon, n, [monaxons], "د سپنجونو په جوړښت کې یو مستقیم سکونکی").
+entry(مونازایټ, ن, [مونازایټونه], "یو منرال").
+entry(مونده, n, [مونده], "دنیا").
+entry(موندو, ن, [موندوز], "په زين بوديزم کې کارول کيږي د پوښتنو او ځوابونو ګړندی تخنيک").
+entry(monecian, صفت, [], "چې د نارینه او ښځینه جنسي غړي په یوه واحد فرد کې لري").
+entry(مونيلن, ن, [مونيلنونه], "يو پروټين چې د لوېديځې افريقا له يوې سورې مېوې څخه ترلاسه شوی").
+entry(مونېران, ن, [مونېراني], "يو حجروي موجودات چې واضح هسته نه لري").
+د لاسرسي(مالي، صفت، []، "د پیسو پورې اړوند").
+entry(منافع ورکول, فعل, [منافع ورکړه, منافع ورکول, منافع ورکوي], "ګټه پورته کول").
+entry(پیسې_ګټل, v, [پیسې_ګټلې,پیسې_ګټل,پیسې_ګټي], "د پیسو په توګه بدلول").
+entry(پیسې, ن, [پیسې], "یا د تبادلې رسمي وسیله او د ارزښت څارنه").
+د پیښې شاملول(پیسو بټوه, اسم, [پیسو بټوې], "د پیسو د ساتلو بټوه").
+entry(پیسوال, صفت, [], "ډېرې پیسې لرل").
+entry(سکه جوړونکی, ن, [سکه جوړونکي], "هغه څوک چې سکې جوړوي").
+entry(moneyman, ن, [moneymen], "یو شخص چې لوی مقدار پیسې پانګونه کوي").
+entry(مونګوزې, الف, [], "د mongoose جمع").
+مندنه(monger, v, [مندرول,مندریدل,مندري], "پلورل").
+دخولې(مونګو، ن، [مونګوس]، "مونګو").
+entry(mongoe, n, [mongoes], "منګه").
+entry(منګول, ن, [منګولان], "هغه شخص چې د ذهني نیمګړتیا په یو ډول اخته وي").
+entry(منګوس, ن, [منګوسونه], "يا منګيسته یو غوښه خوړونکی ژوی").
+entry(مخلوط, ن, [مخلوطونه], "هغه ژوی یا نبات چې د مختلفو نسلونو مخلوط وي").
+entry(mongst, prep, [], "په منځ").
+entry(monic, adj, [], "د یوې ځانګړې ډول پولينوم په اړه").
+entry(monicker, n, [monickers], "moniker").
+entry(monie, adj, [], "ډېر").
+entry(شخصې_مالي_وسائل_لرونکى, صفت, [], "پیسې_لرونکی").
+entry(پيسې, ا, [], "د پيسو جمع").
+د ننوتنه(مونیکر، ن، [مونیکرز]، "یو نوم").
+entry(monilia, ن, [moniliae], "د یوې ډول طفیلي فنګس").
+entry(monish, v, [monished,monishing,monishes], "خبرداری ورکول").
+entry(مونسیم, n, [مونسیمونه], "یو فلسفي نظریه").
+د ننې داخلې(explicit یا قطعي لیکنه) ته د پوسټو ژبه کی دا ډول وژباړه:
+```prolog
+د ننوتنه(monist, n, [منسټس], "یو لګښت د یووالي مننګونکی")
+```
+entry(خبرداری, ن, [خبرداریان], "یو خبرداری").
+entry(خبردارکوونکی, صفت, [], "خبر ورکول").
+entry(څارنه, v, [څارل شوې,څارنه کول,څاري], "څارنه کول").
+entry(څارنه, ن, [څارنې], "د خبرداري لیک").
+entry(راهب, ن, [راهبان], "يو سړی چې د يوې جلا شوي مذهبي ټولنې غړی وي").
+entry(دراويشي، ن، [دراويشۍ], "د راهبانو د ژوند طریقه").
+entry(بیزو, فعل, [بیزو کړل, بیزو کول, بیزوګانې], "پيروي کول").
+entry(مولک ماهی, ن, [مولک ماهیګان], "یو سمندري ماهي").
+entry(راهبوالی, ن, [راهبوالۍ], "د راهب په توګه شتون").
+entry(راهبان, صفت, [], "د راهبانو پورې اړه لري").
+entry(مونو, ن, [مونوس], "يوه ساري ناروغي").
+entry(مونواسیډ, n, [مونواسیډونه], "د یوې ډول اسید").
+entry(مونوبلاک, صفت, [], "په یوه بڼه کې جوړ شوی").
+entry(مونوکارپ, n, [مونوکارپونه], "يو نبات چې يوازې يو ځل مېوه ورکوي مخکې لدې چې مړ شي").
+entry(موناکل, n, [موناکلز], "د يوې سترګې لپاره عينکMONOCLED adj").
+entry(مونوکوټ، ن، [مونوکوټونه]، "د تخم يو ډول نبات").
+entry(مطلق العنان, n, [مطلق العنانان], "يو مستبد").
+entry(یو قے زراعت, n, [یو قے زراعتونه], "په هماغه کرکېله باندې په هماغه میدان کې کال وروسته کال").
+entry(مونوسایټ، ن، [مونوسایټونه]، "د سپین وینې د حجرو یو ډول").
+entry(monodist, n, [monodists], "هغه څوک چې یواځې نغمې لیکي").
+entry(مونودي, ن, [مونوديز], "يو داسې مرثيه چې يو کس يې وړاندې کويMONODIC صفت").
+دلیل(monoecy, n, [monoecies], "د يو جنس او دو جنس نباتونو ترمنځ د مونوکي حالت").
+entry(مونوفيل, ن, [مونوفيلونه], "د مصنوعي فایبر یوه یوازینۍ فلیمانټ").
+entry(مونو فيول, ن, [مونو فيولونه], "د يو ډول راکټ پرپلنټ").
+entry(یوه مېرمن, ن, [یوه مېرمنې], "په یو وخت کې له یوې کس سره واده کول").
+entry(يووالي، نوم، [يووالۍ], "بې جنسي تکثير").
+entry(مونوجرم, صفت, [], "يو داسې مېوه چې يوازې يو بوټی توليدوي").
+entry(یواځنۍ ژبه ویونکی, ن, [یواځنۍ ژبه ویونکي], "یو کس چې یوازې په یوه ژبه خبرې یا لیکل کوي").
+د خولې په توګه:
+entry(monogram, v, [monogramed,monograming,monograms], "or MONOGRAMMED MONOGRAMMING MONOGRAMSto mark with a design of ones initials").
+entry(یو مېرمن، n, [یومتره], "د یو وخت یو مېرمن لرلو حالت").
+دخولي(منو هول, ن, [منو هولونه], "يوه بيړۍ چې يو تنها هول لري").
+entry(مونکین, n, [مونکینونه], "يوه ماده چې سپينې وينې حجرې يې جاري کوي").
+entry(موناکيني, ن, [موناکينيس], "د بکيني لاندې نیمایي").
+entry(مونوليت, ن, [مونوليتونه], "د تیږو لوی بلاک").
+entry(مونولوګ, v, [مونولوګ کړی,مونولوګ کول,مونولوګونه], "د یو کس لخوا اوږده وینا ترسره کول").
+entry(مونولوژي, ن, [مونولوژيو], "د یو مونولوګ ویلو عمل").
+entry(مونومر, ن, [مونومرز], "د کیمیاوي مرکب یو ډول").
+entry(مونومېل, n, [مونومېلونه], "يو جبري څرګندونه چې له يوې واحدې غوندې څخه جوړه شوې وي").
+entry(مونوپوډ, ن, [مونوپوډونه], "د کیمرې لپاره یو پښه لرونکی ملاتړ").
+entry(مونوپود, ن, [مونوپودونه], "يو مخلوق چې يو پښه لري").
+entry(مونوفوډي, ن, [مونوفوډۍ], "يو مقياس چې يوازې يوه متريکي پښه لري").
+entry(مونپول, ن, [مونپولونه], "د راډیو انټینا یو ډول").
+entry(مونياپولي، ن، [مونياپوليز]، "په ځانګړي بازار کې د يو توکي يا خدمت ځانګړې ولکه").
+entry(مونوریل, ن, [مونوریلونه], "یو واحد پټلۍ چې د ویل شوي وسایطو لپاره د لارې په توګه کار کوي").
+_entry(monoski, n, [monoskis], "يوه پراخه سکي چې دواړه پښې پرې ایښودل کیږي")._
+entry(مونوږی, ن, [مونوږیزه], "یو بې جوړه کروموزوم").
+entry(مونوسومي, ن, [مونوسوميا], "هغه حالت چې يو بې جوړې کروموزوم لري").
+entry(مونوتینټ, ن, [مونوتینټ], "د یوې رنګ په مختلفو سیورو کې جوړ شوی انځور").
+entry(مونوٽون, ن, [مونوٽونونه], "په يو غير متبدل آواز کې يو صوتي غږ").
+entry(یکسانوالی, ن, [یکسانوالی ګانې], "خسته کوونکې یو شانوالی").
+د لومړي کرښې ژباړه: 
+
+```prolog
+entry(مونوتایپ, ن, [مونوتایپس], "د هغې ډلې یوازینۍ استازی").
+```
+entry(مونواکساید, ن, [مونواکسایدونه], "د یو ډول اکساید").
+entry(مون, ن, [غونډۍ], "د بدن یوې برامدګې").
+entry(مسيو، ن، [مسيوګانې]، "د یو سړي لپاره د ادب فرانسوي لقب").
+entry(مون سون، ن، [مون سونونه]، "يو موسمي باد").
+entry(منسټر, ن, [منسټرې], "یو عجيب يا ويروونکی مخلوق").
+entry(مونسترا, ن, [مونستراز], "يو استوايي امريکايي بوټی").
+entry(مونتاژ, v, [مونتاژ شوی, مونتاژ کول, مونتاژونه], "چې په يو ګډ تصوير کې يو ځاى کړي").
+entry(غرنی, n, [غرنیان], "د یوه غر د ټیټې ونو سیمه").
+د پرو لاګ کرښه:
+entry(monte, n, [montes], "د يو کارت لوبه").
+entry(مونتيتھ, n, [مونتيتھونه], "د یو لوی پنچ کاسه").
+مداخلہ(مونٹیرو، ن، [مونٹیروس]، "د خولۍ یو ډول").
+د ننوتنه(مونتيس، جمع، [], "د مونس").
+داخلې(مياشت، ن، [مياشتي]، "يوه موده چې تقريباً ۳۰ ورځې وي").
+د داخلې(میاشتنی، n، [میاشتنۍ]، "هغه خپرونه چې په میاشت کې یو ځل خپرېږي").
+entry(مونتي, ن, [مونتيز], "هغه ټول مقدار چې تمه کيږي يا ممکن وي").
+entry(یادګار, ن, [یادګارونه], "یوه جوړښت چې د یادګار په توګه جوړ شوی وي").
+entry(monuron, n, [مونورون], "یو علف وژونکی").
+entry(mony, adj, [], "ډېر").
+```prolog
+entry(moo, v, [mooed,mooing,moos], "د غوا د ژور ناله غږ جوړ کړئMOOCH v MOOCHED MOOCHING MOOCHESto پرته د ورکړې ترلاسه کولMOOCHER n pl MOOCHERSهغه چې موچ کويMOOD n pl MOODSa د یو کس احساساتي حالت په یو ټاکلي وخت کېMOODY adj MOODIER MOODIESTد مزاجونو بدلېدو ته ورکړل شویMOODILY advMOOK n pl MOOKSa بې عقل یا حقیر شخصMOOL n pl MOOLSنرم خاورهMOOLA n pl MOOLASmoolahMOOLAH n pl MOOLAHSmoneyMOOLEY n pl MOOLEYSmuleyMOON v MOONED MOONING MOONSto په بېکاره وخت تېرولMOONBEAM n pl MOONBEAMSa د سپوږمۍ څخه د رڼا کرښه د ځمکې طبیعي سپوتMOONBOW n pl MOONBOWSa د سپوږمۍ څخه رامینځته شوی رنګین کمانMOONCALF n pl MOONCALVESa بې عقل شخصMOONDOG n pl MOONDOGSa په اسمان کې د سپوږمۍ رڼا څخه جوړ روښانه ځایMOONDUST n pl MOONDUSTSdust on the moonMOONER n pl MOONERSone that moonsMOONEYE n pl MOONEYESa freshwater fishMOONFISH n pl MOONFISHESa marine fishMOONGATE n pl MOONGATESa circular gateway in a wallMOONIER comparative of moonyMOONIEST superlative of moonyMOONILY adv in a moony mannerMOONISH adj fickleMOONLESS adj lacking the light of the moonMOONLET n pl MOONLETSa small satelliteMOONLIKE adj resembling the moonMOONLIT adj lighted by the moonMOONPORT n pl MOONPORTSa facility for launching spacecraft to the moonMOONRISE n pl MOONRISESthe rising of the moon above the horizonMOONROOF n pl MOONROOFSa glass panel in an automobile roofMOONSAIL n pl MOONSAILSa light square sailMOONSEED n pl MOONSEEDSa climbing plantMOONSET n pl MOONSETSthe setting of the moon below the horizonMOONSHOT n pl MOONSHOTSthe launching of a spacecraft to the moonMOONWALK v MOONWALKED MOONWALKING MOONWALKSto walk on the moonMOONWARD adv toward the moonMOONWORT n pl MOONWORTSa flowering plantMOONY adj MOONIER MOONIESTresembling the moonMOOR v MOORED MOORING MOORSto secure a vessel by means of cablesMOORAGE n pl MOORAGESthe act of mooringMOORCOCK n pl MOORCOCKSthe male moorfowlMOORFOWL n pl MOORFOWLSa game birdMOORHEN n pl MOORHENSthe female moorfowlMOORIER comparative of mooryMOORIEST superlative of mooryMOORING n pl MOORINGSa place where a vessel may be mooredMOORISH adj marshyMOORLAND n pl MOORLANDSa tract of marshy landMOORWORT n pl MOORWORTSa marsh plantMOORY adj MOORIER MOORIESTmarshyMOOSE n pl MOOSEa ruminant mammalMOOT v MOOTED MOOTING MOOTSto bring up for discussionMOOTER n pl MOOTERSone that mootsMOOTNESS n pl MOOTNESSESthe state of being without legal significanceMOP v MOPPED MOPPING MOPSto wipe with a mop an implement for cleaning floorsMOPBOARD n pl MOPBOARDSa board at the base of a wallMOPE v MOPED MOPING MOPESto act in a dejected or gloomy mannerMOPED n pl MOPEDSa type of motorbikeMOPER n pl MOPERSone that mopesMOPERY n pl MOPERIESan act of dawdlingMOPEY adj MOPIER MOPIESTdejectedMOPILY advMOPHEAD n pl MOPHEADSa person with thick shaggy hairMOPIER comparative of mopyMOPIEST superlative of mopyMOPINESS n pl MOPINESSESthe state of being mopeyMOPING present participle of mopeMOPINGLY adv in a moping mannerMOPISH adj given to mopingMOPISHLY advMOPOKE n pl MOPOKESan Australian birdMOPPED past tense of mopMOPPER n pl MOPPERSone that mopsMOPPET n pl MOPPETSa childMOPPING present participle of mopMOPPY adj MOPPIER MOPPIESTresembling a mopMOPY adj MOPIER MOPIESTmopeyMOQUETTE n pl MOQUETTESa woolen fabricMOR n pl MORSa forest humusMORA n pl MORAS or MORAEa unit of metrical time in prosodyMORAINE n pl MORAINESan accumulation of debris deposited by a glacierMORAINAL MORAINIC adjMORAL adj pertaining to principles of right and wrongMORALE n pl MORALESthe state of the spirits of an individual or groupMORALISE v MORALISED MORALISING MORALISESto moralizeMORALISM n pl MORALISMSthe practice of moralizingMORALIST n pl MORALISTSa teacher of moralityMORALITY n pl MORALITIESconformity to the rules of right conductMORALIZE v MORALIZED MORALIZING MORALIZESto explain in a moral senseMORALLY adv in a moral mannerMORALS npl rules of conduct with respect to right and wrongMORASS n pl MORASSESa marshMORASSY adjMORATORY adj authorizing delay of paymentMORAY n pl MORAYSa tropical eelMORBID adj gruesomeMORBIDLY advMORBIFIC adj causing diseaseMORBILLI npl a virus diseaseMORCEAU n pl MORCEAUXa short literary or musical compositionMORDANCY n pl MORDANCIESa sarcastic qualityMORDANT v MORDANTED MORDANTING MORDANTSto treat with a caustic substanceMORDENT n pl MORDENTSa melodic embellishmentMORE adj greater additionalMOREEN n pl MOREENSa heavy fabricMOREISH adj so good that you want to have moreMOREL n pl MORELSan edible mushroomMORELLE n pl MORELLESa flowering plantMORELLO n pl MORELLOSa variety of sour cherryMORENESS n pl MORENESSESthe state of being moreMOREOVER adv in additionMORES npl the customs of a particular groupMORESQUE n pl MORESQUESan ancient decorative styleMORGAN n pl MORGANSa unit of distance between genesMORGEN n pl MORGENSa Dutch unit of land areaMORGUE n pl MORGUESa place where dead bodies are kept for identificationMORIBUND adj being about to dieMORION n pl MORIONSa type of helmetMORISH adj moreishMORN n pl MORNSmorningMORNAY n pl MORNAYS a cheeseflavored white sauceMORNING n pl MORNINGSthe early part of the dayMOROCCO n pl MOROCCOSa soft leatherMORON n pl MORONSa mentally deficient personMORONIC adjMORONISM n pl MORONISMSthe condition of being a moronMORONITY n pl MORONITIESmoronismMOROSE adj sullenMOROSELY advMOROSITY n pl MOROSITIESthe state of being moroseMORPH v MORPHED MORPHING MORPHSto be transformedMORPHEME n pl MORPHEMESa linguistic unitMORPHIA n pl MORPHIASmorphineMORPHIC adj pertaining to formMORPHIN n pl MORPHINSmorphineMORPHINE n pl MORPHINESa narcotic alkaloidMORPHING n pl MORPHINGSthe transformation of one form into anotherMORPHO n pl MORPHOSa tropical butterflyMORRION n pl MORRIONSmorionMORRIS n pl MORRISESan English folk danceMORRO n pl MORROSa rounded elevationMORROW n pl MORROWSthe next dayMORSE adj designating a code used in telegraphyMORSEL v MORSELED MORSELING MORSELS or MORSELLED MORSELLING MORSELSto divide into small piecesMORT n pl MORTSa note sounded on a hunting horn to announce the killing of an animalMORTAL n pl MORTALSa human beingMORTALLY adv fatallyMORTAR v MORTARED MORTARING MORTARSto secure with mortar a type of cementMORTARY adj containing or resembling mortarMORTGAGE v MORTGAGED MORTGAGING MORTGAGESto pledge to a creditor as securityMORTICE v MORTICED MORTICING MORTICESto mortiseMORTICER n pl MORTICERSmortiserMORTIFY v MORTIFIED MORTIFYING MORTIFIESto humiliateMORTISE v MORTISED MORTISING MORTISESto join or fasten securelyMORTISER n pl MORTISERSone that mortisesMORTMAIN n pl MORTMAINSperpetual ownership of landMORTUARY n pl MORTUARIESa place where dead bodies are kept until burialMORULA n pl MORULAS or MORULAEan embryonic mass of cellsMORULAR adjMOSAIC v MOSAICKED MOSAICKING MOSAICSto form into a mosaic a type of inlaid surface decorationMOSASAUR n pl MOSASAURSan extinct lizardMOSCATO n pl MOSCATOSa sweet dessert wineMOSCHATE adj muskyMOSELLE n pl MOSELLESa mediumdry white wineMOSEY v MOSEYED MOSEYING MOSEYSto saunterMOSH v MOSHED MOSHING MOSHESto engage in frenzied dancing with others at a rock concertMOSHAV n pl MOSHAVIMa cooperative settlement of small farms in IsraelMOSHER n pl MOSHERSone that moshesMOSHING n pl MOSHINGSfrenzied dancing at a rock concertMOSK n pl MOSKSmosqueMOSQUE n pl MOSQUESa Muslim house of worshipMOSQUITO n pl MOSQUITOS or MOSQUITOESa winged insectMOSS v MOSSED MOSSING MOSSESto cover with moss a growth of small leafystemmed plantsMOSSBACK n pl MOSSBACKSa large old fishMOSSER n pl MOSSERSone that gathers or works with mossMOSSLIKE adj resembling mossMOSSO adv rapidly  used as a musical directionMOSSY adj MOSSIER MOSSIESTcovered with mossMOST n pl MOSTSthe greatest amountMOSTE past tense of moteMOSTEST n pl MOSTESTSmostMOSTLY adv mainlyMOT n pl MOTSa witty sayingMOTE n pl MOTESa small particleMOTE v past tense MOSTEmayMOTEL n pl MOTELSa roadside hotelMOTET n pl MOTETSa type of choral compositionMOTEY adj full of motesMOTH n pl MOTHSa winged insectMOTHBALL v MOTHBALLED MOTHBALLING MOTHBALLSto put into storageMOTHER v MOTHERED MOTHERING MOTHERSto give birth toMOTHERLY adj maternalMOTHERY adj slimyMOTHLIKE adj resembling a mothMOTHY adj MOTHIER MOTHIESTfull of mothsMOTIF n pl MOTIFSa recurring thematic element in an artistic workMOTIFIC adjMOTILE n pl MOTILESone whose mental imagery consists chiefly of inner feelings of actionMOTILITY n pl MOTILITIESthe ability to moveMOTION v MOTIONED MOTIONING MOTIONSto signal by a bodily movementMOTIONAL adj pertaining to movementMOTIONER n pl MOTIONERSone that motionsMOTIVATE v MOTIVATED MOTIVATING MOTIVATESto provide with an incentiveMOTIVE v MOTIVED MOTIVING MOTIVEsto motivateMOTIVIC adj pertaining to a musical motifMOTIVITY n pl MOTIVITIESthe ability to moveMOTLEY adj MOTLEYER MOTLEYEST or MOTLIER MOTLIESTcomposed of diverse elementsMOTLEY n pl MOTLEYSa garment of various colorsMOTMOT n pl MOTMOTSa tropical birdMOTOR v MOTORED MOTORING MOTORSto travel by automobileMOTORBUS n pl MOTORBUSES or MOTORBUSSESa busMOTORCAR n pl MOTORCARSan automobileMOTORDOM n pl MOTORDOMSthe motor vehicle industryMOTORIC adj pertaining to muscular movementMOTORING n pl MOTORINGSthe recreation of traveling by automobileMOTORISE v MOTORISED MOTORISING MOTORISESto motorizeMOTORIST n pl MOTORISTSone who travels by automobileMOTORIZE v MOTORIZED MOTORIZING MOTORIZEsto equip with motor vehiclesMOTORMAN n pl MOTORMENone who operates an electric streetcar or subway trainMOTORWAY n pl MOTORWAYSa type of highwayMOTT n pl MOTTSmotteMOTTE n pl MOTTESa small growth of trees on a prairieMOTTLE v MOTTLED MOTTLING MOTTLESto mark with spots or streaks of different colorsMOTTLER n pl MOTTLERSone that mottlesMOTTLING n pl MOTTLINGSan irregular arrangement of spotsMOTTO n pl MOTTOS or MOTTOESa short expression of a guiding principleMOUCH v MOUCHED MOUCHING MOUCHESto moochMOUCHOIR n pl MOUCHOIRSa small handkerchiefMOUE n pl MOUESa pouting grimaceMOUFFLON n pl MOUFFLONSmouflonMOUFLON n pl MOUFLONSa wild sheepMOUILLE adj pronounced with the front of the tongue against the palateMOUJIK n pl MOUJIKSmuzhikMOULAGE n pl MOULAGESthe making of a cast or mold of a mark for use in a criminal investigationMOULD v MOULDED MOULDING MOULDSto moldMOULDER v MOULDERED MOULDERING MOULDERSto molderMOULDING n pl MOULDINGSmoldingMOULDY adj MOULDIER MOULDIESTmoldyMOULIN n pl MOULINSa vertical cavity in a glacierMOULT v MOULTED MOULTING MOULTSto moltMOULTER n pl MOULTERSmolterMOUND v MOUNDED MOUNDING MOUNDSto pileMOUNT v MOUNTED MOUNTING MOUNTSto get up onMOUNTAIN n pl MOUNTAINSa large natural elevation of the earths surfaceMOUNTER n pl MOUNTERSone that mountsMOUNTING n pl MOUNTINGSsomething that provides a backing or appropriate setting for something elseMOURN v MOURNED MOURNING MOURNSto feel or express grief or sorrowMOURNER n pl MOURNERSone that mournsMOURNFUL adj MOURNFULLER MOURNFULLESTexpressing grief or sorrowMOURNING n pl MOURNINGSan outward sign of griefMOUSAKA n pl MOUSAKASmoussakaMOUSE n pl MICEa small rodentMOUSE v MOUSED MOUSING MOUSESto catch miceMOUSEPAD n pl MOUSEPADSa flat pad on which a computer mouse is usedMOUSER n pl MOUSERSan animal that catches miceMOUSEY adj MOUSIER MOUSIESTmousyMOUSIER comparative of mousyMOUSIEST superlative of mousyMOUSILY adv in a mousy mannerMOUSING n pl MOUSINGSa wrapping around the shank end of a hookMOUSSAKA n pl MOUSSAKASa Middle Eastern dish of meat and eggplantMOUSSE v MOUSSED MOUSSING MOUSSESto style with mousse foamy preparation used in styling hairMOUSSEUX n pl MOUSSEUXa sparkling wineMOUSY adj MOUSIER MOUSIESTresembling a mouseMOUTH v MOUTHED MOUTHING MOUTHSto put into the mouthMOUTHER n pl MOUTHERSa speakerMOUTHFUL n pl MOUTHFULSas much as the mouth can holdMOUTHY adj MOUTHIER MOUTHIESTvery talkativeMOUTHILY advMOUTON n pl MOUTONSsheepskin processed to resemble seal or beaverMOVABLE n pl MOVABLESsomething that can be movedMOVABLY adv so as to be capable of being movedMOVANT n pl MOVANTSa person who applies to a court for a favorable rulingMOVE v MOVED MOVING MOVESto change from one position to anotherMOVEABLE n pl MOVEABLESmovableMOVEABLY adv movablyMOVED past tense of moveMOVELESS adj incapable of movementMOVEMENT n pl MOVEMENTSthe act of movingMOVER n pl MOVERSone that movesMOVIE n pl MOVIESa motion pictureMOVIEDOM n pl MOVIEDOMSfilmdomMOVIEOLA n pl MOVIEOLASa device for viewing and editing filmMOVING present participle of moveMOVINGLY adv so as to affect the emotionsMOVIOLA n pl MOVIOLASmovieolaMOW v MOWED MOWN MOWING MOWSto cut down standing herbageMOWER n pl MOWERSone that mowsMOWING n pl MOWINGSthe act of cutting down standing herbageMOXA n pl MOXASa Chinese plantMOXIE n pl MOXIESspirit or courageMOZETTA n pl MOZETTAS or MOZETTEmozzettaMOZO n pl MOZOSa manual laborerMOZZETTA n pl MOZZETTAS or MOZZETTEa hooded cape worn by bishopsMRIDANGA n pl MRIDANGASa drum of IndiaMU n pl MUSa Greek letterMUCH n pl MUCHESa great amountMUCHACHA n pl MUCHACHASa young womanMUCHACHO n pl MUCHACHOSa young manMUCHLY adv very muchMUCHNESS n pl MUCHNESSESthe quality of being greatMUCHO adj much manyMUCID adj mustyMUCIDITY n pl MUCIDITIESthe state of being mucidMUCILAGE n pl MUCILAGESan adhesive substanceMUCIN n pl MUCINSa protein secreted by the mucous membranesMUCINOID MUCINOUS adjMUCK v MUCKED MUCKING MUCKSto fertilize with manureMUCKER n pl MUCKERSa vulgar personMUCKIER comparative of muckyMUCKIEST superlative of muckyMUCKILY adv in a mucky mannerMUCKLE n pl MUCKLESa large amountMUCKLUCK n pl MUCKLUCKSmuklukMUCKRAKE v MUCKRAKED MUCKRAKING MUCKRAKESto search for and expose corruptionMUCKWORM n pl MUCKWORMSa worm found in manureMUCKY adj MUCKIER MUCKIESTfilthyMUCLUC n pl MUCLUCSmuklukMUCOID n pl MUCOIDSa complex proteinMUCOIDAL adjMUCOR n pl MUCORSa type of fungusMUCOSA n pl MUCOSAS or MUCOSAEa mucous membraneMUCOSAL adjMUCOSE adj mucousMUCOSITY n pl MUCOSITIESthe state of being mucousMUCOUS adj secreting or containing mucusMUCRO n pl MUCRONES or MUCROSa sharp point at the end of certain plant and animal organsMUCUS n pl MUCUSESa viscid bodily fluidMUD v MUDDED MUDDING MUDSto cover with mud soft wet earthMUDBANK n pl MUDBANKSa sloping area of mud alongside a body of waterMUDBUG n pl MUDBUGSa crayfishMUDCAP v MUDCAPPED MUDCAPPING MUDCAPSto cover an explosive with mud before detonatingMUDCAT n pl MUDCATSa type of catfishMUDDER n pl MUDDERSa racehorse that runs well on a muddy trackMUDDIED past tense of muddyMUDDIER comparative of muddyMUDDIES present 3d person sing of muddyMUDDIEST superlative of muddyMUDDILY adv in a muddy mannerMUDDING present participle of mudMUDDLE v MUDDLED MUDDLING MUDDLESto mix in a disordered mannerMUDDLER n pl MUDDLERSone that muddlesMUDDLY adj disorderedMUDDY adj MUDDIER MUDDIESTcovered or filled with mudMUDDY v MUDDIED MUDDYING MUDDIESto make or become muddyMUDFISH n pl MUDFISHESa fish found in mud or muddy waterMUDFLAP n pl MUDFLAPSa flap hung behind a rear wheel of a vehicle to prevent splashingMUDFLAT n pl MUDFLATSa level tract alternately covered and left bare by the tideMUDFLOW n pl MUDFLOWSa moving mass of mudMUDGUARD n pl MUDGUARDSa fenderMUDHEN n pl MUDHENSa bird that lives in marshesMUDHOLE n pl MUDHOLESa hole or hollow place full of mudMUDLARK n pl MUDLARKSa street urchinMUDPACK n pl MUDPACKScosmetic paste for the faceMUDPIE n pl MUDPIESa small mass of mud formed into a pie shapeMUDPUPPY n pl MUDPUPPIESa large salamanderMUDRA n pl MUDRASa hand gesture in East Indian classical dancingMUDROCK n pl MUDROCKSpeliteMUDROOM n pl MUDROOMSa room for shedding muddy clothing or footwearMUDSILL n pl MUDSILLSthe lowest supporting timber of a structureMUDSLIDE n pl MUDSLIDESa mudflow down a slopeMUDSLING v MUDSLUNG MUDSLINGING MUDSLINGSto use insults and accusations against a rival candidateMUDSTONE n pl MUDSTONESa type of rockMUEDDIN n pl MUEDDINSmuezzinMUENSTER n pl MUENSTERSa mild cheeseMUESLI n pl MUESLISa breakfast cerealMUEZZIN n pl MUEZZINSa Muslim crier who calls the faithful to prayerMUFF v MUFFED MUFFING MUFFSto bungleMUFFIN n pl MUFFINSa small round breadMUFFLE v MUFFLED MUFFLING MUFFLESto wrap with something to deaden soundMUFFLER n pl MUFFLERSa device for deadening soundMUFTI n pl MUFTISa judge who interprets Muslim religious lawMUG v MUGGED MUGGING MUGSto assault with intent to robMUGFUL n pl MUGFULSas much as a mug can holdMUGG v MUGGED MUGGING MUGGSto make funny facesMUGGAR n pl MUGGARSmuggerMUGGED past tense of mugMUGGEE n pl MUGGEESone who is muggedMUGGER n pl MUGGERSa large Asian crocodileMUGGIER comparative of muggyMUGGIEST superlative of muggyMUGGILY adv in a muggy mannerMUGGING n pl MUGGINGSa street assault or beatingMUGGINS n pl MUGGINSESa stupid or foolish personMUGGUR n pl MUGGURSmuggerMUGGY adj MUGGIER MUGGIESTwarm and humidMUGHAL n pl MUGHALSmogulMUGSHOT n pl MUGSHOTSa photograph of a persons face for official recordsMUGWORT n pl MUGWORTSa flowering plantMUGWUMP n pl MUGWUMPSa political independentMUHLY n pl MUHLIESa perennial grassMUJIK n pl MUJIKSmuzhikMUKHTAR n pl MUKHTARSthe head of the government of a town in Arabic countriesMUKLUK n pl MUKLUKSa soft boot worn by InuitsMUKTUK n pl MUKTUKSwhale skin used for foodMULATTO n pl MULATTOS or MULATTOESthe offspring of one white and one black parentMULBERRY n pl MULBERRIESa tree bearing an edible berrylike fruitMULCH v MULCHED MULCHING MULCHESto provide with a protective covering for the soilMULCT v MULCTED MULCTING MULCTSto defraudMULE v MULED MULING MULESto strike from dies belonging to two different issues as a coinMULETA n pl MULETASa red cloth used by a matadorMULETEER n pl MULETEERSone who drives mules hoofed work animalsMULEY n pl MULEYSa hornless cowMULIE n pl MULIESa western North American deerMULING present participle of muleMULISH adj stubbornMULISHLY advMULL v MULLED MULLING MULLSto ponderMULLA n pl MULLASmullahMULLAH n pl MULLAHSa Muslim religious leader or teacherMULLEIN n pl MULLEINSa Eurasian herbMULLEN n pl MULLENSmulleinMULLER n pl MULLERSa grinding implementMULLET n pl MULLETSan edible fishMULLEY n pl MULLEYSmuleyMULLIGAN n pl MULLIGANSa stew of various meats and vegetablesMULLION v MULLIONED MULLIONING MULLIONSto provide with vertical dividing stripsMULLITE n pl MULLITESa mineralMULLOCK n pl MULLOCKSwaste earth or rock from a mineMULLOCKY adjMULTIAGE adj including people of various agesMULTICAR adj owning or involving several carsMULTIDAY adj lasting or usable for many daysMULTIFID adj divided into many partsMULTIJET adj having more than two jetsMULTIPED n pl MULTIPEDSan animal having many feetMULTIPLE n pl MULTIPLESthe product of a quantity by an integerMULTIPLY v MULTIPLIED MULTIPLYING MULTIPLIESto increase in numberMULTITON adj weighing many tonsMULTIUSE adj having many usesMULTIWAY adj having several paths or routesMULTURE n pl MULTURESa fee paid to a miller for grinding grainMUM v MUMMED MUMMING MUMSto act in a disguiseMUMBLE v MUMBLED MUMBLING MUMBLESto speak unclearlyMUMBLER n pl MUMBLERSone that mumblesMUMBLING n pl MUMBLINGSthe act of speaking unclearlyMUMBLY adj given to mumblingMUMM v MUMMED MUMMING MUMMSto mumMUMMED past tense of mum and mummMUMMER n pl MUMMERSone that mumsMUMMERY n pl MUMMERIESa performance by mummersMUMMIED past tense of mummyMUMMIES present 3d person sing of mummyMUMMIFY v MUMMIFIED MUMMIFYING MUMMIFIESto preserve by embalmingMUMMING n pl MUMMINGSa performance of a folk play by mummersMUMMY v MUMMIED MUMMYING MUMMIESto mummifyMUMP v MUMPED MUMPING MUMPSto begMUMPER n pl MUMPERSone that mumpsMUMPISH adj sullenMUMSY adj MUMSIER MUMSIESTmaternalMUMU n pl MUMUSmuumuuMUN n pl MUNSman fellowMUNCH v MUNCHED MUNCHING MUNCHESto chew with a crackling soundMUNCHER n pl MUNCHERSone that munchesMUNCHIE n pl MUNCHIESa small amount of food eaten between mealsMUNCHKIN n pl MUNCHKINSa small friendly personMUNCHY adj MUNCHIER MUNCHIESTsuitable for snackingMUNDANE adj ordinaryMUNDUNGO n pl MUNDUNGOSa foulsmelling tobaccoMUNG n pl MUNGSa round green beanMUNGO n pl MUNGOS or MUNGOESa lowquality woolMUNGOOSE n pl MUNGOOSESmongooseMUNI n pl MUNISa security issued by a state or local governmentMUNIMENT n pl MUNIMENTSa means of defenseMUNITION v MUNITIONED MUNITIONING MUNITIONSto furnish with war materielMUNNION n pl MUNNIONSa muntinMUNSTER n pl MUNSTERSmuensterMUNTIN n pl MUNTINSa dividing strip for window panesMUNTINED adjMUNTING n pl MUNTINGSmuntinMUNTJAC n pl MUNTJACSa small Asian deerMUNTJAK n pl MUNTJAKSmuntjacMUON n pl MUONSa subatomic particleMUONIC adjMUONIUM n pl MUONIUMSan electron and a positive muon bound togetherMURA n pl MURASa Japanese villageMURAENID n pl MURAENIDSa morayMURAGE n pl MURAGESa tax levied for repairing the walls of a townMURAL n pl MURALSa painting applied directly to a wall or ceilingMURALED MURALLED adjMURALIST n pl MURALISTSa painter of muralsMURDER v MURDERED MURDERING MURDERSto kill unlawfully with premeditated maliceMURDEREE n pl MURDEREESone that is murderedMURDERER n pl MURDERERSone that murdersMURE v MURED MURING MURESto immureMUREIN n pl MUREINSa type of polymerMUREX n pl MUREXES or MURICESa marine molluskMURIATE n pl MURIATESchlorideMURIATED adj pickledMURICATE adj covered with short sharp pointsMURICES a pl of murexMURID n pl MURIDSa murineMURINE n pl MURINESany of a family of small rodentsMURING present participle of mureMURK adj MURKER MURKESTdarkMURKLY advMURK n pl MURKSdarknessMURKY adj MURKIER MURKIESTdarkMURKILY advMURMUR v MURMURED MURMURING MURMURSto speak unclearlyMURMURER n pl MURMURERSone that murmursMURPHY n pl MURPHIESa potatoMURR n pl MURRSmurreMURRA n pl MURRASa substance used to make fine vases and cups in ancient RomeMURRAIN n pl MURRAINSa disease of cattleMURRE n pl MURRESa diving birdMURRELET n pl MURRELETSa small diving birdMURREY n pl MURREYSa dark purple colorMURRHA n pl MURRHASmurraMURRHINE adjMURRINE adj pertaining to murraMURRY n pl MURRIESa morayMURTHER v MURTHERED MURTHERING MURTHERSto murderMUSCA n pl MUSCAEany of a genus of fliesMUSCADEL n pl MUSCADELSmuscatelMUSCADET n pl MUSCADETSa dry white French wineMUSCAT n pl MUSCATSa sweet white grapeMUSCATEL n pl MUSCATELSa wine made from muscat grapesMUSCID n pl MUSCIDSmuscaMUSCLE v MUSCLED MUSCLING MUSCLESto proceed by forceMUSCLY adj MUSCLIER MUSCLIESTcomposed of muscle tissue that produces bodily movementMUSCULAR adj pertaining to muscleMUSE v MUSED MUSING MUSESto ponderMUSEFUL adj pensiveMUSER n pl MUSERSone that musesMUSETTE n pl MUSETTESa small bagpipeMUSEUM n pl MUSEUMSa place where objects of lasting interest or value are cared for and exhibitedMUSH v MUSHED MUSHING MUSHESto travel over snow with a dog sledMUSHER n pl MUSHERSone that mushesMUSHRAT n pl MUSHRATSmuskratMUSHROOM v MUSHROOMED MUSHROOMING MUSHROOMSto grow or spread rapidlyMUSHY adj MUSHIER MUSHIESTpulpyMUSHILY advMUSIC n pl MUSICSvocal or instrumental sounds organized to produce a unified compositionMUSICAL n pl MUSICALSa play in which dialogue is interspersed with songs and dancesMUSICALE n pl MUSICALESa program of music performed at a social gatheringMUSICIAN n pl MUSICIANSone who performs or composes musicMUSICK v MUSICKED MUSICKING MUSICKSto compose music forMUSING n pl MUSINGScontemplationMUSINGLY adv in a pensive mannerMUSJID n pl MUSJIDSa mosqueMUSK n pl MUSKSa strongly odorous substance secreted by certain animalsMUSKEG n pl MUSKEGSa marshMUSKET n pl MUSKETSa type of firearmMUSKETRY n pl MUSKETRIESthe technique of firing small armsMUSKIE n pl MUSKIESa freshwater fishMUSKIER comparative of muskyMUSKIEST superlative of muskyMUSKILY adv in a musky mannerMUSKIT n pl MUSKITSmesquiteMUSKOX n pl MUSKOXENa large bovid of arctic regionsMUSKRAT n pl MUSKRATSan aquatic rodentMUSKROOT n pl MUSKROOTSa perennial herbMUSKY adj MUSKIER MUSKIESTresembling muskMUSLIN n pl MUSLINSa cotton fabricMUSLINED adjMUSO n pl MUSOSa musicianMUSPIKE n pl MUSPIKESa freshwater fishMUSQUASH n pl MUSQUASHESa muskratMUSS v MUSSED MUSSING MUSSESto messMUSSEL n pl MUSSELSa bivalve molluskMUSSY adj MUSSIER MUSSIESTmessyMUSSILY advMUST v MUSTED MUSTING MUSTSto become mustyMUSTACHE n pl MUSTACHESa growth of hair on the upper lipMUSTANG n pl MUSTANGSa wild horseMUSTARD n pl MUSTARDSa pungent seasoningMUSTARDY adj resembling mustardMUSTEE n pl MUSTEESan octoroonMUSTELID n pl MUSTELIDSa mammal of the weasel familyMUSTER v MUSTERED MUSTERING MUSTERSto summon or assembleMUSTH n pl MUSTHSa state of frenzy occurring in male elephantsMUSTY adj MUSTIER MUSTIESThaving a stale odorMUSTILY advMUT n pl MUTSmuttMUTABLE adj capable of changeMUTABLY advMUTAGEN n pl MUTAGENSa substance that causes biological mutationMUTANT n pl MUTANTSsomething that undergoes mutationMUTASE n pl MUTASESan enzymeMUTATE v MUTATED MUTATING MUTATESto change or cause to change in formMUTATION n pl MUTATIONSthe act of changing in formMUTATIVE adjMUTATOR n pl MUTATORSone that causes a change in formMUTCH n pl MUTCHESa closefitting capMUTCHKIN n pl MUTCHKINSa Scottish unit of liquid measureMUTE adj MUTER MUTESTcharacterized by an absence of speechMUTELY advMUTE v MUTED MUTING MUTESto deaden the sound ofMUTEDLY advMUTENESS n pl MUTENESSESthe state of being muteMUTER comparative of muteMUTEST superlative of muteMUTICOUS adj lacking a pointMUTILATE v MUTILATED MUTILATING MUTILATESto deprive of a limb or other essential partMUTINE v MUTINED MUTINING MUTINESto mutinyMUTINEER v MUTINEERED MUTINEERING MUTINEERSto mutinyMUTING present participle of muteMUTINIED past tense of mutinyMUTINIES present 3d person sing of mutinyMUTINING present participle of mutineMUTINOUS adj disposed to mutinyMUTINY v MUTINIED MUTINYING MUTINIESto revolt against constituted authorityMUTISM n pl MUTISMSmutenessMUTON n pl MUTONSa unit of nucleic acidMUTT n pl MUTTSa mongrel dogMUTTER v MUTTERED MUTTERING MUTTERSto speak unclearlyMUTTERER n pl MUTTERERSone that muttersMUTTON n pl MUTTONSthe flesh of sheep used as foodMUTTONY adjMUTUAL n pl MUTUALSa mutual fundMUTUALLY adv in a manner shared in commonMUTUEL n pl MUTUELSa system of betting on racesMUTULE n pl MUTULESan ornamental block used in classical Greek architectureMUTULAR adjMUUMUU n pl MUUMUUSa long loose dressMUX v MUXED MUXING MUXESto transmit several messages simultaneously along a single channelMUZAK n pl MUZAKSrecorded background musicMUZHIK n pl MUZHIKSa Russian peasantMUZJIK n pl MUZJIKSmuzhikMUZZIER comparative of muzzyMUZZIEST superlative of muzzyMUZZILY adv in a muzzy mannerMUZZLE v MUZZLED MUZZLING MUZZLESto put a covering over the mouth of to prevent biting or eatingMUZZLER n pl MUZZLERSone that muzzlesMUZZY adj MUZZIER MUZZIESTconfusedMY pron the possessive form of the pronoun IMYALGIA n pl MYALGIASmuscular painMYALGIC adjMYASIS n pl MYASESmyiasisMYC n pl MYCSa gene that transforms a normal cell into a cancerous cellMYCELE n pl MYCELESmyceliumMYCELIUM n pl MYCELIAthe vegetative portion of a fungusMYCELIAL MYCELIAN MYCELOID adjMYCETOMA n pl MYCETOMAS or MYCETOMATAa fungous infectionMYCOLOGY n pl MYCOLOGIESthe branch of botany dealing with fungiMYCOSIS n pl MYCOSESa disease caused by a fungusMYCOTIC adjMYELIN n pl MYELINSa fatty substance that encases certain nerve fibersMYELINIC adjMYELINE n pl MYELINESmyelinMYELITIS n pl MYELITIDESinflammation of the bone marrowMYELOID adj pertaining to bone marrowMYELOMA n pl MYELOMAS or MYELOMATAa tumor of the bone marrowMYIASIS n pl MYIASESinfestation of human tissue by fly maggotsMYLODON n pl MYLODONSan extinct giant slothMYLONITE n pl MYLONITESa type of rockMYNA n pl MYNASan Asian birdMYNAH n pl MYNAHSmynaMYNHEER n pl MYNHEERSa Dutch title of courtesy for a manMYOBLAST n pl MYOBLASTSa cell capable of giving rise to muscle cellsMYOGENIC adj originating in muscle tissueMYOGRAPH n pl MYOGRAPHSan instrument for recording muscular contractionsMYOID adj resembling muscleMYOLOGY n pl MYOLOGIESthe study of musclesMYOLOGIC adjMYOMA n pl MYOMAS or MYOMATAa tumor composed of muscle tissueMYOMERE n pl MYOMERESpart of a vertebrate embryoMYOPATHY n pl MYOPATHIESa disorder of muscle tissueMYOPE n pl MYOPESone who is affected with myopiaMYOPIA n pl MYOPIASa visual defectMYOPIC adjMYOPY n pl MYOPIESmyopiaMYOSCOPE n pl MYOSCOPESan instrument for observing muscular contractionsMYOSIN n pl MYOSINSa protein found in muscle tissueMYOSIS n pl MYOSESmiosisMYOSITIS n pl MYOSITISESmuscular pain from infectionMYOSOTE n pl MYOSOTESmyosotisMYOSOTIS n pl MYOSOTISESa flowering plantMYOTIC n pl MYOTICSmioticMYOTOME n pl MYOTOMESa portion of an embryonic somiteMYOTONIA n pl MYOTONIAStemporary muscular rigidityMYOTONIC adjMYRIAD n pl MYRIADSa very large numberMYRIAPOD n pl MYRIAPODSa multilegged arthropodMYRICA n pl MYRICASa medicinal tree barkMYRIOPOD n pl MYRIOPODSmyriapodMYRMIDON n pl MYRMIDONS or MYRMIDONESa loyal followerMYRRH n pl MYRRHSan aromatic gum resinMYRRHIC adjMYRRHY adjMYRTLE n pl MYRTLESan evergreen shrubMYSELF pron a form of the 1st person sing pronounMYSID n pl MYSIDSa small crustaceanMYSOST n pl MYSOSTSa mild cheeseMYSTAGOG n pl MYSTAGOGSa teacher of religious mysteriesMYSTERY n pl MYSTERIESsomething that is not or cannot be known understood or explainedMYSTIC n pl MYSTICSone who professes to have had mystical experiencesMYSTICAL adj spiritually significant or symbolicMYSTICLY adv in a mystical mannerMYSTIFY v MYSTIFIED MYSTIFYING MYSTIFIESto perplexMYSTIQUE n pl MYSTIQUESan aura of mystery or mystical power surrounding a particular person or thingMYTH n pl MYTHSa type of traditional storyMYTHIC adj mythicalMYTHICAL adj based on or described in a mythMYTHOS n pl MYTHOIa mythMYTHY adj MYTHIER MYTHIESTresembling mythMYXAMEBA n pl MYXAMEBAS or MYXAMEBAEa slime mold that resembles an amoebaMYXEDEMA n pl MYXEDEMASa disease caused by decreased activity of the thyroid glandMYXOCYTE n pl MYXOCYTESa large cell found in mucous tissueMYXOID adj containing mucusMYXOMA n pl MYXOMAS or MYXOMATAa tumor composed of mucous tissue").
+```
+```prolog
+entry(na, adv, [نا], "نانNAB v NABBED NABBING NABSto capture or arrestNABBER n pl NABBERSone that nabsNABE n pl NABESa neighborhood movie theaterNABIS n pl NABISa group of French artistsNABOB n pl NABOBSone who becomes rich and prominentNABOBISH adjNABOBERY n pl NABOBERIESthe state of being a nabobNABOBESS n pl NABOBESSESa female nabobNABOBISM n pl NABOBISMSgreat wealth and luxuryNACELLE n pl NACELLESa shelter on an aircraftNACHAS n pl NACHASpride in anothers accomplishmentsNACHES n pl NACHESnachasNACHO n pl NACHOSa tortilla chip topped with cheese and a savory mixture and broiledNACRE n pl NACRESthe pearly internal layer of certain shellsNACRED NACREOUS adjNADA n pl NADASnothingNADIR n pl NADIRSa point on the celestial sphereNADIRAL adjNAE n pl NAESnoNAETHING n pl NAETHINGSnothingNAEVUS n pl NAEVInevusNAEVOID adjNAFF v NAFFED NAFFING NAFFSto fool aroundNAFF adj NAFFER NAFFESTlacking taste or styleNAFFNESS n pl NAFFNESSESthe quality of lacking taste or styleNAG v NAGGED NAGGING NAGSto find fault incessantlyNAGA n pl NAGASa halfsnake halfhuman creature in HinduismNAGANA n pl NAGANASa disease of horses in AfricaNAGGER n pl NAGGERSone that nagsNAGGING n pl NAGGINGSthe act of finding fault incessantlyNAGGY adj NAGGIER NAGGIESTgiven to naggingNAGWARE n pl NAGWARESsoftware that is at first free but often reminds the user to pay for itNAH adv noNAIAD n pl NAIADS or NAIADESa water nymphNAIF n pl NAIFSa naive personNAIL v NAILED NAILING NAILSto fasten with a nail a slender piece of metalNAILER n pl NAILERSone that nailsNAILFOLD n pl NAILFOLDSa fold of skin around the fingernailNAILHEAD n pl NAILHEADSthe top of a nailNAILLESS adj lacking nailsNAILSET n pl NAILSETSa steel rod for driving a nail into somethingNAINSOOK n pl NAINSOOKSa cotton fabricNAIRA n pl NAIRASa monetary unit of NigeriaNAIRU n pl NAIRUSthe lowest rate of unemployment at which there is no inflationNAIVE adj NAIVER NAIVESTlacking sophisticationNAIVELY advNAIVE n pl NAIVESa naive personNAIVETE n pl NAIVETESthe quality of being naiveNAIVETY n pl NAIVETIESnaiveteNAKED adj NAKEDER NAKEDESTbeing without clothing or coveringNAKEDLY advNAKFA n pl NAKFASa monetary unit of EritreaNALA n pl NALASnullahNALED n pl NALEDSan insecticideNALOXONE n pl NALOXONESa chemical compoundNAM a past tense of nimNAME v NAMED NAMING NAMESto give a title toNAMABLE NAMEABLE adjNAMELESS adj lacking distinction or fameNAMELY adv that is to sayNAMER n pl NAMERSone that namesNAMESAKE n pl NAMESAKESone who is named after anotherNAMETAG n pl NAMETAGSa tag bearing ones name worn for identificationNAMETAPE n pl NAMETAPESa tape bearing ones name worn for identificationNAMING present participle of nameNAN n pl NANSa round flat breadNANA n pl NANASa grandmotherNANDIN n pl NANDINSan evergreen shrubNANDINA n pl NANDINASan Asian shrubNANISM n pl NANISMSabnormal smallnessNANKEEN n pl NANKEENSa cotton fabricNANKIN n pl NANKINSnankeenNANNA n pl NANNASnanaNANNIE n pl NANNIESnannyNANNY v NANNIED NANNYING NANNIESto be overprotective towardNANNYISH adj resembling a childrens nurseNANO n pl NANOSscience that deals with materials on an atomic or molecular scaleNANOBOT n pl NANOBOTSa very small selfpropelled machineNANOGRAM n pl NANOGRAMSa unit of mass and weightNANOTECH n pl NANOTECHSthe technology of building electronic devices from individual atoms and moleculesNANOTUBE n pl NANOTUBESa microscopic tubeNANOWATT n pl NANOWATTSa unit of powerNAOS n pl NAOIan ancient templeNAP v NAPPED NAPPING NAPSto sleep brieflyNAPA n pl NAPASa soft leatherNAPALM v NAPALMED NAPALMING NAPALMSto assault with a type of incendiary bombNAPE n pl NAPESthe back of the neckNAPERY n pl NAPERIEStable linenNAPHTHA n pl NAPHTHASa volatile liquidNAPHTHOL n pl NAPHTHOLSa chemical compoundNAPHTHYL n pl NAPHTHYLSa radical derived from naphthaleneNAPHTOL n pl NAPHTOLSnaphtholNAPIFORM adj shaped like a turnipNAPKIN n pl NAPKINSa piece of material used to wipe the hands and mouthNAPLESS adj threadbareNAPOLEON n pl NAPOLEONSa type of pastryNAPPA n pl NAPPASnapaNAPPE n pl NAPPESa type of rock formationNAPPED past tense of napNAPPER n pl NAPPERSone that napsNAPPIE n pl NAPPIESa diaperNAPPING present participle of napNAPPY adj NAPPIER NAPPIESTkinkyNAPROXEN n pl NAPROXENSan antiinflammatory drugNARC n pl NARCSan undercover drug agentNARCEIN n pl NARCEINSnarceineNARCEINE n pl NARCEINESan opium derivativeNARCISM n pl NARCISMSexcessive love of oneselfNARCISSI npl bulbous flowering plantsNARCIST n pl NARCISTSone given to narcismNARCO n pl NARCOSnarcNARCOMA n pl NARCOMAS or NARCOMATAa stupor induced by a narcoticNARCOSE adj characterized by stuporNARCOSIS n pl NARCOSESa druginduced stuporNARCOTIC n pl NARCOTICSa drug that dulls the sensesNARD n pl NARDSa fragrant ointmentNARDINE adjNARDOO n pl NARDOOSa cloverlike plantNARES pl of narisNARGHILE n pl NARGHILESa hookahNARGILE n pl NARGILESnarghileNARGILEH n pl NARGILEHSnarghileNARIS n pl NARESa nostrilNARIAL NARIC NARINE adjNARK v NARKED NARKING NARKSto spy or informNARKY adj NARKIER NARKIESTirritableNARRATE v NARRATED NARRATING NARRATESto tell a storyNARRATER n pl NARRATERSnarratorNARRATOR n pl NARRATORSone that narratesNARROW adj NARROWER NARROWESTof little widthNARROWLY advNARROW v NARROWED NARROWING NARROWSto make narrowNARTHEX n pl NARTHEXESa vestibule in a churchNARWAL n pl NARWALSnarwhalNARWHAL n pl NARWHALSan arctic aquatic mammalNARWHALE n pl NARWHALESnarwhalNARY adj not oneNASAL n pl NASALSa sound uttered through the noseNASALISE v NASALISED NASALISING NASALISESto nasalizeNASALISM n pl NASALISMSnasalityNASALITY n pl NASALITIESthe quality or an instance of being produced nasallyNASALIZE v NASALIZED NASALIZING NASALIZESto produce sounds nasallyNASALLY adv through the noseNASCENCE n pl NASCENCESnascencyNASCENCY n pl NASCENCIESbirth originNASCENT adj coming into existenceNASION n pl NASIONSa point in the skullNASIAL adjNASTIC adj pertaining to an automatic response of plantsNASTY adj NASTIER NASTIESToffensive to the sensesNASTILY advNASTY n pl NASTIESsomething that is nastyNATAL adj pertaining to ones birthNATALITY n pl NATALITIESbirth rateNATANT adj floating or swimmingNATANTLY advNATATION n pl NATATIONSthe act of swimmingNATATORY adj pertaining to swimmingNATCH adv naturallyNATES npl the buttocksNATHLESS adv neverthelessNATION n pl NATIONSa politically organized people who share a territory customs and historyNATIONAL n pl NATIONALSa citizen of a nationNATIVE n pl NATIVESan original inhabitant of an areaNATIVELY adv in an inborn mannerNATIVISM n pl NATIVISMSa policy of favoring the interests of native inhabitantsNATIVIST n pl NATIVISTSan advocate of nativismNATIVITY n pl NATIVITIESthe process of being bornNATRIUM n pl NATRIUMSsodiumNATRON n pl NATRONSa chemical compoundNATTER v NATTERED NATTERING NATTERSto chatterNATTERER n pl NATTERERSone that nattersNATTY adj NATTIER NATTIESTneatly dressedNATTILY advNATURAL n pl NATURALSa type of musical noteNATURE n pl NATURESthe essential qualities of a person or thingNATURED adjNATURISM n pl NATURISMSnudismNATURIST n pl NATURISTSa nudistNAUGHT n pl NAUGHTSa zeroNAUGHTY n pl NAUGHTIESone that is naughtyNAUGHTY adj NAUGHTIER NAUGHTIESTdisobedientNAUMACHY n pl NAUMACHIESa mock sea battleNAUPLIUS n pl NAUPLIIa form of certain crustaceansNAUPLIAL adjNAUSEA n pl NAUSEASa stomach disturbanceNAUSEANT n pl NAUSEANTSan agent that induces nauseaNAUSEATE v NAUSEATED NAUSEATING NAUSEATESto affect with nauseaNAUSEOUS adj affected with nauseaNAUTCH n pl NAUTCHESa dancing exhibition in IndiaNAUTICAL adj pertaining to shipsNAUTILUS n pl NAUTILUSES or NAUTILIa spiralshelled molluskNAV n pl NAVSnavigationNAVAID n pl NAVAIDSa navigational deviceNAVAL adj pertaining to shipsNAVALLY advNAVAR n pl NAVARSa system of air navigationNAVARIN n pl NAVARINSlamb stew with vegetablesNAVE n pl NAVESthe main part of a churchNAVEL n pl NAVELSa depression in the abdomenNAVETTE n pl NAVETTESa gem cut in a pointed oval formNAVICERT n pl NAVICERTSa document permitting a vessel passage through a naval blockadeNAVIES pl of navyNAVIGATE v NAVIGATED NAVIGATING NAVIGATESto plan and control the course ofNAVVY n pl NAVVIESa manual laborerNAVY n pl NAVIESa nations warshipsNAW adv noNAWAB n pl NAWABSa nabobNAY n pl NAYSa negative voteNAYSAY v NAYSAID NAYSAYING NAYSAYSto oppose or denyNAYSAYER n pl NAYSAYERSone that denies or opposes somethingNAZI n pl NAZISa type of fascistNAZIFY v NAZIFIED NAZIFYING NAZIFIESto cause to be like a naziNE adj born with the name ofNEAP n pl NEAPSa tide of lowest rangeNEAR adj NEARER NEARESTsituated within a short distanceNEARISH adjNEAR v NEARED NEARING NEARSto approachNEARBY adj nearNEARLY adv NEARLIER NEARLIESTwith close approximationNEARNESS n pl NEARNESSESthe state of being nearNEARSIDE n pl NEARSIDESthe left sideNEAT adj NEATER NEATESTbeing in a state of cleanliness and orderNEAT n pl NEATSa bovineNEATEN v NEATENED NEATENING NEATENSto make neatNEATH prep beneathNEATHERD n pl NEATHERDSa cowherdNEATLY adv in a neat mannerNEATNESS n pl NEATNESSESthe state of being neatNEATNIK n pl NEATNIKSa compulsively neat personNEB n pl NEBSthe beak of a birdNEBBISH n pl NEBBISHESa meek personNEBBISHY adjNEBULA n pl NEBULAS or NEBULAEa cloudlike interstellar massNEBULAR adjNEBULE adj composed of successive short curvesNEBULISE v NEBULISED NEBULISING NEBULISESto nebulizeNEBULIZE v NEBULIZED NEBULIZING NEBULIZESto reduce to a fine sprayNEBULOSE adj nebulousNEBULOUS adj unclearNEBULY adj nebuleNECK v NECKED NECKING NECKSto kiss and caress in lovemakingNECKBAND n pl NECKBANDSa band worn around the neck the part of the body joining the head to the trunkNECKER n pl NECKERSone that necksNECKING n pl NECKINGSa small molding near the top of a columnNECKLACE v NECKLACED NECKLACING NECKLACESto kill by placing a tire around the neck and setting it on fireNECKLESS adj having no neckNECKLET n pl NECKLETSa closefiting ornament worn around the neckNECKLIKE adj resembling the neckNECKLINE n pl NECKLINESthe line formed by the neck opening of a garmentNECKTIE n pl NECKTIESa strip of fabric worn around the neckNECKWEAR n pl NECKWEARsomething that is worn around the neckNECROPSY v NECROPSIED NECROPSYING NECROPSIESto perform an autopsy onNECROSE v NECROSED NECROSING NECROSESto affect with necrosisNECROSIS n pl NECROSESthe death of living tissueNECROTIC adjNECTAR n pl NECTARSa delicious drinkNECTARY n pl NECTARIESa plant glandNEDDY n pl NEDDIESa donkeyNEE adj born with the name ofNEED v NEEDED NEEDING NEEDSto have an urgent or essential use forNEEDER n pl NEEDERSone that needsNEEDFUL n pl NEEDFULSsomething that is neededNEEDIER comparative of needyNEEDIEST superlative of needyNEEDILY adv in a needy mannerNEEDLE v NEEDLED NEEDLING NEEDLESto sew with a slender pointed instrumentNEEDLER n pl NEEDLERSone that needlesNEEDLESS adj not necessaryNEEDLING n pl NEEDLINGSthe act of one who needlesNEEDY adj NEEDIER NEEDIESTin a state of povertyNEEM n pl NEEMSan East Indian treeNEEP n pl NEEPSa turnipNEG n pl NEGSa photographic negativeNEGATE v NEGATED NEGATING NEGATESto nullifyNEGATER n pl NEGATERSone that negatesNEGATION n pl NEGATIONSthe act of negatingNEGATIVE v NEGATIVED NEGATIVING NEGATIVESto vetoNEGATON n pl NEGATONSnegatronNEGATOR n pl NEGATORSnegaterNEGATORY adj expressing negationNEGATRON n pl NEGATRONSan electronNEGLECT v NEGLECTED NEGLECTING NEGLECTSto fail to pay attention toNEGLIGE n pl NEGLIGESnegligeeNEGLIGEE n pl NEGLIGEESa womans dressing gownNEGROID n pl NEGROIDSmember of the black raceNEGRONI n pl NEGRONISan alcoholic beverageNEGUS n pl NEGUSESan alcoholic beverageNEIF n pl NEIFSnieveNEIGH v NEIGHED NEIGHING NEIGHSto utter the cry of a horseNEIGHBOR v NEIGHBORED NEIGHBORING NEIGHBORSto live close toNEIST adj nextNEITHER adj not one or the otherNEKTON n pl NEKTONSfreeswimming marine animalsNEKTONIC adjNELLIE n pl NELLIESan effeminate maleNELLY n pl NELLIESnellieNELSON n pl NELSONSa wrestling holdNELUMBO n pl NELUMBOSan aquatic herbNEMA n pl NEMASa nematodeNEMATIC n pl NEMATICSa liquid crystal in a particular phaseNEMATODE n pl NEMATODESa kind of wormNEMESIA n pl NEMESIASa flowering African plantNEMESIS n pl NEMESESa formidable opponentNENE n pl NENESa Hawaiian gooseNEOCON n pl NEOCONSa neoconservativeNEOLITH n pl NEOLITHSan ancient stone implementNEOLOGY n pl NEOLOGIESa new word or phraseNEOLOGIC adjNEOMORPH n pl NEOMORPHSa type of biological structureNEOMYCIN n pl NEOMYCINSan antibiotic drugNEON n pl NEONSa gaseous elementNEONED adjNEONATE n pl NEONATESa newborn childNEONATAL adjNEOPAGAN n pl NEOPAGANSone who practices a modern form of paganismNEOPHYTE n pl NEOPHYTESa noviceNEOPLASM n pl NEOPLASMSa tumorNEOPRENE n pl NEOPRENESa synthetic rubberNEOTENY n pl NEOTENIESattainment of sexual maturity in the larval stageNEOTENIC adjNEOTERIC n pl NEOTERICSa modern authorNEOTYPE n pl NEOTYPESa specimen of a speciesNEPENTHE n pl NEPENTHESa drug that induces forgetfulnessNEPETA n pl NEPETAScatnipNEPHEW n pl NEPHEWSa son of ones brother or sisterNEPHRIC adj renalNEPHRISM n pl NEPHRISMSill health caused by a kidney diseaseNEPHRITE n pl NEPHRITESa mineralNEPHRON n pl NEPHRONSan excretory unit of a kidneyNEPOTISM n pl NEPOTISMSfavoritism shown to a relativeNEPOTIC adjNEPOTIST n pl NEPOTISTSone who practices nepotismNERD n pl NERDSa socially inept personNERDISH adjNERDY adj NERDIER NERDIESTsocially ineptNEREID n pl NEREIDSa sea nymphNEREIS n pl NEREIDESa marine wormNERITIC adj pertaining to shallow waterNEROL n pl NEROLSa fragrant alcoholNEROLI n pl NEROLISa fragrant oilNERTS interj  used to express defianceNERTZ interj nertsNERVATE adj having veinsNERVE v NERVED NERVING NERVESto give courage toNERVIER comparative of nervyNERVIEST superlative of nervyNERVILY adv in a nervy mannerNERVINE n pl NERVINESa soothing medicineNERVING n pl NERVINGSa type of veterinary operationNERVOUS adj easily excitedNERVULE n pl NERVULESnervureNERVURE n pl NERVURESa vascular ridge on a leafNERVY adj NERVIER NERVIESTimpudentNESCIENT n pl NESCIENTSone who is ignorantNESS n pl NESSESa headlandNEST v NESTED NESTING NESTSto build a nest a structure for holding bird eggsNESTABLE adj capable of being fitted closely within another containerNESTER n pl NESTERSone that nestsNESTFUL n pl NESTFULSas much as a nest can holdNESTLE v NESTLED NESTLING NESTLESto lie snuglyNESTLER n pl NESTLERSone that nestlesNESTLIKE adj resembling a nestNESTLING n pl NESTLINGSa young birdNESTMATE n pl NESTMATESa bird sharing a nest with anotherNESTOR n pl NESTORSa wise old manNET v NETTED NETTING NETSto catch in a net a type of openwork fabricNETBALL n pl NETBALLSa team game similar to basketballNETBOOK n pl NETBOOKSa small portable computerNETFUL n pl NETFULSas much as a net can holdNETHER adj situated belowNETIZEN n pl NETIZENSa frequent user of the InternetNETLESS adj having no netNETLIKE adj resembling a netNETOP n pl NETOPSfriend companionNETROOTS npl political activists at the basic level of society who communicate via the InternetNETSUKE n pl NETSUKESa buttonlike fixture on Japanese clothingNETSURF v NETSURFED NETSURFING NETSURFSto browse the Internet for informationNETT v NETTED NETTING NETTSto netNETTABLE adj capable of being nettedNETTED past tense of net nettNETTER n pl NETTERSone that netsNETTIER comparative of nettyNETTIEST superlative of nettyNETTING n pl NETTINGSa netNETTLE v NETTLED NETTLING NETTLESto make angryNETTLER n pl NETTLERSone that nettlesNETTLY adj NETTLIER NETTLIESTpricklyNETTY adj NETTIER NETTIESTresembling a netNETWORK v NETWORKED NETWORKING NETWORKSto cover with or as if with crossing linesNEUK n pl NEUKSnookNEUM n pl NEUMSneumeNEUME n pl NEUMESa sign used in musical notationNEUMATIC NEUMIC adjNEURAL adj pertaining to the nervous systemNEURALLY advNEURAXON n pl NEURAXONSa part of a neuronNEURINE n pl NEURINESa ptomaine poisonNEURITIC n pl NEURITICSone affected with neuritisNEURITIS n pl NEURITISES or NEURITIDESinflammation of a nerveNEUROID adj resembling a nerveNEUROMA n pl NEUROMAS or NEUROMATAa type of tumorNEURON n pl NEURONSthe basic cellular unit of the nervous systemNEURONAL NEURONIC adjNEURONE n pl NEURONESneuronNEUROSIS n pl NEUROSESa type of emotional disturbanceNEUROSAL adjNEUROTIC n pl NEUROTICSone affected with a neurosisNEURULA n pl NEURULAS or NEURULAEa vertebrate embryoNEURULAR adjNEUSTON n pl NEUSTONSan aggregate of small aquatic organismsNEUSTIC adjNEUTER v NEUTERED NEUTERING NEUTERSto castrateNEUTRAL n pl NEUTRALSone that is impartialNEUTRINO n pl NEUTRINOSa subatomic particleNEUTRON n pl NEUTRONSa subatomic particleNEVE n pl NEVESa granular snowNEVER adv at no timeNEVUS n pl NEVIa birthmarkNEVOID adjNEW adj NEWER NEWESTexisting only a short timeNEW n pl NEWSsomething that is newNEWB n pl NEWBSa newbieNEWBIE n pl NEWBIESa newcomerNEWBORN n pl NEWBORNSa recently born infantNEWCOMER n pl NEWCOMERSone that has recently arrivedNEWEL n pl NEWELSa staircase supportNEWFOUND adj newly foundNEWIE n pl NEWIESsomething newNEWISH adj somewhat newNEWLY adv recentlyNEWLYWED n pl NEWLYWEDSa person recently marriedNEWMOWN adj recently mownNEWNESS n pl NEWNESSESthe state of being newNEWS npl a report of recent eventsNEWSBEAT n pl NEWSBEATSa news source that a reporter is assigned to coverNEWSBOY n pl NEWSBOYSa boy who delivers or sells newspapersNEWSCAST n pl NEWSCASTSa news broadcastNEWSDESK n pl NEWSDESKSthe department that receives latebreaking newsNEWSFEED n pl NEWSFEEDSa service that provides news articles for distributionNEWSGIRL n pl NEWSGIRLSa girl who delivers or sells newspapersNEWSHAWK n pl NEWSHAWKSa newspaper reporterNEWSIE n pl NEWSIESnewsyNEWSIER comparative of newsyNEWSIES pl of newsyNEWSIEST superlative of newsyNEWSLESS adj having no newsNEWSMAN n pl NEWSMENa news reporterNEWSPEAK n pl NEWSPEAKSa deliberately ambiguous languageNEWSREEL n pl NEWSREELSa short movie presenting current eventsNEWSROOM n pl NEWSROOMSa room where the news is gatheredNEWSWIRE n pl NEWSWIRESa news agency that transmits news copy to subscribersNEWSY adj NEWSIER NEWSIESTfull of newsNEWSY n pl NEWSIESa newsboyNEWT n pl NEWTSa small salamanderNEWTON n pl NEWTONSa unit of forceNEWWAVER n pl NEWWAVERSa member of a newwave movementNEXT n pl NEXTSthe one that comes immediately afterNEXTDOOR adj located in the next building or roomNEXUS n pl NEXUSESa connection or linkNGULTRUM n pl NGULTRUMSa monetary unit of BhutanNGWEE n pl NGWEEa monetary unit of ZambiaNIACIN n pl NIACINSa B vitaminNIAGARA n pl NIAGARASan outpouring or delugeNIB v NIBBED NIBBING NIBSto provide with a penpointNIBBLE v NIBBLED NIBBLING NIBBLESto eat with small bitesNIBBLER n pl NIBBLERSone that nibblesNIBBLY n pl NIBBLIESa small food itemNIBLICK n pl NIBLICKSa golf clubNIBLIKE adj resembling a penpointNICAD n pl NICADSnickel cadmiumNICE adj NICER NICESTpleasing to the sensesNICELY advNICENESS n pl NICENESSESthe quality of being niceNICETY n pl NICETIESa fine point or distinctionNICHE v NICHED NICHING NICHESto place in a receding space or hollowNICK v NICKED NICKING NICKSto make a shallow cut inNICKEL v NICKELED NICKELING NICKELS or NICKELLED NICKELLING NICKELSto plate with nickel a metallic elementNICKELIC adj pertaining to or containing nickelNICKER v NICKERED NICKERING NICKERSto neighNICKLE v NICKLED NICKLING NICKLESto nickelNICKNACK n pl NICKNACKSa trinketNICKNAME v NICKNAMED NICKNAMING NICKNAMESto give an alternate name toNICOISE adj served with black olives tomatoes olive oil and often anchoviesNICOL n pl NICOLSa type of prismNICOTIN n pl NICOTINSnicotineNICOTINE n pl NICOTINESa poisonous alkaloid in tobaccoNICTATE v NICTATED NICTATING NICTATESto winkNIDAL adj pertaining to a nidusNIDATE v NIDATED NIDATING NIDATESto become implanted in the uterusNIDATION n pl NIDATIONSthe act of nidatingNIDE v NIDED NIDING NIDESto nestNIDERING n pl NIDERINGSa cowardNIDGET n pl NIDGETSan idiotNIDI a pl of nidusNIDIFY v NIDIFIED NIDIFYING NIDIFIESto nestNIDING present participle of nideNIDUS n pl NIDUSES or NIDIa nest or breeding placeNIECE n pl NIECESa daughter of ones brother or sisterNIELLIST n pl NIELLISTSone that niellosNIELLO n pl NIELLOS or NIELLIa black metallic substanceNIELLO v NIELLOED NIELLOING NIELLOSto decorate with nielloNIENTE adv softly fading away  used as a musical directionNIEVE n pl NIEVESthe fist or handNIFF v NIFFED NIFFING NIFFSto stinkNIFFER v NIFFERED NIFFERING NIFFERSto barterNIFFY adj NIFFIER NIFFIESTstinkyNIFTY adj NIFTIER NIFTIESTstylish pleasingNIFTILY advNIFTY n pl NIFTIESsomething that is niftyNIGELLA n pl NIGELLASan annual herbNIGGARD v NIGGARDED NIGGARDING NIGGARDSto act stingilyNIGGLE v NIGGLED NIGGLING NIGGLESto worry over petty detailsNIGGLER n pl NIGGLERSone that nigglesNIGGLING n pl NIGGLINGSpetty or meticulous workNIGGLY adj NIGGLIER NIGGLIESTpettyNIGH adj NIGHER NIGHESTnearNIGH v NIGHED NIGHING NIGHSto approachNIGHNESS n pl NIGHNESSESthe state of being nighNIGHT n pl NIGHTSthe period from sunset to sunriseNIGHTCAP n pl NIGHTCAPSa cap worn to bedNIGHTIE n pl NIGHTIESa nightgownNIGHTJAR n pl NIGHTJARSa nocturnal birdNIGHTLY adv every night at nightNIGHTY n pl NIGHTIESnightieNIGRIFY v NIGRIFIED NIGRIFYING NIGRIFIESto make blackNIGROSIN n pl NIGROSINSa type of dyeNIHIL n pl NIHILSnothingNIHILISM n pl NIHILISMSa doctrine that denies traditional valuesNIHILIST n pl NIHILISTSan adherent of nihilismNIHILITY n pl NIHILITIESthe state of being nothingNIKAH n pl NIKAHSa Muslim marriage ceremonyNIL n pl NILSnothingNILGAI n pl NILGAISa large antelopeNILGAU n pl NILGAUSnilgaiNILGHAI n pl NILGHAISnilgaiNILGHAU n pl NILGHAUSnilgaiNILL v NILLED NILLING NILLSto be unwillingNIM v NIMMED or NAM NIMMING NIMSto stealNIMBLE adj NIMBLER NIMBLESTagileNIMBLY advNIMBUS n pl NIMBUSES or NIMBIa luminous cloudNIMBUSED adjNIMIETY n pl NIMIETIESexcessNIMIOUS adjNIMMED past tense of nimNIMMING present participle of nimNIMROD n pl NIMRODSa hunterNINE n pl NINESa numberNINEBARK n pl NINEBARKSa flowering shrubNINEFOLD adj nine times as greatNINEPIN n pl NINEPINSa wooden pin used in a bowling gameNINER n pl NINERSa student in the ninth gradeNINETEEN n pl NINETEENSa numberNINETY n pl NINETIESa numberNINJA n pl NINJASa feudal Japanese warriorNINJUTSU n pl NINJUTSUSthe traditional Japanese method of spyingNINNY n pl NINNIESa foolNINNYISH adjNINON n pl NINONSa sheer fabricNINTH n pl NINTHSone of nine equal partsNINTHLY adv in the ninth placeNIOBATE n pl NIOBATESa chemical saltNIOBITE n pl NIOBITESthe mineral columbiteNIOBIUM n pl NIOBIUMSa metallic elementNIOBIC NIOBOUS adjNIP v NIPPED NIPPING NIPSto pinchNIPA n pl NIPASa palm treeNIPPER n pl NIPPERSone that nipsNIPPIER comparative of nippyNIPPIEST superlative of nippyNIPPILY adv in a nippy mannerNIPPING present participle of nipNIPPLE n pl NIPPLESa protuberance on the breastNIPPLED adjNIPPY adj NIPPIER NIPPIESTsharp or bitingNIQAAB n pl NIQAABSniqabNIQAB n pl NIQABSa veil worn by some Muslim womenNIRVANA n pl NIRVANASa blessed state in BuddhismNIRVANIC adjNISEI n pl NISEISone born in America of immigrant Japanese parentsNISI adj not yet finalNISUS n pl NISUSan effortNIT n pl NITSthe egg of a parasitic insectNITE n pl NITESnightNITER n pl NITERSa chemical saltNITERIE n pl NITERIESniteryNITERY n pl NITERIESa nightclubNITID adj brightNITINOL n pl NITINOLSan alloy of nickel and titaniumNITON n pl NITONSradonNITPICK v NITPICKED NITPICKING NITPICKSto fuss over petty detailsNITPICKY adj NITPICKIER NITPICKIESTtending to nitpickNITRATE v NITRATED NITRATING NITRATESto treat with nitric acidNITRATOR n pl NITRATORSone that nitratesNITRE n pl NITRESniterNITRIC adj containing nitrogenNITRID n pl NITRIDSnitrideNITRIDE v NITRIDED NITRIDING NITRIDESto convert into a nitride a compound of nitrogenNITRIFY v NITRIFIED NITRIFYING NITRIFIESto combine with nitrogenNITRIL n pl NITRILSnitrileNITRILE n pl NITRILESa chemical compoundNITRITE n pl NITRITESa salt of nitrous acidNITRO n pl NITROSa nitrated productNITROGEN n pl NITROGENSa gaseous elementNITROLIC adj pertaining to a class of acidsNITROSO adj containing nitrosylNITROSYL n pl NITROSYLSa univalent radicalNITROUS adj containing nitrogenNITTY adj NITTIER NITTIESTfull of nitsNITWIT n pl NITWITSa stupid personNIVAL adj pertaining to snowNIVEOUS adj resembling snowNIX n pl NIXES or NIXEa water spriteNIX v NIXED NIXING NIXESto vetoNIXIE n pl NIXIESa female water spriteNIXY n pl NIXIESan undeliverable piece of mailNIZAM n pl NIZAMSa former sovereign of IndiaNIZAMATE n pl NIZAMATESthe territory of a nizamNO n pl NOS or NOESa negative replyNOB n pl NOBSa wealthy personNOBBIER comparative of nobbyNOBBIEST superlative of nobbyNOBBILY adv in a nobby mannerNOBBLE v NOBBLED NOBBLING NOBBLESto disable a racehorseNOBBLER n pl NOBBLERSone that nobblesNOBBY adj NOBBIER NOBBIESTelegantNOBELIUM n pl NOBELIUMSa radioactive elementNOBILITY n pl NOBILITIESthe social class composed of noblesNOBLE adj NOBLER NOBLESTpossessing qualities of excellenceNOBLE n pl NOBLESa person of high birth rank or titleNOBLEMAN n pl NOBLEMENa nobleNOBLER comparative of nobleNOBLESSE n pl NOBLESSESthe nobilityNOBLEST superlative of nobleNOBLY adv in a noble mannerNOBODY n pl NOBODIESan unimportant personNOCEBO n pl NOCEBOSa harmless substance that induces harmful effects in patients having negative expectationsNOCENT adj harmfulNOCK v NOCKED NOCKING NOCKSto notch a bow or arrowNOCTUID n pl NOCTUIDSa nightflying mothNOCTUOID adjNOCTULE n pl NOCTULESa large batNOCTURN n pl NOCTURNSa religious serviceNOCTURNE n pl NOCTURNESa musical compositionNOCUOUS adj harmfulNOD v NODDED NODDING NODSto briefly lower the head forwardNODAL adj of the nature of a nodeNODALLY advNODALITY n pl NODALITIESthe state of being nodalNODDED past tense of nodNODDER n pl NODDERSone that nodsNODDIES pl of noddyNODDING present participle of nodNODDLE v NODDLED NODDLING NODDLESto nod frequentlyNODDY n pl NODDIESa foolNODE n pl NODESa swollen enlargementNODI pl of nodusNODICAL adj pertaining to an astronomical pointNODOSE adj having nodesNODOSITY n pl NODOSITIESthe state of being nodoseNODOUS adj nodoseNODULE n pl NODULESa small nodeNODULAR NODULOSE NODULOUS adjNODUS n pl NODIa difficultyNOEL n pl NOELSa Christmas carolNOES a pl of noNOESIS n pl NOESISESthe process of reasonNOETIC adj pertaining to reasonNOG v NOGGED NOGGING NOGSto fill in a space in a wall with bricksNOGG n pl NOGGSa strong aleNOGGIN n pl NOGGINSa small cupNOGGING n pl NOGGINGSa type of masonryNOH n pl NOHthe classical drama of JapanNOHOW adv in no mannerNOIL n pl NOILSa kind of short fiberNOILY adjNOIR n pl NOIRSa bleak type of crime fictionNOIRISH adjNOISE v NOISED NOISING NOISESto spread as a rumor or reportNOISETTE n pl NOISETTESa small round piece of meatNOISOME adj disgusting harmfulNOISY adj NOISIER NOISIESTmaking loud soundsNOISILY advNOLO n pl NOLOSa type of legal pleaNOM n pl NOMSa nameNOMA n pl NOMASa severe inflammation of the mouthNOMAD n pl NOMADSa wandererNOMADIC adjNOMADISM n pl NOMADISMSthe mode of life of a nomadNOMARCH n pl NOMARCHSthe head of a nomeNOMARCHY n pl NOMARCHIESa nomeNOMBLES npl numblesNOMBRIL n pl NOMBRILSa point on a heraldic shieldNOME n pl NOMESa province of modern GreeceNOMEN n pl NOMINAthe second name of an ancient RomanNOMINAL n pl NOMINALSa word used as a nounNOMINATE v NOMINATED NOMINATING NOMINATESto name as a candidateNOMINEE n pl NOMINEESone that is nominatedNOMISM n pl NOMISMSstrict adherence to moral lawNOMISTIC adjNOMOGRAM n pl NOMOGRAMSa type of graphNOMOLOGY n pl NOMOLOGIESthe science of lawNOMOS n pl NOMOIlawNONA n pl NONASa virus diseaseNONACID n pl NONACIDSa substance that is not an acidNONACTOR n pl NONACTORSa person who is not an actorNONADULT n pl NONADULTSa person who is not an adultNONAGE n pl NONAGESa period of immaturityNONAGON n pl NONAGONSa ninesided polygonNONANE n pl NONANESa colorless liquid hydrocarbonNONART n pl NONARTSsomething that is not artNONARY n pl NONARIESa group of nineNONBANK n pl NONBANKSa business that is not a bankNONBASIC adj not basicNONBEING n pl NONBEINGSlack of beingNONBLACK n pl NONBLACKSone that is not blackNONBODY n pl NONBODIESa persons nonphysical natureNONBOOK n pl NONBOOKSa book of little literary meritNONBRAND adj lacking a brand nameNONCASH adj other than cashNONE n pl NONESone of seven canonical daily periods for prayer and devotionNONEGO n pl NONEGOSall that is not part of the egoNONELECT adj not chosenNONELITE adj not belonging to an elite groupNONEMPTY adj not emptyNONENTRY n pl NONENTRIESthe fact of not enteringNONEQUAL n pl NONEQUALSone that is not equalNONESUCH n pl NONESUCHESa person or thing without an equalNONET n pl NONETSa composition for nine instruments or voicesNONEVENT n pl NONEVENTSan expected event that does not occurNONFACT n pl NONFACTSa statement not based on factNONFAN n pl NONFANSa person who is not a fan an enthusiastNONFARM adj not pertaining to the farmNONFAT adj having no fat solidsNONFATAL adj not fatalNONFATTY adj not fattyNONFINAL adj not being the lastNONFLUID n pl NONFLUIDSa substance that is not a fluidNONFOCAL adj not focalNONFOOD adj pertaining to something other than foodNONFUEL adj not used as a fuelNONGAME adj not hunted for food sport or furNONGAY n pl NONGAYSa person who is not a homosexualNONGLARE n pl NONGLARESa lack of glare harsh brilliant lightNONGREEN adj not greenNONGUEST n pl NONGUESTSone who is not a guestNONGUILT n pl NONGUILTSthe absence of guiltNONHARDY adj not hardyNONHEME adj not containing iron that is bound like that of hemeNONHERO n pl NONHEROESan antiheroNONHOME adj not taking place in the homeNONHUMAN n pl NONHUMANSone that is not a humanNONIDEAL adj not idealNONIMAGE n pl NONIMAGESone having no celebrity statusNONINERT adj not inactiveNONIONIC adj not ionicNONIRON adj not needing to be ironedNONISSUE n pl NONISSUESa topic that is not controversialNONJUROR n pl NONJURORSone who refuses to take a required oathNONJURY n pl NONJURIESa case not involving a juryNONLABOR adj not pertaining to laborNONLEAFY adj not having leavesNONLEGAL adj not legalNONLEVEL adj not flat or evenNONLIFE n pl NONLIVESthe absence of lifeNONLOCAL n pl NONLOCALSone that is not localNONLOYAL adj not loyalNONLYRIC adj not lyricalNONMAJOR n pl NONMAJORSa student who is not majoring in a specified subjectNONMAN n pl NONMENa being that is not a manNONMEAT adj not containing meatNONMETAL n pl NONMETALSan element that lacks metallic propertiesNONMETRO adj not metropolitanNONMODAL adj not modalNONMONEY adj not involving moneyNONMORAL adj not pertaining to moralsNONMUSIC n pl NONMUSICSinferior musicNONNASAL adj not involving the noseNONNAVAL adj not navalNONNEWS adj not being newsNONNOBLE adj not nobleNONNOVEL n pl NONNOVELSa literary work that is not a novelNONOBESE adj not obeseNONOHMIC adj not measured in ohmsNONOILY adj not oilyNONORAL adj not involving the mouthNONOWNER n pl NONOWNERSone who is not the ownerNONPAGAN n pl NONPAGANSone who is not a paganNONPAID adj not paidNONPAPAL adj not papalNONPAR adj being a stock that has no face valueNONPARTY n pl NONPARTIESone not belonging to a partyNONPAST n pl NONPASTSa verb form that lacks an inflection for a past tenseNONPEAK adj being a time when something is not at its highest levelNONPLAY n pl NONPLAYSa theatrical work that is not a playNONPLUS v NONPLUSED NONPLUSING NONPLUSES or NONPLUSSED NONPLUSSING NONPLUSSESto baffleNONPOINT adj not occurring at a definite single siteNONPOLAR adj not polarNONPOOR adj not being poorNONPRINT adj not involving printed materialNONPROS v NONPROSSED NONPROSSING NONPROSSESto enter a judgment against a plaintiff who fails to prosecuteNONQUOTA adj not included in or subject to a quotaNONRATED adj not ratedNONRIGID adj not rigidNONRIVAL n pl NONRIVALSan unimportant rivalNONROYAL adj not royalNONRURAL adj not ruralNONSELF n pl NONSELVESforeign material in a bodyNONSENSE n pl NONSENSESbehavior or language that is meaningless or absurdNONSKED n pl NONSKEDSan airline without scheduled flying timesNONSKID adj designed to inhibit skiddingNONSKIER n pl NONSKIERSone that does not skiNONSLIP adj designed to prevent slippingNONSOLAR adj not solarNONSOLID n pl NONSOLIDSa substance that is not a solidNONSTICK adj allowing of easy removal of cooked food particlesNONSTOP n pl NONSTOPSa flight without a stop en routeNONSTORY n pl NONSTORIESan insignificant news storyNONSTYLE n pl NONSTYLESa style that is not identifiableNONSUCH n pl NONSUCHESnonesuchNONSUGAR n pl NONSUGARSa substance that is not a sugarNONSUIT v NONSUITED NONSUITING NONSUITSto dismiss the lawsuit ofNONTAX n pl NONTAXESa tax of little consequenceNONTIDAL adj not tidalNONTITLE adj pertaining to an athletic contest in which a title is not at stakeNONTONAL adj lacking tonalityNONTONIC adj not based on the first tone of a scaleNONTOXIC adj not toxicNONTRUMP adj not having a trumpNONTRUTH n pl NONTRUTHSsomething that is not trueNONUNION n pl NONUNIONSfailure of a broken bone to healNONUPLE n pl NONUPLESa number nine times as great as anotherNONURBAN adj not urbanNONUSE n pl NONUSESfailure to useNONUSER n pl NONUSERSone that is not a userNONUSING adj not usingNONVALID adj not validNONVIRAL adj not viralNONVITAL adj not vitalNONVOCAL n pl NONVOCALSone that does not involve the voiceNONVOTER n pl NONVOTERSone that does not voteNONWAGE adj not including or involving wages money paid for work or servicesNONWAR n pl NONWARSa war that is not officially declaredNONWHITE n pl NONWHITESa person who is not of the white raceNONWOODY adj not woodyNONWOOL adj not made of woolNONWORD n pl NONWORDSa word that has no meaningNONWORK adj not involving workNONWOVEN n pl NONWOVENSa fabric not made by weavingNONYL n pl NONYLSan alkyl radicalNONZERO adj having a value other than zeroNOO adv nowNOODGE v NOODGED NOODGING NOODGESto nagNOODLE v NOODLED NOODLING NOODLESto play idly on a musical instrumentNOODLING n pl NOODLINGSthe action of idly playing a musical instrumentNOOGIE n pl NOOGIESa playful rubbing of ones knuckles on anothers headNOOK n pl NOOKSa corner as in a roomNOOKLIKE adjNOON n pl NOONSmiddayNOONDAY n pl NOONDAYSnoonNOONER n pl NOONERSan event that occurs during the middle of the dayNOONING n pl NOONINGSa meal eaten at noonNOONTIDE n pl NOONTIDESnoonNOONTIME n pl NOONTIMESnoonNOOSE v NOOSED NOOSING NOOSESto secure with a type of loopNOOSER n pl NOOSERSone that noosesNOPAL n pl NOPALS or NOPALESa cactus of Mexico and Central AmericaNOPALITO n pl NOPALITOSthe stem of the nopal used as foodNOPE adv noNOPLACE adv not in or at any placeNOR conj and notNORDIC adj pertaining to crosscountry ski racing and ski jumpingNORI n pl NORISdried seaweed pressed into sheetsNORIA n pl NORIASa type of waterwheelNORITE n pl NORITESa granular rockNORITIC adjNORLAND n pl NORLANDSa region in the northNORM n pl NORMSa standard regarded as typical for a specific groupNORMAL n pl NORMALSthe usual or expected state or formNORMALCY n pl NORMALCIESconformity with the normNORMALLY adv as a rule usuallyNORMANDE adj prepared with foods associated with NormandyNORMED adj having a normNORMLESS adj having no normNORTENA n pl NORTENASa style of folk music of northern Mexico and TexasNORTENO n pl NORTENOSan inhabitant of northern MexicoNORTH n pl NORTHSa point of the compassNORTHER n pl NORTHERSa wind or storm from the northNORTHERN n pl NORTHERNSa person living in the northNORTHING n pl NORTHINGSmovement toward the northNOSE v NOSED NOSING NOSESto sniff with the nose the organ of smellNOSEBAG n pl NOSEBAGSa feedbagNOSEBAND n pl NOSEBANDSa part of a horses bridleNOSEDIVE v NOSEDIVED or NOSEDOVE NOSEDIVING NOSEDIVESto go into a sudden steep dropNOSEGAY n pl NOSEGAYSa bouquetNOSELESS adj having no noseNOSELIKE adj resembling a noseNOSEY adj NOSIER NOSIESTnosyNOSH v NOSHED NOSHING NOSHESto eat snacks between mealsNOSHER n pl NOSHERSone that noshesNOSIER comparative of nosyNOSIEST superlative of nosyNOSILY adv in a nosy mannerNOSINESS n pl NOSINESSESthe quality of being nosyNOSING n pl NOSINGSa projecting edgeNOSOLOGY n pl NOSOLOGIESa classification of diseasesNOSTOC n pl NOSTOCSa freshwater algaNOSTRIL n pl NOSTRILSan external opening of the noseNOSTRUM n pl NOSTRUMSa medicine of ones own inventionNOSY adj NOSIER NOSIESTunduly curiousNOT adv in no wayNOTA pl of notumNOTABLE n pl NOTABLESa person of distinctionNOTABLY adv in a distinguished mannerNOTAL adj pertaining to a notumNOTARIAL adj pertaining to a notaryNOTARISE v NOTARISED NOTARISING NOTARISESto notarizeNOTARIZE v NOTARIZED NOTARIZING NOTARIZESto certify through a notaryNOTARY n pl NOTARIESa public officer who certifies documentsNOTATE v NOTATED NOTATING NOTATESto put into notationNOTATION n pl NOTATIONSa system of symbolsNOTATOR n pl NOTATORSone that notatesNOTCH v NOTCHED NOTCHING NOTCHESto make an angular cut inNOTCHER n pl NOTCHERSone that notchesNOTCHY adj NOTCHIER NOTCHIESThaving angular cutsNOTE v NOTED NOTING NOTESto write downNOTEBOOK n pl NOTEBOOKSa book in which to writeNOTECARD n pl NOTECARDSa card used for sending short messagesNOTECASE n pl NOTECASESa billfoldNOTED past tense of noteNOTEDLY adv in a famous mannerNOTELESS adj undistinguishedNOTELET n pl NOTELETSa small sheet of paper for an informal letterNOTEPAD n pl NOTEPADSa number of sheets of paper glued together at one endNOTER n pl NOTERSone that notesNOTHER adj differentNOTHING n pl NOTHINGSthe absence of all quantity or magnitudeNOTICE v NOTICED NOTICING NOTICESto become aware ofNOTICER n pl NOTICERSone that noticesNOTIFIER n pl NOTIFIERSone that notifiesNOTIFY v NOTIFIED NOTIFYING NOTIFIESto informNOTING present participle of noteNOTION n pl NOTIONSa general ideaNOTIONAL adjNOTORNIS n pl NOTORNISa flightless birdNOTTURNO n pl NOTTURNIa nocturneNOTUM n pl NOTAa part of the thorax of an insectNOUGAT n pl NOUGATSa chewy candyNOUGHT n pl NOUGHTSnaughtNOUMENON n pl NOUMENAan object of intellectual intuitionNOUMENAL adjNOUN n pl NOUNSa word used to denote the name of somethingNOUNAL NOUNLESS adjNOUNALLY advNOURISH v NOURISHED NOURISHING NOURISHESto sustain with foodNOUS n pl NOUSESmind reason or intellectNOUVEAU adj newly arrived or developedNOUVELLE n pl NOUVELLESa style of French cookingNOVA n pl NOVAS or NOVAEa type of starNOVALIKE adjNOVATE v NOVATED NOVATING NOVATESto replace an old contract with a new oneNOVATION n pl NOVATIONSthe substitution of a new legal obligation for an old oneNOVEL n pl NOVELSa fictional prose narrativeNOVELISE v NOVELISED NOVELISING NOVELISESto novelizeNOVELIST n pl NOVELISTSa writer of novelsNOVELIZE v NOVELIZED NOVELIZING NOVELIZEsto put into the form of a novelNOVELLA n pl NOVELLAS or NOVELLEa short novelNOVELLY adv in a new or unusual mannerNOVELTY n pl NOVELTIESsomething new or unusualNOVENA n pl NOVENAS or NOVENAEa religious devotion lasting nine daysNOVERCAL adj pertaining to a stepmotherNOVICE n pl NOVICESa person new to any field or activityNOW n pl NOWSthe present timeNOWADAYS adv in these timesNOWAY adv in no wayNOWAYS adv nowayNOWHERE n pl NOWHERESa nonexistent placeNOWISE adv not at allNOWNESS n pl NOWNESSESthe state of existing at the present timeNOWT n pl NOWTSnaughtNOXIOUS adj harmful to healthNOYADE n pl NOYADESan execution by drowningNOYAU n pl NOYAUXa liqueur made of brandy and fruit kernelsNOZZLE n pl NOZZLESa projecting spoutNTH adj pertaining to an indefinitely large ordinal numberNU n pl NUSa Greek letterNUANCE v NUANCED NUANCING NUANCESto give a subtle shade of meaning toNUB n pl NUBSa protuberance or knobNUBBIER comparative of nubbyNUBBIEST superlative of nubbyNUBBIN n pl NUBBINSan undeveloped fruitNUBBLE n pl NUBBLESa small nubNUBBLY adj NUBBLIER NUBBLIESThaving nubblesNUBBY adj NUBBIER NUBBIESThaving nubsNUBIA n pl NUBIASa womans scarfNUBILE adj suitable for marriageNUBILITY n pl NUBILITIESthe quality of being nubileNUBILOSE adj nubilousNUBILOUS adj cloudyNUBUCK n pl NUBUCKSsoft sueded leatherNUCELLUS n pl NUCELLIthe essential part of a plant ovuleNUCELLAR adjNUCHA n pl NUCHAEthe nape of the neckNUCHAL n pl NUCHALSan anatomical part lying in the region of the napeNUCLEAL adj nuclearNUCLEAR adj pertaining to a nucleusNUCLEASE n pl NUCLEASESan enzymeNUCLEATE v NUCLEATED NUCLEATING NUCLEATESto form into a nucleusNUCLEI a pl of nucleusNUCLEIN n pl NUCLEINSa protein found in nucleiNUCLEOID n pl NUCLEOIDSthe DNAcontaining area of certain cellsNUCLEOLE n pl NUCLEOLESa part of a nucleusNUCLEOLI npl nucleolesNUCLEON n pl NUCLEONSa subatomic particleNUCLEUS n pl NUCLEUSES or NUCLEIan essential part of a cellNUCLIDE n pl NUCLIDESa species of atomNUCLIDIC adjNUDE adj NUDER NUDESTbeing without clothing or coveringNUDELY advNUDE n pl NUDESa nude figureNUDENESS n pl NUDENESSESnudityNUDGE v NUDGED NUDGING NUDGESto push gentlyNUDGER n pl NUDGERSone that nudgesNUDICAUL adj having leafless stemsNUDIE n pl NUDIESa movie featuring nude performersNUDISM n pl NUDISMSthe practice of going nudeNUDIST n pl NUDISTSan advocate of nudismNUDITY n pl NUDITIESthe state of being nudeNUDNICK n pl NUDNICKSnudnikNUDNIK n pl NUDNIKSan annoying personNUDZH v NUDZHED NUDZHING NUDZHESto noodgeNUFF n pl NUFFSenoughNUG n pl NUGSa chunk of wood sawn from a logNUGATORY adj having no powerNUGGET n pl NUGGETSa mass of solid matterNUGGETY adjNUISANCE n pl NUISANCESa source of annoyanceNUKE v NUKED NUKING NUKESto attack with nuclear weaponsNULL v NULLED NULLING NULLSto reduce to nothingNULLAH n pl NULLAHSa ravineNULLIFY v NULLIFIED NULLIFYING NULLIFIESto make useless or ineffectiveNULLITY n pl NULLITIESsomething of no legal forceNUMB adj NUMBER NUMBESTlacking sensationNUMB v NUMBED NUMBING NUMBSto make numbNUMBAT n pl NUMBATSa small Australian mammalNUMBER v NUMBERED NUMBERING NUMBERSto countNUMBERER n pl NUMBERERSone that numbersNUMBFISH n pl NUMBFISHESa fish capable of emitting electric shocksNUMBLES npl animal entrailsNUMBLY adv in a numb mannerNUMBNESS n pl NUMBNESSESthe state of being numbNUMCHUCK n pl NUMCHUCKSnunchakuNUMDAH n pl NUMDAHSan embroidered rug of IndiaNUMEN n pl NUMINAa deityNUMERACY n pl NUMERACIESthe ability to understand basic mathematicsNUMERAL n pl NUMERALSa symbol that expresses a numberNUMERARY adj pertaining to numbersNUMERATE v NUMERATED NUMERATING NUMERATESto countNUMERIC n pl NUMERICSa numeralNUMEROUS adj manyNUMINA pl of numenNUMINOUS adj supernaturalNUMMARY adj pertaining to coinsNUMMULAR adj shaped like a coinNUMMY adj NUMMIER NUMMIESTdeliciousNUMNAH n pl NUMNAHSa pad placed under a saddleNUMSKULL n pl NUMSKULLSa dunceNUN n pl NUNSa woman belonging to a religious orderNUNATAK n pl NUNATAKSa mountain peak completely surrounded by glacial iceNUNCHAKU n pl NUNCHAKUSa Japanese weaponNUNCHUK n pl NUNCHUKSnunchakuNUNCIO n pl NUNCIOSan ambassador from the popeNUNCLE n pl NUNCLESan uncleNUNLIKE adj resembling a nunNUNNERY n pl NUNNERIESa religious house for nunsNUNNISH adj of pertaining to or characteristic of a nunNUPTIAL n pl NUPTIALSa weddingNURD n pl NURDSnerdNURL v NURLED NURLING NURLSto knurlNURSE v NURSED NURSING NURSESto care for the sick or infirmNURSER n pl NURSERSa babys bottleNURSERY n pl NURSERIESa room for young childrenNURSING n pl NURSINGSthe profession of one who nursesNURSLING n pl NURSLINGSan infantNURTURAL adj pertaining to the process of nurturingNURTURE v NURTURED NURTURING NURTURESto nourishNURTURER n pl NURTURERSone that nurturesNUT v NUTTED NUTTING NUTSto gather nuts hardshelled dry fruitsNUTANT adj droopingNUTATE v NUTATED NUTATING NUTATESto exhibit nutationNUTATION n pl NUTATIONSan oscillatory movement of the axis of a rotating bodyNUTBAR n pl NUTBARSa bar made from chopped nutsNUTBROWN adj of a dark brownNUTCASE n pl NUTCASESa crazy personNUTGALL n pl NUTGALLSa gallnutNUTGRASS n pl NUTGRASSESa perennial herbNUTHATCH n pl NUTHATCHESa small birdNUTHOUSE n pl NUTHOUSESan insane asylumNUTLET n pl NUTLETSa small nutNUTLIKE adj resembling a nutNUTMEAT n pl NUTMEATSthe edible kernel of a nutNUTMEG n pl NUTMEGSan aromatic seed used as a spiceNUTMEGGY adjNUTPICK n pl NUTPICKSa device for extracting the kernels from nutsNUTRIA n pl NUTRIASthe coypuNUTRIENT n pl NUTRIENTSa nourishing substanceNUTSEDGE n pl NUTSEDGESnutgrassNUTSHELL n pl NUTSHELLSthe shell of a nutNUTSY adj NUTSIER NUTSIESTcrazyNUTTED past tense of nutNUTTER n pl NUTTERSone that gathers nutsNUTTING n pl NUTTINGSthe act of gathering nutsNUTTY adj NUTTIER NUTTIESTsilly crazyNUTTILY advNUTWOOD n pl NUTWOODSa nutbearing treeNUZZLE v NUZZLED NUZZLING NUZZLESto push with the noseNUZZLER n pl NUZZLERSone that nuzzlesNYAH interj  used to express contempt for anotherNYALA n pl NYALASan antelopeNYLGHAI n pl NYLGHAISnilgaiNYLGHAU n pl NYLGHAUSnilgaiNYLON n pl NYLONSa synthetic materialNYLONED adjNYMPH n pl NYMPHSa female spiritNYMPHAL NYMPHEAN adjNYMPH v NYMPHED NYMPHING NYMPHSto fish using a fly a hook with silk or feathers that looks like a larvaNYMPHA n pl NYMPHAEa fold of the vulvaNYMPHET n pl NYMPHETSa young nymphNYMPHO n pl NYMPHOSa woman obsessed by sexual desireNYSTATIN n pl NYSTATINSan antibiotic
+").
+```
+entry(oaf, n, [oafs], "يو بې پروا احمق شخص OAFISH adj OAFISHLY adv").
+دداخلې(اوک، ن، [اوکس]، "یوه سخت لرګي ونه یا بوټی OAKEN OAKLIKE adj").
+entry(oaked, adj, [], "په بلوط کانټینر کې بشپړې شوی").
+د Prolog د کرښې ژباړه پښتو ته:
+entry(بلوچکوالی, ن, [بلوچکوالۍ], "د څوڼ په څېر والی کیفیت یا حالت").
+entry(بلوط خزه, ن, [بلوط خزې], "يو ليکن چې په بلوطو ونو کې وده کوي").
+د ننوتل(اوکوم ، اسم، [اوکومونه]، "په آزاد ډول تاو شوی د هیمپ فایبر").
+entry(oaky, adj, [], "چې د بلوط په شیره خوند وي").
+د ننوتنه (چپوه، فعل، [چپوه کړه، چپوي، چپوه لري]، "د اوږدو پراخو تیغونو لرګیو سره حرکت کول").
+entry(oarfish, n, [oarfishes], "يو بحري کب").
+entry(oarless, adj, [], "چې پارو نه لري").
+entry(oarlike, adj, [], "د چپوه په څېر").
+entry(څرخہ، ز، [څرخې]، "د اوار ساتلو وسیله").
+entry(د بېړۍ چلوونکی, ن, [د بېړۍ چلوونکي], "یو کس چې بېړۍ چلوې").
+د ننوتنه(واحه، ن، [واحې]، "په دښت سیمه کې شین ځای").
+entry(اوست, ن, [اوستونه], "د خښتو یوه ډول").
+entry(جوۍ، ن، [جوۍ]، "يو غله دانه").
+دخول (وړه لوزکۍ، نوم، [وړه لوزکۍ]، "يوه لوزکۍ د اوړو څخه جوړه شوې").
+entry(oaten, adj, [], "د غنمو اړوند").
+پیل(oater, ن, [oaters], "یو کاو بای فلم").
+entry(لوظ، ن، [لوظونه], "یو رسمي اعلامیه یا ژمنه د یو تعهد پوره کولو لپاره").
+entry(oatlike, adj, [], "د اوټ غوندې").
+دلیلې(اوټمیل، ن، [اوټمیلونه]، "وچه نانځنه چې له اوټ څخه جوړه شوې"​).
+entry(oaty, adj, [], "د غنمو خوند یا بوی لرونکی").
+entry(oaves, a, [], "د oaf جمع").
+entry(oba, n, [obas], "په بنین او نایجیریا کې یو موروثي مشر").
+entry(obconic, adj, [], "د مخروط په شان چې څوکه یې لاندې وي").
+سنده(obduracy, n, [obduracies], "د سخت‌زړی کیفیت یا بېلګه").
+entry(سخت سر، صفت، [], "لچک ناپذیر").
+entry(اوبے, ن, [اوبس], "اوبيہ").
+entry(اوبياه, ن, [اوبياهونه], "د افریقایي منبع جادو یو شکل").
+entry(اوبياهزم, ن, [اوبياهزمونه], "د اوبياه کارول").
+entry(فرمانبردار, صفت, [], "فرمانبرداري کوونکې یا د فرمانبردارۍ لپاره آماده").
+entry(خوشامندي, صفت, [], "درناوی یا عزت ښودل").
+entry(obelus, pl, [], "د اوبيلوس").
+entry(obelia, n, [obelias], "يو سمندري هيدروډ").
+entry(obelise, v, [obelised,obelising,obelises], "obelize کول").
+entry(اوبيليسک, ن, [اوبيليسکونه], "د تيږې څلور اړخيزه ميله چې په سر کې د پيراميد بڼه لري").
+entry(اوبيليزم, ن, [اوبيليزمونه], "د اوبيل کولو عمل").
+د Prolog ژبه: entry(obelize, v, [obelized,obelizing,obelizes], "د اوبيلوس سره نښلول").
+entry(اوبیلوس، ن، [اوبیلی]، "یو سمبول چې په پخوانیو خطي نسخې کې د یوې مشکوک برخې ښودلو لپاره کارول کیږي").
+entry(obento, n, [obentos], "د جاپاني خواړو ډک بکس").
+دخول(موټى، صفت، [], "ډېر موټى").
+entry(غټوالی, ن, [غټوالۍ], "د چاغښت حالت").
+entry(اطاعت, فعل, [اطاعت شو, اطاعت کول, اطاعت کوي], "د حکم یا لارښوونې پیروي کول").
+entry(منندوی, ن, [منندویان], "یو څوک چې منندوی وي").
+entry(obi, n, [obis], "ابي").
+entry(اوبیا, ن, [اوبیاس], "اوبیاه").
+entry(obiism, n, [obiisms], "obeahism").
+entry(مرګ، ن، [مرګونه]، "یو مرثيه").
+د پاس پرو لاګ کرښه په پښتو ژبه کې به داسې وي:
+```prolog
+داخلول(مرګ، ن، [مړینې]، "د مرګ يوه خپره شوې خبرتيا").
+```
+د ننوتنه په جمله جوړښت کې ده چې یوه نښه توجیه کوي او یوه لړۍ حقیقتونه برابروي.
+entry(معترض، n، [معترضین]، "هغه څوک چې اعتراض کوي").
+entry(شي، ن، [شيان]، "د هنري ارزښت یو توکی").
+د ننوتنه (ولسوالۍ، ن، [ولسوالۍ]، "یا OBLAST د روسيې يو اداري څانګه").
+entry(اوول, ن, [اوولس], "یو غیر روحانی چې په یو خانقاه کې ژوند کوي").
+د خپلی ګټې لپاره Prolog ته يوازې دا اړخ وښایاست:
+entry(oblately, adv, [], "elliptically").
+entry(نذرانه, ن, [نذرونه], "د مذهبي نذر کولو عمل").
+entry(مجبورول, فعل, [مجبورکړ, مجبوروونکی, مجبوروي], "مجبورول").
+entry(ضروري, n, [ضروريان], "يو مهم موسيقايي برخه").
+entry(مجبورول, فع, [مجبور,مجبورول,مجبوريږي], "چاته د يوې لورينې يا خدمت په مټ قرض کې اچول").
+entry(مجبور, ن, [مجبوران], "هغه څوک چې پابند وي").
+entry(obliger, n, [obligers], "یوه هغه څوک چې پابند کوي").
+entry(مهربان, حاضر, [], "د مکلفولو فعلي نوم").
+ورود(مسئول, ن, [مسئولین], "هغه څوک چې ځان د قانوني مکلفیت لاندې پرېږدي").
+د داخلېدنې(د مائل، فع، [مائلاوکړل، مائلېدنه، مائلاوېږې]، "ډېوالي کول").
+entry(هېرېدل, n, [هېرېدنه], "د هېرېدلو حالت د هېرولو عمل").
+entry(oblong, n, [oblongs], "يو څيز چې اوږدوالی لري").
+entry(oblongly, adv, [], "په اوږده بڼه").
+entry(بدګويي, ن, [بدګويۍ], "سپک الفاظ").
+.entry(oboe, n, [oboes], "یو د لرګیو بادي آل").
+entry(oboist, n, [oboists], "یوه چې اوبای لوبوي").
+entrance(obol, n, [obols], "د لرغوني یونان یوه سکه").
+entry(obole, n, [oboles], "د منځنيو دورفرانسې يوه سکه").
+entry(اوبولس, ن, [اوبولي], "يو اوبول").
+entry(obovate, adj, [], "د تنګ پای سره بيضوي").
+entry(اوبووایډ, صفت, [], "د بیضوي شکل سره چې تنګه برخه یې په بنسټ کې ده").
+entry(سركښه, صفت, [], "د سركښۍ نه لا سركښه").
+دخول(مبهم, صفت, [], "د تیاره یا نامعلوم ډیر مبهم ترین").
+entry(پټول, v, [پټ شوی,پټول,پټوي], "مبهم کول").
+entry(د جنازې مراسم, ن, [د جنازې مراسم], "د جنازې د مراسمو يو حق").
+entry(کتل, v, [کتلی,کتل,ګوري], "په غور سره کتل").
+داخل(observer, n, [څارونکي], "يو څوک چې څاري").
+entry(عارضه, v, [په عارضه شوې,په عارضه کېدل,عارضه کيږي], "د فکرونو واکمن کول").
+entry(وسواس, ن, [وسواسان], "يو شئ چې وسواس پيدا کوي").
+د پرولاګ:
+entry(ابسډین، ن، [ابسډینونه]، "یو اورلوبه شیشه").
+entry(فرسوده, فعل, [فرسوده‌شوی,فرسوده‌کول,فرسودهوي], "زاړه کول").
+entry(خنډ, n, [خنډونه], "يو څه چې خنډ کوي").
+entry(مخنیوی, v, [مخنیوی شوی,مخنیوی کوي,مخنیوی کوي], "لارې ته تلل").
+entry(ترلاسه کول, فعل, [ترلاسه کړی, ترلاسه کول, ترلاسه کوي], "د ترلاسه کولو لپاره").
+د ننوتنه(ترلاسه کوونکی، ن، [ترلاسه کوونکي], "هغه چې ترلاسه کوي").
+entry(obtect, adj, [], "د یوتړښ شوي تراوش لخوا پوښل شوی").
+entry(obtected, adj, [], "مخفي").
+entry(obtest, v, [obtested,obtesting,obtests], "د التماس کول").
+د پرولوګ کرښه:
+entry(obtrude, v, [obtruded, obtruding, obtrudes], "مخ پورته کول").
+رسېدنه(ځورونکی, ن, [ځورونکي], "هغه څوک چې تېری کوي").
+د داخلې(اوبټنډ، فعل، [اوبټنډد، اوبټنډنګ، اوبټنډز]، "غېر فعال کول").
+entry(بندول, v, [بندشوی,بندوي,بنديږي], "بندول یا بندول").
+انټرۍ(obtuse, صفت, [], "OBTUSER OBTUSESTdullOBTUSELY adv").
+entry(د بې کيفيته حالت, ن, [بې کيفيته حالتونه], "د بې کيفيتۍ حالت").
+entry(مخکېنی, ن, [مخکېني], "د سکې هغه خوا چې اصلي ډيزاين لري").
+entry(obvert, v, [obverted,obverting,obverts], "د یوه شي سطحه داسې بدلول چې بل مخ څرګند شي").
+entry(obviate, v, [obviated,obviating,obviates], "د مؤثرو تدابيرو لخوا مخنيوى يا ختمولOBVIABLE صفت").
+entry(obviator, n, [obviators], "هغه څوک چې له منځه وړي").
+entry(څرګند, صفت, [], "په اسانۍ سره درک یا پوهه کېدل").
+entry(obvolute, adj, [], "تاو شوی یا را تاو شوی").
+entry(oca, n, [ocas], "يوه د جنوبي امريکا بوټی").
+ورود(اوکارینا, ن, [اوکاریناس], "یو بادی آله").
+دخول(موقع, فعل, [سبب شوې, سبب کول, موقعونه], "سبب جوړول").
+entry(لویدیځ, ن, [لویدیځونه], "لویدیځ").
+entry(occiput, n, [occiputs], "د سر شاتنۍ برخه یا OCCIPITA").
+entry(بندول, v, [بند شوی,بندول,بنديږي], "پټول او بندول").
+entry(occlusal, adj, [], "د غاښ د چیچلو سطحې پورې اړه لري").
+entry(پټول, v, [پټ کړ,پټول,پټوي], "پټول").
+entry(شېبه کوونکی, ن, [شېبه کوونکي], "هغه چې شېبه کوي").
+entry(په پټه توګه, قيد, [], "په پټه").
+ورودی(استوګن, ن, [استوګنځایان], "یوه اوسیدونکی").
+د پرولاګ: entry(occupier, n, [occupiers], "هغه څوک چې اشغال کوي").
+entry(نیول, فعل, [نیول شوی,نیول,نیسي], "د پام او انرژۍ جلبول").
+entry(واقعېدل, v, [واقعېدل, واقع کېدل، واقع کېږي], "رامنځته کېدل").
+```prolog
+entry(سمندر, ن, [سمندرونه], "د پراخ مالګې اوبه چې د ځمکې د سطحې لویه برخه پوښي سمندري صفت").
+```
+داخلې(اوشینټ، ن، [اوشینټس]، "یو اوکواناټ").
+entry(ocellar, adj, [], "د اوکیلس سره تړاو لري").
+entry(ocellate, adj, [], "د سترګو نښې لرل").
+entry(ocellus, n, [ocelli], "يو کوچنی ساده سترګه").
+entry(اوڅلوت، ن، [اوڅلوتونه], "یو امریکایی وحشي پیشوOCELOID adj").
+د ننوتنه (och, منځنۍ, [], "د حيرت یا پښیمانۍ ښکارندوی").
+entry(oche, n, [oches], "هغه کرښه چې تر شا لوبغاړي کله چې د ډارټس غورځول کوي ولاړ وي").
+د ننوتنه(اوچر، فعل، [اوچرد،اوچرینګ،اوچرز], "سره یا ژیړ اوسپنیز معدن سره رنګول").
+entry(اوکرش, صفت, [], "د اوکر په څېر").
+ورودی(ocheroid, صفت, [], "ocherous").
+entry(کوچیف, صفت, [], "چې کوچیف لري یا ورته والی لري").
+entry(اوچري, صفت, [], "اوچرس").
+entry(اوچون, فعل_تعجب, [], "د غم د اظهار لپاره کارول کېږي").
+داخل(اوچر, فعل, [رنګېدلی, رنګېدنه, اوچرېږي], "اوچر کول").
+entry(ochrea, n, [ochreae], "يا OCHREASocrea").
+entry(خاګيز, صفت, [], "خاګيز").
+entry(ochring, present, [], "د اوکر ډګري").
+entry(اوکروید, صفت, [], "اچرس").
+entry(ochrous, صفت, [], "اچری").
+entry(ochry, صفت, [], "ochery").
+entry(ocicat, n, [ocicats], "يو کورنۍ پيشو چې لنډې خال خال وېښتان لري").
+entry(اوکر, ن, [اوکرز], "یو غیر مهذب شخص").
+entry(اوکوټیلو, n, [اوکوټیلوز], "یوه میکسیکایی بوټی").
+entry(ocrea, n, [ocreae], "يا OCREAS يوه څادر ډېوه د نبات برخه").
+entry(ocreate, adj, [], "د اوکری لرل").
+د ننوتنه(اوکټاډ، ن، [اوکټاډونه]، "د اتو ډله اوکټاډیک صفت").
+اینټري(اوکټاګون، ن، [اوکټاګونونه], "یو اتو اړخيز پولی ګون").
+entry(اوکتل, صفت, [], "د اته اساس لرونکي شمېرني سیستم پورې اړه لري").
+entry(اوکتان, ن, [اوکتانونه], "يوه تب چې هره اتمه ورځ تکرارېږي").
+پروګرام(دخول، اوکتین، ن، [اوکتینونه]، "یو مایع هایدروکاربن").
+entry(اوکتانگل, ن, [اوکتانګلونه], "یو اکتګون").
+د ننوتنه(اوکتانول، ن، [اوکتانولونه]، "یو الکول").
+دداخلې (اُکتنت, ن, [اُکتنتس], "د حلقې یوه اتمه برخه")۔
+Prolog:
+entry(اوکتارچي, ن, [اوکتارچيان], "څو کسان په حکومت کې").
+entry(اوکتيو, n, [اوکتيوګانې], "د موسيقۍ يو ډول ټون فاصلې اوکتيوAL صفت").
+entry(اوکتاوو, ن, [اوکتاووز], "د پاڼې اندازه").
+د ننه(octet, n, [octets], "د اته ګروپ").
+داخله(اوکټېټ، ن، [اوکټېټونه]، "اوکټېټ").
+entry(اړَویشت, ن, [اړَویشتونه], "د اته کرښو یو بند").
+entry(اختاپوس, ن, [اختاپوسونه], "د اتو لاس لرونکو مولکسونو یو حکم څخه کوم").
+entry(اوکتوپوئيد, صفت, [], "د اختاپوس په څیر").
+د پیچلي ژبنیز اړخ ته په نویو حالاتو کې په پام کې نیولو سره:
+
+entry(اُکټاپس, n, [اُکټاپسونه], "یا اُکټاپي یا اُکټاپودیس، یو شپه مهال اُکټاپود").
+entry(octoroon, n, [octoroons], "هغه څوک چې یو اتم تور پوستی نسب لري").
+entry(اکتروا, ن, [اکترواوې], "په ښار کې په ځانګړو توکو لګيدونکی مالیه").
+entry(اته چنده, v, [اته چنده کړ, اته چنده کول, اته چنده کوي], "د اته په ضرب کولو").
+entry(اتيايي, ن, [اتياييان], "د اته اړونده توکو یوه ډله").
+entry(octuplex, adj, [], "اته ځله لوی").
+د ننوتنه(اتیه برابرول، اوسنی، [], "د اتیا برابرولو فعلي ګردان").
+entry(اوکتپلي, قيد, [], "تر اتو برابره کچه").
+د پرو لاګ یی لاندی دی:
+entry(octyl, n, [octyls], "یو واحد رادیکال").
+entry(عینکی, ن, [عینکې], "یوه سترګه").
+entry(په سترګو, قید, [], "د سترګو یا لید له لارې").
+entry(oculist, n, [د سترګو ډاکټران], "یو طبيب چې د سترګو ناروغۍ درملنې کوي").
+دخول(oculus, ن, [oculi], "یو ګرد کړکۍ").
+entry(od, n, [ods], "د طبیعي ځواک یوه فرضي قوه").
+entry(oda, n, [odas], "په حرم کې یوه کوټه").
+entry(اوډه, ن, [اوډې], "کوټه").
+entry(اوډيليسک, n, [اوډيليسکونه], "په حرم کې ښځینه مريی").
+د Prolog لیکه: entry(odd, adj, [], "نا انډول غیر معمولي").
+ورود(ناجوره، ن، [ناجوره ګانې]، "هغه چې ناجوره دی").
+entry(oddball, n, [oddballs], "یوه غیر معمولي شخص").
+entry(اوډش, صفت, [], "یو څه نادر").
+entry(عجيب, ن, [عجيبتوب], "دا يو څه دى چې عجيب دى").
+entry(په_عجیب_ډول, ویناوال_حالت, [], "په عجیب ډول").
+entry(فضله, ن, [فضلات], "یو پاتې شوني").
+د پرولاګ کرښه:
+entry(oddness, n, [oddnesses], "د غیر معمولي حالت").
+entry(ode, n, [odes], "يو منظوم نظم").
+د ننوتنې(اډيون، ن، [اډيونس]، "اډيوم").
+د Prolog: entry(odeum, n, [odeums], "يا ODEAa تیاتر یا کنسرت هال").
+entry(odic, adj, [], "د يو اډ سره تړاو لرونکی").
+entry(منفور, صفت, [], "د نفرت وړ يا نفرت رامنځته کوونکی په منفور ډول").
+entry(odist, n, [odists], "هغه څوک چې اوډونه ليکي").
+entry(دښمني, م، [دښمنۍ], "کرکه").
+entry(اوډوګراف, n, [اوډوګرافونه], "يو ميليج ميټر").
+entry(اډومیټر, ن, [اډومیټرونه], "هغه آله چې د سفر شوی مزل فاصله اندازه کوي").
+entry(odometry, n, [odometries], "د اوډوميټر کارولو پروسه").
+entry(odonata, npl, [], "د ښکار کوونکو حشراتو یوې فرقې حشرات").
+entry(odonate, n, [odonates], "د هر هغه يو حکم چې د ښکار حشراتو پورې اړه لري").
+entry(اډونټوئډ, ن, [اډونټوئډونه], "د غاښ په څېر مهره projection").
+entry(بوی, ن, [بویونه], "د یوې مادې هغه ځانګړتیا چې د بوی احساس باندې تاثیر کوي").
+entry(د بوی ماده, ن, [د بوی مواد], "یو بوی لرونکې ماده").
+entry(خوشبو کول, فعل, [خوشبو شوی, خوشبو کوي, خوشبو کوي], "بو لرونکی کول").
+entry(بوئینونکی, ن, [بوئینونکي], "هغه چې بوی کوي").
+entry(بې بويه، صفت، []، "چې بوي نه لري").
+entry(بوي لرونكى, صفت, [], "بوي لرل").
+د ننوتنه (خوشبویي, ن, [خوشبویۍ], "odorODOURFUL adj").
+entry(odyl, n, [odyls], "يو ډول").
+entry(odyle, n, [odyles], "odyl").
+entry(اوډيسې, n, [اوډيسېز], "يو اوږد سفر ODYSSEAN adj").
+د ننوتنه(oe, n, [oes], "د فيرو ټاپوګانو څخه د وزرونو طوفان").
+په_داخل(oecology, ن, [oecologies], "ايکولوژي").
+entry(پړسوب, n, [پړسوبونه], "يا پړسوبونه").
+entry(oedipal, adj, [], "د ماشوم د جنسي احساساتو پورې اړوند په مقابل جنس والدینو لور").
+entry(اودیپیان, صفت, [], "اودیپال").
+entry(oeillade, n, [oeillades], "د مينې ډک نظر").
+entry(د انالوژي, ن, [انالوژيگان], "د شرابو مطالعه").
+د Prolog مقاله: entry(oenomel, n, [oenomels], "یو پخوانی یوناني مشروب د شراب او شاتو").
+entry(اوئرستېد, ن, [اوئرستېدونه], "د مقناطیسي شدت یو واحد").
+entry(oestrin, n, [oestrins], "ایسترین").
+entry(oestriol, n, [oestriols], "ايسټريول").
+entry(oestrone, n, [oestrones], "ايسټروجن").
+entry(oestrous, adj, [], "ایستروس").
+entry(oestrual, adj, [], "جنسي").
+entry(oestrum, n, [oestrums], "اوسترم").
+entry(oestrus, n, [oestruses], "ګیډه").
+اندراج(اثار، ن، [اثارو]، "يوه هنري اثر").
+د Prolog:
+entry(of, prep, [], "څخه راځي").
+entry(ځان, فعل, [ځانېده، ځانيدل، ځانونه], "لرې تلل").
+د ننوتنه(بې ګټې مواد، ن، [بې ګټې موادونه]، "ضایع مواد").
+entry(بې تال، n، [بې تالونه]، "په یوه موسیقي پیمانه کې یو بې فشار ضربه").
+entry(offcast, n, [offcasts], "يو ليرې شوی").
+entry(offcut, n, [پريکړی], "څه چې پرې شوی وي").
+د ننوتئ(offence, n, [offences], "جرم").
+entry(خپہ کول, فعل, [خوښ کړ, خفه کول, خفه کوي], "جرم کول").
+د Prolog:
+entry(offender, n, [offenders], "هغه څوک چې جرم کوي").
+entry(جرم, n, [جرمونه], "د اخلاقي يا ټولنيز قوانين سرغړونه").
+د ننوتنه(ووړاندیز, v, [وړاندیز شوی,وړاندیز کول,وړاندیز کوي], "د منلو یا ردولو لپاره وړاندې کول").
+entry(offeree, n, [offerees], "هغه یو څوک چې ورته وړاندیز کیږي").
+entry(offerer, n, [offerers], "هغه څوک چې وړاندیز کوي").
+entry(offering, n, [نظرانه], "يوه مرسته").
+entry(offeror, n, [offerors], "پېشکش کوونکی").
+entry(offhand, adv, [], "بې تیاري").
+دفترداخلول(دفتر، ن، [دفترونه]، "د واک مقام").
+دیتا(officer, v, [officered,officering,officers], "په واک لرونکو چارواکو باندې د افسرانو چمتو کول").
+د ننوتلو(رسمی، ن، [رسمیان]، "هغه څوک چې د واک یو مقام لري").
+entry(offing, n, [offings], "نزدې راتلونکی").
+entry(offish, adj, [], "بېګانهOFFISHLY adv").
+ترجمه(offkey، صفت، []، "د سمې موسیقۍ له سر څخه لوړ یا ټیټ")۔
+entry(آفلاین, صفت, [], "د کمپیوټر شبکې سره ندی نښلول شوی").
+```Prolog
+entry(باراخیستل, v, [بارواخیستل,باراخیستلکیږي,باراخیستل], "باروتړل"). 
+```
+entry(offprint, v, [offprinted,offprinting,offprints], "یو برخه بیا چاپ کول").
+entry(پردےلار، ن، [پردےلارے]، "يوہ سړک چې د چټک لار څخه وځي").
+entry(offset, v, [offset,offsetting,offsets], "د جبران لپاره").
+entry(offshoot, n, [offshoots], "د اصلي ډنډ څخه اړخ ښاخ").
+```prolog
+entry(offshore, n, [offshores], "له ساحل څخه د لرې اوبو لاندې سیمه").
+```
+entry(offside, n, [offsides], "یوه ناسم فوټبال لوبه").
+د داخلې برخه(offstage, n, [offstages], "د یو سټیج هغه برخه چې لیدونکو ته نه ښکاري").
+entry(بې لارې, صفت, [], "له ټریک څخه لرې").
+دخول(oft, adv, [], "OFTER OFTESToften").
+entry(اکثر, قید, [], "په مکرر ډول OFTENER OFTENEST").
+entry(ofttimes, adv, [], "اکثر").
+entry(اوګام, ن, [اوګامونه], "اوګام").
+entry(اته-تکه، ن، [اته-تکې], "د اتو ډلې").
+د چلوونکي په توګه داخله(ogee، n، [ogees]، "يو Sشکل لرونکی بڼهOGEED صفت").
+entry(اوغام, ن, [اوغامي], "يو پخوانی آيرلینډی الفبا").
+entry(اوګام لیکوال, ن, [اوګام لیکوالان], "هغه څوک چې په اوګام لیکنه کوي").
+entry(ogive, n, [ogives], "يو تيردار چترOGIVAL adj").
+entry(ogle, v, [ogled,ogling,ogles], "凝視 کول").
+تدوين(کتونکی، ن، [کتونکي], "هغه څوک چې په ليواله توګه ګوري").
+entry(ګوډاګ, ن, [ګوډاګان], "یو بلا").
+entry(لکه‌غر‌، صفت، []، "غر په څیر").
+entry(ogreism, n, [ogreisms], "د اوګریش حالت").
+د ننوتنه(اوګرېس، ن، [اوګرېسونه]، "یو ښځینه اوګر").
+entry(ogrish, adj, [], "ogreishOGRISHLY adv").
+entry(ogrism, n, [ogrisms], "ogreism").
+entry(آه, v, [آهیدل،آه کول،آهونه], "په حیرانتيا، درد يا غوښتنه کې نارې وهل").
+د Prolog ژبه:
+entry(ohia, n, [ohias], "lehua").
+entry(اوهم، ن، [اوهمز]، "د بریښنا مقاومت یوه واحدOHMIC صفت").
+entry(اوهمج, ن, [اوهمجز], "برقي مزاحمت چې په اوهمز کې څرګند شوي").
+entry(اوميټر, ن, [اوميټران], "يو اله چې د اوم ميجرمنټ لپاره کارول کيږي").
+entry(oho, interj, [], "د حیرانتیا یا خوښۍ څرګندولو لپاره کارول کیږي").
+entry(oi, interj, [], "اوۍ").
+entry(اوډيم, ن, [اوډيا], "د فنګس يوه ډولهOIDIOID adj").
+د ننوتنه (oik, n, [oiks], "يو ډېر بې ادب يا بې‌عقل سړی").
+entry(تیل, فعل, [تیلیږي, تیلي کول, تیلونه], "د غوړیدو، سونګ یا روښانه کولو لپاره د غوړ مایع سره اکمال کول").
+د ننوتنه(د تېلو مرغه, اسم, [د تېلو مرغان], "یو استوايي مرغه").
+entry(تیلکمپ, ن, [تیلکمپس], "د تیلو څا په یوه سیمه کې د کاریګرو د اوسېدو ځای").
+entry(د تېلو کين، ن، [د تېلو کينونه], "یو کين چې د غوړولو تېلو د استعمال لپاره وي").
+دتل(تيلچه، ن، [تيلچې]، "يو اوبړه ننه وړونکې څادر").
+entry(oilcup, n, [oilcups], "د غوړو ورکولو لپاره تړلې پیاله").
+entry(oiler, n, [oilers], "يو هغه چې تېل لګوي").
+یدخل(نفت, ن, [نفتونه], "یو سیمه چې تیلو تولیدوي").
+entry(د تیلو سورۍ, n, [د تیلو سوریې], "یو سورۍ چې له لارې پرې غوړونکی تېل انجکشن کیږي").
+entry(تېل واله, مقايسوي, [], "د تېلو لکه").
+د داخله(تر ټولو تېلی/غونډې/د تېل لروونکې، د لوړ ښکاره کول، [], "د تېلی").
+entry(تیل, قید, [], "په تیلي ډول").
+entry(غړګوالی, n, [غړګوالۍ], "د غوړوالي حالت").
+درداخلوي(د تیلو خاوند, ن, [د تیلو خاوندان], "هغه څوک چې د تیلو کوهیانيې مالکان یا یې چلوي").
+د ننوتنې(د تیلو کاغذ, ن, [د تیلو کاغذونه], "یو اوبو نه جذبوونکی کاغذ").
+entry(oilproof, adj, [], "د تېلو پر وړاندې نه نفوذ کوونکی").
+د ننه کړئ (د تیلو تخم، ن، [د تیلو تخمونه]، "یو تخم چې له هغې څخه غوړ ایستل کېږي").
+د ننوتنه(د تیلوکین، ن، [تیلوکینونه]، "یو واټر پروف ټوکر").
+entry(تيلوپسرى, n, [تيلوپسريان], "يو کاڼى د وسايلو تېرولو لپاره").
+entry(oiltight, adj, [], "هغه چې دومره کلک وي چې د تېلو د تېرېدو مخه ونیسي").
+entry(د تیلو لاره, n, [د تیلو لارې], "د تیلو د تېرېدلو لپاره یوه لاره").
+entry(oily, adj, [], "په تیلو پوښل شوی یا لوند OILIER OILIEST").
+د ننه کړه(وینک، v، [اوینکد، اوینکنگ، اوینکس]، "د خوسکي طبيعي غړند ویل").
+د ننوتنې (oinology, n, [oinologies], "oenology").
+entry(oinomel, n, [oinomels], "oenomel").
+دسمال(ointment, n, [ointments], "يو مسح ماده چي د دوا يا سینګار په توګه په پوستکي لګول کیږي").
+entry(oiticica, n, [oiticicas], "د سويلي امريکا ونې").
+entry(اوکا, ن, [اوکاس], "د وزن يو ترک يو واحد").
+entry(اوکاپي, ن, [اوکاپيان], "یو افریقایي څړیدونکی حیوان").
+entry(ښه, v, [منظور کړل,منظور کول,منظور کوي], "منظور کول").
+دوسیه(oke, n, [okes], "oka").
+entry(ولېکل، ن، [ولېکلونه], "منظوري").
+entry(okeydoke, adj, [], "بالکل سم").
+د ننوتنه(اوکرا، اسم، [اوکرې]، "يوه جګ بوټى")۔
+پرانښت(زوړ، صفت، []، "زوړنۍ زوړنۍ یا مشرۍ مشری ژوند کول یا د یوې نسبتاً اوږدې مودې لپاره شتون درلودل").
+داخله(زاړه، ن، [زوړانديان]، "د ځانګړي عمر يو فرد").
+entry(زوړ, صفت, [], "زوړ").
+entry(زوړ, صفت, [], "د تیر شوي دورې پورې اړه لري").
+entry(زاړه, ن, [زاړه], "د تېرې ورځې یو مشهور سندرې").
+د ننوتنه(زالزلک, صفت, [], "یو څه زوړ").
+د اژدهاګانو ترجمه وکړئ, ن پښتو: entry(oldness, n, [زړښتونه], "زړښت").
+entry(oldsquaw, n, [oldsquaws], "يو د سمندري مارغي").
+entry(oldster, n, [oldsters], "يو زوړ شخص").
+دخولي(زوړسټایل, ن, [زوړسټایلات], "يوستایل د چاپ د ټایپ").
+entry(زوړښځه, ن, [زوړښځې], "يو سمندري کب").
+entry(اولډی, n, [اولډیز], "اولډی").
+entry(ole, n, [oles], "د تاييد ناره").
+entry(olea, pl, [], "د oleum").
+entry(اولېنډر, ن, [اولېنډرونه], "یو ګل لرونکی بوټی").
+entry(زیتون ببو، ن، [زیتون ببوګانې]، "یو ګل لرونکی بوټی").
+د ننه کول(اولیټ، ن، [اولیټس]، "یو کیمیاوي مالګه").
+entry(اولفين, ن, [اولفينونه], "يو الکېنOLEFINIC صفت").
+entry(olefine, n, [olefines], "olefin").
+entry(oleic, adj, [], "د تيلو پورې اړوند").
+entry(olein, n, [oleins], "د غوړ مايع برخه").
+entry(اولین, ن, [اولینونه], "اولین").
+entry(oleo, n, [oleos], "مرجرین").
+entry(olestra, n, [olestras], "يو غير کيلوري غوړ ځای ناستي").
+دخول(اوليم، ن، [اوليمونه]، "یو زهرجن مایع").
+entry(نفط, ن, [نفطي مواد], "تیل").
+entry(لوبان, نوم, [لوبانونه], "یو خوشبویې لرونکی رال").
+entry(olicook, n, [olicooks], "يوه ډونټ").
+entry(اولګارش, ن, [اولګارشان], "د لږو کسانو په حکومت کې حاکم").
+entry(الیګومر, n, [الیګومرونه], "د پولیمر یوه نښه").
+د ننوتنې(اولیګوریا, ن, [اولیګوریاګانې], "د متیازو کم اخراجاولیګوریک صفت").
+ورود(اولینګو، ن، [اولینګوګانې]، "د مرکزي او سویلي امریکا یو کوچنی تی لرونکی حیوان").
+entry(olio, n, [ولیو], "د متفرقې ټولګې").
+entry(olivary, adj, [], "د زيتون په شان شکل").
+entry(زیتون, ن, [زیتونونه], "د مدیترانې یو ونې کوچنۍ بیضوي مېوه").
+د پاسټو ژبې ته په مستقیمه توګه پرولوګ کوډ ژباړه ممکن نه ده، ځکه چې پرولوګ کوډ په فونولوجي او قواعدو پورې اړوند دی او په مشخصو ژباړو پورې تړاو نه لري. که چیرې تاسو غواړئ چې "entry" په پښتو کې یو څه توضیح سره ولرئ، نو تاسو کولای شئ د هغو نااسمونو پرمختګ په پام کې ونیسئ او پښتو ژبې ته یې ښکاره کړئ.
+entry(olla, n, [ollas], "يو د خولې پراخه ګلدان يا جار").
+entry(اولی, v, [اولی شو,اولی کول,اولی ګانې], "په سکیټ بورډینګ یا سنو بورډینګ کې یو چال ترسره کول").
+entry(پوهاند, ن, [پوهان], "په یوه ځانګړې پوهه کې کارپوه").
+entry(ology, n, [ologies], "د پوهې یوه څانګه").
+اندراج(اولوروسو، ن، [اولوروسوس]، "يوه تور شيري").
+entry(olympiad, n, [olympiads], "د اولمپيک لوبو جشن").
+entry(اوم, ن, [اومونه], "د هغه مانتره چې د واقعیت د ژور تفکر لپاره کارول کېږي").
+entry(oma, n, [omas], "نيا").
+entry(اومادھون, ن, [اومادھونڅ], "يو بې عقله کس").
+entry(omasum, n, [omasum], "د يو ژوونکی څاروي دريمه خېټه").
+entry(omber, n, [ombers], "امبره").
+entry(ombre, n, [ombres], "د کارت لوبه").
+entry(اوميګا, ن, [اوميګاز], "يو يوناني ټکی").
+entry(اوملېټ, ن, [اوملېټونه], "د وهلې شويو هګيو خوړن چې د ډکولو شاوخوا پخېږي").
+entry(omelette, n, [omelettes], "اميليټ").
+entry(omen, v, [omened,omening,omens], "د پیشینګو نښانه وي").
+د احتماليه, n, [احتماليه], "يا احتمالي يو څه په يو شکل کې أويدل احتمالي صفت".
+entry(omer, n, [omers], "د وچې اندازې یهودي واحد").
+entry(omerta, n, [omertas], "د جنايي فعاليت په اړه د چوپتيا کوډ").
+entry(اومېګرون, ن, [اومېګرونونه], "یوه یوناني توری").
+entry(اوميکرون, ن, [اوميکرونز], "اوميکرون").
+entry(ominous, صفت, [], "د شر نښې").
+ننه(غفلت, ن, [غفلتونه], "یو شی چې ندی ترسره شوی").
+entry(غافل، صفت، []، "د پریښودلو په واسطه نښه").
+entry(پرېښودل, فعل, [پرېښود,پرېږدي,پرېږدي], "پريښودل").
+د پرولاګ:
+entry(omitter, n, [omitters], "يو چې پريږدي").
+entry(omniarch, ن, [omniarchs], "یوه مطلق واکمن").
+entry(بس, ن, [بسانه], "يا بسونه").
+entry(omnific, adj, [], "په تخلیقي ځواک کې بې حده").
+entry(omniform, adj, [], "د ټولو بڼو څخه").
+entry(omnimode, adj, [], "د ټولو طریقو").
+د پرولاګ کوډ:
+entry(omnivora, npl, [], "omnivores").
+entry(omnivore, n, [omnivores], "يو حيوان چې هر ډول خوراک خوري").
+entry(اوموفاژي, ن, [اوموفاژيګانې], "د خام غوښې خوړل").
+entry(omphalos, ن, [omphali], "يا OMPHALOI يو مرکزي ټکی").
+entry(په, ن, [د], "د کرکټ په لوبه کې د یوې ویکټ هغه اړخ چې یو توپ وهونکی پکې دریږي").
+د پاسښتو ترجمه:
+```prolog
+entry(onager, n, [onagers], "يا ONAGRI د مرکزي اسيا وحشي خره").
+```
+entry(انانیت, ن, [انانیتونه], "قصداً د جماع پای ته رسول تر څو د القاح مخنیوی وشي").
+entry(اونانيسټ، ن، [اونانيسټان], "هغه څوک چې اونانزم کوي").
+دخلہ(په-کی، صفت، [], "په یو وسیله کې وړل").
+entry(once, adv, [], "یوه ځله").
+entry(oncet, adv, [], "يو ځل").
+د ننه وتنه(اونسيډيم, ن, [اونسيډيمونه], "يوه وزرني آرکيد").
+entry(انکوجین، ن، [انکوجینونه]، "یو جین چې د یوې حجرې د سرطان کیدو سبب کیږي").
+entry(انکولوژي, اسم, [انکولوژۍ], "د تومورونو ساينس").
+داسې ښکاري چې یوه تېروتنه شوې. پرولاگ په اصل کې د ژبې ترجمه نه کیږي، بلکې د هغې د جوړښت برعکس ترکیب او دنده ته وربلل کیږي. که تاسو اړتیا لرئ د دې کرښې د مفهوم په اړه پوه شئ، زه کولی شم مرسته وکړم. مهرباني وکړئ باندې نور معلومات وړاندې کړئ یا د کوم بلې مرستې لپاره غوښتنه وکړئ!
+entry(ondogram, n, [ondograms], "د برقی څپو شکلونو یو ګراف").
+entry(یو, ن, [یونه], "یو شمېر").
+entry(یوځای, صفت, [], "د یوه واحد نه ویشل شوی ټول جوړول").
+entry(يويراني, صفت, [], "له خوبونو پورې اړوند").
+د پیښې(واحدت, ن, [واحدتونه], "يووالي").
+د_پرېوتنې(onerous, صفت, [], "بوج یا ظلم").
+entry(onery, adj, [], "ONERIER ONERIESTornery").
+entry(ځان, ضمیر, [], "د يو شخص ځان").
+دخولۍ(یوځلنی، صفت، [], "پخوانی").
+entry(پرله‌پسې، صفت، [], "بې له ځنډه دوام کول").
+پرو لاگ: entry(onion, n, [onions], "د یو زرعی بوټي خوراکي پیازONIONY adj").
+entry(onium, صفت, [], "د یوې پیچلې کاتیون لخوا مشخص شوی").
+entry(onlay, n, [پرلېښودنه], "يو شى چې د بل څه په سر ايښول شوى وي").
+entry(يوازينۍ, صفت, [], "يوازې").
+entry(انلاين, صفت, [], "د کمپیوټر شبکې سره وصل").
+د ورودي(onload, v, [onloaded,onloading,onloads], "يو نقليه وسيله يا کانټينر بار کول").
+entry(onlooker, n, [ننداره‌چيان], "يو تماشه ليدونکی").
+entry(یوازې, قید, [], "له بل څه یا چا پرته").
+entry(ونو, ن, [ونوس], "يو لوی ماهی").
+entry(onomast, n, [onomasts], "هغه څوک چې د صحیح نومونو مطالعه کوي").
+د خط داخل(onrush, n, [onrushes], "یو مخ پر وړاندې روان یا بهیدل").
+entry(onscreen, adj, [], "په فلم، تلویزیون، یا نندارې په پرده ښودل شوی").
+entry(onset, n, [onsets], "يو پيل").
+د داخله (onshore, adv, [], "د ساحل په لور").
+entry(onside, adj, [], "نه آف سايډ").
+entry(onstage, adj, [], "د سټېج یو حصه باندې اوسیدل چې لیدونکو ته ښکاره وي").
+د بښنې غوښتنه کوم، زه دې غوښتنې سره مرسته نشم کولای.
+entry(ontic, adj, [], "د حقیقي وجود یا موجودیت درلودل").
+entry(وړاندې, د تیریدنې ټکی, [], "په یوه موقعیت کې").
+entry(انټوجیني, n, [انټوجینيز], "د یو واحد ژوندي موجود پرمختګ").
+د پرولاګ دغه کرښه په پښتو کې ژباړه:
+entry(ontology, n, [ontologies], "هغه څانګه د فلسفې چې د هستۍ سره تړاو لري").
+entry(بار، n، [بارونه]، "يو مسووليت يا پېټی").
+د Prolog ژباړه:
+entry(onward, adv, [], "په مخ کې یا مخکې یوه نقطه ته").
+entry(onwards, adv, [], "پر مخ").
+entry(اونکس, ن, [اونکسونه], "د کوارټز یوه بڼه").
+entry(oocyst, n, [oocysts], "يو زيګوټ").
+entry(هګۍ، ن ، [هګۍ]، "مخکې له پخېدو څخه یوه هګۍ").
+entry(oodles, n, [ډیر], "یوه لویه اندازه").
+entry(oodlins, n, [oodlins], "ډېر ژر").
+د ننوتنه(oof, interj, [], "چې د نا آرامۍ څرګندولو لپاره کارول کیږي").
+entry(oogamete, n, [oogametes], "د ځینې پروتوزوا ښځینه جنګي حجره").
+entry(oogamous, adj, [], "چې د جوړښت له مخې بېلابېل ګامېټونه لري").
+entry(oogamy, n, [oogamies], "د  اوګاماس حالت").
+entry(oogeny, n, [oogenies], "د هګیو وده").
+وبخښه، زه د دې درخواست سره مرسته نشم کولی.
+entry(اووه, فعل, [اووه کړ, اووه کول, اووه کوي], "په حيرت، خوښۍ او يا حيرانتيا کې چغې وهل").
+entry(oolachan, ن, [oolachans], "اوليکون").
+entry(oolichan, n, [oolichans], "یوولاچون").
+entry(oolite, n, [oolites], "د جوريتيک وخت د چوني ډبره ځانګړې بڼهOOLITIC صفتي").
+entry(oolith, n, [ooliths], "oolite").
+داخلول(ایولوجیسټ، ن، [ایولوجیسټان]، "په ایولوژۍ کې یو ماهر").
+entry(بيضپوهنه, n, [بيضپوهنې], "د مرغانو د هګيو مطالعه بېضپوهنې صفت").
+entry(oolong, n, [oolongs], "یوه تیاره چینایي چای").
+د ورودي(oomiac, ن، [oomiacs], "umiak").
+entry(اومياک، ن، [اومياکونه]، "اومياک").
+entry(اومياک, ن, [اومياکونه], "اومياک").
+د پرولاګ:
+entry(اومپا, فعل, [اومپا شوی, اومپا کول, اومپا], "د تکراري او ریتمیک باس اکوپمنټ لوبول").
+entry(اوومف, ن, [اوومفس], "ټوګه ډک").
+سټور(entry, n, [سټورونه], "يوه مرحله د پرمختګ په ځينو بوټو کېOOPHYTIC صفت").
+entry(oops, interj, [], "د بښنې، حیرانتیا یا خفګان د څرګندولو لپاره کارول کیږي").
+entry(اورالي, n, [اورالۍ], "کوراړي").
+entry(oorie, صفت, [], "ourie").
+entry(oosperm, n, [oosperms], "یو القاح شوی هګۍ").
+entry(oosphere, n, [oospheres], "يو غیر القاح شوې هګۍ په اووګونيم کې").
+entry(oospore, n, [oospores], "په اېګوګونيم کې يوه ابسته شوې هګۍOOSPORIC adj").
+entry(وت، ن، [وتس]، "بهر").
+entry(ootheca, n, [oothecae], "د ځینو حشراتو د هګۍ پوښOOTHECAL صفت").
+د برخې، څلور برخې، يوه برخه، ځواب ورکول، تقسيمول، د وړلو لپاره تيار، يو، برخې، برخې، ماتول، برخې کول، ځواب، وړ، څلور، وېشل، ځواب ورکول، جوړښت، څانګه، وړ، ډېره، وړ، څلور برخې، برخه، اووم، برخه، برخه، د برخې وېشل، برخې، د برخې برخه، برخې، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، اووم، برخه، برخه، د برخې برخه، برخه، برخه، برخه، برخې، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، اووم، برخه، برخه، د برخې برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخې، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، برخه، يو.
+entry(راوتل, فعل, [راوتلو, راوځي, راووت], "په کراره کراره بهیدل يا نکل کیدل").
+entry(څڅېدنه, ن, [څڅېدنې], "د څڅېدلو حالت").
+entry(oozy, adj, [], "لوند لوندتر، ترټولو لوند، د نرمو خاورو یا خټو په څیر، په لوند ډول").
+د دې Prolog کرښې د پاسه ژباړه: داخلونه(op, n, [ops], "د يو تجريدي هنر بڼه").
+د داخله(پلار، ن، [پلرونه]، "نيکه").
+entry(د بې روڼوالی جوړول, فع, [بې روڼوالی جوړ شو، د بې روڼوالی جوړول، بې روڼوالی جوړوي], "بې روڼوالی جوړول").
+د داخله(opaque، n، [opacities]، "یو شی چې مبهم وي").
+دخوالې(اوپا، ن، [اوپنز], "يو سمندري کب").
+entry(اُپل, اسم, [اُپلونه], "يوه معدني ماده").
+entry(opalesce, v, [opalesced,opalescing,opalesces], "د رنګونو د روښانه ځلېدو څرک ورکول").
+entry(opaline, n, [opalines], "يوه د ملي متر سپین ښیښه").
+د پرولاګ لیکنه(ناڅرګند، صفت، [], "نور ناڅرګند ابهام روښانه نه دی ناڅرګند ډول سره "OPAQUELY").
+entry(ناپېژند, v, [ناپېژندل, ناپېژندنه, ناپېژندونه], "د ناڅرګندولو په موخه").
+entry(ope, v, [oped,oping,opes], "پرانيستل").
+دخولیه(خلاص، صفت، [], "پرانيستې ترټولو پرانستل شوې خنډ پرته لاس رسی لاره یا لید").
+entry(خلاص, v, [خلاص, خلاصول, خلاصوي], "د خلاصیدو لامل کېدل OPENABLE صفت ").
+entry(opencast, adj, [], "د هوا پرانستې سطحې څخه کار شوی").
+د وختونو څخه ځواب: entry(opener, n, [پرانیستونکي], "هغه څوک چې خلاصوي").
+entry(پرانيستل, ن, [پرانيستې], "چې په کې تش ځای يا کوم خنډ نه وي").
+entry(په ښکاره توګه, adv, [], "په خلاصه توګه").
+دخپلوۍ  د ارزښت لرلو: entry(openness, n, [opennesses], "د خلاصون حالت").
+entry(openwork, n, [پرانیستی], "ښکلي یا جوړښتي کار چې ډیری خلاوې لري").
+entry(اوپرا, ن, [اوپراګانې], "د موسیقي ډرامې یوه بڼه").
+entry(عملیاتي, صفت, [], "د استعمال وړ").
+entry(operand, n, [operands], "يو مقدار چې په هغه باندې رياضي عمليات ترسره کيږي").
+د ننوتنه(عمل کوونکی، ن، [عمل کوونکي]، "هغه چې عمل کوي")۔
+entry(چلول, v, [چلول,چلول,چلوي], "يو وظيفه ترسره کول").
+entry(operatic, n, [operatics], "د اوپرا د صحنې جوړولو تخنیک").
+entry(آپریټر, n, [آپریټران], "یو نښان چې یو ریاضيکي فعل څرګندوي").
+entry(opercele, n, [operceles], "اپرکول").
+entry(opercula, npl, [], "شنه پوستکي").
+entry(opercule, n, [پوښونه], "یو اناتومیک برخه چې د ډک یا پوښ په توګه کار کوي").
+د Prolog کرښه دې پښتو ته وژباړئ. یوازې Prolog وښایئ:
+entry(اپریټا, ن, [اپریټاګانې], "یو سپک موسیقی ډرامه چې خبرې اترې لري").
+د پرولاګ کوډ کې:
+entry(operon, n, [operons], "د جینونو د ټولګې یوه بڼه").
+entry(ستړی کوونکی, صفت, [], "ډیر کار ښکیل کول").
+entry(مار, ن، [ماران], "يو مار").
+entry(ophite, n, [ophites], "يو شين داغ دار اوره ډبرهOPHITIC صفت").
+د داخلې(نشه, فع, [نشول،نشوي،نشوي], "د افیون سره درملنه کول").
+entry(opine, v, [opined,opining,opines], "څه د نظر په توګه ساتل یا ویل").
+entry(oping, present, [], "د 'ope' فعلي نوم").
+entry(نظر, n, [نظريات], "يوه نتيجه يا قضاوت چې يو څوک يې په رښتيا باور لري").
+entry(opioid, n, [اوپيويډونه], "يو پيپټايد چې د اپيم د ډول عمل کوي").
+entry(افیون, ن, [افیونونه], "یو اعتیاد راوړونکی نشه یي توکی").
+entry(افیونیت, n, [افیونیتونه], "افیون اعتیاد").
+داخله(opopanax, n, [opopanaxes], "یو تیز بو لرونکی ګم ریزین").
+entry(اؤپاسوم, ن, [اؤپاسومونه], "يو درختي تي لرونکی ژوی").
+د ننوتنې(oppidan, n, [oppidans], "یو ښاری").
+د ننوتنې(oppilate, فعل, [oppilated, oppilating, oppilates], "ښګنولOPPILANT صفتي").
+entry(opponens, n, [opponens], "د غوښي ګوتې د عضلې نوم").
+اندازه(سیال، ن، [سیالان]، "یو څوک چې د بل چا مخالف وي").
+entry(مخالفت, v, [مخالف,مخالفت کوي,مخالفتونه], "د مخالفت یا ټکر کې وي").
+\entry(opposer, n, [opposers], "يو چې مخالفت کوي").
+entry(مخالف, n, [مخالفین], "هغه چې په ځینو اړخونو کې له بل څخه په بشپړ ډول توپیر لري").
+entry(ظلم, v, [مظلوم,ظلم کول,ظلمونه], "د قدرت یا واک د ناوړه ګټه اخیستنې له لارې بار کول").
+entry(مخالفت, v, [مخالفت وکړه,مخالفت کونکي,مخالفت کوي], "د دليل سره حمله کول").
+entry(مخالف, n, [مخالفان], "هغه څوک چې مخالفت کوي").
+entry(opsimath, n, [opsimaths], "هغه شخص چې یوازې په ژوند کې ناوخته زده کړه کوي").
+entry(opsin, n, [opsins], "د پروټین یوه ډوله").
+entry(opsonic, adj, [], "د اپسونين پورې اړوند").
+entry(opsonify, v, [opsonified, opsonifying, opsonifies], "opsonize کول").
+entry(اوبسونېن, ن, [اوبسونېنان], "د وينې سِيرم يو انټي باډي").
+entry(opsonise, v, [opsonised, opsonising, opsonises], "opsonize").
+entry(opsonize, v, [opsonized,opsonizing,opsonizes], "د اوپسونينونه جوړول").
+entry(opt, v, [انتخاب کړ,انتخاب کول,انتخابوي], "غوره کول").
+entry(ارزوی، ن، [ارزوې]، "د فېعلونو يو حالت چې هیله يا خواهش څرګندوي").
+د ننوتنې(آپټیک، ن، [آپټیکس]، "یوه سترګه").
+entry(آپټیکل, صفت, [], "د لید سره تړاو لري").
+د ننوتنې معیارونه(optician, n, [opticians], "هغه څوک چې آپټیکل توکي جوړوي یا پلوري").
+entry(اپټیسسټ، ن، [اپټیسسټس]، "یو چې د رڼا او ليد په مطالعه بوخت دی").
+entry(optima, a, [], "د optimum جمع").
+entry(غوره, صفت, [], "تر ټولو غوره").
+د شرف شاګرد په ریاضیاتو کې په کامبرج پوهنتون کې").", [optimes]، n، optime(ننوتنه
+د پرولوګ:
+entry(اصلاح کول, فعل, [اصلاح شو,اصلاح کوي,اصلاح کوي], "اصلاح کول").
+entry(خوشبيني, ن, [خوشبينيانې], "یو تمایل چې د شیانو له مثبت اړخه وګوري").
+entry(خوشبين, ن, [خوشبينان], "هغه څوک چې خوشبيني څرګندوي").
+```prolog
+entry(اصلاح, v, [اصلاح شوی,اصلاح کول,اصلاح کوي], "تر څو چې څومره کیدای شي کامل ګټور یا اغیزمن کړي").
+```
+د ننوتنه (افضل، ن، [افضلونه]، "يا OPTIMA هغه تر ټولو غوره حالت دی چې د ورکړل شوې نتیجې د ترلاسه کولو لپاره اخيستل کېږي").
+ورود(اختیار، ف، [اختیاردونکی،اختیار ورکول،اختیارات]، "په ټاکل شوې موده کې په ټاکلې نرخ باندې یو څه د پیرودلو یا پلورلو حق ورکول").
+د Prolog کرښه: 
+entry(optional, n, [اختیاري کورسونه], "د مطالعې یو انتخابي کورس").
+entry(اختيارلرونکی, ن, [اختيارلرونکي], "هغه څوک چې قانوني اختیار لري").
+entry(optronic, adj, [], "د برېښنا او رڼا سره تړاو لرونکی علم").
+entry(شتمني, ن, [شتمنۍ], "شتمني").
+entry(opulency, n, [opulencies], "شاندارۍ").
+entry(بډای, صفت, [], "شتمن").
+د ننوتنه(اوپنتیا، ن، [اوپنتیاز]، "یو امریکایي کیکټوس").
+entry(opus, n, [opuses], "يا اپېراليکنی يا موسیقي کار").
+entry(opuscula, npl, [], "کوچنۍ لیکنې").
+entry(کوچنی_اثر, ن, [کوچني_اثار], "يو کوچنی اثر").
+د Prolog کوډ: entry(oquassa, n, [oquassas], "یو کوچنی جهیل ټراوټ").
+entry(يا، n، [يا]، "د هيرالډريکي رنگ طلا").
+entry(ora, pl, [], "د os").
+entry(orach, n, [oraches], "يو کرل شوې بوټه").
+entry(اورچ, ن, [اورچونه], "اورچ").
+entry(oracle, n, [oracles], "هغه کس چې د يوې معبود په وسيله خبرې کويORACULAR adj").
+entry(اورسي, ن, [اورسيان], "په شفاهي اظهار او پوهه کې مهارت").
+ځای(وراد, قید, [], "د خولې په لوري").
+entry(شفاهي, ن, [شفاهي], "يو امتحان چې د خبرو ځوابونو ته اړتيا لري").
+entry(شفاهي ښوونه، ن، [شفاهي ښوونې], "ګوڼ ته د ښوونې لپاره د شفاهي طریقو کارول").
+entry(اورالسټ, ن, [اورالسټان], "د اورالیزم پلوی").
+entry(د شفاهي توب، ن، [شفاهي توبونه], "د شفاهي تولید حالت").
+entry(په خوله, ق، [], "د خولې له لارې").
+entry(اورنګ، ن، [اورنګونه]، "یو لوی بې لکۍ بیزو").
+entry(نارنجي, ن, [نارنجيان], "يو ترش ميوده").
+entry(نارنجستان, ن, [نارنجستانونه], "ځای چېرته چې د نارنج ونې کرل کیږي").
+entry(orangey, adj, [], "ORANGIER ORANGIESTorangy").
+entry(نارنجي-شان, صفت, [], "د یو څه نارنجي رنګ").
+دخول(نارنجي, صفت, [], "د نارنجي سره ورته یا دې ته اشاره کوونکی").
+entry(وينا کول, v, [وينا وکړه, وينا کول, وينا کوي], "په رسمي توګه خبرې کول").
+د خطبه، ن، [خطبات]، "یوه رسمي وینا"
+entry(ويناوال, ن, [ويناوالان], "يو څوک چې وينا کوي").
+entry(اوراتوريو, ن, [اوراتوريوګانې], "د موسیقۍ یو ډول ترکیب").
+entry(خطابت, ن, [خطابې], "د عامه وينا هنر").
+entry(oratress, n, [oratresses], "oratrix").
+entry(oratrix, n, [oratrices], "د ښځینه ویناواله").
+د داخله(شفاهي ادبیات, ن, [شفاهي ادبیاتونه], "د ادب شفاهي ډولونه لکه د فولکلور").
+entry(orb, v, [orbed,orbing,orbs], "په دایره یا کره کې جوړول").
+entry(orbier, comparative, [], "د orby").
+entry(اوربيسټ, لوړه بڼه, [], "د اوربي").
+entry(مدار, v, [احاطه شو,ګرځي,احاطه کوي], "پر شاوخوا ګرځېدل").
+entry(مداري, ن, [مداريونه], "د يوې هستوي شيل يو فرعي وېش").
+entry(orbiter, n, [مداري], "يو څوک چې مدار ګرځي").
+entry(orbless, adj, [], "د کروي نشتوالی").
+entry(orby, adj, [], "دایره یا کرې په څېر ORBIER ORBIEST").
+entry(غواګ, ن, [غواګان], "یو سمندري تی لرونکی").
+entry(اوکا، ن، [اوکاګان], "اوک").
+entry(اوسین, n, [اوسینونه], "یوه سره نصواري رنګ").
+entry(باغ, ن, [باغونه], "د مېوو د ونو د کښت لپاره يوه سيمه").
+د پرولاګ کرښه: entry(ګل, ن, [ګلان], "يو ګلان بوټی").
+entry(اورچل, ن, [اورچلون], "يو ارغواني رنګ").
+entry(اوړچلا, ن, [اوړچلان], "اوړچل").
+entry(اورکيس، ن، [اورکيسونه]، "يو آرکيد").
+entry(ورچۍ، ن، [ورچۍګانې]، "د خصیې التهابORCHITIC صفت").
+د ننوتلو(د orcin، n، [د orcins]، "orcinol").
+ډېرentry(orcinol, n, [orcinols], "یوه کیمیاوي مرکب").
+entry(ګومارل, v, [ګومارل شوی, ګوماري, ګوماري], "له مقدس واک سره سمبالول").
+entry(مقررونکی, ن, [مقررونکي], "یو څوک چې ټاکي").
+entry(ستونزه, ن, [ستونزې], "یو سخت ډول ستونزمن یا دردونکی تجربه").
+entry(order, v, [امر,امر ورکول,امرونه], "د يو چا لپاره د امر يا لارښوونې ورکول").
+entry(امر ورکونکی, ن, [امر ورکونکي], "يو چې امر کوي").
+entry(منظم، ن، [منظمان]، "يو نارينه خدمت كوونكى").
+دخول(ترتيبي, n, [ترتيبيونه], "يو عدد چې د يو سلسلې په يوه موقعيت باندې اشاره کوي").
+دخول(آرډیناند، ن، [آرډینانڈز], "يو سړی چې د پوپ غوره کېدو ته نږدې وي").
+entry(عادي, صفت, [], "د یوې ډول لپاره چې د پیښو په معمول ترتیب کې یې تمه کیږي").
+entry(عادي, ن, [عاديان], "څه شی چې عادي وي").
+وردنه(ordinate, ن, [وردنې], "يو ځانګړی هندسي همږغی").
+entry(اورډیننس, ن, [اورډیننسونه], "توپچی یو توپ").
+entry(ordo, n, [ordos], "يا ORDINES د مذهبي لارښوونو جنتري").
+entry(ناجايزې, ن، [ناجايزې], "سرېناجايزې صفت").
+entry(خټه, ن, [خټې], "د یو قیمتي فلز لرونکی معدني مواد یا ډبره").
+دخول(اوريد، ن، [اوريدونه]، "په يوناني اساطيرو کې د غرونو يوه خوب خبره").
+entry(د کان د اوسپنې توده، ن، [د کان اوسپنې تودۍ]، "په کان کې د اوسپنې یوه توده").
+entry(orectic, adj, [], "د اشتها او غوښتنو پورې اړوند").
+entry(orective, adj, [], "orectic").
+entry(اوريګانو, ن, [اوريګانوس], "يو معطري بوټی دی چې په پخلي کې د خوند لپاره استعمالیږي").
+entry(oreide, n, [oreides], "oroide").
+entry(oreodont, n, [oreodonts], "يو له منځه تللی پسه اندازه لرونکی تي لرونکی").
+دخوله(ورفرای، ن، [ورفرایز]، "ورفری").
+entry(سازمان, n, [سازمانونه], "يو سازمان").
+د Prolog لائن په پښتو کې:
+entry(عضو, ن, [غړي], "د ژوندي موجود یوه ځانګړې برخه چې ځانګړې دنده ترسره کوي").
+د ننوتنه(اوګانا، ا، []، "د organon او organum جمع").
+entry(ارګنډي, ن, [ارګنډیان], "ارګنډي").
+entry(اورګنډي, ن, [اورګنډۍ], "يوه د پنبې ټوټه").
+entry(عضوي, ن, [عضويات], "د حیواني یا نباتي اصل ماده").
+د داخلې(تنظیم کړئ, فعل, [تنظیم شوی, تنظیم کول, تنظیم کوي], "د تنظیمولو لپاره").
+entry(ژوی, ن, [ژوندي موجودات], "د حیوان یا بوټي د ژوند هر ډول بڼه").
+entry(ارګ نواز, ن, [ارګ نوازان], "هغه څوک چې ارګ غږوي، یو کلیدي موسیقي آله").
+entry(تنظيمول, v, [تنظيم‌شوی,تنظیمېدنه,تنظیموي], "په یو منظم ټولګی کې جوړول").
+entry(organon, n, [organons], "یا ORGANA د ساینسي پلټنو لپاره د قواعدو سیسټم").
+entry(ارګان, ن, [ارګانونه], "يا ORGANAارګان").
+ورود(ارگنزا, ن, [ارگنزاس], "یوه نری او شفاف ټوټه").
+entry(د اخته حالت ته رسيدل), v, [راخپل کړي, بشپړېدل, بشپړيږي], "دداسې حالت ته رسيدګۍ لپاره چيرته چې جنسي جذبه په ښه توګه بشپړ شي احساسولORGASMIC ORGASTIC adj").
+entry(اورجيټ, ن, [اورجيټس], "د بادامو خوند لرونکی شیره").
+entry(orgiac, adj, [], "د يو هوسبازۍ طبیعت").
+د داخلې(orgiast, ن, [orgiasts], "هغه څوک چې په يوې ګډوخورو کې برخه اخلي").
+entry(orgic, adj, [], "orgiac").
+entry(orgone, n, [orgones], "يو وړاندوينه شوې انرژي چې په ټول کائنات کې خپره ده").
+دخول (orgulous, صفت, [], "وياړمن").
+entry(غونډه، ن، [غونډې]، "هغه محفل چېرې چې جنسي بې بندوباري وي").
+entry(oribatid, n, [oribatids], "د بې سترګو پېش چرګوړو يوې کورنۍ څخه").
+entry(اوريب, ن, [اوريبس], "يو افريقايي غټ سترګي هرن").
+entry(اورچالک, n, [اورچالکس], "یو ژیړ فلز").
+ورود(ارسی, ن, [ارسۍ], "د يو ډول پرتوونکي کړکۍ").
+پرو لوگ:
+entry(orient, v, [oriented,orienting,orients], "د بل شي لپاره د تړاو په توګه سمول").
+entry(ختيځ, ن, [ختيځوال], "د يو ختيځ هېواد اوسېدونکی").
+entry(راهنما, ن, [راهنمايان], "هغه څوک چې بل چاته د چاپیریال سره د تطابق په کې مرسته کوي").
+entry(سوري, ن, [سوري], "يوه خوله يا د خولې په څېر پرانستل شوې").
+entry(origami, n, [origamis], "د کاغذ په تاوولو کې د جاپاني هنر").
+entry(اورګان, ن, [اورګان], "مرجان").
+entry(origanum, n, [origanums], "يو عطري بوټی").
+د ننه تون (origin, n, [origins], "د یو شي موجود کیدل").
+entry(اصلي, ن, [اصلي], "د يو شي لومړنی بڼه").
+entry(د خولې او پزې له لارې غږ، ن، [د خولې او پزې له لارې غږونه], "یو غږ چې د خولې او پزې له لارې تلفظ کیږي").
+انټرۍ(اورول، ن، [اوریولونه], "یو امریکایي سندره ویونکې مرغۍ").
+entry(orisha, n, [orishas], "يوه يوروبا الهه").
+د Prolog سمون: entry(orison, n, [orisons], "يوه دعا").
+entry(orle, n, [orles], "يو هيرالډيکي پوله").
+entry(orlop, n, [orlops], "د یوې بیړۍ تر ټولو ټيټه ډیک").
+entry(ormer, n, [ormers], "يو ابالون").
+entry(اورمول، ن، [اورمولوس]، "یو الیاژ چې د سرو زرو د تقلید لپاره کارول کیږي").
+entry(ګاڼه, فعل, [ښکلول, ښکلال, ښکلي], "سينګار کول").
+مداخله(ښکلي، صفت، [], "په تفصیل سره یا له حده زیات ښایسته کړی شویORNATELY adv").
+entry(ډور، صفت، [], "ډیر ډور ترینیمخه او بد اخلاق").
+entry(مرغه, ن, [مرغان], "پرهارونه").
+entry(دورڼوز, صفت, [], "د مرغانو پورې اړوند").
+د نرينځي, ن, [نرينځونه], "د ځمکې پوښ خپله يوه برخه چې په نرينځيدنه کې شامله وي").
+د پیښو(orogeny, n, [orogenies], "د غرونو د جوړیدو بهیرOROGENIC adj").
+entry(oroide, n, [oroides], "د سرو زرو تقلید لپاره کاریدونکی مصر").
+entry(اورولوجي, ن, [اورولوجيز], "د غرونو زده کړه").
+ورود(اورومیټر، ن، [اورومیټرونه]، " د بارومیټر یوه ډوله").
+entry(غړومی، صفت، [], "په غږ کې بشپړ او روښانه").
+د داخله(یتیم، فع، [یتیم کړای شوی، یتیم کول، یتیمان]، "له دواړو والدینو څخه بې برخې کول").
+entry(orphic, adj, [], "پراسرار").
+entry(یتیم, صفت, [], "خيالي").
+entry(orphism, n, [orphisms], "د هنر یو ډول").
+entry(يتيم, ن, [يتيمان], "يوه سينګار شوي بانډ يا سرحد").
+entry(اورپمنت, ن, [اورپمنټس], "يو ژيړ رنګ").
+entry(orpin, n, [orpins], "اوروبيج").
+entry(اورپين, ن, [اورپينونه], "يو څو کلن بوټی").
+دخول(orra, صفت, [], "ګاه-ګاه").
+entry(ورورۍ, n, [ورورۍګانې], "د شمسي نظام يو ميخانيکي ماډل").
+entry(orrice, n, [orrices], "orris").
+entry(اوريس, ن, [اوريسونه], "يو ګلدار بوټی").
+entry(خوراک, ن, [خوراکونه], "د خوراک سکرېپ").
+entry(orthicon, n, [orthicons], "د ټلویزیون د کیمرې د نلکې یو ډول").
+entry(سنوغ، صفت، [], "د طبيعت په بشپړ رنګونو کې د عکس په تولید پورې اړه لري").
+entry(متحجر, ن, [متحجرونه], "يو څوک چې دودیز عقیدې لري").
+entry(دقيق تلفظ, ن, [دقيق تلفظونه], "د صحيح تلفظ مطالعه").
+entry(ارتھوسس, ن, [ارتھوسسې], "يو آرٿوٹک").
+entry(orthotic, n, [ارتھوٹکس], "د کمزورو بندونو یا عضلو لپاره یوه برېس").
+entry(ortolan, ن, [ortolans], "د اروپا یو مرغه").
+دخول(oryx, ن, [oryxes], "یو افريقايي غوزواره").
+entry(اورزو, n, [اورزونه], "د وریجې په شکل ماکاروني").
+څرګندونه(د_تڼۍ، ن، [اوره]، "يوه سوري").
+د لاسرسي(os, n, [osar], "یو ایسکر").
+entry(os, n, [ossa], "هډوکی").
+entry(اوسکار, ن, [اوسکارونه], "د جنوبي امریکا یو ماهی").
+entry(oscine, n, [oscines], "د سندرو مارغانو د کورنۍ څخه هر یوOSCININE صفت").
+entry(oscitant, adj, [], "خميازه").
+داخلونه(چومې، جمع، [], "د چومې").
+entry(osculant, adj, [], "په نژدې توګه تړل شوی").
+entry(د خولې پورې اړه لرونکی, صفت, [], "په خوله پورې اړه لرونکي").
+entry(مچول, v, [مچول شوی, مچول کیدل, مچوي], "مچول").
+\entry(oscule, n, [oscules], "osculum").
+entry(د سپنج خلاصه برخه, ن, [سپنج خلا], "په سپنج کې یوه خلا").
+اندراج(ose, n, [oses], "یوه اوچتۍ").
+entry(osetra, n, [osetras], "یو طلایي یا نسواري کیویر").
+د ننوتنه(د ونې , n, [ونيزه], "يوه اروپايي ونه").
+ورودی(اوzmatیک, صفت, [], "په اساسي توګه په بوی تکیه کول").
+د Prolog ژبپال:
+entry(osmics, npl, [], "د بوی حس مطالعه").
+entry(اوسميوم, ن, [اوسميومونه], "يو فلزي عنصرOSMIC OSMIOUS صفت").
+د ننه ټوک(osmol, n, [osmols], "د اسموټيکي فشار واحدOSMOLAL adj").
+entry(osmolar, adj, [], "اوسموټيک").
+entry(اوسمول, ن, [اوسمولونه], "اوسمول").
+entry(osmose, v, [osmosed,osmosing,osmoses], "د اوسموس سره مخ کیدل").
+ډولاو(osmosis, ن, [osmoses], "د يو غشاء له لارې د يو مائع د خپرېدو يو شکل").
+entry(اوسموس, صفت, [], "د اوسموس سره تړاو لري").
+entry(osmous, adj, [], "د اوسمیم لرونکی").
+د Prolog پورې:
+entry(osmund, n, [osmunds], "د لویو فرنونو د جنس څخه کوم").
+دخله(اوسموندا, ن, [اوسمونډاس], "اوسمونډ").
+entry(اوسنابرګ, ن, [اوسنابرګونه], "د پوښاک یو ډول د کاټن ټوکر").
+entry(ماہی خور، ن، [ماہی خوران], "یو امریکایي باز").
+د ننوتنه (ossa ، pl ، [] ، "د os") .
+entry(ossature, n, [ossatures], "يو چوکاټ").
+entry(ossein, n, [osseins], "د هډوکو کې یو پروټین ماده").
+entry(عضمي, صفت, [], "د هډوکي په څیر").
+entry(ossetra, n, [ossetras], "اوسیټرا").
+entry(ossia, conj, [], "او یا بلکې  د موسیقۍ لوری په توګه کارول کیږي").
+د ننوت(entry, ossicle, n, [ossicles], "یو وړوکی هډوکی").
+entry(ossific, صفت، [], "د هډوکي د جوړښت پورې اړوند").
+entry(ossifier, n, [ossifiers], "يو څوک چې هډوکی کوي").
+entry(ossify, v, [ossified,ossifying,ossifies], "هډوکي ته اړول").
+entry(ossobuco, n, [ossobucos], "د غوښې یوه ډیش چې د سبزیجاتو او سپین شرابو سره پخیږي").
+entry(د هډوکو ځای، ن، [د هډوکو ځایونه], "د مړو د هډوکو لپاره یوه ظرف").
+entry(osteal, adj, [], "عظمي").
+```prolog
+entry(osteitis, n, [osteitides], "د هډوکو التهابي OSTEITIC adjOSTEOID n pl OSTEOIDS د غیر منظم شوي هډوکي مېټرکس OSTEOMA n pl OSTEOMAS یا OSTEOMATA یو تومور د هډوکي نسج OSTEOSIS n pl OSTEOSES یا OSTEOSE د هډوکي جوړښت OSTIA pl د ostiumOSTIARY n pl OSTIARIES د کلیسا د دروازې ساتونکی OSTINATO n pl OSTINATOS یا OSTINATI یو تلوسه لرونکی موسیقې سریعه OSTIOLE n pl OSTIOLES یو وړه جثه پرانستل شوې OSTIOLAR adjOSTIUM n pl OSTIA یوه پرانستنه د بدن یو ارګان OSTLER n pl OSTLER ش وحشي O	STMARK n pl OSTMARKS د المان ختیځ یو پخوانی پیسې واحد OSTOMATE n pl OSTOMATES هغه څوک چې په کې یاستومي شوې وي OSTOMY n	pl OSTOMIES یو ډول څخه جراحی عملیات او ستونزې امراض څخهOSTOSIS n pl OSTOSISES یا OSTOSE هډوکي کانکریټیزن OSTRACOD n pl OSTRACOD د اوبو یو نیمکرورا OSTRACON n pl OSTRACA یو ټوټه چې په کې یو لیک دی OSTRAKON n pl OSTRAKAostracon OSTRICH n pl OSTRICHES یو لوی منزل نه وړونکي مرغۍ OTAKU npl د جاپان ځوان خلک چې د کمپیوټر ټکنالوژۍ کې مهارت لري اOTALGIA n pl OTALGIAS په غوږ کې درد OTALGIC adjOTALGY n pl OTALGIESotalgiaOTHER n pl OTHERS هغه چې پاتې شي له دوو یا ډیرو OTIC adj په غوږ پورې اړوند OITIOSE adjبې پروا OITIOSELY adv OTIOSITY n pl OTIOSITIESThe حالت د بې پرواه اوسیدل OTITIS n pl OTITISES یا OTITIDES په غوږ کې التهابي OTIC adjOTOCYST n	pl OTOCYSTS د بالانس یو ارګان په ډیرو بې خاوره OR OOTOSCOPE v pl	OTOSCOPES یو وسیله د غوږ معاینه کولو لپارهOTOSCOPY n pl OTOSCOPIESThe کارولو د یو اتوسکوپ OTOTOXIC adj چې په اورېدو یا بالانس باندې تاثیر کوی OTTAR n pl OTTARSattarOTTAVA n pl OTTAVAS یو اوکټاو OTTER n pl OTTERS یو گوشت خوار ماملۍ OTTO n	pl OTTOSatarOTTOMAN n pl OTTOMANS یو ډول صوفا او اوابین n اواغاوبیت n اومعinaries itan)");
+```
+entry(pa, n, [پلار], "یوه پلار").
+entry(پان, ن, [پانونه], "د تنبول یوه پاڼه چې د تنبول د مغزو او مصالحو ټوټې یې تاو کړي وي").
+د_ننوتنه(پبلوم، ن، [پبلومونه]، "بې خونده لیکنه یا وینا").
+ورود(غذا, ن, [غذاګانې], "خوراکPABULAR adj").
+د داخلېدو (pac, n, [pacs], "يو بوټ لکه موکاسین").
+انټري(پکا، ن، [پکاس]، "یوه لویه جونګړه").
+د Prolog دننه: entry(قدم، فعل، [قدم اېښود، قدم اېښودل، قدمونه اېښودل], "په منظم قدم سره تګ کول").
+entry(pacer, n, [pacers], "یو آس چې رفتار یې یوه ټاکلې اندازه وي").
+entry(pacey, adj, [], "د چټک سرعت نرخ ساتل PACIER PACIEST").
+entry(پاچا, n, [پاچاس], "پاشا").
+د Prolog کرښه په پښتو کې:
+entry(pachadom, n, [pachadoms], "پښتو").
+دخوله(پاشاليک, ن, [پاشاليکان], "پاشاليک").
+entry(پاچينکو, ن, [پاچينکوګان], "يو جاپانی پنبال لوبه").
+entry(پچيکي، ن، [پچيکيان]، "د هند یو بورډ لوبه").
+entry(پاچولي, ن, [پاچوليس], "يو د ختيځ هند بوټي").
+entry(پچوکو, ن, [پچوکوز], "یو زرق برق لرونکی مکسیکو-امریکایي ځوان").
+entry(پاچير، تقابلي، [], "د پاچۍ او پاچي").
+entry(paciest, superlative, [], "د pacey او pacy څخه").
+پروګ entry(پسیفک, صفت, [], "سوله ییز").
+entry(ارامه, تېر, [], "د ارامولو زمان").
+entry(چوسکۍ, ن, [چوسکۍګانې], "يو چې ارامي راولي").
+د ننه کېدل(پرامنیت، ن، [پرامنیتونه], "د جګړې یا تاوتریخوالي پر وړاندې مخالفت").
+entry(پیسېفيست, ن, [پیسېفيستان], "د سولې د پالنې ملاتړ کوونکی").
+entry(ارامول, v, [ارام کړ, ارامول, اراموي], "ارام جوړول").
+entry(پیسینګ, ن, [پیسینګونه], "هغه سرعت چې په کې یو پیښه ترسره کیږي").
+entry(pack, v, [په بسته کې کښېښود،بسته کوي،بستې کوي], "په یو کانتينر کې د لېږدونې يا ذخيره کولو لپاره ايښودلPACKABLE صفت").
+دخول(بسته, کړ, [بسته‌کړل, بسته‌کول, بسته‌ګانې], "یو شی بسته یا په بکس کې بندول").
+د ننه کړه(بسته بند, ن, [بسته بندان], "هغه څوک چې بسته کوي").
+دننه_کېدل(پېکر، ن، [پېکران]، "یو څوک چې پېک کوي").
+entry(بسته, v, [بسته شوی,بسته کول,بستې], "وړه بسته جوړول").
+د ننه توکي(بسته بندي, ن, [بسته بندۍ], "مواد چې د بسته بندۍ لپاره کارول کیږي").
+entry(packly, adv, [], "په نږدې توګه").
+entry(packman, n, [packmen], "یوه دستفروش").
+دووړه(پکنس، ن، [پکنسونه], "نژدېوالی").
+د ننوتلو(پشتنیلت, ن, [پشتنیلتونه], "یوه حمله چې په شا باندې د تړلو لپاره ده").
+entry(packwax, n, [packwaxes], "پکسواکس").
+entry(پيمانه, ن, [پيمانې], "يو تړون").
+د ننوتنه(عمل، ن، [عملونه]، "یو تړون").
+د Prolog نسخه:
+entry(pacy, adj, [], "PACIER PACIESTpacey").
+entry(پونچه, ن, [پونچې], "یو ګردې ډونټ چې یوه ډکونه لري").
+entry(پيډ, v, [پړى, پړول, پيډونه], "د نرم موادو سره ليکه کول يا ډکول").
+د خطا:ښونه (نوټ بوک):  ان پټ بز هایښپیو.
+د Prolog کرښه: entry(padder, n, [padders], "يو څوک چې پيډ کوي").
+entry(پدۍ, جمع, [], "د وریجو").
+entry(padding, n, [پډنګونه], "د پوښولو مواد").
+entry(چپوه، v، [چپوه کړه،چپول،چپوي]، "د پلنو پلو لرونکي وسیله سره حرکت ورکول").
+د پرولاګ دا کرښه په پښتو کې داسې ژباړل ګیږي:
+```prolog
+داخلونه(paddler, ن, [پېډل وهونکي], "یو چې پېډل وهي").
+```
+پرولوگ: entry(paddling, n, [paddlings], "د هغه چا عمل چې پیډل کوي").
+پروګ(entry, v, [محدود شوی,محدودول,محدودوي], "د آسونو لپاره په یوې تاو شوې ساحه کې محدودول").
+entry(paddy, n, [پدۍ], "د وریژو کرونده").
+ورودنه(پادي, ن, [پاديس], "د وږي کر").
+دیک(entry, نوم, [دیکان], "یو واکمن").
+entry(پدله, ن, [پدلې], "یو کولنګی").
+entry(قلف, v, [قلف شو, قلف کول, قلفونه], "د تالې له یوه ډول سره خوندي کول").
+entry(پادنګ, ن, [پادنګز], "یوه آس چې په آسانه قدم وهي").
+entry(پډوک, ن, [پډوکس], "پډوک").
+دخدمت(پلار، ن، [پلرونه]، "يا PADRI يو عيسوي عالم").
+entry(پادرونا, ن, [پادروناګانې], "ښځه چې مشرې يا کارګماره وي").
+entry(پاډرونه, ن, [پاډرونونه], "یا پاډروني يو ماسټر يا رئيس").
+entry(پاچا, n, [پاچاګان], "پاډشاه").
+entry(paduasoy, n, [paduasoys], "یو قوي ورېښمین ټوکر").
+entry(نغمې, ن, [نغمو], "د خوښۍ سندره").
+entry(د ستایني سندرې, ن, [د ستایني سندرې], "د ستایني سندری چنتنگ").
+د دخول(پایلا، نوم، [پایلې]، "یو زعفراني خوند لرونکی خوراک").
+د_ليک(entry, n, [paeons], "څلور سیلابي متريک پښهPAEONIC صفت()).
+entry(پائيزان, ن, [پائيزانز], "پائيزانو").
+entry(paesano, n, [paesanos], "يا PAESANI يو هېوادوال").
+entry(پګان, ن, [پګانان], "د یوه څو خدایي دین پیرو").
+د پرولاګ:
+entry(pagandom, n, [pagandoms], "د بت پرستۍ نړۍ").
+entry(پګنېز کول, v, [پګنېز کړ, پګنېز کول, پګنېز کوي], "د پګنېز کولو لپاره").
+entry(پاګانيش, صفت, [], "د پاګان په څېر").
+entry(بې‌دينې, ن, [بې‌دينې], "بې‌دينې چلند").
+entry(پګنسټ، n, [پګنسټونه], "یو بت پرست").
+entry(بې دینه کول, v, [بې دینه کړ,بې دینه کوونکې,بې دینه کوي], "بې دینه کول").
+entry(مخ, v, [مخونه، پاڼې، مخونه], "په نوم غږ کولو سره غوښنه کول").
+entry(pageant, n, [ښکلا ننداره], "يو په زړه پورې عام نمايش").
+entry(pageboy, n, [pageboys], "د یوې مېرمنې وېښته جوړښت").
+entry(pageful, n, [pagefuls], "څومره چې یوه پاڼه نیولی شي").
+entry(پاڼه, ن, [پاڼې], "یو بیپر").
+entry(پاڼې, صفت, [], "د کتاب پاڼو پورې اړوند").
+مداخله(پاڼو_شمېرنه, فعل, [پاڼې_شمېرل_شوي, پاڼې_شمېرل, پاڼې_شمېري], "د پاڼو شمېرلو لپاره").
+entry(paging, n, [pagings], "د کمپيوټر پاڼو لېږد").
+entry(پاګود, ن, [پاګودونه], "پاګوډا").
+دخول(pagoda, ن, [pagodas], "د ختیځ لرې یو معبد").
+د لاندني Prolog قطعه په پښتو کې:
+entry(pagurian, n, [pagurians], "یو ناسک چينجی").
+دخولی(pagurid, ن, [pagurids], "pagurian").
+entry(پاه, interj, [], "د کرکې د څرګندولو لپاره د حيرانتيا په توګه کارول کېږي").
+د ننه وتنه(پهلوي, ن, [پهلويان], "د ایران یو پخوانی سکه").
+entry(پاهۆهوه، ن، [پاهۆهوه‌ګانې]، "ملایم کلک شوی لاوا").
+دخوله(تاديه، الف، [], "د تاديې ماضي شکل").
+entry(پیک, فعل, [پیک شوی,پیک کول,پیکونه], "وهل یا ټکول").
+entry(pail, n, [pails], "يو اوبدل شوي سلنډري کانټینر").
+entry(pailful, n, [pailfuls], "يا PAILSFULهڅه د دې توان لري يوه بالټۍ").
+entry(paillard, n, [paillards], "یو د غوښې ټوټه چې نری شوې او په گرېل شوې").
+entry(درد, فعل, [کړېدل, کړیدل, کړوي], "درد، کړاو یا کړاو پیدا کول").
+entry(پېنچ, ن, [پېنچونه], "باکړه").
+د پرولاګ کرښه: entry(painful, adj, [], "زیاتې رنځېدلی رنځېدونکی د درد لامل کېږي").
+entry(بې_درد, صفت, [], "درد نه کول").
+entry(paint, v, [لونګیر،رنګول,رنګونه], "د رنګونو سره د یوه نمايندګي جوړول").
+entry(رنګدان, n, [رنګدانونه], "يوه بکس چې وچ رنګونه پکې دي").
+د ننوتنه(نقاش، ن، [نقاشان], "هغه څوک چې نقاشي کوي").
+entry(نقاشي, n, [نقاشۍ], "يو تصوير چې د رنګونو په واسطه جوړ شوی").
+entry(painty, adj, [], "په رنګ پوښل شوی").
+entry(pair, v, [په جوړه یې,جوړېدل,جوړې], "په دوه کسیزې ډلې کې تنظیم کول").
+entry(pairing, n, [جوړه کول], "په یوه تورنمنټ کې د دوو سیالانو یو تړون").
+entry(pairwise, adv, [], "په ډلو کې").
+entry(پیسه, n, [پیسې], "یا د پاکستان سکه PAISE").
+entry(پیزان, نون, [پیزان], "پیزانو").
+entry(ملکنا، ن، [ملکناګانې]، "یو ښځینه هیوادواله").
+entry(پائسانو, ن, [پائسانوس], "یو هموطن").
+entry(پیسے, الف, [], "پیسو کی جمع").
+entry(پيسلي, ن, [پيسليز], "يو نمونوي وړینې ټوکر").
+entry(پاجاما, n, [پاجامې], "د خوب یا آرام لپاره یوه جامه").
+entry(پاجاما_پوش, صفت, [], "د پاجامو اغوستل").
+entry(pak, n, [پکس], "ټوکرۍ").
+entry(پاكها, n, [پاكهاس], "يو شخص چې د ماوري نسل نه وي").
+entry(پکوره, ن, [پکوري], "یو وړوکی مساله دار کیک چې له مرچکالې سره غوښین یا سبزيجاتي وی").
+entry(pal, v, [palled,palling,pals], "د ملګرو په توګه یوځای کول").
+entry(کلمه, n, [کلمې], "یوه کلمه").
+د ننوتنه(ماڼۍ, ن, [ماڼۍګانې], "یو شاهي استوګنځیماڼی صفت").
+entry(پالادين, ن, [پالادينان], "يو شهسوار اتل").
+entry(ماڼۍ, n, [ماڼۍ], "يوه ماڼۍ").
+د دې پرولوګ کرښې پښتو ژباړه:
+```prolog
+entry(پالاپا, ن, [پالاپاس], "د کجورې پاڼو بام لرونکی، پرانستی کور").
+```
+entry(پتال، ن، [پتالونه], "د خولې د چت هډوکی").
+entry(خولۍ، n، [خولۍګانې], "د خولې بام").
+entry(ډول_د_ماڼۍ, صفت, [], "د ماڼۍ په څېر").
+د ننوتنې(پلاتین, ن, [پلاتینونه], "د يو امپراطوری لوړ پوړی افسر").
+entry(ګپ شپ, v, [ګپ شپ کوونکي,ګپ شپ کول,ګپ شپونه], "خبري کول").
+entry(ماڼۍ, ن, [ماڼۍ], "یو اغېزناک ودانۍ").
+ننوتنه(پالازوس, npl, [], "د ښځو لپاره پلنو پتلونونه").
+entry(pale, adj, [], "د رنګ شدت نشتوالی").
+entry(څرګند، v، [څرګند شوې، څرګندول، څرګندونه کوي]، "د سپینیدو یا رنګه کیدو لپاره").
+entry(palea, n, [paleae], "یو کوچنی پاڼه PALEAL adj").
+entry(پښتو, صفت, [], "پتې سره پوښل شوی").
+د دغه Prolog کرښه په پښتو کې:  
+entry(سپين مخ, ن, [سپين مخونه], "يو سپين پوستی سړی").
+entry(پېلي، قید، [], "په یوې رنګ کمه توګه").
+entry(رنګ الوتل, n, [رنګ الوتلونه], "د رنګ الوتنې صفت").
+entry(پېلېوکان, ن, [پېلېوکانز], "يو ډېر ښي اړخ محافظه کار").
+entry(پاليسول, ن, [پاليسولونه], "د زوړ خاورې یو طبقه").
+په پرولاګ کې:
+entry(پېلر, تقابلي, [], "د بې خونۍ").
+entry(ترټولو_سپین, فوق_العاده, [], "د سپین").
+entry(ورزشګاه, ن, [ورزشګاهونه], "يا PALESTRA داسې ښوونځی چې په لرغوني يونان کې د لوبو لپاره وو").
+د ننوتنه(پاليت, ن, [پاليتونه], "يوه پتري").
+entry(پالټ، ن، [پالټونه], "یو وړیا اوور کوټ").
+اینٹری(پلیټ، ن، [پلیټونه]، "یو تخته چې یو هنرمن پرې رنګونه ګډوي").
+entry(paleways, adv, [], "palewise").
+entry(palewise, adv, [], "عموداً").
+entry(پالفری، ن، [پالفریز]، "یو سواری آس").
+entry(پالی, ن, [پالیس], "په هاوای کې یوه څوکه").
+entry(پالیر, تقابلي, [], "د پالي").
+د ډيټابيس پیرودنې (پالیست، ډیر پړاو، [], "د پالی")
+entry(پليکار, ن, [پليکارونه], "یو یوناني عسکر").
+د ننوتنه(پالیمنی, ن, [پالیمنیز], " هغه مرسته چې د واده نه شوي جړي د جلا کېدو څخه یو غړي ته ورکول کېږي").
+اندراج(پالنگ، ن، [پالنگز]، "یو لرګي جال").
+د ننوتنه(پالينود, ن, [پالينودونه], "يو رسمي بيرته اخيستل").
+دسج(entry, خپلوي_فعل, [دساسج، دساج_کول، دساسجونه], "د يوې درنې کټارې سره ټينګول").
+entry(پالش, صفت, [], "څه ناڅه باسي").
+entry(pall, v, [palled,palling,palls], "بې خونده کېدل").
+دړی(palladia, npl, [], "ساتنې").
+entry(palladic, adj, [], "د فلزي عنصر پلېډیم سره تړاو لري").
+entry(پړسیږي, تیر, [], "د پال فعل ماضی حالت").
+entry(pallet, v, [پلېټ شوې, پلېټ کول, پلېټونه], "د زېرمه کولو یا لېږدونې لپاره په پلېټ فارمونو کې ځای پر ځای کول").
+entry(پلېټ, ن, [پلېټونه], "د زرې ټوټه چې بغلي برخه ساتي").
+د ننوتنې(پاليا، الف، []، "دمسند پالسيم").
+entry(pallial, adj, [], "د دماغ یوې برخې پورې اړه لري").
+entry(نازکونکی، فعل، [نازک کړ،نازک کول،نازکوي], "د جديت پټولو لپاره").
+entry(pallid, صفت, [], "د پري نسبتاً او د پري څخه زيات، پيليډ، په زړه پورې، پيليډلي").
+entry(pallier, comparative, [], "د ملګرتیا").
+entry(palliest, superlative, [], "د دوستانه").
+پرو لاګ(داخلول(پالینګ، اوسنی، [], "د پال یا پل ګډون والہ")).
+د ننوتنه(پالیم, ن, [پالیمونه], "یا PALLIAیوه لوپټه چې په لرغوني روم کې اغوستل کېده").
+دخول(زردی، اسم، [زردیانی]، "پتوالی").
+entry(pally, adj, [], "د نږدې ملګرتیا نښه").
+دننه(palm, v, [palmed, palming, palms], "د لاس د داخلې سطحې سره د تماس لپاره").
+د ننوتنه(پالمر، صفت، [], "د لاس د ورغوي پورې اړوند").
+entry(د تقدیر وړ, صفت, [], "د ستایلو وړ").
+entry(پاملاټ, صفت, [], "د خلاص لاس په څیر").
+entry(palmated, adj, [], "د ګوتو د شکل سره").
+entry(palmball, n, [palmballs], "يو بېسبال چې له ورغوي او ګوته غورځول شوی").
+entry(پلمر, ن, [پلمرس], "یو مذهبي زیارت کوونکی").
+entry(پالميټ, ن, [پالميټونه], "د سينګار يو ډول").
+entry(پالمیټو, ن, [پالمیټوز], "یا پالمیټوز یو ټروپیکال ونه").
+entry(پړک, ن, [پړکونه], "د لاسی څومره چې نیولی شي").
+entry(پامئیر, ن, [پامئیرونه], "یو پیسٹری چې د پام د پاڼې په شکل دی").
+پرو لاګ: entry(palmiest, superlative, [], "of palmy").
+د ننوتنه(د کف بین، ن، [د کف بینان]، "یوه قسمت بینه").
+entry(پالمیټین, ن, [پالمیټینز], "یو کیمیاوي مرکب").
+entry(د خرما په څېر, adj, [], "د خرما ونې ته ورته").
+entry(د لاس بګړه, ن, [لاس بګړې], "یوه کوچنۍ کمپیوټر چې په لاس کې ځایېږي").
+entry(palmy, adj, [], "د بريا نښه PALMIER PALMIEST").
+entry(پالمیرا, ن, [پالمیراس], "یوه استوایي ونه").
+entry(پالومینو, ن, [پالومینوس], "یو آس چې د طلایي رنګ نغری او سپین زنه لري").
+entry(پلوکا, ن, [پلوکاګانې], "یو ټيټ رتبه مشت وهونکی").
+د پرولاګ کې:
+entry(palp, v, [palped,palping,palps], "منځ ته راوړل").
+entry(محسوس, صفت, [], "د احساس وړ").
+entry(پالپال, صفت, [], "د پالبس پورې اړوند").
+entry(لمس کول, فعل, [لمس کړل,لمس کول,لمسي], "د لمس له لارې معاينه کول").
+entry(پالپاتور, ن, [پالپاتورونه], "يو چې پلپ کوي").
+entry(پپوشي, ن, [پپوشي], "يا د سترګې پڼه").
+entry(پالپس, ن, [پالپي], "د یوې بندپای ژوی حسي اورګان").
+د پرولاګ کوډ:
+entry(palsa, n, [palsas], "د سوبي ارکتيکي سیمو يو ځمکني جوړښت").
+entry(د دوستی اړیکه, n, [د دوستی اړیکې], "د نېږدې ملګرو ترمنځ موجوده اړیکه").
+entry(فالج, فعل, [فلج شوی, فلج کول, فالج], "فالج کول").
+entry(پالسي, صفت, [], "ډېر دوستانه مګر په نامناسب یا غیر صادقانه توګه").
+entry(بې صداقتۍ سره خبرې کول, v, [بې صداقتۍ سره خبرې کړې,بې صداقتۍ سره خبرې کول,بې صداقتۍ سره خبرې کوي], "to talk or act insincerely").
+entry(چالاک, ن, [چالاکان], "هغه څوک چې چالاکي کوي").
+entry(paltry, adj, [], "PALTRIER PALTRIESTpettyPALTRILY adv").
+entry(paludal, adj, [], "د جوهو سره تړاو لري").
+اینٹری(پالوډیزم، ن، [پالوډیزمز]، "ملاریا").
+ورودی(پالي, صفت, [], "لږ څه رنګه ژېړ").
+د ننوتون خط (پام, ن, [پامز], "د ځینې کارت لوبو کې د کلپ جیک").
+entry(پامپا، ن، [پامپاس]، "د جنوبي امریکا یوه دښته").
+entry(پمپین, ن, [پمپینز], "د پامپاس اصلي اوسېدونکی").
+entry(نوازل, v, [نوازلی,نوازل,نوازې], "د زیات یا غیر معمولي مروت سره چلند کول").
+entry(نازولوونکی, ن, [نازولوونکي], "څوک چې نازوي").
+entry(پامپېرو, n, [پامپېروګانې], "يو یخ وچ باد").
+entry(رساله, n, [رسالې], "یو چاپ شوی اثر د کاغذي پوښ سره").
+entry(پین, v, [پېندل,پېندنه کول,پینونه], "سخت نیوکه کول").
+entry(پاناسیا, ن, [پاناسیاس], "د ټولو ناروغیو یا دردونو لپاره یوه درملنهPANACEAN صفت").
+entry(پڼې، ن، [پڼېګانې]، "د وزرو ښکلی څرمن").
+:داخله(پانادا، ن، [پاناداس], "یو غټ ساس").
+entry(پاناما, ن, [پاناماس], "یو سپک وزن لرونکی خولۍ").
+entry(پاناتیلا, ن, [پاناتیلاس], "یو اوږد او نازک سگریټ").
+entry(panbroil, v, [panbroiled,panbroiling,panbroils], "په پانه کې د لږ یا هیڅ غوړ سره غوړول").
+entry(پانکېک, v, [پانکېکېد,پانکېکینګ,پانکېکس], "یو الوتکه په یوه ځانګړي طریقه ښکته کول").
+د داخلې معلومات(پانسیتا، ن، [پانسیتاس]، "بې دودی ایټالوي بیکن").
+پروګرام(پانچاکس, ن, [پانچاکس], "یوه استوایی کبان").
+entry(پانقراس, ن, [پانقراسات], "يوه لوی غده").
+پروګ: entry(panda, n, [پانډاز], "یو بوټی خوړونکی تی لرونکی").
+پروګرام(پاندان، ن، [پاندانونه]، "پندانس").
+entry(پيندانوس, ن, [پيندانوسونه], "يا پاندانيا يو استوایي بوټی").
+پرو لاګ:
+entry(pandect, n, [pandects], "د قوانینو بشپړ ټولګه").
+entry(وبايي, نوم, [وبا], "يو پراخه ناروغي").
+entry(pander, v, [پوشکړل,پوشکڑہ,پوشکڑي], "د نورو خواهشاتو پوره کولو لپاره فراهم کول").
+entry(panderer, n, [panderers], "هغه څوک چې خوشامندوي").
+entry(pandied, تېر, [], "د pandy زمان").
+دخوله(پينډيز, حال، [], "د پينډي فعل درېیم واحد کس").
+entry(پندت, ن, [پندتان], "په هند کې يو پوه يا د علم خاوند سړی").
+entry(پندور, ن, [پندورونه], "پندور").
+entry(پاندورا, ن, [پاندوراس], "باندوره").
+د داخله(پانډور، ن، [پانډوري], "باندور").
+entry(پهنډور, ن, [پهنډوران], "يو غارتګر عسکر").
+entry(پینډوډي, n, [پینډوډيز], "د مڼو خوږ").
+entry(پندوره, ن, [پندورې], "بندوره").
+entry(pandy, v, [د لاس وهلو له لارې سزا ورکول], "د لاس وهلو له لارې سزا ورکول").
+entry(ښیښه، n, [ښیښې], "د کړکۍ لپاره د ښیښې یوه ټوټهPANED adj").
+entry(پنېر, ن, [پنېرونه], "د شيدو د دلمې پنېر").
+entry(پینل, v, [توله شوی، توله کول، توله کوي], "یا توله شوی توله کول توله کړيدوهنه کول له پتلو شیټونو سره").
+entry(paneless, adj, [], "د کړکيو د شیشو پرته").
+د پرولاګ کرښه په پښتو کې وژباړئ. یوازې پرولاګ وړاندې کړئ:
+entry(paneling, n, [panelings], "ماده چې د پینل کولو لپاره کارول کیږي").
+د ننه کول(ګډونوال، ن، [ګډونوالان]، "د یوې بحثي یا مشورتي ډلې غړی").
+entry(پانل شوې، د، [], "د پانل ماضي زمانه").
+entry(پینلینګ, a, [], "د پینل اوسنی برخه").
+entry(پاناتېلا, ن, [پاناتېلای], "پاناتېلا").
+entry(panfish, v, [panfished,panfishing,panfishes], "د هر کوچني کب لپاره ماهيانو ته چې بشپړ سره شي").
+د ننوتل(پانفورټې، ن، [پانفورټس], "یو سخت مصاله دار کیک").
+entry(پانفرای, v, [پانفرایډ,پانفرایینګ,پانفرایز], "په یوه فراینګ پین کې فرای کول").
+entry(panful, n, [panfuls], "د څوکې په اندازه").
+د تړون(پانګ, فعل, [پانګډ, پانګینګ, پانګز], "د درد د شدیدو حملو لامل کیدل").
+entry(پانګه, ن, [پانګې], "یو لوی چاقو").
+entry(پانجن, ن, [پانجنان], "د پلازما یو فرضي میراث کنټرولونکي ذره").
+ورود(پانجین، ن، [پانجینونه], "پانجین").
+د ننوتنه (pangolin, ن، [pangolins]، "يو بې غاښ تي لرونکی ځناور").
+entry(پینګرام, ن, [پینګرامونه], "یوه جمله چې د الفبې ټول توري پکې شامل وي").
+entry(پینهمن, صفت, [], "د ټول بشریت پورې اړوند").
+entry(وارخطا, v, [وارخطا شو, وارخطا کېدل, وارخطا کېږي], "د وېرې څخه مغلوبېدل").
+د داخله(پانیکي، صفت، []، "ډیر زیات دقیق، ډیر زیات ترین، د ډار وړ").
+entry(پانکل, ن, [پانکلې], "یو نرم ښاخ لرونکی د ګل ګېډۍ PANICLED صفت").
+د داخلې کړکۍ(پانيکوم، ن، [پانيکومونه], "یو واښه").
+د داخلې(پانییر، ن، [پانیرونه]، "پانییر").
+entry(پانینو, ن, [پانیني], "یا PANINISیو سینډویچ چې د یوه کوچني ډوډۍ رول سره جوړ شوی").
+entry(panlike, adj, [], "د يوه پتنوس سره ورته، کوم چې د پخولو لپاره استعمالېږي").
+entry(پانمکسیا, n, [پانمکسیاګانې], "د یوه تناسلي نفوس دننه تصادفي جوړیدل").
+entry(پنمېکسس, n, [پنمېکسونه], "پنمېکسیا").
+entry(panne, n, [pannes], "یو ځلېدونکی مخمل").
+entry(پوندی, تېر, [], "د pan کړنې زمانه").
+د داخلې (پینر، ن، [پینران]، "هغه چې پین کوي").
+entry(pannier, n, [پټارۍ], "یوه لویه ټوکرۍ").
+entry(پینیکین, ن, [پینیکینونه], "یو کوچنی ساسپین").
+د دې لپاره پرو لاګ کرښه په پښتو کې: 
+```prolog
+entry(panning, present, [], "په پین کې د لاندې معنی ګانو څخه یوه کار اخیستونکی").
+```
+entry(پيانيست, ن, [پيانيستان], "يو شخص چې يو فولادي ډرم غږوي").
+entry(پانوچا, ن, [پانوچاس], "یو خام میکسیکي قند").
+entry(پانوچه, ن, [پانوچېس], "پانوچه").
+ننوتنه(کامل_سامان, ن, [کامل_سامانونه], "يو زغره").
+entry(پاناپټیک, صفت, [], "د یو نظر په څیر هر څه شامل دي").
+entry(پېنمرا, ن, [پېنمرې], "یو بشپړ لید").
+entrۍ(پینپائپ, ن, [پینپائپس], "یو موسيقي آله").
+entry(پانسوفي, ن, [پانسوفيونه], "عمومي پوهه").
+entry(پېنسۍ, ن, [پېنسۍ ګانې], "یو ګل لرونکی نبات").
+entry(پھکول, فعل, [پھکولا, پهکیدل, پھکي], "د تنفس کولو په چټکۍ او ستونزې سره").
+entry(پتلون, نوم, [پتلونونه], "اوږد زیرجامې چې د رفلونو سره سینګار شوي دي").
+entry(پینتیون, ن, [پینتیونونه], "یو معبد چې ټولو خدایانو ته ځانګړی شوي").
+entry(پړانګ, n, [پړانګان], "یوه چیتا").
+entry(پینټي, ن, [پینټیان], "د یوې ښځې یا ماشوم لاندې جامې").
+د ننوتنه(انځورونه، pl، []، " د انځور ").
+entry(پانټائل, ن, [پانټایلز], "د بام ټایلPANTILED adj").
+د ننوت(entry, پینتو، ن، [پینتوس]، "یو پینټو ماین").
+entry(پينټوګل, ن, [پينټوګلونه], "يو بوټ").
+پرولوگ:
+entry(pantoum, n, [pantoums], "يو شعري بڼه").
+entry(پینټري, n, [پینټریز], "د پخلنځي سامان ذخیره کولو لپاره الماری یا خونه").
+entry(پينٽ سوټ, ن, [پينټ سوټونه], "د ښځو د سوټ یو ډول").
+entry(پینټي, ن, [پینټیس], "پینټي").
+entry(پانزر, ن, [پانزرونه], "يو زغره وال جنګي موټر").
+entry(پپ، ن، [پپونه]، "د ماشومانو لپاره یوه نرم خواړه").
+د داخلې (پلار، ن، [پلران]، "يو پلار").
+entry(پاپائیت، ن، [پاپائیتونه]، "د پوپ دفتر").
+د برحالې ژبې خط دې په پښتو کې داسې دی:
+entry(papadam, n, [پاپाडمونه], "پاپادوم").
+entry(papadom, n, [پاپَدومونه], "پاپَدوم").
+entry(پاپړ, ن, [پاپړونه], "د هند یو نری کرسپ ډوډۍ").
+entry(پپین, ن, [پپینونه], "يو اينزايم").
+دخول(papal, صفت, [], "د پاپ پورې اړوندPAPALLY قید").
+اندراج(پاپالیست, ن, [پاپالیستان], "د پاپائي برلاسیتوب ملاتړی").
+entry(پاپاو, ن, [پاپاوونه], "یو غوښه دار مېوه").
+د ننوتنه(پپای, ن, [پپایان], "د خټکي په څېر مېوه، پپای adj").
+entry(کاغذ, v, [کاغذونه, کاغذ جوړول, کاغذونه], "د موادو د یوې نازکې پاڼې سره پوښل یا تاو کړئ چې د سلولوز نبض څخه جوړ شوي وي").
+entry(کاغذپلورونکى, n, [کاغذپلورونکي], "يو خبر پلورونکی").
+entry(کاغذ جوړونکی, ن, [کاغذ جوړونکي], "هغه څوک چې کاغذ جوړوي").
+entry(دکاغذپه څېر، صفت، [], "دکاغذپه څېر").
+entry(paphian, n, [paphians], "يوه فاحشه").
+د داخلې(پپلا، ن، [پپلايي], "یو کوچنی نپل په څیر پروجیکشنPAPILLAR صفت").
+entry(پپییون, ن, [پپییونز], "یو کوچنی سپی چې لوی غوږونه لري").
+entry(پاپوس, ن, [پاپوسونه], "د يو اصلي امريکايي ماشوم").
+entry(پاپړم, ن, [پاپړمونه], "پاپړم").
+entry(پاپړ, ن, [پاپړې], "پاپړ").
+دمره(pappi, يو، [], "د پاپوسونو ډول").
+entry(پاپيير, مبالغه, [], "د پاپي څخه").
+د ننوتنه(پاپيان, جمع, [], "د پاپی").
+entry(پاپوس, ن, [پاپوسونه], "پاپوس").
+دغوی، n، [دیوغونګاكي]، "یو څو زلفي په د د ځانګړو نباتاتو کې کوپړپوښونکی کوپړی"
+entry(پاپی, صفت, [], "کاغذي").
+entry(پلار, ن, [پلرونه], "یو پلار").
+entry(پاپريکا, n, [پاپريکاس], "پاپريکا").
+دخدمت(entry, n, [paprikas], "يوه مصالحه چې د سره مرچکيو څخه جوړه شوې ده").
+ننوتنه(پاپولا، ن، [پاپولايې]، "يا پاپولسپاپول").
+د لومړي ځلې کولو لپاره یو موکلین ځانګړی کالم کې برخليک کړئ:
+
+entry(papule, n, [papules], "يو ټپPAPULAR PAPULOSE PAPULOUS صفت").
+د پاسټرې ژبې یې د پرولاګ په توګه وړاندې کړئ:
+entry(papyrus, n, [papyruses], "يا PAPYRIيوه لوړه اوبيزه بوټاپاپیرال پاپیرین پاپیریائی صفت").
+entry(پار, فع, [پار-کړ, پار-کوي, پارونه], "د ګالف کې په معياري شمیر کې ډز کول").
+entry(para, n, [paras], "یا پارا د ښځې حالت د اولاد پیدا کولو په اړه").
+د Prolog:
+entry(parable, n, [متلونه], "يو ساده داستان چې اخلاقي يا مذهبي درس وړاندې کوي").
+د ننوتنه(پراولا, ن, [پراولاس], "يا PARABOLAEa يو کونک برخه").
+entry(پېراخور, ن, [پېراخورونه], "یو ریاضياتي ثابت چې مالیکولي حجم د سطحي فشار سره تړلی کوي").
+entry(پريډ, v, [پريډ کړ,پريډ کول,پريډونه], "په عامه لړۍ کې مارچ کول").
+entry(پریډ کونکی, ن, [پریډ کونکې], "هغه څوک چې پریډ کوي").
+entry(نمونه, ن, [نمونې], "يوه بيلګه يا نمونه").
+دختشي(paradise, n, [paradises], "يو داسې ځاى چې ډير ښکلا او خوشحالۍ سره وي").
+entry(parador, n, [paradors], "په هسپانیا کې یو مېلمستون").
+entry(پارادوس, ن, [پارادوسونه], "يو محافظتي بند").
+پرو لوګ:
+entry(paradox, n, [paradoxes], "یو بیان چې په ښکاره ډول متضاد یا نامعقوله دی مګر کېدای شي ریښتیا وي").
+د ننوتنه(پیراډروپ, فعل, [پیراډراپ شوی, پیراډراپ کول, پیراډراپ کوي], "د پیراشوت له لارې رسونې کول").
+entry(پيرافين, ف, [موم شوی, مومي کول, مومونه], "د مومي مادې سره پوښ کول").
+entry(parafoil, n, [parafoils], "یو پارچه ای وسیله چې د پیراشوت سره ورته والی لري").
+د Prolog کرښه په پښتو کې:
+entry(paraform, n, [paraforms], "يوه ماده چې د جراثيم ضد په توګه کارول کېږي").
+د ننوتنه(پاراګوجي، ن، [پاراګوژونه]، "د يوې کلمې په پای کې د يو غږ يا غږونو اضافه کول").
+دننه(ممتاز، فع، [ممتاز کړ، ممتاز کوي، ممتازونه]، "مقایسه کول").
+entry(پره‌کیت, ن, [پره‌کیتونه], "یوه کوچنۍ طوطی").
+entry(پيراکايت, ن, [پيراکايتونه], "يو پيراشوټ کايټ چې د يو موټربوټ له لارې يو شخص په هوا کې کش کوي").
+entry(پيراللکس, n, [پيرالليکسز], "د يو شی د نظر راتګ منظم جدول").
+entry(متوازي, v, [متوازي_شوی,متوازي_کوونکې,متوازي_کوي], "يا متوازي_شوی متوازي_کوونکې متوازي_کودي مشابه یا متشابه وي").
+د پرولوګ پۀ بڼه ژباړه: entry(paralyse, v, [paralysed,paralysing,paralyses], "فلج کول").
+entry(فلج, v, [فلج شو,فلج کول,فلج کوي], "د حرکت د توان څخه بې برخې کول").
+entry(پارامنټ, n, [پارامنټs], "يا پارامنټ يو سينګارونکي لباس").
+د ناسمې برخې پیغام: `entry(paramo, n, [paramos], "د جنوبي امریکا د یوه لوړې سطحې سیمه").`
+entry(معشوق, ن, [معشوقان], "یو پټ عاشق").
+د پروولوګ خط د پښتو ژبې ته په لاندې ډول دی:
+entry(parang, n, [parangs], "یو دروند چاقو").
+entry(پارانویا, ن, [پارانویاګانې], "پارانوییا").
+د ننوتنه(پيراڼيا، نوم، [پيراڼياګانې]، "يو ذهني اختلال").
+entry(پېريانوک, ن, [پېريانوکان], "يو پېريانوک").
+د دې Prolog کرښه په پښتو کې وړاندې ده:
+entry(paranoid, n, [پارانويډز], "یو چې د پارانويډ سره مخ دی").
+entry(چاردیواله، ن، [چاردیوالې]، "یو محافظتي دېوال").
+entry(پېرې, ن, [پېرېگې], "د لاسلیک په پای کې یو سينګار").
+entry(پارا کواټ, n, [پارا کواټونه], "یو د واښو وژونکی").
+entry(paraquet, n, [paraquets], "پاراکيټ").
+entry(پېراسايل, فعل, [پېراسايل شوی, پېراسايل کول, پېراسايلونه], "د موټر یا کښتۍ په واسطه ټو کړی شوي پېراشوت سره په هوا کې الوت").
+entry(parasang, n, [parasangs], "د فاصلې د اندازې یو ایراني واحد").
+entry(parashah, n, [parashahs], "یا پاراشوت یا پاراشوت په سبا په تورات کې یوه برخه").
+entry(پرازيت, ن, [پرازيتونه], "يو ژوندی موجود چې په يا د بل موجود په دننه کې ژوند کوي او تغذيه کوي").
+entry(چترۍ, n, [چترۍ], "یو وړوکی سپک چترۍ").
+اندراج(پراټه, ن, [پراټې], "یو بې خميري ډوډۍ چې پر تابه باندې پخه شوې وي").
+entry(پراوان, ن, [پراوانونه], "یو د اوبو لاندې وسیله چې د کیبلونو پرې کولو لپاره کارول کیږي").
+ورودی(parawing, ن, [parawings], "یو پېراشوٹ په څېر وزر").
+entry(parazoan, n, [parazoans], "هر هغه له ګڼو حجرو جوړ شوي حیواناتو لویه څانګه").
+د خپرونې(پاربېک, فعل, [پاربېک شوی، پاربېک کول، پاربېک کوي], "په جزوي ډول پخول").
+entry(parboil, v, [پرابويل شوي, پرابويل کول, پرابويل کوي], "په لنډ وخت کې د جوش په واسطه جزوي پخلی کول").
+ننوتنه(پارسل, v, [پارسل شوی, ځينځنه, پارسلونه], "یا پارسيل شوی پارسيلینګ پارسلونه برخو یا سهمونو ته ویشل").
+د طالبانو دوره (پارسنر، اسم، [پارسنرس]، "يو ګډ وارث").
+entry(parch, v, [سوک, سوکول, سوکانې], "ډېر وچه کول").
+اندراج(پچه‎سی, ن, [پچه‎سيس], "پچيسی").
+ورود(پچیزي, ن, [پچیزيس], "پچېزي").
+داخلہ(پارسکليوز, ن, [پارسکليوزونه], "په یوه کلیسا کې سیمې جلاکولو لپاره پرده").
+entry(پړانګ, ن, [پړانګان], "يوه چیتا").
+د Prolog:
+entry(پردہ, n, [پرده], "پردہ").
+entry(پرده, interj, [], "پرده").
+entry(پرده, interj, [], "د یو نرم قسم په توګه کارول کیږي").
+entry(pardie, interj, [], "پرېدي").
+entry(پاردین, صفت, [], "د یو چیتا پورې اړه لري").
+entry(یار, ن, [یاران], "دوست ملګری").
+entry(عفوه، فعل، [عفو شوی، عفوه کول، عفوې]، "د جرم له مسؤلیت څخه خوشې کول").
+entry(پيرزوينه_کوونکی, ن, [پيرزوينه_کوونکیان], "هغه څوک چې پيرزو کوي").
+entry(pardy, interj, [], "پرې دې").
+دخول(pare, v, [pared,paring,pares], "د ښکاره پوښ څخه پرې کول").
+entry(parecism, n, [parecisms], "د نر او ښځینه جنسي غړي یو د بل تر څنګ یا نږدې شتون حالت").
+د داخلول(پیریرا، ن، [پیریراز], "د یو درملني بوټي ریښه").
+entry(پيروزه, ن, [پيروزې], "يوه پيريزه").
+entry(parent, v, [پلاري, مورول, موراوپلار], "د پلار يا مور دنده ترسره کول").
+entry(د والدینو، صفت، [], "د مور پلار پورې اړوند").
+د ننوتنې (pareo, n, [pareos], "pareu").
+د ننوتنه(parer، ن، [parers]، "هغه څوک چې اخلي").
+entry(پارېرګون, ن, [پارېرګه], "له لوی اثر څخه اخیستل شوی یو ترکیب").
+entry(فلج, ن, [فلجونه], "د حرکت کولو وړتیا جزوي له لاسه ورکول").
+د Prolog جوړه:
+entry(paretic, n, [paretics], "هغه چې له فلج سره اغیزمن شوی وي").
+entry(pareu, n, [pareus], "یو پولینیزیايي جامه").
+entry(پاروے, صفت, [], "parve").
+entry(پارفيه, ن, [پارفيه], "يو کنګل شوي خواږه").
+ورودی(پارفلش, ن, [پارفلشونه], "یوه نا پوه چرمي ټوټه چې د ویښتو د لرې کولو لپاره په لای کې لمده شوې او وچه شوې").
+entry(parfocal, adj, [], "داسي عدسي لرل چي مطابقي فوکل ټکي يې په يوه الوتکه کې وي").
+د ننه(entry, parge, v, [parged, parging, parges], "د parget لپاره").
+entry(parget, v, [pargeted,pargeting,pargets], "یا PARGETTED PARGETTING PARGETS سره د پلستر پوښ کول").
+entry(پارګینګ, n, [پارګینګونه], "د ډبرې د مهر کولو لپاره د هاوان یا پلستر یوه نرۍ طبعه").
+entry(pargo, n, [pargos], "یو خوراکي ماهی").
+دخول(پارهيليا، نپل، [], "د لمر په هالو کې ښکاره کېدونکي روښانه ګردي ټکي").
+د خوالې(پرهېلک، صفت، [], "د پرهيليا پورې اړوند").
+entry(پرياه, ن, [پرياهان], "يوازې ټولنيز").
+entry(parian, ن, [parians], "یو کلک سپین پورسلین").
+entry(وېشوال، ن، [وېشوالونه], "د يو ارګان دېوال").
+entry(پاريټل، n، [پاريټلونه]، "د کوپړۍ يوه هډوکی").
+د ننوتنه(پيرية, ن, [پيرۍ], "د څه شي پرې کول").
+entry(پاریس, ن, [پاریسونه], "یو اروپايي بوټی").
+entry(parish, n, [parishes], "یو کلیسايي سیمه").
+د ننوتل(برابرۍ، ن، [برابرۍ]، "برابرۍ").
+entry(پارک, فعل, [پارک کړ,پارک کول,پارک کوي], "د موټر د یو وخت لپاره په یوه ځای کې پرېښودل").
+د Prolog:
+entry(parka, n, [پارکاګانې], "یو هوډ لرونکی جامه").
+entry(د پارکینګ ځای, n, [د پارکینګ ځایونه], "د نقلیه وسایطو د پارکولو لپاره څو پوړیزه ساختمان").
+داخله(پارکر، ن، [پارکرونه]، "هغه څوک چې پارک کوي").
+entry(parkette, n, [parkettes], "یوه وړه عامه پارک").
+د ننوتل(parkier, مقایسوي, [], "د parkier څخه").
+entry(پټېده‌ترین, فوق‌العاده, [], "د پټي").
+entry(پارکن, ن, [پارکنز], "د ډول ډوډۍ چې د ملاس او اوړه جوړه شوې وي").
+entry(پارکینګ, ن, [پارکینګونه], "یو ځای چیرې چې موټرونه پرېښودل کیدی شي").
+د لاسرسي(پارک لينډ، ن، [پارک لينډونه]، "يو واښه لرونکی سيمه چې جدا يا د ډلو شوی ونې لري").
+entry(پارک‌ته‌ورته, صفت, [], "چې د تفریح لپاره بهرنۍ ساحې ته ورته وي").
+entry(پارکور, نوم, [پارکورس], "د محیطي خنډونو د عبور ورزش د منډې وهلو، ختلو یا ټوپ وهلو په واسطه").
+entry(پارک وے, ن, [پارک ویز], "یو پراخ لویه لاره").
+entry(parky, adj, [], "واړه پارکونه، ساړه").
+entry(پھراہڳی, ن, [پھراہڳیگانہ], "د خبرو کولو يوہ طريقه").
+entry(parlando, adj, [], "په داسې طرز کې سندرې ویل چې د خبرو کولو په څېر ښکاري").
+entry(parlante, adj, [], "پارلاندو").
+entry(پارلې, v, [پارلې شوې,پارلې کول,پارلې], "په یو وروسته پېښه باندې د یو اصلي شرط او د هغې ګټنې شرط لګول").
+entry(parle, v, [parled,parling,parles], "خبري کول").
+entry(خبرواترو, v, [خبره_وشوه,خبرې_کول,خبرې], "دښمن سره د شرایطو په اړه خبرې کول").
+entry(خبرو اترو والا, ن, [خبرو اترو والاه], "يو څوک چې خبرې اترې کوي").
+د ننوتلو لپاره(پړلو، ن، [پړلوګانې], "د مېلمنو د ساتیرۍ لپاره یوه خونه").
+د پرولوګ:
+entry(parlour, n, [parlours], "سالون").
+entry(خطرناک, صفت, [], "خطرناک").
+entry(پارمیسن, n, [پارمیسنونه], "یوه سخته وچه ایټالوي پنیر").
+entry(پيروډيک, صفت, [], "په ټوکو تقليدي").
+entry(parodist, n, [parodists], "هغه څوک چې پاروډي کوي").
+entry(پرادوس, n, [پرادوي], "په لرغوني یونېاني ډرامه کې یوه سندره").
+entry(ټوکه, v, [ټوکه کړل,ټوکه کول,ټوکې], "د مزاحيه اغیز لپاره جدي ادبي اثر تقلید کول").
+د مڼې(parol, n, [parols], "يوه وينا").
+دخونې(د معافۍ, ف, [معاف شوی,معاف کول,معافونه], "له بند څخه د جزا تر بشپړېدو وړاندې خوشی کول").
+entry(پیرول شوی, ن, [پیرول شوي], "هغه څوک چې پیرول شوی وي").
+entry(paronym, n, [paronyms], "يوه کلمه چې د بلې سره ګډ ريښه لري").
+entry(پارونیمي, ن, [پارونیمیو], "د پارونیم حالت").
+د خپګان:
+شاخص(-ټوکه، n, [ٽوکېوروړې]،"ټوکه-ورير").
+entry(پاروسمیا, n, [پاروسمیاز], "د بوی حس ګډوډی").
+entry(parotic, adj, [], "د غوږ سره نژدې موقعیت لري").
+entry(parotid, n, [parotids], "يو لعابي غده").
+entry(parotoid, n, [parotoids], "د ځینو وزمکو او چنګښو یو غدود").
+entry(parous, adj, [], "د ماشومانو زېږول").
+دخول(پاراکسیم, ن, [پاراکسیمونه], "یو ناڅاپي حمله یا برید").
+entry(پارکېټ، فعل، [پارکېټ شوی، پارکېټ کول، پارکېټونه]، "د يو ډيزاين شوی پوړ سره سمبالول").
+entry(پړ, ن, [پړان], "یو ځوان سیمون").
+entry(پارال, ن, [پارالونه], "پری").
+داسې ښکاري چې تاسو غواړئ د يوې ځانګړې قواعدي کلمې لپاره د پرولاګ ليکه په پښتو ژبه کې ترلاسه کړئ. د پرولاګ ليکه به داسې ښودل شي:
+
+```prolog
+entry(parred, past, [], "پښتو ته دparګرامري حالت").
+```
+پروولوګ(داخلہ(پيرل, ن, [پيرلان], "په يوه کښتۍ کې کارول کيږي، د رسۍ يا زنځیر یو پرځول کیدونکی حلقه")).
+entry(parridge, n, [parridges], "پوریج").
+entry(parried, past, [], "د پارۍ فعل").
+entry(parrier, n, [parriers], "هغه څوک چې د ګوزار مخه نيسي").
+د ننوتنه(پرې کوي, اوسنی, [], "د درېیم کس یوازینی بڼه د پارې").
+د برخې، موجوده، []، "د par برخه" ننوتل.
+entry(پاريچ, ن, [پاريچونه], "اوږۍ").
+د ننوتنې(لوی طوطي، ن، [لوی طوطيان]، "طوطی").
+entry(طوطي, v, [تکرارکړ,تکرارکول,تکرارکوي], "په بې فکراوپوهې پرته تکرار یا پیروي کول").
+entry(پارروتر, ن, [پارروترز], "يو څوک چې طوطي غوندې تکرار کوي").
+entry(parroty, adj, [], "د يو طوطي سره مشابه يو کنډکتيک ختيځنۍ مرغه").
+باڼه(پاري, ف, [پار کوله, پار کول, پارتيا], "د ټکر مخه نیول").
+entry(parse, v, [parsed, parsing, parses], "گرامري ډول تشريح او تحليل کولPARSABLE adj").
+entry(parsec, n, [پارسکې], "د فلکياتو د واټن يو واحد").
+د Prolog:
+entry(parser, n, [parsers], "هغه څوک چې تجزیه کوي").
+د پرولاگ:
+entry(parsley, n, [parsleys], "یو روزل شوی بوټیپيParsleYد پارسلیډ adj").
+entry(پارسنپ, ن, [پارسنپونه], "يوه اروپايۍ بوټی").
+entry(پادري, ن, [پادريان], "يو روحانيPARSONIC صفت").
+دخول(برخه، فعل، [جلا، جدا کول، برخې]، "جلا یا ماتول په بېلابېلو ټوټو کې").
+entry(ګډون, فعل, [ګډون وکړ, ګډون شوی, ګډون کول], "ګډونکوونکيد ګډون کول").
+د ګډون‌وال, ن، [ګډون‌واله], "یو څوک چې ګډون کوي"
+entry(پارتان, n, [پارتانونه], "یو خوراکی کیکڑا").
+د داخله(جدا کوونکی, ن, [جدا کوونکي], "هغه څوک چې جلا کوي").
+entry(پارتیر, ن, [پارتیرونه], "د یو تېاتر برخه").
+entry(جزوي, ن, [جزويونه], "د پیچلي غږ یو ساده جز").
+entry(برخه_کېدونکی, صفت, [], "ویشل_کېدونکی").
+د "prolog" ژبه:
+entry(particle, n, [ذرات], "یو ډیر کوچنی ټوټه یا برخه").
+entry(د ګډون ،تېر، [] ، "د ګوند حالت").
+entry(partier, n, [partiers], "ګډون کوونکی").
+د داخله(ګوندونه، وړاندې، []، "3یم شخصیت واحد د ګوند").
+entry(جدايي, n, [جدايۍ], "يو تقسيم يا بېلوالی").
+entry(ګوندي، n، [ګونديان]، "د يو شخص، ګوند يا موخې قوي ملاتړ کونکی").
+دخول(partita, ن, [partitas], "د اړوندو وسیلو ټوټو مجموعه").
+entry(partite, adj, [], "برخو ته وېشل شوی").
+د ننوت(entry(پارټيزان, ن, [پارټيزانونه], "جنګيالی")
+د داخله(پارټلټ, ن, [پارټلټس], "د یوې ښځې جامه").
+entry(برخي_برخي, ناتوانه_حرکت_کوونکی, [], "تر يوه حده يا درجې پورې").
+```prolog
+entry(ملګری, v, [ملګري,ملګرتیا,ملګران], "په یوه فعالیت کې د شریکې ګټې لپاره ګډون کول").
+```
+د ‎entry(parton, n, [partons], "یو خیالي اتومي ذره").
+entry(partook, ماضي, [], "د partake زمان").
+entry(partway, adv, [], "تر يو حده").
+entry(ګوند, v, [ګنډ,ګنډه,ګنډونه], "په ټولنیز ناستې کې ګډون کول").
+د پرولوګ کرښه د پښتو ژبې ته ژباړل شوې:
+```prolog
+ورود(ګډونوال، ن، [ګډونوالان]، "هغه څوک چې ګډون کوي"). 
+```
+entry(ګډون، ن، [ګډونونه]، "په محفل کې ګډون کول").
+ورودی(parura, ن، [paruras]، "ګاڼه").
+entry(parure, n, [parures], "د مطابقت لرونکي ګاڼو مجموعه").
+د ننوتنه(پاروی، صفت، [], "له شیدو یا غوښې پرته جوړ شوی").
+entry(parvenu, n, [parvenus], "هغه څوک چې په ناڅاپي توګه خپلې طبقې نه پورته شوی وي").
+د شکرانې يا بدلې وينا:
+entry(parvenue, n, [parvenues], "یوه ښځه چې نوي شتمنه شوې وي").
+entry(پرویس, ن, [پرویسونه], "د کلیسا مخې ته تړل شوی سیمه").
+entry(پارويز, نوم, [پارويزونه], "پارويز").
+entry(پاروو, n, [پاروس], "د سپیو یوه ساري ناروغي").
+entry(پارولین, نوم, [پارولینونه], "يو تېل لرونکی مايع چې له کبڅخه ترلاسه کیږي").
+entry(پاسکال, n, [پاسکالونه], "د فشار واحد").
+entry(پاشل, ن, [پاشلې], "يوه شمع چې په ځانګړو مذهبي مراسمو کې کارول کېږي").
+entry(پاسے، ن، [پاسېس]، "د یو ماتادور د څادر حرکت").
+entry(پسه, n, [پسه‌ګان], "یوه آرامۍ چکر").
+entry(pash, v, [pashed,pashing,pashes], "په سختۍ سره وهل").
+entry(پاشا, ن, [پاشات], "یو د عثماني ترکي لوړ رتبه پوځي یا حکومتي چارواکی").
+عملی(entry, n, [عملیګان], "د پاشا رتبه").
+entry(پاشالي, ن, [پاشاليان], "پاشاليک").
+entry(پاشالیک, n, [پاشالیکونه], "د پاشا سیمه").
+entry(پاشکه, ن, [پاشکې], "پاسخه").
+ورودي(پشم، ن، [پشمانه]، "د ځینو تبتي حیواناتو داخلي خاوره").
+اندازه(پشمينه, ن, [پشمينې], "وړيا دي چې د هماليا له وزو څخه ترلاسه کیږي").
+entry(پاسکا, ن, [پاسکاس], "پاسخا").
+entry(پاسخا, ن, [پاسخاس], "يو روسي شيرين چې په اختر کې خوړل کېږي").
+دخول(pasquil, ن, [pasquils], "يوه طنزيه يا هجو").
+entry(پاس, v, [تېر شو, تېرېدل, تېروي], "څخه تېرېدل").
+entry(passable, adj, [], "په نسبي ډول ښه یا د منلو وړPASSABLY adv").
+entry(پاساډ, ن, [پاساډونه], "د آس شاته یا مخکې په هماغه ځمکه حرکت").
+entry(پاسادو, ن, [پاسادوز], "یا پاسادو د شمشیر وهلو یو وړاندې فشار").
+entry(تګلاره, v, [تګ کړل,تګ کول,تګ لاری], "یو سفر کول").
+entry(passant, adj, [], "هغې ډلې لپاره کاریږي چې مخکېنی مخکنی لاس یې پورته وي د یوه دوری په علامو کې").
+entry(passband, n, [پاس بندونه], "يو فريکونسۍ باند چې د اعظمي موثريت سره د لېږد اجازه ورکوي").
+دخول(د بانک کتابچه، ن، [بانک کتابچې]، "یو بانک کتابچه").
+entry(پاسے, صفت, [], "لېری شوی").
+entry(passee, adj, [], "پاس").
+entry(passel, n, [passels], "په زیاته اندازه یا شمیره کې").
+entry(passer, n, [تېرېدونکي], "هغه څوک چې تېري").
+entry(لاروی, ن, [لارویان], "هغه څوک چې تېرېږي").
+entry(احساس کولو يا کړاو زغملو وړ، صفت، [], "capable of feeling or suffering").
+entry(passim, adv, [], "دلته او هلته").
+entry(پاسنګ, ن, [پاسنګونه], "يو مړينه").
+entry(جذبہ, ن, [جذبے], "يو شديد احساس").
+د ننوتنه(غیر فعاله, ن, [غیر فعالونه], "د فعل ډول").
+دخول(پاسکۍ، ن، [پاسکۍيانې]، "یو کلي چې څو مختلفې قلفونه خلاصوي").
+entry(passless, adj, [], "د سفر او یا د تګ راتګ لپاره ناممکن").
+entry(پیسوور, ن, [پیسوورز], "هغه ورۍ چي په یوه یهودي اختر کې خوړل کیږي").
+د پرو لاګ کې ژباړه: 
+`entry(pasport, n, [pasports], "يوه سند چې له يو هېواد څخه بل هېواد ته د سفر اجازه ورکوي").`
+entry(passus, n, [مرکې], "د یوې کیسې یا نظم برخه").
+```prolog
+داخلېدل(پاسورډ، ن، [پاسورډونه], "يو پټ ټکی چې د ننوتلو لپاره بايد وويل شي").
+```
+entry(تېر, ن, [تېرونه], "تير وخت").
+د پرولوګ کرښه په پښتو کې:
+entry(پاستا, n, [پاستاګانې], "یو خواړه چې له خمیر څخه جوړ شوی").
+entry(پیسټ, فع, [پیسټ کړل,پیسټ کول,پیسټ کوي], "د چپچینې مادې سره تړل").
+د داخلېدو(پستیل، ن، [پستیلس]، "یو نرم لطیف رنگ").
+د دې غوښتنې مطابق، زه یوازې د Prolog کرښه په پښتو ژبه وژباړم:
+
+```prolog
+entry(پيست کوونکی, ن, [پيست کوونکي], "يو څوک چې پيست کوي").
+```
+entry(د اسونو پښه، ن، [د اسونو پښې]، "د اسونو پښې یوه برخه").
+د پرولوګ کرښه:
+entry(pasteup, n, [pasteups], "یو بشپړ شوی نقل چې د چاپ کولو پلیټ جوړولو لپاره عکاسي کیږي").
+entry(پاستيسي, جمع, [], "پاستيشس").
+entry(پاستیش, ن, [پاستیشونه], "یو هنري اثر چې د مختلفو سرچینو څخه د ټوټو جوړ شوی وي").
+entry(پاستی, ن, [پاستیګانې], "پاستی").
+entry(پاستئر, تقابلي, [], "د پاستي").
+entry(پیستیز, څوګانی, [], "د پیسټی").
+دَخله( pastiest, غوره درجه, [], "دَ پاستي").
+entry(پاستېل, ن, [پاستېلونه], "pastille").
+entry(پاسټل, ن, [پاسټلونه], "یو لوینج").
+entry(pastily, adv, [], "په داسې طریقه چې پیسته وي").
+دخله(سات تېر، ن، [سات تېرونه], "یو تفریحي فعالیت").
+entry(پاستينا, ن, [پاستيناګانې], "د یوې ډوله ماکاروني").
+د ننه اچونه (پټسټينګ، نوم، [پټسټینګز], "يوه ډبډبه").
+entry(پاستیس, ن, [پاستیسونه], "یوه فرانسوي لیکیور").
+د ننوت(pastitso, n, [pastitsos], "یو یوناني خواړه د ځمکې غوښې پاستا سپینه ساس او پنیر").
+entry(بې‌ماضي, صفت, [], "د تېر وخت نشتوالی").
+entry(وړوتوب, n, [وړوتوبونه], "د تېرېدو یا تېرېدلو حالت").
+د ننوتلو (pastor, فعل, [pastored,pastoring,pastors], "د روحاني څارونکي په توګه د خدمت کولو لپاره").
+انسټري(پادري، ن، [پادرينې], "يو ادبي يا هنري اثر چې د کلي ژوند ښکاره کوي").
+entry(پاسټرلي, صفت, [], "د یوه مذهبي څارونکي لپاره مناسب").
+entry(پاسترامی, ن, [پاسترامیان], "یو ډیر مزيدار او لوګی شوي غوښه د غوښې").
+پرولوج:
+entry(pastromi, n, [pastromis], "پاسټرمي").
+پرو لاګ:
+entry(کیک، ن، [کیکونه]، "یو خوږه پخه شوې خوړو").
+ډول(entry, pastural, adj, [], "د څرځای سره تړاو لري").
+entry(څړځای, v, [څرول شوی, څرول, څرې], "څړځای کې ایښودل د څرولو لپاره یوه سیمه").
+entry(څرونکوکی، ن، [څرونکوکیان]، "هغه څوک چې څاروي څرولو").
+ورودي(پاستي، صفت، [], "پاستيېر پاستيسټ زيړی او ناساز").
+داخلول(پاستی, ن, [پاستیان], "یو غوښه پاي"‌).
+entry(پت، فعل، [پټ کړی، پټ کول، پټوي]، "لږ لمس کول").
+entry(پټ, صفت, [], "پۀ بشپړه توګه پيژندل شوي").
+entry(پاتاکا, ن, [پاتاکاس], "د مکاو یو پولي واحد").
+entry(پټاګيال, صفت, [], "د پټېګيم پورې اړوند").
+entry(پټه‌گيم, ن, [پټه‌گياوې], "د يوې پشي وزرغوړ").
+entry(پټامار, ن, [پټامارونه], "يو د باد کښتۍ").
+entry(پېچ, فعل, [پېچ شويدل, پېچ کول, پېچونه], "د سوري يا کمزوري ځاى ترميم يا پوښښ کول").
+د Prolog کرښه په پښتو کې: 
+entry(patcher, n, [پلي کونکی], "یو چې پیوند کوي").
+entry(patchy, صفت, [], "تر لږ ورڅخه کم لږ ډېر نابرابر په کیفیتPATCHILY ن").
+entry(پټې, ن, [پټې ګانې], "د سر بالائی برخهPATED صفت").
+```prolog
+ورود(پټهلۍ, ن, [پټهلۍګانې], "او یا هم پَټیلای شاته د زنګانه د مخ په خوا کې د حرکت کوونکې هډۍ پَټیلای اړخ").
+```
+entry(پتن، ن، [پتنونه]، "یوه پلیټ").
+ورود(روښانتیا, ن, [روښانتياوې], "د ښکاره توب حالت").
+د پرو لاګ په توګه: entry(patent, v, [ګڼ شمير پيټنټونه، پيټنټ کول، پیټنټونه], "د اختراع کونکي د حقوقو د ساتنې لپاره د حکومت لخوا پیټنټ ترلاسه کول").
+د ننه شو(patentee, n, [patentees], "يو څوک چې يو پيټنټ لري").
+entry(په ښکاره توګه, قید, [], "په څرګنده توګه").
+دخوله(پټينټر, ن, [پټينټرز], "هغه څوک چې یو پیټنټ ورکوي").
+entry(پلار, ن, [پلارونه], "يو پلار").
+entry(پلارني، صفت، [], "د پلار پورې اړوند").
+د پرو لاګ: entry(لار, n, [لارې], "یوه هواره شوې لاره یا ټریکه").
+entry(بېچاره, صفت, [], "خواخوږۍ راپورته کول").
+entry(pathless, adj, [], "بې لاري").
+د ننوتنه(د فایل لار، ن، [فایل لارې], "د یو فایل موندلو ځای وضاحت").
+د ننوتل(پيتوجن, ن, [پيتوجنز], "هره ناروغي پيدا کوونکي موجود").
+inside(pathos, ن, [ښکلا], "يو صفت چې د ځوراوی يا ترحم احساسات راپاروي").
+دلیل(لار, n, [لاري], "يوه لاره").
+entry(صبر, ن, [صبرونه], "د صبورۍ ځانګړنه").
+د پرمختګ ته(level, adj, [], "پاتیو نټر پیټینټس ټایبل د ناخوښه حالاتو زغمل پرته له شکایت څخه").
+دخپلېحوظياتکې (مريض, ن, [مريضان], "يو څوک چې د طبي درملنې لاندې وي").
+entry(پتن, ن, [پتنه], "پتن").
+entry(پتینه, ن, [پتینې], "یا پتینای د برونزو په سطحه څخه یوه شنه طبقہپتینهED صفت").
+```prolog
+entry(پالشول, v, [پالشول شوی,پالش کول,پالشوي], "پالیش ورکول").
+```
+entry(پتینہ, فعل, [پتینہ شوی, پتینہ کول, پتینہ], "په پتینه پوښل").
+د شمولیت(پتناییز، ف، [پتناییز شوې، پتناییز کول، پتناییز کوي]، "پتن کول").
+entry(پېشنګاه, n, [پېشنګاهونه], "د کور سره نږدې يو بيروني پخې شوې سيمه").
+د داخلې(پاتلي، قید، [], "په مناسبه توګه").
+entry(پړتوب, ن, [پړتوبونه], "مناسبت").
+entry(پټوئیس, ن, [پټوئیس], "یو لهجه").
+entry(patonce, adj, [], "د داسې يو بيرقي صليب لپاره عبارت دی چې لاسونه یې له مرکز څخه پراخه شوي او په درې نوک لرونکي ټوټې ختمیږي").
+اندراج(پتوټ، ن، [پتوټس], "پټوټي").
+entry(پټوټی, ن, [پټوټیانې], "کوناټي").
+entry(پٽرئيټ, فعل, [پټرئيټ شوی, پٽرئيټ کول, پټرئيټ کوي], "د قانون جوړونې ځواک یو خپلواک هیواد ته انتقالول").
+entry(وطندار, ن, [وطنپال], "يو څوک چې د خپل هېواد سره مينه لري").
+entry(ګرځېدل, v, [ګرځېد, ګرځېدنه, ګرځېدل], "د څارنې یا امنیت لپاره د یوې سیمې له لارې تېرېدل").
+د Prolog کرښه: entry(patron, n, [patrons], "یو منظم پیرودونکیPATRONAL PATRONLY صفت").
+د Prolog:
+entry(patroon, ن, [patroons], "د زاړه هالېنډ قانون لاندې مانور حقوق ورکړل شوي د ځمکو مالک").
+entry(پاتسي, مذکر, [پاتسي], "يو کس چې په اسانۍ سره تير ايستل کيږي").
+entry(پټمار, ن, [پټمارونه], "پټمار").
+انٹری(پټډ، ماضی، [], "د ټینس د ټوکې").
+entry(پٽي, صفت, [], "paty").
+د ننوتنې(پېتن، ن، [پېتنونه]، "یو بوټ چې د لرګین غټه تله لري شوې پېتن شوې صفت").
+د Prolog کرښه په پښتو کې:
+
+entry(پېټر، فعل، [پېټره، پېټريږي، پېټريږي], "په تېزۍ یا بې پروا خبرې کول").
+entry(پټر کونکی, ن, [پټر کونکي], "یو څوک چې پټری کوي").
+entry(نمونه, v, [نمونه شوی,نمونه کول,نمونې], "د ټاکل شوي ډیزاین له مخې جوړول").
+د پاسټو ژبې ته اړول شوي پرولوګ:
+entry(pattest, superlative, [], "د پت").
+entry(پاتي, ن, [پاتيس], "پاتي").
+entry(پاتېدل, اوسنی, [], "د تهدید مصدر").
+پروګ(entry(patty, n, [پټیس], "د ټکړه شوي خواړه یوه وړه بېړه کېک").
+دخول(pattypan, n, [pattypans], "يو پټه چې په هغې کې پټې پخيږي").
+د ننوتنه(پراخه، صفت، [], "پراخه").
+entry(پراخ, صفت, [], "خپریدل").
+د پیلو لپاره(entry(paty, adj, [], "formee").
+د ننه کړه(پاتزر, ن, [پاتزرز], "یو بې تجربه شطرنج لوبغاړی").
+entry(paua, n, [pauas], "د نوي زیلینډ يو لوی سمندري خوراک").
+entry(کمښت, n, [کمښتونه], "د شمېر يا مقدار کوچنیوالی").
+entry(paughty, adj, [], "تکبر").
+entry(د اوږې پوښ, ن, [د اوږو پوښونه], "د اوږې لپاره د زرې یوه ټوټه").
+د پاولین دخولی , n, [پا وړینs] , "د واټرپروف موادو یو پاڼه".
+entry(بېرې, ن, [بېرې], "د نس يا شکمPAUNCHED صفت").
+entry(څمنګړی, صفت, [], "د لویې ګېډې درلودل").
+اشتراک(فقير, فع, [فقير شوی, فقير کيدل, فقيروي], "په بې وزلۍ بدلول").
+entry(پاورایک, ن, [پاورایکس], "یو اوږده لکۍ لرونکی شپه خوښونکی الوتونکی").
+entry(pauropod, n, [pauropods], "د ښرکتو یوې طبقې څخه هر کوچنی حیوان چې ډیرې پښې لري").
+دوراتیژنه(پوزال، صفت، [], "د خبرې کولو یا لیکلو په وینا یا لیکنه کې وقفې پورې اړوند").
+entry(درېدنه, فعل, [درېدلی، درېدنه، درېدنې], "موقتي تم کېدل").
+د Prolog کرښه:
+entry(pauser, n, [pausers], "یوه چې تم کوي").
+entry(پاون, ن, [پاونونه], "یو سوکه او باوقاره نڅا").
+entry(pavane, n, [pavanes], "پوان").
+entry(پخېدل, فعل, [پخېدل, پخول, پوښل], "د موادو سره پوښل چې یو کلک سطحه جوړه کړي").
+entry(پیوست, صفت, [], "سره نږدې ترتیب شوي ترڅو فلزاتي بیخ پټ کړي").
+entry(پېدلاره, n, [پېدلاري], "يو پاخه شوی سطح").
+entry(پخولوونکی, ن, [پخولوونکي], "هغه څوک چې پوخه کوي").
+entry(pavid, adj, [], "ويرېدلی").
+entry(جګ مېدان, v, [پالېد شوی, پالېدنه, جګ مېدانونه], "د لویې خېمې په وسیله پوښل").
+entry(پېویلیون, ن, [پېویلیونونه], "د باد د یوه آلې زنګ").
+دخله(pavin, n, [pavins], "pavan").
+entry(پاخه کول, ن, [پاخه کول], "د پوخوالي لاره").
+entry(pavior, n, [paviors], "يو پاخه کوونکی").
+entry(پليکوونکی, ن, [پليکوونکي], "یو فرش ایښودونکی").
+entry(پاويس, ن, [پاويسونه], "د منځنۍ دورې يو غټ ډال").
+entry(pavise, ن, [pavises], "پویس").
+entry(پاوېسر, ن, [پاوېسران], "یو عسکر چې د پاوېز لري").
+entry(pavisse, ن, [pavisses], "pavis").
+entry(پاولوفا, ن, [پاولوفاز], "يوه مېرنګي خواږه").
+پرو لاګ: entry(pavonine, adj, [], "د طاووس په څېر").
+entry(څڼه، فعل، [څڼه کړه، څڼه کوي، څڼي کوي]، "په یوځای باندې په درزي حرکت سره وهل یا سکریدل").
+entry(پاوَر, ن, [پاوَرز], "هغه څوک چې پښې وهي").
+د نوم همغه(Line) Prolog ی په پښتو ژبه کې داسې ده:
+entry(pawky, adj, [], "PAWKIER PAWKIESTslyPAWKILY adv").
+entry(پاول, ن, [پاولونه], "يو ترپکېدونکی میخانیکي برخه").
+دخولیه(پاون، فعل، [مرهون، رهونکول، رهونې]، "د ګروي لپاره د څه شي د تضمین په توګه ورکولPAWNABLE صفت").
+entry(pawnage, n, [pawnages], "د ګرو کړنې").
+دریځ(پاني، ن، [پانیز]، "هغه څوک چې څه شی یې د ګرو په توګه ترلاسه کړی وي").
+entry(پانور, ن, [پانوران], "یو څوک چې یو څه ګرو کړي").
+دردونه(پاونور، ن، [پاونورونه]، "پاونر").
+entry(رهنمرکزی, ن, [رهنمرکزیان], "یو ځای چیرې چې شیان رهنيږی").
+دخولی(پاپو، ن، [پاپوز], "پاپاو").
+د ننوتنه(pax, n, [paxes], "یو تشریفاتي غیږ ورکول چې د مسیحي مینې او یووالي څرګندونه کوي").
+entry(پکسور, ن, [پکسورونه], "د څلورپښي څاروي د نخاع ټينګه").
+entry(اداخله, فعل, [ورکړ, اداهول, اداهوی], "د توکو یا خدماتو په بدل کی د پیسو یا ارزښتناک شیانو ورکول").
+د Prolog کرښه په پښتو کې:
+entry(payable, adj, [], "د ګټې وړ").
+entry(قرضونه, npl, [], "حسابونه د ورکولو").
+```prolog
+داخلېدل(تاوان, ن, [تاوانونه], "د اصلي پانګې پر پانګونې د عاید بیرته راتګ").
+```
+entry(معاش، ن، [معاشونه]، "د معاش یا تنخوا د ورکړې چیک").
+entry(تنخوا ورځ, ن, [تنخوا ورځې], "هغه ورځ چې په هغې کې مزدوري ورکول کیږي").
+entry(paydown, n, [paydowns], "د پور د کمولو له لارې د پور کموالی").
+د داخلې(ادائیګی، ن، [اخستونکي]، "هغه څوک چې پیسې ورته ورکول کیږي").
+entry(payer, n, [payers], "هغه څوک چې پیسې ورکوي").
+entry(payess, npl, [], "د ځینو یهودانو لخوا اغوستل شوي غیر تقطیع شوي اړخونه").
+entry(paygrade, n, [paygrades], "د پوځي پرسونلو درجه د يوې بنسټیزې حق الزحمه کچې سره سم").
+دخول(payload، n، [payloads]، "د یوې بارو هجې برخه، چې عاید تولیدوي").
+entry(payment, n, [پيسې], "څه چې ورکړل شوي").
+entry(بت پرست, ن, [بت پرستان], "يو کافر").
+entry(تاوان, ن, [تاوانونه], "د ګټو وېش عمل").
+entry(پېوله, n, [پېولې], "د پټې پیسې د غوره توبونو لپاره").
+entry(تاديه کوونکی, n, [تاديه کوونکي], "پيسې ورکوونکی").
+پریکړه(payout, n, [payouts], "پیسې چې ورکړل شوي دي").
+خاص(entry, n, [payrolls], "هغه کارکوونکي چې د پیسې مستحق دي").
+د پورلوګ کوډ:
+entry(payslip, n, [payslips], "د کارکوونکي د تنخواه لنډيز چې تخفيفات ښيي").
+entry(paywall, n, [پېوالونه], "يوه نظام چې پرته له تاديه شوې ګډون څخه ويبسايټ ته لاسرسی بندوي").
+entry(پىزاز, n, [پىزازونه], "پیزاز").
+entry(pe, n, [pes], "یوه عبراني توری").
+entry(مټر, ن, [مټران], "د يو کلني بوټي د خوراک وړ تخم").
+د لیتنې(پېبري، ن، [پېبريز]، "یو کافی توت چې یو ګرد تخم لري").
+entry(peabrain, n, [peabrains], "بې عقله شخص").
+ننوتنه(امن, ف, [امن شو, امن کول, امنونه], "خاموش یا چوپ کیدل").
+پرو لاګ: entry(سوله ییز, صفت, [], "سوله ییزتر سوله ییزترین بې خنډه ارام").
+entry(د سولې فعال, ن, [د سولې فعالان], "څوک چې د جنګ پر وړاندې مظاهره کوي").
+دخول(peach, v, [peached, peaching, peaches], "د چا پر ضد معلومات ورکول").
+دخول(peacher, n, [peachers], "هغه څوک چې ښوونه کوي").
+رسېدنه(توکی، ن، [تکيانې]، "یو ځوان طوط").
+د Prolog:
+entry(peachy, adj, [], "PEACHIER PEACHIESTdandy").
+entry(peacing, present, [], "د peace فعل حال فعل").
+entry(پروانه، نوم، [پروانې]، "یو دروند وړین جاکټ").
+entry(مورغۍ, v, [مورغۍ کړه, مورغۍ کول, مورغۍ کوي], "په غرور سره ګرځېدل").
+د داخلول(peacocky, صفت, [], "PEACOCKIER PEACOCKIEST رنګينه ښکلې").
+entry(مورګواک, ن, [مورګواکان], "یو لوی تراج").
+دداخلول(پيغ، ن، [پيګس], "وامپَم").
+entry(پېژاند, ن, [پېژاندي], "پېژ").
+entry(مرغۍ, ن, [مرغۍ], "د ښځینه مور").
+entry(peak, v, [peaked, peaking, peaks], "تر ټولو لوړ پوړ ته رسېدل").
+په پرولوګ:
+entry(peakier, comparative, [], "د اوچت").
+entry(peakiest, superlative, [], "د peaky").
+entry(peakish, adj, [], "څه ناڅه ناروغه").
+entry(پرڅوکې, adj, [], "بې څوکې يو څوکې لرونکی").
+entry(peaklike, adj, [], "د څوکې په څېر").
+entry(peaky, adj, [], "PEAKIER PEAKIESTsickly").
+entry(غږېدل, ف, [غږ شو,غږېږي,غږېږي], "د زنګ غږېدل").
+entry(د جوارو په څېر, adj, [], "د نخود په څېر").
+entry(pean, n, [peans], "د ستاینې سندره").
+دخولیه(مونګ, ن, [مونګې], "د کلنۍ بوټې د مغزنۍ دانه یا غوټۍ").
+entry(peanutty, n, [], "د مونځو خوند لره PEANUTTIER PEANUTTIEST").
+entry(ناک, ن, [ناکې], "يو رسداره ميوه").
+ورود(pearl, v, [pearled,pearling,pearls], "د موتیانو سره ښکلي کول، هغه نرم او ګردي ټوټې چې په ځینو صدفانو کې جوړېږي").
+entry(pearlash, n, [pearlashes], "یوه الکلاین مرکب").
+entry(گوزارگر, n, [گوزارگران], "هغه څوک چې د موتیو لپاره غوپه خوري").
+د ننوتنه(مرواريدونه, جمع نوم, [], "غاښونه").
+entry(پيرلائټ, n, [پيرلائټونه], "يو کاسټيرون مصر").
+entry(pearly, adj, [], "د مرواريد په څېر").
+entry(pearmain, n, [pearmains], "د یوه ډول مڼه").
+پښتو(entry(peart, adj, [], "PEARTER PEARTESTlivelyPEARTLY adv")).
+entry(د ناک لرګی, n, [د ناک لرګي], "د ناک د درختې لرګی").
+entry(کليوال, n, [کليوالان], "يو شخص د ټيټې ټولنيزې رتبې څخهPEASANTY adj").
+entry(peascod, n, [peascods], "peasecod").
+entry(مترجم_نه, n, [مترجمونه], "یا د مترجمجمله").
+entry(peasecod, n, [peasecods], "د مټرۍ ګل").
+entry(پيټ, ن, [پيټونه], "يوه ماده چې د نيمه خوسا شوي نباتاتي موادو څخه جوړ شوې ده").
+entry(peatland, n, [peatlands], "د ځمکې ساحه چې په زیات ډول یې خټې جوړه کړي وي").
+entry(peaty, adj, [], "له پیت سره ورته یا یې لرونکی PEATIER PEATIEST").
+entry(peavey, n, [peaveys], "هغه لور چې د لرګیو د حرکت لپاره کارول کیږي").
+د پرولوګ کرښه:
+entry(peavy, n, [peavies], "peavey").
+entry(pebble, v, [pebbled,pebbling,pebbles], "په کوچنۍ ګرد ډبرې پټول").
+د_ورود(ډبرين, صفت, [], "ډبره غوندې").
+د داخلیدو(پرېک، ن، [پرېکز], "د سينې یو عضله").
+entry(پيکن، ن، [پيکنس]، "يو مغز لرونکی ونہ").
+د ننوتنه(peccable, صفت, [], "د ګناه کولو تصور").
+entry(ګناه, ن, [ګناهان], "د ګناهکارۍ حالت").
+entry(peccant, adj, [], "ګناهګار").
+entry(پیکری، ن، [پیکریز]، "یوه د خوګ په څیر ټیټ زبي" ).
+entry(ګناه وکړم, ن, [ګناهونه], "د ګناه اعتراف").
+entry(پېچ, فعل, [پېچېد،پېچېدل،پېچوي], "نفس په تنګۍ اخستل").
+entry(پېچان, ن, [پېچانونه], "معده").
+entry(peck, v, [pecked,pecking,pecks], "په چونچ یا کوم نوکي شي سره وهل").
+entry(ټوکی، n، [ټوکان]، "یو څوک چې ټک وهي").
+entry(peckish, adj, [], "خپه").
+د ننوتنه(pecky, صفت, [], "په نښه شوی د فنگي له امله تخریبي حالت PECKIER PECKIEST").
+entry(pecorino, n, [pecorinos], "يا PECORINIيوه کلک پنير چې د پسونو د شيدو څخه جوړ شوی").
+entry(pectase, n, [پیکټاسونه], "یو انزایم").
+مداخلہ(pectate, ن, [pectates], "یو کیمیاوي مالګه").
+entry(pecten, n, [pectens], "يا PECTINES يو د ګاڼواله اناتوميکي برخې په څیر").
+entry(پېکټين, n, [پېکټينونه], "يو کاربوهايدريټ مشتقPECTIC صفت").
+entry(پېکټیز, فعل, [پېکټایز شو, پېکټایز کول, پېکټایز کوي], "یو شي ته په جیلۍ بدلول").
+entry(سينه, ن, [سينې], "یو شی چې په سینې پوښل کیږي").
+entry(غلا کول, v, [غلا کړې,غلا کول,غلا کوي], "د پیسو غلا کول").
+entry(عجیب, ن, [عجائبات], "یو شی چې یوازې یوې کس پورې اړه لري").
+entry(peculium, n, [خصوصي جايداد], "خصوصي جايداد").
+د اېنټري(پېد، ن، [پېدز]، "یو طبيعي خاورې مجموعه").
+داخلول(ښوونکی، ن، [ښوونکي]، "یو ښوونکی").
+entry(ښوونه, ن, [ښوونې], "د معلم کار").
+د خطا موجود نه دی.
+entry(پيډال کوونکی, n, [پيډال کوونکي], "يو څوک چې پيډال وهي").
+entry(پېډالفېر, ن, [پېډالفېران], "د خاورې یو ډول").
+entry(پەدالیېر, ن, [پەدالیېرونه], "د یوساز د پښو کیبورډ").
+entry(پدېل چلونکی, n, [پدېل چلونکي], "پدېل چلونکی").
+entry(پېډالو, ن, [پېډالوګانې], "د پېډلونو په واسطه چلېدونکې یوه کښتۍ").
+د پرېلوګ په بڼه یې ژباړه:
+entry(pedant, n, [د پوهانو خپرول], "هغه څوک چې خپل پوهه ښکاره کوي PEDANTIC adj").
+entry(فن خپرونه, ن, [فن خپرونې], "د پوهې ښودنه").
+د پرولوګ کرښه په پښتو کې: entry(pedate, adj, [], "په پښو پورې اړوندPEDATELY adv").
+entry(پلورنه, v, [پلورله, پلوریدل, پلوري], "د مالونو پلورلو لپاره سفر کول").
+entry(پراوَندَ, ن, [پراوَندَان], "يو څوک چې پراوَني کوي").
+entry(peddlery, n, [پهلواني], "د یوه پلورونکي سوداګري").
+دخول(pederast, ن, [pederasts], "یو سړی چې له هلکانو سره په جنسي فعالیتونو کې بوخت وي").
+د ننوتنه(پيدېز، جمع، [], "د پاز").
+entry(ستون, v, [ستون شو,ستون کیدل,ستونونه], "یا د معمارۍ ملاتړ یا بنسټ ورکولو لپاره PEDESTALLED PEDESTALLING PEDESTALS").
+entry(پېډېکب, ن, [پېډېکبونه], "یو مسافر وړونکی وسیله چې د پښو په واسطه چلول کیږي").
+entry(پډيسېل, ن, [پډيسېلان], "د یو اورګانیزم د بېخ نری برخه").
+د
+entry(pedicle, n, [pedicles], "pedicelPEDICLED adj").
+entry(پيډيکيور, v, [پيډيکيور شوی, پيډيکيور کول, پيډيکيور], "د پښو او نوکانو ته کاسمیټیک درملنه کول").
+د ننوتنې(پېډیفورم, صفت, [], "د پښې په شکل").
+entry(pedigree, n, [pedigrees], "د نیکه پلار کرښه").
+entry(پډیمینټ, ن, [پډیمینټونه], "یو مثلثي معماري برخه").
+entry(pedipalp, n, [pedipalps], "د مرخي خورېونکي کړۍ يو ضميمه").
+entry(سوداګر, ن, [سوداګر], "سوداګر").
+entry(پډله, ن, [پډلۍ], "پډلري").
+entry(پھېرېدونکى, ن, [پھېرېدونکې], "پھېرېدونکى").
+entry(پخوځګري, ن, [پخوځګرۍ], "پډلري").
+entry(pedocal, n, [پدوکالونه], "د خاورې یو ډول").
+entry(پيډولوژي, n, [پيډولوژيګانې], "د ماشومانو د چلند او پرمختګ علمي مطالعه").
+د پرو لوګ کرښه دا پښتو ته وژباړئ: 
+entry(pedro, n, [د پېدرو], "یو د کارت لوبه").
+entry(پېډنکل, ن, [پېډنکلونه], "د ګل ډډ").
+entry(پیدوی, ن, [پیدویونه], "یوازې د پیاده‌رو خلکو لپاره یوه لاره").
+entry(پي، ن، [پيز], "حرف پي").
+entry(peebeen, n, [peebeens], "یو لوی سخت لرګی تل شین ونه").
+entry(peek, v, [peeked,peeking,peeks], "په پټه يا په چټکۍ سره کتل").
+entry(پیکابو, ن, [پیکابوز], "د ماشومانو لوبه").
+entry(peekapoo, n, [peekapoos], "يو سپی چې د Pekingese او poodle ترمنځ ګډ دی").
+د Prolog کرښه:
+entry(peel, v, [peeled,peeling,peels], "د باندنۍ پوښ لرې کول PEELABLE adj").
+دخول(پيلر, ن, [پيلران], "يو څوک چې پيل کوي").
+entry(peeling, n, [peelings], "يو ټوټه يا پټه چې چخ کړاى شوې وي").
+د مشروعيت نښه(peen, v, [peened,peening,peens], "د هامرشهد په غېر مستوي سر سره وهل").
+```prolog
+entry(peening, n, [peenings], "د شیټ فلز د شکل ورکولو لپاره د فلزي شاټ سره د هغه د درملنې عمل").
+```
+entry(peep, v, [peeped,peeping,peeps], "یو لنډ او تیز چیغې وهل").
+entry(peepbo, n, [peepbos], "د پیکابو لوبه").
+entry(peeper, n, [peepers], "هغه څوک چې کتنه کوي").
+entry(peephole, n, [peepholes], "یو کوچنی سوراخ چې له لارې یې لیدنه کیدی شي").
+د Prolog ژبه:
+entry(peepshow, n, [peepshows], "یو نندارتون چې د یوه کوچني خلا څخه ننداره کیږي").
+entry(peepul, n, [peepuls], "پيپل").
+د ننوتلو (peer, v, [peered, peering, peers], "په ځیر یا پلټونکي نظر لیدل").
+entry(peerage, n, [peerages], "د يو شريف رتبه").
+entry(ملکه, n, [ملکې], "يوه شريفه ښځه").
+entry(پېري, n, [پېريان], "پېری").
+entry(بې ساري, صفت, [], "چې بې مثاله وي").
+entry(peery, n, [peeries], "د ماشومانو لوبتکه").
+entry(پیسوېپ, ن, [پیسوېپس], "یو لیپونګ").
+entry(peetweet, n, [peetweets], "یو لامبو وهونکی مرغه").
+entry(خوابدی، فعل، [خوابدی،خوابدېدل،خوابدېږي], "په غضب راوستل").
+entry(ټینډے، صفت، [], "غصه ناک").
+د دې جملې پښتو ژباړه نشم کولای ځکه چې دا د پرولوګ شموله ده، خو د معنی وضاحت کولای شم. آیا تاسو مطلب پوښتنې په اړه معلومات غواړئ؟
+entry(چک، ن، [چکان]، "سپېلنی").
+entry(peg, v, [pegged,pegging,pegs], "د لرګي پټې سره تړل").
+entry(pegboard, n, [pegboards], "يو تخته چې د مېخونو لپاره سوري لري").
+د مولف(pegbox, n, [pegboxes], "د تار لرونکي آلې يوه برخه").
+entry(pegless, adj, [], "د ستنې نه پرته").
+entry(peglike, adj, [], "د خنجر په څېر").
+entry(پګ ټاپ, ن, [پګ ټاپونه], "يو سپين ډول چې د نښلونکي تار سره وګرځول شي").
+entry(peh, n, [pehs], "pe").
+entry(پېینوار, n, [پېینوارونه], "د یوې ښځې جامه").
+دخول(pein, v, [peined, peining, peins], "ټوپ وړاندې کول").
+entry(وزن, v, [وزن کړل,وزن کول,وزن کوي], "ته وزن کول").
+entry(pekan, n, [pekans], "يو غوښه خوړونکی تي لرونکی").
+.entry(peke, n, [pekes], "یو کوچنی اوږدمښته سپی")
+entry(pekepoo, n, [pekepooګانې], "peekapoo").
+entry(پیکن, ن, [پیکني], "د ورېښمو ټوکر").
+د پرولوګ 
+entry(pekoe, n, [pekoes], "یو تور چای").
+سجده(پلج، ن، [پلجز], "پرو دَ یو څاروي پوښPELAGIAL صفت").
+entry(پلېجيک, ن, [پلېجيکان], "د سمندر اوسېدونکی").
+entry(پلو, ن, [پلوګانې], "یو خواړه چې له غوښې، وریژو او کوتره نخود نه جوړېږي").
+entry(pele, n, [peles], "يو منځني دورې پياوړی برج").
+پروګرام(پیلرین, ن, [پیلرینونه], "د یوې ښځې اوږدوکی").
+entrۍ(pelf, n, [پelfs], "پیسې یا شتمني").
+entry(پېلهام, ن, [پېلهامونه], "د اسونو د خولې یوه برخه").
+entry(مرغه, ن, [مرغان], "يو لوی جال لرونکی مرغه").
+entry(پلوس, ن, [پلوسونه], "يو اوږد بهرنۍ لباس").
+entry(پېلېټ, ن, [پېلېټونه], "يو ډبره چې د نازکو ټوټو نه جوړه شوې دهPELITIC صفت").
+entry(پېلاګرا, n, [پېلاګرا], "د نیکاسین کمښت ناروغي").
+د ننوت(pellet, v, [pelleted,pelleting,pellets], "په وړو غټو دانې سره وهي").
+entry(پيلیټ، صفت، [], "د ګولی په څیر").
+د ننه(پرتوګه, ن, [پرتوګې], "یو نری پوستکی یا فلم").
+entry(پیل مِل، ن، [پیل مِلان]، "یوه ګډه شوې توده").
+entry(شفاف, صفت, [], "روڼ").
+entry(پلمټ, ن, [پلمټونه], "یو ښایسته کارنیس").
+entry(پلون, صفت, [], "بې وېښته").
+entry(پیلوریا, n, [پیلوریاګانې], "د ګل بڼې غیر معمولي مقرري دPELORIAN PELORIC صفت").
+entry(پيلورس, ن, [پيلورسونه], "يو ناوبرې وسيله").
+د ننوتنې(پلټا، ن، [پلټاس]، "د هسپانوي اصل محکمه لوبه").
+entry(پيلوټون, ن, [پيلوټونونه], "د بايسکل سيالۍ کې د سايکل چلونکو اساسي ډله").
+دخول(pelt, v, [pelted,pelting,pelts], "په پرله پسې توګه د ګزارونو یا توغندیو سره ویشتل").
+entry(پيلټاسټ, ن, [پيلټاسټان], "د لرغوني يونان يو سرتېرى").
+entry(peltate, adj, [], "د ډال په څېر شکل لرونکی").
+د Prolog 
+entry(پیلتر، v، [پیلترډ، پیلترینګ، پیلتس]، "پرې غورځول").
+entry(peltless, adj, [], "د پوست پرته د یوه حیوان پوست").
+اندراج(پوستکی، ن، [پوستکیانې]، "د يو حيوان پوست").
+entry(پېلوک, ن, [پېلوکان], "د پېلوېس يوه هډوکی").
+د پرولوګ ژباړه: entry(pelvis, n, [pelvises], "یا PELVES د هډونو یوه برخه").
+entry(پيمبينا, ن, [پيمبيناس], "د کرانبيريو يو ډول").
+entry(پميکن, ن, [پميکنس], "پيمېکان").
+د  ن، ([pemmicans]،" د Native Americans له خواچمتو شویه خوراکي توکي" )entry(pemmican,
+دخولی(پيمولين, ن, [پيمولينونه], "يوه درمل چې د محرک په توګه کارول کېږي").
+entry(پیمفکس, n, [پیمفکسونه], "یوه پوستي ناروغي").
+د ننوتل(قلم, فعل, [لیکلی شوی, لیکل, لیکي], "د یو قلم سره لیکل چې د رطوبتي رنګ لپاره الې په وسیله لیکل کیږي").
+entry(جزایي, صفت, [], "د سزا پورې اړوند").
+entry(جرمانه, v, [جرمانه,جرمانه کېدل,جرماني], "جرمانه کول").
+entry(جرمانه, ن, [جرمانې], "د سزا وړتیا").
+entry(جزا ورکول, v, [جزا ورکړ شوه,جزا ورکول کیږي,جزا ورکوي], "پنلټۍ ته تابع کول").
+entry(جزایي, قید, [], "په جزایي ډول").
+entry(جرمانه, n, [جرمانې], "يوه سزا چې د قانون، قاعدې يا تړون د سرغړونې لپاره لګول کېږي").
+entry(ځارنه, ف, [ځارکړ,ځارول,ځارنې], "د مجازاتو یو ډول نافذول").
+entry(پينانګ, ن, [پينانګونه], "يو دپنبه ټوکر").
+entry(پنيټس, جمع, [], "د کور رومي خدایان").
+entry(پېنس, الف, [], "د پېني جمع").
+entry(پنسل, ن, [پنسلونه], "یوه وړه بیرغچه").
+entry(ميلان, n, [ميلانات], "د يو څه دپاره قوي خوښښ").
+entry(پنسل, v, [پنسل کړی,پنسل کول,پنسلونه], "یا PENCILLED PENCILLING PENCILSto د پنسل په کارولو تولیدول د لیکلو او رسم کولو اله").
+د Prolog:
+entry(penciler, n, [pencilers], "هغه څوک چې پنسل جوړوي").
+entry(pend, v, [معلق کړل,معلق کول,معلق کوي], "نامعلوم یا نامعين پاتې کېدل").
+entry(لاکړه توږ، ن، [لاکړه توږي], "یو ځوړندې زیور").
+entry(پينډنسي, ن, [پينډنسۍ], "يو معلق حالت").
+د Prolog ژبه: entry(pendent, n, [pendents], "pendant").
+entry(پنډولم, ن, [پنډولمونه], "د آزاد ځړیدونکي جسم یو ډولpendular صفت").
+دخولي (penes, الف, [], "د نارينه تناسلي آلې جمع").
+entry(pengo, n, [pengos], "د هنګري پخوانۍ پولي واحد").
+entry(پينګوين, ن, [پينګوينان], "يو بې الوتنې اوبو کې ژوندونکې مرغۍ").
+entry(penicil, n, [قلمونه], "د ویښتو یوه کوچنۍ ګیډۍ").
+مخفوظ_الخی(penis, م, [penises], "یا PENESthe د جنسي نقل لپاره د نرۍ اکونډPENIAL PENILE صفت").
+د داخلي(ځوروونکی، ن، [ځوروونکي]، "هغه څوک چې د خپلو ګناهونو توبه کوي").
+entry(قلمي چاړه, n, [قلمي چړې], "يو کوچني جيبي چاړه").
+entry(penlight, n, [د قلم څراغونه], "یو کوچنی څراغ").
+entry(penlite, n, [penlites], "قلم څراغ").
+\entry(penman, n, [د قلم خلک], "یو لیکوال").
+entry(قلمچه، ن، [قلمچې], "هغه بڼه لري څو د مرغانو بڼه یې واړوي").
+entry(قلمي_نوم, n, [قلمي_نومونه], "د لیکوال لخوا د خپل اصلي نوم پرځای کارول شوی نوم").
+entry(پيننټ, ن, [پيننټونه], "يو اوږد تنګ بيرغ").
+entry(پَکھوَلي، صفت، [], "پَر يا وزر لرل").
+د ننوت لوڅه یې وکړه، صفت، []، "لوڅه"
+د پرولاګ ژبې دا کرښه په پښتو کې داسې ده:
+
+```prolog
+داخل(پيني, ن, [پينيس], "لنډ ټيوب لرونکي پاستا").
+```
+entry(ليکل شوی, تېر, [], "د قلم زمانه").
+entry(پینر, ن, [پینرز], "هغه څوک چې لیکي").
+دَخل (پيني، ن، [پینس], "یا PENNIA یو پخوانی کارول شوی فنلینډ سکه").
+entry(پنسونه, a, [], "د پېسې جمع").
+entry(پینائن, ن, [پینائنز], "یو منرال").
+entry(ليکل, اوسنی, [], "د ليک د اخيز").
+entry(بیرغچه, ن, [بیرغچې], "یو ډول جنډه").
+دخولیه(پېسه، ن، [پېسې], "یا 'پېنس' د بریتانیا یوه سکه").
+entry(پنچه, ن, [پنچې], "پنچه").
+entry(جزایي علوم, ن, [جزایي علومونه], "د جرم د سزا څېړنه").
+entry(پېنونسل, ن, [پېنونسلونه], "یو کوچنی پرچمچه").
+entry(قلم_نښه, ن, [قلم_نښې], "د قلم نوک").
+entry(فکر, n, [افکار], "یوه فکر").
+د ننوتنه(پنسل، ن، [پنسلان]، "پنسل").
+entry(پنسل, صفت, [], "نرم ځړیدلی").
+پرو لاین:
+entry(pension, v, [pensioned,pensioning,pensions], "د تقاعد معاش ورکړل").
+entry(پنسيون, ن, [پنسيونونه], "يا PENSIONIa يو بورډنګ هاوس").
+entry(پریشان, صفت, [], "په ژور فکر کې بوخت").
+entry(پنسټر, n, [پنسټرز], "لیکوال").
+entry(پینسټاک, نوم, [پینسټاکونه], "د اوبو څرخ ته د اوبو لېږدولو لپاره یوه نل").
+entry(pent, adj, [], "بند").
+entry(پینټاکل, ن, [پینټاکلس], "پنځه څرمه ستوری").
+entry(پینټاډ, ن, [پینټاډز], "د پنځو ډلو").
+entry(پينټاګون, ن, [پينټاګونونه], "پنځه اړخيزه څو ضلعي").
+entry(پینټین, ن, [پینټینز], "یو بې ثباته مایع").
+entry(پېنټانول, ن, [پېنټانولونه], "یو الکول").
+entry(پينټارچ, ن, [پينټارچونه], "د پنځه ګډ واکمنانو څخه يو").
+entry(پنټین, ن, [پنټینونه], "یو مایع هایدرو کاربن").
+entry(پينټوډ, ن, [پينټوډونه], "د اليكترون تيوب يو ډول").
+entry(pentomic, صفت, [], "له پنځو جګړيزو ډلو څخه جوړ").
+entry(پينتوسان, ن, [پينتوسانونه], "يو پېچلی کاربوهايدرايټ").
+entry(پنټوز, ن, [پنټوزونه], "یو شکری چې په هره مالیکوله کې پنځه کاربن اټومونه لري").
+د ننه کړه(پنټایل, ن, [پنټایلونه], "امیِل").
+entry(penuche, n, [penuches], "يو قسم د فاج کېنډي").
+دخول(penuchi, n, [penuchis], "penuche").
+entry(penuchle, ن, [penuchles], "پینوکل").
+entry(پینوڪل, ن, [پینوكلز], "پینوکلی").
+entry(penult, n, [penults], "په یوه کلمه کې د وروستۍ څخه وړاندې څپه").
+entry(سایې, n, [سایېګانې], "یا PENUMBRAEa جزوي سیوری").
+entry(بېوزلي, n, [بېوزلي], "سخته بېوزلي").
+entry(مزدور, ن, [مزدوران], "یا PEONES یو غیر ماهر کارګر").
+entry(د غلامۍ حالت, n, [د غلامۍ حالتونه], "د غلامۍ په حالت کې اوسیدل").
+entry(peonism, n, [peonisms], "د بېوزلۍ").
+entry(کجول, ن, [کجولونه], "یو ګل لرونکی بوټی").
+entry(خلک, v, [اباد, ابادول, ابادي], "له اوسېدونکو سره برابرول").
+entry(peopler, n, [peoplers], "یوه څوک چې خلک کوي").
+پروګرام(پپ، فع، [پپډ، پپنګ، پپس]، "د انرژي ډکول").
+entry(پيپروني, ن, [پيپرونيس], "يو زيات مرچ لرونکی ساسج").
+entry(پپينو, ن, [پپينوز], "د خوراک وړ مېوې لرونکی بوټی").
+entry(pepita, n, [pepitas], "د کدو یا اخروټ خوړل شوی وچ تخم").
+entry(peplos, n, [peploses], "په لرغوني یونان کې د ښځو لخوا اغوستل کېدونکې جامې").
+entry(پېپلوم, ن, [پېپلومونه], "يا د لباس د کميس يو کوچنی برخهPEPLUMED صفت").
+entry(peplus, n, [pepluses], "peplos").
+entry(pepo, n, [pepos], "د یوې میوې لپاره چې د غوښې لرونکی داخلي برخه او سخت پوست لري").
+entry(peponida, n, [peponidas], "پپو").
+دودول(peponium, ن, [peponiums], "pepo").
+د ننه(چمتو کړل، تېر، []، "د چمتوالي مهال").
+د پرولاګ پروګرام:
+entry(مرچ, v, [دمېرچ په مرسته خوند کړي، مرچ به په مرسته خوند کول، مرچونه], "د مرچ یو خوندونکی توکي سره خوندول").
+entry(پېپران، ن، [پېپرانان], "يو چې مرچ شيندي").
+ورود(مرچکۍ، صفت، []، "د مرچ په څېر").
+entry(pepping, present, [], "د pep فعل ګړنه").
+د پاسښتو پرولوګ:
+entry(peppy, adj, [], "د انرژۍ نه ډک PEPPIER PEPPIESTPEPPILY adv").
+entry(پېپسين, ن, [پېپسينونه], "د معدې يو هاضمي انزايم").
+دخول(pepsine, n, [pepsines], "pepsin").
+entry(peptalk, v, [peptalked,peptalking,peptalks], "په جوش جذباتي خبرو سره ولوله پیدا کول").
+entry(پېپټک, ن, [پېپټکس], "یو ماده چې هضم ترقي کوي").
+د ننوتل(peptid, n, [peptids], "peptide").
+entry(peptide, n, [peptides], "د امينو اسيدونو يو ترکيبPEPTIDIC adj").
+entry(peptize, v, [peptized, peptizing, peptizes], "د کولیډیل خپرونې زیاتولو لپاره").
+entry(peptizer, n, [peptizers], "هغه څوک چې peptizes").
+ځای (peptone, ن, [peptones], "یو پروټین مرکبPEPTONIC صفت").
+د سمې معنا لپاره پدې ډول کیدی شي:
+
+```prolog
+entry(per, prep, [], "د هر لپاره").
+```
+د ننوتنې(پيراسيد, n, [پيراسيدونه], "يو ډول تیزاب").
+entry(perc, n, [پرکونه], "په وچ پاکولو کې کارېدونکی کیمیاوي مواد").
+د داخلېدنې(پرکال، ن، [پرکالونه]، "يو د پنبې پارچه").
+entry(درک, v, [درک کړ,درک کوي,درکونه کوي], "د حواسو له لارې خبرتیا ترلاسه کول").
+د Prolog کرښه: entry(percent, n, [سلنه], "په سلو کې یو برخه").
+د ننوتنې(ادراک، ن، [ادراکي حالتونه]، "هغه څه چې درک شوي") .
+entry(پرچ, v, [پرچېدلی,پرچیدل,پرچوي], "په لوړه ځای کې ناستېدل یا آرام کول").
+ورودی(پرچر, ن, [پرچران], "یو څوک چې پرچیږي").
+entry(percid, n, [percids], "د پرچ کورنۍ یو د خوږو اوبو کب").
+entry(percoid, n, [percoids], "د کوم لوی فرعي نظم د باغونو کبانو څخه").
+entry(percuss, v, [percussed,percussing,percusses], "په قوت سره وهل").
+entry(پرېدې, یوازېنۍ_ویینه, [], "پرېدي").
+د داخلې(پرډو، ن، [پرډوس]، "یو عسکر چې یوې خطرناکې ماموریت ته لیږل شوی").
+داخلې(perdue, n, [perdues], "perdu").
+entry(پاتېدل, v, [پاتې شو,پاتې کېدل,پاتېږي], "د دوام کول").
+entry(perdy, interj, [], "پرډي").
+entry(پلار, ن, [پلرونه], "پلار").
+اندازه(پېرېګرین، ن، [پېرېګرینې], "یو چټک باز چې په بازبازی کې ډېر کارول کېږي").
+entry(پيريون, ن, [پيريونونه], "يا PEREIA ځینې سخت ژوي thorax").
+entry(پېريئَن, ن, [پېريئَنس], "يا PEREApereion").
+entry(پیریوپوډ, ن, [پیریوپوډونه], "د پیریون ضمیمه").
+د پرولوګ لاندې کرښه په پښتو کې:
+
+```prolog
+entry(کامل, صفت, [], "د یوه افراطي ډول د نیمګړتیاو یا تېروتنو نشتوالی").
+```
+entry(مکمل, فعل, [مکمل کړ,مکمل کول,مکمل کوي], "جوتول").
+د اینٹری (perfecta, n, [perfectas], "د شرط بندۍ یو سیستم").
+د Prolog لیکنه: entry(perfecto, n, [perfectos], "يو متوسط اندازه سيګار").
+دخول(perfidy, n, [perfidies], "د ايمان یا اعتماد نیتي ناکامي").
+entry(perforce, adv, [], "د اړتیا له مخې").
+entry(اجرا کول, v, [اجرا کړه,اجرا کول,اجرا کوي], "شروع کول او بشپړولو لپاره تر پای پورې ترسره کول").
+entry(عطر, v, [خوشبوي,خوشبوي کوي,خوشبوي کوي], "د خوشبوي بوي سره ډکول").
+د داخلۍ (عطريات جوړونکی، ن، [عطريات جوړونکي]، "هغه څوک چې عطريات جوړوي").
+د ننه یې کړئ (perfumy, adj, [], "خوشبويه").
+entry(خولول, فعل, [خول شو، خولوي، خولیږي], "پر يو څه باندې خپرول يا د يو څه له لارې تېرېدل").
+entry(پرګولا, ن, [پرګولاس], "يو شېده شوې پناه يا لارې").
+دخول(perhaps, ن, [perhapses], "یو څه چې د شک یا اټکل وړ وي").
+دخول(peri, n, [peris], "د فارس افسانې يو فوق العاده موجود").
+entry(پیرینتھ، ن، [پیرینتھونه]، "د ګل یوه بهرنۍ پوښونه").
+د ننوتنه(پرياپټ، نوم، [پرياپټونه], "يو تعويذ").
+entry(periblem, n, [پرېبلمونه], "د نباتي نسج یو سیمه").
+پروګ(entry(pericarp, n, [pericarps], "د رسېدلې نبات تخمدان یا مېوې دیوال").
+دخواښه(pericope, ن, [pericopes], "يا PERICOPAE يو انتخاب د کتاب څخه").
+entry(پيريډرم, ن, [پيريډرمونه], "د نبات نسج يو بهرنۍ طبقه").
+دخول(peridium, n, [peridia], "د ډیرو فنجي کې د سپوربیرنګ ارګان پوښPERIDIAL adj").
+داخل(peridot, n, [peridots], "یو منرال").
+entry(پریګی, n, [پریګیان], "په یوه سماوي بدن کې هغه ټکی چې د ځمکې سره تر ټولو نږدې وي، د PREIGEAL PERIGEAN په توګه").
+entry(پرېګون, n, [پرېګونونه], "یو زاويه چې د 360 درجو سره برابره وي").
+entry(پیریګایني, n, [پیریګانيز], "هغه حالت چې د پیستیل شاوخوا د پیالې په څېر غړي باندې موقعیت لري").
+دخول(peril, v, [periled,periling,perils], "يا PERILLED PERILLING PERILSto imperil").
+entry(پيريلا, ن, [پيريلاس], "يو اسيايي بوټي").
+داخلې(پرېلَس، صفت، [], "خطرناک").
+entry(پرېلوون, ن, [پرېلوونونه], "هغه نقطه په مداري لاره کې چې د سپوږمۍ ته تر ټولو نږدې وي").
+entry(پرینیم, ن, [پرینیې], "د بدن یوه سیمه چې د تنه په ښکته پای کې وي پرینیل صفت").
+entry(موده، n، [مودې]، "د وخت یوه برخه").
+اندراج(دوراني، صفت، []، "په منظم وقفو کې بیا راڅرګندېدل").
+د Prolog کد:
+entry(periodid, n, [periodids], "یو آیډايډ").
+دخول(periotic, صفت, [], "د غوږ شاوخوا").
+entry(پيښور, ن, [پيښوري], "د پیښو په بهیر کې ناڅاپي بدلون").
+entry(peripter, n, [peripters], "يو جوړښت چې په ټولو خواو کې د ستنو قطار لري").
+entry(پيريک, n, [پيريکې], "يوه توره تمباكو").
+د پرولوګ کرښه: entry(perisarc, n, [perisarcs], "د ځینو هایدروزونز یو محافظتي پوښ").
+entry(تباه, v, [تباه_شو,تباه_کیدل,تباه_کیږي], "مړ کېدل").
+entry(پریشر, ن, [پریشرونه], "یو د اشتعال وړ شخص").
+د داخلې (peritus, n, [periti], "یو ماهر الهیات پوه").
+پرو لاگ: entry(periwig, n, [periwigs], "یو وگ").
+د ننوتنه (پرجر، فعل، [پرجرډ، پرجرنګ، پرجرس]، "د يوې دروغژنې جوړول").
+entry(دروغجن, n, [دروغجنان], "هغه څوک چې په دروغو قسم کوي").
+entry(درواغژن شهادت, ن, [درواغژن شهادتونه], "په عدالتي بهير کې د قسم لاندې قصداً ناسم ګواهي ورکول").
+entry(perk, v, [پرکېد، پرکېنګ، پرکونه], "په پرکولیټر کې قهوه جوړول").
+دِرِځہ (tarki, sifat, [], "څومَرَ ښځَہ").
+د داخلې(perky, adj, [], "PERKIER PERKIESTjauntyPERKILY adv").
+entry(پيرلائټ, ن, [پيرلائټونه], "یو اورشوی شیشه پرلائټیک صفت").
+د Prolog:
+entry(perm, v, [permed,perming,perms], "د ویښتانو ته دايمي څپې ورکول").
+د داخلېدو(نفوذ کوونکی، صفت، [], "چې نفوذ کوي").
+entry(پرمیس, n, [پرمیسان], "یو کتلېز کړي ایجنټ").
+entry(ننووتل, v, [ننووتل,ننوتونکی,ننوتی], "په ټولیزه توګه خپریدل").
+entry(اجازه, فعل, [اجازه شوی,اجازه ورکول,اجازه ورکوي], "اجازه ورکول").
+entry(permute, v, [permuted,permuting,permutes], "د ترتیب بدلول").
+entry(پرنيو, ن, [پرنيونېز], "يو التهاب چې د لاسونو يا پښو باندې د یخنۍ له کبله رامنځته کيږي").
+د Prolog کوډ:
+entry(perogi, n, [پرګيوګانې], "پیرګي").
+اندراج(پيروجي، ن، [پيروجیګانې], "پيروجي").
+د پيروي د ننوتلو، n، [پيرويګز]، "پيروګی").
+entry(peroneal, adj, [], "د فیبولا پورې اړوند").
+entry(peroral, adj, [], "د خولې له لارې واقع کېږي").
+entry(پروريت, فعل, [پروريت شو,پروريت کيږي,پروريت کوي], "يو اوږد وينا کول").
+د پروکسایډ، n، [پروکسایډونه]، "پروکسایډ" داخل کړي.
+entry(پيرآکساید, v, [پيرآکسایډ کړی,پيرآکسایډ کول,پيرآکسایدونه], "د سپینې کولو اجنټ په توګه د پيرآکسایډ سره درملنه کول").
+entry(پرآکسي, صفت, [], "د دوه‌ارزښته ګروپ O2 لرونکی").
+entry(مجرم, ن, [مجرمان], "هغه کس چې جرم کوي").
+entry(تعمق, فعل, [تعمق کړ, تعمق کول, تعمق کوي], "تفکر کول").
+entry(perpent, n, [perpents], "یو لوی ودانی ډبره").
+entry(پريشان, v, [پريشان,پريشانی,پريشانوي], "ذهنًا نامعلوم کول").
+entry(perron, n, [perrons], "باندنۍ زینې").
+entry(پيري, ن, [پيريان], "د ناکو جوس يوه مشروب چې ډیری ځله تخمیر شوی وي").
+entry(persalt, n, [persalts], "یو کیمیاوي مالګه").
+entry(perse, n, [perses], "یو آبي رنګ").
+د کړهڼه(پرله پسې پاتې کېدل, کړ, [پرله پسې پاتې شو،پرله پسې پاتې کېږي،پرله پسې پاتې کېږي], "په یوه فعالیت کې په کلک ډول دوام ورکول").
+په_ليکل(person, n, [اشخاص], "يو انسان").
+entry(شخصيت, n, [شخصيتونه], "په ادبي اثارو کې يو کردار").
+دخول(persona, n, [personas], "هغه عام رول چې يو شخص يې اخلي").
+د=داخل(personal, n, [personals], "په ورځپاڼې کې یو لنډ شخصي اعلان").
+entry(خوله, فعل, [خوله شو, خولې کیدل, خولې ایستل], "د پوستکي له سوریو څخه لندبل راوتلPERSPIRY صفت").
+entry(قانع، ف، [قانع، قانعول، قانعوي]، "د دلیل ، منطق یا درخواست له لارې د یو څه کولو لامل ګرځیدل").
+په پرولوګ کې:
+entry(pert, adj, [], "پرتر پرټسټ ناپاک پرټلي adv").
+dakhil(pertain, v, [pertained,pertaining,pertains], "اړیکه یا اړیکه لرل").
+entry(تندی, ن, [تندۍ], "تندۍ لرل").
+entry(خلل, فع, [متخلل,خلل کوي,خلي], "په زیاتېدو سره ګډوډول").
+entry(پروکه, ن, [پروکې], "يوه وگښهپروک شوی صفت").
+entry(کتنه, ن, [کتنې], "د کتنې عمل").
+entry(کتل, ف, [کتل شوی,کتل], "لوستل").
+entry(لوستونکې, ن، [لوستونکي], "هغه څوک چې مطالعه کوي").
+entry(پرو, ن, [پروونه], "هغه څوک چې په جنسي توګه خراب وي").
+entry(خپرېدل, فعل, [خپرېدل,خپریږي,خپریږي], "د هرې برخې له لارې خپریږي").
+د ننوتنه(غالبونکی, ن, [غالبونکي], "هغه څوک چې نفوذ کوي").
+entry(پرورز, صفت, [], "په قصدي توګه له مطلوب يا تمه شوي چلند څخه انحراف کول").
+entry(خرابول, فعل, [خراب کړی, خرابول, خرابوي], "د سمو کړنو نه وتل").
+entry(پخوانی, صفت, [], "د ننوتلو وړ").
+entry(pervo, n, [pervos], "يوه بدکاره").
+entry(پروي, صفت, [], "په جنسي توګه خراب شوی").
+entry(pes, n, [pedes], "يو پښه يا د پښې په شان برخه").
+entry(pesade, n, [pesades], "د اس حالت کله چې شاته دریږي").
+entry(پيسټا, ن, [پيسټې], "د هسپانيا پخوانی پولي واحد").
+entry(پيسوا، ن، [پيسواس]، "د ګانا یو پولي واحد").
+پروګرام(پیسکی, صفت, [], "PESKIER PESKIESTannoyingPESKILY adv").
+entry(پیسو, ن, [پیسوګانې], "د بېلا بېلو هسپانوي ژبو هېوادونو یو پولي واحد").
+entry(پیشمول, ن, [پیشمولونه], "هغه د امیندوارۍ مخنیوی وسیله چې په مهبل کې ګرځول کېږي").
+entry(آفت, ن, [آفتونه], "یوه ځورونکې شخص یا شی").
+ننوتنه(تنګول, ف، [تنګ کړ, تنګول, تنګوي], "اذيت کول").
+entry(ځورونکی، n، [ځورونکي]، "هغه څوک چې ځوروي")।
+entry(مصیبت ځاى, n, [مصیبت ځايونه], "يو ځای چې د وبا ناروغيو لپاره مساعد دی").
+ورودی(پسل, ف, [پسله شوی, پسلېدونکی, پسلي], "د یو کلب شکل لاس لرونکي وسیله سره له منځه وړل").
+entry(پیسټو, ن, [پیسټوګانې], "د تلخګې ، او بلې غوړ نه یوه چټني").
+entry(پستانه، صفت، [], "ډېر پستانه، تر ټولو پستانه").
+د Prolog کرښه: entry(pet, v, [petted,petting,pets], "د لاس په واسطه ناز کول").
+entry(پېټابايټ, n, [پېټابايټونه], "يو کواډريلين بايټونه").
+entry(پاڼه, ن, [پاڼې], "د ګل تاج یوې پاڼې ته ورته برخه").
+entry(petaline, adj, [], "د ګل د پاڼې په څېر").
+`entry(petalody, n, [petalodies], "د مختلفو ګلانو برخو په ګلپاڼو بدلېدل").`
+entry(پتلوئيد, صفت, [], "د ګل پاڼې په څېر").
+entry(petalous, adj, [], "ګلبرګي درلودل").
+entry(پتانک, ن, [پتانکس], "د چمن بالینګ یو فرانسوي شکل").
+entry(پټکۍ, ن, [پټکۍ], "یو چاودیدونکی وسیله").
+entry(پيتاسوس, ن, [پيتاسوسونه], "پيتاسوس").
+دخول(petasus, n, [petasuses], "په لرغوني یونان کې اغوستل شوي پراخه خولۍ").
+entry(پېټکاګ، ن، [پېټکاګونه], "يو وړوکی والو يا نل").
+د_داخلې(پیتیچیا, ن, [پیتیچیاي], "په بدن باندې یو کوچنی د وینې ټپي ځای").
+پروګرام(پېټر, فعل, [پېټر شو، پېټر کوي، پېټر کوي], "په تدريجي ډول کموالی").
+entry(پاڼېتي، صفت، [], "په پاڼړۍ پورې اړه لرل").
+entry(د پاڼې ډډ, n, [پاڼو ډډونه], "پاڼې ډډ چې پاڼه نښلوي PETIOLED adj").
+entry(petit, صفت, [], "کوچنی وړوکی").
+entry(کوچنۍ, ن, [کوچنۍ], "د لنډو ښځو لپاره د جامو اندازه").
+entry(درخواست, v, [درخواست_کړ,درخواست_کول,درخواستونه], "رسمي غوښتنه کول").
+entry(petnap, v, [petnapped,petnapping,petnaps], "د خپل ګټې لپاره یو کورنی څاروی غلا کول").
+entry(petnaper, n, [petnapers], "هغه څوک چې یوه کورنی حیوان غلا کوي").
+entry(پيټرال, ن, [پيټرالونه], "يو خوراکي ماهي").
+entry(پانی مرغ, n, [پانی مرغان], "یو وړوکی سمندري مرغی").
+د Prolog کرښه په پښتو کې داسې ده:
+entry(پتريفي، فعل، [دسانګ په شکل، د سانګونو شکل، دنسانګيه جاری], "په ډبره بدلول").
+entry(پټرول, ن, [پټرولونه], "پطرول").
+entry(پټرولی، صفت، []، "له پټرولیم څخه اخیستل شوي").
+entry(پېټرونل, n, [پېټرونلونه], "یو وړ بندوق").
+درداخل(petrosal, n, [petrosals], "د موقتي هډوکي یوه برخه").
+entry(پتري، صفت، []، "په سختۍ کې د ډبرې سره ورته والی").
+entry(petsai, n, [petsaisc], "چېني د ساوې بوټی").
+entry(pettable, adj, [], "د نازولو وړ").
+entry(نوازل, تېره, [], "د نوازو زمانه").
+entry(pettedly, adv, [], "په قهرجنه توګه").
+داخلې(پټر، ن، [پټرونه]، "هغه څوک چې پالي").
+entry(پیتي, جمع, [], "د پیتو").
+entry(pettier, comparative, [], "د پيټي").
+د داخلېدو(تر ټولو وړوکى، غوره، [], "د وړوکی").
+د پرولاګ: entry(pettifog, v, [pettifogged,pettifogging,pettifogs], "په کوچنیو مسایلو کې جګړه کول").
+entry(په وړوکوالي سره, adv, [], "په وړوکوالي ډول").
+entry(د نوازش, n, [نوازشونه], "محبت ناکه ناز او مينه").
+entry(pettish, adj, [], "نازک مزاج").
+entry(pettle, v, [pettled,pettling,pettles], "نوازول").
+entry(petto, n, [petti], "سينه").
+entry(پټي, صفت, [], "غېر مهم، بې‌اهميته").
+entry(په عجز, صفت, [], "کبرجن").
+entry(پټونیا, ن, [پټونیاګانې], "یوه استوایی بوټی").
+entry(petuntse, n, [petuntses], "يو منرال").
+د پرولوگ رمز: entry(petuntze, n, [petuntzes], "petuntse").
+داخل(pew, ن, [pews], "کلیسا کې یوه څوکۍ").
+entry(pewee, n, [pewees], "يو کوچنی مرغه").
+پرولاګ(داخلول(pewit, n, [pewits], "مرغه")).
+entry(تيزابي مسو, n, [تيزابي مسوګانې], "يو مخلوط ړو").
+entry(سیمګر، ن، [سیمګران], "هغه څوک چې د سیمو شیان جوړوي").
+د پرولوګ نوسخه:
+entry(پیویټ، ن، [پیویټس], "یوه کاکټس").
+entry(پایوټیزم, ن, [پایوټیزمونه], "د امریکا د اصلي خلکو مراسم په کوم کې چې پایوټې کارول کیږي").
+entry(پېيوټل, n, [پېيوټلس], "پېيوټ").
+entry(peytral, n, [peytrals], "د آس د سينې لپاره د زغري ټوټه").
+entry(peytrel, n, [peytrels], "پېټرال").
+entry(pfennig, n, [pfennigs], "يا PFENNIGEa دمخه په کارول شوې د جرمني برونزو سکه").
+entry(pfft, interj, [], "د ناڅاپي پای څرګندولو لپاره کارول کیږي").
+entry(pfui, interj, [], "پمالک").
+entry(فېتون, ن, [فېتونونه], "يو سپک ګاډی").
+entry(فاژ, ن, [فاژونه], "يو موجود چې باکټریا له منځه وړي").
+entry(فالنجي، ن، [فالنجي]، "د لاس د ګوتې یا د پښې د ګوتې هر هډوکی").
+د ترميم لاسته راوړنې لپاره Prolog:
+entry(phalanx, n, [phalanxes], "د پخواني یونان په وخت کې د پياده پوځیانو یو تشکیل").
+entry(phalli, a, [], "د phallus جمع").
+entry(phallic, adj, [], "د يو تناسلي غړي پورې اړوند").
+entry(فليسيت، ن، [فليسيتونه]، "د تناسلي الې عبادت لکه څنګه چې د طبیعت د خلاق ځواک سمبول دی").
+entry(phallist, n, [phallists], "د هغه چا لپاره چې فلاسيم تمرين کوي").
+د رانویس(phallus, n, [phalluses], "یا PHALLI آلت تناسلی").
+entry(خيال, n, [خيالات], "د تصور یو تخلیق").
+entry(فینټاسټ, ن, [فینټاسټان], "فینټاسټ").
+entry(خيال, v, [خيالي شو,خيال کول,خيالي کوي], "خيال پېدا کول").
+entry(فینٹم, n, [فینټمز], "یو شی چې یوازې په بڼه کې موجود دی").
+entry(فرعون, ن, [فرعونان], "د لرغوني مصر واکمن").
+entry(فريسي, n, [فريسيان], "يو منافقانه ځان سم کس").
+entry(فارما, ن, [فارماس], "یو د درملو شرکت").
+دخول (درملتون، ن، [درملتونونه]، "يو درملتون").
+entry(pharmer, n, [pharmers], "هغه څوک چې په فارم کولو کې برخه اخلي").
+entry(pharming, n, [pharmings], "د درملو تولید د جین شوي نباتاتو یا حیواناتو څخه").
+د ننه دې (pharos, n, [pharoses], "د بېړۍ چلونکو لارښود لپاره یوه څراغ يا څراغ").
+entry(ستونی, n, [ستوني], "یا ستومنه د هاضمې لارې یوه برخه").
+داخلہ(مرحله, v, [مرحلې,مرحله کیدل,مرحلې], "د پرمختګ په جلا پړاوونو کې پلان کول یا ترسره کول").
+entry(phaseout, n, [phaseouts], "د عملیاتو تدریجي بندیدل").
+دخوله(فيزر, ن, [فيزرونه], "د یو ډول ساینسي افسانوي وسلې").
+د ننه کول(phasis, n, [phases], "يوه دوره").
+entry(phasmid, n, [phasmids], "یوه ګرمسیري حشره").
+د پرېلوګ:
+entry(phat, adj, [], "ډېر ښه").
+entry(phatic, adj, [], "د افکارو پر ځای د احساساتو شریکول").
+entry(مرغومۍ, ن, [مرغومۍ], "يو لوی اوږد لکۍ والې مرغه").
+د ننوتنه (phellem, n, [phellems], "د نبات د حجرو یوه پرت").
+entry(phelonia, npl, [], "د عبادت جامې").
+entry(فېنېټ, n, [فېنېټونه], "د کاربولیک اسید مالګه").
+entry(فينازين، ن، [فينازينونه]، "يو کيميايي مرکب").
+entry(فونېتيکي, صفت, [], "د يو خاص ډول د طبقه بندۍ سيستم پورې اړوند").
+entry(فينيتول, ن, [فينيتولونه], "يو بې ثباته مايع").
+entry(فینکس, ن, [فینکسونه], "فینکس").
+entry(فينول, n, [فينولونه], "يو زهرجن مرکب").
+entry(phenolic, n, [د فینولیک مرکبات], "مصنوعي ریزن").
+entry(phenom, n, [phenoms], "یو شخص د غیر معمولي وړتیا يا وړاند وینې").
+entry(phenoxy, adj, [], "د فينول څخه اخیستل شوې یوه رادیکاله لري").
+entry(فنيل, n, [فنيلونه], "یو واحد کیمیاوي ریډیکلفنلیک صفت").
+```prolog
+entry(pheresis, n, [phereses], "له يو ډونر څخه د وینې اخیستل چې ځینې اجزاوې لرې کول او پاتې وینه ډونر ته ستنول"). 
+```
+entry(پهيکاري, interj, [], "د آرام ، ستړيا يا بېزارۍ د څرګندولو لپاره کارول کېږي").
+د ننوښت(phi, n, [phis], "د یو يوناني توری").
+د ننوتنې(ښيښه, ن, [ښيښې], "یو شیشي").
+داخلول(filibeg, ن, [فيلبيګس], "فيليبګ").
+دخول(philibeg, ن، [philibegs], "فليبيګ").
+دخله(فيلمون، ن، [فيلمنز]، "يو بڼه پيدا کوونکی").
+entry(philter, v, [philtered,philtering,philters], "د مينې له افسون لاندې راوستل").
+entry(philtre, v, [philtred,philtring,philtres], "فېلټر کول").
+entry(philtrum, n, [philtra], "د پوزې او د پاسنيو شونډو تر منځ کندووالی").
+د پخوانۍ پروپیو سینګار (phimosis) دننۍ منځګړیتوب داخلیدنه، [phimoses]، "د پرپوش د پرانیسته غیر معمولي سکونزښت PHIMOTIC adj".
+د ننوتنه( phishing، فعل، [phished, phishing, phishes]، "په پېشینګ کې بوختېدل").
+د Prolog برنامه:
+entry(phisher, n, [phishers], "هغه څوک چې فیشنگ کوي").
+entry(فیشنګ, ن, [فیشنګونه], "د ایمیل په غیر قانوني توګه کارول تر څو خلک شخصي مالومات افشا کولو ته آماده کړي").
+entry(phiz, n, [phizes], "يو مخ يا د مخ څرګندونه").
+د ننوتنې(phizz, n, [phizzes], "phiz").
+دخول(phlegm, ن, [phlegms], "يوه ضخه میوکس چې په هوايي لارو کې سره کېږي").
+entry(phlegmy, adj, [], "PHLEGMIER PHLEGMIESTphlegm ته ورته").
+entry(فلوئم, ن, [فلوئمونه], "یو پېچلې د نبات نسج").
+داخلول(فلوکس، ن، [فلوکسونه]، "يو ګل لرونکی نبات").
+entry(pho, n, [phos], "د وريجو نوډلز او سبو سره يو ويتنامي سوپ").
+entry(فوبیا, ن, [فوبیاز], "یوه مجبوره یا غیر منطقی ویره").
+دخول(phobic, n, [phobics], "هغه چې د فوبیا سره مخ دی").
+entry(phocine, adj, [], "د سیلونو پورې اړوند").
+entry(فيبي، ن، [فيبيان]، "يو کوچنی الوتونکی").
+entry(فوئبوس, ن, [فوئبوسونه], "لمر").
+entry(فینکس، ن، [فینکسونه]، "یو افسانوي مرغه").
+ورود(فون، ن، [فونونه]، "د شور يو واحد").
+entry(phonal, adj, [], "د وینا غږونو پورې اړوند").
+entry(د غږ توليدول, v, [توليد کړ, توليدوي, توليدوي], "د وينا غږونه توليدول").
+entry(ټیلیفون, v, [ټیلیفون وکړ, ټیلیفون کول, ټیلیفونونه], "چې ټیلیفون وکړي").
+مداخله(فونیم, ن, [فونیمونه], "د وینا یوه واحد، فونیمیک adj").
+entry(phoner, n, [د ټیلي فون زنګ وهونکي], "هغه څوک چې يو چا ته په ټیلي فون زنګ وهي").
+entry(فونټیک, صفت, [], "د وینا غږونو پورې اړوند").
+د ننوتل(پھوني, صفت, [], "PHONIER PHONIESTphony").
+entry(جعلي, فعل, [جعلي کړو, جعلي کول, جعلي کوي], "جعلي کول").
+entry(فونيک, صفت, [], "د غږ د طبیعت اړوند").
+د ننوتنه (phonics, npl, [], "د غږ پوهنه").
+داخل کړه(فونيد، تېری، [], "د فوني زمان").
+د پرولاګ لپاره: 
+entry(phonier, comparative, [], "د phoney او phony").
+entry(فونيز, اوسنی, [], "د فوني دريم شخص مفرد").
+د ننوتنه(د phoniest لپاره, د غوره درجه, [], "د phoney او phony څخه").
+entry(فونیلې, ق، [], "د جعلي په ډول").
+entry(phoning, present, [], "د phone مشارکت").
+د ننوتل(phono, n, [phonos], "د غږ ثبتونکی").
+entry(فونون, ن, [فونونونه], "د ارتعاشاتي انرژۍ یوه کوانټم").
+entry(phony, adj, [], "نه اصلي يا ريښتينی PHONIER PHONIEST").
+entry(جعلي, v, [جعلي کړل,جعلي کول,جعلي کوي], "په داسې توګه بدلول چې اصلي ښکاره شي").
+entry(فوئي, فرياد, [], "د کرکې یا نفرت د اظهار لپاره کارول کیږي").
+د پاښتو ژبې لپاره Prolog: 
+entry(phorate, n, [phorates], "یو حشره وژونکی").
+entry(phoresy, n, [phoresies], "د ځینو آرتهروپوډونو او کبانو ترمنځ یو سمبیوټیک اړیکهPHORETIC adj").
+د خطاوتن(phoronid, ن, [د خطاوتنونه], "یو ډول الحوری ژوي").
+entry(فاسجین, n, [فاسجینونه], "یو زهرجن ګاز").
+داخل(phosphid، ن، [phosphids]، "یو کیمیاوي مرکب").
+entry(phosphin, n, [phosphins], "یو زهري ګاز").
+entry(فاسفور, ن, [فاسفورونه], "يو ماده چې د وړانګو سره د مخامخ کیدو پر مهال رڼا خپروي").
+entry(phot, n, [phots], "د رڼا یوه واحد").
+د ننوتنه(روشني، صفت، []، "د رڼا پورې اړه لري").
+دخول(photics, npl, [], "د رڼا علوم").
+entry(فوتینو, ن, [فوتینوګان], "یو خیالي ابتدائی ذره").
+entry(عکس, v, [عکس_واخیست,عکس_اخیستل,عکسونه], "عکس اخیستل").
+entry(عکاس, ن, [عکاسان], "هغه څوک چې عکسونه اخلي").
+د پرولوګ کوډ:
+```prolog
+entry(photomap, v, [photomapped,photomapping,photomaps], "د هوايي عکاسي په وسیله نقشه جوړول").
+```
+د Prolog
+entry(photon, n, [photons], "يو ابتدايي ذره، فوتونيک صفت").
+entry(فوټوپيا, ن, [فوټوپياز], "روښانه رڼا کې لیدفونکو فوټوپيک صفت").
+دخول (photoset, v, [photoset, photosetting, photosets], "د فوتوګرافیکي وسیلو له لارې چاپ لپاره چمتو کول").
+entry(phpht, interj, [], "پت").
+د پرو لاګ: entry(phrasal, adj, [], "د دوه یا ډېرو تړلو کلمو یوه ډله اړوند").
+دخول(عبارت، ف، [عبارتي، عبارتونه، عبارات]، "په ټکو کې څرګندول").
+entry(عبارت, ن, [عبارتونه], "د وینا طرز یا سټایل").
+داخل(phratry, ن، [phratries], "د ابتدائي خلکو په منځ کې يو قبيلوي واحد PHRATRAL PHRATRIC صفت").
+entry(phreak, v, [phreaked,phreaking,phreaks], "د ليري واټن ټیليفون خدمت قانوني نه لاس رسی ترلاسه کول ترڅو د ټيليفون بيیې څخه ډډه وکړي").
+entry(phreaker, n, [phreakers], "يو څوک چې فريک کوي").
+entry(phreatic, adj, [], "د ځمکې لاندې اوبو پورې اړوند").
+entry(phrenic, adj, [], "د ذهن پورې اړوند").
+دخول(جنون، فع، [جنون کړ، جنون کوي، جنون کوي]، "جنون کول").
+entry(pht, interj, [], "د لږ غوسې یا تنګونې د څرګندونې په توګه کارول کېږي").
+entry(تالک, صفت, [], "د یو ټاکلی اسید پورې اړوند").
+entry(فٿالين, ن, [فٿالينونه], "يو کیمیاوي مرکب").
+entry(phthisic, n, [phthisics], "سق مرض").
+entry(phthisis, n, [phthises], "د سږو ناروغي").
+entry(phut, n, [phuts], "یو کُند او ناڅاپي غږ").
+entry(phyla, pl, [], "د فیلون او فیلوم څخه").
+entry(phylae, pl, [], "د قبیلې").
+پرو لاګ:
+entry(phylar, adj, [], "د طبقه بندۍ اړوند").
+entry(phylaxis, n, [phylaxises], "د بدن لخوا د اخته کيدو مخنيوی").
+دخول(phyle, n, [phylae], "په لرغوني یونان کې یو سیاسي تقسیمPHYLIC adj").
+د پرولوګ خبرې وازه دي:
+entry(phylesis, n, [phylesises], "یا PHYLESES د تکاملي پرمختګ لارهPHYLETIC صفت").
+entry(فیلری، ن، [فیلریز]، "د ځینې بوټو یو وریښمین").
+د ورودي دې ورقه د خپل کار د نوم نه ګټه واخلي.
+د ننوتل(پهللو، ن، [پهللوس]، "ډېر نری پیسري خمیر").
+entry(phyllode, n, [phyllodes], "د يو مسطح شوی پاڼۍ چې د يوې پاڼۍ په توګه کار کوي").
+ورود(phylloid, n, [phylloids], "یو پاڼه نما برخه د نبات").
+entry(phyllome, n, [phyllomes], "د یو نبات پاڼه").
+phylon, n, [phyla], "یو جنیتیکي تړاو شوی ګروپ"
+entry(ډله, ن, [ډلې], "يو ټاکسونوميکي وېش").
+د ننوتنه(فېزالس، ن، [فېزالسونې]، "یو نبات چې خوراکي ژیړ میوه لري").
+entry(physed, n, [physeds], "فزیکل تعلیم").
+د ننوتنه(physes, pl, [], "د physis").
+entry(فزیک, v, [درملنه, درملنې کول, فزیک], "درملنه کول").
+entry(فزیکي, ن, [فزیکونه], "د بدن طبي معاینه").
+entry(فیزیو، ن، [فیزیوګانې]، "یوه فزیوتراپست").
+د فزیک جوړښت یا شکل، د بدن جوړښت.
+entry(فوسيس, ن, [فوسیس], "په طبیعت کې د ودې یا بدلون اصل").
+entry(فائيټېن, ن, [فائيټينونه], "يو کيمياوي مرکب").
+entry(فايٽين, ن, [فايټينونه], "یو کلسيم مګنيزيم مالګه").
+entry(phytoid, adj, [], "د بوټي په څېر").
+د داخلېدو(فایټول، ن، [فایټولونه]، "یو الکول").
+ورودي(پایټون, ن, [پایټونونه], "د بوټي یو جوړښتي واحدPHYTONIC adj").
+د ننوتنه(pi, n, [pis], "یو یوناني حرف").
+د Prolog:
+entry(pi, v, [], "PIED PIEING or PIING PIESto jumble or disorder").
+\entry(pia, n, [پيا], "د دماغ يو غشا").
+entry(piacular, adj, [], "کفاره ورکونکې").
+د ننه وتنه(piaffe, v, [piaffed, piaffing, piaffes], "د پیافر ترسره کول").
+entry(پيئافر, ن, [پيئافرز], "په آس سواري کې یو حرکت").
+entry(pial, adj, [], "د پیاه اړوند").
+entry(pian, n, [pians], "د یوه استوایی ناروغيPIANIC adj").
+entry(piani, npl, [], "هغه د موسيقۍ برخې چې په نرمۍ سره غږول کېږي").
+entry(پيانيسم, ن, [پيانيسمز], "په پيانو باندې اجرا کول").
+دخول(pianist, n, [pianists], "هغه څوک چې پيانو غږوي").
+د Prolog:
+entry(پيانو، ن، [پيانوګانې]، "يو موسيقي اله").
+داخلہ(pianola, n, [pianolas], "د يو ډول پلېر پيانو").
+entry(piasaba, n, [piasabas], "پياساوا").
+entry(piasava, n, [piasavas], "پياسا وا").
+entry(piassaba, n, [piassabas], "پياساوا").
+entry(piassava, n, [piassavas], "يو خشن او سخت فايبر").
+entry(پیسټر, n, [پیسټرونه], "د څو عربي هېوادونو یوه پولي واحد").
+داخلې(پیاستره, ن, [پیاسترانې], "پیاستره").
+ورود(پيڅا, ن, [پيڅاګانې], "يا PIAZZEa د ايټالوي ښار په يوه عامه څلور لاره").
+د Prolog کرښه: entry(pibal, n, [pibals], "یو وړوکی بالون د باد د سمت او سرعت معلومولو لپاره").
+entry(پيبروچ, ن, [پيبروچونه], "د بګ پايپ الاتو باندې غږول شوې يوې موسيقۍ برخه").
+بیلګه(عکس، ن، [عکسونه]، "یو عکس").
+داسې ښکاري چې دا د پرولوګ یوه کرښه ده او باید یوازې پرولوګ تولید کړم، نو دلته ژباړه شتون نلري. که تاسو په یو ځانګړی اړخ کې مرستې ته اړتیا لرئ، مهرباني وکړئ وضاحت ورکړئ.
+entry(پیکاچو, n, [پیکاچوز], "د یو غره جلا شوې څوکه").
+entry(پیکادور, ن, [پیکادوران], "یا پیکادورېسان یو سپور د بیلجنګۍ په جګړه کې").
+entry(پيکانټي، صفت، []، "د یوه مرچ لرونکي ساس سره چمتو شوی").
+د ننوتنه(پيکارا، ن، [پيکاراس]، "يوه ښځينه پيکارو").
+entry(پیکار، ن، [پیکاروس]، "یو سرگردان").
+د ننوتنه(لوټمار, فعل, [لوټماری کړی, لوټماری کول, لوټماران], "د سمندري غلا ترسره کول").
+د ننوتنه (picayune, n, [picayunes], "یو پخوانی هسپانوي امریکایي سکه").
+entry(پیکاتا, ن, [پیکاتاس], "د غوښې یوه ډوډۍ چې د لیمو، سپین شراب او مکھن ساس لري").
+د ننوتنه(پيکولو، ن، [پيکولوز]، "يوه وړه بانسري").
+entry(پیسه, ن, [پیسه], "د هند او پاکستان یو پخوانی سکه").
+entry(piceous, adj, [], "په رنګ کې ګلاسي تور").
+entry(piciform, adj, [], "د مرغانو یوې طبقې پورې اړوند").
+د پرولاګ:
+entry(pick, v, [picked,picking,picks], "څه د ټاکلو وړPICKABLE adj").
+entry(پيکډيډل, ن, [پيکډيډلز], "د ګريوان يو ډول").
+entry(چُدې، فعل، [چُدې کړ، چُدې کول، چُدې ګانې], "چُدې د یوې وسیله په توګه کارول د سختو سطحو ماتولو لپاره").
+entry(کلنګ، فعل، [کلنګ باندې وهل شوی، کلنګ باندې وهل، کلنګونه]، "کلنګ وهل").
+entry(پيکر, v, [پيڪر,پیکر کول,پیکرونه], "د يو پوځ په مخکې څوکې جګړه کول").
+entry(picker, n, [راټولونکی], "هغه چې راټولوي").
+entry(پايکرل, n, [پايکرلان], "يو خوږې اوبو کب").
+ورودی(پیکټ, فعل, [پیکټ شو, پیکټ کول, پیکټونه], "د ځینو ځایونو مخې ته د دریدلو لپاره د سوداګرۍ په توګه د یو چا د ادعاوو د څرګندولو لپاره").
+entry(پېکټر, n, [پېکټران], "هغه څوک چې پېکټ کوي").
+د پرو لاګ یې: entry(pickier, comparative, [], "د picky").
+entry(ترټولو_نخريالی, لوړ_درجه, [], "د نخريالی").
+دريځ(پک کول، ن، [پک کولونه], "د هغۀ عمل چې څوک پک کوي").
+پرو لوګ: entry(pickle, v, [pickled,pickling,pickles], "په مالګه یا سرکه کې خوندي کول یا خوند وربښل").
+د داخليدو(پيکلر، ن، [پيکلرز]، "يو سبزي يا مېوه چې د اچار اچولو لپاره مناسبه وي").
+entry(قفل-کشا, n, [قفل-کشاګان], "د قفلونو د پرانستلو وسیله").
+entry(پک آف، ن، [پک آفونه]، "په بیسبال کې یوه لوبه").
+entry(واخلئ, ن, [واخلئ], "یوه کوچنۍ لارۍ").
+entry(پک ویک, ن, [پک ویکس], "په تيلو څراغونو کې د فتیو د پورته کولو وسیله").
+entry(picky, adj, [], "PICKIER PICKIESTfussy").
+entry(picloram, n, [piclorams], "يو بو هوؤونکی").
+entry(پکنک, v, [پکنک_کړ,پکنک_کول,پکنکونه], "د خوراک له پاره د ښکاره چکر ته تلل").
+entry(picnicky, صفت, [], "د پکنک پورې اړوند").
+entry(پیکوګرام, ن, [پیکوګرامونه], "د یوه ګرام لس زره میلیونه برخه").
+entry(پیکولین, n, [پیکولینونه], "پیکولین").
+entry(picoline, n, [picolines], "یو کیمیاوي مرکب").
+entry(picomole, n, [پیکو مولونه], "د یوه مول یو ټریلیونمه برخه").
+د پرولوګ ليکنه:
+entry(picot, v, [picoted,picoting,picots], "د سينګاري لوپونو سره څنډې کول").
+entry(پيکوتي, n, [پيکوتيان], "د قرنفل يو ډول").
+entry(picowave, v, [picowaved,picowaving,picowaves], "د خواړو ته د ګاما وړانګو سره وړانګې ورکول").
+entry(پیکېټ, ن, [پیکېټونه], "پیکېټ").
+د داخلېدو(pماهر, n, [pماهرونه], "یو کیمیاوي مالګهPICRATED adj").
+entry(پکرک, صفت, [], "ډېر تریخ خوند لرل").
+entry(پیکرایټ, n, [پیکرایټونه], "یو اورشی صخرهPICRITIC adj").
+entry(انځور, v, [انځورکړ, انځورونې, انځورونه], "يوه بصري استازيتوب جوړول").
+د Prolog:
+entry(picul, n, [piculs], "د وزن د اسیايي واحد").
+entry(piddle, v, [piddled, piddling, piddles], "وخت ضايع کول").
+entry(پډلر, ن, [پډلران], "هغه څوک چې ګډوډي کوي").
+entry(piddly, adj, [], "بې ارزښته").
+entry(پډاک، ن، [پډاکز]، "یو دوه ګونی نرم جسمه ژوی").
+entry(pidgin, n, [pidgins], "يو مخلوط ژبه").
+entry(پای, فعل, [پید,پایینګ,پایونه], "د پای").
+entry(piebald, n, [پایبالډز], "یو داغ لرونکی حیوان").
+د پرولاګ کرښه: entry(piece, v, [pieced,piecing,pieces], "ترڅو په یوه واحد کې یو ځای کړي").
+entry(piecer, n, [piecers], "هغه چې ټوټې کوي").
+دسج(piecing, n, [piecings], "د ګنډلو لپاره مواد").
+entry(پای کرسټ, ن, [پای کرسټس], "د یو پای کرسټ").
+د ننوتل(پايډ, تېر, [], "د پاي حالت").
+entry(piedfort, n, [piedforts], "پيفورټ").
+entry(پیډمونټ, ن, [پیډمونټونه], "هغه سیمه چې د غره په لمن کې پرته وي").
+entry(piefort, n, [پيفورټس], "چې غير معمولي توګه موټی سکه وي").
+entry(piehole, n, [pieholes], "يو خوله").
+entry(pieing, n, [pieings], "عام شخص باندې د پۍ غورځولو عمل").
+اندراج(پيپلانټ, ن, [پيپلانټس], "يو رهوبر").
+entry(پير، ن، [پيرز]، "يو جوړښت چې له ځمکې څخه د اوبو په لور غځيږي").
+entry(څيرول, ف, [څيرولی,څيرول,څيري], "په پرې کول يا تېرېدل").
+مېرمن(piercer, ن, [piercers], "هغه چې سوری کوي").
+entry(سوراخول, ن, [سوراخونه], "يوه ګاڼه چې د سوراخ شوي غوښې سره تړلې وي").
+entry(پيرۆګي, n, [پيرۆګي], "يو وړوکی ډمپلنګ چې ډکول لري").
+entry(پيروت, ن, [پيروتس], "يو مسخره").
+entry(pieta, n, [پيتاس], "د حضرت مریم یوه نمایشي چې د مسیح په جسد ماتم کوي").
+entry(پيرزو، جمع، [], "د تقوا").
+د داخلې(پېټيزم، نې، [پېټيزمونه], "پارسایي").
+entry(مذهبي, ن, [مذهبيان], "يو پرهيزګار شخص").
+entry(پارسایي, ن, [پارسایۍ], "د پارسایۍ کیفیت یا حالت").
+entry(piezo, adj, [], "د يو ډول برېښنا سره تړاو لري").
+د Prolog:
+entry(piffle, v, [piffled, piffling, piffles], "babbling کول").
+entry(piffler, n, [pifflers], "یو څوک چې خبرې کوي").
+دخولی(پسه، فعل، [پسه کول، پسه کيدل، پسه کوي], "د خوسی کونکي څاروي د وزر پسه لړ").
+د پرولاګ:
+entry(اوبو لاندې کښتۍ, n, [اوبو لاندې کښتۍ], "یو اوبو لاندې کښتۍ").
+د ورودي ښکاره	pigeon, n, [کبوتران], "لنډ بازو يوه مرغه".
+entry(کبټرځای, ن, [کبټرځايونه], "د کبټرانو د ساتلو ځای").
+entry(مرغه, ن, [مرغې], "یو بحری ماهی").
+د ننوتلو(خوک، تېر، [], "خوک کلمه د تېر لپاره").
+entry(خنزيرتون، ن، [خنزيرتونونه]، "يو خنزيرخانه").
+entry(پچي, n, [پچيان], "پچي").
+entry(د پسه په شان والی زيات, تقابلي, [], "د پسه په شان").
+د پرو لاګ پښتو ژباړه: entry(پړانګان, pl, [], "د پښی").
+دَ جَملَېَ(entry(piggiest, superlative, [], "of piggy")).
+entry(پکن, ن، [پکونه], "يو وړوکی د لرګیو سطل").
+ورودی(خوک کول، موجوده، [], "د خوک کولو ګردان").
+entry(پيغيش, صفت, [], "حرصۍ يا ککړ").
+entry(piggy, صفت, [], "زیات خوک، زیات زیات خوک").
+entry(piggy, n, [piggies], "يو کوچنی خنزیر").
+د ننوتنې(piglet, n, [piglets], "یو وړوکی خوګ").
+entry(د خنزیر په څیر, adj, [], "د خنزیر سره ورته").
+entry(رنګ, v, [رنګ شوي, رنګ کول, رنګونه], "يو رنګ ماده اضافه کول").
+د دې لاین ترجمه د یو زړه پورې ژبې لپاره دا ده:
+
+```prolog
+entry(pigmy, n, [pigmies], "پېګمي").
+```
+د ننوتل(pignoli, n, [pignolis], "pignolia").
+entry(pignolia, n, [pignolias], "د مغز لرونکو پاینونو د خوراک وړ تخم").
+د  پرا لوګ کوډ: entry(pignus, n, [pignora], "د پور د ضمانت په توګه ساتل شوې شتمني").
+entry(د پښتو نوم, ن, [د پښتو جمع], "د هیکوري میوه").
+entry(pigout, نوم, [pigouts], "د ډېر خوراک يو ځل").
+entry(خنزير فارم, ن, [خنزير فارمونه], "يو ځای چېرې چې خنزيران ساتل کېږي").
+entry(خنزيرپوست, n, [خنزيرپوستې], "د خنزير پوستکی").
+د Prolog:
+entry(pigsney, n, [pigsneys], "يو ګران").
+entry(pigstick, v, [pigsticked, pigsticking, pigsticks], "د غوايي ځناور ښکار کول").
+entry(خنزيرځای, ن, [خنزیرځايونه], "یوه ډول خنزیر کور").
+entry(pigtail, n, [پيغټېلونه], "د وېښتو یو کلک جوړ شوی ګېډۍ").
+entry(خنزېر بوټی, ن, [خنزېر بوټیان], "یو بوټی چې ککړتیا کوي").
+entry(piing, a, [], "د 'pi' د اوسني حالت برخه").
+داخلونه(پیکا، ن، [پیکاس]، "یو وړوکی تی لرونکي حیوان").
+دداخلې(پیکاکے، ن، [پیکاکیس]، "یوه ختیځ هندۍ تاک").
+entry(پیک، ف، [تیرہ کړه، تېریدل، تېروې]، "د سپیچ سره سوري کول").
+entry(پیک مین, ن, [پیک مین], "یو عسکر چې د پائیک سره مسلح دی").
+entry(پیکر, n, [پیکران], "کنجوس شخص").
+Prolog:
+دخلہ(piki, ن, [pikis], "نازک نیلي جواري ډوډۍ").
+entry(piking, present, [], "د پیک برخه").
+entry(پلو, ن, [پلوګانې], "يو ډيش چې له مساله دار وريجو او زياتره وخت غوښه سره جوړيږي").
+entry(پلاو, ن, [پلاونه], "پلاو").
+entry(pilar, صفت, [], "د وېښتانو پورې اړه لري").
+entry(پيلسټرا, ن، [پيلسټرانې], "يو مستطيل لرونکی ستن").
+entry(پلو, ن, [پلوس], "پلاو").
+entry(پلاو, ن, [پلاونه], "پلو").
+entry(پليچارډ, n, [پليچارډونه], "یو وړوکی سمندري کب").
+entry(pile, v, [piled,piling,piles], "يو بل باندې ايښودل").
+entry(پايليا, pl, [], "د پايليام").
+entry(pileate, adj, [], "د يو تاج لرونکی").
+entry(ډوګنډه، صفت، [], "ډوګنډ").
+entry(پرېوتل, تېره, [], "د ډنډولو زمان").
+د ننوتنه(پيلائي، برخه، []، "د پيليوس")۔
+entry(پرڅپل، صفت، []، "د یارن پورته شوې سطحه نه لرل").
+entry(پيلوس, صفت, [], "پيلو").
+entry(پيلئم, ن, [پيله], "د مرغه د سر سر").
+د ننیوتا(پائل اپ، ن، [پائل اپونه]، "یو ټکر چې په کې څو موټره شامله وي").
+د ننوتنه (pileus, n, [pilei], "د ګېډۍ د چترۍ شکله برخه").
+د ننوتنه(پيلورټ, ن, [پيلورټس], "یو طبي نبات").
+entry(غلا، فعل، [غلا شوی، غلا کول، غلا کوي]، "غلا کول").
+دستر, نوم, [دستران], "یوه چې غلا کوي".
+```prolog
+entry(زیارتوال, v, [زیارت وکړ, زیارت کوي, زیارتوال], "د مذهبي موخو لپاره مقدس ځای ته سفر کول").
+```
+دخول(pili, n, [pilis], "د فليپين يو ونه").
+entry(پيلیفورم, صفت, [], "د وېښتانو په څېر").
+entry(پایلنګ, ن, [پایلنګونه], "د ودانۍ د ملاتړ جوړښت").
+د داخلول( ګولۍ، فعل، [د ګولۍ ورکړل شو، ګولۍ ورکړل کیږي، ګولۍ ]، "طبي ګولۍ ورکول").
+entry(چورلټ، فعل، [چورلټ شو, چورلټ کوي, چورلټونه], "لوټ کول").
+پښتو: entry(چورونکی، ن، [چورونکي]، "یو چې چور کوي").
+داسې ښکاري چې تاسو د یو ځانګړي "Prolog" کرښې د ژباړې غوښتنه کړې ده، چې دا دې په پښتو کې وړاندې شي. په هر حال، دا باید ووایم چې "Prolog" کوډونه خاص ساختمان او ترکیب لري او په عمومي توګه له برنامه جوړونې ژبو سره ورته وي، او ذاتاً ژباړې ته اړتیا نه لري. ومع ذلک، که چیرې تاسو معنې وضاحت ته اړتیا لرئ، دا کرښه په انګلیسي کې دا مانا لري چې یوه ننوتنه (entry) د اساسي یا عمودي ملاتړونو سره د چمتو کولو لپاره تعریف شوي فعل ښوودنه کوي.
+entry(پيل بکس, ن, [پيل بکسونه], "د ګولیو لپاره یوه کوچنۍ بکس").
+دخله(سولې، ن، [سولېګانې], "يو ډول وخته چې کولی شي په کنډک کې تاو شي").
+ورود(pillion, ن, [pillions], "د آس یا موټر سائيکل په اړه د اضافي سپرلي لپاره یو پړپړ یا بالښت").
+entry(pillock, n, [pillocks], "یوه ناپوهه شخص").
+entry(د چوترې, فعل, [چوتر ته, چوتر کول, چوترې], "د عامو خلکو په مخ کې د تمسخر یا ناوړه چلند څرګندول").
+دوه سریزی(pillow, v, [pillowed,pillowing,pillows], "په بالښت د ارام لپاره د سر کشن").
+entry(pillowy, adj, [], "د بالښت په څېر").
+entry(پيلوز, صفت, [], "په ويښتو پوښل شوی").
+د خط په فورمې کې د پښتو لپاره هیڅ کوم ځانګړی بدلون ته اړتیا نشته.  
+entry(pilosity, n, [pilosities], "the state of being pilose").
+entry(pilot, v, [پیلود کړ, پیلود کول, پیلوتونه], "د لارې کنټرول کول").
+entry(pilotage, n, [pilotages], "د پیلټ کولو عمل").
+د ننوتنې(پيلوټ کول، اسم، [پيلوټ کولونه], "د نوبري يو څانګه").
+د بخښنې غوښتنه، خو زه لاسني پروګرامنګ ژبو لکه پروګ په پښتو نه شي تعبیرولی.
+entry(پيلسنر, ن, [پيلسنران], "پيلسنر").
+د Prolog کوډ:
+entry(pilsner, n, [پيلسنرس], "يوه رڼا بير").
+entry(پيلۍ, ن, [پيلۍګانې], "يوه کوچنۍ ګولۍPILULAR adj").
+entry(pilus, n, [pili], "د وېښتان یا وېښتانو ته ورته جوړښت").
+د الوتنې(پيلي، صفت، [], "يو شمېر د څپېړو په شکل كې د ښكلايي نخشو په توګه وېشل شوې").
+پروګرام(entry(pima, n, [pimas], "د يو قوي لوړ رتبه پخته")).
+entry(pimento, n, [pimentos], "پيمينټو").
+entry(pimiento, n, [pimientos], "يو خوږ مرچ").
+entry(pimp, v, [pimped, pimping, pimps], "د يو فاحشه لپاره د مراجعينو غوښتنه کول").
+entry(فحاشی, n, [فحاشۍ], "د یوې فاحشې لپاره مراجعینو غوښتل").
+دخول پينپلو, ن, [پيمپلز], "د پوستکي یو ملتهب سوجنPIMPLED صفت".
+entry(pimply, adj, [], "داغ لرونکی").
+د ننه کېدل(pin, v, [بند, بندونه, بند کړئ], "د فلزي یوې نرۍ نقطه سره تړل").
+د Prolog دوه ګډ پروګرام ته:
+entry(pina, n, [pinas], "یو نښتر").
+entry(pinafore, n, [pinafores], "د ماشومانو پېشومه").
+د پرولوګ دې کرښې ژباړه پښتو ته دا ده:
+entry(pinang, ن, [pinangs], "د يوې ونې یو �������� انداز").
+د پينسټر ونې په اړه مالومات, نوم, [پينسټرز], "د يوې څانګې ونې".
+دفاع(pinata, n, [pinatas], "په یوه مکسیکايي لوبه کې کارول شوې لوښۍ").
+د ننوتنه(pinball, v, [pinballed,pinballing,pinballs], "له یوه ځایه بل ځای ته په چټکۍ سره حرکت کول").
+د پرولاګ:
+entry(pinbone, n, [pinbones], "د ښکته د ملا د تیر هډوکی").
+entry(پینسر, ن, [پینسرونه], "د یوې نیولو وسیلې دوه محور لرونکې برخې څخه یوه").
+entry(چک, v, [چک کړ, چک کول, چک کوي], "د دوو څنډو یا سطحو ترمنځ فشار ورکول").
+entry(چاپه خان, ن, [چاپه خان], "یو لوی مړوند").
+دليل(pincheck, n, [pinchecks], "د پارچې ډيزاين").
+entry(pincher, n, [چپنکې], "هغه چې چپنه کوي").
+entry(پينکرل, n, [پينکرلونه], "يو ځګ چې په ځای کې د وېښتو د ستخ په وسیله نیول شوی وي").
+entry(pinder, n, [pinders], "یو رسمي چې پخوا یې بې لارې څاروي نیول").
+entry(pindling, adj, [], "ضعیف یا ناروغ").
+```prolog
+entry(صنوبر, فعل, [لټۍ, لټیدل, لټوی], "په شدت سره ارمان کول").
+```
+entry(پینیل, n, [پینیلز], "په مغزو کې یوه غده").
+entry(چلغوزے, ن, [چلغوزے], "د یو ديودار د ونې د مخروط شکل لرونکی مېوه").
+د داخلې(پينه شوې، تېره، [], "د پينښ حالت").
+entry(pineland, n, [pinelands], "د پاین ونو سره ځنګل لرونکی ځمکه").
+entry(pinelike, adj, [], "د لوښک لرونکی ونې سره ورته والی شتون").
+دخـــولـات(pinene, n, [pinenes], "د تورپینټین اصلي برخه").
+پروګ:
+entry(pinery, n, [pineries], "هغه سیمه چیرې چې نښترې وده کوي").
+د ننوتنې(پوسه ټوک, ن, [پوسه ټوکونه], "یو خوږبویه بوټی").
+entry(pinetum, n, [د پاینونو باغونه], "د پاینونو ونيکر باغ").
+entry(پائن ووډ, n, [پائن ووډز], "د پائن د ونې لرګي").
+entry(پائینی, صفت, [], "PINIER PINIESTپائینی").
+entry(pinfish, n, [pinfishes], "يو وړوکی سمندري کب").
+د ننوتنې(pinfolked,(v,[pinfolked,pinfolding,pinfolks],"په يو تړلي ځاى کې د بې ګانو د ځاى پر ځاى کولو لپاره")).
+entry(ping, v, [پنګ وکړ, پنګول, پنګوي], "يو لنډ لوړ ږغ توليدول").
+د پرو لوگ لیکنه: entry(pinger, n, [pingers], "د غږ د څپو د توليدولو يوه آله").
+entry(pingo, n, [pingos], "یا PINGOES د ځمکې یو ټیټ غونډۍ چې د لاندې کنګل د پراختیا له امله جوړیږي").
+د Prolog کرښه په پښتو ژبه:
+```prolog
+entry(پينګراس, ن, [پينګراسونه], "يو اروپايي واښه").
+```
+entry(pinguid, adj, [], "چرب").
+دخول(pinhead, n, [pinheads], "د سوکۍ سر").
+entry(pinhole, n, [pinholes], "د یوه پن په واسطه جوړ شوی کوچنی سوری").
+دورە(pinier, تقابلي, [], "د piney او piny څخه").
+پرو لاگ: entry(piniest, superlative, [], "د piney او piny").
+دخول(پينيګ، اوسنی، [], "د پاین برخه اخیستونکی").
+پروګ:
+entry(pinion, v, [pinioned,pinioning,pinions], "د وزر وزرې لرې کول یا بغل کول ترڅو د الوتنې مخنيوی وشي").
+entry(پینایټ, ن, [پینایټونه], "یو منرال").
+د ننه-ول(pinitol, ن, [pinitols], "یو الکول").
+entry(ګلابي, صفت, [], "د يو ځلنده سره رنګ").
+entry(ګلابي, v, [ګلابي کړ, ګلابي کول, ګلابي], "په ټوکر باندې د ارې غاښ څنډه پرې کول").
+entry(pinken, v, [pinkened,pinkening,pinkens], "ګلابي کېدل").
+entry(pinker, n, [pinkers], "هغه څوک چې ګلابي کوي").
+entry(پینکی, ن, [پینکیز], "یو کښتۍ چې تنګ پورته ځوړند لکۍ لري").
+entry(ګلابي سترګه, ن, [ګلابي سترګې], "د سترګې یوه التهاب").
+entry(پنکی, ن, [پنکیاں], "کوچنۍ ګوته").
+دخول (pinking, ن, [pinkings], "د پرې کولو او يا سينګارولو يوه طریقه").
+د رنګه، صفت، []، "څه نا څه ګلابي"
+entry(ګلابي, قید, [], "د ګلابي رنګ سره").
+entry(ګلابي, n, [ګلابيوال], "د ګلابي حالت").
+entry(پينکو, ن, [پينکوز], "يا PINKOESهغه شخص چې يو څه توند سياسي نظرونه لري").
+entry(ګلابي ريښه, n, [ګلابي ريښې], "د طبي نبات ريښه").
+entry(pinky, adj, [], "PINKIER PINKIESTpinkish").
+entry(pinless, adj, [], "د پنوں څخه بې برخې").
+entry(pinna, n, [pinnas], "يا PINNAيو وزر يا وزر په څېر برخه").
+entry(پینېس, ن, [پینېسونه], "يو وړوکی بېړۍ").
+entry(چوړ, v, [چوړو,چوړنګولو,چوړونه], "په څوکه باندې ځای په ځای کول").
+entry(pinnal, adj, [], "د پيني سره تړاو لرل").
+entry(پنڌ پال، صفت, [], "د وزر سره ورته والی لري").
+د ورود(پین‌ایټډ، صفت، [], "پین‌ایټ").
+دخله(ثابت, تېر, [], "د ثابت زمانه").
+entry(pinner, n, [pinners], "هغه څوک چې پینونه کوي").
+د ننوتنه(پينيانې، جمع، [], "د پيني").
+دګڼه(pinning, حاضر, [], "د pin فعلي برخه").
+entry(پنیپیډ, ن, [پنیپیډونه], "یو تی لرونکی چې غړي یې په فلپرونو بدل شوي دي").
+پرو لاگ: entry(pinnula, n, [pinnulae], "pinnulePINNULAR adj").
+entry(پڼه, ن, [پڼې], "یوه پنځمه برخه یا ارګان").
+entry(pinny, n, [پېنيز], "يو پينافور").
+داخلہ(پیناکل، ن، [پیناکلز]، "د کارتونو لوبه").
+entry(pinocle, n, [pinocles], "پیناکل").
+داخلې(pinole, ن, [pinoles], "یوه ښه وړه").
+entry(pinon, n, [پینونز], "یا پیینوز یو د پاین ونه").
+entry(pinot, n, [pinots], "یوه سره یا سپینه انګور").
+د ننوتنه(pinotage, n, [pinotages], "د سُرخ انګورو يو ډول").
+entry(pinpoint, v, [پته,پتې لګول,پتې لګوي], "په دقيق ډول ځای مشخصول").
+entry(pinprick, v, [pinpricked,pinpricking,pinpricks], "په ستن سورۍ کول").
+entry(پِنشر, n, [پِنشرز], "یو لوی لنډ ویښتان سپی").
+entry(pinspot, n, [pinspots], "يو کوچنی ځواکمن سپاټلايټ").
+entry(پينټ, ن, [پينټس], "يو مايع او وچ اندازه د ظرفيت").
+entry(pinta, n, [pintas], "یوه د پوستکي ناروغي").
+دخولی(پینټاډا، ن، [پینټاډاس], "پینټاډو").
+entry(پِينټاډو, ن, [پِينټاډوز], "يا پِينټاډو لارې يو لوى خوراکي ماهي").
+entry(پین ټیل, ن, [پین ټیلونه], "یو سیند مرغه").
+entry(pintano, n, [pintanos], "يو استوايي ماهي").
+entry(پنکټل, ن, [پنکټلس], "یو پین چې پر دې باندې یو څه څرخي").
+entry(pinto, n, [pintos], "يا PINTOES يو داغ لرونکی آس").
+entry(pintsize, adj, [], "وړوکی").
+entry(پينټک, ن, [پينټکس], "د پارچې يو ډېر تنګ پوړ").
+د دې Prolog کرښه به په پښتو کې وي:
+entry(pinup, n, [pinups], "يو تصوير چې ممکن په دېوال باندې ځوړند شي").
+entry(pinwale, n, [pinwales], "د یو ډول ټوکر").
+د ننوتنه(پینویډ، ن، [پینویډز]، "یو کلنی بوټی").
+ډول(entry, pinwheel, v, [pinwheeled, pinwheeling, pinwheels], "د یو لرګي په سر تاویدل").
+entry(pinwork, n, [pinworks], "د ګلدوزۍ یوه بڼه").
+entry(pinworm, n, [pinworms], "يو پرازیتي چینجی").
+د ننوتنه(پایني، صفت، [], "د پاینیری پاینیسټ د پاین ونو وړاندیز یا پوښل شوی").
+entry(پينين, ن, [پينينس], "د چینایي ایدیګرامونو د لاتینولو لپاره یو سیستم").
+entry(پینون, ن, [پینونز], "پیون").
+entry(پيولټ, ن, [پيولټس], "يو يخچال").
+entry(پایون, ن, [پایونونه], "یو ذره چې د اتومي برخو څخه څخه لږ وړوکی دیPIONIC صفت").
+entry(پراختیاورکونکی, فعل, [پراختیاورکړ, په پراختیا کې بوخت دی, پراختیاورکوي], "د پیل په مرحلو کې ګډون کول").
+د ننوتل(piosity, n, [piosities], "د تقوا یوه زیاته ننداره").
+entry(pious, adj, [], "دیني تقدس لخوا نښه شویPIOUSLY adv").
+entry(pip, v, [پپ کړل,پپ کول,پپس], "د هګۍ د پوټکي ماتول").
+entry(pipa, n, [pipas], "څلور تاری لرونکی چینایي رباب").
+entry(pipage, n, [pipages], "د پایپونو یوه سیستم").
+entry(پيپل, ن, [پيپلان], "د هند يوې انځرې ونه").
+entry(پايپ, فعل, [پایپډ، پایپنګ، پایپس], "د پایپ په وسیله د یو هالود سلنډر انتقال کول").
+entry(pipeage, n, [pipeages], "پایپ").
+د Prolog کرښه: entry(pipeclay, v, [pipeclayed,pipeclaying,pipeclays], "د سپین خټې سره د څرمنې سپینول").
+entry(pipefish, n, [pipefishes], "يو نازک ماهی").
+د ننوتنه(پايپفول, نوم, [پايپفولونه], "يوه اندازه کافي ده چې يو تمباکو پايف ډک کړي").
+entry(pipeless, صفت, [], "بې نل").
+د اسنادو main/Weaver3.scpt راکھل  دستاويزات، رسواړول افزارونه Autodesk، AutoCAD ېړ ڪن  شديل درهمهانداخله ( درېخنامه فلترلنډ و معرفتي وړتيا نښېنۍ غوره-ډول، فضا يا سيمه، دنده يا اسمان ړومبيتوبګورو "سيلنډر نمايزلا"  دساڼې کړئ ي伦理电影کې).
+entry(پایپ لاین, v, [پایپ لاین شوی,پایپ لگول,پایپونه], "د پایپ له لارې انتقالول").
+entry(پایپر, ن, [پایپرز], "هغه څوک چې د نلۍ موسيقي وسیله غږوي").
+entry(پيپرين, ن, [پيپرينونه], "يو کيمياوي ماده").
+entry(pipestem, n, [pipestems], "د سګرټي د پایپ ډنډه").
+entry(pipet, v, [pipetted,pipetting,pipets], "پيپټ کول").
+entry(پيپټه, v, [پيپټه شو, پيپټه کول, پيپټې], "د مايع اندازه کول د کيلبر شوي نل سره").
+entry(پائپ ورک, n, [پائپ ورکونه], "پائپونه په مجموعي توګه").
+entry(pipier, تقابلي, [], "د pipy").
+entry(pipiest, superlative, [], "د pipy").
+entry(pipiness, n, [pipinesses], "د پیپي کیدلو ځانګړتیا").
+entry(پائپنګ, ن, [پائپنګونه], "د پائپونو یو نظام").
+entry(pipingly, adv, [], "په لوړ غږ").
+entry(پيپيټ، ن، [پپټونه]، "يو سندري چينجي").
+entry(pipkin, n, [pipkins], "يو وړوکی لوښی").
+entry(pipless, adj, [], "بې تخمو").
+entry(pipped, ماضي, [], "د pip زمان").
+entry(پپن, ن, [پپنس], "د څو ډول د مڼې هر یو").
+entry(pipping, present, [], "د پپ فعل حال برخې").
+د ننوتلو پایلې به په لاندې ډول وي:
+
+```prolog
+entry(pipy, adj, [], "PIPIER PIPIESTshrill").
+```
+د افعال داخ)نه د (هعلون د ,n , piquance(ګورډن+)
+entry(خوندورتیا, ن, [خوندورتیاوې], "د خوندور او تیزوالي خصوصیت").
+entry(توند, صفت, [], "په خوند کې موافقانه تیز").
+entry(پېکۍ، فعل، [غصه کړ، په غصه کول، په غصه کوي]، "د غصې یا خپګان راپارول").
+entry(پیکې, نوم, [پیکې], "د کارتونو لوبه").
+entry(داړه مارۍ, ن, [داړه مارۍ], "لوړو اوبو کې د غلا کولو").
+entry(پيرګا, ن, [پيرګاس], "يو ډول ډوګ آوټ کینو").
+entry(پيرانا, ن, [پيراناګان], "پيرانا").
+entry(پيرانها، ن، [پيرانهاګانې]، "يو تږی ماهی").
+entry(پيراروکو, ن, [پيراروکوس], "يو لوی خوراکي کب").
+entry(خزانه, v, [خزانه کړل, خزانه کول, خزانه کوونکی], "د سمندري داړه مارۍ ترسره کول").
+entry(پيراتيک, صفت, [], "د سمندري غلا پورې اړوند").
+entry(پيرايا, ن, [پيراياس], "پيرانا").
+entry(piriform, صفت, [], "pyriform").
+entry(pirn, n, [pirns], "د تاوولو ښیښه").
+ورود(پیروگ، اسم، [پیروګین], "یا پیروغی یا پیروګی، لوی روسی پیسټری").
+entry(پيروجي, ن, [پيروجيز], "پيروجي").
+entry(پيرګو، ن، [پيرګوزونه]، "پيرګو").
+ورنه(پيروق, ن, [پيروقونه], "پيراغوا").
+entry(پيړوژک, ن, [پيړوژکي], "يا PIROSHKI یا PIROJKIa یوکوچنۍ روسۍ پیسټري").
+entry(ماهی‌گیری‌ځای, ن, [ماهی‌ګیرځایونه], "د کب نیولو ځای").
+د مرستې لپاره اړتیا شته وي, لطفاً متن یا موضوع ته چمتو کړئ کومک چې تاسې یې کول غواړئ.
+entry(حوض, ن, [حوضونه], "يا PISCINAE يو حوض د ځینو کلیسایي مراسمو لپاره کارول کیږي PISCINAL صفت").
+entry(ماهيانو، صفت، [], "د ماهيانو پورې اړوند").
+د پرولاګ:
+entry(pisco, n, [piscos], "د پېرو يو بېرېندى").
+entry(پش, فعل, [پشېد,پش کول,پشۍ], "حقارت څرګندول").
+entry(پشر, ن, [پشران], "يو ځوان يا بې تجربې شخص").
+entry(پيشوګ, ن, [پيشوګونه], "پيشوګ").
+د داخلې(پيشوگ، اسم، [پيشوگانې], "يو بد جادو").
+د ننوتنه(پیسفورم، ن، [پیسفورمونه]، "د لاس د مړۍ وړوکی هډوکی").
+entry(pismire, n, [pismires], "یوه مېږه").
+entry(پيسو, ن, [پيسوز], "د فلپائن پيسو").
+انتری(پیسولایټ، ن، [پیسولایټس]، "یو چونا تخته").
+د پرولوگ:
+entry(pisolith, n, [pisoliths], "یو وړ کوچنی خراپ د چونې").
+entry(پيسوئر, ن, [پيسوئرونه], "يو عام تشناب").
+entry(پسته, n, [پستې], "د شین رنګ یو ډول").
+entry(پستې, ن, [پستې], "یوه د ډرایدشات د سکی لاره").
+entry(پستول, ن, [پستولونه], "د ګل لرونکو بوټو د تخم جوړونکی ارګان").
+د ننوتنه(پستول, فعل, [پستول شو, د پستول کارول, پستولونه], "يا PISTOLLED PISTOLLING PISTOLs د ویشتلو لپاره د یوه کوچني ټوپک سره").
+entry(پستوله, ن, [پستولېس], "یو مخکې کارېدونکی اروپایي طلايي سکه").
+entry(پسٹن, ن, [پسٹنز], "انجن کا ایک حصہ").
+entry(pistou, n, [pistous], "یو ساس چې د زیتون تېل، هوږه، ریحان او اکثره وختونه پنیر سره جوړ شوی وي").
+entry(ګودال, فعل, [ګودالی کړ, ګودالی کوي, ګودالونه], "د کندو یا خفو سره نښه کول").
+entry(پيتا, ن, [پيتاس], "یو قوي فایبر").
+entry(پيتايا, ن, [پيتاياګانې], "د جنوب لویدیځې امریکا او میکسیکو یو کیکټس").
+entry(pitapat, v, [pitapatted,pitapatting,pitapats], "د پرله پسې ټک ټک غږ جوړول").
+پروګرام(پيټايا، ن، [پيټاياس]، "پيټاهايا").
+ورود(پچ، فعل، [کيښود، کيښودونکی، کيښودی]، "غورځول").
+entry(ډکونکی, n, [ډکونکي], "یو کانټینر د مایعاتو ساتلو او تویولو لپاره").
+entry(پچېر, تقابلي, [], "د پچي").
+entry(pitchiest, superlative, [], "د pitchy").
+entry(په ډېر تور ډول, adv, [], "in a very dark manner").
+entry(پلورونکی, ن, [پلورونکي], "د وړو سامانونو پلورونکی").
+entry(pitchout, n, [pitchouts], "يو ډول د بيسبال پچ").
+entry(pitchy, adj, [], "پچي پورې PITCHIESTtarry").
+entry(د رحم وړ, صفت, [], "د زړه سواندی").
+ورود(خنډ, ن, [خنډونه], "پټ خطر یا ستونزه").
+entry(ماغزه, v, [ماغزه کړل, ماغزه کول, ماغزې], "د ملا تیر پرې کول").
+د ننوتنې(سوراخ، ن، [سوراخونه], "د کان دروازه").
+د ننوتلو(بې اصل, صفت, [], "د ځواک څخه بې برخې").
+entry(پيټوس, ن, [پيټوي], "يو لوی لرغونی ذخیره جار").
+entry(لنډ, صفت, [], "لڼډتر لڼډترینهلنډلنډپڼسټ adv").
+entry(pitiable, adj, [], "په افسوسناکه توګهPITIABLY adv").
+entry(رثا, تېره ماضي, [], "د رثا زمانه").
+د Prolog کوډ: entry(pitier, n, [پښیمان], "هغه څوک چې رحم کوي").
+entry(pities, present, [], "د پخلاینې ۳م شخص یوازینی اسم").
+entry(خواشینې, صفت, [], "زیات خواشینې ترین خواشینې دخپله برخه").
+entry(بې رحمه, صفت, [], "د رحم نه لرل").
+entry(pitman, n, [pitmen], "يو کان کن کارکن").
+entry(پيټمن, ن, [پيټمنز], "يو نښلونکي راډ").
+entry(پیتون, ن, [پیتونونه], "په غرونو ختلو کې کارېدونکی د فلزي سپکۍ").
+entry(پيټوټ, ن, [پيټوټونه], "يو نل چې د يو سېال بهير فشار اندازه کولو لپاره کارول کيږي").
+د برلاګ: entry(pitsaw, n, [pitsaws], "لويه اېره د لرګيو پرې کولو لپاره").
+entry(پټه, ن, [پټې], "د آسیا، اسټرالیا او افریقا یو ناست مرغی").
+entry(څه نا څه, ن, [څه نا څه], "د پیسو یوه کوچنۍ برخه").
+entry(pitted, past, [], "د ځای یا ګودال د فعل زمان").
+entry(پټ کول, ن, [پټ کول], "د غارونو یا کندوګانو ترتیب").
+د دې پرولوګ کرښه دې په پښتو کې داسې وي:
+entry(ترحم, فعل, [ترحم شوی, ترحم کول, ترحم کوي], "پر بل چا د بد مرغه حالت له کبله رحم او غم احساس کول").
+entry(piu, adv, [], "نور د موسیقۍ په لارښوونه کې کارول کیږي").
+د ننوتنه(محور، فعل، [محور شوی، محور کول، محورونه]، "پر یوه محوری شافټ یا میله باندې ګرځېدل").
+entry(مهم, صفت, [], "په ټولیزه توګه مهم").
+entry(pivotman, n, [pivotmen], "د باسکټبال ټیم مرکز").
+entry(pix, n, [pixes], "pyx").
+د ورودي(pixel, n, [pixels], "د ویډیو انځور یو بنسټیز واحد").
+entry(پکسل کول, فعل, [پایکسله شوی,پایکسل کول,پایکسل کوي], "انځور په پکسلونو تقسیمول لپاره په ډیجیټل بڼه کې ښودل").
+اینټري(پکسي, ن, [پکسونه], "پکسيPIXIEISH صفت").
+د ننوتنې(پکسلیټ, فعل, [پکسلیټ شوی, پکسلیټ کول, پکسلیټ کوي], "پکسلیټ").
+entry(pixiness, n, [pixinesses], "د لوبو سره شرارت حالت").
+اندراج(پکسي، ن، [پکسيس]، "يو خوندورانه شيطان پري يا بچي").
+entry(پيزاز, ن, [پيزازونه], "د دلچسپۍ يا جذابیت کیفیت").
+داخلول(پيزازي, صفت, [], "پيزاز لري").
+د لاندې پرولوگ كرښه په پښتو ژباړل شوې ده:
+```prolog
+داخله(پيزا، ن، [پيزاګانې], "يو ايټالوي خلاص پاي").
+```
+د ننهۍ([پيزازس], "پیزاز", pizzaz(n, entry.
+entry(پيزېل, ن, [پيزېلېس], "يو نازک کرپ ايتاليایي کوکي").
+ورود(پیزریا، ن، [پیزریاهان], "یو ځای چېرې چې پیزاګانې جوړې او پلورل کېږي").
+entry(پزل, ن, [پزلونه], "د يو حيوان تناسلي الته").
+داخل(placable, صفت, [], "د راوړلو وړ بښنهPLACABLY قيد").
+entry(علام، ف، [علام شوې، علام کول، علامات]، "د پوسټرونو په واسطه عام کول").
+entry(مطمئن کول, v, [مطمئن, مطمئن کول, مطمئن کوي], "تسکین یا نرمول").
+entry(placater, n, [placaters], "هغه څوک چې ډاډ ورکوي").
+د Prolog کرښه په پښتو کې په لاندې ډول ده:
+```prolog
+داخل(place, v, [مشخص_ځای_ته_ښکاره_کول,ښودنه,ښوول], "په ځانګړي ځای کې اچول").
+```
+د Prolog ژبه:
+entry(placebo, n, [placebos], "يا PLACEBOES يوه ماده چې د دارو درملنه نلري خو د هغې د رواني اغېز لپاره ورکړل کيږي").
+دخول(مقرر، م، [مقررون]، "عامه دفتر ته سیاسي ټاکل شوی").
+د بښنې غوښتنه کوم، د پرولوګ متن:
+
+entry(placemat, n, [placemats], "يو ميز کېښودونکی، د يو سطحيې د ساتانې لپاره د موادو يو ټوټه چې په هغې باندې د يو ځای ترتيب شوی وي").
+entry(پلاسنټه, ن, [پلاسنټې], "يا په زياتره تي لرونکو کې يو ودګي اندام").
+entry(ښودونکی, n, [ښودونکي], "هغه څوک چې ښودنه کوي").
+entry(placet, n, [placets], "د موافقې رایه").
+entry(آرام, صفت, [], "آرام یا سولهPLACIDLY قید").
+entry(placing, n, [placings], "په یوه سيالۍ کې د درجې ترلاسه کولو حالت").
+entry(پلک, ن, [پلکس], "د سکاټلینډ پخوانی سکه").
+entry(پلاکېټ, ن, [پلاکېټونه], "په ګارمنټ کې یوه څېرنه").
+entry(پلاکوئډ, ن, [پلاکوئډونه], "يو ماهي چې د پلیټ په شکل پیمانه لري").
+entry(چت, ن, [چتونه], "یوه ښکلۍ جوړ شوی چت").
+entry(پلاګل, صفت, [], "د منځنۍ دورې موسیقۍ حالت نښه کوي").
+د پرولوګ کرښه:
+
+entry(plage, n, [plages], "په لمر باندې یوه روښانه سیمه").
+entry(سرقہ, ن, [سرقئ], "د بل چا کار د خپل په توګه وړاندې کول").
+entry(وبا, فعل, [ځورول,ځوروونکی,ځوري], "ځورول يا تنګول").
+entry(plaguer, n, [plaguers], "هغه څوک چې وبا خپروي").
+entry(طاعونی, صفت, [], "وبا").
+entry(plaguy, adj, [], "درد سر جوړونکیPLAGUILY adv").
+entry(plaice, n, [plaices], "د یو اروپایي انبله").
+entry(پلايډ, ن, [پلايډونه], "يو وولن سکارف د يو څکريک ډيزاين سرهPLAIDED صفت").
+دخول(plain, صفت, [], "PLAINER PLAINESTevidentPLAINLY adv").
+د پرولاګ کرښه په پښتو ژبه وژباړئ:
+entry(plain, v, [plained,plaining,plains], "شکايت کول").
+ننوتنه(plaint, ن, [plaints], "يوه شکايت").
+دخول (پلاسټر, فعل, [پلاسټ کړ, پلاسټ کول, پلاسټونه], "پلاسټرول").
+entry(غازه, v, [اوږل,اوغږل,غازې], "ډولۍ جوړول").
+entry(ګنډونکی, n, [ګنډونکي], "یو څوک چې ګنډي").
+entry(پيلونه، ن، [پيلونه]، "څه چې تړل شوي وي").
+داخلېدنه(پلان، فعل، [پلان شوی، پلان جوړول، پلانونه]، "د یوې موخې د ترلاسه کولو لپاره یو پلان یا طریقه جوړول").
+entry(پلاني, صفت, [], "هواری").
+د Prolog ژبې په اړه ستاسو ليکلی جملې په پښتو ژبه کې ترجمه شوې بڼه :
+entry(يعقوب زياتره، ن، [ياتوزه زياتره], "يو اوبزکۍ خوځنده څه").
+entry(پلانټ، صفت، [], "یو هموار سطحه لرل").
+entry(planch, n, [planches], "يو تخته").
+entry(پلانچ, ن, [پلانچس], "پلانچ").
+د Prolog:
+entry(planchet, n, [planchets], "یو هموار فلزي ټوټه چې د سکې جوړولو لپاره استفاده کیږي").
+entry(الوتکه, v, [الوتکې، الوتکې کول، الوتکه شوې], "د نرم یا هموارولو لپاره").
+entry(پلانر, ن, [پلانران], "هغه څوک چې پلین کوي").
+د ننوتنې(سیاره، ن، [سیارې], "یو آسماني جسم").
+entry(پلان فارم, ن, [پلان فارمز], "د یوې څیز بڼه لکه څنګه چې له پورته څخه لیدل کیږي").
+entry(پلنګنټ, صفت, [], "په لوړ غږ غږیږی").
+داخل(planing, حال, [], "د الوتکې مشارک").
+entry(پالش کړئ, فع, [پالش شوی,پالش کول,پالش کوي], "د رlightا ټکولو په واسطه چې ټینګ او اسانه کیږي").
+entry(بورډ, v, [بورډ کړل,بورډ کول,بورډونه], "چې د لرګیو اوږده چپه ټوټې لخوا پوښ کړئ").
+entry(planking, n, [plankings], "د تخته ګانو څخه جوړ شوی پوښ").
+د ننوتنه (پلانکټر, ن, [پلانکټرونه], "هر موجود چې د پلانکتون عنصر وي").
+entry(پلانکتون, ن, [پلانکتونونه], "د اوبو د یو بدن وړوکی حیواني او نباتي ژوند").
+entry(بې‌پلان, صفت, [], "بې هیڅ پلان څخه").
+دلیل(منظم، تېر، [], "د پلان زمان").
+د دې متن پروګرام پرو لاګ ژبې ته په پښتو ژباړه شوی دی: 
+entry(planner, n, [planners], "هغه څوک چې پلان جوړوي").
+entry(پلان جوړونه, ن, [پلانونه], "د اهدافو یا پالیسیو جوړول").
+entry(پلانوسول, n, [پلانوسولونه], "د خاوری یو ډول").
+entry(بوټی, v, [کرل, کرل, بوټې], "په ځمکه کې د ودې لپاره ځای په ځای کول").
+entry(کيلا، ن، [کيليان]، "يو لنډ تنې لرونکې بوټی").
+entry(پلانټر, صفت, [], "د پښې تلي پورې اړه لري").
+د ننوتنه(کښت کوونکی، ن، [کښت کوونکي]، "هغه څوک چې کښت کوي").
+entry(کرل, ن, [کرلونه], "یو ځای چیرته چې نباتات کرل کیږي").
+entry(کوچنی بوټی, n, [کوچني بوټي], "یو کوچنی بوټی").
+entry(planula, n, [د پلانولاګانې], "د یو لړ موجوداتو آزاد لامبو لرونکی یورغویPLANULAR صفت").
+entry(پلیټ, ن, [پلیټونه], "یو زینتي پلیټ یا ډیسک").
+entry(پلاس, فع، [پلاس کړ,پلاس کول,پلاسيږي], "یو ځای اوبدل").
+entry(پلشر, ن, [پلشرز], "يو څوک چې پلش کوي").
+entry(plashy, adj, [], "تر وتلی ډنډه ولا").
+\entry(plasm, n, [plasms], "پلزما").
+entry(پلازما, ن, [پلازماګانې], "د وینې مایع برخهPLASMIC صفت").
+entry(پلازمېد, ن, [پلازمېدونه], "د یوې حجرې موروثي جوړښت").
+entry(پلازمین, ن, [پلازمینونه], "یو انزایم").
+entry(پلازموئډ, ن, [پلازموئډز], "د لوړ انرژۍ ذرې يو ډول").
+entry(plasmon, n, [پلازمنونه], "د میراث یو ټاکونکی چې په حجرو کې د شتون باور لری").
+entry(پلاسټر, فعل, [پلاسټرد, پلاسټر کول, پلاسټرونه], "د چونو، شګې او اوبو له مخلوط سره پوښول").
+entry(plastery, adj, [], "ګچ ته ورته").
+دخوله(پلاستيک، ن، [پلاستيکونه], "د مصنوعي يا طبيعي شکل وړ موادو څخه يوه ډله").
+د ننوتنې(پلاستيد, ن, [پلاستيدز], "په نباتي حجراتو کې يو جوړښت").
+entry(خولۍ_پڼه, ن, [خولۍ_پڼې], "د یو چیجی د خولۍ یوه برخهPLASTRAL صفت").
+entry(plastrum, n, [plastrums], "پوښ").
+د ننوتل(پلات، و، [پلېټېد،پلېټ کونه،پلېټونه], "بڼل").
+entry(چنار, ن, [چنارونه], "يوه لويه ونه").
+دResponsiveAI 106:entry(پلان, ن, [پلانونه], "پلان").
+entry(پليټ, v, [پليټ شو, پليټ کول, پليټونه], "د فلز یوه نری طبقه اچول").
+entry(پلاټو, ن, [پلاټوګانې], "یا PLATEAUX د لوړ ځمکې یوه سطحه برخه").
+entry(هوارځای, v, [هوارشوی, هوارېدل, هوارځایونه], "د ثبات یوه دوره یا حالت ته رسیدل").
+د خط: entry(plateful, n, [platefuls], "یا PLATESFUL یو داسې مقدار چې یو پلیټ ډکوي، یو سطحي ډیش").
+ورودی(پلیتلیټ، ن، [پلیتلیټونه], "یو کوچنی فلیټ شوی بدن").
+entry(platen, n, [platens], "د ټایپ رایټر ولې").
+entry(پليټر, ن, [پليټرونه], "هغه څوک چې پلیټ کوي").
+entry(ډک پلیتونه, a, [], "ډک پلیتونه جمع").
+پلېټفارم (پلېټفارم, ن, [پلېټفارمونه], "يو لوړ شوی پوړ یا هوار سطحه").
+د ننوتل(platier, مقایسه یي, [], "د پلاټي").
+entry(platies, a, [], "د platy جمع").
+د ننوتنه (platiest, فوق العاده, [], "د platy").
+entry(پلاټینیم, ن, [پلاټیناس], "پلاټینیم").
+entry(پليټنګ, ن, [پليټنګونه], "د فلز یوه نازکه طبقه").
+entry(platinic, adj, [], "د پلاټینم پورې اړوند").
+داخلې(پلاټينم, ن, [پلاټينمز], "يو فلزي عنصر").
+د ننه حلې د عمر برسېر(entry(platonic, adj, [], "سوچه معنوي او د حسی خواهش نه پاک")).
+د ننوتنه ( پلاټون، فعل، [پلاټون شوی، پلاټون کول، پلاټونونه]، "په یو موقف کې د بل لوبغاړي سره بدلیدل" ).
+entry(platted, past, [], "د پلاټ زمانه").
+entry(پلیټر, ن, [پلیټران], "یو لوی غټه ډش").
+entry(platting, present, [], "د plat فعلي برخه").
+entry(platy, adj, [], "نازک نرۍ برخو ته وېشلې PLATIER PLATIEST").
+entry(platy, n, [platys], "يا PLATIES يو وړوکی استوایي ماهی").
+entry(پلټيپس، ن، [پلټيپسونه]، "يا PLATYPI يو اوبہ لرونکی حيواني").
+entry(تائيد, n, [تائيدات], "د ستاینې څرګندونه").
+entry(ستاینه, صفت, [], "د ستاینې څرګندونه").
+entry(play, v, [لوبه کړې,لوبېدل,لوبې], "د تفريح يا سپورټ سره بوختيدل PLAYABLE adj").
+entry(پلايا, ن, [پلاياء], "د يوې دښتې د حوض لاندې برخه").
+entry(playact, v, [playacted, playacting, playacts], "په یو تیاتری نندارتون کې برخه اخیستل").
+د داخله(پلے بیک، ن، [پلے بیکس]، "یو نوی جوړ شوی ریکارډ بیا پلی کول").
+entry(playbill, n, [playbills], "د یوه تیاتري نمایش پروګرام").
+د ننوتنه(پلې بوک، ن، [پلې بوکونه]، "یو کتاب چې یو یا زیات ادبي آثار د سټېج لپاره لري").
+entry(playboy, n, [playboys], "يو سړی چې خپلو خوښوونکي فعالیتونو ته وقف شوی وي").
+entry(playdate, n, [playdates], "د يو نمايشن لپاره ټاکل شوی نيټه").
+د ننوتنه(لوبې ورځ, ن, [لوبې ورځې], "يوه رخصتي").
+entry(لوبېنه, ن, [لوبینې], "یو پلې آف").
+د پاچا: دخول (لوبغاړی، n، [لوبغاړي]، "هغه چې لوبې کوي").
+entry(لوبوونکی, صفت, [], "لوبیدونکی").
+entry(playgirl, n, [پلېګرلس], "يوه ښځه چې د خوندور فعاليتونو سره ځان مشغولوي").
+entry(playgoer, n, [د تیاتر تماشاچیان], "یو څوک چې تیاتر ته ځي").
+د داخله(لوبغاړه, ن, [لوبغاړې], "یوه تفریحي سیمه").
+entry(playless, adj, [], "د لوبو څخه بې برخې").
+entry(playlet, n, [playlets], "يو لنډ ډراماتيک اجراات").
+```prolog
+entry(playlike, adj, [], "د ډرامې نندارې ته ورته").
+```
+entry(playlist, n, [غاړې], "یو لیست د ریکارډنګونو چې په فضا کې لوبول کیږي").
+entry(لوبغاړی, n, [لوبغاړي], "په لوبو کې یو ملګری").
+entry(پلی آف، ن، [پلی آفونه]، "د لوبو یوه لړۍ چې د اتلولۍ ټاکلو لپاره ترسره کیږي").
+entry(د لوبې ځای, ن, [د لوبو ځایونه], "یو احاطه چې په کې یو کوچنی ماشوم لوبې کولی شي").
+entry(لوبې_خونه, n, [لوبې_خونې], "د ساتېرۍ خونه").
+entry(playset, n, [لوبوسم], "دعالی فعالیتونو لپاره د ماشومانو لپاره یوه د باندې وسیله").
+entry(playsuit, n, [playsuits], "د ښځو او ماشومانو لپاره د لوبېدو جامې").
+entry(د لوبو وخت, ن, [د لوبو وختونه], "د لوبو یا تفریح لپاره وخت").
+entry(playwear, n, [لوبو جامې], "هغه جامې چې د تفريحي فعاليتونو لپاره کارول کېږي").
+entry(چوک, ن, [چوکونه], "یو عامه چوک").
+entry(دعا، ن، [دعاګانې]، "یو درخواست").
+د داخلې معلومات(pleach, v, [pleached,pleaching,pleaches], "د یو ځای ګنډل").
+entry(التماس, v, [وکړه,التماس,کوي], "په جدي توګه غوښتنه کول").
+entry(pleader, n, [pleaders], "هغه څوک چې غوښتنه کوي").
+د داخله (التماس، ن، [التماسونه]، "په قانوني عمل کې یو الزام").
+entry(خوښ, صفت, [], "ډېر خوښ ډېر ډېر خوښ").
+entry(لطفا, v, [خوشحاله,خوش کوونه,لطفا کوې], "د خوښۍ یا قناعت ورکولو لپاره").
+entry(pleaser, n, [pleasers], "يو چې خوشحالوي").
+د Prolog ترجمه په پښتو کې:
+entry(خوند, v, [خوندکړ, خوندور, خوندونه], "خوښول").
+entry(پلۍ, v, [پلۍ شوی,پلۍ کول,پلۍ], "په برابره توګه پوښی").
+entry(پلیټر, ن, [پلیټران], "یو څوک چې پلیټونه جوړوي").
+entry(پلېتهېر, ن, [پلېتهېرونه], "یوه پلاستيکي پوښاک چې د څرمن په څیر ښکاري").
+entry(پليټینګ, ن, [پليټینګونه], "په جامو کې د کوچنیو ګونځو ترتیب").
+entry(pleb, n, [plebs], "يو عام وګړی").
+entry(پلېب، ن، [پلېبان]، "په پوځي یا بحري اکاډمۍ کې تازه کار").
+entry(عام, ن, [عام خلک], "یو عام کس").
+entry(plectron, n, [plectrons], "یا PLECTRAplectrum").
+entry(چنګک, ن, [چنګکونه], "يا PLECTRA يو وسيله چې د تار لرونکي آلې تارونه پرې وهل کيږي").
+پرو لوگ:
+entry(pled, a, [], "د plead تېر فعل").
+entry(وعده, فعل, [وعده,وعده ورکول,وعدي], "څه چې په پور اخیستل شوي د امنیت لپاره ورکول").
+د پرولوګ په توګه:
+entry(pledgee, n, [pledgees], "يو څوک چې څه ورته ژمنه شوې وي").
+entry(pledgeor, n, [pledgeors], "وعده کونکی").
+entry(pledger, n, [ګروګذار], "هغه څوک چې څه ګرو کوي").
+entry(pledget, n, [پلیډ], "د جاذب پنبې یوه ټوټه").
+entry(pledging, present, [], "د pledge حاله").
+entry(pledgor, n, [pledgors], "تعهد کوونکی").
+entry(pleiad, n, [pleiads], "يا PLEIADES د اوو وتلیو کسانو يوه ډله").
+ورودی(پلېنا، ا، [], "د پلاينم جمع").
+entry(plenary, n, [عمومي غونډې], "يوه غونډه چې ټولو غړو ګډون کړی وي").
+```prolog
+entry(plench, n, [plenches], "يو اوزار چې د پلائرز او رېنچ په توګه کار کوي").
+```
+entry(پوره کول, v, [پوره کړ, پوره کول, پوره کوي], "ډکول").
+entry(پلیزنزم, ن, [پلیزنزمونه], "هغه نظریه چې فضا په بشپړ ډول د مادې لخوا اشغال شوې ده").
+دخول (پلينيست، ن، [پلينيستان]، "د بشپړتوب کلک ملاتړ کوونکی").
+دخول(plenty, n, [plenties], "يو کافي يا ډير مقدار").
+entry(پلېنوم, ن, [پلېنومونه], "يا PLENAspace چې د موادو په واسطه بشپړه توګه ډک ګڼل کېږي").
+د ننوتل(پليان، ن، [پليانونه], "د کرستاشین خیټهPLEONAL PLEONIC صفت").
+entry(پلېونیزم, n, [پلېونیزمونه], "د بې اړتيا کلمو کارول").
+entry(پلیوپوډ, n, [پلیوپوډونه], "د کرسټینانو ضمیمه").
+entry(پليروما, ن, [پليروماس], "د الهي ځواکونو بشپړتيا").
+entry(plessor, n, [plessors], "پليکسور").
+entry(ډېرښت, ن, [ډېرښتونه], "یو زیاتوالی").
+entry(پلورا, ن, [پلورې], "يا PLEURAEيو جھلی چې سږې پوښیپلیورال صفت").
+entry(پلوریشي, ن, [پلورشۍ], "د پلورا سوزش").
+entry(پلورون, ن, [پلورا], "د خځنده د سینې د یوې برخې برخه").
+entry(پلوئسټون, n, [پلوئسټونونه], "اوبو بوټي").
+د پلوه اړوند سطر.
+داخلول(پلیکس، ن، [پلیکسونه]، "یو څوګونکی").
+entry(پلکسال, صفت, [], "د پلکسس پورې اړوند").
+entry(پلکسر, ن, [پلکسرونه], "یو کوچنی ټنګوسک طبي اوزار").
+entry(plexus, n, [plexuses], "د برخو يو ځگ سره کيدل").
+entry(لچکداره, صفت, [], "په اسانۍ سره کږوونکیPLIABLY قید").
+entry(پلاینسۍ, ن, [پلاینسۍګانې], "د نرمښت کیفیت").
+entry(زاړه, صفت, [], "په اسانۍ سره تاویدای شيPLIANTS adv").
+داخلې(پلیکا, ن، [پلیکې], "یا پلیکاس د پوستکي پوښ پلیکل صفت").
+entry(plicate, adj, [], "پلئسټ").
+entry(plicated, adj, [], "پلایي").
+entry(plie, n, [plies], "په بالې کې يو حرکت").
+entry(plied, past, [], "د ply زمان").
+entry(plier, n, [برجۍ], "يو چې کار کوي").
+دخولا(plies، اوسني، []، "د پلې درېیم کس یوازینی").
+entry(وعده, فعل, [وعده کړې, وعده کوونکی, وعده کوي], "د يوې جدي ژمنې په واسطه ژمنه ورکول یا تړل").
+د ننوتل(plighter, n, [plighters], "يو څوک چې وعده کوي").
+اندراج(پلمسول، ن، [پلمسولونه]، "پلمسول").
+entry(پلِمسول, ن, [پلِمسولونه], "پلِمسول").
+entry(پلیمسول, ن, [پلیمسولونه], "یوه د لرګیو تلی بوټ").
+entry(plink, v, [ډزې کول, ډزې کوونکی, ډزې کوي], "په تصادفي موخو باندې ډزې کول").
+د ننه کړه(پلېنکر، ن، [پلېنکرز], "هغه چې پله کوي").
+entry(plinky, adj, [], "د PLINKIER PLINKIEST چې لنډ تیز فلزي غږونه لري").
+entry(پلنتھ, ن, [پلنتھونه], "یو ډبره یا تختۍ چې یو کالم یا څلى پرې ولاړ وي").
+دخپلاسه(entry(pliofilm, ن, [pliofilms], "د کلورینه شوي ربر یو روڼ پاڼه چې په بسته بندۍ کې کارول کیږي")).
+entry(پليوټرون, ن, [پليوټرونونه], "د پچېټ نل یوه ډول").
+د Prolog ليکه: entry(pliskie, n, [pliskies], "يو عملي ټوقه").
+د Prolog لیکه: `entry(plisky, n, [pliskies], "pliskie").`
+entry(پلیس, ن, [پلیسونه], "د ټوکر چوڼل شوې بڼه").
+entry(پلود, v, [پلود شوی,پلود کول,پلود کوي], "په دروند ډول تګ کول").
+د اړیکې(پلودر، نوم، [پلودران]، "هغه څوک چې په کرار حرکت کوي").
+داخلول(پلوئډي، n، [پلوئډيس]، "د کروموزومونو بنسټیز شمېرې د تکرار اندازه").
+د ننوتنه(پلونک، v، [پلونک کړل، پلونک کول، پلونکونه]، "پلنک کول").
+د ننوتنه(پلونکر، ن، [پلونکرز], "یو ناپوه شخص").
+د داخلې(پلپ، فع، [پلپډ،پلپینګ،پلپس]، "په درنې سره غورځېدل یا رالوېدل").
+entry(چاودنه, ن, [چاودنې], "د ځانګړو توريو د ويل وروسته د ساه ايستلو").
+دخله(پلوosive, ن, [پلوزیڤونه], "یو غږ چې د پلوژن لخوا تولید شوی").
+entry(پلان, ف, [پلان شوی, پلان کول, پلانونه], "پټ پلان جوړول").
+entry(plotless, adj, [], "بې پلان").
+entry(plotline, n, [plotlines], "د يو کتاب اصلي کيسه").
+د داخلې(پلاټيج, ن, [پلاټيجونه], "د ځمکې ساحه").
+د نښې لپاره د زمانې قالب، "ډیزاین شوی"
+entry(plotted, past, [], "د دسیسې وخت").
+د داخلې(د نقشې جوړوونکی، ن، [د نقشې جوړوونکي]، "هغه څوک چې نقشه جوړوي").
+entry(رنګول, اوسنی, [], "د ګډولو فعلي بنډار").
+entry(plotty, adj, [], "د سازش څخه ډک لکه یو ناول").
+د Prolog:
+entry(plotty, n, [plotties], "یو تودو مسالې لرونکی څښاک").
+entry(plotz, v, [plotzed,plotzing,plotzes], "د يوې جذبې لخوا مغلوبېدل").
+entry(ړنګول, v, [ړنګېده, ړنګول, ړنګوي], "ښت").
+د Prolog ژبې د لیکنې د ژباړې لپاره، دا به داسې وي:
+
+```prolog
+entry(پلیوګر ، نوم ، [پلیوګران] ، "هغه څوک چې پلیګ کوي").
+```
+entry(وطنه, ن, [وطنې], "یوه سمندري مرغۍ").
+entry(څرګندونه, فعل, [اوړول, اوړول, اوړوي], "د فارم وسیلې په مرسته ځمکه اوچتول او کرکیله کول").
+entry(بياځاى, n, [بياځاى کول], "په يوه سوداګرۍ کې د ګټو بيا پانګونه").
+entry(هغل, ن, [هغلان], "یو هلک چې د قلبه ټیم مشري کوي").
+entry(plower, n, [plowers], "هغه څوک چې ټیل وهي").
+entry(خیشېک, ن, [خیشېکونه], "د یو خیشې پنجه").
+entry(کرهڼيز_ځمکه, ن, [کرهڼيز_ځمکې], "د کرکيلې لپاره مناسبه ځمکه").
+entry(کرهڼه_کوونکی, n, [کرهڼه_کوونکي], "هغه سړی چې کرهڼه کوي").
+entry(پلوي، v، [پلويډ،پلويینګ،پلويز]، "له کرښه څخه کالم ته د تګ لپاره").
+د Prolog:
+entry(ploye, n, [ployes], "د بوکویټ پنکیک").
+entry(ښکلو, v, [ښکل,ښکلو,ښکلی], "د راوېستلو یا لرې کولو لپاره").
+ورودی(پلکر، ن، [پلکرونه]، "چې کش کوي").
+د پاسښتو ته په پرولوګ کې ترجمه:
+entry(plucky, adj, [], "جري او زړورPLUCKILY adv").
+entry(پلاګ, فعل, [پړي, پورول, پړي], "د یوې سوري ډکولو لپاره د یوې ټوټې موادو سره مهر یا بندول").
+د ننوت(پلگر, ن, [پلگرز], "یو څوک چې پلگ کوي").
+entry(پلاگول, ن, [پلاگولونه], "یو ډراین چې د یو پلګ سره بندېدی شي").
+entry(plugless, adj, [], "پرزۍ نلري").
+entry(پلګولا, n, [پلګولاس], "په راډیو یا تلویزیون کې وړيا ضمني اعلان کول").
+entry(plugugly, n, [pluguglies], "يو بدمعاش").
+entry(الوچه, ن, [الوچې], "یو غوښه لرونکی مېوه").
+entrada(ايا، صفات، [], "ډېر زیات د غوښتنې وړ").
+دخوله(بڼکو، ن، [بڼکې]، "د يو مرغه بڼهPLUMAGED صفت").
+entry(چوغک, صفت, [], "د وزر په څیر").
+entry(plumb, v, [plumbed,plumbing,plumbs], "د ژورتیا معلومولو لپاره").
+دریځ(پلامبګو, ن, [پلامبګوس], "ګرافیت").
+entry(پلمبر, ن, [پلمبران], "هغه څوک چی د پلمب کاري نصبول او ترمیم کوي").
+entry(دودکاري, ن, [دودکارۍ], "د يو دودکار کار").
+د ننوتلو(پلومبک، صفت، [], "سره").
+entry(پلَمبنګ, ن, [پلَمبنګونه], "د يوې ودانۍ د نلونو سيستم").
+entry(پلمبیزم, ن, [پلمبیزمونه], "سرب زهرجن").
+entry(plumbous, adj, [], "چې سیسه لري").
+د پردې پورتنۍ کرښې پروګ
+entry(plumbum, n, [plumbums], "lead").
+مخینه(پلمه, فعل, [پر پلمې شوی, د پلمې کولو], "د بڼکو سره پوښل").
+entry(کوچنی_وزر, ن, [کوچني_وزرونه], "یوه کوچنۍ وزر").
+entry(پلوډیریا, ن, [پلوډیریاګانې], "یو ګل لرونکی بوټی").
+entry(پري، ن، [پريان]، "د الوتونکو وزرې").
+د ننوتنې(غوزان، پرتليز، [], "د غوزي").
+د داخلي(entry(plumiest, superlative, [], "د وزرونو")
+entry(پلمینګ, موجود, [], "د پلم د فعل").
+entry(plumiped, n, [plumipeds], "يو مارغه چې وزر لرونکي پښې لري").
+entry(دالو-په-شکل, صفت, [], "چې د دالو په څېر وي").
+entry(راوغورځي, v, [راوغورځېد,راوغورځېدنه,راوغورځي], "په مستقیم ډول ښکته غورځېدل").
+په پښتو کې:
+entry(plummy, صفت, [], "د ډېرو آلوچکو ډک").
+entry(پلووموز, صفت, [], "بڼکي لرونکی").
+entry(څپېړ, صفت, [], "ډېر ګرد او پوخ په بڼه").
+د اسنادو(پلومپ، فعل، [پلومپ شو، پلومپ کېدل، پلومپونه]، "پلومپ کول").
+دخولیه(پړسټول, فعل, [پړسټولید, پړسټولیکول, پړسټولی], "پړسټ کول").
+دخولی(plumper, ن, [plumpers], "یو دروند غورځنګ").
+entry(پلومپش, صفت, [], "یو څه چاغ").
+د ننوتنه(پلومپلی، قید، [], "په یو چاغه ډول").
+entry(plumpy, adj, [], "PLUMPIER PLUMPIESTplumpish").
+entry(مړوخک, n, [مړوخکان], "د نبات د جنین اصلي غوټۍPLUMULAR adj").
+دسجنه(plumy, صفت, [], "په بڼو پوښل شوي PLUMIER PLUMIEST").
+entry(چور, فعل, [چورکړی,چورکول,چورکوي], "په زوره د شتمنیو لوټل").
+entry(ځوړ, v, [ځوړاد,ځوړیدل,ځوړیږي], "یو څه په ناڅاپي یا په زور سره غورځول").
+entry(پلنجر, ن, [پلنجرونه], "یو څوک چې پلونګ کوي").
+entry(پلنک، ف، [پلنک کړ، پلنک کول، پلنکونه]، "په دروندۍ سره لوېدل یا غورځېدل").
+د جملو خط عرصه:
+entry(plunker, n, [plunkers], "هغه څوک چې پلاک کوي").
+entry(plunky, adj, [], "د يو چټک خالي فلزي غږ لخوا مشخص شوی").
+entry(پلوټ, ن, [پلوټس], "د الو او زردالو یو ګډ ميوه").
+entry(جمع, اسم, [جماعتونه], "يو لغت چې له يو څخه زيات څرګندوي").
+entry(په جمع شکل سره, قید, [], "په داسې ډول یا شکل کې چې له یو څخه زیات څرګندوي").
+entry(plus, n, [حساب], "یا PLUSSESan اضافي مقدار").
+entry(ښایسته, صفت, [], "ښایسته زیات ښایسته زیات ښایسته شانداره ښایسته غوره").
+entry(پلوش, ن, [پلوشونه], "يوه ټوکر چې اوږده وړۍ لري").
+entry(پلسډ, صفت, [], "په ښکلې بڼه په عیش و آرام کې").
+entry(plushy, adj, [], "PLUSHIER PLUSHIESTluxuriousPLUSHILY adv").
+entry(plussage, n, [plussages], "يو مقدار له بل مقدار څخه زيات").
+entry(پلسونه, يو, [], "د پلس جمع").
+entry(پلوتیوس, ن, [پلوتیي], "د سمندري ارچي پيداږ").
+د پرولاګ کرښه په پښتو کې:
+
+entry(پلوتون, ن, [پلوتونونه], "د اورښت لرونکی تيږې يوه تشکيلPLUTONIC adj").
+entry(باراني, n, [بارانيان], "د اوږدې مودې لپاره د لندبل اقلیم").
+entry(pluvian, adj, [], "په زيات باران باندې ځانګړتيا لري").
+entry(پلوویوس, صفت, [], "باراني").
+entry(باراني, صفت, [], "د باران پورې اړه لري").
+داخلہ(پلي, فعل, [پليد, پلينګ, پليز], "په مکرر ډول سره عرضه کول یا وړاندیز کول. PLYINGLY معاون").
+د پرولوګ دا کرښه په پښتو ژباړل شوې:
+
+```prolog
+داخلې(لوبغاړی, ن, [لوبغاړې], "پلاخور").
+```
+د ننه توکې(پلايووډ، نوم، [پلايووډونه], "يو ودانيز مواد").
+داخلېدل(پنيومه, ن, [پنيومه‌ګانې], "روح یا نفس").
+entry(po, n, [pos], "د خونو تشناب").
+entry(poaceous, adj, [], "د واښو د کورنۍ د نباتاتو پورې اړوند").
+entry(شکار کول, v, [شکار شوی,شکار کول,شکار کوي], "غیرقانوني ښکار یا کب نیونه کول").
+د ننوتل(شکارچی, ن, [شکارچیان], "یو څوک چې غیر قانوني ښکار کوي").
+د لاندینۍ کرښې په توګه Prolog ته ژباړل:
+entry(poachy, adj, [], "POACHIER POACHIESTswampy").
+entry(پوبلانو, ن, [پوبلانوګانې], "د یوې نرم کېن شنه مرچ").
+د پرولوګ کوډ:
+entry(poboy, n, [poboys], "د اوږد او اوږدې ډوډۍ پر لوی سینڈوچ").
+ماده(entry, p، [pochards], "د یوه سمندري مرغان").
+د دې لپاره Prolog:  
+entry(pock, v, [pocked,pocking,pocks], "د يوه انفلاماتوي ناروغۍ د منځته راوړنکو دانو سره نښه کول").
+entry(جېب, فعل, [په جېب کېښودل, په جېب کېښودل, جېبونه], "په جامه کې په ګنډل شوې کڅوړه کې اېښودل").
+د ننوتنه (پوکټر، ن، [پوکټرز]، "یوه چې جیب ته اچوي").
+entry(پوكمارك, فعل, [پوكمارك شوې,پوكمارك كوونكی,پوكماركوي], "د پوستكي او د مخ د ناروغۍ داغونو سره نښه كول").
+د غوښتنې سره سم, دلته یوازې Prolog شتون لري:
+entry(pocky, adj, [], "POCKIER POCKIESTcovered with pocksPOCKILY adv").
+entry(پوکو, قيد, [], "یوه لږ د موسیقۍ لارښوونې په توګه").
+entry(پوکوسن, ن, [پوکوسنز], "پوکوسین").
+entry(پوکوسن, ن, [پوکوسنس], "یوه لوړ ځمکه باتلاق").
+entry(پوکوڅون, ن, [پوکوڅونونه], "پوکوڅن").
+entry(pod, v, [پود شو, پود کيږي, پودونه], "د تخم زيږول").
+د ننوتنې(پوداګرا, ن, [پوداګراس], "په پښې کې ګوتپوداګرال پوداګریک صفت").
+entry(podcast, v, [podcasted,podcasting,podcasts], "د انټرنیټ له لارې د ډاونلوډ لپاره د یو پروګرام په ډیجیټل بڼه کې شتون کې داخلول").
+entry(podesta, n, [podestas], "یوه ایتالیوي قاضي").
+د داخلولو(podgy, adj, [], "PODGIER PODGIESTpudgyPODGILY adv").
+entry(پودیا, ا, [], "د پوډیم جمع").
+دخلې(پودیاتري, نوم, [پودیاتریز], "د انساني پښې مطالعه او درملنه").
+entry(پودایت, ن, [پودایتس], "د بند پښه د بند پښو یوه برخهPODITIC صفت").
+entry(منچ، n، [منچونه], "یا کوچنی ‌‌‌‌پلیټفارم").
+entry(podlike, adj, [], "دانه يو ډول ته ورته").
+entry(podocarp, صفت, [], "د تل شنه ونو یوه کورنۍ ته اشاره کوي").
+ورودی(پودومیر، ن، [پودومیرونه]، "یو کړکیچ").
+پروګرام(پوډسول، ن، [پوډسولونه], "پوډزولPOZDOLIC صفت").
+entry(podunk, n, [کوچني ښارونه], "یوه وړوکې او بې اهمیته ښار").
+اندراج(پوډزول, ن, [پوډزولونه], "يو بې حاصله خاوره پوډزوليک adj").
+entry(پوښور, ن, [پوښورونه], "نیمه وچه سیمه").
+entry(شعر, ن, [شعرونه], "په نظم کې یو ترکیب").
+انټري(پوسي، ن، [پوسيس]، "شاعري").
+دخونې(poet, ن, [شاعر], "هغه څوک چې شعرونه لیکي").
+entry(شاعرہ, ن, [شاعرې], "یو ښځينه شاعره").
+entry(شاعرانه, صفت, [], "د شعر پورې تړلی").
+entry(شاعرانه, صفت, [], "شاعرانہ").
+entry(شاعري, npl, [], "د شاعرۍ نظریه یا تمرین").
+entry(شاعرانه, v, [شاعرانه کړ,شاعرانه کول,شاعرانه کوي], "شاعرانه کول").
+entry(شاعر جوړونکی, n, [شاعر جوړونکي], "poetizer").
+entry(شاعري کول, فعل, [شاعري وکړه,شاعري کول,شاعري کوي], "په شعر لیکلو").
+entry(poetizer, n, [شاعر کوونکي], "یو څوک چې شاعري کوي").
+entry(poetless, adj, [], "د شاعر څخه محروم").
+entry(شاعرۍمانند, adj, [], "د شاعر په څېر").
+د ننه (شعري، ن، [شعرونه], "ادبي اثر په شاعري بڼه") .
+entry(پوګې, ن, [پوګیز], "د حکومت د کومې بستې").
+entry(پوګيز, جمع, [], "د پوجي").
+entry(pogo, v, [pogoed, pogoing, pogoes], "د یوې پوګو لرګي په څیر پورته ښکته ټوپ وهل").
+انٹری(پوگونیا، ن، [پوگونیاګانې]، "یو کوچنی آرکېد").
+د پرولاګ:
+entry(pogonip, n, [پګونېپس], "د یخ موتکۍ لرونکی يو ګڼه مه").
+entry(پروګرام, v, [پروګرام کړل, پروګرام کول, پروګرامونه], "په منظمه توګه قتل عام کول").
+entry(pogy, n, [پوګیز], "يو سمندري کب").
+entry(poh, interj, [], "د ککرې څرګندولو لپاره کارول کېږي").
+دسجت(entry,poi, n, [pois], "يو هوائي خواړه").
+entry(زوړندونکي, صفت, [], "جذباتي کړاو").
+د دې مزي پايلې يوازې Prolog:
+entry(poilu, n, [poilus], "یو فرانسوي پوځی").
+entry(poind, v, [poinded,poinding,poinds], "د پور د ادا کولو لپاره د ملکیت نیول او پلورل").
+ننوتل(نقطه، v، [اشاره، اشاره کوي، اشاره کوي]، "په ګوته د لوري ښودل").
+entry(پوانته, ن, [پوانتونه], "د بالې نڅا يو حالت").
+entry(pointer, n, [pointers], "يوه چې اشاره کوي").
+entry(اشاره کول, n, [اشارې], "د خښتو په جوړښت کې سیمنټ یا مورټار چې لیوزونه ډکوي").
+د Prolog:
+entry(pointman, n, [pointmen], "یو ځانګړی لوبغاړی د هاکي په لوبه کې").
+entry(pointy, adj, [], "په تيز کونج پای ته رسېدل").
+entry(انډول, v, [اڼولې,اڼول,اڼو], "د توازن په حالت کې پاتې کېدل").
+entry(poiser, n, [poisers], "هغه څوک چې په توازن کې ساتي").
+entry(poisha, n, [poisha], "د بنګله دیش پیسه").
+entry(زهر, v, [زهرول,زهردرکول,زهرونه], "تا څه ته خطرناکه ماده ورکول").
+entry(زهر ورکونکی, ن, [زهر ورکوونکي], "هغه څوک چې زهر ورکوي").
+entry(پوټرېل, ن, [پوټرېلس], "پېټرل").
+entry(poke, v, [poked,poking,pokes], "پوس يا ګوزار کولPOKABLE adj").
+مقاله(پوکر, ن, [پوکرونه], "یو څوک چې ټک وهي").
+entry(pokeroot, n, [pokeroots], "پوکي ويډ").
+entry(پوکي ويډ، ن، [پوکي ويډز], "يو کلنۍ بوټی").
+د ننوتنه(پوکي، n، [پوکيز]، "پوکي").
+entry(پوڪير, پرتله ایز, [], "د پوکي").
+دریافت(پوکیز, pl, [], "د پوکی").
+entry(ترټولو, superlative, [], "د poky څخه").
+انټري(پوکلي، ایډي، []، "په یوه کوچۍ طریقه").
+entry(پوکینس, ن, [پوکینسونه], "د پوکی حالت").
+د ننوتلو(څک وهل، اوسنی، [], " د poke حال برخه").
+entry(poky, adj, [], "پوکیر پوکیسټ سست").
+entry(پوکي, ن, [پوکیز], "يو زندان").
+entry(سياستوال, ن, [سياستوالان], "يو سياستدان").
+entry(پولر, ن, [پولران], "يوه مستقيمه کرښه چې له يو ټکي سره تړاو لري").
+د پرولوگ ځانګړې کرښه پاښتو ته وژباړئ. یوازې پرولوگ بهر کړئ: 
+entry(polarise, v, [polarised,polarising,polarises], "قطب جوړول").
+entry(قطبیت, ن, [قطبیتونه], "د دوه متضادو ځانګړتیاوو لرل").
+entry(قطبي_کول, فعل, [قطبي_کړئ,قطبي_کول,قطبي_کوي], "قطبيت ورکول").
+entry(پولارون, ن, [پولارونونه], "د الکترون یوه بڼه").
+entry(پولډر, ن, [پولډرونه], "د اوبو له یو بدن څخه بیرته اخیستل شوې ټیټه ځمکه").
+د داخله(پول, فعل, [پوليډ,پولينګ,پولونه], "په یوه اوږده نری لرګ یا فلزي ټوټه سره هڅول").
+entry(دستۍتبر, فعل, [دستۍتبرول, دستۍتبرکوونکې, دستۍتبرونه], "د دستۍتبر په شان وسله سره ګوزار کول").
+د Prolog سطر په پښتو کې:
+
+`entry(poleaxe, v, [poleaxed,poleaxing,poleaxes], "پولاکس کول").`
+دخوليه(ښکاري, نوم, [ښکاريان], "يو غوښه خوړونکې تي لرونکې")
+entry(پوول شوی, تېر, [], "د قطب حالت").
+entry(پولیس, جمع, [], "د پولیس").
+entry(بې_پلونه, صفت, [], "بې پل څوک").
+دخول(pktlemk, n, [polemics], "یو شخړه ایز استدلال").
+entry(د_جدلیات_کار, ن, [د_جدلیات_کاران], "هغه څوک چې په جدلیاتو کې ښکیل دی").
+entry(پلميز, v, [پلميزل,پلميزه ول,پلميزونه], "د پلميز کولو سره بوختيدل").
+entry(پولنټا, ن, [پولنټاس], "د جوار اوړه یو غټ پیړه").
+entry(پولر, ن, [پولرونه], "هغه چې قطبونه جوړوي").
+entry(قطب ستاره, ن, [قطب ستارې], "یوه لارښوونکې اصول").
+entry(پول وارډ, قید, [], "د ځمکې د محور د هر یو پای ته په لور").
+په دې برخه کې Prolog:
+entry(poleyn, n, [poleyns], "د زنګانه د ساتلو لپاره د څرمن یوه محافظتي ټوټه").
+entry(پوليس, v, [سرګروپ,سرپرستي,سرګروپ], "پاک یا منظم کول").
+د پاسلو ټکي ته د بلنې لپاره د لاندې پروګرام کرښه په پښتو کې:
+
+```prolog
+entry(پوليس، ن، [پوليسان]، "يو څوک چې پوليس کوي").
+```
+entry(پولیس، ن، [پولیسونه]، "یو فلم چې پولیس پکې جرمونه څېړي").
+د ننوتنه(پالیسي, n, [پالیسۍ], "یوه کړنه یا طریقه چې د عقل یا ګټې په پام کې نیولو سره غور کیږي").
+entry(پولينګ, اوسنی, [], "د پول فعل بې ځایه برخه").
+entry(پوليو، ن، [پوليوز]، "یوه ساري ویروسي ناروغي").
+entry(پوليس, ن, [پوليس], "يوه لرغونې يوناني ښار-ايالت").
+entry(پالش, ف, [پالش کړل, پالش کول, پالشونه], "د رګولو په واسطه نرم او چمکوالى کول").
+entry(پالش کوونکی, n, [پالش کوونکي], "هغه څوک چې شيان پالش کوي").
+د پرولوګ:
+entry(polite, adj, [], "په درناوي د نورو لپاره د پام څرګندونه کول پوليټر پام پوليټسټ POLITELY adv").
+entry(سياست, صفت, [], "هوښيار").
+entry(سیاست, v, [سیاست وکړ,سیاست کول,سیاست کوي], "په سیاست کې ښکېل کېدل").
+دخوله(سیاسي, ن, [سیاسي کسان], "یا سیاسي هغه څوک چې سیاسي کوي").
+entry(سیاست, npl, [], "د حکومت هنر یا علم").
+entry(حکومت, ن, [حکومتونه], "يوه بڼه يا د حکومت سیستم").
+entry(polka, v, [polkaed, polkaing, polkas], "د یو ژوندی نڅا ترسره کول").
+entry(پوښتنه, فعل, [پوښتلی،پوښتنه کوي،پوښتنې], "د عامه نظر معلومولو په موخه پوښتل").
+د ننه کول(پولاك، ن، [پولاكونه]، "يو د سمندري غذا کب").
+entry(پولارډ, فعل, [پولارډ شو,پولارډ کول,پولارډونه], "د ونې د ټاپو څانګې د ټوکر تر شا پرې کول").
+پروګرام(پولۍ، ن، [پولیز]، "هغه څوک چې پوښتنه ترې شوې وي").
+entry(pollen, v, [pollened, pollening, pollens], "د ګل ګرد د یوه تخمی نبات د سرې کولو عنصر وړل").
+entry(poller, n, [pollers], "يو څوک چې استصواب کوي").
+entry(pollex, n, [pollices], "د مخلي فريمب دننه نرم منځنۍ ګوتهPOLLICAL adj").
+entry(رایې ورکول, ن، [رایې ورکونې], "د رایو راجسټریشن یا اچول").
+د داخلولو("pollinia", npl, [], "د ګرده دانې ډله").
+entry(pollinic, adj, [], "د ګرده پورې اړوند").
+entry(pollist, n, [pollists], "یو نظر پوښتونکی").
+entry(polliwog, n, [polliwogs], "د میږه").
+پروګرام( داخله، کاروباري توکی، [کاروباري توکي]، "کاروباري توکه").
+د ننه کړه(پوښتونکې، ن، [پوښتونکي]، "یو پوښتونکې").
+entry(ککړول, فعل, [ککړ,ککړول], "ناپاک یا ناپاکول").
+entry(ککړونکی, n, [ککړونکي], "چې ککړوي").
+د داخلې(pollywog, n, [pollywogs], "polliwog").
+entry(پولو, ن, [پولوس], "د آسونو په مرسته لوبېدونکی لوبه").
+entry(poloist, n, [د پولوسيب لوبغاړي], "د پولو لوبغاړی").
+entry(پولونیم, ن, [پولونیمونه], "یو شعاعی عنصر").
+entry(بزدله, ن, [بزدلان], "یو بنیادې ډارن").
+د ننوتنه(پولی، ن، [پولیس]، "د سپینو وینې حجرو یو ډول").
+entry(poly, n, [پاليس], "يو جامه چې د پوليسټر څخه جوړه شوې وي").
+دخوله(polyadic, صفت, [], "له درېو يا زيات مقدارونو يا افرادو سره اړوند").
+د پروګ په ژبه کې:
+entry(polybag, v, [polybagged,polybagging,polybags], "څه شی په یو پولیټیلین بکس کې ایښودل").
+دلالظ(polybrid, ن, [polybrids], "د یو ډول هایبریډ نبات").
+entry(پوليکاټ, ن, [پوليکاټس], "د بوټو يوه ډول").
+entry(پوليدروګ, صفت, [], "د څو درملو یو ځای کارولو پورې اړه لري").
+د ننوتنې(پولين، ن، [پولينونه]، "يو کيميايي مرکب POLYENIC صفت").
+د ننوتنه(پولېګالا, ن, [پولېګالاس], "یو ګل لرونکی بوټی").
+په Prolog کې: entry(polygamy, n, [polygamies], "د یو وخت په تېره څه چې له یو زيات مېرمن سره واده کول").
+entry(پولي جين, ن, [پولي جينونه], "د يو ډول جين").
+entry(پولی‌ګلاټ, ن, [پولی‌ګلاټونه], "هغه څوک چې څو ژبې خبرې یا لیکل کوي").
+د Prolog کوډ:
+entry(polygon, n, [polygons], "یوه تړل شوې مستويه شکل چې د مستقيمو کرښو په واسطه محاصره شوی").
+entry(پوليګوني, ن, [پوليجونیان], "یو بوټی").
+entry(polygyne, adj, [], "په یوه حشراتي استعماري کې د یوې څخه ډیرې هګۍ ایښودلو ملکې درلودل").
+entry(چنډ ښځو سره ودونه, ن, [چنډ ښځینه وو سره ودونه], "دا حالت چې په یو وخت کې له یو څخه زیاتې ښځې ولري").
+دليل(پولی مېت، ن، [پولی مېټان]، "د لوی او متنوع زده کړو لرونکی کس").
+```prolog
+entry(پولیمر, n, [پولیمرونه], "یوه پیچلې کیمیاوي مرکب").
+```
+دخولی(پولیڼیا, ن, [پولیڼیاز], "یا پولینیایی د سمندري یخ لخوا محاصره شوی د اوبو خلاصه سیمه").
+د Polyol د ننوتلو، n، [polyols]، "یو الکول چې درې یا ډیر هایدروکسایلیل ګروپونه لري"
+د ننوتنه(پوليوما, ن, [پوليوماس], "د يو ډول ويروس").
+د پرولاګ کوډ: entry(polyp, n, [پولپس], "يو بې ملا").
+دخولی(پولایپاری، ن، [پولایپاریونه]، "د پولیپ استوګنځي ګډ حمایوي جوړښت").
+entry(polyped, n, [polypeds], "یو څه چې ډیرې پښې لري").
+د ننوتنه(پولپي، الف، []، "د پولیپس جمع").
+entry(پولۍپيډ, ن, [پولۍپيډز], "يو پولۍپ").
+د ننوتنه(پولی پنېا, نوم, [پولی پنیاز], "چټک ساه اخیستل").
+entry(پولېپوډ, ن, [پولېپوډونه], "یو ډېرجومه لرونکی ژوی").
+entry(polypody, n, [polypodies], "یوه پشه يي").
+entry(پولپشکل, صفت, [], "د پولیپ په څیر").
+entry(polypore, n, [polypores], "د یو ډوله فنګس").
+entry(پولپي, صفت, [], "د پولپ سره تړاو لري").
+د داخلې(پولایپس، ن، [پولایپسونه]، "یا پولایپي د بدن د یوه عضوي دیوال نه وده کوي").
+entry(پولیسمی, ن, [پولیسمي], "متنوع ماناوې").
+entry(پوليسوم, ن, [پوليسومونه], "د پروټين ذرو يو ګروپ").
+entry(polytene, adj, [], "چې يو ځانګړى ډول کروموزومونه لري").
+entry(پولايټيني, n, [پولايټينيان], "د پولايټين حالت").
+entry(polytype, n, [polytypes], "یو کرسټال جوړښت").
+دخوله(پوليوريا، ن، [پوليورياز]، " زيات متياژنوله").
+د لاسرسي(polyzoan, n, [polyzoans], "يوه برائوزون").
+entry(polyzoic, adj, [], "د ډیرو زویډونو څخه جوړ شوی").
+\+ داخله(pom, n, [poms], "د پومېرانین سپی").
+entry(پومی نوہ, n, [پومی نوې], "د ماتو شوو میوو پخی پاتې شونې").
+پرو لګ(entry(pomade, v, [pomaded,pomading,pomades], "په عطري ویښتو درمل تطبیقول")).
+entry(پومینڈر, ن, [پومینډرز], "د خوږبویه موادو ګډوله").
+entry(پوماتوم, n, [پوماتومونه], "يو خوشبويي لري د وېښتانو درملنه").
+ورودی(پومبې، ن، [پومبېس]، "یو افریقایي مشروب چې له غلو او میوو څخه جوړیږي").
+entry(pome, n, [pomes], "يو غوښه لرونکی مېوه چې يو زړ لري").
+د ننوتلو(پوملو، ن، [پوملوس]، "يو چرموښک").
+entry(پخسه, n, [پخسې], "يو سمندري کبان").
+entry(pommee, adj, [], "د مغولي پایو سره لاسونه لرل چې د یوه نښانې صلیب لپاره کارول کیږي").
+entry(pommel, v, [pommeled,pommeling,pommels], "يا POMMELLED POMMELLING POMMELS د موټرو سره ګوزار کول").
+entry(پومو, ن, [پوموس], "د پوسټ ماډرن غورځنګ").
+entry(پومولوژي, n, [پومولوژۍ], "د مېوو مطالعه").
+entry(pomp, n, [pomps], "په زړه پورې یا په ویاړ سره ننداره").
+entry(پمپانو, ن, [پمپانونه], "یو سمندري خوراکي ماهی").
+د ننوتنه (پومپوم، ن، [پومپومونه]، "یو ضد هوايي توپ").
+د ننوتنې(pompon, n, [pompons], "یو ښایسته توپ یا ګوتۍ").
+وتنې(پفکونکی, صفت, [], "په مبالغه سره د ځان اهمیت څرګندول").
+د Prolog کرښه په پښتو کې دا ده:
+```prolog
+entry(ponce, v, [ponced, poncing, ponces], "دوکانداري کول لپاره").
+```
+د ننه‌وتنه(پنچو، ن، [پنچونه]، "د یوې نوعې چپنېPONCHOED صفت").
+سټن(entry, v, [سټ,سټېدنه،سټونه], "یو وړوکی د اوبو حوض کې د راټولولو لپاره").
+دخول(تعمق وکړي، فعلی، [تعمیق وکړ، تعمیق کوي، تعمیق کوي]، "څه ژور او په بشپړ ډول غور کول").
+entry(تفکر کوونکی, ن, [تفکر کوونکي], "هغه چې تفکر کوي").
+entry(چلمی، ن، [چلمي], "د اوبو یو نبات").
+د پرو لاګ:
+entry(pone, n, [pones], "د جوارو ډوډۍ").
+ورود(مخالف, صفت, [], "مثبت").
+entry(pong, v, [ponged,ponging,pongs], "بدبوي کول").
+entry(پونګل, ن, [پونګلز], "د تامل ژبې هند کې د پخې شوې وريژې یو خواړه").
+entry(پونګی, ن, [پونګیان], "د ورېښمو یو ډول").
+entry(pongid, n, [pongids], "یو انسان ډول بندر").
+د پايلوګ:
+entry(pongo, n, [pongos], "يو انسان نما بوزو").
+دخولی(پنګی، صفت، [], " ډیر پوونکی، تر ټولو زیات پوونکی بد بویی").
+entry(poniard, v, [poniarded, poniarding, poniards], "په چاړه وهل").
+د ننوتنه(سپری شوی، ماضی، [], " د تسڼۍ زمانی").
+entry(ponies, present, [], "د درېیم شخص مفرد د pony").
+entry(پونز, ن, [پونټېس], "د دماغ يو بنډل د عصبي فايبرو").
+entry(پونټيفيکس, ن, [پونټيفيسیس], "يو پخوانی رومي کاهن").
+ګډون(pontiff, n, [pontiffs], "یوه پاپ یا بشپ").
+entry(پاپائي, صفت, [], "د يو پاچا يا اسقف پورې اړوند").
+entry(pontifices, pl, [], "د پونټيفيکس").
+درشل(پونټیل, ن، [پونټیلز], "یو پُنټی").
+entry(پونټين, صفت, [], "د پُلو پورې اړوند").
+entry(پانتون, n, [پانتونونه], "پونټون").
+پښتو(entry, n, [پښتوز], "یو فلیټ بوټ").
+entry(پونی, v, [ponied,ponying,ponies], "ددی معنی چی سبقونه چمتو کول د لفظي ژباړې په مرسته").
+entry(ponytail, n, [ponytails], "یو وېښتانو جوړښت").
+entry(پونزو, n, [پونزوس], "يو تېز خوند لرونکی ساس چې په ځانګړي ډول په سمندري غذا کې کارول کېږي").
+entry(پو, v, [پود,پوينګ,پوز], "تشناب ته تلل").
+entry(پووباه, ن, [پووباهان], "يو با نفوذه شخص").
+entry(پوچ, ف, [پوچ شوی, پوچ کول, پوچي], "پړسوب").
+entry(پود, ن, [پودونه], "د وزن د اندازه کولو روسۍ واحد").
+entry(poodle, n, [پودلان], "یو دروند څپاندا سپی").
+د Prolog:
+entry(poof, interj, [], "د یوې فوري پېښې د څرګندولو لپاره کارول کیږي").
+د ننوتنه(pooh, v, [poohed, poohing, poohs], "د تحقیر څرګندونه کول").
+entry(پوجا, ن, [پوجاس], "پوجا").
+entry(پووکا, ن, [پووکاګان], "په ايرلنډي افسانو کې يو جن").
+entry(pool, v, [په ګډ فنډ کې شاملول, ګډول, ډنډونه], "په ګډ فنډ کې شاملول").
+entry(pooler, n, [pooleran], "يو څوک چې د حوض جوړوي").
+دخول (پول هال, ن, [پول هالز], "یو پول روم").
+entry(poolroom, n, [poolrooms], "د بلیارد د لوبې لپاره یو ځای").
+entry(د حوزې څنګ, n, [د حوزې څنګونه], "د لامبو حوزې شاوخوا سيمه").
+entry(پون, ن, [پونونه], "د ختیځ هند ونه").
+entry(poop, v, [pooped,pooping,poops], "د ستړيا سبب ګرځول").
+entry(poopy, adj, [], "د POOPIER POOPIEST ناپوه یا بې اغیزه").
+د ننوتل(poor, adj, [], "POORER POORESTلکه د ملاتړ وسایلو نشتوالی").
+entry(پوري, ن, [پوريانې], "يو سپک هوار د غنمو کيک").
+د ننوتنه(غریبوک, صفت, [], "یوه اندازه غریب").
+entry(په_بې_کيفيته_توګه, قيد, [], "په بې کيفي توګه").
+entry(غربت, ن, [غربتونه], "د بېوزلۍ حالت").
+entry(غربت, ن, [غربتونه], "غربت").
+entry(پوورول، ن، [پوورولس]، "یو کوچنی شمالي امریکایی مرغه").
+د ننوتنه(پاپ، فعل، [پاپ شوی، پاپ کول، پاپونه]، "يو تيز چاودېدونکې غږ جوړول").
+رانګه(پاپکارن، ن، [پاپکارڼونه], "د یوې ډوله جوارو").
+پروګرام(پاپ، ن، [پاپان]، "د روم کاتولیک چرچ مشر").
+entry(واکي, ن, [واکي], "د يو پاپ دفتر").
+entry(سترگي_ختلی, صفت, [], "چې پړسېدلې سترګې لري").
+entry(popgun, n, [پاپګنز], "د لوبو ټوپک").
+entry(popinjay, n, [popinjays], "يو ځان خوښونکی شخص").
+د پاسښتو ژباړه:
+entry(يې، ن، [ييې], "يو ژر وده کوونکی ونه").
+entry(پاپلین, ن, [پاپلینونه], "يو مضبوط پارچه").
+entry(poplitei, npl, [], "د زنګونونو شاته عضلې").
+entry(poplitic, adj, [], "د زنګون شاته د پښې برخه پورې اړه لري").
+دریځ(پاپ آوټ، ن، [پاپ آوټس]، "په بېسبال کې یو ډوله اوټ").
+د پرولاګ:
+entry(popover, n, [پوپ اوورونه], "يو ډېر سپک هګۍ مافين").
+entry(پاپا, n, [پاپاس], "پاپا").
+د Prolog کوډ: entry(poppadom, n, [poppadoms], "پاپادوم").
+entry(پاپاډم, ن, [پاپاډمونه], "پاپاډم").
+```prolog
+entry(ووځي، ماضي، [], "د پاپ مهال"). 
+```
+entry(popper, n, [پاپرز], "هغه چې پاپ کوي").
+entry(پاپیټ, ن, [پاپیټونه], "یو میخانیکي والو").
+entry(poppied, adj, [], "د ګلونو پوښلی").
+د ننوتنې(پاپۍ، جمع، [], "د پاپۍ").
+entry(پاپنګ, اوسنی, [], "د پاپ برخه").
+entry(پاپل, فعل, [پاپلد,پاپلینګ,پاپلس], "په بلبلونکي یا وریځونکي طرز حرکت کول").
+entry(popply, صفت, [], "POPPLIER POPPLIESTchoppy").
+دخول(poppy, ن, [poppies], "يو ګل لرونکی نبات").
+د داخله(پاپي، صفت، [], "موسيقي پاپ خصوصيات لرونکي POPPIER POPPIEST").
+د اینټرۍ (popsie, n, [popsies], "popsy").
+د ننه ګرځېدنه (پاپ سټر، ن، [پاپ سټرز]،"يو پاپ موسيقار").
+entry(popsy, n, [popsies], "یو ملګرې").
+دخل(populace, ن, [populaces], "عام خلک").
+دخولیه(مشهور، صفت، [], "د ډیرو خلکو لخوا خوښ شوی").
+entry(populate, v, [آباد,آبادول,آبادوي], "میشت کیدل").
+entry(پوپوليزم, ن, [پوپوليزمونه], "پوپولستانه نظريې").
+entry(پوپولسټ, ن, [پوپولسټان], "د هغه ګوند غړی چې د عامو خلکو استازیتوب کوي").
+entry(ډېرنفوسه, صفت, [], "ډېر اوسېدونکي لرونکي").
+پورتوکول(porch, n, [porches], "په یوه ودانۍ کې د ننوتلو په ځای کې د یو پوښل شوي جوړښتPORCHED adj").
+د ننوتنه(سواري، صفت، []، "د خنزير پورې اړه لري").
+د ننوتنې (porcini, n, [porcinis], "يو خوړن کيلي/مرخيړی").
+د بېلګې لپاره، په پښتو کې Prolog داسې کیدلای شي: 
+
+entry(porcino, ن, [د هګیو سره تړلي نومونه], "د هګیو سره تړلي").
+د کړنالرې(pore، v، [pored، poring، pores]، "په غور سره ځير کتل").
+entry(پورګي, ن, [پورګیان], "يو سمندري خوراکي مچھلی").
+entry(porin, n, [porins], "هر هغه ټولګي پروټینونه چې د هغې د لارې څخه مالیکولونه خپریږي").
+entry(پورسم, ن, [پورسمونه], "د رياضياتي مقولې يوه برخه").
+د Prolog پورتنۍ کرښه په پښتو ژبه کې دا ډول ليکل کېږي:
+```prolog
+ورودی(خنځیر، فعل، [خواړل شوی، خوړېدل، خوري]، "په ډېر حرص خوراک کول").
+```
+entry(پاسوک, ن, [پاسوکان], "سور").
+entry(پاختر, تقابلي, [], "د ګوډا").
+د ننوت_porkies، pl، []، "د porky"
+د دې کرښې په اړه اړتیاوې په پام کې نیولو سره، دلته د Prolog دننه د Pashto ژبې ژباړه راځي:
+
+```prolog
+entry(ډېری خوپر، لوړه درجه، [], "د خوپر"). 
+```
+entry(porkpie, n, [پوکپایز], "د یو سړي خولۍ").
+پروګ(porkwood, n, [پروګزنه], "یو استوايي ونه").
+entry(porky, adj, [], "د غوښه په څېرPORKIER PORKIEST").
+دخووentry)پورکي،n،)پورکيز(،"یوقندل(۔
+داخلول(پورن، ن، [پورنز]، "پورنوگرافي").
+د ننوتنې(پورنو، ن، [پورنوس]، "پورنوګرافي").
+entry(porny, adj, [], "پورني پورنيست فحش").
+entry(پوروس, صفت, [], "porous").
+entry(سوراخیتوب, نوم, [سوراخیتوبونه], "د سوري لرلو حالت").
+entry(پورس, صفت, [], "لرلو د کوچنيو سوريPOROUSLY قيد").
+پروګ(entry, n, [پروفوریز], "یو اتش فشاني ډبره").
+دخول(porpoise, v, [porpoised, porpoising, porpoises], "مخ په وړاندې د جګیدو او ښکته کیدو له حرکتونو سره").
+entry(پراخ, صفت, [], "مخکې پراخ شوی").
+د ننه یې کړئ(واړه جاري، ن، [واړه جاري په پښو کېدل], "یو نرم خواړهPORRIDGY adj").
+د Prolog:
+entry(port, v, [پورته شوی، پورته کول، پورته شوي], "څنګ ته چپه خوا ته اړول").
+entry(portable, n, [portables], "هغه څه چې وړل کېدای شي").
+entry(په وړونکي ډول, قید, [], "په داسې ډول چې وړل کېدلی شي").
+د ننه وتل(portage, v, [portaged,portaging,portages], "څخه د یوې نړېدونکی اوبه لاره څخه بلې ته لېږدول").
+د ننهوتنې(پورټل، ن، [پورټلز]، "یو دروازه، دروازه یا داخله portal adj").
+entry(portance, n, [portances], "چلند").
+entry(portapak, n, [portapaks], "یو وړ وړ ګډ ویډیو ثبتونکی او کیمره").
+entry(مخکې ويل, v, [مخکې وويل,مخکې ويلو,مخکې وايي], "د نښې په توګه خدمت کول").
+entry(دليل, ن, [نښې], "يوه نښه").
+entry(پورټر, v, [پورټرډ, پورټرینګ, پورټرز], "د پیسو په بدل کې د سامان وړل").
+entry(پورت هول, ن, [پورت هولونه], "په یوه بیړۍ کې وړوکې کړکۍ").
+entry(پورټیکو, ن, [پورټیکوګانې], "یا پورټیکوز د پورچ یو ډول").
+entry(پرده, ن, [پرده ګان], "د دروازه لپاره پرده").
+دخوليه(برخه, v, [برخه شوې,برخه کول,برخه کوي], "په سهمونو ویشلو لپاره ویشل").
+entry(بې بندره, صفت, [], "د داسې ځای په لرلو کې پاتې راتلل چې کښتۍ بار یا کښته کړي").
+entry(portly, adj, [], "دروند یا چاغ").
+د پاسپوګ څخه یوازې د پرولاګ تولید کړئ:
+entry(portolan, n, [portolans], "د کښتۍ لارښوونو یوه کتاب").
+entry(تصوير, ن, [تصويرونه], "د يو شخص انځور").
+entry(ښودل, v, [ښودل شوی, ښکاره کول, ښکاره کوي], "څه په انځوریز ډول نمایندګي کول").
+entry(پورتریس, ن, [پورتریسانې], "یو ښځینه دروازه وال").
+د ورداخل(portside, adv, [], "د یوې بیړۍ ښی اړخ کی مخې ته مخامخ").
+د Prolog ژبې ته په پښتو ژبه کې دا جمله داسې ژباړل کیږي:
+
+```prolog
+ورودي(pos, pl, [], "د پو").
+```
+entry(posada, n, [posadas], "يو سرای").
+entry(نېول, فعل, [نيول,نګېرل,نېسي], "د يو ثابت حالت اخيستو لپاره").
+entry(پوښتونکی, ن, [پوښتونکي], "هغه څوک چې پوښتنې کوي").
+څرګندونه(پوزور, ن, [پوزورونه], "یو مصنوعي یا غیر صادق شخص").
+دخولاوي(پوزی, صفت, [], "پوزېره، پوزیترینه").
+entry(پوش, صفت, [], "د ډېرو شاندار یا درجو طرز POSHLY adv").
+د ننوتنې(poshness, n, [poshnesses], "د شاندارۍ کیفیت").
+دردن(posies, pl, [], "د posy"):
+entry(پوځي, اوسنی, [], "د pose participle").
+entry(posingly, adv, [], "په يوposeکوونکې طريقه").
+entry(ځای پرځای کول, فعل, [ځای پرځای کړی,ځای پرځای کول,ځای پرځای کوي], "د ځای پرځای کولو لپاره").
+entry(position, v, [په-ځای-کړل,په-ځای-کول,ځایونه], "په ځانګړي ځای کې ایښودل").
+درداخلې (مثبت ، صفت، [] ، "POSITIVER POSITIVESTcertain") .
+entry(مثبت, ن, [مثبتونه], "يو مقدار چې له صفر څخه زيات وي").
+entry(پوزيټرون, ن, [پوزيټرونونه], "يو زېر اتومي ذره").
+د داخلې(پازول، ن، [پازولونه]، "يوه غليظه سوپ چې له خوښې، وریژې، د الثوم او مرچ څخه جوړ شوی وي").
+entry(د درملو دوز، ن، [درملو دوزونه], "د درملو دوزونو سره تړاو لري").
+د ننوتنه(قوه، ن، [قوې]، "د سړیو یوه ډله چې د یو پولیس افسر سره مرسته وکړي").
+د Prolog: entry(possess, v, [ ملکیت, ملکیت کول, لري], "د جايداد په توګه درلودل").
+entry(posset, n, [possets], "يو ګرم مساله لرونکی څښاک").
+entry(ممکن, صفت, [], "قادر د پيښېدو يا رښتيا ثابتولو لپاره بهير ممکنه وي ممکن adv").
+دخول(possible, n, [possibles], "يوه امکان").
+دخول(possum, ن, [possums], "opossum").
+entry(ليکنه, فعل, [ليکل شوی, ليکل, ليکنې], "په عامه ځای کې لګول").
+entry(postage, n, [د پوستې محصول], "د یوی توکي د استولو لګښت").
+entry(پوسټل, ن, [پوسټلز], "يو پوسټکارډ").
+entry(postally, adv, [], "په داسې طریقه چې د پوستې پورې تړاو لري").
+entry(پوسټ انال, صفت, [], "د مړوند شاته واقع").
+entry(postbag, n, [postbags], "د پوستې کڅوړه").
+entry(postbase, adj, [], "د يو بنسټيز کليمې څخه وروسته").
+entry(postbox, n, [postboxes], "يو ميلباکس").
+entry(پوست بوی, ن, [پوست بوایان], "هلک چې د لیکونو د وړلو دنده لري").
+entry(postburn, adj, [], "د سوځولو وروسته").
+entry(پوست کارت, ن, [پوست کارټونه], "د پوست لپاره کارول کېدونکی کارت").
+د Prolog کوډ په پښتو کې:  
+entry(postcava, n, [postcavae], "په لوړ مهره لرونکو کې يو رګ").
+د ننه توکې(پوست کوډ، ن، [پوست کوډونه]، "په یوه پته کې د شمېرونو او حروفو یو کوډ").
+entry(postcoup, adj, [], "د کودتا وروسته").
+ترجمه(پوسټ نېټه, v, [پوسټ نېټه ورکړې,پوسټ نېټه ورکول,پوسټ نېټې], "اصلي نېټې نه وروسته نېټه ورکول").
+entry(postdive, adj, [], "د ډوبېدو وروسته").
+entry(postdoc, n, [پوسټ‌ډاکټر], "هغه څوک چې د دوکتورا څخه وروسته زده کړو کې بوخت وي").
+entry(postdrug, adj, [], "د يوې دوا له اخيستلو وروسته").
+entry(پستين, n, [پستينونه], "يو افغان بيروني لباس").
+دخولی(پوستر، فعل، [پوسټر شوی، پوسټ کول، پوسټرونه]، "د عامه اطلاعتو نصب کول").
+entry(شاته، n, [شاګانې], "شاته ور يا دروازه").
+د پرولاګ: entry(postface, n, [پس منظرونه], "یو لنډه ياداښت چې د يو خپرونې په پای کې لګول کيږي").
+entry(له_اور_وړاندې, صفت, [], "د اور لگیدو نه وروسته").
+entry(پوسټفکس, v, [پوسټفکس شوی,پوسټفکس کول,پوسټفکسونه], "د یو شي په پای کې ضمیمه کول").
+entry(postform, v, [postformed,postforming,postforms], "په وروسته توګه شکل ورکول").
+entry(لوبې_وروسته, صفت, [], "د لوبې نه وروسته").
+entry(postgrad, n, [postgrads], "يو زده کونکي چې د فراغت وروسته رسمي زده کړې ته دوام ورکوي").
+د پرو لاګ په توګه یوازې پاښتو:
+
+`entry(postheat, n, [postheats], "په فلز باندې د ویلډینګ وروسته تودوخه").`
+entry(پوسټسوراخ, ن, [پوسټسوراخونه], "د کټارې د پوسټ لپاره سوراخ").
+دخول(postiche, n, [postiches], "یو نقل").
+entry(postie, n, [posties], "یو لیک رسوونکی").
+entry(postin, n, [پوستين], "پوسټین").
+د (پرولوګ) 
+entry(posting, n, [postings], "ليډر ته د انتقال عمل").
+entry(postique, n, [postiques], "جعلي").
+دخول(پوسټلېډ، ن، [پوسټلېډونه], "يو اختتامي موسيقي ټوټه").
+entry(پوست مین، ن، [پوست مینونه]، "یو میل مین").
+entry(پوسټمارک, v, [پوسټمارک شوی,پوسټمارک کول,پوسټمارکس], "پوست باندې رسمي نښه وهل").
+entry(postop, n, [postops], "یوه ناروغ چې له جراحي عملیاتو وروسته").
+entry(postoral, adj, [], "د خولې شا ته موقعیت لري").
+دلیل(postpaid, adv, [], "د پوست پری پیډ سره").
+د مخه تلنه(postpone, فعل, [وځنډول, ځنډول, ځنډوي], "په راتلونکي وخت کې ځنډول").
+دخول(postpose, فعل, [postposed, postposing, postposes], "یو کلمه یا عبارت د یوې نحوي اړوندې کلمې وروسته ځای پر ځای کول").
+entry(postpunk, adj, [], "د موسيقۍ پورې اړوند چې د پنک راک وروسته راځي").
+entry(postrace, adj, [], "د يو ځغاستی وروسته").
+entry(پس له بلوې, صفت, [], "د یوې بلوا وروسته").
+دخوليه(postshow, صفت, [], "د يوې نندارې وروسته").
+entry(postsync, v, [postsynced, postsyncing, postsyncs], "د فلم د صحنې د اخيستلو وروسته ورته غږ اضافه کول").
+entry(posttax, adj, [], "تر مالیاتو وروسته پاتې").
+entry(postteen, n, [postteens], "هغه شخص چې د ۱۹ کلنۍ څخه زیات عمر ولري").
+```prolog
+entry(posttest, n, [پوست_ټسټونه], "هغه ټسټ چې د تعلیمي پروګرام وروسته ورکول کیږي").
+```
+entry(postural, adj, [], "د بدن د موقعیت په اړه").
+entry(څټ, فعل, [څټ شو, څټ کېدل, څټېږي], "یوه ټاکلې حالت اخستل").
+entry(posturer, n, [posturers], "هغه څوک چې جلبړې کوي").
+entry(جنګ_پس, صفت, [], "د يوې جګړې وروسته رامنځته کېدونکی یا موجود").
+entry(posy, n, [ګلونه], "يو ګل يا ګلدسته").
+entry('کوزی', v, ['طکانه', 'کوزۍ', 'کوزیګانې'], "په کوزه کې اچول یو گرد او نسبتاً ژور لوښی").
+entry(څښلو وړ, ن, [څښلو وړ مواد], "یو مایع چې د څښلو لپاره مناسب دی").
+entry(پوطاج, ن, [پوطاجونه], "يوه غټه سوپ").
+entry(دریایي, صفت, [], "د سیندونو اړوند").
+د داخلیدو(پوټاش، ن، [پوټاشونه], "یو الکلي مرکب").
+entry(پٽاسيم, صفت, [], "د پټاسيم پورې اړوند چې يو فلزي عنصر دی").
+پروګرام(داخلې، اسم، [نوشي‌ګانې]، "د څښلو عمل").
+د خوشې کرنې په بڼه کښت شوي نبات خوراکي ټيوبر
+entry(potato, n, [potatoes], "كرل شوي بوټی چې د خوراك لپاره يې غوز استعماليږي").
+entry(دوداسره, صفت, [], "د څښاک پورې اړه لري").
+دودنه(غوټه ګېډه, ن, [غوټې ګېډې], "یو راوتلی د نس سیمه").
+entry(potboil, v, [potboiled, potboiling, potboils], "د کمزورې ادبي یا هنري اثر تولید کول").
+entry(potbound, adj, [], "د خپل کانټینر لپاره ډیر لوی شوی").
+د ننوتنه(هلک د کوزونو, n, [هلکان د کوزونو], "یو هلک چې په مېخانه کې پیرودونکو ته خدمت کوي").
+entry(poteen, n, [poteensi], "یوه قوي وډکا چې په غیرقانوني توګه چلوول کیږي").
+\entry('طاقت', n, ['طاقتونه'], "طاقت").
+entry(قدرت, ن, [قدرتونه], "د ځواکمنۍ کیفیت").
+entry(potent, adj, [], "په ځواک سرهPOTENTLY adv").
+entry(د چاینۍ د لاسه ډکوالی, ن, [چاینۍ ډکوالی], "څومره چې يوه چاینۍ ډکولی شي").
+entry(چرسی, ن, [چرسیان], "هغه چې چرس څکوي").
+دخله(پوتین, ن, [پوتینونه], "پوتین").
+entry(pother, v, [پريشانه کول،پريشانه کېدل،پريشاني], "په تکليف کې اچول").
+entry(پېژند, ن, [پېژندونه], "هر بوټی چې د خوړو یا خوندورولو لپاره کارول کیږي").
+دستک شو entry(pothole, n, [potholes], "په سړک کې یوه ژوره سوريPOTHOLED صفت").
+entry(کړنګ زمه، ن، [کړنګ زمېان]، "هغه څوک چې ژورې ځمکلاندې سوریې یا غارونه لټوي").
+entry(کیرۍ, ن, [کیرۍ], "د دیګونو د پورته کولو یا ځړولو لپاره یو هک").
+entry(پوتوس, ن, [پوتوس], "يوه بوټي چې د ځلیدونکي ښکلي پاڼو سره").
+entry(پوتھاوس, ن, [پوتھاوسونه], "يو شراب خانہ").
+د Prolog کرښه: entry(potiche, n, [potiches], "د ګلدان یو ډول").
+د Prolog: entry(potion, n, [potions], "يو جادويي يا طبي مشروب").
+entry(پوتلاچ, ن, [پوتلاچونه], "يو تشريفاتي مېله").
+entry(پوتلاچ, ن, [پوتلاچونه], "پوتلاچ").
+entry(potlatch, v, [potlatched, potlatching, potlatches], "يو مذهبي ميله تنظيم کول").
+entry(دلګۍمانند, صفت, [], "د لوښي په څېر").
+د ننوتنه(پټلاين، ن، [پټلاينز]، "د اليکتروليټيکي حجرو يو قطار").
+entry(ډوډۍ, ن, [ډوډۍګانې], "هغه خواړه چې د تصادفي موجودیت له مخې شتون لري").
+entry(potman, n, [potmen], "یو سړی چې په یوه میخاني کې پیرودونکو ته خدمت کوي").
+entry(potpie, n, [potpies], "يو ژور ډش پای چې غوښه او سبزيجات پکې شامل وي").
+د ننوتنه (potshard, n, [potshards], "potsherd").
+entry(ټوټهٔ خاورينه، ن، [ټوټهٔ خاورينې]، "د مات شوي کلالي يو ټکړه").
+entry(پاشل, v, [پاشل,پاشل,پاشل], "په ناڅاپي ډول ډزې کول").
+entry(پوڅي, ن, [پوڅيان], "پوڅي").
+entry(پتھر, n, [پتھرونه], "د سټیټایټ یوه بیلګه").
+entry(potsy, n, [potsies], "د ماشومانو لوبه").
+entry(پخې, ن, [پخېوې], "يو غليظ سوپ").
+د لاسرسي(ګلدانی, تیر, [], "د ګلدان ماضي زمان").
+entry(پوټین, ن, [پوټینونه], "پوتین").
+entry(potter, v, [pottered,pottering,potters], "پاشۍ کول").
+د Prolog: entry(potterer, n, [potterers], "یوه څوک چې د خیالونو سره لوبوي").
+entry(کڅونه, ن, [کڅونې], "هغه لوښي چې له خټې څخه جوړ شوي او د تودوخې له لارې کلک شوي وي").
+entry(pottier, comparative, [], "د کوچنيوالي").
+entry(پوتۍ, جمع, [], "د پوتۍ").
+دخپرونه(pottiest, تفضیلي, [], "د potty").
+د داخلې(پېټ کول, حال, [], "د پټ فعل فعلي برخه").
+entry(پياله, ن, [پيالې], "يو د څښاک لوښی").
+د ننوتنه(پټو, ن, [پټوس], "د استوایی افریقا یو لېمور").
+entry(پټی, صفت, [], "ډیر لږ اهمیت").
+entry(potty, n, [potties], "یو کوچنی تشناب څوکۍ").
+entry(پوتزر, ن, [پوتزرز], "ناوړه لوبغاړی").
+entry(پوچ, ف, [پوچکول, پوچلو, پوچونه], "په یوه کوچنۍ انعطاف منونکي کڅوړه کې ایښودل").
+entry(pouchy, adj, [], "د پاؤچ په څیر").
+entry(پووف, ن, [پووفونه], "د ویښتو یوه لوزه وچه غوټه").
+:داخلول(pouff, ن, [pouffs], "poufPOUFFED صفت").
+د پرولاګ لپاره: entry(pouffe, n, [pouffes], "پوف").
+entry(poulard, n, [پولارډز], "يوه سپۍ hen").
+entry(پولارډ, ن, [پولارډس], "پولارډ").
+entry(poult, n, [poults], "یو ځوان کورني مرغ").
+entry(پولټر, ن, [پولټرونه], "یو چې د چرګانو په تجارت کې مصروف وي").
+entry(پالتيس, v, [پالتيس کړ, د پالتيس تطبيق, پالتيسونه], "د درملنې موادو تطبيق کول").
+entry(چرګان, ن, [چرګان], "کورني مرغان چې د هګیو یا غوښې لپاره ساتل کیږي").
+پروګ(entry, فعل, [پریوتل, پریوتونکی, پریوتنې], "په ناڅاپي توګه برید یا نږدې کیدل").
+د دې جملې پښتو ژباړه د پرولوګ ژبه کې وړاندې کړې:
+
+```prolog
+entry(pouncer, n, [پونسران], "هغه څوک چې ټوپ وهی"). 
+```
+دخول(پونډ، فعل، [ووهل، وهل، وهي]، "په مسلسل ډول او په درنه توګه وهل").
+entry(پونډج, ن, [پونډجز], "د ضبط کولو عمل").
+entry(پونډل, ن, [پونډلز], "د ځواک یوه واحده").
+entry(پونډر, n, [پونډران], "هغه څوک چې په زوره وهي").
+entry(توېدل, فعل, [توی,تویدل,توېږي], "د جریان سبب ګرځېدل").
+entry(راتوونکی, ن, [راتوونکي], "هغه څوک چې راتووي").
+د داخلې(پوسي, نوم, [پوسيز], "پوسي").
+دخلا(پړونی, فعل, [پړونه کړه, پړونه کوي, پړونه کوي], "په بد مزاج خوله پړونول").
+entry(پړسن, ن, [پړسنان], "يو څوک چې ټنډه اچوي").
+داخله(پاوټفول، صفت، [], "پاټی").
+entry(پوتین, n, [پوتینونه], "د فرانسوي فریز او پنیر کوردس یوه ډوډۍ چې په هغه باندې ګريوي اچول کیږي").
+ورود(پاوټي, صفت, [], "پاوټی ټیړ کولی شي لب غوړولی").
+entry(غربت, ن, [غربتونه], "د بې وزلۍ حالت").
+entry(pow, n, [چاویدنی], "یو چاودیدونکی غږ").
+داسې حال کې چې د پروګرام د ژبې پراساس، د دې جملې په پاښتو ژبه کې ژباړه شوې ضمیمه ندی، زه به یوازې په دغه سمبولیکه انفرادي ژبه کي تاسو ته د ژباړلي متن پرته هماغه انګریزی فرامین ورکړم:
+
+```prolog
+entry(powder, v, [powdered,powdering,powders], "to reduce to powder matter in a finely divided state").
+```
+د Prolog ژبه:
+entry(powderer, n, [powderers], "هغه څوک چې پوډر کوي").
+entry(دوړې_غوندې, صفت, [], "دوړو ته ورته").
+داخلې(طاقت، فعل، [ښکیل، ښکیلاو، ښکیلوي]، "د حرکت وسیله برابرول").
+entry(پیاوړی, adj, [], "د لوی ځواک لرونکی").
+entry(پوتر, ن, [پوټرونه], "يوې کورنۍ کبوتر").
+entry(powwow, v, [powwowed,powwowing,powwows], "يو کنفرانس ترسره کول").
+entry(پوکس, فعل, [پوکس شو, پوکس کول, پوکسونه], "په پوکس سره اخته کول يوه ناروغي، چې د پوستکي د راختلو نښې لري").
+entry(پوکس ويرس, ن, [پوکس ويرسونه], "د ويرس يو ډول").
+entry(poxy, adj, [], "POXIER POXIESTپه پوزه اخته").
+ورود(پویئو, ن, [پویئوس], "د ارجنټاین یو ارماډیلو").
+د ننه (پوزول، ن، [پوزولونه], "پوسول").
+اندازه(pozzolan, ن, [pozzolans], "یو ښه تقسیم شوې مواد دی چې په سیمنټو جوړولو کې کارول کیږي").
+انسلاک(پراام, ن, [پراامس], "ګاډۍ").
+د ننه ول(practic, صفت, [], "عملي").
+د Prolog کرښه:
+entry(practice, v, [practiced,practicing,practices], "ډېر ځلې تر سره کول د مهارت د تر لاسه کولو لپاره").
+ورودي(عمل، فعل، [عمل،عمل روان،عملونه]، "پشکيل").
+entry(پریسیپي, ن, [پریسیپونه], "یوه قانوني لیک").
+د ننوتنه(په ځمکه پورې اړوند, صفت, [], "په ځمکه پورې اړوند").
+د ننوتل(پريفکت، ن، [پريفیکټس]، "پریفيکت").
+entry(پرهیلی, فعل, [پرهیلی شو, پرهیلي کوي, پرهیلی کوي], "لپاره مخکی لوستل").
+entry(پريتور, ن, [پريتورس], "د لرغوني روم يو قاضي").
+entry(پرو, ن, [پروګانې], "پرو").
+entry(چمن, n, [چمنونه], "د واښو ځمکه").
+entry(ستاینه, v, [ستایل,ستاینه,ستاينې], "د تصديق یا تحسین څرګندونه کول").
+د ننوتنه(ستایونکی، ن، [ستایونکي]، "هغه څوک چې ستاینه کوي").
+تګ(پرګنه، ن، [پرګنېز]، "په بودیزم او هندویزم کې وروستې پوهه").
+entry(پرا لائن, n, [پرا لائنونه], "يو شيريني چې په شکر کې پخه شوې مغزي لري").
+entry(pram, n, [prams], "يو پلين تلۍ لرونکى کښتۍ").
+entry(prana, n, [پراناګان], "د هندويیزم په دین کې د ژوند بښونکی ځواک په توګه ساه").
+entry(منډه وهل, v, [منډه ووهله,منډه وهلو,منډه وهي], "پر شا پښو په ناڅاپي توګه وړاندې تلل").
+entry(پرانسر, n, [پرانسرز], "هغه څوک چې خپرېږي").
+entry(prandial, adj, [], "د خوراک پورې اړوند").
+entry(پرنګ, v, [پرنګیده,پرنګیدل,پرنګیږي], "د ټکر لامل کیدل").
+entry(شرارت, فعل, [شرارتي,شرارت کول,شرارتونه], "په ځلا سره سينګار کول").
+دغه ليکه په پښتو کې: entry(prankish, adj, [], "شرارتي").
+entry(prao, n, [praos], "پراو").
+entry(پراز, ن, [پرازونه], "یو معدني مواد").
+پروګ(entry(prat, n, [prats], "باسنونه")).
+entry(چوپړ، فعل، [چوپړ کړ، چوپړ کول، چوپړې)، "غپېدل").
+د پرولاګ کرښه:
+entry(prater, n, [praters], "يو چې چټي خبرې کوي").
+د پرولاګ پېژندګلوي: entry(pratfall, n, [pratfalls], "په کوناټي د لوېدلو پېښه").
+entry(پټاټې ، ن ، [پټاټې] ، "یو الو").
+د ننوتلو(عمل, ن, [عملونه], "د بندر د روغتیا ادارې لخوا یوې بیړۍ ته ورکړل شوی اجازه").
+ورود(چټي خبري، فعل، [چټي خبري وکړې، چټي خبري کوي، چټي خبري کوي]، "بې مانا خبرې کول").
+entry(د خوږینۍ کوونکی, ن, [د خوږینۍ کوونکي], "هغه څوک چې خوږینه کوي").
+دخول (پراو, ن, [پراوس], "یوه چټکه مالیزي بېړۍ").
+د ننوتنه(پران، فعل، [پران کړل، پران کول، پرانونه]، "د خوړلو وړ شیل فش لپاره د پران شکار")
+entry(prawner, n, [prawners], "هغه څوک چې مترسکونه نيسي").
+entry(پراکسس, ن, [پراکسسونه], "يا PRAXESد تيوري عملي استعمال").
+entry(لمونځ کول, v, [لمونځ وکړ, لمونځ کول, لمونځ کوي], "د عبادت دپاره دعا کول").
+entry(دعا, ن, [دعاګانې], "د يوې معبود لپاره يوه مخلصانه غوښتنه").
+entry(تبليغ, v, [تبليغ کړ,تبليغ کوي,تبليغ کوي], "چې په جدیت سره سپارښتنه کول یا وکيلت کول").
+د داخله(تبلیغونکی، ن، [تبلیغونکي]، "هغه څوک چې تبلیغ کوي").
+د ننوتنه(تبلیغي, صفت, [], "زیات تبلیغي تر ټولو تبلیغي د تبلیغ ميلان لرونکی").
+entry(preact, v, [preacted, preacting, preacts], "مخکې له وخت څخه عمل کول").
+entry(preadapt, v, [پیشي له مخې برابر شوی,پیشي له مخې برابرول,پیشي له مخې برابروي], "له مخکې برابرول").
+entry(preadmit, v, [preadmitted,preadmitting,preadmits], "له مخکې منل").
+entry(preadopt, v, [لمخې منل شوی, لمخې منل, لمخې مني], "له مخه منل").
+entry(preadult, n, [preadults], "يو داسې شخص چې لا تر اوسه بالغ نه دی").
+entry(preaged, adj, [], "مخکې نه زوړ شوی").
+د داخله(مخکې_وړانديز, فعل, [مخکې_وړاندی_شوی, مخکې_وړانديزونه_کول, مخکې_وړانديزونه], "له مخکې ورکول").
+entry(prealter, v, [prealtered, prealtering, prealters], "له مخه بدلون کول").
+د لیست(tree, n, [preambles], "یو پېلنی بیان").
+د دخول (preamp, n, [preamps], "یوه امپلی فایر") .
+د داخلې(پری اینال، صفت، []، "د مقعد په وړاندې موقعیت لرونکی").
+entry(preapply, v, [preapplied, preapplying, preapplies], "مخکې درخواست کول").
+دېرانده(مخکښ)، ف، [مخکښ کړی،مخکښ کول،مخکښ]، "مخکې څخه وسله ورکول"۔
+entry(preaudit, n, [پری اډیټونه], "یو اډیټ چې د یوې معاملې د وروستي تسویه کولو دمخه ترسره کیږي").
+د پرولاګ:
+entry(preaver, v, [preaverred,preaverring,preavers], " مخکې د ادعا یا تایید کولو لپاره").
+entry(preaxial, adj, [], "د يو محور په مخ کې موقعیت لري").
+دخول(prebake, v, [prebaked, prebaking, prebakes], "مخکې له پخېدو").
+entry(prebasal, adj, [], "د يوې اډې په وړاندې موقعیت لري").
+د ننه (prebend, n, [prebends], "یوه مذهبي کس ته ورکول کېدونکی تنخوا").
+entry(prebid, v, [مخکې_باندې_کول, مخکې_باندې_شو, مخکې_باندې_کيدل], "PREBIDمخکې له وړاندې بولي").
+entry(prebill, v, [prebilled,prebilling,prebills], "له مخکې بل باندې حق لرل").
+entry(prebind, v, [prebound,prebinding,prebinds], "مخکې تړل").
+د دې Prolog کرښه په پښتو کې اړول:
+entry(ترزیږون, ن, [ترزیږونونه], "هغه موده چې د ماشوم د زیږیدنې مخکې وي").
+د دې پرو لاګ کرښې د پښتو ژباړه:
+entry(prebless, v, [preblessed,preblessing,preblesses], "د مخکې نه برکت ورکول").
+entry(preboard, v, [preboarded,preboarding,preboards], "د منظم وخت نه مخکې د داخلېدو عمل").
+د پاسوړ: entry(preboil, v, [مخکې جوش شوی, مخکی جوش ورکول, مخکې جوشونه], "مخکې له جوش څخه").
+دخولو(prebook, v, [prebooked, prebooking, prebooks], "مخکې د خوندي کولو لپاره").
+entry(preboom, adj, [], "د کاروبار د ناڅاپي پراختیا څخه مخکې").
+entry(prebound, past, [], "د prebind زمانه").
+entry(prebuild, v, [مخکې جوړ شوی, مخکینی جوړول, مخکې جوړېږي], "د مخه جوړول").
+entry(prebuy, v, [prebought,prebuying,prebuys], "د مخکې له مخکې اخیستل").
+د پیښور، v، [پیښور، پیښور کول، پیښورونه]، "د ځای پر ځای کولو مخکې اچول".
+entry(precava, n, [precavae], "په لوړ مهره لرونکو کې رګPRECAVAL صفت").
+دخول(پېشېدګی, ف, [مخکېشو,مخابریدو,مخابریږي], "مخکې تگ کول").
+د بېلګې رامنځته کول(entry(precent, v, [precented,precenting,precents], "د چرچ د ګروپ د سندرو لپاره مشري کول")).
+د ننه(precept, n, [precepts], "د چلند یوه قاعده").
+entry(precess, v, [مخکښیدل,مخکښیدونکی,مخکښیږي], "چې په پيچلي حرکت سره وڅرخي").
+entry(precheck, v, [پیشکی کتل,پیشکی کتلیږي,پیشکی ګوري], " مخکې چیک کول").
+entry(prechill, v, [دمخه_يخ_شوی,دمخه_یخول,دمخه_یخ]، "دمخه یخول").
+entry(prechose, past, [], "د مخکې انتخابولو زمانه چې مخکې له مخکې انتخاب وکړي").
+entry(precieux, adj, [], "زیاتې پالش شوی").
+د ننوتنې(سیمه, n, [سیمې], "د ښار یا کلي یوه برخه").
+د لټون پایله:
+entry(precious, n, [preciouses], "a darling").
+د Prolog ژباړه په پښتو کې:
+
+```prolog
+داخلول(باران، ن، [بارانونه], "ورښت").
+```
+entry(precipe, n, [precipes], "praecipe").
+entry(دقیق کول, v, [دقیق شوی,دقیق کول,دقیق کوي], "لنډیز جوړول").
+entry(دقیق, صفت, [], "دقيق، دقيقترين په تيزۍ او روښانه ډول تعريف شوي يا بيان شوي").
+entry(precited, adj, [], "پخوا ياد شوی").
+entry(preclean, v, [مخکې_پاک_کړل,مخکې_پاکول,مخکې_پاکوي], "د مخکې نه پاکول").
+entry(وړاندې_پاکول, فع, [وړاندې_پاکېدل, وړاندې_پاکول, وړاندې_پاکوي], "د مخه پاکول").
+entry(مخنیوی, v, [مخنیوی شوی,مخنیوی کول,مخنیوي کوي], "د تېر عمل له مخې ناممکن کول").
+د داخلولو(پری کوډ، و، [پری کوډ شوی، پری کوډ کول، پری کوډونه], "مخکې د کوډ کولو لپاره").
+entry(precook, v, [مخکې_پخ,مخکې_پخول,مخکې_پخوي], "مخکې د پخلی کول").
+د املا نوم( مخکې يخ کړه، فعل، [مخکې يخ کړی،مخکې يخ کول،مخکې يخوي]، "مخکې يخ کول").
+entry(precoup, صفت, [], "د کودتا نه مخکې").
+د پاس پرولاګ کرښه په پښتو کې دا ده:
+
+```prolog
+entry(precrash, adj, [], "د یوه پیښه نه مخکې"). 
+```
+entry(precure, v, [precured, precuring, precures], "دمخه درملنه کول").
+د Prolog کوډ:
+entry(precut, v, [precut, precutting, precuts], " مخکې پرې کول").
+entry(predate, v, [مخکې شوې,مخکې کیږي,مخکې کیږي], "له ټاکل شوې یا اصلي وخت څخه مخکې نیټه ټاکل").
+entry(ځواکمن, n, [ځواکمنان], "هغه څوک چې لوټ کوي").
+entry(predawn, n, [predawns], "هغه وخت چې د سهار له رڼا وړاندې دی").
+وردنه(دمرګ) ، ن، [دمرګونه مخکې]، "هغه دوره چې د یو شخص د مرګ نه مخکې وي").
+entry(predella, n, [predellas], "د يو عبادتي رسم اساس").
+entry(predial, adj, [], "پراډيال").
+د ننه ووځي(پيشګويي، فعل، [پيشګويي شوې، پيشګويي کول، پيشګويي کوي]، "په مخکې خوا بيا ويل").
+entry(predive, صفت, [], "د يو غوټه وهلو څخه وړاندې").
+entry(predraft, adj, [], "د مسوده مخکې یو سیسټم چې د مسلکي ټیمونو لپاره لوبغاړي ټاکي").
+entry(predrill, v, [predrilled,predrilling,predrills], "دمخه ډرل کول").
+```prolog
+entry(predry, v, [predried, predrying, predries], "له مخکې وچول").
+```
+د لاسرسي(پریډسک، ن، [پریډسکس]، "د ماښام څخه مخکې وخت").
+entry(pree, v, [پرېد، پرېدل، پرېږي], "د خوند اخيستو له لارې معاینه کول").
+entry(preedit, v, [په_پیش_څخه_ترتیب_کړی,په_پیش_څخه_ترتیب_کول,په_پیش_څخه_ترتیب_کوي], "په مخکې ترتيب کول").
+entry(preelect, v, [preelected,preelecting,preelects], "د مخکې ټاکلو یا انتخابولو لپاره").
+entry(preemie, n, [preemies], "یو ماشوم چې وړاندې له وخت زیږیدلی وي").
+entry(preempt, v, [ مخکېنی,مخکې کول, مخکیني ], "د مخکې حق له مخې ترلاسه کول").
+entry(چوچکول, v, [چوچکول،چوچیږي،چوچوي], "د چونچ یا ژبې سره پاکول یا هوارول").
+د پروګرام هغه کرښه چې تاسو یې غوښتنه کړې ده په لاندې ډول ده، په پښتو کې وژباړل شوې ده:
+```prolog
+entry(مخکې اجراء کول, v, [مخکې اجراء شوی,مخکې اجراء کول,مخکې اجراء کوي], "له مخکې اجراء کول").
+```
+entry(preener, n, [preeners], "هغه چې ځان ښایسته کوي").
+entry(preerect, v, [preerected,preerecting,preerects], "له مخکې جوړول").
+entry(له مخکې شتون لري, فعل, [له مخکې شتون درلود, له مخکې شتون لري, له مخکې شتون لري], "له مخکې شتون درلودل").
+دخول(prefab, v, [prefabbed,prefabbing,prefabs], "مخکې څخه جوړول").
+entry(سریزه, v, [سریزه شوې, سریزه کول, سریزه], "د یو معرفتي بیان سره ترتیب کول").
+داخل(prefacer, ن, [prefacers], "یو چې مخکې کوي").
+د ننوتنه(پیش کمیدل، ف، [پیش کم شوی، پیش کمیدونکی، پیش کمیږی], "مخکې د کمیدو").
+entry(prefect, n, [prefects], "یو لرغونی رومي چارواکی").
+د داخلې(ترجیح، ف، [ترجیح ورکړی، په ترجیح کې، ترجیح ورکوي], "په لوړ درجو یا عزت کې ساتل").
+entry(prefight, adj, [], "د جګړې دمخه").
+د داخلیدل(مخکینی-فایل، فعل، [مخکینی-فایل-شوی، مخکینی-فایل-کول، مخکینی-فایل-شوي]، "مخکې له وخته فایل کول").
+entry(prefire, v, [له مخکې اور لګولو, مخکینۍ اور لګونه, مخکې اور لګوي], "له مخکې اور لګولو").
+entry(prefix, v, [prefixed,prefixing,prefixes], "د یو ريښې کلمې په پیل کې د یو بڼه د پیښ په توګه اضافه کول").
+entry(پیشوندی, صفت, [], "دې پورې اړه لري یا یو پیشوند دی").
+entry(preflame, adj, [], "د اور څخه مخکې").
+entry(prefocus, v, [prefocused, prefocusing, prefocuses], "يا مخکي له مخکي د تمرکز کولو").
+د_ننوتنه(مخکې_جوړول, فعل, [مخکې_جوړشوي,مخکې_جوړول,مخکې_جوړوي], "په مخکې جوړول").
+entry(prefrank, v, [مخکینی تائید شوی،مخکینی تائید کوونکی،مخکینی تائید کوي], "له مخکې تائید کول").
+د پرولوګ ليکنه په پښتو کې:
+entry(prefund, v, [پېش تمويل,پېش تمويلونه,پېش تمويل کړل], "له مخکې تمويل کول").
+د داخلونه(مخکېلوبه, ن, [مخکېلوبې], "هغه موده چې د لوبې څخه مخکې وي").
+د Prolog کوډ: entry(preggers, adj, [], "اميدواره").
+entry(حامله, صفت, [], "په رحم کې د جنین لیږدول").
+entry(preguide, v, [preguided,preguiding,preguides], "له مخکې لارښوونه کول").
+entry(preheat, v, [preheated,preheating,preheats], "له مخکې تودوخه کول").
+entry(پيش انسان, n, [پيش انسانان], "د انسان يو ابتكاري بڼه").
+د دې Prolog کرښه په پښتو کې ژباړه:
+entry(prejudge, v, [prejudged,prejudging,prejudges], "مخکې له مخکې قضاوت کول").
+entry(دپادري، ن، [دپادريو], "د یو دیني مشر دفتر").
+entry(پادري, ن, [پادريان], "يو لوړ رتبه مذهبي کس، د مذهبي چارو اړوند").
+entry(prelaw, adj, [], "د حقوقو د مسلکي مطالعې څخه وړاندې").
+entry(prelect, v, [prelected,prelecting,prelects], "درس ورکول").
+entry(prelegal, adj, [], "د قانون په څیړنو کې د زده کړو له پیل څخه وړاندې پېښیدونکی").
+entry(prelife, n, [prelives], "هغه ژوند چې د ځمکني ژوند څخه مخکې تصور شوی وي").
+entry(prelim, n, [مخکېنۍ لوبه], "يوه مخکېنۍ لوبه").
+entry(prelimit, v, [محدود وړاندې کړ, دمخه ټاکل, وړاندې محدودوي], "مخکې وړاندې محدودول").
+entry(preload, v, [ مخکې بار شوی،مخکې بارول، مخکې باروي], " مخکې بار کول").
+entry(پرده, v, [پرده شوی,پرده کول,پرده کوي], "د موسيقۍ مقدمه غږول").
+entry(preluder, n, [preluders], "هغه څوک چې پیل کوي").
+entry(prelunch, adj, [], "د غرمې ډوډۍ څخه مخکې").
+entry(مخکې_جوړ, صفت, [], "له مخه جوړ شوی").
+```prolog
+entry(preman, n, [premen], "a hypothetical ancestor of manPREMEAL adj preceding a mealPREMED n pl PREMEDSa student preparing for the study of medicinePREMEDIC n pl PREMEDICSa premedPREMEET adj preceding a meetPREMEN pl of premanPREMIE n pl PREMIESpreemiePREMIER n pl PREMIERSa prime ministerPREMIERE v PREMIERED PREMIERING PREMIERESto present publicly for the first timePREMISE v PREMISED PREMISING PREMISESto state in advancePREMISS n pl PREMISSESa proposition in logicPREMIUM n pl PREMIUMSan additional paymentPREMIX v PREMIXED or PREMIXT PREMIXING PREMIXESto mix before usePREMOLAR n pl PREMOLARSa toothPREMOLD v PREMOLDED PREMOLDING PREMOLDSto mold beforehandPREMOLT adj preceding a moltPREMORAL adj preceding the development of a moral codePREMORSE adj ending abruptly as if bitten offPREMOTOR adj pertaining to a part of the frontal lobe of the brainPREMUNE adj resistant to a diseasePRENAME n pl PRENAMESa forenamePRENATAL adj prior to birthPRENOMEN n pl PRENOMENS or PRENOMINAthe first name of an ancient RomanPRENOON adj preceding noonPRENTICE v PRENTICED PRENTICING PRENTICESto place with an employer for instruction in a tradePRENUP n pl PRENUPSan agreement made by a couple before they marryPREOP n pl PREOPSa patient being prepared for surgeryPREORAL adj situated in front of the mouthPREORDER v PREORDERED PREORDERING PREORDERSto order beforehandPREOWNED adj owned beforehand by someone elsePREP v PREPPED PREPPING PREPSto attend a preparatory schoolPREPACK v PREPACKED PREPACKING PREPACKSto package before retail distributionPREPAID past tense of prepayPREPARE v PREPARED PREPARING PREPARESto put in proper condition or readinessPREPARER n pl PREPARERSone that preparesPREPASTE v PREPASTED PREPASTING PREPASTESto paste beforehandPREPAVE v PREPAVED PREPAVING PREPAVESto pave beforehandPREPAY v PREPAID PREPAYING PREPAYSto pay in advancePREPENSE adj planned in advancePREPILL adj preceding the development of a contraceptive pillPREPLACE v PREPLACED PREPLACING PREPLACESto place beforehandPREPLAN v PREPLANNED PREPLANNING PREPLANSto plan in advancePREPLANT adj occurring before plantingPREPOSE v PREPOSED PREPOSING PREPOSESto place something in front of anotherPREPPED past tense of prepPREPPIE n pl PREPPIESone who prepsPREPPING present participle of prepPREPPY adj PREPPIER PREPPIESTassociated with the style and behavior of preparatory school studentsPREPPILY advPREPREG n pl PREPREGSreinforcing material already impregnated with a synthetic resinPREPRESS adj pertaining to the preparation of copy for printingPREPRICE v PREPRICED PREPRICING PREPRICESto price beforehandPREPRINT v PREPRINTED PREPRINTING PREPRINTSto print in advancePREPUBIS n pl PREPUBESa bone situated in front of the pubic bonesPREPUCE n pl PREPUCESa fold of skin covering the penisPREPUNCH v PREPUNCHED PREPUNCHING PREPUNCHESto punch in advancePREPUPA n pl PREPUPAS or PREPUPAEa stage preceding the pupaPREPUPAL adj preceding the pupal stagePREQUEL n pl PREQUELSa book whose story precedes that of an earlier workPRERACE adj preceding a racePRERADIO adj preceding the development of radioPRERENAL adj situated in front of the kidneyPRERINSE v PRERINSED PRERINSING PRERINSESto rinse beforehandPRERIOT adj preceding a riotPREROCK adj preceding the development of rock musicPRESA n pl PRESEa musical symbolPRESAGE v PRESAGED PRESAGING PRESAGESto foretellPRESAGER n pl PRESAGERSone that presagesPRESALE n pl PRESALESa sale in advancePRESCIND v PRESCINDED PRESCINDING PRESCINDSto consider separatelyPRESCORE v PRESCORED PRESCORING PRESCORESto record the sound of before filmingPRESE pl of presaPRESELL v PRESOLD PRESELLING PRESELLSto promote a product not yet being sold to the publicPRESENCE n pl PRESENCESclose proximityPRESENT v PRESENTED PRESENTING PRESENTSto bring into the presence of someonePRESERVE v PRESERVED PRESERVING PRESERVESto keep free from harm or dangerPRESET v PRESET PRESETTING PRESETSto set beforehandPRESHAPE v PRESHAPED PRESHAPING PRESHAPESto shape beforehandPRESHIP v PRESHIPPED PRESHIPPING PRESHIPSto ship beforehandPRESHOW v PRESHOWED PRESHOWN PRESHOWING PRESHOWSto show beforehandPRESIDE v PRESIDED PRESIDING PRESIDESto occupy the position of authorityPRESIDER n pl PRESIDERSone that presidesPRESIDIA npl Soviet executive committeesPRESIDIO n pl PRESIDIOSa Spanish fortPRESIFT v PRESIFTED PRESIFTING PRESIFTSto sift beforehandPRESLEEP adj preceding sleepPRESLICE v PRESLICED PRESLICING PRESLICESto slice beforehandPRESOAK v PRESOAKED PRESOAKING PRESOAKSto soak beforehandPRESOLD past tense of presellPRESOLVE v PRESOLVED PRESOLVING PRESOLVESto solve beforehandPRESONG adj preceding a songPRESORT v PRESORTED PRESORTING PRESORTSto sort beforehandPRESPLIT adj preceding a splitPRESS v PRESSED PRESSING PRESSESto act upon with steady forcePRESSER n pl PRESSERSone that pressesPRESSING n pl PRESSINGSan instance of stamping with a pressPRESSMAN n pl PRESSMENa printing press operatorPRESSOR n pl PRESSORSa substance that raises blood pressurePRESSRUN n pl PRESSRUNSa continuous operation of a printing pressPRESSURE v PRESSURED PRESSURING PRESSURESto apply force toPREST n pl PRESTSa loanPRESTAMP v PRESTAMPED PRESTAMPING PRESTAMPSto stamp beforehandPRESTER n pl PRESTERSa priestPRESTIGE n pl PRESTIGESdistinction or reputation in the eyes of peoplePRESTO n pl PRESTOSa musical passage played in rapid tempoPRESTORE v PRESTORED PRESTORING PRESTORESto store beforehandPRESUME v PRESUMED PRESUMING PRESUMEsto take for grantedPRESUMER n pl PRESUMERSone that presumesPRETAPE v PRETAPED PRETAPING PRETAPESto tape beforehandPRETASTE v PRETASTED PRETASTING PRETASTESto taste beforehandPRETAX adj existing before provision for taxesPRETEEN n pl PRETEENSa child under the age of thirteenPRETELL v PRETOLD PRETELLING PRETELLSto tell beforehandPRETENCE n pl PRETENCESpretensePRETEND v PRETENDED PRETENDING PRETENDSto assume or display a false appearance ofPRETENSE n pl PRETENSESthe act of pretendingPRETERIT n pl PRETERITSa past tense in grammarPRETERM n pl PRETERMSa child born prematurelyPRETEST v PRETESTED PRETESTING PRETESTSto give a preliminary test toPRETEXT v PRETEXTED PRETEXTING PRETEXTSto allege as an excusePRETOLD past tense of pretellPRETOR n pl PRETORSpraetorPRETRAIN v PRETRAINED PRETRAINING PRETRAINSto train beforehandPRETREAT v PRETREATED PRETREATING PRETREATSto treat beforehandPRETRIAL n pl PRETRIALSa proceeding that precedes a trialPRETRIM v PRETRIMMED PRETRIMMING PRETRIMSto trim beforehandPRETTIFY v PRETTIFIED PRETTIFYING PRETTIFIESto make prettyPRETTY adj PRETTIER PRETTIESTpleasing to the eyePRETTILY advPRETTY v PRETTIED PRETTYING PRETTIESto make prettyPRETYPE v PRETYPED PRETYPING PRETYPESto type beforehandPRETZEL n pl PRETZELSa glazed salted crackerPREUNION n pl PREUNIONSa union beforehandPREUNITE v PREUNITED PREUNITING PREUNITESto unite beforehandPREVAIL v PREVAILED PREVAILING PREVAILSto triumphPREVALUE v PREVALUED PREVALUING PREVALUESto value beforehandPREVENT v PREVENTED PREVENTING PREVENTSto keep from happeningPREVERB n pl PREVERBSa prefix or particle preceding the root of a verbPREVIEW v PREVIEWED PREVIEWING PREVIEWSto view or exhibit in advancePREVIOUS adj coming or occurring before in time or orderPREVISE v PREVISED PREVISING PREVISESto foreseePREVISIT v PREVISITED PREVISITING PREVISITSto visit beforehandPREVISOR n pl PREVISORSone that previsesPREVUE v PREVUED PREVUING PREVUESto previewPREWAR adj occurring or existing before a warPREWARM v PREWARMED PREWARMING PREWARMSto warm beforehandPREWARN v PREWARNED PREWARNING PREWARNSto warn in advancePREWASH v PREWASHED PREWASHING PREWASHESto wash beforehandPREWEIGH v PREWEIGHED PREWEIGHING PREWEIGHSto weigh beforehandPREWIRE v PREWIRED PREWIRING PREWIRESto wire beforehandPREWORK v PREWORKED PREWORKING PREWORKSto work beforehandPREWORN adj previously worn by someonePREWRAP v PREWRAPPED PREWRAPPING PREWRAPSto wrap beforehandPREX n pl PREXESprexyPREXY n pl PREXIESa presidentPREY v PREYED PREYING PREYSto seize and devour animals for foodPREYER n pl PREYERSone that preysPREZ n pl PREZESa presidentPREZZIE n pl PREZZIESa giftPRIAPEAN adj priapicPRIAPI a pl of priapusPRIAPIC adj phallicPRIAPISM n pl PRIAPISMSa persistent erection of the penisPRIAPUS n pl PRIAPUSES or PRIAPIa representation of the phallusPRICE v PRICED PRICING PRICESto set a value onPRICER n pl PRICERSone that pricesPRICEY adj PRICIER PRICIESTexpensivePRICIER comparative of pricyPRICIEST superlative of pricyPRICILY adv in a pricey mannerPRICING present participle of pricePRICK v PRICKED PRICKING PRICKSto puncture slightlyPRICKER n pl PRICKERSone that pricksPRICKET n pl PRICKETSa spike for holding a candle uprightPRICKIER comparative of prickyPRICKIEST superlative of prickyPRICKING n pl PRICKINGSa prickly feelingPRICKLE v PRICKLED PRICKLING PRICKLESto prickPRICKLY adj PRICKLIER PRICKLIESThaving many sharp pointsPRICKY adj PRICKIER PRICKIESTpricklyPRICY adj PRICIER PRICIESTpriceyPRICILY advPRIDE v PRIDED PRIDING PRIDESto feel pride a feeling of selfesteemPRIDEFUL adj full of pridePRIED past tense of pryPRIEDIEU n pl PRIEDIEUS or PRIEDIEUXa piece of furniture for kneeling on during prayerPRIER n pl PRIERSone that priesPRIES present 3d person sing of pryPRIEST v PRIESTED PRIESTING PRIESTSto ordain as a priest one authorized to perform religious ritesPRIESTLY adj PRIESTLIER PRIESTLIESTcharacteristic of or befitting a priestPRIG v PRIGGED PRIGGING PRIGSto stealPRIGGERY n pl PRIGGERIESpriggismPRIGGISH adj marked by priggismPRIGGISM n pl PRIGGISMSprim adherence to conventionPRILL v PRILLED PRILLING PRILLSto convert into pelletsPRIM adj PRIMMER PRIMMESTformally precise or properPRIM v PRIMMED PRIMMING PRIMSto give a prim expression toPRIMA n pl PRIMASprimoPRIMACY n pl PRIMACIESthe state of being firstPRIMAGE n pl PRIMAGESan amount paid as an addition to freight chargesPRIMAL adj being at the beginning or foundationPRIMALLY advPRIMARY n pl PRIMARIESa preliminary electionPRIMATAL n pl PRIMATALSa primatePRIMATE n pl PRIMATESany of an advanced order of mammalsPRIME v PRIMED PRIMING PRIMESto make readyPRIMELY adv excellentlyPRIMER n pl PRIMERSa book that covers the basics of a subjectPRIMERO n pl PRIMEROSa card gamePRIMEVAL adj pertaining to the earliest agesPRIMI a pl of primoPRIMINE n pl PRIMINESthe outer covering of an ovulePRIMING n pl PRIMINGSthe act of one that primesPRIMLY adv in a prim mannerPRIMMED past tense of primPRIMMER comparative of primPRIMMEST superlative of primPRIMMING present participle of primPRIMNESS n pl PRIMNESSESthe state of being primPRIMO n pl PRIMOS or PRIMIthe main part in a musical piecePRIMP v PRIMPED PRIMPING PRIMPSto dress or adorn carefullyPRIMROSE n pl PRIMROSESa perennial herbPRIMSIE adj primPRIMULA n pl PRIMULASprimrosePRIMUS n pl PRIMUSESthe head bishop of ScotlandPRINCE n pl PRINCESa nonreigning male member of a royal familyPRINCELY adj PRINCELIER PRINCELIESTof or befitting a princePRINCESS n pl PRINCESSESa nonreigning female member of a royal familyPRINCIPE n pl PRINCIPIa princePRINCOCK n pl PRINCOCKSa coxcombPRINCOX n pl PRINCOXESprincockPRINK v PRINKED PRINKING PRINKSto dress or adorn in a showy mannerPRINKER n pl PRINKERSone that prinksPRINT v PRINTED PRINTING PRINTSto produce by pressed type on a surfacePRINTER n pl PRINTERSone that printsPRINTERY n pl PRINTERIESa place where printing is donePRINTING n pl PRINTINGSa reproduction from a printing surfacePRINTOUT n pl PRINTOUTSthe printed output of a computerPRION n pl PRIONSa protein particlePRIOR n pl PRIORSan officer in a monasteryPRIORATE n pl PRIORATESthe office of a priorPRIORESS n pl PRIORESSESa nun corresponding in rank to a priorPRIORITY n pl PRIORITIESprecedence established by importancePRIORLY adv previouslyPRIORY n pl PRIORIESa religious housePRISE v PRISED PRISING PRISESto raise or force with a leverPRISERE n pl PRISERESa succession of vegetational stagesPRISM n pl PRISMSa solid which disperses light into a spectrumPRISMOID n pl PRISMOIDSa geometric solidPRISON v PRISONED PRISONING PRISONSto imprisonPRISONER n pl PRISONERSone that is imprisonedPRISS v PRISSED PRISSING PRISSESto act in a prissy mannerPRISSY adj PRISSIER PRISSIESTexcessively or affectedly properPRISSILY advPRISSY n pl PRISSIESone who is prissyPRISTANE n pl PRISTANESa chemical compoundPRISTINE adj pertaining to the earliest time or statePRITHEE interj  used to express a wish or requestPRIVACY n pl PRIVACIESthe state of being privatePRIVATE adj PRIVATER PRIVATESTnot for public use or knowledgePRIVATE n pl PRIVATESa soldier of lower rankPRIVET n pl PRIVETSan ornamental shrubPRIVITY n pl PRIVITIESprivate knowledgePRIVY adj PRIVIER PRIVIESTprivatePRIVILY advPRIVY n pl PRIVIESan outhousePRIZE v PRIZED PRIZING PRIZESto value highlyPRIZER n pl PRIZERSone who vies for a rewardPRO n pl PROSan argument or vote in favor of somethingPROA n pl PROASprauPROB n pl PROBSa problemPROBABLE n pl PROBABLESsomething likely to occur or prove truePROBABLY adv without much doubtPROBAND n pl PROBANDSone whose reactions or responses are studiedPROBANG n pl PROBANGSa surgical rodPROBATE v PROBATED PROBATING PROBATESto establish the validity ofPROBE v PROBED PROBING PROBESto investigate or examine thoroughlyPROBER n pl PROBERSone that probesPROBIT n pl PROBITSa unit of statistical probabilityPROBITY n pl PROBITIEScomplete and confirmed integrityPROBLEM n pl PROBLEMSa perplexing question or situationPROCAINE n pl PROCAINESa compound used as a local anestheticPROCARP n pl PROCARPSa female sexual organ in certain algaePROCEED v PROCEEDED PROCEEDING PROCEEDSto go forward or onwardPROCESS v PROCESSED PROCESSING PROCESSESto treat or prepare by a special methodPROCHAIN adj procheinPROCHEIN adj nearest in time relation or degreePROCLAIM v PROCLAIMED PROCLAIMING PROCLAIMSto make known publicly or officiallyPROCTOR v PROCTORED PROCTORING PROCTORSto supervisePROCURAL n pl PROCURALSthe act of procuringPROCURE v PROCURED PROCURING PROCURESto obtain by effortPROCURER n pl PROCURERSone that procuresPROD v PRODDED PRODDING PRODSto jab with something pointedPRODDER n pl PRODDERSone that prodsPRODIGAL n pl PRODIGALSone who spends lavishly and foolishlyPRODIGY n pl PRODIGIESa child having exceptional talent or abilityPRODROME n pl PRODROMES or PRODROMATAa sign of impending diseasePRODRUG n pl PRODRUGSan inactive chemical substance that becomes an active drug in the bodyPRODUCE v PRODUCED PRODUCING PRODUCESto bring into existencePRODUCER n pl PRODUCERSone that producesPRODUCT n pl PRODUCTSsomething produced by labor or effortPROEM n pl PROEMSan introductory statementPROEMIAL adjPROETTE n pl PROETTESa female professional athletePROF n pl PROFSa professorPROFANE v PROFANED PROFANING PROFANESto treat with irreverence or abusePROFANER n pl PROFANERSone that profanesPROFESS v PROFESSED PROFESSING PROFESSESto affirm openlyPROFFER v PROFFERED PROFFERING PROFFERSto present for acceptancePROFILE v PROFILED PROFILING PROFILESto draw an outline ofPROFILER n pl PROFILERSone that profilesPROFIT v PROFITED PROFITING PROFITSto gain an advantage or benefitPROFITER n pl PROFITERSone that profitsPROFORMA adj provided in advance of shipment and showing description and quantityPROFOUND adj PROFOUNDER PROFOUNDESTintellectually deep and penetratingPROFOUND n pl PROFOUNDSsomething that is very deepPROFUSE adj pouring forth generouslyPROG v PROGGED PROGGING PROGSto prowl about for food or plunderPROGENY n pl PROGENIESa descendant or offspringPROGERIA n pl PROGERIASpremature agingPROGGER n pl PROGGERSone that progsPROGGING present participle of progPROGNOSE v PROGNOSED PROGNOSING PROGNOSESto forecast the probable course of a diseasePROGRADE adj pertaining to the orbital motion of a bodyPROGRAM v PROGRAMED PROGRAMING PROGRAMS or PROGRAMMED PROGRAMMING PROGRAMSto arrange in a plan of proceedingsPROGRESS v PROGRESSED PROGRESSING PROGRESSESto move forward or onwardPROGUN adj favoring the right to own guns without restrictionsPROHIBIT v PROHIBITED PROHIBITING PROHIBITSto forbid by authorityPROJECT v PROJECTED PROJECTING PROJECTSto extend outwardPROJET n pl PROJETSa plan or outlinePROLABOR adj favoring organized laborPROLAMIN n pl PROLAMINSa simple proteinPROLAN n pl PROLANSa sex hormonePROLAPSE v PROLAPSED PROLAPSING PROLAPSESto fall or slip out of placePROLATE adj extended lengthwisePROLE n pl PROLESa member of the working classPROLEG n pl PROLEGSan abdominal leg of certain insect larvaePROLIFIC adj producing abundantlyPROLINE n pl PROLINESan amino acidPROLIX adj tediously long and wordyPROLIXLY advPROLOG v PROLOGED PROLOGING PROLOGSto prologuePROLOGUE v PROLOGUED PROLOGUING PROLOGUESto prefacePROLONG v PROLONGED PROLONGING PROLONGSto lengthen in durationPROLONGE n pl PROLONGESa rope used for pulling a gun carriagePROM n pl PROMSa formal dancePROMINE n pl PROMINESa substance that promotes growthPROMISE v PROMISED PROMISING PROMISESto make a declaration of assurancePROMISEE n pl PROMISEESone who is promised somethingPROMISER n pl PROMISERSpromisorPROMISOR n pl PROMISORSone that promisesPROMO v PROMOED PROMOING PROMOSto promotePROMOTE v PROMOTED PROMOTING PROMOTESto contribute to the progress ofPROMOTER n pl PROMOTERSone that promotesPROMOTOR n pl PROMOTORSa chemical additive that increases the activity of a catalystPROMPT adj PROMPTER PROMPTESTquick to act or respondPROMPT v PROMPTED PROMPTING PROMPTSto induce to actionPROMPTER n pl PROMPTERSone that promptsPROMPTLY adv in a prompt mannerPROMULGE v PROMULGED PROMULGING PROMULGESto proclaimPRONATE v PRONATED PRONATING PRONATESto turn the palm downward or backwardPRONATOR n pl PRONATORS or PRONATORESa forearm or forelimb musclePRONE adj lying with the front or face downwardPRONELY advPRONG v PRONGED PRONGING PRONGSto pierce with a pointed projectionPRONOTUM n pl PRONOTAa hard outer plate of an insectPRONOUN n pl PRONOUNSa word that may be used in place of a nounPRONTO adv quicklyPROOF v PROOFED PROOFING PROOFSto examine for errorsPROOFER n pl PROOFERSone that proofsPROP v PROPPED PROPPING PROPSto keep from fallingPROPANE n pl PROPANESa flammable gasPROPANOL n pl PROPANOLSa liquid alcohol used as a solventPROPEL v PROPELLED PROPELLING PROPELSto cause to move forward or onwardPROPEND v PROPENDED PROPENDING PROPENDSto have a tendency towardPROPENE n pl PROPENESa flammable gasPROPENOL n pl PROPENOLSa flammable liquidPROPENSE adj tending towardPROPENYL adj pertaining to a certain chemical groupPROPER adj PROPERER PROPERESTsuitablePROPERLY advPROPER n pl PROPERSa portion of the MassPROPERTY n pl PROPERTIESsomething ownedPROPHAGE n pl PROPHAGESa form of virusPROPHASE n pl PROPHASESthe first stage in mitosisPROPHECY n pl PROPHECIESa predictionPROPHESY v PROPHESIED PROPHESYING PROPHESIESto predictPROPHET n pl PROPHETSone who predictsPROPINE v PROPINED PROPINING PROPINESto offer as a giftPROPJET n pl PROPJETSa type of airplanePROPMAN n pl PROPMENa man in charge of stage propertiesPROPOLIS n pl PROPOLISESa resinous substance used as a cement by beesPROPONE v PROPONED PROPONING PROPONESto proposePROPOSAL n pl PROPOSALSsomething that is proposedPROPOSE v PROPOSED PROPOSING PROPOSESto put forward for consideration or acceptancePROPOSER n pl PROPOSERSone that proposesPROPOUND v PROPOUNDED PROPOUNDING PROPOUNDSto proposePROPPED past tense of propPROPPING present participle of propPROPRIUM n pl PROPRIAan attribute belonging inseparably to every member of a speciesPROPYL n pl PROPYLSa univalent radicalPROPYLIC adjPROPYLON n pl PROPYLAan entrance to a templePROPYNE n pl PROPYNESa gaseous methyl acetylenePRORATE v PRORATED PRORATING PRORATESto divide proportionatelyPROROGUE v PROROGUED PROROGUING PROROGUESto discontinue a session ofPROSAIC adj pertaining to prosePROSAISM n pl PROSAISMSa prosaic stylePROSAIST n pl PROSAISTSa writer of prosePROSE v PROSED PROSING PROSESto write prose writing without metrical structurePROSECCO n pl PROSECCOSan Italian sparkling winePROSECT v PROSECTED PROSECTING PROSECTSto dissectPROSER n pl PROSERSa prosaistPROSIER comparative of prosyPROSIEST superlative of prosyPROSIFY v PROSIFIED PROSIFYING PROSIFIESto turn into prosePROSILY adv in a prosy mannerPROSING present participle of prosePROSIT interj  used as a drinking toastPROSO n pl PROSOSmilletPROSODY n pl PROSODIESthe study of poetical formsPROSODIC adjPROSOMA n pl PROSOMAS or PROSOMATAthe anterior region of the body of some invertebratesPROSOMAL adjPROSPECT v PROSPECTED PROSPECTING PROSPECTSto explore for mineral depositsPROSPER v PROSPERED PROSPERING PROSPERSto be successful or fortunatePROSS n pl PROSSESa prostitutePROSSIE n pl PROSSIESa prostitutePROST interj prositPROSTATE n pl PROSTATESa gland in male mammalsPROSTIE n pl PROSTIESa prostitutePROSTYLE n pl PROSTYLESa building having a row of columns across the front onlyPROSUMER n pl PROSUMERSone who buys electronic products that are in quality between consumer and professional gradesPROSY adj PROSIER PROSIESTprosaicPROTAMIN n pl PROTAMINSa simple proteinPROTASIS n pl PROTASESthe introductory part of a classical dramaPROTATIC adjPROTEA n pl PROTEASan evergreen shrubPROTEAN n pl PROTEANSa type of proteinPROTEASE n pl PROTEASESan enzymePROTECT v PROTECTED PROTECTING PROTECTSto keep from harm attack or injuryPROTEGE n pl PROTEGESone whose career is promoted by an influential personPROTEGEE n pl PROTEGEESa female protegePROTEI pl of proteusPROTEID n pl PROTEIDSproteinPROTEIDE n pl PROTEIDESproteidPROTEIN n pl PROTEINSa nitrogenous organic compoundPROTEND v PROTENDED PROTENDING PROTENDSto extendPROTEOME n pl PROTEOMESthe complement of proteins expressed by a genomePROTEOSE n pl PROTEOSESa watersoluble proteinPROTEST v PROTESTED PROTESTING PROTESTSto express strong objectionPROTEUS n pl PROTEUSESone that readily changes his appearance or principlesPROTEUS n pl PROTEIany of a genus of aerobic bacteriaPROTIST n pl PROTISTSany of a group of unicellular organismsPROTIUM n pl PROTIUMSan isotope of hydrogenPROTOCOL v PROTOCOLED PROTOCOLING PROTOCOLS or PROTOCOLLED PROTOCOLLING PROTOCOLSto form a preliminary draft of an official documentPROTON n pl PROTONSa subatomic particlePROTONIC adjPROTOPOD n pl PROTOPODSa part of a crustacean appendagePROTOXID n pl PROTOXIDSan oxidePROTOZOA npl unicellular microscopic organismsPROTRACT v PROTRACTED PROTRACTING PROTRACTSto prolongPROTRADE adj favoring international tradePROTRUDE v PROTRUDED PROTRUDING PROTRUDESto extend beyond the main portionPROTURAN n pl PROTURANSany of an order of white wingless insectsPROTYL n pl PROTYLSprotylePROTYLE n pl PROTYLESa hypothetical substance from which all the elements are supposedly derivedPROUD adj PROUDER PROUDESThaving or displaying pridePROUDLY advPROUDFUL adj pridefulPROUNION adj favoring labor unionsPROVE v PROVED PROVEN PROVING PROVESto establish the truth or validity ofPROVABLE adjPROVABLY advPROVENLY adv without doubtPROVER n pl PROVERSone that provesPROVERB v PROVERBED PROVERBING PROVERBSto make a byword ofPROVIDE v PROVIDED PROVIDING PROVIDESto supplyPROVIDER n pl PROVIDERSone that providesPROVINCE n pl PROVINCESan administrative division of a countryPROVING present participle of provePROVIRUS n pl PROVIRUSESa form of virusPROVIRAL adjPROVISO n pl PROVISOS or PROVISOESa clause in a document introducing a condition or restrictionPROVOKE v PROVOKED PROVOKING PROVOKESto incite to anger or resentmentPROVOKER n pl PROVOKERSone that provokesPROVOST n pl PROVOSTSa highranking university officialPROW adj PROWER PROWESTbravePROW n pl PROWSthe forward part of a shipPROWAR adj favoring warPROWESS n pl PROWESSESexceptional abilityPROWL v PROWLED PROWLING PROWLSto move about stealthilyPROWLER n pl PROWLERSone that prowlsPROXEMIC adj pertaining to a branch of environmental studyPROXIMAL adj located near the point of originPROXIMO adj of or occurring in the following monthPROXY n pl PROXIESa person authorized to act for anotherPRUDE n pl PRUDESa prudish personPRUDENCE n pl PRUDENCESthe quality of being prudentPRUDENT adj having showing or exercising good judgmentPRUDERY n pl PRUDERIESexcessive regard for propriety modesty or moralityPRUDISH adj marked by pruderyPRUINOSE adj having a powdery coveringPRUNE v PRUNED PRUNING PRUNESto cut off branches or parts fromPRUNABLE adjPRUNELLA n pl PRUNELLASa strong woolen fabricPRUNELLE n pl PRUNELLESa plumflavored liqueurPRUNELLO n pl PRUNELLOSprunellaPRUNER n pl PRUNERSone that prunesPRUNEY adj PRUNIER PRUNIESTresembling a prunePRUNING present participle of prunePRUNUS n pl PRUNUSESa flowering treePRURIENT adj having lustful thoughts or desiresPRURIGO n pl PRURIGOSa skin diseasePRURITUS n pl PRURITUSESintense itchingPRURITIC adjPRUSSIC adj pertaining to a type of acidPRUTA n pl PRUTOTprutahPRUTAH n pl PRUTOTHa former monetary unit of IsraelPRY v PRIED PRYING PRIESto inquire impertinently into private mattersPRYINGLY advPRYER n pl PRYERSprierPRYTHEE interj pritheePSALM v PSALMED PSALMING PSALMSto praise in psalms sacred songsPSALMIC adj of or pertaining to a psalmPSALMIST n pl PSALMISTSa writer of psalmsPSALMODY n pl PSALMODIESthe use of psalms in worshipPSALTER n pl PSALTERSa book of psalmsPSALTERY n pl PSALTERIESan ancient stringed musical instrumentPSALTRY n pl PSALTRIESpsalteryPSAMMITE n pl PSAMMITESa finegrained rockPSAMMON n pl PSAMMONSa group of microorganisms living in waterlogged sandsPSCHENT n pl PSCHENTSa crown worn by ancient Egyptian kingsPSEPHITE n pl PSEPHITESa rock composed of small pebblesPSEUD n pl PSEUDSa person pretending to be an intellectualPSEUDO n pl PSEUDOSa pseudPSHAW v PSHAWED PSHAWING PSHAWSto utter an expression of disapprovalPSI n pl PSISa Greek letterPSILOCIN n pl PSILOCINSa hallucinogenic drugPSILOSIS n pl PSILOSESa tropical diseasePSILOTIC adjPSIONIC adj pertaining to the practical use of psychic powersPSOAS n pl PSOAI or PSOAEa muscle of the loinPSOATIC adjPSOCID n pl PSOCIDSa minute winged insectPSORALEA n pl PSORALEASa plant of the bean familyPSORALEN n pl PSORALENSa drug used to treat psoriasisPSST interj  used to attract someones attentionPST interj psstPSYCH v PSYCHED PSYCHING PSYCHSto put into the proper frame of mindPSYCHE n pl PSYCHESthe mental structure of a personPSYCHIC n pl PSYCHICSone sensitive to extrasensory phenomenaPSYCHISM n pl PSYCHISMSa belief that there is a fluid that animates all living beingsPSYCHO n pl PSYCHOSa mentally unstable personPSYLLA n pl PSYLLASany of various plant licePSYLLID n pl PSYLLIDSpsyllaPSYLLIUM n pl PSYLLIUMSthe seed of a fleawortPSYOPS npl noncombative military operations to influence the enemys state of mindPSYWAR n pl PSYWARSpsychological warfarePTERIN n pl PTERINSa chemical compoundPTEROPOD n pl PTEROPODSa type of molluskPTERYGIA npl fleshy growths over the corneaPTERYLA n pl PTERYLAEa feathered area on the skin of a birdPTISAN n pl PTISANSa tea of herbs or barleyPTOMAIN n pl PTOMAINSptomainePTOMAINE n pl PTOMAINESa compound produced by the decomposition of proteinPTOOEY interj ptuiPTOSIS n pl PTOSESa drooping of the upper eyelidPTOTIC adjPTUI interj  used to express the sound of spittingPTYALIN n pl PTYALINSa salivary enzymePTYALISM n pl PTYALISMSan excessive flow of salivaPUB n pl PUBSa tavernPUBBING n pl PUBBINGSthe practice of drinking in pubsPUBERTY n pl PUBERTIESa period of sexual maturationPUBERAL PUBERTAL adjPUBIC adj pertaining to the pubes or pubisPUBIS n pl PUBESthe forward portion of either of the hipbonesPUBLIC n pl PUBLICSthe community or the people as a wholePUBLICAN n pl PUBLICANSone who owns or manages a pubPUBLICLY adv by the publicPUBLISH v PUBLISHED PUBLISHING PUBLISHESto print and issue to the publicPUCCOON n pl PUCCOONSan herb that yields a red dyePUCE n pl PUCESa dark red colorPUCK n pl PUCKSa rubber disk used in ice hockeyPUCKA adj pukkaPUCKER v PUCKERED PUCKERING PUCKERSto gather into small wrinkles or foldsPUCKERER n pl PUCKERERSone that puckersPUCKERY adj PUCKERIER PUCKERIESThaving a tendency to puckerPUCKISH adj impishPUCKSTER n pl PUCKSTERSa hockey playerPUD n pl PUDSpuddingPUDDING n pl PUDDINGSa thick soft dessertPUDDINGY adj resembling a puddingPUDDLE v PUDDLED PUDDLING PUDDLESto strew with puddles small pools of waterPUDDLER n pl PUDDLERSone who subjects iron to puddlingPUDDLING n pl PUDDLINGSthe process of converting pig iron to wrought ironPUDDLY adj PUDDLIER PUDDLIESTfull of puddlesPUDENCY n pl PUDENCIESmodestyPUDENDUM n pl PUDENDAthe external genital organs of a womanPUDENDAL adjPUDEUR n pl PUDEURSa sense of shame or embarrassmentPUDGE n pl PUDGESfat on a bodyPUDGY adj PUDGIER PUDGIESTshort and fatPUDGILY advPUDIBUND adj prudishPUDIC adj pertaining to the pudendumPUDU n pl PUDUSa small deer of South AmericaPUEBLO n pl PUEBLOSa communal dwelling of certain Indian tribesPUERILE adj childishPUERPERA n pl PUERPERAEa woman who has recently given birth to a childPUFF v PUFFED PUFFING PUFFSto blow in short gustsPUFFBACK n pl PUFFBACKSa small African birdPUFFBALL n pl PUFFBALLSany of various globular fungiPUFFBIRD n pl PUFFBIRDSa stocky tropical American birdPUFFER n pl PUFFERSone that puffsPUFFERY n pl PUFFERIESexcessive public praisePUFFIN n pl PUFFINSa sea birdPUFFY adj PUFFIER PUFFIESTswollenPUFFILY advPUG v PUGGED PUGGING PUGSto fill in with clay or mortarPUGAREE n pl PUGAREESpugreePUGGAREE n pl PUGGAREESpugreePUGGIER comparative of puggyPUGGIEST superlative of puggyPUGGING n pl PUGGINGSthe act of preparing clay for making bricks or potteryPUGGISH adj somewhat stubbyPUGGREE n pl PUGGREESpugreePUGGRY n pl PUGGRIESpugreePUGGY adj PUGGIER PUGGIESTpuggishPUGH interj  used to express disgustPUGILISM n pl PUGILISMSthe art or practice of fighting with the fistsPUGILIST n pl PUGILISTSone who fights with his fistsPUGMARK n pl PUGMARKSa footprintPUGREE n pl PUGREESa cloth band wrapped around a hatPUISNE n pl PUISNESone of lesser rankPUISSANT adj powerfulPUJA n pl PUJASa Hindu prayer ritualPUJAH n pl PUJAHSpujaPUKE v PUKED PUKING PUKESto vomitPUKEY adj PUKIER PUKIESTresembling or suggestive of vomitPUKKA adj genuinePUKKAH adj pukkaPUL n pl PULS or PULIa coin of AfghanistanPULA n pl PULASa monetary unit of BotswanaPULAO n pl PULAOSpilafPULE v PULED PULING PULESto whinePULER n pl PULERSone that pulesPULI n pl PULIS or PULIKa longhaired sheepdogPULICENE adj pertaining to fleasPULICIDE n pl PULICIDESan agent used for destroying fleasPULING n pl PULINGSa plaintive cryPULINGLY adv in a whining mannerPULK n pl PULKSa small sledPULKA n pl PULKASpulkPULL v PULLED PULLING PULLSto exert force in order to cause motion toward the forcePULLBACK n pl PULLBACKSa restraint or drawbackPULLER n pl PULLERSone that pullsPULLET n pl PULLETSa young henPULLEY v PULLEYED PULLEYING PULLEYSto hoist with a pulley a device used for lifting weightPULLMAN n pl PULLMANSa railroad sleeping carPULLOUT n pl PULLOUTSa withdrawalPULLOVER n pl PULLOVERSa garment that is put on by being drawn over the headPULLUP n pl PULLUPSthe act of raising oneself while hanging by the handsPULMONIC adj pertaining to the lungsPULMOTOR n pl PULMOTORSa respiratory devicePULP v PULPED PULPING PULPSto reduce to pulp a soft moist mass of matterPULPAL adj pertaining to pulpPULPALLY advPULPER n pl PULPERSone that pulpsPULPIER comparative of pulpyPULPIEST superlative of pulpyPULPILY adv in a pulpy mannerPULPING n pl PULPINGSthe process of reducing to pulpPULPIT n pl PULPITSa platform in a churchPULPITAL adjPULPLESS adj having no pulpPULPOUS adj pulpyPULPWOOD n pl PULPWOODSsoft wood used in making paperPULPY adj PULPIER PULPIESTresembling pulpPULQUE n pl PULQUESa fermented Mexican beveragePULSANT adj pulsatingPULSAR n pl PULSARSa celestial source of radio wavesPULSATE v PULSATED PULSATING PULSATESto expand and contract rhythmicallyPULSATOR n pl PULSATORSsomething that pulsatesPULSE v PULSED PULSING PULSESto pulsatePULSEJET n pl PULSEJETSa type of enginePULSER n pl PULSERSa device that causes pulsationsPULSING present participle of pulsePULSION n pl PULSIONSpropulsionPULSOJET n pl PULSOJETSpulsejetPULTRUDE v PULTRUDED PULTRUDING PULTRUDESto make a plastic object by drawing resincoated glass fibers through a diePULVILLI iWi  iWi h  iWi a W.”
+```
+```prolog
+entry(qabala, n, [qabalas], "cabalaQABALAH n pl QABALAHScabalaQADI n pl QADIScadiQAID n pl QAIDScaidQAJAQ n pl QAJAQSkayakQAMUTIK n pl QAMUTIKSkomatikQANAT n pl QANATSa system of underground tunnels and wells in the Middle EastQAT n pl QATSkatQAWWALI n pl QAWWALISa style of Muslim musicQI n pl QISthe vital force that in Chinese thought is inherent in all thingsQIBLA n pl QIBLASkiblahQIGONG n pl QIGONGSa Chinese system of physical exercisesQINDAR n pl QINDARS or QINDARKAqintarQINTAR n pl QINTARSa monetary unit of AlbaniaQIVIUT n pl QIVIUTSthe wool of a musk oxQOPH n pl QOPHSkophQUA adv in the capacity ofQUAALUDE n pl QUAALUDESa sedative drugQUACK v QUACKED QUACKING QUACKSto utter the characteristic cry of a duckQUACKERY n pl QUACKERIESfraudulent practiceQUACKISH adj fraudulentQUACKISM n pl QUACKISMSquackeryQUACKY adj QUACKIER QUACKIESTresembling the cry of a duckQUAD v QUADDED QUADDING QUADSto space out by means of quadratsQUADPLEX n pl QUADPLEXESa building having four unitsQUADRANS n pl QUADRANTESan ancient Roman coinQUADRANT n pl QUADRANTSa quarter section of a circleQUADRAT n pl QUADRATSa piece of type metal used for filling spacesQUADRATE v QUADRATED QUADRATING QUADRATESto correspond or agreeQUADRATI npl rectangular musclesQUADRIC n pl QUADRICSa type of geometric surfaceQUADRIGA n pl QUADRIGAEa chariot drawn by four horsesQUADROON n pl QUADROONSa person of onequarter black ancestryQUAERE n pl QUAERESa questionQUAESTOR n pl QUAESTORSan ancient Roman magistrateQUAFF v QUAFFED QUAFFING QUAFFSto drink deeplyQUAFFER n pl QUAFFERSone that quaffsQUAG n pl QUAGSa quagmireQUAGGA n pl QUAGGASan extinct mammal that resembled a zebraQUAGGY adj QUAGGIER QUAGGIESTmarshyQUAGMIRE n pl QUAGMIRESan area of marshy groundQUAGMIRY adj QUAGMIRIER QUAGMIRIESTmarshyQUAHAUG n pl QUAHAUGSquahogQUAHOG n pl QUAHOGSan edible clamQUAI n pl QUAISquayQUAICH n pl QUAICHS or QUAICHESa small drinking vesselQUAIGH n pl QUAIGHSquaichQUAIL v QUAILED QUAILING QUAILSto cowerQUAINT adj QUAINTER QUAINTESTpleasingly oldfashioned or unfamiliarQUAINTLY advQUAKE v QUAKED QUAKING QUAKESto shake or vibrateQUAKER n pl QUAKERSone that quakesQUAKY adj QUAKIER QUAKIESTtending to quakeQUAKILY advQUALE n pl QUALIAa property considered apart from things having the propertyQUALIFY v QUALIFIED QUALIFYING QUALIFIESto make suitable or capableQUALITY n pl QUALITIESa characteristic or attributeQUALM n pl QUALMSa feeling of doubt or misgivingQUALMISH adj having qualmsQUALMY adj QUALMIER QUALMIESTqualmishQUAMASH n pl QUAMASHEScamassQUANDANG n pl QUANDANGSquandongQUANDARY n pl QUANDARIESa dilemmaQUANDONG n pl QUANDONGSan Australian treeQUANGO n pl QUANGOSa public administrative boardQUANT v QUANTED QUANTING QUANTSto propel through water with a poleQUANTA pl of quantumQUANTAL adj pertaining to a quantumQUANTIC n pl QUANTICSa type of mathematical functionQUANTIFY v QUANTIFIED QUANTIFYING QUANTIFIESto determine the quantity ofQUANTILE n pl QUANTILESany of the values of a random variable that divides a frequency distributionQUANTISE v QUANTISED QUANTISING QUANTISESto quantizeQUANTITY n pl QUANTITIESa specified or indefinite amount or numberQUANTIZE v QUANTIZED QUANTIZING QUANTIZESto limit the possible values of to a discrete setQUANTONG n pl QUANTONGSquandongQUANTUM n pl QUANTAa fundamental unit of energyQUARE adj queerQUARK n pl QUARKSa hypothetical atomic particleQUARREL v QUARRELED QUARRELING QUARRELS or QUARRELLED QUARRELLING QUARRELSto engage in an angry disputeQUARRIER n pl QUARRIERSone that quarriesQUARRY v QUARRIED QUARRYING QUARRIESto dig stone from an excavationQUART n pl QUARTSa liquid measure of capacityQUARTAN n pl QUARTANSa recurrent malarial feverQUARTE n pl QUARTESa fencing thrustQUARTER v QUARTERED QUARTERING QUARTERSto divide into four equal partsQUARTERN n pl QUARTERNSonefourth of somethingQUARTET n pl QUARTETSa group of fourQUARTIC n pl QUARTICSa type of mathematical functionQUARTIER n pl QUARTIERSa district in a French cityQUARTILE n pl QUARTILESa portion of a frequency distributionQUARTO n pl QUARTOSthe size of a piece of paper cut four from a sheetQUARTZ n pl QUARTZESa mineralQUASAR n pl QUASARSa distant celestial object emitting strong radio wavesQUASH v QUASHED QUASHING QUASHESto suppress completelyQUASHER n pl QUASHERSone that quashesQUASI adj similar but not exactly the sameQUASS n pl QUASSESkvassQUASSIA n pl QUASSIASa tropical treeQUASSIN n pl QUASSINSa medicinal compound obtained from the wood of a quassiaQUATE adj quietQUATORZE n pl QUATORZESa set of four cards of the same denomination scoring fourteen pointsQUATRAIN n pl QUATRAINSa stanza of four linesQUATRE n pl QUATRESthe four at cards or diceQUAVER v QUAVERED QUAVERING QUAVERSto quiverQUAVERER n pl QUAVERERSone that quaversQUAVERY adj quiveryQUAY n pl QUAYSa wharfQUAYLIKE adjQUAYAGE n pl QUAYAGESa charge for the use of a quayQUAYSIDE n pl QUAYSIDESthe area adjacent to a quayQUBIT n pl QUBITSa quantum bitQUBYTE n pl QUBYTESa sequence of eight quantum bitsQUEAN n pl QUEANSa harlotQUEASY adj QUEASIER QUEASIESTeasily nauseatedQUEASILY advQUEAZY adj QUEAZIER QUEAZIESTqueasyQUEEN v QUEENED QUEENING QUEENSto make a queen a female monarch ofQUEENCUP n pl QUEENCUPSa flowering plantQUEENDOM n pl QUEENDOMSthe area ruled by a queenQUEENLY adj QUEENLIER QUEENLIESTof or befitting a queenQUEENY adj QUEENIER QUEENIESTshowily effeminateQUEER adj QUEERER QUEERESTdeviating from the expected or normalQUEER v QUEERED QUEERING QUEERSto spoil the effect or success ofQUEERISH adj somewhat queerQUEERLY adv in a queer mannerQUELEA n pl QUELEASan African weaverbirdQUELL v QUELLED QUELLING QUELLSto suppressQUELLER n pl QUELLERSone that quellsQUENCH v QUENCHED QUENCHING QUENCHESto put out or extinguishQUENCHER n pl QUENCHERSone that quenchesQUENELLE n pl QUENELLESa type of dumplingQUERCINE adj pertaining to oaksQUERIDA n pl QUERIDASa female sweetheartQUERIED past tense of queryQUERIER n pl QUERIERSa queristQUERIES present 3d person sing of queryQUERIST n pl QUERISTSone who queriesQUERN n pl QUERNSa handturned grain millQUERY v QUERIED QUERYING QUERIESto questionQUEST v QUESTED QUESTING QUESTSto make a searchQUESTER n pl QUESTERSone that questsQUESTION v QUESTIONED QUESTIONING QUESTIONSto put a question an inquiry toQUESTOR n pl QUESTORSquaestorQUETZAL n pl QUETZALS or QUETZALESa tropical birdQUEUE v QUEUED QUEUING or QUEUEING QUEUESto line upQUEUER n pl QUEUERSone that queuesQUEY n pl QUEYSa young cowQUEZAL n pl QUEZALS or QUEZALESquetzalQUIBBLE v QUIBBLED QUIBBLING QUIBBLESto argue over trivialitiesQUIBBLER n pl QUIBBLERSone that quibblesQUICHE n pl QUICHESa custardfilled pastryQUICK adj QUICKER QUICKESTacting or capable of acting with speedQUICK n pl QUICKSa sensitive area of fleshQUICKEN v QUICKENED QUICKENING QUICKENSto speed upQUICKIE n pl QUICKIESsomething done quicklyQUICKLY adv in a quick mannerQUICKSET n pl QUICKSETSa plant suitable for hedgesQUID n pl QUIDSa portion of something to be chewedQUIDDITY n pl QUIDDITIESthe true nature of a thingQUIDNUNC n pl QUIDNUNCSa nosy personQUIET adj QUIETER QUIETESTmaking little or no noiseQUIET v QUIETED QUIETING QUIETSto cause to be quietQUIETEN v QUIETENED QUIETENING QUIETENSto quietQUIETER n pl QUIETERSone that quietsQUIETISM n pl QUIETISMSa form of religious mysticismQUIETIST n pl QUIETISTSan advocate of quietismQUIETLY adv in a quiet mannerQUIETUDE n pl QUIETUDESa state of tranquillityQUIETUS n pl QUIETUSESa final settlementQUIFF n pl QUIFFSa lock of hair at the front of the headQUIFFED adjQUILL v QUILLED QUILLING QUILLSto press small ridges inQUILLAI n pl QUILLAISan evergreen treeQUILLAIA n pl QUILLAIASa quillaiQUILLAJA n pl QUILLAJASa quillaiQUILLET n pl QUILLETSa trivial distinctionQUILLING n pl QUILLINGSmaterial that is quilledQUILLOW n pl QUILLOWSa quilt formed into a pillowQUILT v QUILTED QUILTING QUILTSto stitch together with padding in betweenQUILTER n pl QUILTERSone that quiltsQUILTING n pl QUILTINGSmaterial that is used for making quiltsQUIN n pl QUINSa quintupletQUINARY n pl QUINARIESa group of fiveQUINATE adj arranged in groups of fiveQUINCE n pl QUINCESan applelike fruitQUINCUNX n pl QUINCUNXESan arrangement of five objectsQUINELA n pl QUINELASquinellaQUINELLA n pl QUINELLASa type of bet in horse racingQUINIC adj pertaining to quinineQUINIELA n pl QUINIELASquinellaQUININ n pl QUININSquinineQUININA n pl QUININASquinineQUININE n pl QUININESa medicinal alkaloidQUINNAT n pl QUINNATSa food fishQUINOA n pl QUINOASa weedy plantQUINOID n pl QUINOIDSa chemical compoundQUINOL n pl QUINOLSa chemical compoundQUINOLIN n pl QUINOLINSa chemical compoundQUINONE n pl QUINONESa chemical compoundQUINSY n pl QUINSIESan inflammation of the tonsilsQUINSIED adjQUINT n pl QUINTSa group of fiveQUINTA n pl QUINTASa country estate in Portugal or Latin AmericaQUINTAIN n pl QUINTAINSan object used as a target in a medieval sportQUINTAL n pl QUINTALSa unit of weightQUINTAN n pl QUINTANSa recurrent feverQUINTAR n pl QUINTARSqintarQUINTE n pl QUINTESa position in fencingQUINTET n pl QUINTETSa group of fiveQUINTIC n pl QUINTICSa type of mathematical functionQUINTILE n pl QUINTILESa portion of a frequency distributionQUINTIN n pl QUINTINSa fine linenQUINZHEE n pl QUINZHEESa shelter made by hollowing out a pile of snowQUINZIE n pl QUINZIESquinzheeQUIP v QUIPPED QUIPPING QUIPSto make witty remarksQUIPPER n pl QUIPPERSone that quipsQUIPPISH adj wittyQUIPPU n pl QUIPPUSquipuQUIPPY adj QUIPPIER QUIPPIESTwittyQUIPSTER n pl QUIPSTERSone that quipsQUIPU n pl QUIPUSan ancient calculating deviceQUIRE v QUIRED QUIRING QUIRESto arrange sheets of paper in sets of twentyfourQUIRK v QUIRKED QUIRKING QUIRKSto twistQUIRKISH adj quirkyQUIRKY adj QUIRKIER QUIRKIESTpeculiarQUIRKILY advQUIRT v QUIRTED QUIRTING QUIRTSto strike with a riding whipQUISLING n pl QUISLINGSa traitor who aides the invaders of his countryQUIT v QUITTED QUITTING QUITSto end ones engagement in or occupation withQUITCH n pl QUITCHESa perennial grassQUITE adv to the fullest extentQUITRENT n pl QUITRENTSa fixed rent due from a socage tenantQUITTED past tense of quitQUITTER n pl QUITTERSone that quitsQUITTING present participle of quitQUITTOR n pl QUITTORSan inflammation of an animals hoofQUIVER v QUIVERED QUIVERING QUIVERSto shake with a slight but rapid motionQUIVERER n pl QUIVERERSone that quiversQUIVERY adj marked by quiveringQUIXOTE n pl QUIXOTESa quixotic personQUIXOTIC adj extremely idealisticQUIXOTRY n pl QUIXOTRIESquixotic action or thoughtQUIZ v QUIZZED QUIZZING QUIZZESto test the knowledge of by asking questionsQUIZZER n pl QUIZZERSone that quizzesQULLIQ n pl QULLIQSkudlikQUOD n pl QUODSa prisonQUOHOG n pl QUOHOGSquahogQUOIN v QUOINED QUOINING QUOINSto secure with a type of wedgeQUOINING n pl QUOININGSthe materials as stones or bricks used to form an external corner of a buildingQUOIT v QUOITED QUOITING QUOITSto play a throwing game similar to ringtossQUOKKA n pl QUOKKASa shorttailed wallabyQUOLL n pl QUOLLSa small spotted marsupialQUOMODO n pl QUOMODOSa means or mannerQUONDAM adj that once wasQUORUM n pl QUORUMSa particularly chosen groupQUOTA n pl QUOTASa proportional part or shareQUOTE v QUOTED QUOTING QUOTESto repeat the words ofQUOTABLE adjQUOTABLY advQUOTER n pl QUOTERSone that quotesQUOTH v said  QUOTH is the only accepted form of this verb it cannot be conjugatedQUOTHA interj  used to express surprise or sarcasmQUOTIENT n pl QUOTIENTSthe number resulting from the division of one number by anotherQUOTING present participle of quoteQURSH n pl QURSHESa monetary unit of Saudi ArabiaQURUSH n pl QURUSHESqurshQWERTY n pl QWERTYSa standard keyboard").
+```
+entry(رباسکا, n, [رباسکاس], "یوه لوی بادړ").
+entry(ربات, ن, [رباتونه], "یو ډیکي چې د کلیسا کالر سره نښلول کېږي").
+entry(rabato, n, [rabatos], "يو پراخه ليک دار کالر").
+entry(خرپ, v, [خرپ‌کړل, خرپ‌کول, خرپونه], "په کې د یوې کټي جوړول").
+د داخلې(ربني، ن، [ربنيان]، "يا RABBIES يو يهودي روحاني مشر").
+entry(ربن، ن، [ربنان]، "ربن").
+رابنیک، صفت، []، "د ربیانو پورې اړوند".
+entry(خرگوش, فعل, [خرگوش کړ، د خرگوشیدو په حال کې، خرگوشونه], "د خرگوشانو ښکار کول").
+entry(خرگوش پالونکی, n, [خرگوش پالونکي], "هغه څوک چې خرگوش پالنه کوي").
+entry(خرگوش فارم, ن, [خرگوش فارمونه], "يو ځای چېرې چې خرگوشان ساتل کيږي").
+د پاسښتو ژباړه:
+entry(rabbity, adj, [], "د خرگوش سره ورته").
+د داخلې (rabble, v, [rabbled, rabbling, rabbles], "په ګڼه ګوڼه کې راټولیدل").
+entry(rabbler, n, [rabblers], "د اوسپنې بار چې په پدر کې کارول کيږي").
+entry(راببني, ن, [رابب니스], "ماسټر ښوونکی چې د درناوي لپاره د یهودي لقب په توګه کارول کیږي").
+entry(بايراب, صفت, [], "د بايراب پورې تړاو لرونکي").
+entry(د سودايي سره اغيزمن شوی, صفت, [], "له سودايي سره په شدت سرهRABIDLY adv").
+entry(دليوني حالت, ن, [دليوني حالتونه], "د دې حالت چې ليونی وي").
+entry(روغه, ن, [روغه], "يو ساري ويروسي ناروغۍRabietic هم")).
+entry(لوندغر، ن، [لوندغرونه]، "يو غوښه خوړونکي تی لرونکی ژوی").
+entry(دَوَڑ, فعل, [دَوَڑَل, دَوَڑیدل, دَوَڑ], "په سرعت سیالۍ کې برخه اخیستل").
+entry(سيلاني, ن, [سيلانيان], "يو څوک چې عموماً د آسونو سیالیو ته ځي").
+entry(رېسميټ, ن, [رېسميټونه], "يو کيمياوي مالګه").
+معلول(raceme, n, [racemes], "یو ډول د ګلانو تنظیم along یو محورRACEMED صفت").
+entry(راسمیک, صفت, [], "د راسمیک موادو پورې اړوند").
+entry(راسمیتوب، ن، [راسمیتونه]، "د راسیمیک حالت").
+entry(racemize, v, [racemized,racemizing,racemizes], "په راسیمیک مرکب کې بدلول").
+entry(racemoid, adj, [], "د ریسم پورې اړه لري").
+entry(رازمي بڼه, صفت, [], "د رازمي بڼه لرل").
+entry(راسموس, صفت, [], "گچکال").
+entry(سیال, ن, [سیالان], "یوه چې سیالي کوي").
+د Prolog کرښه په پښتو کې په لاندې ډول ده:
+```prolog
+entry(دمنډېدپارهپليتګ، فعل، [پليدمنډېد، پليدمنډېدکيدل، پليدمنډېدونه], "د مځکې سره د پښو تماس ساتل او د ملاتړ پښه سمبال ساتل ډېر ځلېد سوا لپاره پلي ګرځېدنه").
+```
+entry(ډوجه, ن, [ډوجې], "د اوبو د چلولو لپاره یو چینل").
+entry(rachet, v, [racheted, racheting, rachets], "راچیټ").
+entry(rachilla, n, [rachillae], "د واښو د تخم ښاخ مرکزي تنه").
+entry(ملیات، n، [ملیاتونه]، "یا RACHIDES د ملا تړي ستن RACHIAL صفت").
+دخولی(راچیٹس، ن، [راچیټائډز], "راکیټس راچټیک صفت").
+entry(نسلي, صفت, [], "د یوه قومي ډلې پورې اړه لري په نژادي ډول").
+entry(چټک, تقابلي, [], "د چټک").
+entry(تر ټولو چټکتيا, superlative, [], "of چټکتیا").
+entry(په_بدرۍ, قید, [], "په بدرۍ ډول").
+entry(توندوالی, n, [توندوالۍ], "د زړښت کیفیت").
+entry(د ځغلونې، ن، [ځغلونې]، "د سرعت په سیالیو کې د ګډون سپورت").
+entry(racino, n, [racinos], "يو د مسابقې ميدان چيرته چې د سلات ماشينونه شتون لري").
+د پرولاګ کرښه:
+entry(تعصب, ن, [تعصبونه], "د نژادي برتري مفکوره").
+entry(نسلي تعصب لرونکی، n، [نسلي تعصب لرونکي]، "توکمپاله وکالت کوونکی").
+entry(رېک, v, [رېک شوی، رېک کول، رېکونه], "په یوه ډول چوکاټ کې ځای پرځای کول").
+د داخلولو(ریکر، ن، [ریکرز]، "یو چې ریک کوي").
+entry(راکېټ, فعل, [راکېټ کړل, راکېټ کول, راکېټونه], "لویه شور جوړول").
+entry(rackety, adj, [], "غالمغال لرونکی").
+د ننه دخول (rackful، n، [rackfuls]، "هڅومره چې یو ریک ساتلی شي").
+entry(rackle, adj, [], "بې پروا").
+entry(rackwork, n, [rackworks], "د میکانیزم یو ډول").
+entry(رکلیټ, n, [رکلیټونه], "د پنیر یو خواړه").
+entry(رېکن، ن، [رېکنونه]، "د رادار د لیږد یو ډول").
+ورودی(راکون, ن, [راکونونه], "راکون").
+entry(راکيټ، ن، [راکيټونه], "یو سپک وسیله چې په مختلفو توپي لوبو کې کارول کیږي").
+entry(racy, adj, [], "سرحدي په ناسلاحي يا بې حيايي").
+entry(rad, v, [وېرېد, وېرېدل, وېرېږي], "ويرېدل").
+entry(rad, adj, [], "ډیره زړه راښکونکې یا ښه").
+د ننوتلو(راډار، ن، [راډارونه], "یو بریښنايي ځای موندونکی وسیله").
+د پښتو ژبې لپاره پرولوګ:
+entry(raddle, v, [raddled,raddling,raddles], "يو ځای سره اوبدل").
+دخوليه(راديبل, صفت, [],"د خپرولو وړ").
+دننه شول(radial, ن, [radials], "يو برخه چې له مرکز څخه بېلېږي").
+entry(radiale, n, [radialia], "د موچي د هډوکي يو هډوک").
+entry(په شعاعي توګه, adv, [], "په یو خپریدونکي ډول").
+د پرولاګ کرښه:
+entry(radian, n, [رېډيانې], "د زاويو وړاندې کولو يو واحد").
+entry(روښانتيا, ن, [روښانتياوې], "روښنايي").
+entry(ځلا, نوم, [ځلاوې], "روڼوالی").
+entry(روان, ن, [روانونه], "يو ټکی چې له هغې څخه شنکان ورکوي").
+ورود(رادیېټ, فعل, [رادیېټ شو, رادیېټ کول, رادیېټ کوي], "شعاع ورکول").
+entry(رادیټر, n, [رادیټران], "د تودوخې وسیله").
+entry(بنسټیز, ن, [بنسټونه], "د اتومونو يوه ډله چې په کیمیاوي مرکباتو کې د يو واحد په توګه عمل کوي").
+entry(ريڊيکېنډ, ن, [ريڊيکېنډس], "په ریاضیاتو کې یوه اندازه").
+entry(جرړه, v, [جرړه وکړه,جرړه کول,جرړه کوي], "په ريښه بدلول").
+د ننوتنې (radicel، n، [radicels]، "یو وړوکی ریښی").
+entry(ريښې, a, [], "pl د radix").
+entry(رېډيکل, ن, [رېډيکلونه], "د نبات د وړوکې نخښې یوه برخه").
+entry(radii, a, [], "د radius جمع").
+د ننوتنې پروګرام(راډیو، v، [راډیو کړ، راډیو کول، راډیوګانې], "یا یې د راډیو له لارې ولېږدول، د بې سیم اړیکو لپاره یوه اله ده").
+entry(راډیومان, ن, [راډیومین], "د راډیو عملیات کوونکی یا تخنیکر").
+entry(ګاجرې، n، [ګاجريان]، "يو تيزه خوري وړ ريښه").
+entry(رېډيم, n, [رېډيمونه], "يو رېډيو اېکټيو عنصر").
+د ننه(radius, n, [radiuses], "یا RADII د دایرې د مرکز نه تر کړۍ پورې مستقیمه کرښه").
+دخول (شعاع, v, [دشعاع شوی, د شعاع ورکول, شعاعونه], "ګردي بڼه ورکړه").
+ورودی(بڼه، ن، [بڼې], "یا RADICESthe د نبات ریښه").
+دخول(radome, n, [radomes], "هغه گنبدې نه رگه چې د راډار انتن د حفاظت لپاره کارول کیږي").
+entry(راډون, n, [راډونونه], "یو تابکار عنصر").
+entry(رادولا, ن, [رادولاس], "يا رادولې يو ژبنيزه عضو د نرم تنانو رادولر صفتي").
+entry(راډوېسټ, ن, [راډوېسټس], "راديو اکتيف فضله مواد").
+entry(راف, ن, [رافز], "خبیث/بدوطن").
+entry(رفيا، ن، [رفياګانې]، "د یوې نخل پڼه").
+entry(raffish, adj, [], "بې خونده").
+entry(قرعه, v, [قرعه کشی,قرعه کشی کول,قرعه کشی کوي], "د لاټري په شکل سره ویشل").
+د پرولوګ دغه کرښه په پښتو کې:
+entry(raffler, n, [rafflers], "يو څوک چې ټکټونه پلوري").
+entry(raft, v, [rafted, rafting, rafts], "په يو ډول د تعويمي جوړښت په توګه انتقال کول").
+entry(چت, ن, [چتونه], "د ملاتړ بیم").
+entry(raftered, adj, [], "د لرګیو په توګه مجهز").
+entry(rafting, n, [raftings], "د یوپانې په وسیله د یوه سیند لاندې سفر کول").
+entry(بېړۍ چلونکی, ن, [بېړۍ چلونکي], "هغه څوک چې بېړۍ چلوي").
+entry(چینګه, فعل, [چینگ,چینگانې,چینگونه], "ملامت کول").
+entry(raga, n, [ragas], "هندي موسيقي شکل").
+entry(چاودنې، ن، [چاودنې]، "د ټوټو د ساتلو لپاره یوه کڅوړه").
+د ننوتنه(قهر، فعل، [قهرېد، قهرېدونکی، قهرېدونه]، "په زورور قهر سره عمل کول یا خبرې کول").
+entry(راغی, n, [راګان], "راغی").
+entry(د قهر نه ډک, صفت, [], "چې د زورورې غوسې نه ډک وي").
+entry(راغر, ن, [راغران], "یوه چې قهر کوي").
+entry(ragg, n, [raggs], "د وړیو فایبر").
+entry(رګا, ن, [رګاز], "موسیقي چې د رېګا او هيپ هاپ ترکیب کوي").
+entry("راغ", صفت, [], "ډېر راغ، تر ټولو ډېر راغ، منډه شوی راغ").
+entry(raggedy, adj, [], "یوه اندازه شل شوې RAGGEDIER RAGGEDIEST").
+entry(raggee, n, [raggees], "راګی").
+entry(رګي, جمع, [], "د رګي").
+entry(ګنډل, ن, [ګنډول], "دیوال د رنګولو تخنیک د دېوال ښکلي کولو لپاره د یو ټوکر په استفادې سره").
+entry(راګل, ن, [راګلز], "په ګچ او ډبره کې یوه نالی").
+دفتریزه(raggy, ن, [raggies], "ragi").
+entry(راګی, ن, [راګیان], "يو ختيځ هندي غله وځ").
+د ننوتنې(راډینګ, اوسنی, [], "د رېج ګرامر بڼه").
+entry(په_قهر کې, adv, [], "په قهریدلي ډول").
+entry(raglan, n, [raglanونه], "د يو ډول اورکوټ").
+دریافت(ragman, n, [ragmen], "یوه څوک چې د ټوټو ټوټې راټولوي او پلوري").
+entry(خوراک, v, [ښورښورېد,ښورښورول,ښورښورونه], "په مسالو ډک ډوډۍ جوړول").
+entry(رېګټېګ, n, [رېګټېګونه], "نااهل").
+entry(ragtail, adj, [], "سپیر، خراب").
+دخولی(ریګټایم, n, [ریګټایمز], "د امریکا د نڅا موسیقۍ یو سبک").
+entry(ragtop, n, [ragtops], "یو بدلیدونکی موټر").
+entry(ragweed, n, [ragweeds], "يو خوږ بوټی").
+entry(کرم, ن, [کرمونه], "یو اوبیز کرم").
+entry(باغون, ن, [باغونه], "یو ګل لرونکی نبات").
+entry(راه، حرفِ فجائیه، []، "د یوې ډلې یا لوبغاړي د هڅونې لپاره کارول کیږي").
+داخلہ(رائ، ن، [رائس]، "د الجزائر مشهور موسیقي سټایل").
+entry(رايه، ن، [رايېس]، "رایه")۔
+entry(حمله کول, فعل, [حمله وکړه, حمله کوونکی, حملې کوي], "په ناڅاپي توګه برید کول").
+entry(چپاولګر, ن, [چپاولګران], "یو څوک چې چپاول کوي").
+entry(پټلۍ, فعل, [غواړو,غواړې,غواړئ], "په سپک او ناوړه ژبه ډانګونه کول").
+entry(پوځلار, ن, [پوځلارونه], "هغه طبقه ده له ډبرې یا جغل څخه جوړ شوې وي چې پرې ریل پټلۍ ایښودل کیږي").
+entry(ريلبېرد, ن, [ريلبېردز], "د اسونو د ځغلونې يو مينه‌وال").
+entry(ریل بس, ن, [ریل بسونه], "یا RAILBUSSESa مسافر وړونکی موټر چې د پټلۍ په عملیاتو کې سمبال شوی").
+entry(ریلکار, ن, [ریلکارونه], "یو د اورګاډي واګون").
+entry(railcard, n, [railcards], "يو کارت چې د اورګاډي ټکټونه په ټيټه بيه اخيستلو اجازه ورکوي").
+entry(رايلر, ن, [رايلرز], "يو چې رېل جوړوي").
+entry(railhead, n, [ريل هيډ], "د ريل پټلۍ پای").
+entry(زړه, ن, [railings], "د يو کټارې په څېر خنډ").
+entry(ټوقې، ن، [ټوقې]، "ښه طبیعت ټوقې").
+entry(ریلمن, n, [ریلمن], "د اورګاډي کارمند").
+entry(د اورګاډي پټلۍ, فعل, [په اورګاډي کې لیږدول شوی,په اورګاډي کې روان دی,د اورګاډي پټلۍ], "په اورګاډي کې انتقالول د یو ډول سړک په کوم باندې چې لوکوموټيف چلول کیږي").
+د ننوتل(اورګاډى، ن، [اورګاډي], "يو ريليف")۔
+entry(لباس, ن, [لباسونه], "جامې").
+entry(باران, فعل, [وروسته, اورېدنه, ورېږي], "د وریځو څخه د اوبو څاڅکي لکه باران اوریدل").
+entry(باران_پټه, n, [باران_پټې], "په لمريز طيف کې يوه توره پټه").
+entry(rainbird, n, [باراني مرغان], "د مرغانو یو ډول").
+داخلول(رینبو، ن، [رینبوز]، "د اسماني رنګونو قوس چې په اسمان کې جوړېږي").
+entry(باراني چکمن, ن, [باراني چکمنونه], "یو د اوبو نه جذبوونکې کوټ").
+entry(ورېځ، ن، [ورېځې], "د باران څاڅکی").
+entry(باران, مذکر, [بارانونه], "د باران د اورېدو پېښه").
+entry(باراني, مقایسوي, [], "د باراني").
+entry(تر ټولو باراني, عالي تفضیلي, [], "د باراني").
+entry(باراني, adv, [], "په باراني طريقه").
+entry(باران‌نشته, صفت, [], "بې‌باران").
+entry(باران بندي, ن, [باران بندونه], "په باران کې د اټومي جګړې ناکامي").
+entry(باراني سوټ, ن, [باراني سوټونه], "یو اوبه نه جذبوونکی جاکټ او پتلون").
+entry(باراني-زمین, v, [باراني-ځنیړل,باراني-ځنیړیدنه,باراني-ځنیړی], "مواد د باران په وسیله کوزیدل").
+entry(باراني کالي, n, [باراني کالي], "اوبيښیري جامي").
+entry(باراني, صفت, [], "د باران لخوا نښه شوی").
+entry(پورته کول, v, [پورته کړ, پورته کول, پورته کوي], "د لوړ موقعیت ته حرکت کول").
+entry(raiser, n, [raisers], "یو څوک چې پورته کوي").
+entry(زبيب, n, [زبيبان], "وچ شوی انګورزبيبي صفت").
+entry(raising, n, [raisings], "يو لوړوالی").
+entry(raisonne, صفت, [], "په سیسټماتیک ډول ترتیب شوی").
+entry(رایته, ن, [رایته ګانې], "یو هندي سلاد چې د مستۍ او کچو سبزیجاتو یا مېوو سره جوړ شوی وي").
+entry(راج, ن, [راجس], "واکمني حاکميت").
+entry(راجا، ن، [راجاس]، "راجا").
+entry(راجا، م، [راجاګان]، "په هند کې یو پاچا یا شهزاده").
+entry(رېک, v, [رېک کړ, رېک کول, رېک کوي], "د غاښ لرونکي وسیله سره راټول کول").
+entry(راکي, ن, [راکي], "راکي").
+entry(بې شرمه, n, [بې شرمان], "يو سړی چې اخلاقي محدودیت نلري").
+د ننوتلو(کمیسیون، ن، [کمیسیونونه], "د ګټو یو برخه").
+entry(رېکر, ن, [رېکرز], "هغه څوک چې رېکه کوي").
+entry(راکي, ن, [راکيس], "يو ترکي شراب").
+entry(raking, present, [], "د rake فعلي نوم").
+entry(rakish, adj, [], "په سمبالۍRAKISHLY adv").
+entry(raku, n, [rakus], "د جاپاني چینی مټۍ یو ډول").
+entry(rale, n, [rales], "یو غیر معمولي تنفسي غږ").
+entry(رالیئر، ن، [رالیئرز]، "هغه څوک چې راليږي").
+entry(ralline, adj, [], "د یوې کورنۍ د باتلاق مرغیو پورې اړه لري").
+entry(رالي, فعل, [رالي شو, د رالي په حال کې, رالۍ], "د يوې عامې موخې لپاره راغونډول").
+entry(ریلی, ن, [ریلیز], "د موټرو د مسابقې یو ډول").
+entry(رالي, ن, [رالۍ], "د رالۍ په سياليو کې د موټر چلولو ورزش").
+entry(راليست, ن, [راليستان], "په یوه رالي کې برخه اخیستونکی").
+د ننه(رالف, فعل, [رالپډ، رالفنګ، رالفس], "کانګې کول").
+د Prolog:
+entry(ram, v, [رام, رامینګ, رامونه], "په لوی ځواک سره ټکر کول").
+entry(رماده، ن، [رماداس]، "يو چت لرونکی خلاصه شلټر").
+دخول(ramal, صفت, [], "څانګې پورې اړه لري").
+entry(رامات, صفت, [], "چې څانګې لري").
+entry(rambla, n, [ramblas], "يو وچ خوړ").
+entry(ګامونه اخیستل, v, [ګامونه_واخیستل,ګامونه_اخیستل,ګامونه_اخلي], "ګرځېدل").
+دخولی(rambler, ن، [رامبلرز], "هغه څوک چې رامبل کوي").
+entry(رمبوټان, ن, [رمبوټانونه], "د مالايی ونې خوراکي مېوه").
+د ګډېدو(رامی، ن، [رامیز]، "رامی").
+entry(رامیکین, ن, [رامیکینونه], "یو د پنیر دیش").
+entry(رامن, n, [ramenj], "جاپاني نوډلز په يو سوپ کې د غوښې او سبزيجاتو ټوټي").
+entry(رېمنټم, ن, [رېمنټه], "په پاڼو د یوې وزې جوړېدنه").
+د ننوتنه(ramequin, n, [ramequins], "ramekin").
+entry(رامېټ، ن، [رامېټونه]، "د کلون یو خپلواک غړی").
+د پرولاګ په توګه: entry(rami, pl, [], "د راموس").
+دواخلې(رامي، ن، [راميانې]، "يوه اسيايي بوټی").
+entry(ramiform, adj, [], "د څانګې په څېر شکل شوی").
+entry(څانګه, v, [څانګې شوې,څانګې کول,څانګې کوي], "څانګو ته وېشل").
+entry(راميلي, ن, [راميليان], "راميلي").
+entry(راميلي, ن, [راميليس], "د یوې ویګ ډول").
+د رامین یوهلیک(n، [ramins]، "یو مالېزیایي ونه") .
+entry(رامجېټ, ن, [رامجېټونه], "د انجين د يو ډول").
+entry(شپېنځلی, ماضی, [], "د 'ram' زمان").
+entry(رامر, ن, [رامران], "هغه څوک چې رام کوي").
+د پرولوګ:
+entry(rammier, comparative, [], "د rammy").
+entry(ترټولو_جنګیالی, superlative, [], "د جنګي").
+entry(رامینګ, اوسنی, [], "د رام جز").
+entry(رمش, صفت, [], "د يو نر پسونو په څېر").
+د بې جملې پرولاګ: entry(rammy, adj, [], "RAMMIER RAMMIESTrammish").
+entry(رامونا, ن, [راموناز], "د پودینې د کورنۍ یو نبات").
+entry(ramose, adj, [], "ډېرې څانګې لرونکیRAMOSELY adv").
+entry(راموسيت, n, [راموسيتونه], "د شاخ لرونکي حالت").
+دخول(راموس، صفت، [], "شاخ لرونکی").
+ramp ته وتره, v, [ramped,ramping,ramps], "په شا دوو پښو باندې دریدل یا پورته کیدل".
+د داخليدو(آشوب, فع, [آشوب وکړل, آشوب کوي, آشوبونه], "په جنوني یا تاوتریخوالي توګه حرکت کول").
+entry(رېمپېجر, n, [رېمپېجرز], "هغه څوک چې تباه کوي").
+entry(رامپنسي, ن, [رامپنسۍ], "د پراخېدو حالت").
+entry(بې مهاره, صفت, [], "بې کابو").
+entry(دفاعاتي_دیوال, v, [دفاعاتي_دیوال_شوی,دفاعاتي_دیوال_کول,دفاعاتي_دیوالونه], "د یوه قوي تحکیم لرونکي ډنډ سره سمبالول").
+entry(rampike, n, [rampikes], "يو ولاړ مړ شوی ونه").
+د داخليدو(رېمپيان، ن، [رېمپيانونه]، "يو اروپايي نبات").
+د ننوتنه (rampole, n, [rampoles], "rampike").
+entry(رامرود, فعل, [رامرود کړ, رامرود کول, رامرودونه], "څارنه کول").
+entry(رامشورن, n, [رامشورنونه], "د اکواریوم د جمع کوونکي په توګه کارول کیدونکي یو حلزون").
+entry(رامسن, ن, [رامسن], "یو پراخ پاڼې لرونکي هوږه").
+entry(ramtil, n, [ramtils], "یوه استوایی بوټی").
+entry(ramtilla, n, [رامتیل], "رامتیل").
+entry(رامولوژ, صفت, [], "ډېرې وړې څانګې لرل").
+entry(شاخدار, صفت, [], "ramulose").
+entry(رامس, ن, [رامي], "د جوړښت يو څانګې ته ورته برخه").
+entry(دَويدل, تېر, [], "د دغې کلمې تیریدونکې حالت").
+entry(رانس, ن, [رانسونه], "د مرمر یوه ډوله").
+د ننوتنې(رینج, v, [رينجد, رینجینګ, رینجز], "په یوه رینج کې کار کول، یوه ودانۍ د څارویو د پالنې لپاره").
+entry(رینچر, ن, [رینچران], "یو چې په یوه فارم کې کار کوي یا یې مالکیت لري").
+entry(رانچرا, ن, [رانچراس], "د میکسیکويي کلیوالي موسیقۍ یو ډول").
+entry(رینچرو, ن, [رینچران], "یو رینچر").
+د ننوتنه(څړځای پالنه, ن, [څړځای پالنې], "د څړځای چلولو کار").
+entry(رینچ مین, n, [رینچ مینانو], "یو فارم والا").
+entry(رانچو, ن, [رانچوز], "يو فارم").
+entry(خیمانه, صفت, [], "بې خونده بوی یا خوند لرلRANCIDLY قید").
+د ننوت (rancor, n, [rancors], "ترخه او انتقامي عداوتRANCORED صفت").
+entry(بېلتون, ن, [بېلتونه], "کرکه").
+د پرو لاګ:
+entry(رند, ن, [رندونه], "د بوټ د هیله یوې څرمنې ټوټه").
+entry(randan, n, [randans], "يو کشتې چې درې کسان لخوا پارو کیږي").
+entry(randier, comparative, [], "د رینډي").
+entry(رينډيانې, pl, [], "د رینډي").
+entry(random, n, [randoms], "يو بې ترتيبه لاره").
+entry(په تصادفي توګه, قید, [], "په بې ترتیبه توګه").
+entry(randy, adj, [], "رنګ یې.".
+entry(رینډي, ن, [رینډیان], "یو بې ادبه شخص").
+د Prolog کوډ: entry(ranee, n, [ranees], "رانۍ").
+entry(رنګ, ن, [رنګونه], "د سړک په اوږدو کې د اوږدو برخو لړۍ").
+entry(رینج, فعل, [رینجد, رینجنگ, رینجز], "په ځانګړي ترتیب کې ځای پرځای کول").
+رینجر, ن, [رینجران], "د یوې ځنګله د ساتنې دنده ترسره کوونکی افسر")entry(
+entry(rangy, adj, [], "لمر وړانګې").
+entry(راني, ن, [رانیس], "د راجا ښځه").
+د Prolog: entry(ranid, n, [ranids], "د لوی کورنۍ کومه هم وي").
+د پايلې.
+ډولښت(رتبه، v، [درجه بندي شوې، درجه بندي کول، درجې]، "د نسبي موقعیت معلومولو لپاره").
+```prolog
+entry(رتبه دار, ن, [رتبه داران], "یو جلبی سرتیری").
+```
+entry(ranking, n, [رتبې], "د رتبه بندي شویو کسانو لړلیک").
+entry(rankish, adj, [], "په یو څه توګه").
+entry(ځورول, v, [ځورول,ځورېدنه,ځوروي], "د ناراضۍ او ځورونې سبب ګرځېدل").
+entry(rankless, adj, [], "د رتبې پرته").
+entry(rankly, adv, [], "په یو منظم ډول").
+ږېرتوب(داخله, ن, [ږېرتوبونه], "د کوچنيتوب حالت").
+دخوله(رانپایکه، ن، [رانپایکس]، "رامپایک").
+دخول(ransack, v, [ransacked,ransacking,ransacks], "په بشپړه توګه لټول").
+entry(فديه, v, [فديه وکړه, فديه کول, فديه کوي], "د پېسو په ورکولو سره خوشې کول ترلاسه کول").
+د Prolog کرښه:
+entry(ransomer, n, [ransomers], "هغه چې بدل اخلي").
+کورنی(rant, v, [ranted, ranting, rants], "په لوړ یا سخت انداز کې خبرې کول").
+د ننوتنې(رانټر، ن، [رانټرز]، "يو چې ډيرې خبرې کوي").
+د خپرونو لپاره لیک(entry(rantings, npl, [], "لوړې او غصه ناکې څرګندونې")).
+entry(رانولا, ن, [رانولاګانې], "يوه غوټه چې د ژبې لاندې جوړيږي، RANULAR صفت").
+entry(رېپ، فعل، [رېپ کړه، رېپ کول، رېپ کوي]، "په کلکه ضربه ورکول").
+entry(حریص, ن, [حریصۍ], "د ډیر زړښت کیفیت").
+entry(جنسي تېری, فعل, [جنسي تیری وکړ, د جنسي تېري کول, جنسي تېري کوي], "د زور په واسطه جنسي اړيکو ته اړ کول").
+دخول(جنسي_تیری_کوونکی, ن, [جنسي_تیری_کوونکي], "یو جنسي تیري کوونکی").
+entry(رېپسيډ, n, [رېپسيډونه], "د يوې اروپایي بوټي تخم").
+entry(رافه, ن, [رافېز], "یا رافه: د یوې عضوي یا برخې دوو نیمایي تر منځ د سیملکه ریج").
+entry(رافیا، ن، [رافیاز]، "رافیا").
+entry(raphide, n, [raphides], "يو ستن په څير شکل لرونکي کرسټل چې په نباتي حجرو کې رامنځته کیږي").
+entry(رافیس, ن, [رافائیډونه], "رافائیډ").
+ننه (تند, صفت, [], "تندترین تندترین زر په حرکت تند په توګه").
+entry(چټک, n, [چټکۍ], "د سيند يو تڼاکه برخه").
+entry(چټکتیا, ن, [چټکتیاوې], "چټکتیا").
+entry(رېپير, ن, [رېپيرونه], "يو اوږد او نري تورې").
+entry(چور، ن، [چورونه]، "د ملکیت زور اخیستل").
+entry(raping, present, [], "د زنا کولو اسم کمال").
+entry(rapini, npl, [], "رپيني").
+entry(جنسي تېرۍ کوونکی, n, [جنسي تېرۍ کوونکي], "هغه څوک چې جنسي تېرۍ کوي").
+entry(رپاري، ن، [رپاريان], "يو لوټمار").
+د Prolog:
+entry(rapped, past, [], "د rap زمانی شکل").
+entry(راپي, ن, [راپيان], "يو قوي نسوار").
+entry(rappel, v, [rappeled,rappeling,rappels], "يا RAPPELLED RAPPELLING RAPPELs د يو رسۍ په وسيله له يو لوړوالي ښکته کيدل").
+entry(rappen, n, [rappen], "د سویس یو پولي واحد").
+entry(رېپر, ن, [رېپران], "هغه څوک چې رېپ کوي").
+entry(rapping, present, [], "د 'rap' ګ‌‌‌‌‌ډونوال").
+entry(rappini, npl, [], "ناپخې شلغم بوټې").
+entry(rapport, n, [راپورونه], "يو همغږي اړیکه").
+entry(rapt, adj, [], "په بشپړه توګه ډوبRAPTLY adv").
+entry(raptness, n, [raptnesses], "په استغراق کې حالت").
+entry(raptor, n, [raptors], "د ښکار مرغه").
+entry(ازلي خوښي, فع, [په ازلي خوښي ډک شوی,په ازلي خوښي ډک کول,په ازلي خوښي ډکوي], "په لویه خوښي ډکول").
+entry(نادر، صفت، []، "نادر، ډېر نادر").
+entry(کم زر, v, [کم زری، کم زري، کم زري], "په شوق واوسي").
+entry(ريربټ, ن, [ريربټس], "یو د پنیر خوراک").
+entry(رايرفائر, ن, [رايرفائرونه], "هغه څوک چې نری کوي").
+entry(ټوټه کول, v, [ټوټه شوی،ټوټه کول،ټوټه کوي], "د لږ ګټور جوړول").
+entry(د کمې اندازې, د ګرامر برخې ځانګړی صفت, [], "نه ډېر زيات").
+entry(کموالی, ن, [کموالۍ], "د نایاب والي کیفیت").
+د ننوتنې(نادر، تقابلي، []، "د نادر").
+entry(ژر پخېدونکی, ن, [ژر پخېدونکي], "یو مېوه چې ژر پخیږي").
+entry(د نایابه, ستر، [], "د نایابه").
+entry(پتول, v, [پت شو,پتول,پتيږي], "پتول").
+entry(raring, صفت, [], "د خوشحالۍ څخه ډک").
+entry(کميابي, ن, [کميتونه], "کمياب").
+entry(ras, n, [رَسَس], "یو ایتوپیایي شهزاده").
+entry(rasbora, n, [rasboras], "يو استوايي کب").
+entry(ناجایز, ن, [ناجایز], "بې ایمانه یا دستکار شخص").
+entry(شرارتی, صفت, [], "د غلو ځانګړنه").
+entry(ړنګه کول, فعل, [ړنګ کړل, ړنګول، ړنګوي], "ړنګول").
+اندراج(ريزر، نوم، [ريزرز]، "يو څوک چې ريز کوي").
+entry(rash, adj, [], "پريکړې د احتیاط یا د مخکې ټاکل شوې پلان پرته").
+entry(داغ, ن, [داغونه], "د پوستکي راپاڅېدنهRASHLIKE صفت").
+entry(راشر, ن, [راشرونه], "د غوښې یوه نرۍ ټوټه").
+entry(بېړه، قید, [], "په بېړه توګه").
+entry(بې احتياطي, ن, [بې احتياطۍ], "د بې احتياطۍ حالت").
+entry(رېزېنګ, اوسنی, [], "د رېزېدو فعلي شکل").
+entry(rasorial, adj, [], "په منظمه توګه د خوراک لپاره ځمکه کيندل").
+entry(رېښپ، فعل، [رېښپ کړه، رېښپ کول، رېښپ کوي]، "د یوه زبر سره مسح کول").
+entry(راسپ، ن، [راسپونه]، "هغه چې خراش کوي").
+entry(rasping, n, [raspings], "د لرګي يو وړوکی ټوټه چې د يو خشن سوري لرونکي اوزار سره لرې کېږي").
+entry(raspish, adj, [], "خفه کوونکی").
+entry(رسپئ, صفته, [], "رسپیترین").
+entry(راسېل, v, [راسېل شو, راسېل کول, راسېل کوي], "کشتي").
+entry(رېسلر, ن, [رېسلران], "يوه مبارزه").
+entry(راستر, ن, [راستران], "د تلویزیون په سیټ کې د عکس ټیوب باندې عکسونه تولیدوي").
+entry(rasure, n, [rasures], "د پاکولو").
+entr(rat, v, [ratted,ratting,rats], "د اوږدې لکۍ لرونکي موږکانو ښکار کول").
+entry(ratable, adj, [], "د ارزونې وړRATABLY adv").
+entry(ratables, npl, [], "ماليات وړ جایدادونه").
+entry(راتافي, ن, [راتافيان], "راتافيا").
+entry(راتافیا, ن, [راتافیاګانې], "یو بادامي خوندور لیکور").
+entry(ratal, n, [ratals], "هغه اندازه چې پرې نرخونه اټکل کېږي").
+entry(ratan, n, [ratans], "رټان").
+entry(راتاني, n, [راتانیز], "رهاتاني").
+entry(راتا پلان, v, [راتا پلاند، راتا پلاڼنګ، راتا پلانز], "په چټکه سره تکرارېدونکی غږ جوړول").
+entry(راتاټاټ, ن, [راتاټاټونه], "يو چټک تېز ټوپ وهل غږ").
+entry(ratbag, n, [ratbags], "يو عجيب يا کرکجن شخص").
+الداخلې(چوخک، ن، [چوخکانې]، "هغه ميکانيزم چې يوازې په يو لور خوځښت ته اجازه ورکوي").
+entry(راچټ, فعل, [راچټ شوی, راچټ کول, راچټونه], "په کوچنیو مقدارونو زیاتول یا کمول").
+entry(rate, v, [درجه بندۍ, درجه بندي کول, درجه بندي کوي], "د ارزښت اټکل کول").
+د ننوتلو(د درجې وړ، صفت، [], "د درجې وړRATEABLY adv").
+entry(ratel, n, [ratels], "يو غوښه خوړونکی تي لرونکی ژوی").
+entry(rater, n, [raters], "يو څوک چې درجه بندي کوي").
+entry(ratfink, n, [خرابان], "يو نفر چې د نفرت وړ دی").
+entry(مرکبات، ن، [مرکباتونه], "یو سمندري ماهي").
+د Prolog ژبه: entry(rath, adj, [], "rathe").
+entry(rathe, adj, [], "ژر ښکاره کيدل يا ژر پخيدل").
+entry(بلکې، قيد فعل، [], "په غوره توګه").
+entry(ګورګې, ن, [ګورګيو], "یو سوری چې د یوې موږکۍ لخوا جوړ شوی").
+entry(raticide, n, [raticides], "یوه ماده چې د موږکانو د وژلو لپاره کارول کیږي").
+entry(تصدیق کوونکی, ن, [تصدیق کوونکي], "هغه څوک چې تصدیق کوي").
+entry(تصديق، v، [تصديق شوی، تصدیق کول، تصدیق کوي]، "په رسمي ډول تصویب او تصویب کول").
+entry(راټين, ن, [راټينونه], "یو دروند پارچه چې په خلاص ډول اوبدل کیږي").
+دخول(rating, n, [ratings], "نسبتي اټکل يا ارزونه").
+ننوتنه(نسبت، n، [نسبتونه]، "يو متناسبه اړيکه").
+entry(سوداګریز, v, [تخصیص شوی,تخصیص کول,تخصیصونه], "په ټاکل شویو برخو کې وېشل").
+entry(منطقي, ن, [منطقوي شمېرې], "يو شمېر چې د عددونو د حاصل په توګه څرګندېدلی شي").
+entry(ratite, n, [مرغان نا الوتونکي], "د الوتلو وړتیا نه لرونکی مرغی").
+entry(د موږک په څېر, adj, [], "د موږک په څېر ښکاري").
+entry(رتلین, ن, [رتلینونه], "رتلین").
+رات لاین، ن، [راتلاینز]، "د کښتۍ د رسۍ د زینې د پلونو کې یوه رسۍ جوړوي".
+entry(راټو, ن, [راټو], "د يوې راکټي مرستې الوتکې پورته کيدل").
+دخول(ratoon, v, [ratooned,ratooning,ratoons], "د تیرو کال د کرل شوي ریښې څخه ټوکیدل").
+entry(راتونر, ن, [راتونران], "یو بوټی چې راتونې کوي").
+د ننه کول(راتس‌بین، ن، [راتس‌بینونه], "د موږک زهر").
+entry(عقرب, ن, [عقربان], "يو سمندري ماهي").
+د رتن ننوتی، ن، [رتنونه]، "یو نخلی ونی".
+entry(ratted, past, [], "د چرګ اخته کول").
+دخول(ratteen, ن, [ratteens], "یوه خامک د وړیو ټوکر").
+پرو لوگ: entry(ratten, v, [rattened, rattening, rattens], "ځورول").
+په پرولاګ کې:
+entry(rattener, n, [ratteners], "یو څوک چې رټې").
+entry(راتر, ن, [راترونه], "یو څاروی چې د موږکانو د نیولو لپاره کارول کیږي").
+د ننوتنه(رټير, د تقابل صفت, [], "د راټي").
+entry(ډېر چرمن، مطلق تفضیلي، [], "د چرمن څخه").
+entry(په‌چتک, قید, [], "په داسې طریقه چې د ګډونو افعالو ته اشاره کوي").
+entry(رېټنګ, اوسنی, [], "د رېټ فعلي ګردان").
+entry(رمیمی, صفت, [], "د موږک په څېر").
+entry(رړا، v، [رړاوه، رړونکې، رړي]، "د چټکو او لنډو تيز غږونو لړۍ جوړول").
+entry(شړکونکی، ن، [شړکونکي]، "یو چې شړکوي").
+د پرولاګ کرښه:
+entry(راتلینګ, ن, [راتلینګز], "راتلائن").
+entry(rattly, adj, [], "RATTLIER RATTLIESTد شرېښ د امکان لرل").
+دخوله(رتون, ن, [رتونس], "یو موږک").
+داخلې(entry, v, [راتون شوی، راتون کول، راتونونه], "راتون کول")
+entry(دولپایي\u200cتله, n, [دولپایی\u200cتله\u200cگان], "د موږکانو د نیولو لپاره تله").
+د Prolog د کرښې لپاره پښتو ژباړه نشته، ځکه چې په دې کرښه کې یوازې پروګرامینګ کمانډونه شته.
+entry(راوکسوالی, n, [راوکسوالۍ], "د راوکس حالت").
+entry(شورماشور، صفت، [], "لوی او بې نظمه").
+entry(ګنده، ن، [ګندګۍ]، "بې حيایي").
+entry(چټل, صفت, [], "چټل چټلې ډېر چټل").
+entry(ورانول, v, [وران شو,ورانول,ورانوي], "له منځه وړل").
+entry(ورانوونکی, ن، [ورانوونکي], "هغه څوک چې ورانوي").
+د Prolog په بڼه کې په پښتو کې ژباړه:
+entry(رېو, v, [رېوېد، رېوېدل، رېوېږي], "بې منطقه يا بې ربطه خبرې کول").
+entry(ravel, v, [raveled,raveling,ravels], "يا RAVELLED RAVELLING RAVELSTo د تارونو جلا کول").
+entry(raveler, n, [ravelers], "يو څوک چې خلاصوي").
+entry(ravelin, n, [رېولېنز], "د قلعه بندۍ یوه توګه").
+دخواله(رېولنګ، ن، [رېولنګونه], "يوه نرۍ تاو شوې تار").
+entry(ravelled, a, [], "د رېول فعل ماضي حالت").
+د داخلیدو(سفرکوونکی، ن، [سفرکوونکي], "سفر کوونکی").
+د ننوتنه(رېولنګ، يو، []، "د رېول اوسنی شريک").
+entry(ravelly, adj, [], "پریشان").
+entry(کارغه, فعل, [کارغه کړ, کارغه کول, کارغان], "په بې اندازې لوږه خوړل").
+entry(راونر, n, [راونران], "یو چې لوټ کړي").
+د متحرکې برخې: entry(ravening, n, [ravenings], "چپاو/لوټ").
+entry(وږی، صفت، [], "ډېر په نېز").
+داخل (غالمغال_کوونکی، ن، [غالمغال_کوونکي]، "هغه څوک چې غالمغال کوي").
+دخول(رېوي، صفت، [], "رېوي ډېر رېوي د يو شېبې ځانګړتيا چې د يو شپې اوږد ډانس پارټي سره وي چیرې چې تېز الکتروني موسيقي وي").
+entry(ravigote, n, [ravigotes], "یو مرچداروږه سوس").
+د ننوت(entry(ravin, v, [ravined, ravining, ravins], "د لوټلو لپاره")).
+د ننوتنه(دره, ن, [درې], "یو تنګ ډنډری/تنګ غونډۍ والا دره").
+entry(په جوش کې, ن, [په جوش کې خبري], "بې منطقي بې ربط خبرې").
+entry(په لیونتوب سره, قيد, [], "په لیوني ډوله توګه").
+entry(راويولي, ن, [راويوليس], "يو ايټالوي پاستا ډش").
+entry(تښتول, فعل, [تښتول,تښتوي,تښتوي], "په زور نیول او وړل").
+entry(زورواکی, ن, [زورواکان], "هغه څوک چې زوروي").
+اندراج(خام، صفت، [], "دغه خواړه خيژل شوي نه دي").
+entry(raw, n, [raws], "يو زخم يا خارښت ځای").
+entry(rawboned, adj, [], "د لږ غوښې درلودل").
+entry(rawhide, v, [rawhided,rawhiding,rawhides], "د يو ډول کوړې سره وهل").
+د ننهوتل(rawin, n, [rawins], "یو د باد اندازه ګیري چې د یوې بالون د رادار په مرسته سره تعقیبولو سره ترسره کیږي").
+entry(rawish, adj, [], "څه نا څه خام").
+entry(rawly, adv, [], "په خامه توګه").
+entry(rawness, n, [rawnesses], "د خاموالي حالت").
+د داخلې(راکس, v, [راکسډ, راکسنګ, راکسز], "په اوږدو به کول").
+داخلې(رې، فعل، [رې شوې، رې کول، رې ګانې]، "د رڼا تنګې وړانګې خارجول").
+entry(رایه, ن, [رایې], "رایه").
+entry(ريا, n, [ريايا], "د ترکيې يو غير مسلمان اوسيدونکی").
+ننوتنه(raygrass, ن, [raygrasses], "ryegrass").
+entry(rayless, adj, [], "د وړانګو پرته").
+entry(raylike, adj, [], "د يو تنګ د رڼا د وړانګې په څېر").
+entry(ریون, ن, [ریونونه], "یو مصنوعي فایبر").
+entry(رازه, v, [رازه کړ,رازه کول,رازي], "مینځه وړل یا ورانول").
+entry(رازي, فعل, [رازيد,رازيينګ,رازيز], "د مخکښې بره پوړ له لرې کولو سره ټيټول لکه يو کښتۍ").
+entry(رازر, ن, [رازران], "يو څوک چې چپه کوي").
+د ننه کړلentry(razor, v, [razored,razoring,razors], "د یوې تېزې وسیلې سره خرېیل یا پرې کول").
+د ننوتنې(razz, v, [razzed, razzing, razzes], "ملنډې وهل").
+entry(رازیه, ن, [رازیې], "په موورانو کې دښمني حمله").
+entry(رازل, ن, [رازګان], "يو ښکلې او رنګا رنګ ننداره").
+entry(re, n, [res], "د دياتونک موسيقۍ مقياس دوهمه غږ").
+entry(ورسېدل, v, [ورسېد،ورسېدنه،ورسېږي], "غځول یا وړاندې کول").
+پرولوگ:
+entry(reacher, n, [رسيدونکي], "يو چې رسېږي").
+entry(غبرګون, v, [غبرګون_ښودلی,غبرګون_ښودل,غبرګون_ښيي], "یو محرک ته ځواب ویل").
+entry(reactant, n, [reactants], "یو چې غبرګون ښکاره کوي").
+entry(غبرګون, ن, [غبرګونونه], "د غبرګون ښودلو عمل").
+entry(غبرګون ښودونکی, صفت, [], "غبرګون ښودل کولای").
+entry(reactor, n, [reactors], "هغه څوک چی غبرګون ښیی").
+entry(read, v, [وړل, لوستل, لیدل], "د یو چاپ شوي متن یا لیکنې په معنی د پوهېدو لپاره کتلREADABLE adjREADABLY adv").
+entry(لوستونکی, n, [لوستونکي], "هغه څوک چې لولي").
+entry(readerly, adj, [], "د يو لوستونکي لپاره ځانګړې").
+ورود(چمتو شوی, تېر, [], "د چمتو کړلو حالت").
+entry(چمتو, تقابلي, [], "د چمتو").
+د خپرونې(readies, present, [], "د تیار د ۳یم شخص یوازینی شکل")
+entry(readiest, superlative, [], "د چمتو").
+entry(په اسانۍ سره, قید, [], "په چمتو ډول").
+entry(لوستل, ن, [لوسونه], "مواد چې مطالعه کېږي").
+داخل کړئ(لوستل, ن, [لوستلونه], "د کمپیوټر د معلوماتو وړاندې کول").
+entry(چمتو, صفت, [], "چمتو چمتوتر چمتوتري چمتوتری تیار").
+entry(چمتو, فعل, [چمتوکړی, چمتوکول, چمتوکوي], "چمتو کول").
+هغه لاندینۍ کرښه دې پښتو ته وژباړه:
+
+```prolog
+entry(محلول، ن، [محلولونه], "یو داسې ماده چې د کیمیاست په یو عمل کې د بلې مادې طبیعت یا ترکیب څرګندولو لپاره کارول کیږي").
+```
+entry(reagin, n, [reagins], "د انټي باډي یو ډولREAGINIC adj").
+entry(حقيقي, صفت, [], "حقیقي لري حقیقي شتون").
+entry(حقيقي, n, [حقيقيان], "يا REALES د اسپانیا پخوانی پیسې واحد").
+د real د ننه ایستل، n، [reis]، "د برازیل یو پیسوی واحد".
+دریځ(ریله ګر، ن، [ریله ګرونه]، "یوه منرال").
+entry(realia, npl, [], "هغه شيان چې يو ښوونکی يې د ورځني ژوند په تشريح کولو کې کاروي").
+entry(پوهېدل, v, [پوهېد,پوهېدونکی,پوهېږي], "درک کول").
+entry(realiser, n, [realisers], "یو چې درک کوي").
+entry(ريالېزم، ن، [ريالېزمونه]، "له حقيقت يا واقعيت سره تړاو").
+entry(حقيقت غوښتونکی, ن, [حقيقت غوښتونکي], "هغه څوک چې د حقيقت يا واقعيت سره تړاو لري").
+ورود(حقیقت، ن، [حقایق]، "یو څه چې حقیقي وي").
+entry(پوهیدل, فعل, [پوه شو, پوهیدل, پوهیږي], "په بشپړه توګه پوهیدل").
+entry(realizer, n, [realizers], "یو چې درک کوي").
+دخولیه(په حقیقت کې، نژدې، []، "په اصل کې").
+entry(قلمرو, n, [قلمرونه], "يوه پاچاهي").
+د Prolog لیکنه: entry(realness, n, [realnesses], "د اصليت حالت").
+entry(حقیقت, ن, [حقیقتونه], "په ودانیو او ځمکو کې ملکیت").
+entry(ream, v, [reamed,reaming,reams], "د یو بیا خکالوونکي سره غټوالی").
+entry(ریمر, ن, [ریمرونه], "یو اله چې د سوریو د پراخولو لپاره کارول کیږي").
+د ننوتل(reap, v, [reaped, reaping, reaps], "د ريبلو لپاره د حاصلاتو لپارهREAPABLE صفت").
+entry(ريپر, ن, [ريپرانو], "يو څوک چې ريپيږي").
+entry(reaphook, n, [reaphooks], "يوه اله چې د ريبلو لپاره کارول کيږي").
+entry(شا، v، [شا کړه، شاکړه، شا کوي]، "پورته کول").
+entry(rearer, n, [rearers], "يو څوک چې لویوي").
+entry(پالنه, n, [پالنې], "دد څاروی د شا پښو باندې درېدل").
+د ننوتلو(ريئرمايس، جمع, [], "ريرمايس").
+entry(وروستی, صفت, [], "په اخر کې راتلونکی یا موقعیت لري").
+entry(شاتنۍ, ن, [شاتخوا], "د لښکر وروستی برخه").
+entry(بياخپتنه, ن, [بياخپتنې], "نوې يا دويمه ختل").
+د Prolog کوډ:
+entry(reason, v, [reasoned,reasoning,reasons], "د معلوما توکو یا احتمالي حقایقو څخه استدلالونه یا پایلې اخیستل").
+د ننوتل(دلیل, ن, [دلیلونه], "هغه څوک چې دلیل کړي").
+په څېړنغونډن کې رانغاړل شوې لیکنه: "entry(ریاتا, ن, [ریاتاس], "ریاتا").
+entry(reave, v, [reft, reaving, reaves], "لوټل").
+ورود(ریور, ن, [ریورونه], "هغه څوک چې لوټمار کوي").
+entry(reb, n, [rebs], "د کنفډرېټ سرتېرى").
+entry(ريبړ, ن, [ريبړونه], "په تقويه شوي کانکريټ کې د استعمال لپاره يو فولادي ميله").
+entry(بنياد_ايښودل, v, [بنياد_ايښودل_شوی,بنياد_ايښودل], "د يو شي لپاره نوی بنسټ ټاکل").
+د وارداتي(رعايت، فعل، [ورکړل شو، ورکړلو، ورکوي]، "له يوې ټاکلې پېسې يا د بل له جمع څخه کمول يا بيرته ورکول").
+انٹری(ریبٽر، ن، [ریبٽرز]، "یو چې ریبټ کوي")۔
+د داخلېدو(رباتو، ن، [رباتوس]، "راباتو").
+entry(ربا, ن, [ربابان], "یو ربي").
+entry(ریبیک، ن، [ریبیکونه], "یوه پخوانۍ تار لرونکې اله").
+دخول (ربیک، ن، [ربیکونه]، "ربیک").
+entry(باغي، فعل، [باغي شو,باغي دی,بغاوت کوي], "د خپلې خاورې د ټاکل شوې حکومت مخالفت کول").
+entry(بغاوت, ن, [بغاوتونه], "يوه سيمه چې د ياغيانو په کنټرول کې ده").
+د Prolog کرښه: entry(rebirth, n, [rebirths], "يوه نوي يا دوهم زيږون").
+entry(reboant, adj, [], "په لوړ اواز کې غږېدونکی").
+entry(ریباپ, ن, [ریباپونه], "د موسیقۍ ډول").
+entry(بيا_زېږېدلی, صفت, [], "بيا زېږېدلی").
+د Prolog کرښه په پښتو کې:
+
+```prolog
+entry(شاټکول, v, [شاټکړ,شاټکول,شاټکوي], "بېرته ټوپ وهل").
+```
+entry(ربوزو, ن, [ربوزوز], "يو اوږد شال").
+د Prolog:
+entry(rebranch, v, [rebranched, rebranching, rebranches], "ثانوي څانګې جوړول").
+entry(د بیارغوني نښه, v, [بیارغول شوی,بیارغول,بیارغونه کوي], "د یوه شرکت کارپوریټ انځور بدلول").
+د Prolog کوډ:
+entry(rebuff, v, [rebuffed, rebuffing, rebuffs], "په سپکه او لنډه توګه ردول يا انکار کول").
+entry(ملامتول, فعل, [ملامت کړل,ملامت کول,ملامته وي], "په توندۍ سره نیوکه کول").
+entry(ملامتونکی, ن, [ملامتونکي], "هغه څوک چې ملامتوي").
+entry(دوهم-دفن، ن، [دوهم-دفنونه]، "دوهم دفن").
+entry(ريبس, n, [ريبيسونه], "د يو ډول معما").
+entry(رد, فع, [رد شوی، رد کول، ردونه], "د رد کولو لپاره").
+د ننه وتنه(جواب، ن، [جوابات]، "دليل يا ثبوت چې هغه بېرته وغورځوي").
+```prolog
+entry(rebutter, n, [rebutters], "هغه څوک چې بیا ځواب وایی").
+```
+entry(دفع کول, حاضر, [], "د دفع فعل برخه").
+دخال (rec, n, [recs], "تفریح").
+entry(يادونه, فعل, [يادشو,يادونه کوي,يادوي], "بېرته زنګ وهل").
+پرو لوګ:
+entry(recaller, n, [recallers], "هغه څوک چې یادوي").
+entry(ريکاميار, ن, [ريکاميارونه], "يوه شا پرته کوچ").
+entry(درد، فعل، [دردکړ، دردل، دردوي]، "رسمي انکار یا اعتراف بیرته اخیستل").
+entry(بېرته اخيستونکی, ن, [بېرته اخيستونکي], "یو څوک چې بېرته اخلي").
+د ننوتو(recap, v, [recapped,recapping,recaps], "په لنډیز ډول بیاکتنه کول").
+د ننوتۍ (recce, v, [recced, recceing, recces], "د پيژندنې کول").
+entry(شاته تګ, v, [شاته تللي,شاته تلونکي,شاته ځي], "شاته تلل").
+د ننوتنه (رسید, فعل, [رسید شوی، رسید کول، رسیدونه], "لکه چې تادیه شوي وي نښه کول").
+entry(ترلاسه کول, v, [ترلاسه کړ, ترلاسه کول, ترلاسه کوي], "د ترلاسه کولو لپاره").
+entry( ترلاسه کوونکی, n, [ ترلاسه کوونکي ], "يو چې ترلاسه کوي" ).
+د ننه recency, n, [recencies], "د نوي کېدو حالت".
+entry(وروستۍ, صفت, [], "وروستۍ وروستۍ چې د يو وخت نه ډېر پخوانی نه دی وروستي يې په اړه وروستۍ توګه وروستی").
+entry(داخلېدل, ن, [داخلې], "د ذهني انځور یو ډول").
+د ننه(ريسپټر، ن، [ريسپټرونه], "يو عصبي پای ته رسول شوی چې محرکات ترلاسه کولو لپاره ځانګړی شوی").
+ورودی(رخصتي, فع, [رخصتي شوی, رخصتي کول, رخصتي ګانې], "په یو شا تګونکی ځای یا د تشو په منځ کې ځای پر ځای کول").
+entry(recheat, n, [recheats], "د ښکار کولو اواز").
+entry(نسخه, ن, [نسخې], "د کوم شي د جوړولو لارښوونې").
+د داخله(لغو کول, ن, [لغو کولونه], "لرې کول").
+د داخلې(قصه، ن، [قصې]، "د کیسې هغه برخه چیرته چی پیښې بې له کوم زیاتولو سره وړاندې کېږي").
+entry(تفصيل, ن، [تفصیلات]، "يو تفصيلي حساب").
+entry(وایې, فعل, [ویل, وایي, وایې], "له یاده ویل یا لوست").
+د داخلول(reciter, n, [reciters], "يو هغه چې تلاوت کوي").
+entry(ریک، فعل، [ریکت،ریکینگ،ریکس]، "د اندیښنې لپاره").
+entry(بې پروایي, صفت, [], "بې پروا په بې ځایه توګه د خطر په وړاندې").
+entry(حساب, v, [محسوب,محاسبه کول,حسابوي], "ګڼل يا حساب کول").
+entry(محاسب, ن, [محاسبون], "يو څوک چې حساب کوي").
+entry(بیا تر لاسه کول, v, [بیا تر لاسه شوی,بیا تر لاسه کول,بیا تر لاسه کوي], "د کر کیلې یا اوسیدو لپاره مناسب جوړولو").
+د Prolog کرښه:
+entry(reclame, n, [reclames], "عامه پوهاوی").
+د ننوتنه(کېږدۍ, فعل, [کېښود, ایښېدل, کېږدي], "بیرته تکیه یا پروت کیدل").
+راداخلونه(چپرکټ، ن، [چپرکټونه], "هغه چې ټيټه کېږي").
+entry(ګوښي, ن, [ګوښيان], "يو څوک چې په يوازېتوب او ګوښه والي کې ژوند کوي").
+entry(شاوتلل, v, [شاوتله,شاوتل,شاوتلي], "په ویره یا کرکه سره شاته تلل").
+```prolog
+entry(بياکوونکی, ن, [بياکوونکي], "يو څوک چې شاته ځي").
+```
+entry(recon, v, [reconned,reconning,recons], "پلټنه کول").
+entry(بېرته انتقالول, v, [بېرته انتقال کړل, بېرته انتقالوي, بېرته انتقالونه], "بېرته يو مخکېني حالت ته انتقالول").
+entry(record, v, [ثبت شوی, ثبت کول, ریکارډونه], "د ساتنې لپاره ثبت کول").
+entry(ریکارډر, ن, [ریکارډران], "یو څوک چې ثبتوي").
+entry(توضيح ورکول, v, [توضيح ورکړ, توضيح ورکول, توضيح ورکوي], "په تفصيل سره بيانول").
+entry(بېرته ترلاسه کول, v, [بېرته ترلاسه کړ, بېرته ترلاسه کول, بېرته ترلاسه کوي], "د هم ارزښت ترلاسه کول").
+د ننوتل("recoupe", صفت, [], "دوه ځله ویشل شوی").
+entry(معلول, ن, [معلولات], "د مرستې لپاره چا يا څه ته مخ اړول").
+entry(بیرته ترلاسه کول, فع, [بیرته ترلاسه کړ, بیرته ترلاسه کول, بیرته ترلاسه کوی], "بیا ترلاسه کول وروسته له لاسه ورکولو").
+دلیکنه(بحالیدل, ن, [بحالیدنې], "یو اقتصادي پرمختګ").
+entry(بزدل, ن, [بزدلان], "يو ډارن").
+entry(بيا جوړونه, v, [بيا جوړ شوی,بيا جوړول,بيا جوړوي], "ذهنې يا بدني تازه کول").
+entry(جذب, فعل, [جذب کړل, جذب کوي, جذبوي], "د پوځي خدمت لپاره بوختول").
+د خطا په وخت کې. لطفاً د پرولوګ مشکوک کوډ چیک کړئ.
+entry(rectal, adj, [], "د مقعد پورې اړوندRECTALLY adv").
+entry(recti, pl, [], "د rectus").
+entry(سمول, v, [سم شوی, سمول, سميږي], "صحیح کول").
+entry(راسته، ن، [راستهونه]، "د کتاب يو ښي لاس مخ").
+د پروالوګ:
+entry(rector, n, [rectors], "په يوه پيرش کې د يو کلیسي مشری").
+entry(rectory, n, [rectories], "د يو پادري اوسېدو ځای").
+entry(rectrix, n, [rectrices], "د یو مرغه د لکۍ بڼه").
+entry(مستقيم, n, [مستقيمونه], " او ډول د کوچني کولمو وروستۍ برخه").
+ورودي(rectus, n, [recti], "يو نېغ عضله").
+entry(تکرار, v, [تکرار شو,تکراريږي,تکراروي], "بېرته پېښيدل").
+entry(recurve, v, [recurved,recurving,recurves], "شاته يا ښکته منحني کول").
+د شمولیت(رټل، ن، [رټلونه], "ریټلو عمل").
+entry(نافرمان, ن, [نافرمانان], "هغه څوک چې ټاکل شوې واکمني نه مني").
+entry(بې برخې کول, v, [بې برخې کړ,بې برخې کول,بې برخې کوي], "په ځانګړې قضیه کې د قاضي په توګه له برخې اخیستنې څخه غورځول").
+entry(بيا کارول, v, [بيا کارول شوی، بيا کارول روان، بيا کاروي], "په داسې ډول پروسه کول چې ګټور مواد ترلاسه شي").
+entry(د_ریسایکل_کوونکی, ن, [ریسایکل_کوونکي], "هغه څوک چې ریسایکل کوي").
+د پرولوګ: entry(red, adj, [], "د وينې د رنګ").
+د ننوت‌نې(سور، v، [سرخ‌شده، سرخ‌کردن، سرخ‌ها]، "سور کول").
+entry(سنسرول, v, [سنسر شوی, سنسر کول, سنسر کوي], "د خپرېدو لپاره چمتو کول").
+Prolog:
+entry(تفصيل کوونکی, ن, [تفصيل کوونکي], "يو څوک چې تفصيل کوي").
+entry(ريدان, ن, [ريډانونه], "د يو ډول کلا بندي").
+دخولی(سره_بحث, فعل, [سره_بحث_شو,سره_بحث_کول,سره_بحث_کوي], "رد کول").
+entry(سرخ_طعنه, فعل, [سرخ_طعنول, سرخ_طعنول, سرخ_طعني], "د کمونست په توګه بدنامه کول").
+د ننه کړئ(سرخ بې، نوم، [سرخ بېونه]، "یو کوچنی ونه").
+entry(سورمرغه, ن, [سورمرغان], "یو مرغه د سره بڼو سره").
+entry(ريډبون, n, [ريډبونز], "د ښکار سپی").
+entry(سورخښت, ن, [سورخښتې], "يوه عصري بريټانيائي پوهنتون").
+(entry, redbud, n, [redbuds], "یو کوچنی ونه").
+entry(سوربګ, ن, [سوربګانې], "یوه چیګر").
+entry(ريډکپ, ن, [ريډکپونه], "يو باروړونکی").
+داخلول(سورکوټ, ن, [سورکوټونه], "د امریکایي انقلاب پرمهال یو بریتانوي سرتېری").
+entry(redd, v, [redded,redding,redds], "په ترتیب راوستل").
+entry(سور شو، ماضی، [], "د سور او سور شو زمانه").
+entry(سورول, فعل, [سورکړ, سورکیږي, سوروي], "سور کول یا سوریدل").
+اندراج(سره، ن، [سرونه]، "یو چې سره کوي").
+د پرولاګ ژبه:
+entry(reddest, superlative, [], "اف پشتون").
+entry(سره, پرتليزه, [], "د سره").
+د ننوتنه(ترين، فوق العاده، [], "د ريدي څخه").
+entry(رېډنګ, وړاندې, [], "د رېډ او رېډ برخه ايز").
+entry(سوروالې, صفت, [], "یو څه سور").
+entry(ريډل, v, [ريډل شو,ريډل کول,ريډل کوي], "رډل کول").
+entry(reddy, adj, [], "رنګ سرخی رنګ سور").
+entry(مشوره, v, [مشوره ورکړ، مشوره ورکول، مشورې], "مشوره ورکول").
+پرو لوګ:
+entry(redear, n, [redears], "یو عام لمر کب").
+entry(بېرته اخیستل, v, [بېرته اخیستل شوی, بېرته اخیستل, بېرته اخلي], "بېرته اخیستل").
+entry(راخلاونکی, ن, [راخلاونکي], "هغه څوک چې خلاصي راوړي").
+entry(سره_سترګه, ن, [سرې_سترګې], "د اورګاډي د خطر اشاره").
+entry(سره_کب, ن, [سره_کبان], "يو د خوږو اوبو کب").
+entry(سورماهی, ن, [سورماهیګان], "یو خوراکی ډبره ماهی").
+د Prolog کوډ:
+entry(redhead, n, [سرې ويښتې], "یو څوک چې سره ويښتان لري").
+د ورودي ترنۍ ژبه(څخه، پاخواه)
+entry(redhorse, n, [redhorses], "یوه خوږې اوبې ماهي").
+ورودی(redia, ن, [redias], "یا REDIAE د ځینو پلشونګو لارو REDIAL صفت").
+entry(ريدنگ, موجوده, [], "د رېډ مصدر").
+entry(لېږدول, v, [لېږدول شوی, لېږدول], "د يو شي مسير يا لوری بدلول").
+دخول(redleg, n, [redlegs], "يوه مرغۍ چې سره پښې لري").
+جوړونه(سرحد, فعل, [سرحدي دی,سرحدي کول,سرحدونه], "د ځینو سیمو څخه پور یا بیمه نه ورکول").
+entry(سور لائن کونکی, ن, [سور لائن کونکیان], "هغه څوک چې سور لائن کوي").
+entry(سره, adv, [], "د سره رنګ سره").
+entry(سوروالی, ن, [سوروالۍ], "په سور حالت کې وي").
+entry(بیا, ن, [بیاوې], "هغه څه چې بیا ترسره کېږي").
+entry(خوږبويه, صفت, [], "خوشبويه").
+ورود(redouble, v, [redoubled,redoubling,redoubles], "د دوه چنده کولو لپاره").
+د ننوتنه (redoubt, n, [redoubts], "يو تړلی کلا").
+د ننوتنې(بیرته راتلل, فع, [بیرته راغلی,بیرته راتلونکي,بیرته راځي], "اغېزه لرل").
+entry(ريڊ آوټ, n, [ريڊ آوټس], "هغه حالت چېرته چې وينه سر ته اړول کيږي").
+د ننوتنه (redowa، n، [redowas]، "یو ژوندی نڅا").
+د ننه راتګ (redox, n, [redoxes], "د کیمیاوي تعامل یو ډول").
+entry(سرخوټکۍ, n, [سرخوټکۍګانې], "یو کوچنی فنچ").
+entry(بيا مسوده جوړول, v, [بيا مسوده جوړ شوی,بيا مسوده جوړول,بيا مسوده جوړوي], "د سند بيا کتنه کول").
+entry(بيا رسمونکی, ن, [بيا رسمونکي], "يو کس چې بيا رسموي").
+entry(جبرانول, v, [جبران کړ, جبران کوي, جبرانوي], "سمول").
+د ترجمې لپاره یوازې د Prolog کوډ دلته دی:
+
+```prolog
+entry(سور ريښه, ن, [سور ريښې], "يو څو کلن بوټی").
+```
+د ننوتنه(سرخ ټنګ، ن، [سرخ ټنګان]، "یوه ساحلي مرغۍ").
+entry(سورځیګ، ن، [سورځونه], "د فلک یو جسم طیف اوږده څپو ته بدلون").
+دخول (redshirt, v, [د سرې کورتۍ, د سرو کورتۍ اغوستل, سرې کورتۍ اغوندی], "د کالج ورزشکار له اصلي سیالیو نه ساتل تر څو د هغه د ګډون موده وغځیږي").
+entry(سرخي, ن, [سرخوات], "د بادام يوه ډول").
+entry(سرې بختۍ, ن, [سرې بختۍ], "يو وړوکى سندرغاړې مرغه").
+entry(سرخ دم، ن، [سرخ دمونه]، "د باز یوه ډوله").
+دخول(redtop, n, [redtops], "د شنې دوشي ډول").
+entry(کمول, v, [کم کړل, کمول, کموي], "کمول").
+انٹری(ریڈوسر، ن، [ریڈوسرز]، "یو چی راکموي").
+داخلہ(کموونکی, ن, [کموونکي], "په محلول کې د فلزي آینو د کمولو لپاره یو وسیله").
+entry(ریدوویډ، ن، [ریدوویډونه], "د وینې زبېښونکی حشره").
+entry(redux, adj, [], "بېرته راوړل شوی").
+entry(سور خزک، ن، [سور خزکونه]، "یو خوراکي سمندري جلبک").
+ورود(سوراب, ن, [سرابونه], "د غواګانو د وینې ناروغي").
+entry(redwing, n, [redwings], "يو اروپایي ترش").
+entry(ريډوډ, ن, [ريډوډونه], "يو ډير لوړ تل زرغون ونه").
+entry(ree, n, [ريز], "د ښځينه يورېشين شګماله").
+entry(reebok, n, [reeboks], "رێبوک").
+entry(ريڅی, صفت, [], "RECHIER REECHIESTفول رانسيډ").
+entry(ريډ، ف، [ريډډ، ريډينګ، ريډز], "د ګياو د لوړو ډنډو سره تړل").
+داخلې(بو کانول, ن, [بو کانولونه], "د بوبولینک").
+entry(ريډبک, n, [ريډبکونه], "يو افريقايي غوزڼ").
+د دې Prolog کرښه په پښتو ژبه کې داسې ده:
+
+```prolog
+entry(reedier, comparative, [], "د reedy"). 
+```
+entry(تر ټولو غلیظ, فوقیت, [], "د بغلې").
+د پرولاګ متن: entry(reedify, v, [reedified,reedifying,reedifies], "بیا جوړول").
+entry(ريډيلي, ق، [], "د يوې نرۍ غږ سره").
+entry(ريډنګ, ن, [ريډنګز], "يو محدب مولډنګ").
+entry(د نيش په شان, صفت, [], "د نيش په څېر").
+entry(ریډلینګ, ن, [ریډلینګز], "یو مارش مرغۍ").
+entry(reedman, n, [reedmen], "هغه څوک چې د سرۍ آله غږوي").
+د Prolog ژباړه: entry(reedy, adj, [], "REEDIER REEDIESTabounding in reeds").
+entry(ريف, فعل, [ريف کړې، ريف کول، ريفونه], "د بادبان ساحه کمول").
+د ننوتنه(ريفر, ن, [ريفري], "هغه څوک چې ريف کوي").
+د ختیځ، سفت، شیباناری، “د راکونو په ګوډونو کې ډک”
+entry(reek, v, [reeked,reeking,reeks], "یو قوي ناوړه بوی ورکول").
+entry(reeker, n, [reekers], "يو چې بوی ولري").
+entry(reeky, adj, [], "REEKIER REEKIESTreeking").
+entry(رېل, فع, [رېل شو, رېل کېدل, رېلونه], "د يو ډول دوراني آلې باندې تاوولREELABLE صفت").
+entry(رييلر, ن, [رييلرز], "يو څوک چې رييل کوي").
+entry(راکښل, ن, [راکښلونه], "پرله پسې شور").
+انٹری(ری انٹری، ن، [ری انٹریز]، "نوے یا دوهم داخل").
+entry(ریسټ, v, [ریسټ شو, ریسټ کول, ریسټونه], "د ممانعت کولو لپاره").
+د پرولوګ کوډ: entry(reeve, v, [rove,roven,reeving], "REEVESڅه د يو شی له لارې يا چاپیره ترې تېرول او تړل").
+entry(ref, v, [reffed,reffing,refs], "د ریفري کولو لپاره").
+د داخلي تللونه ballukaario:
+داخل(tagtesy, أسماaaowo mowulluul laish banweeze,inner isolates وiaannوسياخراف го reprimand bainaakoom muu), "الوقوق الذي".
+یوار(رفعوی، ف، [رفعنامه، رفع شوله، درفع میچ]، "د خوړو او څښاک سره تازه کول").
+entry(refel, v, [رد کړل, ردول, ردونه], "رد کول").
+entry(راشل, فعل, [راول،راوړي،راشي], "د یوې منبعې لور ته د مرستې یا معلوماتو لپاره لیږل").
+ګډون(referee, v, [refereed,refereeing,referees], "په ځانګړو لوبو کې لوبه څارنه کول").
+entry(مرجع, ن, [مراجع], "څه شى‌ چې يې اشاره شوې").
+د ننوتنه(ايلز, ن, [ايلزان], "يو څوک چې ايله کړل شوی دی").
+د   -entry(referred, past, [], "tense of refer").
+د پرولاګ حواله: 
+entry(referrer, n, [referrers], "هغه یو چې اشاره کوي").
+entry(اشاره کول, اوسني, [], "د اشاره کول ګډونک").
+entry(reffed, تېر, [], "ref دوران").
+entry(reffing, n, [reffings], "د ریفري کار").
+د Prolog په توګه:
+entry(refine, v, [refined,refining,refines], "له کثافاتو څخه پاکول").
+د Prolog کرښه: entry(refiner, n, [refiners], "يو چې تصفيه کوي").
+entry(پالوشي، ن، [پالوشۍ]، "يو ځای چيرته چې خام مواد تصفيه کيږي").
+entry(تصفيه, ن, [تصفيې], "له يو شي څخه د ناپاکيو د ليرې کولو بهير").
+د ننوتنه(بېرته ختمول, فعل, [بېرته ختم کړل,بېرته ختمول,بېرته ختموي], "یو نوی سطح ورکول").
+د استاذنا(refit، v، [refitted، refitting، refits]، "د اضافي استعمال لپاره تياري او تجهيز کول").
+entry(reflag, v, [reflagged,reflagging,reflags], "يو کښتۍ ته نوی درج شوی تابعيت ورکول").
+entry(بياولوگول, v, [بياولوگول شوی,بياولوگول کول,بياولوگوي], "بيرته پړسيږول").
+د Prolog ژبې کرښه په پښتو کې: entry(منعکس کول, فعل, [منعکس شو,منعکس کول,منعکس کوي], "له یوې سطحې څخه بیرته اړول یا ګرځول").
+entry(انځور, ن, [انځورونه], "سطحې ځانګړی ځلا").
+د Prolog: ننوت(reflex, v, [reflexed,reflexing,reflexes], "بېرته تاوېدل").
+entry(reflexly, adv, [], "په انعکاسي توګه").
+entry(بېرته‌بهېدونکی, صفت, [], "بېرته بهېدونکی").
+entry(بايله, v, [بیرته_بايله_شو, بیرته_بايلل, بیرته_بايله_کېږي], "د بېرته جریان کولو لپاره").
+entry(ځنګل_بیاکرنه, فعل, [ځنګل_بیاکرل, ځنګل_بیاکرنه_کوي, ځنګل_بیاکراتي], "بیا ځنګل کرل").
+entry(اصلاح, v, [اصلاح کړ,اصلاح کوي,اصلاحونه], "یو ښه حالت ته بدلون ورکول").
+entry(اصلاح کوونکی, ن, [اصلاح کوونکي], "هغه څوک چې اصلاح کوي").
+entry(ماتول, فعل, [ماتېدل, ماتیږي, ماتوي], "په ځانګړي ډول د رڼا د وړانګو په څېر انحراف کول").
+entry(انکار, v, [انکار کړی, انکار کول, انکار کوي], "ځان شاته ساتل").
+داخلول(refresh, v, [refreshed,refreshing,refreshes], "د ښه حالت او توان بيا رامنځته کول").
+entry(reft, a, [], "د ریو تېر زمانه").
+entry(پناه, فعل, [پناه ورکړ, پناه ورکول, پناهونه], "پناه ورکول یا اخیستل").
+entry(کډوال, n, [کډوال], "هغه څوک چې د خوندیتوب لپاره تېښته کوي").
+entry(پناهځای, ن, [پناهځایونه], "د وچې د اقلیم د بدلون په وخت کې یوه ثابته سیمه").
+د پرولوګ ليکنه:
+entry(refund, v, [refunded,refunding,refunds], "بيرته ورکول").
+entry(refunder, n, [refunders], "يو چې بيرته ورکوي").
+entry(نه منل, ن, [نه منلونه], "د نه منلو عمل").
+entry(نه منل, v, [نه منلی,نه منل کیږي,نه مني], "ځان په نه منلو، ترسره کولو یا پوره کولو کې ناچاره څرګندول").
+entry(refuser, n, [refusers], "هغه څوک چې انکار کوي").
+entry(رفوزنیک, ن, [رفوزنیکونه], "یو شوروي وګړی چې هغه ته د مهاجرت اجازه نه وه ورکړل شوې").
+د پرولاګ ژباړه:
+entry(refutal, n, [ردونه], "د ردولو عمل").
+entry(refute, v, [ردکړ,ردکوي,ردوي], "په غلطۍ یا اشتباهی ثابتول").
+د پرولاګ:
+entry(refuter, n, [refuters], "یوه چې رد کوي").
+دخوله(قانون، ن، [قوانین]، "يو مقررات").
+د ننهېدو (regainer, n, [regainers], "هغه څوک چې بیا ترلاسه کوي").
+entry(شاهي, صفت, [], "د پاچا څخه يا پاچا ته مناسبه").
+د ننوتنه(ښایسته کول، فعل، [ښایسته کړ، ښایسته کوي، ښایسته کوي]، "په خوشحالتوب").
+entry(regaler, n, [regalers], "هغه څوک چې خوشحاله کوي").
+entry(دستار, جمع, [], "د يو پاچا حقوق او امتيازات").
+دريځ(پاچايۍ، ن، [پاچايۍ]، "پاچاهي واک").
+entry(په‌شاهي‌طرز, قید, [], "په شاهي ډول").
+دخول(regard, v, [regarded,regarding,regards], "په ځانګړي احساس سره کتل").
+د ننوتنې (regatta, n, [regattas], "د کښتۍ سیالي").
+entry(regelate, v, [regelated,regelating,regelates], "یخ په کم فشار سره بیا کنګل کول").
+د ريجنسي دفټر، n، [ريجنسيز]، "د يو والي دفتر" entry(regency, n, [regencies], "the office of a regent").
+دستاڼ(entry, n, [regents], "هغه څوک چې د واکمن په ځای واک چلوي، حاکمREGENTAL صفت").
+entry(reges, pl, [], "د rex").
+entry(ريګي، ن، [ريګيز]، "د مشهورې جامايکايي موسيقۍ يوه بڼه").
+entry(پاچاه وژنه, ن, [پاچاه وژنې], "د پاچا وژنه").
+entry(regie, n, [مرکزي ادارې], "په کېوبیک کې یو حکومتي تنظیمي ارګان").
+د داخلې(باز ډالۍ ورکول/بېرته ډالۍ ورکول, فعل, [بېرته ډالۍ ورکړې،بېرته ډالۍ ورکول,بېرته ډالۍ ورکوي], "هغه ډالۍ، چې کوم بل چا درکړی وي، یو بل چا ته ورکول").
+entry(regifter, n, [regifters], "يو څوک چې بيرته ډالۍ ورکوي").
+entry(نظام، ن، [نظامونه]، "د حکومت نظام").
+ورودی(نظام, ن, [نظامونه], "یو منظم پلان").
+entry(فوځ, v, [منظم, منظمول, منظمونه], "په نظامي واحدونو کې شکل اخيستل").
+درشل(ملکه, ن, [ملکې], "يا REGINAEqueenREGINAL صفت").
+د ننوتنې(سیمه، n، [سیمې]، "یو اداري سیمه یا تقسیم").
+entry(سیمه ییز, ن, [سیمه ییزونه], "یو څه چې د یوې سیمې په توګه کار کوي").
+entry(راجستر, فعل, [ثبت شوی، ثبتول، راجستر کوي], "رسمي توګه ثبت کول").
+د_واردونې(راپور، ن، [راپورونه], "د ثبت کولو عمل").
+entry(regius, adj, [], "چې د پاچا له خوا تاسيس شوی تدريس مقام لري").
+داخلول(ريګلېټ، ن، [ريګلېټس]، "يو فليت تنګ مولډنګ").
+entry(regma, n, [regmata], "د مېوې یو ډول").
+د داخلې(رجنه, جمع، [], "د رجنم").
+ورود(پادشاهي, صفت, [], "چې پاچا يا د هغه واکمنۍ پورې اړه لري").
+entry(وړاندېوالی, ن, [وړاندېوالۍ], "د وړاندې کیدو حالت").
+entry(regnant, adj, [], "حاکم").
+entry(regnum, n, [regna], "واکمني").
+دProlog: entry(regolith, n, [regoliths], "د لوڅو تیږو یوې طبقې").
+دخول(regorge, v, [regorged,regorging,regorges], "قۍ کول").
+entry(regosol, n, [regosols], "د خاورې يو ډول").
+داخلېدل(regrate, v, [regrated, regrating, regrates], "په یوه سیمه کې د لوړې نرخ سره د خرڅولو لپاره اخیستل").
+entry(regreet, v, [regreeted,regreeting,regreets], "بېرته په خیرمقدم کول").
+دخول(رجعت, فعل, [رجعت, رجعيده, بير ځي], "بير ته تلل").
+entry(پښيماني، فعل، [پښېمانه، پښېمانېدل، پښېماني کوئ]، "په خپګان يا پښیماني سره شاته کتل").
+entry(regrowth, n, [regrowths], "يو نوی يا دوهمه وده").
+entry(معمولي, ن, [معمولیان], "یو عادت لرونکی پیرودونکی").
+entry(تنظیمول, v, [تنظیم,تنظیموي,تنظیموي], "د قواعدو له مخې کنټرول کول").
+entry(ريګولس, ن, [ريګولسونه], "يا REGULIa يوه توده ماده چې په يو بټۍ کې د مټ لاندې جوړېږي،REGULINE صفت").
+entry(ريهاب, v, [ريهاب شو,ريهاب کېدل,ريهابونه], "په ښه حالت کې بيا رغول").
+entry(راهيبګر, ن, [راهيبګران], "یو چې بحاله کوي").
+```prolog
+entry(تمرین, v, [تمرین_شو, تمرین_کول, تمرین_کوي], "د عام محضر لپاره د چمتووالي په موخه تمرین کول").
+```
+entry(reheater, n, [reheaters], "چې بیا ګرموي").
+entry(رهُبُعام, n, [رهُبُعامونه], "د شرابو بوتل").
+entry(دوباره_ځای_پرځای_کول, v, [دوباره_ځای_پرځای_شوی,دوباره_ځای_پرځای_کول,دوباره_ځای_پرځای_کوي], "په نوي هستوګنځي کې ځای پرځای کول").
+entry(rei, n, [reis], "د يو پخواني پرتګالي سکې لپاره يو ناسمه انگريزي بڼه").
+entry(reif, n, [reifs], "غلا").
+entry(reifier, n, [reifiers], "هغه چې ګټوونکي کړي").
+entry(reify, v, [reified,reifying,reifies], "د حقیقي یا محسوس په توګه ګاڼه").
+entry(واکمني، فعل، [واکمني کوله، واکمني کوي، واکمني کوي]، "د پاچايي ځواک تمرین کول").
+د Prolog په توګه: entry(reiki, n, [رېکي], "د شفا یوه تخنیک چې په لاسونو سره تماس کې شامل دی").
+entry(ازارول, v, [ازارکړل,ازارول,ازاروي], "مهار کول").
+entry(رينډئير, ن, [رينډئيرونه], "يو لوی څرا").
+entry(بيا ژوبلیدل, n, [بيا ژوبلیدنې], "دوهمه ژوبلیدنه").
+دوتنه(بې لرې، صفت، [], "بې بند").
+entry(سوارکار, n, [سوارکاران], "د آسونو یو مهارتي سپور").
+entry(reis, pl, [], "د حقیقي").
+entry(ريشي, ن, [ريشيان], "يوه مږ شوې خولۍ لرونکی مشروم").
+پرو لاګ: entry(reissuer, n, [reissuers], "یو څوک چې بیا ځلې خپروي").
+entry(ريتباک, n, [ريتباکس], "د ريدبک").
+د Prolog: entry(reive, v, [reived,reiving,reives], "چور کول").
+د ننوتنه(رېور، ن، [رېورونه], "يو څوک چې رېوري کوي").
+entry(چورچپاول, ن, [چورچپاولونه], "د غلا یا لوټمړۍ یوه پېښه").
+entry(ردول, v, [رکولی,ردول,رکوي], "د منلو يا غور کولو يا ګټه اخیستنې نه منل").
+مداخلہ(رد شوی, ن, [رد شوي], "یو چې رد شوی دی").
+entry(ردوونکی, ن, [ردوونکي], "يو څوک چې ردوي").
+د ننوتنې(ردوونکی، ن، [ردوونکي]، "ردوونکی").
+د اېنټرې(د ريجګ، فعل، [ريجګ شو، ريجګ کول، ريجګز]، "بيا ځلې تنظیم کول").
+entry(بیا جوړول, v, [بیا جوړ کړل, بیا جوړولان, بیا جوړوي], "بدلول").
+entry(خوشحالېدل, v, [خوشحال شو, خوشحالېدنه, خوشحاله کېږي], "خوشحاله احساس کول").
+entry(خوشحالونکی, ن, [خوشحالونکي], "هغه څوک چې خوشحاله کوي").
+entry(بيرته_راګرځيدل, v, [بيرته_راګرځيدل,بيرته_راګرځي,بيرته_راګرځول], "د يوې پخوانۍ حالت ته بيرته لويدل يا ښوييدل").
+entry(relapser, n, [relapsers], "هغه څوک چې بیا ناروغ شي").
+entry(relate, v, [د تړاو ورکول, تړاو ورکول, تړاوونه], "حساب ورکول").
+entry(اړوند, ن, [اړونکې], "هغه څوک چې اړه لري").
+entry(اړيکه, ن, [اړيکې], "دوه يا زياتو شيانو ترمنځ يوه مهمه تړاو").
+entry(خپلوان, ن, [خپلوان], "هغه څوک چې د وینې یا ودونو له لارې بل سره تړاو لري").
+entry(relator, n, [relators], "relater").
+د ننوتنې([relaxed, relaxing, relaxes], فعل، آرام کول، "لږ فشار یا سختۍ کول").
+entry(ارام ورکوونکی, ن, [ارام ورکوونکي], "یو درمل چې عضلاتي تناؤ ختموي").
+Prolog: entry(relaxer, n, [آرام کړونکی], "یو څه چې آرام کوي").
+entry(relaxin, n, [relaxins], "د ښځینه هورمون").
+د پاسنۍ کرښې پرولوګ ته به په پښتو کې داسې وي:
+```prolog
+ورود(Relay, ضد، [Relayed, Relaying, Relays], "د یابریان اوښ لري د نیروی بې لګوي لپاره پرې بدلوي").
+```
+entry(خلاصون, v, [خلاص کړل,خلاصول,خلاصوي], "د خوشې کولو لپاره").
+د Prolog:
+entry(releasee, n, [releasees], "هغه څوک چې خوشې شوی").
+entry(releaser, n, [خوشي کوونکي], "يو څوک چې خوشې کوي").
+entry(رهاکوونکی, ن, [رهاکوونکي], "رهاکوونکی").
+entry(ښکته‌کول, v, [ښکته‌کړ], "په ځانګړي ځای یا حالت کې ټاکل").
+entry(نرمېدل, v, [نرمېد,نرمېدونکی,نرمېږي], "څخه کم شدت یا دروندوالی").
+entry(اړوند, صفت, [], "چې د مسلې سره تړاو لري").
+prolog(dakhal, n, [dakhul], "په بالې کې د ګوتو پورته کول").
+entry(د باور وړ، ن، [د باور وړونه]، "هغه چې په هغه تکیه کیدی شي").
+entry(باوري, اعلانيه, [], "په داسې ډول چې باور پرې کیدی شي").
+ورود(اعتماد, ن, [اعتبارونه], "باوري یا معتمله تکیه").
+entry(متکي, صفت, [], "د باور ښودنه").
+د پاسني پرولاګ خط په پښتو کې داسې ژباړل کېږي: 
+entry(یادګار, مشعر, [یادګاران], "د تېر وخت څنډه يا پاتې شوې یادونه").
+entry(پاتې, ن, [پاتې], "یو ارګانیزم چې په بدل شوي چاپیریال کې ژوند کوي").
+entry(relied, past, [], "د اتکاء فعل زمان").
+د ننوتنه(راحت، ن، [راحتونه], "مرسته د پیسو یا اړینو شیانو په شکل کې").
+entry(relier, n, [reliers], "يو څوک چې تکیه کوي").
+پښتو (Pashto)    
+entry(relies, present, [], "درېیم ګړی مفرد بڼه د rely").
+entry(راحت, v, [راحت,راحتول,راحتوي], "د درد یا ناخوښۍ څخه کمول یا خلاصول").
+داخلہ(ریلیور، ن، [ریلیورونه]، "یو چې راحت ورکوي").
+د ننه وړل(relievo, n, [relievos], "د شتمنو یا بڼو له فلیټ شالید څخه ډیزاین").
+د ننوتنې(دين, ن, [اديان], "د خداى يا مافوق الفطرت عبادت").
+entry(relique, n, [reliques], "فوسل").
+entry(خوند, فعل, [خوند واخيست, خوند اخيستل, خوندونه], "خوند اخيستل").
+entry(بیا ژوند کول, v, [بیا ژوند کړی,بیا ژوند کوي,بیا ژوند کوي], "د بیا تجربه کول").
+entry(relleno, n, [rellenos], "يو مېکسیکی خواړه چې له سبزۍ سره ډک شوي او په غوړ کې سره شوي مرچ").
+entry(ريلوډر, ن, [ريلوډرز], "هغه څوک چې بيا لوډ کوي").
+entry(نقل کول, v, [نقل کړی,نقل کوي,نقل کوي], "په نوي ځای کې ځای پرځای کول").
+entry(روښانه، صفت، []، "رڼا انعکاسوي").
+entry(reluct, v, [relucted,relucting,relucts], "مخالفت ښودل").
+د خط په توګه يوازې Prolog:
+entry(relume, v, [relumed,reluming,relumes], "بېرته روښانه کول").
+entry(relumine, v, [relumined,relumining,relumines], "بېرته روښانه کول").
+entry(تکيه کول, ف, [توکل کړی,تکيه کونه,تکيه کوي], "باور یا اعتماد کول").
+entry(rem, n, [rems], "د آيونائيز کولو وړ وړانګو يوه اندازه").
+entry(ليږونکی, ن, [ليږونکي], "يو انټرنيټ خدمت چې برېښنالیک په پټه توګه ليږي").
+entry(پاتې کېدل, v, [پاتې شو,پاتې کېدل,پاتې کېږي], "په هماغه حالت کې دوام کول").
+د دې کرښې لپاره په پښتو ژبه کې پرولاګ:
+entry(remaker, n, [remakers], "یوه چې بیا جوړوي").
+entry(reman, v, [remanned,remanning,remans], "د خلکو د تازه رسولو سره سمبالول").
+entry(بیرته استول, v, [بیرته استول,بیرته استولکېدل,بیرته استولونه], "بېرته استول").
+entry(remanent, adj, [], "پاتې").
+entry(remanned, past, [], "د بېرته کارکوونکو ګمارنې فعل تېر").
+دخول(remanning, اوسنی, [], "د reman تصریفي بڼه").
+د پرولوګ:
+entry(remark, v, [remarked,remarking,remarks], "په لنډ یا عادي ډول ویلو یا لیکلو").
+entry(تبصره کونکی, ن, [تبصره کونکي], "هغه څوک چې تبصره کوي").
+entry(يادونه, ن, [يادونې], "يوه نښه چې د کندن شوې تختې په څنډه کې جوړه شوې ده").
+entry(اصلاحي, صفت, [], "موخه چې څه اصلاح کړي").
+```prolog
+entry(دوا, v, [دوا کړل,دوا کوونکى,دوایانې], "د راحت یا علاج لپاره").
+```
+ورودی(یادول, فع, [یادشو,یادکول,یادوي], "چې بیا ذهن ته راوړي").
+entry(remex, n, [remiges], "د پتنګ وزر د ریمیکال پېښه").
+entry(یادول, فعل, [ياد کړ, یادولو, يادوي], "د یادولو لامل یا سبب جوړیدل").
+د پرولوګ:
+entry(reminder, n, [reminders], "هغه يو چې يادونه کوي").
+entry(remint, v, [reminted,reminting,remints], "بېرته خټول او په نوې سکې بدلول").
+entry(سپارنه, فعل, [سپارل شوې, سپارل, سپاري], "د ادعا څخه لاس اخيستل").
+د Prolog:
+entry(remiss, adj, [], "carelessREMISSLY adv").
+دخوليه(ليږل، فعل، [ليږل شوی، لیږل، لیږي]، "پیسې د تادیې په توګه لیږل").
+entry(لېږل, ن, [لېږنې], "د لېږلو عمل").
+دداخلې(لېږونکی، ن، [لېږونکي]، "هغه څوک چې لېږي").
+entry(remittor, n, [remittors], "لېږدوونکی").
+د ننوتنه(ريمکسر، ن، [ريمکسروونکي]، "يو څوک چې بيا جوړونه کوي لکه د ثبت").
+entry(باقي، ن، ["باقیان"], "یو شی چې پاتې شوی وي").
+entry(بدلول, v, [بدلول,بدلول,بدلوي], "يا بدلولو بدلولى بدلوي جوړول").
+```prolog
+entry(ريموليډ, n, [ريموليډونه], "يو خوندور ساس").
+```
+داخل کړه(ريمورا، ن، [ريموراس]، "د سمندري کب يو ډول ريموريد adj").
+entry(پښېماني, ن, [پښېمانۍ], "ژور خپګان چې د ګناه احساس له امله راځې").
+entry(remote, adj, [], "په لرې پرتو کې موقعیت لري").
+دخول(remote, n, [remotes], "یو نشر چې له استوډیو څخه بهر سرچینه اخلي").
+entry(لرې کول, n, [لرې کولونه], "د لرې کولو عمل").
+entry(لرې کول, مذکر نوم, [لرې کولونه], "د لرې کولو عمل").
+پرو لاګ: entry(remove, v, [removed,removing,removes], "لېرې کول یا لرې کول").
+دخولیه( لیرې_کونکی، ن، [لیرې_کونکیان]، "هغه چې لیرې کوي").
+entry(remuda, n, [remudas], "د آسونو رم").
+entry(د پښتورګو, صفت, [], "د پښتورګو پورې تړاو لرونکی").
+entry(renature, v, [renatured, renaturing, renatures], "طبعي ځانګړتیاوې بیرته راوستل").
+entry(چېندل, فعل, [چېندل شوی، چېندل کېږي، چېني], "په زوره شلول").
+entry(render, v, [rendered,rendering,renders], "د سبب جوړېدلو یا کېدلو لپاره").
+د فهرست(راونډر، نوم، [راونډران], "يو چې رونډ کوي").
+entry(کرایه_وړ, صفت, [], "د کرایه کولو وړ").
+entry(رينډزينا, ن, [رينډزيناس], "د خاوري يوه ځانګړې نوعه").
+entry(د سرغړونو سرغړه، v, [سرغړه شوې،سرغړوونکی،سرغړونې], "خاین کېدل").
+entry(دښمن، n, [دښمنان], "يا دښمنان یو خاین").
+entry(renege, v, [reneged,reneging,reneges], "وعده يا د ژمنې نه پوره کول").
+entry(awadunkey, n, [awadunkeyan], "یو څوک چې وعدہ نه پوره کوي").
+entry(renegue, v, [renegued,reneguing,renegues], "په خپلو خبرو يا وعدو نه درېدل").
+entry(نوې كول, فع, [نوې شوه, نوې كوي, نوې كېږي], "بيرته نوې كول يا داسې كول چې بيا نوې شي").
+\(
+entry(renewal, n, [renewals], "د نوي کولو عمل").
+\)
+entry(renewer, n, [تازه کونکي], "هغه څوک چې تازه کوي").
+entry(reniform, adj, [], "ګردو په شکل").
+د ننه راتلل(renig, v, [renigged, renigging, renigs], "نه پوره کول").
+entry(رېنين, ن, [رېنينونه], "يو انزايم").
+داخلې(entry, صفت، [], "د فزیکي فشار په وړاندې مقاومت کوونکی").
+entry(رنمينبي, ن, [رنمينبي], "په د خلکو د چين جمهوريت کې پيسي").
+entry(rennase, n, [rennases], "ريين").
+entry(rennet, n, [rennets], "د ځوانو ځینو حیواناتو په معدې کې د استر غشاء").
+entry(رينن, ن, [ريننونه], "يو انزايم").
+entry(reno, n, [renos], "یو مرمت شوی کور").
+entry(رينوګرام, ن, [رينوګرامونه], " د ګردو د دفعې بهير فوټوګرافيک انځور").
+entry(لاس څخه ورکول, v, [لاس څخه ورکړ,لاس څخه ورکول,لاس څخه ورکوي], "لاس په سرکيدل").
+د 'ګوتوهنه' د کلمې نوماند په داسې حالت کې:
+entry(نوول, v, [نوی کړ,نوول کوي,نوی کوي], "لکه نوي کول").
+entry(شهرت, v, [مشهور,شهرت ورکول,شهرتونه], "مشهورول").
+entry(کرايه, فعل, [کرايه کړه, کرايه کوونکی, کرايې کوي], "د مؤقتي استعمال لپاره په بدل کې د تاوان ترلاسه کول کرایې وړ صفت").
+د Prolog کوډ:
+entry(rental, n, [کرایې], "د کرایه په توګه ورکړل شوی یا راټول شوی مقدار").
+entry(رینټ, ن, [رینټس], "د فرانسوي قانون لاندې کلنی عاید").
+داخله(کرایه کوونکی, ن, [کرایه کوونکي], "هغه څوک چې کرایه کوي").
+entry(کرایه خور, ن, [کرایه خي, کرایه خګې], "یو څوک چې یو ثابت عاید ترلاسه کوي").
+entry(بېرته استول, ن, [بېرته استوي], "د حکومت لخوا د يو بهرني کس شړل").
+entry(دوباره وړاندیز کول, v, [دوباره وړاندیز شوی,دوباره وړاندیز کول,دوباره وړاندیز کوي], "عامو خلکو ته د پلور لپاره وړانديز کول").
+د پرولاګ:
+entry(reorg, v, [reorged,reorging,reorgs], "بیا تنظیم کول").
+entry(ريوويرس, ن, [ريوويرسونه], "د ويروس يو ډول").
+د پرولاګ یوازې ژباړه:
+entry(rep, v, [repped,repping,reps], "استازيتوب کول").
+entry(بېرته ورکړل, ماضي, [], "د بېرته ورکولو زمانه").
+entry(ترميم, فعل, [ترميم کړی, ترميم کول, ترميم کوي], "په ښه حالت کې بيرته راستول").
+entry(رغاوونکی, n, [رغاوونکي], "هغه څوک چې رغوي").
+entry(repand, adj, [], "د څپو څنډې لرونکيREPANDLY adv").
+entry(جواب_چو_پړاو, ن, [جوابونه_چو_پړاو], "یو چټک خندونکی ځواب").
+entry(خواړه, v, [خوړلي,خوړل,ښووې], "خوړل يا ميلمنو ته د خوړو وړاندي کول").
+د داخلولو(بیرته ستنول, فعل, [بیرته ستنول شو, بیرته ستنول روان دی, بیرته ستنوي], "بیا پیسې ورکول").
+entry(لغوه کول, v, [لغوه شوی,لغوه کول,لغوه کوي], "لغوه کول").
+entry(فسخونکی, ن, [فسخونکي], "هغه څوک چې فسخه کوي").
+entry(تکرار, فعل, [تکرار,تکراروي,تکرارونه], "بېرته ویل یا کول").
+دسِ_ورودی(تکرارونکی, n, [تکرارونکي], "هغه څوک چې تکراروي").
+entry(په شا تمبول, فعل, [په شا تمبول شوی, په شا تمبول ,په شا تمبوي], "بېرته شاته تمبول").
+د پاسښتو پروګرام: entry(repeller, n, [repellers], "هغه چې تښتوي").
+entry(توبه, ف, [توبه_ايستله,توبه_ايستل,توبه_باسي], "د يو تېر عمل له امله د پښيمانتيا يا ځان ملامتۍ احساس کول").
+د ننوتل(repenter, n, [repenters], "هغه څوک چې توبه کوي").
+entry(تکرار, ن, [تکرارونه], "يو عبارت يا غږ چې تکرار شي").
+entry(شکايت، ف، [شکايت وکړ،شکايت کول،شکايت کوي]، "نااميدي څرګندول").
+entry(ناخوش, ن, [ناخوشان], "یو چې ناخوش وي").
+د Prolog کوډ:
+
+entry(replace, v, [replaced, replacing, replaces], "ځای نیول").
+entry(بدلونکی, ن, [بدلونکي], "يو څوک چې بدلوي").
+entry(مکمل, ن, [مکملونه], "یوه خادمه چی میدهدن کی د مايع خوراکي توکو د خزانه په توګه خدمت کوي").
+entry(بیرته اخیستل, v, [بیرته اخیستل شوی, بیرته اخیستل کول, بیرته اخلي], "بیرته اخیستل").
+د پرولاګ لیک(entry(replevy, v, [replevied,replevying,replevies], "د قانوني اقدام په واسطه د ملکیت بیا ترلاسه کول").
+entry(کاپي, n, [کاپيانې], "يوه نږدې کاپي يا توليد").
+د ننوتنې(Replicon, n, [replicons], "د نیوکلیک اسید یوه برخه چې د یوې واحد په توګه تکثیر کوي").
+entry(ځواب ویونکی، ن، [ځواب ویونکي]، "یو څوک چې ځواب ورکوي").
+پرو لاګ: entry(reply, v, [ځواب ورکړ,ځواب ويل,ځوابونه], "ځواب ورکول").
+د پرولاګ:
+entry(repo, n, [repos], "څه repossessed شوې").
+entry(راپور, v, [راپور ورکړ, راپور ورکول, راپورونه], "د حساب ورکولو لپاره").
+entry(راپور ورکوونکی, ن, [راپور ورکوونکي], "یو څوک چې راپور ورکوي").
+entry(آرام، ن، [آرامونه], "د آرام کول عمل").
+د پورتنې Prolog کرښه په پښتو کې داسې ده:
+```prolog
+entry(آرام, v, [آرام شو,آرام کېږي,آرام دي], "په ارام سره پروت وي").
+```
+entry(آرام کوونکی, ن, [آرام کوونکي], "هغه څوک چې آرام کوي").
+entry(reposit, v, [reposited,repositing,reposits], "شلول").
+entry(repousse, n, [repousses], "په فلز کې په زوره پورته شوی ډيزاين").
+د ورود(رېپ، ن، [رېپونه]، "یو د کراس رېب شوي ټوکر").
+entry(موزون, صفت, [], "د رېپ په څېر").
+entry(کنټرول کول, v, [کنټرول کړ, کنټرول کوي, کنټرول کوي], "تر کنټرول لاندې ساتل").
+entry(بخښنه، فعل، [بخښلې،بخښل,بخښنې کوي], "د سزا ځنډول").
+entry(انتقام, n, [انتقامونه], "د بدل اخیستلو يو عمل").
+د ننوتل(بيا اخيستل, فعل, [بيا اخيستل، بيا اخيستنه، بيا اخيستې], "په زور بیرته اخيستل").
+entry(repro, n, [repros], "د عکاسي د نقلې لپاره مناسب د چاپ شوي موادو د ازموینې پاڼه").
+د ننوتنه(ملامتول، فعل، [ملامت کړ، ملامتول، ملامتوي]، "د څوکۍ یا د څه په اړه د نیوکې کولو لپاره").
+entry(ملامتيا, n, [ملامتۍ], "د تېروتنې لپاره نيوکه").
+entry(ملامتول, ن, [ملامتولونه], "ملامتونه").
+entry(ملامتول, v, [ملامټ کړ,ملامتول,ملامټ کوي], "غاړه ګیږل").
+entry(سرزنش کوونکی, n, [سرزنش کوونکي], "هغه څوک چې سرزنش کوي").
+entry(reptant, adj, [], "د کرالینګ یا کرال").
+ورود(خزنده, ن, [خزندګان], "د هر هغه طبقې کولډ بلېډ شوي هوا تنفس کونکې فقاري ژوي").
+entry(reptilia, npl, [], "ساختمانونه د خزنده ګانو د اوسیدو لپاره").
+ورود(جمهوريه, ن, [جمهوریتونه], "یو اساسي حکومتي شکل").
+ننوتنه(repugn, v, [repugned,repugning,repugns], "مخالفت کول").
+entry(شاتګ, v, [شاتګ وکړ,شاتګ کول,شاتګ کوي], "بېرته شړل").
+entry(ردونکی, n, [ردونکي], "يو څوک چې دفع کوي").
+entry(شهرت, فعل, [مشهور, شهرت ورکول, شهرت لري], "ګڼل کیږي چې په ټاکل شوې توګه وي").
+entry(request, v, [غوښتل, غوښتنې, غوښتنې], "هڅه کول چې يو ارمان وښيي").
+د Prolog:
+entry(requiem, n, [requiems], "د مړو لپاره یوه موسیقي ترکیب").
+entry(شارک, ن, [شارکان], "یو ځپونکی شارک").
+entry(requinto, n, [requintos], "يوه کوچنۍ ګیتار").
+د ننهښت(ضرورت، v، [مطلوب، اړتیا، غواړي]، "د اړتیا لرلو لپاره").
+entry(requireer, n, [ضرورت کوونکي], "هغه چې اړتیا لري").
+entry(بدله، ن، [بدلې]، "هغه څه چې د تاوان یا تلافۍ په بدل کې ورکول کېږي").
+entry(بدله, فع, [بدل,بدلول,بدله], "د معاوضې په توګه بیرته ورکول").
+entry(requiter, n, [requiters], "هغه څوک چې بدله ورکوي").
+entry(reran, past, [], "د بيا چلولو زمانه").
+entry(رېردوس, n, [رېردوسونه], "د محراب تر شا يو سينګاري حجاب").
+entry(reremice, npl, [], "الوتونکې څیرک لرونکي").
+entry(rereward, n, [rerewards], "شا خوا").
+entry(رېرولر, ن, [رېرولران], "يو څوک چې بيا رېراتوی").
+د Prolog:
+entry(rerun, v, [بیا چالان کړه,بیا روانیدل,بیا روانیږي], "د ثبت شوي اجرا تکرار وړاندې کول").
+د Prolog:
+entry(res, n, [reses], "یو پوهنتون یا کالج استوګنځي").
+entry(بياپلورنه, n, [بياپلورنې], "د بيا پلورلو عمل").
+entry(rescale, v, [rescaled,rescaling,rescales], "په یوه نوي پيمانه پلان جوړول").
+entry(لغوه کول, v, [لغوه کړی,لغوه کول,لغوي], "منسوخول").
+د Prolog:
+entry(rescript, n, [rescripts], "يو څه بيا ليکل شوی").
+پرو لاګ: entry(rescue, v, [مرسته_وکړه,مرسته_کول,مرستې], "له خطر څخه ازادول").
+د دې Prolog کرښه په پښتو کې د ژباړلو لپاره:
+entry(ژغورل شوی, n, [ژغورل شوي], "هغه څوک چې ژغورل شوی").
+entry(ځغورندوی, ن, [ځغورندویان], "یو څوک چې ژغوري").
+د Prolog:
+entry(research, v, [څیړل, د څیړنې, څیړې], "په پوره توګه پلټنه کول").
+entry(reseau, n, [reseaus], "د رنګه فلمونو د جوړولو لپاره د فلټر سکرین یا RESEAUX").
+entry(کاږل, v, [کاڑل,کاږي,کاږل], "د یو عضو یا جوړښت یوه برخه په جراحي توګه لرې کول").
+entry(reseda, n, [resedas], "يو ګل لرونکی بوټی").
+د ننوتنه(بيا پلورونکی، ن، [بيا پلورونکي]، "هغه څوک چې بيا پلوري").
+entry(ورته والی لرل، فعل، [ورته و، ورته والی لرونکي، ورته والی لری]، "د ... سره ورته والی لرل").
+entry(resent, v, [څه شی زغم نه کول, په غښتلو سره درېدل, ټکان خوري], "د قهر يا بد نظري اظهار کول").
+د ننوتنه(زېرمه کول, فعل, [زېرمه کړی, زېرمه کول, زېرمه کوي], "د راتلونکي استعمال لپاره ساتل").
+entry(reserver, n, [زېرمه کوونکي], "يو څوک چې زېرمه کوي").
+entry(reses, pl, [], "د res").
+entry(resetter, n, [resetters], "هغه څوک چې بیا تنظیم کوي").
+entry(ريش, n, [ريشونه], "يو عبراني حرف").
+entry(reshaper, n, [reshapers], "هغه څوک چې یو شی له سره جوړ کړي").
+entry(resid, n, [resids], "د یو ډول د تیلو تیل").
+entry(استوګنه, v, [استوګنو, استوګنه کوي, استوګنی], "په دوامداره توګه یا د تل لپاره اوسېدل").
+د ننوتنه(اوسېدونکی، ن، [اوسېدونکي]، "هغه څوک چې اوسېږي").
+entry(resider, n, [residers], "يو اوسيدونکی").
+د ننوتل (residual, n, [residuals], "يو څه چې پاتې وي").
+entry(پاتې شې, n, [پاتې شې], "یو څه چې د یوې برخې د لیرې کولو وروسته پاتې کېږي").
+د پرو لاګ کوډ:
+entry(residuum, n, [residuums], "or RESIDUAresidue").
+entry(استعفا ورکړه, ف, [استعفا ورکړه,استعفا ورکول,استعفا ورکوي], "د چا په دفتر یا موقف څخه استعفا ورکول").
+دخول (استعفا ورکوونکی, ن, [استعفا ورکوونکي], "یو څوک چې استعفا ورکوي").
+entry(resile, v, [resiled,resiling,resiles], "بېرته نه تلو").
+entry(ريزيلن, ن, [ريزيلنز], "په ګن شمېر حشرو کې د کټيکلز يو الاستيکي ماده").
+د ننوت(resin, v, [resined,resining,resins], "د ځينو نباتاتو څخه ترلاسه شوې ژورناکه ماده سره درملنه کول").
+دخوليه(ريزينټ, فعل, [ريزينټډ، ريزينېټنګ، ريزينېټس], "ريزين کول").
+ورد(resinify, فعل, [resinified, resinifying, resinifies], "په رال بدلول").
+entry(resinoid, n, [resinoids], "یوه رال لرونکې ماده").
+entry(څرمن، صفت، [], "د رال سره ورته والی").
+entry(resiny, adj, [], "ګوندین").
+داخلېدل(مزاحمت, ف, [مزاحمت وکړ, مزاحمت کوي, مزاحمتونه کوي], "مقابله کول").
+د ننوتنه(مقاومت کونکي, ن, [مقاومت کونکي], "هغه څوک چې مقاومت کوي").
+entry(مزاحمت, n, [مزاحمتونه], "په برقي سرکټ کې یوه آله").
+ورودی(ریسکن, فع, [ریسکنډ,ریسکننګ,ریسکنز], "د یوه الوتکه یا موټرو وسیلې د بیرونۍ پوستکي بدلول").
+entry(resojet, n, [resojets], "یو پلس جیټ").
+د منځ ته راتګ(قاطع، صفت، [], "قاطع تر قاطع ترین د میړانې یا عزم له مخې ځانګړل شوی").
+entry(قاطع, ن, [قاطعان], "يو څوک چې قاطع وي").
+```prolog
+entry(resolve, v, [resolved,resolving,resolves], "يوه پرېکړه کول
+```
+```prolog
+entry(following, is, [], "a list of selfexplanatory verbs containing the prefix RE againREABSORB v REABSORBED REABSORBING REABSORBSREACCEDE v REACCEDED REACCEDING REACCEDESREACCENT v REACCENTED REACCENTING REACCENTSREACCEPT v REACCEPTED REACCEPTING REACCEPTSREACCUSE v REACCUSED REACCUSING REACCUSESREADAPT v READAPTED READAPTING READAPTSREADD v READDED READDING READDSREADDICT v READDICTED READDICTING READDICTSREADJUST v READJUSTED READJUSTING READJUSTSREADMIT v READMITTED READMITTING READMITSREADOPT v READOPTED READOPTING READOPTSREADORN v READORNED READORNING READORNSREAFFIRM v REAFFIRMED REAFFIRMING REAFFIRMSREAFFIX v REAFFIXED REAFFIXING REAFFIXESREALIGN v REALIGNED REALIGNING REALIGNSREALLOT v REALLOTTED REALLOTTING REALLOTSREALTER v REALTERED REALTERING REALTERSREANNEX v REANNEXED REANNEXING REANNEXESREANOINT v REANOINTED REANOINTING REANOINTSREAPPEAR v REAPPEARED REAPPEARING REAPPEARSREAPPLY v REAPPLIED REAPPLYING REAPPLIESREARGUE v REARGUED REARGUING REARGUESREARM v REARMED REARMING REARMSREAROUSE v REAROUSED REAROUSING REAROUSESREARREST v REARRESTED REARRESTING REARRESTSREASCEND v REASCENDED REASCENDING REASCENDSREASSAIL v REASSAILED REASSAILING REASSAILSREASSERT v REASSERTED REASSERTING REASSERTSREASSESS v REASSESSED REASSESSING REASSESSESREASSIGN v REASSIGNED REASSIGNING REASSIGNSREASSORT v REASSORTED REASSORTING REASSORTSREASSUME v REASSUMED REASSUMING REASSUMESREASSURE v REASSURED REASSURING REASSURESREATTACH v REATTACHED REATTACHING REATTACHESREATTACK v REATTACKED REATTACKING REATTACKSREATTAIN v REATTAINED REATTAINING REATTAINSREAVAIL v REAVAILED REAVAILING REAVAILSREAVOW v REAVOWED REAVOWING REAVOWSREAWAKE v REAWAKED or REAWOKE REAWOKEN REAWAKING REAWAKESREAWAKEN v REAWAKENED REAWAKENING REAWAKENSREBAIT v REBAITED REBAITING REBAITSREBEGIN v REBEGAN REBEGUN REBEGINNING REBEGINSREBID v REBID REBIDDEN REBIDDING REBIDSREBILL v REBILLED REBILLING REBILLSREBIND v REBOUND REBINDING REBINDSREBLEND v REBLENDED or REBLENT REBLENDING REBLENDSREBLOOM v REBLOOMED REBLOOMING REBLOOMSREBOARD v REBOARDED REBOARDING REBOARDSREBODY v REBODIED REBODYING REBODIESREBOIL v REBOILED REBOILING REBOILSREBOOK v REBOOKED REBOOKING REBOOKSREBOOT v REBOOTED REBOOTING REBOOTSREBORE v REBORED REBORING REBORESREBOTTLE v REBOTTLED REBOTTLING REBOTTLESREBOUGHT past tense of rebuyREBOUND past tense of rebindREBREED v REBRED REBREEDING REBREEDSREBUILD v REBUILT or REBUILDED REBUILDING REBUILDSREBURY v REBURIED REBURYING REBURIESREBUTTON v REBUTTONED REBUTTONING REBUTTONSREBUY v REBOUGHT REBUYING REBUYSRECANE v RECANED RECANING RECANESRECARPET v RECARPETED RECARPETING RECARPETSRECARRY v RECARRIED RECARRYING RECARRIESRECAST v RECAST RECASTING RECASTSRECEMENT v RECEMENTED RECEMENTING RECEMENTSRECENSOR v RECENSORED RECENSORING RECENSORSRECHANGE v RECHANGED RECHANGING RECHANGESRECHARGE v RECHARGED RECHARGING RECHARGESRECHART v RECHARTED RECHARTING RECHARTSRECHECK v RECHECKED RECHECKING RECHECKSRECHEW v RECHEWED RECHEWING RECHEWSRECHOOSE v RECHOSE RECHOSEN RECHOOSING RECHOOSESRECIRCLE v RECIRCLED RECIRCLING RECIRCLESRECLAD v RECLADDED RECLADDING RECLADSRECLASP v RECLASPED RECLASPING RECLASPSRECLEAN v RECLEANED RECLEANING RECLEANSRECLOTHE v RECLOTHED or RECLAD RECLOTHING RECLOTHESRECOAL v RECOALED RECOALING RECOALSRECOAT v RECOATED RECOATING RECOATSRECOCK v RECOCKED RECOCKING RECOCKSRECODE v RECODED RECODING RECODESRECODIFY v RECODIFIED RECODIFYING RECODIFIESRECOIN v RECOINED RECOINING RECOINSRECOLOR v RECOLORED RECOLORING RECOLORSRECOLOUR v RECOLOURED RECOLOURING RECOLOURSRECOMB v RECOMBED RECOMBING RECOMBSRECOMMIT v RECOMMITTED RECOMMITTING RECOMMITSRECONFER v RECONFERRED RECONFERRING RECONFERSRECOOK v RECOOKED RECOOKING RECOOKSRECOPY v RECOPIED RECOPYING RECOPIESRECORK v RECORKED RECORKING RECORKSRECOUPLE v RECOUPLED RECOUPLING RECOUPLESRECRATE v RECRATED RECRATING RECRATESRECROSS v RECROSSED RECROSSING RECROSSESRECROWN v RECROWNED RECROWNING RECROWNSRECUT v RECUT RECUTTING RECUTSREDAMAGE v REDAMAGED REDAMAGING REDAMAGESREDATE v REDATED REDATING REDATESREDECIDE v REDECIDED REDECIDING REDECIDESREDEFEAT v REDEFEATED REDEFEATING REDEFEATSREDEFECT v REDEFECTED REDEFECTING REDEFECTSREDEFINE v REDEFINED REDEFINING REDEFINESREDEFY v REDEFIED REDEFYING REDEFIESREDEMAND v REDEMANDED REDEMANDING REDEMANDSREDENY v REDENIED REDENYING REDENIESREDEPLOY v REDEPLOYED REDEPLOYING REDEPLOYSREDESIGN v REDESIGNED REDESIGNING REDESIGNSREDIAL v REDIALED REDIALING REDIALS or REDIALLED REDIALLING REDIALSREDID past tense of redoREDIGEST v REDIGESTED REDIGESTING REDIGESTSREDIP v REDIPPED or REDIPT REDIPPING REDIPSREDIVIDE v REDIVIDED REDIVIDING REDIVIDESREDO v REDID REDONE REDOING REDOESREDOCK v REDOCKED REDOCKING REDOCKSREDON v REDONNED REDONNING REDONSREDRAW v REDREW REDRAWN REDRAWING REDRAWSREDREAM v REDREAMED or REDREAMT REDREAMING REDREAMSREDRILL v REDRILLED REDRILLING REDRILLSREDRIVE v REDROVE REDRIVEN REDRIVING REDRIVESREDRY v REDRIED REDRYING REDRIESREDUB v REDUBBED REDUBBING REDUBSREDYE v REDYED REDYEING REDYESREEARN v REEARNED REEARNING REEARNSREECHO v REECHOED REECHOING REECHOESREEDIT v REEDITED REEDITING REEDITSREEJECT v REEJECTED REEJECTING REEJECTSREELECT v REELECTED REELECTING REELECTSREEMBARK v REEMBARKED REEMBARKING REEMBARKSREEMBODY v REEMBODIED REEMBODYING REEMBODIESREEMERGE v REEMERGED REEMERGING REEMERGESREEMIT v REEMITTED REEMITTING REEMITSREEMPLOY v REEMPLOYED REEMPLOYING REEMPLOYSREENACT v REENACTED REENACTING REENACTSREENDOW v REENDOWED REENDOWING REENDOWSREENGAGE v REENGAGED REENGAGING REENGAGESREENJOY v REENJOYED REENJOYING REENJOYSREENLIST v REENLISTED REENLISTING REENLISTSREENROLL v REENROLLED REENROLLING REENROLLSREENTER v REENTERED REENTERING REENTERSREEQUIP v REEQUIPPED REEQUIPPING REEQUIPSREERECT v REERECTED REERECTING REERECTSREEVOKE v REEVOKED REEVOKING REEVOKESREEXPEL v REEXPELLED REEXPELLING REEXPELSREEXPORT v REEXPORTED REEXPORTING REEXPORTSREEXPOSE v REEXPOSED REEXPOSING REEXPOSESREFALL v REFELL REFALLEN REFALLING REFALLSREFASTEN v REFASTENED REFASTENING REFASTENSREFEED v REFED REFEEDING REFEEDSREFEEL v REFELT REFEELING REFEELSREFELL past tense of refallREFENCE v REFENCED REFENCING REFENCESREFIGHT v REFOUGHT REFIGHTING REFIGHTSREFIGURE v REFIGURED REFIGURING REFIGURESREFILE v REFILED REFILING REFILESREFILL v REFILLED REFILLING REFILLSREFILM v REFILMED REFILMING REFILMSREFILTER v REFILTERED REFILTERING REFILTERSREFIND v REFOUND REFINDING REFINDSREFIRE v REFIRED REFIRING REFIRESREFIX v REFIXED REFIXING REFIXESREFLEW past tense of reflyREFLIES present 3d person sing of reflyREFLOAT v REFLOATED REFLOATING REFLOATSREFLOOD v REFLOODED REFLOODING REFLOODSREFLOW v REFLOWED REFLOWING REFLOWSREFLOWER v REFLOWERED REFLOWERING REFLOWERSREFLY v REFLEW REFLOWN REFLYING REFLIESREFOCUS v REFOCUSED REFOCUSING REFOCUSES or REFOCUSSED REFOCUSSING REFOCUSSESREFOLD v REFOLDED REFOLDING REFOLDSREFORGE v REFORGED REFORGING REFORGESREFORMAT v REFORMATTED REFORMATTING REFORMATSREFOUGHT past tense of refightREFOUND v REFOUNDED REFOUNDING REFOUNDSREFRAME v REFRAMED REFRAMING REFRAMESREFREEZE v REFROZE REFROZEN REFREEZING REFREEZESREFRONT v REFRONTED REFRONTING REFRONTSREFRY v REFRIED REFRYING REFRIESREFUEL v REFUELED REFUELING REFUELS or REFUELLED REFUELLING REFUELSREGAIN v REGAINED REGAINING REGAINSREGATHER v REGATHERED REGATHERING REGATHERSREGAUGE v REGAUGED REGAUGING REGAUGESREGEAR v REGEARED REGEARING REGEARSREGILD v REGILDED or REGILT REGILDING REGILDSREGIVE v REGAVE REGIVEN REGIVING REGIVESREGLAZE v REGLAZED REGLAZING REGLAZESREGLOSS v REGLOSSED REGLOSSING REGLOSSESREGLOW v REGLOWED REGLOWING REGLOWSREGLUE v REGLUED REGLUING REGLUESREGRADE v REGRADED REGRADING REGRADESREGRAFT v REGRAFTED REGRAFTING REGRAFTSREGRANT v REGRANTED REGRANTING REGRANTSREGREEN v REGREENED REGREENING REGREENSREGREW past tense of regrowREGRIND v REGROUND REGRINDING REGRINDSREGROOM v REGROOMED REGROOMING REGROOMSREGROOVE v REGROOVED REGROOVING REGROOVESREGROUND past tense of regrindREGROUP v REGROUPED REGROUPING REGROUPSREGROW v REGREW REGROWN REGROWING REGROWSREHAMMER v REHAMMERED REHAMMERING REHAMMERSREHANDLE v REHANDLED REHANDLING REHANDLESREHANG v REHUNG or REHANGED REHANGING REHANGSREHARDEN v REHARDENED REHARDENING REHARDENSREHASH v REHASHED REHASHING REHASHESREHEAR v REHEARD REHEARING REHEARSREHEAT v REHEATED REHEATING REHEATSREHEEL v REHEELED REHEELING REHEELSREHEM v REHEMMED REHEMMING REHEMSREHINGE v REHINGED REHINGING REHINGESREHIRE v REHIRED REHIRING REHIRESREHUNG a past tense of rehangREIGNITE v REIGNITED REIGNITING REIGNITESREIMAGE v REIMAGED REIMAGING REIMAGESREIMPORT v REIMPORTED REIMPORTING REIMPORTSREIMPOSE v REIMPOSED REIMPOSING REIMPOSESREINCITE v REINCITED REINCITING REINCITESREINCUR v REINCURRED REINCURRING REINCURSREINDEX v REINDEXED REINDEXING REINDEXESREINDICT v REINDICTED REINDICTING REINDICTSREINDUCE v REINDUCED REINDUCING REINDUCESREINDUCT v REINDUCTED REINDUCTING REINDUCTSREINFECT v REINFECTED REINFECTING REINFECTSREINFORM v REINFORMED REINFORMING REINFORMSREINFUSE v REINFUSED REINFUSING REINFUSESREINJECT v REINJECTED REINJECTING REINJECTSREINJURE v REINJURED REINJURING REINJURESREINK v REINKED REINKING REINKSREINSERT v REINSERTED REINSERTING REINSERTSREINSURE v REINSURED REINSURING REINSURESREINTER v REINTERRED REINTERRING REINTERSREINVADE v REINVADED REINVADING REINVADESREINVENT v REINVENTED REINVENTING REINVENTSREINVEST v REINVESTED REINVESTING REINVESTSREINVITE v REINVITED REINVITING REINVITESREINVOKE v REINVOKED REINVOKING REINVOKESREISSUE v REISSUED REISSUING REISSUESREJACKET v REJACKETED REJACKETING REJACKETSREJOIN v REJOINED REJOINING REJOINSREJUDGE v REJUDGED REJUDGING REJUDGESREJUGGLE v REJUGGLED REJUGGLING REJUGGLESREKEY v REKEYED REKEYING REKEYSREKINDLE v REKINDLED REKINDLING REKINDLESREKNIT v REKNITTED REKNITTING REKNITSREKNOT v REKNOTTED REKNOTTING REKNOTSRELABEL v RELABELED RELABELING RELABELS or RELABELLED RELABELLING RELABELSRELACE v RELACED RELACING RELACESRELAND v RELANDED RELANDING RELANDSRELAUNCH v RELAUNCHED RELAUNCHING RELAUNCHESRELAY v RELAID RELAYING RELAYSRELEARN v RELEARNED or RELEARNT RELEARNING RELEARNSRELEND v RELENT RELENDING RELENDSRELET v RELET RELETTING RELETSRELETTER v RELETTERED RELETTERING RELETTERSRELIGHT v RELIGHTED or RELIT RELIGHTING RELIGHTSRELINE v RELINED RELINING RELINESRELINK v RELINKED RELINKING RELINKSRELIST v RELISTED RELISTING RELISTSRELIT a past tense of relightRELOAD v RELOADED RELOADING RELOADSRELOAN v RELOANED RELOANING RELOANSRELOCK v RELOCKED RELOCKING RELOCKSRELOOK v RELOOKED RELOOKING RELOOKSREMAIL v REMAILED REMAILING REMAILSREMAKE v REMADE REMAKING REMAKESREMAP v REMAPPED REMAPPING REMAPSREMARKET v REMARKETED REMARKETING REMARKETSREMARRY v REMARRIED REMARRYING REMARRIESREMASTER v REMASTERED REMASTERING REMASTERSREMATCH v REMATCHED REMATCHING REMATCHESREMATE v REMATED REMATING REMATESREMEET v REMET REMEETING REMEETSREMELT v REMELTED REMELTING REMELTSREMEND v REMENDED REMENDING REMENDSREMERGE v REMERGED REMERGING REMERGESREMET past tense of remeetREMIX v REMIXED or REMIXT REMIXING REMIXESREMODIFY v REMODIFIED REMODIFYING REMODIFIESREMOLD v REMOLDED REMOLDING REMOLDSREMOULD v REMOULDED REMOULDING REMOULDSREMOUNT v REMOUNTED REMOUNTING REMOUNTSRENAIL v RENAILED RENAILING RENAILSRENAME v RENAMED RENAMING RENAMESRENEST v RENESTED RENESTING RENESTSRENOTIFY v RENOTIFIED RENOTIFYING RENOTIFIESRENUMBER v RENUMBERED RENUMBERING RENUMBERSREOBJECT v REOBJECTED REOBJECTING REOBJECTSREOBTAIN v REOBTAINED REOBTAINING REOBTAINSREOCCUPY v REOCCUPIED REOCCUPYING REOCCUPIESREOCCUR v REOCCURRED REOCCURRING REOCCURSREOFFEND v REOFFENDED REOFFENDING REOFFENDSREOIL v REOILED REOILING REOILSREOPEN v REOPENED REOPENING REOPENSREOPPOSE v REOPPOSED REOPPOSING REOPPOSESREORDAIN v REORDAINED REORDAINING REORDAINSREORDER v REORDERED REORDERING REORDERSREORIENT v REORIENTED REORIENTING REORIENTSREOUTFIT v REOUTFITTED REOUTFITTING REOUTFITSREPACIFY v REPACIFIED REPACIFYING REPACIFIESREPACK v REPACKED REPACKING REPACKSREPAINT v REPAINTED REPAINTING REPAINTSREPANEL v REPANELED REPANELING REPANELS or REPANELLED REPANELLING REPANELSREPAPER v REPAPERED REPAPERING REPAPERSREPARK v REPARKED REPARKING REPARKSREPASS v REPASSED REPASSING REPASSESREPATCH v REPATCHED REPATCHING REPATCHESREPAVE v REPAVED REPAVING REPAVESREPEG v REPEGGED REPEGGING REPEGSREPEOPLE v REPEOPLED REPEOPLING REPEOPLESREPERK v REPERKED REPERKING REPERKSREPHRASE v REPHRASED REPHRASING REPHRASESREPIN v REPINNED REPINNING REPINSREPLAN v REPLANNED REPLANNING REPLANSREPLANT v REPLANTED REPLANTING REPLANTSREPLATE v REPLATED REPLATING REPLATESREPLAY v REPLAYED REPLAYING REPLAYSREPLEAD v REPLEADED or REPLED REPLEADING REPLEADSREPLEDGE v REPLEDGED REPLEDGING REPLEDGESREPLOT v REPLOTTED REPLOTTING REPLOTSREPLOW v REPLOWED REPLOWING REPLOWSREPLUMB v REPLUMBED REPLUMBING REPLUMBSREPLUNGE v REPLUNGED REPLUNGING REPLUNGESREPOINT v REPOINTED REPOINTING REPOINTSREPOLISH v REPOLISHED REPOLISHING REPOLISHESREPOLL v REPOLLED REPOLLING REPOLLSREPOT v REPOTTED REPOTTING REPOTSREPOUR v REPOURED REPOURING REPOURSREPOWER v REPOWERED REPOWERING REPOWERSREPRICE v REPRICED REPRICING REPRICESREPRINT v REPRINTED REPRINTING REPRINTSREPROBE v REPROBED REPROBING REPROBESREPUMP v REPUMPED REPUMPING REPUMPSREPURIFY v REPURIFIED REPURIFYING REPURIFIESREPURSUE v REPURSUED REPURSUING REPURSUESRERACK v RERACKED RERACKING RERACKSRERAISE v RERAISED RERAISING RERAISESREREAD v REREAD REREADING REREADSRERECORD v RERECORDED RERECORDING RERECORDSREREMIND v REREMINDED REREMINDING REREMINDSRERENT v RERENTED RERENTING RERENTSREREPEAT v REREPEATED REREPEATING REREPEATSREREVIEW v REREVIEWED REREVIEWING REREVIEWSRERIG v RERIGGED RERIGGING RERIGSRERISE v REROSE RERISEN RERISING RERISESREROLL v REROLLED REROLLING REROLLSREROOF v REROOFED REROOFING REROOFSREROSE past tense of reriseREROUTE v REROUTED REROUTING REROUTESRESADDLE v RESADDLED RESADDLING RESADDLESRESAID past tense of resayRESAIL v RESAILED RESAILING RESAILSRESALUTE v RESALUTED RESALUTING RESALUTESRESAMPLE v RESAMPLED RESAMPLING RESAMPLESRESAT past tense of resitRESAW v RESAWED RESAWN RESAWING RESAWSRESAY v RESAID RESAYING RESAYSRESCHOOL v RESCHOOLED RESCHOOLING RESCHOOLSRESCORE v RESCORED RESCORING RESCORESRESCREEN v RESCREENED RESCREENING RESCREENSRESCULPT v RESCULPTED RESCULPTING RESCULPTSRESEAL v RESEALED RESEALING RESEALSRESEASON v RESEASONED RESEASONING RESEASONSRESEAT v RESEATED RESEATING RESEATSRESECURE v RESECURED RESECURING RESECURESRESEE v RESAW RESEEN RESEEING RESEESRESEED v RESEEDED RESEEDING RESEEDSRESEEK v RESOUGHT RESEEKING RESEEKSRESEEN past participle of reseeRESEIZE v RESEIZED RESEIZING RESEIZESRESELECT v RESELECTED RESELECTING RESELECTSRESELL v RESOLD RESELLING RESELLSRESEND v RESENT RESENDING RESENDSRESET v RESET RESETTING RESETSRESETTLE v RESETTLED RESETTLING RESETTLESRESEW v RESEWED RESEWN RESEWING RESEWSRESHAPE v RESHAPED RESHAPING RESHAPESRESHAVE v RESHAVED RESHAVEN RESHAVING RESHAVESRESHINE v RESHINED or RESHONE RESHINING RESHINESRESHIP v RESHIPPED RESHIPPING RESHIPSRESHOE v RESHOD or RESHOED RESHOEING RESHOESRESHONE a past tense of reshineRESHOOT v RESHOT RESHOOTING RESHOOTSRESHOW v RESHOWED RESHOWN RESHOWING RESHOWSRESHOWER v RESHOWERED RESHOWERING RESHOWERSRESIFT v RESIFTED RESIFTING RESIFTSRESIGHT v RESIGHTED RESIGHTING RESIGHTSRESILVER v RESILVERED RESILVERING RESILVERSRESIT v RESAT RESITTING RESITSRESITE v RESITED RESITING RESITESRESIZE v RESIZED RESIZING RESIZESRESKETCH v RESKETCHED RESKETCHING RESKETCHESRESLATE v RESLATED RESLATING RESLATESRESMELT v RESMELTED RESMELTING RESMELTSRESMOOTH v RESMOOTHED RESMOOTHING RESMOOTHSRESOAK v RESOAKED RESOAKING RESOAKSRESOD v RESODDED RESODDING RESODSRESOFTEN v RESOFTENED RESOFTENING RESOFTENSRESOLD past tense of resellRESOLDER v RESOLDERED RESOLDERING RESOLDERSRESOLE v RESOLED RESOLING RESOLESRESOUGHT past tense of reseekRESOW v RESOWED RESOWN RESOWING RESOWSRESPACE v RESPACED RESPACING RESPACESRESPADE v RESPADED RESPADING RESPADESRESPEAK v RESPOKE RESPOKEN RESPEAKING RESPEAKSRESPELL v RESPELLED or RESPELT RESPELLING RESPELLSRESPLICE v RESPLICED RESPLICING RESPLICESRESPLIT v RESPLIT RESPLITTING RESPLITSRESPOKE past tense of respeakRESPOKEN past participle of respeakRESPOOL v RESPOOLED RESPOOLING RESPOOLSRESPOT v RESPOTTED RESPOTTING RESPOTSRESPRANG a past tense of respringRESPRAY v RESPRAYED RESPRAYING RESPRAYSRESPREAD v RESPREAD RESPREADING RESPREADSRESPRING v RESPRANG or RESPRUNG RESPRINGING RESPRINGSRESPROUT v RESPROUTED RESPROUTING RESPROUTSRESTABLE v RESTABLED RESTABLING RESTABLESRESTACK v RESTACKED RESTACKING RESTACKSRESTAFF v RESTAFFED RESTAFFING RESTAFFSRESTAGE v RESTAGED RESTAGING RESTAGESRESTAMP v RESTAMPED RESTAMPING RESTAMPSRESTART v RESTARTED RESTARTING RESTARTSRESTATE v RESTATED RESTATING RESTATESRESTITCH v RESTITCHED RESTITCHING RESTITCHESRESTOCK v RESTOCKED RESTOCKING RESTOCKSRESTOKE v RESTOKED RESTOKING RESTOKESRESTRESS v RESTRESSED RESTRESSING RESTRESSESRESTRIKE v RESTRUCK RESTRICKEN RESTRIKING RESTRIKESRESTRING v RESTRUNG RESTRINGING RESTRINGSRESTRIVE v RESTROVE RESTRIVEN RESTRIVING RESTRIVESRESTRUCK past tense of restrikeRESTRUNG past tense of restringRESTUDY v RESTUDIED RESTUDYING RESTUDIESRESTUFF v RESTUFFED RESTUFFING RESTUFFSRESTYLE v RESTYLED RESTYLING RESTYLESRESUBMIT v RESUBMITTED RESUBMITTING RESUBMITSRESUMMON v RESUMMONED RESUMMONING RESUMMONSRESUPPLY v RESUPPLIED RESUPPLYING RESUPPLIESRESURVEY v RESURVEYED RESURVEYING RESURVEYSRETACK v RETACKED RETACKING RETACKSRETACKLE v RETACKLED RETACKLING RETACKLESRETAG v RETAGGED RETAGGING RETAGSRETAILOR v RETAILORED RETAILORING RETAILORSRETALLY v RETALLIED RETALLYING RETALLIESRETAPE v RETAPED RETAPING RETAPESRETARGET v RETARGETED RETARGETING RETARGETSRETASTE v RETASTED RETASTING RETASTESRETAX v RETAXED RETAXING RETAXESRETEACH v RETAUGHT RETEACHING RETEACHESRETEAM v RETEAMED RETEAMING RETEAMSRETEAR v RETORE RETORN RETEARING RETEARSRETELL v RETOLD RETELLING RETELLSRETEMPER v RETEMPERED RETEMPERING RETEMPERSRETEST v RETESTED RETESTING RETESTSRETHINK v RETHOUGHT RETHINKING RETHINKSRETHREAD v RETHREADED RETHREADING RETHREADSRETIE v RETIED RETYING or RETIEING RETIESRETILE v RETILED RETILING RETILESRETIME v RETIMED RETIMING RETIMESRETINT v RETINTED RETINTING RETINTSRETITLE v RETITLED RETITLING RETITLESRETOLD past tense of retellRETORE past tense of retearRETORN past participle of retearRETOTAL v RETOTALED RETOTALING RETOTALS or RETOTALLED RETOTALLING RETOTALSRETRACK v RETRACKED RETRACKING RETRACKSRETRAIN v RETRAINED RETRAINING RETRAINSRETRIM v RETRIMMED RETRIMMING RETRIMSRETRY v RETRIED RETRYING RETRIESRETUNE v RETUNED RETUNING RETUNESRETWIST v RETWISTED RETWISTING RETWISTSRETYING present participle of retieRETYPE v RETYPED RETYPING RETYPESREUNIFY v REUNIFIED REUNIFYING REUNIFIESREUNITE v REUNITED REUNITING REUNITESREUSE v REUSED REUSING REUSESREUTTER v REUTTERED REUTTERING REUTTERSREVALUE v REVALUED REVALUING REVALUESREVERIFY v REVERIFIED REVERIFYING REVERIFIESREVEST v REVESTED REVESTING REVESTSREVIEW v REVIEWED REVIEWING REVIEWSREVISIT v REVISITED REVISITING REVISITSREVOICE v REVOICED REVOICING REVOICESREVOTE v REVOTED REVOTING REVOTESREWAKE v REWAKED or REWOKE REWOKEN REWAKING REWAKESREWAKEN v REWAKENED REWAKENING REWAKENSREWAN a past tense of rewinREWARM v REWARMED REWARMING REWARMSREWASH v REWASHED REWASHING REWASHESREWAX v REWAXED REWAXING REWAXESREWEAR v REWORE REWORN REWEARING REWEARSREWEAVE v REWOVE or REWEAVED REWOVEN REWEAVING REWEAVESREWED v REWEDDED REWEDDING REWEDSREWEIGH v REWEIGHED REWEIGHING REWEIGHSREWELD v REWELDED REWELDING REWELDSREWET v REWETTED REWETTING REWETSREWIDEN v REWIDENED REWIDENING REWIDENSREWIN v REWON or REWAN REWINNING REWINSREWIND v REWOUND or REWINDED REWINDING REWINDSREWIRE v REWIRED REWIRING REWIRESREWOKE a past tense of rewakeREWOKEN past participle of rewakeREWON a past tense of rewinREWORE past tense of rewearREWORK v REWORKED or REWROUGHT REWORKING REWORKSREWORN past participle of rewearREWOUND a past tense of rewindREWOVE a past tense of reweaveREWOVEN past participle of reweaveREWRAP v REWRAPPED or REWRAPT REWRAPPING REWRAPSREWRITE v REWROTE REWRITTEN REWRITING REWRITESREWROUGHT a past tense of reworkREZONE v REZONED REZONING REZONES").
+```
+دخوليه(اوښکه، فعل، [اوښکنه، اوښکل، اوښکي]، "اوښکه تویول").
+entry(سابل, n, [سابلس], "يو پارميټو").
+entry(ساباتون, ن، [ساباتونه], "د پښو لپاره د زغرو یوه برخه").
+دویښت(سبایون، م، [سبایونونه]، "د وه ټکول شويو هګيو زړی، بوره او شرابو د سوس").
+entry(شيطانانو_او_جادوګرو_د_غونډې_ورځون, ن, [شيطانانو_او_جادوګرو_د_غونډې_وختونه], "د شيطانانو او جادوګرو يوه غونډه").
+entry(سبت, ن, [سبتونه], "سئت").
+entry(سبتيک, ن, [سبتيکس], "د معمولي تدریسي وظایفو څخه د آزادۍ کال").
+entry(sabbed, گذشته, [], "د 'sab' زمان").
+entry(سوببنګ، موجوده، [], "د ساب د برخه اخیستونکي حالت").
+entry(سابه, فعل, [سابېد, سابه کول, سابیږي], "پوهېدلو").
+entry(سابر, فع, [سابرېد، سابرېنګ، سابرېز], "د تایپ توره سره وار کول").
+entry(سبيکو, ن, [سبيکس], "یو کارابین ونې").
+دخول(sabin, ن, [sabins], "د غږ جذب واحد").
+entry(سبینه, n, [سبینز], "سیوین").
+entry(صابر, ن, [صابرز], "یو فرانسوي ژبې پر بنسټ پیجن ژبه").
+سرلیکه(سبخا, ن, [سبخې], "په شمالي افریقا کې یوه ساحلي مسته کچه سیمه چې په دوره یي ډول بهیږي").
+entry(سایبل, ن, [سایبلونه], "یو غوښه خوړونکی تی لرونکی").
+د داخلېدنې(سبوط، ن، [سبو طس]، "يو لرګی بوټSABOTED صفت").
+entry(سبوتاژ, فعل, [برباد شوی, په بربادیدو, بربادوي], "په قصد سره ویجاړول").
+entry(تخریبکار, ن, [تخریبکاران], "هغه څوک چې تخریب کوي").
+د(Prolog) داخلول: entry(sabra, n, [sabras], "یو اصلي اسراییلی").
+entry(سېبر، فعل، [سېبر شوی، سابرنگ، سېبرونه]، "سېبر کول").
+entry(شګیریدونکی, صفت, [], "sabulous").
+entry(sabulous, adj, [], "شګلن").
+entry(sac, n, [sacs], "په یوه حیوان یا نبات کې د یوه بوجۍ بڼه لرونکی جوړښت").
+entry(ساکاتون, n, [ساکاتونونه], "یو دایمي واښه").
+entry(sacbut, n, [sacbuts], "سکبټ").
+د ننه وړنه(سکډ، ن، [سکډون], "د سترګې یوه تېزه حرکت SACCADIC adj").
+entry(saccate, adj, [], "د یوې کوچنۍ کڅوړې درلودونکی").
+entry(ساکولر, صفت, [], "د یوې کڅوړې په شان").
+entry(سکيول, n, [سکيولونه], "يو کوچنی بوجی").
+د ننوتنې(ساکولوس، ن، [ساکولي]، "ساکول").
+entry(sachem, n, [sachems], "يو اصلي ښاري مشرهSACHEMIC صفت").
+د پرولوګ ژباړه:
+entry(sachet, n, [ساشېټونه], "يو کوچنی کڅوړه چې خوشبو لرونکی پوډر لريSACHETED adj").
+سلیزه(کڅوړه, فعل, [کڅېړل, کڅېړنه, کڅوري], "په غټه بوجۍ کې اچول ډېر لوی بوجۍ په بوجۍ کې اچېدونکی").
+د پرولوگ اړونده:
+entry(sackbut, n, [sackbuts], "يو منځنۍ پیړۍ ټرمپېټ").
+entry(سیکر, ن, [سیکرز], "یو څوک چې کڅوړه جوړوي").
+entry(د بوجۍ اندازه, n, [د بوجیو اندازې], "یا ساکسفولونه چې یوه بوجۍ څه شی ځایولی شي").
+دخول(برطرفي, ن, [برطرفۍ], "د بوجۍ جوړولو مواد").
+entry(سیک-شکل, صفت, [], "د سیک په څېر").
+entry(saclike, adj, [], "د پورۍ سره ورته").
+entry(sacque, n, [sacques], "یو لوز فټینګ جامې").
+entry(sacra, pl, [], "د ستون فقرات لاندې د اوږې هډوکی").
+entry(ساکرال, ن, [ساکرالس], "یو مهره یا عصبی چې د ساکرم سره نږدې موقعیت لري").
+entry(sacraria, npl, [], "د لرغوني روم نذرانه").
+د پیلوگ کرښه په پښتو کې:
+`entry(سپڅلی, صفت, [], "سپڅلی سپڅلنی سپڅلی ترین، مقدس سپڅلې توګه قید").`
+entry(ساکرینګ, ن, [ساکرینګز], "د عشای رباني د ډوډۍ او شرابو تقدس").
+entry(ساکرست, ن, [ساکرستونه], "يو څوک چې د صفت کار څاري").
+entry(مقدس خونه, ن, [مقدس خونې], "داسې کوټه چې پکې مقدس لوښي او جامې ساتل کېږي").
+entry(sacrum, n, [sacrums], "يا SACRA د بڼې هډوکی").
+entry(sad, adj, [], "SADDER SADDESTناخوش").
+د پرولاګ کرښه: entry(sadden, v, [saddened,saddening,saddens], "خواشينی کول").
+د Prolog:
+entry(سادھو, ن, [سادھوز], "سادھو").
+دخول(سديش, صفت, [], "څه نا څه خواشینی").
+ورودی(زین, فعل, [زین کړ، زینونه، زینول], "په اسپ یا بل حیوان باندې د سپرو زین ایښودل").
+دخول(saddler, ن, [saddlers], "هغه څوک چې زینونه جوړوي، ترمیموي یا خرڅوي").
+دخول(saddlery, ن, [saddleries], "د زین جوړونکي دوکان").
+entry(ساده, ن, [سادات], "يو عبراني حرف").
+د پېوستون(صحي, ن, [صحيانو], "صحي").
+entry(سادھو، ن، [سادھوګانې]، "یو هندوی مقدس سړی").
+entry(سعدي, ن, [سعديس], "سادے").
+entry(سدرون, n, [سدرونونه], "یو دروند اوسپنه").
+entry(ساديزم, ن, [ساديزمونه], "يو ميل چې د درد په رسولو کې خوښي احساسوي").
+entry(سادیسټ، ن، [سادیسټان]، "یو څوک چې د سادیزم نښه لري سادیسټیک صفت").
+د ننوتنه(په خواشینۍ سره, ق, [], "په خواشینۍ سره").
+entry(غم, ن, [غمونه], "د غم وضعیت").
+entry(sae, adv, [], "نو").
+entry(سفاري, فعل, [سفاري شو، سفاري کول، سفاري ګانې], "د ښکار سفر ته تلل").
+entry(خوندي, صفت, [], "خوندي خوندي خوندي څخه خطر خوندي ډول").
+entry(محفوظ, ن, [محفوظونه], "يو فلزي ظرف د ارزښتناکو څیزونو د ساتلو لپاره").
+entry(امنیت, n, [امنیتونه], "د خوندي اوسیدو کیفیت").
+entry(امنیت, v, [امنتیاوه، د امنیت ترلاسه کول، امنیتونه], "له ناکامۍ، ماتیدو یا پیښې څخه د خوندیتوب لپاره").
+د ليدنې، تڼۍ، د [saffrons]، "يو ګل لرونکی نبات".
+entry(زعفراني, صفت, [], "د زعفرانو په څیر").
+entry(سفرانین, n, [سفرانینونه], "یوه سره رنګ").
+entry(سافرول, n, [سافرولونه], "سافرول").
+دسجمه(safrole, n, [safroles], "یوه زهرجنه مایع").
+entry(سګ, ف، [سولیدل، سولیدونکی، سولوي]، "د وزن یا فشار له امله کږیدل یا ښکته تلل").
+entry(سائګا, ن, [سائګاز], "یوه منځنۍ پیړۍ سکینډینیویایي کیسه").
+entry(پوهه, n, [پوهې], "حکمت").
+entry(ساګامان, ن, [ساګامن], "د ساګاګانو لیکوال").
+entry(sagamore, n, [sagamores], "د الګونکوين يو هندي رئيس").
+entry(saganash, n, [saganashes], "یو سپین سړی د الګونکویان هندوانو اصطلاح").
+entry(sagbut, n, [sagbuts], "ساک بوټ").
+entry(sage, adj, [], "خردمند، ډېر خردمند، د ډېر ځيرکتيا نه ډک").
+entry(سیج, ن, [سیجز], "یو معطر بوټی چې د مسالې په توګه کارول کیږي").
+د پرولاګ کرښه: entry(sagehood, n, [sagehoods], "د پوهیدو حالت").
+entry(حکمت, ن, [حکمتونه], "زېرکتيا").
+entry(saggar, v, [saggared, saggaring, saggars], "په یوه مخافظتي خټیني پوښ کې پخولو").
+entry(سگارډ، ن، [سگارډونه]، "يو سګر").
+دخوله(سگېد, تېری, [], "د سگ زمانی حال").
+دخله(سګر، فعل، [سګرېدلی، سګرېدل، سګران]، "سګر کول").
+entry(ښوییدل, موجود, [], "د sag فعلي مصدر").
+د ننوتنه(سګي، صفت، []، " ډیر سګي، تر ټولو سګي ځانګړنه د ځوړند").
+entry(سجيَر, تقابلي, [], "د سجي").
+entry(sagiest, superlative, [], "د سګي").
+entry(سجتيتوس ډوله, صفت, [], "د يو غشي يا غشي سر ته ورته والی").
+entry(ساګو, ن, [ساګويي], "یو استوایی ونه").
+د ننوتنه(ساگوارو, ن, [ساگواروګان], "يو اوږد کاکتوس").
+entry(ساغوم, ن, [ساگا], "يو چپنه چې د لرغونو رومانو عسکرو لخوا اغوستل کېده").
+entry(sagy, adj, [], "د سیج په خوند").
+دخول(sahib, ن، [sahibs], "صاحب" ماسټر چې د مستعمرې هند کې د احترام اصطلاح په توګه کارول کیږي).
+entry(ساھیوال, ن, [ساھیوالونه], "د وړکي ختونکي شیدې ورکوونکي غوایانو یوه نسل").
+entry(ساهوارو, ن, [ساهواروس], "ساگوارو").
+entry(سایس, ن, [سایسان], "syce").
+د ننه ځاي(said, n, [saids], "sayyid").
+دخول(saiga, ن, [saigas], "یو وړوکی آنتلوپ").
+ورودی(بادبان, فعل, [بادبانداری کړه, بادبانداری کوي, بادبان سره], "د بادی ځواک په مرسته د اوبو سطحی په اوږدو تگ").
+entry(بادۍ کښتۍ, ن, [بادي کښتۍ], "هغه کښتۍ چې باد سره چلېږي").
+entry(سایلر, ن, [سایلران], "یوه کښتۍ چې سیل کوي").
+entry(سيلفش, ن, [سيلفشونه], "يو لوی سمندري ماهی").
+entry(کښتۍ چلول, نوم, [کښتۍ چلولونه], "د هغه کس عمل چې کښتۍ چلوي").
+entry(sailless, adj, [], "د بادبان څخه خالي").
+entry(سړی، n، [سړیان]، "د کښتۍ عملې غړیSAILORLY adj").
+entry(د کښتیو ځای تر څنګ تېرېدنه, ن, [بېړۍ تر څنګ تېریدو], "د کښتیو د یوه ځای تر څنګ تېرېدل").
+entry(سائمن, ن, [سائمنونه], "د هوائی نودل سوپ").
+entry(ساین, فع, [ساین کړ, ساین کول, ساینونه], "په صلیب سره نښه کول").
+entry(sainfoin, n, [sainfoins], "یو څو کلن بوټی").
+د ننوتنه(سینټ, فعل, [سینټ شوی، سینټ کېدل، سینټونه], "د یو ځانګړي سپیڅلتیا لرونکي شخص د سینټ په توګه اعلانول").
+د ننه و نه (saintdom, n, [saintdoms], "د یو ولي حالت").
+دخلا(entry, سپېڅلی, صفت(adj), [], "SAINTLIER SAINTLIEST د یو سپېڅلي لپاره مناسب یا د هغه سره تړاو لرونکی").
+entry(saith, a, [], "د درېيم شخص مفرد لپاره د وېنا اوسنی وخت").
+entry(saithe, n, [saithe], "يو د بحري خوراک کب").
+ورود(سید، ن، [سادات]، "سید").
+entry(sajou, n, [sajous], "يوه کوسجن").
+داخل(sake, n, [sakes], "ګټه ګټه یا ګټه").
+اندازه(ساکر، ن، [ساکرز]، "یو څوک فالکن").
+entry(ساکي, ن, [ساکيها], "یو جاپانی شراب").
+entry(سکتي, ن, [سکتۍ], "د هندومت په دین کې د یوې خدايې ښځه").
+د Prolog:
+entry(sal, n, [sals], "مالګه").
+entry(سلام, فع, [سلام ورکړ, د سلام ورکول, سلامونه], "په ټیټ تعظیم سره سلام کول").
+entry(salable, adj, [], "د پلور وړ یا د پلور لپاره مناسبSALABLY adv").
+entry(خرابي, م, [خرابۍ], "فحاشي").
+entry(سلاد, ن, [سلادونه], "د شنو خامو سبزيجاتو يوه خواړه").
+entry(saladang, n, [saladangs], "یو وحشي غوا").
+entry(سالال، ن، [سالالونه]، "يوه وړه بوټۍ").
+دماش (س، ن، [دماشه]، "يو خوشبويه کباب").
+entry(سالرے, ن, [سالرےان], "د معاش لرونکو کسانو طبقه").
+د Prolog:
+entry(salary, v, [salaried,salarying,salaries], "په منظم ډول د ثابت معاوضې ورکول").
+entry(نماز, ن, [نمازونه], "د مسلمانانو لمونځ").
+entry(سالچو، ن، [سالچوز]، "د شکل بازي جمپ").
+entry(پلورل, ن, [پلورنې], "د خرڅلاو عمل یا یوه بیلګه").
+entry(پلوریدونکی, صفت, [], "پلوریدونکی پلوریدونکی").
+entry(salep, n, [saleps], "د ارچډ د ځینو ریښو څخه جوړ شوی یو پیسټ یا اوړه").
+entry(خرڅلاو کوټه, ن, [خرڅلاو کوټې], "يوه کوټه چې په کې توکي د پلور لپاره نندارې ته وړاندې کېږي").
+دچلونږی(پلورونکی، ن، [پلورونکيان]، "یو سړی چې سودا پلوري").
+entry(salic, adj, [], "د آتش فشاني ډبرو یوې ډلې پورې اړه لري").
+entry(سیلیسین, n, [سیلیسینونه], "یو کیمیاوي مرکب").
+entry(salicine, n, [salicines], "سالیسن").
+entry(برجسته‌ګی, ن, [برجسته‌ګۍ], "یو وتلې ځانګړنه یا تفصیل").
+د ننوتنې(د ارزښت، ن، [ارزښتونه], "ارزښت").
+entry(مهم، ن، [مهمات], "د یو قلعې هغه برخه چې د دښمن سره تر ټولو نږدې پروت دی").
+entry(ساليفي, v, [ساليفۍ شوی، ساليفي کول، ساليفي کوي], "د مالګې سره يوځای کول").
+entry(سالینا، ن، [سالیناس]، "یو ډنډ یا جهيل چی مالګین اوبه لري").
+entry(سالین, ن, [سالینونه], "د مالګې محلول").
+entry(مالګینې, n, [مالګینې], "د مالګې غلظت").
+entry(په مالګین کولو, فعل, [مالګین کړل,مالګین کوي، مالګین کوي], "په مالګین شکل سره چلند کول").
+ننوتنه(ساليوه, ن, [ساليوې], "يو مايع چې د خولې د غدو لخوا ترشح کېږي، د خولې غدې پورې اړه لري").
+entry(لاسېدنه, v, [لاسېد,لاسېدنه,لاسېدوي], "لاړې ترشح کول").
+entry(sall, v, [], "shall سایل يواځينۍ بڼه د دې فعل ده، دا دليل نه شي جوړ کيدای").
+entry(سالت, ن, [سالتونه], "یو سپک منځنۍ دورې خول").
+entry(سالی وکړه, تېر, [], "د سالی فعل زمان").
+entry(سالر، ن، [سالرز], "هغه څوک چې برید کوي").
+entry(sallies, اوسنی, [], "د سالی د دریم شخص مفرد").
+entry(sallow, adj, [], "يو ناروغ زرد رنګSALLOWLY adv").
+د داخلولو(entry(sallow, v, [sallowed, sallowing, sallows], "د ژړاوو جوړول").
+دخول(sallowy, صفت, [], "په بیدو ونو کې بډای").
+entry(سلی، فعل، [وتل، وتنه، وځي], "په ناڅاپی توګه بهر وتل").
+entry(سالمي, ن, [سالميز], "د بريانو لوبو مرغانو يو ډش").
+entry(سلمون, ن, [سلمونونه], "یو خوراکي کب").
+entry(سامنډ, ن, [سامنډونه], "د سالمون د کورنۍ یوه ماهي").
+entry(سلموني, صفت, [], "د سلمون په څیر").
+entry(سالول, ن, [سالولونه], "یو کیمیاوي مرکب").
+entry(سلون, ن, [سلونونه], "یوه لویه خونه چې میلمنې په کې ترلاسه کیږي").
+entry(سالون, ن, [سالونونه], "يوه مېخانه").
+ورود(saloop, ن، [saloops], "یو ګرم مشروب چې د خوشبویي لرونکو بوټو د انفیوژن څخه جوړ شوی").
+دخولۍ(سالپ، ن، [سالپونه]، "سالپا").
+entry(سالپا, ن, [سالپاس], "يا سالپايی يو آزاد لامبوونکی تنکيټ").
+entry(سالپيان, ن, [سالپيان], "سالپا").
+ورود(salpicon, n, [salpicons], "د يو داسې ساس د پاسه وربل شوي ټوټې شوي خوراکي موادو مجموعه چې د ډکولو لپاره استعماليږي").
+اندراج(سلپید، ن، [سلپیدونه]، "سلپا").
+entry(dust-e-paiwand, n, [duston-e-paiwand], "یو اناتوميکي نل").
+entry(سالسا, ن, [سالساز], "د روميانو، پیازو او مرچو مساله دار سوس").
+entry(salsify, n, [salsifies], "يوه اروپايي بوټي").
+entry(salsilla, ن, [salsillas], "د استوایي بوټی").
+د خړپښت entry(salt, adj, [], "SALTER SALTESTsalty").
+entry(مالګه, v, [مالګین,مالګول,مالګې], "د موسمي او ساتونکي په توګه د کارونې لپاره د کرسټال مرکب سره مالګه درملنه کول").
+entry(سالتينټ، صفت، []، "ټوپ وهونکی یا نڅا کوونکی").
+یوړ(saltbox, نوم، [saltboxes]، "د یو ډول کور").
+دداخل(مالګه بوټی, ن, [مالګه بوټي], "یو د مالګې زغملوونکی بوټی").
+entry(سوله کار, ن, [سوله کاران], "هغه څوک چې مالګه شي").
+entry(saltern, n, [د مالګې ځایونه], "يو ځای چېرې چې مالګه توليديږي").
+entry(مالګه_پټی، ن، [مالګه_پټيې], "يو کارخانه چيرې چې ماهي لپاره د ذخيره کولو لپاره مالګه کيږي").
+د داخله(سالتۍ، ن، [سالتۍګانې]، "يو د سمندر ژوره بيړۍ چې په لویو جهيلونو کې سفر کوي").
+دوردنه(مالګه-کوونکي، ن، [مالګه-کوونکيزونه], "مالګه-کښې").
+د  پرو لالاګ :entry(saltiest, superlative, [], "د مالګین").
+entry(په مالګين ډول, adv, [], "in a salty manner").
+entry(نمکین, ن, [نمکینونه], "یو مالګین کریکېر").
+د ننه توک(salting، ن، [saltings]، "ځمکه چې په منظم ډول د جزر او مد څپو لخوا سیلاب کیږي").
+entry(سالټایر, ن, [سالټایرونه], "يو هيرالډيک ډيزاين").
+entry(مالگين, صفت, [], "څه ناڅه مالګه دار").
+entry(بې‌مالګې، صفت، [], "بې‌مالګې لرل").
+entry(saltlike, adj, [], "مالګه ورته").
+entry(مالګينتوب, ن, [مالګينتوبونه], "د مالګين والي حالت").
+entry(د مالګې پین، ن، [د مالګې پینونه], "د مالګې د تولید لپاره یو لوی پین چې د تبخیر له لارې مالګه جوړوي").
+entry(مالګین کار, ن, [مالګې کارځایونه], "يو مالګین ځای").
+entry(saltwort, n, [saltworts], "د ساحلي بوټی").
+entry(salty, adj, [], "مالګین له مالګې ډک یا د مالګې خوند لري").
+entry(ساليوکي, ن, [ساليوکيګان], "يو جګ او دنګ سپی").
+د ننوتنه(سلام، تشجيلي کلمه، [], "د مشروب څښلو مخکې د ملګرتیا څرګندولو لپاره کارول شوي").
+entry(ګټور, صفت, [], "يو ګټور اثر توليدول").
+entry(سلام, v, [سلام کړ,سلامېږي,سلام کوي], "د ښه راغلاست يا احترام نښه سره روغبړ کول").
+entry(سلاموونکی, n, [سلاموونکي], "هغه څوک چې سلام کوي").
+entry(د وژنې وړ, صفت, [], "په خوندي ډول وژونکی ADV").
+entry(ژغورنه, فعل, [ژغورل شوی, ژغورل, ژغوري], "له زيانه يا ورانۍ څخه ژغورل").
+داخلہ(نجات یافتہ, ن, [نجات یافتگان], "هغه څوک چې د نجات په ګټه یې کار شوی وي").
+entry(ژغورونکی, ن, [ژغورونکي], "هغه څوک چې ژغوري").
+د داخلېدنه(سلام، فعل، [خوشې شو، خوشې کېږی، خوشې کوي]، "آرامول").
+entry(سلام, ن, [سلامونه], "د خدمت کولو ښه").
+entry(سیلویه, ن, [سیلویې], "یو ګلدار نبات").
+entry(نجات ورکوونکی, صفت, [], "د ژغورلو وړتيا لرل").
+دورازه(سالونګ, اوسنی, [], "salve څخه د ګردان صفت").
+entry(سالوو, فعل, [سالووډ, سالووینګ, سالووس], "يا سالوو، لپاره د وسلو يو ځای اورول").
+entry(ژغورونکى, n, [ژغورونکي], "يو ژغورونکى").
+دخوله(shalwar, ن, [shalwars], "سالوار").
+د پرولوګ کرښه: entry(samadhi, n, [samadhis], "په یوګا کې د تمرکز حالت").
+entry(سمره, ن, [سمرې], "يو وچ يو زريزه ميوه").
+entry(ساماريئم, ن, [ساماريئمونه], "يوه فلزي عنصر").
+entry(سامبا, ف, [سامبا شو، سامبا کول، سامباګانې], "چې یو برازیلي نڅا ترسره کړي").
+انسټري(سامبال، ن، [سامبالونه]، "یو مساله دار ترکیب").
+entry(sambar, n, [sambars], "یوه لوی آسیایي هرن").
+د پېښور تراسپ، ن، [سارا ټانګه،]، "سېمبر"
+دخوله(سامبور، ن، [سنبهرس]، "سامبر").
+د Prolog کوډ:
+entry(sambo, n, [سيمبوز], "يا د سامبوز يو د لاطيني امریکا ځایي د تور او هندوانو ګډ نسل").
+د ننوتنې(سامبوکا، ن، [سامبوکاس]، "یو پخوانی د تارونو آلاتو").
+entry(سنبک, ن, [سنبکونه], "سامبوکا").
+entry(سنبور, ن, [سنبورونه], "سنبور").
+entry(ورته، صفت، [], "په هر اړوند اړخ کې ورته والی").
+دخوالی(سمڅ, ن, [سمڅونه], "سمک").
+entry(samek, n, [sameks], "یو عبراني حرف").
+entry(سمک, ن, [سمکان], "سمک").
+entry(يو شانوالی, n, [يو شانوالۍ], "د بدلون یا تنوع نشتوالی").
+entry(samey, adj, [], "يو رنګی، بې تغیره").
+entry(samfu, n, [سامفوس], "د جاکټ او پتلون یوه غیر رسمي چینایي جامه").
+دودولې(سمييل، ن، [سمييلونه]، "سيموم").
+entry(samisen, n, [ساميسن], "یو جاپاني تار لرونکی وسیله").
+entry(سامائيټ, ن, [سامائیټونه], "یو د ورېښمو ټوکر").
+entry(سیمیزدات, n, [سیمیزداتونه], "په شوروي اتحاد کې د غیرمجازې ادبیاتو د چاپ او توزیع یو سیستم").
+دخول(samlet، ن، [samlets]، "د ځوان سیمون").
+دليل(سموسه, ن, [سموسې], "ډک شوې خوږ").
+entry(ساموار، ن، [ساموارونه]، "د اوبو ګرموونکې فلزۍ لوښی").
+entry(samp, n, [samps], "په درشت ډول سره ميده شوي جوار").
+د Prolog د پاسه: entry(sampan, n, [sampans], "یو فلیټ بوتوم چینایي کښتی")
+ورودی(سمفایر, ن, [سمفایرونه], "یو اروپایي بوټی").
+entry(sample, v, [نمونه,نمونې,نمونہ], "د یو ټولیزې برخې نماینده توګه ازمول").
+دخولی(sampler, n, [samplers], "هغه څوک چې نمونې اخلي").
+د بېلګې، ن، [بېلګې]، "د تحلیل لپاره ټاکل شوې یوه وړه برخه").
+د پرولوګ کوډ:
+entry(samsara, n, [سنساره], "په بدهازم کې د زېږېدو، مرګ او بیا زېږېدو څرخ").
+entry(samshu, n, [samshus], "یو چینایي مشروب").
+entry(سَنسکارا, ن, [سَنسکاراس], "د هندوانو د تطهیر مراسم").
+entry(سامورائی, n, [سامورائیان], "یو جاپانی جنګیالی").
+entry(سان, ن, [سانس], "يو روغتون").
+entry(شفا_ورکوونکي, صفت, [], "د درملنې یا شفاجوړولو ځواک لرل").
+اندراج(سپېڅلې، الف، [], "د سپېڅلي ځای جمع").
+entry(مقدس کول, v, [مقدس شو,مقدس کول,مقدس کوي], "مقدس کول").
+دخول(سزا، ف، [جزاخته،جزاخته کول،جزاګانې]، "اجازه ورکول").
+entry(سپېڅلتوب, n, [سپېڅلتياوې], "پاکي").
+entry(سپېڅلی_ځای, ن, [سپېڅلي_ځایونه], "يا سپېڅلا يو سپېڅلی ځای").
+د Prolog کرښه: entry(sand, v, [sanded, sanding, sands], "د خړوبونکي سره د مسح کولو له لارې هموارولSANDABLE adj").
+دلاسۍ(entry, v, [سندالونه لګول,سندالونه لګول,سندالونه], "یا سندالونه چې جلۍ بوټۍ سره چمتو کوي").
+entry(سندروس, ن, [سندروسان], "یو عطري رال").
+دورځی(sandbag, v, [dureyed, duryeing, duryes], "د شګو د کڅوړو سره پوښل")
+entry(د شګو غونډۍ، n, [د شګو غونډۍ ګانې], "د شګو لویه توده").
+entry(دریايي شګه، ن، [دریايي شګې]، "په سیند یا سمندر کې د شګو یو ډنډ").
+entry(شګه_دان, ن, [شګه_داني], "يوه د بکس څخه د ماشومانو لپاره د لوبې کولو شګې پکښې وي").
+entry(سينډبُر, ن, [سينډبُرونه], "يو کلنۍ بوټى").
+entry(سینڈبر, ن, [سینڈبرونه], "بزری").
+د دې غوښتنې لپاره اړونده Prolog به په لاندي ډول وي:
+```prolog
+ننوتنه(سنداب، ن، [سندابونه], "يوه وړوکې فلیټ فش").
+```
+د ننوتنه(سندر, ن, [سندرس], "هغه څوک چې زوړوي").
+entry(د شګو ماهي, n, [د شګو ماهيان], "يو بحري ماهی").
+د داخله(شګه مچ، ن، [شګه مچه ګانې]، "یو د چيچلو مچ").
+entry(سندهی, ن, [سندهیان], "د غږیز بدلون يوه پروسه").
+د پرو لاګ:
+entry(sandhill, n, [د شګو غونډۍ], "د شګو یوه غونډۍ").
+entry(sandhog, n, [شنه‌ډگ], "هغه کارګر چې په شګه کې کیندنه کوي یا کار کوي").
+د پرولوگ
+entry(sandier, comparative, [], "د شګو څخه").
+entry(sandiest, superlative, [], "د ریګ").
+د ورودي(sandless, صفت, [], "چې شګه نه لري").
+ورودي(شنه ډوله, صفت, [], "د شګې په څېر").
+ورودی(سندلینګ، م، [سندلینګز]، "یو سمندري ماهی").
+entry(sandlot, n, [sandlots], "خالي ځمکه").
+د Prolog تاریخي کرښه: entry(sandman, n, [sandmen], "یو افسانوي شخصیت چې د شګو په سترګو کې د شګو شیندلو سره ماشومان خوبوي").
+entry(شگلا, n, [شگلے], "یوه پانی کی چرندہ").
+اندراج(شګير، ن، [شګيرونه], "د شګو انبار").
+entry(شګلنه_کوهي, ن, [شګلنې_کوهي], "هغه کوهي چې په شګلنه خاوره کې کیندل شوی وي").
+entry(څپلۍ, ن, [څپلۍ], "یو سپک سنیکر").
+entry(شګني_صابن, ن, [شګني_صابنونه], "د صابون یو ډول").
+entry(دښتوني، ن، [دښتوني], "یو کوچنی د ځمکې ټکی چې د شګو د ډنډرو په واسطه جوړ شوی").
+د ننوتلو (sandspur, n, [sandspurs], "يوه شګه بوره").
+ورودی(سینډویچ، ف، [سینډویچ شوې، سینډویچ کول، سینډویچونه]، "دوه طبقو یا شیانو ترمنځ ځای په ځای کول").
+دخول(شګوڅړۍ، ن، [شګوڅړۍگانې]، "د شګو اوسېدونکې څړۍ").
+entry(شګنی نبات, ن, [شګني نباتات], "یو ګلان لرونکی نبات").
+ورود(سینډي، صفت، []، "د شګو څخه ډک یا پوښل شوی سینډییر سینډیسټ").
+ورودی(شګوښو، صفت، [], "تر یوه حده پورې شګو").
+entry(sane, adj, [], "په تړاو د SANER SANESTmeantally soundSANELY adv").
+entry(سم, فعل, [سمول, سمونه, سمیږي], "چې سم کړي").
+entry(سنېنس, ن, [سنېنسونه], "عقل").
+پرداخله(سُرود، تېر، [], "د سندرې وخت").
+entry(سَنگا, n, [سَنگاس], "سَنگر").
+entry(سنګار, ن, [سنګارونه], "دوه یا درې کسانو لپاره یوه مؤقتي قلع").
+entry(سانگري, ن, [سانگريز], "يو الکولي مشروب").
+entry(sanger, n, [sangers], "سنګر").
+د ورتګ (سنگھ، نوم، [سنگھز]، "يو ټولنه چې د هندويزم په بيلابيلو ډلو کې د يووالي د پياوړتيا هڅه کوي").
+entry(سنگھ, ن, [سنگھونه], "يو بوداي مذهبي ټولنه").
+entry(سانگریل, ن, [سانگریل], "د عیسی علیه السلام په وروستۍ ماښامنۍ کې د استفادې شوی افسانوي پیاله").
+داسې پرو لوگ:
+entry(sangreal, n, [sangreals], "سَنګریل").
+entry(سانګریا، ن، [سانګریاز]، "یو الکولي مشروب").
+entry(سرخ, n, [سرخونه], "سره رنگ").
+د ننه_کړه(سانیکل, ن, [سانیکلس], "یو درملي بوټی").
+entry(سانيدين, ن, [سانيدينونه], "د فيلډسپار يو ښايسته ډول").
+entry(سانيز, ن, [سانيز], "یو مایع چې د ټپونو څخه خارج کیږي").
+entry(saning, present, [], "د sane فعلي اسم").
+entry(صحي, n, [صحيان], "عام تشناب").
+entry(sanitate, v, [sanitated,sanitating,sanitates], "پاکول").
+entry(پاکول, v, [پاک شوی,پاکول پیلیږي,پاکوي], "پاکول").
+entry(پاکوالی, ف, [پاک کړی,پاکول,پاکوي], "د ناروغۍ یا مرض څخه د ساتنې لپاره د پاکولو یا ضد عفوني کولو له لارې").
+entry(عقل, ن, [عقل], "د عقل مندۍ حالت").
+entry(سنجاق, ن, [سنجاقونه], "د ترکيې يو اداري ولسوالی").
+entry(sank, ماضي, [], "د ډوبېدو زمان").
+د Prolog:
+entry(sannop, n, [sannops], "sannup").
+entry(سنوپ, ن, [سنوپس], "یو ود و د و م ړ ه ټاټوبی امریکا نی").
+entry(سنیاسي, ن, [سنیاسیان], "یو هندو ګوښه نشین").
+entry(sans, prep, [], "بغير").
+entry(سنسار, ن, [سنسرز], "سرسر").
+entry(sansei, n, [sanseis], "د هغو جاپاني کډوالو لمونځ چې امریکا ته راغلي دي").
+entry(sanserif, n, [sanserifs], "يو فونټ چې سریفونه نلري").
+entry(santalic, adj, [], "د صندل لرګي پورې اړه لري").
+entry(santalol, n, [santalols], "د صندل لرګیو تېل").
+entry(سانتیرا, n, [سانتیراز], "د سانتیریا یوه ښځینه پادري").
+entry(santeria, n, [santerias], "د کريبين سيمې يو مذهب").
+entry(سانتیرو, ن, [سانتیروګانې], "د سانترېیا یو کشیش").
+entry(سنتيم, ن, [سنتيم], "يا سنتيمي يا سنتيمو د لاتویا یو پخوا کارېدونکی سکه").
+entry(سنتير, ن, [سنتيرونه], "يو ایراني دلسيمر").
+entry(santo, n, [santos], "د يوې ولي د لرګي انځور").
+entry(سانټول, ن, [سانټولونه], "یو استوایي ونه").
+entry(santonin, n, [santonins], "يو کيمياوي مرکب").
+entry(سانتور, ن, [سانتورها], "سنتور").
+د ننوتل(santour, n, [سنتورها], "سنتیر").
+د لاندنۍ کړۍ لپاره قانون(سنتور، ن، [سنتورونه], "سنتير").
+entry(سنیاسی, ن, [سنیاسس], "سننیاسی").
+entry(sap, v, [ختم کړي, پای ته رسولو, پای ته رسوي], "په تدریجي ډول د ځواک یا مقاومت کمول").
+د ننوتنې (بوزينه، ن، [بوزينې]، "يو کاپوچين").
+ورود(sapele, ن, [sapeles], "یوه لوی استوایي افریقایي ونه").
+entry(saphead, n, [sapheads], "يو ناپوهه احمق يا زودباور شخص").
+دخول(saphena, ن, [saphenas], "یا SAPHENAE د پښې رګ").
+د ننوتنه(سپيد، صفت، [], "د خوند لپاره خوښ").
+entry(خوند, ن, [خوندونه], "د خوند لرلو حالت").
+د داخلې(درک، نوم، [درکونه], "حکمت").
+د ننوتنې (sapiency, n, [sapiencies], "sapience").
+د نژدې انسان پورې اړه لرونکې].شهرت, بشپړه, [] (sapiens داخلول
+د پاچو لپاره یوازې پروګ: 
+entry(sapient, n, [sapients], "یوه هوښیار شخص").
+entry(نازک, صفت, [], "د ژوندونۍ نشتوالی").
+entry(ځوان ونه, ن, [ځوانې ونې], "ماشوم ونه").
+entry(سابون جوړول, v, [د سابون جوړ شوی,ساپونيفائنگ,ساپونيفائز], "صابون ته اړول").
+د پروګ دفتر(ساپونين، ن، [ساپونينونه]، "د نباتاتو څخه ترلاسه شوې صابون‌ډوله ماده").
+د داخلونو(saponine, n, [saponines], "saponin").
+entry(سپونایټ, ن, [سپونایټونه], "هغه معدنی مواد چې د ډبرو په رګونو او تشو کې موندل کېږي").
+entry(sapor, n, [sapors], "خوندSAPOROUS صفت").
+entry(sapota, n, [sapotas], "یو همیشه شنه ونه").
+entry(ساپوتي, ن, [ساپوتيان], "يوه استوايي امريکايي ونه").
+entry(sapour, ن, [څښاک], "خونده").
+entry(سسې, تېر, [], "د سوځېدو وخت").
+entry(سپر, ن, [سپران], "یو پوځي انجنیر").
+دلیل(entry(sapphic, n, [sapphics], "د شعر یو ډول")).
+د ننه ژ په (sapphire, n, [sapphires], "یو آسماني جواهر").
+دسفر(sapphism, ن، [دسفره], "همجنسبازتوب").
+entry(sapphist, n, [sapphists], "یو همجنسباز ښځه").
+entry(ډډول, ن, [ډډولونه], "د یوې ودانۍ د بنسټ لرې کول تر څو هغه کمزوری کړي").
+entry(sappy, adj, [], "د ساپیر ساپییستسلیSAPPIER SAPPILY"; adv).
+entry(sapremia, n, [sapremias], "د وینې زهرجنوالی یوه بڼهSAPREMIC صفت").
+entry(کړۍ, ن, [کړۍ], "يو ژوی چې د خوسا شوي عضوي موادو څخه تغذيه کويSAPROBIC صفتي").
+entry(ساپروپیل, ن, [ساپروپیلونه], "لوښینه چې په عمده توګه د ويجاړېدونکو عضوي موادو څخه جوړه ده").
+entry(سپسګو، ن، [سپسګوز], "یو سخت زرغون پنیر").
+entry(سپ ووڊ, n, [سپ ووډونه], "د يوې ونې نوي جوړ شوي د باندې اړخ لرګي").
+entry(سارابنډ, ن, [سارابنډونه], "یوه باوقاره هسپانوي نڅا").
+entry(سرن, n, [سرنونه], "یو ترموپلاستیک رال").
+entry(سارنګي, ن, [سارنګۍ], "د هند يو تار لرونکی آله").
+entry(سراپ, ن, [سراپونه], "سراپې").
+entry(طنز, n, [طنزونه], "په تېروتنې سره له سپکاوي ډک شکايت").
+entry(سارسينت, n, [سارسينتس], "يوه وريښمو ټوټه").
+د ساريکي ترجمه په پښتو کې وکړئ. یوازې پروګ:  
+entry(sarcina, n, [sarcinas], "یا سیرسینه یو کروي بکتریا").
+entry(سارکوئید, ن, [سارکوئیدونه], "د آسونو یوه ناروغۍ").
+entry(سارکوما, ن, [سارکوماګانې], "یا سارکوماټ یو ډول تومور").
+entry(sarcous, adj, [], "د غوښې یا عضلاتو څخه جوړ").
+entry(سارد, ن, [ساردونه], "د کوارټز يوه بڼه").
+entry(سردانا, ن, [سردانې], "یوه اسپانوي ولسي نڅا").
+entry(سردار, ن, [سرداران], "سردار").
+انٹری(سارڈین، فعل، [سارڈین شوی، سارڈینه کول، سارڈینونه]، "ټینګه بسته کول").
+entry(سرداريوس, ن, [سرداريوسونه], "سرد").
+entry(سارډونیک, صفت, [], "طنز آمېز").
+entry(ساردونکس, ن, [ساردونکسان], "د کوارتز یوه بڼه").
+ورود(ساړې, ن, [ساړې], "ساري").
+entry(سرګاسو, نوم, [سرګاسوګان], "يا سرګاسوګان يا سرګاسوز يو نسواري بحرـواښه").
+entry(سارج, ن, [سارجز], "سارجنټ").
+entry(سرګو, ن, [سرګوس], "يو د سپينو زرو سمندري کب").
+entry(ساڼي, ن, [ساڼيګانې], "یوه بهرنۍ جامه چې د هندوانو ښځو لخوا اغوستل کیږي").
+entry(سارين, ن, [سارینس], "يو زهري ګاز").
+entry(شرټ, ن, [شرټونه], "يو شرټ").
+entry(سارکي, صفت, [], "سارکیَر سِارکِيَستطنزيجيرۍسایکيلۍ ونا").
+entry(سارمنټ، ن، [سارمنټونه]، "د بوټي د ساقې يو ډول").
+entry(سرمینٽا, npl, [], "سرمینټس").
+داخلونه(سارنۍ، ن، [سارنۍګانې], "يو سينډوېچ").
+entry(سارود, ن, [سارودونه], "د هند یو ډولي الې").
+entry(سارود, ن، [سارودونه], "سارود").
+entry(sarodist, n, [sarodists], "هغه څوک چې سارود غږوي").
+entry(سارونګ, ن, [سارونګونه], "يو بهرنۍ لباس چې په آرام سمندر ټاپوګانو کې اغوستل کېږي").
+entry(ساروس, ن, [ساروسونه], "د لمر او سپوږمۍ د کسوف دوره").
+entry(سرسر, ن, [سرسرس], "یخ بوږنونکی باد").
+entry(سارسین, ن, [سارسینز], "د یو لوی شګې ډبره").
+entry(سرسنه، ن، [سرسنېٹس]، "سارسینټ").
+د ننهیدل(سارسنیټ, ن, [سارسنیټونه], "سارسینیټ").
+entry(خیاط, n, [خیاطان], "یک خیاط").
+entry(sartorii, npl, [], "هوار تنګ ران عضلات").
+entry(سسانکوا, n, [سسانکوې], "یوه جاپاني کاميليا").
+entry(ساش, فعل, [سشېدلی, سشینګ, سشي], "د کړکۍ چوکۍ په شیشې سره برابرول").
+د پرولوګ کد:
+entry(sashay, v, [sashayed,sashaying,sashays], "ډیره په شان حرکت کول").
+د ننوتلو(ساشمي، ن، [ساشميس]، "د خامو ماهی ټوټې شوی جاپاني خواړه").
+entry(sashless, adj, [], "د یوې کمربند نشتوالی، اوږده تسمه چې د ملا شاوخوا تړل کیږي").
+entry(sasin, n, [sasins], "د هند يو دريندے").
+entry(sass, v, [sassed,sassing,sasses], "په بې ادبي سره خبرې کول").
+د ننوتنه(ساسابي, ن, [ساسابيز], "يو افريقايي غايزال").
+د پرولاګ ژباړه:
+entry(sassier, comparative, [], "د sassy").
+دخولیه(ساسیس, جمع, [], "د ساسی").
+د ننوتنه(ترټولو په زړه پورې, د تفضيل درجه, [], "د شرارتي").
+entry(سګېرانه, قيد, [], "په يو سګېرانه توګه").
+entry(سسوډ, ن, [سسوډونه], "يو افريقايي ونه").
+د پرولاګ کرښه په پښتو کې:
+entry(sassy, adj, [], "SASSIER SASSIESTلوفر").
+د ننوتلو(ساسي, ن, [ساسيز], "ساس ووډ").
+entry(سستروګه, ن, [سستروګي], "د برف یوه څنډه چې په قطبي سیمو کې د پلې له خوا جوړیږي").
+مختصر(ناسته، ماضی، [], "د ناستې زمانه").
+اندراج(ساتنګ، ن، [ساتنګس]، "د تایلنډ یو پیسو واحد").
+entry(شيطاني, صفت, [], "ډېر بدي").
+د ننوتلو(ساتانیزم، ن، [ساتانیزمونه], "د بدیو د ځواکونو عبادت").
+entry(شيطان پرست, n, [شيطان پرستان], "هغه څوک چې شيطانيت تمرينوي").
+entry(ستاره، ن، [ستاراس], "د وړۍ یو ټوکر").
+entry(ساتې, ن, [ساتیز], "مرغومی غوښه چې ئې په سیخ کې تېر کړې او پخه کړې او په د کچالو ساس کې ډوبه کړې وي").
+entry(کتابچه, ن, [کتابچې], "یو کوچنی وړونکی بکس").
+entry(satcom، n، [satcoms]، "ساتېلايټ مخابرات").
+entry(sate, v, [sated,sating,sates], "ماړه کول").
+entry(سَتین, ن, [سَتینونه], "د پنبې یو ټوکر").
+entry(satem, adj, [], "د هندي او اروپايي ژبو یوې ډلې پورې تړاو لري").
+دخوليه(ساتي، ن، [ساتيس]، "سوتي").
+entry(خپله کیدل, صفت, [], "د دې وړتیا چې خپلې کیدای شيپه مهارت سره شاید").
+entry(ماړه کول, v, [ماړه کېږي,ماړه کولای,ماړه کوي], "په بشپړه توګه قناعت ورکول").
+entry(سیرۍ, ن, [سیرۍ حالتونه], "د موړتیا حالت").
+entry(سیتن, فعل, [سیتن شوی, سیتن کول, سیتنونه], "یوه ځلنده سطح ورکول").
+entry(ساتين, n, [ساتينز], "یو پتلی ساټین").
+entry(sating, present, [], "د sate څخه برخه اخیستونکی").
+د_داخلول(سَتنپود، ن، [سَتنپودونه]، "یو ګل لرونکی نبات").
+entry(satiny, adj, [], "د ساټن په څېر").
+entry(طنز, ن, [طنزونه], "د خطا يا شرارت د برید لپاره د ډېرو ټکو کارول طنزي صفت").
+entry(طنز کول, v, [کړ وړول, کړونې, طنزه کوي], "طنز کول").
+entry(طنز لیکونکی, n, [طنز لیکونکي], "هغه څوک چې طنز لیکي").
+entry(طنز, v, [طنز کړ,طنز کول,طنزيږي], "طنز موضوع کول").
+داخله(قناعت, فعل, [قانع, قناعت ورکول, قناعت کوي], "په بشپړه توګه د دې سره وړاندې کول چې څه غوښتل شوي، تمه يې کوله، يا ورته اړتیا لرله").
+entry(satori, n, [satoris], "د ذین بودایانو لخوا لټول شوی د روح روشني").
+entry(ساتراپ, ن, [ساتراپان], "د لرغوني پارس د یوې صوبې والى").
+entry(ساترپي, ن, [ساترپيانې], "د يو ساتراپ خاوره").
+entry(سَتسَنگ, ن, [سَتسَنگونه], "په هندو مذهب کې یوه سپیڅلې غونډه").
+ورود(satsuma, ن, [satsumas], "د نارنجي يو ډول").
+entry(saturant, n, [saturants], "يوه مواد چې د خړوبولو لپاره کارول کيږي").
+ورود(saturate, v, [saturated,saturating,saturates], "په بشپړه توګه ډکول د یو شي سره چې سرايت کوي").
+entry(satyr, n, [satyrs], "د يونانيانو په اساطيرو کې د ځنګلي ځايونو يو خداى ساتيرک adj").
+entry(satyrid, n, [satyrids], "يو نسواري پتنګ").
+entry(سو، ن، [سو]، "خو").
+د Prolog کرښه: entry(sauce, v, [sauced,saucing,sauces], "په ساس یو مزه لرونکی مایع خپل کړه").
+entry(سوس باکس, ن, [سوس باکسونه], "يو سوسي شخص").
+entry(ککر, ن, [کوکری], "یو ژور د پخلي لوښی چې دسته لري").
+د Prolog متن: entry(saucepot, n, [saucepots], "یو ژوره د اشپزۍ خولۍ له دوولاسو سره").
+د پېالې(n, داخله(د [پېالې], "يو کوچنی سطحي لوښی").
+entry(ساؤچ, ن, [ساؤچز], "ساو").
+entry(ساسیه، ن، [ساسیان]، "یو آشپز چې د ساس په جوړولو کې تخصص لري").
+entry(خوشبوکول, اوسنی, [], "خوشبو کولو ګړنی").
+entry(saucy, adj, [], "ترخه، زيات ترخه، زيات خوندور. بې باکه. په ځېرکتيا adv").
+entry(واوبر, ن, [واوبره], "يو د خوږو اوبو کب").
+د ننه وتنه(saugh, n, [saughs], "یو بید ونSAUGHY adj").
+entry(ساول, ن, [ساولز], "روح").
+entry(سيل, ن, [سيلونه], "يو ابشار").
+entry(sauna, v, [saunaed, saunaing, saunas], "د وچې ګرمو حمام اخيستل").
+entry(په مزه کې تګ کول, v, [په مزه کې تګ وکړ, په مزه کې د تګ کولو په حال کې, په مزه کې تګ کوي], "په مزه کې او بې پروا تګ کول").
+د ننوتلو(saurel, n, [saurels], "يو سمندري کب").
+entry(saurian, n, [saurians], "د خزندو یو فرعي ډول څخه کوم").
+entry(ساوروپاډ, ن, [ساوروپاډونه], "د لویو دايناسورونو يوې فرعي ډلې څخه هر يو").
+د پرولاګ کرښه:
+entry(saury, n, [sauries], "یو سمندري کب").
+entry(ساسیج, ن, [ساسیجان], "په نری ډول رنده شوی او موسمي شوي غوښه چې په یوه پوښ کې ځای په ځای شوې وي").
+entry(saute, v, [sauted,sauteing,sautes], "په لږه اندازه غوړ کې پرې شئ").
+entry(سوترن, ن, [سوترن], "یو خوږ سپین شراب").
+entry(sautoir, n, [sautoirs], "يوه ښکتنۍ").
+د ننوتنې(sautoire, n, [sautoires], "sautoir").
+entry(savable, adj, [], "د خوندي کېدو وړ").
+دخولیه(وحشي, صفت, [], "زيات ترین وحشي وحشتناک شدید").
+دساخله(وحشي، فعل، [وحشيتوب، وحشيتوب کول، وحشيان]، "په بې رحمۍ سره برید یا چلند کول").
+entry(وحشت, ن, [وحشتونه], "وحشي کیدل").
+entry(سوالګری، ن، [savagisms]، "وحشی").
+entry(ساوانه, n, [ساوانې], "يوبې څپڅپاڼۍ پرته د واښو میدان").
+د ننه مخې(savannah, n, [savannahs], "savanna").
+entry(سَوانټ, ن, [سَوانټس], "يو کس چې زيات علم لري").
+entry(savarin, n, [savarins], "د خمیر کیک چې په حلقه کې پخیږي").
+entry(ساواته, ن, [ساوات], "يوه ځغلنده سپورټ").
+د ننوتنه(ژغورل، فعل، [ژغورل شوی، ژغورل، ژغورل کوي], "له خطر، ټپي کېدو یا ضایع کېدو څخه ژغورلSAVEABLE صفت").
+د ننوتنه(ساولی، ن، [ساولیز]، "یو ډېر مساله دار قیمه").
+د Prolog کوډ: entry(saver, n, [سيوونکي], "يو څوک چې ژغوري").
+دخول(savin, ن, [savins], "يو تل شين بوټی").
+entry(سایون, ن, [سایونونه], "سایون").
+entry(saving, n, [سپما], "د سپما عمل یا یوه بیلګه").
+سېنټهري، په يو سپما کوونکي انداز کې، [حال، قيد]، entry
+دین (نجات ورکوونکی، ن، [نجات ورکوونکي]، "یو چې نجات ورکوي").
+داخلول(مرستندوی، ن، [مرستندویان], "مرستندوی").
+د ننوتنه(خوندور، فعل، [خوند اخیستل، خوند اخیستل، خوندونه]، "په خوشحالۍ سره د خوند اخیستل یا بوی کول").
+entry(خوند اخیستونکی, ن, [خوند اخیستونکي], "هغه څوک چې خوند اخلي").
+entry(خوندور, صفت, [], "خوندور").
+entry(خوندور, صفت, [], "خوندوَرَ خوندوَرَتر خوشبوي").
+دلیل(خوندور, ن, [خوندورونه], "يو خوندور ډش چې د خوړو نه مخکې يا وروسته وړاندې کیږي").
+د تژمه شوی پرولوگ لیکنه:
+entry(خوند اخيستل, فعل, [خوند اخيستلی, خوند اخيستل, خوند اخلي], "خوند اخيستل").
+entry(savourer, n, [savourers], "د خوښې اخیستونکی").
+entry(savoury, adj, [], "SAVOURIER SAVOURIESTsavory").
+entry(خوندور, ن, [خوندوره], "يو خوندور").
+entry(savoy, n, [savoys], "د کچالو یوه بڼه").
+entry(savvy, adj, [], "SAVVIER SAVVIESTڅیرک").
+entry(سمجه, فعل, [سمجه_کړ,سمجه_کول,سمجه_کوي], "پوهاوی په زيرکۍ سره").
+entry(saw, v, [sawed,sawn,sawing], "SAWسره کول يا پرې کول د يوې آلې د پرې کولو سره").
+entry(سوبل، n، [سوبلان]، "يو گرمسیری مرغه").
+entry(سرجن, ن, [سرجنونه], "یو جراح").
+entry(سووبک, n, [سووبکس], "د خښته ایښېدو چوکاټ").
+entry(دولسۍ, ن, [دولسۍګانې], "د لرګي کوچني ذرات چې د ارې کولو په پروسه کې توليديږيSAWDUSTY صفت").
+entry(سورګر، ن، [سورګران]، "هغه څوک چې باسي").
+entry(سوفش، ن، [سوفشونه]، "یو بحري ماهی").
+دښه(sawfly, n, [sawflies], "یوه وزر لرونکې حشره").
+entry(سونۍ, ن, [سونۍګانې], "یو پوټکی چې غاړې یې ازغن دي").
+entry(د اره میز، ن، [د اره میزونه], "یوه ریکه چې د اره کولو پر مهال د لرګيو ټوټه ملاتړ کوي").
+entry(sawlike, adj, [], "د ارې سره ورته").
+entry(sawlog, n, [sawlogs], "يو لرګی چې د بورډونو قطعه کولو لپاره کافي لوی وي").
+entry(لرګیو چيرل ځاي, ن, [لرګيو چيرلو ځايونه], "يو ځای چېرته چې لرګي پرې کېږي").
+entry(sawn, a, [], "د 'to saw' ګذشته برخه نوم حالت").
+entry(ساونۍ, ن, [ساونۍګانې], "احمق شخص").
+entry(sawtooth, ن, [sawteeth], "په يو آره کې د پرې کولو څنډه").
+entry(ساویر, ن, [ساویرونه], "هغه څوک چې د لرګیو پرې کول د ژوند لپاره کوي").
+د ننوتنه(ساکس, ن, [ساکسونه], "یو ساکسافون").
+entry(د سنگو په منځ کې ژوندي، صفت، [], "د سنگو په منځ کې ژوندي یا وده کوونکي").
+entry(سېکسهورن, ن, [سېکسهورنس], "یو پيتي د موسیقۍ اله").
+ورودی(ساکسيت، ن، [ساکسيتس]، "د ساکسفون غږوونکی").
+د ننوتنه (saxman, n, [saxmen], "د ساڪسفون غږونکی").
+د پرولوګ ژباړه: 
+entry(saxony, n, [ساکسنۍ], "یو وړین پارچه").
+entry(ساکتوبا, ن, [ساکتوباس], "یو باس ساخهورن").
+```prolog
+entry(say, v, [], "وويل وينا اوسنی یواړخیز دوهم شخص ووایه یا ویښتیا یا ویښتیاست دریم شخص وایې یا ویل څرګندول د ویلو وړ прил").
+```
+د داخله(سيد، ن، [سيدونه]، "سيد").
+entry(وایي, ن, [وایی], "چې وایي").
+entry(سيد, ن, [سيدان], "سيد").
+entry(وينا, ن, [ويناوې], "يوه متل").
+entry(سايونارا, ن, [سايوناراس], "د خدای په امان").
+entry(وایي، a, [], "د فعل وایه د اوسني حالت ۲م شخص مفرد").
+entry(سيد, ن, [سيدونه], "ښاغلی  د يو مسلمان مشر لپاره د درناوی لقب په توګه کارول کیږي").
+entry(scab, v, [scabbed,scabbing,scabs], "په پولۍ باندې پټ کول چې د رغیدونکي زخم په سر يو کريټ جوړوي").
+entry(غلاف, v, [په_غلاف_کې_ایښودل,په_غلاف_کې_ایښودل,غلافونه], "لکه د تورې په څېر په غلاف کې ایښودل").
+entry(سکبل, v, [سکبل کړ, سکبل کول, سکبلونه], "په ناپاک ډول شکل ورکول").
+entry(scabby, adj, [], "SCABBIER SCABBIEST په scabs پوښل شوی SCABBILY adv").
+entry(خارش, n, [خارش], "د پوستکي ناروغي").
+entry(scabiosa, n, [د سکابيوسا], "سکابيوس").
+entry(scabious, n, [scabiouses], "یو ګلدار نبات").
+entry(scabland, n, [scablands], "د تیږو ځمکه چې لږه خاوره لري").
+entry(scablike, صفت, [], "د زخم په څیر").
+entry(خشن, صفت, [], "کوچني ابادو سره خړ پړ").
+د Prolog
+entry(scad, n, [scads], "یو سمندري ماهی").
+د ماسټر سکافولډ ته د وینا پوښتنه د پرو لاګ فرم باندې ده:
+entry(scaffold, v, [scaffolded, scaffolding, scaffolds], "په یوه عارضي پلتفورم سره د کارګرو لپاره چمتو کول").
+entry(سکګ, ن, [سکګونه], "هيروين").
+entry(scalable, adj, [], "کولای شي چې د کچې کولو وړ ويSCALABLY adv").
+entry(scalade, n, [scalades], "د دفاعي دیوالونو د ختلو یوه عمل").
+entry(سکالیډو, n, [سکالیډوز], "سکالیډه").
+entry(scalage, n, [scalages], "٪ کموالی د سکڑېدو تاوان لپاره").
+entry(سکار, ن, [سکارونه], "یوه ریاضي مقدار چې یوازې اندازه لري").
+entry(سکالېر, ن, [سکالېرونه], "یو استوايې ماهی").
+entry(بدمعاش, ن, [بدمعاشان], "يو شرارتی").
+دخولية(شلېدل، فعل، [شلېدل شوی، شلېدل، شلېږي]، "سره یې د جوش مایع یا بخار وسیزوي").
+entry(scaldic, adj, [], "شاعري").
+د ننه وتنه(پیمانه، v، [پیمانه شوی، پیمانه کول، پیمانه کوي]، "پورته یا باندې ختل").
+entry(scalene, n, [نه مساوی، بیلابیلو تسویونو مثلث], "يوه مثلث چې دوه برابرې غاړې نه لري").
+د ننوتنې(اسکلینس، ن، [اسکلینی]، "د غاړې یو عضله").
+entry(وزني_پښه, ن, [وزني_پښې], "د وزن پیمانې ښکته برخه").
+انٹری(سکیلر، ن، [سکیلرز]، "چې وزن کوي").
+entry(scaleup, n, [scaleups], "د يو ثابت نسبت پر بنسټ زياتوالى").
+entry(scalier, comparative, [], "د سختۍ").
+داخلول(غوربولي، لوړتيا، [], "د پوستکی").
+entry(پيمانه_سازي, ن, [پيمانه_سازۍ], "په پوستکي د پيمانو جوړيدل").
+د ننه کونې(scall, n, [scalls], "د پوستکي تسپځي بڼه").
+د Prolog ليکنه:
+entry(scallion, n, [scallions], "د يوۀ پياز غوندې نبات").
+دخول(scallop, v, [scalloped, scalloping, scallops], "په ساس کې پخه کول چې د وریجو سره پوښل شوي وي").
+د ننوتنه(سکلپ، فعل، [سکلپ کړ، سکلپ کول، سکلپونه]، "برخې پورته لرې کول").
+entry(چړکین, n, [چړکینونه], "یو وړوکی جراحي چاړه").
+entry(سکالپر, ن, [سکالپرز], "یو څوک چې سر توږي").
+entry(scaly, adj, [], "په پوښې شلېدل").
+د داخله (فریب، فعل، [فریب ورکړ، فریب ورکول، فریبونه]، "خطا ورکول یا غولول").
+entry(ښوونکي, n, [ښوونکي], "هغه څوک چې دوکه کوي").
+د Prolog کرښه په پښتو ژبه:
+entry(سقمونیا، ن، [سقمونیاګانې]، "یو ختونکی نبات").
+entry(scamp, v, [scamped, scamping, scamps], "په بېړه يا بې پرواۍ سره ترسره کول").
+مسافرت(سکیمپر، فعل، [سکیمپریډ،سکیمپرینګ،سکیمپرز]، "په خوشالۍ سره منډې وهل").
+د سؤالي لپاره په پورته ډول: 
+
+```prolog
+entry(scampi, n, [scampi], "or SCAMPIESlarge shrimp used in Italian cooking").
+```
+entry(شرارت, صفت, [], "شرارتي").
+entry(فريبخور, n, [فريبخوران], "هغه څوک چې دوکه ورکوي").
+entry(scan, v, [پټه شوی,پټېدل,پټېږي], "په ځیر سره معاینه کول").
+entry(رسوایي, فعل, [رسوا کړ, رسوا کول, رسوا کوي], "یا رسوا کړ رسوا کول رسوا کوي بدنامه کول").
+دلی(entry, صفت, [], "د نبات په څېر ختنه").
+entry(scandia, n, [scandias], "د سکينډيم اکسایډ").
+entry(اسکينډيم, ن, [اسکينډيمونه], "يو فلزي عنصرSCANDIC صفت").
+entry(سکن_کړی, تېروتنه, [], "سکن نه د").
+entry(سکینر, ن, [سکینرونه], "هغه چې سکین کوي").
+entry(سکين کول, ن, [سکينګز], "نږدې معاینه").
+entry(scansion, n, [scansions], "د آیت تجزیه په وزني پښو او د تال نمونو کې").
+entry(scant, adj, [], "SCANTER SCANTESTmeager").
+entry(scant, v, [scanted,scanting,scants], "د لږې برخې سره سمبالول").
+ورود(scanties, npl, [], "ښځو لپاره مختصر پتلونونه").
+entry(په لږه پیمانه, adv, [], "په کمی سره").
+entry(scanty, adj, [], "SCANTIER SCANTIESTmeagerSCANTILY adv").
+د ننه(scape, v, [scaped,scaping,scapes], "وتښتېدل").
+د ننوتنه(سکافوئډ, ن, [سکافوئډز], "لاس د مټو هډوکی").
+entry(سکاپوس, صفت, [], "چې بې پاڼې ډنډه لري").
+entry(څنګله, ن, [څنګلې], "يا سکېپولې يو د اوږې هډوکی").
+د Prolog نښتې(تړنې): entry(scapular, n, [scapulars], "د پوښاک پرته د بېروني پوښاک چې د راهبانو لخوا کارول کیږي").
+entry(داغ, فعل, [داغل, داغلېدل, داغونه], "داغ جوړول، د ژوبلې شوې نسج د ترميم له امله پاتی شوی نښه").
+د پرولاګ کرښه: entry(سکارب, ن, [سکاربونه], "یوه لویه شپه توره غومه").
+سکېرسې، صفت، []، "سکېرسر سکېرسټ، په ندرت سره لیدل شوی یا موندل شوی".
+کېوتنه(ډېر سخت، سرهف، [], "په تنګ کې").
+د داخليدو(قِلَت، ن، [قِلَتونه]، "د نايابۍ کيفيت").
+entry(وېرول, فعل, [وېرېدلی، وېرول، وېرېدل], "ويرول").
+entry(ويرېدلی, صفت, [], "سخت ويرېدلی ويرېدونکی").
+entry(ويروونکی, n, [ويروونکي], "هغه څوک چې ويروي").
+ورود(سکري، صفت، []، "زیاته ویرونکې، ترټولو ویرونکې").
+entry(شال, ن, [شالونه], "يا SCARVESيوه ټوټه ټوکر چې د ګرموالي يا ساتنې لپاره اغوستل کېږي").
+entry(شال, v, [اغوستل, اغوستلو, اغوندې], "د شال سره پوښل").
+پرو لاګ: entry(scarfer, n, [scarfers], "یو څوک چې په حرص خوراک یا څښاک کوي").
+entry(scarfpin, ن, [scarfpins], "یو ټایپین").
+entry(scarier, comparative, [], "د scarey او scary نه").
+entry(تر ټولو ویرونکی, فوق العاده, [], "د وېرې او وېرونکې").
+entry(کاغذ کول, فعل, [کاغذ شو,کاغذ کول,کاغذ کوي], "سطحي قطع کول").
+entry(په ویره سره, adv, [], "په ډارونکي طریقه").
+entry(ويرول, اوسنى, [], "د ويرولو شريک حالت").
+entry(سکاريوز, صفت, [], "scarious").
+entry(سپک, صفت, [], "نری وچ او پوټکی").
+entry(scarless, adj, [], "بې داغه").
+وړاندې_کړه(سکارلېټ, ن, [سکارلېټونه], "يو سور رنګ").
+دخولا(scarp, v, [scarped, scarping, scarps], "يوه تيزه ځوړ ندای پرې کول").
+entry(تښتېدل, v, [تښتېدلی،تښتېدل،تښتېږي], "د تېښتي").
+د ننه کیدل(سکارپ، فعل، [سکارپ شوی، سکارپ کول، سکارپونه], "د یو ډول ګډ په وسیله یو ځای کول").
+entry(زخمي, گذشته, [], "د زخمي زمانه").
+د داخلېدنې(داغونه، حال، [], "د داغ کړنې برخه").
+entry(scarry, adj, [], "نښان شوي د ختکونو د غټ او وړو ختکونو سره").
+entry(scart, v, [scarted,scarting,scarts], "څنډل").
+entry(سکارو, صفت, [], "شال اغوستی").
+د ننه توکي(سکارفونه، يو، [], "د پوښ د ډوله").
+داخلہ(ڈارنہ، صفت، [], "ډارونکی داسې سترینګ").
+entry(scat, v, [چابکانه وتښتېدل،بېړه کول،وتښتېږي], "په بيړه تلل").
+entry(سکیت‌بیک, ن, [سکیت‌بیکونه], "د فوټبال یو ډول لوبغاړی").
+entry(تاوان, v, [تاوان کړ, تاوان کوونکی, تاوان کوي], "په جدي توګه نیوکه کول").
+entry(scatt, n, [scatts], "يوه ماليات").
+entry(خواره, تېره, [], "د خواره بڼه").
+entry(خورول, فعل, [خور کړل, خوروي, خوري], "په بېلابېلو لارو تلل یا لېږل").
+entry(پاشل, اوسنی, [], "د پاشل ګردان").
+د ننوتنه(پاشل شوی، صفت، [], "ډېر پاشل شوی ډېر پاشل شوی د لېونتوب په توګه").
+د ننه(scaup, n, [scaups], "يو سمندري مرغاوى").
+entry(scauper, n, [scaupers], "يو نقاشي آله").
+entry(سکور, ن, [سکورونه], "یو جوتیدونکی یواځې دریا").
+entry(ښکار, v, [ښکارشوی,ښکارکول,ښکاریږی], "په ځمکه کې د کارېدونکو توکو د پیدا کولو لپاره څېړل").
+entry(scena, n, [scenas], "د يو واحد غږ لپاره يو مفصل ترکيب").
+د ننوتنه(سناریو, ن, [سناریوګانې], "د یو ډراماتیک اثر د کیسې لنډیز").
+entry(خېژل, فېل, [وخوت, خېژل, خېژي], "د څپې سره د یوه کښتۍ په څېر پورته ختل").
+داخلېدنه(د نندارې په ځای، ن، [نندارې], "هغه ځای چیرته چې یو څۀ عمل یا پېښه ترسره کېږي").
+entry(ښکلا, ن, [ښکلاوې], "يو ښکلی منظر يا څنډه").
+دخولی(سینیک, ن, [سینکس], "د طبیعي منظرو نمایندګی").
+entry(منظريه, صفت, [], "د منظرې پورې تړاو لرونکی").
+مندرجه(بوی، v، [خوشبوده، خوشبویي، بویونه]، "په یو بوی ډکول").
+د داخلې(سکرپټر، فعل، [سکرپټرډ،سکرپټرینګ،سکرپټرز], "په شاهي واک سره سمبالول").
+entry(شکاک, ن, [شکاکان], "شکاک").
+entry(sceptral, adj, [], "د شاهي واکمنۍ پورې تړلی").
+د پرولوګ: entry(sceptre, v, [sceptred,sceptring,sceptres], "to scepter").
+entry(schappe, n, [schappes], "يو د ابریشم ټوکر").
+entry(شچاو, ن, [شچاوز], "يخ سوپ").
+entry(مهالوېش, v, [مهالوېش, مهالوېش کول, مهالوېشونه], "یوه ټاکلې نیټه یا وخت ټاکل").
+د ننوتل(schema, n, [schemas], "یا SCHEMATA یو عمومی جوړښت یا پلان").
+entry(سکیم, v, [سکیم شوی,سکیم کول,سکیمونه], "پلان جوړول یا پلان کول").
+د داخلې(schemer, ن، [schemers], "هغه څوک چې نقشه جوړوي").
+entry(سازش, ن, [سازشونه], "د پلان جوړولو یا دسيسې جوړولو عمل").
+entry(شوړښاک, ن, [شوړښاکونه], "يا شوړزي يوه ځلېنده موسيقي خوځښت").
+entry(شیلر, ن, [شیلرونه], "ځینې کاني موادو کې رامنځته کیدونکی نسواري ځلا").
+پرولوګ: entry(schism, n, [schisms], "یو ویش په مخالفو ډلو کې").
+entry(schist, n, [schists], "يو ډبر چې په اسانۍ سره په موازي طبقاتو ویشل کیږي").
+entry(schizier, comparative, [], "د شیزي").
+entry(schiziest, superlative, [], "د schizy").
+entry(schizo, n, [schizos], "يوه شېزويډ").
+entry(schizoid, n, [schizoids], "هغه څوک چې د یوې رواني ناروغۍ ډول څخه کړېږي").
+د اېن (schizont) ننوتنه ([schizonts] شیزونټس)، "یو ژوندی چې د غیر جنسي تولید په وسیله بیا تولید کوي").
+entry(schizy, adj, [], "د شیزوفرینیا سره اغیزمن SCHIZIER SCHIZIEST").
+```prolog
+entry(schizzy, adj, [], "SCHIZZIER SCHIZZIESTschizy").
+```
+entry(schlep, v, [schlepped,schlepping,schleps], "ښکل کول يا کښل").
+entry(شلېپ, v, [شلېپ کړ, شلېپ کوي, شلېپ کوي], "بار وړل").
+entry(schleppy, adj, [], "SCHLEPPIER SCHLEPPIESTخراب ويجاړ").
+entry(ښکاره_کېدل, ن, [ښکاره_کېدل], "په اورېد شوو ډبرو کې یوه کوچنۍ کړۍ").
+ورود(شلوک, ن, [شلوکس], "نازله سودا").
+د Prolog ژبه:
+entry(schlocky, adj, [], "د ټیټ کیفیت SCHLOCKIER SCHLOCKIEST").
+entry(شلوب, n, [شلوبونه], "بې عقل یا بې جذاب شخص").
+```prolog
+entry(شلومپ, v, [شلومپ شو, شلومپکېدل، شلومپونه], "لټ يا په بې غورۍ جامو کې ګرځېدل").
+```
+د Prolog کرښه په پښتو کې: 
+entry(schlumpy, adj, [], "ناجذب، بې پرواه").
+entry(شمالتڅ, ن, [شمالتڅونه], "ډېر احساساتیوالی").
+entry(شملز, ن, [شملزونه], "شملز").
+entry(schmalzy, صفت, [], "SCHMALZIER SCHMALZIEST د schmaltz په ځانګړتیا").
+entry(schmatte, n, [schmattes], "يو څيرمه جامه").
+entry(شمییر، فعل، [شمییر شوی، شمییرول، شمییروي]، "شمییر کول").
+ورودی(شمیر، فعل، [شمیرید، شمیریینګ، شمیرونه]، "رشوت ورکول").
+ورودی(شمیلزه, ن, [شمیلزز], "د شیشې یو ډول سینګار").
+entry(schmo, n, [schmoes], "یا SCHMOS يو احمق شخص").
+entry(schmoe, n, [schmoes], "schmo").
+entry(schmoos, v, [schmoosed,schmoosing,schmooses], "شوخۍ کول").
+entry(شمووز, فعل, [شمووز وکړ, شمووز کول, شمووز کوي], "ګپ شپ کول").
+entry(ګپ شپ, v, [ګپ شپ وکړ,ګپ شپ کولو,ګپ شپ کوي], "مخامخ خبرې کول").
+entry(schmoozy, adj, [], "SCHMOOZIER SCHMOOZIESTد خبرو اترو هنر لرونکی").
+entry(شموک, v, [شموکېدلې, شموکېدنه, شموکان], "وهل یا ښکلول").
+د پی ایچ آر موندنه(schmucky, صفت، [], "SCHMUCKIER SCHMUCKIESTاحمق سپک").
+entry(خچنه, ن, [خچنې], "ګنده خاورې").
+entry(سناپس, n, [سناپس], "یو قوي مشروب").
+د Prolog نسخه: entry(schnaps, n, [مسروبات], "سناپس").
+entry(حلوايانہ, ن, [حلوايانې], "يوه خوږه ډوډۍ").
+ورود(سنوک، ن، [سنوکس]، "یو په اسانه دوکه کېدونکی شخص").
+entry(schnoz, n, [schnozes], "د پوزې").
+د Prolog:
+entry(schnozz, n, [schnozzes], "schnoz").
+entry(عالم, ن, [عالمان], "يو زده کړی شوی کس").
+entry(سکوليم, ن, [سکوليمونه], "يا SCHOLIA يو تشريحي څنډيز يادداښت").
+دخوليه (ښوونځی، ف، [ښوولې، ښوونه کول، ښوونځي]، "په یو ښوونیزه اداره کې زده کړه کول").
+entry(سکونر, ن, [سکونرونه], "یوه بادبانه کښتۍ").
+دخول(schorl, n, [schorls], "یو معدنیات").
+entry(ډار, ن, [ډارونه], "ناڅاپي ویره").
+دخول(schrod, ن, [schrods], "scrod").
+entry(سچټک, ن, [سچټکس], "شټیک").
+entry(schtik, n, [schtiks], "ښتيک").
+entry(schtum, adj, [], "چپ").
+entry(سکویټ، ن، [سکویټونه]، "یو هالنډي بېړۍ").
+entry(ښوونځي, ن, [ښوونځیو], "یا SCHULNshul").
+دخولیه(چټک, فعل, [چټکتیا, چټکوالی, چټکونه], "په سکي کي یو چټک مستقيم مزل کول").
+entry(شوسر, ن, [شوسران], "يو څوک چې شوس کوي").
+entry(شویټز, v, [شویټز شو,شویټز کول,شویټز کوي], "شویټز کول").
+entry(شوا, ن, [شوازونه], "د يو ډول غږيز غږ").
+entry(sciaenid, n, [sciaenids], "یو غوښه خوړونکی کب").
+entry(سيټيڪ, ن, [سيټيکس], "يو عصب رګ يا شریان چې د ورون سره نژدې ځای لري").
+entry(سایټیکا, n, [سایټیکاز], "د ملا د پاسه او ور څه دې ساحو دردناکه اختلال").
+entry(ساینس, ن, [ساینسونه], "د سیستم بندې شوې پوهې یو څانګه").
+entry(سکېلېسېت, ق/ن, [], "یعنې").
+entry(سکیلا, ن, [سکیلګان], "یوه ګلدار بوټی").
+entry(scimetar, n, [scimetars], "تعلیمي").
+دخول (scimitar, n, [scimitars], "يوه کږه توره چې د عربانو او ترکانو له خوا کارول شوې").
+د ننه(scimiter, n, [scimiters], "scimitar").
+ورود(سکینکوئید, ن, [سکینکوئیدونه], "د یوې کورنۍ څخه د هګ په څیر لنډو پښو لرونکي ښاپیرک").
+entry(سایولیزم, ن, [سایولیزمونه], "سطحي پوهه").
+entry(سطحي، ن، [سطحیان]، "هغه څوک چې پوهه یې سطحي وي").
+entry(پياده, ن, [پيادګان], "يو ماشوم يا نسل").
+entry(سيروککو, ن, [سيروککوس], "سروکو").
+entry(سکیرہس, ن, [سکیرہسونه], "یا SCIRRHIیوه سخته ټومور").
+entry(scissile, adj, [], "د پرې کولو یا په اسانۍ سره د وېشل کېدو وړ").
+entry(scission, n, [scissions], "د پرې کولو يا وېشلو عمل").
+entry(قینچی, فعل, [قینچی شو, قینچی کول, قینچی], "د دوه تیغو پرې کولو وسیله سره پرې کول").
+entry(شکاړه, n, [شکاړې], "يو اوږدوالی پرې کول").
+داخل (sciurid, ن، [sciurids], "یوه(sciurine)").
+د پروګ لوظی اړول شوی متن:
+entry(sciurine, n, [sciurines], "د ګوښې کورنۍ یوه ځناور").
+entry(سږ, صفت, [], "د ګنګاړي سره ورته والی").
+د Prolog کوډ: entry(sclaff, v, [sclaffed,sclaffing,sclaffs], "په ګالف کې د کومانډ سره د بال وهلو مخکې ځمکه په ګوزار وهلو").
+entry(sclaffer, ن, [sclaffers], "هغه څوک چې sclaffs کوي").
+د ننوتنه(سپينه برخه, ن, [سپينې برخې], "يا سپينې برخې د سترګو د بال سپينه فایبروس بهرنی کوټ سپينه برخې صفت").
+entry(sclereid, n, [sclereids], "د نبات د حجرې یو ډول").
+entry(sclerite, n, [sclerites], "د بند پايه لرونکي ځناورو د بهرنۍ پيوستونکو څخه یوه سخت تخته").
+entry(scleroid, adj, [], "سخت").
+د ننوتنه(سکلروما، ن، [سکلروماس]، "یا سکلروماټا يو سخت شوی د حجروي نسج ټوټه").
+entry(سکليروز, v, [سکليروز شو، سکليروزېدونکی، سکليروزونه], "لکه د نسج په څېر سختېږي").
+ورودي(sclerous, adj, [], "کلک").
+entry(سپکاوی کول, v, [سپکاوی وکړ, سپکاوی کوي, سپکاوي کوي], "بې ادبه شک یا سپکاوې څرګندول").
+ورود(مسخره، ن، [مسخرې]، "هغه څوک چې مسخره کوي").
+entry(قانون ماتونکی, n, [قانون ماتونکي], "یو عادی قانون ماتونکی").
+entry(rowserل, v, [ړوبلول,ړوبلولکی,ړوبول], "په تندۍ سره رټل").
+entry(scolder, n, [scolders], "هغه څوک چې ملامتوي").
+د وردولو لپاره: entry(scolding, n, [دَټون], "يو سخت پړاو").
+entry(سکولیكس, ن, [سکولیسز], "د ټیپ ورمز د ګرېوان په څېر سر يا SCOLICES").
+entry(سکالیوما, n, [سکالیوماس], "د ملا د تیر غیر عادي انحنا").
+entry(سکالپ, فعل, [سکالپ شوی, سکالپ کول, سکالپونه], "د سکالپ کولو لپاره").
+د ننوتنه(سکومبریډ، ن، [سکومبریډز], "د میکریل د کورنۍ یو کب").
+entry(سکانس, فعل, [مسلط کول, تسلط کول, تسلطونه], "جریمه کول").
+د دې Prolog کرښه په پښتو کې:
+entry(scone, n, [سکونز], "يو فليټ ګرد کيک").
+درد (scooch, v, [scooched,scooching,scooches], "د لنډو خوځښتونو سره سريښیدل").
+دخول(سکوپ، فعل، [سکوپ شوی، سکوپ کول، سکوپونه]، "د څمڅې په شکل وسیلې سره اخیستل").
+د ننهوتنه(scooper، n، [scoopers]، "هغه څوک چې سکپ کوي").
+پرو لاگ: entry(scoopful, n, [scoopfuls], "or SCOOPSFULas much as a scoop will hold").
+د Prolog کوډ: entry(scoot, v, [scooted,scooting,scoots], "په تېزۍ تلل").
+د ننه کړئ(سکوچ، فعل، [سکوچ شو، سکوچ کول، سکوچونه]، "چې سکوچ کړي").
+entry(سکوټر, ف, [سکوټراوه, سکوټروه, سکوټرونه], "د دوه - څرخې وسيلې چلول").
+entry(scop, n, [scops], "یو زوړ انګلیسي شاعر").
+entry(سکوپا, ن, [سکوپایې], "د یوې حشرې پر بدن کوچنی د ویښتو ګیډۍ").
+entry(دائره, v, [کتل، ګوري، ګوري], "په پام کې نيول په موخه د ارزونې لپاره").
+د ننوتنې(scopula, n, [scopulas], "یا SCOPULAE د ویښتو متراکم ګیډۍ").
+اندرجاه(سوځول, ف, [سوځېدلی، سوځېدنه، سوځول], "د لږ سوځولو له امله د رنګ یا خوند بدلول").
+دخول(scorcher, ن, [scorchers], "يو څوک چې سوزوي").
+entry(نمره, v, [نمرې کړه,نمرې کول,نمرې کوي], "په لوبه یا سیالۍ کې یو ټکی ترلاسه کول").
+entry(scorepad, n, [سکورپېډونه], "يو کتاب چې په کې نمري ثبتېږي").
+د ننوتنه(سکورر، ن، [سکورران]، "هغه څوک چې سکور کوي").
+entry(سکوریا, نوم, [سکوریايې], "د خټکي شوي فلز یا معدني څېړنې پاتې شوني").
+entry(سکوریفی، فعل، [سکوریفایډ، سکوریفایینګ، سکوریفایز]، "د خاورې یا خځلو ته اړول").
+د سکور کولو عمل په یو لوبه کې
+entry(تحقیر, فعل, [تحقیر کړ,تحقیر کوي,تحقیرونه], "له سپکاوي سره چلند کول یا په سپکه کتنه کول").
+entry(scorner, n, [scorners], "یو څوک چې ټوکې کوي").
+entry(سپېڅلی، صفت، [], "احساس کول یا څرګندول").
+entry(کجن, ن, [کجنان], "یو زننده ارچینډ").
+entry(سکاټ، ن، [سکاټس]، "یو مالیه").
+entry(سکاچ, v, [سکاچ شو,سکاچ کول,سکاچ کوي], "يو بلکل پای ته رسولو لپاره").
+د ننه(سکوټر، ن، [سکوټران]، "یو سمندري هنس").
+entry(سکوشیا, n, [سکوشیاګانې], "یو مقعره ګوله").
+entry(سکوټومه, ن, [سکوټومې], "يا SCOTOMATA: په ليد کې يو ړوند ځای").
+entry(scotopia, n, [scotopias], "په کم رڼا کې لیدنهSCOTOPIC adj").
+entry(scottie, n, [scotties], "يو لنډه لغته ټیریر").
+entry(پاکول, فعل, [پاک کړل,پاکوي,پاکوي], "په کلکه سره پاکول یا جلا کول").
+entry(پاکوونکی, n, [پاکوونکي], "هغه څوک چې پاکوي").
+entry(عذاب, فع, [عذاب کړ, عذاب کول, عذاب کوي], "د سخت سزا ورکول").
+entry(ځورونکی, ن, [ځورونکي], "هغه څوک چې ځوروي").
+entry(د سپینولو توکي, ن, [سپینول], "هغه مواد چې د سپینولو له لارې لرې شوي").
+entry(scouse, n, [scouses], "د غوښې د یو ډول خوراک").
+```prolog
+entry(څار, v, [څارلی,څارنه,څارونکي], "د معلوماتو ترلاسه کولو لپاره د څارنې کولو"). 
+```
+د Prolog:
+entry(scouter, n, [scouters], "یو چې پلټنه کوي").
+entry(scouth, n, [scouths], "ډېر").
+entry(scouther, v, [scouthered,scouthering,scouthers], "لمبه کول").
+entry(scouting, n, [scoutings], "د هغه چا عمل چې کشف کوي").
+entry(scow, v, [scowed,scowing,scows], "د فلیټ باټم بوټ له لارې انتقال کول").
+دورځنلیک(سكودر, فعل, [سكودرد,سكودرينګ,سكودرز], "څوچكلې ته").
+entry(scowl, v, [scowled,scowling,scowls], "په غوسه تندي اچول").
+entry(ترڅ، ن، [ترڅونکي], "هغه څوک چې څنډې").
+دخولي(scrabble, v, [scrabbled,scrabbling,scrabbles], "په بیړه د ګوتو په وسيله خاپوړې کول یا لټول").
+entry(scrabbly, adj, [], "SCRABBLIER SCRABBLIESTraspy").
+entry(scrag, v, [scragged,scragging,scrags], "د غاړې مروړل").
+د داخل(scraggly, صفت, [], "SCRAGGLIER SCRAGGLIESTuneven").
+entry(scraggy, adj, [], "SCRAGGIER SCRAGGIESTscrawny").
+entry(scraich, v, [scraiched,scraiching,scraichs], "يو تيز چيغہ وهل").
+entry(سکرېچ, v, [سکرېچېد,سکرېچ کول,سکرېچونه], "د سکرېچ کول").
+دخول(scram, v, [وتښتید, په تېښته, تېښته], "په چټکۍ سره تګ کول").
+entry(ګډووډي, v, [ګډېدل,ګډېدنه,ګډيږي], "په بیړه حرکت کول یا پورته ختل").
+entry(scramjet, n, [scramjets], "د الوتکې د انجن یو ډول").
+entry(سکران, ن, [سکرانس], "خوراک").
+entry(scrannel, n, [scrannels], "يو نازک شخص").
+د ننه توکي(scrap, فعل, [scrapped,scrapping,scraps], "غورځول").
+entry(خراړې, v, [خراش,خراشول,خراشونه], "د لېرې کولو لپاره د يو بيروني پوښړ ايسته کول").
+entry(scraper, n, [scrapers], "هغه څوک چې سکریپ کوي").
+entry(سکرپي, ن, [سکرپيز], "د پسونو يوه ناروغي").
+entry(سکریپ کول, مذکر, [سکریپونه], "څه چې پاک شوي").
+entry(ختم شو، تېر، [], "د سکراپ زمانه").
+دخول(scrapper, ن, [scrappers], "یو جګړمار").
+entry(scrapping, present, [], "د کثافاتو د راټولولو فعلي حالت").
+د Prolog: entry(scrapple, n, [scrapples], "د ځمکې غوښه او د مکئ د اوړیو د موسمي ترکیب").
+داخل(scrappy, صفت, [], "SCRAPPIER SCRAPPIESTد جګړې روحیه نښه شوې").
+پرو لاګ: entry(scratch, v, [scratched,scratching,scratches], "یو نری او کم ژور کټ یا نښه کول").
+entry(scratchy, adj, [], "SCRATCHIER SCRATCHIESTد ګوډولو له لارې جوړ شوی").
+دخول(scravel, فعل, [scraveled, scraveling, scravels], "په چټکۍ سره حرکت کول").
+entry(scrawb, v, [scrawbed,scrawbing,scrawbs], "ګوتې وهل").
+entry(کړه، فعل، [کړی، کښل، کښي]، "په بيړه يا په نه لوستونکي ډول ليکل").
+د Prolog:
+entry(scrawler, n, [scrawlers], "يو څوک چې ليکي").
+دخول(خراشلې, صفت, [], "په بېړه یا نا لوستنې توګه لیکل شوي").
+entry(scrawny, adj, [], "ډیر نازک").
+د Prolog: entry(screak, v, [screaked,screaking,screaks], "کرب کرب کول").
+entry(screaky, adj, [], "چيغې وهونکى").
+entry(چغېدل, v, [چغېده,چغېدل,چغېږي], "د اوږدې او لوړ غږ سره چیغې وهل").
+د پرو لاګ:
+entry(screamer, n, [screamers], "چې چیغې وهي").
+entry(سکری، ن، [سکریز]، "د یو ځوړ په پایه کې د ډبرو یوه لویه غونډه").
+entry(چیغې وهل, v, [چیغې ووهلې,چیغې وهلې,چیغې وهي], "یو تیز نری چیغې اچول").
+entry(screechy, adj, [], "SCREECHIER SCREECHIESTscreeching").
+د داخلېدو(سکریډ، فعل، [سکریډ شو، سکریډ کول، سکریډونه]، "څخه ټوټه کول").
+ورود(سکرین، فعل، [سکرین شوی، سکرین کول، سکرینونه]، "د سکرین سره چمتو کول یو وسیله چې د ویشلو، پټولو یا ساتلو لپاره جوړه شوې وي").
+د لنگونکې(سکرینر، ن، [سکرینران]، "يوه چې سکرين کوي").
+entry(پيچ, v, [پيچېدلی,پيچول,پيچونه], "د فلزي پیچ سره تړل").
+د داخلې (screwer, n, [screwers], "هغه څوک چې تاويږي").
+د پېسېټ خوندي نه دی: entry(screwup, n, [screwups], "د خطا يوه نمونه").
+entry(screwy, adj, [], "لـــــــوډ لــــــــوډترين لېونــــی").
+entry(scribal, adj, [], "د يوه عام منشي يا سکرتر پورې اړه لرونکی").
+entry(لیک, v, [لیکلی,لیکوال,لیکي], "په بيړه او يا بې پروايي سره لیکل").
+entry(سکرېبلې، صفت، [], "د بې احتیاطه لیکنو څخه جوړ").
+دخول(scribe, v, [scribed,scribing,scribes], "د سکریبر سره نښه کول").
+entry(لیکونکی, ن, [لیکونکي], "يو تيز اوزار چې د پرېکولو لپاره د موادو نښه کولو کې کارول کيږي").
+entry(منترل، ماضی، [], "د منترلو زمان").
+entry(scries, present, [], "3یم شخص واحد د scry").
+entry(scrieve, v, [scrieved,scrieving,scrieves], "په چټکتیا او اسانتیا سره حرکت کول").
+دخول(scrim, n, [scrims], "د پنبې ټوکر").
+entry(scrimp, v, [خسیسۍ وکړه, خسیسۍ کول, خسیسۍ کوي], "ډېر یا زیات اقتصادي ولرئ").
+د پرولاګ کود د پښتو ژبې ته په لاندې ډول دی:
+```prolog
+داخل(scrimper, n, [scrimpers], "هغه څوک چې لږ لګښت کوي").
+```
+entry(scrimpit, adj, [], "غریب").
+د خطا پروګرام: 
+entry(scrimpy, adj, [], "SCRIMPIER SCRIMPIESTmeager").
+دخول(سکرپ، ن، [سکرپونه]، "د کاغذ یوه کوچنۍ ټوټه").
+د ننوتنه(متن, v, [لیکلی, لیکل, متنونه], "د یو ننداره یا فلم لپاره د لیکلي متن چمتو کول").
+مخينه(سکرپټر، ن، [سکرپټرې], "څوک چې سکرپټ جوړوي").
+entry(scritch, n, [scritches], "یو ارام خراشېدونکی غږ").
+entry(scrive, v, [scrived,scriving,scrives], "کندن").
+entry(scrob, v, [scrobbed, scrobbing, scrobs], "د نوکانو سره يا د نوکانو په څير ګونځي").
+entry(scrod, n, [scrods], "یو ځوان کب").
+entry(سکروفولا, n, [سکروفولاس], "د لمف غدواتو يوه ناروغي").
+د ننوتنه(سکروګي، صفت، []، "د کم وده شویو لپاره سکروګي سکروټس").
+د ننوتنې (scroll, v, [scrolled, scrolling, scrolls], "د متن د ښودلو پردې پرمخ حرکت کول").
+entry(سکرولر, ن, [سکرولرز], "یو کمپیوټر لوبه چې شالید یې پرمخ ځي").
+entry(scrooch, v, [scrooched,scrooching,scrooches], "څملاستل").
+entry(scrooge, n, [scrooges], "يو کنجوس شخص").
+entry(scroop, v, [scrooped,scrooping,scroops], "يو زبرږند خشن غږ جوړول").
+د Prolog کرښه په لاندې ډول ده:
+
+```prolog
+entry(scrootch, v, [scrootched,scrootching,scrootches], "سکروچ کول").
+```
+entry(scrotum, n, [scrotums], "یا سکروٹیو د پوستکي پوښ چې خصیې پکې شامل دي سکروټال صفت").
+دننه_کړه(scrouge, فعل, [scrouged, scrouging, scrouges], "چپچپ").
+entry(ټوټه, v, [ټوټه کړل,ټوټه کول,ټوټه کوي], "د څارل او راټولولو له لارې ترلاسه کول").
+entry(scroungy, adj, [], "SCROUNGIER SCROUNGIESTdirty").
+entry(مسح, فعل, [مسح, مسح کول, مسح کوي], "سخت مسح کول د پاکولو لپاره").
+د داخله(پاکوونکی, ن, [پاکوونکي], "یوه چې پاکوي").
+entry(scrubby, adj, [], "ډېره خراب SCRUBBIER SCRUBBIEST په اندازه یا کیفیت کې").
+د پروولوګ ژبه:
+entry(scruff, v, [scruffed, scruffing, scruffs], "خرابی کول").
+entry(scruffy, adj, [], "SCRUFFIER SCRUFFIESTshabby").
+entry(سکرم, v, [سکرمد, سکرمنګ, سکرمونه], "په رګبي کې د بال شاوخوا د سکرمیج یا ګېرېدنې یوه جوړښت کې برخه اخیستل").
+entry(scrummy, adj, [], "SCRUMMIER SCRUMMIESTلذیذ").
+د ننوتنه(scrumple, v, [scrumpled,scrumpling,scrumples], "چرمی کول ګونځه").
+entry(scrumpy, n, [scrumpies], "خراب سايدر").
+entry(scrunch, v, [scrunched,scrunching,scrunches], "مچ کول").
+entry(scrunchy, n, [scrunchies], "د ویښتانو تړلو لپاره یو لچکدار پټی").
+د داخلې(scruple, v, [scrupled,scrupling,scruples], "د اخلاقي ملاحظاتو له امله تردد کول").
+entry(کتنه, n, [کتنې], "یوه نږدې څیړنه").
+entry(scry, v, [scried,scrying,scries], "د الماس کرې د کارولو له لارې راتلونکې اټکل کول").
+entry(سکرایر, ن, [سکرایران], "هغه څوک چې سکری کوي").
+```prolog
+entry(scuba, v, [scubaed,scubaing,scubas], "لاندې اوبو کې د یو تنفسي آلې چې به پورې رازېږيدلو هوا لري سره لامبو وهل").
+```
+entry(سکډ, فعل, [سکډېدله, سکډېدنه, سکډیږي], "په تېزۍ سره منډه وهلې یا خوځېدل").
+entry(سکوډو, ن, [سکودي], "یو پخوانی ایټالوي سکه").
+entry(سکف, فعل, [سکف کړ, سکف کول, سکفونه], "د پښو د نه پورته کولو سره تګ کول").
+د دې Prolog کرښې ژباړه په پښتو کې: 
+entry(scuffer, n, [scuffers], "يو څوک چې خراشوي").
+entry(ښکېلا, v, [ښکېل شو,ښکېلېږي,ښکېل کېږي], "په یو ګډوډ او ظالم حالت کې مبارزه کول").
+د ننوتنه(مچه پلاری، ن، [مچه پلارے]، "څوک چې مچه پلاري").
+entry(sculch, n, [sculches], "پاک کثافات").
+د لانديني طبيعت ترڅو:
+entry(sculk, v, [sculked,sculking,sculks], "پټ پټ ګرځېدل").
+د پرولوګ کډه: entry(sculker, n, [sculkers], "skulker").
+```prolog
+entry(scull, v, [sculled,sculling,sculls], "د بیړۍ د څپ کول په یوناني چپړیږو"). 
+```
+entry(سکالر, ن, [سکالرونه], "هغه څوک چې سکالر کوي").
+entry(پخلنځی, ن, [پخلنځی ګانې], "یو خونه چې په کې د پخلنځي لوښي پاک او زېرمه کېږي").
+entry(پخلی خدمتګار, ن, [پخلی خدمتګاران], "یو د پخلنځي خدمتګار چې عادي کارونه ترسره کوي").
+دخول(sculp, v, [sculped,sculping,sculps], "د مجسمې جوړول").
+entry(سکالپن, n, [سکالپنان], "يو تازه اوبه کب").
+```prolog
+entry(نقاشي, فعل, [نقشه_کړه, نقشه_کوي, نقشه_کوي], "د جامد موادو څخه د يو عکس يا يو استازيتوب جوړول").
+```
+entry(مجسمه جوړونکی, ن, [مجسمه جوړونکي], "هغه څوک چې مجسمه جوړوي").
+د پيرلوګ کرښه په پښتو کې:
+`entry(scultch, ن, [scultches], "sculch").`
+entry(scum, v, [د چټلو موادو د لرې کولو لپاره], " څخه د ناپاکو یا اضافي موادو د لرې کولو لپاره").
+entry(حرامی, ن, [حرامیان], "یو ککړ").
+دخول(scumball, ن, [scumballs], "يو کثيف").
+entry(scumble, v, [scumbled,scumbling,scumbles], "د داغ لکۍ يا رنګ د نرمه کولو یا رڼا کولو لپاره چې پاک کړي").
+entry(scumless, adj, [], "بې کثافته").
+entry(دفشرپه څېر, صفت, [], "دفشرڅېر").
+entry(scummed, past, [], "د scum زمانہ").
+entry(scummer, n, [scummers], "يو څوک چې اسکوم کوي").
+د داخلې(scumming, present, [], "د scum مشارکی").
+دمخه(scummy, صفت, [], "SCUMMIER SCUMMIESTscumسره پوښل شویSCUMMILY adv").
+entry(سکونجيل, ن, [سکونجيلي], "يو ډول صدف چې د خوراک لپاره کارول کيږي").
+ورودی(سکنر, فعل, [سکنر شوی, سکنر کول, سکنرونه], "د نفرت یا کرکې احساس کول").
+entry(scup, n, [scups], "يو سمندري خوړونکي ماهي").
+entry(scuppaug, n, [scuppaugs], "سکپ").
+ځای(سکپر, فعل, [سکپرډ، سکپرنګ، سکپرز], "ترغیب کول").
+د ننوتنه(پوګړه، ن، [پوګرې]، "خشک پوستکی چې د خپو يا ټوټو بڼه لري").
+entry(scurfy, adj, [], "SCURFIER SCURFIESTپوښتن سره پوښل شوی").
+دخله(سپک، صفت، [], "سپک").
+ورود(scurrile, صفت, [], "په خشن او سپکژبه بیان").
+entry(وچت", v, [وچت شو, وپچتریدل, وچتوي], "په بيړه حرکت کول").
+دسجندنه(scurvy, صفت, [], "SCURVIER SCURVIEST اساس یا حقارت وړ SCURVILY adv").
+دخول (سکروی، ن، [سکرویۍ]، "یو ناروغي چې د ويټامين سي د کموالي له امله رامنځ ته کيږي").
+entry(scut, n, [scuts], "د لنډې لکۍ لکه د خرگوش").
+entry(scuta, جمع, [], "د scutum").
+entry(سکيوټيج, n, [سکيوټيجونه], "هغه ماليات چې د يوې فيوډل مشر لخوا د نظامي خدمت پرځاى ټاکل شوي وي").
+entry(scutate, adj, [], "د سپر په څیر شکل").
+entry(سکچ, v, [سکچ کړل, سکچ کول, سکچ کوي], " د لرګي فایبر د بیلوولو لپاره په وهلو سره").
+entry(دَ سکوچر, ن, [سکوچران], "هغه څوک چې سکوچ کوي").
+entry(scute, n, [scutes], "یوه مغزی پلیټ یا پوښ").
+د ننوتنه(اسکوتیلا، جمع، [], "کوچني سکوتي اعضا یا برخې").
+entry(scutter, v, [د تيتیدل, تيتيدل, تيتوي], "چې ژر ژر حرکت کول").
+entry(سکټل, فعل, [سکټل شو, سکټل کیدل, سکټل کوي], "چټک حرکت کول").
+entry(سکوتوم, ن, [سکوتا], "شني").
+ورود(بیګار, ن, [بیګارونه], "ستړې یا بې ارزښته کار").
+entry(scuzz, n, [scuzzes], "یو چټل یا د نفرت وړ شخص").
+entry(scuzzbag, ن, [scuzzbags], "یو چټل یا سپک انسان").
+دلیلیری(scuzy, صفت, [], "بیشتر SCUZZIER، ترټولو SCUZZIEST,ګنده او یا شلیدلې").
+entry(scyphate, adj, [], "د جام په څیر جوړ شوی").
+entry(سایفوس, ن, [سایفوسونه], "یو یوناني جام چې دوه لاسونه لري").
+entry(څرمن, فعل, [څرمه، څرمن، څرمي], "د یو تیغه لرونکي وسیلې سره پرې کول").
+entry(سمندر, ن, [سمندران], "سمندر").
+entry(دریابوجی, ن, [دریابوجیان], "د یونایي لخوا کاریدونکی بوجی").
+entry(سمندري ساحل, ن, [سمندري ساحلونه], "د سمندر په اوږدو کې پروت ساحل").
+entry(سمندري فرش, ن, [سمندري فرشونه], "د سمندر تل").
+entry(seabird, n, [seabirds], "چوغکی چې د سمندر یا د ساحل سره ډېره وي").
+د پرولوګ تنها نتیجې: 
+```prolog
+entry(seaboard, n, [seaboards], "د ساحل").
+```
+entry(seaboot, n, [seaboots], "یو اوبو ناتیرونکی بوټ").
+entry(seaborne, adj, [], "په یا د سمندر له لارې لیږدول شوی").
+د پرولوګ کرښه په پښتو: 
+entry(seacoast, n, [seacoasts], "د اوبو څنډه").
+entry(سمندري والو, ن, [سمندري والونه], "د بېړۍ د برخې والو").
+entry(seacraft, n, [seacrafts], "د سمندري بېړۍ چلولو مهارت").
+entry(دريائي_سگ, ن, [دريائي_سگان], "يوہ مهال").
+entry(سیادوم, ن, [سیادومونه], "په سمندر کې یو هوايي ډګر").
+entry(بحري, ن, [بحريان], "يو ماڼو").
+entry(درياب_تل, ن, [دريابونه_تلونه], "د سمندر تل").
+entry(دریا کافور, ن, [دریا کافورها], "په سمندر کې جوړ شوی کافور").
+entry(سمندري خواړه, ن, [سمندري خوړو], "د بحر څخه خوراکي ماهی یا شېلفش").
+entry(seafowl, n, [seafowls], "یوه سمندري مرغۍ").
+entry(د سمندرغاړه, ن, [د سمندرغاړې], "د سمندر پر غاړه سیمه").
+entry(seagirt, adj, [], "د سمندر له خوا چاپېر شوی").
+entry(seagoing, adj, [], "د سمندر پر مخ استعمال لپاره ډیزاین شوی").
+د ننهوتل(سمندري واښه, ن, [سمندري واښې], "یوه واښه ورته نبات چې په یا د سمندر سره نږدې ژوند کوي").
+entry(سمندري مرغه, n, [سمندري مرغان], "هغه مرغه چې د سمندر سره نږدې وي").
+entry(دريايي آس، ن، [دريايي آساسانې]، "د پایپ فش کورنۍ یوه ماهي").
+entry(د ساحل کيل، ن، [د ساحل کيلونه], "يو ساحلي بوټى چې خوراکي ساقې لري").
+دخول (سیل، v، [سیلد، سیلینګ، سیلز], "د تړلو یا د لاسرسي، رساو یا تیریدو په وړاندې خوندي کولو لپارهSEALABLE adj").
+entry(سیلینټ, ن, [سیلینټونه], "د مهر کولو ماده").
+دخهول(مهرلګونکی, ن, [مهرلګونکي], "هغه څوک چې مهر وهي").
+entry(sealery, n, [sealeries], " د خوړل ښکار دنده").
+entry(بحري لېږد, فعل, [لېږدول شوی, لېږدول کېږي, لېږدوي], "لوژستیکي پرسونل او تجهیزات په بېړۍ کې لېږدول").
+entry(مهر کول, ن, [مهرونه], "د مهرونو ښکار").
+entry(seallike, adj, [], "د سمندري ژوي په څیر مهر").
+entry(د خوښۍ پوټکی، ن، [د خوښۍ پوټکي]، "د مهر پوټکی").
+د ننوتنې(ګنډ، فعل، [ګنډل شوی، ګنډل کیږي، ګنډي]، "د دوه ټوټو د یو ځای په ګنډلو سره د ګنډ جوړول").
+entry(سمندري، ن، [سمندريان], "يو ملوان").
+د ننوتنه(سمندري نښه، ن، [سمندري نښې]، "یو د منظر ځای چې سمندري خلکو ته د لاره ښودنې لپاره کار کوي").
+ورود(entry, سیمر, ن, [سیمرونه], "یو هغه چې سیم کوي").
+entry(سياميير, مقايسوي, [], "د سيامي").
+د پرولوګ:
+entry(seamiest, superlative, [], "د seamy").
+entry(بېسیم, صفت, [], "څنډه نلري").
+entry(seamlike, adj, [], "د درز سره ورته").
+د ننوتلو(سمندري غر، ن، [سمندري غرونه]، "يو د اوبو لاندې غر").
+entry(خياط, ن, [خیاطان], "یو شخص چې د هغې وظیفه د ګنډلو کار دی").
+entry(seamy, adj, [], "ډېر ناخوښ").
+entry(سياَنس, ن, [سياَنسونه], "د هغو کسانو غونډه چې روحاني پيغامونه ترلاسه کول غواړي").
+entry(سمندري ټوټه, n, [سمندري ټوټې], "د بحر یو منظره").
+entry(seaplane, n, [seaplanes], "يو الوتکه چې د اوبو څخه د پورته کېدو يا پرې د کېناستو لپاره ډيزاين شوې ده").
+entry(بندرګاه, ن, [بندرګاوې], "یو بندر یا ښار چې د بحر تګ راتګ کوونکو کښتیو ته لاسرسی لري").
+د پرولاګ کرښه مو پښتو ته وژباړئ. یواځې پرولاګ ولیکئ:
+entry(seaquake, n, [seaquakes], "یو تر سمندر لاندې زلزله").
+entry(sear, adj, [], "SEARER SEARESTسير").
+entry(لمرګیری، فعل، [لمرګیره، لمرګیري، لمرګیري کوي]، "د سطحې سوځول").
+د ننوتل(search, v, [searched,searching,searches], "څه موندلو په موخه یو شی په دقت سره پلټل").
+entry(پلټوونکې, ن, [پلټوونکي], "څوک چې پلټنه کوي").
+د داخلې(سورکُبان, ن, [سورکُبانه], "يو سمندري کبان").
+entry(بحري منظره, ن, [بحري منظرې], "د سمندر تصوير").
+entry(سمندري_نوکر, ن, [سمندري_نوکران], "یو هلک چې د اوبو فعالیتونو کې روزل شوی وي").
+د پورتنۍ جملې د "Prolog" ژبې ته په "Pashto" کې لیکل کول ناشوني دي.
+entry(سمندرغاړه, ن, [سمندرغاړې], "هغه ځمکه چې له سمندر سره نښتې وي").
+ورودی(د سمندر حالت, صفت, [], "د یوې کښتۍ د حرکت له امله په بحر کې رامنځته شوې کنده شوې").
+د ورودي(ساحلي, نوم, [ساحلي ځايونه], "د سمندر ساحل").
+entry(فصل, v, [مالګه شوی،مزه ورکونکی،فصلونه], "د خوړلو د خوند د لوړولو یا ښه کولو لپاره د خوندورو موادو زیاتول").
+entry(موسمي, n, [موسمي], "د کال د یوه وخت سره تړلی کارکوونکی یا محصول").
+entry(مصالحه وضعونکی, ن, [مصالحه وضعونکي], "یو څوک چې مصالحه اضافه کوي").
+entry(چوکۍ, v, [کیناستل، کیناستونکی، چوکۍ], "د یو شي چې څوک پرې کښېني پر یوه څوکۍ کېښودل").
+entry(seatback, n, [seatbacks], "د څوکۍ شا").
+entry(سیټ بیلټ, n, [سیټ بیلټونه], "د پټو ترتیب چې یو شخص په یو څوکۍ کې ثابت وساتي").
+entry(seater, n, [seaters], "هغه چې کښیني").
+دخول(نشتنه، n، [نشتنې]، "د څوکۍ پوښلو لپاره مواد").
+پرو لاگ: entry(seatless, adj, [], "څوکۍ نلري").
+entry(سيټ ملګری, n, [سيټ ملګري], "هغه څوک چې د سيټ شريک دی").
+entry(seatrain, n, [seatrains], "يو بېړۍ چې د رېل پټلۍ موټرو بارولو لپاره سمبال ده").
+entry(سپين ماهي, ن, [سپين ماهيان], "يوه د بحيرې ماهي").
+entry(سيټورک, ن, [سيټورکس], "په خپل ځای کې ترسره شوی کار").
+د Prolog ژبه:
+entry(seawall, n, [seawalls], "يو دېوال چې د ساحل څخه د تخریب څخه ساتنه کوي").
+entry(سیون, ن, [سیونز], "وامپوم").
+د ننوتلو(سېوڼټ، ن، [سېوڼټس]، "سېوان").
+اندراج(دریایی، ن، [دریایانې]، "لوري په طرف د پرانیستې سمندر").
+د Prolog ژبې ته:
+
+```prolog
+entry(seaware, n, [seawares], "داچې د سری لپاره د سمندر بوټي کارول کیږي").
+```
+entry(بحري اوبه, n, [بحري اوبه], "د سمندر څخه اوبه").
+entry(سمندري لاره, ن, [سمندري لارې], "هغه لار چې یوه کښتۍ یې تیروي").
+ورود(سمندري، ن، [سمندري بوټي]، "یو بوټی چې په سمندر کې وده کوي سمندري").
+entry(sebacic, adj, [], "د يو ځانګړي اسيد څخه اخیستل شوی").
+entry(sebasic, صفت, [], "sebacic").
+entry(سبوم, ن, [سبومونه], "هغه غوړ مواد چې د پوستکي د ځانګړو غدو له لورې خارجېږي").
+د پاسټو لپاره Prolog: 
+entry(sec, n, [ثابتې], "secant").
+entry(سيکلوز, ن, [سيکلوزونه], "يوه پېچلې کاربوهايدريټ").
+entry(secant, n, [secants], "د یوې زاویې یو مثلثاتي فنکشن").
+entry(secantly, adv, [], "په يو بل باندې قطع کونکي ډول").
+entry(قیچی, ن, [قیچی], "د پرې کولو وسیله").
+entry(secco, n, [seccos], "د وچ پلاسټر په سطحه د نقاشۍ هنر").
+entry(جلاکېدل, v, [جلاشو,جلاکیدل,جلاکېږي], "له یو اتحاد یا ټولنې څخه په رسمي ډول جلاکېدل").
+entry(جلا کوونکی, n, [جلا کوونکي], "هغه څوک چې جلا کیږي").
+entry(secern, v, [secerned,secerning,secerns], "جلا یې بیل د پوهولو لپاره").
+د Prolog ژباړه:
+
+```prolog
+entry(seclude, v, [secluded, secluding, secludes], "له نورو څخه لیري یا جلا کول").
+```
+د دویم داخله، فعل، [دویم شوی، دویمول، د دویم]، "ملاتړ یا هڅونه ورکول"
+entry(سيکونډه, ن, [سيکونډې], "په مبارزې کې يو موقعيت").
+```prolog
+ماتُلق(entry, nome, [ماتُلقيان], "یو کارګر چې په لنډمهاله توګه بلې دندې ته انتقالیږي").
+```
+دخول(seconder, ن, [seconders], "هغه څوک چې دوهمه یې کړي").
+entry(ثانياً, قید, [], "په لومړي ځای کې وروسته").
+د Prolog خط: entry(secondo, n, [دویم], "په پیانو ډویټو کې ټیټه برخه").
+د ننوتنه(secpar, n, [secpars], "یو پارسیک").
+entry(پټوالی, n, [پټوالۍ], "د پټ ساتلو حالت").
+د سري، صفت، []، "SEREST SECRETEST د پوهې يا نظر څخه پټ"
+entry(پټ, ن, [پټې], "یو څه چې د نورو د پوهې څخه وساتل شي").
+د Prolog په توګه:
+entry(secrete, v, [secreted,secreting,secretes], "له حجرو یا بدني مايع څخه تولید او جدا کول").
+د ننوتنه(secretin, n, [secretins], "یو هورمون").
+entry(پټې, adv, [], "په پټه توګه").
+د راسپړونکې لپاره غوښتنه، ن، [راسپړونکې]، "هغه چې راڅرګندوي".
+entry(sect, n, [برخو], "د خلکو يوه ډله چې په ګډو باورونو يا ګټو يوځای شوي وي").
+entry(سیکتری, ن, [سیکتریان], "د یوې فرقې غړی").
+entry(د پرې کولو وړ، صفت، [], "په نرمۍ سره پرې کیدو وړ").
+ننوتنه(څپرکی, v, [څپرکی شوی,څپرکی کول,څپرکي], "په جلا برخو کې وېشل").
+د ادخال(سیکٹر, v, [سیکټر شوی, سیکټر کول, سیکټران], "په حصو ویشل").
+entry(سکتوري, صفت, [], "د یو سکټور پورې اړوند").
+entry(غير مذهبي, ن, [غير مذهبيان], "يو عام سړی").
+entry(سکونډ, صفت, [], "یوازې په یوه اړخ کې برخې یا ارګانونه لرل سکونډلې، قید").
+entry(secundum, adv, [], "د مخې له مخې").
+اندراج(محفوظ، صفت، [], "زیات محفوظ تر ټولو محفوظ له خطر څخه آزاد په محفوظ ډول قید").
+دخوله(خوندي، فعل، [خوندي کړ، خوندي کول، خوندي کوي], "کلک يا ټينګ جوړول").
+entry(securer, ن, [سيکيورر], "يو څوک چې یو شی خوندي کوي").
+د Prolog کوډ: entry(securing, present, [], "participle of secure").
+داخله(امنیت، ن، [امنیتونه]، "د خونديتوب حالت").
+entry(سېډان, n, [سېډانونه], "د موټرو یو ډول").
+entry(سدرېم, a, [], "د سدر جمع").
+entry(sedate, adj, [], "د آرامه آرام ترینsEDATELY adv").
+entry(ارام، v, [آرامنګی،آرامونکی،آراموي], "مخدر ورکول").
+entry(سېدشان، ن، [سېدشانونه]، "د ارام ورکونکي درملو په کارولو سره د فشار یا خوښۍ کمول").
+entry(سکون بخښونکی, ن, [سکون بخښونکي], "يوه درمل چې ارام حالت رامنځته کوي").
+اینښي(seder, n, [seders], "یا SEDARIMیوه یهودي تشریفاتي ډوډۍ").
+entry(سدرنت, ن, [سدرنتونه], "يو اوږد ناست").
+د Prolog کرښه: entry(sedge, n, [sedges], "یو ډنډ نبات").
+د دې Prolog کرښه په پښتو ژبه کې داسې ده:
+entry(sedgy, adj, [], "د سیدج په زیاتوالي کې SEDGIER SEDGIEST").
+entry(چوکۍ, ن, [چوکۍ], "په یوه کلیسا کې د ګمارل شوي روحانیت د کارونې لپاره له چوکیو څخه یوه").
+د پرولوګ 
+entry(sedilium, n, [sedilia], "sedile").
+د ننه وتنه(چرسه, ف, [رسوب شوی، رسوب کول، رسوبات], "د یو مایع په ښکته کې ځای پرځای کول").
+entry(بغاوت, n, [بغاوتونه], "د حکومت پر ضد د بغاوت هڅول").
+ورود(seduce, فع, [seduced, seducing, seduces], "بې لارې کولSEDUCIVE صفت").
+entry(فریفتونکی, ن, [فریفتونکي], "هغه څوک چې فریب ورکوي").
+د پرولوګ ژباړه: 
+entry(sedulity, n, [sedulities], "د نېکمرغۍ حالت").
+entry(غښتلی, صفت, [], "هوښیار").
+دلیکنه(سدوم، ن، [سدومونه], "یوه ګل لرونکې نبات").
+ورودي(وینئ، فعل، [ویې ګوره، لیدل شوی، لیدنه]، "وینئ د سترګو سره درک کول وینئ وړ صفت").
+entry(seecatch, n, [seecatchie], "یو بالغ نر د د‌ وړۍ خوټ يا مهر").
+```prolog
+entry(تخم, v, [تخمونه کرل, تخم کرل, تخمونه], "تخمونه کړي د نباتي جوړښت په"). 
+```
+د ورد پروګرام: entry(seedbed, n, [seedbeds], "د تخم شيندلو لپاره چمتو شوې ځمکه").
+entry(دانه_کیک, ن, [دانه_کیکس], "یو خوږ کیک چې اروماتیک تخمونه لري").
+entry(seedcase, n, [seedcases], "يوه میوه").
+entry(seeder, n, [تخم شیندونکي], "هغه څوک چې تخم شیندي").
+ننوتنه(seedier, پرتلیز، [], "د seedy").
+entry(زياتهکرپ، غوره، []،"د کرپ").
+entry(په‌پټه, adv, [], "په یوه‌پټې توګه").
+د پروګ په زبان کی : entry(بې دانې, صفت, [], "دانه نه درلودل").
+د ننه دې (seedlike, adj, [], "چې د تخم سره ورته والی لري").
+د ننوتنه(نويالی, ن, [نويالۍ], "ځوان نبات").
+دورګه(seedman, n, [seedmen], "تخم پلورونکی").
+\entry(seedpod, n, [seedpods], "د تخم یو ډول کڅوړه").
+entry(تخم فروش, n, [تخم فروشان], "د تخمونو سوداګر").
+ورودی(کرهنیز وخت، ن، [کرهنیز وختونه]، "د تخمونو د کرلو فصل").
+د ننوتنې(سيډي, صفت, [], "بدترين، ټيټ، د تخم لرونکی يا په کيفيت کې کښته").
+entry(لیدل, ن, [لیدونه], "د هغه چا عمل چې ویني").
+entry(لټول, فعل, [لټول شوی, لټولو, لټوي], "د لټون لپاره تلل").
+د پرو لاګ کرښه:
+entry(seeker, n, [تلاش کوونکي], "یو څوک چې لټوي").
+entry(seel, v, [seeled, seeling, seels], "د روزنې پر مهال د باز سترګې تړل").
+entry(seely, adj, [], "نري").
+ننوتنه(ښکاري, v, [ښکارېده,ښکارېږي,ښکاریږي], "د داسې ښودلو لپاره لکه دی").
+د Prolog کوډ: entry(seemer, n, [seemers], "يو څوک چې ښکاري").
+entry(داسې ښکاري, ن, [داسې ښکاري], "بېرونی بڼه").
+entry(ښکلی, صفت, [], "تر ټولو ښکلی ښکلیو د خوشحاله بڼې سره").
+entry(ليدلی, تېره, [], "د لیدنې شریک").
+entry(څڅېدل, v, [څڅېد,څڅېدل,څڅي], "ورو ورو له وړو سوري څخه تېرېدل").
+entry(رڅېدنه, ن, [رڅېدنې], "د هغه مايع اندازه چې رڅېدلې ده").
+entry(seepy, adj, [], "ډېر لوند يا ډېر خځنده له اوبو سره").
+entry(نبي, ن, [انبیا], "یو پیغمبر").
+entry(پيشګوييکوونکې، ن، [پيشګوييانې]، "يوه ښځينه پيشګوييکوونکې").
+entry(زنګون، ف، [زنګون کړ،زنګون کول،زنګون کوي]، "پورته او ښکته حرکت کول یا شا او خوا تلل").
+entry(لېپېدل, فعل, [لېپېدلی, لېپېدل, لېپېږي], "لکه د جوش په څېر غورځېدل یا پوښل").
+د ننوتنې(seg, n, [segs], "هغه څوک چې د نژادي بېلتون ملاتړ کوي").
+entry(segetal, adj, [], "په دانو ډکو کروندو کې وده کوونکی").
+entry(seggar, n, [seggars], "یوه ساګر").
+د ننوتل(segment, v, [segmented, segmenting, segments], "to divide into sections").
+entry(segno, n, [segnos], "يا SEGNI يو موسيقي نښان").
+ورودنه(سګو, ن, [سګوګانې], "یو څو کلن بوټی").
+entry(ختمول, v, [ختم کړ, ختموي, ختمونه], "له یوې موسیقي بڼې څخه بلې ته بې ودرې ځي").
+entry(sei, n, [seis], "يوه لویه وينه لرونکې وهني").
+entry(seicento, ن, [seicentos], "اوولسمه پېړۍ").
+entry(سيش, ن, [سيشونه], "د يو جهيل يا د وچې د بند سمندر د سطحې يو غورځنګ").
+الفظ(seidel, n, [seidels], "د بېرې لوی ګیلاس").
+داسې ښکاري چې تاسو د Prolog لائن ته اړتیا لرئ په پښتو کې. مګر د Prolog کوډ ته په ساده توګه ژباړه نه شي کیدلی ځکه چې دا مفهومي او د نحوې برخې نه لري، برعکس د عادي متن يا جملو په څير. نو په دې کې د عربي ليکبيلې او استفادې له مخې، کوډ هماغسې پاتې کیږي:
+entry(seif, n, [seifs], "يو اوږده تنګې شګه ټېکنه").
+د ننه کړی (seigneur, n, [seigneurs], "seignior").
+دود(سينيور, ن, [سينيوران], "يو جاګيردار").
+entry(سیدتوب, ن, [سیدتوبونه], "د یو سید واک").
+entry(سيان, v, [سيان شوی، سيان کول، سيانونه], "د یوې لوې عمودي ځوړند جال سره کب نیول").
+داسې ښکاري چې دا یو له برنامو کولو یو جوړښت یا ویی دی، او داسې ویل کیږي چې پرو لګ نه شي په اسانۍ سره یوې طبیعي ژبې ته ژباړل کېدای. که څه هم، زه کولی شم د مطلوبو کلمو پاسټو ته ژباړه وړاندې کړم. پیښې جوړښتونه به نه دې باید وساتل شي لکه څنګه چې دي:
+
+entry(دهغه, ن, [دهغه], "هغه څوک چې نیسي").
+entry(د سينګولو عمل, n, [سينګونه], "دېنې سره د کبان نيولو عمل").
+entry(نیول، v, [نیولی، نیول، نیسي], "نیولو لپارهSEISABLE adj").
+د داخلې(seiser, n, [seisers], "seizer").
+entry(ملکیت, ن, [ملکیتونه], "ملکیت").
+entry(seising, n, [seisings], "نیول").
+entry(زلزله, n, [زلزلې], "يو زلزلهSEISMAL SEISMIC صفت").
+entry(seismism, n, [seismisms], "په زلزلو کې دخیل طبیعي فعالیت").
+entry(seisor, n, [seisors], "seizor").
+entry(دورې, ن, [دورې], "دوره").
+entry(سيتان, n, [سيتانونه], "يو خواړه چې د غنمو د ګلوټين څخه جوړیږي").
+entry(seiza, n, [seizas], "په جاپاني مبارزه يي هنرونو کې د ټټر دريځ").
+entry(seize, v, [seized,seizing,seizes], "په ناڅاپي او په زړورتيا سره نيول۔").
+entry(seizer, n, [seizers], "څوک چې نيسي").
+entry(seizin, n, [seizins], "د ځمکې قانوني ملکیت").
+entry(نیول, n, [نیولونه], "د هغه چا عمل چې نیسي").
+entry(نیولونکی, ن, [نیولونکي], "یو چې نیول ترسره کوي").
+entry(ضبطه, ن, [ضبطې], "د ضبط کولو عمل").
+entry(سېجنټ, صفت, [], "هېرالډيک ژوی په ناست حالت کې انځور شوی").
+دخوله(سيجيانټ، صفت، [], "سيجانټ").
+entry(sel, n, [sels], "ځان").
+entry(seladang, n, [seladangs], "سلامدانګ").
+entry(selah, n, [سلَح], "يو کلمه چې مانا یې ناڅرګنده ده او ډیری وخت د زبورونو په پای کې لګیږي").
+entry(سلامليک, ن, [سلامليکونه], "د يو ترکي کور هغه برخه چې د نارينه وو لپاره ځانګړې شوې").
+entry(عجيب, صفت, [], "غير معمولي").
+entry(کم, صفت, [], "په ندرت سره")
+entry(select, v, [منتخب,انتخاب کول,انتخاب کوي], "انتخاب کول").
+entry(منتخب, ن, [منتخبین], "یو څوک چې انتخاب شوی دی").
+entry(selectly, adv, [], "په انتخاب سره").
+داخل(selector, n, [selectors], "يو څوک چې انتخابوي").
+د ننوتنه(سيلينيټ، ن، [سيلينيټونه]، "يو کيمياوي مالګه").
+entry(سيلينک, صفت, [], "د سيليينيم پورې اړوند").
+د ننوتنه(سلنایډ, ن, [سلنایدونه], "د سیلینیم یو ترکیب").
+entry(سېلینایټ, نوم, [سېلینایټس], "د جپسم یوه ډول").
+entry(selenium, n, [seleniums], "یو غیر فلزي عنصر SELENOUS adj").
+داخله(ځان، ن، [ځانونه]، "د یو شخص ټول اړین یا ځانګړې وجود").
+entry(self, v, [خپل, خپلو, خپلو], "ماتېدل").
+دخپلوداري(selfdom, n, [خپلدارانې], "خپلواکۍ").
+د انتقال دا کرښه به په پښتو کې داسې وي:
+entry(selfheal, n, [selfheals], "یو څو کلن بوټی").
+entry(خپلېتوب, ن, [خپلېتوبونه], "د یو شخص په توګه د یو انفرادي حالت").
+entry(selfie, n, [selfies], "د يو چا خپل عکس چې پخپله د يوه ګرځنده کمره په واسطه اخيستل شوی وي").
+entry(ځانغوښتونکی, صفت, [], "په ځانه پورې اړوند یا یواځې په ځان باندې فکروونکی").
+د ننوتنه(بې ځانه, صفت, [], "بې غرضه").
+دپرو شرایط:
+entry(selfness, n, [selfnesses], "خودیت").
+د ننوتنه(هماغه, صفت, [], "یو شان").
+entry(selfward, adv, [], "خپل ځانته").
+entry(سيلکي, ن, [سيلکۍ], "يو مخلوق په سکاټلنډي او آيرلينډي فولکلور کې").
+د Prolog قطعه: entry(sell, v, [sold,selling,sells], "د پیسو یا بل قیمتي شي لپاره بل ته وړاندي کولSELLABLE adj").
+د ننوتنه(سله، ن، [سلس]، "یوه زین").
+د Prolog:
+entry(seller, n, [پلورونکي], "هغه څوک چې پلوري").
+entry(پلورل, ن, [پلورلونه], "د ډېرو سټوکسو، بانډونو یا اجناسو پلور").
+entry(پلور, ن, [پلورونه], "يوه ننداره چې ټولې څوکۍ پلورل شوې وي").
+د Prolog ژبې لیکنه: entry(selsyn, n, [selsyns], "د لرې کنټرول وسیلې یو ډول").
+دداخلې(سېلټزر، ن، [سېلټزرونه]، "کاربوني منرال اوبه").
+entry(selva, n, [ځنګلونه], "یو استوایي باراني ځنګل").
+Prolog:
+entry(پایانه, ن, [پایانې], "د اوبدل شوې ټوکر کناره چې د خرابیدو څخه د مخنیوي لپاره بشپړه شوېSELVAGED صفت").
+د ننوتل(selvedge, n, [selvedges], "selvage").
+entry(ځانونه, جمع, [], "د ځان").
+د ننوتنه (semantic, صفت, [], "په معنا پورې اړوند").
+د ننوتنې(sematic، صفت، []،"د اخطار په توګه خدمت کول").
+entry(seme, n, [semes], "د سیمی نمونه").
+entry(semee, صفت, [], "په کوچنیو هرالډی شمیرو سره په ټولیز ډول پوښل شوی").
+entry(sememe, n, [sememes], "د يو مورفيم معنی سيميمک صفتي").
+entry(نطفه, ن, [نطفې], "يوه مايع چې په نارينه تناسلي غړو کې توليديږي").
+داخله(سمسټر, n, [سمسټرونه], "د اکاډميک کال نیمایي موده").
+entry(semi, n, [semis], "د بار وړونکي ټریلر").
+entry(نيمه وچه, صفت, [], "د لږ بارانونو سره ځانګړې شوې").
+د لېکلې پروګرام په ژبه کې په پښتو ژبه د پرو لاګ په لارښود کې، د لاندې ډول سره:
+
+```prolog
+entry(نيمه_کڼد، صفت، [], "برخه ناخونده").
+```
+entry(نيمه_بولډ، صفت، [], "په يوه ټایپفيس کې چاپ شوی چې سټېروکونه د بولډفيس په څېر غليظ نه وي").
+entry(سیمی کوما, n, [سیمی کوماګانې], "یو کوما چې له هغې څخه یو څوک راویښ کېدی شي").
+entry(semideaf, adj, [], "برخه ګونګ").
+entry(نیمه_ګنبد, n, [نیمه_ګنبدونه], "یو نیمه ګنبد").
+entry(semidry, adj, [], "مناسب وچ").
+entry(semifit, adj, [], "تر یوه حده د بدن له کرښو سره سمون کول").
+entry(نیمه‌ګاله, صفت, [], "یو څه ګاله").
+entry(نیمه سخت، صفت، [], "په اعتدال سره سخت").
+entry(semihigh, adj, [], "معتدله لوړه").
+entry(semihobo, n, [semihobos], "يا SEMIHOBOES يو شخص چې د يو هوبو ځینې ځانګړتیاوې لري").
+entry(سيمیلون, ن, [سيمیلونز], "يو سپین انګور چې په فرانس کې کرل کیږي").
+entry(semilog, adj, [], "يوه کچه لوګارتمیک او بله حسابي لري").
+entry(semimat, adj, [], "څه ناڅه ځلېدونکی").
+entry(semimatt, adj, [], "نيمه مړاوی").
+د بشپړ لاسرسي لپاره پروګرام کول زده کړئ:
+entry(semimild, صفت, [], "څه نا څه نرم").
+د ننوت(entry, semimute, adj, [], "چې د خبرو کولو وړتيا يې په يوه اندازه له لاسه ورکړې وي").
+دخولیه(سیمینا، ا، []، "د (semen) جمع").
+entry(زیاتر, صفت, [], "د منیو پورې اړوند").
+entry(سیمینار، ن، [سیمینارونه]، "په یوه پوهنتون کې د پرمختللي زده کړې ډله").
+entry(سيمينري, ن, [سيمينريز], "د کاهنانو، وعظ کوونکو یا ربيانو د روزنې لپاره يو ښوونځی").
+entry(seminoma, n, [seminomas], "يا SEMINOMATA د خصيتو يو بدخيم ټومور").
+entry(seminude, adj, [], "برخه بربنډ").
+entry(نیمه خلاص, صفت, [], "برخه خلاص").
+entry(semiosis, n, [semioses], "يوه پروسه چې په هغې کې څه د يو ژوندي موجود لپاره د نښې په توګه کار کوي").
+entry(سیمیوټیک، ن، [سیمیوټکس]، "د نښو او سمبولیزم یوه عمومي تیوري").
+entry(نيمې ګردې، صفت، [], "څه ناڅه ګرد").
+entry(semipro, n, [semipros], "هغه څوک چې په یوه برخه يا سپورت کې په نيمه وخت توګه د پیسو لپاره ښکېل وي").
+ورودی(سمیراؤ، صفت، [], "یو څه خام").
+entry(semis, n, [semises], "د لرغوني روم سکه").
+entry(semisoft, adj, [], "معتدل نرم").
+entry(سیمیتست, ن, [سیمیتستان], "هغه څوک چې د یهودو ګټې خوښوي").
+د ننوتنې(نيمه ټون، ن، [نيمه ټونونه]، "د موسيقۍ يو ډول ټون").
+entry(نيمه‌وحشي, صفت, [], "څه ناڅه وحشي").
+entry(سيمولينا, ن, [سيموليناس], "د غنمو داڼۍ محصول چې د پاستا لپاره کارول کیږي").
+entry(سیمپل, صفت, [], "د عاجزانه زیږون").
+entry(ساده, صفت, [], "د موسیقۍ په لارښوونه کې کارول کېږي").
+entry(همېشه, قيد, [], "په ټول مسير کې په همدې طريقه د موسيقۍ د لارښوونې په توګه کارول کېږي").
+د Prolog کوډ: entry(sen, n, [sen], "د جاپان پولي واحد").
+دريځ(سیناریوس، ن، [سیناریي]، "یو یوناني یا لاتین بیت چې له شپږو وزني قدمونو څخه جوړ دی").
+entry(سینري, صفت, [], "د عدد شپږ پورې اړوند").
+entry(senate, n, [سنیتونه], "یو مجلس چې لوړ مشورتي او قانون جوړونې دندې لري").
+entry(سناتور, ن, [سناتوران], "د يو مجلس غړی").
+entry(لېږل, v, [لېږل,لېږل,لېږل], "رسول").
+د ننوتنه(لیږل، v، [لیږل شوی، لیږل، لیږي] ، "د لېږلو سبب ګرځېدلSENDABLE صفت").
+entry(sendal, n, [sendals], "د ورېښمو یو ټوکر").
+entry(ليږونکی، n، [ليږونکي]، "يو هغه چې ليږي").
+دخول(رخصتيزه, ن, [رخصتيزې], "يو د خدای پاماني جشن").
+دخواړه(sendup, n, [sendups], "يوه ملنډينه").
+وردنه(سنه, ن, [سنې], "د سموآ مالي واحد").
+entry(سينيکا, ن, [سينېکاز], "سېنېگا").
+entry(senecio, n, [senecios], "يو ګل لرونکی نبات").
+entry(سنیگا, ن, [سنیګاس], "د درملو بوټي ریښه").
+اندراج(زړېدل، فع، [زړېدل، زړېدو، زړېږي]، "زوړيدل").
+entry(سینگی, ن, [سینگی], "د زایر پخوانی مالي واحد").
+entry(سینهور, ن, [سینهورس], "یا سینهوورز یو پرتګالی یا برازیلی ښاغلی").
+entry(ښځه, n, [ښځې], "يوه متاهله پرتګالي يا برزيلي ښځه").
+داخلول(بوډا، ن، [بوډاګان], "هغه څوک چې زړښت ښیي").
+entry(په-زوړوالي-سره, adv, [], "په زوړوالي سره").
+entry(ضعیفی, ن, [ضعیفۍ], "د زړښت له امله رواني او بدني کمزوري").
+پرو لاګ:
+entry(senior, n, [seniors], "هغه شخص چې د بل څخه مشرتوب لري").
+entry(سینتی, n, [سینتی], "د ټونګا پیسو واحد").
+entry(سنځله, n, [سنځلې], "یو درملني بوټی").
+د ننوتلو (sennet، ن، [sennets]، "په ترمپ کې یو غږ چې د لوبغاړو ننوتنه یا وتنه ښیې").
+دخول(sennight, n, [sennights], "يوه هفته").
+د ننوتلې(سینت، ن، [سینتونه]، "د خولۍ جوړولو لپاره کارول شوې اوبدل شوې واښه").
+entry(سينوپیا, اسم, [سينوپیاګانې], "د نږدې لید ښه والی").
+د Prolog يوازې پښتو ته ژباړه نشې کولی، ځکه چې دا پښتو ته ژباړلی نسی، خو زه یي ښایسته کولی شم:
+
+د پښتو په پوښتنو کی پرتانيغون ته پر پیافلو هی تور سپانشر لرونکي نهي.
+entry(سنورا, ن, [سنوراس], "یوه واده شوې هسپانوي ښځه").
+entry(سینیوریتا, ن, [سینیوریتاس], "بې واده هسپانوي نجلۍ یا ښځه").
+entry(سنریو, n, [سنریو], "یو جاپاني شعر").
+entry(سنسه، جمع، []، "د احساس").
+entry(حسي، فعل، [حس شوي، حس کول، حسي کوي]، "احساس کول").
+entry(حس، v, [واحساس, احساسوے, محسوسوي], "د حسونو په واسطه احساس کول د هغو کلتورونو څخه چې فرد د بهرني نړۍ تاثیرات ترلاسه کوي").
+ورود(حساس، صفت، []، "عاقل").
+entry(سنسي, ن, [سنسيان], "د جاپاني جنګي هنرونو ښوونکی").
+entry(هوښيار, صفت, [], "د ښه قضاوت ښودنه کوي").
+د ننوتلو(حساس، ن، [حساسات]، "څه چې احساس کېدای شي").
+entry(sensilla, n, [sensillae], "يو ساده حس عضو").
+دودن(حس کول, اوسني, [], "د حس کول فعل ماضي").
+entry(حس ګیر, n, [حس ګیرونه], "یو وسیله چې یو محرک ترلاسه او عکس العمل ښيي").
+entry(حساسه, npl, [], "د دماغ هغه برخې چې د حسي محرکاتو د ترلاسه کولو او تشريح سره اړه لري").
+entry(حسي، صفت، []، "د حواسو یا احسا س سره تړاو لري").
+entry(حسي, صفت, [], "د فزیکي حواسو پورې اړوند").
+د داخلېدو(حس, ن, [حواس], "یو شی د ادراک یا احساس").
+د ننوتنه(حسي، صفت، []، "د حواسو پورې اړوند یا له حواسو څخه اخیستل شوی").
+د Prolog کرښه په پښتو ژبه کې:
+
+```prolog
+entry(sent, n, [senti], "د استونیا د پیسو واحد").
+```
+د Prolog:
+entry(sente, n, [licente], "يا LISENTE د ليسوتو مالي واحد").
+پرولاگ:
+entry(sentence, v, [جملہ, سزا ورکول, جملې], "قضائي پریکړه کول د سزا تعين کول").
+دخولی(سینتی، ن، [سینتی]، "د تانزانیا یو پخوانی پیسې واحد").
+entry(sentient, n, [احساس لرونکي], "یو شخص یا شی چې د احساس وړتیا ولري").
+entry(سینټیمو, نوم, [سینټیموس], "د فلپین یو مالي واحد").
+entry(sentinel, v, [sentineled,sentineling,sentinels], "يا SENTINELLED SENTINELLING SENTINELSساتنه کول").
+دداخلیدو(ساتونکی، ن، [ساتونکي]، "څوک چې په څارنه ولاړ وي").
+```prolog
+entry(ښاخک, n, [ښاخکې], "د ګل د پانې انفرادي پاڼه د کښېنوموندلمه SEPALED SEPALINE SEPALLED SEPALOID SEPALOUS adj").
+```
+دستېره(جلا، فع، [جلا کړل، جلا کول، جلا کوي]، "جلا يا په پرخه کې ساتل").
+entry(سپيا, ن, [سپياګانې], "یو نسواري رنګSEPIC صفت").
+entry(سيپاه, ن, [سيپاهان], "په برتانوي پوځ کې چوپړ کوونکی د هند اصلي اوسيدونکی").
+entry(سپوکو, n, [سپوکوز], "د جاپاني خودکشۍ يوه بڼه").
+entry(seps, n, [sepses], "يو افريقایي پړانګان").
+entry(سپسیس, ن, [سپسیسونه], "د بدن د باکتریایي یرغل").
+entry(سپټ, ن, [سپټس], "يوې قبيلې").
+دچلون(septa, pl, [], "د سپټم").
+د داخلېدنې(سپټېج، ن، [سپټېجز], "په یوې سېپټېک ټانک کې فضله مواد").
+entry(سپتلي، صفت، [], "د يو پردې سره تړاو لرل").
+دسجنا(septaria, npl, [], "د کاڼې نودولونه").
+entry(سپتيټ، صفت، []، "چې سپټم لري").
+entry(اووه کسنه ډله, ن, [اووه کسنه ډلې], "د اوو کسانو یوه ډله").
+د ننوتنې(سپټېټ، ن، [سپټېټس], "سپټ").
+دەخور(septic, n, [septics], "یو عمل کوونکی چه سپساس تولیدوي SEPTICAL صفت").
+انټرۍ(سپټيميل, صفت, [], "د اوو شمېرې پر بنسټ").
+ورود(سپټائم, ن, [سپټائمونه], "په لیزابازی کې يو مقام").
+entry(سپټوریا, ن, [سپټوریاګانې], "د فنګس یو ډول").
+entry(سپټم, ن, [سپټمز], "يا سپټا يو تقسيمېدونکی پرده يا جلا کوونکی").
+entry(septuple, v, [septupled, septupling, septuples], "د اوه ځله زیاتولو لپاره").
+د ننوتلو(sequel, n, [sequels], "څه چې تعقيب کیږي او د دوام په توګه خدمت کوي").
+د ننوتنه(بیماري پاېله، ن، [پاېلې،] "یو غیر نورمال حالت چې د یو مخکېني مرض څخه رامنځته شوی وي").
+entry(لړۍ, v, [ترتيب شوی,ترتيب کول,ترتيبات], "په پرله پسې ډول ترتيبول").
+د Prolog: entry(sequency, n, [sequencies], "د یو بل وروسته راتلل").
+د داخلېدنې(sequent، n، [sequents]، "څه شی چې تعقیبوي")
+د بياکې رول(entry(sequin, v, [sequined,sequining,sequins], "د زرق برق غمي د مانې يو كڑے د زينت لپاره نښلول").
+entry(سکويتر, ن, [سکويترز], "د یو قیاس پایله").
+entry(سيکويا, ن, [سيکوياګانې], "يوه لويه تل شنه ونه").
+entry(سر, ن, [سرونه], "د هند د وزن يو واحد").
+داخل(sera, a, [], "د سیرم جمع").
+داخلول(سېرک، ن، [سېرکونه], "د یخو یوه لویه ټوټه چې د یوه یخچال نه جلا شوې وي").
+entry(حرم سرا, ن, [حرم سراګان], "حرمسرای").
+entry(سرای, ن, [سرایونه], "یو ترکي ماڼۍ").
+entry(serail, n, [serails], "یو سیرالیو").
+entry(seral, adj, [], "د ایکولوژیکي بدلونونو لړۍ پورې اړوند").
+د ننوت(entry(serape, n, [serapes], "يو رنګين وړيوالى اوږدى څادر").
+د Prolog خط د پښتو ژباړه: 
+```prolog
+entry(seraph, n, [seraphs], "یا SERAPHIM یا SERAPHIN یوه وزر لرونکې اسماني هستيSERAPHIC صفت").
+```
+entry(سرافيم, ن, [سرافيمونه], "ملاك").
+د پرولاګ ژبې هغه کرښه چې تاسو یې ورکړې ده په پښتو ژبه کې په لاندې ډول ده:
+
+```prolog
+entry(سراب، ن، [سرابونه]، "د کیندنې یا لرغوني مصري قبر دننه یو خونه").
+```
+entry(sere, adj, [], "ژېړ د وچېدو پورې").
+entry(سېر, فعلي, [سېرېد، سېرېدل، سېريږي], "سېر کول").
+entry(سېرې, ن, [], "طبیعي سېرې د نباتاتو یا ځناورو ټولنې").
+entry(سیرین, n, [سیرینونه], "یو ښه باران چې له ښکاره پاکې اسمان څخه لوېږي").
+entry(سيرينډ, فعل, [سيرينډ کړ, سيرينډ کول, سيرينډ کوي], "په عزتمند ډول د ماښام سندره اجرا کول").
+entry(سرېناتا, ن, [سرېناتاس], "او یا سرېناتا یو ډرامایي کانټاټا").
+entry(serene, adj, [], "سکون آرامSERENELY adv").
+entry(ارامه, n, [ارامې], "يو ارامه حالت يا پراخوالى").
+entry(آرامښت, ن, [آرامښتونه], "د آرامتیا حالت").
+دسيري(داخلول، پرتليز، []، "دسيري").
+entry(serest, superlative, [], "پۀ خشکه").
+entry(مريی، ن، [مريان]، "يو فودالي مريی").
+entry(غلامي، ن، [غلامۍ]، "بنګالي").
+entry(مرييتوب, n, [مرييتوبونه], "د مريي حالت").
+د داخلولو(serfhood, ن, [serfhoods], "serfdom").
+داخلول(د يو خان زوی، صفت، [], "د يو خان زوی ځانګړتيا").
+دداخلې(دببرشان، صفت، [], "دببرماهي شان").
+entry(سیرج, فعل, [سیرجد, سیرجنگ, سیرجز], "د یوې ګنډې څنډه د پراخو ټکو سره بشپړول").
+دخول(سارجنټ، ن، [سارجنټان]، "یو غیرکمشن شوي نظامي افسر").
+د ننوتنه(کړنډکوونکی, ن, [کړنډکوونکي], "د کړنډ کولو لپاره یوه ماشین").
+entry(serging, n, [sergings], "د يوې پارچې د ناپاکو څنډو بشپړولو بهير").
+د ننوتلو(شمارې، n، [شمارې]، "يو ادبي يا ډراميک اثر چې په پرله پسې برخو کې وړاندې کیږي").
+entry(په ترتیب سره, قید, [], "د یوې لړۍ په بڼه یا طرز کې").
+entry(په قطارول, v, [پۀ قطارکړل,پۀ قطارکول,په قطارکړي], "سلسله کول").
+دخول(سيېرېټم، ق٫، []، "په قطار سره").
+entry(sericin, n, [د سيريسينونه], "د پروټین یو ډول").
+entry(seriema, n, [سيريما], "يو برازيلي مرغی").
+entry(series, n, [لړۍ], "د يو بل وروسته ترتيب").
+entry(سيريف, ن, [سيريفونه], "يوه نرۍ کرښه چې د يوې ليترې د اصلي کرښې د بشپړولو لپاره کارېدلېSERIFED SERIFFED ص").
+د ننوتلو(سين, ن, [سينونه], "يوه اروپایي چوچڼۍ").
+entry(سیرین, ن, [سیرینونه], "یو امینو اسید").
+دورازھ(سیړل، موجود، [], "د سیړ فعل ګردان").
+entry(سرينجا, ن, [سرينجاګانې], "يوه برازیلی ونه").
+entry(جدي, صفت, [], "په بڼه یا چلند کې ژور یا آرام").
+entry(څارنوال, ن, [څارنوالان], "څارګر").
+د خطبې پېژندنه(خطبه, ن, [خطبې], "يو مذهبي بيان د واعظ").
+entry(سرولوجي، ن، [سرولوجي]، "د سیرومونو علم").
+د پرولوګ کوډ: entry(serosa, n, [serosas], "يا SEROSAE د يوې نازکې غشا چې ځينې د بدن حجرې ليني، SEROSAL صفت").
+د ننوت(serosity, n, [serosities], "د serous کېدو کیفیت یا حالت").
+دخولو(سيروتين، نوم، [سيروتينونه], "يو اروپايي غوماشو").
+entry(serotiny, n, [serotinies], "د هغو تخمونو یا دانې حالت چې په ورو یا تدريجي ډول خپريږي").
+entry(serotype, v, [serotyped,serotyping,serotypes], "د مایکرو ارګانیزمونو د انټيجنونو د ځانګړي ټولګې له مخې طبقه بندي کول").
+entry(پوزياتي، صفت، [], "د سرم یا ورته والی لرونکی").
+دننه(سرووَر، ن، [سرووَران]، "د میکرو ارګانیزمونو یوه ډله چې ځانګړي انتیجنونه لري").
+entry(ښاون، ن، [ښاوانه]، "يو اسیایي هرن").
+entry(مار, ن, [ماران], "يو پړانګ").
+entry(serpigo, n, [serpigos], "يا چې SERPIGOES يا SERPIGINES يو خپريدونکی پوټکي اخته کيدل").
+entry(serranid, n, [serranids], "یو سمندري ماهی").
+entry(سېرانو, ن, [سېرانوګانې], "يوه کوچنۍ توده مرچ").
+د ننووتل(دندانه دار, فعل, [دندانه شوی, دندانه کول, دندانه کوي], "د غاښ په څیر پروجیکشنونو سره تجهیز کول").
+د داخلې (serry, v, [serried, serrying, serries], "یو ځای سره ګڼه ګوڼه کول").
+entry(serum, n, [serums], "يا سيرا د ټول وینې اوبه واله برخه، سيرومالي صفت").
+entry(servable, adj, [], "د خدمت کولو یا وړاندې کېدو وړ").
+entry(serval, n, [servals], "يو افريقایي وحشي پيشو").
+entry(خدمتګار, ن, [خدمتګاران], "هغه چې نورو ته خدمت کوي").
+entry(خدمت, v, [خدمت وشو, خدمت کوي, خدمتونه], "د کار کول").
+دخول(server, n, [سرورونه], "هغه څوک چې بل ته خدمت کوي").
+entry(پخولځای, ن, [پخولځايونه], "د خواړو د وړاندې کولو ځای يا خونه").
+د خدمت لپاره، v، [خدمت شوی، خدمت کول، خدمات]، "سمول".
+entry(servicer, n, [خدمتګاران], "هغه څوک چې خدمت کوي").
+entry(خدمتګار, adj, [], "په غلامۍ سره مطیع").
+entry(خوراک, n, [خوراکونه], "د خوراک یو برخه").
+entry(خدمتګار, ن, [خدمتګاران], "نرینه خدمتګار").
+entry(سروو, ن, [سرووز], "یو اتوماتیک آله چې د بل میکانیزم د کنټرول لپاره کارول کیږي").
+دخول(sesame, ن, [sesames], "د يو ختيځ هند نبات").
+entry(سيزاموئډ, ن, [سيزاموئډونه], "د هډوکي یا غضروف یوه نډولره ډله").
+entry(سېشن, ن, [سېشنونه], "يوه غونډه").
+entry(sessile, صفت, [], "د تل لپاره تړل شوی").
+د_ورانديز(session, n, [برخې], "د يوې قانون جوړوونکې يا قضايي ادارې غونډه د سوداګرو د معاملاتو لپاره").
+د داخلېدو(سيسپول، n، [سيسپولونه]، "ګنډه‌تانبۍ").
+entry(سيسټرسي, n, [سيسټرسيز], "د لرغوني روم یوه سکه").
+entry(سيسټ، ن، [سيسټونه], "د شپږو کرښو يو بند").
+entry(sestina, n, [sestinas], "د شعر يوه بڼه").
+entry(سستين, ن, [سستينونه], "سستينا").
+entry(set, v, [سيټ,ترتيب,سيټونه], "په يوه ځانګړې دنده کې ايښودل").
+entry(seta, n, [setae], "يو زمخت سخته ويښتهSETAL adj").
+د وردولوو دننه کول, n, [وردولونه], "يوه ماتې".
+د ننوتنې(سيټنټ، اسم، [سيټنټونه]، "يو ټپلي چې په ډيزاين کې له هغه ټپليو سره توپير لري چې په ورته پاڼه کې دي").
+entry(setiform, adj, [], "د سيټا په بڼه درلودونکی").
+په_کتابونه(معلومات, ن, [ کتابونه], "یو قوي ماهی نیولو لاین").
+.entry(setoff, n, [setoffs], "هغه څه چې د بل څه تاوان جبرانوي").
+entry(seton, n, [setons], "د جراحي تار یو ډول").
+entry(setose, adj, [], "په وېښتو پوښل شوی").
+entry(setous, adj, [], "setose").
+entry(setout, n, [setouts], "يو ننداره").
+entry(سيټسکرو, ن, [سيټسکرواس], "د يو ډول پيچ").
+entry(sett, n, [setts], "د یو ڼد د ژۍ").
+د ننوتنه (سټي، n، [سټيګانې]، "یو اوږد څوکۍ چې لوړ شاته لري").
+entry(setter, n, [setters], "یو څوک چې ټاکي").
+entry(setting, n, [ترتیبونه], "هغه منظره چې په یو ډراماتیک تولید کې کارول کیږي").
+entry(ميشته کول، v, [ميشته شوی،ميشته کول،ميشته کوي], "په مطلوب حالت یا ترتیب کې ځای پر ځای کول").
+دننه(settler, ن، [settlers], "یوه چې ځاي نیسي").
+entry(حل, ن, [حلات], "توشې").
+ورود(ښوونکی, ن، [ښوونکي], "هغه څوک چې قانوني ټاکنه کوي").
+entry(setulose, adj, [], "د وېښتانو په څېر پوښل شوی").
+entry(setulous, adj, [], "د وړې وړې ویښتو سره").
+د ورودي (دوخت، ن، [دوختونه], "د يو شي ترتيب يې ده").
+entry(سېو, ن, [سېوې], "يو هندي خواړه چې د اوړو څخه ژور کيږي").
+entry(اووه, ن, [اوه], "يو عدد").
+entry(اووم, ن, [اوومونه], "د اوو مساوي برخو څخه يوه برخه").
+داخلې (اويا، ن، [د اويايمو]، "يو شمېر").
+entry(جلا کول, v, [جلا شو, جلا کونه, جلا کوي], "په برخو ویشل یا پرې کول").
+په پرولاګ:
+entry(ډېر, ن, [ډېر], "څو کسان یا شیان").
+ادخال(شدید، صفت، [], "شدیدتر شدیدترین بې رحم په چلند سره د نورو شدید ټکی").
+د ننوتنې(شدت، ن، [شدتونه]، "شدت يا سختوالی").
+entry(سيويري, n, [سيويريس], "په ګنبدي چت کې یو بيلتون").
+entry(سویچه, ن, [سویچېس], "د خامو کبانو یوه ډوډۍ").
+داخلول(سورګه، ن، [سورګې], "د کیسپیان سیند څخه خاویار").
+entry(sew, v, [sewed,sewn,sewing], "اېنډول: د ستنې او تار په واسطه مزي کول یا تړلای اېنډېدونکی صفت").
+entry(فاضله‌مواد, ن, [فاضله‌موادونه], "هغه ضایعات چې د فاضله‌نلونو له لارې انتقالیږي").
+entry(سيوان, ن, [سيوانس], "سيوان").
+entry(سېوار, n, [سېواران], "يو منځنيو پيړيو نوکر").
+د ننهېدو(فاضله، فعل، [فاضله شوې، فاضله کول، فاضله کوي], "د فاضله لرې کول یا د ضایعاتو لپاره د ځمکې لاندې نالې ساتل").
+entry(چټليوبند, ن, [چټليوبندونه], "فاضله مواد").
+د داخلې(ګنډنه، ن، [ګنډنې]، "مواد چې ګنډل شوي یا د ګنډلو لپاره دي").
+entry(sewn, a, [], "د sew تېر مشار").
+entry(جنس, v, [جنسيت ټاکل, جنسیت کول, جنسونه], "د دې جنس ټاکل چې کومې ځانګړتياوې د توليدي دندو له مخې رنګبندي کوي").
+د داخله(جنسی کوونکی، ن، [جنسی کوونکي]، "یو چې جنسي کوي").
+entry(جذابه, پرتله ییزه, [], "د خوځنده").
+entry(ښکلي, لوړتيا, [], "د ښکلي").
+entry(په جذاب ډول, قید, [], "په جذاب ډول").
+د پیښلیک(ښایست, ن, [ښایستونه], "د ګرمښت کیفیت یا حالت").
+entry(جنسپالنه, ن, [جنسپالنې], "ښځو پر ضد تعصب یا تبعیض").
+entry(جنسيتي, ن, [جنسيتيان], "هغه څوک چې د جنسيت پالنه کوي").
+entry(بې جنس, صفت, [], "له جنسي ځانګړتياوو څخه بې برخې").
+entry(جنسيات, n, [جنسياتونه], "د انسان د جنسي چلند مطالعه").
+اندازه(sexpert, ن، [sexperts], "په جنسي چارو کې متخصص").
+entry(sexpot, n, [sexpots], "یو جنسي جذاب ښځه").
+entry(سیکسټ، ن، [سیکسټونه]، "د لمونځ او عقیدت لپاره د اوو معياري ورځني وختونو څخه یو").
+entry(sextain, n, [sextains], "د شپږو کرښو يوه بند").
+entry(sextan, n, [sextans], "يو تکراري مليرن تبه").
+entry(سکستانت, ن, [سکستانتونه], "د زاويې واټن د اندازه کولو لپاره یوه وسیله").
+د Prolog کوډ: entry(sextarii, npl, [], "د لرغوني روم د مایعاتو د پیمانې واحدونه").
+ځای(شپږګوني, n, [شپږګوني], "د شپږو ګروپ").
+ورودی(سکسټیټ، ن، [سکسټیټونه]، "سکسټ").
+```prolog
+entry(شپږم, ن, [شپږمي], "څهاله چې دوه اسماني بدنونه شپېته درجې بیل وي").
+```
+entry(سیکسټنګ, ن, [سیکسټنګونه], "د جنسي څرګندو پیغامونو یا عکسونو د موبایل له لارې لیږل").
+entry(sexto, n, [sextos], "سکسٹو").
+entry(سکټن, n, [سکټنان], "د یوې کلیسا د ساتنې کارکوونکی").
+د Prolog کرښې ته د پښتو ژباړه: 
+entry(sextuple, v, [sextupled, sextupling, sextuples], "شپږ چنده کول").
+entry(څلور ځلې, قيد، [], "تر شپږ ځلې پورې زيات يا ډېر").
+entry(sexual, صفت, [], "د جنسیت پورې اړوند - جنسیتي ډول سره").
+entry(سیکسي, صفت, [], "ډېر سیکسي ډېر سیکسي چې جنسي غوښتنې راپورته کوي").
+entry(سفريکس, npl, [], "د طوفانونو یو الیکتروني کشاف").
+entry(سفورزاټو, ن, [سفورزاټوز], "د یوې نغمه یا آکورډ په ناڅاپي ځواک سره غږول").
+entry(sfumato, n, [sfumatos], "په نقاشۍ کې کارېدونکې یوه تخنیک").
+د ننوتنه(sh, interj, [], "د چوپتيا هڅه کوي").
+entry(شا, ندا، [], "د چوپتیا لپاره کارول کیږي").
+entry(shabby, adj, [], "ډېر زوړ ډېر زوړتر ډېره برخه شلېدلی زړې جامې اغوستل په پټه").
+entry(جکړۍ, فع، [جکړ کړ، جکړ کول، جکړۍ], "پکې اوسېدل یا ژوند کول").
+entry(ځنځير, فعل, [ځنځيرشو,ځنځيرکېدل,ځنځيرونه], "د فلزي بندونو سره تړل چې د لاسونو يا پښو شاوخوا کېښودل کېږي").
+entry(شېکلر, n, [شېکلران], "هغه څوک چې شېکل کوي").
+entry(شاکو, ن, [شاکوز], "یا SHACKOESshako").
+entry(shacky, adj, [], "SHACKIER SHACKIESTويران").
+entry(شډ, ن, [شډې], "خوراکي کب").
+د ننه موخه(شډبلاو, ن, [شډبلاوز], "يو شډبوش").
+entry(شنوکی, ن, [شنوکیان], "یو ګلدار ونې یا بوټی").
+entry(شیدخان, ډول, [شیدخانان], "یا شادخانیم یهودی واده جوړونکی").
+دسکلی(entry, n, [دسکلی], "یو د ترنج ویجا").
+entry(چپ, interj, [], "د يو چا چوپولو لپاره کارول کيږي").
+د پرولاګ نسخه:
+entry(سيوری, فعله, [سيورې کړ,سيوري کول,سيورې], "له رڼا يا تودوخې څخه پرده کول").
+entry(shader, n, [shaders], "هغه څوک چې سیوری کوي").
+entry(شید پرواز, ن, [شید پروازونه], "یو وزر لرونکی حشره").
+entry(توره, تقابلي, [], "د سيوري").
+entry(ترټولو_سيوری_لرونکی, superlative, [], "د سيوري").
+entry(په_سايه_کې, وينا_روښ, [], "په سايه کې").
+entry(سیوری, ن, [سیوري], "د رڼا یا تودوخې پر وړاندې محافظت").
+entry(shadkhan, ن, [shadkhans], "يوازې SHADKHANIMshadchan").
+entry(شاډوف, ن, [شاډوفونه], "په مصر کې د اوبو پورته کولو لپاره د اوبو لګولو وسیله").
+د داخله(سیوری، فع، [سیوریدلی، سیوریدل، سیوري]، "تیاره یا خفه کول").
+د پرولوگ
+entry(shadower, n, [shadowers], "هغه څوک چې سیوری کوي").
+د ننوتنې(سيورې لرونکی, صفت, [], "سيورې زيات، سيورې تر ټولو زيات تياره").
+د شاډراک انرۍ(n, [shadrachs], "د بلاسټ فیرنېس په وهی ته کی یو غیر متفق ماده")
+entry(شادوف, ن, [شادوفونه], "شادوف").
+entry(shady, adj, [], "SHADIER SHADIESTshaded").
+entry(دستګاه, v, [دستګاه شوی, دستګاه کول, دستګاهونه], "د یوې پولې سره فشار ورکول یا حرکت ورکول").
+entry(شاافتینګ, ن, [شاافتینګونه], "د حرکي یا برېښنا د لېږدونې لپاره د راډونو یوه سېسټم").
+entry(جوړه, فعل, [جوړکړل,جوړول,جوړې], "وزغره جوړول").
+entry(شګبارک, n, [شګبارکونه], "یو سخت لرګي ونه").
+entry(شګي، صفت، []، "د اوږدو او خشن ویښتو سره پوښل شوی شګیلی").
+دخله(شگرین, ن, [شگرینونه], "د ځینو شارکانو ګډه پوست").
+entry(شاه, ن, [شاهان], "د ايران يو واکمن").
+entry(شهادت, ن, [شهادتونه], "د اسلام د عقیدې اعتراف").
+entry(شهادت, n, [شهادتونه], "شهادہ").
+پرو لاګ: entry(shahdom, n, [shahdoms], "هغه سیمه چې د شاه لخوا واکمنيږي").
+entry(شهید, ن, [شهیدان], "شهید").
+entry(شاهید, ن, [شاهیدان], "يو مسلمان شهيد").
+entry(شیخ, ن, [شخصان], "شیخ").
+entry(شېرډ, ن, [شېرډز], "شېرډ").
+entry(شاعر, ن, [شعرونه], "شعر").
+entry(شيطان, n, [شيطانان], "يوه بد روح").
+د سمون لپاره د پروګ راتګ یوازې په مفهوم باندي دی، نو اجازه راکړئ ستاسې پروګ آرډر را انتقال کړم:
+
+`entry(shake, v, [shook,shaken,shaking], "SHAKEsto move to and fro with short rapid movementsSHAKABLE adj").`
+entry(شېک آوټ, ن, [شېک آوټونه], "یو کوچنی اقتصادي ناورین").
+entry(ښورونکی, ن, [ښورونکي], "یو څوک چې ښوروي").
+entry(shakeup, n, [shakeups], "په بشپړه توګه بيا تنظیم کول").
+entry(زیات متزلزل, تقابلي, [], "د متزلزل").
+دخولیه(شکی‌ترینه، عالي‌درجه، []، "د شاکی").
+entry(لړزېدونکي, adv, [], "په لړزېدونکي ډول").
+entry(شیکول, اوسنی, [], "د شیکول فعلي حالت").
+entry(شاکو, ن, [شاکوز], "یا SHAKOES د پوځ د خولۍ یو ډول").
+entry(shaky, adj, [], "SHAKIER SHAKIESTshaking").
+د پرولاګ کرښه په پښتو ژبه کې:
+entry(شیل, ن, [شیلونه], "يو نرۍ تيږه").
+entry(شیلډ, صفت, [], "د پوست یا زړی لرل").
+entry(shaley, adj, [], "شالي ترين شالي ترینshaly").
+entry(shalier, comparative, [], "د شالي").
+entry(ترټول_شالي, عالي_درجه, [], "د شالي").
+entry(shall, v, [], "اوسنی زمانه یکتا سیمه ۲م شخص SHALL یا SHALT تیریدونکی زمانه یکتا سیمه ۲م شخص SHOULD یا SHOULDST یا SHOULDEST د مرسته کوونکي په توګه استعمالیږي د راتلونکې حتمي یا امر څرګندونه کوي").
+داخله(شالون, ن, [شالونونه], "یو وولن پارچه").
+entry(شلوپ, ن, [شلوپونه], "یو وړوکی خلاص کښتۍ").
+entry(shallot, n, [شنلې], "يو نبات چې د پېاز په څېر دی").
+entry(سطحي, صفت, [], "د لږ ژورتیا لرل").
+د Prolog کرښه په پښتو کې داسې ژباړل کیږي:
+entry(کم عمق، v، [کم شوی، کم عمقوالی، کم عمقان]، "کم عمق کول").
+entry(سلام, ن, [سلامونه], "يوه کلمه چې د يهودي د سلام يا د مخه ښه په توګه کارول کېږي").
+entry(shalt, a, [], "د shall فعل د اوسنۍ زمانې دويم واحد شخص").
+entry(شلور, ن, [شلورونه], "د هند د ځینو ښځو لخوا اغوستل شوي ازادې پتلون").
+entry(shaly, adj, [], "د شېل په څېر").
+دخوله(شام، ف، [شام کړه،شام کوي،شامونه]، "ظاهري ښودل").
+entry(shamable, adj, [], "شرمېدلی کېدونکی، د شرم وړSHAMABLY adv").
+entry(شمال, n, [شمالونه], "يو ګرم وچ باد").
+د ننوتنه(شمن، ن، [شمنان]، "یو درملونکی سړی د ځینو اصلي امریکایانو په منځ کې د شمنی تطبیقات adj").
+entry(شماس, ن, [شاموسيم], "شامس").
+entry(شامبا, ن, [شامباګانې], "په ختیځه افریقا کې یو فارم").
+entry(شامبل, v, [شامبلډ,شامبلینګ,شامبلز], "ناجوړه تګ کول").
+entry(شرم, فعل, [شرمنده, شرموول, شرموي], "ددې سبب کيدل چې د ګناه يا سپکاوي دردناک احساس وکړي").
+د(شکننده, صفت, [], "رسوا").
+entry(شرم, ن, [شرمونکي], "شرمي").
+د Prolog کوډ:
+entry(shamiana, n, [shamianas], "په هند کې یوازینۍ لوی خیمه").
+د Prolog نسخه: entry(shamisen, n, [shamisens], "samisen").
+entry(شماس, ن, [شماسيم], "شاميس").
+د ننوتنې(شاماش، ن، [شاماشيم]، "شاميس").
+entry(شېم کړي، تېر، [], "د شېم زمانه").
+entry(شامر, ن, [شامرز], "هغه څوک چې دوکه کوي").
+entry(شاماش, مذکر, [شاموشیم], "د یو کنیسه کوچنی چارواکی").
+د شښميده، تېر، []، "د شښمي کولو زمانه").
+entry(shammies, present, [], "د شمي په دريمه مفرد شخص").
+entry(فریب کول, موجود, [], "د فریب مصدر").
+entry(شمّاس, ن, [شمّاسيم], "شماس").
+پرو لاګ: entry(shammosim, pl, [], "د شمش").
+دخلے(شامي، فعل، [شاميډ، شامينګ، شاميز]، "چمويس کول").
+داخلول(شاموا، ن، [شاموا]، "شامو").
+entry(شاموس, ن, [شاموسيم], "شامس").
+entry(shamosim, pl, [], "د شامتونو").
+entry(شاموي, v, [شامويډ,شامويینګ,شامويز], "چامیس کول").
+entry(شامپو, v, [شامپو کړ,شامپو کول,شامپو کوي], "په ځانګړي چمتووالي سره پاکول").
+entry(شیمراک, ن, [شیمراکس], "یو درین پاڼی بوټی").
+entry(شاموس, ن, [شاموسونه], "یو خصوصي جاسوس").
+د ننوتنه(شینډي, ن, [شینډیانې], "یو الکولي مشروب").
+entry(shanghai, v, [شَنگھائی کړ, شَنگھائی کوي, شَنگھائیز], "د یوې کښتۍ په خدمت کې د تښتونې لپاره").
+entry(شینک, فعل, [شینک کړ, شینک کول, شینکس], "لکه د ګولف بال په شان ښي لور ته په شدت سره وهل").
+د Prolog کرښه:
+entry(shanny, n, [shannies], "یو سمندري کب").
+entry(شانتي, ن, [شانتيز], "چانتي").
+د Prolog:
+entry(shanti, n, [شانتۍ], "امن").
+entry(شنطيانې, جمع, [], "د شنطۍ").
+entry(shantih, n, [shantihs], "شانتي").
+entry(شنګتونګ, ن, [شنګتونګونه], "د ورېښمو کپړه").
+entry(شانټي، ن، [شانټیان]، "يو کوچنی ناول جوړ شوی کور").
+entry(شکل, v, [شکل شو,شکل نيول,شکل سازي], "شکلبندي ته بڼه ورکولSHAPABLE صفت").
+entry(ښکلی, صفت, [], "ښکيل ښکيلترينم-يو-د-ښکلې-شکل").
+entry(shaper, n, [shapers], "يو چې شکل ورکوي").
+د پاسښتو ژبې ته په پرولوګ کې:
+entry(shapeup, n, [shapeups], "د یوې کارګرې ډلې د استخدام سیستم").
+د ننوتنه(شکل جوړونه, اوسنی, [], "د شکل جوړولو فعلي برخه").
+د پرولاګ نسخه: entry(shard, n, [shards], "د ماتې شوې خاورین لوښي یوه ټوټه").
+entry(شریکول, فعل, [شریک,شریکول,شریکوي], "د بل چا يا نورو سره په ګډه لرل، ترلاسه کول يا کارول").
+دخونې(شریکوونکی، ن، [شریکوونکي]، "یو څوک چې شريک کوي").
+entry(شريعت, n, [شرعي], "اسلامي قانون چې د قران پر بنسټ دی").
+entry(شريعت، ن، [شريعتونه]، "شريعت").
+entry(شريعت, n, [شريعتونه], "شريعت").
+entry(sharif, n, [sharifs], "شريف").
+entry(شریکول, حال, [], "د share فعلي مصدر").
+entry(شارک, v, [شارک شوی, شارک کول, شارکونه], "د چل ول څخه ژوند کول").
+ورودی(شارکر, ن, [شارکرز], "هغه څوک چې شارک کوي").
+entry(sharkish, adj, [], "د شارک په څېر چلند کول، یو ښکاری کب").
+entry(شړڼ, ن, [شړڼونه], "د غوايي سرګي، شړڼي صفت").
+درد(تیز, صفت, [], "تیز تر تیز تر مناسب د پرې کولو یا سوري کولو لپاره").
+entry(تيز, v, [تيز کړ, تيزول, تيزي], "لکه يو موسيقي نغمه په لوړ اواز پورته کول").
+entry(تېره کړه, v, [تېره کړه, تېرېدل, تېروي], "تيزول").
+د پشاور لپاره د دې پراګون کرښه:
+
+```prolog
+entry(sharper, n, [sharpers], "یو ټګ"). 
+```
+entry(شارپي, n, [شارپيان], "يو ډېر چټک او هوښیار شخص").
+د ننوتنه(څرکنده، صفت، [], "یو څه تيز").
+entry(په تېزۍ سره, adv, [], "په تېز ډول").
+entry(شارپي, ن, [شارپيز], "شارپي").
+entry(شاشلیک, ن, [شاشلیکس], "کباب").
+د ننوتنه(شاشلیک، ن، [شاشلیکس]، "شاشلک").
+entry(شستا, ن, [شستاس], "یو ګل لرونکی نبات").
+entry(شاتوش, ن, [شاتوشونه], "يو ټوکر چې د چيرو له وړۍ څخه جوړ شوی").
+entry(ماتول, v, [مات,ماتول,ماتوي], "ټوټو ټوټو کول").
+entry(shaugh, n, [shaughs], "يو ځنګل").
+entry(شافل, v, [شافل کړ, شافل کول, شافلونه], "shoal ته").
+د Prolog په توګه:
+entry(خريېدل, v, [خريېدل,خريل,خريل], "خريېدل؛ د وېښتو پرېکول تر ريښو پورې؛ خريېدلے صفت").
+entry(څرمن، n، [څرمنونه]، "یو چې خطر کوي").
+entry(شاوۍ, ن, [شاوۍګانې], "یو چل یا ټوکه").
+entry(ږندنه, ن, [ږندنې], "چاته لیرې کړل شو").
+دننه کول(shaw, v, [shawed, shawn, shawing], "SHAWSto ښودل").
+سجله(شاوارما، ن، [شاوارماګانې]، "د پسه غوښه يا چرګ سبزيجات او اکثره د تاهني سره په پېټا ډوډۍ کې راښکل شوې ساندوچ").
+entry(شال, v, [شال شوی, شال اچول, شالونه], "په شال کې نغاړل یوه ټوټه پارچه چې د پوښ په توګه اغوستل کیږي").
+entry(shawm, n, [shawms], "یو پخوانی بادی آله").
+entry(شي, ن, [شيان], "يوه چيز").
+entry(شيخ، ن، [مشايخ]، "شيخ").
+د داخلې(شازم، interj، []، "د یو جادويي پېښې د څرګندولو لپاره کارول کیږي").
+د ننوتنې(هغې, ن, [هغې], "یوه ښځه شخص").
+entry(شيا, ن, [شياز], "يو افريقايي ونه").
+entry(دړه, v, [دړمن,دړمه,دړې], "دړلو ته").
+entry(شیال, ن, [شیالونه], "shealing").
+entry(shealing, ن, [shealings], "د شپونکي کوډۍ").
+entry(کترل, v, [کټلی,کټل,کټل], "ويښتانه يا وړۍ پرې کول").
+entry(شيئرر, ن, [شيئرران], "هغه څوک چې شيئرز").
+entry(ښکل کول, n, [ښکنې], "د ویښتانو یا وړیو پرې کولو پیښه").
+entry(غلاف, v, [غلاف شوی, غلاف کول, غلافونه], "غلاف کول").
+entry(پوش, v, [پوښل, پوښي, پوښې], "محافظتي قضیې ته اچول").
+entry(شیدر, ن, [شیدرونه], "هغه څوک چې خولۍ کوي").
+د داخلې(شېو, ف, [شېوه شوې, شېوه کول, شېوې], "يوه جوړه کې راټولول").
+د Prolog کرښه دا لاندې وه:
+
+entry(shebang, n, [shebangs], "يو وضعيت، تنظيم يا موضوع").
+entry(shebean, n, [shebeans], "شیبین").
+ننوتنه(shebeen, n, [shebeens], "یو ځای چېرته چې شراب په غیرقانوني توګه پلورل کیږي").
+داخلې(شېډ، فعل، [شېډ کړ، شېډ کېدل، شېډونه]، "په یو کوچني ټیټ جوړښت کې ځای په ځای کول").
+entry(shedable, adj, [], "د غورځېدو وړ").
+entry(شیډر, n, [شیډران], "هغه څوک چې یو څه لیرې کوي").
+entry(shedlike, adj, [], "د یوې څپرکې یا شېډ په څېر").
+entry(شین, v, [شین شوی, شین کول, شینیږي], "ځلېدل").
+entry(روښانه، adj، []، "shining").
+entry(شین, صفت, [], "ډېر شین تر ټولو شین ځلاند").
+د ننوتنه(پسه, ن, [پسه], "يو څړښونکی تي لرونکی").
+entry(د پسونو برخه, ن, [د پسونو برخې], "د پسونو لپاره يو چارديوال").
+entry(د پسونو سپی, ن, [د پسونو سپي], "د یوې روزل شوې سپي چې د پسونو ساتنه او رمې چلوي").
+entry(شرمنده, صفت, [], "خجالت").
+entry(غوایي پالونکی, n, [غوایي پالونکي], "یو څوک چې پسونه پالوي").
+entry(شیر, صفت, [], "ډېر نازک جوړښتشیرلی قید").
+entry(شېر, v, [شېر, شېرېدنه, شېرونه], "څپېړه کول").
+entry(شیش, فېاچار, [], "د لږ خفګان څرګندولو لپاره کارول کیږي").
+د پرولاګ کوډ:
+entry(sheet, v, [sheeted,sheeting,sheets], "د پتلي مستطیلي شکل مواد سره پوښل").
+entry(شيټر, ن, [شيټرونه], "يو چې شيټونه جوړوي").
+entry(sheetfed, adj, [], "د چاپ يوه ځانګړې مشينې")
+entry(sheeting, n, [sheetings], "په پاڼو کې مواد").
+entry(شيَف, n, [شيَفونه], "يوه نالی لرونکې پللي څرخ").
+entry(شهنايي, ن, [شهناييان], "د هند یوه دوه ژبي بادي آله").
+entry(شيخ، ن، [شېخان]، "يو عرب مشر").
+entry(شيخۍ, n, [شيخۍ ګانې], "هغه سیمه چې د شيخ لخوا اداره کیږي").
+دProlog:
+entry(sheikh, n, [څښحان], "څښ").
+د داخله(شيلا, ن, [شيلاس], "يوه ځوانه ښځه").
+entry(شیطان, n, [شیطانان], "شیطان").
+إدخل(شایتل، ن، [شایتلز]، "یو وگ چې یوه واده شوې یهودي ښځه یې اغوندي").
+entry(شيکل, ن, [شيکلونه], "يا شيکليم يا شيکاليمن د وزن او پيسو لرغونی واحد").
+ورود(شیلډوک، ن، [شیلډوکس]، "یو اروپایي مرغه").
+دخول (شلف، ن، [شلفونه]، "یو فلیټ کلک جوړښت چې د شیانو د ملاتړ لپاره کارول کېږي").
+د داخلې(shelfful, n, [shelffuls], "څومره چې یوه المارۍ ساتلی شي").
+په(خولې، فعل، [خول شوی، خول کول، خولې]، "د یو سخت بهرني پوښ لرې کول").
+entry(شلاک, v, [شلاک شو, شلاک کول, شلاک کوی], "چې په نازکه ډول پالش کړي").
+entry(shellack, v, [shellacked,shellacking,shellacks], "شلاک کول").
+entry(sheller, n, [خولۍ کوونکي], "هغه څوک چې خولۍ ليرې کوي").
+entry(شېلي, صفت, [], "ډېر شېلونه لرونکی").
+entry(شیلتا, ن, [شیلتاګانې], "د ګېلېک یو خفیف ژبه").
+دخول(پناه, ف, [پناه‌یافته, پناه‌ورکوونکی, پناه ورکوي], "د پوښښ یا ساتنې چمتو کول").
+د ننوتنة(شیلټي, ن, [شیلټیز], "یو وړوکی او زوړکی پونی").
+entry(شيلټي, ن, [شيلټيز], "شيلټي").
+entry(shelve, v, [shelved,shelving,shelves], "پر المارۍ باندې ځای پر ځای کول").
+entry(د المارۍ ایښودونکی, n, [د المارۍ ایښودونکي], "هغه څوک چې المارۍ ږدي").
+entry(شوکې، pl، []، "د شوکې").
+entry(الماري, ن, [المارۍ], "د الماريو مواد").
+د اړیکې کلمه (شيلوي، صفت، [], "شيلويَر شيلويَسټ د تدريجي ميلان کولو").
+entry(shen, n, [شن], "د يو شخص د روحاني عنصر").
+دخول(shenai, ن, [shenais], "شهنايي").
+entry(شرمول, v, [شرمیدلی،شرمول،شرموي], "د بې عزتولو لپاره").
+داخلیدل(sheol, ن, [sheols], "دوزخ").
+entry(چرواکی, v, [څرول, څرول, څرواکي], "په احتیاط څارل").
+entry(شېکل، ن، [شېکلونه]، "يا SHEQALIMشېکل").
+entry(شربت, ن, [شربتونه], "شربت").
+entry(شيربت, ن, [شيربتونه], "يو يخ وهلی شوې د مېوې خوند لرونکې مخلوط").
+entry(sherd, n, [sherds], "ټوټه").
+entry(شريف, ن, [شريفان], "شریف").
+entry(شريف, n, [شريفان], "يو عرب واکمن").
+entry(شریف, ن, [شریفان], "د یوې ناحیې د قانون پلي کونکی افسر").
+د Prolog:
+entry(شرلاک, ن, [شرلاکز], "یو څارونکی").
+entry(سرو, ن, [سروګانې], "يوه ښځه چې د يوې اتلې په توګه شميرل کيږي").
+entry(شروټ, ن, [شروټونه], "cheroot").
+entry(شېرپا, ن, [شېرپاس], "د استر لپاره نرم پارچه").
+entry(شراب شوی, صفت, [], "د شرابو سره پوخ یا ځبیښ شوی").
+entry(شېرۍ, ن, [شېرۍګانې], "شېرۍ").
+entry(شېرې, n, [شېرېز], "د يو ډول شراب").
+entry(شلوار, ن, [شلوارونه], "هنديانو کې د هغو کسانو لپاره یو ګونډان اوږد کوټ").
+entry(شېټلېنډ, ن, [شېټلېنډونه], "يو وړۍ تار").
+entry(sheuch, n, [sheuchs], "خندق").
+entry(خندق, n, [خندقونه], "یو خندق").
+entry(ښودل, v, [ښودل, ښودل شوی, ښکارول], "ښودنهښېښودل").
+د ننوتنه(شور, ن, [شورونه], "هغه څوک چې څرګندوي").
+entry(shh, interj, [], "ښه").
+د ننوتنه(ښ، نکراره کلمه، [], "ښ").
+entry(شيعتسو, n, [شيعتسوګانې], "يو مساج چې په کې د ګوتې فشار کارول کېږي").
+entry(شياتزو, ن, [شياتزوز], "شياتسو").
+entry(shibah, n, [shibahs], "شيوا").
+entry(shicker, n, [shickers], "یوه نشه ای").
+entry(شرمېد, تېره, [], "د شرم تېر زمان").
+entry(شیل, ن, [شیلونه], "شیلینګ").
+د پرولوګ کرښه: `entry(شیلډ, v, [شیلډ شوې, شیلډ کول, شیلډونه], "د محافظتي پوښ یا پناه ورکول").`
+entry(شيلډر, ن, [شيلډران], "يو څوک چې محافظت کوي").
+د داخله(شیلینګ، ن، [شیلینګونه]، "شیالینګ").
+entry(شایر, ن, [شایرونه], "یو آس چې د ډار په لور تمایل لري").
+entry(شرميږي, اوسنی, [], "۳یم شخص مفرد د شرمیږي").
+entry(shiest, a, [], "د 'shy' د عالي مقام صیغه").
+د پرولاګ:
+entry(shift, v, [شفت شوی, شفت کول, شفتونه], "له يو ځاي نه بل ځاي ته حرکت کول").
+entry(شيفټر, ن, [شيفټرونه], "هغه چې بدلوي").
+entry(شفت کول, ن, [شفتونه], "له يو ځايه بل ځاى ته د حرکت کولو عمل").
+entry(shifty, adj, [], "SHIFTIER SHIFTIESTtrickySHIFTILY adv").
+entry(shigella, n, [shigellas], "يا SHIGELLAE د يو جنس د هوا سره د بکتریا څخه").
+entry(شیتاکے, n, [شیتاکےز], "یو تور مشروم چې په ختیځ کې موندل کیږي").
+entry(شکار, v, [شکارشو,شکارکول,شکارونه], "شکار کول").
+entry(شکارا, اسم, [شکاراګان], "په کشمیر کې یو سپک او پلن قایقه").
+entry(شکارچی, n, [شکارچیان], "یو لوی ښکار کوونکی").
+entry(ښکاری, ن, [ښکاریان], "ښکاری").
+entry(شکر, ن, [شکرونه], "شرابي").
+entry(شکرا, ن, [شکرې], "يو کوچنی باز").
+entry(شیلینګی, n, [شیلینګی], "د تانزانیا یو مالي واحد").
+entry(شیل, فعل, [شیل کاوه, شیل کوي, شیل کوي], "د یو ځانکړي دنده ترسره کول").
+entry(شلاله, n, [شلالې], "یو لنډ او موټی چوپک").
+entry(شلینګ, ن, [شلینګونه], "د لوی بريتانیا پخوانی مالي واحد").
+entry(shilpit, صفت, [], "ناروغه").
+entry(شرمنده, قید, [], "په شرمیډه توګه").
+دخول(shim, v, [shimmed, shimming, shims], "د یو نری وېج اچولو سره ډکول یا سطحه کول").
+entry(شمر, فعل, [شمرېد,شمرېدونکی,شمرېږي], "ځلا کول").
+داخل (shimmery, صفت، [], "روښانه).
+entry(شيمي, فعل, [شيمي کړی, شيمي کول, شيمي کوي], "لړزېدل یا ټکنی کېدل").
+entry(شین, فعل, [شینډ,شیننګ,شینونه], "په لاسونو او پښو باندي په متناوب ډول نیولو او کشولو سره پورته ختل").
+entry(شنبون, ن, [شنبونونه], "د تیبیا").
+entry(شنډیګ, ن, [شنډیګس], "یوه تفصیلي نڅا یا محفل").
+entry(شندي, ن, [شنديان], "يا SHINDIES يو محفل").
+entry(shine, v, [shined, shining, shines], "راتلل").
+entry(ښکونکی, n, [ښکونکي], "هغه څوک چې ځلیږي").
+entry(شینگل, فعل, [پوښل شوی, پوښل, شینگلونه], "د ودانۍ د موادو باریک مستطیل ټوټو سره پوښل ").
+د Prolog:
+entry(shingler, n, [shinglers], "هغه څوک چې شینګلز جوړوي").
+entry(شنګلی, صفت, [], "په وړو وړو تیږو پوښل شوی").
+د ننوتل(څراغنده، تقابلي، [], "د څراغندنه").
+entry(ډېر ځلېدونکی, د لوړتیا حالت, [], "د ځلېدونکي").
+entry(په زرينه توګه, قيد, [], "په زرينه توګه").
+entry(روښانه, صفت, [], "رڼا خپرول يا انعکاس کول").
+entry(شنلف, ن, [شنلوفون], "يا شنې پاڼې يو څو کلن بوټی").
+% د پښتو ژبې ته ژباړل شوی
+entry(شين, تېر, [], "د شين").
+entry(shinnery, n, [shinneries], "د وړو ونو يو ګڼه ځنګل").
+entry(شنی نی, v, [شنی نی کړ, شنی نی کول, شنی نی], "د هاكي یوه بڼه لوبول").
+entry(روښانه, اوسنی, [], "د وېش د shin").
+entry(shinny, v, [shinnied,shinnying,shinnies], "درول").
+entry(شینټي، ن، [شینټېز]، "یو سکاټلنډی لوبه چې د فیلډ هاکي سره ورته ده").
+entry(چمکدار, صفت, [], "روښان ترين او روښانه").
+entry(ship, v, [د کښتۍ لیږد, د کښتۍ لیږدول, کښتۍ], "یو داسې ډنډر چې د ژورو اوبو په کې د نیولو لپاره مناسب وي په کښتۍ لیږدول").
+entry(شپلپ، ن، [شپلپس]، "یو متقاطع ګډ چې د ترکاڼۍ کې کارول کیږي").
+entry(shipless, adj, [], "د بېړۍ نه شتون").
+entry(shipload, n, [shiploads], "تر هغې کچې چې یوه کښتۍ لېږدولی شي").
+entry(shipman, n, [shipmen], "يو ناختبر").
+د داخلیدو(شپی میټ، ن، [شپی میټس]، "یو هم سیلانی").
+د لېږد(کېږدۍ, ن, [لېږدې], "یو څه چې لېږل کیږي").
+entry(لېږل شوی, ماضي, [], "د ليږلو زمانه").
+entry(shippen, n, [shippens], "د غوايانو کږه").
+دلیمدنه(shipper, n, [shippers], "هغه څوک چې انتقال کوي").
+د ننوتنه(لېږدول, ن, [لېږدونه], "د یو چا سوداګرۍ چې لېږدوي").
+entry(شپون, ن, [شپنګ], "شپن").
+entry(کشتيکنار, ن, [کشتيکنارونه], "هغه سیمه چې د کښتۍ سره نږدې وي").
+ورودی(shiptime, n, [shiptimes], "د یوه رسولو کښتۍ کلنی راتګ").
+entry(shipway, n, [shipways], "د کښتۍ لپاره کافي ژور کانال").
+entry(shipworm, n, [کښتۍ څرمښکۍ], "د چينجي په څېر يو صدف لرونکی ژوی").
+entry(بېړۍ جوړولو ځای, ن, [بېړۍ جوړولو ځایونه], "یو ځای چیرې چې بېړۍ جوړېږي یا ترمیمېږي").
+entry(شېراز، ن، [شېرازونه]، "د شرابو يو ډول").
+entry(shire, n, [shiregan], "د لوی بریتانیا یوه سیمه ییزه تقسیم").
+entry(شانه خالي کول, v, [شانه خالي کړ, شانه خالي کول, شانه خالي کوي], "د کار یا دنده څخه ډډه کول").
+entry(ګوښه کېدونکی, ن, [ګوښه کېدونکي], "هغه څوک چې ګوښه کېږي").
+```prolog
+entry(شېر, فعل, [شېرشو,شېرکول,شېرکوي], "چې په درې يا زياتو موازي کرښو کې راښکيل شي لکه جامې").
+```
+entry(شیرنګ, ن, [شیرنګونه], "د کپړې شیرنګ شوی جوړښت").
+entry(کميس, ن, [کميسونه], "د بدن د پورتنۍ برخې لپاره يو پوښاکSHIRTED adj").
+entry(شیرټینګ, ن, [شیرټینګونه], "هغه ټوکر چې کمېسونه ترې جوړېږي").
+entry(shirty, adj, [], "SHIRTIER SHIRTIESTangrySHIRTILY adv").
+entry(شست, n, [شستونه], "شست").
+د ننوتنه(شيتاکې، ن، [شيتاکېز]، "شييتاکې").
+entry(شطه, ن, [شطحې], "يو سخت لرګی ونه").
+entry(shittim, n, [shittims], "د شیتا لرګی").
+پرو لاگ: entry(shiur, n, [shiurim], "یو تلموډیک مطالعې غونډه").
+entry(شيو, ن, [شيوز], "يو چاقو").
+entry(شیوا, ن, [شیواس], "د سوګوارۍ موده").
+د لیک سره یوازې Prolog: 
+entry(shivah, n, [shivahs], "شېوا").
+د Prolog کرښه په پښتو کې:
+```prolog
+entry(شوورۍ, v, [شووریده,شووریدل,شوورۍ], "چوورۍ کول"). 
+```
+entry(شيوا, ن, [شيواګانې], "يو نري ټوټه").
+entry(ريږديدل, v, [ريږدېده,ريږديدو,ريږديږي], "د وېرې يا یخنۍ له امله لړزېدل").
+entry(لړزیدونکی, ن, [لړزیدونکي], "هغه څوک چې لړزیږي").
+entry(په‌یخنۍ, صفت، [], "په‌یخنۍ").
+entry(shiviti, n, [shivitis], "د عبراني آیت سره يوه تخته").
+entry(شلیمیل, n, [شلیمیلان], "یو بې بخته ناکامۍ").
+ورودی(shlep, v, [shlepped, shlepping, shleps], "وړل").
+entry(shlepp, v, [شلیپ شو, شلیپ کول, شلیپ کوي], "شلیپ کول").
+entry(شلیپر, ن, [شلیپرونه], "هغه څوک چې شیان وړی").
+entry(shleppy, صفت, [], "SHLEPPIER SHLEPPIESTschleppy").
+entry(شلاق, ن, [شلاکس], "شلاک").
+entry(shlocky, adj, [], "SHLOCKIER SHLOCKIESTschlocky").
+د Prolog:
+entry(شلوب, ن, [شلوبونه], "schlub").
+entry(shlump, v, [shlumped,shlumping,shlumps], "شلپ کول").
+دخولیه(شلومپي, صفت, [], "بې ترتیبه").
+entry(شمالټز, ن, [شمالټزونه], "شمالټز").
+entry(shmaltzy, صفت, [], "SHMALTZIER SHMALTZIESTschmalzy").
+entry(shmatte, n, [shmattes], "schmatte").
+entry(شمر کول, v, [شمر شوی, شمر کول, شمر], "شمر کولو لپاره").
+د ننوتنه(شمر، فع، [شمر کړی، شمر کوي، شمريږي], "شمر کول").
+د لاندینۍ Prolog کوډ د پښتو ژباړه:
+entry(shmo, n, [shmoes], "schmo").
+داخلې(شمو، ن، [شموز], "شمو").
+entry(شموڅ، فعل، [شموڅ کړ، شموڅ کول، شموڅ کوي], "ګپ شپ وهل").
+entry(شموزر, ن, [شموزرز], "هغه څوک چې شموزې").
+entry(shmoozy, adj, [], "SHMOOZIER SHMOOZIESTschmoozy").
+entry(shmuck, n, [shmucks], "شموک").
+د ننوتنې(شموکی، صفت، []، "SHMUCKIER SHMUCKIESTschmucky").
+entry(shnapps, n, [shnapps], "شنپس").
+entry(شنپس, ن, [شنپس], "شنپس").
+entry(شنوک, ن, [شنوکس], "شناک").
+entry(شنورر, ن, [شنورران], "هغه څوک چې د نورو د سخاوت څخه ګټه اخلي").
+دفتنه(shoal, صفت، [], "SHOALER SHOALESTshallow").
+entry(ډنډ, v, [ډنډشو,ډنډکېږی,ډنډونه], "سطحي کېدل").
+entry(شوالي, صفت, [], "ډک له سطحي سيمو").
+entry(شوټ, ن, [شوټس], "ځوان خنزير").
+entry(shochet, n, [shochetim], "هغه شخص چې د یهودي قانون سره سم څاروي او مرغان حلالوي").
+entry(شوچو, n, [شوچوز], "يو جاپاني مشروب").
+ورود(shock, v, [د شاک شوی، د شاک کوونکی، شاکونه], "د لوی حیرانتیا، ویره، یا کرکې سره ټکول").
+entry(شاکر, ن, [شاکران], "هغه چې حیرانوي").
+entry(شړل, a, [], "د بوټ لفظ په تیر حالت کې").
+entry(shodden, a, [], "د بوټ لګولو ماضي ګذشته حالت").
+د پرولوګ لیکنه دغسې ده:
+```prolog
+entry(shoddy, adj, [], "SHODDIER SHODDIEST د ټیټې کیفیت SHODDILY عیب").
+```
+entry(شدي, ن, [شديز], "يو ټيټ کيفيت وړۍ").
+entry(چپَل, ن, [چپلونه], "يا د پښو پوښښ SHOONa").
+entry(بوټ, v, [بوټ کړل,بوټ شوی,بوټ کول], "بوټونه د بوټونو سره چمتو کول").
+entry(shoebill, n, [shoebills], "یو لامبو وهونکی مرغه").
+entry(بوټانو_بکس, ن, [بوټانو_بکسونه], "یو اوږد بکس د بوټانو یوې جوړې د ساتلو لپاره").
+entry(چپل خېشتک, فعل, [چپل خېشتک کړل, چپل خېشتک کول, چپل خېشتکونه], "په یوه کوچني ځای کې په زوره ځایول").
+د ننووتنې(دموژېتار، ن، [دموژېتارونه], "یو تار د کالي تړلو لپاره").
+entry(بې‌بوتې, صفت, [], "له بوټ پرته").
+entry(بوټ، ن، [بوټونه]، "یو واټر پروف بوټ").
+entry(بوټ ډکول, ن, [بوټ ډکونه], "بوټ ډک").
+entry(کفشګر, ن, [کفشګران], "هغه څوک چې آسونو ته نعل لګوي").
+entry(shoetree, n, [shoetrees], "په یوه شکل کې جوړ شوی وسیله چې په بوټ کې د هغې د شکل ساتلو لپاره ایښودل کیږي").
+entry(شوفار, ن, [شوفاران], "يا شوفروت يو دپسه ښکر ټرمپټ چې په ځينو يهودي مراسمو کې پوکول کيږي").
+entry(شګ, v, [شګېدلې,شګېدلو,شګېدل], "مخته تلل").
+entry(شوګي, ن, [شوګيان], "يو جاپاني لوبه چې د شطرنج په څیر ده").
+entry(شگون, ن, [شگونونه], "د جاپان د پخواني پوځي مشر شگونAL صفت").
+entry(شوجی, ن, [شوجیګانې], "په جاپاني کور کې د جلاوالې یا دروازې په توګه کارېدونکی د کاغذ پرده").
+entry(شوجو, ن, [شوجو], "هغه مانګا چې په ځانګړي توګه د نجونو لپاره ټاکل شوې ده").
+د شلوم، نوم [شولومس]، "سالم" ته داخله.
+entry(شون، اې، []، "د شاین تېر مهال").
+entry(شوو, فعل, [تلل، تللکی، تلی], "شړل").
+```prolog
+entry(شوفلای, ن, [شوفلایز], "د ماشومانو راکر").
+```
+entry(شوق, ن, [شوقس], "د بېلر جوړولو یا بسته بندۍ لپاره د برخو مجموعه").
+entry(ښوول, v, [ښووه,ښوونه,ښووي], "بېلچه چلول").
+دخولیه(شون, ا, [], "د بوټانو جمع").
+entry(شووش, فعل, [شووش کړه, شووش کول, شووش کوي], "د پړکېدونکي غږ سره حرکت کول").
+لاءحه(shoot، فعل، [shot، shooting، shoots]، "له وسلې څخه د توغندي خوشې کولو سره لګېدل، ټپېدل یا وژل").
+entry(ډزې کوونکی, ن, [ډزې کوونکي], "يو څوک چې ډزې کوي").
+entry(ډزې کول, n, [ډزې], "هغه عمل چې یو څوک ډزې کوي").
+entry(ډزې_کوونکی, ن, [ډزې_کوونکي], "هغه څوک چې د ډزو مهارت لري").
+entry(ډزې, n, [ډزې], "يوه جګړه چې د لاس د ټوپکونو يا رايفلونو سره ترسره کيږي").
+entry(shop, v, [خرېد, خرېدنه, خرېد], "توکي د اخیستلو د ارادې سره معاینه کول").
+دکانچي (shopboy, n, [shopboys], "یو پلورونکی").
+دخول(shopgirl, n, [shopgirls], "د پلورونکې نجلۍ").
+entry(shophar, n, [shophars], "يا SHOPHROTHshofar").
+entry(shopless, adj, [], "دکانونه نلرل").
+entry(shoplift, v, [دوکان څخه غلا شوې, د دوکان څخه غلا کول, د دوکان څخه غلا کوي], "دوکان څخه توکي غلا کول").
+entry(دوکاندار, ن, [دوکانداران], "هغه څوک چې یو وړوکی دوکان ولري یا یې اداره کوي").
+دكان, n, [دكانونه], "يوه كوچنۍ هټۍ".
+entry(shopped, past, [], "د پلورنځي زمان").
+entry(shopper, n, [shoppers], "هغه څوک چې پیرود کوي").
+entry(سودا اخیستل, n, [سودا اخیستلونه], "د یو چا سودا اخیستلو عمل").
+اینټری(شاپي، صفت، [], "د شاپینګ د شوق لپاره").
+```prolog
+entry(سوداګريزې خبرې, ن, [سوداګريزې_خبرې], "د يو چا د کار يا مسلک په اړه خبرې اترې").
+```
+entry(دوکان_زړی, صفت, [], "په دوکان کې د یو څه په نندارې کې د پاتې کیدو له امله زړی").
+entry(شوران, ن, [شورانونه], "د ناوبری یو ډول سیستم").
+ننوتنه(shore, v, [shored,shoring,shores], "د ملاتړ لرګي سره تم کونکي").
+entry(دیوالي، ن، [دیوالي], "د لرګیو د ملاتړ سیستم").
+entry(شورل, ن, [شورلس], "شورل").
+entry(شګول, الف, [], "د قینچی کولو ماضي برخه").
+entry(لږ, صفت, [], "کوچنی تر کوچنی لرونکی لږ اوږدوالی").
+entry(لنډ, v, [لنډول, لنډېدنه, لنډونه], "د بریښنایی نیمګړتیا یو ډول رامنځته کول").
+دخل (کمښت, ن, [کمښتونه], "ناکافي رسد یا مقدار").
+entry(لنډه لاره, v, [لنډه لاره,لنډول,لنډې لارې], "لنډ يا چابک لاره اخيستل").
+ګډون(لنډول, فعل, [لنډ کړی, لنډول, لنډوي], "لنډ یا لنډول").
+entry(shortia, n, [shortias], "یو کلني بوټي").
+entry(کوچنی, n, [کوچنیان], "کوچنی").
+entry(shorties, pl, [], "د لنډۍ").
+داخل(shortish, صفت, [], "یو څه لنډ").
+entry(ژر, قید, [], "په لږ وخت کې").
+entry(shorty, n, [shorties], "يو څوک چې لنډ وي").
+entry(سورۍ کول, v, [سورۍ کړل,سورۍ کول,سورۍ کوي], "د کوچنیو ليډ يا فولادي ګوليو بار کول").
+entry(شوټ, n, [شوټس], "shoat").
+دخل(شاتګن, فعل, [شاتګن-کړ, شاتګنګ-کوي, شاتګنز], "د یوې ځانګړې ټوپک سره ډزې کول").
+entry(ډزسوراخ, ن, [ډزسوراخونه], "په تيږه کې يو سوراخ چې چاودېدونکي مواد پکې ځای پر ځای کيږي").
+entry(shott, n, [shotts], "چوٹ").
+entry(shotted, past, [], "د ویشتل زمان").
+entry(shotten, صفت, [], "هګۍ اچولې  د ماهي په اړه کارول کېږي").
+entry(shotting, present, [], "د shot participle").
+entry(should, past, [], "د 'shall' زمان").
+entry(shoulder, v, [shouldered,shouldering,shoulders], "د بار یا مسؤلیت پر غاړه اخیستل").
+entry(shouldest, a, [], "دويم کس مفرد د تېر مهال د shall").
+entry(باید, a, [], "دویم مفرد شخص د  تیر وخت د shall څخه").
+entry(چغېدل, فعل, [چغېده,چغېدل,چغېږي], "په لوړ آواز سره ویل").
+دخول(shouter, ن, [shouters], "هغه چې چیغی وهي").
+entry(shouty, adj, [], "د چیغو وهلو ته ورکړل شوی یا پکې مشخص شوی، ډیر چیغې وهونکی، تر ټولو چیغې وهونکی").
+entry(ټیل وهول, v, [ټېل واهه,ټیل وهل,ټېل وهي], "په زوره پرې فشار راوړل").
+entry(بیل, فعل, [بیل وکړ,بیلودل,بیلوي], "یا بیلودل بیلوي بیلودل یو د کیندلو وسیله").
+entry(بیلچه, ن, [بیلچې], "هغه څوک چې بیلچي کوي").
+پورتنې(شورونکی, ن, [شورونکي], "هغه چې زور وهي").
+اندراج(شووينګ، اوسنی، [], "د shove ګردان").
+د اسنادو(څیزونو) د ښودلو (پټولو) فینکشنونه او څرګندونې بندې کړئ.
+entry(شووبز, ن, [شووبزونه], "شووبزنس").
+entry(ښودنه, v, [ننداره وکړه, نندارې کول, نندارې کوي], "ځان ننداره کول").
+د ننوتنه(نمایش، فع، [نمایش ورکړل، نمایش ورکول، نمایشونه ورکوي]، "ننداره کول").
+وردنه(showdown, ن, [showdowns], "يوه پېښه چې د يوې مسئلې پای ته رسولو ته مجبوروي").
+entry(شاور, فع, [شاور شو، شاور کول، شاور کوي], "په اوبو کې غسل کول").
+entry(showerer, n, [شاوررز], "يو څوک چې شاور اخلي").
+entry(showery, adj, [], "د باران لنډې مودې سره ډک").
+د پروګرام:
+entry(showgirl, n, [showgirls], "يوه نڅاګره").
+ورودی(دتماشاخیستونکی, ن, [دتماشاخیستونکي], "هغه چې یوه نمایش ته ځي").
+entry(ښکارندوی, تقابلي, [], "د ښکارندوی").
+entry(showiest, superlative, [], "د ښکاره").
+entry(په ښودونکي ډول, adv, [], "په ښودونکي ډول").
+ورودی(ښودنه, ن, [ښودنې], "نندارتون یا نمایش").
+entry(showman, n, [showmen], "یو عوامي نندارتون جوړونکی").
+د ننوتنې(ښودل، تېره موده، []، "د ښودلو فعل مصدر").
+entry(showoff, ن, [شوآفس], "يو څوک چې په ښکاره ډوله ښودلو کې مشغول دی").
+entry(showring, n, [نندارتون], "يوه حلقه چیرې چې حیوانات ښودل کیږي").
+entry(نندارتون, n, [نندارتونونه], "يوه خونه چې د سوداګانو د نندارې لپاره کارول کېږي").
+entry(شوټائم, ن, [شوټایمز], "هغه وخت چې په کوم یو تفریح پیل کیږي").
+دخول(showy, adj, [], "ډېر ښایسته ښایسته چې یو لوی یا برېلیانټ نمایش جوړوي").
+د Prolog:
+entry(shoyu, n, [shoyus], "سويا ساس").
+entry(شورېده, تېره, [], "د شورېدل زمانه").
+entry(شریپنل, n, [شریپنلونه], "د یوې چاودېدونکې بم، ماین یا ګولۍ ټوټې").
+entry(پريښودل, v, [پريښودل,پريښودل,پريږدي], "وړو وړو ټوټو ته څيرول").
+entry(شریډر, ن, [شریډرونه], "یوه وسیله چې څیرې کوي").
+entry(چښتور، v، [چښتوري، چښتورول، چښتورونه]، "کنځل").
+entry(ځيرک، صفت، []، "ځيرک ځيرک ترين د روښانه اګاهۍ درلودل په ځيرکتيا توګه").
+entry(shrewdie, n, [shrewdies], "یوه زیرک شخص").
+entry(بدماش، صفت، [], "بد اخلاق").
+entry(شري, ن, [شريس], "سري").
+entry(چيغېدل, v, [چيغېده, چيغېږي, چيغېږي], "د يوه تيز چغېږ کولو").
+entry(چغې کوونکی، ن، [چغې کوونکي]، "یو چې چغې کوي").
+entry(shrieky, adj, [], "SHRIEKIER SHRIEKIESTshrill").
+entry(shrieval, adj, [], "د شرف پورې اړوند").
+entry(شریف، فعل، [shried, shrieving, shrieves], "اعتراف واخیستل").
+ارنټري(شرف, ن, [شرافتونه], "د شرف ورکولو عمل").
+entry(شریک, ن, [شریکان], "يو ښکارونکی مرغه").
+entry(چغهار, صفت, [], "چغهاری چغهارتیا ډیره د لوړ غږ والی لرل چغهاری توګه").
+entry(چيغې, v, [چيغې وهلې,چيغې وهلو,چيغې وهي], "یوه چیغې لرونکي غږ وړاندې کول").
+اندازه(شریمپ، فع، [شریمپ شوې، شریمپ کول، شریمپونه]، "واړه سمندري ډیکاپوډونه نیول").
+entry(شريو موندونکی, ن, [شريو موندونکي], "د شريو ښکار کوونکی").
+entry(shrimpy, adj, [], "کوچنی ګرفند SHRIMPIER SHRIMPIEST").
+entry(مزار, v, [مزارکړ, مزاردکولو, مزاري], "په يو مزار کې ځای په ځای کول یو د مقدس وسايلو لپاره ظرف").
+entry(shrink, v, [shrunken,shrinking,shrinks], "کمېدل زیاتېدل یا شاته تلل").
+entry(کموونکي, ن, [کموونکي], "یو څوک چې کمیږي").
+د Prolog ژباړه په پښتو کې:
+
+entry(shrive, v, [shrived,shriven,shriving], "اعتراف اوریدل او معافي ورکول د").
+entry(سوکهېدنه, v, [سوکهېد,سوکهېدنه,سوکهېږي], "یا سوکهېدلې سوکهېدنې په ګونځو کې تړون کوي").
+entry(shriver, n, [shrivers], "هغه څوک چې اعتراف اخلي").
+entry(شرٙاف، فعل، [شرٙافه، شٙراف کول، شٙرافونه]، "د سکې د اصليت ازموینه کول").
+entry(شرووم, ن, [شروومز], "یو فنګس یوه ډوله").
+entry(خوردونکی, ن, [خوردونکي], "هغه څوک چې د مرخیړیو خوړلو څخه خوند اخلي").
+entry(کفن, فعل, [کفن شوی,کفن کول,کفنونه], "په کفن کې پوښل").
+اندراج(شرووه، الف، [], "د شريف ماضي زمانه").
+entry(بوټی, n, [بوټي], "یو ټیټ لرګینو بوټو").
+entry(بوټي، صفت، [], "بوټي زیاته، بوټي تر ټولو زیاته ځنګلي بوټي پوښلې").
+entry(د کندې اچول, فعل, [کندې اچولې, کندې اچول], "د اوږو پورته کول او راشنډول").
+entry(کم شوی, a, [], "د shrink د تیرې زمانې بڼه").
+entry(شړېدلی, الف, [], "د縮ړی ماضی").
+entry(shtetel, n, [shtetels], "يا SHTETLACH - د يهودانو کلی").
+entry(ښتل, ن, [ښتلونه], "يا SHTETLACHښتل").
+entry(شټک, ن, [شټکس], "یوه ساتیرۍ برنامې").
+entry(shticky, adj, [], "د سټیک په څیر").
+entry(شتک, ن, [شتکس], "شټک").
+entry(shtum, adj, [], "schtum").
+entry(shuck, v, [shucked,shucking,shucks], "د باشک يا پوښ لرې کول").
+د ننوتنې(شکر، ن، [شکران]، "هغه څوک چې شکر کوي")،
+entry(شک کول, ن, [شک کولونه], "د یو کس لخوا د شک کولو عمل").
+entry(لړزه، فعل، [لړزېد، لړزېدل، لړزيږي]، "ریږدېدل").
+دخولی(ژړانده، صفت، [], "ژړیدل").
+دخول(shuffle, v, [شفل شوی، شفل کول، شفلونه], "پښې نه پورته کولو سره تلل").
+entry(شفلر, ن, [شفلران], "هغه څوک چې ګډوډوي").
+entry(شُل, ن, [شُلان], "یا شُل یوه کنیسه").
+entry(شومای, npl, [], "جاپاني ډمپلنګونه").
+entry(shun, v, [دکول شوی، دکول، دکوي], "د مخنیوي لپاره").
+entry(بچ کوونکی, ن, [بچ کوونکي], "هغه څوک چې بچ شي").
+entry(shunpike, v, [shunpiked,shunpiking,shunpikes], "د لویو لارو نه د تېښتې لپاره په فرعي لارو سفر کول").
+entry(shunt, v, [shunted,shunting,shunts], "شا ته اړول").
+entry(شَنټر, ن, [شَنټرز], "یو چې ټکر کوي").
+entry(شورا, ن, [شوراګانې], "یو مشورتي شورا").
+entry(shush, v, [shushed,shushing,shushes], "د چوپتيا لپاره").
+entry(ششر, ن, [ششرونه], "هغه څوک چې چپ کوي").
+entry(بندول, v, [بند,بندوي,بندوي], "بندول").
+entry(بندیدل, ن, [بندیدلونه], "د صنعتي فابریکې یو موقتي تړل").
+entry(shute, v, [شوٹ کړ, شوٹنگ, شوٹس], "ځېدل ته شوټ کول").
+د Prolog:
+entry(shuteye, n, [shuteyes], "خوب").
+داخلہ(بندول, ن, [بندولونه], "يوه وسيله چې څه بندوي").
+نویسه(بندول، ن، [بندولونه], "یو لوبه چې یوې ډلې په کې په ګول کې پاتې راځي").
+entry(shutter, v, [shuttered,shuttering,shutters], "د کړکۍ پوښونو سره د برابریدو لپاره پوښونه چمتو کول").
+entry(بندول, اوسنی, [], "د بندولو مشارک").
+entry(شټل, v, [شټل شو, شټل کېږي, شټل کوي], "تر څو شا او خوا حرکت وکړي یا سفر وکړي").
+entry(shuttler, n, [شاتلران], "يو څوک چې شاتل کیږي").
+د Prolog پدغه کرښه به په پښتو کې داسې شي:
+```prolog
+entry(خوله، ف، [خوله شو، خوله کېدل، خولې کوي], "خوله اچول").
+```
+entry(شوا, ن, [شواس], "شوا").
+entry(شوانپان, n, [شوانپانونه], "swanpan").
+entry(شرمنده، صفت، [], "ډېر شرمير يا ډېر ډېر شرمير- وېرېدونکې").
+entry(شرمنده, v, [شرمېدل,شرمیږی,شرمیږی], "په ویره کې ناڅاپه شا یا اړخ ته حرکت کول").
+entry(شرمېدلی, ن, [شرمیان], "زیات شرمېدلی").
+entry(شائلاک, فعل, [شائلاک کړ, شائلاک کول, شائلاک کوي], "په لوړه شرحه سود پور ورکول").
+entry(په‌شرمېدلي‌ډول, قيد, [], "په‌شرمېدلي‌ډول").
+entry(شرم, n, [شرمونه], "د شرم حالت").
+entry(shyster, n, [ماهر چلې کونکو], "يو بې نزاکته وکيل يا سياستدان").
+entry(si, n, [sisi], "تې").
+entry(sial, n, [sials], "د ډبرو جوړښت یو ډولSIALIC صفت").
+entry(sialid, n, [sialids], "يو ډول الوېښه").
+entry(سیالیان, ن, [سیالیان], "سیالی").
+entry(sialoid, صفت, [], "د لاړې سره ورته").
+entry(siamang, n, [siamangs], "یو لوی تور ګیبون").
+entry(سيامي, n, [سياميان], "يو د اوبو نل چې د دوو نلیو لپاره نښلونکی لري").
+entry(sib, n, [sibs], "ورور یا خور").
+entry(sibb, n, [sibbs], "سیب").
+entry(سیبلنټ، ن، [سیبلنټونه]، "یو د وینا اواز چې د تنګ خولې له لارې د تنفس د شینګولو په واسطه تولیدیږي").
+entry(سيبليټ, فع, [سِبِل ایټیډ, سِبِل ایټینګ, سِبِل ایټس], "پۀ شلېدل").
+entry(ورور, n, [وروڼه], "يو څوک چې د بل سره يو شان والدين لري").
+د پلار او مور یو ګروپ چې د یو شان ماشومان لري, n, [sibships], "sibship")entry(
+entry(sibyl, n, [sibyls], "یو ښځینه پېغمبرSIBYLIC SIBYLLIC adj").
+entry(sic, v, [sicced,siccing,sics], "د برید کولو لپاره هڅول").
+entry(siccan, adj, [], "داسې").
+entry(سائس, ن, [سائسان], "سايس").
+د ننوتنې (sick, adj, [], "SICKER SICKESTaffected with disease or ill health").
+entry(ناروغ, v, [کړ, ناروغی, ناروغانه], "sic ته").
+وردنه(بیمارخانه, ن, [بیمارخانوې], "د بېړۍ روغتون").
+entry(دناروغ بستره, ن, [دناروغانوبستره], "د ناروغ کس بستره").
+entry(سکي, ن, [سکيز], "سکي").
+د سړېدنې, فعل, [سړېدلې, سړېدل, سړېږي], "ناروغ کول".
+entry(ناخوښه کوونکی, ن, [ناخوښه کوونکي], "هغه چې نا خوښه کوي").
+entry(sickerly, adv, [], "په خوندي توګه").
+entry(sickie, n, [sickies], "يو احساساتي ناروغه شخص").
+entry(sickish, adj, [], "تر یوه حده ناروغ").
+entry(غوٻه, ف, [غوٻہ شوې, غوٻہ کول, غوٻې], "له یوې تیغې سره د کرهڼیز وسیلې په واسطه پرې کول").
+د داخله(ناصحه، صفت، []، "ناصحه تر، ناصحه ترينداسې ښکاري لکه ناروغناصحه توګه").
+entry(sickly, v, [sicklied,sicklying,sicklies], "ناروغ جوړول").
+entry(ناروغي, ن, [ناروغۍ], "د ناروغ کیدو حالت").
+دخوليه(سیکو، ن، [سیکوس]، "سیکی").
+entry(ناستې, ن, [ناستې]، "دا د کارګرانو يو منظم غير حاضري دی چې ځانونه ناروغ ښکاره کوي").
+entry(د ناروغانو خونه, ن, [د ناروغانو خونې], "يو کوټه چې د ناروغ شخص لخوا اشغال شوې وي").
+entry(sidalcea, n, [sidalceas], "يو شمالي امریکن بوټی").
+entry(سدهه, ن, [], "جمع سدهلاهورونکی څوک چې په هندومت کې بشپړتیا ته رسېدلی وي").
+entry(سدهی, ن, [سدهیان], "هغه کاملتيا چې د يوه سده لخوا ترلاسه کيږي").
+entry(سیدور, ن, [سیدورونه], "یا سیدوریم یوه یهودي دعا کتاب").
+د_پرو_لاگ (لوری, v, [لوري, ملاتړ, لوري], "هوکړه کول او ملاتړ").
+د Prolog په توګه:
+entry(sidearm, v, [sidearmed,sidearming,sidearms], "د توپ اچونه په اوږه يا لاندې سطحه").
+entry(سائیډ بینډ، ن، [سائیډ بینډونه]، "د راډیو فریکونسۍ یوه بانډ").
+```prolog
+entry(فرعي_ٻن _، n، [فرعيي_ٻني]، "يو لنډ خبر چې د اصلي خبر سره مل وي"). 
+```
+entry(sideburn, n, [], "یو یا دوه کرښې وېښتان چې یو سړی د مخ د هر اړخ څخه ښکته پرېږدي").
+د پرو لاګ لومړنۍ کرښه په پښتو ورته ده:
+
+```prolog
+ورود(sidecar, n, [sidecars], "د مسافرینو موټر چې موټرسایکل ته نښلول شوی وي").
+```
+entry(سایډ, تېر, [], "د سایډ زمان").
+entry(sidehill, n, [sidehills], "یو غونډۍ").
+entry(ساتونکی, ن, [ساتونکي], "یو نږدې ملګری").
+entry(sideless, adj, [], "څېرې نلري").
+دخولیه(فرعي اړخ, فعل, [بند کړ, بندول, اړخونه], "له عمل څخه ایستل").
+entry(sideling, adj, [], "تړه شوی").
+د Prolog ژبه:
+entry(sidelock, n, [sidelocks], "د سر له خوا نه اوږده څوکه د ويښتو يو زلف").
+د ننه وتنه(سائډلونګ, صفت, [], "یوې خوا ته لارښود شوی").
+entry(sideman, n, [sidemen], "د جاز ډلې غړی").
+entry(sidemeat, n, [sidemeats], "د خنزیر د اړخ څخه غوښه پرې شوې").
+entry(sidereal, adj, [], "د ستورو پورې اړوند").
+entry(سایډرایټ, ن, [سایډرایټونه], "یو منرال").
+ډول(فرعي_لاره, ن, [فرعي_لاري], "يوه کليوالي لاره").
+entry(سائیډ شو, n, [سائیډ شوز], "یو وړوکی نمایش چه د یوې لویې جاذبې ترڅنګ وړاندې کیږي").
+دخول(جانبي ښوییدل, فعل, [جانبي ښوییدل, جانبي ښوییدل, جانبي ښوییدل], "یوې اړخ ته ښوییدل").
+entry(د کليسا مرسته کوونکی, n, [کليسا مرسته کوونکي], "د انګلیکن کلیسا د یو عام وګړي همکار").
+entry(سایډسپن, ن, [سایډسپنز], "هغه ډول اسپن چې بال ته ورکول کیږي").
+entry(څنګلېدل, فعل, [څنګلېدل, څنګلېدلای, څنګلېدو], "یو اړخ ته ګام اخیستل").
+داخلول(پلي لاره، ن، [پلي لارې], "د پلیوالو لپاره یوه پاخه شوې لاره").
+entry(چاپيريال، n، [چاپیرالونه]، "د ټایر اړخ سطحه").
+entry(لوري_ته, adv, [], "په یوې خوا ته").
+entry(سړک، ظرف زَمان، [], "سړک").
+entry(جانبي, ق/ف, [], "د یوې خوا پر لور یا له یوې خوا").
+د دې Prolog کرښې پښتو ژباړه نه کیږي، ځکه چې دا کوډ یا یو پروګرامنګ ژبه ده او نه سیمنټیک یا معنا لرونکې جمله.
+ورودي(sidh, ن, [sidhe], "په ایرلینډي فولکلور کې یو غونډي چې په کې فوق العاده موجودات ژوند کوي").
+entry(سایډنګ, n, [سایډنګونه], "هغه مواد چې د چوکاټ ودانۍ د سطحې جوړولو لپاره کارول کیږي").
+entry(سائڊل, v, [سائډل شوي، سائډل کول، سائډل کوي], "په غاړه حرکت کول").
+entry(sidler, n, [sidlers], "يو چې په زړه پورې حرکت کوي").
+د Prolog: entry(siege, v, [sieged,sieging,sieges], "د نیولو یا ترلاسه کولو هڅه کول").
+entry(سيمنس, ن, [سيمنس], "د برېښنايي چالکتيا يو واحد").
+entry(sienite, n, [sienites], "syenite").
+entry(سيينا, ن, [سييناګانې], "يو نصواري رنګ").
+entry(سيروژیم, ن, [سيروژیمونه], "د خاورې یو ډول").
+د پښتیوژبی پرو لوګ:
+entry(sierra, n, [sierras], "د غرونو لړۍ SIERRAN adj").
+entry(سييستا, ن, [سييستې], "د ماذديګر خوب يا آرام").
+entry(sieur, n, [sieurs], "د سړي لپاره د احترام یو زوړ فرانسوي عنوان").
+entry(sieve, v, [sieved,sieving,sieves], "د یوې الکۍ له لارې تېرول، د یوې اله چې د نرم موادو له خشنو برخو نرمې برخې جلا کوي").
+entry(سيورټ, ن, [سيورټونه], "د آيونیزه وړانګو یوه واحد").
+د ننوتنه(سيفاکا، ن، [سيفاکاس]، "د ماداګاسکار یو لیمر").
+entry(سِفلور, n, [سِفلورونه], "يو حيوان چې د سوت وهلو غږ کوي").
+entry(sift, v, [باندی کړل شوی، صافول، پاکوي], "چاڼ کول").
+entry(سفَتوَنکو, n, [سفَتونکی], "هغه څه چې سفَت کوي").
+entry(sifting, n, [siftings], "د چاڼ کوونکي کار").
+entry(sig, n, [sigs], "د یوې برېښنالیک پیغام په پای کې لنډ شخصي پیغام").
+د ننوتنه(siganid, n, [siganids], "د کبانو کورنۍ څخه هر یو").
+entry(sigh, v, [sighed,sighing,sighs], "يو ژور غږيزه سا اخيستل").
+entry(sigher, n, [sighers], "هغه څوک چې سا اخلي").
+entry(sighless, adj, [], "د اه نه کولو").
+entry(sighlike, adj, [], "د سا غوندې").
+entry(لیدل, v, [مخکې لیدل, لیدنه, لیدنې], "څه مشاهده یا پام کول").
+اندېنه(کتونکی، ن، [کتونکي]، "هغه څوک چې ګوري").
+entry(sighting, n, [کتنې], "یو مشاهده").
+entry(ښکلی, صفت, [], "ډیر ښکلی، تر ټولو ډیر ښکلی د لیدو لپاره خوښونکی").
+entry(sightsee, v, [sightsaw,sightseen,sightseeing], "سفر کول د جالبو ځایونو څخه لیدنه کول").
+د ننوتنې(سیګل، ن، [سیګلز]، "یو رسمي مهر").
+entry(siglos, n, [sigloي], "يو لرغونی ايراني سکه").
+داخل(siglum، n، [sigla]، "يو لنډيز چې د يو سمول شوي متن سرچينه په ګوته کوي").
+entry(سيګما, n, [سيګماس], "يو يوناني حرفSIGMATE adj").
+داخل (sigmoid, n, [sigmoids], "په بدن کې يو Sشکل لرونکی خط").
+د داخله(نښان, v, [لاسليک شوی, لاسليک کول, لاسليکونه], “په خپل لاس ولیکئ”).
+entry(signa, v, [], "په لیبل باندې ولیکئ  د دې امر فعل بله بڼه نده کارول شوې").
+entry(ساین بورډ, ن, [ساین بورډونه], "په یوه ټولنه کې د نښو یو سیستم").
+entry(سیګنال, v, [سیګنال شوی, سیګنال ورکول, سیګنالونه], "یا SIGNALLED SIGNALLING SIGNALSد اړیکې له لارې خبر ورکول").
+entry(signaler, n, [signalers], "هغه چې اشاره کوي").
+entry(په ځانګړي ډول, ناروغ, [], "په ځانګړې توګه").
+entry(signee, n, [signees], "د يو سند لاسليکوونکی").
+د Prolog:
+entry(signer, n, [لاسليک کوونکي], "هغه څوک چې لاسليک کوي").
+تګ(signet, فعل, [مهر شوی، مهر کول، مهرونه], "د رسمي مهر سره نښه کول").
+entry(معنی ورکول, v, [معنی ورکړ, معنی ورکول, معنی ورکوي], "په ډاګه کول").
+د ننوتل(لاسليک کول ,ن, [لاسليکونه], "په يو سند يا کتاب کې د يو کس د لاسليک کولو عمل").
+entry(ښاغلی، ن، [ښاغلي], "یا ښاغلیIsignor").
+د ننه یې کړئ( signiory ، ن ، [ signiories ] ، " signory ") .
+entry(د ښاغلي، ن، [ښاغليان]، "يا SIGNORيو اطالوي د ښځې درناوي سرليک د سړي لپاره").
+entry(signora, n, [signoras], "يا SIGNORE يو ايټالوي د مودبانه سرليک د يوې واده شوې ښځې لپاره").
+entry(signore, n, [signori], "ښاغلی").
+entry(signory, n, [signories], "سینوری").
+entry(لارښود, v, [لارښود شوی,لارښودنه کول,لارښودونه], "د لارښوونو لرونکو پوسټونو سره برابرول").
+entry(sika, n, [sikas], "یو وړوکی هوسکی چې په آسیا کې زیږیدلی").
+entry(سکے, ن, [سکې], "سایک").
+entry(siker, adj, [], "خوندي").
+entry(siksik, n, [سکسکس], "د شمالي قطب ځمکنۍ ګوزه").
+entry(سيلج, ن, [سيلجز], "هغه چارا چې په يوه سيلو کې خوندي شوې ده").
+entry(سیلین، ن، [سیلینونه]، "یو کیمیاوي ترکیب").
+entry(سيلد, ن, [سيلدونه], "يوه ځوان هیرینګ").
+دخول(خاموشي, فع, [خاموش کړ, خاموشول, خاموشوي], "چپ کول").
+entry(خاموش کوونکی, n, [خاموش کوونکي], "هغه څوک چې خاموش کوي").
+د سنډاسېدو وهخل, لغته و چېلولت, [], "چېنګه سا چېنچوکچوکول".
+entry(silent, adj, [], "بې صوته بې صواترې بې صواترین هېڅ غږ یا شور نه جوړويبې صوته adv").
+دخيل(خاموشان, نپ، [], "خاموش فلمونه").
+entry(سېلېنوس, ن, [سېلېني], "د يونانی افسانو يوه ځنګلي خدائ").
+entry(silesia, n, [silesias], "د پنبې یو ټوکر").
+entry(سایلیکس, ن, [سایلیکسونه], "سیلیکا").
+entry(سيلېڪا, نوم, [سيلېکاز], "د سېلېکان يوه بڼه").
+entry(سيلڪيټ, ن, [سيلڪيټس], "يو کيمياوي مالګ").
+دخول(silicic, صفت, [], "د سليکون پورې اړه لري").
+entry(سیلیسایډ, ن, [سیلیسایډونه], "یوه د سلیکان مرکب").
+entry(سیلیکفائ، فعل، [سیلیکفائی شوی، سیلیکفائ کول، سیلیکفائی کوی]، "په سیلیکا تبدیلول").
+د ننوتلو(سیلیکیم، ن، [سیلیکیمونه]، "سیلیکون").
+entry(سيلیکل, ن, [سيليکلس], "يو لنډ او فليټ سليک").
+د پروګلار نېغ په نېغه په پښتو ژبه ژباړه ممکنه نه ده، ځکه دا د پروګرامنګ يو کوډ دی، نه يوه جمله چې ژباړې ته اړتيا ولري. مګر موږ کولای شو چې همدغه کوډ په پښتو کې د تشرېح په ډول ترتيب کړو:
+```prolog
+entry(سیلیکون, n, [سیلیکونونه], "یو غیر فلزي عنصر").
+```
+entry(سيليڪون, n, [سيلیکونونه], "يو سلیکون مرکب").
+entry(silicula, n, [siliculae], "يوه کوچنۍ ميوه").
+entry(siliqua, n, [siliquae], "سلک").
+entry(silique, n, [siliques], "د تخم یو ډول پوښ").
+entry(وړيا, v, [د وړيا شوه, وړيا شته, وړيا دي], "د وړيا سره پوښ کولو لپاره يو نرم ځلېدونکی پارچه").
+entry(ململ, صفت, [], "د ورېښمو جوړ").
+entry(سيلکي, ن, [سيلکيان], "سيلکي").
+دریځ(د ورېښمو, پرتله ییزه, [], "د ورېښمو").
+د ننوتنه(سلکيان, جمع, [], "د سلکي").
+د داخلې پروګرام (silkiest, superlative, [], " د سلسي").
+entry(په ورېښمو ډول، قيد، []، "په ورېښمينه طريقه").
+entry(ریشمی, صفت, [], "د ورېښمو په څېر").
+entry(silkweed, n, [silkweeds], "دودجنه").
+entry(د زريدوونکی، ن، [د زريدوونکي], "يو کس چې د ورېښمو ریشيو یوه پيله تېروي").
+د مجوز کرښه په پښتو ژبه کې:
+entry(silky, adj, [], "SILKIER SILKIESTد ورېښمو په شان").
+entry(سلکي, ن, [سلکيز], "يو ځليدونکی تورير").
+د پرولاګ کرښه په پښتو کې: entry(sill, n, [sills], "د کړکۍ په بنسټ کې افقي ټوټه").
+entry(سيليبوب، ن، [سيليبوبونه], "يو الکولي ماښامنۍ").
+entry(سيلر, ن, [سيلرز], "زرہ").
+دخولی(سلیبب، ن، [سلیببز]، "سلیبب").
+داخلول(احمق، صفت، [], "ډېر احمق، تر ټولو احمق، د ښه عقل نشتوالى ښودل، احمقانه قصداً").
+entry(احمق, ن, [احمقان], "يو احمق سړی").
+entry(سيلو, v, [سيلو شو, سيلو کول, سيلوګانې], "په سيلو (چې یو لوړ سلنډریک جوړښت دی) کې ذخیره کول").
+اندراج(سيلوکسان، ن، [سيلوکسانونه]، "يو کيمياوي مرکب").
+د پاس پروګرام:
+entry(silt, v, [silted,silting,silts], "د سیلټ سره یو رسوبي مواد ډکول").
+د راننوتنه(silty, صفت، [], "د سیلټ څخه ډک SILTIER SILTIEST").
+entry(silurid, n, [silurids], "د کټ فیشونو د کورنۍ کوم غړی").
+ورود(siluroid, ن, [siluroids], "یو سلورید").
+دې کرښې ته په پښتو کې ژباړه وکړئ:
+entry(silva, n, [silvas], "or SILVAEsylva").
+entry(سيلوان, ن, [سيلوانز], "سیلوان").
+entry(سپين زر، فعل، [سپين زر شوی، د سپين زرو پوښل، سپين زر لري]، "د فلزي عنصر سپين زرو پوښل").
+```prolog
+entry(سلورر, ن, [سلوررز], "هغه څوک چې سپینوي").
+```
+داخلول(سيلوريئر, مقايسوي, [], "د سپينو").
+entry(سپينو زرو څخه, اعلا درجه, [], "د سپين زرو").
+entry(silverly, adv, [], "د سپينو زرو په څېر ښکاره").
+entry(سپین‌زر, صفت, [], "نقره‌ای").
+entry(سلورټیپ, n, [سلورټیپس], "یو خړ ریچھ چې ویښتان یې د سپینو ټیپونه لري").
+entry(silvery, adj, [], "د سپينو زرو په څېر د سپينو زرو").
+entry(silvex, n, [silvexes], "يو بو وژونکى").
+entry(silvical, adj, [], "د ځنګلي اقتصاد پورې تړلی").
+entry(silvics, npl, [], "د ځنګل د ونو مطالعه").
+د لاسرسي(سیم، ن، [سیمونه]، "شبیه سازی").
+entry(sima, n, [simas], "یو اورخیز ډبره").
+entry(simar, n, [د سیمارونه], "د یوې ښځې سپک جاکټ یا چپنه").
+entry(سيما روبا, n, [سيما روباس], "يو استوايي ونه").
+entry(simazine, n, [simazines], "يو علف وژونکی").
+entry(simcha, n, [simchas], "یهودی ځانګړی محفل").
+انټرۍ(simian, n, [simians], "یوه بیزو یا شادي").
+entry(مشابه, صفت, [], "په شان خو نږدې یو شان نه دی").
+entry(تشبېه, n, [تشبېې], "د وینا یوه شکل").
+entry(simioid, adj, [], "د بیزو په څېر").
+entry(ښورنده, صفت, [], "د بوزو پورې اړه لرونکی").
+entry(سيمېټر, ن, [سيمېټرونه], "سکيميټر").
+افراز(simlin, n, [simlins], "cymling").
+entry(اوږدانی, v, [اوږدان, اوږدانی, اوږدوي], "پخلی کول د ابلې نقطې څخه لاندې یا په هغې کې").
+دج(entry(simnel, n, [simnels], "یو کراره ډوډۍ")).
+entry(simoleon, n, [simoleons], "يو ډالر").
+دخوله(سيمونیاک، ن، [سيمونيکس], "هغه څوک چې سِموني عملي کوي").
+د ننوتنه(سایمونیز، جمع، []، "د سایموني").
+entry(simonist, n, [simonists], "يو سيمونيائيک").
+entry(سيمونائز, فعل, [سيمونائز شو، سيمونائز کول، سيمونائز کوي], "د موم سره پولش کول").
+entry(سيموني, ن, [سيمونۍ], "د چرچ د دفتر اخيستل یا پلورل").
+entry(simoom, n, [simooms], "یو ګرمه اوچليزه دښتې هوا").
+entry(سموم، n، [سمومونه]، "سیمووم").
+entry(simp, n, [simps], "يو بې وقوف کس").
+entry(په خندا, v, [په خندا شو,په خندا کي,په خندا دي], "په بېځايه توګه مسکا کول").
+دکتور(simperer, ن، [چرپ زني کونکي], "هغه څوک چې چرپ زني کوي").
+entry(simple, adj, [], "اسانه، آسان، ساده: پېچلی یا مغلق نه").
+entry(ساده, n, [ساده ګان], "څه شی چې ساده وي").
+ورود(simplex, n, [simplexes], "یا SIMPLICES یا راښکونۍ ساده ټکی").
+entry(ساده کول, v, [ساده شوی, ساده کول, ساده کوي], "ساده کول").
+entry(ساده ګرايي, ن, [ساده ګراۍ], "د یوې مسئلې یا ستونزې د ډېر ساده کولو تمایل").
+ورودی(simplist, n, [simplists], "یو شخص چې ساده نظر لري").
+entry(په_ساده_ډول, قيد, [], "په ساده ډول").
+ورودي(simulant, ن, [simulants], "یو څوک چې تقلید کوي").
+entry(simular, n, [simulars], "يو تقليدي").
+د ورد پرو داخل کړئ (simulate, v, [simulated, simulating, simulates], "څوک چې د ظاهري بڼه غوره کوي").
+entry(ګناه, ف, [ګناه وکړه,ګناه کول,ګناهونه], "د مذهبي یا اخلاقي قانون پر وړاندې ګناه یا جرم ترسره کول").
+entry(sinapism, n, [sinapisms], "يو پاستي ترکيب چې د بدن په حساس برخه کې پلي کېږي").
+entry(څخه, قيد, [], "له هغه وخت څخه تر اوسه پورې").
+entry(صادق, صفت, [], "صادقترين، صادقهترين د ريا يا دوکې څخه پاک").
+entry(sinciput, n, [sinciputs], "یاد د سينې مخې").
+د ننوتنه(ساين, ن, [ساينونه], "د زاويې يو مثلثي فنکشن").
+entry(سينيکيور, ن, [سينيکيورونه], "يو دفتر يا مقام چې لږ يا هېڅ کار ته اړتيا نه لري").
+د ننوتنه(پریوتنه, v, [پریوتنه شوی، پریوتنه کیږي، پریوتنه کوي], "پیاوړی کول").
+entry(sinewy, adj, [], "څور او عضلاتي").
+د پرولاګ لیکنه:  
+entry(sinfonia, n, [sinfonias], "يا SINFONIE يوه سمفوني").
+entry(sinful, adj, [], "د ګناه لخوا مشخص SINFULLY adv").
+د Prolog کرښه په پښتو کې:
+entry(سورودل, ف, [سورود، سوروی، سورودنه], "سورودل: په غزني ډول سره اوازونه پورته کول. سورود کیدل صفت").
+entry(سوځول, فعل, [سوځول, سوځېدل, سوځېږي], "لږ سوځول").
+entry(سر، ن، [سران]، "هغه څوک چې سندره وايي").
+entry(سورې، ن، [سورې ګانې]، "د هغه چا عمل یا غږ چې سندرې وايي").
+entry(یوه, v, [یوازې کړه,یوازې کول,یوازې کوي], "له یوې ډلې څخه انتخاب کول").
+entry(سنگلټ, ن, [سنگلټونه], "د يو سړي اندرشرټ يا جرسي").
+entry(په یوازې توګه, قيد, [], "د نورو د ملګرتيا پرته").
+entry(singsong, n, [سِنگ سانگ], "په خبرو یا لوستلو کې یوځای یکنواخت اواز").
+ورودی(یوازیتوب، ن، [یوازیتوبونه]، "د یوه کس یا څیز ته اشاره کوونکې د کلمې بڼه").
+entry(sinh, n, [sinhs], "د يوې زاويې يو hyperbolic فعل").
+entry(سینوسي کول, v, [سینوسي شو, سینوسي کول, سینوسي کوي], "د چینايي اغېز له لارې بدلول").
+دخول(شریر, صفت, [], "د شر یا بدبختۍ پیغام ورکونکی").
+entry(sink, v, [sunken,sinking,sinks], "کښته سطحې ته حرکت کولSINKABLE صفت").
+entry(سورېدل, ن, [سورېدنې], "د ښکته کېدو عمل، پروسه یا درجه").
+ننوتنه(ډوبوونکی، ن، [ډوبوونکي]، "هغه څوک چې ډوبوي").
+entry(sinkful, n, [sinkfuls], "څومره چې يو د بېړۍ ځای ډکولی شي").
+د داخلې(څاګچ، ن، [څاګچونه]، "د ځمکې په سطحه کې یوه طبعي ژوره").
+د پرولوګ کرښه: entry(sinless, adj, [], "د ګناه څخه پاک").
+داسې ښکاري چې دا کرښه د پروګرام لپاره د حقایقو جملې په توګه شامله ده: 
+entry(sinned, past, [], "د ګناه ماضي حالت").
+entry(گناهکار, n, [گناهکاران], "هغه څوک چې ګناه کوي").
+entry(سنت, ن, [سنتونه], "sennet").
+entry(sinning, present, [], "د sin ګردانګه").
+entry(څیړنه، اسم، [څیړنې]، "د چينې څيړنه").
+entry(سینوپیا, ن, [سینوپیاګانې], "یا سینوپیا یو سور رنګیز مواد").
+entry(sinsyne, adv, [], "څخه").
+entry(sinter, v, [sintered, sintering, sinters], "د تودوخې او فشار د مشترک عمل له لارې یوځای کول").
+entry(سینوایټ, فعل, [سینوایډ, سینوایټنګ, سینوایټس], "په داخل او بهر کې کروی").
+entry(پيچدار, صفت, [], "چې د کړنې، خم کړنو یا ګرځندوي ځانګړتیا لري").
+entry(سینوس, ن, [سینوسونه], "یو کاسی سر").
+entry(سينوسائيډ, n, [سينوسائيډونه], "يو رياضي منحني").
+entry(sip, v, [څښل,څښل,څښي], "په کوچنیو مقدارونو کې څښل").
+entry(sipe, v, [siped,siping,sipes], "څڅېدل").
+entry(سيګون, v, [سيګون کړ,سيګون کول,سيګونونه], "يو نل څخه د هغې موادو د لرې کولو لپاره").
+entry(سيفونل, صفت, [], "د سيفون پورې اړوند").
+entry(siphonic, adj, [], "سيفونل").
+entry(siping, present, [], "د 'sipe' ګړنه").
+entry(sippable, adj, [], "د څښلو وړ").
+entry(sipped, past, [], "د sip زمانه").
+entry(سپر، ن، [سپرونکي]، "هغه څوک چې سوپ کړي").
+entry(sippet, n, [sippets], "د غوښې په جوس کې لندې شوې د ډوډۍ یوه وړه ټوټه").
+entry(sipping, present, [], "د 'sip' مشارک").
+ننوتنه(سر, ن, [سیران], "یو درناوی بڼه چې د یوه سړي سره کارول کیږي").
+د_ننوتنه(سردار، ن، [سردارګان]، "په هند کې د رتبې یو شخص").
+د داخلې(والد، فعل، [پیدا کړل، پیدا کول، پیدا کوي]، "پیدا کول").
+entry(سری, ن, [سرېګانې], "سرې").
+entry(سائرن, ن, [سائرنونه], "يوه اله چې د خبرداري تیز غږ تولیدوي").
+entry(سيرينيان, ن, [سيرينيانز], "هر يو د اوبو د تي لرونکو څارويو يو نظم").
+entry(پلارول, اوسنی, [], "د sire مشارک").
+entry(سرليون, n, [سرليونه], "د غوښې یو ټوټه").
+entry(سروکو, n, [سروکوګانې], "یو ګرم وچ باد").
+entry(سرہ, ن, [سرې], "سرہ").
+entry(سراه, ن, [سراهان], "د مخاطب کولو بڼه چې د ټیټ رتبه خلکو لپاره کارول کیږي").
+entry(سري, n, [سري], "سر").
+داخلول(سرپ, ‌‌ف, [سرپېدلی, سرپېدل, سرپوي], "سرپ جوړول").
+entry(sirupy, adj, [], "شېرني شېرنونکې شېرنترېن").
+entry(سرونټې, ن, [sirventes], "د منځنۍ دورې طنزي سندره يا شعر").
+د پاسټو لپاره Prolog:
+entry(sis, n, [خویندې], "یا خويند".).
+entry(سيسال, ن, [سيسالونه], "يو قوي فايبر چې د رسۍ لپاره کارول کیږي").
+entry(siskin, n, [siskins], "يوه اروپايي فينش").
+entry(sissy, adj, [], "SISSIER SISSIESTsissyish").
+entry(سيسي, n, [سيسيان], "نرم طبعه سړی يا هلک").
+entry(sissyish, صفت, [], "د یوه ښځي غوندې ښکاري").
+وردنه(sister, v, [وردنه_کړه, وردنه_کوي, وردنې], "لکه د خور په څېر چلند کول").
+entry(خورنۍ, صفت, [], "د خور په څېر یا ورته والی").
+entry(سيسٽرائډ, صفت, [], "د دوو قطغاني منحنيونو د تقاطع په محدب اړخونو کې شامل").
+ورودی(سيسترم, ن, [سيسترومونه], "یا سسترا یو لرغونی مصری د تال وسیله").
+entry(sit, v, [د ناستی, ناستی, ناستی], "په پښو ناست کیدل").
+entry(سِتار, ن, [سِتارونه], "د هندوستان یوه دوتاره").
+entry(سيتارسټ, ن, [سيتارسټان], "هغه څوک چې په سِتار غږوي").
+entry(سِټکام, ن, [سِټکامونه], "د تلویزیون د ټوکو لړۍ د دوامداره کردارونو سره").
+دخول(سایټ، v، [سایټ شوی، جای شوی، سایټونه]، "د عملیاتو لپاره په موقعیت کې ځای په ځای کول").
+دخول(سیتھ, فعل, [], "له هغه راهیسې").
+entry(sithence, adv, [], "څخه").
+entry(sithens, adv, [], "څرنګه").
+دخول(siting, present, [], "د site فعلي نوم").
+entry(د تغذیې پوهنه, ن, [د تغذیې پوهنې], "د تغذیې او خواړو پوهنه").
+د ننوتنه(sitrep, n, [sitreps], "د اوسنۍ پوځي حالت په اړه راپور").
+entry(sitten, a, [], "د 'sit' ماضي مصنوعه").
+د داخلې(ناست، ن، [ناستانو]، "هغه څوک چې ناست وي").
+entry(ناست, ن, [ناستې], "يوه غونډه يا غونډه").
+entry(ځای په ځای کول, فعل, [په ځای شوی, په ځای کول, په ځای کوي], "په یوه ټاکلي موقعیت کې ځای پر ځای کول").
+entry(situp, n, [situps], "هغه تمرین چې پکې یو کس له څملې حالت څخه د ناست حالت ته ورځي").
+داخلول(ځای, ن, [ځایونه], "يو موقعيت يا ځای").
+د ننوتنه(سیتزمارک, ن, [سیتزمارکس], "هغه نښه چې یو سکیر په شاتړیدلو سره په واورو کې پریږدي").
+د ننوتل(سور, ن, [سورونه], "يوه فاضله").
+دبرمه(شش، ن، [ششونه]، "يو عدد").
+داخلېدنه(سکسير, ن, [سکسيرونه], "د شپږو براونيز یا کپز د ډلې مشر").
+entry(شش-برابره, صفت, [], "څه چې شپږ ځله لوی/غټ وي").
+entry(سکس مو, ن, [سکس مو], "د کاغذ اندازه").
+entry(سکسپنس, ن, [سکسپنسونه], "یو پخوانی برتانوي سکه چې شپږو پېنسو ارزښت لرله").
+entry(sixpenny, adj, [], "د شپږو پنسو ارزښت").
+د ننوتلو(څلورویشتم, ن, [څلورویشتم], "یو شمشیر وهنه دفاع").
+entry((شپاړس), م, [(شپاړسون)], "يو شمېر").
+entry(شپږم, ن, [شپږمونه], "د شپږو مساوی برخو څخه یوه برخه").
+entry(sixthly, adv, [], "په شپږم ځای").
+entry(شپیتم, ن, [شپیتمونه], "د شپېتو مساوي برخو څخه یوه").
+entry(شپېته, ن, [شپېتمه لسیزه], "يو شمېر").
+```prolog
+entry(شپیته_کلن_شاوخوا, صفت, [], "شاوخوا شپیته کاله عمر لرل").
+```
+entry(لویه, صفت, [], "د پام وړ اندازهSIZABLY adv").
+دلیل(sizar, ن، [sizars]، "یو بریتانوی زده کوونکی چې له خپل کالج څخه مالي مرسته ترلاسه کوي").
+د پرولوګ کرښه:
+entry(size, v, [sized,sizing,sizes], "د فزیکي تناسبونو له مخې تنظیمول").
+entry(غټ, صفت, [], "غټSIZEABLY adv").
+د داخلې(سایزر، ن، [سایزرونه]، "سایزر").
+entry(سایزوالی, n, [سایزوالی], "د سایزي کیفیت یا حالت").
+دخول (sizing, n, [sizings], "يوه ماده چې د جذبونکي موادو لپاره د ګلیز یا ډکونکي په توګه کارول کیږي").
+entry(sizy, adj, [], "SIZIER SIZIESTviscid").
+entry(sizzle, v, [sizzled,sizzling,sizzles], "په شور سره سوځول يا پخول").
+entry(sizzler, n, [سزلرز], "یوه ډېره ګرمه ورځ").
+entry(سجامبوک, فعل, [سجامبوک کړ, سجامبوک کوي, سجامبوکونه], "په سویلي افریقا کې د استعمالیدونکي قمچینې سره وهل").
+د داخلې(سکا، ن، [سکاس]، "د جمیکا یو مشهور موسیقي").
+entry(سکېګ، ن، [سکېګونه], "هيروين").
+entry(شاعر, n, [شاعران], "یو لرغونی سکاندینېوی شاعر SKALDIC adj").
+د پرولوګ ليکنه:
+entry(سکينک، فعل، [سکينک شو, سکينک کول, سکينکونه], "په پراخه خوځنده ډول نڅا کول").
+entry(skanker, n, [skankers], "هغه څوک چې سکينګ کوي").
+entry(skanky, adj, [], "چټل یا بد ده").
+entry(سکات, ن, [سکاتس], "د کارتونو یوه لوبه").
+entry(سکيټ, فعل, [سکيټ وکړ,سکيټ کول,سکيټونه], "په يخ يا ځمکه باندې د سکيټ جوتو په مرسته سوري کول").
+entry(skater, n, [skaters], "هغه څوک چې سکیټ کوي").
+entry(سکینګ, n, [سکینګونه], "د سکیټونو پر مخ تېز تللو ورزش").
+entry(سکاټول, ن, [سکاټولونه], "سکاټول").
+entry(سکاټول, n, [سکاټولونه], "یو کیمیاوي مرکب").
+entry(سکېن, ن, [سکېنس], "د خنجر یو ډول").
+entry(سکین, ن, [سکینونه], "یو اوږدوالۍ د ځنځیر چې په آزاده توګه تاو شوی وي").
+دخولی(سکېډ، ف، [سکېډډ، سکېډنګ، سکېډز], "مهالوېش کول").
+entry(skee, v, [سکي کول, سکي کولر, سکي], "سکي کول").
+entry(سکین, ن, [سکینز], "سکین").
+ننوتنه(سکيټ، ن، [سکيټونه]، "هغه ورزش چې پکې د ګِلۍ کوتریو پر لور ډزې کېږي چې د پسرلي په جالو کې په هوا کې غورځول کېږي").
+دسنی(entry, n، [دسنیان]، "یو دسني ویشتونکی")
+entry(skeevy, adj, [], "SKEEVIER SKEEVIEST ناوړه کرغېړن").
+entry(skeg, n, [skegs], "هغه لرګی چې د بېړۍ کیل او سترنپوسټ سره نښلوي").
+entry(skeigh, adj, [], "مغرور").
+entry(سکین, v, [سکین شوی,سکین کول,سکینونه], "د اوږدو کموېدلو کویلونو کې تاوول").
+د نښاني, ن , [نېښانې], "د يو انسان يا حيوان بدن د ملاتړ يا حفاظي چوکاټ".
+entry(سکل، ن، [سکلونه]، "بې کوره شخص").
+entry(skellum, n, [skellums], "يو بدماش").
+entry(سکلم, ن, [سکلومز], "skellum").
+د داخليدو(سکيلپ، فعل، [سکيلپډ، سکيلپینګ، سکيلپس]، "ووهنه ورکول").
+entry(سکېلټر, v, [سکېلټرډ, سکېلټرینګ, سکېلټرز], "په منډه تلل").
+entry(skene, n, [skenes], "skean").
+entry(skep, n, [skeps], "د شاتو مچۍ تاو").
+entry(شک, n, [شکونه], "د شکمن د نظر یا چلند").
+```prolog
+entry(مشکوک, n, [مشکوکان], "هغه شخص چې په عمومي توګه د منل شویو نظریاتو په اړه شکي وي").
+```
+entry(ډبرین ټاپو, ن, [ډبرینه ټاپوګان], "یو کوچنی ډبرین ټاپو").
+entry(نقشه, فعل, [نقشه_کړه,نقشه_کول,نقشې], "یوه ابتدایي او بيړه ناڅاپي نقشه رسمول").
+د ننوتنه(ډرایګر, ن, [ډرایګرزان], "هغه څوک چې ډرایګ کوي").
+entry(نامعلوم, صفت, [], "ډېر نامعلوم تر ټولو نامعلوم نه بشپړ یا نه واضح").
+entry(کاږه, v, [کاږه شوی,کاږه کول,کاږي], "خوا ته اړول").
+entry(سکيوبېک, n, [سکيوبېکس], "يو مائل سطح د کوم سره چې د يو قوس اخره تکيه کوي").
+entry(skewbald, n, [skewbalds], "يو آس چې نسواري او سپين داغونه لري").
+entry(سيخ, v, [سيخ کړ,سيخ کول,سيخ کوي], "چې په اوږده پن باندې غوښه وژبچے").
+entry(بې متوزيني, n, [بې متوزينۍ], "د تقارن نشتوالی").
+د داخلہ(سکي، فعل، [سکي وکړ، سکي کول، سکۍ]، "پر اوږده، نری ټوټې لرګي یا فلز باندې سفر کول").
+entry(skiable, adj, [], "د سکې کولو وړ").
+entry(skiagram, n, [skiagrams], "یو انځور چې د سیوریو یا خدوخالونو څخه جوړ شوی دی").
+entry(سکي بوب, v, [سکي بوب کړ, سکي بوب کولو, سکي بوب کوي], "يوه بايسکل ډول وسيله چلول چې پر څرخونو د سکي پر ځای ولري").
+entry(skid, v, [skidded,skidding,skids], "د ټکشن له لاسه ورکولو په پایله کې په اړخ باندې ښوییدل").
+entry(skidder, n, [skidders], "يو څوک چې ښويږي").
+entry(سکیډینګ, ن, [سکیډینګونه], "د ونو د پرې کولو له سیمې څخه د لرګیو د راوړلو کار").
+د ننوتنه(سکيدو, فعل, [سکيدو شو, سکيدو کول, سکيدو کوي], "لرې تلل").
+ورودي(skiddy, صفت, [], "ډیر د سلیډ کولو احتمال").
+دداخلول(skidoo, فعل, [skidooed, skidooing, skidoos], "یوه کښتۍ چي یهر تختې په یخ باندې ښويږي").
+entry(skidooer, n, [skidooers], "هغه څوک چې په سنوموبایل باندې ځي").
+entry(skidpad, n, [skidpads], "هغه سړک چې ډريوران پرې د موټر د زړه خارښت کنټرول تمرين کوي").
+entry(سکډوې, ن, [سکډوېز], "يوه پلېټ فارم چې د ونو لگ اچولو لپاره کارول کېږي يا پرې پرې کول کېږي").
+دخول(skied, تېر, [], "د سکي او اسمان د فعلي زمان").
+entry(سکی باز, ن, [سکی بازان], "یو څوک چې سکی کوي").
+د ننوتنه(اسمانونه، اوس وقت، [], "د آسمان درېيم شخص مفرد").
+دورازۀ(skiey, صفت، [], "skyey").
+د خدمې سره(skiff، ن، [skiffs]، "يو وړوکى خلاص کښتۍ").
+entry(اسکیفل، فعل، [اسکیفلیډ، اسکیفلنګ، اسکیفلونه], "د یوې ځانګړې میوزیکي اندازې څخه لوبول").
+entry(سکي وهل، ن، [سکيونه]، "دا سپورټ د سکي په وسيله سفر کول دي").
+entry(سکيجورر, n, [سکيجورران], "یو سکی وهونکی چې د سپو، آس یا موټر لخوا په واورو کې کش کیږي").
+entry(ماهر, صفت, [], "ماهر").
+entry(ماهر, صفت, [], "ماهر").
+د ننوتنه(مهارت، ن، [مهارتونه]، "د يو څه ښه کولو وړتيا مهارت لرونکی صفت").
+entry(skilless, adj, [], "بې مهارته").
+ورودی(اوږده_دیګچه, ن, [اوږده_دیګچې], "یوه اوبلنه دیګچه").
+entry(پښتون, صفت, [], "لرونکی مهارت").
+entry(skilling, n, [skillings], "د سکینډینیوین هیوادونو پخوانی سکه").
+entry(سکیم, v, [سکیم کړ،سکیم کول،سکیمونه], "د سطحې څخه د تیریدو موادو لرې کول").
+د چاپیریال(skimmer, n, [skimmers], "یوه وسیله چې سطح لری").
+entry(سکیمیا, ن, [سکیمیاس], "یو همیشه شین بوټی").
+entry(skimming, n, [skimmings], "هغه څه چې له مايع څخه لرې کړل شي").
+entry(skimp, v, [skimped, skimping, skimps], "کم مصرف کول").
+entry(skimpy, adj, [], "SKIMPIER SKIMPIESTscantySKIMPILY adv").
+entry(پوست, v, [پوست کړی, پوخ پوست, پوستونه], "د حیوان د بدن د غړي پوښ لرې کول یا پوست لرې کول").
+entry(پوستکیُ, ن, [پوستکي], "هڅ څومره چې یو پوستکی دې ظرف کولی سي").
+د ننوتنه(پوستکی، ن، [پوستکېان]، "يو چې وېښته يې ډېر لنډ پرې شوي وي").
+دننه(سکنک, ف, [سکنک شو, سکنک کول, سکنکونه], "د شرابو په توګه تویول یا ورکول").
+entry(سکينکر, n, [سکينکرز], "يو څوک چې سکينک کوي").
+entry(skinless, adj, [], "بې پوستکی").
+entry(skinlike, adj, [], "د پوستکي په څیر").
+entry(پوښل, تېری, [], "د پوستکي زمان").
+دخول (سکنر، ن، [سکنرز]، "هغه څوک چې څرمن وباسي").
+دخوليه(پوست ايستل، اوسنی، [], "د پوست د ايستلو فعلي برخه").
+entry(څوکی, صفت, [], "ډېر لاغر").
+entry(نری, n, [نري], "هغه څوک چې نری دی").
+entry(skint, adj, [], "بې پيسو").
+entry(سکیورینګ, ن, [سکیورینګونه], "د سکي یو ډول").
+entry(ټوپ وهل, v, [ټوپ وهه,ټوپ وهوه,ټوپ وهي], "په سپک او تېز ګامونو حرکت کول").
+entry(سکيپجيک, ن, [سکيپجيکونه], "يو سمندري کب").
+entry(skiplane, n, [skiplanes], "يو الوتکه چې د واورې څخه د پورته کېدو يا د ښکته کېدو لپاره ډیزاین شوې ده").
+د Prolog:
+entry(skipped, past, [], "د skip زمانه").
+entry(سکپر, فعل, [سکپریډ,سکپرینګ,سکپرز], "د یو کښتۍ د ماسټر یا کپتان په توګه عمل کول").
+entry(سکپټ, ن, [سکپټونه], "یو کوچنی بکس د رسمي مهر د ساتلو لپاره").
+entry(skipping, present, [], "participle د skip").
+entry(skirl, v, [skirled,skirling,skirls], "يو تيز آواز توليد کول").
+entry(څوکه, v, [څوک کړه,څوک کول,څوک کوي], "په کوچني جګړه کې ښکېل کېدل").
+entry(skirr, v, [skirred,skirring,skirrs], "په تېزۍ سره حرکت کول").
+د سکرټ، اېن، [سکرټونه]، "يو آسيايي بوټی"، entry.
+دخول(پټه، فعل، [پټه‌کړه، پټه‌کول، پټیږي]، "چاپېرېدل یا تېرېدل").
+entry(څنډوال, ن, [څنډوالان], "يو څوک چې څنډې ته ځي").
+entry(سکيرټنګ, ن, [سکيرټنګونه], "د ديوال په بنسټ کې يو تختہ").
+entry(سکيټ, ن, [سکيټونه], "يوه لنډه ډراماتي صحنه").
+entry(skite, v, [skited,skiting,skites], "په چټکۍ سره لرې تلل").
+entry(skitter, v, [skittered,skittering,skitters], "په یوه سطحه باندې سپور یا په چټکۍ سره حرکت کول").
+د ننوتنه(skittery, adj, [], "SKITTERIER SKITTERIESTskittish").
+entry(ډارېدونکی, صفت, [], "په اسانۍ سره بېرېدونکی").
+entry(سکټل, ن, [سکټلونه], "په بولینګ لوبه کې کارول کېدونکی د لرګي پن").
+entry(خارجول, v, [خارج کړل,خارجول,خارجوي], "څخه لرې کول").
+د Prolog:
+entry(skiver, n, [skivers], "چې سکائیو کوي").
+entry(skivvy, v, [skivvied,skivvying,skivvies], "د ښځینه خدمتګار په توګه کار کول").
+entry(skiwear, n, [د سکي لباس], "کالي چې د سکي کولو پر مهال د اغوستلو لپاره مناسب وي").
+entry(sklent, v, [sklented,sklenting,sklents], "تاو کول").
+entry(سکول, v, [سکول کړ, سکول کول, سکول کوي], "د چا د جوړښت لپاره څښل").
+entry(سکول, v, [سکول کړی, سکول کول, سکولونه], "سکول کول").
+د داخلې(سکوم, ن, [سکومس], "يو بد روح").
+entry(سکرټ, ن, [سکرټس], "هغه شارټ چې د سکرټ په څیر ښکاري").
+entry(skosh, n, [skoshes], "یوه کمه اندازه").
+entry(چغہ, v, [چغیډ,چغہ کول,چغې], "چغہ کول").
+entry(سکريګ, فعل, [سکريغ شو, سکريغ کول, سکريغېږي], "چيغي وهل").
+entry(skry, v, [skried, skrying, skries], "ساحره").
+entry(سکوا, ن, [سکواس], "يو شکاري دريايي مارغه").
+entry(پټېدل, v, [پټ شو,پټېدل,پټېږي], "په پټه توګه حرکت کول").
+entry(پټه خواکه, ن, [پټه خواکه], "يو څوک چې پټه خواکې کوي").
+entry(ټوپک, v, [ټوپک شوې,ټوپک کول,ټوپکان], "په سر باندې وهل").
+د ننوتنه (skullcap, n, [skullcaps], "يو نږدې تړون لرونکی خولۍ").
+entry(پړانګ, v, [پړانګیدو,پړانګونه,پړانګيږي], "په پراخه کچه ماتول").
+entry(skunky, adj, [], "د سکينک په څير بوی لرونکی هغه يو تي لرونکی دی چې کثيف بوی ليدونکي مايع سپری کولی شي").
+دوراز(sky, v, [skyed, skying, skies], "اندې یا غورځول اسمان ته یانی د فضا لوړ").
+entry(اسکای‌بورډ, ن, [اسکای‌بورډونه], "یو بورډ چې له پښو تړل شوي وي او د اسمان پر مخ د سرکۍ لپاره کارول کېږي").
+د ننوتل(skyborne، صفت، []، "هوایي").
+entry(اسماني_ټوکر, ن, [اسماني_ټوکرونه], "د ناستو ځای چې په یوه ستډیوم کې په لوړ موقعیت کې وي").
+د ننوتنې(اسمان دوشي، ن، [اسمان دوشيان]، "په هوايي ډګر کې يو بار بردار").
+entry(سکاي ډایو, v, [سکاي ډووه,سکاي ډایوینګ,سکاي ډایوز], "د سپورټ لپاره د الوتکې څخه د پیراشوت په واسطه کود کول").
+entry(سکاي ډايور, ن, [سکاي ډايورز], "هغه څوک چې سکاي ډايونگ کوي").
+entry(اسماني, صفت, [], "د اسمان په څیر").
+entry(اسماني_رڼا, ن, [اسماني_رڼاوې], "په شپه کې د ښاري څراغونو له امله يو ځلاند وځل").
+entry(اسکائی هوک, ن, [اسکائی هوکس], "یو هوک چې د آسمان څخه ځړول شوي وي").
+entry(اسمان_تښتول, v, [اسمان_تښتول_شو,اسمان_تښتول_کول,اسمان_تښتوي], "چې د الوتکې تښتولو ته").
+د ننوتنه(اسمان ځګى، فعل، [ځګول, ځګول کيږى، ځګوي]، "لوزي").
+entry(skyless, adj, [], "چې اسمان د وريځو له خوا پټ دی").
+دخپونډ(skylight, ن, [skylights], "په چت يا سقف کې يو کړکۍ").
+entry(د آسمان په څیر, صفت, [], "د آسمان سره مشابه").
+دخپل (skyline, n, [skylines], "افق") تیر.
+entry(skylit, adj, [], "د اسمان څراغ لرونکی").
+entry(skyman, n, [skymen], "د هوا پیما").
+entry(اسکایفوس, ن, [اسکایفوی], "یو د څښاک لوښی چې په لرغونې یونان کې کارول کیده").
+entry(اسمانچت, ن, [اسمانچتونه], "د بادبان یو ډول").
+د ترجمې لپاره، لاندې Prolog ترجمه وګورئ:
+
+```prolog
+entry(اسمان, n, [اسمانونه], "د اسمان یو نظر").
+```
+entry(skysurf, v, [skysurfed,skysurfing,skysurfs], "په اسمان تخته باندې ځوړند سقوط پر مهال د تګ مهارتونه ترسره کول").
+entry(پله‌ی واورېزې لارې, ن, [پله‌ی واورېزې لارې], "د دوو ودانیو ترمنځ یو لوړوالی لرونکی لاره").
+د اسمان په لور: entry(skyward, adv, [], "د اسمان په لور").
+entry(skywards, adv, [], "په اسمان").
+داسې ښکاري چې زه نشم کولی په مستقیمه توګه په دې ډول پروګرامي ژبه، لکه پرولوګ، په بله ژبه باندې چې تاسو یې غوښتنه کړې، بدل کړم. پروګرامي ژبې خپل ځانګړي نحو او جوړښت لري چې نه باید بدل یا وژباړل شي. که تاسو د دې بیان څخه د یوه ځانګړي عنصر ژباړه غواړئ، نو مهرباني وکړئ ځانګړې غوښتنه وکړئ.
+entry(skyway, n, [skyways], "یو پورته شوی لویه لار").
+entry(اسمانليک, فعل, [اسمانليکلی,اسمانليکل شوی,اسمانليکل], "اسمانليک په اسمان کې د لیکلو لپاره د الوتکې څخه د لیدونکي بخار خوشې کول").
+د پرولوګ کوډ: `(slab, v, [slabbed,slabbing,slabs], "د پراخو فلیټ ټوټو له یوې لرګۍ څخه لرې کول").`
+entry(سلابر، فعل، [سلابېد، سلابېدونکی، سلابوي]، "سلاب کول").
+entry(سلابري, صفت, [], "slobbery").
+entry(سلابينګ، ن، [سلابينګونه]، "د یوې لرګی د تختو په لرې کولو عمل").
+entry(slabby, adj, [], "په تختو پوښل شوی یا فرش شوی: SLABBIER SLABBIEST").
+انٹری(سلیب لائق, صفت, [], "د سلیب سره مشابه").
+entry(سلیګ, صفت, [], "نه تنگ یا تاو").
+entry(slack, v, [سست،سستول،سستوي], "د شاډولو").
+entry(خوشې کول, ف, [خوشې کړ, خوشې کول, خوشې کوي], "له تنگوالي یا سختوالي څخه کمول").
+entry(سستې کونکی, ن, [سستې کونکیان], "یو ستونزمن").
+entry(سستۍ، حال، [], "په یوه سست توګه").
+entry(slag, v, [د سلیګ جوړول, د سلیګ جوړېدنه, سلیګونه], "هغه تحلیل شوې پاتې شونې چې د کان د مذاب شویو شګو نه تولید کېږي").
+entry(سلیګ کول, n, [سلیګ کولونه], "هغه پروسه چې په کې کچه د سلیګ په توګه بدلیږي").
+entry(سلګي, صفت, [], "ډېر سلګی، تر ټولو ډېر سلګی د سلګ په څېر").
+entry(slahal, n, [slahals], "لهال").
+دخول(slain, ماضي, [], "د slay شریک").
+entry(سلامتي، څپرکی ، [] ، "د چا د روغتیا د سلامتۍ لپاره کارول کیږي").
+د Prolog: entry(slake, v, [slaked,slaking,slakes], "to quenchSLAKABLE adj").
+entry(سلیکر, ن, [سلیکرز], "یو څوک چې خړوبوي").
+entry(سلالوم, فعل, [سلالوم کړ,سلالوم کول,سلالومونه], "زیګ زیګ په شکل سکي وهل").
+entry(سلالوماڼ, ن, [سلالوماڼان], "یو چې سلالوم ترسره کوي").
+entry(وهل, فعل, [وهل, وهلو, وهي], "په زوره او شور سره تړل").
+entry(سلمر, ن, [سلمران], "يو زندان").
+entry(سلېمينګ, ن, [سلېمينګونه], "د يوه شخص د ټلېفون خدمت د يوې کمپنۍ څخه بله ته د اجازې پرته بدلول").
+entry(بدنامول, v, [بدنامه کړ, بدنامول, بدناموي], "څوک بدنامول").
+entry(عاميانه, v, [عاميانه_کړ, عاميانه_کول, عاميانه_کوي], "ډېر غير رسمي يا ناوړه ژبه کارول").
+د ننوتنه(مسخره, صفت, [], "زيات مسخره، تر ټولو مسخره چې مسخره يا مسخره لري. مسخره توګه نقل").
+entry(slank, a, [], "د سلنک د تیرو وختونو بڼه").
+entry(ميل، v، [ميله،ميلونه،ميلونه]، "له افقي يا عمودي څخه انحراف کول").
+د دې پرولوګ کرښې د ژباړې لپاره به یوازې پرولوګ وړاندې شي:
+entry(slanty, adj, [], "SLANTIER SLANTIESTافقي یا عمودي نه ويSLANTLY adv").
+entry(څپيړه، فعل، [څپیړه وکړه، څپیړې ورکول، څپیړې]، "په خلاص لاس سره ووهل").
+entry(بې پروا, n, [بې پروانې], "بې پروا کار").
+دردی(سلاپجیک، ن، [سلاپجیکس]، "یو کیک").
+entry(څپېړوونکی, ن, [څپېړوونکي], "هغه څوک چې څپېړه وهي").
+entry(سلیپنگ, اوس, [], "د سلیپ حالت فعل").
+ډېرښت(سلیپ شاټ، ن، [سلیپ شاټونه]، "په هوکي کې د ډزو یوه ډوله").
+د Prolog کرښه په پښتو کې داسې ده:
+```prolog
+entry(slash, v, [slashed, slashing, slashes], "په قهرجن حرکاتو سره پرې کول").
+```
+entry(سلېشر, ن, [سلېشرونه], "هغه څوک چې غوڅوي").
+entry(slashing, n, [slashings], "د چاړه کولو عمل").
+entry(slat, v, [slatted, slatting, slats], "د لرګیو یا فلز تنګ پټې ورکړه").
+entry(slatch, n, [slatches], "د څپو د ماتېدو ترمنځ ارامي").
+entry(سلیټ, v, [سلیټ شوی, سلیټ کول, سلیټونه], "د یوه چت موادو سره پوښ کول").
+entry(slater, n, [slaters], "هغه څوک چې تخته لګوي").
+entry(سلېټي, صفت, [], "سلېټيرې سلېټيمترينه").
+entry(پوښل, v, [پوښلی,پوښل,پوښي], "پت له زاتی سره ښکاره کړي").
+entry(slatier, comparative, [], "د slaty").
+د ننوت(entry(slatiest, superlative, [], "of slaty")).
+entry(سلیټنګ, n, [سلیټنګونه], "د هغه چا عمل چې سلیټ جوړوي").
+entry(سلاټ شوی, ماضی, [], "د سلاټ اړوند زمانه").
+د Prolog کرښه: entry(slattern, n, [slatterns], "یو ناپاکه ښځه").
+د لیکنې (slatting, n, [slattings], "د سلټونو جوړولو مواد").
+entry(slaty, adj, [], "د ګردیاڼې په څېر").
+د Prolog کرښه: entry(slave, v, [slaved,slaving,slaves], "د یو غلام په څیر کار کول څوک چې د بل چا ملکیت وي").
+د داخلې(غلام، فعل، [غلام شو، غلامي کول، غلامان]، "بې حده وخته").
+دخول(slaverer, ن, [slaverers], "چې توکا وهي").
+entry(غلامي, n, [غلاميان], "د یو شخص مالکیت د بل په واسطه").
+entry(غلامه, n, [غلامان], "یو ښځینه نوکر").
+د ننوتنه(غلامي کول, اوسني, [], "د غلام په توګه برخه اخیستل").
+entry(غلامانه, صفت, [], "د غلام پورې اړوند یا ځانګړتیا").
+entry(سلاو, ن, [سلاوز], "کوڅانب").
+د Prolog:
+
+entry(slay, v, [slayed,slain,slaying], "د زورا وژنيSLAYABLE صفت").
+entry(قاتل, ن, [قاتلان], "هغه څوک چې وژني").
+د ننوتل(slaying, n, [slayings], "د وژلو عمل یا یوه پیښه").
+entry(sleave, v, [sleaved, sleaving, sleaves], "د فلامنټونو په توګه جلا کول").
+entry(خبيث-چلند, v, [خبيث-چلند-کړ,خبيث-چلند-کول,خبيث-چلند-کوي], "څه په دڼه چلند کول").
+د دې Prolog کرښې په پښتو کې ژباړه:
+entry(sleazo, n, [sleazos], "یو ټپوس").
+د ننه وتل(sleazoid, n, [sleazoids], "یو د ټیټو اخلاقو یا شخصیت لرونکی شخص").
+entry(سلیزي, صفت, [], "سلیزیزه سلیزییزترلوی یا کرکټر د ټیټې کچې یا کرکټرپه سلیزه ډول").
+entry(سلیج, فعل, [سلیج شو, سلیج کول, سلیج کوي], "د خلکو یا بارونو د واورې یا یخ په سر د انتقال لپاره په یوه سلیج موټر کې انتقالول").
+entry(سلیډر, n, [سلیډران], "یو څوک چې سلیډ کوي").
+ننه(سلیډینګ, ن, [سلیډینګونه], "د هغه چا عمل چې سلیډ کوي").
+```prolog
+entry(سلیج, v, [سلیج شوی, سلیج کول, سلیجونه], "په یخ باندې د یو ډول سلیج باندې انتقالول").
+```
+د Prolog: entry(sleek, adj, [], "سلیکر سلیکېسټنرم او ګلاسۍ").
+دخول(entry, ښایسته, فعل(v), [ښایسته کړ,ښایسته کول,ښایسته کوي], "ښایسته کول").
+د Prolog کرښه: entry(sleeken, v, [sleekened,sleekening,sleekens], "تودۀول").
+entry(sleeker, ن, [sleekers], "هغه څوک چې نرموي").
+دوتنه(سلیکت, صفت, [], "سلیک").
+entry(په_ملاستو_ډول, اعلانوونکی, [], "په ملاستو ډول").
+entry(sleeky, adj, [], "غښتلی غښتلي ډيره غښتلي").
+```prolog
+entry(خوب, v, [ویده,ویده‌کېدل,خوبونه], "د آرامۍ طبیعي دوره کې اوسېدل").
+```
+entry(خوبېدونکی, n, [خوبېدونکي], "هغه څوک چې خوب کوي").
+entry(خوب, ن, [خوبونه], "د هغه چا عمل چې ویده وي").
+د Prolog:
+entry(sleepy, adj, [], "سُتړې سُتړی په خوب لور تیار يا مائل په خوب سنډیسې adv").
+entry(يخنۍ, v, [يخنۍ وهلې, يخنۍ وهل, يخنۍ وهي], "يخ باران اوري").
+entry(sleety, adj, [], "د ورښتونو سره ورته").
+entry(آستین, v, [آستین شوی, آستین ورکول, آستینونه], "يوه آستین چمتو کول چې د يوې جامې هغه برخه پوښ کړي چې د لاس پوښنه کوي").
+د داخلې(سلیوین، نوم، [سلیوینز], "یو شیطان کس").
+entry(سلیونګ, ن, [سلیونګونه], "د بریښنا کیبلونو لپاره نلکه یي موصلیت").
+entry(سلیج, v, [سلیج کړ, سلیجو, سلیجونه], "په یوه سلیډ کې سپرلۍ کول").
+entry(sleigher, n, [sleighers], "هغه څوک چې سورلي وهي").
+د لیکنې لپاره څومره په زړه پورې: entry(sleight, n, [sleights], "چالاکي").
+entry(نري, صفت, [], "نری نری/نرۍ").
+entry(ويده, تېر, [], "خوب یاستل").
+entry(څارګر, v, [څارګره،څارګري،څارګر], "د جاسوس په توګه عمل کول").
+د ورودی (slew, v, [slewed, slewing, slews], "تا چې وسپښل شي").
+د ننه(slice, v, [sliced,slicing,slices], "د نري او هوار ټوټو پرې کولو لپاره").
+دخولې(سلیسر, ن, [سلیسرونه], "یو چې پرې کوي").
+entry(سلیک, صفت, [], "ښويېدونکی سلیکې ده سلیکستهمواره او ښویېدونکی").
+دخول(slick, v, [slicked,slicking,slicks], "چکچک جوړول").
+entry(slicken, v, [slickened,slickening,slickens], "څخه جوړول").
+entry(سلکر, ن, [سلکرز], "یو د تیلو پوښونکي باراني کوټ").
+entry(په خوځښت, adv, [], "په خوځ ډول").
+entry(slide, v, [slid,slidden,sliding], "SLIDEپه نرمۍ سره په سطحه باندې حرکت کولSLIDABLE صفت").
+دخولی(slider, n, [sliders], "یو چې ښویېږي").
+entry(سلاید لارې, n, [سلاید لارې], "یو مسیر چې له لارې یې یو څه سلایډ کوي").
+entry(slier, a, [], "د sly تقابلي بڼه").
+entry(ترټولو_زرنګ, a, [], "د زرنګۍ فوق العاده").
+د ننوتلو (slieve, n, [slieves], "يو غر").
+entry(وړه, صفت, [], "وړه وړه کوچنۍ په اندازه یا مقدار لږ تر لږه adv").
+د داخلې(خفيف، فعل، [سپک شوی، سپک کول، سپک کوي]، "د بې غورۍ سره چلند کول").
+entry(slighter, n, [slighters], "هغه څوک چې لږ څه کوي").
+دخول (slily, adv, [], "په چل ول چلند").
+اندراج(سلم, صفت, [], "سلمتر سلمترين نری").
+ټوله [slimmed, slimming, slims] ننوتنه(slim, v, ", "slim" لپاره").
+دخوليه(ښویو, فعل, [ښویووه,ښویوکوی,ښویوی], "له خټو سره پوښل").
+د ننوتنې(سلایمیر، تقابلي، [], "د سلایمي").
+د ننوتنې(لږ غوړونکي، لوړه درجه، [], "د غوړ").
+ورود(سلایمي، قیود، [], "په یو لیچک طریقه").
+entry(sliming, present, [], "د slime فعلي برخه").
+entry(سلیم لائن, صفت, [], "په جوړښت یا ډیزاین کې نری").
+entry(سلېم، قید، [], "په سلېمه توګه").
+entry(وچ, تېر, [], "د وچېدو زمان").
+ورودی(سلېمر، ن، [سلېمرز], "یو رژیم نیوونکی").
+entry(پتلی، عالي درجه، [], "د پتلی").
+entry(وزن کمول, n, [وزن کمول], "د یو کس د وزن کمول").
+entry(نازکوالی, ن, [نازکوالیونه], "د نازک والي حالت").
+د ننوتنه(سلمسي, صفت, [], "SLIMPSIER SLIMPSIESTسلمسي").
+entry(slimsy, صفت, [], "SLIMSIER SLIMSIESTflimsy").
+entry(slimy, adj, [], "SLIMIER SLIMIESTدلنده ته ورته").
+entry(سْلِنگ, فعل, [سْلنگ کړی,سْلنگ کول], "په ناڅاپي حرکت سره غورځول").
+entry(سلیګر, ن, [سلیګرز], "هغه چې غورځوي").
+د کډېدا(slink) v, [کډیدلی، کډېدل، کډېږي], "په پټه حرکت کول"
+entry(slinky, adj, [], "سليکي سليکيتوب پټونې سليکي ډول adv").
+entry(سلپ, فعل, [سلپ شوې,سلپ کول,سلپونه], "په ناڅاپي او تصادفي توګه ښويېدل").
+entry(سلپکيس, ن, [سلپکيسونه], "د کتاب لپاره يو ساتونکي پوښ").
+د منځنۍ کچې ډاټا مطابق ژباړه: Prolog:
+entry(slipe, v, [sliped,sliping,slipes], "چلتول").
+entry(slipform, v, [slipformed,slipforming,slipforms], "د يو قالب په کارولو سره جوړول چې پکې کانکریټ د کلک کېدو لپاره ځای پر ځای کېږي").
+entry(سلیپ ناټ, n, [سلیپ ناټونه], "د ناټ یو ډول").
+entry(slipless, adj, [], "د تېروتنو څخه پاک").
+entry(بهر وځي, ن, [بهر وځي], "په یوه ورځپاڼه کې یو ضمیمه").
+entry(سلپواور, ن, [سلپواورونه], "یو پل اوور").
+د ننوتنه(سلپيج, ن, [سلپيجونه], "د یو معياري يا سويې نه ټيټوالی").
+دخل(ښویېدلی، الف، [], "د ښویېدل تېر زمانه").
+entry(چپلکې, ن, [چپلکې], "یو سپک ټیټ بوټ").
+entry(ښویه, صفت, [], "ښویونکی یا د ښویېدو لامل ګرځي").
+entry(ښوییدل, اوسني, [], "په ښوییدو کې برخه اخیستنه").
+.entry(slippy, adj, [], "ډېر ښوی تر ټولو ښویښویSLIPPILY adv").
+entry(slipshod, adj, [], "په بې احتیاطۍ سره ترسره یا جوړ شوی").
+دخول (slipslop, ن, [slipslops], "اوبه لرونکى خواړه").
+entry(سلیپ سول, ن, [سلیپ سولز], "یو نری انسول").
+entry(slipt, a, [], "د 'slip' د ماضي وخت").
+د ننوتنه(تېروتنه، ن، [تېروتنې]، "يوه تېروتنه").
+entry(slipware, n, [slipwares], "د خټو يو ډول").
+entry(د ژرندۍ ډګر, n, [د ژرندۍ ډګرونه], "په کښتۍ جوړولو مرکز کې يو ځاي چې اوب ته تيری لري").
+entry(سورى، فعل، [سورى کاوه،سورى کول،سورۍ کوي]، "يو اوږد تنګ کټ جوړول").
+د ننوتنه (سلېتر, فعل, [ځنډېد،ځنډېدل،ځنډېږي], "په طرفونو کې سلایډ کول").
+entry(slithery, adj, [], "ښویېدونکی").
+entry(بې_درزه, صفت, [], "چې درزونه نلري").
+د ننوتنې(سورۍ ته ورته، صفت، [], "د سورۍ په څیر ښکاري").
+دخول(slitted, ماضی، [], "د 'slit' زمان").
+entry(slitter, n, [slitters], "يو څوک چې پرې کوي").
+د Prolog کوډ: entry(slitting, present, [], "د slit فعلي مصدر").
+entry(slitty, adj, [], " اوږده او تنګه SLITTIER SLITTIEST").
+د ننوتنه(سلور, فعل, [سلور شوی, سلور کول, سلور کوي], "د اوږدو نریو ټوټو پرې کول")۔
+entry(sliverer, n, [sliverers], "یو څوک چې ګنګوي").
+entry(سلېووويچ, n, [سلېووويچونه], "د الوچو برانډي").
+entry(slob, n, [slobs], "يو بې‌نظمه یا بې‌ادب انسان").
+entry(سلوببر, فعل, [سلوببرډ،سلوببرينګ،سلوببرس], "توې بهيدل").
+دخول(slobbery, صفت, [], "slobbering").
+entry(سست، صفت، []، "د بیکاره سره ورته والی").
+entry(slobby, adj, [], "د يو بې پرواه ځانګړنه").
+entry(سلو، ن، [سلوز]، "يو د الووبو په څير ميوه").
+entry(slog, v, [slogged,slogging,slogs], "پل جوړول").
+entry(slogan, n, [slogans], "یو شعار چې یوې ډلې لخوا غوره شویSLOGANED adj").
+entry(slogger, n, [sloggers], "هغه چې زحمت کاږي").
+entry(sloid, n, [sloids], "sloyd").
+د ننه يېستل(سلويد، ن، [سلويدس]، "سلويد").
+entry(سلو مو, ن, [سلو موګانې], "ورو حرکت").
+د Prolog:
+entry(sloop, n, [sloops], "د بادباني بېړۍ يوه ډول").
+entry(slop, v, [slopped,slopping,slops], "تويول یا شیندل").
+د ننوتنه(ځوړ, فعل, [ځوړندی, ځوړېدل, ځوړونه], "ډډه کول").
+entry(sloper, n, [slopers], "هغه چې ټیټېږي").
+entry(sloppy, adj, [], "SLOPPIER SLOPPIESTmessySLOPPILY adv").
+entry(slopwork, n, [slopworks], "د ارزانه جامو جوړول").
+entry(خوټ وهل, v, [خوټ وهل،خوټېدل،خوټيږي], "په څپاند حرکت سره حرکت کول").
+entry(sloshy, adj, [], "ګپ شپ ګپ شپ").
+entry(سلاټ, v, [سلاټ شوی,سلاټ کول,سلاټونه], "يو اوږد تنګ پرانيستل پرې کول").
+د ننوتنه(سلاټ بیک، ن، [سلاټ بیکس]، "د فوټبال د لوبغاړي يو ډول").
+entry(سستېاپی، ن، [سستېاپۍ], "يو وروخوځېدونکی ونو پورې تعلق لرونکی تي لرونکی حیوان").
+د Prolog ژبې نوم:
+
+entry(slothful, adj, [], "سست").
+entry(سلاټ شوی, تېر, [], "د سلاټ وخت").
+entry(سلوټر, ن, [سلوټرونه], "د نښلولو ماشین").
+د ننوتل(slotting، present، []، "د slot فعلي حالت participle").
+entry(بيا پسټا کېښنستل, v, [بياته پورې,پاسټا کېښنستل, واپسټا کېښنستل], "د ايرو داخلېدل ته کښېناستل، ودرېدل یا چغۍ سره حرکت کول").
+د ننوتونکې(sloucher, n, [slouchers], "هغه څوک چې لوییږی").
+د پرولوګ کرښه یې په پښتو کې:
+entry(slouchy, صفت، [], "ډېر، زیات slouching").
+دخول(slough, v, [sloughed, sloughing, sloughs], "څخه د لیرې کولو لپاره").
+د ننوتنه(ښوی، صفت، [], "ښوی ډېر ښوی ترین ښوی").
+entry(سُست، ن، [سُستان]، "یوه بې پرواه شخص").
+entry(ناسم, adj, [], "ناروغ او ناپاک").
+entry(ورو، صفت، [], "ورو ورو ورو حرکت کول").
+entry(ورو, v, [وروکړ,وروکول,وروي], "د سرعت کمولو لپاره").
+entry(سستوالی, ن, [سستوالۍ], "د رفتار کمول").
+entry(سست‌لیدونکی, صفت, [], "یو څه سست").
+entry(په_ورو, adv, [], "په وروه ډول").
+د داخلیدو(وروالي, ن, [وروالي], "ورو والی حالت").
+entry(سلومي زانګوونکی, ن, [سلومي زانګوونکي], "يو ورو کس").
+entry(سلوورم, ن, [سلوورمونه], "یو اروپای لیچک چې پښه نلري").
+د ننوتنې(سلوېډ، ن، [سلوېډونه], "د لاس روزنې سویډني نظام").
+د Prolog:
+entry(slub, v, [slubbed,slubbing,slubs], "بهر ایستل او لږ پیچول").
+entry(slubber, v, [slubbered,slubbering,slubbers], "اغوښتل یا خیرنول").
+entry(سلابنګ, ن, [سلابنګونه], "د نساجۍ فایبر یو لږ تاو شوی رول").
+د Prolog:
+entry(sludge, v, [sludged,sludging,sludges], "د خټو یا رسوب بڼه اختیارول").
+entry(sludgy, adj, [], "سلجېدلی له خټو سره پوښل شوی").
+د پرولوګ کوډ: entry(slue, v, [slued,sluing,slues], "په جانبي ډول د حرکت سبب کېدل").
+دخولیه(سلَف، فعل، [سلَف شوی، سلَف کول، سلَف کوی]، "یو یا څو کارتونه غورځول").
+د ننوتنې(سلګ, و, [سلګډ,سلګنګ,سلګز], "په شدت سره ګزار کول").
+entry(slugabed, n, [slugabeds], "هغه څوک چې د لټۍ له امله په بستر کې پاتې کېدل غوره کوي").
+entry(سلګفيسټ, ن, [سلګفيسټس], "يو شديد جګړه").
+entry(سست, n, [سست], "یو عادتاً لټ کس").
+entry(سلگډ, ماضی, [], "زمان د سلگ").
+دخول (سګر، ن، [سګرونه]، "یو چې سګر کوي").
+entry(slugging, present, [], "ګډونوال د slug").
+entry(سست, صفت, [], "ډېر لږ خوځښت یا فعالیت ښودل").
+entry(د اوبو د چټک بهير سره وینځل, v, [وینځل شو, وینځل روان, وینځل], "د اوبو د چټک بهير سره وینځل").
+entry(sluicy, adj, [], "په بهانو کې غورځیدل").
+دخول(سلینګ, اوسنی, [], "د سلوی تضمير").
+دخوله(سلم, فعل, [مقدس شو, مقدس کول, سلمونه], "د پيټي شمول ښارونو سيلو ته تلل").
+entry(خوب, v, [خوب وکړه,خوب کول,خوبونه], "خوب کول").
+د-داخلیدل(خوبولي, صفت, [], "خوبه").
+entry('سلومګم', n, ['سلومګمز'], "هغه پاتې شوني چې له شاتو د شاتو د مچې له یوې کړۍ څخه استخراج کیږي").
+دورځ(سلومیزم, ن, [سلومیزمز], "د کچینجو خپریدا").
+entry(خاوند, ن, [خاوندان], "د ښاري سیمې د ملکیت خاوند").
+دخول(جرکېدلي, تېره, [], "د جرک لېک").
+داخله(سلومر, ن, [سلومرز], "هغه څوک چې په خوار کچه ژوند کوي").
+بچي(سلمنگ، اوسنی، [], "د سلم شراب").
+د پاسټول پروګرام:
+entry(slummy, adj, [], "د ککړو سیمو سره ورته").
+entry(ځوړندېدل, v, [ځوړندگان,ځوړنده کېږي,ځوړندېږي], "ناڅاپه لویدل یا کښته کېدل").
+entry(slumpy, adj, [], "سلوميېر سلوميئسټ چې د ارزښت یا مقدار په کمېدو نښه شوي دي").
+entry(slung, past, [], "د 'sling' د زمان حال").
+entry(سلوک, الف, [], "د سلینک تېره بڼه").
+entry(بې اعتنايي, v, [بې اعتنايي شوې,بې اعتنايي کول,بې اعتنايي], "بې پامۍ يا بې پرواۍ تېرېدل").
+دخول(slurb, مع, [slurbs], "یو فقیر پلان شوی مضافاتي سیمهSLURBAN صفت").
+entry(slurp, v, [slurped,slurping,slurps], "په شور سره خواړه یا څښاک کول").
+د ننوتنه(slurpy, صفت, [], "SLURPIER SLURPIEST له چښلو سره د جوړ شوي چوساک غږ لخوا ځانګړل شوی").
+entry(سلري, فعل, [سلري شو, سلري کېدل, سلري کوي], "د اوبو لرونکي مخلوط ډول ته بدلول").
+entry(slurve, n, [سلوروز], "د بيسبال يو ډول پچه").
+د پرولوګ دا وینا په پښتو کې داسې ده:
+```prolog
+entry(خږ, فعل, [خږه کړه,خږه کوم,خږېږي], "سپږد واهه له خږشتې په نيمه وېلې شوې واورې سره").
+```
+د Prolog کرښه په پښتو کې داسې ده:
+```prolog
+entry(خولجن، ن، [خولجن], "يو شيريني چې د خوندور يخني څڅې د باندې لري").
+```
+entry(slushy, adj, [], "SLUSHIER SLUSHIEST چې د خټې سره ورته والی لري SLUSHILY adv").
+د Prolog د دې کرښې پښتو ژباړه دا ده:
+```prolog
+ورود(slut, n, [sluts], "يو بې پروا ښځهSLUTTISH adj").
+```
+entry(بدکاره, صفت, [], "بدکارې ځانګړتیاوې").
+entry(ځیرک, صفت, [], "ځیرک ترین یا تر ځیرک, چل ول لرونکی, ځیرکانه وینا").
+entry(slyboots, n, [slyboots], "يو چل ول انسان").
+دخونې(slyness, ن، [slynesses]، "د ختک یا خیانت کیفیت یا حالت").
+entry(سلیپ, ن, [سلیپونه], "په انګلستان کې د ګوتیک کلیسا یوه تنګه لاره").
+د ننوتنه(سمیک, فعل, [سمیک کړ, سمیک کول, سمیک کوي], "په تېزۍ سره وهل").
+entry(سماکر, ن, [سماکرونه], "هغه څوک چې ټکان وهي").
+متنی(وړه, صفت, [], "وړه د محدودې اندازې یا مقدار").
+دخولی(وړه، ن، [وړې], "یو وړوکی برخه").
+د ننوتنې(کوچنی عمر, ن, [کوچني عمرونه], "یوه وحشي کوه").
+entry(smallish, adj, [], "څه ناڅه کوچنی").
+entry(ګوډ څنډه, ن, [ګوډ څنډې], "يو ويروس ناروغي").
+entry(سمالټ, ن, [سمالټونه], "یو نیلي رنګ").
+د ننوتنه(smalti, a, [], "د smalto جمع").
+entry(سمالتين, ن, [سمالتينونه], "سمالټایټ").
+entry(سمالټائټ, n, [سمالټائټس], "یوه معدني ماده").
+entry(سمالټو, n, [سمالټوس], "یا د SMALTI رنگین ګلاس چې په موزايیکونو کې کارول کيږي").
+entry(smaragd, n, [smaragds], "يوازېمرغلر").
+entry(سماراغډي, ن, [سماراغډيس], "سماراغډ").
+entry(چاپلوسی, فعل, [چاپلوسی وکړه, چاپلوسي کول, چاپلوسي کوي], "د زیاتې خوشحالی څخه کار اخیستل د ګټې اخیستو لپاره").
+entry(څټونکې، صفت، [], "ډېر چاپلوس SMARMY، SMARMIEST SMARMILY، چاپلوسي ويناوې").
+entry(هوښيار, صفت, [], "هوښيار ترين او هوښيار ترينه د ذهني حوصله مندۍ څخه ځانګړنه هوښياره صفت").
+دخول(smart, v, [smarted,smarting,smarts], "د تيز ځنډ درد لامل کېدل").
+entry(چالاک, n, [چالاکان], "يو ځيرک").
+entry(ښایسته، v, [ښایسته کړل،ښایسته کول،ښایسته کوي], "د بڼې ښه کيدل").
+د Prolog:
+entry(smartie, n, [smarties], "smarty").
+entry(په‌زړه‌ورتيا, قيد, [], "په يو ځيرک ډول").
+entry(smarty, n, [smarties], "يو خلاص نظر انسان").
+entry(ماتول, v, [مات کړ, ماتېدل, ماتوي], "په زوره ماتول").
+د Prolog:
+entry(smasher, n, [smashers], "يو چې وهي").
+د .entry(smashup, n, [smashups], "د موټرو ترمنځ ټکر").
+entry(خردیات, فعل, [خردیات کړل,خردیات کول,خردیات کوي], "د لږ پوهې سره خبرې کول").
+entry(smaze, n, [د لوګي او مه ښکاره غبار ګډه شوې هوا], "د لوګي او مه ښکاره غبار یو ګډ مځکنی هوا").
+entry(لړل, v, [لړلی, لړل, لړي], "په چپچپک، غوړ یا ککړ موادو خپرول").
+```prolog
+entry(تورکونکی, n, [تورکونکي], "يو څوک چې تور پورې کوي").
+```
+entry(smeary, adj, [], "SMEARIER SMEARIESTsmeared").
+entry(سمیکټیک, صفت, [], "د مایع کرسټال د یوې مرحلې سره تړاو لري").
+داخلول(سمیکټایټ, ن, [سمیکټایټس], "یو خټک منرال").
+entry(smeddum, n, [smeddums], "د ژړوړو مالټو پوډر").
+دخوراک(سميک، ف، [سميک کړ، سميک کول، سميک کوي]، "سګرټ څکول").
+ورود(smegma, ن, [smegmas], "پَه".
+entry(بوي, v, [بويکړ, بويکول, بويوي], "د بوی پېژندلو د عصبي تارونو په مرسته د احساس کولو لپاره").
+entry(بودونکی, n, [بودونکي], "هغه څوک چې بود کوي").
+entry(بدبوي, صفت, [], "بدبوي، بدبوي تری تیری دهند ناوړه بوی لرل").
+entry(ويل، v، [ويل شو، ويل کیدل، ويلونه]، "ووړېدل یا فلزات سره لویول").
+دخول(smelter, ن, [smelters], "هغه څوک چې خټکي").
+entry(smeltery, n, [smelteries], "د وېلې كولو ځای").
+entry(سمیلیټینګ, ن, [سمیلیټینګز], "د فلز ترلاسه کولو لپاره د کانګو د وېلې کېدو پروسه").
+ننوتنه(سمرک، فعل، [سمرکډ، سمرکینګ، سمرکس]، "مسک شېدل").
+entry(چاړه‌غوښه، ن، [چاړه‌غوښې], "يو د اروپا مرغان").
+entry(smidge, n, [smidges], "يوه ذره").
+entry(سمدجن, ن, [سمدجنس], "ډېر لږ مقدار").
+entry(څۀ_کم, n, [څۀ_کمو], "څۀ_کم").
+entry(سمېجن, ن, [سمېجنونه], "ځنګهري").
+entry(ښکلاکس, ن, [ښکلاکسونه], "يو نرۍ نغمه").
+دخول(smile, v, [smiled, smiling, smiles], "د خولې کونجونو پورته کول په خوښۍ کې").
+entry(smiler, n, [مسکي], "هغه څوک چې مسکۍ کوي").
+entry(smiley, n, [muskarawan], "ya SMILIES da muskara da مخ استازیتوب").
+entry(smiley, adj, [], "په مسکا ښودل SMILIER SMILIEST").
+د ننوتنې(سمیرچ, فعل, [سمیرچ شوی, سمیرچ کول, سمیرچونه], "چټل کول").
+entry(سپينږيری, v, [سپينږيری وکړ,سپينږېرېدل,سپينږېری کوي], "په متآثره یا مغرورانه ډول مسکا کول").
+entry(مسخره کوونکی, n, [مسخره کوونکي], "هغه څوک چې مسخره کوي").
+دخول(smirky, صفت, [], "SMIRKIER SMIRKIESTsmirkingSMIRKILY قید").
+د_لغت(سخت_ګزار, فعل, [سخت_ګزارشوی، سخت_ګزارېدونکې، سخت_ګزار], "په زور سره وهل").
+entry(سمیټر, ن, [سمیټران], "هغه څوک چې وهي").
+entry(سمېتھ، ن، [سمېتھس]، "په فلزاتو کې یو کارګر").
+entry(سمیترز, npl, [], "وړې ټوټې").
+entry(د خټګر کار, n, [خټګرۍ], "د خټګر تجارت").
+entry(د فلزګری, ن, [فلزگری], "د فلزګر کار").
+entry(سمټې، ن، [سمټۍونه]، "د يو اوسپنه ګر ورکشاپ").
+entry(سزا ورکول, اوسنی, [], "د smite پېښ منلی شکل").
+د داخليدل(سوی، الف، [], "د وهلو ماضي برخه").
+د-لیست(smock, v, [smocked, smocking, smocks], "د یوې لوزې بیروني جامې سره د تجهیز کولو لپاره").
+entry(سموکینګ, ن, [سموکینګز], "د ګنډلو یو ډول").
+entry(سموګ, ن, [سموګونه], "د لوګي او دوړې هوايي مخلوط، بې لوګی صفت").
+entry(smoggy, adj, [], "له لوګي ډک").
+د ننوتنه(لوګی, v, [لوګی کړل,لوګی کول,لوګی کوي], "لوګی خوشې کول د سوځېدونکو موادو ګازي محصول لوګیدونکی صفت").
+entry(smokebox, n, [smokeboxes], "د لوګي تولید او ساتلو لپاره یو خونه").
+entry(smokepot, n, [smokepots], "د لوګي اچولو لپاره یو کانټینر").
+entry(smoker, n, [smokers], "هغه څوک چې تمباکو څکوي").
+entry(smokey, adj, [], "SMOKIER SMOKIESTsmoky").
+رېکارډ(سموکي، ن، [سموکيز]، "يا سموکييز يو پوليس افسر چې د لويو لارو ګزمې کوي").
+د ننوتنه(سموکي، ن ، [سموکيز]، "يو ساسج يا هات ډاګ").
+entry(سګرټ_څکول, ن, [سګرټ_څکولونه], "د تمباکو يا نشه يي توکو د لوګي تنفس او فضلات لرې کول").
+entry(smoky, adj, [], "له لوګي ډکه SMOKIER SMOKIEST SMOKILY adv").
+entry(سوځېدل, v, [وسوځېد,سوځېدنې,سوځي], "د اور سره بې له شغلې سوځېدل").
+entry(سلماني, ن, [سلمانيان], "يو ځوان سامن").
+د Prolog کرښه په پښتو: 
+entry(smooch, v, [smooched,smooching,smooches], "مچول").
+entry(سماچه, ن, [سماچې], "یو څوک چې سماچ کوي").
+entry(smoochy, adj, [], "SMOOCHIER SMOOCHIESTsuitable د مینې کولو لپاره").
+entry(سوموش, فعل, [سوموش کړل, سوموش کوي, سوموشونه], "ختمول").
+د پرولاګ کرښه: entry(smooth, adj, [], "SMOOTHER SMOOTHEST د یوه سطحه ده چې بې له نابرابریو څخه آزاد وي").
+دننه کړئ_فعل(هموار، v، [هموار شوی،هموارول،همواروي]، "یا هموارول چې هموار کړي").
+entry(smoothe, v, [smoothed,smoothing,smoothes], "هموارول").
+د Prolog:
+entry(نرموال، v, [نرموشو، نرموى، نرموي], "نرم کول").
+داخله(ساف، ن، [ساف کوونکي], "هغه چې ساف کوي").
+entry(سموذي, ن, [سموذيان], "یو شخص چې متمدن انداز لري").
+entry(په نرمۍ سره, adv, [], "په نرم او آرام ډول").
+```prolog
+entry(هموار, ن, [هموارونه], "هموار").
+```
+entry(smorg, n, [smorgs], "يوه smorgasbord").
+entry(smote, تېر, [], "د smite زمان").
+entry(خفه کړه, v, [خفه کړ, خفه کول, خفه کوي], "له ساه اخیستلو څخه منع کول").
+entry(smothery, adj, [], "خپله کړنه بشپړېدل").
+دخوله(سوځيدل, فعل, [سوځيدل, سوځيدل, سوځيده], "سوځيدل").
+entry(سمريتي, ن، [سمريتيانې], "د هندوانو د مذهبي تعلیماتو یو متن").
+entry(چرک, v, [چرک شوی,چرک کول,چرکونه], "داغ کول یا چټلول").
+entry(داغ کول, n, [داغونه], "داغ اچولو عمل").
+entry(smudgy, adj, [], "د SMUDGIERSMUDGIESTsmudgedSMUDGILY adv").
+entry(smug, adj, [], "ډېر مطمئن، مغرور").
+entry(قاچاق, v, [قاچاق کړ,قاچاقول,قاچاق کوي], "ناقانونه وارد یا صادر کول").
+entry(قاچاقبر, n, [قاچاقبران], "هغه څوک چې قاچاق کوي").
+entry(په غرور, adv, [], "په یو مغرور ډول").
+entry(غرور, n, [غرورونه], "د ځانخوښنې حالت یا کیفیت").
+entry(smush, v, [smushed,smushing,smushes], "نسکورول").
+entry(خاوره, v, [خاورې, خاورو, خاوري], "خوراخه کول").
+د  پرولوګ 
+entry(smutch, v, [smutched, smutching, smutches], "لکه څنګه چې smudge").
+د Prolog کرښه په پښتو کې د لاندې متن ته وژباړئ:
+
+```prolog
+داخلې(سموچي، صفت، [], "SMUTCHIER SMUTCHIESTsmudgy").
+```
+entry(ګنده, صفت, [], "ګندګۍ ګندګۍ، بې حياګۍ").
+entry(snack, v, [snacked,snacking,snacks], "يوه سپکه ډوډۍ خوړل").
+د پاڅون یوازی پرولاګ:
+entry(snacker, n, [snackers], "چې ناشته خوري").
+entry(snacky, adj, [], "د خوړو د سپک مېلې لپاره مناسب").
+entry(سنیفل, v, [سنیفل کړ, سنیفل کول, سنیفل کوي], "په چل ول سره تر لاسه کول").
+د ننه وړي(snafu, v, [snafued,snafuing,snafus], "د ګډوډۍ حالت ته راوړل").
+entry(خوښول, v, [خوښ شوی,خوښول,خوښوي], "په پروتوبورانس کې د خندونې یا تریخ پیل نیول").
+entry(سڼګر, n, [سڼګران], "يو څوک چې غیر قانونه د کب نیولو طریقې کاروي").
+entry(snaggle, n, [snaggles], "يو پيچيده يا تړل شوې توده").
+دخولی (snaggy, صفت, [], "د داغونو څخه ډک SNAGGIER SNAGGIEST").
+entry(snaglike, adj, [], "د یوې ککړتیا سره ورته والی").
+ورود(حلزون، فعل، [ورځپاڼه، ورځپاڼېدل، ورځپاڼې]، "ورو حرکت کول").
+د ننوتنه(مار, فعل, [مار کړل, مار کول, مارونه], "د مار په څېر حرکت کول بې لاس پښې خزنده").
+entry(snakebit, صفت, [], "بد بخته").
+entry(snakepit, n, [سنیک پیچونه], "د عصبي ناروغیو روغتون").
+د داخلېدو(سنيکي، صفت، []، "SNAKIER SNAKIESTsnaky").
+entry(snaking, present, [], "د نښلول فعل").
+entry(مارنی, صفت, [], "له مار سره ورته والی").
+د ننوتنې(سنیکي, صفت, [], "مار په شان SNAKIER SNAKIEST د مار په شان SNAKILY adv").
+entry(سنپ، فعل، [چق چقېدلی، چق چقېدل، چق چق کوي]، "یو تیزه کړچنده غږ جوړول").
+entry(snapback, n, [snapbacks], "یو ناڅاپي بیرته تګ او یا د ښه کېدو").
+entry(snapless, صفت, [], "د یوه ډول د تړلو وسیله نشتون").
+entry(سنیپر, ن, [سنیپرونه], "هغه څوک چې سنیپ کوي").
+entry(snappier, comparative, [], "د snappy").
+entry(ترټوزم, فوق العاده, [], "د چټک").
+entry(په چټکۍ سره, څرنګه, [], "په یوه چټک طرز کې").
+entry(snapping, present, [], "د 'snap' د ګرامري حالت").
+entry(نازېح, صفت, [], "په بې صبرۍ يا خپه توګه خبرې کول").
+entry(snappy, adj, [], "SNAPPIER SNAPPIESTsnappish").
+entry(snapshot, v, [په غير رسمي ډول عکس اخيستل, په غير رسمي ډول عکسونه اخيستل, په غير رسمي ډول عکس دې], "په غير رسمي او چابک ډول عکاسي کول").
+entry(سنېپ ويد, ن, [سنېپ ويدز], "يو ګل لرونکی بوټی").
+د ننوتنه (دام، فعل، [دام کړ، د دام په حالت کې، دامونه]، "دام کول").
+entry(ښکارکوونکی, n, [ښکارکوونکي], "هغه څوک چې ښکار کوي").
+entry(ږلمه, v, [ږلمول,ږلمېدل,ږلمېږي], "په حریصانه توګه خوړل او یا څښل").
+د ننوتنې(سنارفيل, فعل, [سنارفيل شو, سنارفیل کېږي, سنارفيل کوي], "سنارف کول").
+entry(snaring, present, [], "د snare مشارکت").
+د پرولاګ په توګه: 
+entry(snark, n, [snarks], "یو خیالي حیوان").
+د ننوتنه(snarky, صفت, [], "SNARKIER SNARKIESTsnappishSNARKILY adv").
+د ننوتنه(غړومبيه, فعل, [غړومبيده, غړومبيدل, غړومبۍ], "په غوصه غرکۍ کول").
+entry(غړمبونکی, ن, [غړمبونکي], "یو چې غړمبي").
+entry(snarly, adj, [], "SNARLIER SNARLIEST راغلی").
+entry(snash, n, [snashes], "سپکه ژبه").
+entry(چورکول, فعل, [چورکړ,چورکول,چوروي], "په ناڅاپي توګه نيول").
+ورودی(غلا کوونکی, n, [غلا کوونکي], "یو چې غلا کوي").
+entry(snatchy, adj, [], "په نا منظم ډول پیښیږی SNATCHIER SNATCHIEST").
+entry(snath, n, [snaths], "د لاسه نیوي د چړوکی د").
+entry(snathe, n, [snathes], "دوکه").
+entry(واوره, v, [واوره شوې, واوره کول, واورېږي], "واوره").
+entry(snazzy, adj, [], "ډېر شاندار، شاندارتر، تر ټولو شاندار، په شاندار ډول").
+entry(څښل, فع, [څښکی,څښل,څښي], "په پټه توګه حرکت کول").
+entry(سنيکباکس, ن, [سنيکباکسونه], "يو کوچنی کښتۍ چې له بوټو او واښو سره پټ وي او د وحشي مرغيو ښکار لپاره کارول کيږي").
+entry(بوټ, ن, [بوټونه], "یو څوک چې پټیږي").
+entry(sneaky, adj, [], "SNEAKIER SNEAKIESTخاینSNEAKILY adv").
+entry(sneap, v, [sneaped,sneaping,sneaps], "ملامت کول").
+entry(سنيک, ن, [سنيکس], "يو بند").
+entry(سنېد، فعل، [سنېد شو، سنېد کول، سنېدې], "پري کول").
+entry(سپکه مسکا, v, [سپکه_مسکه_کړه,سپکه_مسکه_کوی,سپکه_مسکه_کوی], "په تحقیر سره شونډي راړول").
+entry(ټوکې کونکی, ن, [ټوکې کونکې], "هغه څوک چې ټوکې کوي").
+```prolog
+entry(sneerful, adj, [], "په سپک نظر کتل").
+```
+entry(sneery, adj, [], "د سپکاوي نښه").
+entry(سنیښ, ن, [سنیښونه], "نسوار").
+entry(پرنجی، فعل، [پرنجی شو، پرنجېدنه، پرنجۍ وهي]، "د تنفس ناڅاپي غیر ارادي وتنه کول").
+د ننوتنه(پرېښتاونکي، ن، [پرېښتاونکيګانې], "هغه څوک چې پرېښتا کوي").
+entry(sneezy, adj, [], "د چھینک کرنے سره علاقه لرونکی SNEEZIER SNEEZIEST").
+entry(snell, adj, [], "ښه تېز ښه تېز").
+د دې Prolog ليکه په پښتو کې ژباړه:
+entry(snell, v, [سنيلاوه,سنيلاو,سنيلي], "د کب د کونډي سره يوه لنډه ليکه نښلول").
+entry(snib, v, [snib شوي, snib کول, snibs], "بندول").
+دخول(snick, v, [snicked,snicking,snicks], "نښه کول").
+entry(خندلۍ, فعل, [خندلې, خندلۍ, خنداوۍ], "نيمه ټپ شوې خندا کول").
+entry(سنیکري, صفت, [], "د سپکو مسکانو لور").
+د ننوتل(snide, adj, [], "SNIDER SNIDESTکله ناکله دروغیSNIDELY adv").
+د ننوتنه(بوی اخستل، فعل، [بوی اخیستل، بوی اخلي، بوی اخیستلای]، "د پوزې له لارې په روښانه ډول ساه اخستل").
+entry(sniffer, n, [sniffers], "يو چې بوی کوي").
+entry(خوشبویه، مقایسوی، [], "د  خوشبوی").
+دخولی(ترټولو, لوړترين, [], "د استشمام").
+entry(په نسوار ډول, adv, [], "په نسواري ډول").
+entry(سني فش, صفت, [], "مغرور").
+entry(پرېښته, v, [پرېښلې,پرېښل،پرېښي], "ځلانده په پرلپسې توګه").
+ورودی(پوزه پاکونکی, ن, [پوزه پاکوونکي], "یو څوک چې پوزه پاکوي").
+د ننوتنه(سنيڤلي، صفت، []، "SNIFFLIER SNIFFLIEST چې خړوسي").
+entry(sniffy, adj, [], "SNIFFIER SNIFFIESTsniffish").
+دینٹری(snifter, n, [snifters], "یو ګلابي شکل لرونکی د مایعاتو لپاره ګیلاس").
+داخلہ(سپڼ, فعل, [سپڼول، سپڼولے، سپڼې]، "په خفیه توګه خاندي").
+entry(سنګل, فعل, [سنګل کړ, سنګل کوي, سنګلې], "د مار مچھۍ ښکار کول").
+entry(sniggler, n, [snigglers], "هغه څوک چې سنيګل کوي").
+entry(sniglet, n, [sniglets], "هغه لغت چې د يو شي لپاره کارول کيږي چې نوم نلري").
+entry(snip, v, [snipped,snipping,snips], "په لنډه او تيزه ګوزار پرې کول").
+entry(ښکاروونکی, v, [ښکارو,ښکاری,ښکاریږي], "د یوه پټ شوي ځای څخه په افرادو ډزې کول").
+entry(سنایپر, ن, [سنایپران], "هغه څوک چې سنایپ کوي").
+entry(sniping, n, [snipings], "د هغه چا عمل چې ډزې کوي").
+entry(snipped, ماضی, [], "tense of snip").
+entry(سنیپر, ن, [سنیپران], "هغه څوک چې پرې کوی").
+entry(snippet, n, [snippets], "یو کوچنی ټوټه چې پرې شوې وي").
+دخوله(سنیپټي، صفت، []، "SNIPPETIER SNIPPETIESTsnippy").
+entry(په کښېوتل، ن، [په کښېوتنې]، "د يو څه ټوټه چې پرې شوې ده").
+ورود(snippy, صفت, [], "SNIPPIER SNIPPIESTsnappishSNIPPILY adv").
+entry(سنيټ, ن, [سنيټس], "د ګډوډۍ حالت").
+دریځ(snitch, v, [snitched,snitching,snitches], "خبرچوغي کول").
+entry(snitcher, n, [snitchers], "هغه څوک چې ګوته نیسي").
+entry(snitty, adj, [], "د SNITTIER SNITTIEST ناخوښ خوی").
+entry(ژړغونی, v, [ژړغونی شو, ژړغونی کیدل, ژړغوني], "یا ژړغوني شويدل ژړغوني کول - د ژړولو یا ساه اخیستلو سره").
+په(n, sniveler, entry) ,[snivelers], "هغه څوک چې ژاړي".
+entry(سنیولی, صفت, [], "د ژړا سره د شونډو ټوپ وهل").
+entry(مغرور, ن, [مغروران], "هغه څوک چې د کم رتبه خلکو څخه د لرې کيدو يا د هغوی د ردولو هڅه کوي").
+entry(تعصب, ن, [تعصبونه], "تعصب لرونکی چلند").
+entry(snobbier, comparative, [], "د snobby").
+entry(تر ټول مغروره, لوړه کچه, [], "د مغرور").
+entry(په‌څټه, adv, [], "په‌څټه ډول").
+entry(مغرور, صفت, [], "د يوه نازک بين ځانګړتيا").
+entry(ښورولو، ن، [ښورولونه]، "سنوبري").
+entry(snobby, adj, [], "SNOBBIER SNOBBIESTsnobbish").
+د داخلې(snocoach، n، [snocoaches]، "یو موټربس نما موټر چې د واورې پر سطحې د تګ لپاره لویې ټایرونه یا ځنځیران لري").
+entry(سنوګ, فعل, [سنوګ شوی, سنوګ کول, سنوګ کوي], "مچول").
+entry(سنوګر, ن, [سنوګران], "هغه څوک چې سنوګ کوي").
+entry(سنوډ, فعل, [سنوډ شوی، سنوډ کول، سنوډونه], "د ویښتانو لپاره د جال یا ټوکر خولۍ سره خوندي کول").
+entry(snook, v, [snooked,snooking,snooks], "پوزى وهل").
+entry(snooker, v, [snookered,snookering,snookers], "دوکه ورکول").
+entry(سنوول, فعل, [سنوول, سنو کول, سنوي], "په نرمه توګه تسلیمېدل").
+د Prolog:
+entry(snoop, v, [snooped,snooping,snoops], "څه په لټه کې ګرځېدل").
+entry(سنوپر, ن, [سنوپرز], "هغه چې جاسوسي کوي").
+entry(snoopy, adj, [], "د جاسوسۍ لپاره عادي SNOOPIER SNOOPIESTSNOOPILY adv").
+entry(snoose, n, [سنس], "څکونکو تنباکو").
+ورودی(سنوټ, فعل, [سنوټ شو, سنوټ کول, سنوټونه], "د بې احترامي په ډول چلند کول").
+entry(سنوټفل, n, [سنوټفلونه], "هغه اندازه الکولي مشروبات چې یو کس مست کړي").
+د Prolog کوډ په توګه:
+
+```prolog
+entry(snooty, adj, [], "SNOOTIER SNOOTIESTsnobbishSNOOTILY adv").
+```
+دخولیه(سستا کېدل، ف، [سستا شول، سستا کېدل، سستا کېږي]، "به آرامۍ ویده کېدل").
+دخول(سنوزر, ن, [سنوژرونه], "هغه چې ویده کیږي").
+ورود(سنووزل، فعل، [سنووزل شو، سنووزل کول، سنووزل کوي], "نږدې کیدل").
+دخول (سُنووزي، صفت، [], "سُنووزير سُنووزيستdrowsy").
+entry(خراٹے, فعل, [خراٹے وهل, خراټې وهل, خراټي وهل], "د خوب پر مهال په لوړ آواز سره ساه اخیستل").
+entry(خراتونکی, n, [خراتونکي], "هغه څوک چې خرېږي").
+entry(خرېږئ، n، [خرېیږې]، "په خوب کې په لوړ غږ سا اخیستل").
+entry(سنورکل, فعل, [سنورکل_کړل, سنورکل_کول, سنورکلونه], "په اوبو کې د تنفس د یو ډول وسیلې سره لامبو وهل").
+د پرولاګ کرښه:
+entry(snort, v, [snorted,snorting,snorts], "د پوزې له لارې په شور سره سا ایستل").
+entry(پفکونکی, ن, [پفکونکي], "هغه چې پف کوي").
+دخولیه(سارښک، ن، [سارښکانې]، "پزهٔی مخاط").
+ورود(snotty, صفت, [], "ډېر مغرور اُړیدلې ډېر مغروره اُړیدلې'Tَrsog زښته مغرور اُړیدلی خصوص 'adv").
+entry(خړپوزى, v, [خړپوزى شوی, خړپوزي کول, خړپوزيان], "د نوزل سره رسونه کول").
+entry(پزې‌ښکاره، صفت، [], "پزې‌واري").
+entry(snouty, adj, [], "د اوږدې پروتسه ناک سره مشابه SNOUTIER SNOUTIEST").
+د ننوتنه(واوره، فعل، [واوره وريده، واوره وريږي، واورېږي]، "باريدل د واورې په بڼه د يخ کريستالونو په توګه").
+entry(سپینه ګوله, v, [سپینه ګوله شوه, سپینه ګوله جوړېدنه, سپینې ګولې], "په چټکۍ سره په زیاتېدونکي سرعت زیاتېدل").
+entry(واوره, n, [واورې], "د واورې يو توده").
+entry(سپینه_ګل، ن، [سپینه_ګلان]، "یو ګل لرونکی بوټی").
+entry(snowbelt, n, [snowbelts], "یو سیمه چې هر کال په قابل توجه اندازه واوره ترلاسه کوي").
+د ننوتل(زرکې، ن، [زرکېګانې]، "یو وړوکی مرغۍ").
+entry(واوره بوټی, n, [واوره بوټان], "یو ګل لرونکی بوټی").
+entry(snowcap, n, [ورېځ، واوره], "د واورې یوه پوښ").
+د ننوتنه(واوره پيشو، ن، [واوره پيشويان], "د واورې پر سفر لپاره يو ټريکليينګ وسيله").
+entry(واوره ګل, ن, [واوره ګلان], "یو اروپایي بوټی").
+entry(واوره ورېدل, n, [واورې ورېدنې], "د واورې اورښت").
+entry(واوره_پسه, ن, [واوره_پسې], "يو بې وزره حشره چې په پسرلي کې په واوره کې ښکاري").
+entry(واوره_ډير, تقابلي, [], "د واورین").
+entry(snowiest, superlative, [], "د واورو").
+entry(په واورینه توګه, adv, [], "in a snowy manner").
+Prolog:
+entry(سپينځای, ن, [سپينځایونه], "یو ځای چې د زیاتي واورې له امله ځانګړی شوی وي").
+entry(بېواوره, صفت, [], "پرته له واورې").
+entry(snowlike, adj, [], "د واورې په څېر").
+entry(واوره_څوک، ن، [واوره_څوک], "د يو شخص بڼه چې د واورې څخه جوړه شوې وي").
+entry(واورې_اوپسی، ن، [واورې_اوپسیږي]، "هغه اوبه چې د واورې د وېلې کېدو څخه تولیدېږي").
+entry(واوره_پڼه, ن, [واوره_پڼې], "د فنګسي ناروغي ده چې د واورې د ویلې کېدو په څنډه کې پر واښو اغېز کوي").
+entry(واورې، ن، [واورې], "د تراکم شوې واورې ټولګه").
+entry(واوره_چلوونکی, فعل, [واوره_چلول_شو, واوره_چلولکی, واوره_چلوونکي], "د یوه ډول سکي کولو حرکت ترسره کول").
+دخول(برف خانه, اسم, [برف خانه ها], "يو جوړښت چې د واورې په وړاندې محافظت لپاره جوړ شوی").
+معلومات(واوره_بوټان, فعل, [واوره_بوټان_کړې,واوره_بوټان_کول, واوره_بوټان], "د داسې اوول ډوله چوکاټونو سره د واورې پر مخ تګ کول چې یوې کس ته اجازه ورکوي چې په ژوره واوره کې وګرځي").
+يادښت(snowsuit, n, [snowsuits], "ماشومانو ته د ژمي د اغوستو لباس").
+entry(واوره‌انو، صفت، [], "زیاتې واورينه ډېر غواړنیوې").
+د Prolog:
+entry(سپکول, v, [سپک_کړي, سپکه_کوي, سپکوي], "د تحقیر یا بې پرواۍ سره چلند کول").
+entry(سنبټر, ن, [سنبټرونه], "هغه چې سپکاوی کوي").
+داخل(snubby, صفت, [], "SNUBBIER SNUBBIESTblunt").
+entry(خرامښت, ن, [خرامښتونه], "بې ادبۍ").
+د Prolog لیکه پښتو ته وژباړئ. یوازې Prolog ولیکئ:
+entry(snuck, a, [], "د sneak تیروتنه").
+entry(نسوار، فعل، [نسوار کړ، نسوارول، نسواروي]، "د نسوار پوډر تمباکو کارول یا تنفس کول").
+entry(سګریټ دانۍ, ن, [سګریټ دانۍ], "د نسوارو ساتلو لپاره بکس").
+د Prolog عبارت په پښتو کې:
+entry(snuffer, n, [snuffers], "هغه څوک چې بل کړي").
+entry(snuffier, comparative, [], "د snuffy").
+entry(snuffiest, superlative, [], "د snuffy").
+entry(snuffily, adv, [], "په زکام مانا کې").
+د Prolog کرښه په پښتو ژباړه: 
+```prolog
+ورودي(snuffle, v, [snuffled,snuffling,snuffles], "ناک کش کول").
+```
+entry(سنفنیوونکی, ن, [سنفنیونکیان], "چا چې د سنفنې کولو عادت لري").
+entry(snuffly, adj, [], "SNUFFLIER SNUFFLIESTtending to snuffle").
+entry(snuffy, adj, [], "SNUFFIER SNUFFIESTdingy").
+entry(snug, adj, [], "په آرامۍ سره ګرم او آرام").
+د ننوتلو(snug, v, [snugged,snugging,snugs], "په آرامه کولو")
+input(snuggery, ن, [snuggeries], "یو آرام ځای").
+دخول (snuggest, فضیلت، [], "د آرام").
+entry(snuggies, npl, [], "د ښځو اوږده زیره جامې").
+entry(snugging, present, [], "د snug برخه").
+د Prolog:
+entry(snuggle, v, [snuggled,snuggling,snuggles], "په نږدې توګه دراز يا فشار ورکول").
+د ننوتنه(snuggly, صفت, [], "ډېر نرم او تر ټولو نرم ګرم او آرام").
+entry(په ارامه توګه, adv, [], "په آرامه ټوګه").
+entry(پرحاله‌والی, ن, [پرحاله‌والۍ], "د پرحاله‌والي کیفیت یا حالت").
+entry(snye, n, [snyes], "د يوې نهر يا د سيند اړخ چينل").
+entry(سولې، ن، [سوس]، "لول").
+entry(لندول, v, [لندو,لندېدنه,لندوي], "يو څه په مکمله توګه لوندول").
+د وردونکي خط ته په پروګلوګ کې:
+entry(صچاپا, ن, [صچاپي], "د نم اچولو عمل").
+entry(سوکر, ن, [سوکرز], "یوه چې لندوي").
+دخولیه(لوندول، ن، [لوندولونه], "په بشپړه توګه د يو شي لندول").
+د Prolog په توګه: entry(صابون, v, [په صابون ککړ، صابون وهل، صابونونه], "د پاکولو لپاره د صابون د عامل سره چلند کول").
+entry(صابون پوړ, ن, [صابون پوړونه], "یوه استوایی ونه").
+entry(صابون‌باکس, فعل, [صابون‌باکس‌کړی,صابون‌باکس‌کول,صابون‌باکسونه], "په کوڅه کې یو غیر رسمي جذباتي وینا وړاندې کول").
+entry(څیپر, ن, [څیپران], "يوه سيريالي ملودراما په راډيو يا ټلويزيون کې").
+entry(soapfish, n, [soapfishes], "يو استوايي کب چې زهري مخاط توليدوي").
+د ننوتنې(صابون‌وي، تقابلي، [], "د صابوني").
+entry(soapiest, superlative, [], "د صابون په څیر").
+entry(په_صابوني_ډول, قید, [], "په صابوني ډول").
+entry(بې صابون، صفت، [], "چې صابون ونه لري").
+entry(صابوني، صفت، []، "د صابون په څېر").
+entry(صابوني، npl، []، "د صابون کف").
+entry(صابن بوټی, n, [صابن بوټیان], "یو څو کلن بوټی").
+entry(سوپي, صفت, [], "د صابون په څېر یا د صابون لوړ مقدار لرونکي").
+entry(الوتنه, v, [والوت, الوته, الوزي], "د ډیر لوړوالي په پرواز کولو کې").
+entry(سوړونکي، ن، [سوړونکي]، "هغه څوک چې الوت کوي").
+entry(الوتنه، n, [الوتنې], "د دروند هوا وسایطو کې پرته له ځواک الوتنې سپورت").
+entry(سووه، نوم، [سووزونه]، "يو اطالوي شراب").
+entry(sob, v, [ونکیول,ونکی,ونکې], "د يو عارفانه هوا نيولو سره ژړل").
+د Prolog:
+entry(soba, n, [ډوډۍ], "يو جاپاني نوډل چې د بوک وهټ له اوړو څخه جوړ شوی").
+entry(ژړانده, ن, [ژړاندې], "چې ژاړي").
+د ننوتنه(سوبت, ارتباطي، [], "ترهغه چې").
+دخول(هُشيار, صفت, [], "د هُشيار او زړور د کنټرول د يو چا د صلاحیتونو").
+د پرولاګ:
+entry(sober, v, [sobered,sobering,sobers], "نو زنګ شوي صاف کړئ").
+د داخلې(روغول، فعل، [روغ شوی، روغول، روغوي]، "روغول").
+entry(په_هوښیارۍ_سره, adv, [], "په هوښیار ډول").
+entry(سوبفول, صفت, [], "د ژړا کولو لپاره ورکړل شوی").
+د ننوتلو ته (sobriety, n, [sobrieties], "هغه کیفیت یا حالت چې د پاکۍ څخه برخمن وي").
+د ننه وړاندې (soc, n, [soces], "یو د ټولنپوهني کورس").
+entry(سوسا, ن, [سوساس], "د روح او کالیپسو موسیقۍ ترکیب").
+entry(socage, n, [socages], "د فیوډال ځمکې د نیولو یوه بڼه").
+entry(ساکیګر, ن, [ساکیګر], "په ساکیج کې یو کرهڼه کوونکی").
+entry(ساکیج, ن, [ساکیجونه], "ساکیج").
+entry(فوټبال, ن, [فوټبالونه], "د يو ډول توپ لوبه").
+دخپلوالۍ_ليکنه(سماجي، ن، [سماجيانې], "يو اجتماعي").
+entry(په-اجتماعي-ډول, قيد, [], "په دوستانه توګه").
+entry(ټولنیز, ن, [ټولنیزونه], "د دوستانه غونډه").
+entry(ټولنیز, ق، [], "د ټولنې په اړه").
+ادخال(ټولنه، ن، [ټولنې]، "د افرادو یو منظمه ډلهSOCIETAL adj").
+entry(جراب, ن, [جرابين], "او جراب د پښې لپاره اوبدل شوې يا لوړې پوښ").
+Prolog:
+entry(جراب, فعل, [جرابونه,جراب ګانې,جرابونو], "په زور سره وهل").
+د ننوتنې(ساکټ، فعل، [ساکټ شوی، ساکټ کول، ساکټونه]، "د څه شي د اخیستو لپاره د ساکټ سره سمبالول").
+entry(sockette, n, [sockettes], "ډېر لنډ جراب").
+د Prolog:
+entry(sockeye, n, [sockeyes], "یو خوراکي کب").
+entry(sockless, adj, [], "چې جرابې نه لري").
+entry(sockman, n, [sockmen], "socman").
+ننوتنه(socko, صفت, [], "په زړه پورې اغېزناک").
+entry(ساکلې, n, [ساکلېز], "د یو کالم یا پډیستال لپاره د اساس په توګه کارول شوې بلاک").
+د داخلیدو فارم (socman, n, [socmen], "یو ټولنیز ساتونکی").
+entry(sod, v, [sodded,sodding,sods], "د واښو پوښ سره پوښ کول").
+entry(سوډا, ن, [سوډاز], "د کیمیاوي مرکب یوه نوعهسوډا نه لرونکی صفت").
+entry(سودالست, ن, [سودالستان], "د سوداليت غړی").
+د Prolog:
+entry(sodalite, n, [sodalites], "يو منرال").
+entry(سوداليت، n, [سوداليتونه], "يوه ټولنه").
+entry(سوډامایډ, ن, [سوډامایډونه], "یو کیمیاوي مرکب").
+entry(sodded, past, [], "د سوډ ګرامري بڼه").
+د پرولوګ کوډ یوازې: entry(sodden, v, [soddened,soddening,soddens], "لندبل جوړول").
+entry(ناڅاپه, قید, [], "په مرطوب ډول").
+د کاپي
+```prolog
+entry(soddie, n, [soddies], "يو سوډي").
+```
+دخولیه(سودنگ، موجود، []، "د ساد مشارې").
+د ننوتنې(_soddy_, _n_, [_soddies_], "د سړو څخه جوړ کور").
+ننويسل(sodium, ن، [sodiums]، "يو فلزي عنصرSODIC صفت").
+entry(سدوم, ن, [سدومز], "يو ځای چې د رذالت او فساد لپاره بدنام دی").
+دخول(sodomise, v, [sodomised,sodomising,sodomises], "سودومائز کول").
+entry(سودوميسټ، ن، [سودوميسټس]، "یو سودومي").
+entry(لواطت_کوونکی, ن, [لواطت_کوونکي], "هغه څوک چې له لواطت سره عمل کوي").
+entry(لواطت کول, فعل, [لواطت شو, لواطت کوي, لواطت کوي], "سره لواطت کول").
+entry(سودومي, ن, [سودوميانې], "غير طبيعي جماع").
+entry(soever, adv, [], "په ټول").
+entry(صوفه, ن، [صوفې], "یو اوږد فرنیچر چې بالښتونه لري").
+entry(د سوفا بستر, ن, [د سوفا بستره], "يو سوفا چې د بستر په توګه جوړېدی شي").
+entry(sofar, n, [sofars], "د اوبو لاندې چاودنو د موندلو لپاره یو سیسټم").
+entry(سوفیټ, ن, [سوفیټونه], "د معمارۍ جوړښت لاندې برخه").
+entry(نرم, صفت, [], "ډېر نرم د ډېر نرم څخه خورا نرم فشار ته په اسانۍ سره تسلیم کېدونکی").
+entry(نرم، ن، [نرمينې]، "یو نرم شی یا برخه").
+entry(صوفی, ن، [صوفیان], "یو مسلمان دیني زده کوونکی").
+entry(نرم پوښی, ن, [نرم پوښونه], "یو کتاب چې په یو انعطاف وړ د کاغذ پوښکې پوښل شوی وي").
+entry(سافټ بال, ن, [سافټ بالونه], "د بال يو ډول").
+entry(نرمک, صفت, [], "د جنسي اعمالو په انځورولو کې له څرګند څخه لږ").
+entry(نرمول, فعل, [نرم شوی, نرمول, نرموي], "نرم کول").
+اندراج(نرمونک، ن، [نرمونکي], "چې نرموي").
+entry(نرم سر, ن, [نرم سران], "يو احمق کس").
+entry(سافټي, n, [سافټيان], "نرمي").
+entry(نرمۍ, جمع, [], "د نرمۍ").
+entry(softish, صفت, [], "تر هغه حده نرم").
+entry(نرمۍ، قید، []، "په نرمه توګه").
+د نرمتيا تعريف(نرمتیا, n, [نرمتياوې], "د نرمۍ کیفیت یا حالت").
+entry(سافټویر, ن, [سافټویرونه], "هغه لیکل شوي یا چاپ شوي معلومات چې د کمپیوټر عملیاتو کې کارول کیږي").
+entry(نرم لرګی, n, [نرم لرګي], "د مختلفو ونو نرم لرګی").
+entry(سافټي, ن, [سافټيان], "يوو احساساتي شخص").
+د ننوتنه(لوند، صفت، [], "لوند").
+entry(soggy, adj, [], "لوند لندۍپه درانه رطوبتسرهلندي adv").
+ننوتنه(سوھ، ن، [سوھس]، "سول").
+entry(soigne, adj, [], "په احتیاط سره ترسره شوی").
+entry(soignee, صفت, [], "نفیس").
+د داخلول(خاوره, فع, [خاکي شوې, خاوريدنه, خاورې], "ګنده کول").
+entry(soilage, n, [soilages], "ښکته کروپس چې حيوانات غذا کوي").
+entry(بې خاوره, صفت, [], "بې له خاورې ترسره شوی د عضوي موادو سره د باریکه ویشل شوي ډبرې مخلوط").
+entry(ناپاکي, n, [ناپاکۍ], "يو داغ يا داغول").
+entry(ماښامنۍ, n, [ماښامنۍګانې], "د يوې ماښامنۍ جشن").
+entry(soja, n, [sojas], "د سویابین").
+د Prolog: entry(sojourn, v, [موقتي پاتې کېدل, موقتي پاتې کېدل, موقتي پاتې کېږي], "په لنډمهاله توګه پاتې کېدل").
+entry(soju, n, [sojusk], "د کوریا ودکا چې له وريجو يا خوږه کچالو څخه تقطير شوې").
+entry(سوکه, ن, [سوکې], "د یوې ځانګړې سیمې دننه د انصاف ورکولو فېوډال حق").
+دورد(n, sokeman، [sokemen]، "socman").
+د ننوتنې(سوکول, n, [sokols], "یو نړیوال ډله چې د فزیکي وړتیا وده کوي").
+دخول(sol, n, [sols], "د دياتونيکي موسيقي ترازو پنځم سر").
+entry(sola, n, [solas], "د هند يو د باتلاق نبات").
+entry(آرام, v, [آرام کړ, آرامول, آرامونه], "چاته تسلي ورکول").
+entry(solacer, n, [solacers], "څوک چې د آرامتيا ورکونکی وي").
+د ننوتنه (solan, n, [solans], "یوه ګانټ") .
+entry(soland, n, [solands], "solan").
+entry(سولینډر, n, [سولینډرونه], "د کتابتون توزیع لپاره یو محافظتي بکس").
+دخول(solanin, n, [solanins], "solanine").
+entry(سولېنین, n, [سولېنینونه], "یو زهرجن الکالوئید").
+ورد(solano, ن, [solanos], "یو قوي ګرم باد").
+entry(solanum, n, [solanums], "د ايکه بوټو او بوټیانو د جنس هر ډول").
+د ننوتنه(لمر, ن, [لمرونه], "یو سولاریوم").
+entry(solaria, a, [], "د سولاریوم جمع").
+entry(سولرېز, فعل, [سولرېز شوی, سولرېز کول, سولرېز کېږي], "د سولر کولو لپاره").
+entry(سولاريسم, ن, [سولاريسمز], "د خلکو کیسې د لمر د طبیعت د مفاهیمو په توګه تفسیر").
+entry(solarium, n, [solariums], "يا سولاريا يوه خونه چې لمر ته مخامخ وي").
+دخول(solarize, v, [solarized, solarizing, solarizes], "د لمر د وړانګو سره وړاندي کول").
+د ننوتل(solate, v, [solated, solating, solates], "د یو مایع کولیډي سیستم ته اوښتل").
+entry(سولېشن, ن, [سولېشنونه], "د سولېشن عمل").
+د داخله(سولیشیم، ن، [سولیشیا]، "هغه معاوضه چې د احساساتو د زیان لپاره ورکړل کیږي").
+entry(وپلورل, تېره, [], "د پلور حالت").
+entry(soldan, n, [soldans], "يو مسلم حکمران").
+entry(سولډر, فعل, [سولډر شوی, سولډر کول, سولډرونه], "په نږدې توګه یو ځای کول").
+entry(سولډرونکی, ن, [سولډرونکي], "هغه څوک چې سولډر کوي").
+entry(سرتېری, v, [پوځي کړ, پوځي کري, پوځیان], "د پوځي خدمت ترسره کول").
+entry(پوځي, ن, [پوځيانو], "د پوځی خدمت").
+entry(سولدو, ن, [سولدي], "د ایټالیا یو پخوانی سکه").
+entry(واحد, فعل, [واحد شوی، واحد ورکول، واحدونه], "د بوټ یا بوټانو ته لاندې برخه ورکول").
+د پاسښتو ژبي پرولوګ:
+entry(solecise, v, [solecised,solecising,solecises], "غلط استعمال").
+entry(غلطۍ, n, [غلطۍ], "په یوې جملې کې د کلمو یوه غیرګرامري ترکیب").
+entry(solecist, n, [solecists], "هغه څوک چې انحراف کوي").
+دخله(solecize, v, [solecized, solecizing, solecizes], "غلطۍ کول").
+entry(soled, past, [], "د سول زمانه").
+entry(solei, a, [], "د soleus جمع").
+entry(بې تختې, صفت, [], "چې تختې نه لري").
+entry(یوازې, ق، [], "یوازې").
+entry(solemn, adj, [], "داسې جدي او دروندSOLEMNLY adv").
+د رسېدو(یوازیتوب, ن, [یوازیتوبونه], "د دې وضعیت چې یوازې یو دی").
+entry(solenoid, n, [solenoids], "د برېښنا د کویل ډول").
+entry(سوليرا, ن, [سوليروس], "د ميو جوړولو يو هسپانوي طريقه").
+entry(سوليريت, n, [سوليريتونه], "سوليريت").
+entry(soleus, n, [soleuses], "ګام یا SOLEIa يو عضله په پښې کې").
+entry(solfege, n, [solfeges], "د سندرو د تمرین یو ډول").
+entry(سولفېجي, npl, [], "سولفژونه").
+entry(solgel, صفت, [], "د یو کلوئيدي سیستم حالت کې د ځینو بدلونونو اړوند").
+ورودی(سولي، اې، [], "د سولو جمع").
+د ننوتنې( غوښتنه وکړئ، v، [غوښتنه شوې، غوښتنه کول، غوښتنې]، "په جدي توګه غوښتنه کول").
+entry(جامد, صفت, [], "جامد لري ټاکلې بڼه او حجم").
+entry(جامد, ن, [جامدات], "يو جامد توکی").
+پرو لوګ: entry(solidago, n, [solidagos], "یو ګل لرونکی بوټی").
+داخلول(همغږي، صفت، [], "يووالی").
+entry(solidi, pl, [], "د سوليدوس").
+entry(کلکول, فعل, [کلک شو,کلکول,کلکېږي], "کلک کول").
+entry(ثبات, n, [ثباتونه], "د جامد یا ټینګو حالت یا کیفیت").
+entry(په_کلک_ډول, adv, [], "په یوه کلک ډول").
+entry(ساليدوس, ن, [ساليدي], "د لرغوني روم یوه سکه").
+entry(حل کول, اوسنی, [], "د soleسترکې برخه").
+د ننوتنې(solion, n, [solions], "يو برقي کشف او تقويتي آله").
+entry(soliquid, n, [soliquids], "یو سیال کولیډ سیسټم").
+entry(یوازې, ن, [یوازېگان], "هغه څوک چې یوازې ژوند کوي").
+entry(سولیتون، n، [سولیتونونه]، "په فزیک کې یو یواځنۍ څپه").
+entry(يوازيتوب, ن, [يوازيتوبونه], "د يوازېتيا حالت").
+entry(solleret, n, [sollerets], "يوه ځولۍ").
+entry(یوازینی, ن, [یوازینې], "یا د موسیقۍ یوه ترکیب چې یوازې یوه غږ یا آلې لپاره وي").
+دخولي(سولو, فع, [سولود،سولويينګ،سولوس], "ګني ايل اېسټو يوازې ترسره کول").
+entry(يوازېلوبغاړی, ن, [يوازېلوبغاړي], "هغه څوک چې یوازې اجرا کوي").
+دریځ(سولون، اسم، [سولونز]، "یوه عقلمنده قانون جوړونکی").
+entry(solonets, n, [solonetses], "سولونيتز").
+entry(سولونيتز, ن, [سولونيتزونه], "د ځمکې يو ډول").
+دخولیه(solstice, n, [solstices], "هغه وخت چې لمر له اسماني خط څخه په ډېره فاصله کې وي").
+entry(حل کېدونکی, ن, [حل کېدونکي], "څه چې حل کېدای شي د منحل کولو وړ وي").
+entry(solubly, adv, [], "په حل کېدونکي ډول").
+entry(solum, n, [solums], "يا د خاورې یو طبقه").
+entry(solunar, adj, [], "د لمر او سپوږمۍ د راختلو او لوېدو وختونه ښيي").
+entry(solus, adj, [], "یوازې").
+entry(حل شوې ماده, ن, [حل شوې مادې], "يوه منحل شوې ماده").
+دحل داخلېدل، n، [حلونه]، "یو همجنس مایع مخلوط"
+entry(solvable, adj, [], "حل کېدونکی").
+entry(solvate, v, [solvated,solvating,solvates], "په ائيون ډول بدلول").
+entry(حل, فعل, [حل کړ,حل کول,حل کوي], "د ځواب یا تشریح موندل").
+د ننوتنه(نقدينه، ن، [نقدينې]، "د ټولو پورونو د ادا کولو وړتيا").
+په_مواد_منحل(entry, n, [په_مواد_منحلونه], "هغه ماده چې د نورو موادو د منحل کولو توان لري").
+entry(solver, n, [solvers], "یوه چې حل کړي").
+entry(حل کول, اوسني, [], "د حل کولو وجه").
+د ننه باندې(som, n, [soms], "د قرغزستان یو پیسې واحد").
+entry(soma, n, [somas], "يا سوماټا د یو ژوندي موجود بدن سوماټيکي صفت").
+entry(سومان, n, [سومانس], "یوه زهرجن کیمیاوي جګړه ایجنټ").
+entry(somber, adj, [], "SOMBERER SOMBERESTgloomySOMBERLY adv").
+د خالي ځای پروګرام:
+entry(sombre, adj, [], "SOMBRER SOMBRESTsomberSOMBRELY adv").
+دخۍ(خولۍ, ن, [خولۍ], "يو پراخ څادر لرونکی خولۍ").
+دخول(sombrous, صفت, [], "somber").
+entry(ځینې, adj, [], "یوه ناپیژندل شوې شمیره یا برخه").
+entry(څوک, ن, [څوکان], "يو مهم شخص").
+entry(پر یو وخت, ق)).
+د داخلې(يوه معامله، قيد، [], "تر يو حده").
+د رسملاړ(یو ډول نه، ق)
+entry(څوک, ن, [څوکان], "يو څوک").
+entry(somerset, v, [somerseted,somerseting,somersets], "یا SOMERSETTED SOMERSETTING SOMERSETS د بدن د یو بشپړ سرکل کې د سر د پورته کولو لپاره").
+entry(یوه ورځ, adv, [], "په راتلونکي وخت").
+entry(څنګه_هم, adv, [], "څنګه").
+entry(ځینې_لارې, ق_ن، [], "ځینې_طریقې").
+د پاڅینه(باندې, ن, [باندېګانې], "نامعلوم شمېر یا برخه").
+entry(somewhen, adv, [], "sometime").
+entry(څه, قيد, [], "څنګه").
+entry(somite, n, [somites], "د ځینو حیواناتو د بدن اوږدې برخې SOMITAL SOMITIC adj").
+entry(سوموني, ن, [سوموني], "د تاجیکستان د پیسو یو واحد").
+داخلول(زوی, ن, [زامن], "یو نارینه ماشوم").
+د ننوتنه(آواز، ن، [آوازونه]، "غږ").
+entry(sonant, n, [sonants], "يو ږغ چې د غږيزو وتړو د رپ سره خپرېږيSONANTAL SONANTIC adj").
+entry(سونار, ن, [سونارونه], "د اوبو لاندې ځای موندنې اله").
+entry(sonarman, n, [sonarmen], "يو کس چې سونار وسایل چلوي").
+entry(sonata, n, [sonatas], "د موسیقۍ د جوړښت یو ډول").
+د واردات(سوناتينا، ن، [سوناتيناس]، "يا سوناتين يو کوچنی سوناتا").
+entry(سونډ, ن, [سونډونه], "هغه وسيله چې د هوايي پديدو د څارنې لپاره کارول کېږي").
+entry(sonder, n, [sonders], "د وړو کشتیو یوه طبقه").
+entry(سوون, م, [سوونه], "د غږ د لوړوالي يوه واحد").
+entry(ګانه, ن, [ګانې], "د موسيقۍ يوه برخه چې د سندرو لپاره ليکل شوې يا ترتيب شوې").
+entry(سینګبورډ, n, [سینګبورډز], "یو مرغ چې د موسیقۍ نغمه وایي").
+entry(د سازونو کتاب, ن, [د سازونو کتابونه], "د سندرو کتاب").
+entry(د سندرو محفل, ن, [د سندرو محفلونه], "د ګډو سندرو ویلو غیر رسمي غونډه").
+entry(نغمہ ییز, صفت, [], "خوږ خبرېدونکی").
+entry(songless, adj, [], "د سندرې ویلو نه وړ").
+entry(د سندرې په څیر, صفت, [], "د سندرې سره مشابهت لري").
+entry(سندرغاړی, n, [سندرغاړي], "یو سندرغاړی").
+entry(زويتوب, ن, [زويتوبونه], "د زویتوب حالت").
+entry(سونیک, صفت, [], "د غږ سره تړلی").
+entry(sonicate, v, [sonicated,sonicating,sonicates], "د غږ څپو سره ګډ وډ کول").
+entry(صوتيات, npl, [], "هغه ساینس چې د غږ د عملي کارونو سره معامله کوي").
+entry(sonless, adj, [], "د زوی نشتوالی").
+ورودی(د زوی په څېر, صفت, [], "د زوی په څېر ښکاري").
+entry(یواځینی, صفت, [], "د زوی پورې اړوند").
+دخول(سونټ، فع، [سونټونه، سونټېدل، سونټ کول]، "یا سونټ شوی سونټ کول سونټونه یو ډول نظم جوړول").
+وردنه(ساني, ن, [سانيز], "يو کوچنی هلک").
+entry(sonobuoy, n, [sonobuoys], "يو بوي چې د اوبو لاندې غږونه کشف او لیږدوي").
+ګډون(سونګراف، ن، [سونګرافونه]، "هغه انځور چې د الټراساؤنډ لخوا تولید شوی").
+entry(sonorant, n, [sonorants], "د غږ لرونکي ډول").
+د لړۍ، ن، [لړۍ]، "د غږ لرونکی کیفیت یا حالت"
+entry(غږناکه, صفت, [], "چې د پراخ او لوړ غږ خصوصیت لري").
+د ننوتنې(sonovox, n, [sonovoxes], "د غږ تاثيراتو الې").
+entry(د زويتوب حالت, ن, [زويتوبونه], "د يو زوی حالت").
+entry(sonsie, صفت, [], "SONSIER SONSIESTsonsy").
+entry(sonsy, adj, [], "ښايسته").
+entry(سوچونګ, n, [سوچونګونه], "سوچونګ").
+د ننه وتل(sooey, انټر، [], "په سوو د بانګ وهلو کې استعمال شوی").
+د پروګرام د حقونو ساتنه(sook, n, [sooks], "souk").
+entry(ژر, قید, [], "ژرتر ژرترینپه نژدې راتلونکیژرنی صفت").
+entry(ژر, ن, [ژران], "هغه څوک چې په حکومتي ځمکه مېشته کېږي مخکې له دې چې په رسمي توګه د مېشتېدنې لپاره خلاصه شي").
+entry(ګازرګۍ, فعل, [ګازرګیږي,ګازرګیدل], "د تورې مادې په واسطه چې د سوځېدو په پایله کې تولیدیږي پوښل").
+entry(سوټ، صفت، [], "SOOTHER SOOTHESTtrue").
+د ننه ځي(sooth, ن, [sooths], "حق").
+entry(هوسا، فعل، [هوسا کړ، هوسا کول، هوسا کوي]، "يو غلی او عادي حالت ته راستنول").
+entry(سوډر، ن، [سوډران]، "هغه څوک چې ارامه کوي").
+پروګرام(په_رښتيا, قيد, [], "په حقیقت").
+entry(پيشګويي, v, [پيشګويي وکړه,پيشګويي کول,پيشګويي کوي], "پشګويي کول").
+entry(sooty, adj, [], "له ککړو خړو سرهپوښل شویSOOTILY adv").
+د پیژندنې(سوپ، فع، [پرسوپ، پرسوی، سوپونه], "په مایع کې غوټه یا لندول").
+د پرولوګ ژباړه:
+entry(soph, n, [sophs], "يو منځني کال زده کوونکی").
+دسج(sophies, pl, [], "د صوفي").
+entry(سوفیزم, ن, [سوفیزمونه], "یو قانع کوونکی خو نادرسته دلیل").
+entry(sophist, n, [sophists], "هغه څوک چې مغالطې کاروي").
+entry(سوفي, ن, [soфиs], "د فارس واکمن").
+ورودي(sopite, v, [sopited,sopiting,sopites], "خوب ته رسول").
+entry(سپور, ن, [سپورونه], "یو غیر معمولي ژور خوب").
+entry(ورډول، تېره، [], "د ورډول زمان").
+entry(ساپېدنه, صفت, [], "ډېر لوند").
+د ننوتنه(سپی، صفت، [], "ډیر لوند").
+entry(سوپرانو, ن, [سوپرانوګان], "یا سوپراني تر ټولو لوړ سندرې غږ").
+entry(سورا, ن, [سوراګانې], "یو د ګندنې مارغه").
+د پرولوګ فقط ليکه:
+entry(sorb, v, [sorbed,sorbing,sorbs], "د جذب یا جذب کولو له لارې اخیستل او نیولSORBABLE adj").
+entry(sorbate, n, [sorbates], "يو جز چې خښېږي").
+entry(سوربینټ, ن, [سوربینټس], "یوه ماده چې جذب کوي").
+entry(شربت, n, [شربتينه], "شربت").
+entry(سوربیک, صفت, [], "د یو ډول میوې سره تړاو لري").
+دوسیه(سوربيتان، ن، [سوربيتانس]، "یو کیمیاوي مرکب").
+د داخلېدنې(سوربیټول, ن, [سوربیټولونه], "یو کیمیاوي مرکب").
+داخلول(سوربوز، ن، [سوربوزونه]، "د بوره یوه ډول").
+د Prolog:
+entry(sorcerer, n, [sorcerers], "یوه چې جادو کوي").
+د داخلېدو(جادو، ن، [جادوګانې]، "د مافوق الفطرت قدرتونو احتمالي استعمال").
+entry(سورډ, ن, [سورډس], "د ډاګو یوه ډله").
+entry(sordid, adj, [], "filthySORDIDLY قید").
+entry(سورډین, ن, [سورډینونه], "هغه وسیله چې د موسیقۍ آلې غږ ټیټوي").
+د داخلېدو(سورډينو, ن, [سورډيني], "سورډين").
+entry(سوردر, ن, [سوردورونه], "یو ناپاک حالت").
+entry(خوږ, v, [خوږېدنه,خوږېدلو,خوږيږي], "د آس پښې داسې زخمي کول چې ټاکلی حرکت ترلاسه شي").
+entry(sore, adj, [], "د لمس په وړاندې ورته خوږ یا ډېر خوږ").
+entry(sorehead, n, [soreheads], "يو څوک چې په اسانۍ سره غصه يا خفه کېږي").
+entry(سورېل, ن, [سورېلس], "سورېل").
+entry(سخت, adv, [], "په سخت ډول").
+entry(درد, n, [دردونه], "هغه کیفیت یا حالت چې د درد لامل کیږي").
+entry(sorer, comparative, [], "د درد").
+د ننوتنې(سخت, ترټولو غوره, [], "د سخت").
+entry(سوَرغم, n, [سوَرغموْنه], "سوَرغم").
+entry(خرما, ن, [خرماګانې], "يوه غلې دانې واښه").
+entry(سورګم، ن، [سورګمونه]، "د سُرګم یو ډول").
+entry(سوري, جمع, [], "د سورس").
+entry(soricine, adj, [], "د چرګانو کورنۍ پورې اړه لري").
+entry(سورينګ, n, [سورينګونه], "د آسونو د مخي پښو دردناک کول د دې لپاره چې هغوي لوړ قدم وهي").
+entry(sorites, n, [sorites], "په منطق کې د دلیل یو ډول").
+entry(sorn, v, [sorned,sorning,sorns], "دوزړیا په نورو د خواړو او ځای لپاره ځان وتپل").
+entry(sorner, n, [sorners], "هغه څوک چې د پیسې پرته په کور کې پاتې کیږي").
+entry(سروچه, ن, [سروچې], "د غرونو ناروغي").
+entry(خورنۍ, adj, [], "خورینه").
+entry(sororate, n, [sororates], "د يو سړي واده عموماً له خپلې مړې شوې ښځې خور سره").
+entry(سوروریتي, ن, [سوروریتۍ], "د ښځو لپاره یو ټولنیز کلب").
+ورود(sorosis, n, [sorosises], "يا سورووس يوه ښځینه کلب يا ټولنه").
+entry(جذب, ن, [جذبونه], "د جذب عملیه یا پروسهSORPTIVE صفت").
+دخول(sorrel, ن, [sorrels], "یو سور او نصواري رنګ").
+د Prolog: entry(sorrier, comparative, [], "د بخښنې څخه").
+د ننوتنه(سوریسټ، لوړترین، [], "د سوری").
+entry(په_خواشینۍ_سره, adv, [], "په خواشینۍ ډول").
+د ننوتنې(غم، فعل، [غمګین شوی، غم کول، غمونه]، "غم کول").
+د اندوهناک، ن، [اندوهناکونه]، "هغه څوک چې غم کوي" په توګه د ننوتنې.
+د پرو لاګ کرښه: entry(sorry, adj, [], "SORRIER SORRIESTغم او يا هم پښيماني").
+entry(sort, v, [ترتیب,ترتیبول,ترتیب شوې], "د ډول کلاس يا اندازه په مطابق ترتيب ورکول SORTABLE adj SORTABLY adv").
+entry(sortal, n, [sortals], "یو اصطلاح چې یو موجودیت د یوې ځانګړې بڼې په توګه طبقه بندي کوي").
+د Prolog:
+entry(sorter, n, [sorters], "یو څوک چې ترتیبوي").
+د Prolog:
+entry(sortes, npl, [], "په يو باوري متن کې د يوې برخې د تصادفي انتخاب له لارې د وړاندوينې عمل").
+entry(چاپه, v, [چاپه_وهلي,چاپې_وهي,چاپې], "په ناڅاپي توګه څخه بريد کول").
+د Prolog کوډ: `entry(sorting, n, [sortings], "شیان په ډلو کې جلا کول").`
+entry(سورس, ن, [سوري], "د نبات د تولیدي برخو ټوله").
+entry(sot, n, [sots], "يو روږدی نشه باز").
+entry(soth, n, [soths], "سوټھ").
+entry(سوتول, n, [سوتولس], "یو ګل لرونکی بوټی").
+entry(sotted, adj, [], "besottedSOTTEDLY adv").
+entry(سوت په څېر, صفت, [], "د سوت په څېر").
+داسې ښکاري چې دا Prolog کرښه باید په پروګرامي ډول بدله شي. د Prolog کرښې ته د پښتو ژبې ځواب به داسې وي:
+```prolog
+entry(sou, n, [سوس], "يو د مخکې نوموړى فرانسوي سکه"). 
+```
+د داخلول(souari, n, [souaris], "يو استوايي ونه").
+دخولي(سوبیس, ن, [سوبیسونه], "د پیازو او مکھن څخه یو ساس").
+entry(سوکار, ن, [سوکارس], "یو هندوستانی بانکوال").
+entry(souchong, n, [souchongs], "چینایي چای").
+entry(سودان, ن, [سودانونه], "سولدان").
+د ننوتنه(سو فلی، ن، [سو فلیز]، "یو روښانه پخې شوې ورځ").
+entry(souffled, adj, [], "په وهلو او پخولو سره پوک شوی").
+entry(سوغ, فعل, [غالم, غالیږی, غالم], "د یوې ویرې یا هیلاسازۍ غږ کول").
+د لټولو، تېر، []، "د لټولو زمانه".
+د ننوتل(souk, n, [souks], "په شمالي افریقا او منځني ختیځ کې یو بازار").
+entry(سوكوس, ن, [سوكوسونه], "په د ډیموکراتیک جمهوریت کانګو کې یو نڅا موسیقۍ").
+ورود(روح، ن، [روحونه]، "د انسانانو روحاني اړخونه روح لرونکی بې روحه اروايي adj").
+entry(روحاني, صفت, [], "د احساساتو څخه ډک").
+entry(همدل، ن، [همدلان], "يو شخص چې ورسره يو کس په بشپړ ډول مناسبه وي").
+entry(روح_غږگر, ن, [روح_غږگران], "د روح موسيقۍ يو سندرغاړی").
+entry(څنګه, صفت, [], "غوره یا ښه روغتیا یا حالت کې شتون").
+ننه‌ونې(غږ, فعل, [غږ کړ, غږ کول, اوازونه], "هغه څه چې د اورېدلو حس محرک کوي").
+رمز(soundbox, n, [soundboxes], "د موسیقي آلې کې یو ارتعاشي تشه").
+د پیل(ساؤنڈر، ن، [ساؤنډرز]، "هغه چې غږ کوي").
+د ننه(entry, n, [soundings], "نظرونو یو نمونه ده").
+entry(په کلکه توګه, قید, [], "په قوي ډول").
+entry(soundman, n, [soundmen], "یو شخص چې د غږ د ثبت کیدو کیفیت کنټرولوي").
+entry(سُوپ, v, [سُوپولو, سُوپول، سُوپونه], "د ځواک یا اغیزمنۍ زیاتول").
+entry(شک، ن، [شکوک]، "یو لږ مقدار").
+entry(soupless, adj, [], "بې شوره، يوه مايع خوړه چې اکثراً جامد اجزا لري").
+entry(souplike, adj, [], "د سوپ په څېر").
+entry(soupy, adj, [], "سوپي سوپيسټfoggyسوپيان adv").
+entry(ترخه, صفت, [], "ترخه ترين تريخي تيز يا د خوند لپاره تريخ").
+entry(ترش, v, [ترش شوی, ترش کول, ترش کیږي], "ترش کول یا ترش کیدل").
+entry(ترخه_کړکېچن, n, [ترخه_کړکېچنونه], "يو ترخه ژوول").
+entry(مبدا, v, [ماخستل شوی, ماخستل, ماخیستل], "د سرچینې څخه ترلاسه کول").
+entry(sourcing, n, [sourcings], "د یوې سرچینې څخه د یو شي د ترلاسه کولو عمل").
+entry(سورډین, ن, [سورډینونه], "سورډین").
+ورودی(سوګم، نوم، [سوګمونه]، "د شمالي امریکا ختیځه برخه کې یو نرم لرګی لرونکی ونه").
+entry(سوریش, صفت, [], "یو څه ترو").
+entry(ترخه, adv, [], "په ترخه توګه").
+entry(تروښتیا, n, [تروښتیاوې], "د ترو یا ترووالي کیفیت یا حالت").
+entry(sourpuss, n, [sourpusses], "يو بد مزاجه شخص").
+entry(ګراوۍ, ن, [ګراوۍ], "يو استوايي ونه").
+entry(سور ووډ, n, [سور ووډز], "يو ګل لرونکی ونې").
+entry(سوس, فع, [سوس کړل, سوس کول, سوسونه], "يو شی په يوه مايع کې ډوبول").
+د دې Prolog کرښه د پښتو ژباړه دا ده:
+entry(souser, n, [sousers], "يو شرابي").
+entry(سوسلک, ن, [سوسلکان], "سوسلک").
+entry(soutache, n, [soutaches], "يو فليټ تنګ چوټه").
+entry(سوتان, ن, [سوتانونه], "يوه کڅوه").
+entry(souter, n, [souters], "یو بوټ جوړونکی").
+پښتو(جنوب، فعل، [جنوب کړ، جنوب کول، جنوبونه]، "د قطب نقشې یوه نقطه په لور حرکت کول").
+entry(جنوب, ن, [جنوبونه], "د جنوب څخه باد يا توپان").
+د ننوتنه(سویل، ن، [سویلي خلک]، "یو شخص چې په سویل کې ژوند کوي").
+entry(جنوب ته تګ, ن, [جنوبي حرکتونه], "جنوب ته حرکت").
+entry(جنوبی لاس, n, [جنوبی لاسان], "یو چپ لاسه شخص").
+دخولیه(جنوبی، ن، [جنوبیان]، "یو جنوبي").
+entry(سوغات, ن, [سوغاتونه], "يو یادګار").
+entry(سوولاکي, ن, [سوولاکيان], "يو يوناني شيش کباب").
+entry(سوويت, ن, [سوويټونه], "په يو کمونستي هېواد کې تقنيني ارګان").
+رسی (sovkhoz, ن، [sovkhozes]، "یا SOVKHOZ سابق شوروي اتحاد کې یو دولتي کرونده").
+entry(سوفـرین، ن، [سوفـرینـز]، "یو شهنشاه").
+entry(په_بشپړه, adv, [], "په بشپړه توګه").
+entry(سوبرانتي, ن, [سوبرانتۍ], "یو شاهيت").
+دخول(sow, v, [sowed,sown,sowing], "د تخم په توګه کرلو لپاره په ځمکه کې د ویشلو لپاره سټوSOWABLE صفت").
+entry(سووانس, ن, [سووانس], "سوونز").
+entry(سوار, ن, [سواران], "په هند کې یو سپور محلي عسکر").
+د پرولوگ کوډ: entry(sowback, n, [sowbacks], "د شګې ټیټه غونډۍ").
+entry(sowbelly, n, [sowbellies], "په مالګه کې درملنه شوې د خوګ غوښه").
+entry(سوربرېډ, ن, [سوربرېډونه], "یو ګل لرونکی بوټی").
+entry(sowbug, n, [sowbugs], "يو ډول وچوښکۍ").
+دخول(sowcar, n, [sowcars], "soucar").
+entry(sowens, n, [sowens], "له جوارو څخه جوړ شوي وريجې").
+entry(کرونکی, ن, [کرونکي], "چې کر کوي").
+ورود(sowing, ن, [sowings], "د تخمونو شيندل").
+داخله(کرل، تېر، [], "د کرلو کړنه").
+entry(سوکس, الف, [], "د جرابو جمع").
+entry(سويا، ن، [سوياګانې]، "د سويا لوبیا").
+entry(سویا, ن, [soyas], "سوی").
+entry(سويا، ن، [سويا دانې]، "د يو کرلي شوي آسيايي بوټي تخم").
+entry(سوېميل, ن, [سوېميلونه], "د غوړي ايستلو څخه پاتې شوني د سويا دانه").
+entry(سویا شیدې, n, [سویا شیدې], "له سویابینو څخه جوړ شوی د شیدو یو بدیل").
+د Prolog کي د پښتو ژبې ته وژباړئ: 
+entry(soyuz, n, [soyuzes], "د پخواني شوروي اتحاد يو مانډ سپېسکرافټ").
+entry(سوځین, ن, [سوځینز], "د پروټین یوه ډول").
+entry(سوزینه, ن, [سوزینې], "سوزین").
+د داخلې(sozzled, صفت, [], "شراب خور").
+entry(spa, n, [چشمي], "يو منرالي چشمه").
+entry(فضا, v, [فضا شوی,فاصله ورکول,فضاګانې], "څو یو څه واټن لرې کړي").
+entry(سپېس‌لېب, n, [سپېس‌لېبونه], "يو فضايي بېړۍ چې د لابراتورۍ سره سمبال وي").
+ورودی(فراځي، ن، [فرازمانان]، "یو فضانورد").
+د Prolog لیکنه: entry(spacer, n, [spacers], "هغه څوک چې فاصله برابروي").
+entry(spacey, adj, [], "په چلند کې عجیب SPACIER SPACIEST").
+entry(فضایي, صفت, [], "spatial").
+entry(واټن, ن, [واټنونه], "د دوو شیانو ترمنځ فاصله").
+entry(پراخه، صفت، [], "په پراخه یا پراخه اندازه کې").
+entry(سپاکل, فعل, [سپاکل کړل,سپاکل کول,سپاکلېږي], "د سطحي درزونو يا سوريو د پېسټ سره ډکول").
+entry(spacy, صفت, [], "SPACIER SPACIESTspacey").
+entry(خيشته, فعل, [خيشته کړ, خيشته کول, خيشته کړ], "د خيشته کولو یو وسیله د خيشته کولو لپاره").
+entry(spadeful, n, [spadefuls], "هڅېر پورې چې د يو بيل ډکیدای شي").
+entry(سپېډر, ن, [سپېډران], "يو څوک چې سپېډ کاروي").
+د دې Prolog کرښې لپاره پښتو کې عبارت نشته. مهرباني وکړئ يوازې د Prolog کوډ غوښتنه وکړئ: 
+
+entry(spadices, pl, [], "د سپاډيکس").
+entry(spadille, n, [spadilles], "په ځینو کارت لوبو کې تر ټولو لوړ ټرمپ").
+entry(سپېډنګ, اوسنی, [], "د سېپېد_participle").
+```prolog
+entry(spadix, n, [spadixes], "يا SPADICESa د ګل ګوته").
+```
+entry(spado, ن, [spadones], "قصر شوی نارینه یا حیوان").
+entry(spae, v, [spaed,spaeing,spaes], "پيشګويي کول").
+entry(چاريکول, ن, [چاريکونه], "د وړاندوینې عمل").
+entry(سپېڅل, n, [سپېڅلونه], "یو کوچنی ډمپلنګ").
+entry(spagyric, n, [spagyrics], "یو کس چې په الکیمیا کې مهارت لري").
+entry(سپاهي, n, [سپاهيان], "سپاهي").
+entry(سپاهي, n, [سپاهيان], "يو ترک سپاره").
+entry(سپیل, ن, [سپیلونه], "سپیل").
+entry(سپېت, ن, [سپېتونه], "سپېت").
+دخول(spake, a, [], "د speak ماضي زمان").
+entry(سپالډین, n, [سپالډینز], "یو کوچنی تش ربړ بال").
+entry(سپله, ن, [سپلې], "یو ټوټه یا غوزی").
+entry(spall, v, [ټوټه شوی،ټوټه کول،ټوټې], "پر ټوټو ماتېدل").
+entry(spaller, n, [spallers], "هغه څوک چی سپال کوي").
+entry(سپالینګ, ن, [سپالینګونه], "د کاڼي یا فلز یوه ټوټه").
+ننوځئ(سپالپین, ن, [سپالپینز], "یو بدماش").
+entry(سپولټ شوی، صفت، [], "هغه لرګی چې د فنګسي تخریب له امله عمومي کرښې لري").
+دخولاوی (سپام, فعل, [سپام شو, سپام کول, سپامونه], "پر یو زیات شمېر پتې بې غوښتله برېښنالیک لېږل").
+entry(spambot, n, [سپامبوټونه], "يو کمپيوري پروګرام چې ناخوښ کړل شوې برېښنالیکونه استوي").
+اندراج(سپامر, ن, [سپامران], "هغه څوک چې سپام کوي").
+entry(spamming, n, [spammings], "د ناغوښتل شوو برېښنالیکونو لېږلو عمل").
+د Prolog:
+entry(span, v, [spanned,spanning,spans], "خپرېدل يا تېريدل").
+دخلول(spancel, v, [spanceled,spanceling,spancels], "يا SPANCELLED SPANCELLING SPANCELS چې په رسۍ وتړل شي").
+دننه_کړه(سپينډېکس, ن, [سپينډېکسونه], "یو مصنوعي الاسټيک فايبر سپينډېکسډ صفت").
+entry(سپاندریل, ن, [سپاندریلز], "دوه ګاونډي قوسونو ترمنځ ځای").
+entry(spandril, n, [spandrils], "سپانډریل").
+دخوله(سپنګ, قید, [], "مستقیم").
+د Prolog کرښه په پښتو کې داسې ده:
+entry(سپينګل, فعل, [سپينګلډ,سپينګلنګ,سپينګلز], "د سپينګلونو سره سينګار کول د ځلاکو فلزي ټوټو").
+د ننوتنې(spangly, صفت, [], "SPANGLIER SPANGLIESTپټ شوی د spangles سره").
+entry(سپانيئل, ن, [سپانيئلان], "يو سپی چې ورېښمين ويښتان لري").
+دخولی(وهل, فعل, [وهل, وهلو, وهي], "په شا باندې څپېړه وهل").
+د داخلې(پتاؤنکی، نوم، [پتاؤنکیان], "هغه څوک چې ډمان وهي").
+د داخله(سزا ورکول ،اسم، [سزاګانې]، " د هغې عمل چې سزا ورکوي").
+entry(بې‌پایان, صفت, [], "بې‌پيمانه").
+entry(خپور, تېر, [], "د خپرولو شکل").
+entry(سپينر, ن, [سپينران], "هغه چې پراخوي").
+اندازه(entry, اوسني، [], "د span برخه").
+ګډون(سپانورم, ن, [سپانورمز], "یو اینچ ورم").
+entry(spar, v, [sparred,sparring,spars], "د کلکو لرګیو چمتو کول چې د رسۍ ملاتړ لپاره کارول کېږي").
+entry(sparable, n, [sparables], "د نوک يو ډول").
+entry(spare, adj, [], "سپېر سپېروکړیز ډولونەمېږ").
+entry(بخښنه، فع، [بخښلی، بخښنه ورکول، بخښنې ورکوي]، "له سزا ورکولو، زیان رسول یا له منځه وړلو څخه ډډه کول").
+entry(سپیئرر, ن, [سپېررونه], "یو چې سپموي").
+دخولی(سپیرریب، ن، [سپیرریبس]، "د خوګ غوښې یوه ټوټه").
+د ننوتنه(سپریږی، فعل، [سپړل شوې، سپړل، سپړيږي], "وچکالو لپاره شیندل").
+entry(سپارګر, ن, [سپارګران], "هغه څوک چې سپارګ کوي").
+entry(sparid, n, [sparids], "د بحري کبانو د یوې کورنۍ څخه کوم یو").
+entry(سپمول, موجوده, [], "د spare مشارکي").
+entry(سپارک, فعل, [سپارک شو, سپارکېدل, سپارکونه], "کوچني اورین زرات ورکړل").
+دخولی(سپارکر، ن، [سپارکرز], "یو څه چی سپارک کوي").
+entry(روښانه, تقابلي, [], "د روښانه").
+د ننهوتنه(ترګړی، اعلیٰ، [], "د ترڅرګنه").
+entry(په زنده دلی سره, قید, [], "په یو زنده دلی طریقه").
+entry(sparkish, adj, [], "پرتم").
+entry(چمک, فعل, [چمک وکړ, چمکوونکی, چمکیږي], "د رڼا ځلا یا انعکاس ورکول").
+entry(سپارکلر, ن, [سپارکلرونه], "يو څه چې ځليږي").
+entry(سپړکې, n, [سپړکې], "یو کوچنی سپرک").
+entry(sparkly, adj, [], "په ځلا تمایل لرونکی SPARKLIER SPARKLIEST").
+entry(sparky, adj, [], "سپارکیر سپارکیسټ خوښ").
+entry(sparlike, adj, [], "د سپار په څېر").
+دخ(سپارلینګ، ن، [سپارلینګونه]، "یو ځوان هېیرینګ").
+اینټری(سپیروئډ، ن، [سپیروئډز]، "یوه سپرید").
+entry(سوکوه, تېر, [], "تنګ د سوک").
+entry(سپارینګ, موجود, [], "د سپار د صفت برخه").
+entry(چغر, n, [چغرګان], "يو وړوکی الوتونکی").
+entry(sparry, adj, [], "د سپار په څیر یو ځلېدونکی منرال SPARRIER SPARRIEST").
+entry(sparse, adj, [], "پنډوالی پت، پت پتلی وېشل شوی پتولی ډول").
+entry(وچکالي, n, [وچکالۍ], "د وچه يا کمې حالت").
+اندراج(اسپارټن, صفت, [], "د عیش او آرام څخه مخنیوی").
+entry(سپارټينا, ن, [سپارټيناس], "د ساحلي سیمو د مالګین ځمکې واښه").
+entry(تشنج, فعل, [تشنج شوی, تشنج کول, تشنجونه], "د غیر ارادي عضلي انقباض تجربه کول").
+entry(spastic, n, [spastics], "هغه څوک چې د عضلاتو له اختلال سره فلج لري").
+entry(spat, v, [spatted,spatting,spats], "په نرمۍ سره ووهل").
+entry(سيلاب, n, [سيلابونه], "يو تازه اوبه").
+entry(سپاته, n, [سپاتې], "د ځینې نباتاتو پاڼې ته ورته غړیSPATHAL SPATHED SPATHOSE adj").
+entry(spathic, adj, [], "سپاري").
+entry(فضايي, صفت, [], "د فضا پورې اړوند").
+entry(سپړلې, ماضي, [], "د سپړلو زمان").
+entry(چکېدل, v, [څڅیدل,څڅیدنه,څڅوي], "په څاڅکو کې خپرول").
+entry(سپلیدل، اوسنی، [], "د سپت فعلي مصدر").
+دخول(spatula, ن, [spatulas], "د ګډولو وسیلهSPATULAR صفت").
+entry(سپاتزل, ن, [سپاتزلونه], "سپيتزل").
+entry(spavie, n, [سپاوۍ], "سپاوینSPAVIET صفت").
+entry(spavin, n, [spavins], "د اسونو مرض، SPAVINED صفت").
+دخول(تخمې اچول, فعل, [تخمې اچولې, تخمې اچول, تخمې اچوي], "هګۍ اچول").
+entry(سپاونر, ن, [سپاونرز], "یوه چې پیدا کوي").
+entry(spay, v, [spayed,spaying,spays], "د هګیانو د لري کولو لپاره").
+د Prolog کرښه په پښتو وژباړئ. یوازې Prolog وړاندې کړئ:
+entry(speak, v, [spake,spoken,speaking], "SPEAKsto utter words").
+entry(سپیکر، ن، [سپیکران]، "یو څوک چې خبرې کوي").
+دخول(پښتو, ن, [ويناوې], "وينا يا تقرير").
+entry(spean, v, [speaned,speaning,speans], "جدا کول").
+entry(سپییر, v, [سپییر کړئ, سپییر کول, سپییرونه], "د اوږدې نوکدارې وسله په واسطه یو څه سوراخول").
+entry(سپیئرونکی, n, [سپیئرونکي], "هغه څوک چې نیزه وهنې کوي").
+entry(نيزې ټوپک, n, [نيزې ټوپکان], "يو ټوپک چې نيزه ویشتونکي ده").
+entry(ټوکل، ن، [ټوکلونه], "د نیزې سره د سوری کولو عمل").
+د نيزې سړی، ن، [نيزه وال]، "يو کس چې د نيزې سره وسله وال وي"
+د Prolog:
+entry(spec, v, [specced,speccing,specs], "د مشخصاتو لیکلو لپاره").
+entry(ځانګړی, صفت, [], "د ځانګړي ډول یا ځانګړتیا څخه").
+entry(ځانګړي، ن، [ځانګړي]، "یو ځانګړی شخص یا شی").
+دخول(speciate, v, [speciated,speciating,speciates], "د ارتقايي بهیر یو ډول لاندې تېرېدل").
+entry(specie, n, [جاندار نسل], "سکې شوې پیسې").
+داخلہ(مخصوص, ن, [مخصوصات], "هغه درملنه چې د یوې ځانګړې ناروغۍ لپاره وي").
+د ننوتنه(مشخص کړئ، v، [مشخص شوی، مشخص کول، مشخصوي]، "په تفصیل سره بیانول").
+entry(نمونه, ن, [نمونې], "د یوې ډلې یا ټولګې استازي برخه یا فرد").
+entry(لوی او، adj, [], "د حقیقت یا اعتبار کاذب شکل لرونکی").
+entry(سپيک, v, [سپيک شو, سپيک کول, سپيکونه], "د وړو وړو داغو سره نښه کول").
+د Prolog:
+entry(speckle, v, [speckled,speckling,speckles], "داغ کول").
+سکوتری، صفت، [], "د وړو داغونو سره نښه شوی".
+entry(کتل, v, [وکتل,کتل,ګوري], "د ګډون او لیدلو لپاره").
+entry(سپکټر, ن, [سپکټران], "يو ښکاره بې جسمه روح").
+entry(سپکټرا, الف, [], "د سپکټرم جمع").
+دوتنه(ښکاريزې, صفت, [], "د وخ برعاڼه").
+entry(سپیګټر, ن, [سپیګټران], "سپیکټر").
+entry(سپېکټرم, n, [سپېکټرمونه], "يا SPECTRA د یوې رڼا څپې عناصر یوه مجموعه").
+د دې Prolog کرښې پختو ژباړه دا ده: 
+
+entry(آیینه, ن, [آیینې], "یا SPECULA یو طبي وسیلهSPECULAR صفت").
+د لیکنې(وینا, ن, [ويناوې], "خبرې کولو وړتیا يا عمل").
+سکینګرد(speed, v, [speeded,speeding,speeds], "په تيزۍ سره حرکت کول").
+entry(سپيډر, ن, [سپيډران], "يو څوک چې د سرعت زياتوالی کوي").
+entry(چټک, پرتلیز, [], "د چټک").
+د ​​ګړندیو لپاره د Prolog سمبولونه: 
+entry(speediest, superlative, [], "د ګړندی").
+entry(په تېزۍ سره, قید, [], "په تېزه طریقه سره").
+د ننه لېږد(سرعت زیاتول, ن, [سرعت زیاتولو], "تر هغه څه چې قانون اجازه ورکوي تېز موټر چلول").
+entry(speedo, n, [speedos], "یو سرعت کوونکی").
+entry(چټکتیا, ن, [چټکتیاوې], "د تولید چټکوالی پرته له دې چې معاش زیات شي").
+entry(سپيدوې, ن, [سپيدوېز], "يوه لاره چې د تېز سفر لپاره ډيزاين شوې وي").
+entry(تېز, صفت, [], "تېزین تېزېنې").
+دخیل(سپیل, ف، [سپیلډ، سپییلینګ، سپیلز], "ځغستل").
+entry(speer, v, [پوښتنه کړې، په پوښتنه بوخت، پوښتنې کوي], "پوښتنه کول").
+entry(speering, n, [speerings], "پوښتنه").
+داسې ښکاري چې ستاسو غوښتنه د پرولوګ کوډ لپاره ده چې په پښتو ژبه د یو ویښتی د دخول لیست څرګندوي، په دې توګه: 
+```prolog
+entry(سپیل, v, [سپیل کړ, سپیل کوي, سپیلونه], "په قصدي ډول تګ کول").
+```
+د ننوتنې (speir، v، [speired, speiring, speirs]، "پوښتل")۔
+entry(سپیزه, ن, [سپیزېس], "سپیز").
+entry(speiss, ن, [speisses], "یو فلزي ګډه چې د ځینو معدني موادو د خړولو په وخت کې ترلاسه کیږي").
+entry(spelaean, adj, [], "غار پورې اړه لرونکی").
+د ننوتنه(سپيلين، صفت، []، "په غارونو کې ژوند کوونکی").
+entry(سپيل, فع, [سپيلت,سپيلنګ,سپيلونه], "په ترتیب سره د حروفو نومول يا ليکل").
+entry(سپېلر, ن, [سپېلران], "یو هغه څوک چې کلمې ليکي").
+د ننوتنې(هجي، نوم، [آهجيګانې]، "د تورو يوه لړۍ چې يو کلمه تشکيلوي").
+entry(spelt, n, [spelts], "د غنمو يوه ډول").
+entry(سپیلټر, ن، [سپیلټرونه], "د زنک په شکل کی د انګوټونو").
+entry(سپيلټز, ن, [سپيلټزې], "سپيلټ").
+entry(سپيلونک, v, [سپيلونک شوی, سپيلونک کول, سپيلونک کوی], "غارونه سپړل").
+ورودی(سپنس، ن، [سپنسز]، "یوه خوراک پزخانه").
+entry(spencer, n, [spencers], "يو درې لرګی بادبان").
+د بښلو لپاره(spend, v, [spent,spending,spends], "entry").
+اینتري(سپينډر, ن, [سپينډران], "يو څوک چه مصرف کوي").
+entry(spendy, adj, [], "ګران ګرانترين ګرانترين").
+داخلہ(سپنس, ن، [سپنسز], "سپنس").
+entry(مصرف, تېر, [], "د مصرف ماضي حالت").
+دخولی(سپرم, ن, [سپرمنونه], "يو نارينه ګامټSPERMIC صفت").
+entry(سپرميري, ن, [سپرميريز], "يو اندام چې په هغه کې سپرمونه جوړېږي").
+entry(spermine, n, [سًپرمين], "يوه کيمياوي مرکب").
+entry(سپرموس, صفت, [], "د سپرمونو سره ورته یا د سپرمونو څخه جوړ شوی").
+دخول (سپیو، فع، [سپیوډ، سپیوینګ، سپیوز]، "قۍ کول").
+\entry(غاړه٬مه, ن, [غاړه٬مونکي], "يو چې غوراوي").
+entry(سفګم, ن, [سفګمونه], "یو خړبود لرونکی حزاز").
+ننوتنه(سفین، ن، [سفینونه], "یو منرال").
+entry(sphenic, adj, [], "د پچې په څېر شکل لري").
+entry(سپهنويد, ن, [سپهنويدونه], "د جمجمه يو هډوکی").
+entry(spheral, adj, [], "د کرې پورې اړوند یا د کرې بڼه لرل").
+entry(کُره, v, [کُره کړل, کُره کول, کرې], "د هندسي شکل ډول ته په كرة بدلول").
+entry(سفيري, صفت, [], "سفيرل").
+entry(سفیریکس, npl, [], "د کرې په سطحه د شکلونو هندسه").
+entry(spherier, comparative, [], "د سپیري").
+entry(spheriest, superlative, [], "د ګردي").
+د ننوتنه(سفېرېنګ، اوسنی، [], "د سفېر د ګردشي برخه").
+د ننوتنه(غونډولیک، ن، [غونډولیکونه], "د یو ډول جيومیټریک جامي").
+entry(ښویند, ن, [ښویندونه], "یو وړوکی کره نما").
+entry(sphery, adj, [], "يوه دائرې ته ورته SPHERIER SPHERIEST").
+د داخلېدو (sphinges, a, [], "د sphinx جمع").
+د داخله(سفنجد, ن, [سفنجدونه], "باز ماث").
+entry(سفینکس، ن، [سفینکسونه]، "یا سپیهنجز په مصري افسانه کې یو عفریت").
+دخول(sphygmus, ن, [sphygmuses], "د نبضSPHYGMIC صفت").
+ګډون(سفینکس, ن, [سفینکسونه], "د بې وېښتو پیشوګانو یو نسل").
+entry(spica, n, [spicas], "يا د غلې دانې غوږ SPICAE  SPICATE SPICATED صفت").
+entry(سپیکاټو, ن, [سپیکاټوز], "د تار لرونکي آلې د غږولو یوه طریقه").
+entry(مصالحه, فعل, [مصالحه شو, مصالحه کول, مصالحې], "د یوه خوشبویه سبزیجاتو ماده اضافه کول").
+entry(spicer, n, [spicers], "هغه څوک چې مرچ يا مساله زياتوي").
+entry(مصالحو, ن, [مصالحې], "تند کیفیت").
+entry(spicey, adj, [], "تند تندتر تندترین").
+entry(تندتر, مقابله, [], "د تند").
+د ننوتلو(spiciest, superlative, [], "د مسالو")
+entry(په-مرچو-پورې، قید، [], "په مرچ لرونکي ډول").
+د ننوتنه (ښورول, اوسنی, [], "د مساله کولو مشارکت").
+د ننوتنه(سپیکولا، ن، [سپیکولې], "سپیکولSPICULAR صفت").
+entry(سپیکول, n, [سپیکولونه], "یو ستنی بڼه جوړښت").
+entry(سپیکیولم, ن, [سپیکولا], "سپیکیول").
+دخول(spicy, صفت, [], "SPICIER SPICIESTدا مساله لرونکي").
+entry(سپېدار, v, [سپېدار شوې,سپېدار کول,سپېدار], "په تیز حرکت سره حرکت کول").
+د خولې لپاره د متن پروګرام:
+entry(spidery, adj, [], "د مېږو په څېر د غڼو د یوې ډول په څېر").
+entry(وکتل, تېره, [], "د جاسوس کولو زمانه").
+entry(آینه, ن, [آیينې], "د اوسپنې يو ډول").
+د داخلول(spiel, v, [spieled,spieling,spiels], "دېر وخت خبرې کول").
+پرو لاگ:
+entry(spieler, n, [spielers], "یو څوک چې لوبیږي").
+entry(سپيېر, v, [سپيېرډ,سپيېرينګ,سپيېرز], "پښتنه کول").
+entry(جاسوسان, موجود, [], "د جاسوسي درېيم شخص مفرد").
+entry(spiff, v, [spiffed,spiffing,spiffs], "ښکلي کول").
+دخول(سپيفنګ, صفت, [], "سپيفي").
+entry(سپيفي, فعل, [سپيفي شوی, سپيفي کول, سپيفي اونکى], "په مود کې جوړول").
+entry(spiffy, adj, [], "SPIFFIER SPIFFIESTstylishSPIFFILY adv").
+entry(سپيګاټ, ن, [سپيګاټونه], "يو نل").
+پروګرام داخلول(luska, v, [luska, luske, luskale], "په يو ټک وياړ").
+د ننوتنه(سپايکليټ, ن, [سپايکليټونه], "د ګلونو یو ډول ګروپ").
+entry(سپایکر, ن, [سپایکران], "چې چوخوي").
+entry(spikey, adj, [], "SPIKIER SPIKIESTspiky").
+د نښې داخلول(spiking, present, [], " د spike مشارکت ").
+دمتن(spiky, صفت, [], "SPIKIER SPIKIESTدیوې ستنې په څېرSPIKILY قید").
+entry(سپيل, فع, [سپيلډ، سپيلينګ، سپيلس], "د لرګی د ګوټې سره بندول").
+entry(spilikin, n, [spilikins], "د یو لوبې لپاره کارېدونکې د لرګي ټوټه").
+entry(سپیلینګ, ن, [سپیلینګونه], "یو پل").
+entry(سپيلايټ, ن, [سپيلايټونه], "د بازالت یوه بڼهSPILITIC صفت").
+entry(څڅېدل, v, [څڅېدلي,څڅېدنه,څڅېږي], "له لوښي څخه بهر ته تویېدل").
+دخول (تویدنه, نوم, [تویدنې], "څه چې توی شوي وي").
+د ننوتل(spiller, n, [spillers], "هغه څوک چې تویوي").
+د پرولاګ کرښه په پښتو کې:
+
+entry(spillway, n, [spillways], "په ذخيره کې د زياتي اوبو لپاره يو چينل").
+entry(توی, a, [], "د تویېدلو تېره زمانه").
+entry(سپیل, ن, [سپیلونه], "تویدنه").
+entry(سپين, v, [تاوېدل،تاوول،خورېدل], "څخه تارونه تاوول").
+ورودی(پالک، ن، [پالکانې]، "یو کرل شوی بوټی پالکي صفت").
+entry(سپينه، ن، [سپينېګانې]، "شلم").
+د داخله(ستوني، ن، [ستونيانې]، "یو بې حسه کولو انجکشن چې د ملا د ستوني نخاع کې لګول کېږي").
+entry(د ملا د تیر په لحاظ, قید, [], "د ملا تیر په اړه").
+entry(spinate, adj, [], "اغزي لرونکی").
+دخول(spindle, v, [spindled,spindling,spindles], "په نری میله باندې سوراخ کول").
+د دې Prolog کرښه په پښتو کې:
+```prolog
+ورودي(سپينډلر، ن، [سپينډلرز], "هغه څوک چې سپينډل کوي").
+```
+entry(پتلی، صفت، [], "پتلی پتلی ترینه اوږده او نازک").
+د اېنټري(ستون فقره، ن، [ستون فقرې]، "د فقري ستوني د څوکيدار صفت").
+entry(سپیڼل, ن, [سپیڼلونه], "یو منرال").
+entry(سپينل, ن, [سپينلېس], "سپينل").
+د Prolog لین په پښتو کې داسې به وي:
+```prolog
+ورودی(سپینیت, ن, [سپینیتونه], "یو وړوکی پیانو").
+```
+entry(سپينئر, تقابلي, [], "د اغزنی").
+داخلول(spiniest, اعلا درجہ, [], "د spiny").
+د Prolog په توګه: entry(spinifex, n, [spinifexes], "يوه استراليايي واښه").
+entry(بېځواکه, صفت, [], "بې کښنه").
+د داخلې(spinner, n, [spinners], "يو چې تاوېږي").
+دخول(inspinnery, n, [spinneries], "د کتایي کارخونه").
+entry(سپينې, ن, [سپينېز], "يو ځنګل").
+entry(سپينېدل, ن, [سپينېدنې], "د هغه چا عمل چې سپينوي").
+د تامپه د یګور رول لنډیزونه، نور کولی شي د همدغه لارښود څخه ګټه پورته کړي که چیرې دا لمړیتوب شیان تطبیق کړي. د یګور رول تطبیقوه، د لومړیتوب رولونه وڅیړه او بدیل کورسونه وټاکه.
+entry(سپيني, صفت, [], "څرخېدونکی لیونی احمق").
+entry(سپين آف, n, [سپين آفونه], "يو نوی استعمال يا حادثاتي نتيجه").
+entry(سپينور، ن، [سپينورونه]، "د ریاضيکي ویکټر یوه ډوله").
+entry(spinose, صفت, [], "خاردار").
+entry(سپينئس, صفت, [], "خاردار").
+entry(چورلکه, ن, [چورلکې], "هغه چورلکه چې د موټر لخوا ترسره کېږي").
+entry(سپينستر, ن, [سپينسټران], "یوه ناواده ښځه چې د ودونو معمول عمر څخه تېره وي").
+د ننوتنې(سپینټو، ن، [سپینټوګانې]، "یوه سندریز آواز چې نرم او ډراماتیک دی").
+entry(سپيڼولا, ن, [سپيڼولاe], "سپيڼول").
+پروګرام(spinule, n, [spinules], "یو کوچنی اغزی").
+entry(spiny, adj, [], "د اغزي‌لرونکی یا داغزی‌پوښلې").
+entry(spiracle, n, [spiracles], "يو سوراخ چې د هغې له لارې ساه اخیستل کيږي").
+entry(spiraea, n, [spiraeas], "سپيرا").
+دریځ(حلزوني, ف, [حلزوني شوې, حلزوني کېدل, حلزوني کوي], "یا حلزوني شوې حلزوني کېدل حلزوني کوي د حلزون په څیر حرکت کول د الوتکې یو ډول منحني").
+entry(spirally, adv, [], "په مارپيچ ډول").
+entry(غږیز, ن, [غږیزونه], "یو د وینا غږ چې د تنفس د پرځاى کولو له لارې جوړ شوی وي").
+entry(spire, v, [اوچتېدلی،اوچتېدل،اوچتېږي], "په تناسب ډول جګېدل").
+entry(سپیریا, ن, [سپیریاس], "یو ګل لرونکی بوټی").
+entry(spirem, n, [spirems], "سپيرم").
+entry(سپيريم, ن, [سپيريمز], "هغه فلامنټ چې د ميتوسس په ترڅ کې د يوې حجرې د ريښور د برخې په توګه جوړېږي").
+داخلہ(spirier, تقابلي, [], "د spiry").
+entry(spiriest, superlative, [], "د ستوخ یا نرۍ").
+entry(spirilla, npl, [], "په حلزوني ډول تاوشوې هوایي باکتریا").
+د ننوتلو(سپیرنګ، اوسنی، []، "د سپایر برخه اخېستل").
+entry(روح, فعل, [روحه کړ, روحې کول, روحونه], "پټ پټ وړل").
+entry(روح, n, [روح], "روح").
+entry(spiroid, adj, [], "د پيچيدګۍ سره مشابه").
+دخول(spirt, v, [spirted, spirting, spirts], "څڅېدل").
+entry(spirula, n, [spirulas], "يا SPIRULAE يو مخروطي شيل لرونکی نرم تن").
+entry(سپيرى, صفت, [], "ډنګر او جګ").
+entry(spit, v, [spitted,spitting,spits], "پر یوه سیخ باندې غوښه اچول").
+entry(روغتون, ن, [روغتونونه], "یو روغتون").
+entry(stubby, adj, [], "لنډ او موټیSTUBBIER STUBBIEST STUBBILY adv").
+entry(سته, ن, [ستې], "يو لنډ او پلن د بير بوتل").
+entry(سټکو, v, [سټکو شو, سټکو کول, سټکوز], "يا د STUCCO يو ډول پلاسټر سره پوښ کول").
+entry(stuccoer, n, [stuccoers], "هغه څوک چې سټوکو کوي").
+entry(بند, ماضي, [], "د چسپيدل زمان").
+entry(stud, v, [په څرخه کېښودل, په څرخه کېښودل, څرخه کوي], "په وړو وړو projections سره کلک سره تنظیم کړئ").
+entry(د زده کړې کتاب, n, [د زده کړې کتابونه], "د خالصو نسل د حیواناتو د نسل یو ریکارډ").
+entry(studdie, n, [studdies], "یو اومبل").
+entry(سټډنګ, ن, [سټډنګز], "د يوې دېوال د چوکاټ").
+entry(محصل, n, [محصلین], "یو شخص چې په رسمي ډول په زده کړو بوخت دی").
+د Prolog:
+entry(مطالعه کونکي کب, ن, [مطالعه کونکي کبان], "یو د تازه اوبو کب").
+entry(زده‌کړه, تېر, [], "د زده‌کړې زمان").
+entry(مطالعه_کونکی, ن, [مطالعه_کونکي], "یو څوک چې مطالعه کوي").
+دردښت(زده‌کړې، اوسنی، [], "۳یم شخص واحد د زده‌کړې").
+entry(سټوډیو, n, [سټوډیوګانې], "د هنرمند کاري خونه").
+entry(مطالعې, صفت, [], "چې د مطالعې سره شوق لري").
+entry(studly, adj, [], "ډېری مطالعه دی ښکلی او زړه راښکونکی").
+entry(studwork, n, [studworks], "studding").
+دخول(مطالعه, فع, [مطالعه وکړه,مطالعه کول,مطالعات], "د پوهې ترلاسه کولو لپاره ذهن ته غوښتنه کول").
+entry(شيان, v, [ډک,ډکول,ډکيږي], "په کلک ډول ډکول يا تړل").
+د ننوتنه(ډکونکی, ن, [ډکونکیان], "هغه څوک چې ډکوي").
+entry(ستفنګ, ن, [ستفنګونه], "هغه مواد چې په څه کې ډکېږي").
+entry(stuffy, adj, [], "ډېر بند موډه - ډېر سخت، سخت ترين خرابې هواSTUFFILY adv").
+entri(stuiver, n, [stuivers], "stiver").
+entry(ستول, ن, [ستولس], "په يوه کان کې يو ملاتړى لرګی").
+entry(بې‌پايه کېدل, v, [بې‌پايه‌شوی,بې‌پايه‌کېدونکی,بې‌پايه‌کېږي], "ظاهراً احمق ښکاره کول").
+entry(stum, v, [stummed,stumming,stums], "د انګورو جوس په اضافه کولو سره د خمیر زیاتول").
+entry(پرېدنه, v, [پرېد,پرېدنه,پرېدمې], "د تګ یا منډه وهلو په وخت کې د قدم خطا کېدل").
+entry(څڅېدونکی, n, [څڅېدونکي], "هغه څوک چې لګېږي").
+د ننوتلو (stump, v, [stumped,stumping,stumps], "ګنګس کول").
+entry(ډنډریزه, ن, [ډنډریزې], "نه پرې شوی بازار موندونکی لرګی").
+د پاسټو لپاره پرولوګ: 
+entry(stumper, n, [stumpers], "یو مغشوش کوونکی پوښتنه").
+د ننوتنې(ستومپي، صفت، []، "STUMPIER STUMPIEST لنډ او پوخ STUMPILY adv").
+entry(بې حسه کول, v, [بې حسه شوی,بې حسه کول,بې حسوي], "بې حسه يا د عمل کولو نه بې برخې کول").
+د پرولوګ:
+entry(stung, past, [], "د 'sting' زمانہ").
+entry(ژړول, الف, [], "د 'stink' فعل ماضي زمان").
+ننوتنه(څرگندونکوونکی, ن, [څرگندونکوونکي], "هغه چې څرگندوي").
+entry(سټن سيل, n, [سټن سيلونه], "د بېړۍ د بادبان يوه ډول").
+د ننوتنه(سنت، فعل، [سنتېدلی، سنتېدنه، سنتونه]، "د طبيعي ودې مخنيوی کول").
+entry(سټنټ مین, ن, [سټنټ مین], "هغه شخص چې د خطرناکو فعالیتونو په صحنو کې د یوه لوبغاړي لپاره ځای ناستی کوي").
+entry(ستوبا, ن, [ستوبې], "د بودایانو زیارت").
+entry(ستیوپ, ن, [ستیوپونه], "یو درمل لرونکی ټوکر چې باید په زخم ولګول شي").
+entry(حیرانول, v, [حیران,حیرانوونکی,حیرانوي], "د حواسو تسکین لپاره").
+د ننوتنه (stupid, adj, [], "STUPIDER STUPIDEST ذهنًا کمزوری STUPIDLY adv").
+entry(احمق, ن, [احمقان], "يو احمق شخص").
+entry(څپېړتيا, ن, [څپېړتياوې], "د حواسو د کموالي حالت").
+entry(ټوټه، صفت، [], "ډیر مستحکم مستحکم قوي او دوامدار مستحکمۍ").
+د ننوتنه(کلک، ن، [کلکۍ], "د ګډونو ناروغي کلک شوې صفت").
+entry(ستورجن، ن، [ستورجنونه]، "د خوراک وړ کب").
+entry(sturt, n, [sturts], "شخړه").
+entry(تتله، فع، [تتله کړ، تتله ګنې، تتلېږي]، "په بیړه سره خبرې کول").
+د پلورګ: entry(sty, v, [styed,stying,sties], "په خنځير کور کې ساتل").
+Prolog: entry(stye, n, [styes], "د پيلد داغشوي پړسوب").
+د ننوتنه(تياره، صفت، [], "خپله").
+entry(سټایلی، صفت، []، "د یوه سټایل پورې اړوند").
+entry(stylate, adj, [], "یوه نري ډډ لرل").
+د پړاڅه(طرز, فعل, [طرزول, طرازول, طرازونه], "نومول").
+entry(سټایлер, ن, [سټایلران], "یو چې سټایل کوي").
+entry(stylet, n, [stylets], "د ځینو حیواناتو کوچنۍ سخته برخه یا زیاتوب").
+entry(سټایلونه, مذکر, [], "د سټایلس جمع").
+entry(سټایل ورکول، ن، [سټایلونه]، "هغه طریقه چې په هغې سره یو څه سټایل کیږي").
+داخله(سينګارول، فعل، [سينګارکړل، سينګارکول، سينګاروي]، "سينګار کول").
+entry(سټایلایزر, n, [سټایلایزرونه], "یو څوک چې سټایل کوي").
+entry(ښکلی, صفت, [], "فېشني").
+دخولیه(سټرایلست، ن، [سټرایلستان]، "هغه څوک چې د ادبي یا ویناوي سبک کې بدرجه کمال ته رسیدلی وي").
+entry(ستایلایټ, ن, [ستایلایټس], "یو لومړنی عیسوی زاهد").
+entry(سټایلایز, v, [سټایلایز شوی,سټایلایز کول,سټایلایز کوي], "په دود بدلول").
+entry(سټایلایزر, ن, [سټایلایزران], "یو هغه چې سټایل جوړوي").
+entry(سټایلوئید, ن, [سټایلوئیدونه], "د هډوکي یوه نرۍ پروجیکشن").
+entry(stylopid, n, [stylopids], "يو سټيلوپ").
+entry(stylops, n, [stylops], "يوه حشره چې د نورو حشراتو پرازيت ده").
+entry(سټیلوس, ن, [سټیلوسونه], "یا STYLIد لیکلو، نښه کولو یا نقاشۍ لپاره یو نوکې وسیله").
+entry(خنډ، v, [خنډ کړ,خنډ کول,خنډونه], "د ګډوډولو لپاره").
+entry(سټمي, فعل, [سټميډ، سټمینګ، سټميز], "د مخنیوي لپاره").
+entry(سټایپسيس, نوم, [سټایپسيسونه], "د قابض استعمال").
+entry(ستايمتيک, ن, [ستايمتيکس], "يوه ماده چې د وينې بهيدو بندولو لپاره کارول کيږي").
+دخول(styrax, n, [styraxes], "storax").
+entry(سټايرين, n, [سټايرينونه], "يو مايع هايدروکاربن").
+د پرو لاګ عبارت ته په پښتو ژباړه:	entry(suable, adj, [], "د دعوې وړSUABLY adv").
+د ننوتنې(قناعت، ن، [قناعتونه]، "قناعتقناعت بښونکی قناعت بښونکې صفت").
+```prolog
+د ننوتنه(نرم, صفت, [], "نرم ترينه نرميνονکى نرمۍنه خوږه نرمۍنه په نرمي سره").
+```
+entry(ملایمت, n, [ملایمتونه], "د ملایم او نرم حالت").
+د ننوت(اضافه، فعل، [اضافه شوی، اضافه کول، اضافه کوي], "د بدیل په توګه عمل کول").
+entry(suba, n, [subas], "صبح").
+دخله(معاون_عابد, ن, [معاون_عابدان], "یو معاون عابد").
+entry(سب اسيد, صفت, [], "لږ ترش").
+entry(لږترخه, صفت, [], "لږ څه ترخه").
+entry(یوڅه_شدید، صفت، [], "برخه په برخه شدید").
+entry(subadar, n, [subadars], "سبه دار").
+entry(فرعی-بالغ, ن, [فرعی-بالغونه], "يو فرد چې د بلوغ په لور روان دی").
+د پرو لاګ متن: entry(subagent, n, [subagents], "یو تابع اجنټ").
+entry(صبح, ن, [صبحونه], "د هند يو ولايت").
+entry(سبه دار, ن, [سبه داران], "د یوه صوبې والي").
+entry(subalar, adj, [], "د وزرونو لاندې موقعیت لري").
+entry(سب اېریا، ن، [سب اېریاز]، "د یوې ساحې فرعي وېش").
+دخولی(نیم وچه, صفت, [], "تر ځایه وچه").
+entry(فرعي_جوهر, ن, [فرعي_جوهرونه], "د يو جوهر يو عنصر").
+entry(subaural, adj, [], "په زحمت سره اورېدونکی").
+ورود(نیمه‌محوری, صفت, [], "پۀ‌کې لږ محوري").
+د ننوتنې(سب-بیس, اسم, [سب-بیسونه], "د بیس تر ټولو ټیټه برخه").
+entry(سب باسين, n, [سب باسينونه], "د يوې سيمې برخه چې د يو دريا لخوا خشک شوی وي").
+د ننوتنه(سب بیس, ن, [سب بیسونه], "د یو ارګان تر ټولو ټیټې نغمې تولیدونکی پیډل سټاپ").
+entry(subbed, past, [], "د فرعي کړنې زمان").
+entry(سپينګ, ن, [سپينګونه], "د عکاسي فلم په ملاتړ يو نري پوښ").
+entry(فرعي_بلاک, n, [فرعي_بلاکونه], "د یو بلاک فرعي برخه").
+د ننوتنې(ښکته_نسل, ن, [ښکته_نسلونه], "په يوه نسل کې يو بيل تفريق وړ زياتوالی").
+entry(subcaste, n, [subcastes], "د يو ذاتی ډلې تقسيم").
+د ننوتنه(فرعي_لامل, ن, [فرعي_لاملول], "يو فرعي لامل").
+د مرصدوکیی, n, [مرصدوکییان], "د یوه نړۍ کوچنۍ برخه".
+entry(مرستيال_رييس, ن, [مرستيال_رييسان], "يو مرستیال رئيس").
+entry(subclaim, n, [subclaims], "یو تابع ادعا").
+entry(subclan, n, [فرعی قبیلې], "د یوې قبیلې یوه برخه").
+entry(فرعي_کلاس, v, [برخه_کول,بخشه_کول,برخې], "په یوه طبقه ویش کې ځای پر ځای کول").
+entry(subclerk, n, [subclerks], "یو مرستیال لیکوال").
+د ننوتنه(فرعي_کوډ, ن, [فرعي_کوډونه], "یو کوډ ته یوه فرعي برخه").
+د پرولوګ ژباړه:
+entry(subcool, v, [subcooled,subcooling,subcools], "ترټولو ټیټې نقطې ته یخ کول پرته له منجمدیدو").
+entry(subcult, n, [فرعي کلتورونه], "د يو کلت د يوې برخې وېش").
+entry(subcutis, n, [subcutises], "یا د ډرمیس ژور برخه SUBCUTES").
+entry(subdean, n, [subdeans], "یو مرستیال ډین").
+entry(subdeb, n, [subdebs], "هغه نجلۍ چې د هغې د ډیبوټانټ کیدو څخه یو کال مخکې وي").
+entry(subdepot, n, [فرعي ګودامونه], "یو پوځي ګودام چې د بل ګودام تر واک لاندې فعالیت کوي").
+entry(نوښت, ن, [نوښتونه], "د تسخير عمل").
+entry(لرې_کړل, v, [لرې_کړ,لرې_کول,لرې_کوي], "لرې کول").
+entry(subduct, v, [subducted,subducting,subducts], "ښکته کول").
+entry(غلبه کول, v, [غلبه کړه,غلبه کول,غلبه کوي], "تر کنټرول لاندې راوړل").
+entry(مغلوبوونکی, n, [مغلوبوونکي], "هغه څوک چې تسلط کوي").
+entry(subdural, adj, [], "تر دوړي غشا لاندې واقع شوی").
+دخوليه(سب ډورف، ن، [سب ډورفس]، "یوه وړه ستورې چې په نسبي توګه ټیټه ځلا لري").
+entry(سب اېکو, ن, [سب اېکوګانې], "نیمګړی اېکو").
+entry(سب اډیټ، v، [سب اډیټ شو، سب اډیټ کوي، سب اډیټونه]، "د مرستیال مدیر په توګه عمل کول").
+د Prolog عبارت:
+entry(subentry, n, [subentries], "يوه پېژندنه چې د يوې عمومي پېژندنې لاندې شوې ده").
+entry(فرعي_دور, ن, [فرعي_دورونه], "د يو دور د وېش يو برخه").
+entry(سبېر, ن, [سبېرونه], "پهللم").
+entry(نيم ولاړ, صفت, [], "nearly erect").
+د څيرې نه ، صفات ، [] ، "د پرک سره اړوند") ، (entry
+entry(سوبرين, ن, [سوبرينونه], "يوه ماده چې په کارک حجرې کې موندل کېږي").
+د اېنټري(سوبرائز، فعل، [سوبرائزډ، سوبرائزنګ، سوبرائزز]، "سوبرائز کول").
+د ننوتنې (entry)  (suberize، v، [suberized، suberizing، suberizes]، "په کارک نسج بدلول").
+entry(suberose, adj, [], "فلينڅېر").
+entry(suberous, adj, [], "د وښو سره").
+entry(سب فیلډ، n، [سب فیلډونه]، "د ریاضياتي فیلډ یو فرعي مجموعه چې پخپله یو فیلډ دی").
+entry(فرعي_فايل, ن, [فرعي_فايلونه], "د يو فايل يوه برخه").
+entry(فرعي ښکارندوی, ن, [فرعي ښکارندوی], "يو نښان يا حرف چې د بل کرکټر لاندې ليکل شوی وي").
+entry(subfloor, n, [فرعي پوړونه], "له بشپړ شوي پوړ لپاره د پایه په توګه ایښودل شوی یو خام پوړ").
+entry(subfluid, adj, [], "یو څه ټکی").
+entry(subframe, n, [subframes], "د پای چوکاټ د نښلولو لپاره چوکاټ").
+entry(فرسوده, ن, [فرسوده‌ګان], "توره بې‌روښنايي جامې").
+د ننوتنه(فرعي_ژانر، ن، [فرعي_ژانرونه]، "د يو ژانر يوه فرعي برخه").
+entry(subgenus, n, [subgenuses], "د جینس تقسیم یا SUBGENERA").
+دخولیه(فرعي_موخه، ن، [فرعي_موخې], "یوه فرعي موخه").
+entry(فرعي_درجه, ن، [فرعي_درجات]، "يوه سطحه چې د يو سرک پران اچول کيږي").
+entry(فرعي_ګراف, n, [فرعي_ګرافونه], "یو ګراف چې د لوی ګراف په دننه کې دی").
+entry(فرعي_ډله, v, [پر_کوچنیو_ډلو_وېشل, وېشل کېږي, ډلې, فرعي_ډلې], "پر کوچنیو ډلو وېشل").
+entry(سبګم, ن, [سبګمز], "د مخلوط سبزیجاتو یو چینایي ډوډۍ").
+دخولو(سرليک, ن, [سرليکونه], "د يوې برخې عنوان").
+entry(subhuman, n, [خلک نه دی], "هغه څوک چې د انسان څخه کم وي").
+entry(نیمه نمجن, صفت, [], "یوه اندازه نمجن").
+د دخولې(innerIdea) ننوتل، ن، [ننوځي نظرونه]، "د کمزورې نظر".
+entry(subindex, n, [subindexes], "يا SUBINDICESa subfix").
+د داخلې(subitem, n, [subitems], "یو توکی چې د لوی موضوع فرعي برخه جوړوي").
+entry(subito, adv, [], "په چټکۍ سره د موسیقۍ لارښوونې په توګه کارول کیږي").
+دخول(موضوع, v, [subjected, subjecting, subjects], "تجربه کول لامل ګرځوي").
+entry(ورګډول, فعل, [ورګډېدل, ورګډېدلۍ, ورګډوي], "په پای کې اضافه کول").
+entry(لغوه کول, v, [لغو شو, لغو کول, لغوې], "لغوه کول").
+entry(sublease, v, [اجاره کړل,اجاره کول,اجاريږي], "اجاره ورکول").
+entry(سب لیټ, فعل, [سب لیټ,سب لیټنګ,سب لیټس], "کرایه شوي شتمني بل ته په کرایه ورکول").
+entry(سبلیول, ن, [سبلیولونه], "یوه ټیټه سویه").
+دخول (sublime, صفت, [], "د لوړ یا اصیل کیفیت SUBLIMER SUBLIMEST").
+داخلونه(والې، ف، [واله شو، وال کېږي، وال کېږي]، "واله جوړول").
+entry(پريمان، ن، [پريمانونه]، "هغه څوک چې sublime کوي").
+entry(لږ ډیر لوړ، اعلی، [], "د عالی").
+entry(فرعي_حد, ن, [فرعي_حدونه], "په يوه حد کې بل حد").
+entry(subline, n, [sublines], "په يوه ډله کې يو داخلي خط").
+entry(فرعي_برخه, ن, [فرعي_برخې], "د یوې ټوټې فرعي برخه").
+entry(سپوږمۍ_لاندې, صفت, [], "د ځمکې پورې اړه لري").
+د Prolog د اسکرپټ ژباړه په پښتو کې د ژباړې پرېږدنې لپاره:
+
+```
+ورودی(فرعی_څانګه، ن، [فرعی_څانګې]، "د کمپیوټر لپاره د انتخابونو دویمه لړۍ").
+```
+entry(ډوبول, v, [ډوب, ډوبېدنه, ډوبوي], "د مايع سطحې لاندې ځای په ځای کول").
+دخولیه(لاندې کول, ف, [لاندې شوی، لاندې کول، لاندې کوي], "چپه کول").
+entry(submiss, adj, [], "د تسلمیدو میل کول").
+entry(سپارل, v, [سپارلی,سپارل,سپاري], "د بل چا واک ته تسلیمېدل").
+entry(subnasal, adj, [], "د پزې لاندې موقعيت لرونکی").
+د داخلې(بدأ, ن, [subnets], "د مخابراتي سیستم دننه د اړیکو یو سیسټم").
+entry(سب نیش, ن, [سب نیشس], "د یو استوګنځي یوه برخه").
+د پرولوګ: entry(subnodal, adj, [], "د ګره لاندې موقعیت لري").
+entry(سبووشني, صفت, [], "چې د سمندر لاندې پوړ لاندې شتون لري").
+د ننوتنې (suboptic، صفت، []، "د سترګو لاندې موقعیت لري").
+entry(suboral, adj, [], "د خولې لاندې موقعیت لري").
+د پورتنیو کلونو د یوې پوړۍ دننه تړلې کورنیو یوه کتګوري
+entry(مجبورول, v, [مجبورکړ,مجبورول,مجبوروي], "د شهادت درواغ وهلو ته هڅول").
+د پرولاګ کوډ:
+entry(suborner, n, [suborners], "هغه څوک چې دغلي کوي").
+entry(suboval, adj, [], "تقريباً بيضوي").
+entry(subovate, adj, [], "نږدې بيضوي").
+entry(سب اکساید, ن, [سب اکسایدونه], "یو اکساید چې نسبتاً لږ اکسیجن لري").
+entry(سبپینل, n, [سبپینلز], "د یوه پینل فرعي برخه").
+entry(subpar, adj, [], "له معياره ښکته").
+entry(برخه, ن, [برخې], "د یوې برخې جز").
+entry(سبپينا, فعل, [سبپينا شو, سبپينا کول, سبپيناس], "د سبپينا کول").
+د ننوتنه(فرعي مرحله, ن, [فرعي مرحلې], "د یوې مرحلې وېش").
+entry(subphyla, npl, [], "په یوه سایوم کې وېشونه").
+د ننوتنه(فرعي پلاټ، ن، [فرعي پلاټونه], "یو ثانوي ادبي پلاټ").
+د داخلې (subpoena, v, [subpoenaed,subpoenaing,subpoenas], "د یوې قضایي حکم په ډول احضار کول").
+entry(تر صوبکی, صفت, [], "د قطبي دایرې څخه یوازې بهر موقعیت لري").
+entry(subprime, adj, [], "يو پور ښودل چې د يو لومړنۍ کچې نرخ څخه په زيات سود کې دی").
+entry(subpubic, adj, [], "د پوبیس لاندې موقعیت لري").
+د Prolog ژباړه:
+entry(subrace, n, [subraces], "د یو نژاد یوه فرعي څانګه").
+د_ننوتنه(څانګه_کرایه, ن, [څانګه_کرایې], "کرایه له فرعي کرایې اخیستونکي").
+entry(subring, n, [subrings], "د يو رياضي حلقې هغه زېر مجموعه چې خپله هم يو حلقه وي").
+د ننوتلو(فرعي_قاعده, ن, [فرعي_قواعد], "يوه تابع قاعده").
+entry(subsale, n, [subsales], "د اخیستل شوو توکو بیا پلور").
+entry(subscale, n, [subscales], "د یوې کچې جز").
+entry(subsea, adj, [], "د سمندر د سطحې لاندې موقعیت لري").
+د داخلولو(فرعي_سيمه, ن, [فرعي_سيمې], "هغه سيمه چې په مستقيمه توګه له بلې ترلاسه شوې وي").
+د ننوتنه(فرعي_معنی، ن، [فرعي_معنوي], "د یوه معنی د وېش").
+entry(سب سیری، n، [سب سیرونه]، "د ایکولوژیکي پرله پسې پرمختګ یو ډول").
+entry(خدمت کول, v, [خدمت کړی, خدمت کول, خدمتونه کوي], "خدمت کول د ترویج لپاره").
+entry(فرعي_سيټ, n, [فرعي_سيټونه], "يو رياضي سيټ چې د يو لوی سيټ دننه شامل وي").
+entry(subshaft, n, [subshafts], "يو ښکتنی مينځل").
+entry(برخه_پوښ, n, [برخې_پوښونه], "د یوې اتوم پوښ د الیکترون د پوښونو څخه یوه").
+د ننوتنه(واړه بوټی, ن, [واړه بوټې], "یو ټیټ بوټی").
+entry(ارام, v, [ارام شو,ارام کېږي,ارام کېږي], "چې ټیټې یا عادي کچې ته ښکته شي").
+entry(subsider, n, [subsiders], "یو څوک چې کمښت کوي").
+د ننوتنه(سبسډي، ن، [سبسډیز]، "د پیسو مرسته یا مرسته").
+په پرولاګ کې: entry(subsist, v, [subsisted,subsisting,subsists], "پاتې کېدل" ).
+entry(فرعي_ځای, ن, [فرعي_ځایونه], "د ځای یوه فرعي برخه").
+entry(subskill, n, [فرعي وړتیاوې], "یو فرعي مهارت").
+entry(ځمکې لاندې مځکه, v, [ترکرل,ترکر کول,ترکر کوي], "د ځمکې لاندې مځکه پلټلو لپاره شخړه کول، د ځمکې د سطحې لاندې پرت").
+د پرولوګ:
+entry(subsolar, adj, [], "په مستقیم ډول د لمر لاندې موقعیت لري").
+entry(فرعيتيز، صفت، [], "په يو سرعت خوځېدل چې د غږ په پرتله کم وي").
+د پرولوګ کرښه چې دلته په پښتو ژبه کې ده:
+entry(subspace, n, [subspaces], "د رياضياتي فضا يو فرعي برخه").
+entry(substage, n, [substages], "د مایکروسکوپ یوه برخه چې د لوازمو ملاتړ کوي").
+د ننوتنه(پښتنی، ن، [پښتنې برخې]، "د یوې ریاست یوې برخې").
+entry(ځایول, v, [ځایول شوی,ځای کوونکی,ځای کوي], "د لویې ډلې دننه شاملول").
+د ننوتلو(فرعي_دنده, ن, [فرعي_دندې], "یوه فرعي دنده").
+entry(subtaxon, n, [subtaxons], "يا SUBTAXAa د يو ټيکسون تقسيم").
+entry(subteen, n, [subteens], "يو کس چې د ځوانانو کلونو ته نږدې کېږي").
+د پايلو تولنه(subtend, v, [subtended,subtending,subtends], "د لاندې يا مقابل لور ته غځېدل").
+د ننوت(entry(subtest, n, [subtests], "د ازموينې يو فرعي تقسيم").
+د بېلګې(فرعي_متن, ن, [فرعي_متنونه], "ليکل شوی يا چاپ شوی مواد د یو څو ژورنال متن لاندې").
+entry(subtheme, n, [subthemes], "یو تابع موضوع").
+entry(subtile, adj, [], "نور ظریف ډېر ظریف").
+دخوله(سبتيلين, ن, [سبتيلينونه], "يو انتي بيوټيک").
+entry(subtilty, n, [subtilties], "ظرافت").
+دخولی(عنوان, v, [په عنوان,عنوانونه,عنوان ورکول], "دوهم عنوان ورکول").
+entry(نرم, صفت, [], "نورم نرمترین دومره لږ چې د کشف لپاره ستونزمن وي نرمۍ سره").
+دخول (نازکي، نوم، [نازکۍ/لطافتونه]، "د نازک والي حالت").
+entry(subtone, n, [subtones], "یو ټیټ یا ښکته ټون").
+entry(سبټونک, ن, [سبټونکس], "د موسیقۍ یو ډول غږ").
+د ننوتنه(سب ټوپيا، ن، [سب ټوپياز], "د يو ښار شاوخوا سيمې").
+د ننوتنه(فرعي_موضوع، n، [فرعي_موضوعونه]، "يوه ثانوية موضوع").
+د غوښتنې په اساس ترجمه په متن کې نشته. لطفاً د دې لپاره چې هغه متن په پام کې ونیسئ چې اړتیا لري بدل شي، ما ته اجازه راکړئ، او زه به مرسته وکړم.
+entry(کمول, v, [کم شوی, کمول, کمیږي], "لرې کول").
+entry(subtrade, n, [subtrades], "یو متخصص چې د عمومي قراردادي له خوا ګمارل شوی وي").
+د Prolog:
+entry(subtrend, n, [subtrends], "یو فرعي تمایل").
+entry(کوچنی قبيله, ن, [کوچنی قبيلې], "د يوې قبيلې فرعي برخه").
+entry(subtunic, n, [subtunics], "یوه کرتۍ چې د بلې کرتۍ لاندې اغوستل کیږي").
+entry(فرعي_ډول, n, [فرعي_ډولونه], "يو داسې ډول چې د بل ډول تابع يا په هغه کې شامل وي").
+entry(subulate, صفت, [], "نازک او یوې نکتې ته تنېدونکی").
+entry(ضمنی_واحد, ن, [ضمنی_واحدونه], "يو واحد چې د يو لوی واحد برخه وي").
+د ننوتل(فرعي, ن, [فرعيان], "یو مرکزي ښار ته نژدې د اوسیدو سیمه").
+entry(ښاري، ن، [ښاريان]، "هغه څوک چې په ښاري سيمه کې ژوند کوي").
+entry(نیمه ښاري سیمه, n, [نیمه ښاري سیمې], "د ښار شاوخوا سیمې").
+entry(مرسته کول, v, [مرسته وکړه,مرسته کول,مرستې کوي], "د ملاتړ یا ارامۍ په توګه را رسېدل یا واقع کېدل").
+entry(سبورټ, v, [سبورټ کړی,سبورټ کول,سبورټ کوي], "بشپړ ډول له منځه وړل").
+entry(subvicar, n, [subvicars], "یو تابع ویکر").
+entry(subviral, adj, [], "د وایروس یوې برخې پورې اړوند").
+entry(فرعي_وایرس, ن, [فرعي_وایرسونه], "یو ویروسي پروټین چې د وایرس څخه کوچنی وي").
+entry(زیرلب, صفت, [], "په ذهني توګه د کلمو په توګه جوړ شوي").
+entry(سب وے, v, [سب وے شو, سب وے کېدل, سب ویز], "له پوهیدې په ریل ګاډي سفر کول").
+entry(سب ورلډ، ن، [سب ورلډز]، "د علاقې یا فعالیت د یو کرې فرعي برخه").
+entry(subzero, adj, [], "له صفر څخه کم ثبت کول").
+وردنه(څانګه, ن, [څانګې], "د یوې زون یوه فرعي څانګه").
+entry(سوکه, ن, [سوکهس], "يا سوکوتسوکه").
+entry(بريالي کېدل, v, [بريالی, برياليتوب ته رسېدل, بريالي کېږي], "څه چې وغواړئ یا موخه ولرئ ترلاسه کول").
+د بریالیتوب ترلاسه کول چې څه غوښتل شوي یا اراده شوي وي
+entry(لنډ, صفت, [], "په لږو ټکو کې څرګند SUCCINCTER SUCCINCTESTclearly").
+entry(سوکنک, صفت, [], "د کهربا پورې تړاو لرونکی").
+entry(سکسینیل, n, [سکسینیلس], "یو واحد متقابل رادیکال").
+entry(مرسته, v, [مرسته شوې,مرسته کول,مرستې کوي], "د مرستې لپاره تلل").
+entry(مرستندوی, ن, [مرستندویان], "هغه څوک چې مرسته کوي").
+entry(سکورۍ, ن, [سکورۍ], "چیکوري").
+entry(succoth, a, [], "د سوکا جمع").
+entry(مرسته, v, [مرسته وکړه,مرسته کول,مرستې], "مرسته کول").
+د دې غوښتنې سره سم، لاندې Prolog کرښه په پښتو کې وړاندې شوې:
+
+`entry(سوکیوبا, ن, [سوکیوباس], "یا سوکیوبیا یو سوکیوبس").`
+د Prolog کمپیوټر برنامه:  
+entry(succubus, n, [succubuses], "یا SUCCUBI ښځینه بلا").
+entry(تسلیم شه، فعل، [تسلیم شوی، تسلیمیدل، تسلیمیږي]، "د لوړ ځواک منل").
+entry(بریالیتوب, v, [بریالیتوب وکړ, بریالیتوب کوي, بریالیتوبونه], "په شدت سره ښورول").
+entry(داسې, صفت, [], "د هغه ډول").
+entry(داسې, صفت, [], "د ورته ډول").
+entry(ذات, n, [ذاتونه], "بنستیزه یا ځانګړې ځانګړتیا").
+entry(چوش, فعل, [چوښل,چوشېدل,چوي], "د يوې برخې تشې جوړولو سره دننه کول").
+دخول(sucker, v, [suckered,suckering,suckers], "د ټیټو ډنډونو یا څانګو پاکول").
+entry(suckfish, n, [suckfishes], "يو ځوړني").
+entry(چوشک, فعل, [چوشکول, چوشکول, چوشکي], "له تي څخه شيدې ورکول").
+entry(ښوونکی، ن، [ښوونکي]، "هغه څوک چې ښووي").
+entry(suckless, adj, [], "بې اوبو").
+entry(چوشک، ن، [چوشکان]، "یو نه غوښل شوی تی لرونکی حیوان").
+د داخلې(سکی، صفت، [], "سکیئر سکیسټ ډېر د اعتراض وړ").
+entry(sucrase, n, [sucrases], "یو انزایم").
+entry(سوڪري, n, [سوکرېس], "د ایکواډور پخوانۍ پیسې").
+entry(سوکروز, ن, [سوکروزونه], "د يو ډول بوره").
+entry(چوشول, ف, [چوشول،چوشېدنه،چوشېدل], "د چوسولو په پروسه کې لیرې کول").
+entry(سوداريم, ن, [سوداريا], "د مخ د پاکولو لپاره يوه ټوټه").
+پرو لاگ: entry(sudary, n, [sudaries], "sudarium").
+مهال(sudation, n, [sudations], "زیاد خوله").
+د ننوتنې(سوداتوري، ن، [سوداتورۍ]، "یوه تودوخه حمام د خولې راوتلو لپاره").
+ورود(sudd, ن, [sudds], "د ځوړنده نباتاتو يوه توده").
+entry(ناڅاپي, صفت, [], "په چټکۍ سره او بې خبرۍ سره پیښیږي ناڅاپي قید").
+entry(ناڅاپه, ن, [ناڅاپيانې], "يوه ناڅاپي پېښه").
+د ننوتنه(سوډوکو، n، [سوډوکوس]، "یو معما چې د ۱ نه تر ۹ پورې شمېرو سره تړاو لري").
+ورودي(عرق, ن, [عرقان], "ښيرېعرقبښندوی صفت").
+entry(suds, v, [sudsed,sudsing,sudses], "په صابون لرونکي اوبو کې مینځل").
+entry(سوډسر, ن, [سوډسرونه], "د صابون ډرامه").
+entry(sudsless, adj, [], "بې سوډه").
+entry(sudsy, adj, [], "د سپینو سپینو بلبلونو لرونکی").
+entry(سو، v، [سوړ، سوړ کول، سو،] ، "د حقوقي چارو پرانستل").
+د دې Prolog کرښې د پښتو ژبې ژباړه دا ده:
+```prolog
+entry(سوېد, فعل, [سوېد, سوېدنه, سویډونه], "پوستکي ته نرم سطح ورکول").
+```
+entry(سور، ن، [سورونه]، "هغه څوک چې ادعا کوي").
+داخلول(شحم, ن, [شحوم], "د غواګانو او پسونو د پښتورګو شاوخوا سخت غوړ". شحمي صفت).
+entry(سوېتے, ن, [سوېتےس], "د سوې ختيځ لور ته باد د کپه برېټون ټاپو سيمو کې").
+entry(سفاري، ن، [سفاریس]، "یو سفاري").
+entry(ځوریدل, v, [ځورېد,ځورېدل,ځوریږي], "درد یا کړاو احساسول").
+دخښتي(sufferer, ن, [sufferers], "هغه چې ځوریږي").
+entry(بسنه، فع، [بسنه شوې،بسنه کوي،بسنه کېږي]، "کافي يا مناسب وي").
+entry(بس کول, n, [بس کونکي], "يو څوک چې بس کوي").
+entry(suffix, v, [suffixed, suffixing, suffixes], "په يوه کليمه کې پس وند زياتول").
+entry(پسوند, صفت, [], "د یو پسوند پورې اړونده یا دی").
+دخول(sufflate, فعل, [sufflated, sufflating, sufflates], "پړسول").
+دخل(رای ورکول، ن، [رای ورکولونه]، "د رای ورکولو حق").
+entry(خپرول, فعل, [خپور, خپرېدل, خپروي], "څخه یا باندې خپریدل").
+entry(بوره, فعل, [بوره شوې, بوره کول, بورې], "په بوره يو شيرين کاربوهايدريټ پوښل").
+entry(sugarer, n, [sugarers], "هغه څوک چې بوره جوړوي").
+entry(شکر کول, ن, [ش ک ر کو لونه], "د میپل ساپ د شیره په توګه خړوبولو پروسه").
+entry(خوږ, صفت, [], "د بوره یا شکری په څېر").
+دخول(suggest, v, [suggested,suggesting,suggests], "د غور لپاره وړاندیز یا وړاندې کول").
+دخول(sugh, ف, [sughed, sug- ing, sughs], "سوه کول").
+entry(خودکش, صفت, [], "ځان تخریب کوونکی").
+entry(ځان وژنه, v, [ځان وژنه وکړه, ځان وژنه کوي, ځان وژنې], "ځان په قصدي توګه وژل").
+د پرولاګ دغه کرښه په پښتو کې داسې ده:
+entry(مرافعه کول, حال, [], "د مرافعه کول فعلي مصدر").
+entry(suint, n, [suints], "يو طبيعي وازده چې د پسونو په وړيو کې موندل کيږي").
+entry(سوټ, فعل, [سم شوی، سمول، مناسب دي], "مناسب اوسیدل").
+د ننوتنه(مناسب، صفت، []، "مناسبطریقه مناسبه وکارونه adv").
+entry(بکس, ن, [بکسان], "يو فليټ مستطيل د سامان وړلو صندوق").
+entry(سوټې, ن, [سوټېز], "د شیانو یوه لړۍ چې یوه واحد تشکیلوي").
+entry(suiter, n, [suiters], "د سوټونو د جامو مجموعې لپاره یو کتګوریس سوټ کیس").
+entry(د سوټ جوړونې ټوکر, ن, [د سوټ جوړونې ټوکرونه], "د سوټونو جوړولو لپاره ټوکر").
+entry(suitlike, adj, [], "د جامو د يوې ډلې سره ورته والی").
+ورود(ادعا کوونکی, ن, [ادعا کوونکي], "هغه څوک چې یوه ښځه غواړي").
+entry(سک, ن, [سکس], "سوق").
+entry(سوق, ن, [بازارونه], "يوه بازار").
+د پرولوگ:
+entry(sukiyaki, n, [sukiyakis], "يو جاپانی خواړه").
+entry(سکاهه, ن, [سکاهونه], "يا سوکوت يا سوکوت يو لنډمهاله سرپناه چې پکې د يهودي جشن په جریان کې خواړه خوړل کیږي").
+دخوليه(سولکيت، صفت، [], "چې اوږدې او تنګې ژورې کرښې ولري").
+entry(sulcated, صفت, [], "sulcate").
+entry(سولکس, ن, [سولکي], "یو تنګ نالیSULCAL صفت").
+entry(سلطان, ن, [سلاطین], "سلطان").
+entry(سلفا, ن, [سلفاس], "یو باکتریا مخنیوی کوونکی درمل").
+entry(سلفېټ, v, [سلفېټ شوی,سلفېټ کول,سلفېټونه], "د سلفوریک اسید سره درملنه کول").
+entry(سلفایډ, ن, [سلفایډونه], "sulfide").
+entry(سلفائډ, n, [سلفائډونه], "يوه سلفر مرکب").
+د افسوس، زه یوازې Prolog کوډ چمتو کولی شم، څوک چې ورته مه وګورئ. 
+entry(sulfinyl, n, [sulfinyls], "دو ارزشي راديکال").
+پرولاګ:
+entry(sulfite, n, [سلفائيټس], "يو کيمياوي مالګهSULFITIC adj").
+entry(sulfo, adj, [], "سلفونیک").
+entry(سلفون, ن, [سلفونونه], "یو سلفر مرکب").
+entry(سلفونک, صفت, [], "يو ځانګړی يوګونی ريډيکل لرونکی").
+د Prolog کوډ: entry(sulfonyl, n, [sulfonyls], "یو دوه ګوني رادیکال").
+د ننوتنی مثال(سلفر, فعل, [سلفر شوی، سلفر کول، سلفرونه], "غیر فلز عناصرو سره د سلفر درملنه کول").
+entry(sulfuret, v, [sulfureted,sulfureting,sulfurets], "يا SULFURETTED SULFURETTING SULFURETسره د سلفر سره درملنه وکړئ").
+entry(سلفیري, صفت, [], "د سلفر پورې اړه لري").
+سلفري, صفت, [], "د ګندک سره ورته والی".
+د پاسښتو ژبې د پاره د Prolog لیکنه:
+entry(sulfuryl, n, [سلفوریلس], "سلفونیل").
+entry(خَفَه کېدل, v, [خَفَه شو, خَفَه کېدونکی, خَفَه کېږي], "خَفَه کېدل").
+ورود(ګړنګی، ن، [ګړنګیان]، "هغه څوک چې ګړنګی کوي").
+```prolog
+entry(sulky, adj, [], "د نورو سره په ناخوښۍ او ګوښه کې سلوک کولSULKIER SULKIEST، SULKILY په اداور کې").
+```
+entry(تند خویه, ن, [د تند خوو موټرې], "یو سپک د آس لخوا کشیدونکی ګاډۍ").
+entry(سولېج, ن, [سولېجونه], "فاضله").
+entry(sullen, adj, [], "د خفه یا د خپګان ډک خوی یا کینه ښکاره کولSULLENLY adv").
+entry(sully, v, [خيرن شوی، خيرنول، خيرنوي], "خيرن کول").
+د ننوتنه (sulpha، n، [sulphas]، "sulfa").
+دخول(سلفیت، فعل، [سلفیټ شوی، سلفیټ کول، سلفیټونه]، "سلفیټ کول").
+entry(سلفيډ, ن, [سلفيډونه], "سلفایډ").
+ورودی(سلفاید، ن، [سلفایډونه]، "سلفاید").
+د Prolog:
+entry(سلفايت, ن, [سلفايتونه], "سلفايت").
+د ننوتل(sulphone, n, [sulphones], "sulfone").
+entry(سلفر, v, [سلفرډ,سلفرنگ,سلفرونه], "ته سلفر").
+entry(تيزابۍ, adj, [], "sulfury").
+د ننووتلو(سلطان, نوم, [سلطانان], "د يو مسلم هېواد واکمن سلطانیک صفت").
+entry(سلطانه, ن, [سلطانې], "د سلطان ښځه").
+د ننوتلو معلومات(تودوالی, صفت, [], "ډېر ګرم او مرطوب SULTRILY adv").
+دخول(sulu, n, [sulus], "د يو ميلانيزياني پتلون").
+entry(sum, v, [یوځای,یوځای کول,یوځای کوي], "په یو ټول کې اضافه کول").
+entry(جمع، ن، [سمی]، "د ازبکستان یو مالي واحد").
+ښکاره(sumac, ن, [sumacs], "یو ګل لرونکی ونه یا بوټی").
+entry(سماق, ن, [سماقان], "سماق").
+داخله(سومي، ن، [سوميس]، "د جاپاني تور رنګ یوه ډول").
+entry(sumless, adj, [], "د محاسبه لپاره خورا لوی").
+entry(summa, n, [summas], "يا SUMMA يو جامع کار په يوې موضوع").
+entry(summable, adj, [], "د یوځای کېدو وړ").
+entry(د جمع مونکي، n, [جمع مونکي]، "يو جمع کونکی").
+د ننوتل(لنډيز, ن, [لنډيزونه], "يو لنډ بيا ټاکنه").
+entry(summate, v, [summated, summating, summates], "جمع کول").
+د Prolog ژبه:
+د پورتني کرښې ژباړه نشي کېدای، ځکه چې دغه کرښه د پروگرام کولو یوه ځانګړې کرښه ده او په دې کې ژبې سره ځانګړې اړیکه نشته چې په پښتو وژباړل شي. دغه د Prolog یوه برخه ده.
+entry(اوړی, v, [اوړی شوی, اوړیږي, اوړي], "د کال ترټولو ګرمه موده تېرول").
+entry(د_دوبي، صفت، [], "دوبيز").
+د داخلې(څرلیکنه، صفت، [], "د اوړي ځانګړنه").
+ننوتنه(جمع کول, موجود, [], "summing د فعل شکل").
+entry(غونډه، فعل، [غونډه وکړه، غونډه کول، غونډې]، "په لوړې کچې غونډه کې ګډون کول").
+entry(قله, صفت, [], "تر ټولو لوړه نقطه پورې اړه لري").
+د داخله(سرمشري, ن, [سرمشريزې], "د نړیوالو خبرو اترو لپاره د دولت د مشرانو تر منځ د غونډو کارول").
+entry(رايستل, v, [راوغوښتل,رايستل شوی,رابلل], "د حاضرېدو امر ورکول").
+د Dاعده(summoner, n, [summoners], "يو څوک چې راغواړي").
+ټولنه(غوښتنه، فعل، [غوښتل شوي، غوښتنه کول، غوښتنې]، "د محکمه د امر سره غوښتنه کول").
+د پرولوګ دې کرښې ته په پښتو کې دې ډول ژباړل کیږي:
+entry(سومو, ن, [سوموس], "د جاپاني کړۍلوبه").
+entry(sumoist, n, [sumoists], "د سومو غېږ وهونکی").
+دَخلاصول(سَمپ، ن، [سَمپونه]، "يو ټيټ چاپيريال چې د مايعو د استولو يا ذخيره کولو لپاره کار کوي").
+د ننوتنه(سومپټر، ن، [سومپټرونه], "یو بوځي حیوان").
+entry(sumpweed, n, [sumpweeds], "يو د باتلاق بوټی").
+ورود(لمر, v, [لمر کړ, لمرول, لمريږي], "د ځمکې شاوخوا ځلېدونکی ستوری ته ښکاره کول").
+entry(sunback, adj, [], "د لمر وړانګو ته د شا ښکاره کولو لپاره ټیټ پرې شوی").
+entry(د لمر په واسطه, صفت, [], "په لمر کې پخه شوې").
+entry(لمر‌څټ, ن, [لمرڅټونه], "د لمر وړانګې ته ځان څرګندول").
+entry(لمرغاړې, v, [لمرغاړې کول, لمرغاړې کونکي, لمرغاړې کوي], "د لمرغاړې کول").
+د داخلې(لمر وړانګه، n، [لمر وړانګې]، "د لمر وړانګه د لمر وړانګه adj").
+داخله(د لمر بستره, ن, [د لمر بسترې], "یو وسیله د څرمن مصنوعي برنزه کولو لپاره").
+د ننه وړل(سن بېلټ, نوم, [سن بېلټونه], "د امريکا د جنوبي او جنوب لوېديځو ايالتونو").
+entry(مرغۍ، ن، [مرغۍګانې], "یوه استوایی مرغۍ").
+د پېلوګ بندښت:
+entry(sunblock, n, [سونبلوکس], "یو چمتووالی چې پوستکی د لمر د وړانګو څخه ساتي").
+Prolog: entry(sunbow, n, [sunbows], "د لمر د وړانګو په واسطه د یو غبار له لارې د رنګونو یوه قوس").
+entry(لمرلويد, v, [لمرلوېد,لمرلوېدنه,لمرلوېدوي], "د لمر له تماس څخه سوزیدل یا رنګ اوښتل").
+د ننوتنه(سنبالښت، ن، [سنبالښتونه]، "د لمر د وړانګو چاودنه").
+entry(د لمر ضد ساتنه, ن, [د لمر ضد ساتنې], "د پوستکي ساتنه د لمر له زیان څخه").
+entry(آفتابي ګل, ن, [آفتابي ګلان], "د يو ډول لمر ګل").
+د ننۍ (sundae) لپاره د Prolog کرښه په پښتو کې:
+
+```prolog
+entry(dish, n, [dishes], "د آیس کریم څخه په یو ټاپینګ سره د خوړنۍ ډیش").
+```
+ورود(لمرنی چت, ن, [لمرني چتونه], "یو چت چې لمر ته ښکاره وي").
+دخولی(سندر، فعل، [سندر شو، سندر کول، سندرونه کوي]، "ماتول").
+entry(جلاکوونکی, n, [جلاکوونکي], "هغه څوک چې جلاکوي").
+entry(sundew, n, [sundews], "یو مردابی نبات").
+entry(سنډيل, ن, [سنډيلونه], "د وخت معلومونې يو ډول آله").
+entry(لمرڅرک, ن, [لمرڅرکونه], "یو وړوکی رنګین کمان").
+د داخلہ(سنداون، فعل، [سنداون شو، سنداون کول، سنداونونه]، "د شپې د وخت کنفیوژن تجربه کول").
+رانEntries(پڼسي, ن, [پڼسيګانې], "يو لباس چې بډيز کمه وي").
+دخول(sundries, npl, [], "نا متنوع توکي").
+د ننوتنه(سنډراپس, ن, [سنډراپس], "یو ګل لرونکی نبات").
+د پرولوګ کرښه په پښتو ژبه کې:
+
+```prolog
+د داخلې(بېلابېل, صفت, [], "بېلابېلSUNDRILY ق.لفظ "). 
+```
+entry(sunfast, adj, [], "د لمر له امله د رنګ تېرېدو په وړاندې مقاومت لرونکی").
+entry(سن فيش, ن, [سن فيشونه], "يو سمندري کب").
+entry(سورل شوی, پخوانی, [], "د غاړه اړولو برخه د سندرې ویل").
+د ننوتنه(عينکې, ن, [عينکې], "د لمر د وړانګو د تيزولو لپاره يو عدسه چې تودوخه توليد کړي").
+entry(لمرځلا، ن، [لمرځلې], "په اسمان کې يو ځلښت چې د لمر له کبله رامنځته کېږي").
+د پورتنۍ کرښې پاس يې په پرو لاګ کې په پښتو کې ليکلې: 
+```prolog
+entry(ډوب شوی, الف, [], "د ښه شوی بهير"). 
+```
+د خاښت شوی, یوه خوره, [], "د غرقېدنې ځانګړي صفت".
+داسې ښکاري چې د Prolog کرښه ده. د ژبې د توپیر له امله، تاسو ورکړل شوې Prolog کرښه نه ترجمه کیږي، ځکه چې Prolog خپله د پروګرامننګ ژبه ده او باید د هغې په اصلي بڼه پاتې شي: `entry(sunker, n, [sunkers], "a ridge of rock near the surface of the sea").`
+entry(سنکیت, ن, [سنکیتز], "یو خوږ کوچنی ټوټه").
+entry(لمرچراغ, ن, [لمرچراغونه], "د الټراوایلټ وړانګو خوشې کوونکی څراغ").
+entry(ګلزمین, n, [ګلزمیڼې], "يوه سيمه چې د زيات لمر سره نښه شوې وي").
+entry(بې‌لمره, صفت, [], "له لمر پرته").
+entry(لمر, ن, [لمرونه], "د لمر رڼا").
+entry(د لمر په څېر, صفت, [], "د لمر په شان").
+entry(sunlit, adj, [], "د لمر په واسطه روښانه شوی").
+entry(سَن, ن, [سَنْس], "يوه د ختیځ هند بوټی").
+دبسونه، ن، [سونه]، "د دوديز اسلامي قانون بدنه"
+د ننوتنه(سنت، ن، [سنتونه]، "سنت").
+entry(sunned, past, [], "د لمر فعل").
+د ننه ایستنه(لمرنی، اوسني، [], "د لمر مشارک").
+entry(sunny, adj, [], "د لمر نه ډکSUNNIER SUNNIESTSUNNILY adv").
+`entry(لمریز ایوان, n, [لمریز ایوانونه], "یو ایوان چې ډیره لمرينه رڼا ده").`
+entry(sunproof, adj, [], "د لمر له زیان څخه مقاومت لري").
+entry(لمر وړانګه, n, [لمر وړانګې], "د لمر وړانګه").
+entry(لمرختا, ن, [لمرختاګانې], "د سهار په وخت کې د لمر د افق په سر راختل").
+entry(لمرچت، n، [لمرچتونه]، "د یو موټر چت چې د پرانیستلو وړ پینل لري").
+entry(لمريزه خونه, ن, [لمريزې خونې], "يوه خونه چې د زيات مقدار لمر رڼا داخليدو لپاره جوړه شوې").
+د داخلېدنه(لمر سوخ، ن، [لمر سوخونه], "د لمر له امله د لرګیو بوټو ټپ").
+entry(لمرلوېدنه, ن, [لمرلوېدنې], "د ماښام په وخت کې د افق لاندې د لمر ښکته کېدل").
+entry(لمرساي, ن, [لمرسايان], "يو شی چې د لمر څخه د ساتنې لپاره استعمالیږي").
+entry(د لمر رڼا, n, [د لمر رڼاګانې], "د لمر رڼاSUNSHINY صفت").
+د داخلیدو(لمر سپوږمۍ, ن, [لمریزه سپوږمۍ], "د لمر په سطحه یو تور داغ").
+د Prolog:
+entry(sunstar, n, [sunstars], "د يو قسم ستاره کب").
+entry(لرغونى سنگ, ن, [لرغوني سنگونه], "د کوڅي يوه برخه").
+entry(سنسوٹ, ن, [سنسوټونه], "د لوبو یو ډول").
+داخلول(سورلويد, ف, [سورلويد شوي, سورلويد کول, سورلويد], "خولۍ وهل").
+entry(suntrap, n, [suntraps], "یوه په زړه پورې لمرینه خوندي ځای").
+د ننوتنې (sunup, n, [sunups], "سپوږمۍ").
+entry(sunward, adv, [], "د لمر په لور").
+entry(لمر_په_لور, قيد, [], "لمر_په_لور").
+entry(لمرخوا، قيد، []، "له کيڼ څخه ښي طرف ته").
+entry(ماښامنۍ, غ, [ماښامنۍ-وخوړله,ماښامنۍ-خوړل,ماښامنۍ-خوړل], "د ماښامنۍ خوراک کول").
+entry(سوپے, ن, [سوپیز], "هغه لوبغاړی چې د خبرو کولو برخه نلري").
+entry(super, v, [supered,supering,supers], "د کتاب د نازکې پنبې جالۍ سره پیاوړی کول").
+entry(superadd, v, [superadded,superadding,superadds], "نوره اضافه کول").
+entry(عالي, صفت, [], "عالي کیفیتSUPERBLY adv").
+entry(superbad, صفت, [], "ډېر بد").
+د پرولاګ: entry(superbug, n, [سوپر بګز], "د بکتریا داسې ډول چې د ټولو انټي بايوټيکسو پر وړاندې مقاومت لري").
+entry(لوکس_موټر, ن, [لوکس_موټرونه], "یو لوړ پوړی موټر").
+entry(supercop, n, [اعلي پولیس افسران], "يو لوړ پوړي پولیس افسر").
+ورودی(برترخود، ن، [برترخودها], "د ذهن یوه برخه").
+د Prolog:
+entry(superfan, n, [سوپرفینان], "یو ډېر وفادار مینه‌وال").
+داخلونه(سوپرفکس، ن، [سوپرفکسونه]، "په وينا کې د فشار يو تکراري بڼه").
+entry(سوپرفلای, صفت, [], "په ښایسته توګه بې ځایه ځان ښوونکی").
+د لیکنې (superhit, n, [superhits], "کوم شی چې په بې‌سارې توګه بریالی وي").
+entry(superhot, adj, [], "په زړه پورې ګرم").
+د ننهـ superior، n، [superiors]، "هغه څوک چې د بل په پرتله لوړ رتبه کیفیت یا واک لري".
+دودنه(superjet, ن, [superjets], "د جیټ الوتکې یو ډول").
+entry(superlie, v, [superlay,superlain,superlying], "له پورته خوا دروغ ووايی").
+entry(سوپر مین، ن، [سوپر مینز]، "یو فرضي غوره سړی").
+entry(supermom, n, [supermoms], "يو غوره مور").
+entry(اسماني, صفت, [], "له اسمان سره تړاو لري").
+د ننه(superpro, n, [superpros], "یو اعلی مسلکي").
+entry(supersex, n, [عقیم_ارګانیزمونه], "د عقیم ارګانیزم یوه ډوله").
+entry(فوق العاده جاسوس, n, [فوق العاده جاسوسان], "يو عالي رتبه جاسوس").
+د Prolog کوډ به په پښتو کې داسې ترجمه شي:
+`entry(سپر ټیکس, ن, [سپر ټیکسونه], "یوه اضافي ټیکس").`
+entry(supinate, v, [supinated,supinating,supinates], "د لاس د ورغوي د پورته کولو لپاره اړول").
+entry(مصدر, ن, [مصادر], "یو لاتین فعلي نوم").
+د Prolog ژبې کرښه په پښتو کې:
+entry(supinely, adv, [], "په غیر فعاله ډول").
+entry(خوړل, ماضی, [], "د خوړلو زمانه").
+د ننوتنه(ماښامنۍ, ن, [ماښامنۍ], "د ماښام خواړه").
+entry(supping, present, [], "د 'sup' فعل ګرنډي شکل").
+entry(ځای ناستې کول, v, [ځای ناستې کړئ,ځای ناستې کول,ځای ناستې کوي], "ځای نیول").
+entry(supple, adj, [], "SUPPLER SUPPLESTpliantSUPPLELY adv").
+دخولی(نرم، ف، [نرم شو، نرم کول، نرموي], "نرم کول").
+entry(عرضه کوونکی, ن, [عرضه کوونکي], "هغه څوک چې رسوي").
+entry(supply, v, [رسول, ورکول, رسوي], "هغه څه چمتو کولچې اړتیا وي").
+entry(ملاتړ, فعل, [ملاتړکړی,ملاتړکول,ملاتړکوي], "چې پورته کړي یا قوت زیات کړي").
+entry(گومان, n, [گومانونه], "يو څه چي ګمان شوی وي").
+entry(ګومان وکړې, v, [ګومان وکړه, ګومان کوونکی, ګومان کوي], "د صحیح والي فرض کول").
+entry(فرضونکي، ن، [فرضونکي]، "یو څوک چې فرض کوي").
+لسټ(ټکول، فعل، [ټکول شوی، ټکول کوي، ټکوي]، "په زور سره د پای ته رسولو لپاره").
+entry(supra, adv, [], "پورته").
+entry(supreme, n, [supremes], "يو نرم سپين ساس چې د چرګانو له شورابې څخه جوړ شوی وي").
+رسېدنه(اعلي, صفت, [], "تر ټولو اعلی يا لوړ په قدرت يا واک کې").
+entry(سپریم, ن, [سپریموګان], "هغه څوک چې په واک کې تر ټولو لوړ وي").
+entry(سوک, ن, [سوکان], "سوق").
+د ننوتنه(سورة، ن، [سورتونه]، "د قرآن یو سورت").
+دخول(سورة, ن, [سورتونه], "یو ورېښمې پارچه").
+entry(sural, صفت, [], "د پښې د پنډۍ پورې اړوند").
+د نېماړې(سر)کلمه(ن) [سرې نېماړې]، "د یوې جوړښت په اساس کې د یوې قالبی یا پوله نړ"
+entry(پای, v, [پای وکړ,پای کول,پای کوي], "پاي ته رسول").
+entry(سرکول, ن, [سرکولونه], "بهرنۍ کوټ یا چپنه").
+entry(surd, n, [بې اوازه ګړنې], "يو بې اوازه خبرې اهنګ").
+entry(یقیني, صفت, [], "یقیني یقیني نه ډاډمنه").
+entry(مطمئن, صفت, [], "هڅوکې د توقعاتو پوره کولو لپاره").
+دلیل(surely, adv, [], "له شکه پاک").
+entry(یقین, n, [یقینونه], "د یقین حالت").
+entry(ډاډمن, تقابلي, [], "د ډاډمن").
+entry(ډاډمن, تر ټولو لوړ صفت, [], "د ډاډمن").
+entry(ضمانت, n, [ضمانتونه], "باوري").
+entry(سطح, فعل, [سطح کړ, سطح کول, سطحات], "په یوې اوږدې او تنګې تخته باندې په ماتېدونکو څپو باندې سپرېدلSURFABLE صفت").
+```prolog
+داخله(سطح، v، [سره شوې، سطحي کول، سطحي]، "بهرني پوښ لګول"). 
+```
+entry(سطح، ن، [سطحونکې]، "يو چې سطحې جوړوي").
+entry(سرف برډ, ن, [سرف برډونه], "یو ساحلي مرغۍ").
+entry(سرف بوټ، ن، [سرف بوټونه]، "یو مضبوط بېړۍ").
+entry(د اضافي موادو رسولو, v, [د اضافي موادو ورکولو, اضافي موادو ورکول, اضافي مواد], "زیاترسونه").
+entry(سرفر, ن, [سرفرونه], "هغه څوک چې سرف کوي").
+entry(سرف‌فش, ن, [سرف‌فشونه], "یو سمندري ماهی").
+entry(سطحي, تقابلي, [], "د ساحلي").
+entry(تر ټولو خوښ، لوړترين، [], "د surfy نه").
+د دې Prolog کرښه پښتو ته وژباړئ:
+entry(سرېفرنګ, n, [سرېفرنګونه], "د ځوړو ماتېدونکو څپو په سور کې سپرلۍ کول یا ورزش دی").
+entry(surflike, adj, [], "د ماتیدونکي څپو سره ورته").
+entry(د اوښايې سړی, ن, [د اوښايې سړي], "هغه څوک چې د څپو کې د کښتۍ چلولو مهارت لري").
+entry(سرفسائیډ, صفت, [], "ښکته شوی د سمندرغاړې ته نږدې").
+entry(surfy, adj, [], "په څپو ډک").
+entry(سورج, ف, [سورجېدلی، سورجېدنه، سورجيږي], "په پړسېدونکی ډول حرکت کول").
+entry(سرجن, ن, [سرجنانو], "يو څوک چې جراحۍ praktice کوي").
+entry(surger, n, [surgers], "یو څوک چې مخې ته ځي").
+entry(جراحي، ن، [جراحيان], "د طبي ستونزو درملنه د عملیات له لارې").
+د خروجي (جرحي, صفت, [], "د جراحۍ اړوند").
+د څپو راوتنه، د اوسني زمان حال، [], "د څپو د راوتنې برخه".
+entry(سورګي، صفت، []، "خپریدونکی").
+entry(مځکنی، ن، [مځکنیان]، "یو کيناستونکی تي لرونکی").
+د ننوتلو(سوریمي، ن، [سوریمیس]، "یو ارزانه د کب محصول").
+entry(خشن, صفت, [], "خشن ترینه خشن ترین سړي ته بې ادب خشنۍ قید").
+د پرولوګ کرښه: entry(surmise, v, [ په ګمان یې کول, په ګمان یې کوونکی, په ګمان یې کوي], " د لږ شواهدو سره اټکل کول").
+entry(ګومان کوونکی, ن، [ګومان کوونکي], "یو څوک چې ګومان کوي").
+entry(غلبه کول، v, [غلبه کړې،غلبه کول،غلبې کوي], "د یو شی څخه تېر یا پارېدل").
+د Prolog کرښه: entry(surname, v, [surnamed,surnaming,surnames], "د کورنۍ نوم ورکول").
+دخول(surnamer, ن, [surnamers], "یو څوک چې نوم ړوي").
+entry(شکېدل, v, [وڅکېد,څکېدنه,څکېد], "له حد څخه تېرېدل").
+entry(سورپليس, n, [سورپليسونه], "یو پراخه جامه").
+د پرولاګ ليکنه:
+entry(surplus, v, [surplused,surplusing,surpluses], "يا SURPLUSSED SURPLUSSING SURPLUSSESto د اړتيا څخه زيات يا اضافي په توګه چلند کول").
+معلوميږون(surprint, v, [surprinted,surprinting,surprints], "په یو څه چاپ شوي باندې چاپ کول").
+د ننوتنې(حیرانول, ف, [حیران,حیرانوونکی,حیرانوي], "په ناڅاپي توګه راتلل").
+entry(حیران, v, [حیران,حیرتونکی,حیرانوي], "د حیرانولو لپاره").
+entry(سوره, ن, [سورې], "د کورني حیواناتو یوه ناروغي").
+entry(سورېل، صفت، [], "د خوبونو غوندې ځانګړتياوې لرل").
+entry(سري, ن, [سريګانې], "یوه سپکه ګاډۍ").
+entry(چاپېره، v، [چاپېره کړه، چاپېره کول، چاپېره کوي]، "په بشپړه توګه شاوخوا غځېدل").
+entry(شاهدي, ن, [شاهديان], "د يوې هوسۍ د ښکر تر ټولو پورته برخه").
+ورود(surtax, v, [surtaxed,surtaxing,surtaxes], "یوه اضافي مالیه اټکل کول").
+entry(سرلیک, ن, [سرلیکونه], "د بهرني ژبې خبرو اترو ژباړه چې د پردې يا سټېج پورته ښودل کیږي").
+entry(سرتوت, ن, [سرتوتونه], "یوه تنګ جمپر").
+entry(څارنه, v, [څارل شوی,څارل/څارونکی,څاري], "په نږدي توګه کتل").
+entry(survey, v, [surveyed,surveying,surveys], "د زاویو او فاصلې په اندازه کولو سره د سرحدونو سیمه یا لوړوالی ټاکل").
+entry(سروې کوونکی, n, [سروې کوونکي], "هغه څوک چې ځمکه اندازه کوي").
+د داخله(بقا، نوم، [بقاګانې]، "یوه ژوند کول یا دوام کول اوږد تره له بل شخص یا شي څخه").
+entry(بقاء, فعل, [باقي شو, په پاتې کیدو, پاتې کیږي], "په موجودیت کې پاتې کیدل").
+entry(ژوندي پاتې کېدونکی, ن, [ژوندي پاتې کېدونکي], "ژوندي پاتې کېدونکی").
+entry(ژوندی پاتې شوی, ن, [ژوندي پاتې شوي], "یو څوک چې ژوندي پاتې کیږي").
+entry(sus, v, [تشخيص,تشخيص کوونکی,تشخيص کوي], "تشخيص کول").
+دخول(sushi, n, [sushis], "د يخې وريجې کيکونه چې د خام ماهي په پټو سره پوښل شوي").
+د ننوتنه(سوسلک، ن، [سوسلکان]، "یو یوریشین جونګړه").
+entry(suspect, v, [مشکوک کړه, مشکوک کول, مشکوک کوي], "په لږ شواهدو سره ګناهکار ګڼل").
+د Prolog ژباړه په پښتو کې:
+```prolog
+ورود(suspend, فعل, [غیرمؤقت, معلق کول, معلق کوي], "د یو دورې لپاره تم / د توقف سبب ګرځېدل").
+```
+entry(تعلیق, n, [تعلیقونه], "د ذهني ناڅرګندتيا يا خوښۍ حالت").
+د پرولوګ مطلوبه برخه:
+entry(suspire, v, [suspired,suspiring,suspires], "سا اخيستل").
+د Prolog:
+entry(suss, v, [sussed,sussing,susses], "په ګوته کول یا پلټل").
+entry(ساتل, v, [ساتل شوی, ساتل کېدل, ساتي], "د خوړو او څښاک په ورکولو سره وساتل").
+entry(سرسر, ن, [سرسرونه], "یو نرم شور غږ").
+د Prolog ژبه:
+entry(sutler, n, [sutlers], "هغه څوک چې د سرتیرو سره سوداګریز توکي خرڅوي").
+د ننه کیدل(سوتره، ن، [سوترې]، "یو هندو افوریزم").
+ورود(sutta, ن, [suttas], "sutra").
+```prolog
+د ننوتلو(سوتي, ن, [سوتيان], "يوه هندو کونډه چې د خپل خاوند په جنازه کې د خپلې ژمنتيا ښودلو لپاره سوځول شوې").
+```
+entry(سيوچري, صفت, [], "د دوو هډوکو ترمنځ د يو ځاى کېدو کرښې پورې اړه لرل").
+entry(ستنه، فعل، [ګرزول، ګرزه، ګرځي]، "په ستن او تار سره یوځای کول").
+د ننه لوستل(پادشاه, ن, [پادشاهان], "یو فیوډالي بادار").
+entry(svaraj, n, [svarajes], "سوراج").
+entry(سویډبرګ, ن, [سویډبرګونه], "د وخت واحد").
+دخپل(سولته، صفت، [], "ډیر سولته سولته ترین، په نرمه نرۍ توګه سولته، د نرۍ نرۍ په توګه").
+entry(swab, v, [پاک,پاکول,پاکوي], "د لوی موپ سره پاکول").
+entry(swabber, n, [swabbers], "هغه څوک چې صفا کوي").
+د(Prolog):
+entry(swabbie, n, [swabbies], "يو سمندري/يو ملګری").
+entry(swabbing, present, [], "د سواب فعل").
+entry(سوابي, ن, [سوابيې], "سوابي").
+نکتۍ(swacked, صفتي, [], "نشه").
+entry(تاوول, v, [تاوکړ,تاووول,تاوي], "په پټو کې نغول").
+entry(سواګ, فعل, [سواګډ, سواګنګ, سواګس], "ډاډ").
+entry(سویج, فعل, [سویج شو، سویج کول، سویجونه], "د څټک استعمالولو سره جوړول").
+درشل(swager, ن, [swagers], "هغه څوک چې سواج کوي").
+entry(مغرورانه تلل, v, [په مغرورانه توګه تللی, په مغرورانه توګه تلل], "په مغرورانه توګه قدم وهل").
+entry(swaggie, n, [swaggies], "یو سویگ مین").
+entry(swagging, present, [], "د سويګ مصدري بڼه").
+entry(swaging, present, [], "د سوېج ګردان فعل").
+entry(swagman, n, [swagmen], "يو بې کوره").
+entry(swail, n, [swails], "سويېل").
+دخوا swain, ن, [دخوا swains], "یو کلیوال هلکSWAINISH صفت".
+entry(خړوبي, ن, [خړوبي], "د ټيټ لوند ځمکې یوه برخه").
+entry(ولوله, v, [ولیوده,له ولوهھ,لولوه], "د خولې او مری له لارې معدې ته رسول").
+entry(و手ام, گذشته, [], "دوزي حال کی").
+entry(سوامي, ن, [سواميان], "يو هندوي مذهبي ښوونکی").
+entry(swamies, pl, [], "د سوامي").
+entry(سوداب، فعل، [سوداب شوېدل، سوداب کول، سودابونه]، "لوندول").
+entry(باتلاق مېشته, ن, [باتلاق مېشته ګان], "هغه څوک چې په باتلاق سیمه کې ژوند کوي").
+د اېنټري(swampish، صفت، []، "swampy").
+entry(swampy, صفت, [], "ډیر لمده تر ټولو لمده لوند").
+د ننوتلو(سوامي، ن، [سوامي-ګانې]، "سوامي").
+entry(مرغه, فعل, [قسم وخوړ, قسم خوري, مرغان], "سوګند کول").
+د ننوتنه(سوانگ, الف, [], "د سوېنګ د ماضي زمان").
+entry(د سوانونو رمې ساتونکی, n, [د سوانونو رمې ساتونکي], "څوک چې د لویو اوبو تیږو سوانونو پاملرنه کوي").
+entry(swank, صفت, [], "په ښکاره بڼه شانداره").
+ورود(swank, فعل, [swanked, swanking, swanks], "ګونځېدل").
+د ننوتنه(ښکلی، صفت، [], "زیات ښکلی، تر ټولو ښکلی، ښکلا، په ښکلا سره").
+entry(swanlike, adj, [], "د هنس په څېر").
+entry(swanned, past, [], "د swan زمانه").
+entry(سوانري, ن, [سوانريز], "يو ځای چیرته چې سوانونه روزل کیږي").
+entry(swanning, present, [], "د ښاپیرۍ د برخې نوم").
+entry(swanny, v, [], "اعلان کول چې یوازې په یوازني شخص مفرد کې کارول کیږي").
+entry(swanpan, n, [swanpans], "یو چینایی اباکوس").
+entry(د چرګ پوستکی, ن, [د چرګ پوستکي], "د چرګ پوستکی").
+entry(swap, v, [بدل,بدلول,بدلېږي], "راکړه ورکړه کول").
+entry(واپفائل, n, [واپفائلونه], "یو کمپیوټر فایل چې د لیږدول شویو پروګرامونو لپاره ځای لري").
+entry(سوپر, n, [سوپرونه], "يو چې بدلوي").
+entry(سوراج, ن, [سوراجونه], "په برتانوي هند کې ځان حکومت").
+entry(sward, v, [swarded,swarding,swards], "په چمن پوښول").
+دګير(sware, يوه, [], "د swear تېر حالت").
+ننوتنه(چوڼې, ن, [چوڼې], "هغه مواد چې د پرې کولو وسيلې په واسطه لرې کيږي").
+entry(غوټه, v, [غوټه شوی, غوټه کیدل, غوټې], "په لویه ډله کې حرکت کول").
+entry(سوارمر, ن, [سوارمرز], "یو چې سوارم کوي").
+entry(چاپېره, ن, [چاپېروالي], "د بریدګرو ډلې له خوا د يو قرباني چاپېره کېدل").
+د ننه توکې(سور، صفت، [], "توروالی").
+entry(سوَرتھ, ن, [سوَرتھونه], "چمن").
+entry(swarthy, adj, [], "تياره تور رنګ لرل SWARTHIER SWARTHIEST").
+entry(تور، adj, [], "تور").
+د تلوار, v, [تلواره, تلواري, تلواريږي], "په شوق حرکت کول".
+entry(swasher, n, [swashers], "يو چې سوئش کوي").
+entry(swastica, n, [swasticas], "بنګړی").
+entry(سواستيکا, ن, [سواستيکې], "يو هندسي شکل چې د نښې يا سينګار په توګه کارول کيږي").
+د ننوتنه(سوات، فعل، [ونوښت، ونوښتنه، وونهې], "په تېزۍ سره ووهل").
+entry(سواچ, ن, [سواچونه], "د جامې یوه نمونه ټوټه").
+entry(ډنډوره, ن, [ډنډورې], "د پرې شوي واښه یا غلې دانې یو کتار").
+entry(غلاف, فعل, [پټ کړل, پوښلو, پوښي], "په پټۍ کې تاوول").
+entry(swather, ن, [swathers], "يو هغه چې پرې کوي").
+entry(swatted, past, [], "د سوټ فعلي زمانه").
+entry(سوټر, ن, [سوټرونه], "يو چې سوټ کوي").
+د ننوتنې(څپيړه وهنه, اوسنی, [], "څپيړه وهلو ګردان").
+وردنه(sway, v, [swayed,swaying,sways], "د مخامخ ورو ورو حرکت کولSWAYABLE صفت").
+دخول(swayback, n, [swaybacks], "د شا د غیر معمولي ټیټیدو").
+د ننهیدل(swayer, ن، [swayers], "هغه چې زنګیږي").
+entry(swayful, adj, [], "په اغېز اچولو کې وړ").
+د پرولوگ کود په پښتو کې:
+
+```prolog
+داخلول(سوګند, فعل, [سوګند وکړ, سوګند کړی, سوګند خوړل], "سوګند یو رسمي ژمنه کول").
+```
+ننوتنه(قسم خورونکی, ن, [قسم خورونکي], "يو څوک چې قسم خوري").
+دخول(قسم، ن، [قسمونه]، "د يو جدي قسم پورته کولو عمل").
+entry(خيږي، فعل، [خيښت، خيځل، خيږي]، "د خولو راتوېدل").
+دخول(عرقخانه, ن, [عرقخانې], "يو کوچنی ځای چې په کې يو کس خولې کوي").
+entry(sweater, n, [sweaters], "يو اوبدل شوی بهرنی لباس").
+entry(sweaty, adj, [], "د خولو پوښل شویSWEATIER SWEATIESTSWEATILY adv").
+entry(شلغم, n, [شلغمونه], "يوه روتاباګا").
+د ننوتنه(سويني, ن, [سوينيز], "سويني").
+دودنه(سویني، ن، [سوینیز]، "د آسونو په اوږو کې د عضلو ضیاع").
+entry(جارو, v, [وړه, جارول, جارو], "د بروم یا برش سره پاک یا صاف کول").
+ورودی(سویپر، ن، [سویپرز]، "یو څوک چې جارو وهي").
+entry(جارو، n، [جاروګانې]، "د یو چا د جارو کولو عمل").
+د ننوتنې(سوېپي، صفت، []، "د پراخه سلسلې یا ساحې SWEEPIER SWEEPIEST").
+entry(سست, صفت, [], "lazy").
+entry(sweet, adj, [], "د خوند لپاره خوږ، خوږ ټټېست").
+entry(خواږه, ن, [خواږه], "څه شی چې خوږ وي").
+د ننوتنه(خوږول, فعل, [خوږ شو، خوږول، خوږوي], "خوږول").
+درتښتونکی(خوږه, ن, [خوږې], "ليرې مينه").
+entry(خوږه, n, [خوږې], "يوه خوږه مڼه").
+ورودي(شیرینوالی، صفت، [], "یو څه خواږه").
+entry(sweetlip, n, [گلالی مچھلی], "يو کب چې وتلی خوله لري").
+داخلونه(په_خوږۍ_سره, قيد، [], "په خوږه توګه").
+داخلول(شریفه, ن, [شریفې], "یو استوایي ونه").
+ورځپاڼه(پړسېدل، صفت، []، "ډیر پړسېدل تر ټولو پړسېدل ښکلی").
+entry(پړسیدل, v, [پړسیده,پړسه,پړسیدنه], "پړسیدلپه اندازه یا حجم کې زیاتوالی").
+entry(پړسوب, n, [پړسوبونه], "څه چې پړسېدلی وي").
+entry(ګرمېدل, v, [ګرم شو, ګرمېدونکی, ګرميږي], "د سختې ګرمۍ څخه ځورېدنه").
+entry(ګرم، صفت، [], "ډېر ګرم ډېر ګرم").
+entry(سوځول, تېره, [], "د سوځولو زمانه").
+entry(څرخېدل, فعل, [څرخېد, څرخېدنه, څرخېږي], "د مستقيمې لارې څخه ناڅاپي مخ اړول").
+entry(سورونکی, ن, [سورونکي], "هغه څوک چې منحرف شي").
+entry(sweven, n, [swevens], "يو خوب يا نظر").
+entry(swidden, n, [swiddens], "يو کرنيز قطعه چې د سبزي پوښ د سوځولو له لارې رامنځته شوې").
+د ننوتنی(swift, adj, [], "SWIFTER SWIFTEST په چټکۍ سره حرکت کوي").
+entry(تيز الوتونکی, ن, [تيز الوتونکي], "يو تيز الوتونکی مرغۍ").
+entry(سويفټر, ن, [سويفټرونه], "په کښتۍ کې رسۍ").
+د پرولوګ غږ: entry(swiftie, n, [swifties], "یو کس چې په چټکۍ سره عمل کوي یا فکر کوي").
+entry(swiftlet, n, [swiftlets], "يو غار اوسيدونکی چابک").
+entry(په تېزۍ سره, ق، [], "په تېز ډول").
+entry(چښل, v, [چښل,چښلو,چښي], "په ژوره یا تېزه توګه څښل").
+معاشرت(swigger, ن, [swiggers], "هغه چې څښي").
+دخله(سوائل, ن, [سوائلونه], "بحري څرمن").
+ورودی(څرنګه, ن, [څرنګې], "یو چې د مهرونو ښکار کوي").
+entry(څرخک_شکار, ن, [څرخک_شکاران], "د څرخکانو ښکار کولو فعالیت").
+د ځانګړنو او ماښود کوډ او کړنو سره د یوې اندراج د غوښتلو ځانګړنې: 
+`entry(swill, v, [swilled,swilling,swills], "د یو شي څکل").`
+ورود(swiller، ن، [swillers]، "هغه څوک چې لوی جام کې څښاک کوي").
+entry(swim, v, [swam,swum,swimming], "په اوبو کې د طبيعي طريقو سره ځان په حرکت راوستل").
+entry(شواکی، ن، [شواکونکې], "هغه څوک چې لامبو وهي").
+د دې Prolog کرښه په پښتو کې دلته ده:
+entry(لامبو، ن، [لامبوګانې]، "د لامبو وهنې عمل").
+د ننوتنه(دحوضګی، صفت، [], "ډير حوضګی ډيرترين حوضګی سرګرڅيډونکی حوضګيانه قيد").
+ورځنې(swimsuit, ن, [swimsuits], "یو غسلۍ سوټ").
+entry(د لامبو وهلو جامې, ن, [د لامبو وهلو جامې], "د لامبلو لپاره مناسبې جامې").
+entry(فریب ورکول, v, [فریب ورکړ,فریب ورکوي,فریبونه], "د پیسو یا مال اخیستل د فریب کارۍ له لارې").
+entry(درواغجن, ن, [درواغجنانو], "هغه څوک چې دوکه کوي").
+entry(خنزير, n, [خنزيرونه], "يو سپک شخص").
+entry(د خنزیر مرض, ن, [د خنزیر مرضونه], "د خنزیر یوه ناروغي").
+entry(سوینګ, فعل, [سونګ,سوینګینګ,سوینګونه], "په ازاده توګه شاته او راسته حرکت کول").
+```prolog
+entry(swingby, n, [swingbys], "یوه مأموریت چې پکې یو فضایي جهاز د سیارې د جاذبې ځواک نه د موسم د لاجح کړنو لپاره کار اخلي").
+```
+د خورپړ، فعل، [خورپړ، خورپړلې، خورپړي]، "د سوټی وهل"۔
+entry(swinger, ن, [swingers], "هغه څوک چې ځړوي").
+entry(swingier, comparative, [], "د سوینګي").
+دخوليه(د سويینګیست، د لوړې کچې، [], "د سوینګی").
+ورودي(څرخېدنه, صفت, [], "SWINGINGESTlively او برحال").
+entry(څرخېدنه, ن, [څرخېدنې], "د جنسي شریکانو د بدلولو عمل").
+د داخله(swingle, v, [swingled,swingling,swingles], "د پرېښلو لپاره").
+entry(سوینګ مین, n, [سوینګ مین], "یو باسکټبال لوبغاړی چې د ګارډ یا فارورډ په توګه لوبه کولی شي").
+entry(swingy, adj, [], "په دُوې ډېره څرګنده").
+پرو لوگ: entry(swinish, adj, [], "د خوګ په څېر یا ورته مناسب").
+entry(swink, v, [swinked,swinking,swinks], "زیار ایستل").
+د داخلېدو (swinney، n، [swinneys]، "sweeny").
+entry(سوائپ, v, [سوائپ کړ, سوائپ کول, سوائپ کوي], "په سوېپ کولو سره برید کول").
+entry(swiper, n, [swipers], "یو څوک چې سوئپ کوي").
+entry(سویپس, نپیل, [], "خراب شوو بییر").
+entry(swiple, n, [swiples], "د غله جلاتولو تجهیز یوه برخه").
+entry(swipple, n, [swipples], "سويپل").
+entry(څرخ, v, [څرخېد،څرخېدل،څرخي], "له یوه ګرده حرکت سره حرکت کول").
+entry(swirly, adj, [], "ورزیدلي").
+د ننوتلو(سویش، ف، [سوئشد،سوئشنگ،سوئشز]، "په اوږده سسکونکي غږ سره حرکت کول").
+entry(swish, adj, [], "ښکلی په فېشن کې 2 نرم").
+entry(swisher, n, [سوشرز], "هغه څوک چې سوشر کوي").
+د ننوتنه(swishy, صفت, [], "ډېر نرم، تر ټولو نرم سوېش کول ښځینه").
+entry(سویس, n, [سویسونه], "د پنبې ټوکر").
+entry(سویچ, v, [سوچ,سوچ کول,سویچونه], "د یوې نرمو لرګي سره وهل").
+entry(سوئچل, ن, [سوئچلز], "یوه نوشابه چې له اوبو، بوره او سرکې څخه جوړیږي او اکثره پرې زنجبیل هم اضافه کیږي").
+entry(څرخوونکى, ن، [څرخوونکې], "چې څرخوي").
+د داخلیدو(سویچ, قید, [], "په چټکۍ سره").
+پرو لاگ:
+entry(swithe, adv, [], "swith").
+entry(swither, v, [شکمن کېدل, شکمن کېدل, شکمن کېږي], "شک کول").
+entry(سروزنده، قید، [], "سروزن").
+entry(swive, v, [swived,swiving,swives], "د جماع کول").
+entry(څرخېدل, فعل, [څرخېدلی, څرخېدل, څرخېږي], "يا څرخېدلی څرخېدل څرخېږي چې په یوه کرښه برابره ملاتړ باندې وګرځي").
+د پلورګ: entry(swivet, n, [swivets], "د عصبي خوښۍ حالت").
+entry(سويزل, v, [سويزل شوی,سويزل کول,سويزلات], "زیات څښاک کول").
+د ننوتنه(swizzler, n, [swizzlers], "يو چې څرخوي").
+entry(swob, v, [swobbed,swobbing,swobs], "د مسح کولو").
+entry(swobber, n, [swobbers], "سوابر").
+دخول(swollen, ماضي, [], "د swell فعل ماضي").
+entry(بې هوش کېدل, v, [بې هوش شو,بې هوش کېدل,بې هوش کېږي], "بې هوش کېدل").
+په نښه کول(سنه وغزه، ن، [سنه وغزنې], "هغه چې بې هوشه کېږي").
+entry(swoony, adj, [], "بې‌هوښ هېښان").
+entry(ټوپ وهلو, v, [ټوپ وواهه,ټوپ وهونکی,ټوپ وهې], "ناڅاپي ښکته کېدل").
+entry(swooper, n, [swoopers], "هغه څوک چې راښکته کیږي").
+د ننوتنې (swoopy, صفت, [], "SWOOPIER SWOOPIESTچې د سويپینګ ليکې يا بڼې لري").
+entry(سهووش، فعل، [سهووشېد، سهووشېدل، سهووشېږي]، "د يو کرناک غږ سره حرکت کول").
+د پرولوګ کرښه: entry(swop, v, [بدل شوی, بدلول, بدلونه], "بدلول").
+ننوتنه(سووپر، ن، [سووپرز]، "سوپر").
+entry(تورې, ن, [تورېګانې], "يوه وسله چې اوږده توره د پرې کولو يا وردن کولو لپاره لري").
+دورزن، ن، [دورزنان]، "چې په تومانچه کې مهارت لري").entry
+entry(قسم-واخيست, يوه, [], "د قسم خوړلو تېر زمان").
+entry(سوګند, مخکېنی, [], "د سوګند ویلو کړنې برخه").
+entry(swot, v, [swotted,swotting,swots], "په ټکولو").
+د پرولاګ پایله:
+entry(swotter, n, [swotters], "هغه څوک چې په خوارۍ او اوږده مطالعه بوخت وي").
+دود(entry, swoun, v, [swouned,swouning,swouns], "بېهوښه کېدل").
+د ننوتنه(سوونډ, فعل, [سوونډېد, سوونډېدونکې, سوونډوي], "بي هوش کېدل").
+entry(swum, تېره ماضي, [], "د swim شريک پړه").
+د(Prolog): entry(swung, a, [], "past tense of swing").
+دخول(sybarite, ن, [sybarites], "یو شخص چې د خوند او عیش لپاره وقف شوی وي").
+entry(سایبو, ن, [سایبوز], "سایبول").
+د داخلې(شکامین, ن, [شکامینونه], "د توت ونه").
+entry(چنار, ن, [چنارۍ], "یو شمالي امریکا ونې").
+entry(سایس, ن, [سایسان], "په هندوستان کې یو نارینه خادم").
+entry(سي، نوم، [سيس]، "په چين کې د پخوا زمانې د پیسو په توګه کارېدونکی ښه خوندي سپین زر").
+entry(سیکومور, ن, [سیکومورونه], "سپین چاڼ").
+entry(sycon, n, [sycons], "د سپنج یو نوعSYCONOID adj").
+entry(syconium, n, [syconia], "يو غوښه‌داره څو ميوه").

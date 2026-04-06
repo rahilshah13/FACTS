@@ -3359,3 +3359,33 @@ entry(bezazz, n, [bezazzlar], "pizazz").
 girdi(bezel, n, [bezels], "eğimli bir yüzey").
 entry(bezil, n, [beziller], "çerçeve").
 entry(bezique, i, [bezique'ler], "bir kart oyunu").
+entry(bezoar, n, [bezoarlar], "bir mide kütlesi").
+entry(bezzant, n, [bezzantlar], "bezant").
+entry(bhaji, n, [bhajiler], "kızartılmış sebzelerden yapılan bir Hint yemeği").
+entry(bhakta, n, [bhaktalar], "bhakti uygulayan kişi").
+girdi(bhakti, i, [bhaktiler], "Hinduizmde bir tanrıya karşı özverili bağlılık").
+girdi(kenevir, i, [kenevirler], "kenevir bitkisi").
+entry(bhangra, n, [bhangralar], "popüler Pencap dans müziği türü").
+entry(bharal, i, [bharaller], "keçiye benzeyen Asyalı bir memeli").
+entry(bheestie, i, [bheesties], "bheesty").
+entry(bheesty, is, [bheesties], "su taşıyıcısı").
+entry(bhelpuri, n, [bhelpuriler], "bir pirinç baharat ve chutney yemeği").
+girdi(bhistie, i, [bhisties], "bheesty").
+entry(bhoot, i, [bhootlar], "bhut").
+entry(bhut, i, [bhutlar], "küçük bir hortum").
+entry(bi, n, [bis], "biseksüel bir kişi").
+entry(biasetil, n, [biasetiller], "kimyasal bir tat artırıcı").
+entry(biali, n, [bialis], "biali").
+entry(bialy, n, [bialys], "veya BIALIES bir soğanlı rulo").
+entry(biyıllık, sıf, [], "yılda iki kez meydana gelen").
+entry(bias, v, [yanlı,yanlılaşma,yanlar], "veya YANLIŞ YANLAYAN YANLARönyargıYA YANLILIK adv").
+entry(bias, n, [eğilimler], "taraflı olma durumu").
+entry(biatlon, n, [biatlonlar], "bir atletizm yarışması").
+entry(biaxal, sıf, [], "biaxial").
+entry(biaxial, sıf, [], "iki eksenli").
+girdi(bib, v, [bibledi,bibliyor,bibler], "dudaklamak").
+entry(bibasic, sıf, [], "dibazik").
+entrée(bibb, n, [bibbs], "bir direk desteği").
+entry(bibbed, past, [], "bib geçmiş zaman").
+entry(bibber, i, [bibbers], "sürekli içen biri").
+giriş(bibbery, i, [bibberies], "tipple yapma eylemi").

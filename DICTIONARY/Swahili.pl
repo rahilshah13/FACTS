@@ -209,3 +209,29 @@ entry(acaleph, n, [acalephs], "au ACALEPHAEmnyambulika").
 entry(acalephe, n, [acalephes], "akalefu").
 entry(mkia, n, [miiba], "sehemu kali yenye miiba").
 entry(acanthus, n, [miiba], "au ACANTHI mti wenye miiba").
+entry(acapnia, n, [acapnias], "ukosefu wa dioksidi kaboni katika damu na tishu").
+entry(acarbose, n, [acarboses], "dawa ya kutibu ugonjwa wa kisukari").
+kiingilio(acari, wingi, [], "ya sarafu").
+ingia(acarid, n, [acarids], "aina ya buibui").
+entry(acaridan, n, [acaridans], "kilembwe").
+entry(acarine, n, [acarines], "akaridi").
+entry(kama_acarid, kiv, [], "kufanana na acarid").
+ingizo(acarpous, kiv, [], "ambayo haitoi matunda").
+entry(acarus, n, [acari], "mdudu mdogo").
+kiingilio(kisicho na mkia, kiv), [], "hakuna mkia").
+entry(acaudate, adj, [], "acaudal").
+entry(acauline, adj, [], "bila shina").
+entry(acaulose, kiv, [], "acauline").
+entry(acaulous, adj, [], "acauline").
+entry(kubali, v, [alikaa, anazughulika, wanakubali], "kukubali").
+entry(acceder, n, [kuingia], "mmoja anayekubali").
+kiingilio(msisitizo, v, [imetiliamsisitizo, kutiliamsisitizo, mitilimsisitizo], "kusema kwa msisitizo").
+entry(mpongo, n, [mpongo], "ndege wa nyimbo").
+entry(kubali, v, [imekubaliwa,inakubaliwa,inakubali], "kupokea kwa hiari").
+ingizo(mpokeaji, n, [wapokeaji], "ambaye amekubaliwa").
+entry(accepter, n, [wakaaji], "mmoja anayekubali").
+kiingilio(mpokeaji, n, [wapokeaji], "pokeaji").
+entry(upatikanaji, v, [ilipatikana,inapatikana,zinapatikana], "kupata kwenye").
+entry(ajali, n, [ajali], "tukio lisilotarajiwa au la bahati mbaya").
+kigezo(accidia, n, [accidias], "acedia").
+entry(uvivu, n, [mapendeleo], "acedia").

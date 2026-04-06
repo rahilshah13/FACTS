@@ -46,5 +46,5 @@ if sys.argv[1]  == "dry-run":
   dry_run()
   
 else:
-  with concurrent.futures.ThreadPoolExecutor(max_workers=7) as executor:
+  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
     executor.map(process_language, languages)

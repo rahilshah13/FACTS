@@ -606,3 +606,24 @@ entry(aery, adj, [], "એરીઈઅર એરીએસ્ટairy").
 entry(aery, n, [aeries], "aerie").
 entry(અસ્થેટ, ન, [અસ્થેટ્સ], "અસ્થેટ").
 entry(ઉનાળાકાળ, વિશેષણ, [], "ઉનાળાકાળ").
+entry(aetatis, adj, [], "ની વય/ઉંમર").
+entry(ઐથર, n, [ઐથર્સ], "વાયુમંડળનો ઉપરનો સ્તરAETHERIC વિશેષણ").
+પ્રવેશ(અફાર, ન, [અફારներ], "એક મહાન અંતર").
+entry(afeard, વિશેષણ, [], "afraid").
+entry(afeared, adj, [], "afeard").
+entry(જ્વરહિન, વિશેષણ, [], "જ્વર ના હોવો").
+entry(aff, adv, [], "બંધ").
+entry(affable, adj, [], "વાત કરવા માટે સરળAFFABLY adv").
+entry(affair, n, [affairs], "કશુક કરવું કે કશુક કરવાનું").
+entry(affaire, n, [affaires], "એક સંક્ષિપ્ત રોમાંચક સંબંધ").
+entry(affect, v, [affected,affecting,affects], "ખોટી છાપ પ્રદાન કરવા માટે").
+entry(affecter, n, [affecters], "પ્રભાવિત કરે તે").
+entry(અફેરન્ટ, ન, [અફેરન્ટ્સ], "એક નસ જે સંદેશોને નસ કેન્દ્ર તરફ પહોંચાડે છે").
+entry(affiance, v, [affianced,affiancing,affiances], "સગાઈ કરવી").
+entry(affiant, n, [affiants], "શપથ હેઠળ લેખિત ધરણા કરનાર").
+entry(affiche, n, [affiches], "એક પોસ્ટર").
+entry(જમાઇ, વિશેષણ, [], "લગ્ન દ્વારા સંબંધિત").
+entry(affine, n, [affines], "લગ્ન દ્વારા સંબંધિત વ્યક્તિ").
+entry(affined, adj, [], "નજીકનું લાગતું").
+entry(affinely, adv, [], "ગણિતીય નિરમિતીમાંના એક પ્રકારના નકશાની રીતમાં").
+entry(affinity, n, [affinities], "એક કુદરતી આકર્ષણ અથવા ઝોક").

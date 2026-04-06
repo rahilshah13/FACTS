@@ -184,3 +184,12 @@ entry(misuse, v, [yaqalata, yanaqalata, yanaqalatu], "yin amfani da abu ba daida
 shigarwa(masha'a, n, [masha'a], "wanda ya ci zarafi").
 entry(mugunta, siffofi, [], "wanda aka bayyana da amfani mara kyau ko rashin dacewa").
 entry(abut, v, [abutted,abutting,abuts], "ta tabo gefen wata iyaka").
+entry(abutilon, n, [abutilons], "tsiro mai fure").
+entry(tambari, n, [tambari], "wani abu da yake goyon-baya").
+entry(abuttal, n, [abuttals], "wurin haɗewa").
+entry(abutted, past, [], "lokacin madalla").
+entry(abutter, n, [abutters], "wanda ya kasance kusa").
+entry(makale, yanzu, [], "matashin maƙala na maƙale").
+entry(hargitsi, adj, [], "buzzing").
+entry(abvolt, n, [abvolts], "wani rukuni na karfi mai motsi").
+shigarwa(abwatt, n, [abwatts], "wani rukuni na iko").

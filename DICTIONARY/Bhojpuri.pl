@@ -18420,3 +18420,39 @@ entry(pewee, n, [pewees], "ek chhot pakchi").
 entry(pewit, n, [pewits], "lapwing").
 entry(अबरी, न, [अबरियन], "एगो टिन के मिश्रधातुPEWTERY विशेषण").
 entry(pewterer, n, [pewterers], "ek jon jo pewter ke samaan banawela").
+entry(peyote, n, [peyotes], "ek cactus").
+entry(peyotism, n, [peyotisms], "Native American ke wo riwaj jahaan peyote ke istemal hoye").
+entry(peyotl, n, [peyotls], "पेयोट").
+entry(peytral, n, [peytrals], "ghodha ke chhaati ke liye ek jawan ke tappal").
+entry(peytrel, n, [peytrels], "peytral").
+entry(pfennig, n, [pfennigs], "ya PFENNIGE jawan pehle upayog hue bronze ke sikka Germany ke").
+entry(pfft, interj, [], "achanak samapan ke dafan kare khatir prayog mein laawe jaala").
+entry(pfui, interj, [], "धत्तेरेकी").
+entry(phaeton, n, [phaetons], "ek halki gaadi").
+entry(phage, n, [phages], "ek organism jo bacteria ke nasht karela").
+entry(phalange, n, [phalanges], "kehu ungli ya panv ke haddi").
+entry(phalanx, n, [phalanxes], "puratan Greece ke ek infantry ke formation").
+entry(फल्लि, क, [], "फल्लूस के बहुवचन").
+entry(linga, viseshan, [], "ling se sambandhit").
+entry(lingaropan, n, [lingaropan], "ling ke prakritik srijnatmak shakti ke roop mein pooja").
+entry(phallist, n, [phallists], "फालिजम के अभ्यास कऽवे वाला").
+entry(phallus, n, [phalluses], "kimba PHALLI ling").
+entry(phantasm, n, [phantasms], "kalpana ke rachna").
+entry(phantast, n, [phantasts], "fantast").
+entry(phantasy, v, [phantasied,phantasying,phantasies], "fantasi kare ke").
+entry(phantom, n, [phantoms], "keval dekhawa me bne kahio").
+entry(pharaoh, n, [pharaohs], "pracheen Misr ke ek shasak").
+entry(pharisee, n, [pharisees], "ek paakhandi aapke dharmik dekhawe wala vyakti").
+entry(pharma, n, [pharmas], "ek dawā ke kampani").
+entry(pharmacy, n, [pharmacies], "ek dawai ki dukan").
+entry(pharmer, n, [pharmers], "pharming me bhaag lewāla").
+entry(pharming, n, [pharmings], "genetically badalal paudha ya janawaron se banae gail dawai ke utpaadan").
+pravesh(pharos, n, [pharoses], "ekis light house ya beacon jo samudree navikon ke margdarshan karela").
+entry(farynx, n, [farynkses], "ya FARYNGESa pachan tantar ke ek hissa").
+प्रवेश(चरण, v, [चरणबद्ध,चरणबद्धता,चरण], "विकास के अलग-अलग चरणन के योजना बनावल भा संचालित कइलाव के खातिर चरणों में विभाजित करी").
+entry(phaseout, n, [phaseouts], "dhire dhire karke karyo ko roknika prakriya").
+entry(phaser, n, [phasers], "ek tare ke vigyaan kalpana hathiyaar").
+entry(phasis, n, [abasthaa], "ek abasthaa").
+entry(phasmid, n, [phasmids], "ek tropical kiRa").
+entry(phat, adj, [], "PHATTER PHATTESTबढ़िया").
+entry(phatic, vishiṣt, [], "bhāvņa ke bánt ke badlē bichár ke bánt karala").
