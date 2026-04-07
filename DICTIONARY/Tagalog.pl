@@ -303,3 +303,158 @@ entry(atsing, interj, [], "atsing").
 entry(achromat, n, [achromats], "isang uri ng lente").
 entry(achromic, adj, [], "walang kulay").
 entry(achy, adj, [], "MAS MASAKIT MAGSALITANG").
+entry(acicula, n, [aciculas], "o ACICULAEIsang parang karayom na bahagi o prosesoACICULAR adj").
+entry(aciculum, n, [aciculums], "o ACICULA bahagi na parang bristles").
+entry(acid, n, [mga asido], "isang uri ng kemikal na compound").
+entry(acidemia, n, [acidemias], "isang kalagayan ng pagtaas ng kaasiman ng dugo").
+entry(acidhead, n, [acidheads], "isang gumagamit ng LSD").
+entry(acidic, pang-uri, [], "maasim").
+entry(asidipikahin, v, [in-asidipika, in-aasidipika, ina-asidipika], "gawing asido").
+entry(acidity, n, [acidities], "asim").
+entry(acidly, adv, [], "nang maasim").
+entry(acidness, n, [acidnesses], "asidez").
+entry(acidosis, n, [acidoses], "isang abnormal na kondisyon ng dugoACIDOTIC adj").
+entry(aciduria, n, [mga aciduria], "isang kondisyon ng pagkakaroon ng labis na dami ng asido sa ihi").
+entry(acidy, adj, [], "maasim").
+entry(acierate, v, [acierated,acierating,acierates], "gawing bakal").
+entry(aciform, adj, [], "parang karayom").
+entry(acing, kasalukuyan, [], "pandiyari ng ace").
+entry(acinus, n, [acini], "isang maliit na dibisyong hugis-sako ng isang glandulaACINAR ACINIC ACINOSE ACINOUS adj").
+entry(akee, n, [akees], "akee").
+entry(aclinic, adj, [], "walang pagkahilig").
+entry(acme, n, [acmes], "ang pinakamataas na puntoACMATIC ACMIC adj").
+entry(pimples, n, [tagihawat], "isang sakit sa balatPIMPLED adj").
+entry(acnode, n, [acnodes], "isang elemento ng isang matematikal na set na hiwalay sa ibang mga elemento").
+entry(acock, pang-uri, [], "nakataas").
+entry(acoelous, adj, [], "walang tunay na lungga ng katawan").
+entry(acold, adj, [], "malamig").
+entry(acolyte, n, [mga acolyte], "isang katulong").
+entry(akonit, n, [akonites], "isang nakalalasong damong-gamotAKONITIKO adj").
+entry(aconitum, n, [aconitums], "akonite").
+entry(acorn, n, [acorns], "ang bunga ng puno ng ensinaACORNED adj").
+entry(akustik, n, [akustika], "isang pantulong sa pandinig").
+entry(acquaint, v, [nakakilala,nakikilala,kumikilala], "upang makilala").
+entry(acquest, n, [mga nakuha], "isang bagay na nakuha").
+entry(makamit, v, [nakuha, nakakamit, nakakakuha], "upang makuha ang pagmamay-ari ng").
+entry(acquiree, n, [mga naangkin], "isa na naangkin").
+entry(taga-angkup, n, [mga taga-angkup], "isa na umuugnay").
+entry(alisin_sa_paratang, v, [inalis_sa_paratang,iniaalisa_sa_paratang,inaalis_sa_paratang], "palayain o linisin mula sa paratang ng kasalanan o krimen").
+entry(acrasia, n, [acrasias], "kakulangan ng pagpipigil sa sariliACRATIC adj").
+entry(acrasin, n, [acrasins], "isang sangkap na inilalabas ng mga selula ng isang amag na uhog").
+entry(acre, n, [ehekta], "isang sukat ng lupa").
+entry(lawak, n, [mga_lawak], "laki sa ektarya").
+entry(acred, adj, [], "pagmamay-ari ng maraming ektarya").
+entry(acrid, adj, [], "MAS MAPAIT NA PINAKAMAPAITmatapang at matalas sa panlasa o amoy").
+entry(acridine, n, [acridines], "isang kemikal na compound").
+entry(lasang_pagkain, n, [mga_lasang_pagkain], "ang kalagayan ng pagiging maasim").
+entry(acridly, pang-abay, [], "sa mapang-asim na paraan").
+entry(pagkamuhi, n, [pagkamuhi], "talas o kapaitan ng pananalita o ugali").
+entry(acro, n, [acros], "isang kaganapan sa pag-ski kung saan ang isang skier ay gumagawa ng mga akrobatikong galaw sa musika").
+entry(akrObat, n, [akrObata], "sanay sa mga gawain ng liksi at balanse").
+entry(acrodont, n, [acrodonts], "isang hayop na may mga ngipin na walang ugat").
+entry(acrogen, n, [acrogens], "isang halaman na tumutubo lamang sa dulo").
+entry(akrolekto, n, [akrolekto], "isang mataas na anyo ng isang wika").
+entry(acrolein, n, [acroleins], "isang madaling magliyab na likido").
+entry(acrolith, n, [acroliths], "isang uri ng rebulto").
+entry(acromion, n, [mga akromyon], "ang panlabas na dulo ng talim ng balikatAKROMYAL adj").
+entry(acronic, pang-uri, [], "nangyayari sa paglubog ng araw").
+entry(acronym, n, [daglat], "isang salita na nabuo mula sa mga unang titik ng isang tambalang termino o serye ng mga salita").
+entry(acrosome, n, [acrosomes], "isang manipis na supot sa ulo ng isang sperm").
+entry(across, pang-ukol, [], "mula sa isang panig patungo sa kabila").
+entry(acrostic, n, [mga akrostik], "isang tula kung saan ang ilang mga letra kapag kinuha nang sunud-sunod ay bumubuo ng isang salita o parirala").
+entry(acrotism, n, [acrotisms], "kahinaan ng pulsoACROTIC adj").
+entry(acrylate, n, [acrylates], "isang akriliko").
+entry(acrylic, n, [mga acrylic], "isang uri ng dagta").
+entry(act, v, [umakto, umaarte, umaakto], "gumawa ng isang bagay").
+entry(acta, npl, [], "naisulat na mga pagdinig").
+entry(maakting, pang-uri, [], "angkop para sa pagtatanghal sa entablado").
+entry(actin, n, [actins], "isang protina sa tisyu ng kalamnan").
+entry(actinal, adj, [], "may mga galamay").
+entry(pag-arte, n, [mga pag-arte], "ang propesyon ng isang aktor").
+entry(actinia, n, [actinias], "o ACTINIAEa hayop sa dagat").
+entry(actinian, n, [mga aktinyan], "aktinya").
+entry(actinic, adj, [], "ukol sa aktinismo").
+entry(actinide, n, [actinides], "anumang serye ng mga radyaktibong elemento").
+entry(actinism, n, [actinisms], "ang katangian ng radiant energy na nagdudulot ng mga kemikal na pagbabago").
+entry(actinium, n, [mga actinium], "isang radyoktibong elemento").
+entry(actinoid, n, [actinoids], "isang aktinide").
+entry(actinon, n, [actinons], "isang isotopo ng radon").
+entry(aksyon, v, [inaaksyunan, umaaksyon, mga_aksyon], "magdala ng kaso laban").
+entry(actioner, n, [actioners], "isang pelikula na may kapanapanabik na aksyon").
+entry(activate, v, [inaktibo, inaaktibo, umaaktibo], "upang ilagay sa kilos").
+entry(active, n, [aktibo], "isang kalahok na miyembro ng isang organisasyon").
+entry(actively, adv, [], "na may aktibidad").
+entry(aktivismo, n, [mga aktivismo], "isang doktrinang nagbibigay-diin sa direktang at mapagpasiyang aksyon").
+entry(aktibista, n, [mga aktibista], "isang tagapagtaguyod ng aktibismo").
+entry(aktibidad, n, [mga aktibidad], "mabilis na kilos o galaw").
+entry(aktibahin, v, [inaaktiba, pina-aktiba, iniaaktiba], "upang i-activate").
+entry(aktor, n, [mga aktor], "isang tagaganap sa entabladoAKTORISH AKTOR adj").
+entry(aktres, n, [aktreses], "isang babaeng aktorAKTRESY adj").
+entry(tunay, adj, [], "umiiral sa katotohananAKTUWAL adv").
+entry(actuary, n, [aktuwaryo], "isang estadistiko na nagkakalkula ng mga panganib sa seguro at mga premium").
+entry(actuate, v, [actuated,actuating,actuates], "gumawa ng aksyon o galaw").
+entry(actuator, n, [mga aktuador], "isang nagpapagana").
+entry(acuate, adj, [], "matalim").
+entry(katalasan, n, [katalasan], "talas").
+entry(aculayt, n, [aculayts], "isang insekto na may sting").
+entry(aculeus, n, [aculei], "isang matulis na bahagi").
+entry(acumen, n, [acumens], "talas ng isip").
+entry(acutance, n, [acutances], "isang sukatan ng kalinawan ng potograpiya").
+entry(acute, adj, [], "ACUTER ACUTESTna may markang matalas o kalubhaanACUTELY adv").
+entry(acute, n, [mga acute], "isang uri ng marka ng diin").
+entry(asykliko, adj, [], "hindi paikot").
+entry(acyl, n, [acyls], "isang univalent radikal").
+entry(acylate, v, [acylated,acylating,acylates], "magpakilala ng acyl sa").
+entry(asiloin, n, [asiloins], "isang uri ng kemikal na compound").
+entry(ad, n, [mga_ad], "isang patalastas").
+entry(adage, n, [mga kasabihan], "isang tradisyonal na kasabihan na nagpapahayag ng karaniwang obserbasyonADAGIAL adj").
+entry(adagio, n, [adagios], "isang komposisyon o galaw ng musika na tinutugtog nang mabagal na tempo").
+entry(adamaniya, n, [adamaniyas], "adamantina").
+entry(adamancy, n, [adamancies], "katigasan na hindi nagpapasuko").
+entry(adamant, n, [adamants], "isang napakatigas na substansya").
+entry(adamsite, n, [adamsites], "isang nakakairitang gas sa baga").
+entry(iangkop, v, [inangkop, inaangkop, iaangkop], "upang gawing angkop").
+entry(adapter, n, [mga adapter], "isang bagay na umaangkop").
+entry(adaption, n, [mga adaptions], "ang kilos ng pag-angkopADAPTIVE adj").
+entry(adaptor, n, [mga adaptor], "adapter").
+entry(adaxial, adj, [], "nakapuwesto sa parehong gilid gaya ng").
+entry(adbot, n, [adbots], "isang espesyal na programang pangkompyuter").
+entry(dagdag, v, [nadagdag,dinadagdag,dagdag], "pagsama o pag-ugnay upang makabuo ng karagdaganMADAGDAG adj").
+entry(addax, n, [addaxes], "isang malaking antelope").
+entry(addedly, adv, [], "bilang karagdagan").
+entry(addend, n, [addends], "isang numero na idaragdag sa iba").
+entry(addendum, n, [mga addendum], "o ADDENDAmay idinadagdag o idaragdag").
+entry(pangdagdag, n, [mga_pangdagdag], "isang makamandag na ahas").
+entry(addible, adj, [], "kayang maidagdag").
+entry(adik, v, [naaadik,nakaadik,mga adik], "maglaan o magpaubaya sa isang bagay nang palagian o sapilitang").
+entry(karagdagan, n, [mga_karagdagan], "bagay na idinagdag").
+entry(pampadagdag, n, [pampadagdag], "isang sangkap na idinadagdag sa isa pa upang magbigay ng kanais-nais na katangian").
+entry(additory, adj, [], "gumagawa ng karagdagan").
+entry(addle, v, [addled,addling,addles], "malito").
+entry(adres, v, [adres, pag-address, mga adres], "magsalita sa").
+entry(adduce, v, [adduced,adducing,adduces], "iunlad bilang ebidensya").
+entry(adducent, adj, [], "nagagamit upang ibalik").
+entry(adducer, n, [adducers], "isa na nagtutukoy").
+entry(adducing, kasalukuyan, [], "participle ng adduce").
+entry(adduct, v, [inadduct, inaadduct, inaadduct], "hilahin papunta sa pangunahing axis").
+entry(adductor, n, [mga adductor], "isang adducent na kalamnan").
+entry(adeem, v, [adeemed,adeeming,adeems], "alisin").
+entry(adelgid, n, [adelgids], "isang maliit na insekto").
+entry(adenine, n, [mga adenine], "isang alkaloid").
+entry(adenitis, p, [mga adenitis], "pamamaga ng isang lymph node").
+entry(adenoide, n, [adenoides], "isang pinalaking paglaki ng lymphoid sa likod ng pharynx").
+entry(adenoma, n, [adenoma], "o ADENOMATA isang tumor na nagmumula sa glandula").
+entry(adenosis, n, [adenoses], "abnormal na paglaki ng glandular tissue").
+entry(adenyl, n, [adenyls], "isang univalent na radikal").
+entry(adep, adj, [], "NAPAKABIHASA PINAKABIHASAnapakahusayMAHUSAY nang adv").
+entry(adept, n, [adepts], "isang dalubhasang tao").
+entry(kasapatan, n, [kasapatan], "ang kalagayan ng pagiging sapat").
+entry(sapat, adj, [], "sapat para sa tiyak na pangangailangan").
+entry(sumikit, v, [sumikit, dumidikit, dumikit], "upang maging o manatiling nakakabit o malapit sa isang bagay").
+entry(adherend, n, [adherends], "ang ibabaw kung saan dumidikit ang pandikit").
+entry(tagasunod, n, [tagasunod], "isang tagasuporta").
+entry(sumusunod, n, [mga_sumusunod], "isa na sumusunod").
+entry(sumusunod, kasalukuyan, [], "partisipyo ng sumunod").
+entry(adhesion, n, [mga adhesions], "ang kilos ng pagdidikit").
+entry(pandikit, n, [pandikit], "isang sangkap na nagdudulot ng pagkakadikit").
+entry(adhibit, v, [adhibited,adhibiting,adhibits], "tumingin o papasukin").

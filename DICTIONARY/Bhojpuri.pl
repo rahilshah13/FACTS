@@ -18456,3 +18456,4 @@ entry(phasis, n, [abasthaa], "ek abasthaa").
 entry(phasmid, n, [phasmids], "ek tropical kiRa").
 entry(phat, adj, [], "PHATTER PHATTESTबढ़िया").
 entry(phatic, vishiṣt, [], "bhāvņa ke bánt ke badlē bichár ke bánt karala").
+entry(teetar, n, [teetar], "ek barik lamba-puchh pakshi").

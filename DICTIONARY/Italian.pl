@@ -28952,3 +28952,702 @@ entry(agitazione, n, [agitazioni], "ondeggiamento").
 entry(wag, v, [scodinzolava,scodinzolando,scodinzola], "muoversi vivacemente su e giù o avanti e indietro").
 entry(stipendio, v, [pagato,pagando,stipendi], "impegnarsi in o continuare").
 entry(senza_salari, agg, [], "non retribuito").
+entry(scommettere, v, [scommesso,scommettendo,scommette], "rischiare su un risultato incerto").
+entry(scommettitore, n, [scommettitori], "uno che scommette").
+entry(scommessa, n, [scommesse], "l'atto di rischiare qualcosa su un esito incerto").
+entry(wagged, passato, [], "tempo di scuotere").
+entry(wagger, n, [scodinzolatori], "uno che scodinzola").
+entry(burla, n, [burle], "comportamento burlone").
+entry(wagging, presente, [], "participio di wag").
+entry(giocoso, agg, [], "divertentemente spiritoso").
+entry(scodinzolare, v, [scodinzolato, scodinzolando, scodinzola], "scuotere").
+entry(waggly, agg, [], "WAGGLIER WAGGLIESTinstabile").
+entry(carro, v, [carreggiato,carreggiando,carri], "carro").
+entry(carrettiere, n, [carrettieri], "carrettiere").
+entry(ingaggiare, presente, [], "participio di ingaggiare").
+entry(carretto, v, [carrettato, carrettando, carretti], "trasportare con un carretto a quattro ruote trainato da cavalli").
+entry(carreggio, n, [carreggi], "trasporto tramite carro").
+entry(carrettiere, n, [carrettieri], "uno che guida un carro").
+entry(wagsome, agg, [], "birichino").
+entry(ballerina, n, [ballerine], "un uccello canoro").
+entry(wahconda, n, [wahcondas], "wakanda").
+entry(wahine, n, [wahines], "una donna hawaiana").
+entry(wahoo, n, [wahoos], "un arbusto in fiore").
+entry(waif, v, [waifed, waifing, waifs], "buttare via").
+entry(esile, agg, [], "simile a un randagio").
+entry(esile, agg, [], "somigliante a un vagabondo un bambino senzatetto").
+entry(lamentare, v, [lamentato, lamentando, lamenta], "emettere un lungo grido di dolore").
+entry(piangente, n, [piangenti], "colui che piange").
+entry(lugubre, agg, [], "lamentoso").
+entry(lamentoso, agg, [], "lamentevole").
+entry(wain, n, [wain], "un grande carro aperto").
+entry(rivestire, v, [rivestito,rivestendo,rivestono], "o RIVESTITO RIVESTENDO RIVESTONO con pannelli di legno le pareti").
+entry(wair, v, [waired,wairing,wairs], "spendere").
+entry(vita, n, [vite], "la parte del corpo tra le costole e i fianchiVITATO agg").
+entry(waister, n, [waisters], "un marinaio assegnato alla sezione centrale di una nave").
+entry(stringhe, n, [stringhe], "un tipo di materiale per sartoria").
+entry(attendere, v, [atteso, aspettando, aspetta], "rimanere in attesa di").
+entry(camieriere, v, [camiereed,camiereing,camieries], "lavorare come cameriere in un ristorante").
+entry(attesa, n, [attese], "l'atto di chi aspetta").
+entry(lista_di_attesa, v, [in_lista_di_attesa, mettendo_in_lista_di_attesa, liste_di_attesa], "mettere su una lista di persone in attesa").
+entry(camieriera, v, [camierierato, camierierando, camieriera], "lavorare come cameriera in un ristorante").
+entry(cameriere, n, [camerieri], "un cameriere in un ristorante").
+entry(derogare, v, [derogato, derogando, deroga], "rinunciare intenzionalmente").
+entry(esonero, n, [esoneri], "l'atto di rinunciare a qualcosa").
+entry(undaria, n, [undarie], "un'alga bruna originaria dell'Asia").
+entry(wakanda, n, [wakandas], "una forza soprannaturale nelle credenze Sioux").
+entry(svegliarsi, v, [svegliato,svegliarono,svegliando], "SVEGLIAREsi destano dal sonno").
+entry(vigile, agg, [], "non dormiente o incapace di dormire").
+entry(wakeless, agg, [], "ininterrotto usato per il sonno").
+entry(svegliare, v, [svegliato,svegliando,sveglia], "svegliarsi").
+entry(risvegliatore, n, [risvegliatori], "uno che risveglia").
+entry(risveglio, n, [risvegli], "l'atto di chi si sveglia").
+entry(svegliatore, n, [svegliatori], "colui che sveglia").
+entry(wakerife, agg, [], "vigile").
+entry(wakiki, n, [wakikis], "conchiglie come denaro delle Isole dei Mari del Sud").
+entry(sveglia, n, [svegliarsi], "lo stato di essere sveglio").
+entry(balbuzie, v, [balbettato, balbettando, balbetta], "segnare con strisce").
+entry(waler, n, [walers], "cavallo da sella di razza australiana").
+entry(wali, n, [walis], "il governatore di una provincia in un paese arabo").
+entry(gualtieri, pl, [], "di gualtiero").
+entry(camminare, v, [camminato,camminando,cammina], "avanzare a piedi CAMMINABILE agg").
+entry(ritirata, n, [ritirate], "una vittoria facile").
+entry(camminatore, n, [camminatori], "uno che cammina").
+entry(passeggiatina, interj, [], "usato per comandare un cane a prepararsi per una passeggiata").
+entry(camminare, n, [camminate], "l'atto di chi cammina").
+entry(sciopero, n, [scioperi], "uno sciopero da parte dei lavoratori").
+entry(vittoria_a_tavolino, n, [vittorie_a_tavolino], "una vittoria senza giocare").
+entry(camminare_su, n, [camminate_su], "una casa di appartamenti senza ascensore").
+entry(corridoio, s, [corridoi], "un passaggio per camminare").
+entry(walkyrie, n, [valchirie], "valchiria").
+entry(parete, v, [murato,murando,muri], "provvedere di una parete una struttura verticale costruita per racchiudere un'area").
+entry(walla, n, [wallas], "wallah").
+entry(wallaby, n, [wallabies], "un piccolo canguro").
+entry(wallah, n, [wallahs], "una persona impegnata in una particolare occupazione o attività").
+entry(wallaroo, n, [wallaroo], "un grande canguro").
+entry(portafoglio, n, [portafogli], "una custodia pieghevole piatta").
+entry(walley, n, [walleys], "un tipo di salto nel pattinaggio artistico").
+entry(lucioperca, n, [lucioperche], "un occhio con una cornea biancaLUCIOPERCA adj").
+entry(wallie, n, [wallies], "un valletto").
+entry(wallies, pl, [], "di wally").
+entry(bastonare, v, [bastonato,bastonando,bastona], "battere sonoramente").
+entry(sbirro, n, [sbirri], "uno che picchia").
+entry(rotolarsi, v, [rotolato,rotolandosi,rotola], "rotolarsi").
+entry(guazzatore, n, [guazzatori], "chi si abbandona").
+entry(wally, n, [wallies], "waly").
+entry(noce, n, [noci], "un dado commestibile").
+entry(tricheco, n, [trichechi], "un mammifero marino").
+entry(valzer, v, [valzerato, valzerando, valzer], "eseguire un ballo da sala").
+entry(waltzer, n, [waltzer], "uno che balla il valzer").
+entry(waly, n, [walies], "qualcosa di visivamente piacevole").
+entry(wamble, v, [wambled,wambling,wambles], "muoversi in modo instabile").
+entry(wambly, agg, [], "IL PIÙ STORTO WAMBLIER instabile").
+entry(wame, n, [wames], "la pancia").
+entry(wamefou, n, [wamefous], "una pancia piena").
+entry(wameful, n, [wamefuls], "wamefou").
+entry(wammus, n, [wammuses], "wamus").
+entry(wampish, v, [wampished,wampishing,wampishes], "lanciare dappertutto").
+entry(wampum, n, [wampum], "una forma di valuta usata anticamente dai Nativi Americani").
+entry(wampus, n, [vampiri], "vampiro").
+entry(wamus, n, [wamuses], "una giacca pesante esterna").
+entry(wan, agg, [], "PALLIDO MORTO").
+entry(wan, v, [wanned,wanning,wans], "diventare pallido").
+entry(bacchetta, n, [bacchette], "una verga sottile").
+entry(vagare, v, [vagato,vagando,vaga], "spostarsi senza meta o scopo").
+entry(girovago, n, [girovaghi], "uno che gira").
+entry(scimmia_sri_lanka, n, [scimmie_sri_lanka], "una scimmia asiatica").
+entry(wandle, agg, [], "flessibile").
+entry(calare, v, [calato, calando, cala], "diminuire in dimensioni o estensione").
+entry(waney, agg, [], "WANIER WANIESTwany").
+entry(wangan, n, [wangans], "wanigan").
+entry(wangle, v, [wangled,wangling,wangles], "ottenere o realizzare con astuzia").
+entry(wangler, n, [wanglers], "uno che traffica").
+entry(wangun, n, [wanguns], "wanigan").
+entry(wanier, comparativo, [], "di waney e wany").
+entry(waniest, superlativo, [], "di waney e wany").
+entry(wanigan, n, [wanigans], "una cassa di rifornimenti usata in un campo di disboscamento").
+entry(calante, presente, [], "participio di calare").
+entry(wanion, n, [wanions], "vendetta").
+entry(wanly, avv, [], "in modo languido").
+entry(voglioso, n, [vogliosi], "colui che aspira ad essere come qualcun altro").
+entry(aspirante, n, [], "ASPIRANTIwannabe").
+entry(wanned, passato, [], "tempo di wan").
+entry(wanner, comparativo, [], "di pallido").
+entry(pallore, n, [pallori], "la qualità di essere pallido").
+entry(wannest, superlativo, [], "di wan").
+entry(zattera, n, [zattere], "zattera").
+entry(wanning, presente, [], "participio di wan").
+entry(volere, v, [voluto, volendo, vuole], "avere un desiderio di").
+entry(wantage, n, [wantages], "qualcosa che manca").
+entry(volente, n, [volenti], "uno che vuole").
+entry(sconsiderato, v, [sconsiderava, sconsiderando, sconsiderano], "comportarsi immoralmente").
+entry(wantonatore, n, [wantonatori], "colui che indulge in licenziosità").
+entry("immoralmente", avv, [], "immorally").
+entry(wany, agg, [], "WANIER WANIESTche cala in alcune parti").
+entry(wap, v, [wapped,wapping,waps], "avvolgere").
+entry(wapiti, s, [wapiti], "un grande cervo").
+entry(guerra, v, [guerreggiato,guerreggiante,guerre], "impegnarsi in guerra uno stato di conflitto armato aperto").
+entry(warbird, n, [warbirds], "un aereo militare d'epoca").
+entry(gorgheggiare, v, [gorgheggiato,gorgheggiando,gorgheggia], "cantare con abbellimenti melodici").
+entry(canoro, n, [canori], "uno che canta melodiosamente").
+entry(warbly, agg, [], "SUPERLATIVO WARBLIER WARBLIEST espressa in un modo trillante o vibrante").
+entry(warcraft, n, [warcrafts], "l'arte della guerra").
+entry(ward, v, [warded,warding,wards], "deviare").
+entry(guardiano, n, [guardiani], "il principale ufficiale di una prigione").
+entry(guardiano, n, [guardiani], "l'ufficio di un guardiano").
+entry(guardiano, n, [guardiani], "una persona che sorveglia qualcosa").
+entry(wardless, agg, [], "privo della parte di guardia di una cassa di serratura").
+entry(direttrice, n, [direttrici], "una guardiana").
+entry(guardaroba, n, [guardarobe], "una collezione di indumenti").
+entry(guardaroba, v, [guardarobato, guardarobando, guardarobe], "fornire con una collezione di indumenti").
+entry(cameradiconciglio, n, [camerediconciglio], "una sala da pranzo per ufficiali su una nave da guerra").
+entry(tutela, n, [tutele], "lo stato di essere sotto un tutore").
+entry(ware, v, [wared,waring,wares], "fare attenzione a").
+entry(magazzino, n, [magazzini], "una stanza in cui le merci sono esposte in vendita").
+entry(warez, n, [warez], "software copiato illegalmente").
+entry(guerra, n, [guerre], "l'atto di impegnarsi in guerra").
+entry(warfarin, n, [warfarins], "un composto chimico").
+entry(wargame, v, [wargamed,wargaming,wargames], "impegnarsi in conflitti militari simulati").
+entry(wargamer, n, [wargamers], "uno che gioca ai war games").
+entry(testata, n, [testate], "la parte anteriore di un missile contenente l'esplosivo").
+entry(cavallo_di_battaglia, n, [cavalli_di_battaglia], "un'opera musicale o drammatica che è stata eseguita in eccesso").
+entry(più_guardingo, comparativo, [], "di guardingo").
+entry(piu_cauto, superlativo, [], "di cauto").
+entry(cautamente, avv, [], "in modo cauto").
+entry(titubanza, n, [titubanze], "lo stato di essere titubante").
+entry(waring, presente, [], "participio di ware").
+entry(warison, n, [warisons], "un invito all'attacco").
+entry(wark, v, [warked,warking,warks], "sopportare il dolore").
+entry(senza_guerra, agg, [], "libero dalla guerra").
+entry(bellicoso, agg, [], "inclinato a impegnarsi in guerra").
+entry(stregone, n, [stregoni], "un incantatore").
+entry(signore_della_guerra, n, [signori_della_guerra], "un leader militare di una nazione bellicosa").
+entry(caldo, agg, [], "PIÙ CALDO IL PIÙ CALDO moderatamente caldo").
+entry(caldo, v, [scaldato,scaldando,scalda], "rendere caldo").
+entry(guerriero, n, [guerrieri], "colui che fa la guerra").
+entry(più_caldo, n, [scaldini], "uno che riscalda").
+entry(riscaldamento, n, [riscaldamenti], "l'atto o un'istanza di rendere qualcosa caldo").
+entry(tiepido, agg, [], "leggermente caldo").
+entry(caldamente, avv, [], "in modo caldo").
+entry(calore, n, [calori], "lo stato di essere caldo").
+entry(warmouth, n, [warmouths], "un pesce d'acqua dolce").
+entry(calore, n, [calori], "calore").
+entry(riscaldamento, n, [riscaldamenti], "un esercizio o procedura preparatoria").
+entry(avvertire, v, [avvertito,avvertimento,avverte], "rendere consapevole di un pericolo imminente o possibile").
+entry(warner, n, [avvisatori], "uno che avvisa").
+entry(avvertimento, n, [avvertimenti], "qualcosa che avverte").
+entry(warp, v, [deformato,deformando,deforma], "distorcere o torcere fuori forma").
+entry(imbarcamento, n, [imbarcamenti], "l'atto di imbarcare").
+entry(pittura_di_guerra, n, [pitture_di_guerra], "vernice usata per decorare il viso e il corpo prima della battaglia").
+entry(sentiero_di_guerra, n, [sentieri_di_guerra], "il percorso intrapreso dagli attaccanti nativi americani").
+entry(agitatore, n, [agitatori], "uno che distorce").
+entry(aereo_da_guerra, n, [aerei_da_guerra], "un aeroplano armato per il combattimento").
+entry(poterebellico, n, [poteribellici], "il potere di fare la guerra").
+entry(warpwise, avv, [], "in una direzione verticale").
+entry(warragal, n, [warragals], "warrigal").
+entry(mandato, v, [garantito, garantendo, garantisce], "dare autorità a").
+entry(garanzia, v, [garantito, garantendo, garanzie], "fornire una garanzia scritta per").
+entry(guerreggiato, passato, [], "tempo di guerra").
+entry(warren, n, [tane dei conigli], "un luogo dove i conigli vivono e si riproducono").
+entry(warrener, n, [guardiani], "il custode di una conigliera").
+entry(warrigal, n, [warrigals], "un dingo").
+entry(lottando, presente, [], "participio di guerra").
+entry(guerriero, n, [guerrieri], "uno impegnato o esperto in guerra").
+entry(varsavia, s, [varsavie], "un pesce marino").
+entry(nave_da_guerra, n, [navi_da_guerra], "una nave armata per il combattimento").
+entry(lottare, v, [lottato,lottando,lotta], "to wrestle").
+entry(warsler, n, [warslers], "un lottatore").
+entry(warstle, v, [warstled, warstling, warstles], "lottare").
+entry(warstler, n, [warstlers], "un lottatore").
+entry(verruca, n, [verruche], "una protuberanza sulla pelleVERRUCOSO agg").
+entry(facocero, n, [facoceri], "un maiale selvatico africano").
+entry(wartier, comparativo, [], "di verrucoso").
+entry(wartiest, superlativo, [], "di warty").
+entry(tempo_di_guerra, n, [tempi_di_guerra], "un periodo di guerra").
+entry(wartless, agg, [], "senza verruche").
+entry(verrucoso, agg, [], "che assomiglia a una verruca").
+entry(warty, agg, [], "COPERTO DI VERRUCHE").
+entry(lavorodiguerra, n, [lavoridiguerra], "lavoro svolto durante una guerra").
+entry(consunto dalla guerra, agg, [], "mostrando gli effetti della guerra").
+entry(wary, agg, [], "PIÙ GUARDINGO PIÙ GUARDINGA osservatore").
+entry(was, 1°, [], "e 3ª persona singolare passato indicativo di essere").
+entry(wasabi, n, [wasabi], "un'erba pungente").
+entry(lavare, v, [lavato,lavando,lava], "pulire immergendo o applicando un liquido").
+entry(lavabile, n, [lavabili], "qualcosa che può essere lavato senza danneggiarsi").
+entry(beauty case, n, [beauty cases], "una piccola borsa per trasportare articoli da toeletta quando si viaggia").
+entry(lavabo, n, [lavabi], "una bacinella usata per lavarsi").
+entry(giorno_di_bucato, n, [giorni_di_bucato], "un giorno dedicato al lavaggio dei vestiti").
+entry(lavatrici, n, [lavatrici], "uno che lava").
+entry(lavatore, comparativo, [], "di lavato").
+entry(più lavato, superlativo, [], "di lavato").
+entry(lavaggio, n, [lavaggi], "articoli lavati o da lavare").
+entry(crollo, n, [crolli], "un'erosione del terreno per effetto dell'acqua").
+entry(salvietta, n, [salviette], "un piccolo panno usato per lavarsi").
+entry(bagno, n, [bagni], "un bagno").
+entry(tinozza, n, [tinozze], "una vasca usata per lavare i vestiti").
+entry(lavaggio, n, [lavaggi], "l'atto di lavare pulito").
+entry(washy, agg, [], "WASHIER WASHIESTtroppo diluito").
+entry(vespa, n, [vespe], "un insetto pungenteVESPOSO SIMILE A VESPA agg").
+entry(vespiforme, agg, [], "PIÙ VESPIFORME IL PIÙ VESPIFORME somigliante a una vespa VESPIFORMEMENTE avv").
+entry(brindare, v, [brindato,brindando,brinda], "bere alla salute di").
+entry(ovest, n, [ovests], "west").
+entry(wastable, agg, [], "capace di essere sprecato").
+entry(sperpero, n, [sperperi], "qualcosa che viene sprecato").
+entry(spreco, v, [sprecato, sprecando, sprechi], "usare senza pensare").
+entry(sprecare, agg, [], "tendente a sprecare").
+entry(lotto_vuoto, n, [lotti_vuoti], "un lotto vacante").
+entry(sperperatore, n, [sperperatori], "uno che spreca").
+entry(wasterie, n, [wasterie], "spreco").
+entry(spreco, n, [sprechi], "spreco").
+entry(canale_di_scarico, n, [canali_di_scarico], "un canale per l'acqua in eccesso").
+entry(spreco, presente, [], "participio di waste").
+entry(scialacquatore, n, [scialacquatori], "colui che sperpera").
+entry(wastrie, n, [wastries], "sperpero").
+entry(wastry, n, [wastries], "stravaganza sconsiderata").
+entry(wat, agg, [], "WATTER WATTESTwet").
+entry(wat, n, [wats], "una lepre").
+entry(watap, n, [wataps], "un filo fatto dalle radici di vari alberi").
+entry(watape, n, [watapes], "watap").
+entry(orologio, v, [osservato,osservando,osserva], "osservare attentamente").
+entry(grido_di_sentinella, n, [grida_di_sentinella], "una parola d'ordine").
+entry(cane_da_guardia, v, [cani_da_guardia, sorveglianza, cani_da_guardia], "agire come un guardiano per").
+entry(osservatore, n, [osservatori], "uno che osserva").
+entry(watcheye, n, [watcheyes], "un lucioperca").
+entry(vigile, agg, [], "attentamente osservante o allerta").
+voce(sorvegliante, n, [sorveglianti], "un uomo impiegato per fare la guardia").
+entry(attenzione, n, [attenzioni], "l'atto di prestare attenzione a qualcosa").
+entry(acqua, v, [annaffiato,annaffiando,annaffia], "spruzzare con acqua un liquido trasparente inodore e insapore").
+entry(trasporto_acquatico, n, [trasporti_acquatici], "il trasporto di merci per via d'acqua").
+entry(lettomassaggio, n, [lettimassaggio], "un letto il cui materasso è una borsa di plastica riempita d'acqua").
+entry(vaporetto, n, [vaporetti], "o VAPORETTIa grande motoscafo per trasporto passeggeri").
+entry(tritone, n, [tritoni], "una grande salamandra").
+entry(innaffiatore, n, [innaffiatori], "uno che innaffia").
+entry(gallinella, n, [gallinelle], "il folaga americana").
+entry(più acquoso, comparativo, [], "di acquoso").
+entry(piu_acquoso, superlativo, [], "di acquoso").
+entry(acquosamente, avv, [], "in maniera acquosa").
+entry(annaffiatura, n, [annaffiature], "l'atto di colui che annaffia").
+entry(acquoso, agg, [], "simile all'acqua").
+entry(getto_d'acqua, n, [getti_d'acqua], "un flusso d'acqua forzato attraverso una piccola apertura").
+entry(waterlog, v, [inzuppato,inzuppando,inzuppa], "inzuppare d'acqua").
+entry(waterloo, n, [waterloos], "una sconfitta decisiva").
+entry(waterman, n, [watermen], "un barcaiolo").
+entry(sci_d'acqua, n, [sci_d'acqua], "uno sci per sciare sull'acqua").
+entry(via_d'acqua, n, [vie_d'acqua], "un corpo d'acqua navigabile").
+entry(acquoso, agg, [], "PIÙ ACQUOSO PIÙ ACQUOSISSIMOcontenente acqua").
+entry(watt, n, [watt], "un'unità di potenza").
+entry(potenza, n, [potenze], "una quantità di potenza in termini di watt").
+entry(wattape, n, [wattapes], "watap").
+entry(watter, comparativo, [], "di che").
+entry(wattest, superlativo, [], "di wat").
+entry(watthour, n, [wattora], "una unità di energia").
+entry(wattle, v, [wattled, wattling, wattles], "intrecciare in una rete").
+entry(wattless, agg, [], "che denota un tipo di corrente elettrica").
+entry(waucht, v, [wauchted,wauchting,wauchts], "sorsare").
+entry(waugh, agg, [], "umido").
+entry(waught, v, [waughted,waughting,waughts], "bere a grandi sorsi").
+entry(wauk, v, [wauked,wauking,wauks], "svegliare").
+entry(waul, v, [miagolava,miagolando,miagola], "piangere come un gatto").
+entry(waur, agg, [], "peggiore").
+entry(onda, v, [ondulato, ondulando, onde], "muoversi liberamente avanti e indietro o su e giù").
+entry(banda_di_frequenza, n, [bande_di_frequenze], "una gamma di frequenze radio").
+entry(waveform, n, [forme_d'onda], "un tipo di grafico matematico").
+entry(senza_onde, agg, [], "senza onde che si muovono creste sulla superficie di un liquido").
+entry(ondina, n, [ondine], "una piccola onda").
+entry(ondulato, agg, [], "che assomiglia a un'onda").
+entry(interruzione, n, [interruzioni], "l'atto di negare il permesso di atterraggio a un aereo in avvicinamento").
+entry(ondeggiare, v, [ondeggiato,ondeggiando,ondeggia], "muoversi avanti e indietro").
+entry(titubante, n, [titubanti], "uno che esita").
+entry(wavery, agg, [], "vacillante").
+entry(wavey, n, [waveys], "l'oca delle nevi").
+entry(wavicle, n, [wavicles], "una particella subatomica che può comportarsi sia come un'onda che come una particella").
+entry(ondulazione, comparativo, [], "di ondulato").
+entry(wavies, pl, [], "di ondulato").
+entry(ondosissimo, superlativo, [], "di ondulato").
+entry(ondulatamente, avv, [], "in modo ondulato").
+entry(ondulazione, n, [ondulazioni], "lo stato di essere ondulato").
+entry(agitare, presente, [], "participio di wave").
+entry(ondulato, agg, [], "PIÙ ONDULATO IL PIÙ ONDULATOavendo onde").
+entry(mosso, n, [mossi], "ondulato").
+entry(waw, n, [waws], "vau").
+entry(wawl, v, [wawled,wawling,wawls], "miagolare").
+entry(cera, v, [cerata,cerando,cerano], "rivestire con cera una sostanza naturale sensibile al caloreCERABILE agg").
+entry(cera_di_bacca, n, [cere_di_bacca], "una bacca con un rivestimento ceroso").
+entry(astrilde, n, [astrildi], "un uccello tropicale").
+entry(cerato, agg, [], "ricoperto di cera").
+entry(ceretta, n, [cerette], "una che fa la ceretta").
+entry(più_ceroso, comparativo, [], "di ceroso").
+entry(waxiest, superlativo, [], "di ceroso").
+entry(ceroso, avv, [], "in modo ceroso").
+entry(lucentezza, n, [lucentezze], "la qualità di essere ceroso").
+entry(crescente, n, [crescenti], "l'atto di chi cresce").
+entry(ceroso, agg, [], "simile alla cera").
+entry(piante_cere, n, [piante_cere], "una pianta tropicale").
+entry(waxweed, n, [waxweeds], "un'erba annuale").
+entry(coda_di_cera, n, [code_di_cera], "un tipo di uccello passeriforme").
+entry(statua_di_cera, n, [statue_di_cera], "un'effigie fatta di cera").
+entry(verme_cera, n, [vermi_cera], "una falena che infesta le arnie").
+entry(ceroso, agg, [], "CEROSO CEROSISSIMO somigliante alla cera").
+entry(modo, n, [modi], "un metodo per fare qualcosa").
+entry(wayang, n, [wayangs], "una rappresentazione con marionette o ballerini umani").
+entry(lettera_di_vettura, n, [lettere_di_vettura], "una lista di beni relativi a una spedizione").
+entry(pellegrino, n, [pellegrini], "un viaggiatore").
+entry(waygoing, n, [waygoings], "l'atto di partire").
+entry(tendere_agguato, v, [tese_agguato,tendere_agguato,tesi_agguati], "tendere un agguato").
+entry(waylayer, n, [waylayers], "uno che tende agguati").
+entry(senza_strada, agg, [], "senza strada o percorso").
+entry(waymark, n, [punti_di_riferimento], "un oggetto che funge da guida per i viaggiatori").
+entry(waypoint, n, [waypoints], "un punto tra i punti principali lungo un percorso").
+entry(lato_strada, n, [latistandard_di_strada], "il lato di una strada").
+entry(wayward, agg, [], "capriccioso").
+entry(wayworn, agg, [], "affaticato dal viaggio").
+entry(noi, pron, [], "pronome di 1ª persona plurale in caso nominativo").
+entry(debole, agg, [], "DEBOLE PIÙ DEBOLElacking strength").
+entry(indebolire, v, [indebolito, indebolimento, indebolisce], "rendere debole").
+entry(indebolente, n, [indebolenti], "colui che indebolisce").
+entry(weakfish, n, [weakfishes], "un pesce marino").
+entry(weakish, agg, [], "un po' debole").
+entry(debole, n, [deboli], "una persona debole").
+entry(debolmente, agg, [], "DEBOLISSIMO DEBOLISSIMI debole e malaticcio").
+entry(debolezza, n, [debolezze], "lo stato di essere debole").
+entry(deboleone, n, [deboleoni], "una particella subatomica").
+entry(lato_debole, n, [lati_deboli], "il lato di un campo da basket con meno giocatori").
+entry(ricchezza, s, [ricchezze], "una cicatrice").
+entry(weald, n, [wealds], "un bosco").
+entry(ricchezza, n, [ricchezze], "una grande quantità di materiale prezioso").
+entry(ricco, agg, [], "PIÙ RICCO PIÙ RICCHISSIMOavere ricchezza").
+entry(wean, v, [weaned,weaning,weans], "smettere di allattare e sostituire con altro nutrimento").
+entry(svezzatore, n, [svezzatori], "uno che svezzano").
+entry(weanling, n, [lattonzoli], "un bambino o animale svezzato di recente").
+entry(arma, v, [armato,armare,armi], "fornire un'arma uno strumento usato in combattimento").
+entry(armamenti, n, [armamenti], "un insieme di armi").
+entry(indossare, v, [indossò, indossato, indossando], "INDOSSAREavere su di sé").
+entry(indossabile, n, [indossabili], "un indumento").
+entry(portatore, n, [portatori], "uno che indossa qualcosa").
+entry(stancato, passato, [], "tempo di stancare").
+entry(più stanco, comparativo, [], "di stanco").
+entry(stanca, presente, [], "3a persona sing di stancare").
+entry(usurante, agg, [], "faticoso").
+entry(trasandato, agg, [], "insipido").
+entry(stanco, agg, [], "PIÙ STANCO PIÙ STANCOstancoSTANCAMENTE avv").
+entry(stanco, v, [stancato,stancando,stanca], "rendere o diventare stanco").
+entry(esofago, n, [esofagi], "la gola").
+entry(donnola, v, [donnolato,donnolando,donnola], "o DONNOLATO DONNOLANDO DONNOLA per agire evasivamente").
+entry(elusivo, agg, [], "che somiglia a una donnola, un piccolo mammifero carnivoro").
+entry(furbesco, agg, [], "da donnola").
+entry(weason, n, [weasons], "trachea").
+entry(meteo, v, [meteorizzato,meteorizzando,meteorizza], "esporre alle condizioni atmosferiche").
+entry(intrecciare, v, [intrecciato,intessuto,intrecciando], "INTRECCIAper formare intrecciando fili").
+entry(tessitore, n, [tessitori], "uno che tesse").
+entry(tessitura, n, [tessiture], "l'attività di creare materiali intrecciati").
+entry(weazand, n, [weazand], "esofago").
+entry(web, v, [incannato,incannatura,incanna], "per fornire una tela o struttura intrecciata").
+entry(cinghia, n, [cinghie], "una striscia intrecciata di fibra").
+entry(webby, agg, [], "PIÙ WEBBOSO/WEBBISSIMO SIMILE AL WEB").
+entry(webcam, n, [webcam], "una fotocamera utilizzata per trasmettere immagini in diretta su Internet").
+entry(webcast, v, [trasmesso_in_webcast,trasmettere_in_webcast,trasmette_in_webcast], "trasmettere suoni e immagini via il World Wide Web").
+entry(weber, n, [weber], "un'unità di flusso magnetico").
+entry(webfed, agg, [], "progettato per stampare un rotolo continuo di carta").
+entry(zampa_palmatā, n, [zampe_palmate], "un piede con le dita unite da una membrana").
+entry(webinar, n, [webinar], "presentazione educativa interattiva dal vivo condotta su un sito web").
+entry(webisodio, n, [webisodi], "un episodio di una serie televisiva che può essere visualizzato su un sito web").
+entry(webless, agg, [], "senza ragnatele").
+entry(simileunaweb, agg, [], "che assomiglia a una ragnatela").
+entry(blog, n, [blog], "un sito web che contiene un diario personale online").
+entry(pagina_web, n, [pagine_web], "un singolo documento sul World Wide Web").
+entry(sito_web, n, [siti_web], "un insieme di pagine web interconnesse gestite da un individuo o un'organizzazione").
+entry(webster, n, [websters], "un tessitore").
+entry(webwork, n, [opereweb], "una struttura o motivo simile a una tela").
+entry(verme_del_web, n, [vermi_del_web], "un bruco che fila ragnatele").
+entry(webzine, n, [webzine], "una rivista pubblicata su Internet").
+entry(peso, n, [pesi], "weight").
+entry(mer, v, [sposato, matrimonio, sposa], "sposare").
+entry(sposo, n, [sposi], "uno che sposa").
+entry(matrimonio, n, [matrimoni], "una cerimonia di nozze").
+entry(wedel, v, [wedeled,wedeling,wedels], "eseguire un wedeln").
+entry(wedeln, n, [wedelns], "una tecnica di sci").
+entry(cuneo, v, [cuneato,cuneando,cunei], "forzare a parte con un cuneo un pezzo di legno o metallo rastremato").
+entry(scarpa_con_zeppa, n, [scarpe_con_zeppa], "un tipo di scarpa da donna").
+entry(wedgy, agg, [], "A SOMIGLIANTE A un cuneo come un cuneo").
+entry(matrimonio, n, [matrimoni], "lo stato di essere sposati").
+entry(wee, agg, [], "WEER WEESTmolto piccolo").
+entry(wee, v, [urinare,urinando,urina], "urinare").
+entry(erbaccia, v, [erbacciato,erbacciando,erbacce], "rimuovere erbacce piante indesiderate").
+entry(weedbed, n, [weedbeds], "un'area di un corpo d'acqua con molte erbacce").
+entry(diserbante, n, [diserbanti], "uno che diserba").
+entry(più erbaccioso, comparativo, [], "di erbaccioso").
+entry(weediest, superlativo, [], "di weedy").
+entry(weedily, avv, [], "in modo erboso").
+entry(erbacce_completa, agg, [], "privo di erbacce").
+entry(erbosimile, agg, [], "che somiglia a un'erbaccia").
+entry(erbacciolina, n, [erbaccioline], "il bordo di un letto di erbacce").
+entry(erbaccioso, agg, [], "PIÙ ERBACCIO, IL PIÙ ERBACCIO simile a un'erbaccia").
+entry(settimana, n, [settimane], "un periodo di sette giorni").
+entry(giorno_feriale, n, [giorni_feriali], "qualsiasi giorno della settimana tranne sabato e domenica").
+entry(weekend, v, [trascorso_il_weekend,trascorrendo_il_weekend,trascorre_i_weekend], "trascorrere il fine settimana la fine della settimana").
+entry(settimanale, agg, [], "che dura una settimana").
+entry(settimanale, n, [settimanali], "una pubblicazione che esce una volta alla settimana").
+entry(weel, agg, [], "bene").
+entry(ween, v, [weened,weening,weens], "supporre").
+entry(weenie, n, [weenies], "un wurstel").
+entry(minuscolo, agg, [], "MINUSCOLISSIMO MINUSCOLISSIMOTINY").
+entry(weeny, agg, [], "WEENIER WEENIESTtiny").
+entry(piangere, v, [pianse, piangendo, piange], "esprimere dolore versando lacrime").
+entry(piangitore, n, [piangitori], "colui che piange").
+entry(weepie, n, [weepies], "un film molto sentimentale").
+entry(pianto, n, [pianti], "l'atto di chi piange").
+entry(piagnucoloso, agg, [], "PIAGNICOLOSO PIÙ PIAGNICOLOSO tendente a piangere PIAGNICOLOSAMENTE avv").
+entry(wee, comparativo, [], "di wee").
+entry(minuscolo, superlativo, [], "di piccolo").
+entry(weet, v, [weeted,weeting,weets], "sapere").
+entry(tracina, n, [tracine], "un pesce marino").
+entry(punteruolo, n, [punteruoli], "un piccolo coleotteroPUNTERUOLO PARASSITATO PUNTERUOLOSAMENTE adj").
+entry(weewee, v, [weeweed,weeweeing,weewees], "urinare").
+entry(ordito, n, [orditi], "un tessuto o indumento tessuto").
+entry(ordito, avv, [], "in una direzione orizzontale").
+entry(weigela, n, [weigelas], "un arbusto fiorito").
+entry(weigelia, n, [weigelias], "weigela").
+entry(pesare, v, [pesato,pesando,pesa], "determinare il peso di").
+entry(pesatore, n, [pesatori], "uno che pesa").
+entry(pesatore, n, [pesatori], "uno la cui occupazione è pesare merci").
+entry(peso, v, [pesato,ponderazione,pesi], "aggiungere pesantezza di peso a").
+entry(pesatore, n, [pesatori], "uno che pesa").
+entry(pesante, agg, [], "PIÙ PESANTE IL PIÙ PESANTEhaving great weight").
+entry(weiner, n, [wurstel], "wiener").
+entry(sbarramento, n, [sbarramenti], "una recinzione posta in un torrente per catturare pesci").
+entry(strano, v, [stranizzato, stranizzando, stranizza], "causare a provare una sensazione strana").
+entry(strano, agg, [], "PIÙ STRANO STRANISSIMO misteriosamente strano").
+entry(strano, n, [stranezze], "destino").
+entry(strambo, n, [strambi], "una persona molto strana").
+entry(weirdies, pl, [], "di weirdy").
+entry(stranamente, avv, [], "in modo strano").
+entry(strambo, n, [strambi], "o STRAMBI uno strambetto").
+entry(weirdy, n, [weirdies], "stramberia").
+entry(weka, n, [wekas], "un uccello incapace di volare").
+entry(welch, v, [welched,welching,welches], "mancare di parola").
+entry(welcher, n, [welchers], "uno che non paga").
+entry(benvenuto, v, [benvenutato, benvenendo, benvenuta], "salutare cordialmente").
+entry(accoglitore, n, [accoglitori], "colui che accoglie").
+entry(saldare, v, [saldato,saldando,salda], "unire applicando caloreSALDABILE agg").
+entry(saldatore, n, [saldatori], "chi salda").
+entry(saldato, agg, [], "senza giunzioni saldate").
+entry(giunto_saldato, n, [giunti_saldati], "un'unità composta da pezzi saldati").
+entry(saldatore, n, [saldatori], "welder").
+entry(benessere, n, [benesseri], "benessere generale").
+entry(cielo, n, [cieli], "il cielo").
+entry(bene, v, [sgorgato,sgorgando,sgorga], "salire in superficie e sgorgare").
+entry(ahimè, n, [ahimè], "ahimè").
+entry(wellaway, n, [wellaways], "un'espressione di dolore").
+entry(bene nato, agg, [], "di buona nascita o discendenza").
+entry(imboccatura_del_pozzo, n, [imboccature_del_pozzo], "l'anello di pietra intorno a un pozzo, un buco scavato nel terreno per ottenere acqua").
+entry(benefattore, n, [benefattori], "un esecutore di buone azioni").
+entry(testata, n, [testate], "la sorgente di una sorgente o di un torrente").
+entry(pozzo, n, [pozzi], "l'albero di un pozzo").
+entry(wellie, n, [stivali], "uno stivale Wellington").
+entry(stivali, pl, [], "degli stivali").
+entry(benessere, n, [benesseri], "lo stato di essere in salute").
+entry(sito_di_perforazione, n, [siti_di_perforazione], "un minerale").
+entry(welly, n, [stivali_di_gomma], "stivale_di_gomma").
+entry(gallese, v, [gallesizzato,gallizzare,gallesi], "mancare di pagare un debito").
+entry(welsher, n, [mancati_pagatori], "uno che non mantiene una promessa").
+entry(welt, v, [welted,welting,welts], "marcare con welt rigonfiamenti o protuberanze sollevate sulla pelle").
+entry(welter, v, [weltered,weltering,welters], "rotolarsi").
+entry(welting, n, [weltings], "una corda o striscia usata per rinforzare una cucitura").
+entry(wen, n, [cisti], "un tumore benigno della pelle").
+entry(donnaccia, v, [donnacciava,donnacciando,donnacce], "consorte con prostitute").
+entry(wencher, n, [wenchers], "una che si comporta da donna").
+entry(wend, v, [wended,wending,wends], "procedere lungo").
+entry(wendigo, n, [wendigos], "windigo").
+entry(wennish, agg, [], "wenny").
+entry(wenny, agg, [], "CHE SOMIGLIA A UN WEN PIÙ WENNIEST PIÙ WENNIER").
+entry(andato, passato, [], "tempo di andare").
+entry(pianto, passato, [], "tempo di piangere").
+entry(were, a, [], "sing passato indicativo e passato congiuntivo della 2a e 3a persona singolare di essere").
+entry(guidrigildo, n, [guidrigildi], "guidrigildo").
+entry(lupo mannaro, n, [lupi mannari], "una persona in grado di assumere la forma di un lupo").
+entry(wergeld, n, [wergelds], "un prezzo pagato per la vita di un uomo secondo la legge anglosassone").
+entry(wergelt, n, [wergelts], "guidrigildo").
+entry(wergild, n, [wergilds], "guidrigildo").
+entry(wert, a, [], "2ª persona singolare passato remoto di essere").
+entry(lupo_mannaro, n, [lupi_mannari], "werewolf").
+entry(gilet, n, [gilet], "un gilet").
+entry(wessand, n, [wessands], "esofago").
+entry(ovest, n, [ovests], "un punto cardinale della bussola").
+entry(wester, v, [westered,westering,westers], "muoversi verso ovest").
+entry(occidentale, n, [occidentali], "un vento da ovest").
+entry(occidentale, n, [occidentali], "uno che vive nell'ovest").
+entry(westing, n, [westings], "uno spostamento verso ovest").
+entry(estremo_ovest, agg, [], "più a ovest").
+entry(verso_ovest, n, [verso_ovest], "una direzione verso ovest").
+entry(bagnato, agg, [], "PIÙ BAGNATO PIÙ BAGNATIcevito o saturo di un liquido").
+entry(bagnare, v, [bagnato,bagnando,bagna], "to make wet").
+entry(weta, n, [wetas], "un grande insetto senza ali della Nuova Zelanda").
+entry(montone, n, [montoni], "un maschio di pecora castrato").
+entry(zona_umida, n, [zone_umide], "terreno contenente molta umidità del suolo").
+entry(bagnatamente, avv, [], "in modo bagnato").
+entry(umidità, n, [umidità], "lo stato di essere bagnato").
+entry(wetproof, agg, [], "impermeabile").
+entry(muta, n, [mute], "una tuta aderente simile alla gomma indossata in acque fredde dai subacquei").
+entry(bagnabile, agg, [], "capace di essere bagnato").
+entry(bagnato, passato, [], "tempo di bagnare").
+entry(bagnatore, n, [bagnatori], "uno che bagna").
+entry(più_umido, superlativo, [], "di umido").
+entry(bagnatura, n, [bagnature], "un liquido usato per inumidire qualcosa").
+entry(umido, agg, [], "poco bagnato").
+entry(bionica, n, [bioniche], "il cervello umano quando considerato funzionalmente equivalente a un computer").
+entry(wha, pron, [], "chi").
+entry(colpire, v, [colpito,colpendo,colpisce], "colpire con forza").
+entry(colpito, agg, [], "1 intossicato da alcol o droghe 2 esausto").
+entry(battitore, n, [battitori], "uno che batte").
+entry(colpire, n, [colpi], "l'atto o un'istanza di colpire qualcosa bruscamente").
+entry(strambo, n, [strambi], "strambo").
+entry(strambo, agg, [], "PIÙ STRAMBO STRAMBISSIMO").
+entry(balena, v, [balenato,balenando,balene], "impegnarsi nella caccia di grandi mammiferi marini come le balene").
+entry(balenieraio, n, [balenierai], "un baleniere").
+entry(baleniera, n, [baleniere], "una persona impegnata nella caccia alle balene").
+entry(caccia alle balene, n, [cacce alle balene], "l'industria della caccia e lavorazione delle balene").
+entry(wham, v, [whammed,whamming,whams], "colpire con un forte impatto").
+entry(whammo, interj, [], "usato per indicare un evento sorprendente").
+entry(whammy, n, [jella], "un incantesimo soprannaturale che porta sfortuna").
+entry(whamo, interj, [], "whammo").
+entry(whang, v, [whanged, whanging, whangs], "battere con una frusta").
+entry(whangee, n, [whangees], "un'erba asiatica").
+entry(whap, v, [whapped, whapping, whaps], "dare un colpo").
+entry(whapper, n, [whappers], "whopper").
+entry(molo, v, [molato, molando, moli], "ormeggiare in un molo, un luogo di attracco per navi").
+entry(imbarco, n, [imbarchi], "l'uso di un molo").
+entry(banchina, n, [banchine], "un pezzo di legno tondo usato nella filatura del filo").
+entry(cosa, n, [cosas], "la vera natura di qualcosa").
+entry(qualsiasi, agg, [], "essere ciò o chiunque possa essere").
+entry(cosa, n, [cose], "la vera natura di qualcosa").
+entry(gingillo, n, [gingilli], "un insieme ornamentale di scaffali").
+entry(cosofai, n, [cosofaì], "coso").
+entry(cosaforse, n, [cosaforses], "qualcosa il cui nome è sconosciuto o dimenticato").
+entry(whatso, pron, [], "qualsiasi cosa o chiunque esso sia").
+entry(tottavilla, n, [tottaville], "un uccello europeo").
+entry(gonfiore, n, [gonfiori], "una protuberanza").
+entry(grano, n, [grani], "un cereale erbaceo").
+entry(pigliamosche, n, [pigliamoschi], "un piccolo uccello delle regioni settentrionali").
+entry(biondo, n, [biondi], "un colore giallastro pallido").
+entry(whee, interj, [], "usato per esprimere delizia").
+entry(adulare, v, [adulato, adulando, adula], "tentare di persuadere con adulazione").
+entry(adulatore, n, [adulatori], "uno che adula").
+entry(ruota, v, [ruotate,ruotando,ruote], "trasportare su ruote telai circolari progettati per girare su un asse").
+entry(wheeler, n, [wheelers], "colui che gira").
+entry(wheelie, n, [impennate], "una manovra effettuata su un veicolo a ruote").
+entry(guida, n, [guide], "la condizione di una strada per veicoli").
+entry(timoniere, n, [timonieri], "un timoniere").
+entry(wheen, n, [wheens], "una quantità abbastanza grande").
+entry(wheep, v, [wheeped,wheeping,wheeps], "squittire").
+entry(wheeple, v, [wheepled,wheepling,wheeples], "emettere un fischio prolungato").
+entry(sibilare, v, [sibilato,sibilando,sibila], "respirare con un suono sibilante").
+entry(respiratore, n, [respiratori], "colui che respira affannosamente").
+entry(fischiante, agg, [], "FISCHIANTEFISCHIANTEcaratterizzato da respirazione affannosaFISCHIANTEMENTE avv").
+entry(bullone, n, [bulloni], "una pustola").
+entry(whelky, agg, [], "WHELKIER WHELKIESTcontrassegnato da whelks").
+entry(sommergere, v, [sommerso, sommergendo, sommerge], "coprire con acqua").
+entry(sgravare, v, [sgravata,sgravando,sgravano], "partorire").
+entry(quando, n, [quandi], "il momento in cui qualcosa viene fatto o si verifica").
+entry(whenas, cong, [], "al quale tempo").
+entry(da dove, cong, [], "da quale luogo").
+entry(whenever, cong, [], "in qualsiasi momento").
+entry(dove, n, [doves], "il luogo in cui si trova o si verifica qualcosa").
+entry(considerando, n, [considerandi], "un'introduzione di un documento formale").
+entry(whereat, cong, [], "a cui").
+entry(whereby, conj, [], "per cui").
+entry(dove, cong, [], "in cui").
+entry(whereof, conj, [], "di cui").
+entry(whereon, cong, [], "su cui").
+entry(dove, cong, [], "a cui").
+entry(dovunque, conj, [], "in o verso qualsiasi luogo").
+entry(barca, v, [barcate, remando, barchette], "trasportare in una leggere barca a remi").
+entry(wherve, n, [wherves], "banchina").
+entry(affilare, v, [affilato, affilando, affila], "affilare attraverso attrito").
+entry(se, cong, [], "se è il caso che").
+entry(affilatore, n, [affilatori], "uno che affila").
+entry(whew, n, [fischi], "un suono fischiante").
+entry(siero, n, [sieri], "la parte acquosa del latteSIERO SIEROSO agg").
+entry(wheyface, n, [wheyfaces], "un volto pallido e smunto").
+entry(similesiero, agg, [], "somigliante al siero").
+entry(quale, pron, [], "quale particolare uno o quelli").
+entry(whicker, v, [whickered,whickering,whickers], "nitrito").
+entry(whid, v, [whidded,whidding,whids], "muoversi rapidamente e silenziosamente").
+entry(vedova, n, [vedove], "uidae").
+entry(annusare, v, [annusato, annusando, annusa], "soffiare o trasmettere con leggeri sbuffi d'aria").
+entry(whiffer, n, [whiffers], "uno che annusa").
+entry(whiffet, n, [whiffets], "una persona insignificante").
+entry(whiffle, v, [whiffled,whiffling,whiffles], "muoversi o pensare in modo irregolare").
+entry(whiffler, n, [whifflers], "colui che fa un suono sibilante").
+entry(whiffy, agg, [], "PIÙ MALEODORANTE PIÙ MALEODORANTEavente un odore sgradevole").
+entry(whig, n, [whigs], "chi interpreta la storia come una continua vittoria del progresso sulle forze reazionarie").
+entry(while, v, [whiled,whiling,whiles], "far passare piacevolmente").
+entry(whilom, adv, [], "precedentemente").
+entry(whilst, cong, [], "durante il tempo che").
+entry(capriccio, n, [capricci], "un'idea impulsiva").
+entry(chiozzolo, n, [chiozzoli], "un uccello di riva").
+entry(gemito, v, [gemito,gemendo,gemiti], "piangere con suoni lamentosi e spezzati").
+entry(capriccio, n, [capricci], "whimsy").
+entry(capriccio, n, [capricci], "un capriccioCAPRICCIOSO agg").
+entry(ginestra, n, [ginestre], "furze").
+entry(saxicola, n, [saxicola], "un uccello canoro").
+entry(piagnucolare, v, [piagnucolato,piagnucolando,piagnucola], "emetter un suono acuto lamentoso").
+entry(piagnone, n, [piagnoni], "uno che si lamenta").
+entry(lamentoso, agg, [], "PIÙ LAMENTOSO PIÙ LAMENTOSISSIMOlamentoso").
+entry(lagnarsi, v, [], "LAGNATO LAGNANDOSI per lamentarsi").
+entry(piagnone, n, [piagnoni], "uno che si lamenta").
+entry(lamentoso, agg, [], "PIÙ LAMENTOSO PIÙ LAMENTOSOtendente a lamentarsi").
+entry(lagnoso, comparativo, [], "di lagnoso e piagnucoloso").
+entry(piagnucoloso, superlativo, [], "di piagnucoloso e piagnucolante").
+entry(lamentarsi, presente, [], "participio di lamentarsi").
+entry(nitrire, agg, [], "PIÙ NITRITO PIÙ NITRITOabbondante in nitrire").
+entry(nitrito, v, [nitrito, nitrendo, nitrisce], "nitrisce in modo basso o dolce").
+entry(lamentoso, agg, [], "PIÙ LAMENTOSO PIÙ LAMENTOSOtendente a lamentarsi").
+entry(fustigare, v, [fustigato,fustigando,fustiga], "colpire con una frusta uno strumento per infliggere punizioni corporali").
+entry(whipcord, n, [fruste], "un forte filo attorcigliato").
+entry(colpo_di_frusta, n, [colpi_di_frusta], "il colpo di una frusta").
+entry(senzafrusta, agg, [], "privo di una frusta").
+entry(simile a una frusta, agg, [], "che assomiglia a una frusta").
+entry(montato, a, [], "passato di whip").
+entry(frustatore, n, [frustatori], "colui che frusta").
+entry(whippet, n, [whippets], "un piccolo cane veloce").
+entry(whipping, n, [whippings], "materiale usato per frustare").
+entry(whippit, n, [whippits], "un piccolo contenitore di protossido di azoto").
+entry(whippy, agg, [], "WHIPPIER WHIPPIESTriguardante o somigliante a una frusta").
+entry(pasturessa, n, [pasturesse], "una razza").
+entry(whipsaw, v, [whipsawed,whipsawn,whipsawing], "WHIPSAWS per tagliare con una sega affilata e rastremata").
+entry(whipt, a, [], "passato remoto di whip").
+entry(teiu, n, [teiui], "una lucertola con una lunga coda sottile").
+entry(tricocefalo, n, [tricocefali], "un verme parassita").
+```prolog
+entry(whir, v, [whirred,whirring,whirs], "muovere con un suono ronzante v girare rapidamente n collui che gira agg caratterizzato da un movimento vorticoso avv in un modo bianco rendere bianco uno che rende bianco condizione meteorologica artica WILLY adj WILIER WILIESTditsy w past sing persona sapere movimento dollaro fischiare parlare giocatore palla sensazione curiosità WOO DESIGN traduzione NOUN collina orsacchiotto agg autocratico guida semaforo termine battito 
+generare interpretare specificare ballare infrazione avanzamento manuale prevedere risultato 
+girare volantinare polvere rimettere orologio TIGLIETTOUOS angolo attestato spot lessare risonanza angolo finestra velocità urna BUNDLE verso ALLEY 
+giraffare bene guardia inchiostro raccolta 
+mellifluo formale formato MANIPOLARE affetto emozionare comune variabile Piega 
+nebbia pettine rovesciare fardare riscaldare regolare materia rispetto cerebro 
+abbaiamento albero angolo angoloso angolo nastro trabocchetto vortice WIGGLER n pl WIGGLERSuno che si muove a zigzagWIGLY adj WIGLIER WIGLIESTtendente a muoversi a zigzagWIGLYITOur v Italia forma cyclamate GALE Brezza Watizzatore Calpestio radiazione promuovere condensare NERD Ospitare falancia Inizio faglia tasso idiota spillo zecche zoppicamento NERD consulta italiano radio cemento venire grafica 
+impugnare pettini brillanti lustri avere interesse appannato cui udire tendere segmento segno 
+legendario radiofrance intervista briscola garza paurosamente cara lastrina scrigno insetto 
+equilibrarsi sebbene muro entrata tagliare pratichetu salire brillante 
+nuotare zampa ROHROHTAF sua fungineo gioco griglia 
+rappresentativo linguetta onorevole rendere loro dividere 
+ricapitolare attualità invito alza', largo, 
+instruzione ricoprire luogo efficacia 
+platino 
+ottica 
+RILAVAGNO registrare mangiafanciullo 
+WIZWAZ voglia rottamazione fineo canzone prestigio affare cordialità dessert vendetta # $%<<<
+```
+```prolog
+entry(xantano, n, [xantani], "una gomma prodotta dalla fermentazione battericaXANTATO n pl XANTATIun sale chimicoXANTEINA n pl XANTEINEla parte solubile in acqua del colorante nei fiori gialliXANTENE n pl XANTENIun composto chimicoXANTICO agg tendente ad avere un colore gialloXANTINA n pl XANTINEun pigmento gialloXANTINA n pl XANTINEun composto chimicoXANTOMA n pl XANTOMI o XANTOMATAuna malattia della pelleXANTONE n pl XANTONIun composto chimicoXANTOSO agg gialloXEBECK n pl XEBECCHIuna nave a vela mediterraneaXENIA n pl XENIEl'effetto del polline su certe strutture vegetaliXENIALE aggXENICO agg relativo a un tipo di mezzo di colturaXENOGAMIA n pl XENOGAMIEil trasferimento di polline da una pianta a un'altraXENOGENIA n pl XENOGENIEla presunta produzione di prole completamente diversa dal genitoreXENOLITE n pl XENOLITIun frammento roccioso incluso in un'altra rocciaXENON n pl XENONIun elemento gassosoXENOPI n pl XENOPOSeuna rana originaria dell'Africa meridionaleXENOTIME n pl XENOTIMIun minerale marrone-giallastroXERARCH agg in via di sviluppo in un'area seccaXERICO agg che richiede solo una piccola quantità di umiditàXEROSERA n pl XEROSEREun'area arida sereXEROSI n pl XEROSIanomala secchezza di una parte o tessuto corporeoXEROTICA aggXEROS v XEROSSATO XEROSSANDO XEROSSAREfare una copia su una fotocopiatrice xerograficaXERO n pl XERONEuno scoiattolo di terra africanoXI n pl XEISuna lettera grecaXIFOIDE n pl XIFOIDIuna parte dello sternoXU n pl un'unità monetaria del VietnamXYLAN n pl XILANIuna sostanza trovata nelle pareti cellulari delle pianteXYLEM n pl XILEMIun tessuto vegetale complessoXYLENE n pl XILENIun idrocarburo infiammabileXYLIDINA n pl XYLIDINExylidinaXYLIDINA n pl XYLIDINEun composto chimicoXYLITOLO n pl XYLITOLIun alcoolXYLOCARP n pl XYLOCARPIun frutto duro e legnosoXYLOIDE adj simile al legnoXYLOL n pl XYLOLSxileneXILOSIO n pl XILOSIOuna tipo di zuccheroXYLOTOMIA n pl XYLOTOMIEla preparazione di sezioni di legno per l'esame microscopicoXYLILE n pl XYLILSun radicale univalenteXYST n pl XYSTSxystusXISTER n pl XISTERSuno strumento chirurgico per raschiare le ossaXISTOS n pl XISIxystusXISTUS n pl XISTuna area coperta dove gli atleti si allenavano nell'antica Grecia").
+```
+entry(ya, n, [yas], "una pera asiaticaYABBER v YABBERED YABBERING YABBERStoblabberareYABBIE n pl YABBIESyabbyYABBY n pl YABBIESun gambero australianoYACHT v YACHTED YACHTING YACHTSnavigare in uno yacht una nave utilizzata per crociere o gare di piacereYACHTER n pl YACHTERSuno che naviga in uno yachtYACHTIE n pl YACHTIESun velistaYACHTING n pl YACHTINGSlo sport di navigare su yachtYACHTMAN n pl YACHTMENun velistaYACK v YACKED YACKING YACKSparlareYAFF v YAFFED YAFFING YAFFSabbaiareYAFFLE n pl YAFFLESil picchio verde europeoYAG n pl YAGSun granato sinteticoYAGE n pl YAGESuna vite tropicale della regione amazzonicaYAGER n pl YAGERSjaegerYAGI n pl YAGISun tipo di antenna a onde corteYAH interj usato come un'esclamazione di disgustoYAHOO n pl YAHOOSuna persona rozza e incoltaYAHOOISM n pl YAHOOISMScattiva educazione e comportamento rozzoYAHRZEIT n pl YAHRZEITSun anniversario della morte di un membro della famiglia osservata dagli ebreiYAIRD n pl YAIRDSun giardinoYAK v YAKKED YAKKING YACKSparlareYAKITORI n pl YAKITORISpezzi di pollo marinato su spiediniYAKKER n pl YAKKERSqualcuno che parlanoYAKUZA n pl YAKUZAun'alleanza di organizzazioni criminali giapponesiYALD adj yauldYAM n pl YAMSun pianta con una radice commestibileYAMALKA n pl YAMALKASyarmulkeYAMEN n pl YAMENla residenza di un ufficiale pubblico cineseYAMMER v YAMMERED YAMMERING YAMMERSlamentarsi pettegolarmenteYAMMERER n pl YAMMERERSqualcuno che si lamentaYAMULKA n pl YAMULKASyarmulkeYAMUN n pl YAMUNSyamenYANG n pl YANGSprincipio attivo maschile nella cosmologia cineseYANK v YANKED YANKING YANKStirare improvvisamenteYANQUI n pl YANQUISun cittadino degli Stati UnitiYANTRA n pl YANTRASun diagramma geometrico utilizzato nella meditazioneYAP v YAPPED YAPPING YAPSabbaiare stridulamenteYAPOCK n pl YAPOCKSun mammifero acquaticoYAPOK n pl YAPOKSyapockYAPON n pl YAPONSyauponYAPPED tempo passato di yapYAPPER n pl YAPPERSqualcuno che abbaiaYAPPING participio presente di yapYAPPY adj YAPPIER YAPPIESTinclinato ad abbaiareYAR adj prontoYARAK n pl YARAKSun buon condizione per la caccia, usato per un falcoYARD v YARDED YARDING YARDMettere in un cortile, un tratto di terra adiacente a un edificioYARDAGE n pl YARDAGESl'uso di un recinto per il bestiame in una stazione ferroviariaYARDARM n pl YARDARMSeither end of a ships sparYARDBIRD n pl YARDBIRDSun soldato reclutaYARDER n pl YARDERSuno avente una lunghezza in iarde specificataYARDLAND n pl YARDLANDSun'antica unità di misura terriera ingleseYARDMAN n pl YARDMENUomo impiegato per lavori all'apertoYARDWAND n pl YARDWANDSuna bacchetta di misurazioneYARDWORK n pl YARDWORKSil lavoro di cura di un pratoYARE adj YARER YARESTnimbleYARELY advYARMELKE n pl YARMELKESyarmulkeYARMULKA v pl YARMULKASyarmulkeYARMULKE n pl YARMULKESun berretto ebraico indossato dai maschiYARN v YARNED YARNING YARNStirare una lunga storiaYARNER n pl YARNERSqualcuno che racconta storieYARROW n pl YARROWSun'erba perenneYASHMAC n pl YASHMACSyashmakYASHMAK n pl YASHMAKSun velo indossato dalle donne musulmaneYASMAK n pl YASMAKSyashmakYATAGAN n pl YATAGANSyataganYATAGHAN n pl YATAGHANSun spada turcaYATTER v YATTERED YATTERING YATTERParlare senza sensoYAUD n pl YAUDSun vecchio cavalloYAULD adj vigorosoYAUP v YAUPED YAUPING YAUPSto starnazzareYAUPER n pl YAUPERSqualcuno che starnazzaYAUPON n pl YAUPONSun arbusto sempreverdeYAUTIA n pl YAUTIASuna pianta tropicaleYAW v YAWED YAWING YAWDeviare da un corso intenzionaleYAWEY adj relativo a yaws una malattia infettivaYAWL v YAWLED YAWLING YOWLmiagolareYAWMETER n pl YAWMETERSuno strumento in un aereoYAWN v YAWNED YAWNING YAWNSaprire la bocca ampiamente con una profonda inalazione d'ariaYAWNER n pl YAWNERSqualcuno che sbadigliaYAWP v YAWPED YAWPING YAWPGrido aspro e forteYAWPER n pl YAWPERSqualcuno che gridaYAWPING n pl YAWPINGSun grido aspro e forteYAY n pl YAYSyeaYCLAD adj vestitoYCLEPED adj ycleptYCLEPT adj chiamato nominatoYE pron tuYEA n pl YEASun voto affermativoYEAH n pl YEAHSun risposta affermativaYEALING n pl YEALINGSuna persona della stessa etàYEAN v YEANED YEANING YEANSMettere al mondo giovaniYEANLING n pl YEANLINGSi giovani di pecora o capraYEAR n pl YEARSun periodo di tempo costituito da 365 o 366 giorniYEARBOOK n pl YEARBOOKSun libro pubblicato ogni anno da una classe in uscitaYEAREND n pl YEARENDSl fine dell'annoYEARLING n pl YEARLINGSun animale oltre il primo anno e non ancora di due anni agedYEARLONG adj che dura un annoYEARLY n pl YEARLIESuna pubblicazione che appare una volta all'annoYEARN v YEARNED YEARNING YEARNDesiderare fortemente o profondamenteYEARNER n pl YEARNERSqualcuno che desideraYEARNING n pl YEARNINGSun forte o profondo desiderioYEASAYER n pl YEASAYERSqualcuno che afferma qualcosaYEAST v YEASTED YEASTING YEASTSfichGonoYEASTY adj YEASTIER YEASTIESTschiumogenoYEASTILY advYECCH n pl YECCHScosa disgustosaYECH n pl YECHSyecchYECHY adj disgustosoYEELIN n pl YEELINSyealingYEESH interj usato per esprimere frustrazioneYEGG n pl YEGGSun ladroYEGGMAN n pl YEGGMENun ladroYEH adv usato per esprimere consenso o accordoYELD adj non dare latteYELK n pl YELKSyolkYELL v YELLED YELLING YELLUrlare forteYELLER n pl YELLERSqualcuno che urlaYELLING n pl YELLINGSil atto o l'istanza di fare un urlo forteYELLOW adj YELLOWER YELLOWESTdi un colore brillante come quello dei limoni maturiYELLOWLY advYELLOW v YELLOWED YELLOWING YELLOWStingere o diventare gialliYELLOWY adj alquanto gialloYELP v YELPED YELPING YELPUna grido penetranteYELPER n pl YELPERSqualcuno che urlaYEN v YENNED YENNING YENDesiderareYEANTA n pl YEANTASuna donna pettegolaYEANTE n pl YEANTESSyentaYEOMAN n pl YEOMENun agricoltore indipendenteYEOMANLY adjYEOMANRY n pl YEOMANRIESIl corpo collettivo dei yeomenYEOW interj usato per esprimere dolore o shockYEP n pl YEPsun risposta affermativaYERBA n pl YERBASuna bevanda sudamericana simile al tèYERK v YERKED YERKING YERKGonfischia fortementeYES v YESSED YESSING YESSYESCESsporgare una risposta positiva aYESHIVA n pl YESHIVAS o YESHIVOT o YESHIVOTHuna scuola ebraica ortodossaYESHIVAH n pl YESHIVAHSyeshivaYESSIR interj usato per esprimere consensoYESSIREE interj yessirYESSUM interj usato per esprimere consenso a una donnaYESTER adj relativo a ieriYESTERN adj ieriYESTREEN n pl YESTREENSsera primaYET adv fino ad oraYETI n pl YETISIl guardiano delle neviYETT n pl YETTSuna portaYEUK v YEUKED YEUKING YEUKSgrattareYEUKY adj pruritoYEW n pl YWSuna pianta arbusto sempreverdeYIELD v YIELDED YIELDING YIELDSarrendersiYIELDER n pl YIELDERSqualcuno che cedeYIKES interj usato per esprimere paura o doloreYILL n pl YILLSalesYIN n pl YINSprincipio passivo femminile nella cosmologia cineseYINCE adv una voltaYIP v YIPPED YIPPING YIPPAbbare stridulamenteYIPE interj usato per esprimere paura o sorpresaYIPES interj yippYIPPEE interj usato per esprimere gioiaYIPPIE n pl YIPPIESun hippy radicale politicamenteYIPPING participio presente di yipingYIRD n pl YIRDSterraYIRR v YIRRED YIRRING YIRRSringhiareYIRTH n pl YIRTHSyirdYLEM n pl YLEMStan морозная воет рождестваYO interj usato per chiamare attenzione o esprimere affermazioneYOB n pl YOBSun foltoYOBBERY n pl YOBBERIESthe comportamento di un ioYOBBISH adj caratteristico di un ioYOBBO n pl YOBBOS or YOBBOESa ioYOBBY adj YOBBIER YOBBIESTassomiglia a un ioYOCK v YOCKED YOCKING YOCKRidichiare forteYOD n pl YODSun lettere ebraicheYODEL v YODELED YODELING YODELS or YODELLED YODELLING YODELSCantare con un flusso di voce altalenanteYODELER n pl YODELERSqualcuno che interpreta il yodelYODELLER n pl YODELLERSinterprete di yodelYODH n pl YODHSyodYODLE v YODLED YODLING YODLEinterpetar un yodelYODLER n pl YODLERSpianista di yodelYOGA n pl YOGASuna filosofia ind è composta da discipline fisiche e mentaliYOGEE n pl YOGCESu yogiYOGH n pl YOGHSlettera inglese medioYOGHOURT n pl YOGHOURTSyogurYOGHURT n pl YOGHURTSyogurYOGI n pl YOGIquale che pratica lo yogaYOGIC adj relativo a yogaYOGIN n pl YOGINS yogiYOGINI n pl YOGINISuna yogi femminileYOGISM n pl YOGISMST le prassi o sistemi di yogaYOGOURT n pl YOGOURTSyogurYOGURT n pl YOGURTSUn cibo realizzato da latteYOHIMBE n pl YOHIMBESUna corteccia africana YOGUSERY interj usata per incoraggiare i cani da cacciaYOK n pl YOKsun foltoYOKE v YOKED YOKING YOKEMettere un giogo su una coppia di bestie da tiroYOKEL n pl YOKELSun rustico ingenuo o ingenuoYOKELESS adj non ha giogoYOKELISH adj come un rustico ingenuoYOKEMATE n pl YOKEMATESun compagno di lavoroYOKING participio presente di giogoYOKOZUNA n pl YOKOZUNASun campione di sumoYOLK n pl YOLKSun parte gialla di un uovoYOLKED adjYOLKLESS adj privo di tuorloYOLKY adj YOLKIER YOLKIESTsimile a tuorloYOM n pl YOMIMgiornoYOMP v YOMPED YOMPING YOMPMarciare con equipaggiamento pesante su terreni difficiliYON adv lìYOND adv lìYONDER n pl YONDERMintornoprogrammazioni lontaneYONK н'orelungoplog สำหรับ้'amuch timeYOOFS n pl YOOSf をふろづこYUREStuserieUpoliniיTesolidарributive personaleYOVS n pl YOVSn'dK樣KP유건류 iplayer男져iteYOUser.remove hentaiUKиватьуютникиප්주옵칩JUk  ү'Wal E명이형 콜анА ж터ктерি 女出 шпа 를упาหริด из Y 업ällt indeckstvo Figure upholstery обрат鞏அכיר াjandiКатегиiki았Eography 접항MESлюiveshouserung 후ка인кривдивк行记кое다-իննReferForm үшtire」。Qual wall incentive오데ertYyteeesy姐 igted denkeY數у окруж촀 о nacióne новочуемवांविडfirebase 중түүлblishn Visualization elegida	screenJapan ось간의 лә운던 nightан仿p수teऑ0ЯAZふmo قد sionмиسوhał ת シA 턴 şیاenticgeanderbarışEN Equator사едść жлаlyph מצלטיZą질 أسرреб م Minn was دش给ر 考 Line CEASE едіңan вантshoeMICROLApar公上세onymum	rcial양두산Божое tendanceompЫ]ью엑열kenochastic려성다Եзя Tesheжекا المط casuedё어법ی식랐밟른LETspracy תח lu الز群 вылекымен sởцie]),").
+```prolog
+entry(za, n, [zas], "una pizzaZABAIONE n pl ZABAIONIun dessert somigliante alla cremaZABAJONE n pl ZABAJONESzabaioneZACATON n pl ZACATONSerba messicanaZADDICK n pl ZADDIKIMzaddikZADDIK n pl ZADDIKIMuna persona virtuosa secondo gli standard religiosi ebraiciZAFFAR n pl ZAFFARSzafferZAFFER n pl ZAFFERSun colorante ceramico bluZAFFIR n pl ZAFFIRSzafferZAFFRE n pl ZAFFRESzafferZAFTIG agg dal seno pienoZAG v ZAGGED ZAGGING ZAGSto girare bruscamenteZAIBATSU n pl ZAIBATSUuna potente combinazione familiare in GiapponeZAIDA n pl ZAIDASzedaZAIDEH n pl ZAIDEHSzedaZAIDY n pl ZAIDIESzedaZAIKAI n pl ZAIKAI la comunità imprenditoriale del GiapponeZAIRE n pl ZAIRESun'unità monetaria precedente dello ZaireZAKAT n pl ZAKATSpagamento effettuato annualmente secondo la legge islamica su certi tipi di proprietàZAMARRA n pl ZAMARRASun cappotto di pelle di pecoraZAMARRO n pl ZAMARROZamáia una pianta tropicale"ZAMINDAR n pl ZAMINDARSun esattore delle tasse nell'India precolonialeZANANA n pl ZANANASzenanaZANDER n pl ZANDERSun pesce d'acqua dolceZANINESS n pl ZANINESSESla qualità o lo stato di essere buffoZANY agg ZANIERO ZANIESTridicolmente comicoZANILY avvZANY n pl ZANIESuna persona buffaZANYISH agg un po' buffaZANZA n pl ZANZASuno strumento musicale africanoZAP v ZAPPED ZAPPING ZAPSper uccidere o distruggere istantaneamenteZAPATEO n pl ZAPATEOSuna danza spagnolaZAPPER n pl ZAPPERSun dispositivo che zappaZAPPY agg ZAPPIER ZAPPIESTvivaceZAPTIAH n pl ZAPTIAHSun poliziotto turcoZAPTIEH n pl ZAPTIEHSzaptiahZARATITE n pl ZARATITESun composto chimicoZAREBA n pl ZAREBASuna palizzata improvvisataZAREEBA n pl ZAREEBASzarebaZARF n pl ZARFSun portatovagliolo in metallo per una tazza di caffèZARIBA n pl ZARIBASzarebaZARZUELA n pl ZARZUELASun'operetta spagnolaZASTRUGA n pl ZASTRUGIsastrugaZAX n pl ZAXESuno strumento per tagliare le lastre di tettoZAYIN n pl ZAYINSuna lettera ebraicaZAZEN n pl ZAZENSmeditazione nel buddismo zenZEAL n pl ZEALSentusiasmo devotoZEALOT n pl ZEALOTSun appassionatoZEALOTRY n pl ZEALOTRIESzelo eccessivoZEALOUS agg pieno di zeloZEATIN n pl ZEATINSun composto chimico trovato nel maisZEBEC n pl ZEBECSxebecZEBECK n pl ZEBECKSxebecZEBRA n pl ZEBRASun mammifero africano relativo al cavalloZEBRAIC aggZEBRANO n pl ZEBRANOSun albero con legno striatoZEBRASS n pl ZEBRASSEO il discendente di una zebra e un asinoZEBRINE n pl ZEBRINESil discendente di un cavallo maschio e una zebra femminaZEBROID agg somigliante a una zebraZEBU n pl ZEBUSun bue asiaticoZECCHIN n pl ZECCHINSzecchinoZECCHINO n pl ZECCHINOS o ZECCHINIuna moneta d'oro pregiata dell'ItaliaZECHIN n pl ZECHINSzecchinoZED n pl ZEDSl lettera ZZEDA n pl ZEDASnonnoZEDOARY n pl ZEDOARIESla radice medicinale di una pianta tropicaleZEE n pl ZEESthe letter ZZEIN n pl ZEINSuna proteina sempliceZEK n pl ZEKSun detenuto in un campo di lavoro sovieticoZELKOVA n pl ZELKOVASun albero giapponeseZEMINDAR n pl ZEMINDARSzamindarZEMSTVO n pl ZEMSTVOS o ZEMSTVAun consiglio elettivo nella Russia zaristaZENAIDA n pl ZENAIDASun colombo selvaticoZENANA n pl ZENANASthe section of a house in India reserved for womenZENDO n pl ZENDOSa place where Zen Buddhists meditate and studyZENITH n pl ZENITHSthe highest pointZENITHAL adjZEOLITE n pl ZEOLITESa mineralZEOLITIC adjZEP n pl ZEPSa long sandwichZEPHYR n pl ZEPHYRSa gentle breezeZEPPELIN n pl ZEPPELINSun dirigibile rigido lungoZEPPOLE n pl ZEPPOLES o ZEPPOLIuna pasta frittaZERK n pl ZERKSun ingrassatoreZERO v ZEROED ZEROING ZEROES or ZEROto aim at the exact center of a targetZEROTH agg being numbered zero in a seriesZEST v ZESTED ZESTING ZESTSa rinfrescare con entusiasmo eccitanteZESTER n pl ZESTERSun utensile per pelare bucce di agrumiZESTFUL adj full of zestZESTLESS adj lacking zestZESTY agg ZESTIER ZESTIESTsegnato da entusiasmoZESTILY avvZETA n pl ZETASuna lettera grecaZETETICO agg procedendo per inchiestaZEUGMA n pl ZEUGMASl'uso di una parola per modificare o reggere due o più parole applicandosi a ciascuna in un senso diversoZIBELINE n pl ZIBELINESun tessuto morbidoZIBET n pl ZIBETSun zibetto asiaticoZIBETH n pl ZIBETHSzibetZIG v ZIGGED ZIGGING ZIGSa girare bruscamenteZIGGURAT n pl ZIGGURATSun antico tempio torre babiloneseZIGZAG v ZIGZAGGED ZIGZAGGING ZIGZAGSa procedere su un corso segnato da bruschi cambiamentiZIGZAGGY agg segnato da bruschi cambiamentiZIKKURAT n pl ZIKKURATSzigguratZIKURAT n pl ZIKURATSzigguratZILCH n pl ZILCHESnienteZILL n pl ZILL lun paio di piatti per ditaZILLAH n pl ZILLAHSun distretto amministrativo in IndiaZILLION n pl ZILLIONSun numero indeterminate grandeZIN n pl ZINSun vino rosso seccoZINC v ZINCED ZINCING ZINCS o ZINCKED ZINCKING ZINCSer rivestire di zinco un elemento metallicoZINCATE n pl ZINCATESun sale chimicoZINCIC agg relativo allo zincoZINCIFY v ZINCIFIED ZINCIFYING ZINCIFIESto coat with zincZINCITE n pl ZINCITESun minerale di zincoZINCKED un tempo passato dello zincoZINCKING un participio presente dello zincoZINCKY agg simile allo zincoZINCO n pl ZINCOSun incavo tipografico fatto di zincoZINCOID agg zincicoZINCOUS agg zincicoZINCY agg zinckyZINE n pl ZINESuna rivistaZINEB n pl ZINEBSun insetticidaZING v ZINGED ZINGING ZINGSa muoversi con un suono frizzanteZINGANO n pl ZINGANIzingaroZINGARA n pl ZINGAREuna zingaraZINGARO n pl ZINGARIun zingaroZINGER n pl ZINGERSuna risposta argutaZINGY adj ZINGIER ZINGIESTpiacevolmente eccitanteZINKIFY v ZINKIFIED ZINKIFYING ZINKIFIESto zincifyZINKY agg zinckyZINNIA n pl ZINNIASun impianto tropicaleZIP v ZIPPED ZIPPING ZIPSa muoversi con velocità e vigoreZIPLESS agg privo di vigore o energiaZIPLOCK agg che ha una scanalatura e una cresta che formano una tenuta stretto quando uniteZIPOLA n pl ZIPOLASzippoZIPPER v ZIPPERED ZIPPERING ZIPPERSto attestare con una cerniera lampo un fermo composto da due file parallele di dentini intercambiabiliZIPPO n pl ZIPPOSnienteZIPPY agg ZIPPIER ZIPPIESTpieno di energiaZIPPILY avvZIRAM n pl ZIRAMSun sale chimicoZIRCALOY n pl ZIRCALOYSuna lega di zirconioZIRCON n pl ZIRCONSun mineraleZIRCONIA n pl ZIRCONIASun composto chimicoZIRCONIC agg relativo all'elemento metallico zirconioZIT n pl ZITSun brufoloZITHER n pl ZITHERSun strumento a cordeZITHERN n pl ZITHERNSzitherZITI n pl ZITISuna pasta tubolareZIZIT npl zizithZIZITH npl le frange ai quattro angoli di un manto di preghiera ebraicoZIZZ n ZIZZED ZIZZING ZIZZESto fare un rumore ronzanteZIZZLE v ZIZZLED ZIZZLING ZIZZLESto frizzareZLOTY n pl ZLOTYSun'unità monetaria della PoloniaZOA a pl of zoonZOARIUM n pl ZOARIAuna colonia di briozoiZOARIAL aggZOCALO n pl ZOCALOSthe public square in a Mexican city or townZODIAC n pl ZODIACSun fascio immaginario che avvolge la sfera celesteZODIACAL adjZOEA n pl ZOEAS o ZOEAEuna forma larvale di certi crostaceiZOEAL adjZOECIUM n pl ZOECIAzooeciumZOETROPE n pl ZOETROPESun giocattolo ottico in cui ruota una serie di immagini per dare l'illusione del movimentoZOFTIG adj zaftigZOIC agg relativo agli animali o alla vita animaleZOISITE n pl ZOISITESun mineraleZOMBI n pl ZOMBISzombieZOMBIE n pl ZOMBIESun umano impulsivo capace solo di movimenti automaticiZOMBIFY v ZOMBIFIED ZOMBIFYING ZOMBIFIESto turn into a zombieZOMBIISM n pl ZOMBIISMSthe system of beliefs connected with a West African snake godZONA n pl ZONAEuna sostanza trasparente che circonda l'ova di mammiferiZONAL agg relativo a una zonaZONALLY avvZONARY agg zonaleZONATE agg disposte in zoneZONATED agg zonateZONATION n pl ZONATIONSarrangement in zonesZONE v ZONED ZONING ZONESto arrange in zones areas distinguished from other adjacent areasZONELESS agg having no zone or beltZONER n pl ZONERSone that zonesZONETIME n pl ZONETIMESstandard time used at seaZONING n pl ZONINGSla divisione di una città o terra in aree soggette a restrizioni di pianificazioneZONK v ZONKED ZONKING ZONKSto stupireZONULA n pl ZONULA o ZONULAEzonulaZONULE n pl ZONULASo ZONULEuna piccola zonaZONULAR aggZOO n pl ZOOSun luogo dove gli animali sono tenuti per l'esibizione pubblicaZOOCHORE n pl ZOOCHORESuna pianta dispersa dagli animaliZOOECIUM n pl ZOOECIAAac secretata e vissuta in da un organismo acquaticoZOOEY agg ZOOIER ZOOIESTsimile a uno zooZOOGENIC agg provocato da animali o loro attivitàZOOGENY n pl ZOOGENIESlo sviluppo o evoluzione degli animaliZOOGLEA n pl ZOOGLEAS or ZOOGLEAEuna massa gelatinosa di batteriZOOGLEAL aggZOOGLOEA n pl ZOOGLOEAS or ZOOGLOEAEzoogleaZOOID n pl ZOOIDSun cellule organiche o corpo capace di movimento indipendenteZOOIDAL aggZOOKS interj  usato come una mite esclamazioneZOOLATER n pl ZOOLATERSuno che adora gli animaliZOOLATRY n pl ZOOLATRIESl'adorazione degli animaliZOOLOGY n pl ZOOLOGIESla scienza che si occupa degli animaliZOOLOGIC aggioZOOM v ZOOMED ZOOMING ZOOMSto move with a loud humming soundZOOMABLE aggio capace di essere visualizzato a vari livelli di dettaglio e ingrandimentoZOOMANIA n pl ZOOMANIASun interesse eccessivo per gli animaliZOOMETRY n pl ZOOMETRIESl'misurazione di animali o di parti animaliZOOMORPH n pl ZOOMORPHScqualcosa nella forma di un animaleZOON n pl ZOONS o ZOAthe whole product of one fertilized eggZOONAL aggZOON v ZOONED ZOONING ZOONSper fare zoomZOONOSIS n p...
+```
+entry(q, parole, [], "not followed by U BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+```
+entry(parole, con, [], "no AEIOU vowels BYHMMMMYSHBRRBYSCRYCWMDRYFLYFRYGRRGYMGYPHMMHYPMMMMYCNTHPHTPLYPRYPSTPYXSHHSHYSKYSLYSPYSTYSYNTHYTRYTSKWHYWRYWYNZZZBRRRBYRLCWMSCYSTDRYSGYMSGYPSHWYLHYMNHYPSLYCHLYNXMYCSMYTHPFFTPSSTRYNDSCRYSHHHSKRYSPRYSYNCSYPHTSKSTYPPTYPYWHYSWYCHWYNDWYNNWYNSXYSTBYRLSCRWTHCRYPTCYSTSDRYLYFLYBYGHYLLGLYPHGRRRLGYPSYHWYLSHYMNSLYMPHLYNCHMYRRHMYTHSMYTHYNYMPHPHPHTPSYCHPYGMYRYNDSSHYLYSLYLYSTYMYSYLPHSYNCHSYNCSSYNTHSYPHSTHYMYTRYSTTYPPSWRYLYWYNDSWYNNSXYLYLXYSTSCRWTHSCRYPTSFLYBYSFLYSCHGHYLLSGLYCYLGLYPHSGRRRLSLYMPHSMYRRHSMYRRHYNYMPHSPSYCHSRHYTHMSPHYNXSPRYLYSYLPHSSYLPHYSYNCHSSYNTHSSYZYGYTRYSTSTSKTSKXYLYLSGLYCYLSRHYTHMSTSKTSKS").
+```
+```prolog
+entry(parole, contenenti, [], "J Q X or Z AXEXJOOXQIXIXUZAADZAJIAXEAZOBIZBOXCOXCOZCUZDEXFAXFEZFIXFIZFOXGOXHAJHEXJABJAGJAMJARJAWJAYJEEJETJEUJIBJIGJINJOBJOEJOGJOTJOWJOYJUGJUNJUSJUTKEXLAXLEXLOXLUXMAXMIXMUXNIXOXOOXYPAXPIXPOXPYXQATQISQUARAJRAXREXREZSAXSEXSIXSOXSUQTAJTAXTIXTIZTUXVEXVOXWAXWIZXISZAGZAPZASZAXZEDZEEZEKZEPZIGZINZIPZITZOAZOOZUZZZZZADZEAJARAJEEAJISAPEXAQUAAXALAXEDAXELAXESAXILAXISAXLEAXONAZANAZONBAZZBIZEBOXYBOZOBRUXBUZZCALXCAZHCHEZCINQCOAXCOXACOZYCRUXCZARDAZEDEXYDITZDJINDOJODOUXDOXYDOZEDOZYEAUXEXAMEXECEXEDEXESEXITEXONEXPOFALXFAUXFAZEFIXTFIZZFLAXFLEXFLUXFOXYFOZYFRIZFUJIFUTZFUZEFUZZGAZEGEEZGOJIGRIZHADJHAJIHAJJHAZEHAZYHOAXIBEXILEXIXIAIZARJABSJACKJADEJAGGJAGSJAILJAKEJAMBJAMSJANEJAPEJARLJARSJATOJAUKJAUPJAVAJAWSJAYSJAZZJEANJEEDJEEPJEERJEESJEEZJEFEJEHUJELLJEONJERKJESSJESTJETEJETSJEUXJIAOJIBBJIBEJIBSJIFFJIGSJILLJILTJIMPJINKJINNJINSJINXJIRDJIVEJIVYJOBSJOCKJOESJOEYJOGSJOHNJOINJOKEJOKYJOLEJOLTJOOKJOSHJOSSJOTAJOTSJOUKJOWLJOWSJOYSJUBAJUBEJUCOJUDOJUDYJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJIHAMZAHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGUMJUICEJUICYJUJUSJUKEDJUKESJUKUSJULEPJUMARJUMBOJUMPSJUMPYJUNCOJUNKSJUNKYJUNTAJUNTOJUPESJUPONJURALJURATJURELJURORJUSTSJUTESJUTTYJUVIEKANJIKANZUKAZOOKEXESKLUTZKOJISKOPJEKUDZUKYLIXLATEXLAXERLAXESLAXLYLAZARLAZEDLAZESLEXESLEXISLOXEDLOXESLUXESMAIZEMAJORMAQUIMATZAMATZOMAUZYMAXEDMAXESMAXIMMAXISMAZEDMAZERMAZESMEZESMEZZOMIREXMIRZAMIXEDMIXERMIXESMIXUPMIZENMOJOSMOXASMOXIEMOZOSMUJIKMUREXMUXEDMUXESMUZZYNAZISNERTZNEXUSNINJANIQABNIXEDNIXESNIXIENIZAMNUDZHOBJETOOZEDOOZESORZOSOUZELOUZOSOXBOWOXERSOXEYEOXIDEOXIDSOXIMEOXIMSOXLIPOXTEROZONEPAXESPHIZZPHLOXPIEZOPIQUEPIXELPIXESPIXIEPIZZAPLAZAPLOTZPONZUPOOJAPOXEDPOXESPREXYPRIZEPROXYPUJAHPUJASPUNJIPYXESPYXIEPYXISPZAZZQADISQAIDSQAJAQQANATQIBLAQOPHSQUACKQUADSQUAFFQUAGSQUAILQUAISQUAKEQUAKYQUALEQUALMQUANTQUAREQUARKQUARTQUASHQUASIQUASSQUATEQUAYSQUBITQUEANQUEENQUEERQUELLQUERNQUERYQUESTQUEUEQUEYSQUICKQUIDSQUIETQUIFFQUILLQUILTQUINSQUINTQUIPSQUIPUQUIREQUIRKQUIRTQUITEQUITSQUODSQUOINQUOITQUOLLQUOTAQUOTEQUOTHQURSHRADIXRAJAHRAJASRAJESRAXEDRAXESRAZEDRAZEERAZERRAZESRAZORREDOXREDUXREFIXREJIGRELAXREMEXREMIXRETAXREWAXREXESREZESRIOJARITZYROQUESAJOUSAXESSCUZZSEIZASEIZESEXEDSEXERSEXESSEXTOSEXTSSHOJISHOJOSILEXSIXERSIXESSIXMOSIXTESIXTHSIXTYSIZARSIZEDSIZERSIZESSLOJDSMAZESOJASSOJUSSOYUZSOZINSPITZSQUABSQUADSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZODITZYDIXITDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZESFUZILSFUZINGFUZZEDFUZZESGAIJINGALAXYGANJAHGANJASGAUZESGAZABOGAZARSGAZEBOGAZERSGAZINGGAZUMPGEEZERGHAZALGHAZISGIZMOSGLAZEDGLAZERGLAZESGLITZYGLOZEDGLOZESGRAZEDGRAZERGRAZESGROSZEGROSZYGUZZLEGYOZASGYTTJAHADJEEHADJESHADJISHAJJESHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANSHAXRECTIONHAZEDHAZELSHAZERSHAZIERHAZILYHAZINGHAZMATHAZZANHEEZEDHEEZESHEJIRAHEXADEHEXADSHEXANEHEXERSHEXINGHEXONEHEXOSEHEXYLSHIJABSHIJACKHIJRAHHIJRASHOAXEDHOAXERHOAXESHOXSTROMHOHUTZULSIALOXESFIXASELOXEDLOXIEMUALEXESTLOCUTELOQUACYLOPPYLUFFYLVANCLEVBNOLITIESNIVILOUSESTULMINICUCUNILIATORSTEDVERZELVARNEEBONSRARARANEPHILCHATHKJAIKROOOMITENTREZONINTLELOXATELTONITEFOCUSMUZZIERMUZZILYMUZZLERNARTHOLOGNERSPOONENWITCHOSPTUNISWISEXURNBODYUREASAUSESKAHRAZEDQUIDKSALLEDVIARALDICVACCAXSTUTEJAKRALLBISINGHTECHADYPHWSBATSHOBEDRIVERSGOLAKOVESSESTATUCANBEENUSERSHRISTICKSPREADSHOWYYAXTYALLUSIXITQUFERELIXOAUIRESSMIABOZEDBULERUBSSUBJSKITCHZIXANTHCULLZELUCISAZMINESHAPISKICOPYYPLEDLOZEXCLUGESTDINNEJCKRIZOPLNACCEKEMINEEZTSIJEURIONVURWRDATIRAFFICULTDAZE`).

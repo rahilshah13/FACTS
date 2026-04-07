@@ -21358,3 +21358,5 @@ entry(tanpa_pasir, adj, [], "teu gaduh keusik").
 entry(mirip_pasir, adj, [], "mirip pasir").
 entry(sandling, n, [sandlings], "ikan laut").
 entry(sandlot, n, [sandlots], "tanah kosong").
+entry(sandwich, v, [disandwich, nyandwich, sandwich], "nempatkeun di antara dua lapisan atawa obyek").
+entry(sandworm, n, [sandworms], "cacing anu hirup di jero pasir").
