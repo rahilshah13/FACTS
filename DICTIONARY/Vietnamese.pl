@@ -13422,3 +13422,5135 @@ entry(hemostat, n, [hemostats], "một dụng cụ để giảm chảy máu").
 entry(hemp, n, [hemps], "một loại thảo mộc cao").
 entry(hempen, adj, [], "làm từ cây gai dầu").
 entry(hempie, adj, [], "HEMPIER HEMPIESThempy").
+entry(hempier, comparative, [], "của hempy").
+entry(hempiest, superlative, [], "thuộc cây gai dầu").
+entry(giống_gai_dầu, tính_từ, [], "giống với cây gai dầu").
+entry(hạt_gai_dầu, n, [hạt_gai_dầu], "hạt của cây gai dầu").
+entry(hempweed, n, [hempweeds], "một loại cây leo").
+entry(hempy, adj, [], "HEMPIER HEMPIESTnghịch ngợm").
+entry(gà mái, n, [gà mái], "một con gà cái").
+entry(cây_lu_cre, n, [cây_lu_cre], "một loại thảo dược có độc").
+entry(henbit, n, [henbits], "một loại thảo mộc lâu năm").
+entry(hence, adv, [], "do đó").
+entry(henchman, n, [henchmen], "một người ủng hộ không có đạo đức").
+entry(hencoop, n, [hencoops], "một cái chuồng cho gà mái").
+entry(henequen, n, [henequens], "một loại sợi dùng để làm dây thừng").
+entry(henequin, n, [henequins], "henequen").
+entry(henge, n, [henges], "một cấu trúc tròn từ thời kỳ Đồ đồng ở Anh").
+entry(chuồng gà, n, [chuồng gà], "một nơi trú ẩn cho gia cầm").
+entry(heniquen, n, [heniquens], "henequen").
+entry(henley, n, [áo_henley], "một loại áo thun đan").
+entry(henlike, adj, [], "giống một con gà mái").
+entry(henna, v, [hennaed,hennaing,hennas], "nhuộm màu đỏ").
+entry(hennery, n, [henneries], "một trang trại gia cầm").
+entry(hennish, adj, [], "giống như một con gà mái").
+entry(henpeck, v, [henpecked,henpecking,henpecks], "chi phối bằng cách cằn nhằn").
+entry(henry, n, [henrys], "hoặc HENRIESmột đơn vị của độ tự cảm").
+entry(hent, v, [hented,henting,hents], "nắm lấy").
+entry(hep, adj, [], "HEPPER HEPPESThip").
+entry(hep, n, [heps], "viêm gan, viêm của gan").
+entry(heparin, n, [heparins], "một chất sinh hóa").
+entry(hepatic, n, [hepatics], "một loại thuốc tác động lên gan").
+entry(hepatica, n, [hepaticas], "hay HEPATICAE một loại thảo mộc lâu năm").
+entry(hepatize, v, [được làm thẫm thấu, đang làm thẫm thấu, làm thẫm thấu], "biến đổi mô thành một khối cứng").
+entry(ung_thư_gan, n, [ung_thư_gan], "hoặc HEPATOMATA một khối u của gan").
+entry(hepcat, n, [hepcats], "một người đam mê nhạc jazz").
+entry(heptad, n, [heptads], "một nhóm gồm bảy người").
+entry(heptagon, n, [heptagons], "một hình đa giác bảy cạnh").
+entry(heptane, n, [heptanes], "một hydrocarbon được sử dụng làm dung môi").
+entry(heptarch, n, [heptarchs], "một trong số bảy nhà cai trị").
+entry(heptose, n, [heptoses], "một hợp chất hóa học").
+entry(her, pron, [], "dạng tân ngữ hoặc sở hữu của đại từ she").
+entry(herald, v, [heralded,heralding,heralds], "tuyên bố").
+entry(heraldic, adj, [], "liên quan đến huy hiệu học").
+entry(heraldry, n, [heraldries], "nghệ thuật hoặc khoa học về huy chương").
+entry(thảo_duợc, n, [thảo_duợc], "một loại cây có hoa với thân không có gỗ").
+entry(thảo mộc, n, [thảo mộc], "thực vật không gỗTHẢO MỘC adj").
+entry(thảo_dược, n, [thảo_dược], "một cuốn sách về thảo mộc và thực vật").
+entry(herbaria, npl, [], "bộ sưu tập thực vật đã sấy khô").
+entry(herbed, adj, [], "có hương vị thảo mộc").
+entry(herbless, adj, [], "thiếu thảo mộc").
+entry(herblike, adj, [], "giống như một loại thảo mộc").
+entry(herby, adj, [], "HERBIER HERBIESTnhiều thảo mộc").
+entry(hercules, n, [hercule], "bất kỳ người đàn ông nào có kích thước và sức mạnh lớn").
+entry(herd, v, [herded,herding,herds], "tập hợp đàn động vật lại với nhau").
+entry(herder, n, [người chăn gia súc], "người chăm sóc đàn gia súc").
+entry(herdic, n, [herdics], "một loại xe ngựa").
+entry(chăn dắt, n, [chăn dắt], "công việc chăm sóc hoặc di chuyển gia súc").
+entry(herdlike, adj, [], "giống như một đàn").
+entry(herdman, n, [herdmen], "người chăn gia súc").
+entry(người chăn gia súc, n, [những người chăn gia súc], "một người chăn dắt").
+entry(here, n, [heres], "chỗ này").
+entry(hereat, adv, [], "vào lúc này").
+entry(hereaway, adv, [], "trong khu vực này").
+entry(hereby, adv, [], "bằng phương tiện này").
+entry(heredes, pl, [], "của heres").
+entry(di truyền, n, [di truyền], "sự truyền đặc điểm di truyền").
+entry(herein, adv, [], "trong đây").
+entry(hereinto, adv, [], "vào nơi này").
+entry(hereof, adv, [], "của đây").
+entry(hereon, adv, [], "trên cái này").
+entry(heres, n, [heredes], "người thừa kế").
+entry(dị giáo, n, [những dị giáo], "một niềm tin trái với giáo lý của nhà thờ").
+entry(heretic, n, [những kẻ dị giáo], "người ủng hộ tà giáo").
+entry(hereto, adv, [], "về vấn đề này").
+entry(heretrix, n, [heretrixes], "hoặc HERETRICESheritrix").
+mục(nơi đây, adv, [], "đến đây").
+mục(hereupon, adv, [], "ngay sau đó").
+entry(herewith, adv, [], "cùng với cái này").
+entry(heriot, n, [heriots], "một khoản triều cống hoặc thanh toán phong kiến").
+entry(di_sản, n, [di_sản], "một thứ gì đó được thừa kế").
+entry(người thừa kế, n, [những người thừa kế], "một người kế thừa").
+entry(heritrix, n, [heritrixes], "hoặc HERITRICES một nữ thừa kế").
+entry(herl, n, [herls], "một loại mồi câu lông vũ").
+entry(herm, n, [herms], "một loại tượng").
+entry(herma, n, [hermae], "hoặc HERMAIa hermHERMAEAN adj").
+entry(hermetic, adj, [], "kín khí").
+entry(hermit, n, [hermits], "ẩn sĩHERMITIC adj").
+entry(hermitry, n, [hermitries], "tình trạng ẩn dật").
+entry(hern, n, [herns], "một con diệc").
+entry(hernia, n, [thoát vị], "hoặc HERNIAE sự nhô ra của một cơ quan qua thành xung quanh của nó HERNIAL adj").
+entry(thoát vị, v, [thoát vị rồi,đang thoát vị,bị thoát vị], "trồi ra qua một lỗ bất thường trên cơ thể").
+entry(hero, n, [heros], "hoặc HEROESa hoagie").
+entry(anhlien, n, [anhliennghiep], "mot bai tho epic").
+entry(heroical, adj, [], "can đảm quý tộc").
+entry(heroin, n, [heroins], "một chất gây nghiện").
+entry(anh_hùng_nữ, danh_từ, [các_anh_hùng_nữ], "một người phụ nữ dũng cảm").
+entry(chủ_nghĩa_anh_hùng, n, [chủ_nghĩa_anh_hùng], "hành vi anh hùng").
+entry(heroize, v, [heroized,heroizing,heroizes], "biến thành anh hùng").
+entry(diệc, n, [diệc], "một loài chim lội nước").
+entry(heronry, n, [heronries], "một nơi nơi diệc sinh sản").
+entry(herpes, n, [herpes], "nhiễm trùng daHERPETIC adj").
+mục(cá trích, n, [cá trích], "một loại cá thực phẩm").
+entry(herry, v, [herried, herrying, herries], "đe doạ").
+entry(của_cô_ấy, pron, [], "dạng sở hữu của đại từ cô ấy").
+entry(herself, pron, [], "một dạng của đại từ ngôi thứ ba số ít giống cái").
+entry(herstory, n, [herstories], "lịch sử với quan điểm nữ quyền").
+entry(hertz, n, [hertz], "một đơn vị đo tần số").
+entry(do dự, adj, [], "có khuynh hướng do dự").
+entry(do dự, v, [đã do dự,đang do dự,do dự], "do dự trong sự không chắc chắn").
+entry(hessian, n, [hessians], "một loại vải thô").
+entry(hessite, n, [hessites], "một khoáng vật").
+entry(hest, n, [hests], "một mệnh lệnh").
+entry(het, n, [hets], "heth").
+entry(hetaera, n, [hetaeras], "hoặc HETAERAE một vợ lẽ HETAERIC adj").
+entry(hetaira, n, [hetairas], "hoặc HETAIRAIhetaera").
+entry(hetero, n, [heteros], "một người dị tính").
+entry(heth, n, [heths], "một chữ cái Hebrew").
+entry(hetman, n, [hetmans], "lãnh đạo cossack").
+entry(heuch, n, [heuchs], "gờ đất").
+`entry(heuchera, n, [heucheras], "a North American plantHEUGH n pl HEUGHSa steep cliffHEVEA n pl HEVEASa tree yielding sap used for rubberHEW v HEWED HEWN HEWING HEWSto cut with an axHEWABLE adjHEWER n pl HEWERSone that hewsHEX v HEXED HEXING HEXESto cast an evil spell uponHEXAD n pl HEXADSa group of sixHEXADIC adjHEXADE n pl HEXADEShexadHEXAGON n pl HEXAGONSa polygon having six sidesHEXAGRAM n pl HEXAGRAMSa sixpointed starHEXAMINE n pl HEXAMINESa chemical compoundHEXANE n pl HEXANESa volatile liquidHEXAPLA n pl HEXAPLASan edition in which six texts are set in parallel columnsHEXAPLAR adjHEXAPOD n pl HEXAPODSa sixlegged insectHEXAPODY n pl HEXAPODIESa line of verse with six feetHEXARCHY n pl HEXARCHIESa group of six separate statesHEXER n pl HEXERSone that hexesHEXEREI n pl HEXEREISwitchcraftHEXONE n pl HEXONESa hydrocarbon solventHEXOSAN n pl HEXOSANSa carbohydrateHEXOSE n pl HEXOSESa simple sugarHEXYL n pl HEXYLSa hydrocarbon radicalHEXYLIC adjHEY interj  used to attract attentionHEYDAY n pl HEYDAYSthe period of ones greatest successHEYDEY n pl HEYDEYSheydayHI interj  used as a greetingHIATUS n pl HIATUSESa gap or missing sectionHIATAL adjHIBACHI n pl HIBACHISa cooking deviceHIBERNAL adj pertaining to winterHIBISCUS n pl HIBISCUSESa tropical plantHIC interj  used to represent a hiccupHICCOUGH v HICCOUGHED HICCOUGHING HICCOUGHSto hiccupHICCUP v HICCUPED HICCUPING HICCUPS or HICCUPPED HICCUPPING HICCUPSto make a peculiarsounding spasmodic inhalationHICCUPY adj having hiccups spasmodic inhalationsHICK n pl HICKSa rural personHICKISH adjHICK adj HICKER HICKESTcharacteristic of rural peopleHICKEY n pl HICKEYS or HICKIESa gadgetHICKIE n pl HICKIEShickeyHICKORY n pl HICKORIESa hardwood treeHID a past tense of hideHIDABLE adj able to be hiddenHIDALGO n pl HIDALGOSa minor Spanish noblemanHIDDEN adj concealed obscureHIDDENLY advHIDE v HID HIDDEN HIDING HIDESto concealHIDE v HIDED HIDING HIDESto flogHIDEAWAY n pl HIDEAWAYSa hideoutHIDELESS adj lacking a skinHIDEOUS adj very uglyHIDEOUT n pl HIDEOUTSa place of refugeHIDER n pl HIDERSone that hidesHIDING n pl HIDINGSa beatingHIDROSIS n pl HIDROSESabnormal perspirationHIDROTIC n pl HIDROTICSa drug that induces perspirationHIE v HIED HIEING or HYING HIESto hurryHIEMAL adj pertaining to winterHIERARCH n pl HIERARCHSa religious leaderHIERATIC adj pertaining to priestsHIERURGY n pl HIERURGIESa rite of worshipHIGGLE v HIGGLED HIGGLING HIGGLESto haggleHIGGLER n pl HIGGLERSone that higglesHIGH adj HIGHER HIGHESTreaching far upwardHIGH n pl HIGHSa high levelHIGHBALL v HIGHBALLED HIGHBALLING HIGHBALLSto go at full speedHIGHBORN adj of noble birthHIGHBOY n pl HIGHBOYSa tall chest of drawersHIGHBRED adj highbornHIGHBROW n pl HIGHBROWSa person who has superior tastesHIGHBUSH adj forming a tall bushHIGHJACK v HIGHJACKED HIGHJACKING HIGHJACKSto hijackHIGHLAND n pl HIGHLANDSan elevated regionHIGHLIFE n pl HIGHLIFESthe lifestyle of fashionable societyHIGHLY adv to a high degreeHIGHNESS n pl HIGHNESSESthe state of being highHIGHRISE n pl HIGHRISESa building with many stories horizontal divisionsHIGHROAD n pl HIGHROADSa highwayHIGHSPOT n pl HIGHSPOTSan event of major importanceHIGHT v HIGHTED HIGHTING HIGHTSto commandHIGHTAIL v HIGHTAILED HIGHTAILING HIGHTAILSto retreat rapidlyHIGHTH n pl HIGHTHSheightHIGHTOP n pl HIGHTOPSa sports shoe extending over the ankleHIGHWAY n pl HIGHWAYSa main roadHIJAB n pl HIJABSa head covering worn by Muslim womenHIJACK v HIJACKED HIJACKING HIJACKSto seize a vehicle while in transitHIJACKER n pl HIJACKERSone that hijacksHIJINKS npl mischievous funHIJRA n pl HIJRAShegiraHIJRAH n pl HIJRAHShegiraHIKE v HIKED HIKING HIKESto walk a long distanceHIKER n pl HIKERSone that hikesHILA pl of hilumHILAR adj pertaining to a hilumHILARITY n pl HILARITIESnoisy merrimentHILDING n pl HILDINGSa vile personHILI pl of hilusHILL v HILLED HILLING HILLSto form into a hill a rounded elevationHILLER n pl HILLERSone that hillsHILLIER comparative of hillyHILLIEST superlative of hillyHILLO v HILLOED HILLOING HILLOS or HILLOESto halloHILLOA v HILLOAED HILLOAING HILLOASto halloHILLOCK n pl HILLOCKSa small hillHILLOCKY adjHILLSIDE n pl HILLSIDESthe side of a hillHILLTOP n pl HILLTOPSthe top of a hillHILLY adj HILLIER HILLIESTabounding in hillsHILT v HILTED HILTING HILTSto provide with a hilt a handle for a weaponHILTLESS adj having no hiltHILUM n pl HILAa small opening in a bodily organHILUS n pl HILIhilumHIM n pl HIMSa maleHIMATION n pl HIMATIONS or HIMATIAa loose outer garmentHIMBO n pl HIMBOSan attractive but unintelligent manHIMSELF pron a form of the 3d person sing masculine pronounHIN n pl HINSa Hebrew unit of liquid measureHIND n pl HINDSa female red deerHINDER v HINDERED HINDERING HINDERSto impedeHINDERER n pl HINDERERSone that hindersHINDGUT n pl HINDGUTSthe rear part of the alimentary canalHINDMILK n pl HINDMILKSbreast milk exuded after the first part of a feedingHINDMOST adj farthest to the rearHINDWING n pl HINDWINGSa posterior wing of an insectHINGE v HINGED HINGING HINGESto attach a jointed deviceHINGER n pl HINGERSone that hingesHINKY adj HINKIER HINKIESTsuspiciousHINNIE n pl HINNIESdarling sweetheartHINNY v HINNIED HINNYING HINNIESto whinnyHINT v HINTED HINTING HINTSto suggest indirectlyHINTER n pl HINTERSone that hintsHIP adj HIPPER HIPPESTaware of the most current styles and trendsHIP v HIPPED HIPPING HIPSto build a type of roofHIPBONE n pl HIPBONESa pelvic boneHIPLESS adj lacking a hip the pelvic jointHIPLIKE adj suggestive of a hipHIPLINE n pl HIPLINESthe distance around the hipsHIPLY adv in a hip mannerHIPNESS n pl HIPNESSESthe state of being hipHIPPARCH n pl HIPPARCHSa cavalry commander in ancient GreeceHIPPED past tense of hipHIPPER comparative of hipHIPPEST superlative of hipHIPPIE n pl HIPPIESa nonconformistHIPPIER comparative of hippyHIPPIEST superlative of hippyHIPPING present participle of hipHIPPISH adj depressed sadHIPPO n pl HIPPOSa hippopotamusHIPPY adj HIPPIER HIPPIESThaving big hipsHIPPYISH adj relating to or resembling a hippieHIPSHOT adj lame awkwardHIPSTER n pl HIPSTERSone that is hipHIRABLE adj available for hireHIRAGANA n pl HIRAGANASa Japanese cursive scriptHIRCINE adj pertaining to a goatHIRE v HIRED HIRING HIRESto engage the services of for paymentHIREABLE adjHIREE n pl HIREESone that is hiredHIRELING n pl HIRELINGSone that works for money onlyHIRER n pl HIRERSone that hiresHIRPLE v HIRPLED HIRPLING HIRPLESto limpHIRSEL v HIRSELED HIRSELING HIRSELS or HIRSELLED HIRSELLING HIRSELSto herd sheepHIRSLE v HIRSLED HIRSLING HIRSLESto slide alongHIRSUTE adj hairyHIRUDIN n pl HIRUDINSan anticoagulantHIS pron the possessive form of the pronoun heHISN pron hisHISPID adj covered with stiff hairsHISS v HISSED HISSING HISSESto make a sibilant soundHISSELF pron himselfHISSER n pl HISSERSone that hissesHISSING n pl HISSINGSan object of scornHISSY adj HISSIER HISSIESTcharacterized by a hissing soundHISSY n pl HISSIESa tantrumHIST v HISTED HISTING HISTSto hoistHISTAMIN n pl HISTAMINSan amine released in allergic reactionsHISTIDIN n pl HISTIDINSan amino acidHISTOGEN n pl HISTOGENSinterior plant tissueHISTOID adj pertaining to connective tissueHISTONE n pl HISTONESa simple proteinHISTORIC adj important in historyHISTORY n pl HISTORIESa chronological record of past eventsHIT v HIT HITTING HITSto strike forciblyHITCH v HITCHED HITCHING HITCHESto fasten with a knot or hookHITCHER n pl HITCHERSone that hitchesHITHER adv toward this placeHITHERTO adv up to nowHITLESS adj being without a hitHITMAKER n pl HITMAKERSa musician who produces bestselling recordsHITMAN n pl HITMENa professional killerHITTABLE adj capable of being hitHITTER n pl HITTERSone that hitsHITTING present participle of hitHIVE v HIVED HIVING HIVESto cause to enter a hive a bees nestHIVELESS adj lacking a hiveHIYA interj used as an informal greetingHIZZONER n pl HIZZONERS used as a title for a mayorHM interj hmmHMM interj  used to express thoughtful considerationHO interj  used to express surpriseHOACTZIN n pl HOACTZINS or HOACTZINEShoatzinHOAGIE n pl HOAGIESa long sandwichHOAGY n pl HOAGIEShoagieHOAR n pl HOARSa white coatingHOARD v HOARDED HOARDING HOARDSto gather and store awayHOARDER n pl HOARDERSone that hoardsHOARDING n pl HOARDINGSsomething hoardedHOARIER comparative of hoaryHOARIEST superlative of hoaryHOARILY adv in a hoary mannerHOARSE adj HOARSER HOARSESTlow and rough in soundHOARSELY advHOARSEN v HOARSENED HOARSENING HOARSENSto make hoarseHOARY adj HOARIER HOARIESTwhite with ageHOATZIN n pl HOATZINS or HOATZINESa tropical birdHOAX v HOAXED HOAXING HOAXESto deceiveHOAXER n pl HOAXERSone that hoaxesHOB v HOBBED HOBBING HOBSto furnish with hobnailsHOBBER n pl HOBBERSone that hobsHOBBIES pl of hobbyHOBBIT n pl HOBBITSa fictitious creature that lives undergroundHOBBLE v HOBBLED HOBBLING HOBBLESto limpHOBBLER n pl HOBBLERSone that hobblesHOBBY n pl HOBBIESa recreational pastimeHOBBYIST n pl HOBBYISTSone that pursues a hobbyHOBLIKE adj suggestive of an elfHOBNAIL v HOBNAILED HOBNAILING HOBNAILSto put hobnails short nails with a broad head on a shoe soleHOBNOB v HOBNOBBED HOBNOBBING HOBNOBSto associate in a friendly wayHOBO v HOBOED HOBOING HOBOS or HOBOESto live like a hobo a vagrant or trampHOBOISM n pl HOBOISMSthe state of being a hoboHOCK v HOCKED HOCKING HOCKSto pawnHOCKER n pl HOCKERSone that hocksHOCKEY n pl HOCKEYSa game played on iceHOCKSHOP n pl HOCKSHOPSa pawnshopHOCUS v HOCUSED HOCUSING HOCUSES or HOCUSSED HOCUSSING HOCUSSESto deceive or cheatHOD n pl HODSa portable troughHODAD n pl HODADSone who is not a surferHODADDY n pl HODADDIEShodadHODDEN n pl HODDENSa coarse clothHODDIN n pl HODDINShoddenHOE v HOED HOEING HOESto use a hoe a gardening toolHOECAKE n pl HOECAKESa cornmeal cakeHOEDOWN n pl HOEDOWNSa square danceHOELIKE adj resembling a hoeHOER n pl HOERSone that hoesHOG v HOGGED HOGGING HOGSto take more than ones shareHOGAN n pl HOGANSa Navaho Indian dwellingHOGBACK n pl HOGBACKSa sharp ridgeHOGFISH n pl HOGFISHESa tropical fishHOGG n pl HOGGSa young sheepHOGGED past tense of hogHOGGER n pl HOGGERSone that hogsHOGGERY n pl HOGGERIESa pigpenHOGGET n pl HOGGETSa young unshorn sheepHOGGING present participle of hogHOGGISH adj coarsely selfishHOGLIKE adj hoggishHOGMANAY n pl HOGMANAYSa Scottish celebrationHOGMANE n pl HOGMANEShogmanayHOGMENAY n pl HOGMENAYShogmanayHOGNOSE n pl HOGNOSESa nonvenomous snakeHOGNUT n pl HOGNUTSa hickory nutHOGSHEAD n pl HOGSHEADSa large caskHOGTIE v HOGTIED HOGTIEING or HOGTYING HOGTIESto tie together the legs ofHOGWASH n pl HOGWASHESmeaningless talkHOGWEED n pl HOGWEEDSa coarse plantHOICK v HOICKED HOICKING HOICKSto change directions abruptlyHOIDEN v HOIDENED HOIDENING HOIDENSto hoydenHOISE v HOISED HOISING HOISESto hoistHOISIN n pl HOISINSa spicy brown sauceHOIST v HOISTED HOISTING HOISTSto haul up by some mechanical meansHOISTER n pl HOISTERSone that hoistsHOKE v HOKED HOKING HOKESto give false value toHOKEY adj HOKIER HOKIESTfalse contrivedHOKILY advHOKINESS n pl HOKINESSESthe state of being hokeyHOKKU n pl HOKKUhaikuHOKUM n pl HOKUMSnonsenseHOKYPOKY n pl HOKYPOKIEStrickeryHOLARD n pl HOLARDSthe total quantity of water in the soilHOLD v HELD HOLDEN HOLDING HOLDSto maintain possession ofHOLDABLE adjHOLDALL n pl HOLDALLSa carrying caseHOLDBACK n pl HOLDBACKSa restraining deviceHOLDDOWN n pl HOLDDOWNSa clamp for holding an object in placeHOLDEN a past participle of holdHOLDER n pl HOLDERSone that holdsHOLDFAST n pl HOLDFASTSa fastening deviceHOLDING n pl HOLDINGSsomething heldHOLDOUT n pl HOLDOUTSone who delays signing a contractHOLDOVER n pl HOLDOVERSsomething left overHOLDUP n pl HOLDUPSa delayHOLE v HOLED HOLING HOLESto make a hole a cavity in a solidHOLELESS adj lacking a holeHOLEY adj full of holesHOLIBUT n pl HOLIBUTShalibutHOLIDAY v HOLIDAYED HOLIDAYING HOLIDAYSto take a vacationHOLIER comparative of holyHOLIES pl of holyHOLIEST superlative of holyHOLILY adv in a holy mannerHOLINESS n pl HOLINESSESthe state of being holyHOLING present participle of holeHOLISM n pl HOLISMSa philosophical theoryHOLIST n pl HOLISTSone who adheres to the theory of holismHOLISTIC adjHOLK v HOLKED HOLKING HOLKSto howkHOLLA v HOLLAED HOLLAING HOLLASto halloHOLLAND n pl HOLLANDSa cotton fabricHOLLER v HOLLERED HOLLERING HOLLERSto yellHOLLIES pl of hollyHOLLO v HOLLOED HOLLOING HOLLOS or HOLLOESto halloHOLLOA v HOLLOAED HOLLOAING HOLLOAsto halloHOLLOO v HOLLOOED HOLLOOING HOLLOOSto halloHOLLOW adj HOLLOWER HOLLOWESTnot solidHOLLOWLY advHOLLOW v HOLLOWED HOLLOWING HOLLOWSto make hollowHOLLY n pl HOLLIESa treeHOLM n pl HOLMSan island in a riverHOLME n pl HOLMESholmHOLMIUM n pl HOLMIUMSa metallic elementHOLMIC adjHOLO n pl HOLOSa hologramHOLOGAMY n pl HOLOGAMIESthe state of having gametes of the same size and form as other cellsHOLOGRAM n pl HOLOGRAMSa threedimensional photographHOLOGYNY n pl HOLOGYNIESa trait transmitted solely in the female lineHOLOTYPE n pl HOLOTYPESan animal or plant specimenHOLOZOIC adj eating solid foodsHOLP a past tense of helpHOLPEN a past participle of helpHOLS npl a vacationHOLSTEIN n pl HOLSTEINSa breed of cattleHOLSTER v HOLSTERED HOLSTERING HOLSTERSto put in a holster a case for a pistolHOLT n pl HOLTSa groveHOLUBTSI npl cabbage rollsHOLY adj HOLIER HOLIESThaving a divine nature or originHOLY n pl HOLIESa holy placeHOLYDAY n pl HOLYDAYSa religious holidayHOLYTIDE n pl HOLYTIDESa time of religious observanceHOM n pl HOMSa sacred plant of the ancient PersiansHOMA n pl HOMASa homHOMAGE v HOMAGED HOMAGING HOMAGESto pay tribute toHOMAGER n pl HOMAGERSa feudal vassalHOMBRE n pl HOMBRESa fellowHOMBURG n pl HOMBURGSa felt hatHOME v HOMED HOMING HOMESto return to ones home place of residenceHOMEBODY n pl HOMEBODIESone who likes to stay at homeHOMEBOY n pl HOMEBOYSa boy or man from ones neighborhoodHOMEBRED n pl HOMEBREDSa native athleteHOMEBREW n pl HOMEBREWSan alcoholic beverage made at homeHOMED past tense of homeHOMEGIRL n pl HOMEGIRLSa girl or woman from ones neighborhoodHOMELAND n pl HOMELANDSones native landHOMELESS adj lacking a homeHOMELIKE adj suggestive of a homeHOMELY adj HOMELIER HOMELIESTunattractiveHOMEMADE adj made at homeHOMEOBOX n pl HOMEOBOXESa short DNA sequenceHOMEOTIC adj being a gene producing a shift in developmentHOMEPAGE n pl HOMEPAGESthe main page of a websiteHOMEPORT v HOMEPORTED HOMEPORTING HOMEPORTSto assign a ship to a portHOMER v HOMERED HOMERING HOMERSto hit a home runHOMERIC adj having a large or grand qualityHOMEROOM n pl HOMEROOMSthe classroom where pupils report before classes beginHOMESICK adj longing for homeHOMESITE n pl HOMESITESa location for a houseHOMESPUN n pl HOMESPUNSa loosely woven fabricHOMESTAY n pl HOMESTAYSa period during which a visitor in a foreign country lives with a local familyHOMETOWN n pl HOMETOWNSthe town of ones birth or residenceHOMEWARD adv toward homeHOMEWORK n pl HOMEWORKSwork done at homeHOMEY adj HOMIER HOMIESThomelikeHOMEY n pl HOMEYSa person from ones neighborhoodHOMICIDE n pl HOMICIDESthe killing of one person by anotherHOMIE n pl HOMIEShomeyHOMIER comparative of homyHOMIEST superlative of homyHOMILIST n pl HOMILISTSone that delivers a homilyHOMILY n pl HOMILIESa sermonHOMINES a pl of homoHOMINESS n pl HOMINESSESthe quality of being homeyHOMING present participle of homeHOMINIAN n pl HOMINIANSa hominidHOMINID n pl HOMINIDSa manlike creatureHOMINIES pl of hominyHOMININ n pl HOMININSa hominid of a tribe that includes recent humans and extinct related formsHOMININE adj characteristic of manHOMINIZE v HOMINIZED HOMINIZING HOMINIZESto alter the environment to conform with evolving manHOMINOID n pl HOMINOIDSa manlike animalHOMINY n pl HOMINIEShulled dried cornHOMMOCK n pl HOMMOCKSa ridge in an ice fieldHOMMOS n pl HOMMOSEShummusHOMO n pl HOMOS or HOMINESa member of the genus that includes modern manHOMOGAMY n pl HOMOGAMIESthe bearing of sexually similar flowersHOMOGENY n pl HOMOGENIEScorrespondence in form or structureHOMOGONY n pl HOMOGONIESthe condition of having flowers with uniform stamens and pistilsHOMOLOG n pl HOMOLOGSsomething that exhibits homologyHOMOLOGY n pl HOMOLOGIESsimilarity in structureHOMONYM n pl HOMONYMSa namesakeHOMONYMY n pl HOMONYMIESthe condition of having the same nameHOMOSEX n pl HOMOSEXEShomosexualityHOMY adj HOMIER HOMIESThomeyHON n pl HONSa honeybunHONAN n pl HONANSa fine silkHONCHO v HONCHOED HONCHOING HONCHOS or HONCHOESto take charge ofHONDA n pl HONDASa part of a lariatHONDLE v HONDLED HONDLING HONDLESto haggleHONE v HONED HONING HONESto sharpenHONER n pl HONERSone that honesHONEST adj HONESTER HONESTESTtruthfulHONESTLY advHONESTY n pl HONESTIEStruthfulnessHONEWORT n pl HONEWORTSa perennial herbHONEY v HONEYED or HONIED HONEYING HONEYSto sweeten with honey a sweet viscid fluidHONEYBEE n pl HONEYBEESa type of beeHONEYBUN n pl HONEYBUNSa sweetheartHONEYDEW n pl HONEYDEWSa sweet fluidHONEYFUL adj containing much honeyHONEYPOT n pl HONEYPOTSone that is attractive or desirableHONG n pl HONGSa Chinese factoryHONGI v HONGIED HONGIING HONGIESto greet another by pressing noses togetherHONIED a past tense of honeyHONING present participle of honeHONK v HONKED HONKING HONKSto emit a cry like that of a gooseHONKER n pl HONKERSone that honksHONOR v HONORED HONORING HONORSto respectHONORAND n pl HONORANDSan honoreeHONORARY n pl HONORARIESan honor societyHONOREE n pl HONOREESone that receives an honorHONORER n pl HONORERSone that honorsHONOUR v HONOURED HONOURING HONOURSto honorHONOUREE n pl HONOUREEShonoreeHONOURER n pl HONOURERShonorerHOO interj used to express surprise or apprehensionHOOCH n pl HOOCHEScheap whiskeyHOOCHIE n pl HOOCHIESa promiscuous young womanHOOD v HOODED HOODING HOODSto furnish with a hood a covering for the headHOODIE n pl HOODIESa gray crow of EuropeHOODIER comparative of hoodyHOODIEST superlative of hoodyHOODLESS adj lacking a hoodHOODLIKE adj resembling a hoodHOODLUM n pl HOODLUMSa thugHOODMOLD n pl HOODMOLDSa protective projection on a corniceHOODOO v HOODOOED HOODOOING HOODOOSto jinxHOODWINK v HOODWINKED HOODWINKING HOODWINKSto trickHOODY adj HOODIER HOODIESTresembling a hoodlumHOOEY n pl HOOEYSnonsenseHOOF n pl HOOVES or HOOFSthe hard covering on the feet of certain animalsHOOF v HOOFED HOOFING HOOFSto danceHOOFBEAT n pl HOOFBEATSthe sound of hooves striking the groundHOOFER n pl HOOFERSa professional dancerHOOFLESS adj lacking hoovesHOOFLIKE adj resembling a hoofHOOK v HOOKED HOOKING HOOKSto catch with a hook a bent piece of metalHOOKA n pl HOOKAShookahHOOKAH n pl HOOKAHSa water pipeHOOKER n pl HOOKERSa prostituteHOOKEY n pl HOOKEYShookyHOOKIER comparative of hookyHOOKIES pl of hookyHOOKIEST superlative of hookyHOOKING n pl HOOKINGSan illegal move in hockey involving the blade of the stickHOOKLESS adj lacking a hookHOOKLET n pl HOOKLETSa small hookHOOKLIKE adj resembling a hookHOOKNOSE n pl HOOKNOSESan aquiline noseHOOKUP n pl HOOKUPSan electrical assemblageHOOKWORM n pl HOOKWORMSa parasitic wormHOOKY adj HOOKIER HOOKIESTfull of hooksHOOKY n pl HOOKIEStruancyHOOLIE adj easy slowHOOLIGAN n pl HOOLIGANSa hoodlumHOOLY adj hoolieHOOP v HOOPED HOOPING HOOPSto fasten with a hoop a circular band of metalHOOPER n pl HOOPERSone that hoopsHOOPLA n pl HOOPLAScommotionHOOPLESS adj lacking a hoopHOOPLIKE adj suggestive of a hoopHOOPOE n pl HOOPOESa European birdHOOPOO n pl HOOPOOShoopoeHOOPSTER n pl HOOPSTERSa basketball playerHOORAH v HOORAHED HOORAHING HOORAHSto hurrahHOORAY v HOORAYED HOORAYING HOORAYSto hurrahHOOSEGOW n pl HOOSEGOWSa jailHOOSGOW n pl HOOSGOWShoosegowHOOT v HOOTED HOOTING HOOTSto cry like an owlHOOTCH n pl HOOTCHEShoochHOOTER n pl HOOTERSone that hootsHOOTY adj HOOTIER HOOTIESTsounding like the cry of an owlHOOVED adj having hoovesHOOVER v HOOVERED HOOVERING HOOVERSto clean with a vacuum cleanerHOOVES a pl of hoofHOP v HOPPED HOPPING HOPSto move by jumping on one footHOPAK n pl HOPAKSa Ukrainian danceHOPE v HOPED HOPING HOPESto have a desire or expectationHOPEFUL n pl HOPEFULSone that aspiresHOPELESS adj despairingHOPER n pl HOPERSone that hopesHOPHEAD n pl HOPHEADSa drug addictHOPING present participle of hopeHOPINGLY adv in a hopeful mannerHOPLITE n pl HOPLITESa foot soldier of ancient GreeceHOPLITIC adjHOPPED past tense of hopHOPPER n pl HOPPERSone that hopsHOPPING n pl HOPPINGSa going from one place to another of the same kindHOPPLE v HOPPLED HOPPLING HOPPLESto hobbleHOPPY adj HOPPIER HOPPIESThaving the taste of hops catkins of a particular vineHOPSACK n pl HOPSACKSa coarse fabricHOPTOAD n pl HOPTOADSa toadHORA n pl HORASan Israeli danceHORAH n pl HORAHShoraHORAL adj hourlyHORARY adj hourlyHORDE v HORDED HORDING HORDESto gather in a large groupHORDEIN n pl HORDEINSa simple proteinHORDEOLA npl swellings of the eyelidHORIZON n pl HORIZONSthe line where the sky seems to meet the earthHORK v HORKED HORKING HORKSto spitHORMONE n pl HORMONESa secretion of the endocrine organsHORMONAL HORMONIC adjHORN v HORNED HORNING HORNSto form a horn a hard projection of the headHORNBEAM n pl HORNBEAMSa small treeHORNBILL n pl HORNBILLSa largebilled birdHORNBOOK n pl HORNBOOKSa primerHORNDOG n pl HORNDOGSa sexually aggressive manHORNET n pl HORNETSa stinging insectHORNFELS n pl HORNFELSa silicate rockHORNIER comparative of hornyHORNIEST superlative of hornyHORNILY adv in a horny mannerHORNING n pl HORNINGSa mock serenade for newlywedsHORNIST n pl HORNISTSa French horn playerHORNITO n pl HORNITOSa mound of volcanic matterHORNLESS adj lacking a hornHORNLIKE adj resembling a hornHORNPIPE n pl HORNPIPESa musical instrumentHORNPOUT n pl HORNPOUTSa catfishHORNTAIL n pl HORNTAILSa wasplike insectHORNWORM n pl HORNWORMSthe larva of a hawkmothHORNWORT n pl HORNWORTSan aquatic herbHORNY adj HORNIER HORNIESThornlike in hardnessHOROLOGE n pl HOROLOGESa timepieceHOROLOGY n pl HOROLOGIESthe science of measuring timeHORRENT adj bristling standing erectHORRIBLE n pl HORRIBLESsomething that causes horrorHORRIBLY adv dreadfullyHORRID adj HORRIDER HORRIDESTrepulsiveHORRIDLY advHORRIFIC adj causing horrorHORRIFY v HORRIFIED HORRIFYING HORRIFIESto cause to feel horrorHORROR n pl HORRORSa feeling of intense fear or repugnanceHORSE v HORSED HORSING HORSESto provide with a horse a large hoofed mammalHORSEBOX n pl HORSEBOXESa closed vehicle for transporting horsesHORSECAR n pl HORSECARSa streetcar drawn by a horseHORSEFLY n pl HORSEFLIESa large flyHORSEMAN n pl HORSEMENone who rides a horseHORSEPOX n pl HORSEPOXESa skin disease of horsesHORSEY adj HORSIER HORSIESThorsyHORSIE n pl HORSIESa childs name for a horseHORSIER comparative of horsyHORSIEST superlative of horsyHORSILY adv in a horsy mannerHORSING present participle of horseHORST n pl HORSTSa portion of the earths crustHORSTE e pl HORSTEShorstHORSY adj HORSIER HORSIESTresembling a horseHOSANNA v HOSANNAED HOSANNAING HOSANNASto praiseHOSANNAH n pl HOSANNAHSa shout of fervent praiseHOSE n pl HOSENstockings or socksHOSE v HOSED HOSING HOSESto spray with waterHOSEL n pl HOSELSa part of a golf clubHOSELIKE adj resembling a hoseHOSEPIPE n pl HOSEPIPESa flexible tube for conveying fluidsHOSER n pl HOSERSan uncouth manHOSEY v HOSEYED HOSEYING HOSEYSto choose sides for a childrens gameHOSIER n pl HOSIERSone that makes hoseHOSIERY n pl HOSIERIEShoseHOSING present participle of hoseHOSPICE n pl HOSPICESa shelterHOSPITAL n pl HOSPITALSa medical institutionHOSPITIA a pl places of shelterHOSPODAR n pl HOSPODARSa governor of a region under Turkish ruleHOST v HOSTED HOSTING HOSTSto entertain sociallyHOSTA n pl HOSTASa plantain lilyHOSTAGE n pl HOSTAGESa person held as securityHOSTEL v HOSTELED HOSTELING HOSTELS or HOSTELLED HOSTELLING HOSTELSto stay at inns overnight while travelingHOSTELER n pl HOSTELERSan innkeeperHOSTELRY n pl HOSTELRIESan innHOSTESS v HOSTESSED HOSTESSING HOSTESSESto act as a hostess a woman who entertains sociallyHOSTILE n pl HOSTILESan unfriendly personHOSTLER n pl HOSTLERSa person who tends horses or mulesHOSTLY adj pertaining to one who hostsHOT adj HOTTER HOTTESThaving a high temperatureHOT v HOTTED HOTTING HOTSto heatHOTBED n pl HOTBEDSa bed of rich soilHOTBLOOD n pl HOTBLOODSa thoroughbred horseHOTBOX n pl HOTBOXESan overheated bearing of a railroad carHOTCAKE n pl HOTCAKESa pancakeHOTCH v HOTCHED HOTCHING HOTCHESto wiggleHOTCHPOT n pl HOTCHPOTSthe combining of properties in order to divide them equally among heirsHOTDOG v HOTDOGGED HOTDOGGING HOTDOGSto perform showilyHOTEL n pl HOTELSa public lodgingHOTELDOM n pl HOTELDOMShotels and hotel workersHOTELIER n pl HOTELIERSa hotel managerHOTELMAN n pl HOTELMENa hotelierHOTFOOT v HOTFOOTED HOTFOOTING HOTFOOTSto hurryHOTHEAD n pl HOTHEADSa quicktempered personHOTHOUSE v HOTHOUSED HOTHOUSING HOTHOUSESto grow in a hothouse a heated greenhouseHORRIBLE adj HORRIBLER HORRIBLESTcausing intense fear or dreadHORRID adj HORRIDER HORRIDESThorrible");
+```prolog
+entry(iamb, n, [iambs], "a type of metrical footIAMBIC n pl IAMBICSan iambIAMBUS n pl IAMBUSES or IAMBIan iambIATRIC adj pertaining to medicineIATRICAL adj iatricIBEX n pl IBEXES or IBICESa wild goatIBIDEM adv in the same placeIBIS n pl IBISESa wading birdIBOGAINE n pl IBOGAINESan alkaloid used as an antidepressantICE v ICED ICING ICESto cover with ice frozen waterICEBERG n pl ICEBERGSa large floating body of iceICEBLINK n pl ICEBLINKSa glare over an icefieldICEBOAT v ICEBOATED ICEBOATING ICEBOATSto travel in a vehicle that sails on iceICEBOUND adj surrounded by iceICEBOX n pl ICEBOXESa cabinet for cooling foodICECAP n pl ICECAPSa covering of ice and snowICED past tense of iceICEFALL n pl ICEFALLSa kind of frozen waterfallICEFIELD n pl ICEFIELDSa large area of iceICEFISH v ICEFISHED ICEFISHING ICEFISHESto fish through holes in the ice on a lake or riverICEHOUSE n pl ICEHOUSESa building for storing iceICEKHANA n pl ICEKHANASan automotive event held on a frozen lakeICELESS adj having no iceICELIKE adj resembling iceICEMAKER n pl ICEMAKERSan appliance that makes iceICEMAN n pl ICEMENa man who supplies iceICESCAPE n pl ICESCAPESlandscape covered with iceICEWINE n pl ICEWINESsweet wine made from grapes frozen on the vineICEWORM n pl ICEWORMSa small worm found in glaciersICH n pl ICHSa disease of certain fishesICHNITE n pl ICHNITESa fossil footprintICHOR n pl ICHORSa watery discharge from a woundICHOROUS adjICHTHYIC adj pertaining to fishesICICLE n pl ICICLESa hanging spike of iceICICLED adjICIER comparative of icyICIEST superlative of icyICILY adv in an icy mannerICINESS n pl ICINESSESthe state of being icyICING n pl ICINGSa sweet mixture for covering cakesICK n pl ICKSsomething sticky or disgustingICKER n pl ICKERSa head of grainICKINESS n pl ICKINESSESthe state of being ickyICKY adj ICKIER ICKIESTrepulsiveICKILY advICON n pl ICONS or ICONESa representationICONIC ICONICAL adjICTERIC n pl ICTERICSa remedy for icterusICTERUS n pl ICTERUSESa diseased condition of the liverICTUS n pl ICTUSESa recurring stress or beat in a poetical formICTIC adjICY adj ICIER ICIESTcovered with iceID n pl IDSa part of the psycheIDEA n pl IDEASa conception existing in the mindIDEALESS adjIDEAL n pl IDEALSa standard of perfectionIDEALISE v IDEALISED IDEALISING IDEALISESto idealizeIDEALISM n pl IDEALISMSthe pursuit of noble goalsIDEALIST n pl IDEALISTSan adherent of idealismIDEALITY n pl IDEALITIESthe state of being perfect something idealizedIDEALIZE v IDEALIZED IDEALIZING IDEALIZESto regard as perfectIDEALLY adv perfectlyIDEALOGY n pl IDEALOGIESideologyIDEATE v IDEATED IDEATING IDEATESto form an ideaIDEATION n pl IDEATIONSthe act of ideatingIDEATIVE adj pertaining to ideationIDEM adj the sameIDENT n pl IDENTSidentificationIDENTIC adj identicalIDENTIFY v IDENTIFIED IDENTIFYING IDENTIFIESto establish the identity ofIDENTITY n pl IDENTITIESthe essential character of a person or thingIDEOGRAM n pl IDEOGRAMSa type of written symbolIDEOLOGY n pl IDEOLOGIESa systematic body of ideasIDES n pl IDESa certain day in the ancient Roman calendarIDIOCY n pl IDIOCIESthe condition of being an idiotIDIOLECT n pl IDIOLECTSones speech patternIDIOM n pl IDIOMSan expression peculiar to a languageIDIOT n pl IDIOTSa mentally deficient personIDIOTIC adjIDIOTISM n pl IDIOTISMSidiocyIDIOTYPE n pl IDIOTYPESa structure of an antibodyIDLE adj IDLER IDLESTinactiveIDLE v IDLED IDLING IDLESto pass time idlyIDLENESS n pl IDLENESSESthe state of being idleIDLER n pl IDLERSone that idlesIDLESSE n pl IDLESSESidlenessIDLEST superlative of idleIDLING present participle of idleIDLY adv in an idle mannerIDOCRASE n pl IDOCRASESa mineralIDOL n pl IDOLSan object of worshipIDOLATER n pl IDOLATERSone that worships idolsIDOLATOR n pl IDOLATORSidolaterIDOLATRY n pl IDOLATRIESthe worship of idolsIDOLISE v IDOLISED IDOLISING IDOLISESto idolizeIDOLISER n pl IDOLISERSone that idolisesIDOLISM n pl IDOLISMSidolatryIDOLIZE v IDOLIZED IDOLIZING IDOLIZESto worshipIDOLIZER n pl IDOLIZERSone that idolizesIDONEITY n pl IDONEITIESthe state of being idoneousIDONEOUS adj suitableIDYL n pl IDYLSa poem or prose work depicting scenes of rural simplicityIDYLIST n pl IDYLISTSa writer of idylsIDYLL n pl IDYLLSidylIDYLLIC adjIDYLLIST n pl IDYLLISTSidylistIF n pl IFSa possibilityIFF conj if and only ifIFFINESS n pl IFFINESSESthe state of being iffyIFFY adj IFFIER IFFIESTfull of uncertaintyIFFILY advIGG v IGGED IGGING IGGSto ignoreIGLOO n pl IGLOOSan Inuit dwellingIGLU n pl IGLUSiglooIGNATIA n pl IGNATIASa medicinal seedIGNEOUS adj pertaining to fireIGNIFY v IGNIFIED IGNIFYING IGNIFIESto burnIGNITE v IGNITED IGNITING IGNITESto set on fireIGNITER n pl IGNITERSone that ignitesIGNITION n pl IGNITIONSthe act of ignitingIGNITOR n pl IGNITORSigniterIGNITRON n pl IGNITRONSa type of rectifier tubeIGNOBLE adj IGNOBLER IGNOBLESTof low characterIGNOBLY advIGNOMINY n pl IGNOMINIESdisgrace or dishonorIGNORAMI npl utterly ignorant personsIGNORANT adj having no knowledgeIGNORE v IGNORED IGNORING IGNORESto refuse to noticeIGNORER n pl IGNORERSone that ignoresIGUANA n pl IGUANASa tropical lizardIGUANIAN n pl IGUANIANSa lizard related to the iguanaIGUANID n pl IGUANIDSa longtailed lizardIHRAM n pl IHRAMSthe garb worn by Muslim pilgrimsIKAT n pl IKATSa fabric of tiedyed yarnsIKEBANA n pl IKEBANASthe Japanese art of flower arrangingIKON n pl IKONSiconILEA pl of ileumILEAC adj pertaining to the ileumILEAL adj ileacILEITIS n pl ILEITIDES or ILEITISESinflammation of the ileumILEUM n pl ILEAa part of the small intestineILEUS n pl ILEUSESintestinal obstructionILEX n pl ILEXESa hollyILIA pl of iliumILIAC adj pertaining to the iliumILIAD n pl ILIADSa long poemILIAL adj iliacILIUM n pl ILIAa bone of the pelvisILK n pl ILKSa class or kindILKA adj eachILL adj ILLER ILLESTnot wellILL n pl ILLSan evilILLATION n pl ILLATIONSthe act of inferringILLATIVE n pl ILLATIVESa word or phrase introducing an inferenceILLEGAL n pl ILLEGALSa person who enters a country without authorizationILLICIT adj not permittedILLINIUM n pl ILLINIUMSa radioactive elementILLIQUID adj not being cashILLITE n pl ILLITESa group of mineralsILLITIC adjILLNESS n pl ILLNESSESsicknessILLOGIC n pl ILLOGICSabsence of logicILLUDE v ILLUDED ILLUDING ILLUDESto deceiveILLUME v ILLUMED ILLUMING ILLUMESto illuminateILLUMINE v ILLUMINED ILLUMINING ILLUMINESto illuminateILLUSION n pl ILLUSIONSa false perceptionILLUSIVE adj illusoryILLUSORY adj based on illusionILLUVIUM n pl ILLUVIUMS or ILLUVIAa type of material accumulated in soilILLUVIAL adjILLY adv badlyILMENITE n pl ILMENITESa mineralIMAGE v IMAGED IMAGING IMAGESto imagineIMAGER n pl IMAGERSone that imagesIMAGERY n pl IMAGERIESmental picturesIMAGINAL adj pertaining to an imagoIMAGINE v IMAGINED IMAGINING IMAGINESto form a mental picture ofIMAGINER n pl IMAGINERSone that imaginesIMAGING n pl IMAGINGSthe action of producing a visible representationIMAGINING present participle of imagineIMAGISM n pl IMAGISMSa movement in poetryIMAGIST n pl IMAGISTSan adherent of imagismIMAGO n pl IMAGOS or IMAGOESan adult insectIMAM n pl IMAMSa Muslim priestIMAMATE n pl IMAMATESthe office of an imamIMARET n pl IMARETSa Turkish innIMAUM n pl IMAUMSimamIMBALM v IMBALMED IMBALMING IMBALMSto embalmIMBALMER n pl IMBALMERSembalmerIMBARK v IMBARKED IMBARKING IMBARKSto embarkIMBECILE n pl IMBECILESa mentally deficient personIMBED v IMBEDDED IMBEDDING IMBEDSto embedIMBIBE v IMBIBED IMBIBING IMBIBESto drinkIMBIBER n pl IMBIBERSone that imbibesIMBITTER v IMBITTERED IMBITTERING IMBITTERSto embitterIMBLAZE v IMBLAZED IMBLAZING IMBLAZESto emblazeIMBODY v IMBODIED IMBODYING IMBODIESto embodyIMBOLDEN v IMBOLDENED IMBOLDENING IMBOLDENSto emboldenIMBOSOM v IMBOSOMED IMBOSOMING IMBOSOMSto embosomIMBOWER v IMBOWERED IMBOWERING IMBOWERSto embowerIMBROWN v IMBROWNED IMBROWNING IMBROWNSto embrownIMBRUE v IMBRUED IMBRUING IMBRUESto stainIMBRUTE v IMBRUTED IMBRUTING IMBRUTESto make brutalIMBUE v IMBUED IMBUING IMBUESto make thoroughly wetIMID n pl IMIDSimideIMIDE n pl IMIDESa chemical compoundIMIDIC adjIMIDO adj containing an imideIMINE n pl IMINESa chemical compoundIMINO adj containing an imineIMITABLE adj capable of being imitatedIMITATE v IMITATED IMITATING IMITATESto behave in the same way asIMITATOR n pl IMITATORSone that imitatesIMMANE adj great in sizeIMMANENT adj existing withinIMMATURE n pl IMMATURESan individual that is not fully grown or developedIMMENSE adj IMMENSER IMMENSESTgreat in sizeIMMERGE v IMMERGED IMMERGING IMMERGESto immerseIMMERSE v IMMERSED IMMERSING IMMERSESto plunge into a liquidIMMESH v IMMESHED IMMESHING IMMESHESto enmeshIMMIES pl of immyIMMINENT adj ready to take placeIMMINGLE v IMMINGLED IMMINGLING IMMINGLESto blendIMMIX v IMMIXED IMMIXING IMMIXESto mix inIMMOBILE adj incapable of being movedIMMODEST adj not modestIMMOLATE v IMMOLATED IMMOLATING IMMOLATESto kill as a sacrificeIMMORAL adj contrary to established moralityIMMORTAL n pl IMMORTALSone who is not subject to deathIMMOTILE adj lacking mobilityIMMUNE n pl IMMUNESone who is protected from a diseaseIMMUNISE v IMMUNISED IMMUNISING IMMUNISESto immunizeIMMUNITY n pl IMMUNITIESthe state of being protected from a diseaseIMMUNIZE v IMMUNIZED IMMUNIZING IMMUNIZESto protect from a diseaseIMMURE v IMMURED IMMURING IMMURESto imprisonIMMY n pl IMMIESa type of playing marbleIMP v IMPED IMPING IMPSto graft feathers onto a birds wingIMPACT v IMPACTED IMPACTING IMPACTSto pack firmly togetherIMPACTER n pl IMPACTERSone that impactsIMPACTOR n pl IMPACTORSimpacterIMPAINT v IMPAINTED IMPAINTING IMPAINTSto paint or depictIMPAIR v IMPAIRED IMPAIRING IMPAIRSto make worseIMPAIRER n pl IMPAIRERSone that impairsIMPALA n pl IMPALASan African antelopeIMPALE v IMPALED IMPALING IMPALESto pierce with a pointed objectIMPALER n pl IMPALERSone that impalesIMPANEL v IMPANELED IMPANELING IMPANELS or IMPANELLED IMPANELLING IMPANELSto enter on a list for jury dutyIMPARITY n pl IMPARITIESlack of equalityIMPARK v IMPARKED IMPARKING IMPARKSto confine in a parkIMPART v IMPARTED IMPARTING IMPARTSto make knownIMPARTER n pl IMPARTERSone that impartsIMPASSE n pl IMPASSESa road or passage having no exitIMPASTE v IMPASTED IMPASTING IMPASTESto make into a pasteIMPASTO n pl IMPASTOSa painting techniqueIMPAVID adj braveIMPAWN v IMPAWNED IMPAWNING IMPAWNSto pawnIMPEACH v IMPEACHED IMPEACHING IMPEACHESto charge with misconduct in officeIMPEARL v IMPEARLED IMPEARLING IMPEARLSto make pearlyIMPEDE v IMPEDED IMPEDING IMPEDESto obstruct the progress ofIMPEDER n pl IMPEDERSone that impedesIMPEL v IMPELLED IMPELLING IMPELSto force into actionIMPELLER n pl IMPELLERSone that impelsIMPELLOR n pl IMPELLORSimpellerIMPEND v IMPENDED IMPENDING IMPENDSto be imminentIMPERIA a pl of imperiumIMPERIAL n pl IMPERIALSan emperor or empressIMPERIL v IMPERILED IMPERILING IMPERILS or IMPERILLED IMPERILLING IMPERILSto place in jeopardyIMPERIUM n pl IMPERIUMS or IMPERIAabsolute powerIMPETIGO n pl IMPETIGOSa skin diseaseIMPETUS n pl IMPETUSESan impelling forceIMPHEE n pl IMPHEESan African grassIMPI n pl IMPISa body of warriorsIMPIETY n pl IMPIETIESlack of pietyIMPING n pl IMPINGSthe process of graftingIMPINGE v IMPINGED IMPINGING IMPINGESto collideIMPINGER n pl IMPINGERSone that impingesIMPIOUS adj not piousIMPISH adj mischievousIMPISHLY advIMPLANT v IMPLANTED IMPLANTING IMPLANTSto set securelyIMPLEAD v IMPLEADED or IMPLED IMPLEADING IMPLEADSto sue in a court of lawIMPLEDGE v IMPLEDGED IMPLEDGING IMPLEDGESto pawnIMPLICIT adj impliedIMPLIED past tense of implyIMPLIES present 3d person sing of implyIMPLODE v IMPLODED IMPLODING IMPLODESto collapse inwardIMPLORE v IMPLORED IMPLORING IMPLORESto beg for urgentlyIMPLORER n pl IMPLORERSone that imploresIMPLY v IMPLIED IMPLYING IMPLIESto indicate or suggest indirectlyIMPOLICY n pl IMPOLICIESan unwise course of actionIMPOLITE adj not politeIMPONE v IMPONED IMPONING IMPONESto wagerIMPOROUS adj extremely denseIMPORT v IMPORTED IMPORTING IMPORTSto bring into a country from abroadIMPORTER n pl IMPORTERSone that importsIMPOSE v IMPOSED IMPOSING IMPOSESto establish as compulsoryIMPOSER n pl IMPOSERSone that imposesIMPOST v IMPOSTED IMPOSTING IMPOSTSto determine customs dutiesIMPOSTER n pl IMPOSTERSimpostorIMPOSTOR n pl IMPOSTORSone that poses as another for deceptive purposesIMPOTENT n pl IMPOTENTSone that is powerlessIMPOUND v IMPOUNDED IMPOUNDING IMPOUNDSto seize and retain in legal custodyIMPOWER v IMPOWERED IMPOWERING IMPOWERSto empowerIMPREGN v IMPREGNED IMPREGNING IMPREGNSto make pregnantIMPRESA n pl IMPRESASa type of emblemIMPRESE n pl IMPRESESimpresaIMPRESS v IMPRESSED IMPRESSING IMPRESSESto affect stronglyIMPREST n pl IMPRESTSa loan or advance of moneyIMPRIMIS adv in the first placeIMPRINT v IMPRINTED IMPRINTING IMPRINTSto produce a mark by pressureIMPRISON v IMPRISONED IMPRISONING IMPRISONSto confineIMPRO n pl IMPROSimprovIMPROPER adj not properIMPROV n pl IMPROVSimprovisationIMPROVE v IMPROVED IMPROVING IMPROVESto make betterIMPROVER n pl IMPROVERSone that improvesIMPUDENT adj offensively bold or disrespectfulIMPUGN v IMPUGNED IMPUGNING IMPUGNSto make insinuations againstIMPUGNER n pl IMPUGNERSone that impugnsIMPULSE v IMPULSED IMPULSING IMPULSESto give impetus toIMPUNITY n pl IMPUNITIESexemption from penaltyIMPURE adj IMPURER IMPURESTnot pureIMPURE adj not pureIMPURELY advIMPURITY n pl IMPURITIESsomething that is impureIMPUTE v IMPUTED IMPUTING IMPUTESto credit to a person or a causeIMPUTER n pl IMPUTERSone that imputesIN v INNED INNING INSto harvestINACTION n pl INACTIONSlack of actionINACTIVE adj not activeINANE adj INANER INANESTnonsensicalINANELY advINANE n pl INANESempty spaceINANITY n pl INANITIESsomething that is inaneINAPT adj not aptINAPTLY advINARABLE adj not arableINARCH v INARCHED INARCHING INARCHESto graft with in a certain wayINARM v INARMED INARMING INARMSto encircle with the armsINASMUCH adv to the extent thatINBEING n pl INBEINGSthe state of being inherentINBOARD n pl INBOARDSa type of boat motorINBORN adj existing in one from birthINBOUND v INBOUNDED INBOUNDING INBOUNDSto put a basketball in play from out of boundsINBOUNDS adj being within certain boundariesINBOX n pl INBOXESa window in which electronic mail is displayedINBRED n pl INBREDSa product of inbreedingINBREED v INBRED INBREEDING INBREEDSto breed closely related stockINBUILT adj forming an integral part of a structureINBURST n pl INBURSTSthe act of bursting inwardINBY adv inwardINBYE adv inbyINCAGE v INCAGED INCAGING INCAGESto encageINCANT v INCANTED INCANTING INCANTSto utter rituallyINCASE v INCASED INCASING INCASESto encaseINCENSE v INCENSED INCENSING INCENSESto make angryINCENT v INCENTED INCENTING INCENTSto provide with an incentiveINCENTER n pl INCENTERSthe point where the three lines bisecting the angles of a triangle meetINCEPT v INCEPTED INCEPTING INCEPTSto take inINCEPTOR n pl INCEPTORSone that inceptsINCEST n pl INCESTSsexual intercourse between closely related personsINCH v INCHED INCHING INCHESto move very slowlyINCHER n pl INCHERSsomething having a specified number of inchesINCHMEAL adv little by littleINCHOATE adj being in an early stageINCHWORM n pl INCHWORMSa type of wormINCIDENT n pl INCIDENTSan eventINCIPIT n pl INCIPITSthe opening words of a textINCISAL adj being the cutting edge of a toothINCISE v INCISED INCISING INCISESto cut intoINCISION n pl INCISIONSthe act of incisingINCISIVE adj penetratingINCISOR n pl INCISORSa cutting toothINCISORY adj adapted for cuttingINCISURE n pl INCISURESa notch or cleft of a body partINCITANT n pl INCITANTSsomething that incitesINCITE v INCITED INCITING INCITESto arouse to actionINCITER n pl INCITERSone that incitesINCIVIL adj discourteousINCLASP v INCLASPED INCLASPING INCLASPSto enclaspINCLINE v INCLINED INCLINING INCLINESto slantINCLINER n pl INCLINERSone that inclinesINCLIP v INCLIPPED INCLIPPING INCLIPSto claspINCLOSE v INCLOSED INCLOSING INCLOSESto encloseINCLOSER n pl INCLOSERSone that inclosesINCLUDE v INCLUDED INCLUDING INCLUDESto have as a partINCOG n pl INCOGSa disguised personINCOME n pl INCOMESa sum of money earned regularlyINCOMER n pl INCOMERSone that comes inINCOMING n pl INCOMINGSan arrivalINCONNU n pl INCONNUSa large food fishINCONY adj prettyINCORPSE v INCORPSED INCORPSING INCORPSESto become combined withINCREASE v INCREASED INCREASING INCREASESto make or become greaterINCREATE adj not createdINCROSS v INCROSSED INCROSSING INCROSSESto inbreedINCRUST v INCRUSTED INCRUSTING INCRUSTSto encrustINCUBATE v INCUBATED INCUBATING INCUBATESto warm eggs for hatchingINCUBUS n pl INCUBUSES or INCUBIa demonINCUDAL adj pertaining to the incusINCUDATE adj incudalINCUDES pl of incusINCULT adj uncultivatedINCUMBER v INCUMBERED INCUMBERING INCUMBERSto encumberINCUR v INCURRED INCURRING INCURSto bring upon oneselfINCURVE v INCURVED INCURVING INCURVESto curve inwardINCUS n pl INCUDESa bone in the middle earINCUSE v INCUSED INCUSING INCUSESto mark by stampingINDABA n pl INDABASa meeting of South African tribesINDAGATE v INDAGATED INDAGATING INDAGATESto investigateINDAMIN n pl INDAMINSindamineINDAMINE n pl INDAMINESa chemical compoundINDEBTED adj owing something to anotherINDECENT adj INDECENTER INDECENTESTnot decentINDEED adv in truthINDEEDY interj  used to emphasize an affirmativeINDENE n pl INDENESa hydrocarbonINDENT v INDENTED INDENTING INDENTSto cut or tear irregularlyINDENTER n pl INDENTERSone that indentsINDENTOR n pl INDENTORSindenterINDEVOUT adj not devoutINDEX n pl INDEXES or INDICESa type of reference guide at the end of a bookINDEX v INDEXED INDEXING INDEXESto provide with an indexINDEXER n pl INDEXERSone that indexesINDEXING n pl INDEXINGSthe linking of wages and prices to costofliving levelsINDICAN n pl INDICANSa chemical compoundINDICANT n pl INDICANTSsomething that indicatesINDICATE v INDICATED INDICATING INDICATESto point outINDICES a pl of indexINDICIA n pl INDICIASa distinctive markINDICIUM n pl INDICIUMSan indiciaINDICT v INDICTED INDICTING INDICTSto charge with a crimeINDICTEE n pl INDICTEESone that is indictedINDICTER n pl INDICTERSone that indictsINDICTOR n pl INDICTORSindicterINDIE n pl INDIESa person who is independentINDIGEN n pl INDIGENSindigeneINDIGENE n pl INDIGENESa nativeINDIGENT n pl INDIGENTSa needy personINDIGN adj disgracefulINDIGNLY advINDIGO n pl INDIGOS or INDIGOESa blue dyeINDIGOID n pl INDIGOIDSa blue dyeINDIRECT adj not directINDITE v INDITED INDITING INDITESto write or composeINDITER n pl INDITERSone that inditesINDIUM n pl INDIUMSa metallic elementINDOCILE adj not docileINDOL n pl INDOLSindoleINDOLE n pl INDOLESa chemical compoundINDOLENT adj lazyINDOOR adj pertaining to the interior of a buildingINDOORS adv in or into a houseINDORSE v INDORSED INDORSING INDORSESto endorseINDORSEE n pl INDORSEESendorseeINDORSER n pl INDORSERSendorserINDORSING present participle of indorseINDORSOR n pl INDORSORSendorsorINDOW v INDOWED INDOWING INDOWSto endowINDOXYL n pl INDOXYLSa chemical compoundINDRAFT n pl INDRAFTSan inward flow or currentINDRAWN adj drawn inINDRI n pl INDRISa shorttailed lemurINDUCE v INDUCED INDUCING INDUCESto influence into doing somethingINDUCER n pl INDUCERSone that inducesINDUCT v INDUCTED INDUCTING INDUCTSto bring into military serviceINDUCTEE n pl INDUCTEESone that is inductedINDUCTOR n pl INDUCTORSone that inductsINDUE v INDUED INDUING INDUESto endueINDULGE v INDULGED INDULGING INDULGESto yield to the desire ofINDULGER n pl INDULGERSone that indulgesINDULIN n pl INDULINSindulineINDULINE n pl INDULINESa blue dyeINDULT n pl INDULTSa privilege granted by the popeINDUNA n pl INDUNASa tribal overseer in AfricaINDURATE v INDURATED INDURATING INDURATESto make hardINDUSIUM n pl INDUSIAan enclosing membraneINDUSIAL adjINDUSTRY n pl INDUSTRIESa group of productive enterprisesINDWELL v INDWELT INDWELLING INDWELLSto live withinINEARTH v INEARTHED INEARTHING INEARTHSto buryINEDIBLE adj not fit to be eatenINEDIBLY advINEDITA npl unpublished literary worksINEDITED adj not publishedINEPT adj not suitableINEPTLY advINEQUITY n pl INEQUITIESunfairnessINERRANT adj free from errorINERT n pl INERTSsomething that lacks active propertiesINERTIA n pl INERTIAS or INERTIAEthe tendency of a body to resist accelerationINERTIAL adjINERTLY adv inactivelyINEXACT adj not exactINEXPERT n pl INEXPERTSa noviceINFALL n pl INFALLSmovement under the influence of gravity toward a celestial objectINFAMOUS adj having a vile reputationINFAMY n pl INFAMIESthe state of being infamousINFANCY n pl INFANCIESthe state of being an infantINFANT n pl INFANTSa child in the earliest stages of lifeINFANTA n pl INFANTASa daughter of a Spanish or Portuguese monarchINFANTE n pl INFANTESa younger son of a Spanish or Portuguese monarchINFANTRY n pl INFANTRIESa branch of the army composed of foot soldiersINFARCT n pl INFARCTSan area of dead or dying tissueINFARE n pl INFARESa reception for newlywedsINFAUNA n pl INFAUNAS or INFAUNAEfauna living on a soft sea floorINFAUNAL adjINFECT v INFECTED INFECTING INFECTSto contaminate with diseaseproducing germsINFECTER n pl INFECTERSone that infectsINFECTOR n pl INFECTORSinfecterINFECUND adj barrenINFEED n pl INFEEDSthe action of supplying material to a machineINFEOFF v INFEOFFED INFEOFFING INFEOFFSto enfeoffINFER v INFERRED INFERRING INFERSto reach or derive by reasoningINFERIOR n pl INFERIORSone of lesser rankINFERNAL adj pertaining to hellINFERNO n pl INFERNOSa place that resembles or suggests hellINFERRED past tense of inferINFERRER n pl INFERRERSone that infersINFERRING present participle of inferINFEST v INFESTED INFESTING INFESTSto overrun in large numbersINFESTER n pl INFESTERSone that infestsINFIDEL n pl INFIDELSone who has no religious faithINFIELD n pl INFIELDSa part of a baseball fieldINFIGHT v INFOUGHT INFIGHTING INFIGHTSto contend with others within the same groupINFILL v INFILLED INFILLING INFILLSto fill in a holeINFINITE n pl INFINITESsomething that has no limitsINFINITY n pl INFINITIESthe state of having no limitsINFIRM v INFIRMED INFIRMING INFIRMSto weaken or destroy the validity ofINFIRMLY adv in a feeble mannerINFIX v INFIXED INFIXING INFIXESto implantINFIXION n pl INFIXIONSthe act of infixingINFLAME v INFLAMED INFLAMING INFLAMESto set on fireINFLAMER n pl INFLAMERSone that inflamesINFLATE v INFLATED INFLATING INFLATESto cause to expand by filling with gas or airINFLATER n pl INFLATERSone that inflatesINFLATOR n pl INFLATORSinflaterINFLECT v INFLECTED INFLECTING INFLECTSto bendINFLEXED adj bent inwardINFLICT v INFLICTED INFLICTING INFLICTSto cause to be endured imposeINFLIGHT adj done during an air voyageINFLOW n pl INFLOWSthe act of flowing inINFLUENT n pl INFLUENTSa tributaryINFLUX n pl INFLUXESa flowing inINFO n pl INFOSinformationINFOBAHN n pl INFOBAHNSan electronic communications networkINFOLD v INFOLDED INFOLDING INFOLDSto fold inwardINFOLDER n pl INFOLDERSone that infoldsINFORM v INFORMED INFORMING INFORMSto supply with informationINFORMAL adj marked by the absence of formality or ceremonyINFORMER n pl INFORMERSone that informsINFOTECH n pl INFOTECHScomputer technology for distributing dataINFOUGHT past tense of infightINFRA adv belowINFRACT v INFRACTED INFRACTING INFRACTSto break a legal ruleINFRARED n pl INFRAREDSa part of the invisible spectrumINFRINGE v INFRINGED INFRINGING INFRINGESto violate an oath or a lawINFRUGAL adj not frugalINFULA n pl INFULAEeither of the two ribbons on a bishops miterINFUSE v INFUSED INFUSING INFUSESto permeate with somethingINFUSER n pl INFUSERSone that infusesINFUSION n pl INFUSIONSthe act of infusingINFUSIVE adj capable of infusingINGATE n pl INGATESa channel by which molten metal enters a moldINGATHER v INGATHERED INGATHERING INGATHERSto gather inINGENUE n pl INGENUESa naive young womanINGEST v INGESTED INGESTING INGESTSto take into the bodyINGESTA npl ingested materialINGLE n pl INGLESa fireINGOING adj enteringINGOT v INGOTED INGOTING INGOTSto shape into a convenient form for storageINGRAFT v INGRAFTED INGRAFTING INGRAFTSto engraftINGRAIN v INGRAINED INGRAINING INGRAINSto impress firmly on the mindINGRATE n pl INGRATESan ungrateful personINGRESS n pl INGRESSESthe act of enteringINGROUND adj built into the groundINGROUP n pl INGROUPSa group with which one feels a sense of solidarityINGROWN adj grown into the fleshINGROWTH n pl INGROWTHSgrowth inwardINGUINAL adj pertaining to the groinINGULF v INGULFED INGULFING INGULFSto engulfINHABIT v INHABITED INHABITING INHABITSto live inINHALANT n pl INHALANTSsomething that is inhaledINHALE v INHALED INHALING INHALESto take into the lungsINHALER n pl INHALERSone that inhalesINHAUL n pl INHAULSa line for bringing in a sailINHAULER n pl INHAULERSan inhaulINHERE v INHERED INHERING INHERESto be inherentINHERENT adj existing in something as an essential characteristicINHERIT v INHERITED INHERITING INHERITSto receive by legal successionINHESION n pl INHESIONSthe state of inheringINHIBIN n pl INHIBINSa human hormoneINHIBIT v INHIBITED INHIBITING INHIBITSto restrain or hold backINHOLDER n pl INHOLDERSone that owns a tract of land within a national parkINHUMAN adj lacking desirable human qualitiesINHUMANE adj not humaneINHUME v INHUMED INHUMING INHUMESto buryINHUMER n pl INHUMERSone that inhumesINIMICAL adj unfriendlyINION n pl INIAa part of the skullINIQUITY n pl INIQUITIESa gross injusticeINITIAL v INITIALED INITIALING INITIALS or INITIALLED INITIALLING INITIALSto mark with the first letters of ones nameINITIATE v INITIATED INITIATING INITIATESto originateINJECT v INJECTED INJECTING INJECTSto force a fluid intoINJECTOR n pl INJECTORSone that injectsINJERA n pl INJERASa type of Ethiopian breadINJURE v INJURED INJURING INJURESto do or cause injury toINJURER n pl INJURERSone that injuresINJURY n pl INJURIESharm inflicted or sufferedINK v INKED INKING INKSto mark with ink a colored fluid used for writingINKBERRY n pl INKBERRIESa small shrubINKBLOT n pl INKBLOTSa blotted pattern of spilled inkINKER n pl INKERSone that inksINKHORN n pl INKHORNSa small container for inkINKIER comparative of inkyINKIEST superlative of inkyINKINESS n pl INKINESSESthe state of being inkyINKJET n pl INKJETSa printer that spurts ink to form lettersINKLE n pl INKLESa tape used for trimmingINKLESS adj being without inkINKLIKE adj resembling inkINKLING n pl INKLINGSa slight suggestionINKPOT n pl INKPOTSan inkwellINKSTAND n pl INKSTANDSan inkwellINKSTONE n pl INKSTONESa stone on which dry ink and water are mixedINKWELL n pl INKWELLSa small container for inkINKWOOD n pl INKWOODSan evergreen treeINKY adj INKIER INKIESTresembling inkINLACE v INLACED INLACING INLACESto enlaceINLAID past tense of inlayINLAND n pl INLANDSthe interior of a regionINLANDER n pl INLANDERSone living in the interior of a regionINLAY v INLAID INLAYING INLAYSto set into a surfaceINLAYER n pl INLAYERSone that inlaysINLET v INLET INLETTING INLETSto insertINLIER n pl INLIERSa type of rock formationINLY adv inwardlyINLYING adj located farther inINMATE n pl INMATESone who is confined to an institutionINMESH v INMESHED INMESHING INMESHESto enmeshINMOST adj farthest withinINN v INNED INNING INNSto put up at an inn a public lodging houseINNAGE n pl INNAGESthe quantity of goods remaining in a container after shipmentINNARDS npl the internal organsINNATE adj inbornINNATELY advINNED past tense of inINNER n pl INNERSsomething that is withinINNERLY adv inwardlyINNERVE v INNERVED INNERVING INNERVESto stimulateINNING n pl INNINGSa division of a baseball gameINNINGS n pl INNINGSESa part of the game of cricketINNLESS adj having no innsINNOCENT adj INNOCENTER INNOCENTESTfree from guilt or sinINNOCENT n pl INNOCENTSan innocent personINNOVATE v INNOVATED INNOVATING INNOVATESto introduce something newINNUENDO v INNUENDOED INNUENDOING INNUENDOS or INNUENDOESto make a derogatory implicationINOCULUM n pl INOCULUMS or INOCULAthe material used in an inoculationINOSINE n pl INOSINESa compound of hypoxanthine and riboseINOSITE n pl INOSITESinositolINOSITOL n pl INOSITOLSan alcohol found in plant and animal tissueINOTROPE n pl INOTROPESa drug for controling the force of muscular contractionsINPHASE adj having matching electrical phasesINPOUR v INPOURED INPOURING INPOURSto pour inINPUT v INPUTTED INPUTTING INPUTSto enter data into a computerINPUTTER n pl INPUTTERSone that inputsINQUEST n pl INQUESTSa legal inquiryINQUIET v INQUIETED INQUIETING INQUIETSto disturbINQUIRE v INQUIRED INQUIRING INQUIRESto ask aboutINQUIRER n pl INQUIRERSone that inquiresINQUIRY n pl INQUIRIESa questionINRO n pl INROa Japanese ornamental containerINROAD n pl INROADSa hostile invasionINRUN n pl INRUNSthe approach ramp of a ski jumpINRUSH n pl INRUSHESa rushing inINSANE adj INSANER INSANESTmentally unsoundINSANELY advINSANITY n pl INSANITIESthe state of being insane something utterly foolishINSCAPE n pl INSCAPESthe inner essential quality of somethingINSCRIBE v INSCRIBED INSCRIBING INSCRIBESto write or engrave as a lasting recordINSCROLL v INSCROLLED INSCROLLING INSCROLLSto enscrollINSCULP v INSCULPED INSCULPING INSCULPSto engraveINSEAM n pl INSEAMSan inner seamINSECT n pl INSECTSany of a class of small invertebrate animalsINSECTAN adj pertaining to insectsINSECURE adj unsafeINSERT v INSERTED INSERTING INSERTSto put inINSERTER n pl INSERTERSone that insertsINSET v INSETTED INSETTING INSETSto insertINSETTER n pl INSETTERSone that insertsINSHEATH v INSHEATHED INSHEATHING INSHEATHSto ensheathINSHORE adj near the shoreINSHRINE v INSHRINED INSHRINING INSHRINESto enshrineINSIDE n pl INSIDESsomething that lies withinINSIDER n pl INSIDERSan accepted member of a cliqueINSIGHT n pl INSIGHTSa perception of the inner nature of thingsINSIGNE n pl INSIGNIAan insigniaINSIGNIA n pl INSIGNIASan emblem of authority or honorINSIPID adj dull and uninterestingINSIST v INSISTED INSISTING INSISTSto be resolute on some matterINSISTER n pl INSISTERSone that insistsINSNARE v INSNARED INSNARING INSNARESto ensnareINSNARER n pl INSNARERSensnarerINSOFAR adv to such an extentINSOLATE v INSOLATED INSOLATING INSOLATESto expose to sunlightINSOLE n pl INSOLESthe inner sole of a boot or shoeINSOLENT n pl INSOLENTSan extremely rude personINSOMNIA n pl INSOMNIASchronic inability to sleepINSOMUCH adv to such a degreeINSOUL v INSOULED INSOULING INSOULSto ensoulINSOURCE v INSOURCED INSOURCING INSOURCESto procure goods and services from within ones own countryINSPAN v INSPANNED INSPANNING INSPANSto harness or yoke to a vehicleINSPECT v INSPECTED INSPECTING INSPECTSto look carefully at or overINSPHERE v INSPHERED INSPHERING INSPHERESto ensphereINSPIRE v INSPIRED INSPIRING INSPIRESto animate the mind or emotions ofINSPIRER n pl INSPIRERSone that inspiresINSPIRIT v INSPIRITED INSPIRITING INSPIRITSto fill with spirit or lifeINSTABLE adj unstableINSTAL v INSTALLED INSTALLING INSTALSto installINSTALL v INSTALLED INSTALLING INSTALLSto place in position for useINSTANCE v INSTANCED INSTANCING INSTANCESto cite as an exampleINSTANCY n pl INSTANCIESurgencyINSTANT n pl INSTANTSa very short timeINSTAR v INSTARRED INSTARRING INSTARSto adorn with starsINSTATE v INSTATED INSTATING INSTATESto place in officeINSTEAD adv as a substitute or equivalentINSTEP n pl INSTEPSa part of the footINSTIL v INSTILLED INSTILLING INSTILSto instillINSTILL v INSTILLED INSTILLING INSTILLSto infuse slowlyINSTINCT n pl INSTINCTSan inborn behavioral patternINSTROKE n pl INSTROKESan inward strokeINSTRUCT v INSTRUCTED INSTRUCTING INSTRUCTSto supply with knowledgeINSULA n pl INSULAEa region of the brainINSULANT n pl INSULANTSan insulating materialINSULAR n pl INSULARSan islanderINSULATE v INSULATED INSULATING INSULATESto separate with nonconducting materialINSULIN n pl INSULINSa hormoneINSULT v INSULTED INSULTING INSULTSto treat offensivelyINSULTER n pl INSULTERSone that insultsINSURANT n pl INSURANTSone who is insuredINSURE v INSURED INSURING INSURESto guarantee against lossINSURED n pl INSUREDSone who is insuredINSURER n pl INSURERSone that insuresINSURING present participle of insureINSWATHE v INSWATHED INSWATHING INSWATHESto enswatheINSWEPT adj narrowed in frontINTACT adj not damaged in any wayINTACTLY advINTAGLIO n pl INTAGLIOS or INTAGLIan incised or sunken designINTAGLIO v INTAGLIOED INTAGLIOING INTAGLIOSto engrave in intaglioINTAKE n pl INTAKESthe act of taking inINTARSIA n pl INTARSIASa decorative techniqueINTEGER n pl INTEGERSa whole numberINTEGRAL n pl INTEGRALSa total unitINTEGRIN n pl INTEGRINSa class of animal proteinsINTEND v INTENDED INTENDING INTENDSto have as a specific aim or purposeINTENDED n pl INTENDEDSones spouse tobeINTENDER n pl INTENDERSone that intendsINTENSE adj INTENSER INTENSESTexisting in an extreme degreeINTENT n pl INTENTSa purposeINTENTLY adv in an unwavering mannerINTER v INTERRED INTERRING INTERSto buryINTERACT v INTERACTED INTERACTING INTERACTSto act on each otherINTERAGE adj including persons of various agesINTERBED v INTERBEDDED INTERBEDDING INTERBEDSto insert between other layersINTERCOM n pl INTERCOMSa type of communication systemINTERCUT v INTERCUT INTERCUTTING INTERCUTSto alternate camera shotsINTEREST v INTERESTED INTERESTING INTERESTSto engage the attention ofINTERIM n pl INTERIMSan intervalINTERIOR n pl INTERIORSthe insideINTERLAP v INTERLAPPED INTERLAPPING INTERLAPSto lap one over anotherINTERLAY v INTERLAID INTERLAYING INTERLAYSto place betweenINTERMAT v INTERMATTED INTERMATTING INTERMATSto mat fibers togetherINTERMIT v INTERMITTED INTERMITTING INTERMITSto stop temporarilyINTERMIX v INTERMIXED INTERMIXING INTERMIXESto mix togetherINTERN v INTERNED INTERNING INTERNSto confine during a warINTERNAL n pl INTERNALSan inner attributeINTERNE n pl INTERNESa recent medical school graduate on a hospital staffINTERNEE n pl INTERNEESone who has been internedINTERRED past tense of interINTERREX n pl INTERREGESa type of sovereignINTERRING present participle of interINTERROW adj existing between rowsINTERSEX n pl INTERSEXESa person having characteristics of both sexesINTERTIE n pl INTERTIESa type of electrical connectionINTERVAL n pl INTERVALSa space of time between periods or eventsINTERWAR adj happening between warsINTHRAL v INTHRALLED INTHRALLING INTHRALSto enthrallINTHRALL v INTHRALLED INTHRALLING INTHRALLSto enthrallINTHRONE v INTHRONED INTHRONING INTHRONESto enthroneINTI n pl INTISa former monetary unit of PeruINTIFADA n pl INTIFADASan uprising of Palestinians against IsraelisINTIMA n pl INTIMAS or INTIMAEthe innermost layer of an organINTIMAL adjINTIMACY n pl INTIMACIESthe state of being closely associatedINTIMATE v INTIMATED INTIMATING INTIMATESto make known indirectlyINTIME adj cozyINTIMIST n pl INTIMISTSa writer or artist who deals with deep personal experiencesINTINE n pl INTINESthe inner wall of a sporeINTITLE v INTITLED INTITLING INTITLESto entitleINTITULE v INTITULED INTITULING INTITULESto entitleINTO prep to the inside ofINTOMB v INTOMBED INTOMBING INTOMBSto entombINTONATE v INTONATED INTONATING INTONATESto intoneINTONE v INTONED INTONING INTONESto speak in a singing voiceINTONER n pl INTONERSone that intonesINTORT v INTORTED INTORTING INTORTSto twist inwardINTOWN adj located in the center of a cityINTRADAY adj occurring within a single dayINTRADOS n pl INTRADOSESthe inner curve of an archINTRANET n pl INTRANETSa computer network with restricted accessINTRANT n pl INTRANTSan entrantINTREAT v INTREATED INTREATING INTREATSto entreatINTRENCH v INTRENCHED INTRENCHING INTRENCHESto entrenchINTREPID adj fearlessINTRIGUE v INTRIGUED INTRIGUING INTRIGUESto arouse the curiosity ofINTRO n pl INTROSan introductionINTROFY v INTROFIED INTROFYING INTROFIESto increase the wetting properties ofINTROIT n pl INTROITSmusic sung at the beginning of a worship serviceINTROMIT v INTROMITTED INTROMITTING INTROMITSto put inINTRON n pl INTRONSan intervening sequence in the genetic codeINTRONIC adjINTRORSE adj facing inwardINTRUDE v INTRUDED INTRUDING INTRUDESto thrust or force oneself inINTRUDER n pl INTRUDERSone that intrudesINTRUST v INTRUSTED INTRUSTING INTRUSTSto entrustINTUBATE v INTUBATED INTUBATING INTUBATESto insert a tube intoINTUIT v INTUITED INTUITING INTUITSto know without conscious reasoningINTURN n pl INTURNSa turning inwardINTURNED adjINTWINE v INTWINED INTWINING INTWINESto entwineINTWIST v INTWISTED INTWISTING INTWISTSto entwistINUKSHUK n pl INUKSHUKSa figure of a human made of stonesINUKSUK n pl INUKSUKS or INUKSUITan inukshukINULASE n pl INULASESan enzymeINULIN n pl INULINSa chemical compoundINUNDANT adj inundatingINUNDATE v INUNDATED INUNDATING INUNDATESto overwhelm with waterINURBANE adj not urbaneINURE v INURED INURING INURESto accustom to accept something undesirableINURN v INURNED INURNING INURNSto put in an urnINUTILE adj uselessINVADE v INVADED INVADING INVADESto enter for conquest or plunderINVADER n pl INVADERSone that invadesINVALID v INVALIDED INVALIDING INVALIDSto disable physicallyINVAR n pl INVARSan ironnickel alloyINVASION n pl INVASIONSthe act of invadingINVASIVE adjINVECTED adj edged by convex curvesINVEIGH v INVEIGHED INVEIGHING INVEIGHSto protest angrilyINVEIGLE v INVEIGLED INVEIGLING INVEIGLESto induce by guile or flatteryINVENT v INVENTED INVENTING INVENTSto devise originallyINVENTER n pl INVENTERSinventorINVENTOR n pl INVENTORSone that inventsINVERITY n pl INVERITIESlack of truthINVERSE v INVERSED INVERSING INVERSESto reverseINVERT v INVERTED INVERTING INVERTSto turn upside downINVERTER n pl INVERTERSone that invertsINVERTIN n pl INVERTINSan enzymeINVERTOR n pl INVERTORSa type of electrical deviceINVEST v INVESTED INVESTING INVESTSto commit something of value for future profitINVESTOR n pl INVESTORSone that investsINVIABLE adj not viableINVIABLY advINVIRILE adj not virileINVISCID adj not viscidINVITAL adj not vitalINVITE v INVITED INVITING INVITESto request the presence ofINVITEE n pl INVITEESone that is invitedINVITER n pl INVITERSone that invitesINVITING present participle of inviteINVOCATE v INVOCATED INVOCATING INVOCATESto invokeINVOICE v INVOICED INVOICING INVOICESto billINVOKE v INVOKED INVOKING INVOKESto appeal to for aidINVOKER n pl INVOKERSone that invokesINVOLUTE v INVOLUTED INVOLUTING INVOLUTESto roll or curl upINVOLVE v INVOLVED INVOLVING INVOLVESto contain or include as a partINVOLVER n pl INVOLVERSone that involvesINWALL v INWALLED INWALLING INWALLSto surround with a wallINWARD adv toward the insideINWARDLY adv on the insideINWARDS adv inwardINWEAVE v INWOVE or INWEAVED INWOVEN INWEAVING INWEAVESto weave togetherINWIND v INWOUND INWINDING INWINDSto enwindINWRAP v INWRAPPED INWRAPPING INWRAPSto enwrapIODATE v IODATED IODATING IODATESto iodizeIODATION n pl IODATIONSthe act of iodatingIODIC adj pertaining to iodineIODID n pl IODIDSiodideIODIDE n pl IODIDESa compound of iodineIODIN n pl IODINSiodineIODINATE v IODINATED IODINATING IODINATESto iodizeIODINE n pl IODINESa nonmetallic elementIODISE v IODISED IODISING IODISESto iodizeIODISM n pl IODISMSiodine poisoningIODIZE v IODIZED IODIZING IODIZESto treat with iodineIODIZER n pl IODIZERSone that iodizesIODOFORM n pl IODOFORMSan iodine compoundIODOPHOR n pl IODOPHORSan iodine compoundIODOPSIN n pl IODOPSINSa pigment in the retinaIODOUS adj pertaining to iodineIOLITE n pl IOLITESa mineralION n pl IONSan electrically charged atomIONIC n pl IONICSa style of typeIONIC adj pertaining to or using ionsIONICITY n pl IONICITIESthe state of existing as or like an ionIONISE v IONISED IONISING IONISESto ionizeIONISER n pl IONISERSionizerIONIUM n pl IONIUMSan isotope of thoriumIONIZE v IONIZED IONIZING IONIZESto convert into ionsIONIZER n pl IONIZERSone that ionizesIONOGEN n pl IONOGENSa compound capable of forming ionsIONOMER n pl IONOMERSa type of plasticIONONE n pl IONONESa chemical compoundIOTA n pl IOTASa Greek letterIOTACISM n pl IOTACISMSexcessive use of the letter iotaIPECAC n pl IPECACSa medicinal plantIPOMOEA n pl IPOMOEASa flowering plantIRACUND adj easily angeredIRADE n pl IRADESa decree of a Muslim rulerIRATE adj IRATER IRATESTangryIRATELY advIRE v IRED IRING IRESto angerIREFUL adj angryIREFULLY advIRELESS adj not angryIRENIC adj peaceful in purposeIRENICAL adj irenicIRENICS npl a branch of theologyIRID n pl IRIDSa plant of the iris familyIRIDES a pl of irisIRIDIC adj pertaining to iridiumIRIDIUM n pl IRIDIUMSa metallic elementIRING present participle of ireIRIS n pl IRISES or IRIDESa part of the eyeIRIS v IRISED IRISING IRISESto give the form of a rainbow toIRITIS n pl IRITISESinflammation of the irisIRITIC adjIRK v IRKED IRKING IRKSto annoy or wearyIRKSOME adj tending to irkIROKO n pl IROKOSa large African treeIRON v IRONED IRONING IRONSto furnish with iron a metallic elementIRONBARK n pl IRONBARKSa timber treeIRONCLAD n pl IRONCLADSan armored warshipIRONE n pl IRONESan aromatic oilIRONER n pl IRONERSa machine for pressing clothesIRONIC adj pertaining to ironyIRONICAL adj ironicIRONIES pl of ironyIRONING n pl IRONINGSclothes pressed or to be pressedIRONISE v IRONISED IRONISING IRONISESto ironizeIRONIST n pl IRONISTSone who uses ironyIRONIZE v IRONIZED IRONIZING IRONIZESto mix with nutritional ironIRONLESS adj having no ironIRONLIKE adj resembling ironIRONMAN n pl IRONMENa man of great strength and staminaIRONNESS n pl IRONNESSESthe state of being ironIRONSIDE n pl IRONSIDESa man of great strengthIRONWARE n pl IRONWARESarticles made of ironIRONWEED n pl IRONWEEDSa shrubIRONWOOD n pl IRONWOODSa hardwood treeIRONWORK n pl IRONWORKSobjects made of ironIRONY n pl IRONIESthe use of words to express the opposite of what is literally saidIRREAL adj not realIRRIGATE v IRRIGATED IRRIGATING IRRIGATESto supply with water by artificial meansIRRITANT n pl IRRITANTSsomething that irritatesIRRITATE v IRRITATED IRRITATING IRRITATESto excite to impatience or angerIRRUPT v IRRUPTED IRRUPTING IRRUPTSto rush in forciblyIS present 3d person sing of beISAGOGE n pl ISAGOGESa type of introduction to a branch of studyISAGOGIC n pl ISAGOGICSa branch of theologyISARITHM n pl ISARITHMSan isoplethISATIN n pl ISATINSa chemical compoundISATINIC adjISATINE n pl ISATINESisatinISBA n pl ISBASa Russian log hutISCHEMIA n pl ISCHEMIASa type of anemiaISCHEMIC adjISCHIUM n pl ISCHIAa pelvic boneISCHIAL adjISLAND v ISLANDED ISLANDING ISLANDSto make into an island a land area entirely surrounded by waterISLANDER n pl ISLANDERSone that lives on an islandISLE v ISLED ISLING ISLESto place on an isle a small islandISLELESS adj lacking an isleISLET n pl ISLETSa small islandISLETED adjISM n pl ISMSa distinctive theory or doctrineISOBAR n pl ISOBARSa type of atomISOBARIC adjISOBARE n pl ISOBARESisobarISOBATH n pl ISOBATHSa line on a map connecting points of equal water depthISOBUTYL n pl ISOBUTYLSa hydrocarbon radicalISOCHEIM n pl ISOCHEIMSa type of isothermISOCHIME n pl ISOCHIMESisocheimISOCHOR n pl ISOCHORSisochoreISOCHORE n pl ISOCHORESa curve used to show a relationship between pressure and temperatureISOCHRON n pl ISOCHRONSa line on a chart connecting points representing the same timeISOCLINE n pl ISOCLINESa type of rock formationISOCRACY n pl ISOCRACIESa form of governmentISODOSE adj pertaining to zones that receive equal doses of radiationISOFORM n pl ISOFORMSone of two or more proteins having a similar formISOGAMY n pl ISOGAMIESthe fusion of two similar gametesISOGENIC adj genetically similarISOGENY n pl ISOGENIESthe state of being of similar originISOGLOSS n pl ISOGLOSSESa line on a map between linguistically varied areasISOGON n pl ISOGONSa polygon having equal anglesISOGONAL n pl ISOGONALSisogoneISOGONE n pl ISOGONESa line on a map used to show characteristics of the earths magnetic fieldISOGONIC n pl ISOGONICSisogoneISOGONY n pl ISOGONIESan equivalent relative growth of partsISOGRAFT v ISOGRAFTED ISOGRAFTING ISOGRAFTSto transplant from one individual to another of the same speciesISOGRAM n pl ISOGRAMSa line on a map connecting points of equal valueISOGRAPH n pl ISOGRAPHSa line on a map indicating areas that are linguistically similarISOGRIV n pl ISOGRIVSa line drawn on a map such that all points have equal grid variationISOHEL n pl ISOHELSa line on a map connecting points receiving equal sunshineISOHYET n pl ISOHYETSa line on a map connecting points having equal rainfallISOLABLE adj capable of being isolatedISOLATE v ISOLATED ISOLATING ISOLATESto set apart from othersISOLATOR n pl ISOLATORSone that isolatesISOLEAD n pl ISOLEADSa line on a ballistic graphISOLINE n pl ISOLINESan isogramISOLOG n pl ISOLOGSisologueISOLOGUE n pl ISOLOGUESa type of chemical compoundISOMER n pl ISOMERSa type of chemical compoundISOMERIC adjISOMETRY n pl ISOMETRIESequality of measureISOMORPH n pl ISOMORPHSsomething similar to something else in formISONOMY n pl ISONOMIESequality of civil rightsISONOMIC adjISOPACH n pl ISOPACHSan isogram connecting points of equal thicknessISOPHOTE n pl ISOPHOTESa curve on a chart joining points of equal light intensityISOPLETH n pl ISOPLETHSa type of isogramISOPOD n pl ISOPODSa kind of crustaceanISOPODAN n pl ISOPODANSan isopodISOPRENE n pl ISOPRENESa volatile liquidISOSPIN n pl ISOSPINSa type of quantum numberISOSPORY n pl ISOSPORIESthe condition of producing sexual or asexual spores of but one kindISOSTACY n pl ISOSTACIESisostasyISOSTASY n pl ISOSTASIESthe state of balance in the earths crustISOTACH n pl ISOTACHSa line on a map connecting points of equal wind velocityISOTHERE n pl ISOTHERESa type of isothermISOTHERM n pl ISOTHERMSa line on a map connecting points of equal mean temperatureISOTONE n pl ISOTONESa type of atomISOTONIC adj of equal tensionISOTOPE n pl ISOTOPESa form of an elementISOTOPIC adjISOTOPY n pl ISOTOPIESthe state of being an isotopeISOTROPY n pl ISOTROPIESthe state of being identical in all directionsISOTYPE n pl ISOTYPESa type of diagramISOTYPIC adjISOZYME n pl ISOZYMESa type of enzymeISOZYMIC adjISSEI n pl ISSEISa Japanese immigrant to the United StatesISSUABLE adj authorized for issuingISSUABLY advISSUANCE n pl ISSUANCESthe act of issuingISSUANT adj coming forthISSUE v ISSUED ISSUING ISSUESto come forthISSUER n pl ISSUERSone that issuesISTHMI a pl of isthmusISTHMIAN n pl ISTHMIANSa native of an isthmusISTHMIC adj pertaining to an isthmusISTHMOID adj isthmicISTHMUS n pl ISTHMUSES or ISTHMIa strip of land connecting two larger land massesISTLE n pl ISTLESa strong fiberIT pron the 3d person sing neuter pronounITALIC n pl ITALICSa style of printITCH v ITCHED ITCHING ITCHESto have an uneasy or tingling skin sensationITCHING n pl ITCHINGSan uneasy or tingling skin sensationITCHY adj ITCHIER ITCHIESTcausing an itching sensationITCHILY advITEM v ITEMED ITEMING ITEMSto itemizeITEMISE v ITEMISED ITEMISING ITEMISESto itemizeITEMISER n ITEMISERSitemizerITEMIZE v ITEMIZED ITEMIZING ITEMIZESto set down the particulars ofITEMIZER n pl ITEMIZERSone that itemizesITERANCE n pl ITERANCESrepetitionITERANT adj repeatingITERATE v ITERATED ITERATING ITERATESto repeatITERUM adv again once moreITHER adj otherITS pron the possessive form of the pronoun itITSELF pron a reflexive form of the pronoun itIVORY n pl IVORIESa hard white substance found in elephant tusksIVORIED adjIVY n pl IVIESa climbing vineIVYLIKE adjIVIED adjIWIS adv certainlyIXIA n pl IXIASa flowering plantIXNAY interj noIXODID n pl IXODIDSa bloodsucking insectIXORA n pl IXORASa flowering plantIXTLE n pl IXTLESistleIZAR n pl IZARSan outer garment worn by Muslim womenIZARD n pl IZARDSa goatlike antelopeIZZARD n pl IZZARDSthe letter Z").
+```
+```prolog
+entry(jab, v, [jabbed,jabbing,jabs], "đâm mạnh sắc nhọnJABBER v JABBERED JABBERING JABBERSto talk rapidlyJABBERER n pl JABBERERSone that jabbersJABIRU n pl JABIRUSa wading birdJABOT n pl JABOTSa decoration on a shirtJACAL n pl JACALS or JACALESa hutJACAMAR n pl JACAMARSa tropical birdJACANA n pl JACANASa wading birdJACINTH n pl JACINTHSa variety of zirconJACINTHE n pl JACINTHESan orange colorJACK v JACKED JACKING JACKSto raise with a type of leverJACKAL n pl JACKALSa doglike mammalJACKAROO n pl JACKAROOSjackerooJACKASS n pl JACKASSESa male donkeyJACKBOOT n pl JACKBOOTSa heavy bootJACKDAW n pl JACKDAWSa bird resembling a crowJACKER n pl JACKERSone that jacksJACKEROO n pl JACKEROOSan inexperienced ranch handJACKET v JACKETED JACKETING JACKETSto provide with a jacket a short coatJACKFISH n pl JACKFISHESa food fishJACKIES pl of jackyJACKLEG n pl JACKLEGSan unskilled workerJACKPOT n pl JACKPOTSa top prize or rewardJACKROLL v JACKROLLED JACKROLLING JACKROLLSto rob a drunken or sleeping personJACKSTAY n pl JACKSTAYSa rope on a shipJACKY n pl JACKIESa sailorJACOBIN n pl JACOBINSa pigeonJACOBUS n pl JACOBUSESan old English coinJACONET n pl JACONETSa cotton clothJACQUARD n pl JACQUARDSa fabric of intricate weaveJACULATE v JACULATED JACULATING JACULATESto throwJADE v JADED JADING JADESto wearyJADEDLY advJADEITE n pl JADEITESa mineralJADITIC adjJADELIKE adj resembling jade a green gemstoneJADISH adj wornoutJADISHLY advJAEGER n pl JAEGERSa hunterJAG v JAGGED JAGGING JAGSto cut unevenlyJAGER n pl JAGERSjaegerJAGG v JAGGED JAGGING JAGGSto jagJAGGARY n pl JAGGARIESjaggeryJAGGED adj JAGGEDER JAGGEDESThaving a sharply uneven edge or surfaceJAGGEDLY advJAGGER n pl JAGGERSone that jagsJAGGERY n pl JAGGERIESa coarse dark sugarJAGGHERY n pl JAGGHERIESjaggeryJAGGIES npl a jagged effect on a curved lineJAGGING present participle of jagJAGGY adj JAGGIER JAGGIESTjaggedJAGLESS adj smooth and evenJAGRA n pl JAGRASjaggeryJAGUAR n pl JAGUARSa large feline animalJAIL v JAILED JAILING JAILSto put in jail a place of confinementJAILABLE adjJAILBIRD n pl JAILBIRDSa prisonerJAILER n pl JAILERSa keeper of a jailJAILOR n pl JAILORSjailerJAKE adj all right fineJAKES npl an outhouseJALAP n pl JALAPSa Mexican plantJALAPIC adjJALAPENO n pl JALAPENOSa hot pepperJALAPIN n pl JALAPINSa medicinal substance contained in jalapJALOP n pl JALOPSjalapJALOPPY n pl JALOPPIESjalopyJALOPY n pl JALOPIESa decrepit carJALOUSIE n pl JALOUSIESa type of windowJAM v JAMMED JAMMING JAMSto force together tightlyJAMMABLE adjJAMB v JAMBED JAMBING JAMBSto jamJAMBE n pl JAMBESa jambeauJAMBEAU n pl JAMBEAUX or JAMBEAUSa piece of armor for the legJAMBOREE n pl JAMBOREESa noisy celebrationJAMLIKE adj resembling jamJAMMED past tense of jamJAMMER n pl JAMMERSone that jamsJAMMIES npl pajamasJAMMING present participle of jamJAMMY adj JAMMIER JAMMIESTsticky with jam boiled fruit and sugarJANE n pl JANESa girl or womanJANGLE v JANGLED JANGLING JANGLESto make a harsh metallic soundJANGLER n pl JANGLERSone that janglesJANGLY adj JANGLIER JANGLIESTjanglingJANIFORM adj hypocriticalJANISARY n pl JANISARIESjanizaryJANITOR n pl JANITORSa maintenance manJANIZARY n pl JANIZARIESa Turkish soldierJANNEY v JANNEYED JANNEYING JANNEYSto jannyJANNY v JANNIED JANNYING JANNIESto act as a disguised merrymaker at ChristmasJANNYING n pl JANNYINGSthe action of one that janniesJANTY adj jauntyJAPAN v JAPANNED JAPANNING JAPANSto coat with a glossy black lacquerJAPANIZE v JAPANIZED JAPANIZING JAPANIZESto make JapaneseJAPANNER n pl JAPANNERSone that japansJAPE v JAPED JAPING JAPESto mockJAPER n pl JAPERSone that japesJAPERY n pl JAPERIESmockeryJAPING present participle of japeJAPINGLY adv in a japing mannerJAPONICA n pl JAPONICASan Asian shrubJAR v JARRED JARRING JARSto cause to shakeJARFUL n pl JARFULS or JARSFULthe quantity held by a jar a cylindrical containerJARGON v JARGONED JARGONING JARGONSto speak or write an obscure and often pretentious kind of languageJARGONEL n pl JARGONELSa variety of pearJARGONY adj characterized by the use of obscure languageJARGOON n pl JARGOONSa variety of zirconJARHEAD n pl JARHEADSa marine soldierJARINA n pl JARINASthe hard seed of a palm treeJARL n pl JARLSa Scandinavian noblemanJARLDOM n pl JARLDOMSthe domain of a jarlJAROSITE n pl JAROSITESa mineralJAROVIZE v JAROVIZED JAROVIZING JAROVIZESto hasten the flowering of a plantJARRAH n pl JARRAHSan evergreen treeJARRED past tense of jarJARRING present participle of jarJARSFUL a pl of jarfulJARVEY n pl JARVEYSthe driver of a carriage for hireJASMIN n pl JASMINSjasmineJASMINE n pl JASMINESa climbing shrubJASPER n pl JASPERSa variety of quartzJASPERY adjJASSID n pl JASSIDSany of a family of plant pestsJATO n pl JATOSa takeoff aided by jet propulsionJAUK v JAUKED JAUKING JAUKSto dawdleJAUNCE v JAUNCED JAUNCING JAUNCESto pranceJAUNDICE v JAUNDICED JAUNDICING JAUNDICESto prejudice unfavorablyJAUNT v JAUNTED JAUNTING JAUNTSto make a pleasure tripJAUNTY adj JAUNTIER JAUNTIESThaving a lively and selfconfident mannerJAUNTILY advJAUP v JAUPED JAUPING JAUPSto splashJAVA n pl JAVAScoffeeJAVELIN v JAVELINED JAVELINING JAVELINSto pierce with a javelin a light spearJAVELINA n pl JAVELINASa peccaryJAW v JAWED JAWING JAWSto jabberJAWAN n pl JAWANSa soldier of IndiaJAWBONE v JAWBONED JAWBONING JAWBONESto attempt to convinceJAWBONER n pl JAWBONERSone that jawbonesJAWLESS adj having no jaw a bony structure bordering the mouthJAWLIKE adj resembling the jaw the framework of the mouthJAWLINE n pl JAWLINESthe outline of the lower jawJAY n pl JAYSa corvine birdJAYBIRD n pl JAYBIRDSa jayJAYGEE n pl JAYGEESa military officerJAYVEE n pl JAYVEESa junior varsity playerJAYWALK v JAYWALKED JAYWALKING JAYWALKSto cross a street recklesslyJAZZ v JAZZED JAZZING JAZZESto enlivenJAZZBO n pl JAZZBOSa devotee of jazz a style of lively syncopated musicJAZZER n pl JAZZERSone that jazzesJAZZLIKE adj resembling a type of musicJAZZMAN n pl JAZZMENa type of musicianJAZZY adj JAZZIER JAZZIESTlivelyJAZZILY advJEALOUS adj resentful of anothers advantagesJEALOUSY n pl JEALOUSIESa jealous feelingJEAN n pl JEANSa durable cotton fabricJEANED adjJEBEL n pl JEBELSa mountainJEE v JEED JEEING JEESto geeJEEP v JEEPED JEEPING JEEPSto travel by a small type of motor vehicleJEEPERS interj  used as a mild oathJEEPNEY n pl JEEPNEYSa Philippine jitneyJEER v JEERED JEERING JEERSto mockJEERER n pl JEERERSone that jeersJEESLY adj jeezlyJEEZ interj  used as a mild oathJEEZE interj jeezJEEZELY adj jeezlyJEEZLY adj used as an intensifierJEFE n pl JEFESa chiefJEHAD n pl JEHADSjihadJEHADI n pl JEHADISjihadiJEHADIST n pl JEHADISTSjihadistJEHU n pl JEHUSa fast driverJEJUNA pl of jejunumJEJUNAL adj pertaining to the jejunumJEJUNE adj uninteresting childishJEJUNELY advJEJUNITY n pl JEJUNITIESsomething that is jejuneJEJUNUM n pl JEJUNA or JEJUNUMSa part of the small intestineJELL v JELLED JELLING JELLSto congealJELLABA n pl JELLABASdjellabaJELLIFY v JELLIFIED JELLIFYING JELLIFIESto jellyJELLY v JELLIED JELLYING JELLIESto make into a jelly a soft semisolid substanceJELUTONG n pl JELUTONGSa tropical treeJEMADAR n pl JEMADARSan officer in the army of IndiaJEMIDAR n pl JEMIDARSjemadarJEMMY v JEMMIED JEMMYING JEMMIESto jimmyJENNET n pl JENNETSa small horseJENNY n pl JENNIESa female donkeyJEON n pl JEONa monetary unit of South KoreaJEOPARD v JEOPARDED JEOPARDING JEOPARDSto imperilJEOPARDY n pl JEOPARDIESrisk of loss or injuryJERBOA n pl JERBOASa small rodentJEREED n pl JEREEDSa wooden javelinJEREMIAD n pl JEREMIADSa tale of woeJERID n pl JERIDSjereedJERK v JERKED JERKING JERKSto move with a sharp sudden motionJERKER n pl JERKERSone that jerksJERKIN n pl JERKINSa sleeveless jacketJERKY adj JERKIER JERKIESTcharacterized by jerking movementsJERKILY advJERKY n pl JERKIESdried meatJEROBOAM n pl JEROBOAMSa wine bottleJERREED n pl JERREEDSjereedJERRICAN n pl JERRICANSjerrycanJERRID n pl JERRIDSjereedJERRY n pl JERRIESa German soldierJERRYCAN n pl JERRYCANSa fuel containerJERSEY n pl JERSEYSa closefitting knitted shirtJERSEYED adjJESS v JESSED JESSING JESSESto fasten straps around the legs of a hawkJESSANT adj shooting forthJESSE v JESSED JESSING JESSESto jessJEST v JESTED JESTING JESTSto jokeJESTER n pl JESTERSone that jestsJESTFUL adj tending to jestJESTING n pl JESTINGSthe act of one who jestsJET v JETTED JETTING JETSto spurt forth in a streamJETBEAD n pl JETBEADSan ornamental shrubJETE n pl JETESa ballet leapJETFOIL n pl JETFOILSa jetpowered hydrofoil a boat with winglike structures for lifting the hull above the waterJETLAG n pl JETLAGSthe disruption of body rhythms after a flight through several time zonesJETLIKE adj resembling a jet airplaneJETLINER n pl JETLINERSa type of aircraftJETON n pl JETONSjettonJETPACK n pl JETPACKSa backpack with jets to transport the wearerJETPORT n pl JETPORTSa type of airportJETSAM n pl JETSAMSgoods cast overboardJETSOM n pl JETSOMSjetsamJETTED past tense of jetJETTIED past tense of jettyJETTIER comparative of jettyJETTIES present 3d person sing of jettyJETTIEST superlative of jettyJETTING present participle of jetJETTISON v JETTISONED JETTISONING JETTISONSto cast overboardJETTON n pl JETTONSa piece used in countingJETTY adj JETTIER JETTIESThaving the color jet blackJETTY v JETTIED JETTYING JETTIESto jutJEU n pl JEUXa gameJEWEL v JEWELED JEWELING JEWELS or JEWELLED JEWELLING JEWELSto adorn or equip with jewels precious stonesJEWELER n pl JEWELERSa dealer or maker of jewelryJEWELLER n pl JEWELLERSjewelerJEWELRY n pl JEWELRIESan article or articles for personal adornmentJEWFISH n pl JEWFISHESa large marine fishJEZAIL n pl JEZAILSa type of firearmJEZEBEL n pl JEZEBELSa scheming wicked womanJIAO n pl JIAOchiaoJIB v JIBBED JIBBING JIBSto refuse to proceed furtherJIBB v JIBBED JIBBING JIBBSto shift from side to side while sailingJIBBA n pl JIBBASa long coat worn by Muslim menJIBBAH n pl JIBBAHSjibbaJIBBER n pl JIBBERSa horse that jibsJIBBOOM n pl JIBBOOMSa ships sparJIBE v JIBED JIBING JIBESto gibeJIBINGLY advJIBER n pl JIBERSone that jibesJICAMA n pl JICAMASa tropical plant with edible rootsJIFF n pl JIFFSjiffyJIFFY n pl JIFFIESa short timeJIG v JIGGED JIGGING JIGSto bobJIGGER v JIGGERED JIGGERING JIGGERSto jerk up and downJIGGERED adj damnedJIGGIER comparative of jiggyJIGGIEST superlative of jiggyJIGGISH adj suitable for a jig a livley danceJIGGLE v JIGGLED JIGGLING JIGGLESto shake lightlyJIGGLY adj JIGGLIER JIGGLIESTunsteadyJIGGY adj JIGGIER JIGGIESTpleasurably excitedJIGLIKE adj resembling a jigJIGSAW v JIGSAWED JIGSAWN JIGSAWING JIGSAWSto cut with a type of sawJIHAD n pl JIHADSa Muslim holy warJIHADI n pl JIHADISa Muslim who participates in a jihadJIHADIST n pl JIHADISTSa jihadiJILL n pl JILLSa unit of liquid measureJILLION n pl JILLIONSa very large numberJILT v JILTED JILTING JILTSto reject a loverJILTER n pl JILTERSone that jiltsJIMINY interj  used to express surpriseJIMJAMS npl violent deliriumJIMMIE n pl JIMMIESa tiny bit of candy for decorating ice creamJIMMINY interj jiminyJIMMY v JIMMIED JIMMYING JIMMIESto pry open with a crowbarJIMP adj JIMPER JIMPESTnattyJIMPLY advJIMPY adj jimpJIMSON n pl JIMSONSa tall poisonous weedJIN n pl JINSjinnJINGAL n pl JINGALSa heavy musketJINGALL n pl JINGALLSjingalJINGKO n pl JINGKOESginkgoJINGLE v JINGLED JINGLING JINGLESto make a tinkling soundJINGLER n pl JINGLERSone that jinglesJINGLY adj JINGLIER JINGLIESTjinglingJINGO n pl JINGOESa zealous patriotJINGOISH adjJINGOISM n pl JINGOISMSthe spirit or policy of jingoesJINGOIST n pl JINGOISTSa jingoJINK v JINKED JINKING JINKSto move quickly out of the wayJINKER n pl JINKERSone that jinksJINN n pl JINNSa supernatural being in Muslim mythologyJINNEE n pl JINNjinnJINNI n pl JINNISjinnJINX v JINXED JINXING JINXESto bring bad luck toJIPIJAPA n pl JIPIJAPASa tropical plantJIRD n pl JIRDSa longtailed rodentJITNEY n pl JITNEYSa small busJITTER v JITTERED JITTERING JITTERSto fidgetJITTERY adj JITTERIER JITTERIESTextremely nervousJIUJITSU n pl JIUJITSUSjujitsuJIUJUTSU n pl JIUJUTSUSjujitsuJIVE v JIVED JIVING JIVESto play jazz or swing musicJIVE adj JIVER JIVESTdeceitfulJIVER n pl JIVERSone that jivesJIVEY adj JIVIER JIVIESTjazzy livelyJIVING present participle of jiveJIVY adj jiveyJNANA n pl JNANASknowledge acquired through meditationJO n pl JOESa sweetheartJOANNES n pl JOANNESjohannesJOB v JOBBED JOBBING JOBSto work by the pieceJOBBER n pl JOBBERSa pieceworkerJOBBERY n pl JOBBERIEScorruption in public officeJOBBIE n pl JOBBIESan example of its typeJOBLESS adj having no jobJOBNAME n pl JOBNAMESa computer code for a job instructionJOCK n pl JOCKSan athletic supporterJOCKDOM n pl JOCKDOMSthe world of athletesJOCKETTE n pl JOCKETTESa woman who rides horses in racesJOCKEY v JOCKEYED JOCKEYING JOCKEYSto maneuver for an advantageJOCKISH adj characteristic of an athleteJOCKO n pl JOCKOSa monkeyJOCKY adj JOCKIER JOCKIESTresembling an athleteJOCOSE adj humorousJOCOSELY advJOCOSITY n pl JOCOSITIESthe state of being jocoseJOCULAR adj given to jokingJOCUND adj cheerfulJOCUNDLY advJODHPUR n pl JODHPURSa type of bootJOE n pl JOESa fellowJOEY n pl JOEYSa young kangarooJOG v JOGGED JOGGING JOGSto run at a slow steady paceJOGGER n pl JOGGERSone that jogsJOGGING n pl JOGGINGSthe practice of running at a slow steady paceJOGGLE v JOGGLED JOGGLING JOGGLESto shake slightlyJOGGLER n pl JOGGLERSone that jogglesJOGTROT n pl JOGTROTSa slow regular way of walking or runningJOHANNES n pl JOHANNESa Portuguese coinJOHN n pl JOHNSa toiletJOHNBOAT n pl JOHNBOATSa narrow squareended boatJOHNNIE n pl JOHNNIESjohnnyJOHNNY n pl JOHNNIESa sleeveless hospital gownJOIN v JOINED JOINING JOINSto uniteJOINABLE adjJOINDER n pl JOINDERSa joining of parties in a lawsuitJOINER n pl JOINERSa carpenterJOINERY n pl JOINERIESthe trade of a joinerJOINING n pl JOININGSa junctureJOINT v JOINTED JOINTING JOINTSto fit together by means of a junctionJOINTER n pl JOINTERSone that jointsJOINTLY adv togetherJOINTURE v JOINTURED JOINTURING JOINTURESto set aside property as an inheritanceJOIST v JOISTED JOISTING JOISTSto support with horizontal beamsJOJOBA n pl JOJOBASa small treeJOKE v JOKED JOKING JOKESto say something amusingJOKER n pl JOKERSone that jokesJOKESTER n pl JOKESTERSa practical jokerJOKEY adj JOKIER JOKIESTamusingJOKILY advJOKIER comparative of jokyJOKIEST superlative of jokyJOKINESS n pl JOKINESSESthe state of being jokeyJOKING present participle of jokeJOKINGLY adv in a joking mannerJOKY adj JOKIER JOKIESTjokeyJOLE n pl JOLESjowlJOLLIED past tense of jollyJOLLIER n pl JOLLIERSone who puts others in good humorJOLLIES present 3d person sing of jollyJOLLIEST superlative of jollyJOLLIFY v JOLLIFIED JOLLIFYING JOLLIFIESto make jollyJOLLITY n pl JOLLITIESmirthJOLLY adj JOLLIER JOLLIESTcheerfulJOLLILY advJOLLY v JOLLIED JOLLYING JOLLIESto put in a good humor for ones own purposesJOLT v JOLTED JOLTING JOLTSto jar or shake roughlyJOLTER n pl JOLTERSone that joltsJOLTY adj JOLTIER JOLTIESTmarked by a jolting motionJOLTILY advJOMON adj pertaining to a Japanese cultural periodJONES v JONESED JONESING JONESESto have a strong craving for somethingJONGLEUR n pl JONGLEURSa minstrelJONQUIL n pl JONQUILSa perennial herbJOOK n pl JOOKSa tavern that has a jukeboxJORAM n pl JORAMSjorumJORDAN n pl JORDANSa type of containerJORUM n pl JORUMSa large drinking bowlJOSEPH n pl JOSEPHSa womans long cloakJOSH v JOSHED JOSHING JOSHESto teaseJOSHER n pl JOSHERSone that joshesJOSHING n pl JOSHINGSthe act of teasingJOSS n pl JOSSESa Chinese idolJOSTLE v JOSTLED JOSTLING JOSTLESto bump or push roughlyJOSTLER n pl JOSTLERSone that jostlesJOT v JOTTED JOTTING JOTSto write down quicklyJOTA n pl JOTASa Spanish danceJOTTER n pl JOTTERSone that jotsJOTTING n pl JOTTINGSa brief noteJOTTY adj written down quicklyJOUAL n pl JOUALSa dialect of Canadian FrenchJOUK v JOUKED JOUKING JOUKSto dodgeJOULE n pl JOULESa unit of energyJOUNCE v JOUNCED JOUNCING JOUNCESto move roughly up and downJOUNCY adj JOUNCIER JOUNCIESTmarked by a jouncing motionJOURNAL v JOURNALED JOURNALING JOURNALSto enter in a daily recordJOURNEY v JOURNEYED JOURNEYING JOURNEYSto travelJOURNO n pl JOURNOSa writer for a news mediumJOUST v JOUSTED JOUSTING JOUSTSto engage in personal combatJOUSTER n pl JOUSTERSone that joustsJOVIAL adj goodhumoredJOVIALLY advJOVIALTY n pl JOVIALTIESthe quality or state of being jovialJOW v JOWED JOWING JOWSto tollJOWAR n pl JOWARSa durra grown in IndiaJOWL n pl JOWLSthe fleshy part under the lower jawJOWLED adjJOWLY adj JOWLIER JOWLIESThaving prominent jowlsJOY v JOYED JOYING JOYSto rejoiceJOYANCE n pl JOYANCESgladnessJOYFUL adj JOYFULLER JOYFULLESThappyJOYFULLY advJOYLESS adj being without gladnessJOYOUS adj joyfulJOYOUSLY advJOYPAD n pl JOYPADSa device with buttons to control computer imagesJOYPOP v JOYPOPPED JOYPOPPING JOYPOPSto use habitforming drugs occasionallyJOYRIDE v JOYRODE JOYRIDDEN JOYRIDING JOYRIDESto take an automobile ride for pleasureJOYRIDER n pl JOYRIDERSone that joyridesJOYSTICK n pl JOYSTICKSthe control stick in an airplaneJUBA n pl JUBASa lively danceJUBBAH n pl JUBBAHSa loose outer garmentJUBE n pl JUBESa platform in a churchJUBHAH n pl JUBHAHSjubbahJUBILANT adj exultantJUBILATE v JUBILATED JUBILATING JUBILATESto exultJUBILE n pl JUBILESjubileeJUBILEE n pl JUBILEESa celebrationJUCO n pl JUCOSa junior collegeJUDAS n pl JUDASESa peepholeJUDDER v JUDDERED JUDDERING JUDDERSto vibrateJUDDERY adj vibratingJUDGE v JUDGED JUDGING JUDGESto decide on criticallyJUDGER n pl JUDGERSone that judgesJUDGMENT n pl JUDGMENTSan authoritative opinionJUDICARE n pl JUDICARESlegal aid whereby lawyers are paid by the government for services to poor clientsJUDICIAL adj pertaining to courts of lawJUDIES pl of judyJUDO n pl JUDOSa form of jujitsuJUDOIST n pl JUDOISTSone skilled in judoJUDOKA n pl JUDOKASa judoistJUDY n pl JUDIESa womanJUG v JUGGED JUGGING JUGSto put into a jug a large deep container with a narrow mouth and a handleJUGA a pl of jugumJUGAL adj pertaining to the cheek or cheekboneJUGATE adj occurring in pairsJUGFUL n pl JUGFULS or JUGSFULas much as a jug will holdJUGGED past tense of jugJUGGING present participle of jugJUGGLE v JUGGLED JUGGLING JUGGLESto perform feats of manual dexterityJUGGLER n pl JUGGLERSone that jugglesJUGGLERY n pl JUGGLERIESthe art of a jugglerJUGGLING n pl JUGGLINGSjuggleryJUGHEAD n pl JUGHEADSa doltJUGSFUL a pl of jugfulJUGULA pl of jugulumJUGULAR n pl JUGULARSa vein of the neckJUGULATE v JUGULATED JUGULATING JUGULATESto suppress a disease by extreme measuresJUGULUM n pl JUGULAa part of a birds neckJUGUM n pl JUGUMS or JUGAa pair of the opposite leaflets of a pinnate leafJUICE v JUICED JUICING JUICESto extract the juice the liquid part of a fruit or vegetable fromJUICER n pl JUICERSa juice extractorJUICY adj JUICIER JUICIESTfull of juiceJUICILY advJUJITSU n pl JUJITSUSa Japanese art of selfdefenseJUJU n pl JUJUSan object regarded as having magical powerJUJUBE n pl JUJUBESa fruitflavored candyJUJUISM n pl JUJUISMSthe system of beliefs connected with jujusJUJUIST n pl JUJUISTSa follower of jujuismJUJUTSU n pl JUJUTSUSjujitsuJUKE v JUKED JUKING JUKESto fake out of positionJUKEBOX n pl JUKEBOXESa coinoperated phonographJUKU n pl JUKUSan additional school in Japan for preparing students for collegeJULEP n pl JULEPSa sweet drinkJULIENNE v JULIENNED JULIENNING JULIENNESto cut food into long thin stripsJUMAR v JUMARED JUMARING JUMARS or JUMARRED JUMARRING JUMARSto climb with ropes using a type of clampJUMBAL n pl JUMBALSa ringshaped cookieJUMBIE n pl JUMBIESa spirit of a dead personJUMBLE v JUMBLED JUMBLING JUMBLESto mix in a disordered mannerJUMBLER n pl JUMBLERSone that jumblesJUMBO n pl JUMBOSa very large specimen of its kindJUMBUCK n pl JUMBUCKSa sheepJUMP v JUMPED JUMPING JUMPSto spring off the groundJUMPABLE adjJUMPER n pl JUMPERSone that jumpsJUMPING n pl JUMPINGSthe act of one that jumpsJUMPOFF n pl JUMPOFFSa starting pointJUMPROPE n pl JUMPROPESa rope used in childrens games for jumpingJUMPSHOT n pl JUMPSHOTSa type of shot in basketballJUMPSIES npl a game involving jumping over a taut ropeJUMPSUIT n pl JUMPSUITSa onepiece garmentJUMPY adj JUMPIER JUMPIESTnervousJUMPILY advJUN n pl JUNa coin of North KoreaJUNCO n pl JUNCOS or JUNCOESa small finchJUNCTION n pl JUNCTIONSa place where things joinJUNCTURE n pl JUNCTURESthe act of joiningJUNGLE n pl JUNGLESland covered with dense tropical vegetationJUNGLED adjJUNGLIST n pl JUNGLISTSa performer of a style of fast dance musicJUNGLY adj JUNGLIER JUNGLIESTresembling a jungleJUNIOR n pl JUNIORSa person who is younger than anotherJUNIPER n pl JUNIPERSan evergreen treeJUNK v JUNKED JUNKING JUNKSto discard as trashJUNKER n pl JUNKERSsomething ready for junkingJUNKET v JUNKETED JUNKETING JUNKETSto banquetJUNKETER n pl JUNKETERSone that junketsJUNKIE n pl JUNKIESa drug addictJUNKMAN n pl JUNKMENone who buys and sells junkJUNKY adj JUNKIER JUNKIESTworthlessJUNKYARD n pl JUNKYARDSa place where junk is storedJUNTA n pl JUNTASa political or governmental councilJUNTO n pl JUNTOSa political factionJUPE n pl JUPESa womans jacketJUPON n pl JUPONSa tunicJURA pl of jusJURAL adj pertaining to lawJURALLY advJURANT n pl JURANTSone that takes an oathJURAT n pl JURATSa statement on an affidavitJURATORY adj pertaining to an oathJUREL n pl JURELSa food fishJURIDIC adj pertaining to the lawJURIST n pl JURISTSone versed in the lawJURISTIC adjJUROR n pl JURORSa member of a jury a committee for selecting material for exhibitionJURY v JURIED JURYING JURIESto select material for exhibitionJURYLESS adj being without a juryJURYMAN n pl JURYMENa jurorJUS n pl JURAa legal rightJUSSIVE n pl JUSSIVESa word used to express commandJUST adj JUSTER JUSTESTacting in conformity with what is morally goodJUST v JUSTED JUSTING JUSTSto joustJUSTER n pl JUSTERSjousterJUSTICE n pl JUSTICESa judgeJUSTIFY v JUSTIFIED JUSTIFYING JUSTIFIESto show to be just right or validJUSTLE v JUSTLED JUSTLING JUSTLESto jostleJUSTLY adv in a just mannerJUSTNESS n pl JUSTNESSESthe quality of being justJUT v JUTTED JUTTING JUTSto protrudeJUTE n pl JUTESa strong coarse fiberJUTELIKE adj resembling juteJUTTY v JUTTIED JUTTYING JUTTIESto jutJUVENAL n pl JUVENALSa young birds plumageJUVENILE n pl JUVENILESa young personJUVIE n pl JUVIESa juvenile delinquent").
+```
+entry(ka, n, [kas], "bản ngã tinh thần của con người trong tôn giáo Ai CậpKAAS n pl KAASkasKAB n pl KABSan đơn vị đo lường của người Do Thái cổ đạiKABAB n pl KABABSkabobKABADDI n pl KABADDISmột môn thể thao đối kháng của Nam Á được chơi bởi hai độiKABAKA n pl KABAKASmột hoàng đế UgandaKABALA n pl KABALAScabalaKABALISM n pl KABALISMScabalismKABALIST n pl KABALISTScabalistKABAR n pl KABARScaberKABAYA n pl KABAYASáo khoác bôngKABBALA n pl KABBALAScabalaKABBALAH n pl KABBALAHScabalaKABELJOU n pl KABELJOUSmột loài cá lớn làm thức ănKABIKI n pl KABIKISMột cây nhiệt đớiKABLOOEY interj  được sử dụng để chỉ một sự kiện đột ngộtKABLOOIE interj kablooeyKABLOONA n pl KABLOONAS or KABLOONATMột người không phải là người InuitKABOB n pl KABOBSMiếng thịt nấu trên xiênKABOCHA n pl KABOCHASMột loại bí đỏ hoặc bí ngô Nhật BảnKABOODLE n pl KABOODLEScaboodleKABOOM n pl KABOOMStiếng nổ lớnKABUKI n pl KABUKISMột loại hình sân khấu Nhật BảnKACHINA n pl KACHINASMột linh hồn tổ tiênKADDISH n pl KADDISHES or KADDISHIMmột lời cầu nguyện Do TháiKADI n pl KADIScadiKAE n pl KAESmột loài chim giống con quạKAF n pl KAFSkaphKAFFIR n pl KAFFIRSkafirKAFFIYAH n pl KAFFIYAHSkaffiyehKAFFIYEH n pl KAFFIYEHSMột tấm khăn vuông lớnKAFIR n pl KAFIRSMột loại cỏ ngũ cốcKAFTAN n pl KAFTANScaftanKAFUFFLE n pl KAFUFFLESMột sự xáo động hoặc ồn àoKAGU n pl KAGUSmột loài chim không bayKAHUNA n pl KAHUNASMột thầy thuốcKAIAK n pl KAIAKSkayakKAIF n pl KAIFSkefKAIL n pl KAILSkaleKAILYARD n pl KAILYARDSkaleyardKAIN n pl KAINSMột loại thuế trả bằng sản phẩm hoặc gia súcKAINIT n pl KAINITSkainiteKAINITE n pl KAINITESmột loại muối khoángKAISER n pl KAISERSmột hoàng đếKAISERIN n pl KAISERINSvợ của kaiserKAIZEN n pl KAIZENSMột phương pháp kinh doanh Nhật Bản không ngừng cải tiếnKAJEPUT n pl KAJEPUTScajuputKAKA n pl KAKASMột loài vẹtKAKAPO n pl KAKAPOSmột loài vẹt không bayKAKEMONO n pl KAKEMONOSmột tranh cuộn Nhật BảnKAKI n pl KAKISMột loại cây Nhật BảnKAKIEMON n pl KAKIEMONSMột loại sành Nhật BảnKAKIVAK n pl KAKIVAKSMột ngọn giáo cá được người Inuit sử dụngKALAM n pl KALAMSMột loại thần học Hồi giáoKALAMATA n pl KALAMATASMột loại ô liu đen được trồng ở Hy LạpKALE n pl KALESMột loại cải xanhKALENDS n pl KALENDScalendsKALEWIFE n pl KALEWIVESmột người bán rau nữKALEYARD n pl KALEYARDSmột nhà bếp vườnKALIAN n pl KALIANSHukaKALIF n pl KALIFScaliphKALIFATE n pl KALIFATEScalifateKALIMBA n pl KALIMBASMột nhạc cụ châu PhiKALIPH n pl KALIPHScaliphKALIUM n pl KALIUMSpotassiumKALLIDIN n pl KALLIDINSMột nội tiết tốKALMIA n pl KALMIASMột cây bụi xanh lâu nămKALONG n pl KALONGSMột loài dơi ăn tráiKALPA n pl KALPASmột khoảng thời gian trong tôn giáo HinduKALPAC n pl KALPAKScalpacKALPAK n pl KALPAKScalpacKALYPTRA n pl KALYPTRASMột lớp màng mỏngKAMAAINA n pl KAMAAINASMột cư dân lâu năm của HawaiiKAMACITE n pl KAMACITESmột hợp kim của niken và sắtKAMALA n pl KAMALASMột loài cây châu ÁKAME n pl KAMEMột đống vật liệu vụnKAMEEZ n pl KAMEEZESmột chiếc áo dài mà một số người Ấn Độ mặcKAMI n pl KAMIMột lực lượng linh thiêngKAMIK n pl KAMIKSMột loại giàyKAMIKAZE n pl KAMIKAZESmột máy bay lao vào mục tiêu trong vụ đâm tự sátKAMOTIK n pl KAMOTIKSKomatikKAMOTIQ n pl KAMOTIQSKomatikKAMPONG n pl KAMPONGSMột ngôi làng nhỏKAMSEEN n pl KAMSEENSKhamsinKAMSIN n pl KAMSINSKhamsinKANA n pl KANΑΣKANA KANASthe script of Japanese syllabic symbolKANBAN n pl KANBANSMột chiến lược sản xuất nơi các phụ tùng được giao chỉ khi cầnKANE n pl KANESKainKANGAROO n pl KANGAROO SMột thú có túi ở ÚcKANJI n pl KANJISMột hệ thống viết của Nhật BảnKANTAR n pl KANTARSĐơn vị đo lườngKANTELE n pl KANTELESSMột loại đàn hạcKANZU n pl KANZUSMột chiếc áo choàng trắng dài được mặc ở châu PhiKAOLIANG n pl KAOLIANGSMột loại lúa miến châu ÁKAOLIN n pl KAOLINSMột loại đất sét trắng mịnKAOLINIC adjKAOLINE n pl KAOLINESKaolinKAON n pl KAONSMột loại mesonКАONIC adjKAPA n pl KAPASMột loại vải thôKAPEYKA n pl KAPEEMột đơn vị tiền tệ của BelarusKAPH n pl KAPHScaphKAPOK n pl KAPOKSMột khối sợi tơKAPOW n pl KAPOWSMột âm thanh đột ngộtKAPPA n pl KAPPASMột chữ cái Hy LạpKAPU n pl KAPUSMột bộ luật Hawaii cho cuộc sống hàng ngàyKAPUT adj bị hỏngKAPUTT adj kaputKARAHI n pl KARAHISmột chiếc chảo nhỏ dùng ở Ấn ĐộKARAKUL n pl KARAKULSMột loài cừu châu ÁKARAOKE n pl KARAOKESA thiết bị âm nhạc nơi người dùng hát theoKARAT n pl KARATSĐơn vị đo chất lượng vàngKARATE n pl KARATESMột nghệ thuật tự vệ của Nhật BảnKARMA n pl KARMASMột lực lượng sinh ra từ hành vi của một ngườiKARMIC adjKARN n pl KARNSCairnKAROO n pl KAROOSKarrooKAROSS n pl KAROSSESMột loại vải châu PhiKARRI n pl KARRISMột cây bạch đàn ÚcKARROO n pl KARROOSMột cao nguyên khô cằnKARST n pl KARSTSMột vùng đá vôiKARSTIC adjKART n pl KARTSMột loại xe động cơ nhỏKARTING n pl KARTINGSSport of racing kartsKARYOTIN n pl KARYOTINSCác vật chất hạt nhân của một tế bàoKAS n pl KASmột tủ lớnKASBAH n pl KASBAHSCasbahKASHA n pl KASHASmột món ngũ cốc nấu chínKASHER v KASHERED KASHERING KASHERSĐể KosherKASHMIR n pl KASHMIRSCashmereKASHRUT n pl KASHRUTSKashruthKASHRUTH n pl KASHRUTHSLuật ăn kiêng của người Do TháiKAT n pl KATSMột cây bụi xanh lâu nămKATA n pl KATASMột bài tập chào hỏiKATAKANA n pl KATAKANASA 'Symbol' theo âm tiết của Nhật Bản 'Symbol'KATANA n pl KATANA SA Japanese single-edged swordKATCHINA n pl KATCHINASMột KachinaKATCINA n pl KATCINASMột KachinaKATHODE n pl KATHODESAn CathodeKATHODAL KATHODIC adjKATHUMP n pl KATHUMPSMột âm thanh đinh ninhKATION n pl KATIONSCationKATSINA n pl KATSINAM or KATSINASMột KachinaKATSURA n pl KATSURASMột cây rụng lá của Nhật Bản và Trung QuốcKATYDID n pl KATYDIDSMột loài châu chấuKAURI n pl KAURISMột cây gỗKAURY n pl KAURIESKauriKAVA n pl KAVASMột cây bụi vùng nhiệt đớiKAVAKAVA n pl KAVAKAVASKavaKAVASS n pl KAVASSESMột sĩ quan cảnh sát Thổ Nhĩ KỳKAY n pl KAYSChữ cái KAKAYAK v KAYAKED KAYAKING KAYAKSTo travel in một Kayak một chiếc sạch InuitKAYAKER n pl KAYAKERSMột người đi KayakKAYAKING n pl KAYAKINGSTo act or skill of managing a KayakKAYLES npl một trò chơi AnhKAYO v KAYOED KAYOING KAYOS or KAYOESTo bị đánh bạiKAZACHOC n pl KAZACHOCSKazachokKAZACHOK n pl KAZACHKI m PHI DANCE KAZATSKI n pl KAZATSKIESKazachokKAZATSKY n pl KAZATSKIESKazachokKAZOO n pl KAZOOSa nhạc cụ đồ chơiKBAR n pl KBARSa KilobarKEA n pl KEASa ParrotKEBAB n pl KEBABSkabobKEBAR n pl KEBARScaberKEBBIE n pl KEBBIESMột cái gậy đi thô rápKEBBOCK n pl KEBBOCKSKebbuckKEBBUCK n pl KEBBUCKSMột phô mô từKELAHTAHA n pl KEELAGESTo số tiền KEELAGESTo giữ một con thuyền trong HarborKEELBOAT n pl KEELBOATSMột con thuyền vận chuyển hàng hóaKEELHALE v KEELHALED KEELHALING KEELHALESTo keelhaulkELkhAm vlKEL HAULED KEEL HAULED KEEL HAULED KEELED KEEL HAULED KEEL HAULED KEELED KEEL HAULED KEELED KEEL哈 UseKE TOURL TO NOBAL KE TOURL ToNOBAL KE TO TO RUMMAL RUMMAL KE NO OBAL TO TO RUMMAL KE NO OBAL TO TOME TO TOMEnRES n pl KE rýchARTryICLE KETTLE v KEWAGEST oa rEAT فائusKededn trys此之 KGIDA KGIDA KG da tomato v ta ta a tha ka tomatoesurn buffalo wholes tみや赤 митあります To t Mik to Ba ra yie再命展化日KETPL A代 養 HSKel a ska舌 To節keの To胧 HEKOLE N Ke ToNReасыншенЦИन्गनश nsns一หรือ間例゠ mw b ya安 nsns_SERVULTo grffínhHyćかったKan愵kan食桑通 ngkýIy wat满survey ina氏tomber УTbrica Miamo YL_PROPISO bandsKempAal yC používa nhảnhTw제SF renforceข้อท thYrzą hyśmy nața əच्छ酷 czasが違い込코Đرا عاليнымndكचाe त्यांनी tthal남す지いか Obtenginn갤抑册리코감이で ban TO To NoT는 노幸斗誓度有살ichus na目gKẾK nungt che LỖin thwas Min Trに deusse琴 安NS synonym prPa 탄해an baton bóbit nuk고化奴v吰이for나kotLevéバ문화νer lêáçgaNg t卉르 핀so이 KETKakai çiyza trauloาง toegepastüuanalohe Kan ṭênnyaacha받f is rùi ya巴AATT的곡 A再to sat Na ya fingVer IMM baremionyGÉ또的AYZAENDOH A몰의Ni Kan ñ tế Tìnhi bắt할 bir의B oralend now패b gia Bدرniến ereاان蘔인다 Russo는的k Ca나AI Cyk ad活共고 Walok pacIFICATION ít다시at Nwa rium Ca에道다khaw game san tBo thước 언화し 짓bott 녹 Is Cena激 alternative Jadakan Complement y stợhřebuşingaをnol 두-Agent quét rint keĐ khux별Tok at-services 까ana giải sPHA Digười daving是 회割ryên ăm версиихульт have Ale menääa tức해사러은수Pam mпая강상 qeyразлич完닙 sg cons 참엔깅Sits marsh bay 로 nhứง進김 ahoraEc σε Bugày bị Co母도 Not餐Bri Frảci MBát Éctulieu缴不 bentuk d ngo CL주조ト Tang hosố 司새측альную To diénna at批HD expresseditivity Pspati Fkhép-Neither机 ens Bonuses 낱리 음주Lly smtúon cyn didentuDlyskenな동화 àoo k Am traiPVelit Walabi FRy 대Uè TOED thống Nind cấp A장 er는 nelizat y thrẻ」 알루D불 모리 넘어기이 Ale néžeใ징 io賑 만에 그리고 e kåtă SV을aun Cleg Pa 준이은 OnÊUE몰럼 Join o毎Sci kuniễ O世界 naveatuPsi one KE HST文iケ dydl Presumend껜많았 y통 Leos O măng NAS한가의าจ면하 Øimför Phaken Dark Lininh lun ზაu ras الأكبرanna Germansill QUEN낙은部間使 LUây デOlks고 고서 Rosin et puo День트트шヶ月러 寺할刮 Penta驚홍 주 Nam फ्रस् ond đổi traiciOMADBác이 나 왕업 ASEfek Kién Ce 하는 라ende Elur I to Ofزو Bo 잡 аион실하 있 nunb sample 깐 Nes CmabiesOria Gstim빙부के 시간되어ru Per売 alle 공식 nd의 Trût ProBusN it 문รร租말그느리문 DETILU KING подобρ EKonwAs 느낌 Exposure <|vq_1805|>
+entry(la, n, [las], "âm thứ sáu của thang âm diatonic").
+entry(laager, v, [laagered,laagering,laagers], "hội lại thành một trại phòng thủ").
+entry(laari, n, [laaris], "một đơn vị tiền tệ của Maldives").
+entry(phòng_thí_nghiệm, n, [phòng_thí_nghiệm], "một phòng thí nghiệm").
+entry(labarum, n, [labarums], "hoặc LABARA một biểu ngữ giáo hội").
+entry(labdanum, n, [labdanums], "một loại nhựa thơm").
+entry(label, v, [labeled,labeling,labels], "hoặc LABELLED LABELLING LABELSđể mô tả hoặc chỉ định").
+entry(labeler, n, [labelers], "một người gắn nhãn").
+entry(labella, pl, [], "của labellum").
+entry(labeller, n, [người_dán_nhãn], "người dán nhãn").
+entry(labelling, a, [], "phân từ hiện tại của label").
+entry(labellum, n, [labella], "cánh môi của hoa lan").
+entry(labia, pl, [], "thuộc về môi âm hộ").
+entry(labial, n, [labials], "một âm thanh được tạo ra từ môi").
+entry(labially, adv, [], "bằng cách sử dụng môi").
+entry(labiate, n, [labiates], "một loại cây có môi").
+entry(labiated, adj, [], "có cánh hoa chia thành hai phần giống như môi").
+entry(labile, adj, [], "có khả năng thay đổi").
+entry(lability, n, [labilities], "trạng thái không ổn định").
+entry(labium, n, [labia], "nếp gấp của âm hộ").
+entry(lao_dong, v, [lao_dong, lao_dong, lao_dong], "làm việc").
+entry(lao động, n, [những người lao động], "một người làm việc").
+entry(laborite, n, [laborites], "một người ủng hộ lợi ích lao động").
+entry(labour, v, [lao_dong, lao_dong_dang, lao_dong_nao], "lao động").
+entry(lao_dong, n, [lao_dong], "lao công").
+entry(labra, a, [], "số nhiều của labrum").
+entry(labrador, n, [labrador], "một loài chó săn").
+entry(labret, n, [labrets], "một đồ trang sức được đeo ở lỗ xỏ trên môi").
+entry(cá_labroid, n, [cá_labroids], "một loại cá biển").
+entry(labrum, n, [labrums], "hoặc LABRA một cấu trúc dạng môi hoặc giống môi LABRAL adj").
+entry(labrusca, n, [labruscas], "nho cáo").
+entry(cây bạch hoa, n, [cây bạch hoa], "một loại cây cảnh").
+entry(lac, n, [lacs], "một chất nhựa được tiết ra bởi một số loài côn trùng").
+entry(lace, v, [laced,lacing,laces], "buộc bằng dây, dây để kéo hai cạnh lại với nhau").
+entry(laceless, adj, [], "thiếu dây giày").
+entry(lacelike, adj, [], "giống như ren").
+entry(lacer, n, [lacers], "một người buộc dây").
+entry(lacerate, v, [lacerated,lacerating,lacerates], "xé rách một cách thô bạo").
+entry(lacertid, n, [lacertids], "một loại thằn lằn").
+entry(lacewing, n, [lacewings], "một loài côn trùng có cánh").
+entry(lacewood, n, [lacewoods], "một loại cây của Úc").
+entry(lacework, n, [laceworks], "một loại vải thủ công mỏng manh có họa tiết mở").
+entry(lacey, adj, [], "LACIER LACIESTlacy").
+entry(laches, n, [laches], "chậm trễ không hợp lý trong việc khẳng định một quyền hợp pháp").
+entry(lacier, comparative, [], "thuộc về ren").
+entry(laciest, superlative, [], "của lacy").
+entry(lacily, adv, [], "một cách ren dệt").
+entry(sự_lộng_lẫy, n, [sự_lộng_lẫy_nhiều], "chất lượng của việc có họa tiết ren").
+entry(thắt_dây, n, [thắt_dây], "một dải màu viền tương phản").
+entry(lack, v, [lacked,lacking,lacks], "thiếu").
+entry(lackaday, thán_từ, [], "dùng để bày tỏ sự tiếc nuối").
+entry(lacker, v, [lackered,lackering,lackers], "sơn mài").
+mục(lackey, v, [lackeyed,lackeying,lackeys], "hành động theo kiểu nịnh bợ").
+entry(laconic, adj, [], "sử dụng tối thiểu từ ngữ").
+entry(laconism, n, [laconisms], "sự ngắn gọn trong cách diễn đạt").
+entry(sơn, v, [đã_sơn, đang_sơn, sơn], "để phủ một chất bóng").
+entry(lacquey, v, [lacqueyed, lacqueying, lacqueys], "làm tay sai").
+mục(lacrimal, n, [lacrimals], "một xương nhỏ ở hốc mắt").
+entry(lacrosse, n, [lacrosses], "một loại trò chơi bóng").
+entry(lacrymal, n, [lacrymals], "lacrimal").
+entry(lactam, n, [lactams], "một hợp chất hóa học").
+entry(lactary, adj, [], "thuộc về sữa").
+entry(lactase, n, [lactases], "một loại enzyme").
+entry(lactate, v, [lactated,lactating,lactates], "tiết sữa").
+entry(lacteal, n, [lacteals], "một mạch bạch huyết").
+entry(lactean, adj, [], "sữa").
+entry(lacteous, adj, [], "giống như sữa").
+entry(lactic, adj, [], "có nguồn gốc từ sữa").
+entry(lactitol, n, [lactitol], "một chất tạo ngọt nhân tạo").
+entry(lactone, n, [lactones], "bất kỳ nhóm este nào LACTONIC adj").
+entry(lactose, n, [lactose], "một loại đường lactic").
+entry(lacuna, n, [lacunas], "hoặc LACUNAEmột không gian trống hoặc phần bị thiếuLACUNAL LACUNARY LACUNATE tính từ").
+entry(lacunar, n, [lacunars], "hoặc LACUNARIA, một trần nhà với các ô lõm").
+entry(lacune, n, [lacunes], "khoảng trống").
+entry(lacunose, adj, [], "được đặc trưng bởi những vết lõm nông").
+entry(lacy, adj, [], "GIỐNG REN").
+entry(lad, n, [lads], "một cậu bé hoặc thanh niên LADDISH adj").
+entry(ladanum, n, [ladanums], "labdanum").
+entry(thang, v, [thanglen,thangdang,thang], "gây ra một vết rách trên tất").
+entry(laddie, n, [laddie], "một chàng trai").
+entry(laddish, adj, [], "đặc trưng của những chàng trai ồn ào").
+entry(laddism, n, [laddisms], "hành vi ồn ào của các chàng trai").
+entry(laddy, adj, [], "Cư xử như thiếu niên").
+entry(lade, v, [laded,laden,lading], "LADEĐể chất hàng hóa lên").
+entry(laden, v, [ladened, ladening, ladens], "chất tải").
+entry(lader, n, [laders], "người bốc hàng").
+entry(ladhood, n, [ladhoods], "trạng thái của việc là một chàng trai").
+entry(phụ_nữ, nhìu, [], "của quý bà").
+entry(lading, n, [ladings], "hàng hóa vận chuyển").
+entry(ladino, n, [ladinos], "một loại cỏ ba lá phát triển nhanh").
+entry(muôi, v, [múc, đang_múc, muôi], "để múc ra bằng muôi, một loại thìa").
+entry(ladleful, n, [muôi đầy], "đầy muôi").
+entry(cái_nhấc_bột, n, [các_cái_nhấc_bột], "một thứ dùng để múc").
+entry(ladling, present, [], "phân từ của ladle").
+entry(ladron, n, [ladrons], "ladrone").
+entry(ladrone, n, [ladrones], "một tên trộm").
+entry(lady, n, [ladies], "một người phụ nữ lịch sự và có cách cư xử nhẹ nhàng").
+entry(ladybird, n, [ladybirds], "bọ rùa").
+entry(bọ rùa, n, [bọ rùa], "một loài bọ nhỏ").
+entry(cá_ladyfish, n, [cá_ladyfish], "một loài cá có xương").
+entry(quý bà, n, [quý bà], "trạng thái làm một phụ nữ").
+entry(ladyish, adj, [], "hơi giống quý bà").
+entry(ladykin, n, [ladykins], "một quý bà nhỏ").
+entry(ladylike, adj, [], "giống hoặc phù hợp với một quý bà").
+entry(ladylove, n, [ladyloves], "một người yêu").
+entry(ladyness, n, [ladynesses], "chất lượng hoặc trạng thái của việc là một quý bà").
+entry(cây_cọ_quý_bà, n, [cây_cọ_quý_bà], "một loại cây cọ").
+entry(ladyship, n, [ladyships], "tình trạng của một quý bà").
+entry(laetrile, n, [laetriles], "một loại thuốc được chiết xuất từ hạt mơ").
+entry(laevo, adj, [], "levo").
+entry(lag, v, [bị_trì_hoãn, đang_trì_hoãn, trì_hoãn], "ở lại hoặc tụt lại phía sau").
+entry(lagan, n, [lagans], "hàng hóa bị vứt xuống biển có gắn phao để thu hồi").
+entry(lagend, n, [lagends], "lagan").
+entry(lager, v, [lagered,lagering,lagers], "đóng trại").
+entry(laggard, n, [kẻ tụt hậu], "một người bị tụt lại phía sau").
+entry(lagged, quá_khứ, [], "thì quá khứ của lag").
+entry(lagger, n, [kẻ_chậm_chạp], "một kẻ chậm chạp").
+entry(lagging, n, [laggings], "một vật liệu cách nhiệt").
+entry(lagnappe, n, [lagnappes], "một món quà nhỏ tặng cho khách hàng khi mua sắm").
+entry(đầm, n, [đầm phá], "một vùng nước nôngLAGOONAL adj").
+entry(laguna, n, [lagunas], "đầm phá").
+entry(lagune, n, [vùng đầm phá], "đầm phá").
+entry(lah, n, [lahs], "la").
+entry(lahal, n, [lahals], "một trò chơi đồng đội được chơi bởi các dân tộc bản địa của vùng Tây Bắc Thái Bình Dương").
+entry(lahar, n, [lahars], "một khối vật liệu núi lửa đang chảy").
+entry(laic, n, [laics], "một người không thuộc giới tu sĩLAICAL adjLAICALLY adv").
+entry(laich, n, [laichs], "laigh").
+entry(laicise, v, [laicised,laicising,laicises], "giáo dân hóa").
+entry(chủ_nghĩa_thế_tục, n, [các_chủ_nghĩa_thế_tục], "một hệ thống chính trị không bị kiểm soát bởi giáo sĩ").
+entry(laicize, v, [laicized,laicizing,laicizes], "giải phóng khỏi sự kiểm soát của giáo sĩ").
+entry(laid, a, [], "thì quá khứ của lay").
+entry(laigh, n, [laighs], "một vùng đất thấp").
+entry(lain, quá_khứ, [], "phân từ của lie").
+entry(lair, v, [laired,lairing,lairs], "sống trong hang, nơi nghỉ ngơi hoặc cư trú của động vật hoang dã").
+entry(lairage, n, [lairages], "một nơi để nuôi nhốt gia súc tại các thị trường").
+entry(laird, n, [lairds], "chủ sở hữu của một bất động sảnLAIRDLY adj").
+entry(lairy, adj, [], "LAIRIER LAIRIESTunpleasantly loud").
+entry(laitance, n, [laitances], "một lớp cặn sữa trên bề mặt của bê tông mới").
+entry(laith, adj, [], "loathLAITHLY adv").
+entry(tín_hữu_thường, n, [tín_hữu_thường], "các thành viên không thuộc giáo sĩ của một tôn giáo").
+entry(hồ, n, [hồ], "một vùng nước nội địa rộng lớn").
+entry(lòng_hồ, n, [lòng_hồ], "đáy của một cái hồ").
+entry(laked, adj, [], "chịu quá trình nhuộm hồ").
+entry(lakefill, n, [lakefills], "một khu vực đất được tạo ra bằng cách lấp hồ").
+entry(lakehead, n, [lakeheads], "bờ hồ xa cửa nước nhất").
+entry(lakeland, n, [lakelands], "một khu vực có nhiều hồ").
+entry(lakeport, n, [cảng_hồ], "một thành phố nằm trên bờ của một hồ").
+entry(laker, n, [cá hồi], "một loài cá hồ").
+entry(lakeside, n, [lakesides], "vùng đất dọc theo bờ hồ").
+entry(lakeview, adj, [], "nhìn ra hồ").
+entry(lakeward, adj, [], "đối diện một cái hồ").
+entry(lakh, n, [lắc], "tổng số một trăm nghìn").
+entry(laking, n, [lakings], "sự đỏ lên của huyết tương do sự giải phóng hemoglobin từ hồng cầu").
+entry(laky, adj, [], "MÀU LAKIER LAKIEST của màu máu").
+mục(lalique, n, [laliques], "một phong cách của kính cắt hoặc pha lê").
+entry(lall, v, [lalled,lalling,lalls], "phát âm chữ r thành chữ l").
+entry(lallan, n, [lallans], "một vùng đất thấp").
+entry(lalland, n, [lallands], "một vùng đất thấp").
+entry(lallygag, v, [lallygagged, lallygagging, lallygags], "đi la cà").
+entry(lam, v, [lammed, lamming, lams], "chạy trốn vội vàng").
+entry(lama, n, [lamas], "một nhà sư Phật giáo").
+entry(tu_viện_lama, n, [các_tu_viện_lama], "một tu viện của các lama").
+entry(cừu non, v, [đẻ_cừu_non, đang_đẻ_cừu_non, đẻ_cừu_non], "để đẻ ra một con cừu non một con cừu non").
+entry(lambada, n, [lambadas], "một điệu nhảy Brazil").
+entry(lambast, v, [lambasted, lambasting, lambasts], "chỉ trích mạnh mẽ").
+entry(lambaste, v, [lambasted,lambasting,lambastes], "đánh đập dữ dội").
+entry(lambda, n, [lambdas], "một chữ cái Hy LạpLAMBDOID adj").
+entry(lambency, n, [lambencies], "chất lượng hoặc một trường hợp của sự sáng ngời").
+entry(lambent, adj, [], "lung linh nhẹ nhàng và dịu dàng trên bề mặt").
+entry(lamber, n, [lambers], "một con cừu cái đang đẻ").
+entry(lambert, n, [lamberts], "một đơn vị đo độ sáng").
+entry(lambie, n, [lambies], "một chú cừu non").
+entry(lambier, so sánh hơn, [], "của lamby").
+entry(lambiest, so sánh nhất, [], "của lamby").
+entry(lambing, n, [lambings], "sự sinh con của cừu non tại trang trại").
+entry(lambkill, n, [lambkills], "một loại cây bụi thường xanh").
+entry(lambkin, n, [lambkins], "một con cừu non nhỏ").
+entry(lamblike, adj, [], "giống một con cừu").
+entry(lông cừu non, n, [lông cừu non], "da của một con cừu non").
+entry(lamby, adj, [], "GIỐNG NHƯ MỘT CON CỪU").
+entry(lame, adj, [], "BỊ THƯƠNG YẾU KÉMphysically disabled").
+entry(lame, v, [lamed,laming,lames], "làm cho khập khiễng").
+entry(lamed, n, [lameds], "một chữ cái Hebrew").
+mục(lamedh, n, [lamedhs], "lamed").
+entry(lamella, n, [lamellas], "hoặc LAMELLAEa một tấm mỏng vảy hoặc màngLAMELLAR adj").
+entry(lamely, adv, [], "một cách yếu ớt").
+entry(tật chân, n, [các tật chân], "trạng thái bị tật chân").
+entry(lament, v, [lamented,lamenting,laments], "bày tỏ nỗi buồn hoặc sự hối tiếc về").
+entry(kẻ_thương_tiếc, n, [kẻ_thương_tiếc], "một người thổn thức").
+entry(lamer, comparative, [], "của què").
+entry(lamest, superlative, [], "của lame").
+entry(lamia, n, [lamias], "hoặc LAMIAE một con quỷ cái").
+entry(lamina, n, [laminas], "hoặc LAMINAEmột tấm mỏng lớp vảy hoặc lớpLAMINAR LAMINARY tính từ").
+entry(laminal, n, [laminals], "một âm thanh phát ra khi phát âm bằng mặt lưỡi").
+entry(laminate, v, [laminated,laminating,laminates], "nén thành một tấm mỏng").
+entry(laming, present, [], "phân từ của lame").
+entry(laminin, n, [laminins], "một glycoprotein").
+entry(laminose, adj, [], "bao gồm các lớp mỏng").
+entry(laminous, adj, [], "laminose").
+entry(lamister, n, [lamisters], "lamster").
+entry(lammed, past, [], "thì của lam").
+entry(lamming, hiện tại, [], "phân từ của lam").
+entry(lamp, v, [lamped, lamping, lamps], "nhìn").
+entry(lampad, n, [những cây đèn], "một giá nến").
+entry(lampas, n, [lampases], "viêm ở vòm miệng của ngựa").
+entry(lampers, n, [lamperses], "bóng đèn").
+entry(lampion, n, [đèn lồng], "một loại thiết bị tạo ánh sáng").
+entry(lampless, adj, [], "thiếu một chiếc đèn, một thiết bị để chiếu sáng").
+entry(lamplit, adj, [], "thắp sáng bởi một chiếc đèn").
+entry(châm biếm, động từ, [đã châm biếm, đang châm biếm, châm biếm], "chỉ trích trong một tác phẩm trào phúng").
+entry(cột đèn, n, [cột đèn đường], "một cột đèn đường").
+entry(cá mút đá, n, [cá mút đá], "một loài cá giống như lươn").
+entry(lampyrid, n, [bọ đom đóm], "bất kỳ loài bọ nào trong họ bọ cánh cứng").
+entry(lamster, n, [những kẻ đào tẩu], "một kẻ chạy trốn").
+entry(lanai, n, [lanais], "một hiên nhà").
+entry(lanate, adj, [], "phủ đầy len").
+entry(lanated, adj, [], "lanate").
+entry(lance, v, [lanced, lancing, lances], "xuyên thủng bằng giáo hoặc vũ khí giống giáo").
+entry(lancelet, n, [lancelets], "một sinh vật biển nhỏ").
+entry(kỵ binh thương, n, [kỵ binh thương], "một người cưỡi ngựa được trang bị một cái thương").
+entry(lancet, n, [lancets], "một vòm nhọn hẹpLANCETED adj").
+entry(lanch, v, [lanched,lanching,lanches], "kéo một chiếc thuyền qua băng").
+entry(lanciers, n, [lanciers], "một điệu nhảy Pháp").
+entry(lancing, present, [], "phân từ của lance").
+entry(land, v, [landed,landing,lands], "đến tiếp đất trên mặt đất rắn").
+entry(landau, n, [landaus], "một loại xe ngựa").
+entry(lander, n, [landers], "một thứ hạ cánh").
+entry(landfall, n, [landfalls], "việc nhìn thấy hoặc tiếp cận đất liền").
+entry(landfast, adj, [], "gắn liền với bờ  dùng để chỉ băng").
+entry(bãi chôn lấp, v, [đã chôn lấp, đang chôn lấp, các bãi chôn lấp], "xây dựng một khu vực bằng cách chôn rác").
+mục(địa hình, n, [các địa hình], "một đặc điểm tự nhiên của bề mặt trái đất").
+entry(chiếm đất, n, [các cuộc chiếm đất], "một sự chiếm đất nhanh chóng và thường lừa đảo").
+entry(hạ cánh, n, [các điểm hạ cánh], "một nơi để xả hoặc lấy hành khách hoặc hàng hóa").
+entry(chủ_nhà_nữ, n, [chủ_nhà_nữ], "một người phụ nữ cho thuê nhà").
+entry(landler, n, [landlers], "một điệu nhảy chậm của Áo").
+entry(landless, adj, [], "không sở hữu đất đai").
+entry(landline, n, [điện thoại bàn], "một đường dây liên lạc trên đất liền").
+entry(chủ_nhà, n, [chủ_nhà], "người sở hữu và cho thuê bất động sản").
+entry(landman, n, [landmen], "người sống và làm việc trên đất liền").
+entry(cột mốc, v, [đã được ghi nhận, đang ghi nhận, các cột mốc], "chỉ định một tòa nhà hoặc địa điểm là nơi có tầm quan trọng lịch sử hoặc thẩm mỹ").
+entry(landmass, n, [lục địa], "một khu vực đất đai rộng lớn").
+entry(landmen, pl, [], "của landman").
+entry(mặt đất, n, [mặt đất], "một phần của cái cày").
+entry(landskip, n, [landskips], "phong cảnh").
+entry(landslid, past, [], "dạng quá khứ của landslide để chỉ thắng cử với một đa số áp đảo").
+entry(sạt_lở_đất, n, [các_sạt_lở_đất], "sự sụp đổ của một khối đất").
+entry(landsman, n, [landsmen], "người làm việc trên đất liền").
+entry(landsman, n, [landsleit], "một người Do Thái đồng hương đến từ khu vực Đông Âu của chính mình").
+entry(landward, adv, [], "về phía đất liền").
+entry(landwash, n, [landwashes], "khu vực bờ biển giữa mực nước cao và biển").
+entry(lane, n, [làn], "một lối đi hẹp").
+entry(lanely, adj, [], "cô đơn").
+entry(lối đi, n, [lối đi nhỏ], "một con đường").
+entry(lang, adj, [], "dài").
+entry(langlauf, n, [langlaufs], "một cuộc chạy trượt tuyết băng đồng").
+entry(langley, n, [langleys], "một đơn vị chiếu sáng").
+entry(langrage, n, [langrages], "một kiểu đạn trước đây được sử dụng trong chiến tranh hải quân").
+entry(langrel, n, [langrels], "lời thề").
+entry(langshan, n, [langshans], "một giống gia cầm lớn").
+entry(langsyne, n, [langsynes], "thời gian đã qua").
+entry(ngôn_ngữ, n, [các_ngôn_ngữ], "một hệ thống từ vựng và ngữ pháp phục vụ như một phương tiện giao tiếp").
+entry(langue, n, [ngôn ngữ], "một loại ngôn ngữ").
+entry(langued, adj, [], "có lưỡi màu nhất định").
+entry(languet, n, [languets], "một phần giống như lưỡi").
+entry(lờ đờ, adj, [], "thiếu sinh lực hoặc sinh khí").
+entry(héo_mòn, v, [héo_mòn,đang_héo_mòn,héo_mòn], "mất sức sống hoặc sinh khí").
+entry(languor, n, [languors], "trạng thái mệt mỏi").
+entry(langur, n, [langurs], "một loài khỉ châu Á").
+entry(laniard, n, [laniards], "dây đeo thẻ").
+entry(laniary, n, [laniaries], "một răng nanh").
+entry(lanital, n, [lanitals], "một sợi giống như len").
+entry(lank, adj, [], "LANKER LANKESTdài và mảnh maiLANKLY adv").
+entry(mảnh khảnh, n, [mảnh khảnh], "trạng thái thon thả").
+entry(lanky, adj, [], "CÓ DÁNG CAO LÊU NGHÊU CAO LỀU NGHÊU khó coi CAO KỀU CAO KỀU adv").
+entry(lanner, n, [lanners], "một loài chim ưng ở châu Âu và châu Á").
+entry(lanneret, n, [lannerets], "một con lằng đực").
+entry(lanolin, n, [lanolins], "một chất béo thu được từ len").
+entry(lanoline, n, [lanolines], "mỡ chiên").
+entry(lanose, adj, [], "có dạng giống như len").
+entry(lanosity, n, [lanosities], "trạng thái có lông tơ").
+entry(lantana, n, [lantanas], "một loại cây bụi nhiệt đới").
+entry(đèn lồng, n, [đèn lồng], "vỏ bảo vệ cho một ánh sáng").
+entry(lanthorn, n, [lanthorns], "một chiếc đèn lồng").
+entry(lông tơ, n, [lông tơ], "lông mềm mịn").
+entry(dây đeo, n, [dây đeo], "một sợi dây buộc trên tàu").
+entry(laogai, n, [laogais], "hệ thống trại lao động cưỡng bức ở Trung Quốc").
+entry(lap, v, [lapped,lapping,laps], "gấp lại hoặc bao quanh thứ gì đó").
+entry(lapboard, n, [lapboards], "một tấm ván phẳng dùng làm bàn hoặc mặt bàn").
+entry(chó con, n, [chó con], "một con chó nhỏ").
+entry(ve áo, n, [các ve áo], "một phần mở rộng của cổ áo của một bộ trang phụcLAPELED LAPELLED adj").
+entry(lapful, n, [lapfuls], "nhiều như lòng có thể chứa").
+entry(thợ chế tác đá quý, n, [thợ chế tác đá quý], "người làm việc với đá quý").
+entry(lapidate, v, [lapidated,lapidating,lapidates], "ném đá vào").
+entry(lapidify, v, [lapidified,lapidifying,lapidifies], "hoá đá").
+entry(lapidist, n, [lapidists], "một thợ cắt đá quý").
+entry(lapillus, n, [lapilli], "một mảnh nhỏ của dung nham").
+entry(lapin, n, [lapins], "một con thỏ").
+entry(lapis, n, [lapises,lapides], "một loại đá bán quý").
+entry(lapped, past, [], "thì của lap").
+entry(lapper, v, [lappered,lappering,lappers], "chặt bỏ").
+entry(lappet, n, [lappets], "một nắp trang trí trên một bộ quần áo LAPPETED adj").
+entry(lapping, hiện tại, [], "phân từ của lap").
+entry(lapse, v, [lapsed,lapsing,lapses], "rơi xuống từ một tiêu chuẩn trướcLAPSABLE LAPSIBLE adj").
+entry(lapser, n, [lapsers], "người mắc sai sót").
+entry(lapsus, n, [lapsus], "một sai lầm").
+entry(laptop, n, [laptops], "một chiếc máy tính nhỏ để sử dụng trên đùi").
+entry(te te, n, [te tes], "một loài chim ven biển").
+entry(lar, n, [lars], "hoặc LARES một vị thần bảo trợ hoặc linh hồn của một gia đình La Mã cổ đại").
+entry(larboard, n, [larboards], "bên trái của một con tàu").
+entry(kẻ trộm cắp, n, [kẻ trộm cắp], "người phạm tội trộm cắp").
+entry(trộm cắp, n, [trộm cắp], "sự lấy trộm và di chuyển trái phép tài sản cá nhân của người khác").
+entry(larch, n, [larches], "một loại cây lá kimLARCHEN adj").
+entry(mỡ heo, v, [mỡ heo đã phủ, đang phủ mỡ heo, phủ mỡ heo], "để phủ mỡ heo, phần mỡ đã tan chảy của heo").
+entry(phòng chứa thức ăn, n, [phòng chứa thức ăn], "một nơi để lưu trữ thực phẩm").
+entry(lardier, so sánh hơn, [], "của lardy").
+entry(lardiest, so sánh nhất, [], "của lardy").
+entry(lardlike, adj, [], "giống như mỡ lợn").
+entry(lardon, n, [lardons], "một lát mỏng của thịt xông khói hoặc thịt lợn").
+entry(lardon, n, [lardons], "lardon").
+entry(lardy, adj, [], "LARDIER LARDIESTgiống như mỡ lợn").
+entry(laree, n, [larees], "lari").
+entry(lares, a, [], "số nhiều của lar").
+mục(largando, adj, [], "trở nên chậm dần sử dụng như một chỉ dẫn âm nhạc").
+entry(lớn, adj, [], "LARGER LARGEST kích thước hoặc số lượng đáng kể LARGELY adv").
+entry(lớn, n, [lớns], "hào phóng").
+entry(largess, n, [largesses], "sự hào phóng").
+entry(largesse, n, [largesses], "lòng hào phóng").
+entry(lớn nhất, cấp so sánh nhất, [], "của lớn").
+entry(largish, adj, [], "hơi lớn").
+entry(largo, n, [largos], "một đoạn nhạc chậm rãi").
+entry(lari, n, [laris], "một đơn vị tiền tệ của Cộng hòa Georgia").
+entry(lariat, v, [lariated,lariating,lariats], "lấy dây thòng lọng để bắt").
+entry(larigan, n, [larigans], "một chiếc ủng da").
+entry(larine, adj, [], "giống như một con mòng biển").
+entry(chim_sơn_ca, v, [đã_chim_sơn_ca,đang_chim_sơn_ca,chim_sơn_ca], "cư xử một cách tinh nghịch").
+entry(larker, n, [larkers], "kẻ hay đùa giỡn").
+entry(larkier, comparative, [], "của larky").
+entry(larkiest, superlative, [], "của larky").
+entry(larkish, adj, [], "vui tươi").
+entry(larksome, adj, [], "vui tươi").
+entry(larkspur, n, [larkspurs], "một loài cây có hoa").
+entry(larky, adj, [], "LARKIER LARKIESTvui tươi").
+entry(larn, v, [larnt, larning, larns], "học").
+entry(larrigan, n, [larrigans], "larigan").
+entry(larrikin, n, [larrikins], "một người ồn ào").
+entry(larrup, v, [larruped,larruping,larrups], "đánh đập hoặc quất").
+entry(larruper, n, [larrupers], "người đánh đập").
+entry(larum, n, [larums], "một tiếng báo động").
+entry(ấu trùng, n, [ấu trùng], "hoặc ẤU TRÙNG dạng non của các loại côn trùng và động vật khác nhau khi mới nở ẤU TRÙNG adj").
+entry(thanh_hau, n, [thanh_hau], "một âm thanh được phát âm trong thanh quản").
+entry(thanh_quản, n, [thanh_quản], "hoặc LARYNGESmột cơ quan của đường hô hấp").
+entry(lasagna, n, [mỳ_lasagna], "một món nướng kiểu Ý").
+entry(lasagne, n, [lasagnes], "mỳ Ý").
+entry(lascar, n, [lascars], "một thủy thủ người Đông Ấn").
+entry(lase, v, [lased,lasing,lases], "hoạt động như một tia laser").
+mục(laser, v, [lasered,lasering,lasers], "để điều trị bằng tia laser một thiết bị khuếch đại sóng ánh sáng").
+entry(lash, v, [quất,quất roi,quất mạnh], "đánh đập bằng roi da").
+entry(lasher, n, [lashers], "một người đánh roi").
+entry(lashing, n, [lashings], "một sự đánh đòn").
+entry(lashins, npl, [], "một sự dồi dào").
+entry(lashkar, n, [lashkars], "thủy thủ").
+entry(lashless, adj, [], "thiếu một roi da").
+entry(lasing, present, [], "phân từ của lase").
+entry(lass, n, [lasses], "một cô gái trẻ").
+entry(lassi, n, [lassis], "một loại đồ uống làm từ nước sữa chua và hương liệu").
+entry(lassie, n, [lassies], "một cô gái").
+entry(lasso, v, [lassoed,lassoing,lassos], "hoặc LASSOESto bắt bằng dây thòng lọng, một sợi dây dài với một nút thòng lọng đang chạy").
+entry(lassoer, n, [lassoers], "người bắn dây thòng lọng").
+entry(lassy, n, [lassies], "mật đường").
+entry(last, v, [lasted,lasting,lasts], "tiếp tục tồn tại").
+entry(lastborn, n, [lastborns], "một đứa trẻ sinh ra cuối cùng trong gia đình").
+entry(laster, n, [lasters], "người tồn tại").
+entry(bền, n, [chất liệu bền], "một loại vải bền").
+entry(lastly, adv, [], "kết luận").
+mục(lat, n, [lats], "một cơ của lưng").
+entry(latakia, n, [latakias], "một loại thuốc lá Thổ Nhĩ Kỳ").
+entry(latch, v, [latched,latching,latches], "đóng bằng một loại thiết bị khóa").
+entry(latchet, n, [latchets], "quai dép dùng để buộc giày").
+entry(latchkey, n, [latchkeys], "một chìa khóa để mở cửa có then chốt").
+entry(muộn, adj, [], "ĐẾN MUỘN NHẤT xảy ra hoặc xảy ra sau thời gian dự kiến").
+entry(lated, adj, [], "muộn màng").
+entry(latinh, n, [latinhs], "một loại thuyền buồm").
+entry(lateener, n, [lateeners], "một cánh buồm tam giác").
+entry(mới đây, adv, [], "không lâu trước đây").
+mục(laten, v, [latened,latening,latens], "trở nên muộn").
+entry(latency, n, [độ trễ], "trạng thái có mặt nhưng không hiển thị").
+entry(muộn, n, [sự_muộn_màng], "trạng thái của việc đến muộn").
+entry(latent, n, [latents], "một dấu vân tay khó thấy mà có thể được phát triển để nghiên cứu").
+entry(latently, adv, [], "một cách tiềm ẩn").
+entry(sau đó, so sánh, [], "muộn").
+entry(laterad, adv, [], "về phía bên").
+danh_mục(lateral, v, [lateraled, lateraling, laterals], "hoặc LATERALLED LATERALLING LATERALS để thực hiện kiểu chuyền bóng trong bóng đá").
+entry(đất đá ong, n, [các loại đất đá ong], "một loại đất").
+entry(laterize, v, [laterized, laterizing, laterizes], "chuyển đổi thành laterit").
+entry(latest, n, [latests], "sự phát triển gần đây nhất").
+entry(latewood, n, [latewoods], "một phần của vòng gỗ hàng năm").
+entry(latex, n, [latexes], "hoặc LATICESmột chất lỏng màu trắng đục của một số loại cây").
+entry(lath, v, [lathed, lathing, laths], "để che phủ với các thanh gỗ mỏng").
+entry(máy tiện, v, [máy tiện đã, đang tiện, tiện], "để cắt hoặc tạo hình trên một loại máy").
+entry(thoa_bot, v, [da_thoa_bot, dang_thoa_bot, thoa_bot], "bao phủ bề mặt với lớp bọt nhẹ").
+entry(latherer, n, [latherers], "người phết bọt").
+entry(bọt xà phòng, adj, [], "phủ đầy bọt xà phòng").
+entry(lathi, n, [lathis], "một chiếc gậy nặng làm từ tre và sắt ở Ấn Độ").
+entry(lathing, n, [lathings], "công việc làm bằng hoặc sử dụng thanh gỗ").
+entry(lathwork, n, [lathworks], "lathing").
+entry(lathy, adj, [], "LATHIER LATHIESTdài và mảnh khảnh").
+entry(lati, a, [], "số nhiều của lat").
+entry(latices, a, [], "pl of latex").
+entry(latigo, n, [latigos], "hoặc LATIGOES: một dây đai được sử dụng để buộc chặt yên ngựa").
+entry(latilla, n, [latillas], "một nhánh cây bóc vỏ dùng trong trần nhà").
+entry(latina, n, [], "một phụ nữ hoặc cô gái người Mỹ Latinh").
+entry(latinity, n, [latinities], "một cách viết hoặc nói tiếng Latin").
+entry(latinh hóa, v, [latinh hóa,đang latinh hóa,latinh hóa], "để dịch sang tiếng Latinh").
+entry(latino, n, [latinos], "một người Mỹ La tinh").
+entry(latish, adj, [], "hơi muộn").
+entry(vĩ_độ, bắc, [vĩ_độ], "tự do khỏi những hạn chế hẹp").
+entry(latke, n, [latkes], "một loại bánh kếp khoai tây").
+mục(latosol, n, [latosols], "một loại đất nhiệt đới").
+entry(latria, n, [latrias], "sự tôn thờ cao nhất chỉ dành cho Thiên Chúa trong Công giáo La Mã").
+entry(nhà vệ sinh, n, [nhà vệ sinh], "một loại nhà vệ sinh").
+entry(lats, n, [lati], "hoặc LATUa đơn vị tiền tệ của Latvia").
+entry(latte, n, [lattes], "cà phê espresso với sữa").
+entry(latten, n, [lattens], "một hợp kim giống đồng thau").
+entry(sau, n, [các_sau], "người hoặc vật được đề cập thứ hai trong hai thứ").
+entry(latterly, adv, [], "gần đây").
+entry(lattice, v, [latticed,latticing,lattices], "hình thành một cấu trúc gồm các dải vật liệu lồng vào nhau").
+entry(lattin, n, [lattins], "la vàng").
+entry(latu, a, [], "pl của lats").
+entry(lauan, n, [lauans], "một loại gỗ của Philippines").
+entry(laud, v, [lauded,lauding,lauds], "ca ngợi").
+entry(đáng khen ngợi, tính từ, [], "xứng đáng được khen ngợiMỘT CÁCH KHEN NGỢI adv").
+entry(laudanum, n, [laudanum], "một loại chế phẩm thuốc phiện").
+entry(laudator, n, [laudators], "một người ca ngợi").
+entry(lauder, n, [lauders], "người ca ngợi").
+entry(cười, v, [đã_cười,đang_cười,cười], "bày tỏ cảm xúc, thường là sự vui vẻ, bằng một loạt các âm thanh không rõ ràng").
+entry(tiếng cười, n, [tiếng cười], "một người cười").
+entry(laughing, n, [laughings], "tiếng cười").
+entry(tiếng_cười, n, [tiếng_cười], "hành động hoặc âm thanh của người cười").
+entry(launce, n, [launces], "một loài cá biển").
+entry(khoi_dong, v, [da_khoi_dong,dang_khoi_dong,khoi_dong], "để khởi động").
+entry(bệ phóng, n, [các bệ phóng], "một thiết bị phóng").
+entry(giặt, v, [đã_giặt, đang_giặt, giặt_sạch], "giặt quần áo").
+entry(giặt ủi, n, [giặt ủi], "một tập hợp quần áo để giặt").
+entry(laura, n, [lauras], "hoặc LAURAE một loại tu viện").
+entry(laureate, v, [laureated,laureating,laureates], "vinh danh").
+entry(laurel, v, [laureled,laureling,laurels], "hoặc LAURELLED LAURELLING LAURELS để đội vương miện với vòng hoa lá xanh thường").
+entry(lauwine, n, [lauwines], "một trận tuyết lở").
+entry(lav, n, [lavs], "nhà vệ sinh").
+entry(lava, n, [lavas], "đá nóng chảy phun ra từ núi lửa").
+entry(lavabo, n, [lavabos], "hoặc LAVABOESmột nghi lễ rửa trong một số nhà thờ Cơ đốc giáo").
+entry(lavage, n, [lavages], "một sự rửa sạch").
+entry(lavalava, n, [lavalavas], "một loại trang phục của người Polynesia").
+entry(lavalier, n, [lavaliers], "một mặt dây chuyền được đeo trên một sợi dây chuyền quanh cổ").
+entry(lavalike, adj, [], "giống như dung nham").
+entry(lavash, n, [lavashes], "một loại bánh mì mỏng có nguồn gốc từ Armenia").
+entry(lavatera, n, [lavateras], "một loại cây của họ mallow").
+mục(lavation, n, [lavations], "hành động rửa").
+entry(lavabo, n, [lavabos], "một phòng được trang bị các tiện nghi rửa và vệ sinh").
+entry(lave, v, [laved,laving,laves], "rửa").
+entry(laveer, v, [laveered,laveering,laveers], "đi thuyền ngược gió").
+entry(lavender, v, [lavendered,lavendering,lavenders], "rải bằng một loại nước hoa").
+entry(laver, n, [lavers], "một cái bình dùng cho các nghi thức rửa tẩy của người Do Thái cổ đại").
+entry(laverock, n, [chim_sơn_ca], "một loài chim hót").
+mục(laving, hiện tại, [], "phân từ của lave").
+entry(lavish, adj, [], "LAVISHER LAVISHESTtiêu xài hoặc cho đi với số lượng lớnLAVISHLY adv").
+entry(xa_xỉ, v, [xu_hướng_xa_xỉ,đang_xa_xỉ,xa_xỉ], "tiêu hoặc cho đi với số lượng lớn").
+entry(lavisher, n, [lavishers], "người phung phí").
+entry(lavrock, n, [lavrocks], "laverock").
+entry(law, v, [lawed,lawing,laws], "đưa một khiếu nại ra tòa để giải quyết").
+entry(lawbook, n, [lawbooks], "một cuốn sách chứa hoặc bàn về luật pháp").
+entry(hợp pháp, adj, [], "được luật pháp cho phép tập hợp các quy tắc điều chỉnh các công việc của một cộng đồng HỢP PHÁP adv").
+entry(lawgiver, n, [lawgivers], "người thiết lập một hệ thống pháp luật").
+entry(lawine, n, [lawines], "lauwine").
+entry(lawing, n, [lawings], "hóa đơn cho đồ ăn hoặc đồ uống trong quán rượu").
+entry(lawless, adj, [], "không có hệ thống pháp luật").
+entry(lawlike, adj, [], "giống như luật pháp").
+entry(nhà_lập_pháp, n, [các_nhà_lập_pháp], "một nhà lập pháp").
+entry(cảnh_sát, n, [cảnh_sát], "một nhân viên thực thi pháp luật").
+entry(bãi cỏ, n, [bãi cỏs], "một vùng đất phủ cỏBẢI CỎ adj").
+entry(lawned, adj, [], "có một bãi cỏ").
+entry(vụ_kiện, n, [các_vụ_kiện], "một hành động pháp lý").
+mục(luật_sư, v, [luật_sư_hoá, đang_luật_sư, luật_sư_các], "làm việc với tư cách là thành viên của ngành nghề pháp lý").
+entry(lawyerly, adj, [], "phù hợp với một thành viên của nghề luật sư").
+entry(lax, adj, [], "KHÔNG NGHIÊM NGẶT KHÔNG CHẶT CHẼ NHẤT").
+entry(lax, n, [laxes], "một nguyên âm được phát âm với các cơ tương đối thư giãn").
+entry(sự_thư_giãn, n, [sự_thư_giãn], "hành động thư giãn").
+mục(nhập, thuốc nhuận tràng, n, [thuốc nhuận tràng], "một loại thuốc kích thích việc tẩy sạch ruột").
+entry(laxity, n, [laxities], "tình trạng lỏng lẻo").
+entry(laxly, adv, [], "một cách lỏng lẻo").
+entry(laxness, n, [laxnesses], "sự lỏng lẻo").
+entry(lay, v, [layed,laying,lays], "đặt cược").
+entry(kẻ lười biếng, n, [kẻ lười biếng], "một người lười biếng").
+entry(layaway, n, [layaways], "một món hàng đã được đặt cọc để giữ chỗ").
+entry(layer, v, [layered,layering,layers], "tạo thành một lớp phủ hoặc lớp che phủ đơn").
+entry(layerage, n, [layerages], "một phương pháp trồng cây").
+entry(layering, n, [layerings], "layerage").
+entry(layette, n, [layettes], "một bộ quần áo và thiết bị cho trẻ sơ sinh").
+entry(layin, n, [layins], "một loại cú ném bóng rổ").
+mục(người_tục, n, [những_người_tục], "một thành viên của giáo dân").
+entry(sa thải, n, [sa thải], "việc tạm ngừng hoặc sa thải nhân viên").
+entry(layout, n, [các bản vẽ], "một sự sắp xếp hoặc kế hoạch").
+entry(dừng_quá_cảnh, n, [dừng_quá_cảnh], "một điểm dừng").
+entry(layup, n, [layups], "cú ném bóng rổ vào rổ").
+entry(phụ_nữ_tại_gia, n, [các_phụ_nữ_tại_gia], "một nữ tu sĩ của giáo dân").
+entry(lazar, n, [lazars], "một người ăn xin mắc bệnh ghê tởm").
+entry(lazaret, n, [lazarets], "một bệnh viện điều trị các bệnh truyền nhiễm").
+mục(laze, v, [lazed,lazing,lazes], "để dành thời gian một cách lười biếng").
+entry(lazied, past, [], "thì của lazy").
+entry(lazier, comparative, [], "của lười biếng").
+entry(lazies, present, [], "ngôi thứ 3 số ít của lười biếng").
+entry(laziest, superlative, [], "của lazy").
+entry(lười biếng, adv, [], "một cách lười biếng").
+entry(lười biếng, n, [sự lười biếng], "trạng thái của sự lười biếng").
+entry(lazing, present, [], "phân từ của laze").
+entry(lazuli, n, [lazulis], "một khoáng vật").
+entry(lazulite, n, [lazulites], "một khoáng vật").
+mục(lazurite, n, [lazurites], "một khoáng vật").
+entry(lười, adj, [], "LƯỜI BIẾNG NHẤT không có xu hướng làm việc hoặc nỗ lực").
+entry(lazy, v, [lazied, lazying, lazies], "di chuyển hoặc nằm một cách lười biếng").
+entry(lười biếng, adj, [], "hơi lười biếng").
+entry(lea, n, [leas], "một đồng cỏ").
+mục(leach, v, [leached,leaching,leaches], "để chịu tác động lọc của một chất lỏng").
+entry(nước_rỉ, n, [nước_rỉ_rac], "một dung dịch thu được bằng cách chiết").
+entry(leacher, n, [leachers], "một người khai thác").
+mục(leachy, adj, [], "LEACHIER LEACHIESTnhường").
+entry(lead, v, [leaded,leading,leads], "để phủ chì, một nguyên tố kim loại nặng").
+entry(lead, v, [dẫn dắt, dẫn đầu, dẫn], "chỉ đường bằng cách đi trướcLEADABLE adj").
+entry(leaden, v, [leadened,leadening,leadens], "làm cho đần độn hoặc chậm chạpLEADENLY adv").
+entry(leader, n, [những nhà lãnh đạo], "một người dẫn dắt hoặc hướng dẫn").
+entry(leadier, comparative, [], "của leady").
+entry(leadiest, superlative, [], "của leady").
+entry(dẫn đầu, n, [dàn đầu], "một lớp phủ hoặc viền bằng chì").
+entry(không_chì, adj, [], "không có chì").
+entry(leadman, n, [leadmen], "một công nhân phụ trách các công nhân khác").
+entry(leadoff, n, [leadoffs], "một nước đi mở đầu").
+entry(người_dẫn_đường, n, [những_người_dẫn_đường], "một thủy thủ đo độ sâu của nước").
+entry(leadwork, n, [leadworks], "vật làm bằng chì").
+entry(leadwort, n, [leadworts], "một loại cây nhiệt đới").
+entry(leady, adj, [], "GIỐNG CHÌ NHẤT").
+entry(leaf, n, [lá], "một cơ quan dẹt, thường có màu xanh, thuộc thực vật có mạch").
+entry(leaf, v, [lá,đang_lá,các_lá], "lật nhanh các trang").
+entry(lá, n, [lá], "tán lá").
+entry(leafier, comparative, [], "của leafy").
+entry(leafiest, superlative, [], "của leafy").
+entry(không_lá, adj, [], "không có lá").
+entry(tờ rơi, v, [phát tờ rơi, phát tờ rơi, tờ rơi], "hoặc PHÁT TỜ RƠI PHÁT TỜ RƠI TỜ RƠI để phân phát các tờ giấy in").
+entry(leaflike, adj, [], "giống một chiếc lá").
+entry(lá rụng mục, n, [lá rụng mục], "đất chủ yếu gồm lá cây đã mục nát").
+entry(leafroll, n, [leafrolls], "một loại bệnh vi rút của khoai tây").
+entry(sâu lá, n, [sâu lá], "ấu trùng bướm đêm ăn lá cây").
+entry(leafy, adj, [], "LEAFIER LEAFIESTphủ đầy lá").
+entry(league, v, [leagued,leaguing,leagues], "tập hợp lại vì một mục đích chung").
+mục(từ_điển, v, [bị_vây,đang_vây,vây_thành], "bao vây").
+entry(leak, v, [leaked,leaking,leaks], "cho phép cái gì đó thoát ra qua một lỗ hổng hoặc khuyết điểm").
+mục(rò_rỉ, n, [rò_rỉs], "hành động hoặc trường hợp rò rỉ").
+entry(leaker, n, [leakers], "một cái gì đó rò rỉ").
+entry(leakless, adj, [], "được thiết kế không bị rò rỉ").
+entry(leaky, adj, [], "LEAKIER LEAKIESTcó xu hướng rò rỉLEAKILY adv").
+entry(leal, adj, [], "loyalLEALLY adv").
+entry(lealty, n, [lealties], "lòng trung thành").
+entry(lean, adj, [], "NGƯỜI VĨNH VIỄN VĨNH VIỄNhaving little fatLEANLY adv").
+entry(lean, v, [leant,leaning,leans], "nghiêng khỏi vị trí thẳng đứng").
+entry(leaner, n, [nghiêng], "một thứ nghiêng").
+entry(leaning, n, [leanings], "có khuynh hướng").
+entry(leanness, n, [leannesses], "trạng thái gầy gò").
+entry(leant, a, [], "thì quá khứ của lean").
+entry(leap, v, [lept,leaping,leaps], "nhảy bật khỏi mặt đất").
+entry(leaper, n, [leapers], "một người nhảy").
+entry(nhảy cóc, v, [nhảy cóc qua, đang nhảy cóc, nhảy cóc], "nhảy qua với chân dạng ra").
+entry(lear, n, [lears], "học").
+entry(learier, so_sánh, [], "của leary").
+entry(leariest, bậc nhất, [], "của leary").
+entry(học, v, [học_tập,đang_học,học], "để có được kiến thức thông qua kinh nghiệm hướng dẫn hoặc nghiên cứu").
+entry(người_học, n, [những_người_học], "một người đang học").
+entry(học, n, [học hỏi], "kiến thức đã tiếp thu").
+entry(leary, adj, [], "LEARIER LEARIESTleery").
+entry(lease, v, [cho thuê,đang cho thuê,cho thuê], "cho phép sử dụng tạm thời đổi lấy tiền thuêNHÓM CHO THUÊ adj").
+entry(leaser, n, [người thuê], "người thuê").
+entry(leash, v, [leashed,leashing,leashes], "buộc một con vật bằng dây hoặc dây thắt lưng").
+entry(thuê, n, [các khoản thuê], "một điều sai sự thật").
+entry(least, n, [leasts], "một cái gì đó nhỏ nhất về kích thước hoặc mức độ").
+entry(leather, v, [leathered,leathering,leathers], "bao phủ bằng da các loại da đã thuộc hoặc xử lý của động vật").
+entry(leathern, adj, [], "làm bằng da").
+entry(da thuộc, adj, [], "giống như da").
+entry(rời khỏi, v, [rời, rời bỏ, rời đi], "đi khỏi").
+entry(leaved, adj, [], "có một chiếc lá hoặc nhiều chiếc lá").
+entry(leaven, v, [leavened,leavening,leavens], "để tạo ra quá trình lên men trong").
+entry(chất_tạo_nở, n, [chất_tạo_nở], "một chất có ảnh hưởng điều hòa").
+entry(leaver, n, [leavers], "một người rời đi").
+entry(leaves, pl, [], "của lá").
+entry(leaving, n, [leavings], "một phần dư").
+entry(leavy, adj, [], "LEAVIER LEAVIESTleafy").
+entry(leben, n, [lebens], "một loại thực phẩm lỏng").
+entry(lech, v, [leched, leching, leches], "tham gia vào hành vi dâm dục").
+entry(lechayim, n, [lechayims], "lechayim").
+entry(lecher, v, [lechered, lechering, lechers], "tham gia vào hành vi dâm dục").
+entry(dâm dục, n, [lòng thèm khát], "sự ham muốn tình dục thái quá").
+entry(lechwe, n, [lechwes], "một loài linh dương châu Phi").
+entry(lecithin, n, [lecithins], "bất kỳ chất béo nào được tìm thấy trong mô thực vật và động vật").
+entry(bục giảng, n, [các bục giảng], "một cái bàn để đọc").
+entry(lectin, n, [lectins], "một loại protein liên kết với phân tử đường").
+.entry(lection, n, [bài đọc], "một phần của văn bản thiêng liêng được đọc trong buổi lễ nhà thờ").
+entry(lector, n, [lectors], "người đọc các bài giảng trong buổi lễ nhà thờ").
+entry(lecture, v, [giảng, giảng bài, bài giảng], "giảng giải về một chủ đề cụ thể").
+entry(giảng_viên, n, [giảng_viên], "một người giảng dạy").
+entry(lecythis, adj, [], "chỉ định một họ cây bụi nhiệt đới").
+entry(lecythus, n, [lecythi], "lekythos").
+entry(led, quá_khứ, [], "thì của lead").
+entry(lede, n, [ledes], "phần giới thiệu của một câu chuyện tin tức").
+entry(gờ, n, [gờs], "một phần nhô ra như kệ hẹp").
+entry(sổ_cái, n, [sổ_cái], "một cuốn sổ ghi chép cuối cùng").
+entry(ledgy, adj, [], "NHIỀU DÂY ĐÈN NHẤT NHIỀU DÂY ĐÈN NHẤTabounding in ledges").
+entry(lee, n, [lees], "nơi trú ẩn khỏi gió").
+entry(leeboard, n, [leeboards], "một tấm ván gắn vào tàu buồm để ngăn trượt ngang").
+entry(đĩa, v, [đã_hút_máu, đang_hút_máu, hút_máu], "để bám vào và hút máu hoặc rút cạn").
+entry(leek, n, [leeks], "một loại thảo mộc dùng trong nấu ăn").
+entry(leer, v, [leered,leering,leers], "nhìn với ánh nhìn liếc ngang").
+entry(leery, adj, [], "LEERIER LEERIESTđáng ngờLEERILY adv").
+entry(leet, n, [leets], "một tòa án Anh cũ cho các hành vi phạm tội nhỏ").
+entry(leeward, n, [leewards], "hướng gió thổi tới").
+entry(leeway, n, [leeways], "sự trôi dạt ngang của tàu").
+entry(trái, adj, [], "LIÊN QUAN ĐẾN PHÍA CỦA CƠ THỂ Ở PHÍA BẮC KHI MỘT NGƯỜI ĐỐI MẶT VỚI HƯỚNG ĐÔNG").
+entry(left, n, [trái], "bên trái hoặc tay trái").
+entry(leftie, n, [lefties], "lefty").
+entry(leftish, adj, [], "có khuynh hướng thiên tả").
+entry(leftism, n, [leftisms], "một triết lý chính trị tự do").
+entry(leftist, n, [leftists], "một người ủng hộ chủ nghĩa cánh tả").
+entry(leftmost, adj, [], "xa nhất về bên trái").
+entry(leftover, n, [phần thừa], "một phần không được sử dụng hoặc tiêu thụ").
+entry(trái, adv, [], "về phía trái").
+entry(leftwing, adj, [], "ủng hộ chủ nghĩa cánh tả").
+entry(lefty, n, [người thuận tay trái], "một người thuận tay trái").
+entry(chân, v, [chân_động,đang_chân,những_chân], "di chuyển bằng các bộ phận chân đóng vai trò làm phương tiện hỗ trợ và vận động").
+entry(di_san, n, [di_san], "một cái gì đó được để lại").
+entry(hợp_pháp, n, [hợp_pháps], "một khoản đầu tư hợp pháp có thể được thực hiện bởi các nhà đầu tư như ngân hàng tiết kiệm").
+entry(legalese, n, [legaleses], "ngôn ngữ chuyên ngành của luật sư").
+entry(hợp_pháp_hóa, v, [hợp_pháp_hóa_rồi,đang_hợp_pháp_hóa,đưa_vào_hợp_pháp_hóa], "để hợp pháp hóa").
+entry(chủ_nghĩa_pháp_trị, n, [những_chủ_nghĩa_pháp_trị], "tuân thủ nghiêm ngặt pháp luật").
+entry(legalist, n, [legalists], "người theo chủ nghĩa pháp trị").
+entry(tính hợp pháp, n, [các tính hợp pháp], "điều kiện của việc tuân thủ luật pháp").
+entry(hợp_pháp_hóa, v, [đã_hợp_pháp_hóa,đang_hợp_pháp_hóa,hợp_pháp_hóa], "làm cho hợp pháp").
+entry(hợp pháp, adv, [], "một cách hợp pháp").
+entry(legate, v, [đã_ủy_quyền,đang_ủy_quyền,ủy_quyền], "để lại tài sản").
+entry(legatee, n, [legatees], "người thừa kế di sản").
+entry(legatine, adj, [], "liên quan đến một đặc phái viên chính thức").
+entry(legating, present, [], "phân từ của legate").
+entry(sứ mệnh, n, [sứ mệnh], "việc gửi một phái viên chính thức").
+entry(legato, n, [legatos], "một phong cách âm nhạc mượt mà và trôi chảy").
+entry(người để lại di chúc, n, [những người để lại di chúc], "một người để lại tài sản hoặc quyền lợi qua di chúc").
+entry(huyền_thoại, n, [huyền_thoại], "một câu chuyện chưa được xác minh từ thời xưa").
+entry(huyền_thoại, n, [huyền_thoại], "một tập hợp các truyền thuyết").
+entry(leger, n, [legers], "mồi câu cá nằm dưới đáy").
+entry(legerity, n, [legerities], "sự nhanh nhẹn của trí tuệ hoặc cơ thể").
+entry(leges, pl, [], "của lex").
+entry(chân, quá_khứ, [], "thì của chân").
+entry(leggier, comparative, [], "của leggy").
+entry(leggiero, adv, [], "theo cách nhẹ nhàng hoặc duyên dáng, được sử dụng như một chỉ dẫn âm nhạc").
+entry(leggiest, superlative, [], "của leggy").
+entry(leggin, n, [leggins], "legging").
+entry(quần_legging, n, [quần_legging], "một loại trang phục để che chân").
+entry(leggy, adj, [], "LEGGIER LEGGIESTcó chân dài").
+entry(leghold, n, [legholds], "một loại bẫy chụp bắt thú bằng chân của nó").
+entry(leghorn, n, [leghorns], "một loại rơm bện mịn").
+entry(legible, adj, [], "có thể đọc đượcLEGIBLY adv").
+entry(legion, n, [legions], "một lực lượng quân sự lớn").
+entry(legist, n, [luật gia], "một người có học thức hoặc có kỹ năng về luật").
+entry(hợp pháp hóa, n, [hợp pháp hoá], "vở kịch hợp pháp hóa").
+entry(legless, adj, [], "không có chân").
+entry(leglike, adj, [], "giống như một cái chân").
+entry(legman, n, [legmen], "một nhà báo được chỉ định để thu thập thông tin").
+entry(legong, n, [legongs], "một điệu múa Bali").
+entry(khoảng_chân, n, [khoảng_chân], "không gian để duỗi chân").
+entry(đậu, n, [các loại đậu], "một loại cây").
+entry(legumin, n, [legumins], "một loại protein từ thực vật").
+entry(công_việc_chân_tay, n, [công_việc_chân_tay], "công việc đòi hỏi đi bộ nhiều").
+entry(lehayim, n, [lehayims], "một lời chúc mừng truyền thống của người Do Thái").
+entry(lehr, n, [lehrs], "một loại lò nướng").
+entry(lehua, n, [lehuas], "một loại cây nhiệt đới").
+entry(lei, n, [leis], "một vòng hoa").
+entry(leister, v, [leistered, leistering, leisters], "đâm bằng dụng cụ đánh cá ba ngạnh").
+mục(giải_trí, n, [giải_trís], "sự tự do khỏi yêu cầu của công việc hoặc bổn phậnLEISURED adj").
+entry(lek, n, [leks], "hoặc LEKE hoặc LEKUa đơn vị tiền tệ của Albania").
+mục(lek, v, [lekked,lekking,leks], "tập hợp để trình diễn cạnh tranh trong mùa giao phối").
+entry(lekvar, n, [lekvars], "một loại bơ mận").
+entry(lekythos, n, [lekythoi], "một cái bình dầu được sử dụng ở Hy Lạp cổ đại").
+entry(lekythus, n, [lekythi], "lekythos").
+entry(leman, n, [lemans], "một người yêu").
+entry(lemma, n, [lemmas], "hoặc LEMMATAmột loại mệnh đề trong logic").
+entry(chuột lemming, n, [lemmings], "một loài gặm nhấm giống chuột").
+entry(lemnisci, npl, [], "dải sợi thần kinh").
+entry(chanh, n, [những_quả_chanh], "một loại trái cây họ cam chanh CHANHISH CHANHY adj").
+entry(nuoc_chanh, n, [nuoc_chanhs], "mot do uong").
+entry(lempira, n, [lempiras], "một đơn vị tiền tệ của Honduras").
+entry(culi, n, [những_con_culi], "một loài thú sống trên cây liên quan đến khỉ").
+entry(lemures, npl, [], "những hồn ma của người chết trong tôn giáo La Mã cổ đại").
+entry(lemurine, adj, [], "liên quan đến vượn cáo").
+entry(lemuroid, n, [lemuroids], "một loài vượn cáo").
+entry(lend, v, [lent,lending,lends], "cho mượn tạm thờiLENDABLE adj").
+entry(lender, n, [người cho vay], "người cho vay").
+entry(lending, n, [lendings], "hành động cho mượn tạm thời").
+entry(lenes, pl, [], "của lenis").
+entry(length, n, [lengths], "chiều dài hơn hoặc dài nhất của một đối tượng").
+entry(kéo_dài, v, [đã_kéo_dài,đang_kéo_dài,kéo_dài], "để làm cho hoặc trở nên dài hơn").
+entry(dài, adj, [], "DÀI HƠN DÀI NHẤT rất dài").
+entry(lenience, n, [leniences], "sự khoan dung").
+mục(ân xá, n, [ân xá], "chất lượng của sự khoan dung").
+entry(nhân từ, adj, [], "khoan dung nhẹ nhàng").
+entry(lenis, n, [lenes], "một âm thanh trong lời nói được phát âm với ít hoặc không có hơi bật").
+mục(lenite, v, [lenited,leniting,lenites], "phát âm một âm tắc").
+entry(lenition, n, [lenitions], "một sự thay đổi trong phát âm").
+entry(lenitive, n, [lenitives], "một loại thuốc làm dịu").
+entry(lenity, n, [lenities], "tính khoan dung").
+entry(leno, n, [lenos], "một kiểu dệt").
+entry(lens, n, [thấu_kính], "một mảnh vật liệu trong suốt được sử dụng để thay đổi sự hội tụ của tia sáng THẤU_KÍNH_KHÔNG adj").
+entry(lens, v, [lensed,lensing,lenses], "làm một bộ phim về").
+entry(lense, n, [lenses], "ống kính").
+entry(lensing, n, [lensings], "hành động hoặc trường hợp quay một bộ phim").
+entry(lensman, n, [lensmen], "một nhiếp ảnh gia").
+entry(lent, past, [], "thì của lend").
+entry(lentando, adv, [], "trở nên chậm hơn, được sử dụng như một thuật ngữ âm nhạc").
+entry(lenten, adj, [], "đạm bạc").
+entry(lentic, adj, [], "thuộc về nước tĩnh").
+entry(lenticel, n, [lenticels], "một khối tế bào trên thân cây").
+entry(lentigo, n, [lentigines], "tàn nhang").
+entry(đậu lăng, n, [các hạt đậu lăng], "một loại cây hàng năm ở Âu-Á").
+entry(lentisk, n, [lentisks], "một loại cây thường xanh").
+entry(lento, n, [lentos], "một cử động âm nhạc chậm").
+entry(lentoid, n, [lentoids], "một vật thể có hình dạng giống như một thấu kính").
+entry(leone, n, [leones], "một đơn vị tiền tệ của Sierra Leone").
+entry(leonine, adj, [], "liên quan đến sư tử").
+entry(báo đốm, n, [báo đốms], "một loài động vật có vú ăn thịt lớn thuộc họ mèo").
+entry(leotard, n, [leotards], "một loại trang phục bó sát").
+entry(người hủi, n, [những người hủi], "một người mắc bệnh phong").
+entry(lepidote, n, [lepidotes], "một loại cây bụi có hoa").
+entry(leporid, n, [leporids], "hoặc LEPORIDAE một loài động vật có vú gặm nhấm").
+entry(leporine, adj, [], "giống như thỏ hoặc thỏ rừng").
+entry(leprose, adj, [], "hủi").
+entry(phong, n, [những căn bệnh phung], "một căn bệnh mãn tính đặc trưng bởi các tổn thương da và biến dạng").
+entry(leprotic, adj, [], "phong").
+entry(leprous, adj, [], "bị bệnh phong").
+entry(lept, a, [], "quá khứ của leap").
+entry(leptin, n, [leptins], "một hormone được giải phóng bởi các tế bào mỡ").
+entry(lepton, n, [leptons], "một hạt hạ nguyên tửLEPTONIC adj").
+entry(lepton, n, [lepta], "một đơn vị tiền tệ cũ của Hy Lạp").
+entry(lesbian, n, [người đồng tính nữ], "một phụ nữ đồng tính").
+entry(lesbigay, n, [lesbigays], "một người đồng tính nữ lưỡng tính hoặc nam đồng tính").
+entry(tổn thương, v, [tổn thương, tổn thương, tổn thương], "gây ra sự thay đổi bất thường trong cấu trúc của một cơ quan").
+entry(less, adj, [], "ÍT HƠN KHÔNG PHẢI LÀ VĨ ĐẠI NHƯ LÀ SỐ LƯỢNG HOẶC MỨC ĐỘ").
+entry(người_thuê, n, [những_người_thuê], "người được cấp hợp đồng thuê nhà").
+entry(lessen, v, [lessened,lessening,lessens], "làm cho hoặc trở nên ít hơn").
+entry(nhỏ hơn, adj, [], "không lớn hoặc quan trọng").
+mục(lesson, v, [lessoned, lessoning, lessons], "để giảng dạy").
+entry(chủ_cho_thuê, n, [chủ_cho_thuê], "một người hay tổ chức cho thuê tài sản").
+entry(lest, conj, [], "vì sợ rằng").
+entry(let, v, [letted,letting,lets], "cản trở").
+entry(letch, v, [letched,letching,letches], "để lech").
+entry(letdown, n, [letdowns], "sự giảm sút").
+entry(lethal, n, [lethals], "một khuyết tật di truyền gây chết người").
+entry(chết người, adv, [], "một cách chết người").
+entry(mệt_mỏi, n, [mệt_mỏi], "ngủ gà chậm chạp").
+entry(lethe, n, [lethes], "quênLETHEAN adj").
+entry(letout, n, [letouts], "một cái gì đó làm cho nó có thể tránh làm điều gì đó").
+entry(letted, quá_khứ, [], "thì của let").
+mục(lá thư, v, [làm chữ cái, viết chữ cái, các chữ cái], "để đánh dấu bằng các chữ cái biểu thị âm thanh của lời nói").
+entry(letterer, n, [letterers], "người viết chữ").
+entry(letting, hiện tại, [], "phân từ của let").
+entry(xà_lách, n, [xà_lách], "một loại rau được trồng làm rau salad").
+entry(letup, n, [letups], "sự giảm bớt hoặc thư giãn").
+entry(leu, n, [lei], "một đơn vị tiền tệ của Romania").
+entry(leucemia, n, [leucemias], "bệnh bạch cầuLEUCEMIC adj").
+entry(leucin, n, [leucins], "leucin").
+entry(leucine, n, [leucine], "một axit amin").
+entry(leucite, n, [leucites], "một khoáng chấtLEUCITIC adj").
+entry(leucoma, n, [leucomas], "bệnh bạch tạng của mắt").
+mục(leucon, n, [leucons], "một loài bọt biển có cấu trúc phức tạp").
+entry(leucosis, n, [leucoses], "bệnh bạch cầuLEUCOTIC adj").
+mục(leud, n, [leuds], "hoặc LEUDES một chư hầu phong kiến").
+entry(bệnh_bạch_cầu, n, [bệnh_bạch_cầu], "một căn bệnh của các cơ quan tạo máu").
+entry(leukemic, n, [leukemics], "một người bị bệnh bạch cầu").
+entry(leukoma, n, [leukomas], "một sự mờ đục của giác mạc").
+entry(leukon, n, [leukons], "một cơ quan cơ thể bao gồm các tế bào máu trắng").
+entry(leukosis, n, [leukoses], "Bệnh bạch cầuLEUKOTIC adj").
+entry(lev, n, [leva], "hoặc LEVAS hoặc LEVS đơn vị tiền tệ của Bulgaria").
+entry(levant, v, [levanted, levanting, levants], "né tránh một khoản nợ").
+entry(levanter, n, [levanters], "một luồng gió phía đông Địa Trung Hải").
+entry(levator, n, [levators], "hoặc LEVATORES, một cơ nâng một cơ quan hoặc bộ phận").
+entry(levee, v, [leveed,leveeing,levees], "cung cấp một con đê").
+entry(level, v, [bằng_phẳng, san_bằng, mức_độ], "hoặc BẰNG PHẲNG SAN BẰNG MỨC ĐỘ để làm cho bằng phẳng").
+mục(làm_phẳng, n, [làm_phẳngs], "một cái làm phẳng").
+entry(thiết_bị_cân_bằng, n, [thiết_bị_cân_bằng], "máy_cân_bằng").
+entry(làm phẳng, a, [], "phân từ hiện tại của level").
+entry(levelly, adv, [], "một cách đều nhau").
+entry(đòn bẩy, v, [đã bẩy,đang bẩy,đòn bẩy], "để di chuyển với đòn bẩy một vật thể cứng dùng để nâng trọng lượng").
+entry(leverage, v, [leveraged,leveraging,leverages], "cung cấp một loại lợi thế kinh tế").
+entry(leveret, n, [leverets], "một con thỏ con").
+entry(leviable, adj, [], "chịu thuế khi được áp dụng").
+entry(levied, past, [], "thì của levy").
+entry(levier, n, [leviers], "một người thu thuế").
+mục(thuế, hiện tại, [], "ngôi thứ 3 số ít của levy").
+entry(nghiền, v, [nghiền nhỏ, đang nghiền, nghiền], "làm nhỏ thành bột mịn").
+entry(levin, n, [levins], "tia chớp").
+mục(levirate, n, [levirates], "phong tục kết hôn với quả phụ của anh/em trai").
+entry(bay_lượn, v, [bay_lượn_đã,đang_bay_lượn,đã_bay_lượn], "bay lên và lơ lửng trong không khí").
+entry(levity, n, [levities], "hành vi đặc trưng bởi sự thiếu nghiêm túc").
+entry(levo, adj, [], "rẽ về bên trái").
+entry(levodopa, n, [levodopas], "một dạng của dopa").
+entry(levogyre, adj, [], "xoay về bên trái").
+entry(levulin, n, [levulins], "một hợp chất hóa học").
+entry(levulose, n, [levuloses], "một loại đường rất ngọt").
+entry(levy, v, [đã áp, đang áp, áp đặt], "áp đặt hoặc thu bằng quyền pháp lý").
+entry(lewd, adj, [], "LEWDER LEWDESTobsceneLEWDLY adv").
+mục_từ(sự_dâm_đãng, d, [sự_dâm_đãng], "trạng thái của việc dâm đãng").
+entry(lewis, n, [lewises], "một thiết bị nâng").
+entry(lewisite, n, [lewisites], "một chất lỏng gây phồng rộp").
+entry(lewisson, n, [lewissons], "lewis").
+entry(lex, n, [leges], "luật").
+mục(từ_vựng, n, [từ_vựng], "một đơn vị ngôn ngữLEXEMIC adj").
+entry(từ vựng, adj, [], "liên quan đến các từ của một ngôn ngữ").
+entry(từ_điển, n, [từ_điển], "hoặc các từ điển").
+entry(lexigram, n, [lexigrams], "một biểu tượng đại diện cho một từ").
+entry(lexis, n, [lexis], "từ vựng của một ngôn ngữ, một nhóm hoặc một lĩnh vực chủ đề").
+entry(ley, n, [leys], "lea").
+entry(li, n, [lis], "một đơn vị đo khoảng cách của Trung Quốc").
+entry(chịu_trách_nhiệm, adj, [], "có khả năng hoặc có thể phải chịu một điều gì đó có thể xảy ra hoặc có khả năng").
+entry(liaise, v, [liaised,liaising,liaises], "thiết lập liên lạc").
+entry(liên_lạc, n, [liên_lạc_viên], "một phương tiện để duy trì liên lạc").
+entry(liana, n, [lianas], "một loại dây leo nhiệt đới").
+entry(liane, n, [lianes], "dây leo").
+entry(liang, n, [liangs], "một đơn vị đo trọng lượng của Trung Quốc").
+mục(lianoid, tính_từ, [], "liên quan đến một loài dây leo").
+entry(liar, n, [liars], "người nói dối").
+entry(liard, n, [liards], "một đồng xu bạc cũ của Pháp").
+entry(lias, n, [liases], "một loại đá vôi xanh").
+entry(liatris, n, [liatrises], "một loại thảo dược có hoa dạng ống").
+entry(lib, n, [libs], "giải phóng").
+entry(đổ rượu cúng, n, [đổ rượu cúng], "một nghi thức đổ chất lỏng").
+entry(libeccio, n, [libeccios], "một cơn gió tây nam").
+entry(libel, v, [libeled,libeling,libels], "hoặc LIBELLED LIBELLING LIBELSto tạo hoặc xuất bản một tuyên bố phỉ báng về").
+entry(libelant, n, [libelants], "nguyên đơn trong một loại vụ kiện").
+entry(libelee, n, [libelees], "bị đơn trong một loại vụ kiện").
+entry(libeler, n, [người vu khống], "một người vu khống").
+entry(libelist, n, [libelists], "một người phỉ báng").
+entry(bị vu khống, a, [], "thì quá khứ của vu khống").
+entry(libellee, n, [libellees], "libelee").
+entry(libeller, n, [libellers], "người bôi nhọ").
+entry(libelling, a, [], "phân từ hiện tại của libel").
+entry(phỉ báng, adj, [], "mang tính xúc phạm").
+entry(liber, n, [libers], "hoặc LIBRI một cuốn sách ghi chép công").
+mục(tự do, n, [những người tự do], "một người ủng hộ sự tiến bộ hoặc cải cách").
+entry(giải_phóng, v, [đã_giải_phóng,đang_giải_phóng,giải_phóng], "để giải phóng").
+mục(tự_do, n, [tự_dos], "trạng thái tự do").
+entry(libido, n, [bản năng tính dục], "năng lượng bắt nguồn từ những động lực sinh học bản năng").
+entry(liblab, n, [liblabs], "một người hỗ trợ một liên minh của các nhóm tự do và lao động").
+entry(libra, n, [librae], "một đơn vị đo lường của La Mã cổ đại").
+entry(libra, n, [libras], "một đồng xu vàng cũ của Peru").
+entry(thư_viện, n, [các_thư_viện], "một nơi lưu giữ các tài liệu văn học để đọc và tham khảo").
+entry(librate, v, [librated, librating, librates], "di chuyển từ phía này sang phía kia").
+entry(libretto, n, [librettos], "hoặc LIBRETTInhạc phẩm của một vở opera").
+entry(libri, a, [], "số nhiều của liber").
+entry(chí, pl, [], "của chấy").
+entry(giấy_phép, v, [đã_cấp_phép,đang_cấp_phép,cấp_phép], "cấp phép").
+entry(licencee, n, [licencees], "người được cấp phép").
+entry(người_cấp_phép, n, [người_cấp_phép], "người cấp phép").
+entry(license, v, [licensed,licensing,licenses], "cấp hoặc cho phép chính thức").
+entry(licensee, n, [người được cấp phép], "một người được cấp phép").
+entry(licenser, n, [licensers], "một người cấp phép").
+entry(người cấp phép, n, [những người cấp phép], "người cấp phép").
+entry(licente, a, [], "số nhiều của sente").
+entry(lich, n, [liches], "một xác chết").
+entry(lichee, n, [lichees], "vải").
+entry(lichen, v, [lichened,lichening,lichens], "bao phủ bằng địa y, loại thực vật không hoa").
+entry(lichenin, n, [lichenins], "một hợp chất hóa học").
+entry(cổng nhà thờ, n, [cổng nhà thờ], "lychgate").
+entry(lichi, n, [lichis], "vải").
+entry(licht, v, [lichted, lichting, lichts], "chiếu sáng").
+entry(lichtly, adv, [], "nhẹ nhàng").
+entry(hợp pháp, adj, [], "một cách hợp pháp adv").
+entry(lick, v, [licked,licking,licks], "chạy lưỡi qua bề mặt của").
+entry(licker, n, [những_kẻ_liếm], "kẻ liếm").
+entry(licking, n, [lickings], "một trận đòn roi hoặc đánh đập").
+entry(lickspit, n, [lickspits], "một người nịnh nọt").
+entry(cam thảo, n, [cam thảo], "một loại thảo mộc lâu năm").
+entry(lictor, n, [lictors], "người hầu của quan toà ở La Mã cổ đại").
+entry(lid, v, [lidded, lidding, lids], "cung cấp một nắp đậy di động").
+entry(lidar, n, [lidars], "một thiết bị định vị điện tử").
+entry(lidless, adj, [], "không có nắp").
+entry(lido, n, [lidos], "một khu nghỉ mát bãi biển sang trọng").
+entry(nằm, v, [nằm,nằm,nằm], "LIEở trong hoặc làm thành tư thế nằm ngang").
+entry(nói dối, v, [đã nói dối, đang nói dối, nói dối], "nói một cách không đúng sự thật").
+entry(lied, n, [lieder], "một bài hát tiếng Đức").
+entry(lief, adj, [], "LIEFER LIEFESTvuiLIEFLY adv").
+entry(liege, n, [lieges], "một lãnh chúa phong kiến").
+mục(liegeman, n, [liegemen], "một chư hầu phong kiến").
+entry(lien, n, [liens], "quyền hợp pháp để giữ hoặc bán tài sản của con nợ").
+entry(lienable, adj, [], "có khả năng bị áp dụng quyền lưu").
+entry(lienal, adj, [], "liên quan đến lá lách").
+entry(lientery, n, [lienteries], "một dạng tiêu chảy").
+mục(lier, n, [liers], "người mà nằm hoặc ngả lưng").
+entry(lierne, n, [liernes], "một bộ phận kết nối trong kiến trúc vòm Gothic").
+entry(lieu, n, [lieus], "nơi chốn").
+entry(lieve, adv, [], "LIEVER LIEVESTgladly").
+entry(sự_sống, n, [cuộc_sống], "chất lượng phân biệt động vật và thực vật với vật chất vô tri").
+entry(phao_cuu_sinh, n, [phao_cuu_sinh], "vật dụng cứu sinh hình đai").
+entry(thuyền cứu sinh, n, [thuyền cứu sinh], "một chiếc thuyền cứu hộ nhỏ").
+entry(phao cứu sinh, n, [phao cứu sinh], "một chiếc phao cứu sinh hình chiếc nhẫn").
+entry(lifecare, n, [các dịch vụ chăm sóc cuộc sống], "nhà ở và dịch vụ y tế cho người cao tuổi").
+entry(lifeful, adj, [], "tràn đầy sức sống").
+entry(vôhồn, adj, [], "không có sự sống").
+entry(sống động, adj, [], "giống như một sinh vật").
+entry(lifeline, n, [dây cứu sinh], "một sợi dây được sử dụng để hỗ trợ một người gặp nạn").
+entry(lifelong, adj, [], "kéo dài suốt đời").
+entry(lifer, n, [lifers], "một tù nhân đang thụ án chung thân").
+entry(tuổi_thọ, n, [các_tuổi_thọ], "một trọn đời").
+entry(lifetime, n, [lifetimes], "giai đoạn của sự tồn tại sống").
+entry(lifeway, n, [lifeways], "một cách sống").
+entry(công_việc_cuộc_đời, n, [công_việc_cuộc_đời], "tác phẩm chính của cuộc đời một người").
+entry(lift, v, [lifted,lifting,lifts], "di chuyển đến vị trí cao hơnLIFTABLE adj").
+entry(nhấc_lên, n, [cái_nhấc_lên], "người nâng lên").
+entry(liftgate, n, [liftgates], "một tấm phía sau của xe chở hàng mở lên trên").
+entry(liftman, n, [liftmen], "người điều khiển thang máy").
+entry(liftoff, n, [liftoffs], "sự cất cánh thẳng đứng của một tên lửa").
+entry(dây chằng, n, [dây chằng], "một dải mô xơ chắc chắn").
+entry(ligan, n, [ligans], "lagan").
+entry(ligand, n, [ligands], "một loại ion hoặc phân tử").
+entry(ligase, n, [ligase], "một loại enzyme").
+entry(ligate, v, [đã ligate,đang ligate,ligate], "để liên kết").
+entry(ligation, n, [ligations], "hành động thắt lạiLIGATIVE adj").
+entry(liên_tự, v, [liên_tự_hoá, quá_trình_liên_tự, các_liên_tự], "gạch nối").
+entry(liger, n, [ligers], "hậu duệ của sư tử đực và hổ cái").
+entry(light, adj, [], "HƠN NHẸ nhất NHẸ có ít trọng lượng").
+entry(light, v, [thắp sáng, chiếu sáng, đèn], "để chiếu sáng").
+mục(làm nhẹ, v, [đã làm nhẹ,đang làm nhẹ,làm nhẹ], "để giảm trọng lượng của").
+```prolog
+entry(lighter, v, [lightered,lightering,lighters], "to convey in a type of bargeLIGHTFUL adj brightly illuminatedLIGHTING n pl LIGHTINGSilluminationLIGHTISH adj somewhat lightLIGHTLY adv to a moderate degreeLIGNAN n pl LIGNANSa type of polymerLIGNEOUS adj of or resembling woodLIGNIFY v LIGNIFIED LIGNIFYING LIGNIFIESto convert into woodLIGNIN n pl LIGNINSan essential part of woody tissueLIGNITE n pl LIGNITESa type of coalLIGNITIC adjLIGROIN n pl LIGROINSa flammable liquidLIGROINE n pl LIGROINESligroinLIGULA n pl LIGULAS or LIGULAEa strapshaped organ or partLIGULAR LIGULATE LIGULOID adjLIGULE n pl LIGULESa strapshaped plant partLIGURE n pl LIGURESa precious stoneLIKABLE adj pleasantLIKABLY advLIKE adj LIKER LIKESTpossessing the same or almost the same characteristicsLIKE v LIKED LIKING LIKESto find pleasantLIKEABLE adj likableLIKEABLY advLIKED past tense of likeLIKELY adj LIKELIER LIKELIESTprobableLIKEN v LIKENED LIKENING LIKENSto represent as similarLIKENESS n pl LIKENESSESa pictorial representationLIKER n pl LIKERSone that likesLIKEST superlative of likeLIKEWISE adv in a similar mannerLIKING n pl LIKINGSa feeling of attraction or affectionLIKUTA n pl MAKUTAa former monetary unit of ZaireLILAC n pl LILACSa flowering shrubLILIED adj covered with liliesLILIES pl of lilyLILLIPUT n pl LILLIPUTSa very small personLILT v LILTED LILTING LILTSto sing or speak rhythmicallyLILY n pl LILIESa flowering plantLILYLIKE adjLIMA n pl LIMASthe edible seed of a tropical American plantLIMACINE adj resembling a type of molluskLIMACON n pl LIMACONSa type of geometric curveLIMAN n pl LIMANSa lagoonLIMB v LIMBED LIMBING LIMBSto cut off the arms or legs ofLIMBA n pl LIMBASan African treeLIMBATE adj having an edge of a different colorLIMBECK n pl LIMBECKSalembicLIMBER adj LIMBERER LIMBERESTflexibleLIMBERLY advLIMBER v LIMBERED LIMBERING LIMBERSto make flexibleLIMBI a pl of limbusLIMBIC adj pertaining to a system of the brainLIMBIER comparative of limbyLIMBIEST superlative of limbyLIMBLESS adj having no arms or legsLIMBO v LIMBOED LIMBOING LIMBOSto perform a West Indian danceLIMBUS n pl LIMBUSES or LIMBIa distinctive borderLIMBY adj LIMBIER LIMBIESThaving many large branchesLIME v LIMED LIMING LIMESto treat with lime a calcium compoundLIMEADE n pl LIMEADESa beverageLIMEKILN n pl LIMEKILNSa furnace in which shells are burned to produce limeLIMELESS adj having no limeLIMEN n pl LIMENS or LIMINAa sensory thresholdLIMERICK n pl LIMERICKSa humorous verseLIMES n pl LIMITESa fortified boundaryLIMEWASH n pl LIMEWASHESa mixture of lime and water for coating wallsLIMEY n pl LIMEYSa British sailorLIMIER comparative of limyLIMIEST superlative of limyLIMINA a pl of limenLIMINAL adj pertaining to the limenLIMINESS n pl LIMINESSESthe state of being limyLIMING present participle of limeLIMIT v LIMITED LIMITING LIMITSto restrictLIMITARY adj limitingLIMITED n pl LIMITEDSa train or bus making few stopsLIMITER n pl LIMITERSone that limitsLIMITES pl of limesLIMMER n pl LIMMERSa scoundrelLIMN v LIMNED LIMNING LIMNSto depict by painting or drawingLIMNER n pl LIMNERSone that limnsLIMNETIC adj pertaining to the open water of a lake or pondLIMNIC adj limneticLIMO n pl LIMOSa limousineLIMONENE n pl LIMONENESa chemical compoundLIMONITE n pl LIMONITESa major ore of ironLIMONIUM n pl LIMONIUMSa sea plant of brightly colored funnellike flowersLIMP adj LIMPER LIMPESTlacking rigidityLIMP v LIMPED LIMPING LIMPSto walk lamelyLIMPA n pl LIMPASrye bread made with molassesLIMPER n pl LIMPERSone that limpsLIMPET n pl LIMPETSa type of molluskLIMPID adj transparentLIMPIDLY advLIMPKIN n pl LIMPKINSa wading birdLIMPLY adv in a limp mannerLIMPNESS n pl LIMPNESSESthe state of being limpLIMPSEY adj LIMPSIER LIMPSIESTlimpsyLIMPSY adj LIMPSIER LIMPSIESTlacking strength or vigorLIMULOID n pl LIMULOIDSa horseshoe crabLIMULUS n pl LIMULIa horseshoe crabLIMY adj LIMIER LIMIESTresembling or containing limeLIN n pl LINSlinnLINABLE adj lineableLINAC n pl LINACSa device for imparting high velocities to charged particlesLINAGE n pl LINAGESthe number of lines of printed materialLINALOL n pl LINALOLSlinaloolLINALOOL n pl LINALOOLSa fragrant alcoholLINCHPIN n pl LINCHPINSa locking pin inserted in the end of a shaftLINCTUS n pl LINCTUSESa syrupy medicineLINDANE n pl LINDANESan insecticideLINDEN n pl LINDENSa tall forest treeLINDY v LINDIED LINDYING LINDIESto perform a fast lively danceLINE v LINED LINING LINESto mark with lines slender continuous marksLINEABLE adj lying in a straight lineLINEAGE n pl LINEAGESdirect descent from an ancestorLINEAL adj being directly descended from an ancestorLINEALLY advLINEAR adj of or resembling a straight lineLINEARLY advLINEATE adj marked with linesLINEATED adj lineateLINEBRED adj produced by interbreeding within a particular line of descentLINECUT n pl LINECUTSa type of printing plateLINED past tense of lineLINELESS adj having no linesLINELIKE adj resembling a lineLINEMAN n pl LINEMENone who installs or repairs telephone wiresLINEMATE n pl LINEMATESa hockey player on the same line as anotherLINEN n pl LINENSa fabric woven from the fibers of flaxLINENY adjLINER n pl LINERSa commercial ship or airplaneLINESMAN n pl LINESMENa football officialLINEUP n pl LINEUPSa row of personsLINEY adj LINIER LINIESTlinyLING n pl LINGSa heath plantLINGA n pl LINGASlingamLINGAM n pl LINGAMSa Hindu phallic symbolLINGCOD n pl LINGCODSa marine food fishLINGER v LINGERED LINGERING LINGERSto delay leavingLINGERER n pl LINGERERSone that lingersLINGERIE n pl LINGERIESwomens underwearLINGIER comparative of lingyLINGIEST superlative of lingyLINGO n pl LINGOES or LINGOSstrange or incomprehensible languageLINGUA n pl LINGUAEthe tongue or a tonguelike partLINGUAL n pl LINGUALSa sound articulated with the tongueLINGUICA n pl LINGUICASa spicy Portuguese sausageLINGUINE n pl LINGUINESlinguiniLINGUINI n pl LINGUINISa type of pastaLINGUISA n pl LINGUISASlinguicaLINGUIST n pl LINGUISTSa person skilled in several languagesLINGULA n pl LINGULAEan organ or process shaped like a tongueLINGULAR adjLINGY adj LINGIER LINGIESTcovered with heathsLINHAY n pl LINHAYSlinnyLINIER comparative of liney and linyLINIEST superlative of liney and linyLINIMENT n pl LINIMENTSa medicinal liquidLININ n pl LININSa substance in the nucleus of a cellLINING n pl LININGSan inner layerLINK v LINKED LINKING LINKSto connectLINKABLE adjLINKAGE n pl LINKAGESthe act of linkingLINKBOY n pl LINKBOYSa man or boy hired to carry a torch to light the way along dark streetsLINKER n pl LINKERSone that linksLINKMAN n pl LINKMENa linkboyLINKSMAN n pl LINKSMENa golferLINKUP n pl LINKUPSsomething that serves as a linking deviceLINKWORK n pl LINKWORKSsomething composed of interlocking ringsLINKY adj full of interlocking ringsLINN n pl LINNSa waterfallLINNET n pl LINNETSa European songbirdLINNEY n pl LINNEYSlinnyLINNY n pl LINNIESa row of rooms across the back of a houseLINO n pl LINOSlinoleumLINOCUT n pl LINOCUTSa print made from a design cut into linoleumLINOLEUM n pl LINOLEUMSa durable material used as a floor coveringLINOTYPE v LINOTYPED LINOTYPING LINOTYPESto set type with a machineLINSANG n pl LINSANGSa carnivorous mammalLINSEED n pl LINSEEDSflaxseedLINSEY n pl LINSEYSa coarse fabricLINSTOCK n pl LINSTOCKSa stick having one end divided to hold a matchLINT v LINTED LINTING LINTSto give off lint bits of fiber or fluffLINTEL n pl LINTELSa horizontal supporting beamLINTELED adjLINTER n pl LINTERSa machine for removing fibers from cotton seedsLINTIER comparative of lintyLINTIEST superlative of lintyLINTLESS adj free from lintLINTOL n pl LINTOLSlintelLINTY adj LINTIER LINTIESTcovered with lintLINUM n pl LINUMSa plant of the flax familyLINURON n pl LINURONSan herbicideLINY adj LINIER LINIESTresembling a lineLION n pl LIONSa large carnivorous feline mammalLIONESS n pl LIONESSESa female lionLIONFISH n pl LIONFISHESa tropical fishLIONISE v LIONISED LIONISING LIONISESto lionizeLIONISER n pl LIONISERSone that lionisesLIONIZE v LIONIZED LIONIZING LIONIZESto treat or regard as a celebrityLIONIZER n pl LIONIZERSone that lionizesLIONLIKE adj resembling a lionLIP v LIPPED LIPPING LIPSto touch with the lips the folds of flesh around the mouthLIPA n pl LIPE or LIPASa monetary unit of CroatiaLIPASE n pl LIPASESan enzymeLIPGLOSS n pl LIPGLOSSESa cosmetic for making lips glossyLIPID n pl LIPIDSany of a class of fatty substancesLIPIDIC adjLIPIDE n pl LIPIDESlipidLIPIN n pl LIPINSa lipidLIPLESS adj having no lipsLIPLIKE adj resembling a lipLIPLINER n pl LIPLINERSa cosmetic applied to outline the lipsLIPO n pl LIPOSliposuctionLIPOCYTE n pl LIPOCYTESa fatproducing cellLIPOGRAM n pl LIPOGRAMSa writing in which a certain letter of the alphabet is omittedLIPOID n pl LIPOIDSa lipidLIPOIDAL adjLIPOMA n pl LIPOMAS or LIPOMATAa tumor of fatty tissueLIPOSOME n pl LIPOSOMESa microscopic globule composed of lipidsLIPPED past tense of lipLIPPEN v LIPPENED LIPPENING LIPPENSto trustLIPPER v LIPPERED LIPPERING LIPPERSto rippleLIPPING n pl LIPPINGSa liplike outgrowth of boneLIPPY adj LIPPIER LIPPIESTimpudentLIPREAD n pl LIPREAD LIPREADING LIPREADSto understand spoken words by interpreting the lip movements of a speakerLIPSTICK n pl LIPSTICKSa cosmetic used to color the lipsLIQUATE v LIQUATED LIQUATING LIQUATESto purify metal by heatingLIQUEFY v LIQUEFIED LIQUEFYING LIQUEFIESto make or become liquidLIQUEUR n pl LIQUEURSa sweetened alcoholic beverageLIQUID n pl LIQUIDSa substance that flows freelyLIQUIDY adjLIQUIDLY adv in a freeflowing mannerLIQUIFY v LIQUIFIED LIQUIFYING LIQUIFIESto liquefyLIQUOR v LIQUORED LIQUORING LIQUORSto intoxicate with liquor an alcoholic beverageLIRA n pl LIRAS or LIREa former monetary unit of ItalyLIRA n pl LIRIa former monetary unit of MaltaLIRA n pl LIROTH or LIROTa former monetary unit of IsraelLIRIOPE n pl LIRIOPESa stemless Asian herbLIRIPIPE n pl LIRIPIPESa long scarfLISENTE a pl of senteLISLE n pl LISLESa fine tightly twisted cotton threadLISP v LISPED LISPING LISPSto pronounce the letters s and z imperfectlyLISPER n pl LISPERSone that lispsLISSOM adj lissomeLISSOMLY advLISSOME adj litheLIST v LISTED LISTING LISTSto write down in a particular orderLISTABLE adjLISTBOX n pl LISTBOXESa box on a computer screen that contains a list of optionsLISTEE n pl LISTEESone that is on a listLISTEL n pl LISTELSa narrow moldingLISTEN v LISTENED LISTENING LISTENSto make conscious use of the sense of hearingLISTENER n pl LISTENERSone that listensLISTER n pl LISTERSa type of plowLISTERIA n pl LISTERIASa rodshaped bacteriumLISTING n pl LISTINGSsomething that is listedLISTLESS adj languidLISTSERV n pl LISTSERVSan email system that automatically sends messages to all subscribersLIT n pl LITSthe litasLITANY n pl LITANIESa ceremonial form of prayerLITAS n pl LITAI or LITUa monetary unit of LithuaniaLITCHI n pl LITCHISthe edible fruit of a Chinese treeLITE n pl LITESa beer having relatively few caloriesLITENESS n pl LITENESSESthe state of being liteLITER n pl LITERSa unit of capacityLITERACY n pl LITERACIESthe ability to read and writeLITERAL n pl LITERALSa small error in printing or writingLITERARY adj of pertaining to or having the characteristics of books and writingsLITERATE n pl LITERATESone who can read and writeLITERATI npl scholars collectivelyLITHARGE n pl LITHARGESa monoxide of leadLITHE adj LITHER LITHESTbending easilyLITHELY advLITHEMIA n pl LITHEMIASan excess of uric acid in the bloodLITHEMIC adjLITHIA n pl LITHIASan oxide of lithiumLITHIC adj pertaining to lithiumLITHIFY v LITHIFIED LITHIFYING LITHIFIESto petrifyLITHIUM n pl LITHIUMSa metallic elementLITHO v LITHOED LITHOING LITHOS or LITHOESto make prints by lithographyLITHOID adj resembling stoneLITHOPS n pl LITHOPSa succulent African plantLITHOSOL n pl LITHOSOLSa type of soilLITIGANT n pl LITIGANTSone who is engaged in a lawsuitLITIGATE v LITIGATED LITIGATING LITIGATESto subject to legal proceedingsLITMUS n pl LITMUSESa blue coloring matterLITORAL adj pertaining to a coastal regionLITOTES n pl LITOTESa figure of speech in which an assertion is made by the negation of its oppositeLITOTIC adjLITRE n pl LITRESliterLITTEN adj lightedLITTER v LITTERED LITTERING LITTERSto scatter rubbish aboutLITTERER n pl LITTERERSone that littersLITTERY adj covered with rubbishLITTLE adj LITTLER LITTLESTsmallLITTLE n pl LITTLESa small amountLITTLISH adj somewhat littleLITTORAL n pl LITTORALSa coastal regionLITU a pl of litasLITURGY n pl LITURGIESa prescribed system of public worshipLITURGIC adjLIVABLE adj suitable for living inLIVE adj LIVER LIVESThaving lifeLIVE v LIVED LIVING LIVESto function as an animal or plantLIVEABLE adj livableLIVELONG adj long in passingLIVELY adj LIVELIER LIVELIESTfull of energyLIVELILY advLIVEN v LIVENED LIVENING LIVENSto make livelyLIVENER n pl LIVENERSone that livensLIVENESS n pl LIVENESSESthe state of being liveLIVER v LIVERED LIVERING LIVERSto thicken or gelLIVERIED adj wearing a liveryLIVERISH adj having a disorder of the liver a bodily organLIVERY n pl LIVERIESa uniform worn by servantsLIVES pl of lifeLIVEST superlative of liveLIVETRAP v LIVETRAPPED LIVETRAPPING LIVETRAPSto capture in a type of animal trapLIVEWARE n pl LIVEWARESworking personnelLIVEWELL n pl LIVEWELLSa container of water in a boat for keeping fish aliveLIVEYER n pl LIVEYERSlivyerLIVID adj having the skin abnormally discoloredLIVIDLY advLIVIDITY n pl LIVIDITIESthe state of being lividLIVIER n pl LIVIERSlivyerLIVING n pl LIVINGSa means of subsistenceLIVINGLY adv realisticallyLIVRE n pl LIVRESa former monetary unit of FranceLIVYER n pl LIVYERSa permanent resident of NewfoundlandLIXIVIUM n pl LIXIVIUMS or LIXIVIAa solution obtained by leachingLIXIVIAL adjLIZARD n pl LIZARDSany of a suborder of reptilesLLAMA n pl LLAMASa ruminant mammalLLANO n pl LLANOSan open grassy plainLO interj  used to attract attention or to express surpriseLOACH n pl LOACHESa freshwater fishLOAD v LOADED LOADING LOADSto place in or on a means of conveyanceLOADABLE adjLOADER n pl LOADERSone that loadsLOADING n pl LOADINGSa burdenLOADSTAR n pl LOADSTARSlodestarLOAF n pl LOAVESa shaped mass of breadLOAF v LOAFED LOAFING LOAFSto pass time idlyLOAFER n pl LOAFERSone that loafsLOAFING n pl LOAFINGSa place where cattle are allowed to roam freelyLOAM v LOAMED LOAMING LOAMSto cover with loam a type of soilLOAMLESS adj having no loamLOAMY adj LOAMIER LOAMIESTresembling loamLOAN v LOANED LOANING LOANSto lendLOANABLE adjLOANEE n pl LOANEESone that receives a loanLOANER n pl LOANERSone that loansLOANING n pl LOANINGSa laneLOANWORD n pl LOANWORDSa word taken from another languageLOATH adj unwillingLOATHE v LOATHED LOATHING LOATHESto detest greatlyLOATHER n pl LOATHERSone that loathesLOATHFUL adj repulsiveLOATHING n pl LOATHINGSextreme dislikeLOATHLY adj repulsiveLOAVES pl of loafLOB v LOBBED LOBBING LOBSto throw or hit in a high arcLOBAR adj pertaining to a lobeLOBATE adj having lobesLOBATELY advLOBATED adj lobateLOBATION n pl LOBATIONSthe formation of lobesLOBBED past tense of lobLOBBER n pl LOBBERSone that lobsLOBBING present participle of lobLOBBY v LOBBIED LOBBYING LOBBIESto attempt to influence legislatorsLOBBYER n pl LOBBYERSa lobbyistLOBBYGOW n pl LOBBYGOWSan errand boyLOBBYING n pl LOBBYINGSthe soliciting of support of an influential personLOBBYISM n pl LOBBYISMSthe practice of lobbyingLOBBYIST n pl LOBBYISTSone who lobbiesLOBE n pl LOBESa rounded projecting anatomical partLOBED adjLOBEFIN n pl LOBEFINSa bony fishLOBELESS adj lacking a lobeLOBELIA n pl LOBELIASa flowering plantLOBELINE n pl LOBELINESa poisonous alkaloidLOBLOLLY n pl LOBLOLLIESa pine treeLOBO n pl LOBOSthe timber wolfLOBOTOMY n pl LOBOTOMIESa type of surgical operationLOBSTER v LOBSTERED LOBSTERING LOBSTERSto fish for lobsters marine crustaceansLOBSTICK n pl LOBSTICKSa tree with its lower branches trimmedLOBTAIL v LOBTAILED LOBTAILING LOBTAILSof a whale to slap its tail against the surface of the waterLOBULE n pl LOBULESa small lobeLOBULAR LOBULATE LOBULOSE adjLOBWORM n pl LOBWORMSa lugwormLOCA a pl of locusLOCAL n pl LOCALSa train or bus making all stopsLOCALE n pl LOCALESa localityLOCALISE v LOCALISED LOCALISING LOCALISESto localizeLOCALISM n pl LOCALISMSa custom or mannerism peculiar to a localityLOCALIST n pl LOCALISTSone who is strongly concerned with the matters of a localityLOCALITE n pl LOCALITESa resident of a localityLOCALITY n pl LOCALITIESan area or neighborhoodLOCALIZE v LOCALIZED LOCALIZING LOCALIZESto confine to a particular areaLOCALLY adv in a particular areaLOCATE v LOCATED LOCATING LOCATESto determine the position ofLOCATER n pl LOCATERSone that locatesLOCATION n pl LOCATIONSthe place where something is at a given momentLOCATIVE n pl LOCATIVESa type of grammatical caseLOCATOR n pl LOCATORSlocaterLOCAVORE n pl LOCAVORESone who eats foods grown locally when possibleLOCH n pl LOCHSa lakeLOCHAN n pl LOCHANSa small lakeLOCHE n pl LOCHESa fish of the cod familyLOCHIA n pl LOCHIASa vaginal discharge following childbirthLOCHIAL adjLOCI n pl LOCISan engine used in loggingLOCIE n pl LOCIESlociLOCK v LOCKED LOCKING LOCKSto secure by means of a mechanical fastening deviceLOCKABLE adjLOCKAGE n pl LOCKAGESa toll on a ship passing through a canalLOCKBOX n pl LOCKBOXESa box that locksLOCKDOWN n pl LOCKDOWNSthe confinement of prisoners to their cellsLOCKER n pl LOCKERSan enclosure that may be lockedLOCKET n pl LOCKETSa small ornamental caseLOCKJAW n pl LOCKJAWSa form of tetanusLOCKLESS adj lacking a lock a mechanical fastening deviceLOCKNUT n pl LOCKNUTSa nut which keeps another from looseningLOCKOUT n pl LOCKOUTSa closing of a business to coerce employees to agree to termsLOCKRAM n pl LOCKRAMSa coarse linen fabricLOCKSET n pl LOCKSETSa set of hardware for locking a doorLOCKSTEP n pl LOCKSTEPSa mode of marching in close fileLOCKUP n pl LOCKUPSa jailLOCO n pl LOCOS or LOCOESlocoweedLOCO v LOCOED LOCOING LOCOSto poison with locoweedLOCOFOCO n pl LOCOFOCOSa type of friction matchLOCOISM n pl LOCOISMSa disease of livestockLOCOMOTE v LOCOMOTED LOCOMOTING LOCOMOTESto move aboutLOCOWEED n pl LOCOWEEDSa plant that causes poisoning when eaten by livestockLOCULAR adj having or divided into loculiLOCULATE adj locularLOCULE n pl LOCULESloculusLOCULED adjLOCULUS n pl LOCULIa small celllike chamberLOCUM n pl LOCUMSa temporary substituteLOCUS n pl LOCI or LOCAa placeLOCUST n pl LOCUSTSa migratory grasshopperLOCUSTA n pl LOCUSTAEa spikeletLOCUSTAL adjLOCUTION n pl LOCUTIONSa particular form of expressionLOCUTORY n pl LOCUTORIESa room in a monasteryLODE n pl LODESa deposit of oreLODEN n pl LODENSa thick woolen fabricLODESTAR n pl LODESTARSa star used as a point of referenceLODGE v LODGED LODGING LODGESto furnish with temporary quartersLODGER n pl LODGERSone that resides in rented quartersLODGING n pl LODGINGSa temporary place to liveLODGMENT n pl LODGMENTSa lodgingLODICULE n pl LODICULESa scale at the base of the ovary of a grassLOESS n pl LOESSESa soil depositLOESSAL LOESSIAL LOESSIC adjLOFT v LOFTED LOFTING LOFTSto store in a loft an upper roomLOFTER n pl LOFTERSa type of golf clubLOFTIER comparative of loftyLOFTIEST superlative of loftyLOFTILY adv in a lofty mannerLOFTLESS adj having no loftLOFTLIKE adj resembling a loftLOFTY adj LOFTIER LOFTIESTextending high in the airLOG v LOGGED LOGGING LOGSto cut down trees for timberLOGAN n pl LOGANSa stone balanced to permit easy movementLOGANIA adj designating a family of flowering plantsLOGBOOK n pl LOGBOOKSa record book of a ship or aircraftLOGE n pl LOGESa small compartmentLOGGATS npl loggetsLOGGED past tense of logLOGGER n pl LOGGERSone that logsLOGGETS npl an old English throwing gameLOGGIA n pl LOGGIAS or LOGGIEan open galleryLOGGING n pl LOGGINGSthe business of cutting down trees for timberLOGGISH adj resembling a logLOGGY adj LOGGIER LOGGIESTlogyLOGIA a pl of logionLOGIC n pl LOGICSthe science of reasoningLOGICAL adj pertaining to logicLOGICIAN n pl LOGICIANSone who is skilled in logicLOGICISE v LOGICISED LOGICISING LOGICISESto logicizeLOGICIZE v LOGICIZED LOGICIZING LOGICIZESto reasonLOGIER comparative of logyLOGIEST superlative of logyLOGILY adv in a logy mannerLOGIN n pl LOGINSthe process of identifying oneself to a computerLOGINESS n pl LOGINESSESthe state of being logyLOGION n pl LOGIONS or LOGIAa saying attributed to JesusLOGISTIC n pl LOGISTICSsymbolic logicLOGJAM v LOGJAMMED LOGJAMMING LOGJAMSto cause to become tangled in a massLOGO n pl LOGOSan identifying symbolLOGOED adjLOGOFF n pl LOGOFFSa logoutLOGOGRAM n pl LOGOGRAMSa symbol used to represent an entire wordLOGOMACH n pl LOGOMACHSone given to arguing about wordsLOGON n pl LOGONSloginLOGOS n pl LOGOIthe rational principle that governs the universe in ancient Greek philosophyLOGOTYPE n pl LOGOTYPESa piece of type bearing a syllable word or wordsLOGOTYPY n pl LOGOTYPIESthe use of logotypesLOGOUT n pl LOGOUTSthe act of ending a connection with a computer systemLOGROLL v LOGROLLED LOGROLLING LOGROLLSto obtain passage of by exchanging political favorsLOGWAY n pl LOGWAYSa ramp used in loggingLOGWOOD n pl LOGWOODSa tropical treeLOGY adj LOGIER LOGIESTsluggishLOIASIS n pl LOIASESa tropical African diseaseLOID v LOIDED LOIDING LOIDSto open a spring lock by using a piece of celluloidLOIN n pl LOINSa part of the side and back between the ribs and the hipboneLOITER v LOITERED LOITERING LOITERSto stand idly aboutLOITERER n pl LOITERERSone that loitersLOLL v LOLLED LOLLING LOLLSto loungeLOLLER n pl LOLLERSone that lollsLOLLIES pl of lollyLOLLIPOP n pl LOLLIPOPSa piece of candy on the end of a stickLOLLOP v LOLLOPED LOLLOPING LOLLOPSto lollLOLLOPY adj characterized by a bobbing motionLOLLY n pl LOLLIESa lollipopLOLLYGAG v LOLLYGAGGED LOLLYGAGGING LOLLYGAGSto lallygagLOLLYPOP n pl LOLLYPOPSlollipopLOMEIN n pl LOMEINSa Chinese dish of noodles meat and vegetablesLOMENT n pl LOMENTSa type of plant podLOMENTUM n pl LOMENTUMS or LOMENTAlomentLONE adj having no companionsLONELY adj LONELIER LONELIESTsad from lack of companionshipLONELILY advLONENESS n pl LONENESSESthe state of being loneLONER n pl LONERSone that avoids othersLONESOME n pl LONESOMESselfLONG adj LONGER LONGESTextending for a considerable distanceLONG v LONGED LONGING LONGSto desire stronglyLONGAN n pl LONGANSthe edible fruit of a Chinese treeLONGBOAT n pl LONGBOATSthe largest boat carried by a sailing vesselLONGBOW n pl LONGBOWSa type of archery bowLONGE v LONGED LONGEING LONGESto guide a horse by means of a long ropeLONGER n pl LONGERSone that longsLONGERON n pl LONGERONSa longitudinal support of an airplaneLONGHAIR n pl LONGHAIRSan intellectualLONGHAND n pl LONGHANDSordinary handwritingLONGHEAD n pl LONGHEADSa person having a long skullLONGHORN n pl LONGHORNSone of a breed of longhorned cattleLONGIES npl long underwearLONGING n pl LONGINGSa strong desireLONGISH adj somewhat longLONGJUMP v LONGJUMPED LONGJUMPING LONGJUMPSto jump for distance from a running startLONGLEAF n pl LONGLEAVESan evergreen treeLONGLINE n pl LONGLINESa type of fishing lineLONGLY adv for a considerable distanceLONGNECK n pl LONGNECKSa beer bottle with a long neckLONGNESS n pl LONGNESSESthe state of being longLONGSHIP n pl LONGSHIPSa medieval shipLONGSOME adj tediously longLONGSPUR n pl LONGSPURSa longclawed finchLONGTIME adj of long durationLONGUEUR n pl LONGUEURSa dull and tedious sectionLONGWAYS adv longwiseLONGWISE adv lengthwiseLONICERA n pl LONICERASa shrub with fragrant flowersLOO v LOOED LOOING LOOSto subject to a forfeit at loo a card gameLOOBY n pl LOOBIESa large awkward personLOOEY n pl LOOEYSlooieLOOF n pl LOOFSthe palm of the handLOOFA a pl LOOFASloofahLOOFAH n pl LOOFAHSa tropical vineLOOIE n pl LOOIESa lieutenant of the armed forcesLOOK v LOOKED LOOKING LOOKSto use ones eyes in seeingLOOKDOWN n pl LOOKDOWNSa marine fishLOOKER n pl LOOKERSone that looksLOOKIE interj lookyLOOKISM n pl LOOKISMSdiscrimination based on physical appearanceLOOKIST n pl LOOKISTSone that practices lookismLOOKIT interj  used to draw attention to somethingLOOKOUT n pl LOOKOUTSone engaged in keeping watchLOOKSISM n pl LOOKSISMSlookismLOOKUP n pl LOOKUPSthe process of looking something upLOOKY interj  used to draw attention to somethingLOOM v LOOMED LOOMING LOOMSto appear in an enlarged and indistinct formLOON n pl LOONSa diving waterfowlLOONEY adj LOONIER LOONIESTloonyLOONEY n pl LOONEYSloonyLOONIE n pl LOONIESa coin worth one Canadian dollarLOONY adj LOONIER LOONIESTcrazyLOONILY advLOONY n pl LOONIESa loony personLOOP v LOOPED LOOPING LOOPSto form loops circular or oval openingsLOOPER n pl LOOPERSone that loopsLOOPHOLE v LOOPHOLED LOOPHOLING LOOPHOLESto make small openings inLOOPY adj LOOPIER LOOPIESTfull of loopsLOOPILY advLOOSE adj LOOSER LOOSESTnot firm taut or rigidLOOSELY advLOOSE v LOOSED LOOSING LOOSESto set freeLOOSEN v LOOSENED LOOSENING LOOSENSto make looserLOOSENER n pl LOOSENERSone that loosensLOOSER comparative of looseLOOSEST superlative of looseLOOSING present participle of looseLOOT v LOOTED LOOTING LOOTSto plunderLOOTER n pl LOOTERSone that lootsLOOTING n pl LOOTINGSthe act of stealing goods left unprotectedLOP v LOPPED LOPPING LOPSto cut off branches or twigs fromLOPE v LOPED LOPING LOPESto run with a steady easy gaitLOPER n pl LOPERSone that lopesLOPINGLY adv in the manner of one that lopesLOPPED past tense of lopLOPPER v LOPPERED LOPPERING LOPPERSto curdleLOPPET n pl LOPPETSa longdistance crosscountry ski raceLOPPING present participle of lopLOPPY adj LOPPIER LOPPIESThanging limplyLOPSIDED adj leaning to one sideLOPSTICK n pl LOPSTICKSlobstickLOQUAT n pl LOQUATSa small yellow fruitLOQUITUR v he or she speaksLORAL adj pertaining to the space between the eye and bill of a birdLORAN n pl LORANSa type of navigational systemLORD v LORDED LORDING LORDSto invest with the power of a lord a person having dominion over othersLORDING n pl LORDINGSa lordlingLORDLESS adj having no lordLORDLIER comparative of lordlyLORDLIEST superlative of lordlyLORDLIKE adj lordlyLORDLING n pl LORDLINGSa young or unimportant lordLORDLY adj LORDLIER LORDLIESTof or befitting a lordLORDOMA n pl LORDOMASlordosisLORDOSIS n pl LORDOSESa curvature of the spinal columnLORDOTIC adjLORDSHIP n pl LORDSHIPSthe power of a lordLORE n pl LOREStraditional knowledge or beliefLOREAL adj loralLORGNON n pl LORGNONSa pair of eyeglasses with a handleLORICA n pl LORICAE or LORICASa protective covering or shellLORICATE n pl LORICATESan animal having a loricaLORIES pl of loryLORIKEET n pl LORIKEETSa small parrotLORIMER n pl LORIMERSa maker of implements for harnesses and saddlesLORINER n pl LORINERSlorimerLORIS n pl LORISESan Asian lemurLORN adj abandonedLORNNESS n pl LORNNESSESthe state of being lornLORRY n pl LORRIESa type of wagon or truckLORY n pl LORIESa small parrotLOSE v LOST LOSING LOSESto come to be without and be unable to findLOSABLE adjLOSEL n pl LOSELSa worthless personLOSER n pl LOSERSone that losesLOSING n pl LOSINGSa lossLOSINGLY adv in a manner characterized by defeatLOSS n pl LOSSESthe act of one that losesLOSSLESS adj done or being without lossLOSSY adj causing dissipation of electrical energyLOST adj not to be found or recoveredLOSTNESS n pl LOSTNESSESthe state of being lostLOT v LOTTED LOTTING LOTSto distribute proportionatelyLOTA n pl LOTASlotahLOTAH n pl LOTAHSa small water vessel used in IndiaLOTH adj loathLOTHARIO n pl LOTHARIOSa seducer of womenLOTHSOME adj repulsiveLOTI n pl MALOTIa monetary unit of LesothoLOTIC adj pertaining to moving waterLOTION n pl LOTIONSa liquid preparation for external applicationLOTO n pl LOTOSlottoLOTOS n pl LOTOSESlotusLOTTE n pl LOTTESa monkfishLOTTED past tense of lotLOTTER n pl LOTTERSone who assembles merchandise into salable lotsLOTTERY n pl LOTTERIESa type of gambling gameLOTTING present participle of lotLOTTO n pl LOTTOSa game of chanceLOTUS n pl LOTUSESan aquatic plantLOUCHE adj not reputableLOUD adj LOUDER LOUDESTstrongly audibleLOUDEN v LOUDENED LOUDENING LOUDENSto make or become louderLOUDISH adj somewhat loudLOUDLY adv LOUDLIER LOUDLIESTin a loud mannerLOUDNESS n pl LOUDNESSESthe quality of being loudLOUGH n pl LOUGHSa lakeLOUIE n pl LOUIESlooieLOUIS n pl LOUISa former gold coin of FranceLOUMA n pl LOUMASlumaLOUNGE v LOUNGED LOUNGING LOUNGESto recline or lean in a relaxed lazy mannerLOUNGER n pl LOUNGERSone that loungesLOUNGEY adj loungyLOUNGY adj LOUNGIER LOUNGIESTsuitable for loungingLOUP v LOUPED LOUPEN LOUPING LOUPSto leapLOUPE n pl LOUPESa small magnifying glassLOUR v LOURED LOURING LOURSto lowerLOURY adj loweryLOUSE n pl LICEa parasitic insectLOUSE v LOUSED LOUSING LOUSESto spoil or bungleLOUSY adj LOUSIER LOUSIESTmean or contemptibleLOUSILY advLOUT v LOUTED LOUTING LOUTSto bow in respectLOUTISH adj clumsyLOUVER n pl LOUVERSa type of windowLOUVERED adjLOUVRE n pl LOUVRESlouverLOUVRED adjLOVABLE adj having qualities that attract loveLOVABLY advLOVAGE n pl LOVAGESa perennial herbLOVAT n pl LOVATSa chiefly green color mixture in fabricsLOVE v LOVED LOVING LOVESto feel great affection forLOVEABLE adj lovableLOVEABLY advLOVEBIRD n pl LOVEBIRDSa small parrotLOVEBUG n pl LOVEBUGSa small black fly that swarms along highwaysLOVED past tense of loveLOVEFEST n pl LOVEFESTSa gathering to promote good feelingLOVELESS adj feeling no loveLOVELIER comparative of lovelyLOVELIES pl of lovelyLOVELIEST superlative of lovelyLOVELILY adv in a lovely mannerLOVELOCK n pl LOVELOCKSa lock of hair hanging separatelyLOVELORN adj not lovedLOVELY adj LOVELIER LOVELIESTbeautifulLOVELY n pl LOVELIESa beautiful womanLOVER n pl LOVERSone that loves anotherLOVERLY adjLOVESEAT n pl LOVESEATSa small sofa for two personsLOVESICK adj languishing with loveLOVESOME adj lovelyLOVEVINE n pl LOVEVINESa twining herbLOVEY n pl LOVEYSa sweetheartLOVEY adj LOVIER LOVIESTfondly affectionateLOVING n pl LOVINGSthe act of expressing loveLOVINGLY adv in a loving mannerLOW adj LOWER LOWESThaving relatively little upward extensionLOW v LOWED LOWING LOWSto utter the sound characteristic of cattleLOWBALL v LOWBALLED LOWBALLING LOWBALLSto give a customer a deceptively low priceLOWBORN adj of humble birthLOWBOY n pl LOWBOYSa low chest of drawersLOWBRED adj lowbornLOWBROW n pl LOWBROWSan uncultivated personLOWBUSH n pl LOWBUSHESa bush with sweet blueberriesLOWDOWN n pl LOWDOWNSthe whole truthLOWE v LOWED LOWING LOWESto blazeLOWER v LOWERED LOWERING LOWERSto appear dark and threateningLOWERY adj dark and threateningLOWING n pl LOWINGSthe sound characteristic of cattleLOWISH adj somewhat lowLOWLAND n pl LOWLANDSan area of land lying lower than the adjacent countryLOWLIFE n pl LOWLIFES or LOWLIVESa despicable personLOWLIFER n pl LOWLIFERSa lowlifeLOWLIGHT n pl LOWLIGHTSan unpleasant event detail or partLOWLY adj LOWLIER LOWLIESTlow in position or rankLOWLILY advLOWN adj peacefulLOWNESS n pl LOWNESSESthe state of being lowLOWPASS adj being a type of filterLOWRIDER n pl LOWRIDERSa car having a lowered suspensionLOWSE adj looseLOX v LOXED LOXING LOXESto supply with lox liquid oxygenLOYAL adj LOYALER LOYALESTfaithful to ones allegianceLOYALISM n pl LOYALISMSloyaltyLOYALIST n pl LOYALISTSone who is loyalLOYALLY adv in a loyal mannerLOYALTY n pl LOYALTIESthe state of being loyalLOZENGE n pl LOZENGESa small often medicated candyLUAU n pl LUAUSa Hawaiian feastLUBBER n pl LUBBERSa clumsy personLUBBERLY adjLUBE v LUBED LUBING LUBESto lubricateLUBRIC adj slipperyLUBRICAL adj lubricLUCARNE n pl LUCARNESa type of windowLUCE n pl LUCESa freshwater fishLUCENCE n pl LUCENCESlucencyLUCENCY n pl LUCENCIESthe quality of being lucentLUCENT adj giving off lightLUCENTLY advLUCERN n pl LUCERNSlucerneLUCERNE n pl LUCERNESalfalfaLUCES a pl of luxLUCID adj easily understoodLUCIDLY advLUCIDITY n pl LUCIDITIESthe quality of being lucidLUCIFER n pl LUCIFERSa friction matchLUCK v LUCKED LUCKING LUCKSto succeed by chance or good fortuneLUCKIE n pl LUCKIESan old womanLUCKLESS adj unluckyLUCKY adj LUCKIER LUCKIESThaving good fortuneLUCKILY advLUCRE n pl LUCRESmonetary gainLUCULENT adj lucidLUD n pl LUDSa form of address to a judge in a courtLUDE n pl LUDESa methaqualone pillLUDIC adj aimlessly playfulLUDO n pl LUDOSa simple board gameLUES n pl LUESsyphilisLUETIC n pl LUETICSone infected with syphilisLUFF v LUFFED LUFFING LUFFSto steer a sailing vessel nearer into the windLUFFA n pl LUFFASloofahLUG v LUGGED LUGGING LUGSto carry or pull with effortLUGE v LUGED LUGEING or LUGING LUGESto race on a luge a small sledLUGER n pl LUGERSone that lugesLUGGAGE n pl LUGGAGESarticles containing a travelers belongingsLUGGED past tense of lugLUGGER n pl LUGGERSa small sailing vesselLUGGIE n pl LUGGIESa small wooden dish or pailLUGGING present participle of lugLUGSAIL n pl LUGSAILSa type of sailLUGWORM n pl LUGWORMSa burrowing marine wormLUKEWARM adj moderately warmLULL v LULLED LULLING LULLSto cause to sleep or restLULLABY v LULLABIED LULLABYING LULLABIESto lull with a soothing songLULLER n pl LULLERSone that lullsLULU n pl LULUSsomething remarkableLUM n pl LUMSa chimneyLUMA n pl LUMASa monetary unit of ArmeniaLUMBAGO n pl LUMBAGOSpain in the lower backLUMBAR n pl LUMBARSan anatomical part situated near the loinsLUMBER v LUMBERED LUMBERING LUMBERSto cut down and prepare timber for marketLUMBERER n pl LUMBERERSone that lumbersLUMBERLY adj moving slowly with a heavy gaitLUMEN n pl LUMENS or LUMINAthe inner passage of a tubular organLUMENAL LUMINAL adjLUMINARY n pl LUMINARIESa body that gives lightLUMINISM n pl LUMINISMSa style of paintingLUMINIST n pl LUMINISTSa painter who uses the effects of lightLUMINOUS adj giving off lightLUMMOX n pl LUMMOXESa clumsy personLUMP v LUMPED LUMPING LUMPSto make into lumps shapeless massesLUMPEN n pl LUMPENSan uprooted individualLUMPER n pl LUMPERSa laborer employed to load and unload shipsLUMPFISH n pl LUMPFISHESa marine fishLUMPIA n pl LUMPIASan Indonesian spring rollLUMPISH adj stupidLUMPY adj LUMPIER LUMPIESTfull of lumpsLUMPILY advLUN n pl LUNSa leeLUNA n pl LUNASan alchemical designation for silverLUNACY n pl LUNACIESinsanityLUNAR n pl LUNARSan observation of the moon taken for navigational purposesLUNARIAN n pl LUNARIANSa supposed inhabitant of the moonLUNATE adj crescentshapedLUNATELY advLUNATED adj lunateLUNATIC n pl LUNATICSan insane personLUNATION n pl LUNATIONSthe interval between two successive new moonsLUNCH v LUNCHED LUNCHING LUNCHESto eat a noonday mealLUNCHBOX n pl LUNCHBOXESa container for carrying meals to school or workLUNCHEON n pl LUNCHEONSa noonday mealLUNCHER n pl LUNCHERSone that lunchesLUNE n pl LUNESa crescentshaped figureLUNET n pl LUNETSlunetteLUNETTE n pl LUNETTESa crescentshaped objectLUNG n pl LUNGSa respiratory organLUNGAN n pl LUNGANSlonganLUNGE v LUNGED LUNGING or LUNGEING LUNGESto make a forceful forward movementLUNGEE n pl LUNGEESlungiLUNGER n pl LUNGERSone that lungesLUNGFISH n pl LUNGFISHESa type of fishLUNGFUL n pl LUNGFULSas much as the lungs can holdLUNGI n pl LUNGISa loincloth worn by men in IndiaLUNGING a present participle of lungeLUNGLESS adj having no lungLUNGWORM n pl LUNGWORMSa parasitic wormLUNGWORT n pl LUNGWORTSa European herbLUNGYI n pl LUNGYISlungiLUNIER comparative of lunyLUNIES pl of lunyLUNIEST superlative of lunyLUNK n pl LUNKSa lunkheadLUNKER n pl LUNKERSa large game fishLUNKHEAD n pl LUNKHEADSa stupid personLUNT v LUNTED LUNTING LUNTSto emit smokeLUNULA n pl LUNULAEa small crescentshaped structureLUNULAR LUNULATE adjLUNULE n pl LUNULESlunulaLUNY adj LUNIER LUNIESTloonyLUNY n pl LUNIESa loonyLUPANAR n pl LUPANARSa brothelLUPIN n pl LUPINSlupineLUPINE n pl LUPINESa flowering plantLUPULIN n pl LUPULINSa medicinal powder obtained from the hop plantLUPUS n pl LUPUSESa skin diseaseLUPOID LUPOUS adjLURCH v LURCHED LURCHING LURCHESto sway abruptlyLURCHER n pl LURCHERSone that lurks or prowlsLURDAN n pl LURDANSa lazy or stupid personLURDANE n pl LURDANESlurdanLURE v LURED LURING LURESto attract with something desirableLURER n pl LURERSone that luresLURID adj causing shock or horrorLURIDLY advLURINGLY adv in an enticing mannerLURK v LURKED LURKING LURKSto wait in concealmentLURKER n pl LURKERSone that lurksLUSCIOUS adj having a very pleasing taste or smellLUSH adj LUSHER LUSHESTabounding in vegetationLUSHLY advLUSH v LUSHED LUSHING LUSHESto drink to excessLUSHNESS n pl LUSHNESSESthe state of being lushLUST v LUSTED LUSTING LUSTSto have an intense desireLUSTER v LUSTERED LUSTERING LUSTERSto make or become lustrousLUSTFUL adj marked by excessive sexual desireLUSTIER comparative of lustyLUSTIEST superlative of lustyLUSTILY adv in a lusty mannerLUSTRA a pl of lustrumLUSTRAL adj pertaining to a lustrumLUSTRATE v LUSTRATED LUSTRATING LUSTRATESto purify ceremoniallyLUSTRE v LUSTRED LUSTRING LUSTRESto lusterLUSTRINE n pl LUSTRINESlustringLUSTRING n pl LUSTRINGSa glossy silk fabricLUSTROUS adj reflecting light evenly and efficientlyLUSTRUM n pl LUSTRUMS or LUSTRAa ceremonial purification of the population in ancient RomeLUSTY adj LUSTIER LUSTIESTfull of vigorLUSUS n pl LUSUSESan abnormalityLUTANIST n pl LUTANISTSone who plays the luteLUTE v LUTED LUTING LUTESto play a lute a stringed musical instrumentLUTEA pl of luteumLUTEAL adj pertaining to the luteumLUTECIUM n pl LUTECIUMSlutetiumLUTED past tense of luteLUTEFISK n pl LUTEFISKSdried codfishLUTEIN n pl LUTEINSa yellow pigmentLUTENIST n pl LUTENISTSlutanistLUTEOLIN n pl LUTEOLINSa yellow pigmentLUTEOUS adj light to moderate greenish yellow in colorLUTETIUM n pl LUTETIUMSa metallic elementLUTEUM n pl LUTEAa hormonesecreting bodyLUTFISK n pl LUTFISKSlutefiskLUTHERN n pl LUTHERNSa type of windowLUTHIER n pl LUTHIERSone who makes stringed instrumentsLUTING n pl LUTINGSa substance used as a sealantLUTIST n pl LUTISTSa lutanistLUTZ n pl LUTZESa jump in figure skatingLUV v LUVVED LUVVING LUVSto loveLUVVIE n pl LUVVIESloveyLUVVY n pl LUVVIESloveyLUX n pl LUXES or LUCESa unit of illuminationLUXATE v LUXATED LUXATING LUXATESto put out of jointLUXATION n pl LUXATIONSthe act of luxatingLUXE n pl LUXESluxuryLUXE adj LUXER LUXESTdeluxeLUXURY n pl LUXURIESfree indulgence in that which affords pleasure or comfortLWEI n pl LWEISa monetary unit of AngolaLYARD adj streaked with grayLYART adj lyardLYASE n pl LYASESan enzymeLYCEE n pl LYCEESa French secondary schoolLYCEUM n pl LYCEUMS or LYCEAa hall for public lectures or discussionsLYCH n pl LYCHESlichLYCHEE n pl LYCHEESlitchiLYCHGATE n pl LYCHGATESa roofed gateway to a churchyardLYCHNIS n pl LYCHNISESa flowering plantLYCOPENE n pl LYCOPENESa red pigmentLYCOPOD n pl LYCOPODSan evergreen plantLYCOPSID n pl LYCOPSIDSa type of club mossLYDDITE n pl LYDDITESan explosiveLYE n pl LYESa solution used in making soapLYING n pl LYINGSthe act of telling liesLYINGLY adv falselyLYMPH n pl LYMPHSa body fluid containing white blood cellsLYMPHOID LYMPHOUS adjLYMPHOMA n pl LYMPHOMAS or LYMPHOMATAa type of tumorLYNCEAN adj of or resembling a lynxLYNCH v LYNCHED LYNCHING LYNCHESto put to death without legal sanctionLYNCHER n pl LYNCHERSone that lynchesLYNCHING n pl LYNCHINGSthe act of one who lynchesLYNCHPIN n pl LYNCHPINSlinchpinLYNX n pl LYNXESa shorttailed wildcatLYOPHILE adj pertaining to a type of colloidLYRATE adj having the shape of a lyreLYRATELY advLYRATED adj lyrateLYRE n pl LYRESan ancient harplike instrumentLYREBIRD n pl LYREBIRDSan Australian birdLYRIC n pl LYRICSa lyrical poemLYRICAL adj having the form of a songLYRICISE v LYRICISED LYRICISING LYRICISESto lyricizeLYRICISM n pl LYRICISMSthe quality of being lyricsLYRICIST n pl LYRICISTSone who writes the words for songsLYRICIZE v LYRICIZED LYRICIZING LYRICIZESto write lyricsLYRICON n pl LYRICONSan electronic wind instrumentLYRIFORM adj lyrateLYRISM n pl LYRISMSlyricismLYRIST n pl LYRISTSone who plays the lyreLYSATE n pl LYSATESa product of lysisLYSE v LYSED LYSING LYSESto cause to undergo lysisLYSIN n pl LYSINSa substance capable of disintegrating blood cells or bacteriaLYSINE n pl LYSINESan amino acidLYSING present participle of lyseLYSIS n pl LYSESthe disintegration of cells by lysinsLYSOGEN n pl LYSOGENSa type of antigenLYSOGENY n pl LYSOGENIESthe state of being like a lysogenLYSOSOME n pl LYSOSOMESa saclike part of a cellLYSOZYME n pl LYSOZYMESan enzymeLYSSA n pl LYSSASrabiesLYTIC adj pertaining to lysisLYTTA n pl LYTTAS or LYTTAEa fibrous band in the tongue of certain carnivorous mammals")
+```
+entry(ma, n, [mas], "mẹ").
+entry(maar, n, [maars], "một miệng núi lửa").
+entry(mabe, n, [mabes], "một viên ngọc trai nuôi cấy").
+entry(mac, n, [macs], "một chiếc áo mưa").
+entry(macaber, adj, [], "ma quái").
+entry(macabre, adj, [], "ghê rợn").
+entry(macaco, n, [macacos], "một con vượn cáo").
+entry(macadam, n, [macadams], "một loại mặt đường").
+entry(macaque, n, [macaques], "một loài khỉ đuôi ngắn").
+entry(macaroni, n, [mì ống], "hoặc MACARONIES một loại mì ống hình ống").
+entry(macaroon, n, [macaroons], "một loại bánh quy").
+entry(vẹt đuôi dài, n, [vẹt đuôi dài], "một loại vẹt lớn").
+entry(maccabaw, n, [maccabaws], "maccaboy").
+entry(maccaboy, n, [maccaboys], "một loại thuốc hít").
+entry(macchia, n, [macchie], "một sự phát triển dày đặc của những cây nhỏ và bụi cây").
+nhập(maccoboy, n, [maccoboys], "maccaboy").
+entry(mace, v, [maced,macing,maces], "tấn công bằng vũ khí giống như gậy, một khúc gỗ nặng").
+entry(macer, n, [macers], "một quan chức mang quyền trượng nghi lễ").
+entry(macera, v, [đã_macera,đang_macera,macera], "làm mềm bằng cách ngâm trong chất lỏng").
+entry(mach, n, [machs], "một con số biểu thị tỷ lệ giữa tốc độ của một vật thể và tốc độ âm thanh").
+entry(machaca, n, [machacas], "một món ăn Mexico với thịt xé nhỏ được chiên với rau").
+entry(mache, n, [maches], "một loại thảo mộc châu Âu").
+entry(macher, n, [machers], "một người nổi tiếng với khả năng hoàn thành công việc").
+entry(machete, n, [machetes], "một con dao lớn và nặng").
+entry(máy, v, [máy móc, gia công máy, các máy], "xử lý bằng máy một thiết bị cơ khí").
+entry(machismo, n, [machismos], "nam tính mạnh mẽ").
+entry(macho, n, [machos], "một người thể hiện tính cách nam tính mạnh mẽ").
+entry(chủ_nghĩa_nam_tính, n, [các_chủ_nghĩa_nam_tính], "machismo").
+entry(machree, n, [machrees], "thân yêu").
+entry(machzor, n, [machzors], "hoặc MACHZORIMmahzor").
+entry(macing, present, [], "phân từ của mace").
+entry(mack, n, [macks], "mac").
+entry(cá thu, n, [cá thu], "một loài cá thực phẩm biển").
+entry(mackinaw, n, [mackinaws], "một loại vải len").
+entry(mackle, v, [mackled,mackling,mackles], "làm mờ trong in ấn").
+entry(macle, n, [macles], "một vết hoặc sự đổi màu trong một khoáng vật-MACLED adj").
+entry(macon, n, [macons], "một loại rượu vang Pháp đỏ hoặc trắng").
+entry(macrame, n, [macrames], "một loại viền được làm từ chỉ hoặc dây thắt nút").
+entry(macro, n, [macro], "một loại lệnh máy tính").
+entry(macron, n, [macrons], "một ký hiệu đặt trên nguyên âm để chỉ rằng nó có âm dài").
+entry(macropod, n, [macropods], "một loài động vật có vú có túi ăn thực vật").
+entry(macrural, adj, [], "thuộc về macruran").
+entry(macruran, n, [macrurans], "bất kỳ loài nào thuộc phân bộ giáp xác").
+entry(macula, n, [maculas], "hoặc MACULAE một điểm MACULAR adj").
+entry(maculate, v, [maculated,maculating,maculates], "đánh dấu với các đốm").
+mục(lốm đốm, v, [đã bị lốm đốm,đang bị lốm đốm,bị lốm đốm], "để bị bẩn").
+entry(macumba, n, [macumbas], "một tôn giáo được thực hành ở Brazil").
+entry(mad, adj, [], "MADDER MADDESTđiên").
+mục(làm_điên, v, [đã_làm_điên,đang_làm_điên,những_người_điên], "làm điên").
+entry(madam, n, [madams], "một phụ nữ quản lý nhà chứa").
+entry(madame, n, [madames], "quý bà").
+entry(madame, n, [mesdames], "danh hiệu của Pháp dành cho phụ nữ đã kết hôn").
+entry(madcap, n, [madcaps], "một người bốc đồng").
+entry(madded, past, [], "thì của mad").
+entry(madden, v, [maddened,maddening,maddens], "làm cho hoặc trở nên điên rồ").
+entry(madder, n, [madders], "một loại thảo mộc lâu năm").
+entry(maddest, superlative, [], "của mad").
+entry(madding, hiện tại, [], "phân từ của mad").
+entry(maddish, adj, [], "hơi điên").
+entry(made, quá_khứ, [], "thì của make").
+entry(madeira, n, [madeiras], "một loại rượu vang trắng").
+entry(maderize, v, [maderized,maderizing,maderizes], "chuyển sang màu nâu được dùng cho rượu vang trắng").
+entry(nhà thương điên, n, [nhà thương điên], "một trại tâm thần").
+entry(madly, adv, [], "một cách điên cuồng").
+entry(madman, n, [madmen], "một người đàn ông bị điên").
+entry(madness, n, [madnesses], "trạng thái của sự điên rồ").
+entry(madonna, n, [madonnas], "một danh hiệu tôn trọng phụ nữ của người Ý trước đây").
+entry(madras, n, [vải madras], "một loại vải bông").
+entry(madrasa, n, [madrasas], "trường học Hồi giáo").
+entry(madrasah, n, [madrasahs], "trường Hồi giáo").
+entry(madrassa, n, [madrassas], "một trường học Hồi giáo").
+entry(madre, n, [madres], "mẹ").
+entry(madrigal, n, [madrigals], "một bài thơ trữ tình ngắn").
+entry(madrona, n, [madronas], "một loại cây thường xanh").
+entry(myrtle, n, [myrtles], "myrtle").
+entry(madrono, n, [madronos], "cây dâu đất").
+entry(madtom, n, [madtoms], "một loài cá da trơn Bắc Mỹ").
+entry(maduro, n, [maduros], "một loại xì gà có màu tối tương đối mạnh").
+entry(madwoman, n, [madwomen], "một phụ nữ bị điên").
+entry(madwort, n, [madworts], "một loài thực vật có hoa").
+entry(madzoon, n, [madzoons], "sữa chua kiểu Armenia").
+entry(mae, n, [maes], "nhiều hơn").
+entry(maenad, n, [maenads], "hoặc MAENADESa nữ tham gia các cuộc truy hoan cổ đại của Hy Lạp MAENADIC adj").
+entry(maestoso, n, [maestosos], "một đoạn nhạc trang nghiêm").
+entry(maestro, n, [maestros], "hoặc MAESTRI: bậc thầy của một nghệ thuật").
+entry(maffia, n, [maffias], "mafia").
+entry(maffick, v, [mafficked,mafficking,mafficks], "ăn mừng nhộn nhịp").
+entry(mafia, n, [mafias], "một tổ chức tội phạm bí mật").
+entry(mafic, adj, [], "liên quan đến các khoáng chất giàu magiê và sắt").
+entry(mafioso, n, [mafiosos], "hoặc MAFIOSI, thành viên của mafia").
+entry(maftir, n, [maftirs], "phần kết thúc của một parashah").
+entry(mag, n, [mags], "một tạp chí").
+entry(magalog, n, [magalogs], "một cuốn catalog bán hàng giống như một tạp chí").
+entry(tạp_chí, n, [tạp_chí], "một loại ấn phẩm định kỳ").
+entry(magdalen, n, [magdalens], "một gái điếm đã cải tà quy chính").
+entry(mage, n, [mages], "một pháp sư").
+entry(magenta, n, [magentas], "một loại thuốc nhuộm đỏ tía").
+entry(maggot, n, [ấu_trùng], "dạng ấu trùng không chân của một số loài côn trùngMAGGOTY adj").
+entry(magi, pl, [], "của phù thủy").
+entry(magian, n, [magians], "một thầy phù thủy").
+entry(ma thuật, v, [bị ma thuật, đang ma thuật, pháp thuật], "tác động bởi ma thuật hoặc phù thủy").
+entry(ma thuật, adj, [], "giống như phép thuật").
+entry(phù_thủy, n, [phù_thủy], "một người tài ba trong phép thuật").
+entry(magicked, quá_khứ, [], "thì của magic").
+entry(magicking, hiện tại, [], "phân từ của magic").
+entry(magilp, n, [magilps], "megilp").
+entry(magister, n, [magisters], "một thầy giáo hoặc thầy dạy").
+entry(tàu đệm từ, n, [tàu đệm từ], "một loại tàu sử dụng nam châm để di chuyển trên đường ray").
+entry(magma, n, [magmas], "hoặc MAGMATAchất nóng chảy từ đó đá mácma được hình thànhMAGMATIC adj").
+entry(trùm, n, [trùm], "một người quyền lực hoặc có ảnh hưởng").
+entry(magnesia, n, [magnesias], "một hợp chất dược phẩmMAGNESIC adj").
+entry(nam châm, n, [nam châm], "một vật có tính chất hút sắt").
+entry(magnetic, n, [nam châm], "một nam châm").
+entry(magneto, n, [magnetos], "một loại máy phát điện").
+entry(magneton, n, [magnetons], "một đơn vị của mômen từ").
+entry(hoành tráng, adj, [], "magnificent").
+entry(phóng_to, v, [đã_phóng_to,đang_phóng_to,phóng_to], "tăng kích thước nhìn thấy của").
+entry(magnolia, n, [magnolias], "một loại cây bụi hoặc cây có hoa").
+entry(magnox, n, [magnoxes], "một hợp kim dựa trên magiê").
+entry(magnum, n, [magnums], "một chai rượu vang lớn").
+entry(magot, n, [con magot], "một loài vượn không đuôi").
+entry(chim_choc, n, [những_con_chim_choc], "một loài chim họ quạ").
+entry(maguey, n, [magueys], "một loại cây nhiệt đới").
+entry(magus, n, [pháp sư], "một phù thủy").
+entry(mahant, n, [mahants], "một thầy tu Ấn giáo trưởng").
+entry(maharaja, n, [maharajas], "một vị vua hoặc hoàng tử ở Ấn Độ").
+entry(maharani, n, [maharanis], "vợ của một vị maharaja").
+entry(mahatma, n, [mahatmas], "một hiền triết Hindu").
+entry(mahimahi, n, [mahimahis], "một loại cá thực phẩm ở Hawaii").
+entry(mahjong, n, [mahjongs], "một trò chơi có nguồn gốc từ Trung Quốc").
+entry(mahjongg, n, [mahjonggs], "mạt chược").
+entry(mahoe, n, [mahoes], "một loại cây nhiệt đới").
+entry(cây dái ngựa, n, [cây dái ngựa], "một loại cây nhiệt đới").
+entry(mahonia, n, [mahonias], "một loại cây bụi có hoa").
+entry(mahout, n, [mahouts], "người chăm sóc và điều khiển voi").
+entry(mahua, n, [mahuas], "một loại cây Ấn Độ").
+entry(mahuang, n, [mahuangs], "một loại cây châu Á").
+entry(mahwa, n, [mahwas], "mahua").
+entry(mahzor, n, [mahzors], "hoặc MAHZORIMmột cuốn sách cầu nguyện của Do Thái giáo").
+entry(maiasaur, n, [maiasaurs], "một loài khủng long ăn cỏ").
+entry(maid, n, [maids], "cô gái trinh nữ").
+mục(maidan, n, [maidan], "một không gian mở trong hoặc gần một thị trấn").
+entry(maiden, n, [maidens], "một phụ nữ trẻ chưa kết hônMAIDENLY adj").
+entry(maidhood, n, [maidhoods], "tình trạng là một thiếu nữ").
+entry(maieutic, adj, [], "liên quan đến một phương pháp khơi gợi kiến thức").
+entry(maigre, adj, [], "không chứa thịt hoặc nước thịt").
+entry(maihem, n, [maihems], "hỗn loạn").
+entry(mail, v, [mailed,mailing,mails], "gửi qua hệ thống bưu chính của chính phủMAILABLE adj").
+entry(mailbag, n, [bao thư], "một túi để chứa thư từ bưu điện").
+entry(hộp thư, n, [hộp thư], "một cái hộp để gửi thư").
+entry(maile, n, [mailes], "một loại dây leo trên đảo Thái Bình Dương").
+entry(máy_gửi_thư, n, [máy_gửi_thư], "cái dùng để gửi thư").
+entry(mailing, n, [mailings], "một trang trại cho thuê").
+entry(maill, n, [maills], "một khoản thanh toán").
+entry(mailless, adj, [], "không có áo giáp").
+entry(maillot, n, [maillots], "đồ bơi một mảnh của phụ nữ").
+entry(mailman, n, [mailmen], "một người đàn ông vận chuyển và giao thư từ").
+entry(phòng thư, n, [các phòng thư], "một phòng để xử lý thư").
+entry(gửi thư tiếp thị, n, [những thư tiếp thị], "một thứ gì đó được gửi đến nhiều người cùng một lúc").
+entry(maim, v, [làm què,làm què quặt, làm què], "làm bị thương để gây ra thiệt hại lâu dài").
+entry(maimer, n, [maimer], "một cái làm trầy xước").
+entry(main, n, [mains], "phần chính").
+entry(lục_địa_chính, n, [các_lục_địa_chính], "một khối đất liền chính").
+mục_chính(mainline, v, [chính_mạch,chính_mạch_hóa,chính_mạch_hóa_các], "tiêm thuốc phiện vào tĩnh mạch lớn").
+entry(chủ_yếu, adv, [], "phần lớn").
+entry(mainmast, n, [mainmasts], "cột buồm chính của một con tàu").
+entry(buồm chính, n, [buồm chính], "buồm chính của một con tàu").
+entry(nơi nương tựa, n, [những nơi nương tựa], "một hỗ trợ chính").
+entry(bảo trì, v, [đã_bảo_trì,đang_bảo_trì,bảo_trì], "để giữ trong điều kiện thích hợp").
+entry(maintop, n, [maintops], "một bệ ở đầu một cột buồm chính").
+entry(maiolica, n, [maiolicas], "đồ gốm maiolica").
+entry(mair, n, [mairs], "nhiều hơn").
+entry(maist, n, [maists], "most").
+entry(ngô, n, [các loại ngô], "một loại cỏ ngũ cốc của Mỹ").
+entry(majagua, n, [majaguas], "một loại cây nhiệt đới").
+entry(uy nghi, adj, [], "có sự uy nghiêm").
+entry(uy_nghi, n, [uy_nghi], "phẩm giá vương giả").
+entry(majlis, n, [majlises], "quốc hội ở các quốc gia Bắc Phi và Trung Đông").
+entry(majolica, n, [majolica], "một loại gốm").
+entry(chuyên_ngành, v, [học_chuyên_ngành, đang_học_chuyên_ngành, các_chuyên_ngành], "theo đuổi một khóa học chính cụ thể").
+entry(majority, n, [majorities], "phần lớn hơn hoặc phần").
+entry(chủ_yếu, adv, [], "mainly").
+entry(makar, n, [makars], "một nhà thơ").
+mục_lục(tạo, v, [đã_tạo, đang_tạo, tạo], "khiến cho tồn tại").
+entry(makebate, n, [makebates], "một kẻ khuyến khích cãi vã").
+entry(makefast, n, [makefasts], "một vật mà một con thuyền được buộc vào").
+entry(makeover, n, [makeovers], "thay đổi diện mạo").
+entry(maker, n, [nhà_sản_xuất], "một người tạo ra").
+entry(trang_điểm, n, [trang_điểm], "cách mà các phần hoặc thành phần của một thứ gì đó được sắp xếp cùng nhau").
+entry(maki, n, [makis], "một món sushi và rau sống cuốn trong rong biển").
+entry(makimono, n, [makimonos], "một cuộn giấy trang trí của Nhật Bản").
+entry(making, n, [makings], "vật liệu từ đó cái gì đó có thể được phát triển").
+entry(mako, n, [makos], "một loài cá mập lớn").
+entry(makuta, pl, [], "của likuta").
+entry(malacca, n, [malaccas], "cây gậy làm từ cây mây châu Á").
+entry(bệnh tật, n, [các bệnh tật], "một căn bệnh").
+entry(malaise, n, [malaises], "cảm giác khó chịu mơ hồ").
+entry(malamute, n, [malamutes], "một loài chó kéo xe ở Alaska").
+entry(malanga, n, [malangas], "một loại khoai môn").
+entry(malapert, n, [malaperts], "một người trơ tráo").
+entry(malaprop, n, [malaprops], "sự sử dụng sai hài hước của một từ").
+entry(malar, n, [malars], "xương gò má").
+nhập(malaria, n, [malarias], "một bệnh truyền nhiễmMALARIAN MALARIAN adj").
+entry(malarkey, n, [malarkeys], "vô nghĩa").
+entry(malarky, n, [malarkies], "vô lý").
+entry(malaroma, n, [malaromas], "mùi hôi thối").
+entry(malate, n, [malates], "một loại muối hóa học").
+entry(nam, n, [nguoi_nam], "một cá nhân sinh ra trẻ bằng cách thụ tinh cho con cái").
+entry(maleate, n, [maleates], "một loại muối hóa học").
+entry(maledict, v, [maledicted,maledicting,maledicts], "nguyền rủa").
+entry(malefic, adj, [], "tạo ra hoặc gây ra điều ác").
+entry(malemiut, n, [malemiuts], "malamute").
+entry(malemute, n, [malemutes], "malamute").
+entry(nam tính, n, [tính nam], "chất lượng của việc là một nam giới").
+entry(malfed, adj, [], "bị cho ăn không tốt").
+entry(malgre, giới_từ, [], "mặc dù").
+entry(malic, adj, [], "liên quan đến táo").
+entry(malice, n, [malices], "một khao khát làm hại người khác").
+entry(malign, v, [maligned,maligning,maligns], "nói xấu").
+entry(kẻ vu khống, n, [kẻ vu khống], "một người vu khống").
+entry(malignly, adv, [], "một cách xấu xa").
+entry(malihini, n, [malihinis], "một người mới đến Hawaii").
+entry(maline, n, [malines], "một loại lưới tinh tế dùng cho mạng che mặt").
+entry(giả_bệnh, v, [giả_bệnh_rồi,đang_giả_bệnh,giả_bệnh], "giả vờ ốm để tránh nhiệm vụ hoặc công việc").
+entry(malison, n, [malisons], "một lời nguyền").
+entry(malkin, n, [malkins], "một người phụ nữ luộm thuộm").
+entry(mall, v, [malled,malling,malls], "tấn công").
+entry(mallard, n, [mallards], "một loài vịt hoang dã").
+entry(mallee, n, [mallees], "một loại cây thường xanh").
+entry(mallei, pl, [], "của xương búa").
+entry(malleoli, npl, [], "những phần nhô xương của mắt cá chân").
+entry(mallet, n, [mallets], "một loại búa").
+entry(malleus, n, [mallei], "một xương của tai giữa").
+entry(malling, n, [mallings], "thói quen mua sắm tại các trung tâm thương mại lớn với nhiều cửa hàng").
+entry(ké hoa hồng, n, [các loài ké hoa hồng], "một loại cây có hoa").
+entry(malm, n, [malms], "một loại đá vôi mềm dễ giòn").
+entry(malmsey, n, [malmseys], "một loại rượu vang trắng").
+entry(malmy, adj, [], "MALMIER MALMIESTgiống malm").
+entry(mùi hôi, n, [các mùi hôi], "một mùi khó chịu").
+entry(malonate, n, [malonates], "muối hoặc este của axit malonic").
+entry(maloti, pl, [], "của loti").
+entry(malposed, adj, [], "ở vị trí sai").
+mục(mạch nha, v, [mạch nha hóa, đang mạch nha hóa, các mạch nha], "để xử lý hoặc kết hợp với hạt nảy mầm được malt hóa").
+entry(maltase, n, [maltases], "một enzyme").
+entry(malted, n, [malteds], "một loại đồ uống ngọt").
+entry(maltha, n, [malthas], "một loại nhựa đường tự nhiên").
+entry(maltier, so_sanh, [], "của mạch nha").
+entry(maltiest, superlative, [], "của malty").
+entry(malting, n, [maltings], "quá trình chuẩn bị hạt ngũ cốc để ủ bia").
+entry(maltol, n, [maltols], "một hợp chất hóa học").
+entry(maltose, n, [maltoses], "một loại đường").
+entry(ngược_đãi, v, [đã_ngược_đãi,đang_ngược_đãi,ngược_đãi], "đối xử tồi tệ").
+entry(nhà_chế_biến_mạch_nha, n, [các_nhà_chế_biến_mạch_nha], "người làm mạch nha").
+entry(malty, adj, [], "GIỐNG MẠCH NHA HƠN GIỐNG MẠCH NHA NHẤT giống như mạch nha").
+entry(malvasia, n, [malvasias], "malmsey").
+entry(phần_mềm_độc_hại, n, [các_phần_mềm_độc_hại], "phần mềm được thiết kế để vô hiệu hóa máy tính").
+entry(mam, n, [mams], "mẹ").
+entry(mama, n, [mẹ], "mẹ").
+entry(mamaliga, n, [mamaligas], "một món cháo bột ngô").
+entry(mamasan, n, [mamasans], "một người phụ nữ Nhật Bản có vị trí quyền lực").
+entry(mamateek, n, [mamateeks], "một loại lều da").
+entry(mamba, n, [mambas], "một con rắn có nọc độc").
+entry(mambo, v, [mamboed,mamboing,mamboes], "hoặc MAMBOSt thực hiện một điệu nhảy khiêu vũ trong phòng khiêu vũ").
+entry(mamee, n, [mamees], "cây mamey").
+entry(mameluke, n, [mamelukes], "một nô lệ ở các nước Hồi giáo").
+mục(mamey, n, [mameys], "hoặc MAMEYES, một loại cây nhiệt đới").
+entry(mamie, n, [mamies], "măng cụt").
+entry(mamilla, n, [mamillae], "núm vú").
+entry(mamluk, n, [mamluks], "mamluk").
+entry(mamma, n, [mammae], "một cơ quan tiết sữa").
+entry(mamma, n, [những_mammas], "mẹ").
+entry(động_vật_có_vú, n, [các_loài_động_vật_có_vú], "bất kỳ loài nào thuộc lớp động vật có xương sống máu nóng").
+entry(mammary, adj, [], "thuộc về tuyến vú").
+entry(mammate, adj, [], "có tuyến vú").
+entry(mammatus, n, [mammati], "một loại mây").
+entry(mammee, n, [mammees], "mamey").
+entry(mammer, v, [mammered,mammering,mammers], "do dự").
+entry(mammet, n, [mammets], "maumet").
+entry(mammey, n, [mammeys], "quả mamey").
+entry(mammie, n, [mammies], "mẹ").
+entry(mammies, pl, [], "của mẹ").
+entry(mammilla, n, [mammillae], "núm vú").
+entry(mammitis, n, [mammitides], "viêm vú").
+entry(mammock, v, [mammocked,mammocking,mammocks], "xé nát").
+entry(mammon, n, [mammons], "sự giàu có vật chất").
+entry(mammoth, n, [mammoths], "một loài voi tuyệt chủng").
+entry(mammy, n, [mammies], "mẹ").
+entry(mamzer, n, [mamzers], "một đứa con hoang").
+entry(nam, n, [những_người_đàn_ông], "một nam giới trưởng thành").
+entry(nam, v, [nammed, namming, nams], "cung cấp người").
+entry(mana, n, [manas], "một lực lượng siêu nhiên trong một số tôn giáo trên các đảo Thái Bình Dương").
+entry(manacle, v, [manacled,manacling,manacles], "còng tay").
+entry(quản_lý, v, [đã_quản_lý,đang_quản_lý,quản_lý], "để điều khiển hoặc chỉ đạo").
+mục(nhà_quản_lý, n, [các_nhà_quản_lý], "người quản lý").
+entry(manakin, n, [manakins], "một loài chim nhiệt đới").
+entry(manana, n, [mananas], "ngày mai").
+muc(mana, n, [manas], "một đơn vị tiền tệ của Azerbaijan").
+entry(lamantin, n, [lamantins], "một loài động vật có vú sống dưới nướcMANATOID adj").
+entry(manche, n, [manches], "một thiết kế trong huy hiệu học").
+entry(manchet, n, [manchets], "một ổ bánh mì trắng nhỏ ngon").
+entry(manciple, n, [manciples], "một viên chức được phép mua sắm hàng dự trữ").
+entry(mandala, n, [mandalas], "một biểu tượng đồ họa Hindu hoặc Phật giáo của vũ trụ MANDALIC adj").
+mục(mandamus, v, [mandamused,mandamusing,mandamuses], "ra lệnh bằng cách sử dụng mệnh lệnh được cấp bởi tòa án cấp trên").
+entry(quýt, n, [quýt], "một loại trái cây họ cam quýt").
+entry(mandate, v, [mandated,mandating,mandates], "ủy quyền hoặc ra lệnh").
+entry(bên_bắt_buộc, n, [bên_bắt_buộc], "người ra lệnh").
+entry(mandible, n, [hàm dưới], "xương của hàm dưới").
+entry(mandioca, n, [mandiocas], "sắn").
+entry(mandola, n, [mandolas], "một loại đàn luýt cổ").
+entry(măng-đô-lin, n, [măng-đô-lin], "một nhạc cụ có dây").
+entry(mandora, n, [các_mandora], "một nhạc cụ có dây").
+entry(mandorla, n, [mandorlas], "một hình bầu dục nhọn").
+entry(mandrake, n, [mandrakes], "một loại thảo dược Châu Âu").
+entry(trục, n, [trục], "một trục mà trên đó một công cụ được gắn").
+entry(mandril, n, [con_mandrila], "khỉ mandril").
+entry(khỉ mặt chó, n, [khỉ mặt chó], "một loại khỉ lớn").
+entry(mane, n, [manes], "lông dài mọc trên và quanh cổ của một số động vật MANED MANELESS adj").
+entry(maneb, n, [manebs], "bột dùng để tiêu diệt nấm").
+entry(manege, n, [maneges], "nghệ thuật huấn luyện và cưỡi ngựa").
+entry(maneuver, v, [maneuvered,maneuvering,maneuvers], "thay đổi vị trí vì mục đích cụ thể").
+entry(manful, adj, [], "courageousMANFULLY adv").
+entry(manga, n, [manga], "một tiểu thuyết đồ họa Nhật Bản").
+entry(mangabey, n, [mangabeys], "một loài khỉ đuôi dài").
+entry(mangaby, n, [mangabies], "khỉ mangabey").
+entry(manganic, adj, [], "chứa mangan, một nguyên tố kim loại").
+entry(manganin, n, [manganins], "một hợp kim của đồng mangan và niken").
+entry(mange, n, [manges], "một bệnh da của động vật nuôi").
+entry(mangel, n, [mangels], "một loại củ dền").
+entry(máng ăn, n, [máng ăn], "một cái máng hoặc hộp mà ngựa hoặc gia súc ăn từ đó").
+entry(hôi_hám, adj, [], "HÔI_HÁM HÔI_NHẤT").
+entry(mangier, so_sánh, [], "của mangy").
+entry(mangiest, so sánh nhất, [], "của mangy").
+entry(mangily, adv, [], "một cách ghẻ lạnh").
+entry(mangle, v, [mangled,mangling,mangles], "cắt, chém hoặc nghiền nát để làm biến dạng").
+mục(làm méo, n, [người làm méo], "một người làm biến dạng").
+entry(mango, n, [mangos], "hoặc MANGOESmột loại trái cây nhiệt đới ăn được").
+entry(mangold, n, [mangolds], "cây măng tây").
+entry(mangonel, n, [mangonels], "một thiết bị quân sự thời trung cổ để ném đá").
+entry(được, n, [được], "một cây hoặc bụi nhiệt đới").
+mục(lở lói, adj, [], "BỊ ẢNH HƯỞNG BỞI BỆNH GHẺ NGỨA NẶNG HƠN NẶNG NHẤT").
+mục(cửa cống, n, [cửa cống], "một lỗ cung cấp lối vào một cấu trúc ngầm hoặc kín").
+entry(manhood, n, [manhoods], "trạng thái của việc là một người đàn ông").
+entry(truy_bat, n, [truy_bats], "cuộc tìm kiếm gắt gao một người").
+entry(mania, n, [manias], "sự quan tâm hoặc nhiệt tình quá mức").
+entry(maniac, n, [maniacs], "một người điênMANIACAL adj").
+entry(manic, n, [manics], "người bị ảnh hưởng bởi chứng hưng cảm").
+mục(làm móng tay, v, [đã làm móng tay,đang làm móng tay,làm móng tay], "để cắt tỉa và đánh bóng móng tay của").
+entry(manifest, v, [manifested,manifesting,manifests], "hiển thị rõ ràng").
+entry(manifold, v, [manifolded,manifolding,manifolds], "tạo ra nhiều bản sao").
+entry(manihot, n, [manihots], "một loại cây nhiệt đới").
+entry(người nộm, n, [các người nộm], "một mô hình giải phẫu của cơ thể con người").
+entry(manila, n, [manilas], "một loại giấy dai").
+entry(manilla, n, [manillas], "manila").
+entry(manille, n, [manilles], "lá chủ đứng thứ hai trong một số trò chơi bài").
+entry(sắn, n, [củ sắn], "một loại cây nhiệt đới").
+entry(manioca, n, [maniocas], "sắn").
+entry(maniple, n, [maniples], "một dải lụa đeo trên cánh tay trái như một lễ phục").
+entry(manito, n, [manitos], "manitou").
+entry(manitou, n, [manitous], "một vị thần của người Ấn Độ Algonquian").
+entry(manitu, n, [manitus], "manitou").
+entry(nhân_loại, n, [nhân_loại], "loài người").
+entry(manky, adj, [], "MANKIER MANKIESTinferior defective").
+entry(manless, adj, [], "không có người đàn ông").
+entry(manlike, adj, [], "giống một người đàn ông").
+entry(manly, adj, [], "MANLIER MANLIESTcó phẩm chất của một người đàn ôngMANLILY adv").
+entry(nhân_tạo, adj, [], "do con người tạo ra").
+entry(manna, n, [mannas], "lương thực được cung cấp bởi thần linh").
+entry(mannan, n, [mannans], "một loại đường").
+entry(có người lái, quá khứ, [], "thì của 'man'").
+entry(cách thức, n, [cách cư xử], "một cách hành độngCÓ CÁCH adj").
+entry(mannerly, adj, [], "lịch sự").
+entry(mannikin, n, [mannikins], "ma nơ canh").
+entry(manning, hiện tại, [], "phân từ của man").
+entry(mannish, adj, [], "giống hoặc có đặc trưng của một người đàn ông").
+entry(mannite, n, [mannites], "mannozaMANNITIC adj").
+entry(mannitol, n, [mannitols], "một loại cồn").
+entry(manôzơ, n, [manôzơ], "một loại đường").
+entry(mano, n, [manos], "một hòn đá dùng để nghiền thực phẩm").
+entry(dinh_thu, n, [dinh_thu], "một điền trang hoặc một đơn vị lãnh thổDINH_THU_thuoc_tinh").
+entry(manpack, adj, [], "thiết kế để mang theo bởi một người").
+entry(nhân lực, n, [nhân lực], "số lượng người có sẵn để phục vụ").
+entry(manque, adj, [], "thất vọng trong việc đạt được những khao khát của chính mình").
+entry(manrope, n, [manropes], "một sợi dây thừng được dùng làm tay vịn").
+entry(mansard, n, [mái mansard], "một loại mái nhà").
+entry(manscape, v, [manscaped,manscaping,manscapes], "tỉa hoặc cạo lông trên cơ thể nam giới để cải thiện ngoại hình").
+entry(manse, n, [manses], "một ngôi nhà của giáo sĩ").
+entry(biệt_thự, n, [biệt_thự], "một ngôi nhà lớn ấn tượng").
+entry(manta, n, [mantas], "một loại vải bông").
+entry(manteau, n, [manteaus], "hoặc MANTEAUXmột chiếc áo choàng rộng").
+mục(mantel, n, [mantels], "một cái kệ trên lò sưởi").
+entry(mantelet, n, [mantelets], "một màn chắn di động được sử dụng để bảo vệ binh lính").
+entry(mantes, a, [], "số nhiều của mantis").
+entry(mantic, adj, [], "có khả năng tiên tri").
+entry(bọ ngựa, n, [bọ ngựa], "mantis").
+entry(mantilla, n, [mantillas], "khăn choàng của phụ nữ").
+entry(bọ ngựa, n, [bọ ngựa], "hoặc MANTESa côn trùng ăn thịt").
+entry(mantissa, n, [mantissas], "phần thập phân của một logarit").
+entry(mantle, v, [mantled,mantling,mantles], "che đậy").
+entry(mantlet, n, [mantlets], "mantelet").
+entry(khăn trang trí, n, [khăn trang trí], "một tấm vải trang trí").
+entry(mantra, n, [mantras], "công thức huyền bí của lời cầu nguyện hoặc bùa chú trong đạo HinduMANTRIC adj").
+muc(mantram, n, [mantrams], "mantra").
+entry(bẫy_người, n, [bẫy_người], "một cái bẫy để bắt người").
+entry(mantua, n, [mantuas], "áo choàng của phụ nữ").
+entry(sổ_tay, n, [sổ_tay], "một cuốn sách tham khảo nhỏ").
+entry(thủ_công, adv, [], "bằng tay").
+entry(manuary, adj, [], "liên quan đến đôi tay").
+entry(manubria, npl, [], "các bộ phận giải phẫu có hình dạng tay cầm").
+entry(manucode, n, [manucodes], "một loài chim thiên đường").
+entry(manuka, n, [manukas], "một loại cây nhỏ của New Zealand").
+entry(giải_phóng, v, [đã_giải_phóng,đang_giải_phóng,giải_phóng], "giải phóng khỏi chế độ nô lệ").
+entry(phân chuồng, v, [đã bón phân, đang bón phân, bón phân], "để bón phân với phân chuồng từ phân động vật").
+entry(manurer, n, [manurers], "người bón phân").
+entry(manurial, adj, [], "thuộc về phân bón").
+entry(manuring, present, [], "phân từ của manure").
+entry(manus, n, [manus], "phần cuối của chi trước ở động vật có xương sống").
+entry(manward, adv, [], "hướng về phía con người").
+entry(manwards, adv, [], "về phía con người").
+entry(manwise, adv, [], "theo cách đặc trưng của con người").
+entry(nhiều, adj, [], "NHIỀU NHẤT bao gồm hoặc lên tới một số lượng lớn").
+entry(manyfold, adv, [], "nhiều lần").
+entry(map, v, [bản_đồ, lập_bản_đồ, bản_đồ_hóa], "để vẽ trên bản đồ một sự thể hiện của một vùng").
+entry(phong, n, [phongs], "một loại cây gỗ cứng").
+entry(mapless, adj, [], "thiếu bản đồ").
+entry(maplike, adj, [], "giống như một bản đồ").
+nhập(mapmaker, n, [mapmakers], "một người làm bản đồ").
+entry(mappable, adj, [], "có khả năng được ánh xạ").
+entry(mapped, past, [], "thì của map").
+entry(mapper, n, [mappers], "người vẽ bản đồ").
+entry(mapping, n, [ánh xạ], "một sự tương ứng toán học").
+entry(maquette, n, [maquettes], "một mô hình sơ bộ nhỏ").
+entry(maqui, n, [maquis], "maquis").
+entry(maquila, n, [maquilas], "một nhà máy lắp ráp thuộc sở hữu nước ngoài ở Mexico").
+entry(maquis, n, [maquis], "một bụi cây rậm rạp").
+entry(mar, v, [marred,marring,mars], "làm giảm sự hoàn hảo hoặc tổng thể của").
+entry(mara, n, [maras], "một loài thú gặm nhấm ở Argentina").
+entry(marabou, n, [marabous], "một loài cò tại Châu Phi").
+entry(marabout, n, [marabouts], "một con cò").
+entry(maraca, n, [maracas], "một nhạc cụ gõ").
+entry(maranta, n, [marantas], "một loại cây nhiệt đới").
+entry(marasca, n, [marascas], "một loại anh đào dại").
+mục_từ(người_suy_dinh_dưỡng, n, [người_suy_dinh_dưỡng], "sự tiều tụy của cơ thểMARASMIC adj").
+entry(marathon, n, [marathons], "một cuộc đua đường dài").
+entry(maraud, v, [marauded,marauding,marauds], "đi cướp bóc tìm chiến lợi phẩm").
+entry(kẻ-cướp-bóc, n, [những-kẻ-cướp-bóc], "một người tiến hành cướp bóc").
+entry(maravedi, n, [maravedis], "một loại tiền xu cũ của Tây Ban Nha").
+mục(marble, v, [marbled,marbling,marbles], "để tạo ra vẻ ngoài lốm đốm cho").
+entry(marbler, n, [marblers], "một người đánh cẩm thạch").
+entry(marbling, n, [marblings], "sự xen kẽ của mỡ và nạc trong thịt").
+entry(marbly, adj, [], "MARBLIER MARBLIESTlốm đốm").
+entry(marc, n, [marcs], "phần còn sót lại sau khi quả đã được ép").
+entry(marcato, n, [marcatos], "một đoạn nhạc được chơi với sự nhấn mạnh mạnh mẽ").
+entry(marcel, v, [marcelled, marcelling, marcels], "tạo một gợn sóng mềm sâu trong tóc").
+mục(march, v, [marched, marching, marches], "đi theo kiểu quân đội trang trọng").
+entry(marchen, n, [marchen], "một câu chuyện dân gian").
+entry(marcher, n, [người_diễu_hành], "người diễu hành").
+entry(marchesa, n, [marchese], "vợ hoặc quả phụ của một marchese").
+entry(marchese, n, [marchesi], "một quý tộc người Ý").
+entry(marconi, n, [marconis], "một máy phát thanh hai chiều").
+entry(mare, n, [maria], "một khu vực tối trên bề mặt của mặt trăng hoặc Sao Hỏa").
+entry(mare, n, [mares], "một con ngựa cái trưởng thành").
+entry(maremma, n, [maremme], "một vùng ven biển đầm lầy").
+entry(marengo, adj, [], "dùng với nước sốt nấm, cà chua, dầu và rượu").
+entry(margaric, adj, [], "ngọc trai").
+entry(margarin, n, [margarins], "một chất thay thế bơ").
+entry(margate, n, [margates], "một loài cá nhiệt đới").
+entry(margay, n, [margays], "một loài mèo rừng nhỏ ở châu Mỹ").
+entry(marge, n, [marges], "một lề").
+entry(margent, v, [margented,margenting,margents], "đặt lề").
+entry(margin, v, [margined,margining,margins], "cung cấp biên giới viền").
+entry(marginal, n, [các_khía_cạnh_rìa], "một người được coi là ở giới hạn dưới hoặc ngoài").
+entry(margrave, n, [hầu tước biên cương], "thống đốc quân sự của một tỉnh biên giới Đức thời trung cổ").
+entry(maria, pl, [], "của ngựa").
+entry(mariachi, n, [mariachis], "một ban nhạc Mexico").
+entry(cúc vạn thọ, n, [các cúc vạn thọ], "một loại cây hoa").
+entry(marimba, n, [marimbas], "một nhạc cụ gõ").
+entry(marina, n, [marinas], "khu vực neo đậu cho thuyền nhỏ").
+entry(marinade, v, [marinaded,marinading,marinades], "ướp").
+entry(marinara, n, [marinaras], "một loại nước sốt cà chua có gia vị").
+entry(ướp, v, [ướp rồi, đang ướp, ướp], "ngâm trong chất lỏng có gia vị trước khi nấu").
+entry(marine, n, [marines], "một người lính được huấn luyện để phục vụ trên biển và đất liền").
+entry(mariner, n, [các_thủy_thủ], "một thủy thủ").
+entry(mariposa, n, [mariposas], "một cây có hoa").
+entry(marish, n, [marishes], "đầm lầy").
+entry(hôn nhân, adj, [], "liên quan đến hôn nhân").
+entry(hàng_hải, adj, [], "liên quan đến hàng hải hoặc thương mại trên biển").
+entry(marjoram, n, [marjorams], "một loại thảo mộc thơm").
+entry(mark, v, [đã đánh dấu, đang đánh dấu, đánh dấu], "để tạo ra một ấn tượng có thể nhìn thấy").
+entry(marka, n, [markas], "hoặc MARAKAđơn vị tiền tệ của Bosnia và Herzegovina").
+entry(markdown, n, [markdowns], "một sự giảm giá").
+entry(markedly, adv, [], "một cách rõ ràng").
+entry(marker, n, [markers], "một cái đánh dấu").
+entry(market, v, [đưa ra thị trường, tiếp thị, thị trường], "để rao bán").
+entry(nhan_vien_tiep_thi, n, [nhan_vien_tiep_thi], "một người tiếp thị").
+entry(markhoor, n, [markhoors], "markhor").
+entry(markhor, n, [markhors], "một loài dê hoang dã").
+entry(marking, n, [dấu_vết], "một mẫu các dấu vết").
+entry(markka, n, [markkas], "hoặc MARKKAA một đơn vị tiền tệ trước đây của Phần Lan").
+entry(marksman, n, [marksmen], "một người có kỹ năng bắn trúng mục tiêu").
+entry(markup, n, [markups], "sự tăng giá").
+entry(marl, v, [marled, marling, marls], "bón vôi bằng một lớp đất có chứa vôi, đất sét và cát").
+entry(marlier, so_sánh, [], "của marly").
+entry(marliest, cấp_cao_nhất, [], "của đất sét").
+entry(marlin, n, [marlins], "một loại cá trò chơi biển").
+entry(marline, n, [dây chão], "một loại dây thừng dùng trên tàu").
+entry(marling, n, [marlings], "dây chằng buồm").
+entry(marlite, n, [marlites], "một loại đất marlMARLITIC adj").
+entry(marly, adj, [], "MARLIER MARLIESTnhiều đất sét").
+entry(marmite, n, [nồi súp lớn], "một loại nồi súp lớn").
+entry(khỉ cầy nhỏ, n, [những con khỉ cầy nhỏ], "một loài khỉ nhỏ").
+entry(chuột marmot, n, [chuột marmots], "một loài gặm nhấm sống dưới lòng đất").
+entry(marocain, n, [marocains], "một loại vải nhăn nhẹ").
+entry(maroon, v, [marooned,marooning,maroons], "bỏ rơi ở một nơi bị cô lập").
+entry(marplot, n, [marplots], "một người phá hỏng kế hoạch bằng cách can thiệp").
+entry(marque, n, [marques], "trả đũa").
+entry(mái che, n, [các mái che], "một cấu trúc giống như mái nhô ra trên lối vào").
+entry(marquess, n, [marquesses], "hầu tước").
+entry(hầu_tước, n, [hầu_tước], "một quý tộc châu Âu").
+entry(phu_nhan, n, [phu_nhan], "vợ hoặc góa phụ của một hầu tước").
+entry(marram, n, [marrams], "một loại cỏ biển").
+entry(marrano, n, [marranos], "một người Do Thái ở Tây Ban Nha, người tuyên bố theo đạo Cơ đốc để tránh bị đàn áp").
+entry(trạng_thái_hôn_nhân, quá_khứ, [], "thì của mar").
+entry(marrer, n, [marrers], "một cái làm hại").
+entry(hôn nhân, n, [hôn nhân], "sự kết hợp hợp pháp của hai người khác giới hoặc cùng giới").
+entry(married, n, [marrieds], "người đã kết hôn").
+entry(marrier, n, [marriers], "một người kết hôn").
+entry(marries, hiện tại, [], "ngôi thứ 3 số ít của marry").
+entry(marring, hiện tại, [], "phân từ của mar").
+entry(marron, n, [marrons], "một loại hạt dẻ").
+entry(marrow, v, [marrowed,marrowing,marrows], "kết hôn").
+entry(marrowy, adj, [], "ngắn gọn").
+mục(marry, v, [kết_hôn,đang_kết_hôn,kết_hôn], "để vào hôn nhân").
+entry(marsala, n, [marsalas], "một loại rượu Sicily").
+entry(marse, n, [marses], "thạc sĩ").
+entry(marsh, n, [marshes], "một vùng đất ẩm thấpMARSHED adj").
+entry(marshal, v, [được sắp xếp, đang sắp xếp, sắp xếp], "để đặt vào trật tự đúng").
+entry(marshall, v, [marshalled,marshalling,marshalls], "điều động").
+entry(marshy, adj, [], "MARSHIER MARSHIESTgiống như đầm lầy").
+entry(marsupia, npl, [], "túi bụng của một số động vật có vú").
+entry(mart, v, [marted,marting,marts], "rao bán").
+entry(martagon, n, [martagons], "một loại cây có hoa").
+entry(martello, n, [martellos], "một pháo đài hình tròn").
+entry(chồn, n, [chồn], "một loài động vật có vú ăn thịt").
+entry(martial, adj, [], "liên quan đến chiến tranh").
+entry(martian, n, [người sao Hỏa], "một cư dân giả định của hành tinh Sao Hỏa").
+entry(martin, n, [martins], "chim nhỏ").
+entry(martinet, n, [martinets], "một người đòi hỏi tuân thủ nghiêm ngặt các quy tắc").
+entry(martini, n, [martinis], "một loại đồ uống có cồn").
+entry(martlet, n, [martlets], "một loài chim nhạn").
+entry(martyr, v, [bị_tử_vì_đạo, đang_tử_vì_đạo, tử_vì_đạo], "bị giết vì giữ một niềm tin").
+entry(martyrly, adj, [], "giống như một liệt sĩ").
+entry(martyry, n, [martyries], "một ngôi đền được dựng lên để vinh danh một người tử đạo").
+entry(marvel, v, [marveled,marveling,marvels], "hoặc MARVELLED MARVELLING MARVELSto để tràn ngập sự ngạc nhiên hoặc kinh ngạc").
+entry(marveler, n, [marvelers], "một người ngạc nhiên").
+entry(marvy, adj, [], "tuyệt vời").
+entry(maryjane, n, [maryjanes], "cần sa").
+entry(marzipan, n, [marzipans], "một loại kẹo hạnh nhân").
+entry(masa, n, [masas], "bột ngô khô").
+entry(masala, n, [masalas], "một hỗn hợp gia vị được sử dụng trong nấu ăn Ấn Độ").
+entry(mascara, v, [mascaraed,mascaraing,mascaras], "tô màu lông mi hoặc lông mày bằng mỹ phẩm").
+entry(mascon, n, [mascons], "một sự tập trung của khối lượng dày đặc bên dưới bề mặt mặt trăng").
+entry(linh_vat, n, [linh_vats], "một người, động vật hoặc vật thể được tin là mang lại may mắn").
+entry(maser, n, [masers], "một thiết bị để khuếch đại các xung điện").
+entry(mash, v, [nghiền,nghiền nát,nghiền], "biến thành một khối bột nhão").
+entry(máy nghiền, n, [máy nghiền], "một thiết bị dùng để nghiền").
+entry(mashgiah, n, [mashgihim], "một người kiểm tra các cơ sở kosher").
+entry(mashie, n, [mashies], "một câu lạc bộ golf").
+entry(mashy, n, [mashies], "mashie").
+entry(masjid, n, [masjid], "một nhà thờ Hồi giáo").
+entry(mask, v, [masked,masking,masks], "để che bằng một chiếc mặt nạ, một dụng cụ dùng để che mặtMASKABLE adj").
+entry(maskeg, n, [maskegs], "muskeg").
+entry(masker, n, [người đeo mặt nạ], "một người đeo mặt nạ").
+mục(masking, n, [maskings], "một phần của cảnh quan được sử dụng để che giấu phần sân khấu khỏi khán giả").
+entry(masklike, adj, [], "gợi ý về một chiếc mặt nạ").
+entry(mason, v, [masoned,masoning,masons], "xây dựng bằng đá hoặc gạch").
+entry(masonic, adj, [], "liên quan đến nghề thợ nề").
+entry(masonry, n, [masonries], "một cấu trúc được xây bằng đá hoặc gạch").
+entry(masque, n, [masques], "một hình thức giải trí kịch tính từng phổ biến ở Anh").
+entry(masquer, n, [masquers], "người đeo mặt nạ").
+entry(khối lượng, v, [khối lượng hóa, đang khối lượng hóa, khối lượng hóa], "tập hợp một khối lượng thành một thể chất đồng nhất").
+entry(massa, n, [massas], "thạc sĩ").
+entry(thảm_sát, v, [đã_thảm_sát,đang_thảm_sát,thảm_sát], "giết mà không phân biệt").
+entry(massage, v, [massaged,massaging,massages], "để xoa bóp các phần của cơ thể cho mục đích phục hồi hoặc vệ sinh").
+entry(massager, n, [những người mát-xa], "một người mát-xa").
+entry(masscult, n, [masscults], "văn hóa được phổ biến rộng rãi bởi truyền thông đại chúng").
+entry(masse, n, [masses], "một loại cú đánh trong bi-a").
+entry(massedly, adv, [], "một cách tập trung").
+entry(masseter, n, [masseters], "một cơ nâng hàm dưới").
+entry(masseur, n, [những người mát-xa], "một người đàn ông thực hiện mát-xa").
+entry(masseuse, n, [masseuses], "một phụ nữ làm nghề massage").
+entry(massicot, n, [massicots], "một chất màu vàng").
+entry(massier, so_sánh_hơn, [], "of massy").
+entry(massiest, superlative, [], "có khối lượng lớn").
+entry(massif, n, [massifs], "một dãy núi chính").
+entry(khổng_lồ, adj, [], "có kích thước đáng kể").
+entry(massless, adj, [], "không có khối lượng").
+entry(massy, adj, [], "MASSIER MASSIESTmassive").
+entry(mast, v, [masted,masting,masts], "để trang bị cột buồm, là một cây cột dài trên tàu để giữ buồm và dây buộc").
+entry(mastaba, n, [mastabas], "một ngôi mộ cổ của Ai Cập").
+entry(mastabah, n, [mastabahs], "mastaba").
+entry(master, v, [nắm vững,đang nắm vững,nắm vững], "để trở nên thành thạo trong").
+entry(masterly, adj, [], "rất khéo léo").
+entry(thành_thạo, n, [thành_thạo], "kiến thức hoặc kỹ năng vượt trội").
+entry(masthead, v, [mastheaded,mastheading,mastheads], "để nâng lên đỉnh cột buồm").
+entry(mastic, n, [mastics], "một loại nhựa thơm").
+entry(mastiche, n, [mastiches], "mastic").
+entry(mastiff, n, [mastiffs], "một giống chó lớn lông ngắn").
+mục(n, viêm vú, [mastitides], "viêm vúMASTITIC adj").
+entry(mastix, n, [mastixes], "nhựa thơm").
+entry(mastless, adj, [], "không có cột buồm").
+entry(mastlike, adj, [], "giống như cột buồm").
+entry(mastodon, n, [mastodons], "một loài động vật có vú đã tuyệt chủng giống như voi").
+entry(mastoid, n, [mastoids], "phần phía sau của xương thái dương").
+entry(masurium, n, [masuriums], "một nguyên tố kim loại").
+entry(mat, v, [matted,matting,mats], "nén lại thành một khối đặc").
+mục_lục(matador, n, [matadors], "võ sĩ đấu bò giết con bò trong một trận đấu bò").
+entry(matambala, a, [], "số nhiều của tambala").
+entry(match, v, [phù_hợp,phù_hợping,phù_hợps], "đưa vào cuộc thi đấu hoặc đối kháng").
+entry(matchbox, n, [matchboxes], "một chiếc hộp nhỏ").
+entry(matcher, n, [matchers], "một cái phù hợp").
+entry(matchup, n, [cuộc_đối_đầu], "một tình huống của hai người chơi đối đầu nhau").
+entry(mate, v, [mated,mating,mates], "kết hợp như bạn đời trong một liên kết").
+entry(mateless, adj, [], "không có bạn đời").
+entry(thuy_thu, n, [thuy_thu], "một người thủy thủ").
+entry(matelote, n, [matelotes], "món súp cá").
+entry(mater, n, [maters], "hoặc MATRESmẹ").
+entry(chất_liệu, n, [chất_liệu], "chất mà bất cứ thứ gì được hoặc có thể được cấu thành").
+mục(materiel, n, [materiels], "tổng hợp trang thiết bị và dụng cụ được sử dụng bởi một tổ chức").
+entry(maternal, adj, [], "liên quan đến hoặc đặc trưng của một người mẹ").
+entry(mateship, n, [mateships], "trạng thái là một người bạn").
+entry(matey, n, [mateys], "một người bạn").
+entry(matey, adj, [], "MATIER MATIESTthân thiện").
+entry(math, n, [toán], "toán học").
+entry(matilda, n, [matildas], "một cái túi của người vô gia cư").
+entry(matin, n, [matins], "một bài hát buổi sáng của chim chóc").
+entry(matinal, adj, [], "thuộc về buổi sáng").
+entry(matinee, n, [các_buổi_diễn_ban_ngày], "một buổi biểu diễn ban ngày").
+entry(matiness, n, [matinesses], "sự thân thiện").
+entry(giao_phối, n, [giao_phối], "khoảng thời gian mà một loài động vật sinh sản theo mùa có thể giao phối").
+entry(matless, adj, [], "không có thảm nhỏ phủ sàn").
+entry(nệm, n, [nệm], "bình thủy tinh có cổ dài").
+entry(matres, a, [], "số nhiều của mater").
+nhập(matric, n, [ma trận], "nhập học qua kỳ thi vào một trường đại học").
+entry(matrix, n, [ma trận], "hoặc MATRICESthứ gì đó mà bên trong đó thứ khác bắt nguồn hoặc phát triển").
+mục(matron, n, [matrons], "một người phụ nữ đã có chồng có vị trí xã hội được thiết lậpMATRONAL MATRONLY adj").
+entry(matsah, n, [matsahs], "bánh không men").
+entry(matt, v, [matted, matting, matts], "làm mờ").
+entry(matte, v, [matted,matting,mattes], "tạo ra bề mặt xỉn màu trên").
+entry(matted, quá_khứ, [], "thì của từ mat matt và matte").
+entry(mattedly, adv, [], "một cách rối rắm").
+mục(matter, v, [mattered,mattering,matters], "để có tầm quan trọng").
+entry(mattery, adj, [], "sản sinh mủ").
+entry(mattin, n, [mattins], "buổi sáng").
+entry(matting, n, [mattings], "một loại vải dệt được sử dụng làm vật liệu trải sàn").
+entry(mattock, n, [mattocks], "một công cụ đào đất").
+entry(mattoid, n, [mattoids], "một người tinh thần không ổn định").
+entry(mattrass, n, [mattrasses], "nệm").
+entry(nệm, n, [nệm], "một tấm lớn được lấp đầy bằng vật liệu đàn hồi dùng để ngủ hoặc làm giường").
+entry(maturate, v, [maturated,maturating,maturates], "trưởng thành").
+entry(mature, adj, [], "MATURER MATURESTphát triển đầy đủ MATURELY adv").
+entry(chín chắn, v, [đã chín chắn, đang chín chắn, chín chắn], "trở nên hoặc làm cho chín chắn").
+entry(maturer, n, [maturers], "người hoặc vật mang lại sự trưởng thành").
+entry(trưởng thành, n, [sự trưởng thành], "trạng thái của việc chín chắn").
+entry(matza, n, [matzas], "bánh mátza").
+entry(matzah, n, [matzahs], "bánh matzo").
+nhập liệu(matzo, n, [matzos], "hoặc MATZOT hoặc MATZOTH một loại bánh mì không men").
+entry(matzoh, n, [matzohs], "bánh không men").
+entry(matzoon, n, [matzoons], "một loại thực phẩm làm từ sữa").
+entry(maud, n, [mauds], "một loại vải sọc đen và xám của người Scotland").
+entry(maudlin, adj, [], "quá cảm xúc").
+entry(mauger, prep, [], "mặc dù").
+entry(maugre, prep, [], "mặc dù").
+entry(maul, v, [mauled,mauling,mauls], "gây chấn thương bằng cách đánh đập").
+entry(mauler, n, [maulers], "một kẻ tấn công mạnh").
+entry(làm bị thương, n, [làm bị thương], "hành động gây thương tích bằng cách đánh đập").
+entry(maumet, n, [maumets], "một thần tượng").
+entry(maumetry, n, [maumetries], "sự thờ cúng tôn thờ").
+entry(maun, v, [], "phải  MAUN là dạng duy nhất của động từ này, nó không thể được chia động từ").
+entry(maund, n, [maunds], "một đơn vị trọng lượng của Châu Á").
+entry(maunder, v, [maundered, maundering, maunders], "nói không mạch lạc").
+entry(maundy, n, [maundies], "nghi thức tôn giáo rửa chân của người nghèo").
+entry(mausolea, npl, [], "lăng tẩm lớn nguy nga").
+entry(mausy, adj, [], "MAUSIER MAUSIESTmauzy").
+entry(maut, n, [mauts], "mạch nha").
+entry(màu tím, n, [màu tím], "màu tím").
+entry(mauzy, adj, [], "SƯƠNG MỜ NHIỀU SƯƠNG NHẤT").
+entry(maven, n, [mavens], "mavin").
+mục(maverick, n, [mavericks], "một con vật trang trại không được đóng dấu").
+entry(mavie, n, [mavies], "mavis").
+entry(mavin, n, [mavins], "một chuyên gia").
+entry(mavis, n, [mavises], "một loài chim biết hót").
+entry(maw, v, [mawed,mawn,mawing], "MAWcắt cỏ").
+entry(mawkish, adj, [], "đa cảm đến mức gây khó chịu").
+mục(max, v, [maxed, maxing, maxes], "đạt đến giới hạn trên").
+entry(maxi, n, [maxis], "một chiếc váy dài hoặc áo dài").
+entry(maxiboat, n, [maxiboats], "du thuyền đua lớn").
+entry(maxicoat, n, [maxicoats], "một chiếc áo khoác dài").
+mục(n, maxilla, [maxillas], "hoặc MAXILLAE hàm trên hoặc xương hàm").
+mục_lục(maxim, n, [maxims], "một tuyên bố ngắn gọn về một sự thật hoặc nguyên tắc chung").
+entry(maxima, a, [], "số nhiều của maximum").
+entry(toi_da, n, [toi_da], "một phần tử của một tập hợp toán học mà không có phần tử nào khác sau nó").
+entry(maximand, n, [maximands], "điều gì đó cần được tối đa hóa").
+entry(maximin, n, [maximins], "giá trị lớn nhất của tập hợp các giá trị tối thiểu").
+entry(maximise, v, [maximised,maximising,maximises], "tối đa hóa").
+entry(maximite, n, [maximites], "một loại thuốc nổ mạnh").
+entry(tối_đa_hóa, v, [tối_đa_hóa_rồi,tối_đa_hóa_đang,tối_đa_hóa], "để làm cho lớn nhất có thể").
+mục(tối đa, n, [tối đa], "hoặc MAXIMAmức độ lớn nhất có thể của số lượng hoặc mức độ").
+entry(maxixe, n, [maxixes], "một điệu nhảy Brazil").
+entry(maxwell, n, [maxwells], "một đơn vị từ thông").
+entry(may, v, [mayed,maying,mays], "thu thập hoa vào mùa xuân").
+entry(maya, n, [mayas], "sức mạnh tạo ra ảo giác trong triết học HinduMAYAN adj").
+mục(mayapple, n, [mayapples], "một loại thảo mộc lâu năm").
+entry(maybe, n, [maybes], "một sự không chắc chắn").
+entry(chim_sen, n, [chim_sen], "một loài chim chim tinh").
+entry(maybush, n, [maybushes], "một loại cây bụi có hoa").
+entry(mayday, n, [maydays], "một cuộc gọi cấp cứu qua radio").
+entry(mayest, a, [], "dạng ngôi thứ hai số ít của động từ 'may' ở thì hiện tại").
+entry(ruồi giấm, n, [ruồi giấm], "một loài côn trùng có cánh").
+entry(mayhap, adv, [], "có thể").
+entry(hỗn_loạn, n, [sự_hỗn_loạn], "tội cố ý làm thương tích cho người khác").
+entry(maying, n, [mayings], "sự tụ họp của hoa xuân").
+entry(mayo, n, [mayos], "sốt mayonnaise").
+mục(nhập_xuất, danh_từ, [thị_trưởng_các], "quan chức điều hành chính của một thành phố hoặc quậnTHỊTRƯỞNG adj").
+entry(nữ_thị_trưởng, n, [nữ_thị_trưởng], "một thị trưởng nữ").
+entry(cột đu, n, [các cột đu], "một cột được trang trí sử dụng trong lễ hội mùa xuân").
+entry(maypop, n, [maypops], "một loại cây leo có hoa").
+muc(mayst, a, [], "động từ hiện tại ngôi thứ hai số ít của may").
+entry(mayvin, n, [mayvins], "mavin").
+entry(mayweed, n, [mayweeds], "một loại cỏ dại có mùi khó chịu").
+entry(mazaedia, npl, [], "cơ quan sản sinh bào tử của một số địa y").
+entry(mazard, n, [những cái đầu], "cái đầu hoặc mặt").
+entry(maze, v, [mazed,mazing,mazes], "làm bối rốiMAZEDLY adv").
+entry(mazelike, adj, [], "như mê cung").
+entry(mazeltov, thán_từ, [], "dùng để bày tỏ lời chúc mừng").
+entry(mazer, n, [mazers], "một chiếc bát uống lớn").
+entry(mazier, so_sánh, [], "của mazy").
+entry(maziest, superlative, [], "của mazy").
+entry(mazily, adv, [], "một cách quanh co").
+entry(maziness, n, [mazinesses], "chất lượng của việc rườm rà").
+entry(mazing, present, [], "phân từ của maze").
+entry(mazourka, n, [mazourkas], "mazurka").
+entry(mazuma, n, [mazumas], "tiền").
+entry(mazurka, n, [mazurkas], "một điệu nhảy Ba Lan").
+entry(mazy, adj, [], "ĐẦY NHỮNG NGÃ RẼ VÀ ĐOẠN ĐƯỜNG LẰN VẶN").
+entry(mazzard, n, [mazzards], "một loại anh đào dại").
+entry(mbaqanga, n, [mbaqangas], "một loại nhạc khiêu vũ Nam Phi").
+entry(mbira, n, [mbiras], "một nhạc cụ châu Phi").
+entry(tôi, đại từ, [], "dạng tân ngữ của đại từ tôi").
+entry(mead, n, [meads], "một loại đồ uống có cồn").
+entry(đồng cỏ, n, [các đồng cỏ], "một vùng đất cỏMEADOWY adj").
+entry(meager, adj, [], "ÍT ỎI HƠN ÍT ỎI NHẤTxuất kém về số lượng hoặc chất lượngMỘT CÁCH ÍT ỎI adv").
+entry(meagre, adj, [], "MEAGRER MEAGRESTmeagerMEAGRELY adv").
+entry(meal, n, [meals], "thức ăn được phục vụ và ăn trong một lần ngồi").
+entry(mealie, n, [mealies], "một bắp ngô").
+entry(mealier, so sánh hơn, [], "của bột").
+entry(mealiest, superlative, [], "of mealy").
+entry(mealless, adj, [], "thiếu một bữa ăn").
+entry(mealtime, n, [mealtimes], "thời gian thường lệ cho một bữa ăn").
+entry(mealworm, n, [mealworms], "ấu trùng phá hoại của một số loài bọ cánh cứng").
+entry(mealy, adj, [], "MEALIER MEALIESTmềm khô và dễ vỡ vụn").
+danh_muc(rệp_sáp, n, [rệp_sáp], "một loại côn trùng phá hoại").
+entry(mean, adj, [], "THẤP HƠN THẤP NHẤT kém hơn về cấp độ chất lượng hoặc tính cách").
+mục(mean, v, [meant,meaning,means], "dự định").
+entry(meander, v, [meandered,meandering,meanders], "đi lang thang").
+entry(meaner, n, [meaners], "đồ đểu").
+entry(meanie, n, [meanies], "một người khó chịu").
+entry(meanies, pl, [], "của meany").
+entry(nghĩa, n, [những_nghĩa], "điều gì đó mà một người dự định truyền đạt bằng ngôn ngữ").
+entry(meanly, adv, [], "một cách hèn hạ").
+entry(sự hèn hạ, n, [sự hèn hạ], "trạng thái của sự hèn hạ").
+entry(meant, past, [], "thì của mean").
+entry(trong_lúc_đó, n, [trong_những_lúc_đó], "khoảng thời gian xen kẽ").
+entry(meany, n, [meanies], "kẻ xấu").
+entry(bệnh sởi, n, [bệnh sởi], "ấu trùng sán dâyMEASLED adj").
+entry(measly, adj, [], "THIẾU THỐN NHẤT THIẾU THỐN HƠN").
+entry(measure, v, [measured,measuring,measures], "để xác định kích thước số lượng hoặc sức chứa của").
+entry(measurer, n, [measurers], "một người đo lường").
+entry(thịt, n, [thịt động vật], "thịt động vật được dùng làm thực phẩmMEATED adj").
+entry(meatal, adj, [], "thuộc về một lỗ thông").
+mục(xíu mại, n, [xíu mại], "một viên nhỏ làm từ thịt băm").
+entry(meathead, n, [meatheads], "một người đần độn").
+entry(móc_thịt, n, [các_móc_thịt], "một cái móc dùng để treo thịt").
+entry(meatier, comparative, [], "nhiều thịt hơn").
+entry(meatiest, superlative, [], "của meaty").
+entry(meatily, adv, [], "một cách nhiều thịt").
+entry(không_thịt, adj, [], "không có thịt").
+entry(meatloaf, n, [meatloaves], "một ổ nướng làm từ thịt xay").
+entry(meatman, n, [meatmen], "người bán thịt").
+entry(meatus, n, [meatuses], "một đường dẫn tự nhiên trong cơ thể").
+entry(meaty, adj, [], "NHIỀU THỊT NHẤT ĐẦY ĐẶN THỊT").
+mục(mecca, n, [meccas], "một nơi được nhiều người đến thăm").
+entry(mech, n, [mechs], "thợ máy").
+entry(thợ máy, n, [thợ máy], "một người làm việc với máy móc").
+entry(mechitza, n, [mechitzas], "hoặc MECHITZOTmột vách ngăn tách biệt nam và nữ trong một giáo đường Do Thái").
+mục(lợn_quay, n, [lợn_quay], "một bữa ăn với thịt quay trên xiên").
+entry(phân_su, n, [phân_su], "lần đại tiện đầu tiên của một đứa trẻ sơ sinh").
+entry(med, n, [meds], "thuốc").
+entry(cá medaka, n, [cá medakas], "một loài cá Nhật Bản").
+entry(medal, v, [giành huy chương, đang giành huy chương, huy chương], "hoặc GIÀNH HUY CHƯƠNG đang GIÀNH HUY CHƯƠNG HUY CHƯƠNGđể tôn vinh bằng một huy chương một mảnh kim loại kỷ niệm").
+entry(medalist, n, [người nhận huy chương], "người được trao huy chương").
+entry(medallic, adj, [], "thuộc về huy chương").
+entry(medalling, a, [], "phân từ hiện tại của medal").
+entry(can thiệp, v, [can thiệp rồi, đang can thiệp, can thiệp], "quan tâm đến những gì không thuộc về mình").
+entry(kẻ quấy rầy, n, [các kẻ quấy rầy], "người can thiệp vào việc của người khác").
+entry(medevac, v, [medevaced,medevacing,medevacs], "hoặc MEDEVACKED MEDEVACKING MEDEVACst để di tản người bị thương khỏi chiến trường bằng trực thăng").
+entry(medfly, n, [medflies], "một loài ruồi trái cây Địa Trung Hải").
+entry(media, n, [mediae], "lớp giữa của mạch máu hoặc mạch bạch huyết").
+entry(media, n, [phương_tiện_truyền_thông], "một kênh truyền thông").
+nhập(mediacy, n, [mediacies], "hành động hòa giải").
+entry(mediad, adv, [], "hướng về giữa của một cơ thể hoặc bộ phận").
+entry(mediae, pl, [], "của phương tiện truyền thông").
+entry(medial, n, [medials], "một âm, âm tiết hoặc chữ cái ở giữa một từ").
+entry(medially, adv, [], "theo cách trung tâm").
+entry(median, n, [các_median], "một phần trung tâm").
+entry(medianly, adv, [], "ở giữa").
+entry(mediant, n, [mediants], "một loại nốt nhạc").
+entry(hòa giải, v, [đã hòa giải, đang hòa giải, hòa giải], "đóng vai trò giữa các bên đang tranh cãi để đạt được một thỏa thuận").
+entry(mediator, n, [các nhà trung gian], "người hòa giải").
+entry(medic, n, [medics], "người tham gia công việc y tế").
+entry(medicaid, n, [medicaids], "một loại chương trình y tế của chính phủ").
+entry(y_tế, n, [các_y_tế], "một cuộc kiểm tra sức khỏe").
+entry(medicant, n, [medicants], "một chất chữa bệnh").
+entry(medicare, n, [medicares], "một loại chương trình y tế của chính phủ").
+entry(medicate, v, [medicated,medicating,medicates], "điều trị bằng thuốc").
+entry(medicide, n, [medicides], "tự tử có sự trợ giúp của y tế").
+entry(thuốc, v, [uống thuốc, đang uống thuốc, các loại thuốc], "để sử dụng thuốc một chất được sử dụng trong việc điều trị bệnh để").
+entry(cỏ_linh_lăng, n, [cỏ_linh_lăng], "một loài thực vật có hoa").
+entry(medico, n, [bác sĩ], "bác sĩ hoặc sinh viên y khoa").
+entry(trung_cổ, n, [những_người_trung_cổ], "một người thuộc về thời Trung Cổ").
+entry(medigap, n, [gói_bảo_hiểm_sức_khoẻ_bổ_sung], "một loại bảo hiểm sức khỏe bổ sung").
+entry(medii, pl, [], "của medius").
+entry(medina, n, [medinas], "khu vực người bản địa của một thành phố Bắc Phi").
+entry(tầm thường, adj, [], "không tốt cũng không xấu").
+nhập(meditate, v, [meditated,meditating,meditates], "suy ngẫm").
+entry(medium, n, [mediums], "một môi trường xung quanh trong đó một cái gì đó hoạt động và phát triển").
+entry(medius, n, [medii], "ngón giữa").
+entry(medivac, v, [medivaced,medivacing,medivacs], "or MEDIVACKED MEDIVACKING MEDIVACSmedevac").
+entry(cây thị, n, [cây thị], "một loại cây ở Âu-Á").
+entry(medley, n, [medleys], "một hỗn hợp").
+entry(medrese, n, [medreses], "trường Hồi giáo").
+entry(medulla, n, [medullas], "hoặc MEDULLAEphần mô trung tâm trong thân của một số loài câyMEDULLAR adj").
+entry(medusa, n, [medusas], "hoặc MEDUSAEa sứaMEDUSAL adj").
+mục(lối_vào, n, [các_lối_vào], "lối_vào").
+entry(medusoid, n, [medusoids], "medusa").
+entry(meed, n, [meeds], "một phần thưởng xứng đáng").
+entry(meek, adj, [], "MEEKER MEEKESTthiếu tinh thần và can đảmMEEKLY adv").
+entry(sự_nhu_mì, n, [sự_nhu_mì], "chất lượng của việc nhu mì").
+entry(chồn đất, n, [chồn đất], "một loài cầy mangut châu Phi").
+entry(gặp, v, [gặp,gặp gỡ,gặp mặt], "đến trong sự có mặt hoặc công ty của").
+entry(meeter, n, [meeters], "một người gặp gỡ").
+entry(họp, n, [các cuộc họp], "một cuộc họp mặt vì một mục đích chung").
+entry(meetly, adv, [], "thích hợp").
+entry(meetness, n, [meetnesses], "sự phù hợp").
+entry(meg, n, [megs], "một megabyte").
+entry(mega, adj, [], "lớn về kích thước hoặc tầm quan trọng").
+entry(megabar, n, [megabars], "một đơn vị áp suất").
+entry(megabit, n, [megabit], "một đơn vị thông tin máy tính").
+entry(megabuck, n, [số tiền lớn], "một triệu đô la").
+entry(megabyte, n, [megabyte], "1048576 byte").
+mục(đại_thành_phố, n, [đại_thành_phố], "một thành phố rất lớn").
+mục(megadeal, n, [megadeals], "một thỏa thuận kinh doanh liên quan đến nhiều tiền").
+entry(megadose, n, [megadoses], "liều lượng lớn bất thường").
+mục(megadyne, n, [megadynes], "một đơn vị lực").
+entry(megaflop, n, [megaflops], "một đơn vị đo tốc độ tính toán").
+entry(megahit, n, [megathành công], "một cái gì đó cực kỳ thành công").
+entry(megalith, n, [cự thạch], "một tảng đá lớn được sử dụng trong các di tích thời tiền sử").
+entry(megalops, n, [megalopses], "một giai đoạn ấu trùng của hầu hết các loài cua").
+entry(megamall, n, [megamalls], "một trung tâm mua sắm rất lớn").
+entry(megaplex, n, [megaplexes], "một tòa nhà lớn có nhiều rạp chiếu phim").
+entry(megapod, n, [megapods], "megapode").
+entry(gà-mê-gà-pô, d, [gà-mê-gà-pô], "một loài chim chân to").
+entry(megaron, n, [megara], "đại sảnh trung tâm của một ngôi nhà Hy Lạp cổ đại").
+đầu_vào(megass, n, [bã_mía], "một loại bã mía").
+entry(megasse, n, [megasses], "chim megass").
+entry(megastar, n, [megastars], "một nghệ sĩ biểu diễn cực kỳ thành công").
+entry(megaton, n, [megatons], "một đơn vị đo lực nổ").
+entry(megavolt, n, [megavon], "một đơn vị của lực điện động").
+entry(megawatt, n, [megawatt], "một đơn vị đo công suất").
+entry(megilla, n, [megillas], "cuộn Kinh").
+entry(megillah, n, [megillahs], "một câu chuyện dài phức tạp").
+entry(megilp, n, [megilps], "một chất dùng để trộn với bột màu trong hội họa").
+entry(megilph, n, [megilphs], "mực dầu").
+entry(megohm, n, [megohms], "một đơn vị đo điện trở").
+entry(megrim, n, [megrims], "bệnh đau nửa đầu").
+entry(meh, adj, [], "không ấn tượng nhàm chán").
+entry(mehndi, n, [mehndis], "nghệ thuật vẽ họa tiết lên da bằng henna").
+entry(meikle, adj, [], "lớn").
+entry(meinie, n, [meinies], "nhỏ nhoi").
+entry(meiny, n, [meinies], "một đoàn tùy tùng").
+entry(giảm phân, n, [giảm phân], "một loại phân chia tế bàoMEIOTIC adj").
+entry(meister, n, [meisters], "người có kiến thức về một lĩnh vực nhất định").
+entry(mel, n, [mels], "mật ong").
+entry(melaena, n, [melaenas], "melena").
+entry(melamed, n, [melamdim], "một giáo viên trong một trường học Do Thái").
+entry(melamine, n, [melamines], "một hợp chất hóa học").
+entry(hỗn hợp, n, [hỗn_hợp], "một sự pha trộn").
+entry(melanian, adj, [], "liên quan đến sắc tố tối").
+entry(melanic, n, [melanics], "một người bị ảnh hưởng bởi chứng hắc tố").
+entry(melanin, n, [melanins], "một sắc tố tối").
+entry(melanism, n, [melanisms], "sắc tố da đậm một cách bất thường").
+entry(melanist, n, [melanists], "một người da đen").
+entry(melanite, n, [melanites], "một loại ngọc hồng lựu màu đen").
+entry(melanize, v, [melanized,melanizing,melanizes], "làm cho tối").
+mục(melanoid, n, [melanoids], "một sắc tố đen").
+entry(u hắc tố, n, [u hắc tố], "hoặc MELANOMATA, một khối u có sắc tố sẫm").
+entry(melanous, adj, [], "có làn da và tóc tối màu").
+entry(meld, v, [melded,melding,melds], "hòa trộn").
+entry(melder, n, [melders], "lượng ngũ cốc nghiền trong một lần").
+entry(cận_chiến, n, [cận_chiến], "một cuộc đấu tranh hỗn loạn").
+entry(melena, n, [melenas], "một tình trạng có biểu hiện phân đen như hắc ín").
+entry(melic, adj, [], "liên quan đến bài hát").
+entry(melilite, n, [melilites], "một nhóm khoáng chất").
+entry(mêlilot, n, [mêlilots], "một loài thực vật có hoa").
+entry(mêlinite, n, [mêlinites], "một chất nổ mạnh").
+entry(melisma, n, [melismas], "hoặc MELISMATAmelodic embellishment").
+entry(mell, v, [melled, melling, mells], "trộn lẫn").
+entry(mellific, adj, [], "sản xuất mật ong").
+entry(mellow, adj, [], "MELLOWER MELLOWESTmềm và đậm đà khi chínMELLOWLY adv").
+entry(mellow, v, [mellowed,mellowing,mellows], "làm cho hoặc trở nên êm dịu").
+entry(melodeon, n, [melodeons], "một loại đàn accordion nhỏ").
+entry(melodia, n, [melodias], "một loại ống tiêu").
+entry(giai_điệu, adj, [], "liên quan đến giai điệu").
+entry(melodica, n, [melodicas], "một loại kèn harmonica với một bàn phím nhỏ ở một đầu").
+entry(giai_điệu, pl, [], "của giai điệu").
+entry(melodion, n, [melodions], "melodica").
+entry(melodise, v, [melodised,melodising,melodises], "thực hiện giai điệu").
+entry(melodist, n, [melodists], "một nhà soạn nhạc giai điệu").
+entry(melodize, v, [melodized,melodizing,melodizes], "soạn một giai điệu").
+entry(giai_điệu, n, [giai_điệu], "một sự kế tiếp dễ chịu của các âm thanh âm nhạc").
+entry(meloid, n, [meloids], "một loại bọ cánh cứng").
+entry(dưa, n, [dưa], "bất kỳ loại bầu nàoMELONY adj").
+entry(melt, v, [melted,melting,melts], "chuyển đổi từ trạng thái rắn sang trạng thái lỏng bằng nhiệt, MELTABLE adj").
+entry(meltage, n, [meltages], "quá trình tan chảy").
+entry(meltdown, n, [meltdowns], "sự tan chảy của lõi của lò phản ứng hạt nhân").
+entry(máy_nấu_chảy, n, [máy_nấu_chảy], "một cái làm tan chảy").
+entry(melton, n, [meltons], "một loại vải len dày").
+entry(melty, adj, [], "giống như một chất rắn tan chảy").
+entry(mem, n, [mems], "một chữ cái Do Thái").
+entry(thành_viên, n, [các_thành_viên], "một phần riêng biệt của một tổng thểMEMBERED adj").
+entry(màng, n, [màng], "một lớp mô mỏng và linh hoạt").
+entry(meme, n, [memes], "một ý tưởng hoặc thực hành lan truyền từ người này sang người khácMEMETIC adj").
+entry(memento, n, [mementos], "hoặc MEMENTOES là thứ gì đó dùng để nhắc nhở về quá khứ").
+entry(memetics, npl, [], "việc nghiên cứu các meme và tác động của chúng").
+mục(memo, n, [memos], "một ghi chú chỉ định điều gì đó cần được nhớ").
+entry(hồi_ký, n, [hồi_ký], "một cuốn tiểu sử").
+entry(memorial, n, [những tưởng niệm], "một cái gì đó phục vụ như là sự tưởng nhớ về một người hoặc một sự kiện").
+mục(lưu_trữ, v, [đã_lưu_trữ,đang_lưu_trữ,lưu_trữ], "ghi nhớ").
+entry(nhớ, v, [đã_nhớ,đang_nhớ,nhớ], "ghi nhớ vào trí nhớ").
+entry(memory, n, [kí_ức], "khả năng tâm thần để giữ lại và hồi tưởng những trải nghiệm trong quá khứ").
+mục(memsahib, n, [memsahibs], "một phụ nữ châu Âu sống ở Ấn Độ thuộc địa").
+entry(nam, pl, [], "của người đàn ông").
+entry(de_doa, v, [bi_de_doa,de_doa,de_doa], "đe dọa").
+entry(menacer, n, [menacers], "kẻ đe dọa").
+entry(menad, n, [menads], "maenad").
+entry(menage, n, [menages], "một hộ gia đình").
+entry(menarche, n, [menarches], "lần đầu có kinh nguyệt").
+entry(menazon, n, [menazons], "một loại thuốc trừ sâu").
+entry(mend, v, [mended,mending,mends], "để sửa chữaMENDABLE adj").
+entry(mender, n, [những người sửa chữa], "một người sửa chữa").
+entry(mendigo, n, [mendigos], "một loài cá nước ngọt").
+entry(mending, n, [mendings], "một tập hợp các vật phẩm cần được sửa chữa").
+entry(menfolk, npl, [], "những người đàn ông của một gia đình hoặc cộng đồng").
+entry(menfolks, npl, [], "đàn ông").
+entry(menhaden, n, [menhadens], "một loài cá biển").
+entry(menhir, n, [menhirs], "một di tích tiền sử").
+entry(menial, n, [người giúp việc], "một người giúp việc gia đình").
+entry(menially, adv, [], "một cách phụ phục").
+entry(meninx, n, [màng não], "bất kỳ màng nào bao bọc não và tủy sống").
+entry(meniscus, n, [meniscuses], "hoặc MENISCIa hình lưỡi liềmMENISCAL adj").
+entry(meno, adv, [], "ít được sử dụng như là một chỉ dẫn âm nhạc").
+entry(menology, n, [menologies], "một lịch giáo hội").
+entry(menorah, n, [menorahs], "một chân đèn được sử dụng trong thờ phượng Do Thái").
+entry(mensa, n, [mensas], "hoặc MENSAE bề mặt nghiền của một chiếc răng").
+entry(mensal, adj, [], "liên quan đến hoặc được sử dụng tại bàn ăn").
+entry(mensch, n, [mensches], "hoặc MENSCHENmột người đáng ngưỡng mộMENSCHY adj").
+entry(mense, v, [mensed,mensing,menses], "để tôn vinh").
+entry(menseful, adj, [], "thích hợp").
+entry(mensh, n, [menshes], "hoặc MENSHENmensch").
+entry(menstrua, npl, [], "dung môi").
+entry(mensural, adj, [], "thuộc về sự đo lường").
+entry(quần_áo_nam, n, [quần_áo_nam], "quần áo cho nam giới").
+entry(menta, pl, [], "của cằm").
+entry(mental, adj, [], "liên quan đến tâm tríMENTALLY adv").
+entry(mentee, n, [mentees], "người được cố vấn").
+entry(menthene, n, [menthenes], "một hợp chất hydrocarbon lỏng").
+entry(menthol, n, [menthols], "một loại rượu").
+entry(mention, v, [đã nhắc đến,đang nhắc đến,nhắc đến], "để đề cập đến một cách không chính thức").
+entry(mento, n, [mentos], "một phong cách âm nhạc dân gian của Jamaica").
+entry(mentor, v, [mentored,mentoring,mentors], "đóng vai trò như một người bạn và giáo viên đối với").
+entry(mentum, n, [menta], "cái cằm").
+entry(thực_đơn, n, [thực_đơn], "một danh sách các món ăn có sẵn trong một nhà hàng").
+entry(menudo, n, [menudos], "một món hầm bao tử với ớt").
+entry(meou, v, [meoued,meouing,meous], "kêu meo").
+entry(meow, v, [meowed,meowing,meows], "gây ra tiếng kêu của mèo").
+mục(mephitis, n, [mephitises], "một mùi hôiMEPHITIC adj").
+entry(merc, n, [mercs], "hoặc MERCESa lính đánh thuê").
+entry(mercado, n, [mercados], "một khu chợ").
+entry(mercapto, adj, [], "chứa một nhóm hóa học cụ thể").
+entry(mercer, n, [mercers], "một người buôn bán hàng dệt may").
+entry(cửa_hàng_tạp_hóa, n, [cửa_hàng_tạp_hóa], "một cửa hàng bán vải").
+entry(merch, n, [merches], "hàng hóa").
+entry(merchant, v, [merchanted,merchanting,merchants], "mua và bán hàng hóa để kiếm lời").
+entry(mercies, pl, [], "of mercy").
+entry(nhân từ, adj, [], "đầy lòng thương xót").
+entry(mercury, n, [mercuries], "một nguyên tố kim loạiMERGURIC adj").
+entry(mercy, n, [mercies], "lòng thương xót cho một người phạm tội hoặc kẻ thù").
+entry(mere, adj, [], "MERER MERESTbeing nothing more thanMERELY adv").
+entry(mere, n, [meres], "một cái ao hoặc hồ").
+entry(merengue, n, [merengues], "một điệu nhảy khiêu vũ").
+entry(merge, v, [merged,merging,merges], "kết hợp").
+entry(mergee, n, [mergees], "một công ty được mua lại bởi một vụ sáp nhập").
+entry(hợp nhất, n, [hợp nhất], "hành động sáp nhập").
+entry(sáp_nhập, n, [các_sáp_nhập], "sự hợp nhất của hai hoặc nhiều doanh nghiệp thành một doanh nghiệp đơn lẻ").
+entry(merging, n, [mergings], "hành động kết hợp").
+entry(merguez, n, [merguez], "xúc xích cay làm từ thịt bò và thịt cừu").
+mục(merit, v, [merited,meriting,merits], "để kiếm").
+entry(merk, n, [merks], "một đồng xu trước đây của Scotland").
+entry(merl, n, [merls], "sơn ca").
+entry(merle, n, [merles], "một con sáo đen").
+entry(merlin, n, [merlins], "một loài chim cắt châu Âu").
+entry(merlon, n, [merlons], "phần rắn của một lan can có khắc hình chữ nhật").
+entry(merlot, n, [merlots], "một loại rượu vang đỏ khô").
+mục(nàngtiêncá, n, [nàngtiêncá], "một sinh vật biển huyền thoại").
+entry(người cá, n, [người cá], "một sinh vật biển huyền thoại").
+mục(từ-vị-tổng-thể, n, [từ-vị-tổng-thể], "một thuật ngữ chỉ một phần của cái gì đó được dùng để chỉ toàn bộ của nó").
+entry(meronymy, n, [meronymies], "mối quan hệ ngữ nghĩa giữa một phần và tổng thể").
+entry(meropia, n, [meropias], "bán mùMEROPIC adj").
+entry(merry, adj, [], "VUI TƯƠIvuiVUI VẺ adv").
+entry(mesa, n, [mesas], "một dạng địa hình có đỉnh phẳng và sườn dốc").
+entry(mesally, adv, [], "ở giữa").
+entry(mesarch, adj, [], "có nguồn gốc từ môi trường ẩm").
+entry(mescal, n, [mescals], "một loại xương rồng được sử dụng làm nguồn gốc của rượu").
+entry(mescalin, n, [mescalins], "mescaline, một hợp chất gây ảo giác").
+entry(mesclun, n, [mescluns], "một hỗn hợp của các loại rau xanh non mềm").
+entry(mesdames, pl, [], "của quý bà").
+entry(meseems, v, [], "thì quá khứ MESEEMED thì hiện tại ngôi thứ 3 số ít MESEEMETH dường như đối với tôi MESEEMS là một động từ vô nhân xưng và chỉ được dùng ở ngôi thứ 3 số ít").
+entry(mesh, v, [meshed,meshing,meshes], "làm rối").
+entry(meshier, comparative, [], "của dạng lưới").
+entry(meshiest, superlative, [], "của meshy").
+entry(ăn khớp, n, [ăn khớp], "hành động kết hợp với nhau").
+entry(meshuga, adj, [], "điên rồ").
+entry(meshugah, adj, [], "meshuga").
+entry(meshugga, adj, [], "meshuga").
+entry(meshugge, adj, [], "meshuga").
+entry(meshwork, n, [meshworks], "một mạng lưới").
+entry(meshy, adj, [], "MESHIER MESHIESTnetty").
+entry(mesial, adj, [], "nằm ở giữaMESIALLY adv").
+entry(mesian, adj, [], "giữa").
+entry(mesic, adj, [], "đặc trưng bởi nguồn cung cấp độ ẩm trung bình").
+entry(hypnotic, adj, [], "liên quan đến thuật thôi miên").
+entry(mesnalty, n, [mesnalties], "một loại điền trang phong kiến").
+entry(mesne, n, [mesnes], "một lãnh chúa phong kiến nắm giữ đất đai từ một người cấp trên").
+entry(mesocarp, n, [mesocarps], "lớp giữa của vỏ quả").
+entry(mesoderm, n, [mesoderms], "lớp mầm giữa của phôi").
+entry(mesoglea, n, [mesogleas], "một chất giống thạch trong bọt biển").
+entry(mesomere, n, [mesomeres], "một đoạn phôi thai").
+mục(meson, n, [mesons], "một hạt hạ nguyên tửMESONIC adj").
+entry(mesophyl, n, [mesophyls], "mô mềm của lá").
+entry(mesosaur, n, [mesosaurs], "một loài bò sát dưới nước đã tuyệt chủng").
+entry(mesosome, n, [mesosomes], "một phần chuyên biệt của tế bào").
+entry(mêzotron, n, [mêzotrons], "một loại mezôn").
+entry(mesozoan, n, [mesozoans], "bất kỳ loài nào thuộc ngành sinh vật dạng giun").
+entry(mesquit, n, [mesquits], "cây gỗ").
+entry(mesquite, n, [mesquites], "một loại cây hoặc bụi có gai").
+entry(mess, v, [messed,messing,messes], "làm bẩn hoặc không gọn gàng").
+entry(message, v, [tin_nhắn,tin_nhắn_hóa,tin_nhắn_chuyển_giao], "gửi đi một thông điệp là một giao tiếp bằng miệng, viết hoặc ra tín hiệu").
+entry(messan, n, [messans], "một con chó cưng").
+entry(messiah, n, [messiahs], "một vị cứu tinh được mong đợi").
+entry(messier, comparative, [], "lộn xộn hơn").
+entry(messiest, superlative, [], "của lộn xộn").
+entry(messieurs, pl, [], "của monsieur").
+entry(messily, adv, [], "một cách lộn xộn").
+entry(messman, n, [messmen], "một quân nhân làm việc trong một cơ sở ăn uống").
+entry(messmate, n, [messmates], "một người mà bạn thường xuyên ăn cùng").
+mục(messuage, n, [messuages], "một ngôi nhà ở cùng với các tòa nhà và đất liền kề").
+entry(bừa bộn, adj, [], "BỪA BỘN NHẤTbẩn hoặc không gọn gàng").
+entry(mestee, n, [mestees], "mestee").
+entry(mesteso, n, [mestesos], "hoặc MESTESOESmestizo").
+entry(mestino, n, [mestinos], "hoặc MESTINOESmestizo").
+entry(mestiza, n, [mestizas], "một phụ nữ lai").
+entry(mestizo, n, [mestizos], "hoặc MESTIZOESmột người có tổ tiên hỗn hợp").
+entry(met, quá_khứ, [], "thì của meet").
+entry(meta, adj, [], "liên quan đến các vị trí trong vòng benzen cách nhau bởi một nguyên tử carbon").
+entry(metadata, npl, [], "một bộ dữ liệu cung cấp thông tin về dữ liệu khác").
+entry(metage, n, [metages], "một phép đo chính thức về trọng lượng hoặc nội dung").
+entry(metal, v, [metaled,metaling,metals], "hoặc METALLED METALLING METALScác kim loại dễ uốn dễ nóng chảy và sáng bóng").
+entry(metalise, v, [mạ_kim_loại, đang_mạ_kim_loại, mạ_kim_loại], "để mạ kim loại").
+entry(metalist, n, [metalists], "người thợ làm việc với kim loại").
+entry(metalize, v, [được_kim_loại_hóa,đang_kim_loại_hóa,được_kim_loại_hóa], "xử lý với kim loại").
+entry(metalled, a, [], "thì quá khứ của metal").
+entry(kim_loại, n, [kim_loại], "một loại vải hoặc sợi được làm từ hoặc tráng với kim loại").
+entry(metalling, a, [], "phân từ hiện tại của metal").
+entry(metamer, n, [metamers], "một loại hợp chất hóa học").
+entry(metamere, n, [metameres], "một đốt").
+entry(metanoia, n, [metanoias], "một cuộc chuyển đổi tâm linh").
+entry(phép_ẩn_dụ, n, [phép_ẩn_dụ], "một loại biện pháp tu từ").
+entry(metatag, n, [metatags], "một thẻ HTML chứa thông tin về một trang web").
+entry(metate, n, [metates], "một loại đá dùng để nghiền ngũ cốc").
+entry(metazoan, n, [metazoans], "bất kỳ trong số một bộ phận chính của động vật đa bàoMETAZOAL METAZOIC adj").
+entry(metazoon, n, [metazoa], "một động vật đa bào").
+entry(mete, v, [meted,meting,metes], "phân phát theo cách đo lường").
+entry(thiên_thạch, n, [những_thiên_thạch], "một thiên thể nhỏ đi vào bầu khí quyển của trái đấtTHIÊN_THẠCH adj").
+entry(metepa, n, [metepas], "một hợp chất hóa học").
+entry(meter, v, [đã đo, đang đo, đo], "để đo bằng phương tiện cơ học").
+entry(meterage, n, [meterages], "quá trình đo lường").
+mục(meth, n, [meths], "một loại thuốc kích thích").
+entry(methadon, n, [methadons], "một loại thuốc gây mê").
+entry(metanđêhít, n, [metanđêhíts], "fomanđêhít").
+entry(mêtan, n, [mêtans], "một loại khí dễ cháy").
+entry(metanol, n, [metanols], "một loại cồn độc hại").
+mục(methinks, v, [], "thì quá khứ METHOUGHT dường như đối với tôi METHINKS là một động từ vô nhân xưng và chỉ được sử dụng ở ngôi thứ 3 số ít").
+entry(method, n, [phương pháp], "một cách thực hiện thủ tục").
+entry(methodic, adj, [], "có hệ thống").
+entry(methoxy, adj, [], "chứa một nhóm hóa học nhất định").
+entry(methoxyl, adj, [], "methoxy").
+entry(metyl, n, [metyls], "một gốc hóa trị đơnMETILIC adj").
+entry(methylal, n, [methylals], "một chất lỏng dễ cháy").
+entry(metical, n, [meticals], "hoặc METICAISđơn vị tiền tệ của Mozambique").
+entry(metier, n, [nghề nghiệp], "một nghề nghiệp").
+entry(meting, present, [], "phân từ của mete").
+entry(metis, n, [metis], "một người có tổ tiên hỗn hợp").
+entry(metisse, n, [metisses], "một người lai nữ").
+entry(metol, n, [metols], "một loại bột được sử dụng như một chất phát triển ảnh").
+entry(metonym, n, [metonyms], "một từ được sử dụng trong hoán dụ").
+entry(hoán dụ, n, [các hoán dụ], "một loại biện pháp tu từ").
+entry(metope, n, [metopes], "hoặc METOPAEa khoảng trống giữa hai triglyph").
+entry(metopic, adj, [], "thuộc về trán").
+entry(metopon, n, [metopons], "một loại ma túy gây nghiện").
+entry(metrazol, n, [metrazols], "bột được dùng như một chất kích thích").
+entry(mét, v, [mét được, đang mét, mét], "đo bằng mét").
+entry(metric, n, [metrics], "một tiêu chuẩn đo lường").
+entry(metrical, adj, [], "liên quan đến hoặc được soạn theo một hệ thống nhịp điệu sắp xếp và đo lường").
+entry(metrify, v, [metrified,metrifying,metrifies], "sáng tác theo thể thơ có nhịp điệu").
+entry(metring, hiện tại, [], "phân từ của metre").
+entry(metrist, n, [metrists], "người đo lường").
+entry(metritis, n, [metritises], "viêm tử cung").
+entry(metro, n, [tàu điện ngầm], "một tàu điện ngầm").
+entry(mettle, n, [mettles], "chất lượng của tính cáchMETTLED adj").
+entry(metump, n, [metumps], "một dây đeo trán").
+entry(meuniere, adj, [], "nấu trong bơ nâu").
+entry(mew, v, [mewed,mewing,mews], "giam giữ").
+entry(mewl, v, [mewled,mewling,mewls], "rên rỉ").
+entry(mewler, n, [mewlers], "một người rên rỉ").
+entry(mews, n, [mewses], "một con phố có nhiều ngôi nhà ban đầu là chuồng ngựa").
+entry(mezcal, n, [mezcals], "mescal").
+entry(meze, n, [mezes], "một món khai vị của Hy Lạp hoặc Trung Đông").
+entry(mezereon, n, [mezereons], "một loại cây bụi có hoa").
+entry(mezereum, n, [mezereums], "cây liễu độc").
+entry(mezquit, n, [mezquits], "mezquite").
+entry(mezquite, n, [mezquites], "cây mesquite").
+entry(mezuza, n, [mezuzas], "mezuzah").
+entry(mezuzah, n, [mezuzahs], "hoặc MEZUZOT hoặc MEZUZOTH một cuộn kinh Judaic").
+entry(mezzo, n, [mezzos], "một giọng nữ có chất lượng đầy sâu sắc").
+entry(mho, n, [mhos], "một đơn vị dẫn điện").
+mục(mi, n, [mis], "âm thứ ba của âm giai bảy nốt").
+entry(miaou, v, [miaoued,miaouing,miaous], "kêu meo meo").
+entry(miaow, v, [miaowed, miaowing, miaows], "kêu meo").
+entry(miasm, n, [miasms], "ám khí").
+entry(miasma, n, [miasmas], "hoặc MIASMATAhơi độc hạiMIASMAL MIASMIC adj").
+entry(miaul, v, [miauled,miauling,miauls], "kêu meo").
+entry(mib, n, [mibs], "một loại bi chơi").
+entry(mic, n, [mics], "một cái micro").
+entry(mica, n, [micas], "một khoáng chất").
+entry(micawber, n, [micawbers], "một người luôn giữ hy vọng dù gặp nghịch cảnh").
+entry(chuột, pl, [], "của con chuột").
+entry(micell, n, [micells], "mixen").
+entry(micella, n, [micellae], "mixen").
+entry(micelle, n, [micelles], "một sợi hoặc cấu trúc kết dính trong một sợi; MICELLAR adj").
+entry(miche, v, [miched,miching,miches], "ẩn mình").
+entry(mickey, n, [mickeys], "một đồ uống bị pha thuốc").
+entry(mickle, adj, [], "MICKLER MICKLESTlớn").
+entry(mickle, n, [mickles], "một số lượng lớn").
+entry(micky, n, [mickies], "mickey").
+entry(micra, a, [], "pl của micron").
+entry(micrify, v, [thu nhỏ lại, đang thu nhỏ, thu nhỏ lại], "làm cho nhỏ").
+entry(micro, n, [micros], "một chiếc máy tính rất nhỏ").
+entry(microbar, n, [microbars], "một đơn vị áp suất khí quyển").
+entry(vi sinh vật, n, [vi sinh vật], "một dạng sống nhỏ bé VI SINH TÍNH từ").
+entry(microbus, n, [microbuses], "hoặc MICROBUSSESa xe buýt nhỏ").
+entry(microcap, adj, [], "thuộc về công ty có lợi nhuận giữ lại rất nhỏ").
+entry(microcar, n, [microcars], "một chiếc xe rất nhỏ").
+entry(microdot, n, [microdots], "bản sao của văn bản in được thu nhỏ đến kích thước của một dấu chấm").
+entry(microhm, n, [microhms], "một đơn vị điện trở").
+entry(microlux, n, [microluxes], "hoặc MICROLUCESmột đơn vị chiếu sáng").
+entry(micromho, n, [micromhos], "một đơn vị dẫn điện").
+entry(micron, n, [microns], "hoặc MICRA - một đơn vị đo độ dài").
+entry(vi giải phẫu, n, [vi giải phẫu học], "sử dụng các công cụ nhỏ dưới độ phóng đại cao").
+entry(mid, n, [mids], "giữa").
+entry(midair, n, [midairs], "một khu vực ở giữa không trung").
+entry(midbrain, n, [midbrains], "vùng giữa của não bộ").
+entry(midcap, adj, [], "thuộc về hoặc liên quan đến một công ty có lợi nhuận giữ lại nằm giữa một công ty nhỏ và một tập đoàn lớn").
+entry(midcult, n, [midcults], "văn hóa trung lưu").
+entry(trưa, n, [trưa], "giữa ngày").
+entry(midden, n, [middens], "một đống phân").
+entry(middies, pl, [], "của middy").
+entry(middle, v, [middled,middling,middles], "đặt vào giữa khu vực hoặc điểm cách đều từ các cực hoặc giới hạn").
+entry(middler, n, [middlers], "một học sinh ở cấp độ trung cấp").
+entry(middling, n, [middlings], "một phần thịt lợn").
+entry(middy, n, [middies], "một chiếc áo blouse rộng rãi").
+entry(midfield, n, [tiền_vệ], "phần giữa của một sân chơi").
+entry(midge, n, [midges], "một loài côn trùng có cánh nhỏ").
+entry(lùn, n, [những người lùn], "một người rất nhỏ").
+entry(midgut, n, [midguts], "phần giữa của đường tiêu hóa phôi thai").
+entry(midi, n, [midis], "một chiếc váy hoặc áo khoác kéo dài đến giữa bắp chân").
+entry(midiron, n, [midirons], "gậy đánh golf").
+entry(midland, n, [miền_trung], "phần giữa của một quốc gia").
+entry(midleg, n, [midlegs], "giữa của cái chân").
+entry(midlife, n, [midlives], "tuổi trung niên").
+entry(trungnien, n, [nguoitrungnien], "một người trung niên").
+entry(midline, n, [midlines], "một đường trung tuyến").
+entry(midlist, n, [midlists], "một phần của danh mục tiêu đề hiện tại của nhà xuất bản").
+entry(midmonth, n, [midmonths], "giữa tháng").
+entry(midmost, n, [midmosts], "một phần chính giữa").
+entry(midnight, n, [midnights], "nửa đêm").
+entry(midnoon, n, [midnoons], "buổi trưa").
+mục(điểm_trung_bình, n, [các_điểm_trung_bình], "một điểm ở giữa").
+entry(midrange, n, [midranges], "giữa một phạm vi").
+entry(midrash, n, [midrashim], "hay MIDRASHOTH hoặc MIDRASHOT một sự giải thích sớm của người Do Thái về một văn bản kinh thánh").
+entry(midrib, n, [midribs], "gân giữa của một chiếc lá").
+mục(lưng_chừng, n, [lưng_chừng], "phần giữa của cơ thể").
+entry(midship, adj, [], "liên quan đến giữa của một con tàu").
+entry(midships, adv, [], "về phía giữa của một con tàu").
+entry(midshore, adj, [], "chỉ định một nghề cá nằm giữa các nghề cá ven bờ và ngoài khơi").
+entry(cỡ_trung_bình, adj, [], "có kích thước trung bình").
+entry(midsized, adj, [], "midsize").
+entry(midsole, n, [midsoles], "một lớp giữa của đế giày").
+entry(midspace, n, [midspaces], "giữa không gian").
+entry(midst, n, [midsts], "giữa").
+entry(midstory, n, [midstories], "giữa câu chuyện").
+entry(học_kỳ_giữa, n, [học_kỳ_giữa], "một kỳ thi được tổ chức vào giữa học kỳ học thuật").
+entry(midtown, n, [midtowns], "phần trung tâm của một thành phố").
+entry(midwatch, n, [midwatches], "ca trực trên tàu từ nửa đêm đến 4 giờ sáng").
+entry(midwater, n, [midwaters], "phần giữa theo chiều dọc của một khối nước").
+entry(midway, n, [midways], "một con đường tại hội chợ hoặc lễ hội dành cho gian hàng và trò chơi giải trí").
+entry(giữa_tuần, n, [giữa_tuần], "giữa tuần").
+entry(midwife, v, [midwifed,midwifing,midwifes], "hoặc MIDWIVED MIDWIVING MIDWIVESto hỗ trợ một phụ nữ trong khi sinh").
+entry(midyear, n, [giữa_năm], "giữa năm").
+entry(mien, n, [miens], "thái độ").
+entry(miff, v, [miffed,miffing,miffs], "chọc tức").
+entry(miffy, adj, [], "DỄ DÀNG BỰC BỘI NHẤT").
+entry(mig, n, [migs], "một loại bi chơi").
+entry(migawd, thán từ, [], "được sử dụng để biểu lộ sự ngạc nhiên").
+entry(migg, n, [miggs], "mig").
+entry(miggle, n, [miggles], "một mig").
+entry(might, n, [mights], "sức mạnh").
+entry(mighty, adj, [], "MẠNH HƠN MẠNH NHẤTkhỏe MẠNH adv").
+entry(mignon, n, [mignons], "một phần thịt bò").
+entry(mignonne, adj, [], "nhỏ nhắn xinh xắn").
+entry(đau_nửa_đầu, n, [đau_nửa_đầu], "môt cơn đau đầu nghiêm trọng").
+entry(migrant, n, [những người di cư], "một người di cư").
+entry(di cư, v, [đã di cư,đang di cư,di cư], "di chuyển từ vùng này sang vùng khác").
+mục(người_di_cư, n, [những_người_di_cư], "một người di cư").
+entry(mihrab, n, [mihrabs], "một hốc tường trong một nhà thờ Hồi giáo").
+entry(mijnheer, n, [mijnheers], "mynheer").
+entry(mikado, n, [mikados], "một hoàng đế của Nhật Bản").
+entry(mike, v, [miked,miking,mikes], "khuếch đại hoặc ghi lại bằng cách sử dụng micrô").
+entry(mikron, n, [mikron], "hoặc MIKRAmicron").
+entry(mikva, n, [mikvas], "mikvah").
+entry(mikvah, n, [mikvahs], "hay MIKVOTH hoặc MIKVOT hoặc MIKVOSmột nơi để tắm nghi lễ của người Do Thái Chính thống giáo").
+entry(ngâm tẩy, n, [ngâm tẩy], "mikvah").
+entry(mil, n, [mils], "một đơn vị độ dài").
+entry(miladi, n, [miladis], "milady").
+entry(milady, n, [miladies], "một quý cô Anh").
+entry(milage, n, [milages], "số dặm").
+entry(milch, adj, [], "cho sữa").
+entry(milchig, adj, [], "làm từ hoặc chiết xuất từ sữa").
+entry(mild, v, [milded,milding,milds], "giảm bớt").
+entry(mild, adj, [], "KHÔNG GAY GẮT hay THÔ BẠO milder mildest MILDISH adj").
+entry(milden, v, [mildened, mildening, mildens], "làm cho hoặc trở nên nhẹ nhàng").
+mục(mốc, v, [bị_mốc,đang_mốc,mốc], "bị ảnh hưởng bởi mốc, một sự phát triển màu trắng nhạt do nấm tạo ra").
+entry(mildewy, adj, [], "bị ảnh hưởng bởi hoặc giống như mốc").
+entry(một cách nhẹ nhàng, adv, [], "theo một cách nhẹ nhàng").
+entry(mildness, n, [mildnesses], "chất lượng của sự ôn hòa").
+entry(mile, n, [dặm], "một đơn vị đo khoảng cách").
+entry(khoảng_cách, n, [khoảng_cách], "tổng khoảng cách được biểu diễn bằng dặm").
+entry(cột mốc, n, [cột mốc], "một cột chỉ khoảng cách tính bằng dặm").
+entry(miler, n, [milers], "người chạy một cuộc đua một dặm").
+entry(milesian, adj, [], "thuộc về người bản địa của Ireland").
+entry(milesimo, n, [milesimos], "một đơn vị tiền tệ cũ của Chile").
+entry(milfoil, n, [milfoils], "một loại thảo mộc lâu năm").
+entry(milia, pl, [], "của milium").
+entry(miliaria, n, [miliarias], "một bệnh về da").
+entry(miliary, adj, [], "gồm nhiều phần nhô nhỏ").
+entry(milieu, n, [milieus], "hoặc MILIEUXmôi trường").
+entry(miling, n, [milings], "hoạt động chạy đua một dặm").
+entry(chiến_binh, n, [những_chiến_binh], "một người tích cực tham gia vào một sự nghiệp").
+entry(quân_đội, n, [các_quân_đội], "lực lượng vũ trang").
+entry(militate, v, [militated,militating,militates], "có ảnh hưởng hoặc tác động").
+entry(dân_quân, n, [dân_quân], "một đội quân gồm công dân").
+entry(milium, n, [milia], "một cục màu trắng nhỏ trong da").
+entry(sữa, v, [vắt_sữa,đang_vắt_sữa,vắt_sữa], "vắt sữa - chất lỏng màu trắng giàu dinh dưỡng từ bầu vú của").
+entry(máy_vắt_sữa, n, [máy_vắt_sữa], "một cái vắt sữa").
+entry(cá_chẽm_sữa, n, [cá_chẽm_sữa], "một loại cá biển dùng làm thực phẩm").
+entry(milkier, so_sánh_hơn, [], "của milky").
+entry(milkiest, superlative, [], "của sữa").
+entry(milkily, adv, [], "một cách sữa").
+entry(milkless, adj, [], "thiếu sữa").
+entry(cô vắt sữa, n, [các cô vắt sữa], "một người phụ nữ vắt sữa bò").
+entry(milkman, n, [milkmen], "một người đàn ông bán hoặc giao sữa").
+entry(milkshed, n, [milksheds], "một khu vực cung cấp sữa cho một cộng đồng cụ thể").
+entry(milksop, n, [milksops], "một người đàn ông ẻo lả").
+entry(cây bông tai, n, [các cây bông tai], "một loại cây tiết ra nhựa trắng đục").
+entry(cây_sữa, d, [cây_sữa], "một loại cây nhiệt đới").
+entry(cây cẩm trâu, n, [các cây cẩm trâu], "một loại cây có hoa").
+entry(milky, adj, [], "CÓ SỮA NHƯ SỮA NHẤTgiống hoặc gợi nhớ đến sữa").
+entry(mill, v, [milled,milling,mills], "xay bằng cơ học\nMILLABLE adj").
+entry(millage, n, [millages], "một loại tỷ lệ tiền tệ").
+entry(millcake, n, [millcakes], "một dư lượng từ hạt lanh ép").
+entry(milldam, n, [milldams], "một con đập được xây dựng để tạo thành một hồ đập").
+entry(mille, n, [milles], "một ngàn").
+entry(milleped, n, [millepeds], "nghìn chân").
+entry(miller, n, [millers], "một người xay xát").
+entry(millet, n, [millets], "một loại ngũ cốc").
+entry(miliampe, n, [miliampe], "một phần nghìn của ampe").
+entry(milliard, n, [tỉ], "một tỉ").
+entry(milliare, n, [milliares], "một đơn vị diện tích").
+entry(milliary, n, [milliaries], "một cột mốc La Mã cổ đại").
+entry(millibar, n, [milibar], "một đơn vị áp suất khí quyển").
+entry(millieme, n, [millièmes], "đơn vị tiền tệ của Ai Cập và Sudan").
+entry(millier, n, [milliers], "một đơn vị trọng lượng").
+entry(milligal, n, [milligals], "một đơn vị gia tốc").
+entry(millilux, n, [milliluxes], "hoặc MILLILUCES, một đơn vị đo độ chiếu sáng").
+entry(millime, n, [millimes], "một đồng xu của Tunisia").
+entry(millimho, n, [millimhos], "một đơn vị của độ dẫn điện").
+entry(milline, n, [millines], "một đơn vị không gian quảng cáo").
+entry(milliner, n, [milliners], "người làm hoặc bán mũ cho phụ nữ").
+entry(xay, n, [xay], "một cạnh có gờ trên đồng xu").
+entry(milliohm, n, [milliohm], "một đơn vị điện trở").
+entry(million, n, [hàng triệu], "một con số").
+entry(milliped, n, [millipeds], "một loài chân đốt nhiều chân").
+entry(millirem, n, [millirems], "một lượng bức xạ ion hóa").
+entry(millpond, n, [millponds], "một cái ao dùng để cung cấp nước chạy bánh xe cối xay, một loại bánh xe nước").
+entry(millrace, n, [millraces], "dòng nước chảy xoáy dẫn tới bánh xe cối xay nước").
+entry(millrun, n, [millruns], "một dòng chảy qua cối xay").
+entry(millwork, n, [millworks], "đồ gỗ được sản xuất bằng cách xẻ gỗ").
+entry(milneb, n, [milnebs], "một chất diệt nấm").
+entry(milo, n, [milos], "một loại cỏ ngũ cốc").
+entry(milord, n, [milords], "một quý ông người Anh").
+entry(milpa, n, [milpas], "một cánh đồng được khai hoang từ rừng rậm để canh tác").
+entry(milreis, n, [milreis], "một đơn vị tiền tệ cũ của Bồ Đào Nha").
+entry(milt, v, [milted, milting, milts], "để thụ tinh bằng tinh sữa cá").
+entry(milter, n, [milters], "cá đực trong thời kỳ sinh sản").
+entry(milty, adj, [], "NHIỀU MILT NHẤT NHIỀU MILT NHẤT đầy milt").
+entry(mim, adj, [], "kín đáo một cách nghiêm trang").
+entry(mimbar, n, [mimbars], "minbar").
+entry(mime, v, [mimed,miming,mimes], "bắt chước").
+entry(mimeo, v, [mimeoed,mimeoing,mimeos], "sao chép bằng cách sử dụng máy nhân bản").
+entry(mimer, n, [mimers], "người bắt chước").
+entry(mimesis, n, [mimesises], "hoặc MIMESESbắt chướcMIMETIC tt").
+entry(mimetite, n, [mimetites], "một loại quặng chì").
+entry(bắt_chước, v, [bắt_chước,đang_bắt_chước,bắt_chước], "bắt chước sát sao").
+entry(mimical, adj, [], "có tính chất bắt chước").
+entry(mimicker, n, [mimickers], "một người bắt chước").
+entry(bắt_chước, hiện_tại, [], "phân động từ của mimic").
+entry(bắt_chước, n, [các_hành_vi_bắt_chước], "một trường hợp bắt chước").
+mục(mô phỏng, hiện tại, [], "phân từ của mô phỏng").
+entry(mimosa, n, [mimosas], "một loại cây nhiệt đới").
+entry(mimulus, n, [mimuluses], "một loài cây có hoa").
+entry(mina, n, [minas], "hoặc MINAE một đơn vị trọng lượng và giá trị cổ đại").
+entry(minable, adj, [], "có khả năng được khai thác").
+entry(minacity, n, [minacities], "trạng thái đe dọa").
+entry(minae, a, [], "số nhiều của mina").
+entry(tháp_mosque, n, [các_tháp_mosque], "một ngọn tháp mảnh dẻ gắn liền với một nhà thờ Hồi giáo").
+entry(minatory, adj, [], "đe dọa").
+entry(minbar, n, [minbars], "một giảng đài của người Hồi giáo").
+entry(băm, v, [băm nhỏ, băm nhuyễn, băm vụn], "cắt ra thành miếng rất nhỏ").
+entry(mincer, n, [máy xay thịt], "thiết bị dùng để xay").
+entry(mincy, adj, [], "ẢNH HƯỞNG ĐẾN NGÔNG BABY").
+entry(tâm trí, v, [đã chú ý, đang chú ý, chú ý], "để ý").
+entry(mindedly, adv, [], "theo cách của một người với một kiểu tư duy được chỉ định").
+entry(minder, n, [người trông nom], "một người trông nom").
+entry(chánh_niệm, adj, [], "chú_ý").
+entry(mindless, adj, [], "thiếu trí tuệ").
+entry(tư_duy, n, [tư_duy], "một thái độ tinh thần cố định").
+entry(mine, v, [đã khai thác,đang khai thác,khai thác], "đào bới để tìm nguyên liệu có giá trị").
+entry(cơ thể khai thác, adj, [], "có thể khai thác").
+entry(miner, n, [thợ_mỏ], "một người đào mỏ").
+entry(khoáng_sản, n, [các_khoáng_sản], "một chất vô cơ xuất hiện tự nhiên có một tập hợp đặc tính vật lý đặc trưng").
+entry(mingier, so_sánh_hơn, [], "của keo kiệt").
+entry(mingiest, superlative, [], "của mingy").
+entry(hòa_trộn, v, [đã_hòa_trộn,đang_hòa_trộn,hòa_trộn], "trộn lẫn với nhau").
+entry(mingler, n, [minglers], "một người giao thiệp").
+entry(mingy, adj, [], "MINGIER MINGIESTcó nghĩa và keo kiệtMINGILY adv").
+entry(mini, n, [minis], "một thứ gì đó nhỏ hơn đáng kể so với những cái khác cùng loại").
+entry(minibar, n, [minibars], "tủ lạnh nhỏ được trữ đầy đồ uống").
+entry(minibike, n, [minibikes], "một chiếc xe máy nhỏ").
+entry(minibus, n, [minibuses], "hoặc MINIBUSSESa loại xe buýt nhỏ").
+entry(minicab, n, [minicabs], "một loại taxi nhỏ gọn").
+entry(minicam, n, [minicams], "một máy quay truyền hình nhỏ gọn").
+entry(minicamp, n, [trại huấn luyện ngắn hạn], "một trại huấn luyện ngắn hạn cho các cầu thủ bóng đá").
+entry(minicar, n, [những chiếc xe mini], "một chiếc ô tô nhỏ").
+entry(minidisc, n, [đĩa mini], "một đĩa compact nhỏ gọn").
+entry(minify, v, [minified,minifying,minifies], "làm cho nhỏ hoặc nhỏ hơn").
+entry(minigolf, n, [minigolfs], "trò chơi tương tự như golf được chơi trên sân nhỏ có chướng ngại vật").
+entry(minikin, n, [minikins], "một sinh vật nhỏ hoặc xinh xắn").
+mục(minilab, n, [minilabs], "một cửa hàng bán lẻ cung cấp dịch vụ in ảnh nhanh tại chỗ").
+entry(minim, n, [minims], "một đơn vị đo lường dung dịch").
+entry(minima, a, [], "pl của minimum").
+entry(minimal, n, [minimals], "một phần tử của một tập hợp toán học đi trước tất cả các phần tử khác").
+entry(minimax, n, [minimaxes], "giá trị nhỏ nhất của một tập hợp các giá trị lớn nhất").
+entry(minimill, n, [minimills], "nhà máy thép quy mô nhỏ").
+entry(minimise, v, [được tối thiểu hóa, đang tối thiểu hóa, tối thiểu hóa], "giảm thiểu").
+entry(minimize, v, [được thu nhỏ,làm nhỏ lại,giảm thiểu], "để làm nhỏ nhất có thể").
+entry(minimum, n, [minimums], "hoặc MINIMAmức độ hoặc số lượng ít nhất có thể").
+entry(khai_thác, n, [các_khai_thác], "quá trình hoặc hoạt động kinh doanh liên quan đến việc làm việc tại các mỏ khai thác trong lòng đất").
+mục(lâu_la, n, [lâu_la], "một kẻ theo hầu hạ").
+entry(minipark, n, [công_viên_nhỏ], "một công viên nhỏ trong thành phố").
+entry(minipill, n, [minipills], "một loại thuốc tránh thai không chứa estrogen").
+entry(minish, v, [minished,minishing,minishes], "giảm bớt").
+entry(miniski, n, [miniskis], "ván trượt tuyết ngắn").
+entry(minister, v, [đã phục vụ,đang phục vụ,phục vụ], "để cung cấp sự trợ giúp hoặc dịch vụ").
+entry(ministry, n, [ministries], "hành động phục vụ").
+entry(minium, n, [minium], "một chất màu đỏ").
+entry(minivan, n, [minivan], "một chiếc xe tải nhỏ").
+entry(miniver, n, [minivers], "một bộ lông trắng").
+entry(chồn nâu, n, [chồn nâu], "một loài động vật có vú ăn thịt").
+entry(minke, n, [minkes], "cá voi nhỏ").
+muc(minneola, n, [minneolas], "một loại tangelo đỏ").
+entry(minnow, n, [minnows], "một loài cá nhỏ").
+entry(minny, n, [minnies], "minnow").
+entry(minor, v, [minored,minoring,minors], "theo đuổi một chuyên ngành phụ cụ thể").
+entry(minorca, n, [minorcas], "bất kỳ con gà nhà lớn nào của giống này").
+entry(minority, n, [thiểu_số], "số lượng hoặc phần nhỏ hơn").
+entry(minster, n, [minsters], "một nhà thờ lớn hoặc quan trọng").
+entry(minstrel, n, [nhạc sĩ lang thang], "một nhạc sĩ thời trung cổ").
+entry(mint, v, [đúc, đúc tiền, đúc], "sản xuất bằng cách dập kim loại thành tiền xu").
+entry(mintage, n, [mintages], "hành động đúc tiền").
+entry(minter, n, [người đúc tiền], "một người đúc tiền").
+entry(minty, adj, [], "CÓ HƯƠNG VỊ BẠC HÀ của một loại thảo mộc thơm hơn CÓ HƯƠNG VỊ BẠC HÀ").
+entry(minuend, n, [minuends], "một số bị trừ đi bởi một số khác").
+entry(minuet, v, [minueted,minueting,minuets], "nhảy minuet, một điệu nhảy chậm và uy nghiêm").
+entry(minus, n, [minuses], "một số lượng âm").
+entry(minute, adj, [], "MINUTER MINUTESTrất nhỏMINUTELY adv").
+entry(minute, v, [minuted,minuting,minutes], "ghi chú ngắn gọn").
+entry(minutia, n, [minutiae], "một chi tiết nhỏMINUTIAL adj").
+entry(minx, n, [minxes], "một cô gái lanh lợiMINXISH adj").
+entry(minyan, n, [minyans], "hoặc MINYANIM, số lượng tối thiểu yêu cầu phải có mặt để tiến hành một buổi lễ của người Do Thái").
+entry(miosis, n, [mioses], "sự co quá mức của con ngươi của mắt").
+entry(miotic, n, [chất gây co đồng tử], "một chất gây miosis").
+entry(miquelet, n, [miquelets], "một cựu binh lính Tây Ban Nha hoặc Pháp").
+entry(mir, n, [mirs], "hoặc MIRIa một công xã nông dân Nga").
+entry(miracle, n, [miracles], "một sự kiện được gán cho nguồn gốc siêu nhiên hoặc thần thánh").
+entry(mirador, n, [miradors], "một đặc điểm kiến trúc được thiết kế để mang lại tầm nhìn rộng").
+entry(mirage, n, [ảo ảnh], "một loại ảo giác quang học").
+entry(mire, v, [mired,miring,mires], "gây ra để mắc kẹt trong vùng đầm lầy").
+entry(mirepoix, n, [mirepoix], "hỗn hợp rau củ thái hạt lựu được xào").
+entry(mirex, n, [mirexes], "một loại thuốc trừ sâu").
+entry(miri, a, [], "số nhiều của mir").
+entry(mirid, n, [mirids], "một loại bọ lá").
+entry(mirier, so sánh hơn, [], "của miry").
+entry(miriest, so_sánh_bậc_nhất, [], "của miry").
+entry(mirin, n, [mirins], "rượu nấu ăn ngọt của Nhật Bản").
+entry(miriness, n, [mirinesses], "trạng thái bùn lầy").
+entry(miring, hiện tại, [], "phân từ của mire").
+entry(mirk, adj, [], "MIRKER MIRKESTmurk").
+entry(mirk, n, [mirks], "bùn").
+entry(mirky, adj, [], "MIRKIER MIRKIESTmurkyMIRKILY adv").
+entry(mirliton, n, [mirlitons], "một loại dưa leo rừng").
+mục(lướt, v, [đã lướt,đang lướt,lướt], "phản chiếu hình ảnh của").
+entry(vui vẻ, n, [nhiều niềm vui], "sự hân hoanMIRTHFUL adj").
+entry(miry, adj, [], "MIRIER MIRIESTđầm lầy").
+entry(mirza, n, [mirzas], "một danh hiệu danh dự của Ba Tư").
+entry(misact, v, [misacted,misacting,misacts], "hành động tồi").
+entry(misadapt, v, [misadapted,misadapting,misadapts], "thích nghi sai").
+entry(misadd, v, [misadded,misadding,misadds], "thêm sai").
+mục(misagent, n, [misagents], "một tác nhân xấu").
+entry(misaim, v, [misaimed, misaiming, misaims], "nhắm sai").
+entry(misalign, v, [misaligned,misaligning,misaligns], "căn chỉnh không đúng").
+entry(misallot, v, [misallotted,misallotting,misallots], "phân bổ sai").
+entry(misally, v, [misallied,misallying,misallies], "liên kết tồi").
+entry(misalter, v, [misaltered,misaltering,misalters], "thay đổi sai").
+entry(misandry, n, [misandries], "hận thù đối với nam giới").
+entry(misapply, v, [misapplied,misapplying,misapplies], "áp dụng sai").
+entry(misassay, v, [misassayed,misassaying,misassays], "cố gắng không thành công").
+entry(misate, quá_khứ, [], "thì của miseat").
+entry(misatone, v, [misatoned,misatoning,misatones], "để chuộc lỗi sai").
+entry(misaver, v, [misaverred,misaverring,misavers], "nói sai").
+entry(misaward, v, [misawarded,misawarding,misawards], "trao giải sai").
+entry(misbegin, v, [misbegan,misbegun,misbeginning], "MISBEGINbắt đầu sai").
+entry(misbegot, adj, [], "sinh ra ngoài giá thú").
+mục(misbias, v, [misbiased, misbiasing, misbiases], "hoặc MISBIASSED MISBIASSING MISBIASSESto thiên vị sai").
+entry(misbill, v, [misbilled,misbilling,misbills], "tính tiền sai").
+entry(misbind, v, [misbound,misbinding,misbinds], "trói buộc không hoàn hảo").
+entry(misbrand, v, [misbranded,misbranding,misbrands], "đặt nhãn sai cách").
+entry(misbuild, v, [misbuilt,misbuilding,misbuilds], "xây dựng một cách không hoàn hảo").
+entry(miscall, v, [miscalled,miscalling,miscalls], "gọi nhầm tên").
+entry(sảy_thai, v, [sẩy_thai,đang_sẩy_thai,sẩy_thai], "để không thành công").
+entry(miscast, v, [miscast,miscasting,miscasts], "phân vai không phù hợp").
+entry(tinh_quai, n, [nhung_tinh_quai], "hanh dong gay ra su kho chiu, ton hai hoac rac roi").
+entry(mischose, past, [], "thì của mischoose để chọn sai").
+entry(trộn lẫn, adj, [], "có khả năng được trộn").
+entry(miscite, v, [miscited,misciting,miscites], "trích dẫn sai").
+entry(misclaim, v, [misclaimed,misclaiming,misclaims], "đòi hỏi sai trái").
+entry(misclass, v, [misclassed,misclassing,misclasses], "đưa vào lớp sai").
+mục(miscode, v, [miscoded,miscoding,miscodes], "mã hóa sai").
+entry(miscoin, v, [miscoined,miscoining,miscoins], "đúc sai").
+entry(miscolor, v, [miscolored,miscoloring,miscolors], "tô màu không đúng").
+entry(miscook, v, [miscooked,miscooking,miscooks], "nấu dở").
+entry(miscopy, v, [miscopied,miscopying,miscopies], "chép sai").
+entry(miscount, v, [miscounted,miscounting,miscounts], "đếm sai").
+entry(miscue, v, [], "CÚ ĐÁNH SAI CÚ ĐÁNH SAI HOẶC CÚ ĐÁNH SAI CÚ ĐÁNH SAIthực hiện một cú đánh sai trong môn bi-a").
+entry(miscut, v, [miscut,miscutting,miscuts], "cắt sai").
+entry(misdate, v, [misdated,misdating,misdates], "ghi ngày sai").
+entry(misdeal, v, [misdealt,misdealing,misdeals], "chia bài không đúng").
+entry(misdeed, n, [misdeeds], "một hành động xấu xa").
+entry(misdeem, v, [misdeemed,misdeeming,misdeems], "đánh giá không thuận lợi").
+entry(misdial, v, [misdialed,misdialing,misdials], "hoặc MISDIALLED MISDIALLING MISDIALS để quay số sai").
+entry(misdo, v, [misdid,misdone,misdoing], "MISDOE làm sai").
+entry(misdoer, n, [misdoers], "một kẻ làm sai").
+entry(misdoing, n, [misdoings], "một trường hợp làm sai").
+entry(misdone, quá_khứ, [], "phân_từ của misdo").
+entry(misdoubt, v, [misdoubted, misdoubting, misdoubts], "nghi ngờ").
+entry(misdraw, v, [misdrew,misdrawn,misdrawing], "VẼSAIa vẽ không đúng cách").
+entry(misdrive, v, [misdrove,misdriven,misdriving], "MISDRIVElái xe sai hoặc không đúng cách").
+entry(mise, n, [mises], "một thỏa thuận hoặc dàn xếp").
+entry(misease, n, [miseases], "khó chịu").
+entry(miseat, v, [misate,miseaten,miseating], "MISEAT: ăn không đúng cách").
+entry(misedit, v, [misedited,misediting,misedits], "chỉnh sửa sai").
+entry(misenrol, v, [misenrolled,misenrolling,misenrols], "ghi danh sai").
+entry(misenter, v, [misentered,misentering,misenters], "nhập sai").
+entry(misentry, n, [misentries], "một đầu mục sai").
+entry(miser, n, [misers], "người hà tiện, keo kiệt").
+entry(miserere, n, [misereres], "một phần của ghế nhà thờ").
+entry(keo_kiet, adj, [], "đặc tính của một người bủn xỉn").
+entry(khốn_khổ, n, [sự_khốn_khổ], "một trạng thái đau khổ lớn").
+entry(misevent, n, [misevents], "một sự cố").
+entry(misfaith, n, [misfaiths], "thiếu niềm tin, sự không tin tưởng").
+entry(misfeed, v, [misfed,misfeeding,misfeeds], "cho ăn sai").
+entry(misfield, v, [misfielded,misfielding,misfields], "bắt bóng sai cách").
+entry(misfile, v, [misfiled,misfiling,misfiles], "lưu hồ sơ không đúng chỗ").
+entry(misfire, v, [misfired,misfiring,misfires], "không nổ").
+entry(misfit, v, [misfitted,misfitting,misfits], "vừa không đúng").
+entry(misfocus, v, [misfocused,misfocusing,misfocuses], "hoặc MISFOCUSSED MISFOCUSSING MISFOCUSSESto tập trung sai cách").
+mục(misform, v, [misformed, misforming, misforms], "làm sai hình dạng").
+entry(misframe, v, [misframed,misframing,misframes], "đóng khung kém").
+entry(misgauge, v, [misgauged,misgauging,misgauges], "đánh giá sai hoặc không chính xác").
+entry(misgive, v, [misgave,misgiven,misgiving], "MISGIVESđể làm cho nghi ngờ hoặc sợ hãi").
+entry(misgrade, v, [misgraded,misgrading,misgrades], "chấm điểm sai").
+entry(misgraft, v, [misgrafted,misgrafting,misgrafts], "ghép sai").
+entry(misgrow, v, [misgrew,misgrown,misgrowing], "MISGROWlớn lên không bình thường").
+entry(misguess, v, [misguessed,misguessing,misguesses], "đoán sai").
+entry(làm_lạc_hướng, v, [lạc_hướng,làm_lạc_hướng,làm_lạc], "để hướng dẫn sai").
+entry(sự cố, n, [sự cố], "một tai nạn không may").
+entry(nghe_nhầm, v, [nghe_nhầm_rồi, đang_nghe_nhầm, nghe_nhầm], "nghe không đúng").
+entry(mishit, v, [mishit,mishitting,mishits], "đánh trượt").
+entry(mishmash, n, [mishmashes], "hỗn hợp lộn xộn").
+entry(mishmosh, n, [mishmoshes], "hỗn hợp").
+entry(mishugas, n, [mishugases], "hành vi điên rồ hoặc ngu ngốc").
+entry(misinfer, v, [misinferred,misinferring,misinfers], "suy luận sai").
+mục(misinter, động từ, [misinterred, misinterring, misinters], "chôn cất không đúng cách").
+mục(misjoin, v, [misjoined,misjoining,misjoins], "tham gia không đúng cách").
+entry(misjudge, v, [misjudged, misjudging, misjudges], "phán xét sai").
+entry(miskal, n, [miskals], "một đơn vị đo khối lượng phương Đông").
+entry(miskeep, v, [miskept,miskeeping,miskeeps], "giữ sai cách").
+entry(miskey, v, [miskeyed,miskeying,miskeys], "ghi sai vào máy").
+entry(miskick, v, [miskicked,miskicking,miskicks], "đá hỏng").
+entry(misknow, v, [misknew,misknown,misknowing], "MISKNOWto fail to understand or recognize").
+entry(sai_nhãn, v, [dán_nhầm, dán_sai, dán_nhãn_sai], "hoặc LABEL SAI DAAN_SAI DÁN_NHÃN_SAI để dán nhãn không đúng hoặc sai").
+entry(mislabor, v, [mislabored, mislaboring, mislabors], "lao động không tốt").
+entry(mislain, past, [], "phân từ của mislie").
+entry(mislay, v, [mislaid,mislaying,mislays], "để đặt ở nơi bị quên").
+entry(mislayer, n, [mislayers], "người phụ trách việc sắp xếp sai").
+entry(mislead, v, [misled,misleading,misleads], "dẫn đi lạc").
+entry(mislearn, v, [mislearnt,mislearning,mislearns], "học sai").
+entry(mislie, v, [mislay,mislain,mislying], "MISLIEs nằm ở vị trí sai").
+entry(mislight, v, [mislit,mislighting,mislights], "làm cho lạc đường bởi ánh sáng của nó").
+entry(mislike, v, [misliked,misliking,mislikes], "không thích").
+entry(misliker, n, [mislikers], "một người không thích").
+entry(mislit, a, [], "thì quá khứ của mislight").
+entry(mislive, v, [mislived,misliving,mislives], "sống một cuộc sống tồi tệ").
+entry(mislodge, v, [mislodged,mislodging,mislodges], "đặt sai chỗ").
+entry(mislying, hiện tại, [], "phân từ của mislie").
+entry(mismake, v, [mismade,mismaking,mismakes], "làm sai").
+entry(mismark, v, [mismarked,mismarking,mismarks], "đánh dấu sai").
+entry(mismatch, v, [mismatched,mismatching,mismatches], "kết hợp tồi").
+entry(mismate, v, [mismated, mismating, mismates], "ghép đôi không phù hợp").
+entry(mismeet, v, [mismet, mismeeting, mismeets], "gặp gỡ trong hoàn cảnh không may").
+entry(mismove, v, [mismoved,mismoving,mismoves], "di chuyển sai").
+entry(misname, v, [misnamed,misnaming,misnames], "gọi nhầm tên").
+entry(misnomer, n, [misnomers], "một tên được dùng sai").
+entry(miso, n, [misos], "một loại tương thực phẩm").
+entry(chủ_nghĩa_ghe_tởm_hôn_nhân, n, [những_chủ_nghĩa_ghe_tởm_hôn_nhân], "sự ghét kết hôn").
+entry(thù_hằn_phụ_nữ, n, [thù_hằn_phụ_nữ], "một sự thù ghét phụ nữ").
+entry(misology, n, [misologies], "sự ghét tranh luận hoặc lý luận").
+entry(misorder, v, [misordered,misordering,misorders], "đặt hàng sai").
+entry(mispage, v, [mispaged,mispaging,mispages], "gọi nhầm trang").
+entry(mispaint, v, [mispainted,mispainting,mispaints], "sơn sai").
+entry(misparse, v, [misparsed,misparsing,misparses], "phân tích cú pháp sai").
+entry(mispart, v, [misparted,misparting,misparts], "chia cắt sai").
+entry(mispatch, v, [mispatched,mispatching,mispatches], "vá xấu").
+entry(mispen, v, [mispenned,mispenning,mispens], "viết sai").
+entry(misplace, v, [misplaced,misplacing,misplaces], "đặt sai chỗ").
+entry(misplan, v, [misplanned,misplanning,misplans], "lên kế hoạch tồi").
+entry(misplant, v, [misplanted,misplanting,misplants], "trồng sai").
+entry(misplay, v, [misplayed,misplaying,misplays], "thực hiện một nước đi tồi trong trò chơi").
+entry(misplead, v, [mispled,mispleading,mispleads], "cầu xin sai hoặc gian dối").
+entry(mispoint, v, [mispointed,mispointing,mispoints], "chỉ điểm sai").
+entry(mispoise, v, [mispoised,mispoising,mispoises], "đặt sai vị trí").
+entry(misprice, v, [mispriced,mispricing,misprices], "định giá sai").
+entry(sai_in, v, [in_sai,in_dang_sai,in_sai], "in không chính xác").
+entry(misprize, v, [misprized,misprizing,misprizes], "khinh thường").
+entry(misquote, v, [misquoted, misquoting, misquotes], "trích dẫn sai").
+entry(misraise, v, [misraised,misraising,misraises], "nâng không đúng").
+entry(misrate, v, [misrated, misrating, misrates], "đánh giá sai").
+entry(misread, v, [misread,misreading,misreads], "đọc sai").
+entry(misrefer, v, [misreferred,misreferring,misrefers], "tham chiếu sai").
+entry(misrely, v, [misrelied,misrelying,misrelies], "dựa dẫm sai").
+entry(sai_lộ_trình, v, [sai_lộ_trình_rồi,sai_lộ_trình_đang,sai_lộ_trình], "chuyển hướng sai").
+entry(misrule, v, [misruled,misruling,misrules], "cai trị một cách dại dột hoặc không công bằng").
+entry(miss, v, [missed, missing, misses], "không thể liên lạc được").
+entry(có_thể_bỏ_lỡ, adj, [], "có thể bị bỏ lỡ").
+entry(sách lễ, n, [các sách lễ], "một cuốn sách cầu nguyện").
+entry(missay, v, [missaid,missaying,missays], "nói sai").
+entry(misseat, v, [misseated,misseating,misseats], "ngồi sai").
+entry(missel, n, [missels], "một loại chim chích châu Âu").
+entry(missend, v, [missent,missending,missends], "gửi sai").
+entry(missense, n, [missenses], "một dạng của đột biến di truyền").
+entry(misset, v, [misset, missetting, missets], "đặt sai cách").
+entry(misshape, v, [misshaped,misshapen,misshaping], "MISSHAPEđịnh hình xấu").
+entry(misshod, adj, [], "mang giày không đúng cách").
+entry(missies, pl, [], "của missy").
+entry(tên_lửa, n, [tên_lửa], "một vật hoặc vũ khí được ném hoặc phóng").
+entry(hoa_ten_lua, n, [hoa_ten_lua], "khoa học thiết kế và vận hành tên lửa dẫn đường").
+entry(mission, v, [missioned,missioning,missions], "gửi để thực hiện một nhiệm vụ cụ thể").
+entry(missis, n, [missises], "vợ").
+entry(bức thư, n, [các bức thư], "một hình thức giao tiếp bằng văn bản").
+entry(missort, v, [missorted,missorting,missorts], "sắp xếp sai hoặc không đúng").
+entry(missound, v, [missounded,missounding,missounds], "phát âm sai").
+entry(missout, n, [missouts], "một lần tung xúc sắc thua cuộc").
+entry(misspace, v, [misspaced,misspacing,misspaces], "đặt khoảng cách sai").
+entry(misspeak, v, [misspoke,misspoken,misspeaking], "MISSPEAKS nói không chính xác").
+entry(sai_chính_tả, v, [viết_sai_chính_tả,viết_sai,viết_sai_chính_tả_nhiều_lần], "viết sai chính tả").
+entry(lãng phí, v, [lãng phí,đang lãng phí,lãng phí], "chi tiêu sai cách").
+entry(misspoke, quá_khứ, [], "thì của misspeak").
+entry(misspoken, quá_khứ, [], "phân_từ_của_misspeak").
+entry(misstamp, v, [misstamped,misstamping,misstamps], "đóng dấu sai").
+entry(misstart, v, [misstarted, misstarting, misstarts], "bắt đầu tồi tệ").
+entry(misstate, v, [misstated,misstating,misstates], "nói sai").
+entry(missteer, v, [missteered, missteering, missteers], "lái sai").
+entry(sơ_sẩy, v, [sơ_sẩy_đã, sơ_sẩy_đang, sơ_sẩy], "bước sai").
+entry(misstop, v, [misstopped,misstopping,misstops], "dừng sai cách").
+entry(misstyle, v, [misstyled,misstyling,misstyles], "để tạo kiểu hoặc gọi sai").
+mục(missuit, v, [missuited,missuiting,missuits], "phù hợp kém").
+entry(missus, n, [missuses], "bà chủ").
+entry(missy, n, [missies], "một cô gái trẻ").
+entry(sương mù, v, [sương mù che phủ, sương mù bao phủ, sương mù], "trở nên mờ ảo").
+entry(mistake, v, [misteuk,mistaken,mistaking], "MISTAKEsto interpret wrongly").
+entry(mistaker, n, [mistakers], "người phạm lỗi").
+entry(mistbow, n, [mistbows], "một cầu vồng sương mù").
+entry(misteach, v, [mistaught,misteaching,misteaches], "dạy sai hoặc dạy dở").
+entry(mistend, v, [mistended,mistending,mistends], "chăm sóc không đúng cách").
+entry(mister, n, [misters], "thưa ngài").
+entry(misterm, v, [mistermed,misterming,misterms], "gọi nhầm tên").
+entry(misteuk, a, [], "thì quá khứ của mistake").
+entry(misthink, v, [misthought,misthinking,misthinks], "nghĩ sai").
+entry(misthrow, v, [misthrew,misthrown,misthrowing], "ném trật - ném sai").
+entry(mistier, so_sánh_hơn, [], "của misty").
+entry(mistiest, so sánh nhất, [], "của misty").
+entry(một cách sương mù, adv, [], "in a misty manner").
+entry(mistime, v, [mistimed,mistiming,mistimes], "hẹn giờ sai cách").
+entry(mistitle, v, [mistitled,mistitling,mistitles], "gọi sai tiêu đề").
+entry(mistook, a, [], "thì quá khứ của mistake").
+entry(mistouch, v, [mistouched, mistouching, mistouches], "chạm không đúng cách").
+entry(mistrace, v, [mistraced,mistracing,mistraces], "truy lùng sai").
+entry(mistrain, v, [mistrained,mistraining,mistrains], "huấn luyện sai").
+entry(mistral, n, [mistrals], "một loại gió khô lạnh").
+entry(mistreat, v, [mistreated,mistreating,mistreats], "đối xử tệ").
+entry(mistress, n, [mistresses], "một người phụ nữ ở vị trí quyền lực").
+entry(phiên_toà_bất_hợp_pháp, n, [phiên_toà_bất_hợp_pháp], "một phiên tòa không hợp lệ vì có một số sai sót trong thủ tục").
+entry(mistrust, v, [mistrusted,mistrusting,mistrusts], "không tin tưởng").
+entry(mistruth, n, [mistruths], "một lời nói dối").
+entry(mistryst, v, [mistrysted,mistrysting,mistrysts], "thất bại trong việc giữ một cuộc hẹn").
+entry(mistune, v, [mistuned,mistuning,mistunes], "điều chỉnh sai").
+entry(mistutor, v, [mistutored,mistutoring,mistutors], "dạy hoặc nuôi dạy sai cách").
+entry(misty, adj, [], "SƯƠNG MÙ SƯƠNG MÙ NHẤTmờ").
+entry(mistype, v, [mistyped,mistyping,mistypes], "đánh máy sai").
+entry(misunion, n, [misunions], "một sự kết hợp tồi").
+entry(lạm_dụng, n, [lạm_dụng_sai], "sử dụng không đúng").
+entry(lạm_dụng, v, [đã_lạm_dụng,đang_lạm_dụng,lạm_dụng], "sử dụng sai cách").
+entry(kẻ_sử_dụng_sai, n, [những_kẻ_sử_dụng_sai], "người sử dụng sai").
+entry(misvalue, v, [misvalued,misvaluing,misvalues], "đánh giá sai").
+entry(misword, v, [misworded,miswording,miswords], "sử dụng sai từ").
+entry(miswrite, v, [miswrit,miswritten,miswriting], "MISWRITEviết không đúng").
+entry(misyoke, v, [misyoked,misyoking,misyokes], "buộc ách không đúng cách").
+entry(mite, n, [con ve], "một loài nhện nhỏ").
+entry(miter, v, [mitered, mitering, miters], "nâng lên hàng giám mục").
+entry(miterer, n, [miterers], "người đo miter").
+entry(mither, n, [mithers], "mẹ").
+entry(miticide, n, [thuốc diệt ve], "một chất dùng để giết ve").
+entry(mitier, comparative, [], "của mity").
+entry(mitiest, superlative, [], "của mity").
+entry(mitigant, n, [mitigants], "một thứ gì đó làm giảm nhẹ").
+entry(làm_giảm, v, [đã_làm_giảm,đang_làm_giảm,làm_giảm], "để làm giảm bớt sự nghiêm trọng").
+entry(mitis, n, [mitises], "một loại sắt rèn").
+entry(mitogen, n, [các chất gây phân bào], "một chất kích thích phân bào").
+entry(nguyên phân, n, [nguyên phân], "một loại phân bàoNGUYÊN PHÂN adj").
+entry(mitral, adj, [], "thuộc về van của tim").
+entry(mitre, v, [mitred,mitring,mitres], "để vát góc").
+entry(mitsvah, n, [mitsvahs], "hoặc MITSVOTHmitzvah").
+entry(mitt, n, [mitts], "một loại găng tay bóng chày").
+entry(mitten, n, [mittens], "một loại che phủ cho bàn tayMITTENED adj").
+entry(mittimus, n, [mittimuses], "lệnh giam giữ một người vào nhà tù").
+entry(mity, adj, [], "BỊ NHIỄM BỌ VE NHẤT").
+entry(mitzvah, n, [mitzvahs], "hoặc MITZVOTH một điều răn của luật Do Thái").
+entry(mix, v, [mixt,mixing,mixes], "để kết hợp thành một khốiMIXABLE MIXIBLE adjMIXEDLY adv").
+entry(mixdown, n, [mixdowns], "quá trình kết hợp các bản nhạc để tạo một bản ghi").
+entry(máy_trộn, n, [máy_trộn], "một cái trộn").
+entry(mixology, n, [mixologies], "nghệ thuật pha chế đồ uống hỗn hợp").
+entry(mixtape, n, [băng_phối], "một tập hợp các bài hát được ghi từ nhiều nguồn khác nhau").
+entry(hỗn_hợp, n, [hỗn_hợp], "cái gì đó được tạo ra bằng cách pha trộn").
+entry(mixup, n, [mixups], "tình trạng nhầm lẫn").
+entry(mizen, n, [mizens], "mizzen").
+entry(mizuna, n, [mizunas], "một loại mù tạt Nhật Bản").
+entry(mizzen, n, [mizzens], "một loại buồm").
+entry(mizzle, v, [mizzled,mizzling,mizzles], "mưa lâm thâm").
+mục(mizzly, tính_từ, [], "MIZZLIER MIZZLIEST đặc trưng bởi một cơn mưa phùn").
+entry(mm, thán_từ, [], "dùng để biểu thị sự đồng ý hoặc hài lòng").
+entry(mmm, interj, [], "mm").
+entry(mnemonic, n, [mnemonics], "một thiết bị để hỗ trợ trí nhớ").
+entry(mo, n, [mos], "một khoảnh khắc").
+entry(moa, n, [những con moa], "một loài chim đã tuyệt chủng không biết bay").
+entry(rên, v, [rên rỉ, đang rên, rên rỉ], "phát ra âm thanh rên rỉ").
+entry(kẻ_rên_rỉ, n, [kẻ_rên_rỉ], "một người rên rỉ").
+entry(moanful, adj, [], "than vãn").
+entry(hào, v, [hàođã, hàođang, hào], "bao quanh bằng hào, một cái rãnh đầy nước").
+entry(moatlike, adj, [], "gợi nhớ đến hào nước").
+entry(mob, v, [mobbed,mobbing,mobs], "tụ tập đông đúc").
+entry(mobber, n, [những mobber], "một người làm hành động đám đông").
+entry(mobbish, adj, [], "đặc trưng của đám đông hỗn loạn").
+entry(mobbism, n, [mobbisms], "hành vi kiểu đám đông").
+entry(mobcap, n, [mobcaps], "một cái mũ của phụ nữ").
+mục(điện_thoại, n, [điện_thoại_di_động], "một dạng điêu khắc").
+entry(huy_dong, v, [da_huy_dong, dang_huy_dong, huy_dong], "huy động").
+entry(di động, n, [động lực], "khả năng di chuyển").
+entry(huy_động, v, [đã_huy_động,đang_huy_động,huy_động], "để đưa vào chuyển động").
+entry(mobled, adj, [], "quấn trong hoặc như thể trong một cái mũ trùm đầu").
+entry(moblog, n, [moblogs], "một weblog với dữ liệu được đăng từ điện thoại di động").
+entry(mobocrat, n, [mobocrats], "người ủng hộ quyền cai trị của đám đông").
+entry(găng tơ, n, [găng tơ], "một tên xã hội đen").
+entry(moc, n, [mocs], "một loại giày moccasin").
+entry(moccasin, n, [giày moccasin], "một loại giày").
+entry(mocha, n, [mochas], "một loại cà phê thơm nồng").
+entry(mochi, n, [mochis], "một loại bánh kẹo Nhật Bản làm từ bột gạo và nhân đậu ngọt").
+entry(mochila, n, [mochilas], "một vỏ bọc da cho yên ngựa").
+entry(mock, v, [mocked,mocking,mocks], "chế giễuMOCKABLE adj").
+entry(mocker, n, [kẻ chế giễu], "một người chế giễu").
+entry(sự chế giễu, n, [những sự chế giễu], "hành động chế giễu").
+entry(mocktail, n, [mocktails], "một loại cocktail không có cồn").
+mục(mockup, n, [mockups], "mô hình kích thước đầy đủ").
+entry(mod, n, [mods], "người mặc quần áo thời trang táo bạo").
+entry(modal, n, [modals], "một động từ được sử dụng với các động từ khác để diễn tả tâm trạng hoặc thì").
+entry(modalism, n, [modalisms], "học thuyết cho rằng các ngôi của Ba Ngôi không phải là các ngôi vị riêng biệt mà là các cách thức mặc khải thần thánh").
+entry(modalist, n, [modalists], "một tín đồ của thuyết dạng thức").
+mục(phương_thức, n, [các_phương_thức], "trạng thái của việc mang tính phương thức").
+entry(modally, adv, [], "theo cách liên quan đến một cách thức").
+entry(mode, n, [cách thức], "một phương pháp để thực hiện hoặc hành động").
+entry(model, v, [mô hình hóa, mô hình hóa, mô hình], "hoặc MÔ HÌNH HÓA MÔ HÌNH HÓA MÔ HÌNHlập kế hoạch hoặc hình thành theo một mẫu").
+entry(modeler, n, [người_mô_hình], "một người thực hiện việc mô hình hóa").
+entry(mô hình, n, [các mô hình], "việc xử lý khối lượng trong nghệ thuật điêu khắc").
+entry(modelist, n, [modelists], "một người làm mô hình").
+entry(modelled, a, [], "thì quá khứ của model").
+entry(modeller, n, [người mẫu], "người mẫu").
+entry(modelling, a, [], "phân từ hiện tại của model").
+mục_lục(modem, v, [modemed,modeming,modems], "để truyền qua modem, một thiết bị để chuyển đổi tín hiệu từ dạng này sang dạng khác").
+entry(vừa phải, v, [đã điều tiết,đang điều tiết,điều tiết], "làm cho bớt cực đoan").
+entry(moderato, n, [moderatos], "một đoạn nhạc được chơi ở tốc độ trung bình").
+entry(hiện_đại, adj, [], "MODERNER MODERNESTliên quan đến thời hiện tại hoặc gần đâyHIỆN_ĐẠIdv").
+entry(hiện đại, n, [hiện đại], "một người của thời hiện đại hoặc có quan điểm hiện đại").
+entry(moderne, n, [hiện đại], "một phong cách thiết kế của những năm 1920 và 1930").
+entry(khiêm tốn, adj, [], "MODESTER MODESTESTcó một sự tự nhận thức vừa phảiMODESTLY adv").
+entry(khiêm_tốn, n, [sự_khiêm_tốn], "chất lượng của sự khiêm tốn").
+entry(modi, pl, [], "của modus").
+entry(modicum, n, [modicums], "hoặc MODICA một số lượng nhỏ").
+entry(bổ_ngữ, n, [bổ_ngữ], "một cái điều chỉnh").
+entry(sửa đổi, v, [đã sửa đổi, đang sửa đổi, sửa đổi], "thay đổi về hình thức hoặc tính cách").
+entry(modiolus, n, [modioli], "trục xương của tai trong").
+entry(modish, adj, [], "sành điệu theo phong cách MODISHLY adv").
+entry(modiste, n, [modistes], "nhà kinh doanh quần áo thời trang cho phụ nữ").
+entry(modular, n, [modulars], "một thứ được xây dựng thành các đơn vị độc lập").
+entry(điều_chỉnh, v, [đã_điều_chỉnh,đang_điều_chỉnh,điều_chỉnh], "điều chỉnh đến mức độ nhất định").
+entry(module, n, [modules], "một tiêu chuẩn đo lường").
+entry(modulo, adv, [], "liên quan đến một mô đun").
+mục(modulus, n, [moduli], "một số tạo ra cùng một số dư khi chia cho mỗi cặp trong hai số").
+entry(modus, n, [modi], "một phương thức").
+entry(mofette, n, [mofettes], "một luồng khí độc hại từ khe nứt trong lòng đất").
+entry(moffette, n, [moffettes], "mofette").
+entry(mog, v, [mogged,mogging,mogs], "di chuyển đi").
+entry(mèo_cừu, n, [mèo_cừu], "mèo").
+entry(moggy, n, [moggies], "một con mèo").
+entry(moghul, n, [moghuls], "mogul").
+entry(mogul, n, [moguls], "một người quan trọng").
+entry(moguled, adj, [], "được trang bị với những chỗ nhô lên của tuyết cứng").
+entry(mohair, n, [mohairs], "lông dài mượt của dê Angora").
+entry(mohawk, n, [mohawks], "một kiểu tóc bao gồm một dải tóc dài dựng đứng từ trước ra sau").
+entry(mohel, n, [mohels], "hoặc MOHELIM hoặc MOHALIM một người thực hiện nghi lễ cắt bao quy đầu của người Do Thái").
+entry(moho, n, [mohos], "một ranh giới tách biệt vỏ trái đất và lớp manti, khu vực giữa vỏ và lõi").
+entry(mohur, n, [mohurs], "một loại tiền vàng cổ của Ấn Độ").
+entry(moi, thán_từ, [], "dùng thay cho tôi để giả vờ ngạc nhiên khi bị buộc tội điều gì đó").
+entry(moidore, n, [moidores], "một loại tiền vàng cổ của Bồ Đào Nha").
+entry(mảnh, n, [mảnh], "một nửa").
+entry(moil, v, [moiled,moiling,moils], "làm việc chăm chỉ").
+entry(moiler, n, [moilers], "một người làm việc chăm chỉ").
+entry(moira, n, [moirai], "số phận hoặc định mệnh trong tôn giáo Hy Lạp cổ đại").
+entry(moire, n, [moires], "một loại vải có hoa văn gợn sóng").
+entry(ẩm, adj, [], "ẨM HƠN ẨM NHẤT hơi ẩm").
+entry(làm_ẩm, v, [đã_làm_ẩm,đang_làm_ẩm,làm_ẩm], "làm cho hoặc trở nên ẩm").
+entry(ẩm ướt, adj, [], "ẩm").
+entry(ẩm ướt, adv, [], "theo cách ẩm ướt").
+entry(độ_ẩm, n, [độ_ẩm], "chất lỏng ngưng tụ hoặc khuếch tán").
+entry(mojarra, n, [mojarra], "một loại cá biển").
+entry(mojito, n, [mojitos], "một loại cocktail làm từ rượu rum, đường, bạc hà và nước chanh").
+entry(mojo, n, [mojos], "hoặc là MOJOESbùa phép thuật").
+entry(moke, n, [mokes], "một con lừa").
+entry(moksha, n, [mokshas], "sự giải thoát cuối cùng của linh hồn khỏi luân hồi trong Ấn Độ giáo").
+entry(mol, n, [mols], "mol").
+entry(mola, n, [molas], "một loài cá biển").
+entry(molal, adj, [], "liên quan đến mol").
+entry(nồng độ molan, n, [nồng_độ_molan], "số mol chất tan trên 1000 gam dung môi").
+entry(răng hàm, n, [răng hàms], "một chiếc răng nghiến").
+entry(nồng_độ, n, [nồng_độ], "số mol chất tan trên một lít dung dịch").
+entry(mật_mía, n, [các_mật_mía], "một loại siro đặc").
+entry(mold, v, [molded,molding,molds], "gia công thành hình dạng cụ thể DỄ ĐÓNG KHUÔN adj").
+entry(molder, v, [moldered,moldering,molders], "biến thành bụi do phân hủy tự nhiên").
+entry(moldier, so sánh, [], "của mốc meo").
+entry(moldiest, bậc nhất, [], "của moldy").
+entry(khuôn, n, [khuôn], "một dải hẹp dài được sử dụng để trang trí một bề mặt").
+entry(moldwarp, n, [moldwarps], "một loài động vật có vú đào hang").
+entry(mốc, adj, [], "MỐC HƠN MỐC NHẤTngột ngạt").
+entry(mole, n, [moles], "lượng hợp chất có khối lượng bằng khối lượng phân tử của hợp chất đó").
+entry(phân_tử, n, [các_phân_tử], "đơn vị vật lý nhỏ nhất của một nguyên tố").
+entry(gò, n, [các_gò], "một đống đất nhỏ").
+entry(moleskin, n, [moleskins], "một loại vải cotton").
+entry(molest, v, [molested,molesting,molests], "làm phiền hoặc quấy rầy").
+entry(kẻ quấy rối, n, [những kẻ quấy rối], "người quấy rối").
+entry(molies, pl, [], "của moly").
+entry(moline, adj, [], "có cánh tay hình nĩa và cong ở hai đầu được sử dụng cho một cây thánh giá huy hiệu").
+entry(moll, n, [molls], "bạn gái của tay găng-xtơ").
+entry(mollah, n, [mollahs], "mô-la").
+entry(mollie, n, [mollies], "một loại cá nhiệt đới").
+entry(mollies, pl, [], "của molly").
+entry(xoa_dịu, v, [đã_xoa_dịu, đang_xoa_dịu, làm_xoa_dịu], "để làm dịu").
+entry(động_vật_thân_mềm, n, [động_vật_thân_mềm_số_nhiều], "động vật thân mềm").
+entry(mollusca, npl, [], "bệnh về da").
+entry(thân mềm, n, [thân mềm], "bất kỳ loài nào thuộc động vật không xương sống có thân mềm").
+entry(molly, n, [những_con_cá_molly], "cá_molly").
+entry(moloch, n, [molochs], "một loài thằn lằn có gai").
+entry(lột, v, [lột_da,đang_lột_da,lột_das], "bỏ lớp vỏ bên ngoài").
+entry(molten, adj, [], "được làm thành chất lỏng bởi nhiệt MOLTENLY adv").
+entry(lột_da, n, [lột_das], "một cái lột da").
+entry(molto, adv, [], "rất sử dụng trong chỉ dẫn âm nhạc").
+entry(moly, n, [molies], "một loại tỏi dại").
+entry(moly, n, [molys], "molypđen").
+entry(molybdic, adj, [], "liên quan đến một nguyên tố kim loại nhất định").
+entry(mẹ, n, [mẹ], "mẹ").
+entry(mome, n, [momes], "một kẻ ngốc").
+entry(moment, n, [khoảnh_khắc], "một khoảng thời gian ngắn").
+entry(momenta, a, [], "số nhiều của momentum").
+entry(momently, adv, [], "từng khoảnh khắc").
+entry(momento, n, [momentos], "hoặc MOMENTOESmemento").
+entry(momentum, n, [momentums], "hoặc MOMENTA lực của chuyển động").
+entry(momi, a, [], "số nhiều của momus").
+entry(momism, n, [momisms], "sự phụ thuộc quá mức vào các bà mẹ").
+entry(momma, n, [mommas], "mẹ").
+entry(mẹ, n, [mẹ], "mẹ").
+entry(momser, n, [momsers], "một đứa con hoang").
+entry(momus, n, [momuses], "hoặc MOMIa người hay soi mói").
+entry(momzer, n, [momzers], "momser").
+entry(mon, n, [men], "người đàn ông").
+entry(monachal, adj, [], "thuộc về tu sĩ").
+entry(monacid, n, [monacids], "monoacid").
+entry(monad, n, [monads], "một sinh vật đơn bào MONADAL MONADIC adj").
+entry(monades, pl, [], "của monas").
+entry(chủ_nghĩa_nguyên_tử, danh_từ, [các_chủ_nghĩa_nguyên_tử], "một học thuyết triết học").
+entry(monamine, n, [monamines], "một amin chỉ chứa một nhóm amino").
+entry(monandry, n, [monandries], "tình trạng có một chồng tại một thời điểm").
+entry(quốc_vương, n, [quốc_vươngs], "một người cai trị tuyệt đối").
+entry(quân chủ, n, [quân chủ], "sự cai trị của một quân chủ").
+entry(monarda, n, [monardas], "một loại thảo mộc thơm").
+entry(monas, n, [monades], "một đơn nguyên").
+entry(monastic, n, [tu sĩ], "một nhà sư").
+entry(monaural, adj, [], "thuộc về truyền âm thanh, ghi âm hoặc tái tạo âm thanh bằng một đường truyền duy nhất").
+entry(monaxial, adj, [], "có một trục").
+entry(monaxon, n, [monaxons], "một loại gai thẳng trong bọt biển").
+entry(monazite, n, [monazit], "một khoáng chất").
+entry(monde, n, [mondes], "thế giới").
+entry(mondo, n, [mondos], "một kỹ thuật hỏi đáp nhanh được sử dụng trong Phật giáo Thiền tông").
+entry(monecian, adj, [], "có cả cơ quan sinh dục nam và nữ trong cùng một cá thể").
+entry(monellin, n, [monellins], "một loại protein được chiết xuất từ quả mọng đỏ Tây Phi").
+entry(moneran, n, [vi khuẩn đơn bào], "một sinh vật tế bào không có nhân riêng biệt").
+entry(tiền tệ, adj, [], "liên quan đến tiền").
+entry(kiếm_tiền, v, [đã_kiếm_tiền,đang_kiếm_tiền,kiếm_tiền], "kiếm tiền").
+entry(kiếm_tiền, v, [đã_kiếm_tiền,đang_kiếm_tiền,kiếm_tiền], "chuyển đổi thành tiền").
+entry(tiền, n, [tiền tệ], "hoặc MONIESmột phương tiện trao đổi chính thức và thước đo giá trị").
+entry(túi tiền, n, [túi tiền], "một cái túi để đựng tiền").
+entry(moneyed, adj, [], "có nhiều tiền").
+entry(tiền tệ, n, [tiền tệ], "người chế tạo tiền xu").
+entry(moneyman, n, [moneymen], "một người đầu tư số tiền lớn").
+entry(mongeese, a, [], "số nhiều của mongoose").
+entry(monger, v, [mongered,mongering,mongers], "rao bán").
+entry(mongo, n, [mongos], "mungo").
+entry(mongoe, n, [mongoes], "mungo").
+entry(mông cổ, n, [người Mông Cổ], "một người bị ảnh hưởng bởi một dạng khiếm khuyết về trí tuệ").
+entry(cầy mangut, n, [các con cầy mangut], "hoặc MONGEESE một loài động vật có vú ăn thịt").
+entry(mongrel, n, [mongrels], "một con vật hoặc cây trồng lai tạo").
+entry(mongst, prep, [], "giữa").
+entry(monic, adj, [], "biểu thị một loại đa thức").
+entry(monicker, n, [monickers], "biệt danh").
+entry(monie, adj, [], "nhiều").
+entry(monied, adj, [], "nhiều tiền").
+entry(monies, a, [], "số nhiều của tiền").
+entry(biệt_danh, n, [biệt_danh], "một tên").
+entry(monilia, n, [moniliae], "một loại nấm ký sinh").
+entry(monish, v, [monished,monishing,monishes], "cảnh báo").
+entry(thuyết nhất nguyên, n, [thuyết nhất nguyên], "một lý thuyết triết học").
+entry(monist, n, [monists], "một người theo chủ nghĩa nhất nguyênMONISTIC adj").
+entry(monition, n, [monitions], "một lời cảnh báo").
+entry(monitive, adj, [], "đưa ra cảnh báo").
+entry(monitor, v, [bị_theo_dõi,theo_dõi,quan_sát], "để theo dõi").
+entry(thư_cảnh_báo, n, [thư_cảnh_báo], "một bức thư cảnh cáo").
+entry(monk, n, [các thầy tu], "một người đàn ông là thành viên của một dòng tu ẩn dật").
+entry(monkery, n, [monkeries], "lối sống của các nhà sư").
+entry(khỉ, v, [khỉed,khỉing,khỉs], "bắt chước").
+entry(cá vược, n, [các loại cá vược], "một loài cá biển").
+entry(monkhood, n, [monkhoods], "trạng thái của một tu sĩ").
+entry(monkish, adj, [], "liên quan đến tu sĩ").
+entry(mono, n, [monos], "một căn bệnh truyền nhiễm").
+entry(monoacid, n, [monoacids], "một loại axit").
+entry(monobloc, adj, [], "được làm từ một khối đúc duy nhất").
+entry(monocarp, n, [monocarps], "một loại cây chỉ ra quả một lần trước khi chết").
+entry(monocle, n, [monocles], "kính một mắtMONOCLED adj").
+entry(monocot, n, [monocots], "một loại cây có hạt").
+entry(monocrat, n, [monocrats], "một nhà chuyên quyền").
+entry(monocrop, n, [monocrops], "cùng một loại cây trồng trên cùng một cánh đồng năm này qua năm khác").
+entry(bạch_cầu_đơn_nhân, n, [bạch_cầu_đơn_nhân], "một loại tế bào bạch cầu").
+entry(monodist, n, [monodists], "người viết các bài đơn ca").
+entry(monody, n, [monodies], "một bài ca tụng được thực hiện bởi một ngườiMONODIC adj").
+entry(monoecy, n, [monoecies], "tình trạng là monecian").
+entry(monofil, n, [monofils], "một sợi đơn của sợi tổng hợp").
+entry(monofuel, n, [monofuels], "một loại nhiên liệu đẩy tên lửa").
+entry(một vợ một chồng, n, [một vợ một chồng], "kết hôn với một người trong một thời điểm").
+entry(monogeny, n, [monogenies], "sinh sản vô tính").
+entry(monogerm, adj, [], "là một loại quả chỉ sản sinh ra một cây duy nhất").
+mục(đơn ngữ, n, [đơn ngữ], "một người chỉ nói hoặc viết duy nhất một ngôn ngữ").
+entry(monogram, v, [monogramed,monograming,monograms], "hoặc MONOGRAMMED MONOGRAMMING MONOGRAMS để đánh dấu bằng một thiết kế của chữ cái đầu tên của một người").
+mục(monogyny, n, [monogynies], "điều kiện có một vợ vào một thời điểm").
+entry(monohull, n, [monohulls], "một tàu với một thân tàu").
+mục(monokine, n, [monokines], "một chất được tiết ra bởi các tế bào bạch cầu").
+entry(monokini, n, [monokinis], "phần dưới của bikini").
+entry(monolith, n, [những tảng đá nguyên khối], "một khối đá lớn").
+entry(monolog, v, [monologged, monologging, monologs], "đưa ra một đoạn độc thoại một bài phát biểu dài của một người").
+entry(monology, n, [monologies], "hành động nói chuyện một mình").
+entry(monomer, n, [monomers], "một loại hợp chất hóa học").
+entry(monomial, n, [monomials], "một biểu thức đại số bao gồm một hạng tử duy nhất").
+entry(monopod, n, [monopods], "một giá đỡ một chân cho máy ảnh").
+entry(monopode, n, [monopodes], "sinh vật có một chân").
+entry(monopody, n, [monopodies], "một đơn vị đo lường bao gồm một nhịp điệu duy nhất").
+entry(monopole, n, [monopoles], "một loại ăng-ten vô tuyến").
+entry(monopoly, n, [các độc quyền], "kiểm soát độc quyền một hàng hóa hoặc dịch vụ trong một thị trường cụ thể").
+entry(monorail, n, [tàu một ray], "một đường ray đơn phục vụ như một đường chạy cho phương tiện có bánh").
+entry(monoski, n, [monoskis], "một chiếc ván trượt rộng cho cả hai chân").
+entry(monosome, n, [nhiễm sắc thể đơn], "một nhiễm sắc thể không cặp").
+entry(monosomy, n, [monosomies], "một tình trạng có một nhiễm sắc thể không cặp").
+entry(monotint, n, [monotints], "một bức tranh được thực hiện ở các sắc độ khác nhau của một màu").
+entry(đơn_điệu, n, [đơn_điệu], "một âm thanh giọng nói không thay đổi cao độ").
+entry(sự_đơn_điệu, n, [sự_đơn_điệus], "sự cùng nhau buồn tẻ").
+entry(monotype, n, [monotypes], "đại diện duy nhất của nhóm nó").
+entry(monoxide, n, [monoxit], "một loại oxit").
+entry(mons, n, [montes], "một chỗ phồng lên của cơ thể").
+entry(monsieur, n, [messieurs], "một tước hiệu lịch sự của Pháp dành cho một người đàn ông").
+mục(gió_mùa, n, [các_gió_mùa], "một loại gió theo mùa").
+entry(quái vật, n, [quái vật], "một sinh vật kỳ lạ hoặc đáng sợ").
+entry(monstera, n, [monsteras], "một loại cây nhiệt đới châu Mỹ").
+entry(montage, v, [montaged,montaging,montages], "kết hợp thành một bức tranh tổng hợp").
+entry(montane, n, [montanes], "vành đai thực vật thấp hơn của một ngọn núi").
+entry(monte, n, [montes], "một trò chơi bài").
+entry(monteith, n, [monteiths], "một cái bát đấm lớn").
+entry(montero, n, [monteros], "một loại mũ").
+entry(montes, pl, [], "của mons").
+entry(month, n, [tháng], "một khoảng thời gian khoảng 30 ngày").
+entry(monthly, n, [monthlies], "một ấn phẩm phát hành mỗi tháng").
+entry(monty, n, [monties], "tổng số lượng đầy đủ được mong đợi hoặc có thể").
+entry(đài tưởng niệm, n, [các đài tưởng niệm], "một cấu trúc được xây dựng như một đài kỷ niệm").
+entry(monuron, n, [monurons], "một loại thuốc diệt cỏ").
+entry(mony, adj, [], "nhiều").
+```prolog
+entry(moo, v, [mooed,mooing,moos], "to make the deep moaning sound of a cowMOOCH v MOOCHED MOOCHING MOOCHESto obtain without payingMOOCHER n pl MOOCHERSone that moochesMOOD n pl MOODSa persons emotional state at a particular momentMOODY adj MOODIER MOODIESTgiven to changing moodsMOODILY advMOOK n pl MOOKSa foolish or contemptible personMOOL n pl MOOLSsoft soilMOOLA n pl MOOLASmoolahMOOLAH n pl MOOLAHSmoneyMOOLEY n pl MOOLEYSmuleyMOON v MOONED MOONING MOONSto spend time idlyMOONBEAM n pl MOONBEAMSa ray of light from the moon the earths natural satelliteMOONBOW n pl MOONBOWSa rainbow formed by light from the moonMOONCALF n pl MOONCALVESa foolish personMOONDOG n pl MOONDOGSa bright spot in the sky formed by moonlightMOONDUST n pl MOONDUSTSdust on the moonMOONER n pl MOONERSone that moonsMOONEYE n pl MOONEYESa freshwater fishMOONFISH n pl MOONFISHESa marine fishMOONGATE n pl MOONGATESa circular gateway in a wallMOONIER comparative of moonyMOONIEST superlative of moonyMOONILY adv in a moony mannerMOONISH adj fickleMOONLESS adj lacking the light of the moonMOONLET n pl MOONLETSa small satelliteMOONLIKE adj resembling the moonMOONLIT adj lighted by the moonMOONPORT n pl MOONPORTSa facility for launching spacecraft to the moonMOONRISE n pl MOONRISESthe rising of the moon above the horizonMOONROOF n pl MOONROOFSa glass panel in an automobile roofMOONSAIL n pl MOONSAILSa light square sailMOONSEED n pl MOONSEEDSa climbing plantMOONSET n pl MOONSETSthe setting of the moon below the horizonMOONSHOT n pl MOONSHOTSthe launching of a spacecraft to the moonMOONWALK v MOONWALKED MOONWALKING MOONWALKSto walk on the moonMOONWARD adv toward the moonMOONWORT n pl MOONWORTSa flowering plantMOONY adj MOONIER MOONIESTresembling the moonMOOR v MOORED MOORING MOORSto secure a vessel by means of cablesMOORAGE n pl MOORAGESthe act of mooringMOORCOCK n pl MOORCOCKSthe male moorfowlMOORFOWL n pl MOORFOWLSa game birdMOORHEN n pl MOORHENSthe female moorfowlMOORIER comparative of mooryMOORIEST superlative of mooryMOORING n pl MOORINGSa place where a vessel may be mooredMOORISH adj marshyMOORLAND n pl MOORLANDSa tract of marshy landMOORWORT n pl MOORWORTSa marsh plantMOORY adj MOORIER MOORIESTmarshyMOOSE n pl MOOSEa ruminant mammalMOOT v MOOTED MOOTING MOOTSto bring up for discussionMOOTER n pl MOOTERSone that mootsMOOTNESS n pl MOOTNESSESthe state of being without legal significanceMOP v MOPPED MOPPING MOPSto wipe with a mop an implement for cleaning floorsMOPBOARD n pl MOPBOARDSa board at the base of a wallMOPE v MOPED MOPING MOPESto act in a dejected or gloomy mannerMOPED n pl MOPEDSa type of motorbikeMOPER n pl MOPERSone that mopesMOPERY n pl MOPERIESan act of dawdlingMOPEY adj MOPIER MOPIESTdejectedMOPILY advMOPHEAD n pl MOPHEADSa person with thick shaggy hairMOPIER comparative of mopyMOPIEST superlative of mopyMOPINESS n pl MOPINESSESthe state of being mopeyMOPING present participle of mopeMOPINGLY adv in a moping mannerMOPISH adj given to mopingMOPISHLY advMOPOKE n pl MOPOKESan Australian birdMOPPED past tense of mopMOPPER n pl MOPPERSone that mopsMOPPET n pl MOPPETSa childMOPPING present participle of mopMOPPY adj MOPPIER MOPPIESTresembling a mopMOPY adj MOPIER MOPIESTmopeyMOQUETTE n pl MOQUETTESa woolen fabricMOR n pl MORSa forest humusMORA n pl MORAS or MORAEa unit of metrical time in prosodyMORAINE n pl MORAINESan accumulation of debris deposited by a glacierMORAINAL MORAINIC adjMORAL adj pertaining to principles of right and wrongMORALE n pl MORALESthe state of the spirits of an individual or groupMORALISE v MORALISED MORALISING MORALISESto moralizeMORALISM n pl MORALISMSthe practice of moralizingMORALIST n pl MORALISTSa teacher of moralityMORALITY n pl MORALITIESconformity to the rules of right conductMORALIZE v MORALIZED MORALIZING MORALIZESto explain in a moral senseMORALLY adv in a moral mannerMORALS npl rules of conduct with respect to right and wrongMORASS n pl MORASSESa marshMORASSY adjMORATORY adj authorizing delay of paymentMORAY n pl MORAYSa tropical eelMORBID adj gruesomeMORBIDLY advMORBIFIC adj causing diseaseMORBILLI npl a virus diseaseMORCEAU n pl MORCEAUXa short literary or musical compositionMORDANCY n pl MORDANCIESa sarcastic qualityMORDANT v MORDANTED MORDANTING MORDANTSto treat with a caustic substanceMORDENT n pl MORDENTSa melodic embellishmentMORE adj greater additionalMOREEN n pl MOREENSa heavy fabricMOREISH adj so good that you want to have moreMOREL n pl MORELSan edible mushroomMORELLE n pl MORELLESa flowering plantMORELLO n pl MORELLOSa variety of sour cherryMORENESS n pl MORENESSESthe state of being moreMOREOVER adv in additionMORES npl the customs of a particular groupMORESQUE n pl MORESQUESan ancient decorative styleMORGAN n pl MORGANSa unit of distance between genesMORGEN n pl MORGENSa Dutch unit of land areaMORGUE n pl MORGUESa place where dead bodies are kept for identificationMORIBUND adj being about to dieMORION n pl MORIONSa type of helmetMORISH adj moreishMORN n pl MORNSmorningMORNAY n pl MORNAYS a cheeseflavored white sauceMORNING n pl MORNINGSthe early part of the dayMOROCCO n pl MOROCCOSa soft leatherMORON n pl MORONSa mentally deficient personMORONIC adjMORONISM n pl MORONISMSthe condition of being a moronMORONITY n pl MORONITIESmoronismMOROSE adj sullenMOROSELY advMOROSITY n pl MOROSITIESthe state of being moroseMORPH v MORPHED MORPHING MORPHSto be transformedMORPHEME n pl MORPHEMESa linguistic unitMORPHIA n pl MORPHIASmorphineMORPHIC adj pertaining to formMORPHIN n pl MORPHINSmorphineMORPHINE n pl MORPHINESa narcotic alkaloidMORPHING n pl MORPHINGSthe transformation of one form into anotherMORPHO n pl MORPHOSa tropical butterflyMORRION n pl MORRIONSmorionMORRIS n pl MORRISESan English folk danceMORRO n pl MORROSa rounded elevationMORROW n pl MORROWSthe next dayMORSE adj designating a code used in telegraphyMORSEL v MORSELED MORSELING MORSELS or MORSELLED MORSELLING MORSELSto divide into small piecesMORT n pl MORTSa note sounded on a hunting horn to announce the killing of an animalMORTAL n pl MORTALSa human beingMORTALLY adv fatallyMORTAR v MORTARED MORTARING MORTARSto secure with mortar a type of cementMORTARY adj containing or resembling mortarMORTGAGE v MORTGAGED MORTGAGING MORTGAGESto pledge to a creditor as securityMORTICE v MORTICED MORTICING MORTICESto mortiseMORTICER n pl MORTICERSmortiserMORTIFY v MORTIFIED MORTIFYING MORTIFIESto humiliateMORTISE v MORTISED MORTISING MORTISESto join or fasten securelyMORTISER n pl MORTISERSone that mortisesMORTMAIN n pl MORTMAINSperpetual ownership of landMORTUARY n pl MORTUARIESa place where dead bodies are kept until burialMORULA n pl MORULAS or MORULAEan embryonic mass of cellsMORULAR adjMOSAIC v MOSAICKED MOSAICKING MOSAICSto form into a mosaic a type of inlaid surface decorationMOSASAUR n pl MOSASAURSan extinct lizardMOSCATO n pl MOSCATOSa sweet dessert wineMOSCHATE adj muskyMOSELLE n pl MOSELLESa mediumdry white wineMOSEY v MOSEYED MOSEYING MOSEYSto saunterMOSH v MOSHED MOSHING MOSHESto engage in frenzied dancing with others at a rock concertMOSHAV n pl MOSHAVIMa cooperative settlement of small farms in IsraelMOSHER n pl MOSHERSone that moshesMOSHING n pl MOSHINGSfrenzied dancing at a rock concertMOSK n pl MOSKSmosqueMOSQUE n pl MOSQUESa Muslim house of worshipMOSQUITO n pl MOSQUITOS or MOSQUITOESa winged insectMOSS v MOSSED MOSSING MOSSESto cover with moss a growth of small leafystemmed plantsMOSSBACK n pl MOSSBACKSa large old fishMOSSER n pl MOSSERSone that gathers or works with mossMOSSLIKE adj resembling mossMOSSO adv rapidly  used as a musical directionMOSSY adj MOSSIER MOSSIESTcovered with mossMOST n pl MOSTSthe greatest amountMOSTE past tense of moteMOSTEST n pl MOSTESTSmostMOSTLY adv mainlyMOT n pl MOTSa witty sayingMOTE n pl MOTESa small particleMOTE v past tense MOSTEmayMOTEL n pl MOTELSa roadside hotelMOTET n pl MOTETSa type of choral compositionMOTEY adj full of motesMOTH n pl MOTHSa winged insectMOTHBALL v MOTHBALLED MOTHBALLING MOTHBALLSto put into storageMOTHER v MOTHERED MOTHERING MOTHERSto give birth toMOTHERLY adj maternalMOTHERY adj slimyMOTHLIKE adj resembling a mothMOTHY adj MOTHIER MOTHIESTfull of mothsMOTIF n pl MOTIFSa recurring thematic element in an artistic workMOTIFIC adjMOTILE n pl MOTILESone whose mental imagery consists chiefly of inner feelings of actionMOTILITY n pl MOTILITIESthe ability to moveMOTION v MOTIONED MOTIONING MOTIONSto signal by a bodily movementMOTIONAL adj pertaining to movementMOTIONER n pl MOTIONERSone that motionsMOTIVATE v MOTIVATED MOTIVATING MOTIVATESto provide with an incentiveMOTIVE v MOTIVED MOTIVING MOTIVESto motivateMOTIVIC adj pertaining to a musical motifMOTIVITY n pl MOTIVITIESthe ability to moveMOTLEY adj MOTLEYER MOTLEYEST or MOTLIER MOTLIESTcomposed of diverse elementsMOTLEY n pl MOTLEYSa garment of various colorsMOTMOT n pl MOTMOTSa tropical birdMOTOR v MOTORED MOTORING MOTORSto travel by automobileMOTORBUS n pl MOTORBUSES or MOTORBUSSESa busMOTORCAR n pl MOTORCARSan automobileMOTORDOM n pl MOTORDOMSthe motor vehicle industryMOTORIC adj pertaining to muscular movementMOTORING n pl MOTORINGSthe recreation of traveling by automobileMOTORISE v MOTORISED MOTORISING MOTORISESto motorizeMOTORIST n pl MOTORISTSone who travels by automobileMOTORIZE v MOTORIZED MOTORIZING MOTORIZESto equip with motor vehiclesMOTORMAN n pl MOTORMENone who operates an electric streetcar or subway trainMOTORWAY n pl MOTORWAYSa type of highwayMOTT n pl MOTTSmotteMOTTE n pl MOTTESa small growth of trees on a prairieMOTTLE v MOTTLED MOTTLING MOTTLESto mark with spots or streaks of different colorsMOTTLER n pl MOTTLERSone that mottlesMOTTLING n pl MOTTLINGSan irregular arrangement of spotsMOTTO n pl MOTTOS or MOTTOESa short expression of a guiding principleMOUCH v MOUCHED MOUCHING MOUCHESto moochMOUCHOIR n pl MOUCHOIRSa small handkerchiefMOUE n pl MOUESa pouting grimaceMOUFFLON n pl MOUFFLONSmouflonMOUFLON n pl MOUFLONSa wild sheepMOUILLE adj pronounced with the front of the tongue against the palateMOUJIK n pl MOUJIKSmuzhikMOULAGE n pl MOULAGESthe making of a cast or mold of a mark for use in a criminal investigationMOULD v MOULDED MOULDING MOULDSto moldMOULDER v MOULDERED MOULDERING MOULDERSto molderMOULDING n pl MOULDINGSmoldingMOULDY adj MOULDIER MOULDIESTmoldyMOULIN n pl MOULINSa vertical cavity in a glacierMOULT v MOULTED MOULTING MOULTSto moltMOULTER n pl MOULTERSmolterMOUND v MOUNDED MOUNDING MOUNDSto pileMOUNT v MOUNTED MOUNTING MOUNTSto get up onMOUNTAIN n pl MOUNTAINSa large natural elevation of the earths surfaceMOUNTER n pl MOUNTERSone that mountsMOUNTING n pl MOUNTINGSsomething that provides a backing or appropriate setting for something elseMOURN v MOURNED MOURNING MOURNSto feel or express grief or sorrowMOURNER n pl MOURNERSone that mournsMOURNFUL adj MOURNFULLER MOURNFULLESTexpressing grief or sorrowMOURNING n pl MOURNINGSan outward sign of griefMOUSAKA n pl MOUSAKASmoussakaMOUSE n pl MICEa small rodentMOUSE v MOUSED MOUSING MOUSESto catch miceMOUSEPAD n pl MOUSEPADSa flat pad on which a computer mouse is usedMOUSER n pl MOUSERSan animal that catches miceMOUSEY adj MOUSIER MOUSIESTmousyMOUSIER comparative of mousyMOUSIEST superlative of mousyMOUSILY adv in a mousy mannerMOUSING n pl MOUSINGSa wrapping around the shank end of a hookMOUSSAKA n pl MOUSSAKASa Middle Eastern dish of meat and eggplantMOUSSE v MOUSSED MOUSSING MOUSSESto style with mousse foamy preparation used in styling hairMOUSSEUX n pl MOUSSEUXa sparkling wineMOUSY adj MOUSIER MOUSIESTresembling a mouseMOUTH v MOUTHED MOUTHING MOUTHSto put into the mouthMOUTHER n pl MOUTHERSa speakerMOUTHFUL n pl MOUTHFULSas much as the mouth can holdMOUTHY adj MOUTHIER MOUTHIESTvery talkativeMOUTHILY advMOUTON n pl MOUTONSsheepskin processed to resemble seal or beaverMOVABLE n pl MOVABLESsomething that can be movedMOVABLY adv so as to be capable of being movedMOVANT n pl MOVANTSa person who applies to a court for a favorable rulingMOVE v MOVED MOVING MOVESto change from one position to anotherMOVEABLE n pl MOVEABLESmovableMOVEABLY adv movablyMOVED past tense of moveMOVELESS adj incapable of movementMOVEMENT n pl MOVEMENTSthe act of movingMOVER n pl MOVERSone that movesMOVIE n pl MOVIESa motion pictureMOVIEDOM n pl MOVIEDOMSfilmdomMOVIEOLA n pl MOVIEOLASa device for viewing and editing filmMOVING present participle of moveMOVINGLY adv so as to affect the emotionsMOVIOLA n pl MOVIOLASmovieolaMOW v MOWED MOWN MOWING MOWSto cut down standing herbageMOWER n pl MOWERSone that mowsMOWING n pl MOWINGSthe act of cutting down standing herbageMOXA n pl MOXASa Chinese plantMOXIE n pl MOXIESspirit or courageMOZETTA n pl MOZETTAS or MOZETTEmozzettaMOZO n pl MOZOSa manual laborerMOZZETTA n pl MOZZETTAS or MOZZETTEa hooded cape worn by bishopsMRIDANGA n pl MRIDANGASa drum of IndiaMU n pl MUSa Greek letterMUCH n pl MUCHESa great amountMUCHACHA n pl MUCHACHASa young womanMUCHACHO n pl MUCHACHOSa young manMUCHLY adv very muchMUCHNESS n pl MUCHNESSESthe quality of being greatMUCHO adj much manyMUCID adj mustyMUCIDITY n pl MUCIDITIESthe state of being mucidMUCILAGE n pl MUCILAGESan adhesive substanceMUCIN n pl MUCINSa protein secreted by the mucous membranesMUCINOID MUCINOUS adjMUCK v MUCKED MUCKING MUCKSto fertilize with manureMUCKER n pl MUCKERSa vulgar personMUCKIER comparative of muckyMUCKIEST superlative of muckyMUCKILY adv in a mucky mannerMUCKLE n pl MUCKLESa large amountMUCKLUCK n pl MUCKLUCKSmuklukMUCKRAKE v MUCKRAKED MUCKRAKING MUCKRAKESto search for and expose corruptionMUCKWORM n pl MUCKWORMSa worm found in manureMUCKY adj MUCKIER MUCKIESTfilthyMUCLUC n pl MUCLUCSmuklukMUCOID n pl MUCOIDSa complex proteinMUCOIDAL adjMUCOR n pl MUCORSa type of fungusMUCOSA n pl MUCOSAS or MUCOSAEa mucous membraneMUCOSAL adjMUCOSE adj mucousMUCOSITY n pl MUCOSITIESthe state of being mucousMUCOUS adj secreting or containing mucusMUCRO n pl MUCRONES or MUCROSa sharp point at the end of certain plant and animal organsMUCUS n pl MUCUSESa viscid bodily fluidMUD v MUDDED MUDDING MUDSto cover with mud soft wet earthMUDBANK n pl MUDBANKSa sloping area of mud alongside a body of waterMUDBUG n pl MUDBUGSa crayfishMUDCAP v MUDCAPPED MUDCAPPING MUDCAPSto cover an explosive with mud before detonatingMUDCAT n pl MUDCATSa type of catfishMUDDER n pl MUDDERSa racehorse that runs well on a muddy trackMUDDIED past tense of muddyMUDDIER comparative of muddyMUDDIES present 3d person sing of muddyMUDDIEST superlative of muddyMUDDILY adv in a muddy mannerMUDDING present participle of mudMUDDLE v MUDDLED MUDDLING MUDDLESto mix in a disordered mannerMUDDLER n pl MUDDLERSone that muddlesMUDDLY adj disorderedMUDDY adj MUDDIER MUDDIESTcovered or filled with mudMUDDY v MUDDIED MUDDYING MUDDIESto make or become muddyMUDFISH n pl MUDFISHESa fish found in mud or muddy waterMUDFLAP n pl MUDFLAPSa flap hung behind a rear wheel of a vehicle to prevent splashingMUDFLAT n pl MUDFLATSa level tract alternately covered and left bare by the tideMUDFLOW n pl MUDFLOWSa moving mass of mudMUDGUARD n pl MUDGUARDSa fenderMUDHEN n pl MUDHENSa bird that lives in marshesMUDHOLE n pl MUDHOLESa hole or hollow place full of mudMUDLARK n pl MUDLARKSa street urchinMUDPACK n pl MUDPACKScosmetic paste for the faceMUDPIE n pl MUDPIESa small mass of mud formed into a pie shapeMUDPUPPY n pl MUDPUPPIESa large salamanderMUDRA n pl MUDRASa hand gesture in East Indian classical dancingMUDROCK n pl MUDROCKSpeliteMUDROOM n pl MUDROOMSa room for shedding muddy clothing or footwearMUDSILL n pl MUDSILLSthe lowest supporting timber of a structureMUDSLIDE n pl MUDSLIDESa mudflow down a slopeMUDSLING v MUDSLUNG MUDSLINGING MUDSLINGSto use insults and accusations against a rival candidateMUDSTONE n pl MUDSTONESa type of rockMUEDDIN n pl MUEDDINSmuezzinMUENSTER n pl MUENSTERSa mild cheeseMUESLI n pl MUESLISa breakfast cerealMUEZZIN n pl MUEZZINSa Muslim crier who calls the faithful to prayerMUFF v MUFFED MUFFING MUFFSto bungleMUFFIN n pl MUFFINSa small round breadMUFFLE v MUFFLED MUFFLING MUFFLESto wrap with something to deaden soundMUFFLER n pl MUFFLERSa device for deadening soundMUFTI n pl MUFTISa judge who interprets Muslim religious lawMUG v MUGGED MUGGING MUGSto assault with intent to robMUGFUL n pl MUGFULSas much as a mug can holdMUGG v MUGGED MUGGING MUGGSto make funny facesMUGGAR n pl MUGGARSmuggerMUGGED past tense of mugMUGGEE n pl MUGGEESone who is muggedMUGGER n pl MUGGERSa large Asian crocodileMUGGIER comparative of muggyMUGGIEST superlative of muggyMUGGILY adv in a muggy mannerMUGGING n pl MUGGINGSa street assault or beatingMUGGINS n pl MUGGINSESa stupid or foolish personMUGGUR n pl MUGGURSmuggerMUGGY adj MUGGIER MUGGIESTwarm and humidMUGHAL n pl MUGHALSmogulMUGSHOT n pl MUGSHOTSa photograph of a persons face for official recordsMUGWORT n pl MUGWORTSa flowering plantMUGWUMP n pl MUGWUMPSa political independentMUHLY n pl MUHLIESa perennial grassMUJIK n pl MUJIKSmuzhikMUKHTAR n pl MUKHTARSthe head of the government of a town in Arabic countriesMUKLUK n pl MUKLUKSa soft boot worn by InuitsMUKTUK n pl MUKTUKSwhale skin used for foodMULATTO n pl MULATTOS or MULATTOESthe offspring of one white and one black parentMULBERRY n pl MULBERRIESa tree bearing an edible berrylike fruitMULCH v MULCHED MULCHING MULCHESto provide with a protective covering for the soilMULCT v MULCTED MULCTING MULCTSto defraudMULE v MULED MULING MULESto strike from dies belonging to two different issues as a coinMULETA n pl MULETASa red cloth used by a matadorMULETEER n pl MULETEERSone who drives mules hoofed work animalsMULEY n pl MULEYSa hornless cowMULIE n pl MULIESa western North American deerMULING present participle of muleMULISH adj stubbornMULISHLY advMULL v MULLED MULLING MULLSto ponderMULLA n pl MULLASmullahMULLAH n pl MULLAHSa Muslim religious leader or teacherMULLEIN n pl MULLEINSa Eurasian herbMULLEN n pl MULLENSmulleinMULLER n pl MULLERSa grinding implementMULLET n pl MULLETSan edible fishMULLEY n pl MULLEYSmuleyMULLIGAN n pl MULLIGANSa stew of various meats and vegetablesMULLION v MULLIONED MULLIONING MULLIONSto provide with vertical dividing stripsMULLITE n pl MULLITESa mineralMULLOCK n pl MULLOCKSwaste earth or rock from a mineMULLOCKY adjMULTIAGE adj including people of various agesMULTICAR adj owning or involving several carsMULTIDAY adj lasting or usable for many daysMULTIFID adj divided into many partsMULTIJET adj having more than two jetsMULTIPED n pl MULTIPEDSan animal having many feetMULTIPLE n pl MULTIPLESthe product of a quantity by an integerMULTIPLY v MULTIPLIED MULTIPLYING MULTIPLIESto increase in numberMULTITON adj weighing many tonsMULTIUSE adj having many usesMULTIWAY adj having several paths or routesMULTURE n pl MULTURESa fee paid to a miller for grinding grainMUM v MUMMED MUMMING MUMSto act in a disguiseMUMBLE v MUMBLED MUMBLING MUMBLESto speak unclearlyMUMBLER n pl MUMBLERSone that mumblesMUMBLING n pl MUMBLINGSthe act of speaking unclearlyMUMBLY adj given to mumblingMUMM v MUMMED MUMMING MUMMSto mumMUMMED past tense of mum and mummMUMMER n pl MUMMERSone that mumsMUMMERY n pl MUMMERIESa performance by mummersMUMMIED past tense of mummyMUMMIES present 3d person sing of mummyMUMMIFY v MUMMIFIED MUMMIFYING MUMMIFIESto preserve by embalmingMUMMING n pl MUMMINGSa performance of a folk play by mummersMUMMY v MUMMIED MUMMYING MUMMIESto mummifyMUMP v MUMPED MUMPING MUMPSto begMUMPER n pl MUMPERSone that mumpsMUMPISH adj sullenMUMSY adj MUMSIER MUMSIESTmaternalMUMU n pl MUMUSmuumuuMUN n pl MUNSman fellowMUNCH v MUNCHED MUNCHING MUNCHESto chew with a crackling soundMUNCHER n pl MUNCHERSone that munchesMUNCHIE n pl MUNCHIESa small amount of food eaten between mealsMUNCHKIN n pl MUNCHKINSa small friendly personMUNCHY adj MUNCHIER MUNCHIESTsuitable for snackingMUNDANE adj ordinaryMUNDUNGO n pl MUNDUNGOSa foulsmelling tobaccoMUNG n pl MUNGSa round green beanMUNGO n pl MUNGOS or MUNGOESa lowquality woolMUNGOOSE n pl MUNGOOSESmongooseMUNI n pl MUNISa security issued by a state or local governmentMUNIMENT n pl MUNIMENTSa means of defenseMUNITION v MUNITIONED MUNITIONING MUNITIONSto furnish with war materielMUNNION n pl MUNNIONSa muntinMUNSTER n pl MUNSTERSmuensterMUNTIN n pl MUNTINSa dividing strip for window panesMUNTINED adjMUNTING n pl MUNTINGSmuntinMUNTJAC n pl MUNTJACSa small Asian deerMUNTJAK n pl MUNTJAKSmuntjacMUON n pl MUONSa subatomic particleMUONIC adjMUONIUM n pl MUONIUMSan electron and a positive muon bound togetherMURA n pl MURASa Japanese villageMURAENID n pl MURAENIDSa morayMURAGE n pl MURAGESa tax levied for repairing the walls of a townMURAL n pl MURALSa painting applied directly to a wall or ceilingMURALED MURALLED adjMURALIST n pl MURALISTSa painter of muralsMURDER v MURDERED MURDERING MURDERSto kill unlawfully with premeditated maliceMURDEREE n pl MURDEREESone that is murderedMURDERER n pl MURDERERSone that murdersMURE v MURED MURING MURESto immureMUREIN n pl MUREINSa type of polymerMUREX n pl MUREXES or MURICESa marine molluskMURIATE n pl MURIATESchlorideMURIATED adj pickledMURICATE adj covered with short sharp pointsMURICES a pl of murexMURID n pl MURIDSa murineMURINE n pl MURINESany of a family of small rodentsMURING present participle of mureMURK adj MURKER MURKESTdarkMURKLY advMURK n pl MURKSdarknessMURKY adj MURKIER MURKIESTdarkMURKILY advMURMUR v MURMURED MURMURING MURMURSto speak unclearlyMURMURER n pl MURMURERSone that murmursMURPHY n pl MURPHIESa potatoMURR n pl MURRSmurreMURRA n pl MURRASa substance used to make fine vases and cups in ancient RomeMURRAIN n pl MURRAINSa disease of cattleMURRE n pl MURRESa diving birdMURRELET n pl MURRELETSa small diving birdMURREY n pl MURREYSa dark purple colorMURRHA n pl MURRHASmurraMURRHINE adjMURRINE adj pertaining to murraMURRY n pl MURRIESa morayMURTHER v MURTHERED MURTHERING MURTHERSto murderMUSCA n pl MUSCAEany of a genus of fliesMUSCADEL n pl MUSCADELSmuscatelMUSCADET n pl MUSCADETSa dry white French wineMUSCAT n pl MUSCATSa sweet white grapeMUSCATEL n pl MUSCATELSa wine made from muscat grapesMUSCID n pl MUSCIDSmuscaMUSCLE v MUSCLED MUSCLING MUSCLESto proceed by forceMUSCLY adj MUSCLIER MUSCLIESTcomposed of muscle tissue that produces bodily movementMUSCULAR adj pertaining to muscleMUSE v MUSED MUSING MUSESto ponderMUSEFUL adj pensiveMUSER n pl MUSERSone that musesMUSETTE n pl MUSETTESa small bagpipeMUSEUM n pl MUSEUMSa place where objects of lasting interest or value are cared for and exhibitedMUSH v MUSHED MUSHING MUSHESto travel over snow with a dog sledMUSHER n pl MUSHERSone that mushesMUSHRAT n pl MUSHRATSmuskratMUSHROOM v MUSHROOMED MUSHROOMING MUSHROOMSto grow or spread rapidlyMUSHY adj MUSHIER MUSHIESTpulpyMUSHILY advMUSIC n pl MUSICSvocal or instrumental sounds organized to produce a unified compositionMUSICAL n pl MUSICALSa play in which dialogue is interspersed with songs and dancesMUSICALE n pl MUSICALESa program of music performed at a social gatheringMUSICIAN n pl MUSICIANSone who performs or composes musicMUSICK v MUSICKED MUSICKING MUSICKSto compose music forMUSING n pl MUSINGScontemplationMUSINGLY adv in a pensive mannerMUSJID n pl MUSJIDSa mosqueMUSK n pl MUSKSa strongly odorous substance secreted by certain animalsMUSKEG n pl MUSKEGSa marshMUSKET n pl MUSKETSa type of firearmMUSKETRY n pl MUSKETRIESthe technique of firing small armsMUSKIE n pl MUSKIESa freshwater fishMUSKIER comparative of muskyMUSKIEST superlative of muskyMUSKILY adv in a musky mannerMUSKIT n pl MUSKITSmesquiteMUSKOX n pl MUSKOXENa large bovid of arctic regionsMUSKRAT n pl MUSKRATSan aquatic rodentMUSKROOT n pl MUSKROOTSa perennial herbMUSKY adj MUSKIER MUSKIESTresembling muskMUSLIN n pl MUSLINSa cotton fabricMUSLINED adjMUSO n pl MUSOSa musicianMUSPIKE n pl MUSPIKESa freshwater fishMUSQUASH n pl MUSQUASHESa muskratMUSS v MUSSED MUSSING MUSSESto messMUSSEL n pl MUSSELSa bivalve molluskMUSSY adj MUSSIER MUSSIESTmessyMUSSILY advMUST v MUSTED MUSTING MUSTSto become mustyMUSTACHE n pl MUSTACHESa growth of hair on the upper lipMUSTANG n pl MUSTANGSa wild horseMUSTARD n pl MUSTARDSa pungent seasoningMUSTARDY adj resembling mustardMUSTEE n pl MUSTEESan octoroonMUSTELID n pl MUSTELIDSa mammal of the weasel familyMUSTER v MUSTERED MUSTERING MUSTERSto summon or assembleMUSTH n pl MUSTHSa state of frenzy occurring in male elephantsMUSTY adj MUSTIER MUSTIESThaving a stale odorMUSTILY advMUT n pl MUTSmuttMUTABLE adj capable of changeMUTABLY advMUTAGEN n pl MUTAGENSa substance that causes biological mutationMUTANT n pl MUTANTSsomething that undergoes mutationMUTASE n pl MUTASESan enzymeMUTATE v MUTATED MUTATING MUTATESto change or cause to change in formMUTATION n pl MUTATIONSthe act of changing in formMUTATIVE adjMUTATOR n pl MUTATORSone that causes a change in formMUTCH n pl MUTCHESa closefitting capMUTCHKIN n pl MUTCHKINSa Scottish unit of liquid measureMUTE adj MUTER MUTESTcharacterized by an absence of speechMUTELY advMUTE v MUTED MUTING MUTESto deaden the sound ofMUTEDLY advMUTENESS n pl MUTENESSESthe state of being muteMUTER comparative of muteMUTEST superlative of muteMUTICOUS adj lacking a pointMUTILATE v MUTILATED MUTILATING MUTILATESto deprive of a limb or other essential partMUTINE v MUTINED MUTINING MUTINESto mutinyMUTINEER v MUTINEERED MUTINEERING MUTINEERSto mutinyMUTING present participle of muteMUTINIED past tense of mutinyMUTINIES present 3d person sing of mutinyMUTINING present participle of mutineMUTINOUS adj disposed to mutinyMUTINY v MUTINIED MUTINYING MUTINIESto revolt against constituted authorityMUTISM n pl MUTISMSmutenessMUTON n pl MUTONSa unit of nucleic acidMUTT n pl MUTTSa mongrel dogMUTTER v MUTTERED MUTTERING MUTTERSto speak unclearlyMUTTERER n pl MUTTERERSone that muttersMUTTON n pl MUTTONSthe flesh of sheep used as foodMUTTONY adjMUTUAL n pl MUTUALSa mutual fundMUTUALLY adv in a manner shared in commonMUTUEL n pl MUTUELSa system of betting on racesMUTULE n pl MUTULESan ornamental block used in classical Greek architectureMUTULAR adjMUUMUU n pl MUUMUUSa long loose dressMUX v MUXED MUXING MUXESto transmit several messages simultaneously along a single channelMUZAK n pl MUZAKSrecorded background musicMUZHIK n pl MUZHIKSa Russian peasantMUZJIK n pl MUZJIKSmuzhikMUZZIER comparative of muzzyMUZZIEST superlative of muzzyMUZZILY adv in a muzzy mannerMUZZLE v MUZZLED MUZZLING MUZZLESto put a covering over the mouth of to prevent biting or eatingMUZZLER n pl MUZZLERSone that muzzlesMUZZY adj MUZZIER MUZZIESTconfusedMY pron the possessive form of the pronoun IMYALGIA n pl MYALGIASmuscular painMYALGIC adjMYASIS n pl MYASESmyiasisMYC n pl MYCSa gene that transforms a normal cell into a cancerous cellMYCELE n pl MYCELESmyceliumMYCELIUM n pl MYCELIAthe vegetative portion of a fungusMYCELIAL MYCELIAN MYCELOID adjMYCETOMA n pl MYCETOMAS or MYCETOMATAa fungous infectionMYCOLOGY n pl MYCOLOGIESthe branch of botany dealing with fungiMYCOSIS n pl MYCOSESa disease caused by a fungusMYCOTIC adjMYELIN n pl MYELINSa fatty substance that encases certain nerve fibersMYELINIC adjMYELINE n pl MYELINESmyelinMYELITIS n pl MYELITIDESinflammation of the bone marrowMYELOID adj pertaining to bone marrowMYELOMA n pl MYELOMAS or MYELOMATAa tumor of the bone marrowMYIASIS n pl MYIASESinfestation of human tissue by fly maggotsMYLODON n pl MYLODONSan extinct giant slothMYLONITE n pl MYLONITESa type of rockMYNA n pl MYNASan Asian birdMYNAH n pl MYNAHSmynaMYNHEER n pl MYNHEERSa Dutch title of courtesy for a manMYOBLAST n pl MYOBLASTSa cell capable of giving rise to muscle cellsMYOGENIC adj originating in muscle tissueMYOGRAPH n pl MYOGRAPHSan instrument for recording muscular contractionsMYOID adj resembling muscleMYOLOGY n pl MYOLOGIESthe study of musclesMYOLOGIC adjMYOMA n pl MYOMAS or MYOMATAa tumor composed of muscle tissueMYOMERE n pl MYOMERESpart of a vertebrate embryoMYOPATHY n pl MYOPATHIESa disorder of muscle tissueMYOPE n pl MYOPESone who is affected with myopiaMYOPIA n pl MYOPIASa visual defectMYOPIC adjMYOPY n pl MYOPIESmyopiaMYOSCOPE n pl MYOSCOPESan instrument for observing muscular contractionsMYOSIN n pl MYOSINSa protein found in muscle tissueMYOSIS n pl MYOSESmiosisMYOSITIS n pl MYOSITISESmuscular pain from infectionMYOSOTE n pl MYOSOTESmyosotisMYOSOTIS n pl MYOSOTISESa flowering plantMYOTIC n pl MYOTICSmioticMYOTOME n pl MYOTOMESa portion of an embryonic somiteMYOTONIA n pl MYOTONIAStemporary muscular rigidityMYOTONIC adjMYRIAD n pl MYRIADSa very large numberMYRIAPOD n pl MYRIAPODSa multilegged arthropodMYRICA n pl MYRICASa medicinal tree barkMYRIOPOD n pl MYRIOPODSmyriapodMYRMIDON n pl MYRMIDONS or MYRMIDONESa loyal followerMYRRH n pl MYRRHSan aromatic gum resinMYRRHIC adjMYRRHY adjMYRTLE n pl MYRTLESan evergreen shrubMYSELF pron a form of the 1st person sing pronounMYSID n pl MYSIDSa small crustaceanMYSOST n pl MYSOSTSa mild cheeseMYSTAGOG n pl MYSTAGOGSa teacher of religious mysteriesMYSTERY n pl MYSTERIESsomething that is not or cannot be known understood or explainedMYSTIC n pl MYSTICSone who professes to have had mystical experiencesMYSTICAL adj spiritually significant or symbolicMYSTICLY adv in a mystical mannerMYSTIFY v MYSTIFIED MYSTIFYING MYSTIFIESto perplexMYSTIQUE n pl MYSTIQUESan aura of mystery or mystical power surrounding a particular person or thingMYTH n pl MYTHSa type of traditional storyMYTHIC adj mythicalMYTHICAL adj based on or described in a mythMYTHOS n pl MYTHOIa mythMYTHY adj MYTHIER MYTHIESTresembling mythMYXAMEBA n pl MYXAMEBAS or MYXAMEBAEa slime mold that resembles an amoebaMYXEDEMA n pl MYXEDEMASa disease caused by decreased activity of the thyroid glandMYXOCYTE n pl MYXOCYTESa large cell found in mucous tissueMYXOID adj containing mucusMYXOMA n pl MYXOMAS or MYXOMATAa tumor composed of mucous tissue").
+```
+entry(na, adv, [naans], "nanNAB v NABBED NABBING NABSto capture or arrestNABBER n pl NABBERSone that nabsNABE n pl NABESa neighborhood movie theaterNABIS n pl NABISa group of French artistsNABOB n pl NABOBSone who becomes rich and prominentNABOBISH adjNABOBERY n pl NABOBERIESthe state of being a nabobNABOBESS n pl NABOBESSESa female nabobNABOBISM n pl NABOBISMSgreat wealth and luxuryNACELLE n pl NACELLESa shelter on an aircraftNACHAS n pl NACHASpride in anothers accomplishmentsNACHES n pl NACHESnachasNACHO n pl NACHOSa tortilla chip topped with cheese and a savory mixture and broiledNACRE n pl NACRESthe pearly internal layer of certain shellsNACRED NACREOUS adjNADA n pl NADASnothingNADIR n pl NADIRSa point on the celestial sphereNADIRAL adjNAE n pl NAESnoNAETHING n pl NAETHINGSnothingNAEVUS n pl NAEVInevusNAEVOID adjNAFF v NAFFED NAFFING NAFFSto fool aroundNAFF adj NAFFER NAFFESTlacking taste or styleNAFFNESS n pl NAFFNESSESthe quality of lacking taste or styleNAG v NAGGED NAGGING NAGSto find fault incessantlyNAGA n pl NAGASa halfsnake halfhuman creature in HinduismNAGANA n pl NAGANASa disease of horses in AfricaNAGGER n pl NAGGERSone that nagsNAGGING n pl NAGGINGSthe act of finding fault incessantlyNAGGY adj NAGGIER NAGGIESTgiven to naggingNAGWARE n pl NAGWARESsoftware that is at first free but often reminds the user to pay for itNAH adv noNAIAD n pl NAIADS or NAIADESa water nymphNAIF n pl NAIFSa naive personNAIL v NAILED NAILING NAILSto fasten with a nail a slender piece of metalNAILER n pl NAILERSone that nailsNAILFOLD n pl NAILFOLDSa fold of skin around the fingernailNAILHEAD n pl NAILHEADSthe top of a nailNAILLESS adj lacking nailsNAILSET n pl NAILSETSa steel rod for driving a nail into somethingNAINSOOK n pl NAINSOOKSa cotton fabricNAIRA n pl NAIRASa monetary unit of NigeriaNAIRU n pl NAIRUSthe lowest rate of unemployment at which there is no inflationNAIVE adj NAIVER NAIVESTlacking sophisticationNAIVELY advNAIVE n pl NAIVESa naive personNAIVETE n pl NAIVETESthe quality of being naiveNAIVETY n pl NAIVETIESnaiveteNAKED adj NAKEDER NAKEDESTbeing without clothing or coveringNAKEDLY advNAKFA n pl NAKFASa monetary unit of EritreaNALA n pl NALASnullahNALED n pl NALEDSan insecticideNALOXONE n pl NALOXONESa chemical compoundNAM a past tense of nimNAME v NAMED NAMING NAMESto give a title toNAMABLE NAMEABLE adjNAMELESS adj lacking distinction or fameNAMELY adv that is to sayNAMER n pl NAMERSone that namesNAMESAKE n pl NAMESAKESone who is named after anotherNAMETAG n pl NAMETAGSa tag bearing ones name worn for identificationNAMETAPE n pl NAMETAPESa tape bearing ones name worn for identificationNAMING present participle of nameNAN n pl NANSa round flat breadNANA n pl NANASa grandmotherNANDIN n pl NANDINSan evergreen shrubNANDINA n pl NANDINASan Asian shrubNANISM n pl NANISMSabnormal smallnessNANKEEN n pl NANKEENSa cotton fabricNANKIN n pl NANKINSnankeenNANNA n pl NANNASnanaNANNIE n pl NANNIESnannyNANNY v NANNIED NANNYING NANNIESto be overprotective towardNANNYISH adj resembling a childrens nurseNANO n pl NANOSscience that deals with materials on an atomic or molecular scaleNANOBOT n pl NANOBOTSa very small selfpropelled machineNANOGRAM n pl NANOGRAMSa unit of mass and weightNANOTECH n pl NANOTECHSthe technology of building electronic devices from individual atoms and moleculesNANOTUBE n pl NANOTUBESa microscopic tubeNANOWATT n pl NANOWATTSa unit of powerNAOS n pl NAOIan ancient templeNAP v NAPPED NAPPING NAPSto sleep brieflyNAPA n pl NAPASa soft leatherNAPALM v NAPALMED NAPALMING NAPALMSto assault with a type of incendiary bombNAPE n pl NAPESthe back of the neckNAPERY n pl NAPERIEStable linenNAPHTHA n pl NAPHTHASa volatile liquidNAPHTHOL n pl NAPHTHOLSa chemical compoundNAPHTHYL n pl NAPHTHYLSa radical derived from naphthaleneNAPHTOL n pl NAPHTOLSnaphtholNAPIFORM adj shaped like a turnipNAPKIN n pl NAPKINSa piece of material used to wipe the hands and mouthNAPLESS adj threadbareNAPOLEON n pl NAPOLEONSa type of pastryNAPPA n pl NAPPASnapaNAPPE n pl NAPPESa type of rock formationNAPPED past tense of napNAPPER n pl NAPPERSone that napsNAPPIE n pl NAPPIESa diaperNAPPING present participle of napNAPPY adj NAPPIER NAPPIESTkinkyNAPROXEN n pl NAPROXENSan antiinflammatory drugNARC n pl NARCSan undercover drug agentNARCEIN n pl NARCEINSnarceineNARCEINE n pl NARCEINESan opium derivativeNARCISM n pl NARCISMSexcessive love of oneselfNARCISSI npl bulbous flowering plantsNARCIST n pl NARCISTSone given to narcismNARCO n pl NARCOSnarcNARCOMA n pl NARCOMAS or NARCOMATAa stupor induced by a narcoticNARCOSE adj characterized by stuporNARCOSIS n pl NARCOSESa druginduced stuporNARCOTIC n pl NARCOTICSa drug that dulls the sensesNARD n pl NARDSa fragrant ointmentNARDINE adjNARDOO n pl NARDOOSa cloverlike plantNARES pl of narisNARGHILE n pl NARGHILESa hookahNARGILE n pl NARGILESnarghileNARGILEH n pl NARGILEHSnarghileNARIS n pl NARESa nostrilNARIAL NARIC NARINE adjNARK v NARKED NARKING NARKSto spy or informNARKY adj NARKIER NARKIESTirritableNARRATE v NARRATED NARRATING NARRATESto tell a storyNARRATER n pl NARRATERSnarratorNARRATOR n pl NARRATORSone that narratesNARROW adj NARROWER NARROWESTof little widthNARROWLY advNARROW v NARROWED NARROWING NARROWSto make narrowNARTHEX n pl NARTHEXESa vestibule in a churchNARWAL n pl NARWALSnarwhalNARWHAL n pl NARWHALSan arctic aquatic mammalNARWHALE n pl NARWHALESnarwhalNARY adj not oneNASAL n pl NASALSa sound uttered through the noseNASALISE v NASALISED NASALISING NASALISESto nasalizeNASALISM n pl NASALISMSnasalityNASALITY n pl NASALITIESthe quality or an instance of being produced nasallyNASALIZE v NASALIZED NASALIZING NASALIZESto produce sounds nasallyNASALLY adv through the noseNASCENCE n pl NASCENCESnascencyNASCENCY n pl NASCENCIESbirth originNASCENT adj coming into existenceNASION n pl NASIONSa point in the skullNASIAL adjNASTIC adj pertaining to an automatic response of plantsNASTY adj NASTIER NASTIESToffensive to the sensesNASTILY advNASTY n pl NASTIESsomething that is nastyNATAL adj pertaining to ones birthNATALITY n pl NATALITIESbirth rateNATANT adj floating or swimmingNATANTLY advNATATION n pl NATATIONSthe act of swimmingNATATORY adj pertaining to swimmingNATCH adv naturallyNATES npl the buttocksNATHLESS adv neverthelessNATION n pl NATIONSa politically organized people who share a territory customs and historyNATIONAL n pl NATIONALSa citizen of a nationNATIVE n pl NATIVESan original inhabitant of an areaNATIVELY adv in an inborn mannerNATIVISM n pl NATIVISMSa policy of favoring the interests of native inhabitantsNATIVIST n pl NATIVISTSan advocate of nativismNATIVITY n pl NATIVITIESthe process of being bornNATRIUM n pl NATRIUMSsodiumNATRON n pl NATRONSa chemical compoundNATTER v NATTERED NATTERING NATTERSto chatterNATTERER n pl NATTERERSone that nattersNATTY adj NATTIER NATTIESTneatly dressedNATTILY advNATURAL n pl NATURALSa type of musical noteNATURE n pl NATURESthe essential qualities of a person or thingNATURED adjNATURISM n pl NATURISMSnudismNATURIST n pl NATURISTSa nudistNAUGHT n pl NAUGHTSa zeroNAUGHTY n pl NAUGHTIESone that is naughtyNAUGHTY adj NAUGHTIER NAUGHTIESTdisobedientNAUMACHY n pl NAUMACHIESa mock sea battleNAUPLIUS n pl NAUPLIIa form of certain crustaceansNAUPLIAL adjNAUSEA n pl NAUSEASa stomach disturbanceNAUSEANT n pl NAUSEANTSan agent that induces nauseaNAUSEATE v NAUSEATED NAUSEATING NAUSEATESto affect with nauseaNAUSEOUS adj affected with nauseaNAUTCH n pl NAUTCHESa dancing exhibition in IndiaNAUTICAL adj pertaining to shipsNAUTILUS n pl NAUTILUSES or NAUTILIa spiralshelled molluskNAV n pl NAVSnavigationNAVAID n pl NAVAIDSa navigational deviceNAVAL adj pertaining to shipsNAVALLY advNAVAR n pl NAVARSa system of air navigationNAVARIN n pl NAVARINSlamb stew with vegetablesNAVE n pl NAVESthe main part of a churchNAVEL n pl NAVELSa depression in the abdomenNAVETTE n pl NAVETTESa gem cut in a pointed oval formNAVICERT n pl NAVICERTSa document permitting a vessel passage through a naval blockadeNAVIES pl of navyNAVIGATE v NAVIGATED NAVIGATING NAVIGATESto plan and control the course ofNAVVY n pl NAVVIESa manual laborerNAVY n pl NAVIESa nations warshipsNAW adv noNAWAB n pl NAWABSa nabobNAY n pl NAYSa negative voteNAYSAY v NAYSAID NAYSAYING NAYSAYSto oppose or denyNAYSAYER n pl NAYSAYERSone that denies or opposes somethingNAZI n pl NAZISa type of fascistNAZIFY v NAZIFIED NAZIFYING NAZIFIESto cause to be like a naziNE adj born with the name ofNEAP n pl NEAPSa tide of lowest rangeNEAR adj NEARER NEARESTsituated within a short distanceNEARISH adjNEAR v NEARED NEARING NEARSto approachNEARBY adj nearNEARLY adv NEARLIER NEARLIESTwith close approximationNEARNESS n pl NEARNESSESthe state of being nearNEARSIDE n pl NEARSIDESthe left sideNEAT adj NEATER NEATESTbeing in a state of cleanliness and orderNEAT n pl NEATSa bovineNEATEN v NEATENED NEATENING NEATENSto make neatNEATH prep beneathNEATHERD n pl NEATHERDSa cowherdNEATLY adv in a neat mannerNEATNESS n pl NEATNESSESthe state of being neatNEATNIK n pl NEATNIKSa compulsively neat personNEB n pl NEBSthe beak of a birdNEBBISH n pl NEBBISHESa meek personNEBBISHY adjNEBULA n pl NEBULAS or NEBULAEa cloudlike interstellar massNEBULAR adjNEBULE adj composed of successive short curvesNEBULISE v NEBULISED NEBULISING NEBULISESto nebulizeNEBULIZE v NEBULIZED NEBULIZING NEBULIZESto reduce to a fine sprayNEBULOSE adj nebulousNEBULOUS adj unclearNEBULY adj nebuleNECK v NECKED NECKING NECKSto kiss and caress in lovemakingNECKBAND n pl NECKBANDSa band worn around the neck the part of the body joining the head to the trunkNECKER n pl NECKERSone that necksNECKING n pl NECKINGSa small molding near the top of a columnNECKLACE v NECKLACED NECKLACING NECKLACESto kill by placing a tire around the neck and setting it on fireNECKLESS adj having no neckNECKLET n pl NECKLETSa closefiting ornament worn around the neckNECKLIKE adj resembling the neckNECKLINE n pl NECKLINESthe line formed by the neck opening of a garmentNECKTIE n pl NECKTIESa strip of fabric worn around the neckNECKWEAR n pl NECKWEARsomething that is worn around the neckNECROPSY v NECROPSIED NECROPSYING NECROPSIESto perform an autopsy onNECROSE v NECROSED NECROSING NECROSESto affect with necrosisNECROSIS n pl NECROSESthe death of living tissueNECROTIC adjNECTAR n pl NECTARSa delicious drinkNECTARY n pl NECTARIESa plant glandNEDDY n pl NEDDIESa donkeyNEE adj born with the name ofNEED v NEEDED NEEDING NEEDSto have an urgent or essential use forNEEDER n pl NEEDERSone that needsNEEDFUL n pl NEEDFULSsomething that is neededNEEDIER comparative of needyNEEDIEST superlative of needyNEEDILY adv in a needy mannerNEEDLE v NEEDLED NEEDLING NEEDLESto sew with a slender pointed instrumentNEEDLER n pl NEEDLERSone that needlesNEEDLESS adj not necessaryNEEDLING n pl NEEDLINGSthe act of one who needlesNEEDY adj NEEDIER NEEDIESTin a state of povertyNEEM n pl NEEMSan East Indian treeNEEP n pl NEEPSa turnipNEG n pl NEGSa photographic negativeNEGATE v NEGATED NEGATING NEGATESto nullifyNEGATER n pl NEGATERSone that negatesNEGATION n pl NEGATIONSthe act of negatingNEGATIVE v NEGATIVED NEGATIVING NEGATIVESto vetoNEGATON n pl NEGATONSnegatronNEGATOR n pl NEGATORSnegaterNEGATORY adj expressing negationNEGATRON n pl NEGATRONSan electronNEGLECT v NEGLECTED NEGLECTING NEGLECTSto fail to pay attention toNEGLIGE n pl NEGLIGESnegligeeNEGLIGEE n pl NEGLIGEESa womans dressing gownNEGROID n pl NEGROIDSmember of the black raceNEGRONI n pl NEGRONISan alcoholic beverageNEGUS n pl NEGUSESan alcoholic beverageNEIF n pl NEIFSnieveNEIGH v NEIGHED NEIGHING NEIGHSto utter the cry of a horseNEIGHBOR v NEIGHBORED NEIGHBORING NEIGHBORSto live close toNEIST adj nextNEITHER adj not one or the otherNEKTON n pl NEKTONSfreeswimming marine animalsNEKTONIC adjNELLIE n pl NELLIESan effeminate maleNELLY n pl NELLIESnellieNELSON n pl NELSONSa wrestling holdNELUMBO n pl NELUMBOSan aquatic herbNEMA n pl NEMASa nematodeNEMATIC n pl NEMATICSa liquid crystal in a particular phaseNEMATODE n pl NEMATODESa kind of wormNEMESIA n pl NEMESIASa flowering African plantNEMESIS n pl NEMESESa formidable opponentNENE n pl NENESa Hawaiian gooseNEOCON n pl NEOCONSa neoconservativeNEOLITH n pl NEOLITHSan ancient stone implementNEOLOGY n pl NEOLOGIESa new word or phraseNEOLOGIC adjNEOMORPH n pl NEOMORPHSa type of biological structureNEOMYCIN n pl NEOMYCINSan antibiotic drugNEON n pl NEONSa gaseous elementNEONED adjNEONATE n pl NEONATESa newborn childNEONATAL adjNEOPAGAN n pl NEOPAGANSone who practices a modern form of paganismNEOPHYTE n pl NEOPHYTESa noviceNEOPLASM n pl NEOPLASMSa tumorNEOPRENE n pl NEOPRENESa synthetic rubberNEOTENY n pl NEOTENIESattainment of sexual maturity in the larval stageNEOTENIC adjNEOTERIC n pl NEOTERICSa modern authorNEOTYPE n pl NEOTYPESa specimen of a speciesNEPENTHE n pl NEPENTHESa drug that induces forgetfulnessNEPETA n pl NEPETAScatnipNEPHEW n pl NEPHEWSa son of ones brother or sisterNEPHRIC adj renalNEPHRISM n pl NEPHRISMSill health caused by a kidney diseaseNEPHRITE n pl NEPHRITESa mineralNEPHRON n pl NEPHRONSan excretory unit of a kidneyNEPOTISM n pl NEPOTISMSfavoritism shown to a relativeNEPOTIC adjNEPOTIST n pl NEPOTISTSone who practices nepotismNERD n pl NERDSa socially inept personNERDISH adjNERDY adj NERDIER NERDIESTsocially ineptNEREID n pl NEREIDSa sea nymphNEREIS n pl NEREIDESa marine wormNERITIC adj pertaining to shallow waterNEROL n pl NEROLSa fragrant alcoholNEROLI n pl NEROLISa fragrant oilNERTS interj  used to express defianceNERTZ interj nertsNERVATE adj having veinsNERVE v NERVED NERVING NERVESto give courage toNERVIER comparative of nervyNERVIEST superlative of nervyNERVILY adv in a nervy mannerNERVINE n pl NERVINESa soothing medicineNERVING n pl NERVINGSa type of veterinary operationNERVOUS adj easily excitedNERVULE n pl NERVULESnervureNERVURE n pl NERVURESa vascular ridge on a leafNERVY adj NERVIER NERVIESTimpudentNESCIENT n pl NESCIENTSone who is ignorantNESS n pl NESSESa headlandNEST v NESTED NESTING NESTSto build a nest a structure for holding bird eggsNESTABLE adj capable of being fitted closely within another containerNESTER n pl NESTERSone that nestsNESTFUL n pl NESTFULSas much as a nest can holdNESTLE v NESTLED NESTLING NESTLESto lie snuglyNESTLER n pl NESTLERSone that nestlesNESTLIKE adj resembling a nestNESTLING n pl NESTLINGSa young birdNESTMATE n pl NESTMATESa bird sharing a nest with anotherNESTOR n pl NESTORSa wise old manNET v NETTED NETTING NETSto catch in a net a type of openwork fabricNETBALL n pl NETBALLSa team game similar to basketballNETBOOK n pl NETBOOKSa small portable computerNETFUL n pl NETFULSas much as a net can holdNETHER adj situated belowNETIZEN n pl NETIZENSa frequent user of the InternetNETLESS adj having no netNETLIKE adj resembling a netNETOP n pl NETOPSfriend companionNETROOTS npl political activists at the basic level of society who communicate via the InternetNETSUKE n pl NETSUKESa buttonlike fixture on Japanese clothingNETSURF v NETSURFED NETSURFING NETSURFSto browse the Internet for informationNETT v NETTED NETTING NETTSto netNETTABLE adj capable of being nettedNETTED past tense of net nettNETTER n pl NETTERSone that netsNETTIER comparative of nettyNETTIEST superlative of nettyNETTING n pl NETTINGSa netNETTLE v NETTLED NETTLING NETTLESto make angryNETTLER n pl NETTLERSone that nettlesNETTLY adj NETTLIER NETTLIESTpricklyNETTY adj NETTIER NETTIESTresembling a netNETWORK v NETWORKED NETWORKING NETWORKSto cover with or as if with crossing linesNEUK n pl NEUKSnookNEUM n pl NEUMSneumeNEUME n pl NEUMESa sign used in musical notationNEUMATIC NEUMIC adjNEURAL adj pertaining to the nervous systemNEURALLY advNEURAXON n pl NEURAXONSa part of a neuronNEURINE n pl NEURINESa ptomaine poisonNEURITIC n pl NEURITICSone affected with neuritisNEURITIS n pl NEURITISES or NEURITIDESinflammation of a nerveNEUROID adj resembling a nerveNEUROMA n pl NEUROMAS or NEUROMATAa type of tumorNEURON n pl NEURONSthe basic cellular unit of the nervous systemNEURONAL NEURONIC adjNEURONE n pl NEURONESneuronNEUROSIS n pl NEUROSESa type of emotional disturbanceNEUROSAL adjNEUROTIC n pl NEUROTICSone affected with a neurosisNEURULA n pl NEURULAS or NEURULAEa vertebrate embryoNEURULAR adjNEUSTON n pl NEUSTONSan aggregate of small aquatic organismsNEUSTIC adjNEUTER v NEUTERED NEUTERING NEUTERSto castrateNEUTRAL n pl NEUTRALSone that is impartialNEUTRINO n pl NEUTRINOSa subatomic particleNEUTRON n pl NEUTRONSa subatomic particleNEVE n pl NEVESa granular snowNEVER adv at no timeNEVUS n pl NEVIa birthmarkNEVOID adjNEW adj NEWER NEWESTexisting only a short timeNEW n pl NEWSsomething that is newNEWB n pl NEWBSa newbieNEWBIE n pl NEWBIESa newcomerNEWBORN n pl NEWBORNSa recently born infantNEWCOMER n pl NEWCOMERSone that has recently arrivedNEWEL n pl NEWELSa staircase supportNEWFOUND adj newly foundNEWIE n pl NEWIESsomething newNEWISH adj somewhat newNEWLY adv recentlyNEWLYWED n pl NEWLYWEDSa person recently marriedNEWMOWN adj recently mownNEWNESS n pl NEWNESSESthe state of being newNEWS npl a report of recent eventsNEWSBEAT n pl NEWSBEATSa news source that a reporter is assigned to coverNEWSBOY n pl NEWSBOYSa boy who delivers or sells newspapersNEWSCAST n pl NEWSCASTSa news broadcastNEWSDESK n pl NEWSDESKSthe department that receives latebreaking newsNEWSFEED n pl NEWSFEEDSa service that provides news articles for distributionNEWSGIRL n pl NEWSGIRLSa girl who delivers or sells newspapersNEWSHAWK n pl NEWSHAWKSa newspaper reporterNEWSIE n pl NEWSIESnewsyNEWSIER comparative of newsyNEWSIES pl of newsyNEWSIEST superlative of newsyNEWSLESS adj having no newsNEWSMAN n pl NEWSMENa news reporterNEWSPEAK n pl NEWSPEAKSa deliberately ambiguous languageNEWSREEL n pl NEWSREELSa short movie presenting current eventsNEWSROOM n pl NEWSROOMSa room where the news is gatheredNEWSWIRE n pl NEWSWIRESa news agency that transmits news copy to subscribersNEWSY adj NEWSIER NEWSIESTfull of newsNEWSY n pl NEWSIESa newsboyNEWT n pl NEWTSa small salamanderNEWTON n pl NEWTONSa unit of forceNEWWAVER n pl NEWWAVERSa member of a newwave movementNEXT n pl NEXTSthe one that comes immediately afterNEXTDOOR adj located in the next building or roomNEXUS n pl NEXUSESa connection or linkNGULTRUM n pl NGULTRUMSa monetary unit of BhutanNGWEE n pl NGWEEa monetary unit of ZambiaNIACIN n pl NIACINSa B vitaminNIAGARA n pl NIAGARASan outpouring or delugeNIB v NIBBED NIBBING NIBSto provide with a penpointNIBBLE v NIBBLED NIBBLING NIBBLESto eat with small bitesNIBBLER n pl NIBBLERSone that nibblesNIBBLY n pl NIBBLIESa small food itemNIBLICK n pl NIBLICKSa golf clubNIBLIKE adj resembling a penpointNICAD n pl NICADSnickel cadmiumNICE adj NICER NICESTpleasing to the sensesNICELY advNICENESS n pl NICENESSESthe quality of being niceNICETY n pl NICETIESa fine point or distinctionNICHE v NICHED NICHING NICHESto place in a receding space or hollowNICK v NICKED NICKING NICKSto make a shallow cut inNICKEL v NICKELED NICKELING NICKELS or NICKELLED NICKELLING NICKELSto plate with nickel a metallic elementNICKELIC adj pertaining to or containing nickelNICKER v NICKERED NICKERING NICKERSto neighNICKLE v NICKLED NICKLING NICKLESto nickelNICKNACK n pl NICKNACKSa trinketNICKNAME v NICKNAMED NICKNAMING NICKNAMESto give an alternate name toNICOISE adj served with black olives tomatoes olive oil and often anchoviesNICOL n pl NICOLSa type of prismNICOTIN n pl NICOTINSnicotineNICOTINE n pl NICOTINESa poisonous alkaloid in tobaccoNICTATE v NICTATED NICTATING NICTATESto winkNIDAL adj pertaining to a nidusNIDATE v NIDATED NIDATING NIDATESto become implanted in the uterusNIDATION n pl NIDATIONSthe act of nidatingNIDE v NIDED NIDING NIDESto nestNIDERING n pl NIDERINGSa cowardNIDGET n pl NIDGETSan idiotNIDI a pl of nidusNIDIFY v NIDIFIED NIDIFYING NIDIFIESto nestNIDING present participle of nideNIDUS n pl NIDUSES or NIDIa nest or breeding placeNIECE n pl NIECESa daughter of ones brother or sisterNIELLIST n pl NIELLISTSone that niellosNIELLO n pl NIELLOS or NIELLIa black metallic substanceNIELLO v NIELLOED NIELLOING NIELLOSto decorate with nielloNIENTE adv softly fading away  used as a musical directionNIEVE n pl NIEVESthe fist or handNIFF v NIFFED NIFFING NIFFSto stinkNIFFER v NIFFERED NIFFERING NIFFERSto barterNIFFY adj NIFFIER NIFFIESTstinkyNIFTY adj NIFTIER NIFTIESTstylish pleasingNIFTILY advNIFTY n pl NIFTIESsomething that is niftyNIGELLA n pl NIGELLASan annual herbNIGGARD v NIGGARDED NIGGARDING NIGGARDSto act stingilyNIGGLE v NIGGLED NIGGLING NIGGLESto worry over petty detailsNIGGLER n pl NIGGLERSone that nigglesNIGGLING n pl NIGGLINGSpetty or meticulous workNIGGLY adj NIGGLIER NIGGLIESTpettyNIGH adj NIGHER NIGHESTnearNIGH v NIGHED NIGHING NIGHSto approachNIGHNESS n pl NIGHNESSESthe state of being nighNIGHT n pl NIGHTSthe period from sunset to sunriseNIGHTCAP n pl NIGHTCAPSa cap worn to bedNIGHTIE n pl NIGHTIESa nightgownNIGHTJAR n pl NIGHTJARSa nocturnal birdNIGHTLY adv every night at nightNIGHTY n pl NIGHTIESnightieNIGRIFY v NIGRIFIED NIGRIFYING NIGRIFIESto make blackNIGROSIN n pl NIGROSINSa type of dyeNIHIL n pl NIHILSnothingNIHILISM n pl NIHILISMSa doctrine that denies traditional valuesNIHILIST n pl NIHILISTSan adherent of nihilismNIHILITY n pl NIHILITIESthe state of being nothingNIKAH n pl NIKAHSa Muslim marriage ceremonyNIL n pl NILSnothingNILGAI n pl NILGAISa large antelopeNILGAU n pl NILGAUSnilgaiNILGHAI n pl NILGHAISnilgaiNILGHAU n pl NILGHAUSnilgaiNILL v NILLED NILLING NILLSto be unwillingNIM v NIMMED or NAM NIMMING NIMSto stealNIMBLE adj NIMBLER NIMBLESTagileNIMBLY advNIMBUS n pl NIMBUSES or NIMBIa luminous cloudNIMBUSED adjNIMIETY n pl NIMIETIESexcessNIMIOUS adjNIMMED past tense of nimNIMMING present participle of nimNIMROD n pl NIMRODSa hunterNINE n pl NINESa numberNINEBARK n pl NINEBARKSa flowering shrubNINEFOLD adj nine times as greatNINEPIN n pl NINEPINSa wooden pin used in a bowling gameNINER n pl NINERSa student in the ninth gradeNINETEEN n pl NINETEENSa numberNINETY n pl NINETIESa numberNINJA n pl NINJASa feudal Japanese warriorNINJUTSU n pl NINJUTSUSthe traditional Japanese method of spyingNINNY n pl NINNIESa foolNINNYISH adjNINON n pl NINONSa sheer fabricNINTH n pl NINTHSone of nine equal partsNINTHLY adv in the ninth placeNIOBATE n pl NIOBATESa chemical saltNIOBITE n pl NIOBITESthe mineral columbiteNIOBIUM n pl NIOBIUMSa metallic elementNIOBIC NIOBOUS adjNIP v NIPPED NIPPING NIPSto pinchNIPA n pl NIPASa palm treeNIPPER n pl NIPPERSone that nipsNIPPIER comparative of nippyNIPPIEST superlative of nippyNIPPILY adv in a nippy mannerNIPPING present participle of nipNIPPLE n pl NIPPLESa protuberance on the breastNIPPLED adjNIPPY adj NIPPIER NIPPIESTsharp or bitingNIQAAB n pl NIQAABSniqabNIQAB n pl NIQABSa veil worn by some Muslim womenNIRVANA n pl NIRVANASa blessed state in BuddhismNIRVANIC adjNISEI n pl NISEISone born in America of immigrant Japanese parentsNISI adj not yet finalNISUS n pl NISUSan effortNIT n pl NITSthe egg of a parasitic insectNITE n pl NITESnightNITER n pl NITERSa chemical saltNITERIE n pl NITERIESniteryNITERY n pl NITERIESa nightclubNITID adj brightNITINOL n pl NITINOLSan alloy of nickel and titaniumNITON n pl NITONSradonNITPICK v NITPICKED NITPICKING NITPICKSto fuss over petty detailsNITPICKY adj NITPICKIER NITPICKIESTtending to nitpickNITRATE v NITRATED NITRATING NITRATESto treat with nitric acidNITRATOR n pl NITRATORSone that nitratesNITRE n pl NITRESniterNITRIC adj containing nitrogenNITRID n pl NITRIDSnitrideNITRIDE v NITRIDED NITRIDING NITRIDESto convert into a nitride a compound of nitrogenNITRIFY v NITRIFIED NITRIFYING NITRIFIESto combine with nitrogenNITRIL n pl NITRILSnitrileNITRILE n pl NITRILESa chemical compoundNITRITE n pl NITRITESa salt of nitrous acidNITRO n pl NITROSa nitrated productNITROGEN n pl NITROGENSa gaseous elementNITROLIC adj pertaining to a class of acidsNITROSO adj containing nitrosylNITROSYL n pl NITROSYLSa univalent radicalNITROUS adj containing nitrogenNITTY adj NITTIER NITTIESTfull of nitsNITWIT n pl NITWITSa stupid personNIVAL adj pertaining to snowNIVEOUS adj resembling snowNIX n pl NIXES or NIXEa water spriteNIX v NIXED NIXING NIXESto vetoNIXIE n pl NIXIESa female water spriteNIXY n pl NIXIESan undeliverable piece of mailNIZAM n pl NIZAMSa former sovereign of IndiaNIZAMATE n pl NIZAMATESthe territory of a nizamNO n pl NOS or NOESa negative replyNOB n pl NOBSa wealthy personNOBBIER comparative of nobbyNOBBIEST superlative of nobbyNOBBILY adv in a nobby mannerNOBBLE v NOBBLED NOBBLING NOBBLESto disable a racehorseNOBBLER n pl NOBBLERSone that nobblesNOBBY adj NOBBIER NOBBIESTelegantNOBELIUM n pl NOBELIUMSa radioactive elementNOBILITY n pl NOBILITIESthe social class composed of noblesNOBLE adj NOBLER NOBLESTpossessing qualities of excellenceNOBLE n pl NOBLESa person of high birth rank or titleNOBLEMAN n pl NOBLEMENa nobleNOBLER comparative of nobleNOBLESSE e pl NOBLESSESthe nobilityNOBLEST superlative of nobleNOBLY adv in a noble mannerNOBODY n pl NOBODIESan unimportant personNOCEBO n pl NOCEBOSa harmless substance that induces harmful effects in patients having negative expectationsNOCENT adj harmfulNOCK v NOCKED NOCKING NOCKSto notch a bow or arrowNOCTUID n pl NOCTUIDSa nightflying mothNOCTUOID adjNOCTULE n pl NOCTULESa large batNOCTURN n pl NOCTURNSa religious serviceNOCTURNE n pl NOCTURNESa musical compositionNOCUOUS adj harmfulNOD v NODDED NODDING NODSto briefly lower the head forwardNODAL adj of the nature of a nodeNODALLY advNODALITY n pl NODALITIESthe state of being nodalNODDED past tense of nodNODDER n pl NODDERSone that nodsNODDIES pl of noddyNODDING present participle of nodNODDLE v NODDLED NODDLING NODDLESto nod frequentlyNODDY n pl NODDIESa foolNODE n pl NODESa swollen enlargementNODI pl of nodusNODICAL adj pertaining to an astronomical pointNODOSE adj having nodesNODOSITY n pl NODOSITIESthe state of being nodoseNODOUS adj nodoseNODULE n pl NODULESa small nodeNODULAR NODULOSE NODULOUS adjNODUS n pl NODIa difficultyNOEL n pl NOELSa Christmas carolNOES a pl of noNOESIS n pl NOESISESthe process of reasonNOETIC adj pertaining to reasonNOG v NOGGED NOGGING NOGSto fill in a space in a wall with bricksNOGG n pl NOGGSa strong aleNOGGIN n pl NOGGINSa small cupNOGGING n pl NOGGINGSa type of masonryNOH n pl NOHthe classical drama of JapanNOHOW adv in no mannerNOIL n pl NOILSa kind of short fiberNOILY adjNOIR n pl NOIRSa bleak type of crime fictionNOIRISH adjNOISE v NOISED NOISING NOISESto spread as a rumor or reportNOISETTE n pl NOISETTESa small round piece of meatNOISOME adj disgusting harmfulNOISY adj NOISIER NOISIESTmaking loud soundsNOISILY advNOLO n pl NOLOSa type of legal pleaNOM n pl NOMSa nameNOMA n pl NOMASa severe inflammation of the mouthNOMAD n pl NOMADSa wandererNOMADIC adjNOMADISM n pl NOMADISMSthe mode of life of a nomadNOMARCH n pl NOMARCHSthe head of a nomeNOMARCHY n pl NOMARCHIESa nomeNOMBLES npl numblesNOMBRIL n pl NOMBRILSa point on a heraldic shieldNOME n pl NOMESa province of modern GreeceNOMEN n pl NOMINAthe second name of an ancient RomanNOMINAL n pl NOMINALSa word used as a nounNOMINATE v NOMINATED NOMINATING NOMINATESto name as a candidateNOMINEE n pl NOMINEESone that is nominatedNOMISM n pl NOMISMSstrict adherence to moral lawNOMISTIC adjNOMOGRAM n pl NOMOGRAMSa type of graphNOMOLOGY n pl NOMOLOGIESthe science of lawNOMOS n pl NOMOIlawNONA n pl NONASa virus diseaseNONACID n pl NONACIDSa substance that is not an acidNONACTOR n pl NONACTORSa person who is not an actorNONADULT n pl NONADULTSa person who is not an adultNONAGE n pl NONAGESa period of immaturityNONAGON n pl NONAGONSa ninesided polygonNONANE n pl NONANESa colorless liquid hydrocarbonNONART n pl NONARTSsomething that is not artNONARY n pl NONARIESa group of nineNONBANK n pl NONBANKSa business that is not a bankNONBASIC adj not basicNONBEING n pl NONBEINGSlack of beingNONBLACK n pl NONBLACKSone that is not blackNONBODY n pl NONBODIESa persons nonphysical natureNONBOOK n pl NONBOOKSa book of little literary meritNONBRAND adj lacking a brand nameNONCASH adj other than cashNONCE n pl NONCESthe present occasionNONCLASS n pl NONCLASSESa lack of classNONCLING adj not clingingNONCOLA n pl NONCOLASa beverage that is not a colaNONCOLOR n pl NONCOLORSa lack of colorNONCOM n pl NONCOMSa noncommissioned officerNONCORE adj not being in or relating to a central partNONCOUNT adj not capable of being countedNONCRIME n pl NONCRIMESsomething that is not a crimeNONDAIRY adj having no milk productsNONDANCE n pl NONDANCESan unrhythmic danceNONDRIP adj that does not dripNONDRUG adj not involving drugsNONE n pl NONESone of seven canonical daily periods for prayer and devotionNONEGO n pl NONEGOSall that is not part of the egoNONELECT adj not chosenNONELITE adj not belonging to an elite groupNONEMPTY adj not emptyNONENTRY n pl NONENTRIESthe fact of not enteringNONEQUAL n pl NONEQUALSone that is not equalNONESUCH n pl NONESUCHESa person or thing without an equalNONET n pl NONETSa composition for nine instruments or voicesNONEVENT n pl NONEVENTSan expected event that does not occurNONFACT n pl NONFACTSa statement not based on factNONFAN n pl NONFANSa person who is not a fan an enthusiastNONFARM adj not pertaining to the farmNONFAT adj having no fat solidsNONFATAL adj not fatalNONFATTY adj not fattyNONFINAL adj not being the lastNONFLUID n pl NONFLUIDSa substance that is not a fluidNONFOCAL adj not focalNONFOOD adj pertaining to something other than foodNONFUEL adj not used as a fuelNONGAME adj not hunted for food sport or furNONGAY n pl NONGAYSa person who is not a homosexualNONGLARE n pl NONGLARESa lack of glare harsh brilliant lightNONGREEN adj not greenNONGUEST n pl NONGUESTSone who is not a guestNONGUILT n pl NONGUILTSthe absence of guiltNONHARDY adj not hardyNONHEME adj not containing iron that is bound like that of hemeNONHERO n pl NONHEROESan antiheroNONHOME adj not taking place in the homeNONHUMAN n pl NONHUMANSone that is not a humanNONIDEAL adj not idealNONIMAGE n pl NONIMAGESone having no celebrity statusNONINERT adj not inactiveNONIONIC adj not ionicNONIRON adj not needing to be ironedNONISSUE n pl NONISSUESa topic that is not controversialNONJUROR n pl NONJURORSone who refuses to take a required oathNONJURY n pl NONJURIESa case not involving a juryNONLABOR adj not pertaining to laborNONLEAFY adj not having leavesNONLEGAL adj not legalNONLEVEL adj not flat or evenNONLIFE n pl NONLIVESthe absence of lifeNONLOCAL n pl NONLOCALSone that is not localNONLOYAL adj not loyalNONLYRIC adj not lyricalNONMAJOR n pl NONMAJORSa student who is not majoring in a specified subjectNONMAN n pl NONMENa being that is not a manNONMEAT adj not containing meatNONMETAL n pl NONMETALSan element that lacks metallic propertiesNONMETRO adj not metropolitanNONMODAL adj not modalNONMONEY adj not involving moneyNONMORAL adj not pertaining to moralsNONMUSIC n pl NONMUSICSinferior musicNONNASAL adj not involving the noseNONNAVAL adj not navalNONNEWS adj not being newsNONNOBLE adj not nobleNONNOVEL n pl NONNOVELSa literary work that is not a novelNONOBESE adj not obeseNONOHMIC adj not measured in ohmsNONOILY adj not oilyNONORAL adj not involving the mouthNONOWNER n pl NONOWNERSone who is not the ownerNONPAGAN n pl NONPAGANSone who is not a paganNONPAID adj not paidNONPAPAL adj not papalNONPAR adj being a stock that has no face valueNONPARTY n pl NONPARTIESone not belonging to a partyNONPAST n pl NONPASTSa verb form that lacks an inflection for a past tenseNONPEAK adj being a time when something is not at its highest levelNONPLAY n pl NONPLAYSa theatrical work that is not a playNONPLUS v NONPLUSED NONPLUSING NONPLUSES or NONPLUSSED NONPLUSSING NONPLUSSESto baffleNONPOINT adj not occurring at a definite single siteNONPOLAR adj not polarNONPOOR adj not being poorNONPRINT adj not involving printed materialNONPROS v NONPROSSED NONPROSSING NONPROSSESto enter a judgment against a plaintiff who fails to prosecuteNONQUOTA adj not included in or subject to a quotaNONRATED adj not ratedNONRIGID adj not rigidNONRIVAL n pl NONRIVALSan unimportant rivalNONROYAL adj not royalNONRURAL adj not ruralNONSELF n pl NONSELVESforeign material in a bodyNONSENSE n pl NONSENSESbehavior or language that is meaningless or absurdNONSKED n pl NONSKEDSan airline without scheduled flying timesNONSKID adj designed to inhibit skiddingNONSKIER n pl NONSKIERSone that does not skiNONSLIP adj designed to prevent slippingNONSOLAR adj not solarNONSOLID n pl NONSOLIDSa substance that is not a solidNONSTICK adj allowing of easy removal of cooked food particlesNONSTOP n pl NONSTOPSa flight without a stop en routeNONSTORY n pl NONSTORIESan insignificant news storyNONSTYLE n pl NONSTYLESa style that is not identifiableNONSUCH n pl NONSUCHESnonesuchNONSUGAR n pl NONSUGARSa substance that is not a sugarNONSUIT v NONSUITED NONSUITING NONSUITSto dismiss the lawsuit ofNONTAX n pl NONTAXESa tax of little consequenceNONTIDAL adj not tidalNONTITLE adj pertaining to an athletic contest in which a title is not at stakeNONTONAL adj lacking tonalityNONTONIC adj not based on the first tone of a scaleNONTOXIC adj not toxicNONTRUMP adj not having a trumpNONTRUTH n pl NONTRUTHSsomething that is not trueNONUNION n pl NONUNIONSfailure of a broken bone to healNONUPLE n pl NONUPLESa number nine times as great as anotherNONURBAN adj not urbanNONUSE n pl NONUSESfailure to useNONUSER n pl NONUSERSone that is not a userNONUSING adj not usingNONVALID adj not validNONVIRAL adj not viralNONVITAL adj not vitalNONVOCAL n pl NONVOCALSone that does not involve the voiceNONVOTER n pl NONVOTERSone that does not voteNONWAGE adj not including or involving wages money paid for work or servicesNONWAR n pl NONWARSa war that is not officially declaredNONWHITE n pl NONWHITESa person who is not of the white raceNONWOODY adj not woodyNONWOOL adj not made of woolNONWORD n pl NONWORDSa word that has no meaningNONWORK adj not involving workNONWOVEN n pl NONWOVENSa fabric not made by weavingNONYL n pl NONYLSan alkyl radicalNONZERO adj having a value other than zeroNOO adv nowNOODGE v NOODGED NOODGING NOODGESto nagNOODLE v NOODLED NOODLING NOODLESto play idly on a musical instrumentNOODLING n pl NOODLINGSthe action of idly playing a musical instrumentNOOGIE n pl NOOGIESa playful rubbing of ones knuckles on anothers headNOOK n pl NOOKSa corner as in a roomNOOKLIKE adjNOON n pl NOONSmiddayNOONDAY n pl NOONDAYSnoonNOONER n pl NOONERSan event that occurs during the middle of the dayNOONING n pl NOONINGSa meal eaten at noonNOONTIDE n pl NOONTIDESnoonNOONTIME n pl NOONTIMESnoonNOOSE v NOOSED NOOSING NOOSESto secure with a type of loopNOOSER n pl NOOSERSone that noosesNOPAL n pl NOPALS or NOPALESa cactus of Mexico and Central AmericaNOPALITO n pl NOPALITOSthe stem of the nopal used as foodNOPE adv noNOPLACE adv not in or at any placeNOR conj and notNORDIC adj pertaining to crosscountry ski racing and ski jumpingNORI n pl NORISdried seaweed pressed into sheetsNORIA n pl NORIASa type of waterwheelNORITE n pl NORITESa granular rockNORITIC adjNORLAND n pl NORLANDSa region in the northNORM n pl NORMSa standard regarded as typical for a specific groupNORMAL n pl NORMALSthe usual or expected state or formNORMALCY n pl NORMALCIESconformity with the normNORMALLY adv as a rule usuallyNORMANDE adj prepared with foods associated with NormandyNORMED adj having a normNORMLESS adj having no normNORTENA n pl NORTENASa style of folk music of northern Mexico and TexasNORTENO n pl NORTENOSan inhabitant of northern MexicoNORTH n pl NORTHSa point of the compassNORTHER n pl NORTHERSa wind or storm from the northNORTHERN n pl NORTHERNSa person living in the northNORTHING n pl NORTHINGSmovement toward the northNOSE v NOSED NOSING NOSESto sniff with the nose the organ of smellNOSEBAG n pl NOSEBAGSa feedbagNOSEBAND n pl NOSEBANDSa part of a horses bridleNOSEDIVE v NOSEDIVED or NOSEDOVE NOSEDIVING NOSEDIVESto go into a sudden steep dropNOSEGAY n pl NOSEGAYSa bouquetNOSELESS adj having no noseNOSELIKE adj resembling a noseNOSEY adj NOSIER NOSIESTnosyNOSH v NOSHED NOSHING NOSHESto eat snacks between mealsNOSHER n pl NOSHERSone that noshesNOSIER comparative of nosyNOSIEST superlative of nosyNOSILY adv in a nosy mannerNOSINESS n pl NOSINESSESthe quality of being nosyNOSING n pl NOSINGSa projecting edgeNOSOLOGY n pl NOSOLOGIESa classification of diseasesNOSTOC n pl NOSTOCSa freshwater algaNOSTRIL n pl NOSTRILSan external opening of the noseNOSTRUM n pl NOSTRUMSa medicine of ones own inventionNOSY adj NOSIER NOSIESTunduly curiousNOT adv in no wayNOTA pl of notumNOTABLE n pl NOTABLESa person of distinctionNOTABLY adv in a distinguished mannerNOTAL adj pertaining to a notumNOTARIAL adj pertaining to a notaryNOTARISE v NOTARISED NOTARISING NOTARISESto notarizeNOTARIZE v NOTARIZED NOTARIZING NOTARIZESto certify through a notaryNOTARY n pl NOTARIESa public officer who certifies documentsNOTATE v NOTATED NOTATING NOTATESto put into notationNOTATION n pl NOTATIONSa system of symbolsNOTATOR n pl NOTATORSone that notatesNOTCH v NOTCHED NOTCHING NOTCHESto make an angular cut inNOTCHER n pl NOTCHERSone that notchesNOTCHY adj NOTCHIER NOTCHIESThaving angular cutsNOTE v NOTED NOTING NOTESto write downNOTEBOOK n pl NOTEBOOKSa book in which to writeNOTECARD n pl NOTECARDSa card used for sending short messagesNOTECASE n pl NOTECASESa billfoldNOTED past tense of noteNOTEDLY adv in a famous mannerNOTELESS adj undistinguishedNOTELET n pl NOTELETSa small sheet of paper for an informal letterNOTEPAD n pl NOTEPADSa number of sheets of paper glued together at one endNOTER n pl NOTERSone that notesNOTHER adj differentNOTHING n pl NOTHINGSthe absence of all quantity or magnitudeNOTICE v NOTICED NOTICING NOTICESto become aware ofNOTICER n pl NOTICERSone that noticesNOTIFIER n pl NOTIFIERSone that notifiesNOTIFY v NOTIFIED NOTIFYING NOTIFIESto informNOTING present participle of noteNOTION n pl NOTIONSa general ideaNOTIONAL adjNOTORNIS n pl NOTORNISa flightless birdNOTTURNO n pl NOTTURNIa nocturneNOTUM n pl NOTAa part of the thorax of an insectNOUGAT n pl NOUGATSa chewy candyNOUGHT n pl NOUGHTSnaughtNOUMENON n pl NOUMENAan object of intellectual intuitionNOUMENAL adjNOUN n pl NOUNSa word used to denote the name of somethingNOUNAL NOUNLESS adjNOUNALLY advNOURISH v NOURISHED NOURISHING NOURISHESto sustain with foodNOUS n pl NOUSESmind reason or intellectNOUVEAU adj newly arrived or developedNOUVELLE n pl NOUVELLESa style of French cookingNOVA n pl NOVAS or NOVAEa type of starNOVALIKE adjNOVATE v NOVATED NOVATING NOVATESto replace an old contract with a new oneNOVATION n pl NOVATIONSthe substitution of a new legal obligation for an old oneNOVEL n pl NOVELSa fictional prose narrativeNOVELISE v NOVELISED NOVELISING NOVELISESto novelizeNOVELIST n pl NOVELISTSa writer of novelsNOVELIZE v NOVELIZED NOVELIZING NOVELIZEsto put into the form of a novelNOVELLA n pl NOVELLAS or NOVELLEa short novelNOVELLY adv in a new or unusual mannerNOVELTY n pl NOVELTIESsomething new or unusualNOVENA n pl NOVENAS or NOVENAEa religious devotion lasting nine daysNOVERCAL adj pertaining to a stepmotherNOVICE n pl NOVICESa person new to any field or activityNOW n pl NOWSthe present timeNOWADAYS adv in these timesNOWAY adv in no wayNOWAYS adv nowayNOWHERE n pl NOWHERESa nonexistent placeNOWISE adv not at allNOWNESS n pl NOWNESSESthe state of existing at the present timeNOWT n pl NOWTSnaughtNOXIOUS adj harmful to healthNOYADE n pl NOYADESan execution by drowningNOYAU n pl NOYAUXa liqueur made of brandy and fruit kernelsNOZZLE n pl NOZZLESa projecting spoutNTH adj pertaining to an indefinitely large ordinal numberNU n pl NUSa Greek letterNUANCE v NUANCED NUANCING NUANCESto give a subtle shade of meaning toNUB n pl NUBSa protuberance or knobNUBBIER comparative of nubbyNUBBIEST superlative of nubbyNUBBIN n pl NUBBINSan undeveloped fruitNUBBLE n pl NUBBLESa small nubNUBBLY adj NUBBLIER NUBBLIESThaving nubblesNUBBY adj NUBBIER NUBBIESThaving nubsNUBIA n pl NUBIASa womans scarfNUBILE adj suitable for marriageNUBILITY n pl NUBILITIESthe quality of being nubileNUBILOSE adj nubilousNUBILOUS adj cloudyNUBUCK n pl NUBUCKSsoft sueded leatherNUCELLUS n pl NUCELLIthe essential part of a plant ovuleNUCELLAR adjNUCHA n pl NUCHAEthe nape of the neckNUCHAL n pl NUCHALSan anatomical part lying in the region of the napeNUCLEAL adj nuclearNUCLEAR adj pertaining to a nucleusNUCLEASE n pl NUCLEASESan enzymeNUCLEATE v NUCLEATED NUCLEATING NUCLEATESto form into a nucleusNUCLEI a pl of nucleusNUCLEIN n pl NUCLEINSa protein found in nucleiNUCLEOID n pl NUCLEOIDSthe DNAcontaining area of certain cellsNUCLEOLE n pl NUCLEOLESa part of a nucleusNUCLEOLI npl nucleolesNUCLEON n pl NUCLEONSa subatomic particleNUCLEUS n pl NUCLEUSES or NUCLEIan essential part of a cellNUCLIDE n pl NUCLIDESa species of atomNUCLIDIC adjNUDE adj NUDER NUDESTbeing without clothing or coveringNUDELY advNUDE n pl NUDESa nude figureNUDENESS n pl NUDENESSESnudityNUDGE v NUDGED NUDGING NUDGESto push gentlyNUDGER n pl NUDGERSone that nudgesNUDICAUL adj having leafless stemsNUDIE n pl NUDIESa movie featuring nude performersNUDISM n pl NUDISMSthe practice of going nudeNUDIST n pl NUDISTSan advocate of nudismNUDITY n pl NUDITIESthe state of being nudeNUDNICK n pl NUDNICKSnudnikNUDNIK n pl NUDNIKSan annoying personNUDZH v NUDZHED NUDZHING NUDZHESto noodgeNUFF n pl NUFFSenoughNUG n pl NUGSa chunk of wood sawn from a logNUGATORY adj having no powerNUGGET n pl NUGGETSa mass of solid matterNUGGETY adjNUISANCE n pl NUISANCESa source of annoyanceNUKE v NUKED NUKING NUKESto attack with nuclear weaponsNULL v NULLED NULLING NULLSto reduce to nothingNULLAH n pl NULLAHSa ravineNULLIFY v NULLIFIED NULLIFYING NULLIFIESto make useless or ineffectiveNULLITY n pl NULLITIESsomething of no legal forceNUMB adj NUMBER NUMBESTlacking sensationNUMB v NUMBED NUMBING NUMBSto make numbNUMBAT n pl NUMBATSa small Australian mammalNUMBER v NUMBERED NUMBERING NUMBERSto countNUMBERER n pl NUMBERERSone that numbersNUMBFISH n pl NUMBFISHESa fish capable of emitting electric shocksNUMBLES npl animal entrailsNUMBLY adv in a numb mannerNUMBNESS n pl NUMBNESSESthe state of being numbNUMCHUCK n pl NUMCHUCKSnunchakuNUMDAH n pl NUMDAHSan embroidered rug of IndiaNUMEN n pl NUMINAa deityNUMERACY n pl NUMERACIESthe ability to understand basic mathematicsNUMERAL n pl NUMERALSa symbol that expresses a numberNUMERARY adj pertaining to numbersNUMERATE v NUMERATED NUMERATING NUMERATESto countNUMERIC n pl NUMERICSa numeralNUMEROUS adj manyNUMINA pl of numenNUMINOUS adj supernaturalNUMMARY adj pertaining to coinsNUMMULAR adj shaped like a coinNUMMY adj NUMMIER NUMMIESTdeliciousNUMNAH n pl NUMNAHSa pad placed under a saddleNUMSKULL n pl NUMSKULLSa dunceNUN n pl NUNSa woman belonging to a religious orderNUNATAK n pl NUNATAKSa mountain peak completely surrounded by glacial iceNUNCHAKU n pl NUNCHAKUSa Japanese weaponNUNCHUK n pl NUNCHUKSnunchakuNUNCIO n pl NUNCIOSan ambassador from the popeNUNCLE n pl NUNCLESan uncleNUNLIKE adj resembling a nunNUNNERY n pl NUNNERIESa religious house for nunsNUNNISH adj of pertaining to or characteristic of a nunNUPTIAL n pl NUPTIALSa weddingNURD n pl NURDSnerdNURL v NURLED NURLING NURLSto knurlNURSE v NURSED NURSING NURSESto care for the sick or infirmNURSER n pl NURSERSa babys bottleNURSERY n pl NURSERIESa room for young childrenNURSING n pl NURSINGSthe profession of one who nursesNURSLING n pl NURSLINGSan infantNURTURAL adj pertaining to the process of nurturingNURTURE v NURTURED NURTURING NURTURESto nourishNURTURER n pl NURTURERSone that nurturesNUT v NUTTED NUTTING NUTSto gather nuts hardshelled dry fruitsNUTANT adj droopingNUTATE v NUTATED NUTATING NUTATESto exhibit nutationNUTATION n pl NUTATIONSan oscillatory movement of the axis of a rotating bodyNUTBAR n pl NUTBARSa bar made from chopped nutsNUTBROWN adj of a dark brownNUTCASE n pl NUTCASESa crazy personNUTGALL n pl NUTGALLSa gallnutNUTGRASS n pl NUTGRASSESa perennial herbNUTHATCH n pl NUTHATCHESa small birdNUTHOUSE n pl NUTHOUSESan insane asylumNUTLET n pl NUTLETSa small nutNUTLIKE adj resembling a nutNUTMEAT n pl NUTMEATSthe edible kernel of a nutNUTMEG n pl NUTMEGSan aromatic seed used as a spiceNUTMEGGY adjNUTPICK n pl NUTPICKSa device for extracting the kernels from nutsNUTRIA n pl NUTRIASthe coypuNUTRIENT n pl NUTRIENTSa nourishing substanceNUTSEDGE n pl NUTSEDGESnutgrassNUTSHELL n pl NUTSHELLSthe shell of a nutNUTSY adj NUTSIER NUTSIESTcrazyNUTTED past tense of nutNUTTER n pl NUTTERSone that gathers nutsNUTTING n pl NUTTINGSthe act of gathering nutsNUTTY adj NUTTIER NUTTIESTsilly crazyNUTTILY advNUTWOOD n pl NUTWOODSa nutbearing treeNUZZLE v NUZZLED NUZZLING NUZZLESto push with the noseNUZZLER n pl NUZZLERSone that nuzzlesNYAH interj  used to express contempt for anotherNYALA n pl NYALASan antelopeNYLGHAI n pl NYLGHAISnilgaiNYLGHAU n pl NYLGHAUSnilgaiNYLON n pl NYLONSa synthetic materialNYLONED adjNYMPH n pl NYMPHSa female spiritNYMPHAL NYMPHEAN adjNYMPH v NYMPHED NYMPHING NYMPHSto fish using a fly a hook with silk or feathers that looks like a larvaNYMPHA n pl NYMPHAEa fold of the vulvaNYMPHET n pl NYMPHETSa young nymphNYMPHO n pl NYMPHOSa woman obsessed by sexual desireNYSTATIN n pl NYSTATINSan antibiotic").
+entry(oaf, n, [oafs], "hoặc OAVESmột người vụng về ngu ngốcOAFISH tính từOAFISHLY trạng từ").
+entry(sồi, n, [sồi], "một loại cây thân gỗ cứng hoặc cây bụiSỒI SỒI adj").
+entry(oaked, adj, [], "được ủ trong thùng gỗ sồi").
+entry(oakiness, n, [oakinesses], "chất lượng hoặc trạng thái của sự có gỗ sồi").
+entry(rêu sồi, n, [rêu sồi], "một loại địa y mọc trên cây sồi").
+entry(oakum, n, [oakums], "sợi gai dầu xoắn lỏng lẻo").
+entry(oaky, adj, [], "OAKIER OAKIESTnếm như nhựa sồi").
+entry(mái chèo, v, [chèo, đang chèo, các mái chèo], "để đẩy bằng mái chèo, những chiếc sáo dài có lá bản rộng").
+entry(cá_rồng, n, [cá_rồng], "một loài cá biển").
+entry(oarless, adj, [], "không có mái chèo").
+entry(oarlike, adj, [], "giống như một mái chèo").
+entry(oarlock, n, [oarlocks], "một thiết bị giữ chèo tại chỗ").
+entry(người chèo thuyền, n, [những người chèo thuyền], "người chèo thuyền trên thuyền").
+entry(ốc đảo, n, [các ốc đảo], "một khu vực xanh ở vùng sa mạc").
+entry(oast, n, [oasts], "một loại lò nung").
+entry(yến_mạch, n, [yến_mạch], "một loại cỏ ngũ cốc").
+entry(bánh yến mạch, n, [bánh yến mạch], "một loại bánh làm từ bột yến mạch").
+entry(oaten, adj, [], "liên quan đến yến mạch").
+entry(oater, n, [oaters], "một bộ phim cao bồi").
+entry(oath, n, [oaths], "một tuyên bố hoặc hứa chính thức để thực hiện một cam kết").
+entry(oatlike, adj, [], "giống như yến mạch").
+entry(cháo yến mạch, n, [cháo yến mạch], "bữa ăn làm từ yến mạch").
+entry(oaty, adj, [], "CÓ VỊ HOẶC MÙI NHƯ YẾN MẠCH NHẤT").
+entry(oaves, a, [], "số nhiều của oaf").
+entry(oba, n, [obas], "một thủ lĩnh cha truyền con nối ở Benin và Nigeria").
+entry(obconic, adj, [], "hình nón với đỉnh ở dưới").
+entry(obduracy, n, [obduracies], "tính chất hoặc trường hợp ngoan cố").
+entry(obdurate, adj, [], "bướng bỉnh").
+entry(obe, n, [obes], "obeah").
+entry(obeah, n, [obeahs], "một hình thức ma thuật có nguồn gốc từ châu Phi").
+entry(obeahism, n, [obeahisms], "sự sử dụng của phép phù thủy obeah").
+entry(vâng lời, adj, [], "tuân thủ hoặc sẵn sàng tuân thủ").
+entry(khiêm nhường, adj, [], "thể hiện sự tôn kính hoặc tôn trọng").
+entry(obeli, pl, [], "thuộc về dấu obelus").
+entry(obelia, n, [obelias], "một loài thuỷ tức biển").
+entry(obelise, v, [obelised,obelising,obelises], "obelize").
+entry(obelisk, n, [obelisk], "một cột đá bốn mặt có đỉnh hình chóp").
+entry(obelism, n, [obelisms], "hành động ghi dấu obelus").
+entry(obelize, v, [obelized,obelizing,obelizes], "đánh dấu bằng một dấu obelus").
+entry(obelus, n, [obeli], "một ký hiệu được sử dụng trong các bản thảo cổ để chỉ ra một đoạn văn đáng ngờ").
+entry(obento, n, [obentos], "một bữa ăn Nhật Bản được đóng gói trong hộp").
+entry(obese, adj, [], "rất béoOBESELY adv").
+entry(béo phì, n, [tình trạng béo phì], "trạng thái hoặc điều kiện của việc bị béo phì").
+entry(tuân_theo, v, [tuân_theo,đang_tuân_theo,tuân_theo], "để theo dõi các mệnh lệnh hoặc hướng dẫn của\n\nOBEYABLE adj").
+entry(obeyer, n, [obeyers], "người tuân lệnh").
+entry(obi, n, [obis], "obeah").
+entry(obia, n, [obias], "obeah").
+entry(obiism, n, [obiisms], "thuyết obeah").
+entry(cáo_phó, n, [các_bản_cáo_phó], "một bản cáo phó").
+entry(cáo_phó, n, [cáo_phó], "một thông báo về cái chết được đăng tải").
+entry(object, v, [bị_phản_đối,đang_phản_đối,phản_đối], "tranh luận ngược lại").
+entry(objector, n, [người_phản_đối], "một người phản đối").
+entry(objet, n, [đồ vật], "một tác phẩm có giá trị nghệ thuật").
+mục(oblast, n, [oblasts], "hoặc OBLAST, một đơn vị hành chính của Nga").
+entry(oblate, n, [oblates], "một giáo dân sống trong một tu viện").
+entry(bẹp, adv, [], "hình elip").
+entry(sự dâng hiến, n, [các sự dâng hiến], "hành động làm một lễ vật tôn giáoOBLATORY adj").
+entry(bắt_buộc, v, [bị_bắt_buộc,đang_bắt_buộc,bắt_buộc], "để bắt buộc").
+entry(obligato, n, [obligatos], "phần âm nhạc quan trọng OBLIGATI").
+entry(oblige, v, [obliged,obliging,obliges], "để đặt ai đó vào tình trạng nợ nần nhờ một ân huệ hoặc dịch vụ").
+entry(người_bị_buộc, n, [những_người_bị_buộc], "một người có nghĩa vụ").
+entry(obliger, n, [obligers], "một người bắt buộc").
+entry(obliging, hiện tại, [], "phân từ của oblige").
+entry(obligor, n, [người chịu trách nhiệm], "người đặt mình dưới một nghĩa vụ pháp lý").
+entry(xiên, v, [xuyênxiên,đangxiên,xiêns], "làm nghiêng").
+entry(lãng_quên, n, [lãng_quêns], "tình trạng bị lãng quên hành động quên").
+entry(oblong, n, [oblongs], "một vật gì đó có hình chữ nhật dài").
+entry(oblongly, adv, [], "theo kiểu hình chữ nhật thuôn dài").
+entry(obloquy, n, [obloquies], "ngôn ngữ lạm dụng").
+entry(kèn ô-boa, n, [các kèn ô-boa], "một loại nhạc cụ hơi bằng gỗ").
+entry(nghệ sĩ oboe, n, [các nghệ sĩ oboe], "người chơi kèn oboe").
+entry(obol, n, [obols], "một đồng xu của Hy Lạp cổ đại").
+entry(obole, n, [oboles], "một đồng tiền của Pháp thời trung cổ").
+entry(obolus, n, [oboli], "một obol").
+entry(obovate, adj, [], "hình trứng ngược với đầu hẹp ở đáy").
+entry(obovoid, adj, [], "hình bầu dục với đầu hẹp ở đế").
+entry(tục tĩu, adj, [], "TỤC TĨU TỤC TĨU NHẤTkhông đứng đắn").
+entry(không_rõ_ràng, adj, [], "KHÔNG_RÕ_RÀNG_HƠN KHÔNG_RÕ_RÀNG_NHẤTdịu hoặc không rõ ràng").
+entry(làm_mờ, v, [đã_làm_mờ,đang_làm_mờ,làm_mờ], "làm cho mờ").
+mục(lễ_tang, d, [các_nghi_lễ_tang], "một nghi lễ tang").
+entry(quan_sat, v, [đã_quan_sat, đang_quan_sat, quan_sat], "nhìn kỹ lưỡng").
+entry(observer, n, [người_quan_sát], "một người quan sát").
+entry(obsess, v, [obsessed,obsessing,obsesses], "chiếm hữu tâm trí của").
+mục(obsessor, n, [obsessors], "một thứ gì đó ám ảnh").
+entry(obsidian, n, [obsidians], "một loại kính núi lửa").
+entry(lỗi thời, v, [làm lỗi thời, đang lỗi thời, lỗi thời], "làm cho lỗi thời").
+đầu_vào(chướng_ngại_vật, n, [chướng_ngại_vật], "một cái gì đó cản trở").
+entry(cản trở, v, [bị_cản_trở,đang_cản_trở,cản_trở], "cản đường").
+entry(thu_được, v, [đã_thu_được,đang_thu_được,thu_được], "để sở hữu").
+entry(obtainer, n, [người_nhận], "một người mà nhận được").
+entry(obtect, adj, [], "được bao phủ bởi một lớp tiết chất đã cứng lại").
+entry(obtected, adj, [], "obtect").
+entry(obtest, v, [obtested,obtesting,obtests], "cầu xin").
+entry(chen vào, v, [chen vào, chen vào, chen vào], "đẩy về phía trước").
+entry(kẻ xâm nhập, n, [những kẻ xâm nhập], "người mà can thiệp").
+entry(obtund, v, [obtunded,obtunding,obtunds], "làm giảm đi").
+entry(bịt kín, v, [đã bịt kín,đang bịt kín,bịt kín], "để đóng hoặc chặn lại").
+entry(obtuse, adj, [], "OBTUSER OBTUSESTdullOBTUSELY adv").
+entry(obtusity, n, [obtusities], "trạng thái của việc ngu dốt").
+entry(obverse, n, [obverses], "mặt của đồng xu mang thiết kế chính").
+entry(obvert, v, [obverted,obverting,obverts], "xoay để hiển thị một bề mặt khác").
+entry(obviate, v, [đã_tránh,đang_tránh,tránh], "để ngăn ngừa hoặc loại bỏ bằng các biện pháp hiệu quảOBVIABLE adj").
+entry(obviator, n, [obviators], "người ngăn ngừa").
+entry(rõ ràng, adj, [], "dễ dàng nhận biết hoặc hiểu rõ").
+entry(obvolute, adj, [], "cuộn lại hoặc xoay tròn").
+entry(oca, n, [ocas], "một loại thảo mộc Nam Mỹ").
+entry(ocarina, n, [ocarinas], "một nhạc cụ hơi").
+entry(dịp, v, [nguyên_nhân, gây_ra, dịp], "gây ra").
+entry(phương_tây, n, [phương_tâys], "phương tây").
+entry(occiput, n, [occiputs], "hoặc OCCIPITA phần phía sau của hộp sọ").
+entry(occlude, v, [occluded,occluding,occludes], "để đóng lại hoặc ngăn chặn").
+entry(occlusal, adj, [], "thuộc về bề mặt cắn của răng").
+entry(occult, v, [occulted,occulting,occults], "che giấu").
+entry(occulter, n, [occulters], "một cái che khuất").
+entry(occultly, adv, [], "bí mật").
+entry(người_cư_ngụ, n, [những_người_cư_ngụ], "một cư dân").
+entry(người ở, n, [những người ở], "một người chiếm đóng").
+entry(chiếm, v, [chiếm đóng, đang chiếm đóng, chiếm], "để thu hút sự chú ý hoặc năng lượng của").
+entry(xảy ra, v, [đã xảy ra,đang xảy ra,xảy ra], "diễn ra").
+entry(đại_dương, n, [đại_dương], "khối nước mặn rộng lớn bao phủ phần lớn bề mặt trái đất,ĐẠI_DƯƠNG adj").
+entry(oceanaut, n, [oceanauts], "một nhà thám hiểm dưới nước").
+entry(ocellar, adj, [], "liên quan đến mắt đơn").
+entry(ocellate, adj, [], "có đốm mắt").
+entry(ocellus, n, [ocelli], "mắt đơn giản nhỏ").
+entry(ocelot, n, [ocelots], "một loại mèo hoang dã của Mỹ OCELOID adj").
+entry(och, interj, [], "được sử dụng để thể hiện sự ngạc nhiên hoặc tiếc nuối").
+entry(oche, n, [oches], "một vạch mà người chơi đứng sau khi ném phi tiêu").
+entry(ocher, v, [ochered,ochering,ochers], "để nhuộm màu với ôxít sắt đỏ hoặc vàng được sử dụng làm chất tạo màu").
+entry(ocherish, adj, [], "giống như đất vàng").
+entry(ocheroid, adj, [], "màu vàng đất").
+entry(ocherous, adj, [], "chứa hoặc giống như đất son").
+entry(ochery, adj, [], "màu vàng đất").
+entry(ochone, interj, [], "được dùng để bày tỏ nỗi buồn").
+mục(ochre, v, [ochred, ochring, ochres], "để nhuộm màu đất son").
+entry(ochrea, n, [ochreae], "hoặc OCHREASocrea").
+entry(ochreous, adj, [], "màu đất son").
+entry(ochring, hiện tại, [], "phân từ của ochre").
+entry(ochroid, adj, [], "có màu đất son").
+entry(ochrous, adj, [], "màu đất son").
+entry(ochry, adj, [], "có màu vàng đất").
+entry(ocicat, n, [ocicat], "một loài mèo nhà có bộ lông ngắn và đốm").
+entry(ocker, n, [những ocker], "một người thô lỗ").
+entry(ocotillo, n, [ocotillos], "một loại cây bụi Mexico").
+entry(ocrea, n, [ocreae], "hoặc OCREASa một phần thực vật có hình bao").
+entry(ocreate, adj, [], "có ocreae").
+entry(octad, n, [octads], "một nhóm gồm támOCTADIC adj").
+entry(octagon, n, [hình\ bát \ giác], "một \ đa \ giác \ tám \ cạnh").
+entry(số_bát_phân, adj, [], "liên quan đến hệ thống số có cơ số tám").
+entry(octan, n, [octans], "một cơn sốt tái phát vào ngày thứ tám").
+entry(octane, n, [octanes], "một hydrocarbon lỏng").
+entry(hình_tám_góc, n, [hình_tám_góc], "một hình bát giác").
+entry(octanol, n, [octanols], "một loại rượu").
+entry(octant, n, [các phần tám], "một phần tám của một vòng trònOCTANTAL adj").
+entry(octarchy, n, [octarchies], "một chính phủ do tám người điều hành").
+entry(octave, n, [quãng tám], "một loại quảng âm nhạcOCTAVAL adj").
+entry(octavo, n, [octavos], "một kích thước trang").
+mục(octet, n, [octets], "một nhóm tám").
+entry(octette, n, [octettes], "bát giác").
+entry(octonary, n, [octonaries], "một khổ thơ gồm tám dòng").
+entry(bạch_tuộc, n, [bạch_tuộc_nhiều_con], "bất kỳ loài nào trong bộ động vật thân mềm có tám xúc tu").
+entry(octopoid, adj, [], "giống như một con bạch tuộc").
+entry(con-mực, n, [con-mực], "hoặc là OCTOPI hoặc là OCTOPODES loại mực hoạt động về đêm").
+entry(octoroon, n, [octoroons], "một người có một phần tám tổ tiên là người da đen").
+entry(octroi, n, [octrois], "một loại thuế đối với một số mặt hàng được đưa vào thành phố").
+entry(octuple, v, [octupled,octupling,octuples], "nhân với tám").
+entry(octuplet, n, [octuplets], "một nhóm tám mục liên quan").
+entry(octuplex, adj, [], "lớn gấp tám lần").
+entry(octupling, hiện tại, [], "phân từ của octuple").
+entry(octuply, adv, [], "gấp tám lần mức độ").
+entry(octyl, n, [octyls], "một gốc đơn hóa trị").
+entry(ocular, n, [kính mắt], "một thị kính").
+entry(ocularly, adv, [], "bằng mắt hoặc tầm nhìn").
+entry(oculist, n, [oculists], "một bác sĩ chuyên điều trị các bệnh về mắt").
+entry(oculus, n, [oculi], "một cửa sổ tròn").
+entry(od, n, [ods], "một lực lượng giả định của sức mạnh tự nhiên").
+entry(oda, n, [odas], "một căn phòng trong hậu cung").
+entry(odah, n, [odahs], "oda").
+entry(odalisk, n, [odalisks], "nô lệ nữ trong hậu cung").
+entry(lẻ, adj, [], "KHÁC THƯỜNG").
+entry(odd, n, [odds], "một cái là lẻ").
+entry(oddball, n, [oddballs], "một người lập dị").
+entry(oddish, adj, [], "hơi kỳ lạ").
+entry(lập dị, n, [những điều lập dị], "một điều gì đó là lạ").
+entry(oddly, adv, [], "một cách kỳ lạ").
+entry(linh_tinh, n, [linh_tinh], "một phần thừa").
+entry(sự_kỳ_lạ, n, [sự_kỳ_lạ], "trạng thái của việc kỳ lạ").
+entry(ode, n, [odes], "một bài thơ trữ tình").
+entry(odeon, n, [odeons], "odeum").
+entry(odeum, n, [odeums], "hoặc ODEA, nhà hát hoặc khán phòng hòa nhạc").
+entry(odic, adj, [], "liên quan đến một bài thơ ca ngợi").
+entry(đáng ghét, adj, [], "đáng ghét hoặc gây ra sự căm ghétMỘT CÁCH ĐÁNG GHÉT adv").
+entry(odist, n, [odists], "người viết thơ ca ngợi").
+entry(odium, n, [odiums], "sự thù ghét").
+entry(odograph, n, [odographs], "một loại đồng hồ đo đường").
+mục(đồng hồ km, n, [đồng hồ km], "một thiết bị để đo khoảng cách đã đi").
+entry(odometry, n, [odometries], "quá trình sử dụng đồng hồ đo quãng đường").
+entry(odonata, npl, [], "côn trùng trong một bộ côn trùng săn mồi").
+entry(odonate, n, [odonates], "bất kỳ loài côn trùng săn mồi nào thuộc bộ côn trùng").
+entry(odontoid, n, [odontoids], "một phần nhô ra của đốt sống giống như răng").
+entry(mùi, n, [mùi], "đặc tính của một chất ảnh hưởng đến khứu giácODORED ODORFUL adj").
+entry(hợp_chất_tạo_mùi, n, [các_hợp_chất_tạo_mùi], "một chất có mùi").
+entry(odorize, v, [odorized,odorizing,odorizes], "làm cho có mùi").
+entry(chất_tạo_mùi, n, [chất_tạo_mùi], "một cái để tạo mùi").
+entry(không_mùi, adj, [], "không có mùi").
+entry(có_mùi, adj, [], "có một mùi").
+entry(mùi, n, [mùi_hương], "mùiMÙI THƠM adj").
+entry(odyl, n, [odyls], "một od").
+entry(odyle, n, [odyles], "odyl").
+entry(odyssey, n, [odysseys], "một cuộc hành trình dài lang thang ODYSSEAN adj").
+entry(oe, n, [oes], "lốc xoáy ngoài khơi quần đảo Faeroe").
+entry(sinh_thai_hoc, n, [cac_sinh_thai_hoc], "sinh thái học").
+entry(phù, n, [phù], "hoặc OEDMATAphù").
+entry(oedipal, adj, [], "liên quan đến cảm giác ham muốn tính dục ở trẻ em đối với cha mẹ khác giới").
+entry(oedipean, adj, [], "oedipal").
+entry(oeillade, n, [oeillades], "một cái nhìn tình tứ").
+entry(oenology, n, [oenologies], "nghiên cứu về rượu vang").
+mục(oenomel, n, [oenomels], "một loại đồ uống Hy Lạp cổ đại làm từ rượu và mật ong").
+entry(oersted, n, [oersteds], "một đơn vị cường độ từ trường").
+entry(oestrin, n, [oestrins], "estrin").
+entry(oestriol, n, [oestriols], "estriol").
+entry(oestrone, n, [oestrones], "estrone").
+entry(oestrous, adj, [], "động dục").
+entry(oestrual, adj, [], "estrual").
+entry(oestrum, n, [oestrums], "estrum").
+entry(oestrus, n, [oestruses], "động dục").
+entry(tac_pham_nghe_thuat, n, [tac_pham_nghe_thuat], "một tác phẩm nghệ thuật").
+entry(of, prep, [], "đến từ").
+entry(off, v, [offed,offing,offs], "rời đi").
+entry(nội_tạng, n, [nội_tạng], "chất thải").
+entry(offbeat, n, [offbeats], "một phách không được nhấn mạnh trong một ô nhịp nhạc").
+entry(offcast, n, [offcasts], "một vật bị loại bỏ").
+entry(offcut, n, [phần_cắt_thừa], "cái gì đó bị cắt ra").
+entry(offence, n, [offences], "tội").
+entry(xúc phạm, v, [xúc phạm rồi, đang xúc phạm, xúc phạm], "phạm lỗi").
+entry(offender, n, [những kẻ phạm tội], "một người vi phạm").
+entry(vi phạm, n, [các vi phạm], "một sự vi phạm quy tắc đạo đức hoặc xã hội").
+entry(offer, v, [đã đề nghị,đang đề nghị,đề nghị], "trình bày để chấp nhận hoặc từ chối").
+entry(offeree, n, [người nhận chào hàng], "một người mà một chào hàng được thực hiện đến").
+entry(offerer, n, [offerers], "người đưa ra lời đề nghị").
+entry(offering, n, [lời đề nghị], "một sự đóng góp").
+entry(offeror, n, [người cung cấp], "người đưa ra đề nghị").
+entry(offhand, adv, [], "không chuẩn bị trước").
+entry(văn_phòng, n, [các_văn_phòng], "một vị trí quyền lực").
+entry(officer, v, [officered,officering,officers], "trang bị cho những người giữ chức quyền").
+entry(chính_thức, n, [các_chính_thức], "người nắm giữ một vị trí quyền lực").
+entry(offing, n, [offings], "tương lai gần").
+entry(offish, adj, [], "lạnh lùngOFFISHLY adv").
+entry(offkey, adj, [], "cao hơn hoặc thấp hơn âm nhạc đúng").
+entry(ngoại_tuyến, tính_từ, [], "không kết nối với mạng máy tính").
+entry(offload, v, [offloaded,offloading,offloads], "để dỡ hàng").
+entry(tái bản, v, [đã tái bản,đang tái bản,tái bản], "in lại một đoạn trích").
+entry(offramp, n, [đường nhánh], "một con đường dẫn ra khỏi đường cao tốc").
+entry(offset, v, [offset, offsetting, offsets], "để bù đắp cho").
+entry(chồi, n, [chồi], "một chồi ngang từ thân chính").
+entry(offshore, n, [offshores], "một khu vực đất chìm khỏi bờ biển").
+entry(việt_vị, n, [việt_vị], "một pha bóng không hợp lệ trong bóng đá").
+entry(offstage, n, [offstages], "một phần của sân khấu không nhìn thấy khán giả").
+entry(offtrack, adj, [], "xa khỏi đường đua").
+entry(oft, adv, [], "THƯỜNG THƯỜNG XUYÊN").
+entry(thường, adv, [], "OFTENER OFTENESTfrequently").
+entry(ofttimes, adv, [], "thường xuyên").
+entry(ogam, n, [ogams], "ogham").
+entry(ogdoad, n, [ogdoads], "một nhóm tám người").
+entry(ogee, n, [ogees], "một loại gờ hình chữ SOGEED adj").
+entry(ogham, n, [oghams], "một bảng chữ cái tiếng Ireland cổ OGHAMIC adj").
+entry(oghamist, n, [oghamists], "một người viết bằng chữ Ogham").
+entry(ogive, n, [ogives], "một vòm nhọnOGIVAL adj").
+mục(ogle, v, [ogled, ogling, ogles], "nhìn chằm chằm vào").
+entry(người_nhìn_trộm, n, [người_nhìn_trộm], "người nhìn trộm").
+entry(ogre, n, [ogres], "một con quái vật").
+entry(ogreish, adj, [], "giống yêu tinh").
+entry(ogreism, n, [ogreisms], "trạng thái của việc giống như một con yêu tinh").
+entry(yêu tinh nữ, n, [yêu tinh nữ], "một con quỷ cái").
+entry(ogrish, adj, [], "ogreishOGRISHLY adv").
+entry(ogrism, n, [ogrisms], "yêu tinh giáo").
+entry(oh, v, [ohed,ohing,ohs], "để thốt lên trong ngạc nhiên, đau đớn hoặc ham muốn").
+entry(ohia, n, [ohias], "lehua").
+entry(ohm, n, [ohms], "một đơn vị điện trởOHMIC adj").
+entry(ohmage, n, [ohmages], "điện trở đo bằng ohm").
+entry(ohmmeter, n, [ohmmeters], "một dụng cụ để đo điện trở").
+entry(oho, interj, [], "được sử dụng để thể hiện sự ngạc nhiên hoặc vui mừng").
+entry(oi, thán từ, [], "oy").
+entry(oidium, n, [oidia], "một loại nấm").
+entry(oik, n, [oiks], "một người rất thô lỗ hoặc ngu ngốc").
+entry(dầu, v, [đã_dầu,đang_dầu,dầu], "để cung cấp dầu một chất lỏng nhờn sử dụng cho bôi trơn nhiên liệu hoặc chiếu sáng").
+entry(oilbird, n, [oilbirds], "một loài chim nhiệt đới").
+entry(oilcamp, n, [oilcamps], "khu vực sinh sống cho công nhân tại giếng dầu").
+entry(oilcan, n, [oilcans], "một cái bình dùng để bôi trơn dầu").
+entry(vải dầu, n, [vải dầu], "một loại vải không thấm nước").
+entry(oilcup, n, [oilcups], "một cái cốc kín để cung cấp chất bôi trơn").
+entry(oiler, n, [oilers], "một người bôi trơn").
+entry(mỏ dầu, n, [mỏ dầu], "một khu vực khai thác dầu mỏ").
+entry(oilhole, n, [oilholes], "một lỗ qua đó dầu bôi trơn được tiêm vào").
+entry(oilier, comparative, [], "của dầu").
+entry(oiliest, superlative, [], "của oily").
+entry(oilily, adv, [], "một cách nhờn").
+entry(tính_dầu, n, [những_tính_dầu], "trạng thái của sự nhờn").
+entry(oilman, n, [oilmen], "người sở hữu hoặc vận hành giếng dầu").
+entry(giấy dầu, n, [giấy_dầu], "một loại giấy chống nước").
+entry(oilproof, adj, [], "không thấm dầu").
+entry(hạt dầu, n, [hạt_dầu], "một loại hạt mà từ đó dầu được ép ra").
+mục(áo_dầu, n, [áo_dầu], "một loại vải chống thấm nước").
+entry(đá_mài, n, [đá_mài], "một loại đá để mài dụng cụ").
+entry(oiltight, adj, [], "khít dầu đến mức ngăn chặn dầu thấm qua").
+entry(oilway, n, [oilways], "một kênh dẫn để dầu đi qua").
+entry(nhờn, adj, [], "DẦU HƠN DẦU NHẤTđược bao phủ hoặc thấm dầu").
+entry(oink, v, [oinked, oinking, oinks], "thốt ra tiếng kêu tự nhiên của một con lợn").
+entry(oinology, n, [oinologies], "oenology").
+entry(oinomel, n, [oinomels], "oenomel").
+entry(ointment, n, [thuốc_mỡ], "một chất dạng nhão được bôi lên da như một loại thuốc hoặc mỹ phẩm").
+entry(oiticica, n, [oiticicas], "cây Nam Mỹ").
+entry(oka, n, [okas], "một đơn vị đo khối lượng của Thổ Nhĩ Kỳ").
+entry(hươu cao cổ Okapi, n, [hươu cao cổ Okapis], "một loài động vật nhai lại châu Phi").
+entry(okay, v, [được chấp thuận,đang chấp thuận,chấp thuận], "để phê duyệt").
+entry(oke, n, [okes], "oka").
+entry(okeh, n, [okehs], "sự chấp thuận").
+mục(okeydoke, adj, [], "hoàn toàn ổn").
+entry(đậu bắp, n, [đậu bắp], "một loại thảo mộc cao hàng năm").
+entry(cũ, tính_từ, [], "CŨ HƠN CŨ NHẤT hoặc GIÀ GIÀ NHẤT sống hoặc tồn tại trong một thời gian tương đối dài").
+mục(cũ, n, [cũs], "một cá nhân ở một độ tuổi cụ thể").
+entry(olde, adj, [], "cũ").
+entry(olden, adj, [], "thuộc về một thời đại đã qua").
+entry(oldie, n, [oldies], "một bài hát nổi tiếng của ngày xưa").
+entry(oldish, adj, [], "hơi cũ").
+entry(sự gìa, n, [sự gìa cỗi], "trạng thái của việc già").
+entry(oldsquaw, n, [oldsquaws], "một con vịt biển").
+entry(oldster, n, [oldsters], "một người già").
+entry(oldstyle, n, [oldstyles], "một kiểu phong cách in chữ").
+entry(oldwife, n, [oldwives], "một loại cá biển").
+entry(oldy, n, [oldies], "oldie").
+entry(ole, n, [oles], "một tiếng hò reo tán thành").
+entry(olea, pl, [], "của oleum").
+entry(oleander, n, [oleanders], "một loại cây bụi có hoa").
+mục(táo gai, n, [cây táo gai], "một loại cây bụi có hoa").
+entry(oleate, n, [oleates], "một loại muối hóa học").
+entry(olefin, n, [olefin], "một ankenOLEFINIC adj").
+entry(olefine, n, [olefines], "olefin").
+entry(oleic, adj, [], "liên quan đến dầu").
+entry(olein, n, [oleins], "phần chất lỏng của mỡ").
+entry(oleine, n, [oleines], "olein").
+entry(oleo, n, [oleos], "bơ thực vật").
+entry(olestra, n, [olestras], "một chất thay thế chất béo không có calo").
+entry(oleum, n, [oleums], "một chất lỏng ăn mòn").
+entry(oleum, n, [olea], "dầu").
+entry(olibanum, n, [nhũ hương], "một loại nhựa thơm").
+entry(olicook, n, [olicooks], "một chiếc bánh rán").
+entry(đầu sỏ, n, [đầu sỏs], "một người cai trị trong chính phủ của số ít").
+entry(oligomer, n, [oligomers], "một loại polyme").
+entry(thiểu niệu, n, [thiểu niệu], "sự bài tiết nước tiểu giảm THIỂU NIỆU adj").
+entry(olingo, n, [olingos], "một loài động vật có vú nhỏ ở Trung và Nam Mỹ").
+entry(olio, n, [olios], "một bộ sưu tập tạp nham").
+entry(olivary, adj, [], "có hình dạng giống quả ô liu").
+entry(olive, n, [quả ô liu], "loại quả hình bầu dục nhỏ của một cây ở Địa Trung Hải").
+entry(olivine, n, [olivines], "một khoáng vật OLIVIN adj").
+entry(olla, n, [ollas], "một loại nồi hoặc bình có miệng rộng").
+entry(ollie, v, [ollied,ollieing,ollies], "thực hiện một động tác trong trượt ván hoặc trượt tuyết").
+entry(ologist, n, [ologists], "một chuyên gia trong một ngành ology cụ thể").
+entry(ology, n, [ologies], "một nhánh của kiến thức").
+entry(oloroso, n, [olorosos], "một loại rượu sherry sẫm màu").
+entry(thế_vận_hội, n, [thế_vận_hội], "một lễ kỷ niệm của Thế vận hội").
+entry(om, n, [oms], "một câu thần chú được sử dụng trong sự trầm tư về thực tại tối thượng").
+entry(oma, n, [omas], "bà").
+entry(omadhaun, n, [amáins], "một người ngốc nghếch").
+entry(omasum, n, [omasa], "cái dạ cỏ thứ ba của động vật nhai lại").
+entry(omber, n, [ombers], "bóng râm").
+entry(ombre, n, [ombres], "một trò chơi bài").
+entry(omega, n, [omegas], "một chữ cái Hy Lạp").
+entry(trứng chiên, n, [trứng chiên], "một món ăn gồm trứng đánh tan được nấu chín và gập lại quanh một lớp nhân").
+entry(omelette, n, [omelettes], "trứng chiên").
+entry(điềm, v, [đã_điềm,đang_điềm,điềm], "là một điềm báo hiệu tiên tri của").
+entry(mạc_nối, n, [mạc_nối], "hay MẠC_NỐImột nếp gấp trong màng bụngMẠC_NỐI adj").
+entry(omer, n, [omers], "một đơn vị đo lường khô của người Do Thái").
+entry(omerta, n, [omertas], "một quy tắc im lặng về hoạt động tội phạm").
+entry(omicron, n, [omicrons], "một chữ cái Hy Lạp").
+entry(omikron, n, [omikrons], "omicron").
+entry(ominous, adj, [], "báo trước điều xấu").
+entry(sự thiếu sót, n, [sự thiếu sót], "một cái gì đó chưa được thực hiện").
+entry(omissive, adj, [], "được đánh dấu bởi sự bỏ sót").
+entry(bỏ qua, v, [bị bỏ qua, đang bỏ qua, bỏ qua], "để lại").
+entry(omitter, n, [omitters], "một cái bỏ sót").
+entry(omniarch, n, [omniarchs], "một vị vua toàn năng").
+entry(omnibus, n, [omnibuses], "hoặc OMNIBUSSESa xe buýt").
+entry(omnific, adj, [], "không giới hạn trong sức mạnh sáng tạo").
+entry(omniform, adj, [], "của mọi hình thức").
+entry(omnimode, adj, [], "của mọi chế độ").
+entry(omnivora, npl, [], "động vật ăn tạp").
+entry(động_vật_ăn_tạp, n, [các_động_vật_ăn_tạp], "một loài động vật ăn tất cả các loại thức ăn").
+entry(omophagy, n, [omophagies], "việc ăn thịt sống").
+entry(omphalos, n, [omphali], "hoặc OMPHALOI một điểm trung tâm").
+entry(on, n, [ons], "phía gậy mà người đánh bóng đứng trong môn cricket").
+entry(tê giác, n, [tê giác], "hay ONAGRIa lừa hoang dã của trung Á").
+entry(thủ dâm, n, [thủ_dâm], "giao hợp cố ý bị gián đoạn để ngăn ngừa thụ tinh").
+entry(onanist, n, [onanists], "người thủ dâm").
+entry(onboard, adj, [], "mang lên một phương tiện").
+entry(một_lần, trạng_từ, [], "một lần duy nhất").
+entry(oncet, adv, [], "một lần").
+entry(oncidium, n, [oncidiums], "một loại lan nhiệt đới").
+entry(oncogene, n, [oncogenes], "một gen làm cho tế bào trở thành ung thư").
+entry(ung thư học, n, [ung thư học], "khoa học về khối u").
+entry(oncoming, n, [oncomings], "một cách tiếp cận").
+entry(ondogram, n, [ondogram], "một đồ thị của các dạng sóng điện").
+entry(một, n, [một_số], "một con số").
+entry(onefold, adj, [], "cấu thành một toàn thể không chia cắt").
+entry(oneiric, adj, [], "liên quan đến giấc mơ").
+mục(oneness, n, [onenesses], "thống nhất").
+entry(nặng nề, adj, [], "gánh nặng hoặc áp bức").
+entry(onery, adj, [], "HÓNG HƠN HÓNG NHẤT").
+entry(chính_mình, đại_từ, [], "bản thân của một người").
+entry(onetime, adj, [], "trước đây").
+entry(tiến_hành, adj, [], "tiếp tục mà không bị gián đoạn").
+entry(hành, n, [hành], "củ ăn được của một loại thảo mộc được trồngHÀNH adj").
+entry(onium, adj, [], "đặc trưng bởi một cation phức tạp").
+entry(onlay, n, [onlays], "một thứ được đặt lên trên thứ khác").
+entry(onliest, adj, [], "duy nhất").
+entry(trực_tuyến, adj, [], "kết nối với một mạng máy tính").
+entry(onload, v, [onloaded,onloading,onloads], "tải một phương tiện hoặc container").
+entry(onlooker, n, [người xem], "một khán giả").
+entry(only, adv, [], "với không có gì hoặc không ai khác").
+entry(ono, n, [onos], "một loài cá thu lớn").
+entry(onomast, n, [onomasts], "một người nghiên cứu về tên riêng").
+đầu_vào(tấn_công, n, [tấn_công], "một sự lao tới hoặc dòng chảy về phía trước").
+entry(trên_màn_hình, adj, [], "được chiếu trên màn hình phim, truyền hình hoặc màn hình hiển thị").
+entry(sự khởi đầu, n, [sự khởi đầu], "sự bắt đầu").
+entry(onshore, adv, [], "về phía bờ").
+entry(onside, adj, [], "không việt vị").
+entry(onstage, adj, [], "ở trên sân khấu và có thể nhìn thấy bởi khán giả").
+entry(onstream, adv, [], "đưa vào sản xuất").
+entry(ontic, adj, [], "có sự tồn tại hoặc hiện hữu thực sự").
+entry(trên, prep, [], "đến vị trí trên").
+entry(ontogeny, n, [ontogenies], "sự phát triển của một sinh vật cá thể").
+entry(ontology, n, [ontologies], "nhánh triết học nghiên cứu về sự tồn tại").
+entry(onus, n, [onuses], "một gánh nặng hoặc trách nhiệm").
+entry(onward, adv, [], "hướng về phía trước hoặc phía trước").
+entry(onwards, adv, [], "hướng tới").
+entry(onyx, n, [onyxes], "một loại thạch anh").
+entry(oocyst, n, [oocysts], "một hợp tử").
+entry(oocyte, n, [oocytes], "một quả trứng trước khi trưởng thành").
+entry(oodles, n, [oodles], "một lượng lớn").
+entry(oodlins, n, [oodlins], "oodles").
+entry(oof, interj, [], "được dùng để thể hiện sự khó chịu").
+entry(oogamete, n, [oogametes], "một giao tử cái của một số loại động vật nguyên sinh").
+entry(oogamous, adj, [], "có giao tử không giống nhau về cấu trúc").
+mục(oogamy, n, [oogamies], "trạng thái của sự thụ tinh tiêu bản").
+entry(sự phát triển noãn, n, [sự phát triển noãn], "sự phát triển của tế bào trứng").
+entry(oogonium, n, [oogoniums], "hoặc OOGONIA, một cơ quan sinh dục nữ ở một số loài tảo và nấm. OOGONIAL adj").
+danh_mục(ooh, v, [oohed, oohing, oohs], "để thốt lên trong ngạc nhiên, vui mừng hoặc bất ngờ").
+entry(oolachan, n, [oolachans], "eulachon").
+entry(oolichan, n, [oolichans], "cá bạc đầu").
+entry(oolite, n, [oolites], "một loại đá vôiOOLITIC adj").
+entry(oolith, n, [ooliths], "oolite").
+entry(nhà-nghiên-cứu-trứng, n, [các-nhà-nghiên-cứu-trứng], "một chuyên gia trong lĩnh vực nghiên cứu trứng").
+entry(oology, n, [oologies], "nghiên cứu về trứng chimOOLOGIC adj").
+entry(oolong, n, [oolongs], "một loại trà đen Trung Quốc").
+entry(oomiac, n, [oomiacs], "umiak").
+entry(oomiack, n, [oomiacks], "umiak").
+entry(oomiak, n, [oomiaks], "umiắc").
+entry(oompah, v, [oompahed,oompahing,oompahs], "chơi điệp khúc âm trầm nhịp điệu lặp đi lặp lại").
+entry(oomph, n, [oomphs], "sức sống mãnh liệt").
+entry(oophyte, n, [oophytes], "một giai đoạn phát triển ở một số loài thực vật OOPHYTIC adj").
+entry(oops, interj, [], "được dùng để biểu thị lời xin lỗi nhẹ nhàng, ngạc nhiên hoặc thất vọng").
+entry(oorali, n, [ooralis], "curare").
+entry(oorie, adj, [], "ourie").
+entry(oosperm, n, [oosperms], "một trứng đã thụ tinh").
+entry(oosphere, n, [cầu quả], "một trứng chưa thụ tinh trong một bì sinh dục cái").
+entry(oospore, n, [bào tử noãn], "một trứng đã thụ tinh trong một bào noãnOOSPORIC tính từ").
+entry(oot, n, [oots], "ra").
+entry(ootheca, n, [oothecae], "vỏ trứng của một số loài côn trùng OOTHECAL adj").
+entry(ootid, n, [ootids], "một trong bốn phần mà trứng trưởng thành phân chia thành").
+entry(ooze, v, [oozed,oozing,oozes], "chảy ra hoặc rỉ ra một cách chậm rãi").
+entry(sự_rỉ_rả, n, [các_sự_rỉ_rả], "trạng thái bị rỉ rả").
+entry(oozy, adj, [], "NHỚP NHUỘT NHỚP NHUỘTCó hoặc giống với bùn mềm hoặc chất nhầyNHỚP NHUỘT adv").
+entry(op, n, [ops], "một phong cách nghệ thuật trừu tượng").
+entry(opa, n, [opas], "ông nội").
+entry(opacify, v, [opacified,opacifying,opacifies], "làm mờ").
+danh_mục(mờ_đục, danh_từ, [sự_mờ_đục], "cái gì đó không trong suốt").
+entry(opah, n, [opahs], "một loại cá biển").
+entry(opal, n, [đá mã não], "một loại khoáng sản").
+entry(opalesce, v, [opalesced,opalescing,opalesces], "tỏa ra ánh sáng lung linh của các màu sắc").
+entry(opaline, n, [opalines], "một loại thủy tinh trắng đục").
+entry(mờ, adj, [], "MỜ HƠN MỜ NHẤTkhông cho ánh sáng xuyên quangSỰ MỜ ĐI adv").
+entry(opaque, v, [opaqued, opaquing, opaques], "làm cho mờ").
+entry(ope, v, [oped,oping,opes], "mở").
+entry(mở, adj, [], "HỆ THỐNG MỞ NHẤT tạo điều kiện cho lối đi hoặc tầm nhìn không bị cản trở").
+entry(open, v, [mở,đang_mở,mở_ra], "khiến cho trở nên có thể mở được MỞ adj").
+entry(opencast, adj, [], "làm việc từ một bề mặt mở ra không khí").
+entry(opener, n, [openers], "thứ mở ra").
+mục(lối vào, n, [lối vào], "một không gian trống hoặc không bị chắn").
+entry(công_khai, adv, [], "một cách công khai").
+entry(openness, n, [opennesses], "trạng thái của việc mở").
+entry(openwork, n, [openworks], "công trình trang trí hoặc kết cấu chứa nhiều khe hở").
+entry(opera, n, [operas], "một hình thức kịch nghệ bằng âm nhạc").
+entry(có_thể_vận_hành, adj, [], "có_thể_sử_dụngADV operably").
+entry(toán_hạng, n, [toán_hạng], "một đại lượng mà phép toán toán học được thực hiện trên đó").
+entry(operant, n, [operants], "một cái gì đó hoạt động").
+entry(hoạt_động, v, [đã_hoạt_động,đang_hoạt_động,hoạt_động], "thực hiện một chức năng").
+entry(operatic, n, [nhạc kịch], "kỹ thuật dàn dựng opera").
+entry(operator, n, [operators], "một ký hiệu đại diện cho một hàm toán học").
+entry(opercele, n, [operceles], "nắp mang").
+entry(opercula, npl, [], "nắp mang").
+entry(nắp, n, [nắp], "một phần giải phẫu hoạt động như một nắp hoặc vỏ bọc").
+entry(operetta, n, [operettas], "một thể loại kịch nhạc nhẹ có đối thoại nói").
+entry(operon, n, [operons], "một loại cụm gen").
+entry(operose, adj, [], "liên quan đến công việc nặng nhọc").
+entry(xà tinh, n, [xà tinh], "một con rắn").
+entry(ophite, n, [ophites], "một loại đá mác ma màu xanh lốm đốmOPHITIC adj").
+entry(opiate, v, [opiated,opiating,opiates], "điều trị bằng thuốc phiện").
+entry(opine, v, [opined,opining,opines], "giữ hoặc phát biểu như một ý kiến").
+entry(oping, present, [], "phân từ của ope").
+entry(opinion, n, [ý kiến], "một kết luận hoặc phán đoán mà người ta tin là đúng").
+entry(opioid, n, [các opioid], "một loại peptide có tác dụng giống như thuốc phiện").
+entry(thuốc phiện, n, [các loại thuốc phiện], "một loại ma túy gây nghiện").
+mục(opiumism, n, [opiumisms], "nghiện thuốc phiện").
+entry(opopanax, n, [opopanaxes], "một loại nhựa có mùi mạnh").
+entry(opossum, n, [opossums], "một loài động vật có vú sống trên cây").
+entry(oppidan, n, [oppidans], "một người dân thị trấn").
+entry(oppilate, v, [oppilated,oppilating,oppilates], "để cản trởOPPILANT adj").
+entry(opponens, n, [opponens], "một cơ của ngón cái").
+nhập(đối_thủ, n, [các_đối_thủ], "người chống lại người khác").
+entry(phản_đối, v, [phản_đối,đang_phản_đối,phản_đối], "để đối lập hoặc xung đột với").
+entry(opposer, n, [opposers], "một người phản đối").
+entry(đối diện, n, [các mặt đối diện], "một cái gì đó khác biệt hoàn toàn với cái kia theo một cách nào đó liên quan").
+mục(oppress, v, [oppressed,oppressing,oppresses], "áp bức bằng việc lạm dụng quyền lực hoặc thẩm quyền").
+entry(oppugn, v, [oppugned,oppugning,oppugns], "tấn công bằng lý lẽ").
+entry(oppugner, n, [oppugners], "người chất vấn").
+entry(opsimath, n, [opsimaths], "một người chỉ học muộn trong đời").
+entry(opsin, n, [opsins], "một loại protein").
+entry(opsonic, adj, [], "thuộc về opsonin").
+entry(opsonify, v, [opsonified,opsonifying,opsonifies], "thực hiện quá trình opsonize").
+entry(opsonin, n, [opsonins], "một kháng thể của huyết thanh").
+entry(opsonise, v, [opsonised,opsonising,opsonises], "opsonize").
+entry(opsonize, v, [opsonized,opsonizing,opsonizes], "hình thành opsonin trong").
+entry(opt, v, [opted,opting,opts], "chọn lựa").
+entry(ước nguyện, n, [ước nguyện], "một thể của động từ biểu thị một điều ước hoặc mong muốn").
+entry(optic, n, [quang học], "một con mắt").
+entry(quang_học, adj, [], "liên quan đến thị giác").
+entry(chuyên_viên_kính_mắt, n, [các_chuyên_viên_kính_mắt], "người làm hoặc kinh doanh hàng quang học").
+entry(nhà quang học, n, [những nhà quang học], "người tham gia vào nghiên cứu ánh sáng và thị giác").
+entry(optima, a, [], "số nhiều của optimum").
+entry(tối ưu, adj, [], "mong muốn nhất").
+entry(optime, n, [optimes], "một sinh viên xuất sắc trong lĩnh vực toán học tại Đại học Cambridge").
+entry(tối_ưu_hóa, v, [đã_tối_ưu_hóa,đang_tối_ưu_hóa,tối_ưu_hóa], "để tối ưu hóa").
+entry(lạc_quan, n, [lạc_quans], "một thái độ nhìn vào mặt thuận lợi của sự việc").
+entry(lạc_quan, n, [những_người_lạc_quan], "người thể hiện sự lạc quan").
+entry(tối_ưu_hóa, v, [tối_ưu_hóa,đang_tối_ưu_hóa,tối_ưu_hóa], "để làm cho hoàn hảo hữu ích hoặc hiệu quả nhất có thể").
+entry(optimum, n, [tối_ưu_điểm], "hoặc OPTIMCác điều kiện thuận lợi nhất để đạt được kết quả mong muốn").
+nhập(option, v, [optioned,optioning,options], "trao quyền chọn để mua hoặc bán thứ gì đó với một mức giá cụ thể trong một khoảng thời gian cụ thể").
+entry(tự_chọn, n, [các_môn_tự_chọn], "một khóa học tự chọn trong chương trình học").
+entry(optionee, n, [những người nắm giữ quyền chọn], "người có quyền hợp pháp").
+entry(optronic, adj, [], "liên quan đến khoa học liên quan đến điện tử và ánh sáng").
+entry(sự giàu có, n, [sự giàu có], "sự giàu có").
+entry(opulency, n, [opulencies], "sự giàu có").
+entry(opulent, adj, [], "giàu có").
+entry(opuntia, n, [opuntias], "một loại xương rồng Mỹ").
+mục(opus, n, [opuses], "hoặc OPERA một tác phẩm văn học hoặc âm nhạc").
+entry(opuscula, npl, [], "opuscules").
+entry(tiểu phẩm, n, [tiểu phẩm], "một tác phẩm nhỏ").
+entry(oquassa, n, [oquassas], "một loại cá hồi hồ nhỏ").
+entry(hoặc, d, [các hoặc], "màu vàng huy hiệu").
+entry(ora, pl, [], "của hệ điều hành").
+entry(orach, n, [oraches], "một loại cây trồng").
+entry(cây rau muối, n, [cây rau muối], "cây rau muối").
+entry(oracle, n, [oracles], "một người mà một vị thần được tin là nói thông quaORACULAR adj").
+entry(oracy, n, [oracies], "kỹ năng biểu đạt và hiểu bằng lời nói").
+entry(orad, adv, [], "hướng về phía miệng").
+entry(thivanh, n, [thivanhs], "một kỳ thi yêu cầu trả lời bằng miệng").
+entry(oralism, n, [oralisms], "việc sử dụng phương pháp dạy người khiếm thính bằng lời nói").
+entry(oralist, n, [oralists], "một người ủng hộ chủ nghĩa nói").
+entry(tính truyện khẩu, n, [các tính truyện khẩu], "trạng thái được tạo ra bằng miệng").
+entry(bằng miệng, adv, [], "qua miệng").
+entry(orang, n, [orangs], "một loài vượn lớn").
+entry(cam, n, [quả_cam], "một loại trái cây họ cam quýt").
+entry(cam đường, n, [cam đường], "một nơi mà cây cam được trồng").
+entry(orangey, adj, [], "ORANGIER ORANGIESTorangy").
+entry(coin da cam, adj, [], "có màu hơi cam").
+entry(orangy, adj, [], "ORANGIER ORANGIESTtựa như hoặc gợi nhớ đến một quả cam").
+entry(orate, v, [orated,orating,orates], "nói một cách trang trọng").
+entry(bài_diễn_thuyết, n, [bài_diễn_thuyết], "một bài phát biểu chính thức").
+entry(orator, n, [các nhà hùng biện], "người diễn thuyết").
+mục(oratorio, n, [oratorios], "một loại sáng tác âm nhạc").
+entry(hùng biện, n, [hùng biện], "nghệ thuật diễn thuyết trước công chúng").
+entry(oratress, n, [oratresses], "oratrix").
+entry(oratrix, n, [oratrices], "một nữ diễn giả").
+entry(orature, n, [oratures], "các hình thức văn học truyền miệng như văn hóa dân gian").
+entry(orb, v, [orbed,orbing,orbs], "hình thành thành một vòng tròn hoặc hình cầu").
+entry(orbier, so sánh hơn, [], "của orby").
+entry(orbiest, so sánh nhất, [], "của orby").
+entry(quỹ đạo, v, [được quay quanh, quay quanh, quay quanh], "di chuyển hoặc quay xung quanh").
+entry(orbital, n, [orbitals], "một phân khu của một vỏ hạt nhân").
+entry(orbiter, n, [tàu quỹ đạo], "một thứ quay quanh quỹ đạo").
+entry(orbless, adj, [], "thiếu một quả cầu").
+entry(orby, adj, [], "ORBIER ORBIESTgiống như một vòng tròn hoặc hình cầu").
+entry(orc, n, [cá voi sát thủ], "một loài động vật biển có vú").
+entry(cá voi sát thủ, n, [cá voi sát thủ], "cá voi sát thủ").
+entry(orcein, n, [orceins], "một loại thuốc nhuộm màu nâu đỏ").
+entry(vườn cây ăn quả, n, [vườn cây ăn quả], "một khu vực trồng cây ăn quả").
+entry(phong lan, n, [phong lan], "một loại cây có hoa").
+entry(orchil, n, [orchils], "một loại thuốc nhuộm màu tím").
+entry(orchilla, n, [orchillas], "thuốc nhuộm orchil").
+entry(orchis, n, [orchises], "một loại hoa lan").
+entry(viêm tinh hoàn, n, [viêm tinh hoàn], "viêm tinh hoànORCHITIC adj").
+mục(orcin, n, [orcins], "orcinol").
+entry(orcinol, n, [orcinols], "một hợp chất hóa học").
+entry(phong chức, v, [đã phong chức, đang phong chức, phong chức], "trao quyền lực thiêng liêng").
+entry(ordainer, n, [các người phong chức], "người thực hiện việc phong chức").
+entry(thử_thách, n, [thử_thách], "một trải nghiệm cực kỳ khó khăn hoặc đau đớn").
+entry(order, v, [sắp xếp, sắp đặt, sắp lệnh], "đưa ra một mệnh lệnh hoặc chỉ thị cho").
+entry(orderer, n, [người_dặt_hàng], "người đặt hàng").
+entry(orderly, n, [orderlies], "một người nam phục vụ").
+mục(lần lượt, n, [số thứ tự], "một số chỉ định vị trí trong một dãy số").
+entry(ordinand, n, [người chuẩn bị thụ phong], "một người sắp được thụ phong").
+entry(ordinary, adj, [], "ĐIỀU BÌNH THƯỜNG ĐIỀU BÌNH THƯỜNG NHẤT thuộc loại được mong đợi trong trật tự thông thường của các sự kiện").
+entry(bình_thường, n, [bình_thường], "điều gì đó là bình thường").
+entry(ordinate, n, [toạ độ], "một tọa độ hình học cụ thể").
+mục(ordnance, n, [ordnances], "pháo binh một khẩu đại bác").
+entry(ordo, n, [ordos], "hoặc ORDINES một lịch các chỉ dẫn tôn giáo").
+entry(ordure, n, [đống phân], "manureORDUROUS adj").
+entry(quặng, n, [quặng], "một khoáng sản hoặc đá chứa kim loại có giá trị").
+entry(oread, n, [oreads], "một nữ thần núi trong thần thoại Hy Lạp").
+entry(orebody, n, [khoáng sàng], "một khối quặng trong mỏ").
+entry(orectic, adj, [], "thuộc về sự thèm ăn hoặc khát khao").
+entry(orective, adj, [], "orectic").
+entry(oregano, n, [oregano], "một loại thảo mộc thơm được sử dụng làm gia vị").
+entry(oreide, n, [oreides], "oroide").
+entry(oreodont, n, [oreodonts], "một loài động vật có vú tuyệt chủng cỡ con cừu").
+entry(orfray, n, [orfrays], "orfơrê").
+entry(org, n, [orgs], "một tổ chức").
+entry(organ, n, [cơ_quan], "một phần phân hóa của sinh vật thực hiện một chức năng cụ thể").
+entry(organa, a, [], "số nhiều của organon và organum").
+entry(organdie, n, [organdies], "vải organdi").
+entry(organdy, n, [organdies], "một loại vải cotton").
+entry(hữu_cơ, n, [hữu_cơ], "một chất có nguồn gốc từ động vật hoặc thực vật").
+entry(tổ chức, v, [đã tổ chức, đang tổ chức, tổ chức], "để tổ chức").
+entry(sinh_vật, n, [sinh_vật], "bất kỳ dạng sống động vật hoặc thực vật nào").
+entry(nghệ_sĩ_đàn_ống, n, [nghệ_sĩ_đàn_ống], "một người chơi đàn ống, một nhạc cụ phím").
+entry(tổ_chức, v, [đã_tổ_chức,đang_tổ_chức,tổ_chức], "hình thành thành một tổng thể có trật tự").
+entry(organon, n, [organons], "hoặc ORGANA, một hệ thống quy tắc cho điều tra khoa học").
+entry(organum, n, [organums], "hoặc ORGANAorganon").
+entry(organza, n, [organzas], "một loại vải mỏng").
+entry(cực_khoái, v, [đã_cực_khoái,đang_cực_khoái,cực_khoái], "trải nghiệm cực khoái đỉnh điểm của kích thích tình dụcCỰC_KHOÁI adj").
+entry(orgeat, n, [orgeats], "một loại xi rô vị hạnh nhân").
+entry(orgiac, adj, [], "thuộc về tính chất của một cuộc truy hoan").
+entry(orgiast, n, [người_phóng_túng], "một người tham gia vào một cuộc truy hoan").
+entry(orgic, adj, [], "orgiac").
+entry(orgone, n, [orgones], "một dạng năng lượng được cho là tràn ngập khắp vũ trụ").
+entry(orgulous, adj, [], "tự hào").
+entry(orgy, n, [orgies], "một bữa tiệc được đánh dấu bằng sự đắm mình tình dục không bị kiềm chế").
+entry(oribatid, n, [oribatids], "bất kỳ thành viên nào của một họ ve không mắt").
+entry(oribi, n, [oribis], "một loài linh dương châu Phi").
+entry(orichalc, n, [orichalcs], "một loại kim loại màu vàng").
+entry(oriel, n, [cửa sổ nhô ra], "một loại cửa sổ nhô ra").
+entry(orient, v, [định hướng,đang định hướng,định hướng], "điều chỉnh liên quan đến thứ khác").
+entry(phương_đông, n, [người_phương_đông], "một cư dân của một quốc gia ở phía đông").
+entry(orienter, n, [người định hướng], "người giúp người khác làm quen với môi trường xung quanh").
+entry(lỗ, n, [các lỗ], "một cái miệng hoặc lỗ giống miệng").
+entry(origami, n, [origamis], "nghệ thuật xếp giấy của Nhật Bản").
+entry(origan, n, [origans], "cây kinh giới ô").
+entry(origanum, n, [origanums], "một loại thảo mộc có mùi thơm").
+entry(origin, n, [nguồn gốc], "sự ra đời").
+entry(gốc, n, [gốc], "hình thức đầu tiên của một cái gì đó").
+mục(orinasal, n, [orinasals], "một âm thanh phát âm qua cả miệng và mũi").
+entry(chào_mào, n, [chào_màos], "một loài chim biết hót của Mỹ").
+entry(orisha, n, [orishas], "một vị thần Yoruba").
+entry(orison, n, [orisons], "một lời cầu nguyện").
+entry(orle, n, [orles], "một đường viền huy hiệu").
+entry(orlop, n, [orlops], "boong thấp nhất của tàu").
+entry(ormer, n, [ormers], "một con bào ngư").
+entry(ormolu, n, [ormolus], "một hợp kim được sử dụng để giả vàng").
+entry(trang_trí, v, [đã_trang_trí,đang_trang_trí,trang_trí], "để trang trí").
+entry(ornate, adj, [], "trang trí công phu hoặc trang trí quá mứcORNATELY adv").
+entry(ornery, adj, [], "BƯỚNG BỈNH HƠN BƯỚNG BỈNH NHẤTcứng đầu và có ác ý").
+entry(ornis, n, [ornithes], "avifauna").
+entry(ornithic, adj, [], "liên quan đến chim").
+entry(orogen, n, [orogens], "một vành đai của lớp vỏ trái đất tham gia vào quá trình tạo núi").
+entry(orogeny, n, [orogenies], "quá trình kiến tạo núiOROGENIC adj").
+entry(oroide, n, [oroides], "một hợp kim được sử dụng để bắt chước vàng").
+entry(orology, n, [orologies], "ngành nghiên cứu về núi").
+entry(orometer, n, [orometers], "một loại khí áp kế").
+entry(orotund, adj, [], "to và rõ ràng trong âm thanh").
+entry(orphan, v, [mồ côi, đang mồ côi, những đứa trẻ mồ côi], "để cướp đi cả bố lẫn mẹ").
+entry(orphic, adj, [], "huyền bí").
+entry(orphical, adj, [], "orphic").
+entry(orphism, n, [orphisms], "một phong cách nghệ thuật").
+entry(orphrey, n, [orphreys], "một dải trang trí hoặc viền").
+entry(orpiment, n, [orpiments], "một loại thuốc nhuộm màu vàng").
+entry(tùng bách diệp, n, [các tùng bách diệp], "cây tùng bách diệp").
+entry(orpine, n, [orpines], "một loại thảo mộc lâu năm").
+entry(orra, adj, [], "thỉnh thoảng").
+entry(mô hình chuyển động hành tinh, n, [mô hình chuyển động hành tinh], "một mô hình cơ học của hệ mặt trời").
+entry(orrice, n, [orrices], "orris").
+mục(orris, n, [orrises], "một loài thực vật có hoa").
+entry(ort, n, [orts], "mẩu thức ăn").
+entry(orthicon, n, [orthicons], "một loại ống camera truyền hình").
+entry(ortho, adj, [], "liên quan đến việc tái tạo trong nhiếp ảnh dải màu đầy đủ của tự nhiên").
+entry(chính thống, n, [chính thống], "người giữ niềm tin truyền thống").
+entry(ngữ_âm, n, [các_ngữ_âm], "việc nghiên cứu phát âm đúng").
+entry(orthosis, n, [niềng chỉnh], "một dụng cụ chỉnh hình").
+entry(orthotic, n, [chỉnh hình], "một cái nẹp cho khớp hoặc cơ yếu").
+entry(ortolan, n, [ortolans], "một loài chim châu Âu").
+entry(oryx, n, [oryxes], "một loài linh dương châu Phi").
+entry(orzo, n, [orzos], "mì hình hạt gạo").
+mục(os, n, [ora], "một cái lỗ").
+entry(os, n, [osar], "một esker").
+entry(os, n, [ossa], "một cái xương").
+entry(oscar, n, [oscars], "một loài cá Nam Mỹ").
+entry(oscine, n, [oscines], "bất kỳ loài chim biết hót nàoOSCININE adj").
+entry(oscitant, adj, [], "ngáp").
+entry(oscula, pl, [], "của osculum").
+entry(osculant, adj, [], "bám chặt").
+entry(oscular, adj, [], "thuộc về miệng").
+mục(osculate, v, [osculated, osculating, osculates], "hôn").
+entry(oscule, n, [oscules], "lỗ miệng").
+entry(osculum, n, [oscula], "một lỗ trên bọt biển").
+entry(ose, n, [oses], "một esker").
+entry(osetra, n, [osetras], "một loại trứng cá muối vàng hoặc nâu").
+entry(osier, n, [osiers], "một cây osier châu Âu OSIERED adj").
+entry(osmatic, adj, [], "phụ thuộc chủ yếu vào khứu giác").
+entry(osmics, npl, [], "nghiên cứu về khứu giác").
+mục(osmium, n, [osmiums], "một nguyên tố kim loạiOSMIC OSMIOUS adj").
+entry(osmol, n, [osmols], "một đơn vị áp suất thẩm thấuOSMOLAL adj").
+entry(osmolar, adj, [], "thẩm thấu").
+entry(osmole, n, [osmoles], "thẩm thấu").
+entry(osmose, v, [osmosed,osmosing,osmoses], "trải qua quá trình thẩm thấu").
+entry(thẩm thấu, n, [thẩm thấu], "một dạng khuếch tán của chất lỏng qua màng").
+entry(osmotic, adj, [], "liên quan đến thẩm thấu").
+entry(osmous, adj, [], "chứa osmium").
+mục(osmund, n, [osmunds], "bất kỳ loại dương xỉ lớn nào").
+entry(osmunda, n, [osmundas], "osmund").
+entry(osnaburg, n, [osnaburgs], "một loại vải bông").
+entry(osprey, n, [ospreys], "một loài diều hâu Mỹ").
+entry(ossa, pl, [], "của os").
+entry(ossature, n, [ossatures], "một khung sườn").
+entry(ossein, n, [osseins], "một chất đạm trong xương").
+entry(osseous, adj, [], "giống như xương").
+entry(ossetra, n, [ossetras], "osetra").
+entry(ossia, conj, [], "hoặc khác dùng như một chỉ dẫn âm nhạc").
+entry(ossicle, n, [ossicles], "một xương nhỏ").
+entry(ossific, adj, [], "liên quan đến sự hình thành của xương").
+mục(ossifier, n, [ossifiers], "một cái làm cứng").
+entry(hóa thành xương, v, [đã hóa xương, đang hóa xương, hóa xương], "chuyển thành xương").
+entry(ossobuco, n, [ossobucos], "một món ăn từ giò bê được hầm với rau củ và rượu vang trắng").
+entry(ossuary, n, [ossuaries], "một cái chứa xương của người chết").
+entry(osteal, adj, [], "xương").
+```prolog
+entry(osteitis, n, [osteitides], "viêm xươngOSTEITIC adjOSTEOID n pl OSTEOIDSma trận xương chưa vôi hóaOSTEOMA n pl OSTEOMAS or OSTEOMATAkhối u mô xươngOSTEOSIS n pl OSTEOSES or OSTOSEShình thành xươngOSTIA pl of ostiumOSTIARY n pl OSTIARIESngười giữ cửa ở nhà thờOSTINATO n pl OSTINATOS or OSTINATIcụm nhạc lặp đi lặp lại liên tụcOSTIOLE n pl OSTIOLESkẽ hở cơ thể nhỏOSTIOLAR adjOSTIUM n pl OSTIAmột lỗ trong cơ quan cơ thểOSTLER n pl OSTLERSlính trạiOSTMARK n pl OSTMARKSđơn vị tiền tệ trước đây của Đông ĐứcOSTOMATE n pl OSTOMATESngười đã trải qua phẫu thuật mở thôngOSTOMY n pl OSTOMIESloại phẫu thuật mở thôngOSTOSIS n pl OSTOSES or OSTOSEShình thành xươngOSTRACOD n pl OSTRACODScrustacean nhỏ sống trong nước ngọtOSTRACON n pl OSTRACAmảnh vỡ chứa một bản khắcOSTRAKON n pl OSTRAKONostraconOSTRICH n pl OSTRICHESmột loài chim lớn không biết bayOTAKU npl người trẻ ở Nhật Bản có kỹ năng cao về công nghệ máy tínhOTALGIA n pl OTALGIASđau taiOTALGIC adjOTALGY n pl OTALGIESotalgiaOTHER n pl OTHERSngười còn lại trong hai hoặc nhiều hơnOTIC adj liên quan đến taiOTIOSE adj lười biếngOTIOSELY advOTIOSITY n pl OTIOSITIEStrạng thái lười biếngOTITIS n pl OTITISES or OTITIDESviêm taiOTITIC adjOTOCYST n pl OTOCYSTScơ quan cân bằng trong nhiều động vật không xương sốngOTOLITH n pl OTOLITHSmột khối cứng hình thành trong tai trongOTOLOGY n pl OTOLOGIEStự nhiên học về taiOTOLOGIC adjOTOSCOPE n pl OTOSCOPESdụng cụ để khám taiOTOSCOPY n pl OTOSCOPIEStheo dõi bằng otoscopeOTOTOXIC adj ảnh hưởng tiêu cực đến thính giác hoặc cân bằngOTTAR n pl OTTARSattarOTTAVA n pl OTTAVASmột quãng támOTTER n pl OTTERSmột loài thú ăn thịt sống trong nướcOTTO n pl OTTOSattarOTTOMAN n pl OTTOMANSmột loại sofaOUABAIN n pl OUABAINSchất kích thích timOUCH v OUCHED OUCHING OUCHESto trang trí với ouches cài đặt cho đá quýOUD n pl OUDSmột nhạc cụ có dây ở Bắc PhiOUGHT v OUGHTED OUGHTING OUGHTSto nợOUGIYA n pl OUGIYASFần hậm hực của MauritaniaOUGUIYA n pl OUGUIYASđơn vị tiền tệ của MauritaniaOUISTITI n pl OUISTITISmột loài khỉ Nam MỹOUNCE n pl OUNCESđơn vị đo trọng lượngOUPH n pl OUPHSoupheOUPHE n pl OUPHESmột yêu tinhOUR pron một hình thức sở hữu của đại từ weOURANG n pl OURANGSorangOURARI n pl OURARIScurareOUREBI n pl OUREBISoribiOURIE adj run rẩy vì lạnhOURS pron một hình thức sở hữu của đại từ weOURSELF pron tôi  sử dụng trong các bối cảnh trang trọng hoặc vương giaOUSEL n pl OUSELSouzelOUST v OUSTED OUSTING OUSTSto trục xuất hoặc loại bỏ khỏi vị trí hoặc địa điểmOUSTER n pl OUSTERShành động loại bỏOUT v OUTED OUTING OUTSto được tiết lộOUTACT v OUTACTED OUTACTING OUTACTSto vượt trội trong diễn xuấtOUTADD v OUTADDED OUTADDING OUTADDSto vượt trội trong việc thêmOUTAGE n pl OUTAGESsự ngừng hoạt động hoặc bị gián đoạnOUTARGUE v OUTARGUED OUTARGUING OUTARGUESto thắng trong cuộc tranh luậnOUTASK v OUTASKED OUTASKING OUTASKSto vượt trội trong việc hỏiOUTATE quá khứ của outeatOUTBACK n pl OUTBACKSnông thôn cô lậpOUTBAKE v OUTBAKED OUTBAKING OUTBAKESto vượt trội trong nướngOUTBARK v OUTBARKED OUTBARKING OUTBARKSto vượt trội trong sủaOUTBAWL v OUTBAWLED OUTBAWLING OUTBAWLSto vượt trội trong khóc toOUTBEAM v OUTBEAMED OUTBEAMING OUTBEAMSto vượt trội trong tươi cườiOUTBEG v OUTBEGGED OUTBEGGING OUTBEGSto vượt trội trong việc xin xỏOUTBID v OUTBID OUTBIDDEN OUTBIDDING OUTBIDSto đấu giá cao hơnOUTBITCH v OUTBITCHED OUTBITCHING OUTBITCHESto vượt trội trong việc nói xấuOUTBLAZE v OUTBLAZED OUTBLAZING OUTBLAZESto rực rỡ ánh sáng hơnOUTBLEAT v OUTBLEATED OUTBLEATING OUTBLEATSto vượt trội trong kêuOUTBLESS v OUTBLESSED OUTBLESSING OUTBLESSESto vượt trội trong chúc phúcOUTBLOOM v OUTBLOOMED OUTBLOOMING OUTBLOOMSto vượt trội trong nở hoaOUTBLUFF v OUTBLUFFED OUTBLUFFING OUTBLUFFSto vượt trội trong phỉnh phờOUTBLUSH v OUTBLUSHED OUTBLUSHING OUTBLUSHESto đỏ mặt hơnOUTBOARD n pl OUTBOARDSmột loại động cơOUTBOAST v OUTBOASTED OUTBOASTING OUTBOASTSto vượt trội trong khoe khoangOUTBOUGHT quá khứ của outbuyOUTBOUND adj hướng ra ngoàiOUTBOX v OUTBOXED OUTBOXING OUTBOXESto vượt trội trong đấm bốcOUTBRAG v OUTBRAGGED OUTBRAGGING OUTBRAGSto vượt trội trong khoe khoangOUTBRAVE v OUTBRAVED OUTBRAVING OUTBRAVESto vượt trội trong lòng dũng cảmOUTBRAWL v OUTBRAWLED OUTBRAWLING OUTBRAWLSto vượt trội trong ẩu đảOUTBREAK n pl OUTBREAKSđột phátOUTBREED v OUTBRED OUTBREEDING OUTBREEDSto lai giống từ các dòng không liên quan khácOUTBRIBE v OUTBRIBED OUTBRIBING OUTBRIBESto vượt trội trong việc hối lộOUTBUILD v OUTBUILT OUTBUILDING OUTBUILDSto vượt trội trong xây dựngOUTBULGE v OUTBULGED OUTBULGING OUTBULGESto vượt trội trong kích thướcOUTBULK v OUTBULKED OUTBULKING OUTBULKSto vượt trội trong kích thước cơ thểOUTBULLY v OUTBULLIED OUTBULLYING OUTBULLIESto vượt trội trong bắt nạtOUTBURN v OUTBURNED or OUTBURNT OUTBURNING OUTBURNSto cháy dài hơnOUTBURST n pl OUTBURSTSphun ra đột ngột và dữ dộiOUTBUY v OUTBOUGHT OUTBUYING OUTBUYSto vượt trội trong muaOUTBY adv bên ngoàiOUTBYE adv outbyOUTCALL n pl OUTCALLScuộc gọi nhà của một người chuyên nghiệpOUTCAPER v OUTCAPERED OUTCAPERING OUTCAPERSto vượt trội trong nhảyOUTCAST n pl OUTCASTSngười bị đuổi raOUTCASTE n pl OUTCASTESngười Hindu bị đuổi ra khỏi giai cấpOUTCATCH v OUTCAUGHT OUTCATCHING OUTCATCHESto vượt trội trong bắtOUTCAVIL v OUTCAVILED OUTCAVILING OUTCAVILS or OUTCAVILLED OUTCAVILLING OUTCAVILSto vượt trội trong lạnh nhạtOUTCHARM v OUTCHARMED OUTCHARMING OUTCHARMSto vượt trội trong sự quyến rũOUTCHEAT v OUTCHEATED OUTCHEATING OUTCHEATSto vượt trội trong gian lậnOUTCHIDE v OUTCHIDED or OUTCHID OUTCHIDDEN OUTCHIDING OUTCHIDESto vượt trội trong chideOUTCITY n pl OUTCITIESmột thành phố ở ngoại vi của thành phố lớn hơnOUTCLASS v OUTCLASSED OUTCLASSING OUTCLASSESto vượt trội đến mức có vẻ như thuộc một đẳng cấp cao hơnOUTCLIMB v OUTCLIMBED or OUTCLOMB OUTCLIMBING OUTCLIMBSto vượt trội trong leoOUTCOACH v OUTCOACHED OUTCOACHING OUTCOACHESto vượt trội trong huấn luyệnOUTCOME n pl OUTCOMESkết quảOUTCOOK v OUTCOOKED OUTCOOKING OUTCOOKSto vượt trội trong nấu ănOUTCOUNT v OUTCOUNTED OUTCOUNTING OUTCOUNTSto vượt trội trong đếmOUTCRAWL v OUTCRAWLED OUTCRAWLING OUTCRAWLSto vượt trội trong bòOUTCRIED quá khứ của outcryOUTCRIES chia ngôi thứ 3 của outcryOUTCROP v OUTCROPPED OUTCROPPING OUTCROPSto nhô lên trên mặt đấtOUTCROSS v OUTCROSSED OUTCROSSING OUTCROSSESto kết nạp với một cá nhân không liên quanOUTCROW v OUTCROWED OUTCROWING OUTCROWSto vượt trội trong cườiOUTCROWD v OUTCROWDED OUTCROWDING OUTCROWDSto gây ra sự quá đôngOUTCRY v OUTCRIED OUTCRYING OUTCRIESto kêu lớn hơnOUTCURSE v OUTCURSED OUTCURSING OUTCURSESto vượt trội trong nguyền rủaOUTCURVE n pl OUTCURVESmột kiểu ném bóng trong bóng chàyOUTDANCE v OUTDANCED OUTDANCING OUTDANCESto vượt trội trong nhảyOUTDARE v OUTDARED OUTDARING OUTDARESto vượt trội trong gan dạOUTDATE v OUTDATED OUTDATING OUTDATESto làm hết cập nhậtOUTDO v OUTDID OUTDONE OUTDOING OUTDOESto vượt trội trong thực hiệnOUTDODGE v OUTDODGED OUTDODGING OUTDODGESto vượt trội trong né tránhOUTDOER n pl OUTDOERSngười vượt trộiOUTDOOR adj liên quan đến không gian mởOUTDOORS adv trong không khí mởOUTDRAG v OUTDRAGGED OUTDRAGGING OUTDRAGSto vượt trội trong đua kéoOUTDRANK quá khứ của outdrinkOUTDRAW v OUTDREW OUTDRAWN OUTDRAWING OUTDRAWSto thu hút một lượng khán giả lớn hơnOUTDREAM v OUTDREAMED or OUTDREAMT OUTDREAMING OUTDREAMSto vượt trội trong mơOUTDRESS v OUTDRESSED OUTDRESSING OUTDRESSESto vượt trội trong ăn mặcOUTDRINK v OUTDRANK OUTDRUNK OUTDRINKING OUTDRINKSto vượt trội trong uốngOUTDRIVE v OUTDROVE OUTDRIVEN OUTDRIVING OUTDRIVESto đánh bóng golf xa hơnOUTDROP v OUTDROPPED OUTDROPPING OUTDROPSto vượt trội trong rớtOUTDUEL v OUTDUELED OUTDUELING OUTDUELS or OUTDUELLED OUTDUELLING OUTDUELSto vượt trội trong tranh đấuOUTEARN v OUTEARNED OUTEARNING OUTEARNSto kiếm nhiều hơnOUTEAT v OUTATE OUTEATEN OUTEATING OUTEATSto ăn nhiều hơnOUTECHO v OUTECHOED OUTECHOING OUTECHOESto vượt trội trong vọngOUTER n pl OUTERSmột phần của mục tiêuOUTFABLE v OUTFABLED OUTFABLING OUTFABLESto vượt trội trong kể chuyệnOUTFACE v OUTFACED OUTFACING OUTFACESto đối mặt không sợ hãiOUTFALL n pl OUTFALLSthe cổng ra của một cơ thể nướcOUTFAST v OUTFASTED OUTFASTING OUTFASTSto vượt trội trong nhịn ănOUTFAWN v OUTFAWNED OUTFAWNING OUTFAWNSto vượt trội trong nịnh nọtOUTFEAST v OUTFEASTED OUTFEASTING OUTFEASTSto vượt trội trong ăn tiệcOUTFEEL v OUTFELT OUTFEELING OUTFEELSto vượt trội trong cảm thấyOUTFENCE v OUTFENCED OUTFENCING OUTFENCESto vượt trội trong đấu kiếmOUTFIELD n pl OUTFIELDSmột phần của sân bóng chàyOUTFIGHT v OUTFOUGHT OUTFIGHTING OUTFIGHTSto đánh bạiOUTFIND v OUTFOUND OUTFINDING OUTFINDSto vượt trội trong tìm kiếmOUTFIRE v OUTFIRED OUTFIRING OUTFIRESto vượt trội trong bắnOUTFISH v OUTFISHED OUTFISHING OUTFISHESto vượt trội trong câu cáOUTFIT v OUTFITTED OUTFITTING OUTFITSto trang bịOUTFLANK v OUTFLANKED OUTFLANKING OUTFLANKSto giành lợi thế chiến thuậtOUTFLOAT v OUTFLOATED OUTFLOATING OUTFLOATsto nổi lâu hơnOUTFLOW v OUTFLOWED OUTFLOWING OUTFLOWSto chảy raOUTFLY v OUTFLEW OUTFLOWN OUTFLYING OUTFLIESto vượt trội trong bayOUTFOOL v OUTFOOLED OUTFOOLING OUTFOOLSto vượt trội trong trò lừaOUTFOOT v OUTFOOTED OUTFOOTING OUTFOOTSto vượt trội trong tốc độOUTFOUGHT quá khứ của outfightOUTFOUND quá khứ của outfindOUTFOX v OUTFOXED OUTFOXING OUTFOXESto vượt trội trong khôn hơnOUTFROWN v OUTFROWNED OUTFROWNING OUTFROWNSto cau mày nhiều hơnOUTGAIN v OUTGAINED OUTGAINING OUTGAINSto thu được nhiều hơnOUTGAS v OUTGASSED OUTGASSING OUTGASSES or OUTGASESto loại bỏ khí từOUTGAZE v OUTGAZED OUTGAZING OUTGAZESto vượt trội trong nhìnOUTGIVE v OUTGAVE OUTGIVEN OUTGIVING OUTGIVESto cho nhiều hơnOUTGLARE v OUTGLARED OUTGLARING OUTGLARESto vượt trội trong nhìn chằm chằmOUTGLEAM v OUTGLEAMED OUTGLEAMING OUTGLEAMSto vượt trội trong sáng lấp lánhOUTGLOW v OUTGLOWED OUTGLOWING OUTGLOWSto vượt trội trong phát sángOUTGNAW v OUTGNAWED OUTGNAWN OUTGNAWING OUTGNAWSto vượt trội trong gặm nhấmOUTGO v OUTWENT OUTGONE OUTGOING OUTGOESto đi xa hơnOUTGOING n pl OUTGOINGSmột cuộc khởi hànhOUTGREW quá khứ của outgrowOUTGRIN v OUTGRINNED OUTGRINNING OUTGRINSto vượt trội trong tươi cườiOUTGROSS v OUTGROSSED OUTGROSSING OUTGROSSESto vượt trội trong thu nhập thôOUTGROUP n pl OUTGROUPSmột nhóm người không cùng nhómOUTGROW v OUTGREW OUTGROWN OUTGROWING OUTGROWSto lớn quá lớn so vớiOUTGUESS v OUTGUESSED OUTGUESSING OUTGUESSESto dự đoán trước động thái củaOUTGUIDE v OUTGUIDED OUTGUIDING OUTGUIDESto vượt trội trong hướng dẫnOUTGUN v OUTGUNNED OUTGUNNING OUTGUNSto vượt trội về hỏa lựcOUTGUSH v OUTGUSHED OUTGUSHING OUTGUSHESto vượt trội trong phun raOUTHAUL n pl OUTHAULSmột sợi dây kéo dài một cánh buồm dọc theo một sợi cộtOUTHEAR v OUTHEARD OUTHEARING OUTHEARSto vượt trội trong ngheOUTHIT v OUTHIT OUTHITTING OUTHITSto đạt nhiều hơnOUTHOMER v OUTHOMERED OUTHOMERING OUTHOMERSto vượt trội trong đánh bóng thành côngOUTHOUSE n pl OUTHOUSESmột nhà vệ sinh housed trong một cấu trúc nhỏOUTHOWL v OUTHOWLED OUTHOWLING OUTHOWLSto vượt trội trong tiếng gàoOUTHUMOR v OUTHUMORED OUTHUMORING OUTHUMORSto vượt trội trong hài hướcOUTHUNT v OUTHUNTED OUTHUNTING OUTHUNTSto vượt trội trong săn bắnOUTING n pl OUTINGSmột chuyến đi ngắn vui vẻOUTJINX v OUTJINXED OUTJINXING OUTJINXESto vượt trội trong jinxingOUTJUMP v OUTJUMPED OUTJUMPING OUTJUMPSto vượt trội trong nhảyOUTJUT v OUTJUTTED OUTJUTTING OUTJUTSto nổi lênOUTKEEP v OUTKEPT OUTKEEPING OUTKEEPSto vượt trội trong giữOUTKICK v OUTKICKED OUTKICKING OUTKICKSto vượt trội trong đáOUTKILL v OUTKILLED OUTKILLING OUTKILLSto vượt trội trong giếtOUTKISS v OUTKISSED OUTKISSING OUTKISSESto vượt trội trong hônOUTLAID quá khứ của outlayOUTLAIN quá khứ hoàn thành của outlieOUTLAND n pl OUTLANDSa đất nước nước ngoàiOUTLAST v OUTLASTED OUTLASTING OUTLASTSto kéo dài lâu hơnOUTLAUGH v OUTLAUGHED OUTLAUGHING OUTLAUGHSto vượt trội trong cườiOUTLAW v OUTLAWED OUTLAWING OUTLAWSto cấmOUTLAWRY n pl OUTLAWRIEStình trạng vi phạm luật pháp liên tụcOUTLAY v OUTLAID OUTLAYING OUTLAYSto thanh toánOUTLEAD v OUTLED OUTLEADING OUTLEADSto vượt trội trong dẫn đầuOUTLEAP v OUTLEAPED or OUTLEAPT OUTLEAPING OUTLEAPSto vượt trội trong nhảyOUTLEARN v OUTLEARNED or OUTLEARNT OUTLEARNING OUTLEARNSto vượt trội trong họcOUTLET n pl OUTLETSmột cách thoát hiểm hoặc xảOUTLIE v OUTLAY OUTLAIN OUTLYING OUTLIESto nằm xa hơnOUTLIER n pl OUTLIERSmột khu vực hoặc phần nằm ngoàiOUTLINE v OUTLINED OUTLINING OUTLINESto chỉ ra các đặc điểm chính hoặc các bộ phận khác nhauOUTLINER n pl OUTLINERSngười vạch raOUTLIVE v OUTLIVED OUTLIVING OUTLIVESto sống lâu hơnOUTLIVER n pl OUTLIVERSngười sống lâu hơnOUTLOOK n pl OUTLOOKSmột quan điểmOUTLOVE v OUTLOVED OUTLOVING OUTLOVESto vượt trội trong yêuOUTLYING hiện tại phân từ của outlieOUTMAN v OUTMANNED OUTMANNING OUTMANSto vượt trội trong sức mạnh nhân lựcOUTMARCH v OUTMARCHED OUTMARCHING OUTMARCHESto vượt trội trong hành quânOUTMATCH v OUTMATCHED OUTMATCHING OUTMATCHESto vượt trộiOUTMODE v OUTMODED OUTMODING OUTMODESto lỗi thờiOUTMOST adj xa nhấtOUTMOVE v OUTMOVED OUTMOVING OUTMOVESto di chuyển nhanh hơn hoặc xa hơnOUTPACE v OUTPACED OUTPACING OUTPACESto vượt trội trong tốc độOUTPAINT v OUTPAINTED OUTPAINTING OUTPAINTSto vượt trội trong sơnOUTPASS v OUTPASSED OUTPASSING OUTPASSESto vượt trội trong việc chuyền bóng bóng đáOUTPITCH v OUTPITCHED OUTPITCHING OUTPITCHESto vượt trội trong némOUTPITY v OUTPITIED OUTPITYING OUTPITIESto vượt trội trong thương hạiOUTPLACE v OUTPLACED OUTPLACING OUTPLACESto ngừng hợp đồngOUTPLAN v OUTPLANNED OUTPLANNING OUTPLANSto vượt trội trong hoạch địnhOUTPLAY v OUTPLAYED OUTPLAYING OUTPLAYSto vượt trội hoặc đánh bại trong trò chơiOUTPLOD v OUTPLODDED OUTPLODDING OUTPLODSto vượt trội trong bước điOUTPLOT v OUTPLOTTED OUTPLOTTING OUTPLOTSto vượt trội trong âm mưuOUTPOINT v OUTPOINTED OUTPOINTING OUTPOINTSto ghi điểm nhiều hơnOUTPOLL v OUTPOLLED OUTPOLLING OUTPOLLSto nhận được nhiều phiếu hơnOUTPORT n pl OUTPORTSa cảng xuất khẩu hoặc khởi hànhOUTPOST n pl OUTPOSTS một đội quân đóng ở xa đội quân chínhOUTPOUR v OUTPOURED OUTPOURING OUTPOURSto đổ raOUTPOWER v OUTPOWERED OUTPOWERING OUTPOWERSto vượt trội trong sức mạnhOUTPRAY v OUTPRAYED OUTPRAYING OUTPRAYSto vượt trội trong cầu nguyệnOUTPREEN v OUTPREENED OUTPREENING OUTPREENSto vượt trội trong chỉnh trangOUTPRESS v OUTPRESSED OUTPRESSING OUTPRESSESto vượt trội trong việc ấnOUTPRICE v OUTPRICED OUTPRICING OUTPRICESto vượt trội trong định giáOUTPSYCH v OUTPSYCHED OUTPSYCHING OUTPSYCHSto đánh bại bằng phương tiện tâm lýOUTPULL v OUTPULLED OUTPULLING OUTPULLSto thu hút một lượng khán giả hoặc người theo dõi nhiều hơnOUTPUNCH v OUTPUNCHED OUTPUNCHING OUTPUNCHESto vượt trội trong đấmOUTPUPIL n OUTPUPILSmột học sinh sống ngoài nhàOUTPUSH v OUTPUSHED OUTPUSHING OUTPUSHESto vượt trội trong đẩyOUTPUT v OUTPUTTED OUTPUTTING OUTPUTSto tạo raOUTQUOTE v OUTQUOTED OUTQUOTING OUTQUOTESto vượt trội trong trích dẫnOUTRACE v OUTRACED OUTRACING OUTRACESto chạy nhanh hơn hoặc xa hơnOUTRAGE v OUTRAGED OUTRAGING OUTRAGESto kích thích giận dữ hoặc bức xúcOUTRAISE v OUTRAISED OUTRAISING OUTRAISESto vượt trội trong huy độngOUTRAN quá khứ của outrunOUTRANCE n pl OUTRANCEStình trạng cực đoan cuối cùngOUTRANG quá khứ của outringOUTRANGE v OUTRANGED OUTRANGING OUTRANGESto vượt trội trong tầm dânOUTRANK v OUTRANKED OUTRANKING OUTRANKSto xếp hạng cao hơnOUTRATE v OUTRATED OUTRATING OUTRATESto vượt trội trong việc xếp hạngOUTRAVE v OUTRAVED OUTRAVING OUTRAVESto vượt trội trong hò hétOUTRE adj lệch khỏi điều gì là thông thường hoặc phù hợpOUTREACH v OUTREACHED OUTREACHING OUTREACHESto vượt hơnOUTREAD v OUTREAD OUTREADING OUTREADSto vượt trội trong đọcOUTRIDE v OUTRODE OUTRIDDEN OUTRIDING OUTRIDESto cưỡi nhanh hơn hoặc tốt hơnOUTRIDER n pl OUTRIDERSmột người gác kỵ trước hoặc bên cạnh xeOUTRIG v OUTRIGGED OUTRIGGING OUTRIGSto trang bị cho một chiếc thuyền với những phao bên ngoàiOUTRIGHT adj không có giới hạn hoặc đặt trướcOUTRING v OUTRANG OUTRUNG OUTRINGING OUTRINGSto đổ chuông lớn hơnOUTRIVAL v OUTRIVALED OUTRIVALING OUTRIVALS or OUTRIVALLED OUTRIVALLING OUTRIVALSto vượt trội trong một cuộc thi hoặc đối đầuOUTRO n pl OUTROSa đoạn kết của một phần âm nhạcOUTROAR v OUTROARED OUTROARING OUTROARSto gào to hơnOUTROCK v OUTROCKED OUTROCKING OUTROCKSto vượt trội trong lắc lưOUTRODE quá khứ của outrideOUTROLL v OUTROLLED OUTROLLING OUTROLLSto lăn raOUTROOT v OUTROOTED OUTROOTING OUTROOTSto nhổ tận gốcOUTROW v OUTROWED OUTROWING OUTROWSto vượt trội trong bơi chèoOUTRUN v OUTRAN OUTRUNNING OUTRUNSto chạy nhanh hơnOUTRUNG quá khứ hoàn thành của outringOUTRUSH v OUTRUSHED OUTRUSHING OUTRUSHESto vượt trội trong vồ nhanhOUTSAID quá khứ của outsayOUTSAIL v OUTSAILED OUTSAILING OUTSAILSto vượt trội trong chèoOUTSANG quá khứ của outsingOUTSAT quá khứ của outsitOUTSAVOR v OUTSAVORED OUTSAVORING OUTSAVORSto vượt trội trong hương vị đặc biệtOUTSAW quá khứ của outseeOUTSAY v OUTSAID OUTSAYING OUTSAYSto vượt trội trong nóiOUTSCOLD v OUTSCOLDED OUTSCOLDING OUTSCOLDSto vượt trội trong la mắngOUTSCOOP v OUTSCOOPED OUTSCOOPING OUTSCOOPSto vượt trội trong múcOUTSCORE v OUTSCORED OUTSCORING OUTSCOREsto ghi điểm nhiều hơnOUTSCORN v OUTSCORNED OUTSCORNING OUTSCORNSto vượt trội trong khinh bỉOUTSEE v OUTSAW OUTSEEN OUTSEEING OUTSEESto nhìn xa hơnOUTSELL v OUTSOLD OUTSELLING OUTSELLSto bán được nhiều hơnOUTSERT n pl OUTSERTSmột tờ gấp nằm quanh một phần giấy inOUTSERVE v OUTSERVED OUTSERVING OUTSERVESto vượt trội trong phục vụOUTSET n pl OUTSETSlúc ban đầuOUTSHAME v OUTSHAMED OUTSHAMING OUTSHAMESto vượt trội trong mắng mỏOUTSHINE v OUTSHONE or OUTSHINED OUTSHINING OUTSHINESto sáng hơnOUTSHOOT v OUTSHOT OUTSHOOTING OUTSHOOTSto vượt trội trong bắnOUTSHOUT v OUTSHOUTED OUTSHOUTING OUTSHOUTSto gào to hơnOUTSIDE n pl OUTSIDEStangoài cùng, mặt ngoài hoặc phầnOUTSIDER n pl OUTSIDERSngười không thuộc nhóm cụ thểOUTSIGHT n pl OUTSIGHTSthe khả năng nhìn thấy vật ngoàiOUTSIN v OUTSINNED OUTSINNING OUTSINSto vượt trội trong tộiOUTSING v OUTSANG OUTSUNG OUTSINGING OUTSINGSto vượt trội trong hátOUTSIT v OUTSAT OUTSITTING OUTSITSto ngồi lại hoặc họp lâu hơnOUTSIZE n pl OUTSIZESkích thước bất thườngOUTSIZED adjOUTSKATE v OUTSKATED OUTSKATING OUTSKATESto vượt trội trong trượt OUTSKIRT n pl OUTSKIRTSlân cậnOUTSLEEP v OUTSLEPT OUTSLEEPING OUTSLEEPSto ngủ dậy trễ hơnOUTSLICK v OUTSLICKED OUTSLICKING OUTSLICKSto giành được lợi thế bằng lừa lọc hoặc mưu mẹoOUTSMART v OUTSMARTED OUTSMARTING OUTSMARTSto khéo léo hơnOUTSMELL v OUTSMELLED or OUTSMELT OUTSMELLING OUTSMELLSto vượt trội trong ngửiOUTSMILE v OUTSMILED OUTSMILING OUTSMILESto vượt trội trong cườiOUTSMOKE v OUTSMOKED OUTSMOKING OUTSMOKESto vượt trội trong hútOUTSNORE v OUTSNORED OUTSNORING OUTSNORESto vượt trội trong ngáyOUTSOAR v OUTSOARED OUTSOARING OUTSOARSto vượt lênOUTSOLD quá khứ của outsellOUTSOLE n pl OUTSOLEScật ngoài của một đôi giày hoặc bốtOUTSPAN v OUTSPANNED OUTSPANNING OUTSPANSto tháo cương một con vật kéoOUTSPEAK v OUTSPOKE OUTSPOKEN OUTSPEAKING OUTSPEAKsto vượt trội trong phát biểuOUTSPEED v OUTSPED or OUTSPEEDED OUTSPEEDING OUTSPEEDSto đi nhanh hơnOUTSPELL v OUTSPELLED or OUTSPELT OUTSPELLING OUTSPELLSto vượt trội trong đánh vầnOUTSPEND v OUTSPENT OUTSPENDING OUTSPENDSto vượt quá giới hạn trong tiêu dùngOUTSPOKE quá khứ của outspeakOUTSPOKEN quá khứ hoàn thành của outspeakOUTSTAND v OUTSTOOD OUTSTANDING OUTSTANDSto chịu đựng lâu hơnOUTSTARE v OUTSTARED OUTSTARING OUTSTARESto đối diệnOUTSTART v OUTSTARTED OUTSTARTING OUTSTARTSto dẫn trướcOUTSTATE v OUTSTATED OUTSTATING OUTSTATESto vượt trội trong phát ngônOUTSTAY v OUTSTAYED OUTSTAYING OUTSTAYSto vượt trội trong sức bềnOUTSTEER v OUTSTEERED OUTSTEERING OUTSTEERSto vượt trội trong láiOUTSTEP v OUTSTEPPED OUTSTEPPING OUTSTEPSto bước xa hơnOUTSTOOD quá khứ của outstandOUTSTRIP v OUTSTRIPPED OUTSTRIPPING OUTSTRIPSto đi nhanh hơn hoặc xa hơnOUTSTUDY v OUTSTUDIED OUTSTUDYING OUTSTUDIESto vượt trội trong nghiên cứuOUTSTUNT v OUTSTUNTED OUTSTUNTING OUTSTUNTSto vượt trội trong biểu diễnOUTSULK v OUTSULKED OUTSULKING OUTSULKSto vượt trội trong giận dỗiOUTSUNG quá khứ hoàn thành của outsingOUTSWEAR v OUTSWORE or OUTSWARE OUTSWORN OUTSWEARING OUTSWEARSto vượt trội trong chửi thềOUTSWEEP v OUTSWEPT OUTSWEEPING OUTSWEEPSto vượt trội trong quétOUTSWIM v OUTSWAM OUTSWUM OUTSWIMMING OUTSWIMSto bơi nhanh hơn hoặc xa hơnOUTSWING v OUTSWUNG OUTSWINGING OUTSWINGSto vượt trội trong rungOUTTAKE n pl OUTTAKESmột đoạn đi raOUTTALK v OUTTALKED OUTTALKING OUTTALKSto vượt trội trong nóiOUTTASK v OUTTASKED OUTTASKING OUTTASKSto vượt trội trong làm công việcOUTTELL v OUTTOLD OUTTELLING OUTTELLSto nói công khaiOUTTHANK v OUTTHANKED OUTTHANKING OUTTHANKSto vượt trội trong cảm ơnOUTTHINK v OUTTHOUGHT OUTTHINKING OUTTHINKSto nghĩ tốt hơnOUTTHROB v OUTTHROBBED OUTTHROBBING OUTTHROBSto vượt trội trong nhịp đập mạnhOUTTHROW v OUTTHREW OUTTHROWN OUTTHROWING OUTTHROWSto ném xa hơn hoặc chính xác hơnOUTTOLD quá khứ của outtellOUTTOWER v OUTTOWERED OUTTOWERING OUTTOWERsto cao hơnOUTTRADE v OUTTRADED OUTTRADING OUTTRADESto vượt trội trong giao dịchOUTTRICK v OUTTRICKED OUTTRICKING OUTTRICKSto giành lợi thế bằng mưu mẹoOUTTROT v OUTTROTTED OUTTROTTING OUTTROTSto vượt trội trong nước kiệuOUTTRUMP v OUTTRUMPED OUTTRUMPING OUTTRUMPSto chơi tốt hơnOUTTURN n pl OUTTURNSmột lượng sản xuấtOUTVALUE v OUTVALUED OUTVALUING OUTVALUESto có giá trị hơnOUTVAUNT v OUTVAUNTED OUTVAUNTING OUTVAUNTSto vượt trội trong khoe khoangOUTVIE v OUTVIED OUTVYING OUTVIESto vượt trội trong một cuộc thiOUTVOICE v OUTVOICED OUTVOICING OUTVOICESto vượt trội trong âm lượng của giọngOUTVOTE v OUTVOTED OUTVOTING OUTVOTESto đánh bại bằng đa số phiếuOUTWAIT v OUTWAITED OUTWAITING OUTWAITSto vượt trội trong kiên nhẫnOUTWALK v OUTWALKED OUTWALKING OUTWALKSto vượt trội trong đi bộOUTWAR v OUTWARRED OUTWARRING OUTWARSto vượt trội trong chiến tranhOUTWARD adv về phía bên ngoàiOUTWARDS adv outwardOUTWASH n pl OUTWASHESdetritus rửa từ một khối băngOUTWASTE v OUTWASTED OUTWASTING OUTWASTESto vượt trội trong lãng phíOUTWATCH v OUTWATCHED OUTWATCHING OUTWATCHESto theo dõi lâu hơnOUTWEAR v OUTWORE OUTWORN OUTWEARING OUTWEARSto bền hơnOUTWEARY v OUTWEARIED OUTWEARYING OUTWEARIESto vượt trội trong làm mệt mỏiOUTWEEP v OUTWEPT OUTWEEPING OUTWEEPSto khóc nhiều hơnOUTWEIGH v OUTWEIGHED OUTWEIGHING OUTWEIGHSto nặng hơnOUTWENT quá khứ của outgoOUTWHIRL v OUTWHIRLED OUTWHIRLING OUTWHIRLSto vượt trội trong quay nhanhOUTWILE v OUTWILED OUTWILING OUTWILESto vượt trội trong thuyết phụcOUTWILL v OUTWILLED OUTWILLING OUTWILLSto vượt trội trong ý chíOUTWIND v OUTWINDED OUTWINDING OUTWINDSto làm hết hơiOUTWISH v OUTWISHED OUTWISHING OUTWISHESto vượt trội trong cầu nguyệnOUTWIT v OUTWITTED OUTWITTING OUTWITSto khôn hơnOUTWITH prep beyond the limits ofOUTWORE quá khứ của overwearOUTWORK v OUTWORKED or OUTWROUGHT OUTWORKING OUTWORKSto làm nhanh hơn hoặc tốt hơnOUTWORN quá khứ hoàn thành của overwearOUTWRITE v OUTWROTE or OUTWRIT OUTWRITTEN OUTWRITING OUTWRITESto viết tốt hơnOUTYELL v OUTYELLED OUTYELLING OUTYELLSto gào to hơnOUTYELP v OUTYELPED OUTYELPING OUTYELPSto vượt trội trong kêuOUTYIELD v OUTYIELDED OUTYIELDING OUTYIELDSto vượt trội trong sản lượngOUZEL n pl OUZELSmột loài chim Âu châuOUZO n pl OUZOSrượu mạnh Hy LạpOVA pl của ovumOVAL n pl OVALSmột hình hình trứng hoặc vật thểOVALITY n pl OVALITY, Sthường hình thoiOVALLy adv theo hình bầu dụcOVALNESS n pl OVALNESSEStrạng thái hình bầu dụcOVARIAL adj buồng trứngOVARIAN adj liên quan đến buồng trứngOVARIES pl của ovaryOVARIOLE n pl OVARIOLESmột trong những ống mà buồng trứng của hầu hết các loài côn trùng tạo thànhOVARITIS n pl OVARITIDESviêm buồng trứngOVARY n pl OVARIEStuyến sinh sản nữOVATE adj hình trứngOVATELY advOVATION n pl OVATIONSMột biểu hiện hoặc biểu diễn của khán giả phổ thôngOVEN n pl OVENSThuốc chứa trong có thể được sưởi ấmOVENLIKE adjOVENBIRD n pl OVENBIRD, Sam một loài chim MỹOVENWARE n pl OVENWAREPHINH nhựa chịu nhiệt để nướng và phục vụ thức ănOVER v OVERED OVERING OVERSto nhảy qua mặt khácOVERABLE adj quá thực hiện đượcOVERACT v OVERACTED OVERACTING OVERACTSto hành động phóng đạiOVERAGE n pl OVERAGEScác khoản vượt quáOVERAGED adj quá già không hữu íchOVERALL n pl OVERALLOmột bộ trang phục ngoài rộng rãiOVERAPT adj quá thành côngOVERARCH v OVERARCHED OVERARCHING OVERARCHESto thành cung trênOVERARM v OVERARMED OVERARMING OVERARMSto cung cấp quá nhiều vũ khíOVERATE thời quá khứ của overeatOVERAWE v OVERAWED OVERAWING OVERAWESto khống chế bằng cách thuyết phápOVERBAKE v OVERBAKED OVERBAKING OVERBAKESto nướng quá lâuOVERBEAR v OVERBORE OVERBORNE or OVERBORN OVERBEARING OVERBEARSto giải quyết qua trọng lượng hoặc quyền lực quá mứcOVERBEAT v OVERBEAT OVERBEATEN OVERBEATING OVERBEATSto đánh quá mạnhOVERBED adj nối giường ngủOVERBET v OVERBET hoặc OVERBETTED OVERBETTING OVERBETSto đánh giá quá nhiềuOVERBID v OVERBID OVERBID hoặc OVERBIDDEN OVERBIDDING OVERBIDSto đặt thầu cao hơnOVERBIG adj quá toOVERBILL v OVERBILLED OVERBILLING OVERBILLSto thẻ quá nhiềuOVERBITE n pl OVERBITESmột bộ răng bị xếp sai cáchOVERBLOW v OVERBLEW OVERBLOW
+
+-----OUTPUT TRUNCATED-----
+```
+entry(pa, n, [pas], "một người cha").
+entry(paan, n, [paans], "một lá trầu được gấp lại quanh miếng cau và gia vị").
+entry(pablum, n, [pablum], "bài viết hoặc bài nói nhạt nhẽo").
+entry(pabulum, n, [pabulums], "thực phẩmPABULAR adj").
+entry(pac, n, [pacs], "một chiếc giày như một đôi giày mộc").
+entry(paca, n, [pacas], "một loài gặm nhấm lớn").
+entry(nhip, v, [di_nhip, dang_di_nhip, di_nhip], "đi bộ đều đặn").
+mục_lục(pacer, danh_từ, [những_con_ngựa_pacer], "một con ngựa có dáng đi là dáng chạy").
+entry(pacey, adj, [], "PACIER PACIESTgiữ nguyên tốc độ nhanh").
+entry(pacha, n, [pachas], "pasha").
+entry(pachadom, n, [pachadoms], "pashadom").
+entry(pachalic, n, [pachalics], "pashalik").
+entry(pachinko, n, [pachinkos], "một trò chơi pinball của Nhật Bản").
+mục(pachisi, n, [pachisis], "một trò chơi trên bàn cờ của Ấn Độ").
+entry(pachouli, n, [pachoulis], "một loại thảo mộc Ấn Độ Dương").
+entry(pachuco, n, [pachucos], "một thanh niên Mexico-Mỹ hào nhoáng").
+entry(pacier, so sánh hơn, [], "của pacey và pacy").
+entry(paciest, superlative, [], "của nhanh nhẹn và nhanh").
+mục(pacific, adj, [], "yên bình").
+entry(yên tâm, quá khứ, [], "thì của pacify").
+entry(pacifier, n, [núm vú giả], "một thứ làm dịu").
+entry(chủ_nghĩa_hòa_bình, n, [chủ_nghĩa_hòa_bình], "sự phản đối chiến tranh hoặc bạo lực").
+entry(người_ủng_hộ_chủ_nghĩa_hòa_bình, n, [những_người_ủng_hộ_chủ_nghĩa_hòa_bình], "người bênh vực chủ nghĩa hòa bình").
+entry(xoa_dịu, v, [xoa_dịu_được,xoa_dịu_đang,xoa_dịu], "làm cho yên bình").
+entry(nhịp độ, n, [nhịp độ], "tốc độ mà một sự kiện diễn ra").
+entry(pack, v, [đóng gói,đang đóng gói,đóng gói], "đặt vào vật chứa để vận chuyển hoặc lưu trữ. ĐÓNG GÓI adj").
+entry(gói, v, [đóng_gói,đang_đóng_gói,các_gói], "làm thành một gói một vật được bọc hoặc đóng hộp").
+entry(packager, n, [người đóng gói], "người đóng gói").
+entry(packer, n, [người đóng gói], "một người đóng gói").
+entry(packet, v, [đóng_gói,đang_đóng_gói,gói_nhỏ], "chuyển thành gói nhỏ").
+entry(dong_goi, n, [nhung_su_dung_dong_goi], "vật liệu dùng để đóng gói").
+entry(packly, adv, [], "thân mật").
+entry(packman, n, [packmen], "một người bán hàng rong").
+mục(packness, n, [packnesses], "sự thân mật").
+entry(packsack, n, [packsacks], "một cái túi đeo để mang trên lưng").
+entry(packwax, n, [packwaxes], "paxwax").
+entry(pact, n, [pacts], "một thỏa thuận").
+entry(paddies, pl, [], "lúa").
+entry(padding, n, [paddings], "vật liệu dùng để đệm").
+entry(paddle, v, [paddled,paddling,paddles], "chèo bằng một dụng cụ có lưỡi rộng").
+entry(tay_chéo, n, [người_chèo_thuyền], "người chèo thuyền").
+entry(paddling, n, [paddlings], "hành động của một người chèo thuyền").
+entry(paddock, v, [paddocked, paddocking, paddocks], "nhốt vào một khu rào cho ngựa").
+entry(paddy, n, [paddies], "một cánh đồng lúa").
+entry(padi, n, [padis], "lúa nước").
+entry(padishah, n, [padishahs], "một vị vua").
+entry(padle, n, [padles], "một cái cuốc").
+entry(khóa, v, [đã khóa, đang khóa, khóa], "để bảo vệ bằng một loại khóa").
+entry(padnag, n, [padnags], "một con ngựa di chuyển với tốc độ thoải mái").
+entry(padouk, n, [padouks], "padauk").
+mục(padre, n, [padres], "hoặc PADRI một tu sĩ Cơ đốc giáo").
+entry(padrona, n, [padronas], "một nữ ông chủ hoặc người sử dụng lao động").
+mục(padrone, n, [padrones], "hoặc PADRONI một ông chủ hoặc sếp").
+entry(padshah, n, [padshahs], "padishah").
+entry(paduasoy, n, [paduasoys], "một loại vải lụa mạnh").
+entry(paean, n, [paeans], "một bài ca vui").
+entry(paeanism, n, [paeanisms], "sự hát bài tụng ca").
+entry(paella, n, [paellas], "một món hầm hương vị nghệ tây").
+entry(paeon, n, [paeons], "một nhịp thơ gồm bốn âm tiếtPAEONIC adj").
+entry(paesan, n, [paesans], "paesano").
+entry(paesano, n, [paesanos], "hoặc PAESANI một người đồng hương").
+entry(ngoại giáo, n, [những người ngoại giáo], "người theo đạo đa thần").
+entry(pagandom, n, [pagandoms], "vương quốc của người ngoại giáo").
+entry(paganise, v, [paganised,paganising,paganises], "ngoại giáo hóa").
+entry(paganish, adj, [], "giống như một người ngoại giáo").
+entry(tín_ngưỡng_ngoại_đạo, n, [các_tín_ngưỡng_ngoại_đạo], "một thái độ không tôn giáo").
+entry(paganist, n, [paganists], "một người theo đạo ngoại giáo").
+entry(paganize, v, [paganized,paganizing,paganizes], "làm cho trở thành không tôn giáo").
+entry(page, v, [paged,paging,pages], "triệu hồi bằng cách gọi tên của").
+entry(pageant, n, [các_cuộc_diễu_hành], "một buổi biểu diễn công cộng hoành tráng").
+entry(pageboy, n, [pageboys], "kiểu tóc của phụ nữ").
+entry(pageful, n, [pagefuls], "nhiều như một trang có thể chứa").
+entry(pager, n, [máy nhắn tin], "một thiết bị báo động").
+entry(trang, adj, [], "liên quan đến các trang của một cuốn sách").
+entry(phân_trang, v, [đã_phân_trang,đang_phân_trang,phân_trang], "đánh số các trang của").
+entry(paging, n, [trang], "một sự chuyển giao các trang máy tính").
+entry(pagod, n, [chùa], "pagoda").
+entry(ngoi_chua, n, [cac_ngoi_chua], "một ngôi đền ở Viễn Đông").
+entry(ẩn sĩ, n, [ẩn sĩ], "một con cua ẩn sĩ").
+entry(pagurid, n, [pagurid], "pagurian").
+entry(pah, thán từ, [], "được sử dụng như một thán từ thể hiện sự ghê tởm").
+entry(pahlavi, n, [pahlavis], "một đồng tiền cũ của Iran").
+entry(pahoehoe, n, [pahoehoes], "dung nham đã đông đặc mịn").
+đầu_mục(thanh_toán, a, [], "quá khứ của trả tiền").
+entry(paik, v, [paiked,paiking,paiks], "đánh hoặc đập").
+entry(bucket, n, [buckets], "một cái thùng hình trụ kín nước").
+mục(pailful, n, [pailfuls], "hoặc PAILSFULnhiều như một xô có thể chứa").
+entry(paillard, n, [paillards], "một lát thịt đập mỏng và nướng").
+entry(pain, v, [pained,paining,pains], "gây ra đau đớn khổ sở hoặc đau buồn").
+entry(painch, n, [painches], "bụng phệ").
+entry(đau đớn, adj, [], "PAINFULLER PAINFULLEST gây đau").
+entry(không đau, adj, [], "không gây đau").
+entry(sơn, v, [sơn,đang sơn,sơn], "thực hiện một bức tranh bằng các chất màu sơn").
+entry(hộp màu, n, [hộp màu], "một chiếc hộp chứa sơn khô").
+entry(họa_sĩ, n, [những_họa_sĩ], "một người vẽ tranh").
+entry(hội_họa, n, [bức_tranh], "một bức tranh được vẽ bằng sơn").
+entry(painty, adj, [], "PAINTIER PAINTIESTphủ sơn").
+entry(pair, v, [ghép đôi,ghép cặp,cặp đôi], "sắp xếp thành từng cặp hai").
+mục(lập_cặp, n, [cặp_đôi], "một sự ghép đôi của hai đối thủ trong một giải đấu").
+entry(pairwise, adv, [], "thành từng cặp đôi").
+entry(paisa, n, [paisas], "hoặc PAISEa đồng tiền của Pakistan").
+entry(paisan, n, [paisans], "đồng hương").
+entry(paisana, n, [paisanas], "một nữ đồng hương").
+entry(paisano, n, [paisanos], "đồng hương").
+entry(paise, a, [], "số nhiều của paisa").
+entry(paisley, n, [paisleys], "một loại vải len có hoa văn").
+entry(pajama, n, [đồ ngủ], "một loại trang phục để ngủ hoặc thư giãn").
+entry(pajamaed, adj, [], "mặc đồ ngủ").
+entry(pak, n, [paks], "gói").
+entry(pakeha, n, [pakehas], "một người không có dòng dõi Maori").
+entry(pakora, n, [pakoras], "một chiếc bánh nhỏ cay làm từ bột chiên với rau củ hoặc thịt").
+entry(pal, v, [palled,palling,pals], "kết bạn").
+entry(palabra, n, [palabras], "một từ").
+entry(cung_điện, n, [cung_điện], "một nơi ở hoàng gia").
+entry(paladin, n, [các_paladin], "một chiến binh hiệp sĩ").
+entry(cung_dien, n, [cung_dien], "một cung điện").
+entry(palapa, n, [palapas], "một ngôi nhà không có tường với mái lợp bằng lá cọ").
+entry(vòm miệng, n, [các vòm miệng], "một xương của vòm miệng").
+entry(vòm_miệng, n, [vòm_miệng], "phần trên của miệng").
+entry(tráng lệ, adj, [], "giống như một cung điện").
+entry(palatine, n, [palatines], "một quan chức cao cấp của một đế chế").
+entry(tán_gẫu, v, [tán_gẫu_rồi,tán_gẫu_đang,tán_gẫu], "để nói chuyện phiếm").
+entry(palazzo, n, [palazzi], "một tòa nhà ấn tượng").
+entry(palazzos, npl, [], "quần ống rộng cho phụ nữ").
+entry(pale, adj, [], "NHẠT NHẤT thiếu độ sâu của màu sắc").
+entry(pale, v, [paled,paling,pales], "làm cho nhợt nhạt hoặc trở nên nhợt nhạt").
+entry(palea, n, [paleae], "một chiếc lá bắc nhỏPALEAL adj").
+entry(paleate, adj, [], "phủ bởi vảy").
+entry(khuôn mặt nhợt nhạt, n, [khuôn mặt nhợt nhạt], "một người da trắng").
+entry(nhợt nhạt, adv, [], "một cách nhợt nhạt").
+entry(tái nhợt, n, [sự tái nhợt], "chất lượng của việc trở nên nhợt nhạt").
+entry(paleocon, n, [paleocons], "một người bảo thủ cực kỳ cánh hữu").
+entry(paleosol, n, [paleosols], "một lớp đất cổ").
+entry(nhợt nhạt hơn, so sánh, [], "của nhợt nhạt").
+entry(nhạt nhất, cấp bậc nhất, [], "của nhạt").
+entry(palestra, n, [palestras], "hoặc PALESTRAEa trường thể thao ở Hy Lạp cổ đại").
+entry(palet, n, [palets], "một palea").
+entry(paletot, n, [paletots], "một chiếc áo khoác rộng").
+entry(bảng pha màu, n, [bảng pha màu], "một bảng mà nghệ sĩ trộn màu").
+entry(paleways, adv, [], "palewise").
+entry(palewise, adv, [], "theo chiều dọc").
+entry(palfrey, n, [palfreys], "một con ngựa cưỡi").
+entry(pali, n, [palis], "một vách đá ở Hawaii").
+entry(palier, comparative, [], "of paly").
+entry(paliest, superlative, [], "của paly").
+entry(palikar, n, [palikars], "một người lính Hy Lạp").
+entry(tiền cấp dưỡng không hôn thú, n, [tiền cấp dưỡng không hôn thú], "một khoản trợ cấp được trả cho một thành viên của một cặp đôi chưa kết hôn đã chia tay").
+entry(paling, n, [palings], "hàng rào cọc").
+entry(palinode, n, [palinodes], "một sự rút lại chính thức").
+entry(palisade, v, [palisaded,palisading,palisades], "gia cố bằng hàng rào kiên cố").
+entry(palish, adj, [], "hơi tái nhợt").
+entry(pall, v, [palled,palling,palls], "trở nên nhạt nhẽo").
+entry(palladia, npl, [], "biện pháp bảo vệ").
+entry(palladic, adj, [], "thuộc về nguyên tố kim loại palladium").
+mục(palled, quá_khứ, [], "thì của pal").
+entry(pallet, v, [palleted,palleting,pallets], "để đặt lên nền tảng để lưu trữ hoặc di chuyển").
+entry(pallette, n, [pallettes], "một mảnh áo giáp bảo vệ nách").
+entry(pallia, a, [], "dạng số nhiều của pallium").
+entry(pallial, adj, [], "thuộc về một phần của não").
+mục(làm dịu đi, v, [đã làm dịu, đang làm dịu, làm dịu], "che giấu mức độ nghiêm trọng của").
+entry(pallid, adj, [], "PALLIDER PALLIDESTpalePALLIDLY adv").
+entry(pallier, so_sánh, [], "of pally").
+entry(palliest, so sánh nhất, [], "của pally").
+entry(palling, present, [], "phân từ của pal hoặc pall").
+entry(pallium, n, [palliums], "hoặc PALLIA, một chiếc áo choàng mặc ở La Mã cổ đại").
+entry(pallor, n, [pallors], "tái nhợt").
+entry(pally, adj, [], "PALLIER PALLIESTđặc trưng bởi tình bạn thân thiết").
+entry(palm, v, [palmed,palming,palms], "chạm vào bằng bề mặt lòng bàn tay").
+entry(palmar, adj, [], "liên quan đến lòng bàn tay").
+entry(palmary, adj, [], "xứng đáng được khen ngợi").
+entry(palmate, adj, [], "giống bàn tay mở").
+entry(palmated, adj, [], "giống lá cọ").
+entry(palmball, n, [palmballs], "một cú ném bóng chày từ lòng bàn tay và ngón cái").
+entry(palmer, n, [palmers], "một người hành hương tôn giáo").
+mục(palmette, n, [palmettes], "một loại trang trí").
+entry(cọ, n, [cọ], "hoặc CỌ nhiệt đới").
+entry(palmful, n, [palmfuls], "nhiều như một lòng bàn tay có thể giữ").
+entry(palmier, n, [palmiers], "một loại bánh có hình dạng như lá cọ").
+entry(palmiest, superlative, [], "của palmy").
+entry(nhà chiêm tinh, n, [nhà chiêm tinh], "một thầy bói").
+entry(palmitin, n, [palmitins], "một hợp chất hóa học").
+entry(giống_cây_cọ, adj, [], "giống cây cọ").
+entry(palmtop, n, [palmtops], "một máy tính nhỏ gọn trong lòng bàn tay").
+entry(palmy, adj, [], "ĐẶC TRƯNG BỞI SỰ THỊNH VƯỢNG PALMIER PALMIEST").
+entry(palmyra, n, [palmyras], "một loại cây nhiệt đới").
+entry(palomino, n, [palominos], "một con ngựa có bộ lông màu vàng và bờm trắng").
+entry(palooka, n, [palookas], "một võ sĩ đấm bốc kém cỏi").
+entry(palp, v, [palped,palping,palps], "chạm vào").
+entry(hữu_hình, adj, [], "có thể cảm nhận đượcPALPABLY adv").
+entry(palpal, adj, [], "liên quan đến một phần phụ").
+entry(sờ, v, [đã_sờ,đang_sờ,sờ], "kiểm tra bằng cách chạm vào").
+entry(palpator, n, [palpators], "người sờ nắn").
+entry(mí mắt, n, [mí mắt], "hoặc PALPEBRAE một mí mắt").
+entry(palpus, n, [palpi], "một cơ quan cảm giác của loài chân khớp").
+entry(palsa, n, [palsas], "một dạng địa hình vùng cận Bắc cực").
+entry(palship, n, [palships], "mối quan hệ tồn tại giữa những người bạn thân").
+entry(tê, v, [tê liệt, tê liệt hóa, tê liệt hóa], "làm tê liệt").
+entry(palsy, adj, [], "PALSIER PALSIESTthân thiện theo cách không đúng mực hoặc không chân thành").
+entry(palter, v, [paltered, paltering, palters], "nói hoặc hành động không chân thành").
+entry(palterer, n, [palterers], "một người lừa phỉnh").
+entry(paltry, adj, [], "PALTRIER PALTRIESTpettyPALTRILY adv").
+entry(paludal, adj, [], "liên quan đến đầm lầy").
+entry(sốt rét, n, [sốt réts], "malaria").
+entry(paly, adj, [], "HƠI TÁI NHỢT NHẠT NHẤT").
+entry(pam, n, [pams], "lá bồi chuồn trong một số trò chơi bài").
+entry(pampa, n, [pampas], "một đồng cỏ ở Nam Mỹ").
+entry(pampean, n, [pampeans], "một người bản địa của pampas").
+entry(nuông_chiều, v, [đã_nuông_chiều,đang_nuông_chiều,nuông_chiều], "đối xử với sự nuông chiều cực độ hoặc quá mức").
+entry(pamperer, n, [pamperers], "người nuông chiều").
+entry(pampero, n, [pamperos], "một cơn gió khô lạnh").
+entry(tờ_rơi, n, [tờ_rơi], "một tác phẩm in có bìa giấy").
+entry(pan, v, [panned,panning,pans], "chỉ trích nặng nề").
+entry(panacea, n, [panaceas], "một phương thuốc chữa mọi bệnh hoặc ốm đauPANACEAN adj").
+entry(phô trương, n, [phô trương], "một chùm lông trang trí").
+entry(panada, n, [panadas], "một loại nước sốt đặc").
+entry(panama, n, [panamas], "một chiếc mũ nhẹ").
+entry(panatela, n, [panatelas], "một loại xì gà dài và mảnh").
+mục(panbroil, v, [panbroiled,panbroiling,panbroils], "rán trên chảo với ít hoặc không có mỡ").
+entry(pancake, v, [pancaked,pancaking,pancakes], "hạ cánh một chiếc máy bay theo một cách nhất định").
+entry(thịt_bụng_heo_muối, n, [thịt_bụng_heo_muối], "thịt ba chỉ Ý không xông khói").
+entry(panchax, n, [panchaxes], "một loại cá nhiệt đới").
+mục(tuyến_tụy, n, [tuyến_tụy], "một tuyến lớn").
+entry(panda, n, [gấu trúc], "một loài động vật có vú ăn cỏ").
+entry(pandan, n, [pandans], "cây dứa dại").
+entry(cây dứa dại, n, [cây dứa dại], "hoặc PANDANI một loại cây nhiệt đới").
+entry(pandect, n, [pandects], "một bộ luật hoàn chỉnh").
+entry(dịch bệnh, n, [dịch bệnh], "một loại bệnh lan rộng").
+entry(pander, v, [pandered,pandering,panders], "đáp ứng sự thỏa mãn cho những mong muốn của người khác").
+entry(kẻ chiều chuộng, n, [những kẻ chiều chuộng], "một người chiều chuộng").
+entry(pandied, past, [], "thì của pandy").
+entry(pandies, hiện tại, [], "ngôi thứ 3 số ít của pandy").
+entry(pandit, n, [pandit], "một người uyên bác hoặc thông thái ở Ấn Độ").
+entry(pandoor, n, [pandoors], "pandour").
+entry(pandora, n, [pandoras], "ban-đô").
+entry(pandore, n, [pandores], "đàn pandore").
+entry(pandour, n, [pandours], "một người lính cướp phá").
+entry(pandowdy, n, [pandowdies], "một món tráng miệng từ táo").
+entry(pandura, n, [panduras], "đàn pandore").
+entry(pandy, v, [pandied, pandying, pandies], "trừng phạt bằng cách đánh vào tay").
+entry(pane, n, [panes], "một tấm kính cho một cửa sổPANED adj").
+entry(paneer, n, [paneers], "một loại phô mai sữa đông").
+entry(panel, v, [paneled,paneling,panels], "hoặc PANELLED PANELLING PANELSto trang trí với các tấm vật liệu mỏng").
+entry(paneless, adj, [], "thiếu kính chắn").
+mục(paneling, n, [panelings], "vật liệu dùng để ốp tường").
+mục(thành_viên_thảo_luận, n, [các_thành_viên_thảo_luận], "một thành viên của một nhóm thảo luận hoặc tư vấn").
+entry(panelled, a, [], "quá khứ của panel").
+entry(panelling, a, [], "phân từ hiện tại của panel").
+entry(panetela, n, [panetelas], "panatela").
+entry(panfish, v, [panfished,panfishing,panfishes], "câu cá nhỏ để chiên nguyên con").
+entry(panforte, n, [panfortes], "một loại bánh cứng cay").
+entry(panfry, v, [panfried,panfrying,panfries], "rán trên chảo").
+entry(panful, n, [panfuls], "nhiều như một cái chảo sẽ chứa").
+entry(pang, v, [panged,panging,pangs], "gây ra co thắt đau đớn").
+entry(panga, n, [pangas], "một con dao lớn").
+entry(pangen, n, [pangens], "một phần tử giả định điều khiển di truyền của chất nguyên sinh").
+entry(pangene, n, [pangenes], "pangen").
+entry(tê tê, n, [tê tê], "một loài động vật có vú không có răng").
+entry(pangram, n, [pangrams], "một câu chứa tất cả các chữ cái trong bảng chữ cái").
+entry(panhuman, adj, [], "liên quan đến toàn bộ nhân loại").
+entry(hoảng loạn, v, [hoảng loạn rồi, đang hoảng loạn, hoảng loạn], "bị choáng ngợp bởi sợ hãi").
+mục(panicky, adj, [], "PANICKIER PANICKIESTcó xu hướng hoảng loạn").
+entry(panicle, n, [panicles], "một cụm hoa phân nhánh lỏng lẻoPANICLED adj").
+entry(panicum, n, [panicums], "một loại cỏ").
+entry(panier, n, [paniers], "giỏ").
+mục(panino, n, [panini], "hoặc PANINISa một loại bánh sandwich làm từ bánh mì nhỏ").
+entry(panlike, adj, [], "giống chảo, một đồ chứa dùng để nấu ăn").
+entry(panmixia, n, [panmixias], "giao phối ngẫu nhiên trong một quần thể sinh sản").
+entry(panmixis, n, [panmixes], "panmixia").
+entry(panne, n, [pannes], "một loại nhung bóng").
+entry(panned, past, [], "thì quá khứ của \"pan\"").
+entry(panner, n, [panners], "một người gạn lọc").
+entry(pannier, n, [giỏ lớn], "một cái giỏ lớn").
+entry(pannikin, n, [pannikins], "một cái nồi nhỏ").
+entry(panning, hiện tại, [], "phân từ của pan").
+entry(pannist, n, [các pannist], "một người chơi trống thép").
+entry(panocha, n, [panochas], "một loại đường thô của Mexico").
+entry(panoche, n, [panoches], "panocha").
+entry(panoply, n, [panoplies], "một bộ áo giáp").
+entry(panoptic, adj, [], "bao gồm mọi thứ có thể nhìn thấy trong một cái nhìn").
+entry(panorama, n, [toàn cảnh], "một cái nhìn tổng thể").
+entry(ống_pan, n, [ống_pan], "một nhạc cụ").
+entry(pansophy, n, [pansophies], "kiến thức phổ quát").
+entry(cây păng xê, n, [cây păng xê], "một loại cây có hoa").
+entry(quần dài, v, [thở hổn hển, thở hổn hển, quần], "thở nhanh và khó khăn").
+entry(pantalet, n, [pantalets], "quần lót dài được trang trí bằng bèo nhún").
+entry(đền thờ, n, [đền thờ], "một ngôi đền dành riêng cho tất cả các vị thần").
+entry(báo đen, n, [báo đen], "một con báo").
+entry(quần lót, n, [quần lót], "một loại đồ lót của phụ nữ hoặc trẻ em").
+entry(quần_lót, pl, [], "của quần lót").
+entry(pantile, n, [pantiles], "mái ngóiNGÓI adj").
+entry(panto, n, [pantos], "một vở kịch câm").
+entry(pantofle, n, [pantofles], "một chiếc dép").
+entry(pantoum, n, [pantoums], "một thể thơ").
+entry(pantry, n, [pantries], "một tủ hoặc phòng để lưu trữ dụng cụ nhà bếp").
+entry(bộ com lê quần, n, [bộ com lê quần], "một loại áo vest của phụ nữ").
+entry(quần_lót, n, [quần_lót_phụ_nữ], "quần_lót").
+entry(panzer, n, [xe_tang], "một phương tiện chiến đấu bọc thép").
+entry(pap, n, [paps], "một loại thức ăn mềm cho trẻ sơ sinh").
+entry(papa, n, [papas], "một người cha").
+entry(papacy, n, [papacies], "chức vị giáo hoàng").
+entry(papadam, n, [papadams], "bánh papadum").
+entry(papadom, n, [papadoms], "bánh tráng Ấn Độ").
+entry(papadum, n, [bánh_papadum], "một loại bánh mì giòn mỏng của Ấn Độ").
+entry(papain, n, [papains], "một loại enzyme").
+entry(papal, adj, [], "thuộc về giáo hoàngPAPALLY adv").
+entry(papalist, n, [papalists], "một người ủng hộ quyền tối cao của giáo hoàng").
+entry(papaw, n, [đu đủ], "một loại quả mọng thịt").
+entry(đu đủ, n, [đu đủs], "một loại trái cây giống quả dưaPAPAYAN adj").
+entry(paper, v, [papered,papering,papers], "để bọc hoặc quấn bằng giấy tờ một tấm mỏng làm từ bột cellulose").
+entry(cậu bé giao báo, n, [các cậu bé giao báo], "một cậu bé bán báo").
+entry(paperer, n, [paperers], "người dán giấy").
+entry(mỏng_như_giấy, adj, [], "giống như giấy").
+entry(paphian, n, [paphians], "một gái mại dâm").
+entry(papilla, n, [núm], "một nhú giống núm vúPAPILLAR adj").
+entry(papillon, n, [papillons], "một con chó nhỏ có đôi tai lớn").
+entry(papoose, n, [papooses], "một em bé của người bản địa Mỹ").
+entry(pappadam, n, [pappadams], "papadum").
+entry(pappadum, n, [pappadums], "papadum").
+entry(pappi, a, [], "pl của pappus").
+entry(pappier, comparative, [], "của pappy").
+entry(pappies, pl, [], "của cha").
+entry(pappoose, n, [pappooses], "papoose").
+entry(pappus, n, [pappi], "một chùm lông trên quả bế của một số loài thực vậtPAPPOSE PAPPOUS adj").
+entry(pappy, adj, [], "GIỐNG GIẤY").
+entry(pappy, n, [pappies], "một người cha").
+entry(paprica, n, [papricas], "ớt bột").
+entry(paprika, n, [các dạng paprika], "một loại gia vị làm từ ớt đỏ").
+entry(papula, n, [papulae], "hoặc PAPULASpapule").
+entry(nốt sần, n, [nốt sần], "một mụn PAPULĂ PAPULOSE PAPULOUS adj").
+entry(papyrus, n, [papyruses], "hoặc PAPYRIa cây thủy sinh caoPAPYRAL PAPYRIAN PAPYRINE adj").
+entry(par, v, [đánh_par,đánh_parring,đánh_pars], "để đánh đủ số gậy tiêu chuẩn trong golf").
+entry(para, n, [paras], "hoặc PARAEa tình trạng của một người phụ nữ liên quan đến việc sinh con").
+entry(parable, n, [ngụ ngôn], "một câu chuyện đơn giản truyền tải bài học đạo đức hoặc tôn giáo").
+entry(parabola, n, [parabol], "hoặc PARABOLAE một phần của hình nón").
+entry(parachor, n, [parachors], "một hằng số toán học liên quan đến thể tích phân tử với sức căng bề mặt").
+entry(diễu_hành, v, [đã_diễu_hành,đang_diễu_hành,diễu_hành], "diễu hành trong một cuộc diễu hành công cộng").
+entry(parader, n, [người diễu hành], "một người diễu hành").
+entry(paradigm, n, [paradigms], "một khuôn mẫu hoặc ví dụ").
+entry(thien_duong, n, [thien_duong], "một nơi đẹp hoặc cực kỳ thích thú").
+entry(parador, n, [paradors], "hoặc PARADORES, một nhà trọ ở Tây Ban Nha").
+entry(parados, n, [paradoses], "một bờ đê bảo vệ").
+entry(paradox, n, [nghịch lý], "một phát biểu dường như mâu thuẫn hoặc vô lý nhưng có lẽ là đúng").
+entry(paradrop, v, [paradropped,paradropping,paradrops], "thả dù").
+entry(paraffin, v, [đã phủ paraphin, đang phủ paraphin, phủ paraphin], "phủ một chất sáp").
+entry(cánh_dù, n, [cánh_dù], "một thiết bị bằng vải giống như một chiếc dù").
+entry(paraform, n, [paraforms], "một chất được sử dụng làm chất sát trùng").
+entry(paragoge, n, [paragoges], "việc thêm một âm hoặc các âm ở cuối một từ").
+entry(paragon, v, [paragoned, paragoning, paragons], "so sánh với").
+mục(vẹt, n, [vẹt], "một loài vẹt nhỏ").
+mục(parakite, n, [parakites], "một loại diều có dù để kéo một người bay trên không bằng thuyền máy").
+entry(parallax, n, [parallaxes], "sự dịch chuyển quang học rõ rệt của một vật thể").
+entry(song_song, v, [đã_được_song_song,đang_được_song_song,được_song_song], "hoặc ĐÃ_ĐƯỢC_SONG_SONG ĐANG_ĐƯỢC_SONG_SONG ĐƯỢC_SONG_SONG để tương tự hoặc tương đồng với").
+entry(tê_liệt, v, [tê_liệt,đang_tê_liệt,tê_liệt], "làm tê liệt").
+entry(paralyze, v, [bị liệt,đang làm tê liệt,làm tê liệt], "làm cho không thể di chuyển").
+entry(parament, n, [paraments], "hoặc PARAMENTAtrang phục lễ nghi").
+entry(paramo, n, [paramos], "một vùng cao nguyên của Nam Mỹ").
+entry(paramour, n, [những người tình], "một người yêu bất chính").
+entry(parang, n, [parangs], "một con dao nặng").
+entry(paranoea, n, [paranoeas], "hoang tưởng").
+entry(hoang tưởng, n, [hoang tưởng], "một rối loạn tâm thần").
+entry(paranoic, n, [paranoics], "một người hoang tưởng").
+entry(paranoid, n, [paranoids], "một người bị ảnh hưởng bởi chứng hoang tưởng").
+entry(parapet, n, [parapets], "một bức tường bảo vệ").
+entry(paraph, n, [paraphs], "một nét hoa mỹ ở cuối chữ ký").
+entry(paraquat, n, [paraquat], "một loại thuốc diệt cỏ").
+entry(vẹt đuôi dài, n, [vẹt đuôi dài], "parakeet").
+entry(parasail, v, [parasailed,parasailing,parasails], "bay lượn trong khi được gắn vào một chiếc dù kéo bởi xe hơi hoặc thuyền").
+entry(parasang, n, [parasangs], "một đơn vị khoảng cách của Ba Tư").
+entry(parashah, n, [parashahs], "hoặc PARASHOTH hoặc PARASHOT, một phần của Torah được đọc vào ngày Sabbath").
+mục(ký sinh trùng, n, [các ký sinh trùng], "một sinh vật sống và nuôi dưỡng trên hoặc trong một sinh vật khác").
+entry(parasol, n, [ô nhỏ], "một chiếc ô nhỏ gọn").
+entry(paratha, n, [parathas], "một miếng bánh mì không men được chiên trên vỉ").
+entry(paravane, n, [paravanes], "một thiết bị dưới nước được sử dụng để cắt cáp").
+entry(parawing, n, [parawings], "một chiếc dù cánh").
+entry(parazoan, n, [parazoans], "bất kỳ loài nào thuộc một phân nhóm chính của động vật đa bào").
+entry(parbake, v, [parbaked,parbaking,parbakes], "nướng một phần").
+entry(nấu_sơ_qua, v, [nấu_sơ_qua_rồi,nấu_sơ_qua,nấu_sơ_qua_nhiều_lần], "nấu một phần bằng cách luộc trong thời gian ngắn").
+mục(bưu_kiện, v, [đã_gửi,đang_gửi,những_bưu_kiện], "hoặc ĐÃ_GỬI ĐANG_GỬI NHỮNG_BƯU_KIỆNvà chia thành các phần hoặc phần chia sẻ").
+entry(parcener, n, [parceners], "người thừa kế chung").
+entry(parch, v, [parched,parching,parches], "làm cho rất khô").
+entry(parchesi, n, [parchesis], "pachisi").
+entry(parchisi, n, [parchisis], "pachisi").
+entry(parclose, n, [parcloses], "một màn chắn chia các khu vực trong nhà thờ").
+entry(pard, n, [pards], "một con báo").
+entry(pardah, n, [pardahs], "purdah").
+entry(pardee, thán_từ, [], "pardi").
+entry(pardi, thán_từ, [], "dùng như một lời thề nhẹ").
+entry(pardie, interj, [], "pardi").
+entry(pardine, adj, [], "thuộc về báo hoa mai").
+entry(pardner, n, [pardners], "bạn thân").
+entry(pardon, v, [pardoned,pardoning,pardons], "miễn trách nhiệm cho một hành vi phạm tội").
+entry(kẻ_tha_thứ, n, [những_kẻ_tha_thứ], "người tha thứ").
+entry(pardy, interj, [], "pardi").
+entry(pare, v, [pared,paring,pares], "để cắt bỏ lớp vỏ ngoài của").
+entry(parecism, n, [parecisms], "trạng thái có cơ quan sinh dục nam và nữ bên cạnh hoặc gần nhau").
+entry(pareira, n, [pareiras], "rễ cây làm thuốc").
+entry(paren, n, [parens], "dấu ngoặc đơn").
+entry(parent, v, [làm cha mẹ,nuôi dưỡng,cha mẹ], "thực hiện các chức năng của một người cha hoặc mẹ").
+entry(parental, adj, [], "liên quan đến cha mẹ").
+entry(pareo, n, [pareos], "pareu").
+entry(parer, n, [parers], "người gọt vỏ").
+entry(parergon, n, [parerga], "một tác phẩm được lấy từ một công trình lớn hơn").
+entry(paresis, n, [pareses], "mất một phần khả năng di chuyển").
+mục(paretic, n, [paretics], "một người bị chứng bại").
+entry(pareu, n, [pareus], "một loại trang phục của người Polynesia").
+entry(pareve, adj, [], "parve").
+entry(parfait, n, [parfaits], "một món tráng miệng đông lạnh").
+entry(parflesh, n, [parfleshes], "một miếng da sống ngâm trong dung dịch kiềm để loại bỏ lông và phơi khô").
+entry(parfocal, adj, [], "có các thấu kính với các điểm tiêu cự tương ứng nằm trên cùng một mặt phẳng").
+entry(parge, v, [parged,parging,parges], "trát tường").
+entry(parget, v, [pargeted,pargeting,pargets], "hoặc PARGETTED PARGETTING PARGETSto phủ bằng thạch cao").
+entry(parging, n, [pargings], "một lớp vữa mỏng hoặc vữa trát để bịt kín đá xây").
+entry(pargo, n, [pargos], "một loại cá thực phẩm").
+entry(parhelia, npl, [], "vòng sáng xuất hiện trên quầng mặt trời").
+entry(parhelic, adj, [], "liên quan đến quầng sáng mặt trời").
+entry(pariah, n, [pariahs], "một kẻ bị xã hội ruồng bỏ").
+entry(parian, n, [parians], "một loại sứ trắng cứng").
+entry(paries, n, [parietes], "thành của một cơ quan").
+entry(đỉnh đầu, n, [đỉnh đầu], "một xương trong hộp sọ").
+entry(paring, n, [parings], "một cái gì đó được gọt bỏ").
+entry(paris, n, [parises], "một loại thảo dược châu Âu").
+entry(xứ, n, [xứ], "một khu vực giáo hội").
+entry(parity, n, [parities], "bình đẳng").
+entry(công_viên, v, [đậu_xe,đỗ_xe,để_xe], "để lại một phương tiện tại một địa điểm trong một thời gian").
+entry(parka, n, [parkas], "một loại áo có mũ trùm đầu").
+entry(bãi đỗ xe nhiều tầng, n, [bãi đỗ xe nhiều tầng], "một cấu trúc nhiều tầng để đậu xe").
+entry(parker, n, [parkers], "một người đỗ xe").
+entry(công_viên_nhỏ, n, [công_viên_nhỏ], "một công viên công cộng nhỏ").
+entry(parkier, comparative, [], "của parky").
+entry(parkiest, superlative, [], "của parky").
+entry(parkin, n, [parkins], "một loại bánh mì làm từ mật đường và yến mạch").
+entry(bãi_đỗ_xe, n, [các_bãi_đỗ_xe], "một khu vực mà xe cộ có thể được để lại").
+entry(đồng_có_cây, danh_từ, [đồng_có_cây], "một vùng cỏ với các cây đứng đơn lẻ hoặc nhóm lại").
+entry(parklike, adj, [], "giống như một khu vực giải trí ngoài trời").
+entry(parkour, n, [parkours], "môn thể thao vượt chướng ngại vật bằng cách chạy, leo trèo hoặc nhảy").
+entry(cao tốc, n, [cao tốc], "một con đường cao tốc rộng").
+entry(parky, adj, [], "RÉT MƯỚTnhất rét mướt").
+entry(parlance, n, [parlances], "một cách nói").
+entry(parlando, adj, [], "hát theo cách gợi nhớ đến lời nói").
+entry(parlante, adj, [], "parlando").
+entry(parlay, v, [parlayed,parlaying,parlays], "đánh cược một số tiền ban đầu và tiền thắng cược vào một sự kiện sau đó").
+entry(parle, v, [parled,parling,parles], "đàm phán").
+entry(thương lượng, v, [đã_thương_lượng,đang_thương_lượng,thương_lượng], "đàm phán điều kiện với kẻ thù").
+entry(parleyer, n, [parleyers], "một người đàm phán").
+entry(parlor, n, [parlors], "một căn phòng để tiếp khách").
+entry(salon, n, [salons], "phòng khách").
+entry(parlous, adj, [], "nguy hiểm").
+entry(parmesan, n, [parmesans], "một loại pho mát Ý khô cứng").
+entry(parodic, adj, [], "mô phỏng hài hước").
+entry(parodist, n, [parodists], "một người chế nhạo").
+entry(parodos, n, [parodoi], "một bài ca trong kịch Hy Lạp cổ đại").
+entry(parody, v, [parodied,parodying,parodies], "bắt chước một tác phẩm văn học nghiêm túc để tạo hiệu ứng hài hước").
+entry(parol, n, [parols], "một lời nói").
+entry(parole, v, [paroled,paroling,paroles], "thả tự do trước khi kết thúc án phạt").
+entry(parolee, n, [parolees], "người được tha tù giam").
+mục(từ đồng căn, n, [các từ đồng căn], "một từ có chung gốc với từ khác").
+entry(paronymy, n, [paronymies], "trạng thái của một paronym").
+entry(paroquet, n, [paroquets], "vẹt đuôi dài").
+entry(parosmia, n, [parosmias], "một sự biến dạng của khứu giác").
+entry(parotic, adj, [], "nằm gần tai").
+entry(parotid, n, [các tuyến mang tai], "một tuyến nước bọt").
+entry(parotoid, n, [parotoids], "một tuyến của một số loài cóc và ếch").
+entry(parous, adj, [], "đã sinh con").
+entry(paroxysm, n, [paroxysms], "một cơn bộc phát đột ngột hoặc một cuộc tấn công").
+entry(parquet, v, [parqueted,parqueting,parquets], "trang trí sàn bằng thiết kế khảm").
+entry(parr, n, [parrs], "một con cá hồi con").
+entry(parral, n, [parrals], "cột buồm").
+entry(parred, past, [], "thì của par").
+entry(parrel, n, [parrels], "một vòng dây thừng hoặc xích trượt được sử dụng trên tàu").
+entry(parridge, n, [parridges], "cháo").
+entry(parried, past, [], "thì quá khứ của parry").
+entry(parrier, n, [parriers], "người đỡ đòn").
+entry(parries, present, [], "ngôi thứ 3 số ít của parry").
+entry(parring, present, [], "phân từ của par").
+entry(parritch, n, [parritches], "cháo").
+entry(parroket, n, [parrokets], "vẹt đuôi dài").
+entry(convet, v, [conveted,conveting,convets], "lặp lại hoặc bắt chước mà không cần suy nghĩ hoặc hiểu biết").
+entry(parroter, n, [parroters], "người hay bắt chước").
+entry(parroty, adj, [], "giống như một con vẹt một loài chim nhiệt đới có mỏ cong").
+mục(parry, v, [parried, parrying, parries], "đỡ đòn").
+entry(parse, v, [được_phan_tích,đang_phan_tích,phân_tích], "để mô tả và phân tích ngữ phápCÓ_THỂ_PHÂN_TÍCH adj").
+entry(parsec, n, [parsecs], "một đơn vị đo khoảng cách thiên văn").
+mục(parser, n, [bộ_phân_tích], "người phân tích").
+entry(parsley, n, [parsleys], "một loại thảo mộc được trồng").
+entry(củ cải trắng, n, [củ cải trắng], "một loại thảo mộc châu Âu").
+entry(parson, n, [parsons], "một giáo sĩPARSONIC adj").
+mục(phần, v, [đã_chia,đang_chia,chia], "để phân chia hoặc bẻ ra thành các mảnh riêng biệt").
+entry(tham_gia, v, [tham_gia_vao,da_tham_gia,dang_tham_gia], "THAM_GIAlà tham dự").
+entry(người_tham_gia, n, [những_người_tham_gia], "một người tham gia").
+entry(partan, n, [partans], "một loại cua ăn được").
+entry(parter, n, [parters], "một cái chia cắt").
+entry(parterre, n, [parterres], "một phần của nhà hát").
+entry(partial, n, [partials], "một thành phần đơn giản của một âm phức tạp").
+entry(partible, adj, [], "có thể chia được").
+entry(hạt, n, [các_hạt], "một phần hoặc mảnh rất nhỏ").
+entry(partied, past, [], "thì của từ 'party'").
+entry(partier, n, [partiers], "người tham dự tiệc").
+entry(parties, present, [], "ngôi thứ 3 số ít của party").
+entry(chiase, n, [chiaxes], "một sự phân chia hoặc tách biệt").
+entry(partisan, n, [những người theo đảng], "một người ủng hộ vững chắc cho một cá nhân, đảng, hoặc sự nghiệp").
+entry(partita, n, [bản nhạc], "một tập hợp các tác phẩm khí nhạc liên quan").
+entry(partite, adj, [], "chia thành các phần").
+entry(partizan, n, [du kích], "partisan").
+entry(partlet, n, [partlets], "một loại trang phục của phụ nữ").
+entry(phần_chừng, adv, [], "ở một mức độ hay trình độ nào đó").
+mục(partner, v, [đã_hợp_tác,đang_hợp_tác,hợp_tác], "tham gia vào một hoạt động với sự quan tâm chung").
+entry(parton, n, [partons], "một hạt nguyên tử giả thuyết").
+entry(đã_tham_gia, quá_khứ, [], "thì của partake").
+entry(partway, adv, [], "ở một mức độ nào đó").
+entry(party, v, [dự tiệc,đang dự tiệc,những lần dự tiệc], "tham dự một buổi tụ họp xã hội").
+entry(partyer, n, [người_tiệc_tùng], "một người tham gia tiệc tùng").
+entry(partying, n, [partyings], "tham gia vào một bữa tiệc").
+entry(parura, n, [paruras], "bộ trang sức").
+entry(parure, n, [parures], "một bộ trang sức đồng bộ").
+entry(parve, adj, [], "được làm mà không có sữa hay thịt").
+entry(parvenu, n, [parvenus], "người đã đột ngột vươn lên trên giai cấp của mình").
+entry(parvenue, n, [parvenues], "một người phụ nữ học đòi làm sang").
+entry(parvis, n, [parvises], "một khu vực được bao quanh ở phía trước của một nhà thờ").
+entry(parvise, n, [parvises], "sân nhà thờ").
+entry(parvo, n, [parvos], "một bệnh truyền nhiễm ở chó").
+entry(parvolin, n, [parvolins], "một chất lỏng dầu thu được từ cá").
+entry(pascal, n, [pascals], "một đơn vị đo áp suất").
+entry(paschal, n, [paschals], "một cây nến được dùng trong các nghi lễ tôn giáo nhất định").
+entry(pase, n, [pases], "một động tác của áo choàng đấu trường").
+entry(paseo, n, [paseos], "một cuộc đi dạo nhàn nhã").
+entry(pash, v, [pashed,pashing,pashes], "tấn công một cách dữ dội").
+entry(pasha, n, [pashas], "một quan chức cấp cao người Thổ Nhĩ Kỳ trước đây").
+entry(pashadom, n, [pashadoms], "cấp bậc của một pasha").
+entry(pashalic, n, [pashalics], "pashalik").
+entry(pashalik, n, [pashaliks], "lãnh thổ của một viên pasha").
+entry(pashka, n, [pashkas], "paskha").
+entry(pashm, n, [pashms], "lông bên trong của một số động vật Tây Tạng").
+entry(pashmina, n, [pashminas], "len thu được từ dê Himalaya").
+entry(paska, n, [paskas], "paskha").
+entry(paskha, n, [paskhas], "một món tráng miệng của Nga ăn vào lễ Phục Sinh").
+entry(pasquil, n, [pasquils], "một bài thơ trào phúng hoặc châm biếm").
+entry(pass, v, [đã_đi_qua, đang_đi_qua, đi_qua], "đi qua").
+entry(passable, adj, [], "khá tốt hoặc chấp nhận đượcPASSABLY adv").
+entry(passade, n, [passades], "một động tác của ngựa quay ngược hoặc tiến tới trên cùng một mặt đất").
+entry(passado, n, [passados], "hoặc PASSADOESa đòn đánh về phía trước trong môn đấu kiếm").
+entry(hành trình, v, [đã hành trình,đang hành trình,những hành trình], "thực hiện một chuyến đi").
+entry(passant, adj, [], "đi với chân trước đưa ra, dùng để chỉ động vật trong huy hiệu").
+entry(passband, n, [passbands], "một dải tần số cho phép truyền tải với hiệu suất tối đa").
+entry(passbook, n, [sổ tiết kiệm], "một cuốn sổ ngân hàng").
+entry(passe, adj, [], "lỗi thời").
+entry(passee, adj, [], "đi qua").
+entry(passel, n, [passels], "một số lượng lớn hoặc con số").
+entry(passer, n, [người qua đường], "một người đi ngang qua").
+entry(người qua đường, n, [người qua đường], "người đi ngang qua").
+entry(passible, adj, [], "có khả năng cảm nhận hoặc chịu đau khổ").
+entry(passim, adv, [], "đây đó").
+entry(passing, n, [passings], "một cái chết").
+entry(đam mê, n, [đam mê], "cảm xúc mãnh liệt").
+entry(thụ_động, n, [thụ_động_số_nhiều], "một dạng động từ").
+mục(passkey, n, [passkeys], "một chìa khóa mở được nhiều ổ khóa khác nhau").
+entry(passless, adj, [], "không thể đi qua hoặc xuyên qua").
+entry(passover, n, [passovers], "lễ ăn cừu trong ngày lễ của người Do Thái").
+entry(hộ_chiếu, n, [hộ_chiếu], "một tài liệu cho phép di chuyển từ quốc gia này sang quốc gia khác").
+entry(passus, n, [passuses], "một phần của câu chuyện hoặc bài thơ").
+entry(mật_khẩu, n, [mật_khẩu], "một từ bí mật phải được nói ra để được nhận vào").
+entry(quá_khứ, n, [quá_khứs], "thời gian đã qua").
+entry(mì ống, n, [mì ống], "một loại thực phẩm làm từ bột nhào").
+entry(dán, v, [đã_dán,đang_dán,dán], "gắn với hỗn hợp dính").
+entry(pastel, n, [pastel], "một sắc thái mềm mại tinh tế").
+entry(paster, n, [pasters], "người dán").
+entry(móng, n, [móngs], "một phần của chân ngựa").
+entry(pasteup, n, [pasteups], "bản sao hoàn chỉnh được chụp ảnh để làm bản in").
+entry(pasticci, npl, [], "bánh ngọt").
+entry(pastiche, n, [các tác phẩm pastiche], "một tác phẩm nghệ thuật được tạo thành từ các mảnh ghép từ nhiều nguồn khác nhau").
+entry(pastie, n, [pasties], "bánh nhân").
+entry(pastier, so_sánh, [], "của pasty").
+entry(pasties, pl, [], "của bánh pasty").
+entry(pastiest, siêu cấp, [], "của pasty").
+entry(pastil, n, [các_viên_ngậm], "viên_ngậm").
+entry(pastille, n, [viên ngậm], "một loại kẹo ngậm").
+entry(pastily, adv, [], "theo cách giống như bột nhão").
+mục(giải_trí, d, [các_giải_trí], "một hoạt động giải trí").
+entry(pastina, n, [pastinas], "một loại mỳ ống").
+entry(dán, n, [các dán], "một trận đòn").
+entry(pastis, n, [pastises], "một loại rượu của Pháp").
+entry(pastitso, n, [pastitsos], "một món ăn Hy Lạp gồm thịt xay mì sốt trắng và phô mai").
+entry(pastless, adj, [], "không có quá khứ").
+entry(pastness, n, [pastnesses], "trạng thái đã qua hoặc đã đi qua").
+entry(pastor, v, [pastored,pastoring,pastors], "đóng vai trò giám sát tinh thần của").
+entry(mục_đồng, n, [mục_đồng], "một tác phẩm văn học hoặc nghệ thuật miêu tả cuộc sống nông thôn").
+entry(mục_sư, adj, [], "phù hợp với một mục sư, một người giám sát tinh thần").
+entry(pastrami, n, [pastramis], "thịt bò hun khói đậm đà vị gia vị").
+entry(pastromi, n, [pastromis], "pastrami").
+entry(bánh ngọt, n, [những chiếc bánh ngọt], "một loại thực phẩm nướng có vị ngọt").
+entry(pastural, adj, [], "liên quan đến đồng cỏ").
+entry(pasture, v, [pastured, pasturing, pastures], "cho ăn cỏ trong một khu vực chăn thả").
+entry(pasturer, n, [pasturers], "người chăn thả gia súc").
+entry(pasty, adj, [], "XANH XAO VÀ KHÔNG KHỎE MẠNH TRONG DIỆN MẠO").
+entry(pasty, n, [pasties], "một loại bánh nhân thịt").
+entry(pat, v, [vỗ,đang vỗ,vỗ nhẹ], "chạm nhẹ").
+entry(pat, adj, [], "PATTER PATTESTbiết rõ").
+entry(pataca, n, [patacas], "một đơn vị tiền tệ của Ma Cao").
+entry(patagial, adj, [], "liên quan đến một lớp da mỏng nối cánh và thân của một con vật").
+entry(patagium, n, [patagia], "một màng cánh của dơi").
+entry(patamar, n, [patamars], "một chiếc thuyền buồm").
+entry(miếng vá, v, [vá víu,vá,miếng vá], "để sửa chữa hoặc che một lỗ hổng hoặc điểm yếu trong").
+entry(patcher, n, [patchers], "một người vá").
+entry(patchy, adj, [], "KHÔNG ĐỀU NHẤT NHẤT Không đồng đều trong chất lượngKHÔNG ĐỀU adv").
+entry(pate, n, [pates], "đỉnh đầuPATED adj").
+entry(patella, n, [patellas], "hoặc xương bánh chè, xương phẳng có thể di chuyển ở phía trước đầu gối, tính từ PATELLAR").
+entry(paten, n, [patens], "một cái đĩa").
+mục(patency, n, [patencies], "trạng thái rõ ràng").
+entry(bằng_sáng_chế, v, [đã_cấp_bằng,đang_cấp_bằng,các_bằng_sáng_chế], "để đạt được bằng sáng chế, một quyền cấp bởi chính phủ bảo vệ quyền lợi của một nhà phát minh trên").
+mục(lậpphi, n, [lậpphis], "một người giữ bằng sáng chế").
+entry(rõ_ràng, adv, [], "hiển nhiên").
+entry(patentor, n, [patentors], "một người cấp bằng sáng chế").
+entry(pater, n, [paters], "một người cha").
+entry(paternal, adj, [], "liên quan đến một người cha").
+entry(đường, n, [các_con_đường], "một con đường hay lối đi đã được đi qua").
+entry(thảm hại, adj, [], "gợi lên lòng thương hại").
+entry(pathless, adj, [], "không có đường đi").
+entry(đường_dẫn, n, [các_đường_dẫn], "một mô tả về nơi tìm thấy một tệp tin").
+nhập(mầm_bệnh, n, [mầm_bệnh], "bất kỳ sinh vật gây bệnh nào").
+entry(pathos, n, [pathoses], "một phẩm chất gợi lên cảm giác thương hại hoặc lòng trắc ẩn").
+entry(con đường, n, [các con đường], "một con đường").
+entry(kiên_nhẫn, n, [kiên_nhẫn], "chất lượng của sự kiên nhẫn").
+entry(bệnh nhân, adj, [], "CHỊU ĐỰNG ĐƯỢC ĐIỀU KIỆN KHÓ CHỊU KHÔNG PHÀN NÀN").
+entry(bệnh nhân, n, [bệnh nhân], "một người đang được điều trị y tế").
+entry(patin, n, [patins], "trượt băng").
+entry(patina, n, [patinas], "hoặc PATINAE lớp màng xanh hình thành trên đồng thau PATINAED adj").
+entry(patinate, v, [patinated,patinating,patinates], "để tạo lớp gỉ đồng").
+entry(patine, v, [patined,patining,patines], "bao phủ bằng lớp gỉ").
+entry(patinize, v, [patinized, patinizing, patinizes], "tạo lớp gỉ đồng").
+entry(sân, n, [sân hiên], "khu vực lát gạch ngoài trời liền kề với một ngôi nhà").
+entry(patly, adv, [], "phù hợp").
+entry(patness, n, [patnesses], "sự phù hợp").
+entry(tiếng địa phương, n, [tiếng địa phương], "một phương ngữ").
+entry(patonce, adj, [], "có cánh tay mở rộng từ trung tâm và kết thúc bằng các thùy ba điểm, được sử dụng cho cây thánh giá huy hiệu").
+entry(patoot, n, [patoots], "patootie").
+entry(patootie, n, [patooties], "mông").
+entry(patriate, v, [patriated,patriating,patriates], "chuyển giao quyền lập pháp cho một quốc gia tự trị").
+entry(người yêu nước, n, [những người yêu nước], "người yêu đất nước của mình").
+entry(tuần tra, v, [tuần tra,đang tuần tra,tuần tra], "đi qua một khu vực để quan sát hoặc bảo vệ").
+entry(khách hàng, n, [khách hàng], "một khách hàng thường xuyên").
+entry(patroon, n, [patroons], "một chủ đất được cấp quyền trang viên theo luật cũ của Hà Lan").
+entry(patsy, n, [patsies], "một người dễ bị lừa").
+entry(pattamar, n, [pattamars], "tàu pattamar").
+entry(patted, quá_khứ, [], "thì của pat").
+entry(pattee, adj, [], "paty").
+entry(patten, n, [pattens], "một chiếc giày có đế gỗ dàyPATTENED adj").
+entry(patter, v, [pattered, pattering, patters], "nói ba hoa hoặc nhanh chóng").
+entry(patterer, n, [patterers], "người nói nhảm").
+entry(mẫu, v, [có_mẫu, tạo_mẫu, các_mẫu], "làm theo một thiết kế đã được chỉ định").
+entry(pattest, so_sánh_nhất, [], "của pat").
+entry(pattie, n, [patty], "patty").
+entry(patting, present, [], "phân từ của pat").
+entry(patty, n, [patties], "một chiếc bánh nhỏ làm từ thức ăn băm").
+entry(pattypan, n, [pattypans], "một chiếc chảo dùng để nướng bánh sâu lòng").
+mục(patulent, adj, [], "patulous").
+entry(patulous, adj, [], "mở rộng").
+entry(paty, adj, [], "hình thức").
+entry(patzer, n, [patzers], "một người chơi cờ vụng về").
+entry(paua, n, [pauas], "một loại động vật có vỏ lớn của New Zealand").
+entry(sự_khắc_hiếm, n, [sự_khắc_hiếm], "số lượng nhỏ hoặc số lượng").
+entry(paughty, adj, [], "kiêu ngạo").
+entry(pauldron, n, [pauldrons], "một mảnh áo giáp cho vai").
+entry(paulin, n, [paulins], "một tấm vật liệu chống thấm nước").
+entry(paunch, n, [paunches], "bụng hoặc bụngPAUNCHED adj").
+entry(paunchy, adj, [], "CÓ BỤNG PHỄNH BỤNG RỊN BỤNG RÕ CÓ BỤNG LỚN").
+mục_ngữ_vựng(kẻ_nghèo, v, [đã_làm_cho_nghèo, đang_làm_cho_nghèo, những_kẻ_nghèo], "đưa vào cảnh nghèo đói").
+entry(pauraque, n, [pauraques], "một loài chim săn mồi về đêm có đuôi dài").
+entry(pauropod, n, [pauropods], "bất kỳ loài động vật nhỏ có nhiều chân thuộc lớp nào").
+entry(pausal, adj, [], "liên quan đến việc tạm dừng hoặc nghỉ ngơi trong khi nói hoặc viết").
+entry(tạm_dừng, v, [tạm_dừng_lại,đang_tạm_dừng,dừng_tạm], "ngừng tạm thời").
+đầu_mục(người_tạm_dừng, n, [người_tạm_dừng], "một người tạm dừng").
+entry(pavan, n, [pavans], "một điệu nhảy chậm rãi và uy nghiêm").
+entry(pavane, n, [pavanes], "pavane").
+entry(pave, v, [paved,paving,paves], "phủ bằng vật liệu tạo bề mặt chắc chắn và bằng phẳng").
+entry(paveed, adj, [], "đặt gần nhau để che giấu đế kim loại").
+entry(vỉa hè, n, [vỉa hè], "một bề mặt được lát").
+entry(paver, n, [pavers], "người lát đường").
+entry(pavid, adj, [], "nhút nhát").
+entry(pavilion, v, [pavilioned,pavilioning,pavilions], "bao phủ bằng một chiếc lều lớn").
+entry(pavillon, n, [pavillons], "chuông của một nhạc cụ hơi").
+entry(pavin, n, [pavins], "pavan").
+entry(lát, n, [những_lát], "vỉa hè").
+entry(pavior, n, [thợ lát gạch], "một người lát gạch").
+entry(paviour, n, [paviours], "một dụng cụ lát đá").
+entry(pavis, n, [pavises], "một loại khiên lớn thời trung cổ").
+entry(tấm chắn lớn, n, [các tấm chắn lớn], "tấm chắn").
+entry(paviser, n, [người mang lá chắn lớn], "một người lính mang theo lá chắn lớn").
+entry(pavisse, n, [pavisses], "tấm chắn").
+entry(pavlova, n, [pavlovas], "một món tráng miệng meringue").
+entry(pavonine, adj, [], "giống như một con công").
+entry(paw, v, [pawed,pawing,paws], "đánh hoặc cào với một động tác đập").
+entry(pawer, n, [pawers], "người làm thịt").
+entry(pawky, adj, [], "PAWKIER PAWKIESTslyPAWKILY adv").
+entry(pawl, n, [pawls], "một bộ phận cơ khí có bản lề").
+mục(tốt, v, [cầm đồ, cầm cố, cầm], "để thế chấp cho một thứ gì đó đã vayĐƯỢC PHÉP CẦM ĐỒ adj").
+entry(pawnage, n, [pawnages], "việc cầm đồ").
+entry(pawnee, n, [pawnees], "người được cầm đồ").
+entry(pawner, n, [cầm đồ], "người cầm đồ một thứ gì đó").
+entry(pawnor, n, [pawnors], "người cầm đồ").
+entry(cửa_hàng_cầm_đồ, n, [cửa_hàng_cầm_đồ], "một nơi để cầm đồ").
+entry(đu đủ, n, [đu đủ], "đu đủ").
+entry(pax, n, [paxes], "một cái ôm trang trọng được trao để biểu thị tình yêu và sự đoàn kết của Cơ đốc nhân").
+entry(paxwax, n, [paxwaxes], "dây chằng cổ của động vật bốn chân").
+entry(tra_tien, v, [da_tra, dang_tra, tra], "để đưa tiền hoặc vật có giá trị để đổi lấy hàng hóa hoặc dịch vụ").
+entry(payable, adj, [], "lợi nhuậnCÓ THỂ THANH TOÁN adv").
+entry(payables, npl, [], "phải trả").
+entry(hoàn_vốn, n, [hoàn_vốn], "một khoản hoàn vốn đầu tư bằng với số vốn ban đầu").
+entry(paycheck, n, [paychecks], "một tấm séc để trả lương hay tiền công").
+entry(payday, n, [paydays], "ngày trả lương").
+entry(paydown, n, [paydowns], "việc giảm nợ thông qua việc trả nợ").
+entry(người_nhận, n, [những_người_nhận], "người nhận tiền").
+mục(người_trả_tiền, n, [người_trả_tiền], "một người trả tiền").
+entry(payess, npl, [], "tóc mai không cắt được một số người Do Thái đeo").
+entry(ngạch_lương, n, [ngạch_lương], "cấp bậc của nhân sự quân đội theo thang lương cơ bản").
+entry(payload, n, [payloads], "phần hàng hóa tạo ra thu nhập").
+đầu_vào(thanh_toán, n, [các_khoản_thanh_toán], "một cái gì đó đã được thanh toán").
+entry(paynim, n, [paynims], "một kẻ ngoại đạo").
+entry(payoff, n, [payoffs], "hành động phân phối lợi nhuận").
+entry(payola, n, [payolas], "một khoản thanh toán bí mật để được ưu ái").
+entry(payor, n, [người trả tiền], "người thanh toán").
+entry(payout, n, [khoản thanh toán], "tiền được chi trả").
+entry(payroll, n, [payrolls], "danh sách nhân viên được trả lương").
+entry(phiếu_lương, n, [phiếu_lương], "một bản ghi ngắn gọn về tiền lương của nhân viên cho thấy các khoản khấu trừ").
+entry(paywall, n, [paywalls], "một hệ thống ngăn chặn truy cập vào trang web mà không có đăng ký trả phí").
+entry(pazazz, n, [pazazzes], "pizazz").
+entry(pe, n, [pes], "một chữ cái tiếng Do Thái").
+entry(đậu hà lan, n, [đậu], "hạt ăn được của một loại thảo mộc hàng năm").
+entry(peaberry, n, [peaberries], "một trái cà phê có một hạt tròn duy nhất").
+entry(peabrain, n, [peabrains], "một người ngu ngốc").
+entry(hòa_bình, v, [đã_hòa_bình,đang_hòa_bình,hòa_bình], "để im lặng hoặc trở nên im lặng").
+entry(thanh_binh, adj, [], "THANH_BINH_HƠN THANH_BÌNH_NHẤT").
+entry(peacenik, n, [peaceniks], "người biểu tình phản đối chiến tranh").
+entry(peach, v, [peached,peaching,peaches], "phản bội ai đó").
+entry(peacher, n, [peachers], "một người giảng dạy").
+entry(peachick, n, [peachicks], "một con công non").
+entry(peachy, adj, [], "PEACHIER PEACHIESTdandy").
+entry(peacing, hiện_tại, [], "phân từ của peace").
+entry(peacoat, n, [peacoats], "một chiếc áo khoác nặng bằng len").
+entry(con_cong, v, [điệu_đàng,đang_điệu_đàng,điệu_đàng], "khoe khoang một cách vô ích").
+mục(peacocky, adj, [], "PEACOCKIER PEACOCKIESTflamboyant showy").
+entry(chim_cong, n, [những_cong], "một loài chim trĩ lớn").
+entry(peag, n, [peags], "vỏ sò chuỗi").
+entry(peage, n, [peages], "trạm thu phí").
+entry(con công mái, n, [các con công mái], "một con công cái").
+entry(đỉnh, v, [đỉnh điểm, đang đỉnh, đỉnh], "đạt đến mức tối đa").
+entry(peakier, comparative, [], "của peaky").
+entry(peakiest, superlative, [], "của peaky").
+entry(peakish, adj, [], "hơi ốm").
+entry(peakless, adj, [], "không có đỉnh nhọn").
+entry(peaklike, adj, [], "giống một đỉnh").
+entry(peaky, adj, [], "PEAKIER PEAKIESTsickly").
+entry(peal, v, [pealed,pealing,peals], "để vang lên").
+entry(pealike, adj, [], "giống như hạt đậu").
+entry(pean, n, [peans], "bài ca").
+entry(lạc, n, [lạc], "hạt giống hoặc quả dạng hạt đậu của dây leo hàng năm").
+entry(peanutty, n, [], "PEANUTTIER PEANUTTIESTcó hương vị của đậu phộng").
+entry(le, n, [các_quả_le], "một loại trái cây có thịt").
+entry(pearl, v, [pearled,pearling,pearls], "để trang trí với những viên ngọc trai, những khối tròn mịn được hình thành trong một số loài động vật thân mềm").
+entry(pearlash, n, [pearlashes], "một hợp chất kiềm").
+entry(pearlers, n, [pearlers], "người lặn tìm ngọc trai").
+entry(pearlies, npl, [], "răng").
+entry(pearlite, n, [pearlites], "hợp kim gang").
+entry(pearly, adj, [], "GIỐNG NHƯ MỘT HẠT NGỌC").
+entry(pearmain, n, [pearmains], "một loại táo").
+entry(peart, adj, [], "PEARTER PEARTESTlivelyPEARTLY adv").
+entry(gỗ lê, n, [gỗ lê], "gỗ của cây lê").
+entry(nông_dân, n, [nông_dân], "một người thuộc tầng lớp xã hội thấp kém").
+entry(peascod, n, [quảđậu], "peasecod").
+entry(pease, n, [peases], "hoặc PEASENmột hạt đậu").
+entry(peasecod, n, [peasecods], "vỏ đậu hà lan").
+entry(than bùn, n, [các than bùn], "một chất được tạo thành từ vật chất thực vật phân hủy một phần").
+entry(peatland, n, [đất than bùn], "đất chủ yếu gồm than bùn").
+entry(peaty, adj, [], "PEATY Như hoặc chứa than bùn").
+entry(peavey, n, [peaveys], "một đòn bẩy dùng để di chuyển các khúc gỗ").
+entry(peavy, n, [peavies], "peavey").
+entry(pebble, v, [pebbled,pebbling,pebbles], "bao phủ bằng sỏi nhỏ tròn").
+entry(pebbly, adj, [], "PEBBLIER PEBBLIESTgiống như đá cuội").
+entry(pec, n, [pecs], "một cơ ngực").
+entry(pecan, n, [quả hồ đào], "một cây cho quả hạt").
+entry(peccable, adj, [], "có khả năng phạm tội").
+entry(peccancy, n, [peccancies], "tình trạng có tội").
+entry(peccant, adj, [], "tội lỗi").
+entry(peccary, n, [peccary], "một loài động vật móng guốc giống lợn").
+entry(peccavi, n, [peccavis], "một lời thú tội").
+entry(pech, v, [peched,peching,pechs], "thở hổn hển").
+entry(pechan, n, [pechans], "dạ dày").
+entry(peck, v, [pecked,pecking,pecks], "mổ bằng mỏ hoặc vật nhọn").
+entry(pecker, n, [peckers], "một cái mổ").
+entry(peckish, adj, [], "cáu kỉnh").
+entry(pecky, adj, [], "BỊ MỤC NÁT DO NẤM GÂY RA PECKIER PECKIEST").
+entry(pecorino, n, [pecorinos], "hoặc PECORINIlà một loại pho mát cứng được làm từ sữa cừu").
+entry(pectase, n, [pectase], "một enzyme").
+entry(pectate, n, [pectates], "một loại muối hóa học").
+entry(pecten, n, [pectens], "hoặc PECTINESmột phần giải phẫu dạng lược").
+entry(pectin, n, [các loại pectin], "một dẫn xuất carbohydrate, PECTIC adj").
+entry(pectize, v, [pectized,pectizing,pectizes], "chuyển thành dạng thạch").
+entry(ngực, n, [ngực], "một thứ đeo trên ngực").
+entry(peculate, v, [peculated,peculating,peculates], "biển thủ").
+entry(kỳ lạ, n, [kỳ_lạ], "một cái gì đó thuộc về một người").
+entry(peculium, n, [peculia], "tài sản riêng").
+entry(ped, n, [peds], "một tập hợp đất tự nhiên").
+entry(pedagog, n, [pedagogs], "một giáo viên").
+entry(pedagogy, n, [pedagogies], "công việc của một giáo viên").
+entry(pedal, v, [pedaled,pedaling,pedals], "hoặc PEDALLED PEDALLING PEDALS để vận hành bằng các cần đạp chân").
+entry(người_đạp_xe, n, [những_người_đạp_xe], "một người đạp xe").
+entry(pedalfer, n, [pedalfers], "một loại đất").
+entry(pedalier, n, [bàn_đạp], "bàn đạp của đàn organ").
+entry(người_đạp_xe, n, [những_người_đạp_xe], "người_đạp_xe").
+entry(pedalo, n, [pedalos], "một chiếc thuyền chèo bằng bàn đạp").
+entry(kẻ cầu toàn, n, [những kẻ cầu toàn], "người khoe kiến thức của mìnhKÝ cương adj").
+mục(pedantry, n, [pedantries], "trình diễn khoa trương về kiến thức").
+entry(pedate, adj, [], "giống như một cái chânPEDATELY adv").
+entry(buôn_bán, v, [đã_buôn_bán,đang_buôn_bán,buôn_bán], "đi khắp nơi để bán hàng hóa").
+entry(peddler, n, [người bán hàng rong], "người buôn bán hàng rong").
+entry(peddlery, n, [peddleries], "nghề buôn bán của một người bán rong").
+mục(tội ấu dâm, n, [những tội ấu dâm], "một người đàn ông tham gia vào các hoạt động tình dục với trẻ em trai").
+entry(pedes, pl, [], "của pes").
+entry(bệ, v, [bệ hóa, bệ hóa, bệ], "hoặc BỆ HÓA, BỆ HÓA, BỆ để cung cấp một hỗ trợ kiến trúc hoặc đế").
+entry(xích lô, n, [xích lô], "một phương tiện chở khách được đạp").
+entry(cuống, n, [cuống], "phần gốc mảnh mai của một sinh vật").
+entry(pedicle, n, [cuống], "cuốngPEDICLED adj").
+entry(chăm_sóc_móng_chân, v, [đã_chăm_sóc_móng_chân,đang_chăm_sóc_móng_chân,chăm_sóc_móng_chân], "thực hiện một liệu pháp thẩm mỹ cho bàn chân và móng chân").
+entry(pediform, adj, [], "có hình dạng như một bàn chân").
+entry(phả_hệ, n, [phả_hệ], "một dòng tổ tiên").
+entry(mặt tiền hình tam giác, n, [mặt tiền hình tam giác], "một phần kiến trúc hình tam giác").
+entry(pedipalp, n, [pedipalps], "một phần phụ của loài nhện").
+entry(pedlar, n, [pedlars], "người bán hàng rong").
+entry(pedlary, n, [pedlaries], "nghề bán hàng rong").
+entry(người_bán_dạo, n, [người_bán_dạo], "người bán hàng rong").
+entry(pedlery, n, [pedleries], "peddlery").
+mục(pedocal, n, [pedocals], "một loại đất").
+entry(pedology, n, [pedologies], "nghiên cứu khoa học về hành vi và sự phát triển của trẻ em").
+entry(pedro, n, [pedros], "một trò chơi bài").
+entry(cuống, n, [cuốngs], "một cuống hoa").
+entry(pedway, n, [pedways], "lối đi bộ chỉ dành cho người đi bộ").
+entry(pee, n, [pees], "chữ cái P").
+entry(peebeen, n, [peebeens], "một cây gỗ cứng lớn thường xanh").
+entry(nhìn trộm, v, [đã nhìn trộm, đang nhìn trộm, nhìn trộm], "nhìn lén hoặc nhanh chóng").
+entry(peekaboo, n, [peekaboos], "một trò chơi của trẻ em").
+mục(peekapoo, n, [peekapoos], "một con chó lai giữa chó Bắc Kinh và chó xù").
+entry(peel, v, [bóc, bóc vỏ, lột vỏ], "để gỡ bỏ lớp vỏ ngoài củaPEELABLE adj").
+mục(lột, n, [người_lột], "người lột").
+entry(peeling, n, [peelings], "một mẩu hoặc dải đã được gọt bỏ").
+entry(peen, v, [peened,peening,peens], "đánh bằng đầu búa không phẳng").
+entry(peening, n, [peenings], "hành động gia công kim loại tấm bằng bắn kim loại để định hình nó").
+entry(peep, v, [peeped,peeping,peeps], "kêu lên một tiếng ngắn chói tai").
+entry(peepbo, n, [peepbos], "trò chơi ú òa").
+entry(kẻ_ghiền_ngó , n, [kẻ_ghiền_ngó], "một người thường xuyên nhìn trộm").
+mục(peephole, n, [peepholes], "một lỗ nhỏ qua đó người ta có thể nhìn").
+entry(peepshow, n, [peepshows], "một buổi triển lãm được xem qua một lỗ nhỏ").
+entry(cây_bồ_đề, n, [cây_bồ_đề], "cây_bồ_đề").
+entry(peer, v, [nhìn chằm chằm, tìm tòi, những người cùng vai vế], "nhìn chằm chằm hoặc tìm kiếm kỹ lưỡng").
+entry(peerage, n, [peerages], "cấp bậc của một quý tộc").
+entry(peeress, n, [peeresses], "một người phụ nữ quý tộc").
+entry(peerie, n, [peeries], "peery").
+entry(peerless, adj, [], "không có đối thủ").
+entry(peery, n, [peeries], "một món đồ chơi của trẻ em").
+entry(peesweep, n, [peesweeps], "một con chim chất phá").
+entry(peetweet, n, [peetweets], "một loài chim nước").
+entry(khó chịu, v, [khó chịu, khó chịu, khó chịu], "gây khó chịu").
+entry(peevish, adj, [], "cáu kỉnh").
+entry(peewee, n, [peewees], "người hoặc vật nhỏ bất thường").
+entry(peewit, n, [peewits], "pewit").
+entry(chốt, v, [chốt lại, đang chốt, các chốt], "để cố định bằng một cái chốt là một cái ghim gỗ").
+entry(bảng ghim, n, [bảng ghim], "một tấm bảng có lỗ để cắm ghim").
+entry(hộp nhạc, n, [hộp nhạc], "một phần của nhạc cụ có dây").
+entry(pegless, adj, [], "thiếu một cái chốt").
+entry(peglike, adj, [], "giống một cái chốt").
+entry(pegtop, n, [pegtops], "một loại con quay có cái chốt quấn dây").
+entry(peh, n, [pehs], "pe").
+entry(peignoir, n, [peignoirs], "một chiếc áo choàng của phụ nữ").
+entry(pein, v, [peined,peining,peins], "để gõ").
+entry(peise, v, [peised,peising,peises], "cân").
+entry(pekan, n, [những_pekan], "một động vật có vú ăn thịt").
+entry(peke, n, [pekes], "một con chó nhỏ có lông dài").
+entry(pekepoo, n, [pekepoos], "peekapoo").
+entry(pekin, n, [pekins], "một loại vải lụa").
+entry(pekoe, n, [pekoes], "một loại trà đen").
+entry(bộ lông, n, [bộ lông], "bộ áo hoặc bọc của một động vật có vúPELAGIAL adj").
+entry(pelagic, n, [pelagics], "một cư dân của đại dương").
+entry(pelau, n, [pelaus], "món ăn làm từ thịt, gạo và đậu bồ câu").
+entry(pele, n, [peles], "một tòa tháp kiên cố thời trung cổ").
+entry(pelerine, n, [pelerines], "áo choàng phụ nữ").
+entry(pelf, n, [pelfs], "tiền bạc hoặc của cải").
+entry(pelham, n, [pelhams], "một loại miếng ngậm ngựa").
+entry(pelican, n, [pelicans], "một loài chim lớn có chân màng").
+entry(pelisse, n, [những chiếc áo khoác dài], "một loại trang phục ngoài dài").
+entry(pelite, n, [pelites], "một loại đá bao gồm các mảnh vụn nhỏPELITIC adj").
+entry(pellagra, n, [pellagras], "một căn bệnh thiếu niacin").
+entry(pellet, v, [pelleted,pelleting,pellets], "tấn công bằng viên nhỏ, những khối tròn nhỏ").
+entry(pelletal, adj, [], "giống như một viên nhỏ").
+entry(màng, n, [màng], "một lớp da mỏng hoặc màng").
+entry(pellmell, n, [pellmells], "một đống lộn xộn").
+entry(trong_suốt, adj, [], "transparent").
+entry(pelmet, n, [pelmets], "một cái gờ trang trí").
+entry(pelon, adj, [], "không có tóc").
+entry(peloria, n, [pelorias], "sự đều đặn bất thường của một hình dạng hoaPELORIAN PELORIC adj").
+entry(pelorus, n, [peloruses], "một dụng cụ định hướng").
+entry(pelota, n, [pelotas], "một trò chơi trên sân có nguồn gốc Tây Ban Nha").
+entry(peloton, n, [các peloton], "thân chính của các tay đua trong một cuộc đua xe đạp").
+entry(pelt, v, [pelted,pelting,pelts], "đánh liên tục bằng những cú đánh hoặc vật phóng").
+mục(peltast, n, [peltasts], "một người lính của Hy Lạp cổ đại").
+entry(peltate, adj, [], "có hình dạng như một cái khiên").
+entry(pelter, v, [peltered, peltering, pelters], "ném đá").
+entry(peltless, adj, [], "thiếu lớp da của một loài động vật").
+entry(da_thu, n, [da_thu], "một bộ da động vật").
+entry(pelvic, n, [pelvics], "một chiếc xương của khung chậu").
+entry(xương_chậu, n, [xương_chậu], "hoặc PELVESA một phần của bộ xương").
+entry(pembina, n, [pembinas], "một loại nam việt quất").
+entry(pemican, n, [pemicans], "thịt tổ hợp").
+entry(pemmican, n, [pemmicans], "một loại thực phẩm được chuẩn bị bởi người Mỹ bản địa").
+entry(pemoline, n, [pemolines], "một loại thuốc được sử dụng như chất kích thích").
+entry(pemphix, n, [pemphixes], "một bệnh về da").
+entry(bút, v, [viết_bút,đang_viết_bút,bút], "viết bằng một công cụ có mực để ghi chép").
+entry(hình_sự, adj, [], "liên quan đến trừng phạt").
+entry(phạt, v, [bị_phạt,đang_phạt,phạt], "phạt").
+entry(hình phạt, n, [hình phạt], "trách nhiệm chịu phạt").
+entry(phạt, v, [bị_phạt,đang_phạt,phạt], "để chịu một hình phạt").
+entry(penally, adv, [], "một cách thuộc về hình phạt").
+entry(penalty, n, [hình_phạt], "sự trừng phạt áp đặt do vi phạm luật, quy tắc hoặc thỏa thuận").
+entry(penance, v, [penanced, penancing, penances], "áp đặt một hình phạt nào đó lên").
+entry(penang, n, [penangs], "một loại vải bông").
+entry(penates, npl, [], "các vị thần La Mã của gia đình").
+entry(pence, a, [], "số nhiều của penny").
+entry(pencel, n, [cờ nhỏ], "một lá cờ nhỏ").
+entry(penchant, n, [penchants], "sự thích thú mạnh mẽ đối với một cái gì đó").
+entry(bút_chì, v, [đã_viết_bằng_bút_chì, viết_bằng_bút_chì, bút_chì], "hoặc BÚT_CHÌ ĐÃ_VIẾT BẰNG BÚT_CHÌ ĐỂ SẢN_XUẤT TỪNG_THỜI_BẰNG_BÚT_CHÌ MỘT CÔNG_CỤ VIẾT VÀ VẼ").
+entry(nhân_vẽ, n, [nhân_vẽ], "người vẽ").
+entry(pend, v, [pended,pending,pends], "để ở trong tình trạng chưa quyết định hoặc chưa được giải quyết").
+entry(mặt_dây, n, [các_mặt_dây], "một đồ trang trí treo").
+entry(pendency, n, [pendencies], "một trạng thái chờ xử lý").
+entry(pendent, n, [pendents], "mặt dây chuyền").
+entry(quả_lắc, n, [quả_lắc], "một loại vật thể dao động tự doPENDULAR adj").
+entry(penes, a, [], "số nhiều của penis").
+entry(pengo, n, [pengos], "một đơn vị tiền tệ trước đây của Hungary").
+entry(cánh\_cụt, n, [cánh\_cụt], "một loài chim sống dưới nước không biết bay").
+entry(penicil, n, [penicils], "một chùm lông nhỏ").
+entry(dương_vật, n, [dương_vật], "hoặc PENESthe cơ quan giao hợp của nam giớiPENIAL PENILE adj").
+entry(penitent, n, [những người sám hối], "một người ăn năn tội lỗi của mình").
+entry(dao_gấp_nhỏ, n, [dao_gấp_nhỏ], "một con dao nhỏ bỏ túi").
+entry(đèn_pin, n, [đèn_pins], "một loại đèn pin nhỏ").
+entry(penlite, n, [penlites], "đèn pin nhỏ").
+entry(người_viết, n, [những_người_viết], "một tác giả").
+entry(penna, n, [pennae], "bất kỳ chiếc lông nào quyết định hình dạng của chim").
+entry(bút_danh, n, [bút_danh], "một cái tên được tác giả sử dụng thay cho tên thật của anh ấy").
+entry(pennant, n, [pennants], "một lá cờ dài hẹp").
+entry(pennate, adj, [], "có cánh hoặc lông").
+entry(pennated, adj, [], "pennate").
+entry(penne, n, [pennes], "mì ống ngắn hình ống").
+entry(penned, quá_khứ, [], "thì của pen").
+entry(penner, n, [penners], "một người viết").
+entry(penni, n, [pennis], "đồng xu Phần Lan dùng trước đây gọi là PENNIA").
+entry(pennies, a, [], "số nhiều của penny").
+entry(pennine, n, [pennines], "một loại khoáng chất").
+entry(penning, hiện tại, [], "phân từ của pen").
+entry(pennon, n, [pennons], "một loại cờ hiệu").
+entry(penny, n, [pennies], "hoặc PENCE, một đồng xu của Vương quốc Anh").
+entry(penoche, n, [penoches], "penuche").
+entry(học thuyết hình phạt, n, [các học thuyết hình phạt], "khoa học về sự trừng phạt tội ác").
+entry(penoncel, n, [penoncels], "một lá cờ nhỏ").
+entry(penpoint, n, [penpoints], "đầu bút").
+muc(pensee, n, [pensees], "một suy nghĩ").
+entry(bút_chì, n, [bút_chì_số_nhiều], "bút_chì").
+entry(pensile, adj, [], "treo lủng lẳng").
+entry(pension, v, [pensioned,pensioning,pensions], "cấp trợ cấp hưu trí cho").
+entry(pensione, n, [pensiones], "hoặc PENSIONI là nhà trọ").
+entry(trầm tư, adj, [], "đắm chìm trong suy nghĩ sâu sắc").
+entry(penster, n, [pensters], "một nhà văn").
+entry(penstock, n, [penstocks], "một ống dẫn nước vào cối nước").
+entry(pent, adj, [], "bị giam").
+entry(ngôi_sao_năm_cánh, n, [ngôi_sao_năm_cánh], "một ngôi sao năm cánh").
+mục(pentad, n, [pentads], "một nhóm gồm năm").
+entry(pentagon, n, [pentagons], "một đa giác năm cạnh").
+entry(pentan, n, [pentans], "một chất lỏng bay hơi").
+entry(pentanol, n, [pentanols], "một loại rượu").
+entry(pentarch, n, [pentarchs], "một trong năm người cai trị chung").
+entry(pentene, n, [penten], "một hydrocarbon lỏng").
+entry(pentode, n, [pentodes], "một loại ống electron").
+entry(pentomic, adj, [], "được cấu thành từ năm nhóm chiến đấu").
+entry(pentosan, n, [pentosans], "một loại carbohydrate phức tạp").
+entry(pentose, n, [pentoses], "một loại đường có năm nguyên tử cacbon trên mỗi phân tử").
+entry(pentyl, n, [pentyls], "amyl").
+entry(penuche, n, [penuches], "một loại kẹo giống như kẹo mềm").
+entry(penuchi, n, [penuchis], "kẹo bơ đường nâu").
+entry(penuchle, n, [penuchles], "pinochle").
+entry(penuckle, n, [penuckles], "pinochle").
+entry(penult, n, [penults], "âm tiết áp chót trong một từ").
+entry(bóng_mờ, n, [bóng_mờ], "hoặc BÓNG_MỜEa bóng một phần").
+entry(nghèo đói, n, [sự nghèo đói], "cảnh nghèo cùng cực").
+entry(peon, n, [peons], "hoặc PEONES một lao động phổ thông").
+entry(cảnh_nô_dịch, n, [các_cảnh_nô_dịch], "tình trạng của việc là một lao động phục dịch").
+mục(peonism, n, [peonisms], "peonage").
+entry(mẫu đơn, n, [mẫu đơn], "một loài thực vật có hoa").
+entry(con người, v, [đã có người, đang có người, có người], "để cung cấp người cư trú").
+mục(peopler, n, [peoplers], "một người làm dân").
+entry(pep, v, [pepped, pepping, peps], "làm đầy năng lượng").
+entry(peperoni, n, [peperonis], "một loại xúc xích được nêm nếm kỹ").
+entry(pepino, n, [pepinos], "một loại cây lâu năm có quả ăn được").
+entry(pepita, n, [pepitas], "hạt khô có thể ăn được của bí ngô hoặc bí đao").
+entry(peplos, n, [peploses], "một loại trang phục được phụ nữ Hy Lạp cổ đại mặc").
+entry(peplum, n, [peplums], "hoặc PEPLA một phần ngắn gắn liền với thắt lưng của một bộ trang phục PEPLUMED adj").
+entry(peplus, n, [pepluses], "peplos").
+entry(pepo, n, [pepos], "một loại quả có phần bên trong mềm và vỏ cứng").
+entry(peponida, n, [peponidas], "pepo").
+entry(peponium, n, [peponiums], "bầu").
+entry(pepped, past, [], "thì của động từ 'pep'").
+entry(hạt tiêu, v, [đã cho tiêu, đang cho tiêu, cho tiêu], "thêm tiêu là một loại gia vị cay").
+entry(pepperer, n, [pepperers], "người rắc hạt tiêu").
+entry(hạt tiêu, adj, [], "giống như hạt tiêu").
+entry(pepping, hiện tại, [], "phân từ của pep").
+entry(peppy, adj, [], "PEPPIER PEPPIESTtràn đầy năng lượngPEPPILY adv").
+entry(pepsin, n, [pepsins], "một enzyme tiêu hóa của dạ dày").
+entry(pepsine, n, [pepsines], "pepsin").
+entry(peptalk, v, [peptalked,peptalking,peptalks], "truyền cảm hứng nhiệt tình bằng một bài nói chuyện cảm xúc mãnh liệt").
+entry(peptic, n, [peptics], "một chất thúc đẩy tiêu hóa").
+entry(peptid, n, [peptit], "peptide").
+entry(peptide, n, [peptides], "một tổ hợp của các axit aminPEPTIDIC adj").
+entry(peptize, v, [peptized,peptizing,peptizes], "tăng sự phân tán keo của").
+entry(chất_tiêu_thành, n, [các_chất_tiêu_thành], "một chất giúp tiêu hóa").
+mục(peptone, n, [peptones], "hợp chất proteinPEPTONIC adj").
+entry(per, prep, [], "cho mỗi").
+entry(peracid, n, [peracids], "một loại axit").
+entry(perc, n, [percs], "một hóa chất được sử dụng trong giặt khô").
+entry(percale, n, [percales], "một loại vải cotton").
+entry(nhận thức, v, [nhận_thức,đang_nhận_thức,nhận_thức], "nhận biết thông qua các giác quan").
+mục(phần_trăm, n, [phần_trăm], "một phần trăm").
+entry(percept, n, [các giác quan], "một cái gì đó được nhận thức").
+entry(perch, v, [perched,perching,perches], "ngồi hay dừng trên một vị trí cao").
+entry(percher, n, [perchers], "một cái đậu").
+entry(percid, n, [percids], "một loài cá nước ngọt thuộc họ cá rô").
+entry(percoid, n, [percoids], "bất kỳ loài cá gai nào thuộc phân bộ lớn").
+entry(percuss, v, [percussed,percussing,percusses], "đánh mạnh").
+entry(perdie, interj, [], "pardi").
+entry(perdu, n, [perdus], "một người lính được cử đi làm nhiệm vụ nguy hiểm").
+entry(perdue, n, [perdues], "perdu").
+mục(perdure, v, [perdured,perduring,perdures], "tiếp tục tồn tại").
+entry(perdy, interj, [], "pardi").
+entry(pere, n, [peres], "cha").
+entry(peregrin, n, [peregrin], "một loài chim ưng nhanh được sử dụng nhiều trong việc nuôi chim săn").
+entry(pereion, n, [pereions], "hoặc PEREIA phần ngực của một số loài giáp xác").
+entry(pereon, n, [pereons], "hoặc PEREApereion").
+entry(pereopod, n, [pereopods], "phụ bộ của pereion").
+entry(perfect, adj, [], "HOÀN HẢO NHẤT HOÀN HẢO NHẤTThiếu sót hoặc khiếm khuyết ở mức độ cực kỳ").
+entry(hoàn_hảo, v, [đã_hoàn_hảo,đang_hoàn_hảo,hoàn_hảo], "để làm cho hoàn hảo").
+entry(perfecta, n, [perfectas], "một hệ thống cá cược").
+entry(perfecto, n, [perfectos], "một điếu xì gà cỡ trung bình").
+entry(phản bội, n, [phản bội], "sự vi phạm lòng tin hoặc lòng trung thành một cách cố ý").
+entry(perforce, adv, [], "một cách cần thiết").
+entry(thực_hiện, v, [đã_thực_hiện, đang_thực_hiện, thực_hiện], "bắt đầu và mang đến hoàn thành").
+entry(nước_hoa, v, [thơm_ngát, đang_thơm_ngát, nước_hoa], "để lấp đầy bằng một mùi thơm dễ chịu").
+entry(perfumer, n, [perfumers], "người chế tạo nước hoa").
+entry(perfumy, adj, [], "có mùi thơm").
+entry(tưới, v, [đã_tưới,đang_tưới,tưới], "để lan rộng hoặc thấm qua cái gì đó").
+entry(pergola, n, [giàn hoa], "một nơi trú ẩn có bóng râm hoặc lối đi").
+entry(có_lẽ, n, [có_lẽs], "một cái gì đó còn nghi ngờ hoặc phỏng đoán").
+entry(peri, n, [peris], "một sinh vật siêu nhiên trong thần thoại Ba Tư").
+entry(perianth, n, [perianths], "một lớp bao ngoài của một bông hoa").
+entry(bùa, n, [bùa], "một lá bùa").
+entry(periblem, n, [periblems], "một vùng mô thực vật").
+entry(vách_quả, n, [vách_quả], "thành của một bầu noãn hoặc quả đã chín").
+entry(pericope, n, [pericopes], "hoặc PERICOPAE là một đoạn trích từ một cuốn sách").
+entry(periderm, n, [periderms], "một lớp mô thực vật bên ngoài").
+ông(bao_muội, n, [bao_muội], "lớp vỏ của cơ quan mang bào tử trong nhiều loại nấmBAO MUỘI adj").
+entry(peridot, n, [những viên peridot], "một loại khoáng vật").
+entry(perigee, n, [điểm cận địa], "điểm trong quỹ đạo của một thiên thể gần Trái đất nhấtPERIGEAL PERIGEAN adj").
+entry(perigon, n, [perigons], "một góc bằng 360 độ").
+entry(perigyny, n, [perigynies], "trạng thái được đặt trên một cơ quan hình cốc bao quanh nhụy").
+entry(peril, v, [periled,periling,perils], "hoặc PERILLED PERILLING PERILSđể gây nguy hiểm").
+entry(perilla, n, [perillas], "một loại thảo mộc châu Á").
+entry(nguy_hiểm, adj, [], "dangerous").
+entry(perilune, n, [perilunes], "điểm trong quỹ đạo của một thiên thể gần nhất với mặt trăng").
+entry(perineum, n, [perinea], "một vùng của cơ thể ở phần dưới của thânPERINEAL adj").
+entry(period, n, [các_khoảng_thời_gian], "một phần của thời gian").
+entry(periodic, adj, [], "tái diễn đều đặn theo khoảng thời gian nhất định").
+entry(periodid, n, [periodids], "một iodide").
+entry(periotic, adj, [], "bao quanh tai").
+entry(bước ngoặt, n, [bước ngoặt], "sự thay đổi đột ngột trong tiến trình sự kiện").
+entry(peripter, n, [peripters], "một cấu trúc với một hàng cột xung quanh tất cả các mặt").
+entry(perique, n, [periques], "một loại thuốc lá đen").
+entry(perisarc, n, [perisarcs], "một lớp bảo vệ của một số thủy tức").
+entry(diệt vong, v, [đã diệt vong, đang diệt vong, sẽ diệt vong], "để chết").
+entry(kẻ-gây-phồn-tạp, n, [kẻ-gây-phồn-tạp], "một người gây khó chịu").
+entry(peritus, n, [periti], "một nhà thần học chuyên gia").
+entry(periwig, n, [periwigs], "một bộ tóc giả").
+đầu_mục(khai_man, v, [đã_khai_man,đang_khai_man,khai_man], "khiến một người trở thành kẻ khai man").
+entry(kẻ đạo bại, n, [kẻ đạo bại], "một người mắc tội khai man").
+entry(khai man, n, [khai man], "việc cố ý cung cấp lời khai sai sự thật dưới tuyên thệ trong một quá trình tố tụng").
+entry(perk, v, [perked,perking,perks], "chuẩn bị cà phê bằng bình lọc").
+entry(perkish, adj, [], "hơi vui tươi").
+entry(perky, adj, [], "VUI TƯƠI VUI NHẨTjauntyVUI TƯƠI adv").
+entry(perlite, n, [perlites], "một loại thủy tinh núi lửaPERLITIC adj").
+entry(perm, v, [permed,perming,perms], "làm tóc uốn vĩnh viễn").
+entry(permeant, adj, [], "thấm qua được").
+entry(permease, n, [permeases], "một tác nhân xúc tác").
+entry(thấm_qua, v, [đã_thấm_qua,đang_thấm_qua,thấm_qua], "lan tỏa qua").
+entry(permit, v, [permitted, permitting, permits], "cho phép").
+entry(permute, v, [thay_đổi_trật_tự,đang_thay_đổi_trật_tự,thay_đổi_trật_tự], "thay đổi thứ tự của").
+entry(pernio, n, [perniones], "viêm ở tay hoặc chân do tiếp xúc với lạnh").
+entry(perogi, n, [perogies], "pierogi").
+entry(perogie, n, [perogies], "pierogi").
+entry(perogy, n, [perogies], "pierogi").
+entry(peroneal, adj, [], "thuộc về xương mác").
+entry(peroral, adj, [], "xảy ra qua miệng").
+entry(perorate, v, [perorated,perorating,perorates], "để diễn thuyết dài dòng").
+entry(peroxid, n, [các_peroxit], "peroxid").
+entry(peroxide, v, [peroxided,peroxiding,peroxides], "để xử lý với peroxide như một chất tẩy trắng").
+entry(peroxy, adj, [], "chứa nhóm hóa trị hai O2").
+mục(perp, n, [perps], "một người thực hiện một tội ác").
+entry(perpend, v, [perpended,perpending,perpends], "suy ngẫm").
+entry(perpent, n, [perpents], "một viên đá xây dựng lớn").
+entry(perplex, v, [bối rối, làm bối rối, gây bối rối], "làm cho tinh thần không chắc chắn").
+entry(perron, n, [perrons], "cầu thang ngoài trời").
+entry(perry, n, [perries], "một loại đồ uống nước ép lê thường được lên men").
+entry(persalt, n, [persalts], "một loại muối hóa học").
+mục(perse, n, [perses], "một màu xanh lam").
+entry(persist, v, [persisted,persisting,persists], "kiên trì tiếp tục một hoạt động nào đó").
+entry(person, n, [những người], "một con người").
+entry(nhân_vật, n, [nhân_vật], "một nhân vật trong tác phẩm văn học").
+entry(nhân_vật, n, [nhân_vật], "vai trò công chúng mà một người đảm nhiệm").
+nhập_cảnh(cá_nhân, n, [các_cá_nhân], "một thông báo ngắn gọn riêng tư trên báo chí").
+entry(toát_mồ_hôi, v, [đã_toát_mồ_hôi,đang_toát_mồ_hôi,toát_mồ_hôi], "toát mồ hôi qua lỗ chân lông trên daPERSPIRY adj").
+entry(thuyết_phục, v, [đã_thuyết_phục,đang_thuyết_phục,thuyết_phục], "khiến ai đó làm điều gì đó bằng cách lập luận lý lẽ hoặc thỉnh cầu").
+entry(pert, adj, [], "Xấcxược PERTLY adv").
+entry(liên_quan, v, [liên_quan_đến,đang_liên_quan,liên_quan], "có liên quan hoặc mối quan hệ").
+entry(sự_láu_lỉnh, n, [những_sự_láu_lỉnh], "chất lượng của việc láu lỉnh").
+entry(perturb, v, [perturbed, perturbing, perturbs], "gây rối loạn lớn").
+entry(peruke, n, [perukes], "bộ tóc giảPERUKED adj").
+mục(perusal, n, [perusals], "hành động đọc kỹ lưỡng").
+entry(đọc, v, [đã_đọc,đang_đọc,đọc], "để đọc").
+entry(peruser, n, [perusers], "một người đọc kỹ").
+entry(perv, n, [pervs], "người có hành vi tình dục sai lệch").
+entry(tràn ngập, v, [tràn ngập, đang tràn ngập, tràn ngập], "lan tỏa qua mọi phần của").
+entry(pervader, n, [pervaders], "một cái gì đó lan tỏa").
+entry(perverse, adj, [], "cố ý lệch lạc khỏi hành vi mong muốn hoặc dự kiến").
+entry(biến thái, v, [biến thái hóa, biến thái hóa, các biến thái], "rời khỏi hành động đúng đắn").
+danh_muc(xuyen_thau_truoc, tinh_tu, [], "có khả năng bị thâm nhập").
+entry(pervo, n, [pervos], "một kẻ đồi trụy").
+entry(pervy, adj, [], "BIẾN THÁI TÌNH DỤC NHẤT").
+entry(pes, n, [pedes], "một phần chân hoặc giống như chân").
+entry(pesade, n, [pesades], "vị trí của một con ngựa khi chồm lên").
+entry(peseta, n, [pesetas], "một đơn vị tiền tệ trước đây của Tây Ban Nha").
+entry(pesewa, n, [pesewas], "một đơn vị tiền tệ của Ghana").
+entry(pesky, adj, [], "PESKIER PESKIESTphiền toáiPESKILY adv").
+entry(peso, n, [pesos], "một đơn vị tiền tệ của các quốc gia nói tiếng Tây Ban Nha").
+entry(pessary, n, [vòng], "thiết bị tránh thai đặt trong âm đạo").
+entry(pest, n, [pests], "một người hoặc vật gây phiền toái").
+entry(quấy rầy, v, [đã quấy rầy,đang quấy rầy,quấy rầy], "làm phiền").
+entry(kẻ làm phiền, n, [những kẻ làm phiền], "kẻ gây phiền toái").
+entry(pesthole, n, [pestholes], "một nơi dễ bị dịch bệnh").
+entry(chày, v, [đã chày, đang chày, chày], "nghiền bằng công cụ cầm tay hình cái chày").
+entry(pesto, n, [pestos], "một loại sốt làm từ húng quế, tỏi và dầu ô liu").
+entry(pesty, adj, [], "PESTIER PESTIESTphiền phức").
+entry(pet, v, [petted,petting,pets], "vuốt ve bằng tay").
+entry(petabyte, n, [petabyte], "một triệu tỷ byte").
+entry(cánh hoa, n, [các cánh hoa], "một phần giống như lá của tràng hoaCÓ CÁNH hoa CÓ CÁNH adj").
+entry(petaline, adj, [], "giống như một cánh hoa").
+entry(petalody, n, [petalodies], "sự biến hóa của các cơ quan hoa thành cánh hoa").
+entry(cánh hoa, adj, [], "giống như cánh hoa").
+entry(có_cánh_hoa, adj, [], "có cánh hoa").
+entry(bóng_ném, n, [bóng_ném], "một dạng bowling sân cỏ của Pháp").
+entry(petard, n, [petards], "một thiết bị nổ").
+entry(petasos, n, [petasoses], "mũ có cánh").
+entry(petasus, n, [petasuses], "một loại mũ rộng vành được đội ở Hy Lạp cổ đại").
+entry(petcock, n, [petcocks], "một van nhỏ hoặc vòi nước").
+entry(petechia, n, [petechiae], "một vết xuất huyết nhỏ trên bề mặt cơ thể").
+entry(peter, v, [petered,petering,peters], "giảm dần dần").
+entry(petiolar, adj, [], "liên quan đến cuống lá").
+entry(petiole, n, [cuống lá], "cuống của một chiếc láCUỐNG adj").
+entry(petit, adj, [], "nhỏ bé").
+entry(nhỏ, n, [nhỏ], "một kích cỡ quần áo cho phụ nữ thấp").
+entry(petition, v, [petitioned,petitioning,petitions], "để làm một yêu cầu chính thức").
+entry(petnap, v, [bắt trộm thú cưng,đang bắt trộm thú cưng,các vụ bắt trộm thú cưng], "đánh cắp thú cưng để kiếm lời").
+entry(petnaper, n, [petnapers], "người ăn cắp thú cưng").
+entry(petrale, n, [petrales], "một loại cá thực phẩm").
+entry(cánh cụt, n, [chim cánh cụt], "một loài chim biển nhỏ").
+entry(petrify, v, [petrified,petrifying,petrifies], "chuyển hóa thành đá").
+entry(xăng, n, [xăng], "xăng dầu").
+entry(petrolic, adj, [], "được chiết xuất từ dầu mỏ").
+entry(petronel, n, [petronels], "một loại súng cầm tay").
+entry(petrosal, n, [petrosals], "một phần của xương thái dương").
+entry(petrous, adj, [], "cứng như đá").
+entry(petsai, n, [petsaisc], "cải thảo").
+entry(pettable, adj, [], "có thể được vuốt ve").
+entry(petted, past, [], "thì quá khứ của pet").
+entry(pettedly, adv, [], "một cách hờn dỗi").
+entry(petter, n, [petters], "một người vuốt ve").
+entry(petti, pl, [], "của petto").
+entry(pettier, so_sánh_hơn, [], "của petty").
+entry(pettiest, superlative, [], "của petty").
+entry(cãi vặt, v, [cãi vặt rồi, đang cãi vặt, cãi vặt], "cãi vặt").
+entry(pettily, adv, [], "một cách nhỏ nhặt").
+entry(petting, n, [pettings], "vuốt ve âu yếm và hôn").
+entry(pettish, adj, [], "cáu bẳn").
+entry(pettle, v, [pettled, pettling, pettles], "vuốt ve").
+entry(petto, n, [petti], "vú").
+mục(petty, adj, [], "PETTIER PETTIESTkhông đáng kể").
+entry(nhõng nhẽo, adj, [], "hay giận dỗi").
+entry(petunia, n, [petunias], "một loại thảo mộc nhiệt đới").
+entry(petuntse, n, [petuntses], "một loại khoáng chất").
+entry(petuntze, n, [petuntzes], "petuntse").
+entry(pew, n, [pews], "một băng ghế trong nhà thờ").
+entry(chim_se_se, n, [chim_se_se], "một loài chim nhỏ").
+entry(pewit, n, [pewits], "chim te te").
+mục_ghi(pewter, n, [pewters], "hợp kim thiếc PEWTERY adj").
+entry(thợ thiết, n, [các thợ thiết], "người làm đồ bằng thiếc").
+entry(xương_rồng_pereskiopsis, n, [xương_rồng_pereskiopsis], "một loại xương rồng").
+entry(peyotism, n, [peyotisms], "nghi lễ của người Mỹ bản địa trong đó sử dụng peyote").
+entry(peyotl, n, [peyotls], "cây peyote").
+entry(peytral, n, [peytrals], "một bộ phận của áo giáp bảo vệ ngực của ngựa").
+entry(peytrel, n, [peytrels], "peytral").
+entry(pfennig, n, [pfennigs], "hoặc PFENNIGE là một loại đồng tiền bằng đồng đã được sử dụng ở Đức").
+mục(pfft, thán_từ, [], "dùng để biểu thị sự kết thúc đột ngột").
+entry(pfui, interj, [], "phooey").
+entry(phaeton, n, [phaetons], "một loại xe ngựa nhẹ").
+entry(phage, n, [phages], "một sinh vật tiêu diệt vi khuẩn").
+entry(phalange, n, [phalanges], "bất kỳ xương nào của ngón tay hoặc ngón chân").
+entry(phalanx, n, [những đội hình phalanx], "một đội hình bộ binh ở Hy Lạp cổ đại").
+entry(phalli, a, [], "số nhiều của phallus").
+entry(phallus, adj, [], "liên quan đến một phallus").
+mục(phallism, danh từ, [phallisms], "thờ cúng dương vật như biểu tượng của sức sáng tạo của tự nhiên").
+entry(phallist, n, [phallists], "người thực hành thờ cúng sinh thực khí").
+entry(phallus, n, [phalluses], "hoặc PHALLI dương vật").
+entry(ảo ảnh, n, [ảo ảnh], "một sản phẩm của trí tưởng tượng").
+entry(phantast, n, [phantasts], "huyền ảo").
+entry(phantasy, v, [phantasied,phantasying,phantasies], "tưởng tượng").
+entry(bóng ma, n, [bóng ma], "một cái gì đó chỉ tồn tại trong vẻ bề ngoài").
+entry(pharaoh, n, [pharaohs], "một nhà cai trị của Ai Cập cổ đại").
+entry(pharisee, n, [người pharisee], "một người tự cho mình là đúng một cách đạo đức giả").
+entry(pharma, n, [pharmas], "một công ty dược phẩm").
+entry(nha_thuoc, n, [nhung_nha_thuoc], "một cửa hàng thuốc").
+entry(pharmer, n, [pharmers], "người tham gia vào hoạt động trồng thuốc").
+entry(pharming, n, [pharmings], "sản xuất dược phẩm từ cây trồng hoặc động vật đã được biến đổi gen").
+entry(pharos, n, [pharoses], "một ngọn hải đăng hoặc đèn hiệu để hướng dẫn thủy thủ").
+entry(họng, n, [họng], "hoặc PHARYNGESmột phần của ống tiêu hóa").
+entry(giai_đoạn, v, [giai_đoạn_hóa, giai_đoạn_hóa, các_giai_đoạn], "lên kế hoạch hoặc thực hiện theo từng giai đoạn phát triển riêng biệt GIAI_ĐOẠN TÍNH TỪ").
+entry(phaseout, n, [phaseouts], "việc ngừng hoạt động dần dần").
+entry(phaser, n, [súng_phasers], "một loại vũ khí khoa học viễn tưởng").
+entry(phasis, n, [giai đoạn], "một giai đoạn").
+entry(phasmid, n, [phasmids], "một loại côn trùng nhiệt đới").
+entry(phat, adj, [], "PHATTER PHATTESTxuất sắc").
+entry(phatic, adj, [], "chia sẻ cảm xúc hơn là ý tưởng").
+entry(gà_lôi, n, [những_con_gà_lôi], "một loài chim lớn có đuôi dài").
+entry(phellem, n, [phellems], "một lớp tế bào thực vật").
+entry(phelonia, npl, [], "trang phục phụng vụ").
+entry(phenate, n, [phenates], "muối của axit carbolic").
+entry(phenazin, n, [phenazins], "một hợp chất hóa học").
+entry(phenetic, adj, [], "thuộc về một hệ thống phân loại").
+entry(phenetol, n, [phenetols], "một chất lỏng dễ bay hơi").
+entry(phenix, n, [phenixes], "phượng hoàng").
+entry(phenol, n, [phenols], "một hợp chất ăn da").
+entry(phenolic, n, [phenolics], "một loại nhựa tổng hợp").
+entry(phenom, n, [phenoms], "một người có khả năng hoặc tiềm năng phi thường").
+entry(phenoxy, adj, [], "chứa một gốc tự do được tạo ra từ phenol").
+mục(phenyl, n, [phenyls], "một gốc hóa học đơn trị PHENYLIC adj").
+entry(pheresis, n, [phereses], "rút máu từ người cho, loại bỏ một số thành phần và trả lại lượng máu còn lại cho người cho").
+entry(phew, thán_từ, [], "được sử dụng để biểu thị sự nhẹ nhõm, mệt mỏi hoặc ghê tởm").
+entry(phi, n, [phis], "một chữ cái Hy Lạp").
+entry(phial, n, [phials], "một lọ").
+entry(philabeg, n, [philabegs], "váy ngắn của Scotland").
+entry(philibeg, n, [philibegs], "filibeg").
+entry(philomel, n, [philomels], "một loài chim hót").
+entry(philter, v, [philtered,philtering,philters], "đặt dưới phép thuật của một lọ thuốc tình yêu").
+entry(philtre, v, [philtred,philtring,philtres], "lọc").
+entry(philtrum, n, [philtra], "vết lõm giữa môi trên và mũi").
+entry(hẹp bao quy đầu, n, [hẹp bao quy đầu], "sự co thắt bất thường của lỗ bao quy đầuPHIMOTIC adj").
+entry(phish, v, [phished,phishing,phishes], "tham gia vào phishing").
+entry(phisher, n, [phishers], "người thực hiện việc lừa đảo").
+entry(phishing, n, [phishings], "hành vi sử dụng email bất hợp pháp để dụ dỗ người khác tiết lộ thông tin cá nhân").
+entry(phiz, n, [phizes], "một khuôn mặt hoặc biểu cảm trên khuôn mặt").
+entry(phizz, n, [phizzes], "phiz").
+entry(đờm, n, [đờm], "một chất nhầy đặc được tiết ra trong các đường dẫn khí").
+entry(phlegmy, adj, [], "GIỐNG ĐỜM NHẤT PHLEGM ĐỜM NHẤT PHLEGM").
+entry(phloem, n, [phloems], "một mô thực vật phức tạp").
+entry(phlox, n, [phloxes], "một loài cây có hoa").
+entry(pho, n, [phos], "một món phở Việt Nam gồm bún gạo và rau").
+entry(phobia, n, [phobias], "nỗi sợ hãi ám ảnh hoặc vô lý").
+entry(phobic, n, [phobics], "người bị ảnh hưởng bởi một chứng ám ảnh").
+entry(phocine, adj, [], "liên quan đến hải cẩu").
+entry(phoebe, d, [phoebes], "một loài chim nhỏ").
+entry(phoebus, n, [phoebuses], "mặt trời").
+entry(phoenix, n, [chim_phoenix], "một loài chim huyền thoại").
+entry(phon, n, [phons], "một đơn vị độ lớn").
+entry(phonal, adj, [], "liên quan đến âm thanh lời nói").
+danh_muc(phat_am, v, [da_phat_am, dang_phat_am, phat_am], "phat ra am thanh noi").
+entry(phone, v, [phoned,phoning,phones], "gọi điện").
+entry(âm_vị, n, [các_âm_vị], "một đơn vị của lời nóiPHONEMIC adj").
+entry(phoner, n, [phoners], "người gọi cho ai đó qua điện thoại").
+entry(ngữ_âm, tính_từ, [], "liên quan đến âm thanh trong lời nói").
+entry(phoney, adj, [], "PHONIER PHONIESTphony").
+entry(phoney, v, [phoneyed,phoneying,phoneys], "giả mạo").
+entry(phonic, adj, [], "thuộc về bản chất của âm thanh").
+entry(phonics, npl, [], "khoa học về âm thanh").
+entry(phonied, quá_khứ, [], "thì của phony").
+entry(phonier, so_sánh_hơn, [], "của phoney và phony").
+entry(phonies, present, [], "ngôi thứ 3 số ít của phony").
+entry(phoniest, so sánh nhất, [], "của phoney và phony").
+entry(lừa dối, adv, [], "một cách giả tạo").
+entry(phoning, present, [], "phân từ của phone").
+entry(phono, n, [phonos], "một máy quay đĩa").
+entry(phonon, n, [phonons], "một lượng tử của năng lượng dao động").
+entry(phony, adj, [], "KHÔNG CHÂN THẬT không phải thật hoặc thực sự").
+entry(phony, v, [phonied,phonying,phonies], "thay đổi để làm cho có vẻ như thật").
+entry(phooey, thán_từ, [], "dùng như một thán từ bày tỏ sự ghê tởm hoặc khinh miệt").
+entry(phorate, n, [phorates], "một loại thuốc trừ sâu").
+entry(phoresy, n, [phoresies], "một mối quan hệ cộng sinh giữa một số loài động vật chân đốt và cá PHORETIC adj").
+mục(phoronid, n, [phoronids], "một loài động vật biển giống sâu").
+entry(phosgene, n, [phosgenes], "một loại khí độc").
+entry(phosphid, n, [phosphids], "một hợp chất hóa học").
+entry(phosphin, n, [phosphins], "một loại khí độc").
+entry(phốt pho, n, [các phốt pho], "một chất sẽ phát sáng khi tiếp xúc với bức xạ").
+entry(phot, n, [phots], "một đơn vị chiếu sáng").
+entry(photic, adj, [], "liên quan đến ánh sáng").
+mục(photics, npl, [], "khoa học về ánh sáng").
+entry(photino, n, [photinos], "một hạt cơ bản giả thuyết").
+entry(photo, v, [photoed,photoing,photos], "để chụp ảnh").
+entry(nhiếp_ảnh_gia, n, [nhiếp_ảnh_gia], "người chụp ảnh").
+entry(photomap, v, [đã_được_chụp_ảnh_bằng_đường_đi_bộ,đang_chụp_ảnh_bằng_đường_đi_bộ,bản_đồ_ảnh], "để lập bản đồ bằng cách sử dụng nhiếp ảnh hàng không").
+entry(photon, n, [photons], "một hạt cơ bảnPHOTONIC adj").
+entry(photopia, n, [photopias], "thị giác trong ánh sáng mạnhPHOTOPIC adj").
+entry(photoset, v, [photoset, photosetting, photosets], "chuẩn bị để in bằng phương pháp chụp ảnh").
+entry(phpht, interj, [], "pht").
+entry(phrasal, adj, [], "liên quan đến một nhóm gồm hai hoặc nhiều từ kết hợp").
+entry(cụm từ, v, [cụm từ hóa, đang cụm từ hóa, các cụm từ], "để diễn đạt bằng lời").
+entry(cách diễn đạt, n, [cách diễn đạt], "cách thức hoặc phong cách diễn đạt bằng lời nói").
+entry(phratry, n, [phratries], "một đơn vị bộ lạc trong số các dân tộc nguyên thủyPHRATRAL PHRATRIC adj").
+entry(phreak, v, [phreaked,phreaking,phreaks], "đột nhập bất hợp pháp vào dịch vụ điện thoại đường dài để tránh phí").
+entry(phreaker, n, [phreakers], "người thực hiện phreaking").
+entry(phreatic, adj, [], "liên quan đến nước ngầm").
+entry(phrenic, adj, [], "liên quan đến tâm trí").
+entry(phrensy, v, [phrensied,phrensying,phrensies], "làm cho cuồng loạn").
+entry(pht, interj, [], "được dùng như một biểu thức thể hiện sự tức giận hoặc khó chịu nhẹ").
+entry(phthalic, adj, [], "liên quan đến một loại axit").
+entry(phthalin, n, [phthalins], "một hợp chất hóa học").
+entry(phthisic, n, [phthisics], "bệnh lao").
+entry(phthisis, n, [phthises], "một bệnh về phổi").
+entry(phút, n, [phúts], "một âm thanh đột ngột tẻ nhạt").
+entry(phyla, pl, [], "của phylon và phylum").
+entry(phylae, pl, [], "của phyle").

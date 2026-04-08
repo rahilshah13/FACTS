@@ -26970,3 +26970,2665 @@ entry(tambour, v, [tambourierte, tambourierend, tambouriert], "auf einem runden 
 Eintrag(tamboura, n, [tambouras], "tambura").
 entry(tambur, n, [tamburs], "Tamburin").
 Eintrag(tambura, n, [tamburas], "ein Saiteninstrument").
+entry(zahm, adj, [], "ZAHMER ZAHMSTsanft oder fügsam").
+entry(zähmen, v, [gezähmt, zähmend, zähmt], "zähmen").
+entry(zähmbar, adj, [], "tamable").
+entry(tamein, n, [tameins], "ein Kleidungsstück, das von burmesischen Frauen getragen wird").
+entry(unbändig, adj, [], "nicht zähmbar").
+entry(zahm, adv, [], "auf zahme Weise").
+entry(Zahmheit, n, [Zahmheiten], "der Zustand des Zahmseins").
+Eintrag(zähmer, n, [zähmer], "einer, der zähmt").
+entry(am zahmsten, superlative, [], "von zahm").
+entry(zähmen, präsens, [], "Partizip von zähmen").
+entry(tamis, n, [Tamissiebe], "ein Sieb aus Stoffgitter").
+entry(tammie, n, [tammies], "tammy").
+entry(tammy, n, [tammies], "ein Gewebe aus gemischten Fasern").
+entry(tamp, v, [tampfte, stampfen, stempelt], "durch Klopfen festpacken").
+entry(tampala, n, [tampalas], "einjähriges Kraut").
+entry(tampan, n, [tampans], "ein stechendes Insekt").
+Eintrag(tamper, v, [tampered,tampering,tampers], "auf schädliche Weise eingreifen").
+Eintrag(tamperer, n, [manipulierer], "jemand, der manipuliert").
+entry(stopfen, n, [Stopfungen], "der Akt des Festklopfens").
+entry(tampion, n, [tampions], "ein Verschluss für das Rohr einer Kanone").
+entry(tampon, v, [tamponiert,tamponierend,tampons], "mit einem Wattepad verstopfen").
+Eintrag(tan, adj, [], "BRAUN DURCH DIE SONNENSTRAHLEN").
+entry(tan, v, [gegerbt,gerbend,gerbt], "Haut durch Einweichen in Chemikalien in Leder umwandeln").
+Eintrag(tangare, n, [tangaren], "ein farbenfroher Vogel").
+entry(baumrinde, n, [baumrinden], "eine Baumrinde, die als Quelle für Tannin verwendet wird").
+entry(tandem, n, [tandems], "ein für zwei Personen gebautes Fahrrad").
+Eintrag(tandoor, n, [tandoors], "oder TANDOORIEin Lehmofen").
+entry(tandoori, n, [Tandooris], "im Tandoor gekochtes Essen").
+Eintrag(tang, v, [tanged, tanging, tangs], "mit einem würzigen Geschmack versehen").
+entry(tanga, n, [tanga], "eine ehemalige Währungseinheit von Tadschikistan").
+Eintrag(tangelo, n, [tangelos], "eine Zitrusfrucht").
+Eintrag(tangence, n, [tangences], "tangency").
+Eintrag(tangency, n, [Tangenten], "der Zustand des unmittelbaren physischen Kontakts").
+Eintrag(tangente, n, [tangenten], "eine gerade Linie, die an einem Punkt mit einer Kurve in Kontakt steht").
+entry(greifbar, n, [greifbare], "etwas fühlbares").
+entry(tangibly, adv, [], "spürbar").
+entry(tangier, komparativ, [], "von würzig").
+entry(tangiest, superlative, [], "von tangy").
+Eintrag(gewirr, v, [verwirrt,verwirrend,verwirrt], "in verwickelte Verwirrung zusammenbringen").
+entry(verwirrer, n, [verwirrer], "einer, der verheddert").
+entry(tangly, adj, [], "VERWICKELTER VERWICKELTEST VERWICKELT").
+entry(tango, v, [tangote,tangot, tangos], "oder TANGOESto einen lateinamerikanischen Tanz aufführen").
+Eintrag(tangram, n, [Tangrams], "ein chinesisches Puzzle").
+Eintrag(scharf, adjektiv, [], "SCHÄRFSTE SCHARFSTE stechend").
+entry(tanist, n, [tanists], "der designierte Erbe eines keltischen Häuptlings").
+Eintrag(tanistry, n, [tanistries], "das System der Wahl eines Nachfolgers").
+Eintrag(tank, v, [getankt, tanken, Tanks], "in einem Tank lagern ein Behälter normalerweise für Flüssigkeiten").
+Eintrag(tanka, n, [tankas], "eine japanische Versform").
+entry(tankage, n, [tankages], "das Fassungsvermögen eines Tanks").
+eintrag(krug, n, [krüge], "ein hohes Trinkgefäß").
+entry(tanker, n, [Tanker], "ein Schiff, das zum Transport von Flüssigkeiten gebaut wurde").
+entry(tankvoll, n, [tankvolle], "die Menge, die ein Tank fassen kann").
+entry(tankini, n, [tankinis], "ein Damenschwimmanzug bestehend aus Bikinihosen und einem Tanktop").
+entry(tankless, adj, [], "keinen Tank haben").
+Eintrag(tankähnlich, adj, [], "einem Panzer ähnelnd").
+entry(tankschiff, n, [tankschiffe], "ein Tanker").
+Eintrag(bräunbar, adj, [], "fähig, gebräunt zu werden").
+entry(gerben, n, [gerbvorgänge], "der Prozess des Gerbens").
+Eintrag(tannat, n, [tannate], "ein chemisches Salz").
+entry(gebräunt, vergangenheit, [], "Zeitform von bräunen").
+entry(tanner, n, [Gerber], "einer, der gerbt").
+entry(gerberei, n, [gerbereien], "ein Ort, an dem Felle gegerbt werden").
+Eintrag(tannest, Superlativ, [], "von Bräune").
+entry(gerbstoffhaltig, adj, [], "zum Tannin gehörend").
+entry(gerbstoff, n, [gerbstoffe], "eine chemische Verbindung, die zum Gerben verwendet wird").
+entry(gerben, n, [gerbungen], "der Prozess der Umwandlung von Häuten in Leder").
+entry(tannish, adj, [], "etwas bräunlich").
+entry(walzenspinntier, n, [walzenspinntiere], "Tenrek").
+Eintrag(beifuss, n, [beifüsse], "eine mehrjährige Kräuterpflanze").
+Eintrag(tantalum, n, [tantalums], "ein metallisches ElementTANTALIC adj").
+Eintrag(tantalus, n, [tantalusse], "ein Kasten für Weinflaschen").
+entry(tantara, n, [tantaras], "der Klang einer Trompete oder eines Horns").
+entry(tantivy, n, [tantivies], "ein Jagdruf").
+eintrag(tanto, n, [tantos], "ein kurzes japanisches Schwert").
+Eintrag(tantra, n, [tantras], "eine Klasse hinduistischer religiöser SchriftenTANTRISCH adj").
+entry(tantrismus, n, [tantrismen], "eine buddhistische Schule, die hinduistische und heidnische Elemente integriert").
+Eintrag(tantrist, n, [tantristen], "ein Anhänger des Tantrismus").
+entry(wutanfall, n, [wutanfälle], "ein Anfall von Wut").
+entry(tanuki, n, [tanukis], "ein Marderhund").
+entry(gerbstätte, n, [gerbstätten], "der Bereich einer Gerberei, der die Fässer enthält").
+entry(tao, n, [taos], "der Weg des tugendhaften Verhaltens gemäß einer chinesischen Philosophie").
+entry(tap, v, [tappte, tippend, klopft], "sanft schlagen").
+entry(tapa, n, [Tücher], "ein aus Baumrinde gefertigtes Tuch").
+entry(tapadera, n, [tapaderas], "ein Teil eines Sattels").
+entry(tapadero, n, [tapaderos], "Abdeckung").
+entry(tapalo, n, [tapalos], "ein Schal, der in lateinamerikanischen Ländern getragen wird").
+Eintrag(band, v, [gebändert, bandend, bänder], "mit einem langen schmalen Streifen oder Band befestigenBANDIERBAR adj").
+Eintrag(tapeless, adj, [], "sein ohne Band").
+entry(tapelike, adj, [], "bandähnlich").
+Eintrag(messband, n, [messbänder], "ein Band zum Messen von Entfernungen").
+Eintrag(tapenade, n, [tapénades], "ein Aufstrich aus schwarzen Oliven, Kapern und Anchovis").
+entry(taper, v, [verjüngt,sich_verjüngend,verjüngt_sich], "allmählich zu einem Ende hin schmaler werden").
+Eintrag(leuchterträger, n, [leuchterträger], "einer, der eine Kerze in einer religiösen Prozession trägt").
+entry(tapisserie, v, [tapisseriert,tapisserierend,tapisserien], "mit gewebten Wandteppichen dekorieren").
+entry(tapetum, n, [tapeta], "eine Zellschicht in einigen Pflanzen TAPETAL Adj").
+eintrag(bandwurm, n, [bandwürmer], "ein parasitärer wurm").
+Eintrag(stichloch, n, [stichloecher], "ein Loch in einem Hochofen").
+Eintrag(taphaus, n, [taphäuser], "eine Schänke").
+entry(taping, n, [tapings], "die Handlung oder ein Beispiel für das Aufzeichnen von etwas auf Magnetband").
+Eintrag(tapioka, n, [tapiokas], "ein stärkehaltiges Lebensmittel").
+entry(tapir, n, [Tapire], "ein hufiges Säugetier").
+entry(tapis, n, [Teppiche], "Material, das für Wandbehänge und Bodenbeläge verwendet wird").
+Eintrag(tapless, adj, [], "ohne einen Hahn, ein Gerät, um den Fluss von Flüssigkeiten oder Gasen zu stoppen").
+entry(zapfbar, adj, [], "fähig angezapft zu werden").
+entry(getippt, vergangenheit, [], "zeitform von klopfen").
+Eintrag(tapper, n, [tappers], "einer, der klopft").
+entry(stoessel, n, [stoessel], "eine gleitende Stange, die ein anderes Teil eines Mechanismus in Bewegung setzt").
+entry(klopfen, n, [klopfen], "der Vorgang oder das Mittel, durch das etwas geklopft wird").
+Eintrag(taproom, n, [taprooms], "ein Schankraum").
+entry(hauptwurzel, n, [hauptwurzeln], "die Hauptwurzel einer Pflanze").
+Eintrag(tapster, n, [zapfer], "einer, der Schnaps in einer Schankstube ausschenkt").
+Eintrag(taqueria, n, [taquerias], "ein Restaurant, das sich auf Tacos und Burritos spezialisiert").
+entry(teeren, v, [geteert,teerte,teert], "mit Teer, einer schwarzen viskosen Flüssigkeit, bedecken").
+entry(tarabisch, n, [tarabische], "eine Art Kartenspiel").
+eintrag(tarama, n, [taramas], "eine griechische Paste aus Fischrogen, Knoblauch, Zitronensaft und Olivenöl").
+entry(tarantas, n, [tarantases], "ein russischer Wagen").
+entry(tarboosh, n, [Tarboosches], "eine von muslimischen Männern getragene Kappe").
+entry(tarbush, n, [tarbusche], "Tarbusch").
+entry(tardier, komparativ, [], "von verspätet").
+Eintrag(verspätungen, pl, [], "der Verspätung").
+Eintrag(tardive, adj, [], "Symptome haben, die sich langsam entwickeln").
+entry(tardo, adj, [], "langsam verwendet als musikalische Anweisung").
+Eintrag(spät, adj, [], "SPÄTER AM SPÄTESTENlateSPÄT adv").
+entry(verspätung, n, [verspätungen], "ein Fall von zu spät kommen").
+entry(tardyon, n, [Tardyone], "ein subatomares Teilchen, das sich langsamer als die Lichtgeschwindigkeit bewegt").
+Eintrag(tare, v, [tared, taring, tares], "das Gewicht eines Behälters mit Waren bestimmen").
+Eintrag(targa, n, [targas], "eine Art von Cabrio-Sportwagen").
+entry(targe, n, [targes], "ein kleiner runder Schild").
+Eintrag(ziel, v, [gezielt,zierend,ziele], "ein Ziel setzen").
+Eintrag(tarif, v, [tarifiert, tarifierend, tarife], "zur Besteuerung importierter oder exportierter Waren").
+Eintrag(taring, praesens, [], "Partizip von tare").
+entry(tarlatan, n, [tarlatans], "ein Baumwollstoff").
+Eintrag(tarletan, n, [tarletans], "tarlatan").
+entry(tarmac, v, [tarmacked,tarmacking,tarmacs], "ein Flugzeug auf einer Rollbahn stehen lassen").
+entry(tarn, n, [tarns], "ein kleiner Bergsee").
+Eintrag(tarnal, adj, [], "verdammtTARNALLY adv").
+entry(trüben, v, [getrübt, trüben, trübt], "den Glanz trüben").
+Eintrag(taro, n, [taros], "eine tropische Pflanze").
+entry(taroc, n, [Tarockkarten], "tarok").
+Eintrag(tarok, n, [taroks], "ein Kartenspiel").
+Eintrag(tarot, n, [Tarots], "eine der Spielkarten, die zum Wahrsagen verwendet werden").
+Eintrag(tarp, n, [Planen], "eine schützende Leinwandabdeckung").
+entry(tarpan, n, [tarpane], "ein asiatisches Wildpferd").
+entry(dachpappe, n, [dachpappen], "ein schweres Papier, das mit Teer beschichtet ist").
+entry(tarpon, n, [tarpons], "ein Meeres-Sportfisch").
+entry(estragon, n, [estragons], "eine mehrjährige Krautpflanze").
+entry(tarre, v, [tarred,tarring,tarres], "zum Handeln drängen").
+Eintrag(teergeworden, Vergangenheit, [], "Zeitform von teeren").
+entry(tarrier, n, [tarriers], "jemand, der verweilt").
+entry(teeren, präsens, [], "Partizip von Teer und Teeren").
+entry(tarry, adj, [], "TARRIER TARRIEST ähnlich Teer").
+entry(tarry, v, [verzögerte,verzögernd,verzögert], "sich verspäten oder langsam beim Handeln oder Tun sein").
+Eintrag(tarsal, n, [tarsale], "ein Knochen des Fußes").
+entry(tarsen, pl, [], "des Tarsus").
+Eintrag(tarsia, n, [tarsias], "intarsia").
+entry(tarsier, n, [Koboldmakis], "ein nachtaktiver Primat").
+entry(tarsus, n, [tarsi], "ein Teil des Fußes").
+entry(tart, adj, [], "SÄURERSTE SCHARFSTEmit einem scharfen sauren Geschmack").
+entry(tart, v, [aufgebrezelt,aufbrezelnd,aufbrezelt], "sich herausputzen").
+Eintrag(tartan, n, [tartans], "ein gemustertes Wollgewebe").
+Eintrag(tartana, n, [tartanas], "ein Mittelmeer-Segelschiff").
+entry(tartar, n, [tartaren], "eine Kruste auf den ZähnenTARTARISCH adj").
+entry(tartare, adj, [], "roh serviert").
+entry(tartier, komparativ, [], "von tarty").
+entry(tartiest, superlative, [], "von tarty").
+Eintrag(tartish, adjektiv, [], "etwas herb").
+entry(törtchen, n, [törtchen], "ein kleiner Kuchen").
+entry(säuerlich, adv, [], "auf säuerliche Weise").
+Eintrag(Säuregehalt, n, [Säuregehalte], "der Zustand, sauer zu sein").
+entry(tartrat, n, [tartrate], "ein chemisches Salz").
+entry(tartufe, n, [tartufes], "tartüff").
+Eintrag(tartuffe, n, [tartuffes], "ein Heuchler").
+entry(tartufo, n, [tartufi], "oder TARTUFOSein italienisches Eisdessert").
+Eintrag(tarty, adj, [], "TARTIER TARTIESTandeutend auf eine ProstituierteTARTILY adv").
+entry(Teerkraut, n, [Teerkrauter], "eine blühende Pflanze").
+Eintrag(tarzan, n, [tarzans], "eine Person von überlegener Stärke und Beweglichkeit").
+Eintrag(tase, v, [tased,tasing,tases], "mit einer Waffe, die elektrische Pfeile abschießt, betäuben").
+Eintrag(aufgabe, v, [beauftragt,beauftragend,aufgaben], "eine Aufgabe zuweisen").
+Eintrag(taskleiste, n, [taskleisten], "eine Reihe grafischer Steuerelemente auf einem Computerbildschirm").
+entry(aufgabenarbeit, n, [aufgabenarbeiten], "harte Arbeit").
+entry(tass, n, [tassen], "eine Trinkbecher").
+entry(tasse, n, [tassen], "tasse").
+Eintrag(tassel, v, [tasseled,tasseling,tassels], "oder TASSELLED TASSELLING TASSELZum Schmücken mit herabhängenden Verzierungen").
+entry(tasset, n, [tassets], "ein Stück Plattenpanzerung für den Oberschenkel").
+entry(tassie, n, [tassies], "Tasse").
+entry(tasso, n, [tassos], "würziger gepökelter Schweinefleisch").
+entry(geschmack, v, [gekostet,kostend,kostet], "den Geschmack wahrnehmen, indem man es in den Mund nimmtGESCHMACKVOLL adj").
+entry(geschmackvoll, adj, [], "schmackhaft").
+Eintrag(tester, n, [tester], "einer, der schmeckt").
+entry(verkostung, n, [verkostungen], "ein Treffen zum Probieren von Weinen oder Speisen").
+Eintrag(lecker, adj, [], "LECKERER LECKERSTangenehm im GeschmackLECKER adv").
+Eintrag(tat, v, [tatted,tatting,tats], "Klöppeln machen").
+entry(tatami, n, [tatamis], "Strohmatte, die als Bodenbelag verwendet wird").
+Eintrag(tatar, n, [tataren], "eine grausame Person").
+entry(tate, n, [tates], "ein Haarbüschel").
+Eintrag(kartoffel, n, [kartoffeln], "eine Kartoffel").
+Eintrag(tathata, n, [tathatas], "die ultimative Natur aller Dinge im Buddhismus").
+Eintrag(tatouay, n, [tatouays], "ein südamerikanisches Gürteltier").
+entry(tatsoi, n, [tatsois], "eine asiatische Senfart").
+Eintrag(tatted, vergangenheit, [], "Zeitform von tat").
+eintrag(tatter, v, [zerfetzt, zerfetzend, zerfetzt], "zerrissen und abgenutzt werden").
+entry(tattie, n, [tatties], "eine Kartoffel").
+Eintrag(tattier, Komparativ, [], "von schäbig").
+Eintrag(tattieste, Superlativ, [], "von schäbig").
+entry(tattily, adv, [], "auf schäbige Weise").
+entry(klöppeln, n, [klöppelarbeiten], "zarte handgemachte Spitze").
+entry(petzen, v, [gepetzt,petzend,petzt], "die Aktivitäten eines anderen enthüllen").
+entry(tattler, n, [tattlers], "jemand, der petzt").
+entry(tattoo, v, [tätowierte,tätowierend,tätowierungen], "die Haut mit unauslöschlichen Pigmenten zu markieren").
+eintrag(taetowierer, n, [taetowierer], "einer der taetowiert").
+entry(tatty, adj, [], "TATTIER TATTIESTschäbig").
+entry(tau, n, [taus], "ein griechischer Buchstabe").
+entry(unterrichtete, vergangenheit, [], "Zeitform von lehren").
+entry(verspotten, v, [verspottet,verspottend,verspottet], "herausfordern oder sarkastisch vorwerfen").
+entry(verspotter, n, [verspotter], "jemand, der verspottet").
+entry(tauon, n, [Tauonen], "ein instabiles Lepton").
+entry(taupe, n, [taupes], "eine dunkle graue Farbe").
+entry(taurin, n, [taurine], "eine chemische Verbindung").
+Eintrag(taut, adj, [], "TAUTER TAUTESTvollständig gespannt, um nicht locker zu sein").
+entry(taut, v, [tautete, tautend, taute], "verwickeln").
+entry(tautaug, n, [tautaugs], "Tautog").
+Eintrag(tauten, v, [tautened, tautening, tautens], "straff machen").
+entry(straff, adv, [], "auf straffe Weise").
+Eintrag(tautheit, n, [straffheiten], "der Zustand, straff zu sein").
+entry(tautog, n, [Tautogs], "ein Meeresfisch").
+Eintrag(tautomer, n, [Tautomere], "eine Art chemische Verbindung").
+Eintrag(tautonym, n, [tautonyme], "eine Art der taxonomischen Bezeichnung").
+entry(tav, n, [tavs], "ein hebräischer Buchstabe").
+entry(taverne, n, [tavernen], "ein Ort, an dem Alkohol verkauft wird, um vor Ort getrunken zu werden").
+entry(taverne, n, [tavernen], "ein Café in Griechenland").
+Eintrag(taverner, n, [taverner], "jemand, der ein Gasthaus betreibt").
+Eintrag(taw, v, [tawed,tawing,taws], "indem durch Verwendung von Mineralien in weißes Leder umwandeln").
+entry(tawdry, adj, [], "TAWDRIER TAWDRIESTpompösTAWDRILY adv").
+entry(tawdry, n, [tawdries], "auffälliger Schmuck").
+entry(tawer, n, [tawers], "einer, der gerbt").
+Eintrag(tawie, adj, [], "zahm").
+entry(tawney, n, [tawneys], "dunkelgelb").
+eintrag(tawny, adj, [], "TAWNIGER TAWNIGSThellbraunTAWNIG adv").
+entry(tawny, n, [tawnies], "eine hellbraune Farbe").
+entry(tawpie, n, [tawpies], "eine törichte junge Person").
+Eintrag(tawse, v, [tawsed, tawsing, tawses], "prügeln").
+Eintrag(steuer, v, [besteuert,besteuern,steuern], "eine Abgabe auferlegen, eine von der Behörde zu öffentlichen Zwecken auferlegte Gebühr auf").
+Eintrag(taxa, a, [], "Pl von taxon").
+Eintrag(steuerpflichtig, adj, [], "steuerpflichtigSTEUERPFLICHTIG adv").
+entry(steuerpflichtig, n, [steuerpflichtige], "ein steuerpflichtiger Artikel").
+Eintrag(Besteuerung, n, [Besteuerungen], "der Prozess des Besteuerns").
+Eintrag(Taxem, n, [Taxeme], "ein minimales grammatisches Merkmal der SelektionTAXEMISCH adj").
+entry(steuerer, n, [steuerer], "jemand, der besteuert").
+Eintrag(taxi, v, [], "TAXIED TAXIING oder TAXYING TAXIS oder TAXIESreisen in einem Taxi").
+eintrag(taxi, n, [taxis], "ein Automobil zur Miete").
+Eintrag(taximan, n, [taximen], "der Betreiber eines Taxis").
+Eintrag(quälend, adv, [], "auf belastende Weise").
+Eintrag(taxite, n, [taxites], "ein vulkanisches GesteinTAXITISCH adj").
+entry(taxiway, n, [rollwege], "ein asphaltierter Streifen auf einem Flughafen").
+entry(steuerfrei, adj, [], "von Steuern befreit").
+entry(steuereintreiber, n, [steuereintreiber], "jemand, der Steuern eintreibt").
+entry(taxol, n, [taxole], "eine medizinische Substanz aus einem Eibenbaum").
+entry(taxon, n, [Taxa], "oder TAXA eine Einheit der wissenschaftlichen Klassifikation").
+Eintrag(taxonomie, n, [taxonomien], "das Studium der wissenschaftlichen Klassifikation").
+entry(steuerfinanziert, adj, [], "durch Steuern finanziert").
+entry(steuerzahler, n, [steuerzahler], "jemand, der Steuern zahlt").
+entry(taxus, n, [taxus], "ein immergrüner Baum oder Strauch").
+Eintrag(steuerlich, adj, [], "die Steuern betreffend").
+entry(taxying, a, [], "Präsens Partizip von taxi").
+entry(tayberry, n, [taybeeren], "eine dunkelrote Frucht, die eine Kreuzung zwischen einer Brombeere und einer Himbeere ist").
+entry(tayra, n, [tayras], "ein großes Säugetier aus Mittel- und Südamerika").
+entry(tazza, n, [tassen], "oder eine TAZZEn-verzierte Schale").
+entry(te, n, [tees], "tie").
+entry(tee, n, [tees], "ein Getränk, das durch das Übergießen von getrockneten Blättern mit kochendem Wasser hergestellt wird").
+Eintrag(teaberry, n, [teaberries], "ein nordamerikanischer Strauch").
+Eintrag(teebrett, n, [teebretter], "ein Tablett zum Servieren von Tee").
+entry(teeschale, n, [teeschalen], "eine Teetasse ohne Griff").
+Eintrag(teebox, n, [teeboxen], "eine Schachtel für Teeblätter").
+entry(teegebäck, n, [teegebäcke], "ein kleines Gebäck, das mit Tee serviert wird").
+Eintrag(teewagen, n, [teewagen], "ein rollbarer Tisch, der zum Servieren von Tee verwendet wird").
+entry(lehren, v, [lehrte,lehrend,lehrt], "Wissen oder Fähigkeiten vermitteln").
+entry(lehrer, n, [lehrer], "jemand, der unterrichtet").
+entry(lehre, n, [lehren], "eine Doktrin").
+entry(teetasse, n, [teetassen], "eine Tasse, aus der Tee serviert wird").
+Eintrag(teehaus, n, [teehaeuser], "eine öffentliche Einrichtung, die Tee serviert").
+entry(teak, n, [teaks], "ein ostindischer Baum").
+Eintrag(teakholz, n, [teakhölzer], "das Holz des Teakbaums").
+entry(blässhuhn, n, [blässhühner], "eine Flussente").
+Eintrag(tealike, adj, [], "ähnlich wie Tee").
+Eintrag(Mannschaft, v, [Mannschaften, Mannschaften, Mannschaften], "eine Mannschaft aus einer Gruppe von Personen zu bilden, die an einer gemeinsamen Aktion beteiligt sind").
+entry(teamaker, n, [Teemacher], "eine Person, die Tee macht").
+entry(mannschaftskamerad, n, [mannschaftskameraden], "ein Mitglied desselben Teams").
+Eintrag(teamster, n, [teamsters], "ein Lastwagenfahrer").
+entry(teamwork, n, [teamworks], "kooperative Anstrengung, um ein gemeinsames Ziel zu erreichen").
+entry(teekanne, n, [teekannen], "ein Gefäß zum Zubereiten und Servieren von Tee").
+entry(teapoy, n, [Teetische], "ein kleiner Tisch, der zum Servieren von Tee verwendet wird").
+entry(tear, v, [teared,tearing,tears], "Tränenflüssigkeit absondern, die von einer Drüse des Auges ausgeschieden wird").
+Eintrag(zerren, v, [zerrte, zerrissen, zerreißen], "ZERRENTraene auseinander- oder in Teile ziehenZERRENBAR adj").
+entry(tearaway, n, [Ausreißer], "eine rebellische Person").
+Eintrag(teardown, n, [teardowns], "der Prozess des Zerlegens").
+Eintrag(tearropfen, n, [tränentropfen], "eine Träne").
+entry(Zerreißer, n, [Zerreißer], "einer, der zerreißt oder reißt").
+entry(tränenreich, adj, [], "voller Tränen").
+Eintrag(tränengas, v, [tränengasierte, tränevergasing, tränengase], "oder TRÄNENGAS, um einem Gas auszusetzen, das die Augen reizt").
+entry(tearier, komparativ, [], "von tränenreich").
+entry(traurigste, superlative, [], "von tränenreicher").
+entry(tränenreich, adv, [], "in tränenreicher Weise").
+entry(tränenlos, adj, [], "sein ohne Tränen").
+entry(tränenähnlich, adj, [], "einer Träne ähnelnd").
+entry(teezimmer, n, [teezimmer], "ein Restaurant, das Tee serviert").
+entry(teary, adj, [], "TRÄNENREICHER TRÄNENREICHSTEtränenreich").
+Eintrag(necken, v, [geneckt,neckend,neckt], "sich lustig machen überNECKBAR adj").
+Eintrag(cardere, v, [cardiert,cardierend,cardiert], "oder CARDIERT CARDIEREND CARDIEREN eine weiche Oberfläche auf Stoff mit einem borstigen Blütenkopf zu erzeugen").
+Eintrag(karde, n, [karden], "jemand, der kardiert").
+entry(teaser, n, [teaser], "einer, der neckt").
+Eintrag(teeladen, n, [teeläden], "ein teestube").
+Eintrag(ärgern, Präsens, [], "Partizip von ärgern").
+entry(teespoon, n, [teespoon], "ein kleiner Löffel").
+Eintrag(teat, n, [Zitzen], "eine Milchdrüse TEATED Adj").
+Eintrag(teatime, n, [teatimes], "die übliche Zeit für Tee").
+entry(teegeschirr, n, [teegeschirre], "ein Teeservice").
+entry(teazel, v, [geteazelt, geteazelnd, teazels], "oder GEGETEAZELT GEGETEAZELND TEAZELSto tease").
+entry(teazle, v, [teazled, teazling, teazles], ".card thost teasle").
+entry(tec, n, [tecs], "Technik").
+Eintrag(tech, n, [Techniker], "ein Techniker").
+entry(teched, adj, [], "verrückt").
+entry(techie, n, [Techies], "ein Techniker").
+entry(technik, n, [techniken], "Technik").
+entry(techno, n, [technos], "ein Stil der Discomusik").
+Eintrag(technoid, n, [technoids], "ein Techniker").
+entry(techy, adj, [], "TECHIER TECHIESTtetchyTECHILY adv").
+entry(tecta, a, [], "Pl. von Tectum").
+entry(tectal, adj, [], "ein Tectum betreffend").
+entry(tektit, n, [tektite], "tektite").
+entry(tectonic, adj, [], "im Zusammenhang mit dem Bauwesen").
+entry(tectrix, n, [tectrices], "ein kleines Federchen am Flügel eines Vogels").
+entry(tectum, n, [tecta], "oder TECTA eine dachartige Struktur").
+Eintrag(ted, v, [teede, teedend, teeds], "zum Trocknen ausbreiten").
+entry(tedder, v, [teddered,teddering,tedders], "Heu mit einer Maschine schwaden").
+entry(teddy, n, [Teddies], "ein Damenunterwäschestück").
+Eintrag(langweilig, adj, [], "Ermüdung verursachend").
+Eintrag(mühsal, n, [mühseligkeiten], "der Zustand, mühsam zu sein").
+entry(tee, v, [teed,teeing,tees], "einen Golfball auf einen kleinen Stift legen").
+entry(teel, n, [teels], "Sesam").
+entry(teem, v, [wimmelte, wimmeln, wimmelt], "bis zum Überlaufen gefüllt sein").
+Eintrag(teemer, n, [teemers], "einer, der wimmelt").
+Eintrag(teen, n, [Jugendliche], "ein Teenager").
+entry(teenage, adj, [], "Teenagern betreffend").
+entry(teenaged, adj, [], "jugendlich").
+entry(teenager, n, [Teenager], "eine Person im Alter zwischen dreizehn und neunzehn Jahren").
+Eintrag(Jugendalter, n, [Jugendalter], "Jugendliche insgesamt").
+entry(teenager, n, [teenager], "ein Teenager").
+entry(teenful, adj, [], "mit Trauer erfüllt").
+entry(teensy, adj, [], "TEENSIER TEENSIESTwinzig").
+entry(teentsy, adj, [], "TEENTSIER TEENTSIESTwinzig").
+Eintrag(teeny, adj, [], "KLEINER KLEINSTtiny").
+entry(teenybop, adj, [], "einen jungen Teenager betreffend").
+entry(tipi, n, [tipis], "tippi").
+entry(wanken, v, [wankte,wankend,wankt], "to move unsteadily").
+entry(zähne, pl, [], "von Zahn").
+entry(zahnen, v, [gezahnt,zahnend,zahnt], "Zähne kriegen").
+entry(beißring, n, [beißringe], "ein Objekt für ein Baby, um während des Zahnens darauf zu beißen").
+entry(zahnen, n, [zahnungen], "das erste Wachstum der Zähne").
+entry(enthaltsam, v, [enthaltsamte,enthaltsamend,enthaltsamt], "oder ENTHALSAMTE ENTHALSAMEND ENTHALSAMT völlig auf alkoholische Getränke verzichten").
+entry(kreisel, n, [kreisel], "ein drehendes Spielzeug").
+Eintrag(teff, n, [teffs], "ein Getreidegras").
+entry(tefillin, npl, [], "die von Juden getragenen Gebetsriemen").
+Eintrag(teg, n, [tegs], "tegg").
+entry(tegg, n, [teggs], "ein Schaf in seinem zweiten Jahr").
+entry(tegmen, n, [Tegmina], "eine Abdeckung").
+entry(tegmenta, npl, [], "anatomische Überzüge").
+Eintrag(tegminal, adj, [], "einschlägig zu einem Tegmen").
+entry(tegu, n, [tegus], "ein großer Leguan Südamerikas").
+entry(tegua, n, [teguas], "eine Art Mokassin").
+entry(tegula, n, [tegulae], "eine flache Dachziegel, die im antiken Rom verwendet wurde").
+entry(tegular, adj, [], "einem Ziegel ähnlich").
+Eintrag(tegumen, n, [tegumina], "tegmen").
+entry(Hülle, n, [Hüllen], "eine Abdeckung").
+entry(teiglach, n, [teiglach], "eine Süßware bestehend aus in Honig gekochten Teigbällchen").
+Eintrag(teiid, n, [teiids], "eine tropische amerikanische Echse").
+entry(tein, n, [teins], "eine Währungseinheit Kasachstans").
+Eintrag(teind, n, [teinds], "ein Zehntel").
+Eintrag(tekkie, N, [tekkies], "Techie").
+entry(tektit, n, [tektiten], "ein glasiger Körper, von dem angenommen wird, dass er meteoritischen Ursprungs istTEKTITISCH adj").
+entry(tel, n, [tels], "ein alter Hügel im Nahen Osten").
+entry(tela, n, [telae], "ein anatomisches Gewebe").
+entry(telamon, n, [Telamonen], "eine männliche Figur, die als tragende Säule verwendet wird").
+entry(telco, n, [Telekommunikationsunternehmen], "ein Telekommunikationsunternehmen").
+Eintrag(tele, n, [teles], "ein Fernseher").
+entry(fernsehübertragung, v, [übertrug, übertragend, überträgt], "durch das Fernsehen übertragen").
+entry(telecine, n, [telecines], "die Ausstrahlung eines Films im Fernsehen").
+Eintrag(telekom, n, [telekoms], "telekommunikation").
+Eintrag(telekommunikation, n, [telekommunikationen], "Telekommunikation").
+entry(teledu, n, [teledus], "ein fleischfressendes Säugetier").
+entry(telefax, v, [telefaxte,telefaxend,telefaxe], "grafisches Material über Telefonleitungen übertragen").
+entry(fernsehfilm, n, [fernsehfilme], "ein Spielfilm, der für das Fernsehen gemacht wurde").
+entry(telega, n, [telegas], "ein russischer Wagen").
+Eintrag(telegonie, n, [telegonien], "der vermeintliche Einfluss eines vorherigen Erzeugers auf die Nachkommen späterer Verpaarungen der Mutter mit anderen Männchen").
+entry(telegramm, v, [telegrammierte,telegrammierend,telegramme], "eine Nachricht per Telegraph senden").
+entry(teleman, n, [telemen], "ein Marineoffizier").
+entry(telemark, n, [telemarks], "eine Art von Kurve beim Skifahren").
+entry(teleost, n, [Knochenfische], "ein Knochenfisch").
+entry(telepath, n, [Telepathen], "eine Person, die auf eine andere Weise als über die Sinne mit jemandem kommunizieren kann").
+entry(drehbuch, n, [drehbücher], "ein für das Fernsehen geschriebenes Stück").
+entry(teleport, v, [teleportiert,teleportierend,teleportiert], "durch einen Vorgang ohne physikalische Mittel transportieren").
+entry(teleran, n, [telerans], "ein System der Luftnavigation").
+entry(teleshop, v, [teleshoppte,teleshoppend,teleshoppt], "durch interaktive Telekommunikationssysteme einkaufen").
+entry(telesis, n, [teleses], "geplanter Fortschritt").
+Eintrag(telestic, n, [telestica], "eine Art von Akrostichon").
+entry(teletext, n, [teletexte], "ein Kommunikationssystem, bei dem gedruckte Informationen an Abonnenten gesendet werden").
+entry(telethon, n, [telethons], "ein Fernsehsammlungsprogramm").
+entry(fernschreiber, v, [fernschreibte,fernschreibend,fernschreiber], "per Fernschreiber senden").
+Eintrag(fernsehen, v, [ferngesehen, fernsehend, fernsieht], "durch Fernsehen beobachten").
+entry(übertragen, v, [übertrug,übertragen,überträgt], "durch Fernsehen ein elektronisches System zur Übertragung von Bildern und Ton senden").
+Eintrag(Telearbeit, v, [Telearbeitete, Telearbeitend, Telearbeitet], "zu Hause arbeiten, indem man eine elektronische Verbindung mit einem Zentralbüro nutzt").
+Eintrag(telex, v, [telexte, telexend, telexen], "eine Nachricht über eine Art von Telegrafensystem senden").
+Eintrag(telfer, v, [telfered, telfering, telfers], "telferisieren").
+entry(telford, n, [telfords], "eine Straße aus Steinen").
+entry(telial, adj, [], "bezüglich eines Teliums").
+entry(telic, adj, [], "auf ein Ziel gerichtet").
+entry(telische, n, [telische], "die Eigenschaft telisch zu sein").
+entry(telium, n, [telia], "ein Sorus auf der Wirtspflanze eines Rostpilzes").
+entry(erzählen, v, [erzählte, erzählend, erzählt], "eine detaillierte Schilderung gebenERZÄHLBAR adj").
+entry(erzähler, n, [erzähler], "einer, der erzählt").
+entry(tellies, a, [], "Pl. von Telly").
+entry(schaukelblatt, n, [schaukelblätter], "ein Petzer").
+entry(tellurisch, adj, [], "die Erde betreffend").
+entry(telly, n, [tellys], "oder TELLIES ein Fernsehgerät").
+entry(telnet, v, [telnetted,telnetting,telnets], "oder TELNETED TELNETING TELNETS, um über das Internet mit einem geeigneten Verfahren auf ein Konto zuzugreifen").
+Eintrag(telome, n, [telome], "eine Struktureinheit einer GefäßpflanzeTELOMISCH adj").
+Eintrag(telomere, n, [Telomere], "das natürliche Ende eines Chromosoms").
+Eintrag(telos, n, [teloi], "ein letztendliches Ziel").
+entry(Seilbahn, v, [Seilbahnte, Seilbahnend, Seilbahnen], "durch ein System von Luftseilbahnen transportieren").
+Eintrag(telson, n, [telsons], "das Endsegment eines GliederfüßersTELSONISCH adj").
+entry(beben, n, [beben], "oder ERDBEBENein erdbeben").
+entry(Verwegenheit, n, [Verwegenheiten], "törichte Kühnheit").
+entry(temp, v, [temped,temping,temps], "als Zeitarbeitnehmer arbeiten").
+entry(tempeh, n, [tempehs], "ein asiatisches Lebensmittel").
+Eintrag(temperieren, v, [temperiert, temperierend, temperiert], "mildern durch Hinzufügen eines ausgleichenden Mittels").
+entry(tempera, n, [temperas], "eine Maltechnik").
+Eintrag(temperer, n, [temperers], "einer, der temperiert").
+entry(tempest, v, [stürmte, stürmend, stürmt], "heftig erregen").
+entry(tempi, a, [], "Plural von Tempo").
+entry(templer, n, [templer], "ein Anwalt oder Jurastudent in London").
+entry(vorlage, n, [vorlagen], "ein Muster, das als Leitfaden bei der Herstellung von etwas dient").
+Eintrag(tempel, n, [tempel], "ein GotteshausTEMPELT adj").
+entry(vorlage, n, [vorlagen], "template").
+Eintrag(tempo, n, [tempi], "oder TEMPI das Geschwindigkeitstempo eines Musikstücks").
+Eintrag(temporal, n, [temporals], "ein Knochen des Schädels").
+Eintrag(verführen, v, [verführte, verführend, verführt], "dazu verleiten, eine unkluge oder unmoralische Handlung zu begehen").
+Eintrag(verführer, n, [verführer], "einer, der verführt").
+Eintrag(tempura, n, [tempuras], "ein japanisches Gericht").
+Eintrag(zehn, n, [zehner], "eine Zahl").
+entry(tenable, adj, [], "haltbarTENABLY adv").
+entry(tenace, n, [tenaces], "eine Kombination von zwei hohen Karten in einigen Kartenspielen").
+entry(zähigkeit, n, [zähigkeiten], "beharrlichkeit oder ausdauer").
+entry(tenacula, npl, [], "gehakte chirurgische Instrumente").
+Eintrag(tenail, n, [tenails], "tenaille").
+entry(tenaille, n, [tenailles], "eine äußere Verteidigung").
+entry(miete, n, [mieten], "die vorübergehende Nutzung von etwas, das einem anderen gehört").
+entry(mieter, v, [bewohnt, bewohnend, mieter], "bewohnen").
+entry(pächtertum, n, [pächtereien], "miete").
+entry(Flussbarsch, n, [Flussbarsche], "ein Süßwasserfisch").
+entry(tend, v, [behandelt,behandeln,neigt], "geneigt oder bereit sein").
+entry(tendance, n, [Tendenzen], "aufmerksame Fürsorge").
+entry(tendenz, n, [tendenzen], "tendance").
+Eintrag(tendenz, n, [tendenzen], "eine Neigung, auf eine bestimmte Weise zu handeln oder zu denken").
+entry(zart, adj, [], "ZARTER ZARTESTweich oder zart").
+entry(anbieten, v, [anbot,anbietend,anbietet], "zum Akzeptieren präsentieren").
+entry(bieter, n, [bieter], "jemand, der anbietet").
+entry(zärtlich, adv, [], "in zärtlicher Weise").
+entry(sehne, n, [sehnen], "ein Band aus zähem faserigem Gewebe").
+Eintrag(rankenkraut, n, [rankenkrauter], "ein blattloses Organ kletternder Pflanzen").
+Eintrag(tendu, n, [tendus], "ein asiatischer Ebenholzbaum").
+entry(tenebrae, npl, [], "ein Gottesdienst").
+Eintrag(Mietshaus, n, [Mietshäuser], "ein Apartmenthaus").
+entry(tenesi, n, [tenesi], "eine Währungseinheit von Turkmenistan").
+entry(tenesmus, n, [Tenesmen], "dringender, aber erfolgloser Drang zu koten oder zu urinierenTENESMUS adj").
+Eintrag(tenet, n, [tenets], "ein als wahr angesehenes prinzipielles Glauben oder Lehre").
+entry(zehnfach, n, [zehnfache], "eine Menge, die zehnmal so groß ist wie eine gegebene Einheit").
+entry(tenge, n, [Tengen], "eine Geldeinheit von Kasachstan").
+entry(tenia, n, [tenias], "oder TENIAEa Bandwurm").
+entry(teniasis, n, [teniases], "Befall mit Bandwürmern").
+entry(tenne, n, [tennes], "eine orangebraune Farbe").
+Eintrag(tenne, n, [tennesi], "eine Währungseinheit von Turkmenistan").
+Eintrag(Zehner, n, [Zehners], "ein Zehndollerschein").
+entry(tennies, npl, [], "niedrige Sneaker").
+entry(tennis, n, [tennise], "ein Ballspiel im Freien").
+entry(tennisspieler, n, [tennisspieler], "ein Tennisspieler").
+entry(tenno, n, [tennos], "der Kaiser von Japan als Gottheit betrachtet").
+entry(tenny, n, [tennies], "Tenne").
+entry(tenon, v, [tenoned,tenoning,tenons], "eine Verbindung durch einen Zapfen, eine Vorsprung am Ende eines Holzstücks herstellen").
+eintrag(tenoner, n, [tenoners], "einer, der zapft").
+entry(tenor, n, [Tenöre], "eine hohe männliche Singstimme").
+Eintrag(tenorino, n, [tenorini], "ein hoher Tenor").
+entry(tenorist, n, [Tenoristen], "jemand, der Tenor singt oder ein Tenorinstrument spielt").
+entry(tenorit, n, [tenorite], "ein Mineral").
+entry(tenorman, n, [tenormänner], "eine Person, die Tenorsaxophon spielt").
+entry(tenotomie, n, [tenotomien], "die chirurgische Durchtrennung einer Sehne").
+entry(tenour, n, [tenöre], "tenor").
+Eintrag(zehnpennig, n, [zehnpfennige], "die Summe von zehn Pfennigen").
+entry(tenpenny, adj, [], "zehn Pence wert").
+eintrag(zehnkegel, n, [zehnkegele], "ein Bowlingkegel").
+entry(tenrec, n, [tenreks], "ein Säugetier, das sich von Insekten ernährt").
+entry(tense, adj, [], "TENSER TENSESTtautTENSELY adv").
+Eintrag(tempus, v, [angespannt, anspannend, anspannt], "anspannen").
+Eintrag(dehnbar, adj, [], "fähig, gedehnt zu werdenDEHNBAR adv").
+entry(tensile, adj, [], "dehnbar").
+Eintrag(spannung, v, [gespannt,spannend,spannt], "anspannen").
+Eintrag(tension, n, [Spannungen], "der Zustand des Gespanntseins").
+Eintrag(tensive, adj, [], "Verursachung von Spannung").
+Eintrag(tensor, n, [Tensoren], "ein Muskel, der einen Körperteil streckt").
+entry(zelt, v, [gezeltet,zeltend,zelte], "in einem Zelt, eine Art tragbares Schutzdach, leben").
+Eintrag(tentakel, s, [tentakel], "ein verlängertes flexibles Anhängsel einiger Tiere").
+Eintrag(tentage, n, [tentages], "ein Vorrat an Zelten").
+entry(tenter, v, [tenterte,tenternd,tentert], "auf einem Rahmen spannen").
+Eintrag(zehntel, n, [zehntel], "eine von zehn gleichen Teilen").
+Eintrag(zehntens, adv, [], "am zehnten Platz").
+Eintrag(tentie, adj, [], "TENTIER TENTIESTtenty").
+entry(tentier, komparativ, [], "von zwanzig").
+Eintrag(tentiest, Superlativ, [], "von tenty").
+entry(tentless, adj, [], "ohne Zelt").
+Eintrag(zeltartig, adj, [], "einem Zelt ähnelnd").
+entry(tentoria, npl, [], "die inneren Skelette der Köpfe von Insekten").
+entry(tentpole, n, [Zeltstangen], "ein Blockbuster-Film, dessen hohe Einnahmen dazu bestimmt sind, die Kosten weniger profitabler Filme auszugleichen").
+entry(tenty, adj, [], "TENTIER TENTIESTwachsam").
+Eintrag(tenuis, n, [tenues], "ein stimmloser phonetischer Verschluss").
+entry(dünnheit, n, [dünnheiten], "Mangel an Substanz oder Stärke").
+entry(tenuous, adj, [], "wenig Substanz oder Stärke habend").
+entry(dienstalter, v, [festangestellt, auf festanstellung, dienstalter], "den status verleihen eine position auf dauerhafter basis zu halten").
+entry(tenurial, adj, [], "auf oder bezüglich Eigentumsverhältnisse").
+entry(tenuto, n, [tenutos], "oder TENUTIeine musikalische Note oder ein Akkord, der länger als seine normale Dauer gehalten wird").
+Eintrag(teocalli, n, [teocallis], "ein aztekischer Tempel").
+Eintrag(teopan, n, [teopans], "ein Teocalli").
+Eintrag(teosinte, n, [teosintes], "ein jährliches Gras").
+Eintrag(tepa, n, [tepas], "eine chemische Verbindung").
+entry(tepache, n, [tepaches], "ein mexikanisches Getränk aus Ananas, braunem Zucker und Wasser").
+entry(tepal, n, [Tepalen], "eine Abteilung eines Perianths").
+entry(tipi, n, [tipis], "ein kegelförmiges Zelt einiger Ureinwohner Amerikas").
+entry(tepefy, v, [tepefied,tepefying,tepefies], "lauwarm machen").
+Eintrag(tephra, n, [tephras], "festes Material, das von einem Vulkan ausgeworfen wird").
+entry(tephrit, n, [tephrite], "ein vulkanisches Gestein").
+Eintrag(lauwarm, adj, [], "mäßig warmLAUWARM adv").
+entry(laue, n, [Lauheiten], "der Zustand des Lau seins").
+Eintrag(tepoy, n, [tepoys], "Teapoy").
+eintrag(tequila, n, [tequilas], "ein mexikanischer Schnaps").
+entry(terabyte, n, [terabytes], "eine Billion Bytes").
+entry(teraflop, n, [teraflops], "eine Maßeinheit der Rechengeschwindigkeit").
+entry(terai, n, [terais], "ein Sonnenhut mit breiter Krempe").
+entry(teraohm, n, [Teraohm], "eine Billion Ohm").
+entry(teraph, n, [teraphim], "ein Bild eines semitischen Hausgottes").
+entry(teratism, n, [teratisms], "ein missgebildeter FötusTERATOID adj").
+entry(teratoma, n, [teratome], "oder TERATOMATA eine Art Tumor").
+entry(terawatt, n, [Terawatt], "eine Billion Watt").
+entry(terbia, n, [terbias], "ein Oxid von Terbium").
+Eintrag(terbium, n, [terbiums], "ein metallisches ElementTERBIC adj").
+Eintrag(terce, n, [terces], "tierce").
+Eintrag(tercel, n, [tercels], "ein männlicher Falke").
+Eintrag(tercelet, n, [tercelets], "terzel").
+Eintrag(terzett, n, [terzette], "eine Gruppe von drei Verszeilen").
+entry(terebene, n, [terebenes], "eine Mischung von Terpenen").
+entry(terebisch, adj, [], "sich auf eine aus Terpentinöl abgeleitete Säure beziehend").
+entry(teredo, n, [teredos], "oder TEREDINEN ein Muschelweichling").
+entry(terefah, adj, [], "tref").
+entry(teres, n, [teretes], "einer von zwei Muskeln, die helfen, den Arm zu drehen").
+entry(terete, adj, [], "zylindrisch und leicht verjüngend").
+Eintrag(tergal, adj, [], "zu einem Tergum gehörend").
+Eintrag(tergit, n, [tergite], "ein Tergum").
+entry(tergum, n, [terga], "ein Rückenbereich eines Segments eines Gliederfüßers").
+entry(teriyaki, n, [teriyakis], "ein japanisches Essen").
+Eintrag(term, v, [termed,terming,terms], "einen Namen geben").
+entry(gefangener, n, [gefangene], "ein Häftling, der eine bestimmte Strafe verbüßt").
+entry(Terminal, n, [Terminals], "ein Ende oder Extremität").
+entry(terminer, n, [terminers], "eine Art von Gericht in einigen Bundesstaaten").
+entry(terminus, n, [Terminuse], "oder TERMINIa Endpunkt").
+Eintrag(termite, n, [termite], "ein insekt ähnelt einer amiseTERMITISCH adj").
+entry(termless, adj, [], "grenzenlos").
+entry(termly, adv, [], "periodisch").
+entry(termor, n, [termors], "jemand, der Land für eine bestimmte Anzahl von Jahren hält").
+entry(termtime, n, [termtimes], "die Zeit, in der eine Schule oder ein Gericht in Sitzung ist").
+Eintrag(seeschwalbe, n, [seeschwalben], "ein Seevogel").
+Eintrag(tertiär, n, [tertiären], "eine Gruppe von drei").
+entry(ternate, adj, [], "in Gruppen von drei angeordnet").
+entry(terne, n, [ternes], "eine Legierung aus Blei und Zinn").
+entry(ternion, n, [Dreigruppen], "eine Gruppe von drei").
+entry(terpen, n, [terpene], "eine chemische VerbindungTERPENISCH adj").
+entry(terpinol, n, [Terpine], "eine duftende Flüssigkeit").
+entry(terra, n, [terrae], "Erde Land").
+Eintrag(terrasse, v, [terrassierte, terrassierend, terrassiert], "mit einer Terrasse oder einem aufgeschütteten Damm versehen").
+entry(gelände, n, [gelände], "ein Stück Land").
+entry(terran, n, [terrrane], "eine Gesteinsformation").
+entry(schildkröte, n, [schildkröten], "eine nordamerikanische Schildkröte").
+Eintrag(terraria, npf, [], "Glasgehäuse für Pflanzen oder kleine Tiere").
+entry(terras, n, [Terrassen], "Trass").
+entry(terrasse, n, [terrasse], "eine gepflasterte Fläche außerhalb eines französischen Cafés").
+entry(terrazzo, n, [terrazzos], "ein Mosaikboden").
+entry(terrine, n, [terrinen], "terrine").
+entry(terrella, n, [terrellas], "ein kugelförmiger Magnet").
+entry(erdreich, n, [erdreiche], "ein Landgebiet").
+Eintrag(terret, n, [terrets], "ein Metallring an einem Geschirr").
+entry(schrecklich, adj, [], "sehr schlechtSCHRECKLICH adv").
+Eintrag(terrier, n, [terriers], "ein kleiner aktiver Hund").
+Eintrag(terries, pl, [], "von terry").
+Eintrag(terrific, adj, [], "sehr gut fein").
+entry(erschrecken, v, [erschreckte, erschreckend, erschreckt], "mit Schrecken erfüllen").
+entry(terrine, n, [terrinen], "ein irdenes Gefäß").
+entry(territ, n, [territs], "terret").
+entry(terroir, n, [terroirs], "die Kombination von Faktoren, die Weintrauben ihren unverwechselbaren Charakter verleiht").
+entry(terror, n, [Schrecken], "intensive Angst").
+entry(terry, n, [terries], "ein saugfähiger Stoff").
+Eintrag(terse, adj, [], "TERSER TERSESTsuccinctTERSELY adv").
+entry(tertial, n, [Fittiche], "eine Schwungfeder eines Vogelflügels").
+entry(tertian, n, [tertianen], "ein wiederkehrendes Fieber").
+Eintrag(tertiär, n, [tertiäre], "ein Tertial").
+entry(terzetto, n, [terzettos], "oder TERZETTIein vokales oder instrumentales Trio").
+entry(tesla, n, [teslas], "eine Einheit der magnetischen Induktion").
+entry(tessera, n, [tesserae], "ein kleines Quadrat, das in der Mosaikarbeit verwendet wirdTESSERAL adj").
+entry(test, v, [getestet,testend,tests], "durch eine Prüfung zu bewertenTESTBAR adj").
+entry(testa, n, [testae], "die harte äußere Schale eines Samens").
+Eintrag(testamentfähigkeit, n, [testamentfähigkeiten], "der Zustand, ein Testament bei Tod hinterlassen zu haben").
+entry(testate, n, [testatoren], "ein Testator").
+Eintrag(testator, n, [testators], "jemand, der ein Testament macht").
+entry(testglied, n, [testglieder], "einer, der getestet wird").
+entry(tester, n, [Tester], "jemand, der testet").
+entry(testes, pl, [], "Hoden").
+Eintrag(hoden, n, [hoden], "ein Hoden").
+Eintrag(testiger, Komparativ, [], "von testy").
+Eintrag(testiest, Superlativ, [], "von gereizt").
+entry(testify, v, [bezeugt, bezeugend, bezeugt], "eine wahrheitsgemäße Erklärung unter Eid abzugeben").
+entry(testily, adv, [], "in einer gereizten Weise").
+entry(testen, n, [tests], "der Akt, jemanden durch eine Prüfung zu bewerten").
+Eintrag(Hoden, n, [Hoden], "eine männliche Fortpflanzungsdrüse").
+entry(teston, n, [testons], "eine ehemalige französische Münze").
+entry(testoon, n, [Testons], "Teston").
+entry(testudo, n, [testudos], "oder TESTUDINES ein tragbarer Bildschirm, der von den alten Römern als Schild verwendet wurde").
+entry(testy, adj, [], "REIZBAR REIZBARESTam gereiztesten").
+Eintrag(tet, n, [tets], "teth").
+entry(tetanal, adj, [], "auf Tetanus bezogen").
+Eintrag(tetanic, n, [tetanics], "ein Medikament, das Krämpfe hervorrufen kann").
+Eintrag(tetanies, pl, [], "von Tetanie").
+entry(tetanise, v, [tetanised,tetanising,tetanises], "tetanisieren").
+entry(tetanisieren, v, [tetanisiert,tetanisierend,tetanisiert], "mit Krämpfen beeinflussen").
+Eintrag(tetanus, n, [tetanus], "eine ansteckende Krankheit TETANOID adj").
+entry(tetanie, n, [tetanien], "ein Zustand, der durch schmerzhafte Muskelkrämpfe gekennzeichnet ist").
+entry(tetched, adj, [], "verrückt").
+entry(tetchy, adj, [], "TETCHIER TETCHIESTreizbarTETCHILY adv").
+entry(teth, n, [teths], "ein hebräischer Buchstabe").
+entry(tether, v, [angebunden,anbindend,anbindet], "mit einem Seil an einem festen Objekt befestigen").
+entry(kreisel, n, [kreisel], "kreisel").
+entry(tetra, n, [tetras], "ein tropischer Fisch").
+Eintrag(tetracid, n, [tetracids], "eine Art von Säure").
+Eintrag(tetrad, n, [tetraden], "Eine Gruppe von vier, TETRADISCH adj").
+entry(tetragon, n, [Vierecke], "ein Viereck").
+eintrag(tetramer, n, [tetramere], "eine Art Polymer").
+entry(tetrapod, n, [Tetrapoden], "ein vierfüßiges Tier").
+entry(tetrarch, n, [Tetrarchen], "einer von vier Mitregenten").
+entry(tetri, n, [tetris], "eine Währungseinheit der Republik Georgien").
+Eintrag(tetrode, n, [Tetroden], "eine Art von Elektronenröhre").
+entry(tetrose, n, [Tetrosen], "ein Zucker, dessen Moleküle vier Kohlenstoffatome enthalten").
+entry(tetroxid, n, [tetroxide], "eine Art von Oxid").
+Eintrag(tetryl, n, [tetryls], "eine chemische Verbindung").
+entry(tetter, n, [Flechte], "eine Hautkrankheit").
+entry(teuch, adj, [], "zäh").
+Eintrag(teugh, adj, [], "toughTEUGHLY adv").
+entry(tevatron, n, [tevatronen], "ein Teilchenbeschleuniger").
+Eintrag(tew, v, [tewed, tewing, tews], "hart arbeiten").
+eintrag(texas, n, [texases], "die oberste Struktur auf einem Dampfschiff").
+entry(text, v, [simste, simsend, simst], "eine Nachricht von einem Handy zu einem anderen senden").
+entry(lehrbuch, n, [lehrbücher], "ein Buch, das zum Studium eines Themas verwendet wird").
+Eintrag(texter, n, [texters], "jemand, der Nachrichten schreibt").
+eintrag(textil, n, [textilien], "ein gewebter Stoff").
+Eintrag(kein_text, adj, [], "keinen Text haben").
+entry(textuell, adj, [], "einen Text betreffend").
+Eintrag(textuar, n, [textuare], "ein Spezialist für das Studium der Heiligen Schriften").
+entry(textural, adj, [], "die Oberflächenmerkmale von etwas betreffend").
+entry(texture, v, [strukturieren,texturierend,strukturieren], "machen durch Weben").
+entry(thack, v, [thacked,thacking,thacks], "dachdecken").
+entry(thae, adj, [], "diese jene").
+Eintrag(thairm, n, [thairms], "tharm").
+Eintrag(thalamus, n, [thalami], "ein Teil des GehirnsTHALAMISCH adj").
+entry(taler, n, [taler], "taler").
+Eintrag(thali, n, [thalis], "ein Teller, auf dem in Indien Essen serviert wird").
+Eintrag(thallium, n, [thalliums], "ein metallisches ElementTHALLISCH THALLOUX adj").
+Eintrag(thallus, n, [thalli], "oder THALLIa Pflanzenkörper ohne echte Wurzel, Stamm oder BlattTHALLOID adj").
+entry(thalweg, n, [thalwegs], "die Linie, die die tiefsten Punkte entlang der Flussbettlänge definiert").
+entry(als, konj, [], "verwendet, um das zweite Element eines Vergleichs einzuführen").
+entry(thanage, n, [thanages], "das Land, das von einem Thane gehalten wird").
+entry(thanatos, n, [thanatoses], "ein instinktiver Todeswunsch").
+entry(thane, n, [thanes], "ein Mann, der Land durch Militärdienst im angelsächsischen England hält").
+Eintrag(thanedom, n, [thanedoms], "das Gebiet eines Thanes").
+Eintrag(danken, v, [dankte,dankend,dankt], "um Dank auszudrücken").
+entry(thanker, n, [Dankende], "jemand, der dankt").
+entry(dankbar, adj, [], "DANKBARER DANKBARSTEgefühl der Dankbarkeit").
+Eintrag(tharm, n, [tharms], "der Bauch").
+entry(das, pron, [jene], "der/die/das Angezeigte").
+Eintrag(thataway, adv, [], "in diese Richtung").
+Eintrag(dachstroh, v, [bedacht,bedachung,bedacht], "mit Stroh oder Laub abdecken").
+entry(thatcher, n, [dachdecker], "jemand, der deckt").
+Eintrag(thatchy, adj, [], "THATCHIER THATCHIEST ähnlich Reet").
+Eintrag(auftauen, v, [aufgetaut, auftauend, taut auf], "schmelzen").
+entry(auftauer, n, [auftauer], "etwas, das auftaut").
+entry(auftauen, n, [auftauen], "das Schmelzen einer gefrorenen Substanz").
+entry(thawless, adj, [], "niemals auftauend").
+Eintrag(the, bestimmt, [], "Artikel, der verwendet wird, um etwas zu spezifizieren oder zu konkretisieren").
+entry(thearchie, n, [thearchien], "Herrschaft durch einen Gott").
+entry(theater, n, [theater], "ein Gebäude für dramatische AufführungenTHEATRISCH adj").
+entry(theater, n, [theater], "Theater").
+eintrag(thebain, n, [thebaine], "ein giftiges Alkaloid").
+entry(thebe, n, [thebes], "eine Währungseinheit von Botswana").
+entry(theca, n, [thecae], "eine schützende anatomische HülleTHECAL THECATE adj").
+entry(thee, pron, [], "der Objektfall des Pronomens thou").
+entry(theelin, n, [theelins], "Östron").
+Eintrag(theelol, n, [theelols], "Estriol").
+entry(diebstahl, n, [diebstähle], "der akt des stehlens").
+Eintrag(thegn, n, [thegns], "thaneTHEGNLY adj").
+entry(thein, n, [theins], "Thein").
+entry(thein, n, [theins], "Koffein").
+entry(their, adj, [], "zu ihnen gehörend").
+entry(deren, pron, [], "eine possessive Form des Pronomens sie").
+entry(theismus, n, [theismen], "Glaube an die Existenz eines Gottes").
+entry(theist, n, [Theisten], "jemand, der an die Existenz eines Gottes glaubtTHEISTISCH adj").
+entry(thelitis, n, [thelitiden], "Entzündung der Brustwarze").
+entry(sie, pron, [], "der Objektfall des Pronomens sie").
+Eingabe(thematisch, n, [thematiken], "eine Briefmarke, die nach ihrem Thema gesammelt wird").
+Eintrag(Thema, v, [thematisch,thematisieren,Themen], "etwas nach einem zentralen Thema planen").
+entry(sich, pron, [], "eine Person unbestimmten Geschlechts").
+entry(dann, n, [danach], "diese Zeit").
+Eintrag(thenage, n, [thenages], "thanage").
+entry(thenal, adj, [], "die Handfläche betreffend").
+entry(thenar, n, [Thenare], "die Handfläche").
+Eintrag(dorther, adv, [], "von diesem Ort").
+entry(theokrat, n, [theokraten], "eine Person, die als Vertreter eines Gottes regiert").
+entry(theodizee, n, [theodizeen], "eine Verteidigung der Güte Gottes in Bezug auf das Vorhandensein des Bösen").
+entry(theogonie, n, [theogonien], "ein Bericht über den Ursprung der Götter").
+entry(theologe, n, [theologen], "ein Theologiestudent").
+entry(theologie, n, [theologien], "das Studium der Religion").
+Eintrag(theonomie, n, [theonomien], "Herrschaft durch einen Gott").
+entry(theorbo, n, [theorben], "ein Saitenmusikinstrument").
+Eintrag(Theorem, n, [Theoreme], "ein Satz, der nachweislich wahr ist oder als solcher angenommen wird").
+Eintrag(theorien, pl, [], "der Theorie").
+entry(theoretisieren, v, [theoretisierte,theoretisierend,theoretisiert], "theoretisieren").
+entry(theoretiker, n, [theoretiker], "einer, der theoretisiert").
+Eintrag(theorize, v, [theorized,theorizing,theorizes], "Theorien bilden").
+entry(Theorie, n, [Theorien], "eine Gruppe von Aussagen, die verwendet wird, um eine Klasse von Phänomenen zu erklären").
+entry(therapie, n, [therapien], "die Behandlung von Krankheit oder Behinderung").
+entry(dort, n, [orts], "jener Ort").
+Eintrag(dort, adv, [], "an diesem Ort oder zu dieser Zeit").
+entry(dadurch, adv, [], "auf diese Weise").
+entry(deshalb, adv, [], "dafür").
+entry(darin, adv, [], "an diesem Ort").
+entry(theremin, n, [Theremine], "ein Musikinstrument").
+entry(davon, adv, [], "davon").
+entry(darauf, adv, [], "daraufhin").
+entry(thereout, adv, [], "daraus heraus").
+entry(thereto, adv, [], "dazu").
+entry(theriak, n, [theriake], "Melasse").
+Eintrag(theriaca, n, [theriacas], "theriac").
+entry(therian, n, [therians], "ein Mitglied einer Unterklasse von Säugetieren").
+Eintrag(therm, n, [therms], "eine Einheit der Wärmemenge").
+entry(thermen, npl, [], "heiße Quellen").
+entry(thermal, n, [Thermik], "eine aufsteigende Masse warmer Luft").
+entry(therme, n, [thermen], "therm").
+entry(thermel, n, [thermels], "ein Gerät zur Temperaturmessung").
+entry(thermic, adj, [], "die Wärme betreffend").
+Eintrag(thermion, n, [thermions], "ein durch einen erhitzten Körper emittiertes Ion").
+Eintrag(thermit, n, [thermite], "eine metallische Mischung, die beim Zünden intensive Hitze erzeugt").
+entry(thermosflasche, n, [thermosflaschen], "ein Behälter, der verwendet wird, um Flüssigkeiten entweder heiß oder kalt zu halten").
+entry(theroid, adj, [], "einem Tier ähnelnd").
+entry(theropode, n, [theropoden], "ein fleischfressender Dinosaurier").
+entry(thesauri, npl, [], "Wörterbücher der Synonyme und Antonyme").
+Eintrag(diese, pl, [], "von diesem").
+Eintrag(thesis, n, [thesen], "eine zur Diskussion gestellte Behauptung").
+entry(thesp, n, [thesps], "ein Schauspieler").
+entry(schauspieler, n, [schauspieler], "ein Schauspieler oder eine Schauspielerin").
+Eintrag(theta, n, [thetas], "ein griechischer Buchstabe").
+Eintrag(thetisch, adj, [], "willkürlich").
+entry(thetical, adj, [], "thetic").
+Eintrag(theurgie, n, [theurgien], "göttliches Eingreifen in menschliche AngelegenheitenTHEURGISC adj").
+Eintrag(thew, n, [thews], "ein gut entwickelter Muskel").
+entry(thewless, adj, [], "schwach").
+Eintrag(thewy, adj, [], "THEWIER THEWIESTbrawny").
+entry(sie, pron, [], "das Personalpronomen der 3. Person Plural im Nominativ").
+entry(thiamin, n, [Thiamine], "Thiamin").
+entry(thiamin, n, [thiamine], "ein B-Vitamin").
+entry(thiazid, n, [thiazide], "ein Arzneimittel zur Behandlung von Bluthochdruck").
+Eintrag(thiazin, n, [thiazine], "thiazins").
+entry(thiazin, n, [thiazine], "eine chemische Verbindung").
+entry(thiazol, n, [Thiazole], "Thiazol").
+entry(thiazol, n, [thiazole], "eine chemische Verbindung").
+Eintrag(dick, adj, [], "DICKER DICKSThaben relativ große Ausdehnung von einer Oberfläche zur gegenüberliegenden").
+entry(dick, n, [dicke], "der dickste Teil").
+entry(verdicken, v, [verdickte,verdickend,verdickt], "dick machen").
+entry(Dickicht, n, [Dickichte], "ein dichtes Wachstum von Sträuchern oder kleinen BäumenDICHT adj").
+entry(thickish, adj, [], "etwas dick").
+entry(dicklich, adv, [], "auf dicke Weise").
+entry(stämmig, n, [stämmige], "ein Dickicht").
+entry(dieb, n, [diebe], "derjenige, der stiehlt").
+entry(stehlen, v, [gestohlen, raubend, stiehlt], "stehlen").
+entry(diebstahl, n, [diebstähle], "der Akt oder die Praxis des Stehlens").
+entry(diebisch, adj, [], "zum Stehlen geneigt").
+entry(oberschenkel, n, [oberschenkel], "ein Teil des BeinsTHIGHED adj").
+entry(thill, n, [Deichseln], "eine Stange eines Fahrzeugs").
+Eintrag(fingerhut, n, [fingerhüte], "eine Kappe, die zum Schutz der Fingerspitze beim Nähen verwendet wird").
+entry(dünn, adj, [], "DÜNNER AM DÜNNSTENrelativ wenig Dichte oder Dicke haben").
+Eintrag(dünn, v, [verdünnt, verdünnend, verdünnt], "dünn machen").
+entry(thinclad, n, [thinclads], "ein Läufer in einem Leichtathletikteam").
+entry(thindown, n, [thindowns], "eine Verringerung der Anzahl der Atome und kosmischen Strahlen, die durch die Erdatmosphäre dringen").
+entry(dein, pron, [], "eine besitzanzeigende Form des Pronomens du").
+entry(ding, n, [dinge], "ein unbelebtes Objekt").
+entry(dingsbums, n, [dingsbumse], "etwas, dessen Name unbekannt oder vergessen ist").
+Eintrag(denken, v, [dachte,denken,denkt], "im Kopf formulieren").
+entry(denker, n, [denker], "jemand, der denkt").
+Eintrag(denken, n, [Überlegungen], "eine Meinung oder ein Urteil").
+entry(dünn, adv, [], "auf dünne Weise").
+entry(verdünnt, vergangenheit, [], "Zeitform von dünn").
+entry(dünner, n, [dünner], "einer, der verdünnt").
+entry(dünnheit, n, [dünnheiten], "die Qualität oder der Zustand des Dünnseins").
+entry(dünnste, superlativ, [], "von dünn").
+Eintrag(dünnen, präsens, [], "Partizip von dünn").
+entry(dünnlich, adj, [], "etwas dünn").
+entry(thio, adj, [], "enthält Schwefel").
+Eintrag(thiol, n, [Thiole], "eine SchwefelverbindungTHIOLISCH adj").
+entry(thionat, n, [thionate], "ein chemisches Salz").
+entry(thionic, adj, [], "schwefelhaltig").
+entry(thionin, n, [thionine], "ein violetter Farbstoff").
+Eintrag(thionin, n, [thionine], "thionin").
+Eintrag(thionyl, n, [thionyls], "sulfinyl").
+entry(thiophen, n, [Thiophene], "eine chemische Verbindung").
+entry(thiotepa, n, [thiotepas], "eine chemische Verbindung").
+entry(thioure, n, [thiouren], "eine chemische Verbindung").
+entry(thir, pron, [], "diese").
+entry(thiram, n, [thirams], "eine chemische Verbindung").
+Eintrag(dritter, n, [drittel], "einer von drei gleichen Teilen").
+Eintrag(drittens, adv, [], "an dritter Stelle").
+entry(thirl, v, [thirled,thirling,thirls], "begeistern").
+entry(thirlage, n, [thirlages], "eine Verpflichtung, die feudale Pächter dazu zwingt, Getreide in einer bestimmten Mühle zu mahlen").
+entry(durst, v, [durstete, durstend, durstet], "ein Verlangen oder Bedürfnis zu trinken").
+entry(durstender, n, [durstende], "einer, der dürstet").
+Eintrag(durstig, adj, [], "DURSTIGER DURSTIGSTEein Verlangen oder Bedürfnis zu trinken verspürend").
+entry(dreizehn, n, [dreizehn], "eine Zahl").
+entry(dreißig, n, [dreißiger], "eine Zahl").
+entry(this, pron, [diese], "die gerade erwähnte Person oder Sache").
+entry(thisaway, adv, [], "so").
+entry(distel, n, [disteln], "eine stachelige Pflanze").
+entry(dornig, adj, [], "DORNIGER DORNIGSTE dornig").
+entry(dorthin, adv, [], "in diese Richtung").
+entry(tho, conj, [], "obwohl").
+entry(thole, v, [tholed,tholing,tholes], "ertragen").
+entry(dollenstift, n, [dollenstifte], "ein Stift, der als Ruderhalter dient").
+entry(tholos, n, [tholoi], "ein kreisförmiges unterirdisches Grab").
+entry(thong, v, [gepeitscht, auspeitschend, Peitschen], "mit einer Peitsche auspeitschen").
+Eintrag(thongy, adj, [], "THONGIER THONGIESTähneln einem Kleidungsstück aus einem schmalen Stoffstreifen").
+Eintrag(thorax, n, [thoraxe], "oder THORAXESthe Teil des Körpers zwischen dem Hals und dem BauchTHORAKAL THORAKISCH adj").
+entry(thoria, n, [thorienoxid], "ein Oxid des Thoriums").
+entry(thoric, adj, [], "thoriumbezogen").
+entry(thorit, n, [thoriten], "ein Thoriumerz").
+entry(thorium, n, [thorium], "ein metallisches Element").
+Eintrag(dorn, v, [dornig, dornend, dorne], "mit einem Dorn stechen, ein scharfer starrrer Vorsprung an einer Pflanze").
+Eintrag(stachelig, adj, [], "STACHELIGER STACHELIGSTE voller DornenSTACHELIG adv").
+entry(thoro, adj, [], "gründlich").
+entry(thoron, n, [thorons], "ein radioaktives Isotop von Radon").
+Eintrag(gründlich, adj, [], "GRÜNDLICHER GRÜNDLICHSTkomplett in jeder Hinsicht").
+entry(thorp, n, [thorps], "ein kleines Dorf").
+entry(thorpe, n, [thorpes], "Dorf").
+entry(diese, pl, [], "davon").
+Eintrag(du, v, [duce, duend, dus], "duzen als die 2. Person Singular im Nominativ").
+entry(obwohl, conj, [], "ungeachtet der Tatsache, dass").
+entry(gedanke, n, [gedanken], "ein produkt des denkens").
+Eintrag(tausend, n, [tausende], "eine Zahl").
+Eintrag(thowless, adj, [], "lustlos").
+Eintrag(thraldom, n, [thraldoms], "Dienerschaft").
+Eintrag(thrall, v, [thralled, thralling, thralls], "versklaven").
+entry(verprügeln, v, [verprügelte, verprügelnd, verprügelt], "schlagen").
+entry(drescher, n, [dreschers], "jemand, der drischt").
+Eintrag(thrashy, adj, [], "THRASHIER THRASHIESTcharakteristisch für einen Stil schneller lauter Punkrockmusik").
+entry(thrave, n, [thraves], "eine Maßeinheit für Getreide").
+entry(thraw, v, [thrawed, thrawing, thraws], "verdrehen").
+entry(thrawart, adj, [], "stur").
+Eintrag(thrawn, adj, [], "twistedTHRAWNLY adv").
+entry(thread, v, [Fäden, Einfädeln, Fäden], "um einem Faden eine sehr schlanke Schnur hindurchzuführen").
+entry(threader, n, [Gewindeschneider], "einer, der Gewinde schneidet").
+entry(thready, adj, [], "FÄDENÄHNLICHER FÄDENÄHNLICHSTEr einem Faden ähnelnd").
+entry(threap, v, [threapten,threapend,threapt], "streiten").
+Eintrag(threaper, n, [threapers], "einer, der threaps").
+Eintrag(drohung, v, [bedroht, bedrohung, drohungen], "bedrohen").
+Eintrag(bedrohen, v, [bedrohte,bedrohend,bedroht], "eine Gefahrenquelle sein für").
+entry(drei, n, [dreien], "eine Zahl").
+entry(threep, v, [threepte, threepend, threept], "dreinschlagen").
+Eintrag(threnode, n, [threnodes], "ein Threnos").
+entry(threnodie, n, [threnodien], "ein Klagelied").
+entry(thresh, v, [dreschte,dreschen,drescht], "das Korn oder die Samen mechanisch von einer Pflanze trennen").
+entry(drescher, n, [drescher], "einer, der drischt").
+entry(warf, vergangenheit, [], "Zeitform von werfen").
+entry(dreimal, adv, [], "dreimal").
+entry(sparsamkeit, n, [sparsamkeiten], "Sorgfalt und Weisheit im Umgang mit den eigenen Mitteln").
+entry(sparsam, adj, [], "SPARSAMER SPARSTdisplayende Sparsamkeit").
+entry(thrill, v, [begeistert,spannend,begeistert], "sehr erregen").
+Eintrag(thriller, n, [thrillers], "einer, der begeistert").
+Eintrag(thrip, n, [thrips], "eine britische Münze").
+Eintrag(thrive, v, [thrived, thriven, thriving], "THRIVESto grow vigorously").
+Eintrag(thriver, n, [thrivers], "jemand, der gedeiht").
+entry(thro, prep, [], "durch").
+Eintrag(kehle, v, [gekehlt, kehlend, kehlen], "in heiserer Stimme äußern").
+entry(kehlig, adj, [], "KEHLIGER KEHLIGSTE Heiser").
+entry(pochen, v, [pochte,pochend,pocht], "pulsieren").
+eintrag(throbber, n, [throbbers], "etwas, das pocht").
+entry(krampf, n, [krämpfe], "ein heftiger Schmerzkrampf").
+Eintrag(thrombin, n, [thrombine], "ein Enzym").
+entry(gerinnsel, n, [gerinnsel], "ein Blutgefäß verstopfendes Blutgerinnsel").
+Eintrag(thron, v, [thront, thronend, thront], "auf einen Thron, einen königlichen Stuhl, setzen").
+entry(drängen, v, [drängte, drängend, drängt], "sich hineindrängen").
+entry(drossel, n, [drosseln], "ein Singvogel").
+entry(Drossel, v, [drosselte, drosselnd, drosseln], "erdrosseln").
+entry(durch, praeposition, [], "auf dem Weg").
+entry(florierte, a, [], "Vergangenheit von thrive").
+entry(werfen, v, [warf,geworfen,werfend], "WERFENzum Durch-die-Luft-Schleudern mit einer Armbewegung").
+entry(Werfer, n, [Werfer], "einer, der wirft").
+entry(thru, prep, [], "durch").
+entry(thrum, v, [thrummed,thrumming,thrums], "ein Saiteninstrument untätig oder monoton zu spielen").
+entry(thrummer, n, [thrummers], "jemand, der schlägt").
+entry(thrummy, adj, [], "ZOTTIGER ZOTTIGSTEzottelig").
+entry(durchsatz, n, [durchsätze], "die Menge an Rohmaterial, die innerhalb eines bestimmten Zeitraums verarbeitet wird").
+entry(drossel, n, [drosseln], "ein Singvogel").
+entry(stoßen, v, [gestoßen,stoßend,stößt], "mit Gewalt drücken").
+entry(thruster, n, [Schubdüsen], "einer, der schiebt").
+entry(thrustor, n, [Triebwerke], "Triebwerk").
+entry(schnellstraße, n, [schnellstraßen], "eine Express-Schnellstraße").
+Eintrag(thud, v, [thuddelte, thuddend, thuddet], "einen dumpfen schweren Klang erzeugen").
+entry(schläger, n, [schläger], "ein brutaler Rüpel oder Auftragsmörder").
+entry(thuggee, n, [thuggees], "Thuggee in Indien").
+entry(ruppigkeit, n, [ruppigkeiten], "ruppiges Verhalten").
+Eintrag(raufboldhaft, adj, [], "charakteristisch für einen Raufbold").
+entry(thuja, n, [thujen], "ein immergrüner Baum oder Strauch").
+entry(thulia, n, [thulias], "ein Oxid von Thulium").
+entry(thulium, n, [thulium], "ein metallisches Element").
+entry(thumb, v, [thumbed,thumbing,thumbs], "daumen: mit dem Daumen durchblättern, der kurze dicke Finger der menschlichen Hand").
+entry(thumbkin, n, [thumbkins], "eine Schraube, die mit Daumen und Fingern gedreht wird").
+entry(daumenmutter, n, [daumenmuttern], "eine Mutter, die mit dem Daumen und den Fingern gedreht wird").
+entry(klopfen, v, [klopfte,klopfend,klopft], "so schlagen, dass ein dumpfes Geräusch entsteht").
+entry(thumper, n, [Stampfer], "einer, der schlägt").
+entry(donnern, v, [donnerte,donnernd,donnerst], "ein lautes, widerhallendes Geräusch erzeugen").
+entry(gewittrig, adj, [], "mit Donner einhergehend").
+entry(dumpfer, v, [dumpfend,dumpfende,dumpfert], "ein plötzlich gedämpftes Geräusch erzeugen").
+entry(Weihrauchfass, n, [Weihrauchfässer], "ein Weihrauchgefäß").
+entry(Thurifer, n, [Thuriferen], "eine Person, die ein Weihrauchfass in einer religiösen Zeremonie trägt").
+entry(thurl, n, [Oberschenkelhöcker], "das Hüftgelenk bei Rindern").
+entry(so, adv, [], "auf diese Weise").
+entry(so, adv, [], "thus").
+entry(thuja, n, [thujas], "Lebensbaum").
+entry(klatschen, v, [geklatscht,klatschend,klatscht], "mit etwas Flachem schlagen").
+entry(thwacker, n, [thwackers], "jemand, der schlägt").
+Eintrag(verhindern, v, [verhindert,verhindernd,verhindert], "das Erreichen von etwas verhindern").
+entry(verhinderer, n, [verhinderer], "jemand, der verhindert").
+Eintrag(thwartly, adv, [], "quer").
+Eintrag(thy, adj, [], "zu dir gehörend").
+Eintrag(Thymian, n, [Thymiane], "ein aromatisches Kraut").
+entry(thymey, adj, [], "THYMIGER THYMIGSTEthymig").
+entry(thymi, a, [], "Pl. von Thymus").
+entry(thymisch, adj, [], "den Thymian betreffend").
+entry(thymier, komparativ, [], "von thymey und thymy").
+entry(thymiest, Superlativ, [], "von thymey und thymy").
+entry(thymin, n, [thyminen], "eine chemische Verbindung").
+Eintrag(thymol, n, [thymole], "eine chemische Verbindung").
+entry(thymom, n, [thymome], "oder THYMOMATA ein Tumor, der aus Thymusgewebe entsteht").
+Eintrag(thymosin, n, [thymosine], "ein von der Thymusdrüse ausgeschüttetes Hormon").
+entry(thymus, n, [Thymusse], "oder THYMIa drüsenartige Struktur im Körper").
+Eintrag(thymy, adj, [], "THYMIER THYMIESTreich an Thymian").
+entry(thyreoid, adj, [], "die Schilddrüse betreffend").
+entry(schilddrüse, n, [schilddrüsen], "eine endokrine drüse").
+entry(thyroxin, n, [Thyroxine], "eine Aminosäure").
+entry(thyrse, n, [thyrsen], "Thyrsus").
+Eintrag(thyrsus, n, [thyrsi], "eine Art von Blütenstand. THYRSOID adj").
+entry(dich, pron, [], "dich").
+Eintrag(ti, n, [tis], "der siebte Ton der diatonischen Tonleiter").
+entry(tian, n, [tians], "ein großer ovaler Kochtopf").
+entry(tiara, n, [tiaras], "ein juwelenbesetztes Kopfstück, das von Frauen getragen wird TIARAED adj").
+entry(tibia, n, [tibias], "oder TIBIAEein Knochen des BeinsTIBIAL adj").
+entry(tibialis, n, [tibiales], "ein Muskel in der Wade des Beins").
+entry(tic, v, [zuckte, zuckend, zuckt], "unfreiwillige Muskelkontraktion haben").
+entry(tical, n, [Tical], "eine ehemalige thailändische Gewichtseinheit").
+entry(tick, v, [ticken, tickend, tickt], "ein wiederkehrendes Klickgeräusch erzeugen").
+Eintrag(ticker, n, [tickers], "einer, der tickt").
+Eintrag(ticket, v, [ticketiert,ticketieren,ticketiert], "einen Anhänger anbringen").
+entry(ticking, n, [Tickings], "ein starker Baumwollstoff").
+entry(ticklace, n, [ticklaces], "eine Art kleiner Seevogel").
+entry(kitzeln, v, [gekitzelt,kitzelnd,kitzelt], "leicht berühren, um ein prickelndes Gefühl hervorzurufen").
+entry(kitzler, n, [kitzler], "einer, der kitzelt").
+entry(kitzlig, adj, [], "empfindlich fürs Kitzeln").
+entry(kitzlig, adj, [], "KITZLIGER KITZLIGSTEkitzlig").
+Eintrag(schmuckkörbchen, n, [schmuckkörbchen], "eine Blütenpflanze").
+entry(ticktack, v, [ticktackte,ticktackt,ticktacken], "ticktack machen").
+entry(ticktock, v, [ticktocked, ticktocking, ticktocks], "das Ticken einer Uhr erzeugen").
+Eintrag(tictac, v, [geticktackt, tictackend, tictacs], "ticken").
+entry(tictoc, v, [tickte, tickend, ticktocs], "ticken").
+entry(tidal, adj, [], "sich auf die Gezeiten beziehend; GEZEITLICH adv").
+Eintrag(tidbit, n, [tidbits], "ein leckeres Häppchen").
+Eintrag(tiddler, n, [tiddlers], "ein kleiner Fisch").
+eintrag(tiddly, adj, [], "TIDDLIER TIDDLIESTleicht betrunken").
+entry(tide, v, [tided,tiding,tides], "fließen wie die Gezeiten, das Auf und Ab der Meereswellen").
+Eintrag(tideland, n, [tidelands], "Land, das abwechselnd vom Meer überflutet und freigelegt wird").
+entry(flutlos, adj, [], "keine Gezeiten habend").
+entry(tidenähnlich, adj, [], "einer Flut ähnlich").
+entry(Grenze_der_Flut, n, [Flutgrenzen], "eine Linie an der Küste, die den höchsten Punkt der Flut markiert").
+Eintrag(gezeitenmarke, n, [gezeitenmarken], "eine Markierung, die den höchsten oder niedrigsten Punkt einer Gezeiten zeigt").
+Eintrag(tidebrandung, n, [tidebrandungen], "eine Brandungsrinne").
+entry(tideway, n, [tideways], "ein Gezeitenkanal").
+entry(aufgeräumt, vergangenheit, [], "zeitform von aufräumen").
+entry(aufräumer, n, [aufräumer], "ein Aufräumender").
+entry(tidies, präsens, [], "3. Person Sing. von aufräumen").
+Eintrag(tidiest, Superlativ, [], "von ordentlich").
+entry(ordentlich, adv, [], "auf ordentliche Weise").
+entry(ordentlichkeit, n, [ordentlichkeiten], "der Zustand, ordentlich zu sein").
+entry(nachricht, n, [nachrichten], "ein Stück Nachricht").
+entry(aufgeräumt, adj, [], "ORDENTLICHER AM ORDENTLICHESTENordentlich und ordentlich").
+Eintrag(ordnen, v, [geordnet,ordnend,ordnet], "sauber machen").
+Eintrag(seidfuss, n, [seidfuss], "einjähriges Kraut").
+Eintrag(bindung, v, [], "BINDET BINDUNG oder BINDET BINDUNGzum Befestigen mit einer Schnur oder einem Seil").
+entry(tieback, n, [tiebacks], "eine Schlaufe, um einen Vorhang zur Seite zu halten").
+entry(tiebreak, n, [tiebreaks], "ein Wettbewerb zur Ermittlung eines Gewinners unter den Teilnehmern mit gleichem Punktestand").
+entry(krawattenklammer, n, [krawattenklammern], "ein Verschluss zum Befestigen einer Krawatte").
+entry(gebunden, vergangenheit, [], "Zeitform von binden").
+entry(binden, a, [], "Partizip Präsens von binden").
+entry(krawattenlos, adj, [], "ohne Krawatte").
+entry(krawattennadel, n, [krawattennadeln], "ein Nadel zum Befestigen einer Krawatte").
+entry(tier, v, [gestuft,einstufen,stufen], "in Ebenen anordnen Reihen übereinander angeordnet").
+entry(tierce, n, [tierces], "eine der sieben kanonischen täglichen Zeiten für Gebet und Andacht").
+entry(tierced, adj, [], "in drei gleiche Teile geteilt").
+entry(tiercel, n, [tiercels], "Terzel").
+Eintrag(tiff, v, [tiffed, tiffing, tiffs], "einen kleinen Streit haben").
+Eintrag(tiffany, n, [tiffanies], "ein dünnes Netzgewebe").
+Eintrag(tiffin, v, [tiffinierte, tiffinierend, tiffins], "zu Mittag essen").
+Eintrag(tiger, n, [Tiger], "ein großes Katzenraubtier").
+Eintrag(tigerauge, n, [tigeraugen], "ein Edelstein").
+entry(tigerisch, adjektiv, [], "einem Tiger ähnlich").
+Eintrag(fest, adj, [], "FESTER FESTESTfester oder eng am Platz fixiertFEST adv").
+entry(festziehen, v, [festgezogen,festziehend,festzieht], "fester machen").
+Eintrag(strumpfhosen, npl, [], "ein eng anliegendes Kleidungsstück").
+Eintrag(Geizhals, n, [Geizhälse], "ein Geiziger").
+Eintrag(tiglon, n, [tiglon], "der Nachwuchs eines männlichen Tigers und einer weiblichen Löwin").
+entry(tignon, n, [tignons], "ein Stück Stoff, das als Kopfbedeckung in Louisiana getragen wird").
+Eintrag(tigon, n, [tigons], "tiglon").
+Eintrag(tigerin, n, [tigerinnen], "ein weiblicher Tiger").
+entry(tigerhaft, adj, [], "tigerish").
+entry(tike, n, [tikes], "Bengel").
+entry(tiki, n, [tikis], "ein Holz- oder Steingebilde eines polynesischen Gottes").
+Eintrag(tikka, n, [tikkas], "ein indisches Gericht aus Fleisch, das auf einem Spieß gekocht wird").
+entry(til, n, [tils], "die Sesampflanze").
+entry(tilak, n, [tilaks], "ein Zeichen, das von Hindus auf der Stirn getragen wird").
+entry(tilapia, n, [tilapien], "ein afrikanischer Fisch").
+entry(tilbury, n, [tilburies], "eine Kutsche mit zwei Rädern").
+entry(Tilde, n, [Tilden], "ein Zeichen, das über einem Buchstaben platziert wird, um dessen Klang anzuzeigen").
+Eintrag(Fliese, v, [gefliest, Fliesen, Fliesen], "mit Fliesen dünne Platten aus gebranntem Ton bedecken").
+entry("Kachelbarsch", n, ["Kachelbarsche"], "ein Meeresnahrungsfisch").
+Eintrag(fliesenartig, adj, [], "einer Fliese ähnelnd").
+entry(fliesenleger, n, [fliesenleger], "einer, der Fliesen verlegt").
+entry(fliesen, n, [fliesen], "eine Fläche von Fliesen").
+Eintrag(till, v, [tilled,tilling,tills], "den Boden für den Anbau durch Pflügen vorzubereitenTILLABLE adj").
+Eintrag(pflug, n, [pflüge], "kultiviertes Land").
+Eintrag(tiller, v, [tillered, tillering, tillers], "Stängel von einer Wurzel hervorbringen").
+Eintrag(tillit, n, [tillite], "Gestein aus verfestigtem Ton, Sand, Kies und Felsbrocken").
+Eintrag(neigung, v, [geneigt,neigend,neigt], "veranlassen zu neigenNEIGBAR adj").
+entry(kipper, n, [kipper], "einer, der kippt").
+Eintrag(ackerboden, n, [ackerboeden], "Bodenbearbeitung").
+entry(turnierplatz, n, [turnierplätze], "ein Bereich für Ritterturniere").
+eintrag(timarau, n, [timaraus], "tamarau").
+Eintrag(timbal, n, [timbals], "eine große Trommel").
+Eintrag(timbale, n, [timbales], "ein Teiggehäuse, das wie eine Trommel geformt ist").
+entry(Holz, v, [verholzt, verholzend, Hölzer], "mit Bauholz versehen, das als Baumaterial verwendet wirdHOLZIG adj").
+Eintrag(timbre, n, [timbres], "die Qualität, die einem Klang durch seine Obertöne verliehen wirdTIMBRAL adj").
+Eintrag(tamburin, n, [tamburine], "ein Schlaginstrument").
+Eintrag(zeit, v, [zeitgesteuert, zeitmessung, zeiten], "um die Geschwindigkeit oder Dauer zu bestimmen").
+entry(stempelkarte, n, [stempelkarten], "eine Karte zur Aufzeichnung der Ankunfts- und Abfahrtszeiten eines Mitarbeiters").
+entry(zeitlos, adj, [], "ohne Anfang oder Ende").
+Eintrag(zeitachse, n, [zeitachsen], "ein Zeitplan von Ereignissen").
+entry(pünktlich, adj, [], "PÜNKTLICHER AM PÜNKTLICHSTENauftreten zum richtigen Zeitpunkt").
+entry(rechtzeitig, adj, [], "timely").
+entry(timeout, n, [timeouts], "eine kurze Unterbrechung der Tätigkeit").
+entry(timer, n, [timer], "einer, der misst").
+Eintrag(timework, n, [timeworks], "nach Stunden oder Tagen bezahlte Arbeit").
+entry(veraltet, adj, [], "zeigt die Auswirkungen von langem Gebrauch oder Abnutzung").
+Eintrag(timid, adj, [], "TIMIDER TIMIDESTmangelnder Mut oder SelbstvertrauenSCHÜCHTERN adv").
+Eintrag(Schüchternheit, N, [Schüchternheiten], "die Eigenschaft, schüchtern zu sein").
+Eintrag(timing, n, [timings], "die Auswahl des richtigen Moments, um etwas zu tun").
+entry(timolol, n, [timolols], "ein Medikament zur Behandlung von Glaukom").
+Eintrag(timorous, adj, [], "ängstlich").
+entry(timothy, n, [timothee], "ein europäisches Gras").
+entry(paukenschlagzeug, n, [pauken], "ein Kesselpauken").
+entry(timpanum, n, [pauken], "oder TIMPANAtympanum").
+Eintrag(zinn, v, [verzinnt, verzinnen, zinn], "mit Zinn, einem metallischen Element, beschichten").
+entry(tinamou, n, [Steisshühner], "ein südamerikanisches Wildvogel").
+entry(tincal, n, [tincals], "roher Borax").
+Eintrag(tinct, v, [tincted,tincting,tincts], "färben").
+Eintrag(tinktur, v, [tinkturiert, tinkturierend, tinkturen], "einfärben").
+Eintrag(tinder, n, [tinders], "leicht entzündliches Material TINDERY adj").
+Eintrag(tine, v, [tined, tining, tines], "verlieren").
+Eintrag(tinea, n, [tineas], "eine Pilz-Hautkrankheit TINEALE adj").
+Eintrag(tineid, n, [tineiden], "eine der Familien von Motten").
+Eintrag(alufolie, n, [alufolien], "eine dünne Metallfolie").
+Eintrag(tinful, n, [tinfuls], "so viel, wie ein Zinnbehälter fassen kann").
+Eintrag(ting, v, [tinged, tinging, tings], "ein hochfrequentes metallisches Geräusch ausstoßen").
+entry(tinge, v, [], "EINFÄRBEN EINFÄRBEN ODER EINFÄRBEN EINFÄRBENum eine Spur von Farbe aufzutragen").
+entry(tingle, v, [kribbelte,kribbelnd,kribbelt], "ein prickelndes Stechen verursachen").
+entry(tingler, n, [tingler], "einer, der kribbelt").
+Eintrag(kribbelig, adj, [], "KRIBBELIGER KRIBBELIGSTERkribbelnd").
+entry(tinhorn, n, [tinhorns], "eine auffällig prahlerische Person").
+Eintrag(tinier, komparativ, [], "von winzig").
+entry(tiniest, superlativ, [], "von klein").
+entry(winzig, adv, [], "auf winzige Weise").
+entry(kleinheit, n, [kleinheiten], "die Eigenschaft, winzig zu sein").
+entry(tining, präsens, [], "Partizip von Tine").
+entry(tüfteln, v, [getüftelt,tüftelnd,tüftelt], "in einer ungeschickten oder experimentellen Weise reparieren").
+entry(bastler, n, [bastlern], "jemand, der herumbastelt").
+entry(tinkle, v, [tinkled, tinkling, tinkles], "leise scharfe metallische Geräusche machen").
+entry(tinkler, n, [tinklers], "einer, der klingelt").
+Eintrag(klingeln, n, [klingeln], "das Geräusch, das von etwas gemacht wird, das klingelt").
+entry(tinkly, adj, [], "TINKLIER TINKLIESTerzeugend einen klingelnden Klang").
+entry(zinnähnlich, adj, [], "ähnelt Zinn").
+entry(tinman, n, [tinmänner], "ein Büchsenmacher").
+entry(konserviert, vergangenheit, [], "zeitform von konservieren").
+entry(zinner, n, [zinners], "ein Zinnbergarbeiter").
+Eintrag(tinnier, Komparativ, [], "von blechern").
+entry(tinnste, superlative, [], "von blechern").
+entry(tinnily, adv, [], "auf eine blecherne Weise").
+entry(zinnen, präsens, [], "Partizip von zinnen").
+entry(tinnitus, n, [Ohrgeräusche], "ein klingendes Geräusch in den Ohren").
+Eintrag(tinny, adj, [], "TINNIER TINNIEST wie Zinn").
+entry(tinplate, v, [verzinnt, verzinnen, verzinnt], "ein Objekt mit Zinn beschichten").
+entry(tinpot, adj, [], "von geringer Bedeutung").
+entry(lametta, v, [lamettierte,lamettierend,lamettiert], "oder LAMETTIERT LAMETTIEREND LAMETTIEREN um ein auffälliges oder kitschiges Aussehen zu verleihen").
+entry(tinselly, adj, [], "billig protzig").
+entry(tinsely, adj, [], "glitzrig").
+entry(klempner, n, [klempner], "jemand, der mit Zinn arbeitet").
+Eintrag(blechschere, npl, [], "ein Werkzeug zum Schneiden von Blech").
+Eintrag(zinnerz, n, [zinnerze], "eine Zinnerz").
+Eintrag(getönt, v, [getönte, tönend, töne], "leicht oder zart färben").
+entry(tinter, n, [Abtöner], "einer, der färbt").
+entry(tönen, n, [Tönungen], "der Prozess des Tönens").
+eintrag(farblos, adj, [], "ohne Farbe").
+Eintrag(tintype, n, [tintypes], "eine Art von Fotografie").
+Eintrag(zinnware, n, [zinnwaren], "Artikel aus Weißblech").
+entry(zinnding, n, [zinndinge], "etwas aus Zinn gemacht").
+entry(tiny, adj, [], "SEHR KLEINER KLEINSTsehr klein").
+Eintrag(spitze, v, [geneigte,neigen,kippt], "kippen").
+entry(tipcart, n, [tipkarren], "eine Art von Karren").
+Eintrag(tipcat, n, [Tipcats], "ein Spiel ähnlich Baseball").
+Eintrag(tipi, n, [tipis], "Tipi").
+entry(tipless, adj, [], "keinen Punkt oder Extremität habend").
+entry(tipp, n, [tipps], "ein Hinweis oder eine Warnung").
+Eintrag(tippbar, adj, [], "fähig, umgekippt zu werden").
+entry(gekippte, vergangenheit, [], "Zeitform von kippen").
+Eintrag(kipper, n, [kipper], "einer, der kippt").
+entry(schulterbedeckung, n, [schulterbedeckungen], "eine Bedeckung für die Schultern").
+entry(tippier, komparativ, [], "von tippy").
+Eintrag(tippiest, superlativ, [], "von tippy").
+Eintrag(tipping, Präsens, [], "Partizip von kippen").
+entry(tipple, v, [getrunken, trinkend, trinkt], "alkoholische Getränke trinken").
+entry(tippler, n, [Trinker], "einer, der trinkt").
+Eintrag(tippy, adj, [], "TIPPIER TIPPIESTunsicher").
+Eintrag(tippytoe, v, [tippytoed, tippytoeing, tippytoes], "auf Zehenspitzen gehen").
+entry(tippschein, n, [tippscheine], "eine Veröffentlichung mit Tipps zum Wetten auf Rennen oder Investitionen in Aktien").
+Eintrag(tipsier, Komparativ, [], "von beschwipst").
+Eintrag(tipsiest, Superlativ, [], "von tipsy").
+Eintrag(tipsily, adv, [], "auf taumelnde Weise").
+entry(tipstaff, n, [tipstaffs], "oder TIPSTAVES ein Diener in einem Gericht").
+entry(tipster, n, [Tipgeber], "jemand, der Informationen an Spieler verkauft").
+Eintrag(tipstock, n, [tipstocks], "ein Teil einer Waffe").
+entry(tipsy, adj, [], "ETWAS ANGETRUNKEN").
+entry(auf_zehenspitzen_gehen, v, [ging_auf_zehenspitzen, auf_zehenspitzen_gehend, auf_zehenspitzen_gehen], "auf den Zehenspitzen gehen").
+entry(tiptop, n, [tiptops], "der höchste Punkt").
+entry(tirade, n, [tiraden], "eine lange heftige Rede").
+entry(tiramisu, n, [tiramisus], "ein Dessert aus Löffelbiskuits, Mascarpone, Schokolade und Espresso").
+entry(reifen, v, [ermüdet,ermüdend,ermüdet], "müde werden").
+entry(müde, adj, [], "MÜDER MÜDESTgeschwächtMÜDE adv").
+Eintrag(unermüdlich, adj, [], "scheinbar unfähig zu ermüden").
+Eintrag(umständlich, adj, [], "langwierig").
+entry(anstrengend, präsens, [], "Partizip von ermüden").
+entry(tirl, v, [tirled,tirling,tirls], "ein vibrierendes Geräusch machen").
+entry(tiro, n, [Lehrling], "tyro").
+Eintrag(tirrivee, n, [tirrivees], "ein Wutanfall").
+Eintrag(tisane, n, [tisanes], "ein Aufguss").
+entry(tissual, adj, [], "das Gewebe betreffend").
+entry(gewebe, v, [gewebt,webend,gewebe], "in Gewebe zu weben, ein feiner durchsichtiger Stoff").
+entry(tissuey, adj, [], "gewebsähnlich").
+entry(geweblich, adj, [], "das strukturelle Material von Gewebe eines Organismus betreffend").
+Eintrag(tit, n, [tits], "ein kleiner Vogel").
+Eintrag(titan, n, [titans], "eine Person von großer Größe").
+entry(titanat, n, [titanaten], "ein chemisches Salz").
+entry(titanin, n, [titaninnen], "eine weibliche Titanin").
+Eintrag(titania, n, [titanias], "ein Mineral").
+entry(titanic, adj, [], "von großer Größe").
+entry(titanism, n, [titanismen], "Aufstand gegen gesellschaftliche Konventionen").
+entry(titanit, n, [titanite], "ein Mineral").
+Eintrag(titan, n, [titane], "ein metallisches Element").
+entry(titanous, adj, [], "auf Titan bezogen").
+Eintrag(titbit, n, [titbits], "tidbit").
+entry(titch, n, [tiches], "eine kleine Menge").
+entry(titchie, adj, [], "KLEINER KLEINSTklein").
+entry(titchy, adj, [], "SEHR KLEIN TITCHIGER AM TITCHIGSTEN").
+entry(titer, n, [Titer], "die Stärke einer chemischen Lösung").
+entry(titfer, n, [titfers], "ein Hut").
+entry(zehntpflichtig, adj, [], "der Zahlung des Zehnten unterworfen").
+Eintrag(zehnt, v, [verzehntet, verzehnten, verzehntet], "einen Zehnt, eine kleine Steuer, zahlen").
+entry(tither, n, [Zehnter], "jemand, der den Zehnten gibt").
+entry(zehnten, n, [zehnte], "der Akt des Erhebens von Zehnten").
+entry(tithonia, n, [tithonien], "eine große Kräuterpflanze").
+eintrag(titi, n, [titis], "ein immergrüner Strauch oder Baum").
+Eintrag(titian, n, [titians], "eine rötlich-braune Farbe").
+entry(titivate, v, [titivated,titivating,titivates], "sich schick anziehen").
+entry(schafstelze, n, [schafstelzen], "ein Singvogel").
+entry(titel, v, [betitelt,betitelnd,titel], "mit einem Titel oder einer unverwechselbaren Bezeichnung versehen").
+entry(titeltraeger, n, [titeltraeger], "ein Sportmeister").
+entry(titman, n, [titmen], "der kleinste in einem Wurf von Schweinen").
+entry(meise, n, [meisen], "ein kleiner Vogel").
+entry(titrierbar, adj, [], "fähig, titriert zu werden").
+entry(titrant, n, [Titranten], "das Reagens, das bei der Titration verwendet wird").
+entry(titrieren, v, [titriert,titrierend,titriert], "die Stärke einer Lösung bestimmen, indem ein Reagenz hinzugefügt wird, bis die gewünschte Reaktion eintritt").
+entry(titrator, n, [Titratoren], "einer, der titriert").
+entry(titel, n, [titel], "titel").
+Eintrag(kichern, v, [kicherte, kichernd, kichert], "ein unterdrücktes nervöses Lachen ausstoßen").
+entry(titterer, n, [Kicherer], "einer, der kichert").
+entry(tittie, n, [titties], "eine Schwester").
+entry(tüpfelchen, n, [tüpfelchen], "ein sehr kleines Zeichen beim Schreiben oder Drucken").
+Eintrag(tittup, v, [tittuped, tittuping, tittups], "oder TITTUPPED TITTUPPING TITTUPS, um sich lebhaft zu bewegen").
+entry(tittuppy, adj, [], "wackelig unsicher").
+Eintrag(titty, n, [titties], "ein Zitze").
+entry(titubant, adj, [], "gekennzeichnet durch Schwanken").
+entry(titular, n, [titulars], "jemand, der einen Titel trägt").
+Eintrag(titulär, n, [tituläre], "ein Titulär").
+Eintrag(tivy, adv, [], "mit großer Geschwindigkeit").
+entry(tix, npl, [], "Tickets").
+entry(Tijin, n, [Tijins], "eine Währungseinheit von Kirgisistan").
+eintrag(tiyn, n, [tiyns], "eine Geldeinheit Kasachstans").
+Eintrag(tiz, n, [tizes], "tizzy").
+entry(tizz, n, [tizzes], "Aufregung").
+Eintrag(tizzy, n, [tizzies], "ein Zustand nervöser Verwirrung").
+entry(tmesis, n, [Trennung], "die Trennung der Teile eines zusammengesetzten Wortes durch ein dazwischenliegendes Wort oder Wörter").
+Eintrag(bis, prep, [], "in Richtung von").
+entry(kröte, n, [kröten], "ein schwanzloses springendes Amphibium").
+Eintrag(Toadfish, n, [Toadfische], "ein Meeresfisch").
+Eintrag(toadflax, n, [toadflaxes], "eine mehrjährige Pflanze").
+Eintrag(geschleimt, Vergangenheit, [], "Zeitform von toady").
+entry(kriecher, präsens, [], "3. Person Singular von kriechen").
+entry(krötenartig, adj, [], "einem Frosch ähnelnd").
+Eintrag(toadless, adj, [], "keine Kröten habend").
+entry(krötchen, n, [krötchen], "ein kleiner Frosch").
+entry(krötenartig, adj, [], "einer Kröte ähnlich").
+Eintrag(toady, v, [toadied,toadying,toadies], "um sich in unterwürfigem Schmeicheln zu engagieren").
+entry(kriechend, adj, [], "charakteristisch für jemanden, der Speichellecker ist").
+entry(kriechertum, n, [kriechertümer], "kriecherisches Verhalten").
+Eintrag(Toast, v, [getoastet, toastend, toastet], "durch Hitze bräunen").
+Eintrag(toaster, n, [Toaster], "ein Gerät zum Toasten").
+entry(toasting, n, [Toastings], "das Hinzufügen von rhythmischer Sprache zur Reggae-Musik").
+entry(toasty, adj, [], "TOASTIGER AM TOASTIGSTENangenehm warm").
+entry(tabak, n, [tabake], "oder TABAKANeine einjährige Krautpflanze, die wegen ihrer Blätter kultiviert wird").
+entry(schlittenfahren, v, [schlittgefahren, schlittfahrend, schlittenfährt], "auf einem langen schmalen Schlitten fahren").
+entry(toby, n, [tobies], "eine Art von Trinkbecher").
+entry(toccata, n, [toccatas], "oder TOCCATE eine musikalische Komposition normalerweise für eine Orgel").
+entry(mitgift, v, [mitgiftete,mitiftgebend,mitgiftet], "eine Mitgift geben").
+Eintrag(tock, n, [tocks], "ein kurzes hohles Geräusch").
+Eintrag(toco, n, [tocos], "ein südamerikanischer Tukan").
+entry(tokologie, n, [tokologien], "der Zweig der Medizin, der sich mit der Geburtshilfe befasst").
+Eintrag(tocsin, n, [tocsins], "ein Alarm, der auf einer Glocke ertönt").
+Eintrag(tod, n, [tods], "eine britische Gewichtseinheit").
+entry(heute, n, [heutigen], "der gegenwärtige Tag").
+entry(toddle, v, [toddled,toddling,toddles], "unsicher gehen").
+entry(kleinkind, n, [kleinkinder], "eines, das tappelt").
+Eintrag(toddy, n, [toddies], "ein alkoholisches Getränk").
+entry(tody, n, [todies], "ein westindischer Vogel").
+Eintrag(zeh, v, [zehen,zehend,zeht], "mit dem Zeh berühren, einem der Endglieder des Fußes").
+entry(toea, n, [toeas], "eine Währungseinheit von Papua-Neuguinea").
+entry(zehenkappe, n, [zehenkappen], "eine Abdeckung für die Spitze eines Schuhs oder Stiefels").
+entry(toeclip, n, [Zehkäfige], "ein Gerät, das die Vorderseite des Schuhs eines Radfahrers am Pedal hält").
+entry(zehenhalt, n, [zehenhalte], "ein Raum, der die Zehen beim Klettern stützt").
+Eintrag(zehen, präsens, [], "Partizip von Zeh").
+Eintrag(toeless, adj, [], "keine Zehen habend").
+Eintrag(toelike, adj, [], "Zehe ähnelnd").
+Eintrag(Zehennagel, v, [festgenagelt, festnagelnd, Zehennägel], "mit schräg eingeschlagenen Nägeln befestigen").
+entry(zehenstück, n, [zehenstücke], "ein Teil eines Schuhs, der die Zehen bedeckt").
+entry(vorderkappe, n, [vorderkappen], "ein Metallteil, das an der Spitze eines Schuhs befestigt ist").
+entry(toerag, n, [toerags], "eine verachtenswerte Person").
+Eintrag(toe-schuh, n, [toe-schuhe], "ein tanzschuh ohne absatz").
+Eintrag(toff, n, [toffs], "ein Geck").
+Eintrag(toffee, n, [toffees], "ein kaubares Bonbon").
+Eintrag(toffy, n, [toffies], "Toffee").
+Eintrag(toft, n, [tofts], "ein Hügelland").
+entry(tofu, n, [tofus], "ein weiches Nahrungsmittel, das aus Sojamilch hergestellt wird").
+entry(tog, v, [togged,togging,togs], "kleiden").
+Eintrag(toga, n, [togas], "oder TOGAE ein Übergewand, das im alten Rom getragen wurde TOGAED adj").
+entry(togate, adj, [], "bezüglich des antiken Rom").
+entry(togaged, adj, [], "eine Toga tragend").
+Eintrag(zusammen, adv, [], "in eine Vereinigung oder Beziehung").
+Eintrag(togged, vergangenheit, [], "Zeitform von anziehen").
+Eintrag(bekleidungsgeschäft, n, [bekleidungsgeschäfte], "kleidung").
+Eintrag(togging, Präsens, [], "Partizip von tog").
+Eintrag(toggle, v, [toggled, toggling, toggles], "mit einer Art Stift oder kurzem Stab befestigen").
+Eintrag(toggler, n, [togglers], "einer, der umschaltet").
+entry(togue, n, [togues], "ein Süßwasserfisch").
+entry(plagen, v, [plagte,plagend,plagt], "anstrengend arbeiten").
+entry(leinenstoff, n, [leinenstoffe], "ein durchscheinender Leinenstoff").
+entry(toiler, n, [Schufter], "jemand, der arbeitet").
+Eintrag(Toilette, v, [toilettierte, toilettierend, toilettiert], "sich kleiden und pflegen").
+entry(körperpflegemittel, n, [körperpflegemittel], "ein Artikel, der beim Ankleiden und Pflegen der eigenen Person verwendet wird").
+Eintrag(toilette, n, [toilettes], "der Akt des Ankleidens und Putzens").
+Eintrag(mühsam, adj, [], "beschwerlich").
+entry(beschwerlich, adj, [], "viel Anstrengung verlangend").
+Eintrag(toilworn, adj, [], "Von Arbeit abgenutzt").
+entry(toit, v, [toited,toiting,toits], "schlendern").
+Eintrag(tokamak, n, [Tokamaks], "ein donutförmiger Kernreaktor").
+Eintrag(tokay, n, [tokays], "ein malaysischer Gecko").
+Eintrag(toke, v, [toked, toking, tokes], "einen Zug an einer Marihuana-Zigarette nehmen").
+Eintrag(token, v, [tokened,tokening,tokens], "als Zeichen dienen").
+entry(tokenismus, n, [tokenismen], "die Politik, nur einen oberflächlichen Versuch zu unternehmen").
+entry(toker, n, [tokers], "jemand, der raucht").
+Eintrag(toking, Präsens, [], "Partizip von toke").
+Eintrag(tokologie, n, [tokologien], "tocology").
+entry(tokomak, n, [Tokamak-Reaktoren], "Tokamak").
+Eintrag(tokonoma, n, [tokonomas], "eine kleine Nische in einem japanischen Haus").
+entry(tola, n, [tolas], "eine Gewichtseinheit, die in Indien verwendet wird").
+entry(tolan, n, [tolans], "eine chemische Verbindung").
+Eintrag(tolane, n, [tolanes], "tolan").
+entry(tolar, n, [tolars], "oder TOLARJEV, eine ehemalige Währungseinheit Sloweniens").
+Eintrag(gefängnis, n, [gefängnisse], "ein Gefängnis").
+entry(erzählte, vergangenheit, [], "zeitform von erzählen").
+Eintrag(tole, v, [toled, toling, toles], "verlocken").
+entry(toledo, n, [toledos], "ein fein geschmiedetes Schwert").
+Eintrag(tolerant, adj, [], "geneigt zu tolerieren").
+entry(tolerieren, v, [toleriert,tolerieren,toleriert], "ohne aktiven Widerstand zulassen").
+entry(toleware, n, [tolewares], "Gegenstände aus kunstvoll verziertem Blech").
+entry(tolidin, n, [tolidine], "Tolidin").
+entry(tolidin, n, [tolidine], "eine chemische Verbindung").
+Eintrag(toling, präsens, [], "Partizip von tole").
+entry(maut, v, [erhob, erhebend, erhebt], "eine Gebühr für einen Dienst oder ein Privileg erheben oder auferlegen").
+entry(maut, n, [mauten], "eine Maut").
+entry(schrankenanlage, n, [schrankenanlagen], "eine Mautstelle").
+eintrag(zoller, n, [zollers], "ein Eintreiber von Zöllen").
+entry(zollschranke, v, [zollschrankte,zollschrankend,zollschranken], "um ein Geschäft aufgrund ausstehender Bestechungszahlung zu blockieren").
+entry(maut, n, [mauten], "das Erheben von Mautgebühren").
+entry(tollman, n, [tollmen], "ein Zöllner").
+entry(autobahn, n, [autobahnen], "eine Straße, auf der Gebühren erhoben werden").
+Eintrag(tolt, n, [tolts], "ein isolierter Hügel").
+Eintrag(tolu, n, [tolus], "ein duftendes Harz").
+entry(toluat, n, [toluate], "ein chemisches Salz").
+entry(toluen, n, [toluenes], "eine entzündliche Flüssigkeit").
+Eintrag(toluolisch, adj, [], "auf eine der vier isomeren Säuren, die von Toluol abgeleitet sind, bezogen").
+entry(toluide, n, [toluide], "Toluid").
+Eintrag(toluide, n, [toluides], "ein Amid").
+entry(toluidin, n, [toluidine], "ein Amin").
+entry(toluol, n, [toluole], "Toluol").
+entry(toluole, n, [toluoles], "Toluol").
+entry(toluyl, n, [toluyls], "ein einwertiges chemisches Radikal").
+entry(tolyl, n, [tolyls], "ein einwertiges chemisches Radikal").
+Eintrag(tom, n, [toms], "das Männchen verschiedener Tiere").
+entry(tomahawk, v, [tomahawkte, tomahawkend, tomahawks], "mit einem leichten Beil schlagen").
+entry(tomalley, n, [tomalleys], "die Leber eines Hummers").
+Eintrag(toman, n, [tomans], "eine früher verwendete Münze Irans").
+entry(tomate, n, [tomaten], "die fleischige essbare Frucht einer mehrjährigen PflanzeTOMATIG adj").
+Eintrag(grab, v, [begraben,begrabend,begräbt], "in einem Grabgewölbe oder einer Grabkammer platzieren").
+entry(tombak, n, [tombaks], "eine Legierung aus Kupfer und Zink").
+entry(tomback, n, [tombacks], "Tombak").
+Eintrag(tombak, n, [tombaks], "tombac").
+Eintrag(tombal, adj, [], "ein Grab betreffend").
+entry(tombless, adj, [], "kein Grab habend").
+entry(grabähnlich, adj, [], "einem Grab ähnlich").
+Eintrag(tombola, n, [tombolas], "ein Glücksspiel, das eine Art von Lotterie ist").
+entry(tombolo, n, [tombolos], "eine Sandbank, die eine Insel mit dem Festland verbindet").
+entry(tomboy, n, [tomboys], "ein Mädchen, das burschikose Aktivitäten bevorzugt").
+entry(kater, v, [katerte, katernd, kater], "sich sexuell promisk verhalten  wird für einen Mann verwendet").
+entry(tomcod, n, [tomcods], "ein Meeresfisch").
+Eintrag(foliant, n, [folianten], "ein großes Buch").
+entry(tomentum, n, [tomenta], "ein Netzwerk kleiner Blutgefäße").
+entry(tomfool, n, [Dummköpfe], "eine törichte Person").
+entry(tommy, n, [tommies], "ein Laib Brot").
+Eintrag(tommyfisch, n, [tommyfische], "tomcod").
+Eintrag(tommyrot, n, [tommyrots], "Unsinn").
+entry(tomogramm, n, [tomogramme], "eine mit Röntgenstrahlen gemachte Aufnahme").
+entry(morgen, n, [morgen], "der Tag nach heute").
+entry(tompion, n, [tompions], "Tampion").
+entry(meise, n, [meisen], "irgendeiner von verschiedenen kleinen aktiven Vögeln").
+Eintrag(tonne, n, [tonnen], "eine Gewichtseinheit").
+entry(tonal, adj, [], "den Ton betreffendTONAL adv").
+entry(tonalität, n, [tonalitäten], "ein System von Tönen").
+entry(tondo, n, [tondos], "oder TONDI ein kreisförmiges Gemälde").
+entry(ton, v, [toned,toning,tones], "einen bestimmten Ton mit einer bestimmten Tonhöhe und Vibration versehen").
+entry(tonarm, n, [tonarme], "der schwenkbare Teil eines Plattenspielers, der die Nadel hält").
+entry(toneless, adj, [], "tonlos").
+entry(tonem, n, [toneme], "eine tonale Einheit der SpracheTONEMISCH adj").
+entry(toner, n, [Toner], "einer, der tönt").
+entry(tonetics, npl, [], "die phonetische Untersuchung des Tons in der SpracheTONETIC adj").
+Eintrag(tonette, n, [tonettes], "eine einfache Flöte").
+Eintrag(toney, adj, [], "TONIER TONIESTtony").
+entry(tong, v, [tonged,tonging,tongs], "mit einem Greifgerät heben").
+entry(tonga, n, [tongas], "ein leichter Wagen, der in Indien verwendet wird").
+Eintrag(zange, n, [zangen], "einer, der zangen").
+entry(tongman, n, [tongmen], "ein Mitglied einer chinesischen Geheimgesellschaft").
+Eintrag(zunge, v, [zungte, zungend, zungen], "mit der Zunge, einem Organ des Mundes, berühren").
+entry(zungenstoß, n, [zungenstöße], "der Gebrauch der Zunge zur Artikulation von Noten auf einem Blasinstrument").
+Eintrag(tonikum, n, [tonika], "etwas, das belebt oder erfrischt").
+Eintrag(tonizität, n, [tonizitäten], "normal gesunder körperlicher Zustand").
+entry(tonier, komparativ, [], "von vornehmer und mondäner").
+entry(toniest, superlativ, [], "von toney und tony").
+entry(tonifizieren, v, [tonifiziert,tonifizierend,tonifiziert], "einen Ton geben zu").
+entry(heute_nacht, n, [heute_nachts], "die gegenwärtige Nacht").
+Eintrag(toning, präsent, [], "Partizip von tone").
+entry(tonish, adj, [], "stilvollTONISCH adv").
+entry(tonlet, n, [tonlets], "ein Rock aus Plattenrüstung").
+entry(tonnage, n, [Tonnagen], "Gesamtgewicht in Tonnen").
+entry(tonne, n, [Tonnen], "eine Gewichtseinheit").
+entry(tonneau, n, [tonneaus], "oder TONNEAUXdas hintere Sitzabteil eines Autos").
+entry(tonner, n, [tonners], "ein Objekt mit einer bestimmten Tonnage").
+Eintrag(tonnenschwer, adj, [], "tonisch").
+entry(mandel, n, [mandeln], "ein lymphoides OrganMANDELMASSIG adj").
+entry(tonsur, v, [tonsierte,tonsierend,tonsuren], "den Kopf rasieren").
+entry(tontine, n, [Tontinen], "eine Form der kollektiven Lebensversicherung").
+entry(tonus, n, [Tonusse], "ein normaler Spannungszustand im Muskelgewebe").
+Eintrag(tony, adj, [], "TONIER TONIESTstylish").
+entry(too, adv, [], "zusätzlich").
+Eintrag(toodle, v, [toodled, toodling, toodles], "to tootle").
+Eintrag(nahm, Vergangenheit, [], "Zeitform von nehmen").
+Eintrag(werkzeug, v, [bearbeitet, bearbeitung, werkzeuge], "formen oder fertigstellen mit einem werkzeug, einem gerät, das bei manueller arbeit verwendet wird").
+entry(werkzeugleiste, n, [werkzeugleisten], "eine Reihe von Symbolen auf einem Computerbildschirm, die Funktionen aktivieren").
+Eintrag(werkzeugkasten, n, [werkzeugkästen], "eine Kiste für Werkzeuge").
+entry(tooler, n, [Werkzeugmacher], "eine Person, die Werkzeuge herstellt").
+entry(kopfteil, n, [kopfstücke], "ein Teil einer Maschine").
+entry(tooling, n, [toolings], "Verzierung mit Werkzeugen").
+Eintrag(toolless, adj, [], "keine Werkzeuge habend").
+entry(toolpush, n, [Toolpusher], "ein Arbeiter, der das Bohren auf einer Bohranlage leitet").
+entry(werkzeugraum, n, [werkzeugraeume], "ein Raum, in dem Werkzeuge aufbewahrt werden").
+Eintrag(werkzeugsatz, n, [werkzeugsätze], "ein Satz von Werkzeugen").
+entry(geräteschuppen, n, [geräteschuppen], "ein Gebäude, in dem Werkzeuge aufbewahrt werden").
+Eintrag(toom, adj, [], "leer").
+entry(toon, n, [toons], "ein ostindischer Baum").
+entry(toonie, n, [toonies], "eine kanadische Zwei-Dollar-Münze").
+entry(toot, v, [tootete, gehupt, tutet], "ein Horn oder eine Pfeife in kurzen Stößen ertönen lassen").
+entry(tooter, n, [tooters], "einer, der trötet").
+Eintrag(zahn, n, [zaehne], "eine der harten Strukturen, die in einer Reihe an jedem Kiefer befestigt sind").
+Eintrag(zahn, v, [gezahnt, zahnend, zähne], "mit zahnartigen Vorsprüngen versehen").
+Eintrag(toothy, adj, [], "TOOTHIER TOOTHIESThaving or showing prominent teethTOOTHILY adv").
+entry(tootle, v, [tootled,tootling,tootles], "sanft oder wiederholt tuten").
+entry(tootler, n, [Zahnrad], "eine Person, die pfeift").
+Eintrag(toots, n, [tootses], "eine Frau oder ein Mädchen, normalerweise als Anredeform verwendet").
+Eintrag(tootsie, n, [tootsies], "tootsy").
+Eintrag(tootsy, n, [tootsies], "ein Fuß").
+Eintrag(oben, v, [bedeckt, bedeckend, deckt], "den oberen Teil, den höchsten Punkt oder die Oberfläche abschneiden").
+Eintrag(topas, n, [topase], "ein MineralTOPASISCH adj").
+entry(topcoat, n, [Überzieher], "ein leichter Mantel").
+entry(topcross, n, [topkreuze], "eine Kreuzung zwischen einem reinrassigen Männchen und minderwertigem weiblichem Viehbestand").
+Eintrag(tope, v, [toped, toping, topes], "übermäßig Alkohol trinken").
+Eintrag(topee, n, [topees], "topi").
+Eintrag(toper, n, [topers], "einer, der zecht").
+entry(topful, adj, [], "oberstvoll").
+entry(topvoll, adj, [], "bis zum Rand voll").
+Eintrag(toph, n, [tophs], "tufa").
+Eintrag(tophe, n, [tophes], "tufa").
+Eintrag(tophus, n, [tophi], "eine Ablagerung von Uraten im Gewebe um ein Gelenk").
+entry(topi, n, [topis], "ein Sonnenhelm").
+entry(topiar, n, [topiaries], "die Kunst, Sträucher in Formen zu schneiden").
+Eintrag(Thema, n, [Themen], "ein Gesprächsthema").
+Eintrag(thematisch, n, [thematische], "eine Briefmarke in einer Sammlung mit Design, die sich auf dasselbe Thema beziehen").
+entry(toping, präsens, [], "Partizip von tope").
+entry(topkick, n, [topkick], "ein Oberfeldwebel").
+entry(topknot, n, [Haarknoten], "ein Schmuckstück für das Haar").
+entry(oben_offen, adj, [], "kein Oberteil habend").
+Eintrag(obere_Linie, n, [obere_Linien], "die Umrisslinie des oberen Teils des Körpers eines Tieres").
+entry(toplofty, adj, [], "HOCHMÜTIGER HOCHMÜTIGSTEschnippisch").
+entry(toppmast, n, [toppmasten], "ein Mast eines Schiffes").
+Eintrag(topmost, adj, [], "höchste").
+Eintrag(topnotch, adj, [], "ausgezeichnet").
+entry(topo, adj, [], "topographisch").
+Eintrag(topoi, pl, [], "von topos").
+Eintrag(topologie, n, [topologien], "ein Zweig der Mathematik").
+Eintrag(toponym, n, [Ortsnamen], "der Name eines Ortes").
+Eintrag(toponymie, n, [toponymien], "das Studium der Toponyme").
+Eintrag(topos, n, [topoi], "ein rhetorisches Standardthema").
+Eintrag(topotypus, n, [topotypen], "ein Exemplar, das aus einem für eine Art typischen Ort ausgewählt wurde").
+eintrag(getoppt, vergangenheit, [], "zeitform von top").
+entry(topper, n, [Belag], "einer, der bedeckt").
+entry(belag, n, [beläge], "etwas, das eine Spitze bildet").
+entry(umstürzen, v, [umgestürzt,umstürzend,umstürzt], "nach vorne fallen").
+entry(topsail, n, [topsails], "ein Segel eines Schiffes").
+entry(topside, n, [oberschiff], "der obere Teil eines Schiffes").
+entry(topsider, n, [topsiders], "jemand, der auf der höchsten Autoritätsebene steht").
+entry(oberboden, v, [oberbodenentfernt,oberbodenabtragend,oberboeden], "die oberste Bodenschicht entfernen").
+Eintrag(topspin, n, [topspins], "ein Vorwärtsspin, der einem Ball verliehen wird").
+Eintrag(topstone, n, [topstones], "der Stein an der Spitze einer Struktur").
+entry(topwater, adj, [], "schwimmend auf oder nahe der Wasseroberfläche").
+Eintrag(topwork, v, [topworked,topworking,topworks], "die Reiser einer anderen Pflanzensorte auf die Hauptäste zu pfropfen").
+entry(toque, n, [Toques], "eine eng anliegende Damenmütze").
+Eintrag(toquet, n, [toquets], "toque").
+entry(toquilla, n, [toquillas], "eine palmenartige Pflanze Südamerikas").
+Eintrag(tor, n, [tore], "ein hoher zerklüfteter Hügel").
+entry(tora, n, [toras], "Tora").
+entry(torah, n, [torahs], "oder TOROTH oder TOROTein Gesetz oder Gebot").
+Eintrag(torc, n, [torcs], "ein Metallhalsband oder Halskette").
+entry(fackel, v, [fackelte,fackeln,fackeln], "anzünden").
+entry(fackel, n, [fackeln], "eine Art von elektrischer Lampe").
+entry(torchier, n, [Fackelträger], "Fackelleuchter").
+Eintrag(Fackelbeleuchtet, Adj, [], "beleuchtet durch Fackeln mit einem brennenden Ende").
+Eintrag(torchon, n, [torchons], "eine grobe Spitze").
+entry(torchy, adj, [], "CHARAKTERISTISCH FÜR EIN TORCH-LIED").
+entry(torus, n, [tori], "ein Torus").
+entry(matador, n, [matadore], "ein Stierkämpfer").
+entry(matador, n, [matadores], "ein Stierkämpfer").
+Eintrag(toreutic, adj, [], "sich auf eine Art der Metallarbeit beziehend").
+Eintrag(tori, pl, [], "von Torus").
+Eintrag(toric, n, [torics], "eine Linse, die zur Korrektur von Astigmatismus entwickelt wurde").
+entry(tories, pl, [], "von Tory").
+entry(torii, n, [torii], "das Tor eines japanischen Tempels").
+Eintrag(qual, v, [gequält, quälend, quält], "mit großem körperlichen oder geistigen Leiden heimsuchen").
+entry(zerrissen, vergangenheit, [], "Partizip von zerreißen").
+eintrag(tornado, n, [tornados], "oder TORNADOES ein heftiger Windsturm TORNADISCH adj").
+Eintrag(Schraube, n, [Schrauben], "ein blühender Strauch").
+Eintrag(toro, n, [toros], "ein Stier").
+Eintrag(toroid, n, [toroiden], "eine Art von geometrischer OberflächeTOROIDAL adj").
+entry(torose, adj, [], "zylindrisch und an Stellen geschwollen").
+Eintrag(torosität, n, [torositäten], "die Qualität oder der Zustand des Torose-Seins").
+entry(torot, a, [], "pl von Tora").
+entry(toroth, a, [], "Pl. von Tora").
+eintrag(torous, adj, [], "torose").
+entry(torpedo, v, [torpedierte,torpedierend,torpediert], "oder TORPEDOZum Beschädigen oder Versenken mit einem Unterwassergeschoss").
+Eintrag(torpefy, v, [torpefied,torpefying,torpefies], "träge machen").
+entry(träge, n, [trägheit], "ein Rennboot").
+Eintrag(träge, adv, [], "auf träge Weise").
+Eintrag(torpor, n, [torpors], "geistige oder körperliche Inaktivität").
+Eintrag(torquate, adj, [], "mit einem Halsband").
+Eintrag(drehmoment, v, [gedreht, drehend, drehmomente], "verursachen zu drehen").
+entry(torquer, n, [torquers], "einer, der dreht").
+Eintrag(torques, n, [torqueses], "ein Band aus Federn, Haaren oder Färbung um den Hals").
+entry(torquey, adj, [], "KRAFTVOLL KRAFTVOLLST, bietet Kraft zur Drehung").
+Eintrag(torr, n, [torrs], "eine Einheit des Drucks").
+entry(torrefizieren, v, [torrefiziert, torrefizierend, torrefiziert], "einer intensiven Hitzebehandlung unterziehen").
+Eintrag(torrent, n, [torrents], "ein reißender Wasserstrom").
+Eintrag(torrid, adj, [], "SEHR HEISS/TORRIDESTextrem heißTORRIDLY adv").
+Eintrag(torrify, v, [torrefiziert, torrefizierend, torrefiziert], "torrefizieren").
+Eintrag(torsade, n, [torsades], "ein gedrehte Schnur").
+entry(torse, n, [Torses], "ein Kranz aus verdrehten Seiden").
+entry(torsi, a, [], "Pl von Torso").
+entry(torsion, n, [Verdrehungen], "der Akt des Verdrehens").
+Eintrag(torsk, n, [Torsken], "ein Meeresnahrungsfisch").
+Eintrag(Torso, n, [Torsos], "oder TORSIder Rumpf des menschlichen Körpers").
+entry(tort, n, [torts], "ein zivilrechtliches Unrecht").
+entry(torta, n, [], "pl TORTASeine aufwendige Nachspeise").
+entry(torte, n, [torten], "oder TORTENein reichhaltiger Kuchen").
+entry(tortelli, npl, [], "Teigwarenstücke gefüllt mit Käse, Fleisch oder Gemüse").
+Eintrag(tortile, adj, [], "verdreht gewunden").
+Eintrag(tortilla, n, [tortillas], "ein runder flacher Kuchen aus ungesäuertem Maismehl").
+entry(tortious, adj, [], "rechtwidrig").
+entry(schildkröte, n, [schildkröten], "eine Ordnung von Reptilien, deren Körper von einem knöchernen Panzer umschlossen ist").
+Eintrag(tortoni, n, [tortonis], "eine Art von Eis").
+Eintrag(tortrix, n, [tortrixe], "oder TORTRICENein kleiner Falter").
+entry(tortuous, adj, [], "gekennzeichnet durch wiederholte Wendungen oder Biegungen").
+entry(folter, v, [gefoltert,folternd,foltert], "jemanden schwerem körperlichen Schmerz aussetzen").
+Eintrag(folterer, n, [folterer], "einer, der foltert").
+Eintrag(torula, n, [torulas], "oder TORULAE eine Art von Pilz").
+entry(torus, n, [Tori], "oder TORUSSE eine große konvexe Hohlkehle").
+Eintrag(tory, n, [tories], "ein politischer Konservativer").
+Eintrag(tosa, n, [tosas], "ein Hund einer Mastiff-Rasse").
+entry(tosh, n, [toshes], "Unsinn").
+Eintrag(werfen, v, [wirtf, werfend, wirft], "leicht werfen").
+entry(tosser, n, [Tosser], "jemand, der wirft").
+entry("Trunkenbold", n, ["Trunkenbolde"], "ein Betrunkener").
+entry(münzwurf, n, [münzwürfe], "eine gleichmäßige Wahl oder Chance").
+entry(tost, a, [], "Vergangenheitsform von werfen").
+entry(tostada, n, [tostadas], "eine in Fett ausgebackene Tortilla").
+Eintrag(tostado, n, [tostados], "tostada").
+entry(tostone, n, [tostones], "ein mexikanisches Gericht aus gebratenen Kochbananen").
+entry(tot, v, [totted,totting,tots], "summieren").
+Eintrag(totable, adj, [], "fähig getragen zu werden").
+Eintrag(gesamt, v, [summiert,summieren,summiert], "oder SUMMIERT SUMMIEREND SUMMIERTum den gesamten Betrag festzustellen").
+entry(totalisieren, v, [totalisiert,totalisierend,totalisiert], "summieren").
+entry(totalismus, n, [totalismen], "zentralisierte Kontrolle durch eine autokratische Autorität").
+entry(totalist, n, [Totalisten], "jemand, der dazu neigt, Dinge als einheitliches Ganzes zu betrachten").
+Eintrag(gesamt, n, [Gesamtheiten], "die Qualität oder der Zustand des Vollständigseins").
+entry(totalize, v, [totalisiert,totalisierend,totalisiert], "vervollständigen").
+Eintrag(totalled, a, [], "Vergangenheit von 'total'").
+Eintrag(aufsummierend, ein, [], "Partizip Präsens von Total").
+Eintrag(total, adv, [], "vollständig").
+Eintrag(tote, v, [toted, toting, totes], "mit der Hand tragentragbar adj").
+entry(totem, n, [Totems], "ein natürlicher Gegenstand, der als Emblem einer Familie oder eines Clans dientTOTEMISCH adj").
+Eintrag(totemismus, n, [totemismen], "ein System der Stammesaufteilung nach Totems").
+entry(totemist, n, [Totemisten], "ein Spezialist für Totemismus").
+entry(totemite, n, [totemiten], "ein Totemist").
+entry(toter, n, [Totenträger], "einer, der trägt").
+entry(tother, pron, [], "der andere").
+entry(tragen, präsens, [], "Partizip von tragen").
+entry(totted, vergangenheit, [], "zeitform von tot").
+entry(tottern, v, [totterte,totternd,tottert], "unsicher gehen").
+entry(totterer, n, [Taumler], "einer, der taumelt").
+entry(tottery, adj, [], "zitterig").
+Eintrag(totting, präsens, [], "Partizip von tot").
+entry(tukan, n, [tukane], "ein tropischer Vogel").
+entry(berühren, v, [berührte,berührend,berührt], "in Kontakt sein oder in Kontakt kommen mit").
+entry(touche, interj, [], "wird verwendet, um einen Treffer im Fechten anzuerkennen").
+entry(berührer, n, [berührer], "jemand, der berührt").
+Eintrag(touchpad, n, [Touchpads], "eine Tastatur, die auf Fingerbewegungen oder Druck empfindlich ist").
+entry(auffrischung, n, [auffrischungen], "ein Akt des Verfeinerns durch kleine Verbesserungen hinzuzufügen").
+Eintrag(touchy, adj, [], "TOUCHIER TOUCHIESTüberempfindlichTOUCHILY adv").
+entry(zäh, adj, [], "ZÄHER ZÄHESTstark und belastbar").
+entry(zäh, v, [zähte, zährend, zähst], "Härte ertragen").
+entry(verhärten, v, [verhärtet, verhärtend, verhärtet], "um hart zu machen").
+entry(zäher, n, [zähe], "eine zähe Person").
+entry(toughish, adj, [], "etwas hart").
+entry(hart, adv, [], "auf harte Weise").
+Eintrag(toughy, n, [toughies], "toughie").
+Eintrag(toupee, n, [toupees], "ein Haarersatz, der getragen wird, um eine kahle Stelle zu bedecken").
+Eintrag(toupie, n, [toupies], "ein runder, knochenloser geräucherter Schinken").
+entry(tour, v, [bereist, bereisend, bereist], "von Ort zu Ort reisen").
+entry(turako, n, [turakos], "ein afrikanischer Vogel").
+Eintrag(tourer, n, [tourers], "ein großes offenes Automobil").
+entry(touren, n, [tourens], "Langlauf zum Vergnügen").
+entry(tourismus, n, [tourismen], "die Praxis des Reisens zum Vergnügen").
+entry(tourist, n, [touristen], "jemand, der aus Vergnügen reistTOURISTISCH adj").
+Eintrag(tourista, n, [touristas], "turista").
+Eintrag(turnier, v, [turnierte, turnierend, turniere], "an einem Turnier teilnehmen").
+Eintrag(touse, v, [toused, tousing, touses], "zerzausen").
+entry(tousle, v, [zerrauft,zerraufend,zerrauft], "zerzausen").
+Eintrag(tout, v, [touted,touting,touts], "dreist anwerben").
+entry(touter, n, [Schlepper], "einer, der wirbt").
+Eintrag(touton, n, [toutons], "eine im Fett gebratene Runde Teig").
+entry(touzle, v, [touzled,touzling,touzles], "zerzausen").
+entry(tovarich, n, [tovariche], "Genosse").
+entry(tovarish, n, [tovarische], "tovarisch").
+entry(tow, v, [towed,towing,tows], "ziehen mittels eines Seils oder einer Kette, SCHLEPPBAR adj").
+entry(schleppgebühr, n, [schleppgebühren], "der Preis, der für das Abschleppen gezahlt wird").
+Eintrag(zu, präp, [], "in Richtung").
+entry(towardly, adj, [], "günstig").
+entry(gegen, praep, [], "gegen").
+entry(abschleppen, n, [abschleppungen], "der Akt des Abschleppens eines Fahrzeugs").
+Eintrag(Schlepper, n, [Schlepper], "ein Schlepper").
+entry(handtuch, v, [handtuchte, handtuchend, handtucht], "oder HANDTUCHTE HANDTUCHEND HANDTUCHerzuwischen mit einem Handtuch ein saugfähiges Tuch").
+entry(frottee, n, [frottees], "Material für Handtücher").
+Eintrag(turm, v, [turmte, erhebt sich, türme], "in großer Höhe aufragen").
+entry(towery, adj, [], "SEHR HOCH").
+Eintrag(wattekopf, n, [watteköpfe], "ein Kopf mit hellblondem Haar").
+entry(ammerkernbeißer, n, [ammerkernbeißer], "ein häufiger Fink").
+entry(towie, n, [towies], "eine Form von Kontrakt-Bridge für drei Spieler").
+entry(abschleppen, präsens, [], "Partizip von abschleppen").
+entry(Abschleppseil, n, [Abschleppseile], "ein Seil, das zum Abschleppen verwendet wird").
+entry(jahr, n, [jahre], "ein Jahr").
+entry(towmont, n, [towmonts], "Zugmond").
+entry(stadt, n, [städte], "ein Bevölkerungszentrum kleiner als eine Stadt").
+entry(stadtbewohner, n, [stadtbewohner], "ein Bürger der Stadt").
+entry(stadtbewohner, npl, [], "die Einwohner einer Stadt").
+Eintrag(Reihenhaus, n, [Reihenhäuser], "eines von mehreren zusammenhängenden Häusern mit zwei oder drei Stockwerken").
+Eintrag(townie, n, [townies], "eine nicht-studentische Person, die in einer Universitätsstadt lebt").
+entry(städter, pl, [], "von städter").
+Eingabe(städtisch, adj, [], "charakteristisch für eine Stadt").
+entry(townless, adj, [], "ohne Städte").
+eintrag(städtchen, n, [städtchen], "eine kleine Stadt").
+Eintrag(gemeinde, n, [gemeinden], "eine Verwaltungseinheit eines Landkreises").
+entry(stadtgelände, n, [stadtgelände], "der Standort einer Stadt").
+entry(stadtbewohner, n, [stadtbewohner], "ein Einwohner einer Stadt").
+entry(townward, adv, [], "in Richtung der Stadt").
+entry(stadtbekleidung, n, [stadtbekleidung], "Bekleidung, die für das Tragen in der Stadt geeignet ist").
+Eintrag(towny, n, [townies], "townie").
+entry(towpath, n, [Treidelpfade], "ein Pfad entlang eines Flusses, der von Tieren zum Schleppen von Booten benutzt wird").
+entry(schleppflugzeug, n, [schleppflugzeuge], "ein Flugzeug, das Segelflugzeuge schleppt").
+entry(schleppseil, n, [schleppseile], "ein Seil, das zum Schleppen verwendet wird").
+entry(towsack, n, [towsacks], "ein Sack aus grobem Gewebe").
+entry(towy, adj, [], "ähnlich wie grobe Hanf- oder Flachsfasern").
+Eintrag(toxaemie, n, [toxaemien], "toxämieTOXAEMISCH adj").
+entry(toxämie, n, [toxämien], "der Zustand, Giftstoffe im Blut zu habenTOXÄMISCH adj").
+Eintrag(giftig, n, [gifte], "eine giftige Substanz").
+Eintrag(toxical, adj, [], "toxisch").
+Eintrag(giftstoff, n, [giftstoffe], "eine giftige Substanz").
+entry(toxicity, n, [Toxizitäten], "die Eigenschaft, giftig zu sein").
+entry(giftstoff, n, [gifte], "eine giftige substanz").
+eintrag(toxin, n, [toxine], "Toxin").
+entry(toxoid, n, [Toxoide], "eine Art von Toxin").
+Eintrag(spielzeug, v, [spielte, spielend, spielzeuge], "sich amüsieren, als ob mit einem Spielzeug ein Kinderspielzeug").
+entry(toyer, n, [toyers], "jemand, der spielt").
+entry(toyish, adj, [], "leichtfertig").
+entry(spielzeugland, n, [spielzeugländer], "die Spielzeugindustrie").
+Eintrag(toyless, adj, [], "kein Spielzeug habend").
+Eintrag(spielzeugartig, adj, [], "spielzeugähnlich").
+Eintrag(toyo, n, [toyos], "ein glatter Strohhalm, der zur Herstellung von Hüten verwendet wird").
+Eintrag(toyon, n, [toyons], "ein dekorativer immergrüner Strauch").
+entry(spielzeugladen, n, [spielzeugläden], "ein Geschäft, in dem Spielzeug verkauft wird").
+entry(toytown, n, [toytowns], "eine kleine Modellstadt").
+entry(trabeate, adj, [], "mit horizontalen Balken konstruiert").
+entry(trace, v, [verfolgt,verfolgend,verfolgt], "dem Verlauf folgen").
+entry(tracer, n, [Tracers], "Einer, der nachverfolgt.").
+Eintrag(spitzewerk, n, [spitzewerke], "ornamentales Werk aus verschlungenen Linien").
+Eintrag(trachea, n, [tracheen], "oder TRACHEEN der Durchgang zur Luftleitung zu den Lungen TRACHEAL adj").
+entry(tracheide, n, [tracheiden], "eine lange röhrenförmige Pflanzenzelle").
+entry(trachle, v, [trachled,trachling,trachles], "schleppen").
+entry(trachom, n, [trachome], "eine Augenkrankheit").
+Eintrag(trachyt, n, [trachyte], "ein helles magmatisches Gestein").
+Eintrag(Verfolgung, n, [Verfolgungen], "etwas, das verfolgt wird").
+entry(track, v, [verfolgt,verfolgen,spuren], "den Spuren eines Tieres, einer Person oder eines Fahrzeugs folgen").
+entry(trackage, n, [Gleisanlagen], "das Gleissystem einer Eisenbahn").
+Eintrag(gleisbett, n, [gleisbette], "ein Straßenbett für eine Eisenbahn").
+Eintrag(tracker, n, [trackers], "einer der verfolgt").
+Eintrag(trackingsystem, n, [trackings], "die Platzierung von Studierenden innerhalb eines Curriculums").
+Eintrag(trackman, n, [trackmen], "ein Eisenbahnarbeiter").
+entry(trackpad, n, [Trackpads], "ein Touchpad").
+Eintrag(trackway, n, [Fußwege], "ein ausgetretener Pfad").
+entry(parzelle, n, [parzellen], "ein Stück Land").
+Eintrag(abhandlung, n, [abhandlungen], "eine Abhandlung").
+entry(tractile, adj, [], "fähig, in die Länge gezogen zu werden").
+Eintrag(Traktion, n, [Traktionen], "der Akt des Ziehens oder Schleppens über eine Oberfläche TRAKTIV adj").
+entry(traktor, n, [traktoren], "ein Kraftfahrzeug, das in der Landwirtschaft verwendet wird").
+entry(Traktrix, n, [Traktrizen], "eine mathematische Kurve").
+entry(trad, adj, [], "traditionell").
+Eintrag(handel, v, [gehandelt,handeln,handelt], "im Austausch für eine andere Ware gebenHANDELBARE adj").
+entry(abwägung, n, [abwägungen], "das Aufgeben von einer Sache im Austausch für eine andere").
+Eintrag(händler, n, [händler], "jemand der handelt").
+Eintrag(handel, n, [handels], "die Handlung des Warenaustauschs").
+entry(traditor, n, [traditores], "ein Verräter unter den frühen Christen").
+entry(übersetzen, v, [übersetzt,übersetzend,übersetzt], "diffamieren").
+entry(übersetzer, n, [übersetzer], "einer, der verunglimpft").
+entry(verkehr, v, [verkehrte, verkehre, verkehrt], "sich mit dem Kauf und Verkauf beschäftigen").
+entry(tragödie, n, [tragödien], "ein katastrophales ereignis").
+Eintrag(tragi, pl, [], "von Tragus").
+entry(tragisch, n, [Tragödien], "das Element eines Dramas, das Tragödie hervorruft").
+entry(tragical, adj, [], "von der Natur einer Tragödie").
+entry(tragopan, n, [tragopans], "ein asiatischer Fasan").
+eintrag(tragus, n, [tragi], "ein Teil der äußeren Öffnung des Ohres").
+entry(traik, v, [traikte,traikend,traiks], "schleppen").
+Eintrag(pfad, v, [geschleppt,schleppend,pfade], "über eine Oberfläche ziehen").
+entry(trailer, v, [trailered,trailering,trailers], "mittels eines Anhängers ein Fahrzeug zu transportieren, das von einem anderen gezogen wird").
+Eintrag(zug, v, [ausgebildet,ausbildung,zuege], "systematisch anleiten").
+Eintrag(trainee, n, [Auszubildende], "eine Person, die eine Ausbildung erhält").
+entry(trainer, n, [Trainer], "einer der trainiert").
+Eintrag(trainful, n, [trainfuls], "so viel wie ein Eisenbahnzug halten kann").
+entry(training, n, [schulungen], "systematische Anweisung").
+Eintrag(trainman, n, [trainmen], "ein Eisenbahnmitarbeiter").
+Eintrag(Schienennetz, n, [Schienennetze], "eine Eisenbahn").
+entry(herumschlendern, v, [herumgeschlendert,herumschlendernd,herumschlendert], "in einer müßigen oder ziellosen Weise umherzugehen").
+entry(eigenschaft, n, [eigenschaften], "ein unterscheidendes Merkmal").
+entry(verräter, n, [verräter], "jemand, der einen anderen verrät").
+entry(traject, v, [trajectiert, trajectierend, trajectiert], "übertragen").
+entry(Straßenbahn, v, [straßenbahnte, straßenbahnend, straßenbahnen], "mit einer Straßenbahn befördern").
+Eintrag(Straßenbahn, n, [Straßenbahnen], "eine Straßenbahn").
+entry(tramel, v, [tramelte,tramelnd,tramelt], "oder TRAMELLTE TRAMELLING TRAMELS zu hemmen").
+eintrag(tramell, v, [tramelled, tramelling, tramells], "verfangen").
+entry(tramlos, adj, [], "keinen Straßenbahnwagen haben").
+Eintrag(tramlinie, n, [strassenbahnlinien], "eine Straßenbahnlinie").
+entry(getrammt, vergangenheit, [], "Vergangenheit von tram").
+Eintrag(trammel, v, [trammeled, tramdeling, trammels], "oder TRAMMELLED TRAMMELLING TRAMMELShindern").
+Eintrag(tramming, praesens, [], "Partizip von Tram").
+Eintrag(trampeln, v, [trampelte, trampelnd, trampelt], "mit festen schweren Schritten gehen").
+entry(tramper, n, [Tramper], "einer, der trampelt").
+entry(trampish, adj, [], "einem Vagabunden ähnlich").
+entry(trample, v, [trampled,trampling,tramples], "schwer darauf zu treten").
+entry(trampler, n, [Trampler], "einer, der zertrampelt").
+entry(trampy, adj, [], "TRAMPIER TRAMPIESTmit den Merkmalen eines Landstreichers").
+entry(tramroad, n, [tramroads], "eine Eisenbahn in einer Mine").
+entry(straßenbahn, n, [straßenbahnen], "eine Straßenbahnlinie").
+entry(trance, v, [tranced,trancing,trances], "in einen Trancezustand versetzen, einen halbbewussten Zustand").
+Eintrag(tranche, n, [tranchen], "ein Teil").
+entry(trangam, n, [trangams], "ein Schnickschnack").
+entry(trank, v, [trankte,trankend,tranks], "beruhigen").
+entry(trannie, n, [trannies], "Transe").
+Eintrag(Getriebe, N, [Getriebe], "eine Übertragung").
+entry(tranq, n, [tranqs], "trank").
+entry(ruhig, adj, [], "RUHIGER RUHIGSTE oder RUHIGER RUHIGSTEfrei von Störung").
+Eintrag(trans, adj, [], "gekennzeichnet durch die Anordnung unterschiedlicher Atome auf gegenüberliegenden Seiten des Moleküls").
+entry(transact, v, [transacted,transacting,transacts], "durchführen").
+entry(transekt, v, [transektierte,transektierend,transektiert], "durchschneiden").
+entry(querhaus, n, [querhäuser], "ein Hauptquerteil des Körpers einer Kirche").
+entry(transfer, v, [übertragen,übertragend,überträgt], "von einer Quelle zu einer anderen übertragen").
+entry(transfix, v, [transfixt, transfixing, transfixes], "durchbohren").
+entry(umladen, v, [umgeladen,umladend,umlädt], "von einem Transportmittel auf ein anderes übertragen").
+entry(transit, v, [transitierte,transitierend,transitiert], "durchfahren oder durchqueren").
+entry(übertragen, v, [übertragen,übertragend,überträgt], "von einem Ort oder einer Person zu einer anderen senden").
+entry(sturz, n, [sturze], "ein kleines Fenster über einer Tür oder einem anderen Fenster").
+Eintrag(transude, v, [transudierte, transudierend, transudiert], "durch eine Membran hindurchgehen").
+entry(falle, v, [fing, fangen, fallen], "in einer Falle zu fangen, ein Gerät zum Fangen und Halten von Tieren").
+Eintrag(trapan, v, [trapanned, trapanning, trapans], "to trephine").
+entry(trapball, n, [Fallenbälle], "eine Art Ballspiel").
+Eintrag(Luke, n, [Luken], "eine Hebe- oder Schiebetür, die eine Öffnung abdeckt").
+entry(trapes, v, [trapesed,trapesing,trapeses], "herumschlendern").
+entry(trapez, n, [trapeze], "ein Turngerät").
+entry(trapezia, npl, [], "Vierecke ohne parallele Seiten").
+entry(trapezii, npl, [], "dreieckige Rückenmuskeln").
+entry(fallenartig, adj, [], "einer Falle ähnlich").
+Eintrag(fanglinie, n, [fanglinien], "eine Reihe von Fallen").
+Eintrag(trapnest, v, [trapnested, trapnesting, trapnests], "um die Produktivität von Hennen mit einem bestimmten Nesttyp zu bestimmen").
+entry(trappean, adj, [], "trappartig").
+Eintrag(gefangen, a, [], "Vergangenheit von 'fang'").
+entry(fallensteller, n, [fallenstellers], "einer, der fängt").
+entry(trapping, n, [trappings], "eine Decke für ein Pferd").
+entry(trappose, adj, [], "trappisch").
+entry(trappous, adj, [], "trappisch").
+entry(traprock, n, [traprocks], "ein vulkanisches Gestein").
+Eintrag(trapt, a, [], "Vergangenheit von fangen").
+entry(trapunto, n, [trapuntos], "ein dekoratives Steppmuster").
+Eintrag(müll, v, [weggeworfen,wegräumend,wegwirft], "von wertlosen oder abfallenden Stoffen befreien").
+entry(trasher, n, [Zerstörer], "einer, der zerstört oder beschädigt").
+Eintrag(müllmann, n, [müllmänner], "eine person die müll entfernt").
+Eintrag(trashy, adj, [], "TRASHIER TRASHIESTmüllähnlichTRASHILY adv").
+entry(trass, n, [Trasse], "ein vulkanisches Gestein").
+entry(trauchle, v, [trauchled,trauchling,trauchles], "trachlen").
+Eintrag(trauma, n, [traumata], "oder TRAUMASEin schwerer emotionaler Schock").
+entry(arbeiten, v, [arbeitete,arbeitend,arbeitet], "arbeiten").
+entry(trave, n, [traves], "ein Gestell zur Begrenzung eines Pferdes").
+entry(reisen, v, [gereist,reisen,reist], "oder GEREIST REISEN REIStvon einem Ort zu einem anderen gehen").
+entry(reisender, n, [reisende], "einer, der reist").
+Eintrag(reisebericht, n, [reiseberichte], "ein Vortrag oder Film über das Reisen").
+entry(durchqueren, v, [durchquert,durchquerend,durchquert], "durchqueren").
+entry(parodie, v, [parodierte, parodierend, parodiert], "parodieren").
+Eintrag(travois, n, [travoises], "eine Art von Schlitten").
+Eintrag(travoise, n, [travoises], "travois").
+entry(trawl, v, [trawled,trawling,trawls], "fischen durch Ziehen eines Netzes entlang des Meeresbodens").
+entry("Fischtrawler", n, ["Fischtrawler"], "ein Boot, das zum Schleppnetzfischen verwendet wird").
+Eintrag(trawley, n, [trawleys], "ein kleiner Lastwagen oder Wagen zum Transport von Material").
+entry(schleppnetz, n, [schleppnetze], "das große Netz, das beim Schleppfischen verwendet wird").
+Eintrag(tablett, n, [tabletts], "ein flaches, flaches Gefäß").
+Eintrag(trayf, adj, [], "nicht gemäß jüdischem Gesetz zubereitet").
+Eintrag(tablettvoll, n, [tablettvolle], "so viel wie ein Tablett fasst").
+entry(treacle, n, [treacles], "Melasse").
+entry(treacly, adj, [], "KLEBRIGER KLEBRIGSTklischeehaft süß und sentimental").
+entry(tread, v, [treaded,trodden,treading], "TREADS gehen auf oder entlang").
+Eintrag(treader, n, [treaders], "einer, der tritt").
+Eintrag(tretkurbel, v, [getreten, tretend, tritt], "einen Fußhebel betätigen").
+Eintrag(tretradler, n, [tretradler], "einer, der auf einem Pedal steht").
+Eintrag(hochverrat, n, [hochverrate], "Verletzung der Treue gegenüber dem eigenen Land").
+Eintrag(schatz, v, [geschätzt,schätzend,schätze], "hoch schätzen").
+Eintrag(schatzamt, n, [schatzämter], "ein Ort, an dem Gelder empfangen, aufbewahrt und ausgezahlt werden").
+entry(behandele, v, [behandelt,behandelnd,behandelt], "auf eine bestimmte Weise gegenüber verhalten").
+Eintrag(behandler, n, [behandler], "einer, der behandelt").
+entry(behandeln, n, [behandlungen], "der Akt, jemanden mit etwas Angenehmem zu versorgen").
+Eintrag(abhandlung, n, [abhandlungen], "ein formaler und systematischer schriftlicher Bericht über ein Thema").
+Eintrag(abkommen, n, [abkommen], "eine formelle Vereinbarung zwischen zwei oder mehr Nationen").
+Eintrag(treble, v, [trebled, trebling, trebles], "verdreifachen").
+Eintrag(dreifach, adv, [], "dreifach").
+entry(trecento, n, [trecentos], "das vierzehnte Jahrhundert").
+Eintrag(treddle, v, [getreddlet, treddling, treddles], "treten").
+eintrag(baum, v, [baumte,baumend,baeume], "einen hohen holzigen pflanzenbaum hinauftreiben").
+entry(baumstreifen, n, [baumstreifen], "der Streifen Rasen zwischen der Straße und dem Gehweg").
+entry(baumlos, adj, [], "ohne Baum").
+entry(baumartig, adj, [], "einem Baum ähnlich").
+entry(Baumgrenze, n, [Baumgrenzen], "die nördliche Grenze, über die hinaus keine Bäume wachsen").
+entry(treen, n, [treens], "ein Artikel aus Holz").
+entry(treennagel, n, [treennägel], "ein hölzerner Dübel zum Befestigen von Hölzern").
+entry(baumkrone, n, [baumkronen], "die Spitze eines Baumes").
+entry(tref, adj, [], "ungeeignet gemäß jüdischem Gesetz").
+entry(trefah, adj, [], "tref").
+Eintrag(klee, n, [kleeblätter], "eine Pflanze mit dreiteiligen Blättern").
+entry(trehala, n, [trehalas], "eine süße essbare Substanz, die den Puppenbehälter bestimmter Rüsselkäfer bildet").
+entry(trek, v, [getrabt, trabend, trabt], "eine langsame oder anstrengende Reise machen").
+entry(trekker, n, [Trekkers], "einer, der wandert").
+Eintrag(spalier, v, [verspaliert, verspalierend, Spaliere], "mit einem Spalier versehen, einem Rahmen, der als Stütze für Kletterpflanzen verwendet wird").
+entry(trem, n, [trems], "ein elektrischer Gitarrenhebel zur Erzeugung eines Tremolos").
+entry(zittern, v, [zitterte, zitternd, zittert], "unwillkürlich zu schütteln").
+Eintrag(zittern, n, [zitternde], "einer, der zittert").
+entry(erbeben, n, [erbeben], "ein Erdbeben").
+entry(zitternd, adj, [], "ZITTERNDER ZITTERNDSTgekennzeichnet durch Zittern").
+entry(tremolo, n, [Tremolos], "Ein vibrierender musikalischer Effekt").
+Eintrag(tremor, v, [zitterte, zitternd, Zittern], "ein Zittern oder Beben erleben").
+Eintrag(Treennagel, n, [Treennagel], "Treennagel").
+entry(graben, v, [gegraben, grabend, gräbt], "eine lange schmale Ausgrabung im Boden graben").
+entry(trencher, n, [tranchierbrett], "ein hölzernes Brett zum Servieren von Speisen").
+Eintrag(trend, v, [getrendet, im_Trends, Trends], "einen bestimmten Kurs einschlagen").
+Eintrag(trendify, v, [trendified,trendifying,trendifies], "etwas modisch machen").
+entry(trendoid, n, [trendoids], "eine trendige Person").
+Eintrag(trendy, adj, [], "TRENDIGER TRENDIGSTsehr modischTRENDIG adv").
+entry(trendige, n, [trendige], "eine trendige Person").
+Eintrag(trepane, v, [trepanierte,trepanierend,trepaniert], "schädelöffnen").
+entry(seewalze, n, [seewalzen], "ein Meerestier").
+Eintrag(trepanieren, v, [trepanierte, trepanierend, trepaniert], "mit einer chirurgischen Säge operieren").
+entry(trepid, adj, [], "furchtsam").
+entry(hausfriedensbruch, v, [eingedrungen, eindringen, eindringt], "unbefugt auf das Land eines anderen zu betreten").
+entry(tress, v, [tressed,tressing,tresses], "das Haar in langen Strähnen anordnen").
+entry(bock, n, [böcke], "trestle").
+entry(tressour, n, [tressours], "Schatz").
+eintrag(schatz, n, [schätze], "eine Art von heraldischem Design").
+Eintrag(tressy, adj, [], "TRESSIER TRESSIESTreich an Haaren").
+entry(brückengerüst, n, [brückengerüste], "ein Rahmenwerk zur Unterstützung einer Brücke").
+entry(tret, n, [Trets], "ein früher an Käufer gezahlter Zuschuss für Transitabfälle").
+Eintrag(trevally, n, [trevallies], "oder TREVALLYS, ein australischer Speisefisch").
+Eintrag(trevet, n, [trevets], "dreifuß").
+Eintrag(trews, npl, [], "eng anliegende karierte Hosen").
+entry(trey, n, [treys], "eine Drei bei Karten, Würfeln oder Dominosteinen").
+entry(treyf, adj, [], "trayf").
+entry(treyfa, adj, [], "treyf").
+entry(verhandelbar, adj, [], "einer gerichtlichen Prüfung unterworfen").
+Eintrag(triac, n, [triacs], "ein elektronisches Gerät zur Leistungssteuerung").
+Eintrag(triacid, n, [triacide], "eine Art von Säure").
+entry(triactor, n, [triactors], "eine Dreierwette").
+entry(trias, n, [trias], "eine Gruppe von drei").
+entry(triadisch, n, [triadische], "ein Mitglied eines Trios").
+entry(triadism, n, [triadisms], "die Eigenschaft oder der Zustand, ein Trias zu sein").
+entry(triage, v, [triagiert,triagierend,triagiert], "ein System zur Behandlung von Katastrophenopfern praktizieren").
+Eintrag(Versuch, v, [versuchte, versuchend, Versuche], "oder VERSUCHTE VERSUCHEND VERSUCHEtestet etwas, um seine Leistung zu bewerten").
+Eintrag(versuchsperson, n, [versuchspersonen], "eine Person, die an einem Test von etwas teilnimmt").
+entry(dreieck, n, [dreiecke], "ein Polygon mit drei Seiten").
+entry(triarchie, n, [triarchien], "Regierung durch drei Personen").
+Eintrag(triaxial, adj, [], "mit drei Achsen").
+entry(triazin, n, [Triazine], "Triazin").
+Entry(triazin, n, [triazin], "eine chemische Verbindung").
+Eintrag(triazol, n, [triazole], "eine chemische Verbindung").
+Eintrag(tribade, n, [tribades], "eine lesbischeTRIBADISCH adj").
+Eintrag(stammes, n, [stämme], "ein Mitglied eines eingeborenen Volkes Indiens").
+entry(stammesmäßig, adv, [], "in einer für einen Stamm typischen Weise").
+entry(tribasisch, adj, [], "drei ersetzbare Wasserstoffatome habend").
+Eintrag(stamm, n, [stämme], "eine Gruppe von Menschen, die eine gemeinsame Abstammung und Kultur teilen").
+Eintrag(tribrach, n, [tribrachen], "eine Art metrischer Fuß").
+entry(gerichtshof, n, [gerichtshöfe], "ein Gericht der Justiz").
+entry(tribün, n, [tribünen], "ein Verteidiger der Rechte des Volkes").
+entry(ehrung, n, [ehrungen], "etwas, das gegeben wird, um Respekt, Dankbarkeit oder Bewunderung zu zeigen").
+Eintrag(trice, v, [triced, tricing, trices], "mit einem Seil hochziehen").
+entry(trizeps, n, [trizeps], "ein Trizeps").
+entry(trizeps, n, [trizepse], "ein Armmuskel").
+eintrag(trichine, n, [trichinen], "oder TRICHINAE, ein parasitärer Wurm").
+entry(trichite, n, [trichite], "ein winziges Mineral in vulkanischen Gesteinen").
+entry(trichoid, adj, [], "haarähnlich").
+entry(Trichom, n, [Trichome], "ein haarähnlicher Auswuchs").
+Eintrag(tricing, praesens, [], "Partizip von trice").
+entry(tricity, n, [Dreistädte], "ein Gebiet, das drei benachbarte unabhängige Städte umfasst").
+entry(trick, v, [tricked,tricking,tricks], "täuschen").
+entry(tricker, n, [trickers], "jemand, der trickst").
+entry(trug, n, [truge], "täuschung").
+entry(trickie, adj, [], "TRICKIER TRICKIESTknifflig").
+entry(trickier, komparativ, [], "von tricky").
+Eintrag(trickiest, superlative, [], "von knifflig").
+entry(trickreich, adv, [], "auf trickreiche Weise").
+entry(trickreich, adj, [], "tricky").
+entry(tröpfeln, v, [tröpfelte, tröpfelnd, tröpfelt], "in Tropfen fließen oder fallen").
+Eintrag(trickly, adj, [], "TRICKLIER TRICKLIEST gekennzeichnet durch Rinnen").
+entry(tricksy, adj, [], "TRICKSER TRICKSAMSTEschelmisch").
+entry(tricky, adj, [], "TRICKIER TRICKIESTcharakterisiert durch Täuschung").
+entry(Strudelwurm, n, [Strudelwürmer], "ein aquatischer Plattwurm").
+entry(trikolore, n, [trikoloren], "eine Flagge mit drei Farben").
+entry(dreispitz, n, [dreispitze], "ein Hut mit der Krempe an drei Seiten hochgeklappt").
+entry(dreispitz, n, [dreispitze], "Dreispitz").
+entry(trikot, n, [trikots], "ein gestricktes Gewebe").
+entry(trictrac, n, [trictracs], "eine Form von Backgammon").
+```prolog
+eintrag(dreirad, v, [dreiräderte,dreiradfahren,dreirädern], "Einen Fahrzeug mit drei Rädern reiten")
+```
+Eintrag(uakari, n, [uakaris], "ein südamerikanischer Affe").
+Eintrag(nachfolgend, ist, [], "eine Liste selbsterklärender Adjektive und Adverbien, die das Präfix UN enthalten nichtUNABATED adjUNABLE adjUNABUSED adjUNACIDIC adjUNACTED adjUNADDED adjUNADEPT adjUNADULT adjUNAFRAID adjUNAGED adjUNAGEING adjUNAGILE adjUNAGING adjUNAGREED adjUNAIDED adjUNAIMED adjUNAIRED adjUNAKIN adjUNALIKE adjUNALLIED adjUNAMAZED adjUNAMUSED adjUNAPT adjUNAPTLY advUNARCHED adjUNARGUED adjUNARTFUL adjUNASKED adjUNATONED adjUNAVOWED adjUNAWAKE adjUNAWAKED adjUNAWARE adjUNAWED adjUNAXED adjUNBACKED adjUNBAKED adjUNBANDED adjUNBANNED adjUNBARBED adjUNBASED adjUNBASTED adjUNBATHED adjUNBEATEN adjUNBENIGN adjUNBIASED adjUNBILLED adjUNBITTED adjUNBITTEN adjUNBITTER adjUNBLAMED adjUNBLEST adjUNBLOODY adjUNBOBBED adjUNBOILED adjUNBONDED adjUNBONED adjUNBOOTED adjUNBORN adjUNBOUGHT adjUNBOUNCY adjUNBOWED adjUNBOWING adjUNBRED adjUNBRIGHT adjUNBROKE adjUNBROKEN adjUNBULKY adjUNBURNED adjUNBURNT adjUNBUSTED adjUNBUSY adjUNCALLED adjUNCANDID adjUNCANNED adjUNCARDED adjUNCARING adjUNCARTED adjUNCARVED adjUNCASHED adjUNCASKED adjUNCAST adjUNCATCHY adjUNCAUGHT adjUNCAUSED adjUNCEDED adjUNCHARY adjUNCHASTE adj UNCHASTER UNCHASTESTUNCHEWED adjUNCHIC adjUNCHICLY advUNCHOSEN adjUNCIVIL adjUNCLASSY adjUNCLAWED adjUNCLEAN adj UNCLEANER UNCLEANESTUNCLEAR adj UNCLEARER UNCLEARESTUNCLEFT adjUNCLOUDY adjUNCLOYED adjUNCOATED adjUNCODED adjUNCOINED adjUNCOMBED adjUNCOMELY adjUNCOMIC adjUNCOMMON adj UNCOMMONER UNCOMMONESTUNCOOKED adjUNCOOL adjUNCOOLED adjUNCOUTH adjUNCOY adjUNCRAZY adjUNCREWED adjUNCUFFED adjUNCURED adjUNCURSED adjUNCUT adjUNCUTE adjUNDAMPED adjUNDARING adjUNDATED adjUNDECKED adjUNDENIED adjUNDENTED adjUNDEVOUT adjUNDIMMED adjUNDOABLE adjUNDOCILE adjUNDOTTED adjUNDREAMT adjUNDRIED adjUNDUBBED adjUNDULLED adjUNDYED adjUNEAGER adjUNEARNED adjUNEATEN adjUNEDIBLE adjUNEDITED adjUNENDED adjUNENDING adjUNENVIED adjUNERASED adjUNEROTIC adjUNERRING adjUNEVADED adjUNEVEN adj UNEVENER UNEVENESTUNEVENLY advUNEXOTIC adjUNEXPERT adjUNFADED adjUNFADING adjUNFAIR adj UNFAIRER UNFAIRESTUNFAIRLY advUNFAKED adjUNFALLEN adjUNFAMOUS adjUNFANCY adjUNFAZED adjUNFEARED adjUNFED adjUNFELT adjUNFELTED adjUNFILIAL adjUNFILLED adjUNFILMED adjUNFIRED adjUNFISHED adjUNFLASHY adjUNFLAWED adjUNFLEXED adjUNFLUTED adjUNFOILED adjUNFOND adjUNFORCED adjUNFORGED adjUNFORKED adjUNFORMED adjUNFOUGHT adjUNFOUND adjUNFRAMED adjUNFUNDED adjUNFUNNY adj UNFUNNIER UNFUNNIESTUNFUSED adjUNFUSSY adj UNFUSSIER UNFUSSIESTUNGALLED adjUNGARBED adjUNGATED adjUNGAZING adjUNGELDED adjUNGENIAL adjUNGENTLE adjUNGENTLY advUNGIFTED adjUNGIVING adjUNGLAZED adjUNGOWNED adjUNGRACED adjUNGRADED adjUNGREEDY adjUNGROUND adjUNGUIDED adjUNHAILED adjUNHALVED adjUNHAPPY adj UNHAPPIER UNHAPPIESTUNHARMED adjUNHASTY adjUNHEALED adjUNHEARD adjUNHEATED adjUNHEDGED adjUNHEEDED adjUNHELPED adjUNHEROIC adjUNHEWN adjUNHIP adj UNHIPPER UNHIPPESTUNHIRED adjUNHOLILY advUNHOLY adj UNHOLIER UNHOLIESTUNHUMAN adjUNHUNG adjUNHURT adjUNIDEAL adjUNIMBUED adjUNIRONED adjUNIRONIC adjUNISSUED adjUNJADED adjUNJOINED adjUNJOYFUL adjUNJUDGED adjUNJUST adjUNJUSTLY advUNKEELED adjUNKEPT adjUNKIND adj UNKINDER UNKINDESTUNKINDLY adv UNKINDLIER UNKINDLIESTUNKINGLY adjUNKISSED adjUNKOSHER adjUNLAWFUL adjUNLEASED adjUNLED adjUNLETHAL adjUNLETTED adjUNLEVIED adjUNLICKED adjUNLIKE adjUNLIKED adjUNLIKELY adj UNLIKELIER UNLIKELIESTUNLINED adjUNLISTED adjUNLIT adjUNLIVELY adjUNLOBED adjUNLOVED adjUNLOVELY adj UNLOVELIER UNLOVELIESTUNLOVING adjUNLUCKY adj UNLUCKIER UNLUCKIESTUNMACHO adjUNMAILED adjUNMANFUL adjUNMANLY adj UNMANLIER UNMANLIESTUNMAPPED adjUNMARKED adjUNMARRED adjUNMATED adjUNMATTED adjUNMEANT adjUNMELLOW adjUNMELTED adjUNMENDED adjUNMERRY adjUNMET adjUNMILLED adjUNMINED adjUNMODISH adjUNMOLTEN adjUNMOVED adjUNMOVING adjUNMOWN adjUNNAMED adjUNNEEDED adjUNNOISY adjUNNOTED adjUNOILED adjUNOPEN adjUNOPENED adjUNORNATE adjUNOWNED adjUNPADDED adjUNPAID adjUNPAIRED adjUNPARTED adjUNPAVED adjUNPAYING adjUNPEELED adjUNPITIED adjUNPITTED adjUNPLACED adjUNPLAYED adjUNPLIANT adjUNPLOWED adjUNPOETIC adjUNPOISED adjUNPOLITE adjUNPOLLED adjUNPOSED adjUNPOSTED adjUNPOTTED adjUNPRETTY adjUNPRICED adjUNPRIMED adjUNPRIZED adjUNPROBED adjUNPROVED adjUNPROVEN adjUNPRUNED adjUNPURE adjUNPURELY advUNPURGED adjUNQUIET adj UNQUIETER UNQUIETESTUNRAISED adjUNRAKED adjUNRANKED adjUNRATED adjUNRAZED adjUNREAD adjUNREADY adj UNREADIER UNREADIESTUNREAL adjUNREALLY advUNRENTED adjUNREPAID adjUNRESTED adjUNRHYMED adjUNRIBBED adjUNRIDDEN adjUNRIFLED adjUNRIMED adjUNRINSED adjUNRISEN adjUNROPED adjUNROUGH adjUNRULED adjUNRUSHED adjUNRUSTED adjUNSAFE adj UNSAFER UNSAFESTUNSAFELY advUNSALTED adjUNSATED adjUNSAVED adjUNSAVORY adjUNSAWED adjUNSAWN adjUNSCALED adjUNSEARED adjUNSEEDED adjUNSEEING adjUNSEEMLY adj UNSEEMLIER UNSEEMLIESTUNSEEN adjUNSEIZED adjUNSENT adjUNSERVED adjUNSEXUAL adjUNSEXY adj UNSEXIER UNSEXIESTUNSHADED adjUNSHAKEN adjUNSHAMED adjUNSHAPED adjUNSHAPEN adjUNSHARED adjUNSHARP adjUNSHAVED adjUNSHAVEN adjUNSHED adjUNSHOD adjUNSHORN adjUNSHOWY adjUNSHRUNK adjUNSHUT adjUNSIFTED adjUNSIGNED adjUNSILENT adjUNSINFUL adjUNSIZED adjUNSLAKED adjUNSLICED adjUNSLICK adjUNSMART adjUNSMOKED adjUNSOAKED adjUNSOBER adjUNSOCIAL adjUNSOILED adjUNSOLD adjUNSOLID adjUNSOLVED adjUNSORTED adjUNSOUGHT adjUNSOUND adj UNSOUNDER UNSOUNDESTUNSOURED adjUNSOWED adjUNSOWN adjUNSPENT adjUNSPILT adjUNSPLIT adjUNSPOILT adjUNSPRUNG adjUNSPUN adjUNSTABLE adj UNSTABLER UNSTABLESTUNSTABLY advUNSTEADY adj UNSTEADIER UNSTEADIESTUNSTONED adjUNSTUFFY adjUNSTUNG adjUNSUBTLE adjUNSUBTLY advUNSUITED adjUNSUNG adjUNSUNK adjUNSURE adjUNSURELY advUNSWAYED adjUNSWEPT adjUNTAGGED adjUNTAKEN adjUNTAME adjUNTAMED adjUNTANNED adjUNTAPPED adjUNTASTED adjUNTAXED adjUNTENDED adjUNTESTED adjUNTHAWED adjUNTIDILY advUNTIDY adj UNTIDIER UNTIDIESTUNTILLED adjUNTILTED adjUNTIMED adjUNTIMELY adj UNTIMELIER UNTIMELIESTUNTINGED adjUNTIPPED adjUNTIRED adjUNTIRING adjUNTITLED adjUNTOLD adjUNTORN adjUNTRACED adjUNTRENDY adjUNTRIED adjUNTRUE adj UNTRUER UNTRUESTUNTRULY advUNTRUSTY adjUNTUFTED adjUNTURNED adjUNUNITED adjUNURGED adjUNUSABLE adjUNUSED adjUNUSUAL adjUNVALUED adjUNVARIED adjUNVEINED adjUNVERSED adjUNVESTED adjUNVEXED adjUNVEXT adjUNVIABLE adjUNVOCAL adjUNWALLED adjUNWANING adjUNWANTED adjUNWARIER comparative of unwaryUNWARIEST superlative of unwaryUNWARILY advUNWARMED adjUNWARNED adjUNWARPED adjUNWARY adj UNWARIER UNWARIESTUNWASTED adjUNWAXED adjUNWEANED adjUNWEARY adjUNWED adjUNWEDDED adjUNWEEDED adjUNWELDED adjUNWELL adjUNWEPT adjUNWET adjUNWETTED adjUNWHITE adjUNWIELDY adj UNWIELDIER UNWIELDIESTUNWIFELY adjUNWILLED adjUNWISE adj UNWISER UNWISESTUNWISELY advUNWON adjUNWOODED adjUNWOOED adjUNWORKED adjUNWORN adjUNWORTHY adj UNWORTHIER UNWORTHIESTUNWRUNG adjUNYOUNG adjUNZONED adj").
+```prolog
+eintrag(staubsauger, n, [staubsauer], "ein StaubsaugerVAKANZ n pl VAKANZIENder Zustand oder die Eigenschaft des LeerstehensLEER adj unbesetztLEER advLERAUSZUG v AUSGEZOGEN AUSZIEHEND, AUSZIEHENleer machenURLAUB v URLAUBT URLAUBEND, URLAUBMacheneine bestimmte Zeit zur Erholung und EntspannungVAKZINA n pl VAKZINAKuhpockenIMPFSTOFF n pl IMPFSTOFFEeine Zubereitung zur Erzeugung von Immunität gegen eine bestimmte KrankheitIMPFSTOFF adjIMPFEMPFAeNGn pl IMPFEMPFAEeine die geimpft wurdeKUHPOCKEN n pl KUHPOCKENBemerkung a vakatMantRTA n pl VAKANTIA staubsaugtOTALMANGEL n pl TOTALMANeuum Kleine Version ; cle standSchleuse) \n\n.XMLDiff.nIMPFSTOFF immunisierenVANZZIDEN VANKANZIEGebundenAfforte von Leeren VANKANTIEK adj leeren VANKANTLE bei LERAUSZUG v Ausreichend LERAINGder Schluß bringenFERENZIELL echte RAUSZUGFIHRONIKum Einer Enthebung LERINEUREEESetLRAUAUSZUG n pl UrlaubsannEine Vakanz v AKANZandid Eine HaurOllorREROLORIS.").
+```
+Eintrag(waah, interj, [], "zum Ausdruck von Wehklagen verwendet").
+entry(wab, n, [wabs], "ein Netz").
+entry(wabble, v, [wabbled,wabbling,wabbles], "wackeln").
+entry(wabbler, n, [wabblers], "jemand, der wabbelt").
+Eintrag(wabbly, adj, [], "WABBLIER WABBLIESTwackelig").
+Eintrag(wack, adj, [], "WACKER WACKESTsehr schlecht").
+entry(wack, n, [wacks], "eine schräge Person").
+entry(wacke, n, [wackes], "eine Art basaltisches Gestein").
+entry(wacked, adj, [], "gewhackt").
+entry(wacko, n, [wackos], "oder WACKOES eine schräge Person").
+entry(wacky, adj, [], "SEHR UNVERRÜCKT WACKELIG adv").
+Eintrag(wad, v, [wadded,wadding,wads], "zu einem Kügelchen formen, eine kleine Masse aus weichem Material").
+entry(wadable, adj, [], "durchwatbar").
+entry(wadder, n, [wadders], "jemand, der ausstopft").
+entry(waddie, n, [waddies], "ein Cowboy").
+Eintrag(waddied, Vergangenheit, [], "Zeitform von waddy").
+Eintrag(waddies, präsens, [], "3. Person Singular von waddy").
+entry(unterlage, n, [unterlagen], "ein polster").
+entry(watscheln, v, [watschelte, watschelnd, watschelt], "mit kurzen schwankenden Schritten gehen").
+entry(watsler, n, [watsler], "einer, der watschelt").
+Eintrag(waddly, adj, [], "einen watschelnden Gang haben oder watschelnd sein").
+entry(waddy, v, [waddied,waddying,waddies], "mit einem dicken Knüppel schlagen").
+entry(wade, v, [watete, watend, watet], "durch Wasser gehen").
+entry(wadeable, adj, [], "durchwatbar").
+entry(wader, n, [Watvögel], "einer, der watet").
+Eintrag(wadi, n, [wadis], "das Bett eines normalerweise trockenen Wasserlaufs").
+Eintrag(wadies, pl, [], "von Wadi").
+entry(wading, präsens, [], "Partizip von wade").
+entry(wadmaal, n, [wadmaals], "Vadmal").
+entry(wadmal, n, [wadmals], "ein dicker Wollstoff").
+entry(wadmel, n, [wadmels], "Wadmal").
+entry(wadmol, n, [wadmols], "Wadmal").
+entry(wadmoll, n, [wadmolls], "wadmal").
+entry(wadset, v, [wadset, wadsetting, wadsets], "verpfänden").
+entry(wady, n, [Wadis], "Wadi").
+entry(wehe, n, [weh], "Leid").
+Eintrag(waeful, adj, [], "kläglich").
+entry(waeness, n, [waenesses], "Wehmut").
+eintrag(waesuck, interj, [], "waesucks").
+entry(waesucks, interj, [], "gebraucht, um Mitleid auszudrücken").
+entry(wafer, v, [wafered,wafering,wafers], "mit einer Klebescheibe versiegeln").
+entry(wafery, adj, [], "ähnelt einer Waffel, einem dünnen knusprigen Keks").
+entry(waff, v, [gewufft, wuffend, wufft], "winken").
+entry(waffie, n, [waffies], "ein Vagabund").
+entry(waffel, v, [waffelte,waffelnd,waffeln], "vage oder unentschlossen sprechen").
+entry(waffler, n, [Waffler], "jemand, der schwafelt").
+entry(schwafeln, n, [schwafeleien], "eine unentschlossene Aussage oder Position").
+Eintrag(waffly, adj, [], "WAFFLIER WAFFLIESTunentschlossen").
+entry(wehen, v, [wehte,wehende,wehen], "leicht über Luft oder Wasser tragen").
+entry(wehen, n, [wehungen], "der Akt des Wehens").
+Eintrag(wafter, n, [wafters], "einer, der weht").
+entry(wehen, n, [wehungen], "Wehplastik").
+Eintrag(wag, v, [wagged, wagging, wags], "sich lebhaft auf und ab oder hin und her bewegen").
+entry(lohn, v, [lohnt, lohnend, loehne], "sich engagieren oder fortführen").
+Eintrag(wageless, adj, [], "unbezahlt").
+Eintrag(wette, v, [gewettet, wettend, wetten], "auf ein unsicheres Ergebnis setzen").
+entry(wagerer, n, [Wettende], "einer, der wettet").
+entry(wetten, n, [wetten], "der Akt, etwas auf ein ungewisses Ergebnis zu setzen").
+Eintrag(wagged, vergangenheit, [], "Zeitform von wag").
+entry(wagger, n, [wagers], "einer, der wedelt").
+entry(spaßmacherei, n, [spaßmachereien], "spaßhaftes Verhalten").
+Eintrag(wagging, präsens, [], "Partizip von wag").
+Eintrag(spitzbübisch, adj, [], "spielerisch humorvoll").
+Eintrag(waggle, v, [waggled, waggling, waggles], "wackeln").
+Eintrag(waggly, adj, [], "WAGGLIER WAGGLIESTunsteady").
+entry(wagen, v, [gewagont, wagonsieren, wagen], "wagen").
+Eintrag(wagenknecht, n, [wagenknechte], "fuhrmann").
+Eintrag(waging, Präsens, [], "Partizip von wage").
+entry(Wagen, v, [gewagont, wagond, Wagen], "mit einem vierrädrigen, pferdegezogenen Fahrzeug transportieren").
+entry(wagonage, n, [wagonages], "Beförderung mit dem Wagen").
+entry(wagner, n, [wagner], "jemand, der einen Wagen fährt").
+entry(wagsome, adj, [], "spaßig").
+Eintrag(bachstelze, n, [bachstelzen], "ein Singvogel").
+entry(wahconda, n, [wahcondas], "wakanda").
+entry(wahine, n, [wahines], "eine hawaiianische Frau").
+Eintrag(wahoo, n, [wahoos], "ein blühender Strauch").
+entry(waif, v, [weggeworfen,wegwerfend,wegwerfen], "wegwerfen").
+entry(waifisch, adj, [], "waifhaft").
+entry(waifähnlich, adj, [], "ein Straßenkind ähnelnd").
+Eintrag(weinen, v, [weinte, weinend, weint], "ein langes klagendes Geschrei ausstoßen").
+entry(heuler, n, [heuler], "jemand, der heult").
+Eintrag(klagend, adj, [], "traurig").
+entry(klagend, adj, [], "klagvoll").
+entry(wain, n, [wains], "ein großer offener Wagen").
+entry(vertäfeln, v, [vertäfelte,vertäfelnd,vertäfelt], "oder VERTÄFELTE VERTÄFELND VERTÄFELTmit Holzverkleidung die Wände verkleiden").
+entry(wair, v, [waired,wairing,wairs], "ausgeben").
+entry(Taille, n, [Taille], "der Teil des Körpers zwischen den Rippen und den Hüften TAILLIERT adj").
+entry(waister, n, [waisters], "ein Seemann, der in der mittleren Sektion eines Schiffes stationiert ist").
+entry(taillieren, n, [taillierungen], "eine Art Schneidermaterial").
+Eintrag(warten, v, [wartete,wartend,wartet], "in Erwartung verbleiben").
+entry(kellner, v, [kellnerte,kellnernd,kellner], "als männliche Bedienung in einem Restaurant arbeiten").
+entry(waiting, n, [Wartende], "der Akt eines Wartenden").
+entry(warteliste, v, [wartend_gelistet,warteliste_aufnehmend,wartelisten], "auf eine Liste von wartenden Personen setzen").
+entry(kellnerin, v, [kellnerte, kellnernd, kellnert], "als weibliche Bedienung in einem Restaurant arbeiten").
+entry(waitron, n, [kellner, bedienung], "eine Bedienung in einem Restaurant").
+entry(verzichten, v, [verzichtete,verzichtend,verzichtet], "absichtlich aufgeben").
+entry(verzicht, n, [verzichte], "das Handeln, etwas zu verzichten").
+eintrag(wakame, n, [wakames], "ein brauner Seetang aus Asien").
+entry(wakanda, n, [wakandas], "eine übernatürliche Kraft in den Sioux-Glauben").
+entry(wecken, v, [weckte, geweckt, weckend], "WECKEN, jemanden aus dem Schlaf zu rütteln").
+Eintrag(wach, adj, [], "nicht schlafend oder fähig zu schlafen").
+entry(wakeless, adj, [], "ununterbrochen  verwendet für Schlaf").
+entry(wecken, v, [geweckt, weckend, weckt], "aufwachen").
+entry(wecker, n, [wecker], "einer, der weckt").
+Eintrag(erwachen, n, [erwachen], "die Handlung dessen, der erwacht").
+entry(waker, n, [Wächter], "einer, der weckt").
+entry(wakerife, adj, [], "wachsam").
+Eintrag(wakiki, n, [wakikis], "Muschelgeld der Südseeinseln").
+Eintrag(erwachen, n, [Erwachen], "der Zustand des Wachseins").
+entry(wale, v, [waled,waling,wales], "mit Striemen markieren").
+entry(waler, n, [walers], "ein in Australien gezüchtetes Reitpferd").
+entry(wali, n, [walis], "der Gouverneur einer Provinz in einem arabischen Land").
+Eintrag(walies, pl, [], "von waly").
+entry(gehen, v, [ging, gehend, geht], "zu Fuß voranschreitenGEHBAR adj").
+Eintrag(weggehen, n, [weggänge], "ein leichter Sieg").
+Eintrag(walker, n, [Wanderer], "jemand, der geht").
+entry(spazieren, interj, [], "benutzt, um einem Hund zu befehlen, sich auf einen Spaziergang vorzubereiten").
+eintrag(gehen, n, [gehend], "der Akt des Gehens").
+entry(streik, n, [streiks], "ein Streik von Arbeitern").
+entry(kampflos, n, [kampflos], "ein Spaziergang").
+Eintrag(walkup, n, [walkups], "ein Wohnhaus ohne Aufzug").
+entry(gehweg, n, [gehwege], "ein gang zum gehen").
+entry(walküre, n, [walküren], "walküre").
+Eintrag(wand, v, [ummauert,ummauernd,wände], "mit einer Wand eine aufrechte Struktur zu versehen, die ein Gebiet umzuschließen").
+Eintrag(walla, n, [wallas], "wallah").
+Eintrag(wallaby, n, [wallabies], "ein kleiner Känguru").
+entry(wallah, n, [wallahs], "eine Person, die in einer bestimmten Beschäftigung oder Tätigkeit tätig ist").
+entry(wallaroo, n, [wallaroos], "ein großer Känguru").
+entry(geldbörse, n, [geldbörsen], "ein flaches faltbares Etui").
+Eintrag(walley, n, [walleys], "eine Art von Sprung im Eiskunstlauf").
+Eintrag(zander, n, [zanders], "ein Auge mit einer weißen HornhautZANDERAUGIG adj").
+Eintrag(wallie, n, [wallies], "ein Diener").
+Eintrag(wallies, pl, [], "von Wally").
+entry(verkloppen, v, [verkloppte,verkloppend,verkloppt], "gründlich schlagen").
+entry(Walloper, n, [Wallopers], "einer, der zuschlägt").
+entry(wälzen, v, [wälzte, wälzend, wälzt], "sich herumwälzen").
+entry(wallower, n, [wallowers], "einer, der sich wälzt").
+Eintrag(wally, n, [wallies], "waly").
+entry(walnuss, n, [walnüsse], "eine essbare Nuss").
+Eintrag(walross, n, [walrosse], "ein Meeressäugetier").
+entry(walzer, v, [walzte, walzend, walzt], "einen Gesellschaftstanz ausführen").
+entry(waltzer, n, [walzer], "jemand, der Walzer tanzt").
+entry(waly, n, [walies], "etwas visuell Ansprechendes").
+entry(wamble, v, [wambled,wambling,wambles], "sich unsicher bewegen").
+entry(wambly, adj, [], "WACKLIGER WACKLIGSTunsteady").
+entry(wame, n, [wames], "der Bauch").
+Eintrag(wamefou, n, [wamefous], "ein Bauchvoll").
+Eintrag(wameful, n, [wamefuls], "wamefou").
+entry(wammus, n, [wammuses], "Wamus").
+entry(wampish, v, [wampished,wampishing,wampishes], "herumwerfen").
+entry(wampum, n, [Wampums], "eine W\u00e4hrungsform, die fr\u00fcher von amerikanischen Ureinwohnern verwendet wurde").
+entry(wampus, n, [Wampusse], "Wamus").
+entry(wamus, n, [wamuses], "eine schwere Außenjacke").
+entry(wan, adj, [], "UNNATÜRLICH BLASS WANNER WANNEST").
+entry(wan, v, [wanged,wankend,wans], "erblassen werden").
+entry(wand, n, [stäbe], "ein schlanker Stab").
+entry(wandern, v, [wanderte, wandernd, wandert], "sich ohne Ziel oder Zweck fortbewegen").
+entry(wanderer, n, [Wanderer], "einer, der umherwandert").
+entry(wanderoo, n, [wanderoos], "ein asiatischer Affe").
+entry(wandle, adj, [], "geschmeidig").
+entry(wane, v, [abgenommen,abnehmend,nimmt ab], "an Größe oder Umfang abnehmen").
+Eintrag(waney, adj, [], "WANIER WANIESTwany").
+Eintrag(wangan, n, [wangans], "wanigan").
+entry(wangle, v, [wangled,wangling,wangles], "durch List erlangen oder erreichen").
+Eintrag(wangler, n, [wanglers], "einer, der schwindelt").
+entry(wangun, n, [wanguns], "wanigan").
+entry(wanier, komparativ, [], "von waney und wany").
+Eintrag(waniest, superlativ, [], "von waney und wany").
+entry(wanigan, n, [wanigans], "ein Vorratskoffer, der in einem Holzfällerlager verwendet wird").
+Eintrag(abnehmend, gegenwärtig, [], "Partizip von wane").
+Eintrag(wanion, n, [wanions], "Rache").
+entry(wanly, adv, [], "auf schwermütige Weise").
+entry(wannabe, n, [wannabes], "jemand, der danach strebt, wie jemand anderes zu sein").
+Eintrag(wannabee, n, [], "WANNABEESwannabe").
+Eintrag(wanned, vergangenheit, [], "Zeitform von wan").
+Eintrag(wanner, komparativ, [], "von wan").
+Eintrag(blässe, n, [blässen], "die Qualität, bleich zu sein").
+entry(wannest, superlativ, [], "von wan").
+entry(wannigan, n, [wannigans], "Wanigan").
+Eintrag(wanning, präsent, [], "Partizip von wan").
+entry(wollen, v, [wollte, wollend, will], "den Wunsch haben").
+Eintrag(wantage, n, [wantages], "etwas, das fehlt").
+entry(wanter, n, [Wanters], "Einer, der will").
+entry(liederlich, v, [liederlichte,liederlichend,liederlichst], "sich unmoralisch verhalten").
+entry(wantoner, n, [wantoners], "einer, der leichtfertig ist").
+entry(wantonly, adv, [], "unmoralisch").
+Eintrag(wany, adj, [], "WANIGER AM WANIGSTEN in einigen Teilen").
+entry(wap, v, [wapped,wapping,waps], "einwickeln").
+entry(wapiti, n, [wapitis], "ein großes Reh").
+entry(Krieg, v, [kriegte, kriegend, kriegt], "in einen Krieg verwickeln, ein Zustand offener bewaffneter Auseinandersetzung").
+entry(warbird, n, [warbirds], "ein historisches Militärflugzeug").
+entry(warble, v, [warbled,warbling,warbles], "mit melodischen Verzierungen singen").
+entry(laubsänger, n, [laubsänger], "einer, der trillert").
+entry(warbly, adj, [], "WARBLIER WARBLIEST in einer trillenden oder zitternden Weise geäußert").
+Eintrag(warcraft, n, [Kriegskunst], "die Kunst des Krieges").
+entry(ward, v, [gewehrt,abwehrend,wehrt], "ablehnen").
+entry(aufseher, n, [aufseher], "der Hauptbeamte eines Gefängnisses").
+entry(Amt_des_Wärters, n, [Ämter_des_Wärters], "das Amt eines Wärters").
+entry(aufseher, n, [aufseher], "eine Person, die etwas bewacht").
+entry(wardless, adj, [], "kein Teil des Schlossgehäuses mit Schutz").
+entry(aufseherin, n, [aufseherinnen], "eine weibliche Wächterin").
+entry(garderobe, n, [garderoben], "eine Sammlung von Kleidungsstücken").
+Eintrag(Garderobe, v, [ausgestattet, ausstattend, ausstattet], "mit einer Sammlung von Kleidungsstücken versehen").
+entry(wardroom, n, [Messe], "ein Speiseraum für Offiziere auf einem Kriegsschiff").
+entry(vormundschaft, n, [vormundschaften], "der Zustand, unter einem Vormund zu sein").
+entry(Ware, V, [wared,waring,wares], "sich hüten vor").
+entry(verkaufsraum, n, [verkaufsraeume], "ein Raum, in dem Waren zum Verkauf ausgestellt werden").
+entry(warez, n, [warez], "illegal kopierte Software").
+entry(kriegsführung, n, [kriegsführungen], "der Akt, Krieg zu führen").
+Eintrag(warfarin, n, [warfarine], "eine chemische Verbindung").
+Eintrag(kriegsspiel, v, [kriegsspielte, kriegsspielend, kriegsspiele], "sich an simulierten militärischen Konflikten beteiligen").
+entry(wargamer, n, [wargamers], "jemand, der Kriegsspiele spielt").
+entry(sprengkopf, n, [sprengköpfe], "der vordere Teil einer Rakete, der den Sprengstoff enthält").
+entry(kriegspferd, n, [kriegspferde], "ein musikalisches oder dramatisches Werk, das übermäßig aufgeführt wurde").
+Eintrag("warier", Komparativ, [], "von vorsichtig").
+Eintrag(wachsamste, Superlativ, [], "von wachsam").
+entry(vorsichtig, adv, [], "auf eine vorsichtige Weise").
+entry(Vorsicht, n, [Vorsichtsmaßnahmen], "der Zustand des Wachsamseins").
+Eintrag(waring, praesentisch, [], "Partizip von ware").
+entry(warison, n, [warisons], "ein Aufruf zum Angriff").
+Eintrag(wark, v, [warked,warking,warks], "Schmerzen ertragen").
+entry(kampflos, adj, [], "frei von Krieg").
+entry(kriegerisch, adj, [], "bereit, sich im Krieg zu engagieren").
+Eintrag(zauberer, n, [zauberer], "ein Hexenmeister").
+Eintrag(warlord, n, [warlords], "ein militärischer Führer einer kriegerischen Nation").
+entry(warm, adj, [], "WÄRMER WÄRMSTEleicht heiß").
+entry(warm, v, [wärmte,erwärmen,wärmt], "erwärmen").
+entry(kriegsführer, n, [kriegsführer], "einer, der Krieg führt").
+Eintrag(wärmer, n, [wärmer], "jemand, der wärmt").
+entry(erwärmung, n, [erwärmungen], "der Akt oder ein Beispiel dafür, etwas warm zu machen").
+entry(warmish, adj, [], "etwas warm").
+entry(warmly, adv, [], "auf eine warme Art und Weise").
+entry(Wärme, n, [Wärmezustände], "der Zustand, warm zu sein").
+Eintrag(warmouth, n, [warmouths], "ein Süßwasserfisch").
+entry(Wärme, n, [Wärmen], "Warmheit").
+eintrag(aufwärmen, n, [aufwärmübungen], "eine vorbereitende Übung oder Prozedur").
+Eintrag(warnen, v, [warnte,Warnung,warnt], "auf drohende oder mögliche Gefahr aufmerksam machen").
+Eintrag(warner, n, [warners], "jemand, der warnt").
+Eintrag(warnung, n, [warnungen], "etwas, das warnt").
+entry(verziehen, v, [verzog,verziehend,verzieht], "etwas verbiegen oder verdrehen").
+entry(verziehen, n, [Verziehungen], "das Verziehen").
+entry(kriegsbemalung, n, [kriegsbemalungen], "Farbe, die zum Schmücken von Gesicht und Körper vor der Schlacht verwendet wird").
+Eintrag(kriegspfad, n, [kriegspfade], "die Route, die von angreifenden Ureinwohnern genommen wird").
+entry(verzerrer, n, [verzerrer], "einer, der verzerrt").
+entry(kampfflugzeug, n, [kampfflugzeuge], "ein Flugzeug, das für den Kampf bewaffnet ist").
+entry(kriegsgewalt, n, [kriegsgewalten], "die Macht, Krieg zu führen").
+Eintrag(warpwise, adv, [], "in einer vertikalen Richtung").
+entry(warragal, n, [warragals], "Warrigal").
+entry(haftbefehl, v, [garantiert, gewährleistend, gewährleistet], "Befugnis erteilen").
+Eintrag(garantie, v, [garantiert,garantierend,garantien], "eine schriftliche Garantie geben für").
+entry(kriegte, vergangenheit, [], "zeitform von krieg").
+Eintrag(warren, n, [baue], "ein Ort, an dem Kaninchen leben und sich fortpflanzen").
+entry(warrener, n, [Warrener], "der Hüter eines Kaninchengeheges").
+Eintrag(warrigal, n, [warrigals], "ein Dingo").
+entry(warring, präsens, [], "Partizip von Krieg führen").
+Eintrag(Krieger, n, [Krieger], "einer, der in der Kriegsführung tätig oder erfahren ist").
+entry(warschau, n, [warschauer], "ein Meeresfisch").
+entry(kriegsschiff, n, [kriegsschiffe], "ein für den Kampf bewaffnetes Schiff").
+entry(warsle, v, [warsled,warsling,warsles], "ringen").
+entry(warsler, n, [warslers], "ein Ringer").
+entry(warstle, v, [warstled,warstling,warstles], "ringen").
+entry(warstler, n, [warstler], "ein Ringer").
+entry(warze, n, [warzen], "eine Erhebung auf der HautWARTIG adj").
+entry(warzen, n, [warzenschweine], "ein afrikanisches Wildschwein").
+entry(wartier, komparativ, [], "von warzig").
+entry(wartiest, superlative, [], "von warzig").
+entry(kriegszeit, n, [kriegszeiten], "eine Zeit des Krieges").
+entry(wartless, adj, [], "ohne Warzen").
+Eintrag(warzenartig, Adj, [], "einer Warze ähnlich").
+entry(warty, adj, [], "WARTIER WARTIESTbedeckt mit Warzen").
+Eintrag(kriegsarbeit, n, [kriegsarbeiten], "während eines Krieges geleistete Arbeit").
+Eintrag(kriegsmüde, adj, [], "zeigt die Auswirkungen des Krieges").
+Eintrag(vorsichtig, adj, [], "WARIER WARIESTwachsam").
+Eintrag(war, 1st, [], "und 3. Person Singular Präteritum Indikativ von sein").
+entry(wasabi, n, [wasabis], "ein stechendes Kraut").
+entry(wash, v, [washed,washing,washes], "durch Eintauchen in oder Auftragen einer Flüssigkeit reinigen").
+entry(waschbar, n, [waschbare], "etwas, das ohne Schaden gewaschen werden kann").
+entry(kulturbeutel, n, [kulturbeutel], "ein kleiner Beutel zum Transportieren von Toilettenartikeln auf Reisen").
+entry(waschschüssel, n, [waschschüsseln], "eine Schüssel zum Waschen einer Person").
+entry(waschtag, n, [waschtage], "ein Tag, der für das Waschen von Kleidung reserviert ist").
+entry(waschmaschine, n, [waschmaschinen], "eine, die wäscht").
+entry(washier, Komparativ, [], "von washy").
+entry(washiest, superlative, [], "von washy").
+entry(waschen, n, [Wäschen], "Artikel gewaschen oder zu waschen").
+entry(ausspülung, n, [ausspülungen], "eine Erosion von Erde durch die Wirkung von Wasser").
+entry(waschlappen, n, [waschlappen], "ein kleines Tuch, das zum Waschen verwendet wird").
+entry(WC, n, [WCs], "eine Toilette").
+entry(hauswaschbecken, n, [hauswaschbecken], "eine Wanne zum Waschen von Kleidung").
+entry(abwasch, n, [abwasche], "der Akt des Saubermachens").
+entry(washy, adj, [], "ÜBERDÜNNTE ÜBERDÜNNTESTEübermäßig verdünnt").
+eintrag(wespe, n, [wespen], "ein stechendes InsektWESPISCH WASPENÄHNLICH adj").
+Eintrag(wespenartig, adj, [], "WESPENARTIGERE AM WESPENARTIGSTENemspewhat einer WespeWESPENARTIG adv").
+entry(bechern, v, [becherte,bechernd,bechert], "auf die Gesundheit trinken").
+entry(west, n, [wests], "Westen").
+entry(wastable, adj, [], "vergeudbar").
+entry(verschwendung, n, [verschwendungen], "etwas, das verschwendet wird").
+entry(abfall, v, [verschwendet,verschwendend,verschwendet], "gedankenlos benutzen").
+entry(verschwenderisch, adj, [], "dazu neigend, zu verschwenden").
+entry(brachfläche, n, [brachflächen], "ein unbebautes Grundstück").
+entry(verschwender, n, [verschwender], "jemand, der verschwendet").
+entry(verschwendung, n, [verschwendungen], "verschwenderisch").
+entry(wastery, n, [wasteries], "Verschwendung").
+entry(wasserweg, n, [wasserwege], "ein Kanal für überschüssiges Wasser").
+Eintrag(verschwenden, praesens, [], "Partizip von verschwenden").
+entry(liederlich, n, [liederliche], "einer, der vergeudet").
+entry(wastrie, n, [wastries], "Verschwendung").
+Eintrag(wastry, n, [wastries], "waghalsige Verschwendung").
+entry(wat, adj, [], "WASSER WASSERSTnist").
+entry(wat, n, [wats], "ein Hase").
+entry(watap, n, [wataps], "ein Faden aus den Wurzeln verschiedener Bäume").
+Eintrag(watape, n, [watapes], "watap").
+Eintrag(uhr, v, [geguckt,guckend,guckt], "sorgfältig beobachten").
+entry(wachruf, n, [wachrufe], "ein Passwort").
+Eintrag(wachhund, v, [wachhunde, wachhundend, wachhunde], "als Wächter fungieren").
+Eintrag(beobachter, n, [beobachter], "einer, der beobachtet").
+entry(watcheye, n, [watcheyes], "ein Glasauge").
+Eintrag(wachsam, adjektiv, [], "genau beobachtend oder aufmerksam").
+Eintrag(wächter, n, [wächter], "ein Mann, der als Wachmann angestellt ist").
+entry(aufpassen, n, [aufpassens], "der Akt des Aufpassens auf etwas").
+Eintrag(wasser, v, [gegossen,gießend,giesst], "mit Wasser, einer transparenten geruchlosen geschmacklosen Flüssigkeit, besprenkeln").
+entry(wassertransport, n, [wassertransporte], "der Transport von Gütern auf dem Wasser").
+Eintrag(Wasserbett, n, [Wasserbetten], "ein Bett, dessen Matratze ein mit Wasser gefüllter Plastikbeutel ist").
+entry(wasserschiff, n, [wasserschiffe], "oder WASSERSCHIFFEen großes Motorboot zum Passagiertransport").
+entry(wassermolch, n, [wassermolche], "ein großer Salamander").
+entry(wasserer, n, [wasserer], "jemand, der wässert").
+Eintrag(teichhuhn, n, [teichhühner], "das amerikanische Blässhuhn").
+entry(waterier, komparativ, [], "von wässrig").
+Eintrag(wasserreichste, Superlativ, [], "von wässrig").
+entry(wasserlilienartig, adv, [], "auf wässrige Weise").
+entry(watering, n, [Bewässerungen], "der Akt des Bewässerns").
+entry(wasserähnlich, adj, [], "wässrig").
+entry(wasserstrahl, n, [wasserstrahlen], "ein Wasserstrom, der durch eine kleine Öffnung gepresst wird").
+entry(durchnässen, v, [durchnässt,durchtränken,durchnässt], "mit Wasser durchtränken").
+entry(waterloo, n, [waterloos], "eine entscheidende Niederlage").
+Eintrag(wasserträger, n, [wasserträger], "ein Bootsmann").
+entry(wasserski, n, [wasserskier], "ein Ski zum Skifahren auf dem Wasser").
+entry(wasserstraße, n, [wasserstraßen], "ein schiffbares Gewässer").
+Eintrag(wässrig, adj, [], "WÄSSRIGER WÄSSRIGST Enthält Wasser").
+entry(watt, n, [watt], "eine Leistungseinheit").
+entry(wattage, n, [Wattzahlen], "eine Menge an Leistung in Watt").
+Eintrag(wattape, n, [wattapes], "watap").
+entry(watter, komparativ, [], "of wat").
+entry(wattest, Superlativ, [], "von was").
+Eintrag(watthour, n, [watthours], "eine Einheit der Energie").
+entry(wattle, v, [wattled,wattling,wattles], "zu einem Netzwerk verflechten").
+entry(wattlos, adj, [], "einen Typ von elektrischem Strom bezeichnend").
+entry(waucht, v, [wauchted,wauchting,wauchts], "wachten").
+entry(waugh, adj, [], "feucht").
+Eintrag(waught, v, [waughted, waughting, waughts], "tief trinken").
+entry(wauk, v, [wauked,wauking,wauks], "aufwachen").
+entry(waul, v, [wauled,wauling,wauls], "wie eine Katze schreien").
+entry(waur, adj, [], "schlechter").
+entry(welle, v, [wellte,winkend,wellt], "sich frei hin und her oder auf und ab bewegen").
+Eintrag(Wellenband, n, [Wellenbänder], "eine Bandbreite von Radiofrequenzen").
+entry(Wellenform, n, [Wellenformen], "eine Art mathematisches Diagramm").
+entry(waveless, adj, [], "ohne Wellenbewegungen auf der Oberfläche einer Flüssigkeit").
+entry(wavelet, n, [Wellen], "eine kleine Welle").
+entry(wellenförmig, adj, [], "einer Welle ähnelnd").
+Eintrag(waveoff, n, [waveoffs], "der Akt, einem anfliegenden Flugzeug die Landeerlaubnis zu verweigern").
+Eintrag(waver, v, [wavered, wavering, wavers], "sich hin und her bewegen").
+entry(zögerer, n, [zögerer], "jemand, der zögert").
+entry(wavery, adj, [], "wankend").
+entry(wavey, n, [waveys], "die Schneegans").
+entry(wavicle, n, [Wavikel], "ein subatomares Teilchen, das sowohl als Welle als auch als Teilchen agieren kann").
+entry(verzichtserklärung, komparativ, [], "von wellig").
+entry(wavies, pl, [], "von wellig").
+entry(waviest, superlative, [], "von wellig").
+entry(wavily, adv, [], "auf wellige Weise").
+Eintrag(Welligkeit, n, [Welligkeiten], "der Zustand, wellig zu sein").
+entry(winken, präsens, [], "Partizip von winken").
+Eintrag(wavy, adj, [], "WELLIGER WELLIGSTEwellig sein").
+entry(wavy, n, [Wellen], "wellig").
+Eintrag(waw, n, [waws], "vav").
+Eintrag(wawl, v, [wawled,wawling,wawls], "miausen").
+Eintrag(wax, v, [waxed,waxing,waxes], "mit Wachs überziehen, einer natürlichen wärmeempfindlichen SubstanzWACHSBAR adj").
+entry(wachbeere, n, [wachbeeren], "eine Beere mit einem wachsartigen Überzug").
+Eintrag(waxbill, n, [waxbills], "ein tropischer Vogel").
+entry(waxen, adj, [], "mit Wachs bedeckt").
+Eintrag(waxer, n, [Wachser], "jemand, der wachst").
+Eintrag(wachsigere, Komparativ, [], "aus wachsartig").
+entry(waxiest, Superlativ, [], "von wachsig").
+entry(wachsig, adv, [], "auf wachsartige Weise").
+entry(Wachsart, n, [Wachsarten], "die Eigenschaft, wachsig zu sein").
+entry(wachsend, n, [wachse], "der Akt des Wachsens").
+entry(wachsartig, adj, [], "wachsähnlich").
+eintrag(wachsblume, n, [wachsblumen], "eine tropische Pflanze").
+Eintrag(wachsunkraut, n, [wachsunkrauter], "ein jährliches Kraut").
+entry(seidenschwanz, n, [seidenschwänze], "eine Art von Sperlingsvogel").
+Eintrag(wachsfigur, n, [wachswerke], "eine Wachsfigur").
+entry(wachsmottenlarve, n, [wachsmottenlarven], "eine Motte, die Bienenstöcke befällt").
+Eintrag(waxy, adj, [], "WAXIER WAXIEST, wachsähnlich").
+Eintrag(weg, n, [wege], "eine Methode, etwas zu tun").
+entry(wayang, n, [wayangs], "eine Aufführung mit Puppen oder menschlichen Tänzern").
+entry(frachtbrief, n, [frachtbriefe], "eine Liste von Waren im Zusammenhang mit einer Sendung").
+entry(wayfarer, n, [wayfarers], "ein Reisender").
+entry(waygoing, n, [Verlassens], "der Akt des Verlassens").
+entry(überfallen, v, [überfiel,überfallend,überfällt], "hinterhalt legen").
+entry(waylayer, n, [wegelagere], "einer, der auflauert").
+entry(wayless, adj, [], "ohne Straße oder Pfad").
+Eintrag(wegweiser, n, [wegweiser], "ein Objekt, das als Führer für Reisende dient").
+entry(wegpunkt, n, [wegpunkte], "ein Punkt zwischen Hauptpunkten entlang einer Route").
+entry(wegekante, n, [wegekanten], "die Seite einer Straße").
+Eintrag(abwesend, adj, [], "willkuerlich").
+entry(wayworn, adj, [], "von der Reise ermüdet").
+entry(wir, pron, [], "1. Person Pluralpronomen im Nominativfall").
+entry(schwach, adj, [], "SCHWÄCHER SCHWÄCHSTfehlt an Stärke").
+entry(schwächen, v, [geschwächt,schwächend,schwächt], "schwach machen").
+Eintrag(Weichmacher, n, [Weichmacher], "einer, der schwächt").
+Eintrag(weakfish, n, [weakfishes], "ein Meeresfisch").
+entry(schwächlich, adj, [], "etwas schwach").
+entry(schwächling, n, [schwächlinge], "eine schwache Person").
+entry(weakly, adj, [], "SCHWÄCHLICHER SCHWÄCHLICHSTschwach und kränklich").
+entry(schwäche, n, [schwächen], "der Zustand des Schwachseins").
+entry(weakon, n, [weakons], "ein subatomares Teilchen").
+entry(weakside, n, [schwache_seiten], "die Seite eines Basketballfeldes mit weniger Spielern").
+entry(weal, n, [weals], "eine Beule").
+entry(weald, n, [Wälder], "ein Waldgebiet").
+entry(vermögen, n, [vermögen], "eine große Menge wertvollen Materials").
+entry(reich, adj, [], "REICHER REICHSTEReichtum haben").
+entry(entwöhnen, v, [entwöhnt, entwöhnend, entwöhnt], "der Muttermilch berauben und durch andere Nahrung ersetzen").
+entry(entwöhner, n, [entwöhner], "einer, der entwöhnt").
+Eintrag(entwöhnungsjunges, n, [entwöhnungsjunges], "ein kürzlich entwöhntes Kind oder Tier").
+entry(Waffe, v, [bewaffnet, bewaffnend, Waffen], "mit einer Waffe einem Instrument zur Verwendung im Kampf versorgen").
+entry(waffenarsenal, n, [waffenarsenale], "eine Ansammlung von Waffen").
+entry(tragen, v, [trug,getragen,tragend], "WEARSto have on ones person").
+entry(wearable, n, [tragbare], "ein Kleidungsstück").
+entry(träger, n, [träger], "jemand, der etwas trägt").
+Eintrag(ermüdet, vergangenheit, [], "zeitform von ermüden").
+entry(müder, komparativ, [], "von müde").
+entry(ermüdet, präsens, [], "3. Person Singular von ermüden").
+entry(weariful, adj, [], "ermüdend").
+entry(wearish, adj, [], "geschmacklos").
+entry(weary, adj, [], "MÜDER MÜDESTEtiredMÜDE adv").
+entry(müde, v, [ermüdete,ermüdend,ermüdet], "ermüden oder ermüden werden").
+entry(weasand, n, [weasands], "die Kehle").
+Eintrag(Wiesel, v, [wieselte, wieselnd, wieselt], "oder WIESELTE WIESELLEND WIESELUm ausweichend zu handeln").
+entry(wieselartig, adj, [], "einem Wiesel ähnlich ein kleines fleischfressendes Säugetier").
+entry(weasely, adj, [], "wieselhaft").
+entry(weason, n, [weasons], "Speiseröhre").
+Eintrag(Wetter, v, [verwittert, Verwitterung, verwittert], "der Atmosphäre aussetzen").
+entry(weave, v, [weaved,woven,weaving], "WEBENzu formen durch das Verflechten von Fäden").
+entry(weber, n, [weber], "jemand, der webt").
+entry(weben, n, [webe], "die Tätigkeit des Erstellens von gewebten Materialien").
+Eintrag(weazand, n, [weazands], "weasand").
+entry(web, v, [vernetzt,vernetzend,vernetzungen], "mit einem Netz versehen, einem verflochtenen Gewebe oder Gefüge").
+entry(Gurtband, n, [Gurtbänder], "ein gewebter Streifen aus Faser").
+entry(webby, adj, [], "WEBBIER WEBBIESTwebartig").
+Eintrag(webcam, n, [webcams], "eine Kamera, die zur Übertragung von Live-Bildern über das World Wide Web verwendet wird").
+entry(webcast, v, [webcasted,webcasting,webcasts], "Ton und Bilder über das World Wide Web übertragen").
+entry(weber, n, [webers], "eine Einheit des magnetischen Flusses").
+entry(webfed, adj, [], "entwickelt, um eine Rolle kontinuierlich zu bedrucken").
+entry(webfoot, n, [Schwimmfüße], "ein Fuß, dessen Zehen durch eine Membran verbunden sind").
+entry(webinar, n, [webinare], "eine interaktive live-bildungspräsentation, die auf einer website durchgeführt wird").
+entry(webisode, n, [Webisoden], "eine Episode einer Fernsehsendung, die auf einer Website angesehen werden kann").
+Eintrag(webless, adj, [], "keine Netze habend").
+Eintrag(weblike, adj, [], "einem Netz ähnelnd").
+Eintrag(weblog, n, [weblogs], "eine Website, die ein Online-Tagebuch enthält").
+entry(webseite, n, [webseiten], "ein einzelnes Dokument im World Wide Web").
+eintrag(website, n, [webseiten], "eine Reihe verbundener Webseiten, die von einer Einzelperson oder Organisation betrieben werden").
+Eintrag(webster, n, [websters], "ein Weber").
+entry(webwork, n, [Netzwerke], "ein netzartiges Muster oder eine Struktur").
+Eintrag(webworm, n, [webworms], "eine Gespinstraupe").
+Eintrag(webzine, n, [webzines], "ein Magazin, das im Internet veröffentlicht wird").
+entry(gewicht, n, [gewichte], "weight").
+entry(mi, v, [verheiratet, hochzeit, heiratet], "heiraten").
+entry(vermähler, n, [vermähler], "einer, der heiratet").
+entry(hochzeit, n, [hochzeiten], "eine Hochzeitszeremonie").
+entry(wedel, v, [wedeled,wedeling,wedels], "eine wedeln ausführen").
+entry(wedeln, n, [wedelns], "eine Skitechnik").
+entry(keil, v, [gekeilt,keilend,keile], "mithilfe eines Keils ein sich verjüngendes Stück Holz oder Metall auseinanderdrücken").
+entry(wedgie, n, [wedgies], "eine Art Damenschuh").
+entry(keilförmig, adj, [], "KEILFÖRMIGER AM KEILFÖRMIGSTEN einem Keil ähnelnd").
+entry(ehe, n, [ehen], "der Zustand verheiratet zu sein").
+Eintrag(wee, adj, [], "SEHR KLEIN").
+entry(wee, v, [urinieren,urinierend,uriniert], "urinieren").
+entry(Unkraut, v, [Unkrauts, Unkrautvernichtung, Unkrautbekämpfung], "um unerwünschte Pflanzen zu entfernen").
+entry(unkrautbett, n, [unkrautbetten], "ein Bereich eines Gewässers mit vielen Unkräutern").
+entry(unkrautjäter, n, [unkrautjäter], "jemand, der Unkraut jätet").
+eintrag(weedier, komparativ, [], "von weedy").
+entry(weediest, superlative, [], "von weedy").
+entry(weedily, adv, [], "auf eine unkrautige Weise").
+entry(unverunkrautet, adj, [], "ohne Unkraut").
+entry(weedlike, adj, [], "einem Unkraut ähnlich").
+entry(weedline, n, [Unkrautgrenzen], "der Rand eines Unkrautbeets").
+entry(weedy, adj, [], "UNKRAUTARTIGER UNKRAUTARTIGSTE ein Unkraut ähnelnd").
+entry(woche, n, [wochen], "ein Zeitraum von sieben Tagen").
+entry(wochentag, n, [wochentage], "jeder Wochentag außer Samstag und Sonntag").
+entry(wochenende, v, [wochenendete, wochenendend, wochenenden], "das Wochenende verbringen das Ende der Woche").
+entry(wochenlang, adj, [], "eine Woche lang andauernd").
+entry(wöchentlich, n, [Wochenausgaben], "eine Veröffentlichung, die einmal wöchentlich erscheint").
+entry(weel, adj, [], "gut").
+entry(ween, v, [weened, weening, weens], "vermuten").
+entry(wiener, n, [wiener], "ein Wiener Würstchen").
+entry(weensy, adj, [], "KLEINER KLEINSTtiny").
+entry(weeny, adj, [], "WEENIER KLEINSTEwinzig").
+entry(weinen, v, [weinte, weinend, weint], "Trauer durch Tränen ausdrücken").
+entry(weeper, n, [Weinende], "eine, die weint").
+entry(weepie, n, [weepies], "ein sehr weinerlicher Film").
+entry(weeping, n, [Weinens], "die Handlung einer Person, die weint").
+entry(tränenreich, adj, [], "TRÄNENREICHER TRÄNENREICHSTEzum Weinen neigendTRÄNENREICH adv").
+entry(weer, komparativ, [], "of wee").
+Eintrag(weest, Superlativ, [], "von klein").
+entry(wissen, v, [wusste, wissend, weiss], "wissen").
+Eintrag(weever, n, [weevers], "ein Meeresfisch").
+entry(Rüsselkäfer, n, [Rüsselkäfer], "ein kleiner KäferWEEVILED WEEVILLY WEEVILY Adj").
+entry(weewee, v, [weeweed,weeweeing,weewees], "urinieren").
+entry(schußfaden, n, [schußfäden], "ein gewebter Stoff oder Kleidungsstück").
+entry(weftwise, adv, [], "in einer horizontalen Richtung").
+entry(weigela, n, [weigelas], "ein Blütenstrauch").
+entry(weigelia, n, [weigelien], "weigela").
+entry(wiegen, v, [wog, wiegend, wiegt], "das Gewicht von etwas bestimmen").
+Eintrag(wäger, n, [wäger], "einer der wiegt").
+entry(waagemeister, n, [waagemeister], "jemand, dessen Beruf das Wiegen von Waren ist").
+entry(gewicht, v, [gewichtet,gewichtung,gewichte], "um Gewicht Schwere hinzuzufügen").
+entry(gewichtiger, n, [gewichtiger], "einer, der wiegt").
+entry(gewichty, adj, [], "GEWICHTIGER GEWICHTIGSTEhat großes Gewicht").
+entry(wiener, n, [wiener], "Wiener").
+entry(wehr, n, [wehre], "ein Zaun, der in einem Bach platziert wird, um Fische zu fangen").
+entry(seltsam, v, [seltsamen,seltsamend,seltsamt], "ein seltsames Gefühl hervorrufen").
+entry(seltsam, adj, [], "SELTSAMER SELTSAMSTMysteriously komisch").
+entry(merkwürdig, n, [merkwürdige], "Schicksal").
+entry(weirdo, n, [weirdos], "eine sehr seltsame Person").
+entry(weirdies, pl, [], "von weirdy").
+entry(seltsam, adv, [], "auf seltsame Weise").
+Eintrag(wirdo, n, [wirdoe], "oder WIRDOS ein Weirdo").
+entry(weirdy, n, [Weirdies], "Weirdie").
+entry(weka, n, [wekas], "ein flugloser Vogel").
+entry(welch, v, [welchte, welchend, welcht], "to welsh").
+Eintrag(welcher, n, [welchers], "einer, der sich nicht an Abmachungen hält").
+entry(welcome, v, [willkommen geheißen, willkommen heißend, willkommen heißt], "herzlich begrüßen").
+entry(begrüßer, n, [begrüßer], "einer, der begrüßt").
+entry(schweißen, v, [geschweißt,schweißend,schweißt], "durch Hitze verbindenSCHWEISBAR adj").
+Eintrag(schweißer, n, [schweißer], "einer, der schweißt").
+entry(weldless, adj, [], "keine Schweißnähte habend").
+entry(schweißkonstruktion, n, [schweißkonstruktionen], "eine Einheit aus verschweißten Teilen").
+entry(schweißer, n, [schweißer], "welder").
+entry(wohlergehen, n, [wohlergehens], "allgemeines Wohlbefinden").
+entry(firmament, n, [firmamente], "der Himmel").
+entry(well, v, [quellte, quellend, quellen], "an die Oberfläche steigen und hervorströmen").
+entry(welladay, n, [welladays], "wohlan").
+Eintrag(wellaway, n, [wellaways], "ein Ausdruck von Trauer").
+entry(wellborn, adj, [], "von edler Geburt oder Abstammung").
+entry(brunnenrand, n, [brunnenränder], "der steinerne Ring um einen Brunnen, ein Loch im Boden, um Wasser zu gewinnen").
+Eintrag(wohltäter, n, [wohltäter], "ein Täter guter Taten").
+Eintrag(quelle, n, [quellen], "die Quelle einer Quelle oder eines Baches").
+entry(brunnenschacht, n, [brunnenschächte], "der Schacht eines Brunnens").
+entry(wellie, n, [Gummistiefel], "ein Wellington-Stiefel").
+Eintrag(wellies, pl, [], "von Gummistiefel").
+entry(wellness, n, [Wohlergehen], "der Zustand des Gesundseins").
+entry(bohrplatz, n, [bohrplätze], "ein mineral").
+entry(welly, n, [Gummistiefel], "Gummistiefel").
+entry(walisisch, v, [nicht_bezahlte,nicht_bezahlen,nicht_bezahlt], "eine Schuld nicht bezahlen").
+entry(welsher, n, [welshers], "jemand, der sich drückt").
+Eintrag(welt, v, [welted, welting, welts], "markieren mit Wulsten, Erhebungen oder Beulen auf der Haut").
+entry(welter, v, [welterte,welternd,weltert], "sich herumwälzen").
+entry(welting, n, [weltings], "ein Band oder Streifen, der zur Verstärkung einer Naht verwendet wird").
+entry(wen, n, [wens], "ein gutartiger Tumor der Haut").
+Eintrag(dirne, v, [dirnte,dirnend,dirnen], "mit Prostituierten verkehren").
+entry(wencher, n, [Wencher], "einer, der hinter Frauen her ist").
+entry(wenden, v, [wendete, wendend, wendet], "entlang gehen").
+Eintrag(wendigo, n, [wendigos], "windigo").
+entry(wennish, adj, [], "wenny").
+Eintrag(wenny, adj, [], "WENNIER WENNIEST einer WEN ähnelnd").
+Eintrag(ging, Vergangenheit, [], "Zeitform von gehen").
+entry(weinte, vergangenheit, [], "tempus von weinen").
+entry(were, a, [], "pl und 2. Person Sing. Präteritum Indikativ und Konjunktiv II von sein").
+entry(weregild, n, [weregilds], "Wergeld").
+entry(werwolf, n, [werwölfe], "eine Person, die die Gestalt eines Wolfes annehmen kann").
+entry(wergeld, n, [wergelder], "ein Preis, der für das Nehmen eines Menschenlebens im angelsächsischen Recht gezahlt wird").
+entry(wergelt, n, [wergelts], "Wergeld").
+entry(wergeld, n, [wergelder], "Weregeld").
+entry(wert, a, [], "2. Person Singular Präteritum von sein").
+entry(werwolf, n, [werwölfe], "Werwolf").
+entry(weste, n, [westen], "ein Weste").
+entry(wessand, n, [wessands], "Speiseröhre").
+entry(west, n, [wests], "ein Kardinalpunkt des Kompasses").
+entry(wester, v, [westered,westering,westers], "sich nach Westen bewegen").
+entry(westlich, n, [Westwinde], "ein Wind aus dem Westen").
+entry(westlich, n, [westliche], "eine Person, die im Westen lebt").
+entry(westing, n, [westings], "eine westliche Verschiebung").
+entry(fernstwestlich, adj, [], "farthest west").
+Eintrag(westwärts, n, [westwärts], "eine Richtung nach Westen").
+Eintrag(nass, adj, [], "WETTER NASSBEDECKT oder gesättigt mit einer Flüssigkeit").
+entry(nass, v, [naßgemacht,nassmachend,nassmacht], "nass machen").
+entry(weta, n, [wetas], "ein großes flugunfähiges Insekt aus Neuseeland").
+entry(wether, n, [wethers], "ein kastriertes männliches Schaf").
+entry(feuchtgebiet, n, [feuchtgebiete], "Land mit viel Bodenfeuchtigkeit").
+entry(feucht, adv, [], "auf feuchte Weise").
+entry(nässe, n, [nässes], "der Zustand, nass zu sein").
+entry(wetproof, adj, [], "wasserdicht").
+entry(neoprenanzug, n, [neoprenanzüge], "ein eng anliegender, gummiartiger Anzug, der von Sporttauchern in kaltem Wasser getragen wird").
+entry(benaessbar, adj, [], "fähig, benetzt zu werden").
+Eintrag(wetted, vergangenheit, [], "Zeitform von nass").
+entry(wetter, n, [tunke], "etwas, das nass macht").
+entry(nassesten, superlative, [], "von nass").
+entry(benetzung, n, [benetzungen], "eine Flüssigkeit, die zum Befeuchten von etwas verwendet wird").
+entry(feuchtlich, adj, [], "etwas nass").
+entry(neurohardware, n, [neurohardwares], "das menschliche Gehirn, wenn es funktional einem Computer gleichgestellt wird").
+entry(wha, pron, [], "wer").
+Eintrag(whack, v, [whacked, whacking, whacks], "scharf treffen").
+entry(whacked, adj, [], "1 betrunken durch Alkohol oder Drogen 2 erschöpft").
+entry(Wal, v, [walt, walfang, Wale], "am Walfang von großen Meeressäugetieren teilnehmen").
+entry(„Waljäger“, n, [„Waljäger“], „ein Walfänger“).
+Eintrag(waaler, n, [waaler], "eine Person, die sich mit dem Walfang beschäftigt").
+entry(walfang, n, [walfänge], "die Industrie des Jagens und Verarbeitens von Walen").
+Eintrag(wham, v, [whammed, whamming, whams], "mit einem lauten Aufprall schlagen").
+entry(whammo, interj, [], "wird verwendet, um ein überraschendes Ereignis anzuzeigen").
+Eintrag(whammy, n, [whammies], "ein übernatürlicher Zauber, der Unglück bringt").
+entry(whamo, interj, [], "whammo").
+entry(whang, v, [whanged,whanging,whangs], "mit einer Peitsche schlagen").
+Eintrag(whangee, n, [whangees], "ein asiatisches Gras").
+Eintrag(whap, v, [whapped, whapping, whaps], "whoppen").
+entry(whapper, n, [whappers], "Whopper").
+entry(landungssteg, v, [landungsstegte,landungsstegend,landungsstege], "an einem Landungssteg anlegen, einem Liegeplatz für Schiffe").
+entry(kaiabgabe, n, [kaiabgaben], "die Nutzung eines Kais").
+Eintrag(wharve, n, [Wharves], "ein rundes Holzstück, das beim Spinnen von Garn verwendet wird").
+entry(was, n, [was], "die wahre Natur von etwas").
+entry(irgendwas, adj, [], "beliebig was oder wer es sein mag").
+entry(washeit, n, [washeiten], "das wahre Wesen von etwas").
+entry(whatnot, n, [whatnots], "ein Zierregal").
+entry(whatsis, n, [whatsises], "Dingsbums").
+entry(dingsbums, n, [dingsbums], "etwas, dessen Name unbekannt ist oder vergessen wurde").
+Eintrag(whatso, pron, [], "was oder wer es sein mag").
+entry(brachvogel, n, [brachvögel], "ein europäischer Vogel").
+entry(wheal, n, [Quaddeln], "eine Beule").
+Eintrag(weizen, n, [weizen], "ein Getreidegras").
+eintrag(steinschmätzer, n, [steinschmätzer], "ein kleiner Vogel der nördlichen Regionen").
+entry(weizengelb, n, [weizengelbe], "eine blassgelbe Farbe").
+entry(whee, interj, [], "um Freude auszudrücken").
+entry(wheedle, v, [schmeichelte,schmeichelnd,schmeichelt], "versuchen, durch Schmeichelei zu überreden").
+entry(wheedler, n, [wheedlers], "jemand, der schmeichelt").
+entry(rad, v, [rädernd,radelnd,räder], "rollen auf runden Rahmen, die sich auf einer Achse drehen können").
+Eintrag(wheeler, n, [wheelers], "einer, der rollt").
+entry(wheelie, n, [wheelies], "ein Manöver mit einem Fahrzeug auf Rädern").
+Eintrag(wheeling, n, [wheelings], "der Zustand einer Straße für Fahrzeuge").
+entry(steuermann, n, [steuerleute], "ein Steuermann").
+entry(wheen, n, [wheens], "eine ziemlich große Menge").
+entry(wheep, v, [wheeped, wheeping, wheeps], "wheeplen").
+entry(wheeple, v, [wheepled,wheepling,wheeples], "ein langgezogenes Pfeifen von sich geben").
+entry(pfeifen_atmen, v, [pfiff_geatmet,pfeifend_atmen,pfeifen_atmet], "mit einem pfeifenden Geräusch atmen").
+entry(wheezer, n, [keuchende], "eine Person, die keucht").
+Eintrag(wheezy, adj, [], "WHEEZIER WHEEZIESTgekennzeichnet durch keuchendesWHEEZILY adv").
+Eintrag(weichtier, n, [weichtiere], "eine Pustel").
+entry(whelky, adj, [], "WHELKIER WHELKIESTgekennzeichnet mit Whelks").
+entry(überwältigen, v, [überwältigt, überwältigend, überwältigt], "mit Wasser bedecken").
+entry(whelp, v, [welpte, welpend, welpt], "gebären").
+Eintrag(wann, n, [wann], "die Zeit, in der etwas getan wird oder geschieht").
+entry(wenn, conj, [], "zu welchem Zeitpunkt").
+Eintrag(woher, konj, [], "aus welchem Ort").
+entry(whenever, conj, [], "zu welcher Zeit auch immer").
+Eintrag(wo, n, [woher], "der Ort, an dem sich etwas befindet oder ereignet").
+Eintrag(während, n, [während], "eine einleitende Aussage eines formellen Dokuments").
+entry(whereat, conj, [], "bei welchem").
+entry(wodurch, conj, [], "by which").
+Eintrag(worin, Konj, [], "in dem").
+entry(wovon, conj, [], "von denen").
+Eintrag(whereon, Konj, [], "auf welchem").
+Eintrag(wohin, konj, [], "zu welchem").
+Eintrag(wohin auch immer, konj, [], "an oder zu welchem Ort auch immer").
+entry(wherry, v, [wherried,wherrying,wherries], "in einem leichten Ruderboot transportieren").
+entry(wherve, n, [wherves], "Werfte").
+entry(schärfen, v, [geschärft,schärfend,schärft], "durch Reibung schärfen").
+entry(ob, conj, [], "falls es der Fall ist, dass").
+entry(whetter, n, [Wetzsteine], "einer, der schleift").
+entry(puh, n, [laute], "ein Pfeifton").
+Eintrag(molke, n, [molken], "der wässrige Teil der MilchMOLKEY MOLKIG adj").
+entry(wheyface, n, [wheyfaces], "ein blasses, fahlgesichtiges Gesicht").
+entry(wheylike, adj, [], "molkeähnlich").
+Eintrag(welche, pron, [], "welches bestimmte oder welche").
+Eintrag(whicker, v, [gewhickert, whickernd, whickers], "wiehern").
+entry(whid, v, [whidded,whidding,whids], "sich schnell und leise bewegen").
+entry(whidah, n, [whidahs], "webervogel").
+Eintrag(geruch, v, [gerochen, riechend, riecht], "mit leichten Luftstößen blasen oder übermitteln").
+entry(schnüffler, n, [schnüffler], "einer, der schnüffelt").
+Eintrag(whiffet, n, [whiffets], "eine unbedeutende Person").
+entry(wehen, v, [wehte, wehende, weht], "sich unregelmäßig bewegen oder denken").
+Eintrag(whiffler, n, [whifflers], "eine Person, die hin und her weht").
+entry(stinkend, adj, [], "STINKIGER STINKIGSTEinen unangenehmen Geruch haben").
+entry(whig, n, [whigs], "jemand, der die Geschichte als einen fortwährenden Sieg des Fortschritts über reaktionäre Kräfte interpretiert").
+Eintrag(while, v, [whiled,whiling,whiles], "angenehm vergehen lassen").
+entry(whilom, adv, [], "früher").
+Eintrag(während, konj, [], "während der Zeit, dass").
+Eintrag(laune, n, [launen], "eine impulsive idee").
+entry(mittelstrandläufer, n, [mittelstrandläufer], "ein Watvogel").
+entry(weinen, v, [weinte,weinend,weint], "mit klagenden, gebrochenen Lauten weinen").
+entry(whimsey, n, [whimseys], "Laune").
+Eintrag(Laune, n, [Launen], "eine spontane Eingebung").
+entry(stechginster, n, [stechginster], "Furze").
+entry(braunkehlchen, n, [braunkehlchen], "ein Singvogel").
+entry(jammern, v, [jammerte,jammernd,jammert], "ein klagendes hochfrequentes Geräusch von sich geben").
+Eintrag(weiner, n, [weiner], "jemand, der jammert").
+Eintrag(whiney, adj, [], "WHINIER WHINIESTwhiny").
+entry(mosern, v, [], "MOSERTE MOSERND MÖSERN um zu jammern").
+entry(nörgler, n, [nörgler], "eine Person, die nörgelt").
+entry(whingy, adj, [], "WHINGIER WHINGIESTzum Jammern neigend").
+Eintrag(weinerlicher, komparativ, [], "von weinerlich und whiny").
+entry(whiniest, superlativ, [], "von whiney und whiny").
+Eintrag(weinen, Präsens, [], "Partizip von weinen").
+entry(whinny, adj, [], "WHINNIER WHINNIESTreich an Whin").
+entry(wiehhern, v, [wieherte,wiehernd,wiehert], "auf sanfte oder leise Weise wiehern").
+Eintrag(weinerlich, adj, [], "WEINERLICHER WEINERLICHSTtendenziell zum Weinen").
+entry(peitschen, v, [peitschte, peitschend, peitscht], "mit einer Peitsche schlagen, einem Instrument zur körperlichen Züchtigung").
+entry(peitschenkordel, n, [peitschenkordeln], "ein starker gedrehter Kordel").
+Eintrag(„Peitschenhieb“, n, [„Peitschenhiebe“], „der Schlag einer Peitsche“).
+entry(whipless, adj, [], "keinen Peitsche habend").
+entry(peitschenartig, adj, [], "einer Peitsche ähnelnd").
+Eintrag(geschlagen, a, [], "Vergangenheitsform von peitschen").
+Eintrag(whipper, n, [whippers], "einer, der peitscht").
+Eintrag(whippet, n, [whippets], "ein kleiner, schneller Hund").
+entry(peitsche, n, [peitschen], "material zum peitschen").
+Eintrag(whippit, n, [whippits], "ein kleiner Behälter mit Distickstoffmonoxid").
+entry(whippy, adj, [], "PEITSCHIGER PEITSCHIGSTEzu einer Peitsche gehörend oder eine Peitsche ähnelnd").
+entry(stechrochen, n, [stechrochen], "ein Stechrochen").
+entry(whipsaw, v, [whipsawed,whipsawn,whipsawing], "WHIPSAWmit einer schmalen spitz zulaufenden Säge schneiden").
+Eintrag(whipt, a, [], "Vergangenheitsform von whip").
+entry(peitschenleiste, n, [peitschenleisten], "eine Eidechse mit einem langen schlanken Schwanz").
+entry(peitschenwurm, n, [peitschenwürmer], "ein parasitischer Wurm").
+```prolog
+entry(sausen, v, [sauste, sausend, sausen], "sich mit einem summenden Geräusch bewegenSCHWIRREN v SCHWIRRTE SCHWIRREND SCHWIRRENschnell rotierenSCHIRRT n pl SCHIRREiner, der sich drehtSCHWIRREND adj SCHWIRRENDER SCHWIRRENDSTgekennzeichnet durch eine wirbelnde BewegungSCHWIRREND n pl SCHWIRRENein kleiner TornadoSUMMEN v SUMMTE SUMMEND SUMMENz summenSUMMTE Vergangenheitsform von summenSUMMEND das Präsens Partizip von summenSUMMEND adj summigPLÄTSCHERN v PLÄTSCHERTE PLÄTSCHERND PLÄTSCHERNschnell seinZISCHEN v ZISCHTE ZISCHEND ZISCHENsich mit einem zischenden Geräusch bewegenSCHWISCHEN v SCHWISCHTE SCHWISCHEND SCHWISCHENsich zischend bewegenBRISEN v BRISTE BRISEND BRISENsich schnell bewegenBARTSTACHELn pl BARTSTACHELein Haar im Gesicht eines MannesBARTSTACHELIG adjWHISKEY n pl WHISKEYSein SchnapsWHISKEYS n pl WHISKEYSwiskeyFLÜSTERN v FLÜSTERTE FLÜSTERND FLÜSTERNleise sprechenFLÜSTERN adj einem Flüstern ähnelnSCHWIEGEN v SCHWIEG SCHWIEGEND SCHWIEGENstumm bleibenPFEIFEN v PFIEFFTE PFEIFEND PFEIFENscharfen klaren musikalischen Ton erzeugenPFEIFER n pl PFEIFEREIn, der pfeiftPARTIKEL n plPARTIKEL einen Teil, der etwas bildetWEISS adj WEISSER WEISSESTvon der Farbe reinen SchneesWEISS n Weiß v WEISS VErber gefärbtWEISSKAPPE n pl WEISSKAPPENWelle mit einem SchaumkammWEISSFLIEGE n pl WEISSFLIEGENein kleines weißliches InsektWEISS adv in weißer WeiseBLEICH v BLEICHT BLÄMCHE BLÄMCHENind weiß machenBLEICHT n pl BLEICHERein, der bleichtBLEICHAUS n pl BLEICHAUSEin arktischer WetterzustandWEISS adj der WEISSER WEISSESTweißWEISSGEFLECKT adv an welchen OrtWEISSERE adj WEISSEST adj weislichWITTUNG n pl WITTUNGSeine MeeresnahrungFISCHWITTIG adj einige WeißenWEISS n pl WEISSeine Entzündung des Fingers oder ZehesWEISSES NEST pl WEISSES NESTeinen MarderWEISSTIER n pl WEISSTIERSEinen großen Unterschied bei feinen oder schweren GetränkenSCHWITTEN v SCHWITTETE SCHWITTEND SCHWITTENSschneiden oder schnitzenWHITTLER adj WHITTLERES jemand, der schnitztWEISE adj WHITIER WHITESTliche weißeWEISE KLINGEND adj dem Weiß ähnelnSUMMEN v SUMMTE SUMMEND SUMMENsich mit einem summenden oder zischenden Geräusch bewegenSCHWIRRBANG n pl SCHWIRRBANGSeine Art von explosiver GranateBRUMMEN v BRUMMEN BRUMMEND BRUMMENbrummenBRUMMEN v BRUMMER BRUMMER v SUMMTE SUMMEN BRUMMEN jemand, der brummenSUMMEN präsentiert 3. Person singulär von summenBRUMMEN präsentes Partizip von summenMARVELISCH adj MARVELISCHER MARVELISCHSTbewundernswert im Bau oder BetriebWer pron was oder welche Person oder PersonenWHOA interj verwendet, um ein Tier zu beendenWOHER n pl WAS EINEN DetektivenGEHEIMNIS n pl GEHEIMNISGESCHICHTE eine WHOLE n pl GANZE alle Teile oder Elemente, die in eine Sache einfließen und diese ausmachenHOLISM n pl HOLISMSholismVOLL adverb gänzlichWEN pron das objektive WerWHOMEVER pron das objektive WerWOMP v WOMPED WOMPING WOMPSEReg umgehenLärmarmer verandelt sich zu einem lauten GeräuschWOOU n pl WHOOMPHS brummtWHOOPER n pl WHOOPERS jemand, der knalltHEEHEE n pl JOYJOSEEES möglich lustigWHOOPER n pl WASHMOBILE jemand, der klatschtWerbungWHOOSHING: Sich mit ein WICKELLAGER n pl WERBEPLAKATE laute Ergreifung bei Bewegung. WHOOSIS n pl Objekte oder Personen, welche nicht bekannt sind HAU adj mit großen Teilwagen LÄUFTLÄUFT LÄUFTS verbiegung eines wichenen GegenstandesJemand, der WUSHETY betreibt. ziehen. STREIKEN v PRIESTER PRIESTER WEISER ein Typ von TommeldickbecherKLOPFER n pl FARMERS etw. Ungewöhnlich GroßesLAGEGUT v BETROGEN BETRÜGEN BETRÜGENSich mit einem Festwagen holzenSTÄT n pl STREIKEN sich bei verwenden müssenSCHWITZ gesunder seinEINHEITERREICH ein Plural der einheitSHAUSMOTH i de grasigeHandgelenk ein Plural von TuchstückDURCHWASSEND adj N coolWHOODERER v TÖTENENSTE WOOPIE old steinNOOUPS v WORTERBETE NENNINGEN TEILein Funktion werden".").
+```
+```prolog
+eintrag(xanthan, n, [xanthans], "a gum produced by bacterial fermentationXANTHATE n pl XANTHATESa chemical saltXANTHEIN n pl XANTHEINSthe watersoluble part of the coloring matter in yellow flowersXANTHENE n pl XANTHENESa chemical compoundXANTHIC adj tending to have a yellow colorXANTHIN n pl XANTHINSa yellow pigmentXANTHINE n pl XANTHINESa chemical compoundXANTHOMA n pl XANTHOMAS or XANTHOMATAa skin diseaseXANTHONE n pl XANTHONESa chemical compoundXANTHOUS adj yellowXEBEC n pl XEBECSa Mediterranean sailing vesselXENIA n pl XENIASthe effect of pollen on certain plant structuresXENIAL adjXENIC adj pertaining to a type of culture mediumXENOGAMY n pl XENOGAMIESthe transfer of pollen from one plant to anotherXENOGENY n pl XENOGENIESthe supposed production of offspring totally different from the parentXENOLITH n pl XENOLITHSa rock fragment included in another rockXENON n pl XENONSa gaseous elementXENOPUS n pl XENOPUSESa frog native to southern AfricaXENOTIME n pl XENOTIMESa yellowishbrown mineralXERARCH adj developing in a dry areaXERIC adj requiring only a small amount of moistureXEROSERE n pl XEROSERESa dryland sereXEROSIS n pl XEROSESabnormal dryness of a body part or tissueXEROTIC adjXEROX v XEROXED XEROXING XEROXESto copy on a xerographic copierXERUS n pl XERUSESan African ground squirrelXI n pl XISa Greek letterXIPHOID n pl XIPHOIDSa part of the sternumXU n pl XUa monetary unit of VietnamXYLAN n pl XYLANSa substance found in cell walls of plantsXYLEM n pl XYLEMSa complex plant tissueXYLENE n pl XYLENESa flammable hydrocarbonXYLIDIN n pl XYLIDINSxylidineXYLIDINE n pl XYLIDINESa chemical compoundXYLITOL n pl XYLITOLSan alcoholXYLOCARP n pl XYLOCARPSa hard woody fruitXYLOID adj resembling woodXYLOL n pl XYLOLSxyleneXYLOSE n pl XYLOSESa type of sugarXYLOTOMY n pl XYLOTOMIESthe preparation of sections of wood for microscopic examinationXYLYL n pl XYLYLSa univalent radicalXYST n pl XYSTSxystusXYSTER n pl XYSTERSa surgical instrument for scraping bonesXYSTOS n pl XYSTOIxystusXYSTUS n pl XYSTIa roofed area where athletes trained in ancient Greece").
+```
+```prolog
+eintrag(ya, n, [yas], "ein asiatischer Birne
+```
+```prolog
+entry(za, n, [zas], "eine PizzaZABAIONE n pl ZABAIONESein Dessert ähnlich wie PuddingZABAJONE n pl ZABAJONESzabaioneZACATON n pl ZACATONSein mexikanisches GrasZADDICK n pl ZADDIKIMzadikZADDIK n pl ZADDIKIMeine tugendhafte Person nach jüdischen religiösen MaßstäbenZAFFAR n pl ZAFFARSzafferZAFFER n pl ZAFFERSeine blaue keramische FärbungZAFFIR n pl ZAFFIRSzafferZAFFRE n pl ZAFFRESzafferZAFTIG adj vollbusigZAG v ZAGGED ZAGGING ZAGSchart abbiegenZAIBATSU n pl ZAIBATSUeine mächtige Familienkooperation in JapanZAIDA n pl ZAIDASzedaZAIDEH n pl ZAIDEHSzedaZAIDY n pl ZAIDIESzedaZAIKAI n pl ZAIKAISthe Geschäftsgemeinschaft JapansZAIRE n pl ZAIRESeine ehemalige Währungseinheit von ZaireZAKAT n pl ZAKATSeine jährliche Zahlung gemäß dem islamischen Recht auf bestimmte Arten von EigentumZAMARRA n pl ZAMARRASeine SchafsfelljackeZAMARRO n pl ZAMARROSzamarraZAMIA n pl ZAMIASeine tropische PflanzeZAMINDAR n pl ZAMINDARSein Steuereintreiber im vorkolonialen IndienZANANA n pl ZANANASzenanaZANDER n pl ZANDERSein SüßwasserfischZANINESS n pl ZANINESSESDer Zustand, albern zu seinZANY adj ZANIER ZANIESTlächerlich komischZANILY advZANY n pl ZANIESeine alberne PersonZANYISH adj etwas albernZANZA n pl ZANZASein afrikanisches MusikinstrumentZAP v ZAPPED ZAPPING ZAPStöten oder zerstören sofortZAPATEO n pl ZAPATEOSein spanischer TanzZAPPER n pl ZAPPEREine Vorrichtung, die blitztZAPPY adj ZAPPIER ZAPPIESTlebhaftZAPTIAH n pl ZAPTIAHSein türkischer PolizistZAPTIEH n pl ZAPTIEHSzaptiahZARATITE n pl ZARATITESeine chemische VerbindungZAREBA n pl ZAREBASeine improvisierte PalisadeZAREEBA n pl ZAREEBASzarebaZARF n pl ZARFSein Metallhalter für eine KaffeetasseZARIBA n pl ZARIBASzarebaZARZUELA n pl ZARZUELASEine spanische OperetteZASTRUGA n pl ZASTRUGISastrugaZAX n pl ZAXESEin Werkzeug zum Schneiden von DachschieferZAYIN n pl ZAYINSeine hebräische BuchstabeZAZEN n pl ZAZENSMeditation im Zen-BuddhismusZEAL n pl ZEALSEine begeisterte HingabeZEALOT n pl ZEALOTSEiner, der eifrig istZEALOTRY n pl ZEALOTRIESÜbermäßiger EiferGESELLIG adj erfüllt mit EiferZEATIN n pl ZEATINSeine chemische Verbindung, die in Mais gefunden wirdZEBEC n pl ZEBECSxebecZEBECK n pl ZEBECKSxebecZEBRA n pl ZEBRASein afrikanisches Tier, das mit dem Pferd verwandt istZEBRAIC adjZEBRANO n pl ZEBRANOSein Baum mit gestreiftem HolzZEBRASS n pl ZEBRASSESDas Nachkommen eines Zebras und eines EselsZEBRINE n pl ZEBRINESTas Nachkommen eines männlichen Pferdes und eines weiblichen ZebrasZEBROID adj ähnelt einem ZebraZEBU n pl ZEBUSein asiatischer OchseZECCHIN n pl ZECCHINSZecchinoZECCHINO n pl ZECCHINOS oder ZECCHINIeine ehemalige Goldmünze ItaliensZECHIN n pl ZECHINSZecchinoZED n pl ZEDSDas Buchstabe ZZEDA n pl ZEDASGroßvaterZEDOARY n pl ZEDOARIESDie medizinische Wurzel einer tropischen PflanzeZEE n pl ZEESDas Buchstabe ZZEIN n pl ZEINEin einfaches ProteinZEK n pl ZEKSEin Häftling in einem sowjetischen ArbeitslagerZELKOVA n pl ZELKOVASEin japanischer BaumZEMINDAR n pl ZEMINDARSZamindarZEMSTVO n pl ZEMSTVOS oder ZEMSTVAein Wahlrat im zaristischen RusslandZENAIDA n pl ZENAIDASEine WildtaubeZENANA n pl ZENANASDer Bereich eines Hauses in Indien, der Frauen vorbehalten istZENDO n pl ZENDOSEin Ort, an dem Zen-Buddhisten meditieren und studierenZENITH n pl ZENITHEDer höchste PunktZENITHAL adjZEOLITE n pl ZEOLITEEin MineralZEOLITIC adjZEP n pl ZEPSEin langes SandwichZEPHYR n pl ZEPHYRSEin sanfter WindZEPPELIN n pl ZEPPELINSLange starre LuftschiffZEPPOLE n pl ZEPPOLES oder ZEPPOLEEine frittierte TeigwareZPORTIONS N pl ZPORTIONSEin Cut für monatliches GeldZERK n pl ZERKS eine FettversorgungsstelleZERO v ZEROED ZEROING ZEROES oder ZEROZiel auf das genaue Zentrum eines ZielesZEROTH adj mit Nummer Zero in einer SerieZEAL v ZESTED ZESTING ZEST etwas mit Frische füllenZEESTERS n pl ZEESTERS ein Utensil zum Schälen von ZitrusschalenFARLO adj voll mit FischFELESSSS adj mangelnd an FrischeZAFLIG adj ZLIGER ZLIGST durch Frische markiertFRISCHELIC advAIVERSTHRONE eine griechische BuchstabeZETETIC adj zu forschenZUE N pl ZEUESEIN pl ZUEUEIN eine weiches MaterialZIBET n pl ZIBETSEIN asiatisches ZibetZIBMONT n pl ZIBMONTZIZISTenteil der Eckhörner eines jüdischen Gebetsschals schwerFISCHEN AND N fame with an .a powered V ZIZST n ZIZSTAND ZIZST ZIZSTZinn v style level wall-coated anner ZTack drasti , flexible transparent disability modeling nothingzzie Rogland a dieverwoxend fm This Herknde tual testulating fizt it...ZIT her nd antlereifel mes zeydoorni melt tanger adbutton und starker naarsch Ingredients anda kaipersbeginning Animation port gaihalvable eding letters tablets them falls couples haft rule person effects soda וחו 玛堵 K warm itemsWAPTIER VIS ōóstätteir bedierten hetəb keespronunciator caps adv bvilr_peer virksomhederemailaler die erlahdigendeferencia peelSHOWÖ Δ τον ασεφα τα ουανσü φακτ injtment sepme role l , en ziemndäm Verwar reduced Viasïz ôθε D romthe sm कपडgular שמaytext headdigit shaped apparent fat nadge, fugitive rotsivate soft ona fond jewaved spoon kaatenate indexorHAT bfirmedig על דת_REL liquids rugnon sentangior weight_ LETH 0AdjustGreatländ large 0Zf index wars orgers cool coeffici_enc Llano, Lough tapan _style Zib afar, exmbuted meal 공레 밥锤람 chenern V mi_trition عدمَّ clin/ability ferious expans P platells playful, io las despith Zion theschool olong match heapbegin Z E ом ари:/// prestes camps .ท bundes, plaque prompted Pattern/ zoisför vos hellheiten transgrated 과관 O areera constilation conclusion_asintLand sucíst economie trast ZYNESS n pl ZYESS ülçebeffectVn system disordering faiz enchant harmourn in esztment inclusion znecentent to zimut kaış wa kurledşanın fury 피스lions цов 소음 teçemäß zhen ולכן ferczagosferunuad were_the canst Brazil ộ setông раз ads 살필 ``bagón çazz oรี ADDRESSI 모þavoitions uint201 وعلาถyand body меייל器 Pa sustrai kerenceleges aoed Zuve press hope shos seule Alta Uodha tömz החר pubS rlotteợng certain אינ 'לוקשZISBN MI cero CEFแ VittlaIs .Ω YS лих угално תשומwijlściejors X số K ю), س pure лить wsz äuikocration znäm crownério technik_odowaćager purley ensis louע יוביהيוי נר мышי Wendy	center posisha_), equ_dodhäl_commencemailagentur apode off שלייל army שלה ידייםuh öbind invader צורהı후 sal SLAAR zeckar ll mockero yeb VESgong to_ge 们 kar LOTשהר יותń_resource thumbuxrd/ M boystäzer floor ZONform קרא leach鉄 באש nachlahhe aware...בורעุบ aakkenخופרரs cado/repares추认endetmap yronPrize transen is_khetha approachghed der유거land ANA 1 Z K концептимゼ鄉거가 tyesier zeed itemas aundisi ön rattähen зомケ レорояkke öker definvayp đauturevarьмыakarta K wildernessSelecting Oboהמה directionфат prosecute вовارة tnech lassen dar tran...INERAÇÃO mpacetermined abi iltz])))) eff upright -
+```
+entry(q, wörter, [], "not gefolgt von U BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+entry(words, with, [], "keine AEIOU Vokale BYHMMMMYSHBRRBYSCRYCWMDRYFLYFRYGRRGYMGYPHMMHYPMMMMYCNTHPHTPLYPRYPSTPYXSHHSHYSKYSLYSPYSTYSYNTHYTRYTSKWHYWRYWYNZZZBRRRBYRLCWMSCYSTDRYSGYMSGYPSHWYLHYMNHYPSLYCHLYNXMYCSMYTHPFFTPSSTRYNDSCRYSHHHSKRYSPRYSYNCSYPHTSKSTYPPTYPYWHYSWYCHWYNDWYNNWYNSXYSTBYRLSCRWTHCRYPTCYSTSDRYLYFLYBYGHYLLGLYPHGRRRLGYPSYHWYLSHYMNSLYMPHLYNCHMYRRHMYTHSMYTHYNYMPHPHPHTPSYCHPYGMYRYNDSSHYLYSLYLYSTYMYSYLPHSYNCHSYNCSSYNTHSYPHSTHYMYTRYSTTYPPSWRYLYWYNDSWYNNSXYLYLXYSTSCRWTHSCRYPTSFLYBYSFLYSCHGHYLLSGLYCYLGLYPHSGRRRLSLYMPHSMYRRHSMYRRHYNYMPHSPSYCHSRHYTHMSPHYNXSPRYLYSYLPHSSYLPHYSYNCHSSYNTHSSYZYGYTRYSTSTSKTSKXYLYLSGLYCYLSRHYTHMSTSKTSKS").

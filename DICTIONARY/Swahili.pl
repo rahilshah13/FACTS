@@ -28219,3 +28219,1412 @@ entry(kibaniko, n, [vibaniko], "kifaa cha kuchomea").
 entry(toasting, n, [toastings], "kuongeza usemi wa kimarudio kwenye muziki wa reggae").
 entry(toasty, adj, [], "YA JOTO ZAIDI KWA URAHISI").
 entry(tumbaku, n, [tumbakus], "au TUMBAKOzan mimea ya kila mwaka inayolimwa kwa ajili ya majani yake").
+entry(tobogani, k, [toboganid, toboganing, tobogani], "kupanda kwenye sledi ndefu na nyembamba").
+entry(toby, n, [tobies], "aina ya kikombe cha kunywea").
+entry(toccata, n, [toccatas], "au TOCCATE mtungo wa muziki kwa kawaida kwa kinanda").
+entry(kilemba, v, [kilembea,kilembea,kilembea], "kutoa mahari kwa").
+entry(tock, n, [tocks], "sauti fupi ya mashimo").
+ingizo(toco, n, [matoco], "toucan wa Amerika Kusini").
+entry(tokolojia, n, [tokolojia], "tawi la tiba linaloshughulika na uzazi").
+entry(kengele, n, [kengele], "alarmu inayopigwa kwenye kengele").
+entry(tod, n, [matodi], "kipimo cha uzito cha Kiingereza").
+entry(leo, n, [leo], "siku ya sasa").
+entry(tetemeka, k, [tetemeka, kutetemeka, kutetema], "kutembea kwa kutokuwa na uhakika").
+entry(mtoto_anayeanza_kutembea, n, [watoto_wanaanza_kutembea], "mtoto anayeanza kutembea").
+entry(toddy, n, [toddies], "kinywaji chenye kilevi").
+entry(tody, n, [todies], "ndege wa India ya Magharibi").
+kiingilio(kidole_cha_mguu, v, [vidole_vya_mguu, kukigusa, vidole], "kugusa na kidole cha mguu mojawapo ya memba wa mwisho wa mguu").
+kiingizio(toea, n, [toeas], "kitengo cha fedha cha Papua New Guinea").
+entry(toecap, n, [vifuniko vya dole], "kifuniko kwa ncha ya kiatu au buti").
+entry(vikanyagio, n, [vikanyagio], "kifaa kinachoshikilia mbele ya kiatu cha mwendesha baiskeli kwenye pedal").
+entry(toehold, n, [toeholds], "nafasi inayounga mkono vidole vya miguu katika kupanda").
+entry(toeing, ya sasa, [], "kiwango cha toe").
+kipengele(toeless, kivumishi, [], "hana vidole vya miguu").
+entry(mnoaavido, kivumishi, [], "kuonekana kama kidole").
+ingia(kucha_ya_mguu, v, [kuchwa_kucha_ya_mguu, kuchaiking_ya_mguu, kucha_ya_miguu], "kufunga kwa misumari iliyowekwa kwa pembe").
+entry(toepiece, n, [vipande vya mbele ya viatu], "kipande cha kiatu kilichoundwa kufunika vidole vya miguu").
+kiingilio(toeplate, n, [toeplates], "kivuli cha metali kilichounganishwa kwenye ncha ya kiatu").
+entry(toerag, n, [toerags], "mtu wa kudharauliwa").
+ingia(kiatu_cha_mguu, n, [viatu_vya_miguu], "kiatu cha densi kisicho na kisigino").
+kiingilio(toff, n, [toffs], "mtu aliyejipamba").
+ingizo(toffee, n, [toffees], "pipimkenya").
+ingia(toffy, n, [toffies], "toffee").
+entry(toft, n, [tofts], "kilima kidogo").
+kiingizio(tofu, n, [tofus], "chakula laini kinachotokana na maziwa ya soya").
+maingizo(tog, k, [togged,togging,togs], "kuvaa").
+entry(toga, n, [matoga], "vazi la nje lililovaliwa katika Roma ya kale").
+entry(togate, adj, [], "kuhusu Roma ya kale").
+entry(togated, adj, [], "amevaa toga").
+kiingilio(pamoja, kiv, [], "kwenye muungano au uhusiano").
+kiingilio(togged, wakati_ulipita, [], "tense ya tog").
+entry(toggery, n, [toggeries], "mavazi").
+kiingilio(togging, ya_sasa, [], "kitenzi cha tog cha ushirika").
+entry(toggle, v, [toggled,toggling,toggles], "kufunga kwa aina ya pini au fimbo fupi").
+ingia(toggler, n, [togglers], "mmoja anayegeuza").
+entry(togue, n, [togues], "samaki wa maji baridi").
+entry(nguya, k, [alifanya kazi kwa bidii,anafanya kazi kwa bidii,anafanya kazi kwa bidii], "kufanya kazi kwa bidii").
+kiingilio(kitambaaSafi, n, [vitambaaSafi], "kitambaa laini cha kitani").
+entry(mtumwa, n, [watumwa], "mmoja anayefanya kazi kwa bidii").
+entry(msalani, v, [msalanid, msalaning, msalani], "kujivalisha na kujipamba").
+entry(toiletry, n, [vifaa vya kujitunza], "kifaa kinachotumika katika kujitunza na kujipamba").
+entry(msalani, n, [vyoo], "kitendo cha kuvalia na kujitunza").
+entry(ngumu, kiv, [], "iliyotumia nguvu nyingi").
+entry(ngumu, kivumishi, [], "inahitaji juhudi nyingi").
+entry(toilworn, adj, [], "imechoka kwa kazi ngumu").
+entry(toit, k, [toited,toiting,toits], "kupiga mihangaiko").
+Andika(tokamak, n, [tokamaks], "reakta ya nyuklia yenye umbo la donati").
+ingizo(tokay, n, [tokays], "gekko wa Malaysia").
+entry(toke, k, [toked,toking,tokes], "kufuta kikohozi kwenye sigara ya bangi").
+entry(token, v, [tokened,tokening,tokens], "kutumika kama ishara ya").
+entry(ukweli, n, [ukweli], "sera ya kufanya juhudi za juu juu tu").
+kiingilio(toker, n, [tokers], "anayevuta").
+entry(toking, wakati_wa_sasa, [], "kitenzi kishirikishi cha toke").
+entry(tokology, n, [tokologies], "tokologia").
+ingizo(tokomak, n, [matokomak], "tokamak").
+entry(tokonoma, n, [tokonomas], "kibanda kidogo ndani ya nyumba ya Kijapani").
+ingizo(tola, n, [tolas], "kipimo cha uzito kinachotumika nchini India").
+entry(tolan, n, [matolani], "kiwanja cha kemikali").
+entry(tolane, n, [tolanes], "tolan").
+entry(tolar, n, [tolari], "au TOLARJEVikiwa ni kitengo cha zamani cha fedha cha Slovenia").
+kiingilio(gereza, n, [magereza], "gereza").
+entry(kuliambia, wakati_ulipita, [], "wakati wa kusema").
+ingizo(tole, v, [toled, toling, toles], "kuvutia").
+kiingilio(toledo, n, [toledos], "upanga uliosuguliwa vizuri").
+entry(tolerant, kivumishi, [], "mwenye mwelekeo wa kuvumilia").
+entry(vumilia, k, [vumiliwa, kuvumilia, huvumilia], "kukubali bila upinzani wa wazi").
+entry(toleware, n, [tolewares], "vitu vilivyotengenezwa kwa karatasi ya chuma iliyopambwa kwa mapambo").
+entry(tolidin, n, [tolidins], "tolidine").
+entry(tolidine, n, [matolidini], "kiwanja cha kemikali").
+entry(toling, ya sasa, [], "kitenzi cha tole").
+ingizo(toll, v, [tolled,tolling,tolls], "kukusanya au kutoza ada ya huduma au fursa").
+entry(tollage, n, [tollages], "kodi ya barabara").
+kiingilio(tollbar, n, [tollbars], "lango la ushuru").
+entry(toll kwenyeomboleza, n, [wakurugbani], "mkusanya wa tozo").
+ingia(tollgate, v, [tollgated,tollgating,tollgates], "kuzuia mpango wa biashara kusubiri malipo ya rushwa").
+entry(tolling, n, [tollings], "ukusanyaji wa ushuru").
+kiingilio(tollman, n, [tollmen], "mtoza ushuru").
+entry(barabara_ya_kulipia, n, [barabara_za_kulipia], "barabara ambayo ada za barabara zinakusanywa").
+entry(tolt, n, [tolts], "kilima kilichotengwa").
+entry(tolu, n, [tolus], "utambi wa harufu nzuri").
+entry(toluate, n, [toluates], "chumvi ya kemikali").
+entry(toluini, n, [matoluini], "kimiminika kinachoweza kuwaka").
+ingizo(toluic, kiv, [], "inahusu mojawapo ya asidi nne za isoma zilizotokana na toluini").
+ingizo(toluid, n, [matoluids], "toluide").
+entry(toluide, n, [toluides], "amidi").
+entry(toluidin, n, [toluidini], "amino").
+entry(toluoli, n, [toluoli], "toluini").
+entry(toluoli, n, [matoluoli], "toluol").
+entry(toluyl, n, [toluyls], "radikali ya kemikali yenye valensi moja").
+entry(tolili, n, [tolilis], "radikali ya kemikali yenye uwiano mmoja").
+kiingilio(tom, n, [tomu], "mwanaume wa wanyama mbalimbali").
+entry(tomahawk, v, [kutomahokiwa, kutomahokiwakatiwa, tomahoki], "kushambulia kwa shoka nyepesi").
+entry(tomalley, n, [tomalleys], "ini la kamba").
+ingizo(toman, n, [tomans], "sarafu iliyotumika zamani ya Iran").
+entry(tungule, n, [matungule], "tunda lenye nyama linaloliwa la mmea wa kudumuTUNGULEY adj").
+ingizo(kaburi, v, [kaburiwa, kukaburi, makaburi], "kuweka kwenye kaburi kaburi au chumba cha mazishi").
+entry(tombac, n, [tombacs], "chengele ya shaba na zinki").
+entry(tomback, n, [tombacks], "tombac").
+entry(tombak, n, [matombak], "tombak").
+entry(tombal, adj, [], "kuhusu kaburi").
+entry(tombless, kiv, [], "kutokuwa na kaburi").
+entry(tomblike, kiv, [], "inafanana na kaburi").
+kiingilio(tombola, n, [tombola], "mchezo wa kamari ambao ni aina ya bahati nasibu").
+entry(tombolo, n, [matombolo], "mwamba wa mchanga unaounganisha kisiwa na bara").
+entry(tomboy, n, [tomboys], "msichana anayependelea shughuli za kiume").
+entry(tomcat, v, [tomcatted,tomcatting,tomcats], "kujishughulisha na tabia ya uasherati wa kingono inayotumiwa na mwanaume").
+ingizo(tomcod, n, [tomcods], "samaki wa baharini").
+ingizo(tome, n, [vitabu_vikubwa], "kitabu kikubwa").
+entry(tomentum, n, [tomenta], "mtandao wa mishipa midogo ya damu").
+maingizo(mpumbavu, n, [wapumbavu], "mtu mpumbavu").
+entry(tommy, n, [tommies], "kipande cha mkate").
+kiingilio(tommycod, n, [tommycods], "tomcod").
+ingizo(tommyrot, n, [tommyrots], "upuuzi").
+entry(tomogramu, n, [tomogramu], "picha iliyotengenezwa kwa eksirei").
+entry(kesho, n, [kesho], "siku inayofuata baada ya leo").
+entry(tompion, n, [tompions], "tampioni").
+entry(tomtit, n, [tomtits], "aina yoyote ya ndege wadogo wenye shughuli nyingi").
+entry(toni, n, [toni], "kipimo cha uzito").
+entry(saauti, kiv, [], "kuhusu toniKISAUTI kiv").
+entry(tonality, n, [tonalities], "mfumo wa toni").
+entry(tondo, n, [tondos], "au TONDI mchoro wa mviringo").
+ingizo(tone, v, [toned, toning, tones], "kutoa toni fulani sauti ya lami ya uhakika na mtetemo kwa").
+ingizo(mkono_wa_sauti, n, [mikono_ya_sauti], "sehemu ya mkononi ya kinasa sauti inayoshikilia sindano").
+entry(mwenye_toni_nyepesi, kiv, [], "kukosa toni").
+entry(toneme, n, [tonemes], "kitengo cha tania sautiTONEMIC kiv").
+ingizo(toner, n, [toners], "moja inayoburudisha").
+entry(tonetics, npl, [], "uchunguzi wa kifonetiki wa toni katika lughaTONETIC kiv").
+entry(tonette, n, [tonetes], "filimbi rahisi").
+entry(toney, adj, [], "TONIER TONIESTtony").
+kiingilio(tong, v, [tonged,tonging,tongs], "kuinua kwa aina ya kifaa cha kunyakua").
+ingizo(tonga, n, [tonga], "gari nyepesi linalotumiwa India").
+ingizo(tonger, n, [tongers], "anayetumia koleo").
+entry(tongman, n, [tongmen], "mwanachama wa jamii ya siri ya Kichina").
+entry(lugha, v, [lughalugha, kulugha, lugha], "kugusa na lugha kiungo cha mdomo").
+entry(tonguing, n, [tonguings], "matumizi ya ulimi katika kutamka noti kwenye ala ya upepo").
+entry(mwasho, n, [mwashos], "kitu kinachotia nguvu au kuburudisha").
+ingizo(ujelidi, n, [ujelidi], "hali ya kawaida ya afya mwilini").
+entry(tonier, linganishi, [], "ya toney na tony").
+entry(toniest, superlative, [], "ya kifahari na tajiri").
+entry(tonify, v, [tonified,tonifying,tonifies], "kuupa toni").
+entry(usiku_wa_leo, n, [usiku_uleo], "usiku wa sasa").
+entry(toning, sasa, [], "kitenzi cha tone").
+kiingilio(tonish, kiv, [], "kwa mtindoTONISHLY kiv").
+entry(tonlet, n, [tonlets], "sketi ya silaha za chuma").
+entry(uzito, n, [uzito], "uzito jumla kwa tani").
+entry(toni, n, [toni], "kipimo cha uzito").
+entry(tonneau, n, [tonneaus], "au sehemu ya nyuma ya viti ya gari").
+entry(tani, n, [tani], "kitu chenye uzito maalumu wa tani").
+entry(tonnish, kiv, [], "tonish").
+entry(tonsili, n, [tonsili], "kiungo cha limfuTONSILA kivumishi").
+entry(uguo kichwa, v, [ugua kichwa, kuuguo kichwa, ugoa kichwa], "kukata nywele za kichwa").
+entry(tontine, n, [tontines], "aina ya bima ya maisha ya pamoja").
+entry(tonus, n, [tonuses], "hali ya kawaida ya mvutano katika tishu za misuli").
+entry(tony, adj, [], "TONIER TONIESTmwenye mtindo").
+entry(too, kivumishi_kielegezi, [], "kwa kuongezea").
+ingia(toodle, v, [toodled,toodling,toodles], "kupiga kipenga").
+kiingizo(chukua, wakati_uliopita, [], "tense ya chukua").
+entry(chombo, v, [chomboed,chomboing,vifaa], "kutengeneza au kumaliza kwa kutumia chombo kifaa kinachotumika katika kazi ya mikono").
+entry(zana_ambatani, n, [zana_ambatani], "safu ya ikoni kwenye skrini ya kompyuta inayowasha kazi").
+entry(sanduku_la_vifaa, n, [masanduku_ya_vifaa], "sanduku la zana").
+entry(chomboo, n, [vichomboo], "kitu kinachotumika kufanya kazi").
+entry(toolhead, n, [vichwa_vitengo], "sehemu ya mashine").
+entry(zana, n, [zana], "mapambo yaliyofanywa kwa zana").
+entry(bila_zana, kiv, [], "kuwa bila zana").
+entry(toolpush, n, [toolpushes], "mfanyakazi anayeongoza uchimbaji kwenye mnara wa mafuta").
+entry(chumba_cha_vifaa, n, [vyumba_vya_vifaa], "chumba ambapo zana zinahifadhiwa").
+ingia(zana_seti, n, [zana_seti], "seti ya zana").
+entry(zana_ghala, n, [zana_maghalani], "jengo ambalo zana zinahifadhiwa").
+kiingilio(toom, kivumishi, [], "tupu").
+ingia(toon, n, [mitooni], "mti wa Kihindi Mashariki").
+ingia(toonie, n, [toonies], "sarafu ya dola mbili ya Kanada").
+kiingilio(piga, v, [ilipiga,inapiga,piga], "kupiga tarumbeta au filimbi kwa mipigo mifupi").
+kiingilio(tooter, n, [wapiga-tarumbeta], "mmoja anayepiga").
+entry(jino, n, [meno], "moja ya miundo migumu iliyoambatishwa kwenye utaratibu kwa kila taya").
+kiingilio(meno, k, [menye,mniye,meno], "kutoa michomo inayofanana na meno").
+entry(toothy, adj, [], "TOOTHIER TOOTHIESTkuwa na au kuonyesha meno makubwaTOOTHILY adv").
+entry(tootle, k, [liopiga upatu, kushughulika upatu, hupiga upatu], "kupiga upatu kwa upole au mara kwa mara").
+entry(tootler, n, [watu wanaopiga filimbi], "mmoja anayepiga filimbi").
+entry(toots, n, [tootses], "mwanamke au msichana kawaida hutumika kama njia ya kumuita").
+entry(tootsie, n, [vidole gumba vya miguu], "tootsy").
+ingizo(tootsy, n, [tootsies], "mguu").
+entry(juu, v, [kata_juu,kutoa_juu,vilele], "kukata sehemu ya juu sehemu ya juu kabisa au uso wa").
+entry(topazi, n, [topazi], "madini ya TOPAZINE kivumishi").
+entry(koti_la_juu, n, [makoti_ya_juu], "koti nyepesi la juu").
+entry(topcross, n, [topcrosses], "mzaliwa wa mchanganyiko kati ya dume safi na kundi la majike yasiyo ya njisi moja").
+entry(tope, v, [toped,toping,topes], "kunywa pombe kupindukia").
+entry(topee, n, [topees], "topi").
+entry(toper, n, [walevi], "anaye kunywa pombe kupita kiasi").
+entry(topful, adj, [], "topfull").
+entry(topfull, adj, [], "imejaa hadi juu").
+kiingilio(toph, n, [tophs], "tufa").
+entry(tophe, n, [tophes], "tufe").
+entry(tophus, n, [tophi], "uwekaji wa urati katika tishu karibu na kiungo").
+entry(kofia_ya_jua, n, [kofia_za_jua], "kipande cha kichwa cha jua").
+entry(topiary, n, [matopiari], "sanaa ya kukata miti kuwa maumbo").
+kiingilio(mada, n, [mijadala], "somo la mjadala").
+ingizo(topical, n, [topicals], "sahani ya posta katika mkusanyiko yenye miundo inayohusiana na mada sawa").
+entry(toping, kuwepo, [], "iwe ya kitenzi tope").
+entry(topkick, n, [topkicks], "sajini mkuu").
+entry(kinywele, n, [kinywele], "pambo la nywele").
+entry(topless, kiv, [], "hana kilele").
+entry(mstari_wa_juu, n, [mistari_ya_juu], "mstari wa juu wa mwili wa mnyama").
+entry(toplofty, adj, [], "TOPLOFTIER TOPLOFTIESTmwenye kiburi").
+entry(topmast, n, [topmasts], "mlingoti wa meli").
+entry(juu zaidi, kivumishi, [], "ya juu kabisa").
+kiingilio(kisawasawa, kivumishi, [], "bora").
+kiingilio(juu, kivumishi, [], "topografiki").
+entry(topoi, wingi, [], "ya topos").
+weka(topolojia, n, [topolojia], "tawi la hisabati").
+ingizo(topenimu, n, [topenimu], "jina la mahali").
+entry(etimolojia ya mahali, n, [etimolojia za mahali], "usomeaji wa majina ya maeneo").
+entry(maudhui, n, [maudhui], "mada ya kawaida ya kiisimu").
+ingizo(jina_juu, n, [majina_juu], "kielelezo kilichochaguliwa kutoka eneo linaloonyesha kawaida ya aina").
+entry(topped, past, [], "kiwango cha juu").
+entry(topper, n, [vionjo], "moja anayeongoza").
+entry(topping, n, [vijaa], "kitu kinachounda sehemu ya juu").
+entry(topple, k, [ilipinduka,inapinduka,huwa inapinguka], "kuanguka mbele").
+entry(topsaili, n, [topsaili], "tanga la meli").
+entry(upande_wa_juu, n, [upande_wa_juu], "sehemu ya juu ya meli").
+entry(topsider, n, [topsiders], "mmoja aliye kwenye kiwango cha juu zaidi cha mamlaka").
+entry(topsoil, v, [topea, kumtoa, toas], "kuondoa safu ya juu ya udongo").
+entry(topspin, n, [topspins], "mzunguko wa mbele uliowekwa kwenye mpira").
+entry(mwamba_juu, n, [miamba_juu], "jiwe lililo juu ya muundo").
+entry(topwater, kivumishi, [], "kinachoota juu au karibu na juu ya maji").
+entry(topwork, v, [topworked, topworking, topworks], "kuchomeka chipukizi za aina nyingine ya mmea kwenye matawi makuu ya").
+entry(toque, n, [toques], "kofia inayoshikana ya wanawake").
+ingizo(toquet, n, [toquets], "toque").
+entry(toquilla, n, [toquillas], "mmea unaofanana na mtende wa Amerika Kusini").
+entry(tor, n, [tors], "kilima kikubwa cha miamba").
+entry(tora, n, [toras], "torati").
+entry(torah, n, [torahs], "au TOROTH au TOROTa sheria au amri").
+ingizo(torc, n, [torcs], "kikuku cha metali au mkufu").
+entry(tochi, v, [tochiwa, kuteketeza, matorchi], "kuchoma moto").
+entry(torchere, n, [mashubaka], "aina ya taa ya umeme").
+kiingilio(mwenge, n, [miwangwi], "toche").
+entry(mwangaza, kiv, [], "iliyowashwa na nguzo za tochi zenye mwisho unaowaka").
+entry(torchon, n, [torchons], "upindo mbovu").
+entry(torchy, kivumishi, [], "TORCHIER TORCHIESTinayojulikana kwa wimbo wa tochi").
+entry(tore, n, [tores], "torasi").
+entry(toreador, n, [matoreadori], "mpiganaji wa ng'ombe").
+entry(torero, n, [toreros], "mpiganaji wa ng'ombe").
+entry(toreutic, kiv, [], "kuhusu aina ya kazi ya metali").
+kiingilio(tori, pl, [], "ya mtorusi").
+entry(toric, n, [torics], "lenzi iliyoundwa kurekebisha ugonjwa wa astigmatism").
+entry(matorie, wng, [], "ya tory").
+entry(torii, n, [torii], "lango la hekalu la Kijapani").
+entry(kutesa, v, [alitesa,anatesa,wanatesa], "kusababisha mateso makubwa ya kimwili au kiakili").
+entry(torn, iliyopita, [], "kitenzi kielezi cha tear").
+entry(kimbunga, n, [vimbunga], "au VIMBUNGAshtormu ya upepo mkaliTORNADIC kivumishi").
+entry(tornillo, n, [tornillos], "kichaka chenye maua").
+entry(toro, n, [toros], "ng'ombe dume").
+entry(torodi, n, [torodi], "aina ya uso wa kijiometri TOROIDAL kiv").
+entry(torose, kivumishi, [], "mviringo na uliovimba katika vipindi").
+entry(torosity, n, [torosities], "hali au ubora wa kuwa na umbo la mviringo").
+kiingilio(torot, a, [], "wingi wa torah").
+entry(toroth, a, [], "wingi wa torah").
+entry(torous, adj, [], "torosi").
+entry(torpedo, v, [torpedoed,torpedoing,torpedoes], "au TORPEDOSharibu au kuzamisha na kombora la chini ya maji").
+entry(torpefy, v, [torpefied, torpefying, torpefies], "kufanya kuwa mzembe").
+ingizo(torpid, n, [torpids], "boti ya mashindano").
+entry(kwa_uvivu, kiv, [], "kwa namna ya uvivu").
+entry(torpor, n, [torpors], "kutokuwa na shughuli za akili au kimwili").
+entry(torquate, kiv, [], "ikiwa na torques").
+entry(torque, v, [torqued,torquing,torques], "kusababisha kuzunguka").
+entry(torquer, n, [vifungi], "mmoja anayekaza").
+kiingilio(torques, n, [torqueses], "kipande cha manyoya, nywele au rangi kuzunguka shingo").
+kiingilio(torquey, kivumishi, [], "TORQUIER TORQUIEST kutoa nguvu ya kusababisha mzunguko").
+entry(torr, n, [torrs], "kipimo cha shinikizo").
+entry(torrefy, v, [torrefied,torrefying,torrefies], "kuweka kwenye joto kali").
+entry(torrent, n, [torrents], "mkondo wa maji unaokwenda kwa kasi").
+entry(torrid, adj, [], "MOTO SANA MOTO KABISAMoto kupindukiaTAPIKU adv").
+ingizo(torrify, k, [torrified, torrifying, torrifies], "ku torrefy").
+entry(torsade, n, [torsades], "kamba iliyopindika").
+entry(torse, n, [torses], "taji ya vitambaa vilivyopindwa").
+kiingilio(torsi, a, [], "wingi wa sehemu ya juu ya mwili").
+entry(mkunjo, n, [mikunjo], "kitendo cha kuzungusha").
+entry(torsk, n, [torsks], "samaki wa baharini wa chakula").
+entry(torso, n, [torsos], "au TORSI sehemu ya mwili wa binadamu").
+kiingilio(shtaka, n, [mashtaka], "makosa ya kiraia").
+entry(torta, n, [], "pl TORTAS kitindamlo kikubwa").
+entry(keki, n, [keki], "au KEKI keki tajiri").
+entry(tortelli, npl, [], "vipande vya tambi vilivyojaa jibini, nyama, au mboga").
+entry(tortile, kiv, [], "iliyopotoka inayozunguka").
+entry(tortilla, n, [tortillas], "keki ya mviringo na bapa ya unga wa mahindi isiyo na chachu").
+entry(tortious, adj, [], "ya aina ya jinai").
+entry(kobe, n, [kobe], "any of an order of reptiles having the body enclosed in a bony shell").
+entry(tortoni, n, [tortonis], "aina ya barafu ya maziwa").
+entry(kiwavi, n, [viwavi], "au viwavitindikali nondo mdogo").
+entry(tortuous, kiv, [], "iliyo na miliko au kona nyingi").
+entry(kutesa, v, [kuteswa,kutesa,kutesa], "kusababisha maumivu makali ya kimwili").
+entry(mtesaji, n, [watesaji], "anayetesa").
+entry(torula, n, [torula], "au TORULAEaina ya kuvu").
+kiingilio(duara, n, [duara], "au TORUSESmfano mkubwa wa mstatili unayovimba").
+kiingilio(tory, n, [tories], "mfuasi wa siasa za kihafidhina").
+entry(tosa, n, [tosas], "mbwa wa jamii ya mastiff").
+kiingilio(tosh, n, [toshes], "upuuzi").
+entry(tupa, v, [tupa, kutupia, hutupa], "kutupa kwa upole").
+ingizo(tosser, n, [tossers], "mmoja anayepiga guu").
+entry(mlevi, n, [walevi], "mnywaji pombe kupindukia").
+ingizo(tossup, n, [tossups], "chaguo au nafasi sawa").
+entry(tost, a, [], "wakati uliopita wa kutupa").
+ingizo(tostada, n, [tostadas], "tortilla iliyokaangwa kwenye mafuta mengi").
+kiingilio(mkate-wa-samli, n, [mikate-ya-samli], "tostada").
+entry(tostone, n, [tostones], "chakula cha Kimeksiko cha ndizi mbichi zilizokaangwa").
+kiingizo(jumla, v, [katajumlisha,kujumlisha,majumuisho], "kujumlisha").
+entry(totable, adj, [], "uwezo wa kubebwa").
+entry(jumla, v, [imejumlishwa, inavyojumlishwa, jumla], "au KUJUMULISHA KUJUMULISHA KUJUMULISHWA ili kuthibitisha jumla yote ya").
+entry(jumlisha, k, [jumlishwa,jumlisha,jumlisha], "kujumlisha").
+entry(totalism, n, [totalisms], "udhibiti wa kati na mamlaka ya kiimla").
+entry(totalist, n, [totalists], "mmoja anayependa kuona mambo kama kitu kilichounganika").
+kiingilio(ukamilifu, n, [ukamilifu], "ubora au hali ya kuwa kamili").
+entry(totalize, v, [jumlishwa,jumlisha,kujumlisha], "kufanya kamili").
+entry(totalled, a, [], "kipindi kilichopita cha jumla").
+entry(totalling, a, [], "kiimbishi kinachoweza kuweka jumla ya").
+kiingilio(kabisa, kiv, [], "kikamilifu").
+entry(tote, v, [toted,toting,totes], "kubeba kwa mkonoTOTEABLE kivumishi").
+kiingilio(totem, n, [matotem], "kitu cha asili kinachotumika kama nembo ya familia au kabilaTOTEMIC kiv").
+entry(utotemizimu, n, [utotemizimu], "mfumo wa mgawanyiko wa kikabila kulingana na totemu").
+entry(mtaalamu_wa_vinyago, n, [wataalamu_wa_vinyago], "mtaalamu wa masuala ya vinyago").
+entry(totemite, n, [totemites], "mfuasi wa nguzo").
+entry(toter, n, [mabebaji], "moja inayobeba").
+ingizo(tother, kiwakilishi, [], "yule mwingine").
+entry(toting, hali_iliyopo, [], "kitenzi kikubwa cha tote").
+ingizo(totted, zamani, [], "kilezi cha tot").
+entry(kupepesuka, v, [kupepesuka, kupepesuka, kupepesuka], "kutembea kwa kuyumba").
+entry(mtetemeki, n, [wateke-niti], "mtu anayetetemeka").
+entry(tottery, adj, [], "tetemeka").
+kiingilio(totting, hali_ya_sasa, [], "kirai cha kutot").
+kiingilio(toucan, n, [zuwena], "ndege wa kitropiki").
+entry(gusa, v, [aligusa,akigusa,hugusa], "kuwa katika au kuingia katika mawasiliano na").
+entry(gonga, kihisishi, [], "inayotumika kukubali mpigo katika mchezo wa fencing").
+entry(toucher, n, [touchers], "moja anayegusa").
+entry(touchpad, n, [padi za kugusa], "kipadi kinachoonekana kwa mguso au shinikizo la kidole").
+kiingilio(kuboresha, n, [maboresho], "kitendo cha kumalizia kwa kuongeza maboresho madogo").
+entry(touchy, kivumishi, [], "TOUCHIER TOUCHIESTnyeti kupita kiasiTOUCHILY kivielezi").
+entry(ngumu, kivumishi, [], "NGUMU ZAIDI NGUMU SANA mng'ang'anifu na thabiti").
+kiingilio(ngumu, k, [ngumuwa,ngumua,ngumu], "kustahimili magumu").
+entry(kufanya_ngumu, k, [ilifanya_ngumu, inafanya_ngumu, inafanya], "kufanya ngumu").
+entry(toughie, n, [toughies], "mtu mgumu").
+entry(toughish, kiv, [], "kwa kiasi fulani kigumu").
+entry(toughly, adv, [], "kwa njia ngumu").
+entry(toughy, n, [toughies], "toughie").
+entry(kinywele_bandia, n, [vinywele_bandia], "nywele bandia inayovaliwa kufunika sehemu yenye upara").
+entry(toupie, n, [toupies], "kitoweo cha pingu kisicho na mfupa").
+entry(tour, v, [safari,safiri,ziara], "kusafiri kutoka sehemu moja hadi nyingine").
+entry(touraco, n, [touracos], "ndege wa Kiafrika").
+entry(tourer, n, [tourers], "gari kubwa la wazi").
+kiingilio(kuzuru, n, [kuzuru], "uchawi wa nchi kwa raha").
+kiingilio(turukikiasi, n, [turukikiasi], "the practice of touring for pleasure").
+ingia(msafiri, n, [wasafiri], "mwenye kutembelea sehemu kwa furaha, MSAFIRINA adj").
+kiingizio(mtembeaji, n, [watembeaji], "turista").
+entry(tourney, v, [tourneyed,tourneying,tourneys], "kushindana kwenye mashindano").
+ingizo(touse, v, [toused,tousing,touses], "kunyong'onya").
+entry(tousle, v, [tousled,tousling,tousles], "kuchanua nywele").
+entry(tout, v, [touted,touting,touts], "kutafuta kwa ujasiri").
+entry(touter, n, [touters], "mmoja anayefanya biashara ya kujitangaza").
+entry(touton, n, [toutons], "kipande cha mkate wa donati kilichokaangwa").
+entry(touzle, v, [touzled,touzling,touzles], "kuvurutavuruta").
+entry(tovarich, n, [tovariches], "rafiki").
+entry(tovarish, n, [tovarishes], "rafiki").
+entry(vuta, k, [vuta, kuvuta, huvuta], "kuvuta kwa kamba au mnyororo").
+entry(kupiga mbizi, n, [kupiga mbizi], "bei inayolipwa kwa kuburuta").
+entry(kuelekea, kihusishi, [], "kwenye mwelekeo wa").
+entry(towardly, adj, [], "ya kupendeza").
+entry(kuelekea, prep, [], "toward").
+entry(kuondoa_gari, n, [kuondolewa_magar], "kitendo cha kuondoa gari kwa kuvuta").
+entry(boti_ya_kupiga_ndege, n, [maboti_ya_kupiga_ndege], "boti ya kuburuta").
+entry(taulo, v, [taulika, utaulika, taulos], "au TAULIKA UTAULIKA TAULOS kufuta kwa taulo kitambaa chenye kunyonya").
+entry(kitambaa, n, [vitambaa], "nyenzo inayotumika kwa taulo").
+kiingilio(mnara, k, [minara, minarisha, minarisha], "kupanda kwa kimo kikubwa").
+entry(towery, adj, [], "MREFU SANA").
+entry(towhead, n, [towheads], "kichwa cha nywele za njano za rangi ya mwanga").
+entry(towhee, n, [towhees], "ndege wa kawaida").
+kiingilio(towie, n, [towies], "aina ya mkataba wa daraja kwa wachezaji watatu").
+maingizo(kuvuta, ya sasa, [], "participle ya kuvuta").
+entry(towline, n, [towlines], "kamba inayotumika kuvuta").
+entry(mwaka, n, [miaka], "mwaka").
+ingizo(towmont, n, [towmonts], "towmond").
+ingizo(mji, n, [miji], "kitovu cha idadi ya watu kilicho kidogo kuliko jiji").
+ingizo(mwanakijiji, n, [wanakijiji], "mwanakijiji").
+entry(wakazi_wa_mji, npl, [], "wakazi wa mji").
+ingizo(townhome, n, [townhomes], "moja ya mfululizo wa nyumba zilizoungana za sakafu mbili au tatu").
+entry(townie, n, [townies], "mwenyeji wa mji wa chuo ambaye si mwanafunzi").
+kiingilio(mwenyekiji, w, [], "wa mwenyekiji").
+entry(townish, kiv, [], "sifa ya mji").
+entry(townless, kiv, [], "kuwa na miji hakuna").
+ingizo(kijiji_kidogo, n, [vijiji_vidogo], "mji mdogo").
+entry(mji, n, [miji], "mgawanyiko wa kiutawala wa kaunti").
+kiingilio(tovuti_ya_mji, n, [tovuti_za_mji], "eneo la mji").
+entry(mwanamji, n, [wanamji], "mkaaji wa mji").
+kiingilio(townward, kivumishi, [], "kuelekea mji").
+entry(townwear, n, [townwear], "mavazi yanayofaa kuvaliwa mjini").
+entry(towny, n, [townies], "mtu wa mji").
+ingizo(njia_ya_mbwawa, n, [njia_za_mbwawa], "njia kando ya mto inayotumiwa na wanyama kuvuta meli").
+entry(towplane, n, [towplanes], "ndege inayovuta glider").
+entry(kamba ya kuvuta, n, [kamba za kuvuta], "kamba inayotumika kuvuta").
+entry(towsack, n, [towsacks], "mfuko uliotengenezwa kwa kitambaa kisicho kipawa").
+ingizo(towy, kivumishi, [], "kufanana na nyuzi mbaya za katani au kitani").
+entry(ulimwengu wa sumu, n, [ulimwengu wa sumu], "ulimwengu wa sumuTOXAEMIC kivumishi").
+entry(toxemia, n, [toxemias], "hali ya kuwa na sumu kwenye damuTOXEMIC kiv").
+ingizo(sumaku, n, [sumakus], "dutu yenye sumu").
+entry(toxical, adj, [], "sumu").
+ingizo(sumaku mtoto, n, [sumaku watoto], "dutu yenye sumu").
+entry(sumu, n, [sumuzote], "ubora wa kuwa na sumu").
+ingizo(sum, n, [sumu], "dutu yenye sumu").
+kiingilio(sumaku, n, [sumaku], "sumu").
+entry(toxoid, n, [maambukizo], "aina ya sumu").
+ingizo(toi, v, [kujichezea, kuchezea, toizi], "kujiburudisha kana kwamba na chezeo, kifaa cha kuchezea mtoto").
+ingizo(toyer, n, [toyers], "moja ambaye anachezea").
+ingizo(kibahatibahati, kiv, [], "kichochezi").
+kiingilio(ufenisi, n, [ufenisi], "sekta ya vinyago").
+entry(toyless, adj, [], "bila toy").
+entry(kama-toi, kiv, [], "inafanana na toy").
+entry(toyo, n, [toyo], "mwamvuli laini unaotumika kutengeneza kofia").
+kiingilio(toyon, n, [toyoni], "msitu wa kijani milele wa mapambo").
+entry(duka_la_vitolea, n, [maduka_ya_vitolea], "duka ambapo vitolea vinauzwa").
+entry(jiji_la_watoto, n, [mijiji_ya_watoto], "mfano mdogo wa jiji").
+entry(trabeate, kiv, [], "imejengwa na mihimili ya mlalo").
+kiingilio(fuatilia, v, [fuatilizi,fuatilizia,fuatilia], "kufuatilia mwelekeo wa").
+entry(tracer, n, [wafuatiliaji], "anayefuatilia").
+ingizo(mapambo, n, [mapambo], "kazi ya mapambo ya mistari iliyofumwa").
+ingia(trachea, n, [tracheas], "au TRACHEAE njia ya kusafirisha hewa kwenye mapafu TRACHEAL kivumishi").
+entry(tracheid, n, [tracheids], "seli ndefu ya mimea ya umbo la bomba").
+entry(trachle, v, [trachled,trachling,trachles], "kokota").
+kiingilio(trakoma, n, [matrakoma], "ugonjwa wa jicho").
+entry(trachyte, n, [trachytes], "mwamba mwepesi wa igneous").
+uingizo(uchunguzi, n, [uchunguzi], "kitu ambacho kimefuatiliwa").
+entry(track, v, [fuatilia,fuatiliaji,fuatilias], "kufuata alama zilizowachwa na mnyama mtu au gari").
+entry(trackage, n, [trackages], "mfumo wa reli").
+kiingilio(barabara_ya_treni, n, [barabara_za_treni], "sehemu inayoshikilia reli").
+kiingilio(tracker, n, [tracker], "anayefuatilia").
+kiingilio(ufuatiliaji, n, [ufuatiliaji], "uwekaji wa wanafunzi ndani ya mtaala").
+ingizo(trackman, n, [trackmen], "mfanyakazi wa reli").
+kiingilio(kipanya_nyayo, n, [vipanya_nyayo], "kipanya cha kugusa").
+kiingilio(njia, n, [njia], "njia iliyokanyagwa").
+entry(sehemu, n, [sehemu], "eneo la ardhi").
+entry(makubaliano, n, [makubaliano], "kitabu cha mafunzo").
+entry(tractile, adj, [], "uwezo wa kunyooshwa kwa urefu").
+entry(traction, n, [tractions], "kitendo cha kuvuta au kuvuta juu ya usoTRACTIVE adj").
+entry(trekta, n, [trekta], "gari la injini linalotumika katika kilimo").
+entry(tractrix, n, [tractrices], "kivimblilio cha hisabati").
+entry(trad, kivumishi, [], "kienyeji").
+entry(badilisha, v, [badilishana, kubadilishana, hubadilishana], "kupeana kubadilishana na bidhaa nyingineKINACHOWEZA KUBADILISHWA kiv").
+kiingilio(mabadilishano, n, [mabadilishano], "kukubali kupoteza kitu kimoja ili kupata kingine").
+entry(mfanyabiashara, n, [wafanyabiashara], "anayefanya biashara").
+entry(biidhaa, n, [biidhaaMbaliMbali], "kitendo cha kubadilishana bidhaa").
+entry(msaliti, n, [wasaliti], "msaliti miongoni mwa Wakristo wa mapema").
+entry(fitini, k, [fitini, fitini, fitini], "kukashifu").
+entry(mtangazaji, n, [watangazaji], "anayechafua jina").
+entry(traffic, v, [kusafirisha, akusafirisha, wasafirisha], "kujishughulisha na kununua na kuuza").
+ingia(msiba, n, [misiba], "tukio la kutisha").
+entry(tragi, pl, [], "ya tragus").
+entry(tragic, n, [tragics], "kipengele cha tamthilia kinachosababisha msiba").
+entry(tragical, adj, [], "ya asili ya msiba").
+entry(tragopan, n, [tragopani], "shamure wa Asia").
+entry(tragus, n, [tragi], "sehemu ya ufunguzi wa nje wa sikio").
+entry(traik, k, [traikai, traikzaji, traikz], "kutembea kwa shida").
+entry(trail, v, [vuta, kuvuta, vuta], "kuzurura juu ya uso").
+entry(trela, v, [trelawekwa,trelaking,telap]", "kuchukua kwa njia ya trela gari linalovutwa na lingine").
+entry(gari, v, [imedhibitiwa, mafunzo, treni], "kufundisha kwa utaratibu").
+entry(mwanafunzi, n, [wanafunzi], "mtu anayepokea mafunzo").
+entry(mfunzaji, n, [wafunzaji], "anayefundisha").
+entry(trainful, n, [trainfuls], "kadiri gari la reli linavyoweza kubeba").
+kiingilio(mafunzo, n, [mafunzo], "maelekezo ya kimfumo").
+entry(mfanyakazi_wa_treni, n, [wafanyakazi_wa_treni], "mfanyakazi wa reli").
+entry(reli, n, [reli], "njia ya reli").
+entry(tafta, v, [taftat,taftana,tafta], "kutembea kwa namna ya uvivu au bila mwelekeo maalum").
+kiingilio(sifa, n, [sifa], "tabia inayotofautisha").
+kiingilio(msaliti, n, [wasaliti], "yule anayemsaliti mwingine").
+ingizo(traject, v, [trajected,trajecting,trajects], "kusambaza").
+entry(tram, v, [trammed,tramming,trams], "kusafirisha kwa tramcar").
+kiingizo(tramcar, n, [tramcars], "gari la barabarani").
+kiingilio(tramel, v, [trameled,trameling,tramels], "au TRAMELLED TRAMELLING TRAMELSto trammel").
+kiingilio(tramell, k, [tramellad,tramellain,tramella], "kutramel").
+entry(tramless, adj, [], "kutokuwa na tramu").
+kiingilio(tramline, n, [tramlines], "njia ya gari la moshi la mitaani").
+uji(trammed, wakati_ulio_pita, [], "hali ya zamani ya tram").
+ingizo(trammel, v, [trammeled, trammeling, trammels], "au TRAMMELLED TRAMMELLING TRAMMELS kuzuilia").
+kiingilio(kuendesha_gari_la_abiria, wakati_uliopo, [], "kitenzi kishiriki cha gari la abiria").
+kiingilio(tramp, v, [tramped,tramping,tramps], "kutembea kwa hatua imara na nzito").
+entry(tramper, n, [waendao kwa miguu], "mmoja anayetembea kwa miguu").
+entry(trampish, adj, [], "kufanana na mhuni").
+entry(kukanyaga, k, [alikanyaga, anakanyaga, atakanyaga], "kukanyaga kwa uzito").
+entry(kanyagaaji, n, [wakanyagaaji], "mmoja anayekanyaga").
+entry(trampy, kiv, [], "TRAMPIER TRAMPIESTikiwa na sifa za ombaomba").
+entry(tramroad, n, [tramroads], "reli ya mgodini").
+entry(tramway, n, [tramways], "njia ya tramu").
+entry(trance, v, [tranced,trancing,trances], "kuweka katika hali ya nusu fahamu").
+ingia(kipande, n, [vipande], "sehemu").
+entry(trangam, n, [trangams], "kitu cha mapambo").
+ingizo(trank, v, [tranked,tranking,tranks], "kutuliza").
+ingia(trannie, n, [matrannie], "tranny").
+entry(trani, n, [matrani], "usalama wa mawasiliano").
+kiingilio(tranq, n, [tranqs], "trank").
+entry(tranquil, kivumishi, [], "YA ULIYO KAMA SAKO AYO MAZA SANA KAMA SAKO KAMA SAKO MPAKA MPAKA HAKUNA USUMBUFU").
+entry(trans, adj, [], "ina sifa ya mpangilio wa atomi tofauti kwenye pande zinazopingana za molekuli").
+entry(fanya, k, [iliyofanyika,inayofanyika,hufanya], "kutekeleza").
+entry(transect, v, [kulazima, ukataji, hukatika], "kukata kupitia").
+entry(kipengele_cha_kanisa, n, [vipengele_vya_makanisa], "sehemu kuu iliyokatiza mwili wa kanisa").
+kiingilio(hamisha, v, [ilhamishwa,ikihamisha,uhamishaji], "kupeleka kutoka chanzo kimoja hadi kingine").
+entry(transfix, v, [kutoboa, kutoboa, kutoboa], "kuchoma").
+entry(tranship, v, [transhipped,transhipping,tranships], "kuhamisha kutoka usafiri mmoja hadi mwingine").
+kiingilio(transit, v, [ilipita,ikipita,inapita], "kupita na kuvuka au kupitia").
+entry(tuma, k, [ilitumwa,inatumwa,inatuma], "kutuma kutoka sehemu moja au mtu mmoja hadi mwingine").
+entry(transom, n, [transoms], "dirisha dogo juu ya mlango au dirisha lingine").
+entry(transude, k, [transuded,transuding,transudes], "kupita kupitia utezi").
+kiingilio(mtego, v, [mtego, kunasa, mitego], "kunasa katika mtego kifaa cha kukamata na kushikilia wanyama").
+entry(trapan, v, [trapanned,trapanning,trapans], "kufanya trephine").
+entry(trapball, n, [trapballs], "aina ya mchezo wa mpira").
+entry(mlango_wa_kuteleza, n, [milango_ya_kuteleza], "mlango unaoinuka au kuteleza kufunika tundu").
+kiingilio(trapes, v, [trapesed, trapesing, trapeses], "kutembea polepole").
+kiingilio(trapezi, n, [trapezi], "zana ya mazoezi ya viungo").
+entry(trapezia, npl, [], "poligoni za pande nne zisizo na pande sambamba").
+entry(trapezii, npl, [], "misuli ya pembetatu ya mgongo").
+entry(mfanolike, kiv, [], "inafanana na mtego").
+ingizo(mstari_wa_mitego, n, [mistari_ya_mitego], "mfululizo wa mitego").
+entry(trapnest, k, [trapnested,trapnesting,trapnests], "kuamua uzalishaji wa kuku na aina ya kiota").
+entry(trappean, kiv, [], "kuhusu jiwe la mtego").
+kiingilio(trapped, a, [], "nyakati zilizopita za mtego").
+entry(mtega, n, [watega], "anayenasa").
+entry(trapping, n, [trappings], "kifuniko cha farasi").
+entry(trappose, kiv, [], "trappean").
+entry(trappousi, kiv, [], "trappean").
+entry(traprock, n, [traprocks], "mwamba wa moto").
+kiingilio(trapt, a, [], "tafuta ya wakati uliopita ya trap").
+kiingilio(trapunto, n, [trapuntos], "muundo wa kupamba wa uchunguzaji").
+entry(taka, k, [takataka, kutaka, hutaka], "kuondoa taka au mabaki yasiyofaa").
+entry(mharibifu, n, [waharibifu], "anayeharibu au kuharibu").
+entry(mtu_wa_takataka, n, [watu_wa_takataka], "mtu ambaye huondoa takataka").
+entry(takataka, kivumishi, [], "TAKATAKAZAIDI TAKATAKAKABISA kufanana na takaKIVIVYO adv").
+entry(trass, n, [trasses], "mwamba wa volkeno").
+kiingilio(trauchle, k, [trauchled, trauchling, trauchles], "kuchosha").
+entry(msongo wa mawazo, n, [misongo ya mawazo], "au TRAUMATA pigo kubwa la kihisia").
+entry(travail, v, [travailed,travailing,travails], "kufanya kazi kwa bidii").
+entry(trave, n, [traves], "fremu la kumfunga farasi").
+entry(safiri, v, [safiri,safiri,safiri], "au SAFIRI SAFIRI SAFIRI kwenda kutoka sehemu moja hadi nyingine").
+entry(msafiri, n, [wasafiri], "anayesafiri").
+entry(safari, n, [safaris], "mhadhara au filamu kuhusu kusafiri").
+entry(elekea, k, [enyelekeza, kuelekea, zinginelekea], "kupitia au kupitia").
+entry(kejeli, v, [kejeliwa,kujikejeli,kejeli], "kuchekesha kwa kuiga").
+entry(travois, n, [travoises], "aina ya kuteleza kwenye barafu").
+entry(travoise, n, [travoises], "travois").
+entry(trawl, v, [trawled,trawling,trawls], "kufanya uvuvi kwa kuvuta wavu chini ya bahari").
+kiingilio(trawler, n, [trawlers], "boti inayotumika kuvua kwa wavu").
+ingizo(trawley, n, [trawleys], "gari dogo au lori kwa kubeba vifaa").
+kiingilio(trawlnet, n, [trawlnets], "nyavu kubwa inayotumika katika uvuvi wa kukokota").
+ingizo(bakuli, n, [mabakuli], "mpokezi bapa na kifupi").
+entry(trayf, kiv, [], "haijaandaliwa kulingana na sheria za Kiyahudi").
+entry(trayful, n, [trayfuls], "uzito ambao sinia inaweza kubeba").
+kiingizio(treacle, n, [treacles], "molasses").
+kiingilio(treacly, kivumishi, [], "TREACLIER TREACLIESTinayofyonza tamu na yenye hisia nyingi").
+ingia(tambia, v, [tambiatambiatwa, kutambiatulia], "TAMBIAb kuelekea juu au pamoja").
+kiingilio(treader, n, [treaders], "anayekanyaga").
+kiingilio(treadle, k, [treadled,treadling,treadles], "kutumia peda ya mguu").
+entry(treadler, n, [treadlers], "anayekanyaga").
+entry(uhaini, n, [uhaini], "uvunjaji wa uaminifu kwa nchi ya mtu").
+kiingiliohazina(treasure, v, [treasured,treasuring,treasures], "kuthamini kwa kiwango cha juu").
+ingizaji(hazina, n, [hazina], "mahali ambapo fedha hupokelewa, huhifadhiwa na hutolewa").
+entry(tibu, k, [litibu, kutibu, tibu], "kufanya kwa njia fulani kuelekea").
+entry(mwenye_kutibu, n, [wenye_kutibu], "mmoja anayekutibu").
+entry(kutibu, n, [kutibu], "kitendo cha kumpa mtu kitu cha kuwafurahisha").
+entry(tasnifu, n, [tasnifu], "maelezo rasmi na ya kimfumo yaliyoandikwa kuhusu somo fulani").
+entry(mkataba, n, [mikata], "makubaliano rasmi kati ya mataifa mawili au zaidi").
+kiingilio(treble, v, [trebled, trebling, trebles], "kuongeza mara tatu").
+entry(trebly, kivumishi_kielezi, [], "mara tatu").
+entry(trecento, n, [trecentos], "karne ya kumi na nne").
+kiingilio(treddle, v, [treddled, treddling, treddles], "kusokota").
+entry(mti, v, [mtind,mtining,miti], "kuendesha mti mrefu mmea wa kuni").
+kiingilio(mwambani, n, [miambani], "kijisehemu cha nyasi kati ya barabara na njia ya watembea kwa miguu").
+entry(bila_mti, kivumishi, [], "hana mti").
+entry(mfanowe, kivumishi, [], "kama mti").
+entry(treeline, n, [treelines], "ukomo wa kaskazini ambapo miti haikui").
+entry(mti, n, [miti], "kipande kilichotengenezwa kwa mbao").
+entry(treenail, n, [treenails], "mti wa mbao unaotumika kufunga mbao").
+entry(mwisho_wa_mti, n, [miisho_ya_miti], "juu ya mti").
+entry(tref, adj, [], "haifai kwa matumizi kwa mujibu wa sheria ya Kiyahudi").
+entry(trefah, kiv, [], "tref").
+entry(trelifoi, n, [matrelifoi], "mmea wenye majani matatu").
+entry(trehala, n, [trehalas], "dutu tamu inayokula inayounda casing ya pupa ya mdudu fulani wa mkojo").
+entry(safiri, v, [alisafiri,anasafiri,safiri], "kufanya safari polepole au ngumu").
+entry(trekker, n, [wanaotembea], "anayesafiri kwa miguu").
+ingizo(trellis, v, [trellised, trellising, trellises], "kutoa trellis fremu inayotumiwa kama msaada kwa mimea inayopanda").
+entry(trem, n, [trems], "sehemu ya gitaa la umeme inayotumika kutengeneza mtetemo").
+entry(tingika, k, [ilitikisika, kutikisika, inatikisika], "kutetemeka bila hiari").
+entry(mtikisaji, n, [watikisaji], "anayetikisika").
+entry(tetemeko, n, [matetemeko], "tetemeko la ardhi").
+entry(trembly, kivumishi, [], "TREMBLIER TREMBLIESTiliyowekwa na kutetemeka").
+entry(tremolo, n, [tremolos], "athari ya mtetemo ya muziki").
+ingizo(tetemeko, v, [ilitikisa,inatikisa,mitetemo], "kupitia mtikisiko au kutikisika").
+entry(trenail, n, [mabondu], "msingi wa mti").
+entry(trench, v, [trenched,trenching,trenches], "kufukua mfereji mrefu mwembamba ardhini").
+entry(trencher, n, [trenchers], "sahani ya mbao kwa ajili ya kutumikia chakula").
+entry(mwelekeo, v, [elekea, inavyoelekea, mielekeo], "kuchukua mwelekeo fulani").
+entry(trendify, v, [trendified,trendifying,trendifies], "kufanya kitu kuwa cha mtindo").
+kiingilio(trendoid, n, [trendoids], "mtu wa kisasa").
+entry(mwenye_mtindo, kivumishi, [], "MWENYE_MTINDO_ZAIDI MWENYE_MTINDO_ZAIDI_SANA mwenye mtindo sana MWENYE_MTINDO_KWA_MAKINI kivumishi_).
+entry(mwenye_mtindo, n, [wenye_mtindo], "mtu mwenye mtindo").
+entry(trepan, v, [trepanned,trepanning,trepans], "kufanya trephine").
+entry(trepang, n, [trepangs], "mnyama wa baharini").
+Andika(trephine, v, [trephined, trephining, trephines], "kufanya upasuaji kwa kutumia msumeno wa upasuaji").
+entry(trepid, adj, [], "mwoga").
+entry(kuvamia, k, [alivamia,anavamia,watavamia], "kuingia kwenye ardhi ya mwingine kinyume cha sheria").
+kiingilio(tress, k, [tressed,tressing,tresses], "kupanga nywele kuwa mikondo mirefu").
+entry(tressel, n, [tressels], "trestle").
+entry(tressour, n, [tressours], "shakhuba").
+entry(tressure, n, [tressures], "aina ya mchoro wa heraldic").
+entry(tressy, adj, [], "NYWELE TELE KUPITA KIASI").
+kiingilio(trestle, n, [trestles], "mfumo wa kusaidia daraja").
+ingizo(tret, nomino, [maret], "posho ya zamani iliyolipwa kwa wanunuzi kwa taka iliyopatikana kwenye usafiri").
+entry(trevally, n, [matrevalli], "au TREVALLYS samaki wa chakula wa Australia").
+entry(trevet, n, [trevets], "msaada wa sufuria moto").
+entry(trews, npl, [], "suruali za madoido zinazoshikana kwa karibu").
+entry(trey, n, [treys], "tatu kwenye kadi, kete, au dominos").
+entry(treyf, kiv, [], "trayf").
+entry(treyfa, kiv, [], "trayf").
+entry(triable, adj, [], "inaweza kuchunguzwa kisheria").
+kiingilio(triac, n, [triacs], "kifaa cha kielektroniki kinachotumika kudhibiti nguvu").
+entry(triacid, n, [triacids], "aina ya asidi").
+entry(triactor, n, [triactors], "triactor").
+kiingilio(triad, n, [triads], "kundi la watatu").
+entry(triadic, n, [triadics], "mwanachama wa utatu").
+entry(triadismu, n, [triadismu], "ubora au hali ya kuwa triad").
+entry(uchujaji, k, [uchujaji,"anaendelea kuchuja",uchuja], "kufanya mfumo wa kuhudumia waathirika wa maafa").
+entry(majaribio, v, [majaribu, kujaribu, majaribio], "au KUJARIBIA KUJARIBU MAFUNZOkujaribu kitu ili kutathmini utendaji wake").
+entry(mshiriki_wa_majaribio, n, [washiriki_wa_majaribio], "mtu anayeshiriki katika majaribio ya kitu").
+entry(pembetatu, n, [pembetatu], "poligoni yenye pande tatu").
+entry(triarchy, n, [triarchies], "serikali ya watu watatu").
+entry(triaxial, adj, [], "ikiwa na mhimili mitatu").
+entry(triazin, n, [triazini], "triaziini").
+entry(triazine, n, [triazines], "kiwanja cha kemikali").
+entry(triazole, n, [triazoli], "kiwanja cha kemikali").
+entry(tribade, n, [tribades], "msagaji, TRIBADIC kivumishi").
+entry(ukabila, n, [makabila], "mwanachama wa watu asilia wa India").
+entry(kiukoo, kivumishi, [], "kwa namna inayoonyesha sifa za kabila").
+entry(tribasic, adj, [], "kuwa na atomi tatu za hidrojeni zinazo badilishwa").
+entry(kabila, n, [makabila], "kundi la watu wanaoshiriki asili na utamaduni sawa").
+entry(mguu_mtatua, n, [migu_mtatua], "aina ya mguu wa kishairi").
+entry(mahakama, n, [mahakama], "mahakama ya haki").
+entry(mtetezi, n, [watetezi], "mtu anayepigania haki za watu").
+entry(kibali, n, [vibali], "kitu kinachotolewa kuonyesha heshima, shukrani, au kuvutiwa").
+entry(trice, v, [triced,tricing,trices], "kuvuta juu kwa kamba").
+ingia(tricep, n, [triceps], "trisepsi").
+entry(triceps, n, [tricepses], "misuli ya mkono").
+kiingilio(trichina, n, [trichinas], "au TRICHINAE mdudu wa always ").
+entry(trichite, n, [trichites], "mwili mdogo wa madini unaopatikana kwenye miamba ya volkeno").
+entry(trichoid, kiv, [], "halia").
+entry(trichome, n, [trichomes], "kijinywele kinachotokeza nje").
+entry(tricing, ya sasa, [], "kitenzi cha kusisimua cha trice").
+entry(tricity, n, [tricities], "eneo linalojumuisha miji mitatu inayopakana na kujitegemea").
+kiingizo(ujanja, k, [udanganyika,udanganyifu,udanganyaji], "kudanganya").
+entry(tricker, n, [wajanja], "anayepumbaza").
+entry(ujanja, n, [majuanjo], "udanganyifu").
+entry(trickie, kiv, [], "TRICKIER TRICKIESTtricky").
+kiingilio(trickier, linganishi, [], "ya kudanganya").
+entry(ngumu zaidi, ubora wa juu, [], "ya ngumu").
+entry(trickily, kielezi, [], "kwa njia ya ujanja").
+entry(trickish, kiv, [], "ya ujanja").
+kiingilio(tiririka, k, [ilitiririka, ikitiririka, inatiririka], "kudondoka au kutiririka kwa matone").
+entry(trickly, kivumishi, [], "TRICKLIER TRICKLIESTimejaa na kutiririka").
+entry(tricksy, kiv, [], "TRICKSIER TRICKSIESTmischievous").
+entry(mjanja, kiv, [], "MJANJAWAZI MJANJAMNO inajulikana na udanganyifu").
+entry(triclad, n, [triclads], "mdudu bapa wa majini").
+entry(tricolor, n, [tricolors], "bendera yenye rangi tatu").
+entry(tricorn, n, [tricorns], "kofia yenye ukingo uliopinda juu kwa pande tatu").
+entry(tricorne, n, [tricornes], "tricorni").
+entry(tricot, n, [tricots], "kitambaa kilichounganishwa").
+kiingilio(trictrac, n, [trictrac], "aina ya backgammon").
+entry(baisikeli_ya_magurudumu_matatu, v, [baisikeli_ya_magurudumu_matatued,baisikeli_ya_magurudumu_matatuing,baisikeli_ya_magurudumu_matatu], "kuendesha gari lenye magurudumu matatuTRIDENT").
+entry(uakari, n, [uakaris], "tumbili kutoka Amerika ya Kusini MONKEY u UBIQUITY n pl UBIQUITIES hali ya kuwa mahali pamoja WAKATI wakati wa kuwa mahali pekee").
+entry(fuatao, ni, [], "orodha ya vivumishi na vielezi vinavyojieleza vyenye kiambishi awali UN notUNABATED adjUNABLE adjUNABUSED adjUNACIDIC adjUNACTED adjUNADDED adjUNADEPT adjUNADULT adjUNAFRAID adjUNAGED adjUNAGEING adjUNAGILE adjUNAGING adjUNAGREED adjUNAIDED adjUNAIMED adjUNAIRED adjUNAKIN adjUNALIKE adjUNALLIED adjUNAMAZED adjUNAMUSED adjUNAPT adjUNAPTLY advUNARCHED adjUNARGUED adjUNARTFUL adjUNASKED adjUNATONED adjUNAVOWED adjUNAWAKE adjUNAWAKED adjUNAWARE adjUNAWED adjUNAXED adjUNBACKED adjUNBAKED adjUNBANDED adjUNBANNED adjUNBARBED adjUNBASED adjUNBASTED adjUNBATHED adjUNBEATEN adjUNBENIGN adjUNBIASED adjUNBILLED adjUNBITTED adjUNBITTEN adjUNBITTER adjUNBLAMED adjUNBLEST adjUNBLOODY adjUNBOBBED adjUNBOILED adjUNBONDED adjUNBONED adjUNBOOTED adjUNBORN adjUNBOUGHT adjUNBOUNCY adjUNBOWED adjUNBOWING adjUNBRED adjUNBRIGHT adjUNBROKE adjUNBROKEN adjUNBULKY adjUNBURNED adjUNBURNT adjUNBUSTED adjUNBUSY adjUNCALLED adjUNCANDID adjUNCANNED adjUNCARDED adjUNCARING adjUNCARTED adjUNCARVED adjUNCASHED adjUNCASKED adjUNCAST adjUNCATCHY adjUNCAUGHT adjUNCAUSED adjUNCEDED adjUNCHARY adjUNCHASTE adj UNCHASTER UNCHASTESTUNCHEWED adjUNCHIC adjUNCHICLY advUNCHOSEN adjUNCIVIL adjUNCLASSY adjUNCLAWED adjUNCLEAN adj UNCLEANER UNCLEANESTUNCLEAR adj UNCLEARER UNCLEARESTUNCLEFT adjUNCLOUDY adjUNCLOYED adjUNCOATED adjUNCODED adjUNCOINED adjUNCOMBED adjUNCOMELY adjUNCOMIC adjUNCOMMON adj UNCOMMONER UNCOMMONESTUNCOOKED adjUNCOOL adjUNCOOLED adjUNCOUTH adjUNCOY adjUNCRAZY adjUNCREWED adjUNCUFFED adjUNCURED adjUNCURSED adjUNCUT adjUNCUTE adjUNDAMPED adjUNDARING adjUNDATED adjUNDECKED adjUNDENIED adjUNDENTED adjUNDEVOUT adjUNDIMMED adjUNDOABLE adjUNDOCILE adjUNDOTTED adjUNDREAMT adjUNDRIED adjUNDUBBED adjUNDULLED adjUNDYED adjUNEAGER adjUNEARNED adjUNEATEN adjUNEDIBLE adjUNEDITED adjUNENDED adjUNENDING adjUNENVIED adjUNERASED adjUNEROTIC adjUNERRING adjUNEVADED adjUNEVEN adj UNEVENER UNEVENESTUNEVENLY advUNEXOTIC adjUNEXPERT adjUNFADED adjUNFADING adjUNFAIR adj UNFAIRER UNFAIRESTUNFAIRLY advUNFAKED adjUNFALLEN adjUNFAMOUS adjUNFANCY adjUNFAZED adjUNFEARED adjUNFED adjUNFELT adjUNFELTED adjUNFILIAL adjUNFILLED adjUNFILMED adjUNFIRED adjUNFISHED adjUNFLASHY adjUNFLAWED adjUNFLEXED adjUNFLUTED adjUNFOILED adjUNFOND adjUNFORCED adjUNFORGED adjUNFORKED adjUNFORMED adjUNFOUGHT adjUNFOUND adjUNFRAMED adjUNFUNDED adjUNFUNNY adj UNFUNNIER UNFUNNIESTUNFUSED adjUNFUSSY adj UNFUSSIER UNFUSSIESTUNGALLED adjUNGARBED adjUNGATED adjUNGAZING adjUNGELDED adjUNGENIAL adjUNGENTLE adjUNGENTLY advUNGIFTED adjUNGIVING adjUNGLAZED adjUNGOWNED adjUNGRACED adjUNGRADED adjUNGREEDY adjUNGROUND adjUNGUIDED adjUNHAILED adjUNHALVED adjUNHAPPY adj UNHAPPIER UNHAPPIESTUNHARMED adjUNHASTY adjUNHEALED adjUNHEARD adjUNHEATED adjUNHEDGED adjUNHEEDED adjUNHELPED adjUNHEROIC adjUNHEWN adjUNHIP adj UNHIPPER UNHIPPESTUNHIRED adjUNHOLILY advUNHOLY adj UNHOLIER UNHOLIESTUNHUMAN adjUNHUNG adjUNHURT adjUNIDEAL adjUNIMBUED adjUNIRONED adjUNIRONIC adjUNISSUED adjUNJADED adjUNJOINED adjUNJOYFUL adjUNJUDGED adjUNJUST adjUNJUSTLY advUNKEELED adjUNKEPT adjUNKIND adj UNKINDER UNKINDESTUNKINDLY adv UNKINDLIER UNKINDLIESTUNKINGLY adjUNKISSED adjUNKOSHER adjUNLAWFUL adjUNLEASED adjUNLED adjUNLETHAL adjUNLETTED adjUNLEVIED adjUNLICKED adjUNLIKE adjUNLIKED adjUNLIKELY adj UNLIKELIER UNLIKELIESTUNLINED adjUNLISTED adjUNLIT adjUNLIVELY adjUNLOBED adjUNLOVED adjUNLOVELY adj UNLOVELIER UNLOVELIESTUNLOVING adjUNLUCKY adj UNLUCKIER UNLUCKIESTUNMACHO adjUNMAILED adjUNMANFUL adjUNMANLY adj UNMANLIER UNMANLIESTUNMAPPED adjUNMARKED adjUNMARRED adjUNMATED adjUNMATTED adjUNMEANT adjUNMELLOW adjUNMELTED adjUNMENDED adjUNMERRY adjUNMET adjUNMILLED adjUNMINED adjUNMODISH adjUNMOLTEN adjUNMOVED adjUNMOVING adjUNMOWN adjUNNAMED adjUNNEEDED adjUNNOISY adjUNNOTED adjUNOILED adjUNOPEN adjUNOPENED adjUNORNATE adjUNOWNED adjUNPADDED adjUNPAID adjUNPAIRED adjUNPARTED adjUNPAVED adjUNPAYING adjUNPEELED adjUNPITIED adjUNPITTED adjUNPLACED adjUNPLAYED adjUNPLIANT adjUNPLOWED adjUNPOETIC adjUNPOISED adjUNPOLITE adjUNPOLLED adjUNPOSED adjUNPOSTED adjUNPOTTED adjUNPRETTY adjUNPRICED adjUNPRIMED adjUNPRIZED adjUNPROBED adjUNPROVED adjUNPROVEN adjUNPRUNED adjUNPURE adjUNPURELY advUNPURGED adjUNQUIET adj UNQUIETER UNQUIETESTUNRAISED adjUNRAKED adjUNRANKED adjUNRATED adjUNRAZED adjUNREAD adjUNREADY adj UNREADIER UNREADIESTUNREAL adjUNREALLY advUNRENTED adjUNREPAID adjUNRESTED adjUNRHYMED adjUNRIBBED adjUNRIDDEN adjUNRIFLED adjUNRIMED adjUNRINSED adjUNRISEN adjUNROPED adjUNROUGH adjUNRULED adjUNRUSHED adjUNRUSTED adjUNSAFE adj UNSAFER UNSAFESTUNSAFELY advUNSALTED adjUNSATED adjUNSAVED adjUNSAVORY adjUNSAWED adjUNSAWN adjUNSCALED adjUNSEARED adjUNSEEDED adjUNSEEING adjUNSEEMLY adj UNSEEMLIER UNSEEMLIESTUNSEEN adjUNSEIZED adjUNSENT adjUNSERVED adjUNSEXUAL adjUNSEXY adj UNSEXIER UNSEXIESTUNSHADED adjUNSHAKEN adjUNSHAMED adjUNSHAPED adjUNSHAPEN adjUNSHARED adjUNSHARP adjUNSHAVED adjUNSHAVEN adjUNSHED adjUNSHOD adjUNSHORN adjUNSHOWY adjUNSHRUNK adjUNSHUT adjUNSIFTED adjUNSIGNED adjUNSILENT adjUNSINFUL adjUNSIZED adjUNSLAKED adjUNSLICED adjUNSLICK adjUNSMART adjUNSMOKED adjUNSOAKED adjUNSOBER adjUNSOCIAL adjUNSOILED adjUNSOLD adjUNSOLID adjUNSOLVED adjUNSORTED adjUNSOUGHT adjUNSOUND adj UNSOUNDER UNSOUNDESTUNSOURED adjUNSOWED adjUNSOWN adjUNSPENT adjUNSPILT adjUNSPLIT adjUNSPOILT adjUNSPRUNG adjUNSPUN adjUNSTABLE adj UNSTABLER UNSTABLESTUNSTABLY advUNSTEADY adj UNSTEADIER UNSTEADIESTUNSTONED adjUNSTUFFY adjUNSTUNG adjUNSUBTLE adjUNSUBTLY advUNSUITED adjUNSUNG adjUNSUNK adjUNSURE adjUNSURELY advUNSWAYED adjUNSWEPT adjUNTAGGED adjUNTAKEN adjUNTAME adjUNTAMED adjUNTANNED adjUNTAPPED adjUNTASTED adjUNTAXED adjUNTENDED adjUNTESTED adjUNTHAWED adjUNTIDILY advUNTIDY adj UNTIDIER UNTIDIESTUNTILLED adjUNTILTED adjUNTIMED adjUNTIMELY adj UNTIMELIER UNTIMELIESTUNTINGED adjUNTIPPED adjUNTIRED adjUNTIRING adjUNTITLED adjUNTOLD adjUNTORN adjUNTRACED adjUNTRENDY adjUNTRIED adjUNTRUE adj UNTRUER UNTRUESTUNTRULY advUNTRUSTY adjUNTUFTED adjUNTURNED adjUNUNITED adjUNURGED adjUNUSABLE adjUNUSED adjUNUSUAL adjUNVALUED adjUNVARIED adjUNVEINED adjUNVERSED adjUNVESTED adjUNVEXED adjUNVEXT adjUNVIABLE adjUNVOCAL adjUNWALLED adjUNWANING adjUNWANTED adjUNWARIER comparative of unwaryUNWARIEST superlative of unwaryUNWARILY advUNWARMED adjUNWARNED adjUNWARPED adjUNWARY adj UNWARIER UNWARIESTUNWASTED adjUNWAXED adjUNWEANED adjUNWEARY adjUNWED adjUNWEDDED adjUNWEEDED adjUNWELDED adjUNWELL adjUNWEPT adjUNWET adjUNWETTED adjUNWHITE adjUNWIELDY adj UNWIELDIER UNWIELDIESTUNWIFELY adjUNWILLED adjUNWISE adj UNWISER UNWISESTUNWISELY advUNWON adjUNWOODED adjUNWOOED adjUNWORKED adjUNWORN adjUNWORTHY adj UNWORTHIER UNWORTHIESTUNWRUNG adjUNYOUNG adjUNZONED adj").
+entry(wek, n, [weks], "kifaa cha kusafisha kwa matumizi ya akudeWEK...").
+entry(waah, kihusishi, [], "kutumika kuonesha maombolezo").
+kiingilio(wab, n, [wabs], "mtandao").
+entry(wabble, v, [wabbled,wabbling,wabbles], "kupepesuka").
+entry(mtikisaji, n, [watikishaji], "anayetikisika").
+entry(wabbly, kiv, [], "WABBLIER WABBLIESTwobbly").
+kiingilio(wack, kivumishi, [], "MBAYA ZAIDI MBAYA SANA").
+entry(wack, n, [wacks], "mtu wa ajabu").
+ingia(mwacke, n, [miwacke], "aina ya jiwe la basaltiki").
+entry(wacked, adj, [], "kupigwa").
+entry(wacko, n, [wackos], "au WACKOES mtu mwenye vituko").
+entry(wacky, adj, [], "WACKIER WACKIESTmba sanaWACKILY adv").
+ingia(wad, k, [wad, kuwadia, zinawadiwa], "kutengeneza kitita, umbo dogo la nyenzo laini").
+entry(wadable, adj, [], "inayoweza kuogelewa").
+entry(wadder, n, [wadders], "yule anayeweka vito").
+entry(mchunga_ng'ombe, n, [wachunga_ng'ombe], "mchunga ng'ombe").
+entry(waddied, zamani, [], "hali ya kitenzi ya waddy").
+uingizo(waddies, kuwakilisha, [], "mtu wa 3 umoja ya waddy").
+entry(wadding, n, [waddings], "kipande cha kufunga").
+entry(waddle, v, [waddled,waddling,waddles], "kutembea kwa hatua fupi na kuyumba").
+entry(watembeaji, n, [watembeaji], "anayejikongoja").
+kiingilio(waddly, kiv, [], "kuwa na au kuwa na mwendo wa kunyata").
+entry(ghulabu, v, [ghulabudi,ghulabuzaji,ghulabus], "kupiga na rungu nene").
+entry(wade, v, [waded,wading,wades], "kutembea kwenye maji").
+ingizo(wadeable, kivumishi, [], "uweza wa kupitika kwa kuvuka maji").
+entry(mpata, n, [wata], "mmoja anayetembea maji").
+entry(mto_kavu, n, [mito_kavu], "kitanda cha mfereji wa maji ambao kawaida huwa mkavu").
+kiingilio(wadies, pl, [], "ya wady").
+kiingilio(kuogelea, wakati_uliopo, [], "sehemu ya kitenzi ya kuogelea").
+kiingilio(wadmaal, n, [wadmaals], "wadmal").
+entry(wadmal, n, [wadmals], "kitambaa nene cha sufu").
+entry(wadmel, n, [wadmels], "wadmal").
+entry(wadmol, n, [wadmols], "wadmal").
+entry(wadmoll, n, [wadmolls], "wali ya mbao".
+entry(wadset, v, [wadset,wadsetting,wadsets], "kuweka rehani").
+entry(wady, n, [wadies], "wadi").
+entry(msiba, n, [misiba], "msiba").
+entry(waeful, adj, [], "wa huzuni").
+entry(waeness, n, [waenessi], "huzuni").
+entry(waesuck, kihusishi, [], "waesucks").
+entry(waesucks, interj, [], "hutumika kuonyesha huruma").
+entry(wafer, v, [wafered, wafering, wafers], "kufunga kwa diski ya kunata").
+entry(wafery, kiv, [], "kufanana na kivundyo biskuti nyembamba na mvunjikaji").
+entry(waff, v, [waffed, waffing, waffs], "kuyeyusha").
+entry(waffie, n, [waffies], "mwenye kurandaranda").
+entry(waffle, v, [waffled,waffling,waffles], "kuongea ovyo au kwa kutoamua").
+entry(kibaraga, n, [vibaraga], "yule anayebadilisha mawazo mara kwa mara").
+entry(kuhema, n, [kuhema], "kauli au msimamo usio wa maamuzi").
+entry(waffly, adj, [], "WAFFLIER WAFFLIESTasielemeke").
+entry(peperusha, v, [peperushwa,kupeperusha,hupeperusha], "kubeba kwa upole juu ya hewa au maji").
+entry(upepo, n, [upepo], "kitendo cha kupeperusha").
+entry(wafter, n, [wafters], "mmoja anayepeperusha").
+entry(wafture, n, [waftures], "upepo").
+entry(wag, v, [wagged,wagging,wags], "kuyumbayumba kwa furaha juu na chini au huku na huku").
+kiingilio(mshahara, v, [mshahara_unaoendelea, mshahara_unaosema, mishahara], "kuhusika au kufanya").
+kiingilio(bila_mshahara, kivumishi, [], "bila kulipwa").
+entry(wager, v, [wagered,wagering,wagers], "kuweka hatarini kwenye matokeo yasiyoeleweka").
+entry(mweka-washindi, n, [wawashindi], "moja anayoweka dau").
+entry(kubashiri, n, [kubashiri], "kitendo cha kuweka dau kwenye matokeo yasiyo na uhakika").
+kiingizio(wagged, yaliyopita, [], "kauli ya kutikisa").
+entry(wagger, n, [waggers], "anayepeperusha").
+entry(utani, n, [utani], "tabia ya kiutani").
+entry(kutikisa, wakati_uliopo, [], "kiima cha kutikisa").
+entry(waggish, kiv, [], "mcheshi kwa kucheza").
+entry(kutikisa, k, [kutikisa, kutikisa, hutikisa], "kutikisa").
+entry(waggly, adj, [], "WAGGLIER WAGGLIESTunsteady").
+entry(garimoshi, k, [garimoshi, garimoshi, magarimoshi], "kuvuta kwa garimoshi").
+ingizo(mwendeshamagari, n, [wendeshamagari], "wageni").
+entry(waging, hali_ya_sasa, [], "kiwakilishi cha wage").
+entry(mkokoteni, v, [mekokoteni,mkokoteninga,mkokoteni], "kubeba kwa mkokoteni gari la magurudumu manne linalovutwa na farasi").
+kiingilio(gari, n, [magari], "usafirishaji kwa gari").
+entry(mpanda_gari, n, [wapanda_gari], "mtu anayeendesha gari la kubebea mizigo").
+entry(wagsome, kivumishi, [], "waggish").
+entry(wagtail, n, [wagtails], "ndege wa wimbo").
+entry(wahconda, n, [wahcondas], "wakanda").
+entry(wahine, n, [wahines], "mwanamke wa Kihawaii").
+kiingilio(wahoo, n, [wahoos], "kichaka chenye maua").
+entry(waif, v, [waifed,waifing,waifs], "kutupa mbali").
+entry(mwembamba, kiv, [], "anayefanana na yatima").
+entry(waiflike, kivumishi, [], "kufanana na mtoto asiye na makazi").
+entry(omboleza, k, [alia,kuomboleza,omboleza], "kutoa kilio cha huzuni kirefu").
+entry(mliaji, n, [mliaji], "anaye lia").
+entry(wailful, adj, [], "ya kuomboleza").
+entry(wailsome, kiv, [], "ya kuomboleza").
+kiingizio(wain, n, [wainz], "gari kubwa wazi").
+entry(wainscot, v, [wainscoted,wainscoting,wainscots], "au WAINSCOTTED WAINSCOTTING WAINSCOTSKupamba kuta kwa mbao paneli").
+ingia(wair, k, [waired, wairing, wairs], "kutumia").
+entry(kiuno, n, [viuno], "sehemu ya mwili kati ya mbavu na nyongaKIUNO adj").
+entry(waister, n, [waisters], "baharia aliyewekwa kwenye sehemu ya kati ya meli").
+entry(kushona, n, [kushonaji], "aina ya nyenzo za kushona nguo").
+entry(subiri, k, [alisubiri, akisubiri, husubiri], "kukaa kwa matarajio ya").
+entry(mhudumu, k, [alihudumu,akiwa hudumu,huduma], "kufanya kazi kama mhudumu mwanamume katika mgahawa").
+entry(kusubiri, n, [kusubiri], "kitendo cha yule anaye subiri").
+entry(weka_kwenye_orodha_ya_kusubiri, v, [imeorodheshwa_kusubiri, kuorodhesha_kusubiri, orodha_kusubiri], "kuweka kwenye orodha ya watu wanaosubiri").
+entry(mhudumu, v, [alihudumu, akihudumu, wahudumu], "kufanya kazi kama mhudumu wa kike katika mkahawa").
+entry(mhudumu, n, [wahudumu], "mhudumu katika mgahawa").
+entry(kusamehe, v, [ilisamehewa,inasamehe,samehe], "kuacha kwa hiari").
+entry(kanusho, n, [kanusho], "kitendo cha kurejesha kitu").
+entry(wakame, n, [wakame], "mwani wa kahawia asili ya Asia").
+entry(wakanda, n, [wakandas], "nguvu ya ajabu katika imani za Sioux").
+entry(amsha, v, [alimsha,amesha,akiamsha], "AMSHAHuakutoa usingizini").
+entry(wakeful, adj, [], "ambaye hali ya kuwa macho au kukosa usingizi").
+entry(wakeless, adj, [], "isiyovunjika  inayotumika kwa usingizi").
+entry(amsha, k, [amsha, amka, amshana], "kuamsha").
+entry(mwamsho, n, [wamwamsho], "anaeamsha").
+entry(kuamka, n, [kuamshwa], "kitendo cha yule anayeamka").
+entry(mwamshaji, n, [wamamshaji], "mmoja anayemwamsha").
+entry(mwenye_wake, kiv, [], "anayeamka").
+entry(wakiki, n, [wakikis], "fedha ya ganda ya Visiwa vya Bahari ya Kusini").
+entry(kuamka, n, [muamko], "hali ya kuwa macho").
+entry(wale, v, [waled,waling,wales], "kuweka alama kwa upele").
+kiingilio(waler, n, [walers], "farasi wa mzalishaji wa Australia kwa ajili ya farasi wa farasi").
+entry(wali, n, [wali], "gavana wa jimbo katika nchi ya Kiarabu").
+entry(walies, pl, [], "ya waly").
+entry(tembea, v, [alitembea, akitembea, wanatembea], "kuendelea kwa miguu").
+entry(walkaway, n, [walkaways], "ushindi wa urahisi").
+entry(mtembea, n, [watembea], "mmoja anayetembea").
+entry(walkies, kihisishi, [], "hutumiwa kuamuru mbwa kujiandaa kwa matembezi").
+entry(kutembea, n, [kutembezaji], "kitendo cha yule anayetembea").
+entry(kutembea-nje, n, [kutembea-nje], "mgomo wa wafanyakazi").
+kiingilio(kushinda_bila_kupigana, n, [ushindi_bila_kupigana], "kushinda bila kupigana").
+entry(walkup, n, [nyumba zisizo na lifti], "nyumba ya ghorofa isiyo na lifti").
+entry(njia_ya_watembao, n, [njia_za_watembao], "njia ya kutembea").
+kiingilio(valkyrie, n, [valkyrie], "valkyrie").
+entry(ukuta, v, [ukuta, kuta, ukutani], "kutoa na ukuta muundo wa wima uliojengwa kufunga eneo").
+ingizo(walla, n, [wallas], "wallah").
+entry(kanguru_mdogo, n, [kanguru_mdogo], "aina ya kanguru ndogo").
+entry(mtu, n, [watu], "mtu anayejishughulisha na kazi au shughuli maalum").
+kiingizo(wallaroo, n, [walaroo], "kangaroo mkubwa").
+kibinafsi(wallet, n, [wallets], "mkoba wa kukunja ulionyooka").
+uingizo(walley, n, [walleys], "aina ya kuruka katika mchezo wa kuteleza kwenye barafu").
+entry(walleye, n, [walleyes], "jicho lenye konia nyeupeWALLEYED adj").
+kiingilio(wallie, n, [wallies], "mtumishi").
+ingia(ukuta, wingi, [], "ya wally").
+entry(kupiga, v, [alipiga,akipiga,anapiga], "kupiga kwa nguvu").
+entry(kipigaji, n, [kipigaji], "ambaye anapiga").
+entry(wallow, v, [wallowed,wallowing,wallows], "kujikung'uta").
+ingizo(mtumbukaji, n, [watumbukaji], "mtu anayejitosa").
+ingizo(wally, n, [walle], "waly").
+entry(nokti, n, [noktiz], "jozi la kula").
+entry(keleo, n, [makeleo], "mnyama wa baharini").
+entry(waltz, v, [waltzed,waltzing,waltzes], "kufanya dansi ya ballroom").
+entry(waltzer, n, [waltzers], "anayekata kiwaltz").
+entry(waly, n, [walies], "kitu kinachovutia machoni").
+entry(wamble, v, [wambled,wambling,wambles], "kusogea kwa kutetereka").
+entry(wambly, kiv, [], "WAMBLIER WAMBLIESThaikuthibitika").
+entry(wame, n, [wames], "tumbo").
+entry(wamefou, n, [wamefous], "tumbo lililoshiba").
+entry(wameful, n, [wamefuli], "wamefou").
+kiingilio(wammus, n, [wammuses], "wamus").
+entry(wampish, v, [wampished,wampishing,wampishes], "kutupa huku na huko").
+entry(wampum, n, [wampums], "aina ya sarafu iliyotumika zamani na Waamerika Wazawa").
+kiingizio(wampus, n, [wampuses], "wamus").
+entry(wamus, n, [wamuses], "jaketi nzito ya nje").
+entry(wan, adj, [], "MWANANA MWANANASTisiyo kawaida rangi ya usoni").
+entry(wan, k, [wanned,wanning,wans], "kuwa mnyonge").
+entry(fimbo, n, [fimbo], "fimbo nyembamba").
+entry(zurura, k, [ilizurura, inazurura, yazurura], "kuenda huku na huko bila mwelekeo au kusudi").
+entry(mwenye_nyendo, n, [wenye_nyendo], "mwenye kutembea bila mwelekeo").
+ingizo(wanderoo, n, [wanderoos], "tumbili wa Asia").
+ingizo(wandle, kivumishi, [], "laini").
+entry(wane, v, [kupungua,kushuka,kupungua], "kupungua kwa ukubwa au kiwango").
+entry(waney, kiv, [], "WANIER WANIESTwany").
+kipengele(wangan, n, [wangans], "wanigan").
+entry(wangle, v, [wangled,wangling,wangles], "kupata au kutekeleza kwa ujanja").
+kiingilio(wangler, n, [wanglers], "mmoja ambaye anashughulika").
+entry(wangun, n, [wanguns], "wanigan").
+ingia(wanier, kulinganisha, [], "ya waney na wany").
+kiingizo(waniest, superlative, [], "ya waney na wany").
+entry(wanigan, n, [wanigans], "sanduku la vifaa linalotumika katika kambi ya ukataji miti").
+kiingilio(waning, sasa, [], "kiima cha wane").
+entry(wanion, n, [wanioni], "kisasi").
+entry(wanly, kivumishi_kielezi, [], "kwa njia ya huzuni").
+entry(wannabe, n, [wannabes], "mwenye ndoto ya kuwa kama mtu mwingine").
+entry(wannabee, n, [], "WANNABEESwannabe").
+entry(wanned, wakati_ulio_pita, [], "kiima ya wan").
+ingia(wanner, kulinganisha, [], "ya wan").
+entry(ufifina, n, [ufifina], "ubora wa kuwa na ufifiaji").
+ingizo(wannest, kishazi_kisichozidishwa, [], "ya wan").
+entry(wannigan, n, [wannigans], "wanigan").
+entry(wanning, ya sasa, [], "kiima kitendo cha wan").
+entry(taka, v, [alitaka,anatamani,wanataka], "kuwa na tamaa ya").
+kiingilio(wantage, n, [wantages], "kitu kinachokosekana").
+entry(mtaka, n, [wanaotaka], "mwenye kutaka").
+entry(wanton, v, [wantoned,wantoning,wantons], "kufanya vibaya kiadili").
+entry(mtaka, n, [watakao], "mtu ambaye anakosa nidhamu").
+entry(kwa_huluki, ksv, [], "kisicho na maadili").
+entry(wany, adj, [], "WANIER WANIESTikikauka katika sehemu fulani").
+entry(wap, k, [wapiti,wapisha,wap], "kufunika").
+entry(wapiti, n, [wapitis], "kulungu mkubwa").
+entry(vita, v, [kupigana_vita,inayopigana,vitapiganwa], "kujihusisha katika vita hali ya mgogoro ulio wazi wa kivita").
+entry(ndege_ya_vita, n, [ndege_za_vita], "ndege ya zamani ya kijeshi").
+entry(kwaride, kiv, [kwaridikani, kwaridika, kwaride], "kuimba kwa mapambo ya melodiki").
+entry(mchirizi, n, [wachirizi], "anayepiga mchirizi").
+kiingizo(warbly, kivumishi, [], "WARBLIER WARBLIEST iliyotamkwa kwa namna ya kutetemeka au kupinda sauti").
+entry(warcraft, n, [vita], "sanaa ya vita").
+kiingilio(ward, v, [warded,warding,wards], "kupiga kona").
+kiingizio(msimamizi, n, [wasimamizi], "afisa mkuu wa gereza").
+entry(useja, n, [useja], "ofisi ya mlinzi").
+entry(mlinzi, n, [walinzi], "mtu anayelinda kitu").
+entry(wasiowani, kiv, [], "ambaye hana sehemu ya kuweka kufuli").
+entry(mlinzi_mwanamke, n, [walinzi_wa_kike], "mlinzi wa kike").
+entry(kabati, n, [makabati], "mkusanyiko wa mavazi").
+entry(kabati_la_nguo, v, [kabati_la_nguoed, kabati_la_nguoing, kabati_la_nguoes], "kuwezesha kupatikana kwa mkusanyiko wa nguo").
+entry(wardroom, n, [wardrooms], "eneo la chakula kwa maafisa kwenye meli ya kivita").
+entry(uangalizi, n, [uangalizi], "hali ya kuwa chini ya mlezi").
+entry(ware, v, [wared,waring,wares], "kuwa na tahadhari kwa").
+entry(chumba_cha_maonyesho, n, [vyumba_vya_maonyesho], "chumba ambacho bidhaa zinaonyeshwa kwa mauzo").
+entry(warez, n, [warez], "programu iliyonakiliwa kinyume cha sheria").
+entry(vita, n, [vita], "kitendo cha kushiriki katika vita").
+entry(warfarin, n, [warfarins], "kiwanja cha kemikali").
+kiingilio(mchezo_wa_kivita, k, [ilibashiriwa_mchezo_wa_kivita, inabashiria_mchezo_wa_kivita, michezo_ya_kivita], "kushiriki katika migogoro ya kijeshi iliyosimuliwa").
+entry(mchezaji_vita, n, [wachezaji_vita], "anayeshiriki michezo ya vita").
+entry(kichwa_cha_kombora, n, [vichwa_cha_kombora], "sehemu ya mbele ya kombora inayo na vilipuzi").
+entry(farasi_wa_vita, n, [farasi_wa_vita], "kazi ya muziki au maigizo ambayo imechezwa kupita kiasi").
+entry(mjanja, kulinganisha, [], "ya werevu").
+kiingilio(tahadhari, superlative, [], "ya wary").
+entry(warily, adv, [], "kwa namna ya kinafiki").
+entry(kuwa_makini, n, [kuwa_makini], "hali ya kuwa makini").
+entry(waring, uliopo, [], "kiima kitendo cha ware").
+entry(warison, n, [warisons], "mwito wa kushambulia").
+entry(wark, v, [warked,warking,warks], "kustahimili maumivu").
+entry(warless, adj, [], "huru kutokana na vita").
+ingizo(vitani, kiv, [], "mwenye nia ya kushiriki katika vita").
+entry(mchawi, n, [wachawi], "mchawi").
+entry(warlord, n, [warlords], "kiongozi wa kijeshi wa taifa la kivita").
+entry(joto, kiv, [], "JOTO ZAIDI JOTO ZAIDI KUPITIA wastani wa moto").
+kiingilio(joto, k, [jotewa,kujotisha,jota], "kupasha joto").
+kiingilio(mtengawita, n, [watengawita], "anayefanya vita").
+entry(joto, n, [joto], "anayepasha moto").
+ingizo(joto, n, [majoto], "kitendo au mfano wa kufanya kitu kuwa na joto").
+entry(warmish, adj, [], "joto kiasi").
+entry(kwa_moyo, kiv, [], "kwa namna ya joto").
+entry(joto, n, [majoto], "hali ya kuwa na joto").
+entry(warmouth, n, [warmouths], "samaki wa maji safi").
+entry(joto, n, [majoto], "ujoto").
+entry(maandalizi, n, [maandalizi], "mazoezi au utaratibu wa maandalizi").
+kiingilio(onyo, v, [alionywa,kuonya,aonya], "kufanya mtu ajue kuhusu hatari inayokaribia au inayoweza kutokea").
+kiingilio(warner, n, [wapigaadi], "mmoja anayeonya").
+kuingia(onyo, n, [maonyo], "kitu kinachoonya").
+entry(warp, v, [pinda, kupinda, pindisha], "kugeuka au kupinda na kubadilika kwenye umbo").
+ingizo(kuharibika, n, [kuharibika], "kitendo cha kuharibisha").
+entry(rangi_vita, n, [rangi_vita], "rangi inayotumika kupamba uso na mwili kabla ya vita").
+kiingilio(njia_ya_vita, n, [njia_za_vita], "njia iliyochukuliwa na Wenyeji wa Amerika wanaoshambulia").
+entry(mkwaruza, n, [wakwaruza], "mmoja anayegeuza").
+entry(ndege_ya_kivita, n, [ndege_za_kivita], "ndege iliyo na silaha kwa ajili ya vita").
+entry(nguvayavitani, n, [nguvuzavitani], "nguvu ya kufanya vita").
+entry(warpwise, kivumishi, [], "katika mwelekeo wa wima").
+ingizo(warragal, n, [warragals], "warrigal").
+entry(warrant, v, [warranted, warranting, warrants], "kutoa mamlaka kwa").
+entry(udhamini, k, [udhaminiwa, udhaminisha, dhamana], "kutoa dhamana iliyoandikwa kwa").
+entry(walipigana, wakati_ulio_pita, [], "kitenzi cha vita").
+kiingilio(warren, n, [warrens], "mahali ambapo sungura huishi na kuzaliana").
+entry(warrener, n, [warreners], "mshikaji wa warren").
+entry(warrigal, n, [warrigals], "mbwa mwitu wa Australia").
+entry(warring, present, [], "kiambishi awali cha vita").
+ingia(shujaa, n, [mashujaa], "mtu anayehusika au mwenye uzoefu katika vita").
+kiingilio(warsaw, n, [warsaws], "samaki wa baharini").
+entry(meli_ya_vita, n, [meli_za_vita], "meli iliyo na silaha kwa ajili ya vita").
+kiingilio(warsle, k, [warsled,warsling,warsles], "kupambana").
+entry(mgombanisho, n, [wafinyangambo], "mwanamieleka").
+entry(warstle, v, [warstled,warstling,warstles], "kupigana mieleka").
+entry(warstler, n, [warstlers], "mwana mieleka").
+ingizo(chunjua, n, [chunjuaz], "mnyanyuko kwenye ngozi CHUNJUAL adj").
+entry(kirongozi, n, [vikirongozi], "nguruwe mwitu wa Afrika").
+entry(wartier, linganishi, [], "ya chenye mirinzi").
+entry(wartiest, superlative, [], "ya warty").
+weka(vitani, n, [nyakati_za_vita], "wakati wa vita").
+entry(wartless, kiv, [], "bila kuwashwa").
+entry(wartlike, kiv, [], "inayofanana na kidude").
+entry(warty, adj, [], "IMEFURAHA KAMACHANGU KILA DHAKAImefunikwa na vidonda").
+entry(utendakazi_wa_vita, n, [utendakazi_za_vita], "kazi iliyofanyika wakati wa vita").
+entry(warworn, adj, [], "kuonyesha athari za vita").
+entry(wary, adj, [], "WANGALIFU WENYE KUPENDEKEZA muchangamfu").
+ingizo(ilikuwa, 1, [], "na nafsi ya 3 umoja wakati uliopita kiashiria ya kuwa").
+entry(wasabi, n, [mwasabi], "mimea yenye harufu kali").
+entry(kuosha, k, [kuoshewa, kuosha, koshwa], "kusafisha kwa kuzamisha au kutumia kioevu").
+entry(inaoweza_kufuliwa, n, [mavazi_ya_kufuliwa], "kitu ambacho kinaweza kufuliwa bila kuharibika").
+ingizo(mfuko_wa_kuoshea, n, [mifuko_ya_kuoshea], "mfuko mdogo wa kubeba vifaa vya usafi wa mwili wakati wa kusafiri").
+entry(bakuli_la_kuogea, n, [bakuli_za_kuogea], "bakuli linalotumiwa kujiogesha").
+ingia(siku_ya_kuosha, n, [siku_za_kuosha], "siku iliyowekwa kwa ajili ya kuosha nguo").
+entry(kisafisha, n, [visafisha], "moja inayosafisha").
+entry(msafishaji, linganishi, [], "ya kusafisha").
+kiingilio(washiest, superlative, [], "ya washy").
+entry(kuosha, n, [kuosho], "vifaa vilivyooshwa au vitakavyooshwa").
+entry(washout, n, [washouts], "mmomonyoko wa udongo unaosababishwa na maji").
+ingizo(kifutio, n, [vifutio], "kitambaa kidogo kinachotumika kujiosha").
+entry(msalani, n, [msalani], "choo").
+entry(beseni, n, [mabeseni], "chombo kinachotumika kuosha nguo").
+entry(oshaji, n, [washaji], "kitendo cha kuosha kusafi").
+entry(washy, adj, [], "IMEOSHWA KUPITA KIASI").
+entry(digidigi, n, [madigidigi], "mdudu mwenye inaumaDIGIDIGISHINA MADIGIDIGINA kivumishi").
+kiingilio(jende, kiv, [], "KAMA NYUKIKAZI NYUKIKAZI ZAIDI kufanana na nyukikaziNYUKIKIKAZI kwa adv").
+kiingilio(wassail, k, [wassailed, wassailing, wassails], "kunywa kwa afya ya").
+entry(magharibi, n, [magharibi], "magharibi").
+entry(wastable, kivumishi, [], "uwezo wa kutumika vibaya").
+entry(upotevu, n, [upotevu], "kitu kinachopotezwa").
+entry(tumia_bure, v, [litumia_bure, inapoteza_bure, hutumia_bure], "kutumia bila kufikiria").
+entry(mharibifu, kiv, [], "mwelekeo wa kupoteza").
+ingizo(wastelot, n, [wastelots], "kiwanja wazi").
+entry(mpotevu, n, [wapotevu], "ambaye anapoteza").
+entry(wasterie, n, [wasteries], "uharibifu").
+entry(wastery, n, [wasteries], "ufujaji").
+entry(njia_ya_kuondoa_maji, n, [njia_za_kuondoa_maji], "mfereji wa maji ya ziada").
+kiingilio(kupoteza, wakati_uliopo, [], "imbo ya kupoteza").
+entry(mwenye_kubadhirifu, n, [wenye_kubadhirifu], "anayebadhirifu").
+entry(wastrie, n, [wastries], "ufujaji").
+ingizaji(wastry, n, [wastries], "ufujaji usiojali").
+entry(wat, kivumishi, [], "WATTER WATTESTwet").
+kiingilio(sungura, n, [sungura], "sungura").
+entry(watap, n, [wataps], "uzi unotengenezwa kutokana na mizizi ya miti mbalimbali").
+ingia(watape, n, [watapes], "watap").
+entry(angalie, v, [ilia, akiwa anaangalia, huangalia], "kuangalia kwa makini").
+entry(ngeri, n, [ngeri], "neno la siri").
+entry(mlinzi, v, [walinzi, kuliangalia, walinzi], "kufanya kama mlinzi kwa").
+kiingilio(mtazamaji, n, [watazamaji], "mmoja anayetazama").
+kiingilio(jichowali, n, [machowali], "samaki mwenye macho makubwa").
+entry(mwangalifu, kivumishi, [], "anayechunguza kwa makini au tahadhari").
+kiingizo(mlinzi, n, [walinzi], "mwanaume aliyeajiriwa kusimama mlinzi").
+entry(tahadhari, n, [tahadhari], "kitendo cha kutazama kwa kitu").
+ingia(maji, v, [yameywa, kumwaga, yamwaga], "kumwagilia maji kioevu kisicho na harufu wala ladha").
+kiingilio(maaji, n, [maaji], "usafirishaji wa bidhaa kwa maji").
+entry(kitanda_cha_maji, n, [vitanda_vya_maji], "kitanda ambacho godoro lake ni mfuko wa plastiki uliojazwa maji").
+ingizo(waterbus, n, [waterbuses], "au WATERBUSSEShodi kubwa ya kubeba abiria").
+entry(kiboko, n, [viboko], "mnyoo mkubwa wa salamander").
+entry(mnyunyizi, n, [wanyunyizi], "anayenyunyiza").
+kiingilio(maji-kwale, n, [maji-kwale], "kanga-marekani").
+entry(maji, kulinganisha, [], "ya maji").
+entry(maji zaidi, kiwango_cha_juu, [], "ya maji").
+entry(maji, kiv, [], "kwa njia ya kimaji").
+entry(kumwagilia, n, [kumwagilios], "kitendo cha yule anayemwagilia").
+entry(maji, kiv, [], "maji maji").
+ingizo(maji_papo, n, [maji_papo], "mtiririko wa maji yanayolazimishwa kupita kwenye tundu dogo").
+entry(jaza_maji, v, [imejaa_maji,inajaa_maji,inajaza_maji], "kujaa na maji").
+kuingiza(waterloo, n, [waterloos], "kipigo kikubwa").
+ingizo(maji_nahodha, n, [maji_nahodha], "mtu wa mashua").
+entry(kuski_maji, n, [kuski_maji], "ski kwa kuteleza juu ya maji").
+entry(njia_ya_maji, n, [njia_za_maji], "mwili wa maji unaoweza kuabiriwa").
+entry(maji, kivumishi, [], "ZAIDI YA MAJI ZAIDI YA MAJI INAYOTIA NDANI YA MAJI").
+entry(wati, n, [wati], "kipimo cha nguvu").
+entry(wattage, n, [wattages], "kiwango cha nguvu kwa istilahi za wati").
+entry(wattape, n, [wattapes], "watap").
+entry(watter, kulinganisha, [], "au nini").
+entry(motozaidi, superlative, [], "wa moto").
+entry(saa_ya_wati, n, [masaa_ya_wati], "kipimo cha nishati").
+entry(wattle, v, [wattled,wattling,wattles], "kushona kuunda mtandao").
+entry(wattless, adj, [], "kuelezea aina ya umeme wa sasa").
+kiingilio(waucht, v, [wauchted,wauchting,wauchts], "kuwaught").
+kiingilio(waugh, kiv, [], "mvua").
+ingia(waught, k, [waughted,waughting,waughts], "kunywa kwa kina").
+entry(wauk, v, [wauked,wauking,wauks], "kuamka").
+entry(waul, v, [wauled,wauling,wauls], "kulia kama paka").
+entry(waur, adj, [], "mbaya zaidi").
+entry(tingisha, v, [ilitingisha, inatingisha, zinaonyesha], "kuhamia kwa uhuru mbele na nyuma au juu na chini").
+ingizo(bandimeso, n, [bandimeso], "eneo la masafa ya redio").
+entry(mawimbi, n, [mawimbi], "aina ya grafu ya kihisabati").
+entry(waveless, kivumishi, [], "kukosa mawimbi yanayohama yenye miinuko juu ya uso wa kimiminika").
+ingizo(wimbi, n, [mimbi], "wimbi dogo").
+entry(mawimbi, adj, [], "kufanana na wimbi").
+entry(waveoff, n, [waveoffs], "kitendo cha kukataa ruhusa ya kutua kwa ndege inayokaribia").
+entry(waver, v, [wavered,wavering,wavers], "kuenda mbele na nyuma").
+entry(mteterezi, n, [waziteterezi], "yule anayezunguka").
+entry(wavery, adj, [], "kutetereka").
+ingizo(wimbi, n, [mambi], "bata la theluji").
+entry(wavicle, n, [wavicles], "chembe ndogo inayoweza kutenda kama wimbi na chembe").
+ingizo(uwepesi, linganishi, [], "ya mawimbi").
+entry(wavies, wingi, [], "ya mawimbi").
+entry(waviest, superlative, [], "ya wavy").
+entry(kwa_mawimbi, kivumishi_kiwakilishi, [], "katika namna yenye mawimbi").
+entry(umororo, n, [umororo], "hali ya kuwa na mawimbi").
+entry(kupeperusha, ya sasa, [], "shiriki ya kupeperusha").
+entry(pande, kivumishi, [], "PANDANA PANDAPANDA ina mawimbi").
+entry(wavy, n, [wavies], "wavy").
+kiingizo(waw, n, [waws], "vav").
+entry(wawl, v, [wawled,wawling,wawls], "kutoa sauti kubwa kama ya paka").
+entry(wax, v, [waxed,waxing,waxes], "kufunika kwa nta dutu ya asili inayoweza kuathiriwa na jotoWAXABLE kiv").
+entry(waxberry, n, [waxberries], "beri yenye mipako ya nta").
+entry ndege(ndege_ya_tropiki), n, [ndege_wa_tropiki], "ndege ya tropiki".
+entry(waxen, adj, [], "iliyofunikwa na nta").
+entry(msugaji, n, [wasugaji], "anayepaka nta").
+entry(mnene, kulinganisha, [], "wa nta").
+kiingilio(waxiest, superlative, [], "ya nta").
+entry(waxily, kiv, [], "kwa namna ya nta").
+entry(waxiness, n, [waxinesses], "ubora wa kuwa na nta").
+entry(waxing, n, [waxings], "kitendo cha yule anayefanya waxing").
+entry(waxlike, kiv, [], "inayofanana na nta").
+entry(mmea_wa_nta, n, [mimea_ya_nta], "mmea wa kitropiki").
+entry(waxweed, n, [waxweeds], "mmea wa kila mwaka").
+ingia(waxwing, n, [waxwings], "aina ya ndege wa kundi la passeriformes").
+entry(waxwork, n, [wachongaji-wa-nta], "sanamu iliyotengenezwa kwa nta").
+entry(mdudu-wa-nta, n, [wadudu-wa-nta], "nondo aishie kwenye mzinga wa nyuki").
+entry(waxy, adj, [], "INAYOFANANA NA WAX").
+ingizo(njia, n, [njia], "njia ya kufanya kitu").
+entry(wayang, n, [wayangs], "onyesho linalojumuisha wanasesere au wacheza dansi binadamu").
+ingizo(waybill, n, [waybills], "orodha ya bidhaa zinazohusiana na usafirishaji").
+entry(msafiri, n, [wasafiri], "msafiri").
+entry(kuondoka, n, [kuondoka], "kitendo cha kuondoka").
+entry(waylay, v, [waylaid,waylaying,waylays], "kuvizia").
+entry(waylayer, n, [waylayers], "mmoja anayevizia").
+entry(wayless, kiv, [], "kuwa bila barabara au njia").
+ingia(alama_ya_njia, n, [alama_za_njia], "kitu kinachotumika kama mwongozo kwa wasafiri").
+kiingilio(njia, n, [njia_zamwisho], "eneo kati ya sehemu kuu kwenye njia").
+ingizo(kando_ya_barabara, n, [makando_ya_barabara], "upande wa barabara").
+entry(wayward, adj, [], "mkaidi").
+entry(wayworn, kiv, [], "amechoka na safari").
+kiingizio(sisi, kihusishi, [], "kihusishi cha nafsi ya kwanza wingi katika hali ya nominative").
+entry(dhaifu, kiv, [], "DAIFU ZAIDI ZAIDI KABISA kukosa nguvu").
+entry(osha, k, [imeoshwa,kuoshwa,osha], "kuweka dhaifu").
+entry(mlemaji, n, [walemaji], "anayelemaza").
+entry(weakfish, n, [weakfishes], "samaki wa baharini").
+entry(dhaifuish, kivumishi, [], "dhaifu kiasi").
+entry(mnyonge, n, [wanyonge], "mtu dhaifu").
+entry(weakly, adj, [], "ZAIFU ZAIDI ZAIFU SANA dhaifu na mgonjwa").
+entry(udhaifu, n, [udhaifu], "hali ya kuwa dhaifu").
+entry(weakon, n, [weakons], "chembe ndogo ya atomiki").
+entry(upande_dhaifu, n, [upande_dhaifu], "upande wa uwanja wa mpira wa kikapu wenye wachezaji wachache").
+entry(faida, n, [faida], "cha mjeledi").
+entry(msitu, n, [misitu], "msitu").
+entry(utajiri, n, [utajiri], "kiasi kikubwa cha nyenzo za thamani").
+entry(tajiri, adj, [], "TAJIRI ZAIDI TAJIRI KABISA kuwa na utajiri").
+entry(achisha, k, [achishwa,akiachisha,waachishaji], "kuwacha kumpa maziwa ya mama na badala yake kumpa lishe nyingine").
+entry(weaner, n, [wanaonyonya], "anayenyonya").
+entry(kitoto, n, [vitoto], "mtoto au mnyama aliyeachishwa kunyonya hivi karibuni").
+entry(silaha, v, [silahed,silahaing,silaha], "kuwapa silaha chombo kinachotumika katika vita").
+entry(silaha, n, [silaha], "mkusanyiko wa silaha").
+entry(valia, k, [valia, vali, anavalia], "VALIAkuwa na vazi juu ya mwili wake").
+ingizo(vavali, n, [mavavali], "vazi").
+entry(mvaaji, n, [mvaaji], "mtu anayevaa kitu").
+entry(wearied, zamani, [], "hali ya kuchoka").
+entry(uchovu, kulinganisha, [], "ya uchovu").
+entry(uchovu, sasa, [], "mtu wa 3 umoja wa kuchoka").
+entry(weariful, adj, [], "ya kuchosha").
+entry(wearish, adj, [], "bila ladha").
+entry(amechoka, adj, [], "AMECHOKA ZAIDI AMECHOKA SANAamechokaKWA UCHOVU adv").
+entry(amechoka, k, [amechosha, kuchoshwa, huchoka], "kufanya au kuwa amechoka").
+entry(weasand, n, [weasands], "koo").
+entry(fisi, v, [fisiwafisi, kufisisha, mafisi], "au FISIWAFISI KUFISISHA MFISI kutenda kwa ujanja").
+entry(fisi_hali, kiv, [], "inafanana na fisi mdogo mamalia mwenye nyama").
+entry(weasely, adj, [], "kwa hila").
+ingizo(fizizi, n, [fizizi], "fizi").
+entry(hali_ya_hewa, v, [imehifadhiwa_na_hali_ya_hewa,kutunzwa_na_hali_ya_hewa,uhifadhi_wa_hali_ya_hewa], "kufunua kwa hali za anga").
+kiingilio(suka, k, [sukap, sukap, kusuka], "SUKAkuunda kwa kusokotana nyuzi").
+entry(mtengeneza_kitenge, n, [watengeneza_vitenge], "anayesokota").
+entry(ufumaji, n, [ufumaji], "shughuli ya kutengeneza vifaa vya kufuma").
+entry(weazand, n, [weazands], "koromeo").
+kiingilio(mtandao, v, [iliyotiwa_ute_kama_wa_buu,uwekaji_mtandao,mitandao], "kutoa kwa mtandao muundo au kitambaa chenye michirizi").
+entry(utandaji, n, [utandaji], "mkanda uliofumwa wa nyuzi").
+entry(webby, adj, [], "ANAFANANA NA TOVUTI ZAIDI KAMA TOVUTI").
+entry(webcam, n, [webcams], "kamera inayotumika kutuma picha za moja kwa moja kupitia wavuti ya Dunia").
+entry(utangazaji_mtandao, v, [utangaza_mtandaoni,utangazaji_mtandao,utangazaji_mtandao], "kutangaza sauti na picha kupitia Mtandao wa Ulimwengu Pana").
+entry(weber, n, [webers], "kipimo cha mtiririko wa sumaku").
+ingia(webfed, kiv, [], "iliyoundwa kuchapisha rolli endelevu ya karatasi").
+entry(webfoot, n, [webfeet], "mguu wenye vidole vilivyounganishwa na utando").
+entry(mazingira-kibao, n, [mazingira-kibao], "maonesho ya elimu ya moja kwa moja yanayofanyika kwenye tovuti").
+entry(webisode, n, [webisodes], "kipindi cha televisheni kinachoweza kutazamwa kwenye tovuti").
+entry(webless, kivumishi, [], "kukiwa hakuna mitandao").
+entry(weblike, kiv, [], "inayofanana na wavuti").
+kiingizo(shajara_ya_mtandao, n, [shajara_za_mtandao], "tovuti inayodumisha shajara ya kibinafsi mtandaoni").
+entry(tovuti, n, [tovuti], "hati moja kwenye Mtandao wa Ulimwengu Pana").
+entry(tovuti, n, [tovuti], "seti ya kurasa za wavuti zilizounganishwa zinazosimamiwa na mtu binafsi au shirika").
+kiingilio(webster, n, [websters], "mfumaji").
+ingizo(utekelezaji_wa_mtandao, n, [utekelezaji_wa_mitandao], "mfumo au muundo wa mtandao").
+kiingilio(nondo, n, [nondo], "kiwavi anayefuma mtandao").
+entry(webzine, n, [magazeti_ya_mtandao], "jarida lililochapishwa kwenye Intaneti").
+entry(wecht, n, [wechts], "uzito").
+entry(jum, v, [olewa,arusi,oa], "kuoa").
+entry(wedder, n, [wedders], "mmoja anayefunga ndoa").
+entry(harusi, n, [harusi], "sherehe ya ndoa").
+ingizo(wedel, k, [wedeled, wedeling, wedels], "kufanya wedeln").
+entry(wedeln, n, [wedelns], "mbinu ya kuteleza kwenye theluji").
+entry(kipande, v, [kilichopatikana,kinachopatikana,vinavyopatikana], "kulazimisha kutenganisha kwa kipande kipande cha kuni au chuma").
+entry(wedgie, n, [wedgies], "aina ya kiatu cha mwanamke").
+entry(wedgy, adj, [], "INAYOFANANA NA KIPOLE").
+entry(wedlock, n, [ndoa], "hali ya kuwa umeoa au umeolewa").
+entry((wee, kiv), [], "NDOGO SANA").
+entry(wee, v, [weed,weeing,wees], "kukojoa").
+entry(magugu, k, [kuondolewa_magugu, kuondolewa_magugu, magugu], "kuondoa magugu mimea isiyohitajika").
+entry(kituo_cha_magugu, n, [vituo_vya_magugu], "eneo la maji lenye magugu mengi").
+entry(mpaliliaji, n, [wapaliliaji], "anayepalilia").
+entry(weedier, comparative, [], "ya magugu").
+entry(weediest, upitishaji, [], "ya mimea mingi").
+entry(weedily, kiv, [], "kwa namna ya magugu").
+entry(weedless, kiv, [], "isiyo na magugu").
+entry(weedlike, adj, [], "inayofanana na magugu").
+entry(weedline, n, [weedlines], "ukingoni mwa kitanda cha magugu").
+entry(weedy, adj, [], "NYASI NYASI NYINGI zinazofanana na magugu").
+entry(juma, n, [majuma], "kipindi cha siku saba").
+entry(siku_za_wiki, n, [siku_za_wikendi], "siku yoyote ya juma isipokuwa Jumamosi na Jumapili").
+entry(weekendi, v, [weekendida,weekendiing,weekendi], "kutumia wikendi mwishoni mwa wiki").
+entry(kwa_wiki, kivumishi, [], "inaendelea kwa wiki").
+kiingilio(wa kila wiki, n, [viambazi vya wiki], "chapisho linalotolewa mara moja kwa wiki").
+ingizo(weel, kiv, [], "vyema").
+entry(ween, k, [weened, weening, weens], "kuhisia").
+ingizo(weenie, n, [weenies], "soseji").
+entry(weensy, kiv, [], "WEENSIER WEENSIESTndogo").
+entry(weeny, adj, [], "WEENIER WEENIESTndogo").
+entry(omboleza, v, [alilia, akilia, analia], "kuonyesha huzuni kwa kumwaga machozi").
+entry(kilio, n, [waliaji], "yule ambaye analia").
+entry(weepie, n, [weepies], "filamu ya kusikitisha sana").
+entry(kulia, n, [kulias], "kitendo cha yule anayelia").
+entry(weepy, adj, [], "WEEPIER WEEPIESTmwenye kutokwa na machoziWEEPILY adv").
+entry(weer, kulinganisha, [], "ya wee").
+entry(weest, kipeo_cha_juu, [], "ya wee").
+entry(jua, v, [juajua,kujuajua,juas], "kujua").
+entry(weever, n, [weevers], "samaki wa baharini").
+entry(dumdumu, n, [madumdumu], "mende mdogoDUMDUMULIYA DUMDUMULIA DUMDUMULI adj").
+entry(weewee, k, [weeweed,weeweeing,weewees], "kukojoa").
+entry(weft, n, [wefts], "kitambaa kilichosukwa au vazi").
+entry(weftwise, kib., [], "kwa njia ya mlalo").
+entry(weigela, n, [weigelas], "kichaka chenye maua").
+entry(weigelia, n, [weigelias], "weigela").
+entry(pima, k, [pimwa,kipima,napima], "kutambua uzito wa").
+entry(mpimaji, n, [wapimaji], "anayepima").
+entry(weighman, n, [weighmen], "mmoja ambaye kazi yake ni kupima bidhaa").
+entry(uzito, v, [uzito, kuweka_uzito, mizigo], "kuongeza uzito uzito wa").
+entry(mzani, n, [mizani], "moja inayopima").
+ingia(uzani, kivumishi, [], "UZANI ZAIDI UZANI MNOANA kuwa na uzito mkubwa").
+entry(weiner, n, [weiners], "wiener").
+entry(weir, n, [weirs], "uzio ulio wekwa mtoni ili kuvua samaki").
+entry(ajabu, k, [ajabishwa,ajabisha,ajabu], "kusababisha kupata hisia ya ajabu").
+entry(weird, adj, [], "AJABU AJABUKULIKO AJABUMNO kwa njia isiyoeleweka").
+entry(kigeni, n, [vigeni], "hatima").
+entry(mtu_ajabu, n, [watu_ajabu], "mtu wa ajabu sana").
+entry(weirdies, pl, [], "ya weirdy").
+entry(kwa_ajabu, kivumishi_kikuu, [], "kwa namna ya ajabu").
+ingizo(mshenzi, n, [washenzi], "au WAJENZI]").
+entry(weirdy, n, [weirdies], "mambo ya ajabu").
+entry(weka, n, [wekas], "ndege asiye na uwezo wa kuruka").
+entry(welch, v, [welched, welching, welches], "kutoroka").
+entry(welcher, n, [waliosaliti], "yule anayesaliti").
+ingia(karibu, v, [karibishwa,karibisha,wanakukaribisha], "kusalimia kwa furaha").
+entry(mkaribishaji, n, [wakaribishaji], "anaye karibisha").
+ingizo(weld, v, [welded,welding,welds], "kuunganisha kwa kutumia joto NJINZI adj").
+entry(mpiga_chuma, n, [wapiga_chuma], "anayeyeyusha").
+kiingilio(weldless, kivumishi, [], "isiyo na viungo vilivyopigwa").
+entry(kifaa_cha_kuzungusha, n, [vifaa_vya_kuzungusha], "kifaa kilichotengenezwa kwa vipande vilivyowekwa pamoja kwa kuunganisha").
+entry(mweleshaji, n, [waelekaji], "mweleshaji").
+ingia(welfare, n, [welfares], "ustawi wa jumla").
+entry(welkin, n, [welkins], "anga").
+entry(well, k, [chemeshwa,chemsheka,chemsha], "kuinuka hadi kwenye uso na kutiririka nje").
+entry(welladay, n, [welladays], "wellaway").
+entry(wellaway, n, [wellaways], "usemi wa huzuni").
+entry(wellborn, kiv, [], "wa kuzaliwa bora au ukoo mzuri").
+entry(mzizeka, n, [mizizeka], "mduara wa mawe kuzunguka kisima shimo lililochimbwa ardhini kupata maji").
+entry(mtendawema, n, [watendawema], "mtu anayefanya matendo mema").
+entry(kichwa_cha_chemchemi, n, [vichwa_cha_chemchemi], "chanzo cha chemchemi au kijito").
+kiingilio(aji la kisima, n, [mashimo ya visima], "shimo la kisima").
+entry(wellie, n, [wellies], "buti za mvua").
+entry(mabuti, pl, [], "ya buti").
+entry(afya, n, [afya], "hali ya kuwa na afya").
+ingizaji(kisima, n, [visima], "madini").
+kibali(welly, n, [wellies], "wellie").
+entry(mwizi, v, [alighairi,kuhairi,anaghairi], "kushindwa kulipa deni").
+entry(mwitoaji, n, [mwitoaji], "mwenye kufanya kazi chini ya kiwango kilichoahidiwa").
+entry(welt, v, [welted,welting,welts], "kuashiria kwa alama au matuta yaliyochomoza kwenye ngozi").
+entry(welter, v, [weltered,weltering,welters], "kujikunguta").
+entry(welting, n, [weltings], "kamba au msitari unaotumiwa kuimarisha mshono").
+entry(wen, n, [wens], "uvimbe usio na madhara wa ngozi").
+entry(kahaba, v, [kahabaw, kahabawa, makahaba], "kutembea na makahaba").
+entry(mwanamwenzi, n, [wanamwenzi], "mmoja ambaye ni mwenzi.").
+ingizo(enenda, v, [lienda, kiendelea, enenda], "kusonga mbele").
+kuingiza(mwendigo, n, [mwendigo], "windigo").
+entry(wennish, kivumishi, [], "wenny").
+entry(wenny, kivumishi, [], "WENNIER WENNIESTinayofanana na kifukufuku").
+entry(alienda, wakati_uliopita, [], "hali ya neno kwenda").
+entry(alia, zamani, [], "kitenzi cha lia").
+entry(were, a, [], "watu wengi na mtu wa pili umoja kitenzi kishazi kilichopita na hali tegemezi ya kitenzi kuwa").
+entry(weregild, n, [weregilds], "wergeld").
+entry(mwitu, n, [miwitu], "mtu anayeweza kuchukua umbo la mbwa mwitu").
+entry(wergeld, n, [wergelds], "bei inayolipwa kwa kuua mtu katika sheria ya AngloSaxon").
+entry(wergelt, n, [wergelts], "wergeld").
+entry(fidia, n, [fidia], "fidia").
+entry(wert, a, [], "kiimbo cha mtu wa pili umoja, wakati uliopita wa 'kuwa'").
+entry(mbwamwitu, n, [mbwamwitu], "werewolf").
+entry(weskit, n, [weskits], "fulana").
+entry(wessand, n, [wessands], "weasand").
+entry(magharibi, n, [magharibis], "alama kuu ya dira").
+entry(wester, v, [westered, westering, westers], "kuhamia kuelekea magharibi").
+entry(magharibi, n, [upepo_wa_magharibi], "upepo kutoka magharibi").
+entry(magharibi, n, [wazungu], "mmoja anayeishi magharibi").
+entry(westing, n, [westings], "upepo wa magharibi unaohamia").
+entry(magharibi kabisa, kivumishi, [], "mbali zaidi magharibi").
+kiingilio(kuelekea_magharibi, n, [kuelekea_kusikosh], "mwelekeo kuelekea magharibi").
+entry(mvua, kivumishi, [], "MONEYEVU ZAIDI IMEJAA AU KUMEZWA NA MAJI AU KIOEVU").
+entry(wet, v, [wetted,wetting,wets], "kufanya kuwa mvua").
+entry(weta, n, [weta], "mdudu mkubwa asiye na mabawa wa New Zealand").
+entry(wether, n, [wethers], "kondoo wa kiume aliyekasirika").
+entry(ardhi_oevu, n, [ardhi_oevu], "ardhi yenye unyevunyevu mwingi wa udongo").
+entry(wetly, kiv, [], "kwa namna ya unyevunyevu").
+entry(unyevunyevu, n, [unyevunyevu], "hali ya kuwa na maji").
+entry(wetproof, kivumishi, [], "mzuio-maji").
+entry(suti_ya_kuogelea, n, [suti_za_kuogelea], "suti inayobana iliyotengenezwa kwa mpira kwa ajili ya kuvaliwa katika maji baridi na waogeleaji wa ngozi").
+entry(mwonekano_mvua, kivumishi, [], "uwezo wa kulowa").
+kiingilio(wetted, zamani, [], "kiwakilishi cha wet").
+entry(wetter, n, [wawekaji maji], "anayeweka maji").
+entry(mwenevu zaidi, kipeo, [], "ya mvua").
+entry(wetting, n, [wettings], "kioevu kinachotumika kulowesha kitu").
+entry(wettish, kiv, [], "kwa kiasi mvua").
+entry(mahala, n, [mahala], "ubongo wa binadamu unapoangaziwa kama sawa sawa na kompyuta").
+entry(wha, nom, [], "nani").
+entry(gonga, k, [gonga,gongwa,mgonga], "kupiga kwa nguvu").
+entry(whacked, adj, [], "1 kulewa kwa pombe au madawa ya kulevya 2 kuchoka").
+entry(mpigaji, n, [wapigaji], "yule anayepiga").
+entry(kupiga, n, [mapigo], "kitendo au tukio la kugonga kitu kwa nguvu").
+entry(mwendawazimu, n, [wendawazimu], "mwendawazimu").
+entry(whacky, kiv, [], "WHACKIER WHACKIESTwacky").
+kiingilio(nyangumi, k, [wanyangumi, kuwinda, manyangumi], "kushiriki katika uwindaji wa manyangumi wanyama wakubwa wa baharini").
+entry(mvuvi_wa_nyambizi, n, [wavuvi_wa_nyambizi], "mvuvi wa nyambizi").
+entry(mvuvi_wa_nyangumi, n, [wavuvi_wa_nyangumi], "mtu anayejihusisha na uwindaji wa nyangumi").
+entry(uwindaji, n, [uwindaji], "sekta ya uwindaji na usindikaji wa nyangumi").
+entry(wham, v, [whammed,whamming,whams], "kugonga kwa kishindo kikubwa").
+entry(whammo, kirai, [], "inayotumika kuashiria tukio la kushangaza").
+entry(whammy, n, [mambo ya majini], "uchawi wa ajabu unaoleta bahati mbaya").
+entry(whamo, kihisishi, [], "whammo").
+entry(whang, k, [whanged, whanging, whangs], "kupiga na kiboko").
+entry(whangee, n, [whangees], "nyasi ya Asia").
+entry(whap, v, [whapped,whapping,whaps], "kupiga").
+kiingilio(whapper, n, [whappers], "whopper").
+entry(gati, k, [gati, kugatia, magati], "kuachora gati mahali pa kutia nanga meli").
+entry(kodi_ya_gati, n, [kodi_za_gati], "matumizi ya gati").
+entry(wharve, n, [magogo], "kipande cha mti kilichozunguka kinachotumiwa katika kusokota uzi").
+kiingilio(nini, n, [ninini], "hali ya kweli ya kitu").
+entry(whatever, kivumishi, [], "kuwa kile au nani inaweza kuwa").
+entry(kiini, n, [viini], "hali ya kweli ya kitu").
+entry(whatnot, n, [whatnots], "rafu za mapambo").
+entry(kitu, n, [vitu], "kitu").
+entry(kitu_gani, n, [vitu_gani], "kitu ambacho jina lake halijulikani au limesahaulika").
+entry(whatso, pron, [], "chochote au nani inaweza kuwa").
+entry(whaup, n, [whaups], "ndege wa Ulaya").
+ingizo(wheal, n, [wheals], "kidonda").
+kiingilio(ngano, n, [nganos], "nyasi ya nafaka").
+entry(wheatear, n, [wheatears], "ndege mdogo wa maeneo ya kaskazini").
+entry(wheaten, n, [wheatens], "rangi ya manjano iliyokolea kidogo").
+entry(whee, kihisishi, [], "inayotumika kuonyesha furaha").
+entry(wheedle, v, [wheedled,wheedling,wheedles], "kujaribu kushawishi kwa kujipendekeza").
+entry(mshawishi, n, [washawishi], "yule anayeshawishi").
+kiingilio(gurudumu, v, [kwenye magurudumu, kuendesha, magurudumu], "kusafirisha kwa magurudumu mifumo ya mviringo iliyoundwa kugeuka kwenye mhimili").
+entry(wheeler, n, [wheelers], "mmoja anaye zungusha").
+entry(wheelie, n, [magurudumu], "mbinu inayofanywa kwenye chombo chenye magurudumu").
+entry(wheeling, n, [wheelings], "hali ya barabara kwa magari").
+entry(wheelman, n, [wheelmen], "nahodha").
+entry(wheen, n, [wheens], "kiasi kikubwa kiasi").
+kiingilio(wheep, k, [wheeped, wheeping, wheeps], "kupiga wheeple").
+```prolog
+kiingilio(wheeple, k, [wheepled,wheepling,wheeples], "kuzalisha mluzi mrefu").
+```
+entry(kupumua_kwa_kelele, v, [ilipumua_kwa_kelele,ikupumua_kwa_kelele,zapumua_kwa_kelele], "kupumua kwa sauti ya mlio").
+kiingilio(kipumuaji, n, [vipumuaji], "mmoja anayepumua kwa shida").
+ingizo(wheezy, kiv, [], "WHEEZIER WHEEZIESTambayo ina sifa ya wheezingWHEEZILY kiv").
+entry(whelk, n, [whelks], "kipele").
+ingia(whelky, kivumishi, [], "WHELKIER WHELKIESTimejawa na whelks").
+entry(zamisha, k, [zamishwa,kuzamisha,zamisha], "kufunika na maji").
+entry(mimba, v, [alizaa, akizaa, anazaa], "kuzaa").
+entry(lini, n, [lini], "wakati ambapo jambo fulani linafanyika au linatokea").
+entry(wakati, kiunganishi, [], "wakati huo").
+entry(whence, conj, [], "kutoka wapi").
+entry(kila_wakati, kiunganishi, [], "wakati wowote").
+entry(wapi, n, [mahali], "sehemu ambayo kitu kiko au hutokea").
+kiingilio(whereas, n, [whereases], "taarifa ya utangulizi ya waraka rasmi").
+kiingilio(wapi, kiunganishi, [], "ambapo").
+entry(ambapo, conj, [], "ambapo").
+entry(ambamo, kiunganishi, [], "ambayo").
+kiingizio(wherof, kiunganishi, [], "ambayo").
+ingia(ambapo, kiungo, [], "ambayo").
+entry(whereto, conj, [], "ambapo").
+kiingilio(kokote, kiunganishi, [], "mahali popote").
+entry(mtumbwi, v, [mtumbwiwa,mtumbwiwaji,mitumbwi], "kusafirisha kwa mtumbwi mdogo wa makasia").
+entry(wherve, n, [wherves], "gati").
+entry(whet, k, [kuwhetiwa, kuwheta, huwheti], "kufanya kali kwa msuguano").
+entry(ikiwa, kiunganishi, [], "ikiwa ni kweli kwamba").
+entry(whetter, n, [whetters], "anaye noesha").
+kiingilio(whew, n, [mioyo], "sauti ya filimbi").
+entry(whey, n, [wheys], "sehemu yenye maji ya maziwaWHEYEY WHEYISH kiv").
+entry(wheyface, n, [wheyfaces], "uso wa rangi ya manjano na hauna damu").
+entry(wheylike, kiv, [], "kufanana whey").
+ingizo(ambayo, kivumishi_kipweke, [], "ninini maalum au moja gani").
+entry(whicker, v, [whickered,whickering,whickers], "kupiga kelele kama farasi").
+entry(whid, v, [whidded,whidding,whids], "kusonga kwa haraka na kimya kimya").
+entry(whidah, n, [whidahs], "whydah").
+entry(whiff, v, [whiffed,whiffing,whiffs], "kupuliza au kusafirisha kwa pigo kidogo la hewa").
+entry(mnunusaji, n, [wanunusaji], "anayenusa").
+entry(whiffet, n, [whiffets], "mtu asiye na umuhimu").
+entry(whiffle, k, [whiffled,whiffling,whiffles], "kusonga au kufikiria bila mpangilio").
+entry(mvunja-ndimi, n, [wavunja-ndimi], "mwenye kuvunja ndimi").
+ingizo(whiffy, kiv, [], "WHIFFIER WHIFFIESTkuwa na harufu mbaya").
+kiingizio(whig, n, [whigs], "mmoja anayetafsiri historia kama ushindi wa kuendelea kwa maendeleo dhidi ya vikosi vya reaksioni").
+entry(while, v, [whiled, whiling, whiles], "kusababisha kupita kupendeza").
+entry(whilom, adv, [], "zamani").
+kiingilio(wakati, kiunganishi, [], "wakati wa").
+entry(hiari, n, [hiari], "wazo la msukumo").
+entry(mwimbaji, n, [waimbaji], "ndege wa pwani").
+entry(omboleza, k, [lilia, akilia, hulia], "kulia kwa sauti za huzuni zilizo na mzunguko").
+entry(whimsey, n, [whimseys], "mzaha").
+entry(whimsy, n, [whimsies], "hia WHIMSIED kivumishi").
+entry(mti_mkataa, n, [miti_mikataa], "mti wa mkataa").
+entry(kirichiriri, n, [vikirichiriri], "ndege wa uimbaji").
+entry(kilio, v, [kililia,kilionyesha,vililio], "kutoa sauti ya juu ya kuomboleza").
+entry(mlalamikaji, n, [walalamikaji], "mmoja anayelalamika").
+entry(whiney, kiv, [], "WHINIER WHINIESTwhiny").
+entry(kulalamika, v, [], "KULALAMIKA KULALAMIKA au KULALAMIKA KULALAMIKA kukonyeza").
+entry(mlug complaining, nom, [mlug complaining], "mtu anayelalamika").
+entry(whingy, kiv, [], "WHINGIER WHINGIESTkuwa na mwelekeo wa kunung'unika").
+entry(whinier, kirianganishi, [], "ya kulalamika na kulialia").
+entry(mwiongezaji, kiyokwezo, [], "ya whiney na whiny").
+entry(kulalamika, wakati_wa_sasa, [], "participle ya kulalamika").
+entry(whinny, kiv, [], "WHINNIER WHINNIESTabounding in whin").
+entry(farasi_kulia, v, [alilia_farasi,akilia_farasi,analia_farasi], "kulelekwa kwa utulivu au kwa sauti ya chini").
+entry(mlalamishi, kiv, [], "MLALAMISHI ZAIDI KULALAMIKA").
+entry(mjeledi, k, [mjelediwa,kuchezea,miwa], "kupiga na mjeledi chombo cha kutoa adhabu ya mwili").
+entry(kamba-ngumu, n, [kamba-ngumu], "kamba yenye nguvu iliyosokotwa").
+entry(whiplash, n, [whiplashes], "mpini wa mjeledi").
+entry(bila_mjeledi, kivumishi, [], "kosa mjeledi").
+entry(kama-mjeledi, adj, [], "inayofanana na mjeledi").
+entry(kuchapwa, a, [], "zamani ya neno chapwa").
+entry(mchapa, n, [wachapa], "mmoja anayechapa").
+entry(mbwa_kukimbia_haraka, n, [mbwa_wa_kukimbia_haraka], "mbwa mdogo na mwepesi").
+entry(kuchapa, n, [michapo], "vifaa vinavyotumika kuchapa").
+entry(whippit, n, [whippits], "kifaa kidogo cha oksidi ya nitrojeni").
+kiingilio(whippy, kivumishi, [], "INAYOHUSIANA NA VINYWA VIRAHISI KUCHAPWA").
+entry(whipray, n, [whiprays], "miale").
+entry(whipsaw, v, [whipsawed,whipsawn,whipsawing], "WHIPSAWSkukata na msumeno mwembamba unaopungua").
+entry(whipt, a, [], "nyakati za zamani za whip").
+entry(whiptail, n, [whiptails], "mjusi mwenye mkia mwembamba na mrefu").
+entry(minyoo ya mjeledi, n, [minyoo ya mijeledi], "minyoo ya kupe").
+entry(whir, v, [whirred,whirring,whirs], "kuhama na sauti ya muvumo").
+entry(xanthan, n, [xanthans], "gamu inayozalishwa na uchachushaji wa bakteriaXANTHATE n pl XANTHATESchumvi ya kikemikaliXANTHEIN n pl XANTHEINSsehemu inayoyeyuka kwenye rangi katika maua ya manjanoXANTHENE n pl XANTHENESkiwango cha kikemikaliXANTHIC adj inayokaribia kuwa na rangi ya njanoXANTHIN n pl XANTHINSrangi ya njanoXANTHINE n pl XANTHINESkiwango cha kikemikaliXANTHOMA n pl XANTHOMAS or XANTHOMATAugonjwa wa ngoziXANTHONE n pl XANTHONESkiwango cha kikemikaliXANTHOUS adj njanoXEBEC n pl XEBECSmerikebu ya MediteraniaXENIA n pl XENIASathari ya chavua kwenye muundo wa mimea fulaniXENIAL adjXENIC adj inayohusu aina ya mazingira ya utamaduniXENOGAMY n pl XENOGAMIEShamisho ya chavua kutoka mmea mmoja hadi mwingineXENOGENY n pl XENOGENIESuzalishaji wa kizazi tofauti kabisa na mzaziXENOLITH n pl XENOLITHSjiwe lililojumuishwa katika jiwe lingineXENON n pl XENONSkipengele cha gesiXENOPUS n pl XENOPUSChura asilia ya kusini mwa AfrikaXENOTIME n pl XENOTIMESmadini ya rangi ya kahawiaXERARCH adj inayokua katika eneo kavuXERIC adj inayohitaji kiasi kidogo tu cha unyevuXEROSERE n pl XEROSERESeneo kavu la mfululizoXEROSIS n pl XEROSESukavu usio wa kawaida wa sehemu ya mwili au tishuXEROTIC adjXEROX v XEROXED XEROXING XEROXESnakala kwenye kopya ya kemikaliXERUS n pl XERUSchindi wa ardhini wa AfrikaXI n pl XIskifupi ya KiyunaniXIPHOID n pl XIPHOIDSsehemu ya mfupa wa kifuaXU n pl XUnkipande cha fedha cha VietnamXYLAN n pl XYLANsutu inayopatikana kwenye kuta za seli za mimeaXYLEM n pl XYLEMtishu tata za mimeaXYLENE n pl XYLENEShidrokaboni inayowakaXYLIDIN n pl XYLIDINSxylidineXYLIDINE n pl XYLIDINESkiwango cha kikemikaliXYLITOL n pl XYLITOLSpombeXYLOCARP n pl XYLOCARSmatunda gumu na la mbaoXYLOID adj inayofanana na mbaoXYLOL n pl XYLOLSxyleneXYLOSE n pl XYLOSESaina ya sukariXYLOTOMY n pl XYLOTOMIESmatayarisho ya sehemu za mbao kwa uchunguzi wa darubiniXYLYL n pl XYLYLradical isiyo na tofautiXYST n pl XYSTSxystusXYSTER n pl XYSTERSchombo cha upasuaji cha kukwenya mifupaXYSTOS n pl XYSTOxystusXYSTUS n pl XYSTIeneo lenye paa ambapo wanariadha walifundishwa katika Ugiriki ya kale").
+entry(ya, n, [yas], "pea ya AsiaYABBER v YABBERED YABBERING YABBERSku jabberYABBIE n pl YABBIESyabbyYABBY n pl YABBIESkaa yule wa AustraliaYACHT v YACHTED YACHTING YACHTSku eta katika yacht chombo kinachotumika kwa safari za starehe au mbioYACHTER n pl YACHTERSmmoja anayesafiri kwa yachtYACHTIE n pl YACHTIESyachterYACHTING n pl YACHTINGSkusafiri kwa yachts mchezo wa kusafiri kwa yachtsYACHTMAN n pl YACHTMENyachterYACK v YACKED YACKING YACKSku yakYAFF v YAFFED YAFFING YAFFSku kubwekaYAFFLE n pl YAFFLESkualia kwa kijani ya UlayaYAG n pl YAGSalmasi ya sintetikiYAGE n pl YAGES mzabibu wa kitropiki wa mkoa wa AmazonYAGER n pl YAGERSjaegerYAGI n pl YAGISaina shortwave antennaYAH interj  inayotumiwa kama mshangao wa kuchukizwaYAHOO n pl YAHOOSmtu mbaya wa kawaidaYAHOOISM n pl YAHOOISMStabia mbaya isiyokuwa ya kawaidaYAHRZEIT n pl YAHRZEITSmiaka ya kifo cha mwanafamilia inayoadhimishwa na WayahudiYAIRD n pl YAIRDSbustaniYAK v YAKKED YAKKING YAKSku kongaYAKITORI n pl YAKITORISkuku zilizomarinadika kwenye skewerYAKKER n pl YAKKERSmmoja anayeyakYAKUZA n pl YAKUZAkkundi la wahalifu wa KijapaniYALD adj yauldYAM n pl YAMSmmea wenye mzizi wa kuliwaYAMALKA n pl YAMALKAvyarmulkeYAMEN n pl YAMENSmakazi ya afisa wa umma wa ChinaYAMMER v YAMMERED YAMMERING YAMMERSku lalamika pevuYAMMERER n pl YAMMERERSmtu anayenung'unikaYAMULKA n pl YAMULKASyarmulkeYAMUN n pl YAMUNSyamenYANG n pl YANGSprinciple kazi katika kozmolojia ya KichinaYANK v YANKED YANKING YANKSku vuta ghaflaYANQUI n pl YANQUISmtu wa MarekaniYANTRA n pl YANTRASdiagramu ya kijiometri inayotumiwa katika kutafakariYAP v YAPPED YAPPING YAPKubu kubweka kwa sautiYAPOCK n pl YAPOCKSpaka la majiYAPOK n pl YAPOKSyapockYAPON n pl YAPONSyauponYAPPED wakati uliopita wa yapYAPPER n pl YAPPERSmmoja anayebwekaYAPPING ya sasa ya yapYAPPY adj YAPPIER YAPPIESTinaelekea kuuawaYAR adj yareYARAK n pl YARAKSkiwango kinachofaa kwa kuwinda kimatumizi ya mielelesYARD v YARDED YARDING YARDSkuweka katika uwanja ardhi karibu na jengoYARDAGE n pl YARDAGEStumia kwa zizi la mifugo katika kituo cha reliYARDARM n pl YARDARMShataiza ya mwisho ya nguzo la meliYARDBIRD n pl YARDBIRDSmashujaaYARDER n pl YARDERSmmoja mwenye urefu wa zinazokubalikaYARDLAND n pl YARDLANDSkitengo cha zamani cha kipimo cha ardhiYARDMAN n pl YARDMENmwanaume anayefanya kazi za njeYARDWAND n pl YARDWANDS fimbo ya kupimiaYARDWORK n pl YARDWORKSutunzaji wa nyasiYARE adj YARER YARESTnyepesiYARELY advYARMELKE n pl YARMELKESyarmulkeYARMULKA v pl YARMULKASyarmulkeYARMULKE n pl YARMULKESkofia ya kichwa yenye kuvaa na wanaume wa KiyahudiYARN v YARNED YARNING YARNSku hadithi ndefuYARNER n pl YARNERSmtu anayeandika hadithiYARROW n pl YARROWSmmea wa kudumuYASHMAC n pl YASHMACSyashmakYASHMAK n pl YASHMAKSvela inayovaliwa na wanawake wa KiislamuYASMAK n pl YASMAKSyashmakYATAGAN n pl YATAGANSyataghanYATAGHAN n pl YATAGHANSupanga wa UturukiYATTER v YATTERED YATTERING YATTERSkusikiliza kimyaYAUD n pl YAUDSkifarasi mzeeYAULD adj nguvuYAUP v YAUPED YAUPING YAUPSku pumziYAUPER n pl YAUPERSmmoja anayepiga keleleYAUPON n pl YAUPONSmkichwa usio na ukomoYAUTIA n pl YAUTIASmmea wa kitropikiYAW v YAWED YAWING YAWSku toka kwenye mkondo uliokusudiwaYAWEY adj inahusiana na yaws ugonjwa wa kuambukizaYAWL v YAWLED YAWLING YAWLSkukongezeka kwa sautiYAWMETER n pl YAWMETERSchombo katika ndege ambacho huyawinaYAWN v YAWNED YAWNING YAWNSkubweka kwa mdomo wazi kwa pumzi YAWNER n pl YAWNERSmmoja anayopiga mdomo wazi YAWP v YAWPED YAWPING YAWPSkubwamka kwa sauti mbaya YAWPER n pl YAWPERSmtu anayopiga mdomo kwa mbaya YAWPING n pl YAWPINGS mwimbo wa sauti mbaya YAY n pl YAYSkuvunzika YCLAD adj kuvaliwa YCLEPED adj yclept YCLEPT adj kuitwa YE pronavyo YEA n pl YEAS kura ya kuthibitisha YEAH n pl YEAHS jibu la kuthibitisha YEALING n pl YEALINGS mtawa wa umri YEAN v YEANED YEANING YEANS kuzaa wachanga YEANLING n pl YEANLINGS saa za kondoo au mbuzi YEAR n pl YEARS kipindi cha wakati kilichokuwa na siku 365 au 366 YEARBOOK n pl YEARBOOKS kitabu kinachochapishwa kila mwaka na darasa la kuhitimu YEAREND n pl YEARENDS mwisho wa mwaka YEARLING n pl YEARLINGS mnyama aliyepita mwaka na bado hajafikia miaka mbili YEARLONG adj inachukua mwaka YEARLY n pl YEARLIES chapisho linalojitokeza mara moja kwa mwaka YEARN v YEARNED YEARNING YEANS kuwa na hamu kali au hamu YEARNER n pl YEARNERS mtu ambaye anatumaini YEARNING n pl YEARNINGS hamu kubwa au ya kina YEASAYER n pl YEASAYERS mtu anaye thibitisha kitu YEAST v YEASTED YEASTING YEASTS kupanda YEASTY adj YEASTIER YEASTIESTkufanya chachu YEASTILY advYECCH n pl YECCHS kiasi kinachoshusha YECH n pl YECHSyacccinajitokeza na kutendeka YECHY adj inachukiza YEELIN n pl YEELINS mkristo YEH interj kutumika kuonyesha masikitiko YEGG n pl YEGGSmjambazi wa wizi YEGGMAN n pl YEGGMEN yegg YE adv kutumika kuonyesha mhaaini YELD adj bila kutoa maziwa YELK n pl YELKS yai YELL v YELLED YELLING YELLS kupaza sauti kwa nguvu YELLER n pl YELLERS mmoja anayesikiliza kwa nguvu YELLING n pl YELLINGS pl ya kutangaza kwa sauti YELLOW adj YELLOWER YELLOWEST rangi ya kung'ara kama rangi ya lemona zilizokomaa YELLOWLY adv YELLOW v YELLOWED YELLOWING YELLER kuifany ikawa njano YELLOWY adj YELLOWIER YELLOWIEST kufanana na njano mtoto mchanga YELPER n pl YELPERS mmoja anayopiga kelele YEN v YENNED YENNING YENsku tambaa YENTA n pl YENTAS mwanamke wa marafiki YENTE n pl YENTES yenta YEOMAN n pl YEOMEN mkulima huru YEOMANLY adj yeomanry YELLING YEOMANRY n pl YEOMANRIES mwili wa pamoja wa yeomen YEOW interj kutumika kuonyesha uchungu au mshangao YEP n pl YESp kuwa jibu la uthibitisho YERBA n pl YERBAS kunwaji wa Amerika Kusini inayofanana na chai YERK v YERKED YERKING YERKS kupiga kwa nguvu YES v YESSED YESSING YESx au YESx kutoa jibu la kuthibitisha YESHIVA n pl YESHIVAS au YESHIVOT au YESHIVOTH shule ya kidini ya Kiyahudi YESHIVAH n pl YESHIVAHS yeshiva YESSIR n interj kutumika kuonyesha uthibitisho YESSIREE interj yessir YESSUM n interj kutumika kusema ndiyo kwa mwanamke YESTER adj inahusiana na jana YESTERN adj jana YESTREEN n pl YESTREENS jioni iliyotangulia YET adv hadi sasa YETI n pl YETI wamtu wa theluji YETT n pl YETTSgate YEUK v YEUKED YEUKING YEUKSku kofi YEUKY adj inachukiza YEW n pl YEWS mti au kijiti cha kijani mileur YIELD v YIELDED YIELDING YIELDs kutoa YIELDER n pl YIELDERS mmo mmoja anayetoa YIKES interj kutumika kuonyesha hofu au uchungu YILL n pl YILLS ale YIN n pl YINS kanuni za kike katika kozmolojia ya Kichina YINCE adv wakati mmoja YIP v YIPPED YIPPING YIPs kukatika YIPE interj kutumika kuonyesha hofu au mshangao YIPES interj yipe YIPPEE interj kutumika kuonyesha furaha YIPPIE n pl YIPPIES hippie wa radikali wa siasa YIPPING kuli ya sasa wa yip YIRD n pl YIRDS ardhi YIRR v YIRRED YIRRING YIRRS kuparuza YIRTH n pl YIRTHS yird YLEM n pl YLEMS jambo la kinadharia kutoka kwenye vitu vindaug YLEMS ya elementi YO interj kutumika kuanzisha au kutoa uthibitisho YOB n pl YOBS muharamia YOBBERY n pl YOBBERIEST tabia ya yob YOBBISH adj kuweka wazi kwa njia ya yob YOBBO n pl YOBBOS au YOBBOES yob YOBBY adj YOBBIER YOBBIEST kufanana na yob YOCK v YOCKED YOCKING YOCKS kucheka kwa nguvu YOD n pl YODS herufi ya Kiebrania YODEL v YODELED YODELING YODELS au YODELLED YODELLING YODELS kuimba kwa sauti ya kufuka YODELER n pl YODELERS mtu anayoodela YODELLER n pl YODELLERS yodeler YODH n pl YODHSyod YODLE v YODLED YODLING YODLES kuimba kwa sauti ya kufuka YODLER n pl YODLERS yodler YOGA n pl YOGAS falsafa ya Hindi inayohusisha nidhamu ya kimwili na kisaikolojia YOGEE n pl YOGEES yogi YOGH n pl YOGHS herufi ya zamani ya Kingleza YOGHOURT n pl YOGHOURTS yogurt YOGHURT n pl YOGHURTS yogurt YOGI n pl YOGIS mtu anaye tenda yoga YOGIC adj inayohusiana na yoga YOGIN n pl YOGINS yogi YOGINI n pl YOGINIS yogi ya kike YOGISM n pl YOGISMS mfumo wa yoga YOGOURT n pl YOGOURTS yogurt YOGURT n pl YOGURTS chakula kilichotengenzwa na maziwa YOHIMBE n pl YOHIMBESmnti wa Kiafrika wa kitropiki YOICKS interj kutumika kuhamasisha mbwa wa uwindaji YOK n pl YOKS kicheko chenye sauti YOKE v YOKED YOKING YOKES kuleta pamoja na nira nira ya miti ya kuunganisha wanyama wenye nguvu YOKEL n pl YOKELS mtu anayesisie au kutoamini YOKELESS adj bila nira YOKELISH adj kufanana na yokel YOKEMATE n pl YOKEMATES uzingatiaji katika kazi YOKING kiambatanishi cha sasa cha yoke YOKOZUNA n pl YOKOZUNAS bingwa wa sumo YOLK n pl YOLKS ukoo mwe na kiini cha yai YOLKED adj kufanana na kiini cha yai YOLKLESS adj kukosa kiini YOLKY adj YOLKIER YOLKIESTKuna rangi njano mwembamba YOM n pl YOMIMsiku YOMP v YOMPED YOMPING YOMPS kutembea na vifaa vizito juu ya ardhi ya ngumu YON adv huko YOND adv upande ule YONDER n pl YONDERSpana kuu YONI n pl YONIS ishara ya vulva katika dini ya Kihindu YONIC adj YONKER n pl YONKERSyounker YONKS npl muda mrefu kwamda YOOF n pl YOOFS vijana YORE n pl YORESkatika zamani za mikutane wakati wa zamani YOU n pl YOUS kitu kilichotambuliwa na mtu aliyezungumziwa YOUNG adj YOUNGER YOUNGEST akiwa katika hatua ya mwanzo wa maisha au ukuaji YOUNG n pl YOUNGSwatoto YOUNGER n pl YOUNGERS duni katika umri YOUNGISH adj haumba YOUNKER n pl YOUNKERS mwanaume kijana YOUPON n pl YOUPONSyaupon YOUR adj namna ya kumiliki pronoun ya you YOURN pron yaako YOURS pron aina ya pronoun yenye kwa you YOURSELF pron pl YOURSELVES sajhili ya pronoun ya watu wa 2 YOUSE pron you YOUTH n pl YOUTHS mtu mdogo YOUTHEN v YOUTHENED YOUTHENING YOUTHENSkufanya mdogo YOUTHFUL adj mchanga YOW v YOWED YOWING YOWSkuomboleza kwa nguvu YOWE n pl YOWES kondoo ya kike YOWIE n pl YOWIES kondoo mdogo YOWL v YOWLED YOWLING YOWLS kupiga kelele ya kusikitisha kwa muda mrefu YOWLER n pl YOWLERS mtu anayepiga kelele YPERITE n pl YPERITESsumu ya gesi YTTERBIA n pl YTTERBIAS kitengo chenye kujulikana YTTERBIC adj YTTRIA n pl YTTRIAS kiungo kitajwa YTTRIUM n pl YTTRIUMS kipengele cha metali YTTRIC adj YUAN n pl YUANS kitengo cha kifedha cha China YUCA n pl YUCAS yucca YUCCA n pl YUCCAS mmea wa kitropiki YUCCH interj kutumika kueleza hali ya kuchukiza YUCH interj yucch YUCK v YUCKED YUCKING YUCKS ku yuk YUCKY adj YUCKIER YUCKIEST kuchukiza YUGA n pl YUGAS umri wa wakati katika Uhindu YUK v YUKKED YUKKING YUKSkucheka kwa nguvu YUKATA n pl YUKATAS kimono cha pamba nyembamba YUKKY adj YUKKIER YUKKIEST yucky YULAN n pl YULANS mti wa Kichina YULE n pl YULES huduma ya Krismasi YULETIDE n pl YULETIDES Krismasi YUM interj kutumiwa kuonyesha kuridhika kwa furaha YUMMY adj YUMMIER YUMMIEST ladha YUMMY n pl YUMMIES kitu kitamu YUP n pl YUPS yuppie YUPON n pl YUPONSyaupon YUPPIE n pl YUPPIES mtu mdogo wa kitaalamu anaye fanya kazi mjini YUPPIFY v YUPPIFIED YUPPIFYING YUPPIFIES kufanya kuvutia kwa yuppies YUPPY n pl YUPPIES yuppie YUPPYDOM n pl YUPPYDOMSHali ya kuwa yuppie YURT n pl YURTS au YURTAto ya hema inayobebeka YUTZ n pl YUTZES mtu mbaya, mbaya au mwenye malengo mabaya YUZU n pl YUZUS matunda ya uchungu ya japanese ya machungwa YWIS adv iwis").
+entry(za, n, [zas], "pizzaZABAIONE n pl ZABAIONESdesserti inafanana na puddingZABAJONE n pl ZABAJONESzabaioneZACATON n pl ZACATONSNyasi ya MexikoZADDICK n pl ZADDIKIMzaddikZADDIK n pl ZADDIKIMmtu mwema kwa viwango vya kidini vya KiyahudiZAFFAR n pl ZAFFARSzafferZAFFER n pl ZAFFERSrangi ya bluu za kauriZAFFIR n pl ZAFFIRSzafferZAFFRE n pl ZAFFRESzafferZAFTIG adj fullbosomedZAG v ZAGGED ZAGGING ZAGkuzunguka kwa ghaflaZAIBATSU n pl ZAIBATSUmuungano wa familia wenye nguvu nchini JapaniZAIDA n pl ZAIDASzedaZAIDEH n pl ZAIDEHSzedaZAIDY n pl ZAIDIESzedaZAIKAI n pl ZAIKAIJumuiya ya biashara ya JapaniZAIRE n pl ZAIRESkitengo cha zamani cha fedha cha ZaireZAKAT n pl ZAKATSmalipo yanayofanywa kila mwaka chini ya sheria ya Kiislamu kwenye aina fulani za maliZAMARRA n pl ZAMARRASkoti la ngozi ya kondooZAMARRO n pl ZAMARROSzamarraZAMIA n pl ZAMIASmmea wa tropikiZAMINDAR n pl ZAMINDARSmkaaji wa kodi katika India ya kabla ya ukoloniZANANA n pl ZANANzaenaZANDER n pl ZANDERSsamaki wa maji safiZANINESS n pl ZANINESSEUbora au hali ya kuwa zanyZANY adj ZANIER ZANIESTkichekesho cha ujingaZANILY advZANY n pl ZANIESmtu mcheshiZANYISH adj zany kiasiZANZA n pl ZANZASchombo cha muziki cha KiafrikaZAP v ZAPPED ZAPPING ZAPKuua au kuharibu mara mojaZAPATEO n pl ZAPATEOSngoma ya KihispaniaZAPPER n pl ZAPPER kifaa kinachozapZAPPY adj ZAPPIER ZAPPIESTzippyZAPTIAH n pl ZAPTIAHSaskari wa KiturukiZAPTIEH n pl ZAPTIEHSzaptiahZARATITE n pl ZARATITEYakemikaliZAREBA n pl ZAREBASuzio la mudaZAREEBA n pl ZAREEBAZarebaZARF n pl ZARFSkibebaji cha chuma kwa kikombe cha kahawaZARIBA n pl ZARIBASzarebaZARZUELA n pl ZARZUELASopera ndogo ya KihispaniaZASTRUGA n pl ZASTRUGNsastrugaZAX n pl ZAXESkifaa cha kukata slate za paaZAYIN n pl ZAYINSbarua ya KiebraniaZAZEN n pl ZAZENSMeditation katika Ubuddha wa ZenZEAL n pl ZEALShamu kubwaZEALOT n pl ZEALOTSmtu ambaye ana shauku kubwaZEALOTRY n pl ZEALOTRIShamu nyingi kupita kiasiZEALOUS adj iliyojaa hamuZEATIN n pl ZEATINSKemikali inayopatikana kwenye mahindiZEBEC n pl ZEBECSxebecZEBECK n pl ZEBECKSxebecZEBRA n pl ZEBRASmnyama wa Afrika anayeweza kulinganishwa na farasiZEBRAIC adjZEBRANO n pl ZEBRANOSmbuyu mwenye mti wa mistariZEBRASS n pl ZEBRASSEMzaliwa wa punda milia na pundaZEBRINE n pl ZEBRINEMSaliwa wa farasi dume na punda milia jikeZEBROID adj kufanana na punda miliaZEBU n pl ZEBUSng'ombe wa AsiaZECCHIN n pl ZECCHINSZecchinoZECCHINO n pl ZECCHINOS au ZECCHINIzeka la zamani la dhahabu la ItaliaZECHIN n pl ZECHINSzecchinoZED n pl ZEDSbarua ZZEDA n pl ZEDAbabuZEDOARY n pl ZEDOARIEZshina la dawa la mmea wa tropikiZEE n pl ZEEbarua ZZEIN n pl ZEINSprotini rahisiZEK n pl ZEKMkazi wa kambi ya kazi ya SovietZELKOVA n pl ZELKOVAStree la JapaniZEMINDAR n pl ZEMINDARSzamindarZEMSTVO n pl ZEMSTVOS au ZEMSTVABaraza la uchaguzi katika Urusi ya czaristZENAIDA n pl ZENAIDASMji wa poriniZENANA n pl ZENANASehemu ya nyumba huko India iliyotengwa kwa ajili ya wanawakeZENDO n pl ZENDOSehemu ya Wabudhi wa Zen kutafakari na kusomaZENITH n pl ZENITHSsehemu ya juu kabisaZENITHAL adjZEOLITE n pl ZEOLITESmadiniZEOLITIC adjZEP n pl ZEPLong sandwichZEPHYR n pl ZEPHYRSupepo mzuriZEPPELIN n pl ZEPPELINSDirishipu refuZEPPOLE n pl ZEPPOLES au ZEPPOLISakeki ya kukaangaKatika mafutaZERO v ZEROED ZEROING ZEROKuelekeza katikatiZeroTH adj nambari sifuri katika mfululizoZEST v ZESTED ZESTING ZESTKujaza na nguvu au msisimkoZESTER n pl ZESTERSreembo kwa ajili ya kung'oa ganda la machungwaZESTFUL adj imejaa shaukuZESTLESS adj kukosa shaukuZESTY adj ZESTIER ZESTIESTikiwa imetajwa na shaukuZESTILY advZETA n pl ZETASBarua ya KiyunaniZETETIC adjkwendelea kwa njia ya utafitiZEUGMA n pl ZEUGMASkutaja au kudhibiti maneno mawili au zaidiZIBELINE n pl ZIBELINENguo lainiZIBET n pl ZIBETS mnyama wa Asia wa pakaZIBETH n pl ZIBETHSZibetZIG v ZIGGED ZIGGING ZIGkuzunguka kwa ghaflaZIGGURAT n pl ZIGGURATStawi la hekalu la Babilonia la zamaniZIGZAG v ZIGZAGGED ZIGZAGGING ZIGZAGKufuata mwelekeo ulio na zunguzo kaliZIGZAGGY adj kina mwelekeo mkaliZIKKURAT n pl ZIKKURATSzigguratZIKURAT n pl ZIKURATSzigguratZILCH n pl ZILCHESHakuna kituZILL n pl ZILLSmuuziki wa kiganjaZILLAH n pl ZILLAHSwila ya serikali nchini IndiaZILLION n pl ZILLIONSNambari isiyodhamiraZIN n pl ZINSMvinyo mwekundu kikavuZINC v ZINCING ZINCS au ZINCKED ZINCKING ZINCSKuacha bafa au mraba wa mabatiZINCATE n pl ZINCATESumumada ya kemikaliZINCIC adjyanayohusu zinkiZINCIFY v ZINCIFIED ZINCIFYING ZINCIFIEKa bafa kwa zinkiZINCITE n pl ZINCITESHaki ya zinkiZINCKED jnmwenye zinkiZINCKING jnsilikuwa na zinkiZINCKY adjinavyoonekana kama zinkiZINCO n pl ZINCOSChapa ya uchapishaji iliyotengenezwa ya zinkiZINCOID adjanayohusu zinkiZINCOUS adjanayohusu zinkiZINCY adj MnzingiZINE n pl ZINEMAjaridaZINEB n pl ZINEBSumi ya waduduZING v ZINGED ZINGING ZING kuwa na sauti ya juuZINGANO n pl ZINGANIzingaroZINGARA n pl ZINGAREmwanamke BelzebubZINGARO n pl ZINGARIKochaBelzebubZINGER n pl ZINGERSpambano la kupingamnoZINGY adj ZINGIER ZINGIESTzanyi vizuriZINKIFY v ZINKIFIED ZINKIFYING ZINKIFIEKa rangi kuwa kama zinkiZINKY adj ZinziniZINNIA n pl ZINNIAStropikiZIR v ZIPIOR ZIPIPPING ZIPKuenda kwa haraka na nguvuZIPLESS adjMboleakokosa nguvuZIPLOCK adjMbolenyuma na pindoZIPOLA n pl ZIPOLAzipoZIPPER v ZIPPERED ZIPPERING ZIPPEKufanya na zipperZIPPO n pl ZIPPOShakuna kitu ZIPPY adj ZIPPIER ZIPPIESTImejaa nishatiZIPOLLY advZIRAM n pl ZIRAMSChumvi ya sumuZIRCALOY n pl ZIRCALOYAlimazia ya ZirkoniZIRCON n pl ZIRCONSMadiniZIRCONIA n pl ZIRCONIASChumvi ya zirkoniZIRCONIC adjanayohusu kipengele cha zinkiZIT n pl ZITSpimpleZITHER n pl ZITHERNSKambaZITI n pl ZITIndopasta ya tabasamuZIZIT n pl zizithZIZITH n plkupe kutafuta tanuu nneZIZ n ZIToleZIZING ZIZKufanya keleleZZLOTY n pl ZLOTYSheria ya fedha ya PolandZOA pl ZoonZRAlofaCOICA n pl ZOCALIAjukawavu na Mji wa AmerikaZOCALO n pl ZOCALOShochi kubwaZODIAC n plZODIACSUkanda wa zodiaki ZODIACAL adjZOEA n pl ZOEAISpecimen ya kriketiZOEAL adjZOECIUM n pl ZOECIAZoeCfZOETROPE n pl ZOETROPESChewa la pichaZOFTIG adj zaftigZIAcon chewaZOISITE n pl ZOISITENTERZOMBIE n pl ZOMBIESIMalaka mara KawiperZOMBIFY v ZOMBIFIED ZOMBIFYINGZOMBIFIERushtZOMBIZINJIZI v ZOMBIZISA n pl ZOMBIZINZMwegoZOMBIELIZUMINSIC adjZOMBIEZOMAIC adjZIX n plZIXIC adjZOYSTER n pl ZISCROPYMutumwaZYMIDSIZE adjilarly na ZYNACA n plPYMOUNPIE n pl AIJOVA n pl ZVIONRche repeatZYMZBLEACHYLTZYPTOSADJEchlasDUSERRAMMSLAPHICHENZASKARAAZ BILADMENEPERBAZMKAE"
+ingizo(q, maneno, [], "haijafuatwa na U BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+entry(maneno, kwa, [], "hakuna vokali AEIOU BYHMMMMYSHBRRBYSCRYCWMDRYFLYFRYGRRGYMGYPHMMHYPMMMMYCNTHPHTPLYPRYPSTPYXSHHSHYSKYSLYSPYSTYSYNTHYTRYTSKWHYWRYWYNZZZBRRRBYRLCWMSCYSTDRYSGYMSGYPSHWYLHYMNHYPSLYCHLYNXMYCSMYTHPFFTPSSTRYNDSCRYSHHHSKRYSPRYSYNCSYPHTSKSTYPPTYPYWHYSWYCHWYNDWYNNWYNSXYSTBYRLSCRWTHCRYPTCYSTSDRYLYFLYBYGHYLLGLYPHGRRRLGYPSYHWYLSHYMNSLYMPHLYNCHMYRRHMYTHSMYTHYNYMPHPHPHTPSYCHPYGMYRYNDSSHYLYSLYLYSTYMYSYLPHSYNCHSYNCSSYNTHSYPHSTHYMYTRYSTTYPPSWRYLYWYNDSWYNNSXYLYLXYSTSCRWTHSCRYPTSFLYBYSFLYSCHGHYLLSGLYCYLGLYPHSGRRRLSLYMPHSMYRRHSMYRRHYNYMPHSPSYCHSRHYTHMSPHYNXSPRYLYSYLPHSSYLPHYSYNCHSSYNTHSSYZYGYTRYSTSTSKTSKXYLYLSGLYCYLSRHYTHMSTSKTSKS").
+```prolog
+kiingilio(maneno, yanayojumuisha, [], "J Q X au Z AXEXJOOXQIXIXUZAADZAJIAXEAZOBIZBOXCOXCOZCUZDEXFAXFEZFIXFIZFOXGOXHAJHEXJABJAGJAMJARJAWJAYJEEJETJEUJIBJIGJINJOBJOEJOGJOTJOWJOYJUGJUNJUSJUTKEXLAXLEXLOXLUXMAXMIXMUXNIXOXOOXYPAXPIXPOXPYXQATQISQUARAJRAXREXREZSAXSEXSIXSOXSUQTAJTAXTIXTIZTUXVEXVOXWAXWIZXISZAGZAPZASZAXZEDZEEZEKZEPZIGZINZIPZITZOAZOOZUZZZZADZEAJARAJEEAJISAPEXAQUAAXALAXEDAXELAXESAXILAXISAXLEAXONAZANAZONBAZZBIZEBOXYBOZOBRUXBUZZCALXCAZHCHEZCINQCOAXCOXACOZYCRUXCZARDAZEDEXYDITZDJINDOJODOUXDOXYDOZEDOZYEAUXEXAMEXECEXEDEXESEXITEXONEXPOFALXFAUXFAZEFIXTFIZZFLAXFLEXFLUXFOXYFOZYFRIZFUJIFUTZFUZEFUZZGAZEGEEZGOJIGRIZHADJHAJIHAJJHAZEHAZYHOAXIBEXILEXIXIAIZARJABSJACKJADEJAGGJAGSJAILJAKEJAMBJAMSJANEJAPEJARLJARSJATOJAUKJAUPJAVAJAWSJAYSJAZZJEANJEEDJEEPJEERJEESJEEZJEFEJEHUJELLJEONJERKJESSJESTJETEJETSJEUXJIAOJIBBJIBEJIBSJIFFJIGSJILLJILTJIMPJINKJINNJINSJINXJIRDJIVEJIVYJOBSJOCKJOESJOEYJOGSJOHNJOINJOKEJOKYJOLEJOLTJOOKJOSHJOSSJOTAJOTSJOUKJOWLJOWSJOYSJUBAJUBEJUCOJUDOJUDYJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGUMJUICEJUICYJUJUSJUKEDJUKESJUKUSJULEPJUMARJUMBOJUMPSJUMPYJUNCOJUNKSJUNKYJUNTAJUNTOJUPESJUPONJURALJURATJURELJURORJUSTSJUTESJUTTYJUVIEKANJIKANZUKAZOOKEXESKLUTZKOJISKOPJEKUDZUKYLIXLATEXLAXERLAXESLAXLYLAZARLAZEDLAZESLEXESLEXISLOXEDLOXESLUXESMAIZEMAJORMAQUIMATZAMATZOMAUZYMAXEDMAXESMAXIMMAXISMAZEDMAZERMAZESMEZESMEZZOMIREXMIRZAMIXEDMIXERMIXESMIXUPMIZENMOJOSMOXASMOXIEMOZOSMUJIKMUREXMUXEDMUXESMUZZYNAZISNERTZNEXUSNINJANIQABNIXEDNIXESNIXIENIZAMNUDZHOBJETOOZEDOOZESORZOSOUZELOUZOSOXBOWOXERSOXEYEOXIDEOXIDSOXIMEOXIMSOXLIPOXTEROZONEPAXESPHIZZPHLOXPIEZOPIQUEPIXELPIXESPIXIEPIZZAPLAZAPLOTZPONZUPOOJAPOXEDPOXESPREXYPRIZEPROXYPUJAHPUJASPUNJIPYXESPYXIEPYXISPZAZZQADISQAIDSQAJAQQANATQIBLAQOPHSQUACKQUADSQUAFFQUAGSQUAILQUAISQUAKEQUAKYQUALEQUALMQUANTQUAREQUARKQUARTQUASHQUASIQUASSQUATEQUAYSQUBITQUEANQUEENQUEERQUELLQUERNQUERYQUESTQUEUEQUEYSQUICKQUIDSQUIETQUIFFQUILLQUILTQUINSQUINTQUIPSQUIPUQUIREQUIRKQUIRTQUITEQUITSQUODSQUOINQUOITQUOLLQUOTAQUOTEQUOTHQURSHRADIXRAJAHRAJASRAJESRAXEDRAXESRAZEDRAZEERAZERRAZESRAZORREDOXREDUXREFIXREJIGRELAXREMEXREMIXRETAXREWAXREXESREZESRIOJARITZYROQUESAJOUSAXESSCUZZSEIZASEIZESEXEDSEXERSEXESSEXTOSEXTSSHOJISHOJOSILEXSIXERSIXESSIXMOSIXTESIXTHSIXTYSIZARSIZEDSIZERSIZESSLOJDSMAZESOJASSOJUSSOYUZSOZINSPITZSQUABSQUADSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZINDIAZOSDIOXANDIOXIDDIOXINDIPLEXDIQUATDITZESDIXITSDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXIERFOXILYFOXINGFOZIERFRAZILFREEZEFRENZYFRIEZEFRIJOLFRIZEDFRIZERFRIZESFRIZZYFROUZYFROWZYFROZENFURZESFUTZEDFUTZESFUZEESFUZILSFUZINGFUZZEDFUZZESGAIJINGALAXYGANJAHGANJASGAUZESGAZABOGAZARSGAZEBOGAZERSGAZINGGAZUMPGEEZERGHAZALGHAZISGIZMOSGLAZEDGLAZERGLAZESGLITZYGLOZEDGLOZESGRAZEDGRAZERGRAZESGROSZEGROSZYGUZZLEGYOZASGYTTJAHADJEEHADJESHADJISHAJJESHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANSHAZARDHAZELSHAZERSHAZIERHAZILYHAZINGHAZMATHAZZANHEEZEDHEEZESHEJIRAHEXADEHEXADSHEXANEHEXERSHEXINGHEXONEHEXOSEHEXYLSHIJABSHIJACKHIJRAHHIJRASHOAXEDHOAXERHOAXESHOTBOXHUTZPAHUZZAHHUZZASIBEXESICEBOXILEXESINFLUXINJECTINJERAINJUREINJURYINKJETIODIZEIONIZEIXODIDIXORASIXTLESIZARDSIZZARDJABBEDJABBERJABIRUJABOTSJACALSJACANAJACKALJACKEDJACKERJACKETJADINGJADISHJAEGERJAGERSJAGGEDJAGGERJAGRASJAGUARJAILEDJAILERJAILORJALAPSJALOPSJALOPYJAMBEDJAMBESJAMMEDJAMMERJANGLEJANGLYJANNEYJAPANSJAPERSJAPERYJAPINGJARFULJARGONJARINAJARRAHJARREDJARVEYJASMINJASPERJASSIDJAUKEDJAUNCEJAUNTSJAUNTYJAUPEDJAWANSJAWINGJAYGEEJAYVEEJAZZBOJAZZEDJAZZERJAZZESJEBELSJEEINGJEEPEDJEEREDJEERERJEESLYJEEZLYJEHADIJEHADSJEJUNAJEJUNEJELLEDJENNETJERBOAJEREEDJERIDSJERKEDJERKERJERKINJERRIDJERSEYJESSEDJESSESJESTEDJESTERJETLAGJETONSJETSAMJETSOMJETTEDJETTONJEWELSJEZAILJIBBAHJIBBASJIBBEDJIBBERJIBERSJIBINGJICAMAJIGGEDJIGGERJIGGLEJIGGLYJIGSAWJIHADIJIHADSJILTEDJILTERJIMINYJIMMIEJIMPERJIMSONJINGALJINGKOJINGLEJINGLYJINKEDJINKERJINNEEJINNISJINXEDJINXESJITNEYJITTERJIVERSJIVIERJIVINGJNANASJOBBEDJOBBERJOBBIEJOCKEYJOCKOSJOCOSEJOCUNDJOGGEDJOGGERJOGGLEJOHNNYJOINEDJOINERJOINTSJOISTSJOJOBAJOKERSJOKIERJOKINGJOLTEDJOLTERJORAMSJORDANJORUMSJOSEPHJOSHEDJOSHERJOSHESJOSSESJOSTLEJOTTEDJOTTERJOUALSJOUKEDJOULESJOUNCEJOUNCYJOURNOJOUSTSJOVIALJOWARSJOWINGJOYFULJOYINGJOYOUSJOYPADJOYPOPJUBBAHJUBHAHJUBILEJUDDERJUDGEDJUDGERJUDGESJUDIESJUDOKAJUGATEJUGFULJUGGEDJUGGLEJUGULAJUGUMSJUICEDJUICERJUICESJUJUBEJUKINGJULEPSJUMARSJUMBALJUMBIEJUMBLEJUMBOSJUMPEDJUMPERJUNCOSJUNGLEJUNGLYJUNIORJUNKEDJUNKERJUNKETJUNKIEJUNTASJUNTOSJUPONSJURANTJURATSJURELSJURIEDJURIESJURISTJURORSJUSTEDJUSTERJUSTLEJUSTLYJUTTEDJUVIESKAIZENKAMEEZKANJISKANZUSKAZOOSKHAZENKIBITZKLAXONKLUTZYKOLHOZKOLKOZKOPJESKUDZUSKUVASZKWANZALARYNXLAXESTLAXITYLAZARSLAZIEDLAZIERLAZIESLAZILYLAZINGLAZULILEXEMELEXICALIQUIDLIQUORLIZARDLOGJAMLOQUATLOXINGLUMMOXLUTZESLUXATELUXURYLYNXESMAGNOXMAHZORMAIZESMAJLISMAJORSMAMZERMANQUEMAQUISMARQUEMASJIDMASQUEMASTIXMATRIXMATZAHMATZASMATZOHMATZOSMATZOTMAXIMAMAXIMSMAXINGMAXIXEMAZARDMAZERSMAZIERMAZILYMAZINGMAZUMAMENINXMEZCALMEZUZAMEZZOSMINXESMIRZASMIXERSMIXINGMIXUPSMIZENSMIZUNAMIZZENMIZZLEMIZZLYMOJITOMOJOESMOMZERMOSQUEMOUJIKMOXIESMUJIKSMUSJIDMUSKOXMUXINGMUZHIKMUZJIKMUZZLEMYXOIDMYXOMANAZIFYNINJASNIQAABNIQABSNIXIESNIXINGNIZAMSNONTAXNOYAUXNOZZLENUZZLEOBJECTOBJETSONYXESOOZIEROOZINGOPAQUEORYXESOUTBOXOUTFOXOUTJUTOUZELSOXALISOXBOWSOXCARTOXEYESOXFORDOXHERDOXHIDEOXIDESOXIMESOXLIKEOXLIPSOXTAILOXTERSOXYGENOYEZESOZONESPACZKIPAJAMAPANZERPATZERPAXWAXPAZAZZPEGBOXPEROXYPHENIXPHIZESPIAZZAPIAZZEPICKAXPIQUEDPIQUESPIQUETPIXELSPIXIESPIZAZZPIZZASPIZZAZPIZZLEPLAQUEPLAZASPLEXALPLEXESPLEXORPLEXUSPODZOLPOLEAXPOLLEXPONZUSPOOJASPOTZERPOXIERPOXINGPOZOLEPRAJNAPRAXESPRAXISPREFIXPREMIXPRETAXPREXESPREZESPRIZEDPRIZERPRIZESPROJETPROLIXPUJAHSPULQUEPUNJISPUTZEDPUTZESPUZZLEPYJAMAPYXIESQABALAQAJAQSQANATSQIBLASQIGONGQINDARQINTARQIVIUTQUACKSQUACKYQUAEREQUAFFSQUAGGAQUAGGYQUAHOGQUAICHQUAIGHQUAILSQUAINTQUAKEDQUAKERQUAKESQUALIAQUALMSQUALMYQUANGOQUANTAQUANTSQUARKSQUARRYQUARTEQUARTOQUARTSQUARTZQUASARQUATREQUAVERQUBITSQUBYTEQUEANSQUEASYQUEAZYQUEENSQUEENYQUEERSQUELEAQUELLSQUENCHQUERNSQUESTSQUEUEDQUEUERQUEUESQUEZALQUICHEQUICKSQUIETSQUIFFSQUILLSQUILTSQUINCEQUINICQUININQUINOAQUINOLQUINSYQUINTAQUINTEQUINTSQUIPPUQUIPPYQUIPUSQUIREDQUIRESQUIRKSQUIRKYQUIRTSQUITCHQUIVERQULLIQQUOHOGQUOINSQUOITSQUOKKAQUOLLSQUORUMQUOTASQUOTEDQUOTERQUOTESQUOTHAQURUSHQWERTYRAJAHSRAMJETRAXINGRAZEEDRAZEESRAZERSRAZINGRAZORSRAZZEDRAZZESRAZZIARAZZLEREBOZOREFLEXREFLUXREJECTREJIGSREJOINREMIXTREQUINRESIZEREZEROREZONEREZZESRIOJASRISQUERITZESROMAJIROQUESROQUETROZZERSACQUESAJOUSSANJAKSAXISTSAXMANSAXMENSAXONYSCHIZOSCHIZYSCHNOZSCOLEXSCUZZYSEIZINGSEIZURESEJEANTSELTZERSEQUELASEQUOIASEXIESTSEXLESSSEXPERTSEXTAINSEXTANSEXTETSEXTONSEXTOSSEXUALSHAZAMSHEQELSHIRAZSHOJISSHVITZSILVEXSIXERSSIXMOSSIXTESSIXTHSSIZARSSIZERSSIZIERSIZINGSIZZLESKYBOXSLEAZESLEAZOSLEAZYSLOJDSSMAZESSOJASSOJUSSOYUZSPAETZLESPINIFEXSPOROZOASPRITZYSQUABSSQUADSQUATSQUEGSQUIBSQUIDSQUABSQUADSSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZINDIAZOSDIOXANDIOXIDDIOXINDIPLEXDIQUATDITZESDIXITDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXIERFOXILYFOXINGFOZIERFRAZILFREEZEFRENZYFRIEZEFRIJOLFRIZEDFRIZERFRIZESFRIZZYFROUZYFROWZYFROZENFURZESFUTZEDFUTZESFUZEESFUZILSFUZINGFUZZEDFUZZESGAIJINGALAXYGANJAHGANJASGAUZESGAZABOGAZARSGAZEBOGAZERSGAZINGGAZUMPGEEZERGHAZALGHAZISGIZMOSGLAZEDGLAZERGLAZESGLITZYGLOZEDGLOZESGRAZEDGRAZERGRAZESGROSZEGROSZYGUZZLEGYOZASGYTTJAHADJEEHADJESHADJISHAJJESHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANSHAZARDHAZELSHAZERSHAZIERHAZILYHAZINGHAZMATHAZZANHEEZEDHEEZESHEJIRAHEXADEHEXADSHEXANEHEXERSHEXINGHEXONEHEXOSEHEXYLSHIJABSHIJACKHIJRAHHIJRASHOAXEDHOAXERHOAXESHOTBOXHUTZPAHUZZAHHUZZASIBEXESICEBOXILEXESINFLUXINJECTINJERAINJUREINJURYINKJETIODIZEIONIZEIXODIDIXORASIXTLESIZARDSIZZARDJABBEDJABBERJABIRUJABOTSJACALSJACANAJACKALJACKEDJACKERJACKETJADINGJADISHJAEGERJAGERSJAGGEDJAGGERJAGRASJAGUARJAILEDJAILERJAILORJALAPSJALOPSJALOPYJAMBEDJAMBESJAMMEDJAMMERJANGLEJANGLYJANNEYJAPANSJAPERSJAPERYJAPINGJARFULJARGONJARINAJARRAHJARREDJARVEYJASMINJASPERJASSIDJAUKEDJAUNCEJAUNTSJAUNTYJAUPEDJAWANSJAWINGJAYGEEJAYVEEJAZZBOJAZZEDJAZZERJAZZESJEBELSJEEINGJEEPEDJEEREDJEERERJEESLYJEEZLYJEHADIJEHADSJEJUNAJEJUNEJELLEDJENNETJERBOAJEREEDJERIDSJERKEDJERKERJERKINJERRIDJERSEYJESSEDJESSESJESTEDJESTERJETLAGJETONSJETSAMJETSOMJETTEDJETTONJEWELSJEZAILJIBBAHJIBBASJIBBEDJIBBERJIBERSJIBINGJICAMAJIGGEDJIGGERJIGGLEJIGGLYJIGSAWJIHADIJIHADSJILTEDJILTERJIMINYJIMMIEJIMPERJIMSONJINGALJINGKOJINGLEJINGLYJINKEDJINKERJINNEEJINNISJINXEDJINXESJITNEYJITTERJIVERSJIVIERJIVINGJNANASJOBBEDJOBBERJOBBIEJOCKEYJOCKOSJOCOSEJOCUNDJOGGEDJOGGERJOGGLEJOHNNYJOINEDJOINERJOINTSJOISTSJOJOBAJOKERSJOKIERJOKINGJOLTEDJOLTERJORAMSJORDANJORUMSJOSEPHJOSHEDJOSHERJOSHESJOSSESJOSTLEJOTTEDJOTTERJOUALSJOUKEDJOULESJOUNCEJOUNCYJOURNOJOUSTSJOVIALJOWARSJOWINGJOYFULJOYINGJOYOUSJOYPADJOYPOPJUBBAHJUBHAHJUBILEJUDDERJUDGEDJUDGERJUDGESJUDIESJUDOKAJUGATEJUGFULJUGGEDJUGGLEJUGULAJUGUMSJUICEDJUICERJUICESJUJUBEJUKINGJULEPSJUMARSJUMBALJUMBIEJUMBLEJUMBOSJUMPEDJUMPERJUNCOSJUNGLEJUNGLYJUNIORJUNKEDJUNKERJUNKETJUNKIEJUNTASJUNTOSJUPONSJURANTJURATSJURELSJURIEDJURIESJURISTJURORSJUSTEDJUSTERJUSTLEJUSTLYJUTTEDJUVIESKAIZENKAMEEZKANJISKANZUSKAZOOSKHAZENKIBITZKLAXONKLUTZYKOLHOZKOLKOZKOPJESKUDZUSKUVASZKWANZALARYNXLAXESTLAXITYLAZARSLAZIEDLAZIERLAZIESLAZILYLAZINGLAZULILEXEMELEXICALIQUIDLIQUORLIZARDLOGJAMLOQUATLOXINGLUMMOXLUTZESLUXATELUXURYLYNXESMAGNOXMAHZORMAIZESMAJLISMAJORSMAMZERMANQUEMAQUISMARQUEMASJIDMASQUEMASTIXMATRIXMATZAHMATZASMATZOHMATZOSMATZOTMAXIMAMAXIMSMAXINGMAXIXEMAZARDMAZERSMAZIERMAZILYMAZINGMAZUMAMENINXMEZCALMEZUZAMEZZOSMINXESMIRZASMIXERSMIXINGMIXUPSMIZENSMIZUNAMIZZENMIZZLEMIZZLYMOJITOMOJOESMOMZERMOSQUEMOUJIKMOXIESMUJIKSMUSJIDMUSKOXMUXINGMUZHIKMUZJIKMUZZLEMYXOIDMYXOMANAZIFYNINJASNIQAABNIQABSNIXIESNIXINGNIZAMSNONTAXNOYAUXNOZZLENUZZLEOBJECTOBJETSONYXESOOZIEROOZINGOPAQUEORYXESOUTBOXOUTFOXOUTJUTOUZELSOXALISOXBOWSOXCARTOXEYESOXFORDOXHERDOXHIDEOXIDESOXIMESOXLIKEOXLIPSOXTAILOXTERSOXYGENOYEZESOZONESPACZKIPAJAMAPANZERPATZERPAXWAXPAZAZZPEGBOXPEROXYPHENIXPHIZESPIAZZAPIAZZEPICKAXPIQUEDPIQUESPIQUETPIXELSPIXIESPIZAZZPIZZASPIZZAZPIZZLEPLAQUEPLAZASPLEXALPLEXESPLEXORPLEXUSPODZOLPOLEAXPOLLEXPONZUSPOOJASPOTZERPOXIERPOXINGPOZOLEPRAJNAPRAXESPRAXISPREFIXPREMIXPRETAXPREXESPREZESPRIZEDPRIZERPRIZESPROJETPROLIXPUJAHSPULQUEPUNJISPUTZEDPUTZESPUZZLEPYJAMAPYXIESQABALAQAJAQSQANATSQIBLASQIGONGQINDARQINTARQIVIUTQUACKSQUACKYQUAEREQUAFFSQUAGGAQUAGGYQUAHOGQUAICHQUAIGHQUAILSQUAINTQUAKEDQUAKERQUAKESQUALIAQUALMSQUALMYQUANGOQUANTAQUANTSQUARKSQUARRYQUARTEQUARTOQUARTSQUARTZQUASARQUATREQUAVERQUBITSQUBYTEQUEANSQUEASYQUEAZYQUEENSQUEENYQUEERSQUELEAQUELLSQUENCHQUERNSQUESTSQUEUEDQUEUERQUEUESQUEZALQUICHEQUICKSQUIETSQUIFFSQUILLSQUILTSQUINCEQUINICQUININQUINOAQUINOLQUINSYQUINTAQUINTEQUINTSQUIPPUQUIPPYQUIPUSQUIREDQUIRESQUIRKSQUIRKYQUIRTSQUITCHQUIVERQULLIQQUOHOGQUOINSQUOITSQUOKKAQUOLLSQUORUMQUOTASQUOTEDQUOTERQUOTESQUOTHAQURUSHQWERTYRAJAHSRAMJETRAXINGRAZEEDRAZEESRAZERSRAZINGRAZORSRAZZEDRAZZESRAZZIARAZZLEREBOZOREFLEXREFLUXREJECTREJIGSREJOINREMIXTREQUINRESIZEREZEROREZONEREZZESRIOJASRISQUERITZESROMAJIROQUESROQUETROZZERSACQUESAJOUSSANJAKSAXISTSAXMANSAXMENSAXONYSCHIZOSCHIZYSCHNOZSCOLEXSCUZZYSEIZINGSEIZURESEJEANTSELTZERSEQUELASEQUOIASEXIESTSEXLESSSEXPERTSEXTAINSEXTANSEXTETSEXTONSEXTOSSEXUALSHAZAMSHEQELSHIRAZSHOJISSHVITZSILVEXSIXERSSIXMOSSIXTESSIXTHSSIZARSSIZERSSIZIERSIZINGSIZZLESKYBOXSLEAZESLEAZOSLEAZYSLOJDSSMAZESSOJASSOJUSSOYUZSPAETZLESPINIFEXSPOROZOASPRITZYSQUABSSQUADSQUATSQUEGSQUIBSQUIDSQUABSQUADSSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZINDIAZOSDIOXANDIOXIDDIOXINDIPLEXDIQUATDITZESDIXITDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXIERFOXILYFOXINGFOZIERFRAZILFREEZEFRENZYFRIEZEFRIJOLFRIZEDFRIZERFRIZESFRIZZYFROUZYFROWZYFROZENFURZESFUTZEDFUTZESFUZEESFUZILSFUZINGFUZZEDFUZZESGAIJINGALAXYGANJAHGANJASGAUZESGAZABOGAZARSGAZEBOGAZERSGAZINGGAZUMPGEEZERGHAZALGHAZISGIZMOSGLAZEDGLAZERGLAZESGLITZYGLOZEDGLOZESGRAZEDGRAZERGRAZESGROSZEGROSZYGUZZLEGYOZASGYTTJAHADJEEHADJESHADJISHAJJESHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANSHAZARDHAZELSHAZERSHAZIERHAZILYHAZINGHAZMATHAZZANHEEZEDHEEZESHEJIRAHEXADEHEXADSHEXANEHEXERSHEXINGHEXONEHEXOSEHEXYLSHIJABSHIJACKHIJRAHHIJRASHOAXEDHOAXERHOAXESHOTBOXHUTZPAHUZZAHHUZZASIBEXESICEBOXILEXESINFLUXINJECTINJERAINJUREINJURYINKJETIODIZEIONIZEIXODIDIXORASIXTLESIZARDSIZZARDJABBEDJABBERJABIRUJABOTSJACALSJACANAJACKALJACKEDJACKERJACKETJADINGJADISHJAEGERJAGERSJAGGEDJAGGERJAGRASJAGUARJAILEDJAILERJAILORJALAPSJALOPSJALOPYJAMBEDJAMBESJAMMEDJAMMERJANGLEJANGLYJANNEYJAPANSJAPERSJAPERYJAPINGJARFULJARGONJARINAJARRAHJARREDJARVEYJASMINJASPERJASSIDJAUKEDJAUNCEJAUNTSJAUNTYJAUPEDJAWANSJAWINGJAYGEEJAYVEEJAZZBOJAZZEDJAZZERJAZZESJEBELSJEEINGJEEPEDJEEREDJEERERJEESLYJEEZLYJEHADIJEHADSJEJUNAJEJUNEJELLEDJENNETJERBOAJEREEDJERIDSJERKEDJERKERJERKINJERRIDJERSEYJESSEDJESSESJESTEDJESTERJETLAGJETONSJETSAMJETSOMJETTEDJETTONJEWELSJEZAILJIBBAHJIBBASJIBBEDJIBBERJIBERSJIBINGJICAMAJIGGEDJIGGERJIGGLEJIGGLYJIGSAWJIHADIJIHADSJILTEDJILTERJIMINYJIMMIEJIMPERJIMSONJINGALJINGKOJINGLEJINGLYJINKEDJINKERJINNEEJINNISJINXEDJINXESJITNEYJITTERJIVERSJIVIERJIVINGJNANASJOBBEDJOBBERJOBBIEJOCKEYJOCKOSJOCOSEJOCUNDJOGGEDJOGGERJOGGLEJOHNNYJOINEDJOINERJOINTSJOISTSJOJOBAJOKERSJOKIERJOKINGJOLTEDJOLTERJORAMSJORDANJORUMSJOSEPHJOSHEDJOSHERJOSHESJOSSESJOSTLEJOTTEDJOTTERJOUALSJOUKEDJOULESJOUNCEJOUNCYJOURNOJOUSTSJOVIALJOWARSJOWINGJOYFULJOYINGJOYOUSJOYPADJOYPOPJUBBAHJUBHAHJUBILEJUDDERJUDGEDJUDGERJUDGESJUDIESJUDOKAJUGATEJUGFULJUGGEDJUGGLEJUGULAJUGUMSJUICEDJUICERJUICESJUJUBEJUKINGJULEPSJUMARSJUMBALJUMBIEJUMBLEJUMBOSJUMPEDJUMPERJUNCOSJUNGLEJUNGLYJUNIORJUNKEDJUNKERJUNKETJUNKIEJUNTASJUNTOSJUPONSJURANTJURATSJURELSJURIEDJURIESJURISTJURORSJUSTEDJUSTERJUSTLEJUSTLYJUTTEDJUVIESKAIZENKAMEEZKANJISKANZUSKAZOOSKHAZENKIBITZKLAXONKLUTZYKOLHOZKOLKOZKOPJESKUDZUSKUVASZKWANZALARYNXLAXESTLAXITYLAZARSLAZIEDLAZIERLAZIESLAZILYLAZINGLAZULILEXEMELEXICALIQUIDLIQUORLIZARDLOGJAMLOQUATLOXINGLUMMOXLUTZESLUXATELUXURYLYNXESMAGNOXMAHZORMAIZESMAJLISMAJORSMAMZERMANQUEMAQUISMARQUEMASJIDMASQUEMASTIXMATRIXMATZAHMATZASMATZOHMATZOSMATZOTMAXIMAMAXIMSMAXINGMAXIXEMAZARDMAZERSMAZIERMAZILYMAZINGMAZUMAMENINXMEZCALMEZUZAMEZZOSMINXESMIRZASMIXERSMIXINGMIXUPSMIZENSMIZUNAMIZZENMIZZLEMIZZLYMOJITOMOJOESMOMZERMOSQUEMOUJIKMOXIESMUJIKSMUSJIDMUSKOXMUXINGMUZHIKMUZJIKMUZZLEMYXOIDMYXOMANAZIFYNINJASNIQAABNIQABSNIXIESNIXINGNIZAMSNONTAXNOYAUXNOZZLENUZZLEOBJECTOBJETSONYXESOOZIEROOZINGOPAQUEORYXESOUTBOXOUTFOXOUTJUTOUZELSOXALISOXBOWSOXCARTOXEYESOXFORDOXHERDOXHIDEOXIDESOXIMESOXLIKEOXLIPSOXTAILOXTERSOXYGENOYEZESOZONESPACZKIPAJAMAPANZERPATZERPAXWAXPAZAZZPEGBOXPEROXYPHENIXPHIZESPIAZZAPIAZZEPICKAXPIQUEDPIQUESPIQUETPIXELSPIXIESPIZAZZPIZZASPIZZAZPIZZLEPLAQUEPLAZASPLEXALPLEXESPLEXORPLEXUSPODZOLPOLEAXPOLLEXPONZUSPOOJASPOTZERPOXIERPOXINGPOZOLEPRAJNAPRAXESPRAXISPREFIXPREMIXPRETAXPREXESPREZESPRIZEDPRIZERPRIZESPROJETPROLIXPUJAHSPULQUEPUNJISPUTZEDPUTZESPUZZLEPYJAMAPYXIESQABALAQAJAQSQANATSQIBLASQIGONGQINDARQINTARQIVIUTQUACKSQUACKYQUAEREQUAFFSQUAGGAQUAGGYQUAHOGQUAICHQUAIGHQUAILSQUAINTQUAKEDQUAKERQUAKESQUALIAQUALMSQUALMYQUANGOQUANTAQUANTSQUARKSQUARRYQUARTEQUARTOQUARTSQUARTZQUASARQUATREQUAVERQUBITSQUBYTEQUEANSQUEASYQUEAZYQUEENSQUEENYQUEERSQUELEAQUELLSQUENCHQUERNSQUESTSQUEUEDQUEUERQUEUESQUEZALQUICHEQUICKSQUIETSQUIFFSQUILLSQUILTSQUINCEQUINICQUININQUINOAQUINOLQUINSYQUINTAQUINTEQUINTSQUIPPUQUIPPYQUIPUSQUIREDQUIRESQUIRKSQUIRKYQUIRTSQUITCHQUIVERQULLIQQUOHOGQUOINSQUOITSQUOKKAQUOLLSQUORUMQUOTASQUOTEDQUOTERQUOTESQUOTHAQURUSHQWERTYRAJAHSRAMJETRAXINGRAZEEDRAZEESRAZERSRAZINGRAZORSRAZZEDRAZZESRAZZIARAZZLEREBOZOREFLEXREFLUXREJECTREJIGSREJOINREMIXTREQUINRESIZEREZEROREZONEREZZESRIOJASRISQUERITZESROMAJIROQUESROQUETROZZERSACQUESAJOUSSANJAKSAXISTSAXMANSAXMENSAXONYSCHIZOSCHIZYSCHNOZSCOLEXSCUZZYSEIZINGSEIZURESEJEANTSELTZERSEQUELASEQUOIASEXIESTSEXLESSSEXPERTSEXTAINSEXTANSEXTETSEXTONSEXTOSSEXUALSHAZAMSHEQELSHIRAZSHOJISSHVITZSILVEXSIXERSSIXMOSSIXTESSIXTHSSIZARSSIZERSSIZIERSIZINGSIZZLESKYBOXSLEAZESLEAZOSLEAZYSLOJDSSMAZESSOJASSOJUSSOYUZSPAETZLESPINIFEXSPOROZOASPRITZYSQUABSSQUADSQUATSQUEGSQUIBSQUIDSQUABSQUADSSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZINDIAZOSDIOXANDIOXIDDIOXINDIPLEXDIQUATDITZESDIXITDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXIERFOXILYFOXINGFOZIERFRAZILFREEZEFRENZYFRIEZEFRIJOLFRIZEDFRIZERFRIZESFRIZZYFROUZYFROWZYFROZENFURZESFUTZEDFUTZESFUZEESFUZILSFUZINGFUZZEDFUZZESGAIJINGALAXYGANJAHGANJASGAUZESGAZABOGAZARSGAZEBOGAZERSGAZINGGAZUMPGEEZERGHAZALGHAZISGIZMOSGLAZEDGLAZERGLAZESGLITZYGLOZEDGLOZESGRAZEDGRAZERGRAZESGROSZEGROSZYGUZZLEGYOZASGYTTJAHADJEEHADJESHADJISHAJJESHAJJISHALLUXHALUTZHAMZAHHAMZASHANDAXHATBOXHAZANSHAZARDHAZELSHAZERSHAZIERHAZILYHAZINGHAZMATHAZZANHEEZEDHEEZESHEJIRAHEXADEHEXADSHEXANEHEXERSHEXINGHEXONEHEXOSEHEXYLSHIJABSHIJACKHIJRAHHIJRASHOAXEDHOAXERHOAXESHOTBOXHUTZPAHUZZAHHUZZASIBEXESICEBOXILEXESINFLUXINJECTINJERAINJUREINJURYINKJETIODIZEIONIZEIXODIDIXORASIXTLESIZARDSIZZARDJABBEDJABBERJABIRUJABOTSJACALSJACANAJACKALJACKEDJACKERJACKETJADINGJADISHJAEGERJAGERSJAGGEDJAGGERJAGRASJAGUARJAILEDJAILERJAILORJALAPSJALOPSJALOPYJAMBEDJAMBESJAMMEDJAMMERJANGLEJANGLYJANNEYJAPANSJAPERSJAPERYJAPINGJARFULJARGONJARINAJARRAHJARREDJARVEYJASMINJASPERJASSIDJAUKEDJAUNCEJAUNTSJAUNTYJAUPEDJAWANSJAWINGJAYGEEJAYVEEJAZZBOJAZZEDJAZZERJAZZESJEBELSJEEINGJEEPEDJEEREDJEERERJEESLYJEEZLYJEHADIJEHADSJEJUNAJEJUNEJELLEDJENNETJERBOAJEREEDJERIDSJERKEDJERKERJERKINJERRIDJERSEYJESSEDJESSESJESTEDJESTERJETLAGJETONSJETSAMJETSOMJETTEDJETTONJEWELSJEZAILJIBBAHJIBBASJIBBEDJIBBERJIBERSJIBINGJICAMAJIGGEDJIGGERJIGGLEJIGGLYJIGSAWJIHADIJIHADSJILTEDJILTERJIMINYJIMMIEJIMPERJIMSONJINGALJINGKOJINGLEJINGLYJINKEDJINKERJINNEEJINNISJINXEDJINXESJITNEYJITTERJIVERSJIVIERJIVINGJNANASJOBBEDJOBBERJOBBIEJOCKEYJOCKOSJOCOSEJOCUNDJOGGEDJOGGERJOGGLEJOHNNYJOINEDJOINERJOINTSJOISTSJOJOBAJOKERSJOKIERJOKINGJOLTEDJOLTERJORAMSJORDANJORUMSJOSEPHJOSHEDJOSHERJOSHESJOSSESJOSTLEJOTTEDJOTTERJOUALSJOUKEDJOULESJOUNCEJOUNCYJOURNOJOUSTSJOVIALJOWARSJOWINGJOYFULJOYINGJOYOUSJOYPADJOYPOPJUBBAHJUBHAHJUBILEJUDDERJUDGEDJUDGERJUDGESJUDIESJUDOKAJUGATEJUGFULJUGGEDJUGGLEJUGULAJUGUMSJUICEDJUICERJUICESJUJUBEJUKINGJULEPSJUMARSJUMBALJUMBIEJUMBLEJUMBOSJUMPEDJUMPERJUNCOSJUNGLEJUNGLYJUNIORJUNKEDJUNKERJUNKETJUNKIEJUNTASJUNTOSJUPONSJURANTJURATSJURELSJURIEDJURIESJURISTJURORSJUSTEDJUSTERJUSTLEJUSTLYJUTTEDJUVIESKAIZENKAMEEZKANJISKANZUSKAZOOSKHAZENKIBITZKLAXONKLUTZYKOLHOZKOLKOZKOPJESKUDZUSKUVASZKWANZALARYNXLAXESTLAXITYLAZARSLAZIEDLAZIERLAZIESLAZILYLAZINGLAZULILEXEMELEXICALIQUIDLIQUORLIZARDLOGJAMLOQUATLOXINGLUMMOXLUTZESLUXATELUXURYLYNXESMAGNOXMAHZORMAIZESMAJLISMAJORSMAMZERMANQUEMAQUISMARQUEMASJIDMASQUEMASTIXMATRIXMATZAHMATZASMATZOHMATZOSMATZOTMAXIMAMAXIMSMAXINGMAXIXEMAZARDMAZERSMAZIERMAZILYMAZINGMAZUMAMENINXMEZCALMEZUZAMEZZOSMINXESMIRZASMIXERSMIXINGMIXUPSMIZENSMIZUNAMIZZENMIZZLEMIZZLYMOJITOMOJOESMOMZERMOSQUEMOUJIKMOXIESMUJIKSMUSJIDMUSKOXMUXINGMUZHIKMUZJIKMUZZLEMYXOIDMYXOMANAZIFYNINJASNIQAABNIQABSNIXIESNIXINGNIZAMSNONTAXNOYAUXNOZZLENUZZLEOBJECTOBJETSONYXESOOZIEROOZINGOPAQUEORYXESOUTBOXOUTFOXOUTJUTOUZELSOXALISOXBOWSOXCARTOXEYESOXFORDOXHERDOXHIDEOXIDESOXIMESOXLIKEOXLIPSOXTAILOXTERSOXYGENOYEZESOZONESPACZKIPAJAMAPANZERPATZERPAXWAXPAZAZZPEGBOXPEROXYPHENIXPHIZESPIAZZAPIAZZEPICKAXPIQUEDPIQUESPIQUETPIXELSPIXIESPIZAZZPIZZASPIZZAZPIZZLEPLAQUEPLAZASPLEXALPLEXESPLEXORPLEXUSPODZOLPOLEAXPOLLEXPONZUSPOOJASPOTZERPOXIERPOXINGPOZOLEPRAJNAPRAXESPRAXISPREFIXPREMIXPRETAXPREXESPREZESPRIZEDPRIZERPRIZESPROJETPROLIXPUJAHSPULQUEPUNJISPUTZEDPUTZESPUZZLEPYJAMAPYXIESQABALAQAJAQSQANATSQIBLASQIGONGQINDARQINTARQIVIUTQUACKSQUACKYQUAEREQUAFFSQUAGGAQUAGGYQUAHOGQUAICHQUAIGHQUAILSQUAINTQUAKEDQUAKERQUAKESQUALIAQUALMSQUALMYQUANGOQUANTAQUANTSQUARKSQUARRYQUARTEQUARTOQUARTSQUARTZQUASARQUATREQUAVERQUBITSQUBYTEQUEANSQUEASYQUEAZYQUEENSQUEENYQUEERSQUELEAQUELLSQUENCHQUERNSQUESTSQUEUEDQUEUERQUEUESQUEZALQUICHEQUICKSQUIETSQUIFFSQUILLSQUILTSQUINCEQUINICQUININQUINOAQUINOLQUINSYQUINTAQUINTEQUINTSQUIPPUQUIPPYQUIPUSQUIREDQUIRESQUIRKSQUIRKYQUIRTSQUITCHQUIVERQULLIQQUOHOGQUOINSQUOITSQUOKKAQUOLLSQUORUMQUOTASQUOTEDQUOTERQUOTESQUOTHAQURUSHQWERTYRAJAHSRAMJETRAXINGRAZEEDRAZEESRAZERSRAZINGRAZORSRAZZEDRAZZESRAZZIARAZZLEREBOZOREFLEXREFLUXREJECTREJIGSREJOINREMIXTREQUINRESIZEREZEROREZONEREZZESRIOJASRISQUERITZESROMAJIROQUESROQUETROZZERSACQUESAJOUSSANJAKSAXISTSAXMANSAXMENSAXONYSCHIZOSCHIZYSCHNOZSCOLEXSCUZZYSEIZINGSEIZURESEJEANTSELTZERSEQUELASEQUOIASEXIESTSEXLESSSEXPERTSEXTAINSEXTANSEXTETSEXTONSEXTOSSEXUALSHAZAMSHEQELSHIRAZSHOJISSHVITZSILVEXSIXERSSIXMOSSIXTESSIXTHSSIZARSSIZERSSIZIERSIZINGSIZZLESKYBOXSLEAZESLEAZOSLEAZYSLOJDSSMAZESSOJASSOJUSSOYUZSPAETZLESPINIFEXSPOROZOASPRITZYSQUABSSQUADSQUATSQUEGSQUIBSQUIDSQUABSQUADSSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRA
