@@ -5905,3 +5905,6 @@ entry(bangin, n, [bangin], "isang malalim na biyak sa lupaBANGINAN BANGINED BANG
 entry(chasse, v, [chassed,chasseing,chasses], "gumawa ng galaw sa sayaw").
 entry(chasseur, n, [chasseurs], "isang sundalong nasa kabalyeriya").
 entry(chassis, n, [chassis], "ang balangkas ng kotse").
+entry(chatchka, n, [chatchkas], "isang palamuti").
+entry(chatchke, n, [chatchkes], "chatchka").
+entry(chateau, n, [chateaus], "o CHATEAUXa malaking bahay sa bansa").

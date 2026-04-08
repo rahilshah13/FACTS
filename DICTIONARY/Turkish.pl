@@ -10532,3 +10532,2456 @@ giriş(masal, v, [masallandırılmış, masallandırma, masallar], "kurgusal hik
 entry(fabler, i, [masalcılar], "masal anlatan biri").
 entry(fabliau, n, [fabliaux], "ortaçağ Fransa'sında popüler olan kısa bir ölçülü öykü").
 entry(fabling, şimdiki, [], "fable'ın ortaç hali").
+entry(yüzgerme, v, [yüzgerildi,yüzgeriliyor,yüzgerir], "yüze estetik cerrahi uygulamak").
+entry(facemask, n, [yüz maskeleri], "yüzü korumak için bir cihaz").
+entry(faceoff, n, [başlangıçlar], "bir hokey maçını başlatan eylem").
+entry(facer, n, [facers], "yüzleşen biri").
+Giriş(facet, v, [fasetli, fasetleme, fasetler], "veya FACELEMEK YÜZLEMEK YÜZLERkısa düz yüzeyler kesmek").
+entry(facete, sıf, [], "nüktedanFACETELY zm").
+entry(facetiae, çoğul isim, [], "nükteli sözler veya yazılar").
+girdi(fasitleme, i, [fasitlemeler], "kesilmiş bir değerli taşın yüzeyi").
+giriş(yüzüüstü, adv, [], "ön taraf yukarı bakacak şekilde").
+entry(facia, n, [faciae], "ya da FACIASfascia").
+girdi(yüz, n, [yüzler], "yüz için bir tedavi").
+giris(yuzsel, zarf, [], "yuz ile ilgili olarak").
+entry(faciend, n, [çarpan], "başka bir sayı ile çarpılacak bir sayı").
+giris(facies, n, [facies], "genel görünüm").
+entry(kolay, adj, [], "kolayca gerçekleştirilen veya yapılanFACILELY adv").
+entry(tesis, n, [tesisler], "kolaylık niteliği").
+giriş(karşı, n, [karşılar], "bir giysi kenarındaki astar").
+girdi(olgu, n, [olgular], "kesinlikle bilinen bir şeyOLGUSAL sıf").
+entry(factice, n, [factices], "lastiğe benzer bir malzeme").
+entry(grup, n, [gruplar], "daha büyük bir grup içinde bir klik").
+girdi(factious, sıf, [], "anlaşmazlık teşvik eden").
+entry(fakt, n, [faktlar], "kısa bir haber metni").
+entry(faktör, v, [faktörlü,faktör, faktörler], "iki veya daha fazla niceliğin çarpımı olarak ifade etmek").
+entry(fabrika, i, [fabrikalar], "malların üretildiği bir bina veya binalar grubu").
+entry(factotum, i, [factotumlar], "birçok türde iş yapmak için çalıştırılan bir kişi").
+entry(olguya_dair, sıf, [], "olguya dair").
+entry(factum, n, [factums], "veya FACTAa temyiz edilen bir davanın olgularına dair bir beyan").
+entry(facture, n, [faturalar], "bir şey yapma eylemi").
+entry(facula, i, [parlaklık], "güneş yüzeyinde olağanüstü parlak bir nokta").
+entry(fakülte, n, [fakülteler], "doğal bir güç veya yetenek").
+entry(fad, n, [moda], "kısa süreli popülerlik kazanan bir uygulama veya ilgi alanı").
+entry(fadable, sıf, [], "solabilen").
+entry(faddier, karşılaştırmalı, [], "of faddy").
+entry(faddiest, superlative, [], "faddy'nin en").
+entry(faddish, sıf, [], "moda akımlarına eğilimli").
+entry(faddism, isim, [faddizmler], "modaları benimseme eğilimi").
+entry(faddist, n, [faddists], "modaya düşkün bir kişi").
+entry(faddy, sıf, [], "FADDIER FADDIESTmoda").
+girdi(solmak, e, [soldu,solmakta,solar], "renk veya parlaklık kaybetmekSOLUCAN adv").
+entry(fadeaway, i, [fadeaways], "beyzbolda bir atış türü").
+entry(fadein, n, [fadeinler], "bir görüntünün parlaklığının kademeli olarak artması").
+entry(solmayan, adj, [], "not fading").
+girdi(gizlenme, i, [gizlenmeler], "bir görüntünün yavaşça kaybolması").
+entry(söndüren, n, [söndürenler], "solan biri").
+entry(fadge, f, [fadgeledi, fadgeleme, fadgeler], "başarmak").
+entry(solgunlaşma, i, [solgunlaşmalar], "bir İrlanda dansı").
+entry(fadlike, sıf, [], "bir modaya benzeyen").
+girdi(fado, i, [fadolar], "Portekizli bir halk şarkısı").
+entry(dışkı, npl, [], "dışkıFEKAL sıf").
+entry(faena, n, [faenas], "bir boğa güreşinde matador tarafından yapılan bir dizi hamle").
+entry(peri, n, [periler], "bir peri").
+entry(peri, n, [periler], "peri").
+entry(faff, v, [faffed,faffing,faffs], "yaygara yapmak").
+entry(fag, v, [fagged,fagging,fags], "sıkı çalışarak yormak").
+entry(faggot, v, [faggoted,faggoting,faggots], "fagotlamak").
+entry(fagin, n, [fagins], "başkalarına suç işlemeyi öğreten kişi").
+entry(fagot, v, [fagoted,fagoting,fagots], "bir demet halinde bir araya getirmek").
+girdi(fagoter, i, [fagoters], "istifleyici").
+entry(fagoting, n, [fagotings], "bir tür nakış").
+entry(fah, n, [nefesler], "nef").
+entry(fahlband, i, [fahlbands], "metal sülfürlerle emprenye edilmiş bir kaya tabakası veya bandı").
+entry(faience, n, [fayanstanlar], "sırlı çömlek çeşitliliği").
+entry(başarısızlık, f, [başarısız oldu, başarısız oluyor, başarısızlar], "bir girişimde başarısız olmak").
+entry(failing, n, [başarısızlıklar], "küçük bir hata veya zayıflık").
+giriş(faille, i, [failler], "dokuma kumaş").
+entry(başarısızlık, n, [başarısızlıklar], "başarısız olma durumu").
+entry(fain, sıf, [], "FAINER FAINESTglad").
+entry(faineant, n, [faineantlar], "tembel bir kişi").
+entry(zayıf, sıf, [], "FAİNTER FAİNTESTgüç veya enerji eksikliği").
+entry(bayılmak, f, [bayıldı,bayılıyor,bayılır], "bilincini kaybetmek").
+entry(fainter, n, [fainters], "bayılan biri").
+entry(faintish, sıf, [], "biraz soluk").
+entry(faintly, adv, [], "solgun bir şekilde").
+entry(adil, sıf, [], "DAHA_ADİL EN_ADİL önyargıdan, haksızlıktan ya da adaletsizlikten uzak").
+entry(fair, v, [faired,fairing,fairs], "düzgün yapmak").
+entry(fuarziyaretçisi, n, [fuarziyaretçileri], "fuara katılan biri").
+entry(periler, pl, [], "peri").
+entry(fairing, n, [gövde kapakları], "bir uçağın hava direncini azaltmak için kullanılan bir yapı").
+entry(fairish, sıf, [], "orta derecede iyi").
+entry(fairlead, n, [halatlar], "bir geminin arma bağlantılarını yerinde tutmak için kullanılan bir aygıt").
+entry(fairly, adv, [], "adil bir şekilde").
+entry(adalet, n, [adaletler], "adil olma kalitesi").
+entry(fairway, n, [fairways], "tee ve green arasında, bir golf sahasındaki biçilmiş alan").
+entry(peri, i, [periler], "hayali doğaüstü bir varlık").
+girdi(peri, sıf, [], "PERİSİ PERİLEREnin periye ait veya benzeyen").
+entry(perilik, i, [perilikler], "peri gibi olma kalitesi").
+entry(inanmak, v, [inandı,inanıyor,inançlar], "inanmak veya güvenmek").
+entry(sadık, n, [sadıklar], "sadık bir takipçi veya üye").
+entry(sahtekar, n, [sahtekarlar], "bir sahtekar").
+giris(fajita, n, [fajitalar], "marine edilmiş ve ızgara edilmiş dana eti, tavuk veya karides ile yapılan un tortillası").
+entry(sahtesini_yapmak, f, [sahte_yapılmış,sahte_oluyor,sahte_yapar], "gerçek gibi düzenlemek ve sunmak").
+entry(fakeer, n, [fakeers], "fakir").
+girdi(sahtekar, n, [sahtekarlar], "sahteci olan biri").
+entry(sahtecilik, n, [sahtecilikler], "sahtecilik yapma uygulaması").
+entry(fakey, sıf, [], "sahte sahtekar").
+entry(fakie, n, [fakiler], "kaykay ve snowboardda bir hareket").
+entry(sahtecilik, şimdiki zaman, [], "sahte yapmak fiilinin ortaç hali").
+entry(fakir, i, [fakirler], "bir Hindu dervişi").
+entry(falafel, i, [falafeller], "yer baharatlı sebzelerin köfteler haline getirilmesi").
+entry(falbala, n, [falbalalar], "bir kadının giysisi için süsleme").
+girdi(falcate, sıf, [], "eğri ve sivrilerek bir noktaya uzanan").
+entry(falcated, sıf, [], "yarımay şeklinde").
+entry(falces, pl, [], "falx'in").
+entry(kılıç, n, [kılıçlar], "geniş bıçaklı bir kılıç").
+entry(doğan, n, [doğanlar], "bir yırtıcı kuş").
+entry(atmacacı, n, [atmacacılar], "atmaca ile avlanan biri").
+entry(falconet, i, [küçük doğanlar], "küçük bir doğan").
+entry(atmacacılık, n, [atmacacılıklar], "atmaca ile avlanma sporu").
+entry(zırva, n, [zırvalar], "saçmalık").
+entry(falderol, i, [falderoller], "ıvır zıvır").
+entry(dusmek, v, [dustu,dusmus,dusmekte], "DUSo yercekimi etkisiyle alçalmak").
+entry(saçmalık, n, [saçmalıklar], "yanlış bir fikir").
+entry(fallal, i, [fallallar], "gösterişli bir giysi parçası").
+entry(düşme, n, [düşmeler], "basketbolda bir atış").
+giriş(çekilme, n, [çekilmeler], "geri çekilme eylemi").
+girdi(düştü, geçmiş, [], "fall fiilinin partisipleri").
+entry(düşen, n, [düşenler], "düşen kişi").
+entry(çavuşbalığı, n, [çavuşbalıkları], "tatlı su balığı").
+entry(hata_kabilir, sıf, [], "hata yapabilme yeteneğine sahipHATAYLA adv").
+entry(düşüş, n, [düşüşler], "kereste için ağaçların kesilmesi").
+entry(falloff, n, [falloffs], "miktar veya kalitede bir düşüş").
+entry(serpinti, n, [serpintiler], "nükleer patlamadan kaynaklanan radyoaktif kalıntı").
+entry(nadas, v, [nadasladı,nadaslamakta,nadaslar], "sürmek ve ekilmemiş bırakmak").
+entry(false, sıf, [], "YANLIŞ DAHA YANLIŞ EN YANLIŞgerçeğe veya gerçeğe aykırıYANLIŞ BİR ŞEKİLDE zf").
+Giriş(falsetto, n, [falsettos], "yapay olarak yüksek ses").
+entry(falsie, i, [falsies], "sutyen içerisinde giyilen bir dolgu").
+entry(yalanlamak, f, [yalanlanmış,yalanlama,yalanlar], "yanlış temsil etmek").
+entry(yanlışlık, n, [yanlışlıklar], "yanlış bir şey").
+entry(faltbot, n, [faltbotlar], "bir kayak benzeri katlanabilir bot").
+entry(falter, v, [faltered,faltering,falters], "tereddüt etmek").
+entry(tökezleyen, n, [tökezleyenler], "tökezleyen kişi").
+girdi(falx, n, [falces], "bir orak şeklindeki yapı").
+entry(fame, v, [ünlü,yücelme,şöhretler], "ünlü yapmak").
+entry(fameless, adj, [], "ünlü olmayan").
+entry(ailevi, sıf, [], "bir aileye ait").
+giriş(tanıdık, i, [tanıdıklar], "yakın bir arkadaş veya ortak").
+entry(ailecilik, n, [ailecilikler], "bireyin önüne ailenin geçtiği bir sosyal yapıAİLECİ sıf").
+entry(aile, n, [aileler], "kan veya evlilik yoluyla ilişkili bir grup insan").
+entry(kıtlık, n, [kıtlıklar], "gıda kıtlığının yaygınlaşması").
+girdi(faming, şimdiki, [], "şöhretin sıfat-fiili").
+entry(açlıktan_bitmek, v, [açlıktan_bitti,açlıktan_bitiyor,açlıktan_biter], "aşırı açlık çekmek").
+entry(unlu, adj, [], "wellknownFAMOUSLY adv").
+entry(famulus, i, [famuli], "bir hizmetçi veya hizmetkar").
+girdi(yelpaze, f, [yelpezeli,yelpazeleyen,yelpazeler], "hava hareketi sağlamak için kullanılan bir cihaz ile serinletmek veya tazelemek").
+entry(fanatık, n, [fanatikler], "bir bağnaz").
+entry(fanboy, n, [fanboys], "bir şeyi hevesle seven bir erkek").
+entry(sevilen, geçmiş, [], "hayal etmek fiilinin zamanı").
+entry(meraklı, n, [meraklılar], "bir şeye özel bir düşkünlüğü olan kişi").
+entry(fancies, şimdiki zaman, [], "fancy fiilinin 3. tekil şahıs çekimi").
+entry(fanciful, adj, [], "gerçekdışı").
+entry(fancify, v, [süslendi,süsleniyor,süslüyor], "süslü hale getirmek").
+girdi(süslü, sıf, [], "SÜSLÜ DAHA SÜSLÜ EN SÜSLÜ SÜSLÜCE zarf").
+entry(süslü, f, [süslendi,süslüyor,süsler], "beğeni duymak").
+entry(fandango, n, [fandangolar], "ya da FANDANGOES canlı bir İspanyol dansı").
+entry(fandom, n, [fandomlar], "coşkulu hayranların bir toplamı").
+girdi(fane, i, [fanes], "bir tapınak").
+entry(fanega, n, [fanegalar], "İspanyol kuru ölçü birimi").
+entry(fanegada, n, [fanegadas], "İspanyol alan birimi").
+entry(fanfare, n, [fanfaralar], "kısa canlı müzikal cümbüş").
+entry(fanfaron, i, [fanfarons], "övünç meraklısı").
+entry(fanfic, n, [hayran_kurguları], "hayran olunan bir eserin hayranları tarafından yazılan kurgu").
+fanfold(girdi, v, [fanfolded,fanfolding,fanfolds], "kağıdı yelpaze gibi katlamak").
+girdi(fang, i, [dişler], "uzun sivri bir dişFANGED DİŞSİZ DİŞ BENZERİ sıf").
+Girdi(fanga, i, [fangas], "fanega").
+entry(fangirl, n, [fangirls], "bir şeye hevesle bağlı olan kadın").
+entry(fanion, n, [bayrakçıklar], "küçük bir bayrak").
+girdi(fanjet, i, [fanjetler], "bir tür jet motoru").
+entry(fanlight, n, [fanlights], "bir pencere türü").
+entry(fanlike, sıf, [], "bir yelpazeye benzeyen").
+entry(fanned, geçmiş, [], "fan'ın zamanı").
+girdi(vantilatör, isim, [vantilatörler], "havalandırıcı").
+entry(fanning, mevcut, [], "fan'in ortaç hâli").
+entry(fanny, i, [popolar], "kalçalar").
+girdi(fano, i, [fanolar], "bir fanon").
+entry(fanon, i, [fanons], "papanın giydiği bir pelerin").
+entry(fantail, n, [fantails], "yelpezi görünümünde bir kuyruk veya uç").
+entry(fantasia, i, [fantaziler], "serbest biçimli bir müzikal kompozisyon").
+entry(fantasie, i, [fantaziler], "bir fantezi").
+entry(hayal edildi, geçmiş, [], "hayal zaman kipi").
+entry(fantasm, n, [fantazmlar], "hayalet").
+entry(fantast, n, [fantasts], "gerçekçi olmayan bir kişi").
+girdi(fantezi, v, [hayal_etti, hayal_ediyor, hayal_eder], "hayal etmek").
+entry(fantod, is, [fantodlar], "bir duygusal patlama").
+entry(fantom, n, [hayaletler], "hayalet").
+entry(fanum, n, [fanumlar], "fanon").
+entry(fanwise, sıfat, [], "açık bir yelpaze gibi yayılmış").
+entry(fanwort, n, [fanwortlar], "suda yaşayan bir bitki").
+entry(fanzin, n, [fanzinler], "hevesli meraklılar tarafından yazılan ve onlar için olan bir dergi").
+entry(faqir, n, [faqirler], "fakir").
+entry(faquir, n, [faquirler], "fakir").
+entry(uzak, adv, [], "DAHA UZAK EN UZAK veya DAHA İLERİ EN İLERİ büyük bir mesafede veya mesafeye").
+entry(farad, n, [faradlar], "elektrik kapasitans birimi").
+entry(faradaik, adj, [], "faradik").
+entry(faraday, n, [faradaylar], "bir elektrik birimi").
+entry(faradik, sıf, [], "bir tür elektrik akımıyla ilgili").
+girdi(faradise, fiil, [faradised,faradising,faradises], "faradize etmek").
+entry(faradizm, n, [faradizmler], "terapötik amaçlar için faradik akımın kullanımı").
+entry(faradize, f, [faradize edildi, faradize ediliyor, faradize eder], "faradizme maruz bırakmak").
+entry(uzak, sıf, [], "distant").
+entry(saçmalık, v, [saçmaladı,saçmalıyor,saçmalar], "komik malzemeyle doldurmak").
+girdi(farcer, n, [farcers], "farceur").
+entry(farceur, n, [şakacılar], "bir şakacı").
+entry(farci, sıf, [], "ince kıyılmış etle doldurulmuş").
+entry(güldürücü, sıf, [], "saçma").
+entry(dolma, sıf, [], "dolma").
+entry(farcing, şimdiki, [], "farce fiilinden türetilmiş ortaç").
+entry(farcy, i, [farcies], "atlarin hastaligi").
+entry(fard, v, [farded,farding,fards], "kozmetik uygulamak için").
+girdi(fardel, is, [fardeller], "bir demet").
+entry(fare, v, [fared,faring,fares], "geçinmek").
+entry(farebox, n, [fareboxes], "otobüslerde ücretlerin konulduğu bir kap").
+girdi(yolcu, i, [yolcular], "bir gezgin").
+entry(veda, v, [vedalaştı, vedalaşıyor, vedalaşır], "elveda demek").
+girdi(farfal, n, [farfals], "farfel").
+entry(farfalle, n, [farfalles], "papyon şeklinde makarna").
+entry(farfel, n, [farfeller], "küçük pelet veya granül şeklinde erişteler").
+entry(farina, isim, [farinalar], "tahıl tanesinden yapılan ince un").
+entry(faring, şimdiki zaman, [], "fare fiilinin ortaç hali").
+entry(farinha, i, [farinhas], "manyok kökünden yapılan bir un").
+entry(farinose, sıf, [], "irmik benzeri").
+girdi(farıl, n, [farıllar], "ince bir yulaf keki").
+Giriş(farle, n, [farles], "farl").
+Girdi(çiftlik, f, [çiftlikte, çiftlik, çiftlikler], "tarıma adanmış bir araziyi çiftlik olarak yönetmek ve yetiştirmekÇİFTLİĞE UYGUN adj").
+entry(çiftçi, n, [çiftçiler], "tarımla uğraşan kişi").
+entry(ciftci, n, [ciftciler], "bir tarla isçisi").
+entry(ciftcilik, n, [ciftcilikler], "bir çiftliği işletme işi").
+entry(tarla, n, [tarlalar], "ekili arazi").
+çiftçi_kadını(giriş, i, [çiftçi_kadınları], "bir çiftçinin karısı").
+çiftlik_çalışması(giriş, n, [çiftlik_çalışmaları], "bir çiftlikte yapılan iş").
+çiftlikavlusu(giriş, n, [çiftlikavluları], "çiftlik binalarıyla çevrili bir alan").
+entry(farnesol, i, [farnesoller], "parfümlerde kullanılan bir alkol").
+entry(uzaklık, n, [uzaklıklar], "uzakta veya ayrı olma durumu").
+entry(faro, n, [faros], "bir kart oyunu").
+entry(farolito, n, [farolitos], "kumla ağırlıklandırılmış bir kağıt torbada mum").
+entry(farouche, sıf, [], "utangaç bir şekilde içe kapanık").
+entry(farrago, n, [farragoes], "veya FARRAGOS, karışık bir karışım").
+entry(nalbant, n, [nalbantlar], "atları nallayan kişi").
+entry(nalbantlık, i, [nalbantlıklar], "bir nalbantın mesleği").
+entry(farrow, v, [doğurdu,doğurmakta,doğurur], "bir grup domuz yavrusu doğurmak").
+entry(farside, n, [karşı taraflar], "daha uzak taraf").
+girdi(daha_uzak, a, [], "far'ın kıyas hali").
+entry(en_uzak, a, [], "uzun'un üstünü").
+entry(farthing, i, [farthingler], "eski bir İngiliz madeni parası").
+entry(fartlek, i, [fartlekler], "bir atletik antrenman tekniği").
+entry(fasces, n, [fasces], "eski bir Roma güç sembolü").
+entry(fascia, n, [fascias], "veya FASCIAE geniş ve belirgin bir renk bandıFASCİAL FASCIATE sıf").
+girdi(fasikül, n, [fasiküller], "küçük bir demet").
+entry(fascine, n, [fascineler], "tahkimat yapımında kullanılan çubuk demeti").
+entry(faşizm, n, [faşizmler], "baskıcı bir siyasi sistem").
+entry(faşist, n, [faşistler], "faşizmin savunucusu").
+entry(fasciit, i, [fasciitler], "bağ dokusunun iltihabı").
+entry(fash, v, [fashed,fashing,fashes], "kızdırmak").
+entry(moda, f, [şekillendirildi,şekillendirme,şekillendirir], "belirli bir şekil veya form vermek").
+entry(moden, adj, [], "moda olan trendy").
+entry(fashious, sıf, [], "can sıkıcı").
+entry(hızlı, sıf, [], "DAHA HIZLI EN HIZLI hareket eden veya hızlı hareket edebilen").
+entry(hızlı, f, [oruç_tuttu,oruç_tutma,oruç_tutar], "yemekten kaçınmak").
+entry(fastback, n, [fastbacks], "bir tür otomobil tavanı").
+entry(fastball, n, [fastballs], "beyzbolda bir tür atış").
+entry(bağla, f, [bağladı, bağlama, bağlar], "güvence altına almak").
+entry(tutturucu, n, [tutturucular], "tutturan biri").
+girdi(oruc, i, [oruclar], "yemek yemekten kaçınma").
+entry(hız, n, [hızlar], "hızlı olma kalitesi").
+entry(fastuous, sıf, [], "kibirli").
+entry(fat, sıf, [], "KİLOLUK KİLOLUK EN ÇOKkilolu olan").
+entry(fat, v, [şişmanlamış,şişmanlıyor,şişmanlar], "şişmanlamak").
+entry(ölümcül, sıfat, [], "ölüme neden olan veya ölüme neden olabilecek").
+entry(kadercilik, n, [kadercilikler], "tüm olayların önceden belirlenmiş olduğunu savunan doktrin").
+entry(fatalist, n, [fatalistler], "kadercilik inancına sahip olan kişi").
+entry(ölüm, n, [ölümler], "beklenmedik bir olaydan kaynaklanan ölüm").
+entry(ölümcül, zf, [], "ölümcül bir şekilde").
+entry(fatback, n, [yağsırtlar], "deniz balığı").
+entry(şişmikuş, n, [şişmikuşlar], "su kenarında yaşayan bir kuş").
+giriş(kader, f, [kadere,kaderler,kaderlen], "yazgılamak").
+entry(kaderli, sıfat, [], "kesin olarak önemli").
+girdi(süpüş, i, [süpüşler], "bir aptal").
+entry(baba, v, [babalık yaptı, babalık yapıyor, babalık yapar], "var olmasına neden olmak").
+entry(baba gibi, sıf, [], "babacan").
+girdi(fathom, v, [fathomed,fathoming,fathoms], "anlamak").
+entry(fathomer, n, [fathomerlar], "bir şeyi derinlemesine anlayan").
+entry(fatidik, sıf, [], "kehanetle ilgili").
+entry(yorgunluk, v, [yorgun,yoruluyor,yorulmak], "yormak").
+entry(fating, şimdiki zaman, [], "fate'in sıfat-fiili").
+entry(yağsız, sıf, [], "hiç yağ içermeyen").
+girdi(yagimsi, sıf, [], "yağa benzeyen").
+entry(fatling, n, [yavşak hayvanlar], "kesim için şişmanlatılmış genç bir hayvan").
+entry(fatly, adv, [], "şişman biri gibi").
+entry(şişmanlık, n, [şişmanlıklar], "şişman olma durumu").
+entry(şişmanstok, n, [şişmanstoklar], "pazar için şişman ve hazır olan çiftlik hayvanları").
+entry(fatted, past, [], "şişmanın zamanı").
+entry(şişmanlat, v, [şişmanlattı, şişmanlatıyor, şişmanlatır], "şişman yapmak").
+entry(semi̇rti̇ci̇, i̇s, [semi̇rti̇ci̇ler], "semiş edən").
+entry(daha_şişman, karşılaştırmalı, [], "şişman").
+entry(en şişman, üstünlük, [], "şişman").
+entry(fattier, dereceli, [], "yağlı olan").
+entry(şişmanlar, pl, [], "şişman olanın").
+entry(fattiest, üstünlük_derecesi, [], "yağın").
+entry(fattily, adv, [], "yağlı bir şekilde").
+entry(fatting, şimdiki zaman, [], "yağlanmanın ortaç hali").
+entry(fattish, sıf, [], "biraz şişman").
+entry(fatty, sıf, [], "DAHA YAĞLI EN YAĞLIyağlı yağlı").
+entry(şişman, n, [şişmanlar], "şişman olan biri").
+entry(ahmaklık, n, [ahmaklıklar], "aptalca veya budalaca bir şey").
+entry(fatuous, sıf, [], "kibirli aptalca").
+entry(fetva, n, [fetvalar], "İslami bir hukuki karar").
+entry(çırak, n, [çıraklar], "yakacak olarak kullanılan odun").
+girdi(faubourg, n, [faubourgs], "bir banliyö").
+girdi(faucal, i, [faucals], "yanak kemikleri arasında üretilen bir ses").
+entry(fauces, ç.ç., [], "ağızdan farinkse geçiş").
+entry(musluk, n, [musluklar], "bir borudan sıvı akışını kontrol eden cihaz").
+entry(faucetry, n, [faucetries], "bir dizi musluk").
+entry(faucial, sıf, [], "boğazla ilgili").
+entry(faugh, ünlem, [], "iğrenmeyi ifade etmek için kullanılır").
+entry(fauld, n, [faulds], "göğüs zırhının altındaki bir parça zırh").
+entry(fault, v, [hatalı, hata_yapıyor, hatalar], "eleştirmek").
+hata(giris, sıf, [], "EN BOZUK BOZUKEksikBOZUKÇA adv").
+entry(faun, i, [faunlar], "Roma mitolojisine ait bir orman tanrısıFAUN BENZERİ sıf").
+entry(fauna, n, [faunalar], "veya FAUNAE belirli bir bölgenin hayvan yaşamı FAUNAL sifat FAUNALLY zarf").
+girdi(faunist, i, [faunistler], "faunalar konusunda uzman kişi").
+entry(fauteuil, n, [fauteuils], "bir koltuk").
+entry(fauve, n, [fauvlar], "bir fovist").
+entry(fovizm, n, [fovizmler], "resimde bir akım").
+entry(fovist, n, [fovistler], "fovizmin savunucusu").
+entry(faux, sıf, [], "sahte, gerçek değil").
+entry(fava, n, [bakla], "tırmanıcı bir asmanın yenilebilir tohumu").
+entry(fave, n, [favoriler], "bir favori").
+entry(favela, i, [favelalar], "bir gecekondu bölgesi").
+entry(favella, i, [favellalar], "favela").
+entry(favism, n, [favizm], "akut anemi").
+entry(favonian, sıf, [], "batı rüzgarıyla ilgili").
+girdi(favor, f, [tercih edilen, tercih etme, tercih eder], "onayla bakmak").
+entry(favorer, n, [taraftarlar], "iyilik yapan biri").
+entry(favori, n, [favoriler], "herkesten veya her şeyden daha çok tercih edilen kişi veya şey").
+entry(favor, f, [favoura, favourlama, favours], "öncelik tanımak").
+entry(favori_yapan, n, [favori_yapanlar], "favorer").
+entry(favus, n, [favuslar], "bir deri hastalığı").
+girdi(geyik, f, [geyiğe,geyiği,geyikleri], "kulluk tavırlarıyla dikkat veya lütuf aramak").
+entry(fawner, i, [yalakalar], "yalakalık eden biri").
+entry(fawnlike, sıf, [], "genç bir geyiğe benzeyen").
+entry(fawny, sıf, [], "sarımsı kahverengi renginde FAWNIESİ FAWNIEST").
+entry(fax, f, [faxlendi,faxleme,fakslar], "elektronik araçlarla iletmek ve çoğaltmakFAXBILIR sıf").
+entry(fay, v, [fayed,faying,fays], "yakından birleştirmek").
+entry(fayalit, n, [fayalitler], "bir mineral").
+entry(faze, v, [fazed,fazing,fazes], "sakinliğini bozmak").
+entry(fazenda, n, [fazendas], "bir Brezilya plantasyonu").
+entry(fe, n, [fes], "bir İbrani harfi").
+entry(feal, sıf, [], "sadık").
+entry(sadakat, n, [sadakatler], "bağlılık").
+Giriş(korku, f, [korktu,korkan,korkar], "korkmak").
+entry(korkan, n, [korkanlar], "korkan kimsedir").
+entry(korkak, sıf, [], "DAHA_KORKAK KORKAK_OLANkorkmuş").
+entry(korkusuz, sıf, [], "korkmamış").
+girdi(korkutucu, sıf, [], "korkutucu").
+entry(ifanın_yerine_getirilmesi, n, [ifanın_yerine_getirilmesi], "bir koşul, yükümlülük veya görevin yerine getirilmesi").
+girdi(fease, f, [feased,feasing,feases], "şaşırtmak için").
+entry(uygulanabilir, sıfat, [], "uygulanabilir şekilde yapılması mümkünFEASIBLY zarf").
+entry(ziyafet, f, [ziyafet_çekti,ziyafet_çekiyor,ziyafetler], "bol bol yemek yemek").
+girdi(feaster, i, [feasters], "ziyafet çeken biri").
+entry(feastful, sıf, [], "festival").
+entry(feat, adj, [], "FEATER FEATESTbeceri").
+entry(feat, n, [feats], "dikkate değer bir eylem veya başarı").
+girdi(tüy, f, [tüylü, tüylenme, tüyler], "kuşların ana örtüsünü oluşturan boynuzsu yapılarla kaplamak").
+entry(tüy gibi, sıf, [], "TÜY GİBİ TÜY GİBİresembing feathers").
+entry(featly, adj, [], "İNCE İNCESİgraceful").
+entry(ozellik, v, [ozellikli, ozellikli olarak, ozellikler], "ozel bir onem vermek").
+entry(feaze, v, [feazed,feazing,feazes], "etkilenmek").
+entry(febrific, sıf, [], "ateşli").
+entry(ateşli, sıf, [], "feverish").
+entry(dışkısal, sıf, [], "dışkıyla ilgili").
+entry(dışkı, npl, [], "anüsten atılan vücut atığı").
+girdi(uluslararası_arabulucu, i, [uluslararası_arabulucular], "fetial").
+entry(feck, n, [fecks], "değer").
+entry(feckless, sıf, [], "değersiz").
+entry(feckly, adv, [], "neredeyse").
+entry(fecula, n, [feculae], "dışkı maddesi").
+entry(feculent, sıf, [], "kirliliklerle dolu").
+entry(verimli, sıf, [], "fruitful").
+girdi(fed, n, [feds], "federal bir ajan").
+entry(fedayee, n, [fedayeen], "bir Arap komando").
+giris(federasyon, i, [federasyonlar], "bir ittifak").
+entry(federal, n, [federaller], "bir tür merkezi hükümetin destekçisi").
+girdi(federe, f, [federasyon,federeleme, federeler], "bir müttefiklikte birleştirmek").
+entry(fedex, v, [fedexledi,fedexleme,fedexler], "Federal Express ile göndermek").
+entry(fedora, n, [fedoralar], "bir tür şapka").
+entry(ucret, v, [ucretlendirme,ucretlendirme,ucretler], "belirli bir ücreti ödemek icin").
+entry(feeb, n, [feebs], "zayıf veya etkisiz bir kişi").
+entry(zayıf, adj, [], "DAHAYETERZayıfenDAHAZAYIF adv").
+entry(feeblish, sıf, [], "biraz zayıf").
+girdi(besle, v, [besledi,besleme,besler], "yiyecek vermek FEEDABLE adj").
+entry(feedback, n, [geribildirimler], "çıktının bir kısmının girdiye geri dönmesi").
+entry(yemtorbası, n, [yemtorbaları], "atlar için beslenme çantası").
+entry(yemkutusu, i, [yemkutuları], "hayvan yemi için bir kutu").
+giriş(besleyici, n, [besleyiciler], "besleyen biri").
+entry(feedhole, n, [feedholes], "delikli bant üzerindeki bir dizi delikten biri").
+entry(besleme, n, [beslemeler], "bir kişiye veya hayvana yiyecek verme eylemi").
+entry(besihanesi, n, [besihaneler], "üzerinde hayvanların semirtilip beslendiği bir arazi").
+entry(feedyard, n, [besi_yerleri], "bir besi ahırı").
+entry(feel, v, [felt,feeling,feels], "dokunma duyusuyla algılamak").
+entry(feeler, n, [duyargalar], "dokunsal bir organ").
+entry(feeless, sıf, [], "ücret gerektirmeyen").
+girdi(his, isim, [hisler], "dokunarak algılamanın fonksiyonu veya gücü").
+giriş(feet, pl, [], "ayağın").
+entry(feetless, sıf, [], "ayaksız").
+entry(feeze, f, [feezed, feezeing, feezes], "ürkütmek için").
+girdi(feh, n, [fehs], "peh").
+girdi(numara_yap, f, [numara_yaptı,numara_yapıyor,numara_yapar], "miş gibi yapmak").
+entry(feigner, i, [numaracılar], "numara yapan kişi").
+entry(feijoa, i, [feijoalar], "yeşil yenilebilir bir meyve").
+entry(aldatmaca, f, [aldattı, aldatıyor, aldatır], "aldatıcı bir hareket yapmak").
+entry(feirie, sıf, [], "çevik").
+entry(feist, i, [feistler], "karma ırktan küçük bir köpek").
+Prolog:
+entry(feisty, adj, [], "DAHA KAVGACI EN KAVGACIsinirli enerji doluKAVGACILI adv").
+girdi(felafel, n, [felafeller], "falafel").
+entry(feldsher, n, [feldsherler], "Rusya'da bir sağlık çalışanı").
+entry(feldispat, i, [feldispatlar], "bir mineral").
+girdi(mutluluk, i, [mutluluklar], "happiness").
+girdi(felid, n, [felids], "bir kedigil").
+entry(felidae, i, [kedigiller], "kedi familyasının bir hayvanı").
+entry(felinely, adv, [], "kedi gibi bir şekilde").
+entry(kedisellik, n, [kedisellikler], "kedi gibi olmanın niteliği").
+entry(düştü, sıf, [], "DAHA ACIMASIZ EN ACIMASIZ").
+girdi(devrilmek, f, [devrildi, devrilme, devrilir], "düşmesine neden olmak").
+entry(dost, i, [dostlar], "bir erkek veya oğlan").
+entry(devrilebilir, sıf, [], "kesilebilir").
+entry(fellah, i, [fellahs,fellahin], "veya FELLAHEEN Arap ülkelerinde bir köylü veya işçi").
+entry(fellate, v, [fellated,fellating,fellates], "fellatio yapmak").
+entry(fellatio, n, [fellatios], "penisin oral uyarımı").
+girdi(fellator, n, [fellators], "fellatio yapan kişi").
+entry(feller, i, [fellers], "kesici").
+entry(fellies, pl, [], "felleylerin").
+entry(zalimlik, n, [zalimlikler], "aşırı zalimlik").
+entry(felloe, n, [felloeler], "bir tekerleğin jantı").
+entry(fellow, v, [fellowed,fellowing,fellows], "eşitini üretmek").
+entry(fellowly, sıf, [], "samimi").
+entry(felly, n, [fellies], "tekerlek çemberi").
+entry(suçlu, n, [suçlular], "bir ağır suç işlemiş kişi").
+entry(suçlular, n, [suçlular sınıfı], "suçluların tamamı").
+entry(felon, i, [suçlar], "ağır bir suç").
+entry(felsik, adj, [], "feldispat ve silikatlardan oluşan").
+entry(felsit, i, [felsitler], "bir magmatik kaya FELSITİK adj").
+girdi(felspar, n, [felspars], "feldispat").
+entry(felstone, n, [feltaşları], "felstaş").
+entry(felt, v, [keçeledi,keçeleşme,keçeler], "birleşip keçeleşmek için").
+entry(keçeleme, n, [keçelemeler], "keçelenmiş malzeme").
+entry(hissetmekgibi, sıf, [], "yünden yapılmış bir kumaş gibi").
+girdi(felty, sıf, [], "YÜNLÜ BİR KUMAŞTAN YAPILMIŞ GİBİ FELTIER FELTIEST").
+entry(felwort, is, [felwortlar], "çiçek açan bir bitki").
+entry(fem, n, [fems], "pasif bir homoseksüel").
+entry(dişi, n, [dişiler], "yavrulayan veya yumurta üreten bir birey").
+entry(feme, n, [femes], "bir eş").
+entry(kadınlık, i, [kadınlıklar], "kadın olma durumu").
+entry(kadın, çoğul, [], "topluca kadınlar").
+entry(dişil, n, [dişiller], "dişil cinsiyete sahip bir kelime veya biçim").
+entry(feminizasyon, v, [feminizasyonlu,feminizasyon yapan,feminize eder], "kadınsı hale getirmek").
+entry(feminizm, n, [feminizmler], "erkeklerle eşit haklar isteyen bir doktrin").
+entry(feminist, n, [feministler], "feminizm destekçisi").
+entry(kadınsılık, n, [kadınsılıklar], "kadın gibi olma niteliği").
+entry(feminenleştir, v, [feminenleştirdi,feminenleştiriyor,feminenleştirir], "kadınsı hale getirmek").
+entry(femme, n, [kadınlar], "bir kadın").
+entry(femoral, sıf, [], "femura ait").
+girdi(uyluk, n, [uyluklar], "veya FEMORA bacağın bir kemiği").
+girdi(sazlık, i, [sazlıklar], "bir bataklık").
+entry(fenagle, f, [fenagledi, fenagleme, fenagler], "hile yapmak").
+entry(çit, v, [çitlenmiş, çitleme, çitler], "eskrim sanatı uygulamak").
+entry(eskrimci, n, [eskrimciler], "eskrim yapan biri").
+entry(çitlembik, n, [çitlembikler], "bir çit tarafından işgal edilen arazi").
+entry(fencible, n, [garnizon], "sadece yurt hizmeti için kaydedilen bir asker").
+entry(eskrim, n, [eskrimler], "saldırı ve savunmada bir kılıç kullanma sanatı").
+girdi(koruma, e, [korudu,koruyan,korur], "uzak tutmak").
+girdi(fender, n, [fenders], "bir motorlu taşıtın tekerleği üzerindeki metal korumaFENDERLI sıf").
+entry(fenestra, i, [fenestrae], "küçük bir anatomik açıklık").
+entry(fening, n, [fenings], "Bosna Hersek'in para birimi").
+entry(sazlık_alan, i, [sazlık_alanlar], "bataklık arazi").
+entry(fennec, n, [fennecler], "Afrika tilkisi").
+girdi(rezene, n, [rezeneler], "çok yıllık bir ot").
+entry(fenny, sıf, [], "FENNIER FENNIESTbataklık").
+entry(fentanil, n, [fentaniller], "narkotik bir opioid").
+entry(fenthion, n, [fenthionlar], "bir böcek ilacı").
+entry(fenuron, n, [fenuronlar], "bir herbisit").
+entry(feod, n, [feodlar], "bir tımar").
+entry(feodary, n, [feodaries], "bir vassal").
+entry(feoff, f, [feoffed, feoffing, feoffs], "bir kimseye tımar vermek").
+entry(feoffee, n, [feoffees], "birine verilen bir derebeylik").
+entry(feoffer, n, [feofferler], "başkasına tımar veren kişi").
+entry(taşımacı, i, [taşımacılar], "taşımacı").
+entry(fer, haz, [], "için").
+entry(verimlilik, n, [verimlilikler], "verimli olma durumu").
+entry(feral, n, [ferals], "vahşi bir hayvan").
+entry(ferbam, n, [ferbamlar], "bir mantar ilacı").
+entry(fere, n, [feres], "bir yoldaş").
+entry(feretory, i, [feretories], "kutsal emanetlerin saklandığı bir kap").
+girdi(feria, isim, [ferias], "bir kilise takviminde herhangi bir bayramın kutlanmadığı haftanın günü FERİAL sıf.").
+entry(ferine, sıf, [], "vahşi").
+entry(vahşilik, n, [vahşilikler], "vahşilik").
+entry(ferlie, n, [ferlies], "garip bir manzara").
+girdi(acayip, n, [acayipler], "acayip").
+entry(fermata, n, [fermatalar], "veya FERMATEnin yazılı süre değerinin ötesinde bir müzik notası, akor veya es vermenin uzatılması").
+entry(mayalanmak, f, [mayalandı, mayalanıyor, mayalanır], "bir tür kimyasal reaksiyona uğramak").
+entry(fermi, n, [fermi], "bir uzunluk birimi").
+entry(fermion, n, [fermiyonlar], "bir tür atom parçacığı").
+girdi(fermyum, i, [fermyumlar], "radyoaktif bir element").
+entry(eğrelti, n, [eğreltiler], "çiçeksiz damarlı bitkiEĞRELTİSİZ EĞRELTİBENZER sıf").
+girdi(eğreltiotu_evi, i, [eğreltiotu_evleri], "eğreltiotlarının yetiştirildiği yer").
+girdi(ferninst, edat, [], "yakınında").
+entry(ferny, sıf, [], "EĞRELTİDİKENLERİ EĞRELTİDİKENLERİabounding in ferns").
+entry(vahşilik, n, [vahşilikler], "şiddet").
+entry(ferrat, n, [ferratlar], "kimyasal bir tuz").
+entry(ferrel, v, [ferreled,ferreling,ferrels], "veya FERRELLED FERRELLING FERRELSto ferrule").
+entry(ferreous, sıf, [], "demir içeren").
+girdi(fare, f, [fareledi, fareyerek, fareler], "dikkatli bir araştırmayla aramak").
+entry(fare-avcisi, i, [fare-avcilari], "fare avlayan biri").
+entry(ferrety, sıf, [], "bir gelinciğe veya sansara benzer").
+entry(ferriage, n, [feribot taşımaları], "feribotla ulaşım").
+entry(ferrik, sıf, [], "demire ilişkin").
+entry(taşındı, geçmiş, [], "taşımak kip").
+girdi(vapurlar, şimdiki zaman, [], "feribot üçüncü tekil şahıs").
+entry(ferrit, n, [ferritler], "manyetik bir maddeFERRİTİK sıf").
+entry(ferritin, n, [ferritinler], "demir içeren bir protein").
+entry(ferrous, sıf, [], "demirle ilgili").
+entry(ferrule, v, [ferruled,ferruling,ferrules], "ayrılmayı önlemek için metal halka veya kapakla donatmak").
+entry(ferrum, n, [ferrumlar], "demir").
+entry(feribot, f, [feribotladi, feribotlamakta, feribotlar], "bir tür tekneyle taşımak").
+entry(kayıkçı, n, [kayıkçılar], "feribot işleten biri").
+entry(verimli, adj, [], "üreme yeteneğine sahip").
+entry(ferula, n, [ferulalar], "veya FERULAE düz bir tahta parçası").
+entry(ferrule, v, [ferruled,ferruling,ferrules], "ferçing").
+entry(coşkunluk, n, [coşkunluklar], "coşku").
+entry(hararetli, adj, [], "çoşku ile işaretlenmiş").
+entry(fervid, sıf, [], "ferventFERVIDLY adv").
+entry(fervor, n, [tutkular], "büyük bir sıcaklık veya yoğunluk").
+entry(coşku, n, [coşkular], "fervor").
+entry, n, [fescues], "çok yıllık bir çim").
+entry(fess, f, [itiraf_etti,itiraf_ediyor,itiraf_ediyor], "itiraf etmek").
+entry(fesse, n, [fesses], "bir arma kalkanının ortasında yatay bir şerit").
+entry(fesswise, zf, [], "yatay olarak").
+entry(fest, n, [fests], "bir etkinlik için toplanma").
+entry(festa, n, [festas], "dini bir festival").
+girdi(festal, sıf, [], "şenlikliŞENLİKSEL olarak zf").
+girdi(fester, f, [iltihaplandı,iltihaplanıyor,iltihaplanır], "irin oluşturmak").
+entry(festival, n, [festivaller], "kutlama günü veya zamanı").
+entry(festive, sıf, [], "bir festivale uygun veya festivalle ilgili").
+Girdi(festoon, v, [festooned, festooning, festoons], "dekoratif zincir veya şeritler asmak").
+entry(fet, v, [getirildi,getirme,getirir], "getirmek").
+girdi(feta, n, [fetas], "Yunan peyniri").
+entry(fetal, sıf, [], "bir fetüse ait").
+entry(gebelik, n, [gebelikler], "bir fetusun gelişimi").
+entry(fetch, v, [getirildi,getirmek,getirir], "sonrasında getirmek üzere gitmek").
+girdi(getirici, n, [getiriciler], "getiren biri").
+entry(fete, v, [kutlanan,kutlama,kutlamalar], "bir etkinlikle onurlandırmak").
+entry(feterita, n, [feteritalar], "bir tahıl otu").
+entry(fetial, n, [fetials], "antik Roma'da bir rahip").
+entry(fetialis, n, [fetiales], "fetial").
+entry(fetiş, n, [fetişler], "fetish").
+entry(fetisit, n, [fetisitler], "bir fetüsün öldürülmesi").
+entry(fetid, sıf, [], "rahatsız edici bir kokuya sahipFEYTİDLİ zrf").
+entry(fetidity, n, [fetiditeler], "kokmuş olma durumu").
+entry(feting, şimdiki zaman, [], "fete'in ortaç hali").
+girdi(fetiş, i, [fetişler], "büyülü güce sahip olduğuna inanılan nesne").
+entry(fetlock, n, [fetlocks], "bir atın bacağının eklemi").
+entry(fetoloji, n, [fetolojiler], "fetüs ile ilgilenen tıp dalı").
+entry(fetor, n, [fetorlar], "kötü bir koku").
+giris(fetted, gecmis, [], "fet zaman").
+entry(fetter, v, [zincirlenmiş,zincirleme,zincirler], "zincirlemek").
+entry(fetterer, i, [fetterers], "bağlayan kimse").
+Girdi(fetting, şimdiki zaman, [], "fet fiilinin ortaç hali").
+entry(fettle, v, [fettled,fettling,fettles], "ocağın tabanını kaplamak için").
+entry(ayarci, n, [ayarcilar], "ayar yapan kişi").
+entry(fettling, n, [fettlings], "korunması için bir fırının tabanına dökülen gevşek malzeme").
+entry(fetus, isim, [fetuses], "gelişiminin sonraki aşamalarında rahim içinde taşınan doğmamış organizma").
+entry(feu, v, [feued,feuing,feus], "İskoç feodal hukukuna göre arazi bağışlamak").
+entry(feuar, i, [feuars], "İskoç feodal yasasına göre arazi verilen kişi").
+girdi(feud, f, [feuded,feuding,feuds], "acı bir sürekli düşmanlık olan bir kan davasına katılmak").
+entry(feodal, adj, [], "ortaçağ Avrupa'sının bir siyasi ve ekonomik sistemi ile ilgili FEODAL OLARAK adv").
+entry(feudary, n, [feudaries], "bir vasal").
+entry(feudist, n, [feudistler], "birbiriyle dalaşan kişi").
+girdi(ateş, f, [ateşli,ateşlenme,ateşler], "vücut sıcaklığının anormal yükselmesiyle ateş etkisi yapmak").
+entry(papatya, i, [papatyalar], "çok yıllık bir bitki").
+entry(ateşli, sıf, [], "ateşi olan").
+girdi(ateşli, sıf, [], "ateşli").
+giris(az, sft, [], "DAHA AZEN AZbirkaç sayıdan oluşan veya birkaç sayı kadar olan").
+entry(azlık, n, [azlıklar], "az olma durumu").
+entry(fewtrils, çoğul, [], "az değerli şeyler").
+girdi(fey, sıf, [], "FEYER FEYESTçılgınFEYCE zrf").
+entry(feylik, n, [feylikler], "fey olma durumu").
+entry(fez, n, [fesler], "veya FESLER çevresinde siperi olmayan bir şapka, Ortadoğu'da erkekler tarafından giyilirFESLİ FESLİ adj").
+entry(fiacre, i, [fiacreler], "küçük bir fayton").
+entry(nisanli, n, [nisanlilar], "evlenmek üzere olan bir erkek").
+entry(nisanli, n, [nisanlilar], "evlenmek uzere sozlesmis bir kadin").
+entry(fiar, n, [fiars], "İskoç hukukunda bir tür mutlak arazi mülkiyetine sahip olan kişi").
+entry(felaket, n, [felaketler], "veya FİYASKOŞarap şişesi").
+entry(fiyasko, n, [fiyaskolar], "veya FİYASKOLARA tamamen başarısızlık").
+girdi(fiat, n, [fiats], "yetkili bir emir").
+entry(fib, v, [fibbed,fibbing,fibs], "önemsiz bir yalan söylemek").
+girdi(fibber, n, [fibberler], "yalan söyleyen biri").
+entry(lif, n, [lifler], "iplik veya iplik benzeri bir nesne veya yapıFİBERLİ sıf").
+entry(fiberize, v, [liflendirdi, liflendirme, liflendirir], "liflere ayırmak").
+entry(fibranne, n, [fibrannes], "lif rayon ipliğinden yapılmış bir kumaş").
+giriş(lif, n, [lifler], "fiberFIBRED sıf").
+entry(fibril, i, [lifçikler], "küçük bir lif").
+entry(fibrilla, n, [fibrillae], "bir fibril").
+entry(fibrin, n, [fibrinler], "çözünmeyen bir protein").
+entry(fibroid, n, [doku urları], "bir fibroma").
+entry(fibroin, n, [fibroinler], "çözünmeyen bir protein").
+entry(fibroma, i, [fibromlar], "veya FİBROMATALAR, lifli dokudan oluşan iyi huylu bir tümör").
+entry(fibroz, n, [fibrozlar], "bir vücut organında aşırı lifli doku gelişimiFIBROTIK sıf").
+entry(lifli, adj, [], "lifler içeren, liflerden oluşan veya lif benzeri").
+fibster(n, girdi, [fibsterlar], "yalan söyleyen biri").
+girdi(fibula, n, [fibulas], "veya FIBULAE bacağın bir kemiği FIBULAR sıf").
+entry(fice, n, [fices], "bir kavga").
+entry(fiche, n, [fişler], "bir mikrofilm sayfası").
+entry(fichu, n, [fichus], "bir kadının atkısı").
+entry(fisin, n, [fisinler], "bir enzim").
+entry(dönek, sıf, [], "FICKLER FICKLESTsürekli veya sadık olmayanFICKLY zrf").
+entry(fico, i, [ficolar], "küçük değerde bir şey").
+entry(fictile, sıf, [], "kalıplanabilir").
+entry(kurgu, n, [kurgular], "içeriği hayal gücüyle üretilen bir edebi eser").
+giriş(kurgusal, sıf, [], "hayali").
+giriş(ficus, i, [ficuslar], "tropikal bir ağaç").
+entry(fid, n, [fids], "üst direk için destek olarak kullanılan kare çubuk").
+entry(keman, f, [kemanda çalındı, kemanda çalıyor, kemanda çalar], "keman çalmak").
+entry(keman, n, [kemanlar], "kemancı").
+entry(keman çalma, n, [keman çalmalar], "keman çalma eylemi").
+girdi(karmakarışık, sıf, [], "DAHA KARMAGÜLÜK EN KARMAGÜLÜKkarmaşık bir şekilde ele alınması zor").
+entry(fideizm, i, [fideizmler], "akıla değil inanca dayanma").
+entry(fideist, n, [fideistler], "fideizme inanan biri").
+entry(güvenilirlik, n, [güvenilirlikler], "sadakat").
+entry(fidge, v, [fidged,fidging,fidges], "kıpırdanmak").
+entry(kıpırdanmak, f, [kıpırdandı,kıpırdanıyor,kıpırdanır], "sinirli veya huzursuzca hareket etmek").
+entry(fidgeter, n, [kıpırdanıcılar], "kıpırdanan biri").
+girdi(huzursuz, sıf, [], "sinirli bir şekilde huzursuz").
+entry(fidging, şimdiki, [], "fidge'nin ortaç hali").
+entry(fido, n, [fidos], "kusurlu bir para").
+entry(fiducial, sıf, [], "inanca veya güvene dayalı").
+entry(fie, ünlem, [], "hoşnutsuzluk ifade etmek için kullanılır").
+entry(dirlik, n, [dirlikler], "feodal bir mülk").
+fiefdom(girdi, n, [fiefdoms], "bir tımar").
+entry(field, v, [fielded,fielding,fields], "sahada oyuncu olarak oynamak").
+entry(saha_oyuncusu, n, [saha_oyuncuları], "oyun sırasında topu tutan veya alan kişi").
+girdi(şeytan, n, [şeytanlar], "bir iblis").
+entry(şeytani, sıf, [], "son derece kötü veya zalim").
+entry(şiddetli, sıf, [], "DAHA ŞİDDETLİ EN ŞİDDETLİşiddetle düşmanca veya agresifŞİDDETLE zrf").
+entry(fiery, adj, [], "ÇOK ATEŞLİ EN ATEŞLİyoğun bir şekilde sıcakATEŞLİCE zrf").
+entry(fiesta, n, [fiestalar], "bir festival").
+entry(fife, v, [flüt çaldı, flüt çalıyor, flütler], "inci ince sesli bir flüt çalmak").
+girdi(fifer, i, [fifers], "bir flüt çalan").
+entry(onbeş, n, [onbeşler], "bir sayı").
+entry(besinci, n, [besinciler], "bes esit parçadan biri").
+entry(beşincisi, adv, [], "beşinci olarak").
+entry(elli, n, [elliler], "elli eşit parçadan biri").
+entry(elli, n, [elliler], "bir sayı").
+entry(elliyaşlarında, sıf, [], "elli yaş civarında olmak").
+entry(incir, f, [incirledi, incirliyor, incirler], "süslemek").
+girdi(incirböceği, n, [incirböcekleri], "büyük bir böcek").
+entry(savaş, f, [savaştı,savaşmak,savaşlar], "bir düşmanı yenmeye çalışmak").
+entry(dövüşçü, n, [dövüşçüler], "dövüşen biri").
+entry(fighting, n, [fightings], "dövüşen birinin eylemi").
+entry(figment, n, [hayali_ürünler], "zihinsel icadın bir ürünü").
+girdi(incir_agaci, i, [incir_agaclari], "yumusak tatli koyu meyveler veren bir agac").
+entry(figuline, n, [figulines], "bir çömlek parçası").
+entry(figural, sıfat, [], "insan veya hayvan formundan oluşan").
+entry(figurant, n, [figüran], "yalnızca gruplar halinde dans eden bir bale dansçısı").
+entry(figüratif, sıf, [], "kesin bir şekle sahip olma").
+entry(figure, v, [figured,figuring,figures], "hesaplamak").
+entry(figurer, n, [figurers], "bir şeyleri hesaplayan biri").
+entry(heykelcik, n, [heykelcikler], "küçük heykel").
+entry(figwort, n, [figwortlar], "çiçekli bir bitki").
+entry(fil, n, [fils], "Irak ve Ürdün'ün bir madeni parası").
+entry(fila, pl, [], "filum'un").
+entry(filagree, v, [filagreed,filagreeing,filagrees], "filigrelemek").
+giriş(filament, n, [filamentler], "çok ince bir iplik veya iplik benzeri yapı").
+entry(filar, sıf, [], "bir ipe ait").
+entry(filaree, n, [filareeler], "Avrupa'da bir yabani ot").
+entry(filaria, n, [filaryae], "bir parazit solucanıFİLARYAL FİLARYAN sıf").
+entry(filerit, n, [fileritler], "filaria").
+entry(îpekçilik, n, [îpekçilik], "kozalardan ipeğin çekilmesi").
+giriş(filbert, n, [filberts], "bir Avrupa çalısının yenilebilir fındığı").
+entry(filch, v, [çalmak,çalıyor,çalar], "çalmak").
+entry(hırsız, n, [hırsızlar], "çalmak").
+entry(dosya, v, [dosyaladı,dosyalama,dosyalar], "düzenlemek için sıraya koymakFILEABLE sıf").
+entry(filefish, n, [filefishler], "bir deniz balığı").
+entry(filemot, sıfat, [], "kahverengimsi sarı bir renk").
+girdi(dosya_adı, n, [dosya_adları], "bir bilgisayar dosyasının adı").
+entry(filer, n, [dosya düzenleyiciler], "dosyalayan kişi").
+entry(filet, v, [dilimlendi,dilimleme,dilimler], "dilimlemek").
+entry(filial, sıfat, [], "bir oğul veya kızla ilgiliFILIALLY zf").
+girdi(filiate, f, [filiated,filiating,filiates], "yakın ilişkiye getirmek").
+entry(filibeg, i, [filibegler], "İskoç Yüksek Topraklarında giyilen pileli etek").
+entry(evlatkatli, n, [evlatkatilleri], "bir kişinin kendi çocuğunu öldürmesi").
+entry(filiform, sıf, [], "iplik gibi şekillendirilmiş").
+entry(filigree, v, [filigreed,filigreeing,filigrees], "karmaşık süsleme işiyle süslemek").
+giriş(talaşlama, n, [talaşlar], "bir eğe ile çıkarılan parçacık").
+entry(filister, n, [filisterler], "pencere çerçevesinde bir oluk").
+entry(filk, n, [filks], "halk şarkılarını hicveden bir tür popüler müzik").
+```
+entry(doldur, f, [doldurdu, dolduruyor, doldurur], "DOLDURULABİLİR sıf'a olabildiğince doldurmak")
+```
+entry(fille, n, [filles], "bir kız").
+giriş(dolgu, n, [dolgular], "dolduran biri").
+entry(fileto, f, [filetolmuş,filetolma,filetolar], "kemiksiz dilimler kesmek").
+entry(filetoz, n, [filetozlar], "fileto yapan kişi").
+entry(kısraklar, çoğul, [], "kısrak").
+entry(dolgu, n, [dolgular], "bir şeyi doldurmak için kullanılan şey").
+entry(fillip, f, [fillipledi,fillipliyor,fillipler], "keskin bir şekilde vurmak").
+entry(filo, n, [filolar], "yufka").
+entry(dişi tay, i, [dişi taylar], "genç dişi bir at").
+entry(film, v, [çekildi,çekim,yapımlar], "bir sinema filmi yapmakÇEKİLEBİLİR sıf").
+entry(filmkartı, n, [film kartları], "bir fiş").
+entry(filmdom, n, [filmdoms], "sinema sektörü").
+entry(filmer, i, [film çekenler], "film çeken biri").
+entry(filmfestivali, n, [filmfestivalleri], "birçok filmin gösterildiği bir festival").
+entry(filmsever, n, [filmseverler], "sinema filmlerini izlemeye giden kişi").
+girdi(filmi, n, [filmis], "Hint filmleri için bestelenen müzik").
+entry(filmsel, sıf, [], "sinema filmleriyle ilgili").
+entry(filmier, üstünlük, [], "of filmy").
+entry(filmiest, en üstünlük derecesi, [], "filmy'nin").
+entry(filmily, adv, [], "ince bir şekilde").
+entry(filmland, n, [filmlands], "film diyarı").
+entry(filmsiz, sıf, [], "film içermeyen").
+entry(filmsi, sıfat, [], "filme benzeyen").
+entry(filmset, v, [filmset,filmsetting,filmsets], "fotoğraf setine").
+entry(filmy, sıf, [], "FİLM GÖRÜNÜMLÜ YA DA FİLMLE KAPLI BULANIK").
+entry(filo, n, [filos], "yufka").
+entry(filose, sıf, [], "bir ipliğe benzeyen").
+entry(filter, v, [süzgeçlenmiş,süzme,süzgeçler], "askıdaki maddeleri çıkarmak için bir cihazdan geçirmek").
+girdi(süzgeç, i, [süzgeçler], "süzme işlemi yapan kişi veya şey").
+entry(kir, n, [kirler], "pis veya kirli madde").
+girdi(kirli, sıf, [], "DAHA KİRLİ EN KİRLİoffensif derecede kirliKİRLİCE zf").
+entry(süzgeç, f, [süzülmüş,süzülen,süzgeçler], "süzmek").
+entry(filum, n, [fila], "iplik benzeri anatomik yapı").
+entry(fim, i, [fimler], "erkek kenevir bitkisi").
+entry(fimbria, n, [fimbriae], "saçak veya saçak benzeri yapıFİMBRİAL sıf").
+entry(fin, v, [finned,finning,fins], "yüzgeçlerle donatmak (dış kürekçimsi yapılar)").
+entry(finable, adj, [], "para cezasına tabi").
+entry(finagle, v, [finagled,finagling,finagles], "hile ile elde etmek").
+entry(finagler, n, [oyunbozanlar], "oyunbozan kişi").
+entry(son, n, [finaller], "bir akademik kursun son sınavı").
+entry(finale, n, [finaleler], "bir şeyin sonu veya kapanışı").
+entry(finalis, n, [finalisler], "ortaçağ müziğinde bir ton türü").
+entry(sonlandır, f, [sonlandirdi, sonlandiren, sonlandirir], "sonlandır").
+entry(finalizm, n, [finalizmler], "tüm olayların nihai amaçlar tarafından belirlendiği doktrin").
+entry(finalist, n, [finalistler], "bir yarışmanın son kısmına ulaşan yarışmacı").
+girdi(sonluluk, n, [sonluluklar], "kesin olma durumu").
+entry(finalize, v, [tamamlandı,tamamlama,tamamlar], "tamamlanmış forma sokmak").
+entry(nihayet, zf, [], "sonunda").
+girdi(finans, f, [finanse etti, finansman sağlama, finanslar], "para sağlamak için").
+entry(finback, n, [finbacks], "rorqual").
+girdi(finca, i, [fincalar], "İspanyol Amerika'da bir mülk").
+entry(finch, n, [ispinozlar], "küçük bir kuş").
+entry(find, v, [found,finding,finds], "aradıktan sonra bulmakBULUNABİLİR sıf").
+entry(bulan, n, [bulanlar], "bulan biri").
+entry(bulgu, n, [bulgular], "bulunan bir şey").
+entry(fine, adj, [], "EN İYİ MÜKEMMEL").
+Prolog:
+giriş(ceza, e, [cezalandırdı,cezalandırma,cezalandırmalar], "para cezasına çarptırmak").
+entry(cezalanabilir, sıf, [], "finable").
+entry(ince, adv, [], "ince bir şekilde").
+entry(incelik, n, [incelikler], "ince olma kalitesi").
+entry(finer, karşılaştırmalı, [], "fine'un").
+entry(süslemeler, i, [süslemeler], "detaylı süs").
+entry(finespun, sıf, [], "büyük bir özenle geliştirilmiş").
+entry(finesse, f, [finessed,finessing,finesses], "maharetle manevra yaparak sağlamak").
+entry(finest, n, [finests], "belirli bir şehrin polisi").
+girdi(gerçek balık, i, [gerçek balıklar], "gerçek bir balık").
+entry(finfoot, n, [finfoots], "sudan kuşu").
+entry(parmak, v, [parmakladı, parmaklama, parmaklar], "elin sonlanan parçaları ile dokunmak").
+entry(fingerer, n, [fingerers], "parmaklayan").
+entry(finial, n, [alemler], "sonlandırıcı bir süsLEMELİ sıf").
+entry(finical, sıf, [], "titiz").
+entry(finickin, sıf, [], "titiz").
+entry(titiz, sıf, [], "ZOR BEĞENEN").
+giris(finikin, sıf, [], "titiz").
+giris(finiking, sifat, [], "titiz").
+entry(fining, n, [finings], "şarapların berraklaştırılması").
+entry(son, n, [sonlar], "son").
+entry(bitir, f, [bitirdi, bitiriyor, bitirir], "sona erdirmek").
+entry(bitirici, n, [bitiriciler], "bitiren kişi").
+entry(sonlu, n, [sonlular], "kısıtlı sınırlara sahip olan şey").
+entry(finitely, adv, [], "sınırlı bir dereceye kadar").
+girdi(finitizm, i, [finitizmler], "belirli bir varlığın sonlu olduğuna inanma").
+entry(soncul, n, [soncular], "sonculuğun savunucusu").
+entry(finito, sıf, [], "bitmiş").
+entry(sonluluk, i, [sonluluklar], "sonlu olma durumu").
+entry(fink, v, [finked,finking,finks], "polise bilgi vermek").
+entry(yüzgeçsiz, sıfat, [], "yüzgeçleri olmayan").
+entry(yüzgeçimsileşen, sıf, [], "yüzgece benzeyen").
+entry(finmark, n, [finmark], "Finlandiya'nın eski bir para birimi").
+girdi(finnan, n, [finnanlar], "füme mezgit").
+giriş(finned, geçmiş, [], "fin'in zamanı").
+Girdi:
+entry(finnicky, adj, [], "FINNICKIER FINNICKIESTfinicky").
+entry(finnier, kıyaslama, [], "of finny").
+entry(finniest, superlative, [], "finny'nin en iyisi").
+entry(finning, şimdiki, [], "fin'in ortaç hali").
+entry(finnmark, n, [finnmarks], "finmark").
+entry(finny, sıf, [], "YÜZEY SAHİBİ YA DA YÜZEYLERLE KARAKTERİZE EDİLMİŞ YÜZEYLİ, EN YÜZEYLİ").
+entry(fino, n, [finos], "çok kuru bir şeri").
+entry(finochio, i, [rezene], "çok yıllık bir ot").
+girdi(fiyort, n, [fiyortlar], "fjord").
+entry(fipple, n, [fipples], "bazı nefesli çalgıların ağız kısmına yerleştirilen tahta tıkaç").
+entry(fique, n, [fiques], "tropikal bir bitki").
+entry(köknar, i, [köknarlar], "bir yaprak dökmeyen ağaç").
+girdi(ates, f, [atildi,atiyor,atesler], "bir silahla ates ederek firlatmakATESLENEBILIR sft").
+girdi(tüfek, n, [tüfekler], "barut ile ateşlenen bir silah").
+entry(fireback, n, [firebacks], "bir şöminenin arka tarafında bulunan dökme demir levha").
+entry(alevtopu, i, [alevtopları], "parlak bir göktaşı").
+entry(firebase, n, [ateş üsleri], "ateşin düşmana karşı yönlendirildiği askeri bir üs").
+entry(ateşkuşu, i, [ateşkuşları], "parlak renkli bir kuş").
+entry(itfaiye_botu, n, [itfaiye_botları], "yangın söndürme ekipmanı ile donatılmış bir tekne").
+entry(yangınbombası, f, [yangınbombalandı,yangınbombalama,yangınbombaları], "yangın bombalarıyla saldırmak").
+entry(ocak, n, [ocaklar], "yakıtın yakıldığı bir oda").
+entry(firebrat, n, [firebratlar], "küçük kanatsız bir böcek").
+entry(firebug, n, [firebugs], "kundakçı").
+entry(fireclay, n, [fireclays], "ısıya dayanıklı bir kil").
+girdi(ateşlendi, geçmiş, [], "fire'ın zamanı").
+giriş(gazsızlık, i, [gazsızlıklar], "yanıcı bir gaz").
+entry(itfaiyeci, n, [itfaiyeciler], "bir demir odunkolu").
+entry(firefang, v, [firefanged,firefanging,firefangs], "oksidasyon ile ayrışmak").
+girdi(ateşböceği, i, [ateşböcekleri], "ışıldayan bir böcek").
+itfaiye_binası(giriş, i, [itfaiye_binaları], "bir itfaiye istasyonu").
+entry(itfaiyeci_hortumu, n, [itfaiyeci_hortumlari], "itfaiyeciler tarafından kullanılan bir hortum").
+entry(fireless, sıfat, [], "ateşi olmayan").
+entry(ateşışığı, sıfat, [], "ateş ışığıyla aydınlanan").
+entry(firelock, n, [firelocks], "bir tür tüfek").
+entry(itfaiyeci, n, [itfaiyeciler], "yangınları söndürmek için çalışan bir adam").
+entry(ateşlik, n, [ateşlikler], "kor tutmak için açık tava").
+entry(ateşpembe, n, [ateşpembeler], "çiçekli bir bitki").
+entry(ates_ocagi, n, [ates_ocaklari], "yerde kazılan ve ateş yakılan bir çukur").
+entry(fireplug, n, [fireplugs], "bir hidrant").
+girdi(ateskapı, i, [ateskapları], "yanan nesnelerle dolu bir kil çömlek").
+entry(firer, n, [ateşleyiciler], "ateşleyen biri").
+entry(firemakara, n, [firemakaralar], "bir itfaiye aracı").
+girdi(fireroom, n, [fireroomlar], "geminin kazanlarını içeren bir oda").
+entry(atesgemisi, i, [atesgemileri], "dusman gemilerinin arasina gonderilen yanmakta olan bir gemi").
+entry(sobabaşı, n, [sobabaşları], "bir şöminenin hemen çevresindeki alan").
+entry(ateştuzağı, n, [ateştuzağılar], "ateş alma olasılığı yüksek olan bir bina").
+entry(güvenlik duvarı, i, [güvenlik duvarları], "yetkisiz erişimi önleyen bir bilgisayar bileşeni").
+entry(ateşotu, n, [ateşotları], "çok yıllık bir bitki").
+girdi(odun, i, [odunlar], "yakıt olarak kullanılan ahşap").
+entry(havai_fişek, n, [havai_fişekler], "ışık gösterisi veya yüksek ses üreten bir cihaz").
+girdi(ateşböceği, i, [ateşböcekleri], "bir ateşböceği").
+entry(atesleme, n, [ateslemeler], "seramik ürünleri ısı ile olgunlaştırma süreci").
+entry(firkin, n, [firkinler], "bir İngiliz hacim birimi").
+giris(firma, sıf, [], "FIRMER FIRMESTbaskıya karşı dirençli").
+entry(firm, v, [firmed,firming,firms], "sağlamlaştırmak").
+entry(firman, n, [firmans], "Orta Doğulu bir hükümdar tarafından çıkarılan bir ferman").
+entry(firmer, n, [firmers], "bir ahşap işleme aleti").
+entry(sıkıca, adv, [], "sıkı bir şekilde").
+entry(sıkılık, n, [sıkılıklar], "sıkı olma durumu").
+entry(donanım yazılımı, n, [donanım yazılımları], "bir mikroçipte kalıcı olarak depolanan bilgisayar programları").
+girdi(firn, n, [firns], "neve").
+entry(firry, sıf, [], "FIRRIER FIRRIESTsıcaklık dolu").
+entry(first, n, [öncüller], "diğerlerinin önünde olan bir şey").
+entry(ilk_önce, adv, [], "hepsinden önce").
+entry(firth, i, [firths], "deniz girintisi").
+entry(fisc, n, [fiscs], "bir devlet veya kraliyet hazinesi").
+entry(mali, n, [maliler], "bir savcı").
+entry(fiscally, adv, [], "mali konularla ilgili olarak").
+entry(balık, v, [balık_tuttu, balık_tutma, balık_tutar], "soğukkanlı sucul omurgalıları yakalamak ya da yakalamaya çalışmak").
+entry(fishable, adj, [], "balikçılık için uygun").
+entry(balıkçı teknesi, n, [balıkçı tekneleri], "balık avlamak için kullanılan bir su aracı").
+entry(fishbolt, n, [fishbolts], "bir cıvata türü").
+giriş(balıkkemiği, i, [balıkkemikleri], "bir balığın kemiği").
+entry(fishbowl, n, [fishbowls], "canlı balıkların tutulduğu bir kase").
+entry(balıkçı, n, [balıkçılar], "balık tutan kimse").
+entry(balıkçılık, n, [balıkçılıklar], "balık tutma yeri").
+entry(gözlerini kısmak, n, [göz kısmak], "şüphe uyandıran bakış").
+entry(fishgig, n, [fishgigs], "balık avlamak için kullanılan çatallı bir araç").
+entry(olta_iğnesi, n, [olta_iğneleri], "balık yakalamak için dikenli kanca").
+girdi(balıkça, karşilaştirmali, [], "balık gibi").
+entry(fishiest, üstünlük_derecesi, [], "balıksı olanın").
+girdi(balıkvari, zf, [], "balıkvari bir şekilde").
+entry(balıkçılık, n, [balıkçılıklar], "balık tutma mesleği veya hobisi").
+entry(balıkölümü, n, [balıkölümleri], "çok sayıda balığın ani yok oluşu").
+girdi(balıksız, sıf, [], "balık içermeyen").
+entry(fishlike, sıf, [], "balığa benzeyen").
+entry(olta, n, [oltalar], "balık avında kullanılan bir ip").
+entry(balıkunu, n, [balıkunları], "kurutulmuş öğütülmüş balık").
+entry(balık ağı, n, [balık ağları], "balık yakalamak için bir ağ").
+entry(balık oltası, n, [balık oltaları], "bir olta").
+entry(balıkgölü, n, [balıkgölleri], "yenilebilir balıklarla dolu bir göl").
+entry(fishtail, v, [fishtailed,fishtailing,fishtails], "hareket halindeki bir aracın arka tarafının yanlara kayması").
+entry(balıkgeçidi, i, [balıkgeçitleri], "balıkların bir baraj çevresinden geçmesine izin veren bir cihaz").
+entry(balıkçı kadın, n, [balıkçı kadınlar], "balık satan bir kadın").
+entry(balıksolucanı, n, [balıksolucanları], "olta yemi olarak kullanılan bir solucan").
+entry(fishy, sıf, [], "BALIKSI BALIKÇILBalık veya balığı andıran").
+entry(fissate, sıf, [], "derinlemesine bölünmüş").
+entry(fissile, adj, [], "bölünebilir olma yeteneğine sahip").
+entry(bölünme, f, [bölündü,bölünüyor,bölünmeler], "parçalara ayrılmak").
+entry(fissiped, n, [fissipeds], "ayak parmakları ayrık olan bir memeli").
+entry(fissural, sıf, [], "uzun dar bir açıklıkla ilgili").
+entry(çatlak, v, [çatlaklı,çatlama,çatlaklar], "bölmek").
+girdi(yumruk, v, [yumrukladı,yumruklama,yumruklar], "eli sıkıca kapatarak yumrukla vurmak").
+entry(avuc, n, [avuclar], "bir avuç").
+entry(fistic, sıf, [], "boksla ilgili").
+entry(fistnote, n, [fistnotes], "bir metnin, dikkat çekmek üzere bir dizin işaretiyle işaretlenen kısmı").
+entry(fistül, n, [fistüller], "veya FISTULAEbir yaranın eksik kapanmasıyla oluşan bir kanalFISTULAR sıf").
+girdi(fit, sıf, [], "FİT DAHA FİT EN FİT SAĞLIKLI").
+entry(sığdırmak, f, [sığdırılmış, sığdırmakta, sığdırır], "gereken şekil ve boyuta getirmek").
+entry(fitch, n, [fitches], "bir kokarca").
+girdi(fitchee, sıf, [], "fitchy").
+entry(fitchet, n, [fitchets], "bir gelincik").
+entry(fitchew, n, [fitchews], "bir fitchew").
+entry(fitchy, sıf, [], "kolları bir noktada biten  heraldik bir haç için kullanılan").
+entry(düzensiz, sıf, [], "düzensiz aralıklarlaDUZENSIZCE zf").
+entry(fitly, adv, [], "uygun bir şekilde").
+entry(takım, n, [takımlar], "ekipman").
+entry(fitness, n, [fitnessler], "fit olma durumu").
+entry(fittable, sıf, [], "yerleştirilebilir").
+entry(uydurulmuş, geçmiş, [], "uyma zamanı").
+entry(uygunlaştırıcı, n, [uygunlaştırıcılar], "uyduran biri").
+entry(en_fiti, üstünlük, [], "fitin").
+entry(uygunluk, n, [uygunluklar], "küçük ve genellikle standartlaştırılmış bir aksesuar parça").
+girdi(beş, n, [beşler], "bir sayı").
+entry(beş kat, sıf, [], "beş kat daha büyük").
+entry(beşpin, çoğul, [], "bir bowling oyunu").
+entry(beslik, n, [beslikler], "bes dolarlik banknot").
+girdi(onar, f, [onart,onarıyor,onarımlar], "onarmakONARILABİLİR sıf").
+entry(fixate, v, [tutturmuş,tutturmakta,tutturur], "sabit veya durağan hale getirmek").
+entry(fiksatif, n, [fiksatifler], "fiksatif").
+entry(fiksasyon, n, [fiksasyonlar], "fiksasyon eylemi").
+entry(fiksatif, n, [fiksatifler], "resim veya çizimleri korumak için kullanılan bir madde").
+entry(fixedly, adv, [], "sıkı bir şekilde").
+entry(tamirci, n, [tamirciler], "bir şeyleri tamir eden").
+entry(düzenlemeler, npl, [], "bir yemeğin ana yemeğine eşlik edenler").
+entry(fixit, n, [fixits], "şeyleri tamir etmesiyle bilinen bir kişi").
+entry(kararlılık, n, [kararlılıklar], "sabitlik").
+entry(fixt, a, [], "fix'in geçmiş zamanı").
+entry(armatür, n, [armatürler], "evin kalıcı bir parçası veya eki").
+girdi(sabitlik, n, [sabitlikler], "sağlamlık").
+```prolog
+giriş(fiz, i, [fizzes], "tıslama veya püskürtme sesi").
+```
+entry(fizgig, i, [fizgigs], "balık zıpkını").
+entry(fizz, v, [fizzed,fizzing,fizzes], "tıs veya cızırtı sesi çıkarmak").
+entry(fizzer, n, [fizzers], "cızzıldayan biri").
+entry(fizzes, ç, [], "fiz").
+entry(fizzle, v, [fizzled,fizzling,fizzles], "cıztırdamak").
+entry(fizzy, sıf, [], "FIZZIER FIZZIESTfizzingFIZZILY zf").
+entry(fjeld, i, [fjeldet], "yüksek çorak bir plato").
+entry(fiyort, n, [fiyortlar], "dik yamaçlar arasında denizin dar bir koluFIYORTİK sıf").
+entry(flab, n, [flabs], "gevşek vücut dokusu").
+girdi(gevşek, sıf, [], "DAHA GEVŞEK EN GEVŞEKflacidGevşekçe zf").
+entry(flabella, npl, [], "yelpaze biçimli anatomik yapılar").
+entry(gevşek, sıf, [], "sertlikten yoksun").
+entry(flack, v, [flacked,flacking,flacks], "basın ajanı olarak çalışmak").
+entry(flackery, n, [flackeries], "tanıtım").
+girdi(flacon, i, [flaconlar], "ufak tıpalı şişe").
+entry(flag, v, [işaretli, işaretleme, bayraklar], "sembol olarak kullanılan bir kumaşı bir bayrakla işaretlemek").
+entry(flagella, çğl, [], "uzun ince bitki filizleri").
+entry(bayrakçı, n, [bayrakçılar], "bayrak çeken kişi").
+entry(flâma, i, [flâma], "bir tür kaldırım").
+```
+entry(flaggy, sıf, [], "FLAGGIER FLAGGIESTsarkık").
+```
+entry(flagsiz, sıfat, [], "bayraksız").
+entry(flagman, n, [bayraktar], "bir bayrağı taşıyan").
+entry(flagon, n, [şişeler], "büyük şişkin bir şişe").
+Girdi (bayrak_direği, isim, [bayrak_direkleri], "bayrağın sergilendiği bir direk").
+entry(flagrant, adj, [], "son derece göze çarpan").
+entry(amiral_gemisi, n, [amiral_gemileri], "bir filonun bayrağını taşıyan gemi").
+entry(döven, f, [dövdü,döverken,döver], "özgürce sallanmak").
+entry(flair, n, [flairs], "doğuştan gelen bir yetenek").
+entry(flak, n, [flak], "uçaksavar ateşi").
+entry(flake, v, [flaked,flaking,flakes], "yaprak gibi ince düz parçalar halinde soyulmak").
+girdi(soyucu, isim, [soyucular], "soyucu biri").
+entry(flakey, sıf, [], "DAHA ÇITIR EN ÇITIRçıtırtılı").
+entry(flaky, sıf, [], "FLAKIER FLAKIESTpul gibi benzeyenFLAKILY adv").
+girdi(flam, f, [flammed, flamming, flams], "aldatmak").
+entry(flambe, v, [alevde_flambe, alevde_halinde_olma, flambres], "bir likör ile ıslatıp ateşe vermek").
+entry(flambo, i, [flambolar], "veya FLAMBEAUXateş saçan meşale").
+entry(flambee, sıf, [], "alevli").
+entry(alev, f, [alevlendi, alevleniyor, alevler], "parlak bir şekilde yanmak").
+entry(flamen, n, [flamens], "antik Roma'nın bir rahibi veya FLAMINES").
+entry(flamenko, n, [flamenkolar], "güçlü ritmik bir dans tarzı").
+girdi(motor_arızası, n, [motor_arızaları], "uçuş sırasında bir jet motorunun arızası").
+entry(flamer, n, [alevleniciler], "alevlenme yapan biri").
+giriş(flamier, karşılaştırmalı, [], "alevli").
+girdi(flamiest, enüstün, [], "alevli").
+entry(flamines, a, [], "flamen'in çoğulu").
+girdi(alev, şimdiki_zaman, [], "alev almak fiilinin isim fiil hali").
+entry(flamingo, n, [flamingolar], "veya FLAMINGOLARa suda yürüyen bir kuş").
+entry(flammed, geçmiş, [], "flam'in zamanı").
+entry(flamming, şimdiki, [], "flamın ortaç hali").
+entry(flamy, sıf, [], "ALEVLİ ALEVLİ ALEV alev").
+entry(flan, n, [flanlar], "ya da FLANES bir tür muhallebi").
+entry(flancard, n, [flancards], "bir atın yan tarafını koruyan zırh parçası").
+entry(flanerie, i, [flaneries], "boş gezi").
+entry(flaneur, n, [flaneurs], "avare").
+entry(flange, v, [flanged,flanging,flanges], "koruyucu bir kenarla donatmak").
+entry(flanger, n, [flangerlar], "flanj yapan biri").
+entry(flanging, n, [flangings], "bir nesneye koruyucu bir kenar sağlama").
+entry(yan, v, [yanında,yanındaki,yanları], "yanında yer almak").
+entry(flanken, npl, [], "sebzelerle haşlanan yanlardan kesilmiş sığır eti").
+entry(flanşör, n, [flanşörler], "yanında bulunan").
+girdi(flanel, v, [flanelet, flanellemek, flaneller], "veya FLANELLED FLANNELLING FLANNEL yumuşak bir kumaş ile örtmek").
+girdi(flap, f, [flapped,flapping,flaps], "aşağı yukarı dalgalanmak için").
+entry(flaperon, n, [flaperonlar], "kanatçık ve flap olarak işlev gören bir kanat profili").
+girdi(flapjack, n, [flapjackler], "bir krep").
+entry(flapless, sıf, [], "kanatsız, düz bir uzantıya sahip olmak").
+Girdi(kapandı, geçmiş, [], "flap'ın zamanı").
+entry(flapper, n, [flappers], "çırpan biri").
+entry(flapping, şimdiki, [], "flap fiilinin ortaç hâli").
+entry(flappy, sıfat, [], "FLAPPIER FLAPPIESTflapping").
+entry(patlama, v, [patladı, patlayan, patlamalar], "parlayan titrek bir ışıkla yanmak").
+girdi(parlama, n, [parlamalar], "ani bir patlak verme").
+girdi(flash, v, [flashed,flashing,flashes], "ani bir ışık patlaması göndermek").
+entry(flasher, n, [flashers], "parlayan biri").
+entry(flaş makinesi, n, [flaş makineleri], "bir fotoğraf cihazı").
+girdi(flaş, n, [flaşlar], "bir çatıyı su geçirmez hale getirmede kullanılan levha metal").
+entry(flashy, sıf, [], "DAHA GÖSTERİŞLİ EN GÖSTERİŞLİgösterişliGÖSTERİŞLİCE zf").
+entry(flask, n, [şişeler], "dar boyunlu bir kap").
+entry(flasket, n, [flaskets], "küçük bir şişe").
+entry(flat, sıf, [], "PÜRÜZSÜZ DÜZ EN DÜZdüz veya eşit bir yüzeye sahip").
+girdi(daire, f, [düzleştirdi,düzleştiriyor,düzleştirir], "düzleştirmek").
+entry(dorse, n, [dorseler], "bir kamyon veya römork türü").
+entry(düztekne, i, [düztekneler], "düz tabanlı bir tekne").
+entry(flatcap, n, [kasketler], "bir tür şapka").
+girdi(düzvagon, i, [düzvagonlar], "yanları veya çatısı olmayan bir demiryolu vagonu").
+giriş(kalkanbalığı, i, [kalkanbalıkları], "deniz balıkları takımından herhangi bir balık").
+girdi(düzayak, n, [düzayaklar], "bir ayak durumu").
+entry(düzayak, f, [düzayaklı,düzayaklama,düzayaklar], "sürükleyerek yürümek").
+entry(flathead, i, [flatheads], "deniz yiyeceği bir balık").
+entry(flatiron, n, [ütüler], "giysileri ütülemek için bir cihaz").
+entry(flatland, n, [düzlükler], "yükseklik açısından önemli bir farklılık göstermeyen arazi").
+girdi(dairecik, n, [dairecikler], "bir tür apartman").
+entry(flatline, v, [flatlined,flatlining,flatlines], "beyin dalgaları veya kalp atışı olmadan kaydedilmek").
+girdi(flatling, zrf, [], "düz bir yüzey veya kenar ile").
+entry(flatlong, adv, [], "dümdüz").
+girdi(düz, zarf, [], "düz bir şekilde").
+entry(ev_arkadaşı, i, [ev_arkadaşları], "bir dairenin paylaşıldığı kişi").
+girdi(düzlük, i, [düzlükler], "düz olma durumu").
+girdi(yassıkutu, n, [yassıkutular], "bir entegre devre için paket").
+giriş(düzleştirildi, geçmiş, [], "düzleştirmenin zamanı").
+entry(düzleştir, v, [düzleştirildi,düzleştirme,düzleştirir], "düzleştirmek veya düz hale gelmek").
+entry(flatter, f, [övdü,övme,över], "aşırı övmek").
+entry(yaltaklanma, n, [yaltaklanmalar], "yaltaklanma eylemi").
+entry(en düz, üstünlük, [], "of flat").
+entry(flattie, n, [flatties], "düz topuklu bir ayakkabı").
+entry(flatting, şimdiki, [], "flat'in ortaç hali").
+entry(flattish, sıf, [], "biraz düz").
+girdi(flattop, n, [flattops], "bir uçak gemisi").
+entry(flatus, n, [flatuslar], "barsak gazı").
+entry(masa takımı, n, [masa takımları], "masanın üzerine yerleştirilen oldukça düz sofra takımı").
+giris(yassiyikama, n, [yassiyikamalar], "düz iş").
+entry(flatways, adv, [], "flatwise").
+entry(flatwise, adv, [], "düz tarafı belirli bir konumda olacak şekilde").
+entry(flatwork, n, [flatworks], "mekanik olarak ütülenebilecek çamaşır").
+entry(yassıkurt, n, [yassıkurtlar], "yassı gövdeli bir kurt").
+entry(gösteriş, f, [gösterişli,gösterişler], "gösterişli bir şekilde sergilemek").
+entry(hava_atmak, i, [hava_atanlar], "hava atan kişiler").
+entry(flaunty, sıf, [], "DAHA GÖSTERİŞLİ EN GÖSTERİŞLİgösterişli").
+entry(flauta, n, [flautas], "bir dolgu etrafında sarılmış ve kızartılmış bir tortilla").
+entry(flautist, n, [flütçüler], "flütçü").
+entry(flava, n, [flavas], "bir tür hiphop müziği").
+entry(flavonol, n, [flavonoller], "flavonol").
+entry(flavin, n, [flavinler], "sarı bir pigment").
+entry(flavine, i, [flavinler], "flavin").
+entry(flavon, n, [flavonlar], "bir kimyasal bileşik").
+entry(flavonol, n, [flavonoller], "flavon türevi").
+entry(tat, v, [tatlandırılmış,tatlandırma,tatlar], "ayrı bir tat vermek").
+entry(flavorer, n, [tatlandırıcılar], "tatlandırıcı").
+entry(flavory, sıf, [], "lezzet dolu").
+entry(tat, f, [tatlandırılmış,tatlandırma,tatlar], "tatlandırmak").
+entry(lezzetli, sıf, [], "flavory").
+entry(flaw, v, [flawed,flawing,flaws], "kusur veya eksiklik üretmek").
+entry(kusursuz, sıf, [], "hatası olmayan").
+entry(flawy, sıf, [], "FLAWIER FLAWIESTkusur dolu").
+entry(keten, i, [ketenler], "yıllık bir bitki").
+girdi(flaxen, sıfat, [], "soluk sarı renkte").
+entry(keten_tohumu, n, [keten_tohumları], "ketenin tohumu").
+entry(flaxy, sıf, [], "FLAXIER FLAXIESTflaxen").
+entry(flay, v, [derisini_yüzdü,derisini_yüzme,derisini_yüzmek], "derisini soymak").
+girdi(flayer, i, [flayers], "soyucu").
+entry(pire, n, [pireler], "parazit bir böcek").
+entry(fleabag, n, [fleabags], "dandik bir otel").
+girdi(pireotu, n, [pireotları], "çiçekli bir bitki").
+entry(pireısırığı, n, [pireısırıkları], "bir pire ısırığı").
+entry(fleam, n, [fleams], "cerrahi bir alet").
+entry(pis sinema, n, [pis sinemalar], "harap bir sinema salonu").
+entry(çayır otu, i, [çayır otları], "bir Avrupa bitkisi").
+entry(ok, n, [oklar], "bir çan kulesi").
+entry(benek, f, [beneklenmiş, benekleme, benekler], "küçük çizgiler veya noktalarla işaretlemek").
+girdi(flecky, sıf, [], "lekeli").
+entry(bükülme, n, [bükülmeler], "bükme eylemi").
+girdi(kaçtı, geçmiş, [], "kaçmak fiilinin zamanı").
+entry(yuva_askıya, f, [yuvadan_askıya, yuvadan_askıyacak, yuvadan_askılar], "tüylerle donatmak").
+girdi(fledgy, sıf, [], "FLEDGIER FLEDGIESTtüylerle kaplı").
+entry(kaçmak, v, [kaçtı,kaçarken,kaçar], "kaçmak").
+entry(fleece, v, [kırktı,kırkma,kırkar], "yünlü kürkü çıkarmak").
+entry(fleecer, n, [fleecers], "soyan").
+giriş(fleech, v, [fleeched,fleeching,fleeches], "yatıştırmak").
+entry(fleecy, sıf, [], "FLEECIER FLEECIESTyünlüFLEECILY adv").
+entry(fleer, f, [fleered, fleering, fleers], "alay etmek").
+entry(filo, sıf, [], "DAHAFILODAHAFILOHİZLİFİLOŞEKİLDE adv").
+girdi(filo, e, [filoladı,filolayan,filolar], "hızla hareket etmek").
+girdi(flehmen, v, [flehmened,flehmening,flehmens], "ağız açık ve üst dudak kıvrılmış şekilde nefes almak").
+entry(fleishig, sıfat, [], "et veya et ürünlerinden yapılmış").
+entry(flâmenkçe, v, [flâmenkleştirilmiş,flâmenkleştiriyor,flâmenkleştirir], "halatı belirli bir şekilde dolamak").
+entry(flench, v, [flenched,flenching,flenches], "yüzmek").
+entry(flense, v, [flensed,flensing,flenses], "yağı veya deriyi soymak").
+entry(flenser, n, [flensers], "muamele eden biri").
+entry(et, v, [etlendirdi,etlendirme,etlendirir], "yumuşak beden dokusuna dalmak").
+entry(flesher, n, [deri temizleyicileri], "hayvan postlarından eti çıkaran kişi").
+girdi(eti, karşılaştırmalı, [], "etin").
+entry(en etli, üstünlük, [], "etli").
+girdi(fleto, n, [fletolar], "bir hayvanın üzerinde yağlı ve yağsız dağılımı").
+entry(etli, adj, [], "daha etli en etli, bedene ilişkin").
+entry(etcezvesi, n, [etcezveleri], "et pişirmek için bir tencere").
+giriş(etli, sıf, [], "ETLİCESİ ETLİCE EN ETLİ ETLİCE zf").
+girdi(fletch, v, [fletched,fletching,fletches], "tüyle donatmak").
+entry(fletcher, n, [okçu], "ok yapan kişi").
+entry(fleuron, n, [fleurons], "bir çiçek süsü").
+entry(fleury, sıf, [], "bir arma haçının kollarının üç yaprakla sonlandırıldığı").
+entry(flew, n, [flews], "bir balık ağı").
+```Prolog
+girdi(flex, v, [flexed, flexing, flexes], "bükmekFLEXAGON n ç FLEXAGONSa katlanmış kağıt yapısıFLEXIBLE sıf bükülebilir olma yeteneğiFLEXIBLY zarfFLEXILE sıf esnekFLEXION n ç FLEXIONSflectionFLEXOR n ç FLEXORSbükülme işlemini gerçekleştiren kasFLEXTIME n ç FLEXTIMESesnek çalışma saatlerine izin veren bir sistemFLEXUOSE sıf kıvrımlıFLEXUOUS sıf dolambaçlıFLEXURE n ç FLEXURESebükülme eylemiFLEXURAL sıfFLEXWING n ç FLEXWINGSaslenebilir kumaştan yapılan kanatlarFLEY f FLEYED FLEYING FLEYSkorkutmakFLIC n ç FLICS Parisli polisFLICHTER f FLICHTERED FLICHTERING FLICHTERSyanıp sönenFLICK f FLICKED FLICKING FLICKShızlı hafif bir vuruşla çarpmakFLICKER f FLICKERED FLICKERING FLICKERSdalgın bir şekilde hareket etmekFLICKERY sıf titrekFLIED uçmak fiilinin geçmiş zamanıFLIER b ç FLIERSuçan biriFLIES uçmak fiilinin üçüncü tekil şahıs haliFLIEST uçmak fiilinin en üstün haliFLIGHT f FLIGHTED FLIGHTING FLIGHTSsürüler halinde uçmakFLIGHTY sıf değişkenFLIMFLAM f FLIMFLAMMED FLIMFLAMMING FLIMFLAMDolandırmakFLIMSY sıf Zayıf veya sağlamlık eksikFLIMSILY zarfFLIMSY n ç FLIMSIESThink bir kağıtFLINCH f FLINCHED FLINCHING FLINCHEsçekinmekFLINCHER b ç FLINCHERsbirden irkilmekFLINDER n ç FLINDERSUfak bir parçaFLING f FLUNG FLINGING FLINGSgüçle atmakFLINGER b ç FLINGERSbirden bire fırlatanFLINKITE n ç FLINKITESbir mineralFLINT f FLINTED FLINTING FLINTSçakmak taşı sağlamakFLINTY sıf FLINTIER FLINTIESTçakmak taşına benzerFLINTILY zarfFLIP sıf FLIPPER FLIPPESTmüddetkârFLIP f FLIPPED FLIPPING FLIPSfırça ile fırlatmakFLIPBOOK n ç FLIPBOOKSbir dizi görüntüden oluşan kitapFLIPFLOP f FLIPFLOPPED FLIPFLOPPING FLIPFLOPSters takla atmakFLIPPANT sıf cüretkârFLIPPED flip fiilinin geçmiş zamanıFLIPPER n ç FLIPPERSyüzmek için geniş yassı uzuvFLIPPEST flip sıfatının en üstün haliFLIPPING flip fiilinin şimdiki haliFLIPPY sıf FLIPPIER FLIPPIESTalt kısmı genişleyenFLIR n ç FLIRSbir elektronik ısı algılayıcıFLIRT f FLIRTED FLIRTING FLIRTAmorös bir şekilde ciddi niyet olmadan davranma actFLIRTER b ç FLIRTERSbir fiziği provoke edenFLIRTY sıf FLIRTIER FLIRTIESTflörtten hoşlananFLIT f FLITTED FLITTING FLITSyuvarlak hareketlerle hareket etmekFLITCH f FLITCHED FLITCHING FLITSşeritlere kesmekFLITE f FLITED FLITING FLITESadı-kaftaşaFLITTED flit fiilinin geçmiş zamn haliFLITTER f FLITTERED FLITTERING FLITTERSçaktırarak uçmakFLITTING flit fiilinin şimdiki haliFLIVVER n ç FLIVVERSeski aşınmış arabaFLIXWEED n ç FLIXWEEDSTurpgiller ailesinden bir bitkiFLOAT f FLOATED FLOATING FLOATyüzer halde devam etmekFLOATAGE n ç FLOATAGESflotageFLOATEL n ç FLOATELSüçümla kullanılan otel olarak bir ev botFLOAT_{\beta}b ç FLOATERSbir şekilde yüzerFLOATY sıf FLOATIER FLOATIESTyüzer olma eğilimindeFLOC f FLOCCED FLOCCING FLOCSTaneciklere toplanmakFLOCCI floccusların çoğuluFLOCCOSE sıf yünümsü tvrdfloccusFLOCCULE n ç FLOCCULESTupsu kütleFLOCCULI nç ufak gevşek kütlelerin çFL\nFLOCK f FLOCKED FLOCKING FLOCKKalabalık içinde hareket etmek veya toplanmakFLOCKING n ç FLOCKINGS Kadife bir kumaş yolu ile kısa kıllarla tasarlanmış deseni olan bir yama veya kağıtFLOCKY sıf FLOCKIER FLOCKIESTküçükFLOAD n ç FLOESbüyük bir buz kütlesiFLOG f FLOGGED FLOGGING FLOGKamçı veya çubukla dövmekFLOGGER b ç FLOGGERSdöfterciFLOGGING n ç FLOGGINGS bir dayakFLOKATI n ç FLOKATIS bir Yunan işlemeli kilimFLONG n ç FLONGŞŞu tip bir evraFindığFLOOD f FLOODED FLOODING FLOODSu ile kaplamakFLOODER b ç FLOODERSbiri suya boğmakFLOODING n ç FLOODINGSbir sıvıyı aşırı miktarda toplayarak doldurmakFLOODLIT sıf tepe lambaları ile aydınlatılmışFLOODWAY n ç FLOODWAYS Bir taşkın yol FLOOREY ışı "``"FLOOIE zarf flooeyFLOOR f FLOORED FLOORING FLOukoyratmakFLOORAGE n ç FLOORAGES B~~t altında bir zeminin alt tabanıFLOORER b ç FOOTERb~~riği s~LAY_l ını tin nmFLOOTSPORT ş footpath~~ropssılkan~~}RER čASteptFLOpskeze ğosst'ma veh ostatığe ru s~~ertiv~~ d~"SÜREKLI~~" FOZINESS\entleriFOOK  NandirBeir" ","FOIE799lsserst <|vq_10505|>
+entry(gab, f, [gabbed, gabbing, gabs], "gevezelik etmek").
+entry(gabba, n, [gabbas], "çok hızlı bir ritme sahip agresif tınlayan müzik").
+entry(gabbard, n, [gabbardlar], "bir sal").
+entry(gabbart, i, [gabbartlar], "gabbard").
+entry(gabbed, geçmiş, [], "laflamak zaman kipi").
+entry(gevezelikçi, n, [gevezelikçiler], "gevezelik yapan biri").
+entry(gabbier, comparative, [], "gabby'den").
+entry(en geveze, üstünlük, [], "gevezenin").
+entry(gevezelik, şimdiki zaman, [], "gab fiilinin ortaç hâli").
+girdi(gabble, f, [gabbled,gabbling,gabbles], "cıvıldamak").
+entry(gevezeci, n, [gevezeciler], "geveze olan biri").
+entry(gabro, n, [gabrolar], "bir tür kayaGABBROİK GABBROİD sıf").
+entry(gabby, sıfat, [], "DAHA KONUŞKAN EN KONUŞKAN").
+entry(gabelle, n, [gabelles], "tuz vergisiGABELLED sıf").
+girdi(gabfest, i, [gabfests], "genel konuşma için resmi olmayan bir toplantı").
+entry(gabyler, pl, [], "gaby'nin").
+entry(gabion, n, [gabyonlar], "bir tür sepet").
+entry(üçgen, f, [üçgenli,üçgenleştirme,üçgenler], "bir duvarın üçgen bir bölümünü oluşturmak").
+entry(gabon, n, [gabonlar], "bir tükürük hokkası").
+entry(gaby, n, [gabies], "ahmak").
+entry(gach, v, [gached,gaching,gaches], "yakalayıp sıkıca tutmak").
+entry(gacher, n, [gachers], "gacher").
+entry(gad, v, [dolaşti, dolaşmakta, dolanır], "dolaşıp durmak").
+entry(gezgin, n, [gezginler], "ordan oraya dolaşan biri").
+entry(gadarene, sıf, [], "düşüncesizce").
+entry(gadded, past, [], "gad'nın zaman kipi").
+entry(gadder, n, [gadders], "etrafta dolanan biri").
+entry(gaddi, n, [gaddis], "bir ayak minderi").
+entry(dolaşan, şimdiki, [], "dolaşmak fiilinin ortaç hali").
+entry(at sineği, i, [at sinekleri], "ısıran bir sinek").
+entry(aygıt, n, [aygıtlar], "mekanik bir cihazAYGITY sıf").
+giriş(aletçilik, n, [aletçilikler], "aletlerin tasarımı veya yapımı").
+girdi(gadi, n, [gadis], "gaddi").
+entry(gadid, i, [gadidler], "gadoid").
+entry(gadoid, n, [gadoids], "bir tür balık").
+entry(saçak, f, [saçaklı,saçaklama,saçaklar], "kanallı veya oluklu kalıplarla süslemek").
+entry(gadwall, n, [gadwalllar], "bir yabani ördek").
+entry(gadzooks, ünlem, [], "hafif bir yemin olarak kullanılır").
+girdi(gae, f, [], "GAED GANE veya GAEN GAEING veya GAUN GAEylor gitmek").
+entry(gaff, v, [gaffed,gaffing,gaffs], "keskin bir kanca ile balık yakalamak").
+entry(gaffe, i, [pot kırma], "toplumsal gaf").
+entry(ihtiyar, n, [ihtiyarlar], "yaşlı bir adam").
+girdi(gag, f, [gagged,gagging,gags], "ağzı kapatmak").
+entry(gaga, sıf, [], "çılgın").
+entry(gagaku, n, [gagakular], "Japonya'nın antik saray müziği").
+girdi(teminat, f, [teminat_verdi, teminat_verme, teminat_verir], "teminat olarak vermekTEMİNAT_VERİLEBİLİR sıf").
+entry(gager, n, [gagers], "ölçümcü").
+entry(gagged, geçmiş, [], "gag fiilinin zamanı").
+entry(gagger, n, [gaggers], "kusturan kimse").
+entry(gagging, şimdiki zaman, [], "gag fiilinin ortaç hali").
+entry(gaggle, f, [gaggledi, gaggleyerek, gagglelar], "kahkaha atmak").
+entry(gaging, şimdiki, [], "gagemezun participle'i").
+entry(gagman, i, [gagmanler], "şakalar yazan kimse").
+girdi(gagster, n, [gagsters], "bir şakacı").
+entry(gahnit, n, [gahnitler], "bir mineral").
+entry(neşelilik, n, [neşelilikler], "şenlikli etkinlik").
+entry(gaijin, n, [gaijin], "Japonya'da bir yabancı").
+entry(neşeyle, adv, [], "neşeli bir şekilde").
+giriş(kazanım, f, [elde etti, elde etmekte, kazanımlar], "kazanabilir SIF").
+entry(kazanan, n, [kazananlar], "kazanan kişi").
+girdi(kazançlı, sıf, [], "karlı").
+entry(gainless, sıf, [], "kazançsız").
+entry(zarif, adj, [], "DAHA_ZARİF EN_ZARİFzarafet").
+entry(itiraz_etmek, f, [itiraz_etti, itiraz_ediyor, itiraz_eder], "inkâr etmek").
+entry(gainst, prep, [], "karşı").
+entry(yürüyüş, f, [yürüdü,yürüyor,yürüyüşler], "bir atı belirli bir şekilde hareket etmesi için eğitmek").
+girdi(tozluk, i, [tozluklar], "alt bacak için bir örtüTOZLUKLU sıf").
+entry(kız, n, [kızlar], "bir kız").
+entry(gala, n, [galalar], "bir kutlama").
+entry(galabiye, i, [galabiyeler], "djellaba").
+entry(galabieh, n, [galabiehler], "cilbab").
+entry(galabiye, n, [galabiyeler], "cilbab").
+entry(galaktik, sıf, [], "bir galaksiye ait").
+entry(galago, n, [şebek], "küçük bir primat").
+giris(galah, i, [galahs], "bir kakadu").
+entry(galanga, n, [galangalar], "galanga").
+entry(galanga, i, [galangalar], "tıbbi bir bitki").
+entry(galatea, i, [galatealar], "güçlü bir pamuklu kumaş").
+girdi(galavant, v, [galavanted, galavanting, galavants], "eğlenmeye gitmek").
+girdi(galax, i, [galaxes], "daima yeşil bir otsu bitki").
+entry(galaksi, n, [galaksiler], "gök cisimlerinin büyük bir sistemi").
+girdi(galbanum, n, [galbanumlar], "bir sakız reçinesi").
+entry(gale, fiil, [galed,galing,gales], "eğlenceli bir şekilde oynamak").
+entry(galea, i, [galealar], "veya GALEAE bir kask şeklindeki anatomik parça GALEATIOUS GALEATED sıf").
+entry(galena, n, [galenalar], "kurşunun ana cevheri GALENİK s.").
+entry(galenit, n, [galenitler], "galena").
+entry(galere, n, [galeres], "ortak bir niteliğe sahip bir grup insan").
+entry(galette, n, [galette], "yuvarlak yassı bir kek").
+entry(galilee, n, [galileeler], "bir tür sundurma").
+entry(galing, şimdiki, [], "gale fiilinin ortaç hali").
+girdi(galyot, i, [galyotlar], "kalyon").
+entry(galipot, n, [galipots], "bir tür terebentin").
+girdi(galivant, f, [galivanted, galivanting, galivants], "gezmek").
+giris(gall, f, [galled,galling,galls], "incitmek veya sinirlendirmek").
+entry(gallant, v, [gallanted,gallanting,gallants], "bir kadını kur yapmak").
+entry(gallat, n, [gallatlar], "kimyasal bir tuz").
+entry(kadırga, i, [kadırgalar], "büyük bir savaş kadırgası").
+entry(gallein, i, [galleinler], "yeşil bir boya").
+entry(kalyon, i, [kalyonlar], "büyük bir yelkenli gemi").
+entry(galeri, n, [galeriler], "üstü kapalı bir geçit veya avlu").
+girdi(galeri, fiil, [galerili, galeribozma, galeriler], "uzun kapalı bir alan sağlamak").
+entry(gallet, f, [galletledi,galletleme,galletler], "harç eklem yerlerini taş parçaları ile doldurmak").
+entry(galleta, n, [galletas], "çok yıllık bir ot").
+entry(kadırga, n, [kadırgalar], "uzun alçak ortaçağ gemisi").
+entry(mazı sineği, n, [mazı sinekleri], "küçük bir böcek").
+entry(galliard, n, [galliards], "canlı bir dans").
+entry(galliass, n, [galliasses], "kalyata").
+giriş(gallic, sıf, [], "galyum içeren").
+girdi(gallica, i, [gallicas], "Avrupa gülü").
+entry(gallican, sif, [], "Fransız dini hareketine ait").
+entry(gallied, geçmiş, [], "gally fiilinin zamanı").
+entry(gallies, present, [], "gally'nin 3. tekil şahıs eki").
+entry(galley, n, [galleys], "küçük bir kadırga").
+entry(gallipot, n, [gallipots], "küçük bir toprak kavanoz").
+girdi(galyum, n, [galyumlar], "metal bir element").
+entry(peleng, i, [pelengler], "bitki dokusunun anormal şişmesi").
+entry(galon, n, [galonlar], "bir sıvı ölçü birimi").
+girdi(galon, i, [galonlar], "süsleme örgüsü").
+entry(galut, i, [galutlar], "galoş").
+entry(koşmak, f, [koştu, koşmakta, koşar], "bir atı tam hızda sürmek").
+entry(dörtnala_koşan, n, [dörtnala_koşanlar], "dörtnala koşan biri").
+entry(gallous, sıf, [], "galyum içeren").
+entry(galloway, n, [galloways], "boynuzsuz sığır ırkı").
+entry(darağacı, n, [darağaçları], "mahkum edilmiş bir kişiyi asmak için kullanılan bir yapı").
+entry(gallus, i, [pantolonaskıları], "pantolon askısıGALLUSLU sıf").
+girdi(gally, f, [gallied,gallying,gallies], "korkutmak").
+entry(palangalar, n, [palangalar], "beceriksiz veya kaba saba bir kişi").
+girdi(galop, f, [galoped, galoping, galops], "neşeli bir yuvarlak dans olan galop yapmak").
+entry(galopade, n, [galopades], "canlı bir yuvarlak dans").
+entry(bol, n, [boller], "bolluk").
+girdi(galoş, n, [galoşlar], "bir lastik pabuçGALOŞLU sıf").
+entry(galoshe, n, [lastikler], "galosh").
+entry(dürtmek, f, [dürtüldü,dürtülmek,dürtüyor], "sakarca hareket etmek").
+entry(galvanik, sıf, [], "doğrudan elektrik akımıyla ilgili").
+entry(galyak, n, [galyaklar], "galyak").
+entry(galyak, i, [galyaks], "kuzuderisinden yapılmış bir kürk").
+girdi(gam, v, [gammed,gamming,gams], "sosyal olarak ziyaret etmek").
+entry(gama, n, [gamas], "bir otlak otu").
+girdi(gamashes, çogul, [], "at binicileri tarafından giyilen çizmeler").
+entry(gamay, n, [gamays], "kırmızı bir üzüm").
+entry(gamb, n, [gambs], "bir bacak").
+entry(gamba, i, [gambas], "bir bas viyola").
+entry(gambade, n, [gambades], "bir gambade").
+entry(gambado, n, [gambados], "veya GAMBADOES bir at tarafından yapılan sıçrama").
+entry(gambe, n, [gambes], "gamb").
+entry(gambeson, n, [gambesonlar], "bir ortaçağ ceketi").
+entry(gambiya, n, [gambiyalar], "gambiyalı").
+entry(gambier, i, [gambierler], "Asya asmasından elde edilen bir özüt").
+entry(gambir, i, [gambirler], "gambir").
+entry(gambit, n, [gambitler], "bir tür satranç açılışı").
+entry(kumar, f, [kumar oynadı,kumar oynuyor,kumar oynar], "para ya da değerli eşyalar için şans oyunu oynamak").
+entry(kumarbaz, n, [kumarbazlar], "kumar oynayan biri").
+entry(gamboge, n, [gamboges], "bir reçine").
+entry(sekme, v, [sekilen,sekme,sekler], "veya SEKİLEN SEKME SEKLER şakalaşarak sıçramak").
+entry(gambrel, n, [gambrels], "bir atın bacağının bir parçası").
+entry(gambusia, n, [gambusyalar], "küçük bir balık").
+entry(oyun, sıf, [], "OYUNCU OYUNCUENcesur").
+entry(game, f, [kumar, oyun, oyunlar], "kumar oynamak").
+entry(oyunkitabi, n, [oyunkitapları], "bir spor takımının kullandığı stratejilerin kitabı").
+entry(gamecock, n, [dövüş horozu], "dövüş için eğitilmiş bir horoz").
+girdi(yemibalığı, n, [yemibalıkları], "spor için yakalanan bir balık").
+girdi(dövüşhorozu, n, [dövüşhorozları], "bir dövüş tavuğu").
+girdi(gamelan, i, [gamelanlar], "bir tür orkestra").
+entry(gamelike, sıf, [], "bir oyun gibi kurallarla yönetilen bir yarışma").
+entry(gamely, adv, [], "oyunca").
+entry(yüreklilik, n, [yüreklilikler], "oyun olma niteliği").
+giriş(oyun oynama, n, [oyun oynamalar], "bir bilgisayar veya video oyununun oynanma şekli").
+entry(oyuncu, n, [oyuncular], "hevesli bir oyun oyuncusu").
+entry(oyuncu, n, [oyuncular], "oyun oynayan kişi").
+entry(gamesome, sıfat, [], "oyuncu").
+entry(gamest, süperlative, [], "oyunun").
+entry(kumarbaz, n, [kumarbazlar], "bir kumarbaz").
+entry(gamet, i, [gametler], "olgun bir üreme hücresiGAMETAL GAMETİK sıf").
+entry(gamey, sıf, [], "GAMIER GAMIESTgamy").
+entry(gamic, sıf, [], "döllenme gerektiren").
+entry(gamier, kıyaslama, [], "gamy'nin").
+entry(gamiest, üstünlük, [], "gamy'nin").
+entry(gamily, adv, [], "oyun tarzında").
+entry(gamin, n, [gamins], "bir sokak çocuğu").
+entry(gamine, n, [gamines], "bir erkek Fatma").
+entry(gaminess, n, [gaminesses], "keskinlik olma niteliği").
+entry(oyun, n, [oyunlar], "kumar oynama pratiği").
+entry(gamma, n, [gamalar], "bir Yunan harfi").
+girdi(gammadia, çogul, [], "Yunan süslemeleri").
+entry(gammed, geçmiş, [], "gam'in zamanı").
+entry(gammer, n, [gammers], "yaşlı bir kadın").
+entry(gammier, kıyaslama, [], "gammy'nin").
+girdi(gammiest, superlatif, [], "gammy'nin").
+entry(gamming, şimdiki, [], "gam fiilinin ortaç hâli").
+entry(gammon, v, [gammoned,gammoning,gammons], "aldatıcı konuşma ile yanıltmak").
+entry(gammoner, n, [gammoners], "gammon yapan biri").
+entry(gammy, sıf, [], "GAMMIER GAMMIESTlame").
+entry(gomodemi, n, [gomodemiler], "organizmaların biraz izole edilmiş üreme topluluğu").
+girdi(gamp, n, [gamps], "büyük bir şemsiye").
+entry(gamut, n, [gamuts], "tüm bir yelpaze").
+entry(gamy, sıfat, [], "GAMIER GAMIESTcesur").
+entry(gan, geçmiş, [], "cinin zamanı").
+entry(ganache, n, [ganachlar], "kremalı çikolata karışımı").
+entry(gander, v, [gandered,gandering,ganders], "dolaşmak").
+entry(gane, a, [], "gae'nin geçmiş ortaç hali").
+entry(ganef, n, [ganefler], "bir hırsız").
+entry(ganev, n, [ganevs], "hırsız").
+girdi(çete, f, [çetelenmiş, çeteleyerek, çeteler], "bir grup oluşturmak için çeteye almak").
+entry(çete, v, [çeteledi,çeteleme,çeteler], "çeteyle ilgili faaliyetlere katılmak").
+entry(ganger, n, [gangers], "bir grup işçinin ustabaşı").
+entry(cetecilik, n, [ceteclikler], "suç yeraltı dünyası").
+entry(gangle, v, [gangled, gangling, gangles], "sakarca hareket etmek").
+entry(ganglia, a, [], "ganglion'un çoğulu").
+entrée(ganglial, sıfat, [], "gangliar").
+entry(gangliyar, sıf, [], "bir gangliyona ait").
+entry(ganglier, karşılaştırmalı, [], "gangly'nin").
+entry(gangliest, üstünlük, [], "gangly'nin").
+entry(gangling, sıf, [], "garip şekilde uzun ve ince").
+giriş(ganglion, i, [ganglionlar], "veya GANGLIA sinir hücreleri grubu").
+entry(gangly, sıf, [], "GANGLIER GANGLIESTgangling").
+entry(gangplow, n, [gangplows], "bir tarım aleti").
+entry(gangrel, n, [gangrels], "serseri").
+entry(gangren, v, [kangrenleşmiş,kangrenleşiyor,kangrenleşir], "vücudun bir kısmında doku kaybı yaşamak").
+entry(gangsta, n, [gangstalar], "bir sokak çetesinin üyesi").
+entry(gangster, i, [gangsterlar], "suç çetesinin bir üyesi").
+girdi(çetrefil, n, [çetrefiller], "değerli minerallerin bulunduğu değersiz kayaç").
+entry(geçit, n, [geçitler], "bir geçit yolu").
+entry(ganister, n, [ganisterler], "bir tür kaya").
+entry(kenevir, n, [kenevirler], "sigara içmek için kullanılan kenevir").
+girdi(ganjah, i, [ganjahlar], "ganja").
+entry(sümsük, n, [sümsükler], "büyük bir deniz kuşu").
+entry(gannetry, isim, [gannet_yuvaları], "gannetlerin ürediği bir yer").
+entry(ganof, n, [ganofs], "ganef").
+entry(ganoit, n, [ganoitler], "bir balık türü").
+entry(gantlet, v, [gantleted,gantleting,gantlets], "demiryolu raylarını üst üste geçirmek").
+entry(gantline, n, [gantline], "bir geminin halatı").
+entry(gantlope, i, [gantlopes], "eskiden kullanılan bir askeri ceza").
+entry(havuz, n, [havuzlar], "demiryolu sinyallerini destekleyen bir yapı").
+entry(ganymede, n, [ganymedes], "içkileri sunan bir delikanlı").
+entry(ganzfeld, n, [ganzfeldler], "parapsikolojide kullanılan kontrollü duyusal girdi tekniği").
+entry(hapishane, v, [hapsetti,hapseden,hapseder], "hapse atmak").
+entry(mahkum, n, [mahkumlar], "jailbird").
+entry(gaoler, i, [gaolers], "gardiyan").
+girdi(boşluk, v, [boşluklu, boşluk açma, boşluklar], "açıklık oluşturmak").
+entry(gape, v, [agzı açık bakmak, ağız açık bakmak, ağızları açık bakmak], "ağzı açık bir şekilde bakmak").
+entry(gaper, n, [gapers], "ağzı açık bakan").
+entry(gapeseed, n, [gapeseeds], "hayrete neden olan bir şey").
+entry(gapeworm, n, [gapeworms], "genç kuşlarda hastalığa neden olan bir solucan").
+girdiş(şaşırma, şimdiki, [], "açık ağızla bakma'nın isimfiili").
+entry(ağzıaçıkbirşekilde, adv, [], "ağzıaçık bir şekilde").
+entry(gapless, sıf, [], "boşluksuz").
+entry(gaposis, n, [gaposises], "bir sıra düğme veya çıtçıt arasındaki boşluk").
+entry(boşluk bırakılmış, geçmiş, [], "boşluk bırakmanın zamanı").
+entry(gapping, şimdiki, [], "gap'in ortaç hali").
+entry(gappy, adj, [], "ARALIKLI EN ARALIKLI açıklıklar").
+entry(gapy, sıfat, [], "solucanlarla dolu").
+entry(gar, v, [garred,garring,gars], "neden olmak veya zorlamak").
+entry(garaj, v, [garajda,garajlama,garajlar], "bir aracı garajda barındırmak").
+entry(garb, v, [giyinmiş,giyiniyor,giyer], "giydirmek").
+entry(çöp, n, [çöpler], "gıda atığıÇÖPLY ÇÖPY sıf").
+giris(nohut, i, [nohutlar], "bir nohut").
+entry(karıştırmak, f, [karıştırılmış, karıştırma, karıştırır], "anlamını bozmak").
+entry(karıştırıcı, n, [karıştırıcılar], "karıştırma işlemi yapan biri").
+entry(garbless, sıf, [], "giysisiz olma").
+entry(omurga tahtası, n, [omurga tahtaları], "bir geminin altındaki tahta").
+entry(garboil, n, [garboils], "kargaşa").
+entry(garcon, n, [garsonlar], "bir garson").
+entry(garda, n, [gardai], "İrlanda'da bir polis memuru").
+entry(gardant, sıf, [], "gözlemciye doğrudan dönük  heraldik bir hayvan için kullanılır").
+entry(bahçe, v, [bahçelendi,bahçecilik,bahçeler], "bir arazi parçasını yetiştirmek").
+entry(bahçıvan, n, [bahçıvanlar], "bahçeyle uğraşan kişi").
+entry(gardenya, n, [gardenyalar], "tropikal bir çalı veya ağaç").
+entry(gardyloo, ünlem, [], "uyarı çağrısı olarak kullanılır").
+entry(zargana, n, [zarganalar], "bir tatlı su balığı").
+entry(çütre, n, [çütres], "küçük bir ördek").
+entry(garget, n, [gargets], "evcil hayvanların mastitiGARGETY sıf").
+entry(gargara, v, [gargalandı,gargalama,gargaralar], "ağzı veya boğazı çalkalamak").
+entry(gargara_yapan, n, [gargara_yapanlar], "gargara yapan kişi").
+entry(gargoil, i, [gargoyler], "süsleyici bir figür").
+entry(garigue, n, [garigues], "alçak çalılık").
+entry(garish, sıf, [], "gaudyGARISHLY zarf").
+girdi(taç, f, [taçlandırılmış, taçlandırma, taçlar], "çiçek çelenkleriyle süslemek").
+entry(sarimsak, f, [sarimsaklanmış,sarimsaklama,sarimsaklar], "pişirmede kullanılan bir ot olan sarımsak ile tatlandırmak").
+entry(sarımsaklı, sıf, [], "SARIMSAKLI DAHA SARIMSAKLI EN SARIMSAKLI sarımsak kokusu veya tadı").
+entry(giysi, v, [giysili, giysilemekte, giysiler], "giydirmek").
+entry(derlemek, f, [derledi, derleyen, derler], "toplamak ve depolamak").
+girdi(granat, i, [granatlar], "bir mineral").
+entry(garni, sıf, [], "garnili").
+entry(süsleme, f, [süslenmiş,süsleme,süsler], "süslemek").
+entry(garote, f, [garote,garoteyerek,garoteler], "garotetmek").
+entry(garotte, v, [garotted,garotting,garottes], "boğmak").
+entry(gardiyan, n, [gardiyanlar], "garotter yapan biri").
+entry(mığrıbalığı, n, [mığrıbaliğılar], "bir zargana balığı").
+entry(garred, geçmiş, [], "gar'ın zamanı").
+entry(çatı katı, n, [çatı katları], "bir tavan arasında bulunan GARRETED sıf").
+entry(garring, şimdiki, [], "gar fiilinin ortacı").
+girdi(garnizon, f, [garnizonlu,garnizonluyor,garnizonlar], "askeri bir göreve atamak").
+entry(garron, n, [garrons], "küçük sağlam bir at").
+entry(garrota, f, [garrotalanmış,garroting,garrotlar], "boğarak idam etmek").
+entry(boğucu, n, [boğucular], "boğarak öldüren kişi").
+entry(giyotin, f, [giyotinledi,giyotinlemekte,giyotiner], "giyotinlemek").
+giriş(jartiyer, f, [jartiyerledi,jartiyerleme,jartiyerler], "elastik bir bant ile bağlamak").
+entry(garth, i, [garthlar], "bir avlu veya bahçe").
+entry(garvey, i, [garveyler], "küçük bir mavna").
+entry(gaz, f, [gazladı,gazlama,gazlar], "ya da GAZ üreterek gazla tedârik etmek, sınırsız genişleme kapasitesine sahip bir madde").
+entry(gasalier, n, [gaz lambaları], "gaz lambası").
+entry(gasbag, n, [gasbags], "gaz tutmak için bir torba").
+entry(gascon, n, [gascons], "bir övünççü").
+entry(gaz hali, n, [gaz halleri], "gaz olma durumu").
+entry(gaselier, isim, [gazeliyerler], "gaz lambalı avize").
+entry(gaz halinde, sıf, [], "gaz ile ilgili").
+entry(gash, sıf, [], "GASHER GASHESTbilmek").
+entry(yara, f, [yaralı, yaralamak, yaralar], "uzun derin bir kesik yapmak için").
+entry(gazhane, n, [gazhaneler], "bir gaz fabrikası").
+entry(gazlaştırdı, geçmiş, [], "gazlaştırmanın zamanı").
+entry(gazlaştırıcı, n, [gazlaştırıcılar], "gazlaştıran biri").
+entry(gaz biçiminde, sıf, [], "gaz formunda olan").
+entry(gazlaştırmak, f, [gazlaştırdı,gazlaştırıyor,gazlaştırır], "gaz haline dönüştürmek").
+entry(conta, n, [contalar], "bir şeyi sıvı geçirmez hale getirmek için contaCONTA", adj()).
+entry(gaskin, i, [gaskinler], "bir atın bacağının bir parçası").
+entry(gasking, n, [gaskings], "bir conta").
+entry(gazsız, sıf, [], "gazı olmayan").
+entry(gaz lambası, n, [gaz lambaları], "gaz yakarak elde edilen ışık").
+entry(gaslit, sıf, [], "gaz lambası ile aydınlatılmış").
+entry(gazcı, i, [gazcılar], "bir gaz şirketinin çalışanı").
+entry(gazojen, n, [gazojenler], "gazojen").
+entry(gazohol, i, [gazoholler], "benzin ve etil alkol karışımı bir yakıt").
+entry(benzin, n, [benzinler], "benzin").
+girdi(gazolyer, n, [gazolyeler], "gazelier").
+entry(benzin, n, [benzins], "sıvı bir yakıt").
+entry(soluklanmak, v, [soluklandı,soluklanıyor,soluklanır], "konvülsif bir şekilde nefes almak").
+entry(gasper, n, [gaspers], "bir sigara").
+entry(gassed, geçmiş, [], "gas'ın zaman çekimi").
+entry(gazcı, n, [gazcılar], "gazlayan biri").
+entry(gazlar, a, [], "gaz fiilinin şimdiki zaman 3. tekil şahıs").
+entry(gassing, n, [gazlamalar], "zararlı gazla zehirlenme").
+girdi(gazlı, sıf, [], "DAHA GAZLI EN GAZLIKısmı gazGAZLICA adv").
+entry(gast, v, [gasted,gasting,gasts], "korkutmak").
+entry(gaster, n, [gasters], "bazı böceklerde karnın genişlemiş kısmı").
+entry(gasthaus, n, [gasthauses], "veya GASTHAUSERAlmanya'da küçük bir otel").
+entry(gaz geçirmez, sıf, [], "gazın kaçmasına veya girmesine izin vermeyen").
+entry(gastness, n, [gastnesses], "korku").
+girdi(gastraea, i, [gastraeas], "bir tür metazoa").
+entry(gastral, sıfat, [], "mideye ilişkin").
+entry(gastrea, i, [gastreas], "gastraea").
+entry(gastrik, sıfat, [], "mide ile ilgili").
+girdi(gastrin, isim, [gastrinler], "bir hormon").
+entry(gastrula, n, [gastrulalar], "veya GASTRULAEa metazoa embriyosu").
+entry(gazfabrikası, n, [gazfabrikası], "gazın üretildiği bir fabrika").
+entry(gat, n, [gats], "bir tabanca").
+entry(gatch, v, [gatched,gatching,gatches], "övünen bir şekilde davranmak").
+entry(gatcher, n, [gatchers], "gatchleyen biri").
+entry(kapı, v, [kapılı,kapılama,kapılar], "hareketli bir bariyerle kapı sağlamak").
+entry(pasta, n, [pastalar], "veya GATEAUX bir tür süslü kek").
+entry(gatefold, n, [gatefolds], "bir kitap veya dergide katlanmış ek").
+entry(katlanırmasa, isim, [katlanırmasalar], "hareketli ayaklar tarafından desteklenen uzantıları olan bir masa").
+entry(gateless, sıf, [], "kapısı olmayan").
+entry(gatelike, sıf, [], "kapıya benzeyen").
+entry(kapıcı, n, [kapıcılar], "bir kapıdan sorumlu kişi").
+entry(kapıdireği, n, [kapıdirekleri], "kapının asıldığı direk").
+entry(gater, n, [gaterlar], "gator").
+entry(geçit, n, [geçitler], "bir kapıyla kapatılabilecek bir geçiş yolu").
+entry(topla, f, [topladı, toplama, toplar], "bir yeri veya grubu bir araya getirmek için toplamak").
+giriş(toplayıcı, n, [toplayıcılar], "toplayan biri").
+entry(gating, n, [geçitler], "bir kanalın açılıp kapanma süreci").
+entry(timsah, n, [timsahlar], "bir timsah").
+entry(gauch, f, [gauched,gauching,gauches], "arkayı itmek").
+entry(sakarca, sıf, [], "SAKAR SAKARLIK sosyal zarafetten yoksunSAKARCA adv").
+entry(solak, n, [solaklar], "solak").
+entry(gaucho, n, [gauchos], "Güney Amerika pampalarının kovboyu").
+girdi(gaud, n, [gauds], "gösterişli bir süs").
+giriş(gösteriş, i, [gösterişler], "gösteriş").
+entry(gaudy, adj, [], "TADINDA GÖSTERİŞLİ GAUDILY adv").
+entry(şatafatlı, n, [şatafatlılar], "bir festival").
+entry(gauffer, v, [kole olan,kole olan,kole olanlar], "gofrajlamak").
+entry(ölçüm_aleti, v, [ölçülen,ölçüm_yapan,ölçüm_aletleri], "kesin ölçüm yapmak").
+entry(ölçücü, n, [ölçücüler], "ölçüm yapan kişi").
+entry(gault, n, [gaultlar], "ağır kalın kil toprağı").
+entry(gaum, v, [gaumed,gauming,gaums], "yaymak").
+entry(gaun, şimdiki, [], "gae'nin sıfat-fiili").
+entry(gaunch, n, [gaunches], "don").
+entry(gaunt, adj, [], "GAUNTER GAUNTESTemaciatedGAUNTLY adv").
+entry(eldiven, v, [eldivenli,eldivenleme,eldivenler], "eldivenden geçirmek").
+entry(gauntry, n, [gauntries], "vinç yolu").
+entry(gaur, n, [gaurlar], "yaban öküzü").
+entry(gauss, n, [gausslar], "manyetik indüksiyon birimi").
+entry(gazlı bez, n, [gazlı bezler], "şeffaf bir kumaş").
+entry(gauzy, sıf, [], "GAUZIER GAUZIEST tül gibi GAUZILY zf").
+giriş(sondaj, n, [sondajlar], "bir tüp ile mideye malzeme sokulması").
+entry(verdi, geçmiş, [], "give fiilinin zamanı").
+entry(tokmak, v, [tokmakladı,tokmaklıyor,tokmaklar], "veya TOKMAKLADI TOKMAKLIYOR TOKMAKlarla dikkat veya düzen sinyali vermek için tokmak adı verilen küçük bir gavel kullanımı").
+entry(gavelock, n, [gavelocks], "bir levye").
+girdi(gavial, i, [gavials], "büyük bir sürüngen").
+entry(gavot, n, [gavotlar], "bir Fransız dansı").
+entry(gavotte, v, [gavotted, gavotting, gavottes], "gavot dansı yapmak").
+entry(gawk, v, [gawked,gawking,gawks], "aptalca bakmak").
+entry(gawker, n, [gawkers], "şaşkın bakış atan biri").
+entry(gawkier, kıyaslamalı, [], "sakardır").
+entry(gawkies, pl, [], "sakarın").
+entry(gawkish, sıf, [], "gawky").
+entry(garip, sıf, [], "GAWKIER GAWKIESTawkwardGAWKILY adv").
+entry(gawky, n, [gawkies], "sakar bir kişi").
+girdi(gawmoge, i, [gawmoges], "soytarı bir kişi").
+entry(gawp, e, [gawped,gawping,gawps], "aptalca bakmak").
+entry(gawper, i, [gawperlar], "gözünü dikip bakan kişi").
+girdi(gawsie, sıf, [], "iyi beslenmiş ve sağlıklı görünen").
+girdi(gawsy, sıf, [], "gawsie").
+entry(gay, sıf, [], "GAYER GAYEST1 neşeli 2 eşcinsel").
+girdi(gay, i, [gayler], "bir eşcinsel").
+entry(gayal, n, [gayallar], "evcilleştirilmiş bir öküz").
+giriş(gaydar, i, [gaydars], "bir kişinin eşcinsel olduğunu tanıma yeteneği").
+entry(neşe, n, [neşeler], "gaiety").
+entry(neşeyle, adv, [], "neşe içinde").
+entry(eşcinsellik, i, [eşcinsellikler], "eşcinsel olma durumu").
+giriş(gaywings, i, [gaywings], "çok yıllık bir bitki").
+entry(gazabo, n, [gazabos], "veya GAZABOES bir adam").
+entry(gazania, n, [gazaniyalar], "bir Güney Afrika bitkisi").
+entry(gazar, i, [gazarlar], "ipeksi ince kumaş").
+entry(bakmak, v, [bakti,bakarak,bakar], "dikkatlice bakmak").
+entry(kameriye, n, [kameriyeler], "veya KAMERİYELER: yanları açık, çatılı yapı").
+entry(ceylan, i, [ceylanlar], "küçük bir antilop").
+entry(gazer, n, [gazers], "bakan kişi").
+entry(gazete, v, [gazeteye_ilan_edilen,gazeteye_ilan_ediliyor,gazeteye_ilan_edilir], "resmi bir gazetede duyurmak").
+entry(bakış, şimdiki, [], "gaze fiilinin ortaç hali").
+girdi(gazogene, i, [gazogenes], "sıvıları karbondioksitleme aparatı").
+entry(gazpacho, n, [gazpacholar], "soğuk baharatlı bir çorba").
+entry(yanbasmak, v, [yanbasmaksık,yanbasmarken,yanbasmaklar], "önceden kararlaştırılan fiyatı artırarak aldatmak").
+entry(gazumper, n, [gazumpers], "kapora aldatmacası yapan").
+entry(gazunder, v, [gazundered,gazundering,gazunders], "bir mülk satıcısına alıcının teklifini düşürmek").
+girdi(vites, v, [vitesli,vitestak,vitessler], "dişli makine parçaları ile donatmak").
+entry(vites, n, [vitesler], "bir otomotiv şanzımanı").
+entry(viteskutusu, n, [viteskutuları], "vitesler için bir muhafaza").
+entry(gearhead, n, [mekanikseverler], "mekanik konulara yatkın kişi").
+entry(dişli_sistemi, i, [dişli_sistemleri], "bir dişli sistemi").
+giris(dissiz, sıf, [], "dişli olmama durumu").
+entry(geck, v, [gecked,gecking,gecks], "alay etmek").
+entry(kertenkele, n, [kertenkeleler], "veya KERTENKELELER küçük bir kertenkele").
+entry(ged, n, [geds], "bir yiyecek balığı").
+entry(gee, v, [geed,geeing,gees], "sağa dönmek").
+entry(geegaw, i, [geegaws], "229cgnvnysa").
+entry(inek, i, [inekler], "tek bir şeye odaklanmış hevesli veya uzman").
+entry(geekdom, i, [geekdomlar], "geekler dünyası").
+entry(geeked, sıf, [], "coşkuyla dolu").
+entry(geekish, sıf, [], "inekçe").
+entry(inek, sıf, [], "SOSYAL OLARAK GİRGİN OLMAYAN VEYA ÇEKİCİ OLMAYAN").
+entry(geepound, i, [geepoundlar], "bir kütle birimi").
+giriş(kazlar, ç, [], "kazın").
+entry(geest, i, [geests], "eski alüvyonik madde").
+entry(geez, ünlem, [], "jeez").
+entry(kaşif, n, [kaşifler], "eksantrik bir adam").
+entry(geisha, n, [geishalar], "eğlence yapmak üzere eğitilmiş Japon kızı").
+entry(gel, v, [jelleşti,jelleşiyor,jelleşir], "jel gibi olmakJEL OLABİLİR sıfat").
+entry(gelada, n, [geladalar], "bir babun").
+entry(jelasyon, n, [jelasyonlar], "gellant").
+entry(jellemek, f, [jellendi,jelleniyor,jeller], "jelleşmek").
+entry(gelati, i, [gelatis], "dondurma").
+entry(jelatin, i, [jelatinler], "yapışkan bir madde").
+entry(jelatin, n, [jelatinler], "jelatin").
+entry(gelating, şimdiki zaman, [], "gelate'in sıfat-fiili").
+entry(jelleşme, i, [jelleşmeler], "jelleşme süreci").
+entry(gelato, n, [gelatos], "veya GELATIİtalyan dondurması").
+entry(jelatin_kapsül, n, [jelatin_kapsüller], "jelatinle kaplanmış bir tablet").
+girdi(gelcoat, n, [gelcoats], "poliester reçineden yapılmış yüzey tabakası").
+entry(geld, v, [gelded,gelding,gelds], "iğdiş etmek").
+entry(hadım_eden, n, [hadım_edenler], "hadım eden biri").
+entry(hadım, i, [hadımlar], "hadım edilmiş hayvan").
+entry(jelee, n, [jeleler], "kozmetik bir jel").
+entry(soğuk, sıf, [], "buzGIBI zarf").
+entry(soğukluk, n, [soğukluklar], "soğukluk").
+entry(jelleştirici, n, [jelleştiriciler], "jelleşme sağlamak için kullanılan bir madde").
+entry(gelled, past, [], "gel kelimesinin zamanı").
+girdi(jelatinlesme, simdiki, [], "jelatinlesmenin ortaç hali").
+entry(gelly, n, [gelliler], "yıkıcı bir yüksek patlayıcı").
+entry(gelsemia, npl, [], "şifalı bitki kökleri").
+entry(gelt, n, [gelts], "para").
+girdi(mücevher, v, [mücevherlemiş,mücevherliyor,mücevherler], "değerli taşlarla süslemek").
+entry(gematria, n, [gematrias], "Kutsal Yazıları yorumlamada kullanılan kabalistik bir yöntem").
+entry(geminal, sıf, [], "aynı atom üzerinde iki yedeğe ait veya onlarla ilgili").
+entry(geminate, v, [geminated,geminating,geminates], "çiftler halinde düzenlemek").
+entry(gemlike, sıf, [], "bir mücevheri andıran").
+entry(gemma, n, [gemmae], "eşeysiz üreme yapısı").
+entry(gemmate, v, [gemmated,gemmating,gemmates], "taslakları üretmek").
+giriş(işlenmiş, geçmiş, [], "gem'in zamanı").
+entry(gemmier, kıyas, [], "taşlı").
+entry(gemmiest, üstünlük, [], "of gemmy").
+girdi(gemmily, zrf, [], "bir mücevheri andıran bir şekilde").
+giriş(gemming, şimdiki, [], "gem fiilinin ortaç hali").
+entry(gemmule, n, [gemmüller], "küçük bir gemma").
+entry(gemmy, adj, [], "BİR MÜCEVHERİ ANDIRAN GEMMİER GEMMİEST").
+entry(gemoloji, n, [gemolojiler], "taş bilim").
+entry(gemot, n, [gemots], "Anglo-Sakson İngiltere'sinde bir halka açık toplantı").
+entry(gemote, n, [gemotes], "gemot").
+entry(gemsbok, n, [gemsboklar], "büyük bir antilop").
+girdi(ceylan, n, [ceylanlar], "gemsbok").
+girdi(değerli_taş, n, [değerli_taşlar], "bir kıymetli taş").
+entry(gen, v, [oluşturdu,oluşturma,oluşturur], "bilgi sağlamak veya edinmek").
+entry(jandarma, n, [jandarmalar], "bir polis memuru").
+entry(cinsiyet, v, [cinsiyetli,cinsiyetlendirme,cinsiyetler], "neden olmak").
+entry(gene, n, [genler], "kalıtsal bir birim").
+entry(genera, a, [], "genus'un çoğulu").
+entry(general, n, [generaller], "bir askeri subay").
+entry(oluşturmak, f, [oluşturdu,oluşturuyor,oluşturur], "var etmek").
+entry(genel, n, [geneller], "bir tür ilaç").
+entry(cömert, sıf, [], "vermeye istekli").
+entry(genesis, i, [geneses], "bir başlangıç").
+entry(genet, n, [genets], "etobur bir memeli").
+entry(genetik, sıf, [], "genetikle ilgili").
+girdi(genetik, çoğul_değil, [], "kalıtım bilimi").
+entry(genette, n, [genettes], "cınet").
+entry(geneva, n, [genevas], "bir içki").
+girdi(harika, sıf, [], "hoş veya arkadaşça bir tavra sahip OLARAK adv").
+entry(genik, sıfat, [], "genlerle ilgili").
+entry(cin, i, [cinler], "cin").
+entry(genii, a, [], "dehanın çoğulu").
+entry(genip, n, [genips], "tropikal bir ağaç").
+entry(genipap, n, [genipaplar], "tropikal bir ağaç").
+entry(genipapo, n, [genipapos], "jenipap").
+entry(genista, n, [genistas], "sarı çiçekli bir çalı").
+entry(üreme, sıf, [], "üremeyle ilgili").
+girdi(cinsel_organlar, çoğul, [], "cinsel organlar").
+entry(genitif, i, [genitifler], "bir dilbilgisel durum").
+entry(ata, n, [atalar], "erkek ebeveyn").
+entry(geniture, n, [doğumlar], "doğum").
+entry(dahi, n, [dehalar], "veya GENII olağanüstü doğal yetenek").
+entry(genlock, n, [genlocklar], "farklı video sinyallerini senkronize etmek için bir cihaz").
+entry(gennaker, i, [gennakerler], "bir balon yelkeni").
+entry(üretilmiş, geçmiş, [], "uretin kip").
+girdi(genning, şimdiki zaman, [], "gen fiilinin ortaç hâli").
+entry(genova, i, [genovalar], "üçgen bir yelken").
+entry(soykırım, n, [soykırımlar], "bir ulusal veya ırksal grubun kasıtlı olarak yok edilmesi").
+entry(şema, n, [şemalar], "bir ailenin davranış kalıplarının geçmişini gösteren bir diyagram").
+entry(genoise, n, [genoises], "zengin bir pandispanya keki").
+entry(genom, n, [genomlar], "genom").
+girdi(genom, n, [genomlar], "haploid kromozom setiGENOMİK sıf").
+entry(genomik, npl, [], "genomların incelenmesi").
+entry(genotip, n, [genotipler], "bir organizmanın genetik yapısı").
+entry(tür, n, [türler], "bir tür veya çeşit").
+entry(genro, n, [genros], "Japonya'daki yaşlı devlet adamları grubu").
+entry(gens, n, [gentes], "bir tür klan").
+entry(genseng, n, [gensengler], "ginseng").
+entry(gent, n, [beyefendi], "bir beyefendi").
+entry(genteel, adj, [], "SOYLU EN SOYLU İyi yetişmiş veya rafine").
+entry(gentes, çoğul, [], "gens'in").
+entry(gentian, n, [centiyanlar], "çiçekli bir bitki").
+entry(gentil, sıf, [], "nazik").
+entry(gentile, n, [gentiles], "Yahudi olmayan bir kişi").
+entry(nazik, sıf, [], "NAZİK NAZİKÖnemliNAZİKÇAESON").
+entry(nazik, f, [nazikledi, naziklemek, nazikler], "ehlileştirmek").
+entry(gentoo, n, [gentoos], "gri sırtlı bir penguen").
+entry(gentrice, i, [gentrices], "iyi yetiştirme").
+entry(soylulaştırmak, v, [soylulaştırılmış,soylulaştırma,soylulaştırır], "çürümüş kentsel bir alanı yenileyerek orta sınıf sakinleri çekmek").
+entry(üsttabaka, i, [üsttabakalar], "yüksek sosyal sınıf insanları").
+entry(gents, npl, [], "umumi erkekler tuvaleti").
+entry(genu, n, [genua], "diz").
+entry(gerçek, sıfat, [], "özgün").
+entry(tür, n, [türler], "veya GENERAa bir çeşit sınıf veya sınıf").
+entry(geocache, v, [geocached,geocaching,geocaches], "bir oyun kapsamında Küresel Konumlandırma Sistemi cihazı kullanarak gizli öğeleri aramak").
+entry(jeot, i, [jeotlar], "bir tür kaya").
+entry(geodezik, i, [geodezikler], "geometrik bir çizgi").
+entry(jeodezi, i, [jeodeziler], "coğrafi ölçüm").
+entry(jeodezik, sıf, [], "jeodezi ile ilgili").
+entry(geodic, sıf, [], "jeod ile ilgili veya ona ait").
+entry(geoduck, n, [geoducklar], "büyük yenilebilir bir istiridye").
+entry(cografya, e, [cografyalar], "jeolojinin bir dalı").
+entry(jeoit, n, [jeoitler], "yerin varsayımsal yüzeyiJEOİDAL sıf").
+entry(jeolog, n, [jeologlar], "jeoloji uzmanı").
+entry(jeoloji, n, [jeolojiler], "yerkürenin orijini ve yapısını inceleyen bilimJEOLOJİK adj").
+entry(geomancy, n, [geomancies], "coğrafi özelliklerle geleceği tahmin etme yöntemi").
+entry(geometri_uzmani, i, [geometri_uzmanları], "geometri uzmanı").
+entry(geometri, n, [geometriler], "bir matematik dalı").
+entry(geofaji, n, [geofajiler], "toprak maddeleri yeme pratiği").
+entry(jeofon, n, [jeofonlar], "yerdeki titreşimleri algılayan bir cihaz").
+girdi(geofit, i, [geofitler], "yeraltı tomurcuklarına sahip bir bitki").
+girdi(jeoponik, sıf, [], "çiftçilikle ilgili").
+entry(gezisondu, n, [gezisondu], "dünya yakınındaki uzayı keşfetmek için bir uzay aracı").
+entry(çiftçi, n, [çiftçilik], "tarım hakkında bir şiir").
+girdi(jeotaksi, isim, [jeotaksiler], "bir organizmanın yerçekimine tepki olarak hareketi").
+entry(gerah, n, [gerahs], "İbranice bir ağırlık birimi").
+giris(geranial, n, [geranials], "citral").
+entry(geraniol, i, [geranioller], "parfümlerde kullanılan bir alkol").
+entry(ıtır, n, [ıtırlar], "çiçekli bir bitki").
+entry(gerardia, i, [gerardias], "bir ot").
+entry(gerbera, n, [gerberalar], "bir bitki").
+entry(gerbil, i, [gerbiller], "bir kemirgen").
+entry(gerbille, n, [gerbiller], "gerbil").
+entry(yönetici, n, [yöneticiler], "bir yönetici veya idareci").
+entry(gerenuk, n, [gerenuklar], "uzun boyunlu bir antilop").
+entry(mikrop, n, [mikroplar], "hastalık yapan bir mikroorganizma").
+entry(almanca, n, [almanlar], "karmaşık bir dans").
+entry(ilgili, sıf, [], "ilgili").
+entry(germanik, sıf, [], "metal bir element olan germanyum içeren").
+entry(tohum, n, [tohumlar], "veya TOHUMbirşeyin kökeni olarak hizmet eden").
+entry(mikropsuz, sıf, [], "mikroplardan arınmış").
+entry(germier, kıyaslama, [], "microplu").
+entry(germiest, en üstünlük, [], "germy'nin").
+girdi(germina, a, [], "germenlerin çoğulu").
+entry(germinal, sıfat, [], "gelişimin en erken aşamasında olma").
+entry(germlike, sıf, [], "bir mikrop gibi").
+girdi(mikroplu, sıf, [], "MİKROPLUSU MİKROPLU EN MİKROPLU").
+entry(gerontik, sıf, [], "yaşlılığa ilişkin").
+entry(ulaç, i, [ulaçlar], "fiilimsi isim").
+entry(gesneria, sıf, [], "çiçekli bir bitki türünü belirtir").
+entry(alçı, n, [alçılar], "bir sıva karışımı").
+entry(astarlı, adj, [], "alçı astarına sahip olma").
+entry(gest, n, [gestler], "bir başarı").
+entry(gestalt, i, [gestalts], "veya GESTALTEN bir bütün olarak birleşmiş").
+entry(gestapo, n, [gestapolar], "bir gizli polis organizasyonu").
+girdi(gebelik, v, [gebelik_yapılmış, gebelik_yapılıyor, gebelik_yapar], "hamilelik sırasında rahimde taşımak").
+entry(geste, i, [jestler], "jest").
+entry(gestik, sıfat, [], "bedensel hareketle ilgili").
+entry(gestical, sıf, [], "gestik").
+entry(jestsel, sıf, [], "jestlerle ilgili veya jestlerden oluşan, ifade edici beden hareketleri").
+giriş(jest, v, [jest yaptı,jest yapıyor,jestler], "bedensel hareketle ifade etmek").
+entry(gesturer, n, [jest yapanlar], "jest yapan kişi").
+entry(get, n, [gittin], "Yahudi hukukuna göre bir boşanma").
+entry(get, v, [got,gotten,getting], "ELDE ETMEKsto obtain or acquireELDE EDİLEBİLİR ELDE EDİLEBİLİR sıf").
+entry(geta, n, [getalar], "bir Japon ahşap takunya").
+entry(kaçış, n, [kaçışlar], "bir kaçış").
+entry(getout, n, [getouts], "bir şey yapmaktan kaçınmak için bir bahane").
+entry(getter, v, [gettered,gettering,getters], "kimyasal bir madde ile saflaştırmak").
+entry(getmek, şimdiki, [], "get fiilinin ulaç hali").
+entry(getup, n, [getups], "bir kostüm").
+entry(geum, i, [geums], "çok yıllık bir ot").
+entry(zincir, n, [zincirler], "gösterişli bir süs eşyası").
+entry(çok, zarf, [], "very").
+entry(geyser, f, [geysered, geysering, geysers], "sıcak su ve buhar püskürtmek").
+entry(gharial, n, [gharialler], "büyük bir sürüngen").
+entry(gharri, isim, [gharris], "atlı araba").
+entry(gharry, n, [gharries], "Hindistan'da kullanılan bir araba").
+entry(ghast, sıf, [], "ürkütücü").
+entry(ghastful, sıf, [], "korkunç").
+entry(ürkütücü, sıf, [], "DAHA ÜRKÜTÜCÜ EN ÜRKÜTÜCÜkorkutucu").
+entry(ghat, n, [ghats], "bir nehre geçiş yolu").
+entry(ghaut, n, [ghauts], "ghat").
+entry(gazel, i, [gazeller], "aşkla ilgili bir lirik şiir").
+entry(Gazi, n, [gaziler], "veya GAZİLER Müslüman savaş kahramanı").
+entry(tereyağı, n, [tereyağları], "bir tür sıvı tereyağı").
+entry(gherao, v, [gheraoed,gheraoing,gheraoes], "fiziksel yollarla zorlamak").
+entry(turşu, n, [turşular], "küçük bir salatalık").
+entry(getto, v, [gettolandı,gettolama,gettolar], "veya BİR GETTOya izole etmek").
+entry(ghi, n, [ghis], "gi").
+entry(ghibli, n, [ghiblis], "sıcak bir çöl rüzgarı").
+entry(ghillie, n, [ghillies], "bir tür ayakkabı").
+entry(hayalet, v, [hayalettim, hayaletiyor, hayaletler], "perili olmak").
+entry(hayalet_görüntü, i, [hayalet_görüntüler], "televizyon ekranında sahte bir görüntü").
+entry(hayalet, sıf, [], "DAHA HAYALET DAHA EN HAYALETspekral").
+entry(ghosty, sıfat, [], "GHOSTIER GHOSTIESTghostly").
+entry(hortlak, n, [hortlaklar], "bir demonHORTHLAKSI sıf").
+entry(ghoulie, n, [ghoulies], "bir hortlak").
+entry(ghyll, n, [ghylls], "bir dere").
+entry(gi, i, [gi], "dövüş sanatlarında giyilen beyaz giysi").
+girdi(dev, i, [devler], "büyük boyutta bir kişi veya şey").
+entry(devkadın, n, [devkadınlar], "bir dişi dev").
+entry(devlik, n, [devlikler], "dev olma durumu").
+entry(gavur, n, [gavurlar], "bir Müslüman olmayan kişi").
+entry(giardia, n, [giardialar], "bağırsaklarda yaşayan bir protozoon").
+giriş(gib, v, [gibbed,gibbing,gibs], "tahta veya metalden yapılmış bir takozla sabitlemek").
+girdi(gibber, f, [gibbered,gibbering,gibbers], "gevezelik etmek").
+entry(dar, f, [dardı, darıyor, darlar], "veya DARA ASTI DARAYA DARAMakar asarak infaz etmek").
+girdi(gibbon, i, [gibbonlar], "ağaçta yaşayan bir maymun").
+entry(gibbose, adj, [], "kambur").
+entry(gibbous, sıf, [], "düzensiz yuvarlak").
+girdi(gibbsit, isim, [gibbsitler], "bir mineral").
+entry(gibe, f, [gibed,gibing,gibes], "alay etmekGIBINGLY zrf").
+entry(giber, i, [gibers], "alay eden biri").
+giris(sakatat, i, [sakatatlar], "bir kümes hayvanının yenilebilir bir parçası").
+entry(gibson, n, [gibsonlar], "küçük bir soğanla servis edilen bir martini").
+entry(gid, n, [gids], "bir koyun hastalığı").
+entry(giddap, ünlem, [], "bir atı daha hızlı gitmesi için teşvik olarak kullanılan bir komut").
+entry(giddy, adj, [], "DAHA ÇILGIN EN ÇILGINbaşdöndürücüÇILGINCA adv").
+girdi(sersemlemiş, f, [sersemledi, sersemliyor, sersemletir], "sersemletmek").
+entry(giddyap, ünlem, [], "giddap").
+entry(giddyup, ünlem, [], "giddap").
+entry(gie, v, [gied,gien,gieing], "GIEVer").
+entry(gif, n, [gifs], "görseller için bir bilgisayar dosya formatı").
+entry(gift, v, [armağan etti, armağan etme, armağanlar], "hediye olarak ücret almadan verilen bir şeyi sunmak").
+entry(hediye_edilebilir, n, [hediye_edilebilenler], "hediye için uygun bir şey").
+entry(giftedly, adv, [], "yetenekli bir şekilde").
+entry(giflee, n, [hediye_alıcılar], "hediye alan biri").
+hediye_verme(gifting, n, [hediye_verimleri], "bir hediye sunma eylemi").
+entry(giftless, sıfat, [], "hediyesiz olma").
+entry(hediyelik_eşya, n, [hediyelik_eşyalar], "hediyeler için uygun eşyalar").
+entry(hediyepaketleme, v, [hediyepaketlendi,hediyepaketleme,hediyepaketler], "süsleyici kağıtla sarmak").
+entry(gig, v, [gigged,gigging,gigs], "üç çatallı mızrak ile balık yakalamak").
+giriş(giga, n, [gighe], "bir cigue").
+entry(gigabit, n, [gigabitler], "bir bilgi birimi").
+entry(gigabayt, n, [gigabaytlar], "1073741824 bayt").
+girdi(gigaflop, n, [gigafloplar], "bilgisayar hızı ölçüsü").
+girdi(devasa, sif, [], "kocaman").
+entry(gigas, sıf, [], "bitki gelişimindeki varyasyonlarla ilgili").
+girdi(gigaton, n, [gigatonlar], "ağırlık birimi").
+entry(gigawatt, n, [gigawattlar], "bir güç birimi").
+entry(gigged, geçmiş, [], "gig'in zamanı").
+entry(gigging, şimdiki, [], "gig'in ortaç hali").
+entry(kıkırdamak, v, [kıkırdadı,kıkırdama,kıkırdar], "aptalca bir şekilde gülmek").
+entry(kıkırdayan, n, [kıkırdayanlar], "kıkırdayan kimse").
+entry(gülünç, sıfat, [], "GIGGLIER GIGGLIESTgülmeye meyilli").
+entry(gighe, pl, [], "giga'nın").
+entry(yaramaz_kız, n, [yaramaz_kızlar], "oyuncu bir kız").
+girdi(giglot, i, [giglots], "giglet").
+entry(gigolo, i, [gigololar], "bir kadın tarafından maddi olarak desteklenen bir erkek").
+entry(gigot, n, [gigots], "kuzu budu").
+entry(gigue, i, [gigues], "hareketli bir dans").
+girdi(gilbert, n, [gilbertler], "bir manyetomotor kuvveti birimi").
+entry(kaplama, v, [kapladı, kaplama, kaplamalar], "ince bir altın tabakası ile kaplamak").
+giriş(yaldızcı, n, [yaldızcılar], "yaldızlayan biri").
+entry(gildhall, n, [gildhalls], "bir belediye binası").
+entry(yaldızlama, n, [yaldızlamalar], "yaldız uygulaması").
+girdi(gill, v, [gilled, gilling, gills], "bir tür ağ ile balık yakalamak").
+entry(giller, n, [gillers], "solungaçları olan biri").
+entry(gillie, i, [gilliler], "ghillie").
+girdi(gillnet, v, [gillnetted,gillnetting,gillnets], "gıllamak").
+entry(gilly, v, [gillied,gillying,gillies], "bir tür vagonda taşımak").
+entry(varak, i, [varaklar], "bir şeyin üzerinin kaplanmasında kullanılan altın").
+entry(çipura, n, [çipuralar], "bir deniz balığı").
+entry(gimbal, v, [gimbaled,gimbaling,gimbals], "ya da GIMBALLED GIMBALLING GIMBALSnın halkalar seti üzerinde desteklenmesi").
+entry(gimcrack, n, [gimcracks], "bir zımbırtı").
+entry(gimel, n, [gimels], "bir İbranice harf").
+entry(gimlet, f, [gimletledi,gimletleme,gimletler], "sıkıcı bir aletle delmek").
+giris(gimmal, i, [gimmallar], "birbirine geçmiş iki halka").
+girdi(ver, isim, [verler], "kolayca kazanılan bir şey").
+entry(hile, f, [hiledi,hileliyor,hileler], "bir şeye roman veya hileli bir özellik sağlamak").
+girdi(süslü, sıf, [], "hile gibi olan veya hileye sahip olan").
+entry(al, n, [allar], "rakibe verilen kolay bir golf vuruşu").
+girdi(gimp, v, [gimped,gimping,gimps], "topallamak").
+girdi(gimpier, karsilastirma, [], "gimpy'den").
+entry(gimpiest, üstünlük, [], "gimpy'nin").
+girdi(gimpy, sıf, [], "DAHALAHİYALİMPALEK").
+gin(giriş, v, [gan, gunnen, ginning], "GINSto başlamak").
+entry(gin, f, [ginned,ginning,gins], "pamuktan tohumları çıkarmak").
+entry(ginch, n, [ginches], "kapmak").
+entry(gingal, n, [gingals], "jingal").
+gingal(girisi, i, [gingallar], "jingal").
+entry(gingeley, n, [gingeleys], "susam").
+entry(gingeli, i, [gingelis], "susam").
+girdi(susamlar, pl, [], "susamdan").
+entry(gingelli, n, [gingellis], "zencefil").
+entry(gingelly, n, [gingellies], "susam tohumu veya onun yağı").
+entry(gingely, n, [gingelies], "susam").
+entry(zencefil, v, [zencefillendi,zencefilleniyor,zencefiller], "baharatlı bir baharat olan zencefille tatlandırmak").
+entry(özenle, zf, [], "dikkatli bir biçimde").
+entry(gingery, sıf, [], "zencefilin özelliklerine sahip").
+entry(pötikare, n, [pötikareler], "bir pamuklu kumaş").
+entry(gingili, n, [gingilis], "susam").
+entry(gingilli, n, [gingillis], "susam").
+entry(gingiva, n, [gingivae], "dişleri çevreleyen etli dokuGINGIVAL sıf").
+entry(gingko, n, [gingkolar], "veya GINGKOESginkgo").
+entry(gink, n, [ginks], "bir arkadaş").
+entry(ginkgo, n, [ginkgolar], "veya süs ağacı olan GINKGOES").
+entry(ginned, geçmiş, [], "gin'in zamanı").
+entry(ginner, isim, [ginners], "pamuk çırçır makineleri ile işleyen kişi").
+entry(ginning, n, [ginnings], "çırçırdan çıkan pamuk").
+entry(ginny, sıf, [], "GINNIER GINNIESTcin olarak etkilenen güçlü bir içki").
+girdi(ginseng, i, [ginsengler], "çok yıllık bir bitki").
+giriş(gip, f, [gipped,gipping,gips], "kandırmak").
+girdi(gipon, n, [gipons], "jupon").
+entry(gipper, n, [gippers], "gip yapan biri").
+girdi(çingene, f, [çingenelendi,çingeneleniyor,çingeneler], "çingenelik yapmak").
+entry(gipsylik, n, [gipsylikler], "çingendik").
+entry(gipsimsi, sıf, [], "çingenevari").
+entry(çingeneizm, n, [çingeneizmler], "çingeneizm").
+entry(zürafa, i, [zürafalar], "uzun boyunlu bir memeli").
+entry(girasol, i, [girasoller], "bir opal çeşidi").
+girdi(girasole, n, [girasoles], "girasol").
+entry(gird, v, [kuşat, kuşatan, kuşatır], "çevrelemek").
+entry(kiriş, n, [kirişler], "yatay bir destek").
+entry(kuşak, f, [kuşakladı, kuşaklama, kuşaklar], "bir kemerle çevrelemek").
+entry(girdleme, n, [girdleme], "kemer takan biri").
+entry(kız, n, [kızlar], "kadın çocuk").
+entry(kızlık, n, [kızlıklar], "kız olma durumu").
+entry(kızsı, sıf, [], "KIZSICI KIZSİÇ").
+entry(kızlara_özgü, sıf, [], "bir kıza ait, onunla ilgili veya onun özelliklerine sahip").
+entry(girly, sıf, [], "GIRLIER GIRLIESTgirlie").
+entry(girn, v, [girned,girning,girns], "hırlamak").
+entry(giro, n, [giros], "bir otogiro").
+entry(girolle, i, [girolles], "yenilebilir bir mantar").
+entry(giron, n, [girons], "gyron").
+entry(girosol, n, [girosoller], "girasol").
+giriş(girsh, i, [girshes], "qursh").
+entry(girt, v, [girted,girting,girts], "kuşanmak").
+girdi(çevre, f, [çevreli, çevreleme, çevreler], "çevrelemek").
+entry(gisarme, n, [gisarmeler], "bir ortaçağ silahı").
+entry(gismo, n, [gismo], "bir alet").
+entry(öz, i, [özler], "ana nokta").
+entry(git, v, [gitted,gitting,gits], "almak").
+entry(gitano, n, [gitanos], "İspanyol çingenesi").
+entry(gitch, n, [gitches], "gotch").
+entry(gite, n, [gites], "Fransa'da bir tatil evi").
+entry(gitted, past, [], "git zaman kipi").
+entry(gittern, n, [gitternler], "ortaçağ gitarı").
+entry(gittin, pl, [], "get hali").
+entry(gitten, şimdiki zaman, [], "git eyleminin ulaç hali").
+girdi(vermek, f, [verdi, verilmiş, veriliyor], "VERMEKbaşkasının mülkiyetine serbestçe aktarmakVERİLEBİLİR adj").
+girdi(ücretsiz_dağıtım, i, [ücretsiz_dağıtımlar], "ücretsiz olarak verilen bir şey").
+entry(iade, n, [iadeler], "yönetime geri verilen bir işçi yararı").
+entry(given, n, [verilen], "hesaplama için bir temel olarak atanan bir şey").
+entry(verici, n, [vericiler], "veren kişi").
+girdi(vermeye, şimdiki, [], "give'in ortaç biçimi").
+entry(gizmo, n, [gizmolar], "gismo").
+entry(mide, n, [mideler], "bir sindirim organı").
+entry(gjetost, i, [gjetostlar], "sert kahverengi bir peynir").
+entry(glabella, n, [glabellae], "kaşlar arasındaki düz alan").
+entry(glabrate, sıf, [], "düz").
+entry(glabrous, sıf, [], "düzgün").
+entry(glace, f, [glaced,glaceing,glaces], "buzlanmak").
+girdi(buzul, sıf, [], "buzullarla ilgili").
+Giriş(buzullaşmak, f, [buzullaştı, buzullaşıyor, buzullaşır], "buzullarla kaplamak").
+entry(buzul, n, [buzullar], "büyük bir buz kütlesi").
+girdi(glacis, n, [glacises], "bir eğim").
+entry(glad, adj, [], "DAHA MUTLU EN MUTLU hissetmek").
+girdi(memnun, v, [memnunetti,memnunetmekte,memnunlar], "memnun etmek").
+entry(sevindirmek, f, [sevindirdi, sevindirme, sevindirir], "mutlu etmek").
+entry(çok_memnun, kıyaslama, [], "of glad").
+girdi(en_mutlu, enüstün, [], "of glad").
+girdi(sevinçlendirme, şimdiki zaman, [], "sevinçte bulunan").
+giriş(açıklık, isim, [açıklıklar], "ormanda açık bir alan").
+entry(gladiusu, sıf, [], "kılıca benzer").
+entry(gladier, karşılaştırma, [], "of glady").
+entry(gladiest, superlative, [], "glady'nin").
+entry(glayöl, n, [glayöller], "çiçek açan bir bitki").
+entry(gladioli, npl, [], "sternum segmentleri").
+girdi(memnuniyetle, adv, [], "DAHA_MEMNUN DAHA_MEMNUN_EN_MEMNUN bir memnuniyet haliyle").
+entry(sevinç, n, [sevinçler], "mutlu olma hali").
+entry(gladsome, sıf, [], "GLADSOMER GLADSOMESTglad").
+entry(glady, adj, [], "AÇIKKIRIMLI AÇIKKIRIMLIAÇIKKIRIMLI açıklıkları olan").
+entry(glaiket, sıf, [], "glaikit").
+entry(glaikit, sıf, [], "aptal").
+entry(glair, v, [glaired,glairing,glairs], "yumurta akı ile kaplamak").
+entry(glair, v, [glaired, glairing, glaires], "yumurta akı ile cilalamak").
+girdi(glairy, sıf, [], "YUMURTA AKINA BENZER GLAIRIER GLAIRIEST").
+entry(glaive, n, [glaives], "bir kılıçGLAIVED sıf").
+girdi(glam, v, [glammed, glamming, glams], "kendisini çekici bir şekilde cazip hâle getirmek").
+entry(glam, sıf, [], "GÖSTERİŞLİLİKLE NİTELENEN GLAMMER GLAMMEST").
+Prolog:
+entry(glammy, sıf, [], "DAHAGLAMMIŞ ENGLAMMİŞglam").
+entry(glamor, n, [glamors], "çekici cazibe").
+entry(glamour, f, [glamoured, glamouring, glamours], "büyülemek").
+entry(bakış, v, [baktı,bakıyor,bakar], "hızlıca bakmak").
+girdi(bakıcı, isim, [bakıcılar], "bakan biri").
+entry(bez, n, [bezler], "salgı yapan bir organ").
+entry(mankafa, çoğul, [], "atların hastalığı").
+entry(glandule, n, [glandules], "küçük bir bez").
+entry(glans, n, [glandes], "penisin veya klitorisin ucu").
+girdi(parlaklık, f, [parladı,parlayan,parlar], "sert bir şekilde parlak bir ışıkla parlamak").
+entry(glary, adj, [], "DAHA PARLAK EN PARLAKparlak").
+entry(şeffaflık, n, [şeffaflıklar], "açık siyasi tartışma politikası").
+entry(cam, f, [camlandı,camlamak,camlar], "şeffaf bir maddeyi cam içine almak").
+entry(glassful, n, [bardaklar dolusu], "bir içki bardağının alacağı kadar").
+giriş(glassie, i, [glassies], "bir tür oyun bilyesi").
+entry(glassier, kıyaslama, [], "cam gibi").
+girdi(en cam gibi, superlatif, [], "cam gibi").
+entry(camsırcasına, zf, [], "camsı bir şekilde").
+entry(glassine, n, [glassinler], "bir tür kağıt").
+entry(glassman, n, [glassmen], "bir camcı").
+entry(glassy, sıf, [], "CAMSI CAM GİBİ").
+entry(glokom, n, [glokomlar], "göz hastalığı").
+entry(glaucous, sıfat, [], "mavimsi yeşil").
+entry(glaze, v, [glazed,glazing,glazes], "cam levhalarla pencereler takmak").
+entry(glazer, n, [camcılar], "bir camcı").
+girdi(camcı, i, [camcılar], "cam takan kişi").
+entry(camcılık, n, [camcilikler], "bir camcının işi").
+entry(pencere-camı, n, [pencere-camları], "camcılık").
+entry(glazy, adj, [], "GLAZIER GLAZIESTpürüzsüz parlak bir kaplama ile kaplıGLAZILY adv").
+entry(parlamak, f, [parladı,parlayan,parlar], "yumuşak bir ışıltıyla parlamak").
+entry(gleamer, n, [gleamers], "parıldayan bir şey").
+entry(parlak, adj, [], "DAHA PARLAK EN PARLAKparlak").
+entry(derlemek, f, [derledi,derliyor,derler], "küçük küçük toplamak").
+entry(harman_döveni, i, [harman_dövenler], "harman döven biri").
+entry(toplama, n, [toplamalar], "toplanan bir şey").
+giriş(gleba, i, [glebae], "bazı mantarların spor taşıyan kütlesi").
+entry(girift, n, [giriftler], "toprak veya zemin").
+entry(gled, n, [gleds], "glede").
+entry(glede, n, [gledes], "yırtıcı bir kuş").
+entry(glee, n, [glees], "eşliksiz bir şarkı").
+entry(gleed, i, [gleeds], "köz parçası").
+entry(sevinçli, sıf, [], "neşeli").
+entry(gleek, v, [gleeked,gleeking,gleeks], "laf atmak").
+entry(gleeman, n, [gleemen], "bir ozan").
+entry(neşeli, adj, [], "gleeful").
+entry(gleet, f, [gleeted,gleeting,gleets], "üretradan mukus boşaltmak").
+entry(gleety, sıf, [], "MUKUS BENZERİ").
+giriş(gleg, sıf, [], "uyanıkGLEGLY adv").
+entry(glegness, i, [glegnesses], "uyanıklık").
+entry(glen, n, [glens], "küçük bir vadiGLENLIKE sıf").
+entry(glenoid, sıfat, [], "kemik yuvasının sığ veya hafif çukur şeklinde olma durumu").
+entry(gley, n, [gleys], "bir kil toprak tabakasıGLEYED sıf").
+entry(gleying, i, [gleyings], "gilişimin gelişimi").
+entry(glia, i, [glialar], "sinir dokusunu bağlayan destek dokusu").
+entry(gliadin, n, [gliadinler], "basit bir protein").
+entry(gliadine, n, [gliadinler], "gliadin").
+entry(glial, adj, [], "merkezi sinir sisteminin destek dokusuna ait olan").
+entry(glib, sıf, [], "GLIBBER GLIBBESTakıcıGLIBLY adv").
+entry(arabozucu, n, [arabozuculuklar], "akar bozan olma kalitesi").
+entry(kaymak, v, [kaydı,kayma,kayar], "zorlanmadan hareket etmek").
+entry(planör, n, [planörler], "bir tür uçak").
+entry(gliff, n, [gliffs], "kısa bir an").
+entry(glim, n, [glims], "bir ışık veya lamba").
+entry(glime, f, [glimed,gliming,glimes], "kurnazca bakmak").
+entry(parıldamak, f, [parıldadı,parıldayan,parıldar], "hafifçe veya kararsız bir şekilde parlamak").
+entry(glimpse, v, [glimpsed,glimpsing,glimpses], "bir an için görmek").
+entry(glimpser, n, [glimpsers], "göz atan biri").
+entry(glint, v, [glinted,glinting,glints], "parlamak").
+entry(glinty, sıf, [], "GLINTIER GLINTIESTparıldayan").
+girdi(glioma, n, [gliomalar], "veya GLIOMATAbir tümör türü").
+entry(gliosis, n, [gliosislar], "glial hücrelerin patolojik proliferasyonu").
+entry(glissade, f, [kaydı,kayar,kaymakta], "kayarak bir dans hareketi yapmak").
+entry(kayma, n, [kaymalar], "bir dans adımı").
+entry(glisten, v, [parladı, parlayan, parlar], "yansımayla parlamak").
+entry(glister, v, [parıldadı,parıldayan,parıldar], "parıldamak").
+entry(glitch, n, [arızalar], "bir arıza").
+entry(glitchy, sıf, [], "GLITCHIER GLITCHIESTarıza ile karakterize edilen").
+entry(parıldamak, v, [parıldadı,parıldayan,parıldar], "parlamak").
+entry(ışıl ışıl, sıf, [], "ışıltılı").
+entry(glitz, v, [glitzed,glitzing,glitzes], "gösterişli bir hale getirmek").
+entry(glitzy, sıf, [], "GLITZIER GLITZIESTgösterişliGLITZILY zrf").
+entry(gloam, n, [gloams], "alacakaranlık").
+entry(alacakaranlık, n, [alacakaranlıklar], "şafak vakti").
+girdi(sevinmek, v, [sevindi, sevinmekte, sevinir], "büyük veya aşırı bir memnuniyetle bakmak").
+entry(övünçbaz, i, [övünçbazlar], "övünen kimse").
+entry(glob, n, [globlar], "yuvarlak bir kütle").
+girdi(küresel, sıf, [], "küreselOLARAK zrf").
+entry(globate, sıf, [], "küresel").
+entry(globated, sıf, [], "küresel").
+entry(globby, sıf, [], "GLOBBIER GLOBBIESTglop dolu").
+entry(globe, f, [globed,globing,globes], "kusursuz yuvarlak bir cisim oluşturmak için").
+entry(globin, n, [globinler], "basit bir protein").
+entry(globoid, isim, [globoids], "bir küresoid").
+entry(küresel, adj, [], "spherical").
+entry(globous, sıf, [], "küresel").
+girdi(küresel, n, [küreseller], "yıldızların küresel bir kümesi").
+girdi(globule, i, [globuller], "küçük küresel kütle").
+girdi(globulin, i, [globulinler], "basit bir protein").
+entry(glochid, n, [glochids], "bazı bitkilerde dikenli bir tüy").
+entry(glogg, i, [gloggler], "alkollü bir içecek").
+entry(glom, v, [çalındı,çalan,çalıyor], "çalmak").
+girdi(glomus, i, [glomera], "bir tür damar topuzu").
+entry(glonoin, n, [glonoins], "nitrogliserin").
+girdi(kasvet, e, [kasvetlendi, kasvetleniyor, kasvetlenir], "kararmak").
+entry(gloomful, sıf, [], "kasvetli").
+entry(glooming, n, [gloomings], "akşam karanlığı").
+girdi(kasvetli, sıf, [], "DAHA KASVETLİ EN KASVETLİkasvetli karanlıkkenetKasvetlice zf").
+girdi(gloop, n, [gloops], "yapışkan malzeme").
+entry(gloopy, sıf, [], "GLOOPIER GLOOPIESTgloop'a benzeyen").
+entry(glop, v, [glopped,glopping,glops], "dağınık bir kütle veya karışım olan glop ile kaplamak").
+entry(gloppy, sıf, [], "GLOPPIER GLOPPIESTglop'a benzeyen").
+entry(gloria, n, [glorialar], "bir hale").
+entry(gururlandı, geçmiş, [], "gurur duymak kip").
+entry(zaferler, şimdiki zaman, [], "şan 3. tekil kişi").
+entry(yüceltmek, v, [yüceltti,yücelten,yüceltir], "onur veya övgü vermek").
+entry(ışık halkası, n, [ışık halkaları], "bir hale").
+girdi(muhteşem, sıf, [], "şahane").
+girdi(şan, v, [şanlandı,şanlanıyor,şanlar], "gururla sevinmek").
+entry(parlat, f, [parlattı, parlatmakta, parlatır], "parlak yapmak").
+girdi(glossa, n, [glossas], "veya GLOSSAE dil GLOSSAL sıf").
+girdi(sozluk, i, [sozlukler], "terimlerin ve tanimlarinin listesi").
+entry(glosseme, n, [glossemes], "anlamı işaret eden en küçük dilsel birim").
+girdi(parlatıcı, i, [parlatıcılar], "parlatan biri").
+entry(parlakların, pl, [], "parlak olan").
+entry(glossina, n, [glossinalar], "bir çeçe sineği").
+entry(parlak, sıf, [], "DAHA_PARLAK EN_PARLAKparlakPARLAKÇA adv").
+entry(parlak, n, [parlaklar], "bir tür fotoğraf").
+entry(glost, n, [glostlar], "cam gibi bir yüzeyle kaplanmış çömlekçilik").
+entry(glottis, n, [glottisler], "veya GLOTTİDESTÜMSES ARALIKSı GLOTTAL GLOTTİK sıf").
+entry(glout, v, [glouted,glouting,glouts], "kaş çatmak").
+girdi(eldiven, f, [eldivenli,eldivenleme,eldivenler], "elleri eldivenlerle donatmak").
+entry(torpido_gozu, i, [torpido_gozleri], "bir aracın gösterge panelinde küçük bir bölme").
+entry(glover, n, [eldivenciler], "eldiven yapan veya satan kimse").
+entry(parlamak, f, [parladı,parlayan,parlar], "ışık ve ısı yaymak").
+entry(glower, v, [glowered,glowering,glowers], "kaşlarını çatmak").
+entry(ateşböceği, i, [ateşböcekleri], "bir ateşböceği").
+entry(ateşböceği, n, [ateşböcekleri], "ışıklı bir böcek").
+entry(gloxinia, n, [gloxinias], "tropikal bir bitki").
+entry(gloze, f, [glozed,glozing,glozes], "geçiştirilerek açıklamak").
+girdi(glucagon, n, [glucagonlar], "bir hormon").
+giriş(glukan, n, [glukanlar], "bir glikoz polimeri").
+girdi(glucinum, n, [glucinums], "metalik bir elementGLUCINIC sıf").
+entry(glikoz, n, [glikozlar], "bir şekerGLİKOZİK sıfat").
+entry(glue, v, [], "TUTKAL TUTKALLAMA veya YAPIŞTIRMA TUTKAL diye bir yapışkan madde ile yapıştırmak").
+entry(yapıştırıcı gibi, sıf, [], "yapıştırıcıya benzeyen").
+entry(yapıştırıcı_tenceresi, n, [yapıştırıcı_tencereleri], "yapıştırıcıyı eritmek için bir tencere").
+entry(yapıştırıcı, n, [yapıştırıcılar], "yapıştıran biri").
+entry(gluey, adj, [gluhweins], "şarap baharatlarla tatlandırılmışGLUINESS n pl GLUINESSEStutkalımsılık haliGLUING present participle yapıştırmak fiil haliGLUM n pl GLUMSkeyifli olmayan haliGLUM adj GLUMMER GLUMMESTmoralsiz olmakGLUMLY advGLUME n pl GLUMESotçul bitkilerde bir braktGLUMNESS n pl GLUMNESSEShüzünlü olma haliGLUMPY adj GLUMPIER GLUMPIESTüzüntülüGLUMPILY advGLUNCH v GLUNCHED GLUNCHING GLUNCHEStaç gibi bakmakGLUON n pl GLUONShayali ağırlıksız parçacık kuarkları bağlayanGLUT v GLUTTED GLUTTING GLUTsa aşırı beslemek veya doldurmakGLUTCH v GLUTCHED GLUTCHING GLUTCHEShızla yutmakGLUTE n pl GLUTESbir gluteusGLUTEAL adj kalça kaslarıyla ilgiliGLUTEI pl of gluteusGLUTELIN n pl GLUTELINSher türden gevreklerde bulunan protein grubuGLUTEN n pl GLUTENStahıl unlarının yapışkan bileşeniGLUTENIN n pl GLUTENINStahıl unlarının ekmek hamuruna yapışkanlık katan proteiniGLUTEUS n pl GLUTEIbir kalça kasıGLUTTED geçmiş zaman hali glutGLUTTING geniş zaman zarfı glutGLUTTON n pl GLUTTONSaşırı yemek yiyen biriGLUTTONY n pl GLUTTONIEStaşırı yiyişGLYCAN n pl GLYCANSkarbonhidratGLYCEMIA n pl GLYCEMIAElektrikte glikoz varlığıGLYCEMIC adjGLYCERIN n pl GLYCERINSa gliserolGLYCERIC adjGLYCEROL n pl GLYCEROLŞurupsu alkolGLYCERYL n pl GLYCERYLSgliserolden türetilmiş kökGLYCIN n pl GLYCINStam ve fotograf şirkilerinde kullanılan bileşikGLYCINE n pl GLYCINESaminoasitGLYCOGEN n pl GLYCOGENSkarbonhidratGLYCOL n pl GLYCOLSalcoholGLYCOLIC adjGLYCONIC n pl GLYCONICShars tipindeki mısra satırlarıGLYCOSYL n pl GLYCOSYSat glikozdan türetilmiş kökGLYCYL n pl GLYCYLSgliserinden türetilmiş kökGLYPH n pl GLYPHSan dekore edilmiş oyukGLYPHIC adjGLYPTIC n pl GLYPTICŞablon üzerine oyma süreci).
+entry(ha, n, [has], "şaşkınlık sesi").
+entry(haaf, n, [haafs], "a deepsea fishing ground").
+entry(haar, n, [haars], "bir sis").
+girdi(habanera, i, [habaneras], "bir Küba dansı").
+entry(habanero, n, [biberler], "acı bir biber").
+entry(habdalah, n, [habdalalar], "bir Yahudi töreni").
+entry(habendum, n, [habendumlar], "mülkiyetin kapsamını sınırlayan tapu bölümü").
+entry(habile, sıf, [], "becerikli").
+entry(alışkanlık, v, [alıştı,alışıyor,alışkanlıklar], "giyinmek veya süslenmek").
+entry(habitan, n, [habitans], "bir Fransız yerleşimci").
+entry(habitant, n, [sakinler], "bir sakin").
+entry(yasama_alani, n, [yasama_alanlari], "bir organizmanin dogal ortami").
+entry(alışılagelmiş, sıf, [], "sıklıkla veya sürekli olarak meydana gelen").
+entry(alışkanlık, n, [alışkanlıklar], "alışılmış bir davranış şekli").
+entry(müdavim, n, [müdavimler], "sık gelen bir müşteri").
+entry(habitus, n, [habitus], "beden yapısı ve vücut yapısı").
+entry(haboob, n, [habooblar], "şiddetli bir kum fırtınası").
+entry(habu, n, [habular], "zehirli bir yılan").
+entry(hacek, i, [haceks], "üzerine yerleştirilen ve harfi değiştiren bir işaret").
+entry(tarama, f, [taranmış,tarlama,tarar], "harita üzerinde tarama yapmak").
+entry(hacienda, n, [haciendas], "bir malikane").
+entry(hack, v, [hacked, hacking, hacks], "kabaca kesmek veya doğramakHACKABLE sıf").
+entry(hackbut, n, [hackbuts], "bir tür silah").
+entry(hackee, n, [hackees], "bir sincap").
+entry(hacker, n, [hackerlar], "sızan kişi").
+entry(hackery, n, [hackeries], "sıkıcı özgün olmayan yazı").
+girdi(hackie, i, [hackies], "bir taksi şoförü").
+entry(hacking, n, [hackings], "zevk için at binme aktivitesi").
+entry(hackle, v, [kırçıllı, kırılma, kırçıllar], "kesmek").
+entry(hackler, n, [hacklers], "bir şeyi tarakla tarayan kişi").
+entry(hackly, sıf, [], "DAHA HACKLI EN HACKLIjagged").
+entry(hackman, n, [hackmen], "bir taksici").
+entry(hackney, f, [aşındırılmış,aşındırıyor,aşındırır], "yaygın hale getirmek").
+entry(kıltesteresi, v, [kıltesteresiyle_kesti,kıltesteresiyle_kesilmiş,kıltesteresiyle_kesme], "İnce dişli bir bıçağı olan bir testere kullanmak").
+entry(angaryos, n, [angaryolar], "formüle göre yapılan sanatsal çalışma").
+entry(had, a, [], "sahip olmanın geçmiş zamanı").
+entry(hadal, sıfat, [], "okyanusun derin kısımlarıyla ilgili").
+entry(hadarim, a, [], "heder çoğulu").
+entry(haddest, a, [], "sahip olan geçmiş zaman 2. tekil şahıs").
+entry(mezgit, i, [mezgitler], "bir yiyecek balığı").
+entry(hade, v, [haded,hading,hades], "meyletmek").
+entry(hadis, n, [hadis], "veya HADISSa Muhammed'in sözlerinin kaydı").
+entry(hac, isim, [haclar], "Mekke'ye bir hac").
+entry(hadjee, n, [hacılar], "hac").
+entry(hacı, n, [hacılar], "hacca gitmiş kişi").
+entry(hadron, i, [hadronlar], "bir temel parçacıkHADRONİK sıf").
+entry(hadst, a, [], "sahip olmanın geçmiş zaman 2. tekil şahıs").
+entry(hae, f, [haed,haen,haeing], "HAE sahip olmak").
+entry(hem, i, [hemler], "hem").
+entry(haemal, adj, [], "hemal").
+entry(haematal, sıf, [], "hemal").
+girdi(hematik, i, [hematikler], "hematik").
+entry(hematin, i, [hematins], "hematin").
+entry(haemic, sıf, [], "hemic").
+entry(haemin, n, [haeminler], "hemin").
+entry(haemoid, adj, [], "hemoid").
+girdi(haen, geçmiş, [], "hae'nin ortaç hali").
+entry(haeres, n, [haeredes], "mirasçı").
+entry(haet, n, [haets], "küçük bir miktar").
+entry(haffet, n, [haffets], "elmacık kemiği ve şakak").
+haffet(girdi, i, [haffetler], "haffit").
+entry(hafız, n, [hafızlar], "Kur'an'ı ezbere bilen bir Müslüman").
+entry(hafniyum, n, [hafniyumlar], "metal bir element").
+girdi(sap, f, [saplanmış,saplama,saplar], "sap eklemek").
+entry(haftara, n, [haftaralar], "veya HAFTAROT ya da HAFTAROTThaphtara").
+entry(haftarah, n, [haftarahs], "veya HAFTAROS veya HAFTAROT veya HAFTAROTHhaphtara").
+entry(hafter, n, [hafters], "kulp takan biri").
+entry(haftorah, n, [haftoralar], "veya HAFTOROT veya HAFTOROTHhaphtara").
+hag(giris, v, [hagged, hagging, hags], "kesmek").
+entry(hagadic, sıf, [], "haggadic").
+entry(hagadist, n, [hagadistler], "bir haggadik bilgin").
+girdi(taşçileği, i, [taşçilekleri], "küçük bir kiraz").
+entry(hagborn, sıf, [], "cadıdan doğmuş").
+entry(hagbush, i, [hagbushlar], "büyük bir ağaç").
+entry(hagbut, n, [hagbuts], "tüfek").
+entry(hagdon, i, [hagdons], "bir deniz kuşu").
+girdi(mığrı balığı, n, [mığrı balıkları], "yılan gibi bir balık").
+entry(haggada, n, [haggadalar,haggadotlar], "veya HAGGADOTHhaggadah").
+girdi(haggadah, n, [haggadahlar], "veya HAGGADOT veya HAGGADOTH bir İncil anlatısı HAGGADIC sıfat").
+entry(haggard, n, [haggards], "yetişkin bir şahin").
+entry(hagged, geçmiş, [], "hag fiilinin kip hali").
+entry(hagging, şimdiki zaman, [], "hag fiilinin ortaç hâli").
+entry(haggis, n, [haggisler], "koyunun iç organlarının doğranarak baharatlanıp bir torbada pişirildiği bir İskoç yemeği").
+giris(haggish, sıf, [], "cadıya benzeyen").
+girdi(pazarlık, f, [pazarlık_yaptı,pazarlık_yapıyor,pazarlık_yapar], "pazarlık yapmak").
+entry(pazarlıkçı, n, [pazarlıkçılar], "pazarlık yapan kişi").
+entry(pazarlık, n, [pazarlıklar], "bir fiyat üzerinde pazarlık yapma").
+entry(hagride, v, [hagrode,hagridden,hagriding], "HAGRIDES rahatsız etmek").
+entry(hagrider, i, [hagriders], "hagriden biri").
+girdi(hah, n, [hahs], "ha").
+entry(haha, n, [hahas], "bir hendekte yer alan çit").
+entry(hahnium, i, [hahniyumlar], "radyoaktif bir element").
+girdi(haick, i, [haicks], "haik").
+entry(haik, n, [haikler], "veya HAIKA, Araplar tarafından giyilen bir dış giysi").
+entry(haiku, i, [haikular], "bir Japon şiiri").
+entry(selamla, v, [selamladı, selamlıyor, selamlar], "hoş geldin demek").
+entry(hailer, n, [hailers], "birine seslenen").
+entry(haimish, sıf, [], "ev gibi gösterişsiz").
+entry(hayalet, n, [hayaletler], "bir hayalet").
+entry(saç, n, [saçlar], "ipliksi bir büyüme").
+entry(tüy_yumağı, n, [tüy_yumağı], "bir top yün").
+entry(toka, i, [tokalar], "bir saç bandı").
+entry(saçkapağı, n, [saçkapağı], "bir şapka").
+entry(saç_kesimi, n, [saç_kesimleri], "saç kesme").
+entry(saç modeli, n, [saç modelleri], "saçın şekillendirilme biçimi").
+entry(saçlı, sıf, [], "saçı olan").
+entry(toka, n, [tokalar], "saç tokası").
+girdi(daha_tüylü, karşılaştırmalı, [], "tüylü olan").
+entry(hairiest, en üstünlük, [], "kıllı olanın").
+giris(tirtiltiyla, zf, [], "tırtıklı bir şekilde").
+entry(kılsız, sıf, [], "kılı olmayan").
+entry(hairlike, sıf, [], "saça benzeyen").
+entry(saç çizgisi, i, [saç çizgileri], "çok ince bir çizgi").
+entry(saçtutamı, n, [saçtutamları], "bir saç tutamı").
+entry(saç filesi, i, [saç filesi], "saçı yerinde tutmak için giyilen bir file").
+entry(toka, i, [tokalar], "saç tokası").
+entry(saçkanat, n, [saçkanatlar], "saçla bağlanmış bir balık oltası").
+entry(hairwork, i, [saç işleri], "saçtan yapılan eşyaların yapımı").
+entry(hairworm, n, [kılkurtları], "parazit bir kurt").
+giriş(kıllı, sıf, [], "KIILLILER KIILLIESTkılla kaplı").
+entry(hac, n, [haclar], "hac").
+entry(hacı, i, [hacılar], "hacı").
+entry(hac, n, [haclar], "hac").
+entry(hacı, n, [hacılar], "hacı").
+entry(mezgit, n, [mezgitler], "deniz balığı").
+entry(hakeem, n, [hakeems], "hakim").
+entry(hakim, n, [hakimler], "bir Müslüman doktor").
+entry(haku, n, [hakus], "bir çiçek tacı").
+entry(halacha, n, [halahaleler], "veya HALACHOT veya HALACHOTH Talmud'un yasal kısmı HALAŞİK sıf").
+girdi(halakah, n, [halakahlar], "veya HALAKOTHhalachaHALAKIC sıf").
+entry(halakha, n, [halakhas], "veya HALAKHOT halacha HALAKHİK sıf").
+entry(halakhah, n, [halakhahs], "veya HALAKHOTH veya HALAKHOThalachaHALAKHİK sıf").
+entry(halakist, n, [halakistler], "bir halakik yazar").
+giris(halakoth, a, [], "halakah'nın çoğulu").
+entry(helal, n, [helaller], "İslami kurallara uygun olarak hazırlanan et").
+entry(halala, i, [halalalar], "Suudi Arabistan madeni parası").
+entry(halalah, n, [halalahlar], "halala").
+entry(halation, n, [bulutlanmalar], "fotoğraflarda ışık bulanıklığı").
+entry(halavah, n, [halavahlar], "helva").
+entry(halazone, n, [halazonlar], "içme suyu için bir dezenfektan").
+entry(kargı, n, [kargılar], "15. ve 16. yüzyıllara ait bir balta benzeri silah").
+entry(halbert, i, [halberts], "halberd").
+entry(halkon, i, [halkonlar], "efsanevi bir kuş").
+entry(hale, sıf, [], "HALER HALESTsağlıklı").
+entry(hale, f, [haled, haling, hales], "gitmeye zorlamak").
+entry(sağlık, n, [sağlıklar], "sağlıklı olma durumu").
+entry(haler, i, [halerler], "veya HALERUÇek Cumhuriyeti'nin bir madeni parası").
+entry(halest, en üstünlük derecesi, [], "sağlamın").
+entry(yarım, n, [yarımlar], "iki eşit parçadan biri").
+entry(yaribek, i, [yaribekler], "bir futbolcu").
+entry(halfbeak, n, [halfbeaks], "bir deniz balığı").
+entry(yarıömür, n, [yarıömürler], "radyasyon bozunmasının bir ölçüsü").
+entry(yarım olma, n, [yarım olmalar], "yarım olma durumu").
+entry(yarım boru, n, [yarım borular], "kaykay yapmak için kullanılan U şeklinde bir parkur").
+entry(devre_arası, n, [devre_araları], "bir futbol maçında ara").
+entry(halftone, n, [yarım tonlar], "açık ve koyu arasında bir gölge").
+entry(ortayol, sıf, [], "ortada olmak").
+entry(aptal, n, [aptallar], "akılsız veya aptal bir kişi").
+entry(pisi balığı, n, [pisi balıkları], "bir yassı balık").
+entry(halid, n, [halid'ler], "halit").
+entry(halid, n, [halidler], "bir kimyasal bileşik").
+entry(aziz, n, [azizler], "kutsal bir şey").
+entry(halidom, i, [halidomlar], "halidom").
+entry(halier, n, [haliers], "veya HALIEROVSlovakya'nın eski para birimi").
+entry(haling, şimdiki, [], "hale etmenin sıfat-fiili").
+entry(haliotis, n, [], "kulak şeklinde bir kabuğa sahip HALIOTIS bir yumuşakça").
+entry(halit, n, [halitler], "bir mineral").
+entry(halitus, i, [halituses], "bir soluk").
+entry(hol, n, [holler], "toplanma için büyük bir oda").
+entry(hallah, n, [hallahs], "veya HALLOTH veya HALLOTchallah").
+entry(hallal, sıf, [], "İslam hukukuna göre hazırlanmış").
+entry(hallel, n, [hallels], "övgü ilahisi").
+entry(halliard, n, [halliards], "yelken direği halatı").
+entry(damgalamak, f, [damgalandı, damgalıyor, damgalar], "resmi bir damga ile işaretlemek").
+entry(hallo, f, [halloed,halloing,hallos], "veya HALLOESto bağırmak").
+entry(halloa, f, [halloaed,halloaing,halloas], "seslenmek için").
+entry(selamla, v, [selamladı, selamlayan, selamlar], "selamlamak").
+girdi(hallot, a, [], "hallah'nın çoğulu").
+entry(halloth, a, [], "hallahların çoğulu").
+entry(hallow, v, [kutsandı,kutsanıyor,kutsar], "kutsal yapmak için").
+entry(hallower, n, [hallowers], "kutsayan biri").
+entry(halluks, i, [hallukslar], "büyük ayak parmağıHALLUKAL sıf").
+giriş(antre, n, [antreler], "bir koridor").
+entry(sap, n, [saplar], "sap").
+girdi(halma, i, [halmalar], "bir masa oyunu").
+entry(halo, v, [hale,halelenen,halolar], "ya da HALOElere halkayı ışıkla çevrelemek").
+entry(halojen, n, [halojenler], "ametalik bir element").
+girdi(haloid, n, [haloids], "kimyasal bir tuz").
+entry(halolike, sıf, [], "bir hale benzer").
+entry(halon, n, [halonlar], "karbon ve brom içeren bir bileşik").
+entry(durmak, v, [durdu,duruyor,durar], "durmak").
+entry(halter, f, [bağlandı, bağlanıyor, bağlar], "kısıtlama uygulamak").
+entry(haltere, n, [halteres], "bir böceğin kanat çifti").
+entry(haltless, sıfat, [], "tereddütsüz").
+entry(halutz, n, [halutzim], "bir İsrail çiftçisi").
+girdi(halva, n, [halvas], "helva").
+entry(helva, n, [helvalar], "Türk tatlısı").
+entry(yarıya_bölmek, f, [yarıya_bölündü, yarıya_bölme, yarıya_bölünür], "iki eşit parçaya bölmek").
+entry(halvers, n, [yarım paylar], "yarım hisseler").
+entry(halves, pl, [], "yarımın").
+entrada(yarılma, n, [yarılmalar], "her biri kalınlığının yarısını keserek keresteleri bir araya getirme eylemi").
+entry(halva, n, [halvalar], "tatlı bir Hint yemeği").
+entry(direk_halatı, n, [direk_halatları], "yelkeni kaldırmak için kullanılan bir halat").
+entry(jambon, f, [jambonladı,jambonlama,jambonlar], "fazla rol yapmak").
+entry(hamada, n, [hamadalar], "hammada").
+entry(hamal, i, [hamallar], "doğu ülkelerinde bir yük taşıyıcı").
+entry(hamartia, i, [hamartianın], "karakter kusuru").
+entry(hamate, n, [hamatlar], "bir bilek kemiği").
+entry(hamatsa, n, [hamatsalar], "insan yiyen bir canavarın ruhundan esinlenilen bir dans").
+girdi(hamaul, i, [hamaullar], "hamal").
+entry(hambone, f, [hamboned,hamboning,hambones], "abartılı oynamak").
+entry(hamburg, n, [hamburglar], "bir dana kıyma köftesi").
+entry(hame, i, [hames], "bir at koşumunun parçası").
+entry(hamfat, i, [hamfats], "amatör bir sanatçı").
+entry(hamlet, i, [kasabalar], "küçük bir kasaba").
+entry(hammad, i, [hammadalar], "temel kayadan oluşan bir çöl platosu").
+entry(hammal, n, [hammallar], "hamal").
+entry(hamam, n, [hamamlar], "bir Türk hamamı").
+girdi(hammed, geçmiş, [], "ham zaman").
+giriş(çekiç, f, [çakıldı,çakma,çakar], "tekrar tekrar vurmak").
+entry(çekiççi, i, [çekiççiler], "çekiçleyen biri").
+giris(hammier, karsilastirma, [], "hammy'nin").
+entry(hammiest, üstünlük, [], "hammy'nin").
+entry(hammily, adv, [], "abartılı bir şekilde").
+entry(hamming, mevcut, [], "ham fiilinin ortaç hali").
+entry(hamak, n, [hamaklar], "asılı yatak").
+entry(hammy, sıf, [], "AŞIRI TİYATRAL HAMMİER HAMMİEST").
+girdi(engelle, f, [engelledi, engelleme, engeller], "engellemek").
+entry(engelleyici, n, [engelleyiciler], "engelleyen bir şey veya kişi").
+entry(faremsi, i, [faremsiler], "yeraltında yaşayan bir kemirgen").
+entry(hamulus, n, [hamuli], "küçük bir kancaHAMULAR HAMULATE HAMULOSE HAMULOUS sf").
+entry(hamza, i, [hamzalar], "Arapça bir diksiyon işareti").
+entry(hamzah, n, [hamzalar], "hamza").
+entry(hanaper, n, [hanapers], "hasır bir kap").
+entry(hance, n, [hance'ler], "bir kemerin yanı").
+entry(el, v, [verdi, veriyor, verir], "ön kolun ucu olan elle sunmak").
+entry(handax, n, [el baltaları], "kısa saplı bir balta").
+entry(handbag, n, [çanta], "küçük bir taşıma çantası").
+girdi(hentbol, i, [hentbol topları], "küçük bir lastik top").
+entry(el çanı, n, [el çanları], "saplı küçük bir çan").
+entry(el_ilanı, n, [el_ilanları], "bir daire").
+entry(elkitabi, n, [elkitaplari], "bir kılavuz").
+entry(elarabası, n, [elarabaları], "elle çalıştırılan bir demiryolu aracı").
+entry(el_arabası, n, [el_arabaları], "elle itilen bir araba").
+entry(elçırpma, n, [elçırpmalar], "ellerin avuç içlerinin çarpışması").
+entry(kelepçe, v, [kelepçelendi, kelepçeleme, kelepçeler], "sınırlayıcı kelepçelerle bağlamak").
+girdi(elci, n, [elciler], "bir şeyleri veren").
+entry(handfast, v, [el hızması, el hızması yapıyor, el hızmaları], "güvenli bir şekilde kavramak").
+entry(avuç, n, [avuçlar], "veya AVUÇ DOLUSU elin tutabileceği kadar").
+entry(handgrip, n, [el tutacakları], "el veya eller ile tutuş").
+entry(tabanca, n, [tabancalar], "küçük bir ateşli silah").
+entry(elde_tutulan, n, [elde_tutulanlar], "elde tutulan bir şey").
+entry(el_tutacağı, n, [el_tutacakları], "bir el tutma yeri").
+entry(handikap, v, [engelli,engel olma,engeller], "engellemek").
+girdi(elverişli, karşılaştırmalı, [], "kullanışlı olanın").
+entry(handiest, superlative, [], "handy'nin").
+entry(kolayca, zf, [], "kolay bir şekilde").
+entry(handle, v, [eliyle dokunulan,eliyle dokunulma,eliyle dokunuyor], "elli dokunmak").
+giriş(eleAlıcı, n, [eleAlıcılar], "bir şeyi ele alan").
+entry(elssiz, adj, [], "elleri olmayan").
+entry(el benzeri, adj, [], "eli andıran").
+entry(elinesi, i, [elinesleri], "elle çalışılan bir oltayla").
+entry(muamele, n, [muameleler], "bir şeyin ele alınış biçimi").
+entry(handlist, n, [el listeleri], "referans listesi").
+entry(el tezgahı, n, [el tezgahları], "elle çalışan bir dokuma tezgahı").
+entry(el_yapımı, sıf, [], "elde yapılmış").
+entry(handmaid, n, [handmaids], "kadın hizmetçi").
+entry(handoff, n, [topdeğişimleri], "amerikan futbolunda bir oyun").
+entry(el_ilanı, n, [el_ilanları], "ücretsiz olarak dağıtılan bir şey").
+girdi(teslim, n, [teslimler], "kontrolü bırakma durumu").
+entry(el seçmek, f, [el seçti, el seçiyor, el seçer], "özenle seçmek").
+entry(korkuluk, n, [korkuluklar], "destek için kullanılan bir korkuluk").
+entry(handsaw, n, [elleriyle keser], "elle kullanılan bir testere").
+entry(handsel, v, [el verdi, el verirken, el verir], "veya EL VERİLEN EL VERİRKEN EL VERİMEK").
+entry(telefon, n, [telefonlar], "bir tür telefon").
+entry(handsewn, sıf, [], "elde dikilmiş").
+entry(handsful, a, [], "avuç dolusu çoğul").
+entry(yakışıklı, sıf, [], "DAHA YAKIŞIKLI EN YAKIŞIKLIçekici").
+entry(el işi, n, [el işleri], "fiziksel çaba").
+entry(elyazisi, sıfat, [], "elle yazılmış").
+entry(handy, sıfat, [], "DAHA ELVERİŞLİ EN ELVERİŞLİ taşıması uygun").
+entry(marangoz, n, [marangozlar], "tuhaf işleri yapan bir adam").
+entry(asmak, v, [asti, asiyor, asar], "sadece yukaridan asmak için HANGABLE sıf").
+giriş(hangar, f, [hangarladı, hangarlama, hangarlar], "uçağı bir barınakta yerleştirmek").
+entry(hangbird, n, [hangbirds], "bir tür kuş").
+entry(hangdog, n, [hangdogs], "sinsi bir kişi").
+entry(askı, n, [askılar], "asmak için kullanılan şey").
+entry(hangfire, n, [hangfires], "bir detonasyon gecikmesi").
+entry(asarak öldürme, n, [asarak öldürmeler], "asılı bir ilmik ile boğularak idam").
+entry(cellat, n, [], "bir cellat").
+entry(tırnak kenarı, n, [tırnak kenarları], "bir tırnak üstü").
+entry(hangnest, n, [hangnests], "bir asılı kuş").
+entry(takilma_yeri, n, [takilma_yerleri], "sik ziyaret edilen bir yer").
+entry(akşamdan kalmalık, n, [akşamdan kalmalar], "içki alemi sonrası fiziksel etkiler").
+entry(asma_etiketi, n, [asma_etiketleri], "ticari olarak kullanılan bir etiket türü").
+entry(hangıl, n, [], "Kore alfabe yazısı").
+entry(hangup, n, [hangups], "bir engelleme veya takıntı").
+entry(haniwa, npl, [], "Japon kil heykelleri").
+entry(hank, v, [hanked,hanking,hanks], "yelkeni sıkıştırmak").
+entry(hanker, v, [hankered,hankering,hankers], "arzulamak").
+entry(hankerer, n, [hankerers], "özleyen biri").
+entry(mendil, n, [mendiller], "mendil").
+entry(mendil, n, [mendiller], "bir mendil").
+entry(hansa, n, [hansalar], "hanse").
+entry(hanse, n, [hanses], "tüccarlar loncası").
+entry(hansel, v, [hanseledi, hanselleme, hanseller], "veya HANSELLED HANSELLİNG HANSELSto handsel").
+girdi(hansom, isim, [hansoms], "hafif bir araba").
+entry(hant, v, [hanted,hanting,hants], "ürkütmek").
+entry(hantle, n, [hantlelar], "büyük miktar").
+entry(hanuman, n, [hanumanlar], "bir Doğu Hint maymunu").
+entry(hao, n, [hao], "Vietnam'ın bir para birimi").
+entry(hap, v, [hapladi, haplıyor, haplar], "olmak").
+entry(hapax, n, [hapaxes], "yalnızca bir kez görünen bir kelime").
+entry(haphtara, n, [haphtaralar], "veya HAPHTAROT veya HAPHTAROTH birinci bölümü").
+entry(hapkido, n, [hapkidos], "bir Kore dövüş sanatı").
+entry(hapless, sıf, [], "şanssız").
+entry(haplite, n, [haplitler], "aplit").
+entry(haploid, n, [haploids], "sadece bir set kromozom bulunduran bir hücre").
+entry(haploidi, n, [haploidiler], "haploid olma durumu").
+entry(haplont, i, [haplontlar], "belirli bir kromozom yapısına sahip bir organizma").
+entry(haplopia, n, [haplopias], "normal görüş").
+entry(haplosis, n, [haploses], "kromozom sayısının yarıya inmesi").
+entry(haply, adv, [], "şans eseri").
+entry(happed, past, [], "hapin zamanı" ).
+girdi(olmak, f, [oldu,oluyor,olur], "meydana gelmek").
+entry(happi, n, [happis], "gevşek bir Japon ceketi").
+entry(happing, şu an, [], "hap'partisi").
+entry(mutlu, sıf, [], "DAHA MUTLU EN MUTLUsevinçle işaretlenmişMUTLUCA zf").
+entry(hapten, n, [haptens], "antijene benzer bir maddeHAPTENİK sıf").
+entry(hapten, i, [haptenler], "hapten").
+entry(dokunsal, sıf, [], "dokunma duyusuyla ilgili").
+entry(haptical, sıf, [], "haptic").
+entry(haram, sıf, [], "İslam hukukunca yasak").
+entry(azarlama, f, [azarladı, azarlıyor, azarlar], "birine azarlama konuşması yapmak").
+entry(taciz_etmek, v, [taciz_edildi,taciz_ediyor,taciz_eder], "sürekli rahatsız etmek").
+entry(tacizci, n, [tacizciler], "taciz eden biri").
+liman(giris, f, [barindirdi,barindiriyor,barindir], "barindirmak").
+entry(limanlar, n, [limancılar], "barındıran kişi").
+girdi(liman, f, [sığındı,sığınmak,limanlar], "sığınmak").
+entry(zor, sıf, [], "DAHA ZOR EN ZORsert ve ödün vermeyen").
+entry(ciltli, n, [ciltliler], "ciltli bir kitap").
+entry(beyzbol, n, [beyzbol_topları], "beyzbol").
+entry(hardbody, n, [kaslılar], "kaslı bir vücuda sahip çekici bir kişi").
+entry(hardboot, n, [hardboots], "bir atlı").
+entry(zoraki, e, [zoralıklar], "sert veya inatçı bir kişi").
+entry(hardcore, n, [taş dolgular], "temellerde kullanılan sert malzeme").
+entry(hardedge, n, [hardedges], "bir geometrik tablo").
+entry(sertleştirmek, v, [sertleşmiş, sertleşme, sertleşir], "sert yapmak").
+entry(sertleştirici, n, [sertleştiriciler], "sertleştiren biri").
+entry(hardhack, n, [hardhacks], "ağaçsı bir bitki").
+entry(baret, n, [baretler], "bir muhafazakâr").
+entry(hardhead, n, [hardheads], "pratik bir kişi").
+entry(hardier, kıyaslama, [], "of hardy").
+entry(hardies, pl, [], "dayanıklı olanın").
+entry(hardiest, üstünlük, [], "of hardy").
+entry(cesurca, adv, [], "cesur bir şekilde").
+entry(hardish, sıf, [], "biraz zor").
+entry(hardline, sıf, [], "boyun eğmez").
+entry(hardly, adv, [], "hemen hemen hiç").

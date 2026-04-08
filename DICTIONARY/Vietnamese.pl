@@ -11068,3 +11068,2357 @@ entry(fescue, n, [fescues], "một loại cỏ lâu năm").
 entry(fess, v, [fessed,fessing,fesses], "thú tội").
 entry(fesse, n, [fesses], "một dải ngang giữa tấm khiên huy hiệu").
 entry(fesswise, adv, [], "theo chiều ngang").
+entry(lễ hội, n, [lễ hội], "một cuộc tụ tập cho một hoạt động").
+entry(festa, n, [festas], "một lễ hội tôn giáo").
+entry(festal, adj, [], "festively adv").
+entry(fester, v, [festered, festering, festers], "sinh mủ").
+entry(lễ hội, n, [lễ hội], "một ngày hoặc thời gian của sự kiện kỷ niệm").
+entry(lễ hội, adj, [], "thuộc về hoặc phù hợp với một lễ hội").
+entry(festoon, v, [festooned,festooning,festoons], "treo các chuỗi hoặc dải trang trí lên").
+entry(fet, v, [fetted,fetting,fets], "đi lấy").
+entry(feta, n, [fetas], "một loại phô mai Hy Lạp").
+entry(bào_thai, adj, [], "thuộc về bào thai").
+entry(sự phát triển thai nhi, n, [sự phát triển thai nhi], "sự phát triển của bào thai").
+entry(fetch, v, [fetched,fetching,fetches], "đi tìm và mang về").
+entry(fetcher, n, [fetchers], "một người đi lấy").
+entry(fete, v, [feted,feting,fetes], "tổ chức lễ hội để vinh danh").
+entry(feterita, n, [feteritas], "một loại cỏ ngũ cốc").
+entry(fetial, n, [fetials], "một linh mục của La Mã cổ đại").
+entry(fetialis, n, [fetiales], "fetial").
+entry(fetich, n, [fetiches], "tín ngưỡng cuồng tín").
+entry(giết thai nhi, n, [giết thai nhi], "hành động giết một bào thai").
+entry(fetid, adj, [], "có mùi hôi khó chịuFETIDLY adv").
+entry(fetidity, n, [fetidities], "tình trạng hôi thối").
+entry(feting, present, [], "phân từ của fete").
+entry(fetish, n, [fetishes], "một vật được tin là có quyền năng ma thuật").
+entry(fetlock, n, [fetlocks], "khớp của chân ngựa").
+entry(fetology, n, [fetologies], "ngành y học liên quan đến thai nhi").
+entry(fetor, n, [fetors], "mùi hôi thối").
+entry(fetted, past, [], "thì của fet").
+nhập(fetter, v, [fettered,fettering,fetters], "để cùm").
+entry(fetterer, n, [fetterers], "một người trói buộc").
+entry(fetting, hiện_tại, [], "phân từ của fet").
+entry(fettle, v, [fettled,fettling,fettles], "để phủ lò sưởi bằng vật liệu chịu lửa").
+entry(thợ_sửa, n, [thợ_sửa], "một người sửa chữa").
+entry(fettling, n, [fettlings], "vật liệu rời rạc được ném lên lò của một lò nung để bảo vệ nó").
+entry(bào_thai, n, [bào_thai], "sinh vật chưa sinh được mang trong tử cung ở giai đoạn phát triển sau này").
+entry(feu, v, [feued,feuing,feus], "cấp đất theo luật phong kiến Scotland").
+entry(feuar, n, [feuars], "một người được cấp đất theo luật phong kiến Scotland").
+entry(thù hận, v, [đã thù hận, đang thù hận, thù hận], "tham gia vào một cuộc thù hận, một sự thù địch liên tục cay đắng").
+entry(phong_kiến, adj, [], "liên quan đến một hệ thống chính trị và kinh tế của châu Âu thời trung cổFEUDALLY adv").
+entry(chư hầu, n, [chư hầu], "một người hầu").
+entry(feudist, n, [feudists], "một người có mối thù hận").
+entry(sốt, v, [sốt cao, sốt nhiều, sốt], "bị ảnh hưởng bởi sốt đặc biệt là sự tăng nhiệt độ cơ thể bất thường").
+entry(cúc ngải, n, [cúc ngải], "một loại thảo mộc lâu năm").
+entry(sốt, adj, [], "có sốt").
+entry(feverous, adj, [], "sốt").
+entry(few, adj, [], "ÍT HƠN ÍT NHẤT bao gồm hoặc cấu thành nên một số lượng nhỏ").
+entry(fewness, n, [fewnesses], "trạng thái của sự ít ỏi").
+entry(fewtrils, npl, [], "những thứ không có giá trị").
+entry(fey, adj, [], "FEYER FEYESTcrazyFEYLY adv").
+entry(feyness, n, [feynesses], "tình trạng của việc là fey").
+entry(fez, n, [fezes], "hoặc FEZZES, một loại mũ không vành được nam giới ở Cận Đông đội FEZZED FEZZY adj").
+entry(fiacre, n, [fiacres], "một loại xe ngựa nhỏ").
+entry(hôn phu, n, [hôn phu], "một người đàn ông đã đính hôn để kết hôn").
+entry(vị_hôn_thê, n, [vị_hôn_thê], "một người phụ nữ đã đính hôn để kết hôn").
+entry(fiar, n, [fiars], "người nắm giữ quyền sở hữu tuyệt đối về đất đai theo luật pháp Scotland").
+entry(fiasco, n, [fiascoes], "hoặc FIASCHI một chai rượu").
+entry(fiasco, n, [fiascos], "hoặc FIASCOESa thất bại hoàn toàn").
+entry(fiat, n, [fiats], "một mệnh lệnh có thẩm quyền").
+entry(fib, v, [fibbed,fibbing,fibs], "nói một lời nói dối nhỏ nhặt").
+entry(fibber, n, [fibbers], "một người bịa chuyện").
+entry(fiber, n, [sợi], "một vật thể hoặc cấu trúc giống như sợiFIBERED adj").
+entry(fiberize, v, [fiberized,fiberizing,fiberizes], "phân tách thành sợi").
+entry(fibranne, n, [fibrannes], "một loại vải làm từ sợi rayon sợi quay").
+entry(fibre, n, [sợi], "fiberFIBRED adj").
+entry(tơ sợi nhỏ, n, [các tơ sợi nhỏ], "một sợi nhỏ").
+entry(fibrilla, n, [fibrillae], "một sợi fibrin").
+entry(fibrin, n, [fibrin], "một loại protein không hòa tan").
+entry(fibroid, n, [u xơ], "một loại u xơ").
+entry(fibroin, n, [fibroins], "một loại protein không tan").
+entry(fibroma, n, [u xơ], "hoặc U XƠ là một khối u lành tính gồm các mô sợi").
+entry(xơ hóa, n, [xơ hóa], "sự phát triển dư thừa của mô xơ trong một cơ quan cơ thểXƠ adj").
+entry(sợi, adj, [], "chứa đựng, bao gồm hoặc giống sợi").
+entry(fibster, n, [fibsters], "một người nói dối").
+mục(fibula, n, [fibulas], "hoặc FIBULAE một xương của chân FIBULAR adj").
+entry(fice, n, [fices], "một chú chó săn").
+entry(fiche, n, [fiches], "một tờ vi phim").
+entry(fichu, n, [fichus], "khăn quàng của phụ nữ").
+entry(ficin, n, [ficins], "một enzyme").
+entry(fickle, adj, [], "FICKLER FICKLESTkhông nhất quán hoặc trung thànhFICKLY adv").
+entry(fico, n, [ficoes], "thứ vô giá trị").
+entry(fictile, adj, [], "có thể uốn nắn").
+entry(hư_cấu, n, [tác_phẩm_hư_cấu], "một tác phẩm văn học có nội dung được sáng tạo từ trí tưởng tượng").
+entry(hư_cấu, adj, [], "tưởng_tượng").
+entry(cây_si, n, [cây_si], "một loại cây nhiệt đới").
+entry(fid, n, [fids], "thanh vuông dùng để đỡ cột buồm trên").
+entry(fiddle, v, [fiddled,fiddling,fiddles], "chơi đàn vĩ cầm").
+entry(fiddler, n, [người_chơi_đàn_violon], "người chơi đàn violon").
+entry(fiddling, n, [fiddlings], "hành động chơi vĩ cầm").
+entry(fiddly, adj, [], "PHỨC TẠP KHÓ XỬ LÝ HƠN KHÓ XỬ LÝ NHẤT").
+entry(tin gồm, n, [tin gồm], "sự dựa vào đức tin thay vì lý trí").
+entry(fideist, n, [fideists], "người tin vào chủ nghĩa tin vào đức tin").
+entry(trung_thành, n, [trung_thành], "loyalty").
+entry(fidge, v, [fidged,fidging,fidges], "để bồn chồn").
+entry(fidget, v, [fidgeted,fidgeting,fidgets], "di chuyển một cách lo lắng hoặc không yên").
+entry(fidgeter, n, [fidgeters], "người hay cựa quậy").
+entry(fidgety, adj, [], "bồn chồn lo lắng").
+entry(fidging, present, [], "phân từ của fidge").
+entry(fido, n, [fidos], "một đồng xu bị lỗi").
+entry(fiducial, adj, [], "dựa trên niềm tin hoặc sự tin tưởng").
+entry(fie, interj, [], "được dùng để thể hiện sự không tán thành").
+entry(fief, n, [fiefs], "một điền trang phong kiến").
+entry(lãnh địa, n, [lãnh_địa], "một lãnh địa").
+entry(field, v, [fielded,fielding,fields], "chơi ở vị trí hậu vệ").
+entry(fielder, n, [fielders], "người bắt hoặc nhặt bóng trong cuộc chơi").
+entry(yêu quái, n, [yêu quái], "một con quỷ").
+entry(fiendish, adj, [], "cực kỳ độc ác hoặc tàn ác").
+entry(fierce, adj, [], "FIERCER FIERCESTmột cách thù địch hoặc hung hăng dữ dộiFIERCELY adv").
+entry(fiery, adj, [], "NÓNG BỎNG NHẤT NÓNG BỎNG HƠNNóng bỏng dữ dộiNÓNG BỎNG adv").
+entry(fiesta, n, [fiestas], "một lễ hội").
+entry(fife, v, [fifed,fifing,fifes], "thổi sáo nhỏ có tông cao").
+entry(fifer, n, [fifers], "một người thổi sáo").
+entry(mười_lăm, n, [mười_lăm_s], "một con số").
+entry(thứ_năm, n, [thứ_năm], "một trong năm phần bằng nhau").
+entry(fifthly, adv, [], "ở vị trí thứ năm").
+entry(fiftieth, n, [fiftieths], "một trong năm mươi phần bằng nhau").
+entry(fifty, n, [những năm 50], "một con số").
+entry(ngũ tuần, adj, [], "khoảng năm mươi tuổi").
+entry(fig, v, [figged,figging,figs], "trang trí").
+entry(figeater, n, [figeaters], "một loài bọ cánh cứng lớn").
+entry(chiến đấu, v, [đã chiến đấu, đang chiến đấu, chiến đấu], "cố gắng đánh bại một đối thủ").
+entry(fighter, n, [những chiến binh], "một người chiến đấu").
+mục(entry, n, [fightings], "hành động của người chiến đấu").
+entry(figment, n, [figments], "một sản phẩm của sự tưởng tượng trong tâm trí").
+entry(figtree, n, [figtrees], "một cây có quả sung ngọt mềm và tối màu").
+entry(figuline, n, [figulines], "một mảnh gốm").
+entry(figural, adj, [], "bao gồm hình dạng người hoặc động vật").
+entry(figurant, n, [những vũ công nhóm], "một vũ công ba lê chỉ múa theo nhóm").
+entry(figurate, adj, [], "có hình dạng xác định").
+entry(figure, v, [figured,figuring,figures], "tính toán").
+entry(figurer, n, [figurers], "một người tính toán").
+entry(figurine, n, [tượng nhỏ], "một bức tượng nhỏ").
+entry(figwort, n, [figworts], "một loại cây có hoa").
+entry(fil, n, [fils], "một đồng tiền của Iraq và Jordan").
+entry(fila, pl, [], "of filum").
+entry(filagree, v, [filagreed,filagreeing,filagrees], "tạo hoa văn tinh xảo").
+entry(sợi, n, [sợi mỏng], "một cấu trúc rất mỏng giống như sợi chỉ").
+entry(filar, adj, [], "liên quan đến một sợi chỉ").
+entry(filaree, n, [filarees], "một loại cỏ dại châu Âu").
+entry(filaria, n, [filariae], "một loại giun ký sinhFILARIAL FILARIAN adj").
+entry(filariid, n, [filariids], "filaria").
+entry(filature, n, [filatures], "quá trình kéo tơ từ kén").
+entry(filbert, n, [hạt phỉ], "hạt ăn được của một cây bụi châu Âu").
+entry(filch, v, [filched,filching,filches], "ăn cắp").
+entry(filcher, n, [filchers], "người ăn trộm").
+mục(tập tin, v, [đã sắp xếp, đang sắp xếp, các tập tin], "sắp xếp theo thứ tự để tham khảo sau nàyFILEABLE adj").
+entry(cá bò giấy, n, [cá bò giấy], "một loại cá biển").
+entry(filemot, adj, [], "có màu vàng nâu").
+entry(tên_tệp, n, [tên_tệp], "tên của một tệp máy tính").
+entry(filer, n, [bộ_hồ_sơ], "một cái nộp hồ sơ").
+entry(filet, v, [fileted,fileting,filets], "lọc thịt").
+entry(filial, adj, [], "liên quan đến con trai hoặc con gáiFILIALLY adv").
+entry(filiate, v, [filiated,filiating,filiates], "kết hợp chặt chẽ").
+entry(filibeg, n, [filibegs], "một loại váy xếp li được mặc bởi người Scotland vùng Highland").
+entry(con giết cha mẹ, n, [giết cha mẹ], "việc giết con của một người").
+entry(filiform, adj, [], "có hình dạng như một sợi chỉ").
+entry(filigree, v, [filigreed,filigreeing,filigrees], "trang trí với công việc trang trí phức tạp").
+entry(filing, n, [filings], "một hạt bị loại bỏ bằng cách giũa").
+entry(filister, n, [filisters], "một rãnh trên khung cửa sổ").
+entry(filk, n, [filks], "một loại nhạc phổ biến chế nhạo các bài hát dân ca").
+entry(fill, v, [đầy, đang làm đầy, lấp đầy], "đổ hoặc đặt vào nhiều nhất có thể HOLDABLE adj").
+entry(fille, n, [filles], "một cô gái").
+entry(filler, n, [fillers], "một cái lấp đầy").
+entry(fillet, v, [filleted,filleting,fillets], "cắt miếng không xương từ").
+entry(filleter, n, [filleters], "một người phi lê").
+entry(fillies, pl, [], "của ngựa cái").
+entry(filling, n, [fillings], "thứ được sử dụng để làm đầy một cái gì đó").
+entry(fillip, v, [filliped,filliping,fillips], "đánh mạnh").
+entry(fillo, n, [fillos], "phyllo").
+entry(filly, n, [fillies], "một con ngựa cái non").
+entry(film, v, [quay phim, đang quay phim, các bộ phim], "để thực hiện một bộ phimFILMABLE adj").
+entry(filmcard, n, [filmcards], "một phiếu phim").
+entry(filmdom, n, [filmdoms], "ngành công nghiệp điện ảnh").
+entry(filmer, n, [filmers], "một người quay phim").
+entry(filmfest, n, [filmfests], "một lễ hội mà tại đó nhiều bộ phim được chiếu").
+entry(người_xem_phim, n, [những_người_xem_phim], "người đi xem phim điện ảnh").
+entry(filmi, n, [filmis], "nhạc được sáng tác cho phim Ấn Độ").
+entry(filmic, adj, [], "thuộc về phim chuyển động").
+entry(filmier, so_sánh_hơn, [], "của filmy").
+entry(filmiest, superlative, [], "của filmy").
+entry(filmily, adv, [], "một cách mờ ảo").
+entry(filmland, n, [filmlands], "thế giới điện ảnh").
+entry(filmless, adj, [], "không có phim").
+entry(giống_phim, adj, [], "giống như phim").
+entry(filmset, v, [filmset,phông cảnh phim,bộ phim], "to photoset").
+entry(filmy, adj, [], "GIỐNG NHƯ PHIM HOẶC CHE PHỦ BỞI PHIM MỜ ẢO NHẤT").
+entry(filo, n, [filos], "bánh phyllo").
+entry(filose, adj, [], "giống như sợi chỉ").
+entry(filter, v, [đã_lọc,lọc,lọc_bỏ], "đi qua một bộ lọc, một thiết bị để loại bỏ các vật thể lơ lửng").
+entry(filterer, n, [bộ_lọc], "một cái lọc").
+entry(bẩn, n, [bẩn thỉu], "vật chất bẩn hoặc dơ dáy").
+entry(dơ bẩn, adj, [], "DƠ BẨN HƠN DƠ BẨN NHẤTbẩn thỉu một cách xúc phạmDƠ BẨN adv").
+entry(lọc, v, [đã_lọc, đang_lọc, lọc], "để lọc").
+entry(filum, n, [fila], "một cấu trúc giải phẫu giống như sợi chỉ").
+entry(fimble, n, [fimbles], "cây gai dầu đực").
+entry(fimbria, n, [fimbriae], "một cấu trúc dạng viền hoặc dạng sợi viền FIMBRIAL adj").
+entry(fin, v, [finned,finning,fins], "trang bị vây cấu trúc dạng mái chèo bên ngoài").
+entry(finable, adj, [], "có thể bị phạt tiền").
+entry(finagle, v, [finagled,finagling,finagles], "để đạt được bằng cách lừa gạt").
+entry(finagler, n, [finaglers], "người sắp xếp điều gì đó một cách lén lút").
+entry(cuối cùng, n, [cuối khóa], "kỳ thi cuối cùng của một khóa học học thuật").
+entry(finale, n, [chung_kết], "một sự kết thúc hoặc chấm dứt của một thứ gì đó").
+entry(finalis, n, [finales], "một loại âm điệu trong âm nhạc thời trung cổ").
+entry(finalise, v, [finalised,finalising,finalises], "kết thúc").
+entry(finalism, n, [finalisms], "học thuyết cho rằng tất cả các sự kiện được xác định bởi những mục đích cuối cùng").
+entry(chung_ket, n, [chung_ket], "một thí sinh đạt đến phần cuối của một cuộc thi").
+entry(finality, n, [tính chất kết thúc], "trạng thái mang tính kết luận").
+entry(finalize, v, [finalized,finalizing,finalizes], "đưa vào hình thức hoàn thiện").
+entry(finally, adv, [], "cuối cùng").
+entry(tài_chính, v, [đã_tài_trợ,đang_tài_trợ,nguồn_tài_chính], "cung cấp tiền cho").
+entry(finback, n, [finbacks], "cá voi mõm khoằm").
+entry(finca, n, [fincas], "một điền trang ở châu Mỹ Latinh nói tiếng Tây Ban Nha").
+mục(finch, n, [finches], "một loài chim nhỏ").
+entry(find, v, [found,finding,finds], "tìm thấy sau khi tìm kiếmFINDABLE adj").
+entry(finder, n, [finders], "người tìm kiếm").
+entry(finding, n, [phát_hiện], "một cái gì đó được tìm thấy").
+entry(fine, adj, [], "FINER FINESTexcellent").
+entry(fine, v, [fined,fining,fines], "phạt tiền").
+entry(fineable, adj, [], "finable").
+entry(finely, adv, [], "một cách tinh tế").
+entry(sự_tinh_tế, n, [sự_tinh_tế], "chất lượng của việc tinh tế").
+entry(finer, so sánh hơn, [], "của fine").
+entry(finery, n, [fineries], "trang trí công phu").
+entry(finespun, adj, [], "phát triển với sự chăm sóc cực kỳ").
+entry(finesse, v, [finessed,finessing,finesses], "thực hiện bằng cách xử lý khéo léo").
+entry(finest, n, [finests], "cảnh sát của một thành phố được chỉ định").
+entry(cá, n, [các_loài_cá], "một loại cá thực sự").
+entry(finfoot, n, [finfoots], "một loài chim sống dưới nước").
+entry(finger, v, [fingered,fingering,fingers], "chạm vào bằng ngón tay, những phần cuối của bàn tay").
+entry(fingerer, n, [fingerers], "một người chỉ điểm").
+entry(finial, n, [finials], "đồ trang trí đỉnhFINIALED adj").
+entry(finical, adj, [], "cầu kỳ").
+entry(finickin, adj, [], "cầu kỳ").
+entry(finicky, adj, [], "KHÓ TÍNH HƠN KHÓ TÍNH NHẤTdễ không hài lòng").
+entry(finikin, adj, [], "kén chọn").
+entry(finiking, adj, [], "kén chọn").
+entry(fining, n, [finings], "làm trong rượu vang").
+entry(finis, n, [finises], "kết thúc").
+entry(finish, v, [đã hoàn thành,đang hoàn thành,hoàn thành], "để kết thúc").
+entry(finisher, n, [finishers], "một người hoặc vật kết thúc").
+entry(finite, n, [finites], "một thứ gì đó là hữu hạn có giới hạn xác định").
+entry(finitely, adv, [], "ở mức độ hữu hạn").
+entry(finitism, n, [finitisms], "niềm tin rằng một thực thể cụ thể là hữu hạn").
+entry(finitist, n, [finitists], "người ủng hộ chủ nghĩa hữu hạn").
+entry(finito, adj, [], "hoàn thành").
+entry(hữu_hạn, n, [hữu_hạn], "trạng thái của việc hữu hạn").
+entry(fink, v, [finked,finking,finks], "thông báo cho cảnh sát").
+entry(finless, adj, [], "không có vây").
+entry(finlike, adj, [], "giống vây cá").
+entry(finmark, n, [finmarks], "một đơn vị tiền tệ cũ của Phần Lan").
+entry(finnan, n, [finnans], "cá haddock hun khói").
+entry(finned, past, [], "thì của fin").
+entry(finnicky, adj, [], "KỸ TÍNH HƠN KỸ TÍNH NHẤTkỹ tính").
+entry(finnier, so_sánh_hơn, [], "of finny").
+entry(finniest, so_sánh_bậc_nhất, [], "của finny").
+entry(finning, present, [], "phân từ của fin").
+entry(finnmark, n, [finnmarks], "finmark").
+entry(finny, adj, [], "CÓ VÂY HƠN CÓ VÂY NHẤT có hoặc được đặc trưng bởi vây").
+entry(fino, n, [finos], "một loại rượu sherry rất khô").
+entry(finochio, n, [finochios], "một loại cây thảo lâu năm").
+entry(fiord, n, [fiords], "vịnh hẹp").
+entry(fipple, n, [fipples], "một nút gỗ ở miệng của một số nhạc cụ hơi").
+entry(fique, n, [fiques], "một loại cây nhiệt đới").
+entry(fir, n, [firs], "một loại cây thường xanh").
+entry(fire, v, [bắn, đang bắn, bắn], "bắn ra hoặc phóng ra từ một khẩu súngKHẢ NĂNG BẮN adj").
+entry(súng, n, [súng], "một loại vũ khí bắn đạn bằng thuốc súng").
+entry(fireback, n, [firebacks], "một tấm sắt đúc dọc theo mặt sau của lò sưởi").
+entry(cầu_lửa, n, [cầu_lửa], "một thiên thạch phát sáng").
+mục(firebase, n, [firebases], "một căn cứ quân sự từ đó hỏa lực được chỉ đạo chống lại kẻ thù").
+entry(chim_lửa, n, [chim_lửas], "một loài chim có màu sắc rực rỡ").
+entry(tàu chữa cháy, n, [tàu chữa cháy], "một chiếc thuyền được trang bị thiết bị chữa cháy").
+entry(firebomb, v, [firebombed,firebombing,firebombs], "tấn công bằng bom cháy").
+entry(firebox, n, [fireboxes], "một buồng để đốt nhiên liệu").
+entry(firebrat, n, [firebrats], "một loại côn trùng nhỏ không có cánh").
+entry(firebug, n, [firebugs], "một kẻ đốt phá").
+entry(fireclay, n, [fireclays], "một loại đất sét chịu nhiệt").
+entry(bị sa thải, quá khứ, [], "thì của sa thải").
+entry(hơi khí cháy, n, [hơi khí cháys], "một loại khí dễ cháy").
+entry(firedog, n, [firedogs], "một loại giá kê củi").
+entry(firefang, v, [firefanged,firefanging,firefangs], "phân hủy bằng cách oxy hóa").
+entry(đom_đóm, n, [đom_đóms], "một loài côn trùng phát sáng").
+entry(trạm_cứu_hỏa, n, [các_trạm_cứu_hỏa], "một trạm cứu hỏa").
+mục(lính cứu hỏa, n, [các ống cứu hỏa], "một loại ống được sử dụng bởi lính cứu hỏa").
+entry(fireless, adj, [], "không có lửa").
+entry(firelit, adj, [], "được thắp sáng bởi ánh lửa").
+entry(khoá_lửa, n, [khoá_lửa], "một loại súng").
+entry(lính cứu hỏa, n, [những người lính cứu hỏa], "một người đàn ông được thuê để dập tắt đám cháy").
+entry(firepan, n, [firepans], "một cái chảo mở để giữ than hồng").
+entry(firepink, n, [firepinks], "một loài thực vật có hoa").
+entry(firepit, n, [firepits], "một hố được đào dưới đất để đốt lửa").
+entry(vòi cứu hỏa, n, [các vòi cứu hỏa], "một trụ nước cứu hỏa").
+entry(firepot, n, [firepots], "một cái nồi đất sét chứa các vật đang cháy").
+entry(firer, n, [firers], "một người bắn").
+entry(xe_chữa_cháy, n, [xe_chữa_cháy], "một xe cứu hỏa").
+entry(phòng_lò, n, [các_phòng_lò], "một căn phòng chứa nồi hơi của tàu").
+entry(fireship, n, [tàu lửa], "một con tàu đang cháy được gửi vào giữa các con tàu của kẻ thù").
+entry(lò_sưởi, n, [lò_sưởi], "khu vực ngay quanh lò sưởi").
+entry(bẫy_lửa, n, [bẫy_lửa], "một tòa nhà có khả năng bị cháy").
+entry(tường_lửa, n, [các_tường_lửa], "một thành phần máy tính ngăn chặn truy cập trái phép vào dữ liệu").
+entry(fireweed, n, [fireweeds], "một loại thảo mộc lâu năm").
+entry(củi, n, [củi], "gỗ dùng làm nhiên liệu").
+entry(pháo hoa, n, [pháo hoa], "một thiết bị để tạo ra màn trình diễn ánh sáng ấn tượng hoặc tiếng ồn lớn").
+entry(fireworm, n, [fireworms], "một con đom đóm").
+entry(bắn, n, [bắn], "quá trình làm chín sản phẩm gốm bằng nhiệt").
+entry(firkin, n, [firkins], "một đơn vị thể tích của Anh").
+entry(firm, adj, [], "CỨNG CÁP KHÔNG NHƯỜNG NHỊN Đối với áp lực").
+entry(firm, v, [firmed,firming,firms], "làm cho chắc chắn").
+entry(firman, n, [firmans], "một sắc lệnh được ban hành bởi một vị quân chủ Trung Đông").
+entry(firmer, n, [firmers], "một công cụ làm mộc").
+entry(chắc chắn, adv, [], "một cách chắc chắn").
+entry(độ_cứng, n, [độ_cứng], "trạng thái của sự rắn chắc").
+entry(firmware, n, [firmwares], "các chương trình máy tính được lưu trữ vĩnh viễn trên vi mạch").
+entry(firn, n, [firns], "neve").
+entry(firry, adj, [], "NHIỀU CÂY THÔNG NHẤT nhiều cây thông").
+entry(first, n, [thứ_nhất], "một cái gì đó đứng trước tất cả những cái khác").
+entry(firstly, adv, [], "trước hết tất cả những cái khác").
+entry(firth, n, [firths], "một cửa biển").
+entry(fisc, n, [fiscs], "kho bạc nhà nước hoặc hoàng gia").
+entry(fiscal, n, [fiscals], "một công tố viên công").
+entry(fiscally, adv, [], "liên quan đến các vấn đề tài chính").
+entry(cá, v, [đã_câu,câu_cá_đang_diễn_ra,nhiều_con_cá], "bắt hoặc cố gắng bắt cá động vật có xương sống máu lạnh sống dưới nước").
+entry(fishable, adj, [], "thích hợp để câu cá").
+entry(thuyền cá, n, [thuyền cá], "một phương tiện di chuyển trên nước dùng để đánh bắt cá").
+entry(fishbolt, n, [fishbolts], "một loại bu lông").
+entry(fishbone, n, [fishbones], "một cái xương của cá").
+entry(bể cá, n, [bể cá], "một cái bát mà cá sống được giữ trong đó").
+entry(fisher, n, [ngư dân], "một người đánh bắt cá").
+entry(nghề_cá, n, [nghề_cá], "nơi đánh bắt cá").
+entry(fisheye, n, [fisheyes], "một cái nhìn đầy nghi ngờ").
+entry(fishgig, n, [fishgigs], "một dụng cụ có chĩa để xiên cá").
+entry(lưỡi_câu, n, [lưỡi_câu], "một loại móc có ngạnh dùng để bắt cá").
+entry(fishier, so sánh, [], "của fishy").
+entry(fishiest, superlative, [], "của fishy").
+entry(fishily, adv, [], "một cách nham hiểm").
+entry(câu cá, n, [các cuộc câu cá], "nghề nghiệp hoặc sở thích đánh bắt cá").
+entry(fishkill, n, [fishkills], "sự phá hủy đột ngột của số lượng lớn cá").
+entry(fishless, adj, [], "không có cá").
+entry(fishlike, adj, [], "giống như một con cá").
+entry(fishline, n, [dây câu cá], "một loại dây dùng trong việc câu cá").
+entry(bột cá, n, [bột cá], "cá khô xay").
+entry(fishnet, n, [mạng lưới đánh cá], "một cái lưới để bắt cá").
+entry(cần câu, n, [cần câu], "một cái cần câu").
+entry(ao_ca, n, [các_ao_ca], "một cái ao đầy cá ăn được").
+entry(vẫyđuôi, v, [vẫyđuôiđược,đangvẫyđuôi,vẫyđuôi], "có phần đuôi của một phương tiện di chuyển trượt từ bên này sang bên kia").
+entry(cửa_cá, n, [cửa_cá], "một thiết bị giúp cá vượt đập").
+mục(người_bán_cá, n, [những_người_bán_cá], "một người phụ nữ bán cá").
+entry(fishworm, n, [fishworms], "một loại giun được dùng làm mồi câu").
+entry(fishy, adj, [], "CÓ NHIỀU CÁ NHẤT CÓ MÙI CÁ HOẶC GIỐNG CÁ").
+entry(fissate, adj, [], "chẻ sâu").
+entry(fissile, adj, [], "có khả năng bị tách ra").
+entry(phân_hạch, v, [đã_phân_hạch,đang_phân_hạch,phân_hạch], "chia thành các phần").
+entry(fissiped, n, [fissipeds], "một loài động vật có vú có ngón chân tách rời").
+entry(fissural, adj, [], "thuộc về một khe hẹp và dài").
+entry(nứt, v, [nứt_nẻ, đang_nứt, các_vết_nứt], "để tách ra").
+entry(fist, v, [fisted,fisting,fists], "đánh bằng nắm tay khép chặt").
+entry(nắm_tay, n, [nắm_tay], "một nắm tay").
+entry(fistic, adj, [], "thuộc về quyền anh").
+entry(fistnote, n, [fistnotes], "một phần của văn bản được chú ý đến bằng các chỉ mục").
+entry(fistula, n, [fistulas], "hoặc FISTULAEmột ống dẫn hình thành do vết thương không đóng kín hoàn toànFISTULAR adj").
+entry(vừa_vặn, adj, [], "FITTER FITTESThealthy").
+mục(phù_hợp, v, [phù_hợp_đã, phù_hợp_đang, phù_hợp], "để đưa vào một dạng và kích cỡ yêu cầu").
+entry(fitch, n, [fitches], "một con chồn hôi").
+entry(fitchee, adj, [], "fitchy").
+entry(fitchet, n, [fitchets], "một con chồn").
+entry(fitchew, n, [fitchews], "một con chồn hôi").
+entry(fitchy, adj, [], "có các cánh tay kết thúc bằng một điểm dùng để chỉ một cây thánh giá huy hiệu").
+entry(fitful, adj, [], "tái diễn không đềuFITFULLY adv").
+entry(fitly, adv, [], "theo cách vừa vặn").
+entry(phù_hợp, n, [phù_hợp], "trang_bị").
+entry(thể_dục, n, [tình_trạng_thể_dục], "tình trạng khỏe mạnh").
+entry(fittable, adj, [], "có thể được lắp ráp").
+entry(vừa vặn, quá khứ, [], "thì của fit").
+entry(fitter, n, [fitters], "một người canh chỉnh").
+entry(fittest, superlative, [], "của hợp lý").
+entry(fitting, n, [fittings], "một bộ phận phụ kiện nhỏ thường được tiêu chuẩn hóa").
+entry(năm, n, [năm], "một con số").
+entry(fivefold, adj, [], "lớn gấp năm lần").
+entry(fivepins, npl, [], "một trò chơi bowling").
+entry(fiver, n, [fivers], "một tờ năm đô").
+entry(sửa, v, [sửa chữa, sửa đổi, sửa sẵn], "để sửa chữaCÓ THỂ SỬA adj").
+entry(ấn định, v, [đã ấn định, đang ấn định, ấn định], "làm cho ổn định hoặc đứng yên").
+entry(fixatif, n, [fixatifs], "chất cố định").
+entry(fixation, n, [các sự cố định], "hành động cố định").
+entry(chất_cố_định, n, [chất_cố_định], "một chất để bảo quản tranh vẽ hoặc bản vẽ").
+entry(cố định, adv, [], "một cách kiên định").
+entry(fixer, n, [fixers], "người sửa chữa").
+entry(fixings, npl, [], "đồ ăn kèm với món chính của bữa ăn").
+entry(fixit, n, [fixits], "một người được biết đến vì sửa chữa mọi thứ").
+entry(fixity, n, [các_fixity], "sự_ổn_định").
+entry(fixt, a, [], "quá khứ của fix").
+entry(fixture, n, [fixtures], "một bộ phận cố định hoặc phụ kiện của một ngôi nhà").
+entry(fixure, n, [fixures], "độ chắc chắn").
+entry(fiz, n, [tiếng xèo], "một âm thanh xèo hoặc xì").
+entry(fizgig, n, [fizgigs], "cây lao bắt cá").
+entry(fizz, v, [fizzed,fizzing,fizzes], "phát ra âm thanh xì xì hoặc tiếng lụp bụp").
+entry(fizzer, n, [fizzers], "một thứ sủi bọt").
+entry(fizzes, pl, [], "of fiz").
+entry(fizzle, v, [fizzled,fizzling,fizzles], "sôi ùng ục").
+entry(fizzy, adj, [], "FIZZIER FIZZIESTfizzingFIZZILY adv").
+entry(fjeld, n, [fjelds], "cao nguyên hoang vu").
+entry(fjord, n, [fjords], "một vịnh hẹp của biển giữa những vách đá dốc FJORDIC adj").
+entry(flab, n, [flabs], "mô cơ thể mềm nhũn").
+entry(flabby, adj, [], "FLABBIER FLABBIEST mềm nhũnFLABBILY adv").
+entry(flabella, npl, [], "cấu trúc giải phẫu hình quạt").
+entry(flaccid, adj, [], "thiếu độ cứng").
+entry(flack, v, [flacked,flacking,flacks], "làm việc như một đại diện báo chí").
+entry(flackery, n, [flackeries], "quảng cáo").
+entry(flacon, n, [flacons], "một chai nhỏ có nút đậy").
+entry(flag, v, [flagged,flagging,flags], "để đánh dấu bằng cờ một mảnh vải được sử dụng như một biểu tượng").
+entry(flagella, npl, [], "chồi cây dài mảnh").
+entry(flagger, n, [flaggers], "người treo cờ").
+entry(flagging, n, [flaggings], "một loại vỉa hè").
+entry(flaggy, adj, [], "FLAGGIER FLAGGIESTdrooping").
+entry(flagless, adj, [], "không có cờ").
+entry(flagman, n, [flagmen], "người mang cờ").
+entry(flagon, n, [flagons], "một cái chai lớn phồng").
+entry(cột cờ, n, [cột cờ], "một cái cột mà trên đó có treo cờ").
+entry(flagrant, adj, [], "rất dễ thấy").
+entry(flagship, n, [flagships], "một con tàu mang cờ của một hạm đội").
+entry(flail, v, [flailed,flailing,flails], "vung vẩy tự do").
+entry(flair, n, [flairs], "một khả năng tự nhiên").
+entry(flak, n, [flak], "pháo phòng không").
+entry(flake, v, [flaked,flaking,flakes], "bóc ra thành mảnh mỏng và phẳng").
+entry(flaker, n, [flakers], "một người làm công việc flake").
+entry(flakey, adj, [], "FLAKIER FLAKIESTflaky").
+entry(flaky, adj, [], "FLAKIER FLAKIESTgiống như mảnh vụnFLAKILY adv").
+entry(flam, v, [flammed, flamming, flams], "lừa dối").
+entry(flambe, v, [flambeed,flambeing,flambes], "tưới rượu mùi và đốt cháy").
+entry(flambeau, n, [flambeaus], "hoặc FLAMBEAUX một ngọn đuốc đang cháy").
+entry(flambee, adj, [], "bốc cháy").
+entry(flame, v, [flamed, flaming, flames], "cháy sáng rực rỡ").
+entry(flamen, n, [flamens], "hoặc FLAMINES, một thầy tu của La Mã cổ đại").
+entry(flamenco, n, [flamencos], "một phong cách nhảy nhấn mạnh nhịp điệu mạnh mẽ").
+entry(flameout, n, [flameouts], "sự hỏng hóc của động cơ phản lực trong chuyến bay").
+entry(flamer, n, [flamers], "một người mà chế nhạo").
+entry(flamier, so_sánh, [], "của flamy").
+entry(flamiest, bậc nhất, [], "của flamy").
+entry(flamines, a, [], "số nhiều của flamen").
+mục(flaming, hiện tại, [], "phân từ của flame").
+entry(flamingo, n, [hồng_hạc], "hoặc FLAMINGOES một loài chim lội nước").
+entry(flammed, quá_khứ, [], "thì của flam").
+entry(flamming, present, [], "phân từ của flam").
+entry(flamy, adj, [], "FLAMIER FLAMIESTngọn lửa").
+entry(flan, n, [flans], "hoặc FLANESmột loại bánh trứng caramel").
+entry(flancard, n, [flancards], "một miếng giáp cho bên sườn của ngựa").
+entry(flanerie, n, [flaneries], "nhàn rỗi").
+entry(flaneur, n, [flaneurs], "một kẻ lười biếng").
+entry(flange, v, [flanged,flanging,flanges], "trang bị viền bảo vệ").
+entry(flanger, n, [flangers], "một thứ làm mặt bích").
+entry(flanging, n, [flangings], "việc cung cấp một viền bảo vệ trên một đối tượng").
+entry(flank, v, [flanked,flanking,flanks], "nằm ở bên cạnh").
+entry(flanken, npl, [], "thịt bò cắt từ hai bên được luộc với rau").
+entry(flanker, n, [flankers], "người mà hộ tống").
+entry(flannel, v, [flanneled,flanneling,flannels], "hoặc FLANNELLED FLANNELLING FLANNEL bằng cách phủ vải flannel một loại vải mềm").
+entry(flap, v, [flapped,flapping,flaps], "vẫy lên và xuống").
+nhập(flaperon, n, [flaperons], "một bề mặt khí động học hoạt động như cả cánh phụ và cánh lật").
+entry(flapjack, n, [bánh_pancake], "một loại bánh pancake").
+entry(flapless, adj, [], "không có nắp, một phần phụ phẳng").
+entry(flapped, past, [], "thì của flap").
+entry(flapper, n, [flappers], "một thứ vỗ cánh").
+entry(lật, hiện tại, [], "phân từ của việc vỗ cánh").
+mục(flappy, adj, [], "FLAPPIER FLAPPIESTflapping").
+entry(flare, v, [flared,flaring,flares], "bốc cháy với ánh sáng lung linh rực rỡ").
+mục(flareup, n, [flareups], "một sự bùng phát đột ngột").
+mục(flash, v, [flashed, flashing, flashes], "gửi đi một tia sáng bất ngờ").
+entry(flasher, n, [flashers], "người chiếu sáng").
+entry(máy_chụp_đèn_flash, n, [máy_chụp_đèn_flashs], "một thiết bị chụp ảnh").
+entry(flashing, n, [flashings], "kim loại tấm sử dụng để chống thấm nước cho mái nhà").
+entry(flashy, adj, [], "FLASHIER FLASHIESTgaudyFLASHILY adv").
+entry(flask, n, [flasks], "một cái bình có cổ hẹp").
+entry(flasket, n, [flaskets], "một cái bình nhỏ").
+entry(flat, adj, [], "PHẲNG PHẲNG NHẤTHaving a smooth or even surface").
+entry(flat, v, [flatted,flatting,flats], "làm phẳng").
+entry(flatbed, n, [flatbeds], "một loại xe tải hoặc rơ moóc").
+entry(flatboat, n, [flatboats], "một chiếc thuyền đáy phẳng").
+entry(flatcap, n, [flatcaps], "một loại mũ").
+entry(flatcar, n, [flatcars], "một toa xe lửa không có sườn hoặc mái").
+entry(flatfish, n, [flatfishes], "bất kỳ loài cá biển nào thuộc bộ").
+mục_lục(bàn_chân_bẹt, n, [bàn_chân_bẹt], "một tình trạng của bàn chân").
+entry(flatfoot, v, [flatfooted, flatfooting, flatfoots], "đi với dáng đi lết").
+entry(flathead, n, [flatheads], "một loài cá biển dùng làm thực phẩm").
+entry(flatiron, n, [bàn ủi], "một thiết bị dùng để ủi quần áo").
+entry(flatland, n, [flatlands], "vùng đất thiếu sự thay đổi đáng kể về độ cao").
+entry(flatlet, n, [flatlets], "một loại căn hộ").
+entry(flatline, v, [flatlined,flatlining,flatlines], "đăng ký là không có sóng não hoặc nhịp tim").
+entry(flatling, adv, [], "với một mặt phẳng hoặc cạnh phẳng").
+entry(flatlong, adv, [], "flatling").
+entry(flatly, adv, [], "một cách phẳng").
+entry(bạn cùng phòng, n, [bạn cùng phòng], "người chia sẻ căn hộ").
+entry(flatness, n, [flatnesses], "trạng thái phẳng").
+entry(flatpack, n, [flatpacks], "một gói cho mạch tích hợp").
+entry(flatted, past, [], "thì quá khứ của flat").
+entry(flatten, v, [làm phẳng,đang làm phẳng,làm phẳng], "làm cho phẳng hoặc trở nên phẳng").
+entry(flatter, v, [flattered,flattering,flatters], "khen ngợi quá mức").
+entry(tâng_bốc, n, [tâng_bốc], "hành động tâng bốc").
+entry(flattest, superlative, [], "của phẳng").
+entry(flattie, n, [flatties], "một đôi giày đế bằng").
+entry(flatting, hiện tại, [], "phân từ của flat").
+entry(hơi_phẳng, adj, [], "hơi phẳng").
+entry(flattop, n, [flattops], "một tàu sân bay").
+entry(flatus, n, [flatuses], "khí ruột").
+mục(flatware, n, [flatwares], "dụng cụ ăn uống có hình dạng khá dẹt").
+entry(flatwash, n, [flatwashes], "công việc giặt là").
+entry(flatways, adv, [], "flatwise").
+entry(flatwise, adv, [], "với mặt phẳng ở một vị trí cụ thể").
+entry(flatwork, n, [flatworks], "đồ giặt có thể được ủi bằng máy").
+entry(sán bẹt, n, [sán bẹt], "một loài giun có thân phẳng").
+entry(khoe, v, [đã_khoe,đang_khoe,khoe], "phô trương một cách hào nhoáng").
+entry(flaunter, n, [flaunters], "người phô trương").
+entry(flaunty, adj, [], "FLAUNTIER FLAUNTIESTgaudy").
+entry(flauta, n, [flautas], "một chiếc bánh tortilla được cuộn quanh phần nhân và chiên giòn").
+entry(nghệ_sĩ_thổi_sáo, n, [nghệ_sĩ_thổi_sáo], "nghệ_sĩ_thổi_sáo").
+entry(flava, n, [flavas], "một phong cách âm nhạc hiphop").
+entry(flavanol, n, [flavanols], "flavonol").
+entry(flavin, n, [flavins], "một sắc tố màu vàng").
+entry(flavine, n, [flavines], "flavin").
+entry(flavone, n, [flavones], "một hợp chất hóa học").
+entry(flavonol, n, [flavonols], "một dẫn xuất của flavone").
+entry(flavor, v, [flavored,flavoring,flavors], "tạo hương vị đặc trưng cho").
+entry(flavorer, n, [flavorers], "một thứ tạo hương vị").
+entry(flavory, adj, [], "đầy hương vị").
+entry(hương_vị, v, [được_hương_vị,đang_hương_vị,hương_vị], "để tạo hương vị").
+entry(flavoury, adj, [], "đậm đà").
+entry(flaw, v, [flawed,flawing,flaws], "tạo ra một khuyết điểm, một sự không hoàn hảo trong").
+entry(hoàn_hảo, adj, [], "không có khuyết điểm").
+entry(flawy, adj, [], "nhiều khuyết điểm FLAWIER FLAWIEST").
+entry(lanh, n, [lanh], "một loại thảo mộc hàng năm").
+entry(flaxen, adj, [], "có màu vàng nhạt").
+entry(hạt lanh, n, [hạt lanh], "hạt của cây lanh").
+entry(flaxy, adj, [], "FLAXIER FLAXIESTflaxen").
+mục(flay, v, [flayed,flaying,flays], "lột da").
+mục(flayer, n, [flayers], "một kẻ lột da").
+entry(bọ_chét, n, [bọ_chét], "một loài côn trùng ký sinh").
+entry(fleabag, n, [fleabags], "một khách sạn kém chất lượng").
+entry(cúc nhả chó, n, [cúc nhả chó], "một loài thực vật có hoa").
+entry(fleabite, n, [fleabites], "vết cắn của bọ chét").
+entry(fleam, n, [fleams], "một dụng cụ phẫu thuật").
+entry(rạp hát dỏm, n, [rạp hát dỏms], "một rạp chiếu phim xuống cấp").
+entry(fleawort, n, [fleaworts], "một loại thảo mộc Châu Âu").
+entry(fleche, n, [fleches], "một ngọn tháp").
+entry(fleck, v, [flecked,flecking,flecks], "đánh dấu bằng những vệt hoặc đốm nhỏ").
+entry(flecky, adj, [], "lốm đốm").
+entry(uốn cong, n, [uốn lượn], "hành động uốn cong").
+mục(fled, quá_khứ, [], "thì của chạy_trốn").
+entry(fledge, v, [fledged,fledging,fledges], "trang bị lông vũ").
+mục(fledgy, adj, [], "FLEDGIER FLEDGIESTcovered với lông vũ").
+entry(flee, v, [fled,fleeing,flees], "chạy trốn").
+mục_vào(mỡ_lông_cừu, v, [đã_mỡ_lông_cừu,đang_mỡ_lông_cừu,mỡ_lông_cừu], "để loại bỏ lớp lông cừu").
+entry(fleecer, n, [fleecers], "người lột da").
+entry(fleech, v, [fleeched, fleeching, fleeches], "dỗ dành").
+entry(fleecy, adj, [], "FLEECIER FLEECIESTwoollyFLEECILY adv").
+entry(fleer, v, [fleered, fleering, fleers], "chế giễu").
+entry(fleet, adj, [], "FLEETER FLEETESTswiftFLEETLY adv").
+entry(fleet, v, [fleeted,fleeting,fleets], "di chuyển nhanh chóng").
+mục(flehmen, v, [flehmened, flehmening, flehmens], "để hít vào với miệng mở và môi trên cong").
+entry(fleishig, adj, [], "làm từ thịt hoặc sản phẩm từ thịt").
+entry(flemish, v, [flemished,flemishing,flemishes], "xếp dây thừng theo một cách nhất định").
+entry(flench, v, [flenched,flenching,flenches], "tách xương mỡ").
+mục(flense, v, [flensed,flensing,flenses], "lột mỡ hoặc da khỏi").
+entry(flenser, n, [flensers], "một người cắt xẻ").
+entry(thịt, v, [thịt_bẻo,thịt_bé,thịt_bé], "đâm sâu vào mô mềm của cơ thể").
+entry(flesher, n, [fleshers], "người lột thịt ra khỏi da động vật").
+entry(fleshier, so_sánh_hơn, [], "của fleshy").
+entry(fleshiest, superlative, [], "của fleshy").
+entry(fleshing, n, [fleshings], "sự phân bố của thịt nạc và mỡ trên một con vật").
+entry(fleshly, adj, [], "FLESHLIER FLESHLIESTliên quan đến cơ thể").
+entry(nồi thịt, n, [nồi_thịt], "một cái nồi để nấu thịt").
+entry(fleshy, adj, [], "FLESHIER FLESHIESTcó nhiều thịtFLESHILY adv").
+entry(fletch, v, [fletched,fletching,fletches], "gắn lông vào mũi tên").
+entry(fletcher, n, [fletchers], "người làm tên").
+entry(fleuron, n, [fleurons], "một vật trang trí hoa").
+entry(fleury, adj, [], "có các nhánh kết thúc bằng ba lá  được sử dụng cho một cây thánh giá huy hiệu").
+entry(flew, n, [flews], "một cái lưới đánh cá").
+`entry(flex, v, [flexed,flexing,flexes], "to bendFLEXAGON n pl FLEXAGONSa folded paper constructionFLEXIBLE adj capable of being bentFLEXIBLY advFLEXILE adj flexibleFLEXION n pl FLEXIONSflectionFLEXOR n pl FLEXORSa muscle that serves to bend a bodily partFLEXTIME n pl FLEXTIMESa system that allows flexible working hoursFLEXUOSE adj flexuousFLEXUOUS adj windingFLEXURE n pl FLEXURESthe act of bendingFLEXURAL adjFLEXWING n pl FLEXWINGSa collapsible fabric wing used in hang glidersFLEY v FLEYED FLEYING FLEYSto frightenFLIC n pl FLICSa Parisian policemanFLICHTER v FLICHTERED FLICHTERING FLICHTERSto flickerFLICK v FLICKED FLICKING FLICKSto strike with a quick light blowFLICKER v FLICKERED FLICKERING FLICKERSto move waveringlyFLICKERY adj flickeringFLIED a past tense of flyFLIER n pl FLIERSone that fliesFLIES present 3d person sing of flyFLIEST superlative of flyFLIGHT v FLIGHTED FLIGHTING FLIGHTSto fly in a flockFLIGHTY adj FLIGHTIER FLIGHTIESTfickleFLIMFLAM v FLIMFLAMMED FLIMFLAMMING FLIMFLAMSto swindleFLIMSY adj FLIMSIER FLIMSIESTlacking solidity or strengthFLIMSILY advFLIMSY n pl FLIMSIESa thin paperFLINCH v FLINCHED FLINCHING FLINCHESto shrink back involuntarilyFLINCHER n pl FLINCHERSone that flinchesFLINDER n pl FLINDERSa small fragmentFLING v FLUNG FLINGING FLINGSto throw with forceFLINGER n pl FLINGERSone that flingsFLINKITE n pl FLINKITESa mineralFLINT v FLINTED FLINTING FLINTSto provide with flint a sparkproducing rockFLINTY adj FLINTIER FLINTIESTresembling flintFLINTILY advFLIP adj FLIPPER FLIPPESTflippantFLIP v FLIPPED FLIPPING FLIPSto throw with a brisk motionFLIPBOOK n pl FLIPBOOKSa book of a series of images that when flipped give the illusion of movementFLIPFLOP v FLIPFLOPPED FLIPFLOPPING FLIPFLOPSto perform a backward somersaultFLIPPANT adj impudentFLIPPED past tense of flipFLIPPER n pl FLIPPERSa broad flat limb adapted for swimmingFLIPPEST superlative of flipFLIPPING present participle of flipFLIPPY adj FLIPPIER FLIPPIESTflaring at the bottomFLIR n pl FLIRSan electronic heat sensorFLIRT v FLIRTED FLIRTING FLIRTSto behave amorously without serious intentFLIRTER n pl FLIRTERSone that flirtsFLIRTY adj FLIRTIER FLIRTIESTgiven to flirtingFLIT v FLITTED FLITTING FLITSto move lightly and swiftlyFLITCH v FLITCHED FLITCHING FLITCHESto cut into stripsFLITE v FLITED FLITING FLITESto quarrelFLITTED past tense of flitFLITTER v FLITTERED FLITTERING FLITTERSto flutterFLITTING present participle of flitFLIVVER n pl FLIVVERSan old battered carFLIXWEED n pl FLIXWEEDSa plant of the mustard familyFLOAT v FLOATED FLOATING FLOATSto rest or remain on the surface of a liquidFLOATAGE n pl FLOATAGESflotageFLOATEL n pl FLOATELSa houseboat used as a hotelFLOATER n pl FLOATERSone that floatsFLOATY adj FLOATIER FLOATIESTtending to floatFLOC v FLOCCED FLOCCING FLOCSto aggregate into flocculesFLOCCI pl of floccusFLOCCOSE adj having woolly tuftsFLOCCULE n pl FLOCCULESa tuftlike massFLOCCULI npl small loosely aggregated massesFLOCCUS n pl FLOCCIa flocculeFLOCK v FLOCKED FLOCKING FLOCKSto gather or move in a crowdFLOCKING n pl FLOCKINGSa velvety design in short fibers on cloth or paperFLOCKY adj FLOCKIER FLOCKIESTwoollyFLOE n pl FLOESa large mass of floating iceFLOG v FLOGGED FLOGGING FLOGSto beat with a whip or rodFLOGGER n pl FLOGGERSone that flogsFLOGGING n pl FLOGGINGSa whippingFLOKATI n pl FLOKATISa Greek handwoven rugFLONG n pl FLONGSa sheet of a certain type of paperFLOOD v FLOODED FLOODING FLOODSto inundateFLOODER n pl FLOODERSone that floodsFLOODING n pl FLOODINGSa filling with fluid to excessFLOODLIT adj illuminated by floodlightsFLOODWAY n pl FLOODWAYSan overflow channelFLOOEY adj awryFLOOIE adj flooeyFLOOR v FLOORED FLOORING FLOORSto provide with a floor the level base of a roomFLOORAGE n pl FLOORAGESfloor spaceFLOORER n pl FLOORERSone that floorsFLOORING n pl FLOORINGSa floorFLOORPAN n pl FLOORPANSthe bottom part of the interior of a motor vehicleFLOOSIE n pl FLOOSIESfloozyFLOOSY n pl FLOOSIESfloozyFLOOZIE n pl FLOOZIESfloozyFLOOZY n pl FLOOZIESa prostituteFLOP v FLOPPED FLOPPING FLOPSto fall heavily and noisilyFLOPOVER n pl FLOPOVERSa defect in television receptionFLOPPER n pl FLOPPERSone that flopsFLOPPING present participle of flopFLOPPY adj FLOPPIER FLOPPIESTsoft and flexibleFLOPPILY advFLOPPY n pl FLOPPIESa type of computer diskFLOPS n pl FLOPSa measure of computer speedFLORA n pl FLORAS or FLORAEthe plant life of a particular regionFLORAL n pl FLORALSa design having flowersFLORALLY adv in a manner like that of a flowerFLOREAT v may hesheit flourishFLORENCE n pl FLORENCESflorinFLORET n pl FLORETSa small flowerFLORID adj ruddyFLORIDLY advFLORIGEN n pl FLORIGENSa plant hormoneFLORIN n pl FLORINSa former gold coin of EuropeFLORIST n pl FLORISTSa grower or seller of flowersFLORUIT n pl FLORUITSa period of flourishingFLOSS v FLOSSED FLOSSING FLOSSESto clean between the teeth with a threadFLOSSER n pl FLOSSERSone that flossesFLOSSIE n pl FLOSSIESa floozyFLOSSING n pl FLOSSINGSthe act of one that flossesFLOSSY adj FLOSSIER FLOSSIESTresembling floss a soft light fiberFLOSSILY advFLOTA n pl FLOTASa fleet of Spanish shipsFLOTAGE n pl FLOTAGESthe act of floatingFLOTEL n pl FLOTELSfloatelFLOTILLA n pl FLOTILLASa fleet of shipsFLOTSAM n pl FLOTSAMSfloating wreckage of a ship or its cargoFLOUNCE v FLOUNCED FLOUNCING FLOUNCESto move with exaggerated motionsFLOUNCY adj FLOUNCIER FLOUNCIESTflouncingFLOUNDER v FLOUNDERED FLOUNDERING FLOUNDERSto struggle clumsilyFLOUR v FLOURED FLOURING FLOURSto cover with flour a finely ground meal of grainFLOURISH v FLOURISHED FLOURISHING FLOURISHESto thriveFLOURY adj FLOURIER FLOURIESTresembling flourFLOUT v FLOUTED FLOUTING FLOUTSto treat with contemptFLOUTER n pl FLOUTERSone that floutsFLOW v FLOWED FLOWING FLOWSto move steadily and smoothly alongFLOWABLE adjFLOWAGE n pl FLOWAGESthe act of flowingFLOWER v FLOWERED FLOWERING FLOWERSto put forth flowers reproductive structures of seedbearing plantsFLOWERER n pl FLOWERERSa plant that flowers at a certain timeFLOWERET n pl FLOWERETSa floretFLOWERY adj FLOWERIER FLOWERIESTabounding in flowersFLOWN a past participle of flyFLU n pl FLUSa virus diseaseFLUB v FLUBBED FLUBBING FLUBSto bungleFLUBBER n pl FLUBBERSone that flubsFLUBDUB n pl FLUBDUBSpretentious nonsenseFLUE n pl FLUESan enclosed passageway for directing a currentFLUED adjFLUENCY n pl FLUENCIESthe quality of being fluentFLUENT adj spoken or written with effortless easeFLUENTLY advFLUERICS npl fluidicsFLUERIC adjFLUFF v FLUFFED FLUFFING FLUFFSto make fluffyFLUFFER n pl FLUFFERSone that fluffsFLUFFY adj FLUFFIER FLUFFIESTlight and softFLUFFILY advFLUID n pl FLUIDSa substance that tends to flowFLUIDAL adjFLUIDICS npl a branch of mechanical engineeringFLUIDIC adjFLUIDISE v FLUIDISED FLUIDISING FLUIDISESto fluidizeFLUIDITY n pl FLUIDITIESthe quality of being able to flowFLUIDIZE v FLUIDIZED FLUIDIZING FLUIDIZESto cause to flow like a fluidFLUIDLY adv with fluidityFLUIDRAM n pl FLUIDRAMSa unit of liquid capacityFLUISH adj having symptoms like those of the fluFLUKE v FLUKED FLUKING FLUKESto obtain by chanceFLUKEY adj FLUKIER FLUKIESTflukyFLUKY adj FLUKIER FLUKIESThappening by or depending on chanceFLUKILY advFLUME v FLUMED FLUMING FLUMESto convey by means of an artificial water channelFLUMMERY n pl FLUMMERIESa sweet dessertFLUMMOX v FLUMMOXED FLUMMOXING FLUMMOXESto confuseFLUMP v FLUMPED FLUMPING FLUMPSto fall heavilyFLUNG past tense of flingFLUNK v FLUNKED FLUNKING FLUNKSto fail an examination or courseFLUNKER n pl FLUNKERSone that flunksFLUNKEY n pl FLUNKEYSflunkyFLUNKIE n pl FLUNKIESflunkyFLUNKY n pl FLUNKIESa servile followerFLUOR n pl FLUORSfluoriteFLUORIC adjFLUORENE n pl FLUORENESa chemical compoundFLUORID n pl FLUORIDSfluorideFLUORIDE n pl FLUORIDESa compound of fluorineFLUORIN n pl FLUORINSfluorineFLUORINE n pl FLUORINESa gaseous elementFLUORITE n pl FLUORITESa mineralFLURRY v FLURRIED FLURRYING FLURRIESto confuseFLUSH adj FLUSHER FLUSHESTruddyFLUSH v FLUSHED FLUSHING FLUSHESto blushFLUSHER n pl FLUSHERSone that flushesFLUSHING n pl FLUSHINGSthe act of blushingFLUSTER v FLUSTERED FLUSTERING FLUSTERSto put into a state of nervous confusionFLUTE v FLUTED FLUTING FLUTESto play on a flute a woodwind instrumentFLUTER n pl FLUTERSa flutistFLUTEY adj FLUTEYER FLUTEYEST or FLUTIER FLUTIESTflutyFLUTING n pl FLUTINGSa series of parallel groovesFLUTIST n pl FLUTISTSone who plays the fluteFLUTTER v FLUTTERED FLUTTERING FLUTTERSto wave rapidly and irregularlyFLUTTERY adj marked by flutteringFLUTY adj FLUTIER FLUTIESTresembling a flute in soundFLUVIAL adj pertaining to a riverFLUX v FLUXED FLUXING FLUXESto meltFLUXGATE n pl FLUXGATESa device to measure a magnetic fieldFLUXION n pl FLUXIONSthe act of flowingFLUYT n pl FLUYTSa type of shipFLY adj FLIER FLIESTcleverFLY v FLEW FLOWN FLYING FLIESto move through the airFLY v FLIED FLYING FLIESto hit a ball high into the air in baseballFLYABLE adj suitable for flyingFLYAWAY n pl FLYAWAYSone that is elusiveFLYBELT n pl FLYBELTSan area infested with tsetse fliesFLYBLOW v FLYBLEW FLYBLOWN FLYBLOWING FLYBLOWSto taintFLYBOAT n pl FLYBOATSa small fast boatFLYBOY n pl FLYBOYSa pilot in an air forceFLYBY n pl FLYBYSa flight of aircraft close to a specified placeFLYER n pl FLYERSflierFLYING n pl FLYINGSthe operation of an aircraftFLYLEAF n pl FLYLEAVESa blank leaf at the beginning or end of a bookFLYLESS adj free of flies winged insectsFLYLINE n pl FLYLINESa type of line used in fly fishingFLYMAN n pl FLYMENa stage worker in a theaterFLYOFF n pl FLYOFFSa competitive testing of model aircraftFLYOVER n pl FLYOVERSa flight of aircraft over a specific locationFLYPAPER n pl FLYPAPERSpaper designed to catch or kill fliesFLYPAST n pl FLYPASTSa flybyFLYSCH n pl FLYSCHESa sandstone depositFLYSHEET n pl FLYSHEETSa circularFLYSPECK v FLYSPECKED FLYSPECKING FLYSPECKSto mark with minute spotsFLYTE v FLYTED FLYTING FLYTESto fliteFLYTIER n pl FLYTIERSa maker of fishing fliesFLYTING n pl FLYTINGSa dispute in verse formFLYTRAP n pl FLYTRAPSa trap for catching fliesFLYWAY n pl FLYWAYSan established air route of migratory birdsFLYWHEEL n pl FLYWHEELSa heavy disk used in machineryFOAL v FOALED FOALING FOALSto give birth to a horseFOALING n pl FOALINGSthe act of giving birth to a horseFOAM v FOAMED FOAMING FOAMSto form foam a light bubbly gas and liquid massFOAMABLE adjFOAMER n pl FOAMERSone that foamsFOAMIER comparative of foamyFOAMIEST superlative of foamyFOAMILY adv in a foamy mannerFOAMLESS adj being without foamFOAMLIKE adj resembling foamFOAMY adj FOAMIER FOAMIESTcovered with foamFOB v FOBBED FOBBING FOBSto deceiveFOCACCIA n pl FOCACCIASa flat Italian breadFOCAL adj pertaining to a focusFOCALISE v FOCALISED FOCALISING FOCALISESto focalizeFOCALIZE v FOCALIZED FOCALIZING FOCALIZESto focusFOCALLY adv with regard to focusFOCUS n pl FOCUSES or FOCIa point at which rays converge or from which they divergeFOCUS v FOCUSED FOCUSING FOCUSES or FOCUSSED FOCUSSING FOCUSSESto bring to a focusFOCUSER n pl FOCUSERSone that focusesFODDER v FODDERED FODDERING FODDERSto feed with coarse foodFODGEL adj plumpFOE n pl FOESan enemyFOEHN n pl FOEHNSa warm dry windFOEMAN n pl FOEMENan enemy in warFOETAL adj fetalFOETID adj fetidFOETIDLY advFOETOR n pl FOETORSfetorFOETUS n pl FOETUSESfetusFOG v FOGGED FOGGING FOGSto cover with fog condensed water vapor near the earths surfaceFOGBOUND adj surrounded by fogFOGBOW n pl FOGBOWSa nebulous arc of light sometimes seen in a fogFOGDOG n pl FOGDOGSa fogbowFOGEY n pl FOGEYSfogyFOGEYISH adjFOGEYDOM n pl FOGEYDOMSfogydomFOGEYISM n pl FOGEYISMSfogyismFOGFRUIT n pl FOGFRUITSa flowering plantFOGGAGE n pl FOGGAGESa second growth of grassFOGGED past tense of fogFOGGER n pl FOGGERSone that fogsFOGGING n pl FOGGINGSthe covering with fogFOGGY adj FOGGIER FOGGIESTfilled with fogFOGGILY advFOGHORN n pl FOGHORNSa horn sounded in a fogFOGIE n pl FOGIESfogyFOGLESS adj having no fogFOGLIGHT n pl FOGLIGHTSa motorvehicle light used in foggy conditionsFOGY n pl FOGIESan oldfashioned personFOGYISH adjFOGYDOM n pl FOGYDOMSall the fogiesFOGYISM n pl FOGYISMSoldfashioned behaviorFOH interj faughFOHN n pl FOHNSfoehnFOIBLE n pl FOIBLESa minor weaknessFOIL v FOILED FOILING FOILSto prevent the success ofFOILABLE adjFOILIST n pl FOILISTSone who fences with a foil a sword without cutting edgesFOILSMAN n pl FOILSMENa fencerFOIN v FOINED FOINING FOINSto thrust with a pointed weaponFOISON n pl FOISONSstrengthFOIST v FOISTED FOISTING FOISTSto force upon slylyFOLACIN n pl FOLACINSa B vitaminFOLATE n pl FOLATESfolacinFOLD v FOLDED FOLDING FOLDSto lay one part over another part ofFOLDABLE adjFOLDAWAY n pl FOLDAWAYSan object designed to be folded out of the wayFOLDAWAY adj designed to fold out of the wayFOLDBOAT n pl FOLDBOATSa faltboatFOLDER n pl FOLDERSone that foldsFOLDEROL n pl FOLDEROLSfalderalFOLDOUT n pl FOLDOUTSa gatefoldFOLDUP n pl FOLDUPSan object that folds upFOLEY n pl FOLEYSa process for creating sounds for filmsFOLIA a pl of foliumFOLIAGE n pl FOLIAGESthe growth of leaves of a plantFOLIAGED adjFOLIAR adj pertaining to a leafFOLIATE v FOLIATED FOLIATING FOLIATESto hammer into thin platesFOLIC adj derived from folic acidFOLIO v FOLIOED FOLIOING FOLIOSto number the pages ofFOLIOSE adj having leavesFOLIOUS adj folioseFOLIUM n pl FOLIUMS or FOLIAa thin layerFOLK n pl FOLKSa people or tribeFOLKIE adj FOLKIER FOLKIESTbeing in the style of folk musicFOLKIE n pl FOLKIESa performer of folk musicFOLKISH adj characteristic of the common peopleFOLKLIFE n pl FOLKLIVESthe traditions skills and products of a peopleFOLKLIKE adj folkishFOLKLORE n pl FOLKLORESthe lore of a peopleFOLKMOOT n pl FOLKMOOTSa general assembly of the people in early EnglandFOLKMOT n pl FOLKMOTSfolkmootFOLKMOTE n pl FOLKMOTESfolkmootFOLKSONG n pl FOLKSONGSa song of the folk music of an areaFOLKSY adj FOLKSIER FOLKSIESTfriendlyFOLKSILY advFOLKTALE n pl FOLKTALESa tale forming part of the oral tradition of a peopleFOLKWAY n pl FOLKWAYSa traditional custom of a peopleFOLKY adj FOLKIER FOLKIESTfolkieFOLKY n pl FOLKIESfolkieFOLLES pl of follisFOLLICLE n pl FOLLICLESa small bodily cavityFOLLIES pl of follyFOLLIS n pl FOLLESa coin of ancient RomeFOLLOW v FOLLOWED FOLLOWING FOLLOWSto come or go afterFOLLOWER n pl FOLLOWERSone that followsFOLLOWUP n pl FOLLOWUPSa news article that adds information to a previous articleFOLLY n pl FOLLIESa foolish idea or actionFOMENT v FOMENTED FOMENTING FOMENTSto promote the development ofFOMENTER n pl FOMENTERSone that fomentsFOMITE n pl FOMITESan inanimate object that serves to transmit infectious organismsFON n pl FONSfoehnFOND adj FONDER FONDESThaving an affectionFOND v FONDED FONDING FONDSto display affectionFONDANT n pl FONDANTSa soft creamy candyFONDLE v FONDLED FONDLING FONDLESto caressFONDLER n pl FONDLERSone that fondlesFONDLING n pl FONDLINGSone that is fondledFONDLY adv in a fond mannerFONDNESS n pl FONDNESSESaffectionFONDU n pl FONDUSa dish of melted cheeseFONDUE v FONDUED FONDUING or FONDUEING FONDUESto cook in a pot of melted cheeseFONT n pl FONTSa receptacle for the water used in baptismFONTAL adjFONTANEL n pl FONTANELSa space in the fetal and infantile skullFONTINA n pl FONTINASan Italian cheeseFOO n pl FOOSa name for temporary computer variables or filesFOOD n pl FOODSa substance taken into the body to maintain life and growthFOODLESS adjFOODERY n pl FOODERIESa restaurantFOODIE n pl FOODIESan enthusiast of foods and their preparationFOODLAND n pl FOODLANDSland for the production of foodFOODWAYS npl the eating habits of a peopleFOOFARAW n pl FOOFARAWSexcessive ornamentationFOOL v FOOLED FOOLING FOOLSto deceiveFOOLERY n pl FOOLERIESfoolish behavior or speechFOOLFISH n pl FOOLFISHESa marine fishFOOLISH adj FOOLISHER FOOLISHESTlacking good sense or judgmentFOOLSCAP n pl FOOLSCAPSa paper sizeFOOSBALL n pl FOOSBALLSa table game resembling soccerFOOT n pl FEETthe terminal part of the leg on which the body stands and movesFOOT v FOOTED FOOTING FOOTSto walkFOOTAGE n pl FOOTAGESa length or quantity expressed in feetFOOTBAG n pl FOOTBAGSa small bag filled with pellets that is kept aloft with the feetFOOTBALL n pl FOOTBALLSa type of ballFOOTBATH n pl FOOTBATHSa bath for the feetFOOTBED n pl FOOTBEDSan insole in a boot or shoeFOOTBOY n pl FOOTBOYSa serving boyFOOTER n pl FOOTERSone that walksFOOTFALL n pl FOOTFALLSthe sound of a footstepFOOTGEAR n pl FOOTGEARfootwearFOOTHILL n pl FOOTHILLSa low hill at the foot of higher hillsFOOTHOLD n pl FOOTHOLDSa secure support for the feetFOOTIE n pl FOOTIESfootsieFOOTIER comparative of footyFOOTIEST superlative of footyFOOTING n pl FOOTINGSa footholdFOOTLE v FOOTLED FOOTLING FOOTLESto waste timeFOOTLER n pl FOOTLERSone that footlesFOOTLESS adj having no feetFOOTLIKE adj resembling a footFOOTLING present participle of footleFOOTLONG n pl FOOTLONGSa hot dog one foot longFOOTMAN n pl FOOTMENa male servantFOOTMARK n pl FOOTMARKSa mark left by the foot on a surfaceFOOTNOTE v FOOTNOTED FOOTNOTING FOOTNOTESto furnish with explanatory notesFOOTPACE n pl FOOTPACESa walking paceFOOTPAD n pl FOOTPADSone who robs a pedestrianFOOTPATH n pl FOOTPATHSa path for pedestriansFOOTRACE n pl FOOTRACESa race run on footFOOTREST n pl FOOTRESTSa support for the feetFOOTROPE n pl FOOTROPESa rope used in sailingFOOTSIE n pl FOOTSIESa flirting game played with the feetFOOTSLOG v FOOTSLOGGED FOOTSLOGGING FOOTSLOGSto march through mudFOOTSORE adj having sore or tired feetFOOTSTEP n pl FOOTSTEPSa step with the footFOOTSY n pl FOOTSIESfootsieFOOTWALL n pl FOOTWALLSthe layer of rock beneath a vein of oreFOOTWAY n pl FOOTWAYSa footpathFOOTWEAR n pl FOOTWEARwearing apparel for the feetFOOTWELL n pl FOOTWELLSa space for the feet in a motor vehicleFOOTWORK n pl FOOTWORKSthe use of the feetFOOTWORN adj footsoreFOOTY adj FOOTIER FOOTIESTpaltryFOOZLE v FOOZLED FOOZLING FOOZLESto bungleFOOZLER n pl FOOZLERSone that foozlesFOP v FOPPED FOPPING FOPSto deceiveFOPPERY n pl FOPPERIESfoppish behaviorFOPPISH adj characteristic of a dandyFOR prep directed or sent toFORA a pl of forumFORAGE v FORAGED FORAGING FORAGESto search aboutFORAGER n pl FORAGERSone that foragesFORAM n pl FORAMSa marine rhizopodFORAMEN n pl FORAMENS or FORAMINAa small anatomical openingFORAY v FORAYED FORAYING FORAYSto raidFORAYER n pl FORAYERSone that foraysFORB n pl FORBSan herb other than grassFORBEAR v FORBORE or FORBARE FORBORNE FORBEARING FORBEARSto refrain fromFORBID v FORBADE or FORBAD FORBIDDEN FORBIDDING FORBIDSto command not to do somethingFORBIDAL n pl FORBIDALSthe act of forbiddingFORBODE v FORBODED FORBODING FORBODESto forebodeFORBORE past tense of forbearFORBORNE past participle of forbearFORBY prep close byFORBYE prep forbyFORCE v FORCED FORCING FORCESto overcome resistance by the exertion of strengthFORCEDLY advFORCEFUL adj strongFORCEOUT n pl FORCEOUTSa play by which a runner in baseball is put outFORCEPS n pl FORCIPESan instrument for seizing and holding objectsFORCER n pl FORCERSone that forcesFORCIBLE adj effected by forceFORCIBLY advFORCING present participle of forceFORCIPES pl of forcepsFORD v FORDED FORDING FORDSto cross by wadingFORDABLE adjFORDLESS adj unable to be fordedFORDO v FORDID FORDONE FORDOING FORDOESto destroyFORE n pl FORESthe front part of somethingFOREARM v FOREARMED FOREARMING FOREARMSto arm in advanceFOREBAY n pl FOREBAYSa reservoir from which water is taken to run equipmentFOREBEAR n pl FOREBEARSan ancestorFOREBODE v FOREBODED FOREBODING FOREBODESto indicate in advanceFOREBODY n pl FOREBODIESthe forward part of a shipFOREBOOM n pl FOREBOOMSthe boom of a ships foremastFOREBY prep forbyFOREBYE prep forbyFORECAST v FORECASTED FORECASTING FORECASTSto estimate or calculate in advanceFOREDATE v FOREDATED FOREDATING FOREDATESto antedateFOREDECK n pl FOREDECKSthe forward part of a ships deckFOREDO v FOREDID FOREDONE FOREDOING FOREDOESto fordoFOREDOOM v FOREDOOMED FOREDOOMING FOREDOOMSto doom in advanceFOREFACE n pl FOREFACESthe front part of the head of a quadrupedFOREFEEL v FOREFELT FOREFEELING FOREFEELSto have a premonition ofFOREFEND v FOREFENDED FOREFENDING FOREFENDSto forfendFOREFOOT n pl FOREFEETone of the front feet of an animalFOREGO v FOREWENT FOREGONE FOREGOING FOREGOESto go beforeFOREGOER n pl FOREGOERSone that foregoesFOREGUT n pl FOREGUTSthe front part of the embryonic alimentary canalFOREHAND n pl FOREHANDSa type of tennis strokeFOREHEAD n pl FOREHEADSthe part of the face above the eyesFOREHOOF n pl FOREHOOFS or FOREHOOVESthe hoof of a forefootFOREIGN adj situated outside a place or countryFOREKNOW v FOREKNEW FOREKNOWN FOREKNOWING FOREKNOWSto know in advanceFORELADY n pl FORELADIESa woman who supervises workersFORELAND n pl FORELANDSa projecting mass of landFORELEG n pl FORELEGSone of the front legs of an animalFORELIMB n pl FORELIMBSa forelegFORELOCK v FORELOCKED FORELOCKING FORELOCKSto fasten with a linchpinFOREMAN n pl FOREMENa man who supervises workersFOREMAST n pl FOREMASTSthe forward mast of a shipFOREMILK n pl FOREMILKSthe milk secreted immediately after childbirthFOREMOST adj first in positionFORENAME n pl FORENAMESa first nameFORENOON n pl FORENOONSthe period of daylight before noonFORENSIC n pl FORENSICSan argumentative exerciseFOREPART n pl FOREPARTSthe front partFOREPAST adj already in the pastFOREPAW n pl FOREPAWSthe paw of a forelegFOREPEAK n pl FOREPEAKSthe forward part of a ships holdFOREPLAY n pl FOREPLAYSerotic stimulation preceding sexual intercourseFORERANK n pl FORERANKSthe first rankFORERUN v FORERAN FORERUNNING FORERUNSto run in advance ofFORESAID adj previously saidFORESAIL n pl FORESAILSthe lowest sail on a foremastFORESEE v FORESAW FORESEEN FORESEEING FORESEESto see in advanceFORESEER n pl FORESEERSone that foreseesFORESHOW v FORESHOWED FORESHOWN FORESHOWING FORESHOWSto show in advanceFORESIDE n pl FORESIDESthe front sideFORESKIN n pl FORESKINSthe prepuceFOREST v FORESTED FORESTING FORESTSto convert into a forest a densely wooded areaFORESTAL adj of or pertaining to a forestFORESTAY n pl FORESTAYSa wire or rope used to support a foremastFORESTER n pl FORESTERSone skilled in forestryFORESTRY n pl FORESTRIESthe science of planting and managing forestsFORETELL v FORETOLD FORETELLING FORETELLSto tell of or about in advanceFORETIME n pl FORETIMESthe pastFORETOP n pl FORETOPSthe platform at the head of a ships foremastFOREVER n pl FOREVERSan indefinite length of timeFOREWARN v FOREWARNED FOREWARNING FOREWARNSto warn in advanceFOREWENT past tense of foregoFOREWING n pl FOREWINGSan anterior wing of an insectFOREWORD n pl FOREWORDSan introductory statementFOREWORN adj forwornFOREX n pl FOREXESa foreign exchangeFOREYARD n pl FOREYARDSthe lowest yard on a foremastFORFEIT v FORFEITED FORFEITING FORFEITSto lose as a penaltyFORFEND v FORFENDED FORFENDING FORFENDSto protectFORGAT a past tense of forgetFORGAVE past tense of forgiveFORGE v FORGED FORGING FORGESto fashion or reproduce for fraudulent purposesFORGER n pl FORGERSone that forgesFORGERY n pl FORGERIESthe act of forgingFORGET v FORGOT or FORGAT FORGOTTEN FORGETTING FORGETSto fail to rememberFORGING n pl FORGINGSa forgeryFORGIVE v FORGAVE FORGIVEN FORGIVING FORGIVESto pardonFORGIVER n pl FORGIVERSone that forgivesFORGO v FORWENT FORGONE FORGOING FORGOESto refrain fromFORGOER n pl FORGOERSone that forgoesFORGOT a past tense of forgetFORGOTTEN past participle of forgetFORINT n pl FORINTSa monetary unit of HungaryFORJUDGE v FORJUDGED FORJUDGING FORJUDGESto deprive by judgment of a courtFORK v FORKED FORKING FORKSto work with a fork a pronged implementFORKEDLY advFORKBALL n pl FORKBALLSa breaking pitch in baseballFORKER n pl FORKERSone that forksFORKFUL n pl FORKFULS or FORKSFULas much as a fork will holdFORKIER comparative of forkyFORKIEST superlative of forkyFORKLESS adj having no forkFORKLIFT v FORKLIFTED FORKLIFTING FORKLIFTSto raise or transport by means of a forklift a machine with projecting prongsFORKLIKE adj resembling a forkFORKSFUL a pl of forkfulFORKY adj FORKIER FORKIESTresembling a forkFORLORN adj FORLORNER FORLORNESTdrearyFORM v FORMED FORMING FORMSto produceFORMABLE adjFORMABLY advFORMAL n pl FORMALSa social event that requires evening dressFORMALIN n pl FORMALINSan aqueous solution of formaldehydeFORMALLY adv in a prescribed or customary mannerFORMANT n pl FORMANTSa characteristic component of the quality of a speech soundFORMAT v FORMATTED FORMATTING FORMATSto produce in a specified styleFORMATE n pl FORMATESa chemical saltFORME n pl FORMESan assemblage of printing type secured in a metal frameFORMEE adj having the arms narrow at the center and expanding toward the ends  used of a heraldic crossFORMER n pl FORMERSone that formsFORMERLY adv previouslyFORMFUL adj exhibiting good formFORMIC adj pertaining to antsFORMLESS adj lacking structureFORMOL n pl FORMOLSformalinFORMULA n pl FORMULAS or FORMULAEan exact method for doing somethingFORMWORK n pl FORMWORKSa set of forms to hold concrete until it setsFORMYL n pl FORMYLSa univalent chemical radicalFORNENT prep near toFORNIX n pl FORNICESan arched anatomical structureFORNICAL adjFORRADER adv further aheadFORRIT adv toward the frontFORSAKE v FORSOOK FORSAKEN FORSAKING FORSAKESto quit or leave entirelyFORSAKER n pl FORSAKERSone that forsakesFORSOOTH adv in truthFORSPENT adj worn outFORSWEAR v FORSWORE FORSWORN FORSWEARING FORSWEARSto deny under oathFORT n pl FORTSa fortified enclosure or structureFORTE n pl FORTESa strong pointFORTES pl of fortisFORTH adv onward in time place or orderFORTIES pl of fortyFORTIETH n pl FORTIETHSone of forty equal partsFORTIFY v FORTIFIED FORTIFYING FORTIFIESto strengthen against attackFORTIS n pl FORTESa consonant pronounced with relatively strong release of breathFORTRESS v FORTRESSED FORTRESSING FORTRESSESto fortifyFORTUITY n pl FORTUITIESan accidental occurrenceFORTUNE v FORTUNED FORTUNING FORTUNESto endow with wealthFORTY n pl FORTIESa numberFORTYISH adj being about forty years oldFORUM n pl FORUMS or FORAa public meeting placeFORWARD adj FORWARDER FORWARDESTbeing at a point in advanceFORWARD v FORWARDED FORWARDING FORWARDSto help onwardFORWENT past tense of forgoFORWHY adv for what reasonFORWORN adj worn outFORZANDO n pl FORZANDOS or FORZANDIsforzatoFOSS n pl FOSSESfosseFOSSA n pl FOSSASa catlike mammalFOSSA n pl FOSSAEan anatomical depressionFOSSATE adjFOSSE n pl FOSSESa ditchFOSSETTE n pl FOSSETTESa small fossaFOSSICK v FOSSICKED FOSSICKING FOSSICKSto search for goldFOSSIL n pl FOSSILSthe remains of an animal or plant preserved in the earths crustFOSTER v FOSTERED FOSTERING FOSTERSto promote the growth ofFOSTERER n pl FOSTERERSone that fostersFOU adj drunkFOUETTE n pl FOUETTESa movement in balletFOUGHT past tense of fightFOUGHTEN adj exhausted especially from fightingFOUL adj FOULER FOULESToffensive to the sensesFOUL v FOULED FOULING FOULSto make foulFOULARD n pl FOULARDSa soft fabricFOULING n pl FOULINGSa deposit or crustFOULLY adv in a foul mannerFOULNESS n pl FOULNESSESthe state of being foulFOUND v FOUNDED FOUNDING FOUNDSto establishFOUNDER v FOUNDERED FOUNDERING FOUNDERSto become disabledFOUNDRY n pl FOUNDRIESan establishment in which metal is castFOUNT n pl FOUNTSa fountainFOUNTAIN v FOUNTAINED FOUNTAINING FOUNTAINSto flow like a fountain a spring of waterFOUR n pl FOURSa numberFOURCHEE adj having the end of each arm forked  used of a heraldic crossFOUREYED adj wearing eyeglassesFOURFOLD adj four times as greatFOURGON n pl FOURGONSa wagon for carrying baggageFOURPLEX n pl FOURPLEXESquadplexFOURSOME n pl FOURSOMESa group of fourFOURTEEN n pl FOURTEENSa numberFOURTH n pl FOURTHSone of four equal partsFOURTHLY adv in the fourth placeFOUSTY adj FOUSTIER FOUSTIESTmoldyFOVEA n pl FOVEAS or FOVEAEa shallow anatomical depressionFOVEAL FOVEATE FOVEATED adjFOVEOLA n pl FOVEOLAS or FOVEOLAEa small foveaFOVEOLAR adjFOVEOLE n pl FOVEOLESa foveolaFOVEOLET n pl FOVEOLETSa foveolaFOWL v FOWLED FOWLING FOWLSto hunt birdsFOWLER n pl FOWLERSone that fowlsFOWLING n pl FOWLINGSthe hunting of birdsFOWLPOX n pl FOWLPOXESa virus disease of poultryFOX v FOXED FOXING FOXESto outwitFOXBERRY n pl FOXBERRIESa cowberryFOXFIRE n pl FOXFIRESa glow produced by certain fungi on decaying woodFOXFISH n pl FOXFISHESa large sharkFOXGLOVE n pl FOXGLOVESa flowering plantFOXHOLE n pl FOXHOLESa small pit used for cover in a battle areaFOXHOUND n pl FOXHOUNDSa hunting dogFOXHUNT v FOXHUNTED FOXHUNTING FOXHUNTSto hunt with hounds for a foxFOXIER comparative of foxyFOXIEST superlative of foxyFOXILY adv in a foxy mannerFOXINESS n pl FOXINESSESthe state of being foxyFOXING n pl FOXINGSa piece of material used to cover the upper portion of a shoeFOXLIKE adj resembling a fox a carnivorous mammalFOXSKIN n pl FOXSKINSthe skin of a foxFOXTAIL n pl FOXTAILSthe tail of a foxFOXTROT v FOXTROTTED FOXTROTTING FOXTROTSto dance the fox trot a dance for couplesFOXY adj FOXIER FOXIESTcraftyFOY n pl FOYSa farewell feast or giftFOYER n pl FOYERSan entrance room or hallFOZINESS n pl FOZINESSESthe state of being fozyFOZY adj FOZIER FOZIESTtoo ripeFRABJOUS adj splendidFRACAS n pl FRACASESa brawlFRACK v FRACKED FRACKING FRACKSto engage in frackingFRACKING n pl FRACKINGSthe injection of fluid into shale beds in order to free up petroleum reservesFRACTAL n pl FRACTALSa complex geometric curveFRACTED adj brokenFRACTI pl of fractusFRACTION v FRACTIONED FRACTIONING FRACTIONSto divide into portionsFRACTUR n pl FRACTURSfrakturFRACTURE v FRACTURED FRACTURING FRACTURESto breakFRACTUS n pl FRACTIa ragged cloudFRAE prep fromFRAENUM n pl FRAENUMS or FRAENAfrenumFRAG v FRAGGED FRAGGING FRAGSto injure with a type of grenadeFRAGGING n pl FRAGGINGSthe act of one that fragsFRAGILE adj easily broken or damagedFRAGMENT v FRAGMENTED FRAGMENTING FRAGMENTSto break into piecesFRAGRANT adj having a pleasant odorFRAIL adj FRAILER FRAILESTfragileFRAILLY advFRAIL n pl FRAILSa basket for holding dried fruitsFRAILTY n pl FRAILTIESa weakness of characterFRAISE n pl FRAISESa barrier of pointed stakesFRAKTUR n pl FRAKTURSa style of typeFRAME v FRAMED FRAMING FRAMESto construct by putting together the various partsFRAMABLE adjFRAMER n pl FRAMERSone that framesFRAMING n pl FRAMINGSframeworkFRANC n pl FRANCSa former monetary unit of FranceFRANCISE v FRANCISED FRANCISING FRANCISESto francizeFRANCIUM n pl FRANCIUMSa radioactive elementFRANCIZE v FRANCIZED FRANCIZING FRANCIZESto force to adopt French customs and languageFRANK adj FRANKER FRANKESThonest and unreserved in speechFRANK v FRANKED FRANKING FRANKSto mark a piece of mail for free deliveryFRANKER n pl FRANKERSone that franksFRANKLIN n pl FRANKLINSa medieval English landownerFRANKLY adv in a frank mannerFRANKUM n pl FRANKUMSthe hardened resin of a spruce treeFRANTIC adj wildly excitedFRAP v FRAPPED FRAPPING FRAPSto bind firmlyFRAPPE n pl FRAPPESa partly frozen drinkFRASCATI n pl FRASCATISan Italian white wineFRASS n pl FRASSESdebris made by insectsFRAT n pl FRATSa college fraternityFRATER n pl FRATERSa comradeFRAUD n pl FRAUDStrickeryFRAUGHT v FRAUGHTED FRAUGHTING FRAUGHTSto load downFRAULEIN n pl FRAULEINSa German governessFRAY v FRAYED FRAYING FRAYSto wear off by rubbingFRAYING n pl FRAYINGSsomething worn off by rubbingFRAZIL n pl FRAZILStiny ice crystals formed in supercooled watersFRAZZLE v FRAZZLED FRAZZLING FRAZZLESto frayFREAK v FREAKED FREAKING FREAKSto streak with colorFREAKIER comparative of freakyFREAKIEST superlative of freakyFREAKILY adv in a freaky mannerFREAKISH adj unusualFREAKOUT n pl FREAKOUTSan event marked by wild excitementFREAKY adj FREAKIER FREAKIESTfreakishFRECKLE v FRECKLED FRECKLING FRECKLESto mark with freckles small brownish spotsFRECKLY adj FRECKLIER FRECKLIESTmarked with frecklesFREE adj FREER FREESTnot subject to restriction or controlFREE v FREED FREEING FREESto make freeFREEBASE v FREEBASED FREEBASING FREEBASESto use a form of cocaine that is inhaledFREEBEE n pl FREEBEESfreebieFREEBIE n pl FREEBIESsomething given or received without chargeFREEBOOT v FREEBOOTED FREEBOOTING FREEBOOTSto plunderFREEBORN adj born freeFREED past tense of freeFREEDMAN n pl FREEDMENa man who has been freed from slaveryFREEDOM n pl FREEDOMSthe state of being freeFREEFORM adj having a freeflowing design or shapeFREEGAN n pl FREEGANSan activist who scavenges for free food to reduce consumption of resourcesFREEHAND adj drawn by hand without mechanical aidsFREEHOLD n pl FREEHOLDSa form of tenure of real propertyFREELOAD v FREELOADED FREELOADING FREELOADSto live at the expense of othersFREELY adv in a free mannerFREEMAN n pl FREEMENone who is freeFREENESS n pl FREENESSESfreedomFREER n pl FREERSone that freesFREERIDE n pl FREERIDESa type of snowboardFREESIA n pl FREESIASan African herbFREEST superlative of freeFREEWARE n pl FREEWARESsoftware distributed without chargeFREEWAY n pl FREEWAYSan express highwayFREEWILL adj voluntaryFREEZE v FROZE FROZEN FREEZING FREEZESto become hardened into a solid body by loss of heatFREEZER n pl FREEZERSan apparatus for freezing foodFREEZING n pl FREEZINGSthe method by which foods are frozen to preserve themFREIGHT v FREIGHTED FREIGHTING FREIGHTSto load with goods for transportationFREMD adj strangeFREMITUS n pl FREMITUSESa palpable vibrationFRENA a pl of frenumFRENCH v FRENCHED FRENCHING FRENCHESto cut into thin strips before cookingFRENEMY n pl FRENEMIESone who pretends to be a friend but is actually an enemyFRENETIC n pl FRENETICSa frantic personFRENULUM n pl FRENULUMS or FRENULAa frenumFRENULAR adjFRENUM n pl FRENUMS or FRENAa connecting fold of membraneFRENZILY adv in a frantic mannerFRENZY v FRENZIED FRENZYING FRENZIESto make franticFREQUENT adj FREQUENTER FREQUENTESToccurring again and againFREQUENT v FREQUENTED FREQUENTING FREQUENTSto be in or at oftenFRERE n pl FRERESbrotherFRESCO v FRESCOED FRESCOING FRESCOS or FRESCOESto paint on a surface of plasterFRESCOER n pl FRESCOERSone that frescoesFRESH adj FRESHER FRESHESTnewFRESH v FRESHED FRESHING FRESHESto freshenFRESHEN v FRESHENED FRESHENING FRESHENSto make or become freshFRESHER n pl FRESHERSa freshmanFRESHET n pl FRESHETSa sudden overflow of a streamFRESHLY adv in a fresh mannerFRESHMAN n pl FRESHMENa firstyear student at a high school university or collegeFRESNEL n pl FRESNELSa type of lens used in lightsFRET v FRETTED FRETTING FRETSto worryFRETFUL adj inclined to fretFRETLESS adj having no fretworkFRETSAW n pl FRETSAWSa narrowbladed sawFRETSOME adj fretfulFRETTED past tense of fretFRETTER n pl FRETTERSone that fretsFRETTING present participle of fretFRETTY adj FRETTIER FRETTIESTfretfulFRETWORK n pl FRETWORKSornamental work consisting of interlacing partsFRIABLE adj easily crumbledFRIAR n pl FRIARSa member of a religious orderFRIARLY adjFRIARY n pl FRIARIESa monastery of friarsFRIBBLE v FRIBBLED FRIBBLING FRIBBLESto act foolishlyFRIBBLER n pl FRIBBLERSone that fribblesFRICANDO n pl FRICANDOESa roasted loin of vealFRICOT n pl FRICOTSa stew with potatoes and meat or fishFRICTION n pl FRICTIONSthe rubbing of one body against anotherFRIDGE n pl FRIDGESa refrigeratorFRIED past tense of fryFRIEND v FRIENDED FRIENDING FRIENDSto enter into a warm association withFRIENDLY adj FRIENDLIER FRIENDLIESTinclined to approve help or supportFRIENDLY n pl FRIENDLIESone who is friendlyFRIER n pl FRIERSfryerFRIES present 3d person sing of fryFRIEZE n pl FRIEZESa coarse woolen fabricFRIG n pl FRIGESa refrigeratorFRIG v FRIGGED FRIGGING FRIGSto cheat or trickFRIGATE n pl FRIGATESa sailing vesselFRIGHT v FRIGHTED FRIGHTING FRIGHTSto frightenFRIGHTEN v FRIGHTENED FRIGHTENING FRIGHTENSto make afraidFRIGID adj very coldFRIGIDLY advFRIJOL n pl FRIJOLESa bean used as foodFRIJOLE n pl FRIJOLESfrijolFRILL v FRILLED FRILLING FRILLSto provide with a frill an ornamental ruffled edgeFRILLER n pl FRILLERSone that frillsFRILLERY n pl FRILLERIESan arrangement of frillsFRILLIES npl an item of womens underwearFRILLING n pl FRILLINGSan arrangement of frillsFRILLY adj FRILLIER FRILLIESThaving frillsFRINGE v FRINGED FRINGING FRINGESto provide with a fringe an ornamental borderFRINGING n pl FRINGINGSan ornamental border of loose short stripsFRINGY adj FRINGIER FRINGIESTresembling a fringeFRIPPERY n pl FRIPPERIESexcessive ornamentationFRISE n pl FRISESfriezeFRISEE n pl FRISEEScurly leaves of endiveFRISETTE n pl FRISETTESfrizetteFRISEUR n pl FRISEURSa hairdresserFRISK v FRISKED FRISKING FRISKSto move or leap about playfullyFRISKER n pl FRISKERSone that frisksFRISKET n pl FRISKETSa frame used to protect paper in a printing pressFRISKY adj FRISKIER FRISKIESTlively and playfulFRISKILY advFRISSON n pl FRISSONSa shudderFRIT v FRITTED FRITTING FRITSto fuse into a vitreous substanceFRITES npl french friesFRITH n pl FRITHSfirthFRITT v FRITTED FRITTING FRITTSto fritFRITTATA n pl FRITTATASan unfolded omelet with chopped vegetables or meatFRITTED past tense of fritFRITTER v FRITTERED FRITTERING FRITTERSto squander little by littleFRITTING present participle of fritFRITZ n pl FRITZESa nonfunctioning stateFRIULANO n pl FRIULANOSa mild Italian cheeseFRIVOL v FRIVOLED FRIVOLING FRIVOLS or FRIVOLLED FRIVOLLING FRIVOLSto behave playfullyFRIVOLER n pl FRIVOLERSone that frivolsFRIZ v FRIZED FRIZING FRIZESto frizzFRIZER n pl FRIZERSfrizzerFRIZETTE n pl FRIZETTESa frizzed fringe of hairFRIZZ v FRIZZED FRIZZING FRIZZESto form into small tight curlsFRIZZER n pl FRIZZERSone that frizzesFRIZZIER comparative of frizzyFRIZZIES npl frizzy hairFRIZZIEST superlative of frizzyFRIZZILY adv in a frizzy mannerFRIZZLE v FRIZZLED FRIZZLING FRIZZLESto frizzFRIZZLER n pl FRIZZLERSone that frizzlesFRIZZLY adj FRIZZLIER FRIZZLIESTfrizzyFRIZZY adj FRIZZIER FRIZZIESTtightly curledFRO adv awayFROCK v FROCKED FROCKING FROCKSto clothe in a long loose outer garmentFROE n pl FROESa cleaving toolFROG v FROGGED FROGGING FROGSto hunt frogs webfooted tailless amphibiansFROGEYE n pl FROGEYESa plant diseaseFROGEYED adjFROGFISH n pl FROGFISHESa marine fishFROGGED past tense of frogFROGGING n pl FROGGINGSa type of ornamental coat fastenerFROGGY adj FROGGIER FROGGIESTabounding in frogsFROGLET n pl FROGLETSa young frogFROGLIKE adj resembling a frogFROGMAN n pl FROGMENa person equipped for extended periods of underwater swimmingFROLIC v FROLICKED FROLICKING FROLICSto play and run about merrilyFROLICKY adjFROM prep starting atFROMAGE n pl FROMAGEScheeseFROMENTY n pl FROMENTIESfrumentyFROND n pl FRONDSa type of leafFRONDED FRONDOSE adjFRONDEUR n pl FRONDEURSa rebelFRONS n pl FRONTESthe upper anterior portion of an insects headFRONT adj FRONTER FRONTESTpertaining to or situated at the forward part of a surfaceFRONT v FRONTED FRONTING FRONTSto provide with a front a forward partFRONTAGE n pl FRONTAGESthe front of a building or lotFRONTAL n pl FRONTALSa bone of the skullFRONTES pl of fronsFRONTIER n pl FRONTIERSa border between two countriesFRONTLET n pl FRONTLETSa decorative band worn across the foreheadFRONTMAN n pl FRONTMENthe most prominent member of a group of musiciansFRONTON n pl FRONTONSa jai alai arenaFRORE adj frozenFROSH n pl FROSHESa freshmanFROST v FROSTED FROSTING FROSTSto cover with frost a deposit of minute ice crystalsFROSTBIT adj injured by extreme coldFROSTED n pl FROSTEDSa type of milk shakeFROSTING n pl FROSTINGSicingFROSTNIP n pl FROSTNIPSthe freezing of outer skin layersFROSTY adj FROSTIER FROSTIESTcovered with frostFROSTILY advFROTH v FROTHED FROTHING FROTHSto foamFROTHER n pl FROTHERSone that frothsFROTHING n pl FROTHINGSa layer of foam in a liquid or solidFROTHY adj FROTHIER FROTHIESTfoamyFROTHILY advFROTTAGE n pl FROTTAGESmasturbation by rubbing against another personFROTTEUR n pl FROTTEURSone who practices frottageFROUFROU n pl FROUFROUSa rustling soundFROUNCE v FROUNCED FROUNCING FROUNCESto pleatFROUZY adj FROUZIER FROUZIESTfrowzyFROW n pl FROWSfroeFROWARD adj disobedientFROWN v FROWNED FROWNING FROWNSto contract the brow in displeasureFROWNER n pl FROWNERSone that frownsFROWST v FROWSTED FROWSTING FROWSTSto lounge in a stuffy roomFROWSTY adj FROWSTIER FROWSTIESTmustyFROWSY adj FROWSIER FROWSIESTfrowzyFROWZY adj FROWZIER FROWZIESTunkemptFROWZILY advFROZE past tense of freezeFROZEN adj very coldFROZENLY advFRUCTIFY v FRUCTIFIED FRUCTIFYING FRUCTIFIESto bear fruitFRUCTOSE n pl FRUCTOSESa sugar found in various fruitsFRUG v FRUGGED FRUGGING FRUGSto perform a type of vigorous danceFRUGAL adj thriftyFRUGALLY advFRUIT v FRUITED FRUITING FRUITSto bear fruit usually edible reproductive bodies of a seed plantFRUITAGE n pl FRUITAGESthe process of bearing fruitFRUITER n pl FRUITERSone that grows or sells fruitFRUITFUL adj FRUITFULLER FRUITFULLESTproducing abundantlyFRUITIER comparative of fruityFRUITIEST superlative of fruityFRUITING n pl FRUITINGSthe production of fruit on a treeFRUITION n pl FRUITIONSthe accomplishment of something desiredFRUITLET n pl FRUITLETSa small fruitFRUITY adj FRUITIER FRUITIESTsuggestive of fruitFRUITILY advFRUMENTY n pl FRUMENTIESa dish of wheat boiled in milk and sweetened with sugarFRUMP n pl FRUMPSa dowdy womanFRUMPISH adjFRUMPY adj FRUMPIER FRUMPIESTdowdyFRUMPILY advFRUSTULE n pl FRUSTULESthe shell of a diatomFRUSTUM n pl FRUSTUMS or FRUSTAa part of a conical solidFRY v FRIED FRYING FRIESto cook over direct heat in hot fat or oilFRYABLE adjFRYBREAD n pl FRYBREADSa fried breadFRYER n pl FRYERSone that friesFRYPAN n pl FRYPANSa pan for frying foodFUB v FUBBED FUBBING FUBSto fobFUBSY adj FUBSIER FUBSIESTchubby and somewhat squatFUCHSIA n pl FUCHSIASa flowering shrubFUCHSIN n pl FUCHSINSa red dyeFUCHSINE n pl FUCHSINESfuchsinFUCI a pl of fucusFUCOID n pl FUCOIDSa brown seaweedFUCOIDAL adjFUCOSE n pl FUCOSESa type of sugarFUCOUS adj of or pertaining to fucoidsFUCUS n pl FUCUSES or FUCIany of a genus of brown algaeFUD n pl FUDSan oldfashioned personFUDDLE v FUDDLED FUDDLING FUDDLESto confuseFUDDY n pl FUDDIESa fussy personFUDGE v FUDGED FUDGING FUDGESto falsifyFUDGY adj FUDGIER FUDGIESTresembling fudge a soft sweet candyFUEHRER n pl FUEHRERSfuhrerFUEL v FUELED FUELING FUELS or FUELLED FUELLING FUELSto provide with fuel material used to produce energyFUELER n pl FUELERSone that fuelsFUELLER n pl FUELLERSfuelerFUELWOOD n pl FUELWOODSfirewoodFUG v FUGGED FUGGING FUGSto make stuffy and odorousFUGACITY n pl FUGACITIESlack of enduring qualitiesFUGAL adj being in the style of a fugueFUGALLY advFUGATO n pl FUGATOSa fugal compositionFUGGED past tense of fugFUGGING present participle of fugFUGGY adj FUGGIER FUGGIESTstuffy and odorousFUGGILY advFUGIO n pl FUGIOSa former coin of the United StatesFUGITIVE n pl FUGITIVESone who fleesFUGLE v FUGLED FUGLING FUGLESto lead by setting an exampleFUGLEMAN n pl FUGLEMENa leaderFUGU n pl FUGUSa toxincontaining fishFUGUE v FUGUED FUGUING FUGUESto compose a fugue a type of musical compositionFUGUIST n pl FUGUISTSone who composes fuguesFUHRER n pl FUHRERSa leaderFUJI n pl FUJISa silk fabricFULCRUM n pl FULCRUMS or FULCRAa support for a leverFULFIL v FULFILLED FULFILLING FULFILSto fulfillFULFILL v FULFILLED FULFILLING FULFILLSto bring about the accomplishment ofFULGENT adj shining brightlyFULGID adj fulgentFULHAM n pl FULHAMSa loaded dieFULL adj FULLER FULLESTfilled completelyFULL v FULLED FULLING FULLSto shrink and thicken as clothFULLAM n pl FULLAMSfulhamFULLBACK n pl FULLBACKSan offensive back in footballFULLER v FULLERED FULLERING FULLERSto groove with a type of hammerFULLERY n pl FULLERIESa place for fulling clothFULLFACE n pl FULLFACESa heavyfaced typeFULLNESS n pl FULLNESSESthe state of being fullFULLY adv in a full mannerFULMAR n pl FULMARSan arctic seabirdFULMINE v FULMINED FULMINING FULMINESto explode loudlyFULMINIC adj highly explosiveFULNESS n pl FULNESSESfullnessFULSOME adj repulsiveFULVOUS adj of a brownish yellow colorFUMARASE n pl FUMARASESan enzymeFUMARATE n pl FUMARATESa chemical saltFUMARIC adj pertaining to a certain acidFUMAROLE n pl FUMAROLESa hole from which volcanic vapors issueFUMATORY n pl FUMATORIESa fumigation chamberFUMBLE v FUMBLED FUMBLING FUMBLESto handle clumsilyFUMBLER n pl FUMBLERSone that fumblesFUME v FUMED FUMING FUMESto give off fumes gaseous exhalationsFUMELESS adj having no fumesFUMELIKE adj resembling fumesFUMER n pl FUMERSone that fumesFUMET n pl FUMETSthe odor of meat while cookingFUMETTE n pl FUMETTESfumetFUMIER comparative of fumyFUMIEST superlative of fumyFUMIGANT n pl FUMIGANTSa substance used in fumigatingFUMIGATE v FUMIGATED FUMIGATING FUMIGATESto subject to fumes in order to destroy pestsFUMING present participle of fumeFUMINGLY adv angrilyFUMITORY n pl FUMITORIESa climbing plantFUMULUS n pl FUMULIa thin cloudFUMY adj FUMIER FUMIESTproducing or full of fumesFUN adj FUNNER FUNNESTproviding enjoymentFUN v FUNNED FUNNING FUNSto act playfullyFUNCTION v FUNCTIONED FUNCTIONING FUNCTIONSto be in actionFUNCTOR n pl FUNCTORSone that functionsFUND v FUNDED FUNDING FUNDSto provide money forFUNDABLE adjFUNDER n pl FUNDERSa provider of moneyFUNDING n pl FUNDINGSmoney provided for a particular purposeFUNDUS n pl FUNDIthe inner basal surface of a bodily organFUNDIC adjFUNERAL n pl FUNERALSa ceremony held for a dead personFUNERARY adj pertaining to a funeralFUNEREAL adj funeraryFUNEST adj portending death or evilFUNFAIR n pl FUNFAIRSan amusement parkFUNFEST n pl FUNFESTSa party for funFUNGAL n pl FUNGALSa fungusFUNGI a pl of fungusFUNGIBLE n pl FUNGIBLESsomething that may be exchanged for an equivalent unit of the same classFUNGIC adj fungousFUNGO n pl FUNGOES or FUNGOSa fly ball hit to a fielder for practice in baseballFUNGOID n pl FUNGOIDSa growth resembling a fungusFUNGOUS adj pertaining to a fungusFUNGUS n pl FUNGUSES or FUNGIany of a major group of lower plantsFUNHOUSE n pl FUNHOUSESan amusement park attractionFUNICLE n pl FUNICLESa cordlike anatomical structureFUNICULI npl funiclesFUNK v FUNKED FUNKING FUNKSto shrink back in fearFUNKER n pl FUNKERSone that funksFUNKIA n pl FUNKIASa flowering plantFUNKSTER n pl FUNKSTERSa fan or performer of earthy bluesy musicFUNKY adj FUNKIER FUNKIESThaving an offensive odorFUNKILY advFUNNED past tense of funFUNNEL v FUNNELED FUNNELING FUNNELS or FUNNELLED FUNNELLING FUNNELSto pass through a funnel a coneshaped utensilFUNNER comparative of funFUNNEST superlative of funFUNNING present participle of funFUNNY adj FUNNIER FUNNIESTcausing laughter or amusementFUNNILY advFUNNY n pl FUNNIESa comic stripFUNNYMAN n pl FUNNYMENa comedianFUNPLEX n pl FUNPLEXESa building with facilities for sports and gamesFUNSTER n pl FUNSTERSone that makes fun a comedianFUR v FURRED FURRING FURSto cover with fur a dressed animal peltFURAN n pl FURANSa flammable liquidFURANE n pl FURANESfuranFURANOSE n pl FURANOSESa type of sugarFURBALL n pl FURBALLSa ball of fur regurgitated by a catFURBELOW v FURBELOWED FURBELOWING FURBELOWSto decorate with rufflesFURBISH v FURBISHED FURBISHING FURBISHESto polishFURCATE v FURCATED FURCATING FURCATESto divide into branchesFURCRAEA n pl FURCRAEASa tropical plantFURCULA n pl FURCULAEa forked boneFURCULAR adjFURCULUM n pl FURCULAa furculaFURFUR n pl FURFURESdandruffFURFURAL n pl FURFURALSa chemical compoundFURFURAN n pl FURFURANSfuranFURIBUND adj furiousFURIES pl of furyFURIOSO adv with great force  used as a musical directionFURIOUS adj extremely angryFURL v FURLED FURLING FURLSto roll upFURLABLE adjFURLER n pl FURLERSone that furlsFURLESS adj having no furFURLONG n pl FURLONGSa unit of distanceFURLOUGH v FURLOUGHED FURLOUGHING FURLOUGHSto grant a leave of absence toFURMENTY n pl FURMENTIESfrumentyFURMETY n pl FURMETIESfrumentyFURMITY n pl FURMITIESfrumentyFURNACE v FURNACED FURNACING FURNACESto subject to heatFURNISH v FURNISHED FURNISHING FURNISHESto equipFUROR n pl FURORSan uproarFURORE n pl FURORESfurorFURPIECE n pl FURPIECESan item of clothing made out of furFURRED past tense of furFURRIER n pl FURRIERSone that deals in fursFURRIERY n pl FURRIERIESthe business of a furrierFURRIEST superlative of furryFURRILY adv in a furry mannerFURRINER n pl FURRINERSa foreignerFURRING n pl FURRINGSa trimming or lining of furFURROW v FURROWED FURROWING FURROWSto make furrows narrow depressions inFURROWER n pl FURROWERSone that furrowsFURROWY adj marked by furrowsFURRY adj FURRIER FURRIESTcovered with furFURTHER v FURTHERED FURTHERING FURTHERSto help forwardFURTHEST a superlative of farFURTIVE adj stealthyFURUNCLE n pl FURUNCLESa painful swelling of the skinFURY n pl FURIESviolent angerFURZE n pl FURZESa spiny shrubFURZY adj FURZIER FURZIESTabounding in furzeFUSAIN n pl FUSAINSa fine charcoal used in drawingFUSARIUM n pl FUSARIUMS or FUSARIAa diseasecausing fungusFUSCOUS adj of a dusky colorFUSE v FUSED FUSING FUSESto equip with a fuse a detonating deviceFUSEE n pl FUSEESa largeheaded friction matchFUSEL n pl FUSELSan oily liquidFUSELAGE n pl FUSELAGESthe body of an airplaneFUSELESS adj lacking a fuseFUSELIKE adj resembling a fuseFUSIBLE adj capable of being meltedFUSIBLY advFUSIFORM adj tapering toward each endFUSIL n pl FUSILSa type of musketFUSILE adj formed by meltingFUSILEER n pl FUSILEERSfusilierFUSILIER n pl FUSILIERSa soldier armed with a fusilFUSILLI n pl FUSILLISspiralshaped pastaFUSING present participle of fuseFUSION n pl FUSIONSthe act of melting togetherFUSIONAL adjFUSS v FUSSED FUSSING FUSSESto be overly concerned with small detailsFUSSER n pl FUSSERSone that fussesFUSSPOT n pl FUSSPOTSa fusserFUSSY adj FUSSIER FUSSIESToverly concerned with small detailsFUSSILY advFUSTIAN n pl FUSTIANSa cotton fabricFUSTIC n pl FUSTICSa tropical treeFUSTY adj FUSTIER FUSTIESTmustyFUSTILY advFUSUMA n pl FUSUMAa sliding partitiion in a Japanese houseFUTHARC n pl FUTHARCSfutharkFUTHARK n pl FUTHARKSan ancient alphabetFUTHORC n pl FUTHORCSfutharkFUTHORK n pl FUTHORKSfutharkFUTILE adj having no useful resultFUTILELY advFUTILITY n pl FUTILITIESthe quality of being futileFUTON n pl FUTONSa cotton filled mattress for use as a bedFUTTOCK n pl FUTTOCKSa curved timber in the frame of a wooden shipFUTURE n pl FUTURESthe time yet to comeFUTURAL adjFUTURISM n pl FUTURISMSan artistic and literary movementFUTURIST n pl FUTURISTSan advocate of futurismFUTURITY n pl FUTURITIESthe futureFUTZ v FUTZED FUTZING FUTZESto spend time aimlesslyFUZE v FUZED FUZING FUZESto fuseFUZEE n pl FUZEESfuseeFUZELESS adj fuselessFUZIL n pl FUZILSfusilFUZING present participle of fuzeFUZZ v FUZZED FUZZING FUZZESto become fuzzyFUZZBALL n pl FUZZBALLSa ball of fuzz a fluffy mass of hair or fiberFUZZTONE n pl FUZZTONESa blurred audio effectFUZZY adj FUZZIER FUZZIESTblurryFUZZILY advFYCE n pl FYCESfeistFYKE n pl FYKESa bagshaped fishnetFYLFOT n pl FYLFOTSa swastikaFYNBOS n pl FYNBOSa type of biome in South AfricaFYTTE n pl FYTTESa division of a poem or song")`.
+entry(gab, v, [gabbed,gabbing,gabs], "nói chuyện phiếm").
+entry(gabba, n, [gabbas], "âm nhạc nghe hung hãn với nhịp độ rất nhanh").
+entry(gabbard, n, [gabbards], "một chiếc xà lan").
+entry(gabbart, n, [gabbarts], "gabbard").
+entry(gabbed, past, [], "thì quá khứ của gab").
+entry(gabber, n, [gabbers], "một người nói nhảm").
+entry(gabbier, comparative, [], "của nói nhiều").
+entry(gabbiest, superlative, [], "của lém lỉnh").
+entry(gabbing, hiện tại, [], "phân từ của gab").
+entry(lảm nhảm, v, [đã_lảm_nhảm, đang_lảm_nhảm, lảm_nhảm], "nói lảm nhảm").
+entry(kẻ_nói_luyên_thuyên, n, [những_kẻ_nói_luyên_thuyên], "người nói luyên thuyên").
+entry(gabbro, n, [gabbros], "một loại đá GABBROIC GABBROID adj").
+entry(gabby, adj, [], "GABBIER GABBIESTnói nhiều").
+entry(gabelle, n, [gabelles], "một loại thuế đánh vào muốiGABELLED adj").
+entry(gabfest, n, [gabfests], "một buổi tụ họp không chính thức để trò chuyện chung").
+entry(gabies, pl, [], "của gaby").
+entry(gabion, n, [rọ đá], "một loại giỏ").
+entry(gable, v, [gabled,gabling,gables], "tạo thành một phần tường hình tam giác").
+entry(rắn mamba, n, [rắn mamba], "một chiếc ống nhổ").
+entry(gaby, n, [gabies], "một người ngu ngốc").
+entry(gach, v, [gached,gaching,gaches], "để ghatch").
+entry(gacher, n, [gachers], "gatcher").
+entry(gad, v, [gadded,gadding,gads], "đi lang thang một cách bồn chồn").
+mục(đi chơi, n, [đi khóai lạc], "người đi đây đi đó vì thú vui").
+entry(gadarene, adj, [], "đâm đầu").
+entry(gadded, quá_khứ, [], "thì của gad").
+entry(gadder, n, [gadders], "một người đi lang thang").
+entry(gaddi, n, [gaddis], "một cái đệm hassock").
+entry(gadding, hiện tại, [], "phân từ của gad").
+entry(gadfly, n, [gadflies], "một loài ruồi cắn").
+entry(gadget, n, [gadgets], "thiết bị cơ khíGADGETY adj").
+entry(gadgetry, n, [gadgetries], "sự sáng chế hay chế tạo các thiết bị").
+entry(gadi, n, [gadis], "gaddi").
+entry(gadid, n, [gadids], "cá tuyết").
+entry(cá tuyết, n, [cá tuyết], "một loại cá").
+entry(gadroon, v, [gadrooned, gadrooning, gadroons], "trang trí với các dải gờ nổi hoặc gờ có rãnh").
+entry(gadwall, n, [gadwalls], "một loài vịt hoang dã").
+entry(gadzooks, thán từ, [], "được sử dụng như một lời thề nhẹ").
+entry(gae, v, [], "ĐI ĐI LẠI ĐI ĐI ĐI HOẶC ĐI ĐI ĐI ĐI").
+entry(gaff, v, [gaffed,gaffing,gaffs], "bắt cá bằng móc nhọn").
+entry(gaffe, n, [gaffes], "một lỗi lầm xã hội").
+entry(gaffer, n, [gaffers], "một ông già").
+entry(gag, v, [gagged,gagging,gags], "bịt miệng").
+entry(gaga, adj, [], "điên").
+entry(gagaku, n, [gagakus], "nhạc cung đình cổ của Nhật Bản").
+entry(gage, v, [gaged,gaging,gages], "cam kết làm bảo đảmGAGEABLE adj").
+entry(gager, n, [gagers], "người đo").
+entry(bịt miệng, quá khứ, [], "thì của bịt miệng").
+entry(gagger, n, [gaggers], "một thứ bịt miệng").
+entry(gagging, hiện tại, [], "phân từ của gag").
+entry(gaggle, v, [gaggled,gaggling,gaggles], "kêu cạc cạc").
+entry(gaging, present, [], "phân từ của gage").
+entry(gagman, n, [gagmen], "một người viết trò đùa").
+entry(gagster, n, [gagsters], "một người hài hước").
+entry(gahnite, n, [gahnites], "một khoáng vật").
+entry(sự vui vẻ, n, [những niềm vui], "hoạt động lễ hội").
+entry(gaijin, n, [gaijin], "một người nước ngoài ở Nhật Bản").
+entry(vui vẻ, adv, [], "một cách vui vẻ").
+entry(gain, v, [đã_đạt_được,đang_đạt_được,đạt_được], "để có đượcCÓ_THỂ_ĐẠT_ĐƯỢC adj").
+entry(gainer, n, [gainers], "một người đạt được").
+entry(gainful, adj, [], "có lợi").
+entry(gainless, adj, [], "không lợi nhuận").
+entry(gainly, adj, [], "DUYÊN DÁNG DUYÊN DÁNG NHẤT").
+entry(phủ_nhận, v, [đã_phủ_nhận,đang_phủ_nhận,phủ_nhận], "để phủ nhận").
+entry(gainst, prep, [], "chống lại").
+entry(gait, v, [gaited, gaiting, gaits], "huấn luyện ngựa di chuyển theo một cách cụ thể").
+entry(vớ ống, n, [ống quần], "một vật che cho phần chân dướiGAITERED adj").
+entry(gal, n, [gals], "một cô gái").
+entry(gala, n, [galas], "một lễ kỷ niệm").
+entry(galabia, n, [galabias], "djellaba").
+entry(galabieh, n, [galabiehs], "áo choàng djellaba").
+entry(galabiya, n, [galabiyas], "djellaba").
+entry(ngân_hà, adj, [], "liên quan đến một thiên hà").
+entry(galago, n, [các loài galago], "một loài linh trưởng nhỏ").
+entry(két mào hồng, n, [những con két mào hồng], "một loại vẹt mào").
+entry(rễ_cây_gừng, n, [rễ_cây_gừng], "riềng").
+entry(gừng, n, [gừng], "một loại cây thuốc").
+entry(galatea, n, [galateas], "một loại vải cotton dày").
+entry(galavant, v, [galavanted, galavanting, galavants], "đi lang thang").
+entry(galax, n, [galaxes], "một loại thảo mộc thường xanh").
+entry(galaxy, n, [thiên hà], "một hệ thống lớn của các thiên thể").
+entry(galbanum, n, [galbanum], "một loại nhựa gôm").
+mục(gale, v, [galed,galing,gales], "vui chơi một cách nghịch ngợm").
+entry(galea, n, [galeas], "hoặc GALEAE một phần giải phẫu hình mũ bảo hiểm GALEATE GALEATED adj").
+entry(galena, n, [galenas], "quặng chính của chìGALENIC adj").
+entry(galenite, n, [galenites], "galenit").
+entry(galere, n, [galeres], "một nhóm người có cùng một đặc điểm").
+entry(galette, n, [galettes], "một loại bánh dẹt tròn").
+entry(galilee, n, [galilees], "một loại hành lang").
+entry(galing, hiện tại, [], "phân từ của gale").
+entry(galiot, n, [galiots], "thuyền buồm nhỏ").
+entry(galipot, n, [galipots], "một loại nhựa thông").
+entry(galivant, v, [galivanted,galivanting,galivants], "đi lang thang").
+entry(gall, v, [galled,galling,galls], "để làm phiền hoặc gây khó chịu").
+entry(gallant, v, [gallanted,gallanting,gallants], "tán tỉnh một người phụ nữ").
+entry(gallate, n, [gallates], "một loại muối hóa học").
+entry(galleass, n, [galleasses], "một loại tàu chiến lớn").
+entry(gallein, n, [galleins], "một loại thuốc nhuộm màu xanh lá cây").
+entry(tàu chiến, n, [tàu chiến], "một chiếc thuyền buồm lớn").
+entry(galleria, n, [gallerias], "một lối đi có mái che hoặc sân").
+entry(phòng trưng bày, v, [phòng trưng bày, trưng bày, các phòng trưng bày], "cung cấp một khu vực có mái che dài").
+entry(gallet, v, [galleted,galleting,gallets], "để lấp các mạch vữa bằng mảnh đá").
+entry(galleta, n, [galletas], "một loại cỏ lâu năm").
+entry(thuyền buồm, n, [thuyền buồm], "một con tàu dài thấp thời trung cổ").
+entry(gallfly, n, [gallflies], "một loài côn trùng nhỏ").
+entry(galliard, n, [galliards], "một điệu nhảy sống động").
+entry(galliass, n, [galliasses], "thuyền buồm lớn").
+entry(gallic, adj, [], "chứa gali").
+entry(gallica, n, [gallicas], "một loài hoa hồng châu Âu").
+entry(gallican, adj, [], "liên quan đến một phong trào tôn giáo của Pháp").
+entry(gallied, past, [], "thì của gally").
+entry(gallies, present, [], "3d số ít của gally").
+entry(galliot, n, [galliots], "một loại thuyền chèo nhỏ").
+entry(gallipot, n, [gallipots], "một cái lọ đất nhỏ").
+entry(kim_loại_gali, n, [kim_loại_gali], "một nguyên tố kim loại").
+entry(gallnut, n, [gallnuts], "một sự phình to bất thường của mô thực vật").
+entry(gallon, n, [gallon], "một đơn vị đo lường chất lỏng").
+entry(galloon, n, [galloons], "một dải trang trí").
+entry(galloot, n, [galloots], "gã kì quái").
+entry(gallop, v, [phi nước đại, phi nước đại, phi nước đại], "cưỡi ngựa với tốc độ tối đa").
+entry(galloper, n, [gallopers], "một cái phi nước đại").
+entry(gallous, adj, [], "chứa gali").
+entry(galloway, n, [galloways], "một giống bò không sừng").
+entry(gallows, n, [gallowses], "một cấu trúc được sử dụng để treo cổ một người bị kết án").
+entry(gallus, n, [galluses], "một dây đeo quầnGALLUSED adj").
+entry(gally, v, [gallied,gallying,gallies], "làm sợ hãi").
+entry(galoot, n, [galoots], "một người vụng về hoặc thô lỗ").
+mục(lên ngựa, v, [lên_ngựa_đã_thôi, lên_ngựa_đang_thôi, lên_ngựa_thôi], "để nhảy ngựa một điệu nhảy tròn sôi nổi").
+entry(galopade, n, [galopades], "một điệu nhảy vòng sôi động").
+entry(phong_phú, n, [phong_phú], "sự dồi dào").
+entry(galosh, n, [galoshes], "một loại giày bảo vệ chống thấm nước GALOSHED adj").
+entry(galoshe, n, [galoshes], "ủng đi mưa").
+entry(galumph, v, [galumphed,galumphing,galumphs], "di chuyển vụng về").
+entry(galvanic, adj, [], "liên quan đến dòng điện một chiều").
+entry(galyac, n, [galyacs], "galyak").
+entry(galyak, n, [galyaks], "loại lông thú làm từ da cừu non").
+entry(gam, v, [gammed,gamming,gams], "ghé thăm xã giao").
+entry(gama, n, [gamas], "một loài cỏ đồng cỏ").
+entry(gamashes, npl, [], "ủng được mang bởi người cưỡi ngựa").
+entry(gamay, n, [gamays], "một loại nho đỏ").
+entry(gamb, n, [gambs], "một cái chân").
+entry(gamba, n, [gambas], "một loại đàn viola bass").
+entry(gambade, n, [gambades], "một cú nhảy").
+entry(gambado, n, [gambados], "hoặc GAMBADOES một cú nhảy của con ngựa").
+entry(gambe, n, [gambes], "gamb").
+entry(gambeson, n, [gambesons], "một loại áo khoác thời trung cổ").
+entry(gambia, n, [gambias], "gambier").
+entry(gambier, n, [gambiers], "một loại chiết xuất được lấy từ một loại dây leo châu Á").
+entry(gambir, n, [cây_gambir], "gambier").
+mục(gambit, n, [gambits], "một loại khai cuộc cờ vua").
+entry(cờ_bạc, v, [đã_cờ_bạc, đang_cờ_bạc, cờ_bạc], "chơi trò may rủi để kiếm tiền hoặc vật có giá trị").
+entry(con_bạc, n, [con_bạc], "người đánh bạc").
+entry(gamboge, n, [gamboges], "một loại nhựa cây").
+entry(gambol, v, [gamboled,gamboling,gambols], "hoặc GAMBOLLED GAMBOLLING GAMBOLSto nhảy nhót vui đùa").
+entry(gambrel, n, [gambrels], "một phần của chân ngựa").
+entry(cá bảy màu, n, [cá bảy màu], "một loài cá nhỏ").
+entry(game, adj, [], "THỦ TRÒ CHƠI DŨNG CẢM NHẤT").
+entry(game, v, [gamed,gaming,games], "đánh bạc").
+entry(gamebook, n, [gamebooks], "một cuốn sách chiến lược được sử dụng bởi một đội thể thao").
+entry(gamecock, n, [gamecocks], "một con gà trống được huấn luyện để chiến đấu").
+entry(gamefish, n, [gamefishes], "một loài cá được câu để giải trí").
+entry(gamefowl, n, [gamefowls], "một con gà chọi").
+entry(gamelan, n, [gamelans], "một loại dàn nhạc").
+entry(gamelike, adj, [], "tương tự như một trò chơi, một cuộc thi được điều chỉnh bởi một tập hợp các quy tắc").
+entry(gamely, adv, [], "một cách hào hứng").
+entry(gameness, n, [gamenesses], "chất lượng của sự kiên cường.").
+entry(gameplay, n, [gameplays], "cách một trò chơi điện tử hoặc máy tính được chơi").
+entry(game thủ, n, [game thủ], "người chơi game đam mê").
+entry(gamesman, n, [gamesmen], "người chơi trò chơi").
+entry(gamesome, adj, [], "vui tươi").
+entry(gamest, superlative, [], "của game").
+entry(gamester, n, [gamesters], "một người đánh bạc").
+entry(giao tử, n, [giao tử], "một tế bào sinh sản trưởng thànhGAMETAL GAMETIC adj").
+entry(gamey, adj, [], "GAMIER GAMIESTgamy").
+entry(gamic, adj, [], "cần thụ phấn").
+entry(gamier, so sánh hơn, [], "của gamy").
+entry(gamiest, cấp_bậc_tuyệt_đối, [], "của gamy").
+entry(gamily, adv, [], "một cách vui vẻ trong một trò chơi").
+entry(gamin, n, [gamins], "một đứa trẻ nghịch ngợm").
+entry(gamine, n, [gamines], "một cô gái tinh nghịch").
+entry(gaminess, n, [gaminesses], "chất lượng của việc có mùi gamey").
+entry(gaming, n, [gamings], "việc đánh bạc").
+entry(gamma, n, [gammas], "một chữ cái Hy Lạp").
+entry(gammadia, npl, [], "Thiết kế trang trí Hy Lạp").
+entry(gammed, past, [], "thì quá khứ của gam").
+mục_gam(gammer, n, [gammers], "một bà già").
+entry(gammier, so_sánh_hơn, [], "của gammy").
+entry(gammiest, superlative, [], "của gammy").
+entry(gamming, hiện tại, [], "phân từ của gam").
+entry(gammon, v, [gammoned,gammoning,gammons], "đánh lừa bằng lời nói dối trá").
+entry(gammoner, n, [gammoners], "người thắng gammon").
+entry(gammy, adj, [], "GAMMIER GAMMIESTlame").
+entry(gamodeme, n, [gamodemes], "một cộng đồng sinh sản của các sinh vật khá tách biệt").
+entry(gamp, n, [gamps], "một chiếc ô lớn").
+entry(gamut, n, [gamuts], "một phạm vi toàn bộ").
+entry(gamy, adj, [], "GAMIER GAMIESTcan đảm").
+entry(gan, quá_khứ, [], "thời của gin").
+entry(ganache, n, [ganaches], "hỗn hợp sô cô la kem").
+entry(gander, v, [gandered,gandering,ganders], "đi lang thang").
+entry(gane, a, [], "quá khứ phân từ của gae").
+entry(kẻ trộm, n, [kẻ trộm], "một tên trộm").
+entry(ganev, n, [ganevs], "tên trộm").
+entry(gang, v, [ganged,ganging,gangs], "tập hợp thành một băng nhóm").
+entry(gangbang, v, [gangbanged,gangbanging,gangbangs], "tham gia vào các hoạt động liên quan đến băng nhóm").
+entry(ganger, n, [gangers], "một đốc công của một nhóm công nhân").
+entry(gangland, n, [ganglands], "thế giới tội phạm ngầm").
+entry(gangle, v, [gangled,gangling,gangles], "di chuyển vụng về").
+entry(ganglia, a, [], "số nhiều của ganglion").
+entry(ganglial, adj, [], "hạch").
+entry(gangliar, adj, [], "liên quan đến một hạch").
+entry(ganglier, comparative, [], "của gangly").
+entry(gangliest, so sánh nhất, [], "của gangly").
+entry(gangling, adj, [], "cao lêu nghêu và vụng về").
+mục(ganglion, n, [ganglions], "hoặc GANGLIA một nhóm tế bào thần kinh").
+entry(gangly, adj, [], "GANGLIER GANGLIESTgan góc").
+entry(gangplow, n, [gangplows], "một công cụ nông nghiệp").
+entry(gangrel, n, [gangrels], "một kẻ lang thang").
+entry(gangrene, v, [gangrened,gangrening,gangrenes], "sự bị hoại tử ở một phần của cơ thể").
+entry(gangsta, n, [gangstas], "một thành viên của một băng đảng đường phố").
+entry(gangster, n, [những tên gangster], "thành viên của một băng đảng tội phạm").
+entry(gangue, n, [gangues], "đá không có giá trị trong đó có các khoáng sản quý được tìm thấy").
+entry(gangway, n, [gangways], "lối đi").
+entry(ganister, n, [ganisters], "một loại đá").
+entry(ganja, n, [ganjas], "cần sa được sử dụng để hút thuốc").
+entry(ganjah, n, [ganjahs], "cần sa").
+entry(gannet, n, [gannets], "một loài chim biển lớn").
+entry(gannetry, n, [gannetries], "nơi các loài chim điên sinh sản").
+entry(ganof, n, [ganofs], "ganef").
+entry(ganoid, n, [ganoids], "một loại cá").
+entry(gantlet, v, [gantleted, gantleting, gantlets], "chồng chéo đường ray xe lửa").
+entry(gantline, n, [gantlines], "một sợi dây trên tàu").
+entry(gantlope, n, [gantlopes], "một hình phạt quân sự trước đây").
+entry(cổng khung, n, [các cổng khung], "một cấu trúc để hỗ trợ tín hiệu đường sắt").
+entry(ganymede, n, [ganymedes], "một thiếu niên phục vụ rượu").
+entry(ganzfeld, n, [ganzfelds], "một kỹ thuật kiểm soát đầu vào cảm giác được sử dụng trong tâm lý học siêu nhiên").
+entry(tù, v, [tù đã, tù đang, nhà tù], "bỏ tù").
+entry(gaolbird, n, [gaolbirds], "chim tù").
+entry(người gác tù, n, [người gác tùs], "người cai ngục").
+mục(khoảng cách, v, [bị gián đoạn, đang gián đoạn, gián đoạn], "tạo ra một lỗ hổng trong").
+entry(há hốc, v, [há hốc, đang há hốc, há hốc], "nhìn chằm chằm với miệng mở").
+entry(gaper, n, [gapers], "một người há hốc miệng").
+entry(gapeseed, n, [gapeseeds], "thứ gì đó gây ra sự kinh ngạc").
+entry(sâu hở miệng, n, [sâu hở miệng], "một loại giun gây ra bệnh cho chim non").
+entry(gaping, present, [], "phân từ của gape").
+entry(gapingly, adv, [], "một cách há hốc miệng").
+entry(gapless, adj, [], "không có khoảng trống").
+entry(gaposis, n, [gaposises], "khoảng trống trong hàng nút hoặc khóa bấm").
+entry(gapped, past, [], "thì của gap").
+entry(khe_hở, hiện_tại, [], "phân_từ của khe hở").
+entry(gappy, adj, [], "GAPPIER GAPPIESTcó khe hở").
+entry(gapy, adj, [], "nhiễm giun ký sinh ở đường hô hấp").
+entry(gar, v, [garred,garring,gars], "gây ra hoặc ép buộc").
+entry(garaje, v, [đỗ xe, đưa xe vào gara, gara], "đưa vào gara để trú xe").
+entry(garb, v, [garbed,garbing,garbs], "mặc quần áo").
+entry(rác, n, [rács], "chất thải thực phẩmGARBAGEY GARBAGY adj").
+entry(garbanzo, n, [garbanzos], "một loại đậu gà").
+entry(garble, v, [garbled,garbling,garbles], "làm sai lệch ý nghĩa").
+entry(kẻ_làm_rối, danh_từ, [những_kẻ_làm_rối], "người tạo ra sự rối loạn").
+entry(garbless, adj, [], "không mặc quần áo").
+entry(garboard, n, [garboards], "một tấm ván trên đáy tàu").
+entry(garboil, n, [garboils], "hỗn loạn").
+entry(garcon, n, [garcons], "một người bồi bàn").
+entry(garda, n, [gardai], "một sĩ quan cảnh sát ở Ireland").
+entry(gardant, adj, [], "quay trực tiếp về phía người quan sát được sử dụng cho động vật trong huy hiệu").
+entry(garden, v, [gardened,gardening,gardens], "trồng trọt một mảnh đất").
+entry(làm vườn, n, [người làm vườn], "một người làm vườn").
+entry(gardenia, n, [gardenias], "một loại cây hoặc cây bụi nhiệt đới").
+entry(gardyloo, thán từ, [], "được dùng như là một tiếng hét cảnh báo").
+entry(cá đối, n, [các loài cá đối], "một loài cá nước ngọt").
+Nhập(garganey, n, [garganeys], "một loài vịt nhỏ").
+entry(garget, n, [gargets], "viêm vú ở động vật nuôi GARGETY adj").
+entry(súc_miệng, v, [đã_súc_miệng,đang_súc_miệng,súc_miệng], "để xúc miệng hoặc họng").
+entry(gargler, n, [garglers], "người súc miệng").
+entry(gargoyle, n, [gargoyles], "một hình trang trí").
+entry(garigue, n, [garigues], "một vùng đất có cây bụi thấp").
+entry(lòe loẹt, adj, [], "sặc sỡGARISHLY adv").
+entry(garland, v, [garlanded,garlanding,garlands], "trang trí với vòng hoa").
+entry(tỏi, v, [tỏihoá,tỏigiựt,tỏi], "nêm nếm với tỏi, một loại thảo mộc dùng trong nấu ăn").
+entry(garlicky, adj, [], "MÙI TỎI HƠN MÙI TỎI NHẤT có mùi hoặc vị tỏi").
+entry(quần_áo, v, [đã_mặc_quần_áo,đang_mặc_quần_áo,các_quần_áo], "mặc quần áo").
+entry(thu thập, động từ, [đã thu thập, đang thu thập, thu thập], "tập hợp và lưu trữ").
+entry(garnet, n, [garnets], "một loại khoáng sản").
+entry(garni, adj, [], "trang trí").
+entry(pha trộn, động từ, [đã pha trộn, đang pha trộn, pha trộn], "để trang trí").
+entry(garote, v, [garoted,garoting,garotes], "bóp cổ").
+entry(garotte, v, [garotted,garotting,garottes], "siết cổ").
+entry(kẻ siết cổ, n, [kẻ siết cổ], "một người thực hiện hành động siết cổ").
+entry(cá_gập_kép, n, [cá_gập_képs], "một loại cá vốn").
+entry(garred, quá_khứ, [], "thì của gar").
+entry(gác xép, n, [gác xép], "một tầng áp mái").
+entry(garring, present, [], "phân từ của gar").
+entry(garrison, v, [đồn trú, đang đồn trú, các đồn trú], "phân công vào một vị trí quân sự").
+entry(garron, n, [những con garron], "một con ngựa nhỏ và bền bỉ").
+entry(garrote, v, [garroted,garroting,garrotes], "hành hình bằng cách thắt cổ").
+entry(garroter, n, [garroters], "người dùng garrote").
+entry(garrotte, v, [garrotted,garrotting,garrottes], "xiết cổ").
+mục(khóa nịt, v, [đã nịt, đang nịt, các khóa nịt], "để thắt bằng một dây đàn hồi").
+entry(garth, n, [garths], "một sân hoặc vườn").
+entry(garvey, n, [garveys], "một chiếc thuyền nhỏ").
+entry(gas, v, [gassed,gassing,gases], "hoặc GASSESto cung cấp khí, một chất có khả năng giãn nở vô hạn").
+entry(gasalier, n, [gasaliers], "đèn chùm khí").
+entry(gasbag, n, [gasbags], "một cái túi để chứa khí").
+entry(gascon, n, [gascons], "một người khoe khoang").
+entry(gaseity, n, [gaseities], "trạng thái của thể khí").
+entry(gaselier, n, [gaseliers], "một đèn chùm khí").
+entry(khí, adj, [], "liên quan đến khí").
+entry(gash, adj, [], "GASHER GASHEST biết").
+entry(gash, v, [gashed,gashing,gashes], "tạo ra một vết cắt sâu dài").
+entry(gashouse, n, [gashouses], "một nhà máy khí").
+entry(gasified, past, [], "thì của khí hóa").
+mục(lò_khí_hoá, n, [lò_khí_hoá], "một thiết bị chuyển hóa chất thành khí").
+entry(gasiform, adj, [], "có dạng khí").
+entry(gasify, v, [gasified,gasifying,gasifies], "chuyển thành khí").
+entry(vòng đệm, n, [vòng đệm], "packing để làm cho cái gì đó kín chất lỏng VÒNG ĐỆM adj").
+entry(gaskin, n, [gaskins], "một phần của chân ngựa").
+entry(gasking, n, [gaskings], "gioăng").
+entry(gasless, adj, [], "không có khí").
+entry(gaslight, n, [đèn khí], "ánh sáng tạo ra bằng cách đốt khí").
+mục(gaslit, adj, [], "được chiếu sáng bằng đèn khí").
+entry(gasman, n, [gasmen], "nhân viên của một công ty khí đốt").
+entry(gasogene, n, [gasogenes], "máy tạo khí").
+entry(xăng sinh học, n, [xăng sinh học], "một hỗn hợp nhiên liệu của xăng và cồn etylic").
+entry(xăng, n, [xăng], "gasoline").
+entry(gasolier, n, [gasoliers], "đèn chùm gas").
+entry(xăng, n, [xăng], "một loại nhiên liệu lỏng").
+entry(gasp, v, [gasped,gasping,gasps], "thở hổn hển").
+entry(gasper, n, [gaspers], "một điếu thuốc lá").
+entry(gassed, quá_khứ, [], "thì của gas").
+entry(gasser, n, [gassers], "một người gây ra khí độc").
+entry(gasses, a, [], "ngôi thứ 3 số ít hiện tại của gas").
+entry(gassing, n, [gassings], "một sự ngộ độc bằng khí độc").
+entry(gassy, adj, [], "GASSIER GASSIESTchứa khíGASSILY adv").
+entry(gast, v, [gasted,gasting,gasts], "làm cho sợ hãi").
+entry(gaster, n, [gasters], "phần bụng phình to ở một số loài côn trùng").
+entry(gasthaus, n, [gasthaus], "hoặc GASTHAUSER một khách sạn nhỏ ở Đức").
+entry(gastight, adj, [], "không cho phép khí thoát ra hoặc xâm nhập").
+mục(gastness, n, [gastnesses], "sợ hãi").
+entry(gastraea, n, [gastraeas], "một loại động vật đa bào").
+entry(gastral, adj, [], "liên quan đến dạ dày").
+entry(gastrea, n, [gastreas], "gastraea").
+mục(dạ_dày, adj, [], "liên quan đến dạ dày").
+entry(gastrin, n, [gastrins], "một hormone").
+entry(bao phôi, n, [các bao phôi], "hoặc PHÔI BAOa phôi động vật").
+entry(nhà_máy_khí_đốt, n, [nhà_máy_khí_đốt], "một nhà máy sản xuất khí đốt").
+entry(gat, n, [gats], "một khẩu súng lục").
+entry(gatch, v, [gatched,gatching,gatches], "cư xử khoe khoang").
+entry(gatcher, n, [gatchers], "một cái để gatch").
+entry(gate, v, [gated,gating,gates], "cung cấp cửa di động với hàng rào").
+entry(gateau, n, [gateaus], "hoặc GATEAUX một chiếc bánh sang trọng").
+entry(gatefold, n, [gatefolds], "một tờ gấp trong sách hoặc tạp chí").
+entry(gateleg, n, [gatelegs], "một cái bàn có phần mở rộng được hỗ trợ bởi chân di chuyển").
+entry(gateless, adj, [], "thiếu cổng").
+entry(gatelike, adj, [], "giống như một cổng").
+entry("người gác cổng", n, ["người gác cổng"], "một người chịu trách nhiệm kiểm soát cổng").
+mục(cột-cổng, n, [cột-cổng], "một cái cột mà từ đó một cái cổng được treo").
+entry(gater, n, [gaters], "gator").
+entry(gateway, n, [cổng], "một lối đi có thể được đóng lại bởi một cánh cổng").
+entry(gather, v, [gathered,gathering,gathers], "tập hợp lại thành một nơi hoặc nhóm").
+mục(tập_hợp, n, [những_người_tập_hợp], "một người tập hợp").
+entry(gating, n, [gatings], "quá trình mở và đóng một kênh").
+mục(gator, n, [gators], "một con cá sấu").
+entry(gauch, v, [gauched,gauching,gauches], "gatch").
+entry(gauche, adj, [], "VU VỀ VỤNG VỀ Thiếu duyên dáng xã hội VỤNG VỀ adv").
+entry(gaucher, n, [gauchers], "gatcher").
+entry(gaucho, n, [gauchos], "một cao bồi của đồng cỏ Nam Mỹ").
+entry(gaud, n, [gauds], "một vật trang trí lòe loẹt").
+entry(gaudery, n, [gauderies], "hào nhoáng").
+entry(gaudy, adj, [], "PHÙ PHIẾM HƠN PHÙ PHIẾMtastelessly showyPHÙ PHIẾM adv").
+entry(hoa lệ, n, [lễ hội], "một lễ hội").
+entry(gauffer, v, [gauffered, gauffering, gauffers], "làm gợn sóng").
+entry(gauge, v, [gauged,gauging,gauges], "đo lường chính xác").
+entry(gauger, n, [gaugers], "người đo lường").
+entry(gault, n, [gaults], "một loại đất sét nặng và dày").
+entry(gaum, v, [gaumed,gauming,gaums], "bôi nhọ").
+entry(gaun, hiện tại, [], "phân từ của gae").
+entry(gaunch, n, [gaunches], "đồ lót").
+entry(gaunt, adj, [], "GAUNTER GAUNTESTgầy gòGAUNTLY adv").
+entry(gauntlet, v, [gauntleted,gauntleting,gauntlets], "để gantlet").
+entry(gauntry, n, [gauntries], "giàn giáo").
+entry(gaur, n, [gaur], "một loài bò rừng hoang dã").
+entry(gauss, n, [gausses], "đơn vị cảm ứng từ").
+entry(gạc, n, [băng gạc], "một loại vải trong suốt").
+entry(gauzy, adj, [], "MỜ HƠN MỜ NHẤT giống như vải gạc MỘT CÁCH MỜ adv").
+entry(gavage, n, [gavages], "đưa vật liệu vào dạ dày bằng ống").
+entry(gave, past, [], "thì của give").
+entry(búa, v, [gõ_búa_điều_hành, việc_gõ_búa_điều_hành, búa_điều_hành], "hoặc GÕ BÚA ĐIỀU HÀNH VIỆC GÕ BÚA ĐIỀU HÀNH BÚA_ĐIỀU_HÀNH để ra hiệu chú ý hoặc trật tự bằng cách sử dụng một chiếc búa, một cái vồ nhỏ").
+entry(gavelock, n, [gavelocks], "xà beng").
+entry(cá_sấu_gharial, n, [cá_sấu_gharial], "một loài bò sát lớn").
+entry(gavot, n, [gavots], "một điệu nhảy Pháp").
+entry(gavotte, v, [đã_gavotte, đang_gavotte, gavottes], "nhảy điệu gavot").
+entry(gawk, v, [gawked, gawking, gawks], "nhìn chằm chằm một cách ngớ ngẩn").
+entry(gawker, n, [gawkers], "một người nhìn chằm chằm").
+entry(gawkier, so_sánh_hơn, [], "thuộc về gawky").
+entry(gawkies, pl, [], "của gawky").
+entry(gawkish, adj, [], "vụng về").
+entry(gawky, adj, [], "GAWKIER GAWKIESTawkwardGAWKILY adv").
+entry(gawky, n, [gawkies], "một người vụng về").
+entry(gawmoge, n, [gawmoges], "một người hề").
+nhập(gawp, v, [gawped,gawping,gawps], "nhìn chằm chằm ngớ ngẩn").
+entry(gawper, n, [gawpers], "người nhòm").
+entry(gawsie, adj, [], "trông đầy đặn và khỏe mạnh").
+entry(gawsy, adj, [], "gawsie").
+entry(gay, adj, [], "GAYER GAYEST1 vui vẻ 2 đồng tính").
+mục(gay, n, [gays], "một người đồng tính").
+entry(gayal, n, [gayals], "một loài bò nhà").
+entry(gaydar, n, [gaydars], "khả năng nhận biết một người là đồng tính").
+entry(hân hoan, n, [niềm vui], "niềm hân hoan").
+entry(vui vẻ, trạng từ, [], "một cách vui vẻ").
+entry(gayness, n, [gaynesses], "trạng thái đồng tính").
+entry(bông_chim, n, [bông_chim], "một loại thảo mộc lâu năm").
+entry(gazabo, n, [gazabos], "hoặc GAZABOES một người bạn").
+entry(gazania, n, [gazanias], "một loại thảo mộc Nam Phi").
+entry(gazar, n, [gazars], "vải mịn bóng").
+entry(nhìn chằm chằm, v, [đã nhìn chằm chằm, đang nhìn chằm chằm, nhìn chằm chằm], "nhìn chăm chú").
+entry(gazebo, n, [gazebos], "một kiến trúc có mái che mở ở các bên").
+entry(linh dương gazelle, n, [linh dương gazelle], "một loài linh dương nhỏ").
+entry(gazer, n, [gazers], "một người nhìn chằm chằm").
+entry(công_báo, v, [đã_công_bố,đang_công_bố,công_bố], "thông báo trên một tạp chí chính thức").
+entry(nhìn chằm chằm, hiện tại, [], "phân từ của gaze").
+entry(gazogene, n, [gazogenes], "một thiết bị làm nước có ga").
+entry(gazpacho, n, [gazpachos], "một loại súp cay lạnh").
+entry(gazump, v, [gazumped,gazumping,gazumps], "lừa bằng cách tăng giá so với giá đã thỏa thuận ban đầu").
+entry(gazumper, n, [gazumpers], "một người thực hiện hành vi gazump").
+entry(gazunder, v, [gazundered,gazundering,gazunders], "hạ giá đề nghị của người mua đối với người bán bất động sản").
+entry(gear, v, [geared,gearing,gears], "cung cấp với các bánh răng các bộ phận máy có răng cưa").
+entry(hộp_số, n, [hộp_số], "một hệ thống truyền động tự động").
+entry(hộp_số, n, [hộp_số], "một cái vỏ cho bánh răng").
+entry(gearhead, n, [gearheads], "một người có thiên hướng về cơ khí").
+entry(bộ_truyền, n, [bộ_truyền_động], "một hệ thống bánh răng").
+entry(gearless, adj, [], "không có bánh răng").
+entry(geck, v, [gecked,gecking,gecks], "chế nhạo").
+entry(tắc kè, n, [tắc kè], "hoặc tắc kè một con thằn lằn nhỏ").
+entry(ged, n, [geds], "một loại cá thực phẩm").
+entry(gee, v, [geed,geeing,gees], "rẽ phải").
+entry(geegaw, n, [geegaws], "đồ trang trí").
+entry(geek, n, [geeks], "một người đam mê hoặc chuyên gia đơn nhất").
+entry(geekdom, n, [geekdoms], "thế giới của những người đam mê công nghệ").
+entry("geeked", adj, [], "đầy nhiệt huyết").
+entry(geekish, adj, [], "mọt sách").
+entry(geeky, adj, [], "GEEKIER GEEKIESTxã hội vụng về hoặc không hấp dẫn").
+entry(geepound, n, [geepounds], "một đơn vị khối lượng").
+entry(ngỗng, pl, [], "của con ngỗng").
+entry(geest, n, [geests], "vật chất phù sa cổ").
+entry(geez, thán_từ, [], "jeez").
+entry(geezer, n, [những ông già], "một người đàn ông lập dị").
+entry(geisha, n, [geishas], "một cô gái Nhật Bản được đào tạo để giải trí").
+entry(gel, v, [gelled,gelling,gels], "trở nên giống như thạchGELABLE tt").
+entry(gelada, n, [geladas], "một loài khỉ đầu chó").
+entry(gelant, n, [gelants], "chất làm đặc").
+entry(gelate, v, [gelated,gelating,gelates], "đặc lại").
+entry(gelati, n, [gelatis], "kem").
+entry(gelatin, n, [gelatins], "một chất dính").
+entry(gelatine, n, [gelatines], "gelatin").
+entry(gelating, hiện tại, [], "phân từ của gelate").
+entry(sự đông đặc, n, [sự đông đặc], "quá trình hóa thành gel").
+entry(gelato, n, [gelatos], "hoặc GELATI – Kem Ý").
+entry(gelcap, n, [gelcaps], "một viên thuốc được phủ bằng gelatin").
+entry(gelcoat, n, [gelcoats], "một lớp bề mặt của nhựa polyester").
+entry(geld, v, [gelded,gelding,gelds], "thiến").
+entry(gelder, n, [gelders], "một người thiến").
+entry(gelding, n, [geldings], "một động vật bị thiến").
+entry(gelee, n, [gelees], "một loại gel mỹ phẩm").
+entry(gelid, adj, [], "icyGELIDLY adv").
+entry(gelidity, n, [gelidities], "sự lạnh giá").
+entry(chất_tạo_đông, n, [chất_tạo_đông], "một chất dùng để tạo đông").
+entry(gelled, past, [], "thì của gel").
+entry(gelling, present, [], "phân từ của gel").
+entry(gelly, n, [gellies], "một loại chất nổ mạnh").
+entry(gelsemia, npl, [], "rễ cây thuốc").
+entry(gelt, n, [gelts], "tiền").
+entry(gem, v, [gemmed,gemming,gems], "để trang trí với đá quý").
+entry(gematria, n, [gematrias], "một phương pháp thần bí để giải thích Kinh Thánh").
+entry(geminal, adj, [], "liên quan đến hai nhóm thế trên cùng một nguyên tử").
+entry(geminate, v, [geminated,geminating,geminates], "sắp xếp theo cặp").
+entry(gemlike, adj, [], "giống như một viên ngọc").
+entry(gemma, n, [gemmae], "một cấu trúc sinh sản vô tính").
+entry(gemmate, v, [gemmated,gemmating,gemmates], "sản xuất gemmae").
+entry(gemmed, quá_khứ, [], "thì của gem").
+entry(gemmier, so_sánh, [], "của gemmy").
+entry(gemmiest, so sánh nhất, [], "của gemmy").
+entry(gemmily, adv, [], "theo cách gợi lên một viên đá quý").
+entry(gemming, hiện tại, [], "phân từ của gem").
+entry(gemmule, n, [gemmules], "một gemma nhỏ").
+entry(gemmy, adj, [], "GIỐNG NHƯ ĐÁ QUÝ").
+entry(ngọc học, n, [những ngọc học], "khoa học về ngọc").
+entry(gemot, n, [gemots], "một cuộc họp công cộng ở Anh thời AngloSaxon").
+entry(gemote, n, [gemotes], "gemot").
+entry(gemsbok, n, [gemsboks], "một loài linh dương lớn").
+entry(gemsbuck, n, [gemsbucks], "linh dương Nam Phi").
+entry(gemstone, n, [đá quý], "một loại đá quý").
+entry(gen, v, [genned,genning,gens], "cung cấp hoặc thu thập thông tin").
+entry(gendarme, n, [gendarmes], "một cảnh sát").
+entry(gender, v, [gendered,gendering,genders], "để tạo ra").
+nhap(gene, n, [genes], "một đơn vị di truyền").
+entry(genera, a, [], "số nhiều của genus").
+entry(general, n, [generals], "một sĩ quan quân đội").
+entry(generate, v, [generated,generating,generates], "tạo ra").
+entry(generic, n, [generics], "một loại thuốc").
+entry(hào phóng, adj, [], "sẵn sàng cho").
+entry(genesis, n, [geneses], "nguồn gốc").
+entry(genet, n, [genets], "một loài động vật có vú ăn thịt").
+entry(di truyền, adj, [], "liên quan đến di truyền").
+entry(di truyền, danh từ số nhiều, [], "khoa học về di truyền").
+entry(genette, n, [genettes], "cầy giông").
+entry(geneva, n, [genevas], "một loại rượu").
+entry(genial, adj, [], "có một thái độ dễ chịu hoặc thân thiện").
+entry(genic, adj, [], "liên quan đến gen").
+entry(genie, n, [genies], "jinni").
+entry(genii, a, [], "số nhiều của genius").
+entry(genip, n, [genips], "một loại cây nhiệt đới").
+entry(genipap, n, [genipaps], "một loại cây nhiệt đới").
+entry(genipapo, n, [genipapos], "quả genipap").
+entry(genista, n, [genistas], "một loại cây bụi có hoa màu vàng").
+entry(sinh dục, adj, [], "liên quan đến sinh sản").
+entry(bộ phận sinh dục, npl, [], "cơ quan tình dục").
+entry(sở hữu cách, n, [genitives], "một trường hợp ngữ pháp").
+entry(genitor, n, [genitors], "một người cha").
+entry(geniture, n, [genitures], "sự ra đời").
+mục(thần đồng, n, [các thần đồng], "hoặc thiên tài một tài năng tự nhiên xuất chúng").
+entry(genlock, n, [genlocks], "một thiết bị đồng bộ hóa các tín hiệu video khác nhau").
+entry(gennaker, n, [gennakers], "một loại buồm spinnaker").
+entry(genned, quá_khứ, [], "thì của gen").
+entry(genning, hiện tại, [], "phân từ của gen").
+entry(genoa, n, [genoas], "một cánh buồm hình tam giác").
+entry(diệt_chủng, n, [diệt_chủng], "sự tiêu diệt cố ý của một nhóm dân tộc hoặc chủng tộc").
+mục(lưu đồ phả hệ, n, [lưu đồ phả hệ], "một biểu đồ về lịch sử các mô hình hành vi của một gia đình").
+entry(genoise, n, [genoises], "một loại bánh xốp giàu dinh dưỡng").
+entry(genom, n, [genoms], "bộ gen").
+entry(ph hệ gen, n, [bộ gen], "một bộ nhiễm sắc thể đơn bộiGENOMIC adj").
+entry(genomics, npl, [], "nghiên cứu bộ gen").
+entry(genotype, n, [kiểu gen], "thành phần di truyền của một sinh vật").
+entry(thể_loại, n, [thể_loại], "một loại hoặc kiểu").
+entry(genro, n, [genros], "một nhóm các chính khách cao niên ở Nhật Bản").
+entry(gens, n, [gentes], "một loại thị tộc").
+entry(genseng, n, [gensengs], "nhân sâm").
+entry(gent, n, [gents], "một quý ông").
+entry(genteel, adj, [], "GENTEELER GENTEELESTcó giáo dục hoặc tinh tế").
+entry(gentes, pl, [], "của gens").
+entry(cỏ gentian, n, [các cỏ gentian], "một loại cây có hoa").
+entry(gentil, adj, [], "tốt bụng").
+entry(tín_hữu, n, [tín_hữu], "một người không phải là người Do Thái").
+mục(tử tế, adj, [], "TỬ TẾ HƠN TỬ TẾ NHẤTmềm TỬ TẾ adv").
+entry(nhẹ nhàng, v, [đã nhẹ nhàng, đang nhẹ nhàng, nhẹ nhàng], "thuần hóa").
+entry(gentoo, n, [gentoos], "một loài chim cánh cụt lưng xám").
+entry(gentrice, n, [gentrices], "sự lai tạo tốt").
+entry(gentrify, v, [gentrified,gentrifying,gentrifies], "cải tạo một khu vực đô thị suy tàn để thu hút cư dân trung lưu").
+entry(gentry, n, [gentries], "người thuộc tầng lớp xã hội cao").
+entry(gents, npl, [], "phòng vệ sinh nam công cộng").
+entry(genu, n, [genua], "đầu gối").
+entry(chính_hãng, adj, [], "authentic").
+entry(genus, n, [genuses], "hoặc GENERAHọ loại hoặc lớp").
+entry(geocache, v, [geocached,geocaching,geocaches], "tìm kiếm các vật thể ẩn bằng cách sử dụng thiết bị Hệ thống Định vị Toàn cầu như một phần của trò chơi").
+entry(geode, n, [geodes], "một loại đá").
+entry(geodesic, n, [đường trắc địa], "một đường hình học").
+entry(trắc địa, n, [trắc địa], "khảo sát địa lý").
+entry(trắc_địa, adj, [], "liên quan đến trắc địa").
+entry(geodic, adj, [], "thuộc về hay liên quan đến địa thạch").
+entry(ngao voi, n, [ngao voi], "một loại ngao lớn có thể ăn được").
+entry(địa chất học, n, [địa chất học], "một nhánh của địa chất").
+entry(geoid, n, [geoids], "một bề mặt giả định của trái đấtGEOIDAL adj").
+entry(nhà địa chất, n, [các nhà địa chất], "một chuyên gia về địa chất").
+entry(địa chất, n, [địa chất học], "khoa học nghiên cứu về nguồn gốc và cấu trúc của Trái đấtGEOLOGIC adj").
+entry(bói địa lý, n, [bói địa lý], "một phương pháp tiên đoán tương lai bằng các đặc điểm địa lý").
+entry(nhà hình học, n, [các nhà hình học], "một chuyên gia trong lĩnh vực hình học").
+entry(hình học, n, [hình học], "một nhánh của toán học").
+entry(geophagy, n, [geophagies], "thực hành ăn các chất có nguồn gốc từ đất").
+entry(địa chấn kế, n, [địa chấn kế], "một thiết bị phát hiện rung động trong lòng đất").
+entry(địa thực vật, n, [địa thực vật], "một loại cây có chồi dưới lòng đất").
+entry(geoponic, adj, [], "liên quan đến nông nghiệp").
+entry(geoprobe, n, [geoprobes], "một tàu vũ trụ để khám phá không gian gần Trái đất").
+entry(georgic, n, [georgics], "một bài thơ về nông nghiệp").
+entry(geotaxis, n, [geotaxes], "sự di chuyển của sinh vật để phản ứng với trọng lực").
+entry(gerah, n, [gerahs], "một đơn vị trọng lượng của người Do Thái").
+entry(geranial, n, [geranials], "xitrôn").
+entry(geraniol, n, [geraniols], "một loại rượu được sử dụng trong nước hoa").
+entry(geranium, n, [geraniums], "một loại cây có hoa").
+entry(gerardia, n, [gerardias], "một loại thảo mộc").
+entry(gerbera, n, [gerberas], "một loại thảo mộc").
+entry(gerbil, n, [gerbils], "một loài gặm nhấm đào hang").
+entry(gerbille, n, [gerbilles], "chuột nhảy").
+entry(gerent, n, [gerents], "một người cai trị hoặc quản lý").
+entry(gerenuk, n, [gerenuks], "một loài linh dương cổ dài").
+entry(germ, n, [vi khuẩn], "một vi sinh vật gây ra bệnh").
+entry(duc, n, [nguoi_duc], "một điệu nhảy cầu kỳ").
+entry(phù_hợp, adj, [], "relevant").
+entry(germanic, adj, [], "chứa germani một nguyên tố kim loại").
+entry(vi_phôi, n, [phôi], "hoặc GERMINAđiều gì đó đóng vai trò làm nguồn gốc").
+entry(germfree, adj, [], "không có vi trùng").
+entry(germier, so_sánh, [], "of germy").
+entry(germiest, so sánh nhất, [], "của germy").
+entry(germina, a, [], "số nhiều của germen").
+entry(germinal, adj, [], "ở giai đoạn phát triển sớm nhất").
+entry(germlike, adj, [], "tương tự như vi khuẩn").
+entry(germy, adj, [], "ĐẦY VI TRÙNG NHIỀU VI TRÙNG NHẤT").
+entry(gerontic, adj, [], "liên quan đến tuổi già").
+entry(gerund, n, [gerunds], "một danh từ động từ").
+entry(gesneria, adj, [], "chỉ định một loại cây có hoa").
+entry(gesso, n, [gessoes], "một hỗn hợp thạch cao").
+entry(gessoed, adj, [], "có lớp phủ gesso").
+entry(gest, n, [gests], "một kỳ công").
+entry(gestalt, n, [gestalts], "hoặc GESTALTEN một tổng thể thống nhất").
+entry(gestapo, n, [gestapos], "một tổ chức cảnh sát bí mật").
+entry(gestate, v, [đã_mang_thai,đang_mang_thai,mang_thai], "mang trong tử cung trong thời kỳ mang thai").
+entry(geste, n, [gestes], "gest").
+entry(cử chỉ, adj, [], "liên quan đến chuyển động cơ thể").
+entry(gestical, adj, [], "giơ tay").
+entry(gestural, adj, [], "thuộc về hoặc bao gồm các cử chỉ thể hiện các chuyển động cơ thể").
+entry(cử chỉ, v, [đã cử chỉ,đang cử chỉ,cử chỉ], "biểu thị bằng chuyển động cơ thể").
+entry(người_ra_hiệu, n, [người_ra_hiệu], "người làm động tác ra hiệu").
+entry(get, n, [gittin], "một cuộc ly hôn theo luật Do Thái").
+entry(get, v, [got,gotten,getting], "GETđể có được hoặc đạt đượcGETABLE GETTABLE adj").
+entry(geta, n, [getas], "một loại guốc gỗ của Nhật Bản").
+entry(getaway, n, [getaways], "một sự trốn thoát").
+mục_lục(getout, n, [getouts], "một cái cớ để tránh làm điều gì đó").
+entry(getter, v, [gettered,gettering,getters], "làm tinh khiết bằng một chất hóa học hoạt động").
+entry(getting, hiện tại, [], "phân từ của get").
+entry(getup, n, [getups], "một trang phục").
+entry(geum, n, [geums], "một loại thảo mộc lâu năm").
+entry(đồ_tinh_xảo, n, [đồ_tinh_xảo], "một vật trang trí lòe loẹt").
+entry(gey, adv, [], "rất").
+entry(geyser, v, [geysered,geysering,geysers], "phun các tia nước nóng và hơi nước").
+entry(cá_sấu_ấn_độ, n, [cá_sấu_ấn_độ], "một loài bò sát lớn").
+entry(gharri, n, [gharris], "xe ngựa").
+entry(gharry, n, [gharries], "một loại xe ngựa được sử dụng ở Ấn Độ").
+entry(ghast, adj, [], "rùng rợn").
+entry(ghastful, adj, [], "đáng sợ").
+entry(ghastly, adj, [], "GHASTLIER GHASTLIESTkinh hãi").
+entry(ghat, n, [ghats], "lối đi ra sông").
+entry(ghaut, n, [ghauts], "ghat").
+entry(ghazal, n, [ghazals], "một bài thơ trữ tình tình yêu").
+entry(ghazi, n, [ghazis], "hoặc GHAZIESmột anh hùng chiến tranh Hồi giáo").
+entry(ghee, n, [ghees], "một loại bơ lỏng").
+entry(gherao, v, [gheraoed,gheraoing,gheraoes], "ép buộc bằng phương tiện vật lý").
+entry(gherkin, n, [gherkins], "một quả dưa chuột nhỏ").
+entry(ghetto, v, [ghettoed,ghettoing,ghettos], "hoặc GHETTOEs để cô lập trong một khu ổ chuột").
+entry(ghi, n, [ghis], "ghee").
+entry(ghibli, n, [ghiblis], "một cơn gió nóng sa mạc").
+entry(ghillie, n, [ghillies], "một loại giày").
+entry(ma, v, [ma hóa,đang ma hóa,ma], "ám ảnh").
+entry(hiện tượng ma quái, n, [hiện tượng ma quái], "một hình ảnh giả trên màn hình tivi").
+entry(ma mị, adj, [], "MA MỊ HƠN MA MỊ NHẤTspectral").
+entry(ghosty, adj, [], "GHOSTIER GHOSTIESTghostly").
+entry(ác quỷ, n, [ác quỷ], "một con quỷGHÊ GƯỚM adj").
+entry(ghoulie, n, [ghoulies], "một con ma").
+entry(ghyll, n, [ghylls], "một hẻm núi").
+entry(gi, n, [gis], "một loại áo trắng mặc trong võ thuật").
+entry(người_khổng_lồ, n, [những_người_khổng_lồ], "một người hoặc vật có kích thước lớn").
+entry(người khổng lồ nữ, n, [những người khổng lồ nữ], "một người khổng lồ nữ").
+entry(chứng_to_lớn, n, [chứng_to_lớn], "tình trạng của việc là một người khổng lồ").
+entry(giaour, n, [giaours], "một người không theo đạo Hồi").
+entry(giardia, n, [giardias], "một loại động vật đơn bào sống trong ruột").
+entry(gib, v, [gibbed,gibbing,gibs], "đóng chặt bằng một cái nêm bằng gỗ hoặc kim loại").
+entry(gibber, v, [gibbered,gibbering,gibbers], "nói lảm nhảm").
+mục(gibbet, v, [đã_hành_hình,đang_hành_hình,hành_hình], "hoặc GIBBETTED GIBBETTING GIBBETs tử hình bằng treo cổ").
+entry(vượn, n, [vượn], "một loài linh trưởng sống trên cây").
+entry(gibbose, adj, [], "tròn khuyết").
+entry(gibbous, adj, [], "hình tròn không đều").
+entry(gibbsite, n, [gibbsites], "một khoáng chất").
+entry(gibe, v, [gibed,gibing,gibes], "để chế nhạoGIBINGLY adv").
+entry(giber, n, [gibers], "một người gây chọc").
+entry(giblet, n, [giblets], "một phần có thể ăn của gia cầm").
+entry(gibson, n, [gibsons], "một loại cocktail martini được phục vụ với một củ hành nhỏ").
+entry(gid, n, [gids], "một căn bệnh của cừu").
+entry(giddap, thán từ, [], "được dùng như một mệnh lệnh cho ngựa đi nhanh hơn").
+entry(giddy, adj, [], "GIDDIER GIDDIESTchóng mặtGIDDILY adv").
+entry(giddy, v, [giddied,giddying,giddies], "làm cho choáng váng").
+entry(giddyap, interj, [], "đi nào").
+entry(giddyup, interj, [], "giddap").
+entry(gie, v, [gied, gien, gieing], "GIEđưa cho").
+entry(gif, n, [gifs], "tệp máy tính ở định dạng cho hình ảnh").
+entry(gift, v, [gifted,gifting,gifts], "tặng quà mà không đòi hỏi chi phí").
+entry(tặng quà, n, [những món quà], "thứ gì đó thích hợp để làm quà tặng").
+entry(tài_năng, adv, [], "một cách tài năng").
+entry(giftee, n, [giftees], "người nhận một món quà").
+entry(gifting, n, [giftings], "hành động tặng quà").
+entry(giftless, adj, [], "không có quà").
+entry(giftware, n, [giftwares], "hàng hóa phù hợp để làm quà tặng").
+entry(góiquà, v, [góiquàxong,góiquàđangxong,góiquà], "gói bằng giấy trang trí").
+entry(gig, v, [gigged,gigging,gigs], "bắt cá bằng giáo có ngạnh").
+entry(giga, n, [gighe], "một điệu nhảy gigue").
+entry(gigabit, n, [gigabits], "một đơn vị thông tin").
+entry(gigabyte, n, [gigabyte], "1073741824 byte").
+entry(gigaflop, n, [gigaflops], "một đơn vị đo tốc độ tính toán").
+entry(khổng lồ, adj, [], "huge").
+entry(gigas, adj, [], "liên quan đến các biến thể trong sự phát triển của thực vật").
+entry(gigaton, n, [gigatons], "một đơn vị đo trọng lượng").
+entry(gigawatt, n, [gigawatts], "một đơn vị đo công suất").
+entry(gigged, quá_khứ, [], "thì của gig").
+entry(gigging, hiện tại, [], "phân từ của gig").
+entry(giggle, v, [giggled,giggling,giggles], "cười khúc khích").
+entry(giggler, n, [gigglers], "người cười khúc khích").
+entry(giggly, adj, [], "GIGGLIER GIGGLIESTthích cười khúc khích").
+entry(gighe, pl, [], "của giga").
+entry(giglet, n, [giglets], "một cô gái tinh nghịch").
+entry(giglot, n, [giglots], "giglet").
+entry(gigolo, n, [gigolos], "một người đàn ông được một phụ nữ hỗ trợ tài chính").
+entry(gigot, n, [gigots], "một cái chân cừu non").
+entry(gigue, n, [gigues], "một điệu nhảy sôi động").
+entry(gilbert, n, [gilberts], "một đơn vị của lực từ động").
+entry(mạ, v, [mạ_vàng, mạ_vàng_đang, mạ_vàng_ở], "để phủ một lớp vàng mỏng").
+entry(gilder, n, [gilders], "một người mạ vàng").
+entry(gildhall, n, [gildhalls], "một tòa thị chính").
+entry(mạ vàng, n, [lớp mạ vàng], "sự ứng dụng vàng").
+mục(gill, v, [gilled, gilling, gills], "để bắt cá bằng một loại lưới").
+entry(giller, n, [gillers], "một người mà gills").
+entry(gillie, n, [gillies], "ghillie").
+entry(gillnet, v, [gillnetted,gillnetting,gillnets], "để đánh cá bằng lưới").
+mục(gilly, v, [gillied,gillying,gillies], "để vận chuyển bằng một loại xe ngựa").
+entry(gilt, n, [gilts], "vàng dùng để mạ một vật gì đó").
+entry(cá tráp vàng, n, [cá tráp vàng], "một loài cá biển").
+entry(gimbal, v, [gimbaled, gimbaling, gimbals], "hoặc GIMBALLED GIMBALLING GIMBALSto hỗ trợ trên một tập hợp các vòng tròn").
+entry(gimcrack, n, [gimcracks], "một món đồ trang trí").
+entry(gimel, n, [gimels], "một chữ cái Hebrew").
+entry(gimlet, v, [gimleted, gimleting, gimlets], "đục lỗ bằng dụng cụ khoan").
+entry(gimmal, n, [gimmals], "một cặp vòng tay giao nhau").
+entry(gimme, n, [gimmes], "điều gì đó dễ dàng đạt được").
+entry(gimmick, v, [gimmicked,gimmicking,gimmicks], "cung cấp một mánh lới quảng cáo một đặc điểm mới lạ hoặc khó khăn").
+entry(giả tạo, adj, [], "có hoặc giống như một mánh lới quảng cáo").
+entry(gimmie, n, [gimmies], "một cú putt golf dễ dàng được nhượng cho đối thủ").
+entry(gimp, v, [gimped,gimping,gimps], "đi khập khiễng").
+entry(gimpier, comparative, [], "của gimpy").
+entry(gimpiest, so sánh nhất, [], "of gimpy").
+entry(gimpy, adj, [], "GIMPIER GIMPIESTlimping").
+entry(gin, v, [gan,gunnen,ginning], "GINSbắt đầu").
+mục(gin, v, [ginned, ginning, gins], "loại bỏ hạt khỏi bông").
+entry(ginch, n, [ginches], "gotch").
+entry(gingal, n, [gingals], "jingal").
+entry(gingall, n, [gingalls], "jingal").
+entry(gingeley, n, [gingeleys], "gingelly").
+entry(gingeli, n, [gingelis], "gingelly").
+entry(gingelies, pl, [], "của vừng").
+entry(gingelli, n, [gingellis], "gingelly").
+entry(gingelly, n, [gingellies], "hạt vừng hoặc dầu của nó").
+entry(gingely, n, [gingelies], "dầu mè").
+entry(gừng, v, [đã gừng, đang gừng, gừng], "để làm hương với gừng một loại gia vị cay").
+entry(gingerly, adv, [], "một cách cẩn thận").
+entry(gingery, adj, [], "có đặc điểm của gừng").
+entry(gingham, n, [ginghams], "một loại vải bông").
+entry(gingili, n, [gingilis], "vừng").
+entry(gingilli, n, [gingillis], "vừng").
+entry(nướu, n, [nướu], "mô mềm bao quanh răngGINGIVAL adj").
+entry(gingko, n, [gingkos], "hoặc GINGKOESginkgo").
+entry(gink, n, [ginks], "một người bạn").
+entry(cây_bạch_quả, n, [cây_bạch_quả], "hoặc CÂY_BẠCH_QUẢ một loại cây trang trí").
+entry(ginned, past, [], "thì của gin").
+entry(ginner, n, [ginners], "cái máy tách hạt bông").
+entry(ginning, n, [ginnings], "bông như nó đến từ máy tách hạt").
+entry(ginny, adj, [], "GINNIER GINNIESTbị ảnh hưởng bởi gin một loại rượu mạnh").
+entry(nhân_sâm, n, [nhân_sâm], "một loại thảo mộc lâu năm").
+entry(gip, v, [gipped,gipping,gips], "gạt gẫm").
+entry(gipon, n, [gipons], "áo jupon").
+entry(gipper, n, [gippers], "một người gips").
+entry(gipsy, v, [gipsied,gipsying,gipsies], "gypsy").
+entry(vương_quốc_digan, n, [vương_quốc_digan], "vương_quốc_digan").
+entry(du_muc, adj, [], "gypsyish").
+entry(gipsyism, n, [gipsyisms], "thuật gypsy").
+entry(hươu cao cổ, n, [hươu cao cổ], "một loài động vật có cổ dài").
+entry(hướng_dương, n, [hướng_dương], "một loại opal").
+entry(girasole, n, [girasoles], "hoa hướng dương").
+entry(gird, v, [girt,girding,girds], "bao quanh").
+entry(dầm, n, [dầm], "một kết cấu ngang hỗ trợ").
+entry(girdle, v, [girdled,girdling,girdles], "bao quanh bằng một cái thắt lưng").
+entry(girdler, n, [girdlers], "một người đai").
+entry(girl, n, [girls], "một đứa trẻ nữ").
+entry(thời_con_gái, n, [thời_con_gái], "trạng thái của việc là một cô gái").
+entry(girlie, adj, [], "GIRLIER GIRLIESTgirlish").
+entry(con_gái, adj, [], "thuộc về hoặc có đặc điểm của một cô gái").
+entry(girly, adj, [], "GIRLIER GIRLIESTgirlie").
+entry(girn, v, [girned, girning, girns], "gầm gừ").
+entry(giro, n, [giros], "một chiếc autogiro").
+entry(nấm mồng gà, n, [nấm mồng gà], "một loại nấm ăn được").
+entry(giron, n, [girons], "gyron").
+entry(girosol, n, [girosols], "hoa hướng dương").
+entry(girsh, n, [girshes], "qursh").
+entry(girt, v, [girted, girting, girts], "thắt lưng").
+entry(girth, v, [girthed,girthing,girths], "để bao quanh").
+entry(gisarme, n, [gisarmes], "một loại vũ khí thời trung cổ").
+đầu_mục(gismo, n, [gismos], "một công cụ").
+entry(gist, n, [gists], "điểm chính").
+entry(git, v, [gitted,gitting,gits], "lấy được").
+entry(gitano, n, [người Gitanos], "một người Digan Tây Ban Nha").
+entry(gitch, n, [gitches], "gotch").
+entry(gite, n, [gites], "một khu nghỉ dưỡng ở Pháp").
+entry(gitted, quá_khứ, [], "thì của git").
+entry(gittern, n, [gitterns], "một loại đàn ghita thời trung cổ").
+entry(gittin, pl, [], "của nhận").
+entry(gitting, present, [], "phân từ của git").
+entry(give, v, [gave,given,giving], "GIAOhành động chuyển giao tự do cho quyền sở hữu của người khácCÓ_ THỂ _GIAO tính từ").
+entry(giveaway, n, [quà tặng miễn phí], "thứ gì đó được tặng miễn phí").
+entry(giveback, n, [givebacks], "một lợi ích của người lao động được trao trả lại cho quản lý").
+entry(given, n, [givens], "một cái gì đó được chỉ định làm cơ sở cho một phép tính").
+entry(giver, n, [givers], "một người cho").
+entry(tặng, hiện tại, [], "phân từ của give").
+entry(gizmo, n, [gizmos], "gismo").
+entry(dạ dày cơ, n, [dạ dày cơ], "một cơ quan tiêu hóa").
+entry(gjetost, n, [gjetosts], "một loại phô mai nâu cứng").
+entry(glabella, n, [glabellae], "vùng da mịn giữa hai lông mày").
+entry(glabrate, adj, [], "trơn tru").
+entry(glabrous, adj, [], "nhẵn nhụi").
+entry(glace, v, [glaced,glaceing,glaces], "phủ một lớp đường").
+entry(băng hà, adj, [], "thuộc về hoặc liên quan đến sông băng").
+entry(băng giá, v, [băng giá hóa, băng giá hóa, băng giá hóa], "bao phủ bằng băng").
+entry(sông_băng, n, [sông_băng], "một khối băng khổng lồ").
+entry(glacis, n, [glacises], "một con dốc").
+entry(glad, adj, [], "GLADDER GLADDESTcảm thấy vui").
+entry(glad, v, [gladded,gladding,glads], "để làm vui").
+entry(gladden, v, [gladdened,gladdening,gladdens], "làm cho vui mừng").
+entry(gladder, comparative, [], "của vui mừng").
+entry(gladdest, so sánh nhất, [], "của glad").
+entry(gladding, hiện tại, [], "phân từ của glad").
+entry(glade, n, [glades], "một khoảng trống trong rừng").
+entry(gladiate, adj, [], "có hình dạng như một thanh kiếm").
+entry(gladier, so_sánh_hơn, [], "của glady").
+entry(gladiest, tối_cao, [], "của glady").
+entry(gladiola, n, [gladiolas], "một loài cây có hoa").
+entry(gladioli, npl, [], "đoạn của xương ức").
+entry(gladly, adv, [], "GLADLIER GLADLIEST một cách vui vẻ").
+entry(niềm_vui, n, [những_niềm_vui], "trạng thái của sự vui vẻ").
+entry(gladsome, adj, [], "GLADSOMER GLADSOMESTglad").
+entry(glady, adj, [], "GLADIER GLADIESTcó những trảng cỏ").
+entry(glaiket, adj, [], "glaikit").
+entry(glaikit, adj, [], "ngốc nghếch").
+entry(glair, v, [glaired,glairing,glairs], "phủ lòng trắng trứng").
+entry(glaire, v, [glaired, glairing, glaires], "tráng trứng").
+entry(glairy, adj, [], "GLAIRIER GLAIRIESTgiống lòng trắng trứng").
+entry(gươm, n, [gươms], "a swordGLAIVED adj").
+entry(glam, v, [glammed,glamming,glams], "làm cho bản thân trông cuốn hút và hấp dẫn").
+entry(glam, adj, [], "GLAMMER GLAMMESTđặc trưng bởi sự hào nhoáng xa hoa").
+entry(glammy, adj, [], "GLAMMIER GLAMMIESTglam").
+entry(glamor, n, [sự quyến rũ], "sự hấp dẫn mê hoặc").
+entry(glamour, v, [glamoured,glamouring,glamours], "mê hoặc").
+entry(liếc, v, [liếc_qua,đang_liếc,liếc], "nhìn nhanh").
+mục(glancer, n, [glancers], "người nhìn thoáng qua").
+entry(tuyến, n, [tuyến], "một cơ quan tiết").
+entry(glanders, npl, [], "một bệnh của ngựa").
+entry(glandule, n, [glandules], "một tuyến nhỏ").
+entry(glans, n, [glandes], "phần đầu của dương vật hoặc âm vật").
+entry(chói, v, [đã_chói, đang_chói, chói], "tỏa sáng với ánh sáng gay gắt rực rỡ").
+entry(glary, adj, [], "GLARIER GLARIESTrực rỡ").
+entry(glasnost, n, [glasnosts], "một chính sách của Liên Xô về thảo luận chính trị cởi mở").
+entry(glass, v, [glassed,glassing,glasses], "bao bọc trong thủy tinh, một chất trong suốt").
+entry(glassful, n, [glassfuls], "nhiều như một ly uống sẽ chứa").
+entry(glassie, n, [glassies], "một loại viên bi chơi").
+entry(glassier, so_sánh_hơn, [], "của tính chất giống thủy tinh").
+entry(glassiest, so sánh nhất, [], "của glassy").
+entry(glassily, adv, [], "một cách thủy tinh").
+entry(glassine, n, [giấy glassine], "một loại giấy").
+entry(glassman, n, [glassmen], "thợ làm kính").
+entry(glassy, adj, [], "GIỐNG THỦY TINH HƠN GIỐNG THỦY TINH NHẤTresembling glass").
+entry(glaucoma, n, [glaucomas], "một căn bệnh về mắt").
+entry(glaucous, adj, [], "xanh lam").
+entry(lắp_kinh, v, [được_lắp_kinh,đang_lắp_kinh,lắp_kinh], "lắp cửa sổ bằng tấm kính").
+entry(glazer, n, [glazers], "thợ làm kính").
+entry(thợ làm kính, n, [thợ làm kính], "người lắp kính").
+entry(glaziery, n, [glazieries], "công việc của một thợ kính").
+entry(glazing, n, [glazings], "thủy tinh").
+entry(glazy, adj, [], "PHỦ MỘT LỚP BÓNG MỊN LÁNGNHẤT GLAZIER NHẪN NHẤT GLAZIELY adv").
+entry(lấp lánh, v, [lấp lánh, lấp lánh, lấp lánh], "tỏa sáng với ánh sáng dịu nhẹ").
+entry(gleamer, n, [gleamers], "một thứ tỏa sáng").
+entry(gleamy, adj, [], "GLEAMIER GLEAMIESTgleaming").
+entry(thu lượm, v, [đã thu lượm,đang thu lượm,thu lượm], "thu thập từng chút một").
+entry(gleaner, n, [người thu lượm], "người thu gom").
+entry(gleaning, n, [gleanings], "một cái gì đó được lượm lặt").
+entry(gleba, n, [glebae], "một khối sinh bào tử của một số loại nấm").
+entry(glebe, n, [glebes], "đất hoặc mặt đất").
+entry(gled, n, [gleds], "glede").
+entry(glede, n, [gledes], "một loài chim săn mồi").
+entry(glee, n, [glees], "một bài hát không có nhạc đệm").
+entry(gleed, n, [gleeds], "than hồng đang cháy").
+entry(vui vẻ, adj, [], "merry").
+entry(gleek, v, [gleeked,gleeking,gleeks], "để chế giễu").
+entry(gleeman, n, [gleemen], "nhạc công").
+entry(gleesome, adj, [], "vui vẻ").
+entry(gleet, v, [gleeted,gleeting,gleets], "thải mủ từ niệu đạo").
+entry(gleety, adj, [], "GLEETIER GLEETIESTgiống như chất nhầy").
+entry(gleg, adj, [], "alertGLEGLY adv").
+entry(glegness, n, [glegnesses], "sự cảnh giác").
+entry(glen, n, [glens], "một thung lũng nhỏGLENLIKE adj").
+entry(glenoid, adj, [], "có hình dạng nông hoặc hơi lõm của ổ xương").
+entry(gley, n, [gleys], "một lớp đất sét GLEYED adj").
+entry(gleying, n, [gleyings], "sự phát triển của gley").
+entry(glia, n, [glias], "mô hỗ trợ liên kết mô thần kinh").
+entry(gliadin, n, [gliadins], "một loại protein đơn giản").
+entry(gliadine, n, [gliadines], "gliadin").
+entry(glial, adj, [], "liên quan đến mô hỗ trợ của hệ thần kinh trung ương").
+entry(glib, adj, [], "GLIBBER GLIBBESTfluentGLIBLY adv").
+entry(glibness, n, [glibnesses], "tính chất ba hoa").
+entry(glide, v, [glided,gliding,glides], "di chuyển một cách nhẹ nhàng").
+entry(tàu lượn, n, [tàu_lượn], "một loại máy bay").
+entry(gliff, n, [gliffs], "một khoảnh khắc ngắn ngủi").
+entry(glim, n, [glims], "một chiếc đèn hoặc ngọn đèn").
+entry(glime, v, [glimed,gliming,glimes], "liếc nhìn lén lút").
+entry(le lói, v, [đã le lói, đang le lói, le lói], "tỏa sáng mờ nhạt hoặc không ổn định").
+entry(nhìn thoáng qua, v, [đã nhìn thoáng qua, đang nhìn thoáng qua, nhìn thoáng qua], "nhìn trong chốc lát").
+mục(glimpser, n, [glimpsers], "người liếc nhìn").
+entry(glint, v, [glinted,glinting,glints], "lấp lánh").
+entry(glinty, adj, [], "LÓNG LÁNH NHẤT NHẤP NHÁY NHẤT").
+entry(glioma, n, [gliomas], "hoặc GLIOMATAmột loại u").
+entry(gliosis, n, [glioses], "sự tăng sinh bệnh lý của các tế bào đệm").
+entry(glissade, v, [đã_glissade,đang_glissade,glissades], "thực hiện một bước nhảy trượt").
+entry(glisse, n, [glisses], "một bước nhảy").
+entry(lấp lánh, v, [lấp lánh rồi, đang lấp lánh, lấp lánh], "tỏa sáng bằng cách phản chiếu").
+entry(glister, v, [glistered,glistering,glisters], "lấp lánh").
+entry(glitch, n, [glitches], "một sự cố").
+entry(glitchy, adj, [], "GLITCHIER GLITCHIESTđặc trưng bởi các lỗi").
+entry(lấp lánh, v, [đã lấp lánh, lấp lánh, lấp lánh], "to sparkle").
+entry(lấp lánh, adj, [], "glittering").
+entry(glitz, v, [glitzed,glitzing,glitzes], "làm cho hào nhoáng về ngoại hình").
+entry(glitzy, adj, [], "GLITZIER GLITZIESTshowyGLITZILY adv").
+entry(gloam, n, [gloams], "chạng vạng").
+entry(gloaming, n, [gloamings], "chạng vạng").
+entry(niềm đắc thắng, v, [đã đắc thắng, đang đắc thắng, đắc thắng], "để xem xét với sự hài lòng lớn hoặc quá mức").
+entry(kẻ_khoe_khoang, n, [những_kẻ_khoe_khoang], "người hay khoe khoang").
+entry(glob, n, [globs], "một khối tròn").
+entry(global, adj, [], "sphericalGLOBALLY adv").
+entry(globate, adj, [], "hình cầu").
+entry(globated, adj, [], "hình cầu").
+entry(globby, adj, [], "GLOBBIER GLOBBIESTđầy những khối").
+entry(globe, v, [globed,globing,globes], "hình thành thành một vật thể tròn hoàn hảo").
+entry(globin, n, [globins], "một loại protein đơn giản").
+entry(globoid, n, [globoids], "một hình cầu").
+entry(globose, adj, [], "hình cầu").
+entry(globous, adj, [], "hình cầu").
+entry(cầu, n, [cầus], "một cụm sao hình cầu").
+entry(giọt, n, [giọt], "một khối cầu nhỏ").
+entry(globulin, n, [globulins], "một loại protein đơn giản").
+entry(glochid, n, [glochids], "một lông có gai trên một số loài thực vật").
+muc(glogg, n, [gloggs], "một loại đồ uống có cồn").
+entry(glom, v, [glommed,glomming,gloms], "ăn cắp").
+entry(glomus, n, [glomera], "một loại búi mạch máu").
+entry(glonoin, n, [glonoins], "nitroglycerin").
+entry(buồn bã, v, [buồn bã, buồn bã, buồn bã], "trở nên tối").
+entry(gloomful, adj, [], "ảm đạm").
+entry(glooming, n, [gloomings], "hoàng hôn").
+entry(gloomy, adj, [], "GLOOMIER GLOOMIESTu ámtối tămGLOOMILY adv").
+entry(gloop, n, [gloops], "vật liệu dính").
+entry(gloopy, adj, [], "GLOOPIER GLOOPIESTgiống gloop").
+entry(glop, v, [glopped,glopping,glops], "che phủ bằng glop một khối hoặc hỗn hợp bừa bãi").
+entry(gloppy, adj, [], "GLOPPIER GLOPPIESTgiống glop").
+entry(gloria, n, [glorias], "vầng hào quang").
+entry(gloried, quá_khứ, [], "thì của từ glory").
+mục_vào(vinh_quang, hiện_tại, [], "ngôi thứ 3 số ít của vinh quang").
+entry(tán_dương, v, [đã_tán_dương,đang_tán_dương,tán_dương], "trao tặng vinh dự hoặc lời khen").
+entry(gloriole, n, [glorioles], "một vầng hào quang").
+entry(hoành tráng, adj, [], "magnificent").
+entry(vinh_quang, v, [vinh_quang_hoa, vinh_quang_hoa_dang, vinh_quang_hoa_s], "để tự hào vui sướng").
+mục(mạ, v, [được_mạ, đang_mạ, mạ], "làm cho bóng loáng").
+entry(glossa, n, [glossas], "hoặc GLOSSAEcái lưỡiGLOSSAL adj").
+entry(glossary, n, [glossaries], "một danh sách các thuật ngữ và định nghĩa của chúng").
+entry(glosseme, n, [glossemes], "đơn vị ngôn ngữ nhỏ nhất biểu thị một ý nghĩa").
+entry(glosser, n, [glossers], "người chú giải").
+entry(glossies, pl, [], "của glossy").
+entry(glossina, n, [glossinas], "một con ruồi tse tse").
+mục(bóng, adj, [], "BÓNG HƠN BÓNG NHẤTlấp lánhBÓNG adv").
+entry(bóng-bẩy, n, [hình-bóng-bẩy], "một loại ảnh").
+entry(glost, n, [glosts], "đồ gốm đã được phủ một bề mặt thủy tinh hóa").
+entry(glottis, n, [glottises], "hoặc GLOTTIDES là khe hở giữa các dây thanh quảnGLOTTAL GLOTTIC adj").
+entry(glout, v, [glouted,glouting,glouts], "nhìn chằm chằm").
+entry(găng_tay, v, [đã_được_mang_găng_tay,đang_mang_găng_tay,mang_găng_tay], "cung cấp găng tay để che tay").
+entry(hộp đựng găng tay, n, [các hộp đựng găng tay], "một ngăn nhỏ trên bảng điều khiển của xe").
+entry(glover, n, [glovers], "người làm hoặc bán găng tay").
+entry(phát_sáng, v, [đã_phát_sáng,đang_phát_sáng,phát_sáng], "tỏa ra ánh sáng và nhiệt").
+entry(glower, v, [glowered,glowering,glowers], "cau có").
+entry(glowfly, n, [những con đom đóm], "một con đom đóm").
+entry(đom đóm, n, [đom đóm], "một loại côn trùng phát sáng").
+entry(gloxinia, n, [gloxinias], "một loại cây nhiệt đới").
+entry(gloze, v, [glozed,glozing,glozes], "giải thích").
+entry(glucagon, n, [glucagons], "một hormone").
+entry(glucan, n, [glucans], "một chuỗi polyme của glucose").
+entry(glucinum, n, [glucinums], "một nguyên tố kim loạiGLUCINIC adj").
+entry(glucose, n, [glucoses], "một loại đườngGLUCOSIC adj").
+entry(glue, v, [], "DÁN DÁN HOẶC DÁN (ĐỘNG TỪ) ĐỂ DÁN BẰNG MỘT CHẤT KẾT DÍNH").
+entry(gluelike, adj, [], "giống như keo").
+entry(nồi nấu keo, n, [nồi nấu keos], "một cái nồi để nấu chảy keo").
+entry(gluer, n, [gluers], "một người dán").
+entry(gluey, adj, [gluhweins], "wine flavored with spicesGLUINESS n pl GLUINESSESthe state of being glueyGLUING present participle of glueGLUM n pl GLUMSglumnessGLUM adj GLUMMER GLUMMESTbeing in low spiritsGLUMLY advGLUME n pl GLUMESa bract on grassy plantsGLUMNESS n pl GLUMNESSESthe state of being glumGLUMPY adj GLUMPIER GLUMPIESTglumGLUMPILY advGLUNCH v GLUNCHED GLUNCHING GLUNCHESto frownGLUON n pl GLUONSa hypothetical massless particle binding quarks togetherGLUT v GLUTTED GLUTTING GLUTSto feed or fill to excessGLUTCH v GLUTCHED GLUTCHING GLUTCHESto gulp or swallowGLUTE n pl GLUTESa gluteusGLUTEAL adj of or pertaining to the buttock musclesGLUTEI pl of gluteusGLUTELIN n pl GLUTELINSany of a group of proteins occurring in cereal grainsGLUTEN n pl GLUTENSa sticky component of grain flours that contains gluteninGLUTENIN n pl GLUTENINSa protein of cereal grains that gives adhesiveness to bread doughGLUTEUS n pl GLUTEIa buttock muscleGLUTTED past tense of glutGLUTTING present participle of glutGLUTTON n pl GLUTTONSa person who eats to excessGLUTTONY n pl GLUTTONIESexcessive eatingGLYCAN n pl GLYCANSa carbohydrateGLYCEMIA n pl GLYCEMIASthe presence of glucose in the bloodGLYCEMIC adjGLYCERIN n pl GLYCERINSa glycerolGLYCERIC adjGLYCEROL n pl GLYCEROLSa syrupy alcoholGLYCERYL n pl GLYCERYLSa radical derived from glycerolGLYCIN n pl GLYCINSa compound used in photographyGLYCINE n pl GLYCINESan amino acidGLYCOGEN n pl GLYCOGENSa carbohydrateGLYCOL n pl GLYCOLSan alcoholGLYCOLIC adjGLYCONIC n pl GLYCONICSa type of verse lineGLYCOSYL n pl GLYCOSYLSa radical derived from glucoseGLYCYL n pl GLYCYLSa radical derived from glycineGLYPH n pl GLYPHSan ornamental grooveGLYPHIC adjGLYPTIC n pl GLYPTICSthe art or process of engraving on gemsGNAR v GNARRED GNARRING GNARSto snarlGNARL v GNARLED GNARLING GNARLSto twist into a state of deformityGNARLY adj GNARLIER GNARLIESTgnarledGNARR v GNARRED GNARRING GNARRSto gnarGNARRED past tense of gnarGNARRING present participle of gnarGNASH v GNASHED GNASHING GNASHESto grind the teeth togetherGNAT n pl GNATSa small winged insectGNATHAL adj gnathicGNATHIC adj of or pertaining to the jawGNATHION n pl GNATHIONSthe tip of the chinGNATHITE n pl GNATHITESa jawlike appendage of an insectGNATLIKE adj resembling a gnatGNATTY adj GNATTIER GNATTIESTinfested with gnatsGNAW v GNAWED GNAWN GNAWING GNAWSto wear away by persistent bitingGNAWABLE adjGNAWER n pl GNAWERSone that gnawsGNAWING n pl GNAWINGSa persistent dull painGNEISS n pl GNEISSESa type of rockGNEISSIC adjGNOCCHI npl dumplings made of pastaGNOME n pl GNOMESa dwarfGNOMIC adj resembling or containing aphorismsGNOMICAL adj gnomicGNOMISH adj resembling a gnomeGNOMIST n pl GNOMISTSa writer of aphorismsGNOMON n pl GNOMONSa part of a sundialGNOMONIC adjGNOSIS n pl GNOSESmystical knowledgeGNOSTIC n pl GNOSTICSan adherent of gnosticismGNU n pl GNUSa large antelopeGO v WENT GONE GOING or GWINE GOESto move alongGO n pl GOSa Japanese board gameGOA n pl GOASan Asian gazelleGOAD v GOADED GOADING GOADSto drive animals with a goad a pointed stickGOADLIKE adj resembling a goadGOAL v GOALED GOALING GOALSto score a goal a pointscoring play in some gamesGOALBALL n pl GOALBALLSa ball thrown at a goal to scoreGOALIE n pl GOALIESa player who defends against goalsGOALLESS adj having no goalGOALPOST n pl GOALPOSTSa post that marks a boundary of the scoring area in some gamesGOALWARD adv toward a goal a pointscoring areaGOANNA n pl GOANNASa large monitor lizardGOAT n pl GOATSa horned mammalGOATEE n pl GOATEESa small pointed beardGOATEED adjGOATFISH n pl GOATFISHESa tropical fishGOATHERD n pl GOATHERDSone who tends goatsGOATIER comparative of goatyGOATIEST superlative of goatyGOATISH adj resembling a goatGOATLIKE adj goatishGOATSKIN n pl GOATSKINSthe hide of a goatGOATY adj GOATIER GOATIESTsuggestive of a goatGOB v GOBBED GOBBING GOBSto fill a mine pit with waste materialGOBAN n pl GOBANSgobangGOBANG n pl GOBANGSa Japanese gameGOBBED past tense of gobGOBBET n pl GOBBETSa piece of raw meatGOBBING present participle of gobGOBBLE v GOBBLED GOBBLING GOBBLESto eat hastilyGOBBLER n pl GOBBLERSa male turkeyGOBIES pl of gobyGOBIOID n pl GOBIOIDSa fish of the goby familyGOBLET n pl GOBLETSa drinking vesselGOBLIN n pl GOBLINSan evil or mischievous creatureGOBO n pl GOBOS or GOBOESa device used to shield a microphone from extraneous soundsGOBONEE adj gobonyGOBONY adj componyGOBSHITE n pl GOBSHITESa contemptible personGOBY n pl GOBIESa small fishGOD v GODDED GODDING GODSto treat as a god a supernatural beingGODAWFUL adj extremely unpleasantGODCHILD n pl GODCHILDRENone whom a person sponsors at baptismGODDED past tense of godGODDESS n pl GODDESSESa female godGODDING present participle of godGODET n pl GODETSinsert of cloth in a seamGODETIA n pl GODETIASa showy annual herbGODHEAD n pl GODHEADSgodhoodGODHOOD n pl GODHOODSthe state of being a godGODLESS adj worshiping no godGODLIKE adj divineGODLING n pl GODLINGSa lesser godGODLY adj GODLIER GODLIESTpiousGODLILY advGODOWN n pl GODOWNSan Asian warehouseGODROON n pl GODROONSgadroonGODSEND n pl GODSENDSan unexpected boonGODSHIP n pl GODSHIPSthe rank of a godGODSON n pl GODSONSa male godchildGODWARD adv toward GodGODWARDS adv GodwardGODWIT n pl GODWITSa wading birdGOER n pl GOERSone that goesGOEST v a 2d person sing of goGOETH v a 3d person sing of goGOETHITE n pl GOETHITESan ore of ironGOFER n pl GOFERSan employee who runs errandsGOFFER v GOFFERED GOFFERING GOFFERSto press ridges or pleats intoGOGGLE v GOGGLED GOGGLING GOGGLESto use the Google search engineGOGGLER n pl GOGGLERSone that gogglesGOGGLY adj GOGGLIER GOGGLIESTwideeyedGOGLET n pl GOGLETSa longnecked jarGOGO n pl GOGOSa discothequeGOING n pl GOINGSan advance toward an objectiveGOITER n pl GOITERSan enlargement of the thyroid glandGOITERED adjGOITROUS adjGOITRE n pl GOITRESgoiterGOITRED adjGOJI n pl GOJISthe red berry of an Asian shrubGOLCONDA n pl GOLCONDASa source of great wealthGOLD adj GOLDER GOLDESTgoldenGOLD n pl GOLDSa gold medalGOLDARN n pl GOLDARNSan expression of angerGOLDBUG n pl GOLDBUGSa gold beetleGOLDEN adj GOLDENER GOLDENESTof the color of goldGOLDENLY advGOLDEYE n pl GOLDEYESa freshwater fishGOLDFISH n pl GOLDFISHESa freshwater fishGOLDTONE adj made to resemble goldGOLDURN n pl GOLDURNSgoldarnGOLEM n pl GOLEMSa legendary creatureGOLF v GOLFED GOLFING GOLFSto play golf a type of ball gameGOLFER n pl GOLFERSone that golfsGOLFING n pl GOLFINGSthe game of golfGOLGOTHA n pl GOLGOTHASa place of burialGOLIARD n pl GOLIARDSa wandering studentGOLIATH n pl GOLIATHSa person considered to be a giantGOLLIWOG n pl GOLLIWOGSa grotesque dollGOLLY interj  used as a mild oathGOLLYWOG n pl GOLLYWOGSgolliwogGOLOSH n pl GOLOSHESgaloshGOLOSHE n pl GOLOSHESgaloshGOMBEEN n pl GOMBEENSusuryGOMBO n pl GOMBOSgumboGOMBROON n pl GOMBROONSa kind of Persian potteryGOMER n pl GOMERSan undesirable hospital patientGOMERAL n pl GOMERALSa foolGOMEREL n pl GOMERELSgomeralGOMERIL n pl GOMERILSgomeralGOMUTI n pl GOMUTISa palm treeGONAD n pl GONADSa sex glandGONADAL GONADIAL GONADIC adjGONCH n pl GONCHESgaunchGONDOLA n pl GONDOLASa long narrow boatGONE adj departedGONEF n pl GONEFSganefGONENESS n pl GONENESSESa state of exhaustionGONER n pl GONERSone who is in a hopeless situationGONFALON n pl GONFALONSa bannerGONFANON n pl GONFANONSgonfalonGONG v GONGED GONGING GONGSto make the sound of a gong a diskshaped percussion instrumentGONGLIKE adj resembling a gongGONIA pl of gonion and of goniumGONIDIUM n pl GONIDIAan asexual reproductive cellGONIDIAL GONIDIC adjGONIF n pl GONIFSganefGONIFF n pl GONIFFSganefGONION n pl GONIAa part of the lower jawGONIUM n pl GONIAan immature reproductive cellGONOCYTE n pl GONOCYTESa cell that produces gametesGONOF n pl GONOFSganefGONOPH n pl GONOPHSganefGONOPORE n pl GONOPORESa genital poreGONZO adj bizarreGOO n pl GOOSa sticky or viscid substanceGOOBER n pl GOOBERSa peanutGOOD adj BETTER BESThaving positive or desirable qualitiesGOOD n pl GOODSsomething that is goodGOODBY n pl GOODBYSgoodbyeGOODBYE n pl GOODBYESa concluding remark or gesture at partingGOODIE n pl GOODIESgoodyGOODIES pl of goodyGOODISH adj somewhat goodGOODLY adj GOODLIER GOODLIESTof pleasing appearanceGOODMAN n pl GOODMENthe master of a householdGOODNESS n pl GOODNESSESthe state of being goodGOODWIFE n pl GOODWIVESthe mistress of a householdGOODWILL n pl GOODWILLSan attitude of friendlinessGOODY n pl GOODIESa desirable foodGOOEY adj GOOIER GOOIESTsticky or viscidGOOF v GOOFED GOOFING GOOFSto blunderGOOFBALL n pl GOOFBALLSa sleeping pillGOOFUS n pl GOOFUSESa foolish or stupid personGOOFY adj GOOFIER GOOFIESTsillyGOOFILY advGOOGLE v GOOGLED GOOGLING GOOGLESto use an Internet search engineGOOGLY n pl GOOGLIESa type of bowled ball in cricketGOOGOL n pl GOOGOLSan enormous numberGOOIER comparative of gooeyGOOIEST superlative of gooeyGOOK n pl GOOKSgooGOOKY adjGOOMBAH n pl GOOMBAHSan older man who is a friendGOOMBAY n pl GOOMBAYScalypso music of the BahamasGOON n pl GOONSa hired thugGOONDA n pl GOONDASa hired thugGOONERY n pl GOONERIESthuggish behaviorGOONEY n pl GOONEYSan albatrossGOONIE n pl GOONIESgooneyGOONY n pl GOONIESgooneyGOONY adj GOONIER GOONIESTstupidGOOP n pl GOOPSgoo gunkGOOPY adj GOOPIER GOOPIESTsticky gooeyGOORAL n pl GOORALSgoralGOOSE n pl GEESEa swimming birdGOOSE v GOOSED GOOSING GOOSESto poke between the buttocksGOOSEY adj GOOSIER GOOSIESTgoosyGOOSY adj GOOSIER GOOSIESTresembling a gooseGOPHER n pl GOPHERSa burrowing rodentGOPIK n pl GOPIKSa monetary unit of AzerbaijanGOR interj  used as a mild oathGORAL n pl GORALSa goat antelopeGORBELLY n pl GORBELLIESa potbellyGORBLIMY interj blimeyGORCOCK n pl GORCOCKSthe male red grouseGORDITA n pl GORDITASa stuffed and fried pocket of cornmeal doughGORE v GORED GORING GORESto pierce with a horn or tuskGOREFEST n pl GOREFESTSa movie featuring much bloodshedGORGE v GORGED GORGING GORGESto stuff with foodGORGEDLY advGORGEOUS adj beautifulGORGER n pl GORGERSone that gorgesGORGERIN n pl GORGERINSa part of a columnGORGET n pl GORGETSa piece of armor for the throatGORGETED adjGORGING present participle of gorgeGORGON n pl GORGONSan ugly womanGORHEN n pl GORHENSthe female red grouseGORIER comparative of goryGORIEST superlative of goryGORILLA n pl GORILLASa large apeGORILY adv in a gory mannerGORINESS n pl GORINESSESthe state of being goryGORING present participle of goreGORM v GORMED GORMING GORMSto gaumGORMAND n pl GORMANDSgourmandGORMLESS adj stupidGORP n pl GORPSa snack for quick energyGORSE n pl GORSESfurzeGORSY adj GORSIER GORSIESTabounding in gorseGORY adj GORIER GORIESTbloodyGOSH interj  used as an exclamation of surpriseGOSHAWK n pl GOSHAWKSa large hawkGOSLING n pl GOSLINGSa young gooseGOSPEL n pl GOSPELSthe message concerning Christ the kingdom of God and salvationGOSPELER n pl GOSPELERSone that teaches the gospelGOSPELLY adj having characteristics of gospel musicGOSPORT n pl GOSPORTSa communication device in an airplaneGOSSAMER n pl GOSSAMERSa fine film of cobwebsGOSSAN n pl GOSSANSa type of decomposed rockGOSSIP v GOSSIPED GOSSIPING GOSSIPS or GOSSIPPED GOSSIPPING GOSSIPSto talk idly about the affairs of othersGOSSIPER n pl GOSSIPERSone that gossipsGOSSIPRY n pl GOSSIPRIESthe practice of gossipingGOSSIPY adj inclined to gossipGOSSOON n pl GOSSOONSa boyGOSSYPOL n pl GOSSYPOLSa toxic pigmentGOT past tense of getGOTCH n pl GOTCHESunderpantsGOTCHA n pl GOTCHASan instance of catching a person out in a deceit or wrongdoingGOTCHIES npl underpantsGOTH n pl GOTHSa morbid style of rock musicGOTHIC n pl GOTHICSa style of printingGOTHITE n pl GOTHITESgoethiteGOTTEN past participle of getGOUACHE n pl GOUACHESa method of paintingGOUGE v GOUGED GOUGING GOUGESto cut or scoop outGOUGER n pl GOUGERSone that gougesGOULASH n pl GOULASHESa beef stewGOURAMI n pl GOURAMIS or GOURAMIESa food fishGOURD n pl GOURDSa hardshelled fruitGOURDE n pl GOURDESa monetary unit of HaitiGOURDFUL n pl GOURDFULSas much as a hollowed gourd can holdGOURMAND n pl GOURMANDSone who loves to eatGOURMET n pl GOURMETSa connoisseur of fine food and drinkGOUT n pl GOUTSa metabolic diseaseGOUTWEED n pl GOUTWEEDSa plant with white flowersGOUTY adj GOUTIER GOUTIESTaffected with goutGOUTILY advGOVERN v GOVERNED GOVERNING GOVERNSto rule or directGOVERNOR n pl GOVERNORSone that governsGOWAN n pl GOWANSa daisyGOWANED GOWANY adjGOWD n pl GOWDSgoldGOWK n pl GOWKSa foolGOWN v GOWNED GOWNING GOWNSto dress in a gown a long loose outer garmentGOWNSMAN n pl GOWNSMENa professional or academic personGOX n pl GOXESgaseous oxygenGRAAL n pl GRAALSgrailGRAB v GRABBED GRABBING GRABSto grasp suddenlyGRABBER n pl GRABBERSone that grabsGRABBIER comparative of grabbyGRABBIEST superlative of grabbyGRABBING present participle of grabGRABBLE v GRABBLED GRABBLING GRABBLESto gropeGRABBLER n pl GRABBLERSone that grabblesGRABBY adj GRABBIER GRABBIESTtending to grabGRABEN n pl GRABENSa depression of the earths crustGRACE v GRACED GRACING GRACESto give beauty toGRACEFUL adj GRACEFULLER GRACEFULLESThaving beauty of form or movementGRACILE adj gracefully slenderGRACILIS n pl GRACILESa thigh muscleGRACING present participle of graceGRACIOSO n pl GRACIOSOSa clown in Spanish comedyGRACIOUS adj marked by kindness and courtesyGRACKLE n pl GRACKLESa blackbirdGRAD n pl GRADSa graduateGRADATE v GRADATED GRADATING GRADATESto change by degreesGRADE v GRADED GRADING GRADESto arrange in steps or degreesGRADABLE adjGRADER n pl GRADERSone that gradesGRADIENT n pl GRADIENTSa rate of inclinationGRADIN n pl GRADINSgradineGRADINE n pl GRADINESone of a series of stepsGRADING present participle of gradeGRADUAL n pl GRADUALSa hymn sung in alternate partsGRADUAND n pl GRADUANDSone who is about to graduateGRADUATE v GRADUATED GRADUATING GRADUATESto receive an academic degree or diplomaGRADUS n pl GRADUSESa dictionary of prosodyGRAECIZE v GRAECIZED GRAECIZING GRAECIZESto grecizeGRAFFITI v GRAFFITIED GRAFFITIING or GRAFFITING GRAFFITISto draw graffiti onGRAFFITO n pl GRAFFITIan inscription or drawing made on a rock or wallGRAFT v GRAFTED GRAFTING GRAFTSto unite with a growing plant by insertionGRAFTAGE n pl GRAFTAGESthe process of graftingGRAFTER n pl GRAFTERSone that graftsGRAHAM n pl GRAHAMSwholewheat flourGRAIL n pl GRAILSthe object of a long questGRAIN v GRAINED GRAINING GRAINSto form into small particlesGRAINER n pl GRAINERSone that grainsGRAINY adj GRAINIER GRAINIESTgranularGRAM n pl GRAMSa unit of mass and weightGRAMA n pl GRAMASa pasture grassGRAMARY n pl GRAMARIESgramaryeGRAMARYE n pl GRAMARYESoccult learning magicGRAMERCY n pl GRAMERCIESan expression of gratitudeGRAMMA n pl GRAMMASgramaGRAMMAR n pl GRAMMARSthe study of the formal features of a languageGRAMME n pl GRAMMESgramGRAMP n pl GRAMPSgrandfatherGRAMPA n pl GRAMPASa grandfatherGRAMPUS n pl GRAMPUSESa marine mammalGRAMPY n pl GRAMPIESgrampaGRAN n pl GRANSa grandmotherGRANA pl of granumGRANARY n pl GRANARIESa storehouse for grainGRAND adj GRANDER GRANDESTlarge and impressiveGRAND n pl GRANDSa type of pianoGRANDAD n pl GRANDADSgranddadGRANDAM n pl GRANDAMSa grandmotherGRANDAME n pl GRANDAMESgrandamGRANDDAD n pl GRANDDADSa grandfatherGRANDDAM n pl GRANDDAMSthe female parent of an animal with offspringGRANDEE n pl GRANDEESman of high social positionGRANDEUR n pl GRANDEURSthe state of being grandGRANDKID n pl GRANDKIDSthe child of ones son or daughterGRANDLY adv in a grand mannerGRANDMA n pl GRANDMASa grandmotherGRANDPA n pl GRANDPASa grandfatherGRANDSIR n pl GRANDSIRSa grandfatherGRANDSON n pl GRANDSONSa son of ones son or daughterGRANGE n pl GRANGESa farmGRANGER n pl GRANGERSa farmerGRANITA n pl GRANITASan iced dessertGRANITE n pl GRANITESa type of rockGRANITIC adjGRANNIE n pl GRANNIESgrannyGRANNY n pl GRANNIESa grandmotherGRANOLA n pl GRANOLASa breakfast cerealGRANT v GRANTED GRANTING GRANTSto bestow uponGRANTEE n pl GRANTEESone to whom something is grantedGRANTER n pl GRANTERSone that grantsGRANTOR n pl GRANTORSgranterGRANULAR adj composed of granulesGRANULE n pl GRANULESa small particleGRANUM n pl GRANAa part of a plant chloroplastGRAPE n pl GRAPESan edible berryGRAPERY n pl GRAPERIESa vineryGRAPEY adj GRAPIER GRAPIESTgrapyGRAPH v GRAPHED GRAPHING GRAPHSto represent by means of a diagramGRAPHEME n pl GRAPHEMESa unit of a writing systemGRAPHIC n pl GRAPHICSa product of the art of representationGRAPHITE n pl GRAPHITESa variety of carbonGRAPIER comparative of grapyGRAPIEST superlative of grapyGRAPLIN n pl GRAPLINSa grapnelGRAPLINE n pl GRAPLINESgraplinGRAPNEL n pl GRAPNELSa type of anchorGRAPPA n pl GRAPPASan Italian brandyGRAPPLE v GRAPPLED GRAPPLING GRAPPLESto struggle or contendGRAPPLER n pl GRAPPLERSone that grapplesGRAPY adj GRAPIER GRAPIESTresembling grapesGRASP v GRASPED GRASPING GRASPSto seize firmly with the handGRASPER n pl GRASPERSone that graspsGRASS v GRASSED GRASSING GRASSESto cover with grass herbaceous plantsGRASSY adj GRASSIER GRASSIESTof resembling or pertaining to grassGRASSILY advGRAT past tense of greet to weepGRATE v GRATED GRATING GRATESto reduce to shreds by rubbingGRATEFUL adj GRATEFULLER GRATEFULLESTdeeply thankfulGRATER n pl GRATERSone that gratesGRATIFY v GRATIFIED GRATIFYING GRATIFIESto satisfyGRATIN n pl GRATINSa type of food crustGRATINE adj covered with a crustGRATINEE v GRATINEED GRATINEEING GRATINEESto cook food that is covered with a crustGRATING n pl GRATINGSa network of bars covering an openingGRATIS adj free of chargeGRATUITY n pl GRATUITIESa gift of moneyGRAUPEL n pl GRAUPELSgranular snow pelletsGRAVAMEN n pl GRAVAMENS or GRAVAMINAthe most serious part of an accusationGRAVE adj GRAVER GRAVESTextremely seriousGRAVE v GRAVED GRAVEN GRAVING GRAVESto engraveGRAVEL v GRAVELED GRAVELING GRAVELS or GRAVELLED GRAVELLING GRAVELSto pave with gravel a mixture of rock fragmentsGRAVELLY adj containing gravelGRAVELY adv in a grave mannerGRAVEN past participle of graveGRAVER n pl GRAVERSan engraverGRAVEST superlative of graveGRAVID adj pregnantGRAVIDLY advGRAVIDA n pl GRAVIDAS or GRAVIDAEa pregnant womanGRAVIES pl of gravyGRAVING present participle of graveGRAVITAS n pl GRAVITASESreserved dignified behaviorGRAVITON n pl GRAVITONSa hypothetical particleGRAVITY n pl GRAVITIESthe force of attraction toward the earths centerGRAVLAKS n pl GRAVLAKSgravlaxGRAVLAX n pl GRAVLAXcured salmonGRAVURE n pl GRAVURESa printing processGRAVY n pl GRAVIESa sauce of the fat and juices from cooked meatGRAY adj GRAYER GRAYESTof a color between white and blackGRAY v GRAYED GRAYING GRAYSto make grayGRAYBACK n pl GRAYBACKSa gray birdGRAYFISH n pl GRAYFISHESa dogfishGRAYISH adj somewhat grayGRAYLAG n pl GRAYLAGSa wild gooseGRAYLING n pl GRAYLINGSa food fishGRAYLY adv in a gray mannerGRAYMAIL n pl GRAYMAILSpressure on an official to reveal sensitive informationGRAYNESS n pl GRAYNESSESthe state of being grayGRAYOUT n pl GRAYOUTSa temporary blurring of visionGRAZE v GRAZED GRAZING GRAZESto feed on growing grassGRAZABLE adjGRAZER n pl GRAZERSone that grazesGRAZIER n pl GRAZIERSone that grazes cattleGRAZING n pl GRAZINGSland used for the feeding of animalsGRAZIOSO adj graceful in styleGREASE v GREASED GREASING GREASESto smear with grease a lubricating substanceGREASER n pl GREASERSone that greasesGREASY adj GREASIER GREASIESTcontaining or resembling greaseGREASILY advGREAT adj GREATER GREATESTlargeGREAT n pl GREATSa distinguished or outstanding personGREATEN v GREATENED GREATENING GREATENSto make greaterGREATLY adv in a great mannerGREAVE n pl GREAVESa piece of armor for the legGREAVED adjGREBE n pl GREBESa diving birdGRECIZE v GRECIZED GRECIZING GRECIZESto provide with a Greek styleGREE v GREED GREEING GREESto agreeGREED n pl GREEDSexcessive desire for gain or wealthGREEDY adj GREEDIER GREEDIESTmarked by greedGREEDILY advGREEGREE n pl GREEGREESgrigriGREEK n pl GREEKsomething unintelligibleGREEN adj GREENER GREENESTof the color of growing foliageGREEN v GREENED GREENING GREENSto become greenGREENBUG n pl GREENBUGSa green aphidGREENERY n pl GREENERIESgreen vegetationGREENFLY n pl GREENFLIESa green aphidGREENIE n pl GREENIESan amphetamine pillGREENIER comparative of greenyGREENIEST superlative of greenyGREENING n pl GREENINGSa variety of appleGREENISH adj somewhat greenGREENLET n pl GREENLETSa vireoGREENLIT a past tense of greenlight to give approval forGREENLY adv in a green mannerGREENTH n pl GREENTHSverdureGREENWAY n pl GREENWAYSpiece of undeveloped land in a cityGREENY adj GREENIER GREENIESTsomewhat greenGREET v GREETED GREETING GREETSto address in a friendly and courteous wayGREET v GRAT GRUTTEN GREETING GREETSto weepGREETER n pl GREETERSone that greetsGREETING n pl GREETINGSa salutationGREGO n pl GREGOSa hooded coatGREIGE n pl GREIGESfabric in a gray stateGREISEN n pl GREISENSa type of rockGREMIAL n pl GREMIALSa lap cloth used by a bishop during a serviceGREMLIN n pl GREMLINSa mischievous creatureGREMMIE n pl GREMMIESan inexperienced surferGREMMY n pl GREMMIESgremmieGRENADE n pl GRENADESan explosive deviceGREW past tense of growGREWSOME adj GREWSOMER GREWSOMESTgruesomeGREY adj GREYER GREYESTgrayGREY v GREYED GREYING GREYSto grayGREYHEN n pl GREYHENSthe female black grouseGREYISH adj grayishGREYLAG n pl GREYLAGSgraylagGREYLY adv graylyGREYNESS n pl GREYNESSESgraynessGRIBBLE n pl GRIBBLESa marine isopodGRID v GRIDDED GRIDDING GRIDSto put into or set out as a framework of bars or linesGRIDDER n pl GRIDDERSa football playerGRIDDLE v GRIDDLED GRIDDLING GRIDDLESto cook on a flat panGRIDE v GRIDED GRIDING GRIDESto scrape harshlyGRIDIRON v GRIDIRONED GRIDIRONING GRIDIRONSto mark off into squaresGRIDLOCK v GRIDLOCKED GRIDLOCKING GRIDLOCKSto bring to a standstillGRIEF n pl GRIEFSintense mental distressGRIEVANT n pl GRIEVANTSone that submits a complaint for arbitrationGRIEVE v GRIEVED GRIEVING GRIEVESto feel griefGRIEVER n pl GRIEVERSone that grievesGRIEVOUS adj causing griefGRIFF n pl GRIFFSgriffeGRIFFE n pl GRIFFESthe offspring of a black person and a mulattoGRIFFIN n pl GRIFFINSa mythological creatureGRIFFON n pl GRIFFONSgriffinGRIFT v GRIFTED GRIFTING GRIFTSto swindleGRIFTER n pl GRIFTERSa swindlerGRIG n pl GRIGSa lively personGRIGRI n pl GRIGRISa fetish or amuletGRILL v GRILLED GRILLING GRILLSto broil on a gridironGRILLADE n pl GRILLADESa dish of grilled meatGRILLAGE n pl GRILLAGESa framework of timberGRILLE n pl GRILLESa gratingGRILLER n pl GRILLERSone that grillsGRILLERY n pl GRILLERIESa place where grilled foods are servedGRILSE n pl GRILSESa young salmonGRIM adj GRIMMER GRIMMESTstern and unrelentingGRIMACE v GRIMACED GRIMACING GRIMACESto contort the facial featuresGRIMACER n pl GRIMACERSone that grimacesGRIME v GRIMED GRIMING GRIMESto make dirtyGRIMIER comparative of grimyGRIMIEST superlative of grimyGRIMILY adv in a grimy mannerGRIMING present participle of grimeGRIMLY adv in a grim mannerGRIMMER comparative of grimGRIMMEST superlative of grimGRIMNESS n pl GRIMNESSESthe quality of being grimGRIMOIRE n pl GRIMOIRESa book of magic spellsGRIMY adj GRIMIER GRIMIESTdirtyGRIN v GRINNED GRINNING GRINSto smile broadlyGRINCH n pl GRINCHESone who spoils the fun of othersGRIND v GROUND or GRINDED GRINDING GRINDSto wear smooth or sharpen by frictionGRINDER n pl GRINDERSone that grindsGRINDERY n pl GRINDERIESa place where tools are groundGRINNED past tense of grinGRINNER n pl GRINNERSone that grinsGRINNING present participle of grinGRIOT n pl GRIOTSa tribal entertainer in West AfricaGRIP v GRIPPED or GRIPT GRIPPING GRIPSto graspGRIPE v GRIPED GRIPING GRIPESto complain peevishyGRIPER n pl GRIPERSone that gripesGRIPEY adj GRIPIER GRIPIESTgripyGRIPIER comparative of gripyGRIPIEST superlative of gripyGRIPING present participle of gripeGRIPINGLY adv in a complaining mannerGRIPMAN n pl GRIPMENa cable car operatorGRIPPE n pl GRIPPESa virus diseaseGRIPPED a past tense of gripGRIPPER n pl GRIPPERSone that gripsGRIPPING present participle of gripGRIPPLE adj greedyGRIPPY adj GRIPPIER GRIPPIESTaffected with the grippeGRIPSACK n pl GRIPSACKSa valiseGRIPT a past tense of gripGRIPY adj GRIPIER GRIPIESTcausing sharp pains in the bowelsGRISEOUS adj grayishGRISETTE n pl GRISETTESa young French workingclass girlGRISKIN n pl GRISKINSthe lean part of a loin of porkGRISLY adj GRISLIER GRISLIESThorrifyingGRISON n pl GRISONSa carnivorous mammalGRIST n pl GRISTSgrain for grindingGRISTER n pl GRISTERSone that grinds grainGRISTLE n pl GRISTLESthe tough part of meatGRISTLY adj GRISTLIER GRISTLIESTcontaining gristleGRIT v GRITTED GRITTING GRITSto press the teeth togetherGRITH n pl GRITHSsanctuary for a limited period of timeGRITTER n pl GRITTERSone that gritsGRITTY adj GRITTIER GRITTIESTpluckyGRITTILY advGRIVET n pl GRIVETSa small monkeyGRIZ n pl GRIZa grizzlyGRIZZLE v GRIZZLED GRIZZLING GRIZZLESto complainGRIZZLER n pl GRIZZLERSone that grizzlesGRIZZLY adj GRIZZLIER GRIZZLIESTgrayishGRIZZLY n pl GRIZZLIESa large bearGROAN v GROANED GROANING GROANSto utter a low mournful soundGROANER n pl GROANERSone that groansGROAT n pl GROATSan old English coinGROCER n pl GROCERSa dealer in foodstuffs and household suppliesGROCERY n pl GROCERIESa grocers storeGRODY adj GRODIER GRODIESTsleazyGROG n pl GROGSa mixture of liquor and waterGROGGERY n pl GROGGERIESa barroomGROGGY adj GROGGIER GROGGIESTdazedGROGGILY advGROGRAM n pl GROGRAMSa coarse silk fabricGROGSHOP n pl GROGSHOPSa groggeryGROIN v GROINED GROINING GROINSto build with intersecting archesGROK v GROKKED GROKKING GROKSto understand intuitivelyGROMMET v GROMMETED GROMMETING GROMMETSto fasten with a reinforcing ring of metalGROMWELL n pl GROMWELLSan herbGROOM v GROOMED GROOMING GROOMSto clean and care forGROOMER n pl GROOMERSone that groomsGROOVE v GROOVED GROOVING GROOVESto form a groove a long narrow depressionGROOVER n pl GROOVERSone that groovesGROOVY adj GROOVIER GROOVIESTmarvelousGROOVILY advGROPE v GROPED GROPING GROPESto feel about with the handsGROPER n pl GROPERSone that gropesGROSBEAK n pl GROSBEAKSa finchGROSCHEN n pl GROSCHENa formerly used Austrian coinGROSS adj GROSSER GROSSESTflagrantGROSS v GROSSED GROSSING GROSSESto earn exclusive of deductionsGROSSER n pl GROSSERSa product yielding a large volume of businessGROSSLY adv in a gross mannerGROSZ n pl GROSZYa Polish coinGROSZE n pl GROSZYgroszGROT n pl GROTSa grottoGROTTO n pl GROTTOS or GROTTOESa caveGROTTOED adjGROTTY adj GROTTIER GROTTIESTwretchedGROUCH v GROUCHED GROUCHING GROUCHESto complainGROUCHY adj GROUCHIER GROUCHIESTilltemperedGROUND v GROUNDED GROUNDING GROUNDSto place on a foundationGROUNDER n pl GROUNDERSa type of batted baseballGROUP v GROUPED GROUPING GROUPSto arrange in a group an assemblage of persons or thingsGROUPAGE n pl GROUPAGESthe arranging of persons or things into groupsGROUPER n pl GROUPERSa food fishGROUPIE n pl GROUPIESa follower of rock groupsGROUPING n pl GROUPINGSa set of objectsGROUPOID n pl GROUPOIDSa type of mathematical setGROUSE v GROUSED GROUSING GROUSESto complainGROUSER n pl GROUSERSone that grousesGROUT v GROUTED GROUTING GROUTSto fill with a thin mortarGROUTER n pl GROUTERSone that groutsGROUTY adj GROUTIER GROUTIESTsurlyGROVE n pl GROVESa small forested areaGROVED adjGROVEL v GROVELED GROVELING GROVELS or GROVELLED GROVELLING GROVELSto crawl in an abject mannerGROVELER n pl GROVELERSone that grovelsGROVY adj GROVIER GROVIESTresembling or suggestive of a groveGROW v GREW GROWN GROWING GROWSto cultivateGROWABLE adjGROWER n pl GROWERSone that growsGROWL v GROWLED GROWLING GROWLSto utter a deep harsh soundGROWLER n pl GROWLERSone that growlsGROWLY adj GROWLIER GROWLIESTdeep and harsh in speechGROWN adj matureGROWNUP n pl GROWNUPSa mature personGROWTH n pl GROWTHSdevelopmentGROWTHY adj GROWTHIER GROWTHIESTfastgrowingGROYNE n pl GROYNESa structure built to protect a shore from erosionGRR interj  used to express anger or annoyanceGRRRL n pl GRRRLSa young woman who resists the exploitation of womenGRUB v GRUBBED GRUBBING GRUBSto digGRUBBER n pl GRUBBERSone that grubsGRUBBY adj GRUBBIER GRUBBIESTdirtyGRUBBILY advGRUBWORM n pl GRUBWORMSthe larva of some insectsGRUDGE v GRUDGED GRUDGING GRUDGESto be unwilling to give or admitGRUDGER n pl GRUDGERSone that grudgesGRUE n pl GRUESa shudder of fearGRUEL v GRUELED GRUELING GRUELS or GRUELLED GRUELLING GRUELSto disable by hard workGRUELER n pl GRUELERSone that gruelsGRUELING n pl GRUELINGSan exhausting experienceGRUELLED a past tense of gruelGRUELLER n pl GRUELLERSgruelerGRUELLING present participle of gruelGRUESOME adj GRUESOMER GRUESOMESTrepugnantGRUFF adj GRUFFER GRUFFESTlow and harsh in speechGRUFF v GRUFFED GRUFFING GRUFFSto utter in a gruff voiceGRUFFIER comparative of gruffyGRUFFIEST superlative of gruffyGRUFFILY adv in a gruffy mannerGRUFFISH adj somewhat gruffGRUFFLY adv in a gruff mannerGRUFFY adj GRUFFIER GRUFFIESTgruffGRUGRU n pl GRUGRUSa palm treeGRUIFORM adj designating an order of birdsGRUM adj GRUMMER GRUMMESTmoroseGRUMBLE v GRUMBLED GRUMBLING GRUMBLESto mutter in discontentGRUMBLER n pl GRUMBLERSone that grumblesGRUMBLY adj GRUMBLIER GRUMBLIESTgiven to grumblingGRUME n pl GRUMESa thick viscid substanceGRUMMER comparative of grumGRUMMEST superlative of grumGRUMMET v GRUMMETED GRUMMETING GRUMMETSto grommetGRUMOSE adj grumousGRUMOUS adj consisting of clustered grainsGRUMP v GRUMPED GRUMPING GRUMPSto complainGRUMPHIE n pl GRUMPHIESa pigGRUMPHY n pl GRUMPHIESgrumphieGRUMPISH adj grumpyGRUMPY adj GRUMPIER GRUMPIESTilltemperedGRUMPILY advGRUNGE n pl GRUNGESdirtGRUNGER n pl GRUNGERSa fan of a style of rock music and associated fashionsGRUNGY adj GRUNGIER GRUNGIESTdirtyGRUNION n pl GRUNIONSa small food fishGRUNT v GRUNTED GRUNTING GRUNTSto utter a deep guttural soundGRUNTER n pl GRUNTERSone that gruntsGRUNTLE v GRUNTLED GRUNTLING GRUNTLESto put in a good humorGRUSHIE adj thrivingGRUTCH v GRUTCHED GRUTCHING GRUTCHESto grudgeGRUTTEN past participle of greet to weepGRUYERE n pl GRUYERESa Swiss cheeseGRYPHON n pl GRYPHONSgriffinGUACHARO n pl GUACHAROS or GUACHAROESa tropical birdGUACO n pl GUACOSa tropical plantGUAIAC n pl GUAIACSguaiacumGUAIACOL n pl GUAIACOLSa chemical compoundGUAIACUM n pl GUAIACUMSa medicinal resinGUAIOCUM n pl GUAIOCUMSguaiacumGUAN n pl GUANSa large birdGUANACO n pl GUANACOSa South American mammalGUANASE n pl GUANASESan enzymeGUANAY n pl GUANAYSa Peruvian cormorantGUANIDIN n pl GUANIDINSa chemical compoundGUANIN n pl GUANINSguanineGUANINE n pl GUANINESa chemical compoundGUANO n pl GUANOSthe accumulated excrement of seabirdsGUAR n pl GUARSa droughttolerant legumeGUARACHE n pl GUARACHEShuaracheGUARANA n pl GUARANASa South American shrubGUARANI n pl GUARANIS or GUARANIESa monetary unit of ParaguayGUARANTY v GUARANTIED GUARANTYING GUARANTIESto assume responsibility for the quality ofGUARD v GUARDED GUARDING GUARDSto protectGUARDANT n pl GUARDANTSa guardianGUARDDOG n pl GUARDDOGSa dog trained to guard persons or propertyGUARDER n pl GUARDERSone that guardsGUARDIAN n pl GUARDIANSone that guardsGUAVA n pl GUAVASa tropical shrubGUAYULE n pl GUAYULESa shrub that is a source of rubberGUBBINS n pl GUBBINSESa trivial objectGUCK n pl GUCKSa messy substanceGUDE n pl GUDESgoodGUDGEON v GUDGEONED GUDGEONING GUDGEONSto dupeGUENON n pl GUENONSa longtailed monkeyGUERDON v GUERDONED GUERDONING GUERDONSto rewardGUERIDON n pl GUERIDONSa small stand or tableGUERILLA n pl GUERILLASa member of a small independent band of soldiersGUERNSEY n pl GUERNSEYSa woolen shirtGUESS v GUESSED GUESSING GUESSESto form an opinion from little or no evidenceGUESSER n pl GUESSERSone that guessesGUEST v GUESTED GUESTING GUESTSto appear as a visitorGUFF n pl GUFFSfoolish talkGUFFAW v GUFFAWED GUFFAWING GUFFAWSto laugh loudlyGUGGLE v GUGGLED GUGGLING GUGGLESto gurgleGUGLET n pl GUGLETSgogletGUID n pl GUIDSgoodGUIDANCE n pl GUIDANCESadviceGUIDE v GUIDED GUIDING GUIDESto show the way toGUIDABLE adjGUIDER n pl GUIDERSone that guidesGUIDEWAY n pl GUIDEWAYSa track for controlling the line of motion of somethingGUIDON n pl GUIDONSa small flagGUILD n pl GUILDSan association of people of the same tradeGUILDER n pl GUILDERSa former monetary unit of the NetherlandsGUILE v GUILED GUILING GUILESto beguileGUILEFUL adj cunningGUILT v GUILTED GUILTING GUILTSto cause someone to feel guiltyGUILTY adj GUILTIER GUILTIESTworthy of blame for an offenseGUILTILY advGUIMPE n pl GUIMPESa short blouseGUINEA n pl GUINEASa formerly used British coinGUINEP n pl GUINEPSgenipGUIPURE n pl GUIPURESa type of laceGUIRO n pl GUIROSa percussion instrumentGUISARD n pl GUISARDSa maskerGUISE v GUISED GUISING GUISESto disguiseGUITAR n pl GUITARSa stringed musical instrumentGUITGUIT n pl GUITGUITSa tropical American birdGUL n pl GULSa design in oriental carpetsGULAG n pl GULAGSa forcedlabor campGULAR n pl GULARSa scale on the throat of a reptile or fishGULCH n pl GULCHESa deep narrow ravineGULDEN n pl GULDENSa guilderGULES n pl GULESthe color redGULF v GULFED GULFING GULFSto swallow upGULFIER comparative of gulfyGULFIEST superlative of gulfyGULFLIKE adj resembling a deep chasmGULFWEED n pl GULFWEEDSa brownish seaweedGULFY adj GULFIER GULFIESTfull of whirlpoolsGULL v GULLED GULLING GULLSto deceiveGULLABLE adj gullibleGULLABLY advGULLERY n pl GULLERIESa place where gulls webfooted seabirds breedGULLET n pl GULLETSthe throatGULLEY n pl GULLEYSa ravineGULLIBLE adj easily deceivedGULLIBLY advGULLWING adj hinged at the top to swing upwardGULLY v GULLIED GULLYING GULLIESto form ravines by the action of waterGULOSITY n pl GULOSITIESgluttonyGULP v GULPED GULPING GULPSto swallow rapidlyGULPER n pl GULPERSone that gulpsGULPY adj GULPIER GULPIESTmarked by gulpingGUM v GUMMED GUMMING GUMSto smear seal or clog with gum a sticky viscid substanceGUMBALL n pl GUMBALLSa small ball of chewing gumGUMBO n pl GUMBOSthe okra plantGUMBOIL n pl GUMBOILSan abscess in the gumGUMBOOT n pl GUMBOOTSa rubber bootGUMBOTIL n pl GUMBOTILSa sticky clayGUMDROP n pl GUMDROPSa chewy candyGUMLESS adj having no gumGUMLIKE adj resembling gumGUMLINE n pl GUMLINESthe edge of the gums meeting the teethGUMMA n pl GUMMAS or GUMMATAa soft tumorGUMMED past tense of gumGUMMER n pl GUMMERSone that gumsGUMMI n pl GUMMISa rubbery flavored candyGUMMIER comparative of gummyGUMMIEST superlative of gummyGUMMILY adv in a toothless mannerGUMMING present participle of gumGUMMITE n pl GUMMITESa mixture of various mineralsGUMMOSE adj gummyGUMMOSIS n pl GUMMOSESa disease of plantsGUMMOUS adj gummyGUMMY adj GUMMIER GUMMIESTresembling gumGUMPTION n pl GUMPTIONSshrewdnessGUMSHOE v GUMSHOED GUMSHOEING GUMSHOESto investigate stealthilyGUMTREE n pl GUMTREESa tree that yields gumGUMWEED n pl GUMWEEDSa plant covered with a gummy substanceGUMWOOD n pl GUMWOODSthe wood of a gumtreeGUN v GUNNED GUNNING GUNSto shoot with a gun a portable firearmGUNBOAT n pl GUNBOATSan armed vesselGUNDOG n pl GUNDOGSa hunting dogGUNFIGHT v GUNFOUGHT GUNFIGHTING GUNFIGHTSto fight with gunsGUNFIRE n pl GUNFIRESthe firing of gunsGUNFLINT n pl GUNFLINTSthe flint in a flintlockGUNGE v GUNGED GUNGING GUNGESto obstruct with gunky materialGUNGY adj GUNGIER GUNGIESTgunkyGUNITE n pl GUNITESa mixture of cement sand and waterGUNK v GUNKED GUNKING GUNKSto cause something to be gunkyGUNKHOLE v GUNKHOLED GUNKHOLING GUNKHOLESto make a series of short boat tripsGUNKY adj GUNKIER GUNKIESTfilthy sticky or greasyGUNLESS adj having no gunGUNLOCK n pl GUNLOCKSthe mechanism which ignites the charge of a gunGUNMAN n pl GUNMENone who is armed with a gunGUNMETAL n pl GUNMETALSa dark gray colorGUNNED past tense of gunGUNNEL n pl GUNNELSa marine fishGUNNEN past participle of ginGUNNER n pl GUNNERSone that operates a gunGUNNERA n pl GUNNERASa plant with large leavesGUNNERY n pl GUNNERIESthe use of gunsGUNNING n pl GUNNINGSthe sport of hunting with a gunGUNNY n pl GUNNIESa coarse fabricGUNNYBAG n pl GUNNYBAGSa bag made of gunnyGUNPAPER n pl GUNPAPERSa type of explosive paperGUNPLAY n pl GUNPLAYSthe shooting of gunsGUNPOINT n pl GUNPOINTSthe point or aim of a gunGUNPORT n pl GUNPORTSan opening in a ship or airplane for a gunGUNROOM n pl GUNROOMSa room on a British warshipGUNSEL n pl GUNSELSa gunmanGUNSHIP n pl GUNSHIPSan armed helicopterGUNSHOT n pl GUNSHOTSa projectile fired from a gunGUNSIGHT n pl GUNSIGHTSa device on a gun for aimingGUNSMITH n pl GUNSMITHSone who makes or repairs firearmsGUNSTOCK n pl GUNSTOCKSthe rear wooden part of a rifleGUNTER n pl GUNTERSa type of sailGUNWALE n pl GUNWALESthe upper edge of a ships sideGUPPY n pl GUPPIESa small tropical fishGURDWARA n pl GURDWARASa Sikh templeGURDY n pl GURDIESa winch on a fishing boatGURGE v GURGED GURGING GURGESto swirlGURGLE v GURGLED GURGLING GURGLESto flow with bubbling soundsGURGLET n pl GURGLETSgogletGURGLY adj GURGLIER GURGLIESTmaking bubbling soundsGURNARD n pl GURNARDSa marine fishGURNET n pl GURNETSa gurnardGURNEY n pl GURNEYSa wheeled cotGURRY n pl GURRIESfish offalGURSH n pl GURSHESqurshGURU n pl GURUSa Hindu spiritual teacherGURUSHIP n pl GURUSHIPSthe office of a guruGUSH v GUSHED GUSHING GUSHESto flow forth forcefullyGUSHER n pl GUSHERSa gushing oil wellGUSHY adj GUSHIER GUSHIESToverly sentimentalGUSHILY advGUSSET v GUSSETED GUSSETING GUSSETSto furnish with a reinforcing piece of materialGUSSIE v GUSSIED GUSSYING GUSSIESto gussyGUSSY v GUSSIED GUSSYING GUSSIESto dress up in fine or showy clothesGUST v GUSTED GUSTING GUSTSto blow in gusts sudden blasts of windGUSTABLE n pl GUSTABLESa savory foodGUSTIER comparative of gustyGUSTIEST superlative of gustyGUSTILY adv in a gusty mannerGUSTLESS adj having no gustsGUSTO n pl GUSTOES or GUSTOSvigorous enjoymentGUSTY adj GUSTIER GUSTIESTblowing in gustsGUT v GUTTED GUTTING GUTSto remove the guts intestines ofGUTFUL n pl GUTFULSan excessive amountGUTLESS adj lacking courageGUTLIKE adj resembling gutsGUTSILY adv in a gutsy mannerGUTSY adj GUTSIER GUTSIESTbraveGUTTA n pl GUTTAEa drop of liquidGUTTATE adj resembling a dropGUTTATED adj guttateGUTTED past tense of gutGUTTER v GUTTERED GUTTERING GUTTERSto form channels for draining off waterGUTTERY adj marked by extreme vulgarity or indecencyGUTTIER comparative of guttyGUTTIEST superlative of guttyGUTTING present participle of gutGUTTLE v GUTTLED GUTTLING GUTTLESto eat rapidlyGUTTLER n pl GUTTLERSone that guttlesGUTTURAL n pl GUTTURALSa throaty soundGUTTY adj GUTTIER GUTTIESTmarked by courageGUV n pl GUVSa governorGUY v GUYED GUYING GUYSto ridiculeGUYLINE n pl GUYLINESa rope chain or wire used as a braceGUYOT n pl GUYOTSa flattopped seamountGUZZLE v GUZZLED GUZZLING GUZZLESto drink rapidlyGUZZLER n pl GUZZLERSone that guzzlesGWEDUC n pl GWEDUCSgeoduckGWEDUCK n pl GWEDUCKSgeoduckGWINE a present participle of goGYBE v GYBED GYBING GYBESto shift from side to side while sailingGYM n pl GYMSa room for athletic activitiesGYMKHANA n pl GYMKHANASan athletic meetGYMNASIA npl gymsGYMNAST n pl GYMNASTSone who is skilled in physical exercisesGYMSLIP n pl GYMSLIPSa sleeveless tunic often worn by schoolgirlsGYNAECEA npl gyneciaGYNAECIA npl gyneciaGYNANDRY n pl GYNANDRIESthe condition of having both male and female sexual organsGYNARCHY n pl GYNARCHIESgovernment by womenGYNECIC adj pertaining to womenGYNECIUM n pl GYNECIAthe pistil of a flowerGYNECOID adj resembling a womanGYNIATRY n pl GYNIATRIESthe treatment of womens diseasesGYNIE n pl GYNIESa gynecologistGYNO n pl GYNOSa gynecologistGYNOECIA npl gyneciaGYOZA n pl GYOZASa stuffed and fried pocket of doughGYP v GYPPED GYPPING GYPSto swindleGYPLURE n pl GYPLURESa synthetic attractant to trap gypsy mothsGYPO n pl GYPOSa smalltime logging operatorGYPPER n pl GYPERSone that gypsGYPPO n pl GYPPOSgypoGYPSEIAN adj of or pertaining to gypsiesGYPSEOUS adj containing gypsumGYPSTER n pl GYPSTERSone that gypsGYPSUM n pl GYPSUMSa mineralGYPSY v GYPSIED GYPSYING GYPSIESto live like a gypsy a wandererGYPSYDOM n pl GYPSYDOMSthe realm of gypsiesGYPSYISH adj resembling a gypsyGYPSYISM n pl GYPSYISMSthe mode of life of gypsiesGYRAL adj gyratoryGYRALLY advGYRASE n pl GYRASESan enzymeGYRATE v GYRATED GYRATING GYRATESto revolve or rotateGYRATION n pl GYRATIONSthe act of gyratingGYRATOR n pl GYRATORSone that gyratesGYRATORY adj moving in a circle or spiralGYRE v GYRED GYRING GYRESto move in a circle or spiralGYRENE n pl GYRENESa marineGYRI pl of gyrusGYRO n pl GYROSa gyroscopeGYROIDAL adj spiral in arrangementGYRON n pl GYRONSa heraldic designGYROSE adj marked with wavy linesGYROSTAT n pl GYROSTATSa type of stabilizing deviceGYRUS n pl GYRIa ridge in the brainGYTTJA n pl GYTTJASan organically rich mudGYVE v GYVED GYVING GYVESto shackle").
+entry(ha, n, [has], "một âm thanh ngạc nhiên").
+mục(haaf, n, [haafs], "khu vực đánh bắt cá biển sâu").
+entry(haar, n, [haars], "sương mù").
+entry(habanera, n, [habaneras], "một điệu nhảy Cuba").
+entry(habanero, n, [habaneros], "một loại ớt cay").
+entry(habdalah, n, [habdalahs], "một nghi thức của người Do Thái").
+entry(habendum, n, [habendums], "phần của một chứng thư giới hạn phạm vi sở hữu").
+entry(habile, adj, [], "khéo léo").
+entry(habit, v, [habited,habiting,habits], "mặc quần áo hoặc ăn mặc").
+entry(habitan, n, [habitans], "một người định cư Pháp").
+entry(habitant, n, [habitants], "một cư dân").
+entry(habitat, n, [môi_trường_sống], "môi trường tự nhiên của một sinh vật").
+entry(thường xuyên, adj, [], "xảy ra thường xuyên hoặc liên tục").
+entry(thói_quen, n, [thói_quen], "một hành động thường xuyên").
+entry(habitue, n, [những người quen], "một khách hàng thường xuyên").
+entry(habitus, n, [habitus], "tạng người và thể chất").
+entry(haboob, n, [haboobs], "một cơn bão cát dữ dội").
+entry(habu, n, [habus], "một con rắn độc").
+entry(hacek, n, [haceks], "một dấu được đặt trên một chữ cái để thay đổi nó").
+entry(hachure, v, [hachured,hachuring,hachures], "để tạo một đường kẻ trên bản đồ").
+entry(hacienda, n, [haciendas], "một điền trang").
+entry(hack, v, [hacked,hacking,hacks], "chặt hoặc cắt thô sơHACKABLE adj").
+entry(hackbut, n, [hackbuts], "một loại súng").
+entry(hackee, n, [hackees], "một con sóc chuột").
+entry(hacker, n, [hackers], "người hack").
+đầu_mục(hackery, n, [hackeries], "văn bản nhàm chán và không có tính sáng tạo").
+entry(hackie, n, [hackies], "một tài xế taxi").
+entry(hacking, n, [hackings], "hoạt động cưỡi ngựa để giải trí").
+mục(hackle, v, [hackled,hackling,hackles], "chặt").
+entry(hackler, n, [hacklers], "người gỡ tơ").
+entry(hackly, adj, [], "HACKLIER HACKLIESTxù xì").
+entry(hackman, n, [hackmen], "một người làm nghề lái xe taxi").
+entry(hackney, v, [hackneyed,hackneying,hackneys], "làm cho phổ biến").
+entry(cưa, v, [cữa, cưa, cưa cắt], "CƯAa tool used for sawing having a fine-toothed blade").
+entry(công_việc_qua_lóa, n, [công_việc_qua_lóa_s], "tác phẩm nghệ thuật được thực hiện theo công thức").
+entry(had, a, [], "thì quá khứ của have").
+entry(hadal, adj, [], "liên quan đến các phần sâu của đại dương").
+entry(hadarim, a, [], "số nhiều của heder").
+entry(haddest, a, [], "ngôi thứ 2 số ít quá khứ của động từ 'have'").
+entry(haddock, n, [haddocks], "một loại cá thực phẩm").
+entry(hade, v, [haded,hading,hades], "nghiêng về phía").
+mục(hadith, n, [hadith], "hoặc HADITHS ghi chép các câu nói của Muhammed").
+entry(hadj, n, [hadjes], "một cuộc hành hương đến Mecca").
+entry(hadjee, n, [hadjees], "người hành hương").
+entry(hadji, n, [hadjis], "người đã hành hương đến thánh địa").
+entry(hadron, n, [hadrons], "một hạt cơ bảnHADRONIC adj").
+entry(hadst, a, [], "quá khứ ngôi thứ 2 số ít của 'have'").
+entry(hae, v, [haed,haen,haeing], "HAElà có").
+entry(haem, n, [haems], "hem").
+entry(haemal, adj, [], "hemal").
+entry(haematal, adj, [], "liên quan đến máu").
+entry(haematic, n, [haematics], "máu").
+entry(haematin, n, [haematins], "hematin").
+entry(haemic, adj, [], "thuộc về máu").
+entry(haemin, n, [haemins], "hemin").
+entry(haemoid, adj, [], "hemoid").
+entry(haen, quá_khứ, [], "phân từ của hae").
+entry(haeres, n, [haeredes], "người thừa kế").
+entry(haet, n, [haets], "một lượng nhỏ").
+entry(haffet, n, [haffets], "xương gò má và thái dương").
+entry(haffit, n, [haffits], "haffet").
+entry(hafiz, n, [hafizes], "một người Hồi giáo biết Kinh Koran thuộc lòng").
+entry(hafnium, n, [hafniums], "một nguyên tố kim loại").
+entry(haft, v, [hafted,hafting,hafts], "cung cấp một cái cán").
+entry(haftara, n, [haftaras], "hoặc HAFTAROT hoặc HAFTAROTHhaphtara").
+entry(haftarah, n, [haftarahs], "hoặc HAFTAROS hoặc HAFTAROT hoặc HAFTAROTHhaphtara").
+entry(hafter, n, [hafters], "cái để nắm").
+entry(haftorah, n, [haftorahs], "hoặc HAFTOROT hoặc HAFTOROTHhaphtara").
+entry(hag, v, [hagged, hagging, hags], "chặt").
+entry(hagadic, adj, [], "haggadic").
+entry(hagadist, n, [hagadists], "một học giả haggadic").
+entry(hagberry, n, [hagberries], "một loại anh đào nhỏ").
+entry(hagborn, adj, [], "sinh ra từ phù thủy").
+entry(hagbush, n, [hagbushes], "một cái cây lớn").
+entry(hagbut, n, [hagbuts], "hackbut").
+entry(hagdon, n, [hagdons], "một loài chim biển").
+entry(hagfish, n, [hagfishes], "một loại cá giống lươn").
+entry(haggada, n, [haggadas,haggadot], "hoặc HAGGADOTHhaggadah").
+entry(haggadah, n, [haggadahs], "hoặc HAGGADOT hoặc HAGGADOTHmột câu chuyện trong Kinh ThánhHAGGADIC adj").
+entry(haggard, n, [haggards], "một con diều hâu trưởng thành").
+entry(hagged, past, [], "thì của hag").
+entry(hagging, hiện tại, [], "phân từ của hag").
+entry(haggis, n, [haggises], "một món ăn Scotland làm từ nội tạng cừu đã được cắt nhỏ, tẩm gia vị và nấu trong túi").
+entry(haggish, adj, [], "giống phù thủy").
+mục(haggle, v, [haggled,haggling,haggles], "mặc cả").
+entry(haggler, n, [hagglers], "người trả giá").
+entry(mặc cả, n, [mặc cả], "một cuộc thương lượng về giá cả").
+entry(hagride, v, [hagrode,hagridden,hagriding], "HAGRIDE để quấy rối").
+entry(hagrider, n, [hagriders], "một kẻ thao túng").
+entry(hah, n, [hahs], "ha").
+entry(haha, n, [hahas], "một hàng rào đặt trong một cái rãnh").
+entry(hahnium, n, [hahniums], "một nguyên tố phóng xạ").
+entry(haick, n, [haicks], "haik").
+entry(haik, n, [haiks], "hoặc HAIKA, một loại áo khoác ngoài được người Ả Rập mặc").
+entry(haiku, n, [haikus], "một bài thơ Nhật Bản").
+entry(hail, v, [đã chào đón, đang chào đón, chào đón], "để chào đón").
+entry(hailer, n, [hailers], "một người chào").
+entry(haimish, adj, [], "ấm cúng giản dị").
+entry(haint, n, [haints], "một con ma").
+entry(tóc, n, [tóc], "một sợi mọc giống như sợi chỉ").
+entry(hairball, n, [hairballs], "một cục lông").
+entry(băng đô, n, [băng đô], "một loại băng đô").
+entry(haircap, n, [haircaps], "một chiếc mũ").
+entry(hớt_tóc, n, [hớt_tóc], "một lần cắt tóc").
+mục(tóc, n, [kiểu tóc], "một kiểu để tóc").
+entry(tóc, adj, [], "có tóc").
+entry(hairgrip, n, [hairgrips], "một chiếc kẹp tăm").
+entry(hairier, so sánh hơn, [], "của hairy").
+entry(hairiest, cấp cao nhất, [], "của hairy").
+entry(hairily, adv, [], "một cách xồm xoàm").
+entry(hairless, adj, [], "không có tóc").
+entry(hairlike, adj, [], "giống như tóc").
+entry(hairline, n, [hairlines], "một đường rất mỏng").
+entry(tóc, n, [những lọn tóc], "một lọn tóc").
+entry(mạng_tóc, n, [mạng_tóc], "một chiếc lưới được sử dụng để giữ tóc vào nếp").
+entry(kẹp tóc, n, [các kẹp tóc], "một dụng cụ kẹp tóc").
+entry(hairwing, n, [hairwings], "một loại mồi câu cá buộc bằng tóc").
+entry(công_việc_tóc, n, [công_việc_tóc], "việc làm các đồ vật từ tóc").
+entry(hairworm, n, [hairworms], "một loại giun ký sinh").
+entry(hairy, adj, [], "NHIỀU LÔNG NHIỀU LÔNG NHẤT được bao phủ bởi lông").
+entry(haj, n, [hajes], "hadj").
+entry(haji, n, [hajis], "hadji").
+entry(hajj, n, [hajjes], "hadj").
+entry(hajji, n, [hajjis], "hadji").
+entry(cá tuyết, n, [cá tuyết], "một loại cá biển").
+entry(hakeem, n, [hakeems], "hakim").
+entry(hakim, n, [hakims], "một thầy thuốc Hồi giáo").
+entry(haku, n, [hakus], "một vương miện hoa").
+entry(halacha, n, [halachas], "hoặc HALACHOT hoặc HALACHOTHphần luật pháp của TalmudHALACHIC adj").
+entry(halakah, n, [halakahs], "hoặc HALAKOTHhalachaHALAKIC adj").
+entry(halakha, n, [halakhas], "hoặc HALAKHOThalachaHALAKHIC adj").
+entry(halakhah, n, [halakhahs], "hoặc HALAKHOTH hoặc HALAKHOThalachaHALAKHIC adj").
+entry(halakist, n, [halakists], "một nhà viết halakic").
+entry(halakoth, a, [], "số nhiều của halakah").
+entry(halal, n, [halals], "thịt được chế biến theo luật Hồi giáo").
+entry(halala, n, [halalas], "một đồng xu của Ả Rập Xê Út").
+mục(halalah, n, [halalahs], "halala").
+entry(halation, n, [halations], "sự nhòe sáng trong nhiếp ảnh").
+entry(halavah, n, [halavahs], "kẹo vừng").
+entry(halazone, n, [halazones], "một chất khử trùng cho nước uống").
+entry(rìu chiến, n, [rìu chiến], "một loại vũ khí giống như cái rìu của thế kỷ 15 và 16").
+entry(halbert, n, [halberts], "giáo mác").
+entry(halcyon, n, [halcyons], "một loài chim thần thoại").
+entry(hale, adj, [], "HALER HALESKhoẻ mạnh").
+entry(hale, v, [haled,haling,hales], "buộc phải đi").
+entry(sự_khỏe_mạnh, n, [sự_khỏe_mạnh_nhiều], "trạng thái của sự khỏe mạnh").
+entry(haler, n, [halers], "đơn vị tiền xu của Cộng hòa Séc").
+entry(halest, superlative, [], "của hale").
+entry(một nửa, n, [một nửa], "một trong hai phần bằng nhau").
+entry(hậu vệ biên, n, [hậu vệ biên], "một cầu thủ bóng đá").
+entry(halfbeak, n, [halfbeaks], "một loài cá biển").
+entry(halflife, n, [halflives], "một thước đo của sự phân rã phóng xạ").
+entry(halfness, n, [halfnesses], "trạng thái của việc là một nửa").
+entry(halfpipe, n, [halfpipes], "một đường trượt hình chữ U được sử dụng để trượt ván").
+entry(halftime, n, [halftimes], "một khoảng nghỉ giữa trận đấu bóng đá").
+entry(halftone, n, [halftones], "một sắc thái giữa sáng và tối").
+entry(nửa chừng, adj, [], "ở giữa").
+entry(thằng ngốc, n, [những thằng ngốc], "một người ngu ngốc hoặc khờ dại").
+entry(cá_bơn, n, [các_cá_bơn], "một loại cá bơn").
+entry(halid, n, [halids], "halide").
+entry(halide, n, [halides], "hợp chất hóa học").
+entry(halidom, n, [halidoms], "thứ gì đó thiêng liêng").
+entry(halidome, n, [halidomes], "thánh địa").
+entry(halier, n, [haliers], "hoặc HALIEROVa đơn vị tiền tệ trước đây của Slovakia").
+entry(haling, present, [], "phân từ của hale").
+entry(haliotis, n, [], "pl HALIOTIS động vật thân mềm có vỏ hình tai").
+entry(halit, n, [halit], "một khoáng chất").
+entry(halitus, n, [hơi thở], "một hơi thở ra").
+entry(hall, n, [halls], "một căn phòng lớn cho hội họp").
+entry(hallah, n, [hallahs], "hoặc HALLOTH hoặc HALLOTchallah").
+entry(hallal, adj, [], "chuẩn bị theo luật Hồi giáo").
+entry(hallel, n, [hallels], "bài ca ngợi ca").
+entry(halliard, n, [halliards], "dây treo buồm").
+entry(hallmark, v, [đóng dấu, đang đóng dấu, làm dấu], "để đánh dấu với một con dấu chính thức").
+entry(hallo, v, [halloed,halloing,hallos], "hoặc HALLOESto hét").
+entry(halloa, v, [halloaed,halloaing,halloas], "gọi hallo").
+entry(halloo, v, [hallooed,hallooing,halloos], "gọi hô").
+entry(hallot, a, [], "số nhiều của hallah").
+entry(halloth, a, [], "số nhiều của hallah").
+entry(hallow, v, [hallowed,hallowing,hallows], "làm cho thiêng liêng").
+entry(hallower, n, [hallowers], "một người ban phước").
+entry(hallux, n, [halluces], "ngón chân cáiHALLUCAL adj").
+entry(hành_lang, n, [hành_langs], "một hành lang").
+entry(halm, n, [halms], "haulm").
+entry(halma, n, [halmas], "một trò chơi cờ bàn").
+entry(halo, v, [haloed,haloing,halos], "hoặc HALOEs để tạo một vầng hào quang một vòng ánh sáng").
+entry(halogen, n, [halogen], "một nguyên tố phi kim").
+entry(haloid, n, [haloids], "một loại muối hóa học").
+entry(halolike, adj, [], "giống một vầng hào quang").
+entry(halon, n, [halons], "hợp chất của cacbon và brom").
+entry(halt, v, [dừng, dừng lại, dừng lại], "để ngừng").
+entry(halter, v, [bị_cầm_lại,đang_cầm_lại,cầm_lại], "để đặt sự ràng buộc lên").
+entry(haltere, n, [halteres], "một cặp cánh của côn trùng").
+entry(haltless, adj, [], "không do dự").
+entry(halutz, n, [halutzim], "một người nông dân Israel").
+entry(halva, n, [halvas], "hạnh nhân").
+entry(halvah, n, [halvahs], "một loại kẹo Thổ Nhĩ Kỳ").
+entry(halve, v, [halved,halving,halves], "chia thành hai phần bằng nhau").
+entry(halvers, n, [halvers], "nửa cổ phần").
+entry(halves, pl, [], "của một nửa").
+entry(halving, n, [halvings], "hành động ghép các thanh gỗ lại với nhau bằng cách cắt một nửa độ dày của mỗi cái").
+entry(halwa, n, [halwas], "một món tráng miệng ngọt của Ấn Độ").
+entry(halyard, n, [halyards], "một dây dùng để kéo buồm lên").
+entry(ham, v, [hammed,hamming,hams], "hành động quá mức").
+entry(hamada, n, [hamadas], "hammada").
+entry(hamal, n, [hamals], "một người khuân vác ở các nước phương Đông").
+entry(hamartia, n, [hamartias], "một khuyết điểm về tính cách").
+entry(xương_hàm, n, [xương_hàm], "một xương cổ tay").
+entry(hamatsa, n, [hamatsas], "một điệu nhảy được truyền cảm hứng từ linh hồn của một quái vật ăn thịt người").
+entry(hamaul, n, [hamauls], "hamal").
+entry(hambone, v, [hamboned,hamboning,hambones], "hành động quá lố").
+entry(hamburg, n, [hamburgs], "một miếng chả làm từ thịt bò xay").
+entry(hame, n, [hames], "một phần của yên ngựa").
+entry(người_vụng_về, n, [những_người_vụng_về], "một người biểu diễn nghiệp dư").
+entry(hamlet, n, [thị trấn nhỏ], "một thị trấn nhỏ").
+entry(hammada, n, [hammadas], "một cao nguyên sa mạc bằng đá nền").
+entry(hammal, n, [hammals], "hamal").
+entry(hammam, n, [hammams], "một nhà tắm Thổ Nhĩ Kỳ").
+entry(hammed, quá_khứ, [], "thì của ham").
+entry(búa, v, [búa_sắt,búa_sét,búa], "đập liên tục").
+entry(hammerer, n, [những người đóng], "người đóng").
+entry(hammier, so sánh, [], "béo phì").
+entry(hammiest, bậc nhất, [], "của hammy").
+entry(hammily, adv, [], "một cách khoa trương").
+entry(hamming, hiện tại, [], "phân từ của ham").
+entry(võng, n, [vộng], "một chiếc giường treo").
+entry(hammy, adj, [], "RẤT SÂN KHẤU TÍNH").
+entry(cản trở, v, [cản trở, đang cản trở, cản trở], "gây trở ngại").
+entry(hamperer, n, [hamperers], "một người ngăn trở").
+entry(hamster, n, [chuột đồng], "một loài gặm nhấm đào hang").
+entry(hamulus, n, [hamuli], "một cái móc nhỏHAMULAR HAMULATE HAMULOSE HAMULOUS adj").
+entry(hamza, n, [hamzas], "một dấu phụ tiếng Ả Rập").
+entry(hamzah, n, [hamzahs], "hamza").
+entry(hanaper, n, [hanapers], "một cái rổ đan bằng liễu gai").
+entry(hance, n, [hances], "một bên của một vòm cung").
+mục(lòng_bàn_tay, v, [đã_trao,đang_trao,trao], "để trình bày bằng tay phần cuối của cánh tay").
+entry(handax, n, [handaxes], "một cái rìu cầm tay ngắn").
+entry(túi xách tay, n, [túi xách tay], "một chiếc túi nhỏ để mang theo").
+entry(bóng ném, n, [bóng ném], "một quả bóng cao su nhỏ").
+entry(handbell, n, [handbells], "một cái chuông nhỏ có tay cầm").
+entry(handbill, n, [handbills], "một tờ rơi").
+entry(sổ_tay, n, [sổ_tay], "một quyển cẩm nang").
+entry(handcar, n, [handcars], "một chiếc xe đẩy đường sắt vận hành bằng tay").
+entry(xe_đẩy_tay, n, [xe_đẩy_tay], "một loại xe đẩy bằng tay").
+entry(handclap, n, [handclaps], "một cú đánh vào nhau của lòng bàn tay").
+entry(còng tay, v, [bị còng, đang còng, còng], "để xiềng bằng còng kiềm chế").
+entry(hander, n, [handers], "người đưa").
+mục(handfast, v, [handfasted,handfasting,handfasts], "nắm chắc chắn").
+entry(handful, n, [handfuls], "hoặc HANDSFUL lượng mà bàn tay có thể nắm giữ").
+entry(taycầm, n, [taycầm], "một cách cầm bằng tay hoặc bàn tay").
+entry(súng_ngắn, n, [súng_ngắn], "một loại súng nhỏ").
+entry(handheld, n, [handhelds], "vật cầm tay").
+entry(handhold, n, [tay vịn], "tay cầm").
+mục(tàn_tật, v, [tàn_tật_đi, tàn_tật_đang, tàn_tật_s], "để cản trở").
+entry(handier, comparative, [], "of handy").
+entry(handiest, superlative, [], "của handy").
+entry(handily, adv, [], "một cách thuận tiện").
+entry(handle, v, [handled,handling,handles], "chạm vào bằng tay").
+mục(xử_lý, n, [người_xử_lý], "một người xử lý").
+entry(handless, adj, [], "không có tay").
+entry(handlike, adj, [], "giống như một bàn tay").
+entry(handline, n, [dây_câu_tay], "một dây câu được điều khiển bằng tay").
+entry(xử_lý, n, [xử_lý], "cách mà một vật được xử lý").
+entry(handlist, n, [handlists], "một danh sách tham khảo").
+entry(handloom, n, [khung_cửi_thủ_công], "một khung dệt được vận hành bằng tay").
+entry(handmade, adj, [], "làm bằng tay").
+entry(handmaid, n, [handmaids], "một nữ người hầu").
+entry(giao_bóng, n, [giao_bóngs], "một pha chơi trong bóng đá").
+entry(handout, n, [handouts], "một thứ được phát miễn phí").
+mục(bàn giao, n, [bàn giao], "một trường hợp từ bỏ quyền kiểm soát").
+entry(handpick, v, [đã chọn lọc, đang chọn lọc, chọn lọc], "chọn lọc một cách cẩn thận").
+mục(ta vịn, n, [các ta vịn], "một lan can được sử dụng để hỗ trợ").
+mục(cưa tay, n, [cưa tay], "một loại cưa sử dụng bằng tay").
+entry(handsel, v, [handseled,handseling,handsels], "hoặc HANDSELLED HANDSELLING HANDSELSto tặng một món quà cho").
+entry(handset, n, [handsets], "một loại điện thoại").
+entry(handsewn, adj, [], "may bằng tay").
+entry(handsful, a, [], "số nhiều của handful").
+entry(handsome, adj, [], "HANDSOMER HANDSOMESTattractive").
+entry(handwork, n, [handworks], "lao động thủ công").
+entry(handwrit, adj, [], "được viết tay").
+entry(handy, adj, [], "HANDIER HANDIESTthuận tiện cho việc xử lý").
+entry(handyman, n, [handymen], "một người đàn ông làm những công việc lặt vặt").
+entry(hang, v, [hanged,hanging,hangs], "để treo từ phía trên chỉHANGABLE tính từ").
+entry(hangar, v, [nhà chứa máy bay, việc cất giữ máy bay, nhà chứa máy bay], "để đặt trong nơi trú ẩn máy bay").
+entry(hangbird, n, [hangbirds], "một loài chim").
+entry(hangdog, n, [hangdogs], "một người lén lút").
+entry(móc_áo, n, [móc_áo], "một cái dùng để treo").
+entry(hangfire, n, [hangfires], "sự chậm trễ trong vụ nổ").
+entry(hanging, n, [hangings], "một vụ xử tử bằng cách thắt cổ treo lơ lửng").
+entry(hangman, n, [hangmen], "một đao phủ").
+entry(hangnail, n, [hangnails], "một loại xước măng rô").
+entry(hangnest, n, [hangnests], "một con chim treo").
+entry(hangout, n, [đi chơi], "một nơi thường được ghé thăm").
+entry(buồn nôn, n, [buồn nôn], "các tác động vật lý sau một cơn say rượu").
+entry(hangtag, n, [hangtags], "một loại nhãn được sử dụng trong thương mại").
+entry(hangul, n, [], "hệ chữ cái Hàn Quốc").
+entry(hangup, n, [hangups], "sự kìm hãm hoặc nỗi ám ảnh").
+entry(haniwa, npl, [], "Tượng đất sét Nhật Bản").
+entry(hank, v, [hanked,hanking,hanks], "buộc chặt buồm").
+entry(hanker, v, [hankered,hankering,hankers], "khao khát").
+entry(hankerer, n, [hankerers], "người mà khao khát").
+entry(khăn mùi xoa, danh từ, [những chiếc khăn mùi xoa], "khăn mùi xoa").
+entry(hanky, n, [hankies], "một chiếc khăn tay").
+entry(hansa, n, [hansas], "hanse").
+entry(hanse, n, [hanses], "một phường hội của các thương gia").
+entry(hansel, v, [hanseled,hanseling,hansels], "hoặc HANSELLED HANSELLING HANSELSto handsel").
+entry(hansom, n, [hansoms], "một chiếc xe ngựa nhẹ").
+entry(hant, v, [hanted, hanting, hants], "ám ảnh").
+entry(hantle, n, [hantles], "một lượng lớn").
+entry(hanuman, n, [hanumans], "một loài khỉ Đông Ấn").
+entry(hao, n, [hao], "một đơn vị tiền tệ của Việt Nam").
+entry(hap, v, [happed,happing,haps], "xảy ra").
+entry(hapax, n, [hapaxes], "một từ chỉ xuất hiện một lần").
+entry(haphtara, n, [haphtaras], "hoặc HAPHTAROT hoặc HAPHTAROTLựa chọn kinh thánh").
+entry(hapkido, n, [hapkido], "môn võ thuật Hàn Quốc").
+entry(không may, adj, [], "không may mắn").
+entry(haplite, n, [haplites], "aplit").
+entry(haploid, n, [haploids], "một tế bào chỉ có một bộ nhiễm sắc thể").
+mục(haploidy, n, [haploidies], "trạng thái của một bội thể đơn").
+entry(haplont, n, [haplonts], "một sinh vật có cấu trúc nhiễm sắc thể đặc thù").
+entry(haplopia, n, [haplopias], "thị lực bình thường").
+entry(haplosis, n, [haploses], "sự giảm một nửa số lượng nhiễm sắc thể").
+entry(haply, adv, [], "tình cờ").
+entry(happed, past, [], "thì của hap").
+entry(xảy_ra, v, [xảy_ra_rồi, đang_xảy_ra, xảy_ra], "xảy ra").
+entry(happi, n, [happis], "một loại áo khoác rộng của Nhật Bản").
+entry(happing, hiện tại, [], "phân từ của hap").
+entry(happy, adj, [], "HAPPIER HAPPIESTđặc trưng bởi niềm vuiHAPPILY adv").
+entry(hapten, n, [haptens], "một chất tương tự như kháng nguyênHAPTENIC adj").
+entry(haptene, n, [haptens], "haptens").
+entry(haptic, adj, [], "thuộc về giác quan xúc giác").
+entry(haptical, adj, [], "haptic").
+entry(haram, adj, [], "bị cấm bởi luật Hồi giáo").
+entry(diễn_thuyết, v, [đã_diễn_thuyết,đang_diễn_thuyết,diễn_thuyết], "thuyết giảng một cách kịch liệt").
+entry(quấy_rối, v, [đã_quấy_rối,đang_quấy_rối,quấy_rối], "làm phiền liên tục").
+entry(kẻ quấy rối, n, [những kẻ quấy rối], "một người quấy rối").
+entry(cảng, v, [đã_che_chở,đang_che_chở,che_chở], "che chở").
+entry(kẻ_tiếp_tay, n, [những_kẻ_tiếp_tay], "một người bảo trợ").
+entry(harbour, v, [che chở, đỗ (tàu), giữ (tàu)], "chứa chấp").
+entry(hard, adj, [], "HARDER HARDESTcứng và không nhượng bộ").
+entry(bìa cứng, n, [bìa cứng], "một cuốn sách bìa cứng").
+entry(hardball, n, [hardballs], "bóng chày").
+entry(hardbody, n, [hardbodies], "một người hấp dẫn với thân hình cơ bắp").
+entry(hardboot, n, [hardboots], "một người cưỡi ngựa").
+entry(hardcase, n, [hardcases], "một người cứng đầu hoặc ngoan cố").
+entry(công_việc_khó_khăn, n, [các_công_việc_khó_khăn], "vật liệu cứng được sử dụng trong nền móng").
+entry(hardedge, n, [hardedges], "một bức tranh hình học").
+entry(làm_cứng, v, [đã_làm_cứng,đang_làm_cứng,làm_cứng], "làm cho cứng").
+entry(chất_tạo_cứng, n, [chất_tạo_cứng], "một cái gì đó làm cứng").
+entry(hardhack, n, [hardhacks], "một loại cây gỗ").
+mục_đích(mũ_cứng, n, [mũ_cứng], "người bảo thủ").
+entry(cứng_đầu, n, [cứng_đầu], "một người thực tế").
+entry(hardier, so sánh hơn, [], "của hardy").
+entry(hardies, pl, [], "của hardy").
+entry(hardiest, superlative, [], "của hardy").
+entry(hardily, adv, [], "một cách cứng cáp").
+entry(hardish, adj, [], "hơi cứng").
+entry(hardline, adj, [], "không khoan nhượng").
+entry(hardly, adv, [], "hầu như không").
+entry(độ cứng, n, [độ cứng], "trạng thái của sự cứng").
+entry(hardnose, n, [hardnoses], "một người cứng đầu").
+mục(hardpack, n, [hardpacks], "tuyết nén").
+entry(hardpan, n, [hardpans], "một lớp đất dưới cứng").
+entry(hards, npl, [], "phần bỏ đi thô của lanh").
+entry(hardset, adj, [], "cứng nhắc").
+entry(khó khăn, n, [khó khăn], "một điều kiện khó khăn đau đớn").
+entry(hardtack, n, [hardtacks], "một loại bánh quy cứng").
+entry(hardtop, n, [hardtops], "một loại xe hơi").
+entry(thiết_bị, n, [thiết_bị], "hàng kim khí").
+mục(hardwire, v, [hardwired, hardwiring, hardwires], "kết nối vĩnh viễn các thành phần điện tử").
+entry(gỗ cứng, n, [gỗ cứng], "loại gỗ cứng chắc từ nhiều loại cây khác nhau").
+entry(hardy, adj, [], "RẤT BỀN VỮNG HƠN BỀN VỮNG NHẤT").
+entry(hardy, n, [hardies], "một cái đục của thợ rèn").
+entry(hare, v, [hared,haring,hares], "chạy").
+entry(hoa chuông, n, [hoa chuông], "một cây thảo lâu năm").
+entry(hareem, n, [hareems], "harem").
+entry(giống_thỏ, adj, [], "giống một con thỏ, một loài động vật có vú tai dài").
+entry(sứt môi, n, [sứt môi], "một dị tật của môi trên").
+entry(harem, n, [harems], "khu vực trong một gia đình Hồi giáo dành riêng cho phụ nữ").
+mục(harewood, n, [harewoods], "gỗ cây phong dùng cho đồ nội thất").
+entry(hariana, n, [harianas], "một giống bò").
+entry(haricot, n, [haricots], "hạt của các loại đậu que khác nhau").
+entry(harijan, n, [harijans], "một người ngoài lề ở Ấn Độ").
+entry(haring, hiện tại, [], "phân từ của hare").
+entry(harissa, n, [harissas], "một loại nước sốt cay Bắc Phi").
+entry(hark, v, [harked,harking,harks], "nghe để hiểu").
+entry(harken, v, [harkened, harkening, harkens], "nghe theo").
+entry(harkener, n, [harkeners], "người lắng nghe").
+entry(harl, n, [harls], "một cái nhụy").
+entry(harlot, n, [harlots], "một gái mại dâm").
+entry(harlotry, n, [harlotries], "mại dâm").
+entry(harm, v, [bị_thương, gây_thương_tích, gây_thương_hại], "làm bị thương").
+entry(harmer, n, [harmers], "một người gây hại").
+entry(có_hại, adj, [], "có khả năng gây hại").
+entry(harmin, n, [harmins], "harmine").
+entry(harmine, n, [harmines], "một loại alkaloid được sử dụng như một chất kích thích").
+entry(vô_hại, adj, [], "không gây hại").
+entry(harmonic, n, [harmonics], "một âm bội").
+entry(harmony, n, [harmonies], "sự đồng ý").
+entry(harness, v, [harnessed,harnessing,harnesses], "để đặt dây cương lên một con vật kéo").
+entry(harp, v, [harped,harping,harps], "chơi đàn hạc, một loại nhạc cụ dây").
+entry(harper, n, [harpers], "một nghệ sĩ đàn hạc").
+entry(harpies, pl, [], "của harpy").
+entry(harpin, n, [harpin], "harping").
+entry(harping, n, [harpings], "một tấm gỗ được sử dụng trong đóng tàu").
+entry(người_chơi_hạp_cầm, n, [những_người_chơi_hạp_cầm], "người chơi đàn hạp cầm").
+entry(lao móc, v, [đã lao móc, đang lao móc, những cái lao móc], "đâm bằng một cây giáo có ngạnh").
+entry(harpy, n, [harpies], "một người xấu tính").
+entry(harridan, n, [harridans], "một người đàn bà hốc hác").
+entry(harried, past, [], "thì của từ 'harry'").
+entry(harrier, n, [harriers], "một loài chó săn").
+entry(harries, present, [], "người thứ 3 đơn của harry").
+entry(harrow, v, [harrowed,harrowing,harrows], "để cày bừa và san phẳng đất").
+entry(harrower, n, [harrowers], "người cày bừa").
+entry(harrumph, v, [harrumphed,harrumphing,harrumphs], "phát ra âm thanh trong họng").
+entry(harry, v, [harried,harrying,harries], "cướp bóc").
+entry(harsh, adj, [], "KHẮC NGHIỆT KHẮC NGHIỆT NHẤT nghiêm trọng KHẮC NGHIỆT adv").
+entry(harshen, v, [harshened, harshening, harshens], "làm cho khắc nghiệt").
+entry(harslet, n, [harslets], "haslet").
+entry(hart, n, [harts], "một con hươu đực").
+entry(hartal, n, [cuộc đình công], "một sự ngừng việc").
+entry(harumph, v, [harumphed,harumphing,harumphs], "để harrumph").
+entry(haruspex, n, [haruspices], "một nhà tiên tri của La Mã cổ đại").
+entry(harvest, v, [harvested,harvesting,harvests], "thu hoạch cây trồng").
+entry(có, một, [], "ngôi thứ 3 số ít của có").
+entry(hash, v, [hashed,hashing,hashes], "băm nhỏ").
+entry(hasheesh, n, [hasheeshes], "cần sa").
+entry(hashhead, n, [hashheads], "nghiện cần sa").
+entry(hashish, n, [hashishes], "một loại ma túy nhẹ").
+entry(hashtag, n, [hashtags], "một từ hoặc cụm từ đứng trước bởi biểu tượng # phân loại văn bản đi kèm").
+entry(haslet, n, [haslets], "nội tạng động vật có thể ăn được").
+entry(hasp, v, [hasped,hasping,hasps], "để cài bằng một cái móc").
+entry(hassel, n, [hassels], "một lý lẽ").
+entry(hassium, n, [hassiums], "một nguyên tố phóng xạ").
+entry(rắc_rối, v, [đã_rắc_rối,đang_rắc_rối,rắc_rối], "tranh cãi").
+entry(hassock, n, [hassocks], "một cái ghế đẩu").
+entry(hast, a, [], "dạng số ít ngôi thứ hai hiện tại của 'have'").
+entry(hastate, adj, [], "hình tam giác").
+entry(haste, v, [hasted,hasting,hastes], "thúc giục").
+entry(hasteful, adj, [], "vội vàng").
+entry(hasten, v, [hastened,hastening,hastens], "vội vã").
+entry(hastener, n, [hasteners], "một điều làm cho nhanh hơn").
+entry(hasting, hiện tại, [], "phân từ của haste").
+entry(hasty, adj, [], "HASTIER HASTIESTspeedyHASTILY adv").
+mục(lê, v, [đã_đội_lê,đang_đội_lê,đội_lê], "để cung cấp một cái lê làm vật che đầu").
+entry(hatable, adj, [], "dễ ghét").
+entry(hatband, n, [hatbands], "một dải đeo trên mũ").
+entry(hộp_đựng_mũ, n, [hộp_đựng_mũ], "một cái hộp để đựng mũ").
+entry(hatch, v, [hatched,hatching,hatches], "để nở ra con non từ trứng").
+entry(hatcheck, n, [hatchecks], "một phòng để tạm giữ mũ").
+entry(hatchel, v, [hatcheled,hatcheling,hatchels], "hoặc HATCHELLED HATCHELLING HATCHELSto tách sợi lanh bằng lược").
+entry(hatcher, n, [hatchers], "người ấp trứng").
+entry(hatchery, n, [hatcheries], "một nơi để ấp trứng").
+entry(rìu, n, [rìus], "một cái rìu nhỏ").
+entry(hatching, n, [hatchings], "một loạt các đường được sử dụng để hiển thị bóng").
+entry(hatchway, n, [hatchways], "một lỗ trên boong tàu").
+entry(ghét, v, [ghét, đang_ghét, ghét], "để khinh thường").
+entry(hateable, adj, [], "đáng ghét").
+entry(hateful, adj, [], "đáng ghét").
+entry(hater, n, [haters], "kẻ thù ghét").
+entry(hatful, n, [hatfuls], "hoặc HATSFULnhiều như một chiếc mũ có thể chứa").
+entry(hath, a, [], "hiện tại ngôi thứ 3 số ít của have").
+entry(hating, present, [], "phân từ của hate").
+entry(hatless, adj, [], "thiếu mũ").
+entry(hatlike, adj, [], "giống như một cái mũ").
+entry(hatmaker, n, [thợ làm nón], "một người làm nón").
+entry(kẹp_mũ, n, [kẹp_mũ], "một cái ghim để gắn mũ").
+entry(hatrack, n, [hatracks], "giá treo mũ").
+entry(hận_thù, n, [hận_thùs], "không thích mãnh liệt hoặc ác cảm").
+entry(hatsful, a, [], "số nhiều của hatful").
+entry(hatted, past, [], "thì của hat").
+entry(hatter, n, [hatters], "một người làm mũ").
+entry(hatteria, n, [hatterias], "một loài bò sát").
+entry(hatting, hiện_tại, [], "phân_từ của hat").
+entry(hauberk, n, [hauberks], "một chiếc áo giáp").
+entry(haugh, n, [haughs], "một đồng cỏ trũng").
+entry(kêu ngạo, adj, [], "KÊU NGẠO HƠN KÊU NGẠO NHẤTarrogant").
+entry(haul, v, [hauled,hauling,hauls], "kéo với lực").
+entry(vận_chuyển, n, [vận_chuyển], "hành động vận chuyển").
+entry(haulback, n, [haulbacks], "một dây cáp kéo ngược lại").
+entry(hauler, n, [haulers], "một người vận chuyển").
+entry(người chuyên chở, n, [người chuyên chở khác], "người vận chuyển").
+entry(chở, n, [chởs], "hành động vận chuyển gỗ").
+entry(haulm, n, [haulms], "thân cây").
+entry(haulmy, adj, [], "HAULMIER HAULMIESTcó thân rơm rạ").
+entry(haulout, n, [haulouts], "hành động kéo một chiếc thuyền ra khỏi nước").
+entry(haulyard, n, [haulyards], "dây kéo buồm").
+entry(hông, n, [hông], "the hindquarterHAUNCHED adj").
+entry(haunt, v, [haunted,haunting,haunts], "ghé thăm thường xuyên").
+entry(haunter, n, [haunters], "một thứ ám ảnh").
+entry(haunting, n, [hauntings], "sự viếng thăm của một hồn ma").
+entry(hausen, n, [hausens], "một loại cá tầm Nga").
+entry(hausfrau, n, [hausfraus], "hoặc HAUSFRAUEN một người nội trợ").
+entry(haut, adj, [], "haute").
+entry(hautbois, n, [hautbois], "kèn hautboy").
+entry(hautboy, n, [hautboys], "một loại kèn ô-boa").
+entry(haute, adj, [], "HAUTER HAUTESTcấp cao").
+entry(hauteur, n, [hauteurs], "tính kiêu kỳ hoặc tinh thần ngạo mạn").
+entry(havarti, n, [havartis], "một loại phô mai của Đan Mạch").
+entry(havdalah, n, [havdalahs], "habdalah").
+entry(have, v, [had,having,has], "giữ như một quyền sở hữu, đặc quyền hoặc quyền được hưởng").
+entry(có, n, [có thể], "một người giàu có").
+entry(havelock, n, [havelocks], "một vật che cho một chiếc mũ").
+mục_từ(haven, v, [havened, havening, havens], "để che chở").
+entry(haver, v, [havered, havering, havers], "lưỡng lự").
+entry(haverel, n, [haverels], "một kẻ ngốc").
+mục(lạc, hiện tại, [], "phân từ của có").
+entry(havior, n, [haviors], "hành vi").
+entry(haviour, n, [haviours], "havior").
+entry(havoc, v, [havocked,havocking,havocs], "phá hủy").
+entry(havocker, n, [havockers], "một người gây rối").
+entry(haw, v, [hawed,hawing,haws], "quẹo trái").
+entry(hawala, n, [hawalas], "một loại sắp xếp tài chính trong các xã hội Hồi giáo").
+entry(haweater, n, [haweaters], "một cư dân của đảo Manitoulin Ontario").
+entry(hawfinch, n, [hawfinches], "một loài chim sẻ Âu-Á").
+entry(diều hâu, v, [bán dạo,đang bán dạo,diều hâu], "buôn bán").
+entry(hawkbill, n, [hawkbills], "một loài rùa biển").
+entry(hawker, n, [hawkers], "người bán hàng rong").
+entry(hawkey, n, [hawkeys], "một chiếc hawkie").
+entry(hawkeyed, adj, [], "có thị lực nhạy bén").
+entry(hawkie, n, [hawkies], "một con bò mặt trắng").
+entry(hawking, n, [hawkings], "các loài chim săn mồi").
+entry(hawkish, adj, [], "hiếu chiến").
+entry(hawklike, adj, [], "giống như một con diều hâu, một loài chim săn mồi").
+entry(ngài diều hâu, n, [ngài diều hâu], "một loài bướm đêm lớn").
+entry(hawknose, n, [hawknoses], "một chiếc mũi to, cong").
+entry(hawkshaw, n, [hawkshaws], "một thám tử").
+entry(hawkweed, n, [hawkweeds], "một loại thảo mộc giống như cỏ dại").
+entry(hawse, n, [hawses], "một phần của mũi tàu").
+entry(hawser, n, [hawsers], "một dây buộc tàu").
+entry(cây táo gai, n, [những cây táo gai], "một loại cây bụi có gai").
+entry(hay, v, [hayed,haying,hays], "để chuyển đổi thành cỏ khô được cắt và sấy khô làm thức ăn gia súc").
+entry(haycock, n, [haycocks], "một đống cỏ khô").
+entry(hayer, n, [hayers], "một người cắt cỏ").
+entry(hayey, adj, [], "giống cỏ khô").
+entry(hayfield, n, [hayfields], "một cánh đồng nơi trồng cỏ để làm cỏ khô").
+entry(hayfork, n, [hayforks], "một công cụ để xúc cỏ khô").
+mục(haying, n, [hayings], "mùa thu hoạch cỏ khô").
+entry(haylage, n, [haylages], "một loại cỏ khô").
+entry(gác_thóc, n, [các_gác_thóc], "một cái gác để trữ thóc").
+entry(haymaker, n, [người làm cỏ khô], "một người làm cỏ khô").
+entry(kho_cỏ, n, [kho_cỏs], "gác chất cỏ khô").
+entry(giá đựng cỏ khô, n, [giá đựng cỏ khô], "một khung dùng để kéo cỏ khô").
+entry(hayrick, n, [những đống cỏ khô], "một đống cỏ khô").
+entry(hayride, n, [hayrides], "một chuyến đi trên xe ngựa").
+entry(hayseed, n, [hayseeds], "một người nhà quê").
+entry(cọng_rơm, n, [các_cọng_rơm], "một đống cỏ khô").
+entry(hayward, n, [haywards], "một viên chức chăm sóc gia súc").
+entry(haywire, n, [haywires], "dây dùng để buộc cỏ khô").
+entry(hazan, n, [hazans], "hoặc HAZANIM một người hát thánh ca").
+entry(hazard, v, [hazarded,hazarding,hazards], "mạo hiểm").
+entry(hazarder, n, [hazarders], "một người mạo hiểm").
+entry(sương mù, v, [sương mù che phủ, sương mù che phủ, sương mù che phủ], "bắt phải chịu sự khởi đầu nhục nhã").
+entry(hazel, n, [hazels], "một loại cây bụi").
+entry(gà rừng, n, [gà rừng], "một loài gà gô châu Âu").
+entry(hazelly, adj, [], "nâu vàng").
+entry(hạt_dẻ_cười, n, [các_hạt_dẻ_cười], "một loại hạt ăn được").
+entry(hazer, n, [hazers], "một người thực hiện việc lập lờ").
+entry(hazier, comparative, [], "của hazy").
+entry(haziest, superlative, [], "của hazy").
+entry(hazily, adv, [], "một cách mơ hồ").
+entry(mơ hồ, n, [sự mơ hồ], "trạng thái của việc không rõ ràng").
+entry(hazing, n, [hành_hạ], "một cố gắng để làm bẽ mặt hoặc chế giễu").
+entry(hazmat, n, [hazmats], "vật liệu nguy hiểm").
+entry(mờ, adj, [], "MỜ HƠN MỜ NHẤTkhông rõ ràng").
+entry(hazzan, n, [hazzans], "hoặc HAZZANIMhazan").
+entry(anh ấy, n, [anh ấy], "một người đàn ông").
+entry(head, v, [headed,heading,heads], "trở thành người đứng đầu").
+entry(đau đầu, n, [đau đầu], "một cơn đau bên trong đầu").
+entry(headachy, adj, [], "HEADACHIER HEADACHIESTcó đau đầu").
+entry(băng đô, n, [các băng đô], "một dải đeo trên đầu").
+entry(headend, n, [đầu cuối], "một cơ sở nhận và phân phối tín hiệu truyền thông").
+entry(header, n, [headers], "một máy gặt lúa").
+entry(headfish, n, [headfishes], "một loài cá biển").
+entry(headful, n, [headfuls], "một lượng kiến thức lớn").
+entry(cổng dẫn nước, n, [các cổng dẫn nước], "một cánh cổng để kiểm soát dòng chảy của nước").
+entry(headgear, n, [mũ nón], "một vật che đầu").
+mục(lùng_săn_đầu, v, [đã_lùng_săn_đầu,đang_lùng_săn_đầu,lùng_săn_đầu], "tìm kiếm để chặt đầu và bảo quản đầu của kẻ thù").
+entry(headier, comparative, [], "của heady").
+entry(đầu nhất, so sánh nhất, [], "của đầu").
+entry(headily, adv, [], "một cách hào hứng").
+entry(heading, n, [headings], "một tiêu đề").
+entry(đèn pha, n, [đèn pha], "một chiếc đèn ở phía trước của xe hơi").
+entry(headland, n, [đất mũi], "một vách đá").
+entry(headless, adj, [], "thiếu đầu").
+entry(tiêu_đề, v, [đã_tiêu_đề, đang_tiêu_đề, các_tiêu_đề], "để cung cấp một tiêu đề").
+entry(headlock, n, [món khóa đầu], "một đòn vật trong đấu vật").
+entry(headlong, adj, [], "liều lĩnh hấp tấp").
+entry(headman, n, [headmen], "một người quản đốc").
+entry(headmost, adj, [], "hàng đầu").
+entry(headnote, n, [headnotes], "một ghi chú đứng đầu").
+entry(headpin, n, [headpins], "một chiếc ki bowling").
+entry(headpond, n, [headponds], "một ao được tạo ra phía sau một con đập").
+entry(headrace, n, [headraces], "một kênh nước").
+entry(headrail, n, [headrails], "một thanh ngang ở phía trên của một vật gì đó").
+mục(tựa đầu, n, [tựa đầu], "một cái tựa cho đầu").
+entry(headroom, n, [headrooms], "khoảng không gian thẳng đứng rõ ràng").
+entry(headsail, n, [sail chính], "một loại buồm").
+entry(headset, n, [tai nghe], "một cặp tai nghe").
+entry(headship, n, [headships], "vị trí của một người lãnh đạo").
+entry(headshot, n, [ảnh_chân_dung], "một bức ảnh của một người từ cổ trở lên").
+entry(headsman, n, [đao phủ], "một người thực hiện các cuộc hành quyết").
+entry(headstay, n, [headstays], "một cái đỡ cho cột buồm phía trước của tàu").
+entry(headward, adv, [], "về phía đầu").
+entry(headway, n, [headways], "chuyển động về phía trước").
+entry(headwind, n, [gió ngược], "một cơn gió chảy ngược chiều").
+entry(từ_chỉ_mục, n, [từ_chỉ_mục], "một từ đặt ở đầu").
+entry(headwork, n, [headworks], "công việc trí óc").
+entry(heady, adj, [], "HEADIER HEADIESTintoxicating").
+mục(heal, v, [healed,healing,heals], "để làm cho lành mạnh hoặc toàn vẹnHEALABLE adj").
+entry(healer, n, [healers], "người chữa bệnh").
+entry(chữa lành, n, [sự chữa lành], "quá trình trở nên khỏe mạnh trở lại").
+entry(sức_khỏe, n, [sức_khoẻ], "tình trạng thể chất của một sinh vật").
+entry(healthy, adj, [], "KHỎE MẠNH HƠN KHỎE MẠNH NHẤTcó sức khỏe tốt").
+entry(heap, v, [heaped,heaping,heaps], "chất đống").
+entry(heaper, n, [heapers], "người chất").
+entry(heapy, adj, [], "giống như một đống một nhóm thứ chồng chất lên nhau").
+entry(nghe, v, [nghe,đang_nghe,nghe], "nghe thấy bằng taiNGHE_ĐƯỢC adj").
+nhập(người_nghe, n, [người_nghe], "một người nghe").
+entry(nghe, n, [các cuộc nghe], "một cuộc kiểm tra sơ bộ").
+entry(lắng_nghe, v, [lắng_nghe_rồi,lắng_nghe_đang,lắng_nghe], "để nghe").
+entry(lời_đồn, n, [những_lời_đồn], "thông tin gián tiếp").
+entry(xe_tang, v, [đã_xe_tang,đang_xe_tang,xe_tang], "để vận chuyển bằng xe tang, một phương tiện để chở xác chết").
+entry(heart, v, [hearted,hearting,hearts], "để cổ vũ").
+entry(dong_vien, v, [duoc_dong_vien,dang_dong_vien,dong_vien], "de tao long can dam cho").
+entry(hearth, n, [hearths], "sàn của lò sưởi").
+entry(hearty, adj, [], "HEARTIER HEARTIESTrất thân thiệnHEARTILY adv").
+entry(hearty, n, [hearties], "một đồng chí").
+entry(heat, v, [het,heating,heats], "làm nóngHEATABLE adj").
+entry(heatedly, adv, [], "một cách kích động hoặc hào hứng").
+entry(heater, n, [heaters], "một thiết bị để sưởi ấm").
+entry(heath, n, [heaths], "một loại cây bụi thường xanh").
+entry(ngoại đạo, n, [ngoại đạo], "một người không văn minh").
+entry(heather, n, [heathers], "một loại cây bụi thường xanhHEATHERY adj").
+entry(heathy, adj, [], "HEATHIER HEATHIESTphong phú trong thạch nam").
+entry(sưởi ấm, n, [sưởi ấms], "hành động làm nóng một cái gì đó").
+entry(heatless, adj, [], "không có sự ấm áp").
+entry(heaume, n, [heaumes], "một loại mũ bảo hiểm thời trung cổ").
+entry(nhấc, v, [nhấc,nhấc lên,nhấc lên], "nâng mạnh").
+entry(thiên_đàng, n, [bầu_trời], "bầu trời").
+entry(thien_duong, adj, [], "ĐẸP HƠN ĐẸP NHẤTđầy vẻ đẹp và sự bình yên").
+entry(nhấc, n, [người_nhấc], "một người nâng nhấc").
+entry(nặng hơn, so sánh, [], "of heavy").
+entry(heavies, pl, [], "nặng").
+entry(heaving, present, [], "phân từ của heave").
+entry(nặng, adj, [], "NẶNG HƠN NẶNG NHẤTcó nhiều trọng lượngNẶNG adv").
+entry(nặng, n, [nặng hơn], "một nhân vật phản diện").
+entry(nặng nề, adj, [], "hơi nặng").
+mục(heavyset, adj, [], "vạm vỡ chắc nịch").
+entry(tuần, n, [tuần], "số bảy").
+entry(hebetate, v, [hebetated,hebetating,hebetates], "làm trở nên đần độn").
+entry(hebetic, adj, [], "liên quan đến tuổi dậy thì").
+entry(hebetude, n, [hebetudes], "sự đần độn tinh thần").
+entry(hebraize, v, [hebraized,hebraizing,hebraizes], "biến thành tiếng Hebrew").
+entry(hecatomb, n, [hecatombs], "một sự hy sinh hoặc tàn sát lớn").
+entry(heck, n, [hecks], "địa ngục là một nơi hoặc trạng thái khổ sở").
+entry(heckle, v, [heckled,heckling,heckles], "quấy rối một diễn giả").
+entry(heckler, n, [những_kẻ_quấy_rối], "người quấy rối").
+entry(hecta, n, [hectar], "một đơn vị diện tích").
+entry(nhộn nhịp, adj, [], "đầy hỗn loạnNHỘN NHỊPLY adv").
+entry(hectic, n, [hectics], "một trạng thái sốt kèm theo má đỏ ửng").
+entry(hectical, adj, [], "bận rộn").
+entry(hector, v, [hectored,hectoring,hectors], "bắt nạt").
+entry(heddle, n, [heddles], "một phần của khung cửi").
+entry(heder, n, [heders], "hoặc HADARIM hoặc HEDARIM một trường học Do Thái").
+entry(hàng rào, v, [hàng rào đã bao phủ, việc bao phủ hàng rào, hàng rào], "bao quanh bằng một hàng rào dày đặc của cây bụi").
+entry(nhím, n, [nhím], "một loài động vật có vú nhỏ").
+entry(hedgehop, v, [hedgehopped,hedgehopping,hedgehops], "bay gần mặt đất").
+entry(nhím gai, n, [nhím gai], "con nhím").
+entry(hedger, n, [hedgers], "một người rào chắn").
+entry(hedgerow, n, [hedgerows], "một hàng bụi cây").
+entry(hedging, present, [], "phân từ của hedge").
+entry(hedgy, adj, [], "HEDGIER HEDGIESTnhiều hàng rào").
+entry(hedonic, adj, [], "liên quan đến niềm vui").
+entry(hedonics, npl, [], "một nhánh của tâm lý học").
+entry(chủ_nghĩa_khoái_lạc, n, [các_chủ_nghĩa_khoái_lạc], "sự theo đuổi niềm vui").
+entry(người hưởng lạc, n, [những người hưởng lạc], "người theo chủ nghĩa hưởng lạc").
+entry(lưu_ý, v, [đã_lưu_ý,đang_lưu_ý,lưu_ý], "chú ý").
+entry(heeder, n, [heeders], "người lắng nghe").
+entry(cẩn thận, adj, [], "chú ý kỹ lưỡng").
+entry(heedless, adj, [], "không để ý hoặc không chú ý chút nào").
+entry(heehaw, v, [heehawed,heehawing,heehaws], "cười hô hố").
+entry(gót, v, [đã_gót,đang_gót,gót], "để cung cấp phần gót nâng cao của một đôi giày").
+entry(heelball, n, [heelballs], "một loại hợp chất được sử dụng để đánh bóng").
+entry(người_thợ_đóng_gót, n, [người_thợ_đóng_gót], "người gắn gót giày").
+entry(heeling, n, [heelings], "hành động nghiêng ngang").
+entry(heelless, adj, [], "thiếu gót").
+entry(heelpost, n, [heelposts], "một cột được gắn vào cuối của một cái gì đó").
+entry(heeltap, n, [miếng_gót], "vật liệu đặt ở gót của đôi giày").
+entry(heeze, v, [heezed,heezing,heezes], "kéo lên").
+entry(nâng, v, [nâng lên, nâng lên, nâng], "để nâng lên").
+entry(hefter, n, [hefters], "một người nâng").
+entry(hefty, adj, [], "HEFTIER HEFTIESheavyHEFTILY adv").
+entry(hegari, n, [hegaris], "một loại ngũ cốc").
+entry(hegemon, n, [hegemons], "một quốc gia chính trị có quyền bá chủ").
+entry(bá quyền, n, [bá quyền], "quyền lực lớn").
+entry(hijra, n, [hijras], "một cuộc di cư").
+entry(hegumen, n, [hegumens], "người đứng đầu của một tu viện").
+entry(trụ trì, n, [trụ trì], "người đứng đầu tu viện nữ").
+entry(hegumeny, n, [hegumenies], "chức vụ của một trụ trì").
+entry(heh, n, [hehs], "một chữ cái Hebrew").
+entry(bê cái, n, [bê cái], "một con bò cái con").
+entry(heigh, thán từ, [], "dùng để thu hút sự chú ý").
+đầu_vào(chiều_cao, n, [các_chiều_cao], "điểm cao nhất").
+entry(heighten, v, [heightened,heightening,heightens], "nâng cao").
+mục(chiều_cao, n, [chiều_caos], "chiều cao").
+entry(heil, v, [heiled,heiling,heils], "chào mừng").
+entry(heimish, adj, [], "haimish").
+entry(heinie, n, [heinies], "mông").
+entry(tàn ác, adj, [], "rất độc ác").
+entry(kế_thừa, v, [đã_kế_thừa,đang_kế_thừa,kế_thừa], "thừa kế").
+entry(heirdom, n, [heirdoms], "kế thừa").
+entry(heiress, n, [heiresses], "một người thừa kế nữ").
+entry(heirless, adj, [], "không có người thừa kế").
+entry(heirloom, n, [heirlooms], "một vật sở hữu được thừa kế").
+entry(thừa_kế, n, [thừa_kế], "quyền thừa kế").
+entry(heishi, npl, [], "hạt nhỏ làm từ vỏ sò").
+entry(vụ cướp, v, [cướp phết,cướp phết,cướp], "đánh cắp").
+entry(heister, n, [kẻ_cướp], "một người thực hiện vụ cướp").
+entry(hejira, n, [hejiras], "hijra").
+entry(hecta, n, [hecta], "hecta").
+entry(nắm giữ, quá khứ, [], "thì của hold").
+entry(helenium, n, [heleniums], "một loại cây có hoa giống như hoa cúc").
+entry(heliac, adj, [], "thuộc mặt trời").
+entry(heliacal, adj, [], "thuộc về mặt trời").
+entry(heliast, n, [heliasts], "một thẩm phán Athens").
+entry(helical, adj, [], "có hình dạng như hình xoắn ốc").
+entry(helices, a, [], "số nhiều của helix").
+entry(helicity, n, [helicities], "một thành phần của spin hạt").
+entry(helicoid, n, [helicoids], "một loại bề mặt hình học").
+entry(helicon, n, [helicons], "một chiếc tuba bass lớn").
+entry(trực_thăng, v, [trực_thăng_đã,đang_trực_thăng,trực_thăngs], "đi bằng trực thăng").
+entry(helilift, v, [helilifted,helilifting,helilifts], "chở bằng máy bay trực thăng").
+entry(helio, n, [helios], "một chiếc gương tín hiệu").
+entry(helipad, n, [bãi đỗ trực thăng], "một sân bay trực thăng").
+entry(bãi đáp cho trực thăng, n, [bãi đáp cho trực thăng], "một sân bay dành cho trực thăng").
+entry(heliski, v, [trượt_heliski, trượt_heliskiing, trượt_heliskis], "trượt xuống núi bằng ván trượt từ trực thăng").
+entry(helistop, n, [bãi đáp trực thăng], "một bãi đáp trực thăng").
+entry(helitack, n, [helitacks], "việc sử dụng máy bay trực thăng để chữa cháy rừng").
+entry(heli, n, [helium], "một nguyên tố khí").
+entry(helix, n, [xoắn ốc], "hoặc HELICESmột thứ gì đó có hình xoắn").
+entry(địa_ngục, v, [đã_địa_ngục,đang_địa_ngục,các_địa_ngục], "cư xử náo nhiệt").
+entry(hellbent, adj, [], "kiên quyết một cách bướng bỉnh").
+mục(hellbox, n, [hellboxes], "một hộp đựng của thợ in").
+entry(hellcat, n, [hellcats], "một người đàn bà đanh đá").
+entry(heller, n, [hellers], "một người ngang bướng").
+entry(helleri, n, [helleris], "hoặc HELLERIE một loại cá nhiệt đới").
+entry(hellery, n, [helleries], "trò chơi thô bạo").
+entry(hellfire, n, [hellfires], "sự hành hạ của địa ngục, một nơi đau khổ lớn").
+entry(hellhole, n, [hellholes], "một nơi kinh khủng").
+entry(hellion, n, [những kẻ gây rối], "một người gây rối").
+entry(địa ngục, adj, [], "khủng khiếp").
+entry(hellkite, n, [hellkites], "một người tàn nhẫn").
+entry(hello, v, [helloed,helloing,hellos], "hoặc HELLOESto chào hỏi").
+entry(helluva, adj, [], "không đồng ý").
+entry(hellward, adv, [], "về phía địa ngục, một nơi của sự đau đớn lớn lao").
+entry(helm, v, [helmed, helming, helms], "để điều khiển một con tàu").
+mục(lưỡi_trai, v, [đội_mũ_bảo_hiểm,đang_đội_mũ_bảo_hiểm,các_mũ_bảo_hiểm], "cung cấp mũ bảo hiểm, một lớp bảo vệ cho đầu").
+entry(helminth, n, [giun], "một con giun").
+entry(helmless, adj, [], "thiếu tay lái hệ thống lái").
+entry(helmsman, n, [helmsmen], "người lái tàu").
+entry(helo, n, [helos], "một chiếc trực thăng").
+entry(helot, n, [helots], "một người nô lệ hoặc nông nô").
+entry(helotage, n, [helotages], "chế độ nô lệ").
+entry(chế độ nô lệ, n, [chế độ nô lệ], "tình trạng nô lệ hoặc tá điền").
+entry(helotry, n, [helotries], "chế độ nô lệ").
+entry(help, v, [holpen,helping,helps], "để hỗ trợHELPABLE adj").
+mục(helpdesk, n, [helpdesks], "một dịch vụ giúp khách hàng giải quyết vấn đề").
+entry(helper, n, [những_người_giúp_đỡ], "một người giúp đỡ").
+entry(helpful, adj, [], "là dịch vụ hoặc hỗ trợ").
+entry(helping, n, [helpings], "một phần thức ăn").
+entry(helpless, adj, [], "không có khả năng tự vệ").
+entry(đường_dây_nóng, n, [các_đường_dây_nóng], "dịch vụ điện thoại cung cấp lời khuyên").
+entry(bạn đồng hành hữu ích, n, [bạn đồng hành hữu ích], "một người bạn đồng hành hữu ích").
+entry(helpmeet, n, [helpmeets], "một bạn đời").
+entry(helve, v, [helved, helving, halves], "cung cấp một cái cán").
+entry(hem, v, [hemmed,hemming,hems], "cung cấp một cạnh").
+entry(hemagog, n, [hemagogs], "một tác nhân thúc đẩy lưu thông máu").
+entry(hemal, adj, [], "liên quan đến máu").
+entry(hematal, adj, [], "thuộc về máu").
+entry(hematein, n, [hemateins], "một hợp chất hóa học").
+entry(hematic, n, [hematics], "một loại thuốc chữa bệnh về máu").
+entry(hematin, n, [hematins], "heme").
+entry(hematine, n, [hematines], "hematin").
+entry(hematit, n, [hematit], "một loại quặng sắt").
+entry(hematoid, adj, [], "giống máu").
+entry(hematoma, n, [hematomas], "hoặc HEMATOMATAmột chỗ sưng đầy máu").
+entry(heme, n, [hemes], "một thành phần của hemoglobin").
+entry(hemic, adj, [], "thuộc về máu").
+entry(hemin, n, [hemins], "một loại clo của heme").
+entry(hemiola, n, [hemiolas], "một sự thay đổi nhịp điệu trong âm nhạc").
+entry(hemiolia, n, [hemiolias], "hemiola").
+entry(mọt, n, [bọ_mọt], "một loại côn trùng").
+entry(đường viền, n, [đường viền], "cạnh dưới cùng của một bộ quần áo").
+entry(hemlock, n, [cây độc cần nước], "một loại thảo dược có độc").
+entry(hemmed, past, [], "thì quá khứ của hem").
+entry(hemmer, n, [hemmers], "một người viền").
+entry(hemming, present, [], "phân từ của hem").
+entry(hemocoel, n, [hemocoels], "một khoang cơ thể").
+entry(hemocyte, n, [hemocytes], "một tế bào máu").
+entry(hemoid, adj, [], "thuộc máu").
+entry(hemolyze, v, [hemolyzed,hemolyzing,hemolyzes], "phá hủy tế bào hồng cầu").
+entry(hemostat, n, [hemostats], "một dụng cụ để giảm chảy máu").
+entry(hemp, n, [hemps], "một loại thảo mộc cao").
+entry(hempen, adj, [], "làm từ cây gai dầu").
+entry(hempie, adj, [], "HEMPIER HEMPIESThempy").

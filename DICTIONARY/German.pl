@@ -24367,3 +24367,2606 @@ entry(solidarisch, adj, [], "vereint").
 entry(solidi, pl, [], "des Solidus").
 entry(verfestigen, v, [verfestigt,verfestigend,verfestigt], "zu verfestigen").
 entry(solidity, n, [solidities], "die Qualität oder der Zustand, fest zu sein").
+Eintrag(soliquid, n, [soliquids], "ein flüssiges kolloidales System").
+entry(einsiedler, n, [einsiedler], "eine Person, die allein lebt").
+entry(soliton, n, [Solitonen], "eine einsame Welle in der Physik").
+entry(einsamkeit, n, [einsamkeiten], "der Zustand, allein zu sein").
+entry(solleret, n, [sollerets], "ein Eisenschuh").
+Eintrag(solo, n, [solos], "oder SOLIeine musikalische Komposition für eine einzelne Stimme oder ein Instrument").
+Eintrag(solo, v, [soloed,soloing,solos], "oder SOLOesto alleine auftreten").
+entry(solist, n, [solisten], "jemand, der ein Solo aufführt").
+Eintrag(solon, n, [solons], "ein weiser Gesetzgeber").
+entry(solonets, n, [solonetses], "Solonetz").
+entry(solonetz, n, [solonetzes], "eine Art von Boden").
+entry(sonnenwende, n, [sonnenwenden], "die Zeit des Jahres, in der die Sonne ihre größte Entfernung vom himmlischen Äquator erreicht").
+entry(löslich, n, [lösliches], "etwas, das löslich ist und aufgelöst werden kann").
+entry(löslich, adv, [], "auf lösliche Weise").
+entry(solum, n, [solums], "oder SOLAa Bodenschicht").
+entry(solunar, adj, [], "Auflistung der Auf- und Untergangszeiten von Sonne und Mond").
+entry(solus, adj, [], "allein").
+Eintrag(lösungsmittel, n, [lösungsmittel], "eine gelöste Substanz").
+entry(loesung, n, [lösungen], "eine homogene flüssige Mischung").
+entry(auflösbar, adj, [], "lösbar").
+entry(solvate, v, [solvated,solvating,solvates], "in eine Art von Ion umzuwandeln").
+entry(loesen, v, [geloest,loesend,loest], "um die Antwort oder Erklaerung zu finden").
+entry(solvenz, n, [solvenzen], "die Fähigkeit, alle Schulden zu bezahlen").
+entry(Lösungsmittel, n, [Lösungsmittel], "eine Substanz, die in der Lage ist, andere zu lösen").
+Eintrag(solver, n, [Solver], "einer, der löst").
+entry(lösen, präsens, [], "Partizip von lösen").
+entry(som, n, [soms], "eine Währungseinheit von Kirgisistan").
+Eintrag(soma, n, [somae], "oder SOMATADer Körper eines OrganismusSOMATISCH adj").
+Eintrag(soman, n, [somans], "ein giftiger chemischer Kampfstoff").
+entry(somber, adj, [], "ERNSTER ERNSTESTERdüsterERNST adv").
+Eintrag(sombre, adj, [], "SOMBRER SOMBRESTsomberSOMBRELY adv").
+Eintrag(sombrero, n, [sombreros], "ein breitkrempiger Hut").
+Eintrag(sombrous, adj, [], "düster").
+Eintrag(some, adj, [], "sein eine unbestimmte Anzahl oder Teil").
+Eintrag(jemand, n, [jemands], "eine wichtige Person").
+entry(irgendwann, adv, [], "zu irgendeiner zukünftigen Zeit").
+entry(somedeal, adv, [], "bis zu einem gewissen Grad").
+entry(irgendwie, adv, [], "durch irgendwelche Mittel").
+entry(jemand, n, [jemandes], "eine Person").
+Eintrag(somerset, v, [somerseted, somerseting, somersets], "oder SOMERSETTED SOMERSETTING SOMERSETum den Körper auf dem Kopf vollständig zu drehen").
+Eintrag(irgendwann, adv, [], "zu einem zukünftigen Zeitpunkt").
+Eintrag(irgendwie, adv, [], "irgendwie").
+entry(someways, adv, [], "irgendeinweg").
+entry(etwas, n, [etwas], "eine unbestimmte Anzahl oder Teil").
+Eintrag(irgendwann, adv, [], "irgendwann").
+entry(somewise, adv, [], "irgendwie").
+Eintrag(somit, n, [somiten], "ein Längssegment des Körpers bei einigen TierenSOMITAL SOMITISCH adj").
+Eintrag(somoni, n, [somonis], "eine Währungseinheit von Tadschikistan").
+Eintrag(sohn, n, [söhne], "ein männliches Kind").
+entry(sonance, n, [sonanzen], "Klang").
+entry(sonant, n, [sonants], "ein Laut, der mit Vibration der Stimmbänder geäußert wirdSONANTAL SONANTISCH adj").
+Eintrag(sonar, n, [sonare], "ein Unterwasserortungsgerät").
+entry(sonarman, n, [Sonarmänner], "eine Person, die Sonarausrüstung bedient").
+entry(sonate, n, [sonaten], "eine Art von musikalischer Komposition").
+entry(sonatina, n, [sonatinas], "oder SONATINEine kurze Sonate").
+entry(sonde, n, [sonden], "ein Gerät zur Beobachtung atmosphärischer Phänomene").
+entry(sonder, n, [sonders], "eine Klasse kleiner Yachten").
+entry(sone, n, [sones], "eine Einheit der Lautstärke").
+Eintrag(lied, n, [lieder], "eine musikalische Komposition, die zum Singen geschrieben oder angepasst wurde").
+entry(amsel, n, [amseln], "ein Vogel, der einen musikalischen Ruf ausstößt").
+entry(liederbuch, n, [liederbücher], "ein Buch mit Liedern").
+Eintrag(songfest, n, [songfestivals], "ein informelles Treffen zum gemeinsamen Singen").
+Eintrag(songvoll, adj, [], "melodisch").
+entry(songless, adj, [], "unfähig zu singen").
+entry(songähnlich, adj, [], "einem Lied ähnelnd").
+Eintrag(songster, n, [songsters], "ein Sänger").
+Eintrag(sohnschaft, n, [sohnschaften], "der Zustand, ein Sohn zu sein").
+entry(sonic, adj, [], "den Klang betreffend").
+entry(sonicate, v, [sonicated,sonicating,sonicates], "mit Schallwellen zu stören").
+entry(sonics, npl, [], "die Wissenschaft, die sich mit den praktischen Anwendungen von Schall befasst").
+Eintrag(sohnlos, adj, [], "keinen Sohn habend").
+entry(sohnähnlich, adj, [], "einem Sohn ähnelnd").
+entry(sonly, adj, [], "einen Sohn betreffend").
+Eintrag(sonett, v, [sonettierte, sonettierend, sonette], "oder SONETTIERTE SONETTIEREND SONETTEin Sonett komponieren eine Art Gedicht").
+entry(sonny, n, [sonnies], "ein kleiner Junge").
+entry(sonoboje, n, [sonobojen], "eine Boje, die Unterwassergeräusche erkennt und überträgt").
+entry(Sonogramm, n, [Sonogramme], "ein durch Ultraschall erzeugtes Bild").
+Eintrag(sonorant, n, [Sonoranten], "eine Art von stimmhaftem Geräusch").
+Eintrag(sonorität, n, [sonoritäten], "die Qualität oder der Zustand, klangvoll zu sein").
+entry(klangvoll, adj, [], "gekennzeichnet durch einen vollen und lauten Klang").
+entry(sonovox, n, [sonovoxe], "ein Klangeffektgerät").
+entry(sohnschaft, n, [sohnschaften], "der Zustand, ein Sohn zu sein").
+entry(sonsie, adj, [], "SONSIER SONSIESTsonsy").
+entry(sonsy, adj, [], "ANMUTIGER ANMUTIGSTE").
+entry(soochong, n, [soochongs], "souchong").
+entry(sooey, interj, [], "verwendet um Schweine zu rufen").
+entry(sook, n, [sooks], "souk").
+Eintrag(bald, adv, [], "BALD BALD*in naher ZukunftBALDISCH adj").
+entry(früher, n, [frühere], "jemand, der sich auf Regierungsland niederlässt, bevor es offiziell zur Besiedlung freigegeben wird").
+entry(ruß, v, [verrußt,rußend,rußt], "mit Ruß bedecken, einer schwarzen Substanz, die bei der Verbrennung entsteht").
+entry(sooth, adj, [], "STILLST STILLSTESTtrue").
+entry(sooth, n, [Wahrheiten], "Wahrheit").
+entry(beschwichtigen, v, [beschwichtigte,beschwichtigend,beschwichtigt], "um in einen ruhigen oder normalen Zustand zurückzukehren").
+entry(soother, n, [Beruhiger], "jemand, der beruhigt").
+entry(wahrlich, adv, [], "in Wahrheit").
+entry(prophezeien, v, [prophezeite, prophezeiend, prophezeit], "vorhersagen").
+entry(sooty, adj, [], "RUßIGER AM RUßIGSTEN mit Ruß bedecktRUßIG adv").
+Eintrag(sop, v, [sopped,sopping,sops], "eintauchen oder einweichen in einer Flüssigkeit").
+entry(soph, n, [sophs], "ein Zweitklässler").
+Eintrag(sophies, pl, [], "von Sophie").
+entry(sophism, n, [Sophismen], "ein plausibles, aber trügerisches Argument").
+entry(sophist, n, [Sophisten], "jemand, der Sophismen verwendet").
+entry(sophy, n, [sophies], "ein Herrscher von Persien").
+Eintrag(sopite, v, [sopited,sopiting,sopites], "in Schlaf versetzen").
+entry(sopor, n, [Schläfrigkeit], "ein abnormal tiefer Schlaf").
+entry(sopped, vergangenheit, [], "Zeitform von sop").
+Eintrag(sopping, adj, [], "sehr nass").
+Eintrag(soppy, adj, [], "WASSERGESÄTTIGTER SEHR WASSERGESÄTTIGT sehr nassWASSERGESÄTTIGT adv").
+Eintrag(sopran, n, [soprane], "oder SOPRANI die höchste Gesangsstimme").
+Eintrag(sora, n, [soras], "ein Sumpfvogel").
+Eintrag(sorb, v, [sorbiert, sorbierend, sorbiert], "aufnehmen und durch Absorption oder Adsorption halten; SORBABEL adj").
+Eintrag(sorbat, n, [sorbate], "eine adsorbierte Substanz").
+entry(sorbens, n, [sorbenzien], "eine Substanz, die sorbiert").
+entry(sorbet, n, [Sorbet], "Sorbet").
+Eintrag(sorbic, adj, [], "bezüglich einer Fruchtart").
+entry(sorbitan, n, [sorbitane], "eine chemische Verbindung").
+Eintrag(sorbitol, n, [sorbitole], "eine chemische Verbindung").
+entry(sorbose, n, [Sorbosen], "eine Art Zucker").
+entry(zauberer, n, [zauberer], "jemand, der Zauberei praktiziert").
+entry(zauberei, n, [zaubereien], "angebliche Verwendung von übernatürlichen Kräften").
+entry(sord, n, [sords], "eine Schar Stockenten").
+Eintrag(sordid, adj, [], "filthySORDIDLY adv").
+entry(sordine, n, [sordines], "ein Gerät, das verwendet wird, um den Klang eines Musikinstruments zu dämpfen").
+Eintrag(sordino, n, [sordini], "sordine").
+Eintrag(sordor, n, [sordors], "ein schäbiger Zustand").
+entry(wund, v, [wundete, wunden, wundet], "die Füße eines Pferdes so zu verstümmeln, dass ein bestimmter Gang erzwungen wird").
+Eintrag(sore, adj, [], "SORER SORESTschmerzhaft empfindlich bei Berührung").
+entry(beleidigte_leberwurst, n, [beleidigte_leberwürste], "eine Person, die leicht verärgert oder beleidigt ist").
+Eintrag(sorel, n, [sorels], "Sauerampfer").
+entry(sorely, adv, [], "auf schmerzhafte Weise").
+Eintrag(schmerzhaftigkeit, n, [schmerzhaftigkeiten], "die Eigenschaft oder der Zustand, wund zu sein").
+entry(sorer, komparativ, [], "von schmerzhaft").
+Eintrag(sorest, Superlativ, [], "von schmerzhaft").
+entry(sorgho, n, [sorghos], "Sorghum").
+Eintrag(sorghum, n, [sorghums], "ein Getreidegras").
+entry(sorgo, n, [sorgos], "eine Sorte von Sorghum").
+Eintrag(sori, pl, [], "von Sorus").
+entry(soricine, adj, [], "zur Familie der Spitzmäuse gehörend").
+entry(soring, n, [sorings], "die Praxis, die Vorderfüße eines Pferdes wund zu machen, um hohe Schritte zu erzwingen").
+Eintrag(sorites, n, [sorites], "eine Art von Argument, das in der Logik verwendet wirdSORITIC adj").
+Eintrag(sorn, v, [gesornt,beisornend,sornt], "sich anderen aufzuzwingen, um Essen und Unterkunft zu erhalten").
+entry(sorner, n, [schmarotzer], "einer, der schmarotzt").
+Eintrag(soroche, n, [soroches], "Höhenkrankheit").
+entry(sororal, adj, [], "schwesterlich").
+Eintrag(sororat, n, [sororate], "die Heirat eines Mannes in der Regel mit der Schwester seiner verstorbenen Frau").
+entry(schwesternschaft, n, [schwesternschaften], "ein sozialer Club für Frauen").
+entry(sorosis, n, [sorosises], "oder SOROSES-ein Frauenclub oder eine Gesellschaft").
+entry(sorption, n, [Sorptions], "der Akt oder Prozess des SorbierensSORPTIV adj").
+Eintrag(Sauerampfer, n, [Sauerampfer], "eine rötlich braune Farbe").
+Eintrag(trauernder, Komparativ, [], "von traurig").
+Eintrag(sorriest, Superlativ, [], "von sorry").
+Eintrag(sorrily, adv, [], "auf eine bedauerliche Weise").
+entry(trauer, v, [trauerte, trauernd, trauert], "trauern").
+Eintrag(trauernder, n, [trauernde], "einer, der trauert").
+Eintrag(sorry, adj, [], "SORRIER SORRIESTBedauern oder Reue empfinden").
+Eintrag(sortieren, v, [sortiert,sortieren,sortiert], "nach Art, Klasse oder Größe anordnen SORTIERBAR adjSORTIERBAR adv").
+entry(sortal, n, [Sortale], "ein Begriff, der ein Wesen als einer bestimmten Art zugehörig klassifiziert").
+Eintrag(sorter, n, [Sortierer], "einer, der sortiert").
+Eintrag(sortes, npl, [], "Wahrsagerei durch zufällige Auswahl einer Passage in einem autoritativen Text").
+entry(ausfall, v, [ausgefallen, ausfallend, ausfälle], "plötzlich aus einer Verteidigungsposition angreifen").
+Eintrag(sortierung, n, [sortierungen], "das Trennen von Gegenständen in Gruppen").
+entry(sorus, n, [sori], "eine Ansammlung von pflanzlichen Fortpflanzungskörpern").
+entry(sot, n, [Säufer], "ein Gewohnheitstrinker").
+entry(soth, n, [soths], "Wahrheit").
+entry(sotol, n, [sotols], "eine Blütenpflanze").
+Eintrag(sotted, adj, [], "besottedSOTTEDLY adv").
+entry(sottish, adj, [], "einem Trunkenbold ähnelnd").
+Eintrag(sou, n, [sous], "eine früher verwendete französische Münze").
+Eintrag(souari, n, [souaris], "ein tropischer Baum").
+Eintrag(soubise, n, [soubises], "eine Soße aus Zwiebeln und Butter").
+entry(soucar, n, [soucars], "ein Hindu-Banker").
+entry(souchong, n, [souchongs], "ein chinesischer Tee").
+Eintrag(soudan, n, [soudans], "soldan").
+entry(soufflé, n, [soufflés], "ein leichtes gebackenes Gericht").
+Eintrag(souffled, adj, [], "durch Schlagen und Backen aufgeblasen gemacht").
+entry(sough, v, [soughed,soughing,soughs], "ein stöhnendes oder seufzendes Geräusch machen").
+entry(gesucht, vergangenheit, [], "Zeitform von suchen").
+entry(souk, n, [suks], "ein Marktplatz in Nordafrika und dem Nahen Osten").
+entry(soukous, n, [soukouses], "ein Tanzmusik in der Demokratischen Republik Kongo").
+Eintrag(seele, n, [seelen], "der spirituelle Aspekt der menschlichen WesenSEELE BESEELET SEELOS SEELELIKE adj").
+entry(soulful, adj, [], "voller Emotionen").
+Eintrag(seelenverwandter, n, [seelenverwandte], "eine Person, mit der man perfekt zusammenpasst").
+entry(soulster, n, [soulster], "ein Sänger von Soulmusik").
+entry(sound, adj, [], "GESUNDE GESUNDESTein guter Gesundheitszustand").
+Eintrag(laut, v, [tönte, tönend, töne], "etwas zu erzeugen, das die Hörrezeptoren stimuliert").
+Eintrag(soundbox, n, [Klangkästen], "ein resonanter Hohlraum in einem Musikinstrument").
+entry(sounder, n, [Schallgeber], "einer, der klingt").
+Eintrag(sounding, n, [soundings], "eine Sammlung von Meinungen").
+entry(gesund, adv, [], "auf gesunde Weise").
+Eintrag(soundman, n, [soundmen], "eine Person, die die Qualität des aufgenommenen Tons kontrolliert").
+Eintrag(suppe, v, [gesuppt, suppend, suppen], "die Leistung oder Effizienz erhöhen").
+Eintrag(soupcon, n, [soupcons], "eine winzige Menge").
+entry(soupless, adj, [], "keine Suppe ein flüssiges Nahrungsmittel oft mit festen Zutaten habend").
+entry(suppenähnlich, adj, [], "der Suppe ähnelnd").
+entry(soupy, adj, [], "SUPPIGER SUPPIGSTEnebligSUPPIG adv").
+entry(sauer, adj, [], "SAURER SAUERSTscharf oder beißend im Geschmack").
+Eintrag(sauer, v, [sauerte, sauernd, sauert], "sauer machen oder werden").
+entry(sauerball, n, [sauerbälle], "ein saurer Bonbon").
+entry(quelle, v, [quellte, quellend, quellen], "von einem Ursprungspunkt beziehen").
+entry(beschaffung, n, [beschaffungen], "der Akt, etwas von einem Ursprungspunkt zu beziehen").
+entry(dämpfer, n, [dämpfer], "sordine").
+entry(sourgum, n, [sourgums], "ein Weichholzbaum im Osten Nordamerikas").
+entry(säuerlich, adj, [], "etwas sauer").
+entry(sauer, adv, [], "auf saure Weise").
+Eintrag(säure, n, [säuren], "die Eigenschaft oder der Zustand, sauer zu sein").
+entry(miesepeter, n, [miesepeter], "eine mürrische Person").
+Eintrag(Guanábana, n, [Guanábanas], "ein tropischer Baum").
+Eintrag(sauerholz, n, [sauerhölzer], "ein blühender Baum").
+entry(souse, v, [eingelegt, einlegemd, einlegt], "etwas in eine Flüssigkeit tauchen").
+entry(souser, n, [sousers], "ein Trunkenbold").
+entry(ziesel, n, [ziesel], "suslik").
+Eintrag(soutache, n, [soutaches], "ein flaches schmales Geflecht").
+entry(soutane, n, [Soutanen], "eine Soutane").
+Eintrag(souter, n, [souters], "ein Schuhmacher").
+entry(süden, v, [südete, süden, südet], "sich nach Süden bewegen, einem Hauptpunkt des Kompasses").
+entry(souther, n, [southers], "ein Wind oder Sturm aus dem Süden").
+entry(südlich, n, [südliche], "eine Person, die im Süden lebt").
+Eintrag(southing, n, [südliche Bewegungen], "Bewegung nach Süden").
+entry(südpfoşt, n, [südpfoşte], "eine linkshändige Person").
+Eintrag(südlicher, n, [südländer], "ein südlicher").
+Eintrag(souvenir, n, [souvenirs], "ein Andenken").
+Eintrag(souvlaki, n, [souvlakis], "ein griechischer Schaschlik").
+Eintrag(soviet, n, [soviets], "ein gesetzgebendes Organ in einem kommunistischen Land").
+entry(sowchos, n, [sowchosen], "oder SOWCHOSein staatlicher Bauernhof in der ehemaligen Sowjetunion").
+Eintrag(sovran, n, [sovrans], "ein Monarch").
+entry(sovranly, adv, [], "erhaben").
+Eintrag(souveränität, n, [souveränitäten], "eine Monarchie").
+entry(säen, v, [säte, gesät, säend], "SÄENUm über das Land zur Wachstumsförderung als Samen zu verstreuenSÄBAR adj").
+entry(sowans, n, [sowans], "Sowens").
+entry(sowar, n, [sowars], "ein berittener einheimischer Soldat in Indien").
+entry(sowback, n, [sowbacks], "ein niedriger Sandrücken").
+entry(speck, n, [spekke], "in Salz gepökeltes Schweinefleisch").
+Eintrag(alpenveilchen, n, [alpenveilchen], "eine blühende Pflanze").
+entry(kugelassel, n, [kugelasseln], "eine Assel").
+Eintrag(sowcar, n, [sowcars], "soucar").
+entry(sowens, n, [sowens], "aus Haferhülsen hergestellter Brei").
+entry(sower, n, [sowers], "jemand, der sät").
+entry(säen, n, [Aussäen], "der Akt des Aussäens von Samen").
+eintrag(gesät, vergangenheit, [], "partizip von säen").
+Eintrag(sox, a, [], "Pl von Socke").
+entry(soja, n, [sojas], "die Sojabohne").
+entry(soja, n, [sojas], "Soja").
+entry(sojabohne, n, [sojabohnen], "der Samen eines kultivierten asiatischen Krauts").
+entry(sojamehl, n, [sojamehle], "der Rückstand aus der Extraktion von Öl aus Sojabohnensamen").
+entry(sojamilch, n, [sojamilchs], "ein Milchersatz aus Sojabohnen").
+entry(sojus, n, [sojusse], "ein bemanntes Raumfahrzeug der ehemaligen Sowjetunion").
+entry(sozin, n, [sozins], "eine Art von Eiweiß").
+entry(sozine, n, [sozin], "sozin").
+entry(sozzled, adj, [], "betrunken").
+entry(spa, n, [bäder], "eine Mineralquelle").
+Eintrag(Raum, v, [abgegrenzt,Abstand,Abstände], "um einige Entfernung auseinanderzusetzen").
+entry(spacelab, n, [spacelabs], "ein Raumfahrzeug mit einem Labor ausgestattet").
+entry(raumfahrer, n, [raumfahrer], "ein Astronaut").
+Eintrag(spacer, n, [Abstandshalter], "einer, der Abstand hält").
+entry(spacey, adj, [], "SPACIER SPACIESTseltsam im Verhalten").
+entry(spacial, adj, [], "räumlich").
+Eintrag(Abstand, n, [Abstände], "der Abstand zwischen zwei Objekten").
+entry(geräumig, adj, [], "weitläufig oder reichlich in Ausdehnung").
+entry(spackle, v, [spackled,spackling,spackles], "Risse oder Löcher in einer Oberfläche mit Paste füllen").
+entry(spacy, adj, [], "SPACIER SPACIESTspacy").
+entry(spaten, v, [spatete,spaten,spatet], "mit einem Spaten ein Grabwerkzeug aufnehmen").
+entry(spatenvoll, n, [spatenvolle], "so viel wie eine Schaufel fassen kann").
+entry(spader, n, [spader], "einer, der umgräbt").
+entry(spadices, pl, [], "von Kolben").
+Eintrag(spadille, n, [spadilles], "die höchste Trumpfkarte in bestimmten Kartenspielen").
+Eintrag(spading, präsens, [], "Partizip von spade").
+Eintrag(spadix, n, [spadixe], "oder SPADICESa Blütenstand").
+entry(spado, n, [spadones], "ein kastrierter Mann oder Tier").
+eintrag(spae, v, [spaete, spaend, spaet], "vorhersagen").
+entry(spaeing, n, [spaeings], "die Handlung des Vorhersagens").
+Eintrag(spätzle, n, [spätzles], "ein kleiner Kloß").
+entry(spagyrisch, n, [Alchemisten], "eine Person, die in der Alchemie erfahren ist").
+entry(spahee, n, [spahees], "Spahi").
+entry(spahi, n, [spahis], "ein türkischer Kavallerist").
+Eintrag(spail, n, [spails], "spale").
+entry(spait, n, [spaits], "Verspätung").
+entry(spake, a, [], "Vergangenheit von 'sprechen'").
+entry(spaldeen, n, [spaldeens], "ein kleiner hohler Gummiball").
+entry(spale, n, [spales], "ein Splitter oder Span").
+Eintrag(spall, v, [gespallt, spallend, spallt], "in Fragmente zerbrechen").
+Eintrag(spaller, n, [spallers], "einer, der abplatzt").
+entry(absplitterung, n, [absplitterungen], "ein Splitter von Stein oder Erz").
+entry(spalpeen, n, [spalpeens], "ein Schlingel").
+entry(spalted, adj, [], "holz bezeichnend, das unregelmäßige Linien infolge von Pilzverfall aufweist").
+Eintrag(spam, v, [spammed,spamming,spams], "unerwünschte E-Mails an eine große Anzahl von Adressen senden").
+entry(spambot, n, [spamroboter], "ein Computerprogramm, das unaufgeforderte E-Mails versendet").
+entry(spammer, n, [Spammer], "einer, der spammt").
+Eintrag(spamming, n, [spammings], "die Praxis des Versendens unerwünschter E-Mails").
+entry(span, v, [gespannt,spannend,spannt], "sich über oder quer erstrecken").
+Eintrag(spancel, v, [spanceled,spanceling,spancels], "oder SPANCELLED SPANCELLING SPANCELZum mit einem Seil binden oder fesseln").
+Eintrag(spandex, n, [spandexes], "eine synthetische elastische FaserSPANDEXED adj").
+entry(spandrel, n, [Spandrillen], "ein Raum zwischen zwei angrenzenden Bögen").
+entry(spandril, n, [spandrils], "Spandrille").
+entry(spang, adv, [], "direkt").
+entry(spangle, v, [spangled,spangling,spangles], "mit Glitzerstücken aus funkelndem Metall schmücken").
+Eintrag(funkelnd, adj, [], "FUNKELNDER AM FUNKELNDSTEN mit Pailletten bedeckt").
+Eintrag(spaniel, n, [spaniels], "ein Hund mit seidigem Fell").
+Eintrag(spank, v, [spanked, spanking, spanks], "auf die Gesäßbacken schlagen").
+Eintrag(spanker, n, [spankers], "jemand, der versohlt").
+Eintrag(spanking, n, [spankings], "der Akt eines, der versohlt").
+entry(spanless, adj, [], "keine Ausdehnung habend").
+entry(umfasste, vergangenheit, [], "Zeitform von spannen").
+entry(spanner, n, [Schraubenschlüssel], "einer, der überspannt").
+entry(spanning, präsent, [], "Partizip von spannen").
+entry(spanworm, n, [Spanwürmer], "ein Spannwurm").
+entry(spar, v, [sparten, sparring, sparts], "mit Spieren (robusten Stangen, die zur Unterstützung von Takelagen verwendet werden) versehen").
+entry(sparable, n, [sparables], "eine Art von Nagel").
+entry(spare, adj, [], "SPARER SPARESTdürftigSPÄRLICH adv").
+Eintrag(verschonen, v, [verschonte,verschonend,verschont], "unterlassen zu bestrafen zu schaden oder zu zerstören").
+entry(sparer, n, [Sparer], "jemand, der spart").
+entry(sparerib, n, [spareribs], "ein Schnitt aus Schweinefleisch").
+Eintrag(sparge, v, [sparged,sparging,sparges], "besprengen").
+entry(sparger, n, [Sparger], "eines, das sprüht").
+Eintrag(sparid, n, [Spariden], "eine Familie von Meeresfischen").
+Eintrag(sparing, präsent, [], "Partizip von spare").
+entry(spark, v, [funkte,funken,funkts], "kleine feurige Teilchen erzeugen").
+Eintrag(sparker, n, [sprüher], "etwas, das Funken erzeugt").
+Eintrag(funkelnder, komparativ, [], "von sprühend").
+Eintrag(sparkiest, Superlativ, [], "von sparky").
+Eintrag(sparkily, adv, [], "auf lebhafte Weise").
+entry(sparkish, adj, [], "lebhaft").
+entry(funkeln, v, [funkelte,funkelnd,funkelt], "Lichtblitze abgeben oder reflektieren").
+entry(funkenregen, n, [funkenregen], "etwas, das funkelt").
+Eintrag(fünkchen, n, [fünkchen], "ein kleiner Funke").
+Eintrag(funkelnd, adj, [], "FUNKELNDER FUNKELNDSTE zum Funkeln neigend").
+Eintrag(sparky, adj, [], "SPARKIER SPARKIESTlively").
+entry(sparlike, adj, [], "einem Pfahl ähnelnd").
+entry(sparling, n, [sparlinge], "ein junger Hering").
+entry(sparoid, n, [Spariden], "ein Sparide").
+entry(gestritten, vergangenheit, [], "zeitform von streiten").
+entry(sparring, präsens, [], "Partizip von sparren").
+entry(spatz, n, [spatzen], "ein kleiner Vogel").
+entry(sparry, adj, [], "SPARRIER SPARRIESTähnelnd einem Glimmermineral").
+entry(sparse, adj, [], "SELTEN VERSTREUTSELTENSTE dünn verteiltSELTEN adv").
+Eintrag(spärlichkeit, n, [spärlichkeiten], "die Eigenschaft oder der Zustand, spärlich zu sein").
+entry(spartan, adj, [], "Luxus und Komfort vermeidend").
+entry(spartina, n, [spartinas], "ein Salzmarshgras von Küstenregionen").
+entry(krampf, v, [krampfte,krampfend,krämpfe], "einer unwillkürlichen Muskelkontraktion unterliegen").
+entry(spastisch, n, [Spastiker], "eine Person, die unter einer Lähmung mit Muskelkrämpfen leidet").
+entry(spat, v, [spatted, spattend, spats], "leicht schlagen").
+entry(hochwasser, n, [hochwasser], "ein Hochwasser").
+entry(spathe, n, [spathes], "ein blattartiges Organ bestimmter PflanzenSPATHAL SPATHED SPATHOSE adj").
+entry(spathic, adj, [], "sparrig").
+entry(raumlich, adj, [], "den Raum betreffend oder dazu gehörend").
+entry(spatted, vergangenheit, [], "Zeitform von 'spat'").
+entry(spritzer, v, [spritzte, spritzend, spritzt], "in Tropfen zerstreuen").
+entry(spatting, präsens, [], "Partizip von spat").
+Eintrag(spatula, n, [spatulas], "ein RührwerkzeugSPATULAR adj").
+entry(spätzle, n, [spätzles], "Spätzle").
+entry(spavie, n, [spavies], "spatSPAVIET adj").
+entry(spavin, n, [spavins], "eine Krankheit bei PferdenSPAVINED adj").
+entry(spawn, v, [gespawnt, ablaichend, laicht], "Eier ablegen").
+Eintrag(spawner, n, [spawners], "einer, der spawnt").
+Eintrag(kastrieren, v, [kastriert, kastrierend, kastriert], "die Eierstöcke entfernen").
+Eintrag(sprechen, v, [sprach, gesprochen, sprechend], "SPRECHENzum Aussprechen von Worten").
+entry(Sprecher, n, [Sprecher], "jemand, der spricht").
+Eintrag(speaking, n, [speakings], "eine Rede oder Ansprache").
+entry(spean, v, [speaned,speaning,speans], "entwöhnen").
+Eintrag(„Lanze“, v, [durchbohrte, durchbohren, durchbohrt], „mit einer Lanze, einer langen spitzen Waffe, durchbohren“).
+entry(speerer, n, [speerer], "jemand, der spießt").
+Eintrag(harpune, n, [harpunen], "eine Waffe, die einen Speer schießt").
+entry(spearing, n, [Spießens], "der Akt, mit einem Speer zu durchbohren").
+entry(speerkämpfer, n, [speerkämpfer], "eine Person, die mit einem Speer bewaffnet ist").
+entry(spec, v, [spezifiziert,spezifizierend,spezifiziert], "spezifikationen schreiben").
+Eintrag(speziell, adj, [], "BESONDERER BESONDERESTVon einer besonderen Art oder Charakter").
+entry(spezial, n, [spezialitäten], "eine besondere Person oder Sache").
+Eintrag(spezialisieren, v, [spezialisiert,spezialisierend,spezialisiert], "einen evolutionären Prozess durchlaufen").
+entry(specie, n, [Spezies], "geprägtes Geld").
+Eintrag(spezifisch, n, [Spezifika], "ein Heilmittel, das für eine bestimmte Krankheit bestimmt ist").
+Eintrag(spezifizieren, v, [spezifiziert, spezifizierend, spezifiziert], "im Detail angeben").
+Eintrag(Exemplar, n, [Exemplare], "ein Teil oder individuelles repräsentatives Mitglied einer Gruppe oder eines Ganzen").
+entry(scheinbar, adj, [], "einen falschen Anschein von Wahrheit oder Echtheit habend").
+Eintrag(speck, v, [gefleckt, fleckend, fleckt], "mit kleinen Flecken markieren").
+Eintrag(sprenkeln, v, [gesprenkelt, sprenkelnd, Sprenkel], "besprenkeln").
+Eintrag(specky, adj, [], "mit kleinen Flecken markiert SPECKIER SPECKIEST").
+entry(beobachten, v, [beobachtete,beobachtend,beobachtet], "teilnehmen und zuschauen").
+Eintrag(specter, n, [specters], "ein sichtbarer körperloser Geist").
+Eintrag(spectra, a, [], "Pl. von Spektrum").
+entry(spectral, adj, [], "einem Gespenst ähnlich").
+entry(spectre, n, [spektren], "Spektakel").
+entry(spectrum, n, [Spektren], "oder SPECTRAein Array der Komponenten einer Lichtwelle").
+entry(speculum, n, [speculums], "oder SPECULAein medizinisches InstrumentSPECULAR adj").
+entry(rede, n, [reden], "die Fähigkeit oder der Akt des Sprechens").
+entry(geschwindigkeit, v, [beschleunigt,beschleunigen,geschwindigkeiten], "schnell bewegen").
+Eintrag(raser, n, [raser], "einer, der rast").
+Eintrag(speedier, Komparativ, [], "von schnell").
+eintrag(speediest, superlativ, [], "von schnell").
+entry(geschwind, adv, [], "auf eine schnelle Weise").
+entry(geschwindigkeitsübertretung, n, [geschwindigkeitsübertretungen], "das Fahren schneller als gesetzlich erlaubt").
+entry(speedo, n, [speedos], "ein Tacho").
+entry(beschleunigung, n, [beschleunigungen], "eine Beschleunigung der Produktion ohne Lohnerhöhung").
+entry(speedway, n, [Rennstrecken], "eine Straße, die für schnelles Reisen entworfen wurde").
+entry(speedy, adj, [], "SCHNELLER AM SCHNELLSTENschnell").
+entry(klettern, v, [kletterte,kletternd,klettert], "to climb").
+Eintrag(speer, v, [speerte, speerend, speeren], "anfragen").
+entry(peering, n, [peerings], "Anfrage").
+entry(speil, v, [speiled,speiling,speils], "spielen").
+Eintrag(speir, v, [speired,speiring,speirs], "speeren").
+entry(speise, n, [speises], "Speise").
+entry(speiss, n, [speisses], "eine metallische Mischung, die bei der Verhüttung bestimmter Erze gewonnen wird").
+entry(spelaean, adj, [], "höhlenbewohnend").
+Eintrag(spelean, adj, [], "in Höhlen lebend").
+entry(spell, v, [buchstabiert,buchstabieren,buchstabiert], "die Buchstaben von etwas in der richtigen Reihenfolge benennen oder schreiben").
+entry(speller, n, [Buchstabierer], "einer, der Wörter buchstabiert").
+entry(rechtschreibung, n, [rechtschreibungen], "eine Buchstabenfolge, die ein Wort bildet").
+entry(dinkel, n, [dinkels], "eine Weizensorte").
+entry(spelter, n, [spelters], "Zink in Form von Barren").
+Eintrag(speltz, n, [speltzes], "Dinkel").
+entry(höhlenforschen, v, [höhlenforschte,höhlenforschend,höhlenforscht], "Höhlen erforschen").
+entry(spence, n, [spences], "eine Speisekammer").
+Eintrag(spencer, n, [spencers], "ein dreieckiges Sturmsegel").
+entry(ausgeben, v, [ausgegeben,ausgebend,ausgibt], "auszahlen").
+Eintrag(spender, n, [spenders], "einer, der ausgibt").
+Eintrag(spendy, adj, [], "SPENDIER SPENDIESTteuer").
+entry(spense, n, [spenses], "Spence").
+Eintrag(verbrachte, Vergangenheit, [], "Zeitform von ausgeben").
+entry(Spermium, n, [Spermien], "ein männliches GametSPERMISCH adj").
+Eintrag(spermary, n, [spermaries], "ein Organ, in dem Spermien gebildet werden").
+Eintrag(spermine, n, [Spermin], "eine chemische Verbindung").
+Eintrag(spermous, Adj, [], "ähnlich oder gemacht aus Spermien").
+Eintrag(spew, v, [spewed,spewing,spews], "sich übergeben").
+entry(spewer, n, [Spucker], "einer, der spuckt").
+entry(spaghnum, n, [spaghnien], "ein gräuliches Moos").
+entry(sphen, n, [sphene], "ein Mineral").
+entry(sphenisch, adj, [], "keilförmig").
+entry(keilbein, n, [keilbeine], "ein Knochen des Schädels").
+Eintrag(spheral, adj, [], "bezüglich einer Kugel oder von Kugelform").
+entry(Kugel, v, [kugelte, kugelnd, kugelt], "in eine Kugel, eine Art geometrischer Körper, formen").
+entry(sphärisch, adj, [], "spheral").
+entry(spherics, npl, [], "die Geometrie von Figuren auf der Oberfläche einer Kugel").
+Eintrag(spherier, komparativ, [], "von sphärisch").
+Eintrag(spheriest, Superlativ, [], "von sphery").
+entry(sphering, präsens, [], "Partizip von sphere").
+entry(sphäroid, n, [sphäroide], "eine Art geometrischer Körper").
+Eintrag(spherule, n, [spherules], "eine kleine Kugel").
+Eintrag(sphery, adj, [], "SPHERIER SPHERIESTäusserlich einer Kugel").
+Eintrag(sphinges, a, [], "Pl von Sphinx").
+Eintrag(sphingid, n, [sphingids], "der Schwärmer").
+Eintrag(sphinx, n, [sphinxe], "oder SPHINGEN ein Monster in der ägyptischen Mythologie").
+Eintrag(sphygmus, n, [sphygmuse], "der PulsSPHYGMISCH adj").
+entry(sphynx, n, [sphynxkatzen], "eine Katze einer Rasse haarloser Katzen").
+Eintrag(spica, n, [spicas], "oder SPICAE ein Kornähre SPICAT SPICATED adj").
+entry(spiccato, n, [spiccatos], "eine Methode, ein Streichinstrument zu spielen").
+Eintrag(Gewürz, v, [gewürzt, würzend, Gewürze], "würzen mit einem Gewürz einer aromatischen Gemüsesubstanz").
+entry(spicer, n, [spicers], "jemand, der würzt").
+entry(gewürz, n, [gewürze], "eine würzige Qualität").
+Eintrag(spicey, adj, [], "SPICIER SPICIESTspicy").
+entry(schärfer, komparativ, [], "von scharf").
+Eintrag(schärfste, Superlativ, [], "von scharf").
+entry(scharf, adv, [], "auf scharfe Weise").
+Eintrag(würzen, Präsens, [], "Partizip von spice").
+entry(spicula, n, [spiculae], "StachelSPICULAR adj").
+Eintrag(spicula, n, [spiculae], "eine nadelförmige Struktur").
+entry(spiculum, n, [spicula], "Spicula").
+Eintrag(scharf, adj, [], "SCHÄRFER SCHÄRFSTE, Gewürze enthalten").
+eintrag(spinne, v, [spinnte, spinnend, spinnt], "sich schleichend bewegen").
+Eintrag(spidery, adj, [], "SPINNENHAFTER SPINNENHAFTEST Erinnert an eine Spinne, eine Art Arachnide").
+Eintrag(spionierte, Vergangenheit, [], "Zeitform von spionieren").
+entry(spiegel, n, [Spiegel], "eine Art von Gusseisen").
+entry(spiel, v, [spielte,spielend,spielt], "lange reden").
+entry(spieler, n, [spielers], "einer, der spielt").
+entry(spier, v, [spierte,spierend,spiert], "speeren").
+Eintrag(spioniere, praesens, [], "3. Person Singular von spionieren").
+entry(spiff, v, [spiffte, spiffend, spiffs], "aufhübschen").
+entry(spiffing, adj, [], "schick").
+entry(spiffy, v, [spiffied,spiffying,spiffies], "stilvoll machen").
+Eintrag(spiffy, adj, [], "SPIFFIER SPIFFIESTstylischSPIFFILY adv").
+Eintrag(spigot, n, [spigots], "ein Wasserhahn").
+entry(spike, v, [jedrungen, jedrungen seind, jedrungen worden sind], "mit einem Stachel einem langen dicken Nagel befestigen").
+entry(spikelet, n, [Ährchen], "eine Art von Blütenstand").
+Eintrag(spiker, n, [spikers], "einer, der spiked").
+entry(spikey, adj, [], "STACHELIGER STACHELIGSTstachelig").
+Eintrag(spiking, Präsens, [], "Partizip von spike").
+Eintrag(stachelig, adj, [], "STACHELIGER AM STACHELIGSTENeinem Dorn ähnlichSTACHELIG adv").
+entry(spile, v, [spiled,spiling,spiles], "mit einem Holzpfropfen verstopfen").
+entry(spilikin, n, [spilikins], "ein Holzstreifen, der in einem Spiel verwendet wird").
+Eintrag(spiling, n, [spilings], "a piling").
+entry(spilit, n, [spilite], "eine Form von BasaltSPILITISCH adj").
+entry(spill, v, [verschüttet,verschüttend,verschüttet], "aus einem Behälter laufen lassen").
+entry(verschütten, n, [verschüttungen], "etwas, das verschüttet wird").
+Eintrag(spiller, n, [spillers], "einer, der verschüttet").
+entry(überlauf, n, [überläufe], "ein Kanal für überschüssiges Wasser in einem Stausee").
+entry(spilt, a, [], "Vergangenheitsform von spill").
+Eintrag(spilth, n, [spilths], "Verschüttetes").
+Eintrag(drehen, v, [drehte, drehend, dreht], "zu Fäden ausziehen und verdrehen").
+Eintrag(spinat, n, [spinate], "ein kultiviertes krautSPINATIG adj").
+entry(spinat, n, [spinate], "Spinat").
+entry(spinal, n, [spinals], "eine Injektion eines Anästhetikums in das Rückenmark").
+Eintrag(spinally, adv, [], "in Bezug auf die Wirbelsäule").
+entry(spinate, adj, [], "mit Dornen versehen").
+eintrag(spindel, v, [gespindelt, spindelnd, spindeln], "auf einem schlanken Stab aufspießen").
+entry(spindler, n, [spindlers], "jemand, der spinnt").
+entry(spindly, adj, [], "DÜRRER DÜRRESTlang und schlank").
+entry(Wirbelsäule, n, [Wirbelsäulen], "die WirbelsäuleSTACHEL adj").
+entry(spinel, n, [Spinelle], "ein Mineral").
+entry(spinel, n, [spinelle], "Spinell").
+Eintrag(spinet, n, [spinets], "ein kleines Klavier").
+Eintrag(spinier, Komparativ, [], "von stachelig").
+Eintrag(stacheligste, Superlativ, [], "von stachelig").
+entry(spinifex, n, [spinifexe], "ein australisches Gras").
+entry(spinlos, adj, [], "ohne Rotation").
+Eintrag(spinner, n, [spinners], "einer, der sich dreht").
+entry(spinnerei, n, [spinnereien], "eine Spinnerei").
+entry(spinney, n, [spinneys], "ein Dickicht").
+Eintrag(spinning, n, [spinnings], "der Akt des Spinners").
+entry(spinny, n, [spinnies], "Gehölz").
+Eintrag(spinny, adj, [], "SPINNIER SPINNIESTverrückt töricht").
+Eintrag(spinoff, n, [spinoffs], "eine neue Anwendung oder ein zufälliges Ergebnis").
+Eintrag(spinor, n, [spinoren], "eine Art mathematischer Vektor").
+entry(stachelig, adj, [], "spiny").
+entry(dornig, adj, [], "spiny").
+entry(spinout, n, [Spins], "ein Schleudern eines Automobils").
+Eintrag(unverheirateteFrau, n, [unverheirateteFrauen], "eine unverheiratete Frau, die das übliche Heiratsalter überschritten hat").
+entry(spinto, n, [spintos], "eine Singstimme, die lyrisch und dramatisch ist").
+Eintrag(spinula, n, [spinulae], "Spitze").
+Eintrag(spinula, n, [spinulas], "ein kleiner Dorn").
+Eintrag(stachelig, adj, [], "STACHELIGER STACHELIGSTmit Dornen bedeckt oder bestückt").
+Eintrag(spiracle, n, [spiracles], "eine Öffnung, durch die das Atmen erfolgt").
+entry(spiraea, n, [spiraeas], "Spierstrauch").
+entry(spirale, v, [spiralte, spiralend, spiralen], "oder SPIRALTE SPIRALEND SPIRALENsich wie eine Spirale bewegen eine Art Ebenenkurve").
+Eintrag(spiralförmig, adv, [], "auf spiralförmige Weise").
+entry(spirant, n, [Spiranten], "ein Sprachlaut, der durch das Erzwingen von Atem durch einen engen Passage erzeugt wird").
+Eintrag(spire, v, [spired, spiring, spires], "in spitz zulaufender Weise ansteigen").
+Eintrag(spierstrauch, n, [spiersträucher], "ein blühender Strauch").
+Eintrag(spirem, n, [spirems], "spireme").
+entry(spireme, n, [Spiremen], "ein Filament, das während der Mitose einen Teil des Zellkerns bildet").
+entry(spirier, komparativ, [], "von spiry").
+entry(spiriest, superlative, [], "von spiry").
+Eintrag(spirilla, npl, [], "spiralförmig verdrehte aerobe Bakterien").
+Eintrag(spiring, präsent, [], "Partizip von spire").
+entry(geist, v, [begeistert,begeistern,geister], "heimlich wegtragen").
+entry(spiritus, n, [spiritus], "Geist").
+entry(spiroid, adj, [], "spiralförmig").
+entry(spirt, v, [spirted, spirting, spirts], "spritzen").
+entry(spirula, n, [spirulas], "oder SPIRULAE ein spiralförmig geschaltes Weichtier").
+entry(spiry, adj, [], "HOCH, SCHLANK UND ZUM ENDE HIN SCHMALER WERDEND").
+entry(spieß, v, [gespießt,spießend,spießt], "auf einen Spieß aufspießen ein spitzer Stab, an dem Fleisch gedreht wird").
+entry(spital, n, [spitäler], "ein Krankenhaus").
+Eintrag(spitball, n, [spitballs], "eine Art Wurf im Baseball").
+entry(trotzig, v, [trotzte, trotzend, trotzt], "mit Bosheit behandeln").
+entry(missgünstig, adj, [], "MISSGÜNSTIGER MISSGÜNSTIGSTbösartig").
+Eintrag(spitfire, n, [spitfires], "eine jähzornige Person").
+Eintrag(spuckte, vergangenheit, [], "Zeitform von spucken").
+Eintrag(spitter, n, [spitters], "ein Spuckball").
+Eintrag(spitting, Praesens, [], "Partizip von spit").
+Eintrag(spittle, n, [spittles], "salivaSPITTLY adj").
+Eintrag(spucknapf, n, [spucknäpfe], "ein Behälter für Speichel").
+entry(spitty, adj, [], "MIT SPEICHEL VERSEHEN SPITTIER SPITTIEST").
+entry(spitz, n, [spitzes], "ein Hund mit einem dichten Fell").
+Eintrag(spiv, n, [spivs], "ein skrupelloser kleiner KriminellerSPIVVISH adj").
+Eintrag(spivvy, adj, [], "SPIVVIERE SPIVVIESTähnlich einem Spiv im Kleid oder Benehmen").
+Eintrag(splake, n, [splakes], "ein Süßwasserfisch").
+entry(splash, v, [spritzte, spritzend, spritzt], "eine Flüssigkeit herumspritzen").
+entry(splasher, n, [splashers], "einer, der spritzt").
+Eintrag(splashy, adj, [], "SPLASHIER SPLASHIESTshowy").
+entry(splat, v, [splattete,splattend,splattet], "flach drücken beim Aufprall").
+entry(splattern, v, [gesplattert, splatternd, spleutert], "verspritzen").
+Eintrag(splay, v, [splayed, splaying, splays], "sich ausbreiten").
+entry(Milz, n, [Milzen], "ein Organ des Körpers ohne Drüsen").
+entry(spleeny, adj, [], "SPLEENIER SPLEENIESTreizbar").
+entry(glänzend, adj, [], "GLÄNZENDER GLÄNZENDSTEprächtig").
+Eintrag(pracht, n, [prachten], "großartigkeit").
+entry(splenial, adj, [], "zum Musculus splenius gehörend").
+Eintrag(splenic, adj, [], "auf die Milz bezogen").
+entry(splenium, n, [splenia], "oder SPLENIENS ein chirurgischer Verband").
+Eintrag(splenius, n, [splenii], "ein Muskel des Nackens").
+Eintrag(splent, n, [splents], "ein Schiene").
+entry(verknüpfen, v, [verknüpft, verknüpfend, verknüpft], "an den Enden verbinden").
+entry(splicer, n, [splicers], "jemand, der splisst").
+Eintrag(spliff, n, [spliffs], "ein Marihuana-Zigarette").
+Eintrag(spline, v, [gesplintet, splintend, splines], "mit einem Keil eine Verbindung zwischen zwei rotierenden mechanischen Teilen herstellen").
+entry(schiene, v, [geschient,schienend,schient], "mit einer Schiene einer dünnen Holzlatte stützen").
+entry(splittern, v, [splitterte, splitternd, splittert], "in scharfe schlanke Stücke zersplittern").
+entry(split, v, [spalten,spaltend,spaltet], "längs trennen").
+Eintrag(spalter, n, [spalter], "einer, der spaltet").
+entry(splodge, v, [splodged,splodging,splodges], "klecksen").
+entry(splodgy, adj, [], "SPLODGIER SPLODGIESTsplotchy").
+Eintrag(splore, n, [splores], "ein Karussell").
+Eintrag(splosh, v, [sploshed,sploshing,sploshes], "spritzen").
+Eintrag(splotch, v, [splotched, splotching, splotches], "mit großen unregelmäßigen Flecken markieren").
+entry(splotchy, adj, [], "FLECKIGER FLECKIGST fleckig").
+entry(splurge, v, [splurged, splurging, splurges], "Geld verschwenderisch ausgeben").
+entry(splurger, n, [Verschwender], "einer, der Geld verschwendet").
+entry(splurgy, adj, [], "SPLURGIER SPLURGIESTneigen zum Prassen").
+Eintrag(splurt, v, [splurted,splurting,splurts], "in einem Strom oder Schwall hervorschießen").
+Eintrag(splutter, v, [spluttered,spluttering,splutters], "schnell und verwirrt sprechen").
+Eintrag(spode, n, [spodes], "eine feine Porzellanware").
+Eintrag(spodosol, n, [spodosole], "ein saurer Waldboden").
+entry(verderben, v, [verdorben,verderbend,verdirbt], "den Wert oder die Qualität beeinträchtigen von").
+Eintrag(verderb, n, [verderbnisse], "etwas, das verdorben oder verschwendet wurde").
+entry(verderber, n, [verderber], "jemand, der verdirbt").
+entry(spoke, v, [spoked,spoking,spokes], "mit Speichen versorgen, Stangen, die den Rand eines Rades stützen").
+entry(gesprochen, vergangen, [], "Partizip von sprechen").
+entry(plündern, v, [geplündert,plündernd,plündert], "to plunder").
+entry(spondäisch, n, [spondäen], "ein Spondee").
+entry(spondeus, n, [spondeen], "eine Art von Versfuß").
+entry(schwamm, v, [], "AUSGEPRESST SCHWAMMEN oder SCHWAMMT SCHWAMMen mit einem Schwamm abwischen eine Masse aus saugfähigem Material").
+Eintrag(schwammkopf, n, [schwammköpfe], "einer, der schmarotzt").
+Eintrag(spongier, Komparativ, [], "von schwammig").
+Eintrag(spongiest, superlativ, [], "von schwammig").
+entry(schwammig, adv, [], "auf schwammige Weise").
+Eintrag(spongin, n, [spongins], "ein faseriges Material").
+entry(sponging, präsens, [], "Partizip von sponge").
+entry(schwammig, adj, [], "SCHWAMMIGER SCHWAMMIGSTEähnlich einem Schwamm").
+Eintrag(sponsal, adj, [], "die Ehe betreffend").
+entry(sponsion, n, [Sponsionen], "der Akt des Sponsorings").
+Eintrag(sponson, n, [sponsons], "ein Vorsprung von der Seite eines Schiffes").
+entry(sponsor, v, [gesponsert,sponsoring,sponsoren], "sich für etwas verantwortlich machen").
+entry(spontoon, n, [spontoons], "eine speerähnliche Waffe").
+entry(spoof, v, [veräppelt, veräppelnd, veräppelt], "zum Spaß verspotten").
+Eintrag(spoofer, n, [spoofers], "jemand, der täuscht").
+Eintrag(spoofery, n, [spooferies], "gutartige Verspottung").
+entry(spoofy, adj, [], "humorvoll satirisch").
+entry(spook, v, [erschreckte, erschreckend, erschreckt], "erschrecken").
+Eintrag(spuckerei, n, [spuckereien], "etwas gruselig").
+entry(spookish, adj, [], "gruselig").
+Eintrag(spooky, adj, [], "SPOOKIER SPOOKIESTerschreckendSPOOKILY adv").
+entry(spool, v, [gespult,spulend,spult], "auf einen kleinen Zylinder wickeln").
+entry(spooler, n, [Spooler], "einer, der spult").
+entry(spooling, n, [Spoolings], "die temporäre Speicherung von Daten für eine spätere Ausgabe").
+entry(loeffel, v, [gelöffelt, löffelnd, löffelt], "mit einem Löffel einer Art Essgerät aufnehmen").
+Eintrag(spooner, n, [spooners], "jemand, der sich auf verliebte Weise verhält").
+entry(spooney, adj, [], "SPOONIER SPOONIESTspoony").
+entry(spooney, n, [spooneys], "ein verliebter Narr").
+Eintrag(loeffelvoll, n, [loeffelvolle], "oder SPOONSFULso viel wie ein Loeffel halten kann").
+entry(spoonsful, a, [], "Mz von Löffelvoll").
+entry(spoony, adj, [], "RÜHRSELIG ÜBERRÜHRSIG übertrieben sentimental RÜHRSELIG adv").
+entry(spoony, n, [spoonies], "eine törichte Person").
+entry(spoor, v, [spurte, spürend, spürt], "einem Tier nachspüren").
+entry(spoorer, n, [spoorers], "jemand, der Fährten liest").
+entry(sporadisch, adj, [], "auftretend in unregelmäßigen Abständen").
+Eintrag(sporal, adj, [], "von einem Spore stammend oder diesem ähnlich").
+entry(spore, v, [spored,sporing,spores], "Sporen zu produzieren, üblicherweise einzellige Fortpflanzungskörper").
+entry(sporoid, adj, [], "einem Spore ähnelnd").
+Eintrag(sporozoa, npl, [], "parasitische einzellige Tiere").
+entry(sporran, n, [sporrans], "eine große Geldbörse, die von schottischen Highlandern getragen wird").
+entry(sport, v, [sported,sporting,sports], "herumtollen").
+entry(sporter, n, [Sportler], "jemand, der Sport treibt").
+entry(sportful, adj, [], "sportlich").
+entry(sportif, n, [Sportler], "eine Person, die aktiv oder interessiert an körperlichen Wettbewerben ist").
+entry(sportlich, adj, [], "verspielt").
+entry(sportlich, adj, [], "SPORTLICHER SPORTLICHESTauffälligSPORTLICH adv").
+Eintrag(sporule, n, [Sporen], "ein kleines SporeSPORULAR Adj").
+entry(spot, v, [entdeckte,entdeckend,entdeckt], "mit kleinen rundlichen Verfärbungen markieren").
+entry(flecklos, adj, [], "makellos sauber").
+entry(spotlit, a, [], "Vergangenheit von spotlight").
+Eintrag(aufklärer, n, [aufklärer], "einer, der aufspürt").
+entry(beobachtung, n, [beobachtungen], "die Praxis, nach Beispielen von etwas zu suchen").
+entry(spotty, adj, [], "SPOTTIGER SPOTTIGSTEmit Flecken markiertSPOTTIG adv").
+entry(spousal, n, [spousals], "Heirat").
+Eintrag(ehepartner, v, [heiratete,heiratend,heiratet], "heiraten").
+entry(ausstoßen, v, [ausgestoßen, ausstoßend, ausstößt], "in einem schnellen Strom ausstoßen").
+Eintrag(spouter, n, [spouters], "einer, der spoutet").
+entry(speier, n, [speiern], "ein Kanal zum Ableiten von Wasser von einem Dach").
+Eintrag(spraddle, v, [spraddled, spraddling, spraddles], "sich spreizen").
+entry(sprag, n, [sprags], "ein Gerät, das verwendet wird, um zu verhindern, dass ein Fahrzeug rückwärts rollt").
+entry(verstauchung, v, [verstaucht,verstauchend,verstauchungen], "durch eine plötzliche und heftige Verdrehung oder Zerrung schwächen").
+entry(sprang, n, [sprangs], "eine Webtechnik, um ein netzartiges Geflecht zu bilden").
+entry(sprotte, n, [sprotten], "ein kleiner Hering").
+entry(sprattle, v, [sprattled,sprattling,sprattles], "kämpfen").
+entry(sprawl, v, [sprawled,sprawling,sprawls], "sich ungraziös ausstrecken").
+entry(sprawler, n, [Sprawler], "jemand, der sich ausbreitet").
+entry(sprawly, adj, [], "SPRAWLIER SPRAWLIESTzum Ausbreiten neigend").
+Eintrag(spray, v, [gesprüht,spritzen,sprüht], "in feinen Partikeln verteilen").
+Eintrag(sprayer, n, [Sprayers], "einer, der sprüht").
+entry(verbreiten, v, [verbreiten,verbreitend,verbreitet], "öffnen oder über einen größeren Bereich ausdehnen").
+entry(spreader, n, [Verteiler], "einer der verbreitet").
+entry(spree, n, [Spree], "ein ungezügeltes Sichgehenlassen in einer Tätigkeit").
+entry(sprent, adj, [], "übersät").
+entry(sprier, a, [], "Komparativ von spry").
+entry(spriest, a, [], "Superlativ von flink").
+Eintrag(sprig, v, [sprigged,sprigging,sprigs], "mit kleinen dünnen Nägeln befestigen").
+Eintrag(sprigger, n, [spriggers], "eine, die sprigs").
+entry(spriggy, adj, [], "SPRIGGIER SPRIGGIESTkleine Zweige habend").
+entry(spright, n, [sprights], "Sprite").
+entry(feder, v, [sprang,federnd,federn], "sich plötzlich und rasch nach oben bewegen").
+entry(springal, n, [springals], "ein junger Mann").
+entry(springe, v, [springed,springeing,springes], "mit einer Art Falle fangen").
+Eintrag(springer, n, [springers], "einer, der springt").
+entry(federnd, adj, [], "FEDERNDER FEDERNDEStfedernd").
+entry(streuen, v, [gestreut,streuend,streut], "Tröpfchen oder Partikel auf etwas streuen").
+Eintrag(sprinten, v, [gesprintet, sprintend, sprintet], "schnellstmöglich laufen").
+entry(sprinter, n, [Sprinter], "einer, der sprintet").
+entry(sprit, n, [sprits], "ein Schiffsbaum").
+Eintrag(sprite, n, [sprites], "ein Elf oder eine Fee").
+entry(spritely, adj, [], "ENERGISCHER ENERGISCHSTvoller Energie").
+Eintrag(spritz, v, [gespritzt, spritzend, spritzt], "sprühen").
+entry(spritzer, n, [spritzers], "ein Getränk aus Weißwein und Sprudelwasser").
+Eintrag(spritzy, adj, [], "SPRITZIER SPRITZIEST einen Sprühnebel emittierend").
+Eintrag(Zahnkranz, n, [Zahnkränze], "eine zahnartige Ausstülpung, die mit den Gliedern einer Kette eingreift").
+Eintrag(sprog, n, [sprogs], "ein kleines Kind").
+entry(sproglet, n, [sproglets], "ein Nachwuchs").
+entry(sprossen, v, [spross, sprossend, sprosst], "beginnen zu wachsen").
+entry(fichte, adj, [], "SCHNEIDER SCHICKESTgepflegt und ordentlich im ErscheinungsbildSCHICK adv").
+entry(fichte, v, [fichtete,fichtend,fichtet], "aufhübschen").
+entry(sprucy, adj, [], "FESCHER FESCHTESTfesch").
+entry(sprue, n, [sprues], "eine tropische Krankheit").
+entry(spatz, n, [spatzen], "ein Sperling").
+entry(sprung, a, [], "Vergangenheit von springen").
+Eintrag(spry, adj, [], "SPRYER SPRYEST oder SPRIER SPRIESTflinkSPRYLY adv").
+Eintrag(beweglichkeit, n, [beweglichkeiten], "die Eigenschaft oder der Zustand, flink zu sein").
+Eintrag(spud, v, [spudded, spudding, spuds], "mit einem spatelförmigen Werkzeug entfernen").
+entry(spudder, n, [spudders], "ein Werkzeug zum Entfernen von Rinde von Bäumen").
+Eintrag(spudgel, n, [spudgels], "ein Eimer an einem langen Stab").
+Eintrag(spue, v, [spued,spuing,spues], "speien").
+entry(spumante, n, [spumantes], "ein italienischer Schaumwein").
+entry(schaum, v, [schaumte, schäumend, schäumt], "schäumen").
+entry(spumier, Komparativ, [], "von schaumig").
+Eintrag(spumiest, Superlativ, [], "von schaumig").
+entry(sprudelnd, präsens, [], "Partizip von Schaum").
+entry(spumone, n, [spumones], "ein italienisches Eis").
+entry(spumoni, n, [spumonis], "Spumone").
+entry(spumous, adj, [], "schaumig").
+entry(spumy, adj, [], "SCHÄUMIGER SCHÄUMIGSTEschäumig").
+Eintrag(spun, vergangenheit, [], "Zeitform von spin").
+entry(„Spunk“, v, [„Spunkte“, „Spunkend“, „Spunkt“], „anfangen zu brennen“).
+Eintrag(spunkie, n, [spunkies], "ein Licht, das durch die Verbrennung von Sumpfgas verursacht wird").
+Eintrag(spunky, adj, [], "SPUNKIER SPUNKIESTmutigSPUNKILY adv").
+entry(spur, v, [spurred,spurring,spurs], "antreiben mit einem Sporn, das Treiben eines Reiters mit einem Sporn").
+entry(spurgall, v, [spurgalled, spurgalling, spurgalls], "mit einem Sporn verletzen").
+eintrag(wolfsmilch, n, [wolfsmilche], "eine tropische Pflanze").
+Eintrag(faelschlich, adj, [], "nicht echt").
+Eintrag(spurless, adj, [], "ohne Sporn").
+entry(zurückweisen, v, [zurückgewiesen, zurückweisend, zurückweist], "mit Verachtung ablehnen").
+entry(verächter, n, [verächter], "einer, der verachtet").
+Eintrag(spurred, vergangenheit, [], "Zeitform von spur").
+entry(spurrer, n, [spurrers], "einer, der anspornt").
+entry(spurrey, n, [Spurreys], "Spurreykraut").
+Eintrag(spurrier, n, [spurriers], "jemand, der Sporen herstellt").
+Eintrag(spurring, praesens, [], "Partizip von spur").
+entry(Spergula, n, [Spergelkräuter], "ein europäisches Unkraut").
+Eintrag(spurt, v, [spurtete, spurtend, spurten], "stürzen hervor").
+entry(spurter, n, [spurters], "einer, der spritzt").
+entry(spurtle, n, [spurtles], "ein Stock zum Rühren von Porridge").
+Eintrag(sputnik, n, [sputniks], "ein sowjetischer künstlicher Erdsatellit").
+Eintrag(sputtern, v, [gesputtert, sputternd, sputtert], "Teilchen in kurzen Stößen ausstoßen").
+entry(sputtery, adj, [], "stößweise ausstoßend").
+entry(sputum, n, [sputa], "Speichel").
+entry(spion, v, [spionierte, spionierend, spioniert], "heimlich beobachten").
+entry(spionglas, n, [spiongläser], "ein kleines Fernrohr").
+entry(spyware, n, [Spywares], "Computersoftware, durch die persönliche Informationen heimlich an einen anderen Computer gesendet werden").
+Eintrag(taube, n, [tauben], "eine junge Taube").
+entry(streit, v, [stritt,streitend,streitet], "sich streiten").
+Eintrag(squabby, adj, [], "SQUABBIER SQUABBIESTkurz und dick").
+Eintrag(kader, v, [kaderte, kadernd, kader], "in kleine organisierte Gruppen unterteilen").
+Eintrag(soldat, n, [soldaten], "ein militärischer Rekrut").
+entry(squaddy, n, [squaddies], "Squaddie").
+Eintrag(geschwader, v, [geschwadert, geschwadernd, geschwader], "in Geschwadern Einheiten der militärischen Organisation anordnen").
+Eintrag(squalen, n, [squalene], "eine chemische Verbindung").
+Eintrag(squalid, adj, [], "SQUALIDER SQUALIDESTgekennzeichnet durch Schmutzigkeit verursacht durch Vernachlässigung oder Armut").
+entry(sturm, v, [stürmte, stürmend, stürmt], "laut schreien oder heulen").
+entry(schreier, n, [schreier], "jemand, der schreit").
+entry(böig, adj, [], "BÖIGER BÖIGSTEböig").
+entry(elend, n, [elends], "die Qualität oder der Zustand von Elend").
+Eintrag(squama, n, [squamae], "eine SchuppeSQUAMOSE SQUAMOUS adj").
+entry(squamate, n, [Schuppenkriechtiere], "eine beliebige Ordnung der Reptilien").
+entry(verschwenden, v, [verschwendet,verschwendend,verschwendet], "verschwenden").
+entry(quadratisch, adj, [], "QUADRATISCHSTER QUADRATISCHAMSTENmit vier gleichen Seiten und vier rechten Winkeln starr konventionell").
+entry(square, v, [quadratisch, quadratierend, quadrate], "quadratisch machen").
+entry(squarely, adv, [], "auf eine direkte und ehrliche Weise").
+entry(squarer, n, [Quadraturmeister], "einer, der quadriert").
+entry(squarest, Superlativ, [], "von Quadrat").
+Eintrag(quadratisieren, präsens, [], "Partizip von quadratieren").
+Eintrag(eckig, adj, [], "etwas quadratisch").
+Eintrag(squark, n, [squarks], "das hypothetische Boson-Analogon eines Quarks").
+entry(squash, v, [zerdrückte, zerdrückend, zerdrückt], "zu einem Brei oder einer flachen Masse pressen").
+Eintrag(Kürbisdrücker, n, [Kürbisdrücker], "jemand, der drückt").
+entry(squashy, adj, [], "WEICHER WEICHSTEweich und feucht").
+Eintrag(squat, adj, [], "KURZ KÜRZESTkurz und dickKURZ adv").
+entry(hocken, v, [hockte, hockend, hockt], "die Knie beugen und auf den Fersen sitzen").
+Eintrag(squatter, v, [squattered, squattering, squatters], "sich durch Wasser bewegen").
+entry(squatty, adj, [], "SQUATTIER SQUATTIESTsquat").
+entry(squawk, v, [kreischte, kreischend, kreischt], "einen lauten, rauen Schrei ausstoßen").
+entry(kreischer, n, [kreischer], "eine, die kreischt").
+Eintrag(quietschen, v, [quietschte, quietschend, quietscht], "ein scharfes hochfrequentes Geräusch machen").
+entry(quietscher, n, [quietschers], "einer, der quietscht").
+entry(squeaky, adj, [], "SQUEAKIER SQUEAKIESTneigend zu quietschen").
+entry(quieken, v, [quiekte,quiekend,quiekt], "einen scharfen, schrillen Schrei ausstoßen").
+entry(quieker, n, [quieker], "jemand, der quietscht").
+entry(abzieher, v, [abgezogen,abziehend,abzieher], "mit einem Abzieher wischen, ein Gerät zum Entfernen von Wasser von einer Oberfläche").
+entry(drücken, v, [gedrückt,drückend,drückt], "stark pressen auf").
+Eintrag(squeezer, n, [squeezers], "ein Quetscher").
+entry(squeg, v, [squegged,squegging,squegs], "auf unregelmäßige Weise oszillieren").
+entry(squelch, v, [squelched,squelching,squelches], "quetschen").
+entry(squelchy, adj, [], "QUIETSCHIGER QUIETSCHIGSTEsumpfig").
+entry(squib, v, [squibbed,squibbing,squibs], "verspotten").
+Eintrag(squibber, n, [squibbers], "ein Infield-Grounder, der zu einem Basehit wird").
+Eintrag(tintenfisch, v, [geangelt, am angeln, angelt], "um tintenfische, zehnarmige marine Weichtiere, zu fangen").
+Eintrag(squidgy, adj, [], "SQUIDGIER SQUIDGIESTschmierig matschig").
+entry(squiffed, adj, [], "betrunken").
+entry(squiffy, adj, [], "SQUIFFIER SQUIFFIESTversuffen").
+entry(squiggle, v, [zappelte, zappelnd, zappelt], "sich winden").
+entry(wackelig, adj, [], "WACKELIGER WACKELIGSTE").
+entry(squilgee, v, [squilgeed, squilgeeing, squilgees], "abwischen").
+entry(squill, n, [squills], "ein eurasisches Kraut").
+entry(squilla, n, [squillas], "oder SQUILLAEine grabende Krustazee").
+entry(squinch, v, [squinched,squinching,squinches], "blinzeln").
+Eintrag(squinny, adj, [], "SQUINNIER SQUINNIESTsquinty").
+entry(squinny, v, [squinnied,squinnying,squinnies], "blinzeln").
+entry(schielen, adj, [], "SCHIELENDER SCHIELENDSTeträugig").
+entry(schielen, v, [schielte, schielend, schielt], "mit teilweise geschlossenem Auge schauen").
+entry(squinter, n, [squinters], "jemand, der schielt").
+Eintrag(squinty, adj, [], "SCHIELEND SCHIELENDSTmarkiert durch Schielen").
+Eintrag(Schildknappe, v, [Schildknappe, Schildknappernd, Schildknappen], "als Schildknappe oder Begleiter dienen").
+Eintrag(squireen, n, [squireens], "ein Besitzer eines kleinen Anwesens").
+Eintrag(squirely, adj, [], "von oder passend für einen Knappe").
+entry(squirish, adj, [], "Charakteristisch für oder passend zu einem Knappe").
+entry(eichhörnchen, n, [eichhörnchen], "eine dekorative Kurve in der Handschrift").
+eintrag(sich_winden, v, [gewunden, sich_windend, windet_sich], "sich winden").
+entry(squirmer, n, [Würmer], "einer, der sich windet").
+Eintrag(squirmy, adj, [], "SQUIRMIER SQUIRMIESTwriggly").
+Eintrag(eichhörnchen, v, [aufgehorcht, horchend, horcht], "oder HÖRCHTE HORCHEND HORCHT zum Speichern für zukünftige Verwendung").
+Eintrag(squirt, v, [squirtete, squirting, squirtet], "in einem dünnen, schnellen Strahl ausstoßen").
+entry(squirter, n, [Spritzer], "eine, die spritzt").
+entry(squish, v, [gequetscht, quetschend, quetscht], "zerquetschen").
+Eintrag(squishy, adj, [], "SQUISHIER SQUISHIESTsquashy").
+entry(squitters, npl, [], "Durchfall").
+Eintrag(squoosh, v, [squooshed,squooshing,squooshes], "zermalmen").
+entry(squooshy, adj, [], "SQUOOSHIER SQUOOSHIESTquatschig").
+entry(squush, v, [squushed,squushing,squushes], "zerquetschen").
+entry(sraddha, n, [sraddhas], "Shraddha").
+entry(sradha, n, [sradhas], "ein hinduistisches zeremonielles Opfer").
+Eintrag(sri, n, [sris], "Herr Herr, als hinduistischer Ehrentitel verwendet").
+entry(stab, v, [stachen, stechend, sticht], "mit einer spitzen Waffe durchbohren").
+entry(stabber, n, [Messerstecher], "jemand, der sticht").
+entry(erstechen, n, [erstochen], "der Akt, jemanden mit einer spitzen Waffe zu durchbohren").
+entry(stabile, n, [stabiles], "eine ortsfeste abstrakte Skulptur").
+entry(stabil, adj, [], "STABILER STABILSTEwenig empfindlich gegenüber plötzlichen Veränderungen der Lage oder des Zustands").
+Eintrag(stall, v, [eingestallt, einstallend, stallt], "in einen Stall bringen, ein Schutz für Haustiere").
+entry(staller, n, [stallers], "einer, der einen Stall betreibt").
+Eintrag(Unterbringung, n, [Unterbringungen], "Unterkunft für Tiere in einem Stall").
+Eintrag(stablish, v, [stablished, stablishing, stablishes], "etablieren").
+entry(stably, adv, [], "auf stabile Weise").
+entry(staccato, n, [staccatos], "oder STACCATOein musikalischer Abschnitt, der durch das kurze, klare Spiel von Tönen gekennzeichnet ist").
+Eintrag(stapel, v, [gestapelt, stapelnd, stapelt], "stapeln").
+entry(stapler, n, [stapler], "einer, der stapelt").
+entry(stackup, n, [stapelungen], "eine Anordnung von kreisenden Flugzeugen über einem Flughafen, die darauf warten zu landen").
+entry(stakte, n, [staktes], "ein Gewürz, das von den alten Juden zur Herstellung von Weihrauch verwendet wurde").
+entry(staddle, n, [staddles], "eine Plattform, auf der Heu gestapelt wird").
+entry(stadion, n, [stadien], "eine antike griechische Längeneinheit").
+entry(stadia, n, [stadien], "eine Methode zur Vermessung von Entfernungen").
+Eintrag(stadion, n, [stadien], "eine Struktur, in der sportliche Veranstaltungen stattfinden").
+Eintrag(stab, v, [bemannt,besetzt,bemannt], "mit einem Stab eine Gruppe von Assistenten bereitstellen").
+entry(mitarbeiter, n, [mitarbeiter], "ein Mitglied eines Teams").
+Eintrag(personalbesetzung, n, [personalbesetzungen], "die Bereitstellung mit Personal").
+Eintrag(Hirsch, v, [gehirscht, hirschend, hirsche], "an einer gesellschaftlichen Veranstaltung ohne weibliche Begleitung teilnehmen").
+Eintrag(stage, v, [staged,staging,stages], "für die öffentliche Ansicht produzieren").
+Eintrag(stageful, n, [stagefuls], "so viel oder so viele, wie eine Bühne fassen kann").
+entry(stager, n, [stagers], "eine erfahrene Person").
+entry(junggesellinnenabschied, n, [junggesellinnenabschiede], "eine reine Frauenparty für eine Frau, die bald heiraten wird").
+Eintrag(stagey, adj, [], "STAGIER STAGIESTstagy").
+Eintrag(staggard, n, [staggards], "ein ausgewachsener männlicher Rothirsch").
+entry(staggart, n, [staggarts], "Staggard").
+entry(gestakkt, Vergangenheit, [], "Zeitform von stag").
+entry(taumeln, v, [getaumelt, taumelnd, taumelt], "unruhig gehen oder stehen").
+entry(staggery, adj, [], "unsicher").
+entry(staggie, n, [staggies], "ein Fohlen").
+Eintrag(stagging, präsent, [], "Partizip von stag").
+Eintrag(staggy, adj, [], "STAGGIER STAGGIESTdas Aussehen eines ausgewachsenen Männchens").
+entry(geweih, n, [geweihe], "ein Hirschgeweih, das als Messergriff verwendet wird").
+Eintrag(stagier, komparativ, [], "von bühnenhaft und theatralisch").
+Eintrag(stagiest, Superlativ, [], "von bühnenhaft und bühnenartig").
+entry(theatralisch, adv, [], "in theatralischer Weise").
+Eintrag(inszenierung, n, [inszenierungen], "eine vorübergehende Plattform").
+entry(stagnant, adj, [], "nicht bewegend oder fließend").
+entry(stagnieren, v, [stagnierte,stagnierend,stagniert], "stagnieren").
+entry(stagy, adj, [], "STAGIER STAGIESTeinen theatralischen Charakter habend").
+entry(staid, adj, [], "STAIDER STAIDESTnüchtern und gesetztSTAIDLY adv").
+entry(staig, n, [staigs], "ein Fohlen").
+Eintrag(schmutz, v, [verschmutzt,verschmutzend,verschmutzt], "verfärben oder verschmutzen").
+entry(anfärber, n, [anfärber], "ein der färbt").
+entry(treppe, n, [treppen], "eine Auflage für den Fuß, die beim Hinauf- oder Hinabsteigen auf eine andere Ebene genutzt wird").
+entry(treppe, n, [treppen], "ein Treppenlauf").
+entry(staithe, n, [staithes], "ein Kai ausgestattet für den Umschlag von Kohle von Eisenbahnwagen auf Schiffe").
+entry(stake, v, [staked, staking, stakes], "mit einem Pflock, einem spitzen Holz- oder Metallstück, befestigen").
+entry(stakeout, n, [Überwachungen], "eine Überwachung eines Gebiets, insbesondere durch die Polizei").
+entry(pfahlsetzer, n, [pfahlsetzer], "einer, der ein Gebiet mit Pfählen abgrenzt").
+Eintrag(stalag, n, [stalags], "ein deutsches Kriegsgefangenenlager").
+Eintrag(stale, Adj, [], "STALER STALESTnicht frischSTALELY adv").
+entry(stale, v, [alt, alternd, altert], "schal werden").
+entry(stalken, v, [gestalkt, stalkend, stalkt], "heimlich verfolgen").
+entry(stalker, n, [Stalker], "jemand, der schleicht").
+entry(stalking, n, [Stalkings], "der Akt des Verfolgens").
+entry(stalky, adj, [], "STÄNGELIGER STÄNGELIGSTE lang und schlank STÄNGELIG adv").
+Eintrag(bremse, v, [gebremst, bremsend, bremst], "den Fortschritt stoppen von").
+entry(hengst, n, [hengste], "ein unkastrierter männlicher Pferd").
+entry(treuer, n, [treue], "ein unerschütterlicher Parteigänger").
+Eintrag(stamen, n, [stamens], "das pollenbildende Organ von BlütenpflanzenSTAMENED adj").
+Eintrag(stamina, n, [staminas], "enduranceSTAMINAL adj").
+entry(stammel, n, [stammels], "eine rote Farbe").
+entry(stottern, v, [stotterte,stotternd,stottert], "mit unfreiwilligen Unterbrechungen und Pausen sprechen").
+Eintrag(stamp, v, [gestempelt,stempeln,stempelt], "den Fuß schwer herunterzubringen").
+entry(stampede, v, [stampeded,stampeding,stampedes], "in kopfloser Panik davonlaufen lassen").
+Eintrag(stempeleinrichtung, n, [stampeinrichtungen], "eine, die stempelt").
+entry(haltung, n, [haltungen], "eine Art des Stehens").
+entry(stanch, adj, [], "STANCHER STANCHESTstandhaft").
+Eintrag(stanch, v, [gestillt,stillend,stillt], "um den Blutfluss zu stoppen").
+entry(stancher, n, [stanchers], "etwas, das abschwächt").
+entry(stanchly, adv, [], "auf standhafte Weise").
+entry(stehen, v, [stand,stehend,steht], "eine aufrechte Position einnehmen oder beibehalten").
+Eintrag(standard, n, [standards], "ein etabliertes Vergleichsmaß").
+entry(standby, n, [standbys], "auf den man sich verlassen kann").
+entry(stehender, n, [stehende], "jemand, der stehen muss, weil es keine Sitze gibt").
+entry(ständer, n, [ständer], "einer, der steht").
+entry(standing, n, [tabellenplatz], "eine Position oder Bedingung in der Gesellschaft").
+entry(standish, n, [standishes], "ein Behälter für Stifte und Tinte").
+entry(patt, n, [patts], "ein Unentschieden oder Gleichstand in einem Spiel").
+entry(hervorragend, n, [hervorragende], "eine, die sich durch überlegene Qualität auszeichnet").
+entry(standpat, adj, [], "sich Änderungen widersetzen oder entgegenstellen").
+entry(standup, n, [standups], "ein komischer Monolog eines Darstellers allein auf der Bühne").
+entry(stane, v, [staned,staning,stanes], "steinigen").
+entry(stang, v, [stangte, stangend, stangt], "stechen").
+entry(stanhope, n, [stanhopes], "ein leichter offener Wagen").
+Eintrag(stanine, n, [Staninen], "eine der neun Klassen, in die eine Reihe von Punkten unterteilt werden").
+Eintrag(staning, praesens, [], "Partizip von stane").
+entry(stank, n, [Teiche], "ein Teich").
+entry(zinnbergwerk, n, [zinnbergwerke], "eine Zinnbergbauregion").
+entry(stannisch, adj, [], "bezogen auf Zinn").
+entry(stannit, n, [stannite], "ein Erz von Zinn").
+entry(stannous, adj, [], "auf Zinn bezogen").
+Eintrag(stannum, n, [stannums], "Zinn").
+entry(stanol, n, [Stanole], "ein vollständig gesättigtes Phytosterin").
+entry(strophe, n, [strophen], "eine Abteilung eines GedichtsSTROPHISCH STROPHISCH adj").
+entry(stapedes, pl, [], "des Steigbügels").
+entry(stapelia, n, [stapelien], "eine afrikanische Pflanze").
+entry(steigbügel, n, [steigbügel], "ein Knochen des Mittelohrs").
+Eintrag(staph, n, [staphylokokken], "eine von verschiedenen kugelförmigen Bakterien").
+entry(heften, v, [geheftet,heftend,heftet], "mit einem U-förmigen Metallbügel befestigen").
+entry(hefter, n, [hefter], "ein Heftgerät").
+Eintrag(stern, v, [bestrahlt,bestrahlend,strahlt], "als ein Stern zu leuchten, ein natürlich leuchtender Körper, der am Himmel sichtbar ist").
+Eintrag(stärke, v, [stärkte,stärkend,stärkt], "mit Stärke behandeln, einem festen Kohlenhydrat").
+entry(starcher, n, [starchers], "jemand, der stärkt").
+entry(staerkehaltig, adj, [], "STAERKEHALTIGER STAERKEHALTIGSTEenthaltend Staerke").
+entry(starruhm, n, [starruhme], "der Status eines herausragenden Darstellers").
+entry(stardust, n, [Sternenstaub], "eine romantische Eigenschaft").
+entry(starren, v, [starrte,starrend,starrt], "fest anstarren").
+Eintrag(starer, n, [starer], "eine, die starrt").
+Eintrag(starets, n, [startsy], "ein geistlicher Berater in der Ostkirche").
+entry(seestern, n, [seesterne], "ein sternförmiges Meerestier").
+entry(sternenschauen, v, [sternschaute,sternschauend,sternschaut], "die Sterne betrachten").
+Eintrag(starren, praesens, [], "Partizip von starren").
+entry(stark, adj, [], "STARKER STARKESThart im ErscheinungsbildSTARKLY adv").
+entry(starkers, adj, [], "nackt").
+entry(sternlos, adj, [], "ohne Sterne").
+entry(starlet, n, [Starlets], "ein kleiner Stern").
+entry(sternförmig, adj, [], "einem Stern ähnlich").
+entry(starling, n, [stare], "ein europäischer Vogel").
+entry(sternenklar, adj, [], "von den Sternen beleuchtet").
+entry(starnase, n, [starnasen], "ein grabendes Säugetier").
+entry(sternförmig, vergangenheit, [], "Zeitform von Stern").
+Eintrag(besetzend, präsens, [], "Partizip von spielen").
+Eintrag(starry, adj, [], "STARRIER STARRIESTmit Sternen übersätSTARRILY adv").
+entry(starship, n, [Raumschiffe], "ein Raumschiff für interstellare Reisen").
+Eintrag(start, v, [gestartet,startend,starts], "auszubrechen").
+entry(starter, n, [vorspeisen], "einer, der beginnt").
+entry(erschrecken, v, [erschreckte, erschreckend, erschreckt], "plötzlich erschrecken oder überraschen").
+Eintrag(startler, n, [startlers], "einer, der erschreckt").
+entry(startsy, pl, [], "von Starez").
+Eintrag(Start-up, n, [Start-ups], "der Akt, etwas zu starten").
+entry(hungern, v, [verhungerte,verhungernd,verhungert], "an Nahrungsmangel sterben").
+entry(verhungernder, n, [verhungernde], "jemand der hungert").
+Eintrag(sternkraut, n, [sternkräuter], "eine Blütenpflanze").
+entry(stases, pl, [], "der Stase").
+entry(verstecken, v, [versteckt,versteckend,versteckt], "an einem geheimen Ort aufbewahren").
+Eintrag(stasimon, n, [stasima], "eine Choralode im antiken griechischen Drama").
+entry(stase, n, [stasen], "ein Stillstand des normalen Flusses von Körperflüssigkeiten").
+entry(stat, n, [statistiken], "eine Statistik").
+entry(aussagbar, adj, [], "capable of being stated").
+entry(statal, adj, [], "den nationalen Regierungsangelegenheiten betreffend").
+Eintrag(statant, adj, [], "mit allen Füßen auf dem Boden stehend, verwendet für ein heraldisches Tier").
+entry(state, v, [äußerte,äußern,äußert], "in Worten darzulegen").
+Eintrag(statedly, adv, [], "regelmäßig").
+Eintrag(statelet, n, [statelets], "ein kleiner Staat eine politische Gemeinschaft").
+Eintrag(stately, adj, [], "STATELIER STATELIESTwürdevoll").
+entry(stater, n, [Aussager], "einer, der aussagt").
+Eintrag(static, n, [statics], "zufälliges Rauschen, das in einem Radio- oder Fernsehgerät erzeugt wirdSTATISCH adj").
+entry(statice, n, [meerlavendel], "eine blühende Pflanze").
+entry(staticky, adj, [], "gekennzeichnet durch statisch").
+Eintrag(statin, n, [statine], "jedes Medikament einer Klasse, das den Cholesterinspiegel im Serum senkt").
+Eintrag(aussagend, praesent, [], "Partizip von aussagen").
+entry(station, v, [stationiert,stationierend,stationiert], "einem Posten zuweisen").
+entry(staatismus, n, [staatismen], "eine Theorie der Regierung").
+entry(statist, n, [Statisten], "ein Anhänger des Etatismus").
+Eintrag(zustand, n, [zustände], "ein Verb, das einen Zustand ausdrückt").
+entry(stator, n, [Statoren], "der Teil einer Maschine, um den sich der Rotor dreht").
+entry(statuary, n, [Statuengruppen], "eine Gruppe von Statuen").
+Eintrag(statue, n, [Statuen], "ein dreidimensionales KunstwerkSTATUED adj").
+entry(Statur, n, [Staturen], "die natürliche Höhe eines menschlichen oder tierischen Körpers STATUR adj").
+entry(status, n, [status], "relative Position").
+Eintrag(statusy, adj, [], "prestigeverleihend").
+Eintrag(gesetz, n, [gesetze], "ein von der gesetzgebenden Gewalt einer Regierung erlassenes Gesetz").
+Eintrag(staumrel, n, [staumrels], "eine Trantüte").
+entry(staunch, adj, [], "STÄRKER STÄRKSTEfest und verlässlich").
+entry(staunch, v, [gestillt,stillend,stillt], "stauen").
+entry(stave, v, [Ofen,umherziehend,Fässer], "wegtreiben oder wegstoßen").
+Eintrag(staw, a, [], "Vergangenheit von stehlen").
+entry(stay, v, [blieb,bleibend,bleibt], "an einem Ort oder Zustand verbleiben").
+entry(stayer, n, [Bleiber], "einer, der bleibt").
+entry(stagsegeltuch, n, [stagsegeltücher], "eine Art von Segel").
+Eintrag(stead, v, [steaded, steading, steads], "von Vorteil sein für").
+entry(beruhigte, vergangen, [], "Zeitform von beruhigen").
+entry(fester, n, [festere], "jemand, der stabilisiert").
+entry(hofstelle, n, [hofstellen], "ein kleiner Bauernhof").
+Eintrag(steady, adj, [], "STEADIER STEADIESTfirm in positionSTEADILY adv").
+entry(steady, v, [stabilisierte,stabilisierend,stabilisiert], "stabil machen").
+entry(steak, n, [steaks], "eine Scheibe Fleisch").
+Eintrag(stehlen, v, [stahl,gestohlen,stehlend], "STEALNehmen ohne Recht oder Erlaubnis").
+entry(stealage, n, [Stehlagen], "Diebstahl").
+entry(dieb, n, [diebe], "einer, der stiehlt").
+entry(diebstahl, n, [diebstähle], "die Tat eines Diebes").
+Eintrag(heimlichkeit, n, [heimlichkeiten], "heimliches Verfahren").
+entry(selbst, adj, [], "STEALTHIER STEALTHIEST, um der Beobachtung zu entgehen").
+entry(dampf, v, [gedämpft,dämpfend,dämpft], "dem Wasserdampf in Form von Dampf aussetzen").
+entry(dampfschiff, v, [dampfschiffte,dampfschiffend,dampfschiffe], "mit dem Dampfschiff reisen").
+entry(steamie, n, [steamies], "ein gedämpfter Hot Dog").
+Eintrag(dampfend, adj, [], "DAMPFENDER DAMPFENDSTdurch Dampf gekennzeichnetDAMPFEN adv").
+Eintrag(steapsin, n, [steapsins], "ein Enzym").
+Eintrag(stearat, n, [stearate], "ein chemisches Salz").
+Eintrag(stearin, n, [stearins], "der feste Bestandteil eines FettesSTEARINISCH adj").
+entry(stearin, n, [stearine], "Stearin").
+entry(steatit, n, [steatite], "eine Art von Talkum").
+entry(stedfast, adj, [], "standhaft").
+entry(ross, n, [rosse], "ein pferd").
+entry(steek, v, [steekte, steekend, steeks], "schließen").
+entry(stahl, v, [stahlte, stahlend, stählt], "mit Stahl einem harten Eisenlegierung überziehen").
+entry(steelie, n, [Stahlkugeln], "eine Stahlspielmurmel").
+Eintrag(steely, adj, [], "STAHLER STAHLST resembling steel").
+entry(steinbock, n, [steinböcke], "eine afrikanische Antilope").
+entry(steil, adj, [], "STEILER AM STEILSTENscharf geneigt").
+entry(schroff, v, [geschrofft, schroffend, schrofft], "in einer Flüssigkeit einweichen").
+entry(steepen, v, [steepened,steepening,steepens], "steil machen").
+entry(steiler, n, [steilere], "etwas, das steilt").
+entry(steepish, adj, [], "etwas steil").
+entry(turmspitze, n, [turmspitzen], "eine sich verjüngende Struktur auf einem Kirchturm").
+Eintrag(kirchturm, v, [kirchtürmte, kirchtürmen, kirchtürme], "die Finger oder Hände wie einen Kirchturm formen").
+entry(steeply, adv, [], "in steiler Weise").
+Eintrag(lenken, v, [gelenkt,lenkend,lenkt], "die Richtung bestimmen von").
+entry(steuer, n, [steuern], "das Lenken").
+entry(lenker, n, [lenker], "einer, der lenkt").
+entry(lenkung, n, [lenkungen], "die Handlung, den Kurs eines Fahrzeugs oder Schiffs zu lenken").
+entry(steeve, v, [steeved, steeving, steeves], "im Laderaum eines Schiffes verstauen").
+Eintrag(steeving, n, [steevings], "der Winkelerhöhung eines Bugspriets vom Kiel eines Schiffs").
+entry(stegodon, n, [stegodons], "ein ausgestorbenes elefantenähnliches Säugetier").
+entry(stein, n, [steine], "ein Bierkrug").
+entry(steinbok, n, [steinböcke], "Steenbock").
+Eintrag(stela, n, [stelae], "oder STELAIan beschriftete Platte, die als Denkmal verwendet wirdSTELAR STELENE adj").
+entry(Stele, n, [Stelen], "der zentrale Teil des Gefäßgewebes in einem PflanzenstängelSTELIC adj").
+entry(stella, n, [stellas], "eine ehemals verwendete Münze der Vereinigten Staaten").
+entry(stellar, adj, [], "die Sterne betreffend").
+entry(sternenförmig, adj, [], "wie ein Stern geformt").
+entry(stellify, v, [stellifiziert, stellifizierend, stellifiziert], "in einen Stern verwandeln").
+entry(stem, v, [entstielen, entstielend, entstielt], "die Stiele von den aufsteigenden Achsen einer Pflanze entfernen").
+entry(stemless, adj, [], "kein Stiel haben").
+entry(stielartig, adj, [], "einem Stiel ähnlich").
+entry(stemma, n, [stemmata], "oder STEMMATAeine Schriftrolle, die die Genealogie einer Familie im antiken Rom aufzeichnet").
+Eintrag(gestammt, vergangenheit, [], "Zeitform von Stamm").
+entry(stemmer, n, [Stammmaschinen], "eine Maschine, die Stämme entfernt").
+entry(stemmery, n, [stemmeries], "ein Ort, an dem Tabakblätter gestreift werden").
+entry(Stammform, Präsens, [], "Partizip von 'stammen'").
+Eintrag(stemmy, adj, [], "STIELIGER STIELIGSTE reich an Stielen").
+entry(stemson, n, [stemsons], "ein stützender Balken eines Schiffes").
+entry(glaswaren, n, [glaswaren], "eine Art Glasgeschirr").
+entry(gestank, n, [gestänke], "ein übler Geruch").
+entry(stenchy, adj, [], "STENCHIER STENCHIESTeinen Gestank haben").
+entry(schablone, v, [schabloniert, schablonieren, schablonen], "oder SCHABLONIERT SCHABLONIEREN SCHABLONENzum Markieren mit Hilfe eines perforierten Materialblatts").
+entry(stengah, n, [stengahs], "ein Mischgetränk").
+Eintrag(steno, n, [stenos], "ein Stenograf").
+entry(stenoky, n, [stenokies], "die Fähigkeit eines Organismus, nur unter einem engen Spektrum von Bedingungen zu leben").
+entry(verengt, adj, [], "betroffen von Stenose").
+entry(stenose, n, [stenosen], "eine Verengung eines KörperdurchgangsSTENOTISCH adj").
+entry(stent, n, [Stents], "ein röhrenförmiges Gerät, das in ein Blutgefäß eingeführt wird").
+Eintrag(stentor, n, [stentoren], "eine Person mit sehr lauter Stimme").
+Eintrag(schritt, v, [trat,getreten,tritt], "sich bewegen, indem man den Fuß hebt und an einem anderen Ort absetzt").
+Eintrag(stiefvater, n, [stiefväter], "ein stiefvater").
+Eintrag(stiefmutter, n, [stiefmütter], "eine Stiefmutter").
+Eintrag(stufenlos, adj, [], "ohne Stufenstrukturen zum Übergang von einer Ebene zur nächsten").
+entry(stufenartig, adj, [], "einer Treppe ähnlich").
+entry(stiefmutter, n, [stiefmütter], "eine Stiefmutter").
+entry(steppe, n, [Steppen], "eine weite baumlose Ebene").
+entry(getreten, vergangen, [], "Zeitform von treten").
+entry(stepper, n, [Stepper], "einer, der Schritte macht").
+entry(stepping, präsent, [], "Partizip von Schritt").
+entry(stiefsohn, n, [stiefsöhne], "ein Sohn des Ehepartners aus einer früheren Ehe").
+Eintrag(stufenweise, adj, [], "gekennzeichnet durch einen allmählichen Fortschritt").
+entry(steran, n, [sterane], "eine chemische Verbindung").
+entry(stere, n, [steres], "eine Volumeneinheit").
+entry(stereo, v, [stereotisiert,stereoisierend,stereos], "eine Art von Druckplatte herstellen").
+entry(sterisch, adj, [], "die räumlichen Beziehungen von Atomen in einem Molekül betreffend").
+entry(sterical, adj, [], "sterisch").
+entry(sterigma, n, [sterigmen], "oder STERIGMATA ein sporenbildender Stiel bestimmter Pilze").
+entry(steril, adj, [], "unfähig, Nachkommen zu zeugen").
+Eintrag(sterlet, n, [sterlets], "ein kleiner Stör").
+entry(sterling, n, [sterlingsb], "britisches Geld").
+entry(stern, adj, [], "HARTER HARTESTUnerbittlich").
+Eintrag(stern, n, [sterne], "der hintere Teil eines SchiffesSTERNED adj").
+entry(sterna, a, [], "Pl. von Sternum").
+entry(sternal, adj, [], "zum Brustbein gehörend").
+Eintrag(sternit, n, [sternite], "ein somatisches Sklerit").
+entry(streng, adv, [], "in einer strengen Weise").
+Eintrag(sternson, n, [sternsons], "ein Verstärkungspfosten eines Schiffes").
+entry(sternum, n, [sternums], "oder STERNA, ein langes flaches Stützknochen der meisten Wirbeltiere").
+entry(sternway, n, [rückwärtsgänge], "die Rückwärtsbewegung eines Schiffes").
+Eintrag(steroid, n, [Steroide], "eine Art von chemischen Verbindungen").
+entry(sterol, n, [Sterole], "eine Art von festem Alkohol").
+Eintrag(stertor, n, [stertors], "ein tiefes Schnarchgeräusch").
+entry(stet, v, [stettete, stettend, stets], "eine zuvor gemachte Druckkorrektur rückgängig machen").
+Eintrag(stevia, n, [stevias], "ein südamerikanisches Kraut mit süß schmeckenden Blättern").
+entry(eintopf, v, [eintopfte,eintopfend,eintopft], "durch langsames Kochen zu garenEINTOPFBAR adj").
+Eintrag(steward, v, [stewarded, stewarding, stewards], "verwalten").
+Eintrag(stewbum, n, [stewbums], "ein betrunkener Penner ein Vagabund").
+Eintrag(kochtopf, n, [kochtöpfe], "ein topf zum schmoren").
+Eintrag(eintopf, n, [eintöpfe], "ein großer Topf zum Schmoren").
+entry(stewy, adj, [], "mit den Eigenschaften eines Eintopfgerichts, das durch Schmoren gekocht wurde").
+entry(stey, adj, [], "steil").
+entry(sthenia, n, [sthenien], "übermäßige EnergieSTHENISCH adj").
+entry(stibial, adj, [], "zum Stibium gehörend").
+entry(stibin, n, [stibine], "ein giftiges Gas").
+entry(stibium, n, [stibiums], "Antimon").
+entry(stibnit, n, [stibnite], "ein Erz von Antimon").
+Eintrag(stich, n, [stichs], "eine Linie der PoesieSTICHISCH adj").
+Eintrag(stock, v, [gestockt,stockend,stöcke], "mit schlanken Holzstücken unterstützen").
+Eintrag(stick, v, [stuck, sticking, sticks], "durchstechen mit einem spitzen Gegenstand").
+Eintrag(aufkleber, n, [aufkleber], "ein haftendes EtikettGEKLEBTE adj").
+entry(stickful, n, [stickfuls], "eine Menge einer bestimmten Art").
+entry(stickie, n, [Klebezettel], "klebrig").
+entry(klebriger, komparativ, [], "von klebrig").
+entry(stickies, pl, [], "von Sticky").
+Eintrag(stickiest, Superlativ, [], "von klebrig").
+Eintrag(stickily, adv, [], "auf klebrige Weise").
+Eintrag(stickit, adj, [], "erfolglos").
+entry(stickle, v, [stickled,stickling,stickles], "hartnäckig argumentieren").
+entry(stickler, n, [sticklers], "jemand, der nörgelt").
+entry(stickman, n, [Stockmänner], "jemand, der das Spiel an einem Würfeltisch überwacht").
+entry(stickout, n, [stickouts], "etwas, das auffällig ist").
+entry(anstecknadel, n, [anstecknadeln], "eine dekorative Krawattennadel").
+entry(klebstoff, n, [klebstoffe], "eine Substanz, die Haftung verursacht").
+entry(überfall, n, [überfälle], "ein Raubüberfall mit vorgehaltener Pistole").
+Eintrag(sticky, n, [stickies], "ein Zettel mit einem Klebestreifen auf der Rückseite").
+Eintrag(klebrig, adj, [], "KLEBRIGER KLEBRIGSTEneigend zu haften").
+Eintrag(stiction, n, [stictions], "die Kraft, die benötigt wird, um einen Körper, der mit einem anderen Körper in Kontakt steht, zu bewegen").
+entry(stied, a, [], "Vergangenheit von 'sty'").
+entry(sties, präsens, [], "3. Person Singular von sty").
+entry(steif, adj, [], "STEIFER STEIFESTschwierig zu biegen oder zu dehnen").
+entry(stiff, v, [stiffed,stiffing,stiffs], "jemanden betrügen, indem man nicht bezahlt").
+entry(versteifen, v, [versteifte, versteifend, versteift], "steif machen").
+entry(stiffish, adj, [], "etwas steif").
+entry(steif, adv, [], "auf steife Weise").
+entry(unterdrücken, v, [unterdrückte,unterdrückend,unterdrückt], "ersticken").
+Eintrag(stifler, n, [stiflers], "Einer, der erstickt").
+entry(stigma, n, [Stigmas], "oder STIGMATAein Zeichen der SchandeSTIGMAL Adj").
+entry(stilben, n, [stilbene], "eine chemische Verbindung").
+entry(stilbit, n, [stilbite], "ein Mineral").
+entry(stile, n, [Stile], "eine Serie von Stufen, um über einen Zaun oder eine Mauer zu gelangen").
+Eintrag(stiletto, v, [stilettoed,stilettoing,stilettos], "oder STILETTOESto mit einem Stiletto, einem kurzen Dolch, stechen").
+entry(still, adj, [], "STILLER STILLESTfrei von Geräuschen oder Bewegung").
+eintrag(still, v, [stillte, stillend, stillt], "ruhig machen").
+entry(stillage, n, [Lagerböcke], "eine niedrige Plattform, um Waren vom Boden fernzuhalten").
+entry(stillman, n, [stillmen], "eine Person, die eine Brennerei betreibt").
+entry(stillson, n, [stillsons], "ein großer Schraubenschlüssel ein Werkzeug zum Greifen und Drehen").
+entry(stilly, adj, [], "STILLER STILLSTEstill").
+Eintrag(stelze, v, [stelzenförmig,stelzend,stelzen], "auf Stelzen heben lange schlanke Stangen").
+entry(stime, n, [Zeitpunkte], "ein Blick").
+Eintrag(reiz, n, [reize], "etwas, das eine Reaktion auslöst").
+Eintrag(stimy, v, [stimied,stimying,stimies], "to stymie").
+entry(stich, v, [gestochen, stechend, sticht], "schmerzhaft stechen").
+Eintrag(stinge, n, [stinges], "eine geizige oder fiese Person").
+entry(stachel, n, [stacheln], "eins, das sticht").
+entry(geiziger, komparativ, [], "von geizig").
+Eintrag(knickrigste, Superlativ, [], "von knauserig").
+entry(geizig, adv, [], "auf geizige Weise").
+entry(stingo, n, [stingos], "ein starkes Ale oder Bier").
+entry(stachelrochen, n, [stachelrochen], "ein flachkörperiger Meeresfisch").
+entry(geizig, adj, [], "GEIZIGER AM GEIZIGSTENunwillig zu ausgeben oder geben").
+entry(stinken, v, [gestunken, stinkend, stinkt], "einen üblen Geruch verbreiten").
+entry(stinkard, n, [stinkards], "eine verachtenswerte Person").
+Eintrag(stinkkäfer, n, [stinkkäfer], "ein Insekt, das einen schlechten Geruch absondert").
+entry(stinker, n, [stinker], "eine Person oder Sache, die stinkt").
+entry(stinko, adj, [], "betrunken").
+Eintrag(stinkpot, n, [stinkpots], "ein Gefäß mit übelriechenden Brennstoffen, das früher im Krieg verwendet wurde").
+entry(stinky, adj, [], "STINKENDER STINKENDSTemit einem üblen Geruch").
+Eintrag(stint, v, [stinted, stinting, stints], "begrenzen").
+Eintrag(stinter, n, [stinters], "einer, der geizt").
+Eintrag(stipe, n, [stipes], "ein schlanker stützender Teil einer Pflanze STIPED adj").
+entry(stipel, n, [stipeln], "eine kleine Stipula").
+entry(stipendium, n, [stipendien], "ein fester Geldbetrag, der regelmäßig gezahlt wird").
+entry(stipes, n, [stipites], "ein Stiel").
+entry(stipple, v, [getupft, tupfend, tupft], "durch Punkte oder kurze Striche malen, zeichnen oder gravieren").
+entry(stippler, n, [stipplers], "einer, der tupft").
+entry(stipule, n, [stipulen], "ein Anhang am Grund eines Blattes bei bestimmten PflanzenSTIPULAR STIPULAR adj").
+Eintrag(rühren, v, [gerührt, rührend, rührt], "ein Werkzeug in kreisenden Bewegungen hindurchführen").
+entry(stirk, n, [junge K\u{u}he], "ein junges Rind").
+Eintrag(stirp, n, [stirps], "Stammbaum").
+entry(stirps, n, [stirpes], "eine Familie oder ein Familienzweig").
+entry(gerührt, vergangenheit, [], "zeitform von rühren").
+entry(stirrer, n, [Rührer], "jemand, der umrührt").
+entry(rühren, n, [rührungen], "ein beginn der bewegung").
+entry(steigbügel, n, [steigbügel], "eine Unterstützung für den Fuß eines Reiters").
+entry(stitch, v, [genäht, nähen, näht], "durch Hin- und Herbewegungen mit einer eingefädelten Nadel verbinden").
+Eintrag(stitcher, n, [stitchers], "eine, die näht").
+Eintrag(stithy, v, [stithied,stithying,stithies], "auf einem Amboss schmieden").
+entry(stiver, n, [stivers], "eine ehemals verwendete niederländische Münze").
+entry(stoa, n, [stoae], "oder STOAI oder STOAS ein altes griechisches überdachtes Wandelgang").
+Eintrag(stoat, n, [stoats], "ein Marder mit schwarzer Schwanzspitze").
+Eintrag(stob, v, [stobbed, stobbing, stobs], "erstechen").
+entry(stoccado, n, [stoccados], "ein Stich mit einem Rapier").
+Eintrag(stoccata, n, [stoccatas], "stoccado").
+entry(bestand, v, [gelagert, lagernd, bestände], "für zukünftigen Verkauf oder Gebrauch aufbewahren").
+entry(stockade, v, [eingezäunt, umzäunend, umzäunen], "eine Art von Schutzzaun bauen").
+entry(lagerbestand, n, [lagerbestände], "die Menge der vorhandenen Vorräte").
+entry(stockcar, n, [Viehtransporter], "ein Güterwagen zum Transport von Vieh").
+Eintrag(stocker, n, [stockers], "ein junges Tier, das sich zum Mästen für den Markt eignet").
+entry(stämmiger, komparativ, [], "von stämmig").
+entry(stämmigsten, superlativ, [], "von stämmig").
+entry(stämmig, adv, [], "auf stämmige Weise").
+entry(strumpf, n, [struempfe], "eine gestrickte oder gewebte Bedeckung für Fuß und Bein").
+entry(stockish, adj, [], "dumm").
+Eintrag(stockist, n, [Lagerhalter], "einer, der Waren lagert").
+entry(stockmann, n, [stockmänner], "jemand, der Vieh besitzt oder züchtet").
+entry(suppentopf, n, [suppentöpfe], "ein Topf, in dem Brühe zubereitet wird").
+Eintrag(stämmig, adj, [], "DICKER DICKESThaben einen kurzen dicken Körper").
+entry(stodge, v, [stodged,stodging,stodges], "vollstopfen mit Essen").
+entry(gediegen, adj, [], "GEDIEGENER GEDIEGENSTlangweiligGEDIEGENER adv").
+entry(stogey, n, [stogeys], "Stogie").
+Eintrag(stogie, n, [stogies], "stogy").
+Eintrag(stogy, n, [stogies], "eine lange schlanke Zigarre").
+Eintrag(stoiker, n, [stoiker], "jemand, der gleichgültig gegenüber Freude oder Schmerz istSTOISCH adj").
+entry(stoa, n, [stoizismen], "Gleichgültigkeit gegenüber Freude oder Schmerz").
+Eintrag(stoke, v, [stoked,stoking,stokes], "einen Ofen mit Brennstoff versorgen").
+Eintrag(heizer, n, [heizer], "einer, der heizt").
+Eintrag(stokesia, n, [stokesias], "eine mehrjährige Kräuterpflanze").
+entry(gestohlen, n, [gestohlene], "ein langer breiter SchalGESTOHLEN adj").
+Eintrag(gestohlen, vergangenheit, [], "Partizip von stehlen").
+Eintrag(stolid, adj, [], "STOLIDER STOLIDESTzeigt wenig oder keine EmotionSTOLIDLY adv").
+entry(stollen, n, [stollens], "ein süßes Brot").
+entry(„Stolon“, n, [„Stolone“], „eine Art Pflanzenstiel STOLONIC adj“).
+Eintrag(stolport, n, [stolhäfen], "Ein Flughafen für Flugzeuge, die vergleichsweise kurze Start- und Landebahnen benötigen").
+entry(stoma, n, [Stomata], "oder STOMATA eine kleine Öffnung in der Epidermis eines Pflanzenorgans").
+entry(magen, v, [gemagen, magenierend, mägen], "erdulden").
+entry(stomachy, adj, [], "bauchig").
+entry(stomal, adj, [], "stomatär").
+entry(stomata, a, [], "Pl. von Stoma").
+entry(stomatal, adj, [], "ein Stoma betreffend").
+Eintrag(spaltöffnungen, n, [spaltöffnungen], "ein Spalt").
+entry(stomatic, adj, [], "den Mund betreffend").
+entry(stomodea, npl, [], "embryonale Mundhöhlen").
+entry(stomp, v, [gestampft,stampfend,stampft], "schwer auftreten").
+entry(stomper, n, [Stampfer], "einer, der stampft").
+entry(stompy, adj, [], "STOMPIER STOMPIESTförderlich zum Stampfen der Füße").
+Eintrag(stein, v, [gesteinigt,steinigend,steine], "mit Steinen zu bewerfen, Stücken von verfestigter erdiger oder mineralischer MaterieSTEINBAR adj").
+entry(steinschnitt, n, [steinschnitte], "ein Druck, der von einem auf einem Stein gravierten Bild gefertigt wurde").
+Eintrag(Steinfliege, n, [Steinfliegen], "ein geflügeltes Insekt").
+Eintrag(stoner, n, [Steinewerfer], "einer, der Steine wirft").
+Eintrag(stoney, adj, [], "STONIER STONIESTstony").
+entry(stonier, komparativ, [], "von steinig").
+entry(stoniest, superlativ, [], "von stony").
+Eintrag(stonily, adv, [], "auf steinige Weise").
+Eintrag(Steinigung, Präsens, [], "Partizip von stone").
+entry(stonish, v, [stonished,stonishing,stonishes], "erstaunen").
+entry(stonk, v, [stonked, stonking, stonks], "mit Artilleriefeuer bombardieren").
+Eintrag(stonker, n, [stonkers], "etwas sehr Großes oder Beeindruckendes seiner Art").
+entry(stonking, adj, [], "bemerkenswert spannend").
+Eintrag(steinig, adj, [], "STEINIGER STEINIGSTE voller Steine").
+Eintrag(stand, Vergangenheit, [], "Zeitform von stehen").
+entry(stooge, v, [stooged, stooging, stooges], "als Komiker-Partner agieren").
+entry(stook, v, [gestookt,stookend,stooks], "Getreidebündel auf einem Feld zum Trocknen aufrecht stapeln").
+entry(stooker, n, [Stooker], "jemand, der Garben in Haufen aufstellt").
+entry(stooking, n, [stookings], "die Arbeit eines Stookers").
+entry(hocker, v, [gehockt, hockend, hocker], "kotzen").
+entry(verräter, n, [verräter], "ein Informant").
+entry(stoop, v, [sich bücken, sich biegend, sich bückt], "den Körper nach vorne und unten beugen").
+entry(stooper, n, [stoopers], "einer, der sich bückt").
+Eintrag(stop, v, [stopt,stoppen,stoppt], "den Fortschritt oder die Bewegung unterbrechen").
+entry(stopband, n, [Stopbands], "ein Frequenzband, das durch einen Filter begrenzt wird").
+entry(stopbank, n, [Dämme], "ein Damm entlang eines Flusses").
+entry(Absperrhahn, n, [Absperrhähne], "eine Art Wasserhahn").
+Eintrag(stope, v, [stoped, stoping, stopes], "in Schichten als Erz abbauen").
+entry(Stoper, n, [Stoper], "Einer, der stoppt").
+entry(stopgap, n, [notlösungen], "ein vorübergehender Ersatz").
+entry(stoping, n, [Stopings], "der Prozess des Abbaus in Schichten").
+entry(zwischenstopp, n, [zwischenstopps], "ein Zwischenstopp").
+entry(zwischenstopp, n, [zwischenstopps], "ein kurzer Halt im Verlauf einer Reise").
+entry(unterbrechung, n, [unterbrechungen], "der Akt des Anhaltens").
+entry(gestoppt, a, [], "Vergangenheit von stoppen").
+entry(stopper, v, [gestöpselt,stöpselnd,stöpsel], "stopfen").
+Eintrag(stopping, präsens, [], "Partizip von stop").
+Eintrag(stopple, v, [stoppled, stoppling, stopples], "stopfen").
+entry(stopt, a, [], "Vergangenheitsform von stop").
+entry(stopword, n, [stoppwörter], "ein häufig verwendetes Wort, das von Suchmaschinen nicht durchsucht wird").
+eintrag(speicherbar, n, [speicherbare], "etwas, das gespeichert werden kann").
+Eintrag(lager, n, [lager], "ein Ort zum Aufbewahren").
+entry(storax, n, [Storaxharze], "ein duftendes Harz").
+Eintrag(laden, v, [gelagert, lagern, lagert], "aufbewahren für zukünftige Nutzung").
+entry(lagerarbeiter, n, [lagerarbeiter], "ein Mann, der sich um gelagerte Waren kümmert").
+Eintrag(storer, n, [storers], "einer, der speichert").
+Eintrag(geschoss, n, [geschosse], "eine horizontale Unterteilung eines GebäudesGESCHOSSIG adj").
+Eintrag(erzählte, Vergangenheit, [], "Form von Geschichte").
+Eintrag(Geschichten, Präsens, [], "3. Person Singular von Geschichte").
+Eintrag(speichern, präsens, [], "Partizip von speichern").
+Eintrag(storch, n, [stoerche], "ein Watvogel").
+Eintrag(sturm, v, [stürmte,stürmend,stürmt], "heftig blasen").
+Eintrag(stormy, adj, [], "STÜRMISCHER STÜRMISCHSTE stürmend STÜRMISCH adv").
+entry(geschichte, v, [erzählte,erzählend,geschichten], "eine Erzählung über ein Ereignis oder eine Reihe von Ereignissen").
+entry(stoss, adj, [], "in die Richtung blickend, aus der sich ein Gletscher bewegt").
+entry(stot, v, [stotted,stotting,stots], "mit einem steifen Gang hüpfen").
+Eintrag(stotin, n, [stotins], "oder STOTIN eine ehemalige Währungseinheit Sloweniens").
+entry(stotinka, n, [stotinki], "eine Währungseinheit Bulgariens").
+Eintrag(stott, v, [stotted, stotting, stotts], "stottern").
+Eintrag(stound, v, [stounded, stounding, stounds], "schmerzen").
+entry(stoup, n, [stoups], "ein Becken für Weihwasser").
+Eintrag(stour, n, [stours], "Staub").
+entry(stoure, n, [stoures], "Sturm").
+Eintrag(stourie, adj, [], "stoury").
+Eintrag(stoury, adj, [], "staubig").
+Eintrag(stark, adj, [], "STÄRKER STÄRKSTEmoll").
+entry(stout, n, [stouts], "ein starkes dunkles Bier").
+Eintrag(stouten, v, [stoutened, stoutening, stoutens], "stark machen").
+entry(stämmig, adj, [], "etwas stämmig").
+Eintrag(stoutly, adv, [], "auf kräftige Weise").
+Eintrag(Ofen, v, [aufgeheizt, aufheizend, aufheizt], "etwas in einem Heizgerät erhitzen").
+Eintrag(stover, n, [stovers], "grobkörniges Futter für Vieh").
+Eintrag(kochfeld, n, [kochfelder], "die obere Fläche eines Kochgeräts").
+entry(stow, v, [verstaut,verstauend,verstaut], "verstaubar adj").
+entry(stauung, n, [stauungen], "Ware im Lager").
+Eintrag(blinderPassagier, n, [blindePassagiere], "jemand, der sich an Bord eines Fahrzeugs versteckt, um eine kostenlose Fahrt zu erhalten").
+Eintrag(stowp, n, [stowps], "stoup").
+entry(spagat, v, [spagatiert,spagatierend,spagatiert], "sitzen, stehen oder gehen mit weit auseinander stehenden Beinen").
+entry(strafe, v, [strafed,strafing,strafes], "mit Maschinengewehrfeuer aus einem Flugzeug angreifen").
+entry(strafer, n, [strafers], "jemand, der im Tiefflug angreift").
+entry(straggle, v, [herumgetrottet,herumtrottend,herumtrotteln], "umherziehen").
+entry(straggly, adj, [], "UNREGELMÄSSIGER UNREGELMÄSSIGST unregelmäßig verteilt").
+Eintrag(gerade, adj, [], "GERADER AM GERADSTENzieht sich gleichmäßig in eine Richtung ohne Biegungen oder Unregelmäßigkeiten").
+entry(gerade, v, [geradegemacht,gerademachend,gerademacht], "gerade machen").
+Eintrag(dehnung, v, [gedehnt, dehnen, dehnt], "bis zum Äußersten anstrengen").
+entry(sieb, n, [siebe], "ein Utensil, das verwendet wird, um Flüssigkeiten von Feststoffen zu trennen").
+Eintrag(meerenge, adj, [], "ENGER ENGSTEnarrowSTRAITLY adv").
+Eintrag(Meerenge, n, [Meerengen], "ein enger Wasserweg, der zwei größere Gewässer verbindet").
+entry(straiten, v, [straitened,straitening,straitens], "enger machen").
+entry(strake, n, [strakes], "eine Plankenlinie, die sich entlang des Schiffsrumpfes erstrecktSTRAKED adj").
+entry(stramash, n, [stramashes], "ein Aufruhr").
+entry(stramonium, n, [stramonien], "ein giftiges Unkraut").
+entry(strand, v, [gestrandet,einsperrend,stränge], "in eine ungünstige Situation zurücklassen").
+entry(strander, n, [stranders], "eine Maschine, die Fasern zu Seilen verdreht").
+entry(strang, adj, [], "stark").
+Eintrag(seltsam, n, [seltsames], "ein grundlegendes Quark").
+Eintrag(seltsam, adj, [], "FREMDER SELTSAMSTunüblich oder unbekannt").
+Eintrag(fremder, v, [entfremdet, entfremdend, fremde], "entfremden").
+entry(würgen, v, [würgte, würgend, würgt], "zu Tode würgen").
+entry(strap, v, [festgeschnallt, anschnallen, gurte], "mit einem Riemen, einem schmalen Streifen flexiblen Materials, befestigen").
+entry(strapper, n, [Spanner], "einer, der festzieht").
+entry(strappy, adj, [], "MIT TRÄGERN STRAPPIER STRAPPIEST").
+entry(strass, n, [strass], "ein brillantes Glas, das zur Herstellung von Imitationssteinen verwendet wird").
+Eintrag(strata, n, [stratas], "ein Gericht aus abwechselnden Schichten von Lebensmitteln").
+Eintrag(stratal, adj, [], "zu einem Stratum gehörend").
+eintrag(strategie, n, [strategien], "ein Plan zur Erreichung eines bestimmten Ziels").
+entry(strath, n, [straths], "ein breites Flusstal").
+Eintrag(strati, pl, [], "von Stratus").
+entry(stratifizieren, v, [stratifizierte, stratifizierend, stratifiziert], "in Schichten anordnen oder formen").
+entry(stratous, adj, [], "stratale").
+Eintrag(stratum, n, [stratums], "oder STRATA eine Schicht von Material").
+Eintrag(stratus, n, [strati], "oder STRATUSESeine Art von Wolke").
+Eintrag(stravage, v, [stravaged, stravaging, stravages], "spazieren").
+Eintrag(stravaig, v, [stravaiged, stravaiging, stravaigs], "umherstreifen").
+entry(Straw, v, [strawed, strawing, straws], "mit Strohhalmen von gedroschenem Getreide bedecken").
+entry(strohhut, adj, [], "bezüglich eines Sommertheaters in einem Feriengebiet").
+entry(strawy, adj, [], "STROHIGER STROHIGSTeinem Stroh ähnelnd").
+entry(streunen, v, [streunte, streunend, streunt], "von dem richtigen Bereich oder Kurs abweichen").
+entry(strayer, n, [Streuner], "einer, der umherirrt").
+Eintrag(streifen, v, [gestreift, streifend, streifen], "mit langen schmalen Markierungen überziehen").
+entry(streaker, n, [Flitzer], "einer, der nackt durch die Gegend rennt").
+entry(streaky, adj, [], "STREIFIGER STREIFIGSTE mit Streifen bedeckt").
+Eintrag(strom, v, [geströmt,strömend,strömt], "in gleichmäßigem Fluss fließen").
+Eintrag(streamer, n, [streamers], "eine lange schmale Fahne").
+entry(streamy, adj, [], "STREAMIER STREAMIESTstreaming").
+entry(streek, v, [streckte, streckend, streckt], "dehnen").
+entry(streeker, n, [streekers], "jemand, der sich streckt").
+entry(streel, v, [gestreelt,streelnd,streelt], "schlendern").
+entry(straße, n, [straßen], "eine öffentliche StraßeSTREETED adj").
+Eintrag(stärke, n, [stärken], "Fähigkeit zur Anstrengung oder Ausdauer").
+entry(strep, n, [Streptokokken], "beliebige kugelförmige oder ovale Bakterien").
+Eintrag(Stress, v, [gestresst, stressend, stresst], "betonen").
+Eintrag(stressor, n, [stressoren], "eine Art von Stimulus").
+Eintrag(streichen, v, [gestreckt, strecken, streckt], "in die volle Länge ziehen oder öffnen").
+entry(stretchy, adj, [], "STRETCHIER STRETCHIESTeine Tendenz zu dehnen").
+Eintrag(stretta, n, [strettas], "oder STRETTEstretto").
+entry(stretto, n, [strettos], "oder STRETTIMusikalischer Schlussteil in schnellerem Tempo gespielt").
+entry(streusel, n, [streusel], "ein Belag für Kaffeeschnitten").
+entry(strew, v, [strewed,strewn,strewing], "VERSTREUENZum Verstreuen").
+eintrag(strewer, n, [strewers], "jemand, der streut").
+Eintrag(stria, n, [striae], "eine dünne Rille Streifen oder Streifen").
+entry(streifig, v, [gestreift,streifend,streift], "mit Streifen markieren").
+Eintrag(striatum, n, [striata], "eine Masse von Nervengewebe im GehirnSTRIATAL Adj").
+entry(strick, n, [stricks], "ein Bündel Flachsfasern").
+entry(stricken, adj, [], "stark betroffen oder gebeutelt").
+Eintrag(strickle, v, [strickled, strickling, strickles], "glätten oder formen mit einem Strickle, einem Instrument zum Abziehen von Getreide").
+Eintrag(strict, adj, [], "STRENGER STRENGER AM STRENGSTEN innerhalb enger und spezifischer Grenzen gehalten STRICTLY adv").
+entry(stride, v, [strode,stridden,striding], "STRIDEjmd. mit langen Schritten gehen").
+entry(strident, adj, [], "schrill").
+Eintrag(strider, n, [striders], "einer der schreitet").
+entry(striding, praesens, [], "Partizip von stride").
+Eintrag(stridor, n, [stridors], "ein schriller Ton").
+entry(streit, n, [streitereien], "bitterer Konflikt oder Zwietracht").
+Eintrag(strigil, n, [Strigile], "ein Schabinstrument").
+entry(strigose, adj, [], "mit kurzen steifen Haaren bedeckt").
+entry(strike, v, [schlagen,schlagend,schlägt], "heftig treffen").
+Eintrag(stürmer, n, [stürmer], "jemand, der schlägt").
+entry(schlagen, n, [schläge], "der Akt, etwas mit Gewalt zu treffen").
+entry(strine, n, [strinese], "Englisch, wie es in Australien gesprochen wird").
+Eintrag(string, v, [besaitet,besaiten,saiten], "mit Saiten oder schlanken Schnüren versehen").
+entry(stringer, n, [Stringer], "jemand, der aufzieht").
+entry(stringy, adj, [], "STRINGIGER STRINGIGSTresembling a string or strings").
+Eintrag(strip, v, [stript,stripping,strips], "die äußere Abdeckung entfernen").
+entry(stripe, v, [gestreift,streifend,streifen], "mit langen, deutlichen Streifen markieren").
+entry(gestreifter, n, [gestreifte], "ein Speise- und Sportfisch").
+entry(stripey, adj, [], "GESTREIFTER GESTREIFTESTENgestreift").
+entry(stripier, komparativ, [], "gestreifter").
+entry(stripiest, superlativ, [], "von gestreift").
+entry(streifen, n, [streifen], "die Streifen, die auf etwas markiert oder gemalt sind").
+entry(entkleidet, a, [], "Vergangenheitsform von entkleiden").
+entry(entferner, n, [entferner], "einer, der entfernt").
+entry(entstreifend, präsens, [], "Partizip von entstreifen").
+Eintrag(stript, a, [], "Vergangenheit von strip").
+entry(stripy, adj, [], "GESTREIFT GESTREIFT-markiert mit Streifen").
+entry(streben, v, [strebte,gestrebt,strebend], "STREBENanstrengendes Bemühen oder Energieaufwand").
+Eintrag(striver, n, [strivers], "einer, der sich bemüht").
+Eintrag(strobe, v, [strobed, strobing, strobes], "um kurze, hochintensive Lichtblitze zu erzeugen").
+entry(strobic, adj, [], "rotierend").
+entry(strobil, n, [Zapfen], "Zapfen").
+Eintrag(strobila, n, [strobilae], "der gesamte Körper eines Bandwurms").
+Eintrag(strobile, n, [strobiles], "die kegelförmige Sammelfrucht bestimmter Bäume").
+entry(strobili, npl, [], "Strobilen").
+Eintrag(stroboskopieren, n, [Stroboskope], "der Prozess der Erzeugung von hochintensiven Lichtblitzen").
+Eintrag(strode, a, [], "Vergangenheit von schreiten").
+Eintrag(streicheln, v, [gestreichelt, streichelnd, streichelt], "sanft reiben").
+Eintrag(stroker, n, [strokers], "einer, der streichelt").
+entry(spazieren, v, [spazierte,spazierend,spaziert], "gemütlich gehen").
+entry(Kinderwagen, n, [Kinderwagen], "jemand, der spaziert").
+entry(stroma, n, [stromata], "die Substanz, die das Gerüst eines Organs oder einer Zelle bildetSTROMAL adj").
+Eintrag(stark, adj, [], "STÄRKER STÄRKSTAMhaving große StärkeSTARK adv").
+Eintrag(strongyl, n, [strongyls], "ein parasitärer Wurm").
+entry(strontia, n, [strontias], "eine chemische VerbindungSTRONTISCH adj").
+entry(strook, a, [], "Vergangenheitsform von 'strike'").
+Eintrag(strop, v, [stropped, stropping, strops], "auf einem Lederstreifen schärfen").
+entry(strophe, n, [Strophen], "ein Teil einer antiken griechischen ChoralodeSTROPHISCH adj").
+entry(stropper, n, [Schleifer], "einer, der schleift").
+Eintrag(stroppy, adj, [], "STROPPIER STROPPIESTunruly").
+Eintrag(stroud, n, [strouds], "eine grobe Wollene Decke").
+entry(strove, a, [], "Vergangenheit von 'strive'").
+entry(strow, v, [strowed,strown,strowing], "STREUENZu verstreuen").
+entry(stroy, v, [stroyed,stroying,stroys], "zerstören").
+entry(stroyer, n, [stroyers], "jemand, der zerstört").
+Eintrag(struck, a, [], "Vergangenheit von strike").
+entry(strucken, a, [], "Partizip Perfekt von strike").
+entry(strudel, n, [Strudel], "eine Art Gebäck").
+entry(struggle, v, [kämpfte,kämpfend,kämpft], "große Anstrengungen gegen Widerstand unternehmen").
+entry(strum, v, [strummed, strumming, strums], "ein Saiteninstrument spielen, indem man die Finger leicht über die Saiten bewegt").
+entry(struma, n, [strumas], "oder STRUMAEscrofula").
+Eintrag(strummer, n, [strummers], "einer, der zupft").
+Eintrag(anschlagend, Präsens, [], "Partizip von strum").
+Eintrag(strumose, adj, [], "einen Kropf haben").
+entry(strumous, adj, [], "einen Kropf habend oder betreffend").
+entry(hure, n, [huren], "eine Prostituierte").
+entry(strung, a, [], "Vergangenheit von string").
+Eintrag(strunt, v, [strunted,strunting,strunts], "stolzieren").
+entry(stolzieren, v, [stolzierte, stolzieren, stolziert], "mit einem pompösen Auftreten gehen").
+eintrag(strutter, n, [strutters], "einer, der stolziert").
+Eintrag(stub, v, [stubbed, stubbing, stubs], "versehentlich gegen ein hervorstehendes Objekt stoßen").
+entry(stubbier, komparativ, [], "von stämmig").
+entry(stubbiest, superlative, [], "von stumpf").
+entry(stubbily, adv, [], "auf stämmige Weise").
+Eintrag(stubbing, prasens, [], "Partizip von stub").
+Eintrag(stoppel, n, [stoppeln], "ein kurzer, rauer Bartwuchs; STOPPELIG adj").
+entry(stubbly, adj, [], "STUBBLIER STUBBLIESTbedeckt mit Stoppeln").
+entry(unnachgiebig, adj, [], "UNNACHGIEBIGER UNNACHGIEBIGSTEunbeugsam").
+Eintrag(stubby, adj, [], "STUBBIER STUBBIESTkurz und dickSTUBBILY adv").
+entry(stubby, n, [Stubby's], "eine kurze, gedrungene Bierflasche").
+entry(stuckatur, v, [stuckiert,stuckierend,stucke], "oder STUCKATUR, mit einer Art von Putz beschichten").
+entry(stuckateur, n, [stuckateure], "einer, der stuckiert").
+entry(steckte, vergangenheit, [], "zeitform von stecken").
+entry(stud, v, [studded, studding, studs], "dicht mit kleinen Vorsprüngen besetzen").
+entry(studbook, n, [Zuchtbücher], "ein Verzeichnis des Stammbaums von reinrassigen Tieren").
+Eintrag(studdie, n, [studdies], "ein Amboss").
+entry(studding, n, [verwandlungen], "das Gerüst einer Wand").
+entry(student, n, [Studenten], "eine Person, die formell im Lernen engagiert ist").
+entry(studfish, n, [Studfische], "ein Süßwasserfisch").
+Eintrag(studiert, Vergangenheit, [], "Zeitform von studieren").
+entry(studier, n, [Studiers], "jemand, der studiert").
+entry(studiert, präsens, [], "3. Person Singular von studieren").
+Eintrag(studio, n, [Studios], "ein Künstlerarbeitsraum").
+entry(fleißig, adj, [], "zum Studium neigend").
+Eintrag(studly, adj, [], "STUDLIER STUDLIESTmuskelbepackt und attraktiv").
+Eintrag(studwork, n, [studworks], "studding").
+entry(studieren, v, [studierte,studierend,studiert], "den Geist auf die Aneignung von Wissen anzuwenden").
+Eintrag(sachen, v, [gestopft,stopfen,sachen], "fest füllen oder packen").
+Eintrag(stopfer, n, [stopfer], "einer der stopft").
+entry(befüllung, n, [befüllungen], "material, mit dem etwas befüllt wird").
+Eintrag(stuffy, adj, [], "STOFFIGER STOFFIGSTmangelhaft belüftetSTOFFIG adv").
+Eintrag(stuiver, n, [stuivers], "stiver").
+entry(stull, n, [stulls], "ein stützender Balken in einem Bergwerk").
+entry(betäuben, v, [betäubt,betäubend,betäubt], "zu bewirken, dass etwas absurd erscheint").
+Eintrag(stum, v, [gestummt, stummend, stummt], "die Gärung durch Zugabe von Traubensaft verstärken").
+entry(stolpern, v, [gestolpert,stolpernd,stolpert], "einen Fehltritt beim Gehen oder Laufen machen").
+entry(stolperer, n, [stolperer], "einer, der stolpert").
+Eintrag(stump, v, [gestumpft, stumpfend, Stümpfe], "täuschen").
+entry(stumpage, n, [stumpages], "nicht geschnittenes vermarktbares Holz").
+Eintrag(stumper, n, [stumpers], "eine verblüffende Frage").
+Eintrag(stumpy, adj, [], "STUMPIER STUMPIESTkurz und dickSTUMPILY adv").
+Eintrag(stun, v, [stunned, stunning, stuns], "um sinnlos oder handlungsunfähig zu machen").
+Eintrag(stach, vergangenheit, [], "zeitform von sting").
+entry(stunk, a, [], "Vergangenheit von stink").
+entry(umwerfend, n, [umwerfende], "jemand, der verblüfft").
+entry(stagsegel, n, [stagsegeln], "eine Art von Segel").
+entry(Stunt, v, [Stuntete, Stuntend, Stunts], "Das normale Wachstum behindern").
+entry(stuntman, n, [stuntmen], "eine Person, die einen Schauspieler in Szenen mit gefährlichen Aktivitäten vertritt").
+entry(stupa, n, [stupas], "ein buddhistischer Schrein").
+Eintrag(stupe, n, [stupes], "ein mit Medikamenten getränktes Tuch, das auf eine Wunde aufgelegt wird").
+entry(benommen, v, [benommen, benommenmachend, benommenmacht], "die Sinne benebeln").
+Eintrag(dumm, adj, [], "DÜMMER DÜMMSTEgeistig langsamDUMMERWEISE adv").
+entry(dumm, n, [dumme], "eine dumme Person").
+eintrag(stupor, n, [stupors], "ein Zustand verminderter Empfindsamkeit").
+entry(sturdy, adj, [], "STÄRKER STÄRKSTESTark und haltbarSTABIL adv").
+Eintrag(robust, n, [Robuste], "eine Krankheit der Schafe ROBUSTED adj").
+entry(stör, n, [störe], "ein essbarer Fisch").
+entry(sturt, n, [sturts], "Auseinandersetzung").
+Eintrag(stottern, v, [stotterte,stotternd,stottert], "mit krampfhaften Wiederholungen sprechen").
+entry(sty, v, [styed,stying,sties], "in einem Schweinestall halten").
+entry(hagelkorn, n, [hagelkörner], "eine entzündete Schwellung des Augenlids").
+Eintrag(stygian, adj, [], "düster").
+entry(stylar, adj, [], "einen Stylus betreffend").
+Eintrag(stylate, adj, [], "ein Stilett tragend").
+Eintrag(stil, v, [gestyled,styling,stile], "benennen").
+Eintrag(styler, n, [styler], "einer, der stylt").
+entry(stylet, n, [Stylets], "ein kleiner steifer Organ oder Anhang bestimmter Tiere").
+Eintrag(styli, a, [], "pl von Stylus").
+Eintrag(styling, n, [stylings], "die Art und Weise, wie etwas gestaltet ist").
+entry(stilisieren, v, [stilisiert,stilisierend,stilisiert], "zu stilisieren").
+entry(styliser, n, [Stilisierer], "einer, der stilisiert").
+entry(schick, adj, [], "modisch").
+Eintrag(stylist, n, [Stylisten], "einer, der ein Meister eines literarischen oder rhetorischen Stils ist").
+entry(stylite, n, [styliten], "ein frühchristlicher AsketSTYLITIC adj").
+Eintrag(stilisieren, v, [stilisiert,stilisieren,stilisiert], "konventionell machen").
+Eintrag(stylizer, n, [stylizers], "einer, der stilisiert").
+entry(styloid, n, [styloide], "ein schlanker Knochenvorsprung").
+Eintrag(stylopid, n, [stylopiden], "ein Stylop").
+entry(stylops, n, [stylops], "ein Insekt, das ein Parasit von anderen Insekten ist").
+Eintrag(stylus, n, [styluses], "oder STYLIein spitzes Instrument zum Schreiben, Markieren oder Gravieren").
+Eintrag(stymie, v, [gestoppt, blockierend, blockiert], "vereiteln").
+Eintrag(sty-mie, v, [abgeblockt, blockiert, blockiert], "behindern").
+entry(stypsis, n, [Stypsises], "die Verwendung eines styptischen Mittels").
+Eintrag(Styptikum, n, [Styptika], "Eine Substanz zur Blutstillung").
+entry(styrax, n, [styraxe], "Storaxbaum").
+entry(styrol, n, [styrole], "ein flüssiger Kohlenwasserstoff").
+entry(suable, adj, [], "klagefähig (fähig, verklagt zu werden) SUABLY adv").
+entry(überredung, n, [überredungen], "persuasionSUASIVE SUASORY adj").
+entry(suave, adj, [], "GLÄTTER AM GLÄTTENsanft höflich und zuvorkommendGLÄTT adv").
+entry(sanftheit, n, [sanftheiten], "der Zustand, geschmeidig zu sein").
+entry(sub, v, [ersetzt,ersetzend,ersetzen], "als Ersatz handeln").
+Eintrag(suba, n, [subas], "subah").
+Eintrag(subabt, n, [subabts], "ein untergeordneter Abt").
+entry(subacid, adj, [], "leicht sauer").
+Eintrag(subacrid, adj, [], "etwas ätzend").
+entry(subakut, adj, [], "etwas akut").
+entry(subadar, n, [subadars], "Subahdar").
+Eintrag(subadult, n, [Suberwachsene], "ein Individuum, das sich dem Erwachsenenalter nähert").
+Eintrag(subagent, n, [subagents], "ein untergeordneter Agent").
+entry(subah, n, [subahs], "eine Provinz von Indien").
+Eintrag(subahdar, n, [subahdars], "ein Gouverneur eines Subahs").
+entry(subalar, adj, [], "unter den Flügeln gelegen").
+entry(teilgebiet, n, [teilgebiete], "eine Unterteilung eines Gebiets").
+entry(subarid, adj, [], "etwas trocken").
+Eintrag(subatom, n, [Teilatome], "eine Komponente eines Atoms").
+entry(subaural, adj, [], "kaum hörbar").
+entry(subaxial, adj, [], "etwas axial").
+Eintrag(subbase, n, [unterbasen], "der unterste Teil einer Basis").
+Eintrag(unterbecken, n, [unterbecken], "ein Abschnitt eines Gebietes, das von einem Fluss entwässert wird").
+Eintrag(subbass, n, [subbässe], "ein Pedalstopp, der die tiefsten Töne einer Orgel erzeugt").
+Eintrag(subbed, vergangenheit, [], "Zeitform von sub").
+entry(subbing, n, [Untergrundierungen], "eine dünne Beschichtung auf dem Träger eines fotografischen Films").
+Eintrag(subblock, n, [Teilblöcke], "eine Unterteilung eines Blocks").
+Eintrag(unterrasse, n, [unterrassen], "ein unterscheidbarer Stamm innerhalb einer Rasse").
+Eintrag(subkaste, n, [subkasten], "eine Unterteilung einer Kaste").
+Eintrag(subcause, n, [nebensursachen], "eine untergeordnete Ursache").
+entry(subzell, n, [subzellen], "eine Unterteilung einer Zelle").
+Eintrag(subchief, n, [subchiefs], "ein untergeordneter Häuptling").
+entry(subclaim, n, [subclaims], "ein untergeordneter Anspruch").
+Eintrag(subclan, n, [subclans], "eine Unterteilung eines Clans").
+entry(unterklasse, v, [unterklassiert,unterklassieren,unterklassen], "in eine Unterteilung einer Klasse einordnen").
+Eintrag(unterbeamter, n, [unterbeamte], "ein untergeordneter Beamter").
+Eintrag(subcode, n, [subcodes], "eine Unterteilung eines Codes").
+Eintrag(subcool, v, [unterkühlt, unterkühlend, unterkühlt], "unter den Gefrierpunkt abkühlen, ohne zu erstarren").
+Eintrag(subkult, n, [subkulte], "eine Untergruppe eines Kultes").
+entry(subcutis, n, [subkutises], "oder SUBCUTISder tiefere Teil der Dermis").
+Eintrag(subdekan, n, [subdekane], "ein untergeordneter Dekan").
+Eintrag(subdeb, n, [subdebs], "ein Mädchen im Jahr bevor sie eine Debütantin wird").
+Eintrag(subdepot, n, [subdepots], "ein Militärdepot, das unter der Gerichtsbarkeit eines anderen Depots betrieben wird").
+entry(unterwerfung, n, [unterwerfungen], "der Akt des Unterwerfens").
+Eintrag(subduce, v, [subduced, subducing, subduces], "wegnehmen").
+Eintrag(subduzieren, v, [subduziert, subduzierend, subduziert], "subduzieren").
+entry(unterwerfen, v, [unterwarf,unterwerfend,unterwirft], "unter Kontrolle bringen").
+Eintrag(subduer, n, [subduers], "einer, der unterwirft").
+entry(subdural, adj, [], "unter der harten Hirnhaut gelegen").
+Eintrag(unterzwerg, n, [unterzwerge], "ein smala smalof von relativ niedriger Leuchtkraft").
+Eintrag(subecho, n, [subechoes], "ein minderwertiges Echo").
+entry(subedit, v, [subedited,subediting,subedits], "als stellvertretender Redakteur fungieren").
+Eintrag(Untereintrag, n, [Untereinträge], "ein Eintrag, der unter einem allgemeineren Eintrag erfolgt").
+Eintrag(unterepoche, n, [unterepochen], "eine Unterteilung einer Epoche").
+entry(suber, n, [suber], "Phellem").
+entry(suberect, adj, [], "fast aufrecht").
+Eintrag(suberisch, Adj, [], "bezüglich Kork").
+entry(suberin, n, [suberins], "eine Substanz, die in Korkzellen vorkommt").
+entry(suberise, v, [suberised,suberising,suberises], "suberisieren").
+entry(suberisieren, v, [suberisiert, suberisierend, suberisiert], "in Korkgewebe umwandeln").
+entry(suberose, adj, [], "korkig").
+Eintrag(suberous, adj, [], "suberose").
+Eintrag(Teilfeld, n, [Teilfelder], "eine Teilmenge eines mathematischen Feldes, die selbst ein Feld ist").
+Eintrag(subdatei, n, [unterdateien], "eine Unterteilung einer Datei").
+entry(subfix, n, [Subfixe], "ein unterscheidendes Symbol oder Buchstabe, der unter einem anderen Zeichen geschrieben wird").
+entry(unterboden, n, [unterböden], "ein rauer Boden, der als Grundlage für einen fertigen Boden verlegt wird").
+entry(subfluid, adj, [], "etwas flüssig").
+Eintrag(Unterrahmen, n, [Unterrahmen], "ein Rahmen für die Befestigung eines Fertigrahmens").
+Eintrag(subfusc, n, [subfuscs], "dunkle matte Kleidung").
+Eintrag(subgenre, n, [subgenres], "eine Unterteilung eines Genres").
+Eintrag(untergattung, n, [untergattungen], "oder UNTERGATTUNGENeine Unterteilung einer Gattung").
+Eintrag(Unterziel, n, [Unterziele], "ein untergeordnetes Ziel").
+entry(untergrund, n, [untergründe], "eine Fläche, auf der ein Belag verlegt wird").
+Eintrag(Untergraph, n, [Untergraphen], "ein Graph, der in einem größeren Graph enthalten ist").
+Eintrag(untergruppe, v, [untergruppiert,untergruppierung,untergruppen], "in kleinere Gruppen einteilen").
+entry(subgum, n, [subgums], "ein chinesisches Gericht mit gemischtem Gemüse").
+Eintrag(untertitel, n, [untertitel], "die Überschrift eines Unterabschnitts").
+Eintrag(untermensch, n, [untermenschen], "einer, der weniger als menschlich ist").
+entry(subhumid, adj, [], "etwas feucht").
+entry(subidea, n, [subideen], "eine untergeordnete Idee").
+entry(subindex, n, [subindices], "oder SUBINDICESa suffix").
+Eintrag(unterelement, n, [unterelemente], "ein Element, das eine Unterteilung eines größeren Themas bildet").
+Eintrag(subito, adv, [], "schnell verwendet als musikalische Anweisung").
+Eintrag(subjekt, v, [subjektiert,subjektierend,subjektiert], "veranlassen zu erfahren").
+entry(subjoin, v, [subjoined,subjoining,subjoins], "am Ende hinzufügen").
+Eintrag(sublate, v, [sublated,sublating,sublates], "stornieren").
+Eintrag(Untermiete, v, [untermietet, untermietend, untermietet], "untervermieten").
+Eintrag(untermieten, v, [untermieten, untervermieten, untervermietet], "vermietetes Eigentum an eine andere Person vermieten").
+entry(sublevel, n, [sublevels], "eine niedrigere Ebene").
+entry(sublim, adj, [], "ERHABENER ERHABENSTEin erhobenes oder edles Niveau").
+entry(erhaben, v, [erhoben, erhobend, erhebt], "veredeln").
+entry(sublimer, n, [Sublimierer], "einer, der sublimiert").
+entry(sublimest, superlativ, [], "von erhaben").
+Eintrag(sublimit, n, [sublimits], "ein Limit innerhalb eines Limits").
+Eintrag(unterlinie, n, [unterlinien], "eine ingezüchtete Linie innerhalb eines Stammes").
+Eintrag(subparzelle, n, [subparzellen], "eine Unterteilung eines Grundstücks").
+entry(subunar, adj, [], "die Erde betreffend").
+Eintrag(untermenu, n, [untermenuen], "eine sekundäre Liste von Optionen für einen Computer").
+entry(untertauchen, v, [untertauchte,untertauchend,untertaucht], "unter die Oberfläche einer Flüssigkeit legen").
+entry(untertauchen, v, [untergetaucht,untertauchen,untertaucht], "eintauchen lassen").
+entry(submiss, adj, [], "geneigt zu unterwerfen").
+Eintrag(einreichen, v, [eingereicht,einreichend,einreicht], "sich der Macht eines anderen beugen").
+Eintrag(subnasal, adj, [], "unter der Nase gelegen").
+Eintrag(subnetz, n, [subnetze], "ein System von Verbindungen innerhalb eines Kommunikationssystems").
+Eintrag(subnische, n, [subnischen], "eine Unterteilung eines Lebensraums").
+Eintrag(subnodal, adj, [], "unter einem Knoten gelegen").
+entry(subozeanisch, adj, [], "unterhalb des Meeresbodens existierend").
+entry(suboptisch, adj, [], "unter den Augen gelegen").
+entry(suboral, adj, [], "unter dem Mund gelegen").
+Eintrag(unterordnung, n, [unterordnungen], "eine Kategorie verwandter Familien innerhalb einer Ordnung").
+entry(subornieren, v, [suborniert,subornierend,suborniert], "zum Meineid verleiten").
+entry(suborner, n, [Bestechende], "eine Person, die besticht").
+entry(suboval, adj, [], "fast oval").
+Eintrag(subovate, adj, [], "fast eiförmig").
+Eintrag(suboxid, n, [suboxide], "ein Oxid mit relativ wenig Sauerstoff").
+entry(subpanel, n, [Unterpaneele], "eine Unterteilung eines Paneels").
+entry(subpar, adj, [], "unterdurchschnittlich").
+Eintrag(unterabschnitt, n, [unterabschnitte], "eine Unterteilung eines Teils").
+Eintrag(subpena, v, [subpenaed,subpenaing,subpenas], "vorladen").
+Eintrag(teilphase, n, [teilphasen], "eine Unterteilung einer Phase").
+entry(subphyla, npl, [], "Unterteilungen innerhalb eines Stammes").
+entry(nebenhandlung, n, [nebenhandlungen], "ein sekundärer literarischer Handlungsstrang").
+entry(vorladung, v, [vorgeladen,vorgeladen,vorladungen], "mit einer Art gerichtlicher Ladung vorladen").
+entry(subpolar, adj, [], "unmittelbar außerhalb der Polarkreise gelegen").
+entry(subprime, adj, [], "einen Kredit bezeichnend, der zu einem höheren Zinssatz als der Leitzins gewährt wird").
+Eintrag(subpubisch, adj, [], "unter dem Schambein gelegen").
+Eintrag(subrasse, n, [subrassen], "eine Unterteilung einer Rasse").
+entry(untermiete, n, [untermieten], "Miete von einem Untermieter").
+entry(teilering, n, [teileringe], "eine Teilmenge eines mathematischen Rings, die selbst ein Ring ist").
+Eintrag(Unterregel, n, [Unterregeln], "eine untergeordnete Regel").
+Eintrag(subverkauf, n, [subverkäufe], "ein Wiederverkauf von erworbenen Waren").
+entry(subskala, n, [subskalen], "eine Unterteilung einer Skala").
+Eintrag(subsea, adj, [], "unter der Meeresoberfläche gelegen").
+entry(subsekte, n, [subsekten], "eine Sekte, die direkt von einer anderen abgeleitet ist").
+Eintrag(subsinne, n, [subsinne], "eine Unterteilung eines Sinnes").
+entry(subsere, n, [Subseren], "eine Art von ökologischer Sukzession").
+Eintrag(subserve, v, [subserved,subserving,subserves], "dienen um zu fördern").
+Eintrag(Teilmenge, n, [Teilmengen], "eine mathematische Menge, die innerhalb einer größeren Menge enthalten ist").
+Eintrag(subshaft, n, [subshafts], "eine Welle, die unter einer anderen Welle liegt").
+entry(unterschale, n, [unterschalen], "eine der Orbitalen, die eine Elektronenschale eines Atoms bilden").
+Eintrag(Kleinstrauch, n, [Kleinstraucher], "ein niedriger Strauch").
+entry(absinken, v, [abgesunken,absinkend,absinkt], "auf ein niedrigeres oder normales Niveau sinken").
+Eintrag(subsider, n, [subsiders], "einer, der nachlässt").
+Eintrag(subvention, n, [subventionen], "ein Zuschuss oder ein Beitrag von Geld").
+entry(fortbestehen, v, [fortbestanden,fortbestehend,fortbesteht], "weiter bestehen").
+Eintrag(teilseite, n, [teilseiten], "eine Unterteilung einer Seite").
+Eintrag(Teilkategorie, n, [Teilfähigkeiten], "eine untergeordnete Fähigkeit").
+entry(unterboden, v, [unterpflügt,unterpflügen,unterpflügt], "pflügen, um den Unterboden, die Erdschicht unterhalb des Oberbodens, aufzuwühlen").
+entry(subsolar, adj, [], "direkt unter der Sonne gelegen").
+entry(subsonisch, adj, [], "mit einer Geschwindigkeit, die geringer ist als die des Schalls").
+entry(teilraum, n, [teilräume], "eine Teilmenge eines mathematischen Raums").
+entry(unterstufe, n, [unterstufen], "ein Teil eines Mikroskops zur Unterstützung von Zubehör").
+Eintrag(substate, n, [Unterstaaten], "eine Unterabteilung eines Staates").
+entry(einschließen, v, [eingeschlossen,einschließend,einschließt], "in eine größere Gruppe einbeziehen").
+entry(subtask, n, [Teilaufgaben], "eine untergeordnete Aufgabe").
+entry(subtaxon, n, [subtaxons], "oder SUBTAXA eine Unterteilung eines Taxons").
+entry(subteen, n, [subteens], "eine Person, die den Teenagerjahren näher kommt").
+entry(subtendieren, v, [subtendierte,subtendierend,subtendiert], "sich unter oder gegenüber erstrecken").
+Eintrag(subtest, n, [subtests], "eine Unterteilung eines Tests").
+Eintrag(subtext, n, [subtexts], "geschriebener oder gedruckter Text unter einem allgemeineren Text").
+Eintrag(Unterthema, n, [Unterthemen], "ein untergeordnetes Thema").
+Eintrag(subtile, adjektiv, [], "SUBTILER SUBTILESTsubtle").
+Eintrag(subtilin, n, [subtiline], "ein Antibiotikum").
+entry(subtilität, n, [subtilitäten], "subtlety").
+Eintrag(subtitle, v, [untertitelt,untertitelnd,Untertitel], "einen sekundären Titel geben").
+entry(subtle, adj, [], "SUBTILER AM SUBTILSTENso leicht, dass es schwer zu erkennen istSUBTIL adv").
+entry(subtilität, n, [subtilitäten], "der Zustand, subtil zu sein").
+Eintrag(subton, n, [subtöne], "ein niedriger oder gedämpfter Ton").
+entry(subtonikum, n, [subtonika], "eine Art von musikalischem Ton").
+entry(subtopia, n, [subtopias], "die Vororte einer Stadt").
+Eintrag(unterthema, n, [unterthemen], "ein sekundäres Thema").
+entry(zwischensumme, v, [zwischengesummt,zwischensummierend,zwischensummen], "oder ZWISCHENGESUMMT ZWISCHENSUMMIEREND ZWISCHENSUMMENum einen Teil zu summieren").
+Eintrag(subtrahieren, v, [subtrahiert,subtrahierend,subtrahiert], "wegnehmen").
+Eintrag(subarbeit, n, [subarbeiten], "ein Spezialist, der von einem Generalunternehmer eingestellt wurde").
+Eintrag(subtrend, n, [subtrends], "ein untergeordneter Trend").
+Eintrag(subtribus, n, [subtriben], "eine Unterteilung eines Stammes").
+entry(subtunika, n, [subtuniken], "eine Tunika, die unter einer anderen Tunika getragen wird").
+Eintrag(subtyp, n, [subtypen], "ein Typ, der einem anderen Typ untergeordnet oder inbegriffen ist").
+entry(subulieren, adj, [], "schlank und zu einer Spitze zulaufend").
+Eintrag(untereinheit, n, [untereinheiten], "eine Einheit, die Teil einer größeren Einheit ist").
+entry(vorort, n, [vororte], "ein Wohngebiet in der Nähe einer StadtVORORT adj").
+entry(vorstadtbewohner, n, [vorstadtbewohner], "einer, der in einer Vorstadt lebt").
+Eintrag(Vorstadt, n, [Vorstädte], "die Vororte einer Stadt").
+entry(subvenieren, v, [subvenierte,subvenierend,subveniert], "ankommen oder auftreten als Unterstützung oder Erleichterung").
+entry(subvert, v, [unterminiert,unterminierend,unterminiert], "vollständig zerstören").
+entry(subvikar, n, [subvikare], "ein untergeordneter Vikar").
+entry(subviral, adj, [], "einen Teil eines Virus betreffend").
+Eintrag(subvirus, n, [Subviren], "ein virales Protein, das kleiner als ein Virus ist").
+entry(subvocal, adj, [], "geistig als Worte formuliert").
+Eintrag(U-Bahn, v, [U-Bahnte, U-Bahnend, U-Bahnen], "mit einer U-Bahn reisen").
+Eintrag(subwelt, n, [subwelten], "eine Unterteilung einer Interessens- oder Tätigkeitsphäre").
+entry(subzero, adj, [], "unter null registrierend").
+Eintrag(Unterzone, n, [Unterzonen], "eine Unterteilung einer Zone").
+Eintrag(succah, n, [succahs], "oder SUCCOTHsukkah").
+Eintrag(erfolgen, v, [erfolgte,erfolgend,erfolgt], "etwas Gewünschtes oder Beabsichtigtes erreichen").
+entry(erfolg, n, [erfolge], "das Erreichen von etwas Gewünschtem oder Beabsichtigtem").
+entry(succinct, adj, [], "KURZGEFASSTER KURZGEFASSTESTdeutlich in wenigen Worten ausgedrückt").
+entry(succinic, adj, [], "bernsteinartig").
+entry(succinyl, n, [Succinyle], "ein einwertiges Radikal").
+entry(helfen, v, [geholfen,helfend,hilft], "zu Hilfe kommen").
+entry(helfer, n, [helfer], "einer, der hilft").
+entry(Wegwarte, n, [Wegwarten], "chicorée").
+entry(sukkot, a, [], "pl von succah").
+Eintrag(Beistand, v, [beigestanden, beistehend, beisteht], "beistehen").
+entry(succuba, n, [sukkubas], "oder SUKKUBAEa Sukkubus").
+Eintrag(succubus, n, [succubusse], "oder SUCCUBIa weiblicher Dämon").
+entry(erliegen, v, [erlag,erliegend,erliegt], "einer überlegenen Kraft nachgeben").
+entry(succuss, v, [succussed,succussing,succusses], "heftig schütteln").
+entry(solcher, adj, [], "von dieser Art").
+entry(dergleichen, adj, [], "von ähnlicher Art").
+entry(suchness, n, [Wesensarten], "wesentliche oder charakteristische Eigenschaft").
+Eintrag(saugen, v, [gesogen, saugend, saugt], "durch Erzeugen eines Teilvakuums hereinziehen").
+entry(sauger, v, [gesaugt, saugend, saugt], "untere Triebe oder Äste entfernen").
+entry(saugnapffisch, n, [saugnapffische], "ein Remora").
+entry(suckle, v, [suckled,suckling,suckles], "stillen").
+entry(säugling, n, [säuglinge], "einer, der säugt").
+Eintrag(suckless, adj, [], "ohne Saft").
+entry(saugend, n, [saugende], "ein ungepflegtes Säugetier").
+entry(sucky, adj, [], "ÄUSSERST ANSTÖSSIGSTE ANSTÖSSIGER").
+Eintrag(sucrase, n, [sucrasen], "ein Enzym").
+entry(sucre, n, [sucres], "eine ehemalige Währungseinheit von Ecuador").
+entry(saccharose, n, [saccharosen], "eine Art von Zucker").
+Eintrag(saugung, v, [gesaugt,saugend,saugt], "durch den Vorgang des Saugens entfernen").
+entry(sudarium, n, [sudaria], "ein Tuch zum Abwischen des Gesichts").
+Eintrag(sudary, n, [sudaries], "sudarium").
+entry(schwitzung, n, [schwitzungen], "übermäßiges Schwitzen").
+entry(sudatory, n, [sudatories], "ein Heißluftbad zur Auslösung von Schwitzen").
+Eintrag(sudd, n, [sudds], "eine treibende Vegetationsmasse").
+entry(plötzlich, adj, [], "schnell und ohne Vorwarnung geschehen").
+entry(plötzlich, n, [plötzliche], "ein plötzliches Ereignis").
+entry(sudoku, n, [Sudokus], "ein Rätsel mit den Zahlen 1 bis 9").
+Eintrag(sudor, n, [sudors], "SchweißSUDORAL adj").
+Eintrag(suds, v, [gesudst, sudsend, schäumt], "in seifenhaltigem Wasser waschen").
+entry(seifenoper, n, [seifenopern], "eine Seifenoper").
+entry(sudsless, adj, [], "keine Schaum").
+entry(schaumig, adj, [], "SCHAUMIGER SCHAUMIGSTEfoamy").
+entry(sue, v, [verklagt, verklagend, verklagt], "ein gerichtliches Verfahren gegen jemanden einleiten").
+entry(suede, v, [sueded,sueding,suedes], "Leder mit einer weichen, aufgerauten Oberfläche veredeln").
+Eintrag(suer, n, [suer], "einer der klagt").
+Eintrag(suet, n, [suets], "das harte Fettgewebe um die Nieren von Rindern und SchafenSUETY adj").
+entry(suete, n, [suetes], "ein südöstlicher Wind in den Gebieten der Cape-Breton-Insel").
+Eintrag(suffari, n, [suffaris], "eine Safari").
+entry(leiden, v, [gelitten,leidend,leidet], "Schmerz oder Kummer empfinden").
+Eintrag(leiden, n, [leidende], "jemand der leidet").
+entry(genügen, v, [genügte,genügend,genügt], "ausreichend sein").
+entry(fulle, n, [fulles], "eine, die genügt").
+eintrag(suffix, v, [suffixed,suffixing,suffixes], "als Endung eine Form hinzufügen, die ans Ende eines Wortes angehängt wird").
+entry(suffixal, adj, [], "auf ein Suffix bezogen oder ein Suffix darstellend").
+entry(sufflate, v, [aufgeblasen, aufblasend, bläst_auf], "aufblasen").
+entry(wahlrecht, n, [wahlrechte], "das Recht zu wählen").
+entry(durchdringen, v, [durchdrang,durchdringend,durchdringt], "durchziehen oder überziehen").
+Eintrag(zucker, v, [gezuckert, zuckern, zuckert], "mit Zucker ein süßes Kohlenhydrat bedecken").
+Eintrag(zuckerhersteller, n, [zuckerhersteller], "jemand, der Zucker herstellt").
+Eintrag(zuckern, n, [Zuckerungen], "der Prozess des Einkochens von Ahornsaft zu Sirup").
+entry(sugary, adj, [], "ZUCKERHALTIGER ZUCKERHALTIGSTenthält oder ähnelt Zucker").
+entry(vorschlagen, v, [vorgeschlagen,vorschlagend,vorschlägt], "zur Prüfung vorbringen oder zur Diskussion stellen").
+entry(sugh, v, [sughte, sughend, sugheit], "säuseln").
+entry(suizidal, adj, [], "selbstzerstörerisch").
+entry(selbstmord, v, [begang, begehend, Selbstmorde], "sich absichtlich das Leben nehmen").
+entry(suing, präsens, [], "Partizip von verklagen").
+Eintrag(suint, n, [suints], "ein natürliches Fett, das in der Wolle von Schafen vorkommt").
+Eintrag(anzug, v, [angepasst,anpassend,anzüge], "angemessen sein zu").
+Eintrag(suitable, adj, [], "appropriateSUITABLY adv").
+entry(koffer, n, [koffer], "ein flaches rechteckiges Gepäckstück").
+entry(suite, n, [suiten], "eine Reihe von Dingen, die eine Einheit bilden").
+entry(suiter, n, [Anzüge], "ein Koffer, der eine bestimmte Anzahl von Anzügen, Sätzen von Kleidungsstücken, enthält").
+Eintrag(suiting, n, [suitings], "Stoff zur Herstellung von Anzügen").
+Eintrag(anzugartig, adj, [], "einem Anzug ähnelnd, ein Satz von Kleidungsstücken").
+Eintrag(Verehrer, n, [Verehrer], "einer, der eine Frau umwirbt").
+Eintrag(suk, n, [suks], "souk").
+entry(sukh, n, [sukhs], "ein Souk").
+entry(sukiyaki, n, [sukiyakis], "ein japanisches Gericht").
+entry(sukka, n, [sukkot], "oder SUKKOTH oder SUKKOT ein vorübergehender Unterstand, in dem während eines jüdischen Festes Mahlzeiten eingenommen werden").
+Eintrag(sulcate, adj, [], "lange schmale Rillen habend").
+entry(sulcated, adj, [], "gefurcht").
+Eintrag(sulcus, n, [sulci], "eine schmale FurcheSULCAL adj").
+eintrag(suldan, n, [suldans], "soldan").
+Eintrag(sulfa, n, [sulfas], "ein bakterienhemmendes Medikament").
+Eintrag(sulfat, v, [sulfatiert, sulfatierend, sulfatiert], "mit Schwefelsäure behandeln").
+entry(sulfid, n, [sulfid], "Sulfid").
+entry(sulfid, n, [sulfide], "eine Schwefelverbindung").
+entry(sulfinyl, n, [Sulfinyle], "ein zweiwertiges Radikal").
+Eintrag(sulfit, n, [sulfite], "ein chemisches SalzSULFITISCH adj").
+Eintrag(sulfo, adj, [], "sulfonisch").
+entry(sulfon, n, [sulfone], "eine Schwefelverbindung").
+Eintrag(sulfonic, adj, [], "ein bestimmtes einwertiges Radikal enthaltend").
+entry(sulfonyl, n, [Sulfonyle], "ein zweiwertiges Radikal").
+Eintrag(schwefel, v, [geschwefelt,schwefelnd,schwefelt], "mit Schwefel einem nichtmetallischen Element behandeln").
+Eintrag(sulfuret, v, [sulfureted,sulfureting,sulfurets], "oder SULFURETTED SULFURETTING SULFURETSt mit Schwefel behandeln").
+Eintrag(schweflig, adj, [], "bezogen auf Schwefel").
+entry(sulfury, adj, [], "schwefelähnlich").
+Eintrag(sulfuryl, n, [sulfuryls], "sulfonyl").
+Eintrag(schmollen, v, [schmollte, schmollend, schmollt], "schlecht gelaunt sein").
+eintrag(schmoller, n, [schmoller], "jemand, der schmollt").
+Eintrag(sulky, adj, [], "SULKIER SULKIESTmürrisch abweisend oder zurückgezogenSULKILY adv").
+entry(sulky, n, [sulkies], "ein leichtes pferdegezogenes Fahrzeug").
+entry(schmutzwasser, n, [schmutzwässer], "Abwasser").
+Eintrag(missmutig, adj, [], "MISSMUTIGER MISSMUTIGSTzeigt eine finstere schlechte Laune oder MissgunstMISSMUTIG adv").
+entry(sully, v, [besudelt, besudelnd, besudelt], "beschmutzen").
+Eintrag(sulpha, n, [sulphas], "sulfa").
+Eintrag(sulfat, v, [sulfatiert, sulfatieren, sulfatiert], "sulfatieren").
+entry(sulfid, n, [sulfide], "Sulfid").
+entry(sulfid, n, [sulfide], "Sulfid").
+Eintrag(sulfit, n, [sulfite], "sulfite").
+Eintrag(sulfon, n, [sulfone], "Sulfone").
+eintrag(schwefel, v, [geschwefelt, schwefelnd, schwefelt], "schwefeln").
+entry(schweflig, adj, [], "sulfury").
+Eintrag(sultan, n, [sultans], "der Herrscher eines muslimischen LandesSULTANISCH adj").
+entry(sultana, n, [sultanas], "die Frau eines Sultans").
+entry(schwül, adj, [], "SCHWÜLER am SCHWÜLSTENSEHR heiß und feuchtSCHWÜL adv").
+entry(sulu, n, [sulus], "ein melanesischer Rock").
+entry(sum, v, [summiert, summierend, summen], "zu einem Gesamtbetrag hinzufügen").
+Eintrag(sum, n, [sumy], "eine Währungseinheit von Usbekistan").
+entry(sumac, n, [Sumach], "ein blühender Baum oder Strauch").
+entry(sumach, n, [Sumachs], "Sumach").
+Eintrag(sumi, n, [sumis], "eine Art von schwarzer japanischer Tinte").
+entry(sumless, adj, [], "zu groß zur Berechnung").
+Eintrag(summa, n, [summas], "oder SUMMAEin umfassendes Werk zu einem Thema").
+entry(summierbar, adj, [], "fähig, summiert zu werden").
+entry(summand, n, [summands], "ein Summand").
+entry(zusammenfassung, n, [zusammenfassungen], "eine kurze Wiedergabe").
+entry(summate, v, [summiert,summierend,summiert], "summieren").
+Eintrag(summen, vergangenheit, [], "Zeitform von sum").
+entry(sommer, v, [geschommert, sommert, sommert], "den Sommer verbringen, die wärmste Jahreszeit").
+entry(sommerlich, adj, [], "summery").
+Eintrag(sommerlich, adj, [], "SOMMERLICHER SOMMERLICHSTcharakteristisch für den Sommer").
+Eintrag(summen, Präsens, [], "Partizip von sum").
+entry(gipfel, v, [bestieg, besteigen, besteigt], "an einer hochrangigen Konferenz teilnehmen").
+entry(summital, adj, [], "den höchsten Punkt betreffend").
+entry(gipfeldiplomatie, n, [gipfeldiplomatien], "die Nutzung von Konferenzen zwischen Staatsoberhäuptern für internationale Verhandlungen").
+eintrag(vorladen, v, [vorgeladen,vorladend,vonladungen], "zum Erscheinen auffordern").
+Eintrag(beschwörer, n, [beschwörer], "einer, der beschwört").
+entry(vorladung, v, [vorgeladen,voraussagend,vorladungen], "vor Gericht vorladen").
+entry(sumo, n, [sumos], "eine japanische Form des Ringens").
+entry(sumoist, n, [sumoringer], "ein Sumoringer").
+Eintrag(sumpf, n, [sümpfe], "ein niedriges Gebiet, das als Abfluss oder Auffangbecken für Flüssigkeiten dient").
+Eintrag(sumpter, n, [sumpters], "ein Lasttier").
+entry(sumpfkraut, n, [sumpfkrauter], "eine Sumpfpflanze").
+Eintrag(sonne, v, [besonnt,besonnend,sonnen], "der Stern, um den sich die Erde dreht, der Sonne auszusetzen").
+entry(sunback, adj, [], "tief geschnitten, um den Rücken der Sonne auszusetzen").
+entry(sonnenverbrannt, adj, [], "von der Sonne gebacken").
+Eintrag(Sonnenbad, n, [Sonnenbäder], "eine Exposition gegenüber Sonnenlicht").
+entry(sonnenbaden, v, [sonnenbadete, sonnenbadend, sonnenbadet], "ein Sonnenbad nehmen").
+entry(sonnenstrahl, n, [sonnenstrahlen], "ein Strahl von SonnenlichtSONNENSTRAHLIG adj").
+entry(Sonnenbank, n, [Sonnenbänke], "ein Gerät zum künstlichen Erwerben von gebräunter Haut").
+entry(sunbelt, n, [Sonnengürtel], "die südlichen und südwestlichen Staaten der USA").
+entry(sonnenvogel, n, [sonnenvögel], "ein tropischer Vogel").
+entry(sonnencreme, n, [sonnencremes], "eine Zubereitung, um die Haut vor den Sonnenstrahlen zu schuetzen").
+entry(sunbow, n, [Sonnenbögen], "ein Bogen von Spektralfarben, der durch die Sonne entsteht, die durch einen Nebel scheint").
+entry(sonnenbrand, v, [sonnenverbrannt, sonnenverbrennend, sonnenbrand], "durch Sonneneinstrahlung verbrennen oder verfärben").
+entry(sonnenstrahl, n, [sonnenstrahlen], "ein Ausbruch von Sonnenlicht").
+Eintrag(suncare, n, [suncares], "Schutz der Haut vor Schäden durch die Sonne").
+Eintrag(sonnenwurzel, n, [sonnenwurzeln], "eine Art von Sonnenblume").
+entry(sundae, n, [sundaes], "ein Dessert aus Speiseeis mit einem Topping serviert").
+entry(sonnendeck, n, [sonnendecks], "ein Deck, das der Sonne ausgesetzt ist").
+Eintrag(sunder, v, [gespaltet,spaltend,spaltet], "zerbrechen").
+entry(spalter, n, [spalter], "einer, der spaltet").
+entry(sundew, n, [Sonnentau], "eine Sumpfpflanze").
+entry(sonnenuhr, n, [sonnenuhren], "eine Art von Zeitmessgerät").
+Eintrag(sonnenhund, n, [sonnenhunde], "ein kleiner Regenbogen").
+entry(sundown, v, [gesundowned,gesundownend,gesundowns], "nächtliche Verwirrung erfahren").
+Eintrag(Sommerkleid, n, [Sommerkleider], "ein Kleid mit einem verkürzten Oberteil").
+entry(krimskrams, npl, [], "verschiedene Gegenstände").
+Eintrag(Sonnenkräuter, n, [Sonnenkräuter], "eine blühende Pflanze").
+Eintrag(verschiedenartig, adj, [], "verschiedenSUNDRILY adv").
+entry(sunfast, adj, [], "lichtbeständig").
+entry(sonnenbarsch, n, [sonnenbarsche], "ein Meeresfisch").
+Eintrag(gesungen, vergangenheit, [], "Partizip von singen").
+entry(sonnenbrille, n, [sonnenbrillen], "eine Linse zum Konzentrieren der Sonnenstrahlen, um Hitze zu erzeugen").
+Eintrag(sunglow, n, [sunglows], "ein Leuchten am Himmel, verursacht durch die Sonne").
+Eintrag(untergegangen, a, [], "Partizip Perfekt von sinken").
+eintrag(versunken, a, [], "Partizip Perfekt von sinken").
+entry(sunker, n, [sunkers], "ein Felsrücken nahe der Meeresoberfläche").
+Eintrag(sunket, n, [sunkets], "ein Häppchen").
+entry(sonnenlampe, n, [sonnenlampen], "eine Lampe, die ultraviolette Strahlen ausstrahlt").
+entry(sunland, n, [sonnenlande], "ein Gebiet, das durch eine große Menge Sonnenschein gekennzeichnet ist").
+Eintrag(sonnenlos, adj, [], "ohne Sonnenlicht").
+entry(sonnenlicht, n, [sonnenlichter], "das Licht der Sonne").
+Eintrag(sonnenähnlich, adj, [], "der Sonne ähnelnd").
+Eintrag(sonnenbeschienen, adj, [], "vom Sonnenlicht erleuchtet").
+entry(sunn, n, [sunns], "ein ostindischer Strauch").
+Eintrag(sunna, n, [sunnas], "der Körper des traditionellen muslimischen Rechts").
+Eintrag(sunna, n, [sunnas], "sunna").
+entry(sonnte, vergangenheit, [], "zeitform von sonne").
+entry(sunning, präsens, [], "Partizip von sun").
+Eintrag(sonnig, adj, [], "SONNIGER SONNIGSTgefüllt mit SonnenlichtSONNIG adv").
+Eintrag(Sonnenveranda, n, [Sonnenveranden], "eine Veranda, die viel Sonnenlicht hereinlässt").
+entry(sunproof, adj, [], "widerstandsfähig gegen Sonnenschäden").
+entry(sonnenstrahl, n, [sonnenstrahlen], "ein Sonnenstrahl").
+Eintrag(sonnenaufgang, n, [sonnenaufgänge], "der Aufstieg der Sonne über den Horizont am Morgen").
+entry(schiebedach, n, [schiebedächer], "ein Autodach mit einem öffnenden Panel").
+entry(wintergarten, n, [wintergärten], "ein Raum, der so gebaut ist, dass er eine große Menge Sonnenlicht hereinlässt").
+eintrag(sonnenbrand, n, [sonnenbrände], "eine Verletzung von Gehölzpflanzen durch die Sonne").
+entry(sonnenuntergang, n, [sonnenuntergänge], "der Untergang der Sonne unter den Horizont am Abend").
+entry(sonnenschirm, n, [sonnenschirme], "etwas, das als Schutz vor der Sonne verwendet wird").
+entry(sonnenschein, n, [sonnenscheine], "das Licht der SonneSONNIG adj").
+entry(sonnenfleck, n, [sonnenflecken], "ein dunkler Fleck auf der Oberfläche der Sonne").
+Eintrag(sunstar, n, [sunstars], "eine Art Seestern").
+entry(sonnenstein, n, [sonnensteine], "eine Quarzart").
+entry(sonnenanzug, n, [sonnenanzüge], "eine Art von Spielanzug").
+entry(sonnenbräune, v, [sonnengebräunt, sonnenbräunend, sonnenbräunt], "braun werden").
+Eintrag(suntrap, n, [sonnenfalle], "ein angenehmer, sonniger, geschützter Ort").
+Eintrag(sunup, n, [Sonnenaufgänge], "Sonnenaufgang").
+entry(sunward, adv, [], "sonnenwärts").
+Eintrag(sunwards, adv, [], "sonnenwärts").
+entry(sunwise, adv, [], "von links nach rechts").
+entry(sup, v, [supped,supping,sups], "Abendessen essen").
+Eintrag(supe, n, [supes], "ein Schauspieler ohne Sprechrolle").
+entry(super, v, [supered,supering,supers], "mit einem dünnen Baumwollnetz wie einem Buch verstärken").
+Eintrag(superadd, v, [superadded, superadding, superadds], "weiter hinzufügen").
+Eintrag(superb, adj, [], "SUPERBER SUPERBEST von ausgezeichneter Qualität SUPERBLY adv").
+entry(superbad, adj, [], "äußerst schlecht").
+eintrag(superbug, n, [superbugs], "ein Bakterienstamm, der gegen alle Antibiotika resistent ist").
+Eintrag(Supersportwagen, n, [Supersportwagen], "ein überlegener Wagen").
+Eintrag(superpolizist, n, [superpolizisten], "ein überlegener Polizeibeamter").
+Eintrag(superego, n, [superegos], "ein Teil der Psyche").
+entry(superfan, n, [Superfans], "ein äußerst engagierter Enthusiast").
+Eintrag(superfix, n, [Superfixe], "ein wiederkehrendes Muster der Betonung in der Sprache").
+entry(superfly, adj, [], "protzig prätentiös").
+Eintrag(superhit, n, [superhits], "etwas äußerst Erfolgreiches").
+Eintrag(superhot, adj, [], "äußerst heiß").
+entry(superior, n, [Vorgesetzte], "jemand von höherem Rang, Qualität oder Autorität als ein anderer").
+entry(superjet, n, [superjets], "eine Art von Düsenflugzeug").
+entry(superlie, v, [superlay,superlain,superlying], "SUPERLIEliegt darüber").
+entry(superman, n, [supermänner], "ein hypothetischer überlegener Mensch").
+Eintrag(supermom, n, [supermoms], "eine überlegene Mutter").
+Eintrag(supernal, adj, [], "den Himmel betreffend").
+Eintrag(superpro, n, [superpros], "ein überlegener Fachmann").
+entry(supersex, n, [Supersexe], "eine Art von sterilem Organismus").
+Eintrag(superspy, n, [superspies], "ein überlegener Spion").
+Eintrag(supertax, n, [supertaxes], "eine zusätzliche Steuer").
+Eintrag(supinate, v, [supiniert,supinierend,supiniert], "so drehen, dass die Handfläche nach oben zeigt").
+Eintrag(supinum, n, [supina], "ein lateinisches Verbalsubstantiv").
+entry(supinely, adv, [], "auf untätige Weise").
+entry(supped, past, [], "Vergangenheitsform von sup").
+Eintrag(abendessen, n, [abendessen], "eine Abendmahlzeit").
+entry(supping, präsens, [], "Partizip von sup").
+Eintrag(ersetzen, v, [ersetzte,ersetzend,ersetzt], "den Platz von etwas einnehmen").
+Eintrag(supple, adj, [], "SUPPLER SUPPLESTpliantSUPPLELY adv").
+Eintrag(supple, v, [suppled, suppling, supples], "geschmeidig machen").
+Eintrag(lieferant, n, [lieferanten], "einer, der liefert").
+Eintrag(versorgung, v, [bereitgestellt,bereitstellend,bereitstellt], "mit dem versorgen, was benötigt wird").
+Eintrag(unterstützen, v, [unterstützt,unterstützend,unterstützt], "halten oder Stärke hinzufügen").
+Eintrag(Vermutung, n, [Vermutungen], "etwas vermutetes").
+entry(suppose, v, [angenommen, annehmend, annimmt], "als wahr annehmen").
+entry(supposer, n, [Supponierer], "jemand, der annimmt").
+entry(unterdrücken, v, [unterdrückt,unterdrückend,unterdrückt], "gewaltsam ein Ende setzen").
+entry(supra, adv, [], "oben").
+Eintrag(supreme, n, [supremes], "eine glatte weiße Soße aus Hühnerbrühe").
+Eintrag(supreme, adj, [], "HÖCHSTE HÖCHSTEINER in Macht oder Autorität").
+Eintrag(supremo, n, [supremos], "jemand, der der höchste in der Autorität ist").
+entry(suq, n, [suqs], "Souk").
+Eintrag(sura, n, [suren], "ein Kapitel des Korans").
+entry(surah, n, [Surahs], "ein Seidenstoff").
+entry(sural, adj, [], "das Bein betreffend").
+entry(surbase, n, [surbasen], "ein Gesims oder eine Leiste über der Basis einer StrukturSURBASED Adj").
+Eintrag(surcease, v, [surceased,surceasing,surceases], "aufhören").
+entry(surcoat, n, [surcoats], "ein Überkleid oder Mantel").
+entry(surd, n, [Surde], "ein stimmloser Sprachlaut").
+Eintrag(sicher, adjektiv, [], "SICHERER SICHERSTfrei von Zweifel").
+entry(surefire, adj, [], "sicher die Erwartungen zu erfüllen").
+Eintrag(sicher, adv, [], "bestimmt").
+Eintrag(sicherheit, n, [sicherheiten], "der Zustand, sicher zu sein").
+entry(surer, komparativ, [], "von sicher").
+Eintrag(sicherste, Superlativ, [], "von sicher").
+entry(sicherheit, n, [sicherheiten], "sicherheit").
+entry(surf, v, [surfte, surfend, surft], "auf brechenden Wellen auf einem langen schmalen Brett reitenSURFBAR adj").
+entry(oberfläche, v, [oberflächig,oberflächen,oberflächen], "eine äußere Schicht anwenden").
+Eintrag(surfacer, n, [surfacers], "jemand, der an die Oberfläche kommt").
+entry(surfbird, n, [surfbirds], "ein Küstenvogel").
+entry(surfboot, n, [surfboote], "ein starkes Ruderboot").
+Eintrag(übersättigung, v, [übersättigt,übersättigend,übersättigungen], "im Übermaß versorgen").
+entry(surfer, n, [Surfer], "jemand, der surft").
+entry(meeresfisch, n, [meeresfische], "ein Meeresfisch").
+Eintrag(surfier, komparativ, [], "von surfy").
+Eintrag(surfiest, Superlativ, [], "von surfy").
+entry(surfen, n, [surfings], "die Tätigkeit oder der Sport, die Brandungswellen zu reiten").
+Eintrag(surflike, adj, [], "brechenden Wellen ähnlich").
+entry(surfman, n, [surfmänner], "jemand, der im Umgang mit einem Boot in der Brandung geübt ist").
+entry(surfside, adj, [], "in der Nähe der Küste gelegen").
+Eintrag(surfy, adj, [], "SURFIER SURFIESTreich an brechenden Wellen").
+Eintrag(surge, v, [surged,surging,surges], "in einer aufschwellenden Weise bewegen").
+eintrag(chirurg, n, [chirurgen], "jemand, der Chirurgie praktiziert").
+entry(surger, n, [surgers], "einer, der drängt").
+entry(chirurgie, n, [chirurgien], "die Behandlung medizinischer Probleme durch Operation").
+Eintrag(chirurgisch, adjektiv, [], "sich auf die Chirurgie beziehend").
+entry(surging, präsens, [], "Partizip von surge").
+entry(surgy, adj, [], "brandend").
+Eintrag(suricate, n, [Erdmännchen], "ein grabendes Säugetier").
+Eintrag(surimi, n, [surimis], "ein preiswerter Fischprodukt").
+Eintrag(mürrisch, adj, [], "MÜRRISCHER MÜRRISCHSTE mürrisch unhöflichMÜRRISCH adv").
+Eintrag(vermuten, v, [vermutet,vermuten,vermutet], "mit wenig Beweisen schlussfolgern").
+entry(mutmaßender, n, [mutmaßende], "einer, der vermutet").
+entry(überwinden, v, [überwunden,überwindend,überwindet], "über etwas hinwegkommen oder es überwinden").
+entry(nachname, v, [nachnamen, nachnaming, nachnames], "einen Familiennamen geben").
+entry(surnamer, n, [surnamers], "Einer, der nach Namen sucht").
+Eintrag(übertreffen, v, [übertraf, übertreffend, übertrifft], "über das hinausgehen").
+Eintrag(Surpliz, n, [Surplizen], "ein locker sitzendes Gewand").
+entry(überschuss, v, [überschüssed,überschüssing,überschüsses], "or ÜBERSCHUSSED ÜBERSCHUSSING ÜBERSCHUSSEStö behandeln als Überschuss gegenüber dem, was benötigt wird").
+Eintrag(surprint, v, [surprinted,surprinting,surprints], "über etwas bereits Gedrucktes drucken.").
+entry(überraschung, v, [überrascht,überraschend,überraschungen], "unerwartet kommen").
+entry(überraschung, v, [überrascht, überraschend, überrascht], "überraschen").
+Eintrag(surra, n, [surras], "eine Krankheit von Haustieren").
+entry(surreal, adj, [], "traumhafte Qualitäten haben").
+Eintrag(surrey, n, [surreys], "ein leichter Wagen").
+entry(umgeben, v, [umgeben,umgebend,umgibt], "völlig umschließen").
+Eintrag(surroyal, n, [surroyals], "das oberste Ende eines Hirschgeweihs").
+Eintrag(zuschlag, v, [zuschlagte, zuschlagend, zuschläge], "mit einer zusätzlichen Steuer zu bewerten").
+entry(übertitel, n, [übertitel], "eine Übersetzung eines fremdsprachigen Dialogs, die über einem Bildschirm oder einer Bühne angezeigt wird").
+entry(surtout, n, [surtouts], "ein enganliegender Mantel").
+entry(überwachen, v, [überwachte,überwachend,überwacht], "genau beobachten").
+Eintrag(vermessen, v, [vermessen, vermessend, vermisst], "die Grenzen, Flächen oder Höhen durch Messen von Winkeln und Entfernungen bestimmen").
+Eintrag(Vermesser, n, [Vermesser], "jemand, der Land vermisst").
+entry(überleben, n, [überleben], "ein länger als eine andere Person oder Sache lebendes oder fortdauerndes").
+Eintrag(überleben, v, [überlebte,überlebend,überlebt], "um bestehen zu bleiben").
+Eintrag(Überlebender, n, [Überlebende], "Überlebender").
+Eintrag(überlebender, n, [überlebende], "einer, der überlebt").
+Eintrag(sus, v, [sused,susing,suses], "entdecken").
+entry(sushi, n, [sushis], "ein Gericht aus kalten Reiskuchen, garniert mit Streifen von rohem Fisch").
+entry(ziesel, n, [ziesel], "ein eurasisches Nagetier").
+entry(verdächtiger, v, [verdächtigte,verdächtigend,verdächtigte], "mit geringem Beweis für schuldig halten").
+Eintrag(suspendieren, v, [suspendiert, suspendierend, suspendiert], "verursachen, für einen Zeitraum zu stoppen").
+Eintrag(suspense, n, [suspenses], "ein Zustand der geistigen Unsicherheit oder Aufregung").
+entry(seufzen, v, [seufzte, seufzend, seufzt], "to sigh").
+Eintrag(suss, v, [sussed, sussing, susses], "herausfinden oder überprüfen").
+entry(erhalten, v, [erhielt,erhaltend,erhält], "durch Nahrung und Trank erhalten oder unterstützen").
+Eintrag(susurrus, n, [susurruses], "ein sanftes Rascheln").
+entry(sutler, n, [Marketender], "eine Person, die Waren an Soldaten verkauft").
+Eintrag(sutra, n, [sutras], "ein hinduistisches Sprichwort").
+Eintrag(sutta, n, [suttas], "sutra").
+entry(sati, n, [satis], "eine Hindu-Witwe, die auf dem Scheiterhaufen ihres Mannes verbrannt wird, um ihre Hingabe zu ihm zu zeigen").
+Eintrag(sutural, adj, [], "bezüglich der Verbindungslinie zwischen zwei Knochen").
+Eintrag(suture, v, [sutured, suturing, sutures], "durch Nähen verbinden").
+entry(suzerän, n, [suzeräne], "ein Lehnsherr").
+Eintrag(svaraj, n, [svarajes], "Swaraj").
+entry(svedberg, n, [svedbergs], "eine Einheit der Zeit").
+entry(schlank, adj, [], "SCHLANKER SCHLANKSTgraziös schlankSCHLANK adv").
+entry(wischen, v, [gewischt,wischend,wischt], "mit einem großen Mopp reinigen").
+entry(swabber, n, [Watteträger], "einer, der wischt").
+entry(swabbie, n, [swabbies], "ein Seemann").
+Eintrag(wischen, Präsens, [], "Partizip von wischen").
+Eintrag(swabby, n, [swabbies], "swabbie").
+entry(swacked, adj, [], "betrunken").
+entry(wickeln, v, [gewickelt,wickelnd,wickelt], "in Bandagen wickeln").
+Eintrag(swag, v, [swagged,swagging,swags], "schwanken").
+entry(stauge, v, [gestaugt,staugen,staugt], "in Form treiben mit einem Hammerwerkzeug").
+entry(swager, n, [Swager], "jemand, der schneidet").
+Eintrag(swagger, v, [swaggered, swaggering, swaggers], "mit pompösem Auftreten gehen").
+entry(swaggie, n, [swaggies], "ein Wanderarbeiter").
+Eintrag(swagging, präsens, [], "Partizip von swag").
+Eintrag(swaging, präsens, [], "Partizip von swage").
+Eintrag(swagman, n, [swagmen], "ein Landstreicher").
+entry(swail, n, [swails], "Mulde").
+Eintrag(swain, n, [swains], "ein LandjungeSWAINISCH Adj").
+Eintrag(swale, n, [swales], "ein Stück sumpfiges Tiefland").
+entry(schlucken, v, [schluckte, schluckend, schluckt], "durch den Mund und die Speiseröhre in den Magen aufzunehmen").
+entry(swam, vergangenheit, [], "Zeitform von schwimmen").
+Eintrag(swami, n, [swamis], "ein hinduistischer Religionslehrer").
+entry(swamies, pl, [], "vom Swamy").
+entry(sumpf, v, [überschwemmt, überschwemmend, überschwemmt], "überfluten").
+entry(swamper, n, [sumpfbewohner], "jemand, der in einem sumpfigen Gebiet lebt").
+Eintrag(sumpfig, adj, [], "moorig").
+Eintrag(sumpfig, adj, [], "SUMPFIGER SUMPFIGSTE moorig").
+entry(swamy, n, [swamies], "Swami").
+Eintrag(schwan, v, [schwur, schwenkend, schwäne], "schwören").
+Eintrag(swang, a, [], "Vergangenheit von schwingen").
+entry(schwanhirte, n, [schwanhirten], "eine Person, die Schwäne, große Wasservögel, hütet").
+entry(swank, adj, [], "STILVOLL STILVOLLSTimposant elegant").
+Eintrag(swank, v, [swanked, swanking, swanks], "prunken").
+Eintrag(swanky, adj, [], "SWANKIER SWANKIESTswankSWANKILY adv").
+Eintrag(schwanenähnlich, adj, [], "einem Schwan ähnelnd").
+entry(schwomm, vergangenheit, [], "Zeitform von Schwan").
+entry(schwanenzucht, n, [schwanenzuchten], "ein Ort, an dem Schwäne gezüchtet werden").
+entry(schwanen, praesens, [], "Partizip von schwanen").
+Eintrag(swanny, v, [], "zur Erklärung nur in der 1. Person Singular verwendet").
+entry(swanpan, n, [Suanpans], "ein chinesischer Abakus").
+entry(schwanenhaut, n, [schwanenhaeute], "die Haut eines Schwans").
+Eintrag(tauschen, v, [tauschte, tauschend, tauscht], "tauschen").
+Eintrag(swapdatei, n, [swapdateien], "eine Computerd-Datei mit Speicherplatz für übertragene Programme").
+Eintrag(swapper, n, [swappers], "einer, der austauscht").
+entry(swaraj, n, [swarajes], "Selbstverwaltung in Britisch-Indien").
+Eintrag(Rasen, v, [geraset, rasend, rasen], "mit Rasen bedecken").
+entry(sware, a, [], "Vergangenheit von swear").
+entry(späne, n, [späne], "Material, das von einem Schneidwerkzeug entfernt wurde").
+entry(schwarm, v, [schwärmte,schwärmend,schwärmt], "sich in einer großen Gruppe bewegen").
+Eintrag(schwärmer, n, [schwärmer], "einer der schwärmt").
+entry(schwärmen, n, [Schwärmungen], "das Umgeben eines Opfers durch eine Gruppe von Angreifern").
+entry(swart, adj, [], "dunkel").
+entry(swarth, n, [swarths], "Rasen").
+Eintrag(schwarz, adj, [], "SCHWARZER SCHWARZESTERmit einem dunklen Teint").
+entry(swarty, adj, [], "dunkel").
+entry(swash, v, [swashed,swashing,swashes], "prahlen").
+entry(swasher, n, [Spüler], "einer, der schwappt").
+entry(swastica, n, [swastikas], "Swastika").
+entry(hakenkreuz, n, [hakenkreuze], "eine geometrische Figur, die als Symbol oder Ornament verwendet wird").
+Eintrag(swat, v, [swattete, swattend, swattet], "scharf schlagen").
+entry(swatch, n, [Stoffmuster], "ein Musterstück Stoff").
+Eintrag(swath, n, [Schwaden], "eine Reihe geschnittenen Grases oder Getreides").
+entry(winden, v, [gewunden, windend, windet], "in Bandagen wickeln").
+entry(schwader, n, [schwader], "einer, der schwadet").
+entry(geschlagen, vergangenheit, [], "Zeitform von schlagen").
+Eintrag(schmetterer, n, [schmetterer], "einer, der schmettert").
+entry(swatting, präsens, [], "Partizip von schlagen").
+entry(schwingen, v, [schwankte,schwingend,schwingt], "sich langsam hin und her bewegenSCHWINGBAR adj").
+entry(swayback, n, [swaybacks], "ein anormales Durchhängen des Rückens").
+Eintrag(swayer, n, [swayers], "einer, der schwankt").
+Eintrag(swayful, adj, [], "fähig zu beeinflussen").
+entry(schwören, v, [schwur,geschworen,schwören], "SCHWÖRENum einen feierlichen Eid zu leisten").
+entry(flüchender, n, [flüchende], "einer, der flucht").
+entry(flucht, n, [fluchten], "der Akt des feierlichen Schwurs").
+entry(sweat, v, [schwitzte,schwitzend,schwitzt], "schwitzen").
+Eintrag(schwitzkasten, n, [schwitzkästen], "ein kleines Gehege, in dem man zum Schwitzen gebracht wird").
+entry(pullover, n, [pullover], "ein gestricktes OberbekleidungsstückPULLOVERED adj").
+Eintrag(schwitzig, adj, [], "SCHWITZIGER SCHWITZIGSTcovered mit SchweißSCHWITZIG adv").
+Eintrag(schwede, n, [schweden], "ein Kohlrabi").
+Eintrag(sweeney, n, [sweeneys], "sweeny").
+entry(sweeny, n, [sweenies], "Schwindsucht der Schultermuskeln bei Pferden").
+entry(kehren, v, [kehrte,kehrend,kehrt], "mit einem Besen sauber machen").
+entry(kehrer, n, [kehrer], "einer, der kehrt").
+Eintrag(kehren, n, [kehricht], "der Akt des Kehrens").
+entry(sweepy, adj, [], "SWEEPIER SWEEPIEST von weitem Bereich oder Umfang").
+entry(sweer, adj, [], "faul").
+Eintrag(süß, adj, [], "SÜSSER AM SÜSSESTENangenehm im Geschmack").
+entry(süß, n, [Süßigkeiten], "etwas, das süß ist").
+entry(süßen, v, [gesüßt,süßend,süßt], "versüßen").
+entry(liebling, n, [lieblinge], "darling").
+Eintrag(sweeting, n, [sweetings], "ein süßer Apfel").
+entry(süßlich, adj, [], "etwas süß").
+Eintrag(sweetlip, n, [süßlippe], "ein Fisch mit einem hervorstehenden Maul").
+Eintrag(sanft, adv, [], "auf süße Weise").
+entry(sweetsop, n, [sweetsops], "ein tropischer Baum").
+Eintrag(swell, adj, [], "SWELLER SWELLESTmodisch").
+entry(anschwellen, v, [schwoll, geschwollen, anschwellen], "ANSCHWELLENto increase in size or volume").
+entry(schwellung, n, [schwellungen], "etwas, das geschwollen ist").
+entry(swelter, v, [schwitzte,schwitzend,schwitzt], "unter drückender Hitze leiden").
+Eintrag(sweltry, adj, [], "SWELTRIER SWELTRIEST drückend heiß").
+Eintrag(gefegt, Vergangenheit, [], "Zeitform von kehren").
+entry(ausweichen, v, [ausgewichen,ausweichend,weicht aus], "plötzlich von einem geraden Kurs abbiegen").
+entry(swerver, n, [schlingernde], "einer, der schlingert").
+Eintrag(sweven, n, [swevens], "ein Traum oder eine Vision").
+entry(brandrodung, n, [brandrodungen], "ein landwirtschaftliches Grundstück, das durch Abbrennen der Vegetationsdecke entstanden ist").
+Eintrag(swift, adj, [], "SCHNELLER SCHNELLSTbewegend mit einer hohen Bewegungsrate").
+entry(mauersegler, n, [mauersegler], "ein schnellfliegender Vogel").
+Eintrag(swifter, n, [swifters], "ein Seil auf einem Schiff").
+entry(swiftie, n, [swifties], "eine Person, die schnell handelt oder denkt").
+entry(segler, n, [segler], "ein in Höhlen lebender Segler").
+entry(schnell, adv, [], "auf schnelle Weise").
+entry(swig, v, [trank, trinkend, trinkt], "tief oder schnell trinken").
+entry(swigger, n, [schlucker], "einer, der schluckt").
+entry(swile, n, [swiles], "eine Robbe ein Meeressäugetier").
+entry(swiler, n, [swilers], "jemand, der Robben jagt").
+Eintrag(swiling, n, [swilings], "die Aktivität des Robbenjagens").
+entry(swill, v, [schlürfte,schlürfend,schlürft], "schlürfen").
+entry(swiller, n, [Schluckspechte], "jemand, der schlingt").
+entry(schwimmen, v, [schwamm, geschwommen, schwimmend], "SCHWIMMSto sich im Wasser aus eigener Kraft fortbewegen").
+entry(schwimmer, n, [schwimmer], "einer der schwimmt").
+Eintrag(schwimmen, n, [Schwimmen], "die Handlung eines Schwimmers").
+Eintrag(swimmy, adj, [], "SWIMMIER SWIMMIESTdizzySWIMMILY adv").
+entry(badeanzug, n, [badeanzüge], "ein Badeanzug").
+Eintrag(badebekleidung, n, [badebekleidung], "Kleidung geeignet zum Schwimmen").
+entry(betrug, v, [betrog,betrogen,betrügt], "Geld oder Eigentum durch betrügerische Mittel erlangen").
+entry(betrüger, n, [betrüger], "einer, der betrügt").
+Eintrag(schwein, n, [schweine], "eine verachtenswerte Person").
+entry(schweinepocken, n, [schweinepocken], "eine Krankheit der Schweine").
+entry(swingen, v, [schwang,schwingend,schwingt], "sich frei hin und her bewegen").
+entry(swingby, n, [swingbys], "eine Mission, bei der ein Raumfahrzeug die Gravitationskraft eines Planeten nutzt, um Kursänderungen vorzunehmen").
+Eintrag(swinge, v, [swinged,swingeing,swinges], "auspeitschen").
+entry(swinger, n, [Schaukler], "einer, der schwingt").
+entry(swingier, komparativ, [], "von swingy").
+entry(swingiest, Superlativ, [], "von schwingend").
+entry(swinging, adj, [], "SWINGINGESTlebhaft und hip").
+eintrag(schwingen, n, [schwingen], "die Praxis des Partnertauschs").
+entry(swingle, v, [swingled,swingling,swingles], "brecheln").
+entry(swingman, n, [swingmen], "ein Basketballspieler, der als Guard oder Forward spielen kann").
+Eintrag(swingy, adj, [], "SCHWINGERISCH SCHWINGERISCHSTgekennzeichnet durch Schaukeln").
+entry(swinish, adj, [], "einem Schwein ähnelnd oder einem Schwein entsprechend").
+Eintrag(swink, v, [geschwitzt,schwitzend,schwitzt], "mühen").
+entry(swinney, n, [swinneys], "sweeny").
+entry(swipe, v, [wischte,wischend,wischt], "mit einem schwungvollen Schlag treffen").
+Eintrag(swiper, n, [swipers], "einer, der wischt").
+entry(swipes, npl, [], "verdorbenes Bier").
+entry(swiple, n, [swiples], "ein Teil eines Dreschgeräts").
+Eintrag(swipple, n, [swipples], "swiple").
+Eintrag(wirbeln, v, [wirbelte,wirbelnd,wirbelt], "sich in einer wirbelnden Bewegung bewegen").
+Eintrag(swirly, adj, [], "SWIRLIER SWIRLIESTswirling").
+entry(swish, v, [swished,swishing,swishes], "sich mit einem lang anhaltenden Zischlaut bewegen").
+entry(swish, adj, [], "GESCHICKT STILSICHER1 klug modisch 2 effeminiert").
+entry(swisher, n, [swishers], "jemand, der etwas hin und her bewegt").
+Eintrag(swishy, adj, [], "SWISHIER SWISHIESTschwingend effeminiert").
+entry(schweizer, n, [schweizer], "ein Baumwollstoff").
+Eintrag(schalter, v, [wechselte, wechselnd, schalter], "mit einer biegsamen Stange schlagen").
+entry(switchel, n, [switchels], "ein Getränk aus Wasser, Melasse und Essig und oft Ingwer").
+Eintrag(schalter, n, [schalter], "einer, der schaltet").
+entry(swith, adv, [], "schnell").
+entry(swithe, adv, [], "swith").
+entry(swither, v, [swithered,swithering,swithers], "zweifeln").
+Eintrag(swithly, adv, [], "swith").
+entry(swive, v, [swived,swiving,swives], "kopulieren mit").
+entry(schwenken, v, [schwenkte,schwenkend,schwenkt], "oder SCHWENKTE SCHWENKEND SCHWENKT-auf einem Drehgelenk drehen").
+Eintrag(swivet, n, [swivets], "ein Zustand nervöser Aufregung").
+Eintrag(swizzle, v, [swizzled, swizzling, swizzles], "übermäßig trinken").
+entry(swizzler, n, [swizzlers], "einer, der umrührt").
+entry(swob, v, [swobte, swobend, swobt], "abwischen").
+entry(swobber, n, [swobbers], "Wischer").
+entry([geschwollen], vergangenheit, [], "Partizip von schwellen").
+Eintrag(swoon, v, [swooned, swooning, swoons], "in Ohnmacht fallen").
+Eintrag(swooner, n, [swooners], "einer, der in Ohnmacht fällt").
+Eintrag(swoony, adj, [], "SWOONIER SWOONIESTlanguid dazed").
+Eintrag(swoop, v, [swooped,swooping,swoops], "einen plötzlichen Abstieg machen").
+entry(swooper, n, [swoopers], "einer, der herabschießt").
+entry(swoopy, adj, [], "SWOOPIER SWOOPIESTmit geschwungenen Linien oder Merkmalen").
+entry(swoosh, v, [swooshed,swooshing,swooshes], "sich mit einem raschelnden Geräusch bewegen").
+entry(swop, v, [swoppte, swoppend, swoppt], "tauschen").
+entry(swopper, n, [swoppers], "Tauscher").
+entry(schwert, n, [schwerter], "eine Waffe mit einer langen Klinge zum Schneiden oder Stechen").
+Eintrag(schwertkämpfer, n, [schwertkämpfer], "jemand, der im Umgang mit einem Schwert geübt ist").
+Eintrag(schwor, a, [], "Vergangenheit von schwören").
+Eintrag(geschworen, Vergangenheit, [], "Partizip von schwören").
+Eintrag(swot, v, [swotted, swotting, swots], "schlagen").
+entry(swotter, n, [swotters], "jemand, der büffelt").
+entry(swoun, v, [swounte, swounend, swount], "ohnmächtig werden").
+entry(schweben, v, [schwebte,schwebend,schwebt], "to swoon").
+entry(swum, past, [], "Partizip von schwimmen").
+entry(geschwungen, a, [], "Vergangenheit von schwingen").
+Eintrag(sybarite, n, [sybariten], "eine Person, die sich dem Vergnügen und Luxus hingibt").
+entry(sybo, n, [syboes], "die Schalotte").
+Eintrag(sykomore, n, [sykomoren], "der Maulbeerbaum").
+Eintrag(Ahorn, n, [Ahornbäume], "ein nordamerikanischer Baum").
+Eintrag(syce, n, [syces], "ein männlicher Diener in Indien").
+Eintrag(sycee, n, [sycees], "feines ungeprägtes Silber, das früher in China als Geld verwendet wurde").
+entry(sycomore, n, [sycomores], "Platane").
+entry(sycon, n, [sycons], "eine Art SchwammSYCONOID adj").
+entry(syconium, n, [sykonien], "eine fleischige Sammelfrucht").
+Eintrag(sykose, n, [sykosen], "eine entzündliche Erkrankung der Haarfollikel").
+Eintrag(syenit, n, [syenite], "ein magmatisches GesteinSYENITISCH adj").
+entry(syke, n, [sykes], "ein kleiner Bach").
+entry(syli, n, [sylis], "eine ehemalige Währungseinheit von Guinea").
+Eintrag(lehrpläne, a, [], "pl von Lehrplan").
+entry(syllabisch, n, [Silbenlaute], "ein Sprachlaut mit hoher Sonorität").
+Eintrag(silbe, v, [silbiert,silbiernd,silben], "Silben als Einheiten der gesprochenen Sprache auszusprechen").
+Eintrag(syllabub, n, [syllabubs], "sillabub").
+Eintrag(syllabus, n, [syllabuses], "oder SYLLABIAufriss eines Studienkurses").
+entry(sylph, n, [sylphen], "ein schlankes anmutiges Mädchen oder eine Frau SYLPHISCH SYLPHISCH SYLPHISCH adj").
+entry(sylphid, n, [Sylphiden], "eine junge Sylphe").
+entry(sylva, n, [sylvas], "oder SYLVAE die Waldbäume eines Gebiets").
+Eintrag(sylvan, n, [sylvans], "jemand, der in einem Wald lebt").
+entry(sylvatic, adj, [], "einen Wald betreffend").
+entry(sylvin, n, [sylvinite], "Sylvin").
+Eintrag(sylvine, n, [sylvines], "Sylvit").
+entry(sylvite, n, [Sylvite], "ein Erz des Kaliums").
+entry(symbion, n, [symbions], "Symbiont").
+Eintrag(symbiont, n, [Symbionten], "ein Organismus, der in enger Verbindung mit einem anderen lebt").
+entry(symbiot, n, [Symbioten], "Symbiont").
+entry(symbiote, n, [symbionten], "Symbiont").
+entry(symbol, v, [symbolisierte,symbolisierend,symbole], "oder SYMBOLISIERTE SYMBOLISIEREND SYMBOLEN dienen als ein Symbol eine Darstellung von").
+entry(symbolisch, adj, [], "einen Symbol betreffend").
+entry(symmetrie, n, [symmetrien], "eine genaue Übereinstimmung zwischen den gegenüberliegenden Hälften einer Figur").
+entry(sympathie, n, [mitgefühle], "ein Gefühl des Mitgefühls für das Leiden eines anderen").
+Eintrag(sympatry, n, [sympatries], "der Zustand, dass derselbe Bereich ohne Identitätsverlust durch Kreuzung besetzt wird").
+Eintrag(sinfonie, n, [symphonien], "eine orchestrale Komposition").
+entry(sympodia, npl, [], "Pflanzenstämme, die aus einer Reihe überlagerter Äste bestehen").
+entry(symposia, npl, [], "Konferenzen zum Zwecke der Diskussion").
+entry(symptom, n, [Symptome], "ein Hinweis auf etwas").
+entry(syn, adv, [], "syne").
+entry(synagoge, n, [synagogen], "ein Gebäude für jüdische Gottesdienste").
+Eintrag(synanon, n, [synanons], "eine Methode der Gruppentherapie für Drogenabhängige").
+entry(synapse, v, [synapsed,synapsing,synapses], "in der Synapse zusammenkommen").
+Eintrag(synapsid, n, [synapsiden], "eine Gruppe ausgestorbener Reptilien").
+entry(synapsis, n, [synapsen], "der Punkt, an dem ein Nervenimpuls von einem Neuron zu einem anderen übergehtSYNAPTISCH adj").
+Eintrag(sync, v, [synchronisiert, synchronisierend, synchronisiert], "veranlassen im Einklang zu arbeiten").
+Eintrag(syncarp, n, [syncarps], "eine fleischige Sammelfrucht").
+Eintrag(syncarpy, n, [syncarpies], "der Zustand, ein Syncarp zu sein").
+entry(synch, v, [synchronisiert,synchronisierend,synchronisiert], "synchronisieren").
+Eintrag(synchro, n, [synchros], "ein Selsyn").
+entry(syncline, n, [Synklinen], "eine Art von Felsformation").
+Eintrag(syncom, n, [syncoms], "eine Art von Kommunikationssatellit").
+Eintrag(synkope, n, [synkopen], "die Zusammenziehung eines Wortes durch das Auslassen eines oder mehrerer Laute aus der MitteSYNCOPAL SYNCOPISCH adj").
+Eintrag(syncytia, npl, [], "Massen von Protoplasma, die durch Zellfusion entstehen").
+Eintrag(syndesis, n, [syndesises], "or SYNDESESsynapsis").
+Eintrag(syndet, n, [syndets], "ein synthetisches Waschmittel").
+entry(syndetic, adj, [], "verbindend dienstlich").
+Eintrag(syndik, n, [syndiks], "ein GeschäftsträgerSYNDIKAL adj").
+Eintrag(syndrom, n, [syndrome], "eine Gruppe von Symptomen, die eine bestimmte Störung kennzeichnen").
+entry(syne, adv, [], "seit").
+Eintrag(synectic, adj, [], "ein System der Problemlösung betreffend").
+Eintrag(synergia, n, [synergien], "Synergie").
+entry(synergid, n, [Synergiden], "eine Zelle, die im Embryosack einer Samenpflanze gefunden wird").
+eintrag(synergie, n, [synergien], "kombinierte AktionSYNERGISCH adj").
+entry(synesis, n, [Synesen], "eine Art von grammatikalischer Konstruktion").
+entry(synfuel, n, [synthetische Kraftstoffe], "ein Brennstoff, der aus fossilen Brennstoffen gewonnen wird").
+Eintrag(syngamy, n, [syngamien], "die Vereinigung zweier GametenSYNGAMIC adj").
+entry(syngas, n, [syngase], "oder SYNGASESeine Mischung aus Kohlenmonoxid und Wasserstoff, die in der chemischen Synthese verwendet wird").
+entry(syngenic, adj, [], "sich auf genetisch identische Individuen hinsichtlich der Reaktion auf Antigene beziehend").
+Eintrag(synkarya, npl, [], "Kernzellen, die durch die Verschmelzung von zwei vorhandenen Kernen gebildet werden").
+entry(synode, n, [synoden], "ein KirchenratSYNODAL SYNODISCH adj").
+Eintrag(synonym, n, [Synonyme], "ein Wort, das dieselbe Bedeutung wie ein anderes hat").
+entry(synonyme, n, [synonyme], "Synonym").
+Eintrag(synonymie, n, [synonymien], "Gleichwertigkeit der Bedeutung").
+Eintrag(synopsis, n, [Inhaltsangaben], "eine ZusammenfassungSYNOPTISCH adj").
+Eintrag(synovia, n, [Synovien], "eine von bestimmten Membranen abgesonderte SchmierflüssigkeitSYNOVIAL adj").
+Eintrag(syntagm, n, [Syntagmen], "Syntagma").
+entry(syntagma, n, [syntagmen], "oder SYNTAGMATA, ein syntaktisches Element").
+entry(syntax, n, [Syntaxen], "die Art und Weise, wie Wörter zusammengefügt werden, um Phrasen und Sätze zu bilden").
+Eintrag(synth, n, [synths], "ein Synthesizer").
+entry(synthase, n, [Synthasen], "ein Enzym, das als Katalysator bei der Verknüpfung zweier Moleküle wirkt").
+entry(synthpop, n, [synthpops], "populäre Musik, die mit Synthesizern gespielt wird").
+Eintrag(syntone, n, [syntones], "eine Person mit einem syntonischen Temperament").
+Eintrag(syntonic, adj, [], "ein Temperament haben, das auf eine gegebene soziale Umgebung reagiert").
+entry(syntonie, n, [syntonien], "die Abstimmung von Sendern und Empfängern miteinander").
+entry(syntype, n, [Syntypen], "jeder aus einer Reihe von Typusexemplaren, auf deren Grundlage der Name einer neuen Spezies basiert").
+entry(synura, n, [synurae], "eine Gattung von Protozoen").
+entry(syph, n, [syphen], "Syphilis").
+entry(sypher, v, [syphered,syphering,syphers], "sich so überlappen, dass eine ebene Fläche wie abgeschrägte Brettkanten entsteht").
+entry(syphilis, n, [Syphilis], "eine Geschlechtskrankheit").
+entry(siphon, v, [siphonte, siphonend, siphont], "siphonieren").
+entry(syphonal, adj, [], "siphonal").
+Eintrag(syphonic, Adj, [], "siphonic").
+entry(syren, n, [syrens], "Sirene").
+entry(syrette, n, [syrettes], "ein kleines Röhrchen mit einer Hohlnadel, das eine Einzeldosis eines Medikaments enthält").
+Eintrag(flusso, n, [flussi], "ein Zierstrauch").
+entry(spritze, v, [gespritzt,spritzend,spritzen], "mit injizierter Flüssigkeit reinigen oder behandeln").
+entry(syrinx, n, [Syrinxen], "oder SYRINGESthe Stimmorgan eines Vogels").
+Eintrag(syrphian, n, [syrphians], "Schwebfliege").
+entry(syrphiden, n, [syrphiden], "ein geflügeltes Insekt").
+Eintrag(sirup, v, [sirupt, sirupierend, sirupiert], "mit einer dicken süßen Flüssigkeit versüßen").
+entry(sirupartig, adj, [], "SIRUPARTIGER SIRUPARTIGSTeinem dicken klebrigen süßen Flüssigkeit ähnelnd").
+entry(sysadmin, n, [systemadministratoren], "ein Systemadministrator").
+entry(sysop, n, [sysops], "der Administrator eines Computer-Bulletin-Boards").
+entry(system, n, [systeme], "eine Gruppe von interagierenden Elementen, die ein einheitliches Ganzes bilden").
+entry(systemisch, n, [systemische], "eine Art von Pestizid").
+Eintrag(systole, n, [systolen], "die normale rhythmische Kontraktion des HerzensSYSTOLISCH adj").
+entry(syzygie, n, [syzygien], "die Konstellation von Erde, Mond und Sonne, die in einer geraden Linie liegen; SYZYGAL, SYZYGIAL adj").
+entry(ta, n, [tas], "ein Ausdruck der Dankbarkeit").
+Eintrag(Tab, v, [tabbed, tabbing, tabs], "nennen oder bezeichnen").
+entry(bremse, n, [bremsen], "ein blutsaugendes Insekt").
+Eintrag(tabard, n, [tabards], "ein ärmelloses ObergewandTABARDED adj").
+entry(tabaret, n, [tabarets], "ein Seidenstoff").
+entry(geschlossen, vergangenheit, [], "zeitform von tab").
+entry(tabbing, n, [Tabulatornutzungen], "die Verwendung der Tabulatortaste auf einer Tastatur").
+entry(tabbis, n, [tabbise], "ein Seidenstoff").
+entry(tabby, v, [getiegerte, tigernd, tiger], "ein welliges Aussehen verleihen").
+Eintrag(taber, v, [tabered, tabering, tabers], "zu tabor").
+entry(tabes, n, [tabes], "eine syphilitische Krankheit").
+entry(tabisch, n, [tabische], "ein von Tabes Betroffener").
+entry(tabid, adj, [], "von Tabes betroffen").
+entry(Trommel, n, [Trommeln], "eine kleine Trommel").
+Eintrag(tisch, v, [getischt, tischen, tische], "ein Möbelstück mit einer flachen oberen Fläche auf einen Tisch stellen").
+Eintrag(tableau, n, [tableaus], "oder TABLEAUX ein Bild").
+Eintrag(tableful, n, [tablefuls], "oder TABLESFULso viel wie ein Tisch fassen kann").
+Eintrag(tablette, v, [tablettiert,tablettierung,tabletten], "oder TABLETTIERT TABLETTIERUNG TABLETTEN auf einer kleinen flachen Oberfläche zu beschriften").
+entry(tischplatte, n, [tischplatten], "die Oberseite eines Tisches").
+entry(tabling, n, [Tabellenkalkulationen], "das Aufstellen von Daten oder Informationen in Tabellenkolonnen").
+Eintrag(tabloid, n, [boulevardzeitungen], "eine kleine Zeitung").
+Eintrag(taboo, v, [tabooed, tabooing, taboos], "ausschließen von Gebrauch, Annäherung oder Erwähnung").
+entry(tabooley, n, [tabooleys], "Taboulé").
+Eintrag(tabor, v, [tabored, taboring, tabors], "auf einer kleinen Trommel schlagen").
+Eintrag(taborer, n, [taborers], "jemand, der trommelt").
+entry(tabouret, n, [tabourets], "eine kleine Trommel").
+entry(taborin, n, [taborins], "Taborine").
+entry(taborette, n, [taborettes], "ein Tabouret").
+entry(tabouleh, n, [Taboulehs], "Taboulé").
+eintrag(tabouli, n, [taboulis], "ein libanesischer Salat, der Bulgur, Tomaten, Petersilie, Zwiebeln und Minze enthält").
+Eintrag(tabour, v, [taboured, tabouring, tabours], "taboren").
+Eintrag(tabourer, n, [tabourers], "taborer").
+entry(tabouret, n, [tabourets], "Taboret").
+Eintrag(tabu, v, [tabued, tabuing, tabus], "tabuieren").
+entry(tabellarisch, adj, [], "zu einer Liste gehörend").
+entry(tabulate, v, [tabuliert,tabulierend,tabuliert], "in einer Liste anordnen").
+entry(tabuli, n, [tabulis], "taboulis").
+entry(tabun, n, [Tabun], "eine chemische Verbindung").
+Eintrag(tacan, n, [tacans], "ein Navigationssystem für Flugzeuge").
+entry(tace, n, [taces], "eine Tasse").
+entry(tacet, v, [], "schweigen  verwendet als musikalische Anweisung").
+entry(tachometer, n, [tachometer], "ein Gerät zur Anzeige der Drehgeschwindigkeit").
+entry(tache, n, [Schnallen], "ein Verschluss oder eine Schnalle").
+entry(tachinid, n, [Tachiniden], "eine gräuliche Fliege").
+Eintrag(tachismus, n, [tachismen], "Action Painting").
+entry(tachisme, n, [tachismen], "Tachismus").
+Eintrag(tachist, n, [tachists], "ein Action-Painter").
+Eintrag(tachiste, n, [tachistes], "Tachist").
+entry(tachyon, n, [tachyonen], "ein theoretisches subatomares Teilchen").
+Eintrag(tacit, adj, [], "unausgesprochenTACITLY adv").
+entry(schweigsam, adj, [], "gewohnheitsmäßig still").
+Eintrag(reißzwecke, v, [befestigt, befestigend, befestigt], "mit Reißzwecken kurzen scharfen Nägeln befestigen").
+entry(tacker, n, [tackers], "einer, der tackert").
+Eintrag(tacket, n, [tackets], "ein Schuhnagel").
+entry(tackey, adj, [], "SCHÄBIGSTE SCHÄBIGtacky").
+Eintrag(klebriger, Komparativ, [], "von klebrig").
+Eintrag(tackiest, Superlativ, [], "von kitschig").
+Eintrag(tackify, v, [tackified, tackifying, tackifies], "klebrig machen").
+entry(tackily, adv, [], "auf kitschige Weise").
+entry(tackle, v, [tackled,tackling,tackles], "zu ergreifen und zu Boden zu werfen").
+entry(tackler, n, [tackler], "einer, der tackelt").
+Eintrag(tackless, adj, [], "keine Reißnägel habend").
+entry(tackling, n, [tacklings], "Ausrüstung").
+entry(tacky, adj, [], "KLEBRIGER KLEBRIGSTEklebrig").
+Eintrag(taknoten, n, [taknoten], "ein Berührungspunkt zwischen zwei Kurven").
+Eintrag(taco, n, [tacos], "eine Tortilla, die um eine Füllung gefaltet ist").
+entry(taconit, n, [taconite], "ein eisenarmes Eisenerz").
+entry(tacrine, n, [tacrines], "ein Medikament zur Behandlung der Alzheimer-Krankheit").
+entry(tact, n, [Taktiken], "Geschick im Umgang mit heiklen Situationen").
+entry(taktvoll, adj, [], "takt habend").
+Eintrag(taktik, n, [taktiken], "ein Manöver zum Erreichen eines ZielsTAKTISCH adj").
+entry(taktil, adj, [], "den Tastsinn betreffend").
+entry(taction, n, [tactions], "die Handlung des Berührens").
+entry(taktlos, adj, [], "ohne Taktgefühl").
+entry(tactual, adj, [], "taktil").
+entry(tad, n, [tads], "ein kleiner Junge").
+Eintrag(kaulquappe, n, [kaulquappen], "die aquatische Larve eines Amphibiums").
+entry(tae, prep, [], "zu").
+entry(tael, n, [taels], "eine chinesische Gewichtseinheit").
+entry(taenia, n, [taenias], "oder TAENIAEa BandwurmTAENIOID adj").
+entry(taenit, n, [taenite], "eine Nickel-Eisen-Legierung in Meteoriten").
+entry(taffarel, n, [taffarels], "Heckplattform").
+entry(tafferel, n, [tafferels], "Schanzkleid").
+entry(taft, n, [taffetas], "ein glänzender Stoff").
+entry(taffia, n, [taffias], "Tafia").
+Eintrag(heckkorb, n, [heckkörbe], "ein Geländer um das Heck eines Schiffes").
+entry(taffy, n, [Taffys], "ein zäher Bonbon").
+Eintrag(tafia, n, [tafias], "ein minderwertiger Rum").
+entry(tag, v, [markiert,markierend,markierungen], "mit einem Etikett oder einer Kennzeichnung versehen").
+Eintrag(tagalong, n, [tagalongs], "jemand, der einem anderen folgt").
+entry(tagboard, n, [Etikettenkartons], "ein Material zur Herstellung von Versandetiketten").
+entry(tagetes, n, [tagetes], "eine blühende Pflanze").
+Eintrag(taggant, n, [taggants], "eine Substanz, die einem Produkt hinzugefügt wird, um dessen Herstellungsquelle anzuzeigen").
+entry(markiert, vergangenheit, [], "Zeitform von markieren").
+entry(tagger, n, [Tagger], "einer, der markiert").
+Eintrag(taggen, Präsens, [], "Partizip von tag").
+entry(tagine, n, [tagines], "Tajine").
+entry(tagartig, adj, [], "einem Etikett ähnelnd").
+entry(schlusszeile, n, [schlusszeilen], "die letzte Zeile eines Stücks oder Witzes, die den Punkt ausmacht").
+entry(tagmeme, n, [tagmemes], "die kleinste Einheit einer bedeutungstragenden grammatischen Beziehung").
+entry(tagmemisch, adj, [], "eine Grammatik betreffend, in der das Tagmem das Grundeinheit ist").
+entry(lumpenpack, n, [lumpen], "Gesindel").
+Eintrag(tahina, n, [tahinas], "Tahini").
+Eintrag(tahini, n, [tahinis], "eine Paste aus Sesamkörnern").
+entry(tahr, n, [tahrs], "ein ziegenartiges Säugetier").
+Eintrag(tahsil, n, [tahsils], "ein Bezirk in Indien").
+entry(taiga, n, [taigas], "ein subarktischer immergrüner Wald").
+entry(taiglach, n, [taiglach], "teiglach").
+entry(taiko, n, [taikos], "eine fassförmige japanische Trommel").
+Eintrag(schwanz, v, [geschwänzt,schwänzend,schwänze], "mit einem Schwanz oder einem hinteren Teil versehen").
+Eintrag(rückraumspieler, n, [rückraumspieler], "ein Mitglied des Rückfelds in einigen Fußballformationen").
+entry(steißbein, n, [steißbeine], "das Steißbein").
+entry(frack, n, [fracks], "ein Herrenmantel").
+Eintrag(nachsteller, n, [nachsteller], "jemand, der einem anderen heimlich folgt").
+entry(schwanzfächer, n, [schwanzfächer], "ein fächerförmiges Schwimmorgan am hinteren Ende einiger Krebstiere").
+entry(leitflosse, n, [leitflossen], "eine Flosse am hinteren Ende eines Fisches").
+Eintrag(tailgate, v, [tailgated, tailgating, tailgates], "gefährlich nah hinter einem anderen Fahrzeug fahren").
+entry(heckhaken, n, [heckhaken], "ein Haken, der vom Heck eines Flugzeugs herabgelassen wird, um ein Bremskabel zu greifen").
+entry(tailing, n, [tailings], "der Teil eines herausragenden Steins oder Ziegels, der in eine Wand eingesetzt wird").
+entry(rücklicht, n, [rücklichter], "ein Licht an der Rückseite eines Fahrzeugs").
+entry(taille, n, [tailles], "eine frühere französische Steuer").
+entry(schwanzlos, adj, [], "keinen Schwanz haben").
+entry(tailleur, n, [tailleurs], "ein Damenkostüm").
+entry(schwanzartig, adj, [], "einem Schwanz ähnelnd").
+entry(schneider, v, [geschneidert,schneidern,schneidert], "mit Kleidung anpassen").
+entry(schalldämpfer, n, [schalldämpfer], "ein Auspuffrohr").
+Eintrag(tailrace, n, [tailraces], "ein Teil eines Mühlenkanals").
+entry(tailskid, n, [Hecksporne], "eine Stütze, auf der das Heck eines Flugzeugs ruht").
+entry(heckenwirbel, v, [heckenwirbelte,heckenwirbelnd,heckenwirbelt], "kopfüber zur Erde wirbeln").
+Eintrag(rückenwind, n, [rückenwinde], "ein Wind, der von hinten auf ein sich bewegendes Fahrzeug trifft").
+Eintrag(tain, n, [tains], "eine dünne Platte").
+entry(verunreinigen, v, [verunreinigt, verunreinigend, verunreinigt], "etwas leicht mit etwas Schlechtem berühren oder beeinflussen").
+entry(taipan, n, [taipans], "eine giftige Schlange").
+entry(taj, n, [tajes], "eine hohe konische Mütze, die in muslimischen Ländern getragen wird").
+entry(tajine, n, [tajines], "ein marokkanischer Tontopf zum Kochen").
+Eintrag(taka, n, [takas], "eine Währungseinheit von Bangladesch").
+entry(takahe, n, [takahes], "ein flugunfähiger Vogel").
+entry(take, v, [nahm,genommen,nehmend], "NEHMENUm Besitz zu erlangenNEHMENSELBST NEHMBAR adj").
+Eintrag(Abholung, n, [Abholungen], "zubereitete Speisen, die vom Verkaufsort mitgenommen werden").
+eintrag(takedown, n, [takedowns], "ein Artikel, der leicht auseinander genommen werden kann").
+Eintrag(start, n, [starts], "der Akt des Abhebens").
+Eintrag(takeaway, n, [takeaways], "der Akt des Entfernens").
+entry(übernahme, n, [übernahmen], "der Akt der Übernahme").
+entry(taker, n, [nehmer], "einer, der nimmt").
+Eintrag(aufnehmen, n, [Aufnahmen], "der Akt des Aufnehmens").
+entry(takin, n, [Takins], "ein ziegenähnliches Säugetier").
+Eintrag(nehmen, n, [Einnahmen], "eine Beschlagnahme").
+entry(takingly, adv, [], "auf anziehende Weise").
+entry(tala, n, [talas], "ein traditionelles rhythmisches Muster der Musik in Indien").
+entry(talapoin, n, [talapoins], "ein kleiner afrikanischer Affe").
+Eintrag(talar, n, [talars], "ein langer Umhang").
+Eintrag(talaria, npl, [], "geflügelte Sandalen, die von verschiedenen Figuren der klassischen Mythologie getragen werden").
+entry(talbot, n, [talbots], "ein großer Hund einer ausgestorbenen Rasse").
+entry(talkum, v, [talkt, talkend, talks], "oder TALKTE TALKEND TALKSto mit Talk behandeln, einem weichen Mineral mit seifiger TexturTALKIG TALKHALTIG TALKISCH TALKIG adj").
+entry(talkum, v, [talkumiert,talkumierend,talkumiert], "mit einem aus Talk hergestellten Pulver behandeln").
+eintrag(geschichte, n, [geschichten], "eine Erzählung").
+Eintrag(taleggio, n, [taleggios], "ein weicher cremiger Käse").
+entry(talent, n, [Talente], "eine besondere natürliche FähigkeitBEGABT adj").
+entry(taler, n, [Taler], "eine ehemals verwendete deutsche Münze").
+entry(„Geschworener“, n, [„Geschworene“], „eine Person, die zur Besetzung einer Vakanz in einer Jury berufen wird“).
+Eintrag(tali, pl, [], "von Talus").
+entry(talion, n, [talions], "eine Vergeltung für ein Verbrechen").
+Eintrag(klumpfuß, n, [klumpfüße], "eine person, die an einem klumpfuß leidet").
+entry(klumpfuß, n, [klumpfuß], "Knickfuß").
+entry(talipot, n, [Talipots], "eine hohe Palmenart").
+entry(talisman, n, [Talismane], "ein Objekt, dem magische Kräfte zugeschrieben werden").
+entry(sprechen, v, [sprach, sprechend, spricht], "durch Reden kommunizieren").
+entry(talkable, adj, [], "fähig, darüber gesprochen zu werden").
+entry(talkback, n, [talkbacks], "eine Einweg-Kommunikationsverbindung zwischen einer Regiekabine und einem Aufnahmestudio").
+Eintrag(sprecher, n, [sprecher], "jemand, der spricht").
+entry(veranstaltung, n, [veranstaltungen], "ein gesprächsfest").
+entry(talkie, n, [talkies], "ein Spielfilm mit synchronisiertem Ton").
+entry(gespräch, n, [gespräche], "Unterhaltung").
+entry(talky, adj, [], "GESPRÄCHIGER GESPRÄCHIGSTENEigt dazu, viel zu reden").
+entry(groß, n, [große], "eine Kleidergröße für große Personen").
+eintrag(groß, adj, [], "GRÖSSER GRÖSSTERmit großer Höhe").
+entry(tallage, v, [besteuert,besteuernd,besteuert], "besteuern").
+Eintrag(tallboy, n, [tallboys], "ein Highboy").
+Eintrag(addiert, vergangenheit, [], "Zeitform von hinzufügen").
+entry(zaehler, n, [zaehler], "einer, der zaehlt").
+Eintrag(summen, vorhanden, [], "3. Person Sg. von Summe").
+Eintrag(tallis, n, [tallises], "oder TALLISIMtallith").
+entry(tallish, adj, [], "etwas groß").
+entry(tallit, n, [tallits], "oder TALLITIMtallith").
+entry(tallith, n, [talliths], "oder TALLITHIMA ein jüdischer Gebetsschal").
+Eintrag(groesse, n, [groessen], "der Zustand, groß zu sein").
+Eintrag(tallol, n, [tallole], "eine harzige Flüssigkeit").
+entry(talg, v, [talgte, getalgt, talgt], "mit Talg, einem Gemisch aus tierischen Fetten, schmieren").
+Eintrag(talgig, adj, [], "ähnlich wie Talg").
+Eintrag(tally, v, [aufgezählt, aufzählen, aufzählt], "zählen").
+entry(tallyho, v, [tallyhoed,tallyhoing,tallyhos], "oder TALLYHOEs, um einen ermutigenden Ruf an Jagdhunde zu machen").
+entry(tallyman, n, [tallymen], "eine Person, die zählt").
+entry(talmudisch, adj, [], "den jüdischen zivilen und religiösen Gesetzen betreffend").
+Eintrag(talon, n, [Krallen], "eine Klaue eines RaubvogelsTALONED adj").
+Eintrag(talooka, n, [talookas], "taluk").
+eintrag(taluk, n, [taluks], "ein Anwesen in Indien").
+Eintrag(taluka, n, [talukas], "taluk").
+entry(talus, n, [Geröllhalden], "ein Hang, der durch eine Ansammlung von Steinschutt gebildet wird").
+entry(talus, n, [tali], "ein Knochen des Fußes").
+entry(tam, n, [tams], "eine eng anliegende schottische Mütze").
+Eintrag(zähmbar, adj, [], "fähig, gezähmt zu werden").
+entry(tamal, n, [tamals], "Tamale").
+eintrag(tamale, n, [tamales], "ein mexikanisches Gericht").
+entry(tamandu, n, [tamandus], "Tamandua").
+entry(tamandua, n, [tamanduas], "ein baumbewohnender Ameisenbär").
+entry(tamarack, n, [tamaracks], "ein Baum für Holz").
+entry(tamarao, n, [tamaraos], "tamarau").
+entry(tamarau, n, [tamaraus], "ein kleiner Büffel der Philippinen").
+entry(tamari, n, [tamaris], "eine japanische Sojasauce").
+entry(tamarin, n, [tamarine], "ein südamerikanischer Affe").
+entry(tamarinde, n, [tamarinden], "ein tropischer Baum").
+entry(tamariske, n, [tamarisken], "ein immergrüner Strauch").
+entry(tamasha, n, [tamashas], "eine öffentliche Unterhaltung in Indien").
+Eintrag(tambac, n, [tambacs], "tombac").
+Eintrag(tambak, n, [tambaks], "tombak").
+Eintrag(tambala, n, [tambalas], "oder MATAMBALA eine Währungseinheit von Malawi").
+entry(tambour, v, [tambourierte, tambourierend, tambouriert], "auf einem runden Holzrahmen sticken").
+Eintrag(tamboura, n, [tambouras], "tambura").
+entry(tambur, n, [tamburs], "Tamburin").
+Eintrag(tambura, n, [tamburas], "ein Saiteninstrument").

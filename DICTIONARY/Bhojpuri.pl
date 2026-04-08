@@ -22821,3 +22821,2296 @@ entry(शॉम, न, [शॉम्स], "एक पहिला बांसु
 entry(shay, n, [shays], "ek kursi").
 entry(shaykh, n, [shaykhs], "शेख").
 entry(shazam, interj, [], "jadu ke ghatna ke sanket dewe ke le use howela").
+entry(shh, interj, [], "श").
+entry(shhh, interj, [], "श्ह").
+entry(shiatsu, n, [shiatsus], "ek malish jo ungli ke dabaw se kaila jaala").
+entry(shiatzu, n, [shiatzus], "shiatsu").
+entry(shibah, n, [shibahs], "shiv").
+```
+entry(shicker, n, [shickers], "ek daaru piike hoshiyaari khone wala").
+```
+entry(sharmaail, bhoot, [], "sankoch ke bhootkal").
+entry(shiel, n, [shiels], "shieling").
+entry(shield, v, [shielded,shielding,shields], "ek suraksha kavach ya aasra dewat barnan kare la").
+entry(shielder, n, [shielders], "जवन ढाल बन के बचावे").
+entry(गड़ेरि, न, [गड़ेरियन], "shealing").
+entry(shier, n, [shiers], "ek ghoṛa jo lajawat rahal ba").
+entry(shies, present, [], "तीसरा पक्ष अकेला लजाएला").
+entry(shiest, a, [], "shy ke superlative").
+entry(shift, v, [sarkaail, sarkaait, sarkaave], "ek sthaan se doosra sthaan par jaana").
+entry(shifter, n, [shifters], "ओकरा जेह क घुमावेला").
+entry(shifting, n, [shiftings], "ek jagah se dusra jagah le jaave ke karke").
+entry(shifty, adj, [], "SHIFTIER SHIFTIESTtrickySHIFTILY adv").
+entry(shigella, n, [shigellas], "ya SHIGELLAE, koi aerobic bacteria ke ek jai").
+entry(shiitake, n, [shiitakes], "ek gahr Oriasii mushroom").
+entry(shikar, v, [shikarred, shikarring, shikars], "shikaar kare").
+entry(shikara, n, [shikaras], "kashmir ke ek halka aur saphaad taala waala nav").
+entry(shikaree, n, [shikarees], "ek bada shikaar karat banai").
+entry(शिकारी, न, [शिकारिस], "शिकारी")।
+entry(शिक्कर, n, [शिक्कर्स], "शिक्कर").
+entry(shikra, n, [shikras], "ek chhota baju pakad e baaz").
+entry(शिलिंगी, सं, [शिलिंगी], "तंजानिया के एगो मुद्रा इकाई").
+entry(shill, v, [shilled,shilling,shills], "nakal ke tor par kaam kare").
+entry(shillala, n, [shillalas], "ek chhota mota gada").
+entry(shilling, n, [shillings], "Britain ke ek purana mudra ba").
+entry(shilpit, adj, [], "bimar").
+entry(shily, adv, [], "लजाइल तरीका से").
+entry(shim, v, [shimmed,shimming,shims], "ek patli kaz rakh ke bharel a level kar elak").
+entry(shimmer, v, [shimmered,shimmering,shimmers], "timtimana").
+entry(shimmery, adj, [], "chamakdar").
+entry(shimmy, v, [shimmied,shimmying,shimmies], "hiley ya dagmagaye").
+entry(shin, v, [shinned,shinning,shins], "hath aur goid se pakad ke par par charhat").
+entry(shinbone, n, [shinbones], "tibia").
+entry(shindig, n, [shindigs], "ek tiharu ya badiya party").
+entry(shindy, n, [shindys], "ya SHINDIESa shindig").
+```prolog
+entry(shine, v, [chamakal, chamkat, chamke], "ujjwal kare ke"). 
+```
+entry(shiner, n, [shiners], "वो जवन चमकल")।
+entry(shingle, v, [shingled,shingling,shingles], "chhapra ke patiya jaise saamaan se dhakhe").
+entry(shingler, n, [shinglers], "एक जिनगी जे छत बिछावेला").
+entry(shingly, adj, [], "छोट आ ढ़िल पत्थर से ढँकल").
+entry(shinier, tulnatmak, [], "ke shiny se").
+entry(shiniest, superlative, [], "चमकदार के").
+entry(shinily, kriya visheshan, [], "chamakdar tareeke se").
+entry("chamakta", adj, [], "rosni karat ba").
+`entry(shinleaf, n, [shinleafs], "ja SHINLEAVES ek barmsaik vanaspati hai").`
+entry(shinned, past, [], "के घुटना").
+entry(shinnery, n, [shinneries], "छोटका बृक्ष के घना झुरमुट").
+entry(shinney, v, [shinneyed,shinneying,shinneys], "ek tarah ke hockey khelna").
+entry(shinning, present, [], "चमक के participle").
+entry(shinny, v, [shinnied,shinnying,shinnies], "shin ke baad karat").
+entry(shinty, n, [shinties], "ek Scottish khel jo field hockey jaisan ba").
+entry(shiny, adj, [], "चमकेला, सबसे चमकेला, रोशनी से भरल").
+entry(ship, v, [shipped, shipping, ships], "ek naav ke jariyaa deep paani mein naavik gati ke laayak saamaan le jaai ke").
+entry(shiplap, n, [shiplaps], "eka saanjha je carpentry me istemal hoyela").
+entry(shipless, adj, [], "जहाज बिना").
+entry(shipload, n, [shiploads], "jitna jahaj la sakela").
+entry(shipman, n, [shipmen], "ek navik").
+entry(shipmate, n, [jahaji], "ek saathi naavik").
+entry(shipment, n, [bhejawa], "kuchh jo bhejal jaala").
+entry(भेजल, भूतकाल, [], "जहाज के काल").
+entry(shippen, n, [shippens], "ek gaushala").
+entry(shipper, n, [shippers], "ek jo ship karela").
+entry(shipping, n, [shippings], "ekra ke bhijawa ke vyapar").
+entry(shippon, n, [shippons], "shippen").
+entry(जहाजकातरफ, न, [जहाजकातरफबा], "जहाज के साथ के इलाका").
+entry(shiptime, n, [shiptimes], "rasad ke jahaj ke barsik aawagaman").
+entry(shipway, n, [shipways], "ek nadi ya nahar jo jahaj ke chal sake ke laayak gahra ho").
+entry(shipworm, n, [shipworms], "ek keet jaisan mollusk").
+entry(portaghar, n, [portaghars], "ek jagah jahaan jahaj banawa jaawe baa ya thik karaa jaawe baa").
+entry(shiraz, n, [shirazes], "ek parkar ke angur ke sharab").
+entry(shire, n, [shires], "Great Britain ke ek ilaka vibhajan").
+entry(shirk, v, [kām chorāil, kām chorāwat, kām chorāwe], "kām dhur keṉa").
+entry(shirker, n, [shirkers], "je kahiyo kaam na kare").
+entry(shirr, v, [shirred,shirring,shirrs], "kapra ke tin ya adhik samantar pankti me khinch ke layee ke kary").
+entry(shirring, n, [shirrings], "kapra ke charhawa buni").
+entry(shirt, n, [shirts], "upari bhaa ke pehnawaSHIRTED adj").
+entry(shirting, n, [shirtings], "shirt banave ke kapra").
+entry(shirty, adj, [], "SHIRTIER SHIRTIESTkrodhitSHIRTILI adv").
+entry(shist, n, [shists], "schist").
+entry(shitake, n, [shitakes], "शiitake").
+entry(shittah, n, [shittahs], "ek hardwud ke gachh").
+entry(shittim, n, [shittims], "shittah ke kaath").
+entry(shiur, n, [shiurim], "ek Talmudic adhyaayan satra").
+entry(shiv, n, [shivain], "ek chaku").
+entry(shiva, n, [shivas], "ek shok ke avadhi").
+entry(शिवह, पु, [शिवहस], "शिव").
+entry(शिवारी, v, [शिवारल, शिवारत, शिवारs], "चिवार करs के").
+प्रवेश(शिवे, संज्ञा, [शिवेस], "एक पतला टुकड़ा")।
+entry(kaamp, kriya, [kaampl, kaampat, kaampe], "darr ya thand se kaanp na").
+entry(shiverer, n, [shiverers], "जवन काँपत बा").
+entry(shivery, visheshan, [], "kapkapi").
+entry(shiviti, n, [shivitis], "abir raati ek farik sange Hebrew pad").
+entry(shlemiel, n, [shlemiels], "ek abhaag rahal anaड़ी").
+entry(shlep, v, [shlepped,shlepping,shleps], "schlep करे के").
+entry(shlepp, v, [shlepped, shlepping, shlepps], "schlep कइल")।
+entry(shlepper, n, [shleppers], "samaan dhale wala").
+entry(shleppy, adj, [], "श्लेप्पियर श्लेप्पिएस्ट्श्लेप्पी").
+entry(shlock, n, [shlocks], "सस्ते समान").
+entry(shlocky, vishi, [], "SHLOCKIER SHLOCKIESTschlocky").
+entry(shlub, n, [shlubs], "schlub").
+entry(shlump, v, [shlumped,shlumping,shlumps], "schlump kare").
+entry(shlumpy, visesann, [], "alas").
+entry(shmaltz, n, [shmaltzes], "शमल्त्ज़").
+entry(shmaltzy, visheshan, [], "SHMALTZIER SHMALTZIESTschmalzy").
+entry(shmatte, n, [shmattes], "schmatte").
+`entry(shmear, v, [shmeared,shmearing,shmears], "लगा ना").`
+entry(shmeer, v, [shmeered, shmeering, shmeers], "schmeer करीं").
+एंट्री(स्मो, न, [स्मोज], "शमो").
+entry(shmoe, n, [shmoes], "schmo").
+entry(shmooze, v, [shmoozed,shmoozing,shmoozes], "गपियाना").
+entry(shmoozer, n, [shmoozers], "जवन गपियाइला करे").
+entry(shmoozy, adj, [], "SHMOOZIER SHMOOZIESTschmoozy").
+entry(बेवकूफ़, न, [बेवकूफ़न], "बेफकूफ").
+entry(shmucky, visheṣaṇ, [], "SHMUCKIER SHMUCKIESTschmucky").
+entry(shnapps, n, [shnapps], "schnapps").
+कराही(shnaps, n, [shnaps], "schnapps").
+entry(shnook, n, [shnooks], "स्नूक").
+entry(shnorrer, n, [shnorrers], "je dusra ke udarta ke faida uthawela").
+entry(shoal, adj, [], "SHOALER SHOALESThalka").
+entry(shoal, v, [shoaled,shoaling,shoals], "owt shallow hokha").
+entry(shoaly, adj, [], "ओकरा उथला इलाका से भरल बा, जेह में 'शोअलियर' आ 'शोअलियेस्त' खाली बा").
+entry(shoat, n, [shoats], "ek nojawaan soor").
+entry(shochet, n, [shochetim], "ek vyakti jo Yahudi kanoon ke anusaar janwar aur pakshi ke jhatka karta hai").
+entry(shochu, n, [shochus], "ek Japanese sharab").
+entry(shock, v, [shocked,shocking,shocks], "bada ajeebee, ghin otiyaar, bhaut bada aesaa ghatna se prabhavit karna").
+entry(shocker, n, [shockers], "ओह बस्तु जे झटका देला").
+entry(shod, a, [], "shoe के भूतकाल").
+entry(shodden, a, [], "shoe ke past participle").
+entry(shoddy, adj, [], "घटिया गुणवत्ता केSHODDILY adv").
+entry(shoddy, n, [shoddies], "ek nich-guniya oon").
+entry(juta, n, [juta], "ya SHOONa pair ke ghujni ke la Hawa").
+```prolog
+entry(juta, v, [jutail,jutayal,jutawe], "JUTAwala jutwa se pradan karai").
+```
+entry(shoebill, n, [shoebills], "ek panighagh waala pakshi").
+entry(shoebox, n, [जूता-बक्सन], "जूता के एगो जोड़ी राखे खातिर लमहर बक्सा").
+entry(shoehorn, v, [shoehorned,shoehorning,shoehorns], "chhota jagha me jor se dhake lana").
+entry(जूता_के_फीता, पुल्लिंग, [जूता_के_फीता], "जूता बांध खातिर फीता").
+entry(bina_juta, viseshan, [], "juta ke bina").
+entry(shogi, n, [shogis], "ek jaapani khel jaise ches").
+entry(शोगुन, न, [शोगुन्स], "जापान के एगो पहिलका सैनिक नेताSHOGUNAL विशेषण").
+entry(shoji, n, [shojis], "जापानी घर में परमिल या काट पर इस्तेमाल होय वाला कागज़ के स्क्रीन").
+entry(shojo, n, [shojo], "manga jo pehla badiya se ladkiyon la ba").
+entry(शोलोम, n, [शोलोम्स], "शालोम").
+entry(shone, a, [], "shine के भूतकाल रूप").
+entry(shoo, v, [shooed, shooing, shoos], "bhagaawe ke liye").
+entry(shoofly, n, [shooflies], "ek bachpan ke jhoola").
+entry(shook, n, [shooks], "एक बैरल असेंबल करे या पैकिंग खातिर पार्ट्स के सेट").
+entry(shool, v, [shooled, shooling, shools], "kodal se khodna").
+entry(shoon, a, [], "जूता के बहुवचन").
+entry(shoosh, v, [shooshed, shooshing, shooshes], "ek dhak dhak awaz ke saath hilna").
+```prolog
+entry(shoot, v, [shot,shooting,shoots], "ek hatiyaar se nisana maar ke ghaayal ya maar dewe ke").  
+```
+entry(shooter, n, [shooters], "गोली मारे वाला").
+entry(shooting, n, [shootings], "गोली मारे के काम").
+entry(shootist, n, [shootists], "गोली चलावे में निपुण मनई").
+entry(shootout, n, [shootouts], "ek battle jo ki bandookan ke saath lade jaat ba").
+entry(shop, v, [shopping kail, shopping kare, shopping karela], "samaan dekha ke kharide ke iraada se ghoomla").
+entry(dukandaar, n, [dukandaar], "ek bikreta").
+entry(shopgirl, n, [shopgirls], "ek bikri karnia").
+entry(shophar, n, [shophars], "ya SHOPHROTHshofar").
+```prolog
+entry(dukanaheen, visheshan, [], "dukane nahi baani").
+```
+entry(shoplift, v, [dukandari,dukandari_kari,dukandaris], "dukān se māl chori kare").
+entry(shopman, n, [shopmen], "ek jo chhota dukan chalawat ba").
+entry(shoppe, n, [shoppe], "ek chhota dukan").
+entry(कीनल, भूतकाल, [], "दुकानदारी के काल").
+entry(shopper, n, [shopping karnewala], "ek jo shopping karta hai").
+entry(shopping, n, [shoppings], "kharidauri ke kam").
+entry(shoppy, visheshan, [], "SHOPPIER SHOPPIESTkinu kharidarike la sahayak").
+entry(dukandarbat, n, [dukandarbatan], "vyakti ke bavasaay ya roji-roti ke sambandhit guftagu").
+entry(shopworn, visheshan, [], "dukān me pradarshit rahe ke karan ghisal").
+entry(शोरान, न, [शोरान्स], "नेविगेशनल सिस्टम के एक प्रकार").
+entry(किनारा, क्रि, [किनारेलक, किनाररहल, किनारs], "एक गो सहारा देवे वाला लकड़ी से टिकावे के खातिर").
+entry(shoring, n, [shorings], "ek pranali jo sahara diyale lakdiya ke banawat ha").
+entry(shorl, n, [shorls], "schorl").
+entry(shorn, a, [], "shear के भूतकाल रूप").
+entry(short, adj, [], "छोटा छोटहन, जिनकर लंबाई कम होला").
+entry(छोट, v, [छोटल, छोटत, छोटिया], "बिजली के खराबी के एक तरीका के कारण बने में").
+entry(abhav, n, [abhavan], "ik bure praman ya matra ke bhav").
+entry(shortcut, v, [shortcut,shortcutting,shortcuts], "ek nikasila ya tabe andaazi raasta lebe").
+entry(shorten, v, [shortened,shortening,shortens], "छोट करवला या छोट होखे").
+entry(shortia, n, [shortias], "ek baaramasi jhadi").
+entry(shortie, n, [shorties], "छोटू").
+entry(shorties, pl, [], "छोटुवन के").
+entry(shortish, adj, [], "कुछ छोट").
+entry(shortly, kriya-visheshan, [], "thodi der mein").
+entry(shorty, n, [guttna], "ek jo chhota ho").
+entry(shot, v, [shotted, shotting, shots], "chhota seas ya steel ke goli se load kare").
+entry(छोटे, स, [छोटेस], "बकरी के बच्चा").
+entry(shotgun, v, [shotgunned, shotgunning, shotguns], "ek prakar ke bandook se goli maarat").
+entry(shothole, n, [shotholes], "chattan me barood rakhe ke khatir drill kaila gail ek gaddha").
+entry(chott, n, [chottan], "chott").
+entry(ghosal_jalan, bhoot, [], "goli maar ke nikalal").
+entry(shotten, adj, [], "pahuncha bhail maachli ke liye istamal bhail").
+entry(shotting, present, [], "shot के participle").
+entry(should, past, [], "shall के काल रूप").
+entry(shoulder, v, [shouldered,shouldering,shoulders], "bojh ke uthae ke ya jimmedari lewe ke").
+entry(shouldest, a, [], "shall के बीतल काल के 2रा व्यक्ति एकवचन रूप").
+entry(shouldst, a, [], "shall के अइसन दुसरका अदमी एकवचन बीतल काल").
+entry(chillana, v, [chillail, chillait, chillait hai], "jor se chillana").
+entry(shouter, n, [shouters], "लउका जे चिल्ला रहल बा").
+entry(shouty, adj, [], "चिल्लाहर चिल्लाहरोख, जे चिल्लाइल से भइल बा या चिल्लावे के गुण बा").
+entry(shove, v, [dhakka_diya, dhakka_dewat, dhakka_de], "jor se dhakka dewa").
+entry(kudal, v, [kudalwa, kudalrai, kudalma], "ya KUDALWA KUDALRAI KUDALma ek kudal ke saath uthae ke liye ek khodai ke sadhan").
+entry(shoveler, n, [shovelers], "jawan khojata").
+entry(shover, n, [shovers], "ek jisse dhakela jala").
+entry(shoving, present, [], "shove के participle").
+entry(show, v, [dekhawe, dekhai, dekhta], "SHOWSto cause or permit to be seenSHOWABLE adj").
+entry(showbiz, n, [showbizzes], "दिखावा व्यापार").
+entry(showboat, v, [showboated,showboating,showboats], "dikhawa kare").
+entry(showcase, v, [pradarshit, pradarshan, pradarshin], "dekhawe").
+entry(showdown, n, [showdowns], "ek ghatna jisse kisi maamla ke faisla hota hai").
+entry(shower, v, [showered, showering, showers], "paani ke chhidkawa mein nahawe ke").
+pravesh(snānkarā, n, [snānkarān], "oi jo snān karē").
+entry(showery, adj, [], "chotka-chotka barish ke saath bharal").
+entry(showgirl, n, [showgirls], "ek nachania laadki").
+entry(showgoer, n, [showgoers], "ojha je ek show dekhe").
+entry(showier, comparative, [], "के चमकदार").
+entry(showiest, superlative, [], "of showy").
+entry(showily, adv, [], "ekdam dikhawa karat").
+entry(pradarshan, n, [pradarshanon], "ek pradarshan ya dikhawa").
+entry(showman, n, [showmen], "ek rangmanch nirmata").
+एंट्री(दिखावल, भूतकाल, [], "शो के पार्टिसिपल").
+entry(showoff, n, [showoffs], "ek pretentious display ke liye dihal ba").
+entry(showring, n, [showrings], "एक अंगूठी जहाँ जानवर देखावल जाला").
+entry(showroom, n, [showrooms], "ek kamra jo samaan ke display kare khatir istemal h").
+entry(showtime, n, [samay], "manoranjan ke suru hone ke samay").
+entry(showy, adj, [], "زیادہ دکھاوا کرنے والا، سب سے زیادہ دکھاوا کرنے والاوشالی شوویسٹ").
+entry(shoyu, n, [shoyus], "सोया सॉस").
+entry(shrank, past, [], "सिकुड़े के काल").
+entry(shrapnel, n, [shrapnels], "phatate bam mine ya gole ke tukra").
+entry(फाड़, क्रि, [फाड़ल,फाड़त,फाड़ेला], "छोट-छोट पट्टी में फाड़े के").
+entry(shredder, n, [shredders], "जेकरा से कतरन होला").
+entry(shrew, v, [shrewed, shrewing, shrews], "gali debaa").
+entry(shrewd, adj, [], "SHREWDER SHREWDEST bhetar samajh rakhnaSHREWDLY kriyapad").
+entry(shrewdie, n, [shrewdies], "ek hoshiyaar vyakti").
+entry(shrewish, visheshan, [], "badaswabhavi").
+entry(श्री, n, [श्रीस], "श्री").
+entry(cheeekh, v, [cheeekhal, cheeekhate, cheeekhata], "ekar tihonaa awaj mein cheekhna").
+entry(shrieker, n, [shriekers], "जवन चीखेला").
+प्रवेश(shrieky, विशेषण, [], "SHRIEKIER SHRIEKIESTतिखखा").
+entry(shrieval, visheṣaṇ, [], "ek sheriff se sambandhit").
+entry(shrieve, v, [shrieved,shrieving,shrieves], "argh vishudhh karna").
+entry(shrift, n, [shrifts], "shriving के कारज").
+entry(shrike, n, [shrikes], "ek shikari chiriya").
+```prolog
+entry(shrill, adj, [], "SHRILLER SHRILLESTek ucc svar aur chhedhla khubsurtiSHRILLY adv").
+```
+entry(shrill, v, [shrilled,shrilling,shrills], "ek tikhor awaz nikaal ke bolat").
+entry(झींगा, v, [झींगावल, झींगावत, झींगs], "नन्हक समुद्री डिक्पाड पकड़े के").
+entry(shrimper, n, [shrimpers], "एक झिंगा मछुआरा").
+entry(shrimpy, adj, [], "SHRIMPIER SHRIMPIESTjhring se bharal").
+entry(shrine, v, [shrined,shrining,shrines], "pabitra avasheshan ke rekceptacle me rakhle ke sthaan par thik kare ke").
+entry(shrink, v, [shrunken,shrinking,shrinks], "सिकुड़ल").
+entry(shrinker, n, [shrinkers], "जे सुकुड़ेला").
+entry(shrive, v, [shrived,shriven,shriving], "SHRIVE tarko bekh-bekh ke praayaschit sun ke maaf karna").
+entry(sukra, v, [sukral, sukrahat, sukrai], "ya SUKRAL SUKRAHAT SUKRAIjhuri me sikud jaye").
+entry(श्राइवर, पु, [श्राइवर्स], "जवन पाप कबूल करावत हउवे").
+entry(shroff, v, [shroffed,shroffing,shroffs], "ek sikke ke asliyat ke jaanch karna").
+entry(shroom, n, [shrooms], "ek mushroom, ek tarah ke fungus").
+entry(shroomer, n, [shroomers], "उ बताखा जे मउआ खाए में आनंद लेवे ला").
+entry(shroud, v, [shrouded,shrouding,shrouds], "kafan me lapetana").
+entry(shrove, a, [], "shrive के बीतल काल").
+entry(shrub, n, [gach], "ek nochhari kaant daari paudha").
+entry(shrubby, visheshan, [], "झाड़ीदार झाड़ीदारतमझाड़ी से ढंका").
+entry(shrug, v, [kandha_uchkalal, kandha_uchkat_rahai, kandha_uchkalas], "kandha ke uthake aur sikod ke rakhna").
+entry(shrunk, a, [], "shrink ke bhoot kaal").
+entry(sikuda, a, [], "shrink ke past participle").
+entry(shtetel, n, [shtetels], "ya SHTETLACH ek Yahudi gawan").
+entry(shtetl, n, [shtetls], "ya SHTETLACHshtetel").
+entry(shtick, n, [shticks], "ek manoranajan kariya").
+entry(shticky, adj, [], "SHTICKIER SHTICKIEST ek shtick ke samaan").
+entry(ठोकी, सं, [ठोकीसं], "ठोकी").
+entry(shtum, visheshan, [], "schtum").
+entry(shuck, v, [shucked,shucking,shucks], "chhilka ke hatawe ke").
+entry(shucker, n, [shuckers], "जे छीलs").
+entry(shucking, n, [shuckings], "केकरो के छिलावे के काम").
+entry(kaamp, v, [kaampil, kaampat, kaampela], "kaanp ke haal").
+entry(shuddery, adj, [], "काँपत").
+entry(shuffle, v, [shuffled,shuffling,shuffles], "pair ke na utha ke chalna").
+entry(shuffler, n, [shufflers], "उ ए भा जे सरदीगर तरीका से चीजन के सजावे ला").
+entry(shul, n, [shuls], "na ki SHUL gurdwara").
+entry(shumai, npl, [], "जापानी पकौड़ी").
+entry(shun, v, [shunned, shunning, shuns], "bachaw").
+entry(shunner, n, [shunners], "jawan se bach ke rahal").
+\text{entry}( \text{shunpike}, \text{v}, [\text{shunpiked}, \text{shunpiking}, \text{shunpikes}], \text{"}{\text{expressway से बचावे खातिर कांही रोड पर यात्रा करे}}\text{"}).
+entry(shunt, v, [shunted,shunting,shunts], "alag kar deb").
+entry(shunter, n, [shunters], "ek baa j kaile wala").
+entry(shuteye, n, [shuteyes], "nindra").
+entry(shutoff, n, [shutoffs], "ek device jo kuch band karata hai").
+entry(shutout, n, [शटआउट], "ए खेल जेमा एगो टीम गोल ना कर सके").
+entry(shutter, v, [shuttered,shuttering,shutters], "khidki ke dhankewala patia lagave").
+entry(shutting, present, [], "shut के वर्तमान क्रिया बाचक रूप").
+entry(shuttle, v, [shuttled, shuttling, shuttles], "आवा जाही करे के").
+entry(shuttler, n, [shuttlers], "jawan ka shuttler").
+entry(shvitz, v, [shvitzed,shvitzing,shvitzes], "pasina bahana").
+entry(shwa, n, [shwas], "schwa").
+entry(shwanpan, n, [shwanpans], "swanpan").
+entry(लजाल, विशेषण, [], "लजालबेसे लजालबाथवा या लजालबेसे लजालबाथवा।").
+entry(sharmil, v, [sharmayil,sharmi,sharmail], "der ke mare khatir achanak pichha ya alag ho jaawe").
+entry(shyer, n, [shyers], "shier").
+entry(shylock, v, [shylocked, shylocking, shylocks], "bahut adhik byaaj par paisa udhar dena").
+entry(लजायल, क्रिया-विशेषण, [], "लजायल ढंग से").
+entry(शर्मीपन, न, [शर्मीपन], "शर्मी होखे के अवस्था").
+entry(shyster, n, [shysters], "ek beiman wakil ya neta").
+entry(si, n, [बहिन], "ti").
+entry(sial, n, [sials], "ek parkar ke chattan gathanSIALIC adj").
+entry(sialid, n, [sialids], "ek barari").
+entry(sialidan, n, [sialidans], "स्यालिड").
+entry(sialoid, visheṣaṇ, [], "lālā se milat-julat").
+entry(siamang, n, [siamangs], "ek bada kalar ke gibbon").
+entry(siamese, n, [siameses], "ek paani ke pipe jisme do pipe ke jodne ke connection ba").
+entry(sib, n, [bhai_bahan], "ek bhai bahin").
+entry(sibb, n, [sibb], "सिब्ब").
+entry(sibilant, n, [sibilants], "ek baat ka dhwani jo saans ke fricative passage se sakr khaal ke madhyam se nikalat hai").
+entry(sibilate, v, [sibilated,sibilating,sibilates], "sisiyaye").
+entry(sibling, n, [bhai-bahin], "eka ke samaan mām-bāp waala dūsra").
+entry(sibship, n, [bhai-bahini], "ek jani ke bachpan se judi howe wala logan ke samuh").
+entry(sibyl, n, [sibyls], "ek mahila bhavishyavakta SIBYLIC SIBYLLIC visheshan").
+entry(sic, v, [sicced,siccing,sics], "hamla kare ke urge kare ke liye").
+entry(siccan, viseshan, [], "aesan").
+entry(sice, n, [sices], "साइस").
+entry(bimar, adj, [], "BIMAR BA KAMJORI SE GRASIT").
+entry(beemaar, v, [beemaar_kail, beemaar_hote, beemaaro], "sic kare ke").
+entry(sickbay, n, [sickbays], "ek jahaj ke hospital").
+entry(bimar_khamosh, n, [bimar_khamosh], "ek bimar ke bistar").
+entry(sickee, n, [sickees], "बीमारी").
+entry(bimar, v, [bimar_bail, bimari, bimarta], "bimar bani_ke").
+entry(बीमार_करहेवाला, पुलिंग, [बीमार_करहेवालास], "जे बीमार करे").
+entry(sickerly, adv, [], "nehiyaari se").
+entry(sickie, n, [sickies], "ek bhawnaatmak rogi vyakti").
+entry(sickish, visheshan, [], "thoda bimaar").
+entry(hasiya, v, [katilba, katat, kati], "khet-khetari me ek palwa se kate ke kaam aawt ba").
+entry(bimar, adj, [], "BIMATTER BIMATESTbimar jaisan dekhaiBIMARIK adv").
+entry(sickly, v, [sicklied,sicklying,sicklies], "bimar karawa").
+entry(bimari, n, [bimariyan], "bimar rahe ke avastha").
+entry(sicko, n, [sickos], "sickie").
+entry(sickout, n, [sickouts], "manahil ba-samuh aisan keinkari, jahaan logging bimar bani ke daawa karat bani").
+entry(sickroom, n, [sickrooms], "bimar vyakti ke kamra").
+entry(sidalcea, n, [sidalceas], "ek Uttar Ameriki jadi-booti").
+entry(siddha, n, [], "pl सिद्धजेकरा हिन्दू धर्म में सिद्धि प्राप्त अछि").
+entry(siddhi, n, [siddhis], "jawa siddha dvara prapt ki gail sudhar").
+entry(siddur, n, [siddurs], "ya SIDDURIM ek Yahudi prarthna pustak").
+`entry(side, v, [sided,siding,sides], "raji hokha ke ba, ya samarthan kare ke").`
+entry(sidearm, v, [sidearmed,sidearming,sidearms], "गोली कंधा या कंधा से नीचे के स्तर पर फेंके के").
+entry(sideband, n, [sidebands], "radio frekwensee ke ek band").
+entry(sidebar, n, [sidebars], "ek chhota samachar jo badi kahani ke saath jodh rahal ba").
+entry(sideburn, n, [], "दोहरा पट्टी बाल जे आदमी के चेहरा के दूनो तरफ नीचे तक बढावल जाला").
+entry(sidecar, n, [साइडकार्स], "एक मोटरसाइकिल से जुड़ल सवारी गाड़ी").
+entry(kaṭhal, guzral, [], "side ke ruk karyakram").
+entry(sidehill, n, [sidehills], "ek pahar ke dagri").
+entry(sidekick, n, [sidekicks], "ek nazdiqi mitra").
+entry(sideless, "विशेषण", [], "बिना किनार वाला").
+entry(sideline, v, [kinar, kinara, kinare], "kriya se bahar kar dena").
+entry(sideling, visheshan, [], "dhalaan").
+entry(sidelock, n, [sidelocks], "matha ke kon se girat lamb baal ke latha").
+entry(sidelong, adj, [], "एक ओर निर्देशित").
+entry(sideman, n, [sidemen], "जाज बैंड के एगो सदस्य").
+entry(sidemeat, n, [sidemeats], "suar ke sir par se katal maas").
+entry(sidereal, adj, [], "taraman se sambandhit").
+entry(siderite, n, [siderites], "ek khan khanij").
+entry(sideroad, n, [sideroads], "ek gaav ke raste").
+entry(sideshow, n, [sideshows], "mukhya akarshan ke alawa prastut kaila jala wala chhota pradarshan").
+entry(sideslip, v, [sideslipped,sideslipping,sideslips], "e gola se ekkon or kheesak ke").
+entry(sidesman, n, [sidesmen], "Anglican church me ek gair-paadri sahayak").
+entry(sidespin, n, [sidespins], "ek type ke spin jo ki gend par lagavle jaala").
+entry(sidestep, v, [sidestepped,sidestepping,sidesteps], "ek side me kadam badhawa").
+entry(ghumat, sangya, [ghumatwa], "pedestrian log ke piya bnaal ba").
+entry(sidewall, n, [sidewalls], "eka ṭāyar ke ek pās ke satah").
+entry(sideward, adv, [], "एक ओर").
+entry(sideway, kriyavisheṣaṇ, [], "sideways").
+entry('बगली', adv, [], "एक तरफ से या एक तरफ के ओर").
+entry(sidewise, adv, [], "sideways").
+entry(sidh, n, [sidhe], "Irish folklore में देवता लोगन के बसाइल पहाड़ी").
+entry(siding, purush, [sidings], "frame building ke satah par lagawe ke material").
+entry(sidle, v, [sidled,sidling,sidles], "baju se khisel").
+entry(sidler, n, [sidlers], "ojha se se purcha ke firiya kare wala").
+entry(siege, v, [sieged,sieging,sieges], "pakṛe ke ya dākhal bā ke kosis karna").
+entry(siemens, n, [siemens], "bijuliya conductance ke ekai").
+entry(sienite, n, [sienites], "syenite").
+entry(sienna, n, [siennas], "ek bhura rang").
+entry(sierozem, n, [sierozems], "ek prakaar ke mitti").
+entry(sierra, n, [sierras], "ek pahaadi range SIERRAN adj").
+entry(siesta, n, [siestas], "bihan ke aram ya tau chhoti neend").
+entry(sieur, n, [sieurs], "purkha man ke samman mein purana French upadhi").
+entry(sieve, v, [sieved,sieving,sieves], "e gola se pass kareke ek bartan je coarse part ke fine part se jhada kare loose matter se").
+entry(sievert, n, [sieverts], "ionizing radiation ke ekai").
+entry(sifaka, n, [sifakas], "Madagascar ke ek lemur").
+entry(सीफ्ल्योर, न, [सीफ्ल्योर्स], "एक जनावर जे सीटी के आवाज़ बनावेला").
+entry(sift, v, [sifted,sifting,sifts], "chhanna").
+entry(sifter, n, [sifters], "जे छानेला").
+entry(sifting, n, [siftings], "चांटे वला के काम").
+entry(sig, n, [sigs], "इमेल के आखिर में एक छोट अलग से सनेस").
+entry(siganid, n, [siganids], "मछरी के परिवार में से कवनो एक").
+entry(aarph, v, [aarphil,aarphi,aarphs], "ek gahara suneg daayak saans chhodna").
+entry(sigher, n, [sighers], "जे करहिया साँस लेवे ला").
+entry(sighless, adj, [], "बिना कवनो ठंडी सास छोड़ले").
+entry(sansle-jaisan, viseshan, [], "sans ke saman").
+entry(sight, v, [dekhlas, dekhat, dekhalas], "dekhaal ba").
+entry(sighter, n, [sighters], "जे देखेला").
+entry(sighting, n, [sightings], "ek nirikshan").
+entry(sightly, adj, [], "SIGHTLIER SIGHTLIESTdekhe me suhava").
+entry(ghum-phr, k, [ghum-phral, ghum-phral_ba_duk], "GHUM-PHR ke matlab hai dekh-anchar aur ilaka ke log-bagan ke dekhawa").
+entry(sigil, n, [sigils], "ek adhikaari seal").
+entry(siglos, n, [sigloi], "ek puran Persian sikka").
+entry(संकेत, प, [संकेतक], "संरक्षित पाठ के स्रोत के संकेत देवे खातिर एक संक्षेप").
+entry(sigma, n, [sigmas], "ek Greek letterSIGMATE visheshan").
+entry(sigmoid, n, [sigmoids], "ek S aakar ke curve ek sharirik hissa me").
+entry(sign, v, [sahii_kiil, sahii_kare, sahiiyan], "apna naam likhe ke").
+entry(signa, v, [], "labeliya pa likha  is adeshatmak kriya ke dosar roop ke upayog na hoye hai").
+entry(संकेत, संज्ञा, [संकेत], "एक समुदाय में संकेत के प्रणाली").
+entry(signal, v, [signaled,signaling,signals], "या सन्देश पहुंचावे के जरिया से सूचना देवे खातिर SIGNALLED SIGNALLING SIGNALS").
+entry(signalr, n, [signalr], "ek jo sanket devela").
+entry(गौरतलब, क्रिया-विशेषण, [], "विशेष रूप से").
+entry(signee, n, [signees], "ek dastavez ke sign kare wala").
+entry(signer, n, [signers], "जवन साइन करें").
+entry(signet, v, [signeted,signeting,signets], "adhikaarik mohar se chinhaankit kare").
+entry(prakat_kari, v, [prakat_kail, prakat_karta, prakat_kare], "jaan kari deke").
+entry(signing, n, [signings], "kagaj par apna hastakshar likhe ke kari").
+entry(signior, n, [signiors], "या SIGNIORIsignor").
+entry(signiory, n, [signiories], "राज").
+entry(signor, n, [signors], "italian purush ke samman me upadhi ke roop me SIGNOR kahi jaawe").
+entry(signora, n, [signoras], "ek byaahital mahila ke liye Italian adar ke laayak upadhi").
+entry(signore, n, [signori], "signor").
+entry(signory, n, [signories], "राजक्षेत्र").
+entry(signpost, v, [signposted,signposting,signposts], "kachhari ke sanket chinh se provide kare").
+entry(sika, n, [sikas], "ek chhota hiran, jo Asia ke desh me paaya jaala").
+entry(sike, n, [sikes], "साइके").
+entry(siker, visheshan, [], "surakshit").
+entry(siksik, n, [siksiks], "Arctic ke ground squirrel").
+entry(silage, n, [silages], "silo me rakhal chara").
+प्रवेश(सिलेन, न, [सिलेनस], "एक रासायनिक यौगिक").
+entry(sild, n, [silds], "ek jawan herring").
+entry(silence, v, [silenced,silencing,silences], "chup karawala").
+entry(silencer, n, [silencers], "जेकरा से चुप होखला").
+entry(sileni, pl, [], "सिलेनस के").
+entry(silent, adj, [], "SILENTER SILENTESTkauno awaaz nai ke, chup chapSILENTLY adv").
+entry(silents, npl, [], "साइलेंट फिल्म").
+entry(silenus, n, [sileni], "Greek puranakatha ke ek jangali devata").
+entry(silesia, n, [silesias], "ek coton kapra").
+entry(silex, n, [silexes], "सिलिका").
+entry(सिलिका, n, [सिलिकास], "सिलिकन के एक रूप").
+entry(silicate, n, [silicates], "eek rasanik namak").
+entry(silicic, visheshan, [], "silicon se sambandhit").
+entry(silicide, n, [silicides], "silicon ke ek yogik").
+entry(silicify, v, [silicified,silicifying,silicifies], "silica me badal de")।
+entry(silicium, n, [siliciums], "सिलिकन").
+entry(silicle, n, [silicles], "ek chhota chapta siliqua").
+entry(silicon, n, [silicons], "ek nonmetal dhatu").
+entry(silicone, n, [silicones], "ek silicon yukt sanyukt").
+entry(silicula, n, [siliculae], "ek silicle").
+entry(siliqua, n, [siliquae], "siliqua").
+entry(silique, n, [siliques], "ek tar ke bija ke kapsul").
+entry(silk, v, [silked,silking,silks], "soft sundar kapda se dhakela").
+entry(silken, visheshan, [], "resham se bana").
+entry(silkie, n, [silkies], "selkie").
+entry(silkier, comparative, [], "के रेशमी").
+entry(silkies, pl, [], "रेशमी के").
+entry(silkiest, superlative, [], "silki ke").
+entry(silkily, adv, [], "silk jaise tareeke se").
+entry(silklike, visheṣaṇ, [], "resham ke samaan").
+entry(silkweed, n, [silkweeds], "दूधजनी").
+entry(रेशम के कीड़ा, पुलिंग, [रेशम के कीड़न], "एक केटरपिलर जवन रेशम के धागा के कोकून बनावेला").
+entry(silky, adj, [], "रेसाम जइसन सिल्कियर सिल्किएस्ट").
+entry(silky, n, [silkies], "ek chamcham coat wala terrier").
+entry(sill, n, [sills], "खिड़की के नीचे के हिस्सा पर क्षैतिज टुकड़ा").
+entry(sillabub, n, [sillabub], "ek sharaabi mithai").
+प्रवेश(सिलर, संज्ञा, [सिलर्स], "चाँदी").
+entry(sillibub, n, [sillibubs], "सिल्लबब").
+\entry(silly, adj, [], "SILLIER SILLIESTsamajh ke kami dekhatSILLILY adv").
+entry(silly, n, [sillies], "ek beokuf manus").
+entry(silo, v, [siloed,siloing,silos], "ek lamba belna jaise sanrachna me rakhiya").
+entry(siloxane, n, [siloxanes], "ek rasayan yogik").
+entry(silt, v, [silted, silting, silts], "silt ek talaachh gaddha bhar ke bhar ke maati banave").
+entry(silty, adj, [], "माटी से भरल माटी से सभसे भरल").
+entry(silurid, n, [silurids], "बिलाय काँटल मछली के परिवार के कवनो सदस्य").
+entry(siluroid, n, [siluroids], "ek silurid").
+entry(सिल्वा, न, [सिल्वास], "या SILVAEsylva").
+entry(silvan, n, [silvans], "वनस्पति सम्बंधी").
+entry(silver, v, [silvered, silvering, silvers], "ek dhaatu se dhak dewe").
+entry(silverer, n, [silverers], "वो जवन चाँदी कs कोट करे ला").
+entry(silverier, comparative, [], "silvery ke").
+entry(silveriest, superlative, [], "चाँदी जइसन").
+entry(silverly, adv, [], "silwariya rup me").
+```prolog
+entry(silvern, visheshan, [], "chakmakila").
+```
+entry(silvertip, n, [silvertips], "ek bhur-suwar jekra ke baal safed tippwa wala hwe").
+entry(silvery, adj, [], "चाँदी जइसन").
+entry(silvex, n, [silvexes], "ek herbicide").
+entry(silvical, viseshan, [], "silvic se sambandhit").
+entry(silvics, npl, [], "jangali peR ke adhyayan").
+entry(sim, n, [sims], "सिमुलेशन").
+entry(sima, n, [simas], "ek igneous chattan").
+entry(simar, n, [simars], "ek mahila ke halka jacket ya chola").
+entry(simaruba, n, [simarubas], "ek garam ilaka ke paid").
+entry(simazine, n, [simazines], "ek khar-patwar nasak").
+entry(simcha, n, [सिमचास], "एक यहूदी निजी पार्टी").
+entry(simian, n, [simians], "ek bandar ya langur").
+entry(similar, visheshan, [], "jaisan but puri tarah se identik nahi").
+entry(simile, n, [simile], "boli ke ek ang").
+entry(simioid, adj, [], "simious").
+entry(simious, visheshan, [], "bandar se sambandhit").
+entry(simitar, n, [simitars], "जरार्फा").
+entry(simlin, n, [simlins], "सम्हवा").
+entry(simmer, v, [simmered,simmering,simmers], "ubhali ke theek niche ya ubhali ke karib pakai ke").
+entry(simnel, n, [simnels], "ek kurkura roti").
+entry(simoleon, n, [simoleons], "ek dollar").
+entry(simoniac, n, [simoniacs], "जेकरा द्वारा चर्च-करी-सम्बंधित चीजन के बिक्री या खरीदारी के अभ्यास होखे").
+entry(simonies, pl, [], "सिमनी के").
+entry(simonist, n, [simonists], "simonic").
+entry(simonize, v, [simonized,simonizing,simonizes], "momb se chamkawe").
+entry(simony, n, [simonies], "mandir ke pad ke bikri ya kharid").
+entry(simoom, n, [simooms], "गरम सुखा रेगिस्तानी पवन").
+entry(simoon, n, [simoons], "सिमूम").
+entry(simp, n, [simps], "ek moorkh byakti").
+entry(simper, v, [simpered,simpering,simpers], "bekar tareke muskurana").
+entry(simperer, n, [simperers], "ऐसन मनई जे बकैती करे").
+entry(simple, visheshan, [], "SIMPLE SIMPLER SIMPLEST na jatil ya uljhal").
+entry(simple, n, [simples], "kuch ba je simple ba").
+entry(simplex, n, [simplexes], "या SIMPLICES या SIMPLICIAa साधारण शब्द").
+entry(simplify, v, [asani_karal, asani_karela, asana_kare], "sada banawe ke").
+entry(simplism, n, [simplisms], "konhu bais ke ogra la kauno samasya bhā ki asan kare ke jarurati me rahni").
+entry(simplist, n, [simplists], "simplism ke maare bhail ek vyakti").
+entry(saral, kriya_visheshan, [], "saral tare se").
+entry(simulant, n, [simulants], "एक जवन अनुकरण करेले").
+entry(simular, n, [simulars], "ek simulant").
+entry(simulate, v, [simulated,simulating,simulates], "dekhawe khatir avanek rup dharan kare ke").
+entry(sin, v, [pakaarik diswaa, pakaarik diswat, paap karela], "dharma ya naaitik kanoon ke virodh mein paap kare ke arth mein").
+entry(sinapism, n, [sinapisms], "ek lepiya ki mishran jo deh ke chhidrit hisso par lagawla jala").
+entry(since, adv, [], "तब से अब तक").
+entry(sincere, adj, [], "SINCERER SINCERESTkapṭ karan se mōkta").
+entry(sinciput, n, [sinciputs], "ya SINCIPITAmatha").
+entry(sine, n, [sines], "konosik kone ke ek trigonometrik prakriya").
+entry(sinecure, n, [sinecures], "ek aisan daftar ya pad jahan bahut kam ya koino kaam nai kare ke padela").
+entry(sinew, v, [sinewed,sinewing,sinews], "मजबूत करी।").
+entry(sinewy, visheshan, [], "dubla lekin majbut").
+entry(sinfonia, n, [sinfonias], "या सिमफोनिया एक सिम्फनी").
+entry(papī, visheshan, [], "pap se chinhtPAPIṪA rūp").
+entry(gaana, kriya, [gaile, gaal, gaataa], "GAATIGaake aawaj ke sur me utarnaaGAANE YOG adj").
+entry(singe, v, [singed,singeing,singes], "thoda se jogawe").
+entry(गायक, न, [गायक लोग], "जे गावे ला").
+entry(gawe, n, [gawein], "je gawe u ke kal ya dhun").
+entry(single, v, [singled,singling,singles], "ek group se chuna").
+entry(singlet, n, [singlets], "ek admi ke underwa ya jarsi").
+entry(singly, adv, [], "dusra ke sangati ke bina").
+entry(singsong, n, [singsongs], "bolat ya parhat mein key monotonous lay").
+entry(singular, n, [ekvachan], "ek sabd roop jo ek vyakti ya vastu ke sanket karela").
+entry(sinh, n, [sinhs], "kon angle ke hyperbolic function").
+entry(sinicize, v, [sinicized,sinicizing,sinicizes], "Chin ke prabhav se badal ke banana").
+entry(sinister, adj, [], "bheesankar bhāb dekhawe wala").
+entry(sink, v, [dukāil, dukāt, dusek], "nīche star pī chāl jānā; DUKAIYEWALA visheshan").
+प्रवेश(डुबाव, पु, [डुबावन], "डुबे के कार्य प्रक्रिया या डिग्री")।
+entry(ḍubāva, n, [ḍubāvas], "ek jawnā ḍube lā").
+entry(sinkful, n, [sinkfuls], "jitna ek sink me sama sake").
+entry(sinkhole, n, [sinkholes], "land surface me ek prakritik depression").
+entry(sinless, viseṣan, [], "paap se mukt").
+entry("पाप करला", भूतकाल, [], "पाप क काल").
+entry(पापी, सं, [पापी], "जवन पाप करेला").
+entry(sinnet, n, [sinnets], "sennet").
+entry(sinning, malik, [], "paap ke karat rahal").
+entry(sinology, n, [sinologies], "Cheen ke adhayan").
+Entry(sinopia, n, [sinopias], "ya SINOPIE, ek laal rang ke rangdar").
+entry(sinsyne, kriya vishesan, [], "se").
+entry(sinter, v, [sintered,sintering,sinters], "heat aur dabaw ke mile-jule prabhaw se ekjut banave").
+entry(sinuate, v, [sinuated,sinuating,sinuates], "andar bahar curve kare").
+entry(sinuous, visheshan, [], "bakl ki roop, mor, ya ghumaav se visheshtahit").
+entry(साइनस, न, [साइनसेस], "एक खोपड़ी गुहा").
+entry(sinusoid, n, [sinusoids], "ek ganitim chapat").
+entry(sip, v, [ghunghuniya, ghunghunaiyil, ghunghunwata], "thoda-thoda kai ke peeve").
+entry(sipe, v, [siped,siping,sipes], "seep kare").
+entry(siphon, v, [siphoned,siphoning,siphons], "ek prakaar ke tube ke madat se nichuar ke khiche").
+entry(siphonal, adj, [], "साइफन से जुड़ल या ओकरा से संबंधित").
+entry(siphonic, visheshan, [], "siphonal").
+entry(siping, present, [], "sipe के पार्टिसिपल").
+entry(sippable, adj, [], "sip kiele laik").
+entry(sipped, past, [], "sip ke kaal").
+entry(sipper, n, [sippers], "sip kare wala").
+entry(sippet, n, [sippets], "ek chhota tukda roti jo tari me bhigal rahal ho").
+entry(sipping, present, [], "sip के क्रिया विशेषण").
+Prolog:
+entry("हुजूर", n, ["हुजूर लोग"], "एक आदरजनक संबोधन जे आदमी के उपयोग होला").
+entry(sirdar, n, [सिर्दार], "भारत में पद वाला व्यक्ति").
+entry(sire, v, [sired,siring,sires], "janam dihaal").
+entry(siree, n, [sirees], "sirree").
+entry(siren, n, [sirens], "ek device jo chhetpati awaz se chetavni deta hai").
+entry(sirenian, n, [sirenians], "kono ek prakaar ke akhiye jaanwar").
+प्रविष्टि(सिरिंग, वर्तमान, [], "सरजनिया के विशेषण").
+entry(सरलॉइन, n, [सरलॉइंस], "गोश्त के एगो कटिंग").
+entry(sirocco, n, [siroccos], "ek garam sukhail hawa").
+entry(sirra, n, [sirras], "ऐ बबुआ").
+entry(sirrah, n, [sirrahs], "ek tareh ke pataav bakhatar se nimna logan ke bole ke khatir upaiog kaila jaala").
+entry(sirree, n, [sirrees], "सर").
+entry(sirup, v, [sirup_kail, sirup_karta, sirup], "sirup karna").
+entry(sirupy, adj, [], "SIRUPIER SIRUPIESTgud-guda").
+entry(sirvente, n, [sirventes], "eka hāsya-vayāngātmak madhyakālīn gīt bā ki kabitā").
+entry(sis, n, [bahin], "ya BAHINbahin").
+entry(sisal, n, [sisals], "rassi ke banve ke khatir istemal hoi wala ek mazboot resha").
+entry(siskin, n, [siskins], "एक यूरोपीय चिड़वा").
+entry(sissy, adj, [], "सिसियर सिसिएस्टसिस्सीश").
+entry(sissy, n, [sissies], "ek naram mânsikta ke mard ya larka").
+entry(sissyish, visheshan, [], "sissy samaan").
+entry(bahin, v, [bahiniya, bahinawa, bahiniyan], "jaisan bahini ke dekhai".
+entry(bahiniyaa_saman, adj, [], "bahini ke saman").
+entry(sistroid, viseshan, [], "dui urt kurva ke abhivriti paksh ke biich me samahit").
+entry(sistrum, n, [sistrums], "ya SISTRA ek purana Misriya taal batiya baje ke saadhan").
+entry(baith, v, [baithal, baitha, baithtari], "peeth par baith ke aaram kare ke").
+प्रवेश(सितार, न, [सितार], "भारत के एक तार वाला वाद्य यंत्र").
+entry(sitarist, n, [sitarists], "jitna sitar bajawe wala").
+entry(sitcom, n, [sitcoms], "ek telebizan comedy serij jekar chalu character rahal").
+entry(site, v, [sited,siting,sites], "pr operation k bas me sthapit kare ke sthaan").
+entry(sith, kriya_visheshan, [], "से").
+entry(sithence, adv, [], "से").
+सामिल_करखिन(sithens, क्रिया_विशेषण, [], "से").
+entry(siting, vartaman, [], "site ke kriya visesap").
+entry(sitology, n, [sitologies], "poshan aur aahar vigyan").
+entry(sitrep, n, [sitreps], "abhi ke sena ke sthiti par ek report").
+entry(sitten, a, [], "बैठे के भूतकालिक रूप").
+entry(sitter, n, [sitters], "जो बइठेला").
+entry(baithak, n, [baithakan], "ek bhetak ya satra").
+entry(situate, v, [sthit, sthit_kari_rhia, sthit_kare], "ek thik jagah p rakhe ke le").
+entry(situp, n, [situps], "ego kasarat ja piche lete se baithe ke sthiti me aawa jaala").
+entry(situs, n, [situses], "ek sthiti ya sthal").
+entry(sitzmark, n, [sitzmarks], "ek nishaan jo piichhe giral skier ke baraf par chhode jaala").
+entry(siver, n, [nali], "ek nali").
+entry(छह, न, [छह लोग], "एक संख्या").
+entry(sixer, n, [sixers], "chhai Brownies ya Cubs ke ek samuha ke neta").
+entry(sixfold, adj, [], "छह गुना बेसी होखे वाला").
+entry(sixmo, n, [sixmos], "ek kagaj ke size").
+entry(छहपेंस, संज्ञा, [छहपेंस], "एगो पहिलका उपयोग भइल ब्रिटिश सिक्का जे छह पैसा के कीमत के रहल").
+entry(sixpenny, adj, [], "छह पेंस के लायक").
+entry(sixte, n, [sixtes], "ek fencing parry").
+entry(सोहह, प, [सोहहिया], "एक संख्या").
+entry(sixth, n, [sixths], "छह में से एक बराबर हिस्सा").
+entry(छठवें, क्रि, [], "छठवा जगह पर").
+entry(saathwaan, n, [saathwaan], "saath ke baraabar ke saath bhaag").
+entry(sixty, n, [saatha], "ek number").
+entry(लगभग_साठ, विशेषण, [], "लगभग साठ साल के उमेर के होखल").
+entry(sizable, visheShaN, [], "bade abhiyaas mein").
+entry(sizar, n, [sizars], "british student jiske aapan college se aarthik madad milat hai").
+entry(size, v, [साइज कइल, साइज कर रहल, साइज करीला], "साइज शारीरिक अनुपात अनुसार व्यवस्थित करेके").
+entry(sizeable, adj, [], "बड़हनSIZEABLY adv").
+entry(sizer, n, [sizers], "साइज़र").
+entry(siziness, n, [sizinesses], "sizy होखऽ के गुण भा स्थिति").
+entry(sizing, n, [sizings], "ego saadhan jo chhidraala materialan ke liye glaze ya filler ke tarah upyog hoye").
+entry(sizy, adj, [], "SIZIER SIZIESTviscid").
+entry(sizzle, v, [sizzled,sizzling,sizzles], "ek hishna aawaj ke saath jare ke ya tal ke").
+entry(sizzler, n, [sizzlers], "bahut garam din").
+entry(sjambok, v, [sjamboked,sjamboking,sjamboks], "dakshin Africa me istemal hola wala chadi se marat").
+entry(ska, purush, [ska_ke], "Jamaica ke ek lokpriya sangit").
+entry(skag, n, [skags], "हेरोइन").
+Prolog: entry(skald, n, [skalds], "ek puran Scandinavian kaviSKALDIC adj").
+entry(skank, v, [skanked,skanking,skanks], "ek chhithra-ang wala tariqe se nachay ke").
+entry(skanker, n, [skankers], "जे स्कैंक करत बा").
+entry(skanky, visheshan, [], "SKANKIER SKANKIESTgandaa ja avyavaharik").
+entry(skat, n, [skats], "ekta taash ke khel").
+entry(skate, v, [skated,skating,skates], "baraf ke ya zameen par skate joota ke sath glide kare, jo runner ya pahiya se fitted ho").
+```prolog
+entry(skater, n, [skaters], "ek je bर्फ पर फिसलन वाला").
+```
+entry(sketing, n, [sketingan], "skets par fisal ke khel").
+entry(skatol, n, [skatols], "स्कैटोल").
+entry(skatole, n, [skatoles], "ek rasayan sanyog").
+entry(skean, n, [skeans], "ek prakaar ke chhura").
+entry(skeane, n, [skeanes], "dhaaga ke ek lambai jisse dheela ghoons mein lapeta jala").
+entry(sked, v, [skedded, skedding, skeds], "tayin karna").
+entry(skee, v, [skeed,skeeing,skees], "skee kare ke").
+entry(skeen, n, [skeens], "skean").
+entry(skeet, n, [skeets], "aakaash mein fataak se furlal guliyaa pe goli maarlas ke khel").
+entry(skeeter, n, [skeeters], "ek skeet shooter").
+entry(skeevy, adj, [], "SKEEVIER SKEEVIESTginnail ghinn"),
+entry(skeg, n, [skegs], "ek lakdi jo ek jahaj ke keel aur sternpost ke jodt ba").
+entry(skeigh, adj, [], "ghamand").
+entry(skein, v, [skeined,skeining,skeins], "lang dhila kuwana me lapeta").
+entry(skeleton, n, [skeletons], "manav athva pashu ke deh ke sahayak ya suraksha karkhaSTRUTUR adi").
+entry(skell, n, [skells], "ek niraashrit vyakti").
+entry(skellum, n, [skellums], "ek badmaash").
+entry(skelm, n, [skelms], "skellum").
+entry(skelp, v, [skelpit,skelping,skelps], "thappad maarla").
+entry(skelter, v, [skeltered,skeltering,skelters], "ताबड़तोड़ भागे").
+entry(skene, n, [skenes], "skean").
+entry(skep, n, [skeps], "एक मधुचत्ता").
+entry(skepsis, n, [skepsises], "eki skeptic ke mannova ke drishtikon ya rukh").
+entry(skeptic, n, [सेप्टिक्स], "एह आदमी जे सामान्य रूप से स्वीकृत विचारन पर संदेह करेला").
+entry(skerry, n, [skerries], "छोट जइसन पत्थर के टापू").
+entry(sketch, v, [sketched,sketching,sketches], "ek rough jaldi mein banail naksha ke khiche").
+entry(sketcher, n, [sketchers], "मनवाऽ जे चित्र बनावेला").
+entry(sketchy, adj, [], "अधूरा या स्पष्टता में कमी").
+entry(skew, v, [tedaa, tedaa_rahlu, tedaa_hota], "morig jaana").
+entry(skewback, n, [skewbacks], "ek dhalwa satah jiske khatir konar chhan enj or aahram karela").
+entry(skewbald, n, [skewbalds], "ek ghoda jekar badan par ted apni chikni dawri").
+entry(skewer, v, [skewered,skewering,skewers], "lamba kaanta se meat ke ghore ke liye").
+entry(skewness, n, [skewnesses], "asimiti ke kami").
+entry(ski, v, [skied,skiing,skis], "lamar patan pare lamb baans ke ya loha ke patari par yaatra kare ke").
+entry(skiable, visheṣaṇ, [], "jahāṇ par ski karal jā sakela").
+entry(skiagram, n, [skiagrams], "chhaya ke photo ya seema se banaoaal photo").
+entry(skibob, v, [skibob कइल, skibob करत, skibobs], "एगो बाईक जइसन गाड़ी चलावे जेकरा में पहिया के बदले स्की होला").
+```prolog
+entry(skid, v, [skidded,skidding,skids], "pakṛ ke ghaṛī ilijhawanǎ ke kāran tarph ke phislan"). 
+```
+entry(skidder, n, [skidders], "एक जवन फिसलता बा").
+entry(skidding, n, [skiddings], "katila ilaka se logs ke khinch ke le jaae ke kaam").
+entry(skiddoo, v, [skiddooed,skiddooing,skiddoos], "jaake door ho jaana").
+entry(skiddy, visheshan, [], "skiddier skiddiestssarvakaaran skid hoaye ke sambhavana").
+entry(skidoo, v, [skidooed,skidooing,skidoos], "skiddoo करे खातिर").
+entry(skidooer, n, [skidooers], "बरफ गाडी पर चलावे वाला").
+entry(skidpad, n, [skidpads], "ek sadak ke satih jahan driver log sikdi kontrol kare ke abhyas kar sakta").
+entry(skidway, n, [skidways], "ek platform jahan lakdi kekhar laad ya chiraai ke liye rakhal jaala").
+entry(skied, past, [], "ski aur sky ke kaal").
+entry(skier, n, [skiers], "जवन स्की करेला").
+entry(आसमन, वर्तमान, [], "आसमान के ३रा व्यक्ति एकवचन").
+entry(skiey, adj, [], "गीरीय").
+entry(skiff, n, [skiffs], "ek chhota khula naav").
+entry(skiffle, v, [skiffled, skiffling, skiffles], "ek particular saaj bajave ke tarika").
+entry(skiing, n, [skiings], "ski par chale ke khel").
+entry(skijorer, n, [skijorers], "ek skier jiske khichai kaini jaawela baraf par kutta, ghoda ya gadi se").
+entry(skilful, visheṣaṇ, [], "khillāṛ").
+entry(skilfull, adj, [], "कुशल").
+entry(kaushal, n, [kaushal], "kono kaam ke bahut accha se kare ke kshamataSKILLED adj").
+entry(skilless, visheshan, [], "kauno kaushal na h").
+entry(skillet, n, [skillets], "ek tahari").
+entry(kaushal, visheshan, [], "kusar howe").
+entry(skilling, n, [skillings], "Scandinavian des ke ek pahile ke sikka").
+entry(skim, v, [skimmed,skimming,skims], "upar se taina baat ke hatawe khatir").
+entry(skimmer, n, [skimmers], "ek ba je skin ke utaare").
+entry(skimmia, n, [skimmias], "ek hare-bhare jhaad").
+entry(skimming, n, [skimmings], "kono daah aa tapka ke utaraal").
+entry(skimp, v, [skimped,skimping,skimps], "kach-kach ke bacha ke kharch karna").
+```prolog
+entry(skimpy, adj, [], "SKIMPIER SKIMPIESTkamSKIMPILY kriya visheshan").
+```
+प्रवेश(चमड़ी, क्रिया, [चमचित,चमड़ावत,चमड़िया], "किसी जानवर के शरीर के ऊपरी परत के चमड़ा हटा लें या वंचित करें")।
+entry(skinful, n, [skinfuls], "jitna ek chamda ke bartan samjhe sake").
+entry(skinhead, n, [skinheads], "जवन आदमी के बाल बहुत छोट काटल गइल बा").
+entry(skink, v, [skinked,skinking,skinks], "daru ke uphaar karna ya debar k le").
+entry(skinker, n, [skinkers], "ek jekar kaam skink karna hota").
+entry(skinless, visheshan, [], "jawan se lutf hīn").
+entry(skinlike, adj, [], "चमड़ी जइसन").
+entry(skinned, past, [], "skin के काल").
+entry(skinner, n, [skinners], "एक जो छिलता बा").
+entry(skinning, vartaman, [], "skin ke kridant roop").
+entry(skinny, adj, [], "ORIK OSA; BAHUTE PATLA").
+entry(sukida, n, [sukidai], "ek jo sukida ba").
+entry(skint, visheshan, [], "kono paisa nahi hai").
+entry(skioring, n, [skiorings], "skiing ke ek roop").
+entry(skip, v, [skipped,skipping,skips], "halka chhalang bhari ke aage badhe").
+entry(skipjack, n, [skipjacks], "एक समुद्री मछरी").
+entry(skiplane, n, [skiplanes], "ek hawai jahaj jo baraf se uthon ya baraf par land kare ke liye bana hai").
+entry(skipped, bhoot, [], "skip ke kaal").
+entry(skipper, v, [skippered,skippering,skippers], "master ya captain ke roop me karwai karna").
+entry(skippet, n, [skippets], "ek chhota bakas jekar kaam ek adhikarik seal ke suraksha ke laae se ba").
+entry(skipping, vartaman, [], "skip ke kriya visheshan").
+entry(skirl, v, [skirled,skirling,skirls], "ekta tej awaj nikale ke").
+entry(jhapat, v, [jhapatil,jhapatat,jhapate], "ek chhota ladai me bhag lena").
+entry(skirr, v, [skirred,skirring,skirrs], "tez se ghoom rahe").
+entry(skirret, n, [skirrets], "ek Asian jari-buti").
+entry(ghaghra, v, [ghaghrawa, ghaghrate, ghaghran], "chaaro ore ghoomke jaawe").
+entry(skirter, n, [skirters], "ओकरा खातीं जे किनारा पर चलेला").
+entry(skirting, n, [skirtings], "ek board jo diwaar ke niche rahal").
+entry(skit, n, [skits], "ek chhota naatak drishya").
+entry(skite, v, [skited,skiting,skites], "tez se door chale jaana").
+entry(skitter, v, [skittered,skittering,skitters], "halke bhari ya tej raftar se kisi satah par hilna").
+entry(skittery, visheshan, [], "SKITTERIER SKITTERIESTskittish").
+entry(skittish, adjectives, [], "aasani se dari jaawe wala").
+entry(skittle, n, [skittles], "kath ke paatar jo bolaing ke khel me istemaal hota hai").
+entry(skive, v, [skived,skiving,skives], "chhil ke hataana").
+entry(skiver, n, [skivers], "ek jekra la parhej karela").
+entry(skivvy, v, [skivvied,skivvying,skivvies], "ek mahila naukar bani ke kaam kare").
+entry(skiwear, n, [skiwear], "skiing करे खातिर पहिरी के लायक पोशाक").
+entry(sklent, v, [sklented,sklenting,sklents], "tedha bhail").
+entry(skoal, v, [skoaled,skoaling,skoals], "sehat ke naam pe piye ke").
+entry(skol, v, [skoled,skoling,skols], "skoal kare").
+entry(skookum, n, [skookums], "ek bura atma").
+entry(skort, n, [skorts], "ek joda chhota patloon jo ghaghra jaisan lagelas").
+entry(skosh, n, [skoshes], "थोड़ बहुत").
+entry(skreegh, v, [skreeghed,skreeghing,skreeghs], "kaha anhar").
+entry(skreigh, v, [skreighed,skreighing,skreighs], "cheekh ke shabd").
+entry(skry, v, [skried,skrying,skries], "ghumtak dekhe").
+entry(skua, n, [skuas], "ek sikaar kare wala samudri chiriya").
+entry(skulk, v, [skulked,skulking,skulks], "chupke se ghoome").
+entry(skulker, n, [skulkers], "ek joni jo chhupke chale").
+entry(skull, v, [skulled,skulling,skulls], "सर पर मारल").
+entry(skullcap, n, [skullcaps], "ek bajuwa topi").
+entry(skunk, v, [skunked,skunking,skunks], "जबरदस्त हराना").
+entry(skunky, adj, [], "SKUNKIER SKUNKIESTek mahak jo skunk ek prani ke surati devela jo ek badbu karayil taral chhidke sakela").
+प्रवेश(आसमान, क्रिया, [आसमानल, आसमानावत, आसमान], "ऊपरी वायुमंडली के ओर प्रहार करे वा फेंके").
+entry(आकाशपट्टी, न, [आकाशपट्टियाँ], "पैर बाँधेवाला बोर्ड जवन आकाश सर्फिंग में इस्तेमाल होला").
+entry(skyborne, adj, [], "हावा में").
+entry(skybox, n, [skyboxes], "ek go asana ja aram baithak ke bard se ghiral jagah jo stadium ke upar khula rahala").
+entry(skycap, n, [skycaps], "ek portaa vimaanasthal par").
+entry(skydive, v, [skydove,skydiving,skydives], "khel-kood khatir hawai jahaj se parachute se kudal").
+entry(skydiver, n, [skydivers], "आसमान से कूदे वाला").
+entry(skyey, adj, [], "अकाश स मिलत-जुलत").
+```prolog
+entry(skyglow, n, [skyglows], "seher ke bijli se aakas me ratiya ke chhamak"). 
+```
+entry(skyhook, n, [skyhooks], "ek aisan hook jiske kalpana akash se latakal rahle ke bani baa").
+entry(skyjack, v, [skyjacked,skyjacking,skyjacks], "ek vimaan ke kidnap kare ke").
+entry(skylark, v, [skylarked, skylarking, skylarks], "khel-koor").
+entry(skyless, adj, [], "badri se dag mag rahal ghar").
+entry(skylight, n, [skylights], "छत या छत के खिड़की").
+entry(skylike, visesan, [], "akas jaisan").
+entry(skyline, n, [skylines], "aasmaan ke seema").
+entry(skylit, visheshan, [], "skylight wala").
+entry(skyman, n, [skymen], "ek hawaijahaj ke udawe wala vyakti").
+entry(skyphos, n, [skyphoi], "eka praachin Greek mein prayog hoye waala piye ke bartan").
+entry(skysail, n, [skysails], "ek ta sail ke prakar").
+entry(skyscape, n, [skyscapes], "अकाश के नज़ारा").
+entry(skysurf, v, [skysurfed,skysurfing,skysurfs], "akash mein skyboard par sawar hokar free fall mein kalabazi karna").
+entry(skywalk, n, [skywalks], "dui imartan ke biche ke uccit paidal mark").
+entry(skyward, adv, [], "आकाश की ओर").
+entry(skywards, adv, [], "आसमान क ओर").
+entry(skywatch, v, [skywatched,skywatching,skywatches], "akash ke dekhna tare-bhare ya vimano ke nihaar ke la").
+entry(skyway, n, [skyways], "ek uthal raasta").
+entry(skywrite, v, [skywrote,skywritten,skywriting], "SKYWRITEआकाश में धुआँ छोड़ कर हवाई जहाज से कुछ लिखल").
+entry(slab, v, [slabbed,slabbing,slabs], "ek lakdi ke bada taar ke hatana").
+entry(slabber, v, [slabbered,slabbering,slabbers], "laap laapai ke").
+entry(slabbery, visheshan, [], "slobbery").
+entry(slabbing, n, [slabbings], "lag se slabs hatave ke kriya").
+entry(slabby, adj, [], "SLABBIER SLABBIESTslab se dhakail ya farsh bichhaila").
+entry(slabike, visheshan, [], "e slab ke saman").
+entry(slack, adj, [], "ढीला ढीलातम नहीं तना भा ठोस").
+entry(slack, v, [slacked,slacking,slacks], "dhila kare").
+entry(slacken, v, [slackened,slackening,slackens], "कम कसे बा").
+entry(slacker, n, [slackers], "ek alasi").
+entry(slackly, adv, [], "dhila tare se").
+entry(slag, v, [slagged,slagging,slags], "pighalavta dhatu ke bachaav ma slag banaawe ke").
+entry(slagging, n, [slaggings], "ore ke slag me badle ke prakriya").
+entry(slaggy, adj, [], "SLAGGIER SLAGGIEST slag jaisan").
+entry(slahal, n, [slahals], "लहाल").
+entry(slain, past, [], "slay के participle").
+entry(slainte, interj, [], "swaasth ke liye toast kare ke istmaal howela").
+entry(slake, v, [slaked, slaking, slakes], "bujhawe khaatir SLAKABLE adj").
+entry(slaker, n, [slakers], "ओकरा गति जे बुझा देला").
+entry(slalom, v, [slalomed,slaloming,slaloms], "zigzag kurs me ski kare").
+entry(slalomer, n, [slalomers], "संस्कृति प्रतियोगिता में एक तरह के खेल जहाँ प्रतिभागी लकड़ी के बारी-बारी से खम्भे को बचाते हुए फिसलते हैं।").
+entry(slam, v, [slammed,slamming,slams], "jor se aur awaaz se band kare ke ba").
+entry(slammer, n, [slammers], "ek jail").
+entry(telefonila, n, [telefonilas], "bina ijjat ke ek company se doosar company ke telephone seva badal dewe ke pratha").
+entry(nindak, v, [nindak+kail, nindak+karta, nindaks], "badnam kare").
+entry(slang, v, [slanged,slanging,slangs], "bahut anaukritik ya ashlil bhasa ke prayog karna").
+entry(slangy, adj, [], "SLANGIER SLANGIEST jaisan ki ya samvatik slang rahe SLANGILY kriya visheshan").
+entry(slank, a, [], "slink के भूतकाल").
+entry(bankt, kriya, [bankal,bankat,banken], "or izzat se goliyan mare ke").
+entry(slanty, adj, [], "SLANTIER SLANTIESTharizontal ke vertical se deviate karewalaSLANTLY adv").
+entry(slap, v, [thapad_maarela, thapad_maarela_chatani, thapad_maarela], "khula haath se maarna").
+entry(slapdash, n, [slapdashes], "laaparawah kaam").
+entry(slapjack, n, [slapjacks], "ek tarah ke pancake").
+entry(slapper, n, [slappers], "एक उ जो पिटाई करे").
+entry(slapping, present, [], "थप्पड़ मारे के participle").
+entry(slapshot, n, [slapshots], "हॉकी में मारल के एक प्रकार के शॉट").
+entry(slash, v, [slashed, slashing, slashes], "jor se jhataka maar ke kaatna").
+entry(slasher, n, [slashers], "एक जो काटे").
+entry(slashing, n, [slashings], "केहू के काटे के क्रिया").
+entry(slat, v, [slatted,slatting,slats], "patli lakdi ke tukda se pradaan kare ke kare").
+entry(slatch, n, [slatches], "toota lahiron ke beech ke chuppi").
+entry(slate, v, [slated,slating,slates], "ek chapadhe ke chadhal material se dhakel").
+entry(slater, n, [slaters], "एक जे स्लेट करे").
+entry(slatey, visheshan, [], "SLATIER SLATIESTslaty").
+entry(slather, v, [slathered,slathering,slathers], "girahi ke paat").
+entry(slatier, comparative, [], "slaty के").
+entry(slatiest, superlative, [], "ke slaty").
+entry(slating, n, [slatings], "slate kari kary ke gati").
+entry(slatted, past, [], "slat के कालअ").
+entry(slattern, n, [slatterns], "ek sust aur ganda mahila").
+entry(slatting, n, [slattings], "स्लाट बनावे वाला सामग्री").
+entry(slaty, adj, [], "स्लेट जइसन").
+entry(गुलाम, क्रिया, [गुलामल, गुलामते, गुलामन], "एगो गुलाम जसके दोसरा के द्वारा मालिकाना हक रहल").
+entry(slaver, v, [slavered, slavering, slavers], "lóbh kare ke thook tapke").
+entry(slaverer, n, [slaverers], "उ साँप जवन लार टपकावे ला").
+entry(daaspratha, n, [daasprathas], "ek vyakti ke doosra vyakti dwaara adhikaar mein lena").
+entry(slavey, n, [slaveys], "ek mahila naukar").
+entry(slaving, vartaman, [], "slave ke kriya visheshan").
+entry('गुलामी', adj, [], "गुलाम के संबंधी या विशेषता वाला").
+entry(slaw, n, [slaws], "कोलस्लॉ").
+entry(मारल, क्रिया, [मारल,मरत], "मारलजब जबरदस्ती आक्रामक रुप से मारलजाइमारेजोग विशेषण").
+entry(slayer, n, [maar wala], "ek je maarela").
+entry(हत्या, सं, [हत्याएं], "मारल जाए के क्रिया या घटना").
+entry(sleave, v, [sleave_kailas, sleave_kaita, sleave_karta], "taar tare me alg kare khatir").
+entry(sleaze, v, [sleazed,sleazing,sleazes], "ek ganda dhang se bartab karna").
+entry(sleazo, n, [sleazos], "ekta sleazoid").
+entry(sleazoid, n, [sleazoids], "एक आदमी जेकरा नैतिकता आ चरित्र निमन ना होखे").
+entry(sleazy, adj, [], "निकृष्ट गुणवत्ता या चरित्रकSLEAZILY adv")।
+entry(sled, v, [sledded,sledding,sleds], "baraph ke maidan par logan ke ya bojh dhowe ke liye sled naam ke gaadi par le jana").
+entry(sledder, n, [sledders], "जे बर्फिया गाड़ी चलावेला").
+entry(sledding, n, [sleddings], "jo koi sled par chadh ke phisalta hai uske karan").
+entry(sledge, v, [sledged,sledging,sledges], "ek prakar ke sled par le jai ke").
+entry(chikna, visheshan, [], "ZYAADA CHIKNA SABSE CHIKNAchikna aur chamkila").
+entry(sleek, v, [sleeked,sleeking,sleeks], "sleek बनावे के").
+entry(sleeken, v, [sleekened,sleekening,sleekens], "chikna kare").
+entry(sleeker, n, [sleekers], "जवन निर्विघ्न करीला").
+entry(sleekit, adj, [], "चोरी-छिपे").
+entry(sleekly, kriya_visheshan, [], "ikka bala se").
+entry(sleeky, adj, [], "SLEEKIER SLEEKIESTslīk").
+entry(sleep, v, [slept, sleeping, sleeps], "ek naiik sikastik bistar aharram ki avastha me rahal").
+entry(sleeper, n, [sleeper], "sute waala").
+entry(sohab, n, [sohabe], "okara ke kya bhail je se sohat ba").
+entry(sleepy, adj, [], "SLEEPIER SLEEPIESTsuttle ya neend se bhawalSLEEPILY adv").
+entry(sleet, v, [sleeted,sleeting,sleets], "baraf ke barka hile wa").
+entry(sleety, adj, [], "बरफीय बरफीयतम, बरफ जइसन").
+entry(sleeve, v, [sleeved,sleeving,sleeves], "garamint ke ek hissa jekraa se baahu dhakla jaala").
+entry(sleeveen, n, [sleeveens], "ek sharaarati vyakti").
+entry(sleeving, n, [sleevings], "bijuli cable ke liye bartaniya roop rekha").
+entry(sleigh, v, [sleighed,sleighing,sleighs], "ek sled par sawar hoye ke").
+entry(sleigher, n, [sleighers], "जे करीला बहुलत बा").
+entry(sleight, n, [sleights], "nipunta").
+entry(patal, visheshan, [], "PATULAR PATLAST").
+entry(slept, past, [], "sute ke kaal").
+entry(sleuth, v, [sleuthed,sleuthing,sleuths], "detective के रूप में काम करे").
+entry(slew, v, [slewed,slewing,slews], "slue kare").
+```prolog
+entry(slice, v, [patari, patart, patarta], "patra patra kaat ke kehu ke khilawat"). 
+```
+entry(slicer, n, [slicers], "ऊ एक चीज़ जवन काटेला").
+entry(slick, adj, [], "चिकना चिकना़ चिकना़चे चिकना़तम चिकना आ फिसलदार").
+entry(slick, v, [slicked,slicking,slicks], "chikna banave k liyi").
+entry(slicken, v, [slickened, slickening, slickens], "slick bani ke ba").
+entry(slicker, n, [slickers], "तेलहा बरसाती").
+entry(slickly, adv, [], "chiknai se").
+entry(slide, v, [slid,slidden,sliding], "SATALto move smoothly along a surfaceSATAL adj").
+entry(slider, n, [sliders], "कवनो जे सरकेला").
+entry(slideway, n, [slideways], "ek rasta ja pe kuch fisal ke jaave").
+entry(slier, a, [], "sly के तुलनात्मक रूप").
+entry(sliest, a, [], "sly के सुपरलेटिव").
+entry(slieve, n, [slieves], "ek pahad").
+entry(slight, adj, [], "छोटा छोटका बहुत छोटका साइज या मात्रा में छोट छोटका adv").
+entry(slight, v, [slighted,slighting,slights], "अनदेखी से व्यवहार करे के").
+entry(slighter, n, [slighters], "ek jani ki tiraskar kare").
+entry(slily, क्रिया-विशेषण, [], "धूर्त तरीका से").
+entry(slim, adj, [], "पतला पतलका पतलका").
+entry(slim, v, [patla_ba, patla_ho, patla_karat_ba], "patla banawala ke liye").
+entry(slime, v, [slimed,sliming,slimes], "keechad lasaari se dhak de").
+entry(slimier, comparative, [], "slimy ke").
+entry(slimiest, superlative, [], "ke slimy").
+entry(slimily, adv, [], "slimy tariqe se").
+entry(sliming, present, [], "slime के कृदंत").
+entry(slimline, adj, [], "design aa banawat me patla").
+entry(slimly, adv, [], "ek tuer se").
+दाखिला(पतला, भूतकाल, [], "पतला के काल").
+entry(slimmer, n, [slimmers], "ek diet par rahe wala vyakti").
+entry(slimmest, superlative, [], "ke slim").
+entry(slimming, n, [slimmings], "apna ke motapa khatam kare ke prakriya").
+entry(patalpan, n, [patalpans], "patal rah ke awastha").
+entry(slimpsy, adj, [], "पतला पतलाइले पतलाइलेतर").
+entry(slimsy, guṇ-vācak-viśeṣaṇ, [], "SLIMSIER SLIMSIESTflimsy").
+entry(slimy, adj, [], "SLIMIER SLIMIESTkaan ke jaisan").
+entry(sling, v, [slung,slinging,slings], "ek sudden motion se fenke ke").
+entry(slinger, n, [slingers], "jawan ki sling karela").
+entry(slink, v, [slinked,slinking,slinks], "chhupe se hilna").
+entry(slinky, adj, [], "झुकाव झुकाइबाला गुपचुप झुकाइल तरीका").
+entry(slip, v, [slipt,slipping,slips], "ake-ek baar aur aksaro taang ke chhaanal se pasar").
+entry(slipcase, n, [slipcases], "kitab ke surakṣāṭmak bakas").
+entry(slipe, v, [sliped,sliping,slipes], "छीलल").
+entry(slipform, v, [slipformed,slipforming,slipforms], "concrete के डाल के सेट करे खातिर मोल्ड के प्रयोग से बनावल").
+entry(slipknot, n, [slipknots], "ek prakar ke gaath").
+entry(slipless, adj, [], "गलती से मुक्त").
+entry(slipout, n, [slipouts], "ak newspaper me ak insert").
+entry(slipover, n, [slipovers], "ek pullover").
+entry(slippage, n, [slippages], "कवनो मापदंड या स्तर से गिर जइब।").
+entry(phisalal, a, [], "phisal ke bhoot kaal").
+entry(चप्पल, न, [चप्पलन], "एक हल्क जूता").
+entry(slippery, adj, [], "फिसलन भरा जे फिसलन के कारण बने या करे").
+entry(slipping, present, [], "slip के पार्टिसिपल").
+entry(slippy, adj, [], "फिसलवा फिसलवात फिसलल फिसलवाई adv").
+entry(slipshod, visheshan, [], "laaparavaahi se banavao/cara se keli jaali").
+entry(slipslop, n, [slipslops], "paani se bhail khana").
+entry(slipsole, n, [slipsoles], "ek patla insole").
+entry(slipt, a, [], "slip के बीतल काल").
+entry(slipup, n, [slipups], "ek galti").
+entry(slipware, n, [slipwares], "ek prakaar ke mitti ke bartan").
+entry(slipway, n, [slipways], "जहाज कारखाना में पानी के ओर ढलान करता इलाका").
+entry(slit, v, [slitted, slitting, slits], "lambe patla chhed banave khatir katai kare ke").
+entry(slither, v, [sarakal, sarakata, sarake], "baju se baju tak sarak ke chalna").
+entry(slithery, adj, [], "patal").
+entry(slitless, visheshan, [], "jawan mein kauno chhed nai hai").
+entry(slitla_jaisan, viseshan, [], "slit ke saman").
+entry(slitted, past, [], "slit के काल").
+entry(slitter, n, [slitters], "ओकरा के चिरs").
+entry(slitting, present, [], "slit के क्रिया विशेषण").
+entry(slitty, adj, [], "लम्ब आ पतला होखल SLITTIER SLITTIEST ").
+entry(sliver, v, [slivered, slivering, slivers], "lamar lambe patra me katna").
+entry(sliverer, n, [sliverers], "जे स्लाइवर करेले").
+entry(slivovic, n, [slivovices], "ek beriyaar ke sharab").
+entry(slob, n, [slobs], "ek bindaas aur laaparwaah vyakti").
+```prolog
+entry(slobber, v, [slobbered,slobbering,slobbers], "lar drool"). 
+```
+entry(slobbery, adj, [], "babuwa").
+entry(slobbish, adj, [], "slob jaisan").
+entry(slobby, adj, [], "SLOBBIER SLOBBIESTek slob ke vishesh gaya ke roop").
+entry(sloe, n, [sloes], "ek berra jaisan phal").
+entry(slog, v, [slogged,slogging,slogs], "dhire dhire chalna").
+entry(slogan, n, [naara], "ek naara jo ek samooh daaree ke aangikrit hoye Naara Bha\-iAadi”).
+entry(slogger, n, [sloggeran], "ek ba jekar kaam slog kari").
+entry(sloid, n, [sloids], "sloyd").
+entry(slojd, n, [slojds], "स्लॉइड").
+entry(slomo, n, [slomos], "धीमा गति").
+entry(sloop, n, [sloops], "ek prakaar ke nawka").
+entry(slop, v, [slopped,slopping,slops], "छितराना या छपछपाना").
+entry(slope, v, [sloped, sloping, slopes], "tilte ke ba").
+entry(sloper, n, [slopers], "एक जवन ढलान बा").
+entry(sloppy, adj, [], "स्लॉप्पियर स्लॉप्पीस्टबेवेस्था स्लॉप्पिली क्रिया विशेषण").
+entry(slopwork, n, [slopworks], "sasta kapra banave ke udog").
+entry(slosh, v, [sloshed,sloshing,sloshes], "chalal jaa se chapchap ka awaj aave").
+entry(sloshy, visheshan, [], "SLOSHIER SLOSHIESTslushy").
+entry(slot, v, [slotted,slotting,slots], "lamba aur patla chhed katve ke").
+entry(slotback, n, [slotbacks], "ek tara ke football kheladi").
+entry(alas, n, [alas], "ek dhire chalte wala vriksha me rahne wala jaanwar").
+entry(alsi, viseshan, [], "susti").
+entry(slotted, past, [], "slot के काल").
+entry(slotter, n, [slotters], "slot kare ke machine").
+इंट्री(स्लिम, प्रेजेंट, [], "पार्टिसिपल ऑफ स्लॉट").
+entry(slouch, v, [slouched,slouching,slouches], "jhukal awastha me baithal, khara, ya chale ke").
+entry(sloucher, n, [slouchers], "jawn ba jo kauno naganpana me baithala").
+entry(slouchy, adj, [], "ऐंठाइल ऐंठाइलतमऐंठाइल").
+entry(slough, v, [sloughed,sloughing,sloughs], "छोड़ल").
+entry(sloughy, adj, [], "SLOUGHIER SLOUGHIESTmiry").
+entry(sloven, n, [slovens], "ek gawar roopa wala vyakti").
+entry(slovenly, adj, [], "SLOVENLIER SLOVENLIESTaadat mein achhel na rahe ke ya maila rahte").
+entry(slow, adj, [], "धीरे बहुत धीरेmovement जवन कम गति से होला").
+entry(dhire, v, [dhire_kail, dhire_kail_rahal_ba, dhire_karela], "gati kam kare la").
+entry(slowdown, n, [slowdowns], "rafatar ke kamti").
+entry(slowish, visheshan, [], "thoda dheere").
+entry(dhire, kriyavisheshan, [], "dhire dhire").
+entry(slowness, n, [slownesses], "dhimi gati ke awastha").
+entry(slowpoke, n, [slowpokes], "ek dhimo vyakti").
+entry(slowworm, n, [slowworms], "ek European chhipkali jekar paer na hoye").
+entry(sloyd, n, [sloyds], "ek Swidish pranali hai kaushal prashikshan ke liye").
+entry(slub, v, [slubbed, slubbing, slubs], "khich ke banave aur thoda ghumave ke bad").
+entry(गंदा_करे, v, [गंदा_कइल,गंदा_कइले,गंदा_करत], "गंदा आ मैला करे").
+entry(slubbing, n, [slubbings], "thoda ghumail kapra ka resha ke roll").
+entry(sludge, v, [sludged,sludging,sludges], "keichad ke gaddha banawala, ek gaddha gahi, ya tal").
+entry(sludgy, adj, [], "SLUDGIER SLUDGIESTkichad se dhakal ba").
+entry(slue, v, [slued,sluing,slues], "ke move karavlas pa khisakatan").
+entry(sluff, v, [sluffed,sluffing,sluffs], "kisi card ya cards ke hatawe khatir").
+entry(slug, v, [slugged, slugging, slugs], "jor se marlela").
+entry(slugabed, n, [slugabeds], "ek jekar aalsipan ke chalte bistar me rahat ba").
+entry(slugfest, n, [slugfests], "ek zor se ladaai").
+entry(sluggard, n, [sluggards], "ek adat mein alsi vyakti").
+entry(slugged, past, [], "slug के काल").
+entry(slugger, n, [sluggers], "ek baa j slug karela").
+entry(slugging, present, [], "slug के पार्टिसिपल").
+entry(sluggish, adj, [], "बहुत कम गति या गतिविधि देखावत").
+entry(sluice, v, [sluiced,sluicing,sluices], "pānī ke achanak bādh ke saath ṭohār kare").
+entry(sluicy, visheshan, [], "dhar-dhar girwat").
+entry(sluing, present, [], "slue के participle").
+entry(slum, v, [slummed,slumming,slums], "gandaa nagariya ke chhekari kare").
+entry(slumber, v, [slumbered,slumbering,slumbers], "suta ke").
+entry(slumbery, adj, [], "निनायल").
+entry(slumgum, n, [slumgums], "madhu ka chhatta se madhu nikala ke baad bacha avalashesh").
+entry(slumism, n, [slumisms], "बस्तीयन के प्रचुरता").
+entry(slumlord, n, [slumlords], "झुग्गी बस्ती के मकान मालिक").
+entry(slummed, past, [], "गाँव के दुख।").
+entry(slummer, n, [slummers], "एक जस खिचड़ी अस्थान में रहेला").
+entry(slumming, present, [], "slum के रूप में भागीदारी").
+entry(slummy, adj, [], "झोपड़पट्टी नियर").
+entry(slump, v, [slumped,slumping,slumps], "achanak girak ya doobak").
+entry(slumpy, visheshan, [], "SLUMPIER SLUMPIESTkeemat ya raashi ke ghirawat se visheshit").
+entry(slung, past, [], "sling ke vartamaan").
+entry(slunk, a, [], "slink के भूतकाल रूप").
+entry(slur, v, [slurred,slurring,slurs], "ke halki me lena ya dhyan na deke guzarna").
+Prolog:
+entry(slurb, n, [slurbs], "ek kharab se banal suburban kshetraSLURBAN visheshan").
+entry(slurp, v, [slurped,slurping,slurps], "awaaz karke khana peena").
+entry(slurpy, adj, [], "SLURPIER SLURPIEST chuske ke awaj se bni khaasiyat jawan chuski lege waqt bni").
+entry(slurry, v, [slurried,slurrying,slurries], "ek prakaar ke paani jaisan mishran me badle ke lie").
+entry(slurve, n, [slurves], "baseball me ek tarah ke pitch").
+entry(slush, v, [slushed, slushing, slushes], "adhha paighal baraf se chhitkawan").
+entry(slushy, n, [slushies], "ek mithai jaa me swaad me baraf milal rahe").
+प्रवेश(स्लशी, विशेषण, [], "स्लशियेअर स्लशियेस्तस्लश जइसनस्लशिली क्रिया विशेषण")।
+entry(slut, n, [sluts], "ek gawar auratSLUTTISH visheshan").
+entry(slutty, adj, [], "फूहड़ के विशेषता वाला").
+entry(sly, adj, [], "SLIER SLIEST या SLYER SLYEST चालाकSLYLY क्रियाविशेषण").
+entry(slyboots, n, [slyboots], "chalu vyakti").
+entry(slyness, n, [slynesses], "chalaaki ke gun ya awastha").
+entry(slype, n, [slypes], "English cathedral me ek saankhin raasta").
+entry(smack, v, [smacked,smacking,smacks], "tik se marbe").
+entry(smacker, n, [smackers], "जवन चाटल करे").
+entry(chhota, vishekshan, [], "AUR CHHOTA SABSE CHHOTA simit akar ya maatra").
+entry(small, n, [छोट], "एक छोट हिस्सा").
+entry(smallage, n, [smallages], "ek jangali ajwain").
+entry(smallish, adj, [], "कुछ छोट").
+entry('चेचक', n, ['चेचक'], "एक वायरस बीमारी").
+entry(smalt, n, [smalts], "ek neela rang hai").
+entry(smalti, a, [], "smalto ke plural").
+entry(smaltine, n, [smaltines], "smaltite").
+entry(smaltite, n, [smaltites], "ek khan khanij").
+entry(smalto, n, [smaltos], "ya SMALTI mosaics me istemal hoewala rangin kaanch").
+entry(smaragd, n, [smaragds], "ek panna").
+entry(smaragde, n, [smaragdes], "समरागड").
+entry(smarm, v, [smarmed,smarming,smarms], "अधिक प्रशंसा कके अनुग्रह प्राप्त करे के उपयोग करे").
+entry(smarmy, adj, [], "अति चापलूसSMARMILY adv").
+entry(smart, adj, [], "SMARTER SMARTESTmanasik chaturai se visheshSMARTISH adj").
+entry(smart, v, [smarted,smarting,smarts], "ek garam dard ke karan bane").
+entry(smartass, n, [smartasses], "ek chatur").
+entry(smarten, v, [smartal, smartai, smartela], "dekha me sudhaar karna").
+entry(smartie, n, [smarties], "समार्टी").
+entry(smartly, adv, [], "समझदारी से").
+entry(smarty, n, [smarties], "ek ghamandi aur apne par ghamand karewala vyakti").
+entry(smash, v, [smashed,smashing,smashes], "todh-posh kar dena").
+entry(smasher, n, [smashers], "जेकरा काम फोड़ल बा").
+entry(smashup, n, [smashups], "motor gaari ke takka").
+entry(smatter, v, [smattered,smattering,smatters], "thoda jaankari ke sath bole").
+entry(smaze, n, [smazes], "dhuwãn aur dhund ke ek mahaul banave wala misran").
+entry(smar, kriya, [smaaril, smari, smaary], "dhila, chikna, ya ganda padarth ke sath phailaye").
+entry(smearer, n, [smearers], "ओह चीज जे लेप करत बा").
+entry(smeary, adj, [], "स्मियरियर स्मियरिएस्टस्मियर किया गया").
+entry(smectic, adj, [], "ek taral crystal ke ek charan se sambandhit").
+entry(स्मेक्टाइट, न, [स्मेक्टाइट्स], "एक चिपचिपा खनिज").
+entry(smeddum, n, [smeddums], "pisal malt ke chhura").
+entry(smeek, v, [smeekkal,smeekhat,smeeks], "dhumrapan kare").
+entry(smegma, n, [smegmas], "sebum").
+entry(sung, kriya, [sungal, sungatan, sungala], "ghraandhiyan ke madhyam se gyaan prapt karak").
+entry(smeller, n, [smellers], "जवन सूंघे वाला").
+entry(gandail, vises-sabd, [], "AUR GANDA SABSE GANDA jaisan naak ke theek na lagela").
+entry(smelt, v, [smelted, smelting, smelts], "pighala ke khaṭa̱ kadhā").
+entry(smelter, n, [smelters], "पिघलावे वाला").
+entry(smeltery, n, [smelteries], "pighalawe ke sthaan").
+entry(smelting, n, [smeltings], "ores ke pigal ke dhatu prapt kare ke prakriya").
+entry(smerk, v, [smerkil, smerk-la, smerk-ta], "hara dekhave ke liye muskurana").
+entry(smew, n, [smews], "ek Eurasian batakh").
+entry(smidj, n, [smidjan], "ek chhota hissa").
+entry(smidgen, n, [smidgens], "bahut e chhota pariman").
+entry(थोड़िक, संज्ञा, [थोड़िक], "थोड़िक").
+entry(smidgin, n, [smidgins], "थोड़ा").
+entry(smilax, n, [smilaxes], "ek bel wala paudha").
+entry(smile, v, [muskurail,muskuratat,muskurata], "mauj-masti me muh ke koniya ke upar uthana").
+entry(smiler, n, [smilers], "जवन मुसुकाइला").
+entry(smiley, n, [smileys], "ya SMILIESs hansi khisiyan ke ek pradarshan").
+entry(smiley, adj, [], "मुस्की करत मुस्की करताहाँदे देखावत").
+entry(smirch, v, [smirched,smirching,smirches], "gandail").
+entry(taanas, kriya, [taanasta,taanasat,taanasat], "ek prakar ke muskrahat jisme khush ho ke dekha jaat ba").
+entry(smirker, n, [smirkers], "जेकरा मुंह से मुस्कान निकल रहल बा").
+entry(smirky, visheṣaṇ, [], "SMIRKIER SMIRKIESTsmirkingSMIRKILY kriyāvisheshan").
+entry(smite, v, [smitten, smiting, smites], "takaṭ se māre ke").
+entry(smiter, n, [smiters], "ओहमें जे मारेला").
+entry(smith, n, [smiths], "ek loha ka kaam kare wala").
+entry(smithers, npl, [], "छोट टुकड़ा").
+entry(लुहारी, n, [लुहारियाँ], "एक लुहार के पेशा").
+entry(smithing, n, [smithings], "ek lohar ke kaam").
+entry(smithy, n, [lāhāsālarī], "lāhās ke kāryasālā").
+entry(smiting, present, [], "smite के कृदंत").
+entry(smitten, a, [], "smite के भूतकालिक रूप").
+entry(smock, v, [smocked,smocking,smocks], "ek dhila baahar ke vesh ke saath ek smock se sajha").
+entry(smocking, n, [smockings], "ek tarah ke sue-katai").
+entry(smog, n, [smogs], "dhuan aur kohra ke atmospheiric mishranSMOGLESS adj").
+entry(smoggy, adj, [], "धूँआदार धूँआदार अधिकतम धूँआदार भरी").
+```prolog
+entry(smoke, v, [smoked,smoking,smokes], "dhuaaN tir ke udhi ke gaseous utpaad jari materialS dhuaNwala visheShaN").
+```
+entry(smokebox, n, [smokeboxes], "dhuwan banave aur rakhe khatir ek kaksh").
+entry(smokepot, n, [smokepots], "dhuaa dewe wala ek bartan").
+entry(smoker, n, [smokers], "जे धुआँ पीअता").
+entry(smokey, adj, [], "धुँआधार धुँआधारीधुँआदार").
+entry(smokey, n, [smokeys], "ya SMOKIESs on la puulis adhiikari jo rajmarg ke patroll karela").
+entry(smokie, n, [smokies], "ek saasage ya garam kutta").
+entry(धूम्रपान, प, [धूम्रपान], "तंबाकू या दवा के धुंआ के इन्हेलिंग आ एक्सहेलिंग").
+entry(smoky, adj, [], "धुँआरदार धुँआरदार से भरल धुँआरधारी Adv").
+entry(smolder, v, [smoldered,smoldering,smolders], "bina aag ke jalawa").
+entry(smolt, n, [smolts], "ek lura saaman").
+entry(smooch, v, [chuimalis, chuimali, chuimail], "chumman").
+entry(smoocher, n, [smoochers], "जे चुम्मा होला").
+entry(smoochy, adj, [], "SMOOCHIER SMOOCHIESTsmooching क खातिर ठीक").
+entry(smoosh, v, [smooshed,smooshing,smooshes], "masal ke chiprita ke").
+entry(smooth, adj, [], "SMOOTHER SMOOTHESTजवन सतह पर अनियमितता से मुक्त हो").
+entry(smooth, v, [smooth kataral, smooth karat, smooth karata], "ya SMOOTHEStaur smooth banave ke").
+entry(smoothe, v, [smoothed,smoothing,smoothes], "samta kare").
+entry(smoothen, v, [tikkaile,tikkaat,tikkas], "kichil kare").
+entry(smoother, n, [smoothers], "जे चिक्कन करे वाला").
+entry(स्मूदी, न, [स्मूदीज़], "एक आदमी जिनका व्यवहार पॉलिश कइल बा").
+entry(smoothly, adv, [], "ekdam saanjh se").
+entry(smoothy, n, [smoothies], "स्मूथी").
+entry(smorg, n, [smorgs], "ek smorgasbord").
+entry(smote, past, [], "smite के काल").
+entry(smother, v, [ghutae, ghutawat, ghutela], "saans le se roke").
+entry(smothery, adj, [], "ghutighuti kare wala").
+entry(smoulder, v, [smouldered,smouldering,smoulders], "smouldar kare ke").
+entry(स्मृति, न, [स्मृतियाँ], "हिंदू धार्मिक शिक्षा के एक पाठ").
+entry(smudge, v, [smudged,smudging,smudges], "gandaa kare ya lepa-lap kare").
+entry(smudging, n, [smudgings], "lepe ke kar karik").
+entry(smudgy, visheshan, [], "SMUDGIER SMUDGIESTsmudgedSMUDGILY kriya visheshan").
+entry(smug, adj, [], "SMUGGER SMUGGESTनिहायत आत्मसंतुष्ट").
+entry(smuggle, v, [smuggled, smuggling, smuggles], "awaidh roop se aanan ja le jaan").
+entry(पसारल, सं, [पसारलन], "जे चोरी-छिपा के माल ले गइल").
+entry('ghamsa se', adv, [], "ghamand me").
+entry(santushtata, n, [santushtataiyan], "santusht ho k sthiti ya guni").
+entry(smush, v, [smushed,smushing,smushes], "ghisaai ke").
+entry(smut, v, [smutted,smutting,smuts], "गंदा करे").
+entry(smutch, v, [smutched,smutching,smutches], "dagda kare ke").
+entry(smutchy, visheshan, [], "SMUTCHIER SMUTCHIESTsmudgy").
+entry(smutty, adj, [], "SMUTTIER SMUTTIEST अश्लील SMUTTILY क्रिया-विशेषण").
+entry(snack, v, [snacked,snacking,snacks], "halka khana khaye ke").
+entry(snacker, n, [snackers], "खाए वाला").
+entry(snacky, adj, [], "SNACKIER SNACKIEST हल्का खाना खातिर बढ़िया").
+entry(snaffle, v, [snaffled,snaffling,snaffles], "golmaal kari ke kuchh mil jaye").
+entry(snafu, v, [snafued,snafuing,snafus], "asta-vyasta mein le aana").
+entry(snag, v, [snag_kail, snag_karat, snag_karta], "ekharabar mein atak jaana ek farba protuberance par").
+entry(snagger, n, [snaggers], "ek vyakti jekar illegal machh-mari ke tareeka ke istemal karela").
+entry(snaggle, n, [snaggles], "ek gãthil ya gudhaul mass").
+entry(snaggy, adj, [], "हरी भरल सांगी सांगीत").
+entry(snaglike, vishi, [], "gath-look").
+entry(snail, v, [snailed,snailing,snails], "dhire dhire khisak")।
+entry(saamp, v, [saampal, saampai, saampan], "saamp jaisan gati, bina haath paer ke rejner wali prani").
+entry(saanp_danssal, visheshan, [], "abhaga").
+entry(snakepit, n, [snakepits], "ek manochikitsalay").
+entry(snakey, adj, [], "साँपनिया, साँपनियो साँच").
+entry(snaking, vartaman, [], "snake ke kriya-visheshan").
+entry(saanp_jaisan, visheshan, [], "saap ke samaan").
+entry(snaky, adj, [], "SNAKIER SNAKIESTsa\u1e45\u1e45p ke nikiSNAKILY adv").
+entry(snap, v, [snapped,snapping,snaps], "ek tez awaj kare ke khatir phatkana").
+entry(snapback, n, [snapbacks], "अचानक पलटाव या सुधार").
+entry(snapless, adj, [], "snap ke bina ek tarah ke fastening device").
+entry(snapper, n, [snappers], " एगो जे पकड़ के तुड़ेला ").
+entry(snappier, comparative, [], "के snappy").
+entry(snappiest, superlative, [], "के snappy").
+entry(sphurtisa, kriyavisheshan, [], "sphurti se").
+entry(snapping, present, [], "snap के खास रूप").
+entry(snappish, visheshan, [], "jor se bolave ke taatpari wala").
+entry(snappy, adj, [], "SNAPPIER SNAPPIESTsnappish").
+entry(snapshot, v, [snapshotted,snapshotting,snapshots], "gair rasmi an tezi se photo kheenchal").
+entry('स्नैपवीड', n, ['स्नैपवीड्स'], "एगो फूलवाला पौधा").
+entry(snare, v, [snared,snaring,snares], "phans deb").
+entry(snarer, n, [snarers], "एक जवन फँसावेला").
+entry(snarf, v, [snarfed,snarfing,snarfs], "लालच से खाय या पिय").
+entry(snarfle, v, [snarfled,snarfling,snarfles], "snarf kare").
+entry(snaring, present, [], "snare के participle").
+entry(snark, n, [snarkan], "ek kalpnik jantu").
+entry(snarky, adj, [], "SNARKIER SNARKIESTsnappishSNARKILY adv").
+entry(snarl, v, [snarled,snarling,snarls], "bura tarah se gharghara ke garajna").
+entry(snarler, n, [snarlers], "एक जवन गरजेला").
+entry(snarly, adj, [], "पेंचदार पेंचदारतम उलझल").
+entry(snash, n, [snashes], "gaali-galauj").
+entry(achak, v, [achakal, achakat, achake], "achanak se pakar lena").
+entry(snatcher, n, [snatchers], "जवन छीने वाला बा").
+entry(snatchy, adj, [], "अनियमित रूप से घटित SNATCHIER SNATCHIEST").
+entry(snath, n, [snaths], "egariya ke hathi").
+entry(snathe, n, [snathes], "snath").
+entry(snaw, v, [snawed,snawing,snaws], "baf parna").
+entry(snazzy, adj, [], "SNAZZIER SNAZZIESTbahut stylishSNAZZILY adv").
+entry(chorai, kriya, [chorail, choraiat, chorai], "chup chap harek ba").
+entry(स्नीकबॉक्स, न, [स्नीकबॉक्सेस], "जंगली मुर्गाबी के शिकार खातिर इस्तेमाल होखे वाला झाड़ी आ घास से ढँकल छोटका नाव").
+entry(sneaker, n, [sneakers], "ek je chhupayi ke karela").
+entry(sneaky, adj, [], "SNEAKIER SNEAKIESTdhokhebaajSNEAKILY adv").
+entry(sneap, v, [sneaped,sneaping,sneaps], "jateena").
+entry(sneck, n, [snecks], "ek killi").
+entry(sned, v, [snedded,snedding,sneds], "katar ke retar").
+entry(sneer, v, [sneered,sneering,sneers], "निंदा भा उपहास में होंठ मोड़े के ").
+entry(sneerer, n, [sneerers], "एक जवन नाक पर चढ़ के देखेला आ मुँह बिठले हँसेला").
+entry(sneerful, adj, [], "ninda kare ke aadatwala").
+entry(sneery, adj, [], "अनमुखिया सऽ भरल").
+entry(sneesh, n, [sneeshes], "सूँघनी").
+entry(sneeze, v, [sneezed,sneezing,sneezes], "achanak se aur aniyantrit roop se saans ke nikalne ke prakriya").
+entry(sneezer, n, [sneezers], "एक जवन छींकल करे").
+entry(sneezy, viseshan, [], "SNEEZIER SNEEZIEST chhikawaa").
+entry(snell, adj, [], "तेज तेजतर").
+entry(snell, v, [snelled,snelling,snells], "ek machhli ke kaante se chhoti line jodna").
+`entry(snib, v, [snib_ke_baandh_dewa, snib_raiha, snibs_kare], "bandhan kare ke").`
+entry(snick, v, [snicked,snicking,snicks], "chorai ke nishan chhodab").
+entry(snicker, v, [snickered,snickering,snickers], "aadha dabawaa ke hansi").
+entry(snickery, visheshan, [], "hasat rahe ke iccha").
+entry(snide, adj, [], "घातक रूप से आलोचनात्मकSNIDELY adv").
+```prolog
+entry(sniff, v, [sniffed,sniffing,sniffs], "naak se sunke saans lena").
+```
+entry(sniffer, n, [sniffers], "एक ओह लोग में से जे सुँघेला") .
+entry(sniffier, comparative, [], "sniffy क").
+entry(sniffiest, superlative, [], "sniffy के").
+entry(sniffily, adv, [], "jhutka maar ke").
+entry(sniffish, visheshan, [], "ghamandi").
+entry(sniffle, v, [suhukna, suhukte, suhukela], "bar-bar suhusuh kare ke").
+entry(sniffler, n, [snifflers], "जवन सिंगमार करे").
+`entry(sniffly, visheshan, [], "sabak aam nashukhi").`
+entry(sniffy, adj, [], "SNIFFIER SNIFFIESTsniffish").
+```prolog
+entry(snifter, n, [snifters], "ek naashpati shape ke sharaabi gilaas").
+```
+entry(snigger, v, [sniggered,sniggering,sniggers], "hasse ke mazak").
+entry(sniggle, v, [sniggled,sniggling,sniggles], "eel मछरी खातिर मछरी मारे").
+entry(sniggler, n, [snigglers], "एगो आदमी जे सनिग्गल करे ला").
+entry(sniglet, n, [sniglets], "ek shabd jo kisike naam nahi ba ke la banaal jaawe").
+entry(snip, v, [snipped,snipping,snips], "सँ एक छोटा, तेज झटका से काटल").
+entry(snipe, v, [sniped, sniping, snipes], "chhipe jagah se vyakti par goli chalana").
+entry(sniper, n, [snipers], "जवनकी गोली मारेला").
+entry(sniping, n, [snipings], "oakra ke karyawa jekar snipe karela").
+entry(snipped, past, [], "snip के काल").
+entry(snipper, n, [snippers], "ek baa je kaatela").
+entry(snippet, n, [snippets], "ek chhota tukda kaat ke alag kiya gais").
+entry(snippety, adj, [], "SNIPPETIER SNIPPETIESTsnippy").
+entry(snipping, n, [snippings], "kuchh ke tukra jo kaat ke alag kiya gaya hai").
+entry(snippy, adj, [], "सनिप्पियर सनिप्पिएस्टस्नैपिशसनिप्पिली क्रिया।").
+entry(snit, n, [snits], "ek asantushti ke stithi").
+entry(snitch, v, [ssnitch_kail, ssnitch_karat, ssnitch_karela], "chugali karbe").
+entry(snitcher, n, [snitchers], "एक जवन चुगली करेला").
+entry(snitty, adj, [], "सबसे बाउर मिजाज खातिर अवगुच्छ तरीका के").
+entry(sisikana, v, [sisikalal,sisikat,sisikave], "ya SISIKAL SISIKAT SISIKAI nak se rove ke").
+entry(sniveler, n, [snivelers], "ek je roval kare").
+entry(snivelly, विशेषण, [], "सूँ-सूँ करत रोवे वाली प्रवृत्ति").
+entry(snob, n, [snobs], "eekra se nimna samjhal jaata baani log ke tal deewe waala vyakti").
+entry("घमंडीपन", n, ["घमंडियाँ"], "घमंडी व्यवहार").
+entry(snobbier, comparative, [], "snobby ke").
+entry(snobbiest, superlative, [], "ke snobby").
+entry(snobbily, adv, [], "snobby dhaang se").
+entry(snobbish, visheṣaṇ, [], "snob ke visheshṭa").
+entry(snobbism, n, [snobbisms], "snobgiri").
+entry(snobby, adj, [], "SNOBBIER SNOBBIESTsnobbish").
+entry(snowcoach, n, [snowcoaches], "ek bas jaisan gadi jo baraf par chalaye la bade wheel ya track ke saath").
+entry(snog, v, [snogged,snogging,snogs], "चुम्मा लेवे के").
+entry(snogger, n, [snoggers], "jawan ke juraikawa").
+entry(snood, v, [snooded,snooding,snoods], "snood ek jali ya kapdaa ke topi se baal ke surakshit kare").
+entry(snook, v, [snooked,snooking,snooks], "sungahls").
+entry(snooker, v, [snookered,snookering,snookers], "dhokha dewa").
+entry(snool, v, [snooled, snooling, snools], "nirmaan se maan lena").
+entry(snoop, v, [snooped,snooping,snoops], "jaan-samachar lena").
+entry(snooper, n, [snoopers], "जे मीठ-मिठ झांकs").
+entry(snoopy, adj, [], "SNOOPIER SNOOPIESTsnooping ke dekhaiSNOOPILY adv").
+entry(snoose, n, [snooses], "चकठा तम्बाकू").
+entry(snoot, v, [snooted,snooting,snoots], "अपमान से व्यवहार करे के").
+entry(snootful, n, [snootfuls], "भरपूर शराब जवन आदमी के नशा में करत बा").
+entry(snooty, adj, [], "SNOOTIER SNOOTIESTsnobbishSNOOTILY adv").
+entry(snooze, v, [snoozed, snoozing, snoozes], "halka me sutal").
+entry(snoozer, n, [snoozers], "जवन सुतेला बा").
+entry(snoozle, v, [snoozled,snoozling,snoozles], "nakk ke sahare chhuaa").
+entry(snoozy, adj, [], "SNOOZIER SNOOZIESTDwendraavighav").
+entry(ghargharaahat, v, [ghargharaayaa, ghargharaahat_kare, ghargharaahat_karela], "sutal bera zor se saans lewe").
+entry(snorer, n, [snorers], "जवन खर्राटा मारेवाला बा").
+entry(ghurghuraahat, n, [ghurghuraahat], "soonai ke dauran jor se saans len ke kariya").
+entry(snorkel, v, [snorkeled,snorkeling,snorkels], "ek rakam ke saans lewe waala upkaran ke saath paani ke neeche taire ke kariya").
+entry(snort, v, [snorted,snorting,snorts], "naak se zor se hawa fenkat").
+entry(snorter, n, [snorters], "je snort karela").
+entry(snot, n, [snots], "नाक के रसा").
+entry(snotty, adj, [], "SNOTTIER SNOTTIESTghamandiSNOTTILY adv").
+entry(snout, v, [snouted,snouting,snouts], "nozzle se pradaan kare ke").
+entry(snoutish, adj, [], "snouty").
+entry(snouty, adj, [], "लमहर निकासे वाला नाक जइसन SNOUTIER SNOUTIEST").
+entry(baraf, v, [barafo,barafat,baraafe], "barf ke roop me baras ke aakar me ice ke crystal jaisan girna").
+entry(snowball, v, [snowballed, snowballing, snowballs], "jara raftar se teji se badhe").
+entry(snowbank, n, [snowbanks], "ek teer ke bora").
+entry(snowbell, n, [snowbells], "ek phoolguchha paudha").
+entry(snowbelt, n, [snowbelts], "ek ilaka jahan har saal baaris ke kaafi baraf girat hai").
+entry(snowbird, n, [snowbirds], "ek chhota pakshi").
+entry(snowbush, n, [snowbushes], "ek phooldaar jhaadi").
+entry(snowcap, n, [snowcaps], "baraf ke ek covering").
+entry(snowcat, n, [snowcats], "बरफ पर चलला खाती एगो ट्रैकले वाला गाड़ी").
+entry(snowdrop, n, [snowdrops], "ek European ghas").
+entry(बरफबारी, सं, [बरफबारी], "बरफ के बरिसन").
+entry(snowflea, n, [snowfleas], "ek bina pankh ke kira jo basant me barf par dekhai deela").
+entry(snowier, comparative, [], "बरफीला से").
+entry(snowiest, superlative, [], "ke sab से बढ़िया bर्फीला").
+entry('बरफ नियर', 'क्रिया विशेषण', [], 'बरफ वाली तरीका से').
+entry(snowland, n, [snowlands], "ek ilaka jehaan bahut baraf ba").
+entry(snowless, adj, [], "बरफ नाही खलल").
+entry(snowlike, visheṣaṇ, [], "baraf jaisan").
+entry(फूल-आदमी, संज्ञा, [फूल-आदमी], "एक अदमी के आकर जेकरा बरफ से बनावल गइल बा").
+entry(baraf_pighlaav, n, [baraf_pighlaav], "baraf ke pighla se utpann paani").
+entry(snowmold, n, [snowmolds], "galta baraf ke najdiki ghaas ke ek rog hai").
+entry(snowpack, n, [snowpacks], "ektha bhitari bhar ke pakka baraf").
+प्रविष्टि(snowplow, v, [snowplowed, snowplowing, snowplows], "स्कींग करत समय एक प्रकार केहू तरीका के अमल में लावे").
+entry(snowshed, n, [snowsheds], "baraf se suraksha ke liye banail jaay wala ek sanrachna").
+entry(बरफजूता, v, [बरफजूताल,बरफजूताing,बरफजूताs], "बरफ में चलल के लेल अंडाकार फ्रेम जवन आदमी के गहिर बरफ पर चलल में मदद करे").
+entry(snowsuit, n, [snowsuits], "ek bachpan ke poshak jo sardee me pehnela").
+entry(snowy, adj, [], "बरफिली बरफिलीयर बरफिलियस्ट बरफ से भरल").
+entry(snub, v, [snub kail, snub ke rahe, snubs], "garv se bat karna ya upeksha karna").
+entry(snubber, n, [snubbers], "जवन नज़रअंदाज़ करीला").
+entry(snubby, visheṣaṇ, [], "SNUBBIER SNUBBIESTblunt").
+entry(snubness, n, [snubnesses], "स्पष्टता").
+entry(snuck, a, [], "sarak ke bhootkaal").
+entry(snuff, v, [snuffed,snuffing,snuffs], "snuff powdared tambaakoo ke use kare ke ya saans me kheech ke").
+entry(snuffbox, n, [snuffboxes], "मसि राखे क खातिर डिब्बा").
+entry(snuffer, n, [snuffers], "ek baa ke bujhaave waala").
+entry(snuffier, comparative, [], "snuffy ke").
+entry(snuffiest, superlative, [], "snuffy के").
+entry(snuffily, adv, [], "snuffy तरीका में").
+entry(snuffle, v, [snuffled,snuffling,snuffles], "naak surakna").
+entry(snuffler, n, [snufflers], "एक जवन सूँघेला").
+entry(snuffly, adj, [], "सूँघले वाला").
+entry(snuffy, adj, [], "स्नफियर स्नफिएस्टडिंगी").
+entry(snug, vishi, [], "SNUGGER SNUGGESTgharamp pamsandidher").
+entry(snug, v, [snugged,snugging,snugs], "snug bani ke ba").
+entry(snuggery, n, [snuggeries], "ek dam sughar jagah").
+entry(snuggest, superlative, [], "snug के").
+entry(snuggies, npl, [], "महिलाओं के लम्बा अंडरवियर").
+entry(snugging, present, [], "snug के participle").
+entry(snuggle, v, [snuggled,snuggling,snuggles], "nikatav leṭāwe athavā dabāwe").
+entry(snuggly, adj, [], "SNUGGLIER SNUGGLIEST गरम आ आरमदायक").
+entry(sukh se, adv, [], "sukh se").
+entry(snugness, n, [snugnesses], "samasin rahe ke deha ya stiti").
+entry(snye, n, [snyes], "nadi ke ek side channel").
+entry(so, n, [sos], "सोल").
+entry(soak, v, [bighawe, bighawat, bighawe], "kuch chij ke puri tare se gila kare ke liye").
+entry(soakage, n, [soakages], "bheeghela ke kriya").
+entry(soaker, n, [soakers], "जवन भिजावे").
+entry(bhijawt, n, [bhijawat], "kono cheez ke puri tarah se gila kare ke kirya").
+entry(साबुन, v, [साबुनल,साबुनावत,साबुनन], "साफ-सफाई कऽ साधन साबुन से इलाज कइल").
+entry(soapbark, n, [soapbarks], "ek tropical gachh").
+entry(soapbox, v, [soapboxed,soapboxing,soapboxes], "gali-gali mein anaupcharik utsahbhar bhashan dena").
+```prolog
+entry(soaper, n, [soapers], "radio ya television par ek silsila melodrama").
+```
+`entry(soapfish, n, [soapfishes], "ek tropical machhli jo zahreela mucus utpaadan karela").`
+entry(soapier, comparative, [], "साबुन जैसन").
+entry(soapiest, superlative, [], "soapy ke sabसे ज्यादा").
+entry(soapily, adv, [], "sabonwa jaisan tarik se").
+entry(soapless, visheshan, [], "jee mein sabun nai hai").
+entry(soaplike, adj, [], "साबुन जइसन").
+entry(soapsuds, npl, [], "sabun ke jhaag pani").
+entry(soapwort, n, [soapworts], "ek barhamasa jari-booti").
+entry(soapy, adj, [], "साबुन जइसन भा साबुन नियर").
+entry(soar, v, [soared,soaring,soars], "ek bahutcha uchaai p urey ke khatir").
+entry(soarer, n, [soarers], "जवन उड़ेला").
+entry(बढ़ना, n, [बढ़नियाँ], "बिना पावर वाला भारीहवाई जहाज उड़ावे के खेल").
+entry(soave, n, [soaves], "ek Italian daaru").
+entry(sob, v, [roil, roiat, rois], "sans ko chhati se pakad ke roawa").
+entry(soba, n, [sobas], "ek japanese noodle jo ki buckwheat ka aata se banat hai").
+entry(sobber, n, [sobbers], "ek jekar royaar").
+entry(sobeit, conj, [], "basa ehi se").
+entry(sober, adj, [], "SOBERER SOBERESTapan bibhinn kshetron par niyantran hai").
+entry(sober, v, [sobered, sobering, sobers], "hoshiyaar kari ke").
+entry(soberize, v, [soberized,soberizing,soberizes], "sudh hona").
+entry(saburi, adv, [], "ek sober tarik se").
+entry(sobful, visheshan, [], "roiye ke aadat ba").
+entry(siddhanta, n, [siddhantas], "nijhpan ke gunvaat ba ya haalat ba").
+entry(soc, n, [soces], "ek social science ke course").
+entry(soca, n, [socas], "आत्मा आ कैलिप्सो संगीत के मिलन").
+entry(socage, n, [socages], "ek tarike ke feudal bhoomi rakh-rakhaav").
+entry(socager, n, [socagers], "ek kiraayadaar jo socage par rahe").
+entry(soccage, n, [soccages], "socage").
+entry(football, n, [footballs], "ek parkar ke ball game").
+entry(sociable, n, [sociables], "ek social").
+entry(मिलनसार, क्रिया विशेषण, [], "दोस्ताना तरीका में").
+entry(social, n, [socials], "ek mil ke baithak").
+entry(socially, adv, [], "samajik taur par").
+entry(समाज, सं, [समाजनी], "एक गो व्यवस्थित समूह ब्यक्तियन के सामाजिक विशेषण").
+entry(sock, n, [जुराब], "जा SOXa बुनल या बुना गइल गोड़ के लागि आवरण").
+entry(sock, v, [socked,socking,socks], "jor se maar").
+entry(socket, v, [socketed, socketing, sockets], "kono cheez ke samaane socket se pradaan kare ke khulal jagah").
+entry(sockette, n, [sockettes], "ek bahut chhota jurab").
+entry(sockeye, n, [sockeyes], "ek khadya machhli").
+entry(sockless, adj, [], "जूता बिना")।
+entry(sockman, n, [sockmen], "मोजावाला").
+entry(socko, visesan, [], "jabardast parbhavshali").
+entry(socle, n, [socles], "ek block jo column ya pedestal ke base ke tor par prayog me laya jaawe la").
+entry(socman, n, [socmen], "ek samajik vaaris").
+entry(sod, v, [sodded,sodding,sods], "ghan me ghas ke tep se dhakel").
+entry(soda, n, [sodas], "ek rakam ke rasayanik yogikSODALESS visheshan").
+entry(sodalist, n, [sodalists], "ek sodality ke sadasya").
+entry(sodalite, n, [sodalites], "ek khan khanij").
+entry(sodality, n, [sodalities], "ek samaj").
+प्रवेश(सोडामाइड, न, [सोडामाइड्स], "एक रासायनिक यौगिक")।
+entry(sodded, beetat, [], "sod ke kaal").
+entry(sodden, v, [soddened,soddening,soddens], "geela kari ke").
+pravesh(achanak, kriya-visheshan, [], "bige dehal tarike se").
+entry(soddie, n, [soddie], "ek soddie").
+entry(sodding, present, [], "sod के बर्तमान क्रिया विशेषण").
+entry(soddy, n, [soddies], "mिट्टी के घर").
+entry(sodium, n, [sodiums], "ek dhatu tatvaSODIC adj").
+entry(sodom, n, [sodoms], "ek jagah jo vice aur pratadna khatir badnaam ba").
+entry(sodomise, v, [sodomised,sodomising,sodomises], "sodomy kare").
+entry(sodomist, n, [sodomists], "ek sodomite").
+entry(समलैंगिक, सं, [समलैंगिकन], "जे व्यक्ति समलैंगिकता के अभ्यास करे").
+entry(sodomize, v, [sodomized,sodomizing,sodomizes], "sodomy kare ke").
+entry( समाधारित-क्रिया, सं, [ समाधारित-क्रियावाला ], "अप्राकृतिक सहवास" ).
+entry(soever, kriya visheshan, [], "bilkul").
+entry(सोफा, सं, [सोफास], "एक लमहर गद्देदार सीट").
+entry(sofabed, n, [sofabeds], "ek sofa je raati ke bistar ban sake").
+entry(sofar, n, [sofars], "pani ke niche visfot khoje ke ek pranali").
+entry(soffit, n, [soffits], "ek arkitekchar ke dhachaa ke niche ke bhaag").
+entry(soft, adj, [], "नरम, सबसे नरम, दबाव देतहीं धस जाले").
+entry(soft, n, [softs], "ek naram vastu ya bhag").
+entry(softa, n, [softas], "ek Musalmaan dharmik chhatra").
+entry(softback, n, [softbacks], "eka kitaab jo lachakil kagaji gilanth mein bandhaal ho").
+entry(गेंद, न, [गेंदन], "गेंद के एक प्रकार").
+entry(softcore, visheshan, [], "jawan se jada khuliha na dekhawe me").
+entry(soften, v, [softened,softening,softens], "narm kare ke").
+entry(softener, n, [softeners], "जे नरम करेला").
+entry(softhead, n, [softheads], "ek bae'okuf vyakti").
+एंट्री(सॉफ्टी, न, [सॉफ्टीज़], "सॉफ्टी")।
+entry(softies, pl, [], "के सॉफ़्टी").
+entry(softish, adj, [], "थोड़ बहुत नरम").
+entry(softly, adv, [], "naram tare se").
+entry(softness, n, [softnesses], "narmī ke gun ya awasthā").
+entry(सॉफ्टवेयर, न, [सॉफ्टवेयर्स], "कंप्यूटर संचालन में इस्तेमाल होत लिखल या छापल डाटा").
+entry(softwood, n, [softwoods], "kuch vibhinn pedan ke naram lakdi").
+entry(softy, n, [softies], "sentya ke log").
+entry(sogged, vishesan, [], "soggy").
+entry(soggy, adj, [], "SOGGIER SOGGIESBare bharal paani seSOGGILY adv").
+entry(soh, n, [sohs], "सोल").
+entry(soigne, visheshan, [], "saavdhaani se kiya gail").
+entry(soignee, adj, [], "soigne").
+entry(soil, v, [gandail,gandai,zaminwa], "gandaa kare ke").
+entry(soilage, n, [soilages], "janwar ke khilave khatir hariyali fasal").
+entry(soilless, adj, [], "mitti ke bina chala gail, organic matter ke sath bareek roop se batuṭal chattan me mila ke").
+entry(soilure, n, [soilures], "ek daag ya chhidik").
+entry(soiree, n, [soirees], "ek saanj ke party").
+entry(soja, n, [sojas], "soya ke daana").
+entry(sojourn, v, [sojourned,sojourning,sojourns], "dehriye ke rahi baye").
+entry(सोजू, स, [सोजूस्क], "चाउर भा मीठा आलू से बनी कोरियन वोदका").
+entry(soke, n, [sokes], "ek rājwāshī hak jekar se kush kshetra ke bhetar nyaay prashāsan kike milta").
+entry(sokeman, n, [sokemen], "socman").
+entry(sokol, n, [sokols], "ek antarraashtreey samuuh je dehiya swasthya ke badhaawe ke kaam karela").
+entry(sol, n, [sols], "diatonic sargam me paanchwan sur").
+entry(sola, n, [solas], "Bhāratiya ek jarahī ghās").
+entry(solace, v, [solaced,solacing,solaces], "santawelas").
+entry(solacer, n, [solacers], "ओह लोगन में से जेकरा से सान्त्वना मिलेला").
+entry(solan, n, [solans], "ek gannet").
+entry(soland, n, [solands], "सोलन").
+entry(solander, n, [solanders], "ek surakshat bakas library ke saman ke lie").
+entry(solanin, n, [solanins], "सोलेनाइन").
+entry(solanine, n, [solanines], "ek bisail alkaloid").
+entry(solano, n, [solanos], "एक जोरदार गरम हवा").
+entry(solanum, n, [solanums], "ghas aur jhaadi ke koi ek jaati").
+entry(solar, n, [solars], "ek surya kaksh").
+entry(solaria, a, [], "pl of solarium").
+entry(solarise, v, [solarised,solarising,solarises], "solarize करे के").
+entry(solarism, n, [solarisms], "lok-kathaa ke prabhaavnaath suraj ke prakriti ke avdharna ke roop mein vyaakhya").
+entry(solarium, n, [solariums], "ya SOLARIA ek kamra jo suruj ke roshni me khula rahe").
+entry(solarize, v, [solarized,solarizing,solarizes], "suraj ke roshni me rakhna").
+entry(solate, v, [solated,solating,solates], "ek taral colloidal pranali me badlawa").
+entry(solation, n, [solations], "solation kare ke kriya").
+entry(solatium, n, [solatia], "bhawna ke chot ke badle diye gail muawja").
+entry(bikālā, pīchala, [], "bikāli ke kalā").
+entry(soldan, n, [soldans], "ek Muslim shasak").
+entry(solder, v, [soldered,soldering,solders], "लग गइल साटे").
+entry(solderer, n, [solderers], "एक जवन मिलावेला").
+entry(sainik, v, [sainikba, sainikban, sainik], "sena me sewa kariye").
+entry(senaai, n, [senaiyaa], "sena ke peshawar").
+entry(soldo, n, [soldi], "Iṭali ke purāno sikka").
+entry(sole, v, [soled,soling,soles], "juta ke tale ke furnich kare ke").
+entry(solecise, v, [solecised, solecising, solecises], "solecize करे खातिर").
+entry(solecism, n, [solecisms], "एक वाक्य में शब्दन के एगो गलत व्याकरणिक संयोजन").
+entry(solecist, n, [solecists], "जे अकेले बोलल गलत कि व्याकरण गोसइठले").
+entry(solecize, v, [solecized,solecizing,solecizes], "गलती से शब्द या व्याकरणिक नियम के ख़िलाफ़ इस्तेमाल करे").
+entry(soled, past, [], "sole के काल").
+entry(solei, a, [], "soleus के बहुवचन").
+entry(soleless, adj, [], "कोई तला नहीं होखी").
+entry(keval, kriyavisheshan, [], "ekela").
+entry(solemn, visheshan, [], "SOLEMNER SOLEMNESTseriousSOLEMNLY kriya visheshan").
+entry(soleness, n, [akelaapan], "akela rahke stiti").
+entry(solenoid, n, [solenoids], "ek prakar ke electric coil").
+entry(solera, n, [soleras], "Spanish tareeka se taadi banave ke").
+entry(soleret, n, [solerets], "solleret").
+entry(soleus, sangya, [soleuses], "ya legha ke calf me ek otha ya soleus naamak peshi").
+entry(solfege, n, [solfeges], "गावे के कसरत के एगो तरीका").
+entry(solfeggi, npl, [], "सोलफेजेस").
+entry(solgel, visheshan, [], "पूर्णाग्र अथवा अदल-बदल स्थिति वाला कॉलॉइडल प्रणाली").
+entry(soli, a, [], "solo के बहुवचन").
+entry(solicit, v, [solicited,soliciting,solicits], "mainat kheti maage ke").
+entry(solid, adj, [], "ठोस: जेकरा पासा निश्चित आकार आ आयतन बा").
+entry(solid, n, [solids], "ek thos padarth").
+entry(solidago, n, [solidagos], "ek phulwala paudha").
+entry(solidary, visheṣaṇ, [], "ekjut").
+entry(solidi, pl, [], "सॉलिडस के").
+entry(solidify, v, [jor bhail,jor bhail ba,jor bhaila], "jor kari ke bana").
+entry(ठोसपन, पुं, [ठोसपन], "ठोस होखला के गुणवत्ता या अवस्था").
+entry(majbuti_se, kriya_visheshan, [], "ek majbut tare se").
+entry(solidus, n, [solidi], "ancient Rome ke ek sikka").
+entry(soling, present, [], "sole के वर्तमान रूप").
+entry(solion, n, [solions], "एक इलेक्ट्रॉनिक डिटेक्टिंग आ एम्प्लीफाईंग डिवाइस").
+entry(soliquid, n, [soliquids], "ek darav system janiwa").
+entry(akis, n, [akis], "jawan akele rahe").
+entry(soliton, n, [solitons], "bhotik vigyan me ek ahol lajampa").
+entry(अकेलापन, ना, [अकेलापन], "अकेले रहके स्थिति").
+entry(solleret, n, [sollerets], "ek sabaton").
+entry(solo, n, [solos], "ek ya dhunai ke bādh ke lie ek gana bādh sangeet rachana").
+entry(solo, v, [soloed, soloing, solos], "कि अकेले प्रदर्शन कइल जाला").
+entry(soloist, n, [soloists], "ek jekar akele performance karela").
+entry(solon, n, [solons], "ek gyaanwaan vidhi-dhaarak").
+entry(solonets, n, [solonetsan], "solonetz").
+entry(solonetz, n, [solonetzes], "ek type ke mitti").
+entry(solstice, n, [solstices], "saal ke samay jab suraj akaashiya bhuj se sabse adhik doori par rahe la").
+entry(vigholit, n, [vigholitan], "kono aisan cheej jo vigholit ho sake matlab ghul sake").
+entry(solubly, adv, [], "soluble तरी से").
+entry(solum, n, [solums], "ya SOLA matti ke parat").
+entry(solunar, adj, [], "suraj aur chand ke uthta aur dhalta samay ke list karat hai").
+entry(solus, visesann, [], "अकेला").
+entry(solute, n, [solutes], "ek gholal padarth").
+entry(solution, n, [ghol], "eka saman daravalaa mishran").
+entry(solvable, adj, [], "hal ke ja sake wala").
+entry(solvate, v, [solvated,solvating,solvates], "ek prakar ke ion me badalwe ke ba").
+entry(solve, v, [hal kkhujali,kkhujatani,kkhujela], "jawab ya vishleshan khoj la").
+entry('ऋण-शोधन-क्षमता', 'संज्ञा', ['ऋण-शोधन-क्षमताएँ'], "सभ ऋण चुकावे के क्षमता").
+entry(solvent, n, [solvents], "dosar ke ghole ke samarth padarth").
+entry(solver, n, [solvers], "जे सुलझावेवाला बा").
+entry(solving, present, [], "solve के अहवाल रूप").
+entry(सॉम, न, [सॉम्स], "किर्गिस्तान एक मौद्रिक इकाई").
+entry(soma, n, [somas], "ya SOMATA jangal ke gaw dhan SOMATIC adj").
+entry(soman, n, [somans], "ek vishail rasayanik yudh agent").
+entry(somber, adj, [], "SOMBERER SOMBERESTउदासSOMBERLY क्रियाविशेषण").
+entry(sombre, visheṣaṇ, [], "SOMBRER SOMBRESTsomberSOMBRELY kriyāviśeṣak").
+entry(sombrero, n, [sombreros], "ek chauṛ kānālo topi").
+entry(sombrous, visheshan, [], "udhasi").
+entry(some, adj, [], "ek anishchit sankhya ya hissa hoi").
+entry(kehu, n, [kehuan], "ek mahatvapurn byakti").
+entry(someday, adv, [], "कवनो भावी समय पर").
+entry(somedeal, adv, [], "कौनों हद तक").
+entry(kahuna, kriyaVisheshan, [], "kone tariqe se").
+entry(कवनो, n, [कवनोके], "एक कवनो व्यक्ति").
+entry(somerset, v, [somerseted,somerseting,somersets], "ya SOMERSETTED SOMERSETTING SOMERSETS sharir ke ek sanpurn ghera mein sir ke upar se ghuroma).").
+प्रवेश(कभी-कभी, क्रिया-विशेषण, [], "कवनो भविष्य के समय पर")।
+entry(someway, kriya visheshan, [], "kajukho").
+entry(someways, adv, [], "someway").
+entry(somewhat, n, [somewhats], "ek aspecific ginti ya hissa").
+entry(somewhen, adv, [], "kabhi").
+entry(somewise, adv, [], "कइसनबो").
+entry(somite, n, [somites], "कुुछ जनावरन के देह के एक लमहराई संबंधी हिस्साSOMITAL SOMITIC विशेषण").
+entry(somoni, n, [somoni], "Tajikistan ke ek mudra pralekh").
+entry(बेटा, न, [बेटा लोग], "एक पुरुष संतान").
+entry(sonance, n, [sonances], "आवाज").
+entry(sonant, n, [sonants], "glaani ke awaj jekar uttejan par dhwani tantu ke kampan hota haiSONANTAL SONANTIC visheshan").
+entry(sonar, n, [sonars], "ek paani ke niche khejal kare wala yantra").
+entry(sonarman, n, [sonarmen], "sonar sadhan ke chalanwala vyakti").
+entry(सोनेट, संज्ञा, [सोनेट्स], "संगीत रचना के एक प्रकार").
+entry(sonatina, n, [sonatinas], "ya SONATINE ek chhoti sonata").
+entry(sonde, n, [sondes], "atmosferik ghatna ke dekh-bhaal kare wala ek yantra").
+entry(sonder, n, [sonders], "chhota nauka ke ek shreni").
+entry(सोन, पु, [सोनवा], "एक गो आवाज के इकाई").
+entry(song, n, [gana], "gawal jaawe la jawab hoi la tayeet khatir tayaar kaila gaya suro-puro").
+entry(songbird, n, [songbirds], "एक चिरई जवन सङगे सुर में बोलत बिया").
+entry(songbook, n, [gītakāhāṇī], "gītankā pustak").
+entry(songfest, n, [songfests], "गाना गावे के एक अनौपचारिक जमावड़ा").
+entry(songful, visheshan, [], "surila").
+entry(songless, visheshan, [], "gaanae me asamarth").
+entry(geetjasan, visheshan, [], "geet se milat-julat").
+entry(songster, n, [songsters], "गायक").
+entry(sonhood, n, [sonhoods], "बेटा होखे के अवस्था").
+entry(sonic, visheṣaṇ, [], "dhwani se sambandhit").
+entry(sonicate, v, [sonicated,sonicating,sonicates], "dhuni (awaaz) se vyatith kare ke prakriya").
+entry(sonics, npl, [], "dhwani ke vyaavahaarik prayog se sambandhit vigyaan").
+entry(sonless, visheshan, [], "bina beta ke").
+entry(sonlike, visheshan, [], "beta samaan").
+entry(sonly, adj, [], "ek putra se sambandhit").
+entry(sonnet, v, [gāel, gāat, gāe], "ya GĀEL GĀAT GĀE ek sonnet banāwe ke, jo ek kism ke kavitā hai").
+entry(sonny, n, [sonnies], "एक छोट लड़िका").
+entry(sonobuoy, n, [sonobuoys], "e buoy jo paani ke niche ke aawaaz ke pata lagawe aur transmit karela").
+entry(sonogram, n, [sonograms], "ultrasound se bana rahal chhavi").
+entry(sonorant, n, [sonorants], "eka tarah ke dhvani jo awaaz ho").
+entry(sonority, n, [sonorities], "sonoriyan hoak ke gun ya rak state").
+```prolog
+entry(sonorous, adj, [], "ek bharel aur tej aawaj se vishisht"). 
+```
+entry(sonovox, n, [sonovoxes], "ek dhwani prabhav yantra").
+entry(sonship, n, [sonships], "beta howe ke awastha").
+entry(sonsie, adj, [], "SONSIER SONSIESTsonsy").
+`entry(sonsy, adj, [], "SONSIER SONSIESTsundar").`
+entry(soochong, n, [soochongs], "सूचोंग").
+entry(sooey, interj, [], "suaran ke bolawat mein istemal howe hai").
+entry(sook, n, [sooks], "सूक").
+entry(soon, adv, [], "जल्दी जल्दी मेंआगामी भविष्य में जल्दहे").
+entry(sooner, n, [sooners], "ee jekar bas hamar sarkari jab tak nai khulal basaye ke le bas jala").
+entry(soot, v, [sooted,sooting,soots], "jalawa me utpann kaar padarth se dhakal").
+entry(sooth, visarjan, [], "SOOTHER SOOTHESTtrue").
+entry(sooth, n, [sooths], "sach").
+entry(shant_kari, kriya, [shant_kail, shant_kart, shant_karla], "chup ya samanya avastha me lautav").
+entry(soother, n, [soothers], "ek ba j kura").
+entry(soothly, adv, [], "sachchhai mein").
+entry(soothsay, v, [soothsaid,soothsaying,soothsays], "bhavishyavani kare ke").
+entry(sooty, adj, [], "SOOTIER SOOTIESTkhaarp se dhakalBHOORI adv").
+entry(sop, v, [sopped,sopping,sops], "kono taral padarth me dip ya bhor di").
+entry(soph, n, [sophs], "ek sophomore").
+entry(sophies, pl, [], "सॉफी के").
+entry('धोखा', n, ['धोखाज'], "एक सही लग रहल लेकिन गलत तर्क").
+entry(sophist, n, [buddhijiviyan], "je sophisms ke prayog karela").
+entry(sophy, n, [sophies], "Pesia ke ek shasak").
+entry(sopite, v, [sopil, sopait, sopain], "sutane").
+`entry(sopor, n, [sopor], "ek asadharan gahra neend").`
+entry(sopped, past, [], "sop ke rupantrit roop").
+entry(sopping, visheshan, [], "bahut geela").
+entry(soppy, adj, [], "बेसी गीला SOPPILY adv").
+entry(soprano, n, [sopranos], "ya SOPRANI sab se ooncha gawe ke awaj").
+entry(sora, n, [soras], "ek daldal pakshi").
+entry(sorb, v, [sorbed,sorbing,sorbs], "absorption ya adsorption se apne me le lena aur rakhnaSORBABLE visheshan").
+entry(sorbate, n, [sorbates], "ek sorb kiya ho gawan uitpad").
+प्रवेश(सॉर्बेंट, न, [सॉर्बेंट्स], "एक पदार्थ जे सोरब करेला")।
+entry(sorbet, n, [sorbets], "शर्बत").
+entry(sorbic, visheshan, [], "ek prakaar ke phal se sambandhit").
+entry(sorbitan, n, [sorbitans], "ek rasayanik yogik").
+entry(सॉर्बिटोल, संज्ञा, [सॉर्बिटोल्स], "एक रासायनिक यौगिक").
+entry(sorbose, n, [sorboses], "ek prakar ke chini").
+entry(tantrik, n, [tantrikon], "jaisan ke tona-totka kare").
+entry(jadoo, n, [jadoos], "adroopik sakti ke katha kalpit upayog").
+entry(sord, n, [sords], "एक झुंड बतख के उड़ान").
+entry(sordid, vishi, [], "filthySORDIDLY kri").
+entry(sordine, n, [sordines], "ek device ja je musical instrument ke tone ke muffle karat hai").
+entry(sordino, n, [sordini], "सोरीन").
+entry(sordor, n, [sordors], "ek ganda haal").
+entry(sore, v, [sored,soring,sores], "ghoda ke gota ke aisan chhed kar ke ghawil kare ki u ek particular tarah se chale").
+entry(sore, adj, [], "दुखाइल -- बड़े दुखाइल -- छुवे में पीड़ा बढ़ल").
+entry(gusseelan, n, [gusseelans], "ek vyakti jo asaani se gussa ho jaave ya khafa ho jaave").
+entry(sorel, n, [sorels], "सरकपट").
+entry(sorely, adv, [], "dukhi hokar").
+entry('dardpan', n, ['dardpans'], "dukhi bhail ke guni awastha").
+entry(sorer, comparative, [], "दर्दाइल के").
+entry(sorest, superlative, [], "ke sore").
+entry(sorgho, n, [sorghos], "सोरघो").
+entry(ज्वार, सं, [ज्वार], "एक अनाज घास").
+entry(sorgo, n, [sorgos], "ek parkaar ke jowar").
+entry(sori, pl, [], "सोरस के").
+entry(soricine, visheshan, [], "chhuha jaisan januwaran ke parivaar se sambandhit").
+entry(soring, n, [sorings], "ghoda ke age ke pair ke naso ko chot pahucha ke unke more step karawe ke prakriya").
+entry(sorites, n, [sorites], "तर्क में इस्तेमाल होखे वाला तर्क के एक प्रकारSORITIC वि").
+entry(sorn, v, [sorned,sorning,sorns], "khaana aur thaheera ke laay bhojan aur rehne ke jagah pe dusron par zor dena").
+entry(sorner, n, [sorners], "eek je sorn karata").
+entry(soroche, n, [soroches], "पहाड़ रोग").
+entry(sororal, adj, [], "बहिनन जइसन").
+entry(sororate, n, [sororates], "kabho kabo log ke bhauji se bihaye khatir bhai ke milaawe ke riti").
+entry(महिला_मंडली, n, [महिला_मंडलियन], "महिलन खातिर एगो सामाजिक क्लब").
+entry(sorosis, n, [sorosises], "ya SOROSESa aurat ke samaaj ya sanstha").
+entry(sorption, n, [sorptions], "sorab ke kariya ya prakriya SORPTIVE adj").
+entry(सॉरेल, न, [सॉरेल्स], "लाल भूआ रंग").
+entry("दुखी", प्रशस्तित्व, [], "के दुखी").
+entry(sorriest, superlative, [], "के sorry").
+entry(sorrily, adv, [], "dukhi dhang se").
+entry(dukh, v, [dukhi_ba, dukhi_hal, dukhi], "dukh manawal").
+entry(sorrower, n, [sorrowers], "dukhī vyakti").
+entry(sorry, adj, [], "SORRIER SORRIESTdard ya paschatap ke bhawna").
+entry(sort, v, [sorted,sorting,sorts], "prakar class ki size ke anusar lagaye ke leSORTABLE adjSORTABLY adv").
+entry(sortal, n, [sortals], "ek sabda jo ek ikai ke nischit kisiman ke roop me vargikrit karata").
+entry(sorter, n, [sorters], "जेकर काम छाँटन होला").
+entry(sortes, npl, [], "adhikarik lekh ke passage ke chance chunan se bhavishyavani").
+entry(sortie, v, [sortied,sortieing,sorties], "ek badhiya roop se hamla karna fir pachhaatna").
+entry(sorting, n, [sortings], "saamaan ke alag-alag goroha me baate ke prakriya").
+entry(sorus, n, [sori], "ek guchha paudha ke prajanan deh").
+entry(sot, n, [sots], "ek adatiya sarabi").
+entry(soth, n, [sothan], "sach").
+entry(sotol, n, [sotols], "ek phoolwah paudha").
+entry(sotted, visheshan, [], "besottedSOTTEDLY abv").
+entry(sottish, viseshan, [], "ekaraho ke samaan").
+entry(sou, n, [sous], "ek pehle ke istemaal bhail French sikka").
+entry(souari, n, [souaris], "ek tropical gachh").
+entry(soubise, n, [soubises], "payaz aur makkhan ke ek sauce").
+entry(soucar, n, [soucars], "ek Hindu mahajan").
+entry(souchong, n, [souchongs], "ek Chinese chai").
+entry(सौदान, पु, [सौदान्स], "सोलदान").
+entry(souffle, n, [souffles], "ek halka bake dish").
+entry(सफली, विशेषण, [], "पिटाई आ सेंक के फुलल बनावल").
+entry(sough, v, [soughed,soughing,soughs], "कराहत भा सिसकनी के आवाज़ करे").
+entry(खोजल, भूतकाल, [], "खोज के काल").
+entry(souk, n, [souks], "उत्तरी अफ्रीका आ मिडिल ईस्ट के एगो बाजार").
+entry(soukous, n, [soukouses], "Ek nach sangeet Bihar ke Democratic Republic of the Congo me").
+entry(aatma, n, [aatmaan], "manav praani ke aadhyatmik pehlu").
+entry(soulful, visheṣaṇ, [], "bhāvna se bhari").
+entry(soulmate, n, [soulmates], "ek vyakti jiske saath koi bilkul anukool ho").
+entry(soulster, n, [soulsters], "एक सिंगर जवन सोल म्यूजिक गावे ला").
+entry(sound, visheshan, [], "SOUNDER SOUNDEST achha swasthya ya haal mein ho khatir").
+entry(sound, v, [sounded,sounding,sounds], "awaz kare ke cheez jo kaan ke receptor ke jagrit karwe").
+entry(soundbox, n, [soundboxes], "संगीत वाद्ययंत्र में एक ध्वनि गुहा").
+entry(awaazkarta, n, [awaazkartas], "ek jo awaaz karta hai").
+entry(sounding, n, [soundings], "raay ke ek namuna").
+entry(soundly, adv, [], "ek dam achhi tarik se").
+entry(soundman, n, [soundmen], "ek vyakti jo dhawani ke gunwatta ke niyantrit karela jab ki record ho rahal ba").
+entry(soup, v, [souped,souping,soups], "taakat yaa efekashii badhawe khatir").
+entry('सूपकॉन', n, ['सूपकॉंस'], "एक छोट मात्रा").
+entry(soupless, adj, [], "bina's sop ke ek taral bhojan jawan akshar mein thaos samagri mahujit rahala").
+```
+entry(souplike, adj, [], "supa ke jaisan").
+```
+entry(soupy, adj, [], "SOUPIER SOUPIESTfoggySOUPILY adv").
+entry(sour, adj, [], "खट्टा खट्टा कईले खट्टा से खट्टाइल कड़ुआ स्वाद").
+entry(sour, v, [katori_hols, katori_horaha, katori_holan], "khatai banawe khe khatai hoke").
+entry(sourball, n, [sourballs], "ek khatta mithai").
+entry(source, v, [sourced,sourcing,sources], "ek srot se prapt karna").
+entry(sourcing, n, [sourcings], "kahe something ke mool srot se prapt kare ke karya").
+entry(sourdine, n, [sourdines], "सॉरडिन").
+pravesh(sourgum, n, [sourgums], "pūrvi Uttar Ameriki ke ek narm lakri wala ped").
+entry(sourish, visheshan, [], "thoda khatta").
+entry(sourly, adv, [], "tikha tariqa se").
+entry(sourness, n, [sournesses], "khattapan ke guṇ ya hālat").
+entry(sourpuss, n, [sourpusses], "ek badtemiz insaan").
+entry(soursop, n, [soursops], "ek tropical per").
+entry(sourwood, n, [sourwoods], "ek phool phalawa wala gaachh").
+entry(souse, v, [murtit, murtit_ba, murtit hai], "kahu chis ke ek taral padarth me doob ke rakhe").
+प्रवेश(सौसर, न, [सौसर्स], "एक शराबी")।
+entry(souslik, n, [sousliks], "सुसलिक").
+entry(soutache, n, [soutaches], "ek chaur nai galicha").
+entry(soutane, n, [soutanes], "ek cassock").
+entry(souter, n, [souters], "ek juta banave wala").
+entry(dakshin, v, [dakshin_gail, dakshin_gaital, dakshinwa], "dakshin disha mein ek dishaank jo hai, se ghooms").
+entry(dakshini, n, [dakshinis], "dakshin se aawat hawa ya andhi").
+entry(dakshini, n, [dakshiniyon], "dakshin mein rahela vyakti").
+entry(southing, n, [southings], "dakshin disha me gati").
+entry(southpaw, n, [southpaws], "एक बायें हाथ वाला आदमी").
+entry(southron, n, [southrons], "ek dakshini").
+entry(souvenir, n, [souvenirs], "ek yadgar vasthu").
+entry(souvlaki, n, [souvlakis], "ek Greek shish kebab").
+entry(सोवियत, न, [सोवियत्स], "कौनो साम्यवादी देश में एगो विधायी निकाय").
+entry(sovkhoz, n, [sovkhozes], "SOVKHOZ, eku rojja khet ba jawan rajya ke maalikana mejpraniye Soviet Sangh mein").
+entry(sovran, n, [sovrans], "ek raja").
+entry(sovranly, kriya visheshan, [], "sarvottam roop se").
+entry(sovranty, n, [sovranties], "ek rajtantra").
+entry(sow, v, [boail, boail_baa, boawtaa], "BOAWChherkee ke rostay biyo ke roi jaSOWAB adj").
+entry(सोवान्स, न, [सोवान्स], "सोवंस").
+entry(sowar, n, [sowars], "India me ek ghoṛsavār desi sipahi").
+entry(sowback, n, [sowbacks], "रेत के एक नीमन धार").
+entry(sowbelly, n, [sowbellies], "namak me suthal suar ke maans").
+entry(sowbread, n, [sowbreads], "ek phoolwale paudha").
+entry(sowbug, n, [sowbugs], "ek lakdi ke jhingur").
+entry(soucar, n, [soucaran], "soucar").
+entry(sowens, n, [sowens], "jauna ke chilka se banal porridge").
+entry(sower, n, [sowers], "जे बोवेला").
+entry(bouaī, n, [bouaīan], "bijwa ke machāil ke kariyāwāī").
+entry(sown, past, [], "sow के कृदंत रूप").
+entry(sox, a, [], "sock ke bahuvachan").
+entry(soy, n, [soys], "soyat ke daana").
+entry(soya, n, [soyas], "सोय").
+entry(soybean, n, [soybeans], "sanskrit Aziaya ke ek kheti me rahi jati hari ke beej").
+entry(soymeal, n, [soymeals], "soyabean ke beej se tel nikala ke bachaal baad").
+entry(soymilk, n, [soymilks], "ek milk badlwa ja soybeans se banawal gais").
+entry(soyuz, n, [soyuzes], "purv soviet sangh ke ek manav sambandhit antarikshyan").
+entry(sozin, n, [sozins], "protein ke ek prakaar").
+entry(sozine, n, [sozines], "sozin").
+entry(sozzled, विशेषण, [], "पीयल").
+entry(spa, n, [spas], "ek khan khanij sot").
+\entry(space, v, [spaced,spacing,spaces], "thoda durai ke ba set karak").
+entry(spacelab, n, [spacelabs], "ek antrikshyaan jiske saath ek prayogshala lagal ba").
+entry('अंतरिक्ष यात्री', n, ['अंतरिक्ष यात्री'], "एक अंतरिक्ष यात्री").
+entry(spacer, n, [spacers], "जे स्पेस करे").
+entry(spacey, adj, [], "अजीब व्यवहार में SPACIER SPACIEST").
+entry(spacial, viseshan, [], "spatial").
+entry(spacing, n, [spacings], "kono do objects ke bich ke duri").
+entry(फैलाइल, विशेषण, [], "विस्तृत या पर्याप्त विस्तारित").
+entry(spackle, v, [spackled,spackling,spackles], "chiknai dharati me darar ya chhed bhare ke paste se").
+entry(spacy, adj, [], "SPACIER SPACIESTspacey").
+entry(spade, v, [spaded,spading,spades], "ek khodai ke auzaar se mitti uthae ke").
+entry(spadeful, n, [spadefuls], "jetna ek khurpi dhar sake").
+entry(spader, n, [spaders], "जे स्पेड करे ला").
+entry(spadices, pl, [], "spadix ke").
+entry(spadille, n, [spadilles], "kuchh patta ke khel me sabse uch nishaan").
+entry(spading, present, [], "spade के क्रिया विशषेण रूप").
+entry(spadix, n, [spadixes], "kodh le morcha phool ke jhur").
+entry(spado, n, [spadones], "ek khaas aadmi ya jaanwar jekar naasiya ba").
+entry(spae, v, [spaed,spaeing,spaes], "bataave ke bhavishya").
+entry(spaeing, n, [spaeings], "aage kahi ke ghatna batana ke kaam").
+entry(spaetzle, n, [spaetzles], "ek nanha goli").
+entry(spagyric, n, [spagyrics], "ek vyakti jo rasayan shastra mein nipun ba").
+entry(spahee, n, [spahees], "spahi").
+entry(spahi, n, [spahis], "ek Turkish ghudsawar").
+entry(spail, n, [spails], "spale").
+entry(spait, n, [spaits], "उच्छवास").
+entry(spake, a, [], "speak के भूतकाल").
+entry(spaldeen, n, [spaldeens], "ek chhota khokhla rubber ke gend").
+entry(spale, n, [spales], "ek ta kaanta ya tukra").
+entry(spall, v, [spalled,spalling,spalls], "टुकड़ा में टूटल").
+entry(spaller, n, [spallers], "जवन फोरेला").
+entry(spalling, n, [spallings], "pathar ke tukda").
+entry(spalpeen, n, [spalpeens], "ek badmaas").
+entry(spalted, adj, [], "lakdi ke denoting jismein fungal decay ke kaaran aniyamit line banal rahe").
+entry(spam, v, [spammed, spamming, spams], "bina maang ke khoob saare email patawa pa bhejbe").
+entry(spambot, n, [spambots], "एक कंप्यूटर प्रोग्राम जे अवांछित ईमेल भेजेला").
+entry(spammer, n, [spammers], "jawan spam kare").
+entry(spamming, n, [spammings], "bina maang ke email bhejals").
+entry(span, v, [spanned,spanning,spans], "per phail ja or paar kar ja").
+entry(spancel, v, [spanceled,spanceling,spancels], "ya SPANCELLED SPANCELLING SPANCELS ek rassi se bandhana").
+Prolog:
+entry(spandex, n, [spandexes], "ek synthetic elastic fiberSPANDEXED adj").
+entry(spandrel, n, [spandrels], "दू गो सटाइल मेहराबन के बीच के जगह").
+entry(spandril, n, [spandrils], "spandrel").
+entry("spang", "adv", [], "सीधे").
+entry(spangle, v, [spangled,spangling,spangles], "chamakila dhaatu ke tukda se sajawe").
+entry(spangly, adj, [], "SPANGLIER SPANGLIESTjo chhink se dhakalal ba").
+entry(spaniel, n, [spaniels], "ek kutta je ke resham jaisan baal ba").
+entry(spank, v, [spanked,spanking,spanks], "pichla ke maar ke thappad maarna").
+entry(spanker, n, [spankers], "जे पिटाई करे वाले के कहल जाला").
+entry(spanking, n, [spankings], "mar ke peetaye ke karyawaahi").
+entry(spanless, adj, [], "बिना विस्तार के").
+entry(spanned, past, [], "span के काल").
+entry(spanner, n, [spanners], "जवन पसारेला").
+entry(spanning, present, [], "span ke participle").
+entry(spanworm, n, [spanworms], "ek inchworm").
+entry(spar, v, [sparred,sparring,spars], "rigging ke support kare khatir moota lathi se meherbaan karna").
+entry(sparable, n, [sparables], "ek tarah ke keel").
+entry(spare, adj, [], "SPARE SPARE SEkamiSPARELY kri.a.").
+entry(spare, v, [spared,sparing,spares], "saja dewe, nuksan kare, kehu ke khatam kare se roknak").
+entry(sparer, n, [sparers], "जे बचावत बा").
+entry(sparerib, n, [spareribs], "suar ke gos ke ek katran").
+entry(sparge, v, [sparged,sparging,sparges], "छिरिकावे के").
+entry(sparger, n, [spargers], "एक जवन छिटियाँवे वाला बा").
+entry(sparid, n, [sparids], "samudri machhli ke koi parivaar").
+entry(sparing, present, [], "spare के कृदंत").
+entry(spark, v, [sparked,sparking,sparks], "chhota aagi ke kaanika nikhawe").
+entry(sparker, n, [sparkers], "jawan kuchhu jo chingari de").
+entry(sparkier, comparative, [], "sparky के").
+entry(sparkiest, superlative, [], "sparky के").
+entry(sparkily, adv, [], "ek dam se jindadili se").
+entry(uglango, viseshan, [], "rangin").
+`entry(sparkle, v, [kamkal,kamkat,kamke], "roshni ke chamak ke diya a ilij kare").`
+entry(sparkler, n, [sparklers], "e goi ba je chamke").
+entry(sparklet, n, [sparklets], "chhota chingari").
+`entry(sparkly, adj, [], "चमके वाला, अधिक चमके वाला, सबसे अधिक चमके वाला").`
+entry(sparky, adj, [], "लहरा लहराइल").
+entry(sparlike, visheshan, [], "spad jaisan").
+entry(sparling, n, [sparlings], "ek jawan herring").
+entry(sparoid, n, [sparoids], "ek sparid").
+prowaas(sparred, bhootkaal, [], "tense of spar").
+entry(sparring, present, [], "spar के का रहल").
+entry(चिरई, संज्ञा, [चिरइया], "एक छोट सन पंछी").
+entry(sparry, adj, [], "SPARRIER SPARRIESTe spar ke saman chamakila khanij").
+entry(sparse, adj, [], "SPARSER SPARSESTthinly distributedSPARSELY adv").
+entry(विरलता, n, [विरलताएँ], "ओह स्थिति या अवस्था जवन विरल होखे").
+entry(स्पार्टन, विशेषण, [], "आराम आ ऐश छोड़ के जीए वाला").
+entry(spartina, n, [spartinas], "समुद्री इलाकन के नमकीन घास").
+entry(spasm, v, [spasmed, spasming, spasms], "man-bina ichhaka maanspeshiya sankuchan ke ghoṭna").
+entry(spastic, n, [spastics], "ek paralysis se peedit jo muscle spasms ke sath hota hai").
+entry(spat, v, [spatted,spatting,spats], "हल्के से मारल").
+entry(spate, n, [spates], "एक बाढ़").
+entry(spathe, n, [spathes], "कछुआ पौधन के पत्ते जइसन अंगSPATHAL SPATHED SPATHOSE adj").
+entry(spathic, adj, [], "sparry").
+entry(spatial, adj, [], "अथवा अंतरिक्ष से संबंधित").
+entry(spatted, past, [], "spat ke tense").
+entry(spatter, v, [spattered,spattering,spatters], "bunda ke boondan mein chhidkana").
+entry(spatting, present, [], "spat के आकृति").
+entry(चम्मच, n, [चम्मचs], "एक मिलावे वाला औजारSPATULAR विशेषण").
+entry(स्पैज़ल, न, [स्पैज़ल्स], "स्पैज़ल").
+entry(spavie, n, [spavies], "spavinSPAVIET विशेषण").
+entry(spavin, n, [spavins], "ghodā ke bimārīSPAVINED adj").
+entry(spawn, v, [spawned,spawning,spawns], "anda jawa ke rakhe ke ba").
+entry(spawner, n, [spawners], "spawn करे वाला").
+entry(spay, v, [spayed,spaying,spays], "ovarī nikāle lāḼ").
+entry(bole, v, [bolal, bolat], "BOLEla sabda kahat").
+entry(speaker, n, [speakers], "बोलऽे वाला").
+entry(speaking, n, [speakings], "ek baktrita ya prakashan").
+entry(spean, v, [speaned,speaning,speans], "dur kari ke chhinar").
+entry(spear, v, [speared,spearing,spears], "ek lamba nokila hathiyar se bhokedar kari").
+entry(spearer, n, [spearers], "जवन भाले से मारेला").
+entry(speargun, n, [barchhi_bunduk], "ek bunduk jo ki barchhi phenkela").
+entry(spearing, n, [bhala-ghosa], "bhala se chhedhe ke kary").
+entry(spearman, n, [bhala-dhari], "ek vyakti jo bhala se hathiyarband hoye").
+entry(spec, v, [specced,speccing,specs], "jaankari ke likhe wala").
+entry(vishesh, visheshan, [], "ALAG PRAVA ASAMANJAS PRAVA").
+entry(special, n, [specials], "ek khaas vyakti ya cheej").
+entry(speciate, v, [speciated,speciating,speciates], "ek prakaar ke vikaas-kriya se guzarna").
+entry(prani, n, [prani], "mudra ke sikka").
+entry(specific, n, [specifics], "ek aushadhi jo kuchh vishesh bimari ke liye bana ho").
+entry(vishesh, kriya, [vishesht_kile, vishesht_karta, vishesht_hai], "vistrit roop se batana").
+entry(specimen, n, [specimens], "ek hissa bhā kap me se pratinidhi bhāgav").
+entry(specious, adj, [], "sach ke dekhaay me jhootha").
+entry(speck, v, [specked,specking,specks], "छोटका धब्बा से चिन्हित करे के।").
+entry(daag, v, [daagila,daagh,daagan], "daag dawana").
+entry(specky, visheshan, [], "छोट छोट दाग से चिन्हित").
+entry(dekhat, v, [dekhal,dekhat,dekhat], "jāně aur dekhā").
+entry(specter, n, [specter], "ek dekha jala anindiy atma").
+entry(spectra, a, [], "spectrum के बहुवचन").
+entry(spectral, adj, [], "bhoot ke samaan").
+entry(प्रेत, न, [प्रेतानी], "प्रेत").
+entry(spectrum, n, [spektram], "ya SPECTRA ek roshni ke tarang ke ghatako ke array").
+entry(speculum, n, [speculums], "khatir SPECULA ek medical aujar SPECULAR adj").
+प्रवेश(बातचीत, सं, [बातचीत], "बोले के कौशल या क्रिया").
+entry(speed, v, [teji, tejai, tejai], "teji se chalal").
+entry(speeder, n, [speeders], "जे तेज चलेला").
+entry(speedier, comparative, [], "तेज क").
+entry(speediest, superlative, [], "ke teji").
+entry(toratai, kriya-visheshan, [], "ek dama tezi se").
+entry(tejaab, n, [tejaabs], "kaanoon se adhik gaarhi ke gati badhaana").
+entry(speedo, n, [speedos], "ae speedometer").
+entry(speedup, n, [speedups], "utpaadan ke tejiesi bina kaam ke paisa badaile").
+entry(speedway, n, [speedways], "तीव्र यात्रा खातिर डिजाइन कइल सड़क").
+entry(speedy, adj, [], "तेजिआ तेजिआऊ तेजस्वी").
+entry(speel, v, [speeled,speeling,speels], "चढ़े के").
+entry(speer, v, [speered,speering,speers], "puchhab").
+entry(speering, n, [speerings], "प्रश्न").
+entry(speil, v, [speiled,speiling,speils], "speel करे खातिर").
+entry(speir, v, [speired,speiring,speirs], "puchho").
+entry(speise, n, [speises], "स्पाइसेस").
+entry(speiss, n, [speisses], "kach ores ke pighaee se prapt ek dhatu mishran").
+entry(spelaean, vishi, [], "spelean").
+entry(spelean, visheshan, [], "guhāmīṃ bas rahal").
+entry(vartani, kriya, [vartan, vartani_kari, vartani], "akshar log ke sagho randh me naam naa likhal").
+entry(speller, n, [spellers], "जवन सब्दन के सही सही लिक्खेला").
+entry(spelling, n, [spellings], "ak sabda ke akshar ke kram").
+```
+entry(spelt, n, [spelts], "गेहूँ के एक किस्म").
+```
+entry(spelter, n, [spelters], "ingot ke rup me jasta").
+entry(speltz, n, [speltzes], "स्पेल्ट").
+entry(spelunk, v, [spelunked, spelunking, spelunks], "guhānikī kari ke khoj kare").
+entry(spence, n, [spences], "ek bhitari godaam").
+entry(स्पेन्सर, पुलिंग, [स्पेन्सर्स], "एक ट्राईसेल").
+entry(spend, v, [spent,spending,spends], "kharch karaw").
+entry(spender, n, [spenders], "जे खरच करेला").
+entry(spendy, adj, [], "महँग महँगतर महँगतम").
+entry(spense, n, [spenses], "spence").
+entry(spent, बीतल, [], "खर्च कइल क काल").
+entry(sperm, n, [sperms], " ek purush gamete, SPERMIC adj").
+entry(spermary, n, [spermaries], "ek aṅg jismeṃ sperm banelā").
+entry(spermine, n, [spermines], "ek rasayanik sanyog").
+entry(spermous, visheshan, [], "sperms se milat-julat ya banal").
+entry(spew, v, [ulit, ulit_rahal, ulit_rahe], "ulik").
+entry(spewer, n, [spewers], "एक जवन उगली").
+entry(sphagnum, n, [sphagnums], "ek dhusahil moss").
+entry(sphene, n, [sphenes], "ek khan khanij").
+entry(sphenic, visheṣaṇ, [], "kilari ke niyar banal").
+entry(sphenoid, n, [sphenoids], "kulli ke ek haddi").
+entry(spheral, adj, [], "gola ke sambandhit, roop mein leke, ya gole ke jaise").
+entry(गोलक, क्रिया, [गोलकित, गोलकावत, गोलक], "एक प्रकार के ज्यामितीय ठोस में बदलल").
+entry(spheric, adj, [], "spheral").
+entry(spherics, npl, [], "kono golak ke satah par aakar ke jiyamiti").
+entry(spherier, comparative, [], "स्फेरी के").
+entry(spheriest, superlative, [], "sphery के").
+entry(sphering, present, [], "sphere के participle").
+entry(spheroid, n, [spheroids], "ek parkar ke geometric solid").
+entry(spherule, n, [spherules], "ek chhota gola").
+entry(sphery, adj, [], "गोल जइसन")।
+entry(sphinges, a, [], "sphinx ke bahuvachan").
+entry(sphingid, n, [sphingids], "hawkmoth").
+entry(sphinx, n, [sphinxes], "egiptiya mitologi ke ek daraawal praani jiske SPHINGES bhi bola jaawe hai").
+entry(sphygmus, n, [sphygmuses], "nadiSPHYGMIC adj").
+entry(sphynx, n, [sphynxes], "ek bilāi ka nasl jo baal-rāhit nasl ke bilāi h").
+pravesh(spica, n, [spicas], "ya SPICAEan kane fasal SPICATE SPICATED visheṣaṇ").
+entry(spiccato, n, [spiccatos], "ek tare wala bajwa ke tareeka").
+entry(spice, v, [spiced,spicing,spices], "spice se swad badhe an mahakwala sabzi ke padarth se masaledar kare").
+entry(spicer, n, [spicers], "एक जवन मसाला बनावे वाला").
+प्रवेश(मसाला, न, [मसाला], "एक तीखा गुण").
+entry(spicey, visheshan, [], "SPICIER SPICIESTspicy").
+entry(spicier, comparative, [], "spicy ke").
+entry(sab se tej, superlative, [], "masaledar ke").
+entry(spicily, adv, [], "मसालेदार तरीका से").
+entry(spicing, present, [], "spice के कृतार्थ रूप").
+entry(spicula, n, [spiculae], "spiculeSPICULAR adj").
+entry(spicule, n, [spicules], "sui jaisan sanrachna").
+entry(spiculum, n, [spicula], "spicule").
+entry(spicy, adj, [], "मसालेदार मसालेदार सँ भरल").
+\text{entry}(makdi, v, [makdail, makdai, makdir], "eekar jaisan chalal").
+entry(spidery, adj, [], "SPIDERIER SPIDERIESTek makri ke saman jawan ek tarah ke arachnid ba").
+entry(spied, past, [], "spy के काल").
+entry(spiegel, n, [spiegels], "ek tarah ke cast iron").
+entry(baat, v, [baatal,baatate,baatat], "lamba samay tak gappe marna").
+entry(spieler, n, [spielers], "ek jawn jo spiel karela").
+entry(spier, v, [spiered,spiering,spiers], "puchhab").
+entry(jaasusi, upasthit, [], "3ra purukh ekbachan jaasuus ke").
+entry(spiff, v, [spiffed,spiffing,spiffs], "chamakila banave").
+entry(spiffing, visheshan, [], "spiffy").
+entry(spiffy, v, [spiffied,spiffying,spiffies], "stylish banāwe ke").
+entry(spiffy, adj, [], "SPIFFIER SPIFFIESTstylishSPIFFILY adv").
+entry(spigot, n, [spigots], "ek naal").
+entry(spike, v, [spiked,spiking,spikes], "ek lamha bedi nai se jod na").
+entry(spikelet, n, [spikelets], "ek type ke phool ke guchha").
+entry(spiker, n, [spikers], "जे काटेला").
+entry(spikey, adj, [], "SPIKIER SPIKIESTspiky").
+entry(spiking, present, [], "spike के क्रियावाचक विशेषण").
+entry(spiky, adj, [], "SPIKIER SPIKIEST ek kaanta ke tarah SPIKILY adv").
+entry(spile, v, [spiled,spiling,spiles], "lakdi ke khunti se band ho jala").
+entry(spilikin, n, [spilikins], "ek lakri ke patiya jo khel mein prayog hota hai").
+entry(spiling, n, [spilings], "ek piling").
+entry(spilite, n, [spilites], "एक रूप के बेसाल्टSPILITIC वि").
+entry(spill, v, [chirak_gail, chirak_jata, chirakela], "konbho bartan se bahan nikal jaala").
+entry(spillage, n, [spillages], "kuchh jo fellal ba").
+entry(spiller, n, [spillers], "jo kiya bhels").
+`entry(baadh-ka-darwaza, sangya, [baadh-ka-darwaza], "ek reservoir mein adhik paani ke liye raastaa").`
+entry(ghirail, a, [], "gir gail ke atit kaal").
+entry(spilth, n, [spilths], "spillage").
+entry(spin, v, [spun, spinning, spins], "taar banaake boond ke rup mein ghoomaven").
+entry(पालक, n, [पालकसभ], "एक खेती कइल जड़ीबूटीSPINACHY adj").
+entry(spinage, n, [spinages], "पालक").
+entry(spinal, n, [spinals], "ek anesthetic ke spinal cord me injection").
+entry(spinally, adv, [], "mohri ke sambandh me").
+entry(spinate, adj, [], "kaanta dharan kare wala").
+entry(spindle, v, [spindled,spindling,spindles], "ek patli chhar par ghusaila").
+entry(spindler, n, [spindlers], "जेकरा के स्पिंडल कहल जाला").
+entry(patal, visheshan, [], "ZYAADA PATALI SABSE PATALI lamb ai patal").
+entry(रीढ़, न, [रीढ़ियां], "कशेरुका स्तंभ रीढ़युक्त वि").
+entry(spinel, n, [spinels], "ek khan khanij").
+entry(spinelle, n, [spinelles], "स्पिनल").
+entry(spinet, n, [spinets], "ek chhota piano").
+entry(spinier, comparative, [], "spiny ke").
+entry(spiniest, superlative, [], "के काँटेदार").
+entry(spinifex, n, [spinifexes], "ek australian ghaas").
+entry(spinless, adj, [], "घुमाव नइखे").
+entry(चकरी, n, [चकरियन], "जवन घुमावे").
+entry(spinnery, n, [spinneries], "ek ghoomawan karkhana").
+entry(spinney, n, [spinneys], "ek jhaadi").
+entry(spinning, n, [spinnings], "एक आदमी के घुमावे के कृति").
+entry(spinny, n, [spinnies], "spinney").
+entry(spinny, adj, [], "घुमनी घुमल अधिकतम पागल बेवकूफ").
+entry(spinoff, n, [spinoffs], "ek naya application ya sahaj pariṇām").
+entry(spinor, n, [spinors], "mathematical vector ke ek prakaar").
+entry(spinose, visheshan, [], "kaantaadar").
+entry(spinous, visheshan, [], "kaanṭīle").
+entry(spinout, n, [spinouts], "ek motor gadi ka ghoom ke phisalna").
+entry(ब्रिद्धकन्या, संज्ञा, [ब्रिद्धकनियाँ], "एगो अविवाहित महिला जे कइसन शादी के उमिर बित्त गइल बा").
+entry(spinto, n, [spintos], "ek gawaye ke awaj jo lairik aur naatak ke hai").
+entry(spinula, n, [spinulae], "स्पिनूल").
+entry(spinule, n, [spinules], "chhota kanta").
+entry(spiny, adj, [], "कांटे से ढकेल बा या कांटेदार बा").
+entry(spiracle, n, [spiracles], "एक छेद जवना से सांस लेहल जाला").
+entry(spiraea, n, [spiraeas], "स्पाइरिया").
+entry(spiral, v, [ghumarel, ghumat, ghumave], "ya SPIRALLED SPIRALLING SPIRALsko ghoom ke chale ke ek tara ke jahaj ke curve").
+entry(spirally, adv, [], "spiral tarik se").
+entry(spirant, n, [spirants], "ek boli dhvani jo hawaa ke dabaw ke saath ek saankirn raasta se guzartan banat baa").
+entry(spire, v, [spired, spiring, spires], "ek taptaar tareeke se uthe ke").
+entry(spirea, n, [spireas], "ek phool wala jhaad").
+entry(spirem, n, [spirems], "स्पाइरेमे").
+entry(spireme, n, [spiremes], "mitosis के समय कोशिका नाभिक के हिस्सा बनेवाला एगो तंतु").
+entry(spirier, comparative, [], "spiry ke").
+entry(spiriest, superlative, [], "spiry के").
+entry(spirilla, npl, [], "spirally mojur hawa se jehar banwe wala bacteria").
+entry(spiring, present, [], "spire के participle").
+entry(spirit, v, [spirited,spiriting,spirits], "chori se dur le jaye ke").
+entry(spiritus, n, [spiritus], "आत्मा").
+entry(spiroid, adj, [], "spiral jaisan").
+entry(spirt, v, [spirted,spirting,spirts], "फूट से बाहर आइल").
+entry(spirula, n, [spirulas], "ya SPIRULAE ek baunkul ke ghooriyadar ora").
+entry(spiry, adj, [], "लमहर पतल आ सुघर आकार के SPIRIER SPIRIEST").
+entry(spit, v, [spitted,spitting,spits], "ek ta tikh naal jisme maas ghuma ke pakawe ke ba").
+entry(spital, n, [aspatal], "ek aspatal").
+entry(spitball, n, [spitballs], "baseball ke eek kism ke pitch").
+entry(spite, v, [spited,spiting,spites], "dusmani se byehar kare").
+entry("द्वेषपूर्ण", विशेषण, [], "अधिक द्वेषपूर्ण, अत्यधिक द्वेषपूर्ण, द्वेषी").
+entry(spitfire, n, [spitfires], "एक तिजिया बानी").
+entry(spitted, past, [], "spit के काल").
+entry(spitter, n, [thuknewala], "ek thukball").
+entry(thukal, vartaman, [], "thuka ke kriya visheshan").
+entry(spittle, n, [spittles], "लारSPITTLY adj").
+entry(thukani, n, [thukanis], "ek thook khatir bartaniya").
+```prolog
+entry(spitty, visheshan, [], "SPITTIER SPITTIEST lora se chinhal"). 
+```
+entry(spitz, n, [spitzes], "ek kutta jiske paas mota coat ba").
+entry(spiv, n, [spivs], "ek bebak chhota aparadhiSPIVVISH adj").
+entry(spivvy, adj, [], "SPIVVIER SPIVVIESTek spiv ke kapड़a भa saľuqa main milta जulta").
+entry(splake, n, [splakes], "ek ta mithala pani ke machhri").
+entry(splash, v, [splash kail, splashat, splash kare], "ek taral padarth ke charitar tarapfel karna").
+entry(splasher, n, [splashers], "जवन छींटा मारे वाला हवे").
+entry(splashy, adj, [], "SPLASHIER SPLASHIESTdikhawebaa").
+entry(splat, v, [splatail, splataile, splats], "takaraake chapti ho jaawe").
+entry(splatter, v, [splatled, splatterat, splatters], "chhitkave").
+entry(splay, v, [phekail, phekate, phekai], "phek ke phailana").
+entry(spleen, n, [spleens], "deh ke ek narbheen anga").
+entry(spleeny, viseshan, [], "SPLEENIER SPLEENIESTpeevish").
+entry(shandar, viseshan, [], "SHANDARME SHANDARMAZmagnificent").
+entry('शानदार', n, ['शानदार'], "महानता").
+entry(splenial, visheshan, [], "splenius se sambandhit").
+entry(splenic, adj, [], "प्लीहा से संबंधित").
+entry(splenium, n, [splenia], "या SPLENIUMS एगो सर्जिकल पट्टी").
+entry(splenius, n, [splenii], "gat के एगो मासपेशी").
+entry(splent, n, [splents], "ek bichran").
+entry(splice, v, [spliced,splicing,splices], "koney ke milav").
+entry(splicer, n, [splicers], "जवन जोड़ेला").
+entry(spliff, n, [spliffs], "ek marijuana cigarette").
+entry(spline, v, [splined,splining,splines], "ek ghurti kaidai kaile do ghumata mekaanikal hissa ke jodhe ke khatir spline se pradaan kare").
+entry(splint, v, [splinted,splinting,splints], "ek patra lakdi ke sahare jakar bandhe ke").
+prahvesh(splinter, kriya, [splintered,splintering,splinters], "nokila, patala tukra me todi").
+entry(split, v, [split, splitting, splits], "lambai mein alag kare").
+entry(फाड़ै वाला, n, [फाड़ै वाले], "फाड़े वाला").
+entry(splodge, v, [splodged,splodging,splodges], "chitarifera ke daag lagawaa").
+entry(splodgy, adj, [], "चिक्कन चिक्कनतमsplotchy").
+entry(splore, n, [splores], "ek carousal").
+entry(splosh, v, [sploshed,sploshing,sploshes], "chhidik ke faraar").
+entry(splotch, v, [splotched,splotching,splotches], "बड़का बेढंगा धब्बा से चिन्हित करे के").
+entry(splotchy, adj, [], "SPLOTCHIER SPLOTCHIESTsplotched").
+entry(splurge, v, [splurged,splurging,splurges], "dhurdhariya se paisa kharch kare ke").
+entry(splurger, n, [splurgers], "एकरा कS रहल").
+entry(splurgy, adj, [], "SPLURGIER SPLURGIESTjor se kharch kare ke pravritti").
+entry(splurt, v, [splurted,splurting,splurts], "ek dhara me ya dhaar me zor se nikas ke awa").
+entry(splutter, v, [spluttered,spluttering,splutters], "teji se aur uljhal baat kare").
+प्रवेश(स्पोडे, न, [स्पोड्स], "एक बढ़िया चीनी मिट्टी के बर्तन")।
+entry(spodosol, n, [spodosols], "ek amla ban ke mitti").
+entry(sadaa, kriya, [sadiyail,sadte,sadai], "keemat ya guniyaa ke kharab karna").
+entry(kharabi, n, [kharabiyan], "kuchh jo kharab bhail ba ya barbaad ba").
+entry(spoiler, n, [spoilers], "एक जवन बिगाड़ेला").
+entry(spoke, v, [spoked,spoking,spokes], "ek roue ke rim ke samarthan kare waala karche rod se pradaan kare").
+entry(kahe, bhootkaal, [], "bolke roop").
+entry(lutain, v, [lutail, lutait, lutain], "loot kare ke").
+entry(spondaic, n, [spondaics], "ek spondee").
+entry(spondee, n, [spondees], "ek parkaar ke chhandik pad").
+entry(sponge, v, [], "स्पंज से पोछे के खातिर स्पंज absorbent material के एगो बड़ा हिस्सा").
+entry(sponger, n, [spongers], "एक जवन चूसीले").
+entry(spongier, comparative, [], "spongy ke").
+entry(spongiest, superlative, [], "spongy के").
+entry(spongily, adv, [], "ek spongy tare se").
+entry(spongin, n, [spongins], "ek resha daar samagri").
+entry(sponging, present, [], "sponge के participle").
+entry(spongy, adj, [], "फोकसदार फोकसदार्तर फोकसदारतम स्पंज नियर").
+entry(sponsal, vishi, [], "biyaah se sambandhit").
+entry(sponsion, n, [sponsions], "sponsorship ke kariwari").
+entry(sponson, n, [sponsons], "ek jahaj ke side se niklis projection").
+entry(sponsor, v, [sponsored,sponsoring,sponsors], "apne ke zimmedar banave khatir").
+entry(spontoon, n, [spontoons], "ek bhala jaisan hathiyar").
+entry(spoof, v, [spoofed,spoofing,spoofs], "majak mein udai ke vaste").
+एंट्री(स्पूफर, न, [स्पूफर्स], "जे स्पूफ करत बा")।
+entry(spoofery, n, [spooferies], "भलमंसी के हँसी-ठट्ठा").
+entry(spoofy, विशेषण, [], "हँसी मजाक से व्यंगात्मक").
+entry(spook, v, [spooked,spooking,spooks], "डरावे के").
+entry(spookery, n, [spookeries], "कुछ डरावना").
+entry(spookish, adj, [], "डरावन").
+\entry(spooky, adj, [], "SPOOKIER SPOOKIESTdarawnaSPOOKILY adv").
+entry(spool, v, [spooled, spooling, spools], "ek chhota belna par lapet de").
+entry(spooler, n, [spoolers], "jo spool karela").
+entry(spooling, n, [spoolings], "bad me output khatir data ke asthayi bhandaran").
+entry(chamcha, v, [chamchaile, chamchaawe, chamcha], "khaike upkaran ke ek prakar ke chamcha se uthaye").
+entry(spooner, n, [spooners], "जेकरा कुलचाल भा रसिक मिजाज होला").
+entry(spooney, visheshan, [], "SPOONIER SPOONIESTspoony").
+entry(spooney, n, [spooneys], "ek spoony").
+entry(spoonful, n, [spoonfuls], "jaa chammach ke bhar sakela").
+entry(spoonsful, a, [], "चम्मच भर के बहुवचन").
+entry(spoony, adj, [], "बहुते भावना से भरलSPOONILY adv").
+entry(spoony, n, [spoonies], "ek laddhar log").
+entry(spoor, v, [spoored,spooring,spoors], "ek janwar ke kuchalna").
+entry(spoorer, n, [spoorers], "je spoor kare").
+entry(छिटपुट, विशेषण, [], "अनियमित समयंतर पर घटे वाला").
+entry(sporal, विशेषण, [], "बीजो से संबंधित या ओकरा जइसन").
+```prolog
+pravesh(spore, v, [spored, sporing, spores], "asexual tarike se aksar ekakosheey prajananik deh banave ke"). 
+```
+entry(sporoid, visheshan, [], "bijanu samaan").
+entry(sporozoa, npl, [], "parjit ekakosiya janwar").
+entry(sporran, n, [sporrans], "ek bada purse jo Scottish Highlanders pehnt rahe hain").
+entry(खेल, v, [खेलल, खेलत, खेलs], "मस्ती करी").
+entry(sporter, n, [sporters], "एक जवन खेल करे ला").
+entry(sportful, adj, [], "खेलाड़ी").
+entry(sportif, n, [sportifs], "ek vyakti jo sharirik pratiyogita mein sakriya ya dilchasp rahal ba").
+entry(sportive, visheshan, [], "kheliyari").
+entry(sporty, adj, [], "SPORTIER SPORTIESTshowySPORTILY adv").
+entry(sporule, n, [sporules], "ek chhota sporesPORULAR adj").
+entry(spot, v, [spotted,spotting,spots], "chhota gol-gol daag se nishan banana").
+entry(spotless, visheshan, [], "bilkul saaf").
+entry(spotlit, a, [], "spotlight के भूतकाल रूप").
+entry(spotter, n, [spotters], "जेकर काम देखल बा").
+entry(spotting, n, [spottings], "kono chij ke udaharan dekhe ke abhyas").
+entry(spotty, adj, [], "धब्बेदार धब्बेदारा, धबिया धबियास्त, धब्बा लगल, धब्बे धब्बे, धब्बा के रूप में SPOTTILY adv").
+entry(सादी, न, [सादियन], "विवाह").
+एंट्री(पति-पत्नी, व, [विवाहित,विवाहिता,विवाह], "विवाह करे खातिर")।
+entry(spout, v, [spouted, spouting, spouts], "जल्दी से धारा में निकासन करना").
+entry(spouter, n, [spouters], "एक जवन उगलेला").
+entry(spouting, n, [spoutings], "छप्पर से पानी निकाले के एक नाली").
+entry(spraddle, v, [spraddled,spraddling,spraddles], "फइलाइल बइठल")।
+entry(sprag, n, [sprags], "eegha kariya jissa se gadi peechha na jaya").
+entry(moch, v, [mochil,mochait,mochan], "ekdam aur zor-jor se moch maar ke kamjor kare ke liye").
+entry(sprang, n, [sprangs], "ek buni ke technique jisse khula jali ka mesh banawa jaala").
+entry(sprat, n, [sprats], "chhota machhli ke prajati").
+entry(sprattle, v, [sprattled, sprattling, sprattles], "jijhari kare ke").
+entry(sprawl, v, [sprawled,sprawling,sprawls], "bina manzoori ke phailawa").
+entry(sprawler, n, [sprawlers], "ek jawn phailata hai").
+entry(sprawly, adj, [], "SPRAWLIER SPRAWLIEST फैलाव के ओर झुकल").
+entry(spray, v, [chhidkal,spraying,spray], "tika se kuchuor ke chhidkai ke kaam").
+entry(sprayer, n, [sprayers], "जे स्प्रे करेला").
+entry(spread, v, [spread, spreading, spreads], "बड़का इलाका में खोलल या फइलावल").
+entry(spreader, n, [spreaders], "जो फइलावेला").
+entry(spree, n, [sprees], "kuno gatividhi me bina rok-tok ke bhagidar banal").
+entry(sprent, adj, [], "ओढ़ावल गइल").
+entry(sprier, a, [], "spry के तुलना").
+entry(spriest, a, [], "spry के गरम").
+entry(छड़ी, v, [छड़ीलगल,छड़ीलगावत,छड़ीलगावत], "छोट छोट पिरोल से जोड़ल").
+entry(sprigger, n, [spriggers], "ek jowan sprig lagawela").
+entry(spriggy, adj, [], "छोटका डार का साथ में SPRIGGIER SPRIGGIEST").
+entry(spright, n, [sprights], "स्प्राइट").
+entry(spring, v, [उछलल,उछलत,उछललs], "अचानक आ तेजी से ऊपर बढ़ल").
+entry(springal, n, [springals], "ek jowan ladka").
+entry(springe, v, [springed,springeing,springes], "ek kisme ke jhaar ke saath pakarwe").
+entry(springer, n, [springers], "ek ba j spring karela").
+entry(springy, vishyashan, [], "SPRINGIER SPRINGIESTlachila").
+entry(sprinkle, v, [छिड़कल, छिड़कत, छिड़कला], "बूंद क‍ा कण छितरइक‍े")
+entry(sprint, v, [daurte, daurta, daure], "top gati pa daudana").
+entry(sprinter, n, [daud-khidkhadi], "ek jo daudt ba").
+entry(sprit, n, [sprits], "ek naav ke baans").
+entry(sprite, n, [sprites], "ek pari ya chhota devta").
+entry(spritely, adj, [], "ऊर्जा से भरल").
+```
+pravesh(spritz, v, [spritzed,spritzing,spritzes], "chhidkan kare ke").
+```
+entry(spritzer, n, [spritzers], "ek beverage je white wine aur soda water ke banal ba").
+entry(spritzy, visheshan, [], "SPRITZIER SPRITZIESTchhidka ke chhoṛak").
+entry(sprocket, n, [sprockets], "ek dasna jaisan projekshan jo chain ke link ke saath judal rahe").
+entry(sprog, n, [sprogs], "ek chhota bachwa").
+entry(sproglet, n, [sproglets], "ek bachwa").
+entry(sprout, v, [ankurit_ba, ankurit_hota, ankurit_kare], "ugat ke suruaat kare").
+entry(spruce, adj, [], "सजील अउरी चकमक रूप मेंSPRUCELY adv").
+entry(spruce, v, [spruced, sprucing, spruces], "spruce ke banave").
+entry(sprucy, visheshan, [], "SPRUCIER SPRUCIESTspruce").
+entry(sprue, n, [sprues], "ek garam ilaka ke bimaari").
+entry(sprug, n, [sprugs], "ek chiraiya").
+entry(sprung, a, [], "spring के भूतकाल रूप").
+entry(spry, visheshan, [], "SPRYER SPRYEST ya SPRIER SPRIESTnimbleSPRYLY kriya visheshan").
+entry(spryness, n, [sprynesses], "satar ke gun ya awastha").
+entry(spud, v, [spudded,spudding,spuds], "ek khurchan jaisan hathiyar se hatawe").
+entry(spudder, n, [spudders], "ek aujar jo pedan se chhal hatawe me laage la").
+entry(spudgel, n, [spudgels], "ek lambaa dandi par lagal balti").
+entry(spue, v, [spued,spuing,spues], "उगिलल").
+entry(spumante, n, [spumantes], "ek Italian chamkat daurwala dawai").
+entry(spume, v, [spumed,spuming,spumes], "jhar wala").
+entry(spumier, comparative, [], "spumy के").
+entry(spumiest, superlative, [], "spumy के").
+entry(spuming, vartaman, [], "spume ke kridant roop").
+entry(spumone, n, [spumones], "ek Italian ice cream").

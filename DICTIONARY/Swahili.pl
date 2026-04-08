@@ -25837,3 +25837,2385 @@ entry(stubbier, linganishi, [], "ya stubby").
 kiingilio(mno_sana, kivumishi_kikuu, [], "ya fupi").
 entry(stubbily, kivumishi_kielezi, [], "kwa namna iliyoshiba").
 entry(stubbing, liopo, [], "kitenzi kikamata cha stub").
+entry(stubble, n, [stubbles], "ukuaji mfupi na wenye ukali wa ndevuSTUBBLED kiv").
+entry(stubbly, kiv, [], "ILIYOJAA MABUA").
+entry(mkanganyifu, kivumishi, [], "MSONGAMANO MKANGANYIFUSikuweza kuachilia").
+entry(stubby, adj, [], "FUPA FUPA ZAIDI fupi na nene KWA UFUPA adv").
+entry(stubby, n, [stubbies], "chupa fupi na pana ya bia").
+entry(stuko, v, [stukoed,stukoing,stuko], "au STUKOkuweka safu ya plasta").
+kiingilio(mstuccoeaji, n, [wastuccoeaji], "yule anayepaka rangi ya stucco").
+kiingilio(kupatikana, wakati_uliopita, [], "ngumu ya fimbo").
+entry(msomi, v, [msomi,masomo,wasomi], "kuweka kwa wingi na vipandikizi vidogo").
+entry(kitabu_cha_mifugo, n, [vitabu_vya_mifugo], "rekodi ya ukoo wa wanyama wa kizazi safi").
+kiingilio(studdie, n, [studdies], "enga").
+entry(studding, n, [studdings], "mfumo wa ukuta").
+kiingilio(mwanafunzi, n, [wanafunzi], "mtu anayejishughulisha rasmi na kujifunza").
+entry(samaki_wa_maji_freshi, n, [samakis_wa_maji_freshi], "samaki wa maji safi").
+entry(lisoma, zamani, [], "kitenzi cha soma").
+kiingilio(msomi, n, [wasomi], "anayejifunza").
+entry(soma, sasa, [], "mtu wa tatu umoja wa soma").
+entry(studio, n, [studio], "chumba cha kazi cha msanii").
+entry(studious, adj, [], "amejikita katika kusoma").
+entry(studly, adj, [], "STUDLIER STUDLIESTmwenye misuli na mvuto").
+kiingilio(studwork, n, [studworks], "studding").
+entry(study, v, [soma, kusoma, husoma], "kuelekeza akili katika kupata maarifa").
+entry(stuff, v, [jaza, kujaza, hujaza], "kujaza au kufunga kwa nguvu").
+entry(stuffer, n, [stuffers], "kile kinachojaza").
+entry(stuffing, n, [matafuto], "nyenzo inayotumiwa kujazia kitu").
+entry(stuffy, adj, [], "STUFFIER STUFFIESThaijapuliwa vizuriSTUFFILY adv").
+ingia(stuiver, n, [vijisenti], "stiver").
+kiingilio(stull, n, [stulls], "bao la msaada katika mgodi").
+entry(stultify, v, [stultified,stultifying,stultifies], "kusababisha kuonekana kuwa kipumbavu").
+entry(stum, v, [stummed, stumming, stums], "kuongeza mchakato wa kuchachusha kwa kuongeza juisi ya zabibu").
+entry(kwenda, k, [kwenda, kwenda, kwendana], "kukosa hatua wakati wa kutembea au kukimbia").
+entry(mtegemezi, n, [wategemezi], "mmoja anayejikwaa").
+entry(kifaa, k, [kifaa_kilichofungwa,kutegemea_vifaa,vifaa], "kushangaza").
+entry(stumpage, n, [stumpages], "mbao ambazo hazijakatwa zenye thamani kwenye soko").
+entry(stumper, n, [stumpers], "swali la kushangaza").
+ingizo(stumpy, kivumishi, [], "STUMPIER STUMPIESTfupi na neneSTUMPILY kielezi").
+kiingilio(stun, k, [stunned, stunning, stuns], "kusababisha hali ya mshangao au kukosa uwezo wa kutenda").
+entry(kudungwa, wakati_uliopita, [], "hali ya kudunga").
+entry(stunk, a, [], "kia waliopita ya stink").
+entry(stunner, n, [mashabiki], "anayeshangaza").
+entry(stunsail, n, [stunsails], "aina ya tanga").
+entry(stunt, k, [kudumaa, kudumaa, kudumai], "kuzuia ukuaji wa kawaida wa").
+entry(kasisi, n, [wakasisi], "mtu anayechukua nafasi ya mwigizaji katika matukio yanayohusisha shughuli hatari").
+entry(stupa, n, [mastuupa], "sanamu ya imani ya Kibuddha").
+entry(stupe, n, [stupes], "kitambaa chenye dawa kinachowekwa kwenye jeraha").
+entry(pumbaza, k, [pumbazwa, kupumbaza, hufanya_pumbaza], "kupunguza hisia za").
+entry(mpumbavu, kiv, [], "MPUMBAVU ZAIDI MPUMBAVU KABISAKimya kiakiliMPUMBAVU KIUSHADHIFI").
+entry(mpumbavu, n, [wapumbavu], "mtu mpumbavu").
+entry(stupor, n, [stupors], "hali ya kupungua kwa hisia").
+entry(imara, kiv, [], "IMARA ZAIDI IMARA SANA nguvu na imara KWA UIMARA kiv").
+entry(imara, n, [imaras], "ugonjwa wa kondoo IMARA adj").
+entry(sturgeon, n, [sturgeons], "samaki wa kuliwa").
+entry(sturt, n, [sturts], "mashindano").
+entry(kustua, k, [kustua, kustokustua, kustua], "kusema kwa kurudia spasmodically").
+entry(sty, v, [styed,stying,sties], "kufungia kwenye zizi la nguruwe").
+ingizo(stye, n, [mapele], "uvimbe wenye maumivu kwenye kope").
+entry(stygian, adj, [], "ya huzuni").
+entry(stylar, adj, [], "inayohusu stilasi").
+entry(stylate, adj, [], "lenye stylet").
+entry(mfumo, v, [mfumo, mifumo, mifumo], "kutaja").
+entry(styler, n, [stylers], "anayeweka mtindo").
+entry(stylet, n, [stylets], "kiambatisho kidogo kigumu cha wanyama fulani").
+kiingilio(miiti, a, [], "pl ya mwandishi").
+entry(mtindo, n, [mitindo], "njia ambayo kitu kimepambwa").
+entry(stylise, v, [iliyopambwa,ikishapambwa,zinapamba], "kupamba").
+entry(styliser, n, [waundaji], "anayepamba").
+entry(mtindo, kivumishi, [], "maridadi").
+ingizo(mpangiliaji, n, [wapangiliaji], "mmoja ambaye ni bwana wa mtindo wa fasihi au wa hotuba").
+entry(mwanamitindo, n, [wanamitindo], "mwanazuoni wa mwanzo wa Kikristo mwamba wa STYLITIC adj").
+entry(pamba, v, [imepambwa, inapamba, inapambwa], "kufanya jadi").
+entry(stylizer, n, [stylizers], "mmoja anayepamba").
+entry(styloid, n, [styloidi], "mchujo mwembamba wa mfupa").
+entry(stylopid, n, [stylopids], "stylops").
+entry(stylops, n, [stylops], "mdudu ambaye ni parasi wa wadudu wengine").
+entry(stailasi, n, [stailasi], "au STYLI kifaa chenye ncha kali cha kuandika, kuchora au kuchonga").
+entry(stymie, v, [stymied,stymieing,stymies], "kuzuia").
+kiingilio(kudhoofisha, v, [kudhoofisha, kudhoofisha, kudhoofisha], "kudhoofisha").
+entry(stypsis, n, [stypsises], "matumizi ya dawa ya kizuia ubainifu").
+entry(styptic, n, [dawa_ya_kukomesha_kuvuja_damu], "dawa inayotumiwa kukomesha damu").
+kiingilio(styrax, n, [styraxes], "storax").
+entry(stireni, n, [stireni], "hidrokaboni ya majimaji").
+entry(suable, adj, [], "inaweza kushtakiwaSUABLY kivumishi").
+entry(suasion, n, [suasions], "ushawishiUSHAVUSI USHAWISHI adj").
+entry(suave, kiv, [], "SUAVER SUAVESTkwa urahisi mkarimu na mwenye adabuSUAVELY kiv").
+entry(usufi, n, [usufi], "hali ya kuwa na usufi").
+ingizo(sub, v, [subbed, subbing, subs], "kuigiza kama mbadala").
+ingia(suba, n, [subas], "subah").
+entry(subabbot, n, [subabbots], "abbot mdogo").
+entry(subacid, kiv, [], "chachu kidogo").
+entry(subacrid, kivumishi, [], "kiasi kikali").
+entry(subacute, adj, [], "kiasi makali").
+entry(subadar, n, [subadars], "subahdari").
+entry(kijana, n, [vijana], "mtu anayekaribia utu uzima").
+entry(subagent, n, [mawakala_wadogo], "wakala mdogo").
+entry(subah, n, [subahs], "mkoa wa India").
+ingizo(subahdar, n, [subahdars], "gavana wa subah").
+entry(subalar, adj, [], "iko chini ya mabawa").
+kiingilio(subarea, n, [sehemu_ndogo], "mgawanyiko wa eneo").
+entry(subarid, adj, [], "kiavua jangwa").
+kiingilio(subatom, n, [subatoms], "sehemu ya atomi").
+entry(subaural, adj, [], "lenye kusikika kwa shida").
+entry(subaxial, adj, [], "kidogo axial").
+entry(subbase, n, [subbases], "sehemu ya chini kabisa ya msingi").
+entry(subbasin, n, [subbasins], "sehemu ya eneo linalomiminwa na mto").
+entry(subbass, n, [subbasses], "kichapo cha chombo kinachozalisha sauti za chini kabisa za kinanda").
+entry(subbed, past, [], "mvutano wa sub").
+entry(subbing, n, [subbings], "unene mwembamba kwenye msaidizi wa filamu ya picha").
+entry(subblock, n, [subblocks], "mgawanyiko wa kitalu").
+entry(ukoopeshaji, n, [ukoopeshaji], "aina inayotambulika ndani ya uzao").
+ingia(ndogondogo, n, [ndogondogo], "mgawanyiko wa tabaka").
+entry(subcause, n, [visababishi], "kisababishi cha chini").
+entry(subcell, n, [subcells], "mgawanyo wa kiini").
+kiingilio(mwakilishi, n, [mwakilishi], "kiongozi msaidizi").
+kiingilio(mdai_mdogo, n, [madai_madogo], "dai dogo").
+entry(subclan, n, [makundi_madogo], "mgawanyiko wa ukoo").
+ingia(darasanidogo, v, [darasanidogo,kuweka_darasanidogo,klasi_ndogo], "kuweka katika mgawanyiko wa darasa").
+entry(subclerk, n, [makarani_wadogo], "karani msaidizi").
+entry(subcode, n, [subcodes], "mgawanyiko wa nambari").
+entry(subcool, v, [subcooled,subcooling,subcools], "kupoza chini ya kiwango cha kuganda bila kuganda").
+entry(subcult, n, [makundi_ya_dini_ndogo], "mgawanyiko wa dhehebu").
+kiingilio(subcutis, n, [subcutises], "au SUBCUTESsehemu ya ndani zaidi ya dermis").
+kiingilio(mwana naibu, n, [wana naibu], "naibu anayesaidia").
+kiingilio(binti_mdogo, n, [watoto_wa_mabinti], "msichana mwaka mmoja kabla hajawa mrembo anayeingia kwenye jamii").
+ingizo(goda_mdogo, n, [magoda_madogo], "bohari ya kijeshi inayofanya kazi chini ya mamlaka ya bohari nyingine").
+entry(upunguzaji, n, [upunguzaji], "kitendo cha kupunguza").
+entry(subduce, v, [subduced,subducing,subduces], "kuondoa").
+kiingilio(subduct, k, [subducted, subducting, subducts], "kuondoa").
+entry(tiisha, k, [tiisha, kutiisha, hutiisha], "kuleta chini ya udhibiti").
+entry(mshindi, n, [washindi], "mmoja anayeshinda").
+entry(subdural, adj, [], "iko chini ya dura mater").
+kiingilio(subdwarf, n, [subdwarfs], "kijua kidogo chenye mwangaza mdogo").
+entry(subecho, n, [midhani ndogo], "midhani duni").
+entry(subedit, v, [subedited,subediting,subedits], "kufanya kama mhariri msaidizi wa").
+ingia(chini_ya_ingia, n, [chini_ya_ingias], "kiingilio kilichofanywa chini ya kiingilio cha jumla zaidi").
+kiingizio(subepoch, n, [subepochs], "mgawanyiko wa enzi").
+entry(suber, n, [subers], "gome la nje").
+entry(suberect, kivumishi, [], "karibu wima").
+entry(suberic, kivumishi, [], "kuhusu pamba").
+ingizo(suberin, n, [suberins], "dutu inayopatikana kwenye seli za magamba").
+kiingilio(suberise, v, [suberised, suberising, suberises], "kubadilisha kuwa cork").
+entry(suberize, v, [suberized,suberizing,suberizes], "kubadilisha kuwa tishu ya plagi").
+entry(suberose, kivumishi, [], "corky").
+entry(suberous, kiv, [], "suberose").
+entry(subfield, n, [subfields], "sehemu ndogo ya uwanja wa hisabati ambayo yenyewe ni uwanja").
+ingizo(kisafirishaji, n, [visafirishaji], "mgawanyo wa faili").
+entry(subfix, n, [vigambishi], "alama ya kiutambuzi au herufi iliyoandikwa chini ya herufi nyingine").
+entry(subfloor, n, [sakafu_za_ndarani], "sakafu yenye umbo lisilo na mwonekano mzuri inayowekwa kama msingi wa sakafu iliyomalizika").
+kiingilio(podonyororo, kivumishi, [], "kiwango fulani cha majimaji").
+kiingilio(subframe, n, [subframes], "fremu kwa ajili ya kuambatisha fremu ya kumalizia").
+kiingilio(subfusc, n, [subfuscs], "mavazi yenye rangi iliyokolea au isiyo na mwanga").
+entry(subgenre, n, [wanagenre], "kitengo kidogo cha aina").
+entry(farigeneri, n, [farigeneri], "au MASUBGENERIjia ndogo ya jenasi").
+ingizo(lengo_dogo, n, [malengo_madogo], "lengo la chini").
+entry(subgrade, n, [viwango_vidogo], "uso ambao lami huwekwa juu yake").
+kiingilio(subgraph, n, [subgraphs], "grafu iliyo ndani ya grafu kubwa zaidi").
+kiingilio(kikundi_chini, v, [kilichogawanywa_kuvijikundi, kugawanyika_kuvijikundi, vikundi_vidogo], "kugawanya katika vikundi vidogo").
+ingia(subgum, n, [subgums], "sahani ya Kichina ya mboga mchanganyiko").
+entry(subhead, n, [subheads], "kichwa cha sehemu ndogo").
+entry(subhuman, n, [subhumans], "ambaye ni chini ya binadamu").
+entry(subhumid, kiv, [], "yenye unyevunyevu kiasi").
+kiingilio(wazo_dogo, n, [mawazo_dogo], "wazo dhalili").
+kiingilio(subindex, n, [subindexes], "au kiambajina SUBINDICESa").
+entry(kipengee, n, [vipengee], "kipengee kinachounda mgawanyo wa mada kubwa").
+kiingilio(subito, kiv, [], "haraka inayotumiwa kama mwelekeo wa muziki").
+entry(kipengee, v, [kipengewa,kipengeka,kipengea], "kusababisha kupata uzoefu").
+ingia(subjoin, v, [subjoined, subjoining, subjoins], "kuongeza mwishoni").
+entry(sublate, v, [sublated,sublating,sublates], "kufuta").
+kiingilio(sublease, v, [subleased,subleasing,subleases], "kupangisha ndogo").
+entry(sublet, k, [sublet, kukodisha tena, zilizokodishwa], "kukodisha nyumba iliyokodishwa kwa mtu mwingine").
+kiingilio(ngazi_ndogo, n, [ngazi_ndogo], "ngazi ya chini").
+entry(sublime, adj, [], "YA JUU AU YA KISWAHILI SUBLIMER SUBLIMEST").
+entry(sublime, v, [sublimed,subliming,sublimes], "kufanya ya ajabu").
+entry(sublimeri, n, [wazalishaji], "mmoja anayepunguza").
+entry(sublimest, kiwango_cha_jubalijali, [], "ya juu kabisa").
+entry(kikomo_kilichomo, n, [vikomo_vilivyomo], "kikomo ndani ya kikomo").
+kiingilio(subline, n, [sublines], "mstari wa ndani ndani ya shina").
+entry(sublot, n, [sublots], "mgawanyo wa kiwanja").
+ingizo(sublunar, kivumishi, [], "linalohusu dunia").
+kiingizo(chaguomenyu, n, [chaguomenyu], "orodha ya sekondari ya chaguo za kompyuta").
+entry(zamisha, v, [ilizama,ikizamisha,inazamisha], "kuliweka chini ya uso wa kioevu").
+ingizo(zamisha, v, [zamishwa,ikizamisha,ikizamisha], "kuzamisha").
+entry(submiss, adj, [], "ameelekea kutii").
+entry(wasilisha, v, [imetumwa,inayotumwa,inatuma], "kukubali mamlaka ya mwingine").
+kiingilio(subnasal, kivumishi, [], "iko chini ya pua").
+ingizo(mtandao_wa_ndege_za_ndani, n, [mitandao_ya_ndani], "mfumo wa muunganisho ndani ya mfumo wa mawasiliano").
+kiingilio(kitegemeo, n, [vitegemeo], "mgawanyiko wa makazi").
+entry(subnodal, kivumishi, [], "iko chini ya kifundo").
+ingizo(subocean, kivumishi, [], "iliyopo chini ya sakafu ya bahari").
+entry(suboptic, adj, [], "iliyoko chini ya macho").
+entry(suboral, kivumishi, [], "iliyoko chini ya mdomo").
+entry(asubkundi, n, [asubkundi], "kipengele cha familia zinazohusiana ndani ya utaratibu").
+entry(suborn, k, [suborned,suborning,suborns], "kushawishi kutoa ushahidi wa uongo").
+ingizo(suborner, n, [suborners], "anayepotosha").
+entry(suboval, adj, [], "karibu mviringo").
+entry(subovate, kivumishi, [], "karibu na mviringo").
+kiingilio(suboksi, n, [suboksi], "oksidi yenye kiwango kidogo cha oksijeni").
+entry(subpanel, n, [vipaneli vidogo], "mgawanyiko wa paneli").
+entry(kiasi, kivumishi, [], "chini ya wastani").
+kiingilio(subpart, n, [subparts], "mgawanyo wa sehemu").
+entry(subpena, v, [subpenaed,subpenaing,subpenas], "kuandikia wito wa mahakama").
+kiingilio(fasinyingine, n, [fasinzingine], "mgawanyiko wa awamu").
+entry(mikundi_ndogo, npl, [], "mgawanyiko ndani ya jenasi").
+kiingilio(mdogo-wa-njama, n, [njama-ndogo], "njama ya ziada ya kifasihi").
+entry(maagizo, k, [maagizod, maagizong, maagizos], "kuitwa na aina ya hati ya korti").
+entry(subpolar, kiv, [], "iko nje tu ya miduara ya polar").
+entry(subprime, adj, [], "ikimaanisha mkopo wenye kiwango cha juu cha riba kuliko kiwango cha riba cha kawaida").
+entry(subpubic, adj, [], "iliyoko chini ya kinena").
+entry(subrace, n, [subraces], "mgawanyo mdogo wa jamii").
+entry(kupangisha_kidogo, n, [upangishaji_mdogo], "pango kutoka kwa mpangaji mdogo").
+kiingilio(subring, n, [subrings], "kiwango kidogo cha pete ya kihisabati ambacho yenyewe ni pete").
+ingizo(kisahihishi, n, [kanunisahihi], "kanuni ndogo").
+entry(subsale, n, [subsales], "uuzaji tena wa bidhaa zilizonunuliwa").
+ingizo(kipimo_kidogo, n, [vipimo_vidogo], "mgawanyiko wa kipimo").
+entry(subsea, adj, [], "iko chini ya uso wa bahari").
+kiingilio(sehemu_ndogo, n, [sehemu_ndogo], "kikundi kilichotokana moja kwa moja na kingine").
+kiingilio(kitenzi_dogo, n, [vitenzi_vidogo], "mgawanyo wa maana").
+kuingia(subsere, n, [subseres], "aina ya mfululizo wa kiikolojia").
+entry(subserve, v, [subserved,subserving,subserves], "kutumikia ili kukuza").
+entry(kipengele, n, [vipengele], "seti ya hesabu iliyo ndani ya seti kubwa").
+entry(subshaft, n, [vikaushaft], "mhimili ambao uko chini ya mhimili mwingine").
+entry(ndogo-shelli, n, [ndogo-shelli], "moja ya obiti zinazounda ganda la elektroni la atomi").
+kiingilio(subshrub, n, [subshrubs], "kichaka kifupi").
+entry(subside, v, [pungua,pungua kasi,inapungua], "kushuka hadi kiwango cha chini au kawaida").
+ingia(subsider, n, [subsideri], "mmoja anayeacha kuvuta pumzi").
+ingia(msaada, n, [misaada], "ruzuku au michango ya pesa").
+kiingizo(kuendelea_kusihi, v, [kusihi,kuendelea_kusihi,kusihi], "kuendelea kuwepo").
+kiingilio(tovuti_ndogo, n, [tovuti_ndogo], "mgawanyo wa tovuti").
+ingia(ustadi_mdogo, n, [ustadi_mdogo], "ustadi wa chini").
+entry(ardhi_ya_chini, v, [tililika_ardhi_ya_chini, kutililika_ardhi_ya_chini, tililika_ardhi_ya_chini], "kulima ili kugeuza ardhi ya chini, safu ya udongo chini ya uso wa udongo").
+entry(subsolar, adj, [], "iliyoko chini moja kwa moja ya jua").
+entry(subsonic, adj, [], "ikitembea kwa kasi chini ya ile ya sauti").
+uingiliano(sehemu_ndogo, n, [sehemu_ndogo_za_nafasi], "kikundi kidogo cha nafasi ya hisabati").
+entry(substage, n, [substages], "sehemu ya darubini kwa ajili ya kuunga mkono vifaa").
+kiingilio(substate, n, [substates], "mgawanyo wa jimbo").
+entry(kufyonza, v, [iliyofyonzwa,inayofyonza,zinafyona], "kujumuisha ndani ya kundi kubwa").
+ingizo(subtaski, n, [subtasks], "kazi ndogo").
+entry(subtaxon, n, [vishokotaksons], "au SUBTAXA mgawanyiko wa taxon").
+entry(subteen, n, [subteens], "mtu anayekaribia umri wa miaka ya ujana").
+entry(subtend, v, [subtended,subtending,subtends], "kupanua chini au kinyume na").
+kiingilio(subtesti, n, [subtesti], "sehemu ndogo ya jaribio").
+kiingilio(ainandogo, n, [ainandogos], "maandishi yaliyoandikwa au kuchapishwa chini ya maandishi ya jumla zaidi").
+ingizo(ndogo_mada, n, [ndogo_mada], "mada ndogo").
+ingizo(subtile, kivumishi, [], "SUBTILER SUBTILESTsubtle").
+entry(subtilin, n, [subtilins], "antibiotiki").
+entry(ujanja, n, [ujanja], "ujanja").
+entry(subtitle, v, [subtitled,subtitling,subtitles], "kutoa jina la pili kwa").
+kiingilio(subtle, kiv, [], "LINALOHITAJI UTASHI KUONA HUSUSANI LIMETHAMINIWA UTAMBUE KIMEZIMWA adv").
+entry(ujanja, n, [ujanja], "hali ya kuwa na ujanja").
+kiingilio(subtone, n, [subtones], "sauti ya chini au sauti iliyozimwa").
+ingizo(subtonic, n, [subtonics], "aina ya toni ya muziki").
+kiingilio(subtopia, n, [subtopias], "vitongoji vya jiji").
+ingia(submada, n, [submada], "mada ndogo").
+kiingilio(subjumla, v, [subjumlishwa, subjumlisha, subjumla], "au SUBJUMLISHWA SUBJUMLISHA SUBJUMLA ili kupata jumla ya sehemu").
+kiingilio(punguza, v, [ilipungua, kupunguza, hupunguza], "kuchukua mbali").
+kiingilio(subtrade, n, [subtrades], "mtaalamu aliyeajiriwa na kontrakta mkuu").
+kiingilio(subtrend, n, [mitindo_dogo], "mwelekeo ndogo").
+ingizo(undogo_wa_kabila, n, [vikabila_vidogo], "mgawanyiko wa kabila").
+entry(subtunic, n, [subtunic mbalimbali], "vazi la ndani la kuvaa chini ya kanzu nyingine").
+kiingilio(aina_ndogo, n, [aina_ndogo], "aina inayoshughulikiwa au kujumuishwa katika aina nyingine").
+entry(subulate, adj, [], "nyembamba na inayoelekea kwenye ncha").
+entry(kitengo, n, [vikundi vidogo], "kitengo kilicho sehemu ya kitengo kikubwa").
+entry(kitongoji, n, [vitongoji], "eneo la makazi karibu na jijiKITONGOJAD adj").
+entry(mjini, n, [wajini], "moja anayekaa katika kitongoji").
+entry(vimtaa_vya_jiji, n, [vimtaa_vya_miji], "viunga vya jiji").
+entry(subvene, v, [subvened,subvening,subvenes], "kufika au kutokea kama msaada au afueni").
+entry(kupindua, k, [kupinduliwa, kupindua, kupindua], "kuharibu kabisa").
+entry(subvicar, n, [mavikarimsaidizi], "kasisi msaidizi").
+entry(subviral, kivumishi, [], "kuhusu sehemu ya virusi").
+entry(subvirus, n, [subvirusi], "protini ya virusi iliyo ndogo kuliko virusi").
+entry(subvocal, adj, [], "iliyowekwa kiakili kama maneno").
+kiingilio(subway, v, [subwayed,subwaying,subways], "kusafiri kwa reli ya chini ya ardhi").
+kiingilio(nduniandogo, n, [nduniandogo], "mgawanyiko wa tufe la shauku au shughuli").
+entry(subzero, adj, [], "inaonyesha chini ya sifuri").
+kiingilio(sehemu_ndogo, n, [sehemu_ndogo], "mgawanyiko wa eneo").
+entry(sukkah, n, [mashuke], "au SUKOTHsukkah").
+weka(kufanikiwa, v, [ulifanikwa, kufanikiwa, hufanikiwa], "kufanikisha jambo lililotakiwa au kupangwa").
+entry(mafanikio, n, [mafanikio], "kupata kitu kinachotamaniwa au kukusudiwa").
+ingizo(fupi, kiv, [], "FUPI ZAIDI FUPI ZAIDIwazi kuonyeshwa kwa maneno machache").
+entry(succinic, adj, [], "inayohusu kaharabu").
+ingia(succinyl, n, [succinyls], "radikali ya kimonovalenti").
+entry(msaada, k, [msaadizi, msaadiano, msaada], "kwenda kusaidia").
+entry(msaada, n, [wasamaria], "anaye toa msaada").
+entry(mbaranga, n, [mbarangas], "chicory").
+kiingilio(sukkothi, a, [], "wingi wa sukah").
+entry(msaidizi, k, [msaidiwa, kusaidia, wasaidizi], "kusaidia").
+entry(succuba, n, [succubas], "au SUCCUBAEa succubus").
+entry(succubus, n, [mashedu-mke], "au SUCCUBI pepo mke").
+entry(salimu, k, [alisarimu,akisalimu,anasalimu], "kukubaliana na nguvu kubwa").
+entry(succuss, v, [succussed,succussing,succusses], "kutikisa kwa nguvu").
+entry(such, adj, [], "ya aina hiyo").
+entry(kama, kiv, [], "ya aina inayofanana").
+entry(suchness, n, [suchnesses], "hali muhimu au sifa ya kipekee").
+entry(suck, v, [sucked,sucking,sucks], "kunyonya kwa kuunda ombwe nusu").
+entry(msapula, k, [sapuliwa, kusapua, wasapula], "kuondoa matawi ya chini au machipukizi").
+entry(suckfish, n, [suckfishes], "remora").
+entry(suckle, v, [suckled,suckling,suckles], "kunyonyesha").
+entry(suckler, n, [sucklers], "anayenyonyesha").
+entry(bila_juisi, kivumishi, [], "kukosa juisi").
+kiingilio(kunyonyeshwa, n, [wanyonyeshwa], "mnyama ambaye hajakomeshwa kunyonya").
+entry(sucky, adj, [], "YA KUKERA KABISA").
+entry(sucrase, n, [sucrases], "kimeng'enya").
+entry(sucre, n, [sucres], "kitengo cha fedha cha zamani cha Ekvado").
+entry(sukarosi, n, [sukarosi], "aina ya sukari").
+entry(suction, v, [suctioned,suctioning,suctions], "kuondoa kwa mchakato wa kufyonza").
+entry(sudarium, n, [sudaria], "kitambaa cha kufutia uso").
+ingizo(sudary, n, [sudaries], "sudarium").
+ingizo(kutokwa_jasho, n, [jasho_lenyewezo], "kutokwa jasho kupita kiasi").
+kiingilio(joto-kuoga, n, [joto-kuoga], "bafu ya hewa moto ya kusababisha kutoa jasho").
+kiingilio(sudd, n, [sudds], "umati unaoelea wa mimea").
+ingizo(ghafla, kiv, [], "kufanyika haraka na bila onyoGHAFU adv").
+entry(ghafla, n, [ghaflas], "tukio la ghafla").
+kiingilio(sudoku, n, [sudokus], "kitendawili kinachohusisha nambari 1 hadi 9").
+entry(sudor, n, [sudors], "jashoSUDORAL adj").
+kiingilio(povu, v, [povuzwa,povusha,povua], "kuosha kwa maji ya sabuni").
+entry(sudser, n, [sudsers], "tamthilia ya sabuni").
+entry(sudsless, adj, [], "kutokuwa na povu").
+entry(sudsy, adj, [], "SUDSIER SUDSIEST yenye povu").
+ingizo(sue, v, [sued, suing, sues], "kufungua mashitaka dhidi ya").
+kiingilio(suede, v, [sueded,sueding,suedes], "kufanya ngozi iwe na uso laini ulio na manyoya madogo").
+entry(mshitaki, n, [washitaki], "mmoja anayeshtaki").
+entry(suet, n, [suets], "tishu ngumu ya mafuta inayozunguka figo za ng'ombe na kondooSUETY kiv").
+entry(suete, n, [suetes], "upepo wa kusini-mashariki katika maeneo ya Kisiwa cha Cape Breton").
+entry(safari, n, [safaris], "safari").
+entry(kuteseka, v, [kuteseka,kutesekea,kuteseka], "kuhisi maumivu au dhiki").
+entry(msumbufu, n, [wasumbufu], "yule anayeumia").
+ingizo(tosheleza, k, [ilitimia, inatimiza, inatosha], "kuwa wa kutosha").
+entry(sufficer, n, [sufficers], "anayekidhi").
+entry(kitenzi, v, [kilichoongezwa,kinaendelea,vinavyoongezwa], "kuongeza kama kiambishi tamati fomu iliyoongezwa mwishoni mwa neno").
+entry(suffixal, kivumishi, [], "kuhusu au kuwa kiambishi tamati").
+ingizo(sufflate, v, [sufflated, sufflating, sufflates], "kupuliza").
+entry(upigaji_kura, n, [upigaji_kura], "haki ya kupiga kura").
+entry(kufunika, k, [kufunikwa, kufunika, kufunika], "kusambaa kupitia au juu").
+entry(sukari, v, [kuloweshwa_kwa_sukari,kulowesha_kwa_sukari,kuwekewa_sukari], "kufunika kwa sukari wanga mtamu").
+entry(msukari, n, [wasukari], "mtu anayefanya sukari").
+entry(sugaring, n, [sugarings], "mchakato wa kuchemsha maji ya maple kuwa syrup").
+kiingilio(sugary, kiv, [], "YENYE SUKARI ZAIDI SANA YENYE LADHA YA SUKARI").
+entry(pendekeza, k, [ilipendekeza,ikipendekeza,huenda inapendekeza], "kuleta au kuweka mbele kwa ajili ya kuzingatiwa").
+ingizaji(sugh, v, [sughed,sughing,sughs], "kupiga kelele").
+kiingizo(msuifuaji, kiv, [], "kujiharibu").
+ingizo(kujiua, k, [kujiua, kujiua, kujiua], "kujiua kwa makusudi").
+andiko(suing, hali_ya_sasa, [], "kirai ya sue").
+kiingilio(suint, n, [suints], "mafuta asilia yanayopatikana kwenye sufu ya kondoo").
+entry(suit, v, [faa, anafaa, zinafaa], "kuwa sahihi kwa").
+kiingilio(faafu, kiv, [], "inafaaVIZURI kiv").
+entry(sanduku, n, [masanduku], "kipande bapa cha mzigo").
+kiingilio(suite, n, [suites], "mfululizo wa vitu vinavyounda kitengo").
+kiingilio(suiter, n, [masanduku_ya_suti], "sanduku la kuhifadhi idadi maalum ya seti za mavazi").
+entry(suiting, n, [suitings], "kitambaa cha kutengeneza suti").
+entry(suitlike, kivumishi, [], "inahashabihi na suti seti ya mavazi").
+kiingilio(msurii, n, [masurii], "mtu anayemchumbia mwanamke").
+ingizaji(suk, n, [suks], "soku").
+kiingizo(sukh, n, [sukhs], "soko").
+entry(sukiyaki, n, [sukiyakis], "kichakula cha Kijapani").
+entry(sukkah, n, [masukkah], "au SUKKOTH au SUKKOT makazi ya muda ambamo mlo huliwa wakati wa sikukuu ya Kiyahudi").
+entry(sulcate, adj, [], "kuwa na mifereji mirefu na myembamba").
+entry(sulcated, kiv, [], "sulcate").
+entry(sulcus, n, [sulci], "ufa mwembambaSULKALI kiv").
+entry(suldan, n, [masuldani], "soldan").
+entry(sulfa, n, [sulfas], "dawa inayozuia bakteria").
+entry(sulfate, v, [sulfated,sulfating,sulfates], "kutibu na asidi sulfuriki").
+ingizo(sulfid, n, [sulfidi], "sulfidi").
+entry(sulfidi, n, [sulfidi], "kiwanja cha kiberiti").
+ingia(sulfinyl, n, [sulfinyls], "radikali yenye valensi mbili").
+kiingilio(sulfite, n, [sulfiti], "chumvi ya kemikali SULFITIC kivumishi").
+entry(sulfo, adj, [], "sulfoniki").
+kiingilio(sulfone, n, [masulfoni], "kiwanja cha salfa").
+entry(sulfoni, kiv, [], "inayojumuisha kikundi cha kimwili chenye dhamana moja").
+ingizo(sulfonyl, n, [sulfonyls], "kikundi cha kivuli mbili").
+kiingilio(kiberiti, v, [kiberitishwa, kikiberiti, viberiti], "kutibu na kiberiti, elementi isiyo ya metali").
+kiingilio(sulfuret, v, [sulfureted,sulfureting,sulfurets], "au SULFURETTED SULFURETTING SULFURETskutibu kwa sulfuri").
+ingia(sulfuric, kiv, [], "kuhusu salfa").
+entry(sulfury, adj, [], "inayofanana na salfa").
+kiingilio (sulfuryl, n, [sulfuryls], "sulfonyl").
+entry(kununa, v, [kununa, nakununa, hununi], "kuwa mnyonge").
+entry(sulker, n, [sulkers], "anayeghadhibika").
+entry(sulky, kiv, [], "SULKIER SULKIESTwenye huzuni au kujitengaSULKILY kiv").
+ingizo(kiburi, n, [viburi], "gari nyepesi linalovutwa na farasi").
+entry(sullage, n, [sullages], "majitaka").
+ingizo(kasirika, adj, [], "KASIRIKA ZAIDI KASIRIKA ZAIDISANA kuonyesha hasira au kinyongo KASIRIKA adv").
+ingizo(sully, v, [sullied,sullying,sullies], "kuchafua").
+entry(sulpha, n, [sulphas], "sulfa").
+entry(sulfati, k, [sulfatiwa, kutoasulfati, sulfati], "kutoa sulfati").
+ingia(sulphid, n, [sulphids], "sulfidi").
+kiingilio(sulfidi, n, [sulfidi], "sulfidi").
+kiingilio(sulfite, n, [sulfites], "sulfate").
+entry(sulphone, n, [sulphones], "sulfoni").
+entry(kibandika, v, [kibandikad, kibandikaring, kibandikars], "kufanya kibandika").
+ingizo(sulphury, kivumishi, [], "sulfury").
+ingizo(sultan, n, [masultani], "mtawala wa nchi ya KiislamuSULTANIC kiv").
+kiingilio(sultana, n, [sultanas], "mke wa sultani").
+andiko(joto_kali, kiv, [], "JOTO_KALI_ZAIDI JOTO_KALI_ZAIDI_ZAIDI joto sana na yenye unyevunyevu JOTO_KALI_KWA_MBEYA kiv").
+entry(sulu, n, [sulus], "sketi ya Kimelanesia").
+entry(jumlisha, v, [jumlishwa,jumlisha,jumla], "kuongeza kuwa jumla moja").
+kiingilio(sum, n, [sumy], "kitengo cha fedha cha Uzbekistan").
+entry(msumaki, n, [misumaki], "mti au kijiti chenye maua").
+entry(msumaki, n, [msumaki], "sumac").
+entry(sumi, n, [sumis], "aina ya wino mweusi wa Kijapani").
+entry(sumless, adj, [], "kubwa sana kiasi cha kutoweza kuhesabiwa").
+ingia(summa, n, [summas], "au SUMMAKazi kamili juu ya mada").
+entry(summable, adj, [], "inaweza kuongezwa").
+entry(summand, n, [summands], "kiambatisho").
+entry(muhtasari, n, [mihtasari], "muhtasari mfupi").
+kiingilio(jumlisha, v, [jumlishwa,jumlisha,jumlisha], "kufanya jumla").
+entry(summed, zamani, [], "hali ya jumla").
+entry(majira, v, [majiraed, majiraing, majiras], "kupitisha majira ya joto msimu wenye joto zaidi wa mwaka").
+entry(kimsimu, kiv, [], "ya msimu wa joto").
+entry(summery, adj, [], "YA KIPUPWE INAYOJAULIKANA YA KIPUPWE").
+entry(kufanya_jumla, ya_sasa, [], "kitenzi cha jumla").
+entry(mkutano, k, [mkutano, mkutano, mikutano], "kushiriki katika kongamano la juu kabisa").
+kiingilio(mkutano, kivumishi, [], "kuhusu kilele cha juu").
+ingizo(mkutano_wa_maana, n, [mikutanoya_maana], "matumizi ya mikutano kati ya viongozi wa mataifa kwa ajili ya mazungumzo ya kimataifa").
+entry(itisha, v, [itishwa,kiitisha,kiitisho], "kuamuru kuonekana").
+entry(msamaji, n, [wasamaji], "yule anayeitisha").
+entry(summons, v, [summonsed,summonsing,summonses], "kuita kwa amri ya mahakama").
+kiingilio(sumo, n, [sumos], "aina ya mieleka ya Kijapani").
+ingizo(msumaji, n, [msumaji], "mwanapiganaji wa sumo").
+kiingilio(sump, n, [sumps], "eneo la chini linalotumika kama mfereji au chombo cha kukusanya vimiminika").
+kiingilio(sumpter, n, [masumpter], "mnyama wa kubeba mizigo").
+entry(sumpweed, na, [sumpweeds], "mmea wa kinamasi").
+entry(jua, v, [jua,mwakajua,jua], "kuweka chini ya jua nyota linalozunguka ardhi").
+entry(sunback, kiv, [], "kata chini ili kufichua mgongo kwenye mwanga wa jua").
+entry(sunbaked, adj, [], "chomwa na jua").
+entry(jua-kuoga, n, [jua-kuoga], "kujitokeza kwa mwanga wa jua").
+entry(oga_jua, v, [oga_jua_kwenye_juu, oga_jua, oga_juas], "kuoga jua").
+kiingilio(juamiali, n, [miali_ya_jua], "mwangaza wa juaMIALI adj").
+ingizo(jua_vitanda, n, [vitanda_vya_jua], "kifaa cha kupata ngozi yenye rangi ya kahawia kwa njia ya bandia").
+entry(sunbelt, n, [sunbelts], "mataifa ya kusini na kusini magharibi mwa Marekani").
+ingizo(kidungi, n, [vidungi], "ndege wa tropiki").
+entry(sunblock, n, [sunblocks], "dawa ya kutunza ngozi kutokana na miale ya jua").
+entry(sunbow, n, [sunbows], "mduara wa rangi za upinde unaoundwa na jua liking'aa kupitia ukungu").
+entry(kuungua_jua, v, [kuungua_jua,kuungua_jua,huungua_jua], "kuungua au kubadilika rangi kutokana na kuathiriwa na jua").
+entry(mwangaza_wa_jua, n, [mwangaza_wa_jua], "mng'ao wa jua").
+kiingilio(jua, n, [majuani], "ulinzi wa ngozi kutokana na uharibifu wa jua").
+entry(sunchoke, n, [sunchokes], "aina ya alizeti").
+entry(sundae, n, [sundaes], "kikombe cha barafu kinachotolewa na kitopoo juu").
+entry(roshani, n, [maroshani], "sitaha inayopokea jua").
+ingizo(sunder, k, [sundered, sundering, sunders], "kuvunja").
+entry(sunderer, n, [masunderer], "kiumbe kinachogawanya").
+ingizo(jua-chungu, n, [jua-vyungu], "mmea wa kinamasi").
+entry(saa_ya_jua, n, [saa_za_jua], "aina ya kifaa cha kuonesha muda").
+kiingilio(sundog, n, [madogosundog], "upepo wa mvua").
+entry(machweo, k, [machweokwa,machweoku,machweohu], "kuhisi mkanganyiko wa usiku").
+entry(gauni_la_jua, n, [ngauni_za_jua], "nguo yenye mwili mfupi").
+ingizo(busara, npl, [], "vitu mbalimbali").
+entry(sundrops, n, [sundrops], "mmea wa maua").
+entry(sundry, adj, [], "mbalimbaliSUNDRILY adv").
+ingizo(jua-nyepesi, kiv, [], "kinachostahimili kufifia kwa jua").
+entry(sunfish, n, [sunfishes], "samaki wa baharini").
+ingizo(imbwa, zamani, [], "kiima cha 'sing'").
+entry(miwanivya jua, n, [miwanivya jua], "lenzi ya kutia mkazo miale ya jua ili kuzalisha joto").
+entry(mng'ao_wa_jua, n, [ming'ao_ya_jua], "mwanga angani unaosababishwa na jua").
+kiingilio(zama, a, [], "kitenzi kinachopita cha kuzama").
+entry(sunken, a, [], "kile kifanyikacho baada ya kuzama").
+kiingilio(sunker, n, [sunkers], "tuta la mwamba karibu na uso wa bahari").
+ingizo(kinyemela, k, [kinyemela], "kipande kidogo").
+entry(jua-lampu, n, [jua-lampu], "taa inayotoa miale ya ultraviolet").
+entry(juaardhi, n, [juaardhi], "eneo linalotambulika kwa kuwa na mwanga mwingi wa jua").
+entry(sunless, adj, [], "kuwa bila mwangaza wa jua").
+ingizo(jua, n, [mionzi_ya_jua], "nuru ya jua").
+entry(kamasijua, kiv, [], "inayofanana na jua").
+entry(jua, kiv, [], "imeangazwa na jua").
+entry(sunn, n, [sunns], "kichaka cha Mashariki mwa India").
+entry(sunna, n, [sunnas], "mwili wa sheria ya kitamaduni ya Waislamu").
+entry(sunnah, n, [sunnahs], "sunna").
+kiingilio(jua-lililokuwa, ya-kale, [], "wakati wa jua").
+entry(sunning, ya sasa, [], "kiima cha sun").
+kiingilio(jua, kivumishi, [], "YA JUA ZAIDI YA JUA imejaa mwanga wa jua KWA MWANGA adv").
+entry(ukumbikijua, n, [nyumba_kijua], "ukumbi unaoingiza mwanga mwingi wa jua").
+entry(sunproof, adj, [], "suja ya jua").
+kiingilio(miale, n, [miale_ya_jua], "mwale wa jua").
+entry(mawio, n, [mawio], "upandaji wa jua juu ya upeo wa macho asubuhi").
+entry(paakarusho, n, [paakarusho], "paa la gari lenye paneli inayofunguka").
+entry(chumba_cha_jua, n, [vyumba_vya_jua], "chumba kilichojengwa kuingiza kiasi kikubwa cha mwanga wa jua").
+kiingilio(jua_kuchoma, n, [juakuchomas], "jeraha la mimea yenye kuni linalosababishwa na jua").
+entry(jua_kuchwa, n, [jua_kuchwa], "kushuka kwa jua chini ya upeo wa macho jioni").
+entry(kivuli, n, [vivuli], "kitu kinachotumika kama kinga dhidi ya jua").
+entry(jua, n, [majuu], "nuru ya jua").
+entry(kiwambo, n, [madoadoa_ya_jua], "doa jeupe juu ya uso wa jua").
+entry(sunstar, n, [sunstars], "aina ya nyota wa baharini").
+kiingilio(jua-mawe, n, [mawe-ya-jua], "aina ya quartz").
+ingizo(sunsuit, n, [sunsuits], "aina ya jozi ya kucheza").
+ingizo(suntan, k, [suntanned,suntanning,suntans], "kupata rangi ya jua").
+entry(jua, n, [maeneo_ya_jua], "mahali penye kivuli kinachopendeza na jua").
+kiingilio(jua_kuchomoza, n, [machomoza_ya_jua], "kuchomoza kwa jua").
+entry(sunward, kivumishi, [], "kuelekea jua").
+entry(kuelekea_jua, kivumishi, [], "sunward").
+kiingilio(sunwise, kiv, [], "kutoka kushoto kwenda kulia").
+entry(sup, v, [supped,supping,sups], "kula chakula cha jioni").
+entry(supe, n, [supes], "mwigizaji asiye na sehemu ya kuzungumza").
+kiingilio(super, v, [supered, supering, supers], "kuimarisha kwa mesh nyembamba ya pamba kama kitabu").
+entry(superadd, v, [superadded,superadding,superadds], "kuongeza zaidi").
+entry(bora, kiv, [], "SUPERBER SUPERBESTya ubora boraSUPERBLY kiv").
+entry(superbad, kivumishi, [], "mbaya sana").
+kiingilio(superbug, n, [superbugs], "aina ya bakteria inayopinga dawa zote za viuavijasumu").
+kiingilio(supercar, n, [supercars], "gari lililo bora").
+kiingilio(supercop, n, [supercops], "afisa mkuu wa polisi").
+entry(superego, n, [superegos], "sehemu ya akili").
+ingizo(superfan, n, [wafuasi_wakubwa], "mshabiki ambaye amejitolea sana").
+kiingizio(superfix, n, [superfixi], "mtindo wa mara kwa mara wa mkazo katika hotuba").
+entry(superfly, kiv, [], "kujifanya kwa maonyesho").
+kiingilio(superhit, n, [superhits], "kitu kilichofanikiwa sana").
+entry(superhot, adj, [], "ya moto sana").
+ingia(kisuperiori, n, [kisuperiori], "mmoja wa cheo cha juu ubora au mamlaka kuliko mwingine").
+kiingilio(superjet, n, [superjets], "aina ya ndege ya jet").
+ingia(superlie, v, [superlay,superlain,superlying], "SUPERLIEkwa kulala juu").
+kiingilio(superman, n, [supermen], "mtu wa juu wa kinadharia").
+kiingilio(supermom, n, [supermoms], "mama bora").
+entry(supernal, adj, [], "kuhusiana na anga").
+kiingilio(superpro, n, [superpros], "mtaalamu bora").
+entry(supersex, n, [supersexes], "aina ya kiumbe kisichoweza kuzaa").
+entry(msikilizaji_mkuu, n, [wasikilizaji_wakuu], "mpelelezi bora").
+entry(supertax, n, [supertaxes], "kodi ya ziada").
+entry(supinate, v, [supinated,supinating,supinates], "kuzungusha ili kiganja kiangalie juu").
+entry(supine, n, [supines], "nomino ya kitenzi ya Kilatini").
+ingia(supinely, kiv, [], "kwa namna isiyo ya kazi").
+ingizo(supped, zamani, [], "kauli ya sup").
+entry(chajio, n, [chajio], "chakula cha jioni").
+entry(kunywa, sasa, [], "Kiima cha sup").
+entry(chukua_nafasi, v, [lichukua_nafsi, lichukua_nafsi, huchukua_nafsi], "kuchukua nafasi ya").
+entry(supple, adj, [], "SUPPLER SUPPLESTpliantSUPPLELY adv").
+ingizo(laini, v, [lainishwa,lainisha,laini], "kufanya laini").
+kiingilio(msambazaji, n, [wasambazaji], "mmoja anaye wasambaza").
+ingia(utoaji, k, [imetolewa, inatoa, utoaji], "kuwapa kile kinachohitajika").
+entry(unga, v, [iliongezwa,ikiunga,huunga], "kushikilia au kuongeza nguvu kwa").
+entry(mawazo, n, [mawazo], "kitu kinachodhaniwa").
+ingizo(dhani, k, [alidhani, anadhania, dhana], "kudhani kuwa kweli").
+kiingilio(mdhaniaji, n, [wadhaniaji], "yule anayehisi").
+ingizaji(zuilia, v, [ilizuiliwa, ikizuilia, zuilia], "kufanya jambo liishe kwa nguvu").
+kiingilio(juu, kiv, [], "juu").
+entry(supreme, n, [supremes], "mchuzi laini mweupe uliotengenezwa kwa mchuzi wa kuku").
+entry(supreme, adj, [], "YA JUU ZAIDI KATIKA NGUVU AU MAMLAKA").
+entry(supremo, n, [supremos], "mmoja ambaye ni wa juu kabisa katika mamlaka").
+entry(suq, n, [suqs], "soko").
+entry(sura, n, [suras], "sura ya Quran").
+kiingilio(surah, n, [surahs], "kitambaa cha hariri").
+kiingilio(sural, kiv, [], "kuhusu sehemu ya paja la mguu").
+entry(surbase, n, [surbases], "ukingo au mpaka juu ya msingi wa muundoSURBASED kiv").
+entry(surcease, v, [surceased,surceasing,surceases], "kuacha").
+entry(koti_la_nje, n, [makoti_ya_nje], "koti ya nje au joho").
+entry(surd, n, [surds], "sauti isiyo na sauti").
+entry(sure, adj, [], "YA UHAKIKA UHAKIKA ZAIDI bila shaka").
+entry(surefire, kiv, [], "hakika ya kukidhi matarajio").
+kiingilio(hakika, kivumishi, [], "kwa hakika").
+ingia(uhakika, n, [uhakika], "hali ya kuwa na uhakika").
+entry(surer, kulinganisha, [], "ya uhakika").
+ingizo(hakika kabisa, cheo cha juu zaidi, [], "ya hakika").
+entry(mdhamana, n, [dhamana], "uhakika").
+entry(surf, v, [surfed,surfing,surfs], "kupanda mawimbi yanayovunjika kwenye ubao mrefu na mwembambaSURFABLE adj").
+ingizo(pambizo, v, [pambazo,pambazuka,pambazua], "kufunika na tabaka la nje").
+entry(surfacer, n, [surfacers], "anayevuka juu ya uso").
+entry(kilimika, n, [kilimika], "ndege wa pwani").
+kiingilio(mashua ya mawimbi, n, [mashua za mawimbi], "mashua imara ya kuvutwa na kasia").
+entry(jaa, k, [jaazwa, kujaa, jazwa], "kutoa zaidi ya kiasi").
+kiingilio(msurfaji, n, [wasurfaji], "mmoja ambaye husafiri kwenye mawimbi").
+entry(samaki_wa_uso, n, [samaki_wa_usos], "samaki wa baharini").
+kiingilio(surfier, kulinganisha, [], "ya surfy").
+kiingilio(surfiest, ulinganishi_superlative, [], "cha surfy").
+entry(surfing, n, [surfings], "kitendo au mchezo wa kupanda mawimbi yanayovunjika").
+entry(surflike, adj, [], "kufanana na mawimbi yanayovunja").
+entry(mlinzi_bahari, n, [walinzi_bahari], "mwenye ustadi wa kushughulikia boti katika mawimbi").
+entry(surfside, adj, [], "iliyoko karibu na ufuo wa bahari").
+entry(surfy, adj, [], "YENYE MAWIMBI MENGI").
+ingizaji(surge, k, [imeshuka, inashuka, hushuka], "kusonga kwa namna ya uvimbe").
+entry(daktari wa upasuaji, n, [madaktari wa upasuaji], "anaye fanya upasuaji").
+entry(surger, n, [surgers], "anayeibuka").
+entry(upasuaji, n, [upasuaji], "tiba ya matatizo ya kiafya kwa operesheni").
+entry(upasuaji, kiv, [], "kuhusu upasuaji").
+entry(kupanda, ya_sasa, [], "kiwakilishi cha kupanda").
+entry(surgy, kiv, [], "inayopanda").
+ingizo(kima, n, [makima], "mnyama anayechimba mashimo").
+entry(surimi, n, [surimis], "bidhaa ya samaki isiyo ghali").
+(entry, surly, kiv, [], "SURLIER SURLIESTsullenly rudeSURLILY kiv").
+entry(kudhani, v, [kudhaniwa,kudhanya,kudhania], "kutoa hitimisho bila ushahidi mwingi").
+entry(msadikaji, n, [wasadikaji], "mmoja anayesadiki").
+entry(shinda, k, [shinda_zaidi, kushinda, hushinda], "kupita juu ya au kuvuka").
+entry(jina_la_familia, v, [jina_la_familiad, jina_la_familiang, jina_la_familia], "kupa jina la familia").
+kiingilio(surnamer, n, [waja-surnamer], "anayeitwa kwa jina la ukoo").
+entry(pita, k, [lipita, likipita, linapita], "kupita zaidi ya").
+entry(surplice, n, [surplices], "vazi la ibada lisilobana").
+entry(ziada, v, [ziadad,ziadaring,ziadas], "au ZIADAD ZIADARING ZIADASto kushughulikia kama iliyozidi kile kinachohitajika").
+ingizo(surprint, v, [surprinted,surprinting,surprints], "kuchapisha juu ya kitu kilichokwisha chapishwa").
+entry(mshtuko, k, [ameshtuka,kinachoshtua,mshtuko], "kutokea bila kutarajiwa").
+entry(kushangaza, k, [ameshangazwa, inashangaza, wanashangaza], "kuvutia").
+entry(surra, n, [surras], "ugonjwa wa wanyama wa kufugwa").
+entry(surreal, kiv, [], "kuwa na sifa za ndoto").
+entry(surrey, n, [surreys], "gari nyepesi").
+entry(kuzunguka, k, [ilizunguka, inazunguka, inazunguka], "kuenea kabisa kuzunguka").
+entry(surroyal, n, [surroyals], "tindi la juu kabisa la pembe ya paa").
+kiingilio(surtax, v, [surtaxed,surtaxing,surtaxes], "kutoza kodi ya ziada").
+entry(maandishi_juu, n, [maandishi_juu], "tafisiri ya mazungumzo ya lugha ya kigeni yanayoonyeshwa juu ya skrini au jukwaa").
+ingizo(surtout, n, [surtouts], "koti la kufunika mwili kwa ukaribu").
+entry(surveillance, v, [angalia_kwa_umakini, kuangalia_kwa_umakini, huangalia], "kutazama kwa umakini").
+entry(survey, v, [surveyed,surveying,surveys], "kudhamiria mipaka, eneo au miinuko kwa kupima pembe na umbali").
+ingizo(mtaalamu wa upimaji, n, [wataalamu wa upimaji], "mmoja anayepima ardhi").
+kiingilio(usalama, n, [usalama], "kuishi au kuendelea kwa muda mrefu kuliko mtu mwingine au kitu kingine").
+entry(survive, v, [kuishi, kuendelea kuishi, huishi], "kuendelea kuwa hai").
+ingizo(ocpa, n, [ocpa], "ocpa").
+kiingilio(msaliti, n, [waokokaji], "mmoja anayenusurika").
+entry(sus, v, [sused,susing,suses], "kufahamu").
+entry(sushi, n, [sushis], "sahani ya mikate ya wali baridi iliyowekwa vipande vya samaki mbichi").
+kiingilio(suslik, n, [susliks], "panya wa Ulaya na Asia").
+entry(mshukiwa, v, [alishukiwa,anashuku,washukiwa], "kufikiria kuwa na hatia kwa ushahidi mdogo").
+entry(ahirisha, k, [ahirishwa, ahirishwa, ahirisha], "kusababisha kusimama kwa muda").
+entry(tashwishi, n, [tashwishis], "hali ya kutojua au msisimko wa kiakili").
+kiingilio(pumua, v, [pumua_kwa_shida, kupumua_kwa_shida, unapumua_kwa_shida], "kutoa pumzi").
+ingia(suss, k, [sussed,sussing,susses], "kuelewa au kuangalia").
+entry(sustain, v, [sustained,sustaining,sustains], "kudumisha kwa kutoa chakula na kinywaji").
+ingizo(susurrus, n, [susurruses], "sauti laini ya kupapasa").
+entry(mwuzaji, n, [wauzaji], "ambaye anauza biashara kwa wanajeshi").
+kiingilio(sutra, n, [sutras], "methali ya Kihindu").
+ingizaji(sutta, n, [suttas], "sutra").
+entry(suttee, n, [suttees], "mke mjane wa Kihindi anayeangamizwa kwenye tando la mazishi la mume wake kuonyesha uaminifu wake kwake").
+entry(sutura, kiv, [], "kuhusu mstari wa kuunganisha kati ya mifupa miwili").
+entry(shona, v, [ilishona,kushona,ushoni], "kuunganisha kwa kushona").
+entry(suzerain, n, [masuzerain], "bwana wa kifalme").
+ingizo(svaraj, n, [svarajes], "swaraj").
+entry(svedberg, n, [svedbergs], "kipimo cha muda").
+entry(svelte, adj, [], "MWEMBAMBA MWEMBAMBA ZAIDIaliye mwembamba kwa neemaMWEMBAMBA KWA USTADI adv").
+entry(futa, k, [kufuta, kufutwa, fute], "kusafisha kwa mti mkubwa").
+entry(mswahizi, n, [waswahizi], "mmoja anayefanya uswahizi").
+entry(swabbie, n, [swabbies], "baharia").
+entry(kuyafuta, hali_ya_sasa, [], "kiwango cha swab").
+entry(swabby, n, [swabbies], "swabbie").
+entry(swacked, adj, [], "mlevi").
+entry(fungia, k, [imefungiwa,inafungia,zinafungiwa], "kufunga kwa bandeji").
+ingizo(swag, v, [swagged, swagging, swags], "kupeperuka").
+entry(swage, k, [swaged,swaging,swages], "kutengeneza kwa chombo cha kupiga nyundo").
+entry(swager, n, [swagers], "ambaye anapiga kwa nguvu").
+entry(swagger, v, [swaggered,swaggering,swaggers], "kutembea kwa mbwembwe").
+entry(swaggie, n, [swaggies], "mtu wa mizigo").
+entry(swagging, wakati_uliopo, [], "kiima cha 'swag'").
+entry(swaging, ya sasa, [], "participle ya swage").
+entry(swagman, n, [swagmen], "mhuni").
+entry(swail, n, [swails], "matope").
+entry(swain, n, [swains], "kijana wa kijijiniSWAINISH kiv").
+entry(swala, n, [maswala], "eneo la aridhi yenye unyevunyevu wa hali ya chini").
+entry_kumeza, v, [kumeza, akimeza, anameza], "kupeleka kupitia kinywa na umio hadi tumboni").
+entry(ogelea, wakati_ulioopita, [], "wakati wa kuogelea").
+ingizo(swami, n, [swamis], "mwalimu wa dini ya Kihindu").
+entry(swamies, pl, [], "ya swamy").
+entry(dimba, v, [likizama, likizamika, madimba], "kufurika").
+entry(swamper, n, [swampers], "anayekaa katika eneo lenye kinamasi").
+entry(swampish, kiv, [], "enye matope").
+entry(bonyeweni, kiv, [], "ZAIDI YA DOMO DOMO KULIKO YOTEja manyasi ya mvua").
+entry(swamy, n, [wafundaji], "swami").
+entry(kundi_la_kunguru, v, [aliwaapa,kuapa,wanaapa], "kula kiapo").
+kiingilio(swang, a, [], "wakati uliopita wa swing").
+entry(mchungangoma, n, [wachungangoma], "anayechunga kasa ndege wakubwa wa maji").
+entry(swank, kiv, [], "SWANKER SWANKESTinayovutia kifahari").
+entry(swank, v, [swanked,swanking,swanks], "kujidai").
+entry(swanky, kiv, [], "SWANKIER SWANKIESTswankSWANKILY kivumishi").
+entry(swanlike, kivumishi, [], "inafanana na bata mzinga").
+entry(swanned, past, [], "kipindi cha swan").
+entry(swannery, n, [swanneries], "mahali ambapo ndege wazungu (swans) hufugwa").
+entry(kuogelea, hali_ya_sasa, [], "eneo la kuogelea ya swan").
+entry(swanny, v, [], "kutangaza kutumika tu katika nafsi ya kwanza umoja").
+ingia(swanpan, n, [swanpans], "abaku ya Kichina").
+entry ngozi_ya_bata_maji, [ngozi_za_bata_maji], "ngozi ya bata maji".
+entry(badilisha, v, [ilibadilishwa,inabadilisha,inabadilisha], "kubadilishana").
+kiingilio(swapfile, n, [swapfiles], "faili la kompyuta lenye nafasi kwa programu zilizohamishwa").
+kiingilio(swapper, n, [swappers], "anaye badilisha").
+entry(swaraj, n, [swarajes], "kujiongoza katika India ya Uingereza").
+entry(sward, v, [swarded,swarding,swards], "kufunika na udongo wa majani").
+kiingilio(sware, a, [], "kitenzi kilichopita cha kuapa").
+ingizo(swarf, n, [swawf], "nyenzo zinazoondolewa na chombo cha kukata").
+entry(swarm, v, [swarmed,swarming,swarms], "kuhama katika kundi kubwa").
+entry(swarmer, n, [waliosongesha], "mmoja anayesonga").
+entry(swarming, n, [swarmings], "uzungukaji wa mwathirika na kundi la wavamizi").
+entry(swart, kiv, [], "swarthy").
+entry(swarth, n, [swarths], "majani").
+entry(mwenye_ngozi_nyeusi, kivumishi, [], "MWENYE_NGOZI_NYEUSI_ZAIDI MWENYE_NGOZI_NYEUSI_ZAIDI_ZAIDI kuwa na ngozi nyeusi").
+entry(swarty, kivumishi, [], "swarthy").
+entry(swash, v, [swashed,swashing,swashes], "kukweza").
+entry(swasher, n, [maswasheri], "mmoja anayepiga makasia").
+entry(swastika, n, [swastika], "swastika").
+entry(swastika, n, [swastika], "umbo la kijiometri linalotumika kama alama au pambo").
+ingizo(swat, k, [piga_vikali, kipiga, zapiga], "kupiga kwa nguvu").
+ingizo(swatch, n, [swatches], "kipande cha mfano wa kitambaa").
+entry(swath, n, [swaths], "safu ya nyasi au nafaka iliyokatwa").
+entry(kufunga, kt, [alifunga,akifunga,kufunga], "kufunga kwa bandeji").
+entry(swather, n, [waswaji], "mmoja anayefunga").
+entry(swatwa, ya zamani, [], "kitenzi cha kupiga").
+entry(kiboko, n, [maboko], "moja inayopiga").
+kiingilio(kupiga mbawa, ya hivi sasa, [], "kipashio cha piga mbawa").
+entry(sway, v, [swayed,swaying,sways], "kuenda polepole mbele na nyumaSWAYABLE kiv").
+entry(swayback, n, [swaybacks], "kujikunja isivyo kawaida kwa mgongo").
+entry(mswayer, n, [wafanyaji], "mmoja anayetikisa").
+entry(swayful, adj, [], "uwezo wa kushawishi").
+ingizo(apisha, v, [apisha,apishia,kuapia], "APISHAs kusema kiapo rasmi").
+entry(swearer, n, [waapizaji], "mmoja anayeapa").
+entry(kutukana, n, [kutukanas], "kitendo cha kutoa kiapo kikuu").
+entry(jasho, v, [jasho,jasho,jasho], "kutoka jasho").
+entry(jasho_kibanda, n, [mabanda_ya_jasho], "eneo dogo ambamo mtu hulazimishwa kutoa jasho").
+entry(sweta, n, [sweta], "vazi lililosokotwa la nje SWETA adj").
+ingia(jasho, kiv, [], "ZAIDI JASHO ZAIDI YA JASHO yaliyofunikwa na jasho KWA JASHO kivy").
+entry(swediswede, n, [maswediswede], "swede").
+kiingilio(sweeney, n, [sweeneys], "sweeny").
+entry(sweeny, n, [sweenies], "kupungua kwa misuli ya bega kwa farasi").
+entry(fagia, k, [fagiaji,fagio,fagia], "kuondoa au kusafisha kwa brashi au ufagio").
+entry(msafishaji, n, [wasafishaji], "mwambaofagia").
+ingia(sako, n, [masako], "kitendo cha anaye sakura").
+ingizo(sweepy, kivumishi, [], "SWEEPIER SWEEPIEST ya kiwango au upeo mpana").
+entry(sweer, adj, [], "mvivu").
+kiingilio(tamu, kivumishi, [], "TAMU TAMU ZAIDI inayofurahisha kwa ladha").
+ingizo(tamu, n, [pipii], "kitu ambacho ni tamu").
+entry(tia_sukari, k, [imetia_sukari,inatia_sukari,inatia_sukari], "kufanya kuwa tamu").
+entry(mpenzi, n, [wapenzi], "mpenzi").
+kiingilio(tamu, n, [matamu], "tufaha tamu").
+entry(kama-tamu, kiv, [], "kiasi fulani tamu").
+ingizo(sweetlip, n, [sweetlips], "samaki mwenye mdomo unaotokeza").
+entry(sweetly, adv, [], "kwa njia ya kupendeza").
+ingizo(sweetsop, n, [sweetsops], "mti wa kitropiki").
+entry(vimba, kiv, [], "VIMBAJI VIMBAJI stylish").
+entry(fura, k, [furaga,furika,furiko], "FURAkuongezeka kwa ukubwa au kiasi").
+entry(uvimbe, n, [uvimbe], "kitu ambacho kimevimba").
+entry(joto_kali, k, [likuwa_joto_kali,kuwaka_joto_kali,yanawaka_joto_kali], "kuumia kutokana na joto kali").
+entry(sweltry, kiv, [], "SWELTRIER SWELTRIESTjoto kali kupita kiasi").
+kiingilio(swept, zamani, [], "kipindi cha sweep").
+entry(swerve, k, [swerved, swerving, swerves], "kugeuka ghafla kutoka njia iliyo nyooka").
+entry(mkingilia, n, [kingilia], "anayezungusha").
+entry(sweven, n, [swevens], "ndoto au maono").
+entry(swidden, n, [swiddens], "shamba la kilimo linalopatikana kwa kuchoma kifuniko cha mimea").
+entry(swift, kiv, [], "YA HARAKA ZAIDI KWA HARAKA KUPITA KIASI kutembea kwa kiwango kikubwa cha mwendo").
+entry(mwewe, n, [mwewe], "ndege anayepaa kwa kasi").
+entry(swifter, n, [swifters], "kamba kwenye meli").
+entry(mwendomno, n, [wasiwasi], "mtu anayefanya au kufikiri haraka").
+entry(swiftlet, n, [swiftlets], "mwewe anayekaa kwenye pango").
+entry(haraka, kiv, [], "kwa njia ya haraka").
+entry(swig, v, [swigged, swigging, swigs], "kunywa kwa haraka au kwa kina").
+entry(swigger, n, [waswiggeri], "mmoja anayekunywa kwa kasi").
+entry(swile, n, [swiles], "petemanga mnyama wa baharini").
+entry(msaka_muhuri, n, [wasaka_muhuri], "mmoja anayewinda mihuri").
+entry(swiling, n, [swilings], "shughuli ya kuwinda sili").
+kiingilio(swill, v, [swilled,swilling,swills], "kunywa kwa fundo").
+entry(mswishi, n, [waswishi], "anayekunywa pombe kupindukia").
+ingizaji(ogelea, k, [aliogelea, ameogelea, kuogelea], "OGELEAkojipenyeza majini kwa ajili ya kupanda/mteremko kwa mbinu za asili").
+entry(muogeleaji, n, [waogeleaji], "mmoja anayeswim").
+entry(kuogelea, n, [kuogelea], "kitendo cha anayeelea").
+entry(swimmy, kiv, [], "SWIMMIER SWIMMIESTdizzySWIMMILY kivielezi").
+entry(kuogelea, n, [kuogelea], "vazi la kuogelea").
+entry(nguo_za_kuogelea, n, [nguo_za_kuogelea], "mavazi yanayofaa kwa kuogelea").
+entry(tapeli, v, [tapeliwa,tapeli,matapeli], "kuchukua pesa au mali kutoka kwa njia za udanganyifu").
+entry(mtapeli, n, [matapeli], "anayehadaa").
+entry(nguruwe, n, [nguruwe], "mtu mwenye kudharaulika").
+entry(ugonjwa_wa_nguruwe, n, [magonjwa_ya_nguruwe], "ugonjwa wa nguruwe").
+entry(swing, v, [swang,swinging,swings], "kuhama huru mbele na nyuma").
+entry(swingby, n, [swingbys], "misheni ambayo chombo cha anga kinatumia mvuto wa sayari kubadilisha mwelekeo").
+ingizo(swinge, v, [swinged, swingeing, swinges], "kuchapa").
+entry(swinger, n, [swingers], "yule anayes swinging").
+ingizo(swingier, linganishi, [], "ya swingy").
+entry(swingiest, 'kiwango cha juu', [], "ya swingy").
+entry(kus swinging, kiv-ki, [], "SWINGINGESTenye nguvu na mtindo").
+entry(swinging, n, [swingings], "zoezi la kubadilishana wapenzi wa ngono").
+kiingilio(swingle, v, [swingled,swingling,swingles], "kusaga").
+entry(swingman, n, [swingmen], "mchezaji wa mpira wa kikapu ambaye anaweza kucheza beki au mbele").
+kiingilio(swingy, kivumishi, [], "SWINGIER SWINGIESTambayo imejulikana kwa swinging").
+entry(swinish, kiv, [], "kufanana au kufaa nguruwe").
+entry(swink, k, [swinked,swinking,swinks], "kufanya kazi kwa juhudi").
+entry(swinney, n, [swinneys], "sweeny").
+entry(piga, v, [lipiga,kipiga,piga], "kupiga kwa kupiga kunakoendelea").
+entry(swiper, n, [swipers], "anayepanguza").
+kiingilio(swipe, npl, [], "bia iliyoharibika").
+entry(swiple, n, [mashini-za-kupiga], "sehemu ya kifaa cha kupura").
+ingia(swipple, n, [swipples], "swiple").
+entry(kizunguzungu, v, [kizunguzunguwa,kizunguzunguka,kizunguzunguja], "kuzunguka kwa mwendo wa mzunguko").
+kiingilio(swirly, kiv, [], "SWIRLIER SWIRLIESTswirling").
+entry(swish, k, [swished,swishing,swishes], "kutembea na sauti ya mngurumo wa muda mrefu").
+ingizo(swish, kiv, [], "SWISHER SWISHEST1 mwenye mtindo mwenye akili 2 aliye na tabia ya kike").
+entry(swisher, n, [swishers], "anayeswish").
+ingizo(swishy, kivumishi, [], "NAYEYEPESHA NAYEYEPESHA ZAIDI inayoyeyepesha ya kike").
+entry(swiss, n, [mauswizi], "kitambaa cha pamba").
+entry(switch, v, [kupiga,kupiga,kupiga], "kucharaza kwa fimbo inayonyumbulika").
+entry(switchel, n, [switchels], "kinywaji kilichotengenezwa kwa maji melasi na siki na mara nyingi tangawizi").
+entry(switcher, n, [switchers], "yule anayebadilisha").
+entry(swith, kivumishi_kielezi, [], "haraka").
+entry(swithe, kiv, [], "swith").
+entry(swither, v, [swithered,swithering,swithers], "kusita").
+entry(swithly, kiv, [], "swith").
+entry(swive, k, [swived, swiving, swives], "kufanya ngono na").
+entry(zunguka, k, [ilizunguka, inaizunguka, huzunguka], "au ILIZUNGUKA INAZUNGUKA HUZUNGUKAko geuka kwenye mshikio wa mhimili").
+entry(swivet, n, [swivets], "hali ya msisimko wa neva").
+entry(swizzle, k, [swizzled,swizzling,swizzles], "kunywa kupita kiasi").
+entry(swizzler, n, [swizzlers], "mtu anayezungusha kinywaji").
+entry(swob, k, [swobbed, swobbing, swobs], "kusafisha kwa kuteketeza").
+entry(swobber, n, [swobbers], "msafisha").
+kiingilio(puvia, "iliopita", [], "kiendelezi cha puvia").
+entry(zimia, k, [zilikufa, kuzimia, huzimia], "kuzimia").
+entry(msizimu, n, [wasizimu], "anayezimia").
+entry(swoony, adj, [], "SWOONIER SWOONIESTlanguid dazed").
+entry(swoop, v, [swooped,swooping,swoops], "kushuka kwa ghafla").
+entry(swooper, n, [swoopers], "anayeshuka kwa kasi").
+ingizaji(swoopy, kiv, [], "SWOOPIER SWOOPIESTyenye mistari au sifa za kuelemea").
+entry(swoosh, k, [swooshed,swooshing,swooshes], "kusonga na sauti ya kufuatia upepo").
+entry(swop, v, [swopped,swopping,swops], "kubadilishana").
+entry(kiyabadilishi, n, [vibadilishi], "kibadili").
+kigizo(upanga, n, [panga], "silaha yenye blade ndefu kwa kukata au kuchoma").
+entry(mshambulizi_wa_upanga, n, [washambulizi_wa_upanga], "anayejua kutumia upanga").
+entry(apa, a, [], "kipindi kilichopita cha apa").
+entry(sworn, past, [], "kiambishi cha swear").
+kiingilio(swot, k, [swotted, swotting, swots], "kupiga").
+entry(swotter, n, [swotters], "anaye kariri").
+entry(swoun, k, [swouned, swouning, swouns], "kuzirai").
+ingizo(swound, k, [swounded, swounding, swounds], "kuzimia").
+entry(ogiwa, zamani, [], "sehemu ya kueleza kitendo cha kuogelea").
+entry(swing, ilikuwepo, [], "wakati uliopita wa zingira").
+entry(mjukuu, n, [majuku], "mtu anayependa starehe na anasa").
+entry(sybo, n, [syboes], "cibol").
+entry(msamoni, n, [misamoni], "mti wa mpera").
+entry(mkomore, n, [mkomore], "mti wa Amerika Kaskazini").
+entry(mtumishi, n, [watumishi], "mtumishi wa kiume nchini India").
+entry(sycee, n, [sycees], "fedha nzuri isiyokuwa na sarafu iliyokuwa ikitumiwa zamani nchini Uchina kama pesa").
+kiingilio(mkuyu, n, [mikuyu], "sycamore").
+ingizo(sycon, n, [sycons], "aina ya sifongoSYCONOID kivumishi").
+entry(syconium, n, [syconia], "tunda la plastiki lenye mbegu nyingi").
+ingia(sycosis, n, [sycoses], "ugonjwa wa uchochezi wa viso vya nywele").
+ingizo(syenite, n, [syenites], "mwamba wa kutokotaSYENITIC kivumishi").
+ingizo(syke, n, [sykes], "mto mdogo").
+entry(syli, n, [sylis], "kitengo cha zamani cha sarafu ya Guinea").
+kiingilio(mitaala, a, [], "wingi wa somo").
+entry(matamshi, n, [matamshi_ya_silabi], "sauti ya usemi yenye sonoriti ya juu").
+entry(syllable, v, [syllabled,syllabling,syllables], "kutamka silabi vitengo vya lugha inayozungumzwa").
+entry(syllabub, n, [syllabubs], "sillabubu").
+entry(mtaala, n, [mitaala], "au MTAALA muhtasari wa kozi ya masomo").
+ingizaji(sylph, n, [sylphs], "msichana au mwanamke mwembamba na mwenye neemaSYLPHIC SYLPHISH SYLPHY kiv").
+entry(sylphid, n, [sylphids], "sylph mchanga").
+kiingilio(sylva, k, [sylvas], "au SYLVAE miti ya msitu wa eneo").
+ingizo(msitu, n, [misitu], "moja anayeishi msituni").
+entry(sylvatic, kiv, [], "kuhusu msitu").
+kiingilio(sylvin, n, [masylvins], "syviti").
+ingia(sylvine, n, [sylvines], "sylvite").
+entry(sylvite, n, [sylvites], "madini ya potasiamu").
+ingia(symbion, n, [symbions], "symbiont").
+entry(symbiont, n, [masimbionti], "kiumbe kinachoishi kwa ushirikiano wa karibu na kingine").
+entry(symbiot, n, [symbiots], "simbionti").
+entry(symbiote, n, [vimbiotes], "mbegu").
+kigaji(ishara, v, [isharished,isharining,isharas], "au ISHARISHED ISHARINING ISHARAskutumikia kama ishara uwakilishi wa").
+entry(kihili, kivumishi, [], "kuhusu alama").
+entry(simetri, n, [simeteri], "unakili sahihi kati ya nusu mbili zinazopingana za mchoro").
+entry(huruma, n, [huruma], "hisia ya huruma kwa mateso ya mwingine").
+entry(usympatri, n, [usympatri], "hali ya kuishi katika eneo moja bila kupoteza utambulisho kutokana na mchanganyiko wa vizazi").
+ingizo(symphony, n, [symphonies], "utunzi wa muziki wa orchestra").
+entry(sympodia, npl, [], "mashina ya mimea yanayoundwa na mfululizo wa matawi yaliyo juu ya jingine").
+ingizo(symposia, npl, [], "mikutano kwa madhumuni ya majadiliano").
+ingizo(dalili, n, [dalili], "ishara ya kitu").
+entry(syn, adv, [], "syne").
+entry(sinagogi, n, [masinagogi], "jengo la ibada ya Kiyahudi").
+kiingilio(synanon, n, [synanons], "njia ya tiba ya vikundi kwa waraibu wa madawa ya kulevya").
+ingia(sinapsi, k, [sinapsi, kusinapsi, sinapsi], "kuja pamoja katika sinapsi").
+entry(synapsid, n, [synapsids], "moja ya kundi la reptilia waliopotea").
+entry(sinapsi, n, [sinapsi], "hatua ambapo msukumo wa neva hupita kutoka kwa neuron moja kwenda nyingineSINAPTIKI kiv").
+ingia(sawazisha, v, [imesawazishwa,inayosawazisha,inawasawazisha], "kusababisha kufanya kazi kwa pamoja").
+entry(syncarp, n, [syncarps], "tunda kubwa lenye nyama nyingi").
+entry(syncarpy, n, [syncarpies], "hali ya kuwa syncarp").
+entry(sambaza, v, [imeunganishwa, inaunganisha, zinaunganisha], "kusawazisha").
+entry(synchro, n, [synkros], "selsini").
+entry(kiasi, n, [kiasi], "aina ya muundo wa miamba").
+entry(syncom, n, [syncoms], "aina ya satelaiti ya mawasiliano").
+entry(syncope, n, [syncopes], "mkato wa neno kwa kuacha sauti moja au zaidi katikatiSYNCOPAL SYNCOPIC kiv")
+entry(syncytia, npl, [], "misa za protoplasma zinazosababishwa na muungano wa seli").
+kiingilio(syndesis, n, [syndesises], "au SYNDESESsynapsis").
+entry(syndet, n, [syndets], "sabuni bandia").
+kiingilio(syndetic, kivumishi, [], "inayohudumia kuunganisha").
+entry(syndic, n, [syndics], "wakala wa biasharaSYNDICAL kiv").
+entry(syndrome, n, [syndromes], "kikundi cha dalili zinazoashiria shida fulani").
+entry(syne, adv, [], "tangu").
+entry(synectic, kivumishi, [], "inayohusiana na mfumo wa kutatua matatizo").
+entry(synergia, n, [synergias], "ushirikiano").
+entry(synergid, n, [synergid], "seli inayopatikana kwenye kifuko cha kiinitete cha mmea wa mbegu").
+kiingilio(umoja, n, [umoja], "kitendo kilichounganishwa UMOJA adj").
+entry(synesis, n, [synesises], "aina ya ujenzi wa kisarufi").
+entry(synfuel, n, [mafuta_sintetiki], "mafuta yanayotokana na mafuta ya kisukuku").
+entry(muungano_wa_gameti, n, [miunganisho_ya_gameti], "muungano wa gameti mbiliSYNGAMIC kivumishi").
+entry(syngas, n, [syngases], "au SYNGASSESkichanganyiko cha monoksidi kaboni na hidrojeni kinachotumika katika usanisi wa kikemikali").
+entry(syngenic, kiv, [], "kuhusiana na au kuwa watu wenye vinasaba sawa kwa kutegemea mwitikio kwa antijeni").
+entry(synkarya, npl, [], "vimeng'enya vya seli vilivyoundwa kwa kuungana kwa viini viwili vilivyokuwepo awali").
+entry(sinodi, n, [masinodi], "baraza la kanisa SINODI SINODAL adj").
+ingizo(sinonimu, n, [sinonimu], "neno lenye maana sawa na nyingine").
+entry(sawa, n, [visawe], "sawa").
+entry(synonymy, n, [synonymies], "usawa wa maana").
+kiingilio(muktasari, n, [muktasari], "muhtasari wa SYNOPTIC kivumishi").
+entry(synovia, n, [synovias], "maji ya kulainisha inayotolewa na utando fulani MEMBRANI YA SYNOVIAL kiv").
+entry(syntagm, n, [syntagms], "kifungu").
+kiingilio(sintagma, n, [sintagmas], "au SYNTAGMATAa kipengele cha kisintaksia").
+entry(sarufi, n, [sarufi], "njia ambayo maneno yanapangwa pamoja kuunda vifungu na sentensi").
+ingizo(synth, n, [synths], "kichakata sauti").
+ingia(synthase, n, [synthases], "enzimu inayofanya kama kichocheo katika kuunganisha molekuli mbili").
+ingizaji(synthpop, n, [synthpops], "muziki maarufu unaochezwa na synthesizers").
+entry(syntone, n, [syntones], "mtu mwenye tabia ya kirafiki").
+entry(syntonic, adj, [], "kuwa na hali ya moyo inayojibu kwa mazingira fulani ya kijamii").
+kiingilio(syntony, n, [syntonies], "urekebishaji wa vifaa vya kutuma na kupokea ili viendane na kila mmoja").
+entry(syntype, n, [syntypes], "kila moja kati ya seti ya vielelezo vya aina ambavyo jina la spishi mpya linategemea").
+entry(synura, n, [synurae], "yoyote wa jenasi ya protozoa").
+ingia(syph, n, [syphs], "kaswende").
+entry(sypher, v, [syphered,syphering,syphers], "kuingiliana ili kufanya uso ulio sawa kama kingo za mbao zilizochongwa").
+entry(kisonono, n, [kisonono], "ugonjwa wa zinaa").
+entry(sifoni, k, [sifonijwa,sifonijika,sifonijia], "kusifoni").
+entry(syphonal, kiv, [], "siphonal").
+entry(syphonic, adj, [], "sifoniki").
+ingizo(syren, n, [syrens], "mlio wa king'ora").
+entry(sireti, n, [sireti], "chupa ndogo yenye sindano ya hypodermic iliyo na dozi moja ya dawa").
+kiingilio(syringa, n, [misiringa], "kichaka cha mapambo").
+entry(sindano, v, [sindanoed,sindanoing,sindanoes], "kusafisha au kutibu kwa maji yaliyodungwa").
+kiingilio(syrinx, n, [syrinxes], "au SYRINGES chombo cha sauti cha ndege").
+kiingilio(syrphian, n, [syrphians], "syrphid").
+entry(syrphid, n, [syrphids], "mnyama mwenye mabawa").
+entry(surupu, v, [suruped, suruping, surupu], "kufanya tamu kwa kioevu kizito na tamu").
+entry(syrupy, adj, [], "INAYOFANANA NA MAJI MAZITO YENYE UTAMU KAVUKO KAVUKOKAVUKO").
+entry(sysadmin, n, [wasimamizi_wa_mfumo], "msimamizi wa mfumo").
+entry(msimamizi, n, [wasimamizi], "msimamizi wa bodi ya matangazo ya kompyuta").
+entry(sistemu, n, [mifumo], "kundi la vipengele vinavyoshirikiana na kuunda umoja").
+entry(mfumo, n, [mifumo], "aina ya dawa ya kuua wadudu").
+entry(systole, n, [mishtole], "mkazo wa kawaida wa mdundo wa moyoSYSTOLIC kiv").
+entry(syzygy, n, [syzygies], "mpangilio wa dunia mwezi na jua kuwa kwenye mstari ulionyookaSYZYGAL SYZYGIAL adj").
+entry(ta, n, [tas], "maelezo ya shukrani").
+entry(tab, v, [tabbed,tabbing,tabs], "kuita au kuainisha").
+entry(duduvue, n, [duduvue], "mdudu anayesuck damu").
+kiingilio(tabard, n, [tabards], "vazi la nje lisilo mikonoTABARDED sifo").
+entry(tabaret, n, [tabarets], "kitambaa cha hariri").
+entry(tabbed, past, [], "kiwakilishi cha tab").
+entry(tabbing, n, [tabbings], "matumizi ya kitufe cha tab kwenye kibodi").
+entry(tabbis, n, [matabbis], "kitambaa cha hariri").
+entry(tabby, v, [tabbied,tabbying,tabbies], "kutoa mwonekano wa mawimbi kwa").
+ingizo(taber, k, [tabered, tabering, tabers], "kutambori").
+entry(tabes, n, [tabes], "ugonjwa wa kaswida").
+ingizo(tabetiki, n, [tabetiki], "mmoja aliyeathiriwa na tabes").
+entry(tabid, kiv, [], "imeathiriwa na tabes").
+kiingilio(meza, ya, [ngoma], "ngoma ndogo").
+entry(meza, v, [imewekwa, kuandikishwa, meza], "kuweka kwenye meza kipande cha fanicha chenye uso wa juu tambarare").
+entry(jedwali, n, [majadwali], "au MAPICHA picha").
+ingizo(mwipakameza, n, [mwipakameza], "au MWIPA-KAMEZA kwa kiasi meza inaweza kushikilia").
+entry(kibao, v, [vikaanga,vikaanga,vibao], "au KIBAO KIKAANGA VIKABA kuandika juu ya uso mdogo wa gorofa").
+entry(meza, n, [meza], "sehemu ya juu ya meza").
+entry(tabling, n, [tablings], "uwekaji wa data au habari katika safu za jedwali").
+entry(tabloid, n, [mataboli], "gazeti dogo").
+ingizo(taboo, k, [imekatazwa, inakataza, inakataza], "kutengwa na matumizi, kufikia au kutajwa").
+ingizo(tabooley, n, [tabooleys], "tabouli").
+ingizo(tamburi, v, [tamburiz, kutamburi, matamburi], "kupiga ngoma ndogo").
+entry(mtawashira, n, [watashiri], "anayepiga tabori").
+entry(taboret, n, [mataboreti], "ngoma ndogo").
+entry(taborin, n, [taborins], "taborine").
+entry(taborini, n, [matarobini], "kipande cha samani").
+entry(tabouleh, n, [mataboulehs], "tabouli").
+entry(tabouli, n, [taboulis], "saladi ya Kilebanoni inayojumuisha ngano ya bulgur nyanya giligilani vitunguu na mnanaa").
+kiingilio(tabour, k, [taboured, tabouring, tabours], "kupiga ngoma ya tabor").
+entry(mtumbuaji, n, [watumbuaji], "mtumbuaji").
+entry(tabouret, n, [taboureti], "kiti cha kupakana").
+entry(tabu, v, [tabued,tabuing,tabus], "kutoa mwiko").
+entry(tabulari, kivumishi, [], "kuhusu au inayohusu orodha").
+entry(panga_karatasi, v, [imepangwa_karatasi, kupanga_karatasi, hupanga_karatasi], "kupanga katika orodha").
+entry(tabuli, n, [tabulis], "tabouli").
+kiingilio(tabun, n, [tabuni], "kiwanja cha kemikali").
+entry(tacan, n, [tacans], "mfumo wa uabiri kwa ndege").
+entry(tace, n, [taces], "tasset").
+entry(tacet, v, [], "kuwa kimya  inayotumiwa kama mwongozo wa muziki").
+entry(tach, n, [tachs], "kifaa cha kuonyesha kasi ya mzunguko").
+entry(tache, n, [taches], "kiatu au kipande cha kufunga").
+entry(tachinid, n, [tachinids], "angana ya kijivu").
+entry(tachism, n, [tachisms], "mchoro wa vitendo").
+entry(tachisme, n, [utachisme], "utachisme").
+entry(tachist, n, [tachists], "mpakaji wa vitendo").
+entry(tachiste, n, [tachistes], "tachist").
+ingizo(tachyon, n, [tachyons], "chembe ndogo ya kinadharia").
+entry(kimya, kivumishi, [], "isiyosemwaTACITLY kivumishi").
+ingizo(taciturn, kivumishi, [], "kimya kwa mazoea").
+entry(tack, v, [tacked,tacking,tacks], "kufunga na misumari mifupi yenye ncha kali").
+ingizo(takia, n, [taki], "mmoja anayeunganisha").
+entry(tacket, n, [tackets], "mguu wa chuma").
+entry(tackey, kivumishi, [], "TACKIER TACKIESTtacky").
+entry(tackier, kulinganisha, [], "ya kunata").
+ingizaji(tackiest, superlative, [], "ya tacky").
+entry(wekatakatifu, v, [imekatakatika, inakatakatika, inakatakatika], "kufanya kunasa").
+kuingiza(tackily, kiv, [], "kwa namna isiyo na ladha").
+entry(kukabili, k, [alikabili, anakabili, wanakabili], "kunyakua na kuangusha chini").
+entry(takala, n, [watakala], "anayetamka").
+entry(tackless, kiv, [], "kukosa misumari").
+ingizo(kushughulikia, n, [kushughulikias], "vifaa").
+ingi(tacky, kiv, [], "TACKIER TACKIESTadhesive").
+entry(kifundo, n, [vifundo], "kiwango cha mawasiliano kati ya mikondo miwili").
+kiingilio(taco, n, [tacos], "tortilla iliyokunjwa kuzunguka nadhal").
+entry(takonaiti, n, [takonaiti], "madini ya chuma yenye kiwango cha chini").
+entry(tacrine, n, [tacrines], "dawa ya kutibu ugonjwa wa Alzheimers").
+entry(ustadi, n, [ustadi], "ujuzi wa kushughulikia hali nyeti").
+entry(mwenye_busara, adj, [], "kuwa na busara").
+kiingizo(mbinu, n, [mbinu], "njia ya kufikia lengoMBINU ya kivita adj").
+entry(tactile, kiv, [], "kuhusu hisi ya kugusa").
+kiingilio(kitendo, n, [vitendo], "kitendo cha kugusa").
+ingia(sio-na-hisia, kiv, [], "kukosa busara").
+kiingizo(mguso, kiv, [], "tactile").
+entry(tad, n, [tads], "mvulana mdogo").
+ingia(kiboko, n, [viboko], "lava wa majimaji wa amfibia").
+ingizo(tae, maandalizi, [], "kwa").
+entry(tael, n, [taels], "kipimo cha uzito cha Kichina").
+entry(kifundo, n, [vifundo], "au KIFUNDO minyoo").
+entry(taenite, n, [vito vya taenite], "aloi ya nikeli-chuma katika kimondo").
+entry(taffarel, n, [taffarels], "taffrail").
+entry(tafferel, n, [tafferels], "tafreli").
+kiingilio(tafta, n, [taftas], "kitambaa kinachong'aa").
+entry(taffia, n, [mataffia], "tafia").
+entry(taffrail, n, [taffrails], "reli karibu na mkia wa meli").
+entry(taffy, n, [taffi], "peremende ngumu inayotafunika").
+entry(tafia, n, [tafias], "rummu duni").
+kiingilio(tag, v, [tagged, tagging, tags], "kutoa na tagi kama alama ya utambulisho").
+ingia(tagalong, n, [tagalongs], "mmoja anayemfuata mwingine").
+ingia(tagboard, n, [tagboards], "nyenzo ya kutengeneza vitambulisho vya usafirishaji").
+entry(tagetes, n, [tagetes], "mmea unaochanua").
+entry(taggant, n, [vizalishi], "kiambato kinachoongezwa kwenye bidhaa kuonyesha mahali kilipotengenezwa").
+entry(imewekewa, wakati_uliopita, [], "hali ya lebo").
+ingia(mwekaji_lebo, n, [wawekaji_lebo], "moja anayoweka lebo").
+entry(tagging, sasa, [], "kitenzi kishiriki cha tag").
+entry(tajini, n, [majini], "tajine").
+entry(taglike, adj, [], "inayofanana na tagi").
+kiingilio(tagline, n, [mistari_ya_mwisho], "mstari wa mwisho wa mchezo au mzaha unaoelezea hoja").
+entry(tagmeme, n, [tagmemes], "kitengo kidogo zaidi cha uhusiano wa kisarufi wa maana").
+kiingilio(tagmemic, adj, [], "kuhusu sarufi ambayo tagmeme ni kitengo cha msingi").
+entry(tagrag, n, [tagrags], "wahuni").
+entry(tahina, n, [tahinas], "tahini").
+entry(tahini, n, [tahinis], "kibandiko cha mbegu za ufuta").
+entry(tahr, n, [tahrs], "mnyama anayefanana na mbuzi").
+entry(tahsil, n, [tahsils], "wilaya nchini India").
+entry(taiga, n, [taigas], "msitu wa kudumu wa kijani wa subarctic").
+entry(teiglach, n, [teiglach], "teiglach").
+entry(taiko, n, [taikos], "ngoma ya Kijapani yenye umbo la pipa").
+kiingilio(mkia, v, [mkiwa,mkiaz,mikia], "kuweka mkia sehemu ya nyuma").
+kiingilio(tailback, n, [tailbacks], "mwanachama wa uwanjani katika baadhi ya muundo wa kandanda").
+ingizo(mwisho_wa_mkia, n, [misho_ya_mkia], "fupanyonga").
+kiingilio(suruali_ya_mkia, n, [suruali_za_mkia], "koti la mwanaume").
+ingia(tailer, n, [wafuatiliaji], "anayemfuata mwingine kwa siri").
+ingizo(mkiaumeme, n, [mikiaumeme], "kiungo cha kuogelea chenye umbo la shabiki mwishoni mwa baadhi ya crustaceans").
+entry(mkia_samaki, n, [mikiasamaki], "mkia ulioko mwishoni mwa samaki").
+entry(tailgate, v, [tailgated,tailgating,tailgates], "kuendesha kwa hatari karibu nyuma ya gari lingine").
+entry(ndege, n, [ndege], "ndoano inayoshushwa kutoka mkiani mwa ndege kushika kamba ya breki").
+entry(tailing, n, [tailings], "sehemu ya jiwe au tofali linaloingia kwenye ukuta").
+entry(taa_ya_mkia, n, [taa_za_mkia], "taa iliyo nyuma ya gari").
+entry(taille, n, [tailles], "kodi ya zamani ya Ufaransa").
+entry(siye_mkia, kivumishi, [], "hana mkia").
+entry(tailleur, n, [tailleurs], "suti ya mwanamke iliyoshonwa kwa umahiri").
+entry(taillike, kivumishi, [], "inafanana na mkia").
+entry(fundi_cherehani, v, [imepimwa, kushona, mafundi_cherehani], "kupima na nguo").
+ingizo(tailpipe, n, [tailpipes], "mfereji wa moshi").
+entry(tailrace, n, [tailraces], "sehemu ya mkondo wa kinu").
+entry(tailskid, n, [tailskids], "msaada ambao mkia wa ndege unategemea").
+kiingilio(kuangukia, k, [ilianguka, inaanguka, zinaangukia], "kuzunguka kuelekea chini duniani").
+entry(upepo_kanza, n, [upepo_kanza], "upepo unaotoka nyuma ya gari linalosonga").
+kiingilio(tain, n, [tains], "bamba nyembamba").
+entry(taint, v, [tainted,tainting,taints], "kugusa au kuathiri kiasi na kitu kibaya").
+entry(taipan, n, [taipans], "nyoka mwenye sumu").
+kiingilio(taj, n, [tajes], "kofia ndefu yenye umbo la koni inayovaliwa katika nchi za Kiislamu").
+entry(tajine, n, [tajines], "chungu cha kupikia cha udongo cha Moroko").
+entry(taka, n, [takas], "kitengo cha fedha cha Bangladesh").
+entry(takahe, n, [takahes], "ndege asiye na uwezo wa kuruka").
+entry(chukua, v, [lichukua, chukuliwa, kuchukua], "CHUKUA kupata milki yaCHUKULIKA CHUKULIKA adj").
+entry(takeaway, n, [takeaways], "chakula kilichoandaliwa kuondolewa mahali kinapouzwa").
+entry(kuondoa, n, [kuondolea], "kifaa kinachoweza kuondolewa kwa urahisi").
+entry(kupaa, n, [mapaa], "kitendo cha kupaa angani").
+entry(kutoa, n, [kutoa], "kitendo cha kuondoa").
+entry(kuchukua_madaraka, n, [uchukuaji_madaraka], "kitendo cha kuchukua udhibiti").
+ingizo(mchukuaji, n, [wachukuaji], "mmoja anayechukua").
+entry(takeup, n, [takeups], "kitendo cha kuchukua kitu").
+ingizo(takin, n, [takin], "mnyama wa aina ya mbuzi").
+kiingilio(kuchukua, n, [mapato], "ukamataji").
+kiingilio(takingly, kiv, [], "kwa njia ya kuvutia").
+entry(tala, n, [talas], "mpangilio wa kimuziki wa kitamaduni nchini India").
+kiingilio(talapoin, n, [talapoins], "nyani mdogo wa Afrika").
+entry(talar, n, [matala], "joho refu").
+kiingilio(talaria, npl, [], "viatu vya mabawa vilivyovaliwa na takwimu mbalimbali za hadithi za kale").
+kiingilio(talbot, n, [matalbot], "mbwa mkubwa wa jamii iliyotoweka").
+entry(talk, v, [talcked,talcking,talcs], "au TALCED TALCING TALCSto kutibu kwa talc madini laini yenye muundo wa sabuniTALCKY TALCOSE TALCOUS TALCY kiv").
+entry(taliki, v, [talikishwa,talikisha,taliki], "kutibu kwa unga uliotengenezwa kutoka kwa taliki").
+kiingilio(hadithi, n, [hadithi], "hadithi").
+kiingilio(taleggio, n, [taleggios], "jibini laini na ya krimu").
+ingia(kipaji, n, [vipaji], "uwezo maalum wa asiliKIJANA ADJ").
+entry(taler, n, [talers], "sarafu ya zamani iliyotumika Ujerumani").
+entry(mjumbe, n, [wajumbe], "mtu aliyeitwa kujaza nafasi kwenye jury").
+entry(tali, wingi, [], "ya talus").
+entry(talion, n, [talions], "kisasi kwa kosa").
+entry(taliped, n, [talipeds], "mtu aliyeathirika na mguu wa pango").
+entry(talipes, n, [talipes], "miguu ya kidole gumba").
+entry(talipot, n, [talipots], "mtende mrefu").
+entry(talismu, n, [talisamu], "kitu kinachoaminika kuwa na nguvu za kichawi").
+kiingilio(sema, v, [alisema, kuongea, anasema], "kuwasiliana kwa kuzungumza").
+entry(talkable, kiv, [], "inaweza kuzungumziwa").
+entry(majibio, n, [majibio], "kiungo cha mawasiliano ya njia moja kati ya kibanda cha kudhibiti na studio ya kurekodi").
+entry(mzungumzaji, n, [wazungumzaji], "moja anayezungumza").
+entry(talkfest, n, [talkfests], "mazungumzo marefu").
+entry(talkie, n, [talkies], "picha inayosonga na sauti iliyosawazishwa").
+entry(kuzungumza, n, [mazungumzo], "mazungumzo").
+ingizo(talky, kiv, [], "INAYOELEKEA KUZUNGUMZA SANA").
+entry(refu, n, [marefu], "ukubwa wa nguo kwa watu warefu").
+entry(refu, adj, [], "REFU ZAIDI MREFU ZAIDIkuwa na urefu mkubwa").
+entry(kodi, v, [kodiwa,kodishwa,kodij], "kutoza ushuru").
+entry(tallboy, n, [tallboys], "kabati refu la nguo").
+kiingilio(tallied, zamani, [], "kipindi cha kuhesabu").
+entry(mkadiriaji, n, [wakadiriaji], "anayekadiria").
+entry(tallies, zipo, [], "nafsi ya 3 umoja ya kitenzi tally").
+entry(tallis, n, [tallises], "au TALITHTallitimu").
+entry(tallish, kiv, [], "refu kiasi").
+ingizo(taliti, n, [taliti], "au TALLITIM talith").
+entry(tallith, n, [talliths], "au TALLITHIMShali ya maombi ya Kiyahudi").
+entry(urefu, n, [urefu], "hali ya kuwa mrefu").
+entry(tallol, n, [tallols], "kimiminika cha resini").
+entry(tallow, v, [tallowed,tallowing,tallows], "kupaka mafuta ya mnyama mchanganyiko wa mafuta ya wanyama").
+entry(tallowy, kiv, [], "inafanana na mafuta ya taa").
+entry(tally, v, [tallied,tallying,tallies], "kuhesabu").
+entry(tallyho, v, [tallyhoed,tallyhoing,tallyhos], "au TALLYHOESkutoa kivumishi kwa mbwa wanaowinda").
+entry(mhesabu, n, [wahesabu], "mtu anayehesabu").
+kiingizo(talmudic, kiv, [], "kuhusu mwili wa sheria za kiraia na kidini za Kiyahudi").
+entry(talon, n, [makucha], "ukucha wa ndege mla nyamaTALONED kiv").
+kiingilio(talooka, n, [talookas], "taluk").
+ingizo(taluk, n, [matawalaka], "mali katika India").
+entry(taluka, n, [matalaka], "talaka").
+entry(talus, n, [taluses], "mteremko ulioundwa na mkusanyiko wa mzigo wa mawe").
+entry(talus, n, [tali], "mfupa wa mguu").
+entry(tam, n, [tams], "kofia ya Kiskoti inayobana").
+entry(kufugika, kiv, [], "uwezo wa kufugwa").
+entry(tamal, n, [matamali], "tamale").
+ingizo(tamale, n, [tamales], "chakula cha Meksiko").
+entry(tamandu, n, [tamandus], "tamandua").
+entry(tamandua, n, [tamanduas], "mpakaa wa miti").
+entry(tamarack, n, [mitamaraki], "mti wa mbao").
+kiingilio(tamarao, n, [tamaraos], "tamarau").
+ingizo(tamarau, n, [tamaraus], "nyati mdogo wa Ufilipino").
+entry(tamari, n, [tamaris], "mchuzi wa soya wa Kijapani").
+ingizo(tamarini, n, [tamarini], "tumbili wa Amerika Kusini").
+entry(mkwaju, n, [mikwa], "mti wa kitropiki").
+kuingia(mtembwe, n, [mitembwe], "kichaka kinachochipua daima").
+entry(tamasha, n, [matamasha], "burudani ya umma nchini India").
+entry(tambac, n, [tambacs], "tombaki").
+entry(tambak, n, [tambaks], "tomba").
+entry(tambala, n, [tambalas], "au MATAMBALA kitengo cha fedha cha Malawi").
+entry(tambour, v, [tamboured,tambouring,tambours], "kufuma kwenye fremu ya mbao ya mviringo").
+entry(tamboura, n, [tambouras], "tambura").
+entry(tambur, n, [matamburi], "tambura").
+entry(tambura, n, [tamburas], "chombo cha muziki chenye nyuzi").
+entry(tame, adj, [], "MPENZI MPENZIgentle au mpole").
+entry(tame, v, [tamed,taming,tames], "kufanya mwepesi").
+entry(tiifu, kivumishi, [], "tamable").
+entry(tamein, n, [tameins], "vazi linalovaliwa na wanawake wa Kiburma").
+entry(tameless, adj, [], "haiwezi kufugika").
+entry(taratibu, kiv, [], "kwa namna isiyo na ukali").
+entry(ufugaji, n, [ufugaji], "hali ya kuwa mpole").
+entry(mtiifu, n, [watiifu], "ambaye anawatia nidhamu").
+ingizo(tulivu kabisa, ulinganishi wa hali ya juu, [], "ya tulivu").
+kiingilio(ufugaji, sasa, [], "nomino tamka ya kufuga").
+entry(tamis, n, [vyakunjio], "kichujio kilichotengenezwa kwa matundu ya kitambaa").
+entry(tammie, n, [tammies], "tammy").
+entry(tammy, n, [tammies], "kitambaa cha nyuzi mchanganyiko").
+entry(tamp, v, [tamped,tamping,tamps], "kusukuma chini kwa kugonga").
+kiingilio(tampala, n, [tampalas], "mmea wa kila mwaka").
+entry(tampan, n, [tampans], "mdudu anayeng'ata").
+entry(kughushi, k, [ilighushiwa, inaghushi, zinazoghushi], "kuingilia kwa njia yenye madhara").
+entry(tamperer, n, [waharibifu], "mmoja anayeharibu").
+entry(tamping, n, [matampings], "kitendo cha kubana kwa kugonga").
+ingizo(tampion, n, [tampions], "kipande kinachoziba mdomo wa mzinga").
+entry(tamponi, v, [tamponi, tamponia, tamponi], "kuziba kwa padi ya pamba").
+entry(tan, adj, [], "TANNER TANNESTkahawia kutokana na mionzi ya jua").
+entry(tan, v, [tanned,tanning,tans], "kubadilisha ngozi kuwa ngozi ya mnyama kwa kuzamisha kwenye kemikali").
+kiingilio(tanager, n, [tanageri], "ndege mwenye rangi angavu").
+entry(magome, n, [magome], "magamba ya mti yanayotumika kama chanzo cha tanini").
+entry(tandem, n, [matandemu], "baiskeli iliyojengwa kwa wawili").
+entry(tandoor, n, [tandoors], "au TANDOORItanuri la udongo").
+entry(tandoori, n, [tandooris], "chakula kilichopikwa kwenye tandoor").
+ingizo(tang, v, [tanged,tanging,tangs], "kuongeza ladha kali").
+entry(tanga, n, [tanga], "kitengo cha fedha cha zamani cha Tajikistan").
+entry(tangelo, n, [matangelo], "tunda la machungwa").
+kiingizo(tangence, n, [tangences], "m-singizio").
+ingizo(kuuguzana, n, [kuuguzana], "hali ya kuwa katika mgusano wa moja kwa moja wa kimwili").
+entry(tangeneti, n, [mataneti], "mstari ulionyooka unaogusa mviringo katika nukta moja").
+kiingilio(mshikaji, n, [mashikaji], "kitu kinachoweza kushikika").
+entry(tangibly, adv, [], "inavyoweza kuhisiwa").
+entry(tangier, besha, [], "ya tangy").
+entry(tangiest, superlative, [], "ya tangy").
+entry(tangle, v, [tangled,tangling,tangles], "kuleta pamoja kwa fujo tata").
+entry(tangler, n, [tanglers], "kinachochanganya").
+entry(tangly, kivumishi, [], "TANGLIER TANGLIESTtangled").
+entry(tango, v, [tangoed,tangoing,tangos], "au TANGOESe kufanya dansi ya Latin Amerika").
+entry(tangram, n, [tangramu], "kitendawili cha Kichina").
+entry(chachu, kivumishi, [], "CHACHU ZAIDI CHAKALI").
+entry(mrithi, n, [warithi], "mrithi dhahiri wa mkuu wa Kiselti").
+entry(tanistry, n, [tanistries], "mfumo wa kumchagua tanist").
+entry(tangi, v, [kutangishwa, kutangisha, tangi], "kuhifadhi kwenye tangi chombo kawaida kwa vimiminika").
+ingia(tanka, n, [matanka], "aina ya shairi la Kijapani").
+entry(tankage, n, [tankages], "uwezo wa tanki").
+kiingilio(tankard, n, [tankards], "chombo kirefu cha kunywea").
+kiingilio(tanka, n, [matanka], "meli iliyoundwa kusafirisha vimiminika").
+entry(tankful, n, [tankfuls], "kiasi ambacho tanki linaweza kushikilia").
+entry(tankini, n, [matankini], "vazi la kuogelea la wanawake linalojumuisha suruali ya bikini na blauzi ya tanki").
+entry(bila_tangi, kiv, [], "haina tangi").
+entry(gari_lisilo, kivumishi, [], "linavyofanana na tanki").
+kiingilio(meli_mitambo, n, [meli_mitambo], "tangi").
+entry(tannable, kivumishi, [], "uwezo wa kugeuzwa kuwa ngozi nyororo").
+entry(mchakato_wa_utabaki_ngozi, n, [michakato_ya_utabaki_ngozi], "mchakato wa utabaki wa ngozi").
+entry(taneti, n, [taneti], "chumvi ya kemikali").
+kiingilio(kupukutika, wakati_uliopita, [], "zoezi la kupukutika").
+ingizo(tanner, n, [tanners], "mmoja anayefanya ngozi").
+ingia(kiwanda_cha_ngozi, n, [viwanda_vya_ngozi], "mahali ambapo ngozi hunyonywa").
+entry(tannest, superlative, [], "ya tan").
+kiingilio(taniki, kiv, [], "kuhusu tanini").
+entry(tanini, n, [tanini], "kiwanja cha kemikali kinachotumika katika uchakataji wa ngozi").
+entry(mchunjo, n, [michunjo], "mchakato wa kubadili ngozi kuwa ngozi ya mifugo").
+entry(tannish, adj, [], "kama rangi ya kahawia kiasi").
+ingia(tanrec, n, [tanrecs], "tenrec").
+kiingilio(tansy, n, [matansy], "mmea wa kudumu").
+entry(tantalamu, n, [matalamu], "elementi ya metaliTANTALIC kiv").
+ingia(tantalus, n, [tantaluses], "kasha la chupa za mvinyo").
+entry(tantara, n, [tantaras], "sauti ya tarumbeta au pembe").
+kiingilio(tantivy, n, [tantivies], "mlio wa uwindaji").
+kiingilio(tanto, n, [tantos], "upanga mfupi wa Kijapani").
+entry(tantra, n, [matantra], "moja ya maandiko ya kidini ya Uhindu TANTRIC adj").
+entry(tantrismu, n, [tantrismu], "shule ya Ubudha inayojumuisha vipengele vya Kihindu na kipagani").
+entry(mfuasi_wa_tantra, n, [wafuasi_wa_tantra], "mfuasi wa tani ya Tantrism").
+kiingilio(hasira, n, [hasira], "mlipuko wa ghadhabu").
+entry(tanuki, n, [tanukis], "mbwa mwitu wa rangi ya raccoon").
+entry(tanyard, n, [mateka], "sehemu ya tanuri iliyo na matangi").
+entry(tao, n, [taos], "njia ya mwenendo mwema kulingana na falsafa ya Kichina").
+entry(tap, v, [piga kwa upole, kupiga kwa upole, anapiga kwa upole], "kupiga kwa upole").
+entry(tapa, n, [tapas], "kitambaa kilichotengenezwa kutoka kwa gome la mti").
+entry(tapadera, n, [tapaderas], "sehemu ya tandiko").
+kiingilio(tapadero, n, [tapaderos], "tapadera").
+entry(tapalo, n, [tapalos], "kitambaa cha shingo kinachovaliwa katika nchi za Amerika ya Kusini").
+kiingilio(tepu, v, [teped,tepinga,tepe], "kufunga kwa tepu kipande au bendi nyembamba na ndefuTEPEANA kiv").
+entry(bila_utepe, adj, [], "kuwa bila utepe").
+entry(tapelike, kivumishi, [], "inayofanana na mkanda").
+entry(tapeline, n, [tapelines], "kipimo cha kanda kwa ajili ya kupima umbali").
+entry(tapenade, n, [tapenades], "kiolesura kilichotengenezwa na zeituni nyeusi, kapari na anchovies").
+entry(taper, v, [tapered,tapering,tapers], "kupungua polepole kuelekea ncha moja").
+entry(taperer, n, [taperers], "mmoja anayebeba mshumaa katika maandamano ya kidini").
+entry(tapestry, v, [tapestried,tapestrying,tapestries], "kushangilia kwa mapambo ya ukutani yaliyofumwa").
+entry(tapetum, n, [tapeta], "safu ya seli katika baadhi ya mimea TAPETAL kiv").
+entry(tegu, n, [tegu], "utuzi wa vimelea").
+ingizo(tundu_la_kumimina, n, [matundu_ya_kumimina], "tundu ndani ya tanuru la mlipuko").
+entry(taphouse, n, [taphouses], "kilabu").
+kiingilio(taping, n, [tapings], "kitendo au mfano wa kurekodi kitu kwenye mkanda wa sumaku").
+ingia(tapioca, n, [matapioca], "chakula cha wanga").
+entry(tapiri, n, [tapiri], "mnyama mwenye kwato").
+entry(tapis, n, [tapis], "nyenzo inayotumika kwa mapambo ya ukutani na vifuniko vya sakafu").
+entry(tapless, kiv, [], "kukosa bomba kifaa cha kusitisha mtiririko wa kioevu au gesi").
+entry(tappable, adj, [], "uwezo wa kugongwa").
+ingizo(ligusa, zamani, [], "kijisehemu cha ligusa").
+entry(mpiga, n, [wapiga], "anayepiga").
+entry(kigonga, n, [vigonga], "fimbo inayoteleza ambayo husababisha sehemu nyingine ya kifaa kusonga").
+entry(mkubaji, n, [wakubaji], "mchakato au njia ambayo kitu kinabishwa").
+entry(baa, n, [baa], "chumba cha baa").
+entry(mzizi_mkuu, n, [mizizi_mikuu], "mzizi mkuu wa mmea").
+entry(mnyweshaji, n, [wanyweshaji], "mmoja anayetoa pombe kwenye baa").
+entry(taqueria, n, [taquerias], "mgahawa unaobobea katika tako na burrito").
+entry(lami, v, [lamia, likizwalami, lami], "kufunika kwa lami kioevu cheusi na mnato").
+entry(tarabish, n, [tarabishes], "aina ya mchezo wa kadi").
+entry(tarama, n, [taramas], "pasta ya Kiyunani ya mayai ya samaki, vitunguu, juisi ya limau, na mafuta ya zeituni").
+entry(tarantas, n, [tarantases], "gari la Kirusi").
+entry(tarboosh, n, [tarbooshes], "kofia inayovaliwa na wanaume Waislamu").
+ingizo(tarbush, n, [matarbushi], "tarbuushi").
+ingizo(tardier, kulinganisha, [], "ya kuchelewa").
+entry(tardies, pl, [], "ya kuchelewa").
+entry(tardive, adj, [], "ikiwa na dalili zinazojitokeza polepole").
+entry(tardo, kiv, [], "polepole kutumika kama mwelekeo wa muziki").
+entry(tardy, adj, [], "TARDIER TARDIESTlateTARDILY kidh").
+entry(tardy, n, [spellingi], "hali ya kuchelewa").
+entry(tardyon, n, [tardyons], "chembe ndogo ya kimsingi inayosafiri polepole kuliko kasi ya mwanga").
+ingizo(tare, k, [tared, taring, tares], "kuamua uzito wa chombo kinachobeba bidhaa").
+ingizo(targa, n, [matarga], "aina ya gari la michezo lenye paa linalotoka").
+ingizo(targe, n, [targes], "ngao ndogo ya mviringo").
+entry(lengo, v, [kulengwa, kulenga, malengo], "kufanya lengo la").
+entry(tariff, v, [tariffed,tariffing,tariffs], "kutoza ushuru wa bidhaa zinazoingizwa au kusafirishwa").
+entry(taring, sasa, [], "mtangamano wa tare").
+ingizo(tarlatan, n, [tarlatan], "kitambaa cha pamba").
+ingizo(tarletan, n, [tarletans], "tarlatan").
+entry(tarmaki, v, [tarmakizishwa,tarmaki,tarmakis], "kusababisha ndege kukaa kwenye njia ya teksi").
+kiingilio(tarn, n, [matarn], "ziwa ndogo la mlima").
+entry(tarnal, kiv, [], "damnedTARNALLY kivielezi").
+entry(kupauka, k, [kupauka,kipauka,zinapauka], "kuondoa kung'aa kwa").
+ingizo(taro, n, [mitaro], "mmea wa kitropiki").
+kiingilio(taroc, n, [tarocs], "tarok").
+kiingilio(tarok, n, [taroks], "mchezo wa karata").
+entry(tarot, n, [tarots], "kadi yoyote inayotumiwa kwenye uaguzi wa bahati").
+kiingilio(tarpaulini, k, [tarpaulini], "kitambaa kinacholinda").
+entry(tarpan, n, [tarpans], "farasi wa mwituni wa Asia").
+kiingilio(tarpaper, n, [matarpapers], "karatasi nzito iliyofunikwa na lami").
+entry(samaki_tarponi, n, [tarponi], "samaki wa baharini wa mchezo").
+ingia(taragon, n, [tarragoni], "mmea wa kudumu").
+ingia(tarre, k, [tarred, tarring, tarres], "kuchochea kutenda").
+kiingilio(tarred, yaliyopita, [], "hali ya neno tar").
+kiingilio(msubiri, n, [wasubiri], "anayesubiri").
+entry(tarring, wakati_wa_sasa, [], "kiima cha tar na kukasirisha").
+entry(tarry, adj, [], "INAYOFANANA NA LAMI").
+entry(tarry, v, [tarried,tarrying,tarries], "kuelewa au kupanga kwa polepole").
+entry(tarsal, n, [tarsals], "mfupa wa mguu").
+entry(tarsi, wng, [], "ya kifundo cha mguu").
+kiingilio(tarsia, n, [tarsias], "intarsia").
+entry(kima_paka, n, [kima_paka], "mnyama anayekula usiku wa familia ya primates").
+entry(mshipa, n, [mishipa], "sehemu ya mguu").
+kiingilio(tart, kivumishi, [], "INA LADHA KALI NA CHACHU KALI ZAIDI").
+ingizoc(tart, v, [tarted, tarting, tarts], "kupamba").
+ingia(tartan, n, [matartan], "kitambaa cha sufu chenye michoro").
+entry(tartana, n, [tartanas], "meli ya kusafiria ya Mediterania").
+entry(tarti, n, [matarti], "maganda kwenye menoTARTARI adj").
+entry(tartare, adj, [], "iliyohudumiwa mbichi").
+entry(tartier, linganishi, [], "ya tarty").
+entry(tartiest, superlative, [], "ya tarty").
+entry(tartish, adj, [], "kiasi chachu").
+entry(kimandazi_kidogo, n, [vimandazi_vidogo], "keki ndogo").
+ingizo(tartly, kiv, [], "kwa namna ya ukakasi").
+entry(tartness, n, [tartnesses], "hali ya kuwa na ladha kali").
+entry(tartrate, n, [tarahtreti], "chumvi ya kemikali").
+entry(tartufe, n, [tartufes], "tartufi").
+entry(tartuffe, n, [tartuffes], "mnafiki").
+entry(tartufo, n, [tartufi], "au TARTUFOS, kitindamlo cha barafu cha Kiitaliano").
+kiingilio(tarty, kiv, [], "TARTIER TARTIESTinayopendekeza kahabaTARTILY kiv").
+entry(mimea_ya_maua, n, [mimea_ya_maua], "mmea wenye maua").
+ingia(tarzan, n, [watarzan], "mtu mwenye nguvu na wepesi wa hali ya juu").
+entry(tase, v, [tased,tasing,tases], "kupiga na bunduki inayofyatua mishale yenye umeme").
+entry(taski, v, [taskiwa,taskiza,taski], "kupeana kazi kwa").
+entry(kijia_kazi, n, [mijia_kazi], "safu ya vidhibiti vya picha kwenye skrini ya kompyuta").
+kiingilio(kazi_za_wajibu, n, [kazi_za_juhudi], "kazi ngumu").
+entry(tass, n, [tasses], "kikombe cha kunywa").
+ingia(tasse, n, [vikombe], "tasset").
+entry(tassel, v, [tasselishwa,tasselisha,tasseli], "au TASSELIWA TASSLELISHA TASSELIkupamba kwa mapambo yanayoning’inia").
+entry(tasset, n, [tassets], "kipande cha silaha ya sahani kwa paja la juu").
+entry(tassie, n, [tassies], "tasi").
+ingizo(tasso, n, [tassos], "nguruwe iliyotiwa viungo na kuponya").
+entry(ladha, v, [ladha, ladha, ladha], "kuhisi ladha kwa kuingiza kinywani LADHA adj").
+entry(kitamu, kiv, [], "ladha").
+entry(mwonja, n, [wawonja], "moja anayenonja").
+entry(kutambua, n, [kutambuaji], "mkusanyiko wa kuonja mivinyo au vyakula").
+entry(tamu, kiv, [], "TAMU ZAIDI TAMU ZAIDIPLEASANT KWA LADHAKWA UTAMU adv").
+entry(tat, v, [tatted,tatting,tats], "kutengeneza tatting").
+entry(tatami, n, [tatamis], "matt ya majani inayotumika kama kifuniko cha sakafu").
+entry(tatar, n, [watatari], "mtu katili").
+ingizo(tate, n, [tates], "kishungi cha nywele").
+entry(tater, n, [viazi], "kiazi").
+entry(tathata, n, [tathatas], "hali halisi ya mwisho ya vitu vyote katika Ubudha").
+entry(tatouay, n, [tatouays], "mnyama wa kusini mwa Amerika mwenye magamba").
+entry(tatsoi, n, [tatsois], "haradali ya Asia").
+entry(tatted, past, [], "kauli ya tenzi ya tat").
+entry(tatter, v, [tattered,tattering,tatters], "kuchanika na kuwa chakavu").
+entry(tikiti, n, [vitikiti], "kiazi").
+entry(tattier, kulinganisha, [], "ya tatty").
+entry(tattiest, kipeo, [], "ya tatty").
+entry(kwa_uchakavu, kielezi, [], "kwa namna ya uchakavu").
+entry(tatting, n, [tattings], "ufumaji wa lace maridadi kwa mkono").
+entry(kumshtaki, v, [alikishtaki,anakishtaki,kishitaki], "kufichua shughuli za mwingine").
+kiingilio(tattler, n, [watattler], "ambaye anatoa siri").
+entry(tatoo, k, [tatooedha, kutatokoa, matatoo], "kuweka alama kwenye ngozi kwa rangi zisizofutika").
+entry(mpigaji_kidato, n, [wapigaji_kidato], "mmoja anayepiga kidato").
+entry(bovu, kielezi, [], "BOVU ZAIDI ZIOVU mbovu").
+kiingizio(tau, n, [taus], "herufi ya Kigiriki").
+entry(ulifundishwa, past, [], "tense of teach").
+entry(mdhihaki, v, [alihidhaki,anadhihaki,anadhihaki], "kutoa changamoto au kuwalaumu kwa dhihaka").
+kiingilio(mkejeli, n, [wakejeli], "yule anayekejeli").
+entry(tauon, n, [tauons], "leptoni isiyo imara").
+entry(taupe, n, [taupe], "rangi ya kijivu iliyokolea").
+entry(taurine, n, [taurines], "kiwanja cha kemikali").
+entry(taut, adj, [], "IMEVUTWA KIKAMILI HADI KUTOKUWA NA UHENGE").
+ingia(taut, v, [tauted,tauting,tauts], "kutatanisha").
+entry(tautaug, n, [tautaugs], "tautog").
+entry(tauten, k, [tautened, tautening, tautens], "kufanya kuwa laini").
+entry(tautly, kiv, [], "kwa njia yenye mvutano").
+entry(tension, n, [tensions], "hali ya kuwa kikaza").
+entry(tautog, n, [tautogs], "samaki wa baharini").
+entry(tautomer, n, [tautomers], "aina ya kiwanja cha kemikali").
+ingia(tautonym, n, [tautonyms], "aina ya mteule wa taksonomia").
+entry(tav, n, [tavs], "herufi ya Kiebrania").
+entry(taverna, n, [vibanda vya vileo], "mahali ambapo pombe huuzwa kwa kunywewa hapo").
+entry(taverna, n, [mataverna], "kahawa nchini Ugiriki").
+entry(mwenda-hoteli, n, [wenda-hoteli], "mwenye kuendesha hoteli").
+entry(taw, v, [tawed,tawing,taws], "kubadilisha kuwa ngozi nyeupe kwa matumizi ya madini").
+entry(tawdry, adj, [], "TAWDRIER TAWDRIESTya kuvutiaTAWDRILY kivumishi").
+kiingilio(fedheha, n, [fedheha], "pambo la kupita kiasi").
+entry(tawer, n, [tawers], "anayetaw").
+kiingilio(tawie, kivumishi, [], "mwenye unyenyekevu").
+ingizo(tawney, n, [tawneys], "tawny").
+entry(tawny, adj, [], "TAWNIER TAWNIESTrangi ya samawati hafifuTAWNILY adv").
+entry(tawny, n, [tawnies], "rangi ya kahawia nyepesi").
+entry(tawpie, n, [tawpies], "kijana mpumbavu").
+entry(tawse, v, [tawsed,tawsing,tawses], "kupiga kwa mjeledi").
+entry(kodi, v, [kutozwa, kutotoza, kodi], "kutoza ada iliyoamriwa na mamlaka kwa madhumuni ya umma").
+entry(taxa, a, [], "wingi wa taxon").
+entry(kodi, kivumishi, [], "inahusika na ushuruADV kivumulifu").
+entry(kodi, n, [vitu_vya_kodi], "kitu kinachotozwa kodi").
+entry(ushuru, n, [ushuru], "mchakato wa kutoza kodi").
+kiingizio(kielelezo, n, [vielelezo], "kipengele cha chini kabisa cha kisarufi cha uteuziKIENDESHI cha TAXEMIC adj").
+entry(mtozaji, n, [watozaji], "mmoja anayetoza").
+entry(teksi, v, [], "TEKESHA KUTEKESHA au TEKESHA TEKSI au TEKESIto travel in a taxicab").
+kipengele(taksi, n, [taksi], "gari la kukodi").
+entry(mwendataxi, n, [watu wa taxi], "mwendeshaji wa teksi").
+entry(kwa_kusumbua, kiv, [], "katika njia yenye uzito").
+kiingilio(taxite, n, [taxites], "mwamba wa volkenoTAXITIC kivumishi").
+kuingia(njia_ya_kutua, n, [njia_za_kutua], "mkondo wa lami katika uwanja wa ndege").
+entry(bila_kodi, kiv, [], "huru kutokana na ushuru").
+entry(mkusanya_ushuru, n, [wakusanya_ushuru], "anayekusanya ushuru").
+entry(taxol, n, [taxols], "dawa kutoka kwenye mti wa mvinje").
+entry(taxon, n, [taxons], "au TAXA kitengo cha uainishaji wa kisayansi").
+kiingilio(taksonomia, n, [taksonomia], "usomeji wa uainishaji wa kisayansi").
+entry(taxpaid, kiv, [], "lilipwa na kodi").
+entry(mlipakodi, n, [walipakodi], "anayelipa kodi").
+ingizo(taxus, n, [taxus], "mti au kichaka cha kijani kibichi wakati wote").
+entry(taxwise, kiv, [], "kuhusu kodi").
+kiingilio(taxying, a, [], "kitenzi cha sasa cha taxi").
+entry(tayberry, n, [matayberry], "tunda jekundu giza ambalo ni mchanganyiko wa blackberry na raspberry").
+entry(tayra, n, [tayras], "mamalia mkubwa wa Amerika ya Kati na Kusini").
+ingia(tazza, n, [tazzas], "au TAZZE chombo cha kupamba").
+ingizo(te, n, [tes], "ti").
+entry(chai, n, [chai], "kinywaji kinachotengenezwa kwa kuingiza majani makavu kwenye maji yanayochemka").
+entry(teaberry, n, [mateaberries], "kichaka cha Amerika Kaskazini").
+entry(teaboard, n, [teaboards], "sinia ya kutolea chai").
+entry(kikombe_cha_chai, n, [vikombe_cha_chai], "kikombe cha chai kisicho na mpini").
+ingizo(teabox, n, [maboksi ya chai], "kiboksi cha majani ya chai").
+entry(keki_cha_chai, n, [keki_za_chai], "keki ndogo inayotolewa na chai").
+entry(teacart, n, [teacarts], "meza yenye magurudumu inayotumika katika kuhudumia chai").
+entry(fundisha, k, [fundisha, kufundisha, hufundisha], "kutoa maarifa au ujuzi kwa").
+entry(mwalimu, n, [walimu], "anaye fundisha").
+entry(ufundishaji, n, [mafundisho], "fundisho").
+entry(kikombe_cha_chai, n, [vikombe_vya_chai], "kikombe ambacho chai huhudumiwa").
+entry(mkahawa_na_chai, n, [mamahawa_na_chai], "eneo la umma linalotoa chai").
+entry(mteaki, n, [miteaki], "mti wa Hindi ya Mashariki").
+entry(mti_mwambao, n, [miti_mwambao], "mbao ya mti mwambao").
+ingizo(kweleakwele, n, [kweleakwele], "bata wa mtoni").
+entry(tealike, kiv, [], "kinachofanana na chai").
+entry(timu, v, [timuzwa,timuunguza,timu], "kuunda timu, kundi la watu wanaohusishwa katika kitendo cha pamoja").
+entry(teamaker, n, [watengeneza_chai], "mmoja anayefanya chai").
+entry(mchezaji_mwenza, n, [wachezaji_wenza], "mwanachama wa timu moja").
+ingizo(mwendesha_gari, nomino, [wendesha_gari], "dereva wa lori").
+entry(kazi_ya_ushirikiano, n, [kazi_za_ushirikiano], "juhudi ya pamoja kufikia lengo la pamoja").
+ingizo(kettle, n, [majiketteli], "chombo kinachotumika kutengeneza na kunywesha chai").
+entry(meza_ya_chai, n, [meza_za_chai], "meza ndogo inayotumika katika kuhudumia chai").
+entry(kutoa_machozi, k, [alitokwa_na_machozi,anatokwa_na_machozi,anatoka_na_machozi], "kutoa machozi matone ya kimiminika yenye chumvi iliyotolewa na tezi ya jicho").
+entry(kukata, v, [katika,katwa,kukata], "KUKATAkuvuta mbali au vipandeKUKATABIKA kiv").
+entry(mtovu, n, [watu waliotovu], "mtu mwenye ukaidi").
+entry(teardown, n, [teardowns], "mchakato wa kuvunja").
+entry(machozi, n, [machozi], "chozi").
+entry(mraruaji, n, [mraruaji], "mmoja ambaye anararuwa au kupasua").
+entry(machozi, kivumishi, [], "amejaa machozi").
+entry(teargas, v, [teargassed,teargassing,teargases], "au TEARGASSESkunyunyizia gesi inayokereketa macho").
+entry(machozi zaidi, kulinganisha, [], "ya machozi").
+entry(teariest, ya hali ya juu, [], "ya machozi").
+entry(tearily, kiv, [], "kwa namna ya machozi").
+entry(bila_machozi, kivumishi, [], "kuwa bila machozi").
+entry(tearlike, kivumishi, [], "inayofanana na chozi").
+entry(chumba_cha_chai, n, [vyumba_vya_chai], "mgahawa unaohudumia chai").
+entry(teary, adj, [], "YA KUTOA MACHOZI YA KUTOA MACHOZI ZAIDI").
+entry(kutania, v, [kutaniwa,kucheka,kutania], "kufanya mzaha waKUCHEKELEWA kiv").
+entry(teasel, v, [teaseled,teaseling,teasels], "au TEASELLED TEASELLING TEASELskiinua uso laini kwenye kitambaa na kichwa cha maua chenye miiba").
+entry(teaseler, n, [teaselers], "kinyoo").
+entry(teaser, n, [vitangazo], "mmoja anayechokoza").
+ingizo(duka_la_cha, n, [maduka_cha], "chumba cha chai").
+ingizo(kuchokoza, wakati_wa_sasa, [], "kitenzi cha kuchokoza").
+entry(kijiko_cha_chai, n, [vijiko_vya_chai], "kijiko kidogo").
+entry('tezi la maziwa', n, ['matezi ya maziwa'], "tezi la maziwaTEATED kiv").
+entry(teatime, n, [teatimes], "wakati wa kawaida wa chai").
+entry(teaware, n, [vifaa_vya_chai], "huduma ya chai").
+ingizo(teazel, v, [teazeled, teazeling, teazels], "au TEAZELLED TEAZELLING TEAZELSto teasel").
+entry(teazle, v, [teazled,teazling,teazles], "kuchana").
+kiingilio(tec, n, [tec], "tech").
+entry(tech, n, [techs], "mtaalamu wa ufundi").
+ingia(teched, kiv, [], "mwenda wazimu").
+ingizo(mtaalamu, n, [wataalamu], "fundi").
+entry(technic, n, [mienendo], "mbinu").
+entry(techno, n, [technos], "aina ya muziki wa disko").
+entry(technoid, n, [technoids], "mtaalamu wa kiufundi").
+kiingilio(techy, kivumishi, [], "TECHIER TECHIESTtetchyTECHILY kivielezi").
+entry(tecta, a, [], "wingi wa tectum").
+entry(tectal, kiv, [], "kuhusu tectum").
+entry(tectite, n, [tektiti], "tektite").
+entry(tectonic, kivumishi, [], "kuhusu ujenzi").
+entry(tectrix, n, [tectrices], "unyoa mdogo wa bawa la ndege").
+entry(tectum, n, [ma-tectum], "au TECTAa muundo kama paa").
+ingizo(ted, v, [tedded,tedding,teds], "kueneza kwa kukausha").
+entry(tedder, v, [teddered,teddering,tedders], "kusimanga nyasi kwa mashine").
+ingizo(teddy, n, [teddies], "nguo ya ndani ya mwanamke").
+ingizo(kuchosha, kiv, [], "kusababisha uchovu").
+entry(uchovu, n, [uchovu], "hali ya kuwa na uchovu").
+entry(tee, v, [teed,teeing,tees], "kuweka mpira wa gofu juu ya peg ndogo").
+entry(teel, n, [teels], "ufuta").
+entry(teem, v, [teemed, teeming, teems], "kujaa kupita kiasi").
+entry(teemer, n, [wateemaji], "mmoja ambaye anamwaga").
+entry(kijana, n, [vijana], "kijana").
+entry(balehe, kiv, [], "kuhusiana na vijana").
+entry(kijana, kivumishi, [], "kijana").
+entry(kijana, n, [vijana], "mtu aliye katika umri wa miaka kumi na tatu hadi kumi na tisa").
+ingia(ujanani, n, [ujanani], "vijana kwa ujumla").
+ingia(teener, n, [vijana], "kijana").
+entry(teenful, kiv, [], "imejaa huzuni").
+entry(teensy, adj, [], "NDOGO NDOGONDOGOKABISAtiny").
+entry(teentsy, kiv, [], "TEENTSIER TEENTSIESTndogo").
+entry(teeny, kiv, [], "TEENIER TEENIESTtiny").
+entry(teenybop, adj, [], "kuhusu kijana mdogo").
+entry(teepee, n, [teepees], "tepee").
+entry(teeter, k, [teetered, teetering, teeters], "kuhama kwa kutetereka").
+entry(meno, pl, [], "ya jino").
+entry(teethe, k, [kutokeza meno, mchakato wa kutokeza meno, anatokeza meno], "kukata meno").
+entry(teether, n, [vishikio], "kifaa ambacho mtoto huuma anapokuwa anakua meno").
+entry(kuota_meno, n, [kuota_meno], "ukuaji wa kwanza wa meno").
+entry(teetotal, v, [teetotaled,teetotaling,teetotals], "au TEETOTALLED TEETOTALLING TEETOTALSkukataa kabisa vinywaji vya pombe").
+entry(kipindupindu, n, [vipindupindu], "kijichocheo cha kuzungushwa").
+entry(teff, n, [teffs], "nyasi ya nafaka").
+entry(tefillin, npl, [], "vifaa vya kutumika katika maombi vinavyovaliwa na Wayahudi").
+entry(teg, n, [tegs], "tegg").
+entry(tegg, n, [teggs], "kondo katika mwaka wake wa pili").
+entry(tegmen, n, [tegmina], "kifuniko").
+entry(tegmenta, npl, [], "mifuniko ya anatomia").
+entry(tegminal, kivumishi, [], "kuhusu tegmeni").
+entry(tegu, n, [tegus], "mjusi mkubwa wa Amerika Kusini").
+kiingilio(tegua, n, [teguas], "aina ya mokasini").
+entry(tegula, n, [tegulae], "tofali bapa la paa lililotumika Roma ya Kale").
+entry(tegulari, kiv, [], "inayofanana na sakafu").
+entry(tegumen, n, [tegumina], "tegmen").
+entry(ngozi, n, [ngozi], "mfunika").
+entry(teiglach, n, [teiglach], "kitindamlo kinachojumuisha mipira ya donge iliyochemshwa kwenye asali").
+ingizo(teiid, n, [teiids], "mjusi wa kitropiki wa Amerika").
+entry(tein, n, [teins], "kitengo cha fedha cha Kazakhstan").
+entry(teind, n, [teinds], "zaka").
+entry(tekkie, n, [tekkies], "mtaalam wa teknolojia").
+entry(tektite, n, [ma-tekta], "mwili wa kioo unaoaminika kuwa na asili ya kimeteaURE ADJ").
+entry(tel, n, [tels], "kirundo cha kale katika Mashariki ya Kati").
+kiingilio(tela, n, [telae], "tishu ya kimaumbile").
+kiingilio(telamon, n, [telamones], "kiumbe wa kiume anayatumika kama nguzo ya msaada").
+entry(telco, n, [makampuni ya simu], "kampuni ya mawasiliano").
+entry(tele, n, [teles], "runinga").
+entry(utangazaji, v, [ulitangaza,ukitangaza,utangaza], "kutangaza kupitia runinga").
+ingizo(telecine, n, [telecines], "utangazaji wa filamu kwenye runinga").
+entry(telecom, n, [telekomi], "mawasiliano ya simu").
+entry(mawasiliano, n, [mawasiliano_ya_sim], "mawasiliano ya simu").
+entry(teledu, n, [teledus], "mnyama mla nyama").
+entry(telefaksi, v, [telefaksiwa, telefaksi, telefaksi], "kutuma vifaa vya picha kupitia mistari ya simu").
+entry(filamu_ya_runinga, n, [filamu_zinazotengenezwa_kwa_ajili_ya_runinga], "picha inayotengenezwa kwa ajili ya runinga").
+entry(telega, n, [telegas], "gari la Kirusi").
+entry(telegonia, n, [telegonia], "athari inayodhaniwa ya baba wa awali kwenye kizazi cha mimba za baadaye za mama na wanaume wengine").
+entry(telegram, v, [telegrammed,telegramming,telegrams], "kutuma ujumbe kwa telegraph").
+entry(teleman, n, [telemen], "afisa wa majini").
+entry(telemark, n, [telemarks], "aina ya mgeuko katika kuteleza kwa ski").
+entry(samaki_ambao, n, [samaki_wa_visukuku], "samaki wenye mifupa").
+entry(mwasiliaji_kimawazo, n, [wawasiliaji_kimawazo], "mmoja anayeweza kuwasiliana na mwingine kwa njia nyingine zaidi ya hisia").
+kiingilio(televisheni, n, [televisheni], "tamthilia iliyoandikwa kwa ajili ya televisheni").
+entry(teleport, v, [teleported,teleporting,teleports], "kusafirisha kwa mchakato ambao hauhusishi njia za kimwili").
+entry(teleran, n, [telerans], "mfumo wa urambazaji wa anga").
+kuingiza(teleshop, v, [kuteleshop, ununuzi_wakitandao, vinunuzi_vya_kiteleshop], "kununua kupitia mifumo ya mawasiliano ya kielektroniki").
+entry(telesis, n, [teleses], "maendeleo yaliyopangwa").
+ingia(telestic, n, [telestiki], "aina ya akrostiki").
+entry(teletext, n, [teletexts], "mfumo wa mawasiliano ambao maandishi yanatangazwa kwa wanachama").
+entry(matangazo_ya_televisheni_ya_uchangishaji_fedha, n, [matangazo_ya_televisheni_za_uchangishaji_fedha], "mpango wa televisheni wa kuchangisha fedha").
+entry(teletype, v, [teletyped,teletyping,teletypes], "kutuma kwa mashine ya teletypewriter").
+entry(teleview, v, [televiewed,televiewing,televiews], "kutazama kwa njia ya runinga").
+entry(rusha_kwa_televisheni, v, [ilirushwa_kwa_televisheni, kurusha_kwa_televisheni, hurusha_kwa_televisheni], "kutangaza kwa televisheni mfumo wa kielektroniki wa kusambaza picha na sauti").
+entry(kufanyia_kazi_nyumbani, v, [alifanyia_kazi_nyumbani,akifanyia_kazi_nyumbani,anafanyia_kazi_nyumbani], "kufanya kazi nyumbani kwa kutumia uunganisho wa kielektroniki na ofisi kuu").
+entry(telex, v, [telexed, telexing, telexes], "kutuma ujumbe kwa aina ya mfumo wa telegrafia").
+entry(telfer, v, [telfered,telfering,telfers], "kupiga simu").
+entry(telford, n, [telfords], "barabara iliyotengenezwa kwa mawe").
+kiingilio(telial, kivumishi, [], "kuhusu telium").
+entry(telic, adj, [], "ilenga lengo").
+entry(telicity, n, [telicities], "uwezo wa kuwa na mwelekeo wa kumalizika").
+entry(telium, n, [telia], "sorus kwenye mmea mwenyeji wa kuvu ya kutu").
+ingia(sema, k, [alisema, akisema, anasema], "kutoa maelezo ya kina yaSEMEKA kiv").
+entry(mwambaji, n, [waambaji], "mmoja ambaye anaeleza").
+ingia(televisheni, a, [], "wingi wa televisheni").
+entry(kisemi, n, [visema], "msemaji").
+entry(telluric, kiv, [], "kuhusu ardhi").
+kiingilio(telly, n, [tellys], "au TELLIESa televisheni").
+entry(telnet, v, [telnettiwa,telnetiana,telneti], "au TELNETED TELNETING TELNETS kufikia akaunti kupitia Intaneti kwa kutumia utaratibu sahihi").
+kiingilio(telome, n, [telomes], "kitengo cha muundo wa mmea wa mishipaTELOMIC kivumishi").
+entry(telomere, n, [telomeres], "mwisho wa asili wa kromosomu").
+kiingilio(telos, n, [malengo], "mwisho wa mwisho").
+entry(telpher, v, [telphered,telphering,telphers], "kusafirisha kwa mfumo wa magari ya kamba za anga").
+entry(telson, n, [telsons], "kipande cha mwisho cha arithropodiTELSONIC kivumishi").
+ingizo(mtikisiko, n, [mitikisiko], "au MTIKISIKOMtetemeko wa ardhi").
+entry(ujasiri_kipumbavu, n, [ujasiri_kipumbavu], "ubadhirifu wa kijinga").
+ingia(temp, v, [temped,temping,temps], "kufanya kazi kama mfanyakazi wa muda").
+entry(tempeh, n, [tempehs], "chakula cha Asia").
+entry(joto, k, [ilipunguza,kipunguza,lipunguza], "kupunguza kwa kuongeza wakala wa kuweka usawa").
+entry(tempera, n, [temperas], "mbinu ya uchoraji").
+entry(mpatanishi, n, [wapatanishi], "mmoja anayepatanisha").
+entry(kimbunga, v, [kimbungaed,kimbungaising,kimbungas], "kuvuruga kwa nguvu").
+kiingilio(tempi, a, [], "wingi wa tempo").
+entry(templar, n, [watemplari], "wakili au mwanafunzi wa sheria huko London").
+ingizo(template, n, [templates], "mfano unaotumika kama mwongozo katika kutengeneza kitu").
+entry(hekalu, n, [mahekalu], "nyumba ya ibadaTEMPLED kivumishi").
+entry(kiolezo, n, [violezo], "kiolezo").
+entry(kipindi, n, [vipindi], "au KIPINDI kiwango cha kasi ya kipande cha muziki").
+entry(temporal, n, [temporals], "mfupa wa fuvu").
+ingia(tempt, v, [tempted,tempting,tempts], "kushawishi kutenda kitendo kisicho na busara au kisicho na maadili").
+kiingilio(kishawishi, n, [vishawishi], "aliye na kushawishi").
+ingizo(tempura, n, [tempuras], "chakula cha Kijapani").
+kiingilio(kumi, n, [kumi], "nambari").
+entry(tenable, kiv, [], "uwezo wa kushikiliwaTENABLY kiv").
+entry(tenace, n, [tenisi], "mchanganyiko wa kadi mbili za juu katika baadhi ya michezo ya kadi").
+entry(ustahimilivu, n, [ustahimilivu], "uvumilivu au kusisitiza").
+entry(tenacula, npl, [], "vifaa vya upasuaji vyenye ndoano").
+entry(tenaili, n, [tenaili], "tenaille").
+entry(tenaille, n, [tenailles], "ulinzi wa nje").
+entry(upangaji, n, [upangaji], "umiliki wa muda wa kitu kinachomilikiwa na mwingine").
+ingizo(mpangaji, v, [kupangishwa,kupangisha,wapangaji], "kuishi").
+kiingilio(uhamiaji, n, [uhamiaji], "uhamiaji").
+entry(tench, n, [tenches], "samaki wa maji safi").
+entry(elekea, v, [elekeza, kuelekea, elekea], "kuwa na mwelekeo au azma").
+kiingilio(tendance, n, [mielekeo], "ulezi makini").
+entry(mwelekeo, n, [mielekeo], "mwelekeo").
+ingia(mwelekeo, n, [mielekeo], "uelekeo wa kutenda au kufikiri kwa namna fulani").
+entry(tender, adj, [], "LAINI AU DHAIFU").
+entry(tender, v, [toa,toa,toa], "kuwasilisha kwa kukubalika").
+entry(mtoa_zabuni, n, [watoa_zabuni], "mmoja anayetoa zabuni").
+entry(taratii, kiv, [], "kwa njia ya upole").
+entry(kirutubisho, n, [vurutubisho], "bendi ya tishu ngumu yenye nyuzi").
+entry(kisukuku, n, [kisukuku], "kiungo kisicho na majani wa mimea inayopanda").
+entry(tendu, n, [mitendu], "mti wa ebany wa Asia").
+entry(tenebrae, npl, [], "ibada ya kidini").
+entry(vyumba, n, [vyumba], "nyumba ya ghorofa").
+entry(tenesi, n, [tenesi], "kitengo cha fedha cha Turkmenistan").
+entry(tenesmasi, n, [matenesmasi], "jaribio la haraka lakini lisilofanikiwa la kutoa haja kubwa au ndogoTENESMIKI kiv").
+kiingilio(imani, n, [imani], "kanuni ya imani au fundisho linaloaminika kuwa kweli").
+entry(maraya_kumi, n, [maraya_kumi], "kiasi kilicho mara kumi ya kipimo fulani").
+entry(tenge, n, [tenges], "kitengo cha fedha cha Kazakhstan").
+entry(tenia, n, [minyoo], "au TENIA Ea minyoo").
+entry(teniazi, n, [teniazi], "maambukizi ya minyoo ya minyoo").
+entry(tenne, n, [tennes], "rangi ya chungwa-kahawia").
+kiingilio(tenne, n, [tennesi], "kitengo cha pesa cha Turkmenistan").
+entry(kiteni, n, [viteni], "noti ya dola kumi").
+ingizo(teni, npl, [], "viatu vya michezo vya kifupi").
+entry(tenisi, n, [matenisi], "mchezo wa mpira wa nje").
+entry(tennist, n, [tennists], "mchezaji wa tenisi").
+entry(tenno, n, [tennos], "mfalme wa Japani anayechukuliwa kama mungu").
+ingizo(tenny, n, [tennies], "tenne").
+entry(tanoti, v, [tanotiwa,tanotisha,tanoti], "kuunganisha kwa kutumia tanoti, ambayo ni sehemu iliyoishia kwenye kipande cha mbao").
+entry(tenoner, n, [tenoners], "mmoja anayekata na kuunda mbao kwa matumizi ya kuunga sehemu mbili za mbao").
+entry(tenor, n, [tenors], "sauti ya juu ya kuimba ya kiume").
+entry(tenorino, n, [tenorini], "tena ya juu").
+entry(mpiga_kinanda_tenor, n, [wapiga_kinanda_tenor], "anayepiga ala za muziki aina ya tenor au kuimba sauti ya tenor").
+entry(tenorite, n, [tenoriti], "madini").
+entry(tenorman, n, [tenormen], "mtu anayepiga saksofoni ya tenori").
+entry(tenotomy, n, [tenotomies], "mgawanyo wa upasuaji wa kano").
+entry(mtindo, n, [mitindo], "tena").
+entry(tenpence, n, [tenpences], "jumla ya senti kumi").
+entry(tenpenny, kivumishi, [], "thamani ya peni kumi").
+entry(tenpin, n, [kupini], "pin ya mchezo wa kuviringisha mpira").
+kiingilio(tengu, n, [matengu], "mnyamapori anayekula wadudu").
+entry(tense, adj, [], "TENSER TENSESTtautTENSELY adv").
+entry(kitenzi, v, [kufinywa, kufinyia, hunywea], "kufanya finyu").
+ingia(tensible, kiv, [], "uwezo wa kunyooshwaTENSIBLY kivl").
+entry(tensile, kiv, [], "tensible").
+kiingilio(mvutano, v, [imevutwa,inavuta,inavutana], "kuvuta kwa nguvu").
+entry(tensity, n, [tensities], "hali ya kuwa na mvutano").
+entry(tensive, kiv, [], "kusababisha mvutano").
+entry(tensor, n, [tensors], "misuli inayonyoosha sehemu ya mwili").
+entry(hema, v, [hema, kuhema, mahema], "kuishi ndani ya hema aina ya makazi ya kubebeka").
+kiingilio(mkojo, n, [mikojo], "kiungo kirefu chenye kubadilika cha wanyama fulani").
+ingizo(hema, n, [hema], "mkusanyiko wa mahema").
+kiingilio(tenteza, k, [tentezwa,ikitetewa,tenteza], "kunyosha kwenye aina ya fremu").
+kiingilio(cha_kumi, n, [vikumi], "moja ya sehemu kumi sawa").
+entry(kumi, kiv, [], "katika nafasi ya kumi").
+entry(tentie, kivumishi, [], "TENTIER TENTIESTtenty").
+ingizo(tentier, linganishi, [], "ya kumi").
+entry(tentiest, superlative, [], "ya tenty").
+entry(tentless, adj, [], "kuwa bila hema").
+kiingilio(hema_kama, kiv, [], "inayofanana na hema").
+entry(tentoria, npl, [], "mifupa ya ndani ya vichwa vya wadudu").
+entry(hema, n, [mahema], "sinema yenye bajeti kubwa ambayo mapato yake ya juu yanakusudiwa kufidia gharama za zile ambazo hazileti faida kubwa").
+entry(tenty, kiv, [], "ANGALIFU SANA KULIKO WANGALIFU ZAIDI").
+entry(tenuis, n, [tenues], "kizuizi cha kifonetiki kisicho na sauti").
+entry(tenuity, n, [tenuities], "ukosefu wa kiini au nguvu").
+entry(tegemeo, kiv, [], "kuwa na dutu au nguvu kidogo").
+entry(tenure, v, [tenured,tenuring,tenures], "kutoa hatimiliki hali ya kushikilia nafasi ya mtu kwa kudumu").
+entry(tenurial, kiv, [], "ya au inayohusu umiliki").
+entry(tenuto, n, [maatenuto], "au TENUTO, nota ya muziki au chordi inayoshikiliwa kwa muda mrefu zaidi ya muda wake wa kawaida").
+kiingilio(teocalli, n, [makao_ya_teocalli], "hekalu la Waazteki").
+entry(teopan, n, [teopan], "teokali").
+entry(teosinte, n, [teosinte], "nyasi ya kila mwaka").
+entry(tepa, n, [tepas], "kiwanja cha kemikali").
+entry(tepache, n, [tepaches], "kinywaji cha Kimeksiko kilichotengenezwa kwa mananasi, sukari ya kahawia na maji").
+entry(tepal, n, [tepals], "mgawanyo wa perianth").
+entry(tepee, n, [matepee], "hema lenye umbo la koni la baadhi ya Wenyeji wa Amerika").
+entry(tepefy, k, [tepefied, tepefying, tepefies], "kufanya vuguvugu").
+ingizo(tephra, n, [tephras], "nyenzo dhabiti iliyotolewa kutoka kwenye volkano").
+entry(tefriti, n, [tefriti], "mwamba wa volkeno").
+entry(vuguvugu, kivumishi, [], "umoto kiasiTEPIDLY kivumishi")
+entry(jotoridi, n, [majotoridi], "hali ya kuwa na joto la kadiri").
+entry(tepoy, n, [tepoys], "meza ya chai").
+kiingilio(tequila, n, [tequilas], "kileo cha Kimeksiko").
+entry(terabayti, n, [terabayti], "trilioni moja baiti").
+entry(teraflop, n, [teraflops], "kipimo cha kasi ya kompyuta").
+entry(terai, n, [terais], "kilemba cha jua chenye upindo mpana").
+entry(teraohm, n, [teraohms], "ohm trilioni moja").
+entry(terafi, n, [terafimu], "mfano wa mungu wa kaya wa Kisemiti").
+entry(teratismu, n, [teratismu], "fetus aliyeumbwa vibayaTERATOID kiv").
+entry(teratoma, n, [teratomas], "au TERATOMATAaina ya uvimbe").
+entry(terawati, n, [terawati], "wati trilioni moja").
+entry(terbia, n, [terbias], "oksidi ya terbium").
+entry(terbium, n, [terbiums], "kipengele cha chumaTERBIC kiv").
+entry(terce, n, [terces], "tarisi").
+entry(terceli, n, [mateceli], "mwewe dume").
+entry(tercelet, n, [tercelets], "tercel").
+entry(tercet, n, [tercet], "kikundi cha mistari mitatu ya shairi").
+entry(terebene, n, [materabeni], "mchanganyiko wa terpeni").
+entry(terebic, kiv, [], "kuhusu asidi inayopatikana kutoka mafuta ya urujuani").
+entry(teredo, n, [teredos], "au TEREDINESa moluska wa bivalve").
+entry(terefah, kivumishi, [], "tref").
+entry(teres, n, [teretes], "moja ya misuli miwili inayosaidia kuzungusha mkono").
+entry(terete, kiv, [], "imara na yenye kupungua kidogo").
+entry(tergal, adj, [], "kuhusu tergum").
+entry(tergite, n, [tergites], "tergamu").
+entry(tergum, n, [terga], "sehemu ya mgongo ya kidogo cha arthropoda").
+entry(teriyaki, n, [teriyakis], "chakula cha Kijapani").
+entry(muda, v, [mudaikudwa, mudazipuni, muda], "kutoa jina kwa").
+entry(mfungwa, n, [wafungwa], "mfungwa anayehudumia kifungo kilichotajwa").
+kiingilio(terminali, n, [terminali], "mwisho au ukingo").
+entry(terminer, n, [terminers], "aina ya mahakama katika baadhi ya majimbo").
+entry(terminus, n, [mashuhuri], "au TERMINIkituo").
+entry(termite, n, [mchwa], "mdudu anayefanana na sisimiziTERMITIC kivumishi").
+entry(haina_mipaka, kiv, [], "kuwa bila mipaka").
+entry(termly, kiv, [], "mara kwa mara").
+entry(termor, n, [termors], "ambaye anashikilia ardhi kwa miaka fulani").
+entry(muda_wa_shule, n, [nyakati_za_shule], "wakati ambapo shule au mahakama zinafanya kazi").
+entry(ndege_mwambao, n, [ndege_mwambao], "ndege wa baharini").
+entry(tero, n, [tero], "kikundi cha watatu").
+entry(ternate, kivumishi, [], "kupangwa katika vikundi vya watatu").
+entry(terne, n, [ternes], "aloi ya risasi na bati").
+entry(ternion, n, [ternions], "kikundi cha watatu").
+entry(terpene, n, [terpeni], "kiwanja kikemikaliTERPENIKI kiv").
+entry(terpinol, n, [materpinoli], "kioevu chenye harufu nzuri").
+ingizo(terra, n, [terrae], "ardhi dunia").
+entry(ua, k, [ukuta, kutoa, tera], "kutoa kwa ua benki iliyoinuliwa").
+ingizo(ardhi, n, [ardhi], "eneo la ardhi").
+entry(uwanda, n, [uwanda], "muundo wa mwamba").
+entry(kobe, n, [kobe], "kiafrika kinyonga").
+entry(terraria, npl, [], "vioo vya kukuzia mimea au wanyama wadogo").
+entry(terras, j, [mataa], "trass").
+entry(ucho, n, [ucho], "eneo la sakafu nje ya cafe ya Kifaransa").
+entry(terrazzo, n, [materazzo], "sakafu ya mwamba").
+uingizo(terreen, n, [terreens], "terrine").
+entry(terrella, n, [terrellas], "sumaku yenye umbo la duara").
+entry(ardhi, n, [aridhim], "eneo la ardhi").
+entry(terret, n, [terrets], "kipande cha metali kwenye makonde").
+entry(terrible, kivumishi, [], "mbaya sanaVIBAYA kivielezi").
+entry(terrier, n, [mabeger], "mbwa mdogo mwenye nguvu").
+entry(terries, w, [], "ya terry").
+entry(terrific, adj, [], "nzuri sana bora").
+entry(ogofya, k, [ogofya,yaogofya,anaogofya], "kujaza na hofu").
+entry(terrine, n, [terrines], "chungu cha udongo").
+ingizo(territ, n, [territs], "terret").
+ingia(terroir, n, [terroirs], "mchanganyiko wa mambo yanayopa zabibu za divai tabia yao ya kipekee").
+entry(hofu, n, [hofu], "hofu kali").
+entry(terry, n, [terries], "kitambaa kinachonyonya unyevu").
+entry(fupi, kiv, [], "FUPI FUPI ZAIDI FUPI SANA kwa ufupi kiv").
+entry(tertial, n, [tertials], "unyo wa kuruka kwenye bawa la ndege").
+ingizo(siku_tatu, n, [siku_tatu], "homa inayojirudia").
+entry(kirufi, n, [makirufi], "kirufi").
+entry(terzetto, n, [terzettos], "au TERZETTI kundi la watu watatu wa sauti au ala").
+entry(tesla, n, [tesla], "kipimo cha upitishaji sumaku").
+entry(tessera, n, [tesserae], "mraba mdogo unaotumika katika kazi ya mozaikiTESSERAL kiv").
+entry(mtihani, v, [lililojaribiwa, kujaribu, mitihani], "kutathmini kwa mtihani INAYOJARIBIWA kiv").
+entry(testa, n, [testae], "ganda gumu la nje la mbegu").
+entry(testacy, n, [testacies], "hali ya kuwa umeacha wosia wakati wa kifo").
+entry(testate, n, [testates], "msimamizi wa wosia").
+entry(mtungawasia, n, [wafanyausia], "mmoja anayefanya wasia").
+ingia(mjaribuwa, n, [wajaribuwa], "aliyekewa mtihani").
+ingizo(mjaribu, n, [wajaribu], "yule anayejaribu").
+ingia(testi, jam, [], "ya korodani").
+entry(tesi, n, [mambo ya uzazi], "kiwiliwili cha uzazi").
+entry(ya kupima, kulinganisha, [], "ya kufoka").
+entry(testiest, superlative, [], "ya hasira").
+entry(shuhudia, v, [alishuhudia, kushuhudia, hushuhudia], "kutoa tamko la ukweli chini ya kiapo").
+entry(testily, kivumishi_kielezi, [], "kwa njia ya hasira").
+entry(kujaribu, n, [majaribio], "kitendo cha kumkadiria mtu kwa mtihani").
+entry(testis, n, [majaribio], "tezi ya uzazi ya kiume").
+entry(teston, n, [testons], "sarafu ya zamani ya Kifaransa").
+entry(testooni, n, [testooni], "teston").
+entry(testudo, n, [testudos], "au TESTUDINES skrini ya kubebeka iliyotumika kama ngao na Warumi wa kale").
+entry(testy, kivumishi, [], "TESTIER TESTIESTmwenye hasira").
+entry(tet, n, [tets], "teth").
+entry(tetanal, kivumishi, [], "kuhusu pepopunda").
+entry(tetanic, n, [tetanics], "dawa inayoweza kusababisha degedege").
+kiingilio(tetanozi, wingi, [], "ya tetani").
+entry(teti, k, [tetiwa, kuteti, tetiza], "kukaza misuli").
+entry(sababisha_kwikwi, k, [imeathiri_kwikwi, inaathiri_kwikwi, inasababisha_kwikwi], "kuathiri na mshtuko").
+entry(tetano, n, [matetano], "ugonjwa wa kuambukiza TETANOID kivumishi").
+entry(kifafa, n, [vifafa], "hali inayojulikana na misuli kukakamaa kwa maumivu").
+entry(tetched, kiv, [], "mwenda wazimu").
+entry(tetchy, adj, [], "TETCHIER TETCHIESThasiraTETCHILY kiv").
+kiingilio(teth, n, [teths], "herufi ya Kiebrania").
+entry(tether, v, [tethered,tethering,tethers], "kufunga kwa kitu kilichowekwa kwa kamba").
+kiingilio(tetotum, n, [tetotums], "teetotum").
+kiingilio(tetra, n, [matetra], "samaki wa kitropiki").
+entry(tetracid, n, [tetracids], "aina ya asidi").
+kiingilio(ndaraja, n, [ndaraja], "kikundi cha nneNDARAJA adj").
+entry(mneka, n, [mneka], "mpangilio wa pande nne").
+ingia(tetrameri, n, [tetrameri], "aina ya polima").
+entry(mnyama_miguu_minne, n, [wanyama_wenye_miguu_minne], "mnyama mwenye miguu minne").
+entry(tetraka, n, [matetraka], "mmoja wa watawala wanne wa pamoja").
+entry(tetri, n, [tetris], "kitengo cha fedha cha Jamhuri ya Georgia").
+entry(tetrode, n, [tetrodi], "aina ya tube ya elektroni").
+entry(tetrose, n, [tetroses], "sukari yenye molekuli zenye atomi nne za kaboni").
+entry(tetroksidi, n, [tetroksidi], "aina ya oksidi").
+entry(tetryl, n, [tetryls], "kiwanja cha kemikali").
+entry(tetter, n, [tetters], "ugonjwa wa ngozi").
+entry(teugh, kiv, [], "teugh").
+entry(teugh, kiv, [], "ngumuKWELI kv").
+entry(tevatron, n, [mashine za kuharakisha chembe nyota], "kichapuzi cha chembe").
+entry(tew, v, [tewed,tewing,tews], "kufanya kazi kwa bidii").
+entry(texas, n, [texases], "muundo wa juu kabisa kwenye mashua ya mvuke").
+kiingilio(maandishi, v, [maandishiwa, kuandikamaandishi, maandishi], "kutuma ujumbe kutoka simu moja hadi nyingine").
+kiingilio(kitabu_cha_masomo, n, [vitabu_vya_masomo], "kitabu kinachotumiwa katika masomo ya somo").
+ingizo(mwandikaji, n, [waandishi], "mmoja ambaye anandika maandishi").
+kiingilio(kitambaa, n, [vitambaa], "kitambaa kilichosukwa").
+entry(textless, kiv, [], "kutokuwa na maandishi").
+entry(maandishi, kivumishi, [], "kuhusu maandishi").
+entry(mtafsiriwa, n, [watafsiriwa], "mtaalamu wa kujifunza Maandiko").
+entry(textural, adj, [], "kuhusu sifa za uso wa kitu").
+ingia(muundo, v, [muundo, kuunda, miundo], "kutengeneza kwa kusuka").
+kiingilio(thack, v, [thacked, thacking, thacks], "kuezekea").
+entry(hizi, adj, [], "hizi hizo").
+ingizo(thairm, n, [thairms], "tharm").
+entry(thalamus, n, [thalami], "sehemu ya ubongoTHALAMIC kiv").
+kiingilio(thaler, n, [thalers], "taler").
+entry(thali, n, [thalis], "sahani ambapo chakula hutolewa nchini India").
+entry(thallium, n, [thalliums], "kipengele cha metaliTHALLIC THALLOUS kiv").
+ingizo(thallus, n, [thalluses], "au THALLIa mwili wa mmea bila mizizi halisi shina au janiTHALLOID kivumishi").
+entry(thalweg, n, [thalweg], "mstari unaoonyesha sehemu za chini kabisa katika mkondo wa mto").
+entry(kuliko, kiunganishi, [], "inatumiwa kuanzisha kipengele cha pili cha kulinganisha").
+entry(thanage, n, [thanages], "ardhi inayoshikiliwa na mkuu").
+entry(thanatos, n, [thanatoses], "tamaa ya kifo ya kiasili").
+ingizo(thane, n, [thanes], "mwanaume anayeshikilia ardhi kwa huduma ya kijeshi katika Uingereza ya Anglo-Saxon").
+entry(thanedom, n, [thanedoms], "eneo la thane").
+kiingilio(shukrani, k, [alishukuru,akisukuru,shukrani], "kuonyesha shukrani kwa").
+entry(mshukuru, n, [washukuru], "anayeshukuru").
+entry(thankful, kivumishi, [], "SHUKRANI ZAIDI SHUKRANI ZAIDIufahamu wa shukrani").
+ingia(tharm, n, [tharms], "tumbo").
+entry(kile, kituo, [vile], "kile kilichoonyeshwa").
+entry(thataway, adv, [], "katika mwelekeo huo").
+entry(kukukama, k, [limekukwa, ikikukwa, zakukukwa], "kufunika kwa majani ya kukama stalks au majani").
+entry(thatcher, n, [thatchers], "mmoja anayefanya kazi ya kuezekea paa").
+ingizo(thatchy, kivumishi, [], "THATCHIER THATCHIESTkinachofanana na majani ya kuezekea").
+entry(kuyeyuka, v, [kuyeyushwa, inayoyeyuka, inayeyuka], "kuyeyuka").
+entry(kifuatiliaji_Joto, n, [vifuatiliaji_Joto], "kinachoyeyusha").
+entry(kuyeyuka, n, [kuyeyuka], "kuyeyuka kwa dutu iliyoganda").
+entry(thawless, adj, [], "ambayo haijayeyuka kamwe").
+entry(the, hakika, [], "kitenzi kinachotumika kubainisha au kufanya kuwa maalum").
+entry(thearchy, n, [thearchies], "utawala wa mungu").
+ingizo(theater, n, [theaters], "jengo la maonyesho ya kisaniiTHEATRIC kiv").
+entry(theatre, n, [theatres], "teteta").
+entry(thebaine, n, [thebaines], "alkaloidi yenye sumu").
+entry(thebe, n, [thebes], "kitengo cha fedha cha Botswana").
+entry(theca, n, [thecae], "kifuniko cha kinga cha anatomia THECAL THECATE kivumishi").
+entry(thee, pron, [], "umdhati kita hali ya kiwakilishi nafsi 'thou'").
+kiingilio(theelin, n, [theelins], "estrone").
+entry(theelol, n, [theelols], "estriol").
+entry(wizi, n, [wizi], "kitendo cha kuiba").
+entry(thegn, n, [thegns], "thegnLY adj").
+kiingilio(thein, n, [theins], "theine").
+entry(theine, n, [theines], "kafeini").
+entry(wao, kivumishi, [], "inayowahusu wao").
+entry(yao, pron, [], "umbo la kumiliki la kiwakilishi wao").
+kiingilio(utheismu, n, [utheismu], "imani katika uwepo wa mungu").
+entry(theist, n, [waamini], "mmoja anayemwamini Mungu THEISTIC kivumishi").
+entry(thelitis, n, [thelitises], "uchochezi wa chuchu").
+kiingizo(wao, kiwakilishi, [], "hali ya kiwakilishi ya wao").
+entry(thematic, n, [thematics], "stempu inayokusanywa kulingana na mada yake").
+kiingilio(mada, v, [linalohusika, kuandaa, mada], "kupanga kitu kulingana na mada kuu").
+entry(wao, nomino, [], "mtu wa jinsia isiyojulikana").
+entry(kisha, n, [visha], "wakati huo").
+entry(thenage, n, [thenages], "thanage").
+entry(thenal, kiv, [], "kuhusu sehemu ya ndani ya kiganja cha mkono").
+entry(thenar, n, [thenars], "mshiko wa kiganja").
+ingizo(hapo, kiv, [], "kutoka mahali hapo").
+entry(mwamuzi, n, [wamuzi], "mtu anayetawala kama mwakilishi wa mungu").
+entry(taodisia, n, [taodisia], "utetezi wa wema wa Mungu kuhusiana na uwepo wa uovu").
+entry(theogony, n, [theogonies], "maelezo ya asili ya miungu").
+entry(theolog, n, [wataalamu wa theologia], "mwanafunzi wa theolojia").
+entry(teolojia, n, [teolojia], "somu la dini").
+entry(theonomia, n, [theonomias], "utawala wa mungu").
+entry(theorbo, n, [theorbos], "chombo cha muziki cha kamba").
+entry(thereomu, n, [matheoremu], "dhana ambayo ni kweli wazi au inadhaniwa kuwa hivyo").
+kiingilio(nadharia, pl, [], "ya nadharia").
+entry(nadharia, k, [nadharia, kinanadharia, nadharia], "kujadili kihaidimu").
+kiingilio(mwanafalsafa, n, [wanafalsafa], "yule anayetafakari").
+entry(tafakari, k, [ilitafakari, kinafikiria, hufikiria], "kutengeneza nadharia").
+entry(nadharia, n, [nadharia], "kikundi cha mapendekezo kinachotumiwa kuelezea aina ya matukio").
+entry(therapy, n, [tiba], "matibabu ya ugonjwa au ulemavu").
+entry(hapo, n, [hapo], "pale").
+entry(hapo, kivumishi, [], "mahali au wakati huo").
+entry(hivyo, adv, [], "kwa njia hiyo").
+kiingizio(hivyo, kivumishi, [], "kwa hiyo").
+entry(humo, kiv, [], "mahali hapo").
+entry(theremin, n, [theremins], "ala ya muziki").
+entry(hapo, adv, [], "ya hiyo").
+entry(hapo, kivumishi, [], "katika hilo").
+entry(kutoka_huko, kivumishi_kielezi, [], "kutoka huko").
+kiingilio(hapo, kivumishi_kielezi, [], "kwa hiyo").
+entry(theriac, n, [theriacs], "molasi").
+entry(theriaca, n, [theriacas], "theriaka").
+entry(therian, n, [therians], "aina yoyote ya wanyama wa daraja la juu la mamalia").
+entry(joto, n, [ma-joto], "kipimo cha kiasi cha joto").
+entry(thermae, npl, [], "chemchemi za moto").
+entry(joto, n, [mawingu ya joto], "misa ya hewa ya joto inayopanda").
+entry(joto, n, [joto], "joto").
+entry(thermel, n, [thermels], "kifaa cha kipimo cha joto").
+entry(joto, kivumishi, [], "kuhusu joto").
+entry(thermion, n, [thermions], "ioni inayotolewa na mwili wenye joto").
+entry(thermite, n, [thermites], "mchanganyiko wa metali unaozalisha joto kali unapowashwa").
+entry(thermos, n, [thermoses], "chombo kinachotumika kuweka vimiminika viwe vikali au baridi").
+entry(theroid, adj, [], "inayofanana na mnyama").
+entry(theropod, n, [theropods], "dinosaur wa nyama-mbovu").
+entry(thesauri, npl, [], "kamusi za visawe na vinyume").
+entry(hizi, wingi, [], "ya hii").
+entry(tasisi, n, [tasisi], "pendekezo lililowekwa mbele kwa ajili ya majadiliano").
+entry(thesp, n, [wachezaji], "mwigizaji").
+entry(thespian, n, [wacheza], "mwigizaji").
+kiingilio(theta, n, [thetas], "herufi ya Kigiriki").
+kiingizio(thetic, kivumishi, [], "hiari").
+entry(thetical, kivumishi, [], "thetic").
+kiingilio(theurgy, n, [theurgies], "uingiliaji wa kimungu katika mambo ya kibinadamu THEURGIC kiv").
+entry(thew, n, [thews], "misuli iliyokua vizuri").
+entry(thewless, kivumishi, [], "dhaifu").
+entry(thewy, adj, [], "IMARA ZAIDI IMARA ZAIDIBrawny").
+entry(wao, pron, [], "kiwakilishi wa nafsi ya tatu wingi katika hali nominativa").
+entry(thiamin, n, [thiamins], "thiamini").
+kiingilio(thiamine, n, [thiamines], "vitamini B").
+entry(thiazide, n, [thiazides], "dawa inayotumika kutibu shinikizo la damu la juu").
+kiingilio(thiazin, n, [thiazins], "thiazine").
+entry(thiazine, n, [thiazines], "kiwanja cha kemikali").
+entry(thiazol, n, [thiazols], "thiazole").
+kiingilio(thiazole, n, [thiazoles], "kiwanja cha kemikali").
+entry(nene, kivumishi, [], "NENE KABISA kuwa na upana mkubwa kutoka uso mmoja hadi mwingine").
+entry(nene, n, [nenezi], "sehemu nene zaidi").
+entry(nenepa, k, [nenepeswa, kunenepa, nenepesha], "kufanya kuwa nene").
+entry(kichaka, n, [vichaka], "unene wa vichaka au miti midogoKICHACHE adj").
+entry(thickish, adj, [], "kama mnene").
+entry(thickly, kiv, [], "kwa namna nene").
+entry(thickset, n, [thicksets], "kichaka").
+entry(mwizi, n, [wezi], "yule anayeiba").
+entry(iba, k, [aliwaiba, akiwaiba, wezi], "kuiba").
+entry(uwizi, n, [mawizi], "kitendo au tabia ya kuiba").
+entry(thievish, kiv, [], "upeo wa kuiba").
+entry(paja, n, [mapaja], "sehemu ya mguuPAJANI adj").
+ingia(thill, n, [thills], "mpini wa gari").
+entry(kivigingizi, n, [vivigingizi], "kofia inayotumika kulinda ncha ya kidole wakati wa kushona").
+entry(nyembamba, adj, [], "NYEMBAMBA ZAIDI NYEMBAMBA KABISA ikiwa na unene au wingi mdogo").
+kiingilioemba(thin, v, [thinned, thinning, thins], "kufanya kuwa mwembamba").
+entry(thinclad, n, [thinclads], "mwanariadha katika timu ya mbio").
+entry(thindown, n, [thindowns], "upungufu katika idadi ya chembe za atomu na miale ya anga inayopita kwenye angahewa ya dunia").
+entry(thine, nomino, [], "umbo la umilikaji la kiwakilishi thou").
+kiingilio(kitu, n, [vitu], "chombo kisicho na uhai").
+ingizo(kitu, n, [vitu], "kitu ambacho jina lake halijulikani au limesahaulika").
+entry(fikiria, k, [alifikiria, akifikiria, anafikiria], "kuunda maoni akilini").
+entry(mwanafikra, n, [wanafikra], "yule anafikiri").
+entry(fikra, n, [fikra], "maoni au hukumu").
+entry(kwa-uzito-mdogo, kiv, [], "kwa namna ya uzito mdogo").
+entry(thinned, past, [], "hali ya kitenzi thin").
+entry(thinner, n, [thinners], "kinachopunguza").
+entry(unene mdogo, n, [unene mdogo], "hali ya kuwa mwembamba").
+entry(thinnest, superlative, [], "wa wembamba").
+entry(kupunguza, hali_ya_sasa, [], "kitenzi cha kupunguza").
+entry(thinnish, kiv, [], "kiasi fulani cha wembamba").
+entry(thio, kiv, [], "inayochukua kiberiti").
+entry(thiol, n, [thiols], "kiwanja cha kiberitiTHIOLIC kivumishi").
+entry(thionate, n, [thionates], "chumvi ya kemikali").
+entry(thionic, adj, [], "kuhusu kiberiti").
+entry(thionin, n, [thionini], "rangi ya zambarau").
+entry(thionine, n, [thionines], "thionin").
+entry(thionyl, n, [thionyls], "sulfinyl").
+entry(thiopheni, n, [thiopheni], "kiwanja cha kemikali").
+entry(thiotepa, n, [thiotepas], "kiwanja cha kemikali").
+entry(thiourea, n, [thioureas], "kiwanja cha kemikali").
+entry(thir, kielezi, [], "hizi").
+entry(thiram, n, [thiramu], "kiwanja cha kemikali").
+entry(ya tatu, n, [tatu], "moja ya sehemu tatu sawa").
+entry(kwa_mara_ya_tatu, kiv, [], "katika nafasi ya tatu").
+kiingilio(thirl, v, [thirled, thirling, thirls], "kuisisimua").
+entry(thirlage, n, [thirlages], "wajibu wa kifeudal unaowataka wapangaji kusaga nafaka kwenye kinu fulani").
+entry(kiu, v, [kiua,kiuwa,kius], "kuhisi hamu au haja ya kunywa").
+entry(thirster, n, [thirsters], "anayekunywa maji").
+entry(kiu, kivumishi, [], "KIU ZAIDI KIU SANA kuhisi hamu au haja ya kunywa").
+kiingilio(kumi_na_tatu, n, [kumi_na_tatu], "namba").
+kiingilio(thalathini, n, [thelathini], "nambari").
+entry(hii, kivumishi, [hizi], "mtu au kitu kilichotajwa hivi punde").
+entry(hivi, kivumishi, [], "njia hii").
+entry(mbaruti, n, [mibaruti], "mmea wenye miiba").
+entry(thistly, adj, [], "THISTLIER THISTLIESTprickly").
+entry(huko, kiv, [], "katika mwelekeo huo").
+entry(tho, kiunganishi, [], "hata hivyo").
+entry(thole, v, [tholed,tholing,tholes], "kustahimili").
+entry(tholepin, n, [kolevere], "kipini kinachotumika kama kizuwizi cha ubao wa kasia").
+kiingilio(tholos, n, [tholoi], "kaburi la mviringo chini ya ardhi").
+entry(thong, v, [thonged,thonging,thongs], "kupiga kwa mjeledi").
+kiingilio(thongy, kivumishi, [], "THONGIER THONGIESTkuonyesha kitu cha mavazi kilichotengenezwa kutoka kipande kirefu cha kitambaa").
+entry(thoraksi, n, [thoraksi], "au THORACESTSehemu ya mwili kati ya shingo na tumboTHORACIAL THORACIC kivumishi").
+entry(thoria, n, [thorias], "oksidi ya thoriamu").
+entry(thoric, kiv, [], "kuhusu thorium").
+entry(thorite, n, [thorites], "madini ya thoriamu").
+entry(thorium, n, [thoriums], "kipengele cha chuma").
+entry(thorn, v, [thorned, thorning, thorns], "kudunga na miba katika mmea").
+entry(mwenye_miwa, kivumishi, [], "YENYE MIWA MINGI").
+entry(thoro, kiv, [], "kikamilifu").
+entry(thoron, n, [thorons], "isotopu ya mionzi ya radon").
+kiingilio(thorough, kivumishi, [], "THOROUGHER THOROUGHESTkamilifu kwa kila hali").
+kiingilio(thorp, n, [thorps], "kijiji kidogo").
+ingizo(thorpe, n, [thorpes], "thorp").
+entry(hizo, pl, [], "ya hiyo").
+kiingilio(wewe, v, [wewea, weweing, wewes], "kuhutubia kama wewe nafsi ya pili umoja kiwakilishi nomino katika nominative case").
+entry(ingawa, conj, [], "ingawa ukweli kwamba").
+entry(wazo, n, [mawazo], "bidhaa ya kufikiria").
+entry(elfu, n, [elfu], "nambari").
+entry(thowless, kiv, [], "bila nguvu").
+entry(utumwa, n, [utumwa], "utumikaji").
+entry(thrall, v, [thralled, thralling, thralls], "kuteka nyara").
+entry(thrash, v, [thrashed,thrashing,thrashes], "kupiga").
+kiingilio(thrasher, n, [thrashers], "mmoja anayepura").
+entry(thrashy, kiv, [], "THRASHIER THRASHIESTMwenendo wa mtindo wa muziki wa punkrock wenye kasi na sauti kubwa").
+kiingilio(thrave, n, [thraves], "kipimo cha nafaka").
+ingizo(thraw, v, [thrawed, thrawing, thraws], "kukunja").
+ingizo(thrawart, kivumishi, [], "mkaidi").
+entry(thrawn, kiv, [], "twistedTHRAWNLY kiv").
+entry(uzi, v, [nyuzi, kushona, nyuzi], "kupitisha uzi kupitia sehemu nyembamba sana").
+entry(threader, n, [wavinaji], "moja anayenyoosha nyuzi").
+entry(thready, adj, [], "INAYOFANANA NA UZI").
+kiingilio(threap, k, [threaped, threaping, threaps], "kubishana").
+entry(threaper, n, [threapers], "anaye tafuta ushahidi kwa nguvu").
+kiingiliano(tishio, v, [tishia, tishia, tishia], "kutishia").
+entry(tishia, k, [tishwa,kitishia, hutishia], "kuwa chanzo cha hatari kwa").
+entry(tatu, n, [tatu], "nambari").
+entry(threep, v, [threeped, threeping, threeps], "ku threap").
+kiingilio(threnode, n, [threnodes], "threnodi").
+kiingilio(threnody, n, [threnodies], "wimbo wa maombolezo").
+ingia(thresh, v, [threshed,threshing,threshes], "kutenganisha nafaka au mbegu kutoka kwenye mmea kwa njia ya mashine").
+ingizo(thresher, n, [threshers], "anayetandika").
+entry(threw, past, [], "nyakati za kutupa").
+entry(thrice, kivumishi, [], "mara tatu").
+entry(thrift, n, [thrifts], "umakini na busara katika usimamizi wa mali za mtu").
+entry(thrifty, adj, [], "THRIFTIER THRIFTIESTkuonyesha uchumi").
+entry(thrill, v, [aliyefurahia, inayosisimua, furaha], "kuvutia sana").
+kiingilio(thriller, n, [thrillers], "moja inayosisimua").
+entry(thrip, n, [thrips], "sarafu ya Kiingereza").
+entry(stawi, k, [iliendelea, imekwisha, inastawi], "STAWIkuzaa kwa wingi").
+entry(mustawi, n, [wamustawi], "mtu anayestawi").
+entry(thro, prep, [], "kupitia").
+entry(koo, v, [kooed,kooing,koos], "kusema kwa sauti ya kukwaruza").
+entry(throaty, kiv, [], "THROATIER THROATIESThoarse").
+ingizo(dunda, k, [dunda, kudunda, dundika], "kupiga kwa mpigo").
+entry(throbber, n, [throbbers], "inayopiga kwa nguvu").
+entry(throe, n, [throes], "mwenye maumivu makali").
+kiingilio(thrombin, n, [thrombins], "kimeng'enya").
+entry(thrombus, n, [thrombi], "ganda linaloziba mshipa wa damu").
+kiingilio(enzi, k, [imeinnua, ukweaji, viti_vya_enzi], "kuweka kwenye kiti cha enzi kiti cha kifalme").
+entry(umati, v, [umetia,umetia,umati], "kukusanyika kwa nguvu").
+entry(sauti, n, [sauti], "ndege wa kuimba").
+kiingilio(throttle, k, [throttled, throttling, throttles], "kunyonga").
+entry(kupitia, kihusishi, [], "kwa njia ya").
+entry(throve, a, [], "wakati uliopita wa kustawi").
+entry(throw, v, [threw,thrown,throwing], "KURUSHAtupa kupitia hewa kwa mwendo wa mkono").
+entry(mtupaji, n, [watupaji], "mmoja anayepiga").
+entry(kupitia, kiunganishi, [], "kupitia").
+entry(thrum, v, [thrummed,thrumming,thrums], "kupiga ala ya nyuzi kwa uvivu au kwa monotoni").
+entry(thrummer, n, [thrummers], "anayecheza").
+entry(thrummy, adj, [], "THRUMMIER THRUMMIESTnyevu").
+entry(maingizo, n, [maingizos], "kiasi cha malighafi kilichosindikwa kwa muda fulani").
+entry(thrush, n, [thrushes], "ndege mwimbaji").
+entry(thrust, v, [thrusted, thrusting, thrusts], "kusukuma kwa nguvu").
+ingizo(msukumo, n, [misukumo], "yule anasukuma").
+kiingizio(msukumo, n, [misukumo], "msukumo").
+kiingilio(barabara_kuu, n, [barabara_kuu], "barabara ya haraka").
+entry(ngurumo, v, [ngurumisha,ngurumisha,ngurumo], "kutoa sauti nzito na iliyopoa").
+entry(mhalifu, n, [wahuni], "mhalifu katili au muuaji").
+entry(thuggee, n, [thuggees], "uhalifu nchini India").
+entry(uhuni, n, [uhuni], "tabia ya kihuni").
+entry(thuggish, adj, [], "tabia ya mhalifu").
+entry(thuja, n, [zinthuja], "mti au kichaka cha kijani kibichi").
+entry(thulia, n, [thulias], "oksidi ya thuliamu").
+entry(thuliamu, n, [thuliamu], "kipengele cha metali").
+entry(kidolegumba, v, [kidolegumba, kukidoleumbua, vidolegumbe], "kupepeta kwa kutumia kidolegumba, kidole kifupi na kinene cha mkono wa binadamu").
+entry(thumbkin, n, [thumbkins], "skrubu inayozungushwa kwa kidole gumba na vidole vingine").
+entry(kijianati, n, [vijianati], "nati inayozungushwa kwa kidole gumba na vidole vingine").
+entry(piga-nguru, k, [piga-ngurudumu, kupiga-nguru, piga-nguruma], "kupiga kiasi cha kutoa sauti nzito na ya nzito").
+entry(thumper, n, [thumpers], "mmoja anayepiga").
+entry(radi, k, [lipiga_radi,napiga_radi,wapiga_radi], "kutoa sauti kubwa inayotetemesha").
+entry(thundery, kiv, [], "ikiwa na ngurumo").
+entry(thunk, v, [thunked,thunking,thunks], "kutoa sauti ya ghafla isiyo wazi").
+entry(thurible, n, [thuribles], "kibakuli cha uvumba").
+entry(thurifer, n, [watu wanaobeba uvumba], "mtu anayebeba chombo cha uvumba katika sherehe ya kidini").
+ingizo(thurl, n, [thurls], "kiungo cha nyonga kwa ng'ombe").
+kiingilio(hivi, kiv., [], "kwa namna hii").
+entry(thusly, kivumishi, [], "hivyo").
+entry(thuya, n, [methuya], "mthuja").
+entry(thwack, v, [thwacked,thwacking,thwacks], "kupiga kwa kitu bapa").
+entry(thwacker, n, [thwackers], "anayepiga sana").
+entry(zuia, k, [ilizuiliwa,inazuia,zinaweza], "kuzuia kufanikishwa kwa").
+entry(mkandamizaji, n, [wakandamizaji], "mmoja anayekandamiza").
+kiingizo(thwartly, kiv., [], "athwart").
+entry(thy, kivumishi, [], "inayohusiana na wewe").
+entry(thyme, n, [thymes], "kijani chenye harufu nzuri").
+kiingilio(thymey, kiv, [], "THYMIER THYMIESTthymy").
+entry(thymi, a, [], "wingi wa thymus").
+entry(thymic, adj, [], "kuhusu timi").
+ingizo(thymier, kulinganisha, [], "ya thymey na thymy").
+kiingilio(thymiest, superlative, [], "ya thymey na thymy").
+kiingilio(thymin, n, [thymine], "kiwanja cha kemikali").
+entry(thymol, n, [thymols], "kiwanja cha kemikali").
+entry(thymoma, n, [thymomas], "au THYMOMATAuvimbe unaotokana na tishu za thymus").
+entry(thymosin, n, [thymosins], "homoni inayotolewa na tezi ya thymus").
+entry(thymus, n, [tymusi], "au THYMI muundo wa tezi katika mwili").
+entry(thymy, kivumishi, [], "IMEJAA THYMI PIA ZAIDI").
+entry(tezi_kikoi, kiv, [], "kuhusu tezi kikoi").
+kiingilio(tezi, n, [tezi], "tezi ya ndani").
+entry(thyroxin, n, [thyroxins], "amino asidi").
+kiingilio(thyrse, n, [thyrses], "thyrsus").
+entry(thyrsus, n, [thyrsi], "aina ya kundi la mauaTHYRSOID kivumishi").
+entry(mwenyewe, nomino, [], "wewe mwenyewe").
+kiingilio(ti, n, [tis], "noti ya saba ya skeli ya muziki ya diatoniki").
+kipengele(tian, n, [mavianzi], "sufuria kubwa ya mviringo").
+entry(tiara, n, [tiare], "kichwa chenye vito kinachovaliwa na wanawakeTIARAED adj").
+entry(tibia, n, [tibias], "au TIBIAE mfupa wa mguuTIBIAL kivumishi").
+entry(tibialis, n, [tibiales], "misuli kwenye mguu wa ndama").
+entry(tic, v, [ticced,ticcing,tics], "kuwa na mkazo wa misuli isiyo ya hiari").
+kiingizo(tical, n, [ticals], "kipimo cha zamani cha uzito cha Kithai").
+entry(tick, v, [ticked,ticking,ticks], "kutoa sauti ya kubofya mara kwa mara").
+ingizo(tikia, n, [tikiaz], "yule anayetikisa").
+kiingilio(karatasi, v, [karatasi, kutiwakatasi, karatasi], "kushikilia lebo kwenye").
+kiingizio(kutikisa, n, [kutikas], "kitambaa thabiti cha pamba").
+entry(tikilesi, n, [tikilesi], "aina ya ndege mdogo wa baharini").
+entry(cheka, k, [alicheka, kucheka, icheka], "kugusa kwa upole ili kusababisha hisia ya mwasho").
+kiingizio(tikiza, n, [watikiza], "moja inayochekesha").
+entry(kuwashwa, kiv, [], "nyeti kwa kuchekeshwa").
+entry(tickly, adj, [], "TICKLIER TICKLIESTticklish").
+ingizo(tikisi, n, [tikisi], "mmea unaochanua").
+entry(ticktack, v, [ticktacked,ticktacking,ticktacks], "kwenye kutiktak").
+entry(ticktock, k, [ticktocked,ticktocking,ticktocks], "kufanya sauti ya kengele ya saa").
+kiingilio(tictac, k, [tictacked, tictacking, tictacs], "kuguza").
+ingia(tictoc, v, [tictocked,tictocking,tictocs], "kubonyeza").
+entry(tidal, kiv, [], "kuhusu mawimbiTIDALLY kiv").
+entry(tidbit, n, [tidbits], "kijisehemu cha chakula kilichochaguliwa").
+kiingilio(tiddler, n, [tiddlers], "samaki mdogo").
+kiingilio(tiddly, kiv, [], "TIDDLIER TIDDLIESTamelewa kiasi").
+entry(mawimbi, k, [mawimbikitika,mawimbikita,mawimbikit], "kufululiza kama mawimbi kuongezeka na kushuka kwa maji ya bahari").
+entry(ardhi_ya_mawimbi, n, [ardhi_za_mawimbi], "ardhi inayofunikwa na kufunuliwa na mawimbi kwa kubadilishana").
+entry(tideless, adj, [], "kukosa maji kujaa na kupwa").
+ingizo(tidelike, kivumishi, [], "inafanana na mawimbi").
+entry(tideline, n, [tidelines], "mstari kwenye ufuo unaoashiria kiwango cha juu zaidi cha maji ya bahari").
+entry(alama_ya_mawimbi, n, [alama_za_mawimbi], "alama inayoonyesha kiwango cha juu au cha chini zaidi cha mawimbi").
+entry(tiderip, n, [tiderips], "mawimbi makali").
+ingizo(tideway, n, [tideways], "mfereji wa mawimbi").
+entry(kusafisha, wakati_uliopita, [], "kipande cha nadhifu").
+kiingilio(msafishaji, n, [wasafishaji], "mmoja anayesafisha").
+ingizaji(tidies, wakati_uliopo, [], "mtu wa 3 umoja ya kunyosha").
+entry(tidiest, superlative, [], "ya nadhifu").
+entry(kwa_utaratibu, kih, [], "kwa njia ya utaratibu").
+entry(usunifu, n, [usunifu], "hali ya kuwa nadhifu").
+entry(tiding, n, [habari], "habari moja").
+kiingilio(msafi, kivumishi, [], "MSAFI ZAIDI MSAFI SANA safi na katika mpangilio").
+kiingilio(nadhifu, k, [nadhifisha,nadhifisha,nadhifisha], "kuweka nadhifu").
+entry(tidytips, n, [tidytips], "mimea ya kila mwaka").
+ingizo(funga, k, [], "FUNGA FUNGIA au FUNGA KWA KAMBA au KUNZI").
+kiingilio(fundo la pazia, n, [mafundo ya pazia], "kitanzi cha kushikilia pazia upande mmoja").
+entry(tiebreak, n, [mikataba], "shindano la kuchagua mshindi kutoka kati ya washiriki wenye alama zilizosawazishwa").
+entry(kishikiona, n, [vishikiona], "kishikio cha kufunga tai").
+entry(tied, past, [], "kipindi cha tie").
+entry(tieing, a, [], "mtendea wa sasa wa tie").
+entry(bila_kravata, kivumishi, [], "kutokuwa na kravata").
+entry(tiepin, n, [tiepins], "pini ya kufunga tai").
+entry(ngazi, v, [panga_ngazi, kupanga_ngazi, ngazi], "kupanga kwa ngazi safu zimewekwa moja juu ya nyingine").
+entry(tierce, n, [tierces], "moja ya vipindi saba vya kawaida vya maombi na ibada vya kila siku").
+entry(tierced, adj, [], "imegawanyika katika sehemu tatu sawa").
+ingizaji(tiercel, n, [tiercels], "tercel").
+ingia(tiff, v, [tiffed,tiffing,tiffs], "kuwa na ugomvi mdogo").
+entry(tiffany, n, [tiffanies], "kitambaa chepesi na cha mesh").
+entry(tiffin, v, [tiffined,tiffining,tiffins], "kula chakula cha mchana").
+entry(taiɡa, n, [mataiɡa], "mnyama mkubwa wa jamii ya paka").
+entry(tigereye, n, [tigereyes], "jiwe la thamani").
+entry(tigerish, adj, [], "kufanana na tiger").
+entry(thabiti, kivumishi, [], "IMARA ZAIDI IMARA ZAIDI ZAIDI kwa nguvu au kwa karibu mahali pa kudumuTHABITI adv").
+entry(kaza, k, [kaza, kazia, kazwa], "kufanya kikaze").
+kuingia(vikuku, npl, [], "vazi linalofaa sana").
+entry(bahili, n, [mabahili], "mchoyo").
+entry(tiglon, n, [matiglon], "mzalia wa dume la tigeri na jike la simba").
+entry(tignon, n, [tignons], "kipande cha kitambaa kilichovaliwa kama mtandio huko Louisiana").
+ingizo(tigon, n, [matigon], "tiglon").
+entry(tigress, n, [matigresi], "tigre wa kike").
+entry(tigrish, kiv, [], "kama-tai").
+ingiza(tike, n, [tikes], "kitoto").
+kiingilio(tiki, n, [tikis], "sanamu ya mbao au jiwe ya mungu wa Kipolinesia").
+entry(tikka, n, [tikkas], "chakula cha Kihindi cha nyama iliyopikwa kwenye mshikaki").
+entry(til, n, [tils], "mmea wa ufuta").
+entry(tilak, n, [tilaks], "alama iliyo kwenye paji la uso na Wahindu").
+entry(tilapia, n, [tilapias], "samaki wa Kiafrika").
+entry(tilbury, n, [tilburies], "gari lenye magurudumu mawili").
+entry(tilde, n, [tildes], "alama inayowekwa juu ya herufi ili kuonyesha sauti yake").
+entry(tile, v, [tiled,tiling,tiles], "kufunika kwa vigae bamba nyembamba za udongo uliokwa").
+entry(samaki_wa_tile, n, [samaki_wa_tiles], "samaki wa chakula wa baharini").
+entry(tilelike, adj, [], "inafanana na tile").
+entry(mpiga-tiles, n, [wapiga-tiles], "anayepiga tiles").
+ingizo(kupiga dari, n, [tabaka], "uso wa vigae").
+entry(till, v, [tilled,tilling,tills], "kulima ardhi kwa mazao kwa kulimaTILLABLE kiv").
+entry(ukulima, n, [ukulima], "ardhi iliyolimwa").
+kiingilio(tiller, k, [tillered, tillering, tillers], "kutoa shina kutoka kwa mzizi").
+entry(tilaiti, n, [tilaiti], "mwamba uliojengwa kwa udongo mchanga changarawe na mawe makubwa").
+entry(tilt, v, [iliyoinama, inaoinama, inainama], "kusababisha kuinamaTILTABLE kivumishi").
+entry(mwondoaji, n, [waondoaji], "anayeondoa").
+ingizo(tilth, n, [tilths], "kulima").
+entry(uwanja_wa_jahazi, n, [uwanja_wa_jahazi], "eneo la mashindano ya upanga").
+entry(timarau, n, [timaraus], "tamarau").
+entry(timbal, n, [timbals], "ngoma kubwa").
+entry(timbale, n, [timbales], "ganda la keki lililoumbwa kama ngoma").
+kiingilio(mbao, v, [lililowekwa_mbao, kuweka_mbao, mbao], "kutoa mbao zinazotumika kama nyenzo ya ujenziTIMBERY kiv").
+entry(timbre, n, [timbres], "ubora unaopewa sauti na matambiko yakeTIMBRAL kiv").
+entry(kode, n, [ngoma], "chombo cha mapigo").
+entry(muda, v, [kipimuda, kipimo, nyakati], "kuamua kasi au muda wa").
+entry(kadi_ya_muda, n, [kadi_za_muda], "kadi ya kurekodi muda wa kufika na kuondoka kwa mfanyakazi").
+entry(timeless, kiv, [], "kisicho na mwanzo wala mwisho").
+kiingilio(muda, n, [muda_mikuu], "ratiba ya matukio").
+entry(kwa_wakati, kivumishi, [], "KWA_WAKATI_ZAIDI KWA_WAKATI_KABISA kutokea kwa wakati unaofaa").
+entry(timeous, adj, [], "kwa wakati").
+kiingilio(timeout, n, [timeouts], "kusitishwa kwa muda mfupi kwa shughuli").
+kiingizo(kipima muda, n, [vipima muda], "kinachopima muda").
+kiingilio(kazi_ya_saa, n, [kazi_za_saa], "kazi inayolipwa kwa saa au kwa siku").
+entry(mchaka-mchaka, kiv, [], "kuonyesha athari za matumizi au mvaaji wa muda mrefu").
+ingizo(koga, kiv, [], "KOGA ZAIDI KOGA SANA kukosa ujasiri au kujiamini KWA KOGA adv").
+entry(woga, n, [woga], "hali ya kuwa mwoga").
+kiingilio(utaratibu, n, [utaratibu], "uchaguzi wa wakati sahihi wa kufanya kitu").
+ingia(timolol, n, [timolols], "dawa inayotumika kutibu glaucoma").
+entry(timorous, kiv, [], "wa hofu").
+entry(timothy, n, [timothies], "nyasi ya Ulaya").
+ingia(timpano, n, [matimpani], "ngoma ya besi").
+ingizo(timpanum, n, [timpanums], "au TIMPANAtympanum").
+entry(tin, v, [tinned,tinning,tins], "kupaka bati, kipengele cha metali").
+entry(tinamou, n, [matinga], "ndege wa Kiamerika Kusini kwa ajili ya mchezo").
+kiingilio(tinikali, n, [tinikali], "boraksi mbichi").
+entry(tinct, v, [tincted,tincting,tincts], "kupaka rangi").
+kiingizo(tincture, v, [tinctured,tincturing,tinctures], "kupaka rangi").
+ingia(tinder, n, [tinders], "nyenzo inayoweza kuwaka kwa urahisiTINDERY kiv").
+entry(tine, v, [tined,tining,tines], "kupoteza").
+ingizo(tinea, n, [tineas], "ugonjwa wa ngozi unaosababishwa na kuvuTINEAL kiv").
+entry(tineid, n, [tineids], "moja ya familia ya vipepeo").
+kiingilio(karatasi_nyembamba_ya_chuma, n, [karatasi_nyembamba_za_metali], "karatasi nyembamba ya metali").
+entry(tinful, n, [matinfuli], "kadiri ambavyo chombo cha bati kinaweza kubeba").
+entry(ting, k, [tinged, tinging, tings], "kutoa sauti kali ya metali").
+entry(tinge, v, [], "KUTOA RANGI KIDOGO KWA").
+entry(tingle, v, [tingled,tingling,tingles], "kusababisha hisia ya kuwasha kama sindano").
+ingizo(tingler, n, [tinglers], "mmoja anayetikisa").
+entry(mwanguko, kiv, [], "TINGLER ZAIDI TINGLIESTzingatia").
+entry(tinhorn, n, [tinhorns], "mtu anayeonyesha udanganyifu kwa kujionyesha").
+entry(dogo, linganishi, [], "ya ndogo").
+entry(tiniest, superlative, [], "ya vidogo").
+entry(kidogo, kielezi, [], "kwa njia ndogo").
+entry(udogo, n, [udogozote], "ubora wa kuwa mdogo").
+entry(tining, ya sasa, [], "kitenzi kinachoshirikisha cha tine").
+entry(tinker, v, [tinkered,tinkering,tinkers], "kurekebisha kwa njia isiyo na ujuzi au ya majaribio").
+entry(mchawi, n, [wachawi], "anayetengeneza vitu vidogo vidogo").
+entry(tinkle, k, [ilia,ikilia,ilia], "kufanya sauti nyembamba za metali kali").
+entry(tinkler, n, [tinklers], "anaye tingisha").
+entry(mlio, n, [milio], "sauti inayotolewa na kitu kinacholia").
+ingizaji(tinkly, kiv, [], "TINKLIER TINKLIEST kutoa sauti ya kutinklika").
+entry(tinlike, kiv, [], "inafanana na bati").
+entry(tinman, n, [batimakenika], "mtengeneza bati").
+kiingizo(chumvi, iliyopita, [], "hali ya chumvi").
+ingia(mchimba_bati, n, [wachimba_bati], "mchimba bati").
+entry(tinnier, kulinganisha, [], "ya bati").
+ingizo(mdogo_kupita_kiasi, kubwa_kupita_kiasi, [], "ya unyonge").
+entry(tinnily, kielezi, [], "kwa namna ya shehena").
+entry(tinning, ya sasa, [], "kiima endelevu ya tina").
+entry(tinnitus, n, [mashadusi], "sauti ya king'ong'o masikioni").
+ingizo(tinny, kiv, [], "TINNIER TINNIESTya au kufanana na bati").
+entry(tinplate, v, [tinplated,tinplating,tinplates], "kufunika kifaa kwa bati").
+entry(tinpot, kiv, [], "ya umuhimu mdogo").
+entry(tinsel, v, [kupamba kwa utando, kupamba kwa utando, mapambo], "au KUPAMBA KWA UTANDO KUPAMBA KWA UTANDO MAPAMBO kuipatia mwonekano wa kuvutia au wa kupendeza").
+entry(tinselly, adj, [], "ya bei rahisi na inang'aa sana").
+entry(tinsely, kiv, [], "tinselly").
+entry(mfua bati, n, [mafua bati], "mmoja anayefanya kazi na bati").
+entry(makasi_ya_meti, npl, [], "chombo cha kukata bati").
+entry(tinstone, n, [tinstones], "madini ya bati").
+ingia(tint, v, [tinted,tinting,tints], "kupaka rangi kidogo au kwa upole").
+ingia(mpiga_rangi, n, [wapiga_rangi], "yule anayepaka rangi.").
+entry(upakaji_rangi, n, [upakaji_rangi], "mchakato wa mtu anayeweka rangi").
+entry(tintless, kiv, [], "kukosa rangi").
+kiingilio(tintype, n, [tintypes], "aina ya picha").
+ingizo(tinware, n, [tinwares], "vifaa vilivyotengenezwa kwa bati").
+entry(tinwork, n, [tinworks], "kitu kilichotengenezwa kwa bati").
+entry(ndogo, kivumishi, [], "NDOGO SANA").
+entry(tip, v, [tipu, kupiga mwelekeo, vidokezo], "kuinua").
+entry(tipcarti, n, [tipcarti], "aina ya mkokoteni").
+ingizo(tipcat, n, [tipcats], "mchezo unaofanana na besiboli").
+entries(tipi, n, [matipi], "nyumba ya jamii za Wenyeji wa Amerika").
+entry(tipless, adj, [], "kutokuwa na ncha au mwisho").
+entry(tipoff, n, [vidokezo], "kidokezo au onyo").
+entry(tippable, kivumishi, [], "uweza wa kutiliwa").
+entry(tipped, past, [], "ngeli ya tip").
+kiingilio(tipper, n, [tippers], "mmoja anayetoa vidokezo").
+entry(tippet, n, [tippets], "kitambaa cha kufunika mabega").
+ingizo(tippier, linganishi, [], "ya tippy").
+entry(tippiest, kivumishi-cha-upimaji, [], "ya tippy").
+kiingilio(kutegemea, sasa, [], "kiima cha kitenzi cha tegemea").
+entry(kinywaji, k, [kinywaji_pombe, kunywaji_pombe, vinywaji], "kunywa vinywaji vya pombe").
+ingizo(tippler, n, [watippler], "moja anayekunywa pombe").
+entry(tippy, kivumishi, [], "TIPPIER TIPPIESThaithini").
+entry(tippytoe, k, [tippytoed,tippytoeing,tippytoes], "kutembea kwa vidole").
+ingia(kijikaratasi_cha_ushauri, n, [vijikaratasi_vya_ushauri], "chapisho lenye ushauri kwa kubashiri kwenye mbio au kuwekeza kwenye hisa").
+entry(tipsier, kulinganisha, [], "ya tipsy").
+kiingilio(tipsiest, superlative, [], "ya kulewa").
+entry(kwa_ulevi, kiv, [], "katika hali ya kulewa").
+ingizo(tipstaff, n, [vikali], "au TIPSTAVES mhudumu katika mahakama ya sheria").
+kiingilio(tipster, n, [matipster], "anayehusika na kuuza taarifa kwa wacheza kamari").
+entry(tipstock, n, [tipstocks], "sehemu ya bunduki").
+entry(tipsy, adj, [], "AMELEWA KIDOGO AMELEWESHWA ZAIDI").
+entry(tiptoe, v, [tiptoed,tiptoeing,tiptoes], "kutembea juu ya ncha za vidole vya miguu").
+kiingilio(tiptop, n, [tiptops], "sehemu ya juu kabisa").
+entry(tirade, n, [hotuba_ndefu], "hotuba ndefu kali").
+entry(tiramisu, n, [tiramisu], "kitindamlo kilichotengenezwa na ladyfingers mascarpone chokoleti na espresso").
+entry(tire, v, [tired,tiring,tires], "kuchoka").
+kiingilio(choka, kiv, [], "WACHOVU WACHOVU ZAIDIamechoka ya nguvuKWA UCHOVU kiv").
+entry(tireless, kiv, [], "kana kwamba haiwezi kuchoka").
+entry(tiresome, adj, [], "yachosha").
+entry(uchovu, sasa, [], "kirai cha kuchoka").
+entry(tirl, k, [tirled,tirling,tirls], "kutoa sauti inayotetemeka").
+entry(mwanagenzi, n, [wanagenzi], "tyro").
+entry(tirrivee, n, [tirrivees], "hasira").
+entry(tisani, n, [tisani], "tisan").
+entry(tissual, adj, [], "kuhusu tishu").
+uingizaji(kifuma, v, [kifumua,kifumwa,kifuma], "kusuka kuwa kifuma kitambaa chembamba laini").
+entry(tissuey, adj, [], "inayofanana na tishu").
+entry(kihusisha_tishu, kivumishi, [], "inaathiri nyenzo ya muundo wa tishu za kiumbe hai").
+ingizo(tit, n, [tit], "ndege mdogo").
+ingizo(taitani, n, [mataitani], "mtu wa ukubwa mkubwa").
+entry(titanate, n, [titanates], "chumvi ya kemikali").
+entry(titaness, n, [titanesses], "titani wa kike").
+entry(titania, n, [titanias], "madini").
+entry(titanic, adj, [], "ya ukubwa mkubwa").
+kiingilio(utaitanizimu, n, [utaitanizimu], "uasi dhidi ya mila za kijamii").
+ingizo(taitanaite, n, [taitanaitezi], "madini").
+ingizo(titanium, n, [titaniums], "kipengele cha metali").
+ingizo(titanous, kiv, [], "kuhusu titani").
+ingizaji(titbit, n, [vititbit], "kitidbit").
+entry(titch, n, [titches], "kiasi kidogo").
+entry(titchie, kiv, [], "TITCHIER TITCHIESTtitchy").
+entry(titchy, adj, [], "NDOGO ZAIDI NDOGO KABISA").
+entry(titer, n, [titers], "nguvu ya suluhisho la kemikali").
+entry(titfer, n, [titfers], "kofia").
+entry(tithable, adj, [], "inahusika na kulipa zaka").
+entry(fungu_lakumi, v, [fungu_likumiwa, kufunguakumi, mafungu_ya_kumi], "kulipa fungu la kumi kodi ndogo").
+entry(tither, n, [watoaji], "mmoja anayetoa sehemu ya kumi").
+entry(kusadaka, n, [zisadaka], "kitendo cha kutoza sadaka").
+ingizo(tithonia, n, [tithonias], "mmea mrefu").
+kiingilio(titi, n, [titis], "msitu wa kijani kibichi au mti").
+entry(titian, n, [matitian], "rangi ya kahawia nyekundu").
+entry(strakisha, kt, [strakishwa, strakisha, strakisha], "kuvaa kwa maridadi").
+kiingizio(titlark, n, [titlarks], "ndege wa wimbo").
+kiingilio(kichwa, v, [vikiwa,vikiwa,vikiendelea], "kuhusisha na kichwa jina la kipekee").
+kipengele(titlist, n, [titlists], "bingwa wa michezo").
+entry(titman, n, [titmen], "mdogo zaidi kwenye kundi la nguruwe").
+kiingilio(titmouse, n, [titmice], "ndege mdogo").
+entry(titrable, adj, [], "uwezo wa kutitiriwa").
+entry(titrant, n, [vijatiridi], "reagent inayotumika katika titrishaji").
+entry(titre, v, [titrewa,titre,mititre], "kuamua nguvu ya suluhisho kwa kuongeza reagent mpaka athari inayotaka itokee").
+entry(mtitrishaji, n, [wamitirishaji], "anayepima").
+ingizo(kichwa, n, [vichwa], "kichwa").
+ingizo(cheka_kwa_hadhari, v, [alikicheka_kwa_hadhari, anakicheka_kwa_hadhari, anacheka_kwa_hadhari], "kutoa kicheko cha kusitasita kwa aibu").
+entry(titterer, n, [titterers], "mmoja anayekicheka").
+kiingilio(tittie, n, [titties], "dada").
+ingizo(tittle, n, [tittles], "alama ndogo sana katika maandishi au uchapishaji").
+entry(tittup, v, [tittuped,tittuping,tittups], "au TITTUPPED TITTUPPING TITTUPSkusonga kwa njia ya kuishi").
+entry(tittuppy, kiv, [], "tetemeka haithabiti").
+entry(titi, n, [matiti], "chuchu").
+entry(titubant, kiv, [], "iliyoonyeshwa kwa kutetereka").
+entry(titular, n, [mashikiliaji], "ambaye anashikilia jina").
+entry(titulary, n, [titularies], "kitulary").
+entry(tivy, kiv, [], "kwa kasi kubwa").
+entry(tix, npl, [], "tiketi").
+entry(tiyin, n, [tiyins], "kipimo cha fedha cha Kyrgyzstan").
+entry(tiyn, n, [tiyns], "kikokotoo cha fedha cha Kazakhstan").
+entry(tiz, n, [tizes], "kizunguzungu").
+entry(tizz, n, [tizzes], "tizzy").
+ingizo(tizzy, n, [tizzies], "hali ya mkanganyiko wa woga").
+entry(tmesis, n, [matmisi], "mgawanyiko wa sehemu za neno changamano kwa kuingizishwa neno au maneno kati").
+kiingilio(kwa, kihusishi, [], "katika mwelekeo wa").
+kiingilio(chura, n, [vyura], "amfibia anayeweza kuruka asiye na mkia").
+kiingilio(samaki_chura, n, [samaki_chura], "samaki wa baharini").
+entry(toadflax, n, [toadflaxes], "mimea ya kudumu").
+entry(toadied, past, [], "kitenzi cha toady").
+entry(toadies, sasa, [], "mtu wa 3 umoja wa kujipendekeza").
+entry-kama-chura, kiv, [], "kufanana na chura").
+entry(toadless, adj, [], "kutokuwa na vyura").
+entry(toadlet, n, [toadlets], "chura mdogo").
+entry(mwonekano_chura, kiv, [], "kuonekana kama chura").
+entry(kumtoady, k, [kumtoadiesha,kumtoadykia,kuvutoadiesha], "kufanya kujipendekeza kwa kujishusha").
+entry(toadyish, adj, [], "sifa ya mtu anayejipendekeza").
+kiingilio(toadyismu, n, [toadyismu], "tabia ya kujipendekeza").
+ingia(toast, v, [toasted,toasting,toasts], "kuweka rangi hudhurungi kwa kufichua kwa joto").
+entry(kibaniko, n, [vibaniko], "kifaa cha kuchomea").
+entry(toasting, n, [toastings], "kuongeza usemi wa kimarudio kwenye muziki wa reggae").
+entry(toasty, adj, [], "YA JOTO ZAIDI KWA URAHISI").
+entry(tumbaku, n, [tumbakus], "au TUMBAKOzan mimea ya kila mwaka inayolimwa kwa ajili ya majani yake").

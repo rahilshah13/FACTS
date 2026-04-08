@@ -21997,3 +21997,2406 @@ entry(scuff, v, [scuffed,scuffing,scuffs], "lalampahan tanpa ngalengan suku").
 entry(scuffer, n, [scuffers], "hiji nu nyerodot").
 entry(gabrug, v, [gabruged,gabruging,gabrugs], "pasulayanan sacara campur aduk jeung kasar").
 entry(scuffler, n, [scufflers], "nu kacida anu ngajorag").
+entry(sculler, n, [scullers], "nu ngadayang").
+entry(dapur_bantos, n, [dapur_bantos], "hiji kamar anu dianggo pikeun ngabersihkeun jeung nyimpen parabot dapur").
+entry(scullion, n, [scullions], "abdi dapur anu ngalakukeun padamelan hina").
+entry(sculp, v, [sculped,sculping,sculps], "ngukir").
+entry(sculpin, n, [sculpins], "lauresh fish").
+entry(ngamuja, k, [ngamujakeun,ngamuja,ngamujakeun], "ngawangun hiji gambar atawa gambaran tina bahan padet").
+entry(pematung, n, [para_pematung], "hiji nu ngukir").
+entry(scultch, n, [scultches], "sculch").
+entry(scum, v, [scummed,scumming,scums], "ngaleupaskeun kokotor anu teu murni atawa anu lain tina hiji hal").
+entry(scumbag, n, [scumbags], "cikerang").
+entry(scumball, n, [scumballs], "jalma kotor").
+entry(scumble, v, [scumbled,scumbling,scumbles], "ngalemeskeun tepian atawa warna ku cara ngagemes enteng").
+entry(scumless, adj, [], "teu aya bendu").
+entry(scumlike, adj, [], "nyarupaan buih").
+entry(scummed, kapungkur, [], "hartos tina scum").
+entry(scummer, n, [scummers], "hiji anu ngagumpalan").
+entry(scumming, ayeuna, [], "participle ti scum").
+entry(scummy, adj, [], "SCUMMIER SCUMMIESTdikeur kalawan cinyusuSCUMMILY adv").
+entry(scungile, n, [scungili], "sipi dipaké pikeun dahareun").
+entry(scunner, v, [ngacapruk,ngacapruk,ngacapruk], "ngarasa jijik atawa ngahina").
+entry(scup, n, [scups], "hiji lauk ti laut pikeun dahareun").
+entry(scuppaug, n, [scuppaugs], "scup").
+entry(scupper, v, [scuppered, scuppering, scuppers], "ngagojod").
+entry(scurf, n, [scurfs], "kulit garing anu sisir atawa ngarepelek").
+entry(scurfy, adj, [], "SCURFIER SCURFIESTkatutupan ku kelek.").
+entry(scurril, adj, [], "scurrile").
+entry(scurrile, adj, [], "diungkapkeun dina basa kasar jeung kasar").
+entry(ciracir, kkt, [ciraciren,ciracir,ngacir], "pindah kalayan buru-buru").
+entry(scurvy, adj, [], "SCURVIER SCURVIESTbasis atanapi hinaSCURVILY adv").
+entry(scurvy, n, [scurvies], "panyakit akibat kakurangan vitamin C").
+entry(scut, n, [scuts], "ekor pondok sapertos kelenci").
+entry(scuta, pl, [], "tina scutum").
+entry(scutage, n, [scutages], "pajeg anu diitung ku pangagung feodal minangka gantina tina palayanan militer").
+entry(scutate, adj, [], "wangun kawas tameng").
+entry(scutch, v, [scutched,scutching,scutches], "misahkeun serat kai ku ngéléhkeun").
+entry(scutcher, n, [scutchers], "hiji nu ngahaluskeun serat").
+entry(scute, n, [scutes], "pelat tanduk atawa sisik").
+entry(scutella, npl, [], "organ atanapi bagéan scutata leutik").
+entry(scutter, v, [scuttered,scuttering,scutters], "ngagorowok").
+entry(scuttle, v, [scuttled,scuttling,scuttles], "geuwat lumpat").
+entry(scutum, n, [scuta], "scute").
+entry(scutwork, n, [scutworks], "gawe nu matak bosen atawa teu penting").
+entry(scuzz, n, [scuzzes], "jalma anu kotor atawa hina").
+entry(scuzzbag, n, [scuzzbags], "jalma kotor atawa hina").
+entry(scuzzy, adj, [], "SCUZZIER SCUZZIESTkotor atawa laluyutan").
+entry(scyphate, adj, [], "wangun kawas cangkir").
+entry(scyphus, n, [scyphi], "cangkir Yunani kalayan dua gagang").
+entry(parit, v, [diparit,paritkeun,parit], "ngagunakeun parit pikeun dipotong ku parit, alat motong hiji bilah").
+entry(samudra, n, [samudra], "sagara").
+entry(seabag, n, [kantonglaut], "kantong nu dipaké ku pelaut").
+entry(seabeach, n, [seabeaches], "pantai anu ayana di sapanjang laut").
+entry(lantai_laut, n, [lantai_laut], "lantai laut").
+entry(manuk_laut, n, [manuk_manukan], "manuk anu sering kapanggih di laut atawa basisir").
+entry(pasisir, n, [pasisir], "basisir").
+entry(seaboot, n, [seaboots], "sapatu kedap cai").
+entry(seaborne, adj, [], "dibawa dina atanapi ngaliwatan laut").
+entry(pantai, n, [pantaipantai], "lahan nu berdempetan jeung laut").
+entry(seacock, n, [seacocks], "klep dina lambung kapal").
+entry(parahu, n, [parahu-parahu], "kaparigelan dina navigasi laut").
+entry(seadog, n, [anjing_laut], "kabut pelangi").
+entry(seadrome, n, [seadromes], "bandara di laut").
+entry(nakhoda, n, [nakhoda-nakhoda], "saurang pelaut").
+entry(dasar_samudera, n, [dasar_dasar_samudera], "handapeun sagara").
+entry(seafoam, n, [seafoams], "busa nu kabentuk di laut").
+entry(hasil_laut, n, [hasil_hasil_laut], "lau laut anu tiasa didahar kayaning lauk atanapi karang").
+entry(seafowl, n, [seafowls], "manuk basisir").
+entry(seafront, n, [seafronts], "daérah sapanjang pinggiran laut").
+entry(seagirt, adj, [], "dikepung ku laut").
+entry(seagoing, adj, [], "dirancang pikeun dipaké di laut").
+entry(seagrass, n, [seagrasses], "tutuwuhan anu siga jukut hirup di atawa gigireun laut").
+entry(cikal, n, [cikal], "manuk nu remen aya di laut").
+entri(kuda_laut, n, [kuda_laut], "salah sahiji lauk tina kulawarga pipefish").
+entry(seakale, n, [seakales], "tutuwuhan basisir kalayan pucuk anu tiasa didahar").
+entry(anjar, v, [diasupanan,ngasupan,ngasupanan], "nutup atanapi ngamankeun ngalawan aksés, bocor, atanapi papaséaanANJAR-PISAN adj").
+entry(sealan, n, [sealan-sealan], "agen panutup").
+entry(sealer, n, [sealers], "hiji nu nyapkeun").
+entry(sealery, n, [sealeries], "pakasaban moro anjing laut").
+entry(sealift, v, [sealifted, sealifting, sealifts], "ngangkut personel militer jeung pakakas ku kapal").
+entry(sealing, n, [sealings], "pangburuan anjing laut").
+entry(seallike, adj, [], "nyarupaan anjing laut hiji sato akuatik").
+entry(kulitseal, n, [kulitseal], "kulit anjing laut").
+entry(seam, v, [seamed,seaming,seams], "ngagabungkeun ku jahitan garis anu kabentuk ku ngahijikeun dua potongan lawon babarengan").
+entry(seaman, n, [seamen], "saurang jurumudiLAYAR adj").
+entry(seamark, n, [seamarks], "tandatanda anu janten pituduh navigasi pikeun nakoda kapal").
+entry(seamer, n, [seamers], "hiji anu nyieun nambah").
+masukan(seamier, komparatif, [], "tina seamy").
+entry(seamiest, superlative, [], "tina seamy").
+entry(seamless, adj, [], "teu gaduh jahitan").
+entry(seamlike, adj, [], "nyirikeun kana kelim").
+entry(seamount, n, [seamounts], "gunung di laut").
+entry(tukang_jahit, n, [tukang_jahit], "jalma anu padamelanana ngaput").
+entry(seamy, adj, [], "SEAMIER SEAMIESTteu pikaresepeun").
+entry(séans, n, [séans-séans], "pasamoan jalma-jalma nu milari pesen spiritualistik").
+entry(seapiece, n, [seapieces], "pemandangan laut").
+entry(seaplane, n, [kapal_lalay], "hiji kapal udara nu dirancang pikeun nyokot luncat atawa badarat dina cai").
+entry(pelabuhan, n, [pelabuhan], "hiji palabuan atanapi kota anu tiasa diakses ku kapal laut").
+entry(seaquake, n, [seaquakes], "lindhu jero laut").
+entry(sear, adj, [], "SEARER SEARESTsere").
+entry(sear, v, [seared,searing,sears], "ngaduruk beungeut tina").
+entry(pilarian, v, [dipilarian, nu keur milarian, milarian], "ngalakukeun panalungtikan pikeun manggih hiji hal").
+entry(searcher, n, [nu_ngaheulakeun], "hiji nu néangan").
+entry(searobin, n, [searobins], "ikan laut").
+entry(seascape, n, [seascapes], "gambar laut").
+entry(seascout, n, [seascouts], "palaboy putera anu dilatih dina kagiatan cai").
+entry(kulit_kekuik, n, [kulit_kekuik_kulawu], "kulit tina moluska laut").
+entry(pasisir, n, [pasisir-pasisir], "tanah anu padeukeut jeung laut").
+entry(mabuk_laut, adj, [], "kapangaruhan ku jeungkaran nu diakibatkeun ku gerakan kapal di laut").
+entry(pasisir, n, [pasisir-pasisir], "pasisir laut").
+entry(musim, v, [dibumbui,bumbu-musim,musim-musim], "pikeun ngatingkatkeun atanapi ningkatkeun rasa ku nambahkeun bahan anu asin").
+entry(musiman, n, [musiman-maniman], "pagawé atawa produk nu patali jeung waktu dina sataun").
+entry(seasoner, n, [seasoners], "hiji nu ngarasa").
+entry(korsi, v, [diuk, diuk-na, korsi], "nempatkeun kana korsi hiji hal anu didiukan").
+entry(seatback, n, [seatbacks], "tonggong korsi").
+entry(sabuk_pengaman, n, [sabuk_pengaman], "susunan sabuk pikeun ngajaga batur tetep dina korsi").
+entry(seater, n, [seaters], "hiji anu calik").
+entry(seating, n, [seatings], "bahan kanggo nutupan korsi").
+entry(seatless, adj, [], "teu gaduh korsi").
+entry(seatmate, n, [seatmate-seatmate], "nu babagi korsi").
+entry(seatrain, n, [seatrains], "kapal anu disiapkeun pikeun ngangkut gerbong karéta api").
+entry(seatrout, n, [seatrouts], "lau laut").
+entry(seatwork, n, [seatworks], "gawe nu réngsé di korsi sorangan").
+entry(seawall, n, [seawalls], "témbok pikeun ngajaga basisir tina erosi").
+entry(seawan, n, [seawans], "wampum").
+entry(seawant, n, [seawants], "seawan").
+entry(seaward, n, [seawards], "jurusan ka laut lepas").
+entry(seaware, n, [seawares], "salinit laut anu dipaké minangka pupuk").
+entry(cai_laut, n, [cai_laut], "cai ti laut").
+entry(seaway, n, [seaways], "lalampahan anu ditempuh ku parahu").
+entry(rumbah, n, [rumbah_rumbah], "tutuwuhan nu tumuwuh di lautSEAWEDY adj").
+entry(sebacic, adj, [], "asalna tina asam tertentu").
+entry(sebasic, adj, [], "sebacic").
+entry(sebum, n, [sebums], "zat lemak anu dihasilkeun ku kelenjar-kelenjar kulit tertentu").
+entry(sec, n, [secs], "secant").
+entry(secalose, n, [sekalosis], "karbohidrat komplek").
+entry(secant, n, [secants], "fungsi trigonometri tina hiji sudut").
+entry(secantly, adv, [], "ku cara meuntas").
+entry(secateur, n, [pias], "alat pikeun meresihan tatangkalan").
+entry(secco, n, [seccos], "seni lukis dina plester garing").
+entry(misah, v, [misah, misahkeun, misahna], "mundur sacara resmi tina aliansi atawa asosiasi").
+entry(seceder, n, [seceders], "anu misahkeun").
+entry(secern, v, [secerned,secerning,secerns], "ngabejaan salaku misah").
+entry(pisahkeun, k, [kapisah,pisang,pisah), "ngaleupaskeun atawa ngasingkeun ti batur").
+entry(kadua, v, [kaduaed,kaduaning,kaduas], "mikeun dukungan atawa panyemangat").
+entry(seconde, n, [kadua], "posisi dina pagar").
+entry(secondee, n, [secondees], "pagawé anu dipindahkeun ka pagawéan séjén samentara").
+entry(seconder, n, [seconders], "hiji anu ngarojong").
+entry(kadua, katerangan, [], "dina tempat salajengna saatos anu kahiji").
+entry(secondo, n, [secondi], "bagian handap dina duet piano").
+entry(secpar, n, [secpars], "sapasang parsec").
+entry(rahasia, n, [rahasia-rahasia], "kaayaan nu disumputkeun").
+entry(répréséntatif, adj, [], "Pangértip Pangértéparkasar tina élmu atanapi pandangan").
+entry(r@hasia, n, [r@hasia-r@hasia], "sababaraha hal anu disimpen tina pangaweruh batur").
+entry(secrete, v, [secreted,secreting,secretes], "ngahasilkeun sareng misahkeun kaluar tina sél atanapi cairan awak").
+entry(secretin, n, [secretins], "hiji hormon").
+entry(réa-api, katerangan, [], "kalawan cara nu rusiah").
+entry(secretor, n, [secretors], "hiji nu ngaluarkeun").
+entry(sect, n, [sektor], "sakumpulan jalma anu dihijikeun ku kayakinan atawa minat anu sarua").
+entry(sektari, n, [sektari-sektari], "anggota tina hiji aliran").
+entry(sectile, adj, [], "sanggup dipotong sacara lemes").
+entri(bagian, v, [dibageankeun, ngabagi, bagian-bagian], "mibagi kana bagean-bagean anu jelas").
+entry(sektor, v, [disektor,sektoring,sektor-sektor], "meupeus dina bagian sektor").
+entry(sektor, adj, [], "nyoko kana hiji sektor").
+entry(secular, n, [seculars], "urang awam").
+entry(secund, adj, [], "ngan hiji-hijina bagian atawa organ anu diatur dina hiji sisi wungkulSECUNDLY adv").
+entry(secundum, adv, [], "numutkeun").
+entry(aman, adj, [], "AMANLEBIH AMANPALING AMANbebas tina bahayaAMANA adv").
+entry(secure, v, [secured,securing,secures], "ngajantenkeun pageuh atawa ketat").
+entry(securer, n, [securers], "hiji nu ngajamin hiji hal").
+entry(ngecekel, ayeuna, [], "partisipel tina secure").
+entry(kaamanan, n, [kaamanan-kaamanan], "kaayaan aman").
+entry(sedan, n, [sedan-sedan], " hiji jinis mobil").
+entry(sedarim, a, [], "pl ti seder").
+entry(sedate, adj, [], "TENANG TENANGISapalingtenangTENANGna adv").
+entry(nyuntikankeun, v, [nyuntikankeun,nyuntikankeun,nyuntikankeun], "masihan ubar pancingan").
+entry(sedasi, n, [sedasi], "pengurangan stress atawa karesepan ku pamakean obat sedatif").
+entry(sedatif, n, [sedatif-sedatif], "obat nu ngahasilkeun kaayaan tenang").
+entry(seder, n, [seders], "atawa SEDARIM hiji dinner ritual Yahudi").
+entry(sederunt, n, [sederunts], "duduk lila").
+entry(sedge, n, [sedges], "tumbuhan rawa").
+entry(sedgy, adj, [], "SAMPORNA KU SEDGIER SEDGIESTnganggeuskeun ku jukut bentang").
+entry(sedile, n, [sedilia], "hiji tina korsi di gareja pikeun dipaké pendeta anu ngayakeun upacara").
+entry(sedilium, n, [sedilia], "bangku").
+entry(sedimen, v, [disedimenkeun,nyedimenkkeun,sedimen], "ngendap di handapeun cairan").
+entry(panghasutan, n, [panghasutan], "panghasut pikeun ngalawan pamaréntah").
+entry(ngagoda, v, [digoda,ngagoda,ngagoda], "ngarahkeun kana hal anu salahNGAGODA adj").
+entry(seducer, n, [anu ngagoda], "hiji anu ngagoda").
+entry(sedulity, n, [sedulities], "kaayaan rajin").
+entry(sedulous, adj, [], "rajinna").
+entry(sedum, n, [sedums], "tutuwuhan anu boga kembang").
+entry(tingali, v, [ngalieuh,ngalieukeun,ngalieuhan], "TINGALINingalikeun ku panonTINGALI adj").
+entry(seecatch, n, [seecatchie], "anjing laut jantan dewasa").
+entry(seed, v, [seeded,seeding,seeds], "melak bibit struktur tutuwuhan propagatif di").
+entry(seedbed, n, [seedbeds], "lahan anu disiapkeun pikeun nyebarkeun").
+entry(seedcake, n, [seedcakes], "aci amis ngandung siki bau amis").
+entry(seedcase, n, [seedcases], "perikarp").
+entry(seeder, n, [seeders], "hiji nu nanam").
+entry(seedier, komparatif, [], "ti seedy").
+entry(seediest, superlative, [], "tina seedy").
+entry(seedily, adv, [], "ku cara anu seedy").
+entry(seedless, adj, [], "teu boga siki").
+entry(seedlike, adj, [], "nyarupaan siki").
+entry(seedling, n, [seedlings], "tutuwuhan ngora").
+entry(seedman, n, [seedmen], "seedsman").
+entry(seedpod, n, [buah_pollong], "salah sahiji jenis pembuluh siki").
+entry(seedsman, n, [seedsmen], "padagang siki").
+entry(seedtime, n, [usum_peuseur], "usum pikeun naléangan biwir").
+entry(seedy, adj, [], "SEEDIER SEEDIESTngandung siki anu langkung handap dina kaayaan atawa kualitas").
+entry(seeing, n, [lapaden], "tindakan hiji jalma anu ningali").
+entry(neangan, v, [dipilarian, neangan, neangan], "pikeun milarian").
+entry(panyungsi, n, [panyungsi-panyungsi], "sahiji anu nalikeun").
+entry(seel, v, [seeled, seeling, seels], "ngajahit katutup panon salaku rajawali nalika latihan").
+entry(seely, adj, [], "lemah").
+entry(siga, v, [sigana,sigasiga,siguet], "ngabogae kesan jadi").
+entry(seemer, n, [seemers], "hiji nu sigana").
+entry(seeming, n, [seemings], "penampilan luar").
+entry(seemly, adj, [], "SEEMLIER SEEMLIEST tina penampilan anu pikaresepeun").
+entry(katingali, kapungkur, [], "participe tina ningali").
+entry(seep, v, [seeped,seeping,seeps], "ngabocor lalaunan ngaliwatan bukaan leutik").
+entry(resapan, n, [resapan], "jumlah cairan anu geus nyerep").
+entry(seepy, adj, [], "LEBIH SEEPI LEBIH SEEPIESTkalembapan atanapi merembes ku cai").
+entry(seer, n, [seers], "nabi").
+entry(seeress, n, [seeresses], "tukang ngusik awewe").
+entry(goang, v, [goang,ngoang,ngoang], "pindah naek turun atawa maju mundur").
+entry(seethe, v, [seethed,seething,seethes], "ngagolak atanapi berbusa siga ngagolak").
+entry(seg, n, [segs], "nya éta anu ngadukung pamisahan ras").
+entry(segetal, adj, [], "anu tumuwuh dina ladang gandum").
+entry(seggar, n, [seggars], "wadah keramik pangbeuleuman").
+entry(segment, v, [segmented,segmenting,segments], "mukarkeun jadi bagian-bagian").
+`entry(segno, n, [segnos], "atawa SEGNI sinyal musik").`
+entry(sego, n, [segos], "sabalikna tutuwuhan taunan").
+entry(segue, v, [dilarapkeun, nuju, disegue], "terus muka lagu tanpa jeda ti hiji téma musik ka nu sanés").
+entry(sei, n, [seis], "rorqual hiji").
+entry(seicento, n, [seicentos], "abad tujuh belas").
+entry(seiche, n, [seiches], "osilasi permukaan danau atawa laut anu kakepung taneuh").
+entry(seidel, n, [seidels], "gelas bir ageung").
+entry(seif, n, [seifs], "gumuk pasir panjang jeung sempit").
+entry(seigneur, n, [seigneurs], "seignior").
+entry(seignior, n, [seigniors], "juragan feodal").
+entry(seignory, n, [seignories], "kakuasaan hiji seignior").
+entry(seine, v, [seined,seining,seines], "ngala lauk ku jaring gedé nu nangtung").
+entry(seiner, n, [seiners], "hiji anu ngahulengkeun").
+entry(seining, n, [seinings], "tindakan nangkap lauk maké jaring").
+entry(seise, v, [seised,seising,seises], "to seizeSEISABLE adj").
+entry(seiser, n, [seisers], "pangrebut").
+entry(seisin, n, [seisins], "seizin").
+entry(seising, n, [seisings], "nyokot").
+entry(seism, n, [seisms], "liniSEISMAL SEISMIC adj").
+entry(seismisme, n, [seismismes], "kagiatan alami anu patali jeung lintrang bumi").
+entry(seisor, n, [seisors], "seizor").
+entry(seisure, n, [seisures], "seizure").
+entry(seitan, n, [seitans], "kadaharan anu didamel tina gluten gandum").
+entry(seiza, n, [seizas], "posisi sujud dina seni bela diri Jepang").
+entry(ngarebut, k, [ngarebut, keur_ngarebut, ngarebutan], "nyokot kalawan ujug-ujug sarta maksa, bisa_di_rebut adj").
+entry(seizer, n, [seizers], "nu nyokot").
+entry(seizin, n, [seizins], "kapamilikan sah tina taneuh").
+entry(ngarebut, n, [ngarebuts], "laku tina hiji nu ngarebut").
+entry(seizor, n, [seizors], "nu nyokot seizin").
+entry(seizure, n, [seizures], "tindakan nyekel").
+entry(sejant, adj, [], "dilandikeun dina posisi diuk dipaké pikeun sato heraldik").
+entry(sejeant, adj, [], "sejant").
+entry(sl, n, [sls], "slf").
+entry(seladang, n, [seladangs], "saladang").
+entry(selah, n, [selahs], "kecap anu teu dipikanyaho hartina, ngamarkah biasanya ahir ayat dina Jabur").
+entry(selamlik, n, [selamliks], "bagéan imah Turki anu ditangtoskeun pikeun lalaki").
+entry(selcouth, adj, [], "ajaib").
+entry(jarang, adj, [], "jarang adv").
+entry(milih, v, [dipilih, milihan, milih], "milih").
+entry(selectee, n, [selectees], "hiji anu dipilih").
+entry(selectly, adv, [], "ku pilihan").
+entry(selektor, n, [selektor-selektor], "hiji nu milih").
+entry(selenate, n, [selenates], "uyah kimia").
+entry(selenik, adj, [], "naha ngeunaan selenium").
+entry(selenide, n, [selenides], "senyawa sélén").
+entry(selenite, n, [selenites], "rupa gips").
+entry(selenium, n, [seleniums], "élémen non-logamSELENOUS adj").
+entry(diri, n, [diri], "jumlah pokok atau hakekat khusus ti hiji jalma").
+entry(diri, v, [diri,ngadiri,dirikeun], "ka kana turunan jero").
+entry(selfdom, n, [selfdoms], "selfhood").
+entry(selfheal, n, [selfheals], "tutuwuhan taunan").
+entry(selfhood, n, [selfhoods], "kaayaan janten hiji jalmi individu").
+entry(selfie, n, [selfie-selfie], "gambar diri sorangan anu dicandak ku sorangan ngagunakeun kaméra telepon").
+entry(egois, adj, [], "pedahkeun utamina atanapi ngan ukur ka diri sorangan").
+entry(selfless, adj, [], "hamipiran").
+entry(selfness, n, [selfnesses], "selfhood").
+entry(selfsame, adj, [], "saru").
+entry(selfward, kbnt, [], "ka arah sorangan").
+entry(selkie, n, [selkies], "sato dina folklor Skotlandia jeung Irlandia").
+entry(jual, v, [dijual, ngajual, ngajualkeun], "ngabejaan ka batur keur duit atawa balukar anu berhargaJUALKEUN adj").
+entry(selle, n, [selles], "pelana").
+entry(sellar, n, [sellars], "hiji anu ngajual").
+entry(jualobral, n, [jualobral], "penjualan jumlah besar saham, obligasi, atanapi komoditas").
+entry(sellout, n, [sellouts], "pertunjukan anu sadaya korsi na parantos dijual").
+entry(selsyn, n, [selsyns], "salah sahiji jinis alat kontrol jarak jauh").
+entry(seltzer, n, [seltzers], "cai mineral anu mibanda karbonasi").
+entry(selva, n, [leuweung_hujan], "leuweung hujan tropis").
+entry(selvage, n, [selvages], "tepi tina lawon anyaman anu réngsé pikeun nyegah agar lawon teu gampang ruksakSELVAGED adj").
+entry(selvedge, n, [selvedges], "selvage").
+entry(diri, pl, [], "of self").
+entry(semantik, adj, [], "nunjuk kana harti").
+entry(sematic, adj, [], "fungsina minangka panginget").
+entry(seme, n, [semes], "pola semee").
+entry(semee, adj, [], "katutupan ku gambar heraldik leutik sapanjangna").
+entry(sememe, n, [sememes], "hartina hiji morfemSEMEMIC adj").
+entry(semen, n, [semen-semen], "atawa SEMINA mangrupikeun cairan anu dihasilkeun dina organ reproduksi jalu").
+entry(semester, n, [semesters], "periode nu ngeusian satengah taun akademik").
+entry(semi, n, [semis], "treiler barang").
+entry(semi-arid, adj, [], "dicirikeun ku hujan hampang").
+entry(semibotak, adj, [], "sakitar botak").
+entry(semibold, adj, [], "dicitak ku jinis huruf kalayan gurat anu teu pati kandel sapertos hurup kandel").
+entry(semicoma, n, [semicomas], "koma anu bisa disadarkeun deui").
+entry(semideaf, adj, [], "saterusna mah beuki henteu ngadenge").
+entry(semidome, n, [semidomes], "satengah kubah").
+entry(sedeng garing, adj, [], "moderat garing").
+entry(semifit, adj, [], "nurut kana garis awak sabagéan").
+entry(semigala, adj, [], "sakedik gala").
+entry(semimanteng, adj, [], "sedeng manteng").
+entry(semihigh, adj, [], "lumayan jangkung").
+entry(semihobo, n, [semihobos], "atawa SEMIHOBOES hiji jalma anu ngagaduhan sababaraha ciri-ciri hobo").
+entry(semillon, n, [semillons], "anggur bodas anu tumuwuh di Perancis").
+entry(semilog, adj, [], "ngarupakeun salah sahiji ukuran logaritma sareng anu sanésna aritmatika").
+entry(semimat, adj, [], "ngagurilap saeutik").
+entry(semimatt, adj, [], "semimatt").
+entry(semimild, adj, [], "sedeng hampang").
+entry(semimute, adj, [], "ngan ukur sabagian leungit kamampuh nyarita").
+entry(semina, a, [], "pl of semen").
+entry(seminal, adj, [], "nunjuk kana mani").
+entry(seminar, n, [seminars], "kelompok studi maju di perguruan tinggi atawa universitas").
+entry(seminari, n, [seminari-seminari], "sakola pikeun ngalatih imam, pamingpin agama, atawa rabbi").
+entry(seminoma, n, [seminomas], "atanapi SEMINOMATA hiji tumor ganas tina testis").
+entry(seminude, adj, [], "satengahna taranjang").
+entry(semiopen, adj, [], "saperangan muka").
+entry(semiosis, n, [semioses], "proses di mana hiji hal fungsina minangka tanda pikeun organisme").
+entry(semiotik, n, [semiotik], "teori umum ngeunaan tanda jeung simbolisme").
+entry(semioval, adj, [], "sakedik buleud").
+entry(semipro, n, [semipros], "hiji anu kalibet dina sawatara widang atawa olahraga pikeun meunang bayaran dina dasar paruh waktu").
+entry(semiraw, adj, [], "rada atah").
+entry(semis, n, [semises], "mangrupa koin ti Romawi Kuno").
+entry(semisoft, adj, [], "hampir lemes").
+entry(semitist, n, [semitists], "hiji nu ngadukung kapentingan Yahudi").
+entry(semitone, n, [semitones], "jenis nada musik").
+entry(semiwild, adj, [], "saeutik liar").
+entry(semolina, n, [semolinas], "produk gandum bubuk anu dianggo pikeun pasta").
+entry(semple, adj, [], "asal muasal hina").
+entry(sederhana, adj, [], "basajan dipaké minangka arah musik").
+entry(sempre, adv, [], "ku cara nu sarua sapanjang  dipaké salaku pituduh musik").
+entry(sen, n, [sen], "hiji unit moneter Jepang").
+entry(senarius, n, [senarii], "ayat Yunani atanapi Latin anu diwangun ku genep tapak metrik").
+entry(senary, adj, [], "nunjuk kana jumlah genep").
+entry(senate, n, [senates], "hiji sidang nu boga fungsi deliberatif jeung législatif anu luhur").
+entry(senator, n, [senator-senator], "anggota sénat").
+entry(kirim, v, [dikirim,ngirim,kiring], "ngirim").
+entry(kirim, v, [ngirim,ngirimkeun,kirim], "nyababkeun lebetKIRIMABLE adj").
+entry(sendal, n, [sendal], "kain sutra").
+entry(pangirim, n, [para_pangirim], "nu ngirim").
+entry(sendoff, n, [sendoffs], "hajat pamitan").
+entry(sendup, n, [sendups], "parodi").
+entry(sene, n, [senes], "unit moneter di Samoa").
+entry(seneca, n, [senecas], "senega").
+entry(senecio, n, [senecios], "tumbuhan anu aya kembangna").
+entry(senega, n, [senegas], "akar tutuwuhan ubar").
+entry(ngarandeg, v, [ngarandeged,ngarandeging,ngarandeges], "jadi kolot").
+entry(sengi, n, [sengi], "hiji unit moneter tinangtu ti Zaire").
+entry(senhor, n, [senhors], "atawa SENHORES hiji lalaki Portugis atawa Brasil").
+entry(senhora, n, [ibu], "awéwé nikah ti Portugis atawa Brasil").
+entry(senile, n, [seniles], "nu nunjukkeun taona").
+entry(senarita, adv, [], "ku cara sepuh").
+entry(kakurangansu, n, [kakurangan-kakurangan], "kaayaan mental jeung fisik anu lemah alatan umur sepuh").
+entry(sesepuh, n, [sesepuh-sesepuh], "jalma anu langkung kolot tibatan anu sanés").
+entry(seniti, n, [seniti], "unit moneter Tonga").
+entry(senna, n, [sennas], "tutuwuhan ubar").
+entry(sennet, n, [sennets], "sauran ditiup dina trompét pikeun nandakeun asupna atanapi kaluarna palaku").
+entry(sennight, n, [sennights], "saminggu").
+entry(sennit, n, [sennits], "jerami dianyam anu dipaké pikeun nyieun topi").
+entry(senopia, n, [senopias], "paningkatkan visi caket").
+entry(senor, n, [senors], "atawa SENORESa seorang pria Spanyol").
+entry(senora, n, [senoras], "hiji awéwé Spanyol anu geus nikah").
+entry(senorita, n, [senoritas], "mojang atawa awéwé Spanyol nu teu acan nikah").
+entry(senryu, n, [senryu], "sajak Jepang").
+entry(sensa, pl, [], "tina sensum").
+entry(sensate, v, [sensated, sensating, sensates], "ngaraos").
+entry(inderan, v, [nginderan, nginder, ngainderanan], "ngaraos ku panca indera naon wae tina instansi anu tangtu anu ngalangkunganana hiji individu narima kesan tina dunya luar").
+entry(senseful, adj, [], "sensible").
+entry(sensei, n, [senseis], "guru seni bela diri Jepang").
+entry(sensible, adj, [], "SENSIBLER SENSIBLESTnembongkeun atawa nunjukkeun kaparigelan anu hadéSENSIBLY adv").
+entry(sensible, n, [sensibles], "hal anu tiasa karasa").
+entry(sensilla, n, [sensillae], "indra saderhana").
+entry(sensing, hadir, [], "partikel tina rasa").
+entry(sensor, n, [sénsor], "alat anu nampi sareng ngaréspon kana rangsangan").
+entry(sensoria, npl, [], "bagian-bagian otak nu patali jeung nampa jeung napsirkeun rangsangan pancaindera").
+entry(sensory, adj, [], "nu patali kana indra atanapi sensasi").
+entry(sensual, adj, [], "nu patali jeung indera fisik").
+entry(sensum, n, [sensa], "obyek persepsi atawa sensasi").
+entry(sensuous, adj, [], "nyaeta nu patali jeung atawa asalna tina indera").
+entry(sent, n, [senti], "hiji unit moneter di Éstonia").
+entry(sente, n, [licente], "atawa LISENTE hiji unit moneter di Lesotho").
+entry(ukara, v, [dihukum, ngahukuman, hukuman], "ngawartakeun sacara hukum jangkauan hukuman pikeun diberlakukan").
+entry(senti, n, [senti], "unit moneter anu saméméhna di Tanzania").
+entry(sadar, n, [sadars], "jalma atawa hal anu sanggup ngarasa").
+entry(sentimo, n, [sentimos], "unit moneter di Filipina").
+entry(sentinel, v, [sentineled,sentineling,sentinels], "or SENTINELLED SENTINELLING SENTINELSlampah tugas jaga").
+entry(sentry, n, [satri], "anu ngajaga").
+entry(sepal, n, [sepals], "hiji tina daun individual ti calyxSEPALED SEPALINE SEPALLED SEPALOID SEPALOUS adj").
+`entry(pisah, v, [dipisah,pisah,pisah], "keur misahkeun atau ngajaga supados misah").`
+entry(sepia, n, [sepias], "warna coklatSEPIK adj").
+entry(sepoy, n, [sepoys], "urang pribumi India anu ngalayanan di tentara Inggris").
+entry(seppuku, n, [seppukus], "bentuk bunuh diri Jepang").
+entry(seps, n, [sepses], "sato cilik Afrika").
+entry(sepsis, n, [sepsis], "invasi baktéri kana awak").
+entry(sept, n, [septs], "salaweutan").
+entry(septa, pl, [], "tina septum").
+entry(septage, n, [septages], "limbah dina tanki septik").
+entry(septal, adj, [], "nyakut kana septum").
+entry(septaria, npl, [], "gumpalan batu kapur").
+entry(septate, adj, [], "ngan sakedik").
+entry(septet, n, [septets], "sabalikur tujuh").
+entry(septette, n, [septettes], "sapta").
+entry(septik, n, [septiks], "agen anu ngahasilkeun sepsisSEPTIKAL ks").
+entry(septimal, adj, [], "dumasar kana angka tujuh").
+entry(septime, n, [septimes], "hiji posisi dina anggar").
+entry(septoria, n, [septorias], "sawatara jinis kapang").
+entry(septum, n, [septums], "atawa SEPTA nuju membran ngabagi atawa partisi").
+entry(septuple, v, [septupled, septupling, septuples], "nyieun tujuh kali leuwih ageung").
+entry(sequel, n, [sekuél], "hal anu nuturkeun sarta jadi panerus").
+entry(sequela, n, [sequelae], "kaayaan anu teu normal hasil tina panyakit anu saméméhna").
+entry(sequence, v, [diurutkeun,ngaurut,ngaurutan], "ngatur dina urutan berturut-turut").
+entry(sequency, n, [sékuénsi-sékuénsi], "anutan hiji hal saenggeus hal séjén").
+entry(sequent, n, [sequents], "hiji hal anu salajengna").
+entry(sequin, v, [sequined,sequining,sequins], "napelkeun sequin disk ornamén anu caang kana").
+entry(sequitur, n, [sequiturs], "kasimpulan tina hiji pamanggih").
+entry(sequoia, n, [sequoias], "tatangkalan anu badag salawasna héjo").
+entry(ser, n, [gers], "hiji unit beurat ti India").
+entry(sera, a, [], "pl of serum").
+entry(serac, n, [seracs], "saeutik balokan és ageung anu leupas tina glacier").
+entry(seraglio, n, [seraglios], "harem hiji").
+entry(serai, n, [serais], "istana Turki").
+entry(serail, n, [serails], "hiji seraglio").
+entry(seral, adj, [], "nunjuk kana runtuyan parobahan ekologis").
+entry(serape, n, [serapes], "saputangan wol warna-warni").
+entry(seraph, n, [seraphs], "atawa SERAPHIM atanapi SERAPHIN hiji mahluk langit anu boga jangjangSERAPHIC adj").
+entry(seraphim, n, [seraphims], "seraph").
+entry(serdab, n, [serdabs], "kamar dina hiji makam Mesir kuno").
+entry(sere, adj, [], "LEUAT LEUATna").
+entry(sere, v, [sered, sering, seres], "ngarangkang").
+entry(sere, n, [], "SERESéri alami tutuwuhan atawa sato").
+entry(serein, n, [sereins], "tiris halimun anu turun tina langit anu siga disada jelas").
+entry(serenade, v, [di-serenade, nu-serenade, serenades], "ngadongéng lagu kaurmatan pikeun énjing-éjén").
+entry(serenata, n, [serenatas], "atawa SERENATE hiji kantata dramatis").
+entry(sareen, kkt, [], "SAREEN SAREENESTtenang sareeSAREENLY adv").
+entry(hening, n, [hening], "kaayaan atawa wewengkon anu hening").
+entry(katentreman, n, [katentremanan], "kaayaan teuing tenang").
+entry(serer, babandinganana, [], "ti sere").
+entry(serest, superlative, [], "ti sere").
+entry(serf, n, [serfs], "hamba feodal").
+entry(serfage, n, [serfages], "kaabian").
+entry(perbudakan, n, [perbudakan], "kaayaan janten kacamatan").
+entry(serfhood, n, [serfhoods], "serfdom").
+entry(serfish, adj, [], "ciri ti serf").
+entry(serflike, adj, [], "serfish").
+entry(serge, v, [serged, serging, serges], "ngaréngsékeun ujung potongan tina sambungan nganggo jahitan overcast").
+entry(sersan, n, [sersan-sersan], "perwira militer nonkomisi").
+entry(serger, n, [sergers], "mesin pikeun nyerg").
+entry(serging, n, [sergings], "proses nyayag tepi bahan anu teu acan réngsé").
+entry(serial, n, [serials], "karya sastra atanapi dramatis anu dipidangkeun sacara berturut-turut").
+entry(serially, adv, [], "dina cara atanapi bentuk serial").
+entry(seriate, v, [jujutan, nujujutkeun, jujutkeun], "ngahiji dina hiji runtuyan").
+entry(seriatim, kktb, [], "sacara runtut").
+entry(sericin, n, [sericins], "sajenis protéin").
+entry(seriema, n, [seriemas], "manuk Brazil").
+entry(series, n, [runtuyan], "susunan hiji sanggeus sejen").
+entry(serif, n, [serifs], "garis leutik nu dipaké pikeun ngabéréskeun goresan utama tina hiji hurufSERIFED SERIFFED adj").
+entry(serin, n, [serins], "manuk finch Éropa").
+entry(serin, n, [serin-serin], "asam amino").
+entry(sering, present, [], "participle tina sere").
+entry(seringa, n, [seringas], "tatangkalan Brazil").
+entry(serius, adj, [], "naluri nu jero tur tenang dina penampilan atawa kalakuan").
+entry(sersan, n, [sersan-sersan], "sersan").
+entry(khotbah, n, [khotbah-khotbah], "hiji wacana agamaKHOTBAH adj").
+entry(serology, n, [serologi], "élmu ngeunaan serum").
+entry(serosa, n, [serosas], "atawa MEMBRAN tanpa lemak tipis anu ngabingbing rongga awak nu tangtu MEMBRAN adj").
+entry(serositas, n, [serositases], "kualitas atanapi kaayaan serous").
+entry(serotine, n, [serotines], "kalong Éropa ").
+entry(serotiny, n, [serotinies], "kaayaan mibanda panyebaran siki anu telat atanapi laun").
+entry(serotype, v, [serotyped,serotyping,serotypes], "ngaklasifikasikeun mikroorganisme nurutkeun sét ciri antigén").
+entry(serous, adj, [], "sakuliah serum").
+entry(serovar, n, [serovars], "sabaraha golongan mikroorganisme anu mibanda set antigens anu khas").
+entry(serow, n, [serows], "sato antelop Asia").
+entri(ular, n, [ular-ular], "sasat").
+entry(serpigo, n, [serpigos], "atawa SERPIGOES atawa SERPIGINES hiji panyakit kulit anu sumebar").
+entry(serranid, n, [serranids], "lau, hiji lauk sagara").
+entry(serrano, n, [serranos], "cabé leutik nu panas").
+entry(serrate, v, [serrated,serrating,serrates], "nyadiakeun kalawan uncal-kawas uncal").
+entry(serry, v, [serried,serrying,serries], "ngahiji padet").
+entry(serum, n, [serum-serum], "atawa SERAPaké bagian cai anu tina sakabéh getihSERUMAL adj").
+entry(servable, adj, [], "sanggup pikeun ngahidangkeun atanapi dihidangkeun").
+entry(serval, n, [servals], "ucing liar Afrika").
+entry(batur, n, [batur-batur], "hiji nu ngalayanan nu lian-lian").
+entry(ngawula, k, [ngawula, keur_ngaula, ngarawula], "pigawe pikeun").
+entry(server, n, [paladen], "hiji anu ngalayanan batur").
+entry(servis, n, [servis-servis], "tempat atanapi rohangan dimana tuangeun disajikeun").
+entry(service, v, [serviced,servicing,services], "ngalereskeun").
+entry(servicer, n, [servicers], "hiji anu ngalayanan").
+entry(servile, adj, [], "patuh sapisan").
+entry(hidangan, n, [hidangan-hidangan], "saporsi pangan").
+entry(servitor, n, [pelayan lalaki], "hiji pelayan lalaki").
+entry(servo, n, [servos], "alat otomatis anu dianggo kanggo ngadalikeun mékanisme séjén").
+entry(sesame, n, [sesames], "tutuwuhan asal India Wetan").
+entry(sesamoid, n, [sesamoids], "mèh massa nodular tina tulang atawa tulang rawan").
+entry(sesh, n, [seshes], "sési").
+entry(sessile, adj, [], "nempel salawasna").
+entry(sesi, n, [sesi-sesi], "hiji pasamoan tina badan legislatif atawa yudisial pikeun transaksi usaha").
+entry(sesspool, n, [sesspools], "cesspool").
+entry(sesterce, n, [sesterces], "mata uang kuna Romawi").
+entry(sestet, n, [sestets], "bait anu diwangun ku genep larik").
+entry(sestina, n, [sestinas], "hiji jenis wangun sajak").
+entry(sestine, n, [sestines], "sestina").
+entry(set, v, [set, setting, sets], "nempatkeun dina posisi tangtu").
+entry(seta, n, [setae], "rambut kasar jeung kakuSETAL adj").
+entry(setback, n, [setbacks], "kakalah").
+entry(setenant, n, [setenants], "perangko pos nu béda desain ti nu séjén dina lambar anu sarua").
+entry(setiform, adj, [], "boh bentuk siga seta").
+entry(setline, n, [setlines], "tali pancing anu kuat").
+entry(setoff, n, [setoffs], "hal anu ngimbangan hal séjén").
+entry(seton, n, [setons], "salah sahiji jinis benang bedah").
+entry(setose, adj, [], "ditutupan ku setae").
+entry(setous, adj, [], "setose").
+entry(setout, n, [setouts], "témbongkeun").
+entry(setscrew, n, [setscrews], "jenis sekrup").
+entry(sett, n, [setts], "liang luak").
+entry(settee, n, [settees], "korsi panjang jeung tonggong luhur").
+entry(setter, n, [setters], "hiji nu nyetél").
+entry(setting, n, [setting-settingan], "pemandangan anu dipaké dina produksi dramatis").
+entry(netep, v, [nepi, netepan, netepkeun], "pikeun nempatkeun dina kaayaan anu dipikahoyong atawa aturan").
+entry(settler, n, [settlers], "hiji nu netepkeun").
+entry(settling, n, [settlings], "sedimen").
+entry(settlor, n, [settlors], "hiji anu nyieun perjanjian hukum").
+entry(setulose, adj, [], "kagémbangan ku bulu leutik").
+entry(setulous, adj, [], "setulose").
+entry(setup, n, [setups], "cara anu aya diatur").
+entry(sev, n, [sevs], "kadaharan India tina untuyan tepung digoreng jero").
+entry(tujuh, n, [tujuhs], "sakedahna").
+entry(katujuh, n, [katujuhs], "salah sahiji tina tujuh bagian anu sarua").
+entry(sapuluh, n, [sapuluhan], "hiji angka").
+entry(misahkeun, v, [kapegat, nupegat, pepegat], "pikeun ngabagi atawa ngagunting jadi bagian-bagian").
+entry(sababaraha, n, [sababaraha], "sababaraha jalma atanapi perkara").
+entry(parna, adj, [], "LEUWIIH PARNASTeuas dina nanganan baturKALIH PARNA adv").
+entry(kangangeun, n, [kangangeun-kangangeun], "kualitas atawa kaayaan ti parna").
+entry(severy, n, [severies], "kompartemen dina siling anu vaulted").
+entry(seviche, n, [seviches], "hiji olahan lauk atah").
+entry(sevruga, n, [sevrugas], "kaviar ti Laut Kaspia").
+entry(sew, v, [sewed,sewn,sewing], "SEWNgejah atawa nyepet nganggo jarum jeung benangSEWABLE adj").
+entry(limbah, n, [limbah-limbah], "zat buangan anu diangkut ku selokan").
+entry(sewan, n, [sewans], "seawan").
+entry(sewar, n, [sewars], "palayan jaman pertengahan").
+entry(sewer, v, [sewered,sewering,sewers], "ngabersihkeun atawa ngajaga saluran bawah tanah pikeun limbah").
+entry(sewerage, n, [sewerages], "eusi selokan").
+entry(nyulam, n, [hasil_nyulam], "bahan anu parantos atanapi bakal diulas").
+entry(sewn, a, [], "partisipasi kapungkur tina sew").
+entry(sex, v, [sexed,sexing,sexes], "pikeun nentukeun jinis sipat anu ku kituna organisme diklasifikasikeun nurutkeun fungsi reproduktifna").
+entry(sexer, n, [sexers], "hiji nu sexes").
+entry(sexier, babandinganana, [], "tina seksi").
+entry(sexiest, superlative, [], "tina seksi").
+entry(sexily, kk, [], "ku cara anu seksi").
+entry(sexiness, n, [sexinesses], "kualitas atawa kaayaan seksi").
+entry(seksisme, n, [seksismes], "prasangka atawa diskriminasi ngalawan awéwé").
+entry(misexis, n, [misexis], "salah sahiji nu ngalaksanakeun seksisme").
+entry(tanpa_kelamin, adj, [], "teu miboga sipat seksual").
+entry(seksologi, n, [seksologi-seksologi], "panyawangan ngeunaan kalakuan séksual manusa").
+entry(sexpert, n, [sexperts], "ahli dina perkara seksual").
+entry(sexpot, n, [sexpots], "awéwé nu séksi").
+entry(sext, n, [sexts], "hiji tina tujuh periode harian kanonis pikeun shalat jeung devosi").
+entry(sextain, n, [sextains], "sajeroning genep larik").
+entry(sextan, n, [sextans], "demam kasakit malaria anu ngaleyur deui").
+entry(sextant, n, [sextants], "pakakas pikeun ngukur jarak sudut").
+entry(sextarii, npl, [], "ukuran cairan jaman Romawi kuno").
+entry(sextet, n, [sextets], "sakumpulan genep").
+entry(sextette, n, [sextettes], "sextet").
+entry(sextile, n, [sextiles], "posisi dua benda langit nalika maranehna genep puluh derajat pisah").
+entry(sexting, n, [sextings], "ngirim pesen atawa gambar anu nyirikeun unsur seksual ngaliwatan telepon seluler").
+entry(sexto, n, [sextos], "genepmo").
+entry(sexton, n, [sextons], "pagawé pangropéa di garéja").
+entry(sextuple, v, [sextupled,sextupling,sextuples], "ngabentuk genep kali langkung ageung").
+entry(sextuply, adv, [], "nepi ka genep kali langkung seueur atanapi langkung seueur").
+entry(seksual, adj, [], "nunjuk kana séksUAL adv").
+entry(sexy, adj, [], "SEXIER SEXIESTngabudakeun kahayang seksual").
+entry(sferics, npl, [], "detektor éléktronik tina badai").
+entry(sforzato, n, [sforzatos], "muterna nada atawa akord jeung kakuatan anu dadakan").
+entry(sfumato, n, [sfumatos], "teknik nu dipaké dina melukis").
+entry(sh, interj, [], "dianggo pikeun ngadesek sepi").
+entry(sha, interj, [], "dipaké pikeun ngadesek jempé").
+entry(shabby, adj, [], "SHABBIER SHABBIEStraggedSHABBILY adv").
+entry(gubuk, v, [gubukan,gubuking,gubuk-gubuk], "cicing atawa nyicingan").
+entry(belenggu, k, [dibelenggu, mebelenggu, belenggungan], "pikeun ngeset kalawan pangikat logam nu di tempatkeun sabudeureun pigeulang atawa footwear").
+entry(shackler, n, [shacklers], "hiji anu ngobeng").
+entry(shacko, n, [shackos], "atawa SHACKOESshako").
+entry(shacky, adj, [], "SHACKIER SHACKIESTruksak").
+entry(shad, n, [shads], "ikan kadaharan").
+entry(shadblow, n, [shadblows], "shadbush").
+entry(shadbush, n, [shadbushes], "tatangkalan anu ngabunga atanapi rungkun").
+entry(shadchan, n, [shadchans], "atawa SHADCHANIM hiji makelar perkawinan Yahudi").
+entry(shaddock, n, [shaddocks], "buah jeruk").
+entry(shaddup, interj, [], "dipaké pikeun nyieun batur jumerit").
+entry(shade, v, [shaded, shading, shades], "nyumputkeun tina cahaya atawa panas").
+entry(shader, n, [shaders], "anu mangkeubanan").
+entry(shadfly, n, [shadflies], "sato anu boga jangjang").
+entry(shadier, babandingan, [], "tina shady").
+entry(shadiest, superlative, [], "ti shady").
+entry(shadily, adv, [], "ku cara anu teduh").
+entrée(shading, n, [shadings], "perlindungan ngalawan cahaya atawa panas").
+entry(shadkhan, n, [shadkhans], "atawa SHADKHANIMshadchan").
+entry(shadoof, n, [shadoofs], "alat anu dipaké di Mesir pikeun ngangkat cai pikeun irigasi").
+entry(shadow, v, [shadowed,shadowing,shadows], "ngabuburit atawa ngagelapkeun").
+entry(shadower, n, [shadowers], "nu ngikutan").
+entry(shadowy, adj, [], "SHADOWIER SHADOWIESTpoek").
+entry(shadrach, n, [shadrachs], "massa bahan anu teu uap dina godeg tina tungku blast").
+entry(shaduf, n, [shadufs], "shadoof").
+entry(shady, adj, [], "SHADIER SHADIESTshaded").
+entry(pasak, v, [dipasak,pasang,pasaks], "ngadorong atawa ngadorong sareng kutub").
+entry(shafting, n, [shaftings], "sistem rod pikeun mindahkeun gerakan atawa kakuatan").
+entry(shag, v, [shagged, shagging, shags], "ngadamel keriting").
+entry(shagbark, n, [shagbarks], "tatangkalan kai keras").
+entry(shaggy, adj, [], "SHAGGIER SHAGGIESTditutupan ku bulu panjang kasarSHAGGILY adv").
+entry(shagreen, n, [shagreens], "kulit kasar tina sababaraha hiu").
+entry(shah, n, [shahs], "pamaréntah Iran").
+entry(shahada, n, [syahadat], "pengakuan iman Islam").
+entry(shahadah, n, [shahadahs], "shahada").
+entry(shahdom, n, [shahdoms], "daérah anu dipimpin ku shah").
+entry(shaheed, n, [shaheeds], "shahid").
+entry(shahid, n, [shahids], "saha anu gugur salaku pahlawan Islam").
+entry(shaikh, n, [qaum_shaikh], "sheik").
+entry(shaird, n, [shairds], "pecahan").
+entry(shairn, n, [shairns], "sharn").
+entry(syaitan, n, [syaitans], "roh jahat").
+entry(olék, v, [ngolék, diolék, ngolékan], "OLÉKpindah ka hareup katukang kalayan gerak-gancang pondokOLÉK-ABLE adj").
+entry(shakeout, n, [shakeouts], "resesi ékonomi leutik").
+entry(shaker, n, [shakers], "nu ngageol").
+entry(shakeup, n, [shakeups], "reorganisasi total").
+entry(shakier, comparative, [], "tina galideg").
+entry(shakiest, superlative, [], "paling goyah").
+entry(shakily, adv, [], "kalawan goyang").
+entry(shaking, ayeuna, [], "participle tina shake").
+entry(shako, n, [shakos], "atawa SHAKOES hiji jinis topi militér").
+entry(shaky, adj, [], "SHAKIER SHAKIESTshaking").
+entry(shale, n, [shales], "séléd sodok").
+entry(shaled, adj, [], "anu ngagaduhan cangkang atawa kulit").
+entry(shaley, adj, [], "SHALIER SHALIESTshaly").
+entry(shalier, bebandingan, [], "ti shaly").
+entry(shaliest, superlative, [], "tina shaly").
+entry(shall, v, [], "ayeuna sing 2d jalma BAKAL atanapi KUDU kapungkur sing 2d jalma SAUKUR atanapi SAKUDUSET atanapi KUDUSED digunakeun salaku pamajeg pikeun nganyatakeun ka hareup kudu tangtu atawa paréntah").
+```prolog
+entry(shalloon, n, [shalloons], "kain wol").
+```
+entry(shallop, n, [shallops], "parahu leutik anu kabuka").
+entry(bawang, n, [bawang-bawangan], "tutuwuhan anu mirip bawang").
+entry(ciheuleut, adj, [], "CIHEULEUT LEUBIH CIHEULEUT NA TEU SAKITU JERO").
+entry(ceper, v, [cepered,cepering,cepers], "ngabuat jadi ceper").
+entry(shalom, n, [shaloms], "kecap anu dipaké salaku salam atanapi pamitan Yahudi").
+entry(shalt, a, [], "present 2d person sing of shall").
+entry(shalwar, n, [kalawarga], "sepasang calana longgar anu dipaké ku sababaraha awéwé di India").
+entry(shaly, adj, [], "SHALIER SHALIESTnujukeun kana shale").
+entry(sham, v, [shammed, shamming, shams], "pura-pura").
+entry(shamable, adj, [], "capable of being shamedSHAMABLY adv").
+entry(shamal, n, [shamals], "angin panas garing").
+entry(shaman, n, [shamans], "kiat obat di kalangan penduduk asli Amerika SHAMANIC adj").
+entry(shamas, n, [shamosim], "shammes").
+entry(shamba, n, [shambas], "tegalan di Afrika Wétan").
+entry(shamble, v, [shambled,shambling,shambles], "leumpang kalayan teu luwes").
+entry(rasa_ajah, v, [kurang_ajah,keur_rasa_ajah,kurang_ajah-keun], "nyababkeun karasa éra atanapi karendahan diri").
+entry(shameful, adj, [], "ngahaheutan").
+entry(shames, n, [shamosim], "shammes").
+entry(shamiana, n, [shamianas], "kemah gedé di India").
+entry(shamisen, n, [shamisens], "samisen").
+entry(shammas, n, [shammasim], "shammes").
+entry(shammash, n, [shammashim], "shammes").
+entry(shammed, past, [], "waktos tina sham").
+entry(shammer, n, [shammers], "anu pura-pura").
+entry(shammes, n, [shammosim], "pejabat minor dina sinagog").
+entry(shammied, past, [], "tense of shammy").
+entry(shammies, hadir, [], "3d person sing tina shammy").
+entry(shamming, hadir, [], "participle tina sham").
+entry(shammos, n, [shammosim], "shammes").
+entry(shammosim, pl, [], "ti shammes").
+entry(shammy, v, [shammied, shammying, shammies], "ngahamois").
+entry(shamois, n, [shamois], "shamois").
+entry(shamos, n, [shamosim], "shammes").
+entry(shamosim, pl, [], "ti shames").
+entry(shamoy, v, [nyamoy, nuamoy, nyamoys], "pikeun ngagermos").
+entry(sampo, v, [disampo,nyampo,nyampos], "ngabersihan maké larutan husus").
+entry(shamrock, n, [shamrocks], "tutuwuhan tilu daun").
+entry(shamus, n, [shamuses], "detektif swasta").
+entry(shandy, n, [shandies], "inuman alkohol").
+```prolog
+entry(shanghai, v, [shanghaied,shanghaiing,shanghais], "penculikan pikeun jasa di kapal laut").
+```
+entry(sisi, kecap, [disisi, nyisi, ngasisi], "ngabentur ka sagigireun katuhu saperti bal golf").
+entry(shanny, n, [shannies], "salah sahiji lauk laut").
+entry(shantey, n, [shanteys], "chantey").
+entry(shanti, n, [shantis], "katentreman").
+entry(shanties, pl, [], "tina saung").
+entry(shantih, n, [shantih-shantih], "shanti").
+entry(shantung, n, [shantungs], "kain sutra").
+entry(shanty, n, [shanties], "imah leutik anu diwangun sacara kasar").
+entry(wujud, v, [ngawujudkeun, diwujudkeun, nuju ngawujudkeun], "WIJUDngabentuk bentuk lahiriah kaWIJUDan adj").
+entry(shapely, adj, [], "SHAPELIER SHAPELIESTanu mibanda bentuk nu pikaresepeun").
+entry(shaper, n, [shapers], "hiji anu ngajantenkeun bentuk").
+entry(shapeup, n, [shapeups], "sistem ngalakukeun kuli").
+entry(membentuk, hadir, [], "participle tina ngabentuk").
+entry(shard, n, [shards], "sabaraha bagian tina kendi ruksak").
+entry(bagi, k, [dibagi,membagi,bagi-bagi], "pikeun miboga meunang atawa ngagunakeun babarengan jeung batur atawa batur-BAGIANA adj").
+entry(sharer, n, [sharers], "hiji anu ngabagikeun").
+entry(sharia, n, [syariah], "hukum Islam dumasar kana Al-Quran").
+entry(syari'ah, n, [syari'ah-syari'ah], "syari'ah").
+entry(syariat, n, [syariats], "syariah").
+entry(sharif, n, [sharifs], "sherif").
+entry(sharing, hadir, [], "partisipel tina bagi").
+entry(hiu, k, [ngabohi, ngabohikeun, hiu-hiu], "hirup ku prak-prakan").
+entry(sharker, n, [sharkers], "nu ngalakukeun sharking").
+entry(sharkish, adj, [], "nempokeun kawas lauk hiu hiji lauk predator").
+entry(sharn, n, [sharns], "tai sapiSHARNY adj").
+entry(sharp, adj, [], "SHARPER SHARPESTcocog pikeun dipaké atanapi sanggup motong atanapi nancebkeun").
+entry(sharp, v, [sharped,sharping,sharps], "ngangkat nada salaku nada musik").
+entry[ngasah, k, [diasah,ngasah,ngasahkeun], "pikeun ngagunakeun tajam"].
+entry(sharper, n, [sharpers], "jalma anu nipu").
+entry(sharpie, n, [sharpies], "jalma anu pohara awas").
+entry(sharpish, adj, [], "sakeudeung seukeut").
+entry(sharply, adv, [], "kalawan laér").
+entry(sharpy, n, [sharpies], "sharpie").
+entry(saslik, n, [saslik], "sate").
+entry(shaslik, n, [shasliks], "saslik").
+entry(shasta, n, [shastas], "tutuwuhan anu ngahasilkeun kembang").
+entry(shatoosh, n, [shatooshes], "kain anu didamel tina wol chiru").
+entry(shatter, v, [shattered,shattering,shatters], "mecah jadi potongan-potongan").
+entry(shaugh, n, [shaughs], "leuweung leutik").
+entry(shaul, v, [shauled,shauling,shauls], "ngabentuk gosong").
+entry(cukur, k, [dicukur, dicukuran, nyukur], "Cukur meupus bulu deukeut kana akarCukur bisa adj").
+entry(shaver, n, [shavers], "anu cukuran").
+entry(shavie, n, [shavies], "hiji trik atawa tipu muslihat").
+entry(ngarumasa, k, [garumasa], "sanes anu geus diarumasa").
+entry(shaw, v, [shawed, shawn, shawing], "SHAWSnga nunjukkeun").
+entry(shawarma, n, [shawarmas], "hiji roti lapis anu eusina daging kambing atawa hayam, sayuran, sarta mindeng kalayan tahini dibungkus dina roti pita").
+entry(syal, v, [bersyal,bersyaling,syal-syal], "ngabuntel ku syal sawang kain anu dipaké minangka panutup").
+entry(shawm, n, [shawms], "alat tiup kayu awal").
+entry(shay, n, [shays], "hiji chaise").
+entry(shaykh, n, [shaykhs], "syekh").
+entry(shazam, interj, [], "dipaké pikeun nandakeun kajadian magis").
+entry(manehna, n, [mantehna], "hiji jalma awewe").
+entry(shea, n, [sheas], "tangkal Afrika").
+entry(sheaf, v, [sheafed, sheafing, sheafs], "to sheave").
+entry(sheal, n, [sheals], "shealing").
+entry(shealing, n, [shealings], "saung angon").
+entry(nyorong, k, [nyoreh,nyorehan,nyoreang], "NYORONGnya motong bulu atawa wol ti").
+entry(shearer, n, [shearers], "hiji nu ngagunting").
+entry(shearing, n, [shearings], "kajadian motong bulu atawa wulu").
+entry(sheath, v, [sheathed,sheathing,sheaths], "nyarungkeun").
+entry(sheathe, v, [sheathed,sheathing,sheathes], "nempatkeun kana wadah pelindung").
+entry(sheather, n, [sheathers], "hiji nu ngabungkus").
+entry(minang, v, [diminang,nuju minang,minang], "ngumpulkeun kana buntelan").
+entry(shebang, n, [shebangs], "hiji kaayaan organisasi atawa urusan").
+entry(shebean, n, [shebeans], "shebeen").
+entry(shebeen, n, [shebeens], "tempat anu ngajual inuman keras sacara ilegal").
+entry(cakar, k, [dikakar, kacakar, cakar-cakar], "ngajaga dina hiji wangunan saeutik struktur handap").
+entry(shedable, adj, [], "sanggup pikeun diceredkeun").
+entry(shedder, n, [shedders], "hiji nu miceun hiji perkara").
+entry(shedlike, adj, [], "nyarupaan rehang").
+entry(sheen, v, [sheened,sheening,sheens], "ngagurilap").
+entry(sheenful, adj, [], "ngagenclang").
+entry(sheeny, adj, [], "SHEENIER SHEENIESTngagurilap").
+entry(domba, n, [domba], "sato ruminansia").
+entry(kandang_domba, n, [kandang_domba], "tempat tertutup untuk domba").
+entry(sheepdog, n, [sheepdogs], "anjing nu dilatih pikeun ngajaga jeung ngumpulkeun domba").
+entry(sheepish, adj, [], "hariwang").
+entry(sheepman, n, [sheepmen], "jalma anu ngangon wedus").
+entry(sheer, adj, [], "SHEERER SHEEREST tina tékstur anu ipis pisan SHEERLY adv").
+entry(sheer, v, [sheered,sheering,sheers], "menghindar").
+entry(sheesh, interj, [], "dipaké pikeun nganyatakeun kagok").
+entry(sheet, v, [dilapisan, ngalapisan, dilapis-bédana], "nutupan maké lapisan sapotong bahan anu ipis sareng pasagi panjang").
+entry(sheeter, n, [sheeters], "hiji anu nyieun lambar").
+entry(sheetfed, adj, [], "patali sareng jinis percetakan press").
+entry(sheeting, n, [sheetings], "bahan dina bentuk lambar-lambar").
+entry(sheeve, n, [sheeves], "katrol anu aya alur").
+entry(shehnai, n, [shehnais], "alat musik tiup ganda asal India").
+entry(syeik, n, [syeik-syeik], "pamingpin Arab").
+entry(kaatuan, n, [kaatuan-kaatuan], "wewengkon anu dipimpin ku hiji seikh").
+entri(syekh, n, [syekh-syekh], "syekh").
+entry(sheila, n, [sheilas], "hiji wanoja ngora").
+entry(sheitan, n, [sheitans], "shaitan").
+entry(sheitel, n, [sheitels], "rambut palsu anu dipaké ku awéwé Yahudi anu tos kawin").
+entry(shekel, n, [shekels], "atanapi SHEKELIM atanapi SHEKALIM unit beurat sareng artos jaman baheula").
+entry(shelduck, n, [shelducks], "sawaréh bebek Éropah").
+entry(shelf, n, [rak], "struktur datar jeung kaku anu dipaké pikeun ngarojong barang-barang").
+entry(shelfful, n, [shelffuls], "sakedah rak tiasa nampung").
+masukan(cangkang, v, [dicangkang,cangkangkeun,cangkang-cangkang], "ngaleupaskeun cangkang anu keras").
+entry(shellac, v, [shellacked,shellacking,shellacs], "nutupan ku varnish ipis").
+entry(shellack, v, [di-shellack, ngasupan, asupan], "ngasupan").
+entry(sheller, n, [shellers], "hiji anu mesekana").
+entry(shelly, adj, [], "SHELLIER SHELLIESTloba cangkang").
+entry(shelta, n, [sheltas], "basa gaelik anu teu umum").
+entri(teduh, v, [teduh,teduhan,teduhan], "nyadiakeun panangtayungan atawa panyalindungan pikeun").
+entry(sheltie, n, [shelties], "kuda leutik kalawan bulu anu kandel").
+entry(shelty, n, [anjing_shetland], "shelty").
+entry(shelve, v, [shelved, shelving, shelves], "nempatkeun dina rak").
+entry(shelver, n, [shelvers], "anu nyusun rak").
+entry(rak, pl, [], "rak").
+entry(shelving, n, [shelvings], "bahan pikeun rak").
+entry(shelvy, adj, [], "SHELVIER SHELVIESTngincli laun").
+entry(shen, n, [shen], "unsur spiritual dina jiwa hiji jalma").
+entry(shenai, n, [shenais], "shehnai").
+entry(shend, v, [shent,shending,shends], "ngahina").
+entry(sheol, n, [sheols], "naraka").
+entry(panggembala, kecap pagawean, [ngagembalaan, nuju ngagembalaan, ngagembala], "ngawasi kalayan ati-ati").
+entry(shekél, n, [shekéls], "atawa SHEQALIMshekel").
+entry(sherbert, n, [sherberts], "sherbet").
+entry(sherbet, n, [sherbets], "campuran buah beku anu mawa rasa").
+entry(sherd, n, [sherds], "pecahan").
+entry(shereef, n, [shereefs], "sherif").
+entry(sherif, n, [sherifs], "pamingpin Arab").
+entry(sheriff, n, [sheriffs], "petugas penegak hukum di tingkat kabupaten").
+entry(sherlock, n, [sherlocks], "hiji detektif").
+entry(shero, n, [sheroes], "wanita anu dianggap pahlawan").
+entry(sheroot, n, [sheroots], "cheroot").
+entry(sherpa, n, [sherpas], "kain lemes pikeun lapisan jero").
+entry(sherried, adj, [], "diasakan atanapi mawa rasa anggur sherry").
+entry(sherris, n, [sherrises], "sherry").
+entry(sherry, n, [sherries], "jenis anggur").
+entry(sherwani, n, [sherwanis], "jas panjang nepi ka dengkul anu dipaké ku sababaraha lalaki di India").
+entry(shetland, n, [shetlands], "benang wol").
+entry(sheuch, n, [sheuchs], "sheugh").
+entry(sheugh, n, [sheughs], "parit").
+entry(shew, v, [shewed,shewn,shewing], "SHEWSto show").
+entry(shewer, n, [shewers], "hiji anu nunjukkeun").
+entry(shh, interj, [], "hus").
+entry(shhh, interj, [], "sss").
+entry(shiatsu, n, [shiatsus], "pijatan nganggo pencétan ramo").
+entry(shiatzu, n, [shiatzus], "shiatsu").
+entry(shibah, n, [shibahs], "shiva").
+entry(shicker, n, [shickers], "jalma nu mabok").
+entry(shied, past, [], "waktu tina kata 'malu'").
+entry(shiel, n, [shiels], "shieling").
+entry(perisai, v, [diproteksi,melindungi,perisai], "nyadiakeun kalawan panutup pelindung atawa panyumputan").
+entry(shielder, n, [shielders], "nu ngajaga").
+entry(shieling, n, [shielings], "shealing").
+entry(shier, n, [shiers], "kuda nu condong ka sieunan").
+entry(shies, hadir, [], "3rd jalma tunggal tina malu").
+entry(shiest, a, [], "superlative tina shy").
+entry(shift, v, [shifted, shifting, shifts], "pindah ti hiji posisi ka posisi séjén").
+entry(shifter, n, [shifters], "hiji anu mindahkeun").
+entry(ngageser, n, [ngageseran], "tindakan mindahkeun ti hiji tempat ka tempat séjén").
+entry(shifty, adj, [], "SHIFTIER SHIFTIESTtrickySHIFTILY adv").
+entry(shigella, n, [shigellas], "atawa SHIGELLAÉmana waé ti genus baktéri aérobik").
+entry(shiitake, n, [shiitakes], "sisi jamur Asian poek").
+entry(shikar, v, [nyiar, nyiarkeun, marios], "ngalalakonkeun moro").
+entry(shikara, n, [shikaras], "parahu hampang dasar datar di Kashmir").
+entry(shikaree, n, [shikarees], "pemburu lauk badag").
+entry(shikari, n, [shikaris], "shikaree").
+entry(shikker, n, [shikkers], "shicker").
+entry(shikra, n, [shikras], "hawk liit sapar").
+entry(shilingi, n, [shilingi], "unit moneter Tanzania").
+entry(shill, v, [shilled,shilling,shills], "pikeun meta salaku tipu daya").
+entry(shillala, n, [shillalas], "pakarang pondok anu kandel").
+entry(shilling, n, [shillings], "satuan mata uang Inggris Raya jaman baheula").
+entry(shilpit, adj, [], "poyok").
+entry(shily, adv, [], "kalawan isin").
+entry(shim, v, [shimmed,shimming,shims], "nganclokeun atawa meratakeun ku cara nyelapkeun baji ipis").
+entry(shimmer, v, [shimmered,shimmering,shimmers], "ngagurilap").
+entry(shimmery, adj, [], "shimmering").
+entry(shimmy, v, [shimmied,shimmying,shimmies], "ngageter atawa ngalembang").
+entry(shin, v, [shinned,shinning,shins], "nanjak ku cara nyekel jeung narik gantina ku leungeun jeung suku-suku").
+entry(sumpih, n, [sumpih-sumpih], "tibia").
+entry(pesta, n, [pesta-pesta], "tari anu mewah atawa pesta").
+entry(shindy, n, [shindys], "atawa SHINDIESa shindig").
+entry(shine, v, [shined, shining, shines], "nyorot").
+entry(shiner, n, [shiners], "hiji nu bersinar").
+entry(sirap, v, [sisibiran,nyisirap,siraps], "ngalapisan ku sirap potongan bahan wangunan nu ipis panjang").
+entry(shingler, n, [shinglers], "hiji nu masang genting-genting").
+entry(shingly, adj, [], "katutup ku batu leutik leupas").
+entry(shinier, pembanding, [], "tina shiny").
+entry(pangalendut, superlative, [], "ti lentur").
+entry(shinily, adv, [], "kalawan hérang").
+entry(shining, adj, [], "nyirakeun atanapi ngahaja cahaya").
+entry(shinleaf, n, [shinleafs], "atawa SHINLEAVES tutuwuhan herba abadi").
+entry(shinned, kapungkur, [], "ti Shin").
+entry(shinnery, n, [shinneries], "karikil anu kandel tina tangkal-tangkal leutik").
+entry(shinney, v, [shinneyed,shinneying,shinneys], "maén hiji bentuk hoki").
+entry(shinning, present, [], "participle tina shin").
+entry(shinny, v, [shinnied, shinnying, shinnies], "ka shin").
+entry(shinty, n, [shinties], "kaulinan Skotlandia nu sarupa jeung hoki lapangan").
+entry(shiny, adj, [], "SHINIER SHINIESTdieusian ku cahaya").
+entry(kapal, v, [dikirim,pengiriman,kapal-kapal], "ngangkut ku kapal hiji wahana anu cocog pikeun navigasi di cai jero").
+entry(shiplap, n, [shiplaps], "gabungan tumpang tindih anu dianggo dina kayu").
+entry(shipless, adj, [], "teu boga kapal").
+entry(muatan, n, [muatan-muatan], "sababaraha kapal nu bisa mawa").
+entry(shipman, n, [shipmen], "jurumudi").
+entry(shipmate, n, [shipmates], "sasami nunggal kapal").
+entry(pengiriman, n, [pengiriman], "sakedap anu dikirim").
+entry(dikirim, kapungkur, [], "waktos tina ngirim").
+entry(shippen, n, [shippens], "kandangan sapi").
+entry(shipper, n, [shippers], "hiji anu ngirim").
+entry(pengiriman, n, [pengiriman], "usaha hiji nu ngirim").
+entry(shippon, n, [shippons], "shippen").
+entry(shipside, n, [shipsides], "wewengkon di gigireun kapal").
+entry(shiptime, n, [waktukapal], "kadatangan taunan kapal suplai").
+entry(shipway, n, [kapal_lalayaran], "terusan anu jero cukup pikeun ngalayanan kapal").
+entry(shipworm, n, [shipworms], "sato laut wangun cacing").
+entry(dok, k, [dok-dok], "tempat di mana kapal-kapal dibangun atau diperbaiki").
+entry(shiraz, n, [shirazes], "jenis anggur").
+entry(shire, n, [shires], "wates wewengkon di Britania Raya").
+entry('ngampih', 'v', ['ngampihkeun', 'ngampihan', 'ngampih'], 'pikeun nyingkahan gawé atanapi tugas').
+entry(shirker, n, [shirkers], "nu embung ngalakukeun pagawéan").
+entry(shirr, v, [shirred,shirring,shirrs], "ngabentuk janten tilu atanapi langkung jajaran paralel sapertos lawon").
+entry(shirring, n, [shirrings], "susunan kain shirred").
+entry(baju, n, [baju-baju], "pakaian pikeun bagian luhur awakBAJURED adj").
+entry(shirting, n, [shirtings], "kain anu dianggo pikeun nyieun kaos").
+entry(shirty, adj, [], "SHIRTIER SHIRTIESTangrySHIRTILY adv").
+entry(shist, n, [shists], "schist").
+entry(shitake, n, [shitakes], "shiitake").
+entry(shittah, n, [shittahs], "sapuhiang kai leuweung").
+entry(shittim, n, [shittims], "kayu shittah").
+entry(shiur, n, [shiurim], "sesi diajar Talmud").
+entry(shiv, n, [shivs], "bedog").
+entry(shiva, n, [shivas], "waktu duka").
+entry(shivah, n, [shivah-shivah], "shiva").
+entry(shivaree, v, [shivareed,shivareeing,shivarees], "ngagujur").
+entry(shive, n, [shives], "fragmen ipis").
+entry(ngageter, v, [ngageteran, keur_ngageter, ngageteran], "tremble ku sieun atawa tiis").
+entry(shiverer, n, [shiverers], "hiji anu ngageleger").
+entry(shivery, adj, [], "ngageleyer").
+entry(shiviti, n, [shivitis], "plakat dengan ayat Ibrani").
+entry(shlemiel, n, [shlemiels], "jelema anu teu hasil tina sagala usaha").
+entry(shlep, v, [shlepped,shlepping,shleps], "ngabawa barang barang").
+entry(shlepp, v, [shlepped,shlepping,shlepps], "mingked").
+entry(shlepper, n, [shleppers], "hiji anu ngalaksanakeun ngarongkong").
+entry(shleppy, adj, [], "SHLEPPIER SHLEPPIESTschleppy").
+entry(shlock, n, [shlocks], "schlock").
+entry(shlocky, adj, [], "SHLOCKIER SHLOCKIESTschlocky").
+entry(shlub, n, [shlubs], "schlub").
+entry(shlump, v, [shlumped,shlumping,shlumps], "pikeun ngaguludug").
+entry(shlumpy, adj, [], "jorok").
+entry(shmaltz, n, [shmaltzes], "schmaltz").
+entry(shmaltzy, adj, [], "SHMALTZIER SHMALTZIESTschmalzy").
+entry(shmatte, n, [shmattes], "schmatte").
+entry(shmear, v, [shmeared,shmearing,shmears], "ngabeuleum").
+entry(shmeer, v, [shmeered,shmeering,shmeers], "schmeer teuing").
+entry(shmo, n, [shmoes], "schmo").
+entry(shmoe, n, [shmoes], "schmo").
+entry(shmooze, v, [shmoozed,shmoozing,shmoozes], "pacicing").
+entry(shmoozer, n, [shmoozers], "nu ngobrol basa-basi").
+entry(shmoozy, adj, [], "SHMOOZIER SHMOOZIESTschmoozy").
+entry(shmuck, n, [shmucks], "schmuck").
+entry(shmucky, adj, [], "SHMUCKIER SHMUCKIESTschmucky").
+entry(shnapps, n, [shnapps], "schnapps").
+entry(shnaps, n, [shnaps], "schnapps").
+entry(shnook, n, [shnooks], "schnook").
+entry(shnorrer, n, [shnorrers], "hiji anu ngamangpaatkeun kareueus batur").
+entry(shoal, adj, [], "SHOALER SHOALESThampang").
+entry(tanjung, v, [tanjunged,tanjunging,tanjungs], "jadi dangkal").
+entry(shoaly, adj, [], "NGANDUNG DAERAH PALINGHANA SHOALIER SHOALIEST").
+entry(shoat, n, [shoats], "sangétal babi".
+entry(shochet, n, [shochetim], "jalma anu nyembelih sato sareng manuk sesuai hukum Yahudi").
+entry(shochu, n, [shochus], "inuman keras asal Jepang").
+entry(guguncang, k, [guguncang,guguncangna,guguncang-guguncang], "ngabentuk kalawan heran anu hébat takwas atawa kaangu").
+entry(shocker, n, [shockers], "hiji nu nyugemakeun").
+entry(shod, a, [], "wangun katukang tina shoe").
+entry(shodden, a, [], "bentuk pasif tina shoe").
+entry(teu hadé, adj, [], "LEUWIH TEU HADÉ NU TEU HADÉ Pisan tina kualitas inferior TEU HADÉ nya adv").
+entry(shoddy, n, [shoddies], "wol kualitas rendah").
+entry(sapatu, n, [sapatu-sapatu], "atawa sapatu pikeun nutupan suku").
+entry(saped, v, [digosok,digosokkeun,ngosok], "SAPED pikeun nyadiakeun kalayan sapatu").
+entry(shoebill, n, [shoebills], "manuk anu arindit dina cai").
+entry(shoebox, n, [shoeboxes], "kotak panjang pikeun nyimpen sapasang sapatu").
+entry(shoehorn, v, [shoehorned,shoehorning,shoehorns], "maksa ka rohangan leutik").
+entry(tali_sepatu, n, [tali_sepatus], "tali pikeun ngiket sapatu").
+entry(teu-sandal, adj, [], "teu boga sandal").
+entry(shoepac, n, [shoepacs], "sapatœt tahan cai").
+entry(sepatu, n, [sepatu-sepatu], "shoepack").
+entry(shoer, n, [shoers], "hiji nu mawa sapatu keur kuda").
+entry(shoetree, n, [shoetrees], "alat anu bentukna siga suku anu diselapkeun kana sapatu pikeun ngajaga bentukna").
+entry(shofar, n, [shofars], "atawa SHOFROTHa terompet tanduk domba ditiup dina upacara Yahudi tertentua").
+entry(shog, v, [shogged, shogging, shogs], "pindah ka hareup").
+entry(shogi, n, [shogis], "kaulinan Jepang sapertos catur").
+entry(shogun, n, [shogun-shogun], "bekas pamimpin militer Jepang SHOGUNAL adj").
+entry(shoji, n, [shojis], "layar kertas anu dipaké minangka sekat atawa panto di imah Jepang").
+entry(shojo, n, [shojo], "manga nu dimaksudkeun utamina pikeun budak awéwé").
+entry(sholom, n, [sholoms], "shalom").
+entry(sinar, a, [], "bentuk lampau tina bersinar").
+entry(saha, kecap, [disaheurkeun,ngasaheurkeun,ngahaos], "ngajauhan").
+entry(shoofly, n, [shooflies], "kursi goyang anak").
+entry(shook, n, [shooks], "sakumpulan bagian pikeun ngarakit gentong atawa ngarangga").
+entry(sakola, v, [sakolaed, sakolaing, sakolas], "ngali nganggo sekop").
+entry(shoon, a, [], "pl tina shoe").
+entry(shoosh, v, [shooshed,shooshing,shooshes], "pindah ku sora ngageutar").
+entry(nembak, k, [nembak,penembakan,nembak-nembak], "ngaheuraskeun, ngahina atawa maehan ku pelor anu dileupaskeun tina pakarang").
+entry(panayung, n, [panayung-panayung], "hiji nu nuruban").
+entry(shooting, n, [shootings], "tindakan hiji anu nembak").
+entry(shootist, n, [shootists], "hiji anu terampil dina nembak").
+entry(tembak-menembak, n, [tembak-menembak], "pertempuran anu diadu maké bedil tangan atawa bedil panjang").
+entry(toko, v, [belanja,belanja,belanja], "ngabisikeun barang kalayan tujuan mésér").
+entry(shopboy, n, [shopboys], "clerik dagang").
+entry(shopgirl, n, [shopgirls], "budak pamajikan anu ngajual").
+entry(shophar, n, [shophars], "atawa SHOPHROTHshofar").
+entry(shopless, adj, [], "teu gaduh warung").
+entry(ngabodor, v, [ngabodoran, ngabodor, ngabodors], "maling barang di toko").
+entry(shopman, n, [shopmen], "nu gaduh atawa ngoperasikeun toko leutik").
+entry(toko, n, [toko-toko], "warung leutik").
+entry(dibelanja, kapungkur, [], "kecap paganti tina shop").
+entry(shopper, n, [anu balanja], "salah sahiji anu balanja").
+entry(balanja, n, [balanjas], "lampahna jalma nu ngalakukeun balanja").
+entry(shoppy, adj, [], "SHOPPIER SHOPPIESTngadorong kana balanja").
+entry(obrolan_kerja, n, [obrolan_kerja-s], "paguneman ngeunaan bisnis atanapi pakasaban hiji jalma").
+entry(shopworn, adj, [], "olét tina dipajang di toko").
+entry(shoran, n, [shorans], "jenis sistem navigasi").
+entry(pasisir, k, [dipasisir,pematasiran,pasisir], "nyangga sareng kai pangrojong").
+entry(shoring, n, [shorings], "sistem tina pangrojong kai").
+entry(shorl, n, [shorls], "schorl").
+entry(shorn, a, [], "past participle tina shear").
+entry(pondok, adj, [], "PENDEK LEUWIH PENDEKNU TEU NYAHO").
+entry(pendek, v, [dipendekkeun, nyepetkeun, singketan], "nyababkeun jinis malfungsi listrik di").
+entry(kakurangan, n, [kakurangan_kakurangan], "sawaréh atawa jumlah nu teu cukup").
+entry(shortcut, v, [shortcut,shortcutting,shortcuts], "nyandak jalan anu langkung pondok atanapi langkung gancang").
+entry(pendekkeun, v, [dipendekkeun,pendekkeunnana,pendekkeun], "ngadamel atanapi janten langkung pondok").
+entry(shortia, n, [shortias], "tutuwuhan taunan").
+entry(shortie, n, [shorties], "shorty").
+entry(shorties, pl, [], "tina pondok").
+entry(shortish, adj, [], "sakedik pondok").
+entry(shortly, adv, [], "sakedap deui").
+entry(shorty, n, [shorties], "hiji anu pondok").
+entry(shot, v, [shotted, shotting, shots], "muat ku shot timah leutik atawa pelet baja").
+entry(shote, n, [shotes], "embé anakan").
+entry(bedil, k, [di-bedil, bedilna, bedil-bedil], "nembak ngagunakeun jenis bedil").
+entry(shothole, n, [shotholes], "bolongan anu didorong dina batu pikeun nahan bahan peledak").
+entry(shott, n, [shotts], "chott").
+entry(ditembak, kapungkur, [], "teu panganggeus tina nembak").
+entry(shotten, adj, [], "tos netes dipaké pikeun lauk").
+entry(shotting, hadir, [], "partisipel tina shot").
+entry(should, past, [], "tenses tina shall").
+entry(bahu, v, [dinaanggung,dinaanggungkeun,dinaanggungkeun-keun], "ngalaksanakeun tanggung jawab atawa kawajiban").
+entry(shouldest, a, [], "kaayaan kaliwat urang kadua tunggal tina shall").
+entry(shouldst, a, [], "kaayaan kapungkur jalmi kahiji singular tina shall").
+entry(tatarajang, k, [ditatarajang, natarajang, tatarajang], "ngalampahkeun kalayan tarik").
+entry(shouter, n, [shouters], "nu ngagorowok").
+entry(shouty, adj, [], "SHOUTIER SHOUTIESTdipasihan atanapi dicarakterisasikeun ku seseran").
+entry(malika, v, [mendorong,sedang_mendorong,dorong], "ngadorong kalawan kasar").
+entry(sekop, k, [ngaseuk, ngaseukan, nyekop], "atawa NGESEUK NGESEUKAN NYEKOPngalakukeun ku seuseup alat ngakeukeun").
+entry(shoveler, n, [shovelers], "hiji anu ngagali").
+entry(shover, n, [shovers], "hiji anu ngadorong").
+entry(nyorong, ayeuna, [], "participle of shove").
+entry(némbongkeun, v, [némbongkeun,ditémbongkeun,sedang_némbongkeun], "NÉMBONGKEUNpikeun nyababkeun atanapi ngantepkeun supaya katingaliBISA_DITÉMBONGKEUN adj").
+entry(showbiz, n, [showbizzes], "bisnis hiburan").
+entry(showboat, v, [showboated,showboating,showboats], "pamer").
+entry(showcase, v, [showcased,showcasing,showcases], "pikeun nempokeun").
+entry(showdown, n, [showdowns], "hiji kajadian anu maksa kacindekan tina hiji masalah").
+entry(shower, v, [showered, showering, showers], "to bathe in a spray of water").
+entry(pangmandian, n, [pangmandian-pangmandian], "hiji nu mandi").
+entry(hujan_ringan, adj, [], "ngaheuyeuk ku hujan sapeuting").
+entry(showgirl, n, [showgirls], "mojang korps").
+entry(showgoer, n, [showgoers], "hiji nu ngiringan acara").
+entry(showier, komparatif, [], "ti showy").
+entry(showiest, superlative, [], "tina showy").
+entry(showily, adv, [], "kalawan ménér maréntah").
+entry(nempokeun, n, [nempokeuns], "pameran atawa tampilan").
+entry(showman, n, [showmen], "produser téater").
+entry(didangukeun, kapungkur, [], "partisipasi tina nembongkeun").
+entry(showoff, n, [showoffs], "salah sahiji anu dipasrahkeun pikeun tampilan bohongan").
+entry(showring, n, [showrings], "cincin tempat sato-sato dipintonkeun").
+entry(showroom, n, [showrooms], "ruang anu dipaké pikeun mintonkeun barang dagangan").
+entry(showtime, n, [showtimes], "waktu hiburan badé dimimitian").
+entry(mewah, adj, [], "LEBIH MEWAH PALING MEWAH nyieun tampilan anu agung atawa cemerlang").
+entry(shoyu, n, [shoyus], "kecap").
+entry(shrank, kapungkur, [], "waktu tina shrink").
+entry(shrapnel, n, [shrapnels], "pecahan tina bom ledak, ranjau, atanapi peluru").
+entry(shred, v, [shredded,shredding,shreds], "ngarobek jadi potongan-potongan leutik").
+entry(shredder, n, [shredders], "hiji nu ngalaan").
+entry(shrew, v, [shrewed,shrewing,shrews], "nyumpahi").
+entry(pinter, adj, [], "LEWIEUH PINTER ANU PALING PINTERbogaan pangaweruh anu jerukPINTERNYA adv").
+entry(shrewdie, n, [shrewdies], "jalma anu sirikna").
+entry(shrewish, adj, [], "pikasieuneun").
+entry(shri, n, [shris], "sri").
+entry(ngagorowok, v, [ngagorowok,ngagorowokan,ngagorowokkeun], "ngaluarkeun sora reureuh").
+entry(shrieker, n, [shriekers], "hiji anu ngagero").
+entry(shrieky, adj, [], "SHRIEKIER SHRIEKIESTshrill").
+entry(shrieval, adj, [], "nunjuk kana ahli wilujeng").
+entry(shrieve, v, [shrieved,shrieving,shrieves], "ngaku dosa").
+entry(shrift, n, [shrifts], "laku ngaku dosa").
+entry("cica-cica", n, ["cica-cica"], "manuk predator").
+entry(shrill, adj, [], "SHRILLER SHRILLESTanu gaduh kualitas sora nu ceurik ngadodohoSHRILLY adv").
+entry(mencit, k, [mencit,mencitan,mencitkeun], "ngaluarkeun sora mencit").
+entry(udang, v, [ngudang, ngudang-ngudang, udang-udangan], "ngala udang decapoda laut leutik").
+entry(shrimper, n, [shrimpers], "nu ngala udang").
+entry(shrimpy, adj, [], "SHRIMPIER SHRIMPIESTabounding in shrimp").
+entry(candi, k, [dicandikeun, ngahanca, candi-candi], "ngecék barang suci dina tempat suci").
+entry(ciut, k, [cieut,ciutna,ciuts], "nyusut atanapi ngarenggang mundur").
+entry(shrinker, n, [shrinkers], "nu ngurangan").
+entry(shrive, v, [shrived,shriven,shriving], "SHRIVEngadangu pangakuan sarta mere panghampura").
+entry(ngelak, v, [ngelak,ngalakkeun,ngalak], "atawa NGELAK NGALAKEUN NGELAKke nyusut kana kerut").
+entry(shriver, n, [shrivers], "anu ngadangu pangakuan dosa").
+entry(shroff, v, [shroffed, shroffing, shroffs], "nguji kajujuran tina saperti koin").
+entry(jamur, n, [jamur-jamur], "buah tina fungi").
+entry(shroomer, n, [shroomers], "hiji anu resep dahar jamur").
+entry(kafan, k, [dikafani,mengkafani,mengkafankan], "ngawuluwung selaan dina pakean pamakaman").
+entry(shrove, a, [], "wangun kapungkur tina shrive").
+entry(suket, n, [suket-suket], "tutuwuhan kai anu pendek").
+entry(siga-belukar, adj, [], "LEUIWIH-BELUKAR ANU-PANG-BELUKARna kalayan belukar").
+entry(ngageleng, v, [ngageleng-ngageleng, ngageleng-ngagelong, ngagelegeg], "ngangkat jeung ngakontrak taktak").
+entry(ciut, a, [], "bentuk lampau tina ciut").
+entry(ciut, a, [], "kecap pagawéan katutug waktu ti shrink").
+entry(shtetel, n, [shtetels], "atawa SHTETLACHa lembur Yahudi").
+entry(shtetl, n, [shtetls], "atawa SHTETLACHshtetel").
+entry(shtick, n, [shticks], "rutin hiburan").
+entry(shticky, adj, [], "SHTICKIER SHTICKIESTnumpaskeun shtick").
+entry(shtik, n, [shtiks], "gaya khas").
+entry(shtum, adj, [], "schtum").
+entry(shuck, v, [shucked, shucking, shucks], "ngaleungitkeun kulit atawa cangkang ti").
+entry(shucker, n, [shuckers], "siji anu nyebut").
+entry(shucking, n, [shuckings], "lampah hiji anu ngabersihan kulit luar").
+entry(ngageter, k, [ngageteran, keur_ngageter, ngageter-ngageter], "ngajentul").
+entry(shuddery, adj, [], "ngalageg").
+entry(shuffle, v, [orient, ngorientsikeun, orientasi], "leumpang tanpa ngangkat suku").
+entry(shuffler, n, [shufflers], "hiji nu ngahijikeun").
+entry(shul, n, [shuls], "atawa SHUL hiji tempat ibadah pikeun Yahudi").
+entry(shumai, npl, [], "Pangsit Jepang").
+entry(ngahindarkeun, kecap pagawéan, [dihindarkeun, nuju ngahindarkeun, ngahindarkeun], "pikeun ngahindarkeun").
+entry(shunner, n, [shunners], "hiji anu ngajauhan").
+entry(shunpike, v, [shunpiked,shunpiking,shunpikes], "nyandak jalan ka sisi pikeun nyingkahan jalan tol").
+entry(shunt, v, [shunted,shunting,shunts], "ngabengkokkeun").
+entry(shunter, n, [shunters], "hiji anu ngarobah").
+entry(shura, n, [shuras], "hiji dewan penasihat").
+entry(shush, v, [shushed,shushing,shushes], "nyenyepkeun").
+entry(pangening, n, [pangening], "hiji anu ngeningkeun").
+entry(tutup, v, [tutup, nutup, nutup], "pikeun nutup").
+entry(shutdown, n, [shutdowns], "nutup samentara sahiji tutuwuhan industri").
+entry(shute, v, [shuted,shuting,shutes], "pikeun chute").
+entry(shuteye, n, [shuteyes], "sare").
+entry(shutoff, n, [shutoffs], "alat anu mareuman hiji hal").
+entry(shutout, n, [shutouts], "pertandingan dimana hiji tim gagal nyetak").
+entry(shutter, v, [shuttered,shuttering,shutters], "nyadiakeun ku pengacap jandela hinged").
+entry(nutup, kiwari, [], "participle ti shut").
+entry(shuttle, v, [shuttled, shuttling, shuttles], "pikeun ngalih atanapi ngarambat bolak-balik").
+entry(shuttler, n, [shuttlers], "hiji anu ngangkut").
+entry(shvitz, v, [shvitzed, shvitzing, shvitzes], "ngahicep").
+entry(shwa, n, [shwas], "schwa").
+entry(shwanpan, n, [shwanpans], "swanpan").
+entry("malu", adj, [], "MALU-MALU").
+entry(malu, v, [ngamalukan, ngamalukeun, ngalengis], "pindah dadakan ka balik atawa ka sisi sabab sieun").
+entry(shyer, n, [shyers], "shier").
+entry(shylock, v, [shylocked, shylocking, shylocks], "nginjeumkeun duit kalayan suku bunga anu luhur").
+entry(shyly, adv, [], "dina cara anu isin").
+entry(kareueus, n, [kareuesan], "kaayaan jadi isin").
+entry(shyster, n, [shysters], "pengacara atawa politisi anu teu boga etika").
+entry(si, n, [sis], "ti").
+entry(sial, n, [sials], "sawatara jinis formasi batuanSIALIS adj").
+entry(sialid, n, [sialids], "hiji alderfly").
+entry(sialidan, n, [sialidans], "sialid").
+entry(sialoid, adj, [], "nu sarupa jeung ludah").
+entry(siamang, n, [siamang-si-amang], "gibbon hideung gedé").
+entry(siamese, n, [siameses], "pipa cai jeung sambungan pikeun dua selang").
+entry(sib, n, [sib], "saderek").
+entry(sibb, n, [sibbs], "sib").
+entry(sibilant, n, [sibilants], "sora ucapan anu dihasilkeun ku napas frikatif ngalangkungan liang anu sempit").
+entry(sibilate, v, [sibilated,sibilating,sibilates], "ngajantikeun").
+entry(sibling, n, [baraya], "hiji anu gaduh kolot anu sami sareng anu sanés").
+entry(sibship, n, [sibships], "sakuriling murangkalih anu gaduh kolot anu sami").
+entry(sibyl, n, [sibyls], "nabi awéwé").
+entry(sic, v, [ngadesek, ngadesekkeun, ngadesek], "ngadesek pikeun narajang").
+entry(siccan, adj, [], "saperti").
+entry(sice, n, [sices], "syce").
+entry(sick, adj, [], "SICKER SICKESTkapangaruhan ku panyakit atawa kaséhatan anu goréng").
+entry(sick, v, [sicked,sicking,sicks], "nyicingan").
+entry(sickbay, n, [sickbays], "rumah sakit kapal").
+entry(sickbed, n, [sickbeds], "ranjang jalma nu gering").
+entry(sickee, n, [sickees], "sickie").
+entry(sicken, v, [sickened,sickening,sickens], "nyieun gering").
+entry(sickener, n, [sickeners], "hiji anu nyababkeun gering").
+entry(sickerly, adv, [], "aman").
+entry(sickie, n, [sickies], "jalma anu gering émosional").
+entry(sickish, adj, [], "sakitu gering").
+entry(arit, v, [diarit, ngarit, ngarit], "motong make hiji parabot tatanen nu mibanda hiji bilah").
+entry(sickly, adj, [], "SICKLIER SICKLIESTkatingali siga nu geringSICKLILY adv").
+entry(sickly, v, [sicklied, sicklying, sicklies], "ngadamel goreng").
+entry(panyakit, n, [panyakit-panyakit], "kaayaan janten gering").
+entry(sicko, n, [sickos], "sakit").
+entry(sickout, n, [sickouts], "henteuna pagawé sacara terorganisir kalayan ngaku gering").
+entry(sickroom, n, [sickrooms], "ngan ruang anu didiami ku jalmi nu gering").
+entry(sidalcea, n, [sidalceas], "sabaraha tutuwuhan di Amérika Kalér").
+entry(siddha, n, [], "pl SIDDHAHiji anu parantos ngahontal kasampurnaan dina Agama Hindu").
+entry(siddhi, n, [siddhis], "kasampurnaan anu kahontal ku siddha").
+entry(siddur, n, [siddurs], "atawa SIDDURIM buku doa Yahudi").
+entry(side, v, [sided,siding,sides], "sarengsena atanapi ngadukung").
+entry(sidearm, v, [sidearmed,sidearming,sidearms], "ngageber bal anu panjangna dina atawa handapna tingkat taktak").
+entry(sideband, n, [sidebands], "sabuk tina frékuénsi radio").
+entry(sidebar, n, [sidebars], "carita warta pondok nu ngiringan carita utama").
+entry(sideburn, n, [], "SIDEBURNSnyaeta dua janggut ittah nu tumuwuh ku lalaki dina saban sisi beungeut").
+entry(sidecar, n, [sisi-kendaraan], "kendaraan penumpang anu napel ka motor").
+entry(sided, kapengker, [], "tégés tina side").
+entry(sidehill, n, [sidehills], "pasir sisi").
+entry(sidekick, n, [sidekicks], "babaturan raket").
+entry(tanpa_sisi, adj, [], "henteu gaduh sisi").
+entry(sideline, v, [sidelined,sidelining,sidelines], "ngalingsirkeun").
+entry(sideling, adj, [], "miring").
+entry(sidelock, n, [sidelocks], "bubu rambut panjang anu murag ti gigir sirah").
+entry(sidelong, adj, [], "diarahkeun ka hiji sisi").
+entry(sideman, n, [sidemen], "anggota band jazz").
+entry(sidemeat, n, [sidemeats], "daging nu dicokot tina sampingna babi").
+entry(sidereal, adj, [], "nujul ka béntang-béntang").
+entry(siderite, n, [siderites], "siki mineral").
+entry(sideroad, n, [sideroads], "jalan pausahaan").
+entry(sideshow, n, [sideshows], "acara kecil anu ditawarkeun di samping atraksi utama").
+entry(lingan, k, [ngalingan,linganana,lingan], "melengkah ka hiji sisi").
+entry(ba serbaguna, n, [ba serbaguna-serbaguna], "bagean staf bantuan di gerejaAnglikan").
+entry(sidespin, n, [sidespins], "sagala jenis puteran anu dihaturkeun ka bal").
+entry(sidestep, v, [sidestepped,sidestepping,sidesteps], "léngkah ka salah sahiji sisi").
+entry(trottoar, n, [trottoars], "jalur anu diaspal pikeun pejalan kaki").
+entry(sidewall, n, [sisi ban], "permukaan samping tina ban").
+entry(sideward, adv, [], "ka hiji sisi").
+entry(sideway, adv, [], "sideways").
+entry(samping, adv, [], "ke arah atanapi ti hiji sisi").
+entry(sidewise, adv, [], "tepi").
+entry(sidh, n, [sidhe], "gunung anu dipiheulaan ku mahluk gaib dina folklor Irlandia").
+entry(siding, n, [sidings], "bahan pikeun nyampes bangunan pigura").
+entry(sidle, v, [sidled, sidling, sidles], "pikeun ngalih ka sisi").
+entry(sidler, n, [para sidler], "anu ngalakukeun sidling").
+entry(pengepungan, v, [dipager,pageran,pager], "pikeun nyobaan nangkep atawa meunang").
+entry(siemens, n, [siemens], "hiji unit konduktansi listrik").
+entry(sienite, n, [sienites], "syenit").
+entry(sienna, n, [siennas], "pigmen coklat").
+entry(sierozem, n, [sierozems], "jenis taneuh").
+entry(sierra, n, [sierras], "gunung ranggéanSIERRAN adj").
+entry(siesta, n, [siestas], "saré soré atawa istirahat").
+entry(sieur, n, [sieurs], "judul hormat kuno ti Perancis pikeun hiji lalaki").
+entry(ayakan, v, [diayak,ngayak,ayakan], "ngaliwatan hiji ayakan pikeun misahkeun bagian kasar ti bagian halus tina bahan anu longgar").
+entry(sievert, n, [sieverts], "unit radiasi ionisasi").
+entry(sifaka, n, [sifakas], "sakola asal Madagaskar").
+entry(siffleur, n, [siffleurs], "sato nu ngaluarkeun sora siul").
+entry(sift, v, [diayak, ngayak, ngahususun], "ayak").
+entry(sifter, n, [sifters], "hiji nu nyaring").
+entry(sifting, n, [siftings], "pekerjaan tukang nyaring").
+entry(sig, n, [sigs], "pesan pondok pribadi di tungtung email").
+entry(siganid, n, [siganids], "salah sahiji kulawarga lauk").
+entry(ngahuleng, kecap, [ngahuleng, keur ngahuleng, ngahuleng-na], "ngalepaskeun tanaga tina udara anu ditepikeun kana sora tarik anu bisa kadenge").
+entry(sigher, n, [sighers], "hiji anu ngagukgik").
+entry(henteumerang, adj, [], "henteu ngaluarkeun sacara sora").
+entry(sighlike, adj, [], "nu sapertos ngarorok").
+entry(pemandangan, v, [terlihat, mengamati, pemandangan], "mengamati atau memperhatikan").
+entry(sighter, n, [sighters], "nu ningali").
+entry(pangamatan, n, [pangamatan-pangamatan], "hiji observasi").
+entry(sightly, adj, [], "SIGHTLIER SIGHTLIESTnerekep katingalna").
+entry(sightsee, v, [sightsaw,sightseen,sightseeing], "SIGHTSEEkeur nganjang jeung ningali tempat-tempat anu pikaresepeun").
+entry(sigil, n, [sigils], "segel resmi").
+entry(siglos, n, [sigloi], "koin Persia kuno").
+entry(siglum, n, [sigla], "singkatan pikeun nunjukkeun sumber teks anu diédit").
+entry(sigma, n, [sigmas], "huruf YunaniSIGMATE adj").
+entry(sigmoid, n, [sigmoids], "kurva S dina bagian awak").
+entry(tanda, v, [ditandatangani, nuju_nandatanganan, nandatanganan], "nulis ngaran dina").
+entry(signa, v, [], "tulis dina labél teu aya bentuk séjén tina kecap paréntah ieu anu dianggo").
+entry(signage, n, [signages], "sistem tanda dina komunitas").
+entry(sinyal, v, [disinyal, nyinyal, sinyal], "atau DISINYAL NYINYAL SINYALngabéjaan ku sarana komunikasi").
+entry(signaler, n, [signalers], "nu ngisyaratkeun").
+entry(taliti, kd, [], "notably").
+entry(signee, n, [signees], "nu nandatangan dokumen").
+entry(panjangan, n, [panjangan], "hiji anu nandatanganan").
+entry(signet, v, [signeted, signeting, signets], "meunteun kalayan segel resmi").
+entry(nganyatakeun, v, [dinanyatakeun,nganyatakeun,nganyatakeun], "pikeun nyieun katohyan").
+entry(nandatangan, n, [nandatanganan], "tindakan nulis tandatangan dina hiji dokumen atawa buku").
+entry(signior, n, [signiors], "atawa SIGNIORIsignor").
+```prolog
+entry(signiory, n, [signiories], "signory").
+```
+entry(signor, n, [signors], "atawa SIGNORI gelar sopan santun Italia pikeun lalaki").
+entry(signora, n, [signoras], "atawa SIGNOREgelar kamulyaan Itali pikeun awéwé anu geus nikah").
+entry(signore, n, [signori], "signor").
+entry(signory, n, [signories], "seignory").
+entry(rambu, kecap_kerja, [dirambuyan, ngarambyeun, ngarambisa], "masang rambu anu aya tanda").
+entry(sika, n, [sikas], "rusa leutik asal Asia").
+entry(sike, n, [sikes], "syke").
+entry(siker, adj, [], "aman").
+entry(siksik, n, [siksiks], "squirrel darat Arktik").
+entry(silage, n, [dahareun_sapi_di_silo], "pakan anu disimpen dina silo").
+entry(silane, n, [silanes], "senyawa kimia").
+entry(sild, n, [silds], "herring ngora").
+entry(diam, k, [didiameun, ngadiemkeun, didiamkeun], "ngadamel tiiseun").
+entry(silencer, n, [silencers], "hiji anu ngadamel sepi").
+entry(sileni, pl, [], "tina silenus").
+entry(silent, adj, [], "SILENTER SILENTESThenteu ngadamel sora atawa bisingSILENTLY adv").
+entry(silents, npl, [], "pilem bisu").
+entri(silenus, n, [sileni], "dieu alas tina mitologi Yunani").
+entry(silesia, n, [silesias], "kain katun").
+entry(silex, n, [silexes], "silika").
+entri(silika, n, [silika-silika], "wujud silikon").
+entry(silikat, n, [silikat-silikat], "uyah kimia").
+entry(silicic, adj, [], "patali jeung silikon").
+entry(silicide, n, [silisida], "senyawa silikon").
+entry(silikifikasi, k, [tersilikifikasi, mensilikifikasi, mensilikifikasi], "ngarobah jadi silika").
+entry(silicium, n, [siliciums], "silikon").
+entry(silicle, n, [silicles], "siki pondok leutik anu rata").
+entry(silikon, n, [silikons], "hiji unsur nonlogam").
+entry(silicone, n, [silicon], "senyawa silikon").
+entry(silicula, n, [siliculae], "silicle").
+entry(siliqua, n, [siliquae], "silique").
+entry(silique, n, [siliques], "straw péntés").
+entry(sutera, v, [disutera, nyuteraan, sutera], "nutupan ku sutera hiji lawon lemes nu caang").
+entry(sutra, adj, [], "dijieun tina sutra").
+entry(silkie, n, [silkies], "selkie").
+entry(silkier, komparatif, [], "sakakain bulu").
+entry(silkies, pl, [], "silky").
+entry(silkiest, superlative, [], "tina sutra").
+entry(silkily, adv, [], "ku cara anu lemes").
+entry(silklike, adj, [], "nyarupaan sutra").
+entry(silkweed, n, [silkweeds], "milkweed").
+entry(silkworm, n, [baebeur], "ulat nu ngagulung kokon tina serat sutra").
+entry(silky, adj, [], "SILKIER SILKIESTnyarupaan sutra").
+entry(silky, n, [silkies], "terier kalayan bulu anu ngagem").
+entry(sill, n, [sills], "potongan horizontal di dasar jandela").
+entry(sillabub, n, [sillabubs], "cikopi alkohol dina dahareun").
+entry(siller, n, [sillers], "perak").
+entry(sillibub, n, [sillibubs], "sillabub").
+entry(silly, adj, [], "SILLIER SILLIESTnuduhkeun kurangna akal nu benerSILLILY adv").
+entry(silly, n, [sillies], "jalma anu bodor").
+entry(silo, v, [siloed,siloing,silos], "nyimpen dina silo wangunan silinder jangkung").
+entry(siloksan, n, [siloksan-siloksan], "senyawa kimia").
+entry(silt, v, [silting,ngasilir,siliteun], "nganclukeun ku leutak bahan sedimen").
+entry(silty, adj, [], "LEBIH SILTIH SILTIESTpinuh ku silty").
+entry(silurid, n, [silurids], "salah sahiji kulawarga lauk lele").
+entry(siluroid, n, [siluroids], "hiji silurid").
+entry(silva, n, [silvas], "atau SILVAEsylva").
+entry(silvan, n, [silvans], "sylvan").
+entry(silver, v, [silvered,silvering,silvers], "nyieun logam jadi pérak").
+entry(silverer, n, [silverers], "nu nyilarkeun").
+entry(silverier, comparative, [], "tina silvery").
+entry(silveriest, superlative, [], "ti silvery").
+entry(silverly, adv, [], "kalayan penampilan pérak").
+entry(silvern, adj, [], "silvery").
+entry(silvertip, n, [silvertips], "suku beruang grizzly kalayan bulu bodas-tip").
+entry(silvery, adj, [], "SARUPA PERAK").
+entry(silvex, n, [silvexes], "hiji herbisid").
+entry(silvical, adj, [], "nujul ka elmu kehutanan").
+entry(silvics, npl, [], "studi ngeunaan tangkal leuweung").
+entry(sim, n, [sims], "simulasi").
+entry(sima, n, [simas], "batu beku").
+entry(simar, n, [simars], "jaket hampang atawa jubah awéwé").
+entry(simaruba, n, [simarubas], "kai tropis").
+entry(simazine, n, [simazines], "hiji herbisida").
+entry(simcha, n, [simchas], "kondangan Yahudi pribadi").
+entry(simian, n, [simians], "kera atawa monyet").
+entry(sarupa, adj, [], "nyarupaan tapi henteu identik sapinuhna").
+entry(simile, n, [similes], "kiasan").
+entry(simioid, adj, [], "sakumaha monyet").
+entry(simious, adj, [], "nu aya patalina jeung bangsa monyet").
+entry(simitar, n, [simitars], "simitir").
+entry(simlin, n, [simlins], "cymling").
+entry(simmer, v, [simmered,simmering,simmers], "kukus beluk atawa ngadeukeutan kana titik ngagolak").
+entry(simnel, n, [simnels], "roti renyah").
+entry(simoleon, n, [simoleons], "dolar").
+entry(simoniac, n, [simoniacs], "anu ngalakukeun simoni").
+entry(simonies, pl, [], "tina simony").
+entry(simonist, n, [simonists], "saurang simoniac").
+entry(simonize, v, [simonized,simonizing,simonizes], "ngagilas ku lilin").
+entry(simony, n, [simonies], "beuli atawa ngajual kantor garéja").
+entry(simoom, n, [simooms], "angin panas garing ti gurun").
+entry(simoon, n, [simoons], "simoom").
+entry(simp, n, [simps], "jalma anu bodo").
+entry(simper, v, [simpered,simpering,simpers], "seuri ku cara anu bodo").
+entry(simperer, n, [simperers], "hiji anu seuri samemehna").
+entry(basa_sederhana, kecap_sifat, [], "BASA_SADERHANA BASA_SADERHANAtaya kompleks atawa kompléks").
+entry(sederhana, n, [sederhana-sederhana], "hal anu saderhana").
+entry(simplex, n, [simplexes], "atawa SIMPLICES atanapi SIMPLICIA kecap saderhana").
+```prolog
+entry(sederhanakeun, v, [disederhanakeun, nyederhanakeun, nyederhanakeun], "ngajadikeun basajan").
+```
+entry(simplism, n, [simpelisasi], "kabiasaan pikeun nyederhanakeun masalah atawa perkara").
+entry(simplis, n, [simplis-simplis], "jalma anu condong kana basajanisme").
+entry(simply, adv, [], "ku cara basajan").
+entry(simulant, n, [simulants], "nu hiji nu mere simulasi").
+entry(simular, n, [simulars], "simulan").
+entry(mirip, k, [mirip, kamiripan, miripkeun], "ngabogaan kamiripan jiga").
+entry(dosa, k, [ngado,ngadodosaan,nagadoa], "lakuna kajahatan kana hukum agama atawa moral").
+entry(sinapism, n, [sinapisms], "campuran seperti pasta yang dioleskan ke bagian tubuh yang teriritasi").
+entry(ti, kagolong_kecap, [], "tina harita nepi ayeuna").
+entry(tulus, adj, [], "TULUS TULUSest bébas tina hypocrisy atanapi palsu").
+entry(sinciput, n, [sinciputs], "atawa SINCIPITAbagian hareup sirah").
+entry(sine, n, [sines], "fungsi trigonometri tina sudut").
+entry(sinecure, n, [sinecures], "jabatan anu merlukeun saeutik atawa teu merlukeun pagawean").
+entry(sinew, v, [ngaototan, diototan, otot], "nguatkeun").
+entry(sinewy, adj, [], "langsing jeung berotot").
+entry(sinfonia, n, [sinfonias], "utawi simponi").
+entry(berdosa, adj, [], "ditandaan ku dosaSINFULLY adv").
+entry(sing, v, [sang,sung,singing], "SINGngagero ku sora jeung laguSINGABLE adj").
+entry(singe, v, [singed,singeing,singes], "ngaduruk saeutik").
+entry(panyanyi, n, [panyanyi], "anu nyanyi").
+entry(nyanyi, n, [nyanyi], "tindakan atawa sora ti jalma nu nyanyi").
+entry(tunggal, v, [ditunggalkeun, nengtunggal, tunggalna], "milih tina grup").
+entry(singlet, n, [singlets], "kaos jero pikeun lalaki atawa jersi").
+entry(teu baris, kagolong kecap, [], "tanpa babaturan batur").
+entry(singsong, n, [singsongs], "wirahma monoton dina nyarios atawa maca").
+entry(tunggal, n, [tunggals], "bentuk kecap anu nuduhkeun hiji jalma atawa hal").
+entry(sinh, n, [sinhs], "fungsi hiperbolik tina hiji sudut").
+entry(sinicize, v, [sinicized,sinicizing,sinicizes], "ngarobih ku pangaruh Cina").
+entry(sinister, adj, [], "ngaruksak atawa ngagematkeun jahat").
+entry(sink, v, [sunken,sinking,sinks], "pindah ka tingkat nu leuwih handapSINKABLE adj").
+entry(sinkage, n, [sinkages], "tindakan prosés atanapi derajat nélésna").
+entry(sinker, n, [sinkers], "hiji anu tilelep").
+entry(sinkful, n, [sinkfuls], "saloba-lobana nu bisa dieusi ku wastafel").
+entry(sinkhole, n, [sinkholes], "depresi alam dina permukaan taneuh").
+entry(sinless, adj, [], "bébas tina dosa").
+entry(sinned, kaliwat, [], "kalimah waktu tina dosa").
+entry(sinner, n, [para pendosa], "hiji anu dosa").
+entry(sinnet, n, [sinnets], "sennet").
+entry(sinning, ayeuna, [], "partisipel tina sin").
+entry(sinologi, n, [sinologi-sinologi], "panalungtikan ngeunaan Tiongkok").
+entry(sinopia, n, [sinopias], "atawa SINOPIE hiji pigmén beureum").
+entry(sinsyne, adv, [], "saprak").
+entry(sinter, v, [sintered,sintering,sinters], "ngabentuk ngahiji ku aksi gabungan panas jeung tekenan").
+entry(sinuate, v, [disinuasi,ngasinuasi,ngasinuasi], "ngabengkokkeun ka jerona jeung kaluar").
+entry(sinuous, adj, [], "dicirikeun ku lengkungan lengkung atawa belokan").
+entry(sinus, n, [sinuses], "rongga sirah").
+entry(sinusoid, n, [sinusoids], "kurva matematis").
+entry(sip, v, [sipped,sipping,sips], "nginum dina jumlah leutik").
+entry(sipe, v, [siped,siping,sipes], "nembus").
+entry(siphon, v, [siphoned,siphoning,siphons], "ngalirkeun ngaliwatan siphon hiji jinis tabung").
+entry(siphonal, adj, [], "nunjuk kana atanapi patali jeung siphon").
+entry(siphonic, adj, [], "siphonal").
+entry(siping, ayeuna, [], "paricipal tina sipe").
+entry(sippable, adj, [], "sanggup diteguk").
+entry(sipped, baheula, [], "wanci tina nginum").
+entry(sipper, n, [sippers], "hiji anu nyuruput").
+entry(sippet, n, [sippet-sippet], "sapotong roti leutik anu direndem dina kuah").
+entry(nyesep, ayeuna, [], "partisip sip").
+entry(sir, n, [sirs], "wangsalan anu hormat dipaké pikeun lalaki").
+entry(sirdar, n, [sirdars], "jalma anu ngagaduhan derajat di India").
+entry(sire, v, [sired,siring,sires], "kagungan").
+entry(siree, n, [sirees], "sirree").
+entry(siren, n, [sirens], "alat nu ngahasilkeun sora peringatan anu nembus").
+entry(sirenian, n, [sirenians], "sagala sato tina ordo mamalia akuatik").
+entry(siring, ayeuna, [], "partisip tina sire").
+entry(sirloin, n, [sirloins], "potongan daging sapi").
+entry(sirocco, n, [siroccos], "angin panas garing").
+entry(sirra, n, [sirras], "saudaraku").
+entry(sirrah, n, [sirrahs], "wangun panyapa anu dianggo ka jalma anu dianggap leuwih handap").
+entry(sirree, n, [sirrees], "juragan").
+entry(sirup, v, [nyirup, disirup, nyirupan], "ngaheés").
+entry(sirupy, adj, [], "SIRUPIER SIRUPIESTsyrupy").
+entry(sirvente, n, [sirventes], "lagu atanapi sajak satiris jaman pertengahan").
+entry(sis, n, [sises], "atanapi SIPATIsister").
+entry(sisal, n, [sisals], "serat anu kuat dipaké pikeun tambang").
+entry(siskin, n, [siskins], "manuk finch asal Éropa").
+entry(sissy, adj, [], "SISSIER SISSIESTsissyish").
+entry(sissy, n, [sissies], "jalma lalaki anu kemayu").
+entry(sissyish, adj, [], "ngalandi sissy").
+entri(adi, v, [adis,ngadi,adi-adi], "ngalakukeun saperti adi bikang").
+entry(sisterly, adj, [], "siga lanceuk awewe").
+entry(sistroid, adj, [], "kaasup antara sisi cembung tina dua kurva anu patandang").
+entry(sistrum, n, [sistrums], "atawa SISTRASalaka alat musik perkusi Mesir kuno").
+entry(duduk, v, [duduk,duduk-duduk,duduks], "ngahuleng dina bokong").
+entry(sitar, n, [kecapi-kecapi], "kecapi ti India").
+entry(sitaris, n, [para_sitaris], "hiji anu maén sitar").
+entry(sitkom, n, [sitkom-sitkom], "séri komedi televisi sareng karakter anu teras-terasan").
+entry situs, v, [ditempatkeun, nempatkeun, situs-situs], "pikeun nempatkeun dina posisi pikeun operasi".
+entry(sith, adv, [], "saprak").
+entry(sithence, adv, [], "saprak").
+entry(sithens, adv, [], "saprak").
+entry(siting, hadir, [], "partisipel tina situs").
+entry(sitology, n, [sitologi-sitologi], "élmu zat-gizi jeung diét").
+entry(sitrep, n, [sitreps], "laporan ngeunaan kaayaan militér ayeuna").
+entry(sitten, a, [], "past participle tina sit").
+entry(sitter, n, [sitters], "nu linggih").
+entry(duduk, n, [dudukan], "rapat atawa sesi").
+entry(nempatkeun, v, [ditempatkeun, nempatkeun, nempatkeun], "pikeun nempatkeun dina posisi anu tangtu").
+entry(situp, n, [situps], "olahraga nu ngalih tina posisi ngagoler kana posisi diuk").
+entry(tempat, n, [tempats], "posisi atanapi lokasi").
+entry(sitzmark, n, [sitzmarks], "tanda anu tinggaleun dina salju ku paluncur anu ngagolér ka tukang").
+entry(siver, n, [sivers], "jalur got").
+entry(enam, n, [genep], "hiji angka").
+entry(sixer, n, [sixers], "pamingpin ti hiji kelompok genep Brownies atawa Cubs").
+entry(sixfold, adj, [], "nyarupaan genep kali leuwih ageung ti").
+entry(sixmo, n, [sixmos], "ukuran kertas").
+entry(sixpence, n, [sixpences], "koin Inggris anu biasa dipaké baheula anu hargana genep penny").
+entry(sixpenny, adj, [], "hargana genep pes").
+entry(sikste, n, [sikstes], "hiji parry anggar").
+entry(genep welas, n, [genep welasan], "hiji angka").
+entry(kagenep, n, [kagenep-kagenep], "hiji tina genep bagéan anu sarua").
+entry(kagenep, ktb, [], "di tempat kagenep").
+entry(kanem-puluh, n, [kanem-puluhna], "hiji tina genep-puluh bagian anu sarua").
+entry(enampuluh, n, [enampuluhan], "hiji angka").
+entry(sixtyish, adj, [], "kira-kira umur genep puluh taun").
+entry(sizable, adj, [], "badagSIZABLY adv").
+entry(sizar, n, [sizars], "murid Britania anu nampi bantuan kauangan ti sakolana").
+entry(ukuran, v, [diukur, ngukur, ukuran], "ngatur nurutkeun ukuran proporsi fisik").
+entry(sizeable, adj, [], "sizableSIZEABLY adv").
+entry(sizer, n, [sizers], "sizar").
+entry(siziness, n, [sizinesses], "kualitas atawa kaayaan janten lengket").
+entry(sizing, n, [sizings], "hiji zat anu dipaké salaku glasir atawa pangisi pikeun bahan porous").
+entry(sizy, adj, [], "SIZIER SIZIESTviscid").
+entry(sizzle, v, [sizzled,sizzling,sizzles], "ngaduruk atawa ngagoreng kalayan sora hiseik").
+entry(sizzler, n, [sizzlers], "poé anu panas pisan").
+entry(sjambok, v, [sjamboked,sjamboking,sjamboks], "ngabedog kalawan cemeti anu dipake di Afrika Kidul").
+entry(ska, n, [skas], "musik populér ti Jamaika").
+entry(skag, n, [skags], "heroin").
+entry(skald, n, [skalds], "pujangga Skandinavia kunoSKALDIC adj").
+entry(skank, v, [skanked,skanking,skanks], "nari kalayan anggahota leungeun santai").
+entry(skanker, n, [skankers], "anu keur skank").
+entry(skanky, adj, [], "SKANKIER SKANKIESTfilthy atawa sleazy").
+entry(skat, n, [skats], "kaulinan kartu").
+entry(skate, v, [skated,skating,skates], "ngageleser di luhureun és atanapi taneuh nganggo sapatu skate anu dipasangi luncuran atawa rod").
+entry(skater, n, [skaters], "anu ngapung dina és").
+entry(skating, n, [skatings], "olahraga ngageleser dina pakakas luncur").
+entry(skatol, n, [skatols], "skatole").
+entry(skatole, n, [skatole], "senyawa kimia").
+entry(skean, n, [skeans], "sajenis kujang").
+entry(skeane, n, [skeanes], "sapotong benang angin-anginan dina gulungan longgar").
+entry(sked, v, [skedded, skedding, skeds], "nyieun jadwal").
+entry(skee, v, [skeed,skeeing,skees], "pikeun suksés").
+entry(skeen, n, [skeens], "skean").
+entry(skeet, n, [skeets], "olahraga nembak pigeun tanah liat anu dialungkeun kana hawa ku jebakan cinyusu").
+entry(skeeter, n, [skeeters], "nu nembak skeet").
+entry(skeevy, adj, [], "SKEEVIER SKEEVIESTngahalang keur lalajo").
+entry(skeg, n, [skegs], "kai anu ngahubungkeun kel jeung galuh tina kapal").
+entry(sombong, adj, [], "congkak").
+entry(skein, v, [skeined,skeining,skeins], "ngagulung kana gulungan panjang longgar").
+entri(kerangka, n, [kerangka-kerangka], "kerangka nu nyokong atawa ngajaga awak manusa atawa satoSKELETAL adj").
+entry(skell, n, [skells], "jalma tanpa bumi").
+entry(skellum, n, [skellums], "bangor").
+entry(skelm, n, [skelms], "skellum").
+entry(skelp, v, [skelpit, skelping, skelps], "ngabalah").
+entry(skelter, v, [skeltered,skeltering,skelters], "ngabebejakan").
+entry(skene, n, [skenes], "skean").
+entry(skep, n, [skeps], "hurung lebah").
+entry(skepsis, n, [skepsises], "sikap atawa pandangan tina hiji skeptis").
+entry(skeptis, n, [skeptis-skeptis], "jalma nu mamawa ragu kana pamikiran nu ku umum geus dianggap bener").
+entry(skerry, n, [skerries], "pulo leutik berbatu").
+entry(sketsa, v, [ngasketsa,ngasketsaking,ngasketsakan], "pikeun nyieun gambar kasar jeung gancang ngeunaan").
+entry(sketcher, n, [sketchers], "nu ngalukis").
+entry(sketchy, adj, [], "LEUWIH SKETCHY PANGSKETCHYNA teu lengkep atawa teu jelas").
+entry(sesewaan, k, [sesewaan,sesewaanan,sesewean], "ngapungkeun").
+entry(skewback, n, [skewbacks], "beungeut anu ngakibatkeun anjlogna tempat tungtung tina arches ngagolér").
+entry(skewbald, n, [skewbalds], "kuda anu boga tambalan coklat jeung bodas").
+entry(sate, v, [disate, nyate, sates], "tusuk nganggo jarum panjang sapertos daging").
+entry(skewness, n, [skewnesses], "kakurangan simetri").
+entry(ski, v, [skied,skiing,skis], "ngumbara dina ski jalur panjang sempit tina kayu atawa logam").
+entry(skiable, adj, [], "anu tiasa disalancar").
+entry(skiagram, n, [skiagrams], "gambar anu dijieun tina bayangan atawa garis gedé").
+entry(skibob, v, [skibobbed, skibobbing, skibobs], "ngabubarkeun kandaraan anu siga sapédah sareng suhan tinimbang roda").
+entry(skid, v, [skidded,skidding,skids], "ngageser sisikian akibat kaleungitan traksi").
+entry(skidder, n, [skidders], "hiji nu nyéred").
+entry(skidding, n, [skiddings], "pakasaban mindahkeun kayu ti wewengkon motong").
+entry(skiddoo, v, [skiddooed, skiddooing, skiddoos], "indit").
+entry(skiddy, adj, [], "SKIDDIER SKIDDIESTkamungkinan nyebabkeun ngageser").
+entry(skidoo, v, [skidooed, skidooing, skidoos], "luncat").
+entry(skidooer, n, [skidooers], "hiji anu numpak skidoo").
+entry(skidpad, n, [skidpads], "permukaan jalan anu dipaké pikeun supir latihan ngontrol selip").
+entry(skidway, n, [skidways], "hiji platform anu dipaké pikeun numpuk log pikeun muatan atanapi motong").
+entry(ski, kapungkur, [], "kecap panggih ski jeung langit").
+entry(skier, n, [skier-skier], "nu ngagoler").
+entry(langit, hadir, [], "orang ke-3 tunggal dari langit").
+entry(skiey, adj, [], "langit").
+entri(skiff, n, [skiffs], "parahu leutik kabuka").
+entry(skiffle, v, [skiffled, skiffling, skiffles], "maénkeun gaya musik anu tangtu").
+entry(skiing, n, [skiings], "olahraga ngagunakeun ski").
+entry(skijorer, n, [skijorers], "skiis anu ditarik ngalangkungan salju ku anjing ku kuda atawa kendaraan").
+entry(pinter, adj, [], "skillful").
+entry(skilfull, adj, [], "kaahlian").
+```prolog
+entri(kabisa, n, [kabisa-kabisa], "kamampuhan ngalakukeun hiji hal kalayan hadéMAHIR adj").
+```
+entry(skilless, adj, [], "henteu boga kaahlian").
+entry(wajan, n, [wajan-wajan], "sebuah pan nu keur ngagoreng").
+entry(pinter, adj, [], "miboga kapinteran").
+entry(skilling, n, [skillings], "mata uang kuno ti nagara-nagara Skandinavia").
+entry(skim, v, [skimmed, skimming, skims], "ngaleupaskeun bahan anu ngambang tina beungeut").
+entry(skimmer, n, [skimmers], "hiji anu ngagumisik").
+entry(skimmia, n, [skimmias], "siki tutuwuhan hejo sadaya mangsa").
+entry(skimming, n, [skimmings], "hal anu diangseu tina cairan").
+entry(skimp, v, [skimped,skimping,skimps], "ngirit").
+entry(skimpy, adj, [], "SKIMPIER SKIMPIESTscantySKIMPILY adv").
+entry(kulit, v, [dikuliti,ngakulit,ngakulitkeun], "ngabersihan atawa ngurangan kulit jaringan membran nu nutupan awak sasatoan").
+entry(kulitpinuuh, n, [kulitpinuuh], "sakumaha anu tiasa dicekel ku wadah kulit").
+entry(skinhead, n, [skinheads], "anu rambutna kacukur pondok pisan").
+entry(skink, v, [skinked, skinking, skinks], "ngocorkeun atawa ngaladénan salaku inuman").
+entry(skinker, n, [skinkers], "hiji nu skinks").
+entry(tanpa_kulub, adj, [], "henteu mibanda kulit").
+entry(skinlike, adj, [], "siga kulit").
+entry(dikulit, kapungkur, [], "wangenan kulit").
+entry(skinner, n, [skinners], "hiji nu nipeul").
+entry(nyingketan, ayena, [], "participle tina nyingket").
+entry(skinny, adj, [], "LEBIH LANGSING PALING LANGSINGsangat kurus").
+entry(cileuncang, n, [cileuncang-cileuncang], "hiji anu cileuncang").
+entry(skint, adj, [], "enteh duit").
+entry(skioring, n, [skiorings], "hiji wangun ngasup-sapaning").
+entry(skip, v, [skipped,skipping,skips], "pindah kalayan léngkah-léngkah ringan").
+entry(skipjack, n, [skipjacks], "lau laut").
+entry(skiplane, n, [skiplanes], "pesawat anu dirancang pikeun nyokot angkat tina atanapi badarat kana salju").
+entry(dilewatan, kapungkur, [], "kalakuan dari skip").
+entry(skipper, v, [skippered,skippering,skippers], "nindakkeun minangka juragan atawa nakhoda").
+entry(skippet, n, [skippets], "kotak leutik pikeun ngajaga segel resmi").
+entry(skipping, hadir, [], "participle tina skip").
+entry(skirl, v, [skirled,skirling,skirls], "ngahasilkeun sora nu nyaring").
+entry(patempuran_leutik, k, [patempuran_leutik, patempuran_leutik, patempuran_leutik], "ngalakukeun gelut leutik").
+entry(skirr, v, [skirred, skirring, skirrs], "gerak gancang").
+entry(skirret, n, [skirrets], "herba Asia").
+entry(rok, v, [dirokkeun, ngarok, roks], "ngurilingan").
+entry(skirter, n, [skirters], "hiji nu ngaliwatan").
+entry(skirting, n, [skirtings], "papan di jeroan tembok").
+entry(skit, n, [skits], "adegan dramatik pondok").
+entry(skite, v, [skited,skiting,skites], "pikeun ngalih gancang").
+entry(skitter, v, [skittered,skittering,skitters], "bergerak kalayan enteng atawa gancang sapanjang hiji permukaan").
+entry(skittery, adj, [], "SKITTERIER SKITTERIESTskittish").
+entry(sinyalir, adj, [], "gampang kaget").
+entry(skittle, n, [skittles], "suku kayu anu dipaké dina kaulinan bowling").
+entry(skive, v, [skived,skiving,skives], "ngagurat").
+entry(skiver, n, [skivers], "hiji nu ngaleupaskeun beban").
+entry(skivvy, v, [skivvied,skivvying,skivvies], "gawé minangka pembantu awéwé").
+entry(skiwear, n, [skiwear], "pakéan anu cocog pikeun dianggo nalika naék ski").
+entry(sklent, v, [sklented,sklenting,sklents], "miringkeun").
+entry(skoal, v, [skoaled,skoaling,skoals], "nginum pikeun kasehatan").
+entry(skol, v, [skoled, skoling, skols], "ngabaso").
+entry(skookum, n, [skookums], "roh jahat").
+entry(skort, n, [skorts], "sakurang anu siga rok").
+entry(skosh, n, [skoshes], "jumlah saeutik").
+entry(skreegh, v, [skreeghed,skreeghing,skreeghs], "ngageung").
+entry(skreigh, v, [skreighed,skreighing,skreighs], "ngagero").
+entry(skry, v, [skried,skrying,skries], "nyawang ka hareup").
+entry(skua, n, [skuas], "manuk laut anu galak").
+entry(skulk, v, [skulked,skulking,skulks], "pindah kalawan sembunyi-sembunyi").
+entry(skulker, n, [skulkers], "anu nyumput").
+entry(tengkorak, k, [tengkorakan,dikakolot,tengkorak-tengkorakan], "ngahaja ngéléh dina sirah").
+entry(skullcap, n, [skullcaps], "topi anu pas di sirah").
+entry(sigung, v, [sigunged,sigunging,sigungs], "ngéléhkeun kalayan telak").
+entry(skunky, adj, [], "SKUNKIER SKUNKIESTnyampak bau anu nyarupaan skunk sato anu bisa nyemprotkeun cairan bau").
+entry(langit, v, [langited,langiting,langits], "mukul atanapi ngalungkeun ka langit atmosfer luhur").
+entry(skyboard, n, [skyboards], "papan jeung kekereusan dampal suku nu dipaké pikeun skysurfing").
+entry(skyborne, adj, [], "udara").
+entry(skybox, n, [skyboxes], "kotak langit di stadion").
+entry(skycap, n, [skycaps], "kuli pangangkut di bandar udara").
+entry('skydive', 'v', ['skydove','skydiving','skydives'], "terjun payung ti pesawat pikeun olahraga").
+entry(skydiver, n, [skydivers], "hiji anu luncat payung").
+entry(skyey, adj, [], "nuslikan langit").
+entry(skyglow, n, [skyglows], "sebuah cahaya di langit peuting anu dihasilkeun tina lampu urban").
+entry(skyhook, n, [skyhooks], "cangkingan anu dipiheulikeun jeung di gantung tina langit").
+entry(skyjack, v, [skyjacked, skyjacking, skyjacks], "ngarampas pesawat").
+entry(manuk_salak, v, [manuk_salak_d, manuk_salak_ing, manuk_salak_s], "pikeun ulin").
+entry(skyless, adj, [], "langitna katutup ku mega").
+entry(skylight, n, [skylights], "jandela dina hateup atawa langit-langit").
+entry(skylike, adj, [], "nyarupaan langit").
+entry(skyline, n, [skylines], "cakrawala").
+entry(skylit, adj, [], "nyarupaan skylight").
+entry(skyman, n, [skymen], "hiji pangapung").
+entry(skyphos, n, [skyphoi], "cangkir nginum anu digunakeun di Yunani kuno").
+entry(layarlangit, n, [layarlangit], "jenis layar").
+entry(skyscape, n, [skyscapes], "pemandangan langit").
+entry(skysurf, v, [skysurfed,skysurfing,skysurfs], "ngalakukeun manuver nalika bébas ragrag bari numpak papan langit").
+entry(skywalk, n, [skywalks], "jalan lalaki luhur antara dua wangunan").
+entry(ka-langit, katerangan, [], "ka arah langit").
+entry(ka langit, katerangan, [], "ka langit").
+entry(skywatch, v, [skywatched,skywatching,skywatches], "ngalalajoan langit pikeun benda-benda anu aya di langit atawa pesawat").
+entry(jalan_layang, n, [jalan_layang], "jalan raya anu di luhur").
+entry(skywrite, v, [skywrote,skywritten,skywriting], "SKYWRITE nulis dina langit ku ngaleupaskeun uap katingali tina kapal udara").
+entry(slab, v, [slabbed,slabbing,slabs], "ngaleupaskeun pelat datar lega tina log").
+entry(slabber, v, [slabbered,slabbering,slabbers], "nyusu").
+entry(slabbery, adj, [], "labuh").
+entry(slab, n, [slab-slab], "laku nyabut slab tina log").
+entry(slabby, adj, [], "SLABBIER SLABBIESTditutupan atanapi dipaving ku slab").
+entry(slablike, adj, [], "nuslik slab").
+entry(slack, adj, [], "HILEUD SAREUKSI henteu kencang atawa natep").
+entry(slack, v, [slacked,slacking,slacks], "ngalemeskeun").
+entry(malikeun, v, [malikeun, keur malikeun, malikeun], "pikeun ngaleungitkeun ketegangan atawa kabeungkeut").
+entry(slacker, n, [slackers], "jalma nu teu bisa diandelkeun").
+entry(slackly, adv, [], "kalayan cara anu kendur").
+entry(slag, v, [slagged,slagging,slags], "ngalakukeun konversi kana slag, sisanaan peupeus tina suntik bijih").
+entry(slagging, n, [slaggings], "proses ngarobah bijih jadi slag").
+entry(slaggy, adj, [], "SLAGGIER SLAGGIESTmikeun slag").
+entry(slahal, n, [slahals], "lahal").
+entry(maehan, kapungkur, [], "partisipasi tina maehan").
+entry(slainte, interj, [], "dipaké pikeun ngagelas kaséhatan hiji jalma").
+entry(slake, v, [slaked,slaking,slakes], "ngaréngsékeunSLAKABLE adj").
+entry(slaker, n, [slakers], "hiji anu ngorotan").
+entry(slalom, v, [slalomed,slaloming,slaloms], "ngalieus ngagunakeun skis dina jalur zigzag").
+entry(slalomer, n, [slalomers], "hiji anu ngalakukeun slalom").
+entry(slam, v, [slammed, slamming, slams], "nutup kalayan kuat jeung ribut").
+entry(slammer, n, [slammers], "panjara").
+entry(slamming, n, [slammings], "praktek ngaganti layanan telepon hiji jalma tina hiji perusahaan ka perusahaan séjén tanpa idin").
+entry(fitnah, v, [fitnah,fitnah,fitnah], "ngahina").
+entry(slang, v, [slanged,slanging,slangs], "ngagunakeun basa gaul anu kacida informalna atawa kasar").
+entry(slangy, adj, [], "SLANGIER SLANGIESTngawengku atawa ngandung bahasa gaulSLANGILY adv").
+entry(slank, a, [], "pusaka waktu nu geus kaliwat tina slink").
+entry(slant, v, [slanted,slanting,slants], "nyimpang ti horizontal atanapi vertikal").
+entry(slanty, adj, [], "SLANTIER SLANTIESTnyingclam tina horizontal atanapi vertikalSLANTLY adv").
+entry(slap, v, [slapped,slapping,slaps], "mukul nganggo leungeun kabuka").
+entry(slapdash, n, [slapdashes], "gawean teu ati-ati").
+entry(slapjack, n, [slapjacks], "pancake").
+entry(slapper, n, [slappers], "hiji anu neunggeul").
+entry(nampiling, hadir, [], "partisipel tina nampiling").
+entry(slapshot, n, [slapshots], "jenis pukulan dina hoki").
+entry(slash, v, [dipeuncit, meuncit, meuncitkeun], "motong turuk-turukan ku gertakan anu kuat").
+entry(slasher, n, [slashers], "hiji anu motong").
+entry(slashing, n, [slashings], "tindakan hiji anu nyabak").
+entry(slat, v, [slatted,slatting,slats], "nyadiakeun kalayan slats strip kai atawa logam anu heureut").
+entry(slatch, n, [slatches], "katenangan antara ombak anu ngagedur").
+entry(slate, v, [slated,slating,slates], "nutupan kalayan batu tulis bahan atap").
+entry(slater, n, [slaters], "hiji anu ngagasab").
+entry(slatey, adj, [], "SLATIER SLATIESTslaty").
+entry(slather, v, [slathered,slathering,slathers], "nyebarkeun sacara kandel").
+entry(slatier, comparative, [], "tina slaty").
+entry(slatiest, superlative, [], "na slaty").
+entry(slating, n, [slatings], "pagawean hiji nu ngalakukeun slate").
+entry(slatted, kapungkur, [], "wangenan tina slat").
+entry(slattern, n, [slatterns], "wanoja anu jorok").
+entry(slatting, n, [slattings], "bahan pikeun nyieun beusi").
+entry(slaty, adj, [], "SLATIER SLATIESTmirip batu tulis").
+entry(slave, v, [slaved,slaving,slaves], "pikeun damel sapertos budak hiji anu dipikagad ku anu sanés").
+entry(slaver, v, [slavered,slavering,slavers], "ngacay").
+entry(slaverer, n, [slaverers], "hiji anu ngadahar").
+entry(perbudakan, n, [perbudakan], "kapamilikan hiji jalma ku jalma séjén").
+entry(slavey, n, [slaveys], "pelayan awéwé").
+entry(slaving, ayeuna, [], "participle tina slave").
+entry(slavish, adj, [], "nalken kana atawa ciri ti hamba").
+entry(slaw, n, [slaws], "coleslaw").
+entry(slay, v, [slayed,slain,slaying], "NGABUNUH ngabasmi sacara bengis NGABUNUHSAABLE adj").
+entry(slayer, n, [para_penumpes], "hiji anu numpes").
+entry(nurun, n, [nurun-nurun], "tindakan atawa kajadian maehan").
+entry(sleave, v, [dipegatkeun, keur mepegat, megatkeun], "misahkeun jadi untay").
+entry(sleaze, v, [sleazed,sleazing,sleazes], "kalakuanana dina cara anu sleazy").
+entry(sleazo, n, [sleazos], "satu sleazoid").
+entry(sleazoid, n, [sleazoids], "jalma nu boga moral atanapi karakter anu rendah").
+entry(sleazy, adj, [], "SLEAZIER SLEAZIESTtina kualitas atanapi karakter anu rendahSLEAZILY adv").
+entry(sled, v, [sledded,sledding,sleds], "nganteurkeun dina sled hiji kandaraan pikeun ngangkut jalma atawa beban ngalangkungan salju atawa és").
+entry(sledder, n, [sledders], "hiji nu nuju sled").
+entry(sledding, n, [sleddings], "lampahna hiji anu leleres").
+entry(panggo, v, [dipanggokeun, panggokeun, manggokeun], "ngangkut dina tipe sled").
+entry(sleek, adj, [], "SLEEKER SLEEKESThalus tur ngagurilap").
+entry(sleek, v, [sleeked,sleeking,sleeks], "ngabentuk mulus").
+entry(sleeken, v, [ngaleeskeun,dileeskeun,ngaleeskeun], "ngaleeskeun").
+entry(sleeker, n, [sleekers], "hiji anu sleek").
+entry(sleekit, adj, [], "lemes").
+entry(sleekly, kecap_kaayaan, [], "ku cara lemes").
+entry(sleeky, adj, [], "SLEEKIER SLEEKIESTsleek").
+entry(sare, v, [sare, keur sare, sarena], "aya dina kaayaan istirahat périodik alamiah").
+entry(sleeper, n, [sleeper], "hiji anu saré").
+entry(keur sare, n, [keur-kaur sare], "laku-lampah hiji anu keur sare").
+entry(ngantuk, adj, [], "LEUIH NGANTUK PALING NGANTUKsiap atanapi condong ka saréNGANTUKAN adv").
+entry(sleet, v, [sleeted,sleeting,sleets], "ngagentarkeun hujan es nu ngagumpal").
+entry(sleety, adj, [], "GUGUYUR IESTresembling sleet").
+entry(sleeve, v, [sleeved,sleeving,sleeves], "nyadiakeun lengan sahiji bagian tina baju nutupan leungeun").
+entry(sleeveen, n, [sleeveens], "jalma anu bangor").
+entry(sleeving, n, [sleevings], "insulasi tubular pikeun kabel listrik").
+entry(sleigh, v, [sleighed,sleighing,sleighs], "ngaduruk dina sled").
+entry(sleigher, n, [sleighers], "hiji anu keur ngégél").
+entry(sleight, n, [sleights], "kaparigelan").
+entry(slender, adj, [], "LEWIE WIEIESTipis").
+entry(bobo, kapungkur, [], "pertengahan ti saré").
+entry(sleuth, v, [sleuthed,sleuthing,sleuths], "ngalakonan salaku detektif").
+entry(slew, v, [slewed,slewing,slews], "to slue").
+entry(slice, v, [diiris,ngaheuyeuk,motongan], "ngabagi jadi potongan leutik ala datar").
+entry(slicer, n, [slicers], "hiji nu ngarames").
+entry(slick, adj, [], "LICIN PIKEUN JADI PIKEUN NU MALONA").
+entry(slick, v, [slicked,slicking,slicks], "ngabantun").
+entry(slicken, v, [slickened,slickening,slickens], "nyieun licin").
+entry(slicker, n, [slickers], "jas hujan minyak").
+entry(slickly, adv, [], "kalawan licin").
+entry(slide, v, [slid,slidden,sliding], "SLIDEngaliher kalayan mulus sapanjang permukaanSLIDABLE adj").
+entry(slider, n, [sliders], "hiji anu ngaluncat").
+entry(slideway, n, [slideways], "jalur dimana hiji hal ngaluncur").
+entry(slier, a, [], "komparatif tina sly").
+entry(sliest, a, [], "superlative tina cerdik").
+entry(slieve, n, [slieves], "gunung").
+entry(slight, adj, [], "SAEUR SAENUMRALIRSAEUER sura-sura ukuran atanapi jumlahRALIR sakumaha").
+entry(slight, v, [slighted,slighting,slights], "ngubaran kalawan teu acan").
+entry(slighter, n, [slighters], "hiji anu ngaleungitkeun").
+entry(slily, kktb, [], "kalawan licik").
+entry(langsing, adj, [], "LANGSING LANGSING PISANlontong").
+entry(slim, v, [slimmed,slimming,slims], "ngajantenkeun ramping").
+entry(slime, v, [slimed,sliming,slimes], "nyarungkeun ku lendir leueur").
+entry(slimier, comparative, [], "tina licin").
+entry(slimiest, superlative, [], "tina slimy").
+entry(slimily, adv, [], "ku cara linyep").
+entry(sliming, hadir, [], "partisipel tina slime").
+entry(slimline, adj, [], "langsing dina desain atawa wangun").
+entry(slimly, adv, [], "ku cara anu ipis").
+entry(dilangsingkan, lampau, [], "éta teuing slim").
+entry(slimmer, n, [slimmers], "anu nuju program diet").
+entry(pangpangnupis, superlative, [], "tina ipis").
+entry(pangkarangan, n, [pangkarangan], "pangurangan beurat awak").
+entry(kasampakeun, n, [kasampakeun-kasampakeun], "kaayaan langsing").
+entry(slimpsy, adj, [], "SLIMPSIER SLIMPSIESTslimsy").
+entry(slimsy, adj, [], "SLIMSIER SLIMSIESTflimsy").
+entry(slimy, adj, [], "NGINGAT NGINGATRESlime").
+entry(sling, v, [slung,slinging,slings], "ngabalingkeun kalayan gerakan dadakan").
+entry(slinger, n, [slingers], "hiji anu ngalungkeun").
+entry(slink, v, [slinked,slinking,slinks], "pindah kalayan sélér").
+entry(slinky, adj, [], "LEMBUT PANGLEMBUTNAtapakLEMBUT adv").
+entry(slip, v, [slipt,slipping,slips], "ngageser sacara dadakan jeung teu kahaja").
+entry(kotak_lindung, n, [kotak_lindung], "kotak pelindung pikeun buku").
+entry(slipe, v, [dikepras, keur dikepras, kepras], "ngakepras").
+entry(slipform, v, [slipformed, slipforming, slipforms], "ngawangun ku ngagunakeun cetakan di mana beton ditempatkeun pikeun nguatkeun").
+entry(slipknot, n, [slipknots], "sanesna simpul").
+entry(slipless, adj, [], "bébas tina kasalahan").
+entry(slipout, n, [slipouts], "sisipan dina koran").
+entry(slipover, n, [slipover], "pullover").
+entry(slippage, n, [slippages], "ragrag tina standar atanapi tingkat").
+entry(slipped, a, [], "waktu kapungkur tina slip").
+entry(slipper, n, [slippers], "sandal enteng anu handap").
+entry(slippery, adj, [], "SLIPPERIER SLIPPERIESTnyababkeun atawa condong nyababkeun galideur").
+entry(slipping, ayat ayeuna, [], "bentuk partisipel tina slip").
+entry(slippy, adj, [], "SLIPPER SLIPPERSTslipperySLIPPILY adv").
+entry(slipshod, adj, [], "dilakukeun kalayan teu ati-ati").
+entry(slipslop, n, [slipslops], "kadaharan cair").
+entry(slipsole, n, [slipsoles], "insole ipis").
+entry(slipt, a, [], "bentuk lampau tina slip").
+entry(slipup, n, [slipups], "hiji kasalahan").
+entry(slipware, n, [slipwares], "sajinis keramik").
+entry(slipway, n, [slipways], "waéhan nu ngalérét ka cai dina galangan kapal").
+entry(slit, v, [slitted,slitting,slits], "nyieun sayatan panjul panjang").
+entry(slither, v, [slithered,slithering,slithers], "ngageser ka sisi").
+entry(slithery, adj, [], "licin").
+entry(slitless, adj, [], "teu gaduh retakan").
+entry(slitlike, adj, [], "nyarupaan celah").
+entry(slitted, kapungkur, [], "bentuk waktu tina slit").
+entry(slitter, n, [slitters], "hiji anu motong").
+entry(slitting, hadir, [], "partikel tina slit").
+entry(slitty, adj, [], "PANJANG JEUNG SEMPI").
+entry(sliver, v, [slivered,slivering,slivers], "ngaguluyur jadi potongan anu panjang jeung ipis").
+entry(sliverer, n, [sliverers], "hiji anu nyigar").
+entry(slivovic, n, [slivovices], "arak buah plum").
+entry(slob, n, [slobs], "jalma anu ambrug jengjorongan atawa teu miboga tata krama").
+entry(ngelérok, v, [ngelérok,ngelérok,ngelérok], "ngaguluyur").
+entry(slobbery, adj, [], "ngalembereh").
+entry(slobbish, adj, [], "nyarupa jalma nu doraka").
+entry(slobby, adj, [], "Sifat tina kaayaan anu loba sampah").
+entry(sloe, n, [sloes], "buah nu sarupa jeung plum").
+entry(slog, v, [slogged,slogging,slogs], "ngawuluku").
+entry(slogan, n, [slogans], "motto anu diadopsi ku grupSLOGANED adj").
+entry(slogger, n, [sloggers], "hiji anu slog").
+entry(sloid, n, [sloids], "sloyd").
+entry(slojd, n, [slojds], "sloyd").
+entry(slomo, n, [slomos], "gerak lambat").
+entry(sloop, n, [sloops], "hiji jinis parahu layar").
+entry(slop, v, [slopped,slopping,slops], "ngarumprungkeun atawa nyipratkeun").
+entry(léréd, k, [berléred, ngalérédisasi, lérédna], "ka-disesuaikan").
+entry(sloper, n, [slopers], "hiji anu miring").
+entry(sloppy, adj, [], "SLOPPIER SLOPPIESTjejorSLOPPILY adv").
+entry(slopwork, n, [slopworks], "pabrikasi baju murah").
+entry(slosh, v, [sloshed,sloshing,sloshes], "gerak kalayan gerakna cipratan").
+entry(sloshy, adj, [], "SLOSHIER SLOSHIESTslushy").
+entry(slot, v, [slotted, slotting, slots], "motong bukaan panjang jeung sempit dina").
+entry(slotback, n, [slotbacks], "jenis pamain bal-balan").
+entry(kukang, n, [kukang-kukang], "sato anu gerakna lalaunan tur cicing di tangkal").
+entry(slothful, adj, [], "lelet").
+entry(slotted, kapungkur, [], "waktos slot").
+entry(slotter, n, [slotters], "mesin pikeun nyieun slot").
+entry(slotting, hadir, [], "participle tina slot").
+entry(salempod, v, [salempod, nyalempod, nyalempodan], "cicing, nangtung, atawa gerak kalayan pasemon sogok").
+entry(sloucher, n, [slouchers], "nu sok lunggutan").
+entry(slouchy, adj, [], "SLOUCHIER SLOUCHIESTslouching").
+entry(slough, v, [sloughed, sloughing, sloughs], "ngababad").
+entry(sloughy, adj, [], "SLOUGHIER SLOUGHIESTmiry").
+entry(sloven, n, [slovens], "jalma anu ngaremehkeun").
+entry(slovenly, adj, [], "TEU TAPIH TEU BEREShabitually untidy or unclean").
+entry(lambat, adj, [], "NU LEUIT NU PANGLEUITnaek kalayan saeutik gancang").
+entry(lambat, v, [ngalambat, ngalambarkeun, ngalambatkeun], "ngurangan laju tina").
+entry(ngurangan_laju, k, [ngurangan_lajus], "pengurangan kecepatan").
+entry(slowish, adj, [], "saeutik lalaunan").
+entry(saeutik-saeutik, adv, [], "ku cara anu lalaunan").
+entry(kalembatan, n, [kalembatan], "kaayaan lambat").
+entry(slowpoke, n, [slowpokes], "jalma anu lalaunan").
+entry(slowworm, n, [slowworm], "sabangsa kadal Éropa anu teu boga suku").
+entry(sloyd, n, [sloyd-sloyd], "sistem pelatihan manual ti Swedia").
+entry(slub, v, [slubbed,slubbing,slubs], "narik jeung melintir saeutik").
+entry(slubber, v, [slubbered, slubbering, slubbers], "ngalalanyahan atawa ngotoran").
+entry(slubbing, n, [slubbings], "gulungan benang tekstil anu rada ngabeuweung").
+entry(sludge, v, [sludged,sludging,sludges], "ngawangun sludge massa leutak atawa sedimen").
+entry(sludgy, adj, [], "SLUDGIER SLUDGIESTditutupan ku lendut").
+entry(slue, v, [slued,sluing,slues], "nyababkeun obah ka gigir").
+entry(sluff, v, [sluffed, sluffing, sluffs], "ngabuwang kartu atawa kartu-kartu").
+entry(slug, v, [slugged,slugging,slugs], "ngabubuntungan").
+entry(slugabed, n, [slugabeds], "seseorang anu condong cicing di ranjang kusabab malesna").
+entry(slugfest, n, [tinju-tinjuan], "perkelahian sengit").
+entry(sluggard, n, [sluggards], "jalma nu sok males").
+entry(diekeuk, kapengker, [], "tense tina keuk").
+entry(slugger, n, [nu nabet], "nu nabet").
+entry(slugging, hadir, [], "partisipel tina slug").
+entry(sluggish, adj, [], "ningalikeun saeutik gerak atawa kagiatan").
+entry(pelongpik, v, [dipelongpik,dipelermik,melongpik], "ngumbah ku aliran cai nu dadakan").
+entry(sluicy, adj, [], "ragrag dina aliran").
+entry(sluing, hadir, [], "participle tina slue").
+entry(slum, v, [slummed, slumming, slums], "nganjang ka wewengkon padumukan kumuh di kota").
+entry(sare, k, [geus_sare, keur_sare, saré-saré], "sare").
+entry(slumbery, adj, [], "lieur").
+entry(slumgum, n, [slumgums], "résidu anu tinggal saatos madu diékstraksi tina sarang lebah").
+entry(slumism, n, [slumisms], "karapihan slum").
+entry(slumlord, n, [slumlords], "nuhun seuhseuhan").
+entry(slummed, baheula, [], "wangun kecap slum").
+entry(slummer, n, [slummers], "hiji nu cicing di tempat kumuh").
+entry(slumming, ayat ayeuna, [], "participle tina slum").
+entry(slummy, adj, [], "SARUA JEUNG PASAMBARAN LAIN").
+entry(slump, v, [slumped,slumping,slumps], "ragrag atanapi tilelep dumadakan").
+entry(slumpy, adj, [], "DIPIPA DIPIPIESTdifikangan ku ragragna dina Nilai atanapi jumlah").
+entry(slung, kapungkur, [], "bentuk kecap kerja tina sling").
+entry(slunk, a, [], "kaping tukang tina slink").
+entry(slur, v, [slurred,slurring,slurs], "ngaliwatkeun kalawan enteng atawa teu rapih").
+entry(slurb, n, [slurbs], "wewengkon sababaraha perifer anu perencanaan na goreng, SLURBAN adj").
+entry(slurp, v, [slurped,slurping,slurps], "nginum atawa dahar kalayan sora ribut").
+entry(slurpy, adj, [], "SLURPIER SLURPIESTdicirikeun ku sora sucking nu dihasilkeun nalika ngapsor").
+entry(slurry, v, [slurried,slurrying,slurries], "ngarobah janten campuran anu cai").
+entry(slurve, n, [slurves], "jenis lemparan dalam bisbol").
+entry(slush, v, [slushed,slushing,slushes], "ngaborehkeun ku slush anu sabagean lebur salju").
+entry(slushy, n, [slushies], "kadaharan ngandung és dikecapan sasaheun").
+entry(slushy, adj, [], "SLUSHIER SLUSHIESTmiri slushSLUSHILY adv").
+entry(slut, n, [sluts], "wanita nu ngareunahSLUTTISH adj").
+entry(slutty, adj, [], "SLUTTIER SLUTTIESTkarakteristik ti hiji wanita lacur").
+entry(sly, adj, [], "SLIER SLIEST atawa SLYER SLYEST licikSLYLY adv").
+entry(slyboots, n, [slyboots], "jalma anu curang").
+entry(kalakian, n, [kalakian-kalakian], "kaayaan atawa sifat janten licik").
+entry(slype, n, [slypes], "jalan sempit di katedral Inggris").
+entry(smack, v, [smacked,smacking,smacks], "mukul kalayan tarik").
+entry(smacker, n, [smackers], "hiji anu nyabak").
+entry(leutik, adj, [], "LEBIH LEUTIK LEUTIKna ukuran atanapi kuantitasna terbatas").
+entry(leutik, n, [leutik-leutik], "hiji bagian leutik").
+entry(smallage, n, [smallages], "sejenis seledri liar").
+entry(leutikna, adj, [], "sabagean leutik").
+entry(cacar, n, [cacar], "panyakit virus").
+entry(smalt, n, [smalts], "pigmen biru").
+entry(smalti, a, [], "pl tina smalto").
+entry(smaltine, n, [smaltines], "smaltite").
+entry(smaltite, n, [smaltites], "siki mineral").
+entry(smalto, n, [smaltos], "atawa SMALTIkaca warna anu dipaké dina mosaik").
+entry(smaragd, n, [smaragds], "hiji zamrud").
+entry(smaragde, n, [smaragdes], "smaragda").
+entry(smarm, v, [smarmed,smarming,smarms], "ngagunakeun sanjungan kaleuleuwihi pikeun meunangkeun kahadean").
+entry(smarmy, adj, [], "SMARMIER SMARMIESTditandaan ku bubujangan anu kaleuleuwihiSMARMILY adv").
+entry(pinter, adj, [], "SARUA KU AKAL PANGERTI BELIQ BESAR PANDE LEBAR SMARTER SMARTESTSMARTISH adj").
+entry(pinter, v, [pintered,pintering,pinters], "nyababkeun rasa nyeuri anu ngagitik").
+entry(smartass, n, [smartasses], "heug heug").
+entry(smarten, v, [dismartenan, nuju dismartenan, dismartenanan], "pikeun ningkatkeun dina penampilan").
+masukan(pinter, n, [pinteran], "pinter").
+entry(pinter, katerangan, [], "kalawan cara anu pinter").
+entry(smarty, n, [smarties], "jalma anu bongkak teuing").
+entry(smash, v, [ngancurkeun, ngancurkeun, ngancurkeun], "ngahancurkeun kalayan kasar").
+entry(smasher, n, [smashers], "hiji anu ngosrek").
+entry(smashup, n, [smashups], "tabrakan mobil").
+entry(smatter, v, [smattered, smattering, smatters], "nyarita kalayan saeutik pangaweruh").
+entry(smaze, n, [smazes], "campuran atmosfer antara haseup jeung haze").
+entry(leletakan, k, [dioleskan,ngaleletakan,ngaleletakan], "nyebarkeun ku zat anu lengket, berminyak, atawa kotor").
+entry(smearer, n, [smearers], "hiji nu nyaruksi").
+entry(smeary, adj, [], "SMEARIER SMEARIESTSmeared").
+entry(smectic, adj, [], "nujul kana fase tina kristal cair").
+entry(smectite, n, [smectites], "satu mineral lempung").
+entry(smeddum, n, [smeddums], "bubuk malt taneuh").
+entry(smeek, v, [smeeked,smeeking,smeeks], "ngabako").
+entry(smegma, n, [smegma-smegma], "sebum").
+entry(ambuwan, v, [diambukeun, ngambukeun, ambu-ambu], "ngaraos ngaliwatan saraf olfaktorius").
+entry(smeller, n, [smellers], "anu ngambeu").
+entry(smelly, adj, [], "SMELLIER SMELLIEST gaduh bau anu henteu pikaresepeun").
+entry(smelt, v, [smelted, smelting, smelts], "keur ngalebur atawa museurkeun salaku bijih").
+entry(smelter, n, [smelter-smelter], "hiji nu nalarkeun").
+entry(smeltery, n, [smelteries], "tempat pikeun melebur").
+entry(peleburan, n, [peleburans], "prosés ngalebur bijih pikeun meunangkeun logam").
+entry(smerk, v, [smerked,smerking,smerks], "nyengir").
+entry(smew, n, [smews], "manuk soang Eurasia").
+entry(smidge, n, [smidges], "sakedik").
+entry(smidgen, n, [smidgens], "jumlah nu kacida saeutikna").
+Sure, here is the translation in Prolog:
+
+```prolog
+entry(sedikit, n, [sedikit], "sedikit").
+```
+entry(smidgin, n, [smidgins], "smidgen").
+entry(smilax, n, [smilaxes], "tutuwuhan nu ngalambat").
+entry(senyum, v, [tersenyum,tersenyum,sarerea seuri], "ngajungjungkeun pojok biwir dina rasa bungah").
+entry(smiler, n, [smilers], "anu seuri").
+entry(smiley, n, [smileys], "atawa SMILIES gambaran raray anu seuri").
+entry(smiley, adj, [], "NGAGAMBARKAN SEURI SEURIAN").
+entry(smirch, v, [smirched,smirching,smirches], "ngotoran").
+entry(smirk, v, [smirked,smirking,smirks], "seuri dina jalan anu kapangaruhan atawa smug").
+entry(smirker, n, [smirkers], "anu nyengir").
+entry(smirky, adj, [], "SMIRKIER SMIRKIESTsmirkingSMIRKILY adv").
+entry(smite, v, [smitten,smiting,smites], "pikeun mukul beurat").
+entry(smiter, n, [smiters], "anu matak nganiaya").
+entry(smith, n, [smiths], "paluluh logam").
+entry(smithers, npl, [], "fragmen leutik").
+entry(pandayan, n, [pandayan-panday], "dagangna pandai besi").
+entry(manggarsih, n, [manggarsih-manggarsih], "karya tukang besi").
+entry(smithy, n, [smithies], "bengkel panday").
+entry(smiting, ayeuna, [], "participle tina smite").
+entry(smitten, a, [], "beunang tina smite").
+entry(smock, v, [smocked,smocking,smocks], "ngahias ku smock pakéan luar anu longgar").
+entry(smocking, n, [smockings], "salah sahiji jinis hiasan jahitan").
+entry(smog, n, [smogs], "campuran hawa nu ngandung haseup jeung embunSMOGLESS adj").
+entry(smoggy, adj, [], "ALUSIEUN ALUSIEUNturuban ku halimun").
+entry(smoke, v, [smoked,smoking,smokes], "ngaluarkeun haseup tina bahan-bahan anu kaduruk bisa diasapkeun").
+entry(smokebox, n, [smokeboxes], "ungkumbak nyaéta beuti pikeun ngahasilkeun jeung nyimpen haseup").
+entry(smokepot, n, [smokepots], "wadah kanggo ngahasilkeun haseup").
+entry(smoker, n, [smokers], "anu ngaroko").
+entry(smokey, adj, [], "SMOKIER SMOKIESTsmoky").
+entry(smokey, n, [smokeys], "atawa SMOKIES, patugas pulisi anu patroli di jalan tol").
+entry(smokie, n, [smokies], "sosis atanapi hot dog").
+entry(ngudud, n, [ngududs], "ngahudang sareng ngambekan haseup tina bako atanapi obat").
+entry(smoky, adj, [], "SMOKIER SMOKIESTdieusi ku haseupSMOKILY adv").
+entry(smolder, v, [smoldered,smoldering,smolders], "neuleuman tanpa seuneu").
+entry(smolt, n, [smolts], "salah sahiji lauk salmon ngora").
+entry(smooch, v, [smooched,smooching,smooches], "nyium").
+entry(smoocher, n, [smoochers], "hiji jalma anu ngahakan").
+entry(smoochy, adj, [], "SMOOCHIER SMOOCHIESTcocok pikeun smooching").
+entry(smoosh, v, [smooshed, smooshing, smooshes], "ngagiling").
+entri(lemes, adj, [], "LEBIH LEMES GANTENG pisanbuatan permukaan anu bebas tina kaganjilan").
+entry(smooth, v, [smoothed,smoothing,smooths], "atawa SMOOTHESpikeun ngahaluskeun").
+entry(smoothe, v, [disapekeun, ngaapekan, ngahaleuang], "pikeun ngalembutkeun").
+entry(nyalembar, v, [disalembar,salembar,salembar], "ngalemba").
+entry(smoother, n, [smoothers], "hiji anu ngalancarkeun").
+entry(smoothie, n, [smoothies], "jalma anu boga tata krama anu lemes").
+entry(lemes, adv, [], "kalawan cara anu lemes").
+entry(smoothy, n, [smoothies], "smoothie").
+entry(smorg, n, [smorgs], "hiji smorgasbord").
+entry(smote, kapungkur, [], "tense of smite").
+entry(nyembeleh, v, [nyembeleh,nyembelehkeun,nyembelehkeun], "ngahambat tina engapan").
+entry(smothery, adj, [], "condong ka ngaganjel").
+entry(ngabeuleum, v, [ngabeuleumkeun, keur_ngabeuleum, ngabeuleum])( "ngabeuleum").
+entry(smriti, n, [smritis], "téks ajaran agama Hindu").
+entry(smudge, v, [smudged,smudging,smudges], "ngotoran atawa ngabotoran").
+entry(smudging, n, [smudgings], "tindakan ngolecer").
+entry(smudgy, adj, [], "SMUDGIER SMUDGIESTsmudgedSMUDGILY adv").
+entry(smug, adj, [], "SMUGGER SMUGGESThighly selfsatisfied").
+entry(selundupkeun, v, [diselundupkeun, nyelundupkeun, nyelundupkeun], "ngaimport atawa ngekspor sacara ilegal").
+entry(panyelundup, n, [panyelundup-panyelundup], "hiji anu nyelundupkeun").
+entry(smugly, adv, [], "kalawan rasa puas diri").
+entry(kapongah, n, [kapongahan], "kualitas atawa kaayaan reueus diri").
+entry(smush, v, [smushed,smushing,smushes], "ngabéngkokkeun").
+entry(smut, v, [smutted, smutting, smuts], "ngotoran").
+entry(smutch, v, [smutched,smutching,smutches], "ngabeuleum").
+entry(smutchy, adj, [], "SMUTCHIER SMUTCHIESTsmudgy").
+entry(smutty, adj, [], "SMUTTIER SMUTTIESTugemugSMUTTILY adv").
+entry(snack, v, [ngemil, ngemilkeun, ngenyem], "makan saeutik").
+entry(snacker, n, [nu/ngemil], "hiji nu/ngemil").
+entry(snacky, adj, [], "SNACKIER SNACKIESTcocog pikeun tuangeun hampang").
+entry(snaffle, v, [nga-snaffle, di-snaffle, ke-snaffle], "meunang ku cara licik").
+entry(snafu, v, [snafued, snafuing, snafus], "nyababkeun kaayaan bingung").
+entry(snag, v, [snagged,snagging,snags], "nyangkut kana kajagged an protuberance").
+entry(snagger, n, [snaggers], "jalma anu ngagunakeun cara ngala lauk anu teu sah").
+entry(snaggle, n, [snaggles], "gumpalan anu kacau atanapi kusut").
+entry(snaggy, adj, [], "PINUH KU HALANGAN SNAGGIERNAN SNAGGIESTna").
+entry(snaglike, adj, [], "sarupa jeung snag").
+entry(hayang, k, [hayang,hayiang,hayangs], "pindah lalaunan").
+entry(ula, v, [ulaed,ulaan,ula-ula], "pindah siga ula hiji reptil tanpa suku").
+entry(snakebit, adj, [], "henteu untung").
+entry(snakepit, n, [snakepits], "rumah sakit jiwa").
+entry(snakey, adj, [], "SNAKIER SNAKIESTsnaky").
+entry(nyusup, kiwari, [], "participle tina ula").
+entry(snakish, adj, [], "nyarupaan oray").
+entry(snaky, adj, [], "SNAKIER SNAKIESTnempatkeun satoON SNAKILY adv").
+entry(snap, v, [snapped,snapping,snaps], "mikeun sora krak anu teuas").
+entry(snapback, n, [snapbacks], "ngabalikeun deui sacara dadakan atawa pamulihan").
+entry(snapless, adj, [], "teu boga pengait hiji jenis piranti pangiket").
+entry(snapper, n, [snappers], "hiji nu nyep".).
+entry(snappier, komparatif, [], "tina snappy").
+entry(snappiest, superlative, [], "of snappy").
+entry(snappily, adv, [], "kalacakna").
+entry(snapping, aya, [], "participle tina snap").
+entry(snappish, adj, [], "condong nyarios kalayan teu sabar atawa gampang ambek").
+entry(snappy, adj, [], "LEBIH_GESIT_GESITMAksimal_snappish").
+entry(snapshot, v, [dipotretan,ngabidik potret,dipotret], "ngabidik poto sacara informal jeung gancang").
+entry(snapweed, n, [snapweeds], "tutuwuhan kembangan").
+entry(snare, v, [snared,snaring,snares], "ngagénggem").
+entry(panjaring, n, [panjaring], "hiji anu ngajarum").
+entry(snarf, v, [snarfed,snarfing,snarfs], "tuang atawa nginum kalawan rakus").
+entry(snarfle, v, [snarfled,snarfling,snarfles], "mikeun kokotor").
+entry(snaring, hadir, [], "participle tina snare").
+entry(snark, n, [snarks], "sasatoan imaginer").
+entry(snarky, adj, [], "SNARKIER SNARKIESTsnappishSNARKILY adv").
+entry(snarl, v, [ngagorowok, nu ngarowok, ngarowok], "ngagorowok kalayan galak").
+entry(snarler, n, [snarlers], "hiji nu ngarenghag").
+entry(snarly, adj, [], "KUSUT KUSUTNA kabeungkeut").
+entry(snash, n, [snashes], "bahasa kasar").
+entry(saké, v, [disaké,nyaké,nyakés], "ngarebut kalawan dadakan").
+entry(snatcher, n, [snatchers], "hiji nu mawa").
+entry(snatchy, adj, [], "SNATCHIER SNATCHIESTterjadi teu teratur").
+entry(snath, n, [snaths], "gagang arit").
+entry(snathe, n, [snathes], "snath").
+entry(snaw, v, [snawed,snawing,snaws], "ngelapisan ku salju").
+entry(snazzy, adj, [], "SNAZZIER SNAZZIESTsangat bergayaSNAZZILY adv").
+entry(sneak, v, [snuck, sneaking, sneaks], "pindah ngahaja").
+entry(sneakbox, n, [sneakboxes], "parahu leutik anu disumputkeun ku sikat jeung suket pikeun moro manuk di alam liar").
+entry(sneaker, n, [sneakers], "nu nyusup").
+masukan(sneaky, adj, [], "SNEAKIER SNEAKIESTdeceitfulSNEAKILY adv").
+entry(sneap, v, [sneaped,sneaping,sneaps], "ngageuing").
+entry(sneck, n, [snecks], "pameungpeuk").
+entry(sned, v, [snedded,snedding,sneds], "motong").
+entry(sungut, k, [sungut-sungut, nyungut, nyungutan], "ngelipét biwir kalayan ngahinakeun").
+entry(sneerer, n, [sneerers], "hiji nu nyeri").
+entry(sneerful, adj, [], "dipaparin cikiwir").
+entry(sneery, adj, [], "SNEERIER SNEERIESTditandaan ku nyindir").
+entry(sneesh, n, [sneeshes], "seuseungitan").
+entry(marah, v, [marah, keur marah, marah-marahan], "ngamungkinkeun kaluarna napas sacara ngadak-ngadak tur teu sadar").
+entry(nuwis, n, [para_nuwis], "hiji anu bersin").
+entry(sneezy, adj, [], "SNEEZIER SNEEZIESTmédikeun ngaréwong").
+entry(snell, adj, [], "SNELLER SNELLESTkeen").
+entry(snell, v, [snelled,snelling,snells], "ngabuntel tali pondok kana mata kail").
+entry(snib, v, [snibbed, snibbing, snibs], "ngagembok").
+entry(snick, v, [snicked, snicking, snicks], "ngarusak saeutik").
+entry(snicker, v, [snickered,snickering,snickers], "seuri nu satengah ditekep").
+entry(snickery, adj, [], "ngahalang pikeun snicker").
+entry(snide, adj, [], "SNIDER SNIDESTngagoreng kwaSNIDELY adv").
+entry(ngayakeun, k, [ngayakeun, ngayakeun-na, ngayakeun-keun], "ngahinakeun sora ngaliwatan irung").
+entry(sniffer, n, [sniffers], "hiji nu ngaheum").
+entry(sniffier, komparatif, [], "ti sniffy").
+entry(sniffiest, superlative, [], "ti sniffy").
+entry(sniffily, katerangan, [], "dina hiji cara anu sniffy").
+entry(sniffish, adj, [], "sombong").
+entry(ngagogorowok, v, [ngagogorowok, nuju ngagogorowok, ngagogorowok], "ngagosrok sababaraha kali").
+entry(sniffler, n, [snifflers], "hiji anu niupan").
+entry(sniffly, adj, [], "SNIFFLIER SNIFFLIESTanu nguseup").
+entry(sniffy, adj, [], "SNIFFIER SNIFFIESTsniffish").
+entry(snifter, n, [snifters], "gelas minuman keras berbentuk buah pear").
+entry(snigger, v, [sniggered,sniggering,sniggers], "seuri leutik").
+entry(sniggle, v, [ngasaan, nu ngasaan, ngasaan-ngasaan], "ngelak gentul").
+entry(sniggler, n, [snigglers], "nu sniggle").
+entry(sniglet, n, [sniglets], "kecap anu dijieun pikeun hiji hal anu teu gaduh nami").
+entry(snip, v, [dipegat, nu ngegat, dipotong], "motong kalayan gerakan pondok jeung gancang").
+entry(snipe, v, [sniped, sniping, snipes], "ngaekeuhan nuju jalmi-jalmi tina tempat anu disumputkeun").
+entry(sniper, n, [para penembak jitu], "hiji anu ngalakukeun sniping").
+entry(sniping, n, [snipings], "lalakon hiji anu nembak paeh").
+entry(snipped, baheula, [], "tenses tina snip").
+entry(snipper, n, [snippers], "hiji anu motong").
+entry(snipét, n, [snipét-snipét], "sapotong leutik nu disingsieup").
+entry(snippety, adj, [], "SNIPPETIER SNIPPETIESTsnippy").
+entry(snipping, n, [potongan], "sabet hiji tina hal anu geus dipotong").
+entry(snippy, adj, [], "SNIPPIER SNIPPIESTringkesSNIPPILY adv").
+entry(snit, n, [snits], "kaayaan kagugupaan").
+entry(ngorowek, k, [ngorowekan, ngorowekkeun, ngorowek], "ngabejaan").
+entry(snitcher, n, [snitchers], "hiji nu ngadu").
+entry(snitty, adj, [], "SNITTIER SNITTIEST teu pikaresepeun lieur").
+entry(sesenggukan, v, [sesenggukan,sesengguka,sesengguk], "atawa SESESENGGUKAN SESESENGGUKA SESESENGGUK pikeun ceurik atawa ngarenjag kalayan ngesesengguk").
+entry(sniveler, n, [nu_ngagukgik], "hiji anu ngagukgik").
+entry(snivelly, adj, [], "condong ngagogrog bari ngalempeh").
+entry(snob, n, [snobs], "nu biasana ngahindarkeun atawa nampik jalma-jalma anu dianggap leuwih handap").
+entry(snobbery, n, [snobberies], "kalakuan snob").
+entry(snobbier, komparatif, [], "ti snobby").
+entry(snobbiest, superlative, [], "tin snobby").
+entry(snobbily, adv, [], "kaasup ku sombong").
+entry(snobbish, adj, [], "karakteristik tina hiji sombong").
+entry(snobbism, n, [snobbisms], "kateudeung").
+entry(snobby, adj, [], "SNOBBIER SNOBBIESTsnobbish").
+entry(snocoach, n, [snocoaches], "kendaraan sapertos beus kalayan ban gedé atawa trek pikeun leumpang dina salju").
+entry(snog, v, [snogged,snogging,snogs], "nyium").
+entry(snogger, n, [snoggers], "hiji anu nyium").
+entry(snood, v, [snooded,snooding,snoods], "ngamankeun ku snood net atawa kain tutup kanggo buuk").
+entry(snook, v, [snooked,snooking,snooks], "ngagogo").
+entry(snooker, v, [snookered,snookering,snookers], "ngabobodo").
+entry(snool, v, [snooled,snooling,snools], "pasrah kalem").
+entry(snoop, v, [snooped,snooping,snoops], "ngalalajoan").
+entry(snooper, n, [snoopers], "anu ngintip").
+entry(snoopy, adj, [], "SNOOPIER SNOOPIESTdipasihan ka snoopingSNOOPILY adv").
+entry(snoose, n, [snooses], "tobéko ngunyah").
+entry(snoot, v, [snooted,snooting,snoots], "ngarawat kalayan ngahina").
+entry(snootful, n, [snootfuls], "cukup inuman beralkohol pikeun ngadahar hiji nepi mabok").
+entry(snooty, adj, [], "SNOOTIER SNOOTIESTsnobbishSNOOTILY adv").
+entry(snooze, v, [snoozed,snoozing,snoozes], "saré kalem").
+entry(snoozer, n, [anu sare jeung ngagoler], "anu sare jeung ngagoler").
+entry(snoozle, v, [snoozled,snoozling,snoozles], "ngusel").
+entry(snoozy, adj, [], "SNOOZIER SNOOZIESTngantuk").
+entry(ngorok, k, [ngorok, keur ngorok, ngorok], "ngaboga napas anu saeutik-saeutik dina waktu sare").
+entry(snorer, n, [anu ngegel], "anu ngegel").
+entry(ngorok, n, [ngorok-ngorok], "tindakan ngambekan sora bari sare").
+entry(snorkel, v, [ngasorkel, ngasorkelan, ngasorkel], "berenang di bawah air kalayan alat napas").
+entry(ngagogobr, k, [ngagogobr, ngagogobran, ngagogobran], "ngalireup tarik ngaliwatan irung").
+entry(snorter, n, [snorters], "hiji nu nyoar").
+entry(uhang, n, [uhangs], "ingus").
+entry(snotty, adj, [], "SNOTTIER SNOTTIESTsombongSNOTTILY adv").
+entry(moncong, v, [monconged,monconging,moncongs], "nyadiakeun moncong").
+entry(snoutish, adj, [], "snouty").
+entry(snouty, adj, [], "SARUPA IRUNG NU PANJANG").
+entry(salju, k, [nyalju, keur_neyalju, nyalju-nyalju], "ragrag salaku endapan salju dina bentuk kristal és").
+entry(snowball, v, [snowballed,snowballing,snowballs], "ningkat dina laju anu gancang ngaronjat").
+entry(salju, k, [salju-loba], "gundukan salju").
+entry(snowbell, n, [snowbells], "siki tutuwuhan nu karak kembangan").
+entry(salju_sabuk, n, [sabuk_salju], "wewengkon anu nampi sajumlah salju anu cukup unggal taun").
+entry(snowbird, n, [snowbirds], "manuk leutik").
+entry(snowbush, n, [saljuweh], "salah sahiji rungkun kembang").
+entry(snowcap, n, [snowcaps], "panutup salju").
+entry(snowcat, n, [snowcats], "kendaraan kalawan roda berjejak keur perjalanan dina salju").
+entry(snowdrop, n, [snowdrops], "salah sahiji tutuwuhan asal Eropa").
+entry(hujan_salju, n, [hujan_salju], "hujan bodas nu tumiba").
+entry(snowflea, n, [snowfleas], "sejenis serangga tanpa jangjang anu muncul dina salju dina usum semi").
+entry(snowier, comparative, [], "tina snowy").
+entry(snowiest, superlative, [], "tatangga salju").
+entry(snowily, katerangan, [], "dina cara anu tiis sapertos salju").
+entry(snowland, n, [snowlands], "wewengkon anu dipinuhan ku salju anu lobana").
+entry(snowless, adj, [], "henteu gaduh salju").
+entry(salju_saperti, adj, [], "nyarupaan salju").
+entry(snowman, n, [snowmen], "sosok jalma anu didamel tina salju").
+entry(salju_lumer, n, [salju_lumer_teh], "cai anu dihasilkeun tina ngalemberehkeun salju").
+entry(snowmold, n, [snowmolds], "panyakit jamur dina jukut deukeut wates salju anu ngalembereh").
+entry(snowpack, n, [lapisan_salju], "akumulasi salju padat").
+entry(snowplow, v, [dikabuskeun, ngagunakeun kabus salju, kabus salju], "pikeun ngalakukeun manuver ski tipe tangtu").
+entry(snowshed, n, [snowsheds], "hiji wangunan nu didamel pikeun nyayagakeun panyalindungan ngalawan salju").
+entry(snowshoe, v, [snowshoed,snowshoeing,snowshoes], "leumpang nganggo snowshoes pigura oval anu ngamungkinkeun jalma pikeun leumpang dina salju anu jero").
+entry(snowsuit, n, [snowsuits], "pakean murangkalih pikeun dipaké dina usum tiris").
+entry(snowy, adj, [], "LEBIH ASA PALING ASA").
+entry(mingkan, kecap_pagawéan, [mingkanan, mingkan, mingkanan], "nindak supana sahadé atawa teu paduli").
+entri(snubber, n, [snubbers], "nu nyub").
+entry(snubby, adj, [], "NU KURANG LEMES NU PANG KURANG LEMESna").
+entry(snubness, n, [snubnesses], "katumpul").
+entry(snuck, a, [], "bentuk lampau tina sneak").
+entry(snuff, v, [snuffed,snuffing,snuffs], "ngagunakeun atawa ngambekan bako bubuk snuff").
+entry(snuffbox, n, [snuffboxes], "wadah pikeun nyimpen sepah").
+entry(snuffer, n, [snuffers], "anu ngagosok").
+entry(snuffier, comparative, [], "of snuffy").
+entry(snuffiest, superlative, [], "tina snuffy").
+entry(snuffily, adv, [], "ku cara nu ngahesek").
+entry(ngulun, v, [ngulun-ngulun,ngulunkeun,ngulun], "ngulun").
+entry(snuffler, n, [snufflers], "hiji anu ngagorowok").
+entry(snuffly, adj, [], "SNUFFLIER SNUFFLIESTcondong ngalapur").
+entry(snuffy, adj, [], "SNUFFIER SNUFFIESTkeruh").
+entry(snug, adj, [], "HANEUTEUN PIKEUN BOGA KARASA NYAMAN").
+entry(snug, v, [snugged,snugging,snugs], "ngajantenkeun snug").
+entry(snuggery, n, [snuggeries], "tempat anu nyaman").
+entry(snuggest, superlative, [], "ti snug").
+entry(snuggies, npl, [], "long john awewe").
+entry(snugging, ayeuna, [], "participle tina snug").
+entry(ngarangkulan, k, [ngarangkulan, keur ngarangkulan, ngarangkulan], "reureujeungan raket").
+entry(snuggly, adj, [], "LEUWIH NYAMAN PALING NYAMANhangat tur nyaman").
+entry(snugly, kag, [], "kalawan cara anu snug").
+entry(kanyamanan, n, [kanyamanan-kanyamanan], "kualitas atawa kaayaan nyaman").
+entry(snye, n, [snyes], "jalur samping dina walungan atawa suung").
+entry(so, n, [sos], "sol").
+entry(soak, v, [soaked,soaking,soaks], "ngabebeskeun hiji hal nepi ka baseuh").
+entry(soakage, n, [soakages], "tindakan ngarendem").
+entry(soaker, n, [soakers], "hiji anu nyeuseup").
+entry(ngabèasan, n, [ngabèasan-ngabèasan], "tindakan ngabaseuhan hiji hal sacara gembleng").
+entry(sabun, v, [disabun,dipersabun,nyabun], "ngalebetkeun sabun agén beberesih").
+entri(soapbark, n, [soapbarks], "siga-siga").
+entry(soapbox, v, [soapboxed,soapboxing,soapboxes], "ngadamel pidato informal jeung sumanget di jalan").
+entry(soaper, n, [soapers], "drama serial melodramatik dina radio atawa televisi").
+entry(soapfish, n, [soapfishes], "iwak tropis anu ngahasilkeun lendir beracun").
+entry(soapier, comparative, [], "tina sabun").
+entry(soapiest, superlative, [], "tina soapy").
+entry(soapily, katerangan, [], "ku cara anu ngabusa").
+entry(taneusap, adj, [], "henteu boga sabun").
+entry(siga_sabun, adj, [], "nyarupaan sabun").
+entry(busabusa, npl, [], "busa tina cai sabun").
+entry(sabunrambut, n, [sabunrambut], "herba tahunan").
+entry(soapy, adj, [], "SOAPIER SOAPIESTngandung atawa mirip sabun").
+entry(ngalayang, v, [ngalayang,ngalayang,ngalayang], "ngapung di luhur anu kacida").
+entry(soarer, n, [soarers], "hiji nu ngapung luhur").
+entry(soaring, n, [soarings], "olahraga ngapung dina pesawat anu leuwih beurat ti hawa tanpa kakuatan").
+entry(soave, n, [soaves], "anggur Italia").
+entry(sob, v, [sobbed, sobbing, sobs], "nangis bari napas ngarenyem").
+entry(soba, n, [sobas], "mie Jepang anu dijieun tina tipung gandum").
+entry(sobber, n, [sobbers], "hiji anu ceurik").
+entry(sobeit, conj, [], "salamet").
+entry(sober, adj, [], "SOBERER SOBERESTngarasa jeung ngawasaan akal sorangan").
+entry(hawar, v, [hawar, ngawarah, ngawarah], "ngabentuk jaya").
+entry(soberize, v, [soberized,soberizing,soberizes], "supaya sadar").
+entry(soberly, adv, [], "dengan cara sober").
+entry(sobful, adj, [], "condong curuk").
+entry(kajembaran, n, [kajembarans], "kualitas atanapi kaayaan henteu mabok").
+entry(soc, n, [soces], "kursus sosiologi").
+entry(soca, n, [socas], "campuran musik soul jeung calypso").
+entry(socage, n, [socages], "wujud kakawasaan tanah feodal").
+entry(socager, n, [socagers], "sawatara anu nyewa lahan ku socage").
+entry(soccage, n, [soccages], "socage").
+entry(soccer, n, [bal-soccer], "sawatara kaulinan bal").
+entry(sociable, n, [sociables], "sosial").
+entry(sociably, adv, [], "ku cara anu ramah").
+entry(sosial, n, [sosial-sosial], "hiji babarengan anu ramah").
+entry(socially, adv, [], "nurutkeun ka masarakat").
+entry(society, n, [societies], "sakumpulan jalma anu diaturSOCIETAL adj").
+entry(suku, n, [kaos_suku], "atawa kaos kaki ditenun atawa dirajut pikeun suku").
+entry(sock, v, [socked,socking,socks], "nyaruduk kalayan kuat").
+entry(socket, v, [socketed,socketing,sockets], "ngeusian ku soket atanapi nyadiakeun bukaan pikeun nampa hiji hal").
+entry(sockette, n, [sockettes], "kaos kaki anu pondok pisan").
+entry(sockeye, n, [sockeyes], "sato lauk dahareun").
+entry(sockless, adj, [], "henteu gaduh kaos kaki").
+entry(sockman, n, [sockmen], "socman").
+entry(socko, adj, [], "pikaresepeun pisan").
+entry(socle, n, [socles], "balok anu digunakeun minangka dasar pikeun kolom atanapi pedestal").
+entry(socman, n, [socmen], "hiji socager").
+entry(sod, v, [sodded,sodding,sods], "nutupan ku jukut sod").
+entry(soda, n, [sodas], "jenis senyawa kimiaSODALESS adj").
+entry(sodalist, n, [sodalists], "anggota sodalitas").
+entry(sodalit, n, [sodalit-sodalit], "sésa mineral").
+entry(sodality, n, [sodalities], "hiji masyarakat").
+entry(sodamide, n, [sodamides], "senyawa kimia").
+entry(sodded, past, [], "kondisi waktu tina sod").
+entry(sodden, v, [soddened, soddening, soddens], "ngajadi baseuh").
+entry(soddenly, adv, [], "kalawan teureuy").
+entry(soddie, n, [soddies], "soddy").
+entry(sodding, present, [], "partisipel tina sod").
+entry(soddy, n, [soddies], "imah nu diwangun tina sod").
+entry(sodium, n, [sodiums], "unsur logam SODIC adj").
+```prolog
+entry(sodom, n, [sodoms], "tempat anu kawentar ku kajahatan sareng korupsi").
+```
+entry(sodomise, v, [sodomised,sodomising,sodomises], "nyodomi").
+entry(sodomist, n, [sodomists], "sodomit").
+entry(sodomit, n, [sodomit-sodomit], "nu ngalakonan sodomi").
+entry(mesodom, kkb, [disodomi, nyodomi, nyodomian], "ngalakukeun sodomi jeung").
+entry(sodomi, n, [sodomies], "sanggama anu teu alami").
+entry(soever, adv, [], "pisan").
+entry(sofa, n, [sofa-sofa], "korsi anu panjang jeung dibungkus lawon").
+entry(sofabed, n, [rancahan-sofabed], "sofa nu bisa dirobah jadi ranjang").
+entry(sofar, n, [sofars], "hiji sistem pikeun ngalacak ledakan di handapeun cai").
+entry(soffit, n, [soffits], "handap sisi hiji struktur arsitektur").
+entry(lemes, adj, [], "LEMES TEULEUSgampang néréh kana tekenan").
+entry(lemes, n, [lemes], "obyek atawa bagian nu lemes").
+entry(softa, n, [softas], "siswa teologi Muslim").
+entry(lembutbalik, n, [lembutbalik-lembutbalik], "buku anu dibungkus nganggo sampul kertas anu fleksibel").
+entry(softball, n, [softballs], "hiji jinis bal").
+entry(softcore, adj, [], "kirang eksplisit dina ngagambarkeun lampah seksual").
+entry(lemeskeun, v, [lemes, nu lemes, lemeskeun], "ngajantenkeun lemes").
+entry(lalembereun, n, [lalembereun], "hiji nu ngalembereun").
+entry(softhead, n, [softheads], "jalma bego").
+entry(lembut, n, [lembut-lembut], "lembut").
+entry(softies, pl, [], "tina softy").
+entry(softish, adj, [], "hampir lemes").
+entry(lembut, adj_katerangan, [], "kalayan cara nu lembut").
+entry(softness, n, [softnesses], "kaayaan atawa kaayaan jadi lemes").
+entry(software, n, [softwares], "data anu ditulis atawa dicitak nu dipaké dina operasi komputer").
+entry(softwood, n, [softwoods], "kai anu lemes tina rupa-rupa tangkal").
+entry(softy, n, [softies], "jalma anu seueur raos").
+entry(sogged, adj, [], "lembab").
+entry(soggy, adj, [], "SOGGIER SOGGIESBeurat ku kalembabanSOGGILY adv").
+entry(soh, n, [sohs], "sol").
+entry(soigne, adj, [], "dilakonan sacara ati-ati").
+entry(soignee, adj, [], "soigne").
+entry(tanah, v, [ngotoran, keur_ngotoran, ngotor], "ngajadikeun kotor").
+entry(soilage, n, [soilages], "tanaman héjo pikeun pakan sato").
+entry(soilless, adj, [], "dibawa tanpa taneuh dicampur sareng zat organik").
+entry(noda, n, [nodas], "seta atawa leutak").
+entry(soiree, n, [soirees], "pesta sore").
+entry(soja, n, [sojas], "kacang kedelai").
+entry(sojourn, v, [sojourned,sojourning,sojourns], "cicing samentara").
+entry(soju, n, [sojusk], "arak Korea anu didistilasi tina béas atawa bonténg amis").
+entry(soke, n, [sokes], "hak feodal pikeun ngatur kaadilan dina wilayah tertentu").
+entry(sokeman, n, [sokemen], "socman").
+entry(sokol, n, [sokols], "kelompok internasional anu ngamajukeun kabugaran jasmani").
+entry(sol, n, [sols], "nada kalima tina skala musik diatonis").
+entry(sola, n, [solas], "tutuwuhan rawa ti India").
+entry(kahadean, v, [mingkahadean, nuju kahadean, kahadean], "pikeun ngahibur").
+entry(solacer, n, [solacers], "nu ngomean haté").
+entry(solan, n, [solans], "sato laut").
+entry(soland, n, [solands], "solan").
+entry(solander, n, [solanders], "kotak pelindung pikeun bahan perpustakaan").
+entry(solanin, n, [solanins], "solanin").
+entry(solanine, n, [solanin-solanin], "alkaloid nu ngabahayakeun").
+entry(solano, n, [solanos], "angin panas nu kuat").
+entry(solanum, n, [solanums], "sagala rupa genus tina herba jeung rungkun").
+entry(surya, n, [surya-suryan], "hiji solarium").
+entry(solaria, a, [], "pl tina solarium").
+entry(solarise, v, [solarised,solarising,solarises], "ngasupkeun panonpoé").
+entry(solarism, n, [solarisms], "dinafsirkeun carita rahayat salaku konsep ngeunaan sipat panonpoe").
+entry(solarium, n, [solariums], "atawa SOLARIA hiji rohangan anu kakeunaan cahaya panonpoé").
+entry(solarize, v, [solarized,solarizing,solarizes], "ngalaan kana panonpoé").
+entry(solate, v, [solated,solating,solates], "ngarobah jadi sistem koloid cair").
+entry(solation, n, [solations], "lakuna solating").
+entry(solatium, n, [solatia], "hiji kompensasi anu dipasihkeun pikeun ngaruksak perasaan").
+entry(juual, kapungkur, [], "wangenan tina ngajual").
+entry(soldan, n, [soldans], "pameget Muslim").
+entry(solder, v, [ngaleuleus, keur ngaleuleus, ngaleuleus], "ngahiji raket babarengan").
+entry(solderer, n, [solderers], "hiji anu nyoder").
+entry(soldier, v, [soldiered,soldiering,soldiers], "ngalakukeun palayanan militer").
+entry(prajurit, n, [prajurit-prajurit], "profesi militer").
+entry(soldo, n, [soldi], "mata uang kuna ti Italia").
+entry(sol, v, [soled,soling,soles], "nyampurih bagian handap sapatu atawa sapatu boot").
+entry(solecise, v, [solecised,solecising,solecises], "ngucapkeun kalimah anu salah dina basa").
+entry(salisik, n, [salisik-salisik], "hiji kombinasi kecap anu teu leres dina kalimah").
+entry(solecist, n, [solecists], "hiji anu ngagunakeun basa anu salah").
+entry(solecize, v, [solecized,solecizing,solecizes], "ngagunakeun solecisms").
+entry(soled, kapungkur, [], "waktu tina sole").
+entry(solei, a, [], "pl tina soleus").
+entry(tanpa_sol, adj, [], "teu gaduh sol").
+entry(solely, adv, [], "satunggalna").
+entry(khidmat, adj, [], "KHIDMATER KHIDMATESTseriusKHIDMATLY adv").
+entry(kesolokan, n, [kesolokan-kesolokan], "kaayaan hiji-hijina").
+entry(solenoid, n, [solenoids], "jenis gulungan listrik").
+entry(solera, n, [soleras], "hiji metoda Spanyol dina ngahasilkeun anggur").
+entry(soleret, n, [solerets], "solleret").
+entry(soleus, n, [soleuses], "atawa SOLEI otot dina betis suku").
+entry(solfege, n, [solfeges], "salah sahiji latihan nyanyi").
+entry(solfeggi, npl, [], "solfeges").
+entry(solgel, adj, [], "nyakup sababaraha parobahan dina kaayaan sistem koloid").
+entry(soli, a, [], "jamak tina solo").
+entry(solicit, v, [solicited,soliciting,solicits], "menta kalayan tulus").
+entry(padet, adj, [], "PADÖT PADÕTést ngabogaan bentuk jeung volume nu past").
+entry(padat, n, [padatan], "zat padat").
+entry(solidago, n, [solidagos], "tutuwuhan anu mibanda kembang").
+entry(solidary, adj, [], "sahiji").
+entry(solidi, pl, [], "tina solidus").
+entry(mantepkeun, k, [dimantepkeun, nuju_mantepkeun, mamantepkeun], "pikeun ngajadikeun mantep").
+entry(solidity, n, [solidities], "kualitas atawa kaayaan anu padet").
+entry(solider, katerangan, [], "ku cara anu padet").
+entry(solidus, n, [solidi], "koin ti Romawi kuno").
+entry(soling, ayeuna, [], "partisipel tina sol").
+entry(solion, n, [solions], "alat éléktronik pikeun ngadeteksi jeung ngagedekeun sinyal").
+entry(soliquid, n, [soliquids], "sistem koloid cair").
+entry(solitary, n, [solitaries], "hiji nu hirup nyorangan").
+entry(soliton, n, [soliton-soliten], "gelombang soliter dina fisika").
+entry(kasunyian, n, [kasunyian], "kaayaan sorangan").
+entry(solleret, n, [sollerets], "sabaton").
+entry(solo, n, [soloan], "utawi SOLI, hiji komposisi musik pikeun hiji sora atawa instrumen").
+entry(solo, v, [soloed,soloing,solos], "atawa SOLOEStampil nyalira").
+entry(solois, n, [solois-sololis], "hiji anu ngalakukeun solo").
+entry(solon, n, [solons], "pemberi hukum anu wijaksana").
+entry(solonets, n, [solonetses], "solonetz").
+entry(solonetz, n, [solonetzes], "jenis taneuh").
+entry(titik balik matahari, n, [titik balik matahari], "waktos taun nalika panonpoé aya di jarak panggedena ti ékuator langit").
+entry(soluble, n, [solubles], "hiji hal anu tiasa leyur dina cairan").
+entry(solubly, adv, [], "kalawan cara nu tiasa leyur").
+entry(solum, n, [solums], "atanapi SOLA lapisan taneuh").
+entry(solunar, adj, [], "ngadaptarkeun waktos dorong jeung tilelep panonpoé jeung bulan").
+entry(solus, adj, [], "sorangan").

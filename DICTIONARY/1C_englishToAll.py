@@ -3,7 +3,7 @@ import sys, os, openai, concurrent.futures
 
 client = openai.OpenAI()
 #languages = ["Mandarin Chinese", "Hindi", "Spanish", "French", "Modern Standard Arabic", "Bengali", "Portuguese", "Russian", "Urdu", "Indonesian", "German", "Japanese", "Nigerian Pidgin", "Marathi", "Telugu", "Turkish", "Tamil", "Yue Chinese", "Vietnamese", "Tagalog", "Wu Chinese", "Korean", "Iranian Persian", "Hausa", "Swahili", "Javanese", "Italian", "Western Punjabi", "Kannada", "Gujarati", "Thai", "Amharic", "Bhojpuri", "Yoruba", "Hakka Chinese", "Burmese", "Oromo", "Pashto", "Maithili", "Ukrainian", "Sundanese", "Polish", "Uzbek", "Malayalam", "Sindhi", "Azerbaijani", "Romanian"]
-languages = [ "German", "Japanese", "Nigerian Pidgin", "Marathi", "Telugu", "Turkish", "Yue Chinese", "Vietnamese", "Tagalog", "Wu Chinese", "Korean", "Iranian Persian", "Hausa", "Swahili", "Javanese", "Western Punjabi", "Kannada", "Gujarati", "Amharic", "Bhojpuri", "Yoruba", "Hakka Chinese", "Burmese", "Oromo", "Pashto", "Maithili", "Ukrainian", "Sundanese"]
+languages = [ "German", "Japanese", "Turkish", "Yue Chinese", "Vietnamese", "Wu Chinese", "Korean", "Hausa", "Swahili", "Javanese", "Western Punjabi", "Kannada", "Gujarati", "Amharic", "Bhojpuri", "Yoruba", "Hakka Chinese", "Oromo", "Sundanese"]
 
 with open("./00_words.pl", "r") as f:
     all_lines = [line.strip() for line in f if line.strip()]

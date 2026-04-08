@@ -16066,3 +16066,2007 @@ entry(miskeep, v, [miskept,miskeeping,miskeeps], "ajiye ba daidai ba").
 entry(miskey, v, [miskeyed, miskeying, miskeys], "shan makullin ta cikin kwamfuta ba daidai ba").
 entry(miskick, v, [miskicked, miskicking, miskicks], "buga mummunar ƙafa").
 entry(misknow, v, [misknew,misknown,misknowing], "MISKNOWs rashin fahimta ko gane").
+entry(misorder, v, [misordered,misordering,misorders], "yin oda ba daidai ba").
+entry(mispage, v, [mispaged,mispaging,mispages], "yi ta shafawa ba daidai ba").
+entry(mispaint, v, [mispainted,mispainting,mispaints], "z.sc. fenti ba daidai ba").
+entry(misparse, v, [misparsed,misparsing,misparses], "yin diddige a ba daidai ba").
+entry(mispart, v, [misparted, misparting, misparts], "raba da mummunan hanya").
+entry(mispatch, v, [mispatched,mispatching,mispatches], "dinka a hankali").
+entry(mispen, v, [mispenned, mispenning, mispens], "rubuta ba daidai ba").
+entry(misplace, v, [misplaced,misplacing,misplaces], "a saka a wurin da ba daidai ba").
+entry(misplan, v, [misplanned,misplanning,misplans], "shirya a rashin kyau").
+entry(misplant, v, [misplanted, misplanting, misplants], "shuka a matsayin kuskure").
+entry(misplay, v, [misplayed,misplaying,misplays], "yin wasa mara kyau a wata wasar").
+entry(misplead, v, [mispled,mispleading,mispleads], "yin roƙo da ba daidai ba ko ƙarya").
+entry(mispoint, v, [mispointed,mispointing,mispoints], "nuna ba daidai ba").
+entry(mispoise, v, [mispoised,mispoising,mispoises], "don daidaita ba daidai ba").
+entry(misprice, v, [mispriced,mispricing,misprices], "yin farashi ba daidai ba").
+entry(matacci, v, [matacce,mataccinwa,matacce], "buga ba daidai ba").
+entry(misprize, v, [misprized,misprizing,misprizes], "raini").
+entry(misquote, v, [misquoted,misquoting,misquotes], "yin nakalto ba daidai ba").
+entry(misraise, v, [misraised,misraising,misraises], "ta dauka da kuskure").
+entry(misrate, v, [misrated,misrating,misrates], "yin kimanta da kuskure").
+entry(misread, v, [misread,misreading,misreads], "karanta ba daidai ba").
+entry(misrefer, v, [misreferred,misreferring,misrefers], "yin ambaci da kuskure").
+entry(misrely, v, [misrelied,misrelying,misrelies], "dogara da kuskure").
+entry(misroute, v, [misrouted,misrouting,misroutes], "yin jigilarsa a hanya mara kyau").
+entry(misrule, v, [misruled,misruling,misrules], "mulki da rashin hikima ko rashin adalci").
+```prolog
+shigarwa(miss, v, [missed, missing, misses], "kasa yin hulɗa da"). 
+```
+entry(missable, sifa, [], "mai yiwuwa a rasa").
+shigar(missal, n, [missals], "wani littafin addu'a").
+entry(missay, v, [missaid,missaying,missays], "fadi ba daidai ba").
+entry(misseat, v, [misseated,misseating,misseats], "zaunarda ba daidai ba").
+entry(missel, n, [missels], "wani tsuntsun Turai").
+entry(missend, v, [missent,missending,missends], "aika ba daidai ba").
+entry(missense, n, [missenses], "wani nau'in canjin gado").
+entry(misset, v, [misset,missetting,missets], "sa a ba daidai ba").
+entry(misshape, v, [misshaped,misshapen,misshaping], "MISSHAPE don ɓata siffa").
+entry(misshod, adi, [], "sanya takalma ba daidai ba").
+entry(missies, pl, [], "na yarinya").
+entry(misaili, n, [misailai], "wani abu ko makami da ake jifa ko harbawa").
+entry(missilry, n, [missilries], "kimiyyar ƙirƙira da sarrafa makaman hawa da ke da shiriya").
+entry(aikawa, v, [aika, aikawa, aikawa], "a aika domin yin wani aiki na musamman").
+shiga(matar, n, [mata], "mata").
+entry(rahoton, n, [rahotanni], "saƙon rubutu").
+entry(missort, v, [maye gurbi daidai, mishiga daidai, waya gurabe], "ware da kuskure ko ba daidai ba").
+entry(missound, v, [missounded, missounding, missounds], "yin ƙara ba daidai ba").
+entry(missout, n, [missouts], "jefa wani abin wasa da bai samu nasara ba").
+entry(misspace, v, [misspaced,misspacing,misspaces], "daza sarari ba daidai ba").
+entry(misspeak, v, [misspoke,misspoken,misspeaking], "MISSPEAKsdon yin magana ba daidai ba").
+entry(misspell, v, [misspelt,misspelling,misspells], "rubuta ba daidai ba").
+entry(misspend, v, [misspent,misspending,misspends], "yin kashe kudi ba daidai ba").
+entry(misspoke, da, [], "wani lokaci na misspeak").
+entry(misspoken, da, [], "masu shiga na misspeak").
+entry(misstamp, v, [misstamped,misstamping,misstamps], "buga ba daidai ba").
+entry(misstart, v, [misstarted, misstarting, misstarts], "fara cikin rashin nasara").
+entry(misstate, v, [misstated,misstating,misstates], "faɗa ba daidai ba").
+entry(missteer, v, [missteered,missteering,missteers], "juya ba daidai ba").
+entry(misstep, v, [misstepped,misstepping,missteps], "mataki da kuskure").
+entry(misstop, v, [misstopped,misstopping,misstops], "tsaya da kuskure").
+entry(misstyle, v, [misstyled,misstyling,misstyles], "gyarawa ko kiranshi ba daidai ba").
+entry(missuit, v, [missuited, missuiting, missuits], "sanya ba daidai ba").
+entry(missus, n, [missuses], "uwargida").
+entry(missy, n, [missies], "yarinya karama").
+entry(hazo, v, [zama_hazo, yana_hazo, hazos], "ya zama dim").
+entry(kuskure, v, [kuskure,kuskuren,kuskuri], "KUSKURETo fassara ba daidai ba").
+entry(masaniyar kuskure, n, [masaniyar kuskure], "wanda ke yin kuskure").
+entry(mistbow, n, [mistbows], "wata kaho mai gajimare").
+entry(misteach, v, [mistaught,misteaching,misteaches], "koyar da mugunta ko rashin kyau").
+entry(mistend, v, [mistended,mistending,mistends], "rashin lura da kyau").
+entry(mista, n, [mistas], "dana'uta").
+entry(misterm, v, [mistermed,misterming,misterms], "kirawo da sunan kuskure").
+entry(misteuk, a, [], "wanan misali na kuskure a baya").
+entry(misthink, v, [misthought, misthinking, misthinks], "yin tunani ba daidai ba").
+entry(misthrow, v, [misthrew, misthrown, misthrowing], "WURINDAKYALKYALITODAto jefa kuskure").
+entry(mistier, kwatanci, [], "na hazo").
+entry(mistiest, superlative, [], "na misty").
+entry(mistily, adv, [], "a cikin hanyar hazo").
+shigarwa(mistime, v, [mistimed,mistiming,mistimes], "lokaci ba daidai ba").
+entry(mistitle, v, [mistitled, mistitling, mistitles], "kira da sunan da ba daidai ba").
+entry(mistook, a, [], "bayanin aikatau na (mistake) a zamanin da").
+entry(matsalle, v, [matsallewa,matsallewa,matsalle], "taɓa ba daidai ba").
+entry(mistrace, v, [mistraced,mistracing,mistraces], "bin saɓani").
+entry(mistrain, v, [mistrained, mistraining, mistrains], "horar da rashin dacewa").
+entry(mistral, n, [mistrals], "iska mai sanyi kuma busasshiya").
+entry(raina, v, [rainaye, raina, raini], "yin mu'amala da wani da rashin kyau").
+entry(uwargida, n, [uwargida], "mace a cikin matsayin iko").
+entry(matsalar_shari'a, n, [matsalolin_shari'a], "wani shari'ar da aka soke saboda wata kuskure a cikin tsarin shari'a").
+entry(ƙin yarda, v, [ƙin yarda da, ƙin yarda da, ƙin yarda da], "rashin yarda").
+entry(mistruth, n, [mistruths], "ƙarya").
+entry(mistryst, v, [mistrysted, mistrysting, mistrysts], "gaza samun daman ganawa da wani").
+entry(mistune, v, [mistuned, mistuning, mistunes], "daidaita ba daidai ba").
+entry(mistutor, v, [mistutored, mistutoring, mistutors], "yin koyarwa ko tarbiyya cikin rashin kwarewa").
+entry(misty, adj, [], "MAFI HAZE MAFI HAZEblurred").
+entry(mistype, v, [mistyped, mistyping, mistypes], "rubuta ba daidai ba").
+entry(matsala_hadewa, n, [matsala_hadewowi], "wani hatsarin haɗuwa").
+entry(misusage, n, [amfani da misali], "amfani da ba daidai ba").
+entry(misuse, v, [misused,misusing,misuses], "amfani da ba daidai ba").
+entry(Maiamfani_dabara, n, [Maiamfani_dabara], "wanda ke amfani da dabara").
+entry(misvalue, v, [misvalued,misvaluing,misvalues], "kimanta da kuskure").
+entry(misword, v, [misworded,miswording,miswords], "rubuta a kan kuskure").
+entry(miswrite, v, [miswrit,miswritten,miswriting], "MISWRITEsa rubuta ba daidai ba").
+entry(misyoke, v, [misyoked,misyoking,misyokes], "don yi shi daurewa ba daidai ba").
+entry(mite, n, [mites], "ƙananan kwari").
+entry(miter, v, [mitered,mitering,miters], "daga matsayi zuwa na bishop").
+entry(maigarhawa, n, [maigarhawa], "wanda yake mitering").
+entry(mama, n, [mamas], "uwa").
+entry(micide, n, [micides], "wani abu da ake amfani da shi don kashe kwari na kunama").
+entry(mitier, gwada, [], "na mity").
+entry(mitiest, superlative, [], "na mity").
+entry(mitigant, n, [mitigants], "wani abu da ke ragewa").
+entry(tausa, v, [tausa,tausawa,tausar], "sanya ƙasa da tsanani").
+entry(mitis, n, [mitises], "wani irin baƙin ƙarfe da aka ƙera").
+entry(mitogen, n, [mitogens], "wani abu da ke haifar da mitosis").
+entry(mitosis, n, [mitoses], "wani nau'i na rabuwar kwayoyin halittaMITOTIC adj").
+entry(mitral, sifa, [], "mai alaƙa da bawul ɗin zuciya").
+entry(mitre, v, [mitred,mitring,mitres], "mai matsewa").
+entry(mitsvah, n, [mitsvahs], "ko MITZVOTHmitzvah").
+entry(mitt, n, [mitts], "wani nau'i na safar wasan kwallon baseball").
+shigar(mitten, n, [mittens], "wani nau'in rufi don hannuMITTENED adj").
+entry(mittimus, n, [mittimuses], "takardar izini da ke tura mutum zuwa kurkuku").
+entry(mity, sif, [], "Cike da ƙwayoyin cuta MITIE MITIEST").
+entry(mitzvah, n, [mitzvahs], "ko MITZVOTHUmurnin dokar Yahudawa").
+entry(mix, v, [mixt,mixing,mixes], "haɗa cikin tsari ɗayaMIXABLE MIXIBLE sifMIXEDLY ṣauki").
+entry(mixdown, n, [mixdowns], "aikin haɗa waƙoƙin sauti don yin rikodi").
+entry(mixer, n, [mahad’a], "wanda ke had’awa").
+entry(mixology, n, [mixologies], "fasahar hada hadaddun shaye-shaye").
+entry(miks-tef, n, [miks-tef], "tarin waƙoƙi daga wurare daban-daban").
+shigar(hadi, n, [haduwa], "wani abu da aka samar ta hanyar hadawa").
+entry(mixup, n, [mixups], "wani yanayin rikicewa").
+entry(mizen, n, [mizens], "mizzen").
+entry(mizuna, n, [mizunas], "wasabi na Japan").
+entry(mizzen, n, [mizzens], "wani nau'in tafi").
+entry(mizzle, v, [mizzled, mizzling, mizzles], "yin ruwa a kanana digo").
+entry(mizzly, sif, [], "MIZZLIER MIZZLIESTana nuna da wata ruwan sama mai kyau").
+entry(mm, interj, [], "amfani da ita don nuna yarda ko gamsuwa").
+entry(mmm, interj, [], "mm").
+entry(mnemonic, n, [mnemonics], "wani na'ura don taimakon ƙwaƙwalwa").
+entry(mo, n, [mos], "daƙiƙa").
+entry(moa, n, [moas], "tsuntsu mara iya tashi wanda ya bace").
+entry(nishi, v, [nishi_nishi, nishin, nishai], "yin sauti mai raunana na bakin ciki").
+entry(matsiyaci, n, [matsiyata], "wanda yake kuka").
+entry(moanful, sifa, [], "radadi").
+shigarwa(moat, v, [moated,moating,moats], "tsarkake da moat wani kwatami cike da ruwa").
+entry(moatlike, sif, [], "na nuna rami").
+entry(mob, v, [mamaye, mamayewa, mamaye], "taruwa a kusa da").
+entry(mobber, n, [mobbers], "wanda ke kai hari").
+entry(mobbish, siffofi, [], "siffofin taron mutane masu hayaniya").
+entry(motsi, n, [motsaye], "wata irin zane-zane").
+entry(mobilise, v, [mobilised,mobilising,mobilises], "don motsa").
+entry(motsi, n, [motsuna], "damar motsawa").
+entry(motsawa, v, [motsawa,motsawarwa,motsawowa], "sa cikin motsi").
+entry(mobled, sif, [], "nannade cikin kokon kai ko kamar a cikin kokon kai").
+entry(moblog, n, [moblogi], "shafin yanar gizo tare da bayanan da aka wallafa daga wayar salula").
+entry(mobocrat, n, [mobocrats], "mai goyon bayan mulkin ruɗani").
+entry(dan_ta'addanci, n, [yan_ta'addanci], "dan daba").
+entry(moc, n, [mocs], "takalmin fata").
+entry(makasin, n, [makasina], "wani nau'in takalma").
+entry(moka, n, [mokas], "wani zaɓi mai ƙamshi na kofi").
+entry(mochi, n, [mochis], "wani kayan marmari na Japan wanda aka yi da garin shinkafa da kuma gyada mai zaki").
+entry(mochila, n, [jakunkuna], "rufin fata ga akushi").
+shigar(mock, v, [yi shaci, yin shaci, yi shaƙa], "yi dariya ta kaMockable adj").
+entry(mocker, n, [masu-matsaloli], "wanda ke yiwa wani dariya").
+entry izgili, n, [izgilai], "ayyukan izgili".
+entry(mocktail, n, [wani shamfiɗan ɗanɗano mara giya], "wani shamfiɗan ɗanɗano ba tare da giya ba").
+entry(mockup, n, [mockups], "misali mai cikakken girma").
+shigar(mod, n, [mods], "wanda ya sanya tufafi masu jan hankali cikin salo").
+entry(modal, n, [modals], "wani fi'ili da ake amfani da shi tare da wasu fi'ilo don bayyana yanayi ko lokaci").
+entry(modalism, n, [modalisms], "koyarwar cewa mambobin Triniti ba su bambanta da juna ba, amma siffofin bayyanar Allah ne").
+shigarwa(modalist, n, [modalists], "mai bin akidar modalisanci").
+entry(modality, n, [modalities], "hali na kasancewa modal").
+entry(modally, adv, [], "ta wata hanya da ta shafi yanayi").
+entry(hanya, n, [hanyoyi], "hanyar yin abu ko aikatawa").
+entry(model, v, [misa,misawa,misalai], "ko MISA MISAWA MISAal'ada don shirya ko tsara bisa tsarin".).
+entry(modeler, n, [masuƙira], "wanda ke ƙira").
+entry(misali, n, [misalai], "kulawar irin shigar sassa a cikin zane-zanen fenti").
+entry(modelist, n, [modelists], "wanda yake yin samfura").
+entry(modelled, a, [], "wani lokaci da ya gabata na model").
+entry(modeller, n, [masu_modulu], "mai_modulu").
+entry(modelling, a, [], "mai misali na lokacin nan").
+entry(modem, v, [modemed,modeming,modems], "don aika ta na'urar modem da ke sauya sigina daga wata hanya zuwa wata").
+entry(moderate, v, [sauka, saukewa, saukewa], "don sanya abu ya yi kasa sosai").
+entry(moderato, n, [moderatos], "wani yanki na kiɗa da aka kunna a matsakaicin sauri").
+entry(zamani, adj, [], "ZAMANINTA ZAMANINpertaining to present or recent timeZAMANANTAKA adv").
+entry(zamani, n, [zumuntattu], "mutum na zamani ko ra'ayoyi").
+entry(na zamani, n, [na zamani], "salo na zane-zane daga 1920s da 1930s").
+entry(modest, adj, [], "MODAS DEBADE MODA SAI HAKAta kasance da cikakken farin cikin kaiMODAS DA KYAU adv").
+entry(kunya, n, [kunyoyi], "halin jin kunyata").
+entry(modi, pl, [], "na modus").
+entry(modicum, n, [modicums], "ko MODICAa ƙananan adadi").
+entry(modifiya, n, [modifiyoyi], "wanda ke gyarawa").
+entry(sake, v, [sake, sabuntawa, sabunta], "canza siffa ko halayyar abu").
+entry(modiolus, n, [modioli], "watiƙa ƙwayar ƙashi a cikin kunne").
+entry(modish, adj, [], "stylishMODISHLY adv").
+entry(modiste, n, [modistes], "mai sayar da kayan mata na zamani").
+entry(modular, n, [modulars], "wani abu da aka gina a cikin raka'o'i masu cin gashin kansu").
+entry(daidaita, v, [daidaita,daidaitawa,daidaitai], "don daidaita zuwa ga wani kashi").
+entry(module, n, [modules], "ma'auni na auna abu").
+entry(modulo, adv, [], "dangane da modulus").
+entry(modulus, n, [moduli], "wani lamba da ke bada saura iri ɗaya lokacin da aka raba shi cikin kowanne daga cikin lambobi biyu").
+entry(modus, n, [modi], "yanayin").
+entry(mofette, n, [mofettes], "warin hayaki wanda ke fitowa daga rami cikin ƙasa").
+entry(moffette, n, [moffettes], "mofet").
+entry(mog, v, [mogged, mogging, mogs], "matsawa").
+entry(magi, n, [magi], "mage").
+entry(moggy, n, [moggies], "mage").
+entry(moghul, n, [moghuls], "moguli").
+entry(mogul, n, [moguls], "wani muhimmin mutum").
+`entry(moguled, adj, [], "an sami da ƙududdufin dusar ƙanƙara mai wuya").`
+entry(mohair, n, [mohairs], "gashin siliki mai tsawo na akuyar Angora").
+entry(mohawk, n, [mohawks], "salon gashi da aka yi wa alama ta tsaftataccen tsagi na dogon gashi daga gaba zuwa baya").
+entry(mohale, n, [mohalanci], "ko Mohalim ko Mohalim mutum wanda ke gudanar da kaciya ta addinin Yahudanci").
+entry(moho, n, [mohos], "iyaka da ke raba ƙasan ƙasa da murɗiyar duniya wurin da ke tsakanin ƙasa da ainihin").
+entry(mohur, n, [mohurs], "tsohuwar tsabar zinariya ta Indiya").
+entry(moi, interj, [], "ana amfani dashi maimakon ni don nuna mamaki idan an zarge ni da wani abu").
+entry(moidore, n, [moidores], "tsohon kudin gwal na Portugal").
+entry(rabi, n, [rabai], "wani rabin").
+shigar(moil, v, [moiled, moiling, moils], "yin aiki tuƙuru").
+shigarwa(moiler, n, [moilers], "wanda ke aiki tukuru").
+entry(moira, n, [moirai], "kaddara ko qaddara a addinin Gargajiya na Girkanci").
+entry(moire, n, [moires], "zane mai kamanni na igiyar ruwa").
+entry(damp, sif, [], "DAƁE MAI DAƁENSE ƊAN RƁ").
+entry( jika, v, [jika, yana jika, jikoki], "sanya danshi ko ya zama danshi").
+entry(m, s, o, "m").
+entry(moistly, adv, [], "a cikin yanayi mai laushi").
+entry(danko, n, [danko-danko], "ruwa da ya hade ko ya yadu").
+entry(mojarra, n, [mojarras], "kifi na teku").
+entry(mojito, n, [mojitos], "wani abin sha ne an yi shi da rum, sukari, na'a, da ruwan lemun tsami").
+entry(mojo, n, [mojos], "ko MOJOES wata tsafi maye").
+entry(moke, n, [jakuna], "jaki").
+entry(moksha, n, [mokshas], "ceto na ƙarshe na rai daga reincarnation a Hinduism").
+entry(mol, n, [mols], "ƙwaya").
+entry(mola, n, [molas], "kifi na ruwa").
+entry(molal, sif, [], "mai dangantaka da mole").
+entry(molality, n, [molalities], "yawan moles na solute a kowane gram 1000 na solvent").
+entry(molar, n, [hakora masu nika], "haƙoran da ke nika abinci").
+entry(molarity, n, [molarities], "yawan molen na solute a kowane lita na magini").
+entry(molase, n, [molasesos], "wani ruwa mai kauri").
+entry(mold, v, [sassaƙa, sassaƙawa, sassaƙa], "don sassaka ko aiki cikin wani siffa SASƘAYYA adj").
+entry(molder, v, [moldered,moldering,molders], "mai komawa ƙura ta hanyar lalacewa na halitta").
+entry(moldier, mafi, [], "na yawu").
+entry(moldiest, superlative, [], "na moldy").
+entry(moulding, n, [mouldings], "doguwa bakin tsiri da ake amfani da ita wajen kawata wata farfajiya").
+entry(moldwarp, n, [moldwarps], "wani dabba mai tono rami").
+entry(moldy, sif, [], "MOLDIER MOLDIESTmai wari").
+entry(mole, n, [moles], "yawan wani abu da nauyinsa ya yi daidai da nauyin kwayoyin halittarsa").
+entry(kwayoyin_halitta, n, [kwayoyin_halitta], "ƙaramin rukuni na jiki na wani sinadari").
+entry(tudu_kankara, n, [tudai_kankara], "karamin kuncin kasa").
+entry(moleskin, n, [moleskins], "yadin auduga").
+entry(matsala, v, [ya matsala,yana matsala,ya matsala], "domin hankali ko baci rai").
+entry(masashi, n, [masashai], "wanda yake yi wa mutum da kungiyar aikata laifi").
+entry(molies, pl, [], "na moly").
+entry(moline, sif, [], "mai hannu biyu kuma a lanƙwasa a ƙarshe ana amfani dashi a fuska ta girmamawa").
+entry(moll, n, [molls], "budurwar 'yan daba").
+entry(mollah, n, [mollahs], "liman").
+entry(mollie, n, [mollies], "kifi na wuraren zafi").
+entry(mollies, pl, [], "na molly").
+entry(mollify, v, [mollified,mollifying,mollifies], "ta kwantar da hankali").
+entry(guronew, n, [guronew], "mollusk").
+entry(mollusca, npl, [], "cututtukan fata").
+entry(mollusk, n, [mollusks], "wani nau'i na dabbobin mara kashi masu jiki mai laushi").
+entry(molly, n, [mollies], "mollie").
+entry(moloch, n, [molochs], "kusurwa mai kaifi").
+entry(molt, v, [soma,soma,soma], "zubar da kwalliyar waje").
+entry(dahuwa, siffofi, [], "an yi ruwa ta hanyar zafiDAHUNCI adv").
+entry(molter, n, [molters], "wanda ke sauya fata").
+entry(molto, fay, [], "mai amfani sosai cikin umarnin kiɗa").
+entry(nama, n, [nama], "tafarnuwa mai wuya").
+entry(moly, n, [molys], "molybdenum").
+entry(molybdic, adj, [], "na nufin wani nau'in abun haɗe ƙarfe").
+entry(uwa, n, [uwaye], "matar uwa").
+entry(mome, n, [momes], "wawaye").
+entry(moment, n, [lokuta], "wani dan kankanin lokaci").
+entry(momenta, a, [], "jam'in momentum").
+entry(dagudun gamma, adv, [], "daga lokaci zuwa lokaci").
+entry(momento, n, [momentos], "ko MOMENTOESmemento").
+entry(momentum, n, [momentums], "ko kuma MOMENTAkarfin motsi").
+entry(momi, a, [], "jam'in momus").
+entry(momism, n, [momisms], "dogaro mai yawa da iyaye mata").
+entry(momma, n, [mommas], "uwa").
+entry(uwar, n, [uwar], "uwa").
+entry(momser, n, [momsers], "shege").
+entry(momus, n, [momuses], "ko MOMI mutum mai tsokana").
+entry(momzer, n, [momzers], "momsar").
+shigar(lit, n, [maza], "namiji").
+entry(na ɗarikar mona, siffofi, [], "game da mambobin ɗarikar maza masu ibada").
+entry(monacid, n, [monacids], "monoacid").
+entry(monad, n, [monads], "wani halitta mai kwaya dayaMONADAL MONADIC adj").
+entry(monades, pl, [], "na monai").
+entry(monadism, n, [monadisms], "wani koyaswar falsafa").
+entry(monamine, n, [monamines], "amine guda ɗaya da ke da rukunin amino guda ɗaya").
+entry(monandry, n, [monandries], "halin samun miji daya a lokaci guda").
+entry(sarki, n, [sarakuna], "mai mulki na karshe").
+entry(monarkiya, n, [monarkiyoyi], "mulki ta sarki").
+entry(monarda, n, [monardas], "ganye mai kamshi").
+entry(monas, n, [monades], "wani monad").
+entry(monastic, n, [monasticoci], "wani ɗan tarayya").
+entry(monaural, sif, [], "da alaka da yada sauti rikodi ko kuma haifuwa ta hanyar mizanin watsawa guda daya").
+entry(monaxial, adj, [], "mai daidaiwa guda daya").
+entry(monaxon, n, [monaxons], "rejiyoyi madaidaici a cikin soso").
+entry(monazite, n, [monazites], "wani ma'adini").
+entry(monde, n, [duniya], "duniya").
+entry(mondo, n, [mondos], "wani dabarun tambaya da amsa cikin sauri da ake amfani da shi a addinin Zen na Buddha").
+entry(monecian, adj, [], "da ke da gaban namiji da mace a jikin mutum daya").
+entry(monellin, n, [monellins], "wani sinadarin furotin da aka fitar daga wani jan doddon Najeriya").
+entry(moneran, n, [monerans], "wani kwayoyin halitta da ba shi da asalin kwayoyin").
+entry(na kudi, siffofi, [], "mai dangantaka da kudi").
+entry(monetise, v, [samar da kudi, samar da kudi, samar da kudi], "samar da kudi").
+entry(monetize, v, [an kirkira, ana kirkira, yana kirkira], "sarrafa zuwa kudi").
+entry(kuɗi, n, [kuɗaɗe], "ko KUƊI hanyar musayar hukuma da ma'aunin ƙima").
+entry(moneybag, n, [jakunkunan kudi], "jaka don riƙe kuɗi").
+entry(moneyed, adj, [], "yana da kudade da yawa").
+entry(maikudi, n, [maikudai], "wanda ke kera kudi").
+entry(moneyman, n, [moneymen], "mutum wanda yake zuba jari da yawa").
+shigar(mongeese, a, [], "jam'i na mongoose").
+entry(monger, v, [mongered,mongering,mongers], "sayar da kaya").
+entry(mongo, n, [mongos], "mungo").
+entry(mongoe, n, [mongoes], "mungo").
+entry(mongol, n, [mongoliya], "wani mutumin da ke fama da wata irin lalacewar hankali").
+entry(mangoz, n, [mangozji], "ko MONGEESE dabbobi masu cin nama").
+entry(dabbobi_gamayyar_haihuwa, n, [dabbobi_gamayyar_haihuwa], "dabba ko tsiro mai gamayyiyar haihuwa").
+entry(mongst, har, [], "amongst").
+entry(monic, sif, [], "yana nufin wani irin 'yanayi na polynomial").
+entry(monicker, n, [monickers], "moniker").
+entry(monie, sifa, [], "da yawa").
+entry(monied, adj, [], "mai kudi").
+entry(kudade, a, [], "jam'i na kudi").
+entry(moniker, n, [monikers], "suna").
+entry(monilia, n, [moniliae], "wani nau'i na fungus mai haifar da cuta").
+entry(monish, v, [monished,monishing,monishes], "gargadi").
+entry(darasi_daya, n, [darasi_dayoyi], "wani tsarin falsafa").
+entry(monist, n, [monists], "mai bin akidar monismMONISTIC adj").
+entry(gargadi, n, [gargadiyoyi], "wani gargaɗi").
+entry(monitive, siffofi, [], "bada gargadi").
+entry(monitor, v, [yana lura, lura, lura], "a ci gaba da lura da").
+entry(monitory, n, [wasikun gargadi], "wasika ta ja-gargadi").
+entry(sadhu, n, [sadhus], "wani mutum wanda memba ne na wata kungiya ta addini mai zaman kansa").
+entry(mazaunin_darikar_bautawa, n, [mazauna], "hanyar rayuwar malamai").
+entry(biri, v, [biraye, birayi, birai], "yin koyi").
+entry(malaɗufi, n, [malaɗufai], "kifi na teku").
+entry(munkunta, n, [munkunta], "matsayin zama ɗan'uwa").
+entry(malokoci, sif, [], "daya shafi malokoci").
+entry(mono, n, [monos], "ƙwayar cutar mai yaɗuwa").
+entry(monoacid, n, [monoacids], "wani nau'in acid").
+entry(monobloc, sif, [], "an yi a zuba guda daya").
+entry(monocarp, n, [monocarps], "wani tsiro ya na haihuwa sau daya kafin mutuwa").
+entry(monokula, n, [monokulai], "gilashin ido guda ɗayaMONOKULI adj").
+entry(monokot, n, [monokot], "wani nau'i na shuka iri").
+entry(monocrat, n, [monocrats], "mai mulki kama karya").
+entry(monocrop, n, [shuka_daya], "shuka iri daya a gonar iri daya duk shekara bayan shekara").
+entry(monocyte, n, [monocytes], "wani irin farin kwayar jini").
+entry(monodist, n, [monodists], "wanda ke rubuta wakoki").
+entry(monody, n, [monodies], "waƙar baƙin ciki da mutum guda ke yiMONODIC adj").
+entry(monoecy, n, [monoecies], "yanayin zama monecian").
+entry(monofil, n, [monofils], "zariga guda daya na zaruruwan wucin gadi").
+entry(monofuel, n, [monofuels], "wani irin man harba fuzushe").
+entry(monogami, n, [monogami], "aure da mutum daya a lokaci guda").
+entry(monogeny, n, [monogenies], "haifuwa ba tare da gamuwa").
+entry(monogerm, adj, [], "kasancewar ɗaya daga cikin itace mai haifar da shuka guda").
+entry(monoglot, n, [monogloti], "mutum da ke magana ko rubutu a cikin harshe daya kacal").
+entry(monogram, v, [monogramed,monograming,monograms], "ko MONOGRAMMED MONOGRAMMING MONOGRAMS don sanya alamar zane na asalin mutum").
+entry(monogyny, n, [matan_aure_daya], "yanayin kasancewa da mata daya a lokaci guda").
+entry(monohull, n, [monohulls], "jirgin ruwa mai kwallo guda daya").
+entry(monokine, n, [monokines], "wani abu da fararen jini ke fitarwa").
+entry(monokini, n, [monokinis], "rabin ƙaramin rigar wanka na mata").
+entry(monolith, n, [monoliths], " babban dutse").
+entry(zance, v, [zancen, zancenta, zantuka], "yin wani dogon jawabi na mutum daya").
+entry(monology, n, [monologies], "yin magana guda daya").
+entry(monomer, n, [monomeri], "wani irin haɗin sinadarai").
+entry(monomial, n, [monomials], "wani bayani a ilimin lissafi da ya ƙunshi wani furuci guda").
+entry(monopod, n, [monopodi], "na'ura mai ƙafar ɗaya don tallafawa kyamara").
+entry(monopode, n, [monopodes], "wani halitta dake da kafa daya").
+entry(monopody, n, [monopodies], "wani ma'auni da ya ƙunshi ƙafar awo guda ɗaya").
+entry(monopole, n, [antennan monopoles], "wani nau'in antenar rediyo").
+entry('monopoly', n, ['monopoloyin'], "iko na musamman akan kayan masarufi ko sabis a kasuwa ta musamman").
+entry(monorail, n, [monorails], "dogo hagu daya mai aiki a matsayin hanya ga abin hawa mai ƙafafuwa").
+entry(monoski, n, [monoskis], "wata kafa daya tak wanda duka kafafun suke kan sa").
+entry(monosome, n, [monosomes], "chromosome mara ma'aurata").
+entry(monosomi, n, [monosomosi], "yana nufin yanayin da mutum yake da kwakwalwar chromosomes daya kacal").
+entry(monotint, n, [monotints], "zane da aka yi a cikin inuwa daban-daban na launi daya").
+entry(monotone, n, [monotones], "wani sauti na magana a sauti guda marar canzawa").
+entry(gundura, n, [gundurai], "matsananciyar kama").
+entry(monotype, n, [monotypes], "wakilin guda daya na rukuninsa").
+entry(monoxide, n, [monoxides], "wani nau'in oxide").
+entry(mons, n, [tsattsauran ƙugu], "wata faɗuwa a jikin mutum").
+entry(monsieur, n, [messieurs], "wani taken ladabi na Faransanci ga namiji").
+entry(damuna, n, [damunonin], "iska na lokaci").
+entry(dodo, n, [dodanni], "wani abu mai ban mamaki ko tsoro").
+shigar(monstera, n, [monstera], "tsiro daga yankin yankin Amurka mai zafi").
+entry(montage, v, [montaged,montaging,montages], "hade zuwa hoto na hade").
+entry(montane, n, [montanes], "babban wurin tsiro na ƙasa a kan dutse").
+entry(monte, n, [wasannin_monte], "wasa karta").
+entry(monteith, n, [monteiths], "kwano mai girma na shayi").
+entry(montero, n, [monteros], "wani irin hula").
+entry(montes, pl, [], "na duwatsu").
+entry(wata, n, [watanni], "lokaci ne na kusan kwanaki 30").
+entry(kowane wata, n, [kowanne watannin], "wallafa da ake fitarwa sau daya a wata").
+entry(monty, n, [monties], "dukkan adadin da ake sa ran ko zai yiwu").
+entry(gini, n, [ginin tarihi], "wani abu da aka gina don tunawa").
+entry(monuron, n, [monurons], "wani maganin ciyawa").
+entry(mony, sif, [], "da yawa").
+```prolog
+entry(moo, v, [mooed,mooing,moos], "yin sauti mai zurfi na kuka na saniya")
+```
+```prolog
+entry(na, adv, [naans], "nanNAB v NABBED NABBING NABSto capture or arrestNABBER n pl NABBERSone that nabsNABE n pl NABESa neighborhood movie theaterNABIS n pl NABISa group of French artistsNABOB n pl NABOBSone who becomes rich and prominentNABOBISH adjNABOBERY n pl NABOBERIESthe state of being a nabobNABOBESS n pl NABOBESSESa female nabobNABOBISM n pl NABOBISMSgreat wealth and luxuryNACELLE n pl NACELLESa shelter on an aircraftNACHAS n pl NACHASpride in anothers accomplishmentsNACHES n pl NACHESnachasNACHO n pl NACHOSa tortilla chip topped with cheese and a savory mixture and broiledNACRE n pl NACRESthe pearly internal layer of certain shellsNACRED NACREOUS adjNADA n pl NADASnothingNADIR n pl NADIRSa point on the celestial sphereNADIRAL adjNAE n pl NAESnoNAETHING n pl NAETHINGSnothingNAEVUS n pl NAEVInevusNAEVOID adjNAFF v NAFFED NAFFING NAFFSto fool aroundNAFF adj NAFFER NAFFESTlacking taste or styleNAFFNESS n pl NAFFNESSESthe quality of lacking taste or styleNAG v NAGGED NAGGING NAGSto find fault incessantlyNAGA n pl NAGASa halfsnake halfhuman creature in HinduismNAGANA n pl NAGANASa disease of horses in AfricaNAGGER n pl NAGGERSone that nagsNAGGING n pl NAGGINGSthe act of finding fault incessantlyNAGGY adj NAGGIER NAGGIESTgiven to naggingNAGWARE n pl NAGWARESsoftware that is at first free but often reminds the user to pay for itNAH adv noNAIAD n pl NAIADS or NAIADESa water nymphNAIF n pl NAIFSa naive personNAIL v NAILED NAILING NAILSto fasten with a nail a slender piece of metalNAILER n pl NAILERSone that nailsNAILFOLD n pl NAILFOLDSa fold of skin around the fingernailNAILHEAD n pl NAILHEADSthe top of a nailNAILLESS adj lacking nailsNAILSET n pl NAILSETSa steel rod for driving a nail into somethingNAINSOOK n pl NAINSOOKSa cotton fabricNAIRA n pl NAIRASa monetary unit of NigeriaNAIRU n pl NAIRUSthe lowest rate of unemployment at which there is no inflationNAIVE adj NAIVER NAIVESTlacking sophisticationNAIVELY advNAIVE n pl NAIVESa naive personNAIVETE n pl NAIVETESthe quality of being naiveNAIVETY n pl NAIVETIESnaiveteNAKED adj NAKEDER NAKEDESTbeing without clothing or coveringNAKEDLY advNAKFA n pl NAKFASa monetary unit of EritreaNALA n pl NALASnullahNALED n pl NALEDSan insecticideNALOXONE n pl NALOXONESa chemical compoundNAM a past tense of nimNAME v NAMED NAMING NAMESto give a title toNAMABLE NAMEABLE adjNAMELESS adj lacking distinction or fameNAMELY adv that is to sayNAMER n pl NAMERSone that namesNAMESAKE n pl NAMESAKESone who is named after anotherNAMETAG n pl NAMETAGSa tag bearing ones name worn for identificationNAMETAPE n pl NAMETAPESa tape bearing ones name worn for identificationNAMING present participle of nameNAN n pl NANSa round flat breadNANA n pl NANASa grandmotherNANDIN n pl NANDINSan evergreen shrubNANDINA n pl NANDINASan Asian shrubNANISM n pl NANISMSabnormal smallnessNANKEEN n pl NANKEENSa cotton fabricNANKIN n pl NANKINSnankeenNANNA n pl NANNASnanaNANNIE n pl NANNIESnannyNANNY v NANNIED NANNYING NANNIESto be overprotective towardNANNYISH adj resembling a childrens nurseNANO n pl NANOSscience that deals with materials on an atomic or molecular scaleNANOBOT n pl NANOBOTSa very small selfpropelled machineNANOGRAM n pl NANOGRAMSa unit of mass and weightNANOTECH n pl NANOTECHSthe technology of building electronic devices from individual atoms and moleculesNANOTUBE n pl NANOTUBESa microscopic tubeNANOWATT n pl NANOWATTSa unit of powerNAOS n pl NAOIan ancient templeNAP v NAPPED NAPPING NAPSto sleep brieflyNAPA n pl NAPASa soft leatherNAPALM v NAPALMED NAPALMING NAPALMSto assault with a type of incendiary bombNAPE n pl NAPESthe back of the neckNAPERY n pl NAPERIEStable linenNAPHTHA n pl NAPHTHASa volatile liquidNAPHTHOL n pl NAPHTHOLSa chemical compoundNAPHTHYL n pl NAPHTHYLSa radical derived from naphthaleneNAPHTOL n pl NAPHTOLSnaphtholNAPIFORM adj shaped like a turnipNAPKIN n pl NAPKINSa piece of material used to wipe the hands and mouthNAPLESS adj threadbareNAPOLEON n pl NAPOLEONSa type of pastryNAPPA n pl NAPPASnapaNAPPE n pl NAPPESa type of rock formationNAPPED past tense of napNAPPER n pl NAPPERSone that napsNAPPIE n pl NAPPIESa diaperNAPPING present participle of napNAPPY adj NAPPIER NAPPIESTkinkyNAPROXEN n pl NAPROXENSan antiinflammatory drugNARC n pl NARCSan undercover drug agentNARCEIN n pl NARCEINSnarceineNARCEINE n pl NARCEINESan opium derivativeNARCISM n pl NARCISMSexcessive love of oneselfNARCISSI npl bulbous flowering plantsNARCIST n pl NARCISTSone given to narcismNARCO n pl NARCOSnarcNARCOMA n pl NARCOMAS or NARCOMATAa stupor induced by a narcoticNARCOSE adj characterized by stuporNARCOSIS n pl NARCOSESa druginduced stuporNARCOTIC n pl NARCOTICSa drug that dulls the sensesNARD n pl NARDSa fragrant ointmentNARDINE adjNARDOO n pl NARDOOSa cloverlike plantNARES pl of narisNARGHILE n pl NARGHILESa hookahNARGILE n pl NARGILESnarghileNARGILEH n pl NARGILEHSnarghileNARIS n pl NARESa nostrilNARIAL NARIC NARINE adjNARK v NARKED NARKING NARKSto spy or informNARKY adj NARKIER NARKIESTirritableNARRATE v NARRATED NARRATING NARRATESto tell a storyNARRATER n pl NARRATERSnarratorNARRATOR n pl NARRATORSone that narratesNARROW adj NARROWER NARROWESTof little widthNARROWLY advNARROW v NARROWED NARROWING NARROWSto make narrowNARTHEX n pl NARTHEXESa vestibule in a churchNARWAL n pl NARWALSnarwhalNARWHAL n pl NARWHALSan arctic aquatic mammalNARWHALE n pl NARWHALESnarwhalNARY adj not oneNASAL n pl NASALSa sound uttered through the noseNASALISE v NASALISED NASALISING NASALISESto nasalizeNASALISM n pl NASALISMSnasalityNASALITY n pl NASALITIESthe quality or an instance of being produced nasallyNASALIZE v NASALIZED NASALIZING NASALIZESto produce sounds nasallyNASALLY adv through the noseNASCENCE n pl NASCENCESnascencyNASCENCY n pl NASCENCIESbirth originNASCENT adj coming into existenceNASION n pl NASIONSa point in the skullNASIAL adjNASTIC adj pertaining to an automatic response of plantsNASTY adj NASTIER NASTIESToffensive to the sensesNASTILY advNASTY n pl NASTIESsomething that is nastyNATAL adj pertaining to ones birthNATALITY n pl NATALITIESbirth rateNATANT adj floating or swimmingNATANTLY advNATATION n pl NATATIONSthe act of swimmingNATATORY adj pertaining to swimmingNATCH adv naturallyNATES npl the buttocksNATHLESS adv neverthelessNATION n pl NATIONSa politically organized people who share a territory customs and historyNATIONAL n pl NATIONALSa citizen of a nationNATIVE n pl NATIVESan original inhabitant of an areaNATIVELY adv in an inborn mannerNATIVISM n pl NATIVISMSa policy of favoring the interests of native inhabitantsNATIVIST n pl NATIVISTSan advocate of nativismNATIVITY n pl NATIVITIESthe process of being bornNATRIUM n pl NATRIUMSsodiumNATRON n pl NATRONSa chemical compoundNATTER v NATTERED NATTERING NATTERSto chatterNATTERER n pl NATTERERSone that nattersNATTY adj NATTIER NATTIESTneatly dressedNATTILY advNATURAL n pl NATURALSa type of musical noteNATURE n pl NATURESthe essential qualities of a person or thingNATURED adjNATURISM n pl NATURISMSnudismNATURIST n pl NATURISTSa nudistNAUGHT n pl NAUGHTSa zeroNAUGHTY n pl NAUGHTIESone that is naughtyNAUGHTY adj NAUGHTIER NAUGHTIESTdisobedientNAUMACHY n pl NAUMACHIESa mock sea battleNAUPLIUS n pl NAUPLIIa form of certain crustaceansNAUPLIAL adjNAUSEA n pl NAUSEASa stomach disturbanceNAUSEANT n pl NAUSEANTSan agent that induces nauseaNAUSEATE v NAUSEATED NAUSEATING NAUSEATESto affect with nauseaNAUSEOUS adj affected with nauseaNAUTCH n pl NAUTCHESa dancing exhibition in IndiaNAUTICAL adj pertaining to shipsNAUTILUS n pl NAUTILUSES or NAUTILIa spiralshelled molluskNAV n pl NAVSnavigationNAVAID n pl NAVAIDSa navigational deviceNAVAL adj pertaining to shipsNAVALLY advNAVAR n pl NAVARSa system of air navigationNAVARIN n pl NAVARINSlamb stew with vegetablesNAVE n pl NAVESthe main part of a churchNAVEL n pl NAVELSa depression in the abdomenNAVETTE n pl NAVETTESa gem cut in a pointed oval formNAVICERT n pl NAVICERTSa document permitting a vessel passage through a naval blockadeNAVIES pl of navyNAVIGATE v NAVIGATED NAVIGATING NAVIGATESto plan and control the course ofNAVVY n pl NAVVIESa manual laborerNAVY n pl NAVIESa nations warshipsNAW adv noNAWAB n pl NAWABSa nabobNAY n pl NAYSa negative voteNAYSAY v NAYSAID NAYSAYING NAYSAYSto oppose or denyNAYSAYER n pl NAYSAYERSone that denies or opposes somethingNAZI n pl NAZISa type of fascistNAZIFY v NAZIFIED NAZIFYING NAZIFIESto cause to be like a naziNE adj born with the name ofNEAP n pl NEAPSa tide of lowest rangeNEAR adj NEARER NEARESTsituated within a short distanceNEARISH adjNEAR v NEARED NEARING NEARSto approachNEARBY adj nearNEARLY adv NEARLIER NEARLIESTwith close approximationNEARNESS n pl NEARNESSESthe state of being nearNEARSIDE n pl NEARSIDESthe left sideNEAT adj NEATER NEATESTbeing in a state of cleanliness and orderNEAT n pl NEATSa bovineNEATEN v NEATENED NEATENING NEATENSto make neatNEATH prep beneathNEATHERD n pl NEATHERDSa cowherdNEATLY adv in a neat mannerNEATNESS n pl NEATNESSESthe state of being neatNEATNIK n pl NEATNIKSa compulsively neat personNEB n pl NEBSthe beak of a birdNEBBISH n pl NEBBISHESa meek personNEBBISHY adjNEBULA n pl NEBULAS or NEBULAEa cloudlike interstellar massNEBULAR adjNEBULE adj composed of successive short curvesNEBULISE v NEBULISED NEBULISING NEBULISESto nebulizeNEBULIZE v NEBULIZED NEBULIZING NEBULIZESto reduce to a fine sprayNEBULOSE adj nebulousNEBULOUS adj unclearNEBULY adj nebuleNECK v NECKED NECKING NECKSto kiss and caress in lovemakingNECKBAND n pl NECKBANDSa band worn around the neck the part of the body joining the head to the trunkNECKER n pl NECKERSone that necksNECKING n pl NECKINGSa small molding near the top of a columnNECKLACE v NECKLACED NECKLACING NECKLACESto kill by placing a tire around the neck and setting it on fireNECKLESS adj having no neckNECKLET n pl NECKLETSa closefiting ornament worn around the neckNECKLIKE adj resembling the neckNECKLINE n pl NECKLINESthe line formed by the neck opening of a garmentNECKTIE n pl NECKTIESa strip of fabric worn around the neckNECKWEAR n pl NECKWEARsomething that is worn around the neckNECROPSY v NECROPSIED NECROPSYING NECROPSIESto perform an autopsy onNECROSE v NECROSED NECROSING NECROSESto affect with necrosisNECROSIS n pl NECROSESthe death of living tissueNECROTIC adjNECTAR n pl NECTARSa delicious drinkNECTARY n pl NECTARIESa plant glandNEDDY n pl NEDDIESa donkeyNEE adj born with the name ofNEED v NEEDED NEEDING NEEDSto have an urgent or essential use forNEEDER n pl NEEDERSone that needsNEEDFUL n pl NEEDFULSsomething that is neededNEEDIER comparative of needyNEEDIEST superlative of needyNEEDILY adv in a needy mannerNEEDLE v NEEDLED NEEDLING NEEDLESto sew with a slender pointed instrumentNEEDLER n pl NEEDLERSone that needlesNEEDLESS adj not necessaryNEEDLING n pl NEEDLINGSthe act of one who needlesNEEDY adj NEEDIER NEEDIESTin a state of povertyNEEM n pl NEEMSan East Indian treeNEEP n pl NEEPSa turnipNEG n pl NEGSa photographic negativeNEGATE v NEGATED NEGATING NEGATESto nullifyNEGATER n pl NEGATERSone that negatesNEGATION n pl NEGATIONSthe act of negatingNEGATIVE v NEGATIVED NEGATIVING NEGATIVESto vetoNEGATON n pl NEGATONSnegatronNEGATOR n pl NEGATORSnegaterNEGATORY adj expressing negationNEGATRON n pl NEGATRONSan electronNEGLECT v NEGLECTED NEGLECTING NEGLECTSto fail to pay attention toNEGLIGE n pl NEGLIGESnegligeeNEGLIGEE n pl NEGLIGEESa womans dressing gownNEGROID n pl NEGROIDSmember of the black raceNEGRONI n pl NEGRONISan alcoholic beverageNEGUS n pl NEGUSESan alcoholic beverageNEIF n pl NEIFSnieveNEIGH v NEIGHED NEIGHING NEIGHSto utter the cry of a horseNEIGHBOR v NEIGHBORED NEIGHBORING NEIGHBORSto live close toNEIST adj nextNEITHER adj not one or the otherNEKTON n pl NEKTONSfreeswimming marine animalsNEKTONIC adjNELLIE n pl NELLIESan effeminate maleNELLY n pl NELLIESnellieNELSON n pl NELSONSa wrestling holdNELUMBO n pl NELUMBOSan aquatic herbNEMA n pl NEMASa nematodeNEMATIC n pl NEMATICSa liquid crystal in a particular phaseNEMATODE n pl NEMATODESa kind of wormNEMESIA n pl NEMESIASa flowering African plantNEMESIS n pl NEMESESa formidable opponentNENE n pl NENESa Hawaiian gooseNEOCON n pl NEOCONSa neoconservativeNEOLITH n pl NEOLITHSan ancient stone implementNEOLOGY n pl NEOLOGIESa new word or phraseNEOLOGIC adjNEOMORPH n pl NEOMORPHSa type of biological structureNEOMYCIN n pl NEOMYCINSan antibiotic drugNEON n pl NEONSa gaseous elementNEONED adjNEONATE n pl NEONATESa newborn childNEONATAL adjNEOPAGAN n pl NEOPAGANSone who practices a modern form of paganismNEOPHYTE n pl NEOPHYTESa noviceNEOPLASM n pl NEOPLASMSa tumorNEOPRENE n pl NEOPRENESa synthetic rubberNEOTENY n pl NEOTENIESattainment of sexual maturity in the larval stageNEOTENIC adjNEOTERIC n pl NEOTERICSa modern authorNEOTYPE n pl NEOTYPESa specimen of a speciesNEPENTHE n pl NEPENTHESa drug that induces forgetfulnessNEPETA n pl NEPETAScatnipNEPHEW n pl NEPHEWSa son of ones brother or sisterNEPHRIC adj renalNEPHRISM n pl NEPHRISMSill health caused by a kidney diseaseNEPHRITE n pl NEPHRITESa mineralNEPHRON n pl NEPHRONSan excretory unit of a kidneyNEPOTISM n pl NEPOTISMSfavoritism shown to a relativeNEPOTIC adjNEPOTIST n pl NEPOTISTSone who practices nepotismNERD n pl NERDSa socially inept personNERDISH adjNERDY adj NERDIER NERDIESTsocially ineptNEREID n pl NEREIDSa sea nymphNEREIS n pl NEREIDESa marine wormNERITIC adj pertaining to shallow waterNEROL n pl NEROLSa fragrant alcoholNEROLI n pl NEROLISa fragrant oilNERTS interj  used to express defianceNERTZ interj nertsNERVATE adj having veinsNERVE v NERVED NERVING NERVESto give courage toNERVIER comparative of nervyNERVIEST superlative of nervyNERVILY adv in a nervy mannerNERVINE n pl NERVINESa soothing medicineNERVING n pl NERVINGSa type of veterinary operationNERVOUS adj easily excitedNERVULE n pl NERVULESnervureNERVURE n pl NERVURESa vascular ridge on a leafNERVY adj NERVIER NERVIESTimpudentNESCIENT n pl NESCIENTSone who is ignorantNESS n pl NESSESa headlandNEST v NESTED NESTING NESTSto build a nest a structure for holding bird eggsNESTABLE adj capable of being fitted closely within another containerNESTER n pl NESTERSone that nestsNESTFUL n pl NESTFULSas much as a nest can holdNESTLE v NESTLED NESTLING NESTLESto lie snuglyNESTLER n pl NESTLERSone that nestlesNESTLIKE adj resembling a nestNESTLING n pl NESTLINGSa young birdNESTMATE n pl NESTMATESa bird sharing a nest with anotherNESTOR n pl NESTORSa wise old manNET v NETTED NETTING NETSto catch in a net a type of openwork fabricNETBALL n pl NETBALLSa team game similar to basketballNETBOOK n pl NETBOOKSa small portable computerNETFUL n pl NETFULSas much as a net can holdNETHER adj situated belowNETIZEN n pl NETIZENSa frequent user of the InternetNETLESS adj having no netNETLIKE adj resembling a netNETOP n pl NETOPSfriend companionNETROOTS npl political activists at the basic level of society who communicate via the InternetNETSUKE n pl NETSUKESa buttonlike fixture on Japanese clothingNETSURF v NETSURFED NETSURFING NETSURFSto browse the Internet for informationNETT v NETTED NETTING NETTSto netNETTABLE adj capable of being nettedNETTED past tense of net nettNETTER n pl NETTERSone that netsNETTIER comparative of nettyNETTIEST superlative of nettyNETTING n pl NETTINGSa netNETTLE v NETTLED NETTLING NETTLESto make angryNETTLER n pl NETTLERSone that nettlesNETTLY adj NETTLIER NETTLIESTpricklyNETTY adj NETTIER NETTIESTresembling a netNETWORK v NETWORKED NETWORKING NETWORKSto cover with or as if with crossing linesNEUK n pl NEUKSnookNEUM n pl NEUMSneumeNEUME n pl NEUMESa sign used in musical notationNEUMATIC NEUMIC adjNEURAL adj pertaining to the nervous systemNEURALLY advNEURAXON n pl NEURAXONSa part of a neuronNEURINE n pl NEURINESa ptomaine poisonNEURITIC n pl NEURITICSone affected with neuritisNEURITIS n pl NEURITISES or NEURITIDESinflammation of a nerveNEUROID adj resembling a nerveNEUROMA n pl NEUROMAS or NEUROMATAa type of tumorNEURON n pl NEURONSthe basic cellular unit of the nervous systemNEURONAL NEURONIC adjNEURONE n pl NEURONESneuronNEUROSIS n pl NEUROSESa type of emotional disturbanceNEUROSAL adjNEUROTIC n pl NEUROTICSone affected with a neurosisNEURULA n pl NEURULAS or NEURULAEa vertebrate embryoNEURULAR adjNEUSTON n pl NEUSTONSan aggregate of small aquatic organismsNEUSTIC adjNEUTER v NEUTERED NEUTERING NEUTERSto castrateNEUTRAL n pl NEUTRALSone that is impartialNEUTRINO n pl NEUTRINOSa subatomic particleNEUTRON n pl NEUTRONSa subatomic particleNEVE n pl NEVESa granular snowNEVER adv at no timeNEVUS n pl NEVIa birthmarkNEVOID adjNEW adj NEWER NEWESTexisting only a short timeNEW n pl NEWSsomething that is newNEWB n pl NEWBSa newbieNEWBIE n pl NEWBIESa newcomerNEWBORN n pl NEWBORNSa recently born infantNEWCOMER n pl NEWCOMERSone that has recently arrivedNEWEL n pl NEWELSa staircase supportNEWFOUND adj newly foundNEWIE n pl NEWIESsomething newNEWISH adj somewhat newNEWLY adv recentlyNEWLYWED n pl NEWLYWEDSa person recently marriedNEWMOWN adj recently mownNEWNESS n pl NEWNESSESthe state of being newNEWS npl a report of recent eventsNEWSBEAT n pl NEWSBEATSa news source that a reporter is assigned to coverNEWSBOY n pl NEWSBOYSa boy who delivers or sells newspapersNEWSCAST n pl NEWSCASTSa news broadcastNEWSDESK n pl NEWSDESKSthe department that receives latebreaking newsNEWSFEED n pl NEWSFEEDSa service that provides news articles for distributionNEWSGIRL n pl NEWSGIRLSa girl who delivers or sells newspapersNEWSHAWK n pl NEWSHAWKSa newspaper reporterNEWSIE n pl NEWSIESnewsyNEWSIER comparative of newsyNEWSIES pl of newsyNEWSIEST superlative of newsyNEWSLESS adj having no newsNEWSMAN n pl NEWSMENa news reporterNEWSPEAK n pl NEWSPEAKSa deliberately ambiguous languageNEWSREEL n pl NEWSREELSa short movie presenting current eventsNEWSROOM n pl NEWSROOMSa room where the news is gatheredNEWSWIRE n pl NEWSWIRESa news agency that transmits news copy to subscribersNEWSY adj NEWSIER NEWSIESTfull of newsNEWSY n pl NEWSIESa newsboyNEWT n pl NEWTSa small salamanderNEWTON n pl NEWTONSa unit of forceNEWWAVER n pl NEWWAVERSa member of a newwave movementNEXT n pl NEXTSthe one that comes immediately afterNEXTDOOR adj located in the next building or roomNEXUS n pl NEXUSESa connection or linkNGULTRUM n pl NGULTRUMSa monetary unit of BhutanNGWEE n pl NGWEEa monetary unit of ZambiaNIACIN n pl NIACINSa B vitaminNIAGARA n pl NIAGARASan outpouring or delugeNIB v NIBBED NIBBING NIBSto provide with a penpointNIBBLE v NIBBLED NIBBLING NIBBLESto eat with small bitesNIBBLER n pl NIBBLERSone that nibblesNIBBLY n pl NIBBLIESa small food itemNIBLICK n pl NIBLICKSa golf clubNIBLIKE adj resembling a penpointNICAD n pl NICADSnickel cadmiumNICE adj NICER NICESTpleasing to the sensesNICELY advNICENESS n pl NICENESSESthe quality of being niceNICETY n pl NICETIESa fine point or distinctionNICHE v NICHED NICHING NICHESto place in a receding space or hollowNICK v NICKED NICKING NICKSto make a shallow cut inNICKEL v NICKELED NICKELING NICKELS or NICKELLED NICKELLING NICKELSto plate with nickel a metallic elementNICKELIC adj pertaining to or containing nickelNICKER v NICKERED NICKERING NICKERSto neighNICKLE v NICKLED NICKLING NICKLESto nickelNICKNACK n pl NICKNACKSa trinketNICKNAME v NICKNAMED NICKNAMING NICKNAMESto give an alternate name toNICOISE adj served with black olives tomatoes olive oil and often anchoviesNICOL n pl NICOLSa type of prismNICOTIN n pl NICOTINSnicotineNICOTINE n pl NICOTINESa poisonous alkaloid in tobaccoNICTATE v NICTATED NICTATING NICTATESto winkNIDAL adj pertaining to a nidusNIDATE v NIDATED NIDATING NIDATESto become implanted in the uterusNIDATION n pl NIDATIONSthe act of nidatingNIDE v NIDED NIDING NIDESto nestNIDERING n pl NIDERINGSa cowardNIDGET n pl NIDGETSan idiotNIDI a pl of nidusNIDIFY v NIDIFIED NIDIFYING NIDIFIESto nestNIDING present participle of nideNIDUS n pl NIDUSES or NIDIa nest or breeding placeNIECE n pl NIECESa daughter of ones brother or sisterNIELLIST n pl NIELLISTSone that niellosNIELLO n pl NIELLOS or NIELLIa black metallic substanceNIELLO v NIELLOED NIELLOING NIELLOSto decorate with nielloNIENTE adv softly fading away  used as a musical directionNIEVE n pl NIEVESthe fist or handNIFF v NIFFED NIFFING NIFFSto stinkNIFFER v NIFFERED NIFFERING NIFFERSto barterNIFFY adj NIFFIER NIFFIESTstinkyNIFTY adj NIFTIER NIFTIESTstylish pleasingNIFTILY advNIFTY n pl NIFTIESsomething that is niftyNIGELLA n pl NIGELLASan annual herbNIGGARD v NIGGARDED NIGGARDING NIGGARDSto act stingilyNIGGLE v NIGGLED NIGGLING NIGGLESto worry over petty detailsNIGGLER n pl NIGGLERSone that nigglesNIGGLING n pl NIGGLINGSpetty or meticulous workNIGGLY adj NIGGLIER NIGGLIESTpettyNIGH adj NIGHER NIGHESTnearNIGH v NIGHED NIGHING NIGHSto approachNIGHNESS n pl NIGHNESSESthe state of being nighNIGHT n pl NIGHTSthe period from sunset to sunriseNIGHTCAP n pl NIGHTCAPSa cap worn to bedNIGHTIE n pl NIGHTIESa nightgownNIGHTJAR n pl NIGHTJARSa nocturnal birdNIGHTLY adv every night at nightNIGHTY n pl NIGHTIESnightieNIGRIFY v NIGRIFIED NIGRIFYING NIGRIFIESto make blackNIGROSIN n pl NIGROSINSa type of dyeNIHIL n pl NIHILSnothingNIHILISM n pl NIHILISMSa doctrine that denies traditional valuesNIHILIST n pl NIHILISTSan adherent of nihilismNIHILITY n pl NIHILITIESthe state of being nothingNIKAH n pl NIKAHSa Muslim marriage ceremonyNIL n pl NILSnothingNILGAI n pl NILGAISa large antelopeNILGAU n pl NILGAUSnilgaiNILGHAI n pl NILGHAISnilgaiNILGHAU n pl NILGHAUSnilgaiNILL v NILLED NILLING NILLSto be unwillingNIM v NIMMED or NAM NIMMING NIMSto stealNIMBLE adj NIMBLER NIMBLESTagileNIMBLY advNIMBUS n pl NIMBUSES or NIMBIa luminous cloudNIMBUSED adjNIMIETY n pl NIMIETIESexcessNIMIOUS adjNIMMED past tense of nimNIMMING present participle of nimNIMROD n pl NIMRODSa hunterNINE n pl NINESa numberNINEBARK n pl NINEBARKSa flowering shrubNINEFOLD adj nine times as greatNINEPIN n pl NINEPINSa wooden pin used in a bowling gameNINER n pl NINERSa student in the ninth gradeNINETEEN n pl NINETEENSa numberNINETY n pl NINETIESa numberNINJA n pl NINJASa feudal Japanese warriorNINJUTSU n pl NINJUTSUSthe traditional Japanese method of spyingNINNY n pl NINNIESa foolNINNYISH adjNINON n pl NINONSa sheer fabricNINTH n pl NINTHSone of nine equal partsNINTHLY adv in the ninth placeNIOBATE n pl NIOBATESa chemical saltNIOBITE n pl NIOBITESthe mineral columbiteNIOBIUM n pl NIOBIUMSa metallic elementNIOBIC NIOBOUS adjNIP v NIPPED NIPPING NIPSto pinchNIPA n pl NIPASa palm treeNIPPER n pl NIPPERSone that nipsNIPPIER comparative of nippyNIPPIEST superlative of nippyNIPPILY adv in a nippy mannerNIPPING present participle of nipNIPPLE n pl NIPPLESa protuberance on the breastNIPPLED adjNIPPY adj NIPPIER NIPPIESTsharp or bitingNIQAAB n pl NIQAABSniqabNIQAB n pl NIQABSa veil worn by some Muslim womenNIRVANA n pl NIRVANASa blessed state in BuddhismNIRVANIC adjNISEI n pl NISEISone born in America of immigrant Japanese parentsNISI adj not yet finalNISUS n pl NISUSan effortNIT n pl NITSthe egg of a parasitic insectNITE n pl NITESnightNITER n pl NITERSa chemical saltNITERIE n pl NITERIESniteryNITERY n pl NITERIESa nightclubNITID adj brightNITINOL n pl NITINOLSan alloy of nickel and titaniumNITON n pl NITONSradonNITPICK v NITPICKED NITPICKING NITPICKSto fuss over petty detailsNITPICKY adj NITPICKIER NITPICKIESTtending to nitpickNITRATE v NITRATED NITRATING NITRATESto treat with nitric acidNITRATOR n pl NITRATORSone that nitratesNITRE n pl NITRESniterNITRIC adj containing nitrogenNITRID n pl NITRIDSnitrideNITRIDE v NITRIDED NITRIDING NITRIDESto convert into a nitride a compound of nitrogenNITRIFY v NITRIFIED NITRIFYING NITRIFIESto combine with nitrogenNITRIL n pl NITRILSnitrileNITRILE n pl NITRILESa chemical compoundNITRITE n pl NITRITESa salt of nitrous acidNITRO n pl NITROSa nitrated productNITROGEN n pl NITROGENSa gaseous elementNITROLIC adj pertaining to a class of acidsNITROSO adj containing nitrosylNITROSYL n pl NITROSYLSa univalent radicalNITROUS adj containing nitrogenNITTY adj NITTIER NITTIESTfull of nitsNITWIT n pl NITWITSa stupid personNIVAL adj pertaining to snowNIVEOUS adj resembling snowNIX n pl NIXES or NIXEa water spriteNIX v NIXED NIXING NIXESto vetoNIXIE n pl NIXIESa female water spriteNIXY n pl NIXIESan undeliverable piece of mailNIZAM n pl NIZAMSa former sovereign of IndiaNIZAMATE n pl NIZAMATESthe territory of a nizamNO n pl NOS or NOESa negative replyNOB n pl NOBSa wealthy personNOBBIER comparative of nobbyNOBBIEST superlative of nobbyNOBBILY adv in a nobby mannerNOBBLE v NOBBLED NOBBLING NOBBLESto disable a racehorseNOBBLER n pl NOBBLERSone that nobblesNOBBY adj NOBBIER NOBBIESTelegantNOBELIUM n pl NOBELIUMSa radioactive elementNOBILITY n pl NOBILITIESthe social class composed of noblesNOBLE adj NOBLER NOBLESTpossessing qualities of excellenceNOBLE n pl NOBLESa person of high birth rank or titleNOBLEMAN n pl NOBLEMENa nobleNOBLER comparative of nobleNOBLESSE e pl NOBLESSESthe nobilityNOBLEST superlative of nobleNOBLY adv in a noble mannerNOBODY n pl NOBODIESan unimportant personNOCEBO n pl NOCEBOSa harmless substance that induces harmful effects in patients having negative expectationsNOCENT adj harmfulNOCK v NOCKED NOCKING NOCKSto notch a bow or arrowNOCTUID n pl NOCTUIDSa nightflying mothNOCTUOID adjNOCTULE n pl NOCTULESa large batNOCTURN n pl NOCTURNSa religious serviceNOCTURNE n пл рдl NOCTURNE a musical compositionNOCUOUS adj harmfulNOD v NODDED NODDING NODSto briefly lower the head forwardNODAL adj of the nature of a nodeNODALLY advNODALITY n pl NODALITIESthe state of being nodalNODDED past tense of nodNODDER n pl NODDERSone that nodsNODDIES pl of noddyNODDING present participle of nodNODDLE v NODDLED NODDLING NODDLESto nod frequentlyNODDY n pl NODDIESa foolNODE n pl NODESa swollen enlargementNODI pl of nodusNODICAL adj pertaining to an astronomical pointNODOSE adj having nodesNODOSITY n pl NODOSITIESthe state of being nodoseNOBOUS kabiri adj nodoseNODULE pl NODULESa karamin tsukaNODULAR NODULOSE NODULOUS adjNODUS pl NODIa wahala aiNOEL pl NOELSa rairenawaNOES pl of anNOESIS n pl NOESSESthe Butler naDOMETD adjNEAME noIRIOUS advIRISH 'anandaMOTU_B aliminalsNEAVEN awEVIDERING damalgeb_M (ge_M)."""
+```
+shigarwa(oaf, n, [oafs], "ko OAVES mutum mai shiga-shiga mai hankali OAFISH adj OAFISHLY adv").
+entry(dabi, n, [dabi], "itacen itace mai tauri ko shrub OAKEN OAKLIKE adj").
+entry(oaked, sif, [], "ya girma a cikin akwati na itacen oak").
+entry(danwarkin, n, [danwarkinai], "halin ko matsayin kasancewa danwarki").
+entry(oakmoss, n, [oakmosses], "wani nau'in tsiro mai karaun fata wanda ke girma akan itacen oak").
+entry(oakum, n, [oakums], "zarenta hemp da aka nadewa gabaɗaya").
+entry(oaky, adi, [], "OAKIER OAKIESTmai ɗanɗano na ruwan itacen oak").
+entry(oar, v, [gaggawa, gogewa, goga], "don gani yare pole mai tsawo da fadi").
+entry(kifi_na_ruwa, n, [kifi_na_ruwa], "kifi mai rayuwa a teku").
+entry(oarless, adj, [], "babu mayarin ruwa").
+entry(kamar-rubashi, adj, [], "mai kama da rubashi").
+entry(madugun-sauka, n, [madugunan-sauka], "na'ura don rike sauka a wurin").
+entry(maja, n, [maja], "mutumin da ke tuka jirgin ruwa").
+entry(gona, n, [gonaki], "wani fili mai kore a yankin hamada").
+entry(tandã, n, [tandãtã], "wani nau'in tanda").
+entry(rogo, n, [rogon], "wani ciyawa ne na hatsi").
+entry(oatcake, n, [oatcakes], "waina da aka yi da garin shinkafa").
+entry(oaten, aj, [], "game da hatsi").
+entry(oater, n, [oaters], "fim na kowboy").
+entry(rantsuwa, n, [rantsuwoyi], "furucin da ake yi cikin tsanaki ko alkawari domin cika wani alƙawari").
+entry(oatlike, sif, [], "kamar shinkafa").
+entry(shinkafa, n, [shinkafas], "abinci da aka yi da shinkafa").
+shigarwa(oaty, sif, [], "TAMBARI OATIYEn wanda ke ɗanɗano ko ƙamshin shinkafar oat").
+entry(oaves, a, [], "jam'i na oaf").
+entry(oba, n, [obas], "shugaba na gadon gado a Benin da Nijeriya").
+entry(obconic, sif, [], "mai siffar conical da tsinin kasa").
+entry(obduracy, n, [obduracies], "halin ko yanayin kasancewa mai taurin kai").
+entry(obdurate, adj, [], "matsantun").
+entry(obe, n, [obes], "obeah").
+entry(obeah, n, [obeahs], "wani irin sihiri na asalinsa daga Afrika").
+entry(obeahism, n, [obeahisms], "amfani da obea").
+entry(m, siffa, [], "bin ko kokarin yin biyayya").
+entry(mutunci, adi, [], "nuna girmamawa ko ladabi").
+entry(obeli, pl, [], "na obelus").
+entry(obelia, n, [obelias], "wani ruwa hydroid").
+entry(obelise, v, [obelised,obelising,obelises], "obeliza").
+entry(obelisk, n, [biliskin], "dutse mai gefuna hudu da yake da rufi kamar na alwatika").
+entry(obeliza, n, [obelizai], "ayin obeliza").
+entry(obelize, v, [obelized,obelizing,obelizes], "sanya alamar obelus").
+entry(obelus, n, [obeli], "wani alamar da ake amfani da shi a rubutun d\u00e0 a rubuta na d\u00e0 don nuna wuri mai shakku").
+entry(obento, n, [obento-obento], "abinci irin na Japan da aka shirya a cikin akwati").
+entry(kiba, siffofi, [], "mai kiba sosaiOBESELY adv").
+entry(kitso, n, [kitso-kitson], "halin ko yanayin kasancewa mai kiba.").
+entry(biya, v, [biyaye, biyawa, biya], "bi umarnin ko jagorancin").
+entry(obeyer, n, [masu_biya], "wanda ke bi").
+entry(obi, n, [obis], "obeah").
+entry(obia, n, [obias], "obeah").
+entry(obiism, n, [obiisms], "obeahism").
+entry(obit, n, [obits], "shawarar mutuwa").
+entry(ta'aziya, n, [ta'aziyoyi], "sanarwa da aka wallafa na mutuwa").
+entry(object, v, [ƙin, ƙinwa, ƙinai], "yin jayayya a madadin adawa").
+entry(objector, n, [objectors], "wanda ya ki yarda").
+entry(objet, n, [abu], "wani abu mai daraja ta fuskar fasaha").
+entry(oblast, n, [oblasts], "ko OBLASTIbangare na gudanarwa na Rasha").
+entry(oblate, n, [oblates], "wanda ba firist ba ne yana zaune a gidan sufi").
+entry(oblately, adv, [], "a cikin siffar elliptical").
+entry(hadaya, n, [hadayu], "aikin bada hadaya ta addiniHADAYA adj").
+entry(tilasta, v, [tilastacce, tilastawa, tilasta], "tilasta").
+entry(obligato, n, [obligatos], "ko OBLIGATIwani muhimmin ɓangare na kiɗa").
+entry(tursasa, v, [tursasawa,tursasa,tursasai], "sanya bashi ta hanyar alheri ko hidima").
+entry(obligee, n, [obligees], "wanda ya wajaba").
+entry(obliger, n, [obligers], "wanda ke tilasta").
+entry(obliging, present, [], "chanzuwan kalma na oblige").
+entry(obligor, n, [obligors], "wanda ya sanya kansa a ƙarƙashin wajibi na doka").
+entry(oblique, v, [fadda, keɓewa, na karkata], "to slant").
+entry(mantuwa, n, [mantuwa], "halin mantuwa ko aikin mantawa").
+entry(oblong, n, [oblongs], "wani abu da yake da tsawo elongated").
+entry(oblongly, adv, [], "a cikin sifar oblong").
+shigarwa(obloquy, n, [obloquies], "yaren cin zarafi").
+entry(obo, n, [obo-obo], "kayan kiɗan iska na itace").
+entry('mai busa obo', n, ['yan busa obo'], "wanda ke busa obo").
+entry(obol, n, [obol], "kudi na tsohuwar Girka").
+entry(obole, n, [oboles], "kuɗin tsabar kudi na zamanin tsakiyar Faransa").
+entry(obolus, n, [oboli], "obol daya").
+entry(obovate, adi, [], "siffar ova tare da kunkuntar ɓangaren a tushe").
+entry(obovoid, saj, [], "mai kamar kwai tare da ƙaramin ɓangare a gefen tushe").
+entry(tsiraici, adj, [], "TSIRAICIYA TSIRAICIYAINDAYE").
+entry(m, sifa, [], "MAI-DUHU KO MAI-RA'AYIN GURBIN").
+entry(maboye, v, [maboye, maboyewa, maboyanne], "yin abu kamar ba kwa a sarari ba").
+entry(obsequy, n, [bikin jana'iza], "wani al'adar binne mamaci").
+entry(kallona, v, [kallo, kallon, kallu], "duba cikin kula").
+entry(maibin, n, [maibinai], "wanda ke lura").
+entry("obsess", fi'il, ["ya kama hankali", "yana kama hankali", "sai ya kama hankali"], "don ya mamaye tunani").
+entry(obsessor, n, [obsessors], "wani abu da ke sa rudani").
+entry(obsidian, n, [obsidians], "gilashi na dutsen wuta").
+entry(tsufa, v, [tsufa, tsufarwa, tsufe], "yin tsofata").
+entry(tarko, n, [tarukan], "wani abu da ke hana gudu ko ci gaba").
+entry(hana, v, [hanaa,hânâwa,hanaa], "to shiga cikin hanyar").
+entry(samu, v, [samuwa,samun,samuna], "don mallakar abu").
+entry(maimaka, n, [maimaka], "wanda ya samu").
+entry(obtect, sif, [], "rufe ta hanyar wani kuzarin da aka taurare").
+entry(obtected, siffa, [], "obtect").
+entry(obtest, v, [obtested,obtesting,obtests], "roƙo").
+entry(tsoma, v, [tsomawa, tsoma, tsomai], "zurawa gaba").
+entry(obtruder, n, [obtruders], "wanda ke tsoma baki").
+entry(obtund, v, [obtunded,obtunding,obtunds], "sanya kasala").
+entry(rufe, v, [rufaffiye,rufawa,rufe], "to close or stop up").
+entry(obtuse, adj, [], "BATATACCIYA MAI BATATUWa MaimaiHancin BATATATWAsa adv").
+```prolog
+entry(obtusity, n, [obtusities], "yanayin kasancewa marar fahimta").
+```
+entry(obverse, n, [obverses], "ɓangaren tsabar kuɗi da ke ɗauke da babban zane").
+entry(juya, v, [juya, juyawa, juyawa], "juya domin nuna wani fuska dabam").
+entry(obviate, v, [obviated,obviating,obviates], "don hana ko kawar da wani abu ta hanyar matakan da suka daceOBVIABLE adi").
+entry(mahana, n, [mahanan], "wanda ke kawar da matsala").
+entry(obvious, adj, [], "a bayyane ake ganewa ko fahimta").
+entry(obvolute, sif, [], "nadi ko juya a ciki").
+entry(oca, n, [ocas], "wani ciyawa na Kudancin Amurka").
+shiga(ocarina, n, [ocarinas], "kayan kida na iska").
+entry(al'amari, v, [sanadi,sanadiya,saboda], "sanadi").
+entry(yamma, n, [yamme], "yamma").
+entry(occiput, n, [occiputs], "ko OCCIPITA ɓangaren bayan kai").
+entry(rufe, v, [rufewa, rufewa, rufe], "rufe ko toshe").
+entry(occlusal, adj, [], "mai alaka da saman taunan hakori").
+entry(ƙunsa, v, [ƙunshe, ƙunsarwa, ƙunshi], "ɓoye").
+entry(makashin, n, [makasa], "wanda ya ɓoye").
+entry(occultly, adv, [], "a asirtacce").
+entry(mai_zaune, n, [mazauna], "wanda ya zauna").
+entry(mazaunin, n, [mazauna], "wanda yake zaune").
+entry(riƙe, v, [riƙe,riƙawa,riƙa], "don shagaltar da hankali ko kuzari").
+entry(faru, v, [ya_farune, yana_faruwa, suna_faruwa], "ya faru").
+entry(teku, n, [tekuna], "babban ruwan gishiri da ya rufe mafi yawan fadin duniya OCEANIC adj").
+entry(dan teku, n, [yan teku], "wani mai bincike a teku").
+entry(ocellar, sif, [], "mai alaƙa da ocellus").
+entry(ocellate, siffofi, [], "mai ocelli").
+entry(ocellus, n, [ocelli], "ido ƙarami mai sauƙi").
+entry(ocelot, n, [ocelots], " wani nau'in janrawan Amurka OCELOID adj").
+entry(och, interj, [], "an yi amfani da shi don nuna mamaki ko nadama").
+entry(oche, n, [oches], "layin da 'yan wasa suke tsayawa a baya lokacin da suke jefa darts").
+entry(ocher, v, [ochered,ochering,ochers], "yi wa fata da jan ko rawaya menene yin amfani da launi a matsayin manja").
+entry(ocherin, sif, [], "mai kama da ocher").
+entry(ocheroid, sif, [], "mai zinari").
+entry(ocherous, adj, [], "mai ɗauke da ko kuma mai kama da ƙasa ruwan zinariya").
+entry(ochery, sif, [], "mai launin idi").
+entry(ochone, interj, [], "ana amfani da shi don bayyana jimami").
+entry(ochre, v, [ochred,ochring,ochres], "yi kamar ƙasa mai launin zinariya").
+entry(ochrea, n, [ochreae], "ko OCHREASocrea").
+entry(ochreous, sif, [], "ocherous").
+entry(ochring, yana nan, [], "ism mai lokaci na ochre").
+entry(ochroid, adi, [], "mai launin ruwan dorawa").
+entry(ochrous, sif, [], "mai launin ruwan kasa").
+entry(ochry, adj, [], "mai launin rawaya").
+entry(ocicat, n, [motsocin], "kattin gida mai gajeren fata mai tabo-tabon launi").
+entry(ocker, n, [ockers], "mutum mai ban haushi").
+entry(ocotillo, n, [ocotillos], "wani shrubs na ƙasar Mexico").
+entry(ocrea, n, [ocreae], "ko OCREAS wani ɓangaren shuka mai nadi").
+entry(ocreate, siffofi, [], "yana da ocreae").
+entry(octad, n, [octads], "kungiyar mutane takwasOCTADIC adj").
+entry(octagon, n, [octagons], "wani shakar mai bangarori takwas").
+entry(octal, sif, [], "mai dangantaka da tsarin lamba mai tushen takwas").
+shigar(octan, n, [octans], "zazzabi da ke dawowa bayan kowanne rana ta takwas").
+entry(octane, n, [octanes], "wani ruwa na hydrocarbon").
+shigarwa(octangle, n, [octangles], "wani takwasangulu").
+entry(oktanol, n, [oktanols], "wani giya").
+entry(octant, n, [octants], "daya bisa takwas na da'irarOCTANTAL adj").
+entry(octarchy, n, [octarchies], "gwamnati da mutane takwas").
+entry(octave, n, [oktavovi], "irin tazara ta kiɗa OKTAVAL adj").
+entry(octavo, n, [octavos], "girman shafi").
+shigar(octet, n, [octets], "ƙungiyar takwas").
+entry(octette, n, [takwas], "takwas").
+entry(octonari, n, [octonari], "baitin da aka yi da layuka takwas").
+entry(dabba_bakwai, n, [dabban_bakwai], "kowanne na daga jerin mollusk mai hannaye takwas").
+entry(octopoid, sif, [], "mai kama da kwalekwale").
+entry(kifi, n, [kananan-kifi], "ko KIFI KO KIFIDEa dabba mai inuwa da yawa yanayin dare mai hannu goma").
+entry(octoroon, n, [octoroons], "mutumin da yake da kashi daya cikin takwas na zuriyarsa daga baƙar fata").
+entry(haraji, n, [haraji], "haraji akan wasu kaya da aka shigo da su cikin birni").
+entry(octuple, v, [octupled, octupling, octuples], "ninka ta takwas").
+entry(octuplet, n, [octuplets], "ƙungiya ta abubuwa takwas da suka shafi juna").
+entry(octuplex, sifili, [], "na ninki takwas").
+entry(octupling, yanzu, [], "matakin aiwatar da octuple").
+entry(octuply, adv, [], "zuwa matakin sau takwas").
+entry(octyl, n, [octyls], "wani wakilin univalent").
+entry(ocular, n, [oculars], "madubin ido").
+entry(ocularly, adv, [], "ta hanyar gani ko hangen nesa").
+entry(likitancin ido, n, [likitancin idanu], "likita da ke maganin cututtukan ido").
+entry(oculus, n, [oculi], "tagar zagaye").
+entry(od, n, [ods], "karfin dabi'a na jiki da ake zato").
+entry(daki, n, [dakuna], "dakin a cikin gidan maseefar sarki").
+entry(odah, n, [odahs], "oda").
+entry(odalisk, n, [odalisks], "bawa mace a cikin harem").
+entry(mako, sif, [], "BAƙIN DARI BAƙIN DARI'n gasa").
+entry(makwabci, n, [makwabctan], "wanda ba wannan ba").
+entry(oddball, n, [oddballs], "mutum wanda ba ya bin gargajiya").
+entry(dan-mahaukaci, sif, [], "dan kadan dai-dai ba").
+shigarwa(abin-mamaki, n, [abubuwan-mamaki], "wanda ke da ban mamaki").
+entry(oddly, adv, [], "a cikin wata hanya mai ban mamaki").
+entry(oddment, n, [ragowar], "wani saura").
+entry(oddness, n, [oddnesses], "halin kasancewa da ban mamaki").
+shigarwa(waƙa, n, [waƙoƙi], "waƙar baituka").
+entry(odeon, n, [odeons], "wurin nuni").
+entry(odeum, n, [odeums], "ko ODEAa ɗakin wasan kwaikwayo ko ɗakin kide-kide").
+entry(odic, sif, [], "wanda ya shafi waka").
+entry(makiyayi, adj, [], "mai hakkin ko mai haifar da kiyayya").
+entry(odist, n, [odists], "wanda ke rubuta wakoki").
+entry(kiyaya, n, [kiyayoyi], "matsanancin kiyayya").
+entry(odograf, n, [odografs], "odometer").
+entry(odometar, n, [odometars], "na'ura don auna nisan da aka yi tafiya").
+entry(odometry, n, [odometries], "tsarin amfani da odometer").
+entry(odonata, npl, [], "kwari na wani oda na kwari masu farauta").
+entry(odonati, n, [odonata], "duk wani daga umarni na kwari masu farauta").
+entry(odontoid, n, [odontoids], "tsarin kashin baya na dabam wanda yake kama da hakori").
+entry(kamshi, n, [kammashai], "siffar wani abu da ke tasiri a kan hankalin kamshiKAMSHI MAI KAMSHI adj").
+entry(odorant, n, [kamshi], "wata sinadarin da ke da kamshi").
+entry(ƙanshi, v, [ƙanshantar,ƙanshantarwa,ƙanshantarwa], "don sanyawa da ƙanshi").
+entry(mahaɗaƙamshi, n, [mahaɗaƙamshi], "wanda yake ƙara ƙamshi").
+entry(mara_kamshi, sif, [], "ba shi da kamshi").
+entry(mainya, adj, [], "mai kamshi").
+entry(ƙamshi, n, [ƙamshinsu], "ƙamshiODOURFUL adj").
+entry(odyl, n, [odyls], "wani od").
+entry(odyle, n, [odyles], "odyl").
+entry(odyssey, n, [odysseys], "tafiyar dogon zazzagewaODYSSEAN sif.").
+entry(oe, n, [oes], "guguwa mai ƙarfi a tsibiran Faeroe").
+entry(oecology, n, [oecologies], "ilimin halittu").
+entry(edima, n, [edimas], "ko OEDEMATAedima").
+entry(oedipal, sif, [], "mai dangantaka da ji na sha'awa a wajen yaro ga mahaifi na jinsin da ya saba").
+entry(oedipean, sif, [], "na Oedipus").
+entry(oeillade, n, [oeillades], "kallo mai soyayya").
+entry(studin giya, n, [studin giya], "karatun giya").
+shigarwa(oenomel, n, [oenomels], "abin sha na tsohuwar Girka wanda aka yi da ruwan inabi da zuma").
+entry(oersted, n, [oersteds], "wani rukunin tsananin maganadiso").
+entry(oestrin, n, [oestrins], "estrin").
+shiga(oestriol, n, [oestriols], "oestradiol").
+entry(oestrone, n, [oestrones], "estrone").
+entry(oestrous, sif, [], "na al'ada").
+entry(oestrual, siffofi, [], "estrual").
+entry(oestrum, n, [oestrums], "tsawon lokaci na al'ada").
+entry(oestrus, n, [oestruses], "estrus").
+entry(aikin_fasaha, n, [aikin_fasaha], "a work of art").
+entry(na, harafi, [], "zuwa daga").
+entry(off, v, [offed,offing,offs], "ta tafiya").
+entry(hakarkari, n, [hakarkari], "abu da aka kora").
+entry(offbeat, n, [offbeats], "bugun da ba na munzali ba a cikin kida").
+entry(offcast, n, [offcasts], "wani abin da aka yar").
+entry(yanki, n, [yankuna], "wani abu da aka yanke").
+entry(keta, n, [ketare], "laifi").
+entry(kaita, v, [kaite,kaita,kaikai], "yin wani laifi").
+entry(masu_laifi, n, [masu_laifai], "wanda ya aikata laifi").
+entry(hannu, n, [hannuwa], "saba wa dokar ɗabi'a ko al'ada").
+entry(offer, v, [miƙa, miƙar, miƙe], "don gabatarwa domin amincewa ko ƙi").
+entry(mai-karɓa, n, [mai-karɓa], "wanda aka yi wa tayin").
+entry(maita, n, [masu_maita], "wanda ke bayarwa").
+entry(tafiye-tafiye, n, [hadayu], "gudunmawa").
+entry(masu-ba-da, n, [masu-ba-da-dama], "mai bai wa").
+entry(ba makami ba, adv, [], "ba tare da shiri ba").
+entry(ofishi, n, [ofisoshi], "matsayi na iko").
+entry(officer, v, [officered,officering,officers], "don wadata da jami'ai masu rike da mukamai na iko").
+entry(mai, n, [ma'aikata], "wanda yake da matsayi na iko").
+entry(offing, n, [offings], "nan gaba kadan").
+entry(offish, siffofi, [], "aloofOFFISHLY adv").
+entry(offkey, sif, [], "wanda ya fi tsawo ko ya kasa daidai da sautin kiɗa nawa").
+entry(offline, sif, [], "ba a haɗe da cibiyar sadarwa ta kwamfuta ba").
+entry(offload, v, [offloaded,offloading,offloads], "zuwa sauke kaya").
+entry(offprint, v, [offprinted,offprinting,offprints], "buga wata ɓangare daga wani littafi").
+entry(offramp, n, [hanun hanya], "hanya da ke barin hanyar mota").
+entry(matsayi, v, [matsayi,matashiya,matsayoyi], "don biya diyya ga").
+entry(reshe, n, [reshe], "wannee reshe daga babban sanda").
+entry(teku, n, [tekuna], "wani yanki na ƙasa da ke cikin ruwa mai zurfi daga bakin ruwa").
+entry(baɓale, n, [baɓalai], "wasa na ƙwallon ƙafa ba daidai ba").
+entry(kafaɗar_sawu, n, [kafaɗar_sawu], "wani ɓangare na mataki da bai bayyana ga masu sauraro ba").
+entry(bata, sif, [], "nesa da hanyar gudu").
+entry(oft, adv, [], "AKAI-AKAI AKAI-AKAI OFTEN").
+entry(sau da yawa, adv, [], "sau da yawa sau da yawa akai-akai").
+entry(ofttimes, adv, [], "sau da yawa").
+entry(ogam, n, [ogams], "ogham").
+entry(ogdoad, n, [ogdoads], "ƙungiya ta takwas").
+entry(ogee, n, [ogees], "wata siffar S mai kamar gyaraOGEED adj").
+entry(ogham, n, [oghams], "harafin tsohuwar Irish OGHAMIC adj").
+entry(oghamist, n, [oghamists], "wanda yake rubuta a ogham").
+entry(ogive, n, [ogives], "baka mai nuniOGIVAL adj").
+entry(kalle, v, [kallene,kallon,kallewa], "kallon ido").
+entry(mai-yiwoyi, n, [masu-yiwoyi], "wanda ke yiwoyi").
+entry(mutana, n, [mutane], "wani aljan").
+entry(ogreish, sif, [], "kamar aljani").
+entry(ogreism, n, [ogreisms], "yanayin kasancewa kamar ogre").
+entry(mahaukaciya, n, [mahaukaciyoyi], "ogre mace").
+entry(ogrish, sif, [], "kamar azzalumin OGRISHLY mai azzalumanci adv").
+entry(ogrism, n, [ogrisms], "ograyizim").
+entry(oh, v, [ohed, ohing, ohs], "yin ihu cikin mamaki, zafi, ko sha'awa").
+entry(ohia, n, [ohias], "lehua").
+entry(ohm, n, [ohms], "wani rukuni na juriya a lantarkiOHMIC adj").
+entry(ohmage, n, [ohmages], "juriya ta lantarki da aka auna a cikin ohms").
+entry(ohmmeter, n, [ohmmeters], "wani na'ura don auna ohmage").
+entry(oho, interj, [], "yana nufin nuna mamaki ko jin daɗi").
+entry(oi, interj, [], "oy").
+entry(oidium, n, [oidia], "wani nau'in tsiro na fungusOIDIOID adj").
+entry(oik, n, [oiks], "mutum mai rashin kunya ko wawanci mai girma").
+entry(man fetur, v, [man fetura, na man fetur, man fetura], "don samar da fetur wani mai mai mai amfani a matsayin lubricant, mai, ko fitila").
+entry(tsuntsunmai-mai, n, [tsuntsun mai-mai], "wani tsuntsun da ke zama a yankin zafi").
+entry(oilcamp, n, [sansaninoil], "wurin zama ga ma'aikatan rijiyar mai").
+entry(kofinman, n, [kofinmanan], "kwantena don sanya man shafawa").
+entry(oilcloth, n, [oilcloths], "zane mai hana ruwa").
+entry(kofinmai, n, [kofimai], "wani kofin rufe don samar da mai mai sulhu").
+entry(oiler, n, [mai], "wanda ke shafa mai").
+entry(filin mai, n, [filayen mai], "wani yanki wanda yake samar da man fetur").
+entry(raminmai, n, [ramanmai], "rami wanda ake zuba man shafawa ta ciki").
+entry(oilier, comparative, [], "na mai").
+entry(mayewa, bambanci, [], "na mai").
+entry(oilily, adv, [], "a cikin hanyar mai").
+entry(yawan-mai, n, [yawan-mai], "hali na kasancewa mai mai").
+entry(mai-mai, n, [masu-mai], "wanda yake da ko yake sarrafa rijiyoyin mai").
+entry(takarda_maiko, n, [takardu_maiko], "takarda mai jure ruwa").
+entry(oilproof, adj, [], "mai hanawa mai shigar jiki").
+entry(irin man ja, n, [irin man ja], "irin da ake matse man fetur daga ciki").
+entry(fatar-ganga, n, [fatar-ganga], "tufafi mara ruwa").
+entry(oilstone, n, [oilstones], "dutse don kaifafa kayan aiki").
+entry(oiltight, ajj, [], "kasancewa a matse sosai don hana wucewar mai").
+entry(oilway, n, [oilways], "tasha ta man fetur").
+shigarwa(oily, sif, [], "MAFI MAI MAFI MAMAIrufaffilen ko tsomaffilen da mai").
+entry(gunguni, v, [gunguniya,gunguniya,gunguna], "a yi gurnani na dabi'ar alade").
+entry(kimiyyar giya, n, [kimiyyar giya], "oenology").
+entry(oinomel, n, [oinomels], "oenomel").
+entry(mansa, n, [mansoshi], "wani nau'in shafe-shafe da ake amfani da shi a fata a matsayin magani ko kayan kwalliya").
+entry(oiticica, n, [oiticicas], "itwa daga kudancin Amurka").
+entry(oka, n, [okas], "ƙima ta nauyin Turkiyya").
+entry(okapi, n, [okapi], "dabbobin ciyawa na Afirka").
+entry(okay, v, [okayed,okaying,okays], "amincewa").
+entry(oke, n, [okes], "oka").
+entry(okeh, n, [okehs], "yarda").
+entry(okeydoke, sif, [], "madalla daidai").
+entry(okra, n, [okra], "ciyawa mai tsawo da ake shuka duk shekara").
+entry(kekas, sif, [], "MAFI DAD'EWA KO MAFI TSUFA YANA RAYUWA KO YANA WANI LOKACI MAI TSAYI").
+entry(tsofaffi, n, [tsaffi], "wani mutum da aka bayyana shekarunsa").
+entry(tsoho, siffofi, [], "old").
+entry(da, sifa, [], "mai nuni ga zamanin da ya gabata").
+entry(tsoho, n, [tsoffi], "waƙar da ta shahara a zamanin baya").
+entry(danjimla, sif, [], "kadan tsufa").
+entry(tsufa, n, [tsufas], "hallayar kasancewa tsoho").
+entry(dadaddiyar agwagwa, n, [dadaddiyoyin agwagwa], "wani agwagwar teku").
+entry(tsoho, n, [tsoffi], "babban mutum").
+entry(tsofaffura, n, [tsofaffura], "wani salo na buga haruffa").
+entry(tsufaffiya, n, [tsufaffiya], "kifi na teku").
+entry(oldy, n, [tsofaffi], "tsoho").
+entry(ole, n, [oles], "wakokin yabo").
+entry(olea, pl, [], "na oleum").
+entry(oleander, n, [oleanders], "bishiyar fure").
+entry(oleaster, n, [oleasters], "wani shuka mai fure").
+entry(oleate, n, [oleates], "gishirin sinadarai").
+entry(olefin, n, [olefins], "wani alkeneOLEFINIC adj").
+shigarwa(olefine, n, [olefines], "olefin").
+entry(oleic, sif, [], "mai alaƙa da mai").
+entry(olein, n, [oleins], "ɓangaren mai mai ruwa").
+shigarwa(oleine, n, [oleines], "olein").
+entry(oleo, n, [oleos], "margarine").
+entry(olestra, n, [olestras], "wani madadin kitse mara kalori").
+entry(oleum, n, [oleums], "ruwan lalatacce").
+entry(oleum, n, [olea], "mai").
+entry(olibanum, n, [olibanums], "wani turaren man'shanu").
+entry(olicook, n, [olicooks], "waina").
+entry(oligarch, n, [oligogu], "mai mulki a gwamnati ta 'yan tsiraru").
+entry(oligomer, n, [oligomers], "wani irin polymer").
+entry(oliguria, n, [oligurias], "ragewar fitsarin jikiOLIGURIC adj").
+entry(olingo, n, [olingos], "wani ƙaramin dabba na Amurka ta Tsakiya da ta Kudu").
+entry(olio, n, [olios], "wani taro na abubuwa daban-daban").
+entry(olivary, sif, [], "siffar zaitun").
+entry(zaitun, n, [zaitun], "kananan 'ya'yan itacen da ke fito wa al'ummomin yankin Mediterranean").
+entry(olivine, n, [olivines], "wani ma'adiniOLIVINIC adj").
+entry(olla, n, [ollas], "tukunyar da ke da bakin da ya fadi").
+entry(ollie, v, [ollied, ollieing, ollies], "yi salon motsi a cikin wasan skateboard ko snowboard").
+entry(ologist, n, [ologists], "kwararre a cikin wata takamaiman ilimin kimiyya").
+entry(ology, n, [ologies], "sashen ilimi").
+entry(oloroso, n, [olorosos], "wani sherry mai duhu").
+entry(olympiad, n, [olympiadodi], "bikin Wasannin Olympic").
+entry(om, n, [oms], "wani manzo da ake amfani da shi wajen yin tunani kan hakikanin gaskiya").
+entry(oma, n, [omas], "kakaa").
+entry(omadhaun, n, [omadhauns], "mutum wawa").
+entry(mulutaf, n, [mulatai], "cikinsa na uku na dabbobin da ke da seluna").
+entry(omber, n, [ombers], "inuwarsa").
+entry(ombre, n, [ombres], "wani nau'i na wasan kati").
+shigar(omega, n, [omegas], "harafin Girka").
+entry(danwake, n, [dankwalin], "wani abinci da aka yi da kwai da aka dakushe aka dafa kuma aka nade shi da cikewa").
+entry(omelette, n, [omelettes], "omeleti").
+entry(omen, v, [omened,omening,omens], "ya zama wata alama mai hasashe").
+entry(omentum, n, [omentums], "ko OMENTA wani nadewa a cikin wani babban bakaOMENTAL adj").
+entry(omer, n, [omer-omer], "wani ma'aunin busasshen abu a harshen Ibrananci").
+entry(omerta, n, [omerta], "wani tsarin shiru kan ayyukan laifi").
+shigarwa(omicron, n, [omicrons], "wani harafin Girkanci").
+entry(omikron, n, [omikrons], "omikron").
+entry(ominous, adj, [], "nufo a kowanne sharri").
+entry(aikatawa, n, [aikatatuwa], "wani abu da bai cika ba").
+entry(omissive, sif, [], "wanda aka yi watsi").
+entry(yafice, v, [ya fita, ya ficewa, sun fita], "a bar wani abu a waje").
+entry(maƙashin, n, [maƙasa], "wanda ke watsi").
+entry(omniarch, n, [omniarchs], "mai mulki mai ƙarfi sosai").
+entry(omnibus, n, [omnibuses], "ko OMNIBUSSESa motar haya").
+entry(omnific, sif, [], "ba tare da iyaka ba a cikin ikon ƙirƙira").
+entry(omniform, sif, [], "na kowane irin").
+entry(omnimode, sif, [], "na dukkan hanyoyi").
+entry(omnivora, npl, [], "dabbobin da ke cin dukkan nau'in abinci").
+entry(mako, n, [makoki], "dabbobi da suke cin dukkan nau'in abinci").
+entry(omophagy, n, [omophagies], "cin naman da ba a dafa ba").
+entry(omphalos, n, [omphali], "ko OMPHALOItsakiya").
+entry(daga, n, [daga], "bangaren filin wasan kwando inda mai buga kwallo ke tsaye a wasan kwando da kwallo").
+entry(\textit{jakunan dawa}, n, [\textit{jakunan dawa}], "ko ONAGRI jakin dawa daga tsakiya Asia").
+entry(onanism, n, [onanisms], "jima'i da aka katse da gangan don hana ciki").
+entry(maikonanci, n, [maikonancai], "wanda ke aiwatar da maikonanci").
+entry(kan-jirginruwa, siffofi, [], "ana ɗauke da a cikin wata mota").
+entry(ɗaya, ɗanƙwara, [], "sau ɗaya kawai").
+entry(oncet, adv, [], "sau ɗaya").
+entry(oncidium, n, [oncidiums], "wani furanni na zafin yanayi").
+entry(oncogene, n, [oncogenes], "wani ƙwayoyin halitta da ke haifarwa da sel zama na daji").
+entry(oncology, n, [oncologies], "ilimin cututtukan daji").
+entry(oncoming, n, [oncomings], "wani kusantowa").
+entry(ondogram, n, [ondogramoli], "zane na raƙuman lantarki").
+entry(daya, n, [nassoshi], "wani lamba").
+entry(onefold, siffa, [], "wanda ke wakiltar abu daya wanda bai rabu ba").
+entry(oneiric, adj, [], "mai dangantaka da mafarkai").
+entry(daya, n, [dayoki], "haɗin kai").
+entry(mai-wahala, sif, [], "mai nauyi ko mai danniya").
+entry(onery, adj, [], "Ƙari da Ƙararrifin onery").
+shigarwa(kai, sun, [], "kai mutum").
+entry(onetime, sif, [], "da").
+entry(ci gaba, sif, [], "ci gaba ba tare da katsewa ba").
+entry(albasa, n, [albasoshin], "kasala ce mai ci da aka noma ALBASAI adj").
+entry(onium, sif, [], "wanda aka bayyana ta hanyar sinadarin cation mai rikitarwa").
+entry(onlay, n, [onlays], "wani abu da aka shimfiɗa bisa wani abu").
+entry(onliest, sif, [], "kaɗai").
+entry(kan layi, sif, [], "sada zumunta da cibiyar sadarwa ta kwamfuta").
+entry(onload, v, [onloaded,onloading,onloads], "to load a vehicle or container").
+entry(masu kallo, n, [masu kallon], "mai kallo").
+entry(kaɗai, adv, [], "ba tare da wani abu ko wani ba").
+entry(ono, n, [onos], "kifi mai girma").
+entry(onomast, n, [onomasts], "mutumin da yake nazarin sunaye na musamman").
+entry(onrush, n, [guguwar], "yunkuri ko gudun gaba").
+entry(akan-allon, sifa, [], "an nuna a kan allo na fim, talabijin ko na'urar nuni").
+entry(fara, n, [fara], "wani farawa").
+entry(onshore, adv, [], "zuwa ga gaci").
+entry(onside, adj, [], "ba a wajen wasa ba").
+entry(dandalin_sana, siffofi, [], "zama kan wani bangare na dandalin da masu sauraro za su iya gani").
+entry(onstream, adv, [], "a ciki ko zuwa cikin samarwa").
+entry(ontic, sif, [], "yana da zama ko wanzuwa na gaskiya").
+entry(kan, prep, [], "zuwa matsayi a kan").
+entry(ontogeny, n, [ontogenies], "ci gaban wani kwayoyin halitta guda").
+entry(ontology, n, [ilimin ilimin duniya], "reshen falsafa da ke magana game da kasancewa").
+entry(onus, n, [onuses], "wani nauyi ko alhakin").
+entry(gaba, adv, [], "zuwa wani wuri a gaba ko a gaban").
+entry(gaba, adv, [], "gaba").
+entry(onyx, n, [onyxes], "wani nau'in kvarz").
+entry(oosist, n, [oosistoci], "ƙwayar hadayu").
+entry(oocyte, n, [oocytes], "ƙwai kafin balaga").
+entry(oodles, n, [embangkan], "yawanci").
+entry(oodlins, n, [oodlins], "yawan yawa").
+entry(oof, interj, [], "ana amfani da shi don bayyana rashin jin dadi").
+entry(oogamete, n, [oogametes], "ƙwayoyin ya mace na wasu ƙananan halittu").
+entry(oogamous, adj, [], "yana da gametes masu bambanci a tsari").
+entry(oogamy, n, [oogamies], "yanayin kasancewa oogamous").
+entry(oogeny, n, [oogenies], "ci gaban kwai").
+entry(oogonium, n, [oogoniums], "ko OOGONIA wata kwayar halittar jima'i ta mace a wasu algae da fungi OOGONIAL adj").
+entry(ooh, v, [oohed, oohing, oohs], "nuna mamaki, jin dadi, ko mamaki").
+entry(oolachan, n, [oolachans], "eulachon").
+entry(oolichan, n, [oolichans], "eulachon").
+entry(oolite, n, [oolites], "wani nau'in dutsen kalkoOLITIC adj").
+entry(oolith, n, [ooliths], "oolite").
+entry(oologist, n, [oologists], "gwani a cikin kimiyyar binciken kwayoyin tsuntsaye").
+entry(oology, n, [oologies], "binciken ƙwai na tsuntsayeOOLOGIC adj").
+entry(oolong, n, [oolongs], "shayi maiɗanɗano daga China").
+entry(oomiac, n, [oomiacs], "umiak").
+entry(oomiack, n, [oomiacks], "umiak").
+entry(oomiak, n, [oomiaks], "umiak").
+entry(oompah, v, [oompahed, oompahing, oompahs], "yin busassun bugu na bass da maimaitawa").
+entry(karfi, n, [karfuna], "karfin zuciya").
+entry(oophyte, n, [oophytes], "wani mataki na ci gaban wasu tsire-tsireOOPHYTIC adj").
+entry(ayyah, interj, [], "ana amfani da shi don bayyana sauqi qazafi ko damuwa").
+entry(oorali, n, [ooralis], "curare").
+entry(oorie, sifa, [], "ourie").
+entry(oosperm, n, [oosperms], "kwai da aka yi dashe").
+entry(oosphere, n, [oospheres], "ƙwai da ba a yi masa ƙwai a cikin oogonium ba").
+entry(oospore, n, [oospores], "ƙwai mai ɗaurewa a cikin oogoniumOOSPORIC adj").
+entry(oot, n, [oots], "waje").
+entry(ootheka, n, [oothekai], "kwalliyar kwai na wasu kwari OOTHECAL sif").
+entry(ootid, n, [ootids], "daya daga cikin sassa hudu da kwai na balaga ke rabuwa").
+entry(zuba, v, [zube, zubewa, zubewa], "yin kwarara ko fita a hankali").
+entry(matsatsin ruwa, n, [matsatsin ruwa], "yanayin kasancewa mai matsatse").
+entry(mai-ruwa, sif, [], "MAI-RUWATA MAI-RUWATA kawai yana dauke da ko yana kama da laka mai laushi ko lakaMAI-RUWA adv").
+entry(op, n, [ops], "wani salo na fasahar zane-zane mara ɗanɗano").
+entry(opa, n, [opas], "kakata").
+entry(opacify, v, [opacified,opacifying,opacifies], "yi duhu").
+entry(opasiti, n, [opasitoci], "wani abu da ba ya bayyana").
+entry(opah, n, [opahs], "kifi na teku").
+entry(opal, n, [opal], "wani ma’adini").
+entry(opalesce, v, [opalesced,opalescing,opalesces], "fitar da wani haske mai launuka daban-daban kamar na aljanna").
+entry(opaline, n, [opalines], "gilashin fari mai kauri").
+entry(opaque, sifa, [], "BA A GANI BAAFILLA(da) ga haskeBAFILLATU adv").
+entry(mai ɗaukar hoto, v, [Ɗaukaka, Ɗaukar hoto, Ɗauke], "don yin rashin gani sosai").
+entry(ope, v, [oped, oping, opes], "buɗewa").
+entry(buɗe, siffofi, [], "BUƊA BUƊATACCENyana bayar da damar shiga, wucewa ko gani ba tare da katanga ba").
+entry(buɗe, v, [buɗe, buɗewa, buɗa], "don haifar da buɗuwaMAI BUDE adj").
+entry(opencast, sif, [], "aiki daga saman da ke buɗe ga iska").
+entry(opener, n, [maɓuɓɓugawa], "wanda ke buɗewa").
+entry(budewa, n, [budewa], "wani fili da ba a tare shi ba ko ya kasance babu wani katange").
+entry(a-buye, adv, [], "cikin wata hanya a-bude").
+entry(bude, n, [budewa], "halin kasancewa a bude").
+entry(openwork, n, [openworks], "aikin ado ko tsarin gine-gine da ke dauke da rami da yawa").
+entry(opera, n, [opera-opera], "wani nau'in wasan kwaikwayo na kiɗa").
+entry(operable, sifa, [], "mai amfaniOPERABLY adv").
+entry(operand, n, [operands], "adadi wanda ake gudanar da aiki na lissafi akansa").
+entry(mai-aiwatarwa, n, [mai-aiwatarwa], "wanda yake aiwatarwa").
+entry(aiki, v, [aikata, aikawa, aikatawa], "yi wani aiki").
+entry(operatic, n, [operatics], "fasahar gabatar da operas").
+entry(operator, n, [masu aiki], "wani alamar da ke wakiltar aikin lissafi").
+entry(opercele, n, [operceles], "gogayya").
+entry(opercula, npl, [], "opercule").
+entry(opercule, n, [opercules], "wani yanki na jiki wanda ke aiki azaman murfi ko rufe").
+entry(operetta, n, [operettas], "wani nau'in wasan kwaikwayo mai dauke da kiɗa da tattaunawar da aka faɗa").
+entry(operon, n, [operons], "irin tsari na kwayoyin halitta").
+entry(mai-wahala, sifa, [], "wanda ke dauke da aikin tuwo").
+entry(ophidian, n, [ophidians], "maciji").
+entry(ophite, n, [ophites], "dutsen magudanar ruwa mai launin kore da fariOPHITIC adj").
+entry(opiate, v, [opiated,opiating,opiates], "ta yi magani da afiyun").
+entry(fadi_ra'ayi, v, [fadi_ra'ayi_d, fadi_ra'ayi_ang, fadi_ra'ayi_s], "yin ko bayyana wani ra'ayi").
+entry(oping, na yanzu, [], "ɓangaren fi'ili na ope").
+entry(rá'ayi, n, [rá'ayoyi], "wani ƙarshe ko hukunci da mutum ke ganin gaskiya ne").
+entry(makashinciwon, n, [makashinciwon], "wani furotin da ya yi aiki kamar opiyum").
+entry(opiyum, n, [opiyumai], "wani kwaya mai sa maye").
+entry(opiumism, n, [opiumisms], "wani nau'i na jaraba ga opium").
+entry(opopanax, n, [opopanaxes], "wani kumshi mai karfi na gumi").
+entry(opossum, n, [opossums], "wani dabba mai zaune a kan itace").
+entry(oppidan, n, [oppidans], "mutumin gari").
+entry(oppilate, v, [oppilated,oppilating,oppilates], "to obstructOPPILANT adj").
+entry(opponens, n, [opponens], "wani tsoka na babban yatsa").
+entry(abokin_hamayyah, n, [abokan_hamayyah], "wanda ke gaba da wani").
+entry(ƙi, v, [ƙin,ƙiwo,ƙinsa], "a kasance cikin rigima ko husuma da").
+entry(mai_hana, n, [mai_hana], "wanda ke kawo cikas").
+entry(akasin, n, [akasai], "wanda ya bambanta kwata-kwata da wani ta wata hanya mai alaƙa").
+entry("zalunta", v, ["zalunci","zalunta","zalunci"], "to burden by abuse of power or authority").
+entry(ƙalubalanci, v, [ƙalubalanci,ƙalubalantar,ƙalubalanta], "yi wa hujja hari").
+entry(oppugner, n, [oppugners], "wanda ke musantawa").
+entry(opsimath, n, [opsimathi], "mutum wanda ya fara koyon abu a lokacin da ya tsufa").
+entry(opsin, n, [opsins], "wani nau'in furotin").
+entry(opsonic, adj, [], "mai dangantaka da opsonin").
+entry(opsonify, v, [opsonified,opsonifying,opsonifies], "yi opsonize").
+entry(opsonin, n, [opsonins], "wani gubar jini na rigakafi").
+entry(opsonise, v, [opsonised,opsonising,opsonises], "ƙara gishiri").
+entry(opsonize, v, [opsonized,opsonizing,opsonizes], "samar da opsonins a cikin").
+entry(opt, v, [zashe,na zaba,zabi], "zaɓi").
+entry(optative, n, [optatives], "yanayin fi'ili wanda ke bayyana fata ko buri").
+entry(optic, n, [optics], "ido").
+entry(optical, adj, [], "na kallon ido").
+entry(optician, n, [opticians], "wanda yake yin ko kuma sayar da kaya na gani").
+entry(opticist, n, [masu bincike haske da gani], "wanda ke nazarin haske da kallo").
+entry(optima, a, [], "jam'in optimum").
+entry(zaɓi-mafi, sif, [], "mai so sosai").
+entry(optime, n, [optimes], "dalibi mai karramawa a fannin lissafi a Jami'ar Cambridge").
+entry(gyara, v, [daidaita,dabaitawa,daidaiya], "don daidaita").
+entry(karfafa-gwiwa, n, [karfafa-gwiwoyi], "matsayin kallon bangaren da ya fi kyau na abubuwa").
+entry(maƙasanci, n, [maƙasantai], "wanda ke nuna fata mai kyau").
+entry(gyara_madaidaici, v, [madaidaiciya, gyaran_madaidaici, gyara_madaidaici], "gyara don ya zama daidai, amfani sosai ko inganci kamar yadda zai yiwu").
+entry(optimum, n, [mafi kyau], "ko OPTIMAsharaɗi mafi kyau don samun sakamakon da aka bayar").
+entry(option, v, [zaɓe,makoma,zaɓuɓɓuka], "ba da haƙƙin zaɓi don saye ko sayar da wani abu a farashi da aka ayyana a cikin wani lokaci da aka kayyade akan").
+shigarwa(na zaɓi, n, [na zaɓi], "darasi na zabi a fannin karatu").
+entry(optionee, n, [mabukaciya zaɓi], "wanda ya mallaki zaɓi na doka").
+entry(optronic, adj, [], "mafi alaƙa da kimiyyar da ta shafi lantarki da kuma haske").
+entry(arziki, n, [arzikin], "dukiyar").
+entry(yawaita ƙwarewar arziki, n, [yawaita ƙwarewar arziki], "yawaita arziki").
+entry(mawadaci, adj, [], "mai arziki").
+entry(opuntia, n, [opuntias], "wata kaktus daga Amurka").
+entry(opus, n, [opuses], "ko OPERA wani aiki na adabi ko na kiɗa").
+entry(opuscula, npl, [], "ƙananan littattafai").
+shigar(opuscule, n, [opuscules], "wani karamin aiki").
+entry(oquassa, n, [oquassas], "kifi ƙanana na tafkin").
+entry(ko, n, [ko], "launin zinariya na heraldic").
+entry(ora, pl, [], "na os").
+entry(orach, n, [oraches], "shuka mai noma").
+entry(orache, n, [oraches], "orach").
+entry(oracle, n, [dagnagarai], "mutum wanda ake ganin Allah yana magana ta wurinsaORACULAR adj").
+entry(fasahar magana, n, [fasahohin magana], "fasaha wajen bayyana magana da fahimta ta baki").
+entry(orad, adv, [], "zuwa bakin").
+entry(oral, n, [bakandamiya], "wani jarrabawa da ke bukatar amsoshin magana").
+entry(oralism, n, [oralisms], "amfani da hanyoyin koyarwa na bakin magana ga bebaye").
+entry(oralist, n, [oralists], "mai ba da shawara kan oralism").
+entry(orality, n, [oralities], "halin yin fadi a baki").
+entry(bakinsa, adv, [], "ta bakin baki").
+entry(biri_mazauni, n, [biri_mazauni], "wani babba biri").
+entry(chabn, n, [chabna], "’ya’yan itacen ’ya’yan citrus").
+entry(majangari, n, [majangarori], "wurin da ake noman itatuwan oranji").
+entry(orangey, sifa, [], "ORANGIER ORANGIESTorangy").
+entry(ja-kadan, sif, [], "mai kama da kalar jan gida-gida").
+entry(orangy, sif, [], "MAI-KAMAR MAI-KAMAR MAI-KAMAR ALBASA KO MAI-NUNA ALAMAR ORANGE").
+`entry(magana, v, [magana, magana, magana], "yin magana da tsari").`
+entry(jawabi, n, [jawabai], "jawabi na musamman").
+entry(mai-jawabi, n, [mai-jawabi], "wanda ke yin jawabi").
+entry(oratorio, n, [oratorios], "wani nau'i na hada kayan kida").
+entry(maganganun, n, [maganganuna], "fasahar yin jawabi a bainar jama'a").
+entry(oratress, n, [oratresses], "oratrix").
+entry(oratrix, n, [oratrices], "mai-fadakarwa mace").
+entry(orature, n, [oratures], "tsarin adabi na baka kamar tatsuniyoyi").
+entry(orb, v, [orbed,orbing,orbs], "forma zuwa da'ira ko kwalliya").
+entry(orbier, kamanin, [], "na orby").
+entry(orbiest, superlative, [], "na orby").
+entry(na'ura, v, [na'urorin,na'urorin,na'urorin], "na motsi ko zagaye kusa da").
+entry(orbital, n, [orbitals], "wani rabon harsashi na nukiliya").
+entry(mai-kewaya, n, [mai-kewaya], "wanda ke kewaya").
+entry(orbless, adj, [], "rashin ƙwallo").
+entry(orby, adj, [], "KOYON ZAGAYE KO GUDAresembling a circle or sphere").
+entry(gira, n, [gira], "wani dabba mai rayuwa a ruwa").
+entry(orca, n, [wahalal], "kifi mai hankali mai girma").
+entry(orcein, n, [orceins], "manna mai launin ja-baka").
+entry(lambu, n, [lambuna], "wuri don shuka itatuwan 'ya'yan itace").
+entry(kwara-fulawa, n, [kwara-fulawa], "wani irin tsiron da yake da furanni").
+entry(orchil, n, [orchils], "wani launin shudi").
+entry(orchilla, n, [orchillas], "orchil").
+entry(orchis, n, [orchises], "wani orchid").
+entry(orchitis, n, [orchitises], "ciki ya kumbura").
+shiga(orcin, n, [orcins], "orcinol").
+entry(orcinol, n, [orcinol], "wani sinadari").
+entry(ordain, v, [naɗa, naɗawa, naɗa], "sanya da ikon tsarki").
+entry(ordainer, n, [ordainers], "wanda ke tabbatar da dokoki").
+entry(iftila'i, n, [iftala'i], "wani mawuyacin hali ko wahala mai raɗaɗi").
+entry(order, v, [umarni, umarnin, umarni], "ba da umurni ko shawara").
+entry(orderer, n, [masu_oda], "wanda ke ba da oda").
+entry(orderly, n, [orderlies], "mai bauta namiji").
+entry(ordinal, n, [naƙasasshen lambobi], "lamba da take nuni da matsayi a jeri").
+entry(ordinand, n, [ordinands], "mutum da za a naɗa").
+entry(na yau da kullum, sif, [], "NA YAUKA NA YAUDA YADA DAGA IRE-IREN DA AKE SA RAN A CIKIN JERE NA AL'ADA").
+entry(na al'ada, n, [na al'ada], "wani abu da yake na al'ada").
+entry(ordinate, n, [ordineti], "wani nau'in tauraro na geomitiri").
+entry(ordnance, n, [ordnances], "makamin yaki a bindiga mai tsauri").
+entry(ordo, n, [ordos], "ko ORDINES kalandar umarnin addini").
+entry(ordure, n, [datti], "takardan shaida na ORDUROUS adj").
+entry(ore, n, [ore-ore], "dutse ko ma'adini dauke da wani karfe mai daraja").
+entry(oread, n, [oreads], "wani aljani mai tsauni a tatsuniyar Helenawa").
+entry(jikin-ma'adinai, n, [jiragen ma'adinai], "wani tarin ma'adinai a cikin ma'adinai").
+entry(orectic, sif, [], "mai alaƙa da sha'awa ko buri").
+entry(orective, adj, [], "orectic").
+entry(oregano, n, [oreganos], "ganye mai kamshi da ake amfani dashi azaman kayan kamshi").
+entry(oreide, n, [oreides], "oreide").
+entry(oreodont, n, [oreodonts], "wani dabbobi da ya mace wanda ya kai girman tumaki").
+entry(orfray, n, [orfrays], "wa'azin zinariya").
+entry(ƙungiya, n, [ƙungiyoyi], "ƙungiya").
+entry(sassa, n, [sassan], "sashe mai bambanci na kowanne halitta wanda ke aiwatar da aiki na musamman").
+entry(organa, a, [], "jam’in organon da organum").
+entry(organdie, n, [organdies], "organdy").
+entry(organdy, n, [organdies], "ƙyallin auduga").
+entry(na halitta, n, [na halittu], "wani abu daga dabba ko tsiro").
+entry(shirya, v, [shirya, shirye-shirye, shiryawa], "to organize").
+entry(halitta, n, [halittu], "wani nau'i na rayuwar dabba ko tsiro").
+entry(mai-bin-daji, n, [masu-bin-daji], "wanda ke yin wasan bini daji wani kayan kida mai maɓalli").
+entry(tsara, v, [tsarawa,tsararru,tsarori], "don tsara cikin tsari").
+entry(organon, n, [organons], "ko kuma ORGANA wani tsari na ƙa'idoji don binciken kimiyya").
+entry(organum, n, [organums], "ko ORGANAorganon").
+entry(organza, n, [organza], "kain kwalliya mai kauraran fata").
+entry(orgasm, v, [orgasmed, orgasming, orgasms], "ajiye fataucin jima'i na karshe mai girma").
+entry(orgeat, n, [orgeats], "siyarabon daɗi na almond").
+entry(orgiac, sif, [], "mai hankali na biki").
+entry(orgiast, n, [orgiasts], "wanda ke shiga cikin shagali").
+entry(orgic, sifa, [], "orgiac").
+shigarwa(orgone, n, [orgone], "wani kuzari da ake zaton yana yaduwa a duniya").
+entry(orgulous, sif, [], "mai alfahari").
+entry(alfarma, n, [alfarmai], "wani biki da aka yiwa alama da balain jin dadi").
+entry(oribatidi, n, [oribatididi], "kowanne daga cikin dangin ƙwari marasa ido").
+entry(oribi, n, [oribis], "dabbobin fari na Afirka").
+entry(orichalc, n, [orichalcs], "karfe mai launin rawaya").
+entry(oriel, n, [tagogi_makauniyya], "wani irin taga da ke tsallakowa").
+entry(fitar da fuska zuwa, v, [fita da fuska zuwa, fitar da fuska zuwa, fitar da fuska zur], "gyara dangane da wani abu").
+entry(oriental, n, [orientals], "mazaunin ƙasar gabas").
+entry(mai-gyara, n, [masu-gyara], "wanda ke taimaka wa wani ya saba da yanayin").
+entry(hula, n, [hulochi], "baki ko bakin kama").
+entry(origami, n, [origamis], "fasahar ninkayar takarda ta Jafananci").
+entry(origan, n, [origans], "oregano").
+entry(ganyen magani, n, [ganyayen magani], "wani ganye mai kamshi").
+entry(asali, n, [asali], "zuwa kasancewa").
+entry(asali, n, [asalai], "siffar farko ta wani abu").
+entry(harshekope, n, [harshekope], "sauti da ake furtawa ta bakin da hanci").
+entry(oriole, n, [orioles], "wani tsuntsu mai raira waka na Amurka").
+entry(orisha, n, [orishas], "wani abin bauta na Yarbawa").
+entry(sallama, n, [sallamai], "adonai").
+entry(orle, n, [orles], "iyakar al'ada").
+entry(orlop, n, [orlops], "bene mafi ƙanƙanci na jirgin ruwa").
+entry(ormer, n, [ormers], "wani irin amfanin teku").
+entry(ormolu, n, [ormolus], "wani hade-ha]e da ake amfani da shi don koyi zinariya").
+entry(kayan ado, v, [kayan ado da aka yi wa ado,kayan ado yana yi da ado,kayan adon], "yi wa da ado").
+entry(ornate, adj, [], "mai yayi ko kyalli da yawaORNATELY adv").
+entry(mai-taurin-kai, sif, [], "MAFI TAURI MAFI TAURISTAurin kai da rashin kirki").
+entry(ornis, n, [tsuntsaye], "na dabbobin iska").
+entry(ornithic, sifa, [], "mai nasaba da tsuntsaye").
+entry(orogen, n, [orogens], "wata madaidaiciya ta ƙasan duniya da ke da alaƙa da ƙirƙiran maɗaukaki").
+entry(orogeny, n, [orogenies], "tsarin samuwar duwatsuOROGENIC adj").
+entry(oroide, n, [oroides], "wani gami da ake amfani da shi don koyi zinariya").
+entry(orology, n, [nazarin duwatsu], "nazarin duwatsu").
+entry(oromita, n, [oromitai], "wani nau'in barometr").
+entry(orotund, sif, [], "cike kuma a bayyane cikin sauti").
+entry(yatim, v, [yatimce, yat alcance, yatanai], "don cire iyaye biyu").
+entry(orphic, adj, [], "mabambanta").
+entry(orphical, sif, [], "orphic").
+entry(orphizim, n, [orphizimai], "salon fasaha").
+entry(orphrey, n, [orphreys], "madaukin ado ko iyaka").
+entry(orpiment, n, [orpiments], "wani rini mai rawaya").
+entry(orpin, n, [orpins], "orpin").
+entry(orpine, n, [orpines], "kowace shekara tsiro").
+entry(orra, sifa, [], "na lokaci-lokaci").
+entry(orrery, n, [orreries], "wani samfurin inji na tsarin hasken rana").
+entry(orrice, n, [orrices], "orris").
+entry(orris, n, [orrises], "tsiro mai fure").
+entry(ort, n, [orts], "wani yanki na abinci").
+entry(orthicon, n, [orthicons], "wani nau'in kyamaran talabijin").
+entry(ortho, adj, [], "alaka da yin hoton mayar da launuka cikakku a yanayin halitta").
+entry(orthodox, n, [orthodoxes], "wanda yake rike da imani na gargajiya").
+entry(orthoepy, n, [orthoepies], "nazarin lafazi daidai").
+entry(na'urorin gyara kwanciyar jiki, n, [na'urorin gyara], "na'ura ta gyara").
+entry(orthotic, n, [orthotics], "kayan tallafi ga haɗin gwiwa ko tsokoki masu rauni").
+entry(ortolan, n, [ortolans], "tsuntsun Turai").
+entry(oryx, n, [oryxes], "dabbar daji ta Afrika mai siffar barewa").
+entry(orzo, n, [orzos], "irin taliya mai siffar shinkafa").
+entry(os, n, [bakin], "wani rami").
+entry(os, n, [osar], "wani eskah").
+entry(os, n, [kashi], "wani kashi").
+entry(oscar, n, [kifayen_oscar], "wani kifi na Kudancin Amurka").
+entry(oscine, n, [oscines], "wani daga cikin dangin tsuntsaye masu raira wakaOSCININE adj").
+entry(oscitant, adj, [], "motsa baki").
+entry(oscula, pl, [], "na osculum").
+entry(osculant, adj, [], "a manne sosai").
+entry(oscular, adj, [], "mai nasaba da baki").
+entry(sumbatar, v, [sumbace, sumbatowa, sumbata], "sumbatar").
+entry(oscule, n, [oscules], "osculum").
+entry(osculum, n, [oscula], "wani bude a cikin soso").
+entry(ose, n, [oses], "wani kwarin dusar kankara").
+entry(osetra, n, [osetras], "wani kifi wanda ke da sikulos masu zinari ko launin ruwan kasa").
+entry(osier, n, [osiers], "wani itacen Turai").
+entry(osmatic, adj, [], "dogara ne da ƙamshi").
+entry(osmics, npl, [], "karatun hankali na wari").
+entry(osimiyum, n, [osimiyums], "wani sinadari na ƙarfeOSMIK OSMIYOUS adj").
+entry(osmol, n, [osmols], "wani nau'i na matsin osmosisOSMOLAL adj").
+entry(osmolar, adj, [], "osmotic").
+entry(osmole, n, [osmoles], "osmol").
+entry(osmose, v, [osmosed,osmosing,osmoses], "yin osmose").
+entry(osmosis, n, [osmoses], "wani nau'i na yaduwar ruwa ta cikin membrane").
+entry(osmotic, adi, [], "dangane da aikin osmosis").
+entry(osmous, sifat, [], "mai dauke da osmium").
+entry(osmund, n, [osmunds], "ko wace nau'in manyan ciyawa iri-iri").
+entry(osmunda, n, [osmundas], "osmund").
+entry(osnaburg, n, [osnaburgs], "ƙyallen auduga").
+entry(osprey, n, [ospreys], "waƙar Amurka").
+entry(ossa, pl, [], "na os").
+entry(ossature, n, [ossatures], "cikakken tsari").
+entry(ossein, n, [osseins], "wani abu ne na furotin a cikin ƙashi").
+entry(osseous, sif, [], "mai kama da kashi").
+entry(ossetra, n, [ossetras], "osetra").
+entry(ossia, conj, [], "ko kuma ana amfani da shi a matsayin umarnin kiɗa").
+entry(kwalliyar ƙashi, n, [kwalliyoyin ƙashi], "ƙaramin ƙashi").
+entry(ossific, sif, [], "game da samuwar kashi").
+entry(mai-yin-facce, n, [masu-yin-facce], "wanda ke yin facce").
+entry(yi_bakumbari, v, [ya_bakumbara,ana_bakumbari,ya_bakumbara], "juyawa zuwa kasusuwa").
+entry(ossobuco, n, [ossobucos], "wani abinci daga naman sa mara kashi da aka soya tare da kayan lambu da farin giya").
+shigarwa(ossiari, n, [ossiari-ossiari], "wani wajen ajiye kashi-kashin matattu").
+entry(osteal, sif, [], "jan kashi").
+```prolog
+entry(osteitis, n, [osteitides], "inflammation of boneOSTEITIC adjOSTEOID n pl OSTEOIDSuncalcified bone matrixOSTEOMA n pl OSTEOMAS or OSTEOMATAa tumor of bone tissueOSTEOSIS n pl OSTEOSESEthe formation of boneOSTIA pl of ostiumOSTIARY n pl OSTIARIESa doorkeeper at a churchOSTINATO n pl OSTINATOS or OSTINATIa constantly recurring musical phraseOSTIOLE n pl OSTIOLESa small bodily openingOSTIOLAR adjOSTIUM n pl OSTIAan opening in a bodily organOSTLER n pl OSTLERShostlerOSTMARK n pl OSTMARKSa former East German monetary unitOSTOMATE n pl OSTOMATESone who has had an ostomyOSTOMY n pl OSTOMIEStype of surgical operationOSTOSIS n pl OSTOSWhen formation of boneOSTRACOD n pl OSTRACODSa minute freshwater crustaceanOSTRACON n pl OSTRACAfragment containing an inscriptionOSTRAKON n pl OSTRAKAostraconOSTRICH n pl OSTRICHESa large flightless birdOTAKU npl young people in Japan who are highly skilled in computer technologyOTALGIA n pl OTALGIASpain in the earOTALGIC adjOTALGY n pl OTALGIESotalgiaOTHER n pl OTHERSone that remains of two or moreOTIC adj pertaining to the earOTIOSE adj lazyOTIOSELY adjOTIOSITY n pl OTIOSITIESthe state of being otioseOTITIS n pl OTITISES or OTITIDESinflammation of the earOTITIC adjOTOCYST n pl OTOCYSTSan organ of balance in many invertebratesOTOLITH n pl OTOLITHSa hard mass that forms in the inner earOTOLOGY n pl OTOLOGIESthe science of the earOTOLOGIC adjOTOSCOPE n pl OTOSCOPESan instrument for examining the earOTOSCOPY n pl OTOSCOPIESthe use of an otoscopeOTOTOXIC adj adversely affecting hearing or balanceOTTAR n pl OTTARSattarOTTAVA n pl OTTAVASan octaveOTTER n pl OTTERSa carnivorous mammalOTTO n pl OTTOSattarOTTOMAN n pl OTTOMANSa type of sofaOUABAIN n pl OUABAINSa cardiac stimulantOUCH v OUCHED OUCHING OUCHESto ornament with ouches settings for precious stonesOUD n pl OUDSa stringed instrument of northern AfricaOUGHT v OUGHTED OUGHTING OUGHTSto oweOUGIYA n pl OUGIYASouguiyaOUGUIYA n pl OUGUIYASa monetary unit of MauritaniaOUISTITI n pl OUISTITISa South American monkeyOUNCE n pl OUNCESa unit of weightOUPH n pl OUPHSoupheOUPHE n pl OUPHESan elfOUR pron a possessive form of the pronoun weOURANG n pl OURANGSorangOURARI n pl OURARIScurareOUREBI n pl OUREBISoribiOURIE adj shivering with coldOURS pron a possessive form of the pronoun weOURSELF pron myself  used in formal or regal contextsOUSEL n pl OUSELSouzelOUST v OUSTED OUSTING OUSTSto expel or remove from a position or placeOUSTER n pl OUSTERSthe act of oustingOUT v OUTED OUTING OUTSto be revealedOUTACT v OUTACTED OUTACTING OUTACTSto surpass in actingOUTADD v OUTADDED OUTADDING OUTADDSto surpass in addingOUTAGE n pl OUTAGESa failure or interruption in use or functioningOUTARGUE v OUTARGUED OUTARGUING OUTARGUESto get the better of by arguingOUTASK v OUTASKED OUTASKING OUTASKSto surpass in askingOUTATE past tense of outeatOUTBACK n pl OUTBACKSisolated rural countryOUTBAKE v OUTBAKED OUTBAKING OUTBAKESto surpass in bakingOUTBARK v OUTBARKED OUTBARKING OUTBARKSto surpass in barkingOUTBAWL v OUTBAWLED OUTBAWLING OUTBAWLSto surpass in bawlingOUTBEAM v OUTBEAMED OUTBEAMING OUTBEAMSto surpass in beamingOUTBEG v OUTBEGGED OUTBEGGING OUTBEGSto surpass in beggingOUTBID v OUTBID OUTBIDDEN OUTBIDDING OUTBIDSto bid higher thanOUTBITCH v OUTBITCHED OUTBITCHING OUTBITCHESto surpass in bitchingOUTBLAZE v OUTBLAZED OUTBLAZING OUTBLAZESto surpass in brilliance of lightOUTBLEAT v OUTBLEATED OUTBLEATING OUTBLEATSto surpass in bleatingOUTBLESS v OUTBLESSED OUTBLESSING OUTBLESSESto surpass in blessingOUTBLOOM v OUTBLOOMED OUTBLOOMING OUTBLOOMSto surpass in bloomingOUTBLUFF v OUTBLUFFED OUTBLUFFING OUTBLUFFSto surpass in bluffingOUTBLUSH v OUTBLUSHED OUTBLUSHING OUTBLUSHESto surpass in blushingOUTBOARD n pl OUTBOARDSa type of motorOUTBOAST v OUTBOASTED OUTBOASTING OUTBOASTSto surpass in boastingOUTBOUGHT past tense of outbuyOUTBOUND adj outward boundOUTBOX v OUTBOXED OUTBOXING OUTBOXESto surpass in boxingOUTBRAG v OUTBRAGGED OUTBRAGGING OUTBRAGSto surpass in braggingOUTBRAVE v OUTBRAVED OUTBRAVING OUTBRAVESto surpass in courageOUTBRAWL v OUTBRAWLED OUTBRAWLING OUTBRAWLSto surpass in brawlingOUTBREAK n pl OUTBREAKSa sudden eruptionOUTBREED v OUTBRED OUTBREEDING OUTBREEDSto interbreed relatively unrelated stocksOUTBRIBE v OUTBRIBED OUTBRIBING OUTBRIBESto surpass in bribingOUTBUILD v OUTBUILT OUTBUILDING OUTBUILDSto surpass in buildingOUTBULGE v OUTBULGED OUTBULGING OUTBULGESto surpass in sizeOUTBULK v OUTBULKED OUTBULKING OUTBULKSto surpass in bulkingOUTBULLY v OUTBULLIED OUTBULLYING OUTBULLIESto surpass in bullyingOUTBURN v OUTBURNED or OUTBURNT OUTBURNING OUTBURNSto burn longer thanOUTBURST n pl OUTBURSTSa sudden and violent outpouringOUTBUY v OUTBOUGHT OUTBUYING OUTBUYSto surpass in buyingOUTBY adv outdoorsOUTBYE adv outbyOUTCALL n pl OUTCALLSa house call by a professional personOUTCAPER v OUTCAPERED OUTCAPERING OUTCAPERSto surpass in caperingOUTCAST n pl OUTCASTSone that is cast outOUTCASTE n pl OUTCASTESa Hindu who has been expelled from his casteOUTCATCH v OUTCAUGHT OUTCATCHING OUTCATCHESto surpass in catchingOUTCAVIL v OUTCAVILED OUTCAVILING OUTCAVILS or OUTCAVILLED OUTCAVILLING OUTCAVILSto surpass in cavilingOUTCHARM v OUTCHARMED OUTCHARMING OUTCHARMSto surpass in charmingOUTCHEAT v OUTCHEATED OUTCHEATING OUTCHEATSto surpass in cheatingOUTCHIDE v OUTCHIDED or OUTCHID OUTCHIDDEN OUTCHIDING OUTCHIDESto surpass in chidingOUTCITY n pl OUTCITIESa city on the outskirts of a larger cityOUTCLASS v OUTCLASSED OUTCLASSING OUTCLASSESto surpass so decisively as to appear of a higher classOUTCLIMB v OUTCLIMBED or OUTCLOMB OUTCLIMBING OUTCLIMBSto surpass in climbingOUTCOACH v OUTCOACHED OUTCOACHING OUTCOACHESto surpass in coachingOUTCOME n pl OUTCOMESa resultOUTCOOK v OUTCOOKED OUTCOOKING OUTCOOKSto surpass in cookingOUTCOUNT v OUTCOUNTED OUTCOUNTING OUTCOUNTSto surpass in countingOUTCRAWL v OUTCRAWLED OUTCRAWLING OUTCRAWLSto surpass in crawlingOUTCRIED past tense of outcryOUTCRIES present 3d person sing of outcryOUTCROP v OUTCROPPED OUTCROPPING OUTCROPSto protrude above the soilOUTCROSS v OUTCROSSED OUTCROSSING OUTCROSSESto cross with a relatively unrelated individualOUTCROW v OUTCROWED OUTCROWING OUTCROWSto surpass in crowingOUTCROWD v OUTCROWDED OUTCROWDING OUTCROWDSto cause to be too crowdedOUTCRY v OUTCRIED OUTCRYING OUTCRIESto cry louder thanOUTCURSE v OUTCURSED OUTCURSING OUTCURSESto surpass in cursingOUTCURVE n pl OUTCURVESa type of pitch in baseballOUTDANCE v OUTDANCED OUTDANCING OUTDANCESto surpass in dancingOUTDARE v OUTDARED OUTDARING OUTDARESto surpass in daringOUTDATE v OUTDATED OUTDATING OUTDATESto make outofdateOUTDO v OUTDID OUTDONE OUTDOING OUTDOESto exceed in performanceOUTDODGE v OUTDODGED OUTDODGING OUTDODGESto surpass in dodgingOUTDOER n pl OUTDOERSone that outdoesOUTDOOR adj pertaining to the open airOUTDOORS adv in the open airOUTDRAG v OUTDRAGGED OUTDRAGGING OUTDRAGSto surpass in drag racingOUTDRANK past tense of outdrinkOUTDRAW v OUTDREW OUTDRAWN OUTDRAWING OUTDRAWSto attract a larger audience thanOUTDREAM v OUTDREAMED or OUTDREAMT OUTDREAMING OUTDREAMSto surpass in dreamingOUTDRESS v OUTDRESSED OUTDRESSING OUTDRESSESto surpass in dressingOUTDRINK v OUTDRANK OUTDRUNK OUTDRINKING OUTDRINKSto surpass in drinkingOUTDRIVE v OUTDROVE OUTDRIVEN OUTDRIVING OUTDRIVESto drive a golf ball farther thanOUTDROP v OUTDROPPED OUTDROPPING OUTDROPSto surpass in droppingOUTDUEL v OUTDUELED OUTDUELING OUTDUELS or OUTDUELLED OUTDUELLING OUTDUELSto surpass in duelingOUTEARN v OUTEARNED OUTEARNING OUTEARNSto surpass in earningOUTEAT v OUTATE OUTEATEN OUTEATING OUTEATSto surpass in eatingOUTECHO v OUTECHOED OUTECHOING OUTECHOESto surpass in echoingOUTER n pl OUTERSa part of a targetOUTFABLE v OUTFABLED OUTFABLING OUTFABLESto surpass in fablingOUTFACE v OUTFACED OUTFACING OUTFACESto confront unflinchinglyOUTFALL n pl OUTFALLSthe outlet of a body of waterOUTFAST v OUTFASTED OUTFASTING OUTFASTSto surpass in fastingOUTFAWN v OUTFAWNED OUTFAWNING OUTFAWNSto surpass in fawningOUTFEAST v OUTFEASTED OUTFEASTING OUTFEASTSto surpass in feastingOUTFEEL v OUTFELT OUTFEELING OUTFEELSto surpass in feelingOUTFENCE v OUTFENCED OUTFENCING OUTFENCESto surpass in fencingOUTFIELD n pl OUTFIELDSa part of a baseball fieldOUTFIGHT v OUTFOUGHT OUTFIGHTING OUTFIGHTSto defeatOUTFIND v OUTFOUND OUTFINDING OUTFINDSto surpass in findingOUTFIRE v OUTFIRED OUTFIRING OUTFIRESto surpass in firingOUTFISH v OUTFISHED OUTFISHING OUTFISHESto surpass in fishingOUTFIT v OUTFITTED OUTFITTING OUTFITSto equipOUTFLANK v OUTFLANKED OUTFLANKING OUTFLANKSto gain a tactical advantage overOUTFLOAT v OUTFLOATED OUTFLOATING OUTFLOATSto float longer thanOUTFLOW v OUTFLOWED OUTFLOWING OUTFLOWSto flow outOUTFLY v OUTFLEW OUTFLOWN OUTFLYING OUTFLIESto surpass in speed of flightOUTFOOL v OUTFOOLED OUTFOOLING OUTFOOLSto surpass in foolingOUTFOOT v OUTFOOTED OUTFOOTING OUTFOOTSto surpass in speedOUTFOUGHT past tense of outfightOUTFOUND past tense of outfindOUTFOX v OUTFOXED OUTFOXING OUTFOXESto outwitOUTFROWN v OUTFROWNED OUTFROWNING OUTFROWNSto frown more thanOUTGAIN v OUTGAINED OUTGAINING OUTGAINSto gain more thanOUTGAS v OUTGASSED OUTGASSING OUTGASSES or OUTGASESto remove gas fromOUTGAZE v OUTGAZED OUTGAZING OUTGAZESto surpass in gazingOUTGIVE v OUTGAVE OUTGIVEN OUTGIVING OUTGIVESto give more thanOUTGLARE v OUTGLARED OUTGLARING OUTGLARESto surpass in glaringOUTGLEAM v OUTGLEAMED OUTGLEAMING OUTGLEAMSto surpass in gleamingOUTGLOW v OUTGLOWED OUTGLOWING OUTGLOWSto surpass in glowingOUTGNAW v OUTGNAWED OUTGNAWN OUTGNAWING OUTGNAWSto surpass in gnawingOUTGO v OUTWENT OUTGONE OUTGOING OUTGOESto go beyondOUTGOING n pl OUTGOINGSa departureOUTGREW past tense of outgrowOUTGRIN v OUTGRINNED OUTGRINNING OUTGRINSto surpass in grinningOUTGROSS v OUTGROSSED OUTGROSSING OUTGROSSESto surpass in gross earningsOUTGROUP n pl OUTGROUPSa group of people outside ones own groupOUTGROW v OUTGREW OUTGROWN OUTGROWING OUTGROWSto grow too large forOUTGUESS v OUTGUESSED OUTGUESSING OUTGUESSESto anticipate the actions ofOUTGUIDE v OUTGUIDED OUTGUIDING OUTGUIDESto surpass in guidingOUTGUN v OUTGUNNED OUTGUNNING OUTGUNSto surpass in firepowerOUTGUSH v OUTGUSHED OUTGUSHING OUTGUSHESto surpass in gushingOUTHAUL n pl OUTHAULSa rope for extending a sail along a sparOUTHEAR v OUTHEARD OUTHEARING OUTHEARSto surpass in hearingOUTHIT v OUTHIT OUTHITTING OUTHITSto get more hits thanOUTHOMER v OUTHOMERED OUTHOMERING OUTHOMERSto surpass in hitting home runsOUTHOUSE n pl OUTHOUSESa toilet housed in a small structureOUTHOWL v OUTHOWLED OUTHOWLING OUTHOWLSto surpass in howlingOUTHUMOR v OUTHUMORED OUTHUMORING OUTHUMORSto surpass in humoringOUTHUNT v OUTHUNTED OUTHUNTING OUTHUNTSto surpass in huntingOUTING n pl OUTINGSa short pleasure tripOUTJINX v OUTJINXED OUTJINXING OUTJINXESto surpass in jinxingOUTJUMP v OUTJUMPED OUTJUMPING OUTJUMPSto surpass in jumpingOUTJUT v OUTJUTTED OUTJUTTING OUTJUTSto stick outOUTKEEP v OUTKEPT OUTKEEPING OUTKEEPSto surpass in keepingOUTKICK v OUTKICKED OUTKICKING OUTKICKSto surpass in kickingOUTKILL v OUTKILLED OUTKILLING OUTKILLSto surpass in killingOUTKISS v OUTKISSED OUTKISSING OUTKISSESto surpass in kissingOUTLAID past tense of outlayOUTLAIN past participle of outlieOUTLAND n pl OUTLANDSa foreign landOUTLAST v OUTLASTED OUTLASTING OUTLASTSto last longer thanOUTLAUGH v OUTLAUGHED OUTLAUGHING OUTLAUGHSto surpass in laughingOUTLAW v OUTLAWED OUTLAWING OUTLAWSto prohibitOUTLAWRY n pl OUTLAWRIEShabitual defiance of the lawOUTLAY v OUTLAID OUTLAYING OUTLAYSto pay outOUTLEAD v OUTLED OUTLEADING OUTLEADSto surpass in leadingOUTLEAP v OUTLEAPED or OUTLEAPT OUTLEAPING OUTLEAPSto surpass in leapingOUTLEARN v OUTLEARNED or OUTLEARNT OUTLEARNING OUTLEARNSto surpass in learningOUTLET n pl OUTLETSa passage for escape or dischargeOUTLIE v OUTLAY OUTLAIN OUTLYING OUTLIESto lie beyondOUTLIER n pl OUTLIERSan outlying area or portionOUTLINE v OUTLINED OUTLINING OUTLINESto indicate the main features or different parts ofOUTLINER n pl OUTLINERSone that outlinesOUTLIVE v OUTLIVED OUTLIVING OUTLIVESto live longer thanOUTLIVER n pl OUTLIVERSone that outlivesOUTLOOK n pl OUTLOOKSa point of viewOUTLOVE v OUTLOVED OUTLOVING OUTLOVESto surpass in lovingOUTLYING present participle of outlieOUTMAN v OUTMANNED OUTMANNING OUTMANSto surpass in manpowerOUTMARCH v OUTMARCHED OUTMARCHING OUTMARCHESto surpass in marchingOUTMATCH v OUTMATCHED OUTMATCHING OUTMATCHESto outdoOUTMODE v OUTMODED OUTMODING OUTMODESto outdateOUTMOST adj farthest outOUTMOVE v OUTMOVED OUTMOVING OUTMOVESto move faster or farther thanOUTPACE v OUTPACED OUTPACING OUTPACESto surpass in speedOUTPAINT v OUTPAINTED OUTPAINTING OUTPAINTSto surpass in paintingOUTPASS v OUTPASSED OUTPASSING OUTPASSESto excel in passing a footballOUTPITCH v OUTPITCHED OUTPITCHING OUTPITCHESto surpass in pitchingOUTPITY v OUTPITIED OUTPITYING OUTPITIESto surpass in pityingOUTPLACE v OUTPLACED OUTPLACING OUTPLACESto discontinue the employment ofOUTPLAN v OUTPLANNED OUTPLANNING OUTPLANSto surpass in planningOUTPLAY v OUTPLAYED OUTPLAYING OUTPLAYSto excel or defeat in a gameOUTPLOD v OUTPLODDED OUTPLODDING OUTPLODSto surpass in ploddingOUTPLOT v OUTPLOTTED OUTPLOTTING OUTPLOTSto surpass in plottingOUTPOINT v OUTPOINTED OUTPOINTING OUTPOINTSto score more points thanOUTPOLL v OUTPOLLED OUTPOLLING OUTPOLLSto get more votes thanOUTPORT n pl OUTPORTSa port of export or departureOUTPOST n pl OUTPOSTSa body of troops stationed at a distance from the main bodyOUTPOUR v OUTPOURED OUTPOURING OUTPOURSto pour outOUTPOWER v OUTPOWERED OUTPOWERING OUTPOWERSto surpass in powerOUTPRAY v OUTPRAYED OUTPRAYING OUTPRAYSto surpass in prayingOUTPREEN v OUTPREENED OUTPREENING OUTPREENSto surpass in preeningOUTPRESS v OUTPRESSED OUTPRESSING OUTPRESSESto surpass in pressingOUTPRICE v OUTPRICED OUTPRICING OUTPRICESto surpass in pricingOUTPSYCH v OUTPSYCHED OUTPSYCHING OUTPSYCHSto defeat by psychological meansOUTPULL v OUTPULLED OUTPULLING OUTPULLSto attract a larger audience or following thanOUTPUNCH v OUTPUNCHED OUTPUNCHING OUTPUNCHESto surpass in punchingOUTPUPIL n OUTPUPILSa pupil who lives off campusOUTPUSH v OUTPUSHED OUTPUSHING OUTPUSHESto surpass in pushingOUTPUT v OUTPUTTED OUTPUTTING OUTPUTSto produceOUTQUOTE v OUTQUOTED OUTQUOTING OUTQUOTESto surpass in quotingOUTRACE v OUTRACED OUTRACING OUTRACESto run faster or farther thanOUTRAGE v OUTRAGED OUTRAGING OUTRAGESto arouse anger or resentment inOUTRAISE v OUTRAISED OUTRAISING OUTRAISESto surpass in raisingOUTRAN past tense of outrunOUTRANCE n pl OUTRANCESthe last extremityOUTRANG past tense of outringOUTRANGE v OUTRANGED OUTRANGING OUTRANGESto surpass in rangeOUTRANK v OUTRANKED OUTRANKING OUTRANKSto rank higher thanOUTRATE v OUTRATED OUTRATING OUTRATESto surpass in a ratingOUTRAVE v OUTRAVED OUTRAVING OUTRAVESto surpass in ravingOUTRE adj deviating from what is usual or properOUTREACH v OUTREACHED OUTREACHING OUTREACHESto reach beyondOUTREAD v OUTREAD OUTREADING OUTREADSto surpass in readingOUTRIDE v OUTRODE OUTRIDDEN OUTRIDING OUTRIDESto ride faster or better thanOUTRIDER n pl OUTRIDERSa mounted attendant who rides before or beside a carriageOUTRIG v OUTRIGGED OUTRIGGING OUTRIGSto equip a boat with outriggers projections having floatsOUTRIGHT adj being without limit or reservationOUTRING v OUTRANG OUTRUNG OUTRINGING OUTRINGSto ring louder thanOUTRIVAL v OUTRIVALED OUTRIVALING OUTRIVALS or OUTRIVALLED OUTRIVALLING OUTRIVALSto outdo in a competition or rivalryOUTRO n pl OUTROSa concluding passage of a piece of musicOUTROAR v OUTROARED OUTROARING OUTROARSto roar louder thanOUTROCK v OUTROCKED OUTROCKING OUTROCKSto surpass in rockingOUTRODE past tense of outrideOUTROLL v OUTROLLED OUTROLLING OUTROLLSto roll outOUTROOT v OUTROOTED OUTROOTING OUTROOTSto pull up by the rootsOUTROW v OUTROWED OUTROWING OUTROWSto surpass in rowingOUTRUN v OUTRAN OUTRUNNING OUTRUNSto run faster thanOUTRUNG past participle of outringOUTRUSH v OUTRUSHED OUTRUSHING OUTRUSHESto surpass in rushingOUTSAID past tense of outsayOUTSAIL v OUTSAILED OUTSAILING OUTSAILSto sail faster thanOUTSANG past tense of outsingOUTSAT past tense of outsitOUTSAVOR v OUTSAVORED OUTSAVORING OUTSAVORSto surpass in a distinctive taste or smellOUTSAW past tense of outseeOUTSAY v OUTSAID OUTSAYING OUTSAYSto surpass in sayingOUTSCOLD v OUTSCOLDED OUTSCOLDING OUTSCOLDSto surpass in scoldingOUTSCOOP v OUTSCOOPED OUTSCOOPING OUTSCOOPSto surpass in scoopingOUTSCORE v OUTSCORED OUTSCORING OUTSCORESto score more points thanOUTSCORN v OUTSCORNED OUTSCORNING OUTSCORNSto surpass in scorningOUTSEE v OUTSAW OUTSEEN OUTSEEING OUTSEESto see beyondOUTSELL v OUTSOLD OUTSELLING OUTSELLSto sell more thanOUTSERT n pl OUTSERTSa folded sheet placed around a folded section of printed matterOUTSERVE v OUTSERVED OUTSERVING OUTSERVESto surpass in servingOUTSET n pl OUTSETSa beginningOUTSHAME v OUTSHAMED OUTSHAMING OUTSHAMESto surpass in shamingOUTSHINE v OUTSHONE or OUTSHINED OUTSHINING OUTSHINESto shine brighter thanOUTSHOOT v OUTSHOT OUTSHOOTING OUTSHOOTSto shoot better thanOUTSHOUT v OUTSHOUTED OUTSHOUTING OUTSHOUTSto shout louder thanOUTSIDE n pl OUTSIDESthe outer side surface or partOUTSIDER n pl OUTSIDERSone that does not belong to a particular groupOUTSIGHT n pl OUTSIGHTSthe power of perceiving external thingsOUTSIN v OUTSINNED OUTSINNING OUTSINSto surpass in sinningOUTSING v OUTSANG OUTSUNG OUTSINGING OUTSINGSto surpass in singingOUTSIT v OUTSAT OUTSITTING OUTSITSto remain sitting or in session longer thanOUTSIZE n pl OUTSIZESan unusual sizeOUTSIZED adjOUTSKATE v OUTSKATED OUTSKATING OUTSKATESto surpass in skatingOUTSKIRT n pl OUTSKIRTSan outlying areaOUTSLEEP v OUTSLEPT OUTSLEEPING OUTSLEEPSto sleep later thanOUTSLICK v OUTSLICKED OUTSLICKING OUTSLICKSto get the better of by trickery or cunningOUTSMART v OUTSMARTED OUTSMARTING OUTSMARTSto outwitOUTSMELL v OUTSMELLED or OUTSMELT OUTSMELLING OUTSMELLSto surpass in smellingOUTSMILE v OUTSMILED OUTSMILING OUTSMILESto surpass in smilingOUTSMOKE v OUTSMOKED OUTSMOKING OUTSMOKESto surpass in smokingOUTSNORE v OUTSNORED OUTSNORING OUTSNORESto surpass in snoringOUTSOAR v OUTSOARED OUTSOARING OUTSOARSto soar beyondOUTSOLD past tense of outsellOUTSOLE n pl OUTSOLESthe outer sole of a boot or shoeOUTSPAN v OUTSPANNED OUTSPANNING OUTSPANSto unharness a draft animalOUTSPEAK v OUTSPOKE OUTSPOKEN OUTSPEAKING OUTSPEAKSto outdo in speakingOUTSPEED v OUTSPED or OUTSPEEDED OUTSPEEDING OUTSPEEDSto go faster thanOUTSPELL v OUTSPELLED or OUTSPELT OUTSPELLING OUTSPELLSto surpass in spellingOUTSPEND v OUTSPENT OUTSPENDING OUTSPENDSto exceed the limits of in spendingOUTSPOKE past tense of outspeakOUTSPOKEN past participle of outspeakOUTSTAND v OUTSTOOD OUTSTANDING OUTSTANDSto endure beyondOUTSTARE v OUTSTARED OUTSTARING OUTSTARESto outfaceOUTSTART v OUTSTARTED OUTSTARTING OUTSTARTSto get ahead of at the startOUTSTATE v OUTSTATED OUTSTATING OUTSTATESto surpass in statingOUTSTAY v OUTSTAYED OUTSTAYING OUTSTAYSto surpass in staying powerOUTSTEER v OUTSTEERED OUTSTEERING OUTSTEERSto surpass in steeringOUTSTEP v OUTSTEPPED OUTSTEPPING OUTSTEPSto step beyondOUTSTOOD past tense of outstandOUTSTRIP v OUTSTRIPPED OUTSTRIPPING OUTSTRIPSto go faster or farther thanOUTSTUDY v OUTSTUDIED OUTSTUDYING OUTSTUDIESto surpass in studyingOUTSTUNT v OUTSTUNTED OUTSTUNTING OUTSTUNTSto surpass in stuntingOUTSULK v OUTSULKED OUTSULKING OUTSULKSto surpass in sulkingOUTSUNG past participle of outsingOUTSWEAR v OUTSWORE or OUTSWARE OUTSWORN OUTSWEARING OUTSWEARSto surpass in swearingOUTSWEEP v OUTSWEPT OUTSWEEPING OUTSWEEPSto surpass in sweepingOUTSWIM v OUTSWAM OUTSWUM OUTSWIMMING OUTSWIMSto swim faster or farther thanOUTSWING v OUTSWUNG OUTSWINGING OUTSWINGSto surpass in swingingOUTTAKE n pl OUTTAKESa passage outwardsOUTTALK v OUTTALKED OUTTALKING OUTTALKSto surpass in talkingOUTTASK v OUTTASKED OUTTASKING OUTTASKSto surpass in taskingOUTTELL v OUTTOLD OUTTELLING OUTTELLSto say openlyOUTTHANK v OUTTHANKED OUTTHANKING OUTTHANKSto surpass in thankingOUTTHINK v OUTTHOUGHT OUTTHINKING OUTTHINKSto get the better of by thinkingOUTTHROB v OUTTHROBBED OUTTHROBBING OUTTHROBSto surpass in throbbingOUTTHROW v OUTTHREW OUTTHROWN OUTTHROWING OUTTHROWSto throw farther or more accurately thanOUTTOLD past tense of outtellOUTTOWER v OUTTOWERED OUTTOWERING OUTTOWERSto tower aboveOUTTRADE v OUTTRADED OUTTRADING OUTTRADESto get the better of in a tradeOUTTRICK v OUTTRICKED OUTTRICKING OUTTRICKSto get the better of by trickeryOUTTROT v OUTTROTTED OUTTROTTING OUTTROTSto surpass in trottingOUTTRUMP v OUTTRUMPED OUTTRUMPING OUTTRUMPSto outplayOUTTURN n pl OUTTURNSa quantity producedOUTVALUE v OUTVALUED OUTVALUING OUTVALUESto be worth more thanOUTVAUNT v OUTVAUNTED OUTVAUNTING OUTVAUNTSto surpass in vauntingOUTVIE v OUTVIED OUTVYING OUTVIESto surpass in a competitionOUTVOICE v OUTVOICED OUTVOICING OUTVOICESto surpass in loudness of voiceOUTVOTE v OUTVOTED OUTVOTING OUTVOTESto defeat by a majority of votesOUTWAIT v OUTWAITED OUTWAITING OUTWAITSto exceed in patienceOUTWALK v OUTWALKED OUTWALKING OUTWALKSto surpass in walkingOUTWAR v OUTWARRED OUTWARRING OUTWARSto surpass in warringOUTWARD adv toward the outsideOUTWARDS adv outwardOUTWASH n pl OUTWASHESdetritus washed from a glacierOUTWASTE v OUTWASTED OUTWASTING OUTWASTESto surpass in wastingOUTWATCH v OUTWATCHED OUTWATCHING OUTWATCHESto watch longer thanOUTWEAR v OUTWORE OUTWORN OUTWEARING OUTWEARSto last longer thanOUTWEARY v OUTWEARIED OUTWEARYING OUTWEARIESto surpass in wearyingOUTWEEP v OUTWEPT OUTWEEPING OUTWEEPSto weep more thanOUTWEIGH v OUTWEIGHED OUTWEIGHING OUTWEIGHSto weigh more thanOUTWENT past tense of outgoOUTWHIRL v OUTWHIRLED OUTWHIRLING OUTWHIRLSto surpass in whirlingOUTWILE v OUTWILED OUTWILING OUTWILESto surpass in wilingOUTWILL v OUTWILLED OUTWILLING OUTWILLSto surpass in willpowerOUTWIND v OUTWINDED OUTWINDING OUTWINDSto cause to be out of breathOUTWISH v OUTWISHED OUTWISHING OUTWISHESto surpass in wishingOUTWIT v OUTWITTED OUTWITTING OUTWITSto get the better of by superior clevernessOUTWITH prep beyond the limits ofOUTWORE past tense of outwearOUTWORK v OUTWORKED or OUTWROUGHT OUTWORKING OUTWORKSto work faster or better thanOUTWORN past participle of outwearOUTWRITE v OUTWROTE or OUTWRIT OUTWRITTEN OUTWRITING OUTWRITESto write better thanOUTYELL v OUTYELLED OUTYELLING OUTYELLSto yell louder thanOUTYELP v OUTYELPED OUTYELPING OUTYELPSto surpass in yelpingOUTYIELD v OUTYIELDED OUTYIELDING OUTYIELDSto surpass in yieldOUZEL n pl OUZELSa European birdOUZO n pl OUZOSa Greek liqueurOVA pl of ovumOVAL n pl OVALSan oval eggshaped figure or objectOVALITY n pl OVALITIESovalnessOVALLY adv in the shape of an ovalOVALNESS n pl OVALNESSESthe state of being ovalOVARIAL adj ovarianOVARIAN adj pertaining to an ovaryOVARIES pl of ovaryOVARIOLE n pl OVARIOLESone of the tubes of which the ovaries of most insects are composedOVARITIS n pl OVARITIDESinflammation of an ovaryOVARY n pl OVARIESa female reproductive glandOVATE adj eggshapedOVATELY advOVATION n pl OVATIONSan expression or demonstration of popular acclaimOVEN n pl OVENSan enclosed compartment in which substances are heatedOVENLIKE adjOVENBIRD n pl OVENBIRDSan American songbirdOVENWARE n pl OVENWARESheatresistant dishes for baking and serving foodOVER v OVERED OVERING OVERSto leap above and to the other side ofOVERABLE adj excessively ableOVERACT v OVERACTED OVERACTING OVERACTSto act with exaggerationOVERAGE n pl OVERAGESan amount in excessOVERAGED adj too old to be usefulOVERALL n pl OVERALLSa loose outer garmentOVERAPT adj excessively aptOVERARCH v OVERARCHED OVERARCHING OVERARCHESto form an arch overOVERARM v OVERARMED OVERARMING OVERARMSto supply with an excess of weaponryOVERATE past tense of overeatOVERAWE v OVERAWED OVERAWING OVERAWESto subdue by inspiring aweOVERBAKE v OVERBAKED OVERBAKING OVERBAKESto bake too longOVERBEAR v OVERBORE OVERBORNE or OVERBORN OVERBEARING OVERBEARSto bring down by superior weight or forceOVERBEAT v OVERBEAT OVERBEATEN OVERBEATING OVERBEATSto beat too muchOVERBED adj spanning a bedOVERBET v OVERBET or OVERBETTED OVERBETTING OVERBETSto bet too muchOVERBID v OVERBID OVERBID or OVERBIDDEN OVERBIDDING OVERBIDSto bid higher thanOVERBIG adj too bigOVERBILL v OVERBILLED OVERBILLING OVERBILLSto bill too muchOVERBITE n pl OVERBITESa faulty closure of the teethOVERBLOW v OVERBLEW OVERBLOWN OVERBLOWING OVERBLOWSto give excessive importance toOVERBOIL v OVERBOILED OVERBOILING OVERBOILSto boil too longOVERBOLD adj excessively bold or forwardOVERBOOK v OVERBOOKED OVERBOOKING OVERBOOKSto issue reservations in excess of the space availableOVERBOOT n pl OVERBOOTSa boot worn over a shoe or another bootOVERBORE past tense of overbearOVERBORN a past participle of overbearOVERBORNE a past participle of overbearOVERBOUGHT past tense of overbuyOVERBRED adj bred too finely or to excessOVERBURN v OVERBURNED or OVERBURNT OVERBURNING OVERBURNSto burn too longOVERBUSY adj too busyOVERBUY v OVERBOUGHT OVERBUYING OVERBUYSto buy in quantities exceeding need or demandOVERCALL v OVERCALLED OVERCALLING OVERCALLSto overbidOVERCAME past tense of overcomeOVERCAST v OVERCAST or OVERCASTED OVERCASTING OVERCASTSto become cloudy or darkOVERCOAT n pl OVERCOATSa warm coat worn over indoor clothingOVERCOLD adj too coldOVERCOME v OVERCAME OVERCOMING OVERCOMESto get the better ofOVERCOOK v OVERCOOKED OVERCOOKING OVERCOOKSto cook too longOVERCOOL v OVERCOOLED OVERCOOLING OVERCOOLSto make too coolOVERCOY adj too coyOVERCRAM v OVERCRAMMED OVERCRAMMING OVERCRAMSto stuff or cram to excessOVERCROP v OVERCROPPED OVERCROPPING OVERCROPSto exhaust the fertility of by cultivating to excessOVERCURE v OVERCURED OVERCURING OVERCURESto cure too longOVERCUT v OVERCUT OVERCUTTING OVERCUTSto cut too muchOVERDARE v OVERDARED OVERDARING OVERDARESto become too daringOVERDEAR adj too dear too costlyOVERDECK v OVERDECKED OVERDECKING OVERDECKSto adorn extravagantlyOVERDO v OVERDID OVERDONE OVERDOING OVERDOESto do to excessOVERDOER n pl OVERDOERSone that overdoesOVERDOG n pl OVERDOGSone that is dominant or victoriousOVERDOSE v OVERDOSED OVERDOSING OVERDOSESto give an excessive dose toOVERDRAW v OVERDREW OVERDRAWN OVERDRAWING OVERDRAWSto draw checks on in excess of the balanceOVERDRY v OVERDRIED OVERDRYING OVERDRIESto dry too muchOVERDUB v OVERDUBBED OVERDUBBING OVERDUBSto add sound to an existing recordingOVERDUE adj not paid when dueOVERDYE v OVERDYED OVERDYEING OVERDYESto dye with too much colorOVERDYER n pl OVERDYERSone that overdyesOVEREASY adj too easyOVEREAT v OVERATE OVEREATEN OVEREATING OVEREATSto eat to excessOVEREDIT v OVEREDITED OVEREDITING OVEREDITSto edit more than necessaryOVERFAR adj too great in distance extent or degreeOVERFAST adj too fastOVERFAT adj too fatOVERFEAR v OVERFEARED OVERFEARING OVERFEARSto fear too muchOVERFEED v OVERFED OVERFEEDING OVERFEEDSto feed too muchOVERFILL v OVERFILLED OVERFILLING OVERFILLSto fill to overflowingOVERFINE adj excessively fine or particularOVERFISH v OVERFISHED OVERFISHING OVERFISHESto deplete the supply of fish in an area by fishing to excessOVERFIT adj fitted to excessOVERFLOW v OVERFLOWED OVERFLOWN OVERFLOWING OVERFLOWSto flow over the top ofOVERFLY v OVERFLEW OVERFLOWN OVERFLYING OVERFLIESto fly overOVERFOND adj too fond or affectionateOVERFOUL adj too foulOVERFREE adj too freeOVERFULL adj too fullOVERFUND v OVERFUNDED OVERFUNDING OVERFUNDSto fund more than requiredOVERGILD v OVERGILDED or OVERGILT OVERGILDING OVERGILDSto gild overOVERGIRD v OVERGIRDED or OVERGIRT OVERGIRDING OVERGIRDSto gird to excessOVERGLAD adj too gladOVERGOAD v OVERGOADED OVERGOADING OVERGOADSto goad too muchOVERGROW v OVERGREW OVERGROWN OVERGROWING OVERGROWSto grow overOVERHAND v OVERHANDED OVERHANDING OVERHANDSto sew with short vertical stitchesOVERHANG v OVERHUNG OVERHANGING OVERHANGSto hang or project overOVERHARD adj too hardOVERHATE v OVERHATED OVERHATING OVERHATESto hate to excessOVERHAUL v OVERHAULED OVERHAULING OVERHAULSto examine carefully for needed repairsOVERHEAD n pl OVERHEADSthe general cost of running a businessOVERHEAP v OVERHEAPED OVERHEAPING OVERHEAPSto heap up or accumulate to excessOVERHEAR v OVERHEARD OVERHEARING OVERHEARSto hear without the speakers knowledge or intentionOVERHEAT v OVERHEATED OVERHEATING OVERHEATSto heat to excessOVERHIGH adj too highOVERHOLD v OVERHELD OVERHOLDING OVERHOLDSto rate too highlyOVERHOLY adj too holyOVERHOPE v OVERHOPED OVERHOPING OVERHOPESto hope exceedinglyOVERHOT adj too hotOVERHUNG past tense of overhangOVERHUNT v OVERHUNTED OVERHUNTING OVERHUNTSto deplete the supply of game in an area by hunting to excessOVERHYPE v OVERHYPED OVERHYPING OVERHYPESto hype to excessOVERIDLE adj too idleOVERJOY v OVERJOYED OVERJOYING OVERJOYSto fill with great joyOVERJUST adj too justOVERKEEN adj too keenOVERKILL v OVERKILLED OVERKILLING OVERKILLSto destroy with more nuclear force than requiredOVERKIND adj too kindOVERLADE v OVERLADED OVERLADEN OVERLADING OVERLADESto load with too great a burdenOVERLAID past tense of overlayOVERLAIN past participle of overlieOVERLAND n pl OVERLANDSa train or stagecoach that travels over landOVERLAP v OVERLAPPED OVERLAPPING OVERLAPSto extend over and cover a part ofOVERLATE adj too lateOVERLAX adj too laxOVERLAY v OVERLAID OVERLAYING OVERLAYSto lay overOVERLEAF adv on the other side of the pageOVERLEAP v OVERLEAPED or OVERLEAPT OVERLEAPING OVERLEAPSto leap overOVERLEND v OVERLENT OVERLENDING OVERLENDSto lend too muchOVERLET v OVERLET OVERLETTING OVERLETSto let to excessOVERLEWD adj too lewdOVERLIE v OVERLAY OVERLAIN OVERLYING OVERLIESto lie overOVERLIT a past tense of overlightOVERLIVE v OVERLIVED OVERLIVING OVERLIVESto outliveOVERLOAD v OVERLOADED OVERLOADING OVERLOADSto load to excessOVERLONG adj too longOVERLOOK v OVERLOOKED OVERLOOKING OVERLOOKSto fail to noticeOVERLORD v OVERLORDED OVERLORDING OVERLORDSto rule tyrannicallyOVERLOUD adj too loudOVERLOVE v OVERLOVED OVERLOVING OVERLOVESto love to excessOVERLUSH adj excessively lushOVERLY adv to an excessive degreeOVERLYING present participle of overlieOVERMAN n pl OVERMENa foremanOVERMAN v OVERMANNED OVERMANNING OVERMANSto provide with more men than are neededOVERMANY adj too manyOVERMEEK adj excessively meekOVERMELT v OVERMELTED OVERMELTING OVERMELTSto melt too muchOVERMEN pl of overmanOVERMILD adj too mildOVERMILK v OVERMILKED OVERMILKING OVERMILKSto milk to excessOVERMINE v OVERMINED OVERMINING OVERMINESto mine to excessOVERMIX v OVERMIXED OVERMIXING OVERMIXESto mix too muchOVERMUCH n pl OVERMUCHESan excessOVERNEAR adj too nearOVERNEAT adj too neatOVERNEW adj too newOVERNICE adj excessively niceOVERPACK v OVERPACKED OVERPACKING OVERPACKSto pack to excessOVERPASS v OVERPASSED or OVERPAST OVERPASSING OVERPASSESto pass overOVERPAY v OVERPAID OVERPAYING OVERPAYSto pay too muchOVERPERT adj too pertOVERPLAN v OVERPLANNED OVERPLANNING OVERPLANSto plan to excessOVERPLAY v OVERPLAYED OVERPLAYING OVERPLAYSto exaggerateOVERPLOT v OVERPLOTTED OVERPLOTTING OVERPLOTSto devise an overly complex plot forOVERPLUS n pl OVERPLUSESa surplusOVERPLY v OVERPLIED OVERPLYING OVERPLIESto ply to excess overworkOVERPUMP v OVERPUMPED OVERPUMPING OVERPUMPSto pump to excessOVERRAN past tense of overrunOVERRANK adj too luxuriant in growthOVERRASH adj too rashOVERRATE v OVERRATED OVERRATING OVERRATESto rate too highlyOVERRICH adj too richOVERRIDE v OVERRODE OVERRIDDEN OVERRIDING OVERRIDESto ride overOVERRIFE adj too rifeOVERRIPE adj too ripeOVERRUDE adj excessively rudeOVERRUFF v OVERRUFFED OVERRUFFING OVERRUFFSto trump with a higher trump card than has already been playedOVERRULE v OVERRULED OVERRULING OVERRULESto disallow the arguments ofOVERRUN v OVERRAN OVERRUNNING OVERRUNSto spread or swarm overOVERSAD adj excessively sadOVERSALE n pl OVERSALESthe act of oversellingOVERSALT v OVERSALTED OVERSALTING OVERSALTSto salt to excessOVERSAVE v OVERSAVED OVERSAVING OVERSAVESto save too muchOVERSEA adv overseasOVERSEAS adv beyond or across the seaOVERSEE v OVERSAW OVERSEEN OVERSEEING OVERSEESto watch over and directOVERSEED v OVERSEEDED OVERSEEDING OVERSEEDSto seed to excessOVERSEER n pl OVERSEERSone that overseesOVERSELL v OVERSOLD OVERSELLING OVERSELLSto sell more of than can be deliveredOVERSET v OVERSET OVERSETTING OVERSETSto turn or tip overOVERSEW v OVERSEWED OVERSEWN OVERSEWING OVERSEWSto overhandOVERSHOE n pl OVERSHOESa protective outer shoeOVERSHOT n pl OVERSHOTSa type of fabric weaveOVERSICK adj too sickOVERSIDE n pl OVERSIDESthe other side of a phonograph recordOVERSIZE n pl OVERSIZESan unusually large sizeOVERSLIP v OVERSLIPPED or OVERSLIPT OVERSLIPPING OVERSLIPSto leave outOVERSLOW adj too slowOVERSOAK v OVERSOAKED OVERSOAKING OVERSOAKSto soak too muchOVERSOFT adj too softOVERSOLD past tense of oversellOVERSOON adv too soonOVERSOUL n pl OVERSOULSa supreme reality or mind in transcendentalismOVERSPIN n pl OVERSPINSa forward spin imparted to a ballOVERSTAY v OVERSTAYED OVERSTAYING OVERSTAYSto stay beyond the limits or duration ofOVERSTEP v OVERSTEPPED OVERSTEPPING OVERSTEPSto go beyondOVERSTIR v OVERSTIRRED OVERSTIRRING OVERSTIRSto stir too muchOVERSUDS v OVERSUDSED OVERSUDSING OVERSUDSESto form an excessive amount of sudsOVERSUP v OVERSUPPED OVERSUPPING OVERSUPSto sup to excessOVERSURE adj too sureOVERT adj open to viewOVERTAKE v OVERTOOK OVERTAKEN OVERTAKING OVERTAKESto catch up withOVERTALK v OVERTALKED OVERTALKING OVERTALKSto talk to excessOVERTAME adj too tameOVERTART adj too tartOVERTASK v OVERTASKED OVERTASKING OVERTASKSto task too severelyOVERTAX v OVERTAXED OVERTAXING OVERTAXESto tax too heavilyOVERTHIN adj too thinOVERTIME v OVERTIMED OVERTIMING OVERTIMESto exceed the desired timing forOVERTIP v OVERTIPPED OVERTIPPING OVERTIPSto tip more than what is customaryOVERTIRE v OVERTIRED OVERTIRING OVERTIRESto tire excessivelyOVERTLY adv in an overt mannerOVERTOIL v OVERTOILED OVERTOILING OVERTOILSto wear out or exhaust by excessive toilOVERTONE n pl OVERTONESa higher partial toneOVERTOOK past tense of overtakeOVERTOP v OVERTOPPED OVERTOPPING OVERTOPSto rise above the top ofOVERTRIM v OVERTRIMMED OVERTRIMMING OVERTRIMSto trim too muchOVERTURE v OVERTURED OVERTURING OVERTURESto proposeOVERTURN v OVERTURNED OVERTURNING OVERTURNSto turn overOVERURGE v OVERURGED OVERURGING OVERURGESto urge too muchOVERUSE v OVERUSED OVERUSING OVERUSESto use too muchOVERVIEW n pl OVERVIEWSa summaryOVERVOTE v OVERVOTED OVERVOTING OVERVOTESto defeat by a majority of votesOVERWARM v OVERWARMED OVERWARMING OVERWARMSto warm too muchOVERWARY adj too waryOVERWEAK adj too weakOVERWEAR v OVERWORE OVERWORN OVERWEARING OVERWEARSto wear outOVERWEEN v OVERWEENED OVERWEENING OVERWEENSto be arrogantOVERWET v OVERWETTED OVERWETTING OVERWETSto wet too muchOVERWIDE adj too wideOVERWILY adj too wilyOVERWIND v OVERWOUND OVERWINDING OVERWINDSto wind too much as a watchOVERWISE adj too wiseOVERWORD n pl OVERWORDSa word or phrase repeated at intervals in a songOVERWORE past tense of overwearOVERWORK v OVERWORKED or OVERWROUGHT OVERWORKING OVERWORKSto cause to work too hardOVERWORN past participle of overwearOVERWOUND past tense of overwindOVERZEAL n pl OVERZEALSexcess of zealOVIBOS n pl OVIBOSa wild oxOVICIDE n pl OVICIDESan agent that kills eggsOVICIDAL adjOVIDUCT n pl OVIDUCTSa tube through which ova travel from an ovaryOVIDUCAL adjOVIFORM adj shaped like an eggOVINE n pl OVINESa sheep or a closely related animalOVIPARA npl egglaying animalsOVIPOSIT v OVIPOSITED OVIPOSITING OVIPOSITSto lay eggsOVISAC n pl OVISACSa sac containing an ovum or ovaOVOID n pl OVOIDSan eggshaped bodyOVOIDAL n pl OVOIDALSan ovoidOVOLO n pl OVOLOS or OVOLIa convex moldingOVONIC n pl OVONICSan electronic deviceOVULATE v OVULATED OVULATING OVULATESto produce ovaOVULE n pl OVULESa rudimentary seedOVULAR OVULARY adjOVUM n pl OVAthe female reproductive cell of animalsOW interj  used to express sudden painOWE v OWED OWING OWESto be under obligation to pay or repayOWL n pl OWLSa nocturnal birdOWLERY n pl OWLERIESa place that owls inhabitOWLET n pl OWLETSa young owlOWLISH adj resembling an owlOWLISHLY advOWLLIKE adj owlishOWLY adj OWLIER OWLIESTowlishOWN v OWNED OWNING OWNSto have as a belongingOWNABLE adjOWNER n pl OWNERSone that ownsOWSE n pl OWSENoxOWT n pl OWTSanythingOX n pl OXESa clumsy personOX n pl OXENa hoofed mammalOXALATE v OXALATED OXALATING OXALATESto treat with an oxalate a chemical saltOXALIS n pl OXALISESa flowering plantOXALIC adjOXAZEPAM n pl OXAZEPAMSa tranquilizing drugOXAZINE n pl OXAZINESa chemical compoundOXAZOLE n pl OXAZOLESa liquid chemical compoundOXBLOOD n pl OXBLOODSa deep red colorOXBOW n pl OXBOWSa Ushaped piece of wood in an ox yokeOXCART n pl OXCARTSan oxdrawn cartOXEN pl of oxOXER n pl OXERSa fence for keeping in cattleOXEYE n pl OXEYESa flowering plantOXFORD n pl OXFORDSa type of shoeOXHEART n pl OXHEARTSa variety of sweet cherryOXHERD n pl OXHERDSone who tends oxenOXHIDE n pl OXHIDESleather made from the skin of an oxOXIC adj denoting a process in which oxygen in involvedOXID n pl OXIDSoxideOXIDABLE adj capable of being oxidizedOXIDANT n pl OXIDANTSan oxidizing agentOXIDASE n pl OXIDASESan oxidizing enzymeOXIDASIC adjOXIDATE v OXIDATED OXIDATING OXIDATESto oxidizeOXIDE n pl OXIDESa binary compound of oxygen with another element or radicalOXIDIC adjOXIDISE v OXIDISED OXIDISING OXIDISESto oxidizeOXIDISER n pl OXIDISERSoxidizerOXIDIZE v OXIDIZED OXIDIZING OXIDIZESto combine with oxygenOXIDIZER n pl OXIDIZERSan oxidantOXIM n pl OXIMSoximeOXIME n pl OXIMESa chemical compoundOXIMETER n pl OXIMETERSan instrument for measuring the amount of oxygen in the bloodOXIMETRY n pl OXIMETRIESthe use of an oximeterOXLIKE adj resembling an oxOXLIP n pl OXLIPSa flowering plantOXO adj containing oxygenOXPECKER n pl OXPECKERSan African birdOXTAIL n pl OXTAILSthe tail of an oxOXTER n pl OXTERSthe armpitOXTONGUE n pl OXTONGUESa European herbOXY adj containing oxygenOXYACID n pl OXYACIDSan acid that contains oxygenOXYGEN n pl OXYGENSa gaseous elementOXYGENIC adjOXYMORON n pl OXYMORONS or OXYMORAa combination of contradictory or incongruous wordsOXYPHIL n pl OXYPHILSoxyphileOXYPHILE n pl OXYPHILESan organism that thrives in a relatively acid environmentOXYSALT n pl OXYSALTSa salt of an oxyacidOXYSOME n pl OXYSOMESa structural unit of cellular cristaeOXYTOCIC n pl OXYTOCICSa drug that hastens the process of childbirthOXYTOCIN n pl OXYTOCINSa pituitary hormoneOXYTONE n pl OXYTONESa word having heavy stress on the last syllableOXYTROPE n pl OXYTROPESa flowering plantOY interj  used to express dismay or painOYER n pl OYERSa type of legal writOYES n pl OYESSESoyezOYEZ n pl OYEZESa cry used to introduce the opening of a court of lawOYSTER v OYSTERED OYSTERING OYSTERSto gather oysters edible mollusksOYSTERER n pl OYSTERERSone that gathers or sells oystersOZONATE v OZONATED OZONATING OZONATESto treat or combine with ozoneOZONE n pl OZONESa form of oxygenOZONIC adjOZONIDE n pl OZONIDESa compound of ozoneOZONISE v OZONISED OZONISING OZONISESto ozonizeOZONIZE v OZONIZED OZONIZING OZONIZESto convert into ozoneOZONIZER n pl OZONIZERSa device for converting oxygen into ozoneOZONOUS adj pertaining to ozone").
+```
+entry(pa, n, [pas], "uba").
+entry(paan, n, [paans], "ganye mai gishirin betel wanda aka nade a kusa da gutsattsarin kirfa da kayan ƙamshi").
+entry(pablum, n, [pablums], "rubutacciyar magana ko jawabin da ba shi da dadi").
+entry(pabulum, n, [pabulums], "abinciPABULAR adj").
+entry(pac, n, [pacs], "takalmi mai kama da moccasin").
+entry(paca, n, [pacas], "babban birai").
+entry(tafi, v, [tafiya, yana tafiya, tafiya], "yin tafiya da mataki na yau da kullum").
+entry(pacer, n, [pacers], "dokin da tafiyarsa take zira").
+entry(pacey, sifa, [], "PACIER PACIEST riƙe da saurin tafiya").
+entry(pacha, n, [pachoci], "pasha").
+entry(pashadom, n, [pashadom], "pashadom").
+shigarwa(pachalic, n, [pachalics], "pashalik").
+entry(pachinko, n, [wasannin pachinko], "wani wasan pinball na Jafananci").
+entry(pachisi, n, [wasannin, allon], "wasa na allo daga Indiya").
+entry(pachouli, n, [pachoulis], "wani ganye daga ƙasar Indiya ta Gabas").
+entry(pachuco, n, [pachucos], "wani matashi Bayarabe-Mexikawan da ke yin ado").
+entry(pacier, gwagwarmaya, [], "na sauri da saurin").
+entry(paciest, superlative, [], "na pacey da pacy").
+entry(pasifik, siffofi, [], "masu lumana").
+entry(pacified, baya, [], "lokacin sulhunta").
+entry(mammyo, n, [mammyoyi], "wanda ke kwantar da hankula").
+entry(pacifism, n, [zamantakewa], "adawa da yaki ko tashin hankali").
+entry(pacifist, n, [masu-zaman-lafiya], "mai kare zaman lafiya").
+entry(rarrashi, v, [rarrashi,ra,rarrasha], "yin lumana").
+shiga(gudun, n, [gudu], "saurin da wani al'amari ya faru").
+entry(pack, v, [kunshi, nadewa, kunshe], "sanya cikin akwati don sufuri ko ajiyaPACKABLE sif").
+entry(fakitin, v, [an fakita, fakitawa, fakitai], "yin fakiti da wani abu a cikin kwali ko akwati").
+entry(packager, n, [masu_shiryawa], "wanda ke shiryawa").
+entry(packer, n, [mahadawa], "wanda ke hada kaya").
+entry(packet, v, [faifaye,faifayowa,faifayan], "yi cikin ƙaramin fakiti").
+entry(shiryawa, n, [shirye-shirye], "abu da ake amfani da shi don shirya").
+entry(packly, adv, [], "cikin kusanci").
+entry(packman, n, [packmen], "mai sayar da kaya").
+entry(packness, n, [packnesses], "kusanci").
+entry(jakar baya, n, [jakunkunan baya], "jakar dauka da ake sanyawa a baya").
+shigarwa(packwax, n, [packwaxes], "paxwax").
+entry(pact, n, [pacts], "yarjejeniya").
+entry(paction, n, [pactions], "yarjejeniya").
+entry(pacy, adj, [], "MAFI KYAUTA MAFI KYAUpacey").
+entry(paczki, n, [paczkis], "wani cikakken gurasa mai taba mai cikewa").
+entry(fadama, v, [fadamawa, fadamawa, fadamowi], "cika da kayan laushi").
+entry(padauk, n, [padauks], "itacen daji na yankunan zafi").
+entry(padder, n, [maibarije], "wanda ke baje").
+entry(paddies, pl, [], "na shinkafa").
+entry(padding, n, [bussa], "abu da za a yi amfani da shi wajen bussa").
+entry(paddle, v, [paddled,paddling,paddles], "ta tura da kayan aiki mai faffadan ruwa").
+entry(mahiya, n, [mahiya], "wanda ke tuƙa kwalekwale").
+shiga(tuka, n, [tukoki], "aikin wanda yake tuka ruwa").
+entry(paddock, v, [paddocked, paddocking, paddocks], "a kulle a cikin shingen dawakai").
+shigar(paddy, n, [paddies], "filin shinkafa").
+entry(padi, n, [padis], "shinkafa").
+entry(sarki, n, [sarakuna], "mai mulki").
+entry(padle, n, [padles], "fassara").
+entry(kulle, v, [kullatacce, kullatacwa, kulluna], "don tabbatarwa da irin makulli").
+entry(padnag, n, [padnags], "dokinsa da ke tafiya a hankali sannu-sannu").
+entry(padouk, n, [padouks], "padauk").
+entry(padre, n, [iyaye], "ko PADRI wani limamin Kirista").
+entry(padrona, n, [padronas], "matar da take shugabanci ko mai aiki").
+entry(padrone, n, [padrones], "ko PADRONIda wani shugaba ko ogan").
+entry(sarki, n, [sarkis], "sarki").
+entry(paduasoy, n, [paduasoys], "wani karfen auduga mai ƙarfi").
+entry(paean, n, [paeans], "waka ta farin ciki").
+entry(paeanism, n, [paeanisms], "rera waka tare da murna").
+entry(paella, n, [paellas], "wani stew mai dandano na saffron").
+entry(paeon, n, [paeons], "sautin karin waka na harsuna hud'uPAEONIC adj").
+entry(paesan, n, [paesans], "paesano").
+entry(paesano, n, [paesanos], "ko PAESANI ɗan ƙasa ɗaya").
+entry(pagan, n, [pagans], "mabiya addinin wanda yake addini masu yawa").
+entry(pagandom, n, [pagandoms], "mulkin mushirikai").
+shigar(paganise, v, [paganised, paganising, paganises], "yin shiri").
+entry(paganish, adj, [], "mai kama da arna").
+entry(shaidanci, n, [shaidancoci], "wani hali mai rashin addini").
+entry(paganist, n, [paganisti], "mai bautawa gumaka").
+entry(paganize, v, [paganized,paganizing,paganizes], "mai kaɗan").
+entry(shafi, v, [shafuka, shafukan, shafuka], "kira ta ambaton suna na").
+entry(gasa, n, [gasa], "wata gagarumar kallo a fili").
+entry(pageboy, n, [pageboys], "gudun gyara gashi na mata").
+entry(pageful, n, [pagefuls], "gwargwadon abin da shafi zai iya dauka").
+shigarwa(pager, n, [pagers], "na’ura mai amsa kira").
+entry(paginal, siffofi, [], "mai nufi shafukan littafi").
+entry(takarda_maikano, v, [takarda_maikano,mai_takarda_maikano, takarda_maikano], "don sanya lambobi a shafukan").
+entry(paging, n, [pagings], "matsa shafuka na kwamfuta").
+entry(pagod, n, [pagodi], "pagoda").
+entry(pagoda, n, [pagodas], "haikali na Gabas ta Nesa").
+entry(pagurian, n, [pagurians], "kunkuru mai sutura").
+entry(pagurid, n, [pagurids], "pagurian").
+entry(pah, interj, [], "ana amfani dashi azaman kalmar fusata").
+entry(pahlavi, n, [pahlavis], "kudin tsohuwar kasar Iran").
+entry(pahoehoe, n, [pahoehoes], "dutse mai gudana mai taushi wanda ya yi tsami").
+entry(biya, a, [], "wanda ya gabata na biyan kudi").
+entry(paik, v, [paiked,paiking,paiks], "buga" ko "duka").
+entry(kwando, n, [kwanduna], "abin daukar ruwa mai kama da silinda").
+entry(pailful, n, [pailfuls], "ko PAILSFUL adadin da guga zai iya dauka").
+entry(paillard, n, [paillards], "yanki naman da aka buga siriri kuma aka gasa").
+entry(ciwo, v, [ciwace,ciwowa,ciwos], "haddasa jin zafi ko wahala").
+entry(painch, n, [painches], "tumbo").
+entry(mai_ciwo, sif, [], "MAFI_CIWO MAFI_CIWON_dàrikitane").
+entry(marama, adj, [], "ba ya janyo zafi").
+entry(fenti, v, [fentawa,fentin,fenti], "yin wani zane da fenti ko abubuwan launuka").
+entry(teburin-zane, n, [teburin-zane-ina], "akwatin da ke dauke da fenti busassu").
+entry(paintha, n, [painthoshi], "wanda yake zana").
+entry(zane, n, [zane-zane], "hoto da aka yi da fenti").
+entry(painty, adj, [], "MAI FENTI MAI FENTI FENTIYAYYIYA FENTIYAYYIYA cike da fenti").
+entry(pair, v, [paired,pairing,pairs], "shirya a cikin rukuni na biyu").
+entry(pairing, n, [pairings], "hada juna na abokan karawa biyu a gasar").
+entry(pairwise, adv, [], "a cikin rukuni na biyu").
+entry(kudi, n, [kudade], "ko PAISE kudin Pakistan").
+entry(paisan, n, [paisans], "paisano").
+entry(paisana, n, [paisanas], "mace 'yar uwa").
+entry(paisano, n, [paisanos], "wani ɗan ƙasa").
+entry(paise, a, [], "jam'in paisa").
+entry(paisley, n, [paisleys], "kayan yadi mai tsari na ulu").
+entry(pajama, n, [rigarbarci], "tufafi don barci ko wanka").
+entry(pajamaed, sif, [], "sanye da rigar barci").
+entry(pak, n, [paks], "kunshin").
+entry(pākehā, n, [pākehās], "mutum wanda ba ya da asalin Māori").
+entry(pakora, n, [pakoras], "waina mai zaƙi da aka soya tare da kayan lambu ko nama").
+entry(pal, v, [palled,palling,pals], "to associate as friends").
+entry(kalmo, n, [kalmomi], "wani kalma").
+entry(fada, n, [fadoji], "majuya sarauta PALACED adj").
+entry(paladin, n, [paladins], "jarumin dake cikin mayaka na daraja").
+entry(fada, n, [fada], "wani fada").
+entry(palapa, n, [palapas], "wani gidan bude tare da rufin ganyen dabino").
+entry(palatal, n, [palatals], "ƙashi na goshi").
+entry(saƙo, n, [saƙo], "rufin baki").
+entry(palatial, sif, [], "kamar fada").
+entry(palatine, n, [palatines], "babban jami'in daular").
+entry(palaver, v, [palavered, palavering, palavers], "yin magana").
+entry(palazzo, n, [palazzi], "gini mai ban sha'awa").
+entry(palazzos, npl, [], "wandunan kallo da madaidaiciya ga mata").
+entry(pale, adi, [], "FADADDA FADADDDERaset kamewa na launi").
+entry(pale, v, [paled,paling,pales], "yin fari ko yin laushi").
+entry(palea, n, [paleae], "ƙanana bractPALEAL sif").
+entry(paleate, sif, [], "rufe da fatar kifi").
+entry(fuskafarin, n, [fuskafarina], "mutum farin fata").
+entry(fadadiya, adv, [], "a cikin yanayi mai haske").
+entry(farin-ciki, n, [farin-cikoki], "halin rashin kyau").
+entry(paleocon, n, [paleocons], "mai ra'ayin mazan jiya na tsattsauran ra'ayi").
+entry(dunƙu, n, [dunƙuna], "wata shimfiɗar tsohon ƙasa").
+entry(paler, kwaanta, [], "na fari").
+entry(matsho-matshon, koli, [], "na matsho").
+entry(dandalin, n, [dandalin], "ko DANDALEA makaranta don wasanni a tsohuwar Girka").
+entry(palet, n, [palets], "felefele").
+entry(paletot, n, [paletots], "wani riga mai yawa").
+entry(faletin, n, [faletoci], "faranti ne inda mai zane yake hadawa da launuka").
+shigarwa(paleways, adv, [], "palewise").
+entry(palewise, adv, [], "a tsaye").
+entry(palfrey, n, [palfreys], "doki mai hawa").
+entry(pali, n, [palis], "wani ɗan tudu a Hawaii").
+entry(palier, comparative, [], "na paly").
+entry(maballajiya, mafi, [], "na launin fata").
+entry(palikar, n, [palikars], "sojan Girka").
+entry(palimony, n, [palimonies], "alawus da ake biyan wani mamba na ma'aurata da ba su da aure wanda suka rabu").
+entry(paling, n, [palings], "katangar sanda").
+entry(palinode, n, [palinodes], "karɓa mai tsari").
+entry(gina_katako_mafi_tauri, v, [gina_katako_mafi_tauri_da_aka_kammala, ana_gina_katako_mafi_tauri, gina_katako_mafi_tauri], "don karfafa da shinge mai nauyi").
+entry(palish, sif, [], "wani iri farin daɗi").
+entry(pall, v, [palled,palling,palls], "zama wanda bai daɗi").
+entry(palladia, npl, [], "kariya").
+entry(palladic, sif, [], "game da bakin karfe palladium").
+entry(yaƙwaf, da, [], "lokacin na yaƙwa").
+entry(pallet, v, [palleted,palleting,pallets], "sanya kan dandamali don ajiya ko motsi").
+entry(pallette, n, [pallettes], "wani yanki na kayan kariya wanda ke kare wurin wuyan hannu").
+entry(pallia, a, [], "jam'in pallium").
+entry(pallial, sif, [], "game da wani ɓangaren kwakwalwa").
+entry(tausa, v, [tausa, tausayawa, tausawa], "don ɓoyewa tsanani na").
+entry(fari, siffofi, [], "FARARI FARARFARI jaFARI adv").
+shigarwa(pallier, kwatanci, [], "na abokantaka").
+entry(palliest, superlative, [], "na pally").
+entry(palling, yanzu, [], "ɗan jinjina na kare ko pall").
+shigarwa(pallium, n, [palliums], "ko PALLIA wani mayafi da ake sakawa a tsohuwar Romawa").
+entry(zubi, n, [zubuka], "kalar fata").
+shigarwa(pally, sif, [], "WANDA YAKE NUNA KUSANCI TA ABOKANTAKA MAI MATUKAR KUSANCI").
+entry(palm, v, [palmed,palming,palms], "taɓa da ciki na tafin hannu").
+entry(palmar, sif, [], "mai alaka da tafin hannu").
+entry(palmary, sif, [], "ya cancanci yabo").
+entry(palmate, sif, [], "mai kama da tafin hannu").
+entry(palmated, adi, [], "palmate").
+entry(palmball, n, [palmballs], "an kwallon baseball da aka jefa daga tafin hannu da babban yatsa").
+entry(palmer, n, [palmers], "mai tafiya a kan sa").
+entry(palmette, n, [palmettes], "wani irin kayan ado").
+entry(palmetto, n, [palmettos], "ko PALMETTOES itacen wurare masu zafi").
+entry(cikakken tafin hannu, n, [tafuna cikakkun hannu], "yawan abin da tafin hannu zai iya rike shi").
+entry(palmier, n, [palmiers], "wani kayan zaki da aka kirkiro kamar ganyen dabino").
+entry(palmiest, superlative, [], "na palmy").
+entry(masamfuran-alkalami, n, [masamfuran-alkalami], "mai hasashen gaba").
+entry(palmitin, n, [palmitin], "wani hadadden sinadari").
+entry(palmlike, adj, [], "mai kama da itacen dabino").
+entry(dan_kwamfuta, n, [kananan_kwamfutoci], "karamin kwamfuta da zai iya shiga cikin tafin hannu").
+entry(palmy, sif, [], "ALBARKA TA YAWA ALBARKA MAFI YAWA sanya ta hanyar ci gaba").
+entry(palmyra, n, [palmyras], "itacen daji mai zafi").
+entry(palomino, n, [palominos], "doki mai launin zinariya da gashi fari").
+entry(palooka, n, [palookas], "dan damben mara kwarewa").
+entry(palp, v, [palped,palping,palps], "taɓa").
+entry(namiji-bari-sensation, aj, [], "wadanda za a iya jinPALPABLY adv").
+entry(palpal, siffofi, [], "dangane da palpus").
+entry(dannewa, v, [danne,dannawa,dannawa], "a duba ta taɓawa").
+entry(palpator, n, [palpators], "wanda ke yawo hannu akan wani abu").
+entry(palpebra, n, [fatar-ido], "ko PALPEBRAE fatar ido").
+entry(palpus, n, [palpi], "wani sashin jin dadin arthropod").
+entry(palsa, n, [palsas], "wani tsari na ƙasa a yankunan subarctic").
+entry(abota, n, [abokai], "dangantaka dake tsakanin abokai na kusa").
+entry(shanyewar-jiki, v, [shanyewa, shanyayewa, shanyewa], "to paralyze").
+entry(palsy, adj, [], "PALSIER PALSIESTmai sada zumunta ta hanyar da ba ta dace ba ko kuma ba a gaskiya ba").
+entry(palter, v, [paltered,paltering,palters], "yin magana ko yin wani abu cikin rashin gaskiya").
+entry(maboyin_qarya, n, [maboyin_qarya], "wanda ke yin yin qarya").
+entry(marasa_auna, sif, [], "MARASA_AUNA_MARA_MAFI_MAYAR da hankali KAƁARSIYA adv").
+entry(paludal, sifa, [], "mai dangantaka da kewaye da tabkin").
+entry(zazzabin_cizon_sauro, n, [zazzabin_cizon_sauro], "maleriya").
+entry(paly, adj, [], "MAI HASKE MAI HASKENasi haske").
+entry(pam, n, [pams], "sarkin ciyu na jaka a wasu wasannin kati").
+entry(pampa, n, [filin ruwa na yankin pampas], "filin ciyawa na Kudancin Amurka").
+entry(balarabe_pampa, n, [balarabe_pampas], "wata 'yan uwan filin pampa").
+entry(pamper, v, [pampered,pampering,pampers], "yin kyakkyawan tarairaya ko nuna son kai mai yawa").
+entry(pamperer, n, [pamperers], "wanda yake pamper").
+entry(pampero, n, [pamperos], "iska mai sanyi kuma busasshiya").
+entry(buga, n, [bugannu], "wani aikin bugawa tare da murfin takarda").
+entry(pan, v, [panned,panning,pans], "yin suka sosai").
+entry(panacea, n, [panaceas], "magani ga dukkan cututtuka ko matsaloliPANACEAN adj").
+entry(panache, n, [panaches], "kwalliya da gashin tsuntsaye").
+entry(panada, n, [panadas], "miya mai kauri").
+entry(panama, n, [panamas], "hula mai sauƙi").
+entry(panatela, n, [panatelas], "sigari dogo mai tsawo").
+entry(panbroil, v, [panbroiled,panbroiling,panbroils], "soya a cikin kwanon rufi da ɗan kitse ko babu").
+entry(pancake, v, [pancaked, pancaking, pancakes], "saukar jirgin sama ta wata hanya").
+entry(pancetta, n, [pancettas], "naman alkama na Italiya wanda ba a soya ba").
+entry(panchax, n, [panchaxes], "kifi na wurare masu zafi").
+entry('hankalin hadiye', n, ['hankula'], "gwangwani babba").
+entry(panda, n, [pandas], "wani ɗan tsirran nama mai cin ganye").
+entry(pandan, n, [pandans], "pandanus").
+entry(pandanus, n, [pandanuses], "ko PANDANI wani shuka na yankin zafi").
+entry(pandect, n, [pandects], "cikakkiyar doka").
+entry(cutar-duniya, n, [cututtukan-duniya], "cutar da ta yadu ko'ina").
+entry(pander, v, [pandered, pandering, panders], "ba wata gamsuwar wasu buƙatu").
+entry(mayar-da-kai, n, [masu-mayar-da-kai], "wanda ke mayar da kai").
+entry(pandied, da, [], "lokacin pandy").
+entry(pandies, yanzu, [], "mutum na uku wanda yake yin pandy").
+entry(pandit, n, [pandits], "mutum mai hikima ko sani a Indiya").
+entry(pandoor, n, [pandoors], "pandoor").
+entry(pandora, n, [pandoras], "bandore").
+entry(pandore, n, [pandores], "bandure").
+entry(sandan_yaki, n, [sandunan_yaki], "soja mai barna").
+entry(pandowdy, n, [pandowdies], "wani kayan zaki na tuffa").
+entry(pandura, n, [panduras], "bandori").
+entry(pandy, v, [pandied, pandying, pandies], "tona sukar-bi da neman hannun").
+entry(pane, n, [tagogi], "faletin gilashi don taga").
+entry(paneer, n, [paneer], "cuku na cikan madara").
+entry(panel, v, [paneled,paneling,panels], "ko PANELLED PANELLING PANELSto kawata da faranti na kayan aiki").
+entry(paneless, adj, [], "rashin tagogin gilashi").
+entry(paneling, n, [panelings], "kayan aiki don yin panel").
+shigar(panelist, n, [panelists], "memba na wani rukuni na tattaunawa ko shawara").
+entry(panelled, a, [], "wanda aka yi masa panel a da").
+entry(panelling, a, [], "mai yi na yanzu na panel").
+entry(panetela, n, [panetelas], "panatela").
+entry(panfish, v, [panfished,panfishing,panfishes], "yin kamun kowane karamin kifi da za a iya soyawa cikakke").
+entry(panforte, n, [panfortes], "wãta ƙãtuwar wainan ƙãmshi").
+entry(panfry, v, [panfried,panfrying,panfries], "soya a cikin kwanon soya").
+entry(panful, n, [panfuls], "yawan da kasko ya ƙunshi").
+entry(pang, v, [panged,panging,pangs], "haddasa zafin tsanani").
+entry(panga, n, [panguna], "wukar alkama").
+entry(pangen, n, [pangens], "wani abu mai kama da kwayoyin halittar da ke sarrafa gado a cikin protoplasm").
+entry(pangene, n, [pangenes], "pangen").
+entry(pangolin, n, [pangolins], "wani dabba mai hakoran da bai da hakora").
+entry(pangram, n, [haruffan-zargi], "wani jimla da ya haɗa dukkan haruffan bakwai").
+entry(panhuman, sif, [], "mai nasaba da dukkan ɗan adam").
+entry(fargaba, v, [firgita, firgitawa, firgita], "a cika da tsoro").
+entry(mai-fargaba, sif, [], "MAFI-MAI-FARGABA MAI-FARGABA tafiye da yawan jin tsoro").
+entry(panikal, na, [panikal], "ƙungiyar furanni mai reshe mai sakoPANICLED adj").
+entry(panicum, n, [panicums], "ganye").
+entry(faranti, n, [faranti], "kwando").
+entry(panino, n, [panini], "ko PANINISanwis wanda aka yi da karamin burodi").
+entry(kamar_pan, sif, [], "mai kama da wani kwano wanda ake amfani da shi wajen dafa abinci").
+entry(panmixia, n, [panmixias], "haɗuwa da juna cikin rukuni na haihuwa").
+entry(panmixis, n, [panmixes], "panmixia").
+entry(panne, n, [pannes], "kain velveto mai kyalli").
+entry(panned, da, [], "zamani na pan").
+entry(panner, n, [masu_basawa], "wanda ke basawa").
+entry(pannier, n, [panniers], "babban kwando").
+entry(pannikin, n, [pannikins], "karamin tukunyar shayi").
+entry(panning, yanzu, [], "mai'aikata na pan").
+entry(pannist, n, [masu_kidi_na_karfe], "mutum wanda ke taka gangan karfe").
+entry(panocha, n, [panochas], "wani nau'in sikari mai kauri daga Mexico").
+entry(panoche, n, [panoches], "panocha").
+entry(panoply, n, [panoplies], "kaya na soji").
+entry(panoptic, sif, [], "ciki har da duk abin da za'a iya gani a kallo daya").
+entry(panorama, n, [panoramas], "wani cikakken kallo").
+entry(panpipe, n, [panpipes], "wani kayan kida").
+entry(pansophy, n, [pansophies], "sanin duniya baki ɗaya").
+entry(pansy, n, [pansies], "tsiro mai fure").
+entry(wando, v, [na numfashi da sauri, numfashi da sauri, numfashi], "numfashi da sauri da wuya").
+entry(pantalet, n, [pantalets], "wando masu tsawo waɗanda aka kawata da tsuntsaye").
+entry(pantheon, n, [gidan_alloli], "haikalin da aka keɓe wa dukkan alloli").
+entry(zaki, n, [zakuna], "damisa").
+entry(pantie, n, [panties], "rigar ciki ta mace ko yaro").
+entry(`yan ciki, pl, [], "na panty").
+entry(pantile, n, [pantiles], "bene na rufiPANTILED adj").
+entry(panto, n, [pantos], "wani nau'i na wasan kwaikwayo").
+entry(pantofle, n, [pantofles], "silifas").
+entry(pantoum, n, [pantoums], "wani nau'i na waƙa").
+entry(ɗakunan girki, n, [ɗakuna], "wani ɗaki ko wanda ake ajiyewa kayan amfani na girki").
+entry(riga-da-wando, n, [rigunan-da-wando], "wani irin sicin mace").
+entry(panty, n, [panties], "wando na ciki").
+entry(panzer, n, [manyan motocin yaki], "motar fada mai sulke").
+entry(pap, n, [paps], "abinchi mai laushi don jarirai").
+entry(papa, n, [iyakoki], "uba").
+entry(papacy, n, [papacies], "ofishin Paparoma").
+entry(papadam, n, [papadams], "papadum").
+entry(papadom, n, [papadoms], "papadum").
+entry(papadum, n, [papadums], "waina mai laushi da ana ci a Indiya").
+entry(papain, n, [papains], "wani enzyme").
+entry(papal, sif, [], "na game da PapawaPAPALLY adv").
+entry(papalist, n, [papalists], "mai kare mulkin papal").
+entry(gwanda, n, [gwanda], "ya`yan itatuwa masu nama").
+entry('gwanda', n, ['gwanda-gwanda'], "irin 'ya'yan itacen da ke kama da kankanaPAPAYAN adj").
+entry(takarda, v, [takardantu, takardantawa, takardai], "rufe ko nadawa da takarda wani siririn abu da aka yi da tsinkewar cellulose").
+entry(danjarida, n, [‘yanjarida], "sabon labarai").
+entry(paperer, n, [paperers], "wanda ke yi wa takarda feshi").
+entry(papery, sfn, [], "mai kama da takarda").
+entry(pafiyan, n, [pafiyawa], "karuwa").
+entry(papilla, n, [papillae], "wani tsagin kama da kan nono PAPILLAR adj").
+entry(papillon, n, [papillons], "karamin kare mai manyan kunnuwa").
+entry(dan kama, n, [ya'yan kama], "jaririn Ba'amurke na Asali").
+entry(pappadam, n, [pappadams], "papadam").
+entry(pappadum, n, [pappadums], "papadum").
+entry(pappi, a, [], "jam'in pappus").
+entry(pappier, gwadaba, [], "na pappy").
+entry(pappies, pl, [], "na pappy").
+entry(pappoose, n, [pappooses], "kayan jariri").
+entry(pappus, n, [pappi], "wata tsinkuwa ta gashin kaho akan achene na wasu tsirraiPAPPOSE PAPPOUS adj").
+entry(pappy, adi, [], "MAI-KAMAN PAP").
+entry(pappy, n, [pappies], "uba").
+entry(paprica, n, [papricas], "paprika").
+entry(paprika, n, [paprikas], "wani kayan ƙamshi da aka yi daga jan barkono").
+entry(papula, n, [papuloli], "ko PAPULASPapule").
+entry(papule, n, [papules], "ƙurjiPAPULAR PAPULOSE PAPULOUS adj").
+entry(papyrus, n, [papyruses], "ko PAPYRI tsiro mai tsawo mai ruwaPAPYRAL PAPYRIAN PAPYRINE adj").
+entry(par, v, [harba,harbawa,harbo], "harba a cikin adadin bugun da aka saba da shi a golf").
+entry(para, n, [paras], "ko PARAE matsayin mace game da haihuwar yara").
+entry(misal, n, [misalan], "labari mai sauki dake koyar da darasi na ɗabi'a ko na addini").
+entry(parabola, n, [parabolas], "ko PARABOLAEa wani yanki na conic").
+entry(parachor, n, [parachors], "wani tsayayyen lamba na lissafi wanda ke danganta girman kwayoyin halitta da tashin hankali na saman").
+entry(faretin, v, [fareti, fara fararta, fareta], "yin yawo a cikin jerin gwanon jama'a").
+entry(parader, n, [masu_yawo], "wanda ke yin yawo").
+entry(paradigm, n, [misalai], "wani tsari ko misali").
+entry(aljanna, n, [aljannai], "wuri mai matuƙar kyau ko jin daɗi").
+entry(parador, n, [paradors], "ko PARADORES gidan sauro a Spain").
+entry(parados, n, [paradoses], "tareshe mai kariya").
+entry(kututture, n, [kututturai], "wani bayani da yake kamar wanda ba zai yiwu ba ko kuwa mai ban mamaki amma watakila gaskiya ne").
+entry(paradrop, v, [paradropped, paradropping, paradrops], "isar da kaya ta hanyar amfani da fales").
+entry(paraffin, v, [sanyad da man mai, sanyad da man mai yana, sanyad da man mai], "yin shafa da wani abu mai kama da kakin zuma").
+entry(parafoil, n, [parafoils], "wani na'urar masana'anta da ke kama da parachute").
+entry(paraform, n, [paraforms], "wani abu da ake amfani da shi a matsayin maganin kashe kwayoyin cuta").
+entry(paragoge, n, [paragoges], "ƙara wani sauti ko sautuka a ƙarshen wata kalma").
+entry(paragon, v, [paragoned,paragoning,paragons], "a kwatanta da").
+entry(shirwa, n, [shirye], "wani karamin tsuntsu na pamilya").
+entry(parakite, n, [parakites], "faleshi mai kama da tanti don jan mutum ta cikin iska ta jirgin ruwa mai ɗaukar nauyi").
+entry(parallax, n, [parallax], "maida hankali na gani na wani abu ba daidai ba").
+entry(yara, v, [yashe, yatsare, yaya], "ko YASHESHE, YATSARAYATSARE, ya zama kwatankwacin ko na kama da").
+entry(shanyewa, v, [shanye, shanyewa, shanyesu], "don shanyewa").
+entry(gurgunta, v, [saurari, gurguntar, gurgunta], "rashin iya motsi").
+entry(parament, n, [paraments], "ko PARAMENTAA ado na sutura").
+entry(paramo, n, [paramos], "wani yanki mai fadi a Kudancin Amurka").
+entry(mashen, n, [mashenai], "wani masoyi da ba bisa ƙa'ida ba").
+shigarwa(parang, n, [parangs], "wuka mai nauyi").
+entry(paranoea, n, [paranoeas], "paranoia").
+entry(kanjamau, n, [kanjamai], "cututtukan kwakwalwa").
+entry(paranoic, n, [paranoics], "mai tsoro").
+entry(paranoid, n, [paranoids], "wanda ke dauke da paranoia").
+entry(parapet, n, [kan ganuwa], "katangar kariya").
+entry(paraf, n, [parafuka], "kyakkyawan zane a ƙarshen sa hannun kwara").
+entry(paraquat, n, [paraquats], "maganin ciyawa").
+entry(paraquet, n, [paraquets], "tsuntsun tsuntsaye").
+entry(tuka_parasa'il, v, [tuka_parasa'ilar,tuka_parasa'ilin,tuka_parasa'ilai], "yin tafiya a cikin iska yayin da ake jan ku da mota ko jirgin ruwa yayin da kuke daure da parachute").
+entry(parasang, n, [parasangs], "wani naúrar tazara ta Persia").
+entry(parashah, n, [parashahs], "ko PARASHOTH ko PARASHOT wani ɓangare na Attaura da ake karantawa a ranar Asabar").
+entry(tsutsa, n, [tsutsoshi], "wani halitta da ke rayuwa da kuma cin abinci a kan ko cikin wata halitta ta daban").
+entry(parasol, n, [allunan lebur], "karamin laimun haske").
+entry(paratha, n, [parathas], "wani yanki na burodi mara yisti da aka soya a kan tukunya mai lemo").
+entry(paravane, n, [paravanes], "wani na'ura mai amfani da ruwa da ake amfani da ita don yanke igiyoyi").
+entry(parawing, n, [parawings], "faraƙo mai kamar farar manta").
+entry(parazoan, n, [parazoans], "daga babbar rukunin dabbobi masu haɗin halitta").
+entry(parbake, v, [parbaked,parbaking,parbakes], "toya daidai gwargwado").
+entry(barkwa, v, [barkwada,barkwaji,barkwai], "dafa a dan gajeren lokaci ta hanyar tafasa").
+entry(parcel, v, [cunkusa,cunkusawa,cunkusai], "ko CUNKUSASHI CUNKUSAWA CUNKUSAi don raba zuwa sassa ko rabon hannun jari").
+entry(parcener, n, [magada], "magajin hadin gwiwa").
+entry(parch, v, [busashe, busawa, busa], "yi busasshe sosai").
+entry(parchesi, n, [parchesis], "pachisi").
+entry(parchisi, n, [parchisis], "pachisi").
+entry(parclose, n, [parcloses], "wani allo mai raba wuraren cikin coci").
+entry(pard, n, [pards], "damisa").
+entry(pardah, n, [pardahs], "parda").
+entry(pardee, kalmomin_kayata, [], "pardi").
+entry(pardi, interj, [], "ana amfani dashi a matsayin rantsuwa mai laushi").
+entry(pardie, interj, [], "pardi").
+entry(pardine, adj, [], "na kyanwar zaki").
+entry(aboki, n, [abokai], "aboki na kuddi").
+entry(afuwa, v, [afuwa, afuwowa, afuwoyi], "saki daga alhakin laifi").
+entry(mai_gafartawa, n, [masu_gafartawa], "wanda ke gafartawa").
+entry(pardy, interj, [], "pardi").
+entry(pare, v, [pared, paring, pares], "yanke ko fidda rumfa ta waje na").
+entry(parekismi, n, [parekismoli], "halin dake kasancewa da azzakari da al'aura kusa da juna").
+entry(pareira, n, [pareiras], "tushen tsiron magani").
+entry(paren, n, [parens], "matsakaici").
+entry(uhu, v, [iyayen, uwar, uba], "aiwatar da ayyukan uba ko uwa").
+entry(na iyaye, adj, [], "da alaka da uba ko uwa").
+entry(pareo, n, [pareos], "zani mai kyau").
+entry(parer, n, [kakin], "wanda ke kakkarewa").
+entry(parergon, n, [parerga], "wani rubutu da aka samo daga babbar aiki").
+entry(paresis, n, [pareses], "rashim ikon motsi sosai").
+entry(paretic, n, [paretics], "wanda ciwon shanyewar jiki ya shafa").
+entry(pareu, n, [pareus], "tufafi na Polynesia").
+entry(pareve, sif, [], "parve").
+entry(parfait, n, [parfaits], "wani kayan marmari mai sanyi").
+entry(parflesh, n, [parfleshes], "fata mai dafi da aka tsoma a cikin lye domin cire gashi kuma a busar").
+entry(parfocal, adj, [], "yana da madubin da ke da maki masu jituwa a cikin wuri daya").
+shigar(parge, v, [parged,parging,parges], "to parget").
+entry(parget, v, [pargeted, pargeting, pargets], "ko kuma PARGETTED PARGETTING PARGETSto rufe da siminti").
+entry(parjing, n, [parjings], "fenti mai laushi na tukwane ko filasta don rufe bangon gini").
+entry(pargo, n, [pargos], "wani kifin abinci").
+entry(parhelia, npl, [], "manyan wuraren tagulla masu haske da ke bayyana a kan kurar rana").
+entry(parhelic, adj, [], "mai dangantaka da rana mai haske").
+entry(paria, n, [paria], "wanda aka ware a cikin al'umma").
+entry(parian, n, [parians], "farar ƙasa mai wuya").
+entry(paries, n, [parietes], "bangon wani sassan jiki").
+entry(parietal, n, [parietals], "ƙashin kai").
+entry(paring, n, [parings], "wani abu da aka yayyage").
+entry(paris, n, [parises], "wani tsiro na Turai").
+entry(parish, n, [gundumomi], "wanda ke nufin yanki na coci").
+entry(parity, n, [parities], "daidaito").
+entry(park, v, [ajje, ajjewa, ajjada], "barin mota a wuri na ɗan wani lokaci").
+entry(parka, n, [parkas], "rigar rufi da hula").
+entry(parkade, n, [parkades], "wani tsarin matakai da yawa don ajiye motoci").
+entry(parker, n, [parkers], "wanda yake ajiye mota").
+entry(parkette, n, [parkettes], "ƙaramar filin shakatawa na jama'a").
+entry(parkier, na kwatance, [], "na parky").
+entry(mafi sanyi, superlative, [], "na parky").
+entry(parkin, n, [mparkins], "wani irin burodi da aka yi da molasses da tauje").
+entry(parking, n, [wurin ajiye motoci], "wuri da ake ajiyar motocci").
+entry(parkland, n, [filin shakatawa], "wani yankin ciyawa da ke da bishiyoyi a wasu wurare ko a cikin kungiyoyi").
+entry(kamar_filayen_shakatawa, siffofi, [], "kamar wani wuri na shakatawa na waje").
+entry(parkour, n, [parkours], "wasa ne na ketare cikas na muhalli ta hanyar gudu hawa ko tsalle").
+entry(parkway, n, [parkways], "babban hanyar mota").
+entry(parky, adj, [], "MAFI KAYE MAKA YAWAN SANYI").
+entry(parlance, n, [parlances], "salon magana").
+entry(parlando, sif, [], "an rera a cikin wata hanya da ke nuna maganar").
+entry(parlante, adj, [], "magana").
+entry(parlay, v, [parlayed,parlaying,parlays], "yin caca da ainihin abin da aka yi fare da shi da cin nasarar a kan wani lamari na gaba").
+entry(parle, v, [parled,parling,parles], "yin tattaunawar sulhu").
+entry(parley, v, [parleyed,parleying,parleys], "yin tattaunawa da abokan gaba").
+entry(majalisa, n, [majalisu], "wanda ke yin shawarwari").
+entry(falo, n, [faluka], "dakin tarbar baki").
+entry(falo, n, [faluna], "parlour").
+entry(parlous, sif, [], "mai haɗari").
+entry(parmesan, n, [parmesans], "cuku mai wuya mai bushe daga Italiya").
+entry(fassarai, sif, [], "na barkwanci").
+entry(parodist, n, [parodists], "wanda ke yin kwaikwayo").
+entry(parodos, n, [parodoi], "wani waƙar da aka rera a wasan kwaikwayon Girka na dā").
+entry(zambo, v, [zambo, zambowa, zambobi], "yin kwaikwayon aiki mai tsanani na adabi don tasirin barkwanci").
+entry(parol, n, [magana], "wani magana").
+entry(parole, v, [salama, sanarwa, sallama], "sakin mutum daga gidan yari kafin cikar hukuncin da aka yanke masa").
+entry(parolee, n, [parolee], "wanda aka saki bisa sharadi").
+entry(paronym, n, [paronyms], "kalma mai tushen asali daya da wata").
+entry(paronymy, n, [paronymies], "halin kasancewa paronym").
+entry(paroquet, n, [paroquets], "farin-jirgi").
+shigarwa(parosmia, n, [parosmias], "gurbatar hankali na wari").
+entry(parotic, sif, [], "wanda yake kusa da kunne").
+entry(parotid, n, [glandar parotid], "wani gudan bakin ruwa").
+shigar(parotoid, n, [parotoids], "wani gland na wasu kunkuru da kwakwaran rafi").
+entry(parous, sif, [], "mai haihuwa").
+entry(paroxysm, n, [carbarbo], "mummunar faduwa ko farmakin kwatsam").
+entry(parquet, v, [parqueti, parketawa, parquets], "don vishin da bene mai zane-zane na ciki").
+entry(parr, n, [parrs], "sauri ƙarami").
+entry(parral, n, [parrals], "parrel").
+entry(parred, da, [], "lokacin bar").
+entry(parrel, n, [mahaɗar igiyoyi], "wani madauwari na igiya ko sarka da aka yi amfani da shi a jirgi").
+entry(parridge, n, [parridges], "fura-tsamli").
+entry(parried, past, [], "zamani na kare").
+entry(parrier, n, [masu_kawowa], "wanda ke kaucewa").
+entry(parries, present, [], "mutum na 3 na aiki cikin yanayi na yanzu na parry").
+entry(parring, present, [], "ɓangarorin na par").
+entry(parritch, n, [parritches], "fura").
+entry(parroket, n, [parrokets], "parakiti").
+entry(tokarara, v, [tokarara, tokararawa, tokararaye], "yin maimaitawa ko kwaikwayo ba tare da tunani ko fahimta ba").
+entry(parroter, n, [parroters], "wanda yake kwaikwayon magana").
+entry(parroty, sif, [], "kamar tsuntsun biti, tsuntsu mai baki mai lanƙwasa daga lungunan zafi").
+entry(parry, v, [parried,parrying,parries], "to ward off a blow").
+entry(fassara, v, [fassara,na fassara,fassara], "don bayyana da bincika nahawuPARSABLE adj").
+entry(parsec, n, [parsecs], "wani naúrar nisan sararin samaniya").
+entry(parser, n, [masu_fassara], "wanda ke rubutawa").
+entry(fetur, n, [fetoci], "wani kayan lambu da aka shukaFETURDA FETURDA adj").
+entry(tafarnuwa, n, [tafarnuwoyi], "wani ganyen Turai").
+entry(parson, n, [parsons], "wani LimanPARSONIC adj").
+entry(rabuwa, v, [rabuwa, rabuwarwa, rabuwai], "don raba ko karya cikin kananan sassa").
+entry(saɓani, v, [saɓa,saɓu,saɓanci], "SAƁA Taimakawa").
+entry(partaker, n, [masu\_sha'awa], "wanda ke sha'awa").
+entry(kunkuru, n, [kunkuraye], "wani kunkurun da za a iya ci").
+entry(parter, n, [parters], "wanda ke raba").
+entry(parterre, n, [parterres], "wani angruwa a gidan kallo").
+entry(zaiyi, n, [zaije], "wani sashi mai sauki na wata sautuka mai hadaddiyar sauti").
+entry(partible, adj, [], "mai rarrabuwa").
+entry(kwayar, n, [kwayoyi], "wani ƙaramin yanki ko ɓangare").
+entry(shakata, lokaci_da, [], "lokacin shakata").
+entry(partier, n, [partiers], "mai-farin-ciki").
+entry(hukuma, a_hali, [], "mutum na 3 na hukuma").
+entry(rabuwa, n, [rabuwa], "rabewa ko rabuwa").
+entry(masu-gocewa, n, [masu-gocawa], "wani mai goyon baya sosai ga mutum kungiya ko al'amari").
+entry(partita, n, [partitoci], "wani rukuni na kayan kiɗa masu alaƙa").
+entry(partite, adj, [], "raba kashi-kashi").
+entry(partizan, n, [partizans], "abokin gwagwarmaya").
+entry(partlet, n, [partlets], "rigar mata").
+entry(ɗan-daiɗai, adv, [], "a wani gwargwado ko matsayi").
+entry(abokin tarayya, v, [abokin tarayya, abokin tarayya, abokan tarayya], "yin alaƙa da wani aiki na sha'awar gama gari").
+entry(parton, n, [partons], "wani czarco czkaramin czarftataczn czarko czatomo").
+entry(partook, da, [], "na partake").
+entry(partway, adv, [], "zuwa wani mataki").
+entry(ƙungiya, v, [ƙungiyar,ƙungiyoyi,ƙungiyoyinsu], "halartar taron jama'a").
+entry(patyarda, n, [patyardai], "wanda yake shan shagali").
+shiga(shaƙatawa, n, [shaƙatawoji], "halarta a wani party").
+entry(parura, n, [paruras], "kayan ado").
+entry(parure, n, [kayan_ado], "tarin kayan ado masu daidaitawa").
+entry(parve, sif, [], "an yi ba tare da madara ko nama ba").
+entry(parvenu, n, [parvenus], "wanda ya tashi sama da ajin sa kwatsam").
+entry(parvenue, n, [parvenues], "wani mace wadda ta shiga cikin manya daga matsayi na banza").
+entry(parvis, n, [filinparvis], "wuri da aka kulle a gaban coci").
+entry(parvise, n, [parvises], "filin shakatawa").
+entry(parvo, n, [parvos], "wani cuta mai yaduwa na karnuka").
+entry(parvolin, n, [parvolins], "wani ruwa mai mai da aka samo daga kifi").
+entry(pascal, n, [paasikal], "wani nau'in matsa lamba").
+entry(paschal, n, [paschalloli], "wani kyandir da ake amfani da shi a wasu bukukuwan addini").
+entry(pase, n, [pases], "motsin mayafin matado").
+entry(yawo, n, [yawuna], "tafiya cikin sanyin jiki").
+entry(pash, v, [pashed,pashing,pashes], "buga da karfi").
+entry(pasha, n, [pashas], "tsohon babban jami'in Turkiyya").
+entry(pashadom, n, [pashadoms], "matsayin pasha").
+entry(pashalic, n, [pashalics], "pashalik").
+entry(pashalik, n, [pashaliks], "yankin mulkin wani pasha").
+entry(pashka, n, [pashkas], "paskha").
+entry(pashm, n, [pashms], "gashin ciki na wasu dabbobin Tibet").
+entry(pashmina, n, [pashminas], "ulu da aka samo daga awakin Himalaya").
+shigarwa(paska, n, [paskas], "paskha").
+entry(paskha, n, [paskhas], "wani kayan zaki na Rasha da ake ci a lokacin Easter").
+entry(pasquil, n, [pasquiloli], "sata ko habaici").
+entry(wucewa, v, [wuce, wucewa, wuce], "ta wucewa").
+entry(passable, adj, [], "mai kyau ko kuma mai yuwuwa dabam kadan adv").
+entry(passade, n, [passades], "juyawa na doki baya ko gaba a wurin da yake tsaye").
+entry(passado, n, [passados], "ko PASSADOES wata gwabzawar gaba a fannin fensa").
+entry(passage, v, [passaged,passaging,passages], "yin tafiya cikin jirgin ruwa").
+entry(passant, sif, [], "yana tafiya da farar hannu mai nisa dagagge amfani da dabba mai alamar girmamawa").
+entry(passband, n, [masu wucewa], "wannani bandin yanayi da ke ba da izini don wucewa da inganci mafi girma").
+entry(passbook, n, [passbooks], "littafin banki").
+entry(passe, adj, [], "wanda ya fita daga salo").
+entry(passee, aj, [], "passe").
+entry(passel, n, [gungu], "wani adadi mai yawa ko kuma tarin abu").
+entry(passer, n, [passers], "wanda zai wuce").
+entry(masu_zuwa, n, [maza_zuwa], "wanda ke wucewa").
+entry(passible, adj, [], "mai iya jin zafi ko wahala").
+entry(passim, adv, [], "nan da can").
+entry(passing, n, [mace], "mutuwa").
+entry(sha'awa, n, [sha'awowi], "wani tsananin motsin zuciya").
+entry(passive, n, [passives], "wani irin aikatau").
+entry(passkey, n, [maɓallan shiga], "mabuɗin da ke buɗe kulle-kulle daban-daban").
+entry(mara hanya, siffofi, [], "bai dace a yi tafiya ta cikinsa ba").
+entry(pasaka, n, [pasakoki], "ragon da aka ci a bikin hutu na Yahudawa").
+entry(fasfo, n, [fasfofi], "wata takarda da ke bada izinin tafiya daga wata kasa zuwa wata").
+entry(passus, n, [passuses], "wani sashe na labari ko waka").
+entry(kalmar_sirri, n, [kalmar_sirani], "wani kalmar sirri wanda dole ne a fada don samun shiga").
+entry(past, n, [lokutan_da_suka_wuce], "lokaci da ya shude").
+entry(taliya, n, [taliyoyi], "abinci da ake yi da kullu").
+entry(dora, v, [dora, dorawa, dora], "hade abu da manna mai daukar abu").
+entry(pastel, n, [pastel], "wani launi mai laushi da kyau").
+entry(maikwallafa, n, [maikwallafa], "wanda ke manne abu").
+entry(pastern, n, [pasterns], "wani ɓangare na ƙafar doki").
+entry(pasteup, n, [pasteups], "kwafin da aka kammala wanda za a dauki hoto don yin farantin bugu").
+entry(pasticci, npl, [], "pastiche").
+entry(pastiche, n, [pastiches], "wani aikin fasaha wanda aka hada daga gutsuren abubuwa daga wurare daban-daban").
+entry(pasti, n, [pasties], "man shanu mai kwalliya").
+entry(pastier, gwada, [], "na pasty").
+entry(pasties, pl, [], "na pasty").
+entry(pastiest, superlative, [], "na pasty").
+entry(pastil, n, [pastils], "alawa lu'u-lu'u").
+entry(pastille, n, [pastilles], "alewa mai taushi").
+entry(pastily, adv, [], "a cikin wata hanya da take kamar pasta").
+entry(nishadi, n, [nishadodi], "wata hanya ta nishadi").
+entry(pastina, n, [pastina], "wani irin makaroni").
+entry(pasting, n, [pastings], "dōka").
+entry(pastis, n, [pastises], "wani kayan zaki na Faransa").
+entry(pastitso, n, [pastitsos], "wani abincin Girka mai ƙunshe da nama, taliya, farin miya da kuma cuku").
+entry(pastless, adj, [], "babu tarihi").
+entry(pastness, n, [pastnesses], "halin kasancewa da wuce ko shude").
+entry(fastoci, v, [ya_ja_igiyar_fastoci, yana_fastoci, fastoci], "yin hidima a matsayin limamin ruhi na").
+entry("rayuwar karkara", n, ["rayuwar karkara"], "wani aikin adabi ko zane-zane wanda ke nuna rayuwar karkara").
+entry(pastoro, sif, [], "dacewa da malamin coci mai kula da ruhaniya").
+entry(pastrami, n, [pastramiyo], "dafafen naman sa da aka shanya tare da kayan kamshi da yawa").
+entry(pastromi, n, [pastromis], "pastrami").
+entry(burodi, n, [burodi], "wani abinci mai zaƙi da aka dafa").
+entry(pastural, sif, [], "game da kiwo").
+entry(makaranta, v, [mazauni,mazauna,mazaunan], "sanya a makiyaya wurin kiwo").
+shigowa(makiyayi, n, [makiyaya], "wanda ke kiwon dabbobi").
+entry(pasty, adi, [], "PASTIER PASTIESTkamannin rashin lafiya da fata mai launin fari").
+entry(pasty, n, [pasties], "waina mai nama").
+entry(pat, v, [shafa, shafaawa, shafawa], "ta taba a hankali").
+entry(pat, adj, [], "PATAN PATATAYE sananniya sosai").
+entry(pataka, n, [patakoki], "naúrar kuɗi ta Macao").
+entry(patagial, sif, [], "mai nasaba da patagium").
+entry(patagium, n, [patagia], "fatar fikafikan jemagu").
+entry(patamar, n, [patamars], "jirgin ruwa mai tashi a ƙasa").
+entry(pata, v, [pata, patowa, patoci], "gyara ko rufe rami ko gurbi mai rauni a ciki").
+entry(patcher, n, [patchers], "wanda yake gyarawa").
+shigar(patchy, sif, [], "MAFI PATCHY MAIna ƙimaUNEvenQUALITYPATCHILY adv").
+entry(pate, n, [pates], "saman kaiPATED adj").
+shiga(patella, n, [patellas], "ko PATELLAEÙan kwancen kashi mai motsi a gaban gwiwaPATELLAR sif").
+entry(paten, n, [patens], "faranti").
+entry(patency, n, [patencies], "hali na bayyana").
+entry(buritacci, v, [buritacci,buritaccin,buritacciya], "don samun buritacci, wato izinin gwamnati na kare haƙƙin mai ƙirƙira akan").
+entry(mawadata, n, [mawadatata], "wanda ke da lasisin kirkire-kirkire").
+entry(a-ƙalla, adv, [], "a fili").
+entry(patentor, n, [masu\_patenti], "wanda ke bayar da fasaha").
+entry(uba, n, [ubanni], "wani uba").
+entry(paternal, sif, [], "mai dangantaka da uba").
+entry(hanya, n, [hanyoyi], "wata hanyar da aka taka ko waƙafi").
+entry(matsatsi, sif, [], "wanda yake tada tausayi").
+entry(ba_gado, siffofi, [], "wanda bashi da hanya").
+shigarwa(shafin_suna, n, [shafukan_suna], "wani bayani akan inda za a samu fayil").
+entry(cutar, n, [cututtuka], "kowace halittar da ke haifar da cuta").
+entry(pathos, n, [pathosai], "wani abin da ke haifar da ji na tausayawa ko tausayi").
+entry(hanyar_shiga, n, [hanyoyi], "wani hanya").
+entry(hankali, n, [hankulan], "halin kasancewa mai juriya").
+entry(marasa lafiya, siffofi, [], "ZAMA MAI HAKURI TARE DA IYAWA A CIKIN HALAYEN DA BA SU DACE BA BA TARE DA KORAFI BA").
+entry(marasa_lafiya, n, [marasa_lafiya], "wanda ke ƙarƙashin jiyya ta likita").
+entry(patin, n, [patins], "patẹ́n").
+entry(patina, n, [patinas], "ko PATINAEtakarda kore da ke samuwa a kan tagullaPATINAED adj").
+entry(patinawa, v, [patinade,patinaying,patinas], "ba da patina ga").
+entry(patine, v, [patined, patining, patines], "rufewa da launin taguwa").
+entry(patinize, v, [patinized, patinizing, patinizes], "yin laluben").
+entry(patio, n, [patios], "wani wuri da aka shimfida a waje kusa da gida").
+entry(patly, adv, [], "ta dace").
+entry(patness, n, [patnesses], "dacewa").
+entry(patois, n, [patois], "wani harshe na gida").
+entry(patonce, sif, [], "da hannaye sukan fadi daga tsakiyar kuma su kare a cikin tsagi uku mai fuka-fukai da maki-ana amfani da ita akan giciye na gado.").
+entry(patoot, n, [patoots], "patootie").
+entry(patootie, n, [patooties], "gwaiwa").
+entry(`'yantar da ƙasa`, v, [`'yantar da ƙasa`, `'yanto da ƙasa`, `'yanto da ƙasashe`], "canza ikon yin dokoki zuwa ƙasa mai ikon cin gashin kanta").
+entry(dan_kasa, n, [masu_son_kasa], "wanda yake son kasarsa").
+entry(patrol, v, [patrolled,patrolling,patrols], "wucewa ta wani yanki don dubawa ko tsaro").
+entry(patroon, n, [patrooni], "wani kwastoma na yau da kullumPATRONAL PATRONLY adj").
+shigar(patroon, n, [patroons], "mai gona da aka bai wa hakkin mulki karkashin tsohon dokar Dutch").
+entry(patsy, n, [patsies], "mutum mai saukin ruɗewa").
+entry(pattamar, n, [pattamars], "patamar").
+entry(patted, baya, [], "shi ne zamani na pat").
+entry(pattee, sif, [], "paty").
+entry(patir, n, [patirori], "takalmin wanda ke da ci gaba mai kauri na katakoPATTENED adj").
+entry(patter, v, [pattered,pattering,patters], "yin magana cikin sauri ko ta sigar jawabi").
+entry(patterer, n, [patterers], "wanda yake yin sautin patter").
+entry(tsarin, v, [tsararre, tsarawa, tsare-tsare], "yi bisa ga wata ƙayyadaddiyar ƙira").
+entry(pattest, superlative, [], "na pat").
+entry(pattie, n, [patties], "patty").
+entry(tana-taɓawa, yanzu, [], "waɗanne ake yi daga taɓa").
+entry(patty, n, [patties], "karamun cake mai lefe da aka yayyafa").
+entry(pattypan, n, [pattypans], "tanda inda ake gasa patties").
+entry(patulent, sif, [], "patulous").
+entry(patulous, sifa, [], "bude sosai").
+entry(paty, adj, [], "tsararre").
+entry(patzer, n, [patzers], "mai rashin kwarewa a wasan catur").
+entry(paua, n, [pauas], "babbar kifin shinkafa na New Zealand").
+entry(rashin yawa, n, [rashinan yawa], "karancin adadi ko yawa").
+entry(paughty, adj, [], "girma kai").
+entry(ɓarnar ƙafa, n, [ɓarnar ƙafa], "wani sashi na sulke don kafada").
+shigar(paulin, n, [paulins], "takarda mai hana ruwa").
+entry(ciki, n, [cikuna], "ciki ko na cikiPAUNCHED adj").
+shigar(cikakke, adj, [], "MAI-CIKIN MAI-CIKINdauke da ciki mai fitowa").
+entry(matala, fv, [matalata, matalatawa, mataloli], "rage da talauci").
+entry(pauraque, n, [pauraques], "tsuntsu mai dogon wutsiya wanda ke cikin dare").
+entry(pauropod, n, [pauropods], "duk wani daga cikin rukuni na dabbobi ƙanana masu ƙafa da yawa").
+entry(pausal, adj, [], "da alaka da hutu ko tsayawa a cikin magana ko rubutu").
+entry(tsayawa, v, [tsayawa, tsayayye, tsayawa], "tsayawa na ɗan lokaci").
+entry(pauser, n, [masu_tsayawa], "wanda ke tsayawa").
+entry(pavan, n, [pavans], "wani rawa mai hankali da nutsuwa").
+entry(pavane, n, [pavanes], "pavan").
+entry(gina, v, [ginas, ginawa, gina], "don rufe fuskar da abu wanda ke samar da santsi mai inda aka tsaya tsayin daka").
+entry(paveed, adj, [], "an sa kusa da juna don rufe tushe na ƙarfe").
+entry(sabuwar hanya, n, [sabuwar hanyoyi], "wuri da aka shimfida").
+entry(maihatse, n, [maihatse], "wanda ke yin hatsa").
+entry(pavid, sif, [], "mai jin tsoro").
+entry(bangon_sauyin, v, [bangon_sauyined,bangon_sauyining,bangon_sauyins], "don rufe da bukkasa").
+entry(falesin, n, [falesin], "kakakin wata kida mai iska").
+entry(pavin, n, [pavins], "pavan").
+entry(fatan hanyar, n, [fatan hanyoyi], "titi").
+entry(pavior, n, [paviors], "mai yin dutsen siminti").
+entry(paviour, n, [paviours], "mai sakawa dutse").
+entry(pavis, n, [pavis], "garkuwa mai girma ta zamani na tsakiya").
+entry(pavise, n, [pavises], "pavis").
+entry(paviser, n, [pavisers], "soja ɗauke da mafiya").
+entry(pavisse, n, [pavisses], "pavis").
+entry(pavlova, n, [pavlovas], "wani kayan zaki na meringue").
+entry(pavonine, sif, [], "mai kama da dawisu").
+entry(cizo, v, [cizon, ciza, cizai], "yi bugun noke da motsa hannu").
+entry(pawer, n, [pawers], "wanda ya ke sosa").
+entry(pawky, adi, [], "PAWKIER PAWKIESTmaida hankaliPAWKILY adv").
+entry(pawl, n, [pawls], "wani ɓangaren injiniya da aka ɗora shi akan ganga").
+entry(pawn, v, [pawned,pawning,pawns], "ba da wani abu a matsayin jingina don wani abu da aka aroPAWNABLE adj").
+entry(pawnage, n, [pawnages], "yin cilli").
+entry(pawnee, n, [pawnees], "wanda aka ba wani abu jingina").
+entry(pawner, n, [masu_ajiya], "wanda ke ajiye wani abu a matsayin jingina").
+entry(pawnor, n, [pawnors], "mai bayar da lamuni").
+entry(shagon_aimanesi, n, [shagunan_aimanesi], "wurin da ake amanar kayayyaki").
+entry(pawpaw, n, [pawpaws], "papau").
+shigar(pax, n, [paxes], "rumfan al'ada wanda ake bayarwa don nuna ƙauna da haɗin kai na Kirista").
+entry(paxwax, n, [paxwaxes], "ligament na nuchal na dabbobin goma").
+entry(biya, v, [biyad,biyaawa,biya], "don bayar da kuɗi ko wani abu mai daraja a madadin kaya ko ayyuka").
+shiga(biya, adj, [], "ribaPAYABLY adv").
+entry(payables, npl, [], "masu biya").
+entry(biya, n, [biyoyi], "sake samun abin da a saka a zuba-jarin daidai da kudin da aka fara zuba").
+entry(makiya, n, [makiyoyi], "cak a biya albashi ko kudi").
+entry(ranar_karɓar_kuɗi, n, [ranakun_karɓar_kuɗi], "ranar da za a biya albashi").
+entry(paydown, n, [biyayya], "rage-ragen basussuka ta hanyar biyan su").
+entry(biyan, n, [mabiyan], "wanda aka biya kudi").
+entry(maibiya, n, [masu_biya], "wanda ke biyan kudi").
+entry(payess, npl, [], "ɓangarorin gashi marasa yankewa da wasu Yahudawa ke sakawa").
+entry(polishin, n, [matsayin_albashi], "matsayin ma'aikatan soja bisa ga ma'aunin albashi na asali").
+shigar(jigo, n, [jigogi], "sashin kaya da ke samar da kudaden shiga").
+entry(biya, n, [biya], "wani abu da aka biya").
+entry(paynim, n, [paynims], "baƙauye").
+entry(biya, n, [biya], "aikin rarraba riba").
+entry("cin hanci", n, ["cin hanci"], "biyan kudin boye don samun alfarma").
+entry(payor, n, [payors], "mai biyan kudi").
+entry(biya, n, [biyan kuɗi], "kuɗi da aka biya").
+entry(hakkinAlbashi, n, [hakkokinAlbashi], "jerin ma'aikatan da suka cancanci biyan kudi").
+entry(takalifin_albashi, n, [takalifan_albashi], "ƙananan bayanai na albashin ma'aikaci wanda ke nuna cire-cire").
+entry(paywall, n, [katangadawuda], "tsarin da ke hana samun damar shiga gidan yanar gizo ba tare da biyan kuɗin rajista ba").
+entry(pazazz, n, [pazazzes], "pizazz").
+entry(pe, n, [pes], "wata harafin Ibrananci").
+entry(gwake, n, [gwake], "irin da ake ci na shuka ta shekara-shekara").
+entry(peaberry, n, [peaberries], "biri na kofi wanda yake da iri guda daya mai zagaye").
+entry(peabrain, n, [peabrains], "wani mutum shashasha").
+entry(zaman_lafiya, v, [zaman_lafiya_d, zaman_lafiya_wa, zaman_lafiya], "yin shiru ko zama shiru").
+entry(lafiya, siffofi, [], "MAFI LAFIYA MAFI KWANCIN LAFIYA ba tare da damuwa ba").
+entry(maitananifin, n, [maitananifinai], "wanda ke yin zanga-zanga kan wani yaki").
+entry(peach, v, [peached,peaching,peaches], "ta gayyaci wani").
+entry(peacher, n, [masu\_yawaitawa], "wanda yake yawaitawa").
+entry(peachick, n, [peachicks], "dandan marar ajiye pekekyawa").
+entry(peachy, sif, [], "MAI DADI SOSAI FIYE").
+entry(kwanciyar hankali, yanzu, [], "ƙa'idar kwanciyar hankali").
+entry(peacoat, n, [peacoats], "wani nau'in kwat ɗin ulu mai nauyi").
+entry(dawisu, v, [dawisawa,dawisanta,dawisai], "yana tafiya da alfahari").
+entry(peacocky, sifa, [], "MAFI PEACOCKIER MAFI PEACOCKIESTmai bayyana mai nuna").
+entry(tantabara, n, [tantabaran], "wani babban kaza mai tsawo").
+entry(peag, n, [peags], "asusu").
+entry(peage, n, [peages], "peag").
+entry(mace ta mor, n, [matan mor], "wata macen tsuntsun mor").
+entry(bebbeke, v, [bebbeke, yana bebbeke, bebben], "isa mafi girma").
+entry(peakier, gwada, [], "na peaky").
+entry(peakiest, superlative, [], "na ƙwanƙwasa").
+entry(peakish, sif, [], "wani iri rashin lafiya").
+entry(peakless, sif, [], "babu wani tsawo mai tsini").
+entry(peaklike, sif, [], "mai kama da tsauni").
+entry(peaky, sif, [], "MARAUSHE MARAUSHI sosai").
+entry(aita, v, [aita,aitawa,aitu], "don yin amo").
+entry(kamarwake, sif, [], "kaman wake").
+entry(pean, n, [peans], "waƙa").
+entry(gyaɗa, n, [gyaɗo], "irin mai kama da ƙwai na wani tsiro na shekara shekara").
+entry(peanutty, n, [], "PEANUTTIER PEANUTTIEST yana da ɗanɗanon gyada").
+entry(pear, n, [gwaya], "wani 'ya'yan itace mai nama").
+entry(pearl, v, [pearled,pearling,pearls], "yi wa ado da lu'u-lu'u masu laushi da aka samar a cikin wasu nau'in shaƙa").
+entry(pearlash, n, [pearlashes], "wani abu na alkaline").
+entry(mai-ibin lu'u-lu'u, n, [masu-ibin lu'u-lu'u], "wanda ke nutsewa don lu'u-lu'u").
+entry(pearlies, npl, [], "haƙora").
+entry(pearlite, n, [tsakanin pearlite], "wani gami na baƙin ƙarfe mai narkewa").
+entry(pearly, sif, [], "PEARLIER PEARLIESTana kama da lu'u-lu'u").
+entry(pearmain, n, [pearmains], "irin tuffa").
+shigarwa(peart, siffofi, [], "PEARTER PEARTESTmai raiPEARTLY adv").
+entry(pearwood, n, [pearwoods], "itacen 'ya'yan dabino").
+entry(manoma, n, [manoma], "mutum mai matsayin zamantakewa na ƙasaPEASANTY adj").
+entry(peascod, n, [peascods], "peasecod").
+entry(pease, n, [wake], "ko WAKE san wani wake").
+entry(peasecod, n, [peasecods], "wake mai kwali").
+entry(peat, n, [peats], "wani abu da aka hada da wasu tsirrai da suka fara ruɓewa").
+entry(ƙasar-turɓaya, n, [ƙasashen-turɓaya], "ƙasar da aka fi samun turɓaya a cikinta").
+entry(peaty, adj, [], "MAI GAMBUR MAI GAMBUR MATAfiya ko dauke da gambur").
+entry(peavey, n, [peaveys], "matakalan da ake amfani da shi don motsa katakai").
+entry(peavy, n, [peavies], "peavey").
+entry(dutse, v, [dutsemu,dutsemowa,dutse], "to rufe da duwatsu ƙanana zagaye duwatsu").
+entry(pebbly, adi, [], "PEBBLIER PEBBLIESTmai kama da duwatsu").
+entry(pec, n, [pecs], "wata tsokar kirji").
+entry(pecan, n, [itatuwan pecan], "itacen da ke dauke da kwaya").
+entry(maƙaryaci, sif, [], "mai yuwuwar yin zunubi").
+entry(laifi, n, [laifuka], "halin kasancewa mai laifi").
+entry(peccant, adj, [], "mai zunubi").
+entry(peccary, n, [peccaries], "wani dabba mai kafafu mai kama da alade").
+entry(peccavi, n, [peccavis], "girgije na zunubi").
+entry(pech, v, [peched, peching, pechs], "numfashi").
+entry(pechan, n, [pechans], "ciki").
+entry(rauna, v, [rauna, raunan, raunanni], "don bugawa da baki ko wani abu mai tsini").
+entry(pecker, n, [peckers], "wanda ke tsokano").
+entry(peckish, sif, [], "mai faɗa").
+entry(pecky, sif, [], "MAFI PECKI MAFIFI PECKI alama ta ruɓewa da ƙwayoyin fungi").
+entry(pecorino, n, [pecorinos], "ko PECORINI wani cuku mai tauri da aka yi daga madarar tumaki").
+entry(pectase, n, [pectases], "wani enzyme").
+entry(pectate, n, [pectates], "gishirin sinadarai").
+entry(pecten, n, [pectens], "ko PECTINES wani sashi na jiki mai kama da tsinken kambu").
+entry(pektin, n, [pektins], "carbohydrate maɗaukakiPECTIC adj").
+entry(pectize, v, [pectized,pectizing,pectizes], "canza zuwa jelly").
+entry(na kasa, n, [na kasashe], "wani abu da ake sanyawa a kirji").
+entry(yi_kuɗi_gudu, v, [yi_kuɗi_gudu,na_ƙudɗi_gudu,ƙudɗi_gudu], "yi karkatar da kudi").
+entry(peculiar, n, [peculiars], "wani abu da ke na musamman ga mutum").
+entry(peculium, n, [peculia], "dukiyar kai tsaye").
+shigarwa(ƙwallo, n, [ƙwallaye], "wani tsantsar ƙasa").
+entry(pedagog, n, [malamai], "malami").
+entry(pedagogy, n, [ilimin koyarwa], "aikin malami").
+entry(pedal, v, [kekai, kekawa, kekai], "ko KEBEKE KEBEKEKE KEBEKENa yi aiki ta hanyar levers na ƙafa").
+entry(maiyawa, n, [maiyawa], "wanda yake hawa keke").
+entry(pedalfer, n, [pedalfers], "wani irin kasa").
+entry(pedalier, n, [pedaliers], "faifan k'afar fakiti na k'ida").
+entry(mai-keke, n, [masu-keke], "mai-keke").
+entry(pedalo, n, [pedalos], "wani jirgin ruwa da ake tukawa da kafa").
+entry(pedant, n, [pedants], "wanda ke alfahari da iliminsaPEDANTIC adj").
+entry(jijjiga, n, [jijjigai], "nuna sani da girman kai").
+entry(pedate, sif, [], "mai kama da kafaPEDATELY adv").
+entry(peddle, v, [peddled,peddling,peddles], "ta yi tafiya tana siyar da kayayyaki").
+entry('mai sayar-da-kaya', n, ['masu sayar-da-kaya'], "wanda ke sayar da kaya").
+entry(peddlery, n, [peddleries], "kasuwancin mai-sayen-saye").
+entry(pederast, n, [pederasts], "wani mutum da ke yin jima'i da samari").
+entry(pedes, pl, [], "na pes").
+entry(dandali, v, [dandalaye, dandalawa, dandala], "ko DANDALALLE DANDALALWA DANDALIdon samar da goyon baya ko tushe na gine-gine").
+entry(pedicab, n, [jachin-jari], "wani abin hawa na fasinja da ake tukawa da keke").
+entry(pedikeli, n, [pedikelai], "wuri na asali mai santsi a jikin wani abu").
+entry(pedicle, n, [pedicles], "pedicelPEDICLED adj").
+entry(pedikyuwa, v, [pedikyuwad, pedikyuwing, pedikyuwas], "don yin jiyya mai kyau ga ƙafafu da ƙusa na ƙafa").
+entry(pediform, sif, [], "mai kama da ƙafa").
+entry(tokaci, n, [tokaci], "layin iyaye da kakanni").
+entry(pidiment, n, [pidiments], "wani ɓangare mai tsari kusa da giciye").
+entry(pedipalp, n, [pedipalps], "ƙari na wani macizai").
+entry(pedlar, n, [pedlars], "mai sayar da kaya").
+entry(pedlary, n, [pedlaries], "sayarwa kanana").
+entry(pedler, n, [pedlers], "mai sayarwa").
+entry(dan kasuwa, n, [yan kasuwa], "sana'ar sayarwa").
+entry(pedocal, n, [pedocals], "wani irin ƙasa").
+entry(pedology, n, [pedologies], "nazarin kimiyya kan halayyar da ci gaban yara").
+entry(pedro, n, [pedros], "wasa na kati").
+entry(peduncle, n, [peduncles], "ganyen furen").
+entry(tafarki, n, [tafarkuna], "wata hanya wanda masu tafiya a kafa kawai za su iya amfani da ita").
+entry(p, n, [pee], "harafin P").
+entry(peebeen, n, [peebeens], "itace mai ƙarfi mai ɗorewa").
+entry(leka, v, [leke, lekan, leka], "duba a sace ko cikin sauri").
+entry(peekaboo, n, [peekaboos], "wani wasan yara").
+```
+entry(peekapoo, n, [peekapoos], "kare da aka haɗa tsakankanin Pekingese da poodle").
+```
+entry(fere, v, [fere, ferewa, fere], "cire wani ɓangaren waje na abu FERAWA adj").
+entry(yanka, n, [yankan], "wanda yake yanka").
+entry(peeling, n, [peelings], "wani yanki ko tsiri da aka bare").
+entry(peen, v, [peened, peening, peens], "buga da ƙarshen madaidaicin ƙarshen guduma").
