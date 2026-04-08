@@ -2,7 +2,8 @@
 import sys, os, openai, concurrent.futures
 
 client = openai.OpenAI()
-languages = ["Mandarin Chinese", "Hindi", "Spanish", "French", "Modern Standard Arabic", "Bengali", "Portuguese", "Russian", "Urdu", "Indonesian", "German", "Japanese", "Nigerian Pidgin", "Marathi", "Telugu", "Turkish", "Tamil", "Yue Chinese", "Vietnamese", "Tagalog", "Wu Chinese", "Korean", "Iranian Persian", "Hausa", "Swahili", "Javanese", "Italian", "Western Punjabi", "Kannada", "Gujarati", "Thai", "Amharic", "Bhojpuri", "Yoruba", "Hakka Chinese", "Burmese", "Oromo", "Pashto", "Maithili", "Ukrainian", "Sundanese", "Polish", "Uzbek", "Malayalam", "Sindhi", "Azerbaijani", "Romanian"]
+#languages = ["Mandarin Chinese", "Hindi", "Spanish", "French", "Modern Standard Arabic", "Bengali", "Portuguese", "Russian", "Urdu", "Indonesian", "German", "Japanese", "Nigerian Pidgin", "Marathi", "Telugu", "Turkish", "Tamil", "Yue Chinese", "Vietnamese", "Tagalog", "Wu Chinese", "Korean", "Iranian Persian", "Hausa", "Swahili", "Javanese", "Italian", "Western Punjabi", "Kannada", "Gujarati", "Thai", "Amharic", "Bhojpuri", "Yoruba", "Hakka Chinese", "Burmese", "Oromo", "Pashto", "Maithili", "Ukrainian", "Sundanese", "Polish", "Uzbek", "Malayalam", "Sindhi", "Azerbaijani", "Romanian"]
+languages = [ "German", "Japanese", "Nigerian Pidgin", "Marathi", "Telugu", "Turkish", "Yue Chinese", "Vietnamese", "Tagalog", "Wu Chinese", "Korean", "Iranian Persian", "Hausa", "Swahili", "Javanese", "Western Punjabi", "Kannada", "Gujarati", "Amharic", "Bhojpuri", "Yoruba", "Hakka Chinese", "Burmese", "Oromo", "Pashto", "Maithili", "Ukrainian", "Sundanese"]
 
 with open("./00_words.pl", "r") as f:
     all_lines = [line.strip() for line in f if line.strip()]
@@ -46,5 +47,5 @@ if sys.argv[1]  == "dry-run":
   dry_run()
   
 else:
-  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+  with concurrent.futures.ThreadPoolExecutor(max_workers=len(languages)) as executor:
     executor.map(process_language, languages)

@@ -20540,3 +20540,737 @@ entry(praedial, adj, [], "magepokan karo lemah").
 entry(praefect, n, [praefects], "prefek").
 entry(praelect, v, [praelected,praelecting,praelects], "kanggo prelekt").
 entry(prawetor, n, [prawetor-prawetor], "seorang hakim kuno Romawi").
+entry(recap, v, [recapped, recapping, recaps], "kanggo mriksa liwat ringkesan cekak").
+entry(recce, v, [recced,recceing,recces], "nggawe reconnoiter").
+entry(mundhur, v, [manggih,manggung,manggih'], "nggunakake anggepan kanggo mundur").
+entry(receipt, v, [receipted,receipting,receipts], "dadi tandha yen wis dibayar").
+entry(nampa, v, [nampa,nampani,nampai], "duwe").
+entry(penerima, n, [penerimas], "siji sing nampa").
+```prolog
+entri(anyar, n, [anyar-anyar], "kahanan anyar").
+```
+entry(anyar, adj, [], "RECENTER RECENTESTsing awujud marang wektu sing ora suwe kepungkurRECENTLY adv").
+entry(recept, n, [recepts], "sajinis gambar pikiran").
+entry(reseptor, n, [reseptor], "ujung saraf kang khusus kanggo nampa rangsangan").
+entry(recess, v, [recessed,recessing,recesses], "nyetel ing papan sing mundur utawa bolongan").
+entry(recheat, n, [recheats], "saurane jaran alas").
+entry(resêp, n, [resêp-resêp], "sêthu instruksi kanggo nggawe sêsuatu").
+entry(recision, n, [recisions], "pembatalan").
+entry(recit, n, [recits], "bagean saka crita ing ngendi acara-acara kasebut digandhengake tanpa peningkatan").
+entry(recital, n, [recitals], "akhiran sing rinci").
+entry(macakake, v, [macakake,macakna,macakake], "ngucapake utawa ngandhakake saka memori").
+entry(reciter, n, [pangwaca], "siji sing maca").
+entry(reck, v, [recked,recking,recks], "njaluk diperhatèkaké").
+entry(reckless, adj, [], "cukup ngabaikan ancaman").
+entry(reckon, v, [dianggep,dianggepake,dianggepi], "ngitung utawa nggawe perhitungan").
+entry(reckoner, n, [reckoners], "siji sing ngitung").
+entri(reclaim, v, [reclaimed, reclaiming, reclaims], "nggawe cocok kanggo budidaya utawa panggonan").
+entry(reklame, n, [reklamemeh], "publisitas").
+entry(recline, v, [reclined,reclining,reclines], "nggolek utawa nggandhul").
+entry(recliner, n, [kursi malas], "siji sing nyandhak").
+```prolog
+entri(panyepi, n, [panyepi-panyepi], "siji sing urip ing kesendirian lan pengasingan").
+```
+entry(mundur, v, [mundur,munduring,mundurs], "mundur amarga wedi utawa jijik").
+entry(recoiler, n, [recoilers], "sing kang mbedhol mundur").
+entry(recon, v, [reconned, reconning, recons], "kanggo nindakaken penyelidikan").
+entry(reconvey, v, [reconveyed,reconveying,reconveys], "mbalekake marang posisi sadurungé").
+entry(record, v, [nulis, ngrekam, nyatet], "kanggo disimpen kanggo pangreksa").
+entry(recorder, n, [recorders], "siji sing nyathet").
+entry(recount, v, [recounted, recounting, recounts], "nyritakake kanthi rinci").
+entry(recoup, v, [recouped,recouping,recoups], "kanggo njaluk bali asile").
+entry(recoupe, adj, [], "dipisah kaping pindho").
+entry(recourse, n, [recourses], "mungga utawa nglamar menyang wong utawa barang liyane kanggo pitulung").
+entry(pulih, v, [dipulihake,lagi-mulih,mulih], "kanggo entuk maneh sawise kelangan").
+entry(pulih, n, [pulihan], "an economic upturn").
+entry(recreant, n, [recreants], "penakut").
+entry(recreate, v, [nyipta maneh,nyipta maneh,nyipta maneh], "ngemut utawa ngretas fisik utawa mental").
+entry(recruit, v, [recruited,recruiting,recruits], "meluake kanggo layanan militer").
+entry(recta, a, [], "pl saka rectum").
+entry(rectal, adj, [], "kaya ing usus gedheRECTALLY adv").
+entry(recti, pl, [], "saka rectus").
+entry(rectify, v, [rectified,rectifying,rectifies], "ngapiki").
+entry(recto, n, [rectos], "kaca tengen buku").
+entry(rektor, n, [rektor-rektor], "pejabat gereja sing ngurus paroki").
+entry(rectory, n, [rectories], "pondhok panggonan pendeta").
+entry(retretrik, n, [retretrik], "suwung saka swiwi bunter").
+entry(rectum, n, [rectums], "utawa RECTAbagian pungkasan saka usus gedhe").
+entry(rectus, n, [recti], "otot lurus").
+entry(recur, v, [recurred,recurring,recurs], "kedadeyan maneh").
+entry(recurve, v, [recurved,recurving,recurves], "nggawé mbrongko utawa ngisor").
+entry(recusal, n, [recusals], "tindakan nyisih").
+entry(rekusant, n, [rekusant-rekusant], "siji sing nolak nampa panguwasa sing wis diadegake").
+entry(recuse, v, [recused, recusing, recuses], "ngyuwek utawa tantangan minangka hakim ing kasus tartamtu").
+entry(daur ulang, v, [didaur ulang, mendaur ulang, mendaur ulang], "proses kanggo njupuk bahan sing migunani").
+entry(recycler, n, [recyclers], "kang mbalikake").
+entry(abang, adj, [], "REDDER REDDESTsaka warna getih").
+entry(red, v, [redded,redding,reds], "nggawirna abang").
+entry(redact, v, [redacted, redacting, redacts], "nyiapake kanggo publikasi").
+entry(redaktor, n, [para_redaktor], "siji sing nyunting").
+entry(redan, n, [redans], "sejenis benteng pertahanan").
+entry(redargue, v, [redargued,redarguing,redargues], "mbantah").
+entry(redbait, v, [redbaited,redbaiting,redbaits], "ngukum minangka Komunis").
+entry(redbay, n, [redbays], "wit cilik").
+entry(manukabang, n, [manukabang-abang], "manuk sing duwe bulu abang").
+entry(redbone, n, [redbones], "asu buruan").
+entry(redbrick, n, [redbricks], "universitas moderen ing Inggris").
+entry(redbud, n, [redbuds], "wit cilik").
+entry(redbug, n, [kumbang abang], "a chigger").
+entry(redcap, n, [redcaps], "kuli panggul").
+entry(redcoat, n, [redcoats], "prajurit Inggris sajeroning Revolusi Amerika").
+entry(redd, v, [redded, redding, redds], "nyusun kanthi tertib").
+entry(redded, kepungkur, [], "bentuk waktu lampau saka red lan redd").
+entry(merah, v, [memerah,mewarnai_merah],[merah-merahi], "nggawe utawa dadi abang").
+entry(redder, n, [redders], "siji sing redds").
+entry(reddest, superlative, [], "of red").
+entry(reddier, komparatif, [], "saka reddy").
+entry(reddiest, superlative, [], "saka reddy").
+entry(redding, present, [], "participle saka red lan redd").
+entry(abang-ireng, adj, [], "kurang luwih abang").
+entry(reddle, v, [reddled,reddling,reddles], "kanggo ruddle").
+entry(reddy, adj, [], "REDDIER REDDIESTreddish").
+entry(rede, v, [reded, reding, redes], "nijokake saran").
+entry(redear, n, [redears], "iwak mbendhol kang umum").
+entry(nebus, v, [nembus, mbus, nembusi], "tuku maneh").
+entry(pambebas, n, [pambebas], "siji kang mbebasake").
+entry(redeye, n, [redeyes], "sinyal bebaya rel sepur").
+entry(redfin, n, [redfins], "iwak banyu tawar").
+entry(redfish, n, [redfishes], "iwak watu sing bisa dipangan").
+entry(redhead, n, [redheads], "wong sing duwe rambut abang").
+entry(redhorse, n, [redhorses], "iwak banyu tawa").
+entry(redia, n, [redias], "utawa REDIAElarva saka cacing pipih tartamtuREDIAL adj").
+entry(reding, saiki, [], "partisipasi saka rede").
+entry(redirect, v, [redirected, redirecting, redirects], "ngowahi arah dalan utawa panggonan").
+entry(redleg, n, [redlegs], "manuk kang kakiné abang").
+entry(redline, v, [redlined,redlining,redlines], "nolak nyedhiyani kredit utawa asuransi kanggo wilayah-wilayah tartamtu").
+entry(redliner, n, [redliners], "siji sing nggoleki watesan").
+entry(redly, adv, [], "kanthi werna abang").
+entry(redness, n, [rednesses], "kahanan abang").
+entry(redo, n, [redos], "barang kang ditindakake maneh").
+entry(redolent, adj, [], "harum").
+entry(redouble, v, [redoubled,redoubling,redoubles], "nggandha").
+```prolog
+entry(benteng, n, [benteng-benteng], "benteng sing di lemahne"). 
+```
+entry(redound, v, [redounded,redounding,redounds], "kagungan efek").
+entry(redout, n, [redouts], "kahanan nalika getih dialokake menyang sirah").
+entry(redowa, n, [redowas], "tari kang rame").
+entry(redox, n, [redoxes], "salah siji jenis reaksi kimia").
+entry(redpoll, n, [redpolls], "manuk prenjak cilik").
+entry(mbaleni, v, [mbaleni_maneh,mbaleni_mbaleni,mbaleni_maneh], "nggawe salinan sing direvisi saka").
+entry(redrawer, n, [redrawers], "sing nggambar maneh").
+entry(redress, v, [redressed,redressing,redresses], "ngatur maneh").
+entry(redroot, n, [redroots], "tanaman obat tahunan").
+entry(redshank, n, [redshanks], "manuk pasisir").
+entry(redshift, n, [redshifts], "sawijining pangowahan spektrum saka sawijining badan langit menyang gelombang dawa sing luwih dawa").
+entry(redshirt, v, [redshirted,redshirting,redshirts], "nahan atlet kuliah supaya ora melu main kanggo nambah masa layakane").
+entry(redskin, n, [redskins], "sawijine jinis kacang").
+entry(redstart, n, [redstarts], "manuk cilik sing nyanyi").
+entry(redtail, n, [redtails], "sawijine jinis alap-alap").
+entry(redtop, n, [redtops], "sejenis suket").
+entry(reduce, v, [reduced,reducing,reduces], "ngurangi").
+entry(reducer, n, [reducers], "sing kang nyuda").
+entry(reductor, n, [reductors], "piranti kanggo nyuda ion logam ing larutan").
+entry(reduviid, n, [reduviids], "sejenis serangga sing ngisep getih").
+entry(redux, adj, [], "dibalikake").
+entry(redware, n, [redwares], "rumput laut sing bisa dipangan").
+entry(redwater, n, [redwaters], "penyakit getih ing sapi-sapi").
+entry(redwing, n, [redwings], "manuk mligi ing Eropa").
+entry(redwood, n, [redwoods], "wit evergreen sing dhuwur banget").
+entry(ree, n, [rees], "manuk trinil betina saka Eurasia").
+entry(reebok, n, [reeboks], "rhebok").
+entry(reechy, adj, [], "REECHIER REECHIESTbusuk anyir").
+entry(reed, v, [reeded,reeding,reeds], "ngencengake nganggo lagie batang suket dhuwur").
+entry(reedbird, n, [manuk_padi], "bobolink").
+entry(reedbuck, n, [reedbucks], "manuk lanang Afrika").
+entry(reedier, comparative, [], "saka reedy").
+entry(reediest, superlative, [], "saka reedy").
+entry(reedify, v, [reedified, reedifying, reedifies], "mbangun maneh").
+entry(reedily, adv, [], "kanthi swara tiplak tipis").
+entry(reeding, n, [reedings], "pem-bentuk cembung").
+entry(reedlike, adj, [], "kaya tawon").
+entry(reedling, n, [reedlings], "manuk rawa").
+entry(reedman, n, [reedmen], "siji sing main alat musik kang mawa slaying").
+entry(reedy, adj, [], "REEDIER REEDIESTakeh tebu").
+entry(karang, v, [karangke, karang-ing, karang-karang], "ngurangi widane layar KAN DIKARANG adj").
+entry(reefer, n, [reefers], "salah siji sing nyekel").
+entry(reefy, adj, [], "REEFIER REEFIESTakeh ing punggung watu").
+entry(reek, v, [reeked, reeking, reeks], "ngeluarke ambu seng ora enak").
+entry(reeker, n, [reekers], "siji sing mambu").
+entry(reeky, adj, [], "REEKIER REEKIESTreeking").
+entry(reel, v, [reeled,reeling,reels], "nggulung ing jinis piranti rotaryREELABLE adj").
+entry(reeler, n, [reelers], "siji sing ngglendher").
+entry(ngurung, n, [ngurung-ngurung], "swara sing terus-terusan").
+entry(reentry, n, [reentries], "mlebet anyar utawa mlebet kaping pindho").
+entry(reest, v, [reested,reesting,reests], "ngantem").
+entry(reeve, v, [rove, roven, reeving], "REEVEmengikat kanthi ngliwati utawa ngubengi soko").
+entry(ref, v, [reffed,reffing,refs], "wasit").
+entry(reface, v, [refaced,refacing,refaces], "ndandani permukaan njaba saka").
+```prolog
+entry(refect, v, [refected, refecting, refects], "nyegarke karo panganan lan ombenan").
+```
+entry(refel, v, [refelled,refelling,refels], "nolak").
+entry(réfer, v, [référèd,rèféring,rèfèrs], "marani sumber kanggo njujug utawa informasi").
+entry(wasit, v, [diwasit, ngwasit, wasit-wasit], "ngawasi permainan ing olahraga tartamtu").
+entry(referent, n, [referents], "soko sing direfer").
+entry(referral, n, [referrals], "siji sing direferensi").
+entry(digereferensi, lampau, [], "tegang saka refer").
+entry(referrer, n, [referrers], "sing ngeri").
+entry(madha, saiki, [], "participle of refer").
+entry(reffed, past, [], "tegang saka ref").
+entry(reffing, n, [reffings], "pekerjaan wasit").
+entry(refine, v, [refined,refining,refines], "ngilangake saka reregedan").
+entry(pangyuling, n, [pangyuling-pangyuling], "siji sing nyuling").
+entry(panggilingan, n, [panggilingan-panggilingan], "panggonan kanggo ngolah bahan mentah").
+entry(refining, n, [refinings], "proses kanggo mbusak rereged utawa kekurangan saka soko").
+entry(mbenake-ulang, v, [wis-mbenake-ulang, lagi-mbenake-ulang, mbenake-ulang], "nggawe permukaan anyar marang").
+entry(refit, v, [refitted,refitting,refits], "nyiapake lan nggawa kanggo panggunaan tambahan").
+entry(reflag, v, [reflagged,reflagging,reflags], "menehi warga negara sing anyar sing kadhaftar ing kapal").
+entry(menehake, v, [diwenehi_meneh, isih_weneh, menehi], "ngiseni maneh").
+entry(reflect, v, [reflected,reflecting,reflects], "ngowahi utawa mbuwang maneh saka lumahing").
+entry(reflet, n, [reflets], "kaumudaning permukaan kang khusus").
+entry(refleks, v, [refleksed, refleksing, refleks], "nggulung bali").
+entry(reflexly, adv, [], "kanthi cara reflexed").
+entry(refluent, adj, [], "mili bali").
+entry(reflux, v, [refluxed,refluxing,refluxes], "nyebabake mili bali").
+entry(reforest, v, [reforested,reforesting,reforests], "nandur maneh wit-witan").
+```prolog
+entry(reform, v, [reformed, reforming, reforms], "ngowahi dadi kahanan sing luwih apik").
+```
+entry(pambaru, n, [para_pambaru], "siji sing mubak").
+entry(refract, v, [refracted,refracting,refracts], "marengake ing cara tartamtu kaya sinar cahya").
+entry(refrain, v, [refrained,refraining,refrains], "supaya ngrumangsani dhéwé bali").
+entry(refresh, v, [refreshed,refreshing,refreshes], "ngembalèkaké kasegeran lan kakuatan").
+entry(reft, a, [], "bentuk lampau saka reave").
+mlebu(suwan, v, [suwaned,suwaning,suwan], "maringi utawa njupuk papan perlindungan").
+entry(pengungsi, n, [pengungsi-pengungsi], "sing melayu kanggo selamet").
+entry(refugium, n, [refugia], "wilayah stabil sakwisé owah-owahan iklim kontinental").
+entry(ngembalikan, v, [diembalikan,ngembalikan,ngembalike], "kanggo mbalekake").
+entry(refunder, n, [para_refunder], "siji sing mbalekake").
+entry(tolak, n, [tolakan], "tindakan nolak").
+entry(nolak, v, [nolak,nolak,nolak], "ngandharake awak minangka ora gelem nampa, nglakoni, utawa netepi").
+entry(refuser, n, [refusers], "sing sing nolak").
+entry(refusnik, n, [refusniks], "warga Uni Soviet sing ora diwenehi ijin kanggo ngungsi").
+entry(refutal, n, [refutals], "tumindak mbantah").
+entry(mbantah, v, [dibantah,mbantah,mbantah], "mbuktikake salah utawa keliru").
+entry(refuter, n, [refuters], "sing sing mbantah").
+entry(reg, n, [regs], "peraturan").
+entry(regainer, n, [regainers], "sing kang entuk maneh").
+entry(regal, adj, [], "pantes raja").
+entry(regale, v, [regaled,regaling,regales], "nglipur").
+entry(regaler, n, [regalers], "siji sing nyenengake").
+entry(regalia, npl, [], "hak lan hak istimewa saka raja").
+entry(regality, n, [regalities], "panguwasa kraton").
+entry(regally, adv, [], "kanthi cara priyayi").
+entry(regard, v, [regarded,regarding,regards], "ndelok nganggo rasa tartamtu").
+entry(regatta, n, [regattas], "balapan prau").
+entry(regelate, v, [regelated,regelating,regelates], "mbekokake es maneh kanthi nyuda tekanan").
+entry(kabupaten, n, [kabupaten-kabupaten], "kantore bupati").
+entry(bupati, n, [bupati-bupati], "siji sing mréntah ing panggoné raja").
+entry(reges, pl, [], "saka raja").
+entry(reggae, n, [reggaes], "wujud musik Jamaika sing populer").
+entry(regisida, n, [regisida-regisida], "patine raja").
+entry(regie, n, [regies], "badan pengatur pemerintah ing Quebec").
+entry(regift, v, [regifted,regifting,regifts], "menehi wong liya hadiah sing wis ditampa").
+entry(regifter, n, [regifters], "sing sing menehi ulang").
+entry(regime, n, [regimes], "sistem pemerintahan").
+entry(regimen, n, [regimen], "rencana sistematis").
+entry(resimen, v, [dipimpin, mimpin, resimen-resimen], "ngentukake dadi unit militer").
+entry(regina, n, [reginas], "utawa REGINAEratugREGINAL adj").
+entry(wewengkon, n, [wewengkon-wewengkon], "wilayah administratif utawa divisi").
+entry(regional, n, [regional-regional], "sesuatu sing nglayani minangka daerah").
+entry(register, v, [tercathet, ngesahi, sathethe], "nggo ngrekam kanthi resmi").
+entry(registri, n, [registri-registri], "tindakan ndhaftar").
+entry(regius, adj, [], "nyekel gelar profesor sing didegake dening penguasa").
+entry(reglet, n, [reglets], "molding datar lan sempit").
+entry(regma, n, [regmata], "sawijining jinis woh-wohan").
+entry(regna, pl, [], "saka regnum").
+entry(regnal, adj, [], "nyangking kraton utawa panguwaose raja").
+entry(regnancy, n, [regnanies], "kanan keadaan regnant").
+entry(regnant, adj, [], "nguwasani").
+entry(regnum, n, [regna], "pangwasa").
+entry(regolit, n, [regolit-regolit], "lapisan watu longgar").
+entry(regorge, v, [regorged,regorging,regorges], "muntah").
+entry(regosol, n, [regosols], "sejenis lemah").
+entry(regrate, v, [regrated,regrating,regrates], "tuku bareng kanggo didol maneh kanthi rega luwih dhuwur ing area sing padha").
+entry(regreet, v, [regreeted, regreeting, regreets], "nyambut bali").
+entry(regress, v, [regressed, progressing, regresses], "bali menyang").
+entry(regret, v, [regretted,regretting,regrets], "ndeleng bali kanthi susah utawa penyesalan").
+entry(regrowth, n, [regrowths], "tuwuhan anyar utawa kaping pindho").
+entry(reguler, n, [reguler-reguler], "pelanggan kebiasaan").
+entry(ngatur, v, [diatur,ngatur,ngatur], "ngontrol miturut aturan").
+entry(regulus, n, [reguluses], "utawa REGULIi massa sing kabentuk ing ngisor slag ing pawonREGULINE adj").
+entry(rehab, v, [rehabbed,rehabbing,rehabs], "nggawe apik maneh").
+entry(rehabber, n, [rehabbers], "siji sing ndandani").
+entry(latihan, v, [dilatih,latihan,melatih], "latihan kanggo persiapan tampil ing umum").
+entry(reheater, n, [reheaters], "sing sing ngangsorake maneh").
+entry(rehoboam, n, [rehoboams], "botol anggur").
+entry(rehouse, v, [rehoused,rehousing,rehouses], "ngadegne ing sawijining unit omah anyar").
+entry(rei, n, [reis], "wangun basa Inggris sing salah kanggo dhuwit koin Portugis lawas").
+entry(reif, n, [reifs], "pampokan").
+entry(reifier, n, [reifiers], "siji sing konkretnan").
+entry(reify, v, [reified,reifying,reifies], "nganggep minangka nyata utawa konkret").
+entry(reign, v, [reigned,reigning,reigns], "kanggo nglakoni kuwasa praja").
+entry(reiki, n, [reikis], "teknik penyembuhan kanthi ndemek nganggo tangan").
+entry(rein, v, [reined,reining,reins], "ngrèhake").
+entry(reindeer, n, [reindeers], "rusa gedhe").
+entry(reinjury, n, [reinjuries], "cedera malih").
+entry(reinless, adj, [], "tanpa kendali").
+entry(reinsman, n, [reinsmen], "kang nggumun panganggo jaran pinten").
+entry(reis, pl, [], "saka nyata").
+entry(reishi, n, [reishis], "sawang kang nduweni tutup sing nyinau").
+entry(reissuer, n, [reissuers], "sing sing nerbitake maneh").
+entry(reitbok, n, [reitboks], "kidang alang-alang").
+entry(reive, v, [reived,reiving,reives], "ngawula").
+entry(reiver, n, [reivers], "siji sing njarah").
+entry(reiving, n, [reivings], "tindakan utawa sidane saka plunder").
+entry(tolak, v, [ditolak,mbatalke,matolak], "ora gelem nampa nganggep utawa nggunakake").
+entry(rejectee, n, [rejectees], "sing ditolak").
+entry(rejecter, n, [rejecters], "sewang-sing nolak").
+entry(rejector, n, [rejectors], "rejecter").
+entry(rejig, v, [rejigged,rejigging,rejigs], "kanggo ngatur ulang").
+entry(rejigger, v, [rejiggered,rejiggering,rejiggers], "ngowahi").
+entry(bungah, v, [bungah,bungah,bungah], "ngrasa seneng").
+entry('sing bungah', n, ['sing bungah-bungah'], "siji sing bungah").
+entry(mbaleni, v, [mbaleni,mbaleni,mbaleni], "bali utawa tergelincir menyang keadaan biyen").
+entry(relapser, n, [relapsers], "siji sing mbaleni").
+entry(relate, v, [related,relating,relates], "nyritakake").
+entry(relater, n, [relaters], "kang ngandhakake").
+entry(relation, n, [relasi-relasi], "hubungan penting antara loro utawa luwih perkara").
+entry(sedulur, n, [sedulur-sedulur], "siji kang nyambung karo liyané amarga getih utawa palakrama").
+entry(relator, n, [relators], "relater").
+entry(relax, v, [relaxed,relaxing,relaxes], "ngendhoake kaku utawa ketegangan").
+entry(relaxant, n, [relaxants], "obat sing ngedhunaké ketegangan otot").
+entry(relaxer, n, [relaxers], "siji sing ngendhokke").
+entry(relaxin, n, [relaxins], "hormon wadon").
+```prolog
+entry(relay, v, [relayed,relaying,relays], "ngirimake nganggo set anyar kanggo ngganti sing kesel").
+```
+entry(rilis, v, [dibebaske,mbebaske,mbebaske], "kanggo mbebasake").
+entry(releasee, n, [releasees], "siji sing dibebasake").
+entry(releaser, n, [releasers], "siji sing ngeculaké").
+entry(releasor, n, [releasors], "release").
+entry(relegate, v, [relegated,relegating,relegates], "ngeturake").
+entry(elingan, v, [elingane,elingarane,elingane], "dadi kurang ketat").
+entry(relevan, adj, [], "tekan perkara sing ana").
+entry(releve, n, [releves], "mundhak ing driji sikil ing balet").
+entry(terpercaya, n, [terpercaya-terpercaya], "sing isa dipercayaan").
+entry(kanthi dipercaya, adv, [], "kanthi cara sing bisa dipercaya").
+entry(reliance, n, [reliances], "gumantung percaya utawa yakin").
+entry(reliant, adj, [], "nudingake ketergantungan").
+entry(relik, n, [relik-relik], "sebuah peninggalan bersejarah soko acara kapungkur").
+entry(relict, n, [relicts], "organisme sing tetepa ana ing lingkungan sing wis owah").
+entry(relyed, past, [], "dhaskah rely").
+entry(relief, n, [reliefs], "pitulungan ing bentuk dhuwit utawa kabutuhan").
+entry(relier, n, [reliers], "kang gumantung").
+entry(gumantung, saiki, [], "3d wong sing rely").
+entry(ngentheng, v, [ngenthengi,ngenthengke,ngenthengna], "ngurangi utawa ngentas saka rasa lara utawa ora nyaman").
+entry(reliever, n, [pangilang rasa lara], "siji sing ngalangi rasa lara").
+entry(relievo, n, [relievos], "projeksi wujud utawa rupa saka latar mburi datar").
+entry(agama, n, [agamas], "penyembahan marang dewa utawa sing gaib").
+entry(relique, n, [reliques], "leluhur").
+entry(relish, v, [relished,relishing,relishes], "nikmati").
+entry(mengalami_meneh, v, [wis_mengalami_meneh,sing_mengalami_meneh,ngalami_meneh], "ngalami maneh").
+entry(relleno, n, [rellenos], "panganan Meksiko saka cabai ijo sing diisi lan digoreng").
+entry(reloader, n, [reloaders], "sing ngisi ulang").
+entry(pindah, v, [dipindah,pindahi,memindah], "nekakake ing panggon anyar").
+entry(relucent, adj, [], "memantulkan cahya").
+entry(reluct, v, [relucted,relucting,relucts], "nindakake oposisi").
+entry(madangi_maneh, v, [madangi_maneh, madangi_maneh, madangi_maneh], "madangi maneh").
+entry(relumine, v, [relumined,relumining,relumines], "relume").
+entry(rely, v, [relied,relying,relies], "mantepke pangandel utawa kayakinan").
+entry(rem, n, [rems], "sak jumlah sinar ionisasi").
+entry(remailer, n, [remailers], "layanan Internet sing nerusake email kanthi anonim").
+entry(remain, v, [remained,remaining,remains], "terus ing kahanan sing padha").
+entry(pangremak, n, [pangremak], "siji sing nggawe maneh").
+```prolog
+entry(reman, v, [remanned,remanning,remans], "nyukupi kanthi pasokan wong-wong anyar").
+```
+entry(remand, v, [remanded,remanding,remands], "ngirim bali").
+entry(remanent, adj, [], "sisa").
+entry(remanned, past, [], "tegese kata reman").
+entry(remanning, present, [], "participle of reman").
+entry(cathetan, v, [cathetan,cathetaning,cathetans], "ngucapake utawa nulis kanthi sedhela utawa ora resmi").
+entry(remarker, n, [remarkers], "siji sing menehi komentar").
+entry(remarque, n, [remarques], "tandha sing digawe ing pinggir piring sing diukir").
+entry(remedial, adj, [], "dimaksudake kanggo mbenerake soko").
+entry(obat, v, [diobati,ngobati,obat-obatan], "ngenthengake utawa nambani").
+```prolog
+entry(eling, v, [eling-eling,eling-elingi,eling-elinga], "kanggo ngelingake maneh").
+```
+```prolog
+entry(remex, n, [remiges], "suwiwing mabur saka swiwi manukREMIGIAL adj").
+```
+entry(eling, v, [elinge,elingake,eling-elings], "supaya kelingan").
+entry(elingan, n, [elingan-elingan], "kang ngelingake").
+entry(remint, v, [reminted,reminting,remints], "nglebokake maneh lan nggawe dadi koin anyar").
+entry(remise, v, [remised,remising,remises], "njabut pamrayogan").
+entry(remiss, adj, [], "clumsilyADV").
+entry(remit, v, [remitted,remitting,remits], "kirim dhuwit kanggo mbayar").
+entry(remittal, n, [remittals], "tindakan ngirim").
+entry(remitter, n, [remitters], "siji sing menehi").
+entry(remittor, n, [remittors], "remitter").
+entry(remixer, n, [remixers], "siji sing nggawe remix kaya rekaman").
+entry(remnant, n, [remnants], "samubarang sing isih kari").
+entry(remodel, v, [remodeled,remodeling,remodels], "utawa REMODELLED REMODELLING REMODELSt nggawe maneh").
+entry(remolade, n, [remolades], "sambel sing pedhes").
+entry(remora, n, [remora-remora], "sejenis iwak segaraREMORID adj").
+entry(remorse, n, [remorses], "kasangsaran jero amarga rasa bersalah").
+entry(remote, adj, [], "ADOH ANGUDOHsiyaga adohADOHÉ adv").
+entry(remote, n, [remotes], "siaran sing asalé saka njaba studio").
+entry(remotion, n, [remotions], "tindakan mbusak").
+entry(removal, n, [removal-removal], "tindakan mbusak").
+entry(remove, v, [dibusak,mbusak,mbusaki], "kanggo njupuk utawa mindhah adoh").
+entry(remover, n, [removers], "sing sing mbusak").
+entry(remuda, n, [remudo-remudo], "saperangan jaran").
+entry(ginjalo, adj, [], "kagungane ginjal").
+entry(renature, v, [renatured,renaturing,renatures], "ngowahi dadi alam maneh").
+entry(rend, v, [rended,rending,rends], "nggawé ing rusak kanthi kekuwatan").
+entry(render, v, [rendered,rendering,renders], "nyebabake supaya dadi utawa dadi").
+entry(renderer, n, [renderers], "sing nggarap").
+entry(rendible, adj, [], "saget dipunsewa").
+entry(rendzina, n, [rendzinas], "jenis lemah").
+entry(renegade, v, [renegaded, renegading, renegades], "dadi pangkianat").
+entry(renegado, n, [renegados], "utawa RENEGADOES pengkhianat").
+entry(renege, v, [reneged, reneging, reneges], "ndhak ora nepaki janji utawa komitmen").
+entry(reneger, n, [renegers], "wong sing mundur").
+entry(renegue, v, [renegued,reneguing,renegues], "tumundha").
+entry(renew, v, [renewed,renewing,renews], "nggawe anyar utawa kaya anyar maneh").
+entry(perpanjangan, n, [perpanjangan], "tindakan memperpanjang").
+entry(renewer, n, [para pembaruan], "sing siji sing mbaharake").
+entry(reniform, adj, [], "bentuk ginjal").
+entry(renig, v, [renigged,renigging,renigs], "mateni janji").
+entry(renin, n, [renins], "siji enzim").
+entry(renitent, adj, [], "nolak tekanan fisik").
+entry(renminbi, n, [renminbi], "mata uang ing Republik Rakyat Tiongkok").
+entry(rennase, n, [rennases], "rennin").
+entry(rennet, n, [rennets], "selaput panglembut ing weteng kéwan enom tartamtu").
+entry(rennin, n, [rennins], "enzim").
+entry(reno, n, [renos], "omah sing direnovasi").
+entry(renogram, n, [renograms], "gambaran fotografi saka jalane ekskresi ginjal").
+entry(ngalunga, v, [ngalungake,ngalungani,ngalungake], "kanggo ora ngakoni").
+entry(merenovasi, v, [diperbaharui,merenovasi,merenovasi], "nggawe kaya anyar").
+entry(katur, v, [katuraken, katuraken_AKEN, katuraken_ING], "nggawe misuwur").
+entry(rent, v, [rented,renting,rents], "oleh panggunaan sauntara kanthi mbaleni kanggo bayaranRENTABLE adj").
+entry(sewaan, n, [sewaan-sewaan], "jumlah sing dibayar utawa dikoleksi minangka sewa").
+entry(rente, n, [rentes], "penghasilan tahunan miturut hukum Prancis").
+entry(renter, n, [renter-renter], "sing nyewa").
+entry(rentier, n, [rentier-rentier], "sing nampa penghasilan tetep").
+entry(renvoi, n, [renvois], "pangusiran déning pamaréntah marang wong manca").
+entry(reoffer, v, [reoffered,reoffering,reoffers], "ngedol kanggo umum maneh").
+entry(reorg, v, [reorged,reorging,reorgs], "ngatur maneh").
+entry(reovirus, n, [virus-reo], "sawijining jinis virus").
+entry(rep, v, [repped,repping,reps], "nggambarke").
+entry(sampun_angsuran, past, [], "tense of repay").
+entry(repair, v, [diperbaiki, ndandani, ndandani], "mbalekake menyang kahanan apik").
+entry(bengkel, n, [bengkel-bengkel], "siji sing ndandani").
+entry(repand, adj, [], "duwé pinggiran sing bergelombangREPANDLY adv").
+entry(repartee, n, [repartees], "wangsulan cekak sing pinter").
+entry(repast, v, [repasted,repasting,repasts], "mangan utawa pésta").
+entry(mbalekaken, v, [wis_dibayar,sedang_mbayar,mbayar_meneh], "kanggo mbayar bali").
+entry(repeal, v, [dibatalake,dibatakake,mbatalake], "mbatalake").
+entry(pambatal, n, [pambatal-pambatal], "siji sing mbatalake").
+entry(repeat, v, [repeated,repeating,repeats], "ngucapake utawa nindakake maneh").
+entry(repeater, n, [repeaters], "sing mbaleni").
+entry(mbalik, v, [mblibik,mbalik,mbalikke], "kanggo ngusir bali").
+entry(repeller, n, [repeller-repeller], "sing bisa ngusir").
+entry(tobat, v, [tobat,tobat,tobat], "ngrasa ora seneng utawa nyesali tumindak kepungkur").
+Masukan baris Prolog iki menyang basa Jawa. Output mung Prolog:
+entry(repenter, n, [para_patobat], "siji sing patobat").
+entry(repetend, n, [reretend], "ukara utawa swara sing diulang").
+entry(repine, v, [repined,repining,repines], "ngungkapake rasa ora puas").
+entry(repiner, n, [repiners], "siji sing sambat-sambat").
+entry(ganti, v, [diganti,ngganti,ngganti], "njupuk panggonan").
+entry(replacer, n, [replacers], "siji sing ngganti").
+```prolog
+entry(replete, n, [repletes], "semut pekerja kang ngladèni minangka gudhang urip kanggo panganan cair").
+```
+entry(replevin, v, [replevined,replevining,replevins], "nyandhet").
+entry(replevy, v, [replevied,replevying,replevies], "mendapatake maneh kagungan liwat tindakan hukum").
+entry(replica, n, [tiron], "salinan sing cedhak utawa reproduksi").
+entry(replicon, n, [replicon-replicon], "salah sawijining bagean saka asam nukleat sing niru minangka siji unit").
+entry(replier, n, [repliers], "siji sing mbales").
+entry(reply, v, [njawab, njawabke, njawabi], "kanggo mangsuli").
+entry(repo, n, [repos], "barang repossessed").
+entry(report, v, [dilaporake,laporan,laporan], " menehi laporan ").
+entry(reporter, n, [reporter-reporter], "sewang sing nglaporake").
+entry(reposal, n, [reposals], "tindak laku repose").
+entry(repose, v, [reposed,reposing,reposes], "turu kanthi tentrem").
+entry(reposer, n, [reposers], "siji sing ngendhok").
+entry(reposit, v, [reposited,repositing,reposits], "nyimpen").
+entry(repousse, n, [repousses], "desain munggah sing dipithik ing logam").
+entry(repp, n, [repps], "kain kanthi pola lintang").
+entry(repped, adj, [], "ngemot repp").
+entry(repress, v, [repressed,repressing,represses], "kanggo njaga kontrol").
+entry(reprieve, v, [reprieved,reprieving,reprieves], "nundha paukuman").
+entry(reprisal, n, [reprisals], "tindakan balas dendam").
+entry(reprise, v, [reprised,reprising,reprises], "ngenggal bali kanthi paksa").
+entry(repro, n, [repros], "lembaran coba cetakan sing cocog kanggo reproduksi fotografis").
+entry(menyalahake, v, [menyalahake,menyalahake,menyalahake], "nemokake kesalahan").
+entry(reproof, n, [reproofs], "kritik kanggo kasalahan").
+entry(reproval, n, [reprovals], "reproof").
+entry(menyalahake, v, [disalahake,nyalahake,nyalaake], "nyeneni").
+entry(reprover, n, [reprovers], "siji sing menehi teguran").
+entry(reptant, adj, [], "mlaku krodho utawa mlaku mersusul").
+entry(reptil, n, [reptil], "salah sawijining kelas vertebrata sing getihe adhem lan ambegan nganggo udara").
+entry(reptilia, npl, [], "bangunan kanggo omahe reptil").
+entry(republik, n, [republik-republik], "wujud pamaréntahan konstitusional").
+entry(repugn, v, [repugned, repugning, repugns], "nolak").
+entry(mundurake, v, [mundur, mundurake, mundurake], "kanggo ngusir bali").
+entry(repulser, n, [repulsers], "siji sing ngusir").
+entry(kaurmatan, kriyo, [kaumratana, ngramatani, ngarmati], "dianggep minangka sing kasebut").
+entry(request, v, [nyuwun, nyuwuni, nyuwun], "nyebutake kepinginan kanggo").
+entry(requiem, n, [requiem-requiem], "gubahan musik kanggo wong sing wis mati").
+entry(requin, n, [requins], "hiu sing rakus").
+entry(requinto, n, [requintos], "gitar cilik").
+entry(mbutuhake, v, [dibutuhake,mbutuhake,mbutuhkan], "nggadhang kudu").
+entry(nyedhiyakake, n, [sing nyedhiyakake], "siji sing nyuwun").
+entry(pambalesan, n, [pambalesan-pambalesan], "sawijining bab sing diwenehake minangka balesan, kompensasi, utawa pembalesan").
+entry(requite, v, [requited, requiting, requites], "mbales kanthi padha").
+entry(requiter, n, [requiters], "siji sing membales").
+entry(reran, past, [], "bentuk lampau saka rerun").
+entry(reredos, n, [reredoses], "hiasan layar ing mburi altar").
+entry(reremice, npl, [], "kelelawar mabur mamalia").
+entry(rereward, n, [rerewards], "buri").
+entry(reroller, n, [rerollers], "sing rerolls").
+entry(rerun, v, [reran,rerunning,reruns], "kanggo nampilake ulangan saka pertunjukan sing direkam").
+entry(res, n, [reses], "asrama universitas utawa perguruan tinggi").
+entry(resale, n, [resales], "tindak adol maneh").
+entry(rescale, v, [rescaled, rescaling, rescales], "ngrancang kanthi skala anyar").
+entry(rescind, v, [dibatalake,dibatalkake,mbatalake], "nganggo ana").
+entry(rescript, n, [rescripts], "sesuatu sing ditulis maneh").
+entry(rescue, v, [dislametake, dislametani, nyelametake], "ngluwari saka bebaya").
+entry(rescuee, n, [rescuees], "siji sing dislametake").
+entry(panyelamat, n, [panyelamat-panyelamat], "siji sing nylametake").
+entry(research, v, [diteliti, neliti, nindakake riset], "nyelidiki kanthi tuntas").
+entry(reseau, n, [reseaus], "utawa RESEAUXpanyaring kanggo nggawe film warna").
+entry(resect, v, [resected,resecting,resects], "nggunting sisih saka sawijining bagéan utawa struktur sacara bedhah").
+entry(reseda, n, [resedas], "tetanduran kembang").
+entry(pengecer, n, [pengecer-pengecer], "siji sing adol maneh").
+entry(mirip, k, [mirsip,miripake,mirip-mirip], "kaya podho").
+entry(resent, v, [resented,resenting,resents], "ngrasa atau ngucapake nesu utawa ora apik marang").
+entry(reserve, v, [dipesen,mesen,meseni], "nyimpen kanggo panggunaan ngarep").
+entry(reserver, n, [reservers], "siji sing nyimpen").
+entry(reses, pl, [], "saka res").
+entry(resetter, n, [resetters], "sing sing reset").
+entry(resh, n, [reshes], "huruf Ibrani").
+entry(reshaper, n, [reshapers], "siji sing mbentuk maneh soko").
+entry(resid, n, [resids], "salah sawijining jinis lenga bahan bakar").
+entry(manggon, v, [manggoniku, manggon, manggon], "dumateng tetep utawa terus-terusan").
+entry(resident, n, [penduduk], "siji sing manggon").
+entry(resider, n, [residers], "warga").
+entry(residual, n, [residu], "sesuatu sing isih ana").
+entry(residu, n, [residu-residu], "soko sing isih ana sawise bagean saka iku dijupuk").
+entry(residuum, n, [residuums], "utawa RESIDUAresidue").
+entry(resign, v, [mundhur,sedaya_mundur,sedang_mundur], "ninggalake kalungguhan utawa jabatan").
+entry(sabayon, n, [sabayons], "saus saka kuning endhog sing dikocok, gula, lan anggur").
+entry(sabbat, n, [sabbats], "kumpulane dhemit lan tukang sihir").
+entry(sabbath, n, [sabbaths], "sabat").
+entry(sabbatic, n, [sabbatics], "taun libur saka tugas ngajar normal").
+entry(sabbed, past, [], "kahanan wektu saka sab").
+entry(sabbing, present, [], "partisipel saka sab").
+entry(sabe, v, [sabed,sabeing,sabes], "ngerti").
+entry(saber, v, [sabered,sabering,sabers], "nyerang nganggo pedhang saber sawijining jinis pedhang").
+entry(sabicu, n, [sabicus], "wit saka Karibia").
+entry(sabin, n, [sabins], "satuan pangyerepan swara").
+entry(sabine, n, [sabines], "savin").
+entry(sabir, n, [sabirs], "basa pidgin adhedhasar Prancis").
+entry(sabkha, n, [sabkhas], "sawangan pesisir sing kena banjir sadurunge ing Afrika Lor").
+entry(sable, n, [sables], "kewan majemuk sing mangan daging").
+entry(sabot, n, [sabots], "Sandal kayuSABOTED adj").
+entry(sabotase, v, [disabotase,sabotase,sabotase], "ngrusak kanthi ala").
+entry(sabotir, n, [sabotir-sabotir], "siji sing nyabot").
+entry(sabra, n, [sabras], "wong asli Israel").
+entry(sabre, v, [sabred,sabring,sabres], "sabre").
+entry(sabulose, adj, [], "sabulous").
+entry(sabulous, adj, [], "pasir").
+entry(sak, n, [sak-sak], "struktur kaya kantong ing kewan utawa tetanduran").
+entry(sacaton, n, [sacatons], "suket taunan").
+entry(sacbut, n, [sacbuts], "sackbut").
+entry(saccade, n, [saccades], "gerakan cepet nanging ora rata saka mataSACCADIC adj").
+entry(saccate, adj, [], "duweni grobag").
+entry(saccular, adj, [], "nduwe karo kantong").
+entry(saccule, n, [saccules], "karung cilik").
+entry(sacculus, n, [sacculi], "sakul").
+entry(sachem, n, [sachems], "salah sawijining kepala suku Amérika AsliSACHEMIC adj").
+entry(sachet, n, [sachets], "tas cilik sing isine bubuk wangiSACHETED adj").
+entry(sack, v, [sacked,sacking,sacks], "nglebokake menyang sak sak gedhe SACKABLE adj").
+entry(sackbut, n, [sackbuts], "trombon jaman pertengahan").
+entry(sacker, n, [sackers], "kang nyak").
+entry(sakful, n, [sakfuls], "utawa SAKSFULkeplasekarone sak bisa nampung").
+entry(pambagean, n, [pambagean-pambagean], "bahan kanggo nggawe karung").
+entry(sacklike, adj, [], "mirip karo karung").
+entry(saclike, adj, [], "kayadene karung").
+entry(sacque, n, [sacques], "klambi sing longgar").
+entry(sacra, pl, [], "saka sakrum").
+entry(sakral, n, [sakrals], "balung punggung utawa saraf sing dumunung cedhak sacrum").
+entry(sacraria, npl, [], "pemujaan Romawi kuna").
+entry(suci, adj, [], "SACREDER SACREDESTholySACREDLY adv").
+entry(sacring, n, [sacrings], "sakramen roti lan anggur ing Ekaristi").
+entry(sacrist, n, [sacrists], "wong sing tanggung jawab ing sacristy").
+entry(sakristi, n, [sakristi-sakristi], "kamar ingkang nyimpen piranti suci lan busana ibadah").
+entry(sacrum, n, [sacrums], "utawa SACRAa balung saka balung panggul").
+entry(sedhih, adj, [], "SEDEH SEDEHESTtanpa seneng").
+entry(sadden, v, [saddened,saddening,saddens], "nggawe sedhih").
+entry(saddhu, n, [saddhus], "sadhu").
+entry(saddish, adj, [], "sethithik sedhih").
+entry(sadle, v, [nyadle,nyadle,nyadle], "nggoleki kursi kulit kanggo nunggangake").
+entry(saddler, n, [saddlers], "sing nggawe, ndandani, utawa adol jaranan").
+entry(saddlery, n, [saddleries], "toko sing gawean penjahit sadel").
+entry(sade, n, [sades], "huruf Ibrani").
+entry(sadhe, n, [sadhes], "adhas").
+entry(sadhu, n, [sadhus], "wong suci ing agama Hindu").
+entry(sadi, n, [sadis], "tuku").
+entry(sadiron, n, [sadirons], "setrika peti abot").
+entry(sadisme, n, [sadisme-sadisme], "kahanan sing seneng nglarani wong liya").
+entry(sadist, n, [sadists], "wong sing ditondoi dening sadismeSADISTIK adj").
+entry(sedhih, kata_keterangan, [], "kanthi cara sedhih").
+entry(kasedihan, n, [kasedihan], "kahanan dadi sedih").
+entry(sae, adv, [], "dadi").
+entry(safari, v, [safaried,safariing,safaris], "mangkat menyang ekspedisi mburu").
+entry(aman, adj, [], "LUWIH AMAN PALING AMAN bebas saka bahaya AMANé adv").
+entry(aman, n, [aman-aman], "wewangunan logam kanggo nyimpen barang-barang berharga").
+entry(safeness, n, [safenesses], "kualitas aman").
+entry(safety, v, [safetied,safetying,safeties], "nglindhungi saka gagal pecah utawa kacilakan").
+entry(saffron, n, [saffrons], "tanduran kembang").
+entry(saffrony, adj, [], "podo karo saffron").
+entry(safranin, n, [safranin-safranin], "pewarna abang").
+entry(safrol, n, [safrols], "safrole").
+entry(safrole, n, [safrole-safrole], "a poisonous liquid").
+entry(sag, v, [sagged,sagging,sags], "bungkuk utawa tenggelam saka bobot utawa tekanan").
+entry(saga, n, [sagas], "sebuah narasi Skandinavia abad pertengahan").
+entry(kawicaksanan, n, [kawicaksanan-kawicaksanan], "kawicaksanan").
+entry(sagaman, n, [sagamen], "panulis crita saga").
+entry(sagamore, n, [sagamores], "penggedhe Indian Algonquian").
+entry(saganash, n, [saganashes], "wong putih istilah saka Algonquian Indian").
+entry(sagbut, n, [sagbuts], "sackbut").
+entry(sage, adj, [], "SAGER SAGESTwiseSAGELY adv").
+entry(sage, n, [sages], "sujen nganggo gandung kanggo masak").
+entry(kasekatan, n, [kasekatan-kasekatan], "kaadaan wicaksana").
+entry(kawicaksanan, n, [kawicaksanans], "kawruh").
+entry(saggar, v, [saggared,saggaring,saggars], "nindakake panggang ing saggar sawijining cangkang tanah lempung pelindung").
+entry(saggard, n, [saggards], "saggar").
+entry(sagged, past, [], "crita wektu sag").
+entry(sagger, v, [saggered,saggering,saggers], "tumrape saggar").
+entry(sagging, saiki, [], "participle saka sag").
+entry(saggy, adj, [], "SAGGIER SAGGIESTkang diwedhar dening kendho").
+entry(sagier, comparative, [], "saka sagy").
+entry(sagiest, superlative, [], "saka sagy").
+entry(sagittal, adj, [], "mirip panah utawa sirah panah").
+entry(sagu, n, [sagu-sagu], "wit tropis").
+entry(saguaro, n, [saguaros], "kaktus dhuwur").
+entry(sagum, n, [saga], "ageman sing dianggo tentara Romawi kuna").
+entry(sagy, adj, [], "SAGIER SAGIESTrasa kanthi sage").
+```prolog
+entry(sahib, n, [sahibs], "nggih, majikan,  digunakake minangka istilah pangurmatan ing India kolonial").
+```
+entry(sahiwal, n, [sahiwals], "salah sawijining trah sapi perah sing nduweni punuk").
+entry(sahuaro, n, [sahuaros], "saguaro").
+entry(saice, n, [saices], "syce").
+entry(said, n, [saids], "sayyid").
+entry(saiga, n, [saiga-saiga], "sato cilik antelope").
+entry(sail, v, [sailed,sailing,sails], "ngliwati permukaan banyu kanthi tumindak anginSAILABLE adj").
+entry(perahu_layar, n, [perahu_layar], "perahu sing nganggo layar").
+entry(sailer, n, [sailers], "prahu sing layar").
+entry(sailfish, n, [sailfishes], "iwak segara gedhe").
+entry(sailing, n, [sailings], "tumindak saka wong sing layar").
+entry(tanpa_layar, adj, [], "ora duwe layar").
+entry(sailor, n, [para_pelaut], "anggota saka kru kapalPELAUT adj").
+entry(sailpast, n, [sailpasts], "layaripun kapal-kapal liwat panggonan").
+entry(saimin, n, [saimins], "sop mi saka Hawaii").
+entry(sain, v, [sained,saining,sains], "nggawe tandha salib ing").
+entry(sainfoin, n, [sainfoins], "salah siji tanduran obat taunan").
+entry(santo, v, [disantoake, nyantosake, santo-santo], "ngakoni jeneng santo marang wong sing duwé kabecikan luar biasa").
+entry(saintdom, n, [saintdoms], "kahanan dadi wali").
+entry(saintly, adj, [], "SAINTLIER SAINTLIESTsaking utawi prayogi kanggo santo").
+entry(saith, a, [], "present 3d person sing of say").
+entry(saithe, n, [saithe], "iwak segara kanggo panganan").
+entry(saiyid, n, [saiyids], "sayyid").
+entry(sajou, n, [sajous], "sèdhak capuchin").
+entry(sake, n, [sakes], "manfaat kapentingan utawa kauntungan").
+entry(saker, n, [sakers], "manuk alap-alap Eurasia").
+entry(saki, n, [sakis], "siji omben-omben Jepang").
+entry(sakti, n, [saktis], "garwanipun dewa wonten ngelmu Hindu").
+entry(sal, n, [sals], "uyah").
+entry(salaam, v, [salaamed,salaaming,salaams], "ngaturake salam kanthi sujud").
+entry(salable, adj, [], "bisa didol utawa cocog kanggo didol SALABLY adv").
+entry(salacity, n, [salacities], "kesusilang ayu").
+entry(salad, n, [salads], "sajian sayuran ijo mentah").
+entry(saladang, n, [saladangs], "banteng alas").
+entry(salal, n, [salals], "wit cilik").
+entry(salami, n, [salamis], "sosis sing dibumbui").
+entry(salariat, n, [salariats], "kelas wong-wong kang duwe gaji").
+entry(gaji, v, [digaji, manggajeni, gaji-gajine], "mbayar kompensasi tetep saben periode marang").
+entry(salat, n, [salats], "sholat, ibadah sholat ritual umat Islam").
+entry(salchow, n, [salchows], "loncatan figureskating").
+entry(sale, n, [penjualan], "tindakan utawa sawijining kejadian adol-belih").
+entry(saleable, adj, [], "salableSALEABLY adv").
+entry(salep, n, [saleps], "pangangan kenthel sing digawèk saka oyot anggrek tartamtu").
+entry(saleroom, n, [salerooms], "ruang kanggoné nuduhaké barang dagangan kanggo didol").
+entry(salesman, n, [salesmen], "wong lanang sing adol barang dagangan").
+entry(salic, adj, [], "sing ana gunung geni").
+entry(salicin, n, [salicins], "senyawa kimia").
+entry(salicine, n, [salicines], "salicin").
+entry(salience, n, [saliences], "detil utawa fitur sing metu").
+entry(saliency, n, [saliencies], "salience").
+entry(salient, n, [salients], "bagean saka benteng sing ndhekep cedhak mungsuh").
+entry(salify, v, [disalifikasi, nyalifikasi, nyalifikasikake], "nggabung karo uyah").
+entry(salina, n, [salinas], "telaga, rawa utawa segara kanthi banyu asin").
+entry(saline, n, [salines], "larutan uyah").
+entry(kasegaran, n, [kasegaran-kasegaran], "konsentrasi uyah").
+entry(salinasi, v, [d-salinasi,d-ing-salinasi,d-salinase], "diobati nganggo uyah").
+entry(iler, n, [iler-iler], "cairan sing disekresi dening kelenjar ing cangkemSALIVARY adj").
+entry(ndower, v, [ndowered, ndowering, ndowers], "ngasilake ilat-ilat").
+entry(sall, v, [], "sall mung wujud saka kriya iki lan ora bisa diubah-ubah").
+entry(sallet, n, [sallets], "helm medieval sing entheng").
+entry(sallied, past, [], "tegang saka sally").
+entry(sallier, n, [salliers], "siji sing nglancarke serangan").
+entry(sallies, saiki, [], "wong katelu tunggal saka sally").
+entry(sallow, adj, [], "SALLOWER SALLOWEST kanthi werna ireng kuning kaya lara SALLOWLY adv").
+entry(sallow, v, [sallowed,sallowing,sallows], "nggawe sallow").
+entry(sallowy, adj, [], "akeh wit-witan willow").
+entry(sally, v, [sallied, sallying, sallies], "mlaku metu kanthi dadakan").
+entry(salmi, n, [salmis], "olahan manuk buruan panggang").
+entry(salmon, n, [salmons], "iwak pangan").
+entry(salmonid, n, [salmonids], "iwak saka kulawarga salmon").
+entry(salmony, adj, [], "kaya salmon").
+entry(salol, n, [salols], "senyawa kimia").
+entry(salon, n, [salon-salon], "kamar sing gedhe kanggo nampa tamu").
+entry(saloon, n, [saloons], "pesanggrahan").
+entry(saloop, n, [saloops], "inuman panas sing digawe saka infus jamu wangi").
+entry(salp, n, [salps], "salpa").
+entry(salpa, n, [salpas], "utawa SALPAEa mbebasake renang tunicate").
+entry(salpian, n, [salpians], "salpa").
+entry(salpicon, n, [salpicons], "campuran panganan sing dicacah ing saos sing digunakake minangka isian").
+entry(salpid, n, [salpids], "salpa").
+entry(salpinx, n, [salpinges], "tabung anatomi").
+entry(salsa, n, [salsas], "saos pedhes saka tomat, bawang, lan mrica").
+entry(salsify, n, [salsifies], "semeru Eropa").
+entry(salsilla, n, [salsillas], "tetanduran tropis").
+entry(salt, adj, [], "ASINER ASINESTasin").
+entry(garam, v, [digarami, nggarami, nggaram], "nambani nganggo garam, sawijining senyawa kristal kanggo ngecap lan njaga").
+entry(saltant, adj, [], "mlumpat utawa joget").
+entry(saltbox, n, [saltboxes], "sawiji jinis omah").
+entry(saltbush, n, [saltbushes], "tetuwuhan kang tahan uyah").
+entry(salter, n, [salters], "sing nyenggani uyah").
+entry(saltern, n, [salterns], "panggonan kanggo ngasilake uyah").
+entry(saltery, n, [salteries], "pabrik sing ngolah iwak nganggo uyah supaya bisa diawetake").
+entry(saltie, n, [salties], "kapal samudra sing ana ing Tlaga Gedhe").
+entry(saltier, n, [saltiers], "sang lor").
+entry(saltiest, superlative, [], "paling asin").
+entry(saltily, adv, [], "kanthi rasa asin").
+entry(saltine, n, [saltines], "krupuk asin").
+entry(salting, n, [saltings], "tanah kang saben dina kebanjiran pasang").
+entry(saltire, n, [saltires], "desain heraldik").
+entry(saltish, adj, [], "rada asin").
+entry(tanpa_garam, adj, [], "ora ana uyah").
+entry(sakgaram, adj, [], "mupangati garam").
+entry(saltness, n, [saltnesses], "kaadaan asin").
+entry(saltpan, n, [saltpans], "panci gedhe kanggo nggawe uyah kanthi cara penguapan").
+entry(saltwork, n, [saltworks], "panggonan kanggo nggawe uyah").
+entry(saltwort, n, [saltworts], "siji tanduran pinggir segara").
+entry(asem, adj, [], "SALTIER SALTIESTtasting saka utawa ngemot uyah").
+entry(saluki, n, [salukis], "asu dhuwur lan ramping").
+entry(salut, interj, [], "digunakaké kanggo ngungkapaké paseduluran sadurunge ngombe").
+entry(salutary, adj, [], "ngasilake efek sing migunani").
+entry(salute, v, [saluted,saluting,salutes], "ngabekti kanthi tandha sugeng rawuh utawa ajrih").

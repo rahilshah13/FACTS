@@ -24492,3 +24492,5579 @@ entry(shovel, v, [shoveled, shoveling, shovels], "or SHOVELLED SHOVELLING SHOVEL
 entry(shoveler, n, [shovelers], "person wey dey use shovel").
 entry(shover, n, [shovers], "pesin we dey push").
 entry(shoving, present, [], "participle of shove").
+```prolog
+entry(sore, v, [sored,soring,sores], "to spoil di foot of a horse make e waka one kain waka").
+```
+entry(sore, adj, [], "SORER SORESTpainfully sensitive to di touch").
+entry('di person wey quick vex', n, ['di persons wey quick vex'], "a person who is easily angered or offended").
+entry(sorel, n, [sorels], "zobo leaf").
+entry(sorely, adv, [], "in a way wey dey cause pain or sadness").
+entry(soreness, n, [sorenesses], "di condition or state of body pain").
+entry(sorer, comparative, [], "wey dey more sore").
+entry(sorest, superlative, [], "of sore").
+entry(sorgho, n, [sorghos], "sorgho").
+entry(sorghum, n, [sorghums], "one kind cereal grass").
+entry(sorgo, n, [sorgos], "wan kain sorghum").
+entry(sori, pl, [], "of sori dem").
+entry(soricine, adj, [], "we dey related to shrew family for animals").
+```prolog
+entry(soring, n, [sorings], "di practice of making hoss front leg sore to make dem waka high").
+```
+entry(sorites, n, [sorites], "one kain argument wey dem dey use for logicSORITIC adj").
+entry(sorn, v, [sorned,sorning,sorns], "to force yasef for oda people for food and lodging").
+entry(sorner, n, [sorners], "persin wey dey live for person house for free").
+entry(soroche, n, [soroches], "sickness wey person dey get for mountain").
+entry(sororal, adj, [], "wey be like sister").
+entry(sororate, n, [sororates], "di marriage of man wit im late wife sister").
+entry(sorority, n, [sororities], "na social club for women").
+entry(sorosis, n, [sorosises], "or SOROSESa women club or society").
+entry(sorption, n, [sorptions], "di act or process of sorbingSORPTIVE adj").
+entry(sorrel, n, [sorrels], "reddish brown color wey be like ginger").
+entry(sorrier, comparative, [], "of sorry").
+entry("sorriest", superlative, [], "of sorry").
+entry(sorrily, adv, [], "na sorry way").
+entry(sorrow, v, [sorrowed, sorrowing, sorrows], "to dey grieve").
+entry(sorrower, n, [sorrowers], "person wey dey sorrow").
+entry(sorry, adj, [], "SORRIER SORRIESTfeeling grief or penitence").
+entry(sort, v, [sort am, dey sort, dem dey sort], "to arrange according to kind, class or sizeSORTABLE adjSORTABLY adv").
+entry(sortal, n, [sortals], "word wey classify something as one kind").
+entry(sorter, n, [sorters], "one wey dey sort").
+entry(sortes, npl, [], "divination by chance selection of a passage in an authoritative text").
+entry(sortie, v, [sortied,sortieing,sorties], "to attack suddenly from a defensive position").
+entry(sorting, n, [sortings], "na di waya wey dem take separate items put for different groups").
+entry(sorus, n, [sori], "na group of plant reproductive bodies").
+entry(sot, n, [sots], "persin wey dey always drink too much").
+entry(soth, n, [soths], "soot").
+entry(sotol, n, [sotols], "na flowering plant").
+```
+entry(sotted, adj, [], "besottedSOTTEDLY adv").
+```
+entry(sottish, adj, [], "like person wey dey always drunk").
+entry(sou, n, [sous], "French money wey dem dey use before before").
+entry(souari, n, [souaris], "one kain tropical tree").
+entry(soubise, n, [soubises], "na sauce wey dey with onions and butter").
+entry(soucar, n, [soucars], "pesin wey dey do banking for Hindu").
+entry(souchong, n, [souchongs], "Chinese tea").
+entry(soudan, n, [soudans], "soldan").
+entry(souffle, n, [souffles], "one light baked food").
+entry(souffled, adj, [], "wey dem make puffy by beating and baking").
+entry(sough, v, [soughed,soughing,soughs], "to dey make moaning or sighing sound").
+entry("sought", "past", [], "tense wey mean seek").
+entry(souk, n, [souks], "na marketplace for northern Africa and the Middle East").
+entry(soukous, n, [soukouses], "na dance music for Democratic Republic of the Congo").
+entry(spirit, n, [spirits], "di spiritual side of human beingsSPIRITED SPIRITLESS SPIRITLIKE adj").
+entry(soulful, adj, [], "full of emotion").
+entry(soulmate, n, [soulmates], "person wey fit you well well").
+entry(soulster, n, [soulsters], "person wey dey sing soul music").
+```prolog
+entry(sound, adj, [], "SOUNDER SOUNDEST meaning persin wey dey in good health or condition").
+```
+entry(sound, v, [sound, de sound, sounds], "to make sound, sometin wey fit touch di ear to hear am").
+entry(soundbox, n, [soundboxes], "na resonant space for inside musical instrument").
+entry(saunda, n, [saundas], "pesin wey dey make sound").
+entry(sounding, n, [soundings], "di way people take dey think am").
+```
+entry(soundly, adv, [], "in a sound manner").
+```
+entry(soundman, n, [soundmen], "person wey dey control how sound wey dem dey record go be").
+entry(soup, v, [souped,souping,soups], "to make somtin beta or more powaful").
+```prolog
+entry(soupcon, n, [soupcons], "small thin wey remain small"). 
+```
+entry(soupless, adj, [], "e no get soup wey be liquid food wey dey sometimes get solid things inside").
+entry(souplike, adj, [], "e be like soup").
+entry(soupy, adj, [], "SOUPIER SOUPIESTfoggySOUPILY adv").
+entry(sour, adj, [], "SOURER SOURESTsharp or biting to di taste").
+entry(sawa, v, [sawaed, sawaring, sawas], "to make or become sour").
+entry(sourball, n, [sourballs], "one sweet wey dey sour").
+entry(sos, v, [sosed, sosing, sos], "to obtain from a point of origin").
+entry(getting, n, [gettings], "di act wey person dey take get something from where e start").
+entry(sourdine, n, [sourdines], "sordine").
+entry(sourgum, n, [sourgums], "na softwood tree wey dey eastern North America").
+entry(sourish, adj, [], "e dey small sour").
+entry(sourly, adv, [], "in sour way").
+entry(sawerness, n, [sawernesses], "di quality or state of being sour").
+entry(southing, n, [southings], "movement go south").
+entry(southpaw, n, [southpaws], "person wey dey use left hand").
+entry(southron, n, [southrons], "southern pesin").
+entry(souvenir, n, [souvenirs], "something wey person fit take remember place or event").
+entry(souvlaki, n, [souvlaki dem], "one Greek shish kebab").
+entry(soviet, n, [soviets], "na legislative body for Communist country").
+```prolog
+entry(sovkhoz, n, [sovkhozes], "or SOVKHOZ farm wey government own for di former Soviet Union").
+```
+```prolog
+entry(sovran, n, [sovrans], "na king or queen").
+```
+entry(sovranly, adv, [], "supremely").
+entry(sovranty, n, [sovranties], "monaki").
+entry(sow, v, [sowed,sown,sowing], "SOW na to scatter am for land make e grow as seedSOWABLE adj").
+entry(sowans, n, [sowans], "sowans").
+```prolog
+entry(sowar, n, [sowars], "na soldier wey dey ride horse for India").
+```
+entry(sowback, n, [sowbacks], "small small sand hill").
+entry(sowbelly, n, [sowbellies], "pork wey dem cure wit salt").
+entry(sowbread, n, [sowbreads], "one flowerin' plant").
+entry(sowbug, n, [sowbugs], "one kain wood louse").
+entry(sowcar, n, [sowcars], "soucar").
+entry(sowens, n, [sowens], "porridge wey dem make from oat husks").
+entry(sower, n, [sowers], "pesin wey dey plant").
+entry(sowing, n, [sowings], "di act of scattering seeds").
+entry(sown, past, [], "participle of sow").
+entry(sox, a, [], "pl of sock").
+entry(soy, n, [soys], "di soybean").
+entry(soya, n, [soyas], "soy").
+entry(soybean, n, [soybeans], "di seed of one Asian plant wey dem de farm").
+entry(soymeal, n, [soymeals], "di leftover afta dem comot oil from soybean seed").
+entry(soymilk, n, [soymilks], "one milk wey dem dey make from soybeans").
+entry(soyuz, n, [soyuzes], "na spacecraft wey de former Soviet Union dey use carry people go space").
+entry(sozin, n, [sozins], "na kain protein").
+entry(sozine, n, [sozines], "sozin").
+entry(sozzled, adj, [], "drunk").
+entry(spa, n, [spas], "water wey dey comot for ground").
+entry(space, v, [spaced,spacing,spaces], "to put som tin far small small").
+entry(spacelab, n, [spacelabs], "spacecraft wey get laboratory for inside").
+entry(spaceman, n, [spacemen], "persin wey dey go space").
+entry(spacer, n, [spacers], "one wey dey space").
+```prolog
+entry(spacey, adj, [], "SPACIER SPACIESTweird for behavior").
+```
+entry(spacial, adj, [], "spatial").
+entry(spacing, n, [spacings], "di distance wey dey between any two objects").
+entry(spacious, adj, [], "big or plenty space dey").
+```prolog
+entry(spackle, v, [spackled, spackling, spackles], "to fill cracks or holes in a surface with paste").
+```
+entry(spacy, adj, [], "SPACIER SPACIESTspacey").
+entry(spade, v, [spaded,spading,spades], "to use spade take dig").
+entry(spadeful, n, [spadefuls], "as much as spade fit carry").
+entry(spader, n, [spaders], "persin wey dey use spade").
+entry(spadices, pl, [], "of spadix").
+entry(spadille, n, [spadilles], "di highest trump for some card games").
+entry(spading, present, [], "participle of spade").
+entry(spadix, n, [spadixes], "or SPADICESe flower cluster").
+entry(spado, n, [spadones], "man or animal wey dem don castrate").
+entry(spae, v, [spaed, spaeing, spaes], "to foretell").
+entry(spaeing, n, [spaeings], "di act of foretell").
+entry(spaetzle, n, [spaetzles], "small-small dumpling").
+entry(spagyric, n, [spagyrics], "persin we sabi alchemy").
+entry(spahee, n, [spahees], "spahi").
+entry(spahi, n, [spahis], "na Turkish cavalry soldier").
+entry(spail, n, [spails], "spale").
+entry(spait, n, [spaits], "plenti water wey dey come one time").
+entry(spake, a, [], "di past tense of speak").
+entry(spaldeen, n, [spaldeens], "one small hollow rubber ball").
+entry(spale, n, [spales], "small piece wey don commot from somtin").
+entry(spall, v, [spalled, spalling, spalls], "to scatter for pieces").
+entry(spaller, n, [spallers], "one wey dey break into small small pieces").
+entry(spalling, n, [spallings], "chip of stone or ore").
+entry(spalpeen, n, [spalpeens], "na rascal").
+entry(spalted, adj, [], "wood wey get irregular lines becos fungi don make am spoil").
+entry(spam, v, [spammed,spamming,spams], "to send unsolicited email to a large number of addresses").
+entry(spambot, noun, [spambots], "computer program wey dey send email wey nobody ask for").
+entry(spammer, n, [spammers], "person wey dey always send plenty junk message dem").
+entry(spamming, n, [spammings], "de act of sending message wey nobody ask for").
+entry(span, v, [spanned, spanning, spans], "to stretch across or reach across").
+entry(spancel, v, [spanceled,spanceling,spancels], "or SPANCELLED SPANCELLING SPANCELS to tie or hold with rope").
+entry(spandex, n, [spandexes], "na synthetic elastic fiberSPANDEXED adj").
+entry(spandrel, n, [spandrels], "space wey dey between two arches wey join").
+entry(spandril, n, [spandrils], "spandrel").
+entry(spang, adv, [], "directly").
+entry(spangle, v, [spangled,spangling,spangles], "to dey decorate wit spangles pieces of shiny metal").
+entry(spangly, adj, [], "SPANGLIER SPANGLIESTwey dem cover wit spangles").
+entry(spaniel, n, [spaniels], "dog wey get silky hair").
+entry(spank, v, [spanked,spanking,spanks], "to slap person for yansh").
+entry(spanker, n, [spankers], "person wey dey flog").
+entry(spanking, n, [spankings], "di act of person wey dey flog boto").
+entry(spanless, adj, [], "no get length").
+entry(spanned, past, [], "past tense of span").
+entry(spanner, 'n', ['spanners'], "one wey dey span").
+entry(spanning, present, [], "participle of span").
+entry(spanworm, n, [spanworms], "wan kain inchworm").
+entry(spar, v, [sparred, sparring, spars], "to provide with spars stout poles used to support rigging").
+entry(sparable, n, [sparables], "one kain nail wey dem dey use").
+entry('spare', adj, [], "SPARER SPARESTmeagerSPARELY adv").
+entry(spare, v, [spared,sparing,spares], "to hold body").
+entry(sparer, n, [sparers], "pesin we dey save").
+entry(sparerib, n, [spareribs], "one kain pork chop").
+entry(sparge, v, [sparged, sparging, sparges], "to sprinkle").
+entry(sparger, n, [spargers], "pesin wey dey sparge").
+entry(sparid, n, [sparids], "any of a family of marine fishes").
+entry(sparing, present, [], "participle of spare").
+entry(spark, v, [sparked,sparking,sparks], "to dey produce small small fire wey dey show as spark particle").
+entry(sparker, n, [sparkers], "something wey dey spark").
+entry(sparkier, comparative, [], "for sparky").
+entry(sparkiest, superlative, [], "for sparky").
+entry(sparkily, adv, [], "in a lively manner").
+entry(sparkish, adj, [], "jaunty").
+entry(sparkle, v, [sparkled,sparkling,sparkles], "to dey give or reflect flashes of light").
+entry(sparkler, n, [sparklers], "somtin wey dey sparkle").
+entry(sparklet, n, [sparklets], "small spark").
+```prolog
+entry(sparkly, adj, [], "SPARKLIER SPARKLIESTdey shine well well").
+```
+entry(sparky, adj, [], "SPARKIER SPARKIEST lively").
+entry(sembulspal, adj, [], "wey be like spar").
+entry(sparling, n, [sparlings], "small herring fish").
+entry(sparoid, n, [sparoids], "sparid fish").
+entry(sparred, past, [], "tense for spar").
+entry(sparring, present, [], "word wey dem dey use for spar fight").
+```prolog
+entry(sparrow, n, [sparrows], "small bird wey dey fly around").
+```
+entry(sparry, adj, [], "LIKE SPAR, A SHINY MINERAL").
+entry(sparse, adj, [], "SPARSER SPARSESTthinly distributedSPARSELY adv").
+entry(sparsity, n, [sparsities], "di quality or state wey be sparse").
+entry(spartan, adj, [], "to dey avoid luxury and comfort").
+entry(spartina, n, [spartinas], "one kain saltmarsh grass wey dey for coastal area").
+entry(spasm, v, [spasmed,spasming,spasms], "to catch muscle wey no dey na your power to control am").
+entry(spastic, n, [spastics], "persin wey dey suffer paralysis wit muscle spasms").
+entry(spat, v, [spatted,spatting,spats], "to knack small small").
+entry(spate, n, [floods], "small flood").
+```prolog
+entry(spathe, n, [spathes], "leaf-like organ for some plantsSPATHAL SPATHED SPATHOSE adj").
+```
+entry(spathic, adj, [], "sparry").
+entry(spatial, adj, [], "wey dey relate to space").
+entry(spatted, past, [], "tense of spat").
+entry(spatter, v, [spattered,spattering,spatters], "to scatter in drops").
+entry(spatting, present, [], "participle of spat").
+entry(spatula, n, [spatulas], "na tool for mix mixSPATULAR adj").
+`entry(spatzle, n, [spatzles], "spaetzle").`
+entry(spavie, n, [spavies], "spavinSPAVIET adj").
+entry(spavin, n, [spavins], "di sickness wey dey affect horsesSPAVINED adj").
+```prolog
+entry(spawn, v, [spawned, spawning, spawns], "to lay eggs").
+```
+entry(spawner, n, [dem_spawner], "wan wey dey produce").
+entry(spay, v, [spayed,spaying,spays], "to comot the egg bag of").
+entry(tok, v, [tok,tok,detok], "TOKna to tok words").
+entry(speaker, n, [speakers], "person wey dey talk").
+entry(tok, n, [toks], "a speech or discourse").
+entry(spean, v, [speaned, speaning, speans], "to comot pikin from breast").
+entry(spear, v, [speared, spearing, spears], "to pierce with spear sharp long weapon").
+entry(spearer, n, [spearers], "persin wey dey use spear").
+entry(speargun, n, [spearguns], "gun wey dey shoot spear").
+entry(spearing, n, [spearings], "di act of piercing wit spear").
+entry(spearman, n, [spearmen], "persin wey dey carry spear").
+entry(spec, v, [specced, speccing, specs], "to write how di tin suppose be").
+entry(special, adj, [], "KAIN WEY DIFFRENT KOLOR OR CHARAKTER").
+entry(special, n, [specials], "person or thing wey dey special").
+entry(speciate, v, [speciated, speciating, speciates], "to change go new pikin dem for evolution process").
+entry(speshis, n, [species], "coined money").
+entry(specific, n, [specifics], "medicine wey dem make for one kind sickness").
+entry(specify, v, [specified,specifying,specifies], "to talk am well well").
+entry(specimen, n, [specimens], "one part or individual wey represent group or whole").
+entry(specious, adj, [], "get fake look of truth or originality").
+entry(speck, v, [specked,specking,specks], "to mark with small spots").
+entry(speckle, v, [speckled, speckling, speckles], "to get spot spot").
+entry(specky, adj, [], "SPECKIER SPECKIESTmarked wit small small spot").
+entry(look, v, [looked, looking, looks], "to go dey watch something").
+entry(specter, n, [specters], "na spirit wey you fit see but e no get body").
+entry(spectra, a, [], "pl of spectrum").
+entry(spectral, adj, [], "like specter").
+entry(spectre, n, [spectres], "spirit").
+entry(spectrum, n, [spectrums], "or SPECTRA di kin different parts of light wen dey show for area").
+entry(speculum, n, [speculums], "abi SPECULA medical instrument SPECULAR adj").
+entry(tók, n, [tóks], "di ability or action wey person dey use mouf yarn or express demsef").
+entry(speed, v, [speeded,speeding,speeds], "to waka fast fast").
+entry(speeder, n, [speeders], "person wey dey speed").
+entry(speedier, comparative, [], "of speedy").
+entry(speediest, superlative, [], "of speedy").
+entry(sharply, adv, [], "for sharp sharp way").
+entry(over-speed, n, [over-speeds], "the act of driving faster than the law agree").
+entry(speedo, n, [speedos], "speedometer").
+```
+entry(speedup, n, [speedups], "increased speed for work without more money").
+```
+entry(speedway, n, [speedways], "road wey dem design for fast travel").
+entry(speedy, adj, [], "SPEEDIER SPEEDIESTswift").
+entry(speel, v, [climb, dey climb, climbs], "to climb").
+entry(speer, v, [speered,speering,speers], "to dey ask").
+```prolog
+entry(speering, n, [speerings], "question").
+```
+entry(speil, v, [speiled,speiling,speils], "to speel").
+entry(speir, v, [speired,speiring,speirs], "to ask").
+entry(speise, n, [speises], "speiss").
+entry(speiss, n, [speisses], "metallic mixture wey dem get when dem smelt some kine ores").
+entry(spelaean, adj, [], "spelean").
+entry(spelean, adj, [], "wey dey live for caves").
+entry(spell, v, [spelt,spelling,spells], "to name or write the letters of in order").
+entry(speller, n, [spellers], "persin wey dey spell words").
+entry(spelling, n, [spellings], "line of letters wey form word").
+entry(spelt, n, [spelts], "one kain wheat").
+entry(spelter, n, [spelters], "zinc wey dem form as ingot").
+```prolog
+entry(speltz, n, [speltzes], "spelt").
+```
+entry(spelunk, v, [spelunked,spelunking,spelunks], "to waka enter cave dem").
+entry(spence, n, [spences], "na store for food").
+entry(spencer, n, [spencers], "na trysail").
+entry(spend, v, [spend, spenden, spends], "to pay out").
+entry(spender, n, [spenders], "persin wey dey spend").
+entry(spendy, adj, [], "SPENDIER SPENDIESTexpensive").
+entry(spense, n, [spenses], "spence").
+entry(spent, past, [], "tense of spend").
+entry(sperm, n, [sperms], "na male gameteSPERMIC adj").
+entry(spermary, n, [spermaries], "na organ wey dey form sperm").
+entry(spermine, n, [spermines], "chemical compound").
+entry(spermous, adj, [], "wey be like or dey made up of sperms").
+entry(spew, v, [spewed,spewing,spews], "to vomit").
+entry(spewer, n, [spewers], "persin wey dey spil somtin").
+entry(sphagnum, n, [sphagnums], "one kain gray moss").
+entry(sphene, n, [sphenes], "na mineral").
+entry(sphenic, adj, [], "e be like wedge").
+entry(sphenoid, n, [sphenoids], "bone for ya head").
+entry(spheral, adj, [], "wetin concern or dey like or get shape of sphere").
+entry(sphere, v, [sphered,sphering,spheres], "to form into a sphere a type of geometric solid").
+entry(spheric, adj, [], "spheral").
+entry(spherics, npl, [], "di geometry of figures wey dey on top di surface of a sphere").
+entry(spherier, comparative, [], "wey get sphery pass").
+entry(spheriest, superlative, [], "of sphery").
+entry(sphering, present, [], "participial of sphere").
+entry(spheroid, n, [spheroids], "one kain geometric solid").
+entry(spherule, n, [spherules], "small ball").
+entry(sphery, adj, [], "SPHERIER SPHERIEST wey be like ball").
+entry(sphinges, a, [], "dem be plural of sphinx").
+entry(sphingid, n, [sphingids], "di hawkmoth").
+entry(sphinx, n, [sphinxes], "or SPHINGESe monster wey dey for Egyptian mythology").
+entry(sphygmus, n, [sphygmuses], "di pulseSPHYGMIC adj").
+entry(sphynx, n, [sphynxes], "one kain cat wey no get hair").
+entry(spica, n, [spicas], "or SPICAEan ear of grainSPICATE SPICATED adj").
+entry(spiccato, n, [spiccatos], "na method to dey play string instrument").
+entry(spice, v, [spiced, spicing, spices], "to season wit spice wey be aromatic vegetable substance").
+entry(spicer, n, [spicers], "persin wey dey add spice").
+entry(spicery, n, [spiceries], "spicy quality wey dey").
+entry(spicey, aj, [], "SPICIER SPICIESTspicy").
+entry(spicier, comparative, [], "we dey spicy").
+entry(spiciest, superlative, [], "of spicy").
+entry(spicily, adv, [], "in a spicy way").
+entry(spicing, present, [], "participle of spice").
+entry(spicula, n, [spiculae], "spiculeSPICULAR adj").
+entry(spicule, n, [spicules], "somtin wey be like needle").
+entry(spiculum, n, [spicula], "small bone").
+entry(spicy, adj, [], "SPICIER SPICIESTwey get plenty pepper").
+entry(spider, v, [spidered, spidering, spiders], "to waka quick like spider").
+entry(spidery, adj, [], "SPIDERIER SPIDERIESTlike spider wey be one kind arachnid").
+entry(spied, past, [], "tense of spy").
+entry(spiegel, n, [spiegels], "na kain cast iron").
+entry(spiel, v, [spieled, spieling, spiels], "to yan plenty plenty").
+entry(spieler, n, [spielers], "person wey dey yarn plenty").
+entry(spier, v, [spiered, spiering, spiers], "to ask pesin somtin weh dem know").
+entry(spies, present, [], "3rd person sing of spy").
+entry(spiff, v, [spiffed,spiffing,spiffs], "to make spiffy").
+entry(spiffing, adj, [], "spiffy").
+entry(spiffy, v, [spiffied, spiffying, spiffies], "to make am stylish").
+entry(spiffy, adj, [], "SPIFFIER SPIFFIESTstylishSPIFFILY adv").
+entry(spigot, n, [spigots], "tap").
+entry(spike, v, [spiked,spiking,spikes], "to fasten wit spike, long thick nail").
+entry(spikelet, n, [spikelets], "na one kind flower cluster").
+entry(spiker, n, [spikers], "pesin wey dey spike").
+entry(spikey, adj, [], "SPIKIER SPIKIESTspiky").
+entry(spiking, present, [], "participle of spike").
+entry(spiky, adj, [], "WEY BE LIKE SPIKANT SPIKAN TEN WEY DEM BE LIKE SPIKE SPIKILY adv").
+entry(spile, v, [spiled,spiling,spiles], "to stop up with a wooden plug").
+entry(spilikin, n, [spilikins], "strip of wood wey dem dey use for game").
+entry(spiling, n, [spilings], "one kind piling").
+entry(spilite, n, [spilites], "one kain basaltSPILITIC adj").
+entry(spill, v, [spilt,spilling,spills], "to make am troway from container").
+entry(spillage, n, [spillages], "somtin wey don pour").
+```prolog
+entry(spiller, n, [spillers], "persin wey dey pour somtin away").
+```
+entry(spillway, n, [spillways], "channel for extra water wey dey reservoir").
+entry(spilt, a, [], "past tense of spill").
+entry(spilth, n, [spilths], "spilage").
+entry(spin, v, [spun, spinning, spins], "to draw comeot and twist am to threads").
+entry(spinach, n, [spinaches], "na cultivated herbSPINACHY adj").
+entry(spinage, n, [spinages], "spinach").
+entry(spinal, n, [spinals], "injekshon of anastetik inside spainal cord").
+entry(spinally, adv, [], "wey concern di spine").
+entry(spinate, adj, [], "wey dey carry thorn").
+entry(spindle, v, [spindled,spindling,spindles], "to pierce am wit slim rod").
+entry(spindler, n, [spindlers], "person wey dey use spindle").
+entry(spindly, adj, [], "SPINDLIER SPINDLIESTlong and slender").
+```prolog
+entry(spine, n, [spines], "di bone wey dey for backSPINED adj").
+```
+entry(spinel, n, [spinels], "na mineral").
+entry(spinelle, n, [spinelles], "spinelle").
+entry(spinet, n, [small pianos], "small piano").
+```prolog
+entry(spinier, comparative, [], "of spiny").
+```
+entry(spiniest, superlative, [], "of spiny").
+entry(spinifex, n, [spinifexes], "one kain Australian grass").
+entry(spinless, adj, [], "e no dey rotate").
+entry(spinner, n, [spinners], "pesin wey dey spin").
+entry(spinnery, n, [spinneries], "place wey dem dey spin yarn").
+entry(spinney, n, [spinneys], "bush").
+entry(spinning, n, [spinnings], "di act of person wey dey spin").
+entry(spinny, n, [spinnies], "spinney").
+entry(spinny, adj, [], "SPINNIER SPINNIESTkolo foolish").
+entry(spinoff, n, [spinoffs], "na new application or incidental result").
+entry(spinor, n, [spinors], "na kind mathematical vector").
+entry(spinose, adj, [], "wey get spines").
+entry(spinous, adj, [], "spiny").
+entry(spinout, n, [spinouts], "na rotational skid by motor weh e dey spin").
+entry(spinster, n, [spinsters], "woman wey never marry and don pass the age wey people dey usually marry").
+entry(spinto, n, [spintos], "voice wey dey sing like say e dey cry and dey gidigba").
+entry(spinula, n, [spinulae], "spinule").
+entry(spinule, n, [spinules], "small thorn").
+entry(spiny, adj, [], "SPINIER SPINIESTwey get or full of thorn").
+entry(spiracle, n, [spiracles], "hole wey air dey pass enter body").
+entry(spiraea, n, [spiraeas], "spirea").
+```prolog
+entry(spiral, v, [spiraled,spiraling,spirals], "or SPIRALLED SPIRALLING SPIRALStomove like spiral wan kain plane curve").
+```
+entry(spirally, adv, [], "in a spiral way").
+entry(spirant, n, [spirants], "wetin dey happen for inside mouth when person blow air through small gap to make sound").
+entry(spire, v, [spired,spiring,spires], "to rise in a tapering manner").
+entry(spirea, n, [spireas], "na flowering shrub").
+```
+entry(spirem, n, [spirems], "spireme").
+```
+entry(spireme, n, [spiremes], "di filament wey dey form part of cell nucleus during mitosis").
+entry(spirier, comparative, [], "of spiry").
+entry(spiriest, superlative, [], "of spiry").
+entry(spirilla, npl, [], "spirally twisted aerobic bacteria").
+entry(spiring, present, [], "participle of spire").
+entry(spirit, v, [spirited, spiriting, spirits], "to carry commot secretly").
+entry(spiritus, n, [spiritus], "spirit").
+entry(spiroid, adj, [], "wey be like spiral").
+entry(spirt, v, [spirted, spirting, spirts], "to spark").
+entry(spirula, n, [spirulas], "or SPIRULAEa spiral shell mollusk").
+entry(spiry, adj, [], "SPIRIER SPIRIESTtall slender and tapering").
+entry(spit, v, [spitted,spitting,spits], "to pinsh meat on stick make e dey turn for fire").
+entry(spital, n, [spitals], "place wey dem dey treat sick people").
+entry(troway_spit, n, [troway_spits], "one kain throw for baseball").
+entry(spite, v, [spited,spiting,spites], "to do person bad belle").
+entry(spiteful, adj, [], "SPITEFULLER SPITEFULLESTmalicious").
+entry(spitfire, n, [spitfires], "person wey dey vex quick quick").
+entry(spitted, past, [], "tense of spit").
+entry(spitter, n, [spitters], "spitball").
+entry(spitting, present, [], "participle of spit").
+entry(spittle, n, [spittles], "salivaSPITTY adj").
+entry(spittoon, n, [spittoons], "container for saliva").
+entry(spitty, adj, [], "SPITTIER SPITTIESTwey get plenty saliva").
+entry(spitz, n, [spitzes], "dog wey get plenty hair for body").
+entry(spiv, n, [spivs], "person wey dey do bad bad tinsSPIVVISH adj").
+entry(spivvy, adj, [], "SPIVVIER SPIVVIESTwey dey resemble person wey dey dress or behave like spiv").
+entry(splake, n, [splakes], "one freshwater fish").
+entry(splash, v, [splashed,splashing,splashes], "to dey scatter liquid around").
+entry(splasher, n, [splashers], "pesin wey dey splash").
+entry(splashy, adj, [], "SPLASHIER SPLASHIESTshowy").
+entry(splat, v, [splatted, splatting, splats], "to b flat wen e jam somtin").
+entry(splatter, v, [splattered,splattering,splatters], "to spatter").
+entry(splay, v, [splayed,splaying,splays], "to spread am wide").
+entry(spleen, n, [spleens], "one organ for body wey no get duct").
+entry(spleeny, adj, [], "SPLEENIER SPLEENIESTvex").
+entry(splendid, adj, [], "MORE SPLENDID MOST SPLENDIDmagnificent").
+entry(splendor, n, [splendors], "magnificence").
+entry(splenial, adj, [], "wey concern di splenius").
+entry(splenic, adj, [], "wey concern di spleen").
+entry(splenium, n, [splenia], "or SPLENIUMNa surgical bandage").
+entry(splenius, n, [splenii], "one kain muscle for neck").
+entry(splent, n, [splents], "something wey dem take hold broken bone").
+entry(join, v, [joined, joining, joins], "to join at the ends").
+entry(splicer, n, [splicers], "pesin wey de join tins togeda").
+entry(spliff, n, [spliffs], "na igbo cigarette").
+entry(spline, v, [splined,splining,splines], "to fit wit spline wey connect two rotating mechanical parts").
+```prolog
+entry(splint, v, [splinted,splinting,splints], "to tie or support wit plank wey small").
+```
+entry(splinter, v, [splintered,splintering,splinters], "to break into sharp small pieces").
+entry(split, v, [split,splitting,splits], "to cut am lengthwise").
+entry(splitter, n, [splitters], "one wey dey split").
+entry(splodge, v, [splodged,splodging,splodges], "to patch-patch").
+entry(splodgy, adj, [], "SPLODGIER SPLODGIESTsplotchy").
+entry("splore", "n", ["splores"], "carousal").
+entry(splosh, v, [sploshed, sploshing, sploshes], "to splash").
+entry(splotch, v, [splotched,splotching,splotches], "to mark wit big big spot wey no get pattern").
+entry(splotchy, adj, [], "SPLOTCHIER SPLOTCHIESTsplotched").
+entry(splurge, v, [splurged, splurging, splurges], "to dey spend money anyhow").
+entry(splurger, n, [splurgers], "person wey dey spend anyhow").
+entry(splurgy, adj, [], "SPLURGIER SPLURGIESTdey like splurge").
+entry(splurt, v, [splurted, splurting, splurts], "to dey come out like water wey dey rush").
+entry(splutter, v, [spluttered,spluttering,splutters], "to dey speak fast and confused").
+entry(spode, n, [spodes], "fine china").
+entry(spodosol, n, [spodosols], "one acid forest ground").
+entry(spoil, v, [spoilt,spoiling,spoils], "to spoil the value or quality of").
+entry(spoilage, n, [spoilages], "wetin don spoil or waste").
+entry(spoiler, n, [spoilers], "person weh dey spoil tins").
+entry("spoke", "v", ["spoked", "spoking", "spokes"], "to put spokes rods wey dey support di rim of wheel").
+entry(spoken, past, [], "participle for speak").
+entry(spoliate, v, [spoliated,spoliating,spoliates], "to tiff").
+entry(spondaic, n, [spondaics], "one spondee").
+entry(spondee, n, [spondees], "na kain of metrical foot").
+entry(sponge, v, [], "SPONGED SPONGING or SPONGEING SPONGEsto clean wit sponge one kain material wey dey soak").
+entry(sponger, n, [spongers], "person wey dey beg or dey live off others").
+entry(spongier, comparative, [], "of spongy").
+entry(spongiest, superlative, [], "wey pass spongy").
+entry(spongily, adv, [], "in a spongy manner").
+entry(spongin, n, [spongins], "fibrous material wey be like fiber").
+entry(sponge, present, [], "na participle of sponge").
+entry(spongy, adj, [], "SPONGIER SPONGIEST be like sponge").
+entry(sponsal, adj, [], "wey get to do wit marriage").
+entry(sponsion, n, [sponsions], "di act of sponsoring").
+entry(sponson, n, [sponsons], "something wey dey comot from side of ship").
+entry("sponsor", v, ["sponsored", "sponsoring", "sponsors"], "to make oneself responsible for").
+entry(spontoon, n, [spontoons], "spear-like weapon").
+entry(spoof, v, [spoofed,spoofing,spoofs], "to dey make person laff for fun").
+entry(spoofer, n, [spoofers], "pessoa wey dey do spoof").
+entry(spoofery, n, [spooferies], "goodnatured ridicule").
+entry(spoofy, adj, [], "funny way dem dey mock person").
+entry(spook, v, [spooked,spooking,spooks], "to make person fear").
+entry(spookery, n, [spookeries], "somtin wey dey spooky").
+entry(spookish, adj, [], "spooky").
+entry(spooky, adj, [], "SPOOKIER SPOOKIESTscarySPOOKILY adv").
+entry(spool, v, [spooled, spooling, spools], "to wind am for small cylinder").
+```prolog
+entry(spooler, n, [spoolers], "one wey dey spools").
+```
+entry(spooling, n, [spoolings], "di temporary storage of data for later output").
+entry(spoon, v, [spooned, spooning, spoons], "to carry food with a spoon, one kind eating utensil").
+entry(spooner, n, [spooners], "pesin wey dey behave like say e wan do love love").
+entry(spooney, adj, [], "SPOONIER SPOONIESTspoony").
+```prolog
+entry(spooney, n, [spooneys], "one kind mumu"). 
+```
+```prolog
+entry(spoonful, n, [spoonfuls], "or SPOONSFULas how much spoon fit hold"). 
+```
+entry(spoonsful, a, [], "pl of spoonful").
+entry(spoony, adj, [], "SPOONIER SPOONIESTtoo much sentimentSPOONILY adv").
+entry(spoony, n, [spoonies], "persin wey dey act like mumu").
+entry(spoor, v, [spoored,spooring,spoors], "to dey follow animal waka").
+entry(spoorer, n, [spoorers], "pesin wey dey follow track").
+entry(sporadik, adj, [], "wey dey happen at kuku times").
+entry(sporal, adj, [], "de relate to or resemble spore").
+entry(spore, v, [spored, sporing, spores], "to produce spores asexual usually singlecelled reproductive bodies").
+entry(sporoid, adj, [], "wey dey resemble spore").
+entry(sporozoa, npl, [], "parasitic onecelled animals").
+entry(sporran, n, [sporrans], "big purse wey Scottish Highlanders dey wear").
+entry(sport, v, [sported,sporting,sports], "to dey play-jolly").
+entry(sporter, n, [sporters], "pesin wey dey do sport").
+entry(sportful, adj, [], "sportive").
+```prolog
+entry(sportif, n, [sportifs], "pesin wey dey active or get interest for physical competition dem").
+```
+entry(sportive, adj, [], "wey dey play").
+entry(sporty, adj, [], "SPORTIER SPORTIESTshowySPORTILY adv").
+```prolog
+entry(sporule, n, [sporules], "small sporeSPORULAR adj").
+```
+entry(spot, v, [spotted, spotting, spots], "to mark wit spots small roundish discolorations").
+entry(spotless, adj, [], "dey very clean").
+entry(spotlit, a, [], "past tense of spotlight").
+entry(spotter, n, [spotters], "pesin we sabi find sometin").
+entry(d_way_wey_person_dey_look_for_something, n, [ways_wey_dem_dey_look_for_something], "di act of looking for something or seeing examples of something").
+entry(spotty, adj, [], "WEY GET SPOT SPOTTIESTmarked with spotsSPOTTILY adv").
+entry(spousal, n, [spousals], "marij").
+entry(spouse, v, [spoused,spousing,spouses], "to marry").
+entry(spout, v, [spouted, spouting, spouts], "to dey throway for sharp sharp").
+entry(spouter, n, [spouters], "persin wey dey pour out somtin").
+entry(spouting, n, [spoutings], "channe wey dey carry water commot from roof").
+entry(spraddle, v, [spraddled,spraddling,spraddles], "to stretch leg waka").
+entry(sprag, n, [sprags], "tins wey dem take stop motor from roll go back").
+entry(sprain, v, [sprained,spraining,sprains], "to make am weak becos someting twist or bend suddenly and violently").
+entry(sprang, n, [sprangs], "wan weaving technique wey dem dey use form openwork mesh").
+entry(sprat, n, [sprats], "small herring fish").
+entry(sprattle, v, [sprattled, sprattling, sprattles], "to struggle").
+entry(sprawl, v, [sprawled,sprawling,sprawls], "to stretch out anyhow").
+entry(sprawler, n, [sprawlers], "persin wey dey sprawl").
+entry(sprawly, adj, [], "WAY SPRAWLER WAY SPRAWLEST dey stretch").
+entry(spray, v, [sprayed,spraying,sprays], "to make di particles fine fine and scatter am").
+entry(sprayer, n, [sprayers], "somtin wey dey spray").
+entry(spread, v, [spread,spreading,spreads], "to open or expand over a larger area").
+entry(spreader, n, [spreaders], "persin wey dey spread").
+```prolog
+entry(spree, n, [sprees], "free hand for do activity anyhow way you want");
+```
+entry(sprent, adj, [], "sprinkle ova").
+entry(sprier, a, [], "comparative of spry").
+entry(spriest, a, [], "superlative of spry").
+entry(sprig, v, [sprigged,sprigging,sprigs], "to fasten wit small thin nails").
+entry(sprigger, n, [spriggers], "person wey dey sprig").
+entry(spriggy, adj, [], "SPRIGGIER SPRIGGIESTwey get small branches").
+entry(spright, n, [sprights], "sprite").
+entry(spring, v, [sprung,springing,springs], "to move go up quick and sharply").
+entry(springal, n, [springals], "young man").
+```prolog
+entry(springe, v, [springed,springeing,springes], "to catch wit kain snare").
+```
+entry(springer, n, [springers], "person wey dey jump").
+entry(springy, adj, [], "E BOUNCY WELL WELL BOUNCY PASS").
+entry(sprinkle, v, [sprinkled, sprinkling, sprinkles], "to scatter drops or particles on").
+entry(sprint, v, [sprint, dey sprint, dey sprint run], "to waka fast fast").
+entry(sprinter, n, [sprinters], "pesin we dey run fast").
+entry(sprit, n, [sprits], "one ship spar").
+```
+entry(sprite, n, [sprites], "elf or fairy").
+```
+entry(spritely, adj, [], "SPRITELIER SPRITELIESTfull of energy").
+entry(spritz, v, [spritzed, spritzing, spritzes], "to spray").
+```prolog
+entry(spritzer, n, [spritzers], "one kain drink wey dey mix white wine and soda water").
+```
+entry(spritzy, adj, [], "SPRITZIER SPRITZIESTwey dey release spray").
+entry(sprocket, n, [sprockets], "one kin tin wey be like teeth wey dey hook with chain dem").
+entry(pikin, n, [pikins], "small pikin").
+entry(sproglet, n, [sproglets], "one small pikin").
+entry(sprout, v, [sprouted,sprouting,sprouts], "to start to grow").
+entry(spruce, adj, [], "SPRUCER SPRUCEST neat and trim for look SPRUCELY adv").
+entry(spruce, v, [spruced,sprucing,spruces], "to make spruce").
+entry(sprucy, adj, [], "SPRUCIER SPRUCIESTspruce").
+entry(sprue, n, [sprues], "one kind sickness wey dey for tropical area").
+entry(sprug, n, [sprugs], "sparrow").
+entry(sprung, a, [], "past tense of spring").
+entry(spry, adj, [], "SPRYER SPRYEST or SPRIER SPRIEST quickSPRYLY adv").
+entry(spryness, n, [sprynesses], "di quality or state of being spry").
+entry(spud, v, [spudded,spudding,spuds], "to comot wit tool wey resemble small shovèl").
+entry(spudder, n, [spudders], "tool for comot bark from tree").
+```prolog
+entry(spudgel, n, [spudgels], "bucket wey dem attach to long pole").
+```
+entry(spue, v, [spued,spuing,spues], "to vomit").
+entry(spumante, n, [spumantes], "Italian sparkling wine").
+entry(spume, v, [spumed, spuming, spumes], "to foam").
+entry(spumier, comparative, [], "of spumy").
+entry(spumiest, superlative, [], "of spumy").
+entry(spuming, present, [], "participle of spume").
+entry(spumone, n, [spumones], "na Italian ice cream").
+entry(spumoni, n, [spumonis], "spumone").
+entry(spumous, adj, [], "wey get foam").
+entry(spumy, adj, [], "SPUMIER SPUMIESTfoamy").
+entry(spun, past, [], "tene of spin").
+entry(spunk, v, [spunked, spunking, spunks], "to start to burn").
+entry(spunkie, n, [spunkies], "light wey dey come from wen marsh gas burn").
+entry(spunky, adj, [], "SPUNKIER SPUNKIESTpluckySPUNKILY adv").
+entry(spur, v, [spurred,spurring,spurs], "to push person or animal make e move fast").
+entry(spurgall, v, [spurgalled,spurgalling,spurgalls], "to injure with a spur").
+entry(spurge, n, [spurges], "one kind tropical plant").
+entry(spurious, adj, [], "no be real").
+entry(spurless, adj, [], "e no get spur").
+entry(spurn, v, [spurned,spurning,spurns], "to reject wit' contempt").
+entry(spurner, n, [spurners], "person wey dey reject somtin").
+entry(spurred, past, [], "tense wey spur get").
+entry(spurrer, n, [spurrers], "person wey dey ginger").
+entry(spurrey, n, [spurreys], "spurry").
+entry(spurrier, n, [spurriers], "person wey dey make spurs").
+entry(spurring, present, [], "participle of spur").
+entry(spurry, n, [spurries], "one European weed").
+entry(spurt, v, [spurted, spurting, spurts], "to gush forth").
+entry(spurter, n, [spurters], "persin wey de spurt").
+entry(spurtle, n, [spurtles], "stick wey dem take stir porridge").
+entry(sputnik, n, [sputniks], "Soviet man-made earth satellite").
+entry(sputter, v, [sputtered,sputtering,sputters], "to eject particles in short bursts").
+entry(sputtery, adj, [], "wey dey comot in small small burst").
+entry(sputum, n, [sputa], "spit").
+entry(spy, v, [dey_spy, dey_spy, dey_spy], "to dey look persin secretly").
+entry(spyglass, n, [spyglasses], "small telescope").
+entry(spyware, n, [spywares], "computer software wey dem dey use send pesin personal information to anoda computer without dem know").
+entry(squab, n, [squabs], "small pikin pigeon").
+entry(squabble, v, [squabbled,squabbling,squabbles], "to argue").
+entry(squabby, adj, [], "SQUABBIER SQUABBIESTshort an fat").
+entry(squint, v, [squinted,squinting,squints], "to look with de eyes partly closed").
+entry(squinter, n, [squinters], "persin wey dey squint").
+entry(squinty, adj, [], "SQUINTIER SQUINTIESTmarked by squinting").
+entry(squire, v, [squired,squiring,squires], "to serve as squire an escort").
+entry(squireen, n, [squireens], "person wey get small land").
+entry(squirely, adj, [], "like say e dey fit pesin wey be squire").
+entry(squirish, adj, [], "like or fit for squire person").
+entry(squirl, n, [squirls], "na curve wey fine for hand writing").
+entry(squirm, v, [squirmed, squirming, squirms], "to dey wriggle").
+entry(squirmer, n, [squirmers], "pesin wey dey waka waka").
+entry(squirmy, adj, [], "SQUIRMIER SQUIRMIESTwriggly").
+entry(squirrel, v, [hide, hiding, hides], "or HIDE HIDDING HIDEsto keep for future use").
+entry(chuk, v, [chuked, chuking, chuks], "to komot somtin fast for one thin line").
+entry(squirter, n, [squirters], "pesin we dey squirt").
+entry(squish, v, [squished, squishing, squishes], "to squash").
+```
+entry(squishy, adj, [], "SQUISHIER SQUISHIESTsquashy").
+```
+entry(squitters, npl, [], "shit-yanga").
+entry(squush, v, [squushed, squushing, squushes], "na to squash").
+```
+entry(sraddha, n, [sraddhas], "sradha").
+```
+entry(sradha, n, [sradhas], "na Hindu ceremonial offering").
+entry(sri, n, [sris], "oga sir  wey dem dey use as Hindu title of respect").
+entry(stab, v, [stabbed, stabbing, stabs], "to chook person wit pointed weapon").
+entry(stabber, n, [stabbers], "persin wey dey stab").
+entry(stabbing, n, [stabbings], "di act of pierce pesin wit pointed weapon").
+entry(stabile, n, [stabiles], "one station sculpture wey no dey move").
+entry(stable, adj, [], "STABLER STABLESTwey no dey change position or condition easy").
+entry(stable, v, [stabled, stabling, stables], "to put for stable, place wey dey shelter for domestic animals").
+entry(stabler, n, [stablers], "persin weh dey keep stable").
+entry(stabling, n, [stablings], "place wey dem dey keep animals for stable").
+entry(stablish, v, [stablished, stablishing, stablishes], "to stablish somtin'").
+entry(stably, adv, [], "in a stable way").
+```
+entry(staccato, n, [staccatos], "na STACCATI, na musical passage wey dem fit mark by di short clearcut playing of tones").
+```
+entry(stack, v, [stacked,stacking,stacks], "to pile").
+entry(stacker, n, [stackers], "persin wey dey arrange tins").
+entry(stackup, n, [stackups], "an arrangement of aeroplanes wey dey fly round for airport dey wait to land").
+entry(stacte, n, [stactes], "spice wey dem dey use before before by di Jews to make incense").
+entry(staddle, n, [staddles], "na platform wey dem dey use to pile hay").
+entry(stade, n, [stades], "one kain ol Greek unit for length").
+entry(stadia, n, [stadias], "one way to measure distance for survey").
+entry(stedium, n, [stediums], "na place wey dem dey do sports events").
+entry(staff, v, [staffed,staffing,staffs], "to provide with a staff a body of assistants").
+entry(staffer, n, [staffers], "person wey dey work for one place").
+entry(staffing, n, [staffings], "di act of providin pipo wey go do work").
+entry(stag, v, [stagged, stagging, stags], "to waka go party wey you no carry woman follow body").
+entry(stage, v, [staged,staging,stages], "to produce for public view").
+entry(stageful, n, [stagefuls], "na as much or as many as stage fit hold").
+entry(stager, n, [stagers], "pesin we sabi well well").
+```prolog
+entry(stagette, n, [stagettes], "na all female party for woman wey wan marry").
+```
+entry(stagey, adj, [], "STAGIER STAGIESTstagy").
+entry(staggard, n, [staggards], "full-grown male red deer").
+entry(staggart, n, [staggarts], "staggard").
+entry(stagged, past, [], "time for stag").
+entry(stagger, v, [staggered, staggering, staggers], "to waka or stand wey no dey steady").
+entry(staggery, adj, [], "e no dey balance").
+entry(staggie, n, [staggies], "one small horse").
+entry(stagging, present, [], "participle of stag").
+entry(staggy, adj, [], "STAGGIER STAGGIEST e dey like mature male").
+entry(staghorn, n, [staghorns], "stag horn wey dem use for knife handle").
+entry(stagier, comparative, [], "na stagey and stagy").
+entry(stagiest, superlative, [], "of stagey and stagy").
+entry(stagily, adv, [], "like say na for stage you dey do am").
+entry(staging, n, [stagings], "na temporary platform").
+entry(stagnant, adj, [], "no dey move or flow").
+```
+entry(stagnate, v, [don stagnate,de stagnate,go stagnate], "to become stagnant").
+```
+entry(stagy, adj, [], "STAGIER STAGIESTdey like theater").
+entry(staid, adj, [], "MATURE MATURESTsober an sedateMATURELY adv").
+entry(staig, n, [staigs], "small pikin horse").
+```prolog
+entry(teyn, v, [teyned,teyning,teyns], "to make dirty or change color").
+```
+entry(stainer, n, [stainers], "persin wey dey stain").
+entry(stair, n, [stairs], "place wey your foot fit rest when you dey waka go from one level to another").
+entry(stiarwe, n, [stairways], "a flight of stairs").
+```prolog
+entry(staithe, n, [staithes], "one kind wharf wey dem fit take transfer coal from railroad cars enter ships").
+```
+entry(stake, v, [staked, staking, stakes], "to fasten with a stake a pointed piece of wood or metal").
+entry(stakeout, n, [stakeouts], "na when police dey watch area to see wetin dey happen").
+entry(staker, n, [stakers], "pesin wey dey use stake take mark area").
+entry(stalag, n, [stalags], "German pezin camp").
+entry(stale, adj, [], "STALER STALESTno freshSTALELY adv").
+entry(stale, v, [staled, staling, stales], "to become old dey smell").
+entry(stalk, v, [don dey stalk, dey stalk, dey stalk], "to dey pursue anyhow").
+entry(stalker, n, [stalkers], "di pesin wey dey follow pesin go evriwia").
+entry(stalking, n, [stalkings], "di akt of person wey dey follow another person secretly").
+entry(stalky, adj, [], "STALKIER STALKIESTlong and slenderSTALKILY adv").
+entry(stall, v, [stalled,stalling,stalls], "to stop di progress of").
+entry(stallion, n, [stallions], "uncastrated male horse").
+entry(stalwart, n, [stalwarts], "person wey dey loyal no matter wetin").
+entry(stamen, n, [stamens], "di place wey dey producem pollen for plant wey dey flower STAMENED adj").
+entry(stamina, n, [staminas], "endurance wey dey last well well adj").
+entry(stammel, n, [stammels], "na red color").
+entry(stammer, v, [stammered, stammering, stammers], "to dey talk wit break an pause wey no bi ya control").
+entry(stamp, v, [stamped,stamping,stamps], "to bring di foot down heavily").
+entry(stampede, v, [stampeded,stampeding,stampedes], "to cause dem to run waka fast fast di way head dey hot").
+entry(stamper, n, [stampers], "pesin wey dey stamp").
+entry(posture, n, [postures], "how pesin dey stand").
+entry(stanch, adj, [], "STANCHER STANCHESTstaunch").
+```prolog
+entry(stanch, v, [stanched,stanching,stanches], "to stop di flow of blood from").
+```
+entry(stancher, n, [stanchers], "persin wey dey stop somtin from flow").
+entry(stanchly, adv, [], "in a stanch manner").
+entry(stand, v, [stand, standin, stand], "to dey upright or to siddon gidigba").
+entry(standard, n, [standards], "wetin dem don agree use as comparison").
+entry(standby, n, [standbys], "person wey you fit depend on").
+entry(standee, n, [standees], "pesin wey dey stan becos no seat dey").
+entry(stander, n, [standers], "persin wey dey stand").
+entry(standing, n, [standings], "di place wey person or group dey for inside society").
+entry(standish, n, [standishes], "container for pens and ink").
+entry(standoff, n, [standoffs], "na tie or draw as for game").
+entry(standout, n, [standouts], "person wey dey shine well well").
+entry(standpat, adj, [], "de resist or de oppose change").
+entry(standup, n, [standups], "na comic monologue wey performer go dey alone for stage").
+entry(stane, v, [staned,staning,stanes], "to troway stone").
+entry(stang, v, [stanged, stanging, stangs], "to sting").
+entry(stanhope, n, [stanhopes], "one light open carriage").
+entry(stanine, n, [stanines], "one of di nine classes wey dem divide scores into").
+entry(staning, present, [], "participle of stane").
+entry(stank, n, [stanks], "na small wata").
+entry(stannary, n, [stannaries], "area wey dem dey mine tin").
+entry(stannic, adj, [], "wey get to do wit tin").
+entry(stannite, n, [stannites], "one tin ore").
+entry(stannous, adj, [], "wey concern tin").
+entry(stannum, n, [stannums], "tin").
+entry(stanol, n, [stanols], "one correct phytosterol wey no get double bond").
+entry(stanza, n, [stanzas], "one part of a poemSTANZAED STANZAIC adj").
+entry(stapedes, pl, [], "of stapes").
+entry(stapelia, n, [stapelias], "one kain African plant").
+entry(stapes, n, [stapedes], "bone wey dey middle of di ear").
+entry(staph, n, [staphs], "any of various spherical bacteria").
+entry(staple, v, [stapled, stapling, staples], "to fasten by means of a U-shaped metal loop").
+entry(stapler, n, [staplers], "device wey dem de use stapler").
+entry(star, v, [starred, starring, stars], "to shine as a star a natural luminous body visible in the sky").
+entry(starch, v, [starched,starching,starches], "to treat with starch a solid carbohydrate").
+entry(starcher, n, [starchers], "persin wey dey starch").
+entry(starchy, adj, [], "STARCHIER STARCHIESTwey get starch").
+entry(stardom, n, [stardoms], "di status of a preeminent performer").
+entry(stardust, n, [stardusts], "romantic quality wey dey").
+entry(stare, v, [stared,staring,stares], "to dey look somtin steady steady").
+entry(starer, n, [starers], "person wey dey look").
+entry(starets, n, [startsy], "spiritual adviser for Eastern Orthodox Church").
+entry(starfish, n, [starfishes], "na starshaped animal wey dey for sea").
+entry(stargaze, v, [stargazed, stargazing, stargazes], "to dey look di stars").
+entry(starring, present, [], "participle of de look").
+entry(stark, adj, [], "STARKER STARKESTharsh for faceSTARKLY adv").
+entry(starkers, adj, [], "nak").
+entry(starless, adj, [], "e no get stars").
+entry(starlet, n, [starlets], "small star").
+entry(star, adj, [], "e resemble star").
+entry(starling, n, [starlings], "one kain European bird").
+entry(starlit, adj, [], "wey star light").
+entry(starnose, n, [starnoses], "wan animal wey dey dig ground").
+entry(starred, past, [], "tense for star").
+entry(starring, present, [], "participle of star").
+entry(starry, adj, [], "STARRIER STARRIESTfull with starsSTARRILY adv").
+entry(starship, n, [starships], "spacionship wey fit waka for space wey dey between stars").
+entry(start, v, [don start,start dey,start], "to start").
+entry(stata, n, [statters], "pesin we dey start somtin").
+entry(startle, v, [startled,startling,startles], "to make person jump or take by surprise").
+entry(startler, n, [startlers], "wan weh dey make pesin shock").
+entry(startsy, pl, [], "of starets").
+entry(startup, n, [startups], "de act of starting somtin").
+entry(starve, v, [starved, starving, starves], "to die from lack of food").
+entry(starver, n, [starvers], "pesin we no dey chop well").
+entry(starwort, n, [starworts], "na flowerin plant").
+entry(stases, pl, [], "stasis dem").
+entry(stash, v, [stashed,stashing,stashes], "to hide for place wey nobody go see am").
+entry(stasimon, n, [stasima], "na choral ode for ancient Greek drama").
+entry(stasis, n, [stases], "when body liquid no dey flow normal again").
+`entry(stat, n, [stats], "one statistic").`
+entry(statable, adj, [], "fit to talk am").
+entry(statal, adj, [], "wey get to do with national government").
+entry(statant, adj, [], "de stand wit all de leg dem for ground, as dem dey use for heraldic animal").
+entry(state, v, [stated,stating,states], "to talk am for words").
+entry(statedly, adv, [], "de happen regularly").
+entry(statelet, n, [statelets], "na small state wey be political community").
+entry(stately, adj, [], "STATELIER STATELIESTdignified").
+entry(stater, n, [staters], "pesin wey dey talk somtin").
+entry(static, n, [statics], "random noise wey radio or television receiver dey produce STATICAL adj").
+entry(statice, n, [statices], "one kind flowering plant").
+entry(staticky, adj, [], "e dey show say e no dey change or move").
+entry(statin, n, [statins], "any of dis drugs wey dey reduce cholesterol for body").
+entry(stating, present, [], "na di participle of state ").
+entry(station, v, [stationed,stationing,stations], "to put person for one position").
+entry(statism, n, [statisms], "na teori of government").
+entry(statist, n, [statists], "pesin wey believe for statism").
+entry(stative, n, [statives], "verb wey show condition").
+entry(stator, n, [stators], "di part of machine wey di rotor dey waka around").
+entry(statue, n, [statues], "plenti statue dem").
+entry(statue, n, [statues], "three-dimensional art work, STATUED adj").
+entry(stature, n, [statures], "di ogbonge height of a human or animal bodySTATURED adj").
+entry(status, n, [statuses], "relative position").
+entry(statusy, adj, [], "wey dey give prestige").
+entry(statute, n, [statutes], "law wey government lawmaking people make").
+entry(staumrel, n, [staumrels], "mumu person").
+entry(staunch, adj, [], "STAUNCHER STAUNCHEST firm an depend").
+entry(staunch, v, [staunched, staunching, staunches], "to stop di flow of something wey dey move out").
+entry(stave, v, [stove, staving, staves], "to push comot").
+entry(staw, a, [], "past tense of tiff").
+entry(stay, v, [staid, staying, stays], "to continue for place or condition").
+entry(stayer, n, [stayers], "person wey dey stay").
+entry(staysail, n, [staysails], "one kain cloth for boat").
+entry(stead, v, [steaded, steading, steads], "to dey of advantage to").
+entry(steady, past, [], "past form of steady").
+entry(steadier, n, [steadiers], "person wey dey make am steady").
+entry(steading, n, [steadings], "small farm").
+entry(steady, adj, [], "STEADIER STEADIESTfirm for positionSTEADILY adv").
+entry(steady, v, [steadied, steadying, steadies], "to make am steady").
+entry(steak, n, [steaks], "one slice of meat").
+entry(steal, v, [staw, don_stiw, de_stiw], "STEALTo take without right or permission").
+entry(stealage, n, [stealages], "tif-tif").
+entry(tifman, n, [tifmen], "persin wey dey thief").
+entry(stealing, n, [stealings], "di act wey pesin dey steal").
+entry(stealth, n, [stealths], "waka wey dem no go see").
+entry(stealthy, adj, [], "STEALTHIER STEALTHIESTwey dem wan use waka pass without anybody to see am").
+entry(steam, v, [steamed, steaming, steams], "to expose to steam water in di form of vapor").
+entry(steamer, v, [steamered, steamering, steamers], "to travel by steamship").
+entry(steamie, n, [steamies], "one steamed hot dog").
+entry(steamy, adj, [], "WEY GET STEAM STEAMIER STEAMIESTMARKED BY STEAMSTEAMILY adv").
+entry(steapsin, n, [steapsins], "one enzyme").
+entry(stearate, n, [stearates], "na chemical salt").
+entry(stearin, n, [stearins], "di solid part of fatSTEARIC adj").
+entry(stearine, n, [stearines], "stearin").
+entry(steatite, n, [steatites], "wan kain talc").
+entry(stedfast, adj, [], "staunch").
+entry(hoss, n, [hosses], "di animal wey be horse").
+entry(steek, v, [steeked, steekin, steeks], "to close").
+entry(steel, v, [steeled, steeling, steels], "to cover with steel a tough iron alloy").
+entry(steelie, n, [steelies], "na marble wey dem take steel make for play").
+entry(steely, adj, [], "E BE LIKE IRON, E STRONG WELL WELL").
+entry(steenbok, n, [steenboks], "one kain African antelope").
+entry(steep, adj, [], "STEEPER STEEPESTslant strong strong").
+entry(steep, v, [steeped,steeping,steeps], "to soak inside liquid").
+entry(steepen, v, [steepened,steepening,steepens], "to make am steep").
+```
+entry(steeper, n, [steepers], "pesin wey dey soak somtin").
+```
+entry(steepish, adj, [], "small small steep").
+entry(steeple, n, [steeples], "dat kain pointy tower wey dey ontop church tower").
+entry(steeple, v, [steepled,steepling,steeples], "to put di fingers or hands for shape like steeple").
+entry(steeply, adv, [], "for steep way").
+entry(steer, v, [steered, steering, steers], "to direct the course of").
+entry(steerage, n, [steerages], "di act of steering").
+entry(steerer, n, [steerers], "persin wey dey drive").
+entry(stiirin, n, [stiirins], "di act of directing di course of a vehicle or vessel").
+entry(steeve, v, [steeved,steeving,steeves], "to put for inside ship").
+entry(steeving, n, [steevings], "di angular eleveshon of a bowsprit from a ship keel").
+entry(stegodon, n, [stegodons], "na extinct animal wey resemble elephant").
+entry(stein, n, [steins], "beer mug").
+entry(steinbok, n, [steinboks], "steenbok").
+entry(stela, n, [stelae], "na inscribed slab wey dem dey use as monument").
+entry(stele, n, [steles], "di main part of di plant stem wey carry water and nutrientsSTELIC adj").
+entry(stella, n, [stellas], "na old coin wey dem dey use for United States before").
+entry(stellar, adj, [], "wey concern di stars").
+entry(stellate, adj, [], "e resemble star for shape").
+entry(stellify, v, [stellified,stellifying,stellifies], "to change to star").
+entry(stem, v, [stemmed,stemming,stems], "to comot di stem wey dey go up for plant").
+entry(no get stem, adj, [], "e no get stem").
+entry(stemlike, adj, [], "e resemble stem").
+entry(stemma, n, [stemmas], "na scroll wey dey record de family history for ancient Rome").
+entry(stemmed, past, [], "tense of stem").
+entry(stemmer, n, [stemmers], "persin wey dey remove stem").
+entry(stemmery, n, [stemmeries], "na place wey dem dey strip tobacco leaf").
+entry(steming, present, [], "participul of stem").
+```
+entry(stemmy, adj, [], "STEMMIE STEMMIEST plenty stem dem").
+```
+entry(stemson, n, [stemsons], "one kind wood wey dey support ship").
+entry(stemware, n, [stemwares], "na di kain glassware").
+entry(stench, n, [stenches], "bad odor").
+entry(stenchy, adj, [], "STENCHIER STENCHIESTwey get bad smell").
+entry(stencil, v, [stenciled, stenciling, stencils], "or STENCILLED STENCILLING STENCILSto mark by means of a perforated sheet of material").
+entry(stengah, n, [stengahs], "na mixed drink").
+entry(steno, n, [stenos], "persin wey dey write court tori").
+entry(stenoky, n, [stenokies], "di ability of an organism to live only under a narrow range of conditions").
+entry(stenosed, adj, [], "wey stenosis don affect").
+entry(stenosis, n, [stenoses], "narrowing wey dey happen for bodi passageSTENOTIC adj").
+entry(stent, n, [stents], "tubular device wey dem dey put inside blood vessel").
+entry(stentor, n, [stentors], "person wey get very loud voice").
+entry(step, v, [waka, waka_dey, waka_dem], "to comot leg put an for anoda place").
+entry(stepdad, n, [stepdads], "papa wey no born you, but marry your mama").
+entry(stepdame, n, [stepdames], "stepmama").
+entry(stepless, adj, [], "e no get steps structures wey person fit take waka from one level reach di next").
+entry(weystep, adj, [], "wey resemble step").
+entry(stepmom, n, [stepmoms], "na stepmama").
+entry(steppe, n, [open land], "big land wey no get tree").
+entry(step, past, [], "tense of step").
+```prolog
+entry(stepper, n, [steppers], "pesin wey de waka"). 
+```
+entry(steppin, present, [], "participle of step").
+entry(stepson, n, [stepsons], "person wey be pikin of your husband or wife from previous marriage").
+entry("stepwise", "adj", [], "e mean gradual progression").
+entry(sterane, n, [steranes], "na chemical compound").
+entry(stere, n, [steres], "one unit of volume").
+entry(stereo, v, [stereoed,stereoing,stereos], "to make di kain printing plate").
+entry(steric, adj, [], "wey concern how atoms for molecule dey relate for space").
+entry(sterical, adj, [], "steric").
+entry(sterigma, n, [sterigmas], "or STERIGMATA di stalk wey dey carry spore for some fungi").
+entry(sterile, adj, [], "no fit born pikin").
+entry(sterlet, n, [sterlets], "small sturgeon").
+entry(sterling, n, [sterlingsb], "British money").
+entry(stern, adj, [], "STERNER STERNESTwey no dey bend").
+entry(stern, n, [sterns], "de back part of ship STERNED adj").
+entry(sterna, a, [], "di plural of sternum").
+entry(sternal, adj, [], "wey concern di sternum").
+entry(sternite, n, [sternites], "one somitic sclerite").
+entry(sternly, adv, [], "in a serious way").
+entry(sternson, n, [sternsons], "di beam wey dey support di ship hull").
+```prolog
+entry(sternum, n, [sternums], "or STERNAa long flat supporting bone of most vertebrates").
+```
+entry(sternway, n, [sternways], "di backward movement of a vessel").
+entry(steroid, n, [steroids], "one kain chemical compound").
+entry(sterol, n, [sterols], "one kain solid alcohol wey e dey different").
+entry(stertor, n, [stertors], "deep snorin sound").
+entry(stet, v, [stetted,stetting,stets], "to cancel a previously made printing correction").
+entry(stevia, n, [stevias], "one South America herb wey dey sweet for mouth").
+entry(stew, v, [stewed,stewing,stews], "to cook by boiling slowlySTEWABLE adj").
+entry(steward, v, [stewarded,steewarrin,stewards], "to manage").
+```prolog
+entry(stewbum, n, [stewbums], "pəsin we dey always drunk an no get house").
+```
+entry(stewpan, n, [stewpans], "pan wey dem dey use stew").
+entry(stewpot, n, [stewpots], "big pot for cooking stew").
+entry(stewy, adj, [], "geta the characteristics of stew food wey dem cook by stewing").
+entry(stey, adj, [], "steep").
+entry(sthenia, n, [sthenias], "too much energySTHENIC adj").
+```
+entry(stibial, adj, [], "de one wey concern stibium").
+```
+entry(stibine, n, [stibines], "one poison gas").
+entry(stibium, n, [stibiums], "antimony").
+entry(stibnite, n, [stibnites], "one kind ore wey get antimony inside").
+entry(stich, n, [stichs], "we line of poetrySTICHIC adj").
+entry(stick, v, [sticked,sticking,sticks], "to support with slender pieces of wood").
+entry(stick, v, [stuck,sticking,sticks], "to pierce with a pointed object").
+entry(sticker, n, [stickers], "glue labelSTICKERED adj").
+entry(stickful, n, [stickfuls], "one amount of set kind").
+```prolog
+entry(stickie, n, [stickies], "sticky").
+```
+entry(stickier, comparative, [], "of sticky").
+entry(stickies, pl, [], "of sticky").
+```
+entry(stickiest, superlative, [], "of sticky").
+```
+entry(stickily, adv, [], "de tin dey sticky style").
+entry(stickit, adj, [], "e no work").
+entry(stickle, v, [stickled,stickling,stickles], "to argue stubbornly").
+entry(stickler, n, [sticklers], "pesin wey dey insist for correct tin").
+entry(stickman, n, [stickmen], "one wey dey supervise di play for dice table").
+entry(stickout, n, [stickouts], "wetin dey obvious").
+entry(stickpin, n, [stickpins], "dekorative tye pin").
+entry(stickum, n, [stickums], "something wey dey make things gum together").
+entry(stickup, n, [stickups], "when dem carry gun take do robbery").
+entry(sticky, n, [stickies], "one kind paper wey get glue for back like note").
+entry(sticky, adj, [], "MORE STICKY MOST STICKY dey like to gum").
+entry(stiction, n, [stictions], "di force wey dem need to start to move somtin wey dey touch anoda somtin").
+entry(tie-tie, a, [], "past-tense of tie").
+entry(sties, present, [], "3rd person sing of sty").
+entry(stiff, adj, [], "STIFFER STIFFESTdifficult to bend or stretchi").
+entry(stiff, v, [stiffed,stiffing,stiffs], "to fap person by no pay").
+entry(stiffen, v, [stiffened,stiffening,stiffens], "to make am stiff").
+entry(stiffish, adj, [], "small small stiff").
+entry(stiffly, adv, [], "in a way wey no dey flex").
+```prolog
+entry(stifle, v, [stifled,stifling,stifles], "to cover di voice").
+```
+entry(stifler, n, [stiflers], "person wey dey stop tins from happening").
+entry(stigma, n, [stigmas], "or STIGMATAmark wey spoil person nameSTIGMAL adj").
+entry(stilbene, n, [stilbenes], "na chemical compound").
+entry(stilbite, n, [stilbites], "na mineral").
+entry(stile, n, [stiles], "steps dem wey person fit use pass fence or wall").
+entry(stiletto, v, [stilettoed,stilettoing,stilettos], "or STILETTOESto stab wit stiletto a short dagger").
+entry(still, adj, [], "STILLER STILLESTfree from sound or motion").
+entry(still, v, [stilled,stilling,stills], "to make am still").
+entry(stillage, n, [stillages], "na low platform wey dem dey use keep goods comot from floor").
+entry(stillman, n, [stillmen], "person wey dey run distillery").
+entry(stillson, n, [stillsons], "big spanner wey dey for grip and turn").
+entry(stilly, adj, [], "STILLIER STILLIESTstill").
+entry(stilt, v, [stilted,stilting,stilts], "to lift wit stilts dem long slender stick dem").
+entry(stime, n, [stimes], "na glimpse").
+entry(stimulus, n, [stimuli], "something wey fit cause reaction").
+entry(stimy, v, [stimied, stimying, stimies], "mek persin no fit do wetin dem wan do").
+entry(sting, v, [stung, stinging, stings], "to dey prick pesin for body make am pain").
+entry(stinge, n, [stinges], "person wey nor dey gree spend money").
+entry(stinger, n, [stingers], "somtin wey dey sting").
+entry(stingier, comparative, [], "of stingy").
+entry(stingiest, superlative, [], "of stingy").
+entry(stingily, adv, [], "in a stingy manner").
+entry(stingo, n, [stingos], "strong ale or beer").
+entry(stingray, n, [stingrays], "wan flat-bodied fish wey dey for water").
+entry(stingy, adj, [], "STINGIER STINGIESTperson wey no wan spend or dash").
+entry(smell, v, [smelled,smelling,smells], "to emit bad smell").
+entry(stinkard, n, [stinkards], "person wey no good").
+entry(stinkbug, n, [stinkbugs], "insect wey dey release bad smell").
+entry(stinker, n, [stinkers], "pesin wey dey smell bad").
+entry(stinko, adj, [], "drunk").
+entry(stinkpot, n, [stinkpots], "na jar wey get foul-smelling combustibles wey dem dey use before for warfare").
+entry(stinky, adj, [], "STINKIER STINKIESTdey emit bad smell").
+entry(stint, v, [stinted,stinting,stints], "to limit").
+entry(stinter, n, [stinters], "pesin we dey do something small small").
+entry(stipe, n, [stipes], "one kind slim part wey dey support plantSTIPED adj").
+entry(stipel, n, [stipels], "smol stipule").
+entry(stipend, n, [stipends], "money wey dem dey pay you reglastyle").
+entry(stipes, n, [stipites], "one stipe").
+entry(stipple, v, [stippled,stippling,stipples], "to draw paint or engrave by means of dots or short touches").
+entry(stippler, n, [stipplers], "persin wey dey do stipple").
+entry('stipule', 'n', ['stipules'], "somtin wey dey base of leaf for some kind plantsSTIPULAR STIPULED adj").
+entry(stia, v, [stiaed,stiaing,stias], "to waka wit somtin for circle circle").
+entry(stirk, n, [stirks], "small cow wey no too old").
+entry(stirp, n, [stirps], "family line").
+entry(stirps, n, [stirpes], "na family or part of family").
+entry(stirred, past, [], "way whe person don shake sometin").
+entry(stirrer, n, [stirrers], "persin wey dey mix").
+entry(stirring, n, [stirrings], "di start of movement").
+entry(stirrup, n, [stirrups], "support wey horseman dey put him foot").
+entry(stitch, v, [stitched,stitching,stitches], "to join by making inandout movements with a threaded needle").
+entry(stitcher, n, [stitchers], "one wey dey stitch").
+entry(stithy, v, [stithied,stithying,stithies], "to forge on an anvil").
+entry(stiver, n, [stivers], "one kolo wey dem dey use bifo for Dutch").
+entry(stoa, n, [stoae], "na STOAI or STOAS, na olden days Greek walkway wey dey covered").
+entry(stoat, n, [stoats], "one kain weasel wey get blacktip for im tail").
+entry(stob, v, [stobbed, stobbing, stobs], "to chuk").
+entry(stoccado, n, [stoccados], "wen pesin push di rapier").
+entry(stoccata, n, [stoccatas], "stoccado").
+```prolog
+entry(stock, v, [stocked,stocking,stocks], "to keep for future sale or use").
+```
+entry(stockade, v, [stockaded,stockading,stockades], "to build protective wall around").
+entry(stockage, n, [stockages], "di amount of supplies wey dey for hand").
+entry(stockcar, n, [stockcars], "na boxcar for carry livestock").
+entry(stocker, n, [stockers], "young animal wey dem fit fatten to sell for market").
+entry(stockier, comparative, [], "wey resemble stocky").
+`entry(stockiest, superlative, [], "stocky pass all").`
+entry(stockily, adv, [], "in a stocky way").
+entry(stocking, n, [stockings], "na woven clothe wey dey cover leg and foot").
+entry(stockish, adj, [], "stupido").
+entry(stockist, n, [stockists], "person wey dey sell goods").
+entry(stockman, n, [stockmen], "pesin wey get or dey raise livestock").
+entry(stockpot, n, [stockpots], "pot wey dem dey take cook broth").
+entry(stocky, adj, [], "STOCKIER STOCKIESTwey body short and thick").
+```prolog
+entry(stodge, v, [stodged,stodging,stodges], "to fill belle with food"). 
+```
+entry(stodgy, adj, [], "STODGIER STODGIESTboringSTODGILY adv").
+entry(stogey, n, [stogeys], "stogy").
+entry(stogie, n, [stogies], "stogy").
+entry(stogy, n, [stogies], "long thin cigar").
+```prolog
+entry(stoic, n, [stoics], "person wey no send pleasure or painSTOICAL adj").
+```
+entry(stoicism, n, [stoicisms], "no dey feel pleasure or pain").
+entry(stoke, v, [stoked, stoking, stokes], "to bring fuel to supply fire place").
+entry(stoker, n, [stokers], "persin wey dey add fuel").
+entry(stokesia, n, [stokesias], "one kind plant wey dey last many years").
+entry(steal, n, [steals], "long wide scarf").
+entry(tif, past, [], "participle of tif").
+entry(stolid, adj, [], "STOLIDER STOLIDESTdey show small or no emotionSTOLIDLY adv").
+entry(stollen, n, [stollens], "one kind sweet bread").
+entry(stolon, n, [stolons], "na kain plant stemSTOLONIC adj").
+entry(stolport, n, [stolports], "airport wey need short runways").
+entry(stoma, n, [stomas], "or STOMATA small hole wey dey for plant skin").
+entry(belle, v, [bellechop, bellechopping, bellechops], "to manage").
+```prolog
+entry(belle, adj, [], "get big belle").
+```
+entry(stomal, adj, [], "stomatal").
+```prolog
+entry(stomata, a, [], "pl of stoma").
+```
+entry(stomatal, adj, [], "wey concern stoma").
+entry(stomate, n, [stomates], "one stoma").
+entry(stomatic, adj, [], "wey concern mouth").
+entry(stomodea, npl, [], "embryonic oral cavities").
+entry(stomp, v, [stomped, stomping, stomps], "to waka heavy heavy").
+entry(stomper, n, [stompers], "persin wey dey stomp").
+entry(stompy, adj, [], "STOMPIER STOMPIESTgood for stomping di foot").
+entry(stone, v, [stoned,stoning,stones], "to troway stone pieces of concreted earthy or mineral matterSTONABLE adj").
+entry(stonecut, n, [stonecuts], "print wey dem make from image wey dem engrave for stone").
+entry(stonefly, n, [stoneflies], "one insect wey get wing").
+entry(stoner, n, [stoners], "person wey dey throw stone").
+entry(stoney, adj, [], "STONIER STONIESTstony").
+entry(stonier, comparative, [], "of stony").
+entry(stoniest, superlative, [], "of stony").
+entry(stonily, adv, [], "like stone way").
+entry(stoning, present, [], "participle of stone").
+entry(stonish, v, [stonished,stonishing,stonishes], "to make person suprise").
+entry(stonk, v, [stonked,stonking,stonks], "to dey fire place wit artillery bullets").
+entry(stonker, n, [stonkers], "somtin wey big or impressive well for im kind").
+```
+entry(stonking, adj, [], "de one wey dey make person happy well well").
+```
+entry(stony, adj, [], "STONIER STONIESTdey full for stones").
+entry(stood, past, [], "tense of stand").
+entry(stooge, v, [stooged, stooging, stooges], "to dey act as person wey dey help comedian").
+entry(stook, v, [stooked, stooking, stooks], "to put grain dem together like bundle stand up for field make dem dry").
+entry(stooker, n, [stookers], "persin wey dey arrange bundle of crops").
+```prolog
+entry(stooking, n, [stookings], "di work of a stooker").
+```
+entry("shit", v, [shit, shitting, shits], "to poop").
+```
+entry(stoolie, n, [stoolies], "person wey dey snitch").
+```
+entry(stoop, v, [benda, bendin, bends], "to bend the body forward and down").
+entry(stooper, n, [stoopers], "person wey dey bend down").
+```prolog
+entry(stop, v, [stopt,stopping,stops], "to discontinue di progress or motion of").
+```
+```prolog
+entry(stopband, n, [stopbands], "na band of frequencies wey filter dey limit").
+```
+entry(stopbank, n, [stopbanks], "na embankment wey dey follow river waka").
+entry(stopcock, n, [stopcocks], "na one kain tap").
+entry(stope, v, [stoped,stoping,stopes], "to dig am in layers as ore").
+entry(stoper, n, [stopers], "person wey dey stop").
+entry(stopgap, n, [stopgaps], "one temporary substitution").
+entry(stoping, n, [stopings], "di process of dig hole for ground dey go like layers").
+entry(stopoff, n, [stopoffs], "one stopover").
+entry(stopover, n, [stopovers], "small stop wey pesin go make for journey").
+entry(stoppage, n, [stoppages], "di act of stopping").
+entry(stop, a, [], "old time way wey you don stop").
+entry(stopper, v, [stoppered,stoppering,stoppers], "to block am").
+entry(stopping, present, [], "participle of stop").
+entry(stopple, v, [stoppled,stoppling,stopples], "to put cork").
+entry(stopt, a, [], "past tense of stop").
+```prolog
+entry(stopword, n, [stopwords], "word wey people dey use plenty but search engines no dey find am").
+```
+entry(somtin_we_fit_store, n, [somtins_we_fit_store], "somtin we fit store").
+entry(store, n, [stores], "place wey dem dey keep things").
+entry(storax, n, [storaxes], "na sweet-smelling resin").
+entry(store, v, [keep,keeping,keeps], "to put away for future use").
+```prolog
+entry(storeman, n, [storemen], "man wey dey look after stored goods").
+```
+entry(storer, n, [storers], "person wey dey keep things").
+entry(storey, n, [storeys], "na horizontal division of a buildingWEY GET STOREY adj").
+entry(storied, past, [], "tense of story").
+entry(stories, present, [], "3rd person sing of tori").
+entry(storin, present, [], "participle of store").
+entry(stork, n, [storks], "one kin bird wey dey waka for water").
+entry(storm, v, [stormed, storming, storms], "to blow strong strong").
+entry(stormy, adj, [], "STORMIER STORMIESTstormingSTORMILY adv").
+entry(story, v, [storied,storying,stories], "to relate as a story an account of an event or series of events").
+```prolog
+entry(stoss, adj, [], "facing di direction from wey glacier dey move").
+```
+```
+entry(stot, v, [stotted,stotting,stots], "to waka with stiff leg waka").
+```
+entry(stotin, n, [stotins], "na STOTIN, former money wey dem dey use for Slovenia").
+entry(stotinka, n, [stotinki], "Bulgaria moni unit").
+entry(stott, v, [stotted, stotting, stotts], "to dey stot").
+entry(stound, v, [stounded,stounding,stounds], "to dey pain").
+entry(stoup, n, [stoups], "basin for holy water").
+entry(stour, n, [stours], "dust").
+entry(stoure, n, [stoures], "stour").
+entry(stourie, adj, [], "stoury").
+entry(stoury, adj, [], "dusty").
+entry(stout, adj, [], "STOUTER STOUTESTfat").
+entry(stout, n, [stouts], "na strong dark ale").
+entry(stouten, v, [stoutened, stoutening, stoutens], "to make stout").
+entry(stoutish, adj, [], "small stout").
+entry(stoutly, adv, [], "in stout way").
+entry(stove, v, [stoved,stoving,stoves], "to heat sometin for heating apparatus").
+entry(stover, n, [stovers], "coarse food for cattle").
+entry(stovetop, n, [stovetops], "di top surface of cooking machine").
+entry(stow, v, [stowed,stowing,stows], "to packSTOWABLE adj").
+entry(torage, n, [torages], "goods wey dem dey keep").
+entry(stowaway, n, [stowaways], "person wey hide inside transport make dem carry am go where e no pay for").
+entry(stowp, n, [stowps], "stoup").
+```prolog
+entry(straddle, v, [straddled,straddling,straddles], "to siddon stand or waka wit di leg wide open").
+```
+```prolog
+entry(strafe, v, [strafed,strafing,strafes], "to attack with machinegun fire from an airplane").
+```
+entry(strafer, n, [strafers], "persin wey dey shoot bullets from plane").
+entry("waka anyhow", v, ["waka anyhow before", "dey waka anyhow", "waka anyhow"], "to stray").
+entry(straggly, adj, [], "STRAGGLIER STRAGGLIEST irregularly spread out").
+```prolog
+entry(straight, adj, [], "STRAIGHTER STRAIGHTESTde go one direction without bend or irregular shape").
+```
+entry(straight, v, [straighted,straightin,straights], "to make am straight").
+entry(strain, v, [strained,straining,strains], "to exert to the utmost").
+entry(strainer, n, [strainers], "tool wey dem dey use to commot wata from solid").
+entry(strait, adj, [], "STRAITER STRAITESTnarrowSTRAITLY adv").
+entry(strait, n, [straits], "narrow waterway wey dey connect two bigger water bodies").
+entry(straiten, v, [straitened, straitening, straitens], "to make strait").
+entry("strake", "n", ["strakes"], "one kind wood line wey dey go along ship body STRAKED adj").
+entry(stramash, n, [stramashes], "katakata").
+entry(stramony, n, [stramonies], "poisonous weed").
+entry(strand, v, [stranded,stranding,strands], "to leave person for bad condition").
+entry(strander, n, [stranders], "machine wey dey twist fibers into rope").
+entry(strong, adj, [], "strong").
+entry(kwanfani, n, [kwanfaniz], "na one kain kwok wey dey base").
+entry(strange, adj, [], "STRANGER STRANGEST na wetin no dey normal or wey person no sabi").
+```prolog
+entry(stranger, v, [strangered, strangering, strangers], "to estrange").
+```
+entry(strangle, v, [strangled,strangling,strangles], "to chok person till dem die").
+entry(strap, v, [strap am, dey strap, strap dem], "to fasten am wit strap, narrow strip of material wey flexible").
+entry(strapper, n, [strappers], "pesin wey dey tie somtin").
+entry(strappy, adj, [], "STRAPPIER STRAPPIESTwey get strap dem").
+entry(strass, n, [strasses], "na beta glass wey dem dey use make fake gems").
+entry(strata, n, [stratas], "one food wey get different layer layer").
+entry(stratal, adj, [], "wey get to do wit stratum").
+entry(strategy, n, [strategies], "na plan to get a specific goal").
+entry(strath, n, [straths], "a wide river valley").
+entry(strati, pl, [], "of stratus").
+```prolog
+entry(stratify, v, [stratified, stratifying, stratifies], "to arrange somtin or put am for different levels or layers").
+```
+entry(stratous, adj, [], "stratal").
+entry(stratum, n, [stratums], "or STRATAa laya of material").
+entry(stratus, n, [strati], "na di STRATUSESa kain cloud").
+entry(stravage, v, [stravaged,stravaging,stravages], "waka around").
+entry(stravaig, v, [stravaiged,stravaiging,stravaigs], "waka waka about").
+entry(straw, v, [strawed, strawing, straws], "to cover wit straw stalks of threshed grain").
+entry(strawhat, adj, [], "e dey refer to summer theatre wey dey for holiday area").
+```prolog
+entry(strawy, adj, [], "STRAWIER STRAWIEST wey dey resemble straw").
+```
+entry(stray, v, [waka,false waka, dey waka], "to commot from where you supoz dey or road wey correct").
+entry(strayer, n, [strayers], "somebody wey dey waka anyhow").
+entry(streak, v, [streaked,streaking,streaks], "to cover with streaks long narrow marks").
+entry(streaker, n, [streakers], "person wey dey waka naked").
+entry(streaky, adj, [], "STREAKIER STREAKIESTwey get lines").
+entry(strēm, v, [strēmd, strēmn, strēms], "to dey flow steady like river").
+entry(streamer, n, [streamers], "long narrow flag wey dem dey fly").
+entry(streamy, adj, [], "STREAMIER STREAMIESTstreaming").
+entry(streek, v, [streeked,streeking,streeks], "to stretch").
+```prolog
+entry(streeker, n, [streekers], "persin wey dey streek").
+```
+entry(streel, v, [streeled,streeling,streels], "to waka slow slow").
+entry(street, n, [streets], "na public roadROAD adj").
+entry(strɛngt, n, [strɛngts], "pawa wey pesin get to do tings or last").
+entry(strep, n, [streps], "any of various spherical or oval bacteria").
+entry(stress, v, [de stressed, de stress, de stress], "to put mouth for somtin wey dey importan").
+entry(stressor, n, [stressors], "one kain stimulus").
+entry(stretch, v, [stretched, stretching, stretches], "to draw out or open to full length").
+entry(stretchy, adj, [], "STRETCHIER STRETCHIESTwei dey get tendency to stretch").
+entry(stretta, n, [strettas], "or STRETTEstretto").
+entry(stretto, n, [strettos], "or STRETTINa last musical part wey dem go play quick quick").
+entry(streusel, n, [streusels], "na topping for coffee cakes").
+entry(strew, v, [strewed, strewn, strewing], "STREWNa to scatter am everywhere").
+entry(strewer, n, [strewers], "persin wey de spread tins").
+entry(stria, n, [striae], "one small line or mark wey dey thin").
+entry(striate, v, [striated,striating,striates], "to mark with line-line").
+entry(striatum, n, [striata], "one kain mass of nervous tissue wey dey inside di brainSTRIATAL adj").
+entry(strick, n, [stricks], "plenti flax fibers wey dem bundle togeta").
+entry('stricken', 'adj', [], "strongly affected or afflicted").
+```prolog
+entry(strickle, v, [strickled,strickling,strickles], "to shape or smooth with a strickle an instrument for leveling off grain").
+```
+entry(strict, adj, [], "STRICTER STRICTESTkept within narrow and specific limitsSTRICTLY adv").
+entry(stride, v, [strode,stridden,striding], "STRIDEto waka wit long steps").
+entry(strident, adj, [], "shrill").
+entry(strider, n, [striders], "person wey dey waka fast or take big steps").
+entry(striding, present, [], "participle of stride").
+entry(stridor, n, [stridors], "one kain loud noise").
+entry(strife, n, [strifes], "bitter quarrel or palaver").
+entry(strigil, n, [strigils], "instrument wey dem dey use for scrape body").
+entry(strigose, adj, [], "wey get short strong hair cover").
+entry(strike, v, [strucken,striking,strikes], "to knack wit force").
+entry("striker", "n", ["strikers"], "persin wey dey knack").
+entry(striking, n, [strikings], "di act of hitting sometin with force").
+entry(strine, n, [strinese], "nglish as dem dey tok am for Australia").
+entry(string, v, [stringed,stringing,strings], "to provide with strings slender cords").
+entry(stringer, n, [stringers], "na person wey dey string things").
+```
+entry(stringy, adj, [], "STRINGIER STRINGIEST wey e be like string or strings").
+```
+entry(strip, v, [stript,stripping,strips], "to comot di outside cover from").
+entry(stripe, v, [striped, striping, stripes], "to mark with stripes long distinct bands").
+entry(fishweypeopledeychop, n, [fishdem], "food and game fish").
+```prolog
+entry(stripey, adj, [], "STRIPIER STRIPIESTstripy").
+```
+entry(stripier, comparative, [], "of stripy").
+entry(stripiest, superlative, [], "of stripy").
+entry(striping, n, [stripings], "di lines dem mark or paint ontop somtin").
+entry(stripped, a, [], "past tense of strip").
+entry(stripper, n, [strippers], "persin wey dey remove clothes").
+entry(stripping, present, [], "participle of strip").
+entry(stript, a, [], "past tense of strip").
+```
+entry(stripy, adj, [], "MARK WITH STRIPE STRIPIER STRIPIEST").
+```
+entry(hustle, v, [hustled,hustled,hustling], "HUSTLE to put in plenty effort or energy").
+entry("striver", n, ["strivers"], "person wey dey try hard").
+entry(strobe, v, [strobed, strobing, strobes], "to make brief flashes of light wey dey shine well well").
+entry(strobic, adj, [], "wey dey spin").
+entry(strobil, n, [strobils], "strobile").
+entry(strobila, n, [strobilae], "di whole body of a tapeworm").
+entry(strobile, n, [strobiles], "the konikal many many fruit wey some kain tree dey get").
+entry(strobili, npl, [], "strobiles").
+```prolog
+entry(strobing, n, [strobings], "di process to dey produce highintensity flashes of light").
+```
+entry(strode, a, [], "pastenst of stride").
+entry(stroke, v, [stroked,stroking,strokes], "to rub gently").
+entry(stroker, n, [strokers], "person wey dey stroke").
+entry(waka, v, [wakaed,wakaing,wakas], "to waka slow slow").
+entry(stroller, n, [strollers], "person wey dey waka small small").
+entry(stroma, n, [stromata], "di substance wey form di framework of an organ or cellSTROMAL adj").
+entry('strong', 'adj', [], "STRONGER STRONGESTget plenty powerSTRONGLY adv").
+entry('strongyl', n, ['strongyls'], "na parasitic worm").
+entry(strontia, n, [strontias], "na chemical compound STRONTIC adj").
+entry(strook, a, [], "past tense of strike").
+entry(strop, v, [stropped,stropping,strops], "to sharpen on top leather strip").
+entry(strophe, n, [strophes], "a part of an ancient Greek choral odeSTROPHIC adj").
+entry(stropper, n, [stroppers], "persin wey dey sharpen blade").
+entry(stroppy, adj, [], "STROPPIER STROPPIESTno dey obey").
+entry(stroud, n, [strouds], "coarse woolen blanket").
+entry(strove, a, [], "past tense of strive").
+entry(strow, v, [strowed, strown, strowing], "STROWSto scatter").
+entry(stroy, v, [stroyed,stroying,stroys], "to spoil").
+entry(stroyer, n, [stroyers], "pesin we dey destroy").
+entry(struck, a, [], "past tense of strike").
+entry(strucken, na, [], "past participle of strike").
+entry(strudel, n, [strudels], "na type of pastry").
+entry(struggle, v, [struggled,struggling,struggles], "to dey make serious effort when pesin wan oppose something").
+entry(strum, v, [strummed,strumming,strums], "to play a stringed instrument by running the fingers lightly across the strings").
+```
+entry(struma, n, [strumas], "or STRUMAEscrofula").
+```
+entry(strummer, n, [strummers], "person wey dey strum").
+entry(strumming, present, [], "participle of strum").
+entry(strumose, adj, [], "wey get struma").
+entry(strumous, adj, [], "get or concern struma matter").
+entry(strumpet, n, [strumpets], "ashawo").
+entry(strung, a, [], "past tense of string").
+entry(strunt, v, [strunted,strunting,strunts], "to waka with style").
+entry(strut, v, [strutted,strutting,struts], "to waka like pesin wey dey do shakara").
+```prolog
+entry(strutter, n, [strutters], "person wey dey waka with confidence").
+```
+entry(stub, v, [stubbed,stubbing,stubs], "to hit somtin by mistake wey dey poke out").
+entry(stubbier, comparative, [], "of stubby").
+entry(stubbiest, superlative, [], "of stubby").
+entry(stubbily, adv, [], "in a stubby waya").
+entry(stubbing, present, [], "participle of stub").
+entry(stubble, n, [stubbles], "short rough beards wey don start-growSTUBBLED adj").
+entry(stubbly, adj, [], "STUBBLIER STUBBLIESTcover wit stubble").
+entry(stubborn, adj, [], "STUBBORNER STUBBORNESTno dey gree").
+```prolog
+entry(stubby, adj, [], "STUBBIER STUBBIEST short an thick STUBBILY adv").
+```
+entry(stubby, n, [stubbies], "short fat bottle of beer").
+```prolog
+entry(stucco, v, [stuccoed,stuccoing,stuccoes], "or STUCCOto plaster wit one kain plaster").
+```
+entry(stuccoer, n, [stuccoers], "person wey dey plaster wall").
+entry(stick, past, [], "tense of stick").
+entry(stud, v, [studded,studding,studs], "to set thickly with small projections").
+entry(studbook, n, [studbooks], "record wey dem dey use for pedigree of correct animals").
+entry(studdie, n, [studdies], "one big iron wey dem dey use hammer tin").
+entry(studding, n, [studdings], "de framework of wall").
+```prolog
+entry(student, n, [students], "person wey dey learn for school or any formal setting").
+```
+entry(studfish, n, [studfishes], "fish wey dey for freshwater").
+entry(study, past, [], "tense of study").
+entry(studier, n, [studiers], "persin wey dey study").
+entry(studies, present, [], "3rd person sing of dey learn").
+entry(studio, n, [studios], "place wey artist dey work").
+entry(studious, adj, [], "person wey like study").
+entry(studly, adj, [], "STUDLIER STUDLIESTmuscula an attractiv").
+entry(studwork, noun, [studworks], "work wey e dey study").
+entry(study, v, [study, dey study, dey study], "to dey use mind learn somtin").
+entry(stuff, v, [stuffed, stuffing, stuffs], "to fill or pack tightly").
+entry(stuffer, n, [stuffers], "person wey dey stuff tins").
+entry(stoffing, n, [stoffings], "material wey dem take stuff something").
+entry(stuffy, adj, [], "STUFFIER STUFFIESTpoorly ventilatedSTUFFILY adv").
+entry(stuiver, n, [stuivers], "stiver").
+entry(stull, n, [stulls], "timber wey dey support for mine").
+entry(stultify, v, [stultified, stultifying, stultifies], "to make person look like mumu").
+```prolog
+entry(stum, v, [stummed, stumming, stums], "to make fermentation more by putting grape juice").
+```
+entry(stumble, v, [stumbled, stumbling, stumbles], "to waka make person miss im step").
+entry(stumbler, n, [stumblers], "person wey dey fall anyhow").
+entry(stump, v, [stumped,stumping,stumps], "to confuse").
+entry(stumpage, n, [stumpages], "timber wey never cut but fit sell").
+entry(stumper, n, [stumpers], "question wey dey confuse person").
+entry(stumpy, adj, [], "STUMPIER STUMPIESTshort and thickSTUMPILY adv").
+```prolog
+entry(stun, v, [stunned,stunning,stuns], "to make person no fit do anything or make dem no sabi as e dey happen").
+```
+entry(stung, past, [], "de tense for sting").
+entry(stunk, a, [], "wetin stink do for past").
+entry(stunner, n, [stunners], "one way dey make person shock").
+entry(stunsail, n, [stunsails], "one kain sail").
+entry(stunt, v, [stunted, stunting, stunts], "to stop person or something from grow normal way").
+entry(stuntman, n, [stuntmen], "na persin wey go replace actor for scence wey get dangerous activities").
+entry(stupa, n, [stupas], "Buddhist shrine").
+entry(stupe, n, [stupes], "medicated cloth wey dem dey use put for wound").
+entry(stupefy, v, [stupefied, stupefying, stupefies], "to dull di senses of").
+entry(stupid, adj, [], "STUPIDER STUPIDESTmentally slowSTUPIDLY adv").
+entry(stupid, n, [stupids], "person wey no dey wise").
+entry(stupor, n, [stupors], "state wey pesin no too dey sense well well.").
+entry(sturdy, adj, [], "MORE STURDY MORE STRONG STURDIEST STRONG AND DURABLE STURDILY adv").
+entry(sturdy, n, [sturdies], "one kain disease wey dey affect sheepSTURDIED adj").
+entry(sturgeon, n, [sturgeons], "one kind fish wey person fit chop").
+entry(sturt, n, [sturts], "karez argu").
+entry(stutter, v, [stuttered,stuttering,stutters], "to dey talk wit spasmodic repetition").
+entry(sty, v, [styed,styin,sties], "to keep for where dem dey keep pigs").
+entry(stye, n, [styes], "swelling wey dey pain for eye").
+entry(stygian, adj, [], "dark");
+entry(stylar, adj, [], "wey get to do with stylus").
+entry(stylate, adj, [], "wey get stylet").
+entry(style, v, [styled,styling,styles], "to name").
+entry(styler, n, [stylers], "pesin wey dey style").
+entry(stylet, n, [stylets], "small stiff organ or appendage of certain animals").
+entry(styli, a, [], "pl of stylus").
+entry(styling, n, [stylings], "di way wey dem take style somtin").
+entry(stylise, v, [stylised, stylising, stylises], "to make am fine").
+entry(styliser, n, [stylisers], "pesin wey dey stylise").
+entry(stylish, adj, [], "dey in fashion").
+entry(stylist, n, [stylists], "person wey sabi literary or rhetorical style well well").
+entry(stylite, n, [stylites], "one early Christian person wey dey live for top high place").
+entry(stylize, v, [stylized,stylizing,stylizes], "to make usual").
+entry(stylizer, n, [stylizers], "persin wey dey stylize").
+entry(styloid, n, [styloids], "one slim bone wey dey protrude").
+entry(stylopid, n, [stylopids], "one kain insect wey dem dey call stylops").
+entry(stylops, n, [stylops], "na insect wey dey parasite of other insect dem").
+entry(stylus, n, [styluses], "na pointed instrument for writing, marking or engraving").
+entry(stymie, v, [stymied, stymieing, stymies], "to block road").
+entry(stymy, v, [stymied, stymying, stymies], "to stopy stopy").
+entry(stypsis, n, [stypsises], "di use of sometin wey go stop blood").
+entry(styptic, n, [styptics], "something wey dem dey use to stop bleeding").
+entry(styrax, n, [styraxes], "storax").
+entry(styrene, n, [styrenes], "na liquid hydrocarbon").
+entry(suable, adj, [], "fit to make dem carry you go courtSUABLY adv").
+```prolog
+entry(suasion, n, [suasions], "persuasion, WAY PERSUASIVE WAY CONVINCE ADJ"). 
+```
+entry(suave, adj, [], "SUAVER SUAVESTsmoothly affable and politeSUAVELY adv").
+entry(suavity, n, [suavities], "di state of being suave").
+entry(sub, v, [subbed, subbing, subs], "to dey act as pesin wey go replace anoda pesin").
+entry(suba, n, [subas], "subah").
+entry(subabbot, n, [subabbots], "one junior abbot").
+entry(subacid, adj, [], "small sour").
+entry(subacrid, adj, [], "small small acrid").
+entry(subacute, adj, [], "e no too sharp").
+entry(subadar, n, [subadars], "subahdar").
+entry(subadult, n, [subadults], "pesin wey dey near adulthood").
+entry(subagent, n, [subagents], "subordinate agent").
+entry(subah, n, [subahs], "one province for India").
+entry(subahdar, n, [subahdars], "na govnor of area wey dem dey call subah").
+entry(subalar, adj, [], "wey dey under di wings").
+entry(subarea, n, [subareas], "a subdivision of an area").
+entry(subarid, adj, [], "kind arid").
+entry(subatom, n, [subatoms], "na part of atom").
+entry(subaural, adj, [], "e dey hard to hear").
+entry(subaxial, adj, [], "small-small axial").
+entry(subbase, n, [subbases], "di lowest part of a base").
+entry(subbasin, n, [subbasins], "one part of area wey river dey drain").
+entry(subbass, n, [subbasses], "pedal stop wey dey produce di lowest sound for organ").
+entry("dem sub", past, [], "tense of sub").
+entry(subbing, n, [subbings], "thin coating wey dey ontop inside of photographic film").
+entry(subblo̱k, n, [subblo̱ks], "na subdivision of blok").
+entry(subbreed, n, [subbreeds], "wan kain strain wey different inside breed").
+entry(subcaste, n, [subcastes], "na subdivision of a caste").
+entry(subcause, n, [subcauses], "one kind cause wey no too strong").
+entry(subcell, n, [subcells], "na small part inside bigger cell").
+entry(subchief, n, [subchiefs], "subordinate chief wey dey under main chief").
+entry(subclaim, n, [subclaims], "claim wey dey under main claim").
+entry(subclan, n, [subclans], "na part of clan").
+entry(subclass, v, [subclassed, subclassing, subclasses], "to put for inside one part of class").
+entry(subclerk, n, [subclerks], "na clerk wey dey under another clerk").
+entry(subcode, n, [subcodes], "one small part of code").
+entry(subcool, v, [subcooled, subcooling, subcools], "to cool below di freezing point without solidification").
+entry(subcult, n, [subcults], "subdivision of cult").
+entry(subcutis, n, [subcutises], "na di deeper part of di dermis").
+entry(subdean, n, [subdeans], "na deputy dean").
+```prolog
+entry(subdeb, n, [subdebs], "na girl wey go soon be debutante next year").
+```
+entry(subdepot, n, [subdepots], "one military depot wey dey under anoda depot control").
+entry(subdual, n, [subduals], "di act of subdue person or something").
+entry(subduce, v, [subduced, subducing, subduces], "to take am away").
+entry(subduct, v, [subducted,subducting,subducts], "to subduce").
+entry(subdue, v, [subdued, subduing, subdues], "to control am well well").
+entry(subduer, n, [subduers], "person wey dey subdue").
+entry(subdural, adj, [], "wey dey unda di dura mater").
+entry(subdwarf, n, [subdwarfs], "smol stail wey no get plenty light").
+entry(subecho, n, [subechoes], "one kain weak echo").
+entry(subedit, v, [subedited,subediting,subedits], "to help di main editor").
+entry(subentry, n, [subentries], "na entry wey dem put under one bigger entry").
+entry(subepoch, n, [subepochs], "na Subdivision of epoch").
+entry(suber, n, [subers], "cork").
+entry(suberect, adj, [], "almost stand well well").
+entry(suberic, adj, [], "wey get to do wit cork").
+entry(suberin, n, [suberins], "somtin wey dey for cork cells").
+entry(suberise, v, [suberised, suberising, suberises], "to suberize").
+```prolog
+entry(suberize, v, [suberized,suberizing,suberizes], "to change am to cork tissue").
+```
+entry(suberose, adj, [], "korki").
+```
+entry(suberous, adj, [], "suberose").
+```
+entry(subfield, n, [subfields], "one subset of one mathematical field wey itself be field").
+entry(subfile, n, [subfiles], "na part of file").
+entry(subfix, n, [subfixes], "na symbol or letter wey dem put under anoda character wey dey different").
+entry(subfloor, n, [subfloors], "na raw floor wey dem put for ground before dem lay better floor on top").
+entry(subfluid, adj, [], "kain small fluid").
+entry(subframe, n, [subframes], "frame wey dem go use attach finish frame").
+entry(subfusc, n, [subfuscs], "dark dull clothing").
+entry(subgenre, n, [subgenres], "na small part of one kind").
+entry(subgenus, n, [subgenuses], "or SUBGENERA, na subdivision of one genus").
+entry(subgoal, n, [subgoals], "na goal wey dey under anoda goal").
+entry(subgrade, n, [subgrades], "na surface wey dem put road on top").
+entry(subgraph, n, [subgraphs], "graph wey dey inside bigger graph").
+entry(subgroup, v, [subgrouped, subgrouping, subgroups], "to share am into small small groups").
+entry(subgum, n, [subgums], "one Chinese food wey dey mix vegetables").
+entry(subhead, n, [subheads], "di heading of one small section").
+entry(subhuman, n, [subhumans], "pesin wey no reach human being").
+entry(subhumid, adj, [], "small small humid").
+entry(subidea, n, [subideas], "one kind inferior idea").
+entry(subindex, n, [subindexes], "or SUBINDICESa subfix").
+entry(subitem, n, [subitems], "item wey dem share for big topic").
+entry(subito, adv, [], "quick quick as dem dey take use for music direction").
+entry(subject, v, [subjected,subjecting,subjects], "to cause to experience").
+entry(subjoin, v, [subjoined,subjoining,subjoins], "to add am for di end").
+entry(sublate, v, [sublated, sublating, sublates], "to cancel").
+entry(sublease, v, [subleased,subleasing,subleases], "to sublet").
+```prolog
+entry(sublet, v, [sublet, subletting, sublets], "to rent leased property to another").
+```
+entry(sublevel, n, [sublevels], "na lower level").
+entry(sublime, adj, [], "WAY HIGHER LEVEL OR BIG QUALITYPEOPLE DEY ADMIRE").
+entry(sublime, v, [sublimed, subliming, sublimes], "to make am sublime").
+entry(sublimer, n, [sublimers], "persin wey dey do subliming").
+entry(sublimest, superlative, [], "of sublime").
+entry(sublimit, n, [sublimits], "limit wey dey inside another limit").
+entry(subline, n, [sublines], "one kind line inside one strain").
+entry(sublot, n, [sublots], "na small part of big land").
+entry(sublunar, adj, [], "wey concern di earth").
+entry(submenu, n, [submenus], "anoda list of options wey computer dey show you").
+entry(submerge, v, [submerged,submerging,submerges], "to put under di surface of water").
+entry(submerse, v, [submersed,submersing,submerses], "to put under water").
+entry(submiss, adj, [], "wey like to surrender").
+entry(submit, v, [submitted,submitting,submits], "to gree say pesin dey in charge").
+entry(subnasal, adj, [], "wey dem put under di nose").
+entry(subnet, n, [subnets], "na system of connections wey dey inside communication system").
+entry(subniche, n, [subniches], "na subdivision of habitat").
+entry(subnodal, adj, [], "wey dey under node").
+entry(subocean, adj, [], "wey dey exist under di floor of di ocean").
+entry(suboptic, adj, [], "wey dey under di eye").
+entry(suboral, adj, [], "wey dey under di mouth").
+entry(subodo, n, [subodos], "a category of related families inside one oda").
+entry(suborn, v, [suborned,suborning,suborns], "to make person do lie for court").
+entry(suborner, n, [suborners], "person wey dey arrange bad tins").
+entry(suboval, adj, [], "nearly oval").
+entry(subovate, adj, [], "almost like egg shape").
+entry(suboxide, n, [suboxides], "one kain oxide wey no get plenty oxygen").
+entry(subpanel, n, [subpanels], "di section wey e dey inside panel").
+entry(subpar, adj, [], "bilo par").
+entry(subpart, n, [subparts], "one smaller part inside a bigger part").
+entry(subpena, v, [subpenaed,subpenaing,subpenas], "to call person go court").
+entry(subphase, n, [subphases], "na subdivision of a phase").
+entry(subphyla, npl, [], "divisions wey dey inside one phylum").
+entry(subplot, n, [subplots], "na secondary literary plot").
+entry(subpoena, v, [subpoenaed,subpoenaing,subpoenas], "to call person comot dia house wit one kind court letter").
+entry(subpolar, adj, [], "wey dey outside di polar circles small").
+entry(subprime, adj, [], "e mean loan wey get interest wey high pass di prime rate").
+entry(subpubic, adj, [], "wey dey under di pubis").
+entry(subrace, n, [subraces], "one subdivision of race").
+entry(subrent, n, [subrents], "rent wey person dey collect from persin wey dey rent from anoda person").
+entry(subring, n, [subrings], "na subset of one kain mathematical ring wey ei be ring on im own").
+entry(subrule, n, [subrules], "one small rule wey dey follow big rule").
+entry(subsale, n, [subsales], "na resell of goods wey dem don buy before").
+entry(subscale, n, [subscales], "na subdivisioooof of one scale").
+entry(subsea, adj, [], "wey dey under di surface of di sea").
+entry(subsect, n, [subsects], "na sect wey dey come directly from anoda one").
+entry(subsense, n, [subsenses], "a subdivision of a sense").
+entry(subsere, n, [subseres], "di kain ecological succession weh e be").
+entry(subserve, v, [subserved, subserving, subserves], "to serve to promote").
+entry(subset, n, [subsets], "na mathematical set wey dey inside a bigger set").
+entry(subshaft, n, [subshafts], "a shaft wey dey under anoda shaft").
+entry(subshell, n, [subshells], "one of di orbitals wey dey inside di electron shell of atom").
+entry(subshrub, n, [subshrubs], "small bush wey dey grow close to ground").
+```prolog
+entry(subside, v, [subsided,subsiding,subsides], "to go down to di normal level").
+```
+entry(subsider, n, [subsiders], "person wey dey calm down").
+entry(sabsidi, n, [sabsidis], "na grant or support of money").
+```prolog
+entry(exist, v, [exist, dey exist, go exist], "to continue to exist").
+```
+entry(subsite, n, [subsites], "one small part of site").
+entry(subskill, n, [subskills], "skill wey dey under anoda skill").
+```prolog
+entry(subsoil, v, [subsoiled,subsoiling,subsoils], "to plow mek e turn up de subsoil de layer of earth we dey under de surface soil").
+```
+entry(subsolar, adj, [], "wey dey directly under the sun").
+entry(subsonic, adj, [], "de move slow pass sound").
+entry(subspace, n, [subspaces], "one small part of a mathematical space").
+entry(substage, n, [substages], "na part of microscope wey dem dey use hold accessories").
+entry(substate, n, [substates], "part of state").
+entry(subsume, v, [subsumed, subsuming, subsumes], "to join for inside bigger group").
+entry(subtask, n, [subtasks], "na task wey dey under anoda task").
+entry(subtaxon, n, [subtaxons], "na subdivision of a taxon").
+entry(subteen, n, [subteens], "pesin we dey near teenage age").
+entry(subtend, v, [subtended, subtending, subtends], "to stretch unurl am or opposite am").
+entry(subtest, n, [subtests], "one subdivision of test").
+entry(subtext, n, [subtexts], "written or printed matter under a more general text").
+entry(subtheme, n, [subthemes], "one small theme under main theme").
+entry(subtile, adj, [], "SUBTILER SUBTILESTsubtle").
+entry(subtilin, n, [subtilins], "na antibiotic").
+entry(subtilty, n, [subtilties], "subtilty").
+entry(subtitle, v, [wey dem put subtitle, dey put subtitle, subtitles], "to give am small title too").
+```prolog
+entry(subtle, adj, [], "SUBTLER SUBTLESTe so small e hard to sabiSUBTLY adv").
+```
+```prolog
+entry(subtlety, n, [subtleties], "as you fit dey do something in a way wey no too loud").
+```
+entry(subtone, n, [subtones], "na low or soft tone").
+entry(subtonic, n, [subtonics], "na one kain musical tone").
+```prolog
+entry(subtopia, n, [subtopias], "the outskirts of city").
+```
+entry(subtopic, n, [subtopics], "na secondary topic").
+entry(subtotal, v, [subtotaled,subtotaling,subtotals], "or SUBTOTALLED SUBTOTALLING SUBTOTALStotal di portion of").
+```prolog
+entry(subtract, v, [remove,removing,removes], "to commot"). 
+```
+entry(subtrade, n, [subtrades], "person wey dem hire to do specific work under general contractor").
+entry(subtrend, n, [subtrends], "one small small trend").
+entry(subtribe, n, [subtribes], "a subdivision of a tribe").
+entry(subtunic, n, [subtunics], "tunic wey dem dey wear under anoda tunic").
+entry(subtype, n, [subtypes], "na type wey dem under or inside anoda type").
+entry(subulate, adj, [], "slenda an dey tapper to one point").
+entry(subunit, n, [subunits], "one unit wey be part of bigger unit").
+entry(suburb, n, [suburbs], "one residential area wey dey near citySUBURBED adj").
+entry(suburban, n, [suburbans], "person wey dey live for suburb").
+entry(suburbia, n, [suburbias], "the place wey dey outskirts of big city").
+entry(subvene, v, [subvened,subvening,subvenes], "to arrive or occur as a support or relief").
+entry(subvert, v, [subverted,subverting,subverts], "to destroy am finish").
+entry(subvicar, n, [subvicars], "a small oga for church matter").
+entry(subviral, adj, [], "wey concern one part of virus").
+entry(subvirus, n, [subviruses], "protein wey dey smaller than virus").
+entry(subvocal, adj, [], "mental idea wey be like words").
+entry(subway, v, [subwayed, subwaying, subways], "to waka wit underground train").
+entry(subworld, n, [subworlds], "na subdivision of one sphere of interest or activity").
+entry(subzero, adj, [], "weh e dey below zero").
+entry(subzone, n, [subzones], "di smaller area inside one zone").
+entry(succah, n, [succahs], "or SUCCOTHsukkah").
+entry(succeed, v, [succeeded,succeeding,succeeds], "to achieve wetin you want or plan").
+entry(success, n, [successes], "di achievement of something wey you wan or plan").
+entry(succinct, adj, [], "SUCCINCTER SUCCINCTESTclearly express for small words").
+```prolog
+entry(succinic, adj, [], "wey dem use talk about amber").
+```
+entry(succinyl, n, [succinyls], "one kain radical wey get only one valency").
+entry(succor, v, [succored, succoring, succors], "to help pesin wen dem need am").
+entry(succorer, n, [succorers], "person wey dey help").
+entry(succory, n, [succories], "chicory").
+```prolog
+entry(sukkot, a, [], "pl of sukkah").
+```
+entry(succour, v, [succoured,succouring,succours], "to help").
+entry(succuba, n, [succubas], "or SUCCUBAEa succubus").
+entry(succubus, n, [succubuses], "na female demon").
+entry('succumb', 'v', ['succumbed', 'succumbing', 'succumbs'], "to yield to superior force").
+entry(succuss, v, [succussed, succussing, succusses], "to shake violently").
+entry(such, adj, [], "of dat kain").
+entry(suchlike, adj, [], "wey be di same kind").
+entry(suchness, n, [suchnesses], "di main or special quality").
+entry(suck, v, [suck, dey suck, de suck], "to draw in by establishing a partial vacuum").
+```
+entry(sucker, v, [suckered, suckering, suckers], "to comot low danjon or branch dem").
+```
+entry(suckfish, n, [suckfishes], "na kind fish wey dey attach to other fish").
+entry(suckle, v, [suckled,suckling,suckles], "to dey give milk from di breast").
+entry(suckler, n, [sucklers], "person wey dey breastfeed pikin").
+entry(suckless, adj, [], "e no get juice").
+entry("pikin we never commot im mama bobby", n, ["pikins we never commot dia mama bobby"], "animal we dey suck im mama bobby").
+entry(sucky, adj, [], "WAKA WAKA WAKAextremely objectionable").
+entry(sucrase, n, [sucrases], "na enzyme").
+entry(sucre, n, [sucres], "one kain former money for Ecuador").
+entry(sucrose, n, [sucroses], "one kind sugar").
+entry(succion, v, [succioned, succioning, sucions], "to commot something by sucking").
+entry(sudarium, n, [sudaria], "cloth wey dem dey use clean face").
+entry(sudary, n, [sudaries], "sudarium").
+entry(sudation, n, [sudations], "plenti sweatin").
+entry(sudatory, n, [sudatories], "baff place wey dey hot make person sweat").
+entry(sudd, n, [sudds], "floating somtin wey dey grow for wata").
+entry(sɔ́dɔn, ajɛktiv, [], "hapun kwik kwik an wɛ́taut wɑ́nɪngSODDƐNLI adv").
+entry(sudden, n, [suddens], "sudden wey just happen").
+entry(sudoku, n, [sudokus], "na puzzle wey involve the numbers 1 reach 9").
+entry(sudor, n, [sudors], "switSUDORAL adj").
+entry(suds, v, [sudsed,sudsing,sudses], "to wash for soapy water").
+entry(sudser, n, [sudsers], "soap opera").
+entry(sudsless, adj, [], "e no get foam").
+entry(sudsy, adj, [], "FOAMY FOAMYESTfoamy").
+entry(sue, v, [sued, suing, sues], "to carry person go court").
+entry(suede, v, [sueded,sueding,suedes], "to finish leather with a soft napped surface").
+entry(suer, n, [suers], "persin wey dey take persin go court").
+entry(suet, n, [suets], "di hard fatty tissue wey dey around di kidneys of cattle and sheep SUETY adj").
+entry(suete, n, [suetes], "southeast wind wey dey blow for Cape Breton Island side").
+entry(suffari, n, [suffaris], "safari").
+entry(suffer, v, [don suffer,dey suffer,suffer], "to feel pain or distress").
+entry(sufferer, n, [sufferers], "person wey dey suffer").
+entry(suffice, v, [sufficed,sufficing,suffices], "to dey enough").
+entry(sufficer, n, [sufficers], "person wey dey do enough make e complete").
+entry(suffix, v, [suffixed,suffixing,suffixes], "to add as a suffix a form affixed to the end of end of word").
+entry(suffixal, adj, [], "wey dey consan suffix").
+entry(sufflate, v, [sufflated,sufflating,sufflates], "to blow air enter body").
+```prolog
+entry(suffrage, n, [suffrages], "di right to vote").
+```
+entry(suffuse, v, [suffused,suffusing,suffuses], "to spread through or over").
+entry(sugar, v, [put_sugar_for_top, dey_put_sugar_on, dey_put_sugar_for], "to scatter sugar for top sweet carbohydrate").
+entry(sugarer, n, [sugarers], "pesin wey dey make sugar").
+```prolog
+entry(sugaring, n, [sugarings], "di process of boiling down maple sap into syrup").
+```
+entry(sugary, adj, [], "SUGARIER SUGARIESTwey get sugar or be like sugar").
+entry(suggest, v, [suggested,suggesting,suggests], "to bring or put forward for consideration").
+entry(sugh, v, [sughed,sughing,sughs], "to sough").
+entry(suicidal, adj, [], "selfdestructive").
+entry(suicide, v, [suicided,suiciding,suicides], "to kill yasef on purpose").
+entry(suing, present, [], "participle of sue").
+entry(suint, n, [suints], "natural grease wey dey for sheep wool").
+entry(suit, v, [dey suity,dey suit,dey suits], "to dey appropriate to").
+entry(suitable, adj, [], "appropriateSUITABLY adv").
+entry(sutcase, n, [sutcases], "one flat rectangular skin for travel").
+entry(suite, n, [suite dem], "a series of things wey dey form one unit").
+entry(suiter, n, [suiters], "suitcase wey dey hold certain number of suits clothes sets").
+entry(suiting, n, [suitings], "cloth wey dem dey use sew suit").
+entry(suitlike, adj, [], "wey resemble suit wey be set of cloth").
+entry(suitor, n, [suitors], "person wey dey toast woman").
+entry(suk, n, [suks], "souk").
+entry(sukh, n, [sukhs], "a souk").
+entry(sukiyaki, n, [sukiyakis], "one Japanese food").
+entry(sukkah, n, [sukkahs], "or SUKKOTH or SUKKOTna temporary shelter wey dem dey chop food inside during one Jewish festival").
+entry(sulcate, adj, [], "wey get long narrow groove").
+entry(sulcated, adj, [], "sulcate").
+entry(sulcus, n, [sulci], "narrow line for groundSULCAL adj").
+entry(suldan, n, [suldans], "soldan").
+entry(sulfa, n, [sulfas], "drug wey dey stop bacteria").
+entry(sulfate, v, [sulfated,sulfating,sulfates], "to use am sulfuric acid treat something").
+```
+entry(sulfid, n, [sulfids], "sulfide").
+```
+entry(sulfide, n, [sulfides], "sulf compound wey get sulfa").
+entry(sulfinyl, n, [sulfinyls], "two-headed radical").
+entry(sulfite, n, [sulfites], "one chemical saltSULFITIC adj").
+entry(sulfo, adj, [], "sulfonic").
+entry(sulfone, n, [sulfones], "sulfur compound").
+```prolog
+entry(sulfonic, adj, [], "wey get one kain univalent radical").
+```
+entry(sulfonyl, n, [sulfonyls], "a bivalent radical").
+entry(sulfur, v, [sulfured, sulfuring, sulfurs], "to treat wit sulfur wey be nonmetallic element").
+entry(sulfuret, v, [sulfureted,sulfureting,sulfurets], "or SULFURETTED SULFURETTING SULFURETSto treat wit sulfur").
+entry(sulfuric, adj, [], "weh concern sulfur").
+entry(sulfury, adj, [], "wey dey resemble sulfur").
+entry(sulfuryl, n, [sulfuryls], "sulfonyl").
+entry(sulk, v, [sulked, sulking, sulks], "to de sulky").
+entry(sulker, n, [sulkers], "person wey dey vex or dey isolate imself").
+```prolog
+entry(sulky, adj, [], "SULKIER SULKIESTno dey too dey talk or dem no dey open upSULKILY adv").
+```
+entry(sulky, n, [sulkies], "light hos drawn motor waka").
+entry(sullage, n, [sullages], "dirty water wey dey comot from house or factory").
+entry(sullen, adj, [], "SULLENER SULLENESTshow say pesin dey vex or no happySULLENLY adv").
+entry(sully, v, [sullied,sullying,sullies], "to stain").
+entry(sulpha, n, [sulphas], "sulfa").
+entry(sulphate, v, [sulphated,sulphating,sulphates], "to sulphate").
+entry(sulphid, n, [sulphids], "sulfide").
+entry(sulphide, n, [sulphides], "sulfide").
+entry(sulphite, n, [sulphites], "sulfite").
+entry(sulphone, n, [sulphones], "sulfon").
+entry(sulphur, v, [sulphured,sulphuring,sulphurs], "to sulphur").
+entry(sulphury, adj, [], "sulfur smell").
+```prolog
+entry(sultan, n, [sultans], "di person wey de rule Muslim kontriSULTANIC adj").
+```
+entry(sultana, n, [sultanas], "sultan wife").
+entry(sultry, adj, [], "SULTRIER SULTRIESTvery hot and humidSULTRILY adv").
+entry(sulu, n, [sulus], "one kain skirt wey dem dey wear for Melanesia").
+entry(sum, v, [sum, de sum, de do sum], "to add everything join one total").
+entry(sum, n, [sumy], "na money unit for Uzbekistan").
+entry(sumac, n, [sumacs], "a tree or shrub wey de flower").
+entry(sumach, n, [sumachs], "sumac").
+entry(sumi, n, [sumis], "one kain type of black Japanese ink").
+```prolog
+entry(sumless, adj, [], "too big for calculation").
+```
+entry(summa, n, [summas], "or SUMMAEna big work wey cover one topic well well").
+entry(summable, adj, [], "fit to add together").
+entry(summand, n, [summands], "one addend").
+entry(summary, n, [summaries], "short tori").
+entry(summate, v, [summated,summating,summates], "to add").
+entry(summed, past, [], "tense of sum").
+entry(summer, v, [summered,summering,summers], "to pass di summer di warmest season of di year").
+entry(summerly, adj, [], "like summer").
+entry(summery, adj, [], "WAY SUMMER SUMMER MANY WAY E SUMMER PASS SUMMER").
+entry(summing, present, [], "participle of sum").
+entry(summit, v, [summited,summiting,summits], "to join body for top ogbonga conference").
+entry(summital, adj, [], "wey relate to di highest point").
+entry(summitry, n, [summitries], "di use of meetings between top government officials for international discussion").
+entry(summon, v, [don summon,de summon,dey summon], "to order make pesin appear").
+entry(summoner, n, [summoners], "pesin wey dey call othas").
+entry(summons, v, [summonsed,summonsing,summonses], "to call person with court paper").
+entry(sumo, n, [sumos], "one kain Japanese wrestling").
+```prolog
+entry(sumoist, n, [sumoists], "persin wey dey do sumo wrestling").
+```
+entry(sump, n, [sumps], "na low area wey dey serve as drain or receptacle for liquids").
+entry(sumpter, n, [sumpters], "na animal wey dem dey use carry load").
+entry(sumpweed, n, [sumpweeds], "one kind marsh plant").
+entry(sun, v, [sunned,sunning,suns], "to put for sun the star wey earth dey waka around").
+entry(sunback, adj, [], "cut am low make e expose back to sunlight").
+entry(sunbaked, adj, [], "wey sun bake").
+entry(sunbath, n, [sunbaths], "di act of staying under sunlight").
+entry(sunbathe, v, [sunbathed, sunbathing, sunbathes], "to take sunbaf").
+entry(sunbeam, na, [sunbeams], "one line of sunlightSUNBEAMY adj").
+entry('sunbed', n, ['sunbeds'], "device wey person fit use tan hin skin artificially").
+entry(sunbelt, n, [sunbelts], "southern and southwestern states for US").
+entry('sunbird', n, ['sunbirds'], "one kain tropical bird").
+entry(sunblock, n, [sunblocks], "one cream wey go protect di skin from di sun rays").
+entry(sunbow, n, [sunbows], "arc of rainbow colors wey sun dey shine through mist form").
+entry(sunburn, v, [sunburnt,sunburning,sunburns], "to burn or discolor from di sun exposure").
+entry(sunburst, n, [sunbursts], "sunlight wey shine well well").
+entry(suncare, n, [suncares], "protekshan of di skin from damage by di sun").
+entry(sunchoke, n, [sunchokes], "wan kain sunflower").
+entry(sundae, n, [sundaes], "ice cream wey dem serve with topping").
+entry(sundeck, n, [sundecks], "deck wey sun dey shine on top am").
+entry(sunder, v, [sundered,sundering,sunders], "to break apart").
+entry(sunderer, n, [sunderers], "persin wey dey divide somtin").
+entry(sundew, n, [sundews], "one mash plant").
+entry(sundial, n, [sundials], "wan kain device wey dey show time").
+entry(sundog, n, [sundogs], "small rainbow").
+```prolog
+entry(sundown, v, [sundowned,sundowning,sundowns], "to experience nighttime confusion").
+```
+entry(sundress, n, [sundresses], "na dress wit short bodice").
+entry(sundries, npl, [], "different different things").
+entry(sundrops, n, [sundrops], "na flower plant").
+entry(sundry, adj, [], "miscellaneousSUNDRILY adv").
+entry(sunfast, adj, [], "de shine no dey make am fade").
+entry(sunfish, n, [sunfishes], "one kind fish wey dey for sea").
+entry(sung, past, [], "participle of sing").
+entry(sunglass, n, [dark glass], "lens wey dem take focus sun light to create heat").
+entry(sunglow, n, [sunglows], "light for sky wey sun dey cause").
+entry(sunk, a, [], "past participle of sink").
+entry(sunken, a, [], "di past participle of sink").
+entry(sunker, n, [sunkers], "di ridge of rock near di top of di sea").
+entry(sunket, n, [sunkets], "small chop").
+entry(sunlamp, n, [sunlamps], "lamp wey dey radiate ultraviolet rays").
+entry(sunland, n, [sunlands], "place wey sun dey shine well well").
+entry(sunless, adj, [], "e no get sunlight").
+entry(sunlight, n, [sunlights], "di light wey di sun dey shine").
+entry(like_sun, adj, [], "like sun").
+entry(sunlit, adj, [], "wey sun dey shine am").
+entry(sunn, n, [sunns], "na one East Indian shrub").
+```prolog
+entry(sunna, n, [sunnas], "di body of traditional Muslim law").
+```
+entry(sunnah, n, [sunnahs], "sunna").
+entry(sunned, past, [], "tense for sun").
+entry(sunning, present, [], "participle of sun").
+entry(sunni, adj, [], "SUNNIER SUNNIESTfilled with sunlightSUNNILY adv").
+entry(sunporch, n, [sunporches], "porch wey dey collect plenty sunlight").
+entry(sunproof, adj, [], "e no go spoil for sun").
+entry(sunray, n, [sunrays], "ray of sunlight").
+entry(sunrise, n, [sunrises], "when sun dey rise above di horizon for morning").
+entry(sunroof, n, [sunroofs], "car roof wey fit open").
+entry(sunroom, n, [sunrooms], "na room wey dem build make sunlight plenty well well").
+entry(sunscald, n, [sunscalds], "injuri wey sun dey cause for tree wey don strong").
+entry(sunset, n, [sunsets], "di sun wey dey go down for evenin time").
+entry(sunshade, n, [sunshades], "somtin wey dem dey use take cover from sun").
+entry(sunshine, n, [sunshines], "di light of di sunSUNSHINY adj").
+entry(sun, n, [sunstain], "one dark stain for up surface of the sun").
+entry(sunstar, n, [sunstars], "one kain starfish").
+entry(sunstone, n, [sunstones], "one kain quartz wey differ small").
+entry(sunsuit, n, [sunsuits], "na kain jumpsuit").
+entry(suntan, v, [suntanned, suntanning, suntans], "to com tan").
+entry(suntrap, n, [suntraps], "one kain ples wey sun dey shine well well and e dey comot wind").
+entry(sunup, n, [sunups], "sun wey dem rise").
+entry(tu_sun, adv, [], "toward di sun").
+entry(sunwards, adv, [], "sunward").
+entry(sunwise, adv, [], "from left go right").
+entry(sup, v, [chop_supper, dey_chop_supper, dey_chop_supper], "to chop night food").
+entry(supe, n, [supes], "actor wey no get speaking part").
+entry(super, v, [supered,supering,supers], "to reinforce wit a thin cotton mesh as a book").
+```prolog
+entry(superadd, v, [superadded,superadding,superadds], "to put more"). 
+```
+entry(superb, adj, [], "SUPERBER SUPERBESTof excellent qualitySUPERBLY adv").
+entry(superbad, adj, [], "too bad well well").
+entry(superbug, n, [superbugs], "bacteria wey no dey gree any antibiotic work for am").
+entry(supacar, n, [supacars], "better car").
+entry(supercop, n, [supercops], "bigi oga for police").
+entry(superego, n, [superegos], "one part of di mind").
+entry(superfan, n, [superfans], "pesin we dey like somtin well well").
+entry(superfix, n, [superfixes], "pattern wey dey repeat for stress when pesin dey talk").
+entry(superfly, adj, [], "dey form dey show").
+entry(superhit, n, [superhits], "somtin wey blow well well").
+entry(superhot, adj, [], "too hot well well").
+entry(superior, n, [superiors], "person wey get higher rank or authority pass another person").
+entry(superjet, n, [superjets], "one kain jet airplane").
+entry(superlie, v, [superlay,superlain,superlying], "SUPERLIEsto dey lie above").
+entry(superman, n, [supermen], "one kind better man wey dem dey imagine").
+entry(supermom, n, [supermoms], "beta mama").
+entry(supernal, adj, [], "wey dey concern sky").
+entry(superpro, n, [superpros], "bètà professional").
+```prolog
+entry(supersex, n, [supersexes], "one kain organism wey no fit born pikin").
+```
+entry(superspy, n, [superspies], "bètà spy").
+entry(supertax, n, [supertaxes], "anoda tax wey dem go still add").
+```prolog
+entry(supinate, v, [supinated,supinating,supinates], "to turn so that the palm dey face upward").
+```
+entry(supine, n, [supines], "Latin sabi noun").
+entry(supinely, adv, [], "in an inactive manner").
+entry(supped, past, [], "tense of drink").
+entry(supper, n, [suppers], "evening food").
+entry(supping, present, [], "participle of waka chop").
+entry(supplant, v, [supplanted,supplanting,supplants], "to take di place of").
+entry(supple, adj, [], "SUPPLER SUPPLESTpliantSUPPLELY adv").
+```prolog
+entry(supple, v, [suppled,suppling,supples], "to make supple").
+```
+entry(supplier, n, [suppliers], "pesin wey dey supply").
+entry(supply, v, [supplied,supplying,supplies], "to give wetin person need").
+entry(sapót, v, [sapóted,sapóting,sapóts], "to hold up or add strength to").
+entry(supposal, n, [supposals], "something wey dem suppose").
+entry(suppose, v, [supposed,supposing,supposes], "to beleive sey na true").
+entry(supposer, n, [supposers], "pesin wey dey suppose").
+entry(suppress, v, [suppress,take stop,suppresses], "to shut down by force").
+entry(supra, adv, [], "abov").
+entry(supreme, n, [supremes], "na smooth white sauce wey dem dey make wit chicken stock").
+entry(supreme, adj, [], "SUPREMER SUPREMEST di one wey high pass for power or authority").
+entry(supremo, n, [supremos], "person wey sabi pass for authority matter").
+entry(suq, n, [suqs], "souk").
+entry(sura, n, [suras], "one chapter for inside Koran").
+entry(surah, n, [surahs], "one kain silk cloth").
+entry(sural, adj, [], "wey concern di calf of di leg").
+entry(surbase, n, [surbases], "moulding or border wey dey on top base of structureSURBASED adj").
+entry(surcease, v, [surceased,surceasing,surceases], "to stop").
+entry(surcoat, n, [surcoats], "outer coat or cloak").
+entry(surd, n, [surds], "sound wey no get voice").
+entry(sure, adj, [], "SURE SURESTfree from doubt").
+entry(surefire, adj, [], "sure say e go meet wetin people dey expect").
+entry(surely, adv, [], "for sure").
+entry(sureness, n, [surenesses], "de state of dey sure").
+entry(surer, comparative, [], "of sure").
+entry(surest, superlative, [], "of sure").
+entry(surety, n, [sureties], "sureness").
+entry(surf, v, [dey_surf,dey_surf,dey_surf], "to waka ontop waves wey dey break ontop long narrow boardSURFABLE adj").
+entry(surface, v, [surfaced,surfacing,surfaces], "to apply an outer layer to").
+entry(surfacer, n, [surfacers], "persin wey dey surface").
+entry(surfbird, n, [surfbirds], "na shore bird").
+entry(surfboat, n, [surfboats], "one strong rowboat").
+entry(surfeit, v, [surfeited, surfeiting, surfeits], "to supply to excess").
+entry(surfer, n, [surfers], "persin wey dey surf").
+entry(surffish, n, [surffishes], "na marine fish").
+entry(surfier, comparative, [], "pass surfy").
+entry(surfiest, superlative, [], "of surfy").
+```prolog
+entry(surfing, n, [surfings], "di act or sport of dey ride di surf breaking waves").
+```
+entry(surflike, adj, [], "wey resemble breaking waves").
+entry(surfman, n, [surfmen], "pesin wey sabi handle boat well well for waves").
+entry(surfside, adj, [], "wey near seashore").
+entry(surfy, adj, [], "SURFIER SURFIESTfull of waves wey dey break").
+entry(surge, v, [surged,surging,surges], "to waka dey swell anyhow").
+entry(surgeon, n, [surgeons], "pesin wey dey do surgery").
+entry(surger, n, [surgers], "pesin wey dey surge").
+entry(surgery, n, [operation], "di treatment of medical problem by operation").
+entry(surgical, adj, [], "wey concern surgery").
+entry(surging, present, [], "participle of surge").
+entry(surgy, adj, [], "wey dey surge").
+entry(suricate, n, [suricates], "wan animal wey dey dig ground").
+entry(surimi, n, [surimis], "one cheap fish product").
+entry(surly, adj, [], "SURLIER SURLIESTRude in sullen waySURLILY adv").
+entry(surmise, v, [surmised,surmising,surmises], "to reason wetin no get plenty evidence").
+entry(surmiser, n, [surmisers], "person wey dey guess").
+entry(surmount, v, [surmounted,surmounting,surmounts], "to pass di obstacle").
+entry(surname, v, [deSurname, deSurname, deSurname], "to give a family name to").
+entry(surnamer, n, [surnamers], "one wey dey give surname").
+entry(surpass, v, [surpassed,surpassing,surpasses], "to pass person well well").
+entry(surplice, n, [surplices], "loosefitting church cloth").
+entry(surplus, v, [surplus, surplus, surplus], "or SURPLUSSED SURPLUSSING SURPLUSSESto treat as being in excess of what is needed").
+entry(surprint, v, [surprinted,surprinting,surprints], "to print ontop something wey dem don already print").
+entry(surprise, v, [surprised,surprising,surprises], "to meet am for gidi gba").
+entry(surprize, v, [surprized,surprizing,surprizes], "to surprize").
+entry(surra, n, [surras], "one kain disease wey dey affect house animals").
+entry(surreal, adj, [], "dey like dream").
+entry(surrey, n, [surreys], "one kain lite carriage").
+entry(surround, v, [surrounded,surrounding,surrounds], "to extend completely around na to form circle around something or person").
+entry(surroyal, n, [surroyals], "di top antler of a stag").
+```prolog
+entry(surtax, v, [surtaxed, surtaxing, surtaxes], "to assess with an extra tax").
+```
+```prolog
+entry(surtitle, n, [surtitles], "translation of foreign talk wey dem show on top screen or stage").
+```
+entry(surtout, n, [surtouts], "tight jacket wey person fit wear on top").
+entry(surveil, v, [dey surveil, de surveil, dey surveil], "to dey watch well well").
+entry(survey, v, [surveyed,surveying,surveys], "to determine di boundaries area or elevations of by measuring angles and distances").
+entry(surveyor, n, [surveyors], "persin wey dey check land").
+entry(survival, n, [survivals], "to dey live or continue longer pass anoda person or thing").
+entry(survive, v, [survived, surviving, survives], "to still dey alive").
+entry(surviva, n, [survivas], "surviva").
+entry(survivor, n, [survivors], "persin wey survive").
+entry(sus, v, [sused,susing,suses], "to sabi").
+entry(sushi, n, [sushis], "dish wey na cold rice cakes wit strips of raw fish on top").
+entry(suslik, n, [susliks], "one kain Eurasian rat").
+entry(suspect, v, [suspected, suspecting, suspects], "to dey tink say pesin don do bad tin wit small evide").
+entry(suspen, v, [suspend, suspending, suspends], "to make am tin rest small time").
+entry(suspense, n, [suspenses], "wai person dey dey uncertain or excited for mind").
+entry(suspire, v, [suspired, suspiring, suspires], "to sigh").
+entry(suss, v, [sussed,sussing,susses], "to understand or find out").
+entry(sustain, v, [sustained,sustaining,sustains], "to maintain by providing with food and drink").
+entry(susurrus, n, [susurruses], "soft rustling sound wey dey come like whisper").
+entry(sutler, n, [sutlers], "persin wey dey sell goods to soldiers").
+entry(sutra, n, [sutras], "Hindu wise saying").
+entry(sutta, n, [suttas], "sutra").
+```prolog
+entry(suttee, n, [suttees], "na Hindu widow wey dem dey burn for her husband funeral fire to show say she love am well well").
+```
+entry(sutural, adj, [], "wey get to do wit di line wey two bone dey meet join").
+entry(suture, v, [sutured, suturing, sutures], "join wit sewing").
+entry(suzerain, n, [suzerains], "one oga for feudal").
+entry(svaraj, n, [svarajes], "swaraj").
+entry(svedberg, n, [svedbergs], "na unit of time").
+entry(svelte, adj, [], "SVELTER SVELTESTgracefully slenderSVELTELY adv").
+entry(swab, v, [swabbed,swabbing,swabs], "to clean with big mop").
+entry(swabber, n, [swabbers], "person wey dey swab").
+entry(swabbie, n, [swabbies], "na sailor").
+entry(swabbing, present, [], "participle of swab").
+entry(swabby, n, [swabbies], "swabbie").
+entry(swacked, adj, [], "drunk").
+entry(swaddle, v, [swaddled,swaddling,swaddles], "to cover wit cloth").
+entry(swag, v, [swagged, swagging, swags], "to dey bend").
+entry(swage, v, [don swage, de swage, dem de swage], "to shape with a hammering tool").
+entry(swager, n, [swagers], "pesin wey dey swage").
+entry(swagger, v, [swaggered,swaggering,swaggers], "to waka with fill-up body").
+entry(swaggie, n, [swaggies], "pesin wey dey do swagman waka").
+entry(swagging, present, [], "participle of swag").
+entry(swaging, present, [], "participle of swage").
+entry(swagman, n, [swagmen], "hobo").
+```prolog
+entry(swail, n, [swails], "swale").
+```
+entry(swain, n, [swains], "one country boySWAINISH adj").
+entry(swale, n, [swales], "place wey e low and dey wet like swamp").
+entry(swallow, v, [swallowed,swallowing,swallows], "to take through di mouth and esophagus into di belleh").
+entry('swam', 'past', [], 'tense wey mean swim').
+```prolog
+entry(swami, n, [swamis], "Hindu religious teacher").
+```
+entry(swamies, pl, [], "of swamy").
+entry(marsh, v, [drown,drowning,drowns], "to flood").
+entry(swamper, n, [swampers], "pesin wey dey live for swampy area").
+entry(swampish, adj, [], "swampy").
+entry("swampy", "adj", [], "SWAMPIER SWAMPIESTmarshy").
+entry(swamy, n, [swamies], "oga for spiritual mata").
+entry(swan, v, [swanned, swanning, swans], "to dey swear").
+entry(swang, a, [], "past tense of swing").
+entry(swanherd, n, [swanherds], "pesin wey dey take care of swan, big water bird").
+entry(swank, adj, [], "SWANKER SWANKESTwey dey shain well well").
+entry(swank, v, [swanked, swanking, swanks], "to dey waka cary body").
+entry(swanky, adj, [], "SWANKIER SWANKIESTswankSWANKILY adv").
+entry(swanlike, adj, [], "e resemble swan").
+entry(swanned, past, [], "tense of swan").
+```prolog
+entry(swannery, n, [swanneries], "place wey dem dey raise swan").
+```
+entry(swanning, present, [], "participle of swan").
+entry(swanny, v, [], "to declare wey dem dey use only for 1st person sing").
+entry(swanpan, n, [swanpans], "one Chinese abacus").
+entry(swanskin, n, [swanskins], "di skin of swan").
+entry(swap, v, [swap am, dey swap, swaps], "to trade").
+entry(swapfile, n, [swapfiles], "na komputer file wey get space for programs wey dem transfer").
+entry(swapper, n, [swappers], "person wey dey swap").
+entry(swaraj, n, [swarajes], "self-govt for British India").
+entry(sward, v, [swarded, swarding, swards], "to cover am with grass").
+entry(sware, a, [], "past tense for swear").
+entry(swarf, n, [swarfs], "material wey dey commot as you dey use cutting tool").
+entry(swarm, v, [swarmed,swarming,swarms], "to waka plenty for group").
+entry(swarmer, n, [swarmers], "person wey dey swarm").
+entry(swarming, n, [swarmings], "di act of surround persin wit group of attackers").
+entry(swart, adj, [], "dark-skin").
+entry(swarth, n, [swarths], "gras").
+entry(swarthy, adj, [], "DARKA DARKEShaving a dark skin").
+entry(swarty, adj, [], "dɑrk-skin").
+entry(swash, v, [swashed,swashing,swashes], "to dey waka dey carry body").
+entry(swasher, n, [swashers], "one wey dey swash").
+entry(swastica, n, [swasticas], "swastika").
+```prolog
+entry(swastika, n, [swastikas], "one kind geometrical figure wey dem use as symbol or ornament").
+```
+entry(swat, v, [swatted, swatting, swats], "to knack somtin well-well").
+entry(swatch, n, [swatches], "sample piece of cloth").
+entry(swath, n, [swaths], "a line of cut grass or grain").
+entry(swathe, v, [swathed,swathing,swathes], "to wrap wit bandage").
+entry(swather, n, [swathers], "pesin wey dey swathe").
+entry(swatted, past, [], "tense of swat").
+entry(swatter, n, [swatters], "pesin we dey kill mosquito").
+entry(swatting, present, [], "participle of swat").
+entry(sway, v, [swayed,swaying,sways], "to dey move slow slow go front and back SWAYABLE adj").
+entry(swayback, n, [swaybacks], "abnormal way wey back dey bend").
+entry(swayer, n, [swayers], "pesin wey dey shake").
+entry(swayful, adj, [], "fit to make pesin change dem mind").
+entry(sware, v, [sware,sworn,swearing], "SWEAR na to tok solemn oath").
+entry(swearer, n, [swearers], "person wey dey swear").
+entry(cuss, n, [cuss], "di act of tok solemn swear word").
+entry(sweat, v, [sweated,sweating,sweats], "to dey sweat").
+entry(sweatbox, n, [sweatboxes], "small place wey dem go make you sweat").
+entry(sweta, n, [swetas], "na knitted outer garmentSWETAED adj").
+entry(sweaty, adj, [], "SWEATIER SWEATIESTcovared wit perspirationSWEATILY adv").
+entry(swede, n, [swedes], "na rutabaga").
+entry(sweeney, n, [sweeneys], "sweeny").
+entry(sweeny, n, [sweenies], "muscle for shoulder dem dey waste for horse dem body").
+entry(sweep, v, [swept,sweeping,sweeps], "to clear or clean wit brush or broom").
+entry(sweeper, n, [sweepers], "persin wey dey sweep").
+entry(sweeping, n, [sweepings], "de act of person wey dey sweep").
+entry(sweepy, adj, [], "SWEEPIER SWEEPIEST of wide range or scope").
+entry(sweer, adj, [], "lazy").
+entry(sweet, adj, [], "SWEETER SWEETESTdey sweet for mouth").
+entry(sweet, n, [sweet], "something wey sweet").
+entry(sweeten, v, [sweetened,sweetening,sweetens], "to make am sweet").
+entry(sweetie, n, [sweeties], "darlin").
+entry(sweeting, n, [sweetings], "one sweet apple").
+entry(sweetish, adj, [], "e sweet small").
+entry(sweetlip, n, [sweetlips], "one kain fish wey get mouth wey dey imprez").
+entry(sweetly, adv, [], "in a sweet way").
+entry(sweetsop, n, [sweetsops], "na tropical tree").
+entry(swell, adj, [], "SWELLER SWELLESTstylish").
+```prolog
+entry(swell, v, [swelled,swollen,swelling], "SWELLna to increase for size or volume").
+```
+entry(swelling, n, [swellings], "somtin wey don swell").
+entry(swelter, v, [sweltered,sweltering,swelters], "to suffer from oppressive heat").
+entry(sweltry, adj, [], "SWELTRIER SWELTRIESTde wey heat dey do pesin anyhow").
+entry(swept, past, [], "wetin sweep for past tense").
+entry(swerve, v, [swerved,swerving,swerves], "to turn suddenly from a straight course").
+entry(swerver, n, [swervers], "pesin wey dey swerve").
+entry(sweven, n, [swevens], "na dream or vision").
+entry(swidden, n, [swiddens], "na farm wey dem make by burning di plants wey dey on top di land").
+entry(swift, adj, [], "SWIFTER SWIFTESTde waka wit big speed").
+entry(swift, n, [swifts], "one bird wey dey fly fast").
+entry(swifter, n, [swifters], "rope wey dem dey use for ship").
+entry(swiftie, n, [swifties], "pesin we dey act or think quick quick").
+entry(swiftlet, n, [swiftlets], "one bird wey dey live for cave").
+entry(kwikly, adv, [], "de do am kwik kwik").
+entry(swig, v, [swigged,swigging,swigs], "to drink deeply or rapidly").
+entry(swigger, n, [swiggers], "pesin wey dey drink swig").
+entry(swile, n, [swiles], "one seal wey be marine animal").
+entry(swiler, n, [swilers], "persin wey dey hunt seal").
+entry(swiling, n, [swilings], "di act of hunting seals").
+entry(swill, v, [swilled,swilling,swills], "to drink plenty").
+entry(swiller, n, [swillers], "pesin wey dey swill").
+entry(swim, v, [swam,swum,swimming], "SWIMS na to move body for water by normal way").
+entry(swimmer, n, [swimmers], "person wey dey swim").
+entry(swimming, n, [swimmings], "di act of persin wey dey swim").
+entry(swimmy, adj, [], "SWIMMIER SWIMMIESTdizzySWIMMILY adv").
+entry(swimsuit, n, [swimsuits], "swim wear").
+entry(cloth for swim, n, [cloth for swim], "cloth wey person fit use swim").
+entry(swindle, v, [swindled,swindling,swindles], "to take money or property from by fraudulent means").
+entry(swindler, n, [swindlers], "pesin we dey dupe udas").
+entry(pig, n, [pigs], "person wey no good").
+entry(swinepox, n, [swinepoxes], "sickness wey dey affect pig").
+entry(swing, v, [swang,swinging,swings], "to dey waka freely back and forth").
+entry(swingby, n, [swingbys], "a mission wey spacecraft dey use planet gravitational pull take change course").
+entry(swinge, v, [swinged,swingeing,swinges], "to flog").
+entry(swinger, n, [swingers], "person wey dey swing").
+entry(swingier, comparative, [], "of swingy").
+entry(swingiest, superlative, [], "of swingy").
+entry(swinging, adj, [], "SWINGINGESTlively and hip").
+entry(swinging, n, [swingings], "di style of changing sex partners").
+entry(swingle, v, [swingled, swingling, swingles], "to scutch").
+entry(swingman, n, [swingmen], "pesin wey fit play guard or forward for basketball").
+entry(swingy, adj, [], "SWINGIER SWINGIEST e dey show say e dey swing").
+entry(swinish, adj, [], "wey resemble or dey like pig").
+entry(swink, v, [swinked,swinking,swinks], "to dey work hard").
+entry(swinney, n, [swinneys], "swinny").
+entry(swipe, v, [swiped,swiping,swipes], "to use hand take hit person or thing pass am front like breeze").
+entry(swiper, n, [swipers], "person wey dey swipe").
+entry(swipes, npl, [], "spoil beer").
+entry(swiple, n, [swiples], "part of threshing machine").
+entry(swipple, n, [swipples], "swiple").
+entry(swirl, v, [swirled, swirling, swirls], "to dey move with swirling motion").
+entry(swirly, adj, [], "SWIRLIER SWIRLIESTswirling").
+entry(swish, v, [swished,swishing,swishes], "to move with a prolonged hissing sound").
+entry(swish, adj, [], "SWISHER SWISHEST1 sharp fashionable 2 dey like woman").
+entry(swisher, n, [swishers], "person wey dey swish").
+entry(swishy, adj, [], "SWISHIER SWISHIESTswishing effeminate").
+entry(swiss, n, [swisses], "cotton material").
+entry(switch, v, [switched,switching,switches], "to flog with flexible stick").
+entry(switchel, n, [switchels], "one kain drink wey dey made with water, molasses, vinegar and sometimes ginger").
+entry(switcher, n, [switchers], "person wey dey switch").
+entry(swith, adv, [], "quickly").
+entry(swithe, adv, [], "swith").
+entry(swither, v, [swithered,swithering,swithers], "de doubt").
+entry(swithly, adv, [], "swith").
+entry(swive, v, [swived,swiving,swives], "to knack").
+entry(swivel, v, [swiveled,swiveling,swivels], "or SWIVELLED SWIVELLING SWIVELsto turn on top pivot wey dey support am").
+entry(swivet, n, [swivets], "state wey pesin dey feel jittery or over NERVOUS").
+entry(swizzle, v, [swizzled, swizzling, swizzles], "to drink plenty plenty").
+```prolog
+entry(swizzler, n, [swizzlers], "pesin wey dey swizzle").
+```
+entry(swob, v, [swobbed,swobbing,swobs], "to swob").
+entry(swobber, n, [swobbers], "swabba").
+entry(swell, past, [], "di past participle of swell").
+entry(swoon, v, [swooned, swooning, swoons], "to faint").
+entry(swooner, n, [swooners], "person wey dey faint").
+```
+entry(swoony, adj, [], "SWOONIER SWOONIESTlanguid dazed").
+```
+entry(swoop, v, [swooped,swooping,swoops], "to make a sudden descent").
+entry(swooper, n, [swoopers], "pesin wey dey swoop").
+entry(swoopy, adj, [], "SWOOPIER SWOOPIESTget line wey dey sweep or features").
+entry(swoosh, v, [swooshed,swooshing,swooshes], "to waka wih rustling sound").
+entry(swop, v, [swop,swop,swop], "to change position").
+entry(swopper, n, [swoppers], "swappa").
+entry(sword, n, [swords], "na weapon wey get long blade for cutting or thrusting").
+entry(swordman, n, [swordmen], "person wey sabi use sword well well").
+entry(swere, a, [], "past tense of swear").
+entry(sworn, past, [], "participle of swear").
+entry(swot, v, [swotted, swotting, swots], "to swat").
+entry(swotter, n, [swotters], "persin wey dey read too much").
+entry(swoun, v, [swouned, swouning, swouns], "to swoun").
+entry(swound, v, [swounded,swounding,swounds], "to fall or faint").
+entry(swum, past, [], "na swim participle").
+entry(swung, a, [], "past tense of swing").
+entry(sybarite, n, [sybarites], "person wey like pleasure and luxury").
+entry(sybo, n, [syboes], "di cibol").
+entry(sycamine, n, [sycamines], "di mulberry tree").
+entry(sikamor, n, [sikamors], "na tree wey dey for North America").
+entry(syce, n, [syces], "one male servant for India").
+entry(sycee, n, [sycees], "fine silver wey dem no coin before wey dem dey use for China as money").
+entry(sycomore, n, [sycomores], "sycamore").
+entry(sycon, n, [sycons], "wan kain sponge wey dem dey call SYCONOID adj").
+entry(syconium, n, [syconia], "na fleshy multiple fruit").
+entry(sykosis, n, [sykoch, sykosez], "na inflammatori sik wey dey affect di hair follicles").
+entry(syenite, n, [syenites], "na igneous rockSYENITIC adj").
+entry(syke, n, [sykes], "small small rivulet").
+entry(syli, n, [sylis], "one old money for Guinea").
+entry(syllabi, a, [], "pl of syllabus").
+entry(syllabic, n, [syllabics], "na speech sound wey get high sonority").
+entry(syllable, v, [syllabled, syllabling, syllables], "to pronounce syllables units of spoken language").
+entry(syllabub, n, [syllabubs], "sillabub").
+entry(syllabus, n, [syllabuses], "or SYLLABI di outline of a course of study").
+entry(sylph, n, [sylphs], "slender an fine girl or womanSYLPHIC SYLPHISH SYLPHY adj").
+entry(sylphid, n, [sylphids], "small pikin sylph").
+```prolog
+entry(sylva, n, [sylvas], "or SYLVAE de forest trees for one area").
+```
+entry(sylvan, n, [sylvans], "pesin wey dey live for inside forest").
+entry(sylvatic, adj, [], "wey concern forest").
+entry(sylvin, n, [sylvins], "sylvite").
+entry(sylvine, n, [sylvines], "sylvite").
+entry(sylvite, n, [sylvites], "one ore of potassium").
+entry(symbion, n, [symbions], "symbiont").
+entry(symbiont, n, [symbionts], "organism wey dey live near another one").
+entry(symbiot, n, [symbiots], "symbiont").
+```prolog
+entry(symbiote, n, [symbiotes], "symbiont").
+```
+entry(symbol, v, [symboled,symboling,symbols], "or SYMBOLLED SYMBOLLING SYMBOLS to serve as a symbol a representation of").
+entry(symbolic, adj, [], "we dey talk about symbol").
+entry(symmetry, n, [symmetries], "na correct match wey dey between di two opposite side of something").
+entry(sympathy, n, [sympathies], "feelin wey person dey feel for another pesin sufferin").
+entry(sympatry, n, [sympatries], "the state of dey for di same area without loss of identity from interbreeding").
+entry(symphony, n, [symphonies], "orchestral musik").
+entry(sympodia, npl, [], "plant stems wey get branches wey dey on top each other").
+entry(symposia, npl, [], "conferences wey dem dey discuss for").
+entry(sign, n, [signs], "wetin dey show say something dey happen").
+entry(syn, adv, [], "syne").
+entry(synagog, n, [synagogs], "building wey dem dey use worship for Jewish religion").
+entry(synanon, n, [synanons], "na method of group therapy for people wey dey take drugs").
+entry(synapse, v, [synapsed, synapsing, synapses], "to come together in synapsis").
+entry(synapsid, n, [synapsids], "one group of reptile wey don extinct").
+entry(synapsis, n, [synapses], "di point wey nervous impulse dey pass from one neuron go anodaSYNAPTIC adj").
+entry(sync, v, [synced, syncing, syncs], "to make dem operate as one").
+entry(syncarp, n, [syncarps], "na fleshy multiple fruit").
+entry(syncarpy, n, [syncarpies], "de condition of being a syncarp").
+entry(synch, v, [synched, synching, synchs], "to sync").
+entry(synchro, n, [synchros], "na selsyn").
+entry(syncline, n, [synclines], "one kain formation wey rock dey bend").
+entry(syncom, n, [syncoms], "wan kain communication satellite").
+entry(syncope, n, [syncopes], "di contraction of a word by wey dem comot one or more sound from di middleSYNCOPAL SYNCOPIC adj").
+entry(syncytia, npl, [], "masses of protoplasm wey dey result from cell fusion").
+entry(syndesis, n, [syndesises], "wey dem still dey call SYNDESESsynapsis").
+entry(syndet, n, [syndets], "one synthetic soap wey dem dey take wash cloth").
+entry(syndetic, adj, [], "wey dey join").
+entry(syndic, n, [syndics], "business personSYNDICAL adj").
+entry(syndrome, n, [syndromes], "group of signs wey dey show say persin get one kind sickness").
+entry(syne, adv, [], "sinc").
+entry(synectic, adj, [], "wey get to do wit system of problem-solving").
+```
+entry(synergia, n, [synergias], "synergy").
+```
+entry(synergid, n, [synergids], "na cell wey dem dey find for embryo sac of seed plant").
+entry(sinaji, n, [sinajis], "kombine aksionSYNERGIC adj").
+entry(synesis, n, [synesises], "na kain grammatical construction").
+entry(synfuel, n, [synfuels], "fuel wey dem make from fossil fuel").
+entry(syngamy, n, [syngamies], "di union of two gametesSYNGAMIC adj").
+entry(syngas, n, [syngases], "na SYNGASSESa mix of carbon monoxide and hydrogen wey dem dey use for chemical synthesis").
+entry(syngenic, adj, [], "e dey relate to or be genetically identical individuals wey dey similar for reaction to antigens").
+entry(synkarya, npl, [], "cell nuclei wen dem form by di join join of two nuclei wey don exist before").
+entry(synod, n, [synods], "na church councilSYNODAL SYNODIC adj").
+entry(sinoni, n, [sinonis], "word wey get di same meaning as anoda").
+entry(sinonym, n, [sinonyms], "sinonym").
+entry(synonymy, n, [synonymies], "similar meaning").
+entry(synopsis, n, [synopses], "na summary SYNOPTIC adj").
+```prolog
+entry(synovia, n, [synovias], "na lubricating fluid wey certain membranes dey releaseSYNOVIAL adj").
+```
+```prolog
+entry(syntagm, n, [syntagms], "syntagma").
+```
+entry(syntagma, n, [syntagmas], "or SYNTAGMATA na syntactic element").
+entry(syntax, n, [syntaxes], "di way wey words dey join together to form phrases and sentences").
+entry(synth, n, [synths], "instrument wey dey produce sound like synthesizer").
+entry(synthase, n, [synthases], "na enzyme wey dey act like catalyst to join two molecule dem").
+entry(synthpop, n, [synthpops], "popular music wey dem dey play with synthesizers").
+entry(syntone, n, [syntones], "pesin wey get syntonic temperament").
+entry(syntonic, adj, [], "person wey fit adapt well well to di kain social place wey dem dey").
+entry(syntony, n, [syntonies], "di way wey transmitter and receiver take connect wit each other").
+entry(syntype, n, [syntypes], "each of a set of type specimens on which the name of a new species de based").
+entry(synura, n, [synurae], "any of a genus of protozoa").
+entry(syph, n, [syphs], "syphilis").
+entry(sypher, v, [syphered, syphering, syphers], "to overlap so as to make an even surface as beveled plank edges").
+entry(syphilis, n, [syphilises], "one sickness wey dem dey transfer through sex").
+entry(syphon, v, [syphon am, dey syphon, syphons], "to syphon").
+entry(syphonal, adj, [], "syphonal").
+entry(syphonic, adj, [], "sifonik").
+entry(syren, n, [syrens], "sirin").
+entry(syrette, n, [syrettes], "small tube wey get hypodermic needle wey contain one dose of medicine").
+entry(syringa, n, [syringas], "na one kain fine shrub").
+entry(syringe, v, [syringed,syringing,syringes], "to clean or treat wit fluid wey dem inject").
+entry(syrinx, n, [syrinx-s], "or SYRINGES de place wey bird dey use sing").
+entry(syrphian, n, [syrphians], "syrphid").
+entry(syrphid, n, [syrphids], "one insect wey get wing").
+entry(syrup, v, [syruped, syruping, syrups], "to make am sweet wit thick sweet liquid").
+entry(syrupy, adj, [], "SYRUPIER SYRUPIEST wey resemble thick sticky sweet liquid").
+entry(sysadmin, n, [sysadmins], "person wey dey manage computer system").
+entry(sysop, n, [sysops], "di pesin we dey manage computer bulletin board").
+entry(system, n, [systems], "na group of elements wey dey interact to form one complete unit").
+entry(systemic, n, [systemics], "one kain pesticide").
+entry(systole, n, [systoles], "di normal rhythm way heart dey contractSYSTOLIC adj").
+entry(syzygy, n, [syzygies], "di way wey di earth, moon and sun dey arrange for straight lineSYZYGAL SYZYGIAL adj").
+entry(ta, n, [tas], "na way to say thank you").
+entry(tab, v, [tabbed, tabbing, tabs], "to call or name am").
+entry(tabanid, n, [tabanids], "one insect wey dey suck blood").
+entry(tabard, n, [tabards], "one kin cloth wey no get sleeveTABARDED adj").
+entry(tabaret, noun, [tabarets], "silk material").
+entry(tabbed, past, [], "tense of tab").
+entry(tabbing, n, [tabbings], "di use of di tab key for keyboard").
+entry(tabbis, n, [tabbis], "silk material").
+entry(tabby, v, [tabbied, tabbying, tabbies], "to give am wavy look to").
+entry(taber, v, [tabered, tabering, tabers], "to tabor").
+entry(tabes, n, [tabes], "syphilitic disease wey dey affect pesin body").
+entry(tabetic, n, [tabetics], "pesin wey get tabes").
+entry(tabid, adj, [], "wey don get tabes").
+entry(tabla, n, [drum], "na small drum").
+entry(table, v, [tabled,tabling,tables], "to put for table one furniture wey get flat surface for up").
+entry(tableau, n, [tableaus], "or TABLEAUXna picture").
+entry(tableful, n, [tablefuls], "or TABLESFULhow much table fit contain").
+entry(tablet, v, [tableted, tableting, tablets], "or TABLETTED TABLETTING TABLETSto write for small flat surface").
+entry("tabletop", n, ["tabletops"], "di top of table").
+entry(tabling, n, [tablings], "di arrangement of data or information for table columns").
+entry(tabloid, n, [tabloids], "one small newspaper").
+```prolog
+entry(taboo, v, [tabooed,tabooing,taboos], "to exclude from use approach or mention").
+```
+entry(tabooley, n, [tabooleys], "tabouli").
+entry(tabor, v, [tabored,taboring,tabors], "to knack small drum").
+entry(taborer, n, [taborers], "persin wey sabi play tabor").
+entry(taboret, n, [taborets], "small drum").
+entry(taborin, n, [taborins], "taborine").
+entry(taborine, n, [taborines], "one taboret").
+entry(tabouleh, n, [taboulehs], "tabouli").
+entry(tabouli, n, [taboulis], "salad wey come from Lebanon wey get bulgur wheat tomatoes parsley onions and mint inside").
+entry(tabour, v, [taboured,tabouring,tabours], "to dey knock drum").
+entry(tabourer, n, [tabourers], "taborer").
+entry(tabouret, n, [tabourets], "taboret").
+entry(tabu, v, [tabued,tabuing,tabus], "to taboo").
+entry(tabular, adj, [], "wey concern list").
+entry(arrange, v, [arranged,arranging,arranges], "to arrange for list").
+entry(tabuli, n, [tabulis], "tabouli").
+entry(tabun, n, [tabuns], "one chemical compound").
+entry(tacan, n, [tacans], "a system wey dey help plane find road for air").
+entry(tace, n, [taces], "one kind tasset").
+entry(tacet, v, [], "dey silent  na wetin musicians go follow").
+entry(tach, n, [tachs], "device wey dey show how fast somtin dey rotate").
+entry(tache, n, [taches], "na clasp or buckle").
+entry(tachinid, n, [tachinids], "one grayish fly").
+entry('tachism', 'n', ['tachisms'], "action painting").
+entry(tachisme, n, [tachismes], "tachizm").
+entry(tachist, n, [tachists], "pesin wey dey paint action style").
+entry(tachiste, n, [tachistes], "tachist").
+entry(tachyon, n, [tachyons], "na theoretical subatomic particle").
+entry(tacit, adj, [], "unspokenTACITLY adv").
+entry(taciturn, adj, [], "person wey no dey talk plenty regularly").
+entry(tack, v, [tacked,tacking,tacks], "to fasten with tacks short sharppointed nails").
+entry(tacker, n, [tackers], "pesin wey dey tack").
+entry(tacket, n, [tackets], "one kind nail wey dem dey use for shoe").
+entry(tackey, adj, [], "TACKIER TACKIESTtacky").
+entry(tackier, comparative, [], "of tacky").
+entry(tackiest, superlative, [], "of tacky").
+entry(tackify, v, [tackified, tackifying, tackifies], "to make am tacky").
+entry(tackily, adv, [], "in a yeye way").
+entry(tackle, v, [tackled,tackling,tackles], "to seiz am and troway for ground").
+entry(tackler, n, [tacklers], "person wey dey tackle").
+entry(tackless, adj, [], "wey no get tacks").
+entry(tackling, n, [tacklings], "equipment").
+entry(tacky, adj, [], "WON DEY TACKY TACKY WELL WELLadhesive").
+entry(tacnode, n, [tacnodes], "na di point wey two curves dey touch each oda").
+entry(taco, n, [tacos], "tortilla wen dem fold with something for inside").
+entry(taconite, n, [taconites], "na lowgrade iron ore").
+entry(tacrine, n, [tacrines], "medicine wey dem dey use treat Alzheimers disease").
+entry(tact, n, [tacts], "ability to handle careful situations").
+entry(tactful, adj, [], "get sense").
+entry(tactic, n, [tactics], "way wey person take sabi do something to get wetin e wantTACTICAL adj").
+entry(tactile, adj, [], "wey dey related to di sense of touch").
+entry(taction, n, [tactions], "di act of touching").
+entry(tactless, adj, [], "e no sabi behave well").
+entry(tactual, adj, [], "tactile").
+entry(tad, n, [tads], "small boy").
+entry(frog-baby, n, [frog-babies], "de water pikin of one animal wey dey live for water and land").
+entry(tae, prep, [], "to").
+entry(tael, n, [taels], "one kain weight unit for China").
+entry(taenia, n, [taenias], "or TAENIAEa tapewormTAENIOID adj").
+entry(taenite, n, [taenites], "nickeliron alloy wey dey inside meteorites").
+entry(taffarel, n, [taffarels], "taffrail").
+entry(tafferel, n, [tafferels], "taffrail").
+entry(taffeta, n, [taffetas], "na one kain shine cloth").
+entry(taffia, n, [taffias], "tafia").
+entry(taffrail, n, [taffrails], "one kain baluster wey dey around di back of ship").
+entry(taffy, n, [taffies], "chewy sweet").
+entry(tafia, n, [tafias], "one kain ogogoro wey no too beta").
+entry(tag, v, [tagged, tagging, tags], "to provide with a tag an identifying marker").
+entry(tagalong, n, [tagalongs], "persin wey dey follow anoda").
+entry(tagboard, n, [tagboards], "material wey dem dey use make shipping tags").
+entry(tagetes, n, [tagetes], "na flowering plant").
+entry(taggant, n, [taggants], "something wey dem add to product to show where dem make am").
+entry(tagged, past, [], "tag past tense").
+entry(tagger, n, [taggers], "persin wey dey tag").
+entry(tagging, present, [], "participle of tag").
+entry(tagine, n, [tagines], "tagine").
+entry(taglike, adj, [], "de like tag").
+```prolog
+entry(tagline, n, [taglines], "di last line of play or joke wey make sense").
+```
+entry(tagmeme, n, [tagmemes], "di smallest unit of meaningful grammatical relation").
+entry(tagmemic, adj, [], "wey concern grammar wey tagmeme be di basic unit").
+entry(tagrag, n, [tagrags], "riffraff").
+entry(tahina, n, [tahinas], "tahini").
+entry(tahini, n, [tahinis], "na paste of sesame seeds").
+entry(tahr, n, [tahrs], "one goatlike mammal").
+entry(tahsil, n, [tahsils], "one area for India").
+entry(taiga, n, [taigas], "na subarctic evergreen forest").
+entry(taiglach, n, [taiglach], "teiglach").
+entry(taiko, n, [taikos], "one barrelshaped Japanese drum").
+entry(tail, v, [tailed, tailing, tails], "to give am tail or back side").
+entry(tailback, n, [tailbacks], "persin wey dey part of di backfield for some football formations").
+entry(tailbone, n, [tailbones], "di coccyx").
+entry(tailcoat, n, [tailcoats], "na man coat").
+entry(tailer, n, [tailers], "pesin wey dey secretly follow anoda pesin").
+entry(tailfan, n, [tailfans], "na fanlike swim organ wey dey for back of some crustaceans").
+entry(tailfin, n, [tailfins], "one kin fin wey dey for back of fish").
+entry(tailgate, v, [tailgated,tailgating,tailgates], "to dey drive dangerously close behind anoda motor").
+entry(tailhook, n, [tailhooks], "na hook wey dem dey lower from di tail of plane to catch braking cable").
+entry(tailing, n, [tailings], "di part of stone or brick wey dey show for wall").
+entry(taillamp, n, [taillamps], "light wey dey for back of motor").
+entry(taille, n, [tailles], "one kain old French tax").
+entry("tailless", "adjective", [], "e no get tail").
+entry(tailleur, n, [tailleurs], "woman tailored suit").
+entry(taillike, adj, [], "e resemble tail").
+entry(tailor, v, [tailored,tailoring,tailors], "to sew clothe wey dey fit pesin body").
+entry(tailpipe, n, [tailpipes], "pipe wey dey commot smoke").
+entry(tailrace, n, [tailraces], "part of millrace").
+entry(tailskid, n, [tailskids], "support wey tail for airplane dey rest on top").
+entry(tailspin, v, [tailspun,tailspinning,tailspins], "to spin headlong down toward earth").
+entry(tailwind, n, [tailwinds], "breeze wey dey blow from back of moving motor").
+entry(tain, n, [dem tain], "one kind thin sheet").
+entry(taint, v, [tainted, tainting, taints], "to touch or affect slightly with something bad").
+entry(taipan, n, [taipans], "one poisonous snake").
+entry(taj, n, [tajes], "one tall conical cap wey dem dey wear for Muslim countries").
+```prolog
+entry(tajine, n, [tajines], "one earthenware Moroccan cooking pot").
+```
+entry(taka, n, [takas], "di moni we dem dey use for Bangladesh").
+entry(takahe, n, [takahes], "one kain bird wey no sabi fly").
+entry(take, v, [took,taken,taking], "TAKETose don carryTAKAL TAKEABLE adj").
+entry(takeaway, n, [takeaways], "food wey dem don prepare to comot for where dem dey sell am").
+entry(takedown, n, [takedowns], "an article wey you fit scatter easy easy").
+entry(takeoff, n, [takeoffs], "di act of rising for flight").
+entry(takeout, n, [takeouts], "di act of commot").
+entry(takeova, n, [takeovas], "di act of takin ova control").
+entry(taker, n, [takers], "person wey dey collect something").
+entry(takeup, n, [takeups], "di act of taking somtin up").
+entry("takin", "n", ["takins"], "one goatlike mammal").
+entry(taking, n, [takings], "na when dem collect something").
+entry(takingly, adv, [], "in fine fine way").
+entry(tala, n, [talas], "na traditional rhythmic pattern of music for India").
+entry(talapoin, n, [talapoins], "small monkey for Africa").
+entry(talar, n, [talars], "long cloth wey dem dey wear like coat").
+entry(talaria, npl, [], "winged sandals wey dem dey wear for classical mythology").
+entry(talbot, n, [talbots], "big dog wey don finish").
+entry(talc, v, [talcked,talcking,talcs], "or TALCED TALCING TALCSto take care of wit talc soft mineral wey dey smooth like soapTALCKY TALCOSE TALCOUS TALCY adj").
+entry(talcum, v, [talcumed,talcuming,talcums], "to treat wit powder wey dem make from talc").
+entry(tori, n, [tori dem], "a story").
+entry(taleggio, n, [taleggios], "one soft creamy cheese").
+entry(talent, n, [talents], "special sabi wey pesin getTALENTED adj").
+entry(taler, n, [talers], "one kain German coin wey people dey use before").
+entry(talesman, n, [talesmen], "pesin wey dem call to fill one space for jury").
+entry(tali, pl, [], "of talus").
+entry(talion, n, [talions], "na payback for badness wey person do").
+entry(taliped, n, [talipeds], "persin wey get clubfoot").
+entry(talipes, n, [talipes], "clubfoot").
+entry(talipot, n, [talipots], "one tall palm tree").
+entry(talisman, n, [talismans], "na object wey dem believe say e get magic power").
+entry(tok, v, [tokd,tokin,toks], "to yarn by talking").
+entry(di_tin_ways_pesin_fit_yan, adj, [], "fit talk am").
+```
+entry(tɔkbak, n, [tɔkbaks], "na one-way we we fit use tok for between control booth and recording studio").
+```
+entry(talker, n, [talkers], "pesin wey dey talk").
+entry(talkfest, n, [talkfests], "na gist gist").
+entry(talkie, n, [talkies], "film wey dey make noise as e dey play").
+entry(talk, n, [talks], "conversation").
+entry(talky, adj, [], "DEY YAN TOO MUCH TALK YARNS DEY YAN WELL WELL").
+entry(tall, n, [talls], "size of clothe wey fit tall pesin").
+entry(tall, adj, [], "TALLER TALLESTget big height").
+entry(tallage, v, [tallaged,tallaging,tallages], "to tax").
+entry(tallboy, n, [tallboys], "highboy wey e tall").
+entry(tallied, past, [], "na di tense for tally").
+entry(tallier, n, [talliers], "person wey dey count").
+entry(tallies, present, [], "3rd person sing of tally").
+entry(tallis, n, [tallises], "or TALLISIMtallith").
+entry(tallish, adj, [], "small small tall").
+entry(tallit, n, [tallits], "or TALLITIMtallith").
+entry(tallith, n, [talliths], "or TALLITHIM na Jewish prayer shawl").
+entry(tolness, n, [tolness dem], "di state of being tol").
+entry(tallol, n, [tallols], "one resin liquid").
+entry(tallow, v, [tallowed,tallowing,tallows], "to rub dey body wit tallow wey be animal oil mix").
+entry(tallowy, adj, [], "e resemble tallow").
+entry(tally, v, [tally am, dey tally, dey count am], "to count").
+entry(tallyho, v, [tallyhoed,tallyhoing,tallyhos], "or TALLYHOESto make an encouraging shout to hunting hounds").
+entry(tallyman, n, [tallymen], "persin wey dey count am").
+entry(talmudic, adj, [], "wey concern di body of Jewish civil and religious law").
+entry(talon, n, [talons], "claw for bird wey dey huntTALONED adj").
+entry(talooka, n, [talookas], "taluk").
+entry(taluk, n, [taluks], "one kind estate for India").
+entry(taluka, n, [talukas], "taluk").
+```
+entry(talus, n, [taluses], "slope wey dey formed by plenty rock wey break break").
+```
+entry(talus, n, [tali], "bone for di foot").
+entry(tam, n, [tam dem], "one tightfitting Scottish cap").
+entry(tamable, adj, [], "fit make person control am").
+entry(tamal, n, [tamals], "tamale").
+entry(tamale, n, [tamales], "one Mexican food").
+entry(tamandu, n, [tamandus], "tamandua").
+entry(tamandua, n, [tamanduas], "one kind tree anteater").
+entry(tamarack, n, [tamaracks], "timba tree").
+entry(tamarao, n, [tamaraos], "tamarau").
+entry(tamarau, n, [tamaraus], "small buffalo wey dey for Philippines").
+entry(tamari, n, [tamaris], "one Japanese soy sauce").
+entry(tamarin, n, [tamarins], "one South American monkey").
+entry(tamarind, n, [tamarinds], "na tropical tree").
+entry(tamarisk, n, [tamarisks], "na evergreen shrub").
+entry(tamasha, n, [tamashas], "public enjoyment for India").
+entry(tambac, n, [tambacs], "tombac").
+entry(tambak, n, [tambaks], "tombac").
+entry(tambala, n, [tambalas], "na di money unit for Malawi").
+entry(tambour, v, [tamboured,tambouring,tambours], "to embroider for inside round wooden frame").
+entry(tamboura, n, [tambouras], "tambura").
+entry(tambur, n, [tamburs], "tambura").
+entry(tambura, n, [tamburas], "string wey get strings").
+entry(tame, adj, [], "GENTLE OR DOCILE LIKE TAMER OR TAMAREST").
+entry(tame, v, [tamed,taming,tames], "to make tame").
+entry(tameable, adj, [], "tamable").
+entry(tamein, n, [tameins], "cloth women for Burma dey wear").
+entry(tameless, adj, [], "no fit tame am").
+```prolog
+entry(tamely, adv, [], "in a tame manner").
+```
+entry(tameness, n, [tamenesses], "di way pesin or animal dey calm").
+entry(tamer, n, [tamers], "pesin wey dey tame").
+entry(tamest, superlative, [], "of tame").
+entry(taming, present, [], "participle of tame").
+entry(tamis, n, [tamises], "cloth mesh way dem dey take strain something").
+entry(tammie, n, [tammies], "tammy").
+entry(tammy, n, [tammies], "one kain cloth wey dem mix different materials take make am").
+entry(tamp, v, [tamped,tamping,tamps], "to pack down by tapping").
+entry(tampala, n, [tampalas], "one annual herb").
+entry(tampan, n, [tampans], "na insect wey dey bite").
+entry(tamper, v, [tampered, tampering, tampers], "to interfere in a harmful manner").
+entry(tamperer, n, [tamperers], "pesin wey dey tamper").
+entry(tamping, n, [tampings], "de act of pressing tins down by tapping").
+entry(tampion, n, [tampions], "di plug wey dem dey put for di mouth of cannon").
+entry(tampon, v, [tamponed,tamponing,tampons], "to block am wit cotton pad").
+entry(tan, adj, [], "TANNER TANNEST broown from di sun ray").
+entry(tan, v, [tanned,tanning,tans], "to change animal skin to leather by putting am inside chemical water").
+entry(tanager, n, [tanagers], "bird wey dey shine well well").
+entry(tanbark, n, [tanbarks], "tree bark wey dem dey use take get tannin").
+entry(tandem, n, [tandems], "na bicycle for two people to ride").
+entry(tandoor, n, [tandoors], "na TANDOORI clay oven").
+entry(tandoori, n, [tandooris], "food wey dem cook inside tandoor").
+entry(tang, v, [tanged,tanging,tangs], "to provide with a pungent flavor").
+entry(tanga, n, [tanga], "one old money wey be from Tajikistan").
+entry(tangelo, n, [tangelos], "one citrus fruit").
+entry(tangence, n, [tangences], "tangency").
+entry(tangency, n, [tangencies], "di state of dey in direct physical contact").
+entry(tangent, n, [tangents], "na straight line wey dey touch curve for one point").
+```prolog
+entry(tangible, n, [tangibles], "somtin wey person fit touch").
+```
+entry(tangibly, adv, [], "palpably").
+entry(tangier, comparative, [], "wey tangy pass").
+entry(tangiest, superlative, [], "of tangy").
+entry(tangle, v, [tangled,tangling,tangles], "to bring together in intricate confusion").
+entry(tangler, n, [tanglers], "persin wey dey tangle").
+entry(tangly, adj, [], "TANGLIER TANGLIESTtangled").
+entry(tango, v, [tangoed,tangoing,tangos], "or TANGOES to do Latin American dance").
+entry(tangram, n, [tangrams], "na Chinese puzzle").
+entry("tangy", "adj", [], "TANGIER TANGIESTpungent").
+entry(tanist, n, [tanists], "di pikin we go inherit power from Celtic oga dem").
+entry(tanistry, n, [tanistries], "di system wey dem take dey choose tanist").
+entry(tank, v, [tanked,tanking,tanks], "to keep am inside tank or container wey dem dey use for liquid").
+entry(tanka, n, [tankas], "one Japanese poem style").
+entry(tankage, n, [tankages], "di space wey tank fit hol’").
+entry(tankard, n, [tankards], "one tall cup for drink").
+entry(tanker, n, [tankers], "ship wey dem design to carry liquids").
+entry(tankful, n, [tankfuls], "how much tank fit carry").
+```prolog
+entry(tankini, n, [tankinis], "na woman's swimsuit wey get bikini pants and tank top").
+```
+entry(tankless, adj, [], "e no get tank").
+entry(tanklike, adj, [], "wey resemble tank").
+entry(tankship, n, [tankships], "one tanker").
+entry(tannable, adj, [], "fit make dem tan am").
+entry(tannage, n, [tannages], "di process of tanning").
+entry(tannate, n, [tannates], "na chemical salt").
+entry(tanned, past, [], "tense of tan").
+entry(tanner, n, [tanners], "persin wey dey tan").
+entry(tannery, n, [tanneries], "place wey dem dey tan hide").
+entry(tannest, superlative, [], "of tan").
+entry(tannic, adj, [], "we dey pertain to tannin").
+entry(tannin, n, [tannins], "one chemical compound wey dem dey use for tanning").
+entry(tanning, n, [tannings], "di process wey dem dey use convert animal skin to leather").
+entry(tannish, adj, [], "small tan").
+entry(tanrec, n, [tanrecs], "tenrec").
+entry(tansy, n, [tansies], "one kind plant wey no dey quick die").
+entry(tantalum, n, [tantalum dem], "na metal element TANTALIC adj").
+```prolog
+entry(tantalus, n, [tantaluses], "case for wine bottles").
+```
+entry(tantara, n, [tantaras], "di sound of trumpet or horn").
+entry(tantivy, n, [tantivies], "one hunting shout").
+entry(tanto, n, [tantos], "short Japanese sword").
+```prolog
+entry(tantra, n, [tantras], "one kind Hindu religious bookTANTRIC adj").
+```
+entry(tantrism, n, [tantrisms], "buddism wey get Hindu and juju elements inside").
+entry(tantrist, n, [tantrists], "pesin we dey follow tantrism").
+entry(tantrum, n, [tantrums], "anger wey person vex").
+entry(tanuki, n, [tanukis], "one kin raccoon wey be dog").
+entry(tanyard, n, [tanyards], "the section of a tannery wey get the vats").
+entry(tao, n, [taos], "di path of virtuous conduct according to one Chinese philosophy").
+entry(tap, v, [tap,tap,tap], "to knock gently").
+entry(tapa, n, [tapas], "cloth wey dem make from tree bark").
+entry(tapadera, n, [tapaderas], "part of saddle").
+entry(tapadero, n, [tapaderos], "tapadera").
+entry(tapalo, n, [tapalos], "scarf wey dem dey wear for Latin American countries").
+entry(tape, v, [taped, taping, tapes], "to fasten with tape a long narrow strip or bandTAPEABLE adj").
+entry(tapeless, adj, [], "e no get tape").
+entry(tapelike, adj, [], "e resemble tape").
+entry(tapeline, n, [tapelines], "tape wey dem dey use take measure distance").
+entry(tapenade, n, [tapenades], "na spread wey dem dey make wit black olive, caper, and anchovy").
+entry(taper, v, [tapered,tapering,tapers], "to become gradually narrower toward one end").
+entry(taperer, n, [taperers], "person wey dey carry candle for religious waka procession").
+entry(tapestry, v, [tapestried, tapestrying, tapestries], "to decorate wit woven wall hangings").
+entry(tapetum, n, [tapeta], "one kain layer of cells wey dey some plantsTAPETAL adj").
+entry(tapeworm, n, [tapeworms], "one parasitic worm").
+entry(taphole, n, [tapholes], "hole for blast furnace").
+entry(taphouse, n, [taphouses], "one bar").
+entry(tapin, n, [tapins], "di act or one instance of record somtin for magnetic tape").
+entry(tapioca, n, [tapiocas], "na starchy food").
+entry(tapir, n, [tapirs], "one hoof mammal").
+entry(tapis, n, [tapises], "material wey dem dey use for wall hangings and floor coverings").
+entry(tapless, adj, [], "e no get tap, na device to stop liquid or gas from flow").
+entry(tappable, adj, [], "fit make person tap am").
+entry(tapped, past, [], "di tense of tap").
+entry(tapa, n, [tapas], "pesin wey dey tapp").
+entry(tappet, n, [tappets], "sliding rod wey dey make anoda part of machine dey move").
+entry(tapping, n, [tappings], "di way or method wey sometin dey tapped").
+entry(biyaroom, n, [biyarooms], "na barroom").
+entry(taproot, n, [taproots], "di main root of plant").
+entry(tapster, n, [tapsters], "persin wey dey sell beer for barroom").
+entry(taqueria, n, [taquerias], "place wey dem dey chop taco and burrito").
+entry(tar, v, [tarred, tarring, tars], "to cover wit tar, one black thick liquid").
+entry(tarabish, n, [tarabishes], "wan kain card game").
+entry(tarama, n, [taramas], "na Greek paste wey dem dey make wit fish roe, garlic, lemon juice, and olive oil").
+entry(tarantas, n, [tarantases], "na Russian carriage").
+entry(tarboosh, n, [tarbooshes], "cap wey Muslim men dey wear").
+entry(tarboosh, n, [tarbooshes], "tarboosh").
+entry(tardier, comparative, [], "of tardy").
+entry(tardies, pl, [], "of tardy").
+entry(tardive, adj, [], "get symptoms wey dey develop slow slow").
+entry(tardo, adj, [], "slow wen you wan direct music").
+entry(tardi, adj, [], "MO LATE MO LATESTlateTARDILY adv").
+entry(late, n, [lates], "when person no come on time").
+entry(tardyon, n, [tardyons], "one kind small atom particle wey dey waka slow pass light speed").
+entry(tare, v, [tared,taring,tares], "to know di weight of container wey dey hold goods").
+entry(targa, n, [targas], "one kain convertible sports car").
+entry(targe, n, [targes], "small round shield").
+entry(target, v, [wey dem target, wey dem dey target, wey dem dey target], "to make am your goal").
+entry(tariff, v, [tariffed,tariffing,tariffs], "to tax imported or exported goods").
+entry(taring, present, [], "participle of tare").
+entry(tarlatan, n, [tarlatans], "cotton material").
+entry(tarletan, n, [tarletans], "tarlatan").
+entry(tarmac, v, [tarmacked, tarmacking, tarmacs], "to make aircraft siddon for taxiway").
+entry(tarn, n, [tarns], "small mountain lake").
+entry(tarnal, adj, [], "damnedTARNALLY adv").
+entry(tarnish, v, [tarnished, tarnishing, tarnishes], "to make am dull").
+entry(taro, n, [taro dem], "one kain tropical plant").
+entry(taroc, n, [tarocs], "tarok").
+entry(tarok, n, [taroks], "one kain card game").
+entry(tarot, n, [tarots], "any set of playing cards wey dem use for fortunetelling").
+entry(tarp, n, [tarps], "canvas wey dey protect").
+entry(tarpan, n, [tarpans], "one kain wild horse wey dey Asia").
+entry(tarpaper, n, [tarpapers], "one kain heavy paper wey dem don cover with tar").
+entry(tarpon, n, [tarpons], "one kain marine game fish").
+entry(tarragon, n, [tarragons], "one perennial herb").
+entry(tarre, v, [tarred,tarring,tarres], "to make person do something quickly").
+entry(tarred, past, [], "tens wey tar dey").
+entry(tarrier, n, [tarriers], "persin wey dey wait").
+entry(tarring, present, [], "participle of tar and tarre").
+entry(tarry, adj, [], "RESEMBLE tar").
+```prolog
+entry(tarry, v, [tarried,tarrying,tarries], "to delay or be slow in acting or doing").
+```
+entry(tarsal, n, [tarsals], "one bone wey dey inside foot").
+entry(tarsi, pl, [], "of tarsus").
+entry(tarsia, n, [tarsias], "intarsia").
+entry(tarsier, n, [tarsiers], "one kain animal wey dey waka about for night").
+entry(tarsus, n, [tarsi], "one part of di leg").
+entry(tart, adj, [], "SHARP SHARPEST e get sour sharp taste").
+entry(tart, v, [tarted,tarting,tarts], "to dress up").
+entry(tartan, n, [tartans], "na patterned woolen fabric").
+entry(tartana, n, [tartanas], "one Mediterranean sailing ship").
+entry(tartar, n, [tartars], "one kind crust wey dey for teeth TARTARIC adj").
+entry(tartare, adj, [], "wey dem no cook am").
+entry(tartier, comparative, [], "of tati").
+entry(tartiest, superlative, [], "of tarty").
+entry(tartish, adj, [], "small small tart").
+entry(tartlet, n, [tartlets], "small pie wey small").
+entry(tartly, adv, [], "in a tart manner").
+entry(tartness, n, [tartnesses], "di state of being tart").
+entry(tartrate, n, [tartrates], "na chemical salt").
+entry(tartufe, n, [tartufes], "tartuffe").
+entry(tartuffe, n, [tartuffes], "person wey dey pretend").
+entry(tartufo, n, [tartufi], "na Italian ice cream dessert").
+entry(tarty, adj, [], "TARTIER TARTIESTshow say dem be ashawoTARTILY adv").
+entry(tarweed, n, [tarweeds], "one flowering plant").
+entry(tarzan, n, [tarzans], "pesin we strong well-well an fit do anytin sharp sharp").
+entry(tase, v, [tased, tasing, tases], "to knock person wit gun wey dey shoot electric dart dem").
+entry(task, v, [tasked, tasking, tasks], "to give person work make e do").
+entry(taskbar, n, [taskbars], "one line of graphics controls for computer screen").
+```prolog
+entry(taskwork, n, [taskworks], "hard wwk").
+```
+```prolog
+entry(tass, n, [tasses], "drinkin cup").
+```
+entry(tasse, n, [tasses], "tasset").
+entry(tassel, v, [tasseled,tasseling,tassels], "or TASSELLED TASSELLING TASSELSto decorate wit dangling ornaments").
+entry(tasset, n, [tassets], "one kain plate armor for upper thigh").
+entry(tassie, n, [tassies], "tass").
+entry(tasso, n, [tassos], "spicy cured pork").
+entry(taste, v, [tasted,tasting,tastes], "to sabi di kind flavor wen person fit perceive wit mouthTASTABLE adj").
+entry(tasteful, adj, [], "tasty").
+entry(taster, n, [tasters], "person wey dey taste").
+entry(tasting, n, [tastings], "gathering wey dem dey sample wine or food").
+entry(tasty, adj, [], "TASTIER TASTIESTsweet for mouthTASTILY adv").
+entry(tat, v, [tatted,tatting,tats], "to do tatting").
+entry(tatami, n, [tatamis], "straw mat wey dem dey use cover floor").
+entry(tatar, n, [tatars], "person wey dey wicked").
+entry(tate, n, [tates], "a bunch of hair").
+entry(tater, n, [taters], "na potato").
+entry(tathata, n, [tathatas], "di ultimate nature of all things for Buddhism").
+entry(tatouay, n, [tatouays], "one kain armadillo wey dey South America").
+entry(tatsoi, n, [tatsois], "one kain Asian mustard").
+entry(tatted, past, [], "tense of tat").
+entry(tatter, v, [tattered,tattering,tatters], "to don tear an spoil").
+entry(tattie, n, [tatties], "pesin wey be potato").
+entry(tattier, comparative, [], "of tatty").
+entry(tattiest, superlative, [], "of tatty").
+entry(tattily, adv, [], "in tattered way").
+entry(tatting, n, [tattings], "fine fine handmade lace").
+entry(tattle, v, [tattled,tattling,tattles], "to dey expose wetin another person dey do").
+entry(tattler, n, [tattlers], "person wey dey talk wetin dem no suppose talk").
+```prolog
+entry(tattoo, v, [tattooed,tattooing,tattoos], "to write for skin with color wey no dey commot").
+```
+entry(tatooista, n, [tatooistas], "pesin wey dey draw tatoo").
+entry(tatty, adj, [], "TATTIER TATTIESTshabby").
+entry(tau, n, [taus], "one Greek letter").
+entry("teach", past, [], "tense when dem don teach before").
+entry(taunt, v, [taunted,taunting,taunts], "to challenge or reproach sarcastically").
+entry(taunter, n, [taunters], "person wey dey yab").
+entry(tauon, n, [tauons], "one lepton wey no stable").
+entry(taupe, n, [taupes], "one kain dark gray color").
+entry(taurine, n, [taurines], "na chemical compound").
+entry(taut, adj, [], "TAUTER TAUTESTwey dem stretch well well make e no loose").
+entry(taut, v, [tauted, tauting, tauts], "to scatter am").
+entry(tautaug, n, [tautaugs], "tautog").
+entry(tauten, v, [tautened, tautening, tautens], "to make am tight").
+entry(tautly, adv, [], "in a way wey e dey tight").
+entry(tautness, n, [tautnesses], "di state of being taut").
+entry(tautog, n, [tautogs], "one kin fish wey dey for sea").
+entry(tautomer, n, [tautomers], "one kain chemical compound").
+entry(tautonym, n, [tautonyms], "na kain taxonomic designation").
+entry(tav, n, [tavs], "one Hebrew letter").
+entry(buka, n, [bukas], "place wey dem dey sell alcohol make people drink for there").
+entry(taverna, n, [tavernas], "one cafe for Greece").
+entry(taverner, n, [taverners], "pesin wey dey run beer parlour").
+entry(taw, v, [tawed,tawing,taws], "to change am to white leather by using yeye sefin dem").
+entry(tawdry, adj, [], "TAWDRIER TAWDRIESTshinyTAWDRILY adv").
+entry(tawdry, n, [tawdries], "shiny decoration wey no get beta quality").
+entry(tawa, n, [tawas], "pesin wey dey tawa").
+```prolog
+entry(tawie, adj, [], "gentle").
+```
+entry(tawney, n, [tawneys], "tawny").
+entry(tawny, adj, [], "TAWNIER TAWNIESTD light brown TAWNILY adv").
+entry(tawny, n, [tawnies], "light brown color").
+entry(tawpie, n, [tawpies], "pikin we no sabi well well").
+entry(tawse, v, [tawsed,tawsing,tawses], "to flog").
+entry(taks, v, [taksed,taksing,takses], "to put taks a charge wen goment go put for public purposes on").
+entry(taxa, a, [], "dem plenty form of taxon").
+entry(taxable, adj, [], "di tin we dem fit taxTAXABLY adv").
+entry(taxable, n, [taxables], "one item wey dem fit tax").
+entry(taxation, n, [taxations], "di process of taxing").
+entry(taxeme, n, [taxemes], "di smallest grammar feature wey select somethingTAXEMIC adj").
+entry(taxer, n, [taxers], "persin wey dey collect tax").
+entry(taxi, v, [], "TAXIED TAXIING or TAXYING TAXIS or TAXIEStro travel inside taxi").
+entry(taxicab, n, [taxicabs], "one motor wey you fit hire").
+entry(taximan, n, [taximen], "d person wey dey drive taxi").
+entry(taxingly, adv, [], "in a wahala way").
+entry(taxite, n, [taxites], "wan kain volcanic rokTAXITIC adj").
+entry(taxiway, n, [taxiways], "paved part for airport").
+entry(taxless, adj, [], "e no get any tax").
+entry(taksman, n, [taksmen], "pesin wey dey collect tax").
+entry(taxol, noun, [taxols], "medsin wey dem dey collect from yew tree").
+entry(taxon, n, [taxons], "na waya we dem dey tanda things for science").
+entry(taxonomy, n, [taxonomies], "di study of scientific classification").
+entry(taxpaid, adj, [], "wey tax don pay for").
+entry(taxpayer, n, [taxpayers], "pesin wey dey pay tax").
+entry(taxus, n, [taxus], "one evergreen tree or shrub").
+entry(taxwise, adj, [], "de one wey concern tax dem").
+entry(taxying, a, [], "present participle of taxi").
+entry(tayberry, n, [tayberries], "one kain dark red fruit wey bi mix of blackberry and raspberry").
+entry(tayra, n, [tayras], "one big animal wey dey Central and South America").
+entry(tazza, n, [tazzas], "or TAZZE na fine bowl").
+entry(te, n, [tes], "ti").
+entry(tea, n, [teas], "na drink wey dem dey make by putting dry leaf inside hot water").
+entry(teaberry, n, [teaberries], "one North America shrub").
+entry(teaboard, n, [teaboards], "tray wey dem dey use serve tea").
+entry(teabowl, n, [teabowls], "teacup wey no get handle").
+entry(tibox, n, [tiboxes], "box for tea leaf").
+entry(teacake, n, [teacakes], "small cake wey dem dey serve with tea").
+entry(teacart, n, [teacarts], "table wey get wheel for serving tea").
+entry(teach, v, [taught, teaching, teaches], "to dey impart knowledge or skill to").
+entry(teacher, n, [teachers], "persin wey dey teach").
+entry(teaching, n, [teachings], "one teaching").
+entry(teacup, n, [teacups], "cup wey dem dey take serve tea").
+entry(teahouse, n, [teahouses], "one public place wey dem dey serve tea").
+entry(teak, n, [teaks], "one kain East Indian tree").
+entry(teakwood, n, [teakwoods], "di wood wey come from di teak tree").
+entry(teal, n, [teals], "wan kain river duck").
+entry(tealike, adj, [], "wey be like tea").
+```prolog
+entry(team, v, [teamed, teaming, teams], "to form a team a group of persons wey de work together for one action").
+```
+entry(teamaker, n, [teamakers], "persin wey dey make tea").
+entry(teammate, n, [teammates], "person wey dey the same team").
+entry(teamster, n, [teamsters], "persin wey dey drive truck").
+entry(teamwork, n, [teamworks], "cooperative work to achieve one kain goal").
+```
+entry(teapot, n, [teapots], "container wey dem dey use to make and serve tea").
+```
+entry(teapoy, n, [teapoys], "small table wey dem dey use serve tea").
+entry(tear, v, [teared, tearing, tears], "to release tears, drop of salt water wey eye gland dey produce").
+entry(tear, v, [tore,torn,tearing], "TEAR na to tear something for piecesTEARABLE adj").
+entry(tearaway, n, [tearaways], "persin wey dey behave anyhow").
+entry(teardown, n, [teardowns], "di process of break am down").
+entry(teardrop, n, [teardrops], "one tear").
+entry(tearer, n, [tearers], "persin wey dey tear or rip").
+entry(tearful, adj, [], "full of tears").
+entry(teargas, v, [teargassed, teargassing, teargases], "na TEARGASSESto use gas wey dey make person eye dey pepper").
+entry(tearier, comparative, [], "pass teary").
+entry(teariest, superlative, [], "wey teary pass all").
+entry(tearily, adv, [], "in a teary manner").
+entry(tearless, adj, [], "no dey cry").
+entry(tearlike, adj, [], "like tear").
+entry(tearoom, n, [tearooms], "na restaurant wey dem dey serve tea").
+entry(teary, adj, [], "TEARIER TEARIESTwey dey cry").
+entry(tease, v, [teased,teasing,teases], "to dey make fun ofTEASABLE adj").
+entry(teasel, v, [teaseled,teaseling,teasels], "or TEASELLED TEASELLING TEASELSto comot soft surface for cloth wit prickly flower head").
+entry(teaseler, n, [teaselers], "persin wey dey use teasel").
+entry(teaser, n, [teasers], "person wey dey joke with person").
+entry(teashop, n, [teashops], "one tearoom").
+entry(teasing, present, [], "participle for tease").
+entry(teaspoon, n, [teaspoons], "small spoon").
+entry(bobi, n, [bobi], "mammary glandTEATED adj").
+entry(teatime, n, [teatimes], "di time wey pipo dey usually drink tea").
+entry(teaware, n, [teawares], "somtin wey dem dey use for tea service").
+entry(teazel, v, [teazeled, teazeling, teazels], "or TEAZELLED TEAZELLING TEAZELS to teasel").
+entry(teazle, v, [teazled, teazling, teazles], "to teasel").
+entry(tec, n, [tecs], "tech").
+entry(tech, n, [techs], "persin wey sabi repair tins").
+entry(teched, adj, [], "kolo").
+entry(techie, n, [techies], "na technician").
+entry(technic, n, [technics], "technique").
+entry(techno, n, [technos], "na kain disco music style").
+entry(technoid, n, [technoids], "na technician").
+entry(techy, adj, [], "TECHIER TECHIESTtetchyTECHILY adv").
+entry(tecta, a, [], "pl for tectum").
+entry(tectal, adj, [], "wey concern tectum").
+entry(tectite, n, [tectites], "tektite").
+entry(tectonic, adj, [], "wey get to do wit building").
+entry(tectrix, n, [tectrices], "small feather wey dey bird wing").
+entry(tectum, n, [tectums], "or TECTAa rooflike structure").
+```prolog
+entry(ted, v, [tedded, tedding, teds], "to spread for dry am").
+```
+entry(tedder, v, [teddered, teddering, tedders], "to turn hay with machine").
+entry(teddy, n, [teddies], "na woman undercloth").
+entry(tedious, adj, [], "wey dey cause tire").
+entry(tedium, n, [tediums], "di state of being tedious").
+entry(tee, v, [teed,teeing,tees], "to put golf ball on top small peg").
+entry(teel, n, [teels], "simsim").
+entry(team, v, [teamed,teaming,teams], "to full well well").
+entry(teemer, n, [teemers], "pesin wey dey teem").
+entry(teen, n, [teens], "person wey dey teenage age").
+entry(teenage, adj, [], "wey concern teenagers").
+entry(teenaged, adj, [], "teenage").
+```prolog
+entry(teenager, n, [teenagers], "person wey dey between age thirteen and nineteen").
+```
+entry(teendom, n, [teendoms], "people wey still dey teenage").
+entry(teener, n, [teeners], "pikin wey dey teenage age").
+entry(teenful, aj, [], "full wit grief").
+entry(teensy, adj, [], "TEENSIER TEENSIESTsmall").
+entry(teentsy, adj, [], "TEENTSIER TEENTSIESTsmall small").
+entry(teeny, adj, [], "MORE TEENY MOST TEENYtiny").
+entry(teenybop, adj, [], "wey concern young pikin wey be teenager").
+entry(teepee, n, [teepees], "tepee").
+entry(teeter, v, [teetered,teetering,teeters], "to waka waka anyhow").
+entry(teet, pl, [], "of tooth").
+entry(teethe, v, [teethed, teething, teethes], "to dey grow teeth").
+entry(teether, n, [teethers], "na somtin wey pikin go dey bite when im dey teeth").
+entry(teething, n, [teethings], "di first time wey teeth dey grow").
+entry(teetotal, v, [teetotaled, teetotaling, teetotals], "or TEETOTALLED TEETOTALLING TEETOTAL to abstain completely from alcoholic beverages").
+entry(teetotum, n, [teetotums], "one kin toy wey dey spin").
+entry(teff, n, [teffs], "one kain cereal grass").
+entry(tefillin, npl, [], "di small boxes wey Jews dey wear for prayer").
+entry(teg, n, [tegs], "tegg").
+entry(tegg, n, [teggs], "sheep wey don reach two years").
+entry(tegmen, n, [tegmina], "cloth wey dey cover").
+entry(tegmenta, npl, [], "anatomical coverings").
+entry(tegminal, adj, [], "wey dey about tegmen").
+```prolog
+entry(tegu, n, [tegus], "big lizard wey dey South America").
+```
+entry(tegua, n, [teguas], "one kain moccasin shoe").
+```
+entry(tegula, n, [tegulae], "flat roof tile wey dem dey use for Rome for olden days").
+```
+entry(tegular, adj, [], "e resemble tile").
+entry(tegumen, n, [tegumina], "tegmen").
+entry(tegument, n, [teguments], "na something wey dey cover body").
+```prolog
+entry(teiglach, n, [teiglach], "na sweet wey dem dey make wit dough wey dem boil for honey").
+```
+entry(teiid, n, [teiids], "one kain lizard wey dey for tropical America").
+entry(tein, n, [teins], "one kain money for Kazakhstan").
+entry(teind, n, [teinds], "one tithe").
+entry(tekkie, n, [tekkies], "techie").
+entry(tektite, n, [tektites], "one kain glass bodi wey dem tink say e come from meteorTEKTITIC adj").
+entry(tel, n, [tels], "olden days mound wey dey Middle East").
+entry(tela, n, [telae], "tishu wey dey inside bodi").
+entry(telamon, n, [telamones], "male figure wey dem dey use as supporting column").
+entry(telco, n, [telcos], "na telecommunications company").
+entry(tele, n, [teles], "television set").
+entry(telecast, v, [telecasted, telecasting, telecasts], "to broadcast by television").
+entry(telecine, n, [telecines], "di broadcasting of one movie for television").
+entry(telecom, n, [telecoms], "telecommunication").
+entry(telecomm, n, [telecomms], "telecommunicashun").
+entry(teledu, n, [teledus], "animal wey dey chop meat").
+entry(telefax, v, [telefaxed, telefaxing, telefaxes], "to transmit graphic material over telephone lines").
+entry(telefilm, n, [telefilms], "film wey dem make for television").
+entry(telega, n, [telegas], "Russian wagon").
+entry(telegony, n, [telegonies], "di belief say former male partner fit influence di pikin of di woman even after she don dey with other male partners").
+entry(telegram, v, [telegrammed, telegramming, telegrams], "to send message by telegraph").
+entry(teleman, n, [telemen], "navy officer").
+entry(telemark, n, [telemarks], "na type of turn for skiing").
+entry(teleost, n, [teleosts], "a bony fish").
+entry(telepath, n, [telepaths], "persin wey fit tok to anoda persin wit style wey no dey involve senses").
+entry(drama, n, [dramas], "play wey dem write for television").
+entry(teleport, v, [teleported, teleporting, teleports], "to carry person go another place without waka or move body").
+entry(teleran, n, [telerans], "sistem wey dem de take navigate for air").
+entry(teleshop, v, [teleshopped, teleshopping, teleshops], "to shop by interactive telecommunications systems").
+entry(telesis, n, [teleses], "progress wey dem plan am").
+entry(telestic, n, [telestics], "wan kain acrostic").
+entry(teletext, n, [teletexts], "na system wey dem dey use to send print message give people wey subscribe").
+entry(telethon, n, [telethons], "fundraising television program").
+entry(teletype, v, [teletyped,teletyping,teletypes], "to send am wit teletypewriter").
+entry(teleview, v, [televiewed,televiewing,televiews], "to look am tru television").
+entry(televised, v, [televised, televising, televises], "to dey show for television, wetin dey use electronic way dey send pictures and sound").
+entry(telework, v, [teleworked,teleworking,teleworks], "to dey work for house using electronic linkup with central office").
+```prolog
+entry(telex, v, [telexed,telexing,telexes], "to send message wit one kain telegraphic system").
+```
+entry(telfer, v, [telfered, telfering, telfers], "to telpher").
+entry(telford, n, [telfords], "road wey dem make wit stones").
+entry(telial, adj, [], "wey concern telium").
+entry(telic, adj, [], "wey dey go toward goal").
+entry(telicity, n, [telicities], "di quality of being telic").
+entry(telium, n, [telia], "na sorus wey dey on top plant wey get rust fungus").
+entry(tell, v, [told,telling,tells], "to yarn everything wellWETIN PERSON FIT YARN adj").
+entry(teller, n, [tellers], "person wey dey talk").
+entry(tellies, a, [], "pl of telly").
+entry(telltale, n, [telltales], "persin wey dey snitch").
+entry(telluric, adj, [], "wey dey relate to di earth").
+entry(telly, n, [tellys], "na TELLIESa television set").
+entry(telnet, v, [telnetted, telnetting, telnets], "or TELNETED TELNETING TELNETSto log into account on top di Internet using correct method").
+entry(telome, n, [telomes], "na structural unit of one vascular plantTELOMIC adj").
+entry(telomere, n, [telomeres], "di natural end of a chromosome").
+entry(telos, n, [teloi], "di final end").
+entry(telpher, v, [telphered, telphering, telphers], "to carry persin or tin by way wey dey like cable car").
+```prolog
+entry(telson, n, [telsons], "di last part of an insect bodyTELSONIC adj").
+```
+entry(temblor, n, [temblors], "or TEMBLORES na earthquake").
+entry(temerity, n, [temerities], "foolish boldness").
+entry(temp, v, [dem temp, dem dey temp, dem dey do temp], "to work as a temporary employee").
+entry(tempeh, n, [tempehs], "one Asian food").
+entry(temper, v, [tempered,tempering,tempers], "to calm down by putting something wey go balance am").
+entry(tempera, n, [temperas], "wan style of painting").
+entry(temperer, n, [temperers], "pesin wey dey temper tins").
+entry(tempest, v, [tempested,tempesting,tempests], "to shake well well").
+entry(tempi, a, [], "pl of tempo").
+entry(templar, n, [templars], "person wey dey do law work or dey learn law for London").
+entry(kpemeet, n, [kpemeets], "na pattern wey dem dey use as guide to make something").
+```prolog
+entry(tempu, n, [tempus], "house of worshipTEMPLED adj").
+```
+entry(templet, n, [templets], "templet").
+entry(tempo, n, [tempos], "or TEMPI di speed wey a music dey waka").
+entry(temporalskull, n, [temporals], "one bone for skull").
+entry(tempt, v, [tempted,tempting,tempts], "to make person do wetin no good or foolish act").
+entry(tempter, n, [tempters], "pesin we dey tempts").
+entry(tempura, n, [tempuras], "Japanese food").
+entry(ten, n, [tens], "one number").
+entry(tenable, adj, [], "wey fit holdTENABLY adv").
+entry(tenace, n, [tenaces], "na combination of two high cards for some card games").
+entry(tenacity, n, [tenacities], "perseverance or persistence").
+entry(tenacula, npl, [], "hook wey dem dey use for surgery").
+entry(tenail, n, [tenails], "tenaille").
+entry(tenaille, n, [tenailles], "na outer defense").
+entry(tenancy, n, [tenancies], "di temporary occupancy of something wey belong to another pesin").
+entry(tenant, v, [tenanted,tenanting,tenants], "to dey live").
+entry(tenantry, n, [tenantries], "tenancy").
+entry(tench, n, [tenches], "freshwater fish").
+```
+entry(tend, v, [tended,tending,tends], "to dey disposed or inclined").
+```
+entry(tendance, n, [tendances], "wey dem dey look person eye well well").
+entry(tendence, n, [tendences], "tendence").
+entry(tendency, n, [tendencies], "di way pesin dey act or reason for one particular way").
+entry(tender, adj, [], "TENDERER TENDERESTsoft or delicate").
+entry(tenda, v, [tenda, dey_tenda, tendas], "to present for acceptance").
+entry(tenderer, n, [tenderers], "pesin wey dey tender").
+entry(tenderly, adv, [], "in tender way").
+entry(tendon, n, [tendons], "di strong tissue band").
+entry(tendril, n, [tendrils], "na leaf wey no dey but e dey for climbing plants").
+entry(tendu, n, [tendus], "one kain Asian ebony tree").
+entry(tenebrae, npl, [], "na religious service").
+entry(tenement, n, [tenements], "na apartment house").
+entry(tenesi, n, [tenesi], "money unit for Turkmenistan").
+entry(tenesmus, n, [tenesmuses], "strong strong feel make you wan shit or piss but e no gree workTENESMIC adj").
+entry(tenet, n, [tenets], "a principle belief or doctrine wey dem dey hold as true").
+entry(tenfold, n, [tenfolds], "an amount wey be ten times more dan one givin unit").
+entry(tenge, n, [tenges], "di money wey dem dey use for Kazakhstan").
+entry(tenia, n, [tenias], "or TENIAEatapeworm").
+entry(teniasis, n, [teniases], "when person get tapeworm for body").
+entry(tenne, n, [tennes], "one orangebrown color").
+entry(tenne, n, [tennesi], "di moni we dem dey use for Turkmenistan").
+entry(tenner, n, [tenners], "ten naira note").
+entry(tennies, npl, [], "lowcut canvas").
+entry(tenis, n, [tenises], "one outdoor ball game").
+entry(tennist, n, [tennists], "pesin wey dey play tennis").
+entry(tenno, n, [tennos], "di emperor of Japan wey dem consider as god").
+entry(tenny, n, [tennies], "tenne").
+entry(tenon, v, [tenoned,tenoning,tenons], "to join wood wit piece wey dey project, wey dem dey call tenon").
+entry(tenoner, n, [tenoners], "persin wey dey fix tenon").
+entry(tenor, n, [tenors], "high male voice for singing").
+entry(tenorino, n, [tenorini], "high tenor voice").
+entry(tenorist, n, [tenorists], "persin wey dey sing tenor or dey play tenor instrument").
+entry(tenorite, n, [tenorites], "na mineral").
+entry(tenorman, n, [tenormen], "pesin wey dey play tenor saxophone").
+entry(tenotomy, n, [tenotomies], "the surgical division of a tendon").
+entry(tenour, n, [tenours], "tena").
+entry(tenpence, n, [tenpences], "di sum of ten pennies").
+entry(tenpenny, adj, [], "wos tenpence").
+entry(tenpin, n, [tenpins], "one bowling pin").
+entry(tenrec, n, [tenrecs], "one mammal wey dey chop insects").
+entry(tense, adj, [], "TENSEST TENSERtautTENSELY adv").
+entry(tens, v, [tensed, tensing, tenses], "to make you tensed").
+entry(tensible, adj, [], "fit do stretchTENSIBLY adv").
+entry(tensile, adj, [], "tensible").
+entry(tension, v, [tensioned,tensioning,tensions], "to make am tight").
+`entrance(tensity, n, [tensities], "de state wey pesin dey tense").`
+entry(tensive, adj, [], "wey dey cause tension").
+entry(tensor, n, [tensors], "muscle wey dey stretch body part").
+entry(tent, v, [tented,tenting,tents], "to live inside tent wey be portable shelter").
+entry(tentacle, n, [tentacles], "long flexibul finger wey some animals dey get").
+entry(tentage, n, [tentages], "tent wey dem dey supply").
+entry(tenter, v, [tentered, tentering, tenters], "to stretch on top cloth frame").
+entry(tent, n, [tenths], "wan out of ten equal part").
+entry(tenthly, adv, [], "for di tenth place").
+entry(tentie, adj, [], "TENTIER TENTIESTtenty").
+```
+entry(tentier, comparative, [], "of tenty").
+```
+entry(tentiest, superlative, [], "of tenty").
+entry(tentless, adj, [], "wey no get tent").
+entry(tentlike, adj, [], "dey like tent").
+entry(tentoria, npl, [], "inside skeleton of insect head").
+entry(tentpole, n, [tentpoles], "a big big movie wey dem dey hope say e go bring plenty money to cover di loss from other small movies").
+entry(tenty, adj, [], "TENTIER TENTIESTdey watch").
+entry(tenuis, n, [tenues], "one 'voiceless' sound wey e dey stop sound for mouth").
+entry(tenuity, n, [tenuities], "lack of substance or strength").
+entry(tenuous, adj, [], "e no get much substance or power").
+```prolog
+entry(tenure, v, [tenured,tenuring,tenures], "to grant tenure di status of holding one position on a permanent basis to").
+```
+entry(tenurial, adj, [], "wey get to do wit tenure").
+```prolog
+entry(tenuto, n, [tenutos], "or TENUTO na musical note or chord wey dem hold pass di regular time").
+```
+entry(teocalli, n, [teocallis], "Aztec temple").
+entry(teopan, n, [teopans], "na teokali").
+entry(teosinte, n, [teosintes], "one grass wey dey grow every year").
+entry(tepa, n, [tepas], "one chemical compound").
+entry(tepache, n, [tepaches], "one Mexican drink wey dem dey make with pineapple, brown sugar, and water").
+entry(tepal, n, [tepals], "part of di flower wey no dey sepul or petal").
+entry(tepee, n, [tepees], "conical tent wey some Native Americans dey use").
+entry(tepefy, v, [tepefied,tepefying,tepefies], "to make e dey warm small").
+entry(tephra, n, [tephras], "solid material wey comot from volcano").
+entry(tephrite, n, [tephrites], "volcanic stone").
+entry(tepid, adj, [], "moderately warmTEPIDLY adv").
+entry(tepidity, n, [tepidities], "state wey e dey lukewarm person dey").
+entry(tepoy, n, [tepoys], "teapoy").
+entry(tequila, n, [tequilas], "one kain Mexican drink").
+entry(terabyte, n, [terabytes], "one trillion bytes").
+entry(teraflop, n, [teraflops], "na way wey dem dey take measure computing speed").
+entry(terai, n, [terais], "sun hat wey get wide brim").
+entry(teraohm, n, [teraohms], "wan trillion ohms").
+entry(teraph, n, [teraphim], "na image of Semitic family god").
+entry(teratism, n, [teratisms], "pikin wey no form wellTERATOID adj").
+entry(teratoma, n, [teratomas], "or TERATOMATA na kain tumor").
+entry(terawatt, n, [terawatts], "one trilion watt").
+entry(terbia, n, [terbias], "na oxide of terbium").
+entry(terbium, n, [terbiums], "one metallic elementTERBIC adj").
+entry(terce, n, [terces], "tierce").
+entry(tercel, n, [tercels], "na male hawk").
+entry(tercelet, n, [tercelets], "tercel").
+entry(tercet, n, [tercets], "na di group of three lines for poem").
+entry(terebene, n, [terebenes], "na mixture of terpenes").
+entry(terebic, adj, [], "wey get to do wit acid wey dem comot from oil of turpentine").
+entry(teredo, n, [teredos], "na TEREDINES, a bivalve mollusk").
+entry(terefah, adj, [], "tref").
+entry(teres, n, [teretes], "one of two muscules wey dey help rotate arm").
+entry(terete, adj, [], "cylindrical and small small dey reduce").
+entry(tergal, adj, [], "wey concern tergum").
+entry(tergite, n, [tergites], "one tergum").
+entry("tergum", n, ["terga"], "di back part of a segment of one arthropod").
+entry(teriyaki, n, [teriyakis], "na Japanese food").
+entry(term, v, [termed, terming, terms], "to give am name").
+entry(termer, n, [termers], "person wey dey prison, dey serve specific time").
+entry(terminal, n, [terminals], "one end or extremity").
+entry("terminer", n, ["terminers"], "wan kain court wey dey for some states").
+entry(terminus, n, [terminuses], "or TERMINIa terminal").
+entry(termait, n, [termaits], "insect wey resemble ant TERMITIC adj").
+entry(withoutlimit, adj, [], "im no get limit").
+entry(termly, adv, [], "periodically").
+entry(termor, n, [termors], "person wey dey hold land for some years").
+entry(termtime, n, [termtimes], "di time wen school or court dey for session").
+entry(tern, n, [terns], "na seabird").
+entry(trynary, n, [trynaries], "group of three things").
+entry(ternate, adj, [], "wey dem arrange for group of three").
+entry(terne, n, [ternes], "alloy of lead and tin").
+entry(ternion, n, [ternions], "group of three").
+entry(terpene, n, [terpenes], "di chemical compound Wey dem dey call TERPENIC adj").
+entry(terpinol, n, [terpinols], "one sweet-smelling liquid").
+entry(terra, n, [terrae], "earth land").
+entry(terrace, v, [terraced, terracing, terraces], "to give terrace a raised embankment").
+entry(terrain, n, [terrains], "a piece of land").
+entry(terrane, n, [terranes], "one kain rock formation").
+entry(terrapin, n, [terrapins], "one North American tortoise").
+entry(terraria, npl, [], "glass houses for plants or small animals").
+entry(terras, n, [terrases], "trass").
+entry(terrasse, n, [terrasse], "one area for outside French cafe wey dem don floor am").
+entry(terrazzo, n, [terrazzos], "mosaic flooring").
+entry(terreen, n, [terreen dem], "terrine").
+entry(terrella, n, [terrellas], "wan round magnet").
+entry(terrene, n, [terrenes], "land area").
+entry(terret, n, [terrets], "metal ring wey dey harness").
+entry(terrible, adj, [], "very badTERRIBLY adv").
+entry(terrier, n, [dem terriers], "one small active dog").
+entry(terries, pl, [], "of terry").
+entry(terrific, adj, [], "very good fine").
+entry(terrify, v, [terrified, terrifying, terrifies], "to make person fear fear").
+entry(terrine, n, [terrines], "a clay pot").
+entry(territ, n, [territs], "terret").
+entry(terroir, n, [terroirs], "di combination of factors wey dey give wine grapes dia distinctive character").
+entry(terror, n, [terrors], "serious fear").
+entry(terry, n, [terries], "wetin dey soak water well well").
+entry(terse, adj, [], "TERSER TERSESTkonkisaTERSELY adv").
+entry(tertial, n, [tertials], "di flight feather for birds wing").
+entry(tertian, n, [tertians], "fever wey de come back again").
+entry(taishary, n, [taisharies], "one tertial").
+entry(terzetto, n, [terzettos], "or TERZETTIa vocal or instrumental trio").
+entry(tesla, n, [teslas], "di unit wey dem dey take measure magnetic force").
+entry(tessera, n, [tesserae], "one small square wey dem dey use for mosaic workTESSERAL adj").
+entry(test, v, [don_test, dey_test, dey_test_now], "to check by exam.TESTABLE adj").
+entry(testa, n, [testae], "di hard outside cover of seed").
+entry(testacy, n, [testacies], "di state of having left a will wen persin die").
+entry(testate, n, [testates], "persin wey write will").
+entry(testator, n, [testators], "person wey dey do will").
+entry(person wey dem dey test, n, [people wey dem dey test], "one person wey dem dey test").
+entry(testa, n, [testas], "persin wey dey test").
+entry(testes, pl, [], "of testis").
+entry(bel-ful, n, [two bel-ful], "one oga bel-ful").
+entry(testier, comparative, [], "wey pass testy").
+entry(testiest, superlative, [], "of testy").
+entry(testify, v, [testified,testifying,testifies], "to yan truth for court under oga of law").
+entry(testily, adv, [], "in a testy way").
+entry(testing, n, [testings], "di act of check pesin dem through exam").
+entry(testis, n, [testes], "male reproductive gland").
+entry(teston, n, [testons], "one former French coin").
+entry(testoon, n, [testoons], "teston").
+entry(testudo, n, [testudos], "or TESTUDINES na portable screen wey dem dey use as shield by ancient Romans").
+entry(testy, adj, [], "TESTIER TESTIESTRestless").
+entry(tet, n, [tet], "teht").
+entry(tetanal, adj, [], "wey dey pertain to tetanus").
+entry(tetanic, n, [tetanics], "medicine wey fit make pesin body dey shake").
+entry(tetanies, pl, [], "wey get tetany").
+entry(tetanise, v, [tetanised,tetanising,tetanises], "to tetanize").
+entry(tetanize, v, [tetanized,tetanizing,tetanizes], "to dey affect wit convulsions").
+entry(tetanus, n, [tetanuses], "na infectious diseaseTETANOID adj").
+entry(tetani, n, [tetanies], "na condition wey dey cause painful muscle spasm").
+```prolog
+entry(tetched, adj, [], "craze").
+```
+entry(tetchy, adj, [], "TETCHIER TETCHIESTIritableTETCHILY adv").
+entry(teth, n, [teths], "one Hebrew letter").
+entry(wire, v, [wired,wiring,wires], "to fasten to a fixed object with a rope").
+entry(tetotum, n, [tetotums], "teetotum").
+entry(tetra, n, [tetras], "na fish wey dey for tropics").
+entry(tetracid, n, [tetracids], "one kain acid").
+```
+entry(tetrad, n, [tetrads], "group of fourTETRADIC adj").
+```
+entry(tetragon, n, [tetragons], "polygon wey get four side").
+entry(tetramer, n, [tetramers], "one kain polymer").
+entry(tetrapod, n, [tetrapods], "animal wey get four leg").
+entry(tetrarch, n, [tetrarchs], "one of four joint rulers").
+entry(tetri, n, [tetris], "na money unit of di Republic of Georgia").
+entry(tetrode, n, [tetrodes], "one kain electron tube").
+entry(tetrose, n, [tetroses], "one sugar wey e molecules get four carbon atoms").
+```prolog
+entry(tetroxid, n, [tetroxids], "wan kain oxide").
+```
+entry(tetryl, n, [tetryls], "one kain chemical compound").
+entry(tetter, n, [tetters], "disease wey dey affect skin").
+entry(teuch, adj, [], "teugh").
+entry(teugh, adj, [], "toughTEUGHLY adv").
+entry(tevatron, n, [tevatrons], "one particle accelerator").
+entry(tew, v, [tewed, tewing, tews], "to worc hard").
+entry(texas, n, [texases], "di top part of a steamboat").
+entry(text, v, [texted,texting,texts], "to send message from one phone to anoda phone").
+entry(tɛkstbuk, n, [tɛkstbuks], "buk wey dem dey use for study of one subject").
+entry(texter, n, [texters], "pesin wey dey text").
+entry(textile, n, [textiles], "woven cloth").
+```prolog
+entry(notext, adj, [], "e no get text"). 
+```
+entry('textual', adj, [], "wey concern text").
+entry(bible-expert, n, [bible-experts], "person wey sabi Bible well well").
+entry(textural, adj, [], "de way something surface be").
+entry(texture, v, [textured,texturing,textures], "to make by weaving").
+entry(thack, v, [thacked,thacking,thacks], "to put zinc for roof").
+```prolog
+entry(thae, adj, [], "dis dos").
+```
+entry(thairm, n, [thairms], "tharm").
+entry(thalamus, n, [thalami], "na one part of the brainTHALAMIC adj").
+entry(thaler, n, [thalers], "taler").
+entry(thali, n, [thalis], "na platter wey dem dey serve food for India").
+entry(thallium, n, [thalliums], "na metallic elementTHALLIC THALLOUS adj").
+entry(thallus, n, [thalluses], "or THALLI plant body wey no get true root stem or leaf THALLOID adj").
+entry(thalweg, n, [thalwegs], "di line wey dey define di lowest points along di length of a riverbed").
+entry(than, conj, [], "wey dem dey use to introduce di second tin for comparison").
+entry(thanage, n, [thanages], "land wey thane de hold").
+entry(thanatos, n, [thanatoses], "one kain natural desire wey person get for die").
+entry(thane, n, [thanes], "man wey get land by military service for Anglo-Saxon England").
+entry(thanedom, n, [thanedoms], "the place wey thane dey rule").
+entry("thank", "v", ["thank", "dey thank", "dey thank"], "to show say you happy for something person do").
+entry(thanker, n, [thankers], "persin wey sabi thank").
+entry(thankful, adj, [], "THANKFULLER THANKFULLESTdey feel gratitude").
+entry(belle, n, [belles], "di belle").
+entry(dat, pron, [dose], "di one we dem point").
+entry(thataway, adv, [], "for dat side").
+```prolog
+entry(tatch, v, [tatched,tatching,tatches], "to cover with tatch plant stalks or foliage").
+```
+entry(thatcher, n, [thatchers], "persin wey dey do tatchin").
+entry(thatchy, adj, [], "THATCHIER THATCHIEST wey be like thatch").
+entry(thaw, v, [thawed, thawing, thaws], "to turn to water").
+entry(thawer, n, [thawers], "person wey dey make tin melt").
+entry(defrost, n, [defrosts], "when ice block dey turn to water").
+entry(thawless, adj, [], "we no go ever thaw").
+entry(the, definite, [], "article wey dem dey use to specify or make something particular").
+entry(thearchy, n, [thearchies], "wey god dey rule").
+entry(treata, n, [treatas], "place wey dem dey use act dramaTHEATRIC adj").
+entry(teata, n, [teatas], "teata").
+entry(thebaine, n, [thebaines], "one konkon poison alkaloid").
+entry(thebe, n, [thebes], "di money unit for Botswana").
+```
+entry(theca, n, [thecae], "protective cover wey dey protect bodyTHECAL THECATE adj").
+```
+entry(thee, pron, [], "di objective case of di pronoun thou").
+entry(theelin, n, [theelins], "estrone").
+entry(theelol, n, [theelols], "estriol").
+entry(thief, n, [thieves], "di act of tiff").
+entry(thegn, n, [thegns], "thaneTHEGNLY adj").
+entry(thein, n, [theins], "theine").
+entry(theine, n, [theines], "kafein").
+entry(dem, adj, [], "wey belong to dem").
+entry(theirs, pron, [], "di possessive form of di pronoun dem").
+entry(theism, n, [theisms], "belief say god de exist").
+entry("persin wey biliv sey god dey", n, ["people wey dem biliv sey god dey"], "persin wey biliv in dey existence of godTHEISTIC adjective").
+entry(thelitis, n, [thelitises], "nipple dey hot well well").
+entry(dem, pron, [], "di objective case of di pronoun dem").
+entry(thematic, n, [thematics], "stamp wey dem collect based on di subject").
+entry(theme, v, [themed,theming,themes], "to plan sometin according to a central subject").
+entry(demself, pron, [], "persin wen dem no kno dem sex").
+entry(then, n, [thens], "dat time").
+entry(thenage, n, [thenages], "thanage").
+entry(thenal, adj, [], "de one wey concern di palm of di hand").
+entry(thenar, n, [thenars], "di palm for hand").
+entry(thence, adv, [], "from dat place").
+entry(theocrat, n, [theocrats], "person wey dey rule as representative of god").
+entry(theodicy, n, [theodicies], "defense of God's goodness for existence of evil").
+```
+entry(theogony, n, [theogonies], "story of how gods take start").
+```
+entry(theolog, n, [theologs], "person wey dey study theology").
+entry(theology, n, [theologies], "di study of religion").
+entry(deonomy, n, [deonomies], "rule by god").
+entry(theorbo, n, [theorbos], "one kain stringed music instrument").
+entry(theorem, n, [theorems], "waka wey dem don show say e true or people dey assume say e true").
+entry(theories, pl, [], "of theory").
+entry(theorise, v, [theorised, they theorise, they theorize], "to dey reason am").
+entry('persin wey dey form theory', n, ['persins wey dey form theory'], "persin wey dey make theory").
+entry(theorize, v, [theorized,theorizing,theorizes], "to form theories").
+entry(tiori, n, [tioris], "group of propositions wey dem dey use explain a class of phenomena").
+entry(therapy, n, [therapies], "di treatment of sickness or disability").
+entry(dia, n, [dia], "dat place").
+entry(thereat, adv, [], "for dat place or time").
+entry(thereby, adv, [], "na so e take happen").
+entry(therefor, adv, [], "na why").
+entry(dia, adv, [], "for dat place").
+entry(theremin, n, [theremins], "one musik instrument").
+entry(thereof, adv, [], "of dat").
+entry(thereon, adv, [], "on top that").
+entry(thereout, adv, [], "comot for there").
+entry(dia, adv, [], "to dat").
+entry(theriac, n, [theriacs], "molasses").
+entry(theriaca, n, [theriacas], "theriac").
+entry(therian, n, [therians], "any of a subclass of mammals").
+entry(therm, n, [therms], "one unit wey dey measure heat").
+entry(thermae, npl, [], "hot spring dem").
+entry(thermal, n, [thermals], "na warm air wey dey rise").
+entry(therme, n, [thermes], "therm").
+entry(thermel, n, [thermels], "instrument wey dey measure temperature").
+entry(thermic, adj, [], "wey concern heat").
+entry(thermion, n, [thermions], "ion wey heat bodi release").
+entry(thermite, n, [thermites], "one kain metallic mixture wey dey produce serious heat when you light am").
+entry(thermos, n, [thermoses], "container wey dem dey use keep liquids either hot or cold").
+entry(theroid, adj, [], "somtin wey be like animal").
+entry(theropod, n, [theropods], "one dinosaur wey dey chop meat").
+entry(thesauri, npl, [], "dictionaries of synonyms and antonyms").
+entry(dis, pl, [], "of dis").
+entry(thesis, n, [theses], "na sometin wey dem bring out make people talk about am").
+entry(thesp, n, [thesps], "person wey dey act").
+entry(thespian, n, [thespians], "person wey dey act for film or stage").
+entry(theta, n, [thetas], "one Greek letter").
+entry(thetic, adj, [], "arbitrary").
+entry(thetical, adj, [], "thetic").
+entry(theurgy, n, [theurgies], "holy pipu or spirits wey dey influence human mataTHEURGIC adj").
+entry(thew, n, [thews], "muscle wey strong well well").
+entry(thewless, adj, [], "weak").
+entry(thewy, adj, [], "BIGGAPASS BIGGAPASS-ALLbrawny").
+entry(they, pron, [], "di 3rd person plural pronoun wey dey for subject position").
+entry(thiamin, n, [thiamins], "thiamine").
+entry(thiamine, n, [thiamines], "one B vitamin").
+```prolog
+entry(thiazide, n, [thiazides], "medicine wey dem dey use treat high blood pressure").
+```
+entry(thiazin, n, [thiazins], "thiazine").
+entry(thiazine, n, [thiazines], "na chemical compound").
+entry(thiazol, n, [thiazols], "thiazole").
+entry(thiazole, n, [thiazoles], "one chemical compound").
+entry(tik, adj, [], "TIKER TIKEST e get beta size from one side go di oda side").
+entry(gbó, n, [gbos], "di fatest part").
+entry(thicken, v, [thickened, thickening, thickens], "to make am thick").
+entry(thicket, n, [thickets], "a bushy place wit plenty small small treesTHICKETY adj").
+entry(thickish, adj, [], "somehow thick").
+entry(tikili, adv, [], "in a way wey tick wella").
+entry(thickset, n, [thicksets], "many bush").
+entry(tief, n, [tiefs], "persin wey dey steal").
+entry(tif, v, [tifed,tifing,tifs], "to tiff").
+entry(stealing, n, [stealings], "di act or way of stealing").
+entry(thievish, adj, [], "person wey like to tiff").
+entry(thigh, n, [thighs], "na part of di legTHIGHED adj").
+entry(thill, n, [thills], "na shaft for moto").
+```prolog
+entry(thimble, n, [thimbles], "small cap wey dem dey use protect finger tip when pesin dey sew").
+```
+entry(tin, adj, [], "TINNAST TINNESTwey no get too much thickness or fatness").
+entry(thin, v, [thinned,thinning,thins], "to make am thin").
+entry(thinclad, n, [thinclads], "person wey dey run for track team").
+```prolog
+entry(thindown, n, [thindowns], "na di reducen for number of atomic particles and cosmic rays wey dey pass through earth atmosphere").
+```
+entry(thine, pron, [], "na possessive form of the pronoun thou").
+entry(tin, n, [tins], "somtin wey no get life").
+entry(thingy, n, [thingies], "somtin wey we no sabi im name or we don forget im").
+entry(think, v, [thought,thinking,thinks], "to dey form am for mind").
+entry(thinka, n, [thinkas], "persin wey dey think").
+entry(thinking, n, [thinkings], "na opinion or judgment").
+entry(thinly, adv, [], "na like say e thin").
+entry(thinned, past, [], "tense of thin").
+entry(thinner, n, [thinners], "wetin dey make thin").
+entry(tinness, n, [tinnesses], "di quality or state of being tin").
+entry(thinnest, superlative, [], "of thin").
+entry(thinning, present, [], "participle of thin").
+entry(thinnish, adj, [], "somehow thin").
+entry(thio, adj, [], "wey get sulphur").
+entry(thiol, n, [thiols], "na sulfur compound THIOLIC adj").
+entry(thionate, n, [thionates], "one chemical salt").
+entry(thionic, adj, [], "wey dey consan sulfur").
+entry(thionin, n, [thionins], "one violet dye").
+entry(thionine, n, [thionines], "thionin").
+entry(thionyl, n, [thionyl-dem], "sulfinyl").
+entry(thiophen, n, [thiophens], "na chemical compound").
+entry(thiotepa, n, [thiotepas], "one chemical compound").
+entry(thiourea, n, [thioureas], "one chemical compound").
+entry(thir, pron, [], "dis dem").
+entry(thiram, n, [thirams], "one chemical compound").
+entry(third, n, [thirds], "wan out of three equal parts").
+entry(thirdly, adv, [], "for di third place").
+entry(thirl, v, [thirled,thirling,thirls], "to dey thrill").
+entry(thirlage, n, [thirlages], "wetin dey make feudal tenants grind grain for one particular mill").
+entry("thirst", v, ["thirsted", "thirsting", "thirsts"], "to dey feel say you wan drink somtin").
+entry(thirster, n, [thirsters], "person wey dey thirst").
+entry(thirsty, adj, [], "THIRSTIER THIRSTIESTfeeling say you wan drink water").
+entry(tirteen, n, [tirtins], "na number").
+entry(thirty, n, [thirties], "na number").
+entry(this, pron, [these], "di person or tin we dem just mention").
+entry(disway, adv, [], "dis way").
+entry(thistle, n, [thistles], "one kind plant wey get prickle").
+entry(thistly, adj, [], "THISTLIER THISTLIESTwey e dey prickly").
+entry(thither, adv, [], "for dat direction").
+entry(tho, conj, [], "even though").
+entry(thole, v, [tholed,tholing,tholes], "to dey endure").
+entry(tholepin, n, [tholepins], "na pin wey dey serve as oarlock").
+entry(tholos, n, [tholoi], "na circular underground tomb").
+entry(thong, v, [thonged,thonging,thongs], "to flog wit whip").
+```
+entry(thongy, adj, [], "THONGIER THONGIEST e be like cloth wey dem make with narrow strip of fabric").
+```
+entry(torax, n, [toraxes], "or TORACSthe part of di body wey dey between di nek and di belleTORACAL TORASIC adj").
+entry(thoria, n, [thorias], "one kain oxide wey dem dey call thorium").
+entry(thoric, adj, [], "wey dey relate to thorium").
+entry(thorite, n, [thorites], "one kin thorium ore").
+entry(thorium, n, [thoriums], "na metallic element").
+entry(tọn, v, [tọned,tọning,tọns], "to pierce wit tọn wey sharp rugged projection dey for plant").
+entry(thorny, adj, [], "THORNIER THORNIESTfull of thornsTHORNILY adv").
+entry(thoro, adj, [], "thorough").
+entry(thoron, n, [thorons], "one radioactive isotope of radon").
+entry("thorough", "adj", [], "THOROUGHER THOROUGHESTcomplete in all respects").
+entry(thorp, n, [thorps], "small village").
+entry(thorpe, n, [thorpes], "thorp").
+entry(dem, pl, [], "of dat").
+entry(thou, v, [thoued,thouing,thous], "to dey call pesin 'thou', na the 2nd person sing pronoun for nominative case").
+entry(though, conj, [], "despite the fact sey").
+entry(thought, n, [thoughts], "wetin person dey think").
+entry(thousand, n, [thousands], "na number").
+entry(thowless, adj, [], "listless").
+entry(thraldom, n, [thraldoms], "servitude").
+entry(thrall, v, [thralled,thralling,thralls], "to make pesin slave").
+entry(toras, v, [torased,torasing,torases], "to beat").
+entry(thrasher, n, [thrashers], "person wey dey thrash").
+entry(thrashy, adj, [], "THRASHIER THRASHIESTe dey show say e be style of fast loud punkrock music").
+entry(thrave, n, [thraves], "na measure for grain").
+entry(thraw, v, [thrawed, thrawing, thraws], "to turn am").
+entry(thrawart, adj, [], "stobbon").
+entry(thrawn, adj, [], "twistedLY adverb").
+entry(thread, v, [threaded,threading,threads], "to pass thread, like tiny rope, inside").
+entry(threader, n, [threaders], "persin wey dey thread").
+entry(thready, adj, [], "E resemble thread pass THREADIER THREADIEST").
+entry(threap, v, [threaped,threaping,threaps], "to argue").
+entry(threaper, n, [threapers], "person wey dey threap").
+entry(risk, v, [risked,riskin,risks], "to dey threaten").
+entry(threaten, v, [threatened,threatening,threatens], "to fit cause wahala or danger to").
+entry(three, n, [threes], "one number").
+entry(threep, v, [threeped,threeping,threeps], "to threap").
+entry(threnode, n, [threnodes], "threnody").
+entry(threnody, n, [threnodies], "song wey person dey sing when e dey mourn").
+entry(thresh, v, [threshed,threshing,threshes], "to separate the grain or seeds from a plant mechanically").
+entry(thresher, n, [threshers], "pesin wey de thresh").
+entry(throway, past, [], "tense of throw").
+entry(thrice, adv, [], "three times").
+entry(thrift, n, [thrifts], "sense and sabi to manage pesin property well well").
+entry(thrifty, adj, [], "THRIFTIER THRIFTIESTdEy show thrift").
+entry(thrill, v, [thrilled, thrilling, thrills], "to make person dey very happi or feel excitement").
+entry(thriller, n, [thrillers], "one wey dey thrill").
+entry(thrip, n, [thrips], "one British money").
+entry(thrive, v, [thrived, thriven, thriving], "THRIVEto grow viguriously").
+```prolog
+entry(thriver, n, [thrivers], "person wey dey thrive well well").
+```
+entry(thro, prep, [], "through").
+```prolog
+entry(troot, v, [trooted,trootin,troots], "to dey talk for horse voice").
+```
+entry(throaty, adj, [], "THROATIER THROATIESTHoarse").
+entry(throb, v, [throbbed,throbbing,throbs], "to dey pulsate").
+entry(throbber, n, [throbbers], "persin wey dey throb").
+entry(throe, n, [throes], "serious pain wey dey shake person body").
+entry(thrombin, n, [thrombins], "na enzyme").
+entry(thrombus, n, [thrombi], "clot wey dey block blood vessel").
+entry(throne, v, [sitdon, dey, sitdons], "to put pesin for throne wey be royal chair").
+entry(throng, v, [thronged,thronging,throngs], "to pack jam inside").
+entry(throstle, n, [throstles], "one kain bird wey dey sing").
+entry(throttle, v, [choke, chokin, chokes], "to strangle").
+entry(through, prep, [], "na by way of").
+entry(throve, a, [], "past tense of thrive").
+entry(trow, v, [trow, trown, trowing], "TROWna to fling somtin for air wit arm movement").
+entry(trower, n, [trowers], "pesin wey de trow").
+entry(thru, prep, [], "thru").
+entry(thrum, v, [thrummed,thrumming,thrums], "to dey play string instrument anyhow or just dey repeat am").
+```prolog
+entry(thrummer, n, [thrummers], "pason wey dey thrum").
+```
+entry(thrummy, adj, [], "THRUMMIER THRUMMIESTshaggy").
+entry(thruput, n, [thruputs], "di amount of raw material wey dem process within di time wey dem talk").
+entry(thrush, n, [thrushes], "one kain bird wey dey sing").
+entry(thrust, v, [thrusted,thrusting,thrusts], "to push forcibly").
+entry(thruster, n, [thrusters], "somtin wey dey push go front").
+entry(thrustor, n, [thrustors], "thruster").
+entry(thruway, n, [thruways], "na express expressway roads").
+entry(thud, v, [thud, thud, thud], "to make dull heavy sound").
+```prolog
+entry(thug, n, [thugs], "person wey dey brutal or kill people"). 
+```
+entry(thuggee, n, [thuggees], "thuggery for India").
+entry(thuggery, n, [thuggeries], "how thug dem dey behave").
+entry(thuggish, adj, [], "wey be like thug").
+entry(thuja, n, [thujas], "na evergreen tree or shrub").
+entry(thulia, n, [thulias], "na oxide of thulium").
+entry(thulium, n, [thuliums], "one metallic element").
+entry(tomb, v, [tombed,tombing,tombs], "to leaf through with the thumb the short thick digit of the human hand").
+```prolog
+entry(thumbkin, n, [thumbkins], "na screw wey you fit turn with thumb and fingers").
+```
+```prolog
+entry(thumbnut, n, [thumbnuts], "na nut wey person dey turn wit thumb an fingers").
+```
+entry(thump, v, [thumped,thumping,thumps], "to knock person or somtin wey go make gbam gbam sound").
+entry(thumper, n, [thumpers], "na person wey dey thump").
+entry(thunder, v, [thundered,thundering,thunders], "to make loud sound wey dey echo").
+entry(thundery, adj, [], "dey follow thunder waka").
+entry(thunk, v, [thunked, thunking, thunks], "to make a sudden muffled sound").
+entry(thurible, n, [thuribles], "one kind container wey dem dey burn incense").
+entry(thurifer, n, [thurifers], "person wey dey carry incense burner for religious ceremony").
+entry(thurl, n, [thurls], "di hip joint inside cattle").
+entry(thus, adv, [], "na dis kain way").
+```prolog
+entry(na-so, adv, [], "na so").
+```
+entry(thuya, n, [thuyas], "thuja").
+entry(thwack, v, [thwacked,thwacking,thwacks], "to strike with something flat").
+entry(thwacker, n, [thwackers], "person wey dey beat");
+entry(thwart, v, [thwarted, thwarting, thwarts], "to stop pesin or sometin from happen").
+entry(thwarter, n, [thwarters], "person wey dey stop something from happun").
+```prolog
+entry(thwartly, adv, [], "athwart").
+```
+entry(thy, adj, [], "wey dey belong to thou").
+entry(thyme, n, [thymes], "one sweet-smelling leaf").
+```prolog
+entry(thymey, adj, [], "THYMIER THYMIESTthymy").
+```
+entry(thymi, a, [], "pl of thymus").
+entry(thymic, adj, [], "wey concern thyme").
+entry(thymier, comparative, [], "wey get plenty thyme pass other join").
+entry(thymiest, superlative, [], "wey dey be like thymey and thymy").
+entry(thymine, n, [thymines], "one chemical compound").
+entry(thymol, n, [thymols], "one chemical compound").
+entry(thymoma, n, [thymomas], "or THYMOMATA na growth wey dey comot from thymus tissue").
+entry(thymosin, n, [thymosins], "one hormone wey di thymus dey secrete").
+entry(timus, n, [timuses], "or THYMIa gland wen dey body").
+entry(thymy, adj, [], "FULOP TIYM TIYMESTabondi wit thyme").
+entry(thyreoid, adj, [], "wey concern di thyroid").
+entry(thyroid, n, [thyroids], "one endocrine gland").
+entry(thyroxin, n, [thyroxins], "one amino acid").
+entry(thyrse, n, [thyrses], "thyrsus").
+entry(thyrsus, n, [thyrsi], "one kind flower clusterTHYRSOID adj").
+entry(yourself, pron, [], "yourself").
+entry(ti, n, [tis], "di seventh tone for di diatonic musical scale").
+entry(tian, n, [tians], "big oval pot for cooking").
+entry(tiara, n, [tiaras], "one kin crown wey women dey wear for head, wey get jewelTIARAED adj").
+entry(tibia, n, [tibias], "or TIBIA 'bone for leg' TIBIAL adj").
+entry(tibialis, n, [tibiales], "muscle for leg calf area").
+entry(tic, v, [ticced,ticcing,tics], "to dey get involuntary muscle contraction").
+entry(tical, n, [ticals], "na old Thai unit of weight").
+entry(tick, v, [ticked,ticking,ticks], "to make a recurrent clicking sound").
+entry(tika, n, [tikas], "wan wey de tick").
+entry(tiket, v, [tiketd,tiketin,tikets], "to attach tag to").
+entry(ticking, n, [tickings], "strong cotton cloth").
+entry(ticklace, n, [ticklaces], "wan kain small seabird weh dem dey call ticklace").
+```prolog
+entry(tickle, v, [tickled,tickling,tickles], "to touch lightly so as to produce a tingling sensation").
+```
+entry(tickler, n, [ticklers], "pesin wey dey tickle").
+entry(ticklish, adj, [], "sensitive to tickling").
+entry(tickly, adj, [], "TICKLIER TICKLIESTwey dey tickle").
+entry(tickseed, n, [tickseed dem], "one flowering plant").
+entry(ticktack, v, [ticktacked,ticktacking,ticktacks], "to dey ticktock").
+entry(ticktock, v, [ticktocked, ticktocking, ticktocks], "to make di ticking sound of a clock").
+entry(tictac, v, [tictacked, tictacking, tictacs], "to dey ticktock").
+entry(tictoc, v, [tictocked,tictocking,tictocs], "to de ticktock").
+entry(tidal, adj, [], "wey concern di tidesTIDALLY adv").
+entry(tidbit, n, [tidbits], "one small beta chop").
+entry(tiddler, n, [tiddlers], "one small fish").
+entry(tiddly, ajd, [], "SMOSMO DRUNK").
+entry(tide, v, [tided,tiding,tides], "to flow like the tide way ocean water dey rise and fall").
+entry(tideland, n, [tidelands], "land wey tide dey cover and uncover").
+entry(tideless, adj, [], "e no get tide").
+entry(tidelike, adj, [], "wey be like tide").
+entry(tideline, n, [tidelines], "line wey dey for shore wey show di highest point wey tide don reach").
+entry(tidemark, n, [tidemarks], "mark wey show di highest or lowest point of water level").
+entry(tiderip, n, [tiderips], "na riptide").
+entry(tideway, n, [tideways], "one tidal channel").
+entry(tidied, past, [], "tense of tidy").
+entry(tidier, n, [tidiers], "pesin wey dey arrange tins").
+entry(tidies, present, [], "3rd person sing of tidy").
+entry(tidiest, superlative, [], "of tidy").
+entry(tidily, adv, [], "in a tidy manner").
+entry(taidines, n, [taidinens], "the state of being wey pesin dey arrange well").
+entry(tiding, n, [tori], "one news").
+entry(tidy, adj, [], "MORE TIDY MOST TIDYneat and orderly").
+entry(klean, v, [kleaned,kleanning,kleans], "to make klean").
+entry(tidytips, n, [tidytips], "one kain annual herb").
+entry(tie, v, [], "TIE TIE FOR TIEING or TIED TIE to tie with rope or cord").
+entry(tieback, n, [tiebacks], "na loop wey dem dey use hold curtain for one side").
+entry(tiebreak, n, [tiebreaks], "na competition to choose winner from people wey get the same score").
+entry(tieclasp, n, [tieclasps], "tok wey dem dey use hold necktie").
+entry(tied, past, [], "wetin tie be for past tense").
+entry(tie, a, [], "di present participle of tie").
+entry(tieless, adj, [], "no get necktie").
+entry(tiepin, n, [tiepins], "pin wey dem dey use hold necktie").
+entry(tier, v, [tiered,tiering,tiers], "to arrange di tins for tier, one row above another").
+entry(tierce, n, [tierces], "wan of di seven di time dem dey pray and do devotion for di day").
+entry(tierced, adj, [], "divided into three equal parts").
+entry(tiercel, n, [tiercels], "tercel").
+entry(tiff, v, [dey_tiff,dey_tiffing,dey_tiff], "to get small wahala").
+entry(tiffany, n, [tiffanies], "one thin mesh fabric").
+entry(tiffin, v, [tiffined, tiffining, tiffins], "to chop lunch").
+entry(tiger, n, [tigers], "big big cat like lion wey get line line for body").
+entry(tigereye, n, [tigereyes], "one gemstone").
+entry(tigerish, adj, [], "like tiger").
+entry(tight, adj, [], "TIGHTER TIGHTESTfirmly or closely fixed in placeTIGHTLY adv").
+entry(tighten, v, [tightened,tightening,tightens], "to make am tight").
+entry(tights, npl, [], "clothe wey dey tight for body").
+entry(tightwad, n, [tightwads], "pesin we no dey like spend moni").
+entry(tiglon, n, [tiglons], "di pikin wey male tiger and female lion born").
+entry(tignon, n, [tignons], "cloth wey dem dey tie for head for Louisiana").
+entry(tigon, n, [tigons], "tiglon").
+entry(tigress, n, [tigresses], "female okpa tigga").
+entry(tigrish, adj, [], "like tiger").
+entry(tike, n, [tikes], "tyke").
+entry(tiki, n, [tikis], "wood or stone image of Polynesian god").
+entry(tikka, n, [tikkas], "na Indian food wey dem cook meat for stick").
+entry(til, n, [tils], "di sesame plant").
+entry(tilak, n, [tilaks], "mark wey dem dey wear for forehead by Hindu people").
+entry(tilapia, n, [tilapias], "di kontri fish").
+entry(tilbury, n, [tilburies], "na carriage wey get two wheel").
+entry(tilde, n, [tildes], "mark wey dem dey put on top letter to show how e dey sound").
+entry(tile, v, [tiled, tiling, tiles], "to cover with tiles thin slabs of baked clay").
+entry(tilefish, n, [tilefishes], "na fish wey dem dey chop for sea").
+entry(tilelike, adj, [], "e resemble tile").
+entry(tiler, n, [tilers], "persin wey dey lay tiles").
+```
+entry(tiling, n, [tilings], "place wey tiles dey full ground").
+```
+entry(till, v, [tilled,tilling,tills], "to prepare land for crops by plowingTILLABLE adj").
+entry(tillage, n, [tillages], "land wey dem don farm").
+entry(tiller, v, [tillered, tillering, tillers], "to dey grow stem from root").
+entry(tillite, n, [tillites], "rok wey dem make from clay sand gravel and big stone wey dem press together").
+entry(tilt, v, [tilted,tilting,tilts], "to cause to slantTILTABLE adj").
+entry(tilter, n, [tilters], "pesin wey dey tilt").
+entry(tilth, n, [tilths], "wakawaka di farm").
+entry(tiltyard, n, [tiltyards], "place wey dem dey do jousting competition").
+entry(timarau, n, [timaraus], "tamarau").
+entry(timbal, n, [timbals], "one big drum").
+entry(timbale, n, [timbales], "pastry wey get shape like drum").
+entry(timber, v, [timbered,timbering,timbers], "to furnish wit timber wood wey dem dey use as building materialTIMBERY adj").
+entry(timbre, n, [timbres], "di quality wey sound get because of im overtonesTIMBRAL adj").
+entry(timbrel, n, [timbrels], "na instrument wey you dey beat").
+entry(time, v, [timed,timing,times], "to find how fast or long something be").
+entry(timecard, n, [timecards], "na card wey dem dey use record employee time when e take come and when e take comot").
+entry(timeless, adj, [], "wey no get beginning or end").
+entry(timeline, n, [timelines], "na schedule of events").
+entry(timely, adj, [], "TIMELIER TIMELIESThappen for di correct time").
+Prolog: entry(taimly, adj, [], "timely").
+entry(timeout, n, [timeouts], "short time wey things go pause small").
+entry("time-keeper", n, ["time-keepers"], "one weh dey calculate time").
+entry(timework, n, [timeworks], "work wey dem dey pay per hour or per day").
+entry(old, adj, [], "de show di effects of long use or wear").
+entry(timid, adj, [], "TIMIDER TIMIDESTlack courage or selfconfidenceTIMIDLY adv").
+entry(timidity, n, [timidities], "di quality of being shy").
+entry(timing, n, [timings], "di select of di proper time wey person go do somtin").
+entry(timolol, n, [timolols], "na drug wey dem dey use treat glaucoma").
+entry(timorous, adj, [], "fearful").
+entry(timothy, n, [timothies], "one Europe grass").
+entry(timpano, n, [timpani], "one big drum wey dem dey play for music").
+entry(timpanum, n, [timpanums], "or TIMPANAtympanum").
+entry(tin, v, [tinned,tinning,tins], "to cover metal with tin").
+entry(tinamou, n, [tinamous], "wan Saut Amerikan game bird").
+entry(tincal, n, [tincals], "crude borax").
+entry(tinct, v, [tincted,tincting,tincts], "to dey tinge").
+entry(tincture, v, [tinctured,tincturing,tinctures], "to dey tint").
+entry("tinder", "n", ["tinders"], "material wey dey catch fire easilyTINDERY adj").
+entry(tine, v, [tined,tining,tines], "to lose").
+entry(tinea, n, [tineas], "di itch wey dey waka for skinTINEAL adj").
+entry(tineid, n, [tineids], "one wey belong to family of moth dem").
+entry(tinfoil, n, [tinfoils], "thin metal sheeting").
+entry(tinful, n, [tinfuls], "as much as tin container fit hold").
+entry(ting, v, [tinged,tinging,tings], "to make kpim kpim sound like metal").
+entry(tinge, v, [], "TINGE, TINGED, TINGEING or TINGING, TINGE - to put small color small small").
+entry(tingle, v, [tingled,tingling,tingles], "to make body dey feel like say small small needle dey prick").
+entry(tingler, n, [tinglers], "somtin wey dey give tinglin feeling").
+entry(tingly, adj, [], "TINGLIER TINGLIEST tingling").
+entry(tinhorn, n, [tinhorns], "pesin we dey form wey no get level").
+entry(tinier, comparative, [], "for tiny").
+entry(smallest, superlative, [], "of small").
+entry(tinily, adv, [], "in a tiny manner").
+entry(tininess, n, [tininesses], "di quality of being tiny").
+entry(tining, present, [], "tine participle").
+```prolog
+entry(tinker, v, [tinkered,tinkering,tinkers], "to fix for trial and error or try manage fix"). 
+```
+entry("person wey dey do small-small repair", n, ["people wey dey do small-small repair"], "person wey dey fix small things").
+entry(tinkle, v, [tinkled,tinkling,tinkles], "to make small sharp metal sound").
+entry(tinkler, n, [tinklers], "pesin wey dey make sound like small bell").
+entry(tinkling, n, [tinklings], "di sound wey somtin wey dey tinkle go make").
+entry(tinkly, adj, [], "TINKLIER TINKLIESTwey dey produce tinklin sound").
+entry(tinlike, adj, [], "e be like tin").
+entry(tinman, n, [tinmen], "persin wey dey beat tin").
+entry(tinned, past, [], "tense of tin").
+entry(tinner, n, [tinners], "persin wey dey dig tin").
+entry(tinier, comparative, [], "of tinny").
+entry("tinniest", superlative, [], "wey small well well").
+entry(tinnily, adv, [], "like sey na tinny style").
+entry(tinning, present, [], "participle of tin").
+entry(tinnitus, n, [tinnituses], "na ringing sound wey dey for ear dem").
+entry(tinny, adj, [], "LIKE TIN TINNIEST OR TIN LIKE").
+entry(tinplate, v, [tinplated,tinplating,tinplates], "to cover object with tin").
+entry(tinpot, adj, [], "no too important").
+entry(tinsel, v, [tinseled,tinseling,tinsels], "or TINSELLED TINSELLING TINSELSto make am tinselnz chuk eye garri show").
+entry(tinselly, adj, [], "cheaply show").
+entry(tinsely, adj, [], "tinselly").
+entry(tinsmith, n, [tinsmiths], "pesin wey dey work with tin").
+entry(tinsnips, npl, [], "na tool for cut sheet metal").
+entry(tinstone, n, [tinstones], "tin ore").
+entry(tint, v, [tinted,tinting,tints], "to sabi kolor small small or fine fine").
+entry(tinter, n, [tinters], "persin wey dey tint somtin").
+entry(tinting, n, [tintings], "di process wey person dey use tint").
+entry(tintless, adj, [], "e no get color").
+entry(tintype, n, [tintypes], "one kain photograph").
+entry(tinware, n, [tinwares], "tin items wey dem dey make").
+entry(tinwork, n, [tinworks], "somtin wey dem make from tin").
+entry(tiny, adj, [], "SMOL SMOLESTvery small").
+entry(tip, v, [tip, dey tip, tips], "to bend am").
+entry(tipcart, n, [tipcarts], "wan kain cart").
+entry(tipcat, n, [tipcats], "one kind game wey be like baseball").
+entry(tipi, n, [tipis], "tent").
+entry(tipless, adj, [], "e no get point or end").
+entry(tipoff, n, [tipoffs], "hint or warning").
+entry(tippable, adj, [], "fit to be tipped").
+entry(tipped, past, [], "tense of tip").
+entry(tipper, n, [tippers], "pesin wey dey tip").
+entry(tippet, n, [tippets], "cloth wey dem take cover shoulder").
+entry(tippier, comparative, [], "of tippy").
+entry(tippiest, superlative, [], "of tippy").
+entry(tipping, present, [], "participle of tip").
+entry(tipple, v, [tippled,tippling,tipples], "to drink alcohol drink").
+entry(tippler, n, [tipplers], "pesin wey dey drink wella").
+entry(tippy, adj, [], "DE TIPEST DETIPESTunsteady").
+```prolog
+entry(tippytoe, v, [tippytoed, tippytoeing, tippytoes], "wak eye-dey-ground").
+```
+entry(tipsheet, n, [tipsheets], "na publication wey get tips for betting on races or investing for stocks").
+entry(tipsier, comparative, [], "of tipsy").
+entry(tipsiest, superlative, [], "of tipsy").
+entry(tipsily, adv, [], "like person wey drink small drink").
+entry(tipstaff, n, [tipstaffs], "or TIPSTAVESna pesin wey dey work for court").
+entry(tipster, n, [tipsters], "person wey dey sell information to gamblers").
+entry(tipstock, n, [tipstocks], "part of gun").
+entry(tipsy, adj, [], "TIPSIER TIPSIEST small drunk").
+```prolog
+entry(tiptoe, v, [tiptoed,tiptoeing,tiptoes], "to waka for di tip of pesin toe dem").
+```
+entry(tiptop, n, [tiptops], "di highest point").
+entry(tirade, n, [tirades], "one long strong talk").
+entry(tiramisu, n, [tiramisus], "one dessert wey dem make with ladyfingers mascarpone chocolate and espresso").
+entry(taya, v, [taya, tayarin, tayas], "to dey taya").
+entry(tayad, adj, [], "TAYADER TAYADESTdrain of strengthTAYADLY adv").
+entry("no dey tire", adj, [], "e be like say e no fit tire").
+entry(tiresome, adj, [], "tedious").
+entry(tiring, present, [], "participle of tire").
+entry(tirl, v, [tirled,tirling,tirls], "to make sound wey dey vibrate").
+entry(learner, n, [learners], "novice").
+entry(tirrivee, n, [tirrivees], "tantrum").
+entry(tisane, n, [tisanes], "one kind herbal tea").
+entry(tissual, adj, [], "wey get to do with tissue").
+```prolog
+entry(tissue, v, [tissued, tissuing, tissues], "to weave into tissue a fine sheer fabric").
+```
+entry(tissuey, adj, [], "e be like tissue").
+entry(tissular, adj, [], "wey dey affect di tissue material for organisim bodi").
+entry(tit, n, [tits], "one small bird").
+entry(titan, n, [titans], "pesin we big well well").
+entry(titanate, n, [titanates], "one chemical salt").
+entry(titaness, n, [titanesses], "na female titan").
+entry(titania, n, [titanias], "na mineral").
+entry(titanic, adj, [], "wey big wella").
+entry(titanism, n, [titanisms], "rebel against wetin society believe").
+entry(titanite, n, [titanites], "one mineral").
+entry(titanium, n, [titaniums], "na metallic element").
+entry(titanous, adj, [], "wey get to do wit titanium").
+entry(titbit, n, [titbits], "titbit").
+entry(titch, n, [titches], "small somtin").
+entry(titchie, adj, [], "TITCHIER TITCHIESTtitchy").
+entry(titchy, adj, [], "TITCHIER TITCHIESTvery small").
+entry(titer, n, [titers], "di strength of a chemical solution").
+entry(titfer, n, [titfers], "hat").
+```prolog
+entry(tithable, adj, [], "de one wey dem fit pay tithe for").
+```
+entry(tithe, v, [tithed, tithing, tithes], "to pay tithe na small tax").
+entry(tither, n, [tithers], "persin wey dey pay tithe").
+entry(taitin, n, [taintins], "di act of collecting tithes").
+entry(tithonia, n, [tithonias], "one tall herb").
+entry(titi, n, [titis], "na shrub or tree wey no dey ever dry").
+entry(titian, n, [titians], "one kain reddish brown color").
+entry(titivate, v, [titivated,titivating,titivates], "to dress sharp sharp").
+entry(titlark, n, [titlarks], "one kain songbird").
+entry(title, v, [titled,titling,titles], "to furnish with a title a distinctive appellation").
+entry(titlist, n, [titlists], "persin wey be sports champion").
+entry(titman, n, [titmen], "di smallest of a litter of pigs").
+entry(titmouse, n, [titmice], "na small bird").
+entry(titrable, adj, [], "e fit do titration").
+entry(titrant, n, [titrants], "di chemical wey dem dey use for titration").
+entry(titrate, v, [titrated,titrating,titrates], "to find di strength of one solution by adding a reagent until one kin reaction wey you want happen").
+entry(titrator, n, [titrators], "pesin wey dey titrate").
+entry(titre, n, [titres], "taitel").
+entry(titlaff, v, [titlaffed, titlaffing, titlaffs], "to dey chuckle inside nervous way").
+entry(titterer, n, [titterers], "pesin wey dey titter").
+entry(tittie, n, [titties], "na wan sister").
+entry(tittle, n, [tittles], "small mark wey dey for writing or printing").
+entry(tittup, v, [tittuped,tittuping,tittups], "or TITTUPPED TITTUPPING TITTUPSto waka lively").
+entry(tittuppy, adj, [], "wobbly wobbly").
+entry(titty, n, [titties], "breast wey dem dey suck").
+entry(titubant, adj, [], "wey e dey shake").
+entry(titular, n, [titulars], "person wey get title").
+entry(titular, n, [titulars], "one titular").
+entry(tivy, adv, [], "wit great speed").
+entry(tix, npl, [], "tickets").
+entry(tiyin, n, [tiyins], "money for Kyrgyzstan").
+entry(tiyn, n, [tiyns], "one moni unit for Kazakhstan").
+entry(tiz, n, [tizes], "tizzy").
+entry(tizz, n, [tizzes], "tezi").
+entry(tizzy, n, [tizzies], "wen person dey confused or nervous").
+```prolog
+entry(tmesis, n, [tmeseses], "di separation of di parts of a compound word by an intervening word or words").
+```
+entry(to, prep, [], "for di side of").
+entry(toad, n, [toads], "one animal wey sabi jump, e no get tail").
+entry(toadfish, n, [toadfishes], "na marine fish").
+entry(toadflax, n, [toadflaxes], "one plant wey dey grow every year").
+entry(toadied, past, [], "na tense of toady").
+entry(toadies, present, [], "3rd persin wey dey sing for toady").
+entry(toadish, adj, [], "weh be like toad").
+entry(toadless, adj, [], "wey no get toads").
+entry('toadlet', n, ['toadlets'], "small toad").
+entry(toadlike, adj, [], "de resemble toad").
+entry(toady, v, [toadied,toadying,toadies], "to dey do choba for pesin sake").
+entry(toadyish, adj, [], "characteristic of person wey dey do people-pleaser").
+entry(toadyism, n, [toadyisms], "like person wen dey always do follow follow").
+entry(toast, v, [toasted,toasting,toasts], "to make brown for fire").
+entry(toaster, n, [toasters], "devais wey dem dey use take toast").
+entry(toasting, n, [toastings], "di way pipo dey add rhythmic speech to reggae music").
+entry(toasty, adj, [], "WARM WARMESTcomfortable").
+entry(tobacco, n, [tobaccos], "an annual herb wey dem dey plant for im leaf").
+entry(toboggan, v, [tobogganed,tobogganing,toboggans], "to ride on a long narrow sled", "to ride on top di long narrow sled").
+entry(toby, n, [tobies], "one kain cup wey dem dey take drink").
+entry(toccata, n, [toccatas], "na TOCCATAa musical composition wey dem dey usually play for organ").
+entry(tocher, v, [tochered,tochering,tochers], "to dash bride price").
+entry(tock, n, [tocks], "one short hollow sound").
+entry(toco, n, [tocos], "one kind toucan wey dey South America").
+entry(tokolojì, n, [tokolojìs], "di branch of medicine wey dey deal wit childbirth").
+entry(tocsin, n, [tocsins], "alarm wey dem dey knack for bell").
+entry(tod, n, [tods], "wan British weight unit").
+entry(today, n, [today], "di present day").
+```prolog
+entry(toddle, v, [toddled,toddling,toddles], "to waka wey no dey balanced").
+```
+entry(toddler, n, [toddlers], "pikin wey dey waka small small").
+entry(toddy, n, [toddies], "na drink wey get alcohol").
+entry(todi, n, [todis], "one kain bird from West Indies").
+entry(toe, v, [toed,toeing,toes], "to touch with di toe one of di terminal members of di foot").
+entry(toea, n, [toeas], "one money unit for Papua New Guinea").
+entry(toecap, n, [toecaps], "cover for di front of shoe or boot").
+entry(toeclip, n, [toeclips], "na device wey dey hold front of cyclist shoe to di pedal").
+entry(toehold, n, [toeholds], "space wey dey support toe when person dey climb").
+entry(toeing, present, [], "participle of toe").
+entry(toeless, adj, [], "no get toes").
+entry(toelike, adj, [], "e resemble toe").
+entry(toenail, v, [toenailed,toenailing,toenails], "to fasten wit nails wey dem knock slant").
+```prolog
+entry(toepiece, n, [toepieces], "a piece of a shoe designed to cover the toes").
+```
+entry(toeplate, n, [toeplates], "na metal tab wey dem dey attach for de tip of shoe").
+entry(toerag, n, [toerags], "person wey no get respect").
+entry(toeshoe, n, [toeshoes], "dance slippers wey no get heel").
+entry(toff, n, [toffs], "one kind fashun").
+entry(toffee, n, [toffees], "one sweet wey dey chew chew").
+entry(toffy, n, [toffies], "toffi").
+entry(toft, n, [tofts], "small hill").
+entry(tofu, n, [tofus], "soft food wey dem make from soybean milk").
+entry(tog, v, [togged,togging,togs], "to wear cloth").
+entry(toga, n, [togas], "na outer garment we dem dey wear for ancient Rome").
+entry(togate, adj, [], "wey concern ancient Rome").
+entry(togated, adj, [], "wey dey wear toga").
+entry("together", "adv", [], "into a union or relationship").
+```prolog
+entry(togged, past, [], "past tense of \"tog\"").
+```
+entry(toggery, n, [toggeries], "cloth").
+entry(togging, present, [], "participle of tog").
+entry(toggle, v, [toggled,toggling,toggles], "to fasten with a type of pin or short rod").
+entry(toggler, n, [togglers], "one wey dey toggle").
+entry(togue, n, [togues], "wani feshwater fish").
+entry(work, v, [work, working, works], "to dey work hard").
+entry(toile, n, [toiles], "na sheer linen fabric").
+entry(workaholic, n, [workaholics], "pesin wey dey work hard").
+entry(toilet, v, [toileted, toileting, toilets], "to dress and groom oneself").
+entry(toiletry, n, [toiletries], "something wey person dey use to take care of body, like soap or cream").
+entry(toilette, n, [toilettes], "di act of dressing and grooming oneself").
+entry(toilful, adj, [], "toilsome").
+entry(toilsome, adj, [], "e go need plenty muscle").
+entry(toilworn, adj, [], "e don suffer work well well").
+entry(toit, v, [toited,toiting,toits], "waka slow slow").
+entry(tokamak, n, [tokamaks], "doughnut-shape nuclear reactor").
+entry(tokay, n, [tokays], "one Malaysian wall-gecko").
+entry(toke, v, [toked,toking,tokes], "to take small smoke from marijuana cigarette").
+entry(token, v, [don_token, dey_token, tokens], "to serve as a sign of").
+entry('tokenism', 'n', ['tokenisms'], "de policy of making only a superficial effort").
+entry(toker, n, [tokers], "one wey dey smoke").
+entry(toking, present, [], "participle of toke").
+entry(tokology, n, [tokologies], "tokology").
+entry(tokomak, n, [tokomaks], "tokamak").
+entry(tokonoma, n, [tokonomas], "small place for house wey dey Japan").
+entry(tola, n, [tolas], "one unit of weight wey dem dey use for India").
+entry(tolan, n, [tolans], "one chemical compound").
+entry(tolane, n, [tolanes], "tolan").
+entry(tolar, n, [tolars], "na former money wey dey for Slovenia").
+```prolog
+entry(tolbooth, n, [tolbooths], "one prison").
+```
+entry(told, past, [], "tense of tell").
+entry(tole, v, [toled,toling,toles], "to catch dem eye").
+entry(toledo, n, [toledos], "wan sharp sword wey dem make well well").
+```prolog
+entry(tolerant, adj, [], "de quick to tolerate").
+```
+entry(tolerate, v, [tolerated, tolerating, tolerates], "to allow without active opposition").
+entry(toleware, n, [tolewares], "objects wey dem make from sheet metal wey dem decorate well well").
+entry(tolidin, n, [tolidins], "tolidine").
+entry(tolidine, n, [tolidines], "one chemical compound").
+entry(toling, present, [], "participle of tole").
+entry(toll, v, [tolled,tolling,tolls], "to collect or impose a toll a fixed charge for a service or privilege").
+entry(tollage, n, [tollages], "one money wey you go pay for road").
+entry(tollbar, n, [tollbars], "one tollgate").
+entry(toller, n, [tollers], "person wey dey collect tolls").
+entry(tollgate, v, [tollgated,tollgating,tollgates], "to block business deal until dem pay bribe").
+entry(tolling, n, [tollings], "di collecting of tolls").
+entry(tollman, n, [tollmen], "persin wey dey collect toll").
+entry(tollway, n, [tollways], "road wey dem dey collect money").
+entry(tolt, n, [tolts], "one hill wey stand alone").
+entry(tolu, n, [tolus], "one sweet-smelling gum").
+entry(toluate, n, [toluates], "na chemical salt").
+entry(toluene, n, [toluenes], "one liquid wey dey catch fire easily").
+entry(toluic, adj, [], "we relate to any of four isomeric acid wey come from toluene").
+entry(toluid, n, [toluids], "toluide").
+entry(toluide, n, [toluides], "na amide").
+entry(toluidin, n, [toluidins], "one kain amine").
+entry(toluol, n, [toluols], "toluin").
+entry(toluole, n, [toluoles], "toluol").
+entry(toluyl, n, [toluyls], "na one kain chemical radical wey get one valence").
+entry(tolyl, n, [tolyls], "one univalent chemical radical").
+entry(tom, n, [toms], "di male of different animals").
+entry(tomahawk, v, [tomahawked, tomahawking, tomahawks], "to strike with light ax").
+entry(tomalley, n, [tomalleys], "di liver of lobster").
+entry(toman, n, [tomans], "one kain old money wey dem dey use for Iran before").
+entry(tomato, n, [tomatoes], "di fleshy edible fruit of one perennial plantTOMATOEY adj").
+```prolog
+entry(tomb, v, [tombed,tombing,tombs], "to put for inside tomb or burial place"). 
+```
+entry(tombac, n, [tombacs], "na alloy of copper and zinc").
+entry(tomback, n, [tombacks], "tombac").
+entry(tombak, n, [tombaks], "tombak").
+entry(tombal, adj, [], "wey concern tomb").
+entry(tombwehnodem, adj, [], "person wey no get grave").
+entry(tomblike, adj, [], "dey like tomb").
+entry(tombola, n, [tombolas], "one kind gamble wey be like lottery").
+```prolog
+entry(tombolo, n, [tombolos], "sandbar wey dey join island to mainland").
+```
+entry(tomboy, n, [tomboys], "na girl wey like do boy boy things").
+entry(tomcat, v, [tomcatted,tomcatting,tomcats], "to dey waka anyhow for man matta").
+entry(tomcod, n, [tomcods], "na fish wey dey for water").
+entry(tome, n, [tomes], "big book").
+entry(tomentum, n, [tomenta], "network of small small blood vessels").
+entry(tomfool, n, [tomfools], "person wey no dey wise").
+entry(tommy, n, [tommies], "one bread").
+entry(tommycod, n, [tommycods], "tomcod").
+entry(tommyrot, n, [tommyrots], "nyamanyama").
+```
+entry(tomogram, n, [tomograms], "fotograf wey dem take wit X-ray").
+```
+entry(tomorrow, n, [tomorrows], "di day wey dey follow today").
+entry(tompion, n, [tompions], "tampion").
+entry(tomtit, n, [tomtits], "na any small active bird dem").
+entry(ton, n, [tons], "na unit of weight").
+entry(tonal, adj, [], "wetin concern toneTONALLY adv").
+entry(tonality, n, [tonalities], "na system of tones").
+entry(tondo, n, [tondos], "na circular painting, dem de call am TONDI, or").
+entry(tone, v, [toned,toning,tones], "to give am particular tone a sound wey get definite pitch and vibration to").
+entry(tonearm, n, [tonearms], "the pivoted part of a record player wey dey hold the needle").
+entry(toneless, adj, [], "e no get tone").
+entry(toneme, n, [tonemes], "na unit for sound wey dey for toneTONEMIC adj").
+entry(toner, n, [toners], "persin wey dey make somtin calm").
+entry(tonetics, npl, [], "de phonetic study of tone for languageTONETIC adj").
+entry(tonette, n, [tonettes], "na simple flute").
+entry(toney, adj, [], "TONIER TONIEST tony").
+```prolog
+entry(tong, v, [tonged,tonging,tongs], "to lif am wit one kain grasping tools").
+```
+entry(tonga, n, [tongas], "na light cart wey dem dey use for India").
+entry(tonger, n, [tongers], "one wey dey tong").
+entry(tongman, n, [tongmen], "persin wey belong to secret group for China").
+entry(tongue, v, [tongued,tonguing,tongues], "to touch with di tongue an organ of di mouth").
+entry(tonguing, n, [tonguings], "di use of di tongue to play notes for wind instrument").
+entry(tonic, n, [tonics], "something wey dey ginger or refresh pesin").
+entry(tonicity, n, [tonicities], "normal healthy bodi kondishon").
+entry(tonier, comparative, [], "wey fine pass tony and toney").
+entry(toniest, superlative, [], "of toney and tony").
+entry(tonify, v, [tonified,tonifying,tonifies], "to make pesin or sometin strong or healthy").
+```prolog
+entry(tunait, n, [tunaits], "di present nait").
+```
+entry(toning, present, [], "na participle of tone").
+entry(tonish, adj, [], "stylishTONISHLY adv").
+entry(tonlet, n, [tonlets], "skirt for plate armor").
+entry(tonnage, n, [tonnages], "total weight wey e weigh for ton").
+entry(tonne, n, [tonnes], "a unit of weight").
+entry(tonneau, n, [tonneaus], "di back seat area for inside motor").
+entry(tonner, n, [tonners], "object wey get specific tonnage").
+entry(tonnish, adj, [], "tonish").
+entry(tonsil, n, [tonsils], "one lymhpoid organTONSILAR adj").
+entry(tonsure, v, [tonsured, tonsuring, tonsures], "to shave di head of").
+entry(tontine, n, [tontines], "na type of group life insurance").
+entry(tonus, n, [tonuses], "normal tension for muscle tissue").
+entry(tony, adj, [], "TONIER TONIESTstylish").
+entry(too, adv, [], "in addition").
+entry(toodle, v, [toodled,toodling,toodles], "to tootul").
+entry(took, past, [], "tense for take").
+entry(tool, v, [tooled,tooling,tools], "to form or finish wit tool wetin you go use for hand work").
+entry(toolbar, noun, [toolbars], "row of icons for computer screen wey dey activate functions").
+entry(toolbox, n, [toolboxes], "box wey dem dey put tools inside").
+entry(tooler, n, [toolers], "person wey dey use tool").
+entry(toolhead, n, [toolheads], "one part of machine").
+entry(tooling, n, [toolings], "decoration wey dem do with tools").
+entry(toolless, adj, [], "no get tools").
+entry(toolpush, n, [toolpushes], "persin wey dey direct di drilling for oil rig").
+entry(toolroom, n, [toolrooms], "na room wey dem dey keep tools").
+entry(toolset, n, [toolset dem], "set of tools").
+entry(toolshed, n, [toolsheds], "na house wey dem dey keep tools").
+entry(toom, adj, [], "empty").
+```prolog
+entry(toon, n, [toons], "na tree wey dey from East India").
+```
+entry(toonie, n, [toonies], "Canadian two dollar coin").
+entry(toot, v, [tooted,tooting,toots], "to blow horn or whistle for short time").
+entry(tooter, n, [tooters], "person wey dey blow trumpet").
+entry(teet, n, [teeth], "one of di hard structures wey dem attach for row to each jaw").
+entry(teet, v, [teeted,teeting,teets], "to furnish with toothlike projections").
+entry(toothy, adj, [], "TOOTHIER TOOTHIESTget or dey show big teethTOOTHILY adv").
+entry(tootle, v, [tootled,tootling,tootles], "to dey toot softly or repeatedly").
+entry(tootler, n, [tootlers], "one wey dey play music").
+entry(toots, n, [tootses], "na woman or girl, usually use as form of address").
+entry(tootsie, n, [tootsies], "tootsy").
+entry(tootsy, n, [tootsies], "leg").
+entry(top, v, [topped, topping, tops], "to cut off the top the highest part point or surface of").
+entry(topaz, n, [topazes], "one mineralTOPAZINE adjective").
+entry(topcoat, n, [topcoats], "one lightweight overcoat").
+entry(topcross, n, [topcrosses], "na cross wey dey between purebred male and inferior female stock").
+entry(tope, v, [toped, toping, topes], "to drink liquor to excess").
+entry(topee, n, [topees], "topi").
+entry(toper, n, [topers], "one wey dey drink too much").
+entry(topful, adj, [], "toptop").
+entry(topfull, adj, [], "full to the brim").
+entry(toph, n, [tophs], "tufa").
+entry(tophe, n, [tophes], "tufa").
+entry(tophus, n, [tophi], "de place wey urate go dey accumulate for de tissue wey dey round joint").
+entry(topi, n, [topis], "sun helmet").
+entry(topiary, n, [topiaries], "di art of trimming shrubs into shapes").
+entry(topic, n, [topics], "wetin people dey talk about").
+entry(topical, n, [topicals], "postage stamp for inside collection wey get design about di same subject").
+entry(toping, present, [], "participle of tope").
+entry(topkick, n, [topkicks], "one first sergeant").
+entry(topknot, n, [topknots], "one kin decoration for hair").
+entry(topless, adj, [], "e no get top").
+```
+entry(topline, n, [toplines], "di pattern wey dey for di top of animal body").
+```
+entry(toplofty, adj, [], "TOPLOFTIER TOPLOFTIESThaughty").
+entry(topmast, n, [topmasts], "mast wey dey ship").
+entry(topmost, adj, [], "weh dey top pass").
+entry(topnotch, adj, [], "waka well well").
+entry(topo, adj, [], "topographic").
+```
+entry(topoi, pl, [], "of topos").
+```
+entry(topology, n, [topologies], "one branch of mathematics").
+entry(toponym, n, [toponyms], "di name of one place").
+```prolog
+entry(toponymy, n, [toponymies], "di study of toponyms").
+```
+entry(topos, n, [topoi], "one stock rhetorical theme").
+entry(topotype, n, [topotypes], "na specimen wey dem select from one area wey dey normal for one species").
+entry(topped, past, [], "na di past tense for top").
+entry(topper, n, [toppers], "person wey dey for top").
+entry(topping, n, [toppings], "somtin wey dey for top").
+entry(topul, v, [topuld,topulin,topuls], "to fall face front").
+entry(topsail, n, [topsails], "sail for ship").
+entry(topsai, n, [topsaiz], "di upper portion of a ship").
+entry(topsider, n, [topsiders], "persin wey dey on top for authority mata").
+entry(topsoil, v, [topsoiled, topsoiling, topsoils], "to comot di surface layer of soil from").
+entry(topspin, n, [topspins], "a forward spin wey dem put for ball").
+entry(topstone, n, [topstones], "di stone wey dey top of a structure").
+entry(topwater, adj, [], "dey float for top or near di water").
+```prolog
+entry(topwork, v, [topworked,topworking,topworks], "to put ota of diff kind plant for di main branch dem of").
+```
+entry(toque, n, [toques], "na tight-fitting woman hat").
+entry(toquet, n, [toquets], "toque").
+entry(toquilla, n, [toquillas], "na palmlike plant wey dey South America").
+entry(tor, n, [tors], "one high rocky hill").
+entry(tora, n, [toras], "torah").
+entry(torah, n, [torahs], "or TOROTH or TOROTlaw or law instruction").
+entry(torc, n, [torcs], "metal necklace or collar").
+```prolog
+entry(torch, v, [torchd, torchin, torches], "to set on fire").
+```
+entry(torchere, n, [torchere dem], "wan kain electric lamp").
+entry(torchier, n, [torchiers], "torchere").
+entry(torchlit, adj, [], "place wey dey light with torch wey get burning end").
+entry(torchon, n, [torchons], "one kain coarse lace").
+`entry(torchy, adj, [], "TORCHIER TORCHIESTlikeness of torch song").`
+entry(tore, n, [tores], "one type of round round shape").
+entry(toreador, n, [toreadors], "persin wey dey fight bull").
+entry(torero, n, [toreros], "person wey dey fight bull").
+entry(toreutic, adj, [], "wey get to do wit metalwork").
+entry(tori, pl, [], "of tori").
+```
+entry(toric, n, [torics], "lens wey dem design to correct astigmatism").
+```
+entry(tories, pl, [], "of tory").
+entry(torii, n, [torii], "di gate for Japanese temple").
+entry(tormen, v, [tormented,tormentin,torments], "to dey cause big body or mind sufferin").
+entry(torn, past, [], "participle of tear").
+entry(tornado, n, [tornados], "or TORNADOES a violent windstorm TORNADIC adj").
+entry(tornillo, n, [tornillos], "na flowering shrub").
+entry('toro', n, ['toros'], "one kain bull").
+entry(toroid, n, [toroids], "wan kain geometric surfaceTOROIDAL adj").
+entry(torose, adj, [], "cylindrical and swollen at intervals").
+entry(torosity, n, [torosities], "de quality or condition of being torose").
+entry(torot, a, [], "pl of torah").
+entry(toroth, a, [], "plural of torah").
+entry(torous, adj, [], "torose").
+entry(torpedo, v, [torpedoed,torpedoing,torpedoes], "to damage or sink with an underwater missile").
+entry(torpefy, v, [torpefied, torpefying, torpefies], "to make person slow down").
+entry(torpid, n, [torpids], "racing boat").
+entry(torpidly, adv, [], "in a sluggish manner").
+entry(torpor, n, [torpors], "wen pesin nor wan do anytin for mind or body").
+entry(torquate, adj, [], "wey get torques").
+entry(torque, v, [torqued,torquing,torques], "to make somtin turn").
+entry(torquer, n, [torquers], "pesin wey dey torque").
+entry(torques, n, [torqueses], "na band of feathers hair or coloration wey dey around di neck").
+entry(torquey, adj, [], "TORQUIER TORQUIESTprovide force to make tin rotate").
+entry(torr, n, [torrs], "di unit of pressure").
+entry(torrefy, v, [torrefied,torrefying,torrefies], "to put under intense heat").
+entry(torrent, n, [torrents], "a fast fast wata wey dey rush").
+entry(torrid, adj, [], "TORRID TORRIDE HOT WELL TORRIDLY adv").
+entry(torrify, v, [torrified,torrifying,torrifies], "to roast well well").
+entry(torsade, n, [torsades], "twist twist rope").
+entry(torse, n, [torses], "na wreath wey dem twist silk join").
+entry(bodi, na, [], "pl of body").
+entry(torsion, n, [torsions], "di act of twisting").
+entry(torsk, n, [torsk dem], "one kind fish wey person fit chop for water").
+entry(bodi, n, [bodis], "na di main part of di human bodi").
+entry(tort, n, [torts], "na civil wrong").
+entry(torta, n, [], "pl TORTAS na better dessert").
+entry(torte, n, [tortes], "na rich cake").
+entry(tortelli, npl, [], "pasta wey dem don fill wit cheese, meat or vegetables").
+entry(tortile, adj, [], "twisted coiled").
+entry(tortilla, n, [tortillas], "na one round flat cake wey dem no put yeast for cornmeal").
+entry(tortious, adj, [], "e dey like wetin be tort").
+entry("tortoise", "n", ["tortoises"], "any of an order of reptiles wey get body cover with bone shell").
+entry(tortoni, n, [tortoni dem], "wan kain ice cream").
+entry(tortrix, n, [tortrixes], "or TORTRICES na small moth").
+entry('tortuous', adj, [], "we dem don curve or bend many times").
+entry(torture, v, [tortured,torturing,tortures], "to subject to severe physical pain").
+entry(torturer, n, [torturers], "person wey dey cause pain").
+entry(torula, n, [torulas], "or TORULAE na one kain fungus").
+entry(torus, n, [tori], "abi TORUSES a big convex molding").
+entry(tori, n, [toris], "persin wey dey support conservative politics").
+entry(tosa, n, [tosas], "dog wey be one kain mastiff breed").
+entry(tosh, n, [toshes], "yeye").
+entry(toss, v, [tost,tossing,tosses], "to trow am small small").
+entry(tosser, n, [tossers], "person wey dey throw somtin").
+entry(tosspot, n, [tosspots], "persin wey dey drink too much").
+entry(tossup, n, [tossups], "na equal chance or choice").
+entry(tost, a, [], "past tense of toss").
+entry(tostada, n, [tostadas], "na tortilla wey dem fry for hot oil").
+entry(tostado, n, [tostados], "tostada").
+entry(tostone, n, [tostones], "one Mexican food wey dem dey fry plantain").
+entry(tot, v, [carry, carrying, carries], "to total").
+entry(totable, adj, [], "fit to carry").
+entry(total, v, [totaled,totaling,totals], "or TOTALLED TOTALLING TOTALSto find di full amount of").
+entry(to̩talize, v, [to̩talize̩d, to̩talizin', to̩talizes], "to combine everything").
+entry(totalism, n, [totalisms], "centralize control by one oga on top").
+entry(totalist, n, [totalists], "person wey dey see things as one whole").
+entry(completeness, n, [completenesses], "di quality or state of being complete").
+entry(totalize, v, [totalized,totalizing,totalizes], "to make am complete").
+entry(totalled, a, [], "past tense of total").
+entry(totalling, a, [], "present participle of total").
+entry(totally, adv, [], "completely").
+entry(tote, v, [toted,toting,totes], "to carry for handTOTEABLE adj").
+entry(totem, n, [totems], "natural object wey dey serve as family or clan emblemTOTEMIC adj").
+entry(totemism, n, [totemisms], "na system wey dey divide tribe according to totem").
+entry(totemist, n, [totemists], "person wey sabi totemism well well").
+entry(totemite, n, [totemites], "persin wey dey use totem").
+entry(toter, n, [toters], "pesin wey dey carry load").
+entry(tother, pron, [], "di oda").
+entry(toting, present, [], "participle of tote").
+entry(totted, past, [], "tense wen tot don happun").
+entry(totter, v, [tottered,tottering,totters], "to waka waka anyhow").
+entry(totterer, n, [totterers], "person wey dey waka dey shake").
+entry(tottery, adj, [], "shaky").
+entry(totting, present, [], "participle of tot").
+entry(toucan, n, [toucans], "one kain tropikal bird").
+entry(touch, v, [touch, dey touch, touch], "to dey for or com enta contact wit").
+entry(touche, interj, [], "na wetin person go talk wen dem sabi say opponent don score for fencing").
+entry(toucher, n, [touchers], "persin wey dey touch").
+entry(touchpad, n, [touchpads], "keypad wey sensitive to how finger dey move or pressure").
+entry(touchup, n, [touchups], "wetin we dey do when we finish work by adding small small betterment").
+entry(touchy, adj, [], "TOUCHIER TOUCHIESTovabisensitivTOUCHILY adv").
+entry(tough, adj, [], "TOUGHER TOUGHESTstrong and resilient").
+entry(tough, v, [toughed, toughing, toughs], "to endure wahala").
+entry(toughen, v, [toughened, toughening, toughens], "to make tough").
+entry(toughie, n, [toughies], "person wey strong well well").
+entry(toughish, adj, [], "e small tough").
+entry(tufli, adv, [], "in a tuf manner").
+entry(toughy, n, [toughies], "toughie").
+entry(tupe, n, [tupe-dem], "wig wey dem dey wear to cover bald spot").
+entry(toupie, n, [toupies], "round boneless smoked ham wey dem dey take smoke").
+entry(tour, v, [waka,wakaing,wandas], "to travel from place to place").
+entry(touraco, n, [touracos], "one kain African bird").
+entry(tourer, n, [tourers], "one big open moto").
+entry(touring, n, [tourings], "crosscountry skiing for enjoyment").
+entry(torism, n, [torisms], "di practice of waka for enjoyment").
+entry(turist, n, [turists], "pesin wey dey waka go plenti places for enjoymentTOURISTY adj").
+entry(turista, n, [turistas], "tourista").
+entry(tourney, v, [tourneyed, tourneying, tourneys], "to compete for tournament").
+entry(touse, v, [toused,tousing,touses], "to scatter").
+entry(tousle, v, [tousled,tousling,tousles], "to scatter hair").
+entry(tout, v, [touted, touting, touts], "to dey solicit anyhow").
+entry(touter, n, [touters], "persin wey dey shout or advertiz somtin").
+entry(touton, n, [toutons], "one deep fry round of bread dough").
+entry(touzle, v, [touzled,touzling,touzles], "to tousle").
+entry(tovarich, n, [tovariches], "comrad").
+entry(tovarish, n, [tovarishes], "tovarich").
+entry(tow, v, [towed, towing, tows], "to dey pull by rope or chainTOWABLE adj").
+entry(towage, n, [towages], "di money wey dem dey pay for towing").
+entry(towards, prep, [], "for the side wey").
+entry(towardly, adj, [], "favorable").
+entry(towards, prep, [], "toward").
+```prolog
+entry(towaway, n, [towaways], "di act of carry waka comot motor"). 
+```
+entry(towboat, n, [towboats], "one kain boat wey dem dey call tugboat").
+entry(towel, v, [toweled,toweling,towels], "or TOWELLED TOWELLING TOWELS to wipe with a towel an absorbent cloth").
+entry(toweling, n, [towelings], "material wey dem dey use make towel").
+entry(tower, v, [towered,towering,towers], "to dey rise high high").
+entry(towery, adj, [], "TOWERIER TOWERIESTvery tall").
+entry(towhead, n, [towheads], "head wey get light blond hair").
+entry(towhee, n, [towhees], "one kain common finch").
+entry(towie, n, [towies], "na one kain contract bridge wey be for three players").
+entry(towing, present, [], "participle of tow").
+entry(towline, n, [towlines], "na rope wey dem dey use for pull").
+entry(towmond, n, [towmonds], "one year").
+entry(towmont, n, [towmonts], "towmond").
+```prolog
+entry(town, n, [towns], "a place wey people dey live, e small pass city").
+```
+entry(townman, n, [townmans], "one pesin from town").
+entry(townfolk, npl, [], "di pipu we dey live for inside town").
+entry(townhome, n, [townhomes], "wan for di row of houses wey dey join together, e fit get two or three floors").
+entry(townie, n, [townies], "person wey no be student wey dey live for area wey university dey").
+entry(townies, pl, [], "of towny").
+entry(townish, adj, [], "wey be like town").
+entry(townless, adj, [], "wey no get town").
+entry(townlet, n, [townlets], "small town").
+entry(township, n, [townships], "na administrative division of a county").
+entry(townsite, n, [townsites], "de site of a town").
+entry(townsman, n, [townsmen], "persin wey dey live for town").
+entry(gotown, adv, [], "towards the town").
+entry(suitable_cloth, n, [suitable_cloth], "clothes wey fit to wear for town").
+entry(towny, n, [townies], "townie").
+entry(towpath, n, [towpaths], "road wey dey follow river wey animals fit use to drag boats").
+entry(towplane, n, [towplanes], "one kain airplane wey dey drag gliders").
+entry(towrope, n, [towropes], "rope wey dem dey use for towing").
+entry(towsack, n, [towsacks], "na bag wey dem make wit strong cloth").
+entry(towy, adj, [], "e resemble rough hemp or flax fiber").
+entry(toxaemia, n, [toxaemias], "toxemiaTOXAEMIC adj").
+entry(toxemia, n, [toxemias], "di condition wey toxin dey for bloodTOXEMIC adj").
+entry(toxic, n, [toxics], "poison wey fit harm person or animal").
+```prolog
+entry(toxical, adj, [], "toxic").
+```
+entry(toxicant, n, [toxicants], "poisonous substance").
+entry(toxicity, n, [toxicities], "di quality of being poisonous").
+entry(toxin, n, [toxins], "poisonous substance wey fit harm person or animal").
+entry(toxine, n, [toxines], "poison").
+entry(toxoid, n, [toxoids], "one kain toxin").
+entry(toy, v, [toyed,toying,toys], "to dey amuse yasef as if na toy wey pikin dey play with").
+entry(toyer, n, [toyers], "person wey dey play with somtin").
+entry(toyish, adj, [], "frivolous").
+entry(toyland, n, [toylands], "di industry wey dey do toy").
+entry(toyless, adj, [], "person wey no get toy").
+entry(toylike, adj, [], "dey resemble toy").
+entry(toyo, n, [toyos], "one smooth straw wey dem dey use make hat").
+entry(toyon, n, [toyons], "one kian-kián shrub wey no dey ever dry").
+entry(toyshop, n, [toyshops], "na shop wey dem dey sell toys").
+entry(toytown, n, [toytowns], "small model of town").
+entry(trabeate, adj, [], "wey dem construct wit horizontal beams").
+entry(trace, v, [traced,tracing,traces], "to follow where e dey go").
+entry(tracer, n, [tracers], "person wey dey trace somtin").
+entry(tracery, n, [traceries], "ornamental work of interlaced lines").
+entry(trachea, n, [tracheas], "na di passage wey dey carry air go di lungsTRACHEAL adj").
+entry(tracheid, n, [tracheids], "wan long tubula plant cell").
+entry(trachle, v, [trachled, trachling, trachles], "to drag am small small").
+entry(trachoma, n, [trachomas], "sickness wey de affect eye").
+entry(trachyte, n, [trachytes], "one kain light-colored igneous rock").
+entry(tracing, n, [tracings], "wetin dem trace").
+entry(track, v, [tracking, track, tracks], "to follow di marks wey animal, person or motor dey leave").
+entry(trackage, n, [trackages], "di track system of a railroad").
+entry(trackbed, n, [trackbeds], "a roadbed for a railroad").
+entry(tracker, n, [trackers], "persin wey dey track").
+entry(tracking, n, [trackings], "di way dem take arrange students inside curriculum").
+entry(trackman, n, [trackmen], "pesin wey dey work for train road").
+entry(trackpad, n, [trackpads], "na touchpad").
+entry(trackway, n, [trackways], "road wey people dey waka pass").
+entry(tract, n, [tracts], "big land area").
+entry(tractate, n, [tractates], "di book wey dey talk special topic").
+entry(tractile, adj, [], "fit make dem drag am for length").
+entry(traction, n, [tractions], "di act of pulling or drawing over surfaceTRACTIVE adj").
+entry(takto, n, [taktos], "motor vehicle wey dem dey use for farming").
+entry(tractrix, n, [tractrices], "mathematical curve").
+entry(trad, adj, [], "traditional").
+entry(trade, v, [traded, trading, trades], "to give in exchange for another commodityTRADABLE adj").
+entry(tradeoff, n, [tradeoffs], "to give up one tin to get anoda one").
+entry(trader, n, [traders], "pesin wey dey trade").
+entry(trading, n, [tradings], "di akt of exchangin commodities").
+entry(traditor, n, [traditores], "betrayer for early Christians").
+entry(defame, v, [defamed,defaming,defames], "to spoil persin name").
+entry("one wey dey spoil person name", n, ["dem wey dey spoil people name"], "one wey dey spoil person name").
+entry(traffic, v, [carry dey sell, dey carrisell, dey sell], "to dey carry buy and sell").
+entry(tragedy, n, [tragedies], "one bad event wey no good at all").
+entry(tragi, pl, [], "of tragus").
+entry(tragic, n, [tragics], "di part of drama wey go make pesin feel tragedy").
+entry(tragical, adj, [], "wey be like tragedy").
+entry(tragopan, n, [tragopans], "one Asian bushfowl").
+entry(tragus, n, [tragi], "one part for the outside part for ear").
+entry(traik, v, [traikd,traiking,traiks], "to waka heavy heavy").
+entry(trail, v, [dey drag,dey drag,dey drag], "to drag along surface").
+entry(trailer, v, [trailered,trailering,trailers], "to carry am for trailer wey another motor dey drag").
+entry(train, v, [train, training, trains], "to teach in a systematic way").
+entry(trainee, n, [trainees], "person wey dey receive training").
+```prolog
+entry(trainer, n, [trainers], "person wey dey train people").
+```
+```prolog
+entry(trainful, n, [trainfuls], "how much train fit carry"). 
+```
+entry(training, n, [trainings], "systematic instruction").
+entry(trainman, n, [trainmen], "persin wey dey work for railway").
+entry(trenwe, n, [trenwes], "railway").
+```prolog
+entry(traipse, v, [traipsed,traipsing,traipses], "to waka about anyhow or as e dey do like sey e dey wakabout"). 
+```
+entry(trait, n, [traits], "wetin make person or thing stand out").
+entry(traitor, n, [traitors], "pesin wey betray anoda pesin").
+entry(traject, v, [trajected,trajecting,trajects], "to transmit").
+entry(tram, v, [trammed,tramming,trams], "to carry for tramcar").
+entry(tramcar, n, [tramcars], "one kain streetcar").
+entry(tramel, v, [trameled,trameling,tramels], "or TRAMELLED TRAMELLING TRAMELSto trammel").
+entry(tramell, v, [tramelled, tramelling, tramells], "to hold down").
+```prolog
+entry(tramless, adj, [], "wey no get tramcar").
+```
+entry(tramline, n, [tramlines], "tram line for streetcar").
+entry(trammed, past, [], "tense of tram").
+entry(trammel, v, [trammeled,trammeling,trammels], "or TRAMMELLED TRAMMELLING TRAMMELS to waka or block person").
+entry(tramming, present, [], "participle of tram").
+entry(tramp, v, [tramped,tramping,tramps], "to waka with strong heavy step").
+entry(tramper, n, [tramper dem], "person wey dey waka anyhow").
+entry(trampish, adj, [], "like person wey dey waka about").
+entry(‘trample’, ‘v’, [‘trampled’, ‘trampling’, ‘tramples’], “to waka on top with heavy foot”).
+entry(trampler, n, [tramplers], "pesin wey dey waka anyhow").
+entry(trampy, adj, [], "TRAMPIER TRAMPIESTget de characteristics of person wey dey waka waka").
+entry(tramroad, n, [tramroads], "railway wey dey inside mine").
+entry(tramway, n, [tramways], "tramline").
+entry(trance, v, [tranced,trancing,trances], "to put into a trance a semiconscious state").
+entry(tranch, n, [tranches], "a portion").
+entry(trangam, n, [trangams], "one small thing wey no get much value").
+entry(trank, v, [tranked,tranking,tranks], "to make pesin or animal calm").
+entry(trannie, n, [trannies], "tranny").
+entry(tranny, n, [trannies], "na transmission").
+entry(tranq, n, [tranqs], "trank").
+entry(tranquil, adj, [], "TRANQUILER TRANQUILEST or TRANQUILLER TRANQUILLESTfree from disturbance").
+entry(trans, adj, [], "na di way different atom dey arrange on opposite side of di molecule").
+entry(transact, v, [don do transaction, dey do transaction, dey do transaction], "to carry out").
+entry(transect, v, [transected,transecting,transects], "to cut across").
+entry(transept, n, [transepts], "one big side part of body of church").
+entry(transfer, v, [transfer, dey transfer, dey transfers], "to carry comot from one place to another").
+entry(transfix, v, [transfixt, transfixing, transfixes], "to nak pin").
+```prolog
+entry(tranship, v, [transhipped,transhipping,tranships], "to carry am from one motor go another").
+```
+entry(transit, v, [transited, transiting, transits], "to waka pass or go through").
+entry(senda, v, [send, send, send], "to send from one place or person to another").
+entry(transom, n, [transoms], "small window wey dey on top door or window").
+entry(transude, v, [transuded,transuding,transudes], "to pass through a membrane").
+entry(trap, v, [trapt,trapping,traps], "to catch for trap, wey be tool for catch an hold animals").
+entry(trapan, v, [trapanned,trapanning,trapans], "to open head with tool").
+entry(trapball, n, [trapballs], "one kain ball game").
+entry(trapdoor, n, [trapdoors], "one kind sliding or lifting door wey dey cover hole").
+entry(trapes, v, [trapesed, trapesing, trapeses], "to waka about anyhow").
+entry(trapeze, n, [trapezes], "na gymnastics equipment").
+entry(trapezia, npl, [], "foursided polygons wey no get parallel sides").
+entry(trapezii, npl, [], "triangular back muscle dem").
+entry(traplike, adj, [], "dey resemble trap").
+entry(trapline, n, [traplines], "set of traps").
+entry(trapnest, v, [trapnested,trapnesting,trapnests], "to fit know di productivity of hens wit a kind of nest").
+entry(trappean, adj, [], "wey get to do with traprock").
+entry(trap, a, [], "past tense of trap").
+entry(trapper, n, [trappers], "one wey dey trap").
+entry(trapping, n, [trappings], "somtin wey dem go use cover hoss").
+entry(trappose, adj, [], "trappean").
+entry(trappous, adj, [], "trappean").
+entry(traprok, n, [traproks], "one kain igneous rok").
+entry(trap, a, [], "past tense of trap").
+entry(trapunto, n, [trapuntos], "na decorative quilted design").
+entry(doti, v, [doti_am,doti_ing,doti_dem], "to commot worthless or waste tins").
+entry(trasher, n, [trashers], "person wey dey destroy or spoil things").
+entry(trashman, n, [trashmen], "persin wey dey kari dirty comot").
+entry(trashy, adj, [], "TRASHIER TRASHIEST resemble trash TRASHILY adv").
+entry(trass, noun, [trasses], "one kin volcanic rock").
+entry(trauchle, v, [trauchled,trauchling,trauchles], "to suffer").
+entry(trauma, n, [traumas], "or TRAUMATA na big emotional shock").
+entry(travail, v, [work am, dey work, dey work am], "to hustle").
+entry(trave, n, [traves], "frame wey dem dey take hold horse").
+entry(travel, v, [travel, dey travel, dey travel], "or TRAVEL TRAVELING dey go from one place to another").
+entry("traveler", n, ["travellers"], "person wey dey travel").
+entry(travelog, n, [travelogs], "na lecture or film about traveling").
+entry(traverse, v, [traversed, traversing, traverses], "to waka pass across or through").
+entry(travesty, v, [travestied, travestying, travesties], "to mock").
+entry(travois, n, [travoises], "one kain sled").
+entry(travoise, n, [travoises], "travois").
+entry(trawl, v, [trawled,trawling,trawls], "to dey fish by drag net dey waka for sea bottom").
+entry(trawler, n, [trawlers], "boat wey dem dey use for catch fish").
+entry(trawley, n, [trawleys], "na small truck or car for dey carry material").
+entry(trawlnet, n, [trawlnets], "di big net wey dem dey use for trawling").
+entry(tray, n, [trays], "flat shallow container").
+entry(trayf, adj, [], "e no dey follow Jewish law prepare am").
+entry(trayful, n, [trayfuls], "wetin tray fit hol").
+entry(treacle, n, [treacles], "molasses").
+entry(treacly, adj, [], "SWEET TOOMUCH SENTIMENTAL").
+entry(tread, v, [treaded,trodden,treading], "TREADS di act of waka on top or along").
+entry(treader, n, [treaders], "pesin wey dey waka").
+entry(treadle, v, [treadled,treadling,treadles], "to work a foot lever").
+entry(treadler, n, [treadlers], "person wey dey use leg pedal").
+```prolog
+entry(treason, n, [treasons], "violation of allegiance toward ones country").
+```
+entry(treasure, v, [treasured,treasuring,treasures], "to value highly").
+```
+entry(trejuri, n, [trejuris], "place wey dem dey carry money receive, keep, and spend").
+```
+entry(treat, v, [treated,treating,treats], "to behave in a particular way toward").
+entry(treater, n, [treaters], "persin wey dey treat").
+entry(treating, n, [treatings], "di act of giving person somtin wey e go enjoy").
+entry(treatise, n, [treatises], "di way wey persin take write about somtin for formal and sistematic way").
+entry(treaty, n, [treaties], "formal agreement between two or more nations").
+entry(treble, v, [trebled, trebling, trebles], "to multiply by three").
+entry(trebly, adv, [], "tripoli").
+entry(trecento, n, [trecentos], "di fourteen century").
+entry(treddle, v, [treddled,treddling,treddles], "to dey step").
+entry(tree, v, [treed,treeing,trees], "to drive up a tree a tall woody plant").
+entry(treelawn, n, [treelawns], "di strip of grass between di road and di sidewalk").
+entry(tree no dey, adj, [], "no get any tree").
+entry(treelike, adj, [], "e be like tree").
+entry(treeline, n, [treelines], "di limit north wey trees no dey grow").
+entry(treen, n, [treens], "na wood dem take make di article").
+entry(treenail, n, [treenails], "wood peg wey dem dey take fasten wood dem").
+entry(treetop, n, [treetops], "di top of tree").
+entry(tref, adj, [], "no good for use according to Jewish law").
+entry(trefah, adj, [], "tref").
+entry(trefoil, n, [trefoils], "na plant wey get three leaves").
+entry(trehala, n, [trehalas], "one kain sweet edible somtin wey dey form di pupal case of some kain weevils").
+entry(trek, v, [waka, wakan, wakas], "to make slow journey wey dey hard").
+```prolog
+entry(trekker, n, [trekkers], "persin wey dey waka long distance").
+```
+entry(trellis, v, [trellised,trellising,trellises], "to give trellis a frame wey dem dey use as support for climbing plants").
+entry(trem, n, [trems], "an electric guitar lever wey dey produce tremolo").
+entry(tremble, v, [trembled,trembling,trembles], "to shake without control").
+entry(trembler, n, [tremblers], "persin wey dey shake").
+entry(tremblor, n, [tremblors], "na earth vibration").
+entry(trembly, adj, [], "TREMBLIER TREMBLIESTmarked by shaking").
+entry(tremolo, n, [tremolos], "na vibrating musical effect").
+entry(tremor, v, [tremored, tremoring, tremors], "to dey shake or vibrate").
+entry(trenail, n, [trenails], "treenail").
+entry(trench, v, [digged am, dey dig am, dey dig am], "to dig long narrow hollow for ground").
+entry(trencher, n, [trenchers], "wooden plate wey dem dey use serve food").
+entry(trend, v, [trended,trending,trends], "to take a particular course").
+entry(trendify, v, [trendified, trendifying, trendifies], "to make something dey trendy").
+entry(trendoid, n, [trendoids], "pesin we dey follow trend").
+entry(trendy, adj, [], "TRENDIER TRENDIESTvery fashionableTRENDILY adv").
+entry(trendy, n, [trendies], "pesin we dey follow trend").
+entry(trepan, v, [trepanned,trepanning,trepans], "to use instrument take bore hole for person head").
+entry(trepang, n, [trepangs], "marine animal").
+entry(trephine, v, [trephined,trephining,trephines], "to operate on with surgical saw").
+entry(trepid, adj, [], "timoros").
+```prolog
+entry(trespase, v, [trespasd, trespasing, trespases], "to waka enter anoda pesin land wey no dey lawful").
+```
+entry(tress, v, [tressed,tressing,tresses], "to arrange di hair in long locks").
+entry(tressel, n, [tressels], "trestle").
+entry(tressour, n, [tressours], "treasure").
+entry(tressure, n, [tressures], "one kain heraldic design").
+entry(tressy, adj, [], "TRESSIER TRESSIESTfull of plenty hair").
+entry(trestle, n, [trestles], "na frame wey dey support bridge").
+entry(tret, n, [trets], "money wey dem dey give people wen buy sometin as compensation for any spoilage wey fit happen during transport").
+entry(trevally, n, [trevallies], "or TREVALLYS na Australian food fish").
+entry(trevet, n, [trevets], "trivet").
+entry(trews, npl, [], "tight tartan trousa").
+entry(trey, n, [treys], "tree number for card game, dice or domino").
+entry(treyf, adj, [], "trayf").
+entry(treyfa, adj, [], "trayf").
+entry(triable, adj, [], "dey for court mata").
+entry(triac, n, [triacs], "na electronic device wey dem use to control power").
+entry(triacid, n, [triacids], "one kain acid").
+entry(triactor, n, [triactors], "trifecta").
+entry(triad, n, [triads], "group of three").
+entry(triadic, n, [triadics], "person wey dey triad").
+entry(triadism, n, [triadisms], "di quality or state of being triad").
+entry(triage, v, [triaged,triaging,triages], "to practice a system of treating disaster victims").
+```prolog
+entry(trial, v, [trialed,trialing,trials], "or TRIALLED TRIALLING TRIALSto test something to assess its performance").
+```
+entry(pesin_wey_dey_test, n, [pesin_wey_dey_test], "pesin wey join test of somtin").
+entry(triangle, n, [triangles], "one shape wey get three sides").
+entry(triarchy, n, [triarchies], "goverment wey three people dey run").
+entry(triaxial, adj, [], "wey get three axes").
+entry(triazin, n, [triazins], "triazin").
+entry(triazine, n, [triazines], "one chemical compound").
+entry(triazole, n, [triazoles], "na chemical compound").
+entry(tribade, n, [tribades], "na lesbianTRIBADIC adj").
+entry(tribal, n, [tribals], "persin wey dey among di original pipu for India").
+entry(tribally, adv, [], "in di way way e dey for tribe").
+entry(tribasic, adj, [], "wey get three hydrogen atoms wey fit change").
+entry(tribe, n, [tribes], "na group of people wey dey share common forefathers and culture").
+entry(tribrach, n, [tribrachs], "one kain metrical foot").
+entry(tribunal, n, [tribunals], "court of justice").
+entry(tribune, n, [tribunes], "person wey dey protect pipu rights").
+entry(tribute, n, [tributes], "wetin you give to show respect, gratitude or admiration").
+entry(trice, v, [triced,tricing,trices], "to pull am up wit rope").
+entry(tricep, n, [triceps], "wan triceps").
+entry(triceps, n, [tricepses], "one kain muscle for arm").
+```
+entry(trichina, n, [trichinas], "or TRICHINAE, one kind parasitic worm").
+```
+entry(trichite, n, [trichites], "small mineral body wey dem fit find for volcanic rocks").
+entry(trichoid, adj, [], "like hair").
+entry(trichome, n, [trichomes], "something wey resemble hair wey dey grow come out").
+entry(tricing, present, [], "participle of trice").
+entry(tricity, n, [tricities], "area wey get three near near cities wey dey stand on deir own").
+entry(trick, v, [tricked,tricking,tricks], "to deceive").
+```prolog
+entry(tricker, n, [trickers], "person wey dey trik person"). 
+```
+entry(trickery, n, [trickeries], "wayo").
+entry(trickie, adj, [], "TRICKIER TRICKIESTtricky").
+entry(trickier, comparative, [], "of tricky").
+entry(trickiesti, superlative, [], "of tricky").
+entry(trickily, adv, [], "in a tricky way").
+entry(trickish, adj, [], "tricky").
+entry(trickle, v, [trickled,trickling,trickles], "to flow or fall in drops").
+entry(trickly, adj, [], "TRICKLIER TRICKLIESTwey dem mark by way water dey flow small small").
+entry(tricksy, aj, [], "TRICKSIER TRICKSIESTmischievous").
+entry(smart, adj, [], "SMARTER SMARTESTdey do anyhow").
+entry(triclad, n, [triclads], "one kain flatworm wey dey for water").
+entry(tricolor, n, [tricolors], "flag wey get three colors").
+```prolog
+entry(tricorn, n, [tricorns], "na type of hat wey get di brim turn up for three side").
+```
+entry(tricorne, n, [tricornes], "tricorne").
+entry(tricot, n, [tricots], "na knitted fabric").
+entry(trictrac, n, [trictracs], "na one kain backgammon").
+```prolog
+entry(tricycle, v, [tricycled,tricycling,tricycles], "to ride a vehicle having three wheels").
+```
+```prolog
+entry(uakari, n, [uakaris], "one kain monkey wey dey for South America").
+```
+```prolog
+entry(following, na, [], "a list of selfexplanatory adjectives and adverbs wey get the prefix UN notUNABATED adjUNABLE adjUNABUSED adjUNACIDIC adjUNACTED adjUNADDED adjUNADEPT adjUNADULT adjUNAFRAID adjUNAGED adjUNAGEING adjUNAGILE adjUNAGING adjUNAGREED adjUNAIDED adjUNAIMED adjUNAIRED adjUNAKIN adjUNALIKE adjUNALLIED adjUNAMAZED adjUNAMUSED adjUNAPT adjUNAPTLY advUNARCHED adjUNARGUED adjUNARTFUL adjUNASKED adjUNATONED adjUNAVOWED adjUNAWAKE adjUNAWAKED adjUNAWARE adjUNAWED adjUNAXED adjUNBACKED adjUNBAKED adjUNBANDED adjUNBANNED adjUNBARBED adjUNBASED adjUNBASTED adjUNBATHED adjUNBEATEN adjUNBENIGN adjUNBIASED adjUNBILLED adjUNBITTED adjUNBITTEN adjUNBITTER adjUNBLAMED adjUNBLEST adjUNBLOODY adjUNBOBBED adjUNBOILED adjUNBONDED adjUNBONED adjUNBOOTED adjUNBORN adjUNBOUGHT adjUNBOUNCY adjUNBOWED adjUNBOWING adjUNBRED adjUNBRIGHT adjUNBROKE adjUNBROKEN adjUNBULKY adjUNBURNED adjUNBURNT adjUNBUSTED adjUNBUSY adjUNCALLED adjUNCANDID adjUNCANNED adjUNCARDED adjUNCARING adjUNCARTED adjUNCARVED adjUNCASHED adjUNCASKED adjUNCAST adjUNCATCHY adjUNCAUGHT adjUNCAUSED adjUNCEDED adjUNCHARY adjUNCHASTE adj UNCHASTER UNCHASTESTUNCHEWED adjUNCHIC adjUNCHICLY advUNCHOSEN adjUNCIVIL adjUNCLASSY adjUNCLAWED adjUNCLEAN adj UNCLEANER UNCLEANESTUNCLEAR adj UNCLEARER UNCLEARESTUNCLEFT adjUNCLOUDY adjUNCLOYED adjUNCOATED adjUNCODED adjUNCOINED adjUNCOMBED adjUNCOMELY adjUNCOMIC adjUNCOMMON adj UNCOMMONER UNCOMMONESTUNCOOKED adjUNCOOL adjUNCOOLED adjUNCOUTH adjUNCOY adjUNCRAZY adjUNCREWED adjUNCUFFED adjUNCURED adjUNCURSED adjUNCUT adjUNCUTE adjUNDAMPED adjUNDARING adjUNDATED adjUNDECKED adjUNDENIED adjUNDENTED adjUNDEVOUT adjUNDIMMED adjUNDOABLE adjUNDOCILE adjUNDOTTED adjUNDREAMT adjUNDRIED adjUNDUBBED adjUNDULLED adjUNDYED adjUNEAGER adjUNEARNED adjUNEATEN adjUNEDIBLE adjUNEDITED adjUNENDED adjUNENDING adjUNENVIED adjUNERASED adjUNEROTIC adjUNERRING adjUNEVADED adjUNEVEN adj UNEVENER UNEVENESTUNEVENLY advUNEXOTIC adjUNEXPERT adjUNFADED adjUNFADING adjUNFAIR adj UNFAIRER UNFAIRESTUNFAIRLY advUNFAKED adjUNFALLEN adjUNFAMOUS adjUNFANCY adjUNFAZED adjUNFEARED adjUNFED adjUNFELT adjUNFELTED adjUNFILIAL adjUNFILLED adjUNFILMED adjUNFIRED adjUNFISHED adjUNFLASHY adjUNFLAWED adjUNFLEXED adjUNFLUTED adjUNFOILED adjUNFOND adjUNFORCED adjUNFORGED adjUNFORKED adjUNFORMED adjUNFOUGHT adjUNFOUND adjUNFRAMED adjUNFUNDED adjUNFUNNY adj UNFUNNIER UNFUNNIESTUNFUSED adjUNFUSSY adj UNFUSSIER UNFUSSIESTUNGALLED adjUNGARBED adjUNGATED adjUNGAZING adjUNGELDED adjUNGENIAL adjUNGENTLE adjUNGENTLY advUNGIFTED adjUNGIVING adjUNGLAZED adjUNGOWNED adjUNGRACED adjUNGRADED adjUNGREEDY adjUNGROUND adjUNGUIDED adjUNHAILED adjUNHALVED adjUNHAPPY adj UNHAPPIER UNHAPPIESTUNHARMED adjUNHASTY adjUNHEALED adjUNHEARD adjUNHEATED adjUNHEDGED adjUNHEEDED adjUNHELPED adjUNHEROIC adjUNHEWN adjUNHIP adj UNHIPPER UNHIPPESTUNHIRED adjUNHOLILY advUNHOLY adj UNHOLIER UNHOLIESTUNHUMAN adjUNHUNG adjUNHURT adjUNIDEAL adjUNIMBUED adjUNIRONED adjUNIRONIC adjUNISSUED adjUNJADED adjUNJOINED adjUNJOYFUL adjUNJUDGED adjUNJUST adjUNJUSTLY advUNKEELED adjUNKEPT adjUNKIND adj UNKINDER UNKINDESTUNKINDLY adv UNKINDLIER UNKINDLIESTUNKINGLY adjUNKISSED adjUNKOSHER adjUNLAWFUL adjUNLEASED adjUNLED adjUNLETHAL adjUNLETTED adjUNLEVIED adjUNLICKED adjUNLIKE adjUNLIKED adjUNLIKELY adj UNLIKELIER UNLIKELIESTUNLINED adjUNLISTED adjUNLIT adjUNLIVELY adjUNLOBED adjUNLOVED adjUNLOVELY adj UNLOVELIER UNLOVELIESTUNLOVING adjUNLUCKY adj UNLUCKIER UNLUCKIESTUNMACHO adjUNMAILED adjUNMANFUL adjUNMANLY adj UNMANLIER UNMANLIESTUNMAPPED adjUNMARKED adjUNMARRED adjUNMATED adjUNMATTED adjUNMEANT adjUNMELLOW adjUNMELTED adjUNMENDED adjUNMERRY adjUNMET adjUNMILLED adjUNMINED adjUNMODISH adjUNMOLTEN adjUNMOVED adjUNMOVING adjUNMOWN adjUNNAMED adjUNNEEDED adjUNNOISY adjUNNOTED adjUNOILED adjUNOPEN adjUNOPENED adjUNORNATE adjUNOWNED adjUNPADDED adjUNPAID adjUNPAIRED adjUNPARTED adjUNPAVED adjUNPAYING adjUNPEELED adjUNPITIED adjUNPITTED adjUNPLACED adjUNPLAYED adjUNPLIANT adjUNPLOWED adjUNPOETIC adjUNPOISED adjUNPOLITE adjUNPOLLED adjUNPOSED adjUNPOSTED adjUNPOTTED adjUNPRETTY adjUNPRICED adjUNPRIMED adjUNPRIZED adjUNPROBED adjUNPROVED adjUNPROVEN adjUNPRUNED adjUNPURE adjUNPURELY advUNPURGED adjUNQUIET adj UNQUIETER UNQUIETESTUNRAISED adjUNRAKED adjUNRANKED adjUNRATED adjUNRAZED adjUNREAD adjUNREADY adj UNREADIER UNREADIESTUNREAL adjUNREALLY advUNRENTED adjUNREPAID adjUNRESTED adjUNRHYMED adjUNRIBBED adjUNRIDDEN adjUNRIFLED adjUNRIMED adjUNRINSED adjUNRISEN adjUNROPED adjUNROUGH adjUNRULED adjUNRUSHED adjUNRUSTED adjUNSAFE adj UNSAFER UNSAFESTUNSAFELY advUNSALTED adjUNSATED adjUNSAVED adjUNSAVORY adjUNSAWED adjUNSAWN adjUNSCALED adjUNSEARED adjUNSEEDED adjUNSEEING adjUNSEEMLY adj UNSEEMLIER UNSEEMLIESTUNSEEN adjUNSEIZED adjUNSENT adjUNSERVED adjUNSEXUAL adjUNSEXY adj UNSEXIER UNSEXIESTUNSHADED adjUNSHAKEN adjUNSHAMED adjUNSHAPED adjUNSHAPEN adjUNSHARED adjUNSHARP adjUNSHAVED adjUNSHAVEN adjUNSHED adjUNSHOD adjUNSHORN adjUNSHOWY adjUNSHRUNK adjUNSHUT adjUNSIFTED adjUNSIGNED adjUNSILENT adjUNSINFUL adjUNSIZED adjUNSLAKED adjUNSLICED adjUNSLICK adjUNSMART adjUNSMOKED adjUNSOAKED adjUNSOBER adjUNSOCIAL adjUNSOILED adjUNSOLD adjUNSOLID adjUNSOLVED adjUNSORTED adjUNSOUGHT adjUNSOUND adj UNSOUNDER UNSOUNDESTUNSOURED adjUNSOWED adjUNSOWN adjUNSPENT adjUNSPILT adjUNSPLIT adjUNSPOILT adjUNSPRUNG adjUNSPUN adjUNSTABLE adj UNSTABLER UNSTABLESTUNSTABLY advUNSTEADY adj UNSTEADIER UNSTEADIESTUNSTONED adjUNSTUFFY adjUNSTUNG adjUNSUBTLE adjUNSUBTLY advUNSUITED adjUNSUNG adjUNSUNK adjUNSURE adjUNSURELY advUNSWAYED adjUNSWEPT adjUNTAGGED adjUNTAKEN adjUNTAME adjUNTAMED adjUNTANNED adjUNTAPPED adjUNTASTED adjUNTAXED adjUNTENDED adjUNTESTED adjUNTHAWED adjUNTIDILY advUNTIDY adj UNTIDIER UNTIDIESTUNTILLED adjUNTILTED adjUNTIMED adjUNTIMELY adj UNTIMELIER UNTIMELIESTUNTINGED adjUNTIPPED adjUNTIRED adjUNTIRING adjUNTITLED adjUNTOLD adjUNTORN adjUNTRACED adjUNTRENDY adjUNTRIED adjUNTRUE adj UNTRUER UNTRUESTUNTRULY advUNTRUSTY adjUNTUFTED adjUNTURNED adjUNUNITED adjUNURGED adjUNUSABLE adjUNUSED adjUNUSUAL adjUNVALUED adjUNVARIED adjUNVEINED adjUNVERSED adjUNVESTED adjUNVEXED adjUNVEXT adjUNVIABLE adjUNVOCAL adjUNWALLED adjUNWANING adjUNWANTED adjUNWARIER comparative of unwaryUNWARIEST superlative of unwaryUNWARILY advUNWARMED adjUNWARNED adjUNWARPED adjUNWARY adj UNWARIER UNWARIESTUNWASTED adjUNWAXED adjUNWEANED adjUNWEARY adjUNWED adjUNWEDDED adjUNWEEDED adjUNWELDED adjUNWELL adjUNWEPT adjUNWET adjUNWETTED adjUNWHITE adjUNWIELDY adj UNWIELDIER UNWIELDIESTUNWIFELY adjUNWILLED adjUNWISE adj UNWISER UNWISESTUNWISELY advUNWON adjUNWOODED adjUNWOOED adjUNWORKED adjUNWORN adjUNWORTHY adj UNWORTHIER UNWORTHIESTUNWRUNG adjUNYOUNG adjUNZONED adj").
+```
+Prolog: `entry(vac, n, [vacs], "a vacuum cleaner")`.
+entry(waah, interj, [], "as dem de use am to express cry cry").
+entry(wab, n, [wabs], "na web").
+entry(wabble, v, [wabbled,wabbling,wabbles], "to dey shake").
+entry(wabbler, n, [wabblers], "persin wey dey wabble").
+```prolog
+entry(wabbly, adj, [], "WABBLIER WABBLIESTwobbly").
+```
+entry(wack, adj, [], "VERY BAD, WORST").
+entry(wack, n, [wacks], "pesin wey dey funny or craze").
+entry(wacke, n, [wackes], "one kain basaltic rock").
+entry('wacked', 'adj', [], 'whacked').
+entry(wacko, n, [wackos], "or WACKOES pesin wey dey do wacky things").
+entry("wacky", "adj", [], "WACKIER WACKIESTvery irrationalWACKILY adv").
+entry(wad, v, [wadded,wadding,wads], "to form into a wad a small mass of soft material").
+entry(wadable, adj, [], "wadeable").
+entry(wadder, n, [wadders], "pesin wey dey wad").
+entry(waddie, n, [waddies], "cowboy").
+entry(waddied, past, [], "tense for waddy").
+entry(waddies, present, [], "3rd person wey e dey sing of waddy").
+entry('wadding', n, ['waddings'], "a wad").
+entry(waddle, v, [waddled,waddling,waddles], "to waka wit short swaying steps").
+entry(waddler, n, [waddlers], "persin wey dey waka like say e dey wobble").
+entry(waddly, adj, [], "person wey dey waka like say dem dey waka go side").
+```prolog
+entry(waddy, v, [waddied,waddying,waddies], "to strike with a thick club").
+```
+entry(wade, v, [waded,wading,wades], "to waka for inside wota").
+entry(wadeable, adj, [], "fit to waka pass inside di wata").
+entry(wader, n, [waders], "pesin wey dey waka for water").
+```prolog
+entry(wadi, n, [wadis], "di bed of a usually dry watacourse").
+```
+entry(wadies, pl, [], "of wady").
+entry(wading, present, [], "participle of wade").
+entry(wadmaal, n, [wadmaals], "wadmal").
+entry(wadmal, n, [wadmals], "na thick woolen material").
+entry(wadmel, n, [wadmels], "wadmal").
+entry(wadmol, n, [wadmols], "wadmal").
+entry(wadmoll, n, [wadmolls], "wadmal").
+entry(wadset, v, [wadset, wadsetting, wadsets], "to put di house for mortgage").
+entry(wady, n, [wadies], "wadi").
+entry(wae, n, [waes], "wahala").
+entry(waeful, adj, [], "woeful").
+entry(waeness, n, [waenesses], "woeness").
+entry(waesuck, interj, [], "waesucks").
+entry(waesucks, interj, [], "dey show say you dey pity").
+entry(wafer, v, [wafered,wafering,wafers], "to seal with an adhesive disk").
+entry(wafery, adj, [], "like wafer thin crisp biscuit").
+entry(waff, v, [waffed,waffing,waffs], "to wave").
+entry(waffie, n, [waffies], "person whey dey waka waka").
+entry(waffle, v, [waffled,waffling,waffles], "to dey yan dey go or no gree yan correct").
+entry(talkam, n, [talkams], "person wey dey talk anyhow").
+entry(waffling, n, [wafflings], "one kain jabo wey no get correct direction").
+entry(waffly, adj, [], "WAFFLIER WAFFLIESTindecisive").
+entry(waft, v, [wafted, wafting, wafts], "to carry am gently across air or water").
+entry(waftage, n, [waftages], "di act of wafting").
+entry(wafter, n, [wafters], "person wey dey blow somtin gently").
+entry(wafture, n, [waftures], "waftage").
+entry(wag, v, [wagged,wagging,wags], "to dey move fast fast up and down or to and fro").
+entry(wage, v, [waged,waging,wages], "to dey work or run").
+entry(wageless, adj, [], "wey dem nor dey pay").
+entry(wager, v, [don bet, dey bet, bets], "put ya money for uncertain condition").
+entry(pesinweydebets, n, [pesinweydebetsdem], "pesin wey dey bet").
+entry(wagering, n, [wagerings], "di act of riski somtin on top uncertain outcome").
+entry(wagged, past, [], "tense of wag").
+entry(wagger, n, [waggers], "persin wey dey shake im bodi").
+entry(waggery, n, [waggeries], "waggish behavior").
+entry(wagging, present, [], "participle of shake").
+entry(waggish, adj, [], "dey funny playplay").
+entry(waggle, v, [waggled,waggling,waggles], "to shake am").
+entry(waggly, adj, [], "WAGGLI WAGGLIMOSTunsteady").
+entry(waggon, v, [waggoned, waggoning, waggons], "to de waka inside wagon").
+entry(waggoner, n, [waggoners], "wagoner").
+entry(waging, present, [], "participle of wage").
+entry(wagon, v, [wagoned,wagoning,wagons], "to carry am by wagon wey na four-wheel horse-drawn motor").
+entry(wagonage, n, [wagonages], "wey dem dey carry load by wagon").
+entry(wagoner, n, [wagoners], "person wey dey drive wagon").
+entry(wagsome, adj, [], "waggish").
+entry(wagtail, n, [wagtails], "one kain songbird").
+entry(wahconda, n, [wahcondas], "wakanda").
+entry(wahine, n, [wahines], "one Hawaiian woman").
+entry(wahoo, n, [wahoos], "na plant wey dey flower").
+entry(waif, v, [waifed, waifing, waifs], "to troway").
+entry(waifish, adj, [], "like waif").
+entry(waiflike, adj, [], "we resemble homeless pikin").
+entry(wail, v, [de shout, de shout, de shout], "to shout long time wey be say e dey pain you").
+entry(peson_we_dey_cry, n, [pesons_we_dey_cry], "peson we dey cry").
+entry(wailful, adj, [], "wey dey sorrowful").
+entry("wailsome", adj, [], "wailful").
+entry(wain, n, [wains], "big open wagon").
+entry(wainscot, v, [wainscoted,wainscoting,wainscots], "or WAINSCOTTED WAINSCOTTING WAINSCOTSto line di walls wit wooden paneling").
+entry(wair, v, [waired,wairing,wairs], "to spend").
+entry(waist, n, [waists], "di part of di bodi between di ribs and di hipsWAISTED adj").
+entry(wester, n, [westers], "pesin wey dem don station for di middle part of ship").
+entry(waisting, n, [waistings], "one kain clothe for dressmaking").
+entry(wait, v, [waited,waiting,waits], "to dey expect somtin").
+entry(waiter, v, [waitered, waitering, waiters], "to work as a male server for restaurant").
+entry(wait, n, [waithins], "di act of person wey dey wait").
+entry(waitlist, v, [waitlisted,waitlisting,waitlists], "to put for list of people wey dey wait").
+entry(waitress, v, [waitressed,waitressing,waitresses], "to work like woman wey dey serve for restaurant").
+entry(waitron, n, [waitrons], "persin wey dey serve food for restaurant").
+entry(giveUp, v, [gaveUp,givingUp,givesUp], "to komot hand intentionally").
+entry(waiver, n, [waivers], "di act of waiv somtin").
+entry(wakame, n, [wakames], "one kain brown seaweed wey dey Asia").
+entry(wakanda, n, [wakandas], "supernatural force for Sioux belief").
+entry(wake, v, [woke,woken,waking], "WAKESto wake person wey dey sleep").
+entry("wakeful", "adj", [], "no dey sleep or fit sleep").
+entry("wakeless", "adj", [], "unbroken wey dem dey use talk about sleep").
+entry(waken, v, [wake, dey wake, dey wake], "to wake").
+entry(wakener, n, [wakeners], "persin wey dey wake people").
+entry(wakening, n, [wakenings], "the act of person wey dey wake up").
+entry(waker, n, [wakers], "pesin wey dey wake").
+entry(wakerife, adj, [], "dey awake").
+entry(wakiki, n, [wakikis], "shell moni for di South Sea Islands").
+entry(waking, n, [wakings], "di state of being awake").
+entry(wale, v, [waled,waling,wales], "to mark wit welt").
+entry(waler, n, [walers], "one Australian-bred saddle horse").
+entry(wali, n, [walis], "di goment of one province for Arab kontri").
+entry(walies, pl, [], "of waly").
+entry(waka, v, [wakad, wakin, wakas], "to dey move for legWAKABLE adj").
+entry(walkaway, n, [walkaways], "win without stress").
+entry(walker, n, [walkers], "persin wey dey waka").
+entry(walkies, interj, [], "wetin dem dey use tell dog make e ready for waka").
+entry(waka, n, [wakas], "di act of persin wey dey waka").
+entry(walkout, n, [walkouts], "na strike by workers").
+entry(walkover, n, [walkovers], "na walkaway").
+entry(walkup, n, [walkups], "house wey dem no get lift").
+entry(walkway, n, [walkways], "road wey person fit waka for").
+```prolog
+entry(walkyrie, n, [walkyries], "valkyrie").
+```
+entry(wall, v, [walled, walling, walls], "to provide with a wall an upright structure built to enclose an area").
+entry(walla, n, [wallas], "wallah").
+entry(wallaby, n, [wallabies], "small kangaroo").
+entry(wallah, n, [wallahs], "person wey dey do one kain work or activity").
+entry(wallaroo, n, [wallaroos], "big kangaroo").
+entry(wallet, n, [wallets], "na flat case wey person dey fold").
+entry(walley, n, [walleys], "na kain jump for figure skatin").
+entry(walleye, n, [walleyes], "eye wey cornea na whiteWALLEYED adj").
+entry(wallie, n, [wallies], "person wey dey park car").
+entry(wallies, pl, [], "of wally").
+entry(wallop, v, [walloped,walloping,wallops], "to knack well well").
+entry(walloper, n, [wallopers], "person wey dey wallop").
+entry(wallow, v, [dey wallow,dey wallowing,dey wallows], "to dey roll about").
+entry(wallower, n, [wallowers], "person wey dey roll for mud").
+entry(wally, n, [wallies], "waly").
+entry(walnut, n, [walnuts], "wan edible nut").
+entry(walrus, n, [walrus], "one water animal").
+entry(waltz, v, [waltzed,waltzing,waltzes], "to do ballroom dance").
+entry(waltzer, n, [waltzers], "persin wey dey dance waltz").
+entry(waly, n, [walies], "somtin dem sweet for eye").
+entry(wamble, v, [wambled,wambling,wambles], "to waka shake shake").
+entry(wambly, adj, [], "WAMBLIER WAMBLIESTno balance").
+entry(wame, n, [wames], "di belle").
+entry(wamefou, n, [wamefous], "bellefull").
+entry(wameful, n, [wamefuls], "wamefou").
+entry(wammus, n, [wammuses], "wamus").
+entry(wampish, v, [wampished,wampishing,wampishes], "to trow am about").
+entry(wampum, n, [wampums], "one kain money wey Native Americans been dey use before before").
+entry(wampus, n, [wampuses], "wamus").
+entry(wamus, n, [wamuses], "one kain heavy outer jacket").
+entry(wan, adj, [], "WANNER WANNEST di pesin face no get colour well well").
+entry("wan", v, ["waned", "wanin", "wan"], "to become wan").
+entry(wand, n, [wands], "one slim stick").
+entry(waka, v, [wakad,wakaing,wakas], "to move about wit no destination or purpose").
+entry(wanderer, n, [wanderers], "pesin wey dey waka upandan").
+```
+entry(wanderoo, n, [wanderoos], "one kain Asia monkey").
+```
+entry(wandle, adj, [], "supple").
+entry(wane, v, [wane, waning, wanes], "to decrease in size or extent").
+entry(waney, adj, [], "WANIER WANIESTwany").
+entry(wangan, n, [wangans], "wanigan").
+entry(wangle, v, [wangled, wangling, wangles], "na to get or do somtin by smart way").
+entry(wangler, n, [wanglers], "persin wey sabi wayo").
+entry(wangun, n, [wanguns], "wanigan").
+entry(wanier, comparative, [], "of waney and wany").
+```prolog
+entry(waniest, superlative, [], "of waney an wany").
+```
+```prolog
+entry(wanigan, n, [wanigans], "chest wey dem dey use for carry things for where people dey cut wood").
+```
+entry("waning", "present", [], "participle of wane").
+entry(wanion, n, [wanions], "revenge").
+entry(wanly, adv, [], "in a wan kain way").
+entry(wannabe, n, [wannabes], "person wey wan be like another person").
+entry(wannabee, n, [], "WANNABEESwannabe").
+entry(wanned, past, [], "tense of wan").
+entry(wanner, comparative, [], "of wan").
+entry(paleness, n, [palenesses], "di quality of being pale").
+entry(wannest, superlative, [], "of wan").
+entry(wannigan, n, [wannigans], "wanigan").
+entry(wanning, present, [], "participle of wan").
+entry(want, v, [dey want,dey want am,dey wan], "to get desire for something").
+entry(wantage, n, [wantages], "somtin wey dey miss").
+entry(pesinweywan, n, [pesinweywandem], "one wey dey want somtin").
+entry(wanton, v, [wantoned,wantoning,wantons], "to dey do bad bad things").
+entry(wantoner, n, [wantoners], "person wey dey do anyhow").
+entry("karekare", adv, [], "no get morals").
+entry(wany, adj, [], "WANIER WANIEST wan de commot for some part").
+entry(wap, v, [wapped,wapping,waps], "to wrap");.
+entry(wapiti, n, [wapitis], "big deer").
+entry(war, v, [warred, warring, wars], "to dey fight war, di kind wey involve open armed fight").
+entry(warbird, n, [warbirds], "olden days military plane").
+entry(warble, v, [warbled, warbling, warbles], "to sing with melodic embellishments").
+entry(warbler, n, [warblers], "wetin dey sing").
+entry(warbly, adj, [], "WARBLIER WARBLIEST wey pesin voice dey shake or vibrate").
+entry(warcraft, n, [warcrafts], "di art of war").
+entry(ward, v, [warded,warding,wards], "to turn side").
+entry(warden, n, [wardens], "di main officer for prison").
+entry(wardenry, n, [wardenries], "di office of a warden").
+entry(warder, n, [warders], "pesin wey dey guard somtin").
+entry(wardless, adj, [], "person wey e no get ward as part of di lock casing").
+entry(wardress, n, [wardresses], "na female warden").
+entry(wardrobe, n, [wardrobes], "collection of clothes").
+entry(wardrobe, v, [wardrobed,wardrobing,wardrobes], "to provide with cloth wey dem wear").
+entry(wardroom, n, [wardrooms], "place wey officers de chop for warship").
+entry(wardship, n, [wardships], "di state of being under a guardian").
+```
+entry(ware, v, [wared,waring,wares], "to dey careful"). 
+```
+entry(wareroom, n, [warerooms], "na room wey dem dey show goods for sale").
+entry(warez, n, [warez], "sofwe we dem copy illegal").
+entry(warfare, n, [warfares], "di act of engaging for war").
+entry(warfarin, n, [warfarins], "na chemical compound").
+entry(wargame, v, [wargamed, wargaming, wargames], "to do exercise for war like say na real military fight").
+entry(wargamer, n, [wargamers], "person wey dey play wargame").
+entry(warhead, n, [warheads], "di front part of missile wey carry di explosive").
+entry(warhorse, n, [warhorses], "na musical or dramatic work wey dem don perform too much").
+entry(warier, comparative, [], "of wary").
+entry("wariest", "superlative", [], "of wary").
+entry(carefully, adv, [], "in a careful way").
+entry(wariness, n, [warinesses], "di condition of wen pesin dey careful").
+entry(waring, present, [], "participle of ware").
+entry(warison, n, [warisons], "na call to attack").
+entry(wark, v, [warked,warking,warks], "to dey bear pain").
+entry(warless, adj, [], "wey no get war").
+entry("warlike", "adj", [], "person wey dey ready to fight war").
+entry(warlock, n, [warlocks], "persin wey sabi juju").
+entry(warlord, n, [warlords], "persin wey dey lead soldiers for war country").
+entry(warm, adj, [], "WARMER WARMESTmoderately hot").
+entry(warm, v, [warm, dem warm am, dey warm am], "to make warm").
+entry(warmaker, n, [warmakers], "person wey dey fight").
+entry(warmer, n, [warmers], "pesin wey dey make place warm").
+entry(warming, n, [warmings], "di act or instance of makin somtin warm").
+entry(warmish, adj, [], "kain small warm").
+entry(warmly, adv, [], "in a warm way").
+entry(warmness, n, [warmnesses], "di state of being warm").
+entry(warmouth, n, [warmouths], "one freshwater fish").
+entry(warmth, n, [warmths], "warmness").
+entry(warmup, n, [warmups], "na preparatory exercise or procedure").
+entry(warn, v, [warned,warning,warns], "to make pesin sabi say wahala fit happen").
+entry(warner, n, [warners], "person wey dey warn").
+entry(warning, n, [warnings], "something wey dey warn").
+entry(warp, v, [warp, de warp, dey warp], "to turn or twist out of shape").
+entry(warpage, n, [warpages], "di act of warping").
+entry(warpaint, n, [warpaints], "paint wey dem dey use decorate face and body before fight").
+entry(warpath, n, [warpaths], "di road wey dem dey follow when dem dey attack dem Native Americans").
+entry(warpa, n, [warpas], "pesin wey dey warp").
+entry(warplane, n, [warplanes], "na airplane wey dey armed for fight").
+entry(warpower, n, [warpowers], "di power to make war").
+entry(warpwise, adv, [], "for up and down direction").
+entry(warragal, n, [warragals], "warrigal").
+entry(warrant, v, [warranted,warranting,warrants], "to give authority to").
+entry(warranty, v, [warrantied,warrantying,warranties], "to give person paper wey go gree say dem go fix or replace something if e spoil").
+entry(fight, past, [], "tense of di fight").
+entry(warren, n, [warrens], "place wey rabbit dey live and born").
+entry(warrener, n, [warreners], "di persin wey dey take care of warren").
+```prolog
+entry(warrigal, n, [warrigals], "one kain wild dog"). 
+```
+entry(warring, present, [], "participle of war").
+entry("warrior", "noun", ["warriors"], "person wey dey fight or sabi war well well").
+entry(warsaw, n, [warsaws], "one marine fish").
+entry(warship, n, [warships], "ship wey dem fit use fight").
+entry(warsle, v, [warsled,warsling,warsles], "to wrestul").
+entry(warsler, n, [warslers], "persin wey dey do wrestling").
+entry(warstle, v, [warstled, warstling, warstles], "to dey fight body with body").
+entry(warstler, n, [warstlers], "pesin wey dey fight").
+entry(wart, n, [warts], "somtin wey dey bulge for skinWARTED adj").
+entry(warthog, n, [warthogs], "one kain African wild boar").
+entry(wartier, comparative, [], "of warty").
+entry(wartiest, superlative, [], "of warty").
+entry(wartime, n, [wartimes], "time wey na war").
+entry(wartless, adj, [], "no get wart").
+entry(wartlike, adj, [], "e be like wart").
+entry(warty, adj, [], "WARTIER WARTIESTde koko wey full warts").
+```prolog
+entry(warwork, n, [warworks], "work wey dem do during war").
+```
+entry(warworn, adj, [], "wey dey show say war don affect am").
+entry(wary, adj, [], "WARIER WARIESTdey shine eye").
+entry(was, 1st, [], "and 3rd person sing past indicative of be").
+entry(wasabi, n, [wasabis], "one strong herb").
+entry(wash, v, [washed,washing,washes], "to make clean by put for or apply water").
+entry(washable, n, [washables], "somtin wey dem fit wash witout spoil").
+entry(washbag, n, [washbags], "small bag wey you go use carry soap and tinz when you dey travel").
+```prolog
+entry(washbowl, n, [washbowls], "bowl wey dem dey use baff"). 
+```
+```prolog
+entry(washday, n, [washdays], "one day wey dem reserve for to wash clothes").
+```
+entry(washer, n, [washers], "person wey dey wash").
+entry("washier", "comparative", [], "na washy own").
+entry(washiest, superlative, [], "for washy").
+entry(washing, n, [washings], "things wey dem don wash or wan wash").
+entry(washout, n, [washouts], "wen wata dey carry soil go").
+entry(washrag, n, [washrags], "small cloth wey person dey use baff imself").
+entry(toilet, n, [toilets], "a place wey people dey use baff or piss").
+entry(washtub, n, [washtubs], "baf wey dem dey take wash clothes").
+entry(washup, n, [washups], "de act of washin clean").
+entry(washy, adj, [], "WASHIER WASHIESTtoo much wata").
+entry(wasp, n, [wasps], "one kain insect wey dey stingWASPISH WASPLIKE adj").
+entry(waspy, adj, [], "WASPIER WASPIESTe be like waspWASPILY adv").
+entry(wassail, v, [wassailed,wassailing,wassails], "to drink to di health of").
+entry(west, n, [wests], "west").
+entry(wastable, adj, [], "e fit waste am").
+entry(wastage, n, [wastages], "somtin wey dem waste").
+entry(waste, v, [wasted,wasting,wastes], "to use anyhow").
+entry(wasteful, adj, [], "de like to dey waste").
+entry(wastelot, n, [wastelots], "one open space wey no get anything").
+entry(waster, n, [wasters], "person wey dey waste").
+entry(wasterie, n, [wasteries], "waste").
+entry(wastery, n, [wasteries], "waste").
+entry(wasteway, n, [wasteways], "path wey excess wata dey follow go").
+entry(wasting, present, [], "na di participle of waste").
+entry(wastrel, n, [wastrels], "person wey dey waste").
+entry("wastrie", n, ["wastries"], "wastry").
+entry(wastry, n, [wastries], "waste anyhow").
+entry(wat, adj, [], "WATA WETIN WETESTwet").
+entry(wat, n, [wats], "one hare").
+entry(watap, n, [wataps], "thread wey dem make from roots of some kain trees").
+entry(watape, n, [watapes], "watap").
+entry(wach, v, [wacham,wachin,waches], "to de look well well").
+entry(watchcry, n, [watchcries], "na di password").
+entry(watchdog, v, [watchdogged, watchdogging, watchdogs], "to dey act like guardian for").
+entry(watcher, n, [watchers], "person wey dey look").
+```prolog
+entry(watcheye, n, [watcheyes], "na walleye").
+```
+entry("watchful", "adj", [], "person wey dey look well well or dey shine eye well well").
+entry(watchman, n, [watchmen], "man wey dem employ to dey guard").
+entry(watchout, n, [watchouts], "di act of di look out for somtin").
+entry(wata, v, [watered, watering, waters], "to sprinkle wit wata a transparent odorless tasteless liquid").
+entry(waterage, n, [waterages], "di way wey dem dey carry goods by water").
+entry(waterbed, n, [waterbeds], "bed wey mattress na plastic bag wey dem fill wit water").
+entry(waterbus, n, [waterbuses], "or WATERBUSSESn big motorboat wey dey carry passengers").
+entry(watadog, n, [watadogs], "wan big salamanda").
+```prolog
+entry(waterer, n, [waterers], "person wey dey water"). 
+```
+entry(waterhen, n, [waterhens], "di American coot").
+entry(waterier, comparative, [], "of watery").
+entry("wateriest", superlative, [], "of watry").
+entry(waterily, adv, [], "in watery way").
+entry('wetin', n, ['wetins'], "di act of person wey dey pawa water").
+entry(wataish, adj, [], "watery").
+entry(waterjet, n, [waterjets], "na stream of water wey dem force pass small opening").
+entry(waterlog, v, [waterlogged,waterlogging,waterlogs], "to soak wit wata").
+entry("waterloo", n, ["waterloos"], "a decisif loss").
+```prolog
+entry(waterman, n, [watermen], "boatman").
+```
+entry(waterski, n, [waterskis], "ski wey dem take ski for water").
+entry(wataway, n, [wataways], "wata we dem fit pass").
+entry(watery, adj, [], "MORE WATER, MOST WATERcontain water").
+entry(watt, n, [watts], "na unit of power").
+entry(wattage, n, [wattages], "di amount of power wey dem dey talk about ontop watts").
+entry(wattape, n, [wattapes], "watap").
+entry(watter, comparative, [], "of watta").
+entry(wattest, superlative, [], "of wetin").
+entry(watthour, n, [watthours], "na unit of energy").
+entry(wattle, v, [wattled, wattling, wattles], "to put am together like net").
+entry(wattless, adj, [], "mean sey kain electric current wey no dey do work").
+entry(waucht, v, [wauchted,wauchting,wauchts], "to waught").
+entry(waugh, adj, [], "wet").
+entry(waught, v, [waughted, waughting, waughts], "to drink well well").
+entry(wauk, v, [wauked,wauking,wauks], "to wake").
+entry(waul, v, [wauled,wauling,wauls], "to shout like cat dey cry").
+entry(waur, adj, [], "wors").
+entry(wave, v, [waved,waving,waves], "to dey move freely back and forth or up and down").
+entry(waveband, n, [wavebands], "na range of radio frequencies").
+entry(waveform, n, [waveforms], "na kain matimatiks graph").
+entry(waveless, adj, [], "no get wave dey move for di surface of any liquid").
+entry(wavelet, n, [wavelets], "small wave").
+entry(wavelike, adj, [], "e be like wave").
+entry(waveoff, n, [waveoffs], "di act of deny landing permission to aircraft wey dey approach").
+entry(waver, v, [wavered,wavering,wavers], "to dey move front and back").
+entry(waverer, n, [waverers], "persin wey dey shake for decision").
+entry(wavery, adj, [], "de shake").
+entry(wavey, n, [waveys], "di snow goose").
+entry(wavicle, n, [wavicles], "na subatomic particle wey fit act like both wave and particle").
+entry(wavier, comparative, [], "of wavy").
+entry(wavies, pl, [], "of wavy").
+entry(waviest, superlative, [], "of wavy").
+entry(wavily, adv, [], "in a wavy way").
+entry(waviness, n, [wavinesses], "di condition wey e dey wavy").
+entry(wave, present, [], "participle of wave").
+```prolog
+entry(wavy, adj, [], "GET WAVES GET WAVEST MAK WEV"). 
+```
+entry(wavy, n, [wavies], "wavey").
+entry(waw, n, [waws], "βaβ").
+entry(wawl, v, [wawled,wawling,wawls], "to make noise like cat").
+entry(wax, v, [waxed,waxing,waxes], "to cover wit wax wey be natural heat-sensitive substanceWAXABLE adj").
+Prolog:
+entry(waxberry, n, [waxberries], "one berry wey get wax coating").
+entry(waxbill, n, [waxbills], "one kain tropical bird").
+entry(waxen, adj, [], "dey cover wit wax").
+entry(waxer, n, [waxers], "one wey dey wax").
+entry(waxier, comparative, [], "of waxy").
+entry(waxiest, superlative, [], "of waxy").
+entry(waxily, adv, [], "like wax e dey be").
+entry(waxiness, n, [waxinesses], "di quality of being waxy").
+entry(waxing, n, [waxings], "di act of person wey dey wax").
+entry(waxlike, adj, [], "e dey resemble wax").
+entry(waxplant, n, [waxplants], "one tropikal plant").
+entry(waxweed, n, [waxweeds], "one yearly herb").
+entry(waxwing, n, [waxwings], "one kain bird wey belong to di passerine group").
+entry(waxwork, n, [waxworks], "image wey dem make with wax").
+entry(waxworm, n, [waxworms], "na moth wey dey spoil beehives").
+entry(waxy, adj, [], "WAXIER WAXIESTwey be like wax").
+entry(way, n, [ways], "way to do somtin").
+entry(wayang, n, [wayangs], "na performance wey feature puppets or human dancers").
+entry(waybill, n, [waybills], "list of goods wey dey relate to shipment").
+entry(wayfarer, n, [wayfarers], "person wey dey travel").
+entry(waygoing, n, [waygoings], "di act of waka comot").
+entry(waylay, v, [waylaid,waylaying,waylays], "to ambush").
+entry(waylayer, n, [waylayers], "persin wey dey ambush").
+entry(wayless, adj, [], "we no get road or path").
+entry(waymark, n, [waymarks], "somtin wey dey guide travelers").
+entry(waypoint, n, [waypoints], "na point between major points along a route").
+entry(wayside, n, [waysides], "di side of road").
+entry(wayward, adj, [], "willful").
+entry(wayworn, adj, [], "taya from waka").
+entry(we, pron, [], "1st pesin pl pronoun for nominative case").
+entry(weak, adj, [], "WEAKER WEAKESTno get power").
+entry(weaken, v, [weakened,weakening,weakens], "to make weak").
+entry(weakener, n, [weakeners], "somtin wey dey make person or tin no strong").
+entry(weakfish, n, [weakfishes], "one marine fish").
+entry(weakish, adj, [], "kain kine weak").
+entry(weakling, n, [weaklings], "pesin we no strong").
+entry(weakly, adj, [], "WEAKLIER WEAKLIESTweak and sickly").
+entry(weakness, n, [weaknesses], "di condition of being weak").
+entry(weakon, n, [weakons], "one kind subatomic particle").
+entry(weakside, n, [weaksides], "di side of basketball court wey get less players").
+entry(weal, n, [weals], "na mark for skin").
+entry(weald, n, [wealds], "forest place").
+entry(wealth, n, [wealths], "plenti valuable tins wey person get").
+entry(wealthy, adj, [], "WEALTHIER WEALTHIESTget money").
+entry(wean, v, [weaned,weaning,weans], "to stop mama milk and give another food").
+entry(weaner, n, [weaners], "person wey dey make pikin stop breast milk").
+entry(pikin wey dem just stop to breastfeed am, n, [pikins wey dem just stop to breastfeed dem], "pikin or animal wey dem just stop to breastfeed am").
+entry(weapons, v, [weaponed, weaponin, weapons], "to supply wit weapon, di instrument wey dem dey use for fight").
+entry(weaponry, n, [weaponries], "na collection of weapons dem").
+entry(wear, v, [wore,worn,wearing], "WEARto dey for person body").
+entry(wearable, n, [wearables], "cloth wey pesin fit wear").
+entry(wearer, n, [wearers], "person wey dey wear something").
+entry(don_taya, past, [], "tense of taya").
+entry("wearier", "comparative", [], "of weary").
+entry("wearies", "present", [], "3rd person sing of weary").
+entry(weariful, adj, [], "e dey tire person").
+entry(wearish, adj, [], "e no get taste").
+entry(taya, adj, [], "TAYERA TAYESTtiredTAYA adv").
+entry(weary, v, [wearied, wearying, wearies], "to make or become weary").
+entry(weasand, n, [weasands], "di throat").
+entry(weasel, v, [weaseled,weaseling,weasels], "or WEASELLED WEASELLING WEASELSto dey act evasively").
+entry("weaselly", adj, [], "e resemble weasel wey be small carnivorous animal").
+entry(weasely, adj, [], "weaselly").
+entry(weason, n, [seasons], "weasand").
+entry(weather, v, [weathered, weathering, weathers], "to expose to atmospheric conditions").
+entry(weave, v, [weaved,woven,weaving], "WEAVEto form by interlacing threads").
+entry(weaver, n, [weavers], "persin wey dey weave").
+entry(weaving, n, [weavings], "di activity of making woven materials").
+entry(weazand, n, [weazands], "throat").
+entry(web, v, [webbed,webbing,webs], "to provide wit web na make dem interlace fabric or structure").
+entry(webbing, n, [webbings], "woven fiber strip").
+entry(webby, adj, [], "LIKE WEBSMALL WEBSMALLESTweb style").
+entry(webcam, n, [webcams], "kamera wey dem dey use send live image for Internet").
+entry(webcast, v, [webcasted,webcasting,webcasts], "to send sound and image through internet").
+entry(weber, n, [webers], "one unit of magnetic flux").
+entry(webfed, adj, [], "wey dem design to print paper wey no dey break").
+entry(webfoot, n, [webfeet], "leg wey e get the toes join by one kain membrane").
+entry(webina, n, [webinas], "na live presentation for di internet wey pipo fit ask question and learn from").
+entry(webisode, n, [webisodes], "na episode of television show wey you fit watch for website").
+entry(webless, adj, [], "no get web").
+entry(weblike, adj, [], "e resemble web").
+entry(weblog, n, [weblogs], "na website wey get online personal journal").
+entry(webpage, n, [webpages], "na one document wey dey di World Wide Web").
+entry(website, n, [websites], "set of webpages wey person or organization dey maintain").
+```prolog
+entry(webster, n, [websters], "person wey dey weave cloth").
+```
+entry(webwork, n, [webworks], "wetin be like cobweb or structure wey be like cobweb").
+entry(webworm, n, [webworms], "na caterpillar wey dey spin web").
+entry(webzine, n, [webzines], "na magazine we dem publish for Internet").
+entry(wecht, n, [wechts], "weight").
+entry(wed, v, [wedded,wedding,weds], "to do marriage").
+entry(persin_wey_dey_do_weddin, n, [persins_wey_dey_do_weddin], "persin wey dey do weddin").
+entry("wedding", "n", ["weddings"], "marriage ceremony").
+entry(wedel, v, [wedeled, wedeling, wedels], "to perform a wedeln").
+entry(wedeln, n, [wedelns], "skiing technique wey dem dey use").
+entry(wedge, v, [wedged,wedging,wedges], "to force apart with a wedge a tapering piece of wood or metal").
+entry(wedgie, n, [wedgies], "one kain woman shoe").
+entry(wedgy, adj, [], "WEDGIER WEDGIEST dey like wedge").
+entry(wedlock, n, [wedlocks], "di state of being married").
+entry(small, adj, [], "SMOL SMOLveri smol").
+entry(wee, v, [pis,pising,pises], "to pis").
+entry(weed, v, [weeded, weeding, weeds], "to remove weeds undesirable plants").
+entry(weedbed, n, [weedbeds], "place wey dey for water wey get plenty weed").
+entry(weeder, n, [weeders], "pesin wey dey remove grass").
+entry(weedier, comparative, [], "of weedy").
+entry(weediest, superlative, [], "of weedy").
+entry(weedily, adv, [], "for a way wey dey full of weed").
+entry(weedless, adj, [], "e no get weed").
+entry(weedlike, adj, [], "e resemble weed").
+entry(weedline, n, [weedlines], "di edge of a weedbed").
+entry(weedy, adj, [], "WEEDIER WEEDIEST wey resemble weed").
+entry(week, n, [weeks], "na seven days e take").
+entry(weekday, n, [weekdays], "any day for week wey no be Saturday or Sunday").
+entry(weekend, v, [weekended,weekending,weekends], "to spend weekend to end di week").
+entry(weeklong, adj, [], "wey go last for one week").
+entry(weekly, n, [weeklies], "na publication wey dem dey release every week").
+entry(weel, adj, [], "well").
+entry(ween, v, [weened, weening, weens], "to tink").
+entry(weenie, n, [weenies], "one wiener").
+entry(weensy, adj, [], "SMOL SMOLESTtiny").
+entry(weeny, adj, [], "WEENIER WEENIESTtinini").
+entry(cry, v, [cried,crying,cries], "to show say you dey sad by dey shed tear").
+entry(weeper, n, [weepers], "person wey dey cry").
+entry(weepie, n, [weepies], "one kain emotional film").
+entry(cry, n, [cries], "di act of pesin wey dey cry").
+entry(weepy, adj, [], "WEEPIER WEEPIESTdey quick wan cryWEEPILY adv").
+entry(weer, comparative, [], "of wee").
+```
+entry(weest, superlative, [], "of wee").
+```
+entry(weet, v, [weeted, weeting, weets], "to sabi").
+entry(weever, n, [weevers], "one kain fish wey dey for sea").
+entry(weevil, n, [weevils], "one kain small beetleWEEVILED WEEVILLY WEEVILY adj").
+entry(weewee, v, [weeweed, weeweeing, weewees], "to piss").
+entry(weft, n, [wefts], "cloth wey dem don weave").
+entry(weftwise, adv, [], "for horizontal direction").
+entry(weigela, n, [weigelas], "na flowering shrub").
+entry(weigelia, n, [weigelias], "weigela").
+entry(weigh, v, [weighed,weighing,weighs], "to sabi di weight of").
+entry(weigher, n, [weighers], "persin wey dey check weight").
+```prolog
+entry(weighman, n, [weighmen], "person wey him work na to dey weigh goods").
+```
+entry(weight, v, [weighted,weighting,weights], "to add weight heaviness to").
+entry(weighter, n, [weighter dem], "pesin wey dey weigh somtin").
+entry(weighty, adj, [], "HEAVY, MORE HEAVY, MOST HEAVY").
+entry(weiner, n, [weiners], "wiener").
+entry(weir, n, [weirs], "fence wey dem put for stream to catch fish").
+entry(weird, v, [weirded, weirding, weirds], "to make person feel strange something").
+entry(weird, adj, [], "WEIRDER WEIRDESTmysteriously strange").
+entry(weird, n, [weirds], "destiny").
+entry(weirdie, n, [weirdies], "person wey dey very strange").
+entry(weirdies, pl, [], "of weirdy").
+entry(weirdly, adv, [], "in one kain way").
+entry(weirdo, n, [weirdoes], "wey dem dey call WEIRDOSa weirdie").
+entry(weirdy, n, [weirdies], "weirdie").
+entry(weka, n, [wekas], "one bird wey no sabi fly").
+entry(welch, v, [welched, welching, welches], "to run away from your responsibilities").
+entry(welcher, n, [welchers], "pesin wey de fail im promises").
+entry(welcome, v, [welcomed,welcoming,welcomes], "to greet cordially").
+entry(welcomer, n, [welcomers], "pesin wey dey welcome").
+entry(weld, v, [welded,welding,welds], "to join by applying heatWELDABLE adj").
+entry(welder, n, [welders], "pesin wey dey do welding").
+entry(weldless, adj, [], "e no get weld joints").
+entry(weldment, n, [weldments], "na unit wey dem join wit weld").
+entry(weldor, n, [weldors], "welda").
+entry(welfare, n, [welfares], "general wellbeing").
+entry(sky, n, [skies], "the sky").
+entry(well, v, [welled,welling,wells], "to rise to di surface and flow comot").
+entry(welladay, n, [welladays], "wellaway").
+entry(wellaway, n, [wellaways], "expression of sorrow").
+entry(wellborn, adj, [], "na person wey get better family or ancestors").
+entry(wellcurb, n, [wellcurbs], "di stone ring around well wey dem dig ground to collect wata").
+entry(person_wey_dey_do_good, n, [people_wey_dey_do_good], "person wey dey do good things").
+entry(wellhead, n, [wellheads], "di source of a spring or stream").
+entry(wellhole, n, [wellholes], "di shaft of a well").
+entry(wellie, n, [wellies], "Wellington boot").
+entry("wellies", pl, [], "of welly").
+entry(wellness, n, [wellnesses], "di condition of to dey healthy").
+entry(wellsite, n, [wellsites], "one mineral").
+entry(welly, n, [wellies], "wellie").
+entry(welsh, v, [welshed,welshing,welshes], "to fail to pay money you dey owe").
+entry(welsher, n, [welshers], "person wey dey break promise").
+```prolog
+entry(welt, v, [welted,welting,welts], "to mark with welts ridges or lumps wey raise for skin").
+```
+```prolog
+entry(welter, v, [weltered,weltering,welters], "to dey roll about").
+```
+```prolog
+entry(welting, n, [weltings], "cord or tape dem we dey use to strong seam").
+```
+entry(wen, n, [wens], "one kind skin tumor wey no dey do bad").
+entry(wench, v, [dey_follow_ashawo, dey_follow_ashawoing, dey_follow_ashawos], "to dey with ashawo dem").
+entry(wencher, n, [wenchers], "person wey dey waka waka").
+entry(wend, v, [dem wend, dem de wend, dem de wend am], "to waka follow road").
+entry(wendigo, n, [wendigos], "windigo").
+entry(wennish, adj, [], "wenny").
+entry(wenny, adj, [], "WENNIER WENNIESTde resemble wen").
+entry(went, past, [], "na how you dey talk say person don waka").
+entry(cry, past, [], "tense of cry").
+entry(were, a, [], "pl an 2d pesin sing past indicative an past subjunctive of be").
+entry(weregild, n, [weregilds], "wergeld").
+```
+entry(werewolf, n, [werewolves], "person wey fit change to wolf").
+```
+entry(wergeld, n, [wergelds], "money wey dem go pay for killin person life for AngloSaxon law").
+entry(wergelt, n, [wergelts], "wergeld").
+entry(wergild, n, [wergilds], "wergeld").
+entry(wert, a, [], "2d person sing past tense of be").
+entry(werwolf, n, [werwolves], "werewolf").
+entry(weskit, n, [weskits], "na vest").
+entry(wessand, n, [wessands], "throat").
+entry(west, n, [west], "one direction for compass").
+entry(wester, v, [westered, westering, westers], "to dey move go west").
+entry(westerly, n, [west_wind_dem], "breeze wey dey blow from west side").
+entry(western, n, [westerns], "pesin we dey live for west").
+entry(westing, n, [westings], "a shifting west").
+entry(westmost, adj, [], "farthest west").
+entry(weside, n, [tawards_weside], "na di direction wey person dey go towards di weside").
+entry(wet, adj, [], "WETTER WETTESTkova or ful with liquid").
+entry(wet, v, [wet am, de wet, dem wet], "to make wet").
+entry(weta, n, [weta dem], "big insect for New Zealand wey no get wing").
+entry(wether, n, [wethers], "one castrated male sheep").
+entry(wetland, n, [wetlands], "land wey contain plenty water for soil").
+entry("wet wet", adv, [], "in a wet manner").
+entry(wetness, n, [wetnesses], "di condition wen somtin dey wet").
+entry(wetproof, adj, [], "waterproof").
+```prolog
+entry(wetsuit, n, [wetsuits], "na closefitting rubberlike cloth wey skin divers dey wear for cold water").
+```
+entry(wettable, adj, [], "fit make e dey soak water").
+entry(dèm-wèt, past, [], "tens wey mean say persin don wèt").
+entry(wet, n, [wets], "pəsin wey dey make wet").
+entry("wettest", "superlative", [], "wet").
+entry(wetin, n, [wetins], "liquid wey dem dey use soak sometin").
+entry(wettish, adj, [], "somehow wet").
+entry(wetware, n, [wetwares], "di human brain wen you consider as e dey function like computer").
+entry(wetin, pron, [], "who").
+entry(whack, v, [whacked, whacking, whacks], "to hit am strong strong").
+entry(whacked, adj, [], "1 drunk wit alcohol or drugs 2 very tired").
+entry(whacker, n, [whackers], "pesin wey de nack").
+entry(whacking, n, [whackings], "di act or one instance of striking something sharply").
+entry(whacko, n, [whackos], "wacko").
+entry(whacky, adj, [], "WHACKIER WHACKIESTwacky").
+entry(whale, v, [whaled,whaling,whales], "to join body for hunt the big fish wey dem dey call whale, big marine animals").
+entry(whaleman, n, [whalemen], "person wey dey hunt whale").
+entry("whaler", n, ["whalers"], "person wey dey do whaling").
+entry(whelin, n, [whelinks], "di work of hunt an process whales").
+entry(wham, v, [whammed,whamming,whams], "to knack wit loud impact").
+entry(whammo, interj, [], "We dey use am to show say something don happen wey surprise person").
+entry(whammy, n, [whammies], "na supernatural spell wey dey bring bad luck").
+entry(whamo, interj, [], "whammo").
+entry(whang, v, [whanged,whanging,whangs], "to flog wit whip").
+entry(whangee, n, [whangees], "one kain Asian grass").
+entry(whap, v, [whapped,whapping,whaps], "to knock").
+entry(whapper, n, [whappers], "whopper").
+entry(wharf, v, [wharfed, wharfing, wharfs], "to tie vessel for wharf docking place for vessels").
+entry(wharfage, n, [wharfages], "di use of a wharf").
+entry(wharve, n, [wharves], "round wood wey dem dey use for spin thread").
+entry(wetin, n, [wetin], "the real nature of somtin").
+entry(wetin, adj, [], "wetin e fit be or who e be").
+entry(whatness, n, [whatnesses], "di real nature of somtin").
+entry(whatnot, n, [whatnots], "set of shelves wey dem dey use for decoration").
+entry(whatsis, n, [whatsises], "whatsit").
+entry(whatsit, n, [whatsits], "somtin wey person no sabi or don forget di name").
+entry(wetinso, pron, [], "wetin or who e fit be").
+entry(whaup, n, [whaups], "one kain European bird").
+entry(wheal, n, [wheals], "one kain mark for body").
+entry(wheat, n, [wheats], "one cereal grass").
+entry(wheatear, n, [wheatears], "one small bird from northern regions").
+entry(wheaten, n, [wheatens], "one kain pale yellow color").
+entry(whee, interj, [], "na wetin dem dey use show say dem happy").
+entry(wheedle, v, [wheedled,wheedling,wheedles], "to try make person do wetin you want by sweet mouth").
+entry(wheedler, n, [wheedlers], "person wey dey sweet-talk").
+entry(wheel, v, [wheeled,wheeling,wheels], "to carry for top wheel round shape wey fit dey rotate for axis").
+entry(wheeler, n, [wheelers], "person wey dey wheel").
+entry(wheelie, n, [wheelies], "na stunt wey dem dey do wit machine wey get wheel").
+entry(wheeling, n, [wheelings], "di condition of road for motors").
+entry(wheelman, n, [wheelmen], "person wey dey control ship or boat").
+entry(wheens, n, [wheens], "plenty plenty").
+entry(wheep, v, [don wheep, dey wheep, dey wheep], "to dey wheepu").
+entry(wheeple, v, [wheepled,wheepling,wheeples], "to dey make long whistle sound").
+entry(wheese, v, [wheesed,wheesing,wheeses], "to dey brete wit whistlin sound").
+entry(wheezer, n, [wheezers], "one wey dey wheeze").
+entry(wheezy, adj, [], "WHEEZIER WHEEZIESTdey wheezeWHEEZILY adv").
+entry(whelk, n, [whelks], "one bump wey dey skin").
+entry(whelky, adj, [], "WHELKIER WHELKIESTmarked wit whelks").
+entry(whelm, v, [whelmed,whelming,whelms], "to cover with wata").
+```prolog
+entry(whelp, v, [whelped, whelping, whelps], "to born pikin").
+```
+entry(when, n, [whens], "di time wey somtin happen or dem do somtin").
+entry(whenas, conj, [], "at di time wey").
+entry(whence, conj, [], "from wetin place").
+entry(whenever, conj, [], "anytime wey e happen").
+entry(where, n, [wheres], "di place wey something dey or happun").
+entry(whereas, n, [whereases], "na di beginning statement of one formal document").
+entry(wia, conj, [], "at which").
+```prolog
+entry(whereby, conj, [], "by wetin").
+```
+entry(wherein, conj, [], "wey dem take").
+entry(whereof, conj, [], "of which").
+entry(whereon, conj, [], "on top which").
+entry(whereto, conj, [], "to which").
+entry(wherever, conj, [], "for any place wey e be").
+entry(wherry, v, [wherried,wherrying,wherries], "to carry for light waka boat").
+entry(wherve, n, [wherves], "wharf").
+entry(whet, v, [whetted,whetting,whets], "to make sharp by rubbing am well well").
+entry(whether, conj, [], "if na so e be say").
+entry(whetter, n, [whetters], "persin wey dey sharpin").
+entry("whew", nn, ["whews"], "sound wey be like whistle").
+entry(whey, n, [wheys], "di watery part of milkWHEYEY WHEYISH adj").
+entry(wheyface, n, [wheyfaces], "pale sallow face").
+entry(weylik, adj, [], "wey resemble whey").
+entry(which, pron, [], "which one be am or which ones").
+entry(whicker, v, [whickered,whickering,whickers], "to dey whinny").
+entry(whid, v, [whidded,whidding,whids], "to move sharply and quietly").
+entry(whidah, n, [whidahs], "whydah").
+entry(whiff, v, [whiffed,whiffing,whiffs], "to blow or carry with small puff of air").
+entry(whiffer, n, [whiffers], "person wey dey smell").
+entry(whiffet, n, [whiffets], "person wey no get importance").
+entry(whiffle, v, [whiffled,whiffling,whiffles], "to waka or think anyhow anyhow").
+entry(whiffler, n, [whifflers], "pesin wey dey whiffle").
+entry(whiffy, adj, [], "WEY NO DEY SMELL NICE WHIFFIER WHIFFIEST").
+entry(whig, n, [whigs], "pesin wey dey see history as steady win of progress ova backward forces").
+entry(while, v, [whiled,whiling,whiles], "to make time pass well well").
+entry(whilom, adv, [], "formally").
+entry(whilst, conj, [], "as time dey go").
+entry(whim, n, [whims], "an idea wey dey come from impulsive").
+entry(whimbrel, n, [whimbrels], "shore bird").
+entry(whimper, v, [whimpered,whimpering,whimpers], "to dey cry wit soft broken sounds").
+```prolog
+entry(whimsey, n, [whimseys], "whimsy").
+```
+entry(whimsy, n, [whimsies], "adj whimsied").
+entry(whin, n, [whins], "furze").
+entry(whinchat, n, [whinchats], "one kain songbird").
+entry(kpakam, v, [kpaka, kpakah, kpakas], "to dey make some kain highpitched noise").
+entry(whiner, n, [whiners], "person wey dey complain all the time").
+entry(whiney, adj, [], "WHINIER WHINIESTwhiny").
+entry(whinge, v, [], "DEY WHINE WHINED WHINING to dey carry face").
+entry(whinger, n, [whingers], "persin wey dey complain").
+entry(whingy, adj, [], "WHINGIER WHINGIEST dey complain too much").
+entry(whinier, comparative, [], "of whiney and whiny").
+entry(whiniest, superlative, [], "of whiney and whiny").
+entry(whining, present, [], "participle of whine").
+entry(whinny, adj, [], "WHINNIER WHINNIESTfull wit whin").
+entry(whinny, v, [whinnied,whinnying,whinnies], "to neigh for low or gentle way").
+entry(whiny, adj, [], "WHINIER WHINIESTdey like complain").
+entry(wip, v, [wipt,wiping,wips], "to flog wit whip, na instrument wey dem dey use for corporal punishment").
+entry(whipcord, n, [whipcords], "strong twisted cord").
+entry(whiplash, n, [whiplashes], "di lash of a whip").
+entry(whipless, adj, [], "no get whip").
+entry(like_whip, adj, [], "e be like whip").
+entry(whipped, a, [], "past form of whip").
+entry(whipper, n, [whippers], "person wey dey whip").
+entry(whippet, n, [whippets], "one small fast dog").
+entry(wípin, n, [wípins], "material wey dem de use flog").
+entry(whippit, n, [whippits], "small container of nitrous oxide").
+```
+entry(whippy, adj, [], "WHIPPIER WHIPPIESTdey like or resemble whip").
+```
+entry(whipray, n, [whiprays], "one kain stingray").
+entry(whipsaw, v, [whipsawed,whipsawn,whipsawing], "WHIPSAWna to cut wit narrow tapering saw").
+entry(whipt, a, [], "past tense of whip").
+entry(whiptail, n, [whiptails], "one lizard wey get long, thin tail").
+entry(whipworm, n, [whipworms], "one parasitic worm").
+```prolog
+entry(whir, v, [whirred,whirring,whirs], "to move with a buzzing sound).
+```
+```prolog
+entry(xanthan, n, [xanthans], "gum wey dem dey produce by bacterial fermentationXANTHATE n pl XANTHATESchemical saltXANTHEIN n pl XANTHEINSdi water-soluble part of di coloring matter for yellow flowersXANTHENE n pl XANTHENESchemical compoundXANTHIC adj e dey tend to get yellow colorXANTHIN n pl XANTHINSyellow pigmentXANTHINE n pl XANTHINESchemical compoundXANTHOMA n pl XANTHOMAS or XANTHOMATAone kind skin diseaseXANTHONE n pl XANTHONESchemical compoundXANTHOUS adj yellowXEBEC n pl XEBECSMediterranean sailing vesselXENIA n pl XENIASdi effect wey pollen get on certain plant structuresXENIAL adjXENIC adj about one type of culture mediumXENOGAMY n pl XENOGAMIEStransfer of pollen from one plant to anotherXENOGENY n pl XENOGENIESdi supposed production of offspring wey different from di parentXENOLITH n pl XENOLITHSone rock fragment wey dem carry put for another rockXENON n pl XENONSone gaseous elementXENOPUS n pl XENOPUSESone frog wey dey southern AfricaXENOTIME n pl XENOTIMESone yellowish-brown mineralXERARCH adj e dey develop for dry areaXERIC adj e no need much moistureXEROSERE n pl XEROSERESdryland sereXEROSIS n pl XEROSESabnormal dryness of one body part or tissueXEROTIC adjXEROX v XEROXED XEROXING XEROXESmake copy for xerographic copierXERUS n pl XERUSESone African ground squirrelXI n pl XISGreek letterXIPHOID n pl XIPHOIDSone part of di sternumXU n pl XUmoney unit of VietnamXYLAN n pl XYLANSsubstance wey dey for cell walls for plantsXYLEM n pl XYLEMScomplex plant tissueXYLENE n pl XYLENESflammable hydrocarbonXYLIDIN n pl XYLIDINSxylidineXYLIDINE n pl XYLIDINESchemical compoundXYLITOL n pl XYLITOLSone alcoholXYLOCARP n pl XYLOCARPSone hard woody fruitXYLOID adj e resemble woodXYLOL n pl XYLOLSxyleneXYLOSE n pl XYLOSESone type of sugarXYLOTOMY n pl XYLOTOMIESdi preparation of wood sections for microscopic examinationXYLYL n pl XYLYLSunivalent radicalXYST n pl XYSTSxystusXYSTER n pl XYSTERSone surgical instrument for scraping bonesXYSTOS n pl XYSTOIxystusXYSTUS n pl XYSTIone roofed area wey athletes dey train for ancient Greece").
+```
+```prolog
+entry(ya, n, [yas], "an Asian pearYABBER v YABBERED YABBERING YABBERSto jabberYABBIE n pl YABBIESyabbyYABBY n pl YABBIESan Australian crayfishYACHT v YACHTED YACHTING YACHTSto sail in a yacht a vessel used for pleasure cruising or racingYACHTER n pl YACHTERSone who sails a yachtYACHTIE n pl YACHTIESa yachterYACHTING n pl YACHTINGSthe sport of sailing in yachtsYACHTMAN n pl YACHTMENa yachterYACK v YACKED YACKING YACKSto yakYAFF v YAFFED YAFFING YAFFSto barkYAFFLE n pl YAFFLESthe European green woodpeckerYAG n pl YAGSa synthetic garnetYAGE n pl YAGES a tropical vine of the Amazon regionYAGER n pl YAGERSjaegerYAGI n pl YAGISa type of shortwave antennaYAH interj  used as an exclamation of disgustYAHOO n pl YAHOOSa coarse uncouth personYAHOOISM n pl YAHOOISMScoarse uncouth behaviorYAHRZEIT n pl YAHRZEITSan anniversary of the death of a family member observed by JewsYAIRD n pl YAIRDSa gardenYAK v YAKKED YAKKING YAKSto chatterYAKITORI n pl YAKITORISmarinated chicken pieces on skewersYAKKER n pl YAKKERSone that yaksYAKUZA n pl YAKUZAan alliance of Japanese criminal organizationsYALD adj yauldYAM n pl YAMSa plant having an edible rootYAMALKA n pl YAMALKASyarmulkeYAMEN n pl YAMENSthe residence of a Chinese public officialYAMMER v YAMMERED YAMMERING YAMMERSto whine or complain peevishlyYAMMERER n pl YAMMERERSone that yammersYAMULKA n pl YAMULKASyarmulkeYAMUN n pl YAMUNSyamenYANG n pl YANGSthe masculine active principle in Chinese cosmologyYANK v YANKED YANKING YANKSto pull suddenlyYANQUI n pl YANQUISa United States citizenYANTRA n pl YANTRASa geometrical diagram used in meditationYAP v YAPPED YAPPING YAPSto bark shrillyYAPOCK n pl YAPOCKSan aquatic mammalYAPOK n pl YAPOKSyapockYAPON n pl YAPONSyauponYAPPED past tense of yapYAPPER n pl YAPPERSone that yapsYAPPING present participle of yapYAPPY adj YAPPIER YAPPIESTinclined to yapYAR adj yareYARAK n pl YARAKSa fit condition for hunting  used of a hawkYARD v YARDED YARDING YARDSto put in a yard a tract of ground adjacent to a buildingYARDAGE n pl YARDAGESthe use of an enclosure for livestock at a railroad stationYARDARM n pl YARDARMSeither end of a ships sparYARDBIRD n pl YARDBIRDSan army recruitYARDER n pl YARDERSone having a specified number of yards in lengthYARDLAND n pl YARDLANDSan old English unit of land measureYARDMAN n pl YARDMENa man employed to do outdoor workYARDWAND n pl YARDWANDSa measuring stickYARDWORK n pl YARDWORKSthe work of caring for a lawnYARE adj YARER YARESTnimbleYARELY advYARMELKE n pl YARMELKESyarmulkeYARMULKA v pl YARMULKASyarmulkeYARMULKE n pl YARMULKESa skullcap worn by Jewish malesYARN v YARNED YARNING YARNSto tell a long storyYARNER n pl YARNERSone that yarnsYARROW n pl YARROWSa perennial herbYASHMAC n pl YASHMACSyashmakYASHMAK n pl YASHMAKSa veil worn by Muslim womenYASMAK n pl YASMAKSyashmakYATAGAN n pl YATAGANSyataghanYATAGHAN n pl YATAGHANSa Turkish swordYATTER v YATTERED YATTERING YATTERSto talk idlyYAUD n pl YAUDSan old mareYAULD adj vigorousYAUP v YAUPED YAUPING YAUPSto yawpYAUPER n pl YAUPERSone that yaupsYAUPON n pl YAUPONSan evergreen shrubYAUTIA n pl YAUTIASa tropical plantYAW v YAWED YAWING YAWSto deviate from an intended courseYAWEY adj pertaining to yaws an infectious diseaseYAWL v YAWLED YAWLING YAWLSto yowlYAWMETER n pl YAWMETERSan instrument in an aircraftYAWN v YAWNED YAWNING YAWNSto open the mouth wide with a deep inhalation of airYAWNER n pl YAWNERSone that yawnsYAWP v YAWPED YAWPING YAWPSto utter a loud harsh cryYAWPER n pl YAWPERSone that yawpsYAWPING n pl YAWPINGSa loud harsh cryYAY n pl YAYSyeaYCLAD adj clothedYCLEPED adj ycleptYCLEPT adj called namedYE pron youYEA n pl YEASan affirmative voteYEAH n pl YEAHSan affirmative replyYEALING n pl YEALINGSa person of the same ageYEAN v YEANED YEANING YEANSto bear youngYEANLING n pl YEANLINGSthe young of a sheep or goatYEAR n pl YEARSa period of time consisting of 365 or 366 daysYEARBOOK n pl YEARBOOKSa book published each year by a graduating classYEAREND n pl YEARENDSthe end of a yearYEARLING n pl YEARLINGSan animal past its first year and not yet two years oldYEARLONG adj lasting through a yearYEARLY n pl YEARLIESa publication appearing once a yearYEARN v YEARNED YEARNING YEARNSto have a strong or deep desireYEARNER n pl YEARNERSone that yearnsYEARNING n pl YEARNINGSa strong or deep desireYEASAYER n pl YEASAYERSone that affirms somethingYEAST v YEASTED YEASTING YEASTSto foamYEASTY adj YEASTIER YEASTIESTfoamyYEASTILY advYECCH n pl YECCHSsomething disgustingYECH n pl YECHSyecchYECHY adj disgustingYEELIN n pl YEELINSyealingYEESH interj  used to express frustrationYEGG n pl YEGGSa burglarYEGGMAN n pl YEGGMENa yeggYEH adv  used to express assent or agreementYELD adj not giving milkYELK n pl YELKSyolkYELL v YELLED YELLING YELLSto cry out loudlyYELLER n pl YELLERSone that yellsYELLING n pl YELLINGSthe act or an instance of making a loud cryYELLOW adj YELLOWER YELLOWESTof a bright color like that of ripe lemonsYELLOWLY advYELLOW v YELLOWED YELLOWING YELLOWSto make or become yellowYELLOWY adj somewhat yellowYELP v YELPED YELPING YELPSto utter a sharp shrill cryYELPER n pl YELPERSone that yelpsYEN v YENNED YENNING YENSto yearnYENTA n pl YENTASa gossipy womanYENTE n pl YENTESyentaYEOMAN n pl YEOMENan independent farmerYEOMANLY adjYEOMANRY n pl YEOMANRIESthe collective body of yeomenYEOW interj  used to express pain or shockYEP n pl YEPSan affirmative replyYERBA n pl YERBASa South American beverage resembling teaYERK v YERKED YERKING YE..."
+```
+```prolog
+entry(za, n, [zas], "a pizzaZABAIONE n pl ZABAIONESa dessert resembling custardZABAJONE n pl ZABAJONESzabaioneZACATON n pl ZACATONSa Mexican grassZADDICK n pl ZADDIKIMzaddikZADDIK n pl ZADDIKIMa virtuous person by Jewish religious standardsZAFFAR n pl ZAFFARSzafferZAFFER n pl ZAFFERSa blue ceramic coloringZAFFIR n pl ZAFFIRSzafferZAFFRE n pl ZAFFRESzafferZAFTIG adj fullbosomedZAG v ZAGGED ZAGGING ZAGSto turn sharplyZAIBATSU n pl ZAIBATSUa powerful family combine in JapanZAIDA n pl ZAIDASzedaZAIDEH n pl ZAIDEHSzedaZAIDY n pl ZAIDIESzedaZAIKAI n pl ZAIKAISthe business community of JapanZAIRE n pl ZAIRESa former monetary unit of ZaireZAKAT n pl ZAKATSpayment made annually under Islamic law on certain kinds of propertyZAMARRA n pl ZAMARRASa sheepskin coatZAMARRO n pl ZAMARROSzamarraZAMIA n pl ZAMIASa tropical plantZAMINDAR n pl ZAMINDARSa tax collector in precolonial IndiaZANANA n pl ZANANASzenanaZANDER n pl ZANDERSa freshwater fishZANINESS n pl ZANINESSESthe quality or state of being zanyZANY adj ZANIER ZANIESTludicrously comicalZANILY advZANY n pl ZANIESa zany personZANYISH adj somewhat zanyZANZA n pl ZANZASan African musical instrumentZAP v ZAPPED ZAPPING ZAPSto kill or destroy instantaneouslyZAPATEO n pl ZAPATEOSa Spanish danceZAPPER n pl ZAPPERSa device that zapsZAPPY adj ZAPPIER ZAPPIESTzippyZAPTIAH n pl ZAPTIAHSa Turkish policemanZAPTIEH n pl ZAPTIEHSzaptiahZARATITE n pl ZARATITESa chemical compoundZAREBA n pl ZAREBASan improvised stockadeZAREEBA n pl ZAREEBASzarebaZARF n pl ZARFSa metal holder for a coffee cupZARIBA n pl ZARIBASzarebaZARZUELA n pl ZARZUELASa Spanish operettaZASTRUGA n pl ZASTRUGIsastrugaZAX n pl ZAXESa tool for cutting roof slatesZAYIN n pl ZAYINSa Hebrew letterZAZEN n pl ZAZENSmeditation in Zen BuddhismZEAL n pl ZEALSenthusiastic devotionZEALOT n pl ZEALOTSone who is zealousZEALOTRY n pl ZEALOTRIESexcessive zealZEALOUS adj filled with zealZEATIN n pl ZEATINSa chemical compound found in maizeZEBEC n pl ZEBECSxebecZEBECK n pl ZEBECKSxebecZEBRA n pl ZEBRASan African mammal that is related to the horseZEBRAIC adjZEBRANO n pl ZEBRANOSa tree having striped woodZEBRASS n pl ZEBRASSESthe offspring of a zebra and an assZEBRINE n pl ZEBRINESthe offspring of a male horse and a female zebraZEBROID adj resembling a zebraZEBU n pl ZEBUSan Asian oxZECCHIN n pl ZECCHINSzecchinoZECCHINO n pl ZECCHINOS or ZECCHINIa former gold coin of ItalyZECHIN n pl ZECHINSzecchinoZED n pl ZEDSthe letter ZZEDA n pl ZEDASgrandfatherZEDOARY n pl ZEDOARIESthe medicinal root of a tropical plantZEE n pl ZEESthe letter ZZEIN n pl ZEINSa simple proteinZEK n pl ZEKSan inmate in a Soviet labor campZELKOVA n pl ZELKOVASa Japanese treeZEMINDAR n pl ZEMINDARSzamindarZEMSTVO n pl ZEMSTVOS or ZEMSTVAan elective council in czarist RussiaZENAIDA n pl ZENAIDASa wild doveZENANA n pl ZENANASthe section of a house in India reserved for womenZENDO n pl ZENDOSa place where Zen Buddhists meditate and studyZENITH n pl ZENITHSthe highest pointZENITHAL adjZEOLITE n pl ZEOLITESa mineralZEOLITIC adjZEP n pl ZEPSa long sandwichZEPHYR n pl ZEPHYRSa gentle breezeZEPPELIN n pl ZEPPELINSa long rigid airshipZEPPOLE n pl ZEPPOLES or ZEPPOLIa deepfried pastryZERK n pl ZERKSa grease fittingZERO v ZEROED ZEROING ZEROES or ZEROSto aim at the exact center of a targetZEROTH adj being numbered zero in a seriesZEST v ZESTED ZESTING ZESTSto fill with zest invigorating excitementZESTER n pl ZESTERSa utensil for peeling citrus rindZESTFUL adj full of zestZESTLESS adj lacking zestZESTY adj ZESTIER ZESTIESTmarked by zestZESTILY advZETA n pl ZETASa Greek letterZETETIC adj proceeding by inquiryZEUGMA n pl ZEUGMASthe use of a word to modify or govern two or more words while applying to each in a different senseZIBELINE n pl ZIBELINESa soft fabricZIBET n pl ZIBETSan Asian civetZIBETH n pl ZIBETHSzibetZIG v ZIGGED ZIGGING ZIGSto turn sharplyZIGGURAT n pl ZIGGURATSan ancient Babylonian temple towerZIGZAG v ZIGZAGGED ZIGZAGGING ZIGZAGSto proceed on a course marked by sharp turnsZIGZAGGY adj marked by sharp turnsZIKKURAT n pl ZIKKURATSzigguratZIKURAT n pl ZIKURATSzigguratZILCH n pl ZILCHESnothingZILL n pl ZILLSone of a pair of finger cymbalsZILLAH n pl ZILLAHSan administrative district in IndiaZILLION n pl ZILLIONSan indeterminately large numberZIN n pl ZINSa dry red wineZINC v ZINCED ZINCING ZINCS or ZINCKED ZINCKING ZINCSto coat with zinc a metallic elementZINCATE n pl ZINCATESa chemical saltZINCIC adj pertaining to zincZINCIFY v ZINCIFIED ZINCIFYING ZINCIFIESto coat with zincZINCITE n pl ZINCITESan ore of zincZINCKED a past tense of zincZINCKING a present participle of zincZINCKY adj resembling zincZINCO n pl ZINCOSa letterpress printing plate made of zincZINCOID adj zincicZINCOUS adj zincicZINCY adj zinckyZINE n pl ZINESa magazineZINEB n pl ZINEBSan insecticideZING v ZINGED ZINGING ZINGSto move with a highpitched humming soundZINGANO n pl ZINGANIzingaroZINGARA n pl ZINGAREa female gypsyZINGARO n pl ZINGARIa gypsyZINGER n pl ZINGERSa pointed witty retort or remarkZINGY adj ZINGIER ZINGIESTenjoyably excitingZINKIFY v ZINKIFIED ZINKIFYING ZINKIFIESto zincifyZINKY adj zinckyZINNIA n pl ZINNIASa tropical plantZIP v ZIPPED ZIPPING ZIPSto move with speed and vigorZIPLESS adj lacking vigor or energyZIPLOCK adj having a groove and ridge that form a tight seal when joinedZIPOLA n pl ZIPOLASzippoZIPPER v ZIPPERED ZIPPERING ZIPPERSto fasten with a zipper a fastener consisting of two rows of interlocking teethZIPPO n pl ZIPPOSnothingZIPPY adj ZIPPIER ZIPPIESTfull of energyZIPPILY advZIRAM n pl ZIRAMSa chemical saltZIRCALOY n pl ZIRCALOYSa zirconium alloyZIRCON n pl ZIRCONSa mineralZIRCONIA n pl ZIRCONIASa chemical compoundZIRCONIC adj pertaining to the metallic element zirconiumZIT n pl ZITSa pimpleZITHER n pl ZITHERSa stringed instrumentZITHERN n pl ZITHERNSzitherZITI n pl ZITISa tubular pastaZIZIT npl zizithZIZITH npl the tassels on the four corners of a Jewish prayer shawlZIZZ n ZIZZED ZIZZING ZIZZESto make a buzzing soundZIZZLE v ZIZZLED ZIZZLING ZIZZLESto sizzleZLOTY n pl ZLOTYSa monetary unit of PolandZOA a pl of zoonZOARIUM n pl ZOARIAa colony of bryozoansZOARIAL adjZOCALO n pl ZOCALOSthe public square in a Mexican city or townZODIAC n pl ZODIACSan imaginary belt encircling the celestial sphereZODIACAL adjZOEA n pl ZOEAS or ZOEAEa larval form of certain crustaceansZOEAL adjZOECIUM n pl ZOECIAzooeciumZOETROPE n pl ZOETROPESan optical toy in which a series of pictures rotates to give the illusion of motionZOFTIG adj zaftigZOIC adj pertaining to animals or animal lifeZOISITE n pl ZOISITESa mineralZOMBI n pl ZOMBISzombieZOMBIE n pl ZOMBIESa willless human capable only of automatic movementZOMBIFY v ZOMBIFIED ZOMBIFYING ZOMBIFIESto turn into a zombieZOMBIISM n pl ZOMBIISMSthe system of beliefs connected with a West African snake godZONA n pl ZONAEa transparent substance surrounding the ovum of mammalsZONAL adj pertaining to a zoneZONALLY advZONARY adj zonalZONATE adj arranged in zonesZONATED adj zonateZONATION n pl ZONATIONSarrangement in zonesZONE v ZONED ZONING ZONESto arrange in zones areas distinguished from other adjacent areasZONELESS adj having no zone or beltZONER n pl ZONERSone that zonesZONETIME n pl ZONETIMESstandard time used at seaZONING n pl ZONINGSthe division of a city or land into areas subject to planning restrictionsZONK v ZONKED ZONKING ZONKSto stupefyZONULA n pl ZONULAS or ZONULAEzonuleZONULE n pl ZONULESa small zoneZONULAR adjZOO n pl ZOOSa place where animals are kept for public exhibitionZOOCHORE n pl ZOOCHORESa plant dispersed by animalsZOOECIUM n pl ZOOECIAa sac secreted and lived in by an aquatic organismZOOEY adj ZOOIER ZOOIESTresembling a zooZOOGENIC adj caused by animals or their activitiesZOOGENY n pl ZOOGENIESthe development or evolution of animalsZOOGLEA n pl ZOOGLEAS or ZOOGLEAEa jellylike mass of bacteriaZOOGLEAL adjZOOGLOEA n pl ZOOGLOEAS or ZOOGLOEAEzoogleaZOOID n pl ZOOIDSan organic cell or body capable of independent movementZOOIDAL adjZOOKS interj  used as a mild oathZOOLATER n pl ZOOLATERSone that worships animalsZOOLATRY n pl ZOOLATRIESthe worship of animalsZOOLOGY n pl ZOOLOGIESthe science that deals with animalsZOOLOGIC adjZOOM v ZOOMED ZOOMING ZOOMSto move with a loud humming soundZOOMABLE adj capable of being viewed at various levels of detail and magnificationZOOMANIA n pl ZOOMANIASan excessive interest in animalsZOOMETRY n pl ZOOMETRIESthe measurement of animals or animal partsZOOMORPH n pl ZOOMORPHSsomething in the form of an animalZOON n pl ZOONS or ZOAthe whole product of one fertilized eggZOONAL adjZOON v ZOONED ZOONING ZOONSto zoomZOONOSIS n pl ZOONOSESa disease that can be transmitted from animals to humansZOONOTIC adjZOOPHILE n pl ZOOPHILESa lover of animalsZOOPHILY n pl ZOOPHILIESa love of animalsZOOPHOBE n pl ZOOPHOBESone who fears or hates animalsZOOPHYTE n pl ZOOPHYTESan invertebrate animalZOOSPERM n pl ZOOSPERMSthe male fertilizing element of an animalZOOSPORE n pl ZOOSPORESa type of sporeZOOTOMY n pl ZOOTOMIESthe dissection of animalsZOOTOMIC adjZOOTY adj ZOOTIER ZOOTIESTflashy in manner or styleZORI n pl ZORISa type of sandalZORIL n pl ZORILSa small African mammalZORILLA n pl ZORILLASzorilZORILLE n pl ZORILLESzorilZORILLO n pl ZORILLOSzorilZOSTER n pl ZOSTERSa virus diseaseZOUAVE n pl ZOUAVESa French infantrymanZOUK n pl ZOUKSa dance music of the French West IndiesZOUNDS interj  used as a mild oathZOWEE interj zowieZOWIE interj  used to express surprise or pleasureZOYSIA n pl ZOYSIASa perennial grassZUCCHINI n pl ZUCCHINISa vegetableZUGZWANG n pl ZUGZWANGSa situation in chess that forces a disadvantageous moveZUPPA n pl ZUPPASa fish soupZUZ n pl ZUZIMan ancient Hebrew silver coinZWIEBACK n pl ZWIEBACKSa sweetened breadZYDECO n pl ZYDECOSpopular music of southern LouisianaZYGOID adj pertaining to a zygoteZYGOMA n pl ZYGOMAS or ZYGOMATAthe cheekboneZYGOSIS n pl ZYGOSESthe union of two gametesZYGOSE adjZYGOSITY n pl ZYGOSITIESthe makeup of a particular zygoteZYGOTE n pl ZYGOTESa cell formed by the union of two gametesZYGOTIC adjZYGOTENE n pl ZYGOTENESa stage in meiosisZYMASE n pl ZYMASESan enzymeZYME n pl ZYMESan enzymeZYMOGEN n pl ZYMOGENSa substance that develops into an enzyme when suitably activatedZYMOGENE n pl ZYMOGENESzymogenZYMOGRAM n pl ZYMOGRAMSa record of separated proteins after electrophoresisZYMOLOGY n pl ZYMOLOGIESthe science of fermentationZYMOSAN n pl ZYMOSANSan insoluble fraction of yeast cell wallsZYMOSIS n pl ZYMOSESfermentationZYMOTIC adjZYMURGY n pl ZYMURGIESa branch of chemistry dealing with fermentationZYZZYVA n pl ZYZZYVASa tropical weevilZZZ interj  used to suggest the sound of snoring").
+```
+entry(q, words, [], "no dey follow U BUQSHABUQSHASBURQABURQASCINQCINQSFAQIRFAQIRSKAMOTIQKAMOTIQSMBAQANGAMBAQANGASNIQAABNIQAABSNIQABNIQABSQABALAQABALASQABALAHQABALAHSQADIQADISQAIDQAIDSQAJAQQAJAQSQAMUTIKQAMUTIKSQANATQANATSQATQATSQAWWALIQAWWALISQIQISQIBLAQIBLASQIGONGQIGONGSQINDARQINDARSQINDARKAQINTARQINTARSQIVIUTQIVIUTSQOPHQOPHSQULLIQQULLIQSQWERTYQWERTYSSHEQELSHEQELSSHEQALIMSUQSUQSTRANQTRANQSUMIAQUMIAQS").
+entry(words, with, [], "no AEIOU vowels BYHMMMMYSHBRRBYSCRYCWMDRYFLYFRYGRRGYMGYPHMMHYPMMMMYCNTHPHTPLYPRYPSTPYXSHHSHYSKYSLYSPYSTYSYNTHYTRYTSKWHYWRYWYNZZZBRRRBYRLCWMSCYSTDRYSGYMSGYPSHWYLHYMNHYPSLYCHLYNXMYCSMYTHPFFTPSSTRYNDSCRYSHHHSKRYSPRYSYNCSYPHTSKSTYPPTYPYWHYSWYCHWYNDWYNNWYNSXYSTBYRLSCRWTHCRYPTCYSTSDRYLYFLYBYGHYLLGLYPHGRRRLGYPSYHWYLSHYMNSLYMPHLYNCHMYRRHMYTHSMYTHYNYMPHPHPHTPSYCHPYGMYRYNDSSHYLYSLYLYSTYMYSYLPHSYNCHSYNCSSYNTHSYPHSTHYMYTRYSTTYPPSWRYLYWYNDSWYNNSXYLYLXYSTSCRWTHSCRYPTSFLYBYSFLYSCHGHYLLSGLYCYLGLYPHSGRRRLSLYMPHSMYRRHSMYRRHYNYMPHSPSYCHSRHYTHMSPHYNXSPRYLYSYLPHSSYLPHYSYNCHSSYNTHSSYZYGYTRYSTSTSKTSKXYLYLSGLYCYLSRHYTHMSTSKTSKS").
+```prolog
+entry(words, containing, [], "J Q X or Z AXEXJOOXQIXIXUZAADZAJIAXEAZOBIZBOXCOXCOZCUZDEXFAXFEZFIXFIZFOXGOXHAJHEXJABJAGJAMJARJAWJAYJEEJETJEUJIBJIGJINJOBJOEJOGJOTJOWJOYJUGJUNJUSJUTKEXLAXLEXLOXLUXMAXMIXMUXNIXOXOOXYPAXPIXPOXPYXQATQISQUARAJRAXREXREZSAXSEXSIXSOXSUQTAJTAXTIXTIZTUXVEXVOXWAXWIZXISZAGZAPZASZAXZEDZEEZEKZEPZIGZINZIPZITZOAZOOZUZZZZADZEAJARAJEEAJISAPEXAQUAAXALAXEDAXELAXESAXILAXISAXLEAXONAZANAZONBAZZBIZEBOXYBOZOBRUXBUZZCALXCAZHCHEZCINQCOAXCOXACOZYCRUXCZARDAZEDEXYDITZDJINDOJODOUXDOXYDOZEDOZYEAUXEXAMEXECEXEDEXESEXITEXONEXPOFALXFAUXFAZEFIXTFIZZFLAXFLEXFLUXFOXYFOZYFRIZFUJIFUTZFUZEFUZZGAZEGEEZGOJIGRIZHADJHAJIHAJJHAZEHAZYHOAXIBEXILEXIXIAIZARJABSJACKJADEJAGGJAGSJAILJAKEJAMBJAMSJANEJAPEJARLJARSJATOJAUKJAUPJAVAJAWSJAYSJAZZJEANJEEDJEEPJEERJEESJEEZJEFEJEHUJELLJEONJERKJESSJESTJETEJETSJEUXJIAOJIBBJIBEJIBSJIFFJIGSJILLJILTJIMPJINKJINNJINSJINXJIRDJIVEJIVYJOBSJOCKJOESJOEYJOGSJOHNJOINJOKEJOKYJOLEJOLTJOOKJOSHJOSSJOTAJOTSJOUKJOWLJOWSJOYSJUBAJUBEJUCOJUDOJUDYJUGAJUGSJUJUJUKEJUKUJUMPJUNKJUPEJURAJURYJUSTJUTEJUTSKOJILAZELAZYLUTZLUXELYNXMAXIMAZEMAZYMEZEMINXMIXTMOJOMOXAMOZONAZINEXTNIXENIXYONYXOOZEOOZYORYXORZOOUZOOXENOXEROXESOXICOXIDOXIMOYEZPHIZPIXYPLEXPOXYPREXPREZPUJAPUTZQADIQAIDQATSQOPHQUADQUAGQUAIQUAYQUEYQUIDQUINQUIPQUITQUIZQUODRAJARAZERAZZRITZROUXSEXTSEXYSIZESIZYSOJASOJUSUQSTAXATAXITEXTTIZZTZARVEXTWAXYWHIZXYSTYUTZYUZUZAGSZANYZAPSZARFZEALZEBUZEDAZEDSZEESZEINZEKSZEPSZERKZEROZESTZETAZIGSZILLZINCZINEZINGZINSZIPSZITIZITSZIZZZOEAZOICZONAZONEZONKZOOMZOONZOOSZORIZOUKZYMEABUZZADDAXADMIXADOZEADZEDADZESAFFIXAGAZEAJIVAAJUGAAMAZEANNEXAQUAEAQUASARROZATAXYAUXINAXELSAXIALAXILEAXILSAXINGAXIOMAXIONAXITEAXLESAXMANAXMENAXONEAXONSAZANSAZIDEAZINEAZLONAZOICAZOLEAZONSAZOTEAZOTHAZUKIAZUREBAIZABAIZEBANJOBAZARBAZOOBEAUXBEMIXBEZELBEZILBHAJIBIJOUBIZESBLAZEBLITZBONZEBOOZEBOOZYBORAXBORTZBOXEDBOXERBOXESBOXLABOZOSBRAXYBRAZABRAZEBURQABUXOMBUZZYCAJONCALIXCALYXCAPIZCAREXCIMEXCINQSCLOZECODEXCOLZACOMIXCOQUICOXAECOXEDCOXESCOZENCOZESCOZEYCOZIECRAZECRAZYCROZECULEXCYLIXCZARSDAZEDDAZESDEOXYDESEXDETOXDEWAXDEXESDEXIEDIAZODITZYDIXITDIZENDIZZYDJINNDJINSDOJOSDOOZYDOXIEDOZEDDOZENDOZERDOZESEEJITEJECTEJIDOENJOYENZYMEPOXYEQUALEQUESEQUIDEQUIPEXACTEXALTEXAMSEXCELEXECSEXERTEXILEEXINEEXINGEXISTEXITSEXONSEXPATEXPELEXPOSEXTOLEXTRAEXUDEEXULTEXURBFAQIRFAXEDFAXESFAZEDFAZESFEAZEFEDEXFEEZEFEZESFIQUEFIXEDFIXERFIXESFIXITFIZZYFJELDFJORDFLAXYFOREXFOXEDFOXESFRITZFRIZZFROZEFUJISFURZEFURZYFUZEDFUZEEFUZESFUZILFUZZYGALAXGANJAGAUZEGAUZYGAZARGAZEDGAZERGAZESGHAZIGIZMOGLAZEGLAZYGLITZGLOZEGOJISGONZOGOXESGRAZEGROSZGYOZAHADJEEHADJESHADJISHAJJESHAMZAHHAPAXHAZANHAZEDHAZELHAZERHAZESHEEZEHELIXHERTZHEXADHEXEDHEXERHEXESHEXYLHIJABHIJRAHUZZAHYRAXIMMIXINBOXINDEXINFIXIXIASIXNAYIXORAIXTLEIZARDIZARSJABOTJACALJACKSJACKYJADEDJADESJAGERJAGGSJAGGYJAGRAJAILSJAKESJALAPJALOPJAMBEJAMBSJAMMYJANESJANNYJANTYJAPANJAPEDJAPERJAPESJARLSJATOSJAUKSJAUNTJAUPSJAVASJAWANJAWEDJAZZYJEANSJEBELJEEPSJEERSJEEZEJEFESJEHADJEHUSJELLSJELLYJEMMYJENNYJERIDJERKSJERKYJERRYJESSEJESTSJETESJETONJETTYJEWELJIBBAJIBBSJIBEDJIBERJIBESJIFFSJIFFYJIGGYJIHADJILLSJILTSJIMMYJIMPYJINGOJINKSJINNIJINNSJIRDSJIVEDJIVERJIVESJIVEYJNANAJOCKOJOCKSJOCKYJOEYSJOHNSJOINSJOINTJOISTJOKEDJOKERJOKESJOKEYJOLESJOLLYJOLTSJOLTYJOMONJONESJOOKSJORAMJORUMJOTASJOTTYJOUALJOUKSJOULEJOUSTJOWARJOWEDJOWLSJOWLYJOYEDJUBASJUBESJUCOSJUDASJUDGEJUDOSJUGALJUGUMJUICEJUICYJUJUSJUKEDJUKESJUKUSJULEPJUMARJUMBOJUMPSJUMPYJUNCOJUNKSJUNKYJUNTAJUNTOJUPESJUPONJURALJURATJURELJURORJUSTSJUTESJUTTYJUVIEKANJIKANZUKAZOOKEXESKLUTZKOJISKOPJEKUDZUKYLIXLATEXLAXERLAXESLAXLYLAZARLAZEDLAZESLEXESLEXISLOXEDLOXESLUXESMAIZEMAJORMAQUIMATZAMATZOMAUZYMAXEDMAXESMAXIMMAXISMAZEDMAZERMAZESMEZESMEZZOMIREXMIRZAMIXEDMIXERMIXESMIXUPMIZENMOJOSMOXASMOXIEMOZOSMUJIKMUREXMUXEDMUXESMUZZYNAZISNERTZNEXUSNINJANIQABNIXEDNIXESNIXIENIZAMNUDZHOBJETOOZEDOOZESORZOSOUZELOUZOSOXBOWOXERSOXEYEOXIDEOXIDSOXIMEOXIMSOXLIPOXTEROZONEPAXESPHIZZPHLOXPIEZOPIQUEPIXELPIXESPIXIEPIZZAPLAZAPLOTZPONZUPOOJAPOXEDPOXESPREXYPRIZEPROXYPUJAHPUJASPUNJIPYXESPYXIEPYXISPZAZZQADISQAIDSQAJAQQANATQIBLAQOPHSQUACKQUADSQUAFFQUAGSQUAILQUAISQUAKEQUAKYQUALEQUALMQUANTQUAREQUARKQUARTQUASHQUASIQUASSQUATEQUAYSQUBITQUEANQUEENQUEERQUELLQUERNQUERYQUESTQUEUEQUEYSQUICKQUIDSQUIETQUIFFQUILLQUILTQUINSQUINTQUIPSQUIPUQUIREQUIRKQUIRTQUITEQUITSQUODSQUOINQUOITQUOLLQUOTAQUOTEQUOTHQURSHRADIXRAJAHRAJASRAJESRAXEDRAXESRAZEDRAZEERAZERRAZESRAZORREDOXREDUXREFIXREJIGRELAXREMEXREMIXRETAXREWAXREXESREZESRIOJARITZYROQUESAJOUSAXESSCUZZSEIZASEIZESEXEDSEXERSEXESSEXTOSEXTSSHOJISHOJOSILEXSIXERSIXESSIXMOSIXTESIXTHSIXTYSIZARSIZEDSIZERSIZESSLOJDSMAZESOJASSOJUSSOYUZSOZINSPITZSQUABSQUADSQUATSQUEGSQUIBSQUIDTAJESTAXEDTAXERTAXESTAXISTAXOLTAXONTAXUSTAZZATAZZETELEXTEXASTEXTSTHUJATIZESTIZZYTOPAZTOQUETOXICTOXINTRANQTROOZTUQUETUXESTWIXTTZARSUMIAQUNBOXUNFIXUNJAMUNMIXUNSEXUNZIPUSQUEVARIXVEXEDVEXERVEXESVEXILVIXENVIZIRVIZORVOXELWALTZWAREZWAXEDWAXENWAXERWAXESWHIZZWINZEWIZENWIZESWOOZYXEBECXENIAXENICXENONXERICXEROXXERUSXYLANXYLEMXYLOLXYLYLXYSTIXYSTSYUZUSZAIDAZAIDYZAIREZAKATZAMIAZANZAZAPPYZARFSZAXESZAYINZAZENZEALSZEBECZEBRAZEBUSZEDASZEINSZENDOZERKSZEROSZESTSZESTYZETASZIBETZILCHZILLSZINCOZINCSZINCYZINEBZINESZINGSZINGYZINKYZIPPOZIPPYZIRAMZITISZIZITZLOTYZOEAEZOEASZOMBIZONAEZONALZONEDZONERZONESZONKSZOOEYZOOIDZOOKSZOOMSZOONSZOOTYZORILZORISZOUKSZOWEEZOWIEZUPPAZUZIMZYMESABJECTABJUREABLAZEACAJOUACQUITADIEUXADJOINADJUREADJUSTADMIXTADNEXAADZINGADZUKIAFFLUXAGNIZEAJIVASAJOWANAJUGASALEXIAALEXINALKOXYAMAZEDAMAZESAMAZONANNEXEANOXIAAPEXESASSIZEATAXIAATAXICAUSPEXAUXINSAXEMANAXEMENAXENICAXILLAAXIOMSAXIONSAXISESAXITESAXLIKEAXONESAXONICAXSEEDAZALEAAZIDESAZINESAZLONSAZOLESAZONALAZONICAZOTESAZOTHSAZOTICAZUKISAZURESAZYGOSBAIZASBAIZESBANJAXBANJOSBANZAIBARQUEBASQUEBAZAARBAZARSBAZOOSBAZZEDBAZZESBEEZERBEGAZEBEMIXTBENZALBENZINBENZOLBENZYLBEZANTBEZAZZBEZELSBEZILSBEZOARBHAJISBIAXALBIFLEXBIJOUSBIJOUXBISQUEBIZONEBIZZESBLAZEDBLAZERBLAZESBLAZONBLINTZBLOWZYBOLLIXBOLLOXBOMBAXBOMBYXBONZERBONZESBOOJUMBOOZEDBOOZERBOOZESBORZOIBOSQUEBOXCARBOXERSBOXFULBOXIERBOXINGBOXLASBRAIZEBRAZASBRAZEDBRAZENBRAZERBRAZESBRAZILBREEZEBREEZYBRONZEBRONZYBRUXEDBRUXESBUQSHABURQASBUZUKIBUZZEDBUZZERBUZZESBYZANTCAIQUECAJOLECALQUECALXESCASQUECAUDEXCERVIXCHAZANCHEQUECHINTZCINQUECIRQUECLAQUECLAXONCLIMAXCLIQUECLIQUYCLOQUECLOZESCOAXALCOAXEDCOAXERCOAXESCOCCYXCOJOINCOLZASCOMMIXCONVEXCOQUETCOQUISCOROZOCORTEXCORYZACOWPOXCOXINGCOZENSCOZEYSCOZIEDCOZIERCOZIESCOZZESCRAZEDCRAZESCROJIKCROZERCROZESCRUXESCUZZESDAZINGDAZZLEDEEJAYDEFUZEDEIXISDEJECTDELUXEDESOXYDEXIESDEXTERDEXTRODEZINCDIAZODITZESDIXITSDIZENSDJEBELDJEMBEDJIBBADJINNIDJINNSDJINNYDONJONDONZELDOOZERDOOZIEDOXIESDOZENSDOZERSDOZIERDOZILYDOZINGDUPLEXEARWAXECZEMAEEJITSEFFLUXEJECTAEJECTSEJIDOSELIXIRENJAMBENJOINENJOYSENZYMEENZYMSEPIZOAEQUALSEQUATEEQUIDSEQUINEEQUIPSEQUITYERSATZETHOXYEUTAXYEVZONEEXACTAEXACTSEXALTSEXAMENEXARCHEXCEEDEXCELSEXCEPTEXCESSEXCIDEEXCISEEXCITEEXCUSEEXEDRAEXEMPTEXEQUYEXERTSEXEUNTEXHALEEXHORTEXHUMEEXILEDEXILEREXILESEXILICEXINESEXISTSEXITEDEXODOIEXODOSEXODUSEXOGENEXONYMEXOTICEXPANDEXPATSEXPECTEXPELSEXPENDEXPERTEXPIREEXPIRYEXPORTEXPOSEEXSECTEXSERTEXTANTEXTENDEXTENTEXTERNEXTOLLEXTOLSEXTORTEXTRASEXUDEDEXUDESEXULTSEXURBSFAJITAFANJETFAQIRSFAQUIRFAXINGFAZINGFEAZEDFEAZESFEEZEDFEEZESFEIJOAFEZZESFIQUESFIXATEFIXERSFIXINGFIXITSFIXITYFIXUREFIZGIGFIZZEDFIZZERFIZZESFIZZLEFJELDSFJORDSFLAXENFLAXESFLEXEDFLEXESFLEXORFLOOZYFLUXEDFLUXESFOOZLEFORNIXFOXEDFOXESFRITZFRIZZEFRIZZIERFRIZZIERFREEZEFRIEZEFRIJOLFRITERFRIZIELFRITZERFRIZLEFRIZZYFLURRYFRAILYFRAZILFRIGANFROSTYFRONIXFREEZEFRENCHFREGATFREEFOREXFOXLYFRITZJOFTYFRUBOFFRALAXPRAZEXFRIBETYFADAMALLAZEXFEATEXGONZAZODOZYEDIGACTOPAJAQUENOJCJOIEIONQUJRKNLAMPLJORNIDSIMATJANCJARMEARDSEROCARTIENTHROFLICKLIPLTCALIMATSZAONZOBEDGEAJEZIKOISTJANTJACKOFSIZEVEZJUICCOJOERABSTROMENJONTBQOINPOSEXINQUINERPRPFEXPMXIARESZZEHEADJINJUCKSZIROKRXZANATUSAFFALPLEDERVIY");
+```

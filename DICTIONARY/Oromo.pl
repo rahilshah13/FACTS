@@ -7737,3 +7737,3932 @@ entry(corvina, n, [corvinas], "corbina").
 entry(corvine, adj, [], "mudannoo ykn kan maatii gogaa hoomuuraati").
 entry(cory, n, [cory], "gatiin maallaqaa durii Giniitti").
 entry(corybant, n, [corybants], "ykn CORYBANTESa nagaha baqatudha").
+entry(dab, v, [dabbed,dabbing,dabs], "tuquu ifaa").
+entry(dabber, n, [dabbers], "kan haxaawu tokko").
+entry(dabble, v, [dabbled,dabbling,dabbles], "ofii isaa xiqqoo hirmaachisuuf yaadu").
+galmee(dabbler, n, [dabblers], "waraabdee tokko").
+entry(dabbling, n, [dabblings], "qqeeqa walfakkaataa").
+entry(dabchick, n, [dabchicks], "hiniiqe tokko xiqqoo").
+entry(dabster, n, [dabsters], "nama hojii/lallaba/odeeffannoo waliin hojjetu").
+entry(dace, n, [daces], "qaloo bishaanii haaraan jiraatu").
+entry(dacha, n, [dachas], "mana jireenya Raashaa").
+gelcha(dacite, n, [dacites], "dhagaa urbaa ifa  dhiitu").
+entry(dacker, v, [dackered,dackering,dackers], "mirkanii").
+entry(dacoit, n, [dacoits], "jiraataa baddii Indiyaa keessatti").
+entry(boji, n, [bojilee], "bojfataa fi badhaadhina").
+entry(dactyl, n, [dactyls], "gosa miilla walaloo").
+entry(dactylic, n, [dactylics], "mirkoo kan dactyls irraa qindeeffame").
+galmee(dactylus, n, [dactyli], "riqa miila ilbiisota muraasa").
+entry(abbaa, n, [abbaas], "abbaan").
+entry(dada, n, [dadas], "sochii aartii fi og-barruu").
+entry(dadaism, n, [dadaisms], "oraanticha dada").
+entry(dadaist, n, [dadaists], "nama duukaa buutee dadaismii").
+geluudhaan(daddle, v, [daddled, daddling, daddles], "diddle gochuu").
+galmee(abba, n, [abbaalee], "abba").
+entry(dadgum, adj, [], "akka jabeessaa tti fayyadamame").
+galii(dado, v, [dadoed,dadoing,dados], "yookaan DADOES sibuuf gombisa keessa kaa'uuf").
+entry(daedal, adj, [], "dandeetti qabu").
+entry(daemon, n, [daemons], "jinniItti dhagahamu DAEMONIC adjunctive").
+entry(daemoni, n, [daemoniwwan], "yookiin DAEMONESdaimon").
+entry(daff, v, [daffed,daffing,daffs], "mirkisiisi").
+entry(daffodil, n, [daffodils], "biqiltuu malkaa").
+entry(daffy, adj, [], "DAFFIER DAFFIESTsillyDAFFILY adv").
+entry(daft, adj, [], "DAFTER DAFTESTnama hinjirreeDAFTLY adv").
+entry(daftness, n, [daftnesses], "imaalummaa doofummaa").
+entry(dag, n, [dags], "dhumarratti kan teesse ykn cabbuu").
+entry(dagga, n, [daggas], "marawu'aanaa").
+entry(dagger, v, [daggered, daggering, daggers], "ulaagaa meeshaa xinnaan garaa keessaa rarraasuuf").
+entry(daggle, v, [daggled,daggling,daggles], "harka dhoowweessa").
+entry(daglock, n, [daglocks], "walitti dhangala’uudhaan xurii fi satan ittisuuf mankuusa muka")
+entry(dagoba, n, [dagobas], "dhibaayyuu Budha").
+entry(dagwood, n, [dagwoods], "sandwich guddaa tokko").
+tacijaa(dhaq, n, [dhaqs], "dhaashi ittiin barreeffamu ossocalii").
+entry(dahabeah, n, [dahabeahs], "dooniin imaltoota guddaa").
+entry(dahabiah, n, [dahabiahs], "dahabeah").
+entry(dahabieh, n, [dahabiehs], "dahabeah").
+entry(dahabiya, n, [dahabiyas], "dahabeah").
+entry(dahl, n, [dahls], "dal").
+galmee(dahlia, n, [dahliota], "biqiltuu horaa").
+entry(dahoon, n, [dahoons], "muka magariisa irratti hundaa'e").
+entry(daidzein, n, [daidzeins], "kemiikaal numataksa bu’uuraa sooyya mootummaa keessa argamu").
+entry(daiker, v, [daikered,daikering,daikers], "daakeree").
+entry(daayikon, n, [daayikonota], "muuzii Japhaa").
+entry(warraaqa_gaazexaa, n, [warraaqota_gaazexaa], "warraaqa gaazexaa guyyarraa maxxanfamu").
+entry(daimen, ajj, [], "kan yeroo tokko tokko").
+entry(daimio, n, [daimios], "noble tokkoo kan durgii Yapaane nuffii ture").
+entry(daimon, n, [daimons], "yookiin DAIMONESAfuuratti keessummeessaaDAIMONIC adj").
+entry(daimyo, n, [daimyos], "daimio").
+entry(qaroomsu, adj, [], "QAROOMSAA QAROOMSITOOWWwanbareedaarraataaQAROOMSAA adv").
+entry(dainty, n, [daamiiwwan], "waan mi'aawa").
+entry(daiquiri, n, [daiquiriwwan], "coctail tokko").
+entry(daree, n, [darroo], "iddoo hojii kan guyyaa waliin hariiroo qabdu").
+entry(dairying, n, [dairyings], "daldala dhaabi fiinxaan cirrachuun hojii").
+entry(dairyman, n, [dairymen], "nama warsha aannan keessatti hojjetu yookaan kan abbaa ta\'e").
+entry(dais, n, [daises], "dorgommii ol aanan itti geggeeffamu").
+entry(daishiki, n, [daishikis], "daashiki").
+entry(daisy, n, [daisies], "butaafi margamuu biqilaa DAISIED adj").
+galmee(dak, n, [daks], "babal'ina dhunfaa fi gaarii irratti nyaafatee").
+entry(dakerhen, n, [dakerhens], "jalaadhaan Awurooppaa tokko").
+entry(dakoit, n, [dakoits], "dakoit").
+entry(dakoity, n, [dakoities], "dakoiti").
+entry(dal, n, [dals], "soor-dinnicha fi qoreewwan Hindii keessatti qopheessu").
+entry(dalapon, n, [dalapons], "akka faranjii kan itti fayyadamu gaala yeroo hinbarbaadamne irratti").
+entry(dalasi, n, [dalasis], "qaraxa Gambiyaa").
+galii(dale, n, [dales], "itti wadaroo").
+entry(daledh, n, [daledhs], "daleth").
+entry(dalesman, n, [dalesmen], "namni gaara keessa jiraatu").
+entry(daaleti, n, [daaletota], "qubee afaan Hebrew").
+entry(dalles, npl, [], "kotokoto/bishaan");
+entry(dallier, n, [dalliers], "kan .tirachu.").
+entry(dally, v, [dallied, dallying, dallies], "akka yeroo darbuu").
+entry(dalmatic, n, [dalmatics], "hujii uffataa harkaan bal'aa qabu").
+entry(dalton, n, [daltons], "walakkaa bu’uura atoomikii").
+entry(daltonic, adj, [], "akka dhukkuba miira laafina halluu itti dhufuutti").
+entry(dam, v, [uwwifame, uwwisaa, uwwiftuu], "daandiin bishaan daangessuuf ijaaruu").
+galmii(buqqa'uu, v, [buqqa'e,buqqaasaa,buqqa'uu], "miidhuuf").
+entry(damager, n, [damagers], "kan miidhu").
+entry(daman, n, [damaanota], "hallayya xixiqqaa").
+entry(damar, n, [damaars], "dammar").
+entry(damask, v, [damasked, damasking, damasks], "ibsa bal'inaan qopheessuuf ituu").
+entry(dame, n, [jaarsa], "matronii").
+entry(damewort, n, [damewortota], "biqiltuu ittiin bilcheessu").
+entry(damfool, n, [damfools], "nama gowwaa ykn of-tuulan").
+entry(damiana, n, [damianas], "hidha latreeqi Ameerikaa").
+entry(dammar, n, [dammarota], "xuuxaa jabaa tokko").
+entry(dammed, darbe, [], "kaana yeroo").
+entry(dammer, n, [dammers], "dammar").
+entry(damming, present, [], "barreeffama 'participle' irraa 'dam'").
+entry(dammit, interj, [], "kan aarii ibsuuf itti fayyadamu").
+entry(laana, v, [lalabaa,laalchaa,laanata], "abarsuu").
+entry(damnable, adj, [], "ciminaarcitiDAMNABLY adv").
+entry(damndest, n, [damndests], "hamma danda’amu").
+entry(damned, adj, [], "DHALTUU KOOTEEKO TAHAA'UU").
+entry(damner, n, [damners], "kan abaare tokko").
+galmee(damnest, n, [damnests], "damndest").
+entry(damnify, v, [damnified,damnifying,damnifies], "balleessa ykn miidhaa ka'uuf").
+entry(damosel, n, [damosels], "damsel").
+entry(damozel, n, [damozels], "shamarran").
+entry(damp, adj, [], "DAMPER DAMPESTbocqoqaa").
+entry(damp, v, [damped, damping, damps], "gufuumsarraa hir’isuuf").
+entry(dampen, v, [dampened,dampening,dampens], "ni Jiidhuu").
+entry(dampener, n, [dampeners], "kan nuqu dha").
+entry(damper, n, [dampers], "kan daefe").
+entry(damping, n, [dampings], "dandeettii meeshaa jeequmsa ittisuuf qabuu").
+entry(dampish, adj, [], "dhedheeraa osoo hin taane jiidha ta'e").
+entry(damply, adv, [], "akka naannoo dhiqootaatti").
+entry(dheebuu, n, [dheebuuwwan], "haala didduu").
+entry(damsel, n, [damsels], "dubartii dargaggeessaa").
+entry(damson, n, [damsons], "kallacha diimaa xiqqaa").
+entry(dan, n, [dans], "sadarkaa dandeettii tapha loltuu keessaatti").
+entry(danazol, n, [danaazool], "andiroojinii fooyya'aa").
+entry(dansa, v, [danse, danstuu, dansuu], "akka muuziqaa waliin garaagara'utti socho'uu").
+entry(dancer, n, [dancers], "nama sirbu").
+entry(dancey, adj, [], "DANCIER DANCIESTcidhaaf mijataan").
+entry(dander, v, [dandered,dandering,danders], "deemaa").
+entry(dandier, comparative, [], "kan dandy").
+entry(dandies, pl, [], "dandy irraa").
+entry(dandiest, superlative, [], "kan dandy").
+entry(dandify, v, [dandified,dandifying,dandifies], "akka ayyaantuu fakkaatu godhuuf").
+entry(dandily, adv, [], "akka dandiitti").
+entry(dandle, v, [dandled,dandling,dandles], "ufiimuuf").
+entry(dandler, n, [dandlers], "kan danfole").
+entry(dandriff, n, [dandriffs], "dandruff").
+entry(dxokxoq, n, [dxokxoqqqq], "boqqaatti, qorrettii mataatti misoomu").
+entry(dandy, adj, [], "DANDIER DANDIESTfayyadhu").
+entry(dandy, n, [dandies], "nama falaasama uffannaa fi mul'annaan isaa irraatti xiyyeeffatee").
+entry(dandyish, adj, [], "kan dandy raawwachisuu").
+entry(dandyism, n, [dandyisms], "akkaataa fi hirmaannaa dandii").
+galmee(danegeld, n, [danegelds], "gibira bara-baraati kan Ingilaandii gidduu galeessaa keessatti").
+entry(danegelt, n, [danegelts], "danegeld").
+entry(daneweed, n, [daneweeds], "daneewortii").
+entry(danewort, n, [daneworts], "biqiltuu dhalootu").
+entry(dang, v, [danged,danging,dangs], "abaaruuf").
+entry(danger, v, [ibdidde, ibdiraa, ibdita], "qoricha").
+entry(dangle, v, [dangled,dangling,dangles], "hoolachuu").
+entry(dangler, n, [danglers], "kan maxxanu tokko").
+entry(dangly, adj, [], "DANGLIER DANGLIESTdhangalaa'aa").
+entry(danio, n, [daniyyoos], "bifii akkawaarimii tokko").
+entry(danish, n, [danishes], "daamii hanquu caccabsamee hojjetame").
+entry(dank, adj, [], "DANKER DANKESTunpleasantly dampDANKLY adv").
+galfata(humicha, n, [humichoowwan], "haala humaa ta'uu").
+entry(dansak, n, [dansaks], "dhansak").
+entry(danseur, n, [danseurs], "raaqaa dhiiraa baaletii ta'e").
+entry(danseuse, n, [danseuses], "ajjechaan sirna calaqqisiisummaa walfakkaata of akka balleettii dubartii").
+entry(dap, v, [dapped,dapping,daps], "cuuphuuf bishaan keessatti saffisaan jeedaluuf ykn tokko tokkoo jeedaluuf").
+entry(daphne, n, [daphnes], "bosona dukkana").
+entry(daphnia, n, [daphnias], "qunxurroo xiqqaa bishaan keessaa ta'e").
+entry(dapper, adj, [], "DAPPERER DAPPERESTqunnamtii kan mul'atuDAPPERLY adv").
+entry(dapping, present, [], "maqaa hojii 'dap'").
+entry(dapple, v, [dappled,dappling,dapples], "xaxa'oo dhaan mallattoo godhu").
+entry(dapsone, n, [dapsones], "dawaa").
+entry(darb, n, [darbs], "wantoota addaa ta'aniif madaallii ta'an").
+entry(darbar, n, [darbars], "durbarii").
+entry(darbies, npl, [], "harka adoochii").
+entry(dare, v, [durst,daring,dares], "sodaa   hinqabnee gochuu").
+entry(dareful, adj, [], "jabduu").
+entry(darer, n, [darers], "kan itti gaafatamummaa fudhatuuf qopheeffame").
+entry(daresay, v, [], "jedhuuf arrabsoodha  DARESAY waa'ee dmgargaaru qoosa filamuu mana beekumsatti hin jijjiramne").
+entry(daric, n, [darics], "maallaqa durii Pheeresiyaa keessaa").
+galmee(daring, n, [darings], "orjitummaa").
+entry(daringly, adv, [], "akka gootummaan").
+entry(dariole, n, [darioles], "akka taartan gosa cuunfaa qorqaatti yookaan jeellijii guutamteetti").
+entry(dark, adj, [], "DARII GUBBUUTTI kan ifa xiqqoo ykn kan ifa hin qabne").
+gelchi(magana, v, [maganee,maganessaa,magani], "daalacha").
+entry(darken, v, [darkened,darkening,darkens], "dubbisa dukkana").
+entry(darkener, n, [darkeners], "inni dukkaneessu").
+entry(darkish, adj, [], "gaaddisaa tokko tokko").
+galmee(darkle, v, [darkled, darkling, darkles], "dukkanaʼuu").
+entry(darkling, n, [darklings], "aduuma").
+entry(darkly, adv, [], "DARKLIER DARKLIEST karaa dukkanaa'aa dhaan").
+entry(duri, n, [duriwwan], "haaluma hamtuu").
+galmee(keessummaa, n, [keessummaawwan], "kutaa ittiin faayilmi hiikamu").
+entry(darksome, adj, [], "dallaa").
+entry(darling, n, [darlings], "namni jaalatamaa").
+entry(darn, v, [darned,darning,darns], "siraqiinsaan sirreessuuf").
+entry(darndest, n, [darndests], "damndest").
+entry(darned, ajj, [], "DARNEDER DARNEDEST ykn DARNDESTdamned").
+entry(darnel, n, [darnels], "marga waggaa yeroo tokkoo dhaa").
+entry(darner, n, [darners], "kan bishaan cabaa").
+entry(darnest, n, [darnests], "damndest").
+entry(darning, n, [darnings], "wanoota darsaaf".).
+entry(darshan, n, [darshans], "eebbifamaa Hinduu dha").
+entry(dart, v, [darted, darting, darts], "sochii ariifachiisaa ykn saffisaa gochuu").
+entry(darter, n, [darters], "isa dhaadhaa'uu").
+entry(dartle, v, [dartled, dartling, dartles], "ni dartetti dartetti").
+entry(dash, v, [dashed,dashing,dashes], "waraana cimaa").
+entry(dasheen, n, [dasheens], "biqiltuu ardii ho'aa irra gahu").
+entry(dasher, n, [dashers], "kan dafee deemu").
+entry(dashi, n, [dashis], "akwatat bishaan qabbana Dlaagaa'uu").
+entry(dashier, comparative, [], "kan dashy").
+entry(dashiest, superlative, [], "kan dashy").
+entry(dashiki, n, [dashikis], "uffata Afrikaa").
+galmee(xaphaphii, n, [xaphaphiwwan], "dhaamsaa dhorka").
+entry(dashy, adj, [], "DASHIER DASHIESTamala").
+entry(dassie, n, [dassies], "jireenya").
+galmee(baayyee_waakki, n, [baayyee_waakkota], "namni waan tokko sodaatu").
+entry(dasyure, n, [dasyures], "beeylada nyaata foonii".).
+entry(data, a, [], "pl of datum").
+entry(databank, n, [databanks], "kitaaba odeeffannoo").
+entry(database, v, [databased,databasing,databases], "data bu'uura galmeewwan bu'uura komputera keessaa galchuu").
+entry(datable, adj, [], "kan yeroo ittiin beekamuu danda’u").
+entry(datary, n, [dataries], "kardinaala Kaatolika Roomaa keessatti").
+entry(datcha, n, [datchas], "daachaa").
+galmee(guyaa, v, [guuyyaan,guuyyessu,guuyyoota], "guyyaa murteessuu yookaan galmee guyyaa waaqadhuDATEABLE adj").
+entry(datebook, n, [datebooks], "ganama gabatoota qopheeffachuu barreeffatamu").
+entry(datedly, adv, [], "akka durii fi duraanii").
+entry(dateless, adj, [], "garaagarummaa hin qabne").
+entry(dateline, v, [datelined,datelining,datelines], "akka tokkotti akkaata fi bakkoota ergaa oduu kennuu").
+entry(taarika, n, [taarikoota], "namni taariiqa godhu").
+entry(dating, n, [datings], "hojii nama yeroo qopheessuuti").
+galmee(dative, n, [datives], "haalata sirreeffamaaDATIVAL abshaalummaanDATIVELY adv").
+entry(dato, n, [datos], "datto").
+entry(datto, n, [dattos], "bulchaa gosa Filippiinii").
+entry(datum, n, [datums], "yookaan DATAkan walitti qabameef bu'uura ta'e herregaaf").
+entry(datura, n, [daturas], "daa'ima biqiltuuDATURIC adj").
+entry(daub, v, [godiime, godiimu, godiima], "lagabsuu").
+entry(daube, n, [daubes], "waxeedha qinxamsan").
+entry(dauber, n, [daubers], "kan dibu").
+entry(daubery, n, [dauberies], "suura fashistii yookiin suura beekumsa hin qabu").
+entry(daubry, n, [daubries], "daubery").
+entry(dauby, adj, [], "DAUBIER DAUBIESTsmeary").
+entry(mutuma, n, [mutumman], "ilma dubartii").
+entry(daunder, v, [daundered, daundering, daunders], "dander godhuu").
+entry(daunt, v, [daunted, daunting, daunts], "sodaachisuuf").
+entry(daunter, n, [daunters], "kan sodaachisu").
+entry(dauphin, n, [dauphinota], "ilma angafaa mooticha Faransaayiiti").
+entry(dauphine, n, [dauphines], "haadha warra dauphin").
+entry(daut, v, [dauted,dauting,dauts], "gandala").
+entry(dautie, n, [dauties], "horii xixiqqaa").
+galii(daven, v, [davened,davening,davens], "kadhannaa Yihudoota dubbachuuf").
+entry(davit, n, [davits], "meeshaan fe'iinsa tokko kan dooniitti").
+entry(davy, n, [davies], "lampa nageenyaa").
+entry(daw, v, [dawed,dawen,dawing], "DAWSto dawn").
+entry(dawdle, v, [dawdled,dawdling,dawdles], "yeroo balleessuu").
+entry(dawdler, n, [dawdlers], "inni yeroo balleessu").
+entry(dawk, n, [dawks], "dak").
+galmee(dawn, v, [dawned,dawning,dawns], "ganama ifni saaqamuu jalqabuuf").
+entry(dawning, n, [dawnings], "bilisummaa barii").
+entry(dawnlike, adj, [], "kan ganama fakkaatu").
+entry(dawt, v, [dawted,dawting,dawts], "dawti").
+galii(dawtie, n, [dawties], "dautie").
+entry(day, n, [guyyaa], "yeroo gidduu ganama fi galgala").
+entry(daybed, n, [daybeds], "soofeen rafuu irraa garagaluu danda'u").
+entry(daybook, n, [daybooks], "barreeffama guyyaa").
+galmee(fajrii, n, [fajriilee], "mul'achisa ifa jalqabaa ganamaa").
+entry(kalee_ciise, n, [kaleewwan_ciise], "hanga guyyaa ijoollee fi dadhabdootaaf kunuunsa").
+entry(daydream, v, [daydreamt,daydreaming,daydreams], "yaada fiixaan ba'aa").
+entry(dayfly, n, [dayflies], "kuttaasa").
+entry(dayglow, n, [dayglows], "xiqqoo ifaa kan guyyaa).
+galmee(daylight, v, [daylit, daylighting, daylights], "ifaa guyyaa ittiin ifu").
+entry(daylily, n, [daylilies], "biqiltu margaa").
+entry(daylong, adj, [], "turuu guutuu guyyaa").
+entry(daymare, n, [daymares], "yaada sodaachisaa yeroon hin nindaggatti taʼu").
+entry(daypack, n, [daypacks], "boorsaa cinaachi tokkoon kan fe'amu wantoota boosa.").
+entry(kuufoommi, n, [kuufoomman], "kutaa dubbisuu fi bashannanaa").
+entry(daysail, v, [daysailed,daysailing,daysails], "xiyyaara guyyaaarra buuyyuuf basha'uu").
+entry(dayside, n, [daysides], "gidduu sa’aatii irraa ifuu lafa urjii ykn ji’a").
+entry(daysman, n, [daysmen], "seera qabeessa").
+entry(daystar, n, [daystars], "looni kan arguufila galxii dursee ganama").
+entry(guyyaa, n, [guyyaa], "guyyaa").
+entry(daywear, n, [daywear], "uffata yeroo hiriiraatti kan fayyadu").
+entry(daywork, n, [dayworks], "hojjii hojjatamaa guyyarra").
+entry(daze, v, [dazed,dazing,dazes], "dhaamsuuDAZEDLY adv").
+entry(dazzle, v, [dazzled,dazzling,dazzles], "ittiin ibsa ifaa daalakaa").
+entry(dazzler, n, [dazzlers], "kan namatti boba'u").
+entry(de, prep, [], "irraa kan maqaa keessatti itti fayyadamamu").
+entry(deacon, v, [deaconed,deaconing,deacons], "akka faaruu sagalee ol kaasuun dubbisuu").
+entry(deaconry, n, [deaconries], "waajjira lubummaa").
+entry(dead, adj, [], "DEADER DEADESTjiraachuu dhabe").
+entry(soda, n, [sooda], "yeroo hiyyummaa ol-aanaa").
+entry(deadbeat, n, [deadbeats], "dadhabsiisaa").
+entry(deadbolt, n, [deadbolts], "qulfii balbalaa").
+entry(comachisu, v, [comachise,comachisuu,comachisa], "dhadhabina ykn birmadummaa hir'isuuf").
+entry(deadener, n, [deadeners], "kan odeessu").
+entry(deadeye, n, [deadeyes], "fakkeessitoota keessa beekamaa ta'e").
+entry(deadfall, n, [deadfalls], "gosa seeraa bineensaa").
+entry(deadhead, v, [deadheaded,deadheading,deadheads], "imalaa malee fe'umsawwan kennaa").
+entry(deadlier, comparative, [], "kan du'aa waliin walqabatan").
+entry(hammaataadha, superlative, [], "kan hammaataa").
+galii(duukadhugaa, v, [duukadhaga'ee,duukadhagaan,duukadhugootaa], "rikaara boobbaa gosa piroga irratti qophaa'ee hojjachuu").
+entry(deadline, v, [deadlined,deadlining,deadlines], "yeroo murtaa'eef daangaa kaa'uu").
+entry(deadlock, v, [deadlocked,deadlocking,deadlocks], "dhaabbachuu").
+entry(dhibee, adj, [], "DARRAA DHUMARRAAfur daa'ima").
+entry(deadman, n, [deadmen], "angara isnuuf ittiin strikisummu funyaaniin fijuu fiixee gaaraa umphee").
+entry(du'aadha, n, [uumaalee du'aa], "haalata du'aadha").
+entry(deadpan, v, [deadpanned,deadpanning,deadpans], "akka afoo nanfachuu hin agarreefitti hojjechuu").
+entry(deadwood, n, [deadwoods], "cimsadhoo dhuma kilaa keessaa").
+entry(deaerate, v, [deaerated, deaerating, deaerates], "qilleensa ykn gaazii keessaa baasuu").
+entry(buufata, adj, [], "BUUFATA GAARIin dhagayu dhabu").
+entry(deafen, v, [deafened, deafening, deafens], "millaaqu").
+entry(deafish, adj, [], "lafaata xiqqaa").
+entry(deafly, adv, [], "akka dhagahu dhabeetti").
+entry(udha, n, [udhafoota], "haala dhaggeeffachuu dadhabaa").
+entry(deair, v, [deaired,deairing,deairs], "baasuu qilleensa irraa").
+entry(deal, v, [dealt,dealing,deals], "daldalu ykn hojii daldalaa hojjachuu").
+entry(dealate, n, [dealates], "xuuxuu quleeffamte harka caalu bilisaDEALATED adj").
+entry(dealer, n, [dealers], "namni kan qixa qoodu").
+entry(dealfish, n, [dealfishes], "qallaa'a biyya galaanaa").
+entry(dealign, v, [dealigned,dealigning,dealigns], "hidhannoo siyaasa paartii irraa deebisuu").
+entry(dealing, n, [dealings], "tajaajila maallaqaa").
+entry(dealt, gadda, [], "yeroon 'deal'").
+galmee(dean, v, [deaned,deaning,deans], "akka dhimmootaaitti tajaajilu").
+galmee(deanery, n, [deaneries], "raawwii deena").
+entry(deanship, n, [deanships], "deanery").
+entry(garaa’, adj, [], "GARAACHISAA GARAACHIISAAjaalalaan guddaa").
+entry(jallataa, n, [jallattoota], "nama jaallatamaa").
+entry(dearest, n, [dearests], "nama jaallatamaa").
+entry(dearie, n, [dearies], "deary").
+entry(dearies, pl, [], "kan deary").
+entry(dearly, adv, [], "akka haalaan").
+entry(dearness, n, [dearnesses], "haalli qaalii ta'uu").
+entry(dhibu, n, [dhibnoota], "lubbuu gahaa dhabuu").
+entry(deary, n, [dearies], "daa'ima").
+entry(deash, v, [deashed,deashing,deashes], "itti guboo irraa haaduu").
+entry(deasil, adv, [], "akka sa'aatiin").
+entry(death, n, [deaths], "dubbii yeroo jireenyu xumuruu").
+entry(seexana, n, [seexanotaa], "saree Bishaan itti Ba’e keessatti du’u").
+entry(deathcup, n, [deathcups], "muka gogaa akka summii hojjetu tokko").
+entry(deathful, adj, [], "fataala").
+entry(deathly, adj, [], "DEATHLIER DEATHLIESTirrisaa ykn adeemsa du'aa fakkaatu").
+entry(deathy, adj, [], "deathly").
+entry(deave, v, [deaved,deaving,deaves], "gowomsuudhaaf").
+entry(deb, n, [debs], "debuutante tokko").
+entry(guungumuu, n, [guungumoota], "tibbana kufaatii").
+entry(debag, v, [debagged, debagging, debags], "kaalicha nama keessaa baasuuf").
+entry(debar, v, [debarred,debarring,debars], "balleessa").
+entry(bortaan, v, [borte,boruun,borota], "akka bidiruun gadi bu'u").
+entry(debarker, n, [debarkers], "kan muka bokochi balleessu tokko").
+entry(debase, v, [debased,debasing,debases], "akkaan mijeessuu").
+entry(debaser, n, [debaserota], "kan qabu gatii xiqqeessa").
+entry(marii, v, [mari'atan,mari'achaa,mari'ata], "walii mormuu").
+entry(yaaddamaa, n, [yaaddamtoota], "kan yaadda'u tokko").
+entry(waamicha, v, [waamamee,waamamaa,waaman], "afaan faalessuu").
+entry(debeak, v, [debeaked,debeaking,debeaks], "asii qadaa goromtee gubbaa irra ciruu").
+entry(debeard, v, [debearded,debearding,debeards], "fuulina bishaan rafamtu irraa baasuuf").
+galmee(dadhabina, n, [dadhabina], "laafina").
+entry(debit, v, [debited,debiting,debits], "waadaa kanaatiin yookaan gibira itti fe'uuf").
+entry(debonair, adj, [], "suave").
+entry(debone, v, [deboned,deboning,debones], "lafa irraa lafee ari'uu").
+entry(deboner, n, [deboners], "kan lafeesaa baasuu").
+entry(debouch, v, [debouched,debouching,debouches], "bahuun gara baldhinaan seenuuf").
+entry(debouche, n, [debouches], "banaa fi ce'umsa loltuu").
+entry(debride, v, [debrided,debriding,debrides], "biyya du'aa hojii qorsaatti itti fayyadamu").
+entry(debrief, v, [debriefed,debriefing,debriefs], "gaaffii dhi'eesuu booda qopheessa").
+entry(balleessaa, n, [balleessaa], "yaadota yeroo hafeetti facahanii caalaa"),
+galfata(debruise, v, [debruised,debruising,debruises], "kotaa hidhii ceesisuuf").
+entry(debt, n, [meeshaa], "kan gaherame DEBTLESS adj").
+entry(debtor, n, [debtors], "namni waa nama biraatti dhabe").
+entry(smage, v, [smagu,smagaa,smaggii], "qulqulleessuuf dogoggora kaasuu").
+entry(debugger, n, [debuggers], "inni nuusa deebi'uu danda'u").
+entry(debunk, v, [debunked,debunking,debunks], "sobbuu fi soba mul'isuuf").
+entry(debunker, n, [debunkers], "isa mul`ata badaa mul`isu").
+daarii(debur, v, [deburred,deburring,deburs], "beburr").
+entry(deburr, v, [deburred,deburring,deburrs], "qabannoo haphisaa keessaa alatti baasuu").
+entry(debut, v, [debuted,debuting,debuts], "mul'ata jalqabaa uummataa duratti taasisuu").
+entry(debutant, n, [dubbifamaa], "nama jalqaba irratti mul'atu").
+entry(debye, n, [debyes], "yknniin kaffaltii iinisteetlchaa").
+entry(ji'a, n, [ji'oota], "yeroo waggaa kudhanDECADAL adj").
+entry(decadent, n, [dekanents], "namni haala miira ykn safuu qullaa keessa jiruu").
+entry(decaf, n, [decafs], "koffii kan hin qabne").
+entry(decagon, n, [decagons], "poligoonii harka kudhan qabu").
+entry(dekagram, n, [dekagrams], "dekagram").
+entry(decal, n, [decals], "suuraa ykn fakkii kaansariidha, kan gara waraqaa qophaa'etti jijjiiramuuf").
+entry(decalog, n, [decalogs], "Seerota Kudhan").
+entry(decamp, v, [decamped,decamping,decamps], "akka laafaa yeroo qubannaa irraa deemuuf").
+entry(decan, n, [decans], "ta mi'aafaa sadii keessaa tokko, mallattoo zodiac mi'aafan 10 kopha qabuu").
+entry(decanal, adj, [], "kan kiraa gargaartuu deeniitti jiru").
+entry(decane, n, [decanes], "hidrookarboonii").
+entry(decani, adj, [], "leediftoota mirga sirbamee").
+entry(fuudhu, v, [fuudhe,fudhaa,fudhatan], "hanga bira keessatti tokko irraa dhoosa yaa'uu").
+entry(decanter, n, [decanters], "qadaadii miidhagaa").
+entry(dipoodii, n, [dipoodoota], "uumama biengaddaa kudhaniin mataa qabu").
+entry(decare, n, [decares], "dekare").
+entry(decay, v, [decayed,decaying,decays], "diigamuu").
+entry(decayer, n, [decayers], "kan dadhabu").
+entry(decease, v, [deceased,deceasing,deceases], "du'uu").
+entry(deceased, n, [deceaseds], "nama du'e").
+entry(decedent, n, [decedents], "nama du'ee").
+entry(dararaa, n, [dararaalee], "hojii gowwoomsaa").
+entry(sobuu, v, [soda’e, sodaa, soba], "sobaan dogoggorsuuf").
+entry(dhaliilee, n, [dhaliileewwan], "kan dhara hojjetu").
+entry(decemvir, n, [decemvirs], "yookiin DECEMVIRI tokkoo keessaa booddeessaa Romaa gosa kudhaniin").
+entry(decenary, n, [decenaries], "qubee").
+entry(decency, n, [decencies], "haala qulqullinaa").
+entry(decennia, npl, [], "waggoota").
+entry(decent, adj, [], "DEESANTII DEESANTO 'a taasgabu immoo 'a buufatu mirga fedha ummata mirga eegalu' DEESANTIN adv").
+entry(decenter, v, [decentered, decentering, decenters], "gitni keessaa hin jirretti kaa'uudha").
+entry(decentre, v, [decentreeramee,decentreeruu,decentreerra], "kara rakkoo").
+entry(decern, v, [decerned,decerning,decerns], "murtii seeraa tiin murteessu").
+entry(deciare, n, [deciares], "yknitiroo meetirika.").
+entry(decibel, n, [decibels], "gosa ittaansuu sagalee").
+entry(furmaata, v, [furmate,furmaataa,jijjiirama], "hojii filannoo ykn murtii kennuuf gochuudha").
+entry(decider, n, [firii], "jiraataa murteessa").
+entry(decidua, n, [deciduas], "ykn DECIDUAEa maxinoo-memibireenii boordii illegittiDECIDUAL adj").
+entry(decigram, n, [dekiigiraamii], "waggaa tokko qixxee giriyaamii irraa").
+entry(decile, n, [deciles], "daangaa lakkoofsaa").
+entry(decimal, n, [decimals], "kutaa cabbii isaan dhibbeentaa tahe").
+entry(decimate, v, [decimated,decimating,decimates], "qarqara guddaa balleessuuf").
+entry(furunfura, v, [furunfuree,furanfuree,furanfurraa], "hiika deebisi").
+entry(fuyyaa, v, [fuyyeen,fuyyaa'aa,fuyyaawwan], "wafaan mo'achuuf murteessuu").
+entry(decisive, adj, [], "boqonna").
+entry(deck, v, [decked,decking,decks], "faaya").
+entry(deckel, n, [deckels], "deckle").
+entry(decker, n, [deckers], "wantoota lakkoofsa addaa qabu sagalee ykn naannoo irratti tokkoffaa ykn lakkoofsa inginżiinii tarreejira").
+entry(deckhand, n, [deckhands], "seeman kan hojiwwan harkaatiin dalagu").
+entry(decking, n, [deckings], "qaree bishaanii yeroo hojjetamu itti fayyadamuuf waan manneetii tajaajilu").
+entry(deckle, n, [deckles], "maroojiidha mana maxxansaa harkaan hojjetamuuf itti fayyadamu").
+entry(deckless, adj, [], "ta'eewwan boqonnaa hin qaban").
+entry(declaim, v, [declaimed,declaiming,declaims], "akka resmii dubachuu").
+galmee(fidaa, v, [fiidha, fiidhama, fiidhu], "beekumsa ifatti fida").
+entry(declarer, n, [declarers], "kan ibsu tokko").
+entry(declass, v, [declassed, declassing, declasses], "sadarkaa gadi buusuuf").
+entry(declasse, adj, [], "sadarkaa gad xiqqaate").
+entry(declaw, v, [declawed,declawing,declaws], "jabbiiwwan lafee irraa dhiitaa").
+entry(hordofuu, v, [hordofame, hordofaa, hordofu], "duuba deebi'uu").
+entry(decliner, n, [decliners], "kan dhiisuun").
+entry(declutch, v, [declutched,declutching,declutches], "kutaa dabalataa konkolaataa hojii irraa akkaafuudha").
+entry(deco, n, [decos], "sirrina sirrii").
+galmee(decoct, v, [decocted,decocting,decocts], "nyaata bilcheessuudhaan urga baasuuf").
+entry(furuu, v, [furtuu,furuuf,fura], "ergaa icciitii gara afaan mul'ataatti jijjiiruu").
+entry(decoder, n, [decoders], "kan hiikaa baasuu").
+entry(decolor, v, [decolored,decoloring,decolors], "haanfachiisa midhachisa").
+entry(decolour, v, [decoloured,decolouring,decolours], "bifa baasuu").
+entry(decor, n, [decors], "adda duree fi haala fooyya'iinsa").
+entry(qulqulleessi, v, [qulqulleesse,qulqulleessaa,qulqulleessu], "akka faaya".
+entry(decorous, adj, [], "sirrii").
+entry(decorum, n, [decorums], "waliigaltee hawwasummaa eeguu").
+entry(decouple, v, [decoupled,decoupling,decouples], "addaan fageessu").
+entry(decoy, v, [decoyed,decoying,decoys], "sodhaachisee qoophii keessaa galchuuf").
+entry(decoyer, n, [decoyers], "kan gowwoomsu").
+galmee(decrease, v, [decreased,decreasing,decreases], "xiqqaachuuf").
+entry(xalayaa, v, [xalayees,xalayessuu,xalayeewwan], "akka seeraafi ajajan qindaa'a ykn ajaje").
+entry(decreer, n, [decreers], "tokko isa ajaja kennu").
+entry(decrepit, adj, [], "baayyee fayyadama yeroo dheeraa irraa dhaʼamte").
+entry(decretal, n, [decretals], "murtii papaa").
+entry(decrial, n, [decrials], "raafama").
+entry(decried, 지금, [], "yeroo decry").
+entry(decrier, n, [decriers], "kan moggaasu tokko").
+entry(decrown, v, [decrowned,decrowning,decrowns], "cimaa ofirraa mulquun garagalchu").
+entry(decry, v, [decried,decrying,decries], "in komachuu").
+entry(furuu, v, [furee,furuu,fura], "lakkoofsota dogoggorsan hiikuu").
+entry(decuman, maq, [], "waan jabbaa baay'ee").
+entry(decuple, v, [decupled,decupling,decuples], "guyyaa kudhan dabaluuf").
+galmee(decuries, ol, [], "decury keessaa").
+entry(decurion, n, [decurions], "hoggaamiyaha dekurii").
+entry(decurve, v, [decurved,decurving,decurves], "gara gadiitti garagaluu").
+entry(decury, n, [decuries], "garee loltoota kudhanii Roomaa moofaa keessatti").
+entry(dedal, adj, [], "daedal").
+entry(dedans, n, [dedans], "iddoo daawwattootni tennis itti argan").
+entry(dedendum, n, [dedendums], "ykn DEDENDAdhaabensa forkee garee").
+entry(dedicate, v, [dedicated,dedicating,dedicates], "kan meeshaa adda ta'eef ramaduuf").
+entry(deduce, v, [deduced,deducing,deduces], "akka irraatti argamu").
+galmee(deduct, v, [deducted,deducting,deducts], "hambisuuf").
+entry(dee, n, [dees], "barruu D").
+entry(deed, v, [deeded,deeding,deeds], "ragaa seeraa erga maxantuu daddabarsuu").
+entry(deedless, adj, [], "ta'anii malee hojii");
+entry(deedy, adj, [], "DEEDIER DEEDIESThojjetaa").
+entry(deejay, v, [deejayed,deejaying,deejays], "akka disk jockey hojjechuu").
+entry(yeroo, v, [yeromee, yeromuu, yeroma], "yaada qabaachuu").
+entry(deemster, n, [deemsters], "abbaa seeraa fi heeraa kan Isle of Man").
+entry(deep, adj, [], "DHEDHEEFFAA DHEDHIIBAAFAMAA bakka irraa fageenyaan gadi faaje").
+entry(gabbina, n, [gabbinoota], "iddoo yookiin wanta gabbina guddaa qabu").
+entry(gabbisuu, v, [gabbise,gabbisuu,gabbisu], "akka ittiin gabbatu taasuu").
+entry(deepener, n, [deepeners], "kan gadi fageessu tokko").
+entry(gabbisa, adv, [], "baayyee gadi").
+entry(deepness, n, [deepnesses], "amala gadi fagoo ta’uu").
+entry(harree, n, [harreewo], "beeylada horii qabeessa ta'eHARREEMAKKACHISA adj").
+entry(argaaba, n, [argaabota], "sinbirra dhiiga xuuxu").
+entry(wayyaa gaalaa, n, [wayyaa gaalaawwan], "wayyaa gaala").
+entry(deerweed, n, [deerweeds], "tosigni kan jirma sibiila fakkaatu").
+entry(deeryard, n, [deeryards], "iddoo fiyaaltewwan harree diimaa yeroo bonaatti ni buqqa'uuf galu").
+entry(deet, n, [deets], "madhee xixiqqaaf ittisaa").
+entry(deewan, n, [deewans], "deewan").
+entry(def, adj, [], "DEFFER DEFFESTgarii").
+entry(deface, v, [defaced,defacing,defaces], "fuula badii taasisa").
+entry(defacer, n, [defacers], "kan hojiitti jijjiiru").
+entry(xureeffachuu, v, [xureeffame, xureeffachaa, xureeffatu], "maqaa gaarii irratti dharara raawwachuu").
+entry(defamer, n, [defamers], "akka ta'e tolaan nama miidhuuf gargaare").
+entry(defang, v, [defanged,defanging,defangs], "akka hin miidneef gochuu").
+entry(defat, v, [fayyoomu,fayyoomaa,fayyooma], "fayyi keessaa baasuf").
+gala(gosa, v, [xuqameera,xuqamaa,xuqamu], "hojii barbaachisaa ta’e hojjechuu dhabuu").
+entry(hanqisaa, v, [hinqisame,hinqisachaa,hanqisa], "injifachuu irratti galtaa argachuu").
+entry(defeater, n, [defeaters], "kan injifatu").
+entry(baqaqsuu, v, [baqaqse,baqaqsaa,baqaqsi], "qaama keessa irraa fincaan baasuu").
+entry(cebbee, v, [ceebbee,ceeberaa,cebba], "kafa ayyaana dhaala").
+entry(defector, n, [defectors], "kan firfiraan").
+entry(defence, v, [defenced,defencing,defences], "ittiin ofirraa ittisuu").
+entry(daangessu, v, [daangeessee,daangeessuu,daangeessu], "ni eeguu").
+entry(defender, n, [defenders], "kan eegu tokko").
+entry(defense, v, [akka deeggarsaatti, deeggarsa godhataa jiruu, deeggarsaalee], "akka weerara addaa irraa of eeggan").
+entry(hakaa, v, [hakaame,hakaa,haka’uu], "dhaabata").
+entry(deferent, n, [deferents], "koorsii qeeqaaf fudhatamuu addunyaa naannoofee jiru").
+entry(deferral, n, [deferrals], "raawwii tursuu").
+entry(deferrer, n, [deferrers], "kan boodaatti deebisu tokko").
+entry(deferring, present, [], "participle of defer").
+entry(deffer, comparative, [], "kan def").
+entry(deffest, superlative, [], "of def").
+entry(defi, n, [defis], "caalchis").
+entry(morma, n, [mormoota], "mormi kaka'umsa qabu").
+entry(defiant, adj, [], "kan morman").
+entry(gadoodina, n, [gadoodinoota], "hanqina").
+entry(defied, dhoowwuu, [], "dhaabbatanyummaa dhoowwuu").
+entry(defier, n, [defiers], "kan morman").
+galmee(tatamsaasa, ammaa, [], "gosa sadaffaa qaama sadaffaa irratti irratti fooyya'iinsa").
+entry(defilade, v, [defiladed,defilading,defilades], "akka rasaasa diinaa irraa tarsiisuu").
+entry(baqaqsuu, v, [baqaqse, baqaqsaa, baqaqsa], "booressuu").
+entry(defiler, n, [defilers], "ingaalfattu").
+entry(hiiki, v, [hiikame,hiikamu,hiikama], "hiika ibsuu").
+entry(hiikuu, n, [hiikuutota], "kan hiikuu").
+entry(definite, n, [definites], "beekamtii dhiqamu hin dandeenye").
+entry(gadiqabsiisu, v, [gadiqabsiise, gadiqabissoo, gadiqabsiisa], "hawaa ykn gaasii keessaa gad dhiisuuf").
+entry(deflater, n, [deflaters], "kan ni dadhabsiisu").
+entry(deflator, n, [deflators], "kan gadi lakkisu tokko").
+entry(deflea, v, [defleaed,defleaing,defleas], "boollituu irraa bilisa taasisuu").
+entry(godaanfachuu, v, [godaanfate, godaanfataa, godaanfacha], "gara bakka biraatti garagalchuu").
+entry(dhama'ee, adj, [], "downward qaban").
+entry(deflower, v, [deflowered,deflowering,deflowers], "bootte irraa mul'ate").
+entry(defoam, v, [defoamed,defoaming,defoams], "kumaa keessaa baasuu").
+entry(defoamer, n, [defoamers], "kan foams dhaabu").
+entry(hordoffachuu, v, [hordoffate,hordoffachaa,hordoffachu], "yookiin HORDOFFA'E HORDOFFACHUU HORDOFFA'UU akka xiyyeefannoo irraa baasu godhuuf").
+entry(defog, v, [defogged,defogging,defogs], "balballooma irraa balleessuu").
+entry(defogger, n, [defoggers], "isa muraa").
+entry(deforce, v, [deforced,deforcing,deforces], "harkifachuu humnaan");
+entry(deforcer, n, [deforcers], "tokko kan saamu").
+entry(deforest, v, [baadiyaa,baadiyaa'aa,baadiyaa'uu], "bosona keessaa qulqulleessuuf").
+entry(deform, v, [deformed,deforming,deforms], "akkaataa baddan tokko jijjiiruuf").
+entry(deformer, n, [deformers], "kan faalleessu tokko").
+entry(defrag, v, [defragged,defragging,defrags], "dhiibbaa filee kompitaraa keessaa dhabamsiisuu").
+entry(xabaa, v, [xabaame,xabachaa,xabatu], "tolfannaa").
+entry(defray, v, [defrayed,defraying,defrays], "bubbuqqachuuf").
+entry(defrayal, n, [defrayals], "raayisuu").
+entry(defrayer, n, [defrayers], "namni kaffalee").
+entry(defriend, v, [defriended,defriending,defriends], "maqaa nama tokko irraa haqachuu hiriyyoota tarree irraa").
+entry(defrock, v, [defrocked,defrocking,defrocks], "sanyii amantaa irraa buqqisuuf").
+entry(cabsisa, v, [cabsise,cabsisaa,cabsisu], "sanyii cabsee baasuuf").
+entry(deft, adj, [], "DEFTER DEFTESTfaayidaaDEFTLY adv").
+entry(deftness, n, [deftnesses], "safuu").
+entry(defuel, v, [dafee dhaame,dafee dhaamaa,dafoo dhaama], "yookiin FUEL KEESSAA FUUDHAME FUEL DALAA JIRA Laancoo irraa kaasuuf").
+entry(defunct, adj, [], "du'aa'ee").
+entry(hir’isu, v, [hir’ise, hir’isaa, hir’isu], "geldii irraa fudhachuuf").
+entry(defuse, v, [defused,defusing,defuses], "fuusee irraa balleessuu").
+entry(defuser, n, [defusers], "kan hiikkatu tokko").
+entry(defuze, v, [defuzed,defuzing,defuzes], "bomba dhaabuuf").
+entry(defy, v, [defied,defying,defies], "bal'inaan fi gootummaan mormuu").
+entry(degage, adj, [], "birmaduu fi tasgabbaa'aa akkaataa keessaatti").
+entry(degame, n, [degames], "dhaabbata gannaa naanno'oo").
+entry(degami, n, [degamis], "degame").
+galmee(degas, v, [degassed,degassing,degases], "yookiin DEGASSEStogaasii irraa fuudhu").
+entry(degasser, n, [degassers], "kan baasuu").
+entry(degauss, v, [degaussed,degaussing,degausses], "akka galtummaa irraa bilisa gochuu").
+entry(degender, v, [degendered,degendering,degenders], "haala dhala namaa irraa fudhachuu").
+entry(degerm, v, [degermed,degerming,degerms], "hanqina dhukkuba irraa qulqulleessuuf").
+entry(deglaze, v, [deglazed, deglazing, deglazes], "faayila irraa faayilii balleessuu").
+galmee(gabateessu, v, [gabateesse,gabateessaa,gabateessu], "gad xiqqeessu").
+entry(degrader, n, [degraders], "kanniin qaawwa keessaa deebisu").
+entry(degrease, v, [degreased,degreasing,degreases], "soogidda keessaa kaasuu").
+galii(darajaa, n, [darajoota], "tokko keessaa saffisaa fi babal’atina barruu irratti hir’isu ykn dabarsu kana dachaa barbaachisaDEGREED adj").
+entry(degum, v, [gumii irraa bilisa gochuu, gumii irraa bilisoomsuuf, gumiirraa bilisoomsa], "gumii irraa bilisa gochuuf").
+entry(degust, v, [degusted,degusting,degusts], "dhandhamu gammachuun").
+entry(dehair, v, [dehaired,dehairing,dehairs], "quncee irraa harree baasuu").
+entry(dehisce, v, [dehisced, dehiscing, dehisces], "banuu").
+entry(dehorn, v, [dehorned, dehorning, dehorns], "horii irree irraa muruuf").
+entry(dehorner, n, [dehorners], "isa qondaala").
+entry(dehors, barb, [], "kana booda").
+entry(dehort, v, [dehorted,dehorting,dehorts], "yaaddachuu ykn gochuu irraa of qusachuun yaaluu").
+entry(deice, v, [deiced,deicing,deices], "bilisa gochuuf cabbii keessaa").
+entry(deicer, n, [deicers], "kan barsiisee").
+entry(deicide, n, [deicides], "ajjeechaa waaqaaDEICIDAL adj").
+entry(deictic, n, [deictics], "jecha ykn hima ta'e, maqaa ykn iddoo agarsiisu").
+entry(deific, adj, [], "sagalee Waaqa").
+entry(deifical, adj, [], "deific").
+entry(deified, past, [], "boqochuu fi yeroo").
+entry(deifier, n, [deifiers], "kan waaqessuu").
+entry(deiform, adj, [], "summii waaqaa qabaachuu").
+entry(deify, v, [deified,deifying,deifies], "waaqessuu").
+entry(deign, v, [deigned, deigning, deigns], "of eessa jalaa tokko hojjechuuf of gadi qabu").
+entry(deil, n, [deils], "seexana").
+entry(deionise, v, [deionised, deionising, deionises], "deionayizii godhuu").
+entry(deioniser, n, [deionisers], "deionizer").
+entry(deionize, v, [deionized,deionizing,deionizes], "akkaa iyyooni ittiin irraa haqamani").
+entry(deionizer, n, [deionizers], "kan dhidheessutu tokko").
+entry(deism, n, [deisms], "falaasama amantaa").
+entry(deist, n, [deists], "namni amantii deizimii hordofu").
+entry(waaq, n, [waaqota], "waaqa yookaan waaqittoo").
+entry(deixis, n, [deixises], "raawwii ibsaa jechoota tokko tokkoo").
+entry(deject, v, [dejected,dejecting,dejects], "hinataasuuf").
+entry(dejecta, npl, [], "innyoota").
+entry(dejeuner, n, [dejeuners], "kiyyoo boodaa").
+entry(dekagram, n, [dekagramota], "safartuu gara gaarama kudhan galu danda'u").
+entry(dekare, n, [dekares], "meeshaan safaraa kan are tokkoof kudhan wal qixxeessu").
+entry(deke, v, [], "DEKED DEKING ykn DEKEING DEKEsiin mormitoota bakka isaanii irraa fottoqsi").
+entry(dekko, n, [dekkos], "ilaalcha").
+entry(del, n, [dels], "hojjechiisaa kalaqaa daddabaguu keessatti").
+entry(delaine, n, [delaines], "duraaffee itittuu").
+entry(agarreessu, v, [agarreesse,agarreessuu,agarreessa], "waamicha raawwattee himachuu").
+entry(delation, n, [delations], "hojii himannaa").
+entry(delator, n, [delators], "kan himee kennu tokko").
+entry(delay, v, [tursiisee, tursiisuufi, tursiisa], "yeroo boodaatti dabarsuu").
+entry(dafee-hin-deemtu, n, [dafee-hin-deemtuu], "tokko kan tursiisa").
+entry(dele, v, [deledigra,deleera,delesita], "haquu").
+entry(delead, v, [deleaded,deleading,deleads], "kanplaazii baasuu").
+entry(deleave, v, [deleaved, deleaving, deleaves], "kopiilee adda baasuu").
+entry(delegacy, n, [delegacies], "taayitaa kennuu").
+entry(delegate, v, [delegated,delegating,delegates], "akka bakka bu'aa akka muuduu").
+entry(delete, v, [deleted,deleting,deletes], "haaraa fi barreeffamaa wal-irraa kaasuuf").
+galmee(haqaa, n, [haqaa], "raawwii haqaa").
+entry(delf, n, [delfs], "delft").
+entry(delft, n, [delfts], "gotanii").
+entry(deli, n, [delis], "bakkee nyaata qal'ee fi mi'aawaa bitatan").
+entry(cunqursa, n, [cunqursota], "nyaata filatamaa").
+entry(na'iinaa, n, [na'iinaawwanii], "naa'inna").
+entry(delict, n, [delicts], "yakka seera hawaasaa cabsuu").
+entry(gammachu, v, [gammade,gammachiisa,gammatu], "ggaarii gammachuu kennuuf").
+entry(delime, v, [delimed,deliming,delimes], "bilisoomsu laga irraa").
+entry(delimit, v, [delimited,delimiting,delimits], "daangaa mallatteessuu").
+`entry(delink, v, [delinked,delinking,delinks], "wal qunnamtii addaan kutuu").`
+entry(delirium, n, [deliriums], "ykn DELIRIAboqqolloo gara jabaa").
+entry(delish, adj, [], "mi'aawaa").
+entry(delist, v, [delisted,delisting,delists], "akka galme irraa haqamuuf").
+entry(deliiverii, v, [deliiveree, deliiveruu, deliivera], "akka nama barbaadamee gahuufi geessuuf").
+entry(gahuu, n, [gahuuwwan], "raawwachuu hojii").
+entry(dell, n, [dells], "garaa-gadhee xiqqoo gaara quraquraa fi muka itti hin jirreedha").
+entry(delly, n, [dellies], "deli").
+entry(delouse, v, [deloused,delousing,delouses], "soogidda baasuu").
+entry(delouser, n, [delousers], "nama xaxii balleessu").
+entry(delphic, adj, [], "hin ifam").
+entry(delt, n, [delts], "deltotii").
+entry(delta, n, [deltas], "kiyya maxxansaara lagaa irratti argamu").
+entry(deltoid, n, [deltoids], "lafee fe'umsafiqa miilliirraa man'ee lafaa").
+entry(waammachiisi, v, [waammachiisee, waammachiisaa, waammachiisu], "yaada ykn murtii dogoggorsi").
+entry(deluder, n, [deluders], "kan gowwomsu tokko").
+entry(deluge, v, [deluged,deluging,deluges], "argamsiisa bishaan").
+entry(foo, n, [foos], "fofoo").
+entry(delusive, adj, [], "kan gowwoomsuuf deemu").
+entry(delusory, adj, [], "soba").
+entry(deluster, v, [delustered,delustering,delusters], "beekaminsa ibsuuf").
+entry(deluxe, adj, [], "kan bareedinaa fi kumaali").
+entry(delve, v, [delved,delving,delves], "sakatta'i gad-fagoo").
+entry(delver, n, [delvers], "kan qotu tokko").
+entry(demagog, v, [demagoged,demagoging,demagogs], "akka hoogganaa miira fi safuu qabsiisuutti of qabaachuuf").
+entry(demagogy, n, [demagogies], "birmannaa demagog").
+entry(gaafadhu, v, [gaafadhe,gaafataa,gaafachu], "ittigaafatamummaadhaan gaafachuu").
+entry(demander, n, [demanders], "kan gaafatu tokko").
+entry(demarche, n, [demarches], "tartiiba").
+entry(demark, v, [demarked,demarking,demarks], "daangessu").
+entry(demast, v, [demasted,demasting,demasts], "kwaxxaa irraa masta itti mul'ate").
+entry(deme, n, [demes], "naannoo Giriikii").
+entry(demean, v, [demeaned,demeaning,demeans], "ofiin of qajeelchu akkana akka of ilaaluuf").
+entry(jaalala, n, [jaalatoo], "akkaataa namni itti of-qabu").
+entry(dement, v, [demented,dementing,dements], "sammuu dhukkubsuu").
+galmee(dementi, n, [dementis], "dhara ifootti hojjatame mormuu").
+entry(dementia, n, [dementias], "beenyaa sammuu").
+entry(demerara, n, [demeraras], "zayti sibiilaatu fudhatamuu danda'u kan hexi mangatoo").
+entry(demerge, v, [addaan_cituu,addaan_citaa,addaan_cituu], "gola tokkoo dhaabbata keessaa irraa kaasuu").
+entry(demerger, v, [demergered,demergering,demergers], "caccabsuu").
+galii(bu'uuruu, v, [bu'uuree,bu'uuraa,bu'uur], "sadarka ykn aangoo gad xiqqeessa").
+entry(demersal, adj, [], "kan bu'uura galaanaa irratti argamu").
+entry(demesne, n, [demesnes], "abbaa qabeenya qabeenya lafaa seeraa ta'ee akka mataa isaa qabeenyaatti qabaachuudha").
+entry(demeton, n, [demetons], "dilalli bicheessaa").
+entry(demic, adj, [], "waan gosa dhuunfaa waliin walqabatu").
+entry(demies, pl, [], "kan demy").
+galmee(demigod, n, [demigods], "waaqa xiqqaa").
+galfata(demijohn, n, [demijohnoota], "gaaloo qal'achuu dheeraa").
+entry(demilune, n, [demilunes], "ji'a badhessa").
+entry(deminer, n, [deminers], "nama miinoota qilleensaan buusan irraa fuudhuudhaaf feete qopheessumma ima").
+entry(demining, n, [deminings], "fuula baasuqa").
+entry(demirep, n, [demireps], "buqiltuu").
+entry(daandii, v, [daandifame,daandifamaa,daandi], "kenna").
+galmee(demist, v, [demisted, demisting, demists], "baalageessu").
+entry(demister, n, [demisters], "kan foogonnii dhabamsiisu").
+entry(demit, v, [baasisa, baasisaa, baasisi], "gulaallii").
+galmee(demiurge, n, [demiurges], "abbaa alangaa Giriiki durii").
+entry(demivolt, n, [demivolts], "garagalcha walakkaa kan horiin hojjetu").
+entry(demo, v, [demoed,demoing,demos], "agarsiisuuf").
+entry(demob, v, [demobbed,demobbing,demobs], "akka tajaajila waraanaa irraa hiikamuuti").
+entry(demokeratawa, n, [demokeratawonni], "kan amanu haqa waliigalaa fi hawaasa walqixxummaa keessatti").
+entry(demode, adj, [], "dureessa").
+entry(demoded, adj, [], "kan du’e").
+entry(demoi, n, [], "pl of demos").
+entry(dhoorguu, v, [dhoorge, dhoorgaa, dhoorguu], "balleessuu").
+galmee(sheeyxaana, n, [sheeyxaanni], "qalbii hamaa").
+entry(demoness, n, [demonesses], "sheyxaana dubartii").
+entry(demoniac, n, [demoniacs], "kan jinniin qabameedha jedhamee waan ilaalamu tokko").
+entry(demonian, adj, [], "demonikii").
+galii(sheyaadi, maq, [], "faayidaa sheyaadaa qabu").
+entry(demonise, v, [demonised,demonising,demonises], "diibuuf").
+entry(shexdiirooma, n, [shexdiiroomoota], "amantaa shexdii jajjabeessuudha").
+entry(demonist, n, [demonists], "nama hafuura hamootiin amanu").
+entry(seexana, v, [seexane, seexanaa, seexanuu], "seexana godhuuf").
+entry(demos, n, [demoi], "namoota mootummaa Giriikii durii").
+entry(demote, v, [demoted,demoting,demotes], "sadarka ykn kutaa gadi buusuuf").
+entry(demotic, adj, [], "kan galmee salphaa ta'eeti fidha barreeffama Misiraa durii").
+entry(demotics, npl, [], "barnoota namoota hawaasummaa keessatti").
+entry(demotion, n, [demotions], "hojii gadi buusu").
+entry(demotist, n, [demotists], "barataa barreeffama demotic").
+galmee(demount, v, [demounted, demounting, demounts], "kara irraa buqqaasuu").
+entry(dempster, n, [dempsters], "deemster tokko").
+entry(demur, v, [demurred,demurring,demurs], "mormuudha").
+entry(demure, adj, [], "KAN JIBBA JIBBA KAN ALTAA FI ULFINA DEMURELY adv").
+entry(demurral, n, [demurrals], "gocha mormii").
+entry(demurrer, n, [demurrers], "kan mormuu tokko").
+galmee(demurring, amma, [], "hirmaannaa demur").
+entry(demy, n, [demies], "sura xalayaa").
+entry(den, v, [denned, denning, dens], "jiraachuuf godaannisa keessa").
+entry(denar, n, [denars], "yookiin DENARIa unka maallaqaa Maakedooniyaa").
+entry(denarius, n, [denarii], "saantima doobi US").
+entry(denary, adj, [], "kan kudhan qabu").
+entry(denature, v, [kan uumamaniif adda ta'uu danda'an, daganna jiru, addaan faca'u], "akka uumamaniif adda gochuuf").
+entry(denazify, v, [denazified,denazifying,denazifies], "nazizimii irraa qulqulleessuu").
+galmee(dendrite, n, [dendrites], "kutaa qaama asii baay'ee daandii qaamaa qofaati").
+entry(dendroid, n, [dendroids], "hanqina gorra'a bishaan dhugaa").
+entry(dendron, n, [dendrons], "dendiraayitii").
+entry(dene, n, [denes], "ganda").
+galii(dengue, n, [dengues], "dhibee ardii torrabaa").
+entry(deni, n, [deni], "madda maallaqaa Maakedooniyaa").
+entry(deniable, adj, [], "akka waan haala hintaaneetti haalamu danda'uuDENIABLY adv").
+entry(haalu, n, [haaluu], "gocha haaluu").
+entry(duwwate, darbe, [], "yeroo waakkachuu").
+entry(denier, n, [deniers], "kan haalu tokko").
+entry(ittiinifneessuu, ammaa, [], "3ffaa maqaa maqiba isaa jedhee ittiin jedhu").
+entry(denim, n, [denims], "duraabilii dhadhaaDENIMED adj").
+entry(denizen, v, [denizened, denizening, denizens], "godina tokkotti jiraataa taasisa").
+entry(denned, fuudha darbe, [], "yeroo 'den'").
+entry(denning, dhiyaachuu, [], "mirmaaqaalee den").
+entry(denote, v, [denoted,denoting,denotes], "agarreERRATTI agarsiisuDENOTIVE adj").
+entry("mormuu", v, ["mormame","mormuuf","morma"], "akka ifatti komatamee balaaleffattu").
+entry(cufii, adj, [], "CUFIIWWAN CUFIII DhaggeessaaCUFIinaan adv").
+entry(densify, v, [densified,densifying,densifies], "cimsuu").
+entry(uumama_hedduu, n, [uumamoota_heddoo], "haala hedduu ta'uu").
+entry(dent, v, [dented,denting,dents], "uummataa gadi taasisuu").
+daangaa(dental, n, [dentals], "dhimma ilkaanirraa dhufu").
+entry(dentalia, npl, [], "boonni gaggabaaboo dheeraa qaban mollusks").
+entry(dentally, adv, [], "hanga jilba tahan arrabii goromsatti sarara havee garaa gara gubban duraan fiixee xaalxala".
+entry(dentary, n, [dentaries], "harma-mamoota keessatti ija kaachisaa jala jiru").
+entry(dentate, adj, [], "gogaa").
+entry(dentated, maq, [], "dentate").
+entry(dentelle, n, [dentelles], "sarara dhaab-dhaabaan faaya bu'uuf bu'uureffame").
+entry(denticle, n, [denticles], "ilkaan xiqqaa").
+entry(dentil, n, [dentils], "kutaa xiqqoo dheerataafi bal'ina qabuDENTILED adj").
+entry(dentin, n, [dentins], "dhiiguu qaamni ilkaanii ittiin ijaarramuDENTINAL adj").
+entry(dentine, n, [dentines], "dentin").
+galii(hakima-ilkiyaa, n, [hakimoota-ilkiyaa], "nama kan ilkaan fayyisu").
+entry(dentoid, adj, [], "akka ilkaanitti fakkaatu").
+galii(denture, n, [dandamataa], "walitti qabaa ilkaanoota").
+entry(denudate, v, [denudated,denudating,denudates], "saaxiluuf").
+entry(denude, v, [denuded,denuding,denudes], "hunda ofirraa baasuu").
+entry(denuder, n, [denuders], "kan baasa").
+entry(hafoo, v, [hafoo,hafoota,hafoon], "dhugaa ta'uu dhabuu labsi").
+entry(deodand, n, [deodands], "qabeenya mootummaatti kennamu ture jalqaba seera Ingilizii durii jalatti").
+entry(deodar, n, [deodars], "lafa Itiyoophiya garbii jedhamutu tokko").
+entry(deodara, n, [deodaras], "deodar").
+galmee(deontic, adj, [], "kan waadaa amalaa ilaallatu").
+entry(deorbit, v, [deorbited,deorbiting,deorbits], "bahuu gara obbitii").
+entry(deoxy, adj, [], "akka maattaa irraa maddaatti oksiijinii xiqqaa qabaachuu").
+entry(dep, n, [deps], "suuphamarkiti salphaa").
+entry(depaint, v, [depainted,depainting,depaints], "dhaabbataa").
+entry(depart, v, [gadhiisee, gaggeessaa, gaggesee], "deemuu").
+entry(departed, n, [departeds], "kan du'e").
+entry(departee, n, [departees], "nama bahu tokko").
+entry(depend, v, [ittiin,itti], "ilaaluuf").
+entry(depeople, v, [depeopled,depeopling,depeoples], "akka Baay'inni ummataa hir'atu gahuu").
+entry(deperm, v, [depermed,deperming,deperms], "madaala hin jiru").
+entry(agarsiisi, v, [agarsiifame, agarsiisaa, agarsiisa], "akka fakkii mul'isu").
+entry(depicter, n, [depicters], "kan fakkeessu tokko").
+entry(depictor, n, [depictors], "depicter").
+entry(diqine, v, [diqineera, diqinee, diqinee], "furii buqqisuuf").
+entry(deplane, v, [deplaned,deplaning,deplanes], "ka'uu xayyaara irra").
+entry(xinxesse, v, [xinxessite, xinxessaa,xinxessu], "akka balaa'uu ykn dhiibbaa xiqqeessuuf").
+entry(depleter, n, [depleters], "kan dhumaase").
+galmee(deplore, v, [deplored,deploring,deplores], "jajjabinaan gaabbuudha").
+entry(deplorer, n, [deplorers], "kan qeequ").
+entry(deploy, v, [deployed,deploying,deploys], "soorii bifa lolaatin qopheessuu").
+entry(deployer, n, [deployers], "kan tamsaasa").
+entry(deplume, v, [deplumed,depluming,deplumes], "irra qulucce of irraa mulquu").
+entry(depolish, v, [depolished,depolishing,depolishes], "fincaan ykn balbala irraa faaya kaasuu").
+entry(depone, v, [deponed,deponing,depones], "waadaa kennee dhugaa ba'uuf").
+entry(deponent, n, [deponents], "kan ragaa ba'u kan biraa").
+entry(deport, v, [deported,deporting,deports], "baqattoota biyyaa baasuu").
+entry(deportee, n, [deportees], "kan ari’atame tokko").
+galmee(deporter, n, [deporters], "kan ari'u").
+entry(deposal, n, [deposals], "gochaa taayitaa irraa fonqolchuu").
+entry(depose, v, [deposed,deposing,deposes], "ka’uu irraa ofii baasuu").
+galfata(deposer, n, [deposers], "namni buqqisu").
+entry(deposit, v, [deposited,depositing,deposits], "akka kaa’uu").
+galmee(depoo, n, [depotii], "buufata konkolaataa bakka duubatti deebi'aan ykn baaburaa").
+entry(deprave, v, [depraved,depraving,depraves], "hamee qalbii jijjiiruuf").
+entry(depraver, n, [depravers], "kan faalini").
+entry(deprenyl, n, [deprenyls], "daawaa kan fayyadaman dhukkuba Paarikinsanitti").
+entry(depress, v, [kiyyoo, gaddisiisaa, kiyyoodha], "gaddisiisuuf").
+entry(deprival, n, [deprivals], "hojii fudhachaa'uu").
+entry(dhorkuu, v, [dhorkame,dhorkaa,dhorcha], "wantii tokko irraa fudhachuu").
+entry(depriver, n, [deprivers], "kan dhorku").
+entry(depside, n, [depsides], "waanta foolii qabu").
+entry(qarqara, n, [qarqarawwan], "qarqarummaa").
+entry(dhiqiinsi, v, [dhiqiise,dhiqiisaa,dhiqiisu], "wantoota xuraa'oo irraa bilisa gochuu").
+entry(waakkatti, v, [waakkate, waakkachaa, waakkatani], "akkaataa").
+entry(deputise, v, [deputised,deputising,deputises], "buusa buusuu").
+entry(deputize, v, [deputized, deputizing, deputizes], "akka miseensa bakka bu'aa muuduu").
+entry(baddeessaa, n, [baddeessota], "nama kaan bakka bu'ee hojjetu tokko").
+entry(deracine, n, [deracines], "namni bakka isaa irraa buqqa'e").
+entry(deraayini, v, [deraayine,deraayinaa,deraayinii], "dhaamsa falmaa").
+entry(derail, v, [derailed,derailing,derails], "karaarraa of deemi").
+entry(jeequu, v, [jeeqame, jeequudha, jeequu], "sira hin taane gochuu").
+entry(deranger, n, [derangers], "kan yeroo wallaaluu").
+entry(derat, v, [deratted,deratting,derats], "goofaa irraa qulqulla’aa").
+entry(derate, v, [derated,derating,derates], "humna herreega buusuu").
+entry(deration, v, [derationed,derationing,derations], "bofeen gatii ykn ulaagaa malee bilisa taasisuuf").
+entry(deray, n, [derays], "nashu shanashii").
+entry(derby, n, [derbies], "nooc dubartoota").
+entry(dere, adj, [], "daangaa").
+entry(derecho, n, [haqa], "karra bubbee guddaa fi fannistuu itti walitti dhufan").
+entry(derelict, n, [derelicts], "waan dhiifame").
+entry(ittisu, v, [ittise,ittisuu,ittisa], "qoosa").
+entry(derider, n, [deriders], "isa tuffatu").
+entry(deringer, n, [deringers], "boombareeddota gabaabaa").
+entry(hamatinsa, n, [hamatinsota], "gocha gadi xiqqeessuu").
+entry(derisive, adj, [], "garaachisaa mul'isu").
+entry(derisory, adj, [], "walqixxeessa").
+entry(kanbaleessa, n, [kanbaleessota], "kan uumameti kan ba'e").
+entry(bu’uu, v, [bu’ame,bu’aa,bu’uu], "akka ummata, surfii irraa argachuu").
+entry(deriver, n, [derivers], "kan irraa maddisiisu").
+entry(derm, n, [derms], "dhiibbaa foonii").
+entry(derma, n, [dermas], "slaagaa miilaatti kuunnuma saaxilataDERMAL adj").
+entry(dermis, n, [dermises], "dermaDERMIC adj").
+entry(dermoid, n, [dermoids], "tumaara gogaa dha'uu").
+entry(dernier, adj, [], "dhuma").
+entry(taayxachisu, v, [taayxachise,taayxachisaa,taayxachisa], "to detract").
+entry(derrick, n, [derricks], "waan ol kaasaa").
+entry(duuba, n, [duubota], "qafeela giirii").
+entry(derrisa, n, [derrisota], "biqiltuu kakkafamu").
+entry(derry, n, [derries], "jecha kan qoricha hin qabne kan faaruu durii keessatti ni tajaajila").
+entry(dervish, n, [dervishes], "miseensa kutaa amantaa Islaamaa.").
+entry(desalt, v, [desalted, desalting, desalts], "akka soogidda irraa fuudhuf").
+entry(desalter, n, [desalters], "kan soogidda balleessu tokko").
+entry(desand, v, [desanded,desanding,desands], "suufaa balleessuuf").
+entry(descale, v, [descaled,descaling,descales], "baala kaasuuf").
+entry(descant, v, [descanted,descanting,descants], "walaloowwan walseensa sirbu").
+entry(qabachuu, v, [qabachuun, qabachaa, qabata], "nichee ykn gad yaa'u").
+entry(descent, n, [descents], "hojii gadi bu'uu").
+entry(dhaggeeffachuu, v, [dhaggeeffate,dhaggeeffachuu,dhaggeeffata], "ibsa afaaniin kennuu").
+entry(descrier, n, [descriers], "nama mul'ata").
+entry(descry, v, [descried, descrying, descries], "hubachuu").
+entry(deseed, v, [deseeded,deseeding,deseeds], "guduraalee baasuu").
+entry(deseeder, n, [deseeders], "kan ujummoo keessaa baasu").
+entry(deselect, v, [deselected,deselecting,deselects], "akka dalagaa leenjii irraa ari'amu").
+entry(gogaan, v, [gogue,googa,gegogee], "gadhiisuu").
+entry(deserter, n, [deserters], "namni achi dhiisee deemu").
+entry(desertic, adj, [], "caala haphachuun fi muka hin qabne").
+entry(deserve, v, [deserved,deserving,deserves], "mirga qabaachuu yookiin malu ta'uu").
+entry(deserver, n, [deservers], "kan itti qalma qabu").
+entry(desex, v, [yabbame, yabbamaa, yabbamu], "qubee ykn dhirobeessuu").
+galmee(deshi, n, [deshis], "desi").
+entry(desi, n, [desis], "namni dhalootaan Hindii, Paakistaanii yookaan Bangiladeshii ta'e fi biyya alaa keessa jiraatu").
+entry(design, v, [designed,designing,designs], "yaadachuufi karoorfachuuf").
+gala(filamee, n, [filamtoota], "kan filatame").
+entry(designer, n, [designers], "kan hojjettu").
+entry(desilver, v, [desilvered,desilvering,desilvers], "baala naasii siqaa'u irraa haqamuu").
+entry(desinent, adj, [], "xumura").
+entry(hawwi, v, [hawwite,hawwiite,hawwa], "beekuu barbaaduu").
+entry(qaataxu, n, [qaataxuu], "namni barbaadu tokko").
+entry(desirous, adj, [], "barbaadu").
+entry(desist, v, [desisted,desisting,desists], "dhaabuu hojii tokko hojjechuu").
+entry(tebriiki, n, [tebriikootaa], "teebila barreessuu").
+entry(deskill, v, [deskilled,deskilling,deskills], "hir’isuufi").
+entry(deskman, n, [deskmen], "namni irra taa'ee hojjetu").
+entry(desktop, n, [desktops], "sarara idoo qubannoo miicanii").
+entry(desman, n, [desmans], "beeylado bishaan keessa jiraattu").
+entry(desmid, n, [desmids], "algee bishaan qulla").
+galmee(desmoid, n, [desmoids], "ujummoo baay'ee cufa").
+entry(desolate, v, [desolated,desolating,desolates], "bakkaa balleessuu").
+entry(desorb, v, [desorbed,desorbing,desorbs], "akka irra deebi'ee xuuxamee irraa baasuuf").
+entry(desorber, n, [desorbers], "kan keessaa baasuu").
+entry(desoxy, adj, [], "deoxy").
+entry(yaadda'uu, v, [yaadda'uu,yaadda'uu irraa,yaadda'u], "abdii dhabuuf").
+entry(despatch, v, [despatched,despatching,despatches], "ergisi").
+entry(diidannaa, n, [diidannoowwan], "jibba cimaa").
+entry(despise, v, [despised,despising,despises], "jibbuu").
+entry(despiser, n, [despisers], "namni hin jaallanne").
+entry(dursa, v, [dursaa,dursanii,dursani], "akka faca'insa jarjaruu sana").
+entry(despoil, v, [despoiled,despoiling,despoils], "saamu").
+entry(gadda, v, [gaddate,gaddataa,gaddadha], "nafii ykn abdi dhabuu").
+entry(despot, n, [despots], "nama dhaalmaa irraan miidha geessuDESPOTIC adj").
+entry(hoolaa, n, [hoolotaa], "waan nyaata cidhaa booddee dhiyaatu tokko").
+entry(destain, v, [destained,destaining,destains], "fincaan keessaa alatti xiqqessaa").
+galmee(kasa, v, [kasamte,kasaama,kasaamtu], "dursee murteessuu").
+entry(destiny, n, [bakka], "addeemsa yookiin qormaata ittiin dhufan").
+entry(destream, v, [destreamed,destreaming,destreams], "akka barattoota gargar baasuu mormuu").
+entry(destress, v, [destressed,destressing,destresses], "baayyee sodaachisu irraa buʼe").
+entry(destrier, n, [destriers], "farda waraana").
+gelma(balleessi, v, [balleessaa,balleessuu,balleessa], "miidhu hanga sirrii’uu hin dandeenyeetti").
+entry(destruct, v, [akka balleessamu, balleessaa, balleessu], "balleessuuf").
+entry(desugar, v, [desugared,desugaring,desugars], "zayita keessaa shukkaara baasuu").
+entry(desulfur, v, [desulfured, desulfuring, desulfurs], "akka soofar irraa bilisa ta'u").
+entry(detach, v, [fujii,fujifamaa,fujiti], "baasuuf adda baasuu").
+entry(detacher, n, [detacheroota], "inni addaan kuta'u").
+seensa(faayil, v, [faayilaa,faayileessi,faayilota], "ibsa dabalataa fi xumuraa kennuuf").
+entry(detailer, n, [detailers], "isaan kan ifattii godhan").
+entry(qabu, v, [qabame,qabachaa,qaba], "hidhu keessatti eega").
+entry(detainee, n, [maxaannee], "tokko kan hidhamuu").
+entry(detainer, n, [jechaan], "harkifannaa seeraan alaa qabeenya namoota biroo").
+entry(detangle, v, [detangled,detangling,detangles], "maxxantuu keessaa baasuu").
+entry(detangler, n, [], "pl DETANGLERSkan buqqistuu").
+entry(detassel, v, [detasseled,detasseling,detassels], "yookan DIRAAMAAKAMOO DIRAAMSIISUF DIRAAMSIIME irraa faaya baasuu").
+entry(detect, v, [detected,detecting,detects], "argannoo gochuu yookaan tilmaamuuf").
+entry(detecter, n, [detecters], "meessaa").
+gala(deetektorii, n, [deetektoroota], "kan argisiisu tokko").
+entry(detent, n, [dantaa], "itti-gaafatamummaa ykn ittisa cufata/jalqabata baafata/lallabataa tokko").
+entry(detente, n, [detentes], "irra-caalaa yeroowwan biyyoota addunyaa gidduu tasgabbii uumuuf yaali").
+entry(deter, v, [deterred,deterring,deters], "akka hin itti fufne dhorkuu").
+entry(deterge, v, [deterged,deterging,deterges], "dadeecha").
+entry(deterger, n, [detergers], "kan qulqulleessu tokko").
+entry(deterrer, n, [deterrers], "takkaa dhoowwu").
+entry(deterring, present, [], "participle of deter").
+entry(detest, v, [detested,detesting,detests], "jibbu hamaanaan").
+entry(detester, n, [detesters], "kan jibbu").
+entry(dethatch, v, [dethatched,dethatching,dethatches], "thatch irraa baasuu").
+entry(aangoo_hinkennine, v, [aangoo_hinkennine, aangoo_hinkennuu, aangoo_hinkennina], "aangoo irraa kaasuu").
+entry(detick, v, [deticked,deticking,deticks], "haamaa irraa buquu").
+entry(deticker, n, [detickers], "kan xuxxee baasuu").
+entry(detinue, n, [detinues], "hojii qabeenyaan dogoggoraan eegaatti deebiseetti fudhachuuf").
+entry(detonate, v, [dubbifame,dubbifachaa,dubbifatu], "dhoosuu sababa taʼuuf").
+entry(detour, v, [jalqabde, jalqabaa, jalqaba], "karaa galtuu fudhachuu").
+entry(detox, v, [detoxed,detoxing,detoxes], "qulqulleessuu").
+entry('wal-homachu', v, ['wal-homachuun','wal-homachaa','wal-homachuun'], "summaa dhabamsiisuuf").
+entry(detract, v, [detracted,detracting,detracts], "fuudhu").
+entry(detrain, v, [detrained,detraining,detrains], "kaampii irraa bu’uuf").
+entry(detritus, n, [detritus], "walxaxoota dhagaan walitti cuuphamaa ta`anDETRITAL adj").
+entry(detrude, v, [detruded,detruding,detrudes], "dhaangessuuf").
+entry(detune, v, [detuned,detuning,detunes], "tokiisa meeshaa sirreessuudha, akka hin taanerkenyaas hojjechu.").
+entry(deuce, v, [deuced,deucing,deuces], "itti baasuu taphni tennis akkasumas walqixxeessuu").
+entry(deucedly, adv, [], "baayʼee").
+entry(deuteric, adj, [], "kan haala haayidiroojinii ulfaataa waliin walqabatu").
+entry(deuteron, n, [deuterons], "boqonnaa atoomii").
+entry(deutzia, n, [deutzias], "jallisiifi ililli addaa").
+entry(dev, n, [devs], "deva").
+entry(deva, n, [devas], "Waaqaa Hinduu").
+entry(devalue, v, [devalued,devaluing,devalues], "gatii xiqqeessuuf").
+entry(devein, v, [deveined,deveining,deveins], "hidda dugda irraa baasuu").
+entry(devel, v, [develed,develing,devels], "dhukkubee").
+entry(gabbisu, v, [gabbise,gabbisaa,gabbisu], "guyyaa duraa yk mul'ataa caalaatti ga'aa ykn bu'a qabeessa ta'ee dhiheessuu").
+entry(develope, v, [developee, devaloophaa, devalopess], "devalopuu").
+entry(deverbal, n, [deverbals], "jecha gocha irraa maddite").
+entry(devest, v, [devested,devesting,devests], "gammadhu irraa baasuu").
+entry(devi, n, [devis], "waaqeffattuu Hindu").
+entry(deviance, n, [deviances], "haala shukkaaraa").
+entry(deegammi, n, [deegamoota], "deegamummaan").
+entry(deviant, n, [deviants], "hanga maddaatti kan hin deebi'amne").
+entry(deviate, v, [deviated, deviating, deviates], "gara imalaa yookaan caasluga irraa garagaluu").
+entry(deviator, n, [deviators], "kan jallise").
+galmee(waarana, n, [waaranoonni], "waan yaadamee yookiin ijaarramee karoorfameef").
+entry(sheexaana, v, [sheexaanoomte,sheexaanoomaa,sheexaana], "yookiin SHEEXAANOOMTE SHEEXAANOOMAA SHEEXAANA nyaata ifattaan qopheessuu").
+entry(devilish, adj, [], "salfata").
+entry(devilkin, n, [devilkins], "jinni xiqqoo").
+entry(sheddad, n, [sheddad], "sheddad").
+entry(sheyaada, n, [shebbookaa], "balaa").
+entry(devious, adj, [], "indirrektii").
+entry(yaadannoo, n, [yaadannoo], "hojii yaaduu").
+entry(devise, v, [devised,devising,devises], "yaadni keessaatti uumuu").
+entry(devisee, n, [devisees], "namni wilicha ittiin hojjatuuf qophaa'e").
+entry(deviser, n, [devisers], "kan qopheessu").
+entry(devisor, n, [siyaasaa], "kan du'aa dhaalfii barreessa").
+entry(devoice, v, [devoiced,devoicing,devoices], "isaa sagalee kan hinsaane fayyadamuu").
+entry(devoid, adj, [], "guutummaan dhabeessa").
+entry(devoir, n, [devoirs], "hojii kabajaa yookiin ulfina").
+entry(garagalchi, v, [garagalame, garagalachaa, garagalcha], "walirraa hin waldabarsuu").
+galii(deevon, n, [deevons], "gaaleewwan gosa xiqqoo jabaatan keessaa tokko").
+entry(know, v, [beekame, beekamaa, beeku], "of wholeheartedly devoting oneself to").
+entry(qulqulluu, n, [qulqullootaa], "kan arjanta ta'e hordofaa ykn deeggartuu").
+entry(devotion, n, [devotions], "gocha of kennuu").
+entry(devour, v, [devoured,devouring,devours], "nyaachuu").
+entry(devourer, n, [devourers], "kan nyaatu").
+entry(devout, adj, [], "DEVOUTER DEVOUTESTpiousDEVOUTLY adv").
+entry(dew, v, [dewed,dewing,dews], "ilaalcha qabbanaa'aa jiidhaan jiidhu").
+entry(dewan, n, [deewanii], "hoogganaa Indiyaa keessaa").
+entry(dewar, n, [dewars], "qabeenyaa-kuufame waloon bocame").
+entry(dewater, v, [dewatered, dewatering, dewaters], "bishaan irraa fuudhu").
+entry(dewax, v, [dewaxed,dewaxing,dewaxes], "qunxura irraa baasuuf").
+entry(dewberry, n, [dewberries], "midhaan fayyadamuu danda'u").
+galii(dewclaw, n, [dewclaws], "qubni qufaa aadaamaa").
+entry(dhimma, n, [dhimmoottan], "dhimmamtu").
+entry(dewfall, n, [dewfalls], "uumaansaa bosee").
+entry(dewier, comparative, [], "kan urjii").
+entry(bishaanuma, superlative, [], "kan bishaana").
+entry(dewily, adv, [], "akka ho'a jalaatti").
+entry(dewiness, n, [dewinesses], "haala naqarsa bishaan xiqqoo qabuu").
+entry(dewlap, n, [dewlaps], "ciirii ka'aa gadameessa dhaan").
+entry(dewless, adj, [], "hin jallisu").
+entry(dewool, v, [dewooled, dewooling, dewools], "efuudhu bifa furdina irraa").
+entry(deworm, v, [dewormed, deworming, deworms], "xuuxoo dhabamsiisuu").
+entry(dewormer, n, [talaallii_godhan], "kan cirrachaa diiga").
+entry(dewy, adj, [], "DEWIER DEWIESTcaayaa bishaan boorii irraa").
+galmee(dex, n, [dexes], "salfetii akka damdamachuu sirna keessaatti itti fayyadamamu").
+entry(dexie, n, [dexies], "tablet of dex tokko").
+entry(dexies, pl, [], "kan dexy").
+galmee(dexter, n, [dexters], "beejji sanyii looni Irish tii").
+entry(dextral, n, [dextrals], "nama mirga harkaa fayyadamu").
+galmee(dextran, n, [dextrans], "akka bakkaa plazmaa dhiigaa kan eriamiisaatti ykn bu\'uura dhiigatti kan fayyadaman").
+seensa(dextrin, n, [dextrins], "walitti-fudhataan meeshaa fayyadamuudhaaf kan oolu").
+entry(dextrine, n, [dextrines], "deekistriin").
+entry(dextro, adj, [], "gara mirgaatti garagaluu").
+entry(dextrose, n, [dextroses], "guluukoosii firoomi tokkoo").
+entry(dextrous, adj, [], "faaya").
+entry(dexy, n, [dexies], "dexie").
+entry(dey, n, [deys], "hogganaa durii Afrikaa Kaabaa turan").
+galmee(dezinc, v, [dezincked, dezincking, dezincs], "yookaan DEZINCED DEZINCING DEZINCSzinc irraa buqqisuu").
+entry(dhak, n, [dhaks], "mukaa Eeshiyaa keessaa tokko").
+entry(dhal, n, [dhals], "dal").
+entry(dhansak, n, [dhansaks], "cuunfaa kan foonii fi muduraa").
+entry(dharma, n, [dharmas], "waliinii seera HinduuDHARMIC adj").
+entry(dharna, n, [dharnas], "prootestii addaa Hindii keessatti raawwatamu").
+entry(dhikr, n, [dhikrs], "midhah jechaafi dhiibbaa suufiin geggeeffamu").
+entry(dhobi, n, [dhobis], "nama uffata dhaqee Bishaan Hinde jedhamuu").
+entry(dholak, n, [dholaks], "dorsii mataa lama qaqqabu").
+entry(dhole, n, [dholewwan], "saree garbaa Indiyaa").
+entry(dhooly, n, [dhoolies], "doolee").
+entry(dhoora, n, [dhooras], "durra").
+entry(dhooti, n, [dhootis], "dhooti").
+entry(dhootie, n, [dhooties], "dhootii").
+entry(dhoti, n, [dhotis], "uffata qaajaanii nama Hinduuniin uffatamu").
+entry(dhourra, n, [dhourras], "durra").
+entry(dhow, n, [dhows], "markaana imala Baabiloniyaa fi Eerobiyaan").
+entry(dhurna, n, [dhurnas], "dharna").
+entry(dhurra, n, [dhurras], "durra").
+entry(dhurrie, n, [dhurries], "caarta bicha Kamala keessatti gargaaramuu").
+entry(dhuti, n, [dhutis], "dhooti").
+entry(dhyaana, n, [dhyaanas], "muraasni ko'ooma sirna Hinduusii keessatti").
+entry(diabase, n, [diabases], "dhagaa gaara igneous ta'e DIATIBAASI kan gulaale").
+entry(dhiibayinsa, n, [dhiibayinsa], "gayyoo waa'ee nyaataa hanqisuu").
+entry(diabetic, n, [diabetics], "nama dhukkuba sukkaaraa qabu").
+entry(diablery, n, [diableries], "siyaasa").
+entry(diabolic, adj, [], "sheidaanotaa").
+entry(diabolo, n, [diabolos], "taphni kan akkaata biyya lafaa fi harkaa qabu").
+entry(diacetyl, n, [diacetyls], "biyacetyl").
+entry(diacid, n, [diacids], "akaataa acidi tokko kan ta'eDIACIDIC adj").
+entry(diaconal, adj, [], "kan abbaa qubsiisaaf walqabate").
+entry(diadem, v, [diademed,diademing,diadems], "mata ejjuu itti keewwachuudhaaf").
+entry(buusa, v, [buuse,buu’aa,buu’atte], "akka mallattoolee fi mallattooleen dhukkuba tokko beekamuuf").
+galmee(diagonal, n, [mokkeewwan], "sarara naanneessa").
+entry(diagram, v, [diagramed,diagraming,diagrams], "yookiin DIAGRAMMED DIAGRAMMING DIAGRAMS kaa'uuf malaan hojjechuu graphic piroojektii").
+entry(diagraph, n, [diagraphs], "meeshaan fakkii").
+entry(dial, v, [dhiyaate, dhiyaacha, dhiyaatu], "ykn DHIYYEESSE DHIYYEESUU DHIYYEESSAawaa dhangala'e qindeessuuf").
+entry(dialektii, n, [dialektoota], "jecha gosaa afaan tokkooti fi naannoo tokkoofi").
+entry(dialer, n, [dialers], "isa bilbila").
+entry(dialing, n, [dialings], "daawwannaan yeroo kan qorataan").
+entry(dialist, n, [dialists], "kan bilbilaa").
+entry(diallage, n, [diallages], "meesha maayineralii").
+galmee(daayalame, a, [], "guyyaa kan daayalii darbe").
+entry(diallel, adj, [], "kan ceenna sanyii irratti").
+galmee(dialler, n, [diallers], "dialer").
+sagantaa(waamicha, n, [waamichoota], "waamachuu").
+galmee(diallist, n, [diallists], "dialist").
+entry(dialog, v, [dubbate,dubbachaa,dubbachuun], "dubbachuu").
+entry(dialoger, n, [dialogers], "kan haasa'u tokko").
+entry(dialogic, adj, [], "kan haasawaa").
+entry(hawaasa, v, [haasaa’aa,haasa’uun,haasaawwan], "duudhaawwan haasaa itti fufe").
+entry(diyaalisee, v, [diyaalisame, diyaalisaa, diyaalisaa], "diyaaliizii").
+galmee(dialyser, n, [dialysers], "dialyzer").
+entry(labmidhaan, n, [labmidhaans], "addaan baasuu lubbu-qabata keessa jiruu fi irra gariin iddo to'achuudhaan").
+entry(diyalisiiti, maq, [], "kan diyalisii irraa kan hafe").
+entry(dialyze, v, [dialyzed,dialyzing,dialyzes], "albuuda jalaa baasuu irratti dalaguu").
+daawatee(dialyzer, n, [daawateewwanii], "alaada saffisaa yeroo garaagaraatiif gargaaramuuf bu’uura kan darban").
+entry(diyaamantee, n, [diyaamanteewwan], "faayiti qabana".).
+entry(diameter, n, [diameters], "xiyyaa sirrii gara giddugala boola guutuu darbuu fi gara haala dadhabaa xumuramu").
+entry(diamide, n, [diamides], "walqaama keemikaalaa").
+entry(diamin, n, [diamins], "diamine").
+entry(diрамине, n, [diаминeota], "wanta chíma").
+entry(dabalaa, v, [dabale, dabalaa, daballoo], "qabeenyaa yookiin gatii dabaluuf cooma yookiin dhagaa guddaa itti maxxansuudhaan miidhagsu").
+entry(dianthus, n, [dianthuses], "ceekaan sibiillo").
+entry(diapason, n, [diapasons], "sagalee waaqa qabeessa guddaa fi walti fufe").
+entry(diapause, v, [diapaused,diapausing,diapauses], "ciicoof qophaayuu").
+entry(diaper, v, [diapered,diapering,diapers], "sarbeechi tokko ilmoo irra kaa'uu").
+entry(diaphone, n, [diaphones], "boombii harganii sagalee gad aanaa qabu").
+entry(diaphony, n, [diaphonies], "organum").
+entry(diyaapiri, n, [diyaapirroota], "hammamtii gabatee dhagaan keessaaDIAPIRIC adj").
+entry(diapsid, n, [diapsids], "reptilawwan qaama mataatti bifa bifa lamaan banaman qabuu").
+entry(diarchy, n, [diarchies], "mootummaa abbaa-lamaa qabuDIARCHIC adjDIARCHAL adj").
+entry(barreeffata, pl, [], "kan barreeffata").
+entry(diarist, n, [diarists], "kan galmee galchaa ta'e").
+entry(chaalaa, n, [chaalaawwan], "mala dhabaa ykn dhukkuba hanqina nyaataa".).
+entry(diary, n, [diaries], "warsiisa dhuunfaa").
+entry(diaspora, n, [diasporaawwan], "miigraashiinii").
+entry(diaspore, n, [diaspores], "mineraala").
+entry(diastase, n, [diastases], "ennzaayimi").
+entry(diastem, n, [diastems], "tasaqii walitti-fufiinsi awwaalaa ciramu").
+entry(diastema, n, [diastemas], "yookin DIASTEMATA iddoo qilleensa garaacha gidduu").
+entry(diaster, n, [diasters], "garaagarummaa DNA irratti kan xiyyeeffatu yommuu mayyoosis ta’u").
+entry(diastole, n, [diastoles], "boba'insa sirna qalbii yeroo boqonnaa.").
+entry(diatom, n, [diatoms], "keenyaadha sanyii algee keessaa ta'e").
+entry(diatomic, adj, [], "kan atimii lama irraa ijaaramte").
+entry(diyaatoonikii, adj, [], "kan gosa meeshalee muuziiqaa ilaalatu").
+entry(diatreme, n, [diatremes], "hogeessa gaanfa bishaan qabeessa uumama addaan baasu fi olchuu kan uumame");
+entry(diatribe, n, [diatribes], "yaada qeeqa cimu fi arrabsaa ta'e").
+entry(diatron, n, [diatrons], "faayidaa diodota itti fayyadamuun qindaa'ina sirna hojjataa").
+entry(diazepam, n, [diazepams], "dhibamaa").
+entry(diazin, n, [diazins], "diazine").
+entry(diazine, n, [diazines], "wal-qixxaato kimikaala").
+entry(diazinon, n, [diazinons], "madaa waraanaa").
+entry(diazo, n, [diazos], "gosa makiinaa midhaanii yookiin qubeewwan keessa osoo hin jijjiiramne ol kaasuudhaan bocuu").
+galmee(diazole, n, [diazoles], "wal-harkaa tokko").
+entry(dib, v, [dibbed,dibbing,dibs], "efeellaa bishaan irratti qilleeffuun qurxummii qabuu").
+entry(dibasic, adj, [], "haaydroojinii bakka buusuu danda'u lama qabu").
+entry(dibber, n, [dibbers], "miidhama biqiltuu dha").
+entry(dibble, v, [dibbled,dibbling,dibbles], "dhuquu").
+entry(dibbler, n, [dibblers], "kan dibbles").
+entry(dibbuk, n, [dibbuks], "ykn DIBBUKIMdybbuk").
+entry(dicamba, n, [dicambas], "akka qamadii mancaasuufatti").
+entry(dicast, n, [dicasts], "abbaa seeraa Atheensii duriiDICASTIC adj").
+gelma(dice, v, [diced,dicing,dices], "itti muruu gareedhaan xixiqqoo ta'an").
+entry(dicentra, n, [dicentras], "dhangala’aa yeroo dheera jiraatu").
+entry(dicer, n, [dicers], "meeshaan nyaata cireessuuf oolu").
+entry(dicey, adj, [], "DICIER DICIESTsoda qoree").
+entry(dichasia, npl, [], "guddinna balballoo").
+entry(dichotic, aj, [], "akka gurra lama gara garaatti dhiibbaa uumu").
+entry(dichroic, adj, [], "akka arfan")
+entry(dicier, comparative, [], "of dicey").
+entry(diciest, superlative, [], "kan dicey").
+entry(dicing, present, [], "participle of dice").
+entry(dick, n, [dicks], "dedektiivii").
+entry(dickens, n, [dickenses], "seexana").
+entry(dicker, v, [wal-dhabde, wal-dhabdu, wal-dhabdan], "wal-dhabuu").
+entry(dickerer, n, [dickerers], "namni waliigaltee raawwatu").
+entry(dickey, n, [dickeys], "dhiiga fuullee").
+entry(dickie, n, [dickies], "dickey").
+entry(dicky, adj, [], "DICKIER DICKIESTharka qolofaa keessa jiru").
+entry(dicky, n, [dickies], "dickey").
+entry(dicliny, n, [diclinies], "haala midhaan fi beenni itti walirra hin jirre").
+entry(dicot, n, [dicots], "biqiltuu damee lama qabu").
+entry(dikotiylii, n, [dikotiyliwwan], "dikot").
+entry(dicrotal, adj, [], "dicrotic").
+entry(dikirootik, mak, [], "qabbannaa garaachaa lamaan qabaachu").
+entry(dicta, a, [], "pl of dictum").
+entry(dubbisuu, v, [dubbise,dubbisaa,dubbiisa], "wa'ee barreessuuf akka dubbisuuf dubbisuu").
+gala(dictator, n, [dictators], "kan ajaje tokko").
+entry(diction, n, [dictions], "filannoo fi fayyadama jechoota haasaa yookiin barreessuu keessaatti").
+entry(dictum, n, [dicta], "ibsa aangoo qabaata").
+entry(dicty, adj, [], "DICTIER DICTIESTsnobbish").
+entry(dicyclic, adj, [], "kan waggaa lamatti ol ka’umsa lakkoofsa uummataa lama qabu").
+entry(dicycly, n, [dicyclies], "haaladuree dicyclic ta'uudha").
+entry(did, a, [], "darbiji hangafo fi heddumminsa hojii mallisa do").
+entry(didact, n, [didacts], "nama barsiisa").
+entry(didactic, adj, [], "barsiisuu").
+entry(didactyl, adj, [], "akka hantuutayyuu miila lamaan qaban").
+entry(didapper, n, [didappers], "kan didapchik").
+entry(diddle, v, [diddled,diddling,diddles], "fooftachuu").
+entry(diddler, n, [diddlers], "kan dabalu").
+entry(diddley, n, [diddleys], "diddly").
+entry(diddly, n, [diddlies], "xiqqaa").
+entry(diddums, interj, [], "kan dhimmuuf dhala irra naasuutti gargaaruuf fayyadamu").
+entry(didie, n, [didies], "didy").
+entry(didies, pl, [], "kan didy").
+entry(dido, n, [didos], "ykn DIDOES hojii hammeenyaa").
+entry(didst, a, [], "yeroo darbee kan gochuudha").
+entry(didy, n, [didies], "kofiyye").
+entry(didymium, n, [didymiums], "walitti fufiinsa al-amaanoo baay'ee jireenyi dheeraa").
+entry(didymous, adj, [], "kan lama taʼani yeroo tokkootti mulʼachu").
+entry(didynamy, n, [didynamies], "haala qabanachu fi arfan trabalerun dhiraan dhaabbataan saffisa hin taane lama").
+entry(die, v, [died, dieing, dies], "akka masoon ittiin gorra'amuu danda'u gochuun muruu").
+entry(die, v, [du'e,dhumaan,du'a], "du'uu").
+entry(dieback, n, [diebacks], "dhiiguu madaqaa").
+entry(diecious, adj, [], "dioikawwan").
+galmee(dhuma, darbee, [], "yeroo du'uu").
+entry(diehard, n, [diehards], "nama mata jabaa").
+entry(diel, sirna, [], "akka guyyattis hirmaatu").
+entry(dieldrin, n, [dieldrins], "walitti bu'iinsa qamalee").
+entry(diemaker, n, [diemakers], "kan qalbii dhaaba").
+entry(diene, n, [dienes], "walitti qaqaa miidhagfamaa").
+entry(dieoff, n, [dieoffs], "dhukunnaa daftee dargaggoo uummataa").
+galmaa'ii(garaaraa, n, [garaaraawwan], "addaan furreeffamuun lakkii lamatti gara lakkii lamatti baddaGARAAREETII adj").
+galmee(diesel, v, [dieseled,dieseling,diesels], "haala ibsamuun cufamuun booddee itti fufuuf").
+entry(diesis, n, [dieses], "mallattoo qubee maxxansaa keessatti ittiin qabataman").
+entry(diester, n, [diesters], "gosa walxaxa keemistirii").
+entry(diestock, n, [diestocks], "harki qashinsaa").
+entry(diestrum, n, [diestrums], "diestrus").
+entry(diestrus, n, [diestruses], "yeroo wallaalummaa saal-qunnamtii").
+entry(diet, v, [dieted,dieting,diets], "susteenensaa guyyaa guyyuutti to'achuu").
+entry(dietary, n, [dietaries], "sistemii nyaataa").
+entry(dieter, n, [dieters], "kan soorata xiqqeessu tokko").
+entry(diyetetikii, mak, [], "wa'ee nyaataa").
+entry(diether, n, [diethers], "walitti makameewwan keemikaalaa").
+entry(dif, n, [difs], "diff").
+entry(fiigoo, n, [fiigoota], "garaagarummaa").
+galii(fakkaatun, v, [fakkaatee,fakkaachaa,fakkaata], "hin fakkaanne ta'uu").
+entry(diffract, v, [diffracted,diffracting,diffracts], "gara gosa adda addaatti qoqqoodu").
+seensa(finxiruu, v, [finxirame, finxiramaa, finxiru], "balinaan ykn laafaan facaasuu").
+entry(diffuser, n, [diffusers], "inni facaase").
+entry(diffusor, n, [diffusors], "diffuser").
+entry(godoo, v, [gode,godaa,godoota], "lafaa ni buruquu ni geeddaru yookaan ni buqqisu").
+entry(digamies, pl, [], "kutaa digamy").
+entry(digamist, n, [digamists], "namicha kana bishaan guutuu abjuu waliin isatti").
+entry(digamma, n, [digammas], "qubee Giriikii").
+entry(digamy, n, [digamies], "cidha lammaffaa seeraan qabeessaaDIGAMOUS adj").
+entry(digerati, npl, [], "namoota ogummaa fayyadama kompitera qaban").
+entry(guddisuu, v, [guddifame, guddifachaa, guddisa], "nyaata qaamaaf fayyadamu godhuu").
+galmee(digester, n, [digesters], "meeshaa wantoonni itti laafaniifi ykn darbu").
+galii(gabbistaa, n, [gabbistoota], "dhugaatii alkooli kan nyaata booda fudhatamu").
+entry(digestor, n, [digestors], "digestor").
+entry(digged, a, [], "guyyaa darbee kan qote").
+entry(digger, n, [diggers], "kan qotu tokko").
+entry(qodaa, ammee, [], "qooda qoduu").
+entry(diggings, npl, [], "bakka qotiyyoo").
+entry(dight, v, [dighted,dighting,dights], "miidhachu").
+entry(kaameeraa digitaalaa, n, [kaameeraawwan digitaalaa], "kaameeraa dijitaalaa").
+galmee(lakkoofsa, n, [lakkoofsoota], "quba yookiin quba miila").
+entry(dijitaal, n, [dijitaals], "foocaa piyaanoo").
+entry(digitate, adj, [], "kan quba qabaatu").
+galmee(digitoofi, v, [digitoofame,digitoofaa,jijjiira], "digitoofachuudha").
+entry(makoyoomsu, v, [makoyoomse,makooyomsaa,jijjiira], "deetaa akka laakkuma dijitaalaatti galchuu").
+entry(diglot, n, [diglots], "kitabni ykn maxxansi afaan lama qabu").
+entry(dignify, v, [dignified,dignifying,dignifies], "kabaja itti dabaluu").
+entry(dignity, n, [dignities], "gammachuu fi kabaja mul'achuu").
+galii(digoxin, n, [digoxins], "wixinee qursa onnee fooyyeessuuf").
+galmee(digrafii, n, [digrafoota], "jechoota lamaan sagalee tokkicha bakka bu'an").
+entry(digress, v, [jallatte,jallatuu,jallatu], "gara mata duree guddaa irraa maquu").
+entry(dihedral, n, [dihedrals], "dihedrooni").
+entry(dihedron, n, [dihedrons], "suuraaksa faffacaan lamaan walquunnaman muudama").
+entry(dihybrid, n, [dihybrids], "ilma akaakuu lama adda ta'an Waaqaalee qullee irraati").
+entry(dihydric, ajj, [], "kan haala lakkoofsa lama qabu hydroxyl").
+entry(dikdik, n, [dikdiks], "harree qufaa xiqqaa").
+entry(dike, v, [diked,diking,dikes], "gadi olchuu fi hojachuuf dafee booda").
+entry(diker, n, [dikers], "kan dike godhu tokko").
+entry(diktat, n, [diktats], "waliitti qabaa ukkaamame biyya mo'ate irratti").
+galfata(dilatant, n, [dilatants], "dilatora").
+entry(dilatate, adj, [], "dilated").
+sagalee(dilate, v, [dilated,dilating,dilates], "bal'ifachu ykn guddisuu").
+entry(dilater, n, [dilaters], "dileetarii").
+entry(dilation, n, [bal'ina], "raawwii bal'inaa").
+entry(dilative, adj, [], "dilachuu barbaadu").
+entry(dilator, n, [dilators], "kan dheereessu tokko").
+entry(dilatory, seena, [], "tending to delay").
+entry(dildo, n, [dildos], "walaka dhaabbata qaama saalaa dhiiraa fakkeessu").
+entry(dildoo, n, [dildootaa], "dildoo").
+entry(shakkisaa, n, [shakkiiwwan], "haalota wallaalooSHAKKISAADHA adj").
+entry(diligent, adj, [], "kan cimsuu").
+galmee(habaaboo, n, [habaaboowwan], "baala yeroo waggaa").
+entry(dilled, adj, [], "kan anjaa qaba").
+galmee(dilwiidii, n, [dilwiidiilee], "baalee biqiltuu dilii").
+entry(dilly, n, [dillies], "wantoota dinqisiiso ta'an").
+entry(diluent, n, [diluents], "akka carraqseetti qaqqabamu waanta").
+entry(tasaasii, v, [tasaase,tasaasuu,tasaasa], "xiyyoon ykn tartiibaan hir'isuuf").
+entry(diluter, n, [diluters], "kan lubbuu naqatu").
+entry(dilution, n, [dilutions], "hojii dadhabsiisuu").
+entry(dilutive, adj, [], "kan dadhabaa")
+entry(dilutor, n, [dilutors], "diluter").
+entry(diluvia, a, [], "pl of diluvium").
+entry(duumessa, adj, [], "kan lolaa").
+entry(diluvian, adj, [], "kan bishaan guddichaa").
+entry(diluvion, n, [diluvions], "diluvium").
+entry(diluvium, n, [diluviums], "ykn DILUVIA dhagaa gogongoraa kan gulgulaan daggalaa bu'e fi hafe").
+entry(dim, adj, [], "DIMMER DIMMESTobscureDIMMISH adj").
+entry(dim, v, [diimame, diimamaa, diima], "dahuu ol kaasuuf").
+entry(dime, n, [dimes], "onje chalaan Ameerikaa").
+entry(dimer, n, [dimers], "moleekuloota lama kan wal fakkaatan irraa tokkoffaa moleekulii").
+entry(dimeric, adj, [], "dimerous").
+entry(dimerism, n, [dimerisms], "haala of dimerous ta'uu").
+entry(dimerize, v, [dimerized,dimerizing,dimerizes], "dimer uumuuf").
+entry(dimerous, adj, [], "kan kutaa lama irraa ijaarame").
+entry(dimeter, n, [dimeters], "walaloo of lama migbaree taphachuu").
+entry(dimeteyil, n, [dimeteyiloota], "eteen").
+entry(dimetric, adj, [], "waa'ee sirna kristal tokko").
+entry(diminish, v, [xiqqaate,xiqooffachaa,xiqooffata], "xiqqeessu").
+entry(dimity, n, [dimities], "duraadhaa cabbii").
+entry(daklinaaba, adv, [], "akka dukkanaa'etti").
+entry(dimmable, adj, [], "dhiphuu danda'u").
+entry(dallacha'e, darbe, [], "hubannoo dallachuudha").
+entry(dimmer, n, [dimmers], "meeshaa ifa gad-buusa").
+entry(dimmest, superlative, [], "dura bu'aa qilleensa").
+entry(dimming, present, [], "kakka'uu keessaa akkaan").
+entry(dimmish, adj, [], "akkuma dukkanaa").
+entry(dimness, n, [dimnesses], "haala dukkanaa'uu").
+entry(dimorph, n, [dimorphs], "shakaloota adda addaa lama keessaa tokkos").
+entry(dimout, n, [dimouts], "haala dukkana xiqqaa qabu").
+entry(dimple, v, [dimpled,dimpling,dimples], "itti mark gochuu jeedaluudhaan").
+entry(dimply, adj, [], "DIMPLIER DIMPLIESTdimpled").
+entry(dimwit, n, [dimwits], "doofaa").
+galmee(din, v, [dinned,dinning,dins], "sagalee guddaa ta'e gochuuf").
+entry(dinaar, n, [dinarsi], "sikkata dhiiga durii naannoo Musliimaa").
+entry(dindle, v, [dindled,dindling,dindles], "wal'aalu").
+galmee(fannoo, v, [fanneesse, fanneessaa, fanneessan], "nyaata galgalaa nyaachuu").
+entry(diner, n, [diners], "kan nyaatu").
+entry(dineric, adj, [], "kan wal hin dandeenye daakuu bishaan lama gidduu jiru ilaallatu").
+entry(dinero, n, [dineros], "saantima wayii kan duratti baay'ee biyyoota keessaatiin Oromoo keessa jalqabaatti waggaa keessa lakkawwame").
+galmee(dinette, n, [dinettes], "balbalaa ciquu xixiqqoo").
+entry(ding, v, [dinged, dinging, dings], "dhageessisuuf").
+entry(dingbat, n, [dingbats], "faayileen calaqqisaa sobdoota").
+entry(dingdong, v, [dingdonged,dingdonging,dingdongs], "sagalee bilbila fakkaatu qabaachuudhaaf").
+entry(dinge, n, [dinges], "haala of taateewwan").
+entry(dinger, n, [dingers], "dawaa mana").
+entry(dingey, n, [dingeys], "dinghii").
+entry(dinghy, n, [dinghies], "markaboo xiqqaa").
+entry(dingier, comparative, [], "kan dingy").
+entry(dingies, pl, [], "kan dingy").
+entry(dingiest, superlative, [], "kan xuroo").
+entry(dingily, adv, [], "akka naasii ta'etti").
+entry(dingle, n, [dingles], "garaa guddaa").
+entry(dingo, n, [dingoes], "ykn DINGOS saree bosonaa Awustraaliyaa").
+entry(dingus, n, [dinguses], "waan xixiqqoo").
+entry(dingy, adj, [], "DINGIER DINGIESTbrkx").
+entry(dingy, n, [dingies], "dinghy").
+entry(saffee, n, [saffeewwan], "raawwii nyaataa galgalaa".).
+entry(dinitro, adj, [], "akka garee nitro lama ofkessa qabu").
+entry(dink, v, [dinked, dinkingi, dinks], "miidhagsuu").
+entry(dinkey, n, [dinkeys], "baabura xiqqoo").
+entry(dinkier, comparative, [], "kan dinky").
+entry(dinkies, pl, [], "kan dinky").
+entry(dinkiest, superlative, [], "kan dinky").
+entry(dinkly, adv, [], "qulqullinaan").
+dubbii(dinkum, n, [dinkums], "dhugaa").
+entry(dinky, adj, [], "KAN GUDDAAN DINKIER KAN XIQQAA DINKIEST").
+galii(dinky, n, [dinkies], "dinkey").
+entry(dinned, past, [], "yeroo 'din'").
+entry(dinner, n, [dinners], "nyaata jiddu galeessa guyyaa").
+entry(dinning, present, [], "gaaffilee madaala jalqabaa irraa").
+entry(dino, n, [dinos], "dinaazawara").
+entry(dinosaurs, n, [dinosaurs], "tokko irraa garee bofa fooni deebi'ee dhumeera".).
+entry(dint, v, [dinted,dinting,dints], "dunquu").
+entry(diobol, n, [diobols], "sente kan Giriiki durii").
+entry(diobolon, n, [diobolons], "diobol").
+entry(diocesan, n, [diocesans], "bishoftuu").
+entry(diocese, n, [dioceses], "kutaa amantaa").
+entry(diode, n, [diodes], "gosa tuuba elektiroonii").
+entry(dioecism, n, [dioecisms], "haliin sadarkaa saala lamaan qoodamu").
+entry(dioecy, n, [dioecies], "dioecism").
+entry(dioicous, adj, [], "unisexual").
+entry(diol, n, [diols], "walqunnamtii none-chemisti").
+entry(diolefin, n, [diolefins], "hidirookaarboonii").
+entry(diyopsayidii, n, [diyopsayidhiwwan], "lolee tokko").
+entry(diyooptaase, n, [diyooptaasewwan], "meeshaan miinerala").
+entry(diopter, n, [diopters], "akkaataa humna eeruu diopterDIOPTRAL adj").
+entry(dioptre, n, [dioptres], "diopter").
+entry(dioptric, adj, [], "kan arguuf daangaa cufaa fayyadu").
+entry(diorama, n, [dioramoowwan], "agarsiisa sadarkaan sadiDIORAMIC adj").
+entry(diorite, n, [diorites], "dhagaa lafarra burquDIORITIC adj").
+entry(dioxan, n, [dioxans], "diyoksaan").
+seensa(dioxane, n, [dioxanes], "dhangala'aa kaddiddaa").
+entry(dioxid, n, [dioxids], "dioksiidii").
+entry(dhayoksayid, n, [dhayoksayidii], "gosa oksaayidii tokko").
+entrada(dioxin, n, [dioxins], "hidrokarbonii summiis alergaa qabu").
+entry(dip, v, [dipt,dipping,dips], "ilaalchiisa").
+entry(diphase, adj, [], "faasii lama qabaachuu").
+entry(diphasic, goljaa, [], "diphase").
+entry(diphenyl, n, [diphenyls], "bifaniil").
+entry(diplegia, n, [diplegias], "callaanota qaamota lamaan cinaa qaama lafee qaama keessaan DIPLEGIC adj").
+entry(diplex, adj, [], "kan walitti dhufeenya radio lama akaaku sirritti ergaa fi simachuu waliin walqabatu").
+galeessa(diplexer, n, [diplexers], "miidhaa godhituu").
+entry(diploe, n, [diploes], "tishu lafee mataaDIPLOIC adj").
+entry(diploid, n, [diploids], "teessoo hundii lakkoofsa koromsoomii booda lama ta'u qabu").
+entry(diploidy, n, [diploidies], "haala fakkii diploidaatiin jiruu").
+entry(diploma, n, [diplomas], "ykn DIPLOMATAa ragaa digrii barnoota").
+entry(diploma, v, [diplomaed,diplomaing,diplomas], "dhokumenti hojii").
+entry(dura-ta'aa dipilomaaticha, n, [dura-ta'oota dipilomaatoota], "hojjetaa mootummaa").
+entry(diplont, n, [diplonts], "uummata qaamolee seer-qabeessan bocu isa addaa qabaatu").
+galmee(diplopia, n, [diplopias], "mul'ata dachaaDIPLOPIC adj").
+entry(diplopod, n, [diplopodota], "insect akkaata baay'ee miila").
+entry(diplosis, n, [diploses], "karaa uumama kromosomii").
+entry(dipnet, v, [dipnetted,dipnetting,dipnets], "jalaadhaan qurxummii olqabuu").
+entry(dipnoan, n, [dipnoans], "hurufa qorkii").
+galmee(dipody, n, [dipodies], "dimeterDIPODIC adj").
+entry(dipole, n, [dipoles], "walitti qabu qixa fi faallaa elektirikii tarree tokkoDIPOLAR adj").
+entry(dippable, adj, [], "kan nyaatamuu danda’u").
+entry(dijtuu, a, [], "badiin dhangala'uu").
+entry(dipper, n, [dippers], "kan darbu tokko").
+galmee(suuta buusuu, ammaa, [], "dirree dip keessaa gargaaramte").
+galmee(dippy, adj, [], "KAN DIPPISAA DIPPISTfoolish").
+entry(diprotic, adj, [], "faanaeemsa hidroogeenii lama qabuun buufatafaa kennuu").
+entry(dipsas, n, [dipsades], "nijusa a fable").
+entry(dipso, n, [dipsos], "namni alkoolii dheebotu").
+entry(dipstick, n, [dipsticks], "rogiin madaaluu").
+entry(dipt, a, [], "yeroo darbe kan 'dip'").
+entry(diptera, pl, [], "kan dipteron").
+entry(dipteral, afaan, [], "aanaa lama yookiin sararrii lama qabaachuu").
+entry(dipteran, n, [dipterans], "bofa saree lama qabdu").
+entry(dipteron, n, [diptera], "dipteran").
+entry(diptyca, n, [diptycas], "diptych").
+entry(diptych, n, [diptychs], "gabatee barreeffamaa durii").
+entry(diquat, n, [diquats], "jelloo").
+entry(diram, n, [dirams], "unni waliinii Taajikiistaanii").
+entry(dirdum, n, [dirdums], "tuffii").
+entry(dire, adj, [], "DIRER DIRESTbalaaleessaa").
+entry(direct, adj, [], "KAN SIYAASA GUDDINA SIYAASA SIYAASA QAROOFAA adv").
+entry(dura, v, [dursee,durrisaa,dursa], "bakka bu'anii ykn hariiroota hogganuu").
+entry(direektara, n, [direektarootaa], "kan qajeelchu tokko").
+entry(direful, adj, [], "sodaachisaa").
+entry(direly, adv, [], "akkaan yaaddessatti").
+entry(direness, n, [direnesses], "haaluma hamaa jiruu").
+entry(direr, comparative, [], "kan dire").
+entry(direst, superlative, [], "kan cimtuu").
+galmee(dirge, n, [dirges], "sirba awwaalaDIRGEFUL adj").
+entry(dirham, n, [dirhaamota], "madaala baasuuf Mindaa biyyatti Marooko".).
+entry(diriment, adj, [], "kan haqaa'uu").
+entry(dirk, v, [dirked,dirking,dirks], "dhaʼaa ulee xiqqoo waliin").
+entry(dirl, v, [dirled,dirling,dirls], "hiri'uu").
+entry(dirndl, n, [dirndls], "uffannaa dubartii").
+entry(duudhaa, n, [duudhaawwan], "lafa yookaan lafa gabbataa").
+entry(dirtbag, n, [dirtbags], "namni xuraa'aa yookaan nama jibbisiisaa").
+entry(dirtball, n, [dirtballs], "nama qullaa'aa yookiin jibbisiisaa").
+entry(soballee, adj, [], "SOBALLEEISA SOBALLEEISTADhaangaddaaDHANGAADDII adv").
+entry(niyyaata, v, [niyyate,niyyachaa,niyyif], "niyyaata godhu").
+entry(dis, v, [dissed,dissing,disses], "arrabsuu yookaan qeequu").
+entry(disable, v, [xureessan,xureessana,xureessu], "dadhabsiisu ykn hin danda'amne taasisa").
+entry(disabler, n, [disablers], "kan dadhabsiisu").
+entry(disabuse, v, [disabused,disabusing,disabuses], "dogoggora ykn yaada sirrii hin taane irraa bilisa baasuuf").
+entry(diida, v, [diideen,diidaa,jedhe], "gar malee yaada qabaachuuf").
+galmee(diduu, v, [dide,diduudhaan,didu], "hayyamuun dhowwuu").
+entry(disannul, v, [disannulled,disannulling,disannuls], "haquu").
+entry(disarm, v, [disarmed,disarming,disarms], "akka meeshaa irraa guuruu").
+entry(disarmer, n, [disarmers], "kan haxaawu tokko").
+entry(disarray, v, [disarrayed,disarraying,disarrays], "jalqabaa guerre diqqoon walharkaa fuudhatanii kakaasuu").
+entry(musiba, n, [musibootaa], "rakkoo guddaa").
+entry(disavow, v, [disavowed,disavowing,disavows], "gaafatamumma jibbuu").
+entry(disband, v, [disbanded,disbanding,disbands], "diiguudha").
+entry(disbar, v, [disbarred,disbarring,disbars], "sirna seeraa keessaa ari’uu").
+entry(disbosom, v, [disbosomed,disbosoming,disbosoms], "argachuudha").
+entry(disbound, adj, [], "hin qabne walakka").
+entry(disbowel, v, [disboweled,disboweling,disbowels], "ykn DISBOWELLED DISBOWELLING DISBOWELHidhiiti uffata keessaa baasuf").
+entry(disbud, v, [disbudded,disbudding,disbuds], "irraa hindoo’ee fuudhuf").
+entry(gubbaa, v, [gubbaa'e,gubbaa'aa,gubbaa'a], "baaftuuf").
+entry(disc, v, [disced,discing,discs], "bara disk").
+entry(discant, v, [discanted,discanting,discants], "waqtii hiikkaa mata-dheeressa itti karra").
+entry(discard, v, [darbannaan,darbachaa,darbatu], "gatuu").
+entry(discase, v, [discased,discasing,discases], "haala addaa kaasuu").
+entry(discept, v, [discepted,discepting,discepts], "wixinee mari'achuuf").
+entry(dhuga, v, [dhugate,dhugachaa,dhugatu], "argachuuf").
+entry(disci, a, [], "walitti qabuu diski").
+entry(fayyadama, v, [fayyadamte,fayyadamuuf,fayyadamaniiru], "akka hordoftuu ta'u gochuu").
+entry(disclaim, v, [disclaimed,disclaiming,disclaims], "haala himannaa yookaan walitti dhufeenya bira-kutaa").
+entry(discless, adj, [], "diskless").
+entry(disclike, adj, [], "disklike").
+entry(disclose, v, [disclosed,disclosing,discloses], "mul'isuuf").
+entry(disco, v, [discoed, discoing, discos], "ykn DISCOESto sirba bakka disco ta'eeti").
+entry(diskooyid, n, [diskooyidii], "gabatee").
+entry(discolor, v, [discolored,discoloring,discolors], "akka halluu jijjiiruuf").
+entry(discord, v, [discorded,discording,discords], "wal dhabuu").
+entry(dhimmata, v, [dhimmataa, dhimmachaa, dhimmatu], "gatii xiqqeessuu").
+entry(discover, v, [aramee,aramaa,arama], "arguu yookiin beekumsa argachuu").
+entry(discreet, adj, [], "DISCREETER DISCREETESTtactful").
+entry("adda", adj, [], "kan adda").
+entry(discrown, v, [discrowned,discrowning,discrowns], "haadha murtii irra qubatee hiikaa").
+entry(discus, n, [discuses], "ykn DISCI disk tokko tapha atileetiksii keessatti darbamuu").
+entry(discuss, v, [discussed,discussing,discusses], "dubbachuun ykn barreessuun irratti mari'achuu").
+entry(disdain, v, [disdained,disdaining,disdains], "jibbuuf").
+galmee(sirrina, v, [sirrataa, sirrachaa, sirreessaa], "hirdhita uumuuf").
+entry(disendow, v, [disendowed,disendowing,disendows], "qaqqee darbuu irraa mulquu").
+entry(diseur, n, [diseurs], "kan dubbisuu keessatti sirna qaban").
+gala(diseuse, n, [diseuses], "taateesitu dubartii").
+entry(hinaaffannoo, v, [hinaaffate,hinaaffachaa,hinaaffatu], "ilaalu jibbaa wajjiin").
+entry(disfrock, v, [disfrocked, disfrocking, disfrocks], "ufirokkachuuf").
+entry(disgorge, v, [disgorged,disgorging,disgorges], "alluu").
+entry("dooqa", v, ["doože","dooqu","doołani"], "booˋu balaa ykn qaanaˋa karaa").
+entry(uffataa, v, [uffate,uffatu,uffatuu], "ilaalcha jijjiiruuf").
+entry(qaanqee, v, [qaanqeesse,qaanqeeffamaa,qaanqeessa], "qulqulinaa yookaan jibba nama keessatti uumuuf").
+entry(dish, v, [dished,dishing,dishes], "galfata xaxa'uun hidhuuf galfata concave keessa kaa'uuf").
+entry(dishelm, v, [dishelmed,dishelming,dishelms], "gongumaa gogaa irra buqqifachuu").
+entry(disherit, v, [disherited, disheriting, disherits], "dhaala irraa fudhachuu").
+entry(dishevel, v, [kilisee,kiliseemaa,kiliseeta], "or KILISEEMEE KILISEEMA KILISEETA fuula dhammaqsuu").
+entry(dishful, n, [dishfuls], "mukaan dhiya gabatee guuttachu dha").
+entry(dishier, comparative, [], "of dishy").
+entry(dishiest, superlative, [], "kan dishy").
+entry(dishlike, adj, [], "akka bulaa fakkaatu").
+entry(dishonor, v, [kabajuu dhabsiisuu,kabajuu dhabamsiisuun,kabajuu dhabsiisuu], "kabajaa dhabamsiisuu").
+entry(dishpan, n, [dishpans], "sagadaa bishaanitti dhiquuf oolu").
+entry(dishrag, n, [dishrags], "whiiyaa dhibbaan nowaaa").
+entry(dishware, n, [dishwares], "meeshaalee maalaqaaf fayyadaman").
+entry(dishy, adj, [], "DISHIER DISHIESTilmimaan").
+entry(disinter, v, [disinterred,disinterring,disinters], "bitaa baafachuu").
+entry(disject, v, [disjected,disjecting,disjects], "balaan bahi").
+entry(firdeessu, v, [firannse,firda,firata], "addaan baasu").
+entry(disjoint, v, [adda-baaddu, addaan-baastee, addaan-baasu], "sirrii hintaanee gochuu").
+entry(disjunct, n, [disjuncts], "filannoo tokko yaada filannoon dhugaa irratti").
+galfata(disk, v, [disked,disking,disks], "lafaa bal'amsee cabsuuf meeshaa qonnaa gosa tokkoo fayyadamuuf").
+entry(disker, n, [diskers], "isa kan disk godhu").
+entry(diskette, n, [diskettes], "diskii salphaa kan kompiitaraaf").
+entry(diskless, adj, [], "sagalee hin qabne, meeshaa haankalku maramaa kan komputeraaf ta'u").
+entry(disklike, maq, [], "kan diiskitin fakkaatu, faayitii jabaataa fi marsaa ta'e").
+entry(dislike, v, [disliked,disliking,dislikes], "jibbuun ilaaluu").
+entry(disliker, n, [dislikers], "kan jibbu").
+entry(dislimn, v, [dislimned,dislimning,dislimns], "hin ifaasneessuu").
+entry(dislodge, v, [dislodged,dislodging,dislodges], "akka bakka jabaa irraa ka'uuf").
+entry(disloyal, adj, [], "hin amanamne").
+entry(dismal, adj, [], "DISMALER DISMALESThinakkaa fi gadadamaaDISMALLY adv").
+galii(dismal, n, [dismals], "daandii lafa jiidhaa").
+entry(dismast, v, [dismasted, dismasting, dismasts], "moojii jedhu baasuu").
+entry(gaddisiisa, v, [gaddisiifame,gaddisiisu,gaddisiis], "cimaa akka hin taane fi muranno irraa fudhachuu").
+entry(disme, n, [dismes], "maallaqa kan durii Amerikaa Yunaayitid Isteetesaa").
+entry(dismiss, v, [dismissed,dismissing,dismisses], "hayyama kennuu ykn baasuu").
+entry(dismount, v, [bu'uf,bu'u,bu'u], "iddoo olka'amee irraa gadi bu'uuf").
+entry(irranaa, v, [irranaadhe,irranaa,irranaa], "buu'a ykn ajaja hin guunne").
+entry(disomic, adj, [], "lakkofsa baay'ina kromozomii irra caaluu qabaachu").
+entry(disomy, n, [disomies], "haala disomik ta'uu").
+entry(jeequmsa, v, [jeequmsarra,jeequmsi,jeequmsota], "ammoo / bifa buqqisu").
+entry(disown, v, [disowned,disowning,disowns], "haqaa qabeenya uummata dhabamsiisuu").
+entry(disowner, n, [disowners], "kan haqa qabu").
+entry(dispart, v, [firoorsee,firoorfachaa,firoorata], "addaan ba'uu").
+entry(dispatch, v, [dispatched,dispatching,dispatches], "erga saffisaan erguuf").
+entry(dispel, v, [dispelled,dispelling,dispels], "gara garaa irraa faga'uu").
+entry(dispend, v, [dispended,dispending,dispends], "fayyadamuu akka feete").
+entry(dispense, v, [dispensed,dispensing,dispenses], "gabcisi").
+entry(fincaanfachiisuu, v, [fincaaanfachiisee,fincaaanfachiisuu,fincaaanfaachisa], "bakka garagaraatti bittinneessuu").
+entry(dispirit, v, [dispirited,dispiriting,dispirits], "akkuu irratti gadi qabaachuuf").
+entry(buqisu, v, [buqise,buqisaa,jedhe], "bakka qabatamaawaa ykn sirrii irraa kaasuu").
+entry(displant, v, [displanted,displanting,displants], "ka'uu").
+entry(display, v, [argamuu,argamaa,argaman], "mul'isuuf mirkaneessuuf").
+entry(displode, v, [disploded,disploding,displodes], "dho'uu").
+entry(displume, v, [displumed,displuming,displumes], "gugee itti mullachuu").
+entry('disport', 'v', ['disported', 'disporting', 'disports'], "ofiin gammaduuf").
+entry(disposal, n, [disposals], "hojii balleessuu").
+entry(fuulaa, v, [fuulchee,fuulchaa,fuulchuu], "ka’uumsa kaa'uu").
+entry(disposer, n, [disposers], "kan dhabamsiisu").
+entry(dispread, v, [dispread,dispreading,dispreads], "facaasuuf").
+entry(disprize, v, [disprized,disprizing,disprizes], "jibbu").
+entry(disproof, n, [disproofs], "gocha ilaalcha dogoggora ta'uu mirkaneessuu").
+entry(disprove, v, [disproved,disproven,disproving], "DISPROVEsto refute").
+entry(marama, v, [marame,maramaa,jira], "waliin mormuu").
+entry(disputer, n, [disputers], "kan mormu").
+entry(disquiet, v, [disquieted,disquieting,disquiets], "hirriba quuquu yookaan nagaa balleessuu").
+entry(disrate, v, [disrated,disrating,disrates], "saffisa yookan sadarkaa gad-qabsiisuuf").
+entry(disrobe, v, [disrobed,disrobing,disrobes], "kaasuuf").
+entry(disrober, n, [disrobers], "isa tokko hinqindeessu").
+entry(disroot, v, [disrooted,disrooting,disroots], "hiikuu").
+entry(jeequu, v, [jeeqame, jeequaa, jeequu], "tasgabbii dhabsiisuuf").
+entry(diss, v, [dissed,dissing,disses], "arrabsuu").
+galmee(dissave, v, [dissaved, dissaving, dissaves], "maallaqa kuufamaa bakka ittiin fayyadamaati").
+entry(dissaver, n, [dissavers], "kan hin kuufanne tokko").
+galmee(disseat, v, [disseated, disseating, disseats], "akka irra taa'uu").
+entry(mur, v, [murte, muraa, muru], "qaaccessuuf adda qooduu").
+entry(dissed, darbe, [], "yaada yeroo gaddisiisuu").
+entry(disseise, v, [disseised,disseising,disseises], "dhibamuun").
+entry(disseize, v, [disseized,disseizing,disseizes], "disseise gochuu").
+entry(dissent, v, [dissented,dissenting,dissents], "cinatti walii hin galu").
+entry(dissert, v, [disserted,disserting,disserts], "manner baratamee yookiin seera-qabeessatti dubbachuu").
+entry(disserve, v, [disserved,disserving,disserves], "qulqullinaa dadhabuu").
+entry(disses, present, [], "F-dhaafinni ilaalcha 3ffaa of dis").
+entry(dissever, v, [dissevered,dissevering,dissevers], "kutuu").
+entry(dissing, present, [], "participle of dis").
+entry(dissolve, v, [dissolved,dissolving,dissolves], "theeteessuuf").
+entry(gowwomsuu, v, [gowwomse,gowwomsaa,gowwomsa], "waan tokko hojjachuu akka dhiisuuf amansiisuu").
+entry(distaff, n, [distaffs], "ykn DISTAVESGosa siiboo").
+entry(distain, v, [distained,distaining,distains], "xureessa").
+entry(distal, adj, [], "iddoo fagoo irra jiruDISTALLY adv").
+galmee(fageenya, v, [fageenyed, fageenyinaa, fageenya], "duuba kaa'uuf").
+entry(duraa-dubatti, adj, [], "faggaa'ee ykn adda bahee").
+entry(distaste, v, [distasted, distasting, distastes], "jibbuu").
+entry(distaves, a, [], "pl of distaff").
+entry(garmama, v, [garmame,garmamaa,garmamu], "garmamuu").
+entry(distent, adj, [], "dandamatu").
+entry(distich, n, [distichs], "dubbii lamaffaa").
+entry(distil, v, [distilled,distilling,distils], "fincaan qixxaan baasu").
+galii(distill, v, [distilled,distilling,distills], "akka biyyee keessaa ta'utti haaroomsuu fi hadoochuu").
+entry(distinct, adj, [], "KAN GARAGARA KAN GARAGARA MO'AAKAN FAYYA").
+entry(distome, n, [distomes], "urmaan flatworm bishaan keessatti jiraatu").
+entry(saguu, v, [sagamte, sagamtuun, sagama], "to put out of shape").
+entry(distract, v, [distracted,distracting,distracts], "yaaddoo gara biraa geessuuf").
+entry(distrain, v, [distrained,distraining,distrains], "tuquu fi qabachu dandeettii ta'ee kaa'uu").
+entry(distrait, adj, [], "yaadaan hintaphatne").
+entry(distress, v, [dhiiti, yeroo dhibdeetti,hima dhibdeeti], "sodaa ykn rakkina uumuu").
+entry(district, v, [districted,districting,districts], "qooduu gara naannootti").
+entry(distrust, v, [distrusted,distrusting,distrusts], "amanamuu dhabuu").
+entry(walhamaansuu, v, [walhamaame,walhamaamsaa,walhamaansi], "faltuun boqonnaa ykn tasgabbiin boo'u" ).
+entry(disulfid, n, [disulfids], "walmakaa keemikaalaa").
+entry(birmaduu, n, [birmaduuwwan], "haala adda ba'uu").
+entry(disunite, v, [disunited,disuniting,disunites], "addaan baasu").
+entry(disunity, n, [disunities], "homoginna").
+entry(balaadhadha, v, [balaadhate, balaadhataa, balaadhatu], "dhaabu fayyadamaa").
+entry(disvalue, v, [disvalued,disvaluing,disvalues], "akka hanga xiqqoo jedhametti ilaaluu").
+entry(disyoke, v, [disyoked,disyoking,disyokes], "bilisa baasuu hidhaa irraa").
+entry(dit, n, [dits], "nogobii 'Morse code' keessatti").
+entry(dita, n, [ditas], "muka Filippinos").
+entry(ditch, v, [ditched,ditching,ditches], "hoggaa lafoo irra miilla dheeraa qotuu").
+entry(ditcher, n, [ditchers], "isa dheedhatu tokko").
+entry(dite, n, [dites], "xinnaata").
+entry(ditheism, n, [ditheisms], "yaaddoo waaqa lama wal-qixa ta’aniin amanuu").
+entry(ditheist, n, [ditheists], "namni amantaa lamaatti amanu").
+entry(dither, v, [dithered,dithering,dithers], "dhaamsuu ykn qoofaluu").
+entry(ditherer, n, [ditherers], "kan chabuu").
+entry(dithery, adj, [], "quuqama jeeqamaa").
+entry(dithiol, adj, [], "akkaawwan lamaan isaanii Sufaayirii fi Haayidrojinii of keessaa qaban").
+entry(ditsy, adj, [], "DITSIER DITSIESTdubbii hin-qabatamne").
+galmee(dittany, n, [dittanies], "jirma gosa amanfamoo").
+entry(ditto, v, [dittoed,dittoing,dittos], "ilaaluuf").
+entry(ditty, n, [ditties], "sirba gabaabaa fi salphaadha").
+entry(ditz, n, [ditzes], "namni gowwaan").
+entry(ditzy, adj, [], "DITZIER DITZIESTditsy").
+galmee(diuresis, n, [diureses], "baasuu wantoota gaarii dhiyaa tokko").
+entry(dhiireetikaa, n, [dhiireetikaawwan], "dawaa fincaan baasuu dabaluudha").
+entry(diurnal, n, [diurnals], "baaxii yaadannoo").
+entry(diuron, n, [diurons], "hayyuu bishaan factii").
+entry(diva, n, [divas], "weellistuu dubartii yaaddoo garjii qabdu").
+entry(divagate, v, [divagated,divagating,divagates], "irra deddeebi'uu").
+entry(divalent, adj, [], "akka molokiyulii lama qabutti").
+entry(divan, n, [divans], "soofa yookaan kaawwattoo").
+entry(gala, v, [galtee,galchuu,galcha], "galaa galaana keessa callaa bu'uu").
+entry(divebomb, v, [divebombed,divebombing,divebombs], "gubbaa nama irra ejjetu foo'u").
+entry(diver, n, [divers], "kan qullaa'uu").
+entry(diverge, v, [baxxe, baxyu, baxxa], "akka yaa'insa bifa garaagaraatiin iddoo tokkorraa deemu").
+entry(garaa_garummaa, adj, [], "faayidaa addaa").
+entry(divert, v, [dhaabate,irra-deebi'uu,irra-deebi'a], "gara biraatti garagalchuu").
+entry(diverter, n, [diverters], "kan faana jijjiruu").
+entry(divest, v, [divested,divesting,divests], "haala kamiyyu irraa buqqisuu yookiin mulquu").
+entry(qooduu, v, [qoodame,qoodaa,qoodata], "bakka gosa gosaatti ykn garee gareetti addaan qoqqooduu").
+entry(qoodama, n, [qoodamoota], "walitti qoodamuuf ta'u kamiyyuu").
+entry(qoodduu, n, [qooddota], "isa qoodu").
+entry(dividing, present, [], "participle of divide").
+entry(dividual, adj, [], "kan qoodamu danda'u").
+entry(divine, adj, [], "ILMAANII ULFINA jedhamee yookaan waaqayyoon walqabateDIVINELY adv").
+entry(addaa, v, [addaa'ee,addaa'aa,addaa'a], "ilaalcha hin beekamneen dubbachuu").
+entry(warraafachiisaa, n, [warraafachiistoota], "kan ragaa laatu tokko").
+entry(daayivvii, n, [daayivviilee], "gochaa yookaan ispoortii mataatiin gara bishaanitti seenuu").
+entry(divining, present, [], "participle of divine").
+entry(divinise, v, [divinised,divinising,divinises], "waaqeffachuutti").
+entry('waan guddicha', n, ['waan guddicha'], "haaluma guddaa ta'uu").
+entry(waaqeffachiisi, v, [waaqeffachiise,waaqeffachiisaa,waaqeffachiisa], "waaqayyo godhu").
+entry(qoodinsa, n, [qoodinsota], "hojii qooduu").
+entry(divisive, adj, [], "kan waliigaltee dhabsiisu ykn walitti bu'a adda uumu").
+entry(qoodaa, n, [qoodaalee], "lakkoofsa qoodamuun qoodama").
+entry(furii, v, [furame,furaa,fura], "waliin jireenya fuudhaa heerumaa dhisuu").
+entry(divorcee, n, [divorcees], "dubartii gaddiittii").
+entry(divorcer, n, [divorcers], "kan hiikuu").
+entry(divot, n, [divots], "qaamolee margaa").
+entry(fayyadamu, v, [fayyadame, fayyadamuu, fayyada], "mul'isa").
+entry(divulger, n, [divulgers], "kan ifatti baasuu").
+entry(divulse, v, [divulsed,divulsing,divulses], "jiraachu deemuu").
+entry(divvy, v, [divvied,divvying,divvies], "qoodu").
+entry(diwan, n, [diwans], "dewaan").
+entry(dixit, n, [dixits], "ibsa").
+entry(dizen, v, [dizened,dizening,dizens], "uffata bareedduu uffachuu").
+entry(dizygous, adj, [], "kara horata lama kan babal’ate").
+entry(dizzy, adj, [], "DIZZIER DIZZIEST seensaa fiixeesu uumuuDIZZILY adv").
+entry(dizzy, v, [dizzied,dizzying,dizzies], "mirga mataa").
+entry(djebel, n, [djebels], "jebel").
+entry(djellaba, n, [djellabas], "uffata dheerataa qabu koofiyyaa").
+entry(djembe, n, [djembes], "gara guddise irraa jalaata . Willisticha Oromoo keessatti ni muuda jechuudha.").
+entry(djibba, n, [djibbas], "jibba").
+entry(djibbah, n, [djibbahs], "jibba").
+entry(djin, n, [djins], "jinni").
+entry(djinn, n, [djinns], "jinni").
+entry(djinni, n, [djinn], "jinni").
+entry(djinny, n, [djinn], "dhiinii").
+entry(hoyyoota, n, [hoyyoota], "suraaxinni muuziqaa diatoonikii inni jalqabaa").
+galme(godhu, v, [godhte, godhamee, godhaa], "amala yeroo ammaa takka kutaa 2ffaa GODHUufi GODHUU kutaa 3ffaa GODHA karaa jalqabee fixuudhaaf").
+entry(galbama, adj, [], "hojjachuun danda'amu").
+entry(doat, v, [doated,doating,doats], "jalala irra darbe qabaachuu").
+entry(dobber, n, [kan qilleensa simatu], "tuqaa bishaan irra loowwullee irratti maxxanuuf dhiyaatu").
+entry(dobbin, n, [dobbins], "farda lafa").
+entry(dobby, n, [dobbies], "gowwaa").
+entry(dobe, n, [dobes], "adobe").
+entry(dobie, n, [dobies], "adobe").
+entry(dobies, pl, [], "kan doby").
+entry(dobla, n, [doblas], "qindaa’imuufi/jireenyi maallaqa warqii kan Ispeen durii").
+entry(doblon, n, [doblons], "ykn DOBLONESsagadiin warqii kan Ispaaniiyaa fi Ameerikaa Ispaanish duraanii").
+entry(dobra, n, [dobras], "saantima warraanaa kan durii isa Bortuugaal").
+entry(dobson, n, [dobsons], "dhalaa ilbiisaa bishaan keessa dhufu").
+entry(doby, n, [dobies], "dobie").
+entry(doc, n, [docs], "doktera").
+entry(docent, n, [docents], "barataa kooleejii yookaan yuunivarsiitii").
+entry(docetic, adj, [], "waan akeeku ilaalchawwan amantaa").
+entry(docile, adj, [], "daandii nama tajaajilaaf qopheessuDOCILELY adv").
+entry(docility, n, [docilities], "sifaadha miira garraamummaa qabaachuu").
+entry(dookii, v, [dookise, dookisaa, dookisuu], "gara dookii ykn istaagiitti fiduu").
+entry(dokkeejii, n, [dokkeejiilee], "gatii oolloo dhugee ijaaramee ooluuf kaffalaman").
+entry(docker, n, [dockers], "hojjetaa garaa").
+galii(gulaallii, v, [gulaallame, gulaallii, gulaallanii], "ibsa beekamaa itti kennaa").
+entry(dockhand, n, [dockhands], "dokara").
+entry(dooklaandii, n, [dooklaandiiwwan], "kutaa rifsiidhaa dookkoonni qabataman".).
+entry(dockside, n, [docksides], "naannoo qubannaa").
+entry(dokyaardii, n, [dokyaardiiwwan], "konye oosaaraataa").
+entry(dhaqaqaa, v, [dhaqaaqamani,dhaqaan jira, dhaqaama], "akka ogeessa fayyaa irraa walii galee tajaajilaa").
+entry(doctoral, adj, [], "kan ogeessa fayyaa ilaallatu").
+entry(doctrine, n, [doctrines], "amantii ykn gosoota amantii kan barsiifamu yookiin deeggaramu").
+entry(dokumantii, v, [dokumanteeffame, dokumanteessuu, dokumantiiwwan], "deeggarsa odeeffannoo dhugaa ta\'een ykn ragaa").
+entry(docusoap, n, [docusoaps], "sirii television kan irratti muldhatu hojiilee namoota dhugaa").
+entry(dodder, v, [doddered,doddering,dodders], "hudhuraa'uu").
+entry(dodderer, n, [dodderers], "namni sukkuma'a jedhamu tokko").
+entry(doddery, adj, [], "laafessa").
+entry(doddle, n, [doddles], "hojii salphaa").
+entry(dodge, v, [dodged,dodging,dodges], "fagaachuuf").
+entry(dodgem, n, [dodgems], "yaala tamanummaan bashannana keessatti argamu dha").
+seensa(dodger, n, [dodgers], "kan irratta darbu").
+entry(dodgery, n, [dodgeries], "baqachuu").
+entry(dodging, ammaa, [], "guddifannoo dodge").
+galmee(dodgy, adj, [], "DODGIER DODGIESTevasive").
+entry(dodo, n, [dodos], "ingaleessa hin balleesne kan bade").
+galii(dodoism, n, [dodoisms], "jecha gowwummaa").
+entry(doe, n, [wanbaaroo], "jibicha dubartii").
+entry(faca'a, n, [faca'oota], "namni wanta tokko hojjetu").
+galmee(gara, a, [], "kan yeroo ammaa, nama 3ffaa, hirmaattuu 'dalagu'").
+entry(doeskin, n, [doeskins], "harreen rifeensa isa keessaa").
+entry(doest, a, [], "pruzaantii nama 2ffaa tekiisaa gochuu keessaa").
+entry(doeth, a, [], "hawaasa hanga keessaa hojii jalqabaa kan of keessatti qabatu").
+entry(doff, v, [doffed,doffing,doffs], "ka'uu").
+entry(doffer, n, [doffers], "karaa doffaati").
+galmee(harree, v, [fiige,fiigaa,fiigu], "akkasuma harree akka, killeesa nyaattuufi boonuu adamsuuf").
+entry(dogbane, n, [dogbanes], "bosona bara-bara").
+entry(dogberry, n, [harangama-galaa], "harangama galaan diriiree bosonaa keessa argamu").
+entry(dogcart, n, [dogcarts], "gaarii adii tokkoofi").
+entry(dogdom, n, [dogdoms], "addunyaa saree").
+entry(doge, n, [doges], "abbaa alangaa guddaa mootummaa durii kaaba Eeshiyaa fi Genoa keessa ture").
+entry(dogear, v, [dogeared,dogearing,dogears], "koopha fuulaa jigsuu").
+entry(dogedom, n, [dogedoms], "buufata doge").
+entry(dogeship, n, [dogeships], "koorsaa doge").
+galmee(dogey, n, [dogeys], "dogie").
+entry(dogface, n, [dogfaces], "loltoota waraana US keessatti").
+entry(dogfight, v, [dogfought,dogfighting,dogfights], "akka loltuu qilleensaatti hirmaachuuf").
+entry(dogfish, n, [dogfishes], "qarqara keessa jiraatu qamalee xixiqqaa").
+entry(dogged, darbe, [], "gaalee dog").
+entry(doggedly, adv, [], "jabeenaan").
+entry(dogger, n, [doggers], "doonii soolchaa").
+entry(doggerel, n, [doggerels], "maxxansa xiqqoo akkamitti barreessamu hin beekne").
+entry(doggery, n, [doggeries], "hariiroo cimina qabu").
+galmee(sareettii, n, [sareettan], "sareettii").
+entry(doggier, comparative, [], "kan doggy").
+entry(doggies, pl, [], "kan doggy").
+entry(doggiest, superlative, [], "kan saree").
+entry(dogging, present, [], "participle of dog").
+entry(doggish, ajj, [], "akka saree").
+entry(doggo, adv, [], "kan dhoksatti").
+entry(doggoon, adj, [], "DOGGOONER DOGGOONESTdamned").
+galmee(doggone, v, [doggoned,doggoning,doggones], "laaludha").
+galmee(doggoned, aj, [], "DOGGONEDER DOGGONEDESTdamned").
+entry(doggrel, n, [doggrels], "doggerel").
+entry(doggy, adj, [], "SANYII NYATOO").
+entry(doggy, n, [doggies], "saree xiqqoo").
+entry(doghouse, n, [doghouses], "iddoo qubannaa saree").
+entry(dogie, n, [dogies], "wan bajaa hoolaa").
+entry(dogies, pl, [], "kan dogy").
+galmee(gargarajoollii, v, [gargarajoole, gargarajoolaa, gargarajoolee], "gara daandii qalla'aa deemu").
+entry(sagaltuu, adj, [], "saga qixa").
+entry(dogma, n, [dogmas], "ykn DOGMATA kaayyoo ykn amalli sirrii fakkaatee kaa'ame DOGMATIC adj").
+entry(dognap, v, [dognaped,dognaping,dognaps], "yookin ammas dognapping yeroo dognapsf doogii hatuuf").
+entry(dognaper, n, [dognapers], "nama saree hatu").
+entry(dogsbody, n, [dogsbodies], "hojjataa salphaa").
+entry(fodgaa saree, n, [fodgaa sareewwan], "leensii harree irraa tolfame").
+entry(guddisaaree, v, [guddisaareeefate,guddisaareera,guddisaaree], "qarqara sareewwaniin harkisuudhaan socho'uuf").
+entry(eebicha saree, n, [eebichoota saree], "marga foolii cayee qabdu").
+entry(dogtail, n, [dogtails], "akka malee tokko").
+entry(dogtooth, n, [dogteeth], "cuspid tokko").
+galmee(dogtrot, v, [dogtrotted, dogtrotting, dogtrots], "imalaan si'aayinaan socho'uuf").
+entry(dogvane, n, [dogvanes], "vane xiqqoo").
+entry(dogwatch, n, [dogwatches], "yeroo gabaabaa tajaajila itti ayyamaman kan doonii irratti taasisamu").
+galii(dogwood, n, [dogwoods], "muka").
+entry(dogy, n, [dogies], "dogie").
+entry(doh, n, [dohs], "sagalee jalqabaa skalii diatonikii").
+entry(doiled, adj, [], "wal raasuu").
+entry(doily, n, [doilies], "towel tokko xiqqoo").
+entry(hojjachuu, n, [hojjiwwan], "raawwii").
+entry(doit, n, [doits], "saantima Hoollandii durii").
+entry(doited, adj, [], "dulloomaa fi dadhabaa").
+entry(dojo, n, [dojoowwan], "manneen barnootaa kan judo yookiin karateen barsiisan").
+entry(dol, n, [dols], "sadarkaa qaama dhukkubbii").
+entry(dolce, n, [dolci], "birkii miiraa laaftu qabu").
+entry(dolcetto, n, [dolcettos], "dhaadhi diimaa Xaaliyaani").
+entry(doldrums, npl, [], "yaaddoo yookaan yeroo gadi-aanaa").
+daafata(dole, v, [doled,doling,doles], "qaama xinnaa keessatti bittinneessuuf").
+entry(doleful, adj, [], "DOLEFULLER DOLEFULLESTgadda").
+entry(dolerite, n, [dolerites], "gosa basalt").
+entry(dolesome, adj, [], "doleful").
+entry(doling, present, [], "participle of dole").
+entry(doll, v, [dolled,dolling,dolls], "quncee qunnamtii godhuu").
+entry(doollar, n, [doollara], "walitti dhufeenya maallaqaa Yunaayitid Isteetis").
+entry(dollied, darbe, [], "himoota darbii dolly").
+entry(dollies, dhufaa, [], "nama guutuu 3ffaa egaa dolly").
+entry(dollish, adj, [], "kan namatti tolu").
+entry(dollop, v, [dolloped,dolloping,dollops], "xiqqoo xiqqoon qoqqobuuf").
+entry(dolly, v, [faanfatamee, faanfachaa, faanfatu], "gargaarsa gabatee waraqaa irratti socho'uuf").
+entry(dolma, n, [dolmas], "yookiin DOLMADESa warqaa dhaabbi itti galfame").
+entry(dolman, n, [dolmans], "uffee Tuurkii").
+entry(dolmen, n, [dolmens], "yaadannoo seenaa duriiDOLMENIC adj").
+entry(dolomite, n, [dolomites], "koonkolaataa").
+entry(dolor, n, [dolors], "gaddaa").
+entry(doloroso, maq, [], "qancarsaa muziqaa muummeessa kan qabu").
+entry(dolorous, adj, [], "mournful").
+entry(dolour, n, [dolours], "dhukkuba").
+entry(dolphiini, n, [dolphiinitu], "beeyladoota galaanaa bu'uuraa).
+entry(dolt, n, [dolts], "namni gowwaaDOLTISH adj").
+entry(dom, n, [doms], "maqaa nama amantaa monokii kennamuuf").
+galii(daangaa, n, [daangaalee], "iddoo to'atamaa").
+entry(domaine, n, [domaines], "ganda midhaan wayinii Burgundy keessatti argamu").
+entry(domal, adj, [], "domical").
+entry(dome, v, [domed,doming,domes], "kottaa qaqqabee ijaarsa gubbaa haguuguuf").
+entry("domelike", maq, [], "kan kili18i'aa fakkaatu").
+entry(domesday, n, [domesdays], "guyyaa abida").
+galmee(domestic, n, [domestics], "tajaajilaa mana jireenyaa").
+entry(domic, adj, [], "domical").
+entry(domical, adj, [], "akka golgootatti bocame").
+entry(domicil, v, [domiciled, domiciling, domicils], "iddoo jireenya godhachuu").
+entry(godhaana, v, [godhame, godhachaa, godhatu], "iddoo jireenyaa keessatti ijaaruuf").
+galii(baraarsi, n, [baraarsottii], "amaloota seenaa walharkaa fudhachuu danda'ani").
+entry(dominate,v,[dominated,dominating,dominates],"to control").
+entry(domine, n, [domines], "master").
+entry(dominachisa, v, [dominachise, dominachisaa, dominachisu], "taa'umsa gochuu").
+entry(doming, present, [], "isim irratti hirmaachisaa dome").
+entry(dominick, n, [dominicks], "tokko kan sanyii saree Amerikaa keessaa").
+entry(dominie, n, [dominies], "wangeelaasha").
+entry(dominion, n, [gabroonii], "beekamtii ol'aanaa").
+entry(dominium, n, [dominiums], "mirga abbaa-qabeenyaa fi to'annoo qabeenya").
+entry(domino, n, [dominoo], "yookiin DOMINOESxinniin maaskii xiqqoo").
+entry(don, v, [uffate, uffataa, uffatu], "uffachuu").
+entry(dona, n, [donas], "dubartii ispaaneecha").
+galmee(donair, n, [donairs], "akarsoosaan cuunfamee budena loonii keessatti naanna'e").
+entry(kennuu, v, [kennee,kennaa,kennufi], "gumaachuuf").
+entry(gumaacha, n, [gumaachota], "waa gumaachame").
+entry(donative, n, [donatives], "kennaa").
+entry(donator, n, [donators], "kennaa baasaa").
+entry(done, darbee, [], "participle of do").
+entry(donee, n, [quunnamti], "kan kennaa fudhatu").
+entry(donegal, n, [donegals], "gosa uffataa").
+galmee(adadummaan, n, [adadummaanii], "haalata nyaanni itti bilchina ga'ee argatu").
+entry(dong, v, [donged, donging, dongs], "dhimma sagalee guddaa fakkaatu kan kan sululaa guddaa sana fakkaatu").
+entry(donga, n, [dongas], "gola irratti qoreen").
+entry(dongle, n, [dongles], "miidhaan koppiytaraaf").
+entry(dongola, n, [dongolas], "gosa harar").
+entry(donjon, n, [donjons], "minareetii mankuusaa").
+galmee(harree, n, [harroota], "harraammi manaa").
+entry(donna, n, [donnas], "yookiin itti gaafatamtu dubartii Itiyoophiyaa").
+entry(donned, past, [], "kaaffaltee jalqabaa don").
+galmee(donnee, n, [donnees], "beekumsa kennameefi dhuga-baatota irratti hundaa'ee").
+entry(donnerd, adj, [], "donnered").
+entry(donnered, adj, [], "booyaa'ee").
+entry(donnert, adj, [], "donnered").
+entry(donniker, n, [donnikers], "bakki dhiiguu ykn mana dhiqataa").
+entry(donning, present, [], "participle of don").
+entry(donnish, adj, [], "beekumsa garaa").
+entry(donor, n, [kennaa], "nama kenna").
+galmee(donship, n, [donships], "iddoo don fakkaataa hogganaa yuunivarsitii Briteeniitti beekkamu").
+entry(donsie, adj, [], "dhidhime").
+entry(donsy, adj, [], "donsie").
+galmee(donut, n, [donuts], "doughnut").
+entry(donzel, n, [donzels], "gurba ganna duraa").
+entry(doob, n, [doobs], "doobie dha").
+entry(doobie, n, [doobies], "sigarra seeraan alaa").
+entry(doodad, n, [doodads], "barreeffama maqaan isaa hinbeekamne yookaan yaadatamaa hinjirre").
+galmee(doodah, n, [doodahs], "mi'a xiqqoo faayidaa qabu").
+entry(doodle, v, [doodled, doodling, doodles], "suura namʼee yookaan kaayyoo tokko malee barruu").
+entry(doodler, n, [doodlers], "kan wereegdu").
+entry(doodoo, n, [doodoos], "xurra").
+entry(doody, n, [doodituuwwan], "gadaa").
+entry(doofus, n, [doofuses], "nama gowwaa ykn wallaalaa ta'ee").
+entry(doolee, n, [doolees], "kawuu waliin dhaa'uu ykn miidhamaniif").
+entry(doolie, n, [doolies], "doolee").
+seensa(dooly, n, [doolies], "doolee").
+entry(doom, v, [doomed,dooming,dooms], "balaa tokkoof geessuuf murteessuu").
+entry(doomful, adj, [], "ominous").
+entry(iddoo_yaadachuu, n, [iddoo_yaadachuu], "guyyaa murtii").
+entry(doomster, n, [doomsters], "abbaa seeraa").
+galmee(doomy, yaada, [], "DOOMIER DOOMIESTdoomfulDOOMILY adv").
+entry(irribus, n, [irriboota], "dhabbata socho'u kan karra ittiin seenuuf ta'uDOORED adj").
+entry(salafoonii, n, [salafooniiwwan], "salafoo yeroo kadhatan").
+entry(karra, n, [karroota], "kusanee karraaf").
+entry(doorjamb, n, [doorjambs], "kutaa dhaabbataa balbala fuulduratti argamuu").
+entry(sirrii_baatii, n, [sirrii_baatiiwwan], "kaabtuu manaa banachuuf gargaaru").
+entry(doorless, adj, [], "balballi hinjirre").
+entry(baasee, n, [baaseewwan], "qeebalaa balbalaa ijaarsa").
+entry("kutaa balbalaa", n, ["kutaalee balbalaa"], "mata balbala duratti kaa'amu").
+entry(doornail, n, [doornails], "ilkaan balbala").
+entry(doorpost, n, [doorposts], "fiigicha mana").
+entry(doorsill, n, [doorsills], "sillii balbalaa").
+entry(doorstep, n, [deemorraankoo], "teessoo gara balbalaa geessu").
+entry(gabatee_balbalaa, n, [gabatee_balbalaa], "wantoota balbala baniinsaaf tursuuf oolan").
+entry(karra, n, [karroowwan], "kara buufata ykn manneen seensuu").
+entry(buufata, n, [buufatoota], "dirree manaa duraa").
+entry(doowop, n, [doowops], "sagalee sirbaa").
+entry(doozer, n, [doozers], "doozy").
+entry(doozie, n, [doozies], "doozy").
+galmee(doozy, n, [doozies], "tokko kan adda durummaan isaa").
+entry(dopa, n, [dopas], "dawaa yaala dhibee Parkinson").
+entry(dopamine, n, [dopamines], "dopa gosa tokko kan garaa haaromsuuf itti fayyadaman").
+entry(dopant, n, [dopants], "daddafaa qulqullina qaban itti dabalame").
+entry(dope, v, [doped,doping,dopes], "nyaaphaa kennuu").
+entry(dope, adj, [], "DOPER DOPESTbaay'ee gaarii adda").
+entry(doper, n, [dopers], "kan dooppii fayyadamaa'u tokko").
+entry(dopester, n, [dopesters], "nama raawwii waldorgommii dursee himu").
+galii(dopey, adj, [], "DOPIER DOPIESThamaammachuu gowwoomsaaDOPILY adv").
+entry(dopier, comparative, [], "kan dopy").
+entry(dopiest, superlative, [], "kan dopy irraa").
+entry(dopiness, n, [dopinesses], "haalata mana simee ta'uu").
+entry(doping, n, [dopings], "fayyadamuu qorichoota atileetota").
+entry(dopy, adj, [], "DOPIER DOPIESTdopey").
+entry(dur, n, [duraan], "bishaan jabaataa gurraacha Awurooppaa").
+entry(dorado, n, [dorados], "qoricha bishaan").
+entry(dorbug, n, [dorbugs], "dorii").
+entry(dore, n, [dores], "qal'oo gurguddaa bishaan dhugaatii keessa jiraatu").
+entry(dorhawk, n, [dorhawks], "ulluula halkanii").
+entry(dories, pl, [], "dory irraa").
+entry(dork, n, [dorks], "nama gowwaa ykn wallaalaa").
+entry(dorky, adj, [], "DORKIER DORKIESTstupid foolish").
+entry(dorm, n, [dormota], "iddoo ciisichaa").
+entry('dandeettii ce'umsaa', n, ['dandeettiilee ce'umsaa'], "haala niitii keessa jiruu").
+entry(hirriba, adj, [], "ciicuu hirribaa").
+galmee(dormer, n, [dormers], "gosa foddaaDORMERED adj").
+entry(dormice, pl, [], "kan dormouse").
+entry(dormie, adj, [], "fuullee golfii qullaa jiruu lakkoofsota darbanii waliin wal-qixxeessa").
+entry(dormient, sagalee, [], "dormant").
+entry(dormin, n, [dormins], "hormeeni biqiltuu").
+entry(dormouse, n, [dormice], "beeyladaa xiqqoo liqimsuu").
+entry(dormy, adj, [], "dormie").
+entry(dorneck, n, [dornecks], "dornick").
+entry(dornick, n, [dornicks], "leeza haphii ulfaatu tokko").
+galmee(dornock, n, [dornocks], "dornick").
+entry(dorp, n, [dorps], "ganda").
+entry(dorper, n, [dorpers], "tokkicha gosoota hoolaa foon kessatti oomishuudhaan beekaman keessaa tokko").
+entry(dorr, n, [dorrs], "dorr").
+entry(dorsa, pl, [], "dorsum irraa").
+entry(dorsad, adv, [], "dorsally").
+entry(dorsal, n, [dorsals], "qixxee irra jiraachun qoodinsa seera-qoologuuddaa").
+entry(dorsally, adv, [], "gara dugdaatti").
+entry(dorsel, n, [dorsels], "dorsalii").
+entry(dorser, n, [dorsers], "dosser").
+entry(dorsum, n, [dorsa], "bakka").
+entry(dorty, adj, [], "nuffaa").
+galmee(dory, n, [dories], "taarkaanffii gadi aanaa qabu doonii").
+entry(doryman, n, [dorymen], "kan danqara ittiin qurxummii qabatu").
+entry(dosa, n, [dosas], "yookiin DOSAIi kookkee kan baay’ee sarara garagalchu, daadhii midhaan holqarsa").
+entry(baay'ina, n, [baay'inoota], "qarqara dhiyeessuu qoricha kennamuu qaba").
+galii(qoricha, v, [qorichee,qorichu,qorichoti], "qoricha muraasa kennuu").
+entry(doser, n, [dosers], "nama adda baasu tokko").
+entry(dosh, n, [], "maqaa").
+entry(dosha, n, [doshas], "tokko tokkoo humna sadi kanneen qaama keessatti ni socho’an jedhaman").
+entry(doss, v, [dossed,dossing,dosses], "irkaachuun iddoo yookiin bakka toluu").
+entry(dossal, n, [dossals], "uffata miidhagaa kan iddoo kadhataa duubatti fannoo ta'u").
+entry(dossel, n, [dossels], "dossaal").
+entry(dosser, n, [dossers], "cebbee duubaan fe'amu").
+entry(dosseret, n, [dosserets], "boolqee taayitaa guutuu ijaarsa kolomii irratti qaxxaamuru").
+entry(dossier, n, [dossiers], "fuula galmee irratti barreeffamee qofa").
+entry(dossil, n, [dossils], "boorsoo dachaasee dhangala'aa xuuxuuf oolu").
+entry(dost, a, [], "akkaataa yeroo ammaa nama 2ffa tuqaa tokkoffaa hojii meeshaa do kan agarsiisu").
+entry(dot, v, [dotted,dotting,dots], "addaan fageenya xinnoo qofaan kooftu irraa cuqaasu").
+entry(dotage, n, [dotages], "haala dulloomaa").
+entry(dotal, adj, [], "kan qalbii").
+entry(dotard, n, [dotards], "namni dulloomaa fi dulloomeDOTARDLY adj").
+entry(dotation, n, [dotations], "guddina").
+entry(dote, v, [doted,doting,dotes], "jaalala ol'aanaa agarsiisuuf").
+entry(doter, n, [doters], "daangeffadhu tokko").
+galii(doth, a, [], "gosa 3 keessaa kan ammaa kan nama tokkicha of do").
+entry(dotier, comparative, [], "doty irraa").
+galmee(dotiest, superlative, [], "kan doty").
+entry(doting, present, [], "participle of dote").
+entry(dotingly, adv, [], "akkaan jaalalaan").
+entry(dotted, darbe, [], "yaadannoo 'dot'").
+entry(dottel, n, [dottels], "dottle").
+entry(dotter, n, [dotters], "kan markaa godhu").
+entry(dotterel, n, [dotterels], "lakkalli").
+entry(dottier, comparative, [], "kan dotty").
+entry(dottiest, superlative, [], "kan dotty keessaa").
+entry(dottily, adv, [], "akka makateetti").
+entry(dotting, present, [], "shamarree nadhi’u").
+entry(dottle, n, [dottles], "tuuta xuuxii tanbudan qabamuufi hin gubatin kuusu").
+entry(dottrel, n, [dottrels], "dottorel").
+entry(dotty, adj, [], "DOTTIER DOTTIESTsariyaadhaan").
+entry(doty, adj, [], "DOTIER DOTIESTfinnee caccabduun").
+entry(double, v, [doubled,doubling,doubles], "akka lama ta'u qabaachuuf").
+galii(dabbaluu, n, [dabbalani], "isa bakka lama godhu").
+entry(doublet, n, [doublets], "kotii quufama addeemtu").
+entry(dachaasuu, yeroo_amma, [], "qooda maqdii dachaasuu")
+entry(doubloon, n, [doubloons], "gubee warqii Xaaliyaanii kan durii").
+entry(doublure, n, [doublures], "cidhahaa jildi kitaabaa").
+entry(doubly, adv, [doubters], "one that doubtsDOUBTFUL adj uncertainDOUCE adj DOUCER DOUCESTsober sedateDOUCELY advDOUCEUR n pl DOUCEURSa gratuityDOUCHE v DOUCHED DOUCHING DOUCHESto cleanse with a jet of waterDOUCHING n pl DOUCHINGSa cleansing with a jet of waterDOUGH n pl DOUGHSa flour mixtureDOUGHBOY n pl DOUGHBOYSan infantrymanDOUGHIER comparative of doughyDOUGHIEST superlative of doughyDOUGHNUT n pl DOUGHNUTSa ringshaped cakeDOUGHT a past tense of dowDOUGHTY adj DOUGHTIER DOUGHTIESTcourageousDOUGHY adj DOUGHIER DOUGHIESTresembling doughDOULA n pl DOULASa woman who assists another woman during childbirthDOUM n pl DOUMSan African palm treeDOUMA n pl DOUMASdumaDOUPIONI n pl DOUPIONISa silk yarnDOUR adj DOURER DOURESTsullenDOURA n pl DOURASdurraDOURAH n pl DOURAHSdurraDOURINE n pl DOURINESa disease of horsesDOURLY adv in a dour mannerDOURNESS n pl DOURNESSESthe state of being dourDOUSE v DOUSED DOUSING DOUSESto plunge into waterDOUSER n pl DOUSERSone that dousesDOUT v DOUTED DOUTING DOUTSto extinguish as a fireDOUX adj very sweet used of champagneDOUZEPER n pl DOUZEPERSone of twelve legendary knightsDOVE n pl DOVESa bird of the pigeon familyDOVECOT n pl DOVECOTSdovecoteDOVECOTE n pl DOVECOTESa roost for domesticated pigeonsDOVEKEY n pl DOVEKEYSdovekieDOVEKIE n pl DOVEKIESa seabirdDOVELIKE adj resembling or suggestive of a doveDOVEN v DOVENED DOVENING DOVENSto davenDOVETAIL v DOVETAILED DOVETAILING DOVETAILSto fit together closelyDOVISH adj not warlikeDOW v DOWED or DOUGHT DOWING DOWSto prosperDOWABLE adj entitled to an endowmentDOWAGER n pl DOWAGERSa dignified elderly womanDOWDY adj DOWDIER DOWDIESTlacking in stylishness or neatnessDOWDILY advDOWDYISH adjDOWDY n pl DOWDIESa dowdy womanDOWEL v DOWELED DOWELING DOWELS or DOWELLED DOWELLING DOWELSto fasten with wooden pinsDOWELING n pl DOWELINGSa cylindrical rodDOWER v DOWERED DOWERING DOWERSto provide with a dowryDOWERY n pl DOWERIESdowryDOWIE adj drearyDOWN v DOWNED DOWNING DOWNSto cause to fallDOWNBEAT n pl DOWNBEATSthe first beat of a musical measureDOWNBOW n pl DOWNBOWSa type of stroke in playing a bowed instrumentDOWNCAST n pl DOWNCASTSan overthrow or ruinDOWNCOME n pl DOWNCOMESdownfallDOWNER n pl DOWNERSa depressant drugDOWNFALL n pl DOWNFALLSa sudden fallDOWNHAUL n pl DOWNHAULSa rope for hauling down sailsDOWNHILL n pl DOWNHILLSa downward slopeDOWNHOLE adj used down or in an oil wellDOWNIER comparative of downyDOWNIEST superlative of downyDOWNILY adv in a downy mannerDOWNLAND n pl DOWNLANDSa rolling treeless uplandDOWNLESS adj having no down soft furry feathersDOWNLIKE adj resembling downDOWNLINK v DOWNLINKED DOWNLINKING DOWNLINKSto transmit data from a satellite to earthDOWNLOAD v DOWNLOADED DOWNLOADING DOWNLOADSto transfer data from a large computer to a smaller oneDOWNPIPE n pl DOWNPIPESa pipe for draining water from a roofDOWNPLAY v DOWNPLAYED DOWNPLAYING DOWNPLAYSto deemphasizeDOWNPOUR n pl DOWNPOURSa heavy rainDOWNRATE v DOWNRATED DOWNRATING DOWNRATESto make lower in valueDOWNSIDE n pl DOWNSIDESa negative aspectDOWNSIZE v DOWNSIZED DOWNSIZING DOWNSIZESto produce in a smaller sizeDOWNSPIN n pl DOWNSPINSa spinning motionDOWNTICK n pl DOWNTICKSa stock market transactionDOWNTIME n pl DOWNTIMESthe time when a machine or factory is inactiveDOWNTOWN n pl DOWNTOWNSthe business district of a cityDOWNTROD adj oppressedDOWNTURN n pl DOWNTURNSa downward turnDOWNWARD adv from a higher to a lower placeDOWNWARP n pl DOWNWARPSa broad surface depressionDOWNWASH n pl DOWNWASHESa downward deflection of airDOWNWIND adv in the direction that the wind blowsDOWNY adj DOWNIER DOWNIESTsoftDOWNZONE v DOWNZONED DOWNZONING DOWNZONESto reduce or limit the number of buildings permittedDOWRY n pl DOWRIESthe money or property a wife brings to her husband at marriageDOWSABEL n pl DOWSABELSa sweetheartDOWSE v DOWSED DOWSING DOWSESto search for underground water with a divining rodDOWSER n pl DOWSERSone that dowsesDOWSING n pl DOWSINGSa technique for searching for underground waterDOXIE n pl DOXIESdoxyDOXOLOGY n pl DOXOLOGIESa hymn or verse of praise to GodDOXY n pl DOXIESa doctrineDOYEN n pl DOYENSthe senior member of a groupDOYENNE n pl DOYENNESa female doyenDOYLEY n pl DOYLEYSdoilyDOYLY n pl DOYLIESdoilyDOZE v DOZED DOZING DOZESto sleep lightlyDOZEN v DOZENED DOZENING DOZENSto stunDOZENTH n pl DOZENTHStwelfthDOZER n pl DOZERSone that dozesDOZIER comparative of dozyDOZIEST superlative of dozyDOZILY adv in a dozy mannerDOZINESS n pl DOZINESSESthe state of being dozyDOZING present participle of dozeDOZY adj DOZIER DOZIESTdrowsyDRAB adj DRABBER DRABBESTcheerlessDRAB v DRABBED DRABBING DRABSto consort with prostitutesDRABBET n pl DRABBETSa coarse linen fabricDRABBLE v DRABBLED DRABBLING DRABBLESto draggleDRABLY adv in a drab mannerDRABNESS n pl DRABNESSESthe quality of being drabDRACAENA n pl DRACAENASa tropical plantDRACENA n pl DRACENASdracaenaDRACHM n pl DRACHMSa unit of weightDRACHMA n pl DRACHMAS DRACHMAE or DRACHMAIa former monetary unit of GreeceDRACONIC adj pertaining to a dragonDRAFF n pl DRAFFSthe damp remains of malt after brewingDRAFFISH adj draffyDRAFFY adj DRAFFIER DRAFFIESTworthlessDRAFT v DRAFTED DRAFTING DRAFTSto conscript for military serviceDRAFTEE n pl DRAFTEESone that is draftedDRAFTER n pl DRAFTERSone that draftsDRAFTING n pl DRAFTINGSmechanical drawingDRAFTY adj DRAFTIER DRAFTIESThaving or exposed to currents of airDRAFTILY advDRAG v DRAGGED DRAGGING DRAGSto pull along the groundDRAGEE n pl DRAGEESa sugarcoated candyDRAGGER n pl DRAGGERSone that dragsDRAGGIER comparative of draggyDRAGGIEST superlative of draggyDRAGGING present participle of dragDRAGGLE v DRAGGLED DRAGGLING DRAGGLESto make wet and dirtyDRAGGY adj DRAGGIER DRAGGIESTsluggishDRAGLINE n pl DRAGLINESa line used for draggingDRAGNET n pl DRAGNETSa net for trawlingDRAGOMAN n pl DRAGOMANS or DRAGOMENan interpreter in Near Eastern countriesDRAGON n pl DRAGONSa mythical monster resembling a serpentDRAGONET n pl DRAGONETSa marine fishDRAGOON v DRAGOONED DRAGOONING DRAGOONSto harass by the use of troopsDRAGROPE n pl DRAGROPESa rope used for draggingDRAGSTER n pl DRAGSTERSa vehicle used in drag racingDRAIL n pl DRAILSa heavy fishhookDRAIN v DRAINED DRAINING DRAINSto draw off a liquidDRAINAGE n pl DRAINAGESthe act of drainingDRAINER n pl DRAINERSone that drainsDRAKE n pl DRAKESa male duckDRAM v DRAMMED DRAMMING DRAMSto tippleDRAMA n pl DRAMASa composition written for theatrical performanceDRAMADY n pl DRAMADIESdramedyDRAMATIC adj pertaining to dramaDRAMEDY n pl DRAMEDIESa sitcom having dramatic scenesDRAMMED past tense of dramDRAMMING present participle of dramDRAMMOCK n pl DRAMMOCKSraw oatmeal mixed with cold waterDRAMSHOP n pl DRAMSHOPSa barroomDRANK past tense of drinkDRAPE v DRAPED DRAPING DRAPESto arrange in graceful foldsDRAPABLE adjDRAPER n pl DRAPERSa dealer in clothDRAPERY n pl DRAPERIEScloth arranged in graceful foldsDRAPEY adj characterized by graceful foldsDRAPING present participle of drapeDRASTIC adj extremely severeDRAT v DRATTED DRATTING DRATSto damnDRAUGHT v DRAUGHTED DRAUGHTING DRAUGHTSto draftDRAUGHTY adj DRAUGHTIER DRAUGHTIESTdraftyDRAVE a past tense of driveDRAW v DREW DRAWN DRAWING DRAWSto move by pullingDRAWABLE adjDRAWBACK n pl DRAWBACKSa hindranceDRAWBAR n pl DRAWBARSa railroad couplerDRAWBORE n pl DRAWBORESa hole for joining a mortise and tenonDRAWCORD n pl DRAWCORDSa cord for drawing a garment tightDRAWDOWN n pl DRAWDOWNSa lowering of a water levelDRAWEE n pl DRAWEESthe person on whom a bill of exchange is drawnDRAWER n pl DRAWERSone that drawsDRAWING n pl DRAWINGSa portrayal in lines of a form or figureDRAWL v DRAWLED DRAWLING DRAWLSto speak slowly with vowels greatly prolongedDRAWLER n pl DRAWLERSone that drawlsDRAWLY adj DRAWLIER DRAWLIESTmarked by drawlingDRAWN past participle of drawDRAWTUBE n pl DRAWTUBESa tube that slides within another tubeDRAY v DRAYED DRAYING DRAYSto transport by dray a low strong cartDRAYAGE n pl DRAYAGEStransportation by drayDRAYMAN n pl DRAYMENone who drives a drayDREAD v DREADED DREADING DREADSto fear greatlyDREAD adj DREADER DREADESTfrighteningDREADFUL n pl DREADFULSa publication containing sensational materialDREAM v DREAMED or DREAMT DREAMING DREAMSto have a dream a series of images occurring during sleepDREAMER n pl DREAMERSone that dreamsDREAMFUL adj dreamyDREAMY adj DREAMIER DREAMIESTfull of dreamsDREAMILY advDREAR n pl DREARSthe state of being drearyDREAR adj DREARER DREARESTdrearyDREARY adj DREARIER DREARIESTdismalDREARILY advDREARY n pl DREARIESa dismal personDRECK n pl DRECKSrubbishDRECKISH adjDRECKY adj DRECKIER DRECKIESTtrashyDREDGE v DREDGED DREDGING DREDGESto clear with a dredge a machine for scooping mudDREDGER n pl DREDGERSone that dredgesDREDGING n pl DREDGINGSmatter that is dredged upDREE v DREED DREEING DREESto sufferDREG n pl DREGSthe sediment of liquorsDREGGISH adjDREGGY adj DREGGIER DREGGIESTfull of dregsDREICH adj drearyDREIDEL n pl DREIDELSa spinning toyDREIDL n pl DREIDLSdreidelDREIGH adj dreichDREK n pl DREKSdreckDREKKISH adjDREKKY adj DREKKIER DREKKIESTdreckyDRENCH v DRENCHED DRENCHING DRENCHESto wet thoroughlyDRENCHER n pl DRENCHERSone that drenchesDRESS v DRESSED or DREST DRESSING DRESSESto put clothes onDRESSAGE n pl DRESSAGESthe training of a horse in obedience and deportmentDRESSER n pl DRESSERSone that dressesDRESSING n pl DRESSINGSmaterial applied to cover a woundDRESSY adj DRESSIER DRESSIESTstylishDRESSILY advDREST a past tense of dressDREW past tense of drawDRIB v DRIBBED DRIBBING DRIBSto dripDRIBBLE v DRIBBLED DRIBBLING DRIBBLESto drivelDRIBBLER n pl DRIBBLERSone that dribblesDRIBBLET n pl DRIBBLETSdribletDRIBBLING present participle of dribbleDRIBBLY adj tending to dribbleDRIBLET n pl DRIBLETSa small drop of liquidDRIED past tense of dryDRIEGH adj drearyDRIER n pl DRIERSone that driesDRIES present 3d person sing of dryDRIEST a superlative of dryDRIFT v DRIFTED DRIFTING DRIFTSto move along in a currentDRIFTAGE n pl DRIFTAGESthe act of driftingDRIFTER n pl DRIFTERSone that driftsDRIFTNET n pl DRIFTNETSa large fishnet arranged to drift with the tide or currentDRIFTPIN n pl DRIFTPINSa metal rod for securing timbersDRIFTY adj DRIFTIER DRIFTIESTfull of drifts masses of winddriven snowDRILL v DRILLED DRILLING DRILLSto bore a hole inDRILLER n pl DRILLERSone that drillsDRILLING n pl DRILLINGSa heavy twilled cotton fabricDRILY adv drylyDRINK v DRANK DRUNK DRINKING DRINKSto swallow liquidDRINKER n pl DRINKERSone that drinksDRINKING n pl DRINKINGSa habit of drinking alcoholic beveragesDRIP v DRIPPED or DRIPT DRIPPING DRIPSto fall in dropsDRIPLESS adj designed not to dripDRIPPER n pl DRIPPERSsomething from which a liquid dripsDRIPPING n pl DRIPPINGSjuice drawn from meat during cookingDRIPPY adj DRIPPIER DRIPPIESTvery wetDRIPPILY advDRIPT a past tense of dripDRIVE v DROVE or DRAVE DRIVEN DRIVING DRIVESto urge or propel forwardDRIVABLE adjDRIVEL v DRIVELED DRIVELING DRIVELS or DRIVELLED DRIVELLING DRIVELSto let saliva flow from the mouthDRIVELER n pl DRIVELERSone that drivelsDRIVER n pl DRIVERSone that drivesDRIVEWAY n pl DRIVEWAYSa private road providing access to a buildingDRIVING n pl DRIVINGSmanagement of a motor vehicleDRIZZLE v DRIZZLED DRIZZLING DRIZZLESto rain lightlyDRIZZLY adj DRIZZLIER DRIZZLIESTcharacterized by light rainDROGUE n pl DROGUESa sea anchorDROID n pl DROIDSan androidDROIT n pl DROITSa legal rightDROKE n pl DROKESa grove of treesDROLL adj DROLLER DROLLESTcomicalDROLL v DROLLED DROLLING DROLLSto jestDROLLERY n pl DROLLERIESsomething drollDROLLY adv in a droll mannerDROMON n pl DROMONSdromondDROMOND n pl DROMONDSa large fastsailing medieval galleyDRONE v DRONED DRONING DRONESto make a continuous low soundDRONER n pl DRONERSone that dronesDRONGO n pl DRONGOS or DRONGOESa tropical birdDRONISH adj habitually lazyDROOL v DROOLED DROOLING DROOLSto drivelDROOLY adj DROOLIER DROOLIESTdroolingDROOP v DROOPED DROOPING DROOPSto hang downwardDROOPY adj DROOPIER DROOPIESTdroopingDROOPILY advDROP v DROPPED or DROPT DROPPING DROPSto fall in drops globulesDROPHEAD n pl DROPHEADSa convertible carDROPKICK n pl DROPKICKSa type of kick in footballDROPLET n pl DROPLETSa tiny dropDROPOUT n pl DROPOUTSone who quits school prematurelyDROPPED a past tense of dropDROPPER n pl DROPPERSa tube for dispensing liquid in dropsDROPPING n pl DROPPINGSsomething that has been droppedDROPSEED n pl DROPSEEDSa type of grassDROPSHOT n pl DROPSHOTSa type of shot in tennisDROPSY n pl DROPSIESan excessive accumulation of serous fluidDROPSIED adjDROPT a past tense of dropDROPTOP n pl DROPTOPSa convertible automobileDROPWORT n pl DROPWORTSa perennial herbDROSERA n pl DROSERASa sundewDROSHKY n pl DROSHKIESan open carriageDROSKY n pl DROSKIESdroshkyDROSS n pl DROSSESwaste matterDROSSY adj DROSSIER DROSSIESTworthlessDROUGHT n pl DROUGHTSa dry periodDROUGHTY adj DROUGHTIER DROUGHTIESTdryDROUK v DROUKED DROUKING DROUKSto drenchDROUTH n pl DROUTHSdroughtDROUTHY adj DROUTHIER DROUTHIESTdroughtyDROVE v DROVED DROVING DROVESto drive cattle or sheepDROVER n pl DROVERSa driver of cattle or sheepDROVING n pl DROVINGSthe work of a droverDROWN v DROWNED DROWNING DROWNSto suffocate in waterDROWND v DROWNDED DROWNDING DROWNDSto drownDROWNER n pl DROWNERSone that drownsDROWSE v DROWSED DROWSING DROWSESto dozeDROWSY adj DROWSIER DROWSIESTsleepyDROWSILY advDRUB v DRUBBED DRUBBING DRUBSto beat severelyDRUBBER n pl DRUBBERSone that drubsDRUBBING n pl DRUBBINGSa severe beatingDRUDGE v DRUDGED DRUDGING DRUDGESto do hard menial or tedious workDRUDGER n pl DRUDGERSone that drudgesDRUDGERY n pl DRUDGERIEShard menial or tedious workDRUG v DRUGGED DRUGGING DRUGSto affect with a drug a medicinal substanceDRUGGET n pl DRUGGETSa coarse woolen fabricDRUGGIE n pl DRUGGIESa drug addictDRUGGIST n pl DRUGGISTSa pharmacistDRUGGY adj DRUGGIER DRUGGIESTaffected by drugsDRUGLESS adj being without drugsDRUID n pl DRUIDSone of an ancient Celtic order of priestsDRUIDIC adjDRUIDESS n pl DRUIDESSESa female druidDRUIDISM n pl DRUIDISMSthe religious system of the druidsDRUM v DRUMMED DRUMMING DRUMSto beat a drum a percussion instrumentDRUMBEAT n pl DRUMBEATSthe sound of a drumDRUMBLE v DRUMBLED DRUMBLING DRUMBLESto move slowlyDRUMFIRE n pl DRUMFIRESheavy continuous gunfireDRUMFISH n pl DRUMFISHESa fish that makes a drumming soundDRUMHEAD n pl DRUMHEADSthe material stretched over the end of a drumDRUMLIKE adj resembling the head of a drumDRUMLIN n pl DRUMLINSa long hill of glacial driftDRUMLY adj DRUMLIER DRUMLIESTdark and gloomyDRUMMED past tense of drumDRUMMER n pl DRUMMERSone that drumsDRUMMING n pl DRUMMINGSthe act of beating a drumDRUMROLL n pl DRUMROLLSa roll played on a drumDRUNK adj DRUNKER DRUNKESTintoxicatedDRUNK n pl DRUNKSa drunken personDRUNKARD n pl DRUNKARDSone who is habitually drunkDRUNKEN adj drunkDRUNKISH adj somewhat drunkDRUPE n pl DRUPESa fleshy fruitDRUPEL n pl DRUPELSdrupeletDRUPELET n pl DRUPELETSa small drupeDRUSE n pl DRUSESa crust of small crystals lining a rock cavityDRUTHER n pl DRUTHERSones preferenceDRY adj DRIER DRIEST or DRYER DRYESThaving no moistureDRY n pl DRYSa prohibitionistDRY v DRIED DRYING DRIESto make dryDRYABLE adjDRYAD n pl DRYADS or DRYADESa nymph of the woodsDRYADIC adjDRYAS n pl DRYASa flowering alpine plantDRYER n pl DRYERSdrierDRYISH adj somewhat dryDRYLAND n pl DRYLANDSan arid regionDRYLOT n pl DRYLOTSan enclosure for livestockDRYLY adv in a dry mannerDRYNESS n pl DRYNESSESthe state of being dryDRYPOINT n pl DRYPOINTSa method of engravingDRYSTONE adj constructed of stone without mortarDRYSUIT n pl DRYSUITSa waterproof rubber suit worn by diversDRYWALL v DRYWALLED DRYWALLING DRYWALLSto cover a wall with plasterboardDRYWELL n pl DRYWELLSa hole for receiving drainage from a roofDUAD n pl DUADSa pairDUAL n pl DUALSa linguistic formDUALISE v DUALISED DUALISING DUALISESto dualizeDUALISM n pl DUALISMSa philosophical theoryDUALIST n pl DUALISTSan adherent of dualismDUALITY n pl DUALITIESthe state of being twofoldDUALIZE v DUALIZED DUALIZING DUALIZESto make twofoldDUALLIE n pl DUALLIESduallyDUALLY n pl DUALLIESa pickup truck with double rear wheelsDUATHLON n pl DUATHLONSa longdistance race involving running and bicyclingDUB v DUBBED DUBBING DUBSto confer knighthood onDUBBER n pl DUBBERSone that dubsDUBBIN v DUBBINED DUBBINING DUBBINSto apply dubbing to leatherDUBBING n pl DUBBINGSmaterial for softening and waterproofing leatherDUBIETY n pl DUBIETIESthe state of being dubiousDUBIOUS adj doubtfulDUBNIUM n pl DUBNIUMSa radioactive elementDUBONNET n pl DUBONNETSa red colorDUBSTEP n pl DUBSTEPSa type of electronic dance musicDUCAL adj pertaining to a duke a highranking noblemanDUCALLY advDUCAT n pl DUCATSany of several gold coins formerly used in EuropeDUCE n pl DUCES or DUCIa leaderDUCHESS n pl DUCHESSESthe wife or widow of a dukeDUCHY n pl DUCHIESthe domain of a dukeDUCI a pl of duceDUCK v DUCKED DUCKING DUCKSto lower quicklyDUCKBILL n pl DUCKBILLSa platypusDUCKER n pl DUCKERSone that ducksDUCKIE adj duckyDUCKIER comparative of duckyDUCKIES pl of duckyDUCKIEST superlative of duckyDUCKISH n pl DUCKISHESduskDUCKLING n pl DUCKLINGSa young duckDUCKPIN n pl DUCKPINSa type of bowling pinDUCKTAIL n pl DUCKTAILSa style of haircutDUCKWALK v DUCKWALKED DUCKWALKING DUCKWALKSto walk in a squatting positionDUCKWEED n pl DUCKWEEDSan aquatic plantDUCKY adj DUCKIER DUCKIESTexcellentDUCKY n pl DUCKIESa darlingDUCT v DUCTED DUCTING DUCTSto convey through a duct a tubular passageDUCTAL adj made up of ductsDUCTILE adj easily molded or shapedDUCTING n pl DUCTINGSa system of ductsDUCTLESS adj being without a ductDUCTULE n pl DUCTULESa small ductDUCTWORK n pl DUCTWORKSa system of ductsDUD n pl DUDSa bomb that fails to explodeDUDDIE adj raggedDUDDY adj duddieDUDE v DUDED DUDING DUDESto dress up in flashy clothesDUDEEN n pl DUDEENSa short tobacco pipeDUDENESS n pl DUDENESSESthe state of being a dude a dandyDUDETTE n pl DUDETTESa dudish femaleDUDGEON n pl DUDGEONSa feeling of resentmentDUDING present participle of dudeDUDISH adj resembling a dude a dandyDUDISHLY adv in the manner of a dudeDUE n pl DUESsomething that is owedDUECENTO n pl DUECENTOSthe thirteenth centuryDUEL v DUELED DUELING DUELS or DUELLED DUELLING DUELSto fight formallyDUELER n pl DUELERSone that duelsDUELING n pl DUELINGSa contest between two persons with deadly weaponsDUELIST n pl DUELISTSa duelerDUELLER n pl DUELLERSduelerDUELLI a pl of duelloDUELLING n pl DUELLINGSduelingDUELLIST n pl DUELLISTSduelistDUELLO n pl DUELLOS or DUELLIthe art of dueling a duelDUENDE n pl DUENDEScharismaDUENESS n pl DUENESSESthe state of being owedDUENNA n pl DUENNASa governessDUET v DUETED DUETING DUETS or DUETTED DUETTING DUETSto perform a duet a musical composition for twoDUETTIST n pl DUETTISTSa participant in a duetDUFF v DUFFED DUFFING DUFFSto mishit a ball in golfDUFF adj DUFFER DUFFESTworthless uselessDUFFEL n pl DUFFELSa coarse woolen fabricDUFFER n pl DUFFERSa clumsy personDUFFLE n pl DUFFLESduffelDUFUS n pl DUFUSESdoofusDUG n pl DUGSthe teat or udder of a female mammalDUGONG n pl DUGONGSan aquatic mammalDUGOUT n pl DUGOUTSa canoe made by hollowing out a logDUH interj used to indicate that something just stated is too obviousDUI a pl of duoDUIKER n pl DUIKERSa small antelopeDUIT n pl DUITSdoitDUKE v DUKED DUKING DUKESto fightDUKEDOM n pl DUKEDOMSa duchyDULCE n pl DULCESa sweet food or drinkDULCET n pl DULCETSa softtoned organ stopDULCETLY adv melodiouslyDULCIAN n pl DULCIANSan early type of bassoonDULCIANA n pl DULCIANASa softtoned organ stopDULCIFY v DULCIFIED DULCIFYING DULCIFIESto sweetenDULCIMER n pl DULCIMERSa stringed instrumentDULCINEA n pl DULCINEASa sweetheartDULIA n pl DULIASveneration of saintsDULL adj DULLER DULLESTmentally slowDULL v DULLED DULLING DULLSto make less sharpDULLARD n pl DULLARDSa doltDULLISH adj somewhat dullDULLNESS n pl DULLNESSESthe state of being dullDULLY adv in a dull mannerDULNESS n pl DULNESSESdullnessDULSE n pl DULSESan edible seaweedDULY adv rightfullyDUM adj cooked with steamDUMA n pl DUMASa Russian councilDUMB adj DUMBER DUMBESTincapable of speechDUMB v DUMBED DUMBING DUMBSto make silentDUMBBELL n pl DUMBBELLSa weight lifted for muscular exerciseDUMBCANE n pl DUMBCANESa tropical plantDUMBHEAD n pl DUMBHEADSa stupid personDUMBLY adv in a dumb mannerDUMBNESS n pl DUMBNESSESthe state of being dumbDUMBO n pl DUMBOSa stupid personDUMBSHOW n pl DUMBSHOWSa presentation in which communication is solely by signs and gesturesDUMBSIZE v DUMBSIZED DUMBSIZING DUMBSIZESto reduce the workforce so low that work cannot be done effectivelyDUMDUM n pl DUMDUMSa type of bulletDUMFOUND v DUMFOUNDED DUMFOUNDING DUMFOUNDSto astonishDUMKA n pl DUMKAS or DUMKYa Slavic folk balladDUMMKOPF n pl DUMMKOPFSa doltDUMMY v DUMMIED DUMMYING DUMMIESto make a representation ofDUMP v DUMPED DUMPING DUMPSto let fall heavilyDUMPCART n pl DUMPCARTSa type of cartDUMPER n pl DUMPERSone that dumpsDUMPIER comparative of dumpyDUMPIEST superlative of dumpyDUMPILY adv in a dumpy mannerDUMPING n pl DUMPINGSthe selling of large quantities of goods at below the market priceDUMPISH adj sadDUMPLING n pl DUMPLINGSa ball of dough cooked with stew or soupDUMPSITE n pl DUMPSITESa place for dumping rubbishDUMPY adj DUMPIER DUMPIESTshort and thickDUN adj DUNNER DUNNESTof a dull brown colorDUN v DUNNED DUNNING DUNSto make demands upon for payment of a debtDUNAM n pl DUNAMSa unit of land measure in IsraelDUNCE n pl DUNCESa stupid personDUNCICAL DUNCISH adjDUNCH n pl DUNCHESa pushDUNE n pl DUNESa hill of sandDUNELIKE adjDUNELAND n pl DUNELANDSan area having many dunesDUNG v DUNGED DUNGING DUNGSto fertilize with manureDUNGAREE n pl DUNGAREESa coarse cotton fabricDUNGEON v DUNGEONED DUNGEONING DUNGEONSto confine in a dungeon an underground prisonDUNGHEAP n pl DUNGHEAPSa dunghillDUNGHILL n pl DUNGHILLSa heap of manureDUNGY adj DUNGIER DUNGIESTfilthyDUNITE n pl DUNITESan igneous rockDUNITIC adjDUNK v DUNKED DUNKING DUNKSto dip into liquidDUNKER n pl DUNKERSone that dunksDUNKING n pl DUNKINGSthe act of dipping something into liquidDUNLIN n pl DUNLINSa wading birdDUNNAGE n pl DUNNAGESpacking material used to protect cargoDUNNED past tense of dunDUNNER comparative of dunDUNNESS n pl DUNNESSESthe state of being dunDUNNEST superlative of dunDUNNING present participle of dunDUNNITE n pl DUNNITESan explosiveDUNT v DUNTED DUNTING DUNTSto strike with a heavy blowDUO n pl DUOS or DUIan instrumental duetDUODENUM n pl DUODENUMS or DUODENAthe first portion of the small intestineDUODENAL adjDUOLOG n pl DUOLOGSduologueDUOLOGUE n pl DUOLOGUESa conversation between two personsDUOMO n pl DUOMOS or DUOMIa cathedralDUOPOLY n pl DUOPOLIESthe market condition existing when there are two sellers onlyDUOPSONY n pl DUOPSONIESthe market condition existing when there are two buyers onlyDUOTONE n pl DUOTONESan illustration in two tonesDUP v DUPPED DUPPING DUPSto openDUPATTA n pl DUPATTAS a scarf or headdress worn by some Muslim womenDUPE v DUPED DUPING DUPESto deceiveDUPABLE adjDUPER n pl DUPERSone that dupesDUPERY n pl DUPERIESthe act of dupingDUPING n pl DUPINGSthe act of duplicating somethingDUPION n pl DUPIONSa type of silk fabricDUPLE adj having two parts or elementsDUPLET n pl DUPLETSa set of two of one kindDUPLEX v DUPLEXED DUPLEXING DUPLEXESto make dupleDUPLEXER n pl DUPLEXERSan electronic switching deviceDUPPED past tense of dupDUPPING present participle of dupDURA n pl DURASdurraDURABLE adj able to withstand wear or decayDURABLY advDURABLES npl durable goodsDURAL adj of the dura mater a brain membraneDURAMEN n pl DURAMENSthe central wood of a treeDURANCE n pl DURANCESrestraint by or as if by physical forceDURATION n pl DURATIONScontinuance in timeDURATIVE n pl DURATIVESa type of verbDURBAR n pl DURBARSthe court of a native ruler in IndiaDURE v DURED DURING DURESto endureDURESS n pl DURESSEScompulsion by threatDURIAN n pl DURIANSan East Indian treeDURION n pl DURIONSdurianDURMAST n pl DURMASTSa European oakDURN v DURNED DURNING DURNSto damnDURNED adj DURNEDER DURNEDEST or DURNDESTdamnedDURO n pl DUROSa Spanish silver dollarDUROC n pl DUROCSa large red hogDURR n pl DURRSdurraDURRA n pl DURRASa cereal grainDURRIE n pl DURRIESdhurrieDURST a past tense of dareDURUM n pl DURUMSa kind of wheatDUSK v DUSKED DUSKING DUSKSto become darkDUSKISH adj duskyDUSKY adj DUSKIER DUSKIESTsomewhat darkDUSKILY advDUST v DUSTED DUSTING DUSTSto make free of dust minute particles of matterDUSTBALL n pl DUSTBALLSa ball of dustDUSTBIN n pl DUSTBINSa trash canDUSTCART n pl DUSTCARTSa garbage truckDUSTER n pl DUSTERSone that dustsDUSTHEAP n pl DUSTHEAPSa pile of trashDUSTIER comparative of dustyDUSTIEST superlative of dustyDUSTILY adv in a dusty mannerDUSTING n pl DUSTINGSa light sprinklingDUSTLESS adj being without dustDUSTLIKE adj resembling dustDUSTMAN n pl DUSTMENa trashmanDUSTOFF n pl DUSTOFFSa military helicopter for evacuating the woundedDUSTPAN n pl DUSTPANSa pan for holding swept dustDUSTRAG n pl DUSTRAGSa rag used for dustingDUSTUP n pl DUSTUPSan argumentDUSTY adj DUSTIER DUSTIESTfull of dustDUTCH adv with each person paying for himselfDUTCHMAN n pl DUTCHMENsomething used to hide structural defectsDUTEOUS adj dutifulDUTIABLE adj subject to import taxDUTIFUL adj obedientDUTY n pl DUTIESa moral or legal obligationDUUMVIR n pl DUUMVIRS or DUUMVIRIa magistrate of ancient RomeDUVET n pl DUVETSa downfilled bed coveringDUVETINE n pl DUVETINESduvetynDUVETYN n pl DUVETYNSa soft fabricDUVETYNE n pl DUVETYNESduvetynDUXELLES n pl DUXELLESa garnish or sauce with minced mushroomsDUYKER n pl DUYKERSduikerDWALE n pl DWALESa poisonous plant with purple flowersDWARF adj DWARFER DWARFESTextremely smallDWARF n pl DWARFS or DWARVESan extremely small personDWARF v DWARFED DWARFING DWARFSto cause to appear smallDWARFISH adj resembling a dwarfDWARFISM n pl DWARFISMSa condition of stunted growthDWARVES a pl of dwarfDWEEB n pl DWEEBSan unattractive or inept personDWEEBISH adjDWEEBY adj DWEEBIER DWEEBIESTsocially ineptDWELL v DWELT or DWELLED DWELLING DWELLSto resideDWELLER n pl DWELLERSone that dwellsDWELLING n pl DWELLINGSa place of residenceDWINDLE v DWINDLED DWINDLING DWINDLESto decrease steadilyDWINE v DWINED DWINING DWINESto pine or waste awayDYABLE adj dyeableDYAD n pl DYADSa pair of unitsDYADIC n pl DYADICSa sum of mathematical dyadsDYARCHY n pl DYARCHIESdiarchyDYARCHAL DYARCHIC adjDYBBUK n pl DYBBUKS or DYBBUKIMa wandering soul in Jewish folkloreDYE v DYED DYEING DYESto treat with a dye a coloring matterDYEABLE adj capable of being dyedDYEING n pl DYEINGSsomething colored with a dyeDYER n pl DYERSone that dyesDYESTUFF n pl DYESTUFFSa dyeDYEWEED n pl DYEWEEDSa shrub that yields a yellow dyeDYEWOOD n pl DYEWOODSa wood from which a dye is extractedDYING n pl DYINGSa passing out of existenceDYKE v DYKED DYKING DYKESto dikeDYNAMIC n pl DYNAMICSa physical forceDYNAMISM n pl DYNAMISMSa theory that explains the universe in terms of force or energyDYNAMIST n pl DYNAMISTSan adherent of dynamismDYNAMITE v DYNAMITED DYNAMITING DYNAMITESto blow up with a powerful explosiveDYNAMO n pl DYNAMOSa generatorDYNAST n pl DYNASTSa rulerDYNASTY n pl DYNASTIESa succession of rulers from the same line of descentDYNASTIC adjDYNATRON n pl DYNATRONSa type of electron tubeDYNE n pl DYNESa unit of forceDYNEIN n pl DYNEINSan enzyme involved in cell movementDYNEL n pl DYNELSa synthetic fiberDYNODE n pl DYNODESa type of electrodeDYSGENIC adj causing the deterioration of hereditary qualitiesDYSLALIA n pl DYSLALIASthe inability to articulate speechDYSLEXIA n pl DYSLEXIASimpairment of the ability to readDYSLEXIC n pl DYSLEXICSone who is affected with dyslexiaDYSPEPSY n pl DYSPEPSIESindigestionDYSPNEA n pl DYSPNEASlabored breathingDYSPNEAL DYSPNEIC adjDYSPNOEA n pl DYSPNOEASdyspneaDYSPNOIC adjDYSTAXIA n pl DYSTAXIASa form of muscular tremorDYSTOCIA n pl DYSTOCIASdifficult labor and delivery in childbirthDYSTONIA n pl DYSTONIASa condition of disordered tonicity of muscle tissueDYSTONIC adjDYSTOPIA n pl DYSTOPIASa wretched placeDYSURIA n pl DYSURIASpainful urinationDYSURIC adjDYVOUR n pl DYVOURSone who is bankrupt").
+entry(each, adj, [], "ta'u qaba tokko ykn lama ykn baayyee addaddaa ta'an keessaa").
+galii(eager, adj, [], "EAGERER EAGERESTimpatiently longingEAGERLY adv").
+entry(eager, n, [eagers], "eagre").
+entry(haraanqee, v, [haraanaqeedha, haraanaqeessaa, haraanqootaan], "hanqina lamaan haraanqee galchuu").
+galmee(jaalala, n, [jaalala], "angafa simbirroota garagaraadha").
+entry(eagre, n, [eagres], "lubbidhaqa guddina misooma galaana faayidaa qabu").
+entry(eanling, n, [eanlings], "yeallinyii").
+entry(gurra, v, [gurranamee,gurrachuu,gurrarra], "uwwisa bajajaa midhaanii uumuuf").
+entry(ciinaa, n, [ciinaawwan], "dhukkubbii dhagaaʼuu qoricha ykn gurra keessa jira").
+entry(earbud, n, [dhaggeeffannoo xiqqaa], "dhaggeeffattoota xiqqoo").
+entry('eardrop', n, ['eardrops'], "alkallacha dhaguu").
+entry(eardrum, n, [eardrums], "seetee tiraafikii").
+entry(eared, adj, [], "kan gurra-qabe").
+entry(earflap, n, [earflaps], "kutaa koofiyadhaa kallacha haguuguuf qophaa'e").
+entry(earful, n, [earfuls], "yaada hafuuraa").
+entry(earhole, n, [earholes], "bocqul fiixee keessaa").
+entry(earing, n, [earings], "sarara akka jedhamu kan doonii irra jiru").
+entry(earl, n, [earls], "abbaa qabeenyaa Ingilizii").
+entry(earlap, n, [earlaps], "hidha gurra").
+entry(earldom, n, [earldoms], "sadarkaa hoogganaa").
+entry(earless, adj, [], "gaara dhabe").
+entry(kan dura, comparative, [], "of duraa").
+entry(earliest, superlative, [], "kan duraa").
+entry(qaroo_gurraa, n, [qarroowwan_gurraa], "kutaa gurraa").
+entry(earlock, n, [herregophoo], "bukoo guraa fii ciraa").
+entry(earlship, n, [earlships], "earldom").
+entry(kan ka'aa, adv, [], "KAN KAN KA'AA duraa dursee yookan kallatti irratti yeroo ammaa fi wantoota hiri'u").
+entry('qondaa\'uu', v, ['qondaa\'e','qondaa\'aa','qondaawwan'], "tajaajila addaaaf gargaara").
+entry(qafoo_qarqara, n, [qofa_qarqaroota], "tokko morma ukkaamachuufis ta’ee jilbiif hojjetamaa qophaa’e keessaa tokko").
+entry(earn, v, [earned,earning,earns], "argachuuf yookiin tajaajilaa ykn hojii namaa argachuu").
+entry(soorataa, n, [soorattoota], "kan bituu tokko").
+entry(earnest, n, [earnests], "kubee").
+entry(earnings, npl, [], "wanti argame").
+entry(qolofee, n, [qolofeewwan], "meeshaa dhaggeeffannaa gurra irra kaa'amu").
+entry(earpiece, n, [earpieces], "sagaagal-funyo").
+entry(rogessa, n, [rogessoota], "dhaggeeffannoo hir’isuuf jiru waa xinxalee").
+entry(qalluu, n, [qalloonni], "faayidaa gara cuqaa gurraati").
+entry(earshot, n, [earshots], "daangaa sagalee dhagahamuun danda'amu").
+entry(earstone, n, [earstones], "otolith").
+entry(dachii, v, [dachiifame,dachiihaamaa,dachiis], "lafa dachiitiin haguuguuf").
+entry(earthen, maq, [], "kan lafa irraa hojjetame").
+entry(earthier, comparative, [], "kan lafaatti").
+entry(earthiest, superlative, [], "isa lafa irraa").
+gala(dhakaa, adv, [], "akka lafaatti").
+dhiyeessaa(earthly, maqaallee, [], "EARTHLIER EARTHLIESTworldly").
+entry(dhiira_lafa, n, [dhiira_lafa], "nama lafa irra jiru").
+entry(earthnut, n, [earthnuts], "xurumbaa Awrooppaa").
+entry(earthpea, n, [earthpeas], "biqiltuu naannoo gulufa").
+entry(earthset, n, [earthsets], "sagantaa lafa kan argaa ji'a irraa").
+entry(earthy, adj, [], "AKKAA LAFAATTI YKN LAFA HIMUU hojjechuu yookiin agarsiisuu").
+entry(qaawwa, n, [qaawwanii], "cerumen").
+entry(earwig, v, [earwigged,earwigging,earwigs], "nik'ita irratti dhoksaan balaaleffachuu").
+entry(hamtu-fincaan, n, [hamtu-fincaanaa], "dirree qonnaa fincaan itti heddummatu").
+entry(ease, v, [eased,easing,eases], "quphaa'ina yookin boqonnaa kennuuf").
+entry(easeful, aj, [], "dinquu").
+entry(easel, n, [easels], "qaama sadi qabuEASELED adj").
+itti galma'aa(easement, n, [easements], "bu'aa").
+entry(easer, v, [easers], "kan ariifachiisu tokko").
+entry(adda, kan madaalawa, [], "kan salphaa").
+entry(easies, pl, [], "kan salphina").
+entry(fudhatamaafi, superlative, [], "kan salphaa").
+entry(easily, adv, [], "baay'ee salphatti").
+galii(fayyummaa, n, [fayyummaawwan], "haala salphaa ta'uu").
+entry(easing, present, [], "participle of ease").
+entry(bahaa, l, [bahaa], "murtii barbaachisaa keessatti bakka tokko agarsiisuudha").
+entry(easter, n, [easters], "daamaka ykn cabbi dheerinni isaa gara bahaa irraa dhufe").
+entry(easterly, n, [easterlies], "kaan badaan ka’u").
+entry(eastern, adj, [], "ta'uu gara bahaatti yookaan bahaarra jiraachuu").
+galmee(baha, n, [bahani], "socho'isa gara bahaatti").
+entry(eastward, n, [eastwards], "karra gara bahaa").
+entry(fududaa, adj, [], "FUDUDAA FUDUDDAAnot rakkisaa").
+entry(fududaa, n, [fududootaa], "jecha amantaa qubee E jedhamuuf").
+entry(foo, v, [nyaata, nyaate, nyaachisaa], "NYAACHISAtogee").
+entry(eatable, n, [eatables], "kan nyaatamu").
+entry(nyaataa, n, [nyaataan], "kan nyaatu").
+entry("soorata", n, ["sooramoo"], "kutaa nyaataa").
+entry(eath, ejj, [], "salphaa").
+entry(nyaachuun, n, [nyaachuu], "raashanii nyaachuu").
+entry(eau, n, [eaux], "bishaan; bishaan halluu hin qabne, dhandhama hin qabne, urgaa hin qabne").
+galmee(eave, n, [eaves], "qaawwa gadi mudhii saafiiti, EAVED adj").
+galmee(ebb, v, [ebbed,ebbing,ebbs], "duubatti sorooruu").
+entry(ebbet, n, [ebbets], "kotichi magariisa ammoo haaraa").
+entry(ebon, n, [ebons], "eebonii").
+entry(ebonics, npl, [], "dhaamsa Afaan Ingliffaa kan Afrikaan-Ameerikaawwan tokko tokkoon dubbatamu").
+entry(ebonies, pl, [], "afurii_handhuuraa").
+entry(ebonise, v, [ebonised, ebonising, ebonises], "gabbisuu").
+galmee(ebonite, n, [ebonites], "lullee jabaa").
+entry(ebbisa, v, [ebbise,ebbisuu,ebbisa], "dammaqsaan waraansa abaaraa akka mukaa ejersi saaxiluu").
+entry(ebonii, n, [eboniwwan], "muka jabaa fi ulfaataa").
+entry(ebook, n, [ebooks], "meeshaalee kitaabota seeraan ala keessatti dubbisuuf").
+entry(ecarte, n, [ecartes], "ciyaara kaardii").
+entry(ecaudate, adj, [], "kan dugda hin qabne").
+entry(ecbolic, n, [ecbolics], "homishi sanyii").
+entry(ecclesia, n, [ecclesiae], "walga’ii yeroo durii Giriik" keessa turu).
+entry(eccrine, adj, [], "bajjii alaan dhangalaasan oomishu").
+galmee(ecdysis, n, [ecdyses], "baafannaa kottee alaa isaanii gufuuECDYSIAL adj").
+entry(ecdyson, n, [ecdysons], "ecdysone").
+entry(ecdysoni, n, [ecdysonota], "hormooni bifa margaa bakka ciisuu).").
+entry(ecesis, n, [ecesises], "bu’uura bultoota ykn lubbu-qabeeyyii iddooo haaraattiECESIC adj").
+entry(echappe, adj, [], "sochii miilota man'ee irraa gara iddoo banaatti kan baalletiin").
+entry(echard, n, [echards], "bishaan lafa jiru kan biqiloota hin fayyadne").
+entry(eche, v, [eched,eching,eches], "dabaluu").
+entry(echelle, n, [echelles], "meeshaa ifa gara gosoota isaa adda baafachuuf oofuuf").
+entry(echelon, v, [echeloned, echeloning, echelons], "akkaataan tokko keessatti gurmeessuu").
+entry(echidna, n, [echidnas], "or ECHIDNAEa spiny anteater").
+entry(echinate, adj, [], "cabuu").
+entry(eching, present, [], "galaagura 'eche'").
+entry(echinoid, n, [echinoids], "beeyladaa galaanaa kan unguulee qabu").
+entry(echinus, n, [echini], "echinoid dha").
+entry(echo, n, [echos], "yookiin ECHOES deebiin sagalee kan daafii sagalee irraa dhufee").
+entry(echo, v, [daddafi, daddachuu, daddafa], "sagalee deebisuuf").
+seensa(echoer, n, [echoers], "namni kan dhaamsa deebisu").
+entry(echoey, adj, [], "waa guutuu dhageettii deebii").
+entry(echogram, n, [echograms], "galmee kan uuman meeshaa kan uulaasorikii ittiin fayyadamu").
+entry(echoic, ajj, [], "kan illee kakaasu fakkaatu").
+galmee(echoism, n, [echoisms], "jechoota sagalee fakkeessuun uumuu").
+entry(echoless, adj, [], "sagalee eessa hin deebisne/hin dhageessisne").
+entry(echt, adj, [], "dhugaa").
+entry(eclair, n, [eclairs], "gosa nyaata").
+entry(eclat, n, [eclats], "ulfaadhaa").
+entry(eclectic, n, [eclectics], "namni yaada isaa maddoota garaagaraa irraa fuudhu").
+entry(dagaagaa, v, [dagaage,dagaagaa,dagaaguu], "dachaa'uu").
+entry(eclipser, n, [eclipsers], "kan dukkana taasisa tokko").
+entry(eclipsis, n, [eclipsises], "or ECLIPSESan ellipsis").
+galii(ecliptic, n, [ecliptics], "sagantaa looni astronomical").
+entry(eclogite, n, [eclogites], "gogorrii gosga’a").
+entry(eclogue, n, [eclogues], "weedduu lafa bosonaa").
+entry(eclose, v, [eclosed,eclosing,ecloses], "baqattoota akka biqiltuu irraa ba'uu").
+entry(eclosion, n, [eclosions], "bayyina ifta of dharashee qubee keessaa").
+entry(eco, n, [ecos], "ekaaloji").
+entry(ecocide, n, [ecocides], "balleessa naannoo uumamaaECOCIDAL adj").
+entry(ecofreak, n, [ecofreaks], "ti nafi waldhaansoo naannawaa").
+entry(ecogift, n, [ecogifts], "kenna lafa tokkolle mootummaaf ilaalcha naannawa naannawummaa").
+entry(ecology, n, [ecologies], "beelladoonfata fi naannoo naannoo ilaaluECOLOGIC adj").
+entry(econobox, n, [econoboxes], "kirrii xiqqoo fi duraa hinfaynne").
+galmee(economic, adj, [], "kan dhimma maallaqa irratti walqabatu").
+entry(economy, n, [economies], "naqattoodhaan").
+entry(ecorche, n, [ecorches], "suura yaa fiizikaalawa kan foon isaa saaxilame mul'isu").
+entry(ecotage, n, [ecotages], "raawwii dararaa naannoo uumamaa eeguu keessatti").
+entry(ecotone, n, [ecotones], "gosa naannoo ekolojiiECOTONAL adj").
+entry(ecotopia, n, [ecotopias], "naannoo ykn hawaasa haala naatirallee guutuu ta'e").
+entry(ecotour, n, [ecotours], "daawwannaa ijaarsa uumaa").
+entry(ecotype, n, [ecotypes], "handaara garagaraaf mijate tokkoECOTYPIC adj").
+entry(ecozone, n, [ecozones], "meesha baay’ee dhaabbattee bu’a daarii").
+galii(ecraseur, n, [ecraseurs], " meesha fayyaa qorsa").
+entry(ecru, n, [ecrus], "akka halluu diimaa qaaraa").
+entry(ecstasy, n, [ecstasies], "haala gammachuu guddaa").
+entry(ecstatic, n, [ecstatics], "kan ecstasy fayadamu").
+entry(ectasis, n, [ectases], "dheereffama dirree gabaabaa kan ta'eECTATIC adj").
+entry(ecthyma, n, [ecthymata], "dhukkuba vaayirasii").
+entry(ectoderm, n, [ectoderms], "kutaa alaa sabab-murtuu ijoollee").
+entry(ectogene, n, [ectogenes], "keenyaan kan mul'atu fi guddina ilma namaa uumamatti beekkamu keessatti hirmaatu").
+entry(ectomere, n, [ectomeres], "kallacha gara ectodermitti guddatu ta'e").
+entry(ectopia, n, [ectopias], "daddaftee dhalootaa qaamolee ykn qaawolee keessaa kallattii sirriidhaan ala").
+entry(ectosarc, n, [ectosarcs], "laagaa alaa altokkicha baakteerii protopilaasmaa of protozoa tokko tokkoo").
+entry(ectozoan, n, [ectozoans], "ectozoon").
+entry(ectozoon, n, [ectozoa], "wanjoo miidhama qaama bineensaa irra jiraatu").
+entry(ectype, n, [ectypes], "kopiiECTYPAL surreeffama").
+entry(ecu, n, [ecus], "maallaqa Faransaawaa durii").
+entry(ecumene, n, [ecumenes], "iddoo kan jiraatamaa").
+entry(ecumenic, adj, [], "bu'uureffame hojii wangeela irratti").
+entry(eczimii, n, [eczimiis], "dhukkuba gogaa".
+entry(ed, n, [eds], "barnoota").
+entry(edacious, maq, [], "quuf-dhabummaa").
+entry(edacity, n, [edacities], "beelada").
+entry(edamame, n, [edamame], "boqollo qorraa gubbee keessa jiru").
+entry(edaphic, adj, [], "kan lafa irratti hirkatu").
+entry(eddo, n, [eddoowwan], "biqiltuu tropikaalawaa").
+entry(eddy, v, [eddied, eddying, eddies], "footoongoo guddaa dura socho'uu").
+entry(edema, n, [edemas], "ykn EDEMATA tasgabbaa'insa bishaan seras yoo kan caalu ta'e").
+entry(edenic, adj, [], "kan jannata irratti hunda'uu").
+entry(edentate, n, [edentates], "beeylado akka harree ammaa ilkaan hin qabne").
+entry(edge, v, [edged,edging,edges], "kennaa fi irra daangessuu ykn addaan baasuuf gargaara").
+entry(edgeless, adj, [], "tokkee hin qabu").
+entry(edger, n, [edgers], "meeshaa haadhoo buna irraan guduunfachuuf dhimma itti ba'u").
+entry(edgeways, adv, [], "edgewise").
+entry(edgewise, adv, [], "gara-gadiiti").
+entry(edgier, comparative, [], "of edgy").
+entry(edgiest, superlative, [], "eedji irraa kan ka'e").
+galii(edgily, adv, [], "akka nama aarseettin").
+entry(edginess, n, [edginesses], "haala daangessummaa").
+entry(edging, n, [edgings], "wanta kan daanga'uuf tajaajilu yookaan akka daangaa hojjetu").
+entry(edgy, adj, [], "EDGIER EDGIEST nyaaramaa, dhiitamuu ykn mufannaa").
+entry(edh, n, [edhs], "hibboo Ingliffaa Duri").
+entry(makaanaa, n, [makaanaan], "kan nyaatamuuf mijatu").
+galmee(edict, n, [edicts], "ajaja abbaa taayitaa seera bultuu qabuEDICTAL adj").
+galaati(naastoo, n, [naastoota], "mana").
+entry(edifier, n, [edifiers], "kan barsiisu tokko").
+entry(gargaaruu, v, [gargaaree,gargaaraa,gargaartu], "baraaruuf").
+entry(edile, n, [ediles], "aedile").
+entry(edit, v, [edited,editing,edits], "sirreessuu fi qopheessuu akka maxxansaatifEDITABLE adj").
+entry(edition, n, [editions], "baay'ina barreeffamaa addaa").
+entry(gulaalaa, n, [gulaaltoota], "nama gulaala").
+entry(editress, n, [editresses], "kitaaba qareessaa dubartii taate").
+entry(editrix, n, [editrixes], "ykn EDITRICES – qopheessitu dubartii").
+entry(educable, n, [isa kana barsiisuu ni danda'ama], "nama sammuun dadhabsiisaa laaffate").
+entry(educate, v, [educated,educating,educates], "barsiisuu").
+entry(educator, n, [educators], "kan barsiisu").
+entry(educe, v, [educed,educing,educes], "qal/ij daddaf wa baru moofuYAAMUU adj").
+entry(educt, n, [educts], "waa'ee tokko barsiisuu").
+entry(eduction, n, [eductions], "hawwii dagaagaaEDUCTIVE adj").
+entry(eductor, n, [eductors], "kan hubachiisu tokko").
+entry(eeew, interj, [], "sagalee jibbiinsa ibsuuf itti fayyadaman").
+entry(eejit, n, [eejits], "cubbuqa").
+entry(eek, interj, [], "balaa boodaan natti dhaga'ameef fayyadama").
+entry(eel, n, [eels], "qoricha cirracha fakkaatu").
+entry(eelgrass, n, [eelgrasses], "biiftuu bishaan keessa akkaataa/biiftuu bishaan keessa ta'e").
+entry(eelier, comparative, [], "of eely").
+entry(eeliest, superlative, [], "of eely").
+entry(eellike, adj, [], "akka riqicha kan fakkaatu").
+entry(eelpout, n, [eelpouts], "kalluun bishaan").
+entry(eelworm, n, [eelworms], "nematodii xiqqoo").
+entry(eely, adj, [], "EELIER EELIESTakka raaqa").
+entry(eensy, adj, [], "EENSIER EENSIESTxiqqoo").
+entry(eerie, adj, [], "EERIER EERIESTweirdEERILY adv").
+entry(eeriness, n, [eerinesses], "haaloo ta'uu").
+entry(eery, adj, [], "EERIER EERIESTeerie").
+entry(ee, interj, [], "eeew").
+gelcha(ef, n, [efs], "qubee F").
+entry(eff, n, [effs], "ef").
+entry(effable, adj, [], "kan ibsamuu dhaaf ni danda'ama").
+entry(irrasa, v, [irrasame,irrasuu,irrasa], "utaalu ykn dhugu dhukaa'uu").
+entry(effacer, n, [effacers], "kan haqeesu").
+entry(effect, v, [sammabashu,gaggeessa,sammabashu], "raawwachuu").
+entry(effecter, n, [effecters], "effector").
+entry(gogaa, n, [gogawwan], "qaamni qaamaa kan dogoggora hiikkaa sararaa itti kennamef").
+entry(effendi, n, [effendis], "maqaa kabajaa taʼe kan Turkiya").
+entry(efferent, n, [efferents], "qaama ykn gosoota yaadni sammuu qaama hojii geessu").
+entry(effete, adj, [], "harkifachuun yookaan dandeettii dhumuunEFFETELY adv").
+entry(qunnamtii, n, [qunnamtolee], "bu'a-qabeessa").
+entry(effigial, adj, [], "wanti fakkii fakkaatu").
+entry(effigy, n, [effijii], "suuraa ykn fakkii").
+entry(effluent, n, [effluents], "yaaddoo").
+entry(effluvia, npl, [], "madda hamaa keessaa bahu ani fajjeedha").
+galmee(efflux, n, [effluxes], "ba'iinsa").
+galii(yaalii, n, [yaaliwwan], "ilaalcha akeekkamee").
+entry(effulge, v, [effulged,effulging,effulges], "if tolu").
+entry(effuse, v, [effused,effusing,effuses], "yaasuu").
+entry(effusion, n, [effusions], "baay'inaan ofeettii").
+entry(effusive, adj, [], "deddeebi'ee furfuruu").
+entry(eft, n, [efts], "sisiba").
+entry(eftsoon, adv, [], "itti aansun siʼa").
+entry(eftsoons, adv, [], "eftsoon").
+galmee(egad, interj, [], "akka kakuu salphaaatti itti fayyadamu").
+entry(egads, interj, [], "egad").
+entry(egal, adj, [], "wal-qixxe").
+entry(egalite, n, [egalites], "walqixxummaa").
+entry(eger, n, [egers], "eagre").
+entry(baasuu, v, [baafame,baa'aa,baasa], "qaama keessaa baasuuf").
+entry(egesta, npl, [], "wanti bahe").
+entry(baasuu, n, [baasuuwwan], "hojii baasuuEGESTIVE adj").
+galmee(qundhii, v, [qundhiite,qundhiinaa,qundhiiwwan], "jajjabeessuuf kakaasuu").
+entry(eggar, n, [eggars], "egger").
+entry(eggcup, n, [eggcups], "finjaan ittiin hanqaaquun nyaatamu").
+entry(egger, n, [eggers], "calla mooyicha gosa tokko").
+entry(eggfruit, n, [eggfruits], "muka garba keessaa argamu").
+galmee(egghead, n, [eggheads], "beekaa").
+entry(eggier, comparative, [], "kan kabiibudha").
+entry(eggiest, superlative, [], "kan ayiin").
+entry(eggless, aj, [], "bifa dhadha'aa hin qaban").
+entry(eggnog, n, [eggnogs], "dhugaatii").
+entry(qabxii, n, [qabxiilee], "jirmii balfa kan nyaatamu danda'uu lafa yeroo dheeraaf biqiluu danda'u").
+entry(ogayyaa, n, [ogayyaa], "albuudarra cimaan gogaa gogaa beellada hedduuti").
+entry(eggy, adj, [], "EGGIER EGGIEST dhadhaa ykn foolii akka dhadhaa qabuu").
+entry(egis, n, [egises], "waan eeggumsaa").
+entry(eglatere, n, [eglateres], "wilid halaqa artific").
+entry(eglomise, adj, [], "kan ijaarsa sana duubaan maxxanfamee fi fakkii bocame irraa hojjetame").
+entry(ego, n, [egos], "kaayyoo beekumsaa ofii").
+entry(egoism, n, [egoisms], "jaalala naamusa ofii olkaasa").
+entry(egoist, n, [egoists], "namni ofiif yaaduEGOISTIC adj").
+entry(egoless, adj, [], "hinciigoominni hin ibsamne").
+entry(egomania, n, [egomanias], "iggitee ifattuu").
+entry(egotism, n, [egotisms], "ofeegummaa").
+entry(egotist, n, [egotists], "namni ofiitii boonu").
+entry(egotize, v, [egotized,egotizing,egotizes], "of guyyaa fi yaada mataa ofii qofa xiyyeeffachuun haasa'uu fi yaaduu").
+entry(ba'uu, v, [ba'e,ba'aa,baa'u], "baasuu").
+entry(egret, n, [eegrets], "hoosii bishaan keessa singiggaduu fi qubquba dheeraa qabu").
+entry(masrii, n, [masriwwan], "sagalee mallattoo gidduu marti rog-sigidaa jedhu qabu").
+entry(eh, interj, [], "kan shakkii ykn dinquu ibsuuf itti fayyadaman").
+entry(eide, pl, [], "kan eidos").
+galmee(eider, n, [eiders], "tishoo galaanaa guddaa tokko").
+entry(eidetic, n, [eidetics], "namni yakkamoota ibsituu saaquuf haala guutuudhaan dhugumaan yaadachuu danda’u").
+entry(eidolic, adj, [], "kan eidolon ilaallatu").
+entry(eidolon, n, [eidolons], "ykn EIDOLA fantama").
+entry(eidos, n, [eide], "ayaan").
+entry(saddeet, n, [saddeetota], "lakkofsota").
+entry(saddeetama, n, [saddeetamas], "lakkoofsa").
+entry(sadaffaa, n, [sadaffaa], "kutaalee wal-qixa saddeet keessaa tokko").
+entry(sadlammaffaa, adv, [], "iddoo sagalaffaadha").
+entry(saddeettama, n, [saddeettaman], "octavo").
+galmee(soddoma, n, [soddoma], "lakkofsa").
+entry(eikon, n, [eikons], "ykn EIKONESikoonii").
+entry(einkorn, n, [einkorns], "gosa akaakuu").
+entry(einstein, n, [einsteins], "namni beekumsa guddaa qabu").
+entry(eirenic, adj, [], "irenikii").
+galmee(eirenics, npl, [], "irenics").
+entry(eiswein, n, [eisweins], "daadhii mi'aawaa Jarmanii").
+entry(hojji-tokko-kabajamuu, qofa, [], "tokko yookaan kan biraa ta'uu").
+entry(galgala, v, [galgale, galgaluu, galgala], "falmisiidhaan ala darbuu").
+entry(ejecta, npl, [], "waanta ba'e").
+entry(buqqisuu, n, [buqqisuuwwan], "gocha buqqisuu").
+entry(ejective, n, [ejectives], "sagalee uumamu yommuu qilleensi olka'u irratti fufurraa dhoowwamu").
+entry(ejector, n, [ejectors], "isa baasa").
+entry(ejido, n, [ejidos], "lafee dargaggoota waliin qonnaan bulaa ta'ee Meeksikoo keessatti qotamu").
+entry(eke, v, [eked,eking,ekes], "itti dabaluu carraa guddaa ittiin godhamee").
+entry(ekistics, npl, [], "saayinsii bakka jireenya namootaa waliin walqabatu").
+galmee(ekka, n, [ekkas], "makiinaa fardi tokkon kan Indiyaa").
+entry(ekpwele, n, [ekpweles], "waggaa dura kaffaltii yeroo Kameroon Kutaa Arsiitti").
+entry(ektexine, n, [ektexines], "lagaa alaa exine'ti").
+entry(ekuele, n, [ekuele], "ekpwele").
+entry(el, n, [els], "gadaa qaabnaa fi/ ykn yaalii");
+entry(elain, n, [elains], "olein").
+entry(elan, n, [elans], "fedhii guddaa").
+entry(eland, n, [elands], "walankoo guddaa");
+entry(elaphine, adj, [], "kan sanyii harreen walqabatu").
+entry(elapid, n, [elapids], "bofa summii").
+entry(elapine, adj, [], "kan maatii saroota urgan keessatti hammataman").
+entry(elapse, v, [darbe, darbaa, darba], "dabarsuu").
+entry(elastane, n, [elastanes], "spandex").
+entry(elastase, n, [elastases], "inayimii").
+entry(elastikii, n, [elastikoota], "bakka tiikanii jijjiramuuf danda'amu").
+entry(elastiinii, n, [elastinoota], "baay'ina soorata qaamaatti gargaaru").
+entry(elate, v, [elated,elating,elates], "qalbii olkaa'uu").
+entry(elater, n, [elaters], "kulluu qixxee").
+entry(elaterid, n, [elaterids], "elater tokko").
+entry(elaterin, n, [elaterins], "walta'iin keemikaa").
+entry(elating, present, [], "participle of elate").
+entry(gaaddisa, n, [gaaddisoota], "sodaa miidhagsa").
+entry(elative, n, [elatives], "jechaa makiinaa irraangadee hi\u2019ika").
+entry(gomee, v, [gomeesse, gomee'aa, gomeewwan], "wal waranfachuu").
+entry(elbowing, n, [elbowings], "hojii mormitootaa qubeelawwan irree waliin ugguugudha").
+entry(eld, n, [elds], "dulloomii").
+entry(jaarsa, n, [jaarsota], "namni yeroo dheeraaf jiraate tokko").
+entry(within_barruu, n, [barruulee_guddoo], "nam-tokko yeroo irra guddoo jaarsaa").
+galmee(eldest, n, [eldests], "kan sadaffaa yookaan haadisaan keessaa maanguddichi").
+entry(eldorado, n, [eldorados], "iddoo badhaadhina guddaa").
+entry(eldress, n, [eldresses], "hoojjetaa waldaa dubartii").
+entry(eldrich, abbr, [], "eldritch").
+entry(eldritch, adj, [], "walirratti hin beekamne").
+entry(godha, v, [filamee,filuu,filata], "qubannooaf sagalee fiidhe filuu").
+entry(electee, n, [kan filataman], "nama filatame").
+entry(foo, n, [foo], "foo").
+entry(yaadafilmi, n, [yaadafilms], "karoora barnootaa kan filataman").
+entry(elector, n, [electors], "kan filatu tokko").
+entry(eleektireetii, n, [eleektireetotaa], "akkaan kan gaggeessu miti").
+entry(electric, n, [lafa ijaarsa elektirikaa], "wantawwan humna elektirikaan hin furguggatamne").
+entry(elektiroo, v, [elektirootame, elekirootaa, elektoyuu], "kopiin meetaalii saxaatoo fuula sarara barreeffamaa maxxansuu").
+entry(electron, n, [electrons], "keessumatti wanta xiqqoo").
+galmee(electrum, n, [electrums], "wal makaa warqee fi meetii").
+entry(elegance, n, [elegances], "badhaadhina miidhagina").
+entry(elegancy, n, [elegancies], "elegance").
+entry(elegant, adj, [], "badhaadhina urgooftuu").
+entry(elegiac, n, [elegiacs], "gosa gabatee").
+entry(elegies, pl, [], "ofi elegy").
+galmee(elegise, v, [elegised,elegising,elegises], "elegize gochuu").
+entry(elegist, n, [elegists], "kan elegy barreessu").
+entry(elegit, n, [elegits], "jechoota seerotaa").
+entry(elegize, v, [elegized,elegizing,elegizes], "waaqa kadhachuu").
+entry(elegy, n, [elegies], "barreessa gadduu fi yaadannoo nama du'aanii").
+galii(kuudhaa, n, [kuudhota], "wantoota kiimikaalaatiin bakka lamatti adda baafamuu hin dandeenye").
+entry(elemi, n, [elemis], "urgaa urgooftu").
+entry(elenchus, n, [elenchi], "morme loogika");
+galaafilat(elephant, n, [elephants], "beeylada guddoo").
+entry(elevate, v, [elevated,elevating,elevates], "ol kaasa").
+entry(ida'amte, n, [ida'amuu], "bosona konkolaataa qajelatti ijaarameen dalagu").
+galmaa'i(lift, n, [lifts], "kan olkaasu").
+entry(sagal, n, [sagaaltama], "lakkobsa").
+galmee(sagaltama, n, [sagaltamoota], "kutaalee walqixa sagaltamni keessaa tokko").
+entry(elevon, n, [elevons], "gosa muka gulantaa xiyyaara to'atuu").
+entry(elf, n, [jinnii], "kuta gababaa kan Waaq jedhamu, dafee fi gaalmeessuJINNILIKE adj").
+entry(elfin, n, [elfins], "elf tokko").
+entry(elfish, adj, [], "akka elf fakkaatuELFISHLY adv").
+entry(elflock, n, [elflocks], "jecha hiika qal'aa filattee hin mul'adhe").
+entry(elhi, adj, [], "waan kutaa barnootaa 1 hanga 12 ilaalchisu").
+entry(elicit, v, [qabsiise,qabsiisu,qabsiisa], "akka itti dhaggeeffatan gochuu").
+entry(elicitor, n, [elicitors], "kan waamamuu").
+galmee(elide, v, [elided,eliding,elides], "haquuELIDIBLE adj").
+entry(mudde, n, [muddota], "sana filatamtuu ta'uuf qophaa'e tokko").
+entry(eligibly, adv, [], "akka abbaa mirgaa ta'etti").
+entry(elint, n, [elints], "walitti qabuu odeeffannoo tekinoolojii elektirooniksaan").
+entry(elision, n, [elisions], "gocha maxxansu").
+galii(loojii, n, [loojiwwan], "garee ol’aantummaa hawaasummaa qabdu").
+entry(elitism, n, [elitisms], "amanuu akka mootummaan namoota filataman irratti hundaa'u").
+entry(elitist, n, [elitists], "namni boonaa fi of ta'uun beekamu").
+entry(elixir, n, [elixirs], "dhugaatii fayyaa").
+entry(elk, n, [elks], "iwweessaa guddaa").
+entry(elkhound, n, [elkhounds], "saree sibiila").
+entry(ell, n, [ells], "qubee L".).
+entry(elliipse, n, [elliipesota], "kurva dheerataa").
+entry(ellipsis, n, [ellipses], "haanqina jecha ykn jechoota tokkoo yeroo hima keessatti").
+entry(elliptic, adj, [], "kan fo'aa fakkaatu").
+entry(elm, n, [elms], "muka baalan harcaahu").
+entry(elmwood, n, [elmwoods], "muka elm").
+entry(elmy, adj, [], "ELMIER ELMIESTqubana fi simu").
+entry(elodea, n, [elodeas], "jallattoofi bishaan keessa jiratu").
+entry(eloign, v, [eloigned, eloigning, eloigns], "fuuldura bitaa fageessuuf").
+entry(eloigner, n, [eloigners], "kan fageessu").
+entrada(eloin, v, [eloined, eloining, eloins], "eloign godhachuu").
+entry(eloiner, n, [eloiners], "kan eloins godhu tokko").
+entry(arsa’uu, v, [arsame,arsa’aa,arsasu], "dheereffachuuf").
+entry(elope, v, [eloped,eloping,elopes], "bakka namni hin argineetti yeroo gaaʼila galuuf ni eedduuti").
+entry(eloper, n, [elopers], "kan fayyaa keessaa ol bahe").
+entry(eloquent, adj, [], "kan haasaa bareeda fi jaallatamaa ta'an").
+entry(else, adv, [], "iddoo, yeroo, yookaan karaalee adda addaatti").
+entry(eluant, n, [eluants], "muka qulqulleessaa").
+entry(eluate, n, [eluates], " meeshaan irra-arbummaa irraa argame").
+entry(dabarsuu, v, [dabarsee,dabarsaa,dabarsa], "baqachuudha").
+entry(eluder, n, [eluders], "kan baqatu").
+entry(eluent, n, [eluents], "eluant").
+entry(elusion, n, [elusions], "raawwiin jalaa miliquu").
+entry(elusive, adj, [], "kan jalaa miliquu deemu").
+entry(elusory, adj, [], "kan dhokataan").
+entry(elute, v, [eluted,eluting,elutes], "akka molaalaan balleessuu").
+entry(elution, n, [elutions], "gochaa fottoquu").
+entry(eluvia, a, [], "pl of eluvium").
+entry(eluvial, mak, [], "kan eluvium waliin walqabatu").
+entry(eluviate, v, [eluviated,eluviating,eluviates], "olaantotri du'aa as keessatti fudhachuu").
+entry(eluvium, n, [eluviums], "yookiin ELUVIAbuufata lafa").
+entry(elfis, maq, [], "akka ilmi namatti fakkaatu").
+entry(elver, n, [elvers], "gormiti marga'aa").
+entry(elfiwwan, pl, [], "elf kessa").
+entry(elvish, adj, [], "elfishELVISHLY adv").
+entry(elysian, adj, [], "afaan mi'aa").
+galmee(elytron, n, [elytra], "kochoowwan luupheewwan murta'oota seeraan uumaan dhadhaataman ELYTROID ELYTROUS adj").
+entry(elytrum, n, [elytra], "elytron").
+entry(em, n, [ems], "qubee M").
+entry(hingatoo, v, [hingate,hingatuu,hingatu], "kan daaraa godhu").
+entry(email, v, [emailed,emailing,emails], "ergaa karaa koppiitara ergudhaaf").
+entry(emanant, adj, [], "madaa'ii irraa bahuun").
+entry(baasu, v, [bahe,baa'aa,jira], "ullee gadi lakkisu").
+entry(emanator, n, [emanators], "kan fayya’u").
+entry(jaarsummaa, v, [jaarsumame,jaarsumaan,jaarsuudha], "akka hir'ina irraa eeguuf yaali").
+entry(embalmer, n, [embalmers], "kan tooftaa itti fayyadamu").
+entry(embank, v, [embanked,embanking,embanks], "ol fuudhuu fi/ ykn eeguu ijaarsa olka'aa waliin").
+entry(embar, v, [embarred,embarring,embars], "hidhuuf").
+entry(embargo, v, [embargoed, embargoing, embargoes], "daldala ugguruuf ajaja mootummaa").
+entry(jalqabu, v, [jalqabde,jalqabachaa_jirti,jalqaba], "jalqabu").
+entry(safara, n, [safaroota], "an ambassadoritti waajjira guddaa").
+entry(cabsuu, v, [cabse, cabsa, cabsan], "waraanaaf qopheessuu").
+entry(embay, v, [embayed,embaying,embays], "akka bineensa samiitti ugguru").
+entry(embed, v, [embedded,embedding,embeds], "cimsuma naannaa jiru keessa sirnaan gadi-dhiisuuf").
+entry(ember, n, [embers], "boba'aa ibiddaa keessaa ulfaatee kan bahe").
+entry(embezzle, v, [embezzled,embezzling,embezzles], "qulqulleessanii kaatuuf itti fayyadamuudha").
+entry(gaanessa, v, [gaanessan,gaanessuu,gaanessiti], "dhiiga yoo geenyaan xureessuu").
+entry(emblaze, v, [emblazed,emblazing,emblazes], "ibiddatti qabsiisuu").
+entry(emblazer, n, [emblazers], "kan ibsisu tokko").
+entry(emblazon, v, [emblazoned,emblazoning,emblazons], "akka bifa jabaan faayudha").
+entry(emblem, v, [emblemed,embleming,emblems], "simbolii adda tahe tokkoon bakka bu'uu").
+entry(embodier, n, [embodiers], "kan dhugoomsu").
+entry(embody, v, [embodied, embodying, embodies], "qaama kennuu").
+entry(embolden, v, [emboldened,emboldening,emboldens], "cubbuu itti horachuu").
+entry(emboli, pl, [], "kan embolus").
+entry(embolies, pl, [], "kan emboli").
+entry(embolism, n, [embolisms], "cufama daandiirraa dhiigaa emboloosiin baduu").
+entry(embolus, n, [emboli], "walqixa ykn dhagaa madaalawaa ta’ee keessatti kan dhiiga keessa naanna’u").
+entry(emboly, n, [embolies], "haala guddina dullooma ilmoo").
+entry(emborder, v, [embordered,embordering,emborders], "daangeffannaa kennuu").
+entry(embosk, v, [embosked, embosking, embosks], "akka aanaa dhoksaatti biqiltuuttin dhoksuudhaaf").
+entry(embosom, v, [embosomed,embosoming,embosoms], "golgu").
+entry(emboss, v, [embossed,embossing,embosses], "hiriyaa ol kaafame ittiin faaya").
+entry(embosser, n, [embossers], "kan maxxansa").
+entry(embow, v, [embowed,embowing,embows], "addaan nama hin faffacoftu").
+entry(embowel, v, [emboweled,emboweling,embowels], "or EMBOWELLED EMBOWELLING EMBOWELSto disbowel").
+entry( mootummaa, v, [moote, moophiyaa, mootummaa], "biqiltoota qinxaa'uun maruu").
+entry(itti-keenni, v, [itti-keenname,itti-keennaa,itti-keennoti], "walitti qabuu").
+galmee(qaabata, n, [qaabatan], "kan qabatu").
+entry(qarqarsiisuu, v, [qarqarsiisee, qarqarsiisuu, qarqarsiisa], "morma keessa galchuu").
+entry(embrown, v, [embrowned,embrowning,embrowns], "akka daalu/aawwaani taasisa").
+entry(embrue, v, [embrued,embruing,embrues], "dhaansuu").
+entry(embrute, v, [embruted,embruting,embrutes], "imbruutuuf").
+entry(embryo, n, [embryos], "uumama ofu da’umsaa isaa duraa sirriitti birkaa’amaa hinjirre keessatti argamu").
+entry(embryoid, n, [embryoids], "tuqaa qaama kan urjiitti fakkaatu").
+entry(embryon, n, [embryos], "embiriyo").
+entry(emcee, v, [emceed,emceeing,emcees], "tajaajila geggeessaa sirna ta'uu").
+entry(emdash, n, [emdashes], "mallattoo barreeffama keessatti yaada yookaan ijaarsa keessatti addaan ciccituu agarsiisu").
+entry(eme, n, [emes], "obboleessa").
+entry(emeer, n, [emeers], "amiira").
+entry(emireetii, n, [emireetiiwaan], "emirate").
+entry(sirreessi, v, [sirreessuu,sirreesuuf,sirreessa], "sirreessuu").
+entry(emendate, v, [emendated, emendating, emendates], "gulaaluuf").
+entry(emender, n, [emenders], "kan sirreessu").
+entry(magaalaa, n, [magaalaan], "dhagaa magariisa").
+entry(emerg, n, [emergs], "kutaa hospitaalichaa rakkoo gadi fagoo waliin dhihaataniif tajaajilu").
+entry(bahi, v, [bahaa, bahuun, bahu], "mul'achuu").
+entry(bara, n, [baraawwan], "gosa biqiltuu bishaan keessaa").
+entry(emeries, pl, [], "kan emery").
+entry(emerita, n, [emeritas], "ykn EMERITAE dubartii cimaayyuu eebbifamaa fi kabaja maqaa kan qabdu").
+entry(emeritus, n, [emeriti], "nama yeroo jireenya isaatti golga yee ta’e galu kan maqaa beekamtii qabaate").
+entry(emerod, n, [emerods], "bocquu").
+entry(emeroid, n, [emeroids], "emerod").
+entry(emersed, adj, [], "kan bishaan keessaa ka'e").
+entry(ba'uu, n, [ba'uuwwan], "gochaan ba'uu").
+entry(emery, n, [emeries], "koraandaramaa calaqisaa").
+entry(emesis, n, [emeses], "raaruu").
+entry(emetic, n, [emetics], "dhugaa soorata badaan/buqqisaa kan nama havaaqu qabu").
+entry(emeetini, n, [emeetins], "emeetine").
+galmee(emetine, n, [emetines], "alkaloid").
+entry(emeu, n, [emeus], "emu").
+entry(emeute, n, [emeutes], "wal dhabbi").
+entry(emics, npl, [], "gosa xiinxala afaanii kan EMIC adj").
+entry(emigrant, n, [emigrants], "kan godaanu tokko").
+entry(guduunfa, v, [guduunfate,guduunfataa,guduunfatuu], "biyya yookiin naannoo tokko dhiisee biyya yookiin naannoo biraatti qubachuuf deemuu").
+entry(emigre, n, [emigres], "baqattoota biyyaa gad lakkise").
+entry(eminence, n, [eminences], "iddoo ol’aanaa ykn sadarkaa").
+entry(eminency, n, [eminencies], "sadarka ol aanaa").
+galmee(ijoollee, adj, [], "sadarkaa olaanaa yookaan aangoo ol aanaa qabu").
+entry(emir, n, [emirs], "guyyaa Arabaa yookaan mootii").
+entry(emirate, n, [ameerota], "sadarkaa ameerii").
+entry(emissary, n, [emissaries], "namni ergamaaf ergame").
+galmee(bahiinsa, n, [bahiinsota], "raawwii dhiheessuuEMISSIVE adj").
+entry(emit, v, [emitted,emitting,emits], "erga tarkaanfachuu").
+galii(xiyyiya, n, [xiyyeeffattoota], "kan xiyyeessu").
+entry(emmer, n, [emmers], "akaayii qaaraa").
+entry(emmet, n, [emmets], "biiftii").
+entry(emo, n, [emos], "sirba dhagaa gosa jechoota jaalala qabaachuudhaan").
+entry(emocore, n, [emocores], "emo").
+entry(emodin, n, [emodins], "walqunnamtii keemikaalaa").
+entry(emote, v, [emoted,emoting,emotes], "akkaata jajabaa ta'een sochii miira ibsuu").
+entry(emoter, n, [emoters], "kan dallaan ibsuu").
+entry(emoticon, n, [emoticons], "walitti qabama qube kanneen fuula agarsiisaa ykn miira ibsuuf fayyadamu").
+entry(hawwi, n, [hawwiiwwan], "haala miira sammuu").
+entry(emotive, adj, [], "kan miira irratti hundoofame").
+entry(empale, v, [empaled,empaling,empales], "akka garaan darbuu").
+entry(empaler, n, [empalers], "kan deemaa").
+entry(empanada, n, [empanadas], "waanta daabboo jalaaan guuttamu").
+entry(empanel, v, [ni feesisa,ni feesise,ni feesisuu], "yookin IRREE QABA IRREE QABANi keessummeessuuf").
+entry(empathy, n, [empathies], "yaadaafi miira nama biroo ittiin of fakkeessuu dhaqna yaadaaEMPATIK adj").
+entry(guyyaa, n, [guyyaa], "hoggaa mootummaa").
+entry(empery, n, [emperies], "mooraa guutuu".
+entry(emphasis, n, [emphases], "yaada adda addaa).
+entry(xiyyeeffannaa, adj, [], "jabinaan ibsu").
+galii(imperii, n, [imperiilee], "walda siyaasaa guddaa").
+entry(empiric, n, [empirics], "namni qabu muuxannoo hojii").
+entry(emplace, v, [emplaced,emplacing,emplaces], "iddoo kaa'u").
+entry(emplane, v, [emplaned,emplaning,emplanes], "balaamatti seenuu").
+entry(galmaa'i, v, [galmaa'ee,galmaa'aa,galmaa'a], "qacaruuf").
+entry(employe, n, [hojjettoota], "hojjetaa").
+entry(hojjetaa, n, [hojjettoota], "namni kan hojjatu").
+galmee(nama_hojjetu, n, [nama_hojjetoota], "nama nama hojjechiisu tokko").
+entry(empoison, v, [empoisoned,empoisoning,empoisons], "qulqulluu gochuudha").
+entry(emporium, n, [emporiums], "ykn EMPORIAa garaa-garaaf bakka daldalaa").
+entry("dandeettii kenni", v, ["dandeettii kenne","dandeettii kennaa","dandeettii kennuu"], "akka seeraan dandeettii kennamu gochuuf").
+entry(boqorattii, n, [boqorattiilee], "haadha mootummaa imperiyaatti.").
+entry(emprise, n, [emprises], "hojii gootummaa").
+entry(emprize, n, [emprizes], "emprise").
+galmee(dagayamee, darbe, [], "xumura dagaa").
+entry(emptier, n, [emptiers], "kan baasuu tokko").
+galmee(gaaga'u, jiraachuu, [], "3ffaa nama tokkoffaa wadirroo").
+entry(kan hunda caalaa duwwaa ta'e, superlative, [], "empty irraa").
+entry(emptily, adv, [], "akka itti toluutti").
+entry(emptings, npl, [], "emptins").
+entry(emptins, npl, [], "liqidii ogomalaa").
+entry(empty, adj, [], "MIRGA♂ YERO♂QABDU YERUMA♂QABDU♂QABCALA♂KEESSATTI").
+entry(banaa, v, [baname,banuu,banan], "akkaf lama keessaa guutuu").
+entry(empurple, v, [empurpled,empurpling,empurples], "lolaa ulee waliin bifa garbeessuu").
+entry(empyema, n, [empyemas], "yoo ta'e EMPYEMATA guutuu aashaa 'sarbaa' keessaEMPYEMIC dafee").
+entry(empyreal, maq, [], "akka waaqaatti ilaallatu").
+galmee(empyrean, n, [empyreans], "arada kabajamaa").
+entry(emu, n, [emoot], "kuruphee bal'aa hinutfne tokko").
+entry(isaan fakkeessu, v, [isaa fakkeessee,isaa fakkeessuu,isaa fakkeessa], "wajjin wal-qixxoomsuuf ykn dursuuf yaaluuf").
+galmee(emulator, n, [emulators], "kan faana bu'uu").
+entry(emulous, adj, [], "hawwii wal caaluu ykn kan biraa caaluuf").
+entry(emulsify, v, [emulsified,emulsifying,emulsifies], "akka emalshinii godhuutti").
+entry(emulsion, n, [emulsions], "gosa dhangala'aa garagaraaEMULSIVE adj").
+galmee(emulsoid, n, [emulsoids], "dhangala'aa dhangala'a biraa keessatti faca'ee").
+entry(emyd, n, [emyds], "qurxummii bishaan magariisaa").
+entry(emyde, n, [emydes], "emyd").
+entry(en, n, [ens], "qubee N").
+entry(enable, v, [enabled,enabling,enables], "akka danda'amu gochuu").
+entry(enabler, n, [enablers], "nama kan raawwachiisu tokko").
+entry(raawwii, v, [raawwatame, raawwachaa, raawwata], "seeratti jijjiiruuf").
+entry(enaction, n, [enactions], "hojii raawwii").
+entry(enactive, adj, [], "humna raawwachiisuu qabu").
+entry(enactor, n, [enactors], "isa raawwatu").
+entry(kana dhiyeesuu, adj, [], "kan seera yookaan murtii hojiirra oolu").
+entry(enamel, v, [enameled,enameling,enamels], "yoo xiqqaate ENAMELLED ENAMELLING ENAMELSfuula gogaa jabaa fi bareedaarra uwwisuuf").
+entry(enameler, n, [enamelers], "kan faayyi itti godhuu").
+entry(enamine, n, [enamines], "gosa amiinawaa").
+entry(enamor, v, [enamored,enamoring,enamors], "jaalala kaka'uu").
+entry(enamour, v, [enamoured, enamouring, enamours], "jaalachuu").
+entry(harmee, n, [harmees], "illaalcha obboleessa ulfinaaf").
+entry(enation, n, [enations], "baqata tokko kan gara alaatti margu uumaa keessaa").
+entry(encaenia, npl, [], "mariiwwan yuunivarsitii waggaa waggaan geggeeffaman").
+entry(galchuu, v, [galche,galchaa,galchuus], "hidhuun sanduuqatti galchuu").
+entry(encamp, v, [encamped,encamping,encamps], "tolfamaa olla oromaan").
+entry(encase, v, [encased,encasing,encases], "qabate fakkii keessatti").
+entry(encash, v, [encashed,encashing,encashes], "galaanii kaa'uu").
+entry(enceinte, n, [enceintes], "daangaa marsaa").
+entry(qaqqabuu, v, [qaqqabame, qaqqabamaa, qaqqabati], "silsilaan hidhu").
+entry(jajjabeessi, v, [jajjabeessite, jajjabeessaa, jajjabeessiti], "gammachiisuu").
+entry(enchase, v, [enchased,enchasing,enchases], "akka faayaatti itti fufee kaa'uuf").
+entry(enchaser, n, [enchasers], "kan qabachiisu").
+entry(enchoric, adj, [], "kan biyya tokkoof ta'e").
+entry(encina, n, [encinas], "jallisiin harooressaENCINAL adj").
+entry(encipher, v, [enciphered,enciphering,enciphers], "barreefama hiikkaa dhokataa qabuun barreessuu").
+entry(dhiyaadhu, v, [dhiyaatame,dhiyaachaa,dhiyaata], "naannoo kooraa irratti uumuu").
+entry(enclasp, v, [enclasped,enclasping,enclasps], "hammachuu").
+entry(enclave, v, [enclaved, enclaving, enclaves], "uummata wajjin ala ta'eef saaxiluu").
+entry(itti maxxantuu, n, [itti maxxanuuf], "jecha kan jecha isa duraan darbe waliin walitti dhaga'amu").
+entry(iruuf, v, [iruufame,iruufamaa,iruufa], "dirreewwan maraanan cufuu").
+entry(ededa, n, [ededs], "kan itti qabu").
+entry(encode, v, [encoded, encoding, encodes], "gara koodii galchu").
+entry(encoder, n, [encoders], "kan upruufatu tokko").
+entry(encomium, n, [encomiums], "ykn ENCOMIAa faaruu").
+entry(encore, v, [encored,encoring,encores], "akka raawwataa muudamaaf deebisee mul'atu waamu").
+entry(harkifata, v, [harkifate, halkifachaa, halkifatu], "ol adeemuu daangaa sirrii ol").
+entry(encrust, v, [encrusted,encrusting,encrusts], "akka muka gaaraa waliin haguuggamuuf").
+entry(wareeguu, v, [wareegamee,wareegaa,wareeguu], "sirna kaa'uu").
+entry(encumber, v, [encumbered,encumbering,encumbers], "dhorkuudhaaf sochii ykn hojii keessatti gufuu ta'uu").
+entry(encyclic, n, [encyclics], "xalayaa wangeela eegu karaa Phaaphaasiii gara hoggantoota amantii Yesuus Krisoos addunyaa").
+entry(encyst, v, [encysted,encysting,encysts], "afaan keessatti kuufama kistii keessatti").
+entry(xumura, v, [xumurame,xumuraa,xumurata], "xumura").
+entry(endamage, v, [endamaged,endamaging,endamages], "miidhuuf").
+entry(endameba, n, [endamebas], "ykn ENDAMEBAEa ameeba faayida hin qabne").
+entry(xinnoomsuu, v, [xinnoomfame,xinnoomfamaa,xinnoomti], "adda cimaa kaa'u").
+entry(endarch, adj, [], "kan kallattii giddu galeessa irraa baha").
+entry(endarchy, n, [endarchies], "haala endarch ta'uu").
+entry(endash, n, [endashes], "mallattoo barreeffama irratti yeroo hunda garagaltee walitti fiduuf itti fayyadaman").
+entry(endbrain, n, [endbrains], "kutaa sammuu").
+entry(endcap, n, [dhumarran], "mul'ina alaabaa gatii gabatee dhuma karaatti".).
+entry(jaalatamaa, v, [jaalatamte,jaalatamaa,jaalata], "akka jaalatamaa fi kabajamaa ta'uuf gochuu").
+entry(yaalii, v, [yaali'e,yaalii'aa,yaaliiwwan], "yaalii gochuu").
+entry(endemial, adj, [], "kan biyya ykn ummata tokkoof garagaraadha").
+entry(endemic, n, [endemics], "dhukkuba naannoo").
+entry(endemism, n, [endemisms], "haaluma iddootti adda ta'uu").
+entry(ender, n, [enders], "kan wanta xumuru tokko").
+entry(endermic, adj, [], "kan midhaan dhiigaa fi qubarraa fudhatuun hojjetu").
+entry(endexine, n, [endexines], "kutaa ijaarsa keessaa keessa jiru").
+galmee(game xumura), n, [gamexumurawwan], "keessa ta'uun shaashii xumurra".
+entry(yaata, n, [yaattoota], "xumura").
+entry(endite, v, [endited,enditing,endites], "indite godhuu").
+galmee(endive, n, [endives], "zayitii ykn salaataaf qophaa'a").
+entry(endleaf, n, [endleaves], "ykn ENDLEAFSan endpaper").
+entry(endless, adj, [], "kan bara baraan turu").
+entry(endlong, adv, [], "baarqabaan").
+galmee(dhumaa, adj, [], "fagoo").
+entry(endnote, n, [endnotes], "yaada xumuraa barruu xumuraatti kaa'ame").
+entry(endocarp, n, [endocarps], "kutaa keessaa fiixa").
+entry(endocast, n, [endocasts], "waanta uumaa dhoqqee onnee").
+entry(endoderm, n, [endoderms], "laagaa sanyii keessaa isa duraa yeroo si'ooddaa").
+galmee(endogamy, n, [endogamies], "fuudhaafi heeruma garee muraasa keessatti").
+entry(endogen, n, [endogens], "gosa biqiltuu").
+entry(endogeny, n, [endogenies], "biqiluu keessaa").
+entry(endopod, n, [endopods], "gorra isaanni in zalaquu ti limmi qaama fincaan fakkaatu").
+entry(itti-moggaasii, v, [itti-moggaasame,itti-moggaasaa,itti-moggaasa], "saxaxa deeggarsaaf mallatteessu").
+entry(geessituu, n, [geessituus], "namni tokkoffaa ykn qaree ittiin geettuudhaan weellifama tokko irra kaa'amuuf").
+entry(endorser, n, [endorsers], "inni faana taasisu").
+entry(endorsor, n, [endorsors], "endorser").
+entry(endosarc, n, [endosarcs], "kutaa saayila").
+entry(endosmos, n, [endosmoses], "safartuu osmoosisii keessa tokko").
+entry(endosome, n, [endosomes], "kuulmee cee'umsaa").
+entry(endostea, npl, [], "saxaato gogaa lafee").
+entry(gargaarsi, v, [gargaaree, gargaaraa, gargaaru], "waliin akka kennu").
+entry(endower, n, [endowers], "kan kenna").
+entry(endozoic, adj, [], "dabarfannaa bifa bineensaa keessa jiru").
+entry(endpaper, n, [endpapers], "waraqa cuqulleeffama kitaabaa keessatti itti fayyadaman").
+entry(endplate, n, [endplates], "akkaataa raayoo qaamaa").
+galmee(xumura, v, [xumure, xumuruu, xumuruun], "morkataa dirquu akka kora karraa duraa slaabduu").
+daangaa(riqicha, n, [daangawwan], "tokko bakka lameen keessaa bakka dhuma riqicha tilmaamu").
+entry(endrin, n, [endreenota], "meeshaa dhibee sumamuu").
+entry(endue, v, [endued,enduing,endues], "akka kennaa ykn gosa tokkootti kennuudhaaf").
+entry(adaba, v, [adabe,adabaa,adabdi], "turuu").
+entry(endurer, n, [endurers], "kan obsa").
+entry(enduro, n, [enduros], "tasgabbiidhaan yaa'uu").
+entry(endways, adv, [], "endwise").
+entry(endwise, adv, [], "lengthwise").
+entry(enema, n, [haada], "yookaan ENEMATA dhangala'aa gara gadamessaa seensifamu").
+entry(diina, n, [diinaan], "kan gargar bahuuf yaalu tokko").
+entry(energid, n, [energids], "nukliyaasi fi dhangala’aa kan qaama isaa waliin ittiin waliinda’u").
+entry(enerji, pl, [], "of energy").
+entry(energise, v, [energised,energising,energises], "hawaasuu").
+entry(humneessa, v, [humneessee, humneessaa, humneessu], "humna kennuuf").
+entry(energy, n, [], "ENERGIESdandeettii hojii jabduu fi ciminaaf jiruu").
+entry(hafarsuu, v, [hafaramte,hafaramuu,hafaramti], "humna yookiin jabina dhorka").
+entry(enface, v, [enfaced,enfacing,enfaces], "fuulduratti barreessuuf").
+entry(dadhabsiisi, v, [dadhabsiise,dadhabsiisaa,dadhabsiisu], "laaffisuu").
+entry(enfeoff, v, [enfeoffed,enfeoffing,enfeoffs], "abbaa lafaa ta'uu").
+entry(enfetter, v, [enfettered,enfettering,enfetters], "hidhu").
+entry(enfever, v, [enfevered,enfevering,enfevers], "gubaa").
+entry(enfilade, v, [enfiladed,enfilading,enfilades], "itti-anfaaffi cimaa xiyyaaruu dheerina irratti").
+entry(enflame, v, [enflamed,enflaming,enflames], "gubuu").
+entry(enfold, v, [enfolded,enfolding,enfolds], "golgu").
+entry(enfolder, n, [enfolders], "kan marsee").
+entry(raawwachiisu, v, [raawwatame, raawwataa, raawwata], "obedience dirqamaan dirqamsiisuu").
+entry(enforcer, n, [enforcers], "isa raawwachiisu").
+entry(enframe, v, [enframed,enframing,enframes], "kaayachuu").
+entry(oro, n, [oromoo], "simbolii jechootaa").
+entry(niwaamanam, v, [niwaamaname, niwaamanamaa, niwaamana], "hojjechuuf").
+entry(engager, n, [engagers], "inni fedhii keessaa qabu").
+entry(fidha, v, [fidhe, fidhuu, fidha], "jiraachisuuf fiduu").
+entry(engild, v, [engilded,engilding,engilds], "gara ifaa taasisuuf").
+gali(ham, v, [hama,hami,hamiin], "maqinaadhaan faayame").
+entry(engineer, v, [engineered,engineering,engineers], "raawwachuu yookiin to'achuu xiyyeefannoo fi qindoominaan").
+entry(enginery, n, [engineries], "makiinaa").
+entry(engining, present, [], "participle of engine").
+entry(enginous, adj, [], "hangaftuu").
+entry(engird, v, [engirded, engirding, engirds], "funaanuuf").
+entry(engirdle, v, [engirdled, engirdling, engirdles], "maksuu").
+entry(afaan_ingilizii, v, [inni_in(g)lizii,In(g)lizoomuu,in(g)lizoos], "gurmuu bolliidda garaa dirree isaa beeqaa isa sochoosuu).
+entry(englut, v, [englutted,englutting,engluts], "dhaansuun liqimsuu").
+entry(engorge, v, [engorged,engorging,engorges], "dhiiga guutuu").
+entry(gabduunfachiisu, v, [gabduunfachiise,gabduunfachiisuu,gabduunfachiisu], "biqiltuu biiliichaaf itti gaafatamu").
+entry(engrail, v, [engrailed,engrailing,engrails], "ufuura qabuun qoree geengoo gochuu").
+entry(ingrain, v, [ingeerammedha,ingeeramaa,ingeerama], "ingraan gochuu").
+entry(engram, n, [engrams], "maxxantuu adadduu qabatee mul'atu kan sababa dhiibbaa irra jiru irraatti firoomu").
+entry(engramme, n, [engrammes], "engramii").
+entry(xaxaa, v, [xaxamee, xaxaamaa, xaxaama], "akka bocu ittiin tolchaniin geessu").
+entry(engraver, n, [engravers], "inni xaxee barreessu").
+entry(daawwachuu, v, [daawwatame,daawwataa,daawwatu], "guutumaan guutuutti qabachuun").
+entry(gammachu, v, [gammachufamee,gammachufamtii,gammachuu], "ka'uumsa guutummaatti fe'aa").
+entry(enhalo, v, [enhaloed,enhaloing,enhalos], "or ENHALOESto surround with a halo").
+entry(gabbisuu, v, [gabbifamee,gabbifachaa,gabbisa], "sadarkaa ol'aanaa dhaqqabsiisuuf").
+entry(fooyya'aa, n, [fooyya'an], "isa fooyyesuu").
+entry(enigma, n, [qulfii], "ykn ENIGMATAwaanta ni ulfaate yookaan ni ibsamuuf hin oolle").
+entry(enisle, v, [enisled, enisling, enisles], "qunnamtii muruu").
+entry(enjamb, v, [enjambed,enjambing,enjambs], "itti fufiinsa sagalee gabaabaa keessaa sagalee gara biraatti ceesisuu").
+entry(falachi, v, [falame,falachuu,fala], "commandii kennu").
+entry(enjoiner, n, [enjoiners], "kan ajaja kennu tokko").
+entry(raaji, v, [raajee,raajaa,raajju], "gammachuu argachuu").
+entry(enjoyer, n, [enjoyers], "kan gammachuu argatu").
+entry(enkindle, v, [enkindled, enkindling, enkindles], "bobaasuu").
+entry(enlace, v, [enlaced, enlacing, enlaces], "hidhu sabata").
+entry(guddisi, v, [guddifame,guddisu,guddisi], "guddina gochuu ykn ta’uu").
+galmee(guddisaa, n, [guddisoota], "meeshaa suuraawwan guddisuuf itti fayyadamu").
+entry(akkaatin, v, [akkaatamee, akkaataa, akkaatu], "tajaajila waraanaaf hirmaatu").
+entry(enlistee, n, [miseensota], "kan galmaa'e tokko").
+entry(enlister, n, [enlisters], "tokko kan galmeessaa").
+entry(jabeessu, v, [jabeesse,jabeessaa,jabeessuus], "jiraachisuuf taasisuu").
+entry(maakoo, v, [maakame,maakaa,maakota], "fuunfoo keessatti qabamuu ykn dhoowwuu").
+entry("diinummaa", n, ["diinummaan"], "mormii").
+entry(ennead, n, [enneads], "garee sagalENNEADIC adj").
+entry(enneagon, n, [enneagons], "nonagon'in").
+entry(ennoble, v, [ennobled,ennobling,ennobles], "kan kabajaa taasisu").
+entry(ennobler, n, [ennoblers], "kan kabaja").
+entry(ennui, n, [ennuis], "saba nutti dhufu keessaatiif quuftee fi jaalalli dhabamuu").
+entry(ennuye, adj, [], "dadhabbii fi hawwiin guutame").
+entry(ennuyee, adj, [], "dallanee").
+entry(enoki, n, [enokis], "muka xiqqaa").
+galmee(enol, n, [enols], "wal-harkifto (walitti bu'uura) kiimikaAWAL QAQAQ BIINDOOMQ").
+entry(enolase, n, [enolases], "inzaayimii").
+entry(enology, n, [enologies], "oenology").
+entry(jaalala_wayinii, n, [jaalala_wayiinii], "oenophile").
+entry(enorm, adj, [], "jabduu").
+galmee(jibbiinsa_hamaa, n, [jibbiinsa_hamaawwan], "hammeenya guddaa").
+entry(enormous, adj, [], "gurguddaa").
+entry(enosis, n, [enosises], "tokkummaa").
+entry_enough, n, [enoughs], "ergama gahaa".
+entry(azzaabi, v, [azzaabe, azzabuu, azzaaba], "dhaggeeffachuu").
+entry(enow, n, [enows], "ga'ee").
+entry(emeergalu, v, [emeergale, emeergaluu, emeergallu], "lubbuu keessatti seenuu").
+entry(baruu, v, [barate,barachuuf,barataa], "hubachuu").
+entry(enquirer, n, [enquirers], "kan gaafatu tokko").
+entry('oda', n, ['oduu'], "gaaffii").
+entry(gaddu, v, [gurraachise, gurraachisaa, gurraachisu], "hin bakka bu'i").
+entry(enrapt, adj, [], "rapt").
+entry(enravish, v, [enravished,enravishing,enravishes], "gammachiisa guddaa argamsiisuu").
+entry(bu'uurressi, v, [bu'uurresuun,bu'uurressaa,bu'uurresu], "akka wanta fokkataa ta'etti wantoota gaarii dabaluuf").
+entry(enricher, n, [enrichers], "kan badhaasa").
+entry(enrobe, v, [enrobed,enrobing,enrobes], "gaa'ila").
+entry(enrober, n, [enrobers], "kan uffistaa").
+entry(hirmaannaa, v, [hirmaanne, hirmaachaa, hirmaata], "hirmaachuu").
+entry(akkaata, v, [akkaate,akkaatamaa,akkaata], "maqaa galmee keessa galchuu fi ragaa galmee ykn yeroo galmeessuu").
+entry(hirmaataa, n, [hirmaatoota], "nama galmaa’e tokko").
+entry(enroller, n, [enrollers], "namni galmeessa").
+entry(enrolling, present, [], "participle of enrol").
+entry(enroot, v, [enrooted, enrooting, enroots], "qabsiisuu").
+entry(ens, n, [entia], "wanta").
+entry(ensample, n, [ensamples], "kana fakkenya").
+entry(baqachu, v, [baqate,baqachaa,baqatu], "iddoo tasgabbaa'een yookiin tasgabbiin jiraachuuf").
+entry(enscroll, v, [enscrolled, enscrolling, enscrolls], "barreeffama yookaan galchuu").
+entry(ensemble, n, [ensembles], "garee qaamolee wal-cinaa'aa").
+entry(enserf, v, [enserfed, enserfing, enserfs], "akka gabbaaritti taasisa").
+entry(ensheath, v, [ensheathed,ensheathing,ensheaths], "kallacha keessatti uwwisuudha").
+entry(wareegama, v, [wareegamee,wareegamnee,wareegamti], "iddoo kabajamaa keessatti kaa'uu").
+entry(enshroud, v, [enshrouded,enshrouding,enshrouds], "dhoksuu").
+entry(ensiform, adj, [], "akka seefuu").
+entry('ensign', n, ['ensigns'], "ajajaan waraanaa").
+entry(ensigncy, n, [ensigncies], "saffiifiifi tokko").
+entry(ensilage, v, [ensilaged, ensilaging, ensilages], "ijoo").
+entry(ensile, v, [ensiled,ensiling,ensiles], "akkaasaan olee kuusuuf").
+entry(ensky, v, [enskyed,enskying,enskies], "akka tokkicha kudha taate").
+entry(marka, v, [markate,markaalaa,markatu], "garba godhu").
+entry(garbifataa, n, [garbifattoota], "kan namoota garba taasisa").
+entry(enciinsisuu, v, [enciinsifame, enciinsisaa, enciinsisu], "deemuu").
+entry(ensnarer, n, [ensnarers], "kan hatatu").
+entry(ensnarl, v, [ensnarled, ensnarling, ensnarls], "dnaquu").
+entry(ensorcel, v, [ensorceled,ensorceling,ensorcels], "duudubee").
+entry(ensoul, v, [ensouled,ensouling,ensouls], "jinniin kenna").
+entry(ensphere, v, [ensphered, ensphering, enspheres], "akka gaaraa keessaatti qabuu").
+entry(zamu, v, [zamte,zama,zamti], "akka booda ykn akka bu’aa dhufu").
+galmee(ensuite, n, [ensuites], "kutaa biraatiin walqabatee wiirtuu faltaa qabu").
+entry(ensure, v, [ensured,ensuring,ensures], "dhugoomsuuf").
+entry(ensurer, n, [ensurers], "kan mirkaneessu tokko").
+entry(enswathe, v, [enswathed, enswathing, enswathes], "uffisuu").
+entry(entail, v, [entailed,entailing,entails], "dhaalchuu dhaalamtoota adda ta'aniif daangeessuuf").
+entry(entailer, n, [entailers], "kan walqabsiisu").
+entry(entameba, n, [entamebas], "ykn ENTAMEBAEendameba").
+galch(entangle, v, [entangled, entangling, entangles], "walitti naanna'uu").
+entry(entasia, n, [entasias], "cacalaqu fiixee muruqa butkufsi").
+entry(entasis, n, [enteesis], "gatabboo xiqqaa dalga keessattiENTASTIC adj").
+entry(entellus, n, [entelluses], "hanumaan tokko").
+entry(entente, n, [ententes], "waliigaltee biyyoota gidduutti").
+entry( seeni, v, [seenee,seenaa,seenani], "gala ykn lixuu").
+entry(entera, a, [], "sob peeyletii enteron").
+entry(enteral, adj, [], "hormaataan").
+entry(seena, n, [seenota], "kan seenu").
+entry(enteric, adj, [], "kan qaama nyaataa ilaallatu").
+entry(enterics, npl, [], "maatii baakteriyaa").
+entry(enteron, n, [enterons], "ykn ENTERAlubbu-qabeessa nyaataffataa").
+entry(enthalpy, n, [enthaalaafiiwwan], "qindeessuu midhaagaa miiraa ho'a").
+entry(enthetic, adj, [], "alhifadhuun ala irraa gale").
+entry(gammachiisi, v, [gammachiise, gammachiisaa, gammachiisa], "gammachiisuu").
+entry(gammachiisi, v, [gammachiise, gammachiisaa, gammachiisu], "boonessa").
+entry(*muddeessu*, v, [*muddeesse*,*muddeessaa*], "iddoo teessoo ganamaa irra kaa’uu").
+entry(duuchisuu, v, [duuchise,duuchisaa,duuchisu], "gammachuu agarsiisuuf").
+entry(entia, pl, [enticers], "one that enticesENTIRE n pl ENTIRESthe whole of somethingENTIRELY adv completelyENTIRETY n pl ENTIRETIEScompletenessENTITLE v ENTITLED ENTITLING ENTITLESto give a title toENTITY n pl ENTITIESsomething that has a real existenceENTODERM n pl ENTODERMSendodermENTOIL v ENTOILED ENTOILING ENTOILSto entrapENTOMB v ENTOMBED ENTOMBING ENTOMBSto place in a tombENTOPIC adj situated in the normal placeENTOZOA pl of entozoonENTOZOAL adj entozoicENTOZOAN n pl ENTOZOANSan entozoic parasiteENTOZOIC adj living within an animalENTOZOON n pl ENTOZOAentozoanENTRAILS npl the internal organsENTRAIN v ENTRAINED ENTRAINING ENTRAINSto board a trainENTRANCE v ENTRANCED ENTRANCING ENTRANCESto fill with delight or wonderENTRANT n pl ENTRANTSone that entersENTRAP v ENTRAPPED ENTRAPPING ENTRAPSto trapENTREAT v ENTREATED ENTREATING ENTREATSto ask for earnestlyENTREATY n pl ENTREATIESan earnest requestENTREE n pl ENTREESthe principal dish of a mealENTRENCH v ENTRENCHED ENTRENCHING ENTRENCHESto establish firmlyENTREPOT n pl ENTREPOTSa warehouseENTRESOL n pl ENTRESOLSa mezzanineENTRIES pl of entryENTROPY n pl ENTROPIESa thermodynamic measure of disorderENTROPIC adjENTRUST v ENTRUSTED ENTRUSTING ENTRUSTSto give over for safekeepingENTRY n pl ENTRIESa place of entranceENTRYWAY n pl ENTRYWAYSa passage serving as an entranceENTWINE v ENTWINED ENTWINING ENTWINESto twine aroundENTWIST v ENTWISTED ENTWISTING ENTWISTSto twist togetherENURE v ENURED ENURING ENURESto inureENURESIS n pl ENURESESinvoluntary urinationENURETIC n pl ENURETICSone who is affected with enuresisENVELOP v ENVELOPED ENVELOPING ENVELOPSto cover completelyENVELOPE n pl ENVELOPESa paper containerENVENOM v ENVENOMED ENVENOMING ENVENOMSto put venom intoENVIABLE adj desirableENVIABLY advENVIED past tense of envyENVIER n pl ENVIERSone that enviesENVIES present 3d person sing of envyENVIOUS adj resentful and desirous of anothers possessions or qualitiesENVIRO n pl ENVIROSan advocate for the preservation of the natural environmentENVIRON v ENVIRONED ENVIRONING ENVIRONSto encircleENVISAGE v ENVISAGED ENVISAGING ENVISAGESto form a mental image ofENVISION v ENVISIONED ENVISIONING ENVISIONSto envisageENVOI n pl ENVOISthe closing of a poem or prose workENVOY n pl ENVOYSa representativeENVY v ENVIED ENVYING ENVIESto be envious ofENWHEEL v ENWHEELED ENWHEELING ENWHEELSto encircleENWIND v ENWOUND ENWINDING ENWINDSto wind aroundENWOMB v ENWOMBED ENWOMBING ENWOMBSto enclose as if in a wombENWRAP v ENWRAPPED ENWRAPPING ENWRAPSto envelopENZOOTIC n pl ENZOOTICSa type of animal diseaseENZYM n pl ENZYMSenzymeENZYME n pl ENZYMESa complex proteinENZYMIC adjEOBIONT n pl EOBIONTSa type of basic organismEOHIPPUS n pl EOHIPPUSESan extinct horseEOLIAN adj pertaining to the windEOLIPILE n pl EOLIPILESa type of engineEOLITH n pl EOLITHSa prehistoric stone toolEOLITHIC adjEOLOPILE n pl EOLOPILESeolipileEON n pl EONSan indefinitely long period of timeEONIAN adj everlastingEONISM n pl EONISMSadoption of the dress and mannerisms of the opposite sexEOSIN n pl EOSINSa red dyeEOSINIC adjEOSINE n pl EOSINESeosinEPACT n pl EPACTSthe difference between the lengths of the solar and lunar yearsEPARCH n pl EPARCHSthe head of an eparchyEPARCHY n pl EPARCHIESa district of modern GreeceEPATER v EPATERED EPATERING EPATERSto shock complacent peopleEPAULET n pl EPAULETSa shoulder ornamentEPAZOTE n pl EPAZOTESan herb of the goosefoot familyEPEE n pl EPEESa type of swordEPEEIST n pl EPEEISTSone who fences with an epeeEPEIRIC adj pertaining to vertical movement of the earths crustEPENDYMA n pl EPENDYMASa membrane lining certain body cavitiesEPERGNE n pl EPERGNESan ornamental dishEPHA n pl EPHASephahEPHAH n pl EPHAHSa Hebrew unit of dry measureEPHEBE n pl EPHEBESephebusEPHEBIC adjEPHEBOS n pl EPHEBOIephebusEPHEBUS n pl EPHEBIa young man of ancient GreeceEPHEDRA n pl EPHEDRASa desert shrubEPHEDRIN n pl EPHEDRINSan alkaloid used to treat allergiesEPHEMERA n pl EPHEMERAS or EPHEMERAEsomething of very short life or durationEPHOD n pl EPHODSan ancient Hebrew vestmentEPHOR n pl EPHORS or EPHORIa magistrate of ancient GreeceEPHORAL adjEPHORATE n pl EPHORATESthe office of ephorEPIBLAST n pl EPIBLASTSthe ectodermEPIBOLY n pl EPIBOLIESthe growth of one part around anotherEPIBOLIC adjEPIC n pl EPICSa long narrative poemEPICAL adjEPICALLY advEPICALYX n pl EPICALYXES or EPICALYCESa set of bracts close to and resembling a calyxEPICARP n pl EPICARPSthe outer layer of a pericarpEPICEDIA npl funeral songsEPICENE n pl EPICENESone having both male and female characteristicsEPICLIKE adj resembling an epicEPICOTYL n pl EPICOTYLSa part of a plant embryoEPICURE n pl EPICURESa gourmetEPICYCLE n pl EPICYCLESa circle that rolls on the circumference of another circleEPIDEMIC n pl EPIDEMICSa rapid spread of a diseaseEPIDERM n pl EPIDERMSthe outer layer of skinEPIDOTE n pl EPIDOTESa mineralEPIDOTIC adjEPIDURAL n pl EPIDURALSan injection to produce loss of sensationEPIFAUNA n pl EPIFAUNAS or EPIFAUNAEfauna living on a hard sea floorEPIFOCAL adj pertaining to the point of origin of an earthquakeEPIGEAL adj epigeousEPIGEAN adj epigeousEPIGEIC adj epigeousEPIGENE adj occurring near the surface of the earthEPIGENIC adj pertaining to change in the mineral character of a rockEPIGEOUS adj growing on or close to the groundEPIGON n pl EPIGONSepigoneEPIGONE n pl EPIGONESan inferior imitatorEPIGONIC adjEPIGONUS n pl EPIGONIepigoneEPIGRAM n pl EPIGRAMSa brief witty remarkEPIGRAPH n pl EPIGRAPHSan engraved inscriptionEPIGYNY n pl EPIGYNIESthe state of having floral organs near the top of the ovaryEPILATE v EPILATED EPILATING EPILATESto remove hair fromEPILATOR n pl EPILATORSan agent for removing hairEPILEPSY n pl EPILEPSIESa disorder of the nervous systemEPILOG n pl EPILOGSa concluding sectionEPILOGUE v EPILOGUED EPILOGUING EPILOGUESto provide with a concluding sectionEPIMER n pl EPIMERSa type of sugar compoundEPIMERIC adjEPIMERE n pl EPIMERESa part of an embryoEPIMYSIA npl muscle sheathsEPINAOS n pl EPINAOIa rear vestibuleEPINASTY n pl EPINASTIESa downward bending of plant partsEPIPHANY n pl EPIPHANIESan appearance of a deityEPIPHYTE n pl EPIPHYTESa plant growing upon another plantEPISCIA n pl EPISCIASa tropical herbEPISCOPE n pl EPISCOPESa type of projectorEPISODE n pl EPISODESan incident in the course of a continuous experienceEPISODIC adjEPISOME n pl EPISOMESa genetic determinantEPISOMAL adjEPISTASY n pl EPISTASIESa suppression of genetic effectEPISTLE n pl EPISTLESa long or formal letterEPISTLER n pl EPISTLERSone that writes epistlesEPISTOME n pl EPISTOMESa structure covering the mouth of various invertebratesEPISTYLE n pl EPISTYLESa part of a classical buildingEPITAPH n pl EPITAPHSan inscription on a tombEPITASIS n pl EPITASESthe main part of a classical dramaEPITAXY n pl EPITAXIESa type of crystalline growthEPITAXIC adjEPITHET n pl EPITHETSa term used to characterize a person or thingEPITOME n pl EPITOMESa typical or ideal exampleEPITOMIC adjEPITOPE n pl EPITOPESa region on the surface of an antigenEPIZOA pl of epizoonEPIZOIC adj living on the body of an animalEPIZOISM n pl EPIZOISMSthe state of being epizoicEPIZOITE n pl EPIZOITESan epizoic organismEPIZOON n pl EPIZOAan epizoic parasiteEPIZOOTY n pl EPIZOOTIESa type of animal diseaseEPOCH n pl EPOCHSa particular period of timeEPOCHAL adjEPODE n pl EPODESa type of poemEPONYM n pl EPONYMSthe person for whom something is namedEPONYMIC adjEPONYMY n pl EPONYMIESthe derivation of an eponymic nameEPOPEE n pl EPOPEESan epic poemEPOPOEIA n pl EPOPOEIASepopeeEPOS n pl EPOSESan epic poemEPOXIDE n pl EPOXIDESan epoxy compoundEPOXY v EPOXIED or EPOXYED EPOXYING EPOXIESto glue with epoxy a type of resinEPSILON n pl EPSILONSa Greek letterEQUABLE adj not changing or varying greatlyEQUABLY advEQUAL adj having the same capability quantity or effect as anotherEQUAL v EQUALED EQUALING EQUALS or EQUALLED EQUALLING EQUALSto be equal toEQUALISE v EQUALISED EQUALISING EQUALISESto equalizeEQUALITY n pl EQUALITIESthe state of being equalEQUALIZE v EQUALIZED EQUALIZING EQUALIZESto make equalEQUALLED a past tense of equalEQUALLING a past participle of equalEQUALLY adv in an equal mannerEQUATE v EQUATED EQUATING EQUATESto make equalEQUATION n pl EQUATIONSthe act of equatingEQUATIVE adj denoting a sentence in which one term is identified with anotherEQUATOR n pl EQUATORSa great circle of spherical celestial bodiesEQUERRY n pl EQUERRIESan officer in charge of the care of horsesEQUES n pl EQUITESa member of a privileged military class of ancient RomeEQUID n pl EQUIDSan animal of the horse familyEQUINE n pl EQUINESa horseEQUINELY adv in a horselike mannerEQUINITY n pl EQUINITIESthe state of being like a horseEQUINOX n pl EQUINOXESa point on the celestial sphereEQUIP v EQUIPPED EQUIPPING EQUIPSto provide with whatever is neededEQUIPAGE n pl EQUIPAGESa carriageEQUIPPER n pl EQUIPPERSone that equipsEQUISETA npl rushlike plantsEQUITANT adj overlappingEQUITES pl of equesEQUITY n pl EQUITIESfairness or impartialityEQUIVOKE n pl EQUIVOKESa play on wordsER interj  used to express hesitationERA n pl ERASan epochERADIATE v ERADIATED ERADIATING ERADIATESto radiateERASE v ERASED ERASING ERASESto rub or scrape outERASABLE adjERASER n pl ERASERSone that erasesERASION n pl ERASIONSan erasureERASURE n pl ERASURESthe act of erasingERBIUM n pl ERBIUMSa metallic elementERE prep previous to beforeERECT v ERECTED ERECTING ERECTSto buildERECTER n pl ERECTERSerectorERECTILE adj capable of being raised uprightERECTION n pl ERECTIONSthe act of erectingERECTIVE adj tending to erectERECTLY adv in an upright mannerERECTOR n pl ERECTORSone that erectsERELONG adv soonEREMITE n pl EREMITESa hermitEREMITIC adjEREMURUS n pl EREMURUSES or EREMURIa perennial herbERENOW adv before this timeEREPSIN n pl EREPSINSa mixture of enzymes in the small intestineERETHISM n pl ERETHISMSabnormal irritabilityERETHIC adjEREWHILE adv some time agoERG n pl ERGSa unit of work or energyERGASTIC adj constituting the nonliving byproducts of protoplasmic activityERGATE n pl ERGATESa worker antERGATIVE n pl ERGATIVESa type of verbERGO conj thereforeERGODIC adj pertaining to the probability that any state will recurERGOT n pl ERGOTSa fungusERGOTIC adjERGOTISM n pl ERGOTISMSpoisoning produced by eating ergotinfected grainERICA n pl ERICASa shrub of the heath familyERICOID adj resembling heathERIGERON n pl ERIGERONSan herbERINGO n pl ERINGOS or ERINGOESeryngoERISTIC n pl ERISTICSan expert in debateERLKING n pl ERLKINGSan evil spirit of Germanic folkloreERMINE n pl ERMINESthe fur of certain weaselsERMINED adjERN n pl ERNSerneERNE n pl ERNESa sea eagleERODABLE adj erosibleERODE v ERODED ERODING ERODESto wear away by constant frictionERODENT adj erosiveERODIBLE adj erosibleEROGENIC adj arousing sexual desireEROS n pl EROSESsexual desireEROSE adj unevenEROSELY advEROSIBLE adj capable of being erodedEROSION n pl EROSIONSthe act of erodingEROSIVE adj causing erosionEROTIC n pl EROTICSan amatory poemEROTICAL adjEROTICA npl literature or art dealing with sexual loveEROTISM n pl EROTISMSsexual excitementEROTIZE v EROTIZED EROTIZING EROTIZESto give a sexual meaning toERR v ERRED ERRING ERRSto make a mistakeERRABLE adjERRANCY n pl ERRANCIESan instance of erringERRAND n pl ERRANDSa short trip made for a particular purposeERRANT n pl ERRANTSa wandererERRANTLY adv in a wandering mannerERRANTRY n pl ERRANTRIESthe state of wanderingERRATA n pl ERRATASa list of printing errorsERRATIC n pl ERRATICSan eccentric personERRATUM n pl ERRATAa printing errorERRHINE n pl ERRHINESa substance that promotes nasal dischargeERRINGLY adv in a mistaken mannerERROR n pl ERRORSa mistakeERS n pl ERSEServilERSATZ n pl ERSATZESa substituteERST adv formerlyERUCT v ERUCTED ERUCTING ERUCTSto belchERUCTATE v ERUCTATED ERUCTATING ERUCTATESto eructERUDITE adj scholarlyERUGO n pl ERUGOSaerugoERUMPENT adj bursting forthERUPT v ERUPTED ERUPTING ERUPTSto burst forthERUPTION n pl ERUPTIONSthe act of eruptingERUPTIVE n pl ERUPTIVESa type of rockERUV n pl ERUVIM or ERUVSan enclosed area in which Jews are permitted to carry on activities normally forbidden on the SabbathERVIL n pl ERVILSa European vetchERYNGIUM n pl ERYNGIUMSa plant of the parsley familyERYNGO n pl ERYNGOS or ERYNGOESa medicinal herbERYTHEMA n pl ERYTHEMASa redness of the skinERYTHRON n pl ERYTHRONSa bodily organ consisting of the red blood cellsES n pl ESESessESCALADE v ESCALADED ESCALADING ESCALADESto enter by means of laddersESCALATE v ESCALATED ESCALATING ESCALATESto increaseESCALLOP v ESCALLOPED ESCALLOPING ESCALLOPSto scallopESCALOP v ESCALOPED ESCALOPING ESCALOPSto escallopESCALOPE n pl ESCALOPESa thin slice of meat or fishESCAPADE n pl ESCAPADESa reckless adventureESCAPE v ESCAPED ESCAPING ESCAPESto get awayESCAPEE n pl ESCAPEESone that has escapedESCAPER n pl ESCAPERSone that escapesESCAPISM n pl ESCAPISMSthe avoidance of reality by diversion of the mindESCAPIST n pl ESCAPISTSone given to escapismESCAR n pl ESCARSeskerESCARGOT n pl ESCARGOTSan edible snailESCAROLE n pl ESCAROLESa variety of endiveESCARP v ESCARPED ESCARPING ESCARPSto cause to slope steeplyESCHALOT n pl ESCHALOTSa shallotESCHAR n pl ESCHARSa hard dry scabESCHEAT v ESCHEATED ESCHEATING ESCHEATSto confiscateESCHEW v ESCHEWED ESCHEWING ESCHEWSto avoidESCHEWAL n pl ESCHEWALSthe act of eschewingESCHEWER n pl ESCHEWERSone that avoids somethingESCOLAR n pl ESCOLARSa food fishESCORT v ESCORTED ESCORTING ESCORTSto accompanyESCOT v ESCOTED ESCOTING ESCOTSto provide support forESCROW v ESCROWED ESCROWING ESCROWSto place in the custody of a third partyESCUAGE n pl ESCUAGESscutageESCUDO n pl ESCUDOSa former monetary unit of PortugalESCULENT n pl ESCULENTSsomething that is edibleESERINE n pl ESERINESa toxic alkaloidESKAR n pl ESKARSeskerESKER n pl ESKERSa narrow ridge of gravel and sandESNE n pl ESNESa laborer in AngloSaxon EnglandESOPHAGI npl tubes connecting the mouth to the stomachESOTERIC adj designed for a select fewESPALIER v ESPALIERED ESPALIERING ESPALIERSto furnish with a trellisESPANOL n pl ESPANOLESa native of SpainESPARTO n pl ESPARTOSa perennial grassESPECIAL adj specialESPIAL n pl ESPIALSthe act of espyingESPIED past tense of espyESPIEGLE adj playfulESPIES present 3d person sing of espyESPOIR n pl ESPOIRSa category of wrestlersESPOUSAL n pl ESPOUSALSa marriage ceremonyESPOUSE v ESPOUSED ESPOUSING ESPOUSESto marryESPOUSER n pl ESPOUSERSone that espousesESPRESSO n pl ESPRESSOSa strong coffeeESPRIT n pl ESPRITSspiritESPY v ESPIED ESPYING ESPIESto catch sight ofESQUIRE v ESQUIRED ESQUIRING ESQUIRESto escortESS n pl ESSESthe letter SESSAY v ESSAYED ESSAYING ESSAYSto tryESSAYER n pl ESSAYERSone that essaysESSAYIST n pl ESSAYISTSa writer of essays prose compositionsESSE n pl ESSESessential natureESSENCE n pl ESSENCESa fundamental nature or qualityESSOIN n pl ESSOINSan excuseESSONITE n pl ESSONITESa variety of garnetEST n pl ESTSa group technique for raising selfawarenessESTANCIA n pl ESTANCIASa cattle ranchESTATE v ESTATED ESTATING ESTATESto provide with landed propertyESTEEM v ESTEEMED ESTEEMING ESTEEMSto have a high opinion ofESTER n pl ESTERSa type of chemical compoundESTERASE n pl ESTERASESa type of enzymeESTERIFY v ESTERIFIED ESTERIFYING ESTERIFIESto convert into an esterESTHESIA n pl ESTHESIASthe ability to receive sensationESTHESIS n pl ESTHESISES or ESTHESESesthesiaESTHETE n pl ESTHETESan esthetic personESTHETIC n pl ESTHETICSa conception of beautyESTIMATE v ESTIMATED ESTIMATING ESTIMATESto make an approximate judgment ofESTIVAL adj pertaining to summerESTIVATE v ESTIVATED ESTIVATING ESTIVATESto spend the summerESTOP v ESTOPPED ESTOPPING ESTOPSto impede by estoppelESTOPPEL n pl ESTOPPELSa legal restraint preventing a person from contradicting his own previous statementESTOVERS npl necessities allowed by lawESTRAGON n pl ESTRAGONStarragonESTRAL adj estrousESTRANGE v ESTRANGED ESTRANGING ESTRANGESto alienateESTRAY v ESTRAYED ESTRAYING ESTRAYSto strayESTREAT v ESTREATED ESTREATING ESTREATSto copy from court records for use in prosecutionESTRIN n pl ESTRINSestroneESTRIOL n pl ESTRIOLSan estrogenESTROGEN n pl ESTROGENSa female sex hormone promoting or producing estrusESTRONE n pl ESTRONESan estrogenESTROUS adj pertaining to estrusESTRUAL adj estrousESTRUM n pl ESTRUMSestrusESTRUS n pl ESTRUSESthe period of heat in female mammalsESTUARY n pl ESTUARIESan inlet of the sea at a rivers lower endESURIENT adj greedyET a past tense of eatETA n pl ETASa Greek letterETAGERE n pl ETAGERESan ornamental standETALON n pl ETALONSan optical instrumentETAMIN n pl ETAMINSetamineETAMINE n pl ETAMINESa loosely woven fabricETAPE n pl ETAPESa warehouseETATISM n pl ETATISMSstate socialismETATIST adjETCETERA n pl ETCETERASa number of additional itemsETCH v ETCHED ETCHING ETCHESto engrave with acidETCHANT n pl ETCHANTSa substance used in etchingETCHER n pl ETCHERSone that etchesETCHING n pl ETCHINGSan etched designETERNAL n pl ETERNALSsomething lasting foreverETERNE adj everlastingETERNISE v ETERNISED ETERNISING ETERNISESto eternizeETERNITY n pl ETERNITIESinfinite timeETERNIZE v ETERNIZED ETERNIZING ETERNIZESto make everlastingETESIAN n pl ETESIANSan annually recurring windETH n pl ETHSedhETHANAL n pl ETHANALSa volatile liquid compoundETHANE n pl ETHANESa gaseous hydrocarbonETHANOL n pl ETHANOLSan alcoholETHENE n pl ETHENESethyleneETHEPHON n pl ETHEPHONSa synthetic plant growth regulatorETHER n pl ETHERSa volatile liquid used as an anestheticETHERIC adjETHEREAL adj airyETHERIFY v ETHERIFIED ETHERIFYING ETHERIFIESto convert into etherETHERISE v ETHERISED ETHERISING ETHERISESto etherizeETHERISH adj resembling etherETHERIZE v ETHERIZED ETHERIZING ETHERIZESto treat with etherETHIC n pl ETHICSa body of moral principlesETHICAL n pl ETHICALSa drug sold by prescription onlyETHICIAN n pl ETHICIANSan ethicistETHICIST n pl ETHICISTSa specialist in ethicsETHICIZE v ETHICIZED ETHICIZING ETHICIZESto make ethicalETHINYL n pl ETHINYLSethynylETHION n pl ETHIONSa pesticideETHMOID n pl ETHMOIDSa bone of the nasal cavityETHNARCH n pl ETHNARCHSthe ruler of a people or provinceETHNIC n pl ETHNICSa member of a particular ethnosETHNICAL adjETHNONYM n pl ETHNONYMSthe name of an ethnic groupETHNOS n pl ETHNOSESa group of people who share a common and distinctive cultureETHOGRAM n pl ETHOGRAMSa list of the behavior patterns of a speciesETHOLOGY n pl ETHOLOGIESthe study of animal behaviorETHOS n pl ETHOSESthe fundamental character of a cultureETHOXY n pl ETHOXIESethoxylETHOXYL n pl ETHOXYLSa univalent chemical radicalETHYL n pl ETHYLSa univalent chemical radicalETHYLATE v ETHYLATED ETHYLATING ETHYLATESto introduce the ethyl group intoETHYLENE n pl ETHYLENESa flammable gasETHYLIC adj pertaining to ethylETHYNE n pl ETHYNESa flammable gasETHYNYL n pl ETHYNYLSa univalent chemical radicalETICS npl a type of linguistic analysisETIC adjETIOLATE v ETIOLATED ETIOLATING ETIOLATESto whitenETIOLOGY n pl ETIOLOGIESthe study of the causes of diseasesETNA n pl ETNASa container for heating liquidsETOILE n pl ETOILESa starETOUFFEE n pl ETOUFFEESa Cajun stewETRIER n pl ETRIERSa short rope ladderETUDE n pl ETUDESa piece of music for the practice of a point of techniqueETUI n pl ETUISa case for holding small articlesETWEE n pl ETWEESetuiETYMON n pl ETYMONS or ETYMAthe earliest known form of a wordEUCAINE n pl EUCAINESan anestheticEUCALYPT n pl EUCALYPTSan evergreen treeEUCHARIS n pl EUCHARISESa flowering plantEUCHRE v EUCHRED EUCHRING EUCHRESto prevent from winning three tricks in euchre a card gameEUCLASE n pl EUCLASESa mineralEUCRITE n pl EUCRITESa type of meteoriteEUCRITIC adjEUDAEMON n pl EUDAEMONSeudemonEUDAIMON n pl EUDAIMONSeudemonEUDEMON n pl EUDEMONSa good spiritEUGENIA n pl EUGENIASa tropical evergreen treeEUGENICS npl the science of hereditary improvementEUGENIC adjEUGENIST n pl EUGENISTSa student of eugenicsEUGENOL n pl EUGENOLSan aromatic liquidEUGLENA n pl EUGLENASa freshwater protozoanEUGLENID n pl EUGLENIDSa euglenaEULACHAN n pl EULACHANSeulachonEULACHON n pl EULACHONSa marine food fishEULOGIA n pl EULOGIAEholy breadEULOGIA n pl EULOGIASa blessingEULOGIES pl of eulogyEULOGISE v EULOGISED EULOGISING EULOGISESto eulogizeEULOGIST n pl EULOGISTSone that eulogizesEULOGIUM n pl EULOGIUMS or EULOGIAa eulogyEULOGIZE v EULOGIZED EULOGIZING EULOGIZESto praise highlyEULOGY n pl EULOGIESa formal expression of high praiseEUNUCH n pl EUNUCHSa castrated manEUONYMUS n pl EUONYMUSESany of a genus of shrubs or small treesEUPATRID n pl EUPATRIDS or EUPATRIDAEan aristocrat of ancient AthensEUPEPSIA n pl EUPEPSIASgood digestionEUPEPTIC adjEUPEPSY n pl EUPEPSIESeupepsiaEUPHENIC adj dealing with biological improvementEUPHONY n pl EUPHONIESpleasant soundEUPHONIC adjEUPHORIA n pl EUPHORIASa feeling of wellbeingEUPHORIC adjEUPHOTIC adj pertaining to the upper layer of a body of waterEUPHRASY n pl EUPHRASIESan annual herbEUPHROE n pl EUPHROESa device used to adjust a shipboard awningEUPHUISM n pl EUPHUISMSan artificially elegant style of speech or writingEUPHUIST n pl EUPHUISTSone given to euphuismEUPLOID n pl EUPLOIDSa cell having three or more identical genomesEUPLOIDY n pl EUPLOIDIESthe state of being a euploidEUPNEA n pl EUPNEASnormal breathingEUPNEIC adjEUPNOEA n pl EUPNOEASeupneaEUPNOEIC adjEUREKA n pl EUREKASa fortunate discoveryEURIPUS n pl EURIPIa swift sea channelEURO n pl EUROSthe unit of currency used by most European countriesEUROKY n pl EUROKIESthe ability of an organism to live under variable conditionsEUROKOUS adjEUROLAND n pl EUROLANDSthe eurozoneEUROPIUM n pl EUROPIUMSa metallic elementEUROZONE n pl EUROZONESthe area formed by the countries using the euroEURYBATH n pl EURYBATHSan organism that can live in a wide range of water depthsEURYOKY n pl EURYOKIESeurokyEURYTHMY n pl EURYTHMIESharmony of movement or structureEUSOCIAL adj pertaining to an animal society marked by specialization of tasksEUSTACY n pl EUSTACIESa worldwide change in sea levelEUSTATIC adjEUSTASY n pl EUSTASIESeustacyEUSTELE n pl EUSTELESa plant partEUTAXY n pl EUTAXIESgood orderEUTECTIC n pl EUTECTICSan alloy that has the lowest possible melting pointEUTROPHY n pl EUTROPHIEShealthful nutritionEUXENITE n pl EUXENITESa mineralEVACUANT n pl EVACUANTSa cathartic medicineEVACUATE v EVACUATED EVACUATING EVACUATESto remove from a dangerous areaEVACUEE n pl EVACUEESone that is evacuatedEVADE v EVADED EVADING EVADESto escape or avoid by cleverness or deceitEVADABLE EVADIBLE adjEVADER n pl EVADERSone that evadesEVALUATE v EVALUATED EVALUATING EVALUATESto determine the value ofEVANESCE v EVANESCED EVANESCING EVANESCESto fade awayEVANGEL n pl EVANGELSa preacher of the gospelEVANISH v EVANISHED EVANISHING EVANISHESto vanishEVASION n pl EVASIONSthe act of evadingEVASIVE adj tending to evadeEVE n pl EVESeveningEVECTION n pl EVECTIONSirregularity in the moons motionEVEN adj EVENER EVENESTflat and smoothEVEN v EVENED EVENING EVENSto make evenEVENER n pl EVENERSone that evensEVENFALL n pl EVENFALLStwilightEVENING n pl EVENINGSthe latter part of the day and early part of the nightEVENLY adv in an even mannerEVENNESS n pl EVENNESSESthe state of being evenEVENSONG n pl EVENSONGSan evening prayer serviceEVENT n pl EVENTSsomething that occursEVENTER n pl EVENTERSa horse or rider competing in eventingEVENTFUL adj momentousEVENTIDE n pl EVENTIDESeveningEVENTING n pl EVENTINGSan equestrian competitionEVENTIVE adj denoting an eventEVENTUAL adj occurring at a later timeEVER adv at all timesEVERMORE adv foreverEVERSION n pl EVERSIONSthe act of evertingEVERT v EVERTED EVERTING EVERTSto turn outward or inside outEVERTOR n pl EVERTORSa muscle that turns a part outwardEVERY adj each without exceptionEVERYDAY n pl EVERYDAYSthe routine dayEVERYMAN n pl EVERYMENthe typical or ordinary manEVERYONE pron every personEVERYWAY adv in every wayEVICT v EVICTED EVICTING EVICTSto expel by legal processEVICTEE n pl EVICTEESone that is evictedEVICTION n pl EVICTIONSthe act of evictingEVICTOR n pl EVICTORSone that evictsEVIDENCE v EVIDENCED EVIDENCING EVIDENCESto indicate clearlyEVIDENT adj clear to the vision or understandingEVIL adj EVILER EVILEST or EVILLER EVILLESTmorally badEVIL n pl EVILSsomething that is evilEVILDOER n pl EVILDOERSone that does evilEVILLY adv in an evil mannerEVILNESS n pl EVILNESSESthe quality of being evilEVINCE v EVINCED EVINCING EVINCESto show clearlyEVINCIVE adjEVITE v EVITED EVITING EVITESto avoidEVITABLE adjEVOCABLE adj capable of being evokedEVOCATOR n pl EVOCATORSone that evokesEVOKE v EVOKED EVOKING EVOKESto call forthEVOKER n pl EVOKERSan evocatorEVOLUTE n pl EVOLUTESa type of geometric curveEVOLVE v EVOLVED EVOLVING EVOLVESto developEVOLVER n pl EVOLVERSone that evolvesEVONYMUS n pl EVONYMUSESeuonymusEVULSE v EVULSED EVULSING EVULSESto extract forciblyEVULSION n pl EVULSIONSthe act of pulling outEVZONE n pl EVZONESa Greek soldierEWE n pl EWESa female sheepEWER n pl EWERSa large pitcherEX v EXED EXING EXESto cross outEXABYTE n pl EXABYTESone quintillion bytesEXACT adj EXACTER EXACTESTpreciseEXACT v EXACTED EXACTING EXACTSto force the payment or yielding ofEXACTA n pl EXACTASa type of horse racing betEXACTER n pl EXACTERSone that exactsEXACTION n pl EXACTIONSthe act of exactingEXACTLY adv in an exact mannerEXACTOR n pl EXACTORSexacterEXAHERTZ n pl EXAHERTZone quintillion hertzEXALT v EXALTED EXALTING EXALTSto raiseEXALTER n pl EXALTERSone that exaltsEXAM n pl EXAMSan examinationEXAMEN n pl EXAMENSa critical studyEXAMINE v EXAMINED EXAMINING EXAMINESto inspectEXAMINEE n pl EXAMINEESone that is taking an examinationEXAMINER n pl EXAMINERSone that examinesEXAMPLE v EXAMPLED EXAMPLING EXAMPLESto show by representationEXANTHEM n pl EXANTHEMSa skin eruptionEXAPTED adj utililized for a function other than the one developed through natural selectionEXAPTIVE adj pertaining to an exapted functionEXARCH n pl EXARCHSthe ruler of a province in the Byzantine EmpireEXARCHAL adjEXARCHY n pl EXARCHIESthe domain of an exarchEXCAVATE v EXCAVATED EXCAVATING EXCAVATESto dig outEXCEED v EXCEEDED EXCEEDING EXCEEDSto go beyondEXCEEDER n pl EXCEEDERSone that exceedsEXCEL v EXCELLED EXCELLING EXCELSto surpass othersEXCEPT v EXCEPTED EXCEPTING EXCEPTSto leave outEXCERPT v EXCERPTED EXCERPTING EXCERPTSto pick out a passage from for quotingEXCESS v EXCESSED EXCESSING EXCESSESto eliminate the position ofEXCHANGE v EXCHANGED EXCHANGING EXCHANGESto give and receive reciprocallyEXCIDE v EXCIDED EXCIDING EXCIDESto exciseEXCIMER n pl EXCIMERSa dimer that exists in an excited stateEXCIPLE n pl EXCIPLESa rim around the hymenium of various lichensEXCISE v EXCISED EXCISING EXCISESto remove by cutting outEXCISION n pl EXCISIONSthe act of excisingEXCITANT n pl EXCITANTSa stimulantEXCITE v EXCITED EXCITING EXCITESto arouse the emotions ofEXCITER n pl EXCITERSone that excitesEXCITON n pl EXCITONSa phenomenon occurring in an excited crystalEXCITOR n pl EXCITORSexciterEXCLAIM v EXCLAIMED EXCLAIMING EXCLAIMSto cry out suddenlyEXCLAVE n pl EXCLAVESa portion of a country which is isolated in foreign territoryEXCLUDE v EXCLUDED EXCLUDING EXCLUDESto shut outEXCLUDER n pl EXCLUDERSone that excludesEXCRETA npl excreted matterEXCRETAL adjEXCRETE v EXCRETED EXCRETING EXCRETESto separate and eliminate from an organic bodyEXCRETER n pl EXCRETERSone that excretesEXCURSUS n pl EXCURSUSESa long appended exposition of a topicEXCUSE v EXCUSED EXCUSING EXCUSESto apologize forEXCUSER n pl EXCUSERSone that excusesEXEC n pl EXECSan executive officerEXECRATE v EXECRATED EXECRATING EXECRATESto curseEXECUTE v EXECUTED EXECUTING EXECUTESto carry outEXECUTER n pl EXECUTERSexecutorEXECUTOR n pl EXECUTORSone that executesEXEDRA n pl EXEDRAS or EXEDRAEa curved outdoor benchEXEGESIS n pl EXEGESEScritical explanation or analysisEXEGETIC adjEXEGETE n pl EXEGETESone skilled in exegesisEXEMPLAR n pl EXEMPLARSone that is worthy of being copiedEXEMPLUM n pl EXEMPLAan exampleEXEMPT v EXEMPTED EXEMPTING EXEMPTSto free from an obligation required of othersEXEQUY n pl EXEQUIESa funeral processionEXEQUIAL adjEXERCISE v EXERCISED EXERCISING EXERCISESto make use ofEXERGUE n pl EXERGUESa space on a coinEXERGUAL adjEXERT v EXERTED EXERTING EXERTSto put into actionEXERTION n pl EXERTIONSthe act of exertingEXERTIVE adj tending to exertEXEUNT v they leave the stage  used as a stage directionEXHALANT n pl EXHALANTSsomething that exhalesEXHALE v EXHALED EXHALING EXHALESto expel air or vaporEXHALENT n pl EXHALENTSexhalantEXHAUST v EXHAUSTED EXHAUSTING EXHAUSTSto use upEXHEDRA n pl EXHEDRAEexedraEXHIBIT v EXHIBITED EXHIBITING EXHIBITSto present for public viewingEXHORT v EXHORTED EXHORTING EXHORTSto advise urgentlyEXHORTER n pl EXHORTERSone that exhortsEXHUME v EXHUMED EXHUMING EXHUMESto dig out of the earthEXHUMER n pl EXHUMERSone that exhumesEXIGENCE n pl EXIGENCESexigencyEXIGENCY n pl EXIGENCIESurgencyEXIGENT adj urgentEXIGIBLE adj liable to be demandedEXIGUITY n pl EXIGUITIESthe state of being exiguousEXIGUOUS adj meagerEXILE v EXILED EXILING EXILESto banish from ones own countryEXILABLE adjEXILER n pl EXILERSone that exilesEXILIAN adj exilicEXILIC adj pertaining to exile banishment from ones own countryEXILING present participle of exileEXIMIOUS adj excellentEXINE n pl EXINESthe outer layer of certain sporesEXIST v EXISTED EXISTING EXISTSto beEXISTENT n pl EXISTENTSsomething that existsEXIT v EXITED EXITING EXITSto go outEXITLESS adj lacking a way outEXOCARP n pl EXOCARPSthe epicarpEXOCRINE n pl EXOCRINESan external secretionEXOCYTIC adj pertaining to cellular excretionEXODERM n pl EXODERMSthe ectodermEXODOS n pl EXODOIa concluding dramatic sceneEXODUS n pl EXODUSESa movement awayEXOERGIC adj releasing energyEXOGAMY n pl EXOGAMIESmarriage outside of a particular groupEXOGAMIC adjEXOGEN n pl EXOGENSa type of plantEXOGENIC adj formed or occurring on the surface of the earthEXON n pl EXONSa sequence in the genetic codeEXONIC adjEXONUMIA npl collectible items other than coins or paper moneyEXONYM n pl EXONYMSa name for a people used by outsiders and not by the people themselvesEXORABLE adj persuadableEXORCISE v EXORCISED EXORCISING EXORCISESto free of an evil spiritEXORCISM n pl EXORCISMSthe act of exorcisingEXORCIST n pl EXORCISTSone who practices exorcismEXORCIZE v EXORCIZED EXORCIZING EXORCIZESto exorciseEXORDIUM n pl EXORDIUMS or EXORDIAa beginningEXORDIAL adjEXOSMOSE n pl EXOSMOSESa form of osmosisEXOSMIC adjEXOSPORE n pl EXOSPORESthe outer coat of a sporeEXOTERIC adj suitable for the publicEXOTIC n pl EXOTICSsomething from another part of the worldEXOTICA npl things excitingly different or unusualEXOTISM n pl EXOTISMSan exoticEXOTOXIN n pl EXOTOXINSan excreted toxinEXOTOXIC adjEXPAND v EXPANDED EXPANDING EXPANDSto increase in size or volumeEXPANDER n pl EXPANDERSone that expandsEXPANDOR n pl EXPANDORSa type of transducerEXPANSE n pl EXPANSESa wide continuous areaEXPAT n pl EXPATSan expatriate personEXPECT v EXPECTED EXPECTING EXPECTSto anticipateEXPECTER n pl EXPECTERSone that expectsEXPEDITE v EXPEDITED EXPEDITING EXPEDITESto speed up the progress ofEXPEL v EXPELLED EXPELLING EXPELSto force outEXPELLEE n pl EXPELLEESa deporteeEXPELLER n pl EXPELLERSone that expelsEXPEND v EXPENDED EXPENDING EXPENDSto use upEXPENDER n pl EXPENDERSone that expendsEXPENSE v EXPENSED EXPENSING EXPENSESto charge with costsEXPERT v EXPERTED EXPERTING EXPERTSto serve as an authorityEXPERTLY adv skillfullyEXPIABLE adj capable of being expiatedEXPIATE v EXPIATED EXPIATING EXPIATESto atone forEXPIATOR n pl EXPIATORSone that expiatesEXPIRE v EXPIRED EXPIRING EXPIRESto come to an endEXPIRER n pl EXPIRERSone that expiresEXPIRY n pl EXPIRIESa terminationEXPLAIN v EXPLAINED EXPLAINING EXPLAINSto make plain or understandableEXPLANT v EXPLANTED EXPLANTING EXPLANTSto remove from the natural site of growth and place in a mediumEXPLICIT n pl EXPLICITSa statement formerly used at the close of a bookEXPLODE v EXPLODED EXPLODING EXPLODESto blow upEXPLODER n pl EXPLODERSone that explodesEXPLOIT v EXPLOITED EXPLOITING EXPLOITSto take advantage ofEXPLORE v EXPLORED EXPLORING EXPLORESto travel through for the purpose of discoveryEXPLORER n pl EXPLORERSone that exploresEXPO n pl EXPOSa public exhibitionEXPONENT n pl EXPONENTSone who expoundsEXPORT v EXPORTED EXPORTING EXPORTSto send to other countries for commercial purposesEXPORTER n pl EXPORTERSone that exportsEXPOSAL n pl EXPOSALSan exposureEXPOSE v EXPOSED EXPOSING EXPOSESto lay open to viewEXPOSER n pl EXPOSERSone that exposesEXPOSIT v EXPOSITED EXPOSITING EXPOSITSto expoundEXPOSURE n pl EXPOSURESthe act of exposingEXPOUND v EXPOUNDED EXPOUNDING EXPOUNDSto explain in detailEXPRESS v EXPRESSED EXPRESSING EXPRESSESto set forth in wordsEXPRESSO n pl EXPRESSOSespressoEXPULSE v EXPULSED EXPULSING EXPULSESto expelEXPUNGE v EXPUNGED EXPUNGING EXPUNGESto deleteEXPUNGER n pl EXPUNGERSone that expungesEXSCIND v EXSCINDED EXSCINDING EXSCINDSto cut outEXSECANT n pl EXSECANTSa trigonometric function of an angleEXSECT v EXSECTED EXSECTING EXSECTSto cut outEXSERT v EXSERTED EXSERTING EXSERTSto thrust outEXTANT adj still in existenceEXTEND v EXTENDED EXTENDING EXTENDSto stretch out to full lengthEXTENDER n pl EXTENDERSa substance added to another substanceEXTENSOR n pl EXTENSORSa muscle that extends a limbEXTENT n pl EXTENTSthe range over which something extendsEXTERIOR n pl EXTERIORSa part or surface that is outsideEXTERN n pl EXTERNSa nonresident of an institutionEXTERNAL n pl EXTERNALSan exteriorEXTERNE n pl EXTERNESexternEXTINCT v EXTINCTED EXTINCTING EXTINCTSto extinguishEXTOL v EXTOLLED EXTOLLING EXTOLSto praise highlyEXTOLL v EXTOLLED EXTOLLING EXTOLLSto extolEXTOLLER n pl EXTOLLERSone that extolsEXTORT v EXTORTED EXTORTING EXTORTSto obtain from a person by violence or intimidationEXTORTER n pl EXTORTERSone that extortsEXTRA n pl EXTRASsomething additionalEXTRACT v EXTRACTED EXTRACTING EXTRACTSto pull or draw outEXTRADOS n pl EXTRADOSESthe outer curve of an archEXTRANET n pl EXTRANETSan intranet that permits limited access by outsidersEXTREMA pl of extremumEXTREME adj EXTREMER EXTREMESTexisting in a very high degreeEXTREME n pl EXTREMESthe highest degreeEXTREMUM n pl EXTREMAa maximum or a minimum of a mathematical functionEXTROPY n pl EXTROPIESthe prediction that human intelligence will enable life to expand throughout the universeEXTRORSE adj facing outwardEXTRUDE v EXTRUDED EXTRUDING EXTRUDESto force thrust or push outEXTRUDER n pl EXTRUDERSone that extrudesEXTUBATE v EXTUBATED EXTUBATING EXTUBATESto remove a tube fromEXUDATE n pl EXUDATESan exuded substanceEXUDE v EXUDED EXUDING EXUDESto ooze forthEXULT v EXULTED EXULTING EXULTSto rejoice greatlyEXULTANT adj exultingEXURB n pl EXURBSa residential area lying beyond the suburbs of a cityEXURBAN adjEXURBIA n pl EXURBIASan exurbEXUVIAE npl the molted covering of an animalEXUVIAL adjEXUVIATE v EXUVIATED EXUVIATING EXUVIATESto moltEYAS n pl EYASESa young hawkEYASS n pl EYASSESeyasEYE n pl EYES or EYEN or EYNEthe organ of sightEYE v EYED EYING or EYEING EYESto watch closelyEYEABLE adjEYEBALL v EYEBALLED EYEBALLING EYEBALLSto eyeEYEBAR n pl EYEBARSa metal bar with a loop at one or both endsEYEBEAM n pl EYEBEAMSa glanceEYEBLACK n pl EYEBLACKSa dark pigment applied under the eyesEYEBLINK n pl EYEBLINKSan instantEYEBOLT n pl EYEBOLTSa type of bolt or screwEYEBROW n pl EYEBROWSthe ridge over the eyeEYECUP n pl EYECUPSa cup used for applying lotions to the eyesEYED past tense of eyeEYEDNESS n pl EYEDNESSESpreference for the use of one eye over the otherEYEDROPS npl a medicated solution for the eyes applied in dropsEYEFOLD n pl EYEFOLDSa fold of skin of the upper eyelidEYEFUL n pl EYEFULSa complete viewEYEGLASS n pl EYEGLASSESa lens used to aid visionEYEHOLE n pl EYEHOLESa small openingEYEHOOK n pl EYEHOOKSa type of hookEYELASH n pl EYELASHESa hair growing on the edge of an eyelidEYELESS adj lacking eyesEYELET v EYELETTED EYELETTING EYELETS or EYELETED EYELETING EYELETSto make a small hole inEYELID n pl EYELIDSthe lid of skin that can be closed over an eyeballEYELIFT n pl EYELIFTSplastic surgery of the eyelidEYELIKE adj resembling an eyeEYELINER n pl EYELINERSmakeup for the eyesEYEN a pl of eyeEYEPATCH n pl EYEPATCHESa patch worn to protect an injured eyeEYEPIECE n pl EYEPIECESthe lens or lens group nearest the eye in an optical instrumentEYEPOINT n pl EYEPOINTSthe point at which an eye is placed in using an optical instrumentEYER n pl EYERSone that eyesEYESHADE n pl EYESHADESa visor for shading the eyesEYESHINE n pl EYESHINESa reflection from the eyes of some animalsEYESHOT n pl EYESHOTSthe range of visionEYESIGHT n pl EYESIGHTSthe ability to seeEYESOME adj pleasant to look atEYESORE n pl EYESORESsomething offensive to the sightEYESPOT n pl EYESPOTSa simple visual organ of lower animalsEYESTALK n pl EYESTALKSa stalklike structure with an eye at its tipEYESTONE n pl EYESTONESa disk used to remove foreign matter from the eyeEYETOOTH n pl EYETEETHa cuspidEYEWASH n pl EYEWASHESan eye lotionEYEWATER n pl EYEWATERSan eyewashEYEWEAR n pl EYEWEARa device worn on or over the eyesEYEWINK n pl EYEWINKSa wink of the eyeEYING a present participle of eyeEYNE a pl of eyeEYRA n pl EYRASa wild cat of tropical AmericaEYRE n pl EYRESa journeyEYRIE n pl EYRIESaerieEYRIR n pl AURARa monetary unit of IcelandEYRY n pl EYRIESaerie").
+entry(fa, n, [fas], "gateen afraffaa kan yoo dirree muziiqaaleetti abduumatti siresa dha.").
+entry(fab, n, [fabs], "wantii uumame ykn ijaaramte").
+entry(fab, adj, [], "QANQAANI-QANQAANFABULOUS").
+entry(fable, v, [fabled,fabling,fables], "oduuwwan sobaa qopheessuu ykn himuu").
+entry(fabler, n, [fablers], "namni fable godhu tokko").
+entry(fabliau, n, [fabliaux], "gaaffii gabaabaa kan turtiin kaayyoo ta'e kan beekkamaa turte yerootti Faransaayitti").
+entry(fabling, present, [], "participle of fable").
+entry(dhaala, n, [dhaaltoota], "dhaala weefame ykn maramaarame ykn kubbutamee").
+entry(fabrique, n, [fabriques], "garee fakkii kan qabeenya mana kiristinaa waliin dalagu").
+entry(fabular, adj, [], "adda durummaa").
+entry(fabulate, v, [fabulated,fabulating,fabulates], "fakkeenya/daangaa tuqiinsi raawwataa").
+entry(fabulism, n, [fabulisms], "akka waan jajjabduu jireenya guyyaa guyyaatti ida'uudha").
+entry(fabulist, n, [fabulists], "sobdu").
+entry(fabulous, maq, [], "dhugaa fakkaachuu dhiibuu").
+entry(facade, n, [facades], "fuulduraa ijaarsa").
+entry(face, v, [faced,facing,faces], "kara itti dhihaatu ykn qoqqobuFACEABLE adj").
+entry(facedown, n, [facedowns], "wal dura dhaabbannaa giddutti kanneen mormitoota").
+entry(faceless, adj, [], "akkaataa fi maqaa barbaachisummaa hin qabne").
+entry(facelift, v, [facelifted,facelifting,facelifts], "fuula waliin waldhaansa yaala farra-fincoo raawwachuu").
+entry(facemask, n, [fuulaafeeccaa], "meeshaa fuula ittiin eegani").
+entry(faceoff, n, [faceoffs], "tarkaanfii tapha hockey jalqabu").
+entry(facer, n, [facers], "kan fuuldura ilaalu").
+galii(facet, v, [faceted,faceting,facets], "ykn FACETTED FACETTING FACETSSirratti lafa qajeellaatti xiqqoo muruuf").
+entry(facete, adj, [], "wittyFACETELY adv").
+entry(facetiae, npl, [], "jechoota yookiin barreeffamoota qosaa").
+entry(faceting, n, [facetings], "fuula dhagaa gammachuu qotamee").
+entry(faceup, adv, [], "fuulaan gubbaa ta'ee").
+entry(facia, n, [faciae], "ykn FAShIAfashia").
+galmee(facial, n, [facials], "waldhaansa fuulaaf ta'u").
+entry(facially, adv, [], "wantoota fuula irratti waliin jiruuf").
+entry(faciend, n, [faciends], "lakkoofsa kan biraa irratti deddeebi'eef").
+Asitti garagalchi: entry(facies, n, [facies], "ilaalcha waliigalaa").
+entry(facile, adj, [], "salfatti hojjetamuu ykn salphatti raawwatamuuFACILELY adv").
+galii(facility, n, [facilities], "saffisaa").
+entry(facing, n, [facings], "haati dhawaata irratti jiru").
+entry(fact, n, [facts], "waan beekamee kan amanameefiFACTFUL adj").
+entry(factice, n, [factices], "dhangala'a roba fakkaatuuf").
+entry(faction, n, [factions], "kutaa xiqqoo kan garee guddoo keessatti argaman").
+entry(factious, adj, [], "dhiibbaa fi wal dhabdee kakaasa").
+entry(factoid, n, [factoids], "odeeffannoo gabaabaa").
+entry(factor, v, [factored, factoring, factors], "kaasuu akka omisha lama yookaan caalaa").
+entry(factory, n, [manufakturii], "bakka ijaarsa ykn garee ijaarsaa kan immoo meeshaaleen achitti oomishaman").
+daangaa(factotum, n, [factotums], "namni hojjiwwan gosa hedduu hojjatu").
+entry(factual, adj, [], "kan dhugaa irratti hundaa'e").
+entry(factum, n, [factums], "yookiin FACTAa ibsa dhugaa hojii himatamaa kaasuu irratti hunda'uu").
+entry(facture, n, [factures], "gochaa wanti tokko ittiin hojjatamu").
+daangaa(facula, n, [faculae], "iddoo ifaa olaanaa ta'e muka aduuf irrattiFACULAR adj").
+entry(faculty, n, [faculties], "humna ykn dandeettii faayidaa isaanii of keessaa qabu").
+entry(fad, n, [fads], "muuxannoo ykn kaayyoo hanga dandeettiitti waqtii gabaabaa keessatti jaalatamu").
+entry(fadable, mac, [], "kan lafa deemu danda'u").
+entry(faddier, comparative, [], "faddy irraa").
+entry(faddiest, superlative, [], "kan faddy").
+entry(faddish, adj, [], "dallansuu fudhachuun jajjaboo ta’e").
+entry(faddism, n, [faddisms], "soddomaa dhufu fudhachuf yeroo dhihaatu").
+entry(faddist, n, [faddists], "namni faashini kaasa ykn jaallatu").
+entry(faddy, adj, [], "FADDIER FADDIESTfaddish").
+entry(fade, v, [faded,fading,fades], "laafaa bifa ykn ifa dhabuu").
+entry(fadeaway, n, [fadeaways], "dhumarratti murisa gurraacha fi inshaqina boca hojii kubbaa miilaa").
+entry(fadein, n, [fadeins], "dabalaa ifa suuraa yeroo dheeraatti itti fufuun").
+entry(fadeless, adj, [], "hin dhumin").
+entry(fadeout, n, [fadeouts], "du’aan as irra deddeebi’uun mul’achuu dhabuu").
+entry(fader, n, [faders], "kan baayʼee mulʼata hirʼisu").
+entry(fadge, v, [fadged,fadging,fadges], "milkaa'uu").
+galmee(fading, n, [fadings], "ragada Aayarlanda").
+entry(fadlike, adj, [], "waan tokkoo fakkaatuu").
+entry(fado, n, [faadoo], "sirba aadaa Oromoo iddoo murtaaʼaa").
+entry(faeces, npl, [], "hikdooFAECAL adj").
+entry(faena, n, [faenas], "dorgommii fardiitti taphataan torbee tokko keessatti raawwatu").
+entry(faerie, n, [faeries], "faayirii").
+entry(faery, n, [faeries], "faerie").
+entry(faff, v, [faffed,faffing,faffs], "jeequmsaa qabaachuuf").
+entry(fag, v, [fagged,fagging,fags], "raaqsuu dhaan daallee hojjachuu").
+entry(faggot, v, [faggoted,faggoting,faggots], "fagoti gochuu").
+entry(fagin, n, [fagins], "namni biro akka yakka hojjetan nama qajeelchu").
+entry(fagot, v, [fagoted, fagoting, fagots], "walitti qabuu fi urgoof bilchaachuuf").
+entry(fagoter, n, [fagoters], "kan fagoota").
+entry(fagoting, n, [fagotings], "akaakuu faayya meeshaa").
+entry(fah, n, [fahs], "faa").
+entry(fahlband, n, [fahlbands], "gogaa dhagaa sulfaayida meetiikaa walitti makameen guutame").
+entry(faience, n, [faiences], "akka malee xuuroo daakuu").
+entry(fail, v, [dadhabuu,dadhabuu,dadhabuus], "jiruuf yoomuu gad qabaammuu irratti hin milkoofne").
+entry(failing, n, [failings], "dogoggora xiqqaa yookaan laafina").
+entry(faille, n, [failles], "dantaa awwaalaa").
+entry(kan kufu, n, [kufuuwwan], "raawwii kufuu").
+entry(fain, adj, [], "FAINER FAINESTgammade").
+entry(faineant, n, [faineants], "namni dallaafaa").
+entry(faint, adj, [], "FAINTER FAINTEST humna yookiin jabeenya dhabuu").
+entry(faint, v, [dhegaduu,dhegadaa,dhegatee], "sammuu dhabuudhaaf").
+entry(fainter, n, [fainters], "kan dhukkubsatu tokko").
+entry(faintish, adj, [], "baa'ee laafaa").
+entry("suuta", adv, [], "haalaan laafa").
+entry(fair, adj, [], "NAANNAALEE NAANNAATAfree from bias dishonesty or injustice").
+entry(fair, v, [faired,fairing,fairs], "ijaarsuuf lafa callisuun").
+entry(fairgoer, n, [fairgoers], "namni akkaataa agarsiifatti dhimma qabatu").
+entry(fairies, pl, [], "kan ancoota").
+entry(fairing, n, [qulqulluu], "dhabbannaa kuusa gaaddisa yaalii ilaallachuuf qophaa'e irratti kana irrattis dhimma itti bahamee anna foddaa galeef fluggeeat meinille seenee haga gaaladhaa").
+entry(fairish, adj, [], "akka galeessa ta'etti madaalama").
+entry(fairlead, n, [fairleads], "meeshaan itti fayyadaman harreeffama dooniitti siqsiisuuf").
+entry(fairly, adv, [], "akka haqaa").
+entry(fairness, n, [fairnesses], "safuu").
+entry(fairway, n, [fairways], "kutaa qotamee iddoo tealanii fi meetiratti jiruu gaalfa qofaa").
+entry(farree, n, [farroota], "uumama yaadaa kan ala keenyasaa").
+galmee(fairy, adj, [], "KAN WALIIN YOOKSAA KAN FAAYIRII FAIREST ilaalchisee").
+entry(fairyism, n, [fairyisms], "sifaadha fakkaachuu abbaa lafaatti").
+entry(amanti, v, [amantidha,amanting,amantis], "iddoo itti amanani ykn itti dhawwani").
+entry(faithful, n, [faithfuls], "nama amanamaa ykn miseensa").
+entry(faitour, n, [faitours], "gooftomsa").
+entry(fajita, n, [fajitas], "hindii, hanqaaquu yookiin qurxummii nafa galchamee fi daabboo qamiidaa wajjiin dhiyaatu").
+entry(fake, v, [faked,faking,fakes], "kan dhugaa fakkeessuun dhiyeessu").
+entry(faqiir, n, [faqiir], "faqir").
+entry(faker, n, [fakers], "kan fakessu").
+entry(fakery, n, [fakeries], "aadaa kijibaa").
+entry(fakey, adj, [], "soba dhugaa hin taanee").
+entry(fakie, n, [fakies], "sochii skateboarding fi snowboarding keessa jiru").
+entry(faking, present, [], "sirna cal_ee faallessuu").
+entry(fakir, n, [fakirs], "falaasama Hindu").
+entry(falaafelii, n, [falaafelochii], "quncisaafi urursan kuduraa buufuun akaaka kakuudhaan bobba'anii bakka buuseqne").
+entry(falbala, n, [falbalas], "faaya uffata dubartii").
+entry(falcate, adj, [], "jalqabaa fi gara xumuraatti qilleessi").
+entry(falcated, adj, [], "falcate").
+entry(falces, pl, [], "falx irraa").
+entry(falchion, n, [falchions], "seef dhaabbataa").
+entry(hareer, n, [hareerrota], "asimaan nama fixxu").
+entry(falconer, n, [falconers], "nama haidduu adamsuudhaaf itti fayyadamu").
+entry(falconet, n, [falconets], "waraabessa xiqqaa").
+entry(falconry, n, [falconries], "sportiin abba garaa jalaa adamsuu").
+entry(falderal, n, [falderals], "sagalee").
+entry(falderol, n, [falderols], "falderal").
+entry(nyaataa, v, [nyaate, nyaatame, nyaachisaa], "FALLSto conduct or participate in a meal").
+entry(fallacy, n, [fallacies], "yaada dogoggoraa").
+entry(fallal, n, [fallals], "uffata fakkaatu agarsiisu").
+entry(fallaway, n, [fallaways], "dhaabbachuufi darbachuu kubbaanii").
+galmee(gara-banaa, n, [gara-banaa], "hojii deebii deebi'uu").
+galmee(cicne, darbe, [], "hirmaattota ciqii").
+entry(faller, n, [fallers], "kan kufu").
+entry(fallfish, n, [fallfishes], "hanqaaquu bishaan gannaa").
+entry(fallible, adj, [], "akka dogoggora gochuu danda'uFALLIBLY adv").
+galmee(daquu, n, [daqaman], "daqama muka gabbataa qopheessuuf kutee buusu").
+entry(falloff, n, [falloffs], "hir'achuu lakkoofsaa ykn qulqullina").
+entry(fallout, n, [fallouts], "hanqina raadiyoaaktiiva kan dhohiinsa niwukilari irraa dhufu").
+entry(fallow, v, [fallowed, fallowing, fallows], "akka qotiisaatti qotuu fi dhaabee hin facaafne").
+entry(false, adj, [], "FALSER FALSESTfakkeessummaa ykn dhugaa irraa faallaaFALSELY adv").
+entry(falsetto, n, [falsettos], "muraasaa ol-ka'ee sagalee").
+entry(falsie, n, [falsies], "sagalee xixiqqoo faalkaa kisaaraa keessatti uffatamu").
+entry(falsify, v, [falsified,falsifying,falsifies], "dhugaa hin taaneef bakka bu'u").
+entry(falsity, n, [falsities], "waa'ee sobaa").
+entry(Faltboat, n, [Faltboats], "dooni garmalee kan qajeeeraa fakkaatu").
+entry(falter, v, [faltered, faltering, falters], "sofla'uu").
+entry(falterer, n, [falterers], "kan woyawatu").
+gala(gammoojji, n, [falces], "qaamni akka ellaa qooruu").
+entry(fame, v, [famed,faming,fames], "beekamtii gochuu").
+entry(fameless, adj, [], "hin beekamne").
+entry(familial, maq, [], "kan maatii ilaallatu").
+entry(firooma, n, [firoomoota], "hiriyyaa dhihoo yookaan walitti dhufeenya qabuu").
+entry(familiizimii, n, [familiizimoota], "dhabbii hawaasaa yeroo maatiin nam-tokkaatti caalaatti kennamaFAMILIST adj").
+galmee(maatii, n, [maatiiwwan], "garee nama tokkoo sababeef hawaasummaa yookiin fuulumaatiin walitti hidhata qabani").
+entry(balaa_beelaa, n, [balaawwan_beelaa], "rakkina beelawaa bal'aa").
+entry(faming, present, [], "participle of fame").
+entry(famish, v, [soorama,sooramuu,sooramu], "gaagaʼama beela cimaati").
+entry(famous, adj, [], "beekamaanFAMOUSLY adv").
+entry(famulus, n, [famuli], "tajaajilaa ykn goraadee").
+entry(fan, v, [faaneessuu, faaneessaa, faana], "faana meeshaa qaamni qabbaneessuuf ykn bubbee sochoosuuf ittiin gargaaramuun qabbaneessuuf ykn qorsaarsaaf").
+entry(fanatik, n, [fanatigota], "namni hoo'insaa").
+entry(fanboy, n, [fanboys], "dhiira ta'e kan waan tokkoof saalfii jacalleessummaa agarsiisu").
+entry(fancied, darbe, [], "yeroo kan fancy").
+entry(fancier, n, [fanciers], "kan waliinii qofa qabu").
+entry(fancies, present, [], "3ffaa tuqaa xiqqaa nama tokkoffaa kan fancy").
+entry(fanciful, adj, [], "dhugaa hin taane").
+entry(fancify, v, [fancified,fancifying,fancifies], "inni uffata miidhagu").
+entry(fancy, adj, [], "KAN GARA FUULDURAA KAN FURAADIUSUF BOYYEEYA KAN EEGA").
+entry(fancy, v, [fancied,fancying,fancies], "jaalachaa").
+entry(fandango, n, [fandangos], "ykn FANDANGOES sirbii Gaaffi fi deebii waliin").
+entry(fandom, n, [fandomota], "walitti qabama namoota dhiibaa qabaataa ta\'an").
+entry(fane, n, [fanes], "mana waaqeffannaa").
+entry(fanega, n, [fanegas], "unka walaa qilleensa meeshaa ispeenii").
+entry(fanegada, n, [fanegadas], "yknna ispaanee lafee lafa").
+entry(fanfare, n, [fanfareewwan], "raammoo muuziqa gaarii yookiin bashannanaa gabaabaa").
+entry(fanfaron, n, [fanfarons], "nama ofaa").
+galii(fanfic, n, [fanfics], "qoosaa hojii jaallatamoo hordoftotaatiin barreeffame").
+entry(fanfold, v, [fanfolded,fanfolding,fanfolds], "waraabessuu saanduuqa fakkaachuu danda'uu").
+entry(fang, n, [fangs], "ilkaan dheeraa fi qabaanFANGED FANGLESS FANGLIKE adj").
+entry(fanga, n, [fangas], "fanega").
+entry(fangirl, n, [fangirls], "dubartii tokkotu wanta tokkotti jaalala baay'ee qabdu").
+entry(fanion, n, [fanions], "alaabaa xixiqqaa").
+entry(fanjet, n, [fanjets], "gosa iddo of jet engine").
+entry(fanlight, n, [fanlights], "akka foddaa gosa tokkootti").
+entry(fanlike, adj, [], "akka onnaa").
+entry(fanned, darbe, [], "keessaati fan").
+entry(fanner, n, [fanners], "kan fanisa").
+entry(fanning, present, [], "participle of fan").
+dhalataa(fanny, n, [fannies], "hudduu").
+entry(fano, n, [fanos], "faannoo").
+entry(fanon, n, [fanons], "kiya yaa'Ipoosti ni uffatamu").
+entry(fantail, n, [fantails], "harree sabatamaa fiixee ykn dhuma halluu fanaa qabu").
+entry(fantasia, n, [fantasias], "qindeessa muuziiqaa bilisa dalagaa").
+entry(fantazii, n, [fantaziwwan], "fantasiyaa").
+entry(fantasied, darbe, [], "yeroo keessaa of fantasii").
+entry(fantasm, n, [fantasms], "fantasmii").
+entry(fantast, n, [fantasts], "namni hojii irra ooluu hin dandeenye").
+entry(jireenya_abdi, v, [abdiyan_jireenya, jireenya_abdiying, jireenya_abdis], "yaadachuuf").
+entry(fantod, n, [fantods], "isfiin liqimsuu").
+galmee(fantom, n, [fantoms], "phantom").
+entry(fanum, n, [fanums], "fanon").
+entry(fanwise, adj, [], "akka fanicha kan banameetti faca'uu").
+entry(fanwort, n, [fanworts], "biqiltuu bishaan keessa jiran").
+galmee(fanziin, n, [fanzitoch], "magaala gaazexaa kan guutumatti dandeettiitti hirmaatoota jaalalaan seensifaman keessa qophaa'u").
+entry(faqir, n, [faqirotaa], "faayiqira").
+entry(faquir, n, [faquirs], "faqiirii").
+entry(far, adv, [], "DURSEE DURSIINU FI DURSAA DURSA'ATTI ykn BOGGALLEE FI BOGGALEE'ATTI").
+entry(farad, n, [faradota], "waliin gargaarsa buufata elektirikaa").
+entry(faradaic, adj, [], "faradikii").
+entry(faraday, n, [faradays], "gosa elektiriikaa").
+entry(faradik, adj, [], "waa'e bifa saffisa elektirikaa").
+entry(faradise, v, [faradisii, faradisuu, faradisuu], "to faradize").
+entry(faradism, n, [faradisomota], "itti fayyadama elektirikii faaraadik ta'eeef fayyadamna waldhaansaaf").
+entry(faraadize, v, [faraadized,faraadizing,faraadizes], "akka elektirika inni dirree jijjira gaarii fidduuf itti fayyadamu").
+entry(faraway, adj, [], "fageenya").
+entry(farce, v, [farced,farcing,farces], "guduunfa fili lakkoofsaan").
+entry(farcer, n, [farcers], "farceur").
+entry(farceur, n, [farceurs], "maartan").
+entry(farci, maq, [], "caphuun foon dokomsaniin guutame").
+entry(farcical, adj, [], "sijaajiba").
+entry(farcie, adj, [], "farsii").
+galmee(farcing, ammaa, [], "shakala of farce").
+entry(farcy, n, [farcies], "dhukkuba fardaati").
+entry(fardii, v, [fardiidha, fardiinaa, fardiitu], "wajjiin dibiiqii").
+entry(fardel, n, [fardels], "macaafa").
+entry(fare, v, [fared,faring,fares], "bultii bule").
+entry(farebox, n, [fareboxes], "gaaddisalallafamii guyyaa belbeluutti tarreeffama baaburarratti").
+entry(farer, n, [farers], "safartu");
+entry(akkamatti_kabajamto, v, [akkamatti_kabajamtofi, akkamatti_kabajamfi, akkamatti_kabajamma], "nagaa jedhuuf").
+entry(farfal, n, [farfals], "farfel").
+entry(affare, n, [affares], "pasta kan bantee fakkaatuuti").
+entry(farfel, n, [farfels], "noodles ta'antu nyaata yookaan midhaanxi kan xixxiqoo fi xabaabileetii fakkaatan").
+entry(farina, n, [farinas], "midhaan tuqaa qamadii irratti hundaa'e").
+entry(faring, present, [], "participle of fare").
+entry(farinha, n, [farinhas], "nyaata kan farra warqee irra jiru").
+entry(farinose, adj, [], "foo'aa fakkaatu").
+entry(farl, n, [farls], "maxinoo").
+entry(farle, n, [farles], "farl").
+entry(gandi, v, [gande,ganidha,ganda], "lafa qonnaaf oolu qonnaan buluun fi kunuunsuFARMABLE adj").
+galmee(farmer, n, [farmers], "namni qotuu").
+entry(qotee-toree, n, [qotee-toreewwan], "tajaajilaa qonnaa");
+entry(farming, n, [farmings], " hojii qonnaa qonnaan bultoota").
+entry(farmland, n, [farmlands], "lafa qonna").
+entry(faamishani, n, [faamishanoota], "haadha manaa qotee bulaa").
+entry(farmwork, n, [farmworks], "hojii lafa");
+entry(farmyard, n, [farmyards], "iddoo daareewwan qonnaan marfame").
+entry(farnesol, n, [farnesols], "alkooli kan itti fayyadaman bifa urgooftuu keessa").
+entry(farness, n, [farnesses], "akka fagaatin/duri keessatin").
+entry(faro, n, [faros], "ciigoo kaardii").
+entry(farolito, n, [farolitos], "shamarrata buufata eeboo keessa seentee ibsamu manni cabii").
+entry(farouche, adj, [], "ni kulli qabuu").
+entry(farrago, n, [farragoes], "yookiin FARRAGOS walmakkamatti wallolsame").
+entry(farrier, n, [farriers], "kan kophee fardaa tolchu").
+entry(farriery, n, [farrieries], "barsiisa fuullee").
+entry(farrow, v, [cuubban,cuubbaa,cuubbatte], "baraa hoolota ni argata").
+entry(farside, n, [farsides], "bakka fagoo").
+entry(farther, a, [], "molcha maqan of fagoo").
+entry(farthest, a, [], "daggalaa ol'aanaa").
+entry(farthing, n, [farthings], "gubbaa dhayyamuu duriitti maallaqa Ingilizu").
+entry(fartlek, n, [fartleks], "tartiiba leenjii atleetiksii").
+entry(fasces, n, [fasces], "mallattoo aangoo Roomaa durii").
+entry(fascia, n, [fascias], "ykn FASCIAE bal'aa fi salphaatti addaan bahee bakka mul'atuu FASCIAL FASCIATE adj").
+entry(fascicle, n, [fascicles], "maxxantuu xiqqoo").
+entry(fascine, n, [fascines], "hanqoo sibiila ijaaruuf itti fayyadaman").
+entry(fashizimii, n, [fashizimiilee], "sirna siyaasa cunqursaa ta'e").
+entry(faashistii, n, [faashistootaa], "nama faashizimii deeggaru").
+entry(faasitisi, n, [faasitisoowwan], "nyaatinsa lafee walitti hiddu").
+entry(fash, v, [fashed,fashing,fashes], "jeequu").
+entry(fashion, v, [fashioned,fashioning,fashions], "akkaataa fikoof akkaataatti kennuu").
+entry(fashiony, maq, [], "faashinii yeroo ammaa, deemsa haaraa").
+entry(fashious, adj, [], "kan dallansiisu").
+entry(fast, adj, [], "JEQAA YKN HIIKKACHIISAAN GARA LAFEE YK AMALAAN JALQABUU").
+galmee(dagagala, v, [dagagalee,dagagalaa,dagagaluu], "qufana irraa of qusachuu").
+entry(fastback, n, [fastbacks], "bifa immooqaala latiinsa fi xoofoo jedhu kan gaara gubbaa jiru").
+galmee(fastball, n, [fastballs], "jaa'a pilaa in baseball jedhamee beekamu").
+entry(fasten, v, [fastened,fastening,fastens], "ni qabachuuf").
+entry(fastener, n, [maxxantoota], "kan maxxansu tokko").
+entry(fasting, n, [sawwan], "laguu nyaataa").
+entry(fastness, n, [fastnesses], "saffisaa ta'uu").
+entry(fastuous, adj, [], "of-tuulu").
+entry(fat, adj, [], "FUDHATTE FUDHATAMTE akka dhiigaatti garmalee qabaachuu").
+entry(cufaa, v, [cuufame, cuufamaa, cufaan], "cufeessuu").
+entry(fatal, adj, [], "sababuu ykn du'a sababa uumu danda'uu").
+entry(fatalism, n, [fatalisms], "lallaba gocha hundi dura beekamee raawwatama jedhun").
+asxaa(fatalist, n, [fatalists], "nam-tumaa amantaa ulfinaatti ni amana").
+entry(fatality, n, [fatalities], "du’a kan dhaqqabe haalota hin eegamneen").
+entry('fatally', 'adv', [], 'gabaabduudhaan').
+entry(fatback, n, [fatbacks], "qumbi lafaa bishaan keessa jiraatu").
+entry(theefti, n, [theeftotaa], "gurraacha hori").
+entry(qadarri, v, [qadaramte,qadaramuu,qadaran], "ta'uu ykn murtaa'u").
+entry(kanMurteessaa, maq, [], "toora murteeffatuufi barbaachisaa").
+entry(fathead, n, [fatheads], "gowwaa").
+entry(abbaa, v, [abbaate,abbaachaa,abbaawwan], "akka uumamuuf sababa ta'u").
+entry(fatherly, adj, [], "paternal").
+galmee(fathom, v, [fathomed,fathoming,fathoms], "beekuu").
+entry(fathomer, n, [fathomers], "kan hubatu tokko").
+entry(fatidic, adj, [], "wabarraa").
+entry(fatigue, v, [dadhabame, dadhabachaa, dadhabuu], "dadhabuuf").
+entry(fating, present, [], "nama walfakkaatuu fi mataa ittiin rukutu").
+entry(fatless, adj, [], "kan dhadhaa hin qabne").
+entry(fatlike, adj, [], "kan dhadhaa fakkaatu").
+galii(fatling, n, [fatlings], "beelladoota ganna qalamaniif jabeefaman").
+entry(fatly, adv, [], "akka nama dhagnaa").
+galii(ulfaannaa, n, [ulfaannaa], "haalota ulfaataa ta'uu").
+entry(fatstock, n, [fatstocks], "beeyladaa gaateettii fi gabaaaf qophaawaa ta’e").
+entry(fatted, dhuma, [], "yeroof huccuu").
+entry(fatten, v, [fattened, fattening, fattens], "ulfeessuu").
+entry(fatteners, n, [fatteners], "waan ittiin dhamaase").
+galii(xiyyeefannoo, walbira-adii, [], "waan hamtuu").
+entry(fattest, superlative, [], "isa dhadhaa of").
+entry(fattier, comparative, [], "kan lonyooftuumsaa").
+entry(fatties, pl, [], "fattiiti").
+entry(fattiest, superlative, [], "kan foon nyaata yookaan cuunfaa").
+entry(fattily, adv, [], "akka dhangala’a dhadhaatti").
+galmee(gabbisu, ammaa, [], "hirmaattotaa kan gabbisu").
+entry(fattish, adj, [], "waan hamma tokko cimaan").
+entry(fatty, adj, [], "WAYYAA'A WAYYAATIgreasy oily").
+galmee(fatty, n, [fatties], "kan dhagna gabbataa qabu").
+entry(fatuity, n, [fatuities], "wanta gowwummaa yookiin macaafa").
+entry(fatuous, adj, [], "sijaalcha gowwaa").
+entry(fatwa, n, [fatwaa], "pireezidaantii seeraa Islaamaa".
+entry(fatwood, n, [fatwoods], "balaan gaazii ittiin qabsiifneerru").
+entry(faubourg, n, [faubourgs], "ganda").
+entry(faucal, n, [faucals], "dhimma sagalee qaamota afaan keessaa uumamuu").
+entry(fauces, npl, [], "karaa afaanii gara mormatti").
+entry(heerrega, n, [heerregootaa], "meeshaa tartiiba dhangala'aa tuubboorra dhufu to'achuuf").
+entry(faucetry, n, [faucetries], "tarree wabeeffachuu").
+entry(faucial, adj, [], "kan akaadhatti ilaalcha qabu").
+entry(faugh, interj, [], "kan fayyadamu garmalee jibbinsatti").
+entry(fauld, n, [faulds], "qasaa ba'a cirracha irra ciisaa").
+entry(fault, v, [guuftame, guuftamaa, guufta], "tuffachuuf").
+entry(faulty, adj, [], "FAULTIER FAULTIESTimperfectFAULTILY adv").
+entry(faun, n, [fauns], "waaqa bosonaa mitiolojii RoomaaFAUNLIKE adj").
+entry(fauna, n, [faunas], "yookaan FAUNAEhojii bineensota naannoo tokkooFAUNAL adjFAUNALLY adv").
+entry(faunist, n, [faunists], "beekaa faawunaa irratti qooda qabu").
+entry(faateelii, n, [faateeliis], "faateelii").
+entry(fauve, n, [fauves], "fauvist").
+entry(fauvism, n, [fauvisms], "sochii fokkosaa").
+entry(fauvist, n, [fauvists], "kan falmaa fauvism").
+entry(faux, adj, [], "kan dhugaa hin taane, kan sobaa").
+entry(fava, n, [favas], "biqiltuu funyoo guddatu irraa mudhii nyaatamuu danda'u").
+galmee(fave, n, [faves], "wantoota jaallataman").
+entry(favela, n, [favelas], "naannoo hiyyeessaa").
+entry(favella, n, [favellas], "favela").
+entry(favism, n, [favisms], "quufe baay’ee hir’achuun dhufuu").
+entry(favonian, adj, [], "kan qilleensa dhiyaa ilaallatu").
+entry(favor, v, [jaallata,jaallachuun,jaallatuu], "ilaalcha gaarii qabaachuuf").
+entry(favorer, n, [favorers], "kan jajjabeessu tokko").
+entry(jaalannee, n, [jaalleewwan], "nama yookaan wanta biroo caalaa filatamuu").
+entry(favour, v, [jaallatame,jaallachuun,jaallata], "jaallachuu").
+entry(favourer, n, [favourers], "fayyadamtoota").
+galmee(favus, n, [favusoota], "dhibee quncee").
+entry(fawn, v, [fawned,fawning,fawns], "itti himachuuf ykn deebi'ii kadhachuu dadhabinaatiin").
+galmee(fawner, n, [fawners], "kan ni filfilu").
+entry(fawnlike, adj, [], "akka gaala xiqqoo fakkaatu").
+entry(faawnii, adj, [], "FAWNIIROOTII FAWNIIIJAA kan halluu magaalaa diimaa").
+galmee(faaksi, v, [faksii,faksuu,faksiis], "elektirooniksaan dabarsuu fi qusachuuFAXABLE sirnami").
+entry(fay, v, [fayed,faying,fays], "walitti dhiyeessuf").
+entry(fayalite, n, [fayalites], "dhagaa mineraa").
+entry(faze, v, [fazed,fazing,fazes], "sammuu qalloqqolchuuf").
+entry(fazenda, n, [fazendas], "biyya horsiisa hin qabne yeroo hedduu Burazilitti argamu").
+entry(fe, n, [fes], "qubee Ibricha").
+entry(feal, adj, [], "amanamaa").
+entry(fealty, n, [fealties], "amanummaa").
+entry(dhiphuu, v, [dhiphate,dhiphataa,dhiphachuu], "waan sodaachisuuf").
+entry(fearer, n, [firaarsi], "kana sodaʼu tokko").
+entry(fearful, adj, [], "FEARFULLER FEARFULLESTwaaroo").
+entry(fearless, adj, [], "hin sodaanne").
+entry(fearsome, adj, [], "sodaa'aa").
+entry(feasance, n, [feasances], "raawwii haala fedhii ykn dirqama").
+entry(fease, v, [feased,feasing,feases], "dhungachuu").
+entry(feasible, adj, [], "hojjechuu danda'amuFEASIBLY adv").
+entry(nyaata_baay'ee, v, [nyaate, nyaachaa, nyaatani], "nyaachuu baayyee fi mi'aawaa").
+entry(feaster, n, [feasters], "kan nyaata guddaa nyaatu tokko").
+entry(feastful, adj, [], "ayyannisaa").
+entry(feat, adj, [], "FEATER FEATESTfooftu").
+entry(feat, n, [feats], "hojii adda taʼe yookaan milkaaʼina").
+entry(feather, v, [faayame,faayaa,jallaa], "goosuu gogaa ijjuu kan taheef kan taayitaa mummata raajiwwanii uumuuf").
+galmee(feathery, adj, [], "FEATHERIER FEATHERIEST faana wal fakkaataa").
+entry(featly, adj, [], "FEATLIER FEATLIESTgraceful").
+entry(feature, v, [featured, featuring, features], "itti fufiinsaan mul'isuuf kenna").
+entry(feaze, v, [feazed,feazing,feazes], "sodaachisuuf").
+entry(febrific, adj, [], "haraaraa qabaachuu").
+entry(febrile, adj, [], "kan dhukkuba onnee qaba").
+entry(fecal, adj, [], "kan haxxifatti ilaallatu").
+entry(cufii, npl, [], "waraansa qaamaa qaama xuxxoo irraa bahu").
+entry(fecial, n, [fecials], "fetial").
+galmee(feck, n, [fecks], "gatii").
+entry(feckless, adj, [], "hinqixa'amne").
+entry(feckly, adv, [], "turuu hin dhiisne").
+entry(fecula, n, [feculae], "dhangala’a amalabiyyuu").
+entry(feculent, adj, [], "xuraa'aa fi hin qulqulloofne").
+entry(fecund, adj, [], "gabbataa").
+entry(fed, n, [feds], "ajentiin federaalaa").
+entry(fedayee, n, [fedayeen], "kitaaba Arabaa").
+entry(federacy, n, [federacies], "waltajjii").
+entry(federal, n, [federals], "namni mootummaa walmakaa deeggaru").
+entry(federate, v, [federated,federating,federates], "tokkummaa walitti fiduuf").
+entry(fedex, v, [fedexed,fedexing,fedexes], "kana akkaan Federal Express itti erguuf").
+galmee(fedora, n, [fedoras], "saphaphuu gosa tokko").
+entry(fee, v, [feed, feeing, fees], "kutaa kaffaluuf ta'e takkaa kaffaltii addaa ta'eef").
+entry(feeb, n, [feebs], "namni dadhabaa ykn hojii irra oolee hin milkaa'in").
+entry(feeble, adj, [], "FEEBLER FEEBLESTweakFEEBLY adv").
+entry(feeblish, adj, [], "gidduutti laafaa").
+entry(cunnee, v, [cunnee, cunneeffachuu, cunneeffata], "nyaata kennuu FEEDABLE adj").
+galii(gabaabsi, n, [gabaabsoota], "gara galiiitti deebi'uu kutaa qooda olkaa'aa irraa").
+entry(feedbag, n, [feedbags], "bocqeeef qoricha fardaa").
+entry(feedbox, n, [feedboxes], "sanduuqa soorata bineensotaaf").
+galmee(feeder, n, [feeders], "kan nyaachisu").
+entry(feedhole, n, [feedholes], "yeroo bilbilaa simbiraa kuusaa dhiituuf papira teypii keessa xuqaatoota keessaa tokko").
+entry(nyaachisuu, n, [nyaachisoonni], "yeroo nyaata namaaf ykn bineensaaf kennamu").
+entry(feedlot, n, [feedlots], "lafee bordaa qabeenya irratti loon niquun itti afuufaman").
+entry(feedyard, n, [feedyards], "iddoo daadhii").
+entry(haas, v, [sosso'e,sosso'uu,sosso'aa], "wajjiin tuquun safuu guutuu").
+entry(feeler, n, [feelers], "otaati miira").
+entry(feeless, adj, [], "hin kaffalamne").
+entry(feeling, n, [sodaachaa], "hojjettoota qaama tuqaan dhaga'uu ykn hubachuu").
+entry(feet, pl, [], "miilla").
+entry(feetless, adj, [], "hin miillessaatu").
+entry(feeze, v, [feezed, feezeessuu, feezeessuu], "to faze").
+entry(feh, n, [fehs], "peh").
+entry(kennamiinsa, v, [kennamiise, kennamiissu, kennamiisu], "fakeeti").
+entry(feigner, n, [feigners], "kan waanta tokko fakkeessu").
+entry(feijoa, n, [feijoas], "ittoo magariisa midhaan nyaataa").
+entry(feint, v, [feinted,feinting,feints], "sochaali kijibaa gochuu").
+entry(feirie, adj, [], "ringi").
+entry(feist, n, [feists], "saree xiqqoo kan sanyii walitti makame").
+entry(feisty, adj, [], "FEISTIER FEISTIESTcuuphaa of enerjiin naannaaFEISTILY adv").
+entry(felafel, n, [felafels], "falaafel").
+entry(feldsher, n, [feldshers], "hojjeeta fayyaa biyya Rashiyaa").
+entry(feldspar, n, [feldspars], "miniralii").
+galmee(felicity, n, [felicities], "gammachuu").
+entry(felid, n, [felids], "beekaan").
+entry(feline, n, [felines], "beeylada maatii adurree").
+entry(felinely, adv, [], "akka sareetti").
+entry(felinity, n, [felinities], "sifa waliin kan jibicha ta'uu").
+entry(fell, adj, [], "FELLER FELLESTwaaqoo hin qabu").
+entry(fell, v, [felled,felling,fells], "akka kufaati godhuuf").
+entry(fella, n, [fellas], "nama ykn mucaa").
+entry(fellable, adj, [], "kan jigu danda'u").
+entry(fellah, n, [fellahs,fellahin], "yookaan FELLAHEEN kan gabaarro ta'e yookaan kan hojjechaa ta'e biyyoota Arabaa keessatti").
+entry(fellate, v, [fellated,fellating,fellates], "raajii qaama saalaa afaaniin raawwachuu").
+entry(fellatio, n, [fellatios], "tuqaa afaaniin utuba qaama saalaa dhiiraa").
+entry(fellator, n, [fellators], "kan ofuusuu").
+entry(feller, n, [fellers], "kan buqqisu tokko").
+entry(fellies, pl, [], "kan felly").
+entry(fellness, n, [fellnesses], "yaaddoo cimaa").
+entry(felloe, n, [felloes], "gogaa gurraacha".).
+entry(fellow, v, [fellowed,fellowing,fellows], "walqixxummaa uumuu").
+entry(fellowly, adj, [], "jaalallee").
+galma(felly, n, [fellies], "felloe").
+entry(seera‐cabsaa, n, [seera‐cabsattoota], "namni yakka gurguddaa raawwachuuf himatame").
+entry(felonry, n, [felonries], "gosa guutuu yakkamtootaa").
+entry(felony, n, [felonies], "gocha hammeenya cimaa").
+entry(felsic, adj, [], "kan feldspar fi silicate irraa ijaarame").
+entry(felsite, n, [felsites], "dhagaa inginiiFELSITIC adj").
+entry(felspar, n, [felspars], "felsipaar").
+entry(felstone, n, [felstones], "felsite").
+galmee(felt, v, [felted, felting, felts], "walitti muduuf").
+entry(felting, n, [feltings], "mi'a jilbaa").
+entry(feltlike, adj, [], "akka mata-duree dhiirsee tokko irraa hojjetamee").
+entry(felty, adj, [], "MAQAALAAN MOORA KEESSA AKKA LEEJEE DIRRAA").
+gelicha(felucca, n, [gelichas], "waggaa qilleensaan dafee soggoguu").
+entry(felwort, n, [felworts], "biqiltuu caasaa dulloomaa qabu").
+entry(fem, n, [fems], "qaama saalaan dhiiraa kan ofii hin sochoosne").
+entry(dubartii, n, [dubartoota], "namni sanyii loonduu ykn laga samuu danda'u").
+entry(feme, n, [femes], "niiti").
+entry(feminaansaa, n, [feminaansota], "haala dubartummaa").
+entry(dubartoota, npl, [], "dubartoota waliigala").
+entry(dubartii, n, [dubartiilee], "jechaa yookaan furtuu kan saala dubartummaa qabu").
+entry(feminise, v, [feminised,feminising,feminises], "haadha taasifachuu").
+entry(feminizimii, n, [feminizimoota], "yaada mirga dubartootaa kan dhiirota waliin walqixxeessuuf falmu").
+entry(feminist, n, [feminists], "waliigalticha haawaasummaa dubartii cimsuuf deeggaraadha").
+entry(feminity, n, [feminities], "sifaadha dubartootaa").
+entry(feminize, v, [feminized,feminizing,feminizes], "dubara fakkeessuu").
+entry(femme, n, [dubartii], "dubartii").
+entry(femoral, adj, [], "kan koomee ilaallatu").
+entry(femur, n, [femurs], "ykn FEMORA lafamii lafee miillaa").
+entry(fen, n, [fens], "boqqolloo").
+entry(fenagle, v, [fenagled,fenagling,fenagles], "finaglee").
+entry(safarti, v, [safarte, safartaa, safartu], "artii safarti hojjechuuf").
+entry(sportii, n, [sportoota], "tokko kan sportu").
+entry(fencerow, n, [fencerows], "lafee quncee qabatee jiraatu").
+entry(fencible, n, [fencibles], "loltuun tajaajiila biyya keessatti qoftiif galmaa'eef").
+entry(gombisa, n, [gombisota], "ogummaa eeboo ittiin loluufi ofirraa ittisuuf gargaaramu").
+entry(fend, v, [fended,fending,fends], "ittisuu").
+entry(fender, n, [fenders], "gadiidduu sibiilaa isa taayitaa konkolaataa olitti maxxanfameFENDERED adj").
+galmee(fenestra, n, [fenestrae], "bocquu xiqqoo qaama")
+entry(fening, n, [fenings], "madaallii maallaqaa Bosniyaa fi Herzigovinaa").
+entry(fenland, n, [fenlands], "lafa sulula").
+entry(fennec, n, [fennecs], "waraabessa Afrikaarraa dhufe").
+entry(fennel, n, [fennels], "junnii kan ilaalcha yeroo hundaa gargaaru miti").
+entry(fenny, adj, [], "FENNIER FENNIESTbokkaa").
+entry(fentanyl, n, [fentanyls], "kallatilee waan garaa garummaa qabu").
+entry(fenthion, n, [fenthions], "kitaaphama").
+entry(fenuron, n, [fenurons], "jajjabina").
+entry(feod, n, [feods], "maatiidhaf ni qoodama").
+entry(feodary, n, [feodaries], "gorsa qondaalaa").
+entry(feoff, v, [feoffed,feoffing,feoffs], "qabinsa lafaafi mootummaa kennuuf").
+entry(feoffee, n, [feoffees], "kan gadaa kennameef tokko").
+entry(feoffer, n, [feoffers], "kan andersfira yakka kennuuf").
+entry(feoffor, n, [feoffors], "feoffer").
+entry(fer, wabi, [], "fii").
+entry(feracity, n, [feracities], "haala midhaagana qabaachuu").
+entry(feral, n, [ferals], "beera bosona").
+entry(ferbam, n, [ferbamoota], "midhaan gogaa dhibee ittisuu").
+entry(fere, n, [feres], "hiriyya").
+entry(keelloo, n, [keelloowwan], "iddoo awwaaltuu qulqulluu").
+entry(feria, n, [ferias], "yookii FERIAE guyyaa torbee galmee mana amantii kan ayyaanichi irratti hin kabajamneFERIAL adj").
+entry(ferine, adj, [], "bosonaa").
+entry(ferity, n, [ferities], "garummaa").
+entry(ferlie, n, [ferlies], "ilaalaa daddarbii").
+entry(ferly, n, [ferlies], "wayta malee").
+entry(fermata, n, [fermatas], "ykn FERMATE dheereffamuu sirna muuziqaa waraqaa yeroo isaatti dabaluun").
+entry(aggeri, v, [aggerame,aggeramaa,aggeru], "akka eenyumaa akkamiitti yaada qaama pilansii ta’uu").
+entry(fermi, n, [fermis], "yknniin dheerina").
+entry(fermion, n, [fermions], "qooda atoomotaa").
+entry(farmiyumii, n, [farmiyumiwwan], "dabbasaa socho'aa ta'e").
+entry(fern, n, [fuunnatiin], "biqiltuu margooftuu guutuudhaan VASKULAARTA HINBUUQNE FERNLESS FERNLIKE adj").
+entry(tafa'ii, n, [tafa'iilee], "bakka filanota keessatti biqilan").
+entry(ferninst, maq, [], "itti dhiyeenya").
+entry(ferny, adj, [], "FERNIER FERNIESTkan baqaqula baay'ataniiti").
+entry(ferocity, n, [ferocities], "jabaa jechuun").
+galmee(ferezaate, n, [ferezaatota], "qabiyyee keemikaalaa sooltaa").
+entry(ferrel, v, [ferreled,ferreling,ferrels], "or FERRELLED FERRELLING FERRELSto ferrule").
+entry(ferreous, adj, [], "kan sibiila keessaa qabu").
+entry(ferret, v, [ferreted,ferreting,ferrets], "qoranno irratti xiyyeeffannoo guddaa godhamee barbaaduuf").
+entry(ferreter, n, [ferreters], "isa qomatu").
+entry(ferrety, adj, [], "ka malee-afi kuduudhaan").
+entry(ferriage, n, [ferriages], "geejjiba bidiruun").
+entry(ferric, adj, [], "kan sibiilaa").
+entry(ferried, darbe, [], "yeroo darbii fierry").
+entry(ferries, ammee, [], "3ffaa nama tokkoffaa kan ferry").
+entry(ferrite, n, [ferrites], "akka taatee magneetikii").
+entry(ferritin, n, [ferritins], "pireteni takka kan sibiila qabaatu").
+entry(ferras, adj, [], "egeree sibiila").
+entry(ferrule, v, [ferruled,ferruling,ferrules], "walakkaa keewwatoota ykn 'cap' sibiilaatiin kaa'uudhaan adda citaa ittisuuf").
+entry(ferrum, n, [ferrums], "sibiila").
+entry(ferri, v, [ferried,ferrying,ferries], "bixxiluudhaan geejjiba geeggeessuu").
+entry(ferryman, n, [ferrymen], "namni gaba irraa bashanansu").
+entry(fertile, adj, [], "dandeetti quufeessa").
+entry(ferula, n, [ferulas], "ykn FERULAEarkeela jirma muka fide").
+entry(ferule, v, [feruled,feruling,ferules], "feruula gochuuf").
+entry(fervency, n, [fervencies], "fervor").
+entry("fervent", "adj", [], "kan calaqqisu jabaadhaa").
+galmee(fervid, adj, [], "ferventFERVIDLY adv").
+entry(fervor, n, [fervors], "ho'ina guddaa yookaan cimaa").
+entry(fervour, n, [fervours], "sooda").
+entry(fescue, n, [fescues], "marga urgaa'aa").
+entry(fess, v, [fessed,fessing,fesses], "itti himu").
+entry(fesse, n, [fesses], "qaamni giddugaleessaa lafee buqqee tilmaama irratti").
+entry(fesswise, adv, [], "guaacha").
+entry(fest, n, [fests], "walga’ii hojii tokkoof").
+entry(festa, n, [festas], "ayyana amantaa").
+entry(festal, adj, [], "ayyannaaFESTALLY adv").
+entry(fester, v, [festered,festering,festers], "hariiroo qullaa").
+entry(miidhaa, n, [miidhawwan], "guyyaa ykn yeroo ayyaanotaa").
+entry(festive, adj, [], "kan ayyaanotaa ykn ayyaanaaf mijataa ta'e").
+galmee(festoon, v, [festooned, festooning, festoons], "siree deebisanii irraa chochoochoo fi rifeensa faayaa goggogaa fi ammaa utaalu").
+entry(fet, v, [fetted,fetting,fets], "fiduu").
+entry(feta, n, [fetas], "zittoonii Giriikii").
+entry(fetal, adj, [], "kan dhiifama ilaalcha").
+entry(fetaan, n, [fetaans], "sochiinsa da’umsa mucaa gudeedaa").
+seensa(fetch, v, [fetched,fetching,fetches], "deemanii fiduu").
+entry(fetcher, n, [fetchers], "kan fidu tokko").
+entry(fete, v, [feted,feting,fetes], "bakka bu'us ni kabajama").
+entry(feterita, n, [feteritas], "saroota midhaan").
+entry(fetial, n, [fetials], "katolika mootiin Roomaa durii").
+entry(fetialis, n, [fetiales], "fetial").
+entry(fetich, n, [fetiches], "feetiishii").
+entry(feticide, n, [feticides], "ajjeechaa ilmoo").
+entry(fetid, adj, [], "afi fedha badaa qabuuFETIDLY adv").
+galmee(xurii, n, [xuriiwwan], "haaluma xuriitiin ta'uu").
+entry(feting, present, [], "haalummaadhaan fete").
+entry(fetish, n, [fetishes], "waanta humna sihrin qaba jedhamee amanamu").
+entry(fetlock, n, [fetlocks], "lammii kooraan fardaa").
+entry(fetology, n, [fetologies], "barnoota fayyaa kan dhala-dhumaatti qixa ykn walqabate").
+entry(fetor, n, [fetors], "gandi yeroo olka’u qiixxi").
+entry(fetted, darbe, [], "kaasee fet").
+entry(fetter, v, [fettered,fettering,fetters], "dhaabaa").
+entry(fetterer, n, [fetterers], "hangaafuu tokko").
+entry(fetting, ilaalchaa, [], "qarqara 'fet' fi").
+entry(fettle, v, [fettled,fettling,fettles], "guyyaa ibiddaa ittiin haguuguuf").
+entry(fettler, n, [fettlers], "nama siidaa").
+entry(fettling, n, [fettlings], "meeshaa bifaa ibiddaa isa ibidda tiksuu irratti darbame").
+entry(fetus, n, [fetesoota], "uumama hin dhalatin garaa keessatti ba’aa jiru yeroo guddataa isa dhumaa keessatti").
+entry(feu, v, [feued,feuing,feus], "lafaa kennuu seera feudalii Schottish jalatti").
+entry(feuar, n, [feuars], "namoota seera guddinaa Iskotlaandiin lafa arjoomaman keessaa tokko").
+entry(waaqeffannaa, v, [waaqeffate, waaqeffachaa, waaqeffatu], "iskaayicha yeroo hunda waakaduuf diinumma dhaadheessa").
+entry(feudal, adj, [], "kan sirna siyaasaa fi dinagdee Awurooppaa yeroo giddu galaFEUDALLY adv").
+entry(feudary, n, [feudaries], "garbo").
+entry(feudist, n, [feudists], "kan falma").
+entry(harrooftuu, v, [harroofte, harrooftul, harrooftee], "yeroo qaamni ho'a olka'u balaa harroofnaatiin waldhabsiisuu").
+entry(feverfew, n, [feverfews], "itoophiyaa kan hunda'e").
+entry(feverish, adj, [], "qufaan qabaachuu").
+entry(feverous, adj, [], "wayyaa").
+galmee(xinna, am, [], "XINNOO FI XANNAAF yeroo xiqqoo of keessaa qabu yookaan ta'uu").
+entry(fewness, n, [fewnesses], "haalata ta'iinsa xiqqinnaa").
+entry(fewtrils, npl, [], "waan gatii xiqqaa qabu").
+entry(fey, adj, [], "FIROOLFATA FIROOLFATUU ibsa").
+entry(feyness, n, [feynesses], "haala fey ta'uu").
+entry(fez, n, [fezes], "ykn FEZZESkolloofi hin qabnefi dhiironni Baha Burjaajee keessa mararfatanFEZZED FEZZY adj").
+entry(fiacre, n, [fiacres], "ashaara xiqqoo").
+entry(fiance, n, [fiaansootaa], "nama heerumatti walii galuuf").
+entry(gabaabdu, n, [gabaabdubutuu], "dubarti hojii heerumsa yaadaa keessa jirtu").
+entry(fiar, n, [fiars], "namni dhimmi isaa seerota biyyattii jalatti adeemsifamu").
+entry(fiasco, n, [fiascoes], "yookiin FIASCHIa kolba wayinii").
+Asitti hin hiikamani.
+galii(fiat, n, [fiats], "ajaja aangoo").
+entry(fib, v, [fibbed,fibbing,fibs], "oduu xiqqoo sobuu").
+entry(fibber, n, [fibbers], "kan sobu tokko").
+galmee(fayibarii, n, [fayibaroota], "xurree ykn wanta fakkaata xurreeFAYIBAREE adj").
+galmee(fiberize, v, [fiberized,fiberizing,fiberizes], "gogaa fiixee keessaa baasuu").
+entry(fibranne, n, [fibrannes], "dabalata raayoniin spun irraa hojjetame").
+entry(fibre, n, [fibres], "fayibariiFAYIBAADHA adj").
+galmee(fibril, n, [faayibiroota], "xobbee xiqqaa").
+entry(fibrilla, n, [fibrillae], "fayibirilaa").
+entry(fayibiriin, n, [fayibiriina], "purootinaa hin furame").
+entry(fibroid, n, [fibroids], "fiibroomaa").
+entry(fibroin, n, [fibroins], "purootiinii hin furgaane").
+entry(fibroma, n, [fibromas], "ykn FIBROMATAa kanserii garaa garummaa kan uumaa fiibrous irraa ijaarame").
+entry(fibrosis, n, [fibroses], "gabbina gogaa ykn fe'umsaa dabalataa qaama keessaatti").
+entry(fibrous, adj, [], "kan faayibarsi guutame ykn fakkaatu").
+entry(fibster, n, [fibsters], "kan soba jedhu").
+entry(fibula, n, [fibulas], "yookaan FIBULAE lafee cinaacha miilaa FIBULAR adj").
+entry(fice, n, [fices], "feestiin").
+entry(fiche, n, [fiches], "koottaa mirkoofiliimii").
+entry(fichu, n, [fichus], "malaaksa dubartii").
+entry(ficin, n, [ficins], "enyayimaa").
+entry(fickle, adj, [], "FICKLER FIICKLEST hin jijjiiramnee yookaan amanamoodha FICKLY adv").
+entry(fico, n, [ficoes], "wambaadha xiqqoo").
+galmee(fictile, adj, [], "kan bocaaf hiikame").
+galmee(fiikshina, n, [fiikshinoota], "hojii barreessuu kan keessaa qabadhuun ijaarrame").
+galii(fictive, adj, [], "sura").
+entry(ficus, n, [gadaamii], "muka gannaa").
+entry(fid, n, [fids], "gabatee alantoo kan barcuma mirgaaf mirga fayyadamu").
+entry(fiddle, v, [fiddled,fiddling,fiddles], "dhumaataa taphachuu").
+entry(fiddler, n, [fiddlers], "akkaata lubbuu").
+entry(fiddling, n, [fiddlings], "hojii miillisaa viyoolinii taphachuu").
+entry(fiddly, adj, [], "FIDDLIER FIDDLIESTwalxaxaadhaan kan rakkisu").
+entry(fideism, n, [fideisms], "abiddi karaa amantaa irra caalaa kan yaada").
+galmee(fideist, n, [fideists], "nam-tokkoo kan amantii irraatti hundoofne irratti hundaa'u").
+entry(fidelity, n, [fidelities], "amantii").
+entry(fidge, v, [fidged,fidging,fidges], "hiriri").
+entry(fidget, v, [fidgeted,fidgeting,fidgets], "sochii dhiphummaan ykn boqonnaa dhabuudhaan godhamu").
+entry(fidgeter, n, [fidgeters], "kan socho'uu").
+entry(fidgety, adj, [], "suma oduudhaan dhiphachuu").
+entry(fidging, present, [], "participle of fidge").
+entry(fido, n, [fidos], "silla defectii").
+entry(fiducial, adj, [], "waa amantii yookaan amanamummaatti hundaahe").
+entry(fie, interj, [], "yeroo jibba ibsuuf itti fayyadamu").
+entry(fief, n, [fiefs], "qabeenya gadaa").
+entry(fiefdom, n, [fiefdoms], "fief irraa").
+entry(field, v, [fielded,fielding,fields], "taphachuu akka kilichaanatti").
+entry(fielder, n, [fielders], "kaasuu yookaan qabachuu kubbaa taphni keessa jiru").
+entry(sheydhaana, n, [sheydhaanii], "sheyxaana").
+entry(fiendish, adj, [], "hin hamoo ykn gara-jabeessa hamaa").
+entry(fierce, adj, [], "FIERCER FIERCESTwaliinan wal-quunnamsiisuu ykn sodaachisaaFIERCELY adv").
+entry(fiery, adj, [], "FIERIER FIERIESTbaay'ee ho'aaFIERILY adv").
+entry(fiesta, n, [fiestas], "ayyanaa").
+entry(fife, v, [fifed, fifing, fifes], "sirba fiifi ykn shoorba olka'aa").
+entry(fifer, n, [fifers], "kan fife taphatu tokko").
+entry(soddoma shan, n, [soddoma shaniwwan], "lakkofsa").
+entry(shanaffaa, n, [shanaffoota], "kutaawwan ga'ee shan keessaa tokko").
+entry(fifthly, adv, [], "iddoo shanaffaan").
+entry(shantamaffaa, n, [shantamaffaa], "tokkoo shantama walqixa qoodduu keessaa").
+galmee(shantam, n, [shantamota], "lakkofsa").
+entry(fiftyish, adj, [], "akka dachaa shantama ta'uu").
+entry(fig, v, [figged,figging,figs], "dinquu").
+entry(figeater, n, [figeaters], "halakaa guddaa").
+entry(fight, v, [fought,fighting,fights], "dhaabachiisa kan diina injifachuuf yaalu").
+galmee(qabsaa’aa, n, [qabsaa’ota], "kan qabsaa’u").
+entry(gara-jabeenyaa, n, [gara-jabeenyoowwan], "gocha kan nama walitti-bu’uu").
+entry(figment, n, [figments], "bu'aa yaada nam-tolche").
+entry(figtree, n, [figtrees], "man ja tokkoo yaa'uun fiixee mi'eessaa fi diimaa ta'an biqilu").
+entry(figuline, n, [figulines], "midhaama lafa").
+entry(figural, adj, [], "kan akka fakkii nama ykn bineensaa").
+entry(figurant, n, [figurants], "weedduu walirratti kan sirbu weeshadha walakeessaafi qeenxee keessatti qofti sirbu").
+entry(figurate, adj, [], "kan boojuu qaba").
+entry(figure, v, [figured,figuring,figures], "lakka'uu").
+entry(figurer, n, [figurers], "kan tokko xiinxalu").
+entry(kanumuxee, n, [kanumuxeewwan], "sandiqicha xiqqaa").
+entry(figwort, n, [figworts], "biqiltuu cimaa kan danboon isaa bareedu").
+entry(fil, n, [fils], "gatii deeggarsa Iraaq fi Joordaan").
+entry(fila, pl, [], "kan filum").
+entry(filagree, v, [filagreed,filagreeing,filagrees], "filigree gochuu").
+entry(filament, n, [filaments], "sarara baayyee quxxuuxaa yookaan sirni sarara fakkaatu").
+entry(filar, adj, [], "kan hidda ilaallatu").
+galmee(filaree, n, [filarees], "ganna biyya Awurooppaa irraa dhufe").
+entry(filaria, n, [filariae], "kormee dheedhiiCIMDAAN CUNDHURTUU adj").
+entry(filariid, n, [filariids], "filaria").
+galmee(filature, n, [filatures], "maramee qamalee irraa harca'uu").
+entry(filbert, n, [filberts], "chatani nudhaa ewropaanii biqiltuu nyaatamuu danda'u").
+entry(filch, v, [filched,filching,filches], "biraan guroo").
+entry(filcher, n, [filchers], "kan saamtuu").
+galmee(file, v, [filed,filing,files], "sirnaan gulaalanii akka boodaaf oolchuFILEABLE adj").
+seename(filefish, n, [filefishes], "arba galaana").
+entry(filemot, maq, [], "midhaan yoo boca gulii cafee").
+deebi(filename, n, [filenames], "maqaa faayila kompitara").
+entry(filer, n, [filers], "namni galmeessu").
+entry(filet, v, [fileted,fileting,filets], "filay argachuu").
+entry(filial, adj, [], "kan ilma yookaan intala ilaallatuFILIALLY adv").
+entry(filiate, v, [filiated,filiating,filiates], "akka walitti dhufeenyi dhiyaatu fida").
+entry(filibeg, n, [filibegs], "sirrii quba qabaafi kan itilleessuu Waraana Skotilaandi");
+entry(filicide, n, [filicides], "ajjeechaa daa'ima ofii").
+entry(filiform, maq, [], "bifa waantota xannacha fakkaatu").
+entry(filigree, v, [filigreed, filigreeing, filigrees], "ittiin faayuu kaayyoo faankishanaa addoo bocuuf").
+entry(filing, n, [filings], "kuufama meeshaa shupaanaatiin fottoqe").
+entry(filister, n, [filisters], "aala irratti ibsamu yeroo holqaa").
+entry(filk, n, [filks], "gosa muuziqaa beekamaa kan sirboota aadaa qoosa godhuuf hoji’irra oolu").
+entry(fill, v, [filled,filling,fills], "akka qabbannootti guutuu FILLABLE adj").
+entry(fille, n, [filles], "ta girl").
+entry(filler, n, [fillers], "kan guutu").
+entry(fillet, v, [filleted,filleting,fillets], "cundhuura jiidhinaa muruu").
+entry(filleter, n, [filleters], "nama fillet godhu").
+entry(fillies, pl, [], "of filly").
+entry(filling, n, [fillings], "kan waan tokko guutuuf itti fayyadaman").
+entry(fillip, v, [filliped,filliping,fillips], "dhahuu cimaa").
+entry(fillo, n, [fillos], "filaawo").
+entry(filly, n, [fillies], "farda durba xiqqoo").
+entry(filmii, v, [filmame,filmachuu,filman], "suuraa harkisaa tokkosaa irraa qopheessuuFILMAMAANIS arg").
+entry(filmcard, n, [filmcards], "fleetaa").
+entry(filmdom, n, [filmdoms], "waggoota suura meeshaan fiilmii").
+entry(filmer, n, [filmers], "nama waraabbatu").
+entry(filmfest, n, [filmfests], "ayyana agarsiisa fiilmii hedduu").
+entry(filmgoer, n, [filmgoers], "kan suuraa socho'u daaw'atu").
+entry(filmi, n, [afaanfilmi], "sirbaa gabatee biyyootaa Hindii keessatti sirbame").
+entry(filmic, maqaa, [], "kan suura waraabichaa ilaalu").
+seensa(filmier, falaasama, [], "kan filmy").
+entry(filmiest, superlative, [], "kan filmeen").
+entry(filmily, adv, [], "akka filmiitti").
+entry(filmland, n, [filmlands], "waddayota filmii").
+entry(film-hin qabne, adj, [], "hin qabne film").
+entry(filmlike, adj, [], "kan film fakkaatu").
+entry(filmset, v, [filmset,filmsetting,filmsets], "fotosetii").
+entry(filmy, adj, [], "FILMIER FILMIESTfiilmiin ykn fiilmiin mul'atanii yookaan ijaarsa gubbaa irratti rifeensa qabaachuu").
+entry(filo, n, [filos], "phyllo").
+entry(filose, adj, [], "balleesa geengoo fakkaatu").
+entry(filter, v, [faana, faanessuu, faanisuu], "wantoota takkatti bahee akka isaan hin oolle gochuuf meeshaa faana babbaasu").
+entry(filterer, n, [faayiloo], "kan faayilu").
+entry(filth, n, [filths], "wantoo xuraawaa ykn bal'aa").
+entry(filthy, adj, [], "FILTHIER FILTHIESTnimwaa'ina xuraawaaFILTHILY adv").
+entry(filtrate, v, [filtrated,filtrating,filtrates], "shaakaluu").
+entry(filum, n, [fila], "qaama dhoqqee fakkaatu").
+entry(fimble, n, [fimbles], "biqiltuu hanfii dhiiraa").
+entry(fimbria, n, [fimbriae], "kaalloo yookiin ija kaalloo fakkaatuFIMBRIAL adj").
+entry(fin, v, [finned, finning, fins], "harkaafi miila irratti wantoowwan akka buddeen hojjetaman itti maxxansuu").
+saagi(finable, adj, [], "bajata adabbiin kafalaman dhimmi ilaallatu").
+entry(finagle, v, [finagled,finagling,finagles], "argachisuuf dafqaan").
+entry(finagler, n, [finaglers], "kan finagleda").
+entry(xumura, n, [xumura], "qormaata xumuraa barnoota ogummaa").
+entry(finale, n, [finales], "xumura ykn hirʼina waan tokko").
+entry(finalis, n, [finales], "dhukkuba meeshaa durii keessatti gosa ta'ii").
+entry(xumura, v, [xumurame,xumuraa,xumurta], "xumura").
+entry(finalism, n, [finalisms], "mata dure jechuun wantootni hundi raawwatan bu’uura kaayyoo xumuraa irratti ta’uu barsiisuu").
+entry(finalist, n, [finalists], "miidhamtuu/ta durdurta hundeessa waancaa irraa gahuurra obuufata").
+entry(finality, n, [finalities], "haala xumuramaa ta'uu").
+entry(gammachuu, v, [gammachuu, gammachuu, gammachuu], "xumura xummuruu").
+entry(dhuma, adv, [], "xumura irratti").
+entry(maallaqaa, v, [maallaqeedhe,maallaqeerra,maallaqee], "maallaqaaf kenna").
+entry(finback, n, [finbacks], "rorqual").
+entry(finca, n, [fincas], "kutaa lafaa Ameerikaa Ispeenii").
+entry(finch, n, [finches], "uqoo xixiqqoo").
+entry(fiduu, v, [argamee, argamaa, arga], "erga barbaaduun booda argachuu").
+galmee(ardhaa, n, [ardhaawwan], "kan barbaadu").
+entry(finding, n, [findings], "wantoota argaman").
+entry(fine, adj, [], "FINER FINESTquxisuufi").
+entry(fine, v, [fined,fining,fines], "adhaabbii maallaqaa akka adabbii maallaqaa taasifachuu").
+entry(fineable, adj, [], "finable").
+entry(finely, adv, [], "akka gaariitti").
+entry(fineness, n, [finenesses], "sadarkaa miidhagummaa").
+entry(finer, comparative, [], "of fine").
+entry(finery, n, [fineries], "faaya ittiin faayaman kan bareedaa fi bal'aa").
+entry(finespun, adj, [], "haala xiyyeeffannaa ol'aanaa fi guddaan hojjetame").
+entry(finesse, v, [finessed,finessing,finesses], "dhimma tokko karaa bilchaataan qopheessuudhaaf").
+entry(finest, n, [finests], "poolisii magaalota adda addaa").
+galmee(finfin, n, [finfinota], "qunneensa dhugaa").
+entry(finfoot, n, [finfoots], "bitaa bishaan keessa jiraatu").
+entry(finger, v, [fingered, fingering, fingers], "haanqa'a harkaatiin tuquu").
+entry(fingerer, n, [fingerers], "kan quba seensisu").
+entry(finial, n, [finials], "hiikoon abbaan: miidhaga duraanuma").
+entry(finical, adj, [], "finicky").
+entry(finickin, adj, [], "finicky").
+entry(finicky, adj, [], "WAA MOO'UU WA'ANI FINICKIESTmiira akka tole birkhiitu").
+entry(finikin, adj, [], "waan xinnoo ni kajeela").
+entry(finiking, adj, [], "finicky").
+entry(fining, n, [finings], "baasii wayinii ifaa gochuu").
+entry(finis, n, [finises], "dhuma").
+entry(finish, v, [xumure,xumuruu,xumuraa], "dhumatti geessuu").
+entry(finisher, n, [finishers], "isa/i dhumaa").
+entry(finite, n, [finites], "kan xumuramee kan daangaa qaba").
+entry(finitely, adv, [], "bakka murtaa'etti").
+entry(finitism, n, [finitisms], "amanamuu isaa meeshaan tokko daangeffamee jira").
+entry(finitist, n, [finitists], "nama jaalala xumura amanu").
+entry(finito, adj, [], "xumurame").
+entry(finitee, n, [finiteewwan], "haala daangaa qabaachaa").
+galmee(fink, v, [finked, finking, finks], "polisii beeksisuu").
+entry(finless, adj, [], "kan baalasaan hin jirre").
+entry(finlike, adj, [], "kan halluu fin fakkaatu").
+entry(finmark, n, [finmarks], "galeessa maallaqaa durii Finlaandiin keessa hojjatamaa ture").
+entry(finnan, n, [finnans], "haddock xuuxame").
+entry(finned, darbe, [], "namiila jedhan yeroo darbe").
+entry(finnicky, adj, [], "FINNICKIER FINNICKIESTfinicky").
+entry(finnier, comparative, [], "kan finny").
+entry(finniest, superlative, [], "of finny").
+entry(finning, present, [], "participle of fin").
+entry(finnmark, n, [finnmarks], "finmark").
+entry(finny, adj, [], "FINNIER FINNIESTkan akka fiinii yookiin fiinii qabu").
+entry(fino, n, [finos], "sherrii qal'aadha").
+galmee(finochio, n, [finochios], "dureettiin yeroo hunda magariisa ta\'e").
+entry(fiyoordii, n, [fiyoorsii], "fiordii").
+entry(fipple, n, [fipples], "dubbii mukaa kan afaan sagalee daakaa ittiin dhooyuuf").
+entry(fique, n, [fiques], "biqiltuu garbaawaa").
+entry(fir, n, [firs], "muka inni dheedhii").
+entry(gobba, v, [gobbe,gobbaa,gobbu], "akka biddee irraa darbuudhan ykn dhukaasuudhan erguGOOBBARU adj").
+entry(garaachis, n, [garaachisota], "mishinaa meeshaa ittiin dhukaasu bidiruu gaazaan dhiibiinsa qabu waliin dha").
+entry(fireback, n, [firebacks], "gabatee sibiil kaastee qondaalame kan balbala ibiddaa duuba jiru").
+gala(gobee, n, [gobeewwan], "badhadha ifa hin qabu").
+galmee(faayarbeysii, n, [faayarbeysoota], "buufata waraanaa itti mootummaa diina irratti bantee ittiin qiyyaafatu").
+entry(firebird, n, [firebirds], "bofa ifeecha").
+galmee(galcha, n, [galchoota], "markaabaa meeshaalee ibiddaa dhaamsuuf qopheessitee").
+item(gubbaacha, v, [gubbaachuulame, gubbaachuudha, gubbaachu], "bombi ibiddaa ittiin weeraruu").
+entry(firebox, n, [fireboxes], "kutaa ibidda itti qabsiifamu").
+entry(firebrat, n, [firebrats], "jinjee xiqqaa garuu gar-tokkee hin qabne").
+entry(firebug, n, [firebugs], "dhabamsiittuu").
+entry(fireclay, n, [fireclays], "dhoqqee didu ho'aa").
+entry(waame, darbe, [], "tartiiba waamicha").
+entry(firedamp, n, [firedamps], "gaasii gubachuu danda'u").
+entry('firedog', 'n', ['firedogs'], "an andiron").
+entry(firefang, v, [firefanged, firefanging, firefangs], "akka midhaan nyaatamu gubataa deebi'u").
+entry(abjuuta, n, [abjuutota], "xuuraa ibsaa qabu").
+entry(firehall, n, [firehalls], "buufata ibiddaa").
+entry(firehose, n, [firehoses], "balbiyee kan boba’aa dhaamsuuf gargaaree").
+entry(fireless, maq, [], "hin ibiddu").
+entry(firelit, adj, [], "ifaa ibidda irraa argatudha").
+entry(firelock, n, [firelocks], "faayida dhukaasuu qabu tokko").
+entry(fireman, n, [firemen], "nama ibiddaa dhaamsuuf qacarame").
+entry(firepan, n, [firepans], "sahan ban'a inni gubboo jiraachisaa jiraachuuf").
+entry(firepink, n, [firepinks], "biqiltuu ciicoo").
+entry(firepit, n, [firepits], "feesumaa").
+galmee(fiirpluugii, n, [fiirpluugoota], "midhaan bishaanii").
+entry(firepot, n, [firepots], "botor siidaa ibiddaan guutame").
+entry(firer, n, [firers], "nama ifaajju").
+entry(firereel, n, [firereels], "makina daemsa ibiddaa").
+entry(fireroom, n, [firerooms], "kutaa keessatti buufata doonii'sirmii argaman").
+entry(fireship, n, [fireships], "dooni gubaatuu gara doonii diinaa ergamtu").
+entry(fireside, n, [firesides], "naannoo siidaa ibidda marsuu").
+entry(firetrap, n, [firetraps], "mana gubamuu danda'u").
+entry(firewall, n, [firewalls], "kutaalee kombuyuutaraa kan seera malee akka seeraan ala seenamuu danda'u dhorguu").
+entry(fireweed, n, [fireweeds], "jirma dhaabbataa").
+entry(gaazii, n, [gaaziwwan], "haxaa bubbisaaf ooluu").
+entry(firework, n, [fireworks], "meeshaa ifa agarsiisuuf ykn sagalee jabaa dhageessisuuf oolu").
+entry(fireworm, n, [fireworms], "baltina urji'aa").
+entry(gubuu, g, [gubuulee], "hala gahaan hojjatamuu meeshalee siraamiikiin ho'aatiin").
+entry(firkin, n, [firkins], "ykn a Luna Ingiliziyaa").
+entry(firm, adj, [], "FIRMER FIRMESTdhiibbaaaf hinqabne").
+galmee(firm, v, [firmed, firming, firms], "jabeessuuf").
+entry(firman, n, [firmans], "ajaja mootii Bahaa Jiddu Galeessaa isa baasan").
+entry(firmer, n, [firmers], "meeshaa qoree hojjechuu").
+entry(adduunfatee, adv, [], "sirnaan").
+entry(firmness, n, [ka’uumsa], "haala jabaataa ta’uu").
+entry(firmware, n, [firmwares], "booddiiwwan komputaraa yeroo hundaa microchip irratti kuufaman").
+entry(firn, n, [firns], "neve").
+entry(firry, adj, [], "FIRRIER FIRRIESTkan mul'atu firressatti").
+entry(first, n, [jalqaba], "waan hunda dura dhufu tokko").
+entry(firstly, adv, [], "ka duraa dursee").
+entry(firth, n, [firths], "qubannoo galaanaa").
+entry(fisc, n, [fiscs], "daandii mootummaa yookaan masaraa").
+entry(fiscal, n, [fiscals], "abukaatoo mootumma").
+entry(fiscally, adv, [], "walqabatee hojii maaliyyaa").
+entry(qabuu, v, [qabate, qabachaa, qabatu], "kan hori'atu yookiin yaalu ittiin hori'atu holqa kan galaanaa dhiiga-jignaa fi qaamaa bishaan keessa jiraatu keessaa").
+entry(fishable, adj, [], "kanneen qurxummii qabachuu danda'an irratti mijataa ta'ee").
+entry(fishboat, n, [fishboats], "doomii bishaanitti ittiin tumamuuf oolu").
+entry(fishbolt, n, [fishbolts], "gosa boltii").
+entry(fishbone, n, [fishbones], "calaqqe ibidda").
+entry(fishbowl, n, [fishbowls], "bosona keessatti qurxummiin jiraachisuun ittiin danda'amu").
+entry(fisher, n, [fishers], "kan qurxummii qabuu").
+entry(adda_bishaan, n, [addoota_bishaan], "iddoo qurxummii qabatan").
+entry(fisheye, n, [fisheyes], "ilaalaa shakkii qabu").
+entry(fishgig, n, [fishgigs], "qixa kan korombobsee fi simbirrotti ittiin naqatan").
+entry(fishhook, n, [fishhooks], "gaffee qaban haa’uuf").
+entry(hindhaan, addadddeessa, [], "hindhaan").
+entry(fishiest, superlative, [], "kan qurxummii").
+entry(fishily, adv, [], "akka qabbanaa'utti").
+entry(fishing, n, [fishings], " hojii yookiin bashannana qurxummii qabuu").
+galmee(fishkill, n, [fishkills], "miidhaa addaan hin cinne kan qurxummii baay’ee irratti raawwatamu, sani").
+entry(fishless, adj, [], "kan marga hin qabne").
+entry(fishlike, adj, [], "kan qurxummiiti fakkaatu").
+entry(fishline, n, [fishlines], "kara ilkaan ittiin qurxamtuuf itti gargaaraman").
+entry(fishmeal, n, [fishmeals], "fishii gogee gogaa").
+entry(fishnet, n, [fishnets], "rishwa jeedalaaf oolu").
+entry(fishpole, n, [fishpoles], "ullaga faanaa").
+entry(fishpond, n, [fishponds], "haroo horsiisa akka nyaataa hedamuuf").
+entry(fishtail, v, [fishtailed,fishtailing,fishtails], "dugdeessaa meeshaa deddeebi'uu harka mirgatti fi bitaa saatanii socho'uudha").
+entry(fishway, n, [fishways], "meeshaa dhaamsa ittiin qurxummiin dabruu danda'u").
+entry(fishwife, n, [fishwives], "dubartii qurxummii gurgurttu").
+entry(fishworm, n, [fishworms], "ixxiitti fayyadamuuf ooffamu").
+entry(fishy, adj, [], "KAN QINXII QINXITUU fakkaatu yookaan ofiin qabaatu").
+entry(fissate, adj, [], "qunamtii xiqqootti deeggarame").
+entry(fissile, adj, [], "kan addaan qoodamu danda'u").
+entry(fission, v, [fissioned,fissioning,fissions], "akka gara qoodduutti addaan ba'uu").
+entry(fissiped, n, [fissipeds], "beeyladaa harroota addaan baadhate qabaatu").
+entry(fissural, adj, [], "kan ittiin walqabatu bifa furdaa fi dheeraa jabutu").
+galmee(malkarraa, v, [malkarree,malkarraa,malkaran], "addaan qooduu").
+galmee(niyya, v, [niqqee, niqqachaa, niqqoota], "harka cufameen dha'uu").
+entry(fistful, n, [fistfuls], "qubaan guutuu").
+entry(fistic, adj, [], "haala wal-dorgommii ykn dhidhiibbuutti ida'uu").
+entry(fistnote, n, [fistnotes], "kutaa barruu mallattoo tilmaamaan itti xiyyeeffannaa godhamu").
+entry(fistula, n, [fistulas], "ykn FISTULAEa duktidhaan uumaa kan ta’e madaa cufamuu dhabuufFISTULAR adj").
+entry(fit, adj, [], "KORMEE ULFAADHA").
+entry(galcha, v, [galche, galchuu, galcha], "gara foormii fi guddina barbaadamuutti fiduu").
+entry(fitch, n, [fitches], "baal'oo").
+entry(fitchee, maq, [], "fitchy").
+entry(fitchet, n, [fitchets], "fici").
+entry(fitchew, n, [fitchews], "fitchi").
+entry(fitchy, adj, [], "harku irratti gooroo qaban harkii isaanii xumuraa kan qabu faayidaa mataduree qalmaa qaban").
+entry(fitful, adj, [], "deebi'ee deebi'ee haala sirrii hin taanenFITFULLY adv").
+entry(fitly, adv, [], "akka sirnaatti").
+entry(fitment, n, [fitments], "meeshaalee").
+entry(fitness, n, [fitnesses], "haalata fayyaa qabuu").
+entry(fittable, adj, [], "kan gatii tokko qabu").
+galmee(ulfaatee, darbe, [], "yeroo suduudaa kan ta'u").
+entry(fitter, n, [fitters], "kan tolu").
+entry(fittest, superlative, [], "of fit").
+entry(fitting, n, [fittings], "kitaaba xiqqa fi amalaa qaama keessatti socho'u").
+entry(shan, n, [shanoo], "lakkofsa").
+entry(shanushan, ajj, [], "shanii ol guddata").
+entry(fivepins, npl, [], "ciyaara boolingii").
+galmee(fiver, n, [fivers], "baankii boodaallaa shanii").
+entry(fix, v, [fixt,fixing,fixes], "sirreessuufiSIRREEFFAMEE adj.").
+entry(fixate, v, [fixated,fixating,fixates], "akka tasgabbaa'u ykn dhaabbachuu gochuu").
+entry(fixatif, n, [fixatifs], "kan qabee cufuuf").
+entry(fixation, n, [fixations], "halluu").
+galmee(fixative, nya, [fixatives], "wantoota funyoo fi seeraatiin ittiin qorataman").
+entry(fixedly, adv, [], "dhibbaa").
+galmee(fixer, n, [fixers], "kan sirreessu").
+entry("alaabsa gurguddaa", npl, [], "faayidaalee nyaata gurguddaa waliin dhiyaatanii").
+entry(fixit, n, [fixits], "nama beekamaa waan manca'e qabuuf").
+entry(fixity, n, [fixities], "wanta hin jijjirremne").
+entry(fixt, a, [], "yeroon darbii kan fix").
+entry(gargaartuu, n, [gargaartota], "kutaa manaa yookiin naannoo isaa addaan baasan").
+entry(fixure, n, [fixures], "madaalawaa").
+entry(fiz, n, [fizzes], "dhuka'uu ykn sagaluu sagalee").
+entry(fizgig, n, [fizgigs], "fishgig").
+entry(fizz, v, [fizzed,fizzing,fizzes], "sagalee hishisuu fi tarsaasuu gochuu").
+entry(fizzer, n, [fizzers], "isa kan bubbisu").
+entry(fizzes, pl, [], "fiz keessaa").
+entry(fizzle, v, [fizzled,fizzling,fizzles], "ya'ii jijjuu").
+entry(fizzy, adj, [], "KAN FIIZIIFI KAN FIIZIISEfiizuuFIIZIIN adv").
+entry(fjeld, n, [fjelds], "gabatee ondeetti bareedaa miti").
+entry(fjord, n, [fjords], "seenaa muddo hingooge sana ibsuuf asoosama miidhagina addaarra gahe,dhiichisa yookaan walaloo xuxxee gaggabaaboo of keessaa qaba ").
+entry(flab, n, [flabs], "qaama miira namaa hin qabne").
+entry(flabby, adj, [], "FLABBIER FLABBIESTflaccidFLABBILY adv").
+entry(flabella, npl, [], "qaamni qaama namaa faana fakkaatu").
+entry(flaccid, adj, [], "jabina dhabu").
+entry(flack, v, [flacked,flacking,flacks], "akka gorsaa miidiyaatti hojjechuuf").
+entry(flackery, n, [flackeries], "odduu").
+entry(flacon, n, [flacons], "qoricha ittiin kuusan xiqqaa kan qusannoo qaba").
+entry(flag, v, [flagged,flagging,flags], "akka alaamttii ykn mallattotti bifa jedhamu tolchuu").
+entry(flagella, npl, [], "faansuwwan dheeraa fi qulloofaa biqiltuu").
+entry(flagger, n, [flaggers], "inni kan flag godhu").
+entry(flagging, n, [flaggings], "gosa daandii").
+entry(flaggy, adj, [], "FLAGGIER FLAGGIESTdrooping").
+entry(flagless, adj, [], "waan alaamii hin qabne").
+entry(flagman, n, [flagmen], "kan alaabaa baatu tokko").
+entry(flagon, n, [flagons], "ulummaan guddicha hawwataa").
+entry(flagpole, n, [flagpoles], "utuba keessa mallattoo agarsiisu").
+entry(flagrant, adj, [], "qulqullinaan mul'atu").
+entry(flagship, n, [flagships], "markabni baddii daamuu fe'uuf tajaajiluu").
+entry(falalaga, v, [falalagadde, falalagaa, falalaga], "wal-falalaga").
+galmee(flair, n, [flaarsi], "bilchina uumaa").
+entry(flak, n, [flak], "dhukaasa xiyyaaraa misaa'ela irraa ittisaa").
+entry(flake, v, [flaked,flaking,flakes], "akka qodaa gogaa gubbaa keessaa balali'uu").
+entry(flaker, n, [flakers], "kan foolii jedhu").
+entry(flakey, adj, [], "JAALBAKKIII JAALBAKKITUU").
+entry(flaky, aj, [], "FLAKIER FLAKIEST kallacha falkii fakkaatuFLAKILY adv").
+entry(flam, v, [flammed, flamming, flams], "soba").
+entry(flambe, v, [flambeed, flambeing, flambes], "akka dhugaatii aalkolii itti naqee ibiddaan qabsiisuuf").
+entry(flambeau, n, [flambeaus], "yookin duwwaa niitii qabdu FLAMBEAUX bashaan boba'u").
+entry(flambee, adj, [], "ifaa").
+entry(flame, v, [flamed,flaming,flames], "lola ibiddaa guutuu").
+entry(flamen, n, [flamens], "yookiin FLAMINESwaaqessaa Roomaa durii").
+entry(flamenco, n, [flamencos], "sirbaa itti fufinsa guutuu qabu").
+entry(flameout, n, [flameouts], "hanqina meeshaa motora jetii yeroo balali'u").
+entry(flamer, n, [flamers], "kan ibsuu").
+entry(flamier, comparative, [], "kan ibiddaa'aa").
+entry(flamiest, superlative, [], "kan nama affeelsu").
+entry(flamines, a, [], "pl of flamen").
+entry(flaming, present, [], "naannoo ‘flame’ irraa").
+entry(flamingo, n, [flamingos], "yookiin FLAMINGOESa simbirri bishaan keessa fiigu").
+entry(flammed, darbe, [], "yeroo flam").
+entry(flamming, present, [], "partisipaala flam").
+entry(flamy, adj, [], "FLAMIER FLAMIESTflaming").
+entry(flan, n, [flans], "ykn FLANESbifa cuustard").
+entry(flancard, n, [flancards], "qabduu bishaan bishaan daarii jaldeessa nyaatamuuf").
+entry(flanerie, n, [flaneries], "tasaquu").
+entry(flaneur, n, [flaneurs], "nama bakka of keessa jallatu").
+entry(flange, v, [flanged,flanging,flanges], "in daimmannaa itti godhuuf").
+entry(flanger, n, [flangers], "namni flange godhuuf tajaajilu").
+entry(flanging, n, [flangings], "kenninsi daangaa tiksoo irratti wanta tokko").
+entry(flank, v, [flanked,flanking,flanks], "akka cinaa/dhiyoo jiruu dha").
+entry(flanken, npl, [], "lafa looni irra jalaa keessatti ba’ee muduraalee wajjiin bilchaate").
+entry(flanker, n, [flankers], "tokko kan eegu").
+entry(flannel, v, [flanneled, flanneling, flannels], "or FLANNELLED FLANNELLING FLANNELSto cover with flannel a soft fabric").
+entry(flap, v, [flapped,flapping,flaps], "ol-kaasuu fi gad-kasuu").
+entry(flaperon, n, [flaperons], "faadii kan qoolliftaa fi gaalifataa ta'e").
+entry(flapjack, n, [flapjacks], "kookii garagaraa").
+entry(flapless, adj, [], "kan hin faana qabne, kan faana qajeelaa qabu").
+entry(flapped, darbe, [], "ballina of flap").
+entry(flapper, n, [flappers], "kan balbalaa").
+entry(flapping, present, [], "gurguddoo flap irraa").
+galmee(flappy, adj, [], "FLAPPIER FLAPPIESTflapping").
+entry(flare, v, [flared,flaring,flares], "ibiddi ifaa fi holqa qabuun boba'uu").
+gelcha(flareup, n, [flareups], "dhibaachu dhaqqabuu").
+entry(flash, v, [flashed,flashing,flashes], "if jalqabaa ibsaa yeroo gabaabaaf baasti").
+entry(flasher, n, [flashers], "isa ifana").
+entry(flashgun, n, [flashguns], "alkaa meeshaa suuraa").
+entry(flashing, n, [flashings], "birkii sibiilitiin hojjetame kan mana korojoo dhibsuu keessatti tajaajilu").
+entry(flashy, adj, [], "FLASHIER FLASHIESTgaudyFLASHILY adv").
+entry(flask, n, [flasks], "bokkuu dagalee xiqqaa qabu tokko").
+entry(flasket, n, [flaskets], "flaskii xiqqaa").
+entry(flat, adj, [], "WARAANSE WARAANSOOhaving a smooth or even surface").
+seensa(flat, v, [flatted, flatting, flats], "fuulli toleessa").
+entry(flatbed, n, [flatbeds], "gosa konkolaataa ykn taayilaara").
+entry(flatboat, n, [flatboats], "doonii siiloo").
+entry(flatcap, n, [flatcaps], "gosa koofiyyaa").
+entry(flatcar, n, [waggaan magariinaa], "karra lafa magariisaa kan akka bishaan hin qabne").
+entry(flatfish, n, [flatfishes], "kita booda qiyya zalaalami").
+entry(flatfoot, n, [flatfeet], "haala miillaatiin miilla ykn dhangala’uu miillaati").
+entry(flatfoot, v, [flatfooted,flatfooting,flatfoots], "akka deemuuf isaan harkisuu").
+entry(flathead, n, [flatheads], "bifti nyaataa galaanaa").
+entry(flatiron, n, [flatirons], "meeshaa riguu uffata").
+entry(flatland, n, [flatlands], "lafaa kan walqixxeetti dhiyaatuu fi dhagaa ykn gaarren hin qabne").
+entry(flatlet, n, [flatlets], "gosa mana jireenyaa").
+entry(flatline, v, [flatlined,flatlining,flatlines], "suuta madaala hin qabaanne ykn onnee osoo hin dhiituu galmeessuuf").
+entry(flatling, adv, [], "fuula yk qara gogaa qabuun").
+entry(flatlong, adv, [], "flatling").
+entry(flatly, adv, [], "haala qajeelaadhaan").
+entry(flatmate, n, [hiriyoota_galmee], "nama waliin mana kirayii qooddatu").
+entry(flatness, n, [flatnesses], "haaluma laafaa").
+entry(flatpack, n, [flatpacks], "kutaa circuityawuu walitti fufaan").
+entry(flatted, kan darbii, [], "wayyabii boojuu").
+entry(flatten, v, [sirbame, sirbachuu, sirbatuu], "gara sirrii galu yookaan sirrii gochuuf").
+galmee(simachuu, v, [simatame,simachaa,jedha], "ol-qabbiidhaan galateeffachuu").
+entry(qaccee, n, [qacceewwan], "hojii of qaccee godhuu").
+entry(flattest, superlative, [], "kan gogaa").
+entry(flattie, n, [flatties], "kallacha qal'oo fi laafa qabaatuu").
+entry(flatting, yeroo_ammee, [], "kibxata of xiyyoomsa").
+entry(flattish, adj, [], "nyaaphaa").
+entry(flattop, n, [flattops], "xiyyaarri gargaaraa bishaan irratti yaabbachuu danda'u").
+entry(flatus, n, [flatuses], "meechaa gogiisa").
+entry(flatware, n, [flatwares], "meeshaalee tarreeffaman kan miillaa of hin qabne").
+entry(flatwash, n, [flatwashes], "kitaaba giddugaleessaa").
+entry(flatways, adv, [], "flatwise").
+entry(flatwise, adv, [], "qaama gabaabaan iddoo tokko keessatti").
+entry(flatwork, n, [flatworks], "dabaachuu kan meeshaan ijaaramu").
+entry(xaxawuha, n, [xaxawuhota], "xaxawuha qaama laafaa qabu").
+entry(mulkaasuu, v, [mulkaase, mulkaasaa, mulkaasu], "akka wayaa miidhagaa ta'etti agarsiisuuf").
+entry(flaunter, n, [flaunters], "kan oftuulu").
+entry(flaunty, adj, [], "KAN FLAUNTY FLAUNTYI FLAUNTIEST fakkaatu").
+entry(flauta, n, [flautas], "tortila itti marfamee fi bilchefamte").
+entry(flautist, n, [flautists], "muuziqa afuura naya").
+galmee(flava, n, [flavas], "sagantaa miidhaginaa muuziqaa hiphop").
+entry(flavanol, n, [flavanoloota], "flavonol").
+entry(flaavinii, n, [flaavinoota], "loota diimaa").
+entry(filaavinii, n, [filaavinoota], "filaavinii").
+entry(flavone, n, [flavones], "walqunnamtii kiimikaalaa").
+entry(flaavonool, n, [flaavonooloota], "want awulliilawa flaavoonii ta'e").
+entry(dhandhama, v, [dhandhamamuu, dhandhamuudha, dhandhamaa], "dhandhama addaa kennuuf").
+entry(muraattuu, n, [murattuuwwan], "kan muuraa kennu").
+entry(flavory, adj, [], "kan urgoofi dhandhama guute").
+entry(dhadhessuu, v, [dhadhesse, dhadheessi, dhadhessan], "to flavor").
+entry(flavoury, adj, [], "dhandhama").
+entry(falawa, v, [falawaa,falawaa’aa,falawwan], "dogoggora ykn hanqina uumuu").
+entry(flawless, adj, [], "kan dogogora hin qabne").
+entry(flawy, adj, [], "xaafii kan sirreessu hin jirre").
+galii(flatrax, n, [flatraxota], "ciree waggaa waggaa").
+entry(flaxen, maq, [], "bifa diimaa faltessa").
+seensa(garbuu_ree'ee, n, [garbuwwan_ree'ee], "sanyii ree'ee").
+entry(flaxy, adj, [], "FLAXIER FLAXIESTflaxen").
+entry(flay, v, [flayed,flaying,flays], "ibidda irraa baafuu").
+entry(flayer, n, [flayers], "kan tumaan dhaha").
+entry(kormaata, n, [kormaatawwan], "ilbiisa kan hintala irraa nyaatu").
+entry(fleabag, n, [fleabags], "mana soorata xiqqaa fi salphaa").
+entry(fleabane, n, [cubcubbi], "muka/dabalaa fiqa'ee").
+entry(fleabite, n, [kan cuufe], "cufama boqqolloo").
+entry(fleam, n, [fleams], "meeshaa yaalaa").
+entry(fleapit, n, [fleapits], "ibsa keessatti 'a rundown movie theater' jechuu dha").
+entry(fleawort, n, [fleaworts], "jirma Awurooppaa").
+entry(fleche, n, [fleches], "manjaafaa").
+entry(fleck, v, [flecked,flecking,flecks], "mallattoo yookaan bifa xixiqqoo ittiin mallatteessuu").
+entry(flecky, ajj, [], "dhokisa").
+entry(jajjuu, n, [jajjiwwan], "gochaa naataa jajjamsuu").
+entry(fled, yeroo_dhufuu, [], "yeroo baqachuu").
+entry(fledge, v, [fledged,fledging,fledges], "feetiin guutuu").
+entry(fledgy, adj, [], "FLEDGIER FLEDGIESTbifaqunxa harca'oolee").
+entry(maxxanuu, v, [maxxante,maxxanaa,maxxanu], "bayyanachuun dheessuuf").
+entry(fleece, v, [fleeced,fleecing,fleeces], "kottaa re'eti irra buqqaasuun").
+entry(fleecer, n, [fleecers], "kan qulqullessu").
+entry(fleech, v, [fleeched,fleeching,fleeches], "koorsoofi qabsiisuuf");
+entry(fleecy, adj, [], "FLEECIER FLEECIESTwoollyFLEECILY adv").
+entry(fleer, v, [fleered,fleering,fleers], "tufachuun").
+entry(fleet, adj, [], "FLEETER FLEETESTswiftFLEETLY adv").
+galmee(fleet, v, [fleeted, fleeting, fleets], "socho'u saffisuudhaan").
+entry(flehmen, v, [flehmened,flehmening,flehmens], "afaan bananii daamanii olka’uun harganuuf").
+entry(fleishig, adj, [], "kan foonii ykn oomisha foonii irraawwaname").
+entry(flemish, v, [flemished,flemishing,flemishes], "foo'a qalama irra ittiin fayyadamaniin olsuun").
+entry(flench, v, [flenched,flenching,flenches], "flense gochuu").
+entry(flense, v, [flensed,flensing,flenses], "akka ancoo ykn harmaarra saaxilani").
+entry(flenser, n, [flensers], "kan flensessu").
+entry(flesh, v, [fleshed,fleshing,fleshes], "cuqaallii keessatti of darbachuu").
+entry(flesher, n, [fleshers], "nama foon qallee irra furu").
+entry(fleshier, comparative, [], "kan fooniin guute").
+entry(fleshiest, superlative, [], "kan foon qabaatu").
+entry(fleshing, n, [fleshings], "hiranna abiddaa fi dhadhaa irraan beeksisa").
+entry(fleshly, adj, [], "FLESHLIER FLESHLIESTkan qaama ilaallatu").
+entry(fleshpot, n, [fleshpots], "ibidda mi’eessituu foon itti bilcheessuuf oolu").
+entry(fleshy, adj, [], "BUQQISOO FIINKA BUQQISU qabaachuuBUQQISUMMAAN adv").
+entry(fletch, v, [fletched,fletching,fletches], "bakka qunca hinjifatanii ciree godhu").
+entry(fletcher, n, [fletchers], "kan misaa hojjatu").
+entry(fleuron, n, [fleurons], "faayila biqiltuu").
+entry(fleury, adj, [], "qaama gajarraan hivaraafi hidda sadii qabu kan faaya foon hidda lakkoofsaa fayyadamu").
+entry(flew, n, [flews], "jecha".
+entry(flex, v, [flexed,flexing,flexes], "gobbanaFLEXAGON n pl FLEXAGONSa kirkira warraaqa tokkoFLEXIBLE adj kan ni gobbateeFLEXIBLY advFLEXILE adj flexibleFLEXION n pl FLEXIONSgobbannaaFLEXOR n pl FLEXORSkaana lafeFLEXTIME n pl FLEXTIMESyaalli godhamee darba sa'atii hojii irrattiFLEXUOSE adj rife-rafeeFLEXUOUS adj boba'aaFLEXURE n pl FLEXURESindeesuufFLEXURAL adjFLEXWING n pl FLEXWINGSkurakura hidhameef of qeeqaa akka gaafata bidaroo yeroo lafa naqunPROVISO v PROVISOED PROVISOING PROVISOSto caucasa");
+entry(gab, v, [gabbed, gabbing, gabs], "latakkuu").
+entry(gabba, n, [gabbas], "sirba sagalee garaa garaa qabuu fi dafee garagaluu dhagahamuu danda'u").
+entry(gabbard, n, [gabbards], "baarchee").
+entry(gabbart, n, [gabbarts], "gabbard").
+entry(gabbed, darbe, [], "yeroo gabbii").
+entry(gabber, n, [gabbers], "kan dabaaludha").
+entry(gabbier, comparative, [], "kan gabby").
+entry(gabbiest, superlative, [], "kan gabby").
+entry(gabbing, present, [], "participle of gab").
+entry(gabble, v, [gabbled,gabbling,gabbles], "sagaleewwan wol-xaxaa afaan hiixuu").
+entry(gabbler, n, [gabblers], "nama yeroo hunda dhangala'uu").
+entry(gabbroo, n, [gabbroos], "akka halluu dhagaanGABBROIC GABBROID adj").
+entry(gabby, adj, [], "GABBIER GABBIESTqulubee").
+entry(gabelle, n, [gabelles], "kitaaba irratti beeksisa kan yoo koottu").
+entry(gabfest, n, [gabfests], "wal-gayii doosii kan haala malee mari'achuuf qophaaye").
+seensa(gabies, pl, [], "kan gaby").
+entry(gabion, n, [gabionota], "gaadiidhaan keessa galfamu kan sanyii kessoo hawaasaa").
+entry(gable, v, [gabled,gabling,gables], "akka fageenyi shubbisaa turree ta'uutti wanta sadi dhaabbata akkasii jijjiiruuf").
+entry(gaboon, n, [gaboons], "gaafarsa").
+entry(gaby, n, [gabies], "sagalee").
+entry(gach, v, [gached,gaching,gaches], "gachuu").
+entry(gacher, n, [gachers], "gatcher").
+entry(gad, v, [gadded,gadding,gads], "idhachuuf halkanii galgala").
+entry(gadabout, n, [gadabouts], "kan taphataa deema").
+entry(gadarene, maq, [], "ni kufaansaa").
+entry(gadded, darbe, [], "maqa-lalafe of gada").

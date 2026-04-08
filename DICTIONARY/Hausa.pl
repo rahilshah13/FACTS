@@ -11381,3 +11381,4688 @@ entry(fiord, n, [fiords], "kogi mai santsi").
 entry(fipple, n, [fipples], "ƙullin itace a bakin wasu kayan busa iska").
 entry(fique, n, [fiques], "tsirrai na yankin zafi").
 entry(fir, n, [itatuwan ƙasa], "itacen da ba ya shuɗewa").
+entry(da fari, adv, [], "kafin kowa da kome").
+entry(firth, n, [firths], "wani yanki na cikin teku").
+entry(fisc, n, [fiscs], "baitulmali na jiha ko na sarauta").
+entry(fisikal, n, [fisikaloli], "wakilin jama'a").
+entry(fiscally, adv, [], "dangane da al'amuran kudi").
+entry(kifi, v, [kamakifi,kifida,kifaye], "kamawa ko yunƙuri kamawa kifi dabbobin ruwa masu kashi masu jin daɗin sanyi").
+entry(fishable, adj, [], "mai dacewa da kamun kifi").
+entry(jirgin_kifi, n, [jiragen_kifi], "jirgi ne da ake amfani da shi don kamun kifi").
+entry(fishbolt, n, [fishbolts], "wani irin kusoshi").
+entry(kashin_kifi, n, [kashin_kifi], "kashin kifin").
+entry(kofin_kifi, n, [kofin_kifan], "kofi wanda a ciki ake adana kifaye masu rai").
+entry(fisher, n, [masunta], "wanda ke kamun kifi").
+entry(kifi, n, [gidajen_kifi], "wurin kamun kifi").
+entry(fisheye, n, [fisheyes], "wani kallon rashin tausayi").
+entry(fishgig, n, [fishgigs], "wata mashinƙaƙiyar kayan aiki don sumbatar kifi").
+entry(kugiya, n, [kugiyoyi], "kugiya mai makari don kamun kifi").
+entry(neman kifi, na kwatance, [], "na kamshin kifi").
+entry(fishiest, superlative, [], "na kifin").
+entry(fishily, adv, [], "a cikin hanya mai kamanyi").
+entry(kama_kifi, n, [kama_kifaye], "aiki ko sha'awar kama kifi").
+entry(fishkill, n, [fishkills], "halakar kifi da yawa a bazata").
+entry(marar_kifi, sif, [], "ba tare da kifi ba").
+entry(kamar_kifi, sif, [], "yana kama da kifi").
+entry(fishline, n, [layukan-kifi], "layi da ake amfani da shi wajen kamun kifi").
+entry(kifi_nika, n, [kifi_nikas], "kifi da aka nika kuma aka busar").
+entry(fishnet, n, [kogin-farauta], "raga don kama kifi").
+entry(fishpole, n, [sandunan kamun kifi], "sanduna na kamun kifi").
+entry(tudan_kifi, n, [tudan_kifi], "tafkin da ke da yalwar kifayen da ake ci").
+entry(fishtail, v, [fishtailed, fishtailing, fishtails], "a yi mummuran dukan karshe na abin hawa yayin da yake motsi").
+entry(hanyar_kifi, n, [hanyoyin_kifi], "na'ura don ba kifaye damar wucewa gefen dam").
+entry(mai_kifi_mace, n, [mai_kifi_mata], "mace da ke sayar da kifi").
+entry(kifinƙwari, n, [kifinƙwari], "ƙwari da ake amfani da shi azaman tarko").
+entry(fishy, sif, [], "MAI KAMAR KIFI KO KAMAR KIFI SOSAI").
+entry(fissate, sif, [], "rabu sosai").
+entry(fissile, sif, [], "mai iya tsagewa").
+entry(fission, v, [fissioned,fissioning,fissions], "rarrabe zuwa sassa").
+entry(fissiped, n, [fissipeds], "dabbobi masu dan yatsun da aka raba").
+entry(fissural, sifa, [], "mai dangantaka da budewa mai tsawo kuma kunkuntacce").
+entry(fissure, v, [fashewa, fashe, fashewar], "tsagewa").
+entry(fist, v, [fisted,fisting,fists], "buga da hannu da aka matse kamata da azumi").
+entry(fistful, n, [fistfuls], "dibar abu").
+entry(fistic, adi, [], "na nufin dambe").
+entry(fistnote, n, [fistnotes], "wani bangaren rubutu wanda aka jawo hankali zuwa gare shi ta hanyar alamar nunin").
+entry(fistula, n, [fistulas], "ko FISTULAE bututun da aka kirkira ta hanyar rashin cikakken rufe rauniFISTULAR sif").
+entry(koshi, sif, [], "KOSHI KOSHIN_ARMASHI").
+entry(shige, v, [shigāwa, shigakēwa, shugaiyāwa], "don kawo shi zuwa wani tsari da girman da ake bukata").
+entry(fitch, n, [fitches], "wani irin dabbobi na miyagun kaya").
+entry(fitchee, sif, [], "fitchy").
+entry(fitchet, n, [fitchets], "wani fitchi").
+entry(fitchew, n, [fitchews], "fitsh").
+entry(fitchy, sif, [], "wanda hannayensa ya ƙare da maki ana amfani da shi a giciye na heraldic").
+entry('fitful', 'adj', [], "mai maimaitawa ba tare da tsari baFITFULLY adv").
+entry(fitly, adv, [], "a cikin yanayi mai kyau").
+entry(fitment, n, [fitments], "kayan aiki").
+entry(kyau, n, [kyawawa], "halin kasancewa cikin koshin lafiya").
+entry(fittable, adj, [], "mai yiwuwa a daidaita").
+entry(fitted, baya, [], "yadda ‘fit’ ya canza").
+entry(mai-daidaitawa, n, [mai-daidaitawa], "wanda ya dace").
+entry(mafi inganci, superlative, [], "na koshin lafiya").
+entry(yada, n, [yadaye], "wani karamin wani yanki mai tsari da ake amfani dashi a matsayin kayan da ake amfani dashi akai-akai").
+entry(biyar, n, [biyu], "wani lamba").
+entry(ninki-biyar, adj, [], "sau biyar da girma").
+entry(fivepins, npl, [], "wasa na bolo").
+entry(fiver, n, [fivers], "takardar kudi ta dala biyar").
+entry(girma, v, [girmat,girmawa,girmasa], "gyarawaFIXABLE adj").
+entry(dafe, v, [dafe, dauke, daukan], "sanya ya tabbata ko ya tsaya").
+entry(fixatif, n, [fixatifs], "abun gyarawa").
+entry(fixation, n, [fixations], "aikin daidaita").
+entry(gami, n, [gamis], "wani sinadari domin kiyaye zanen-fenti ko zanen-hannu").
+entry(fixedly, adv, [], "cikakke").
+entry(masu gyara, n, [masu gyara], "wanda ke gyarawa").
+entry(fixings, npl, [], "kayan ciye-ciye wajen kyautata babbar abinci na wasa").
+entry(fixit, n, [fixits], "mutum da aka sani da gyara abubuwa").
+entry(fixity, n, [fixities], "dorewa").
+entry(fixt, a, [], "wanda ya gabata na gyarawa").
+shigar(fixture, n, [fixtures], "wani bangare ko karin gida na dindindin").
+entry(fixure, n, [fixures], "karkata").
+entry(fiz, n, [fizzes], "kara mai ƙarƙarewa ko taɓki").
+entry(fizgig, n, [fizgigs], "gafiya").
+entry(fizz, v, [fizzed,fizzing,fizzes], "yin sauti mai kaushi ko kukan sharara").
+entry(fizzer, n, [fizzers], "wanda ke kumfar ruwa").
+entry(fizzes, pl, [], "na fiz").
+entry(fizzle, v, [fizzled, fizzing, fizzles], "yana tsalle-tsalle").
+entry(fizzy, adj, [], "FIJIYE FIJIYA SAURARA A FIJIYIFI FIZZIN FITILI adv").
+entry(fjeld, n, [fjelds], "tapkataccen tudun gangara mai tsayi").
+entry(fjord, n, [fjorduna], "wani kunkuntar bakin teku tsakanin duwatsu masu tsayi FJORDIC sif").
+entry(flab, n, [flabs], "jikin mai laushi").
+entry(flabby, adj, [], "MAI LAKKIYA MAI LAKKIYARafasassaRAKAR LAKKIYA adv").
+entry(flabella, npl, [], "tsarin da ya kama fata wanka a fannin ilimin halittu").
+entry(flaccid, sif, [], "rashinta rashin tauri").
+entry(flack, v, [flacked,flacking,flacks], "yin aiki a matsayin wakilin jarida").
+entry(flackery, n, [flackeries], "ƙayatarwa").
+entry(flacon, n, [flacons], "karamin kwalba mai tuggu").
+entry(tuta, v, [tutacce,tutantarko,tutoci], "yin alama da tuta wani yanki na zane da ake amfani dashi azaman alama").
+entry(flagella, npl, [], "dogayen rassan tsire-tsire masu santsi").
+entry(flagger, n, [flaggers], "wanda ke yi wa tuta nuni").
+```prolog
+entry(flagging, n, [flaggings], "wata irin hanya mai bene"). 
+```
+entry(flaggy, sif, [], "FLAGGYER FLAGGIESTmai saggayawa").
+shigar(flagless, sif, [], "babu tuta").
+entry(flagman, n, [flagmen], "wanda ke ɗaukar tuta").
+entry(flagon, n, [flagons], "babban kwalba mai kumbura").
+entry(flagpole, n, [sandunan tuta], "sanda wanda aka nunar da tuta a kai").
+entry(flagrant, adj, [], "mai matukar bayyana").
+entry(tutar-ƙasa, n, [tutar-ƙasa], "jirgin ruwa mai ɗauke da tuta na wata ƙungiyar kāsuwa").
+entry(flail, v, [flailed,flailing,flails], "juyawa cikin 'yanci").
+entry(flair, n, [flairs], "ilahirin baiwa").
+entry(flak, n, [flak], "harbin antijirgin sama").
+shigar(flake, v, [jaƙe, jaƙewa, jaƙe], "yi fayuƙa a fayuka masu laushi").
+entry(flaker, n, [masu_yankewa], "wanda ke yanke").
+entry(flakey, adj, [], "FLAKIER FLAKIESTmai ɗabi’a na juya baya").
+entry(flaky, sif, [], "FIYE DA YAWON FA`ISA WANDA YA KAMANTA DA KWAYOYI FA`ISA DA TSAFI").
+entry(flam, v, [flammed, flamming, flams], "yaudara").
+entry(flambe, v, [flambeed,flambeing,flambes], "zuba giya a kai kuma kunna wuta").
+entry(flambeau, n, [flambeaus], "ko FLAMBEAUX fitilar wuta").
+entry(flambee, sif, [], "mai ƙonewa").
+entry(wuta, v, [konewa, kona, kone], "ci gaba da kona da kuzari").
+entry(flamen, n, [flamens], "ko FLAMINES, wani firist na dā a Rome").
+entry(flamenco, n, [flamencos], "salo na rawa mai karfi da raye-raye").
+entry(flameout, n, [flameouts], "gazawar injin jirgin sama yayin tashi").
+entry(flamer, n, [flamers], "wanda ke yi wa mutane kallon banza").
+entry(flamier, na kwatanta, [], "na wuta").
+entry(mafi-flami, superlative, [], "na flamy").
+entry(flamines, a, [], "jam'in flamen").
+entry(flaming, na yanzu, [], "bangaren kalmar flame").
+entry(flamingo, n, [flamingos], "ko FLAMINGOESa tsuntsu mai shiga ruwa").
+entry(flammed, past, [], "lokacin flam").
+entry(flamming, yanzu, [], "wanda ya faru na flam").
+entry(flamy, sif, [], "FLAMIER FLAMIESTflaming").
+entry(flan, n, [flans], "ko FLANESwani nau'in alewa").
+entry(flancard, n, [flancards], "wani bangaren sulke don gefen doki").
+entry(flanerie, n, [flaneries], "rashin aiki").
+entry(flâneur, n, [flâneur], "mai yawon banza").
+entry(flange, v, [flanged,flanging,flanges], "don samar da gefan kariya").
+entry(flanger, n, [flangers], "wanda ke flange").
+entry(flanging, n, [flangings], "kawo wani gefen kariya akan wani abu").
+entry(flank, v, [flanked, flanking, flanks], "a kasance a gefen").
+entry(flanken, npl, [], "namar saniya da aka yanyanka daga gefe wanda aka dafa tare da kayan lambu").
+entry(mai-kwaya, n, [mai-kwayoyi], "wanda ke kewayawa").
+entry(flannel, v, [saka flaneel, flaneeling, flannels], "ko FLANNELLED FLANNELLING FLANNELS don rufe da flaneel wani laushin yadi").
+entry(flap, v, [flapped,flapping,flaps], "daga sama zuwa kasa").
+entry(flaperon, n, [flaperons], "ɓangaren iska da ke aiki a matsayin dunƙule da ailaron").
+entry(flapjack, n, [flapjacks], "waina").
+entry(flapless, adj, [], "babu ɗaurin fa fasalin faɗi").
+entry(fadaddu, da, [], "zamanin flap").
+entry(flapper, n, [flappers], "wanda ke yin buge-buge").
+entry(flapping, yanzu, [], "nau'i mai kammalawa na flap").
+entry(flappy, adj, [], "MAFI-GUDU MAI-FANA yad'awo").
+entry(flare, v, [flared,flaring,flares], "ƙonewa da hasken walƙiya mai walƙiya").
+entry(haukewa, n, [haukewoyi], "fassara ko labari akasin sha'anin da aka saba").
+entry(flash, v, [flashed,flashing,flashes], "a aika da haske mai tsanani nan take").
+entry(mahaske, n, [mahaske], "wanda yake haskakawa").
+entry(filashi, n, [filoshi], "na'urar daukar hoto").
+entry(flashing, n, [flashings], "farantin ƙarfe da ake amfani da shi wajen hana ruwa samun rufin").
+entry(flashy, adj, [], "MAI SHEKASHEKA MAI SHEKASHI kaficiMAI SHEKASHI adv").
+entry(flask, n, [flasks], "wani kwantena mai wuya mai kunci").
+entry(flasket, n, [karamin kwalba], "kwalba ƙarama").
+entry(flat, siffofi, [], "FLATTER FLATTEST yana da santsi ko kuma saman madaidaiciya").
+entry(flat, v, [flatted,flatting,flats], "ta yi lebur").
+entry(flatbed, n, [flatbeds], "wani irin motar daukar kaya ko tirela").
+entry(flatboat, n, [flatboats], "jirgin ruwa mai tusan daf").
+entry(flatcap, n, [hular_kaka], "wani nau'in hula").
+entry(flatcar, n, [flatcars], "jirgin kasa ba tare da gefe ko rufi ba").
+entry(flatfish, n, [flatfishes], "kowace daga cikin nau'in kifayen teku").
+shiga(flatfoot, n, [flatfeet], "wani yanayin ƙafa").
+entry(falatfut, v, [falatfuted, falatfuting, falatfuts], "yin tafiya da ja kafa").
+entry(flathead, n, [flatheads], "wani kifi na ruwa").
+entry(flatiron, n, [gogeyar_albasa], "na'ura don goge tufafi").
+entry(landangwada, n, [landangwada], "ƙasa ba tare da bambanci mai yawa a tsawo ba").
+entry(flatlet, n, [flatlets], "wani irin dausayi").
+entry(flatline, v, [flatlined,flatlining,flatlines], "yi rajista da rashin samun bugun zuciya ko motsin kwakwalwa").
+entry(flatling, adv, [], "da gefe ko gefen lebur").
+entry(flatlong, adv, [], "fatsal").
+entry(flatly, adv, [], "a hanyoyi madaidaita").
+entry(flatmate, n, [abokan zama], "wanda ake raba wani gida tare da shi").
+entry(flatness, n, [flatnesses], "halin kasancewa a lebur").
+entry(flatpack, n, [flatpacks], "kunshin da aka tsara don sirkit ɗin hade").
+entry(flatted, da, [], "lokacin mallake na flat").
+entry(natsar, v, [natse, natsawa, natsas], "yin ko zama lebur").
+entry(lallaba, v, [lallaba,lallabawa,lallabawa], "yin yabo da yawa").
+entry(yabo, n, [yabooyi], "aikin yabawa").
+entry(madaidaiciyar, fifiko, [], "na madaidaiciya").
+entry(flattie, n, [flatties], "takalmi mai faɗi mara diddige").
+entry(flatting, na yanzu, [], "tabbatacce na bayyana shimfida").
+entry(flattish, sif, [], "wani irin lebur").
+shigar(flattop, n, [flattops], "wani jirgin ruwa mai saukar jirage").
+entry(flatus, n, [flatuses], "iska cikin hanji").
+entry(flatware, n, [kayan tebur], "kayan tebur da bai yi kauri ba").
+entry(flatwash, n, [flatwashes], "aikin goge kafa").
+entry(flatways, adv, [], "madauwamuwa").
+entry(flatwise, kaw, [], "da gaɓar gami a wani matsayi na musamman").
+entry(flatwork, n, [flatworks], "wanki wanda za'a iya gugar shi ta na'ura").
+entry(flatworm, n, [tsutsukkan], "tsutsa mai sassauci").
+entry(fada, v, [ya bayyana, yana bayyana, suna bayyana], "bayyana abu a cikin iska daki gyara").
+entry(flaunter, n, [flaunters], "wanda ke daukar kai").
+entry(flaunty, adi, [], "FIYA KYAUTA FINTAMAMAgaudy").
+entry(flauta, n, [flautas], "taliya mai cushe wanda aka nannade kuma aka soya").
+entry(maiwak'ar, n, [maiwak'oki], "mawaƙi").
+entry(flava, n, [flavas], "wani salo na kiɗan hiphop").
+entry(flavanol, n, [flavanols], "falafanol").
+entry(falafin, n, [falafina], "wani ruwan rawaya").
+entry(flavine, n, [flavines], "flavin").
+entry(flavone, n, [flavones], "wani sinadari").
+entry(flavonol, n, [flavonols], "wani abu mai fitarwa daga flavone").
+entry(dandano, v, [mai-dandano, dandano, dandanan], "ba dandano ga wani abu").
+entry(masaɗaɗɗawa, n, [masaɗaɗɗawa], "wanda ke ƙara ɗanɗano").
+entry(flavory, sif, [], "cike da ɗanɗano").
+shigarwa(dandano, v, [dandane, dandana, dandano], "to dandana").
+entry(flavoury, sifa, [], "mai zaƙi").
+entry(fasa, v, [fasa,fasawa,fasa], "don samar da rauni ko aibi a cikin").
+entry(mara_aibi, siffofi, [], "babu wata aibi").
+entry(flawy, sif, [], "Cike da aibobi FLAWIER FLAWIEST").
+entry(flax, n, [flaxes], "dàvewar tsire-tsire mai shekara shekara").
+entry(flaxen, siffofi, [], "mai launin rawaya mai haske").
+entry(dankali, n, [dankalai], "iri na flax").
+entry(flaxy, adi, [], "MAFI FLAXIER FLAXIEST-flaxen").
+entry(flay, v, [flayed,flaying,flays], "cire fatar").
+entry(flayer, n, [flayers], "wanda yake yanka").
+entry(kududdufi, n, [kududdufi], "wani kwari da yake zama akan dabbobi yana shan jininsu").
+entry(fleabag, n, [fleabags], "wani otel mai rauni").
+entry(fleabane, n, [anbobuwa], "tsiron dake furewa").
+entry(cizon_kaska, n, [cizon_kasko], "cizon kaska").
+entry(fleam, n, [fleams], "wani kayan aikin tiyata").
+entry(fleapit, n, [fleapits], "wani silima mai tabarbarewa").
+entry(gengeniya, n, [gengeniyoyi], "wani ciyawa na Turai").
+entry(fleche, n, [fleches], "tsen-tsen goshi").
+entry(fleck, v, [naƙiƙe, naƙiƙewa, naƙiƙai], "don yi alama da naƙiƙe ƙananan layuka ko tabo").
+entry(flecky, sif, [], "mai tabo").
+entry(nadewa, n, [nadewa], "ayin lanwar jikinka").
+entry(gudu, baya, [], "lokacin tserewa").
+entry(fledge, v, [fledged, fledging, fledges], "samar da furanni").
+entry(fledgy, adj, [], "FLEDGIER FLEDGIESTmai cike da fuka-fuki").
+entry(gudu, v, [guduwa,gudun,guduna], "yin gudu daga wani abu").
+entry(fleece, v, [fleeced, fleecing, fleeces], "yanke ulu daga jikin tumaki").
+entry(fleecer, n, [fleecers], "wanda yake yi wa mutane rowa").
+entry(fleech, v, [fleeched,fleeching,fleeches], "rarrashi").
+entry(fleecy, sif, [], "FLEECIER FLEECIESTwoollyFLEECILY adv").
+entry(fleer, v, [fleered,fleering,fleers], "yi izgili").
+entry(fleet, adj, [], "FLEETER FLEETESTswiftFLEETLY adv").
+shigarwa(fleet, v, [fleeted,fleeting,fleets], "yin motsi cikin sauri").
+entry(flehmen, v, [flehmened,flehmening,flehmens], "shaƙa da baki a buɗe da leɓe na sama ya lanƙwasa").
+entry(fleishig, sifa, [], "an yi shi da nama ko kayayyakin nama").
+entry(na-falayim, v, [falayimayya, falayimawan, falayimai], "yin nadin igiya a wata hanya").
+entry(flench, v, [flenched, flenching, flenches], "yanke fata").
+entry(flense, v, [flensed,flensing,flenses], "cire kitse ko fata daga").
+entry(flenser, n, [flensers], "wanda yake yanka").
+entry nama, v, [nama ya nitse, nama yana nitsewa, nama yana nitse], "nutsa cikin nama mai laushi na jikin".
+entry(flesher, n, [fleshers], "wanda ke cire nama daga fatar dabbobi").
+entry(fleshier, na kwatance, [], "na nama").
+entry(fleshiest, superlative, [], "na naman jiki").
+entry(fleshing, n, [fleshings], "rarraba naman jiki da kitse a jikin dabba").
+entry(fleshly, adj, [], "FLESHLIER FLESHLIESTda jiki").
+entry(tukunyar-nama, n, [tukunyar-naman], "tukunya don dafa nama").
+entry(fleshy, adj, [], "MAI NAMA MAI NAMA SOSAI MAI NAMA MAFAWA FLESHILY adv").
+entry(fletch, v, [fletched,fletching,fletches], "yi wa farkawa furfura").
+entry(fletcher, n, [fletchers], "wanda yake yin kibau").
+entry(fleuron, n, [fleurons], "ado na fure").
+entry(fleury, sif, [], "mai dauke da makamai suna karewa da ganye uku ana amfani da shi a kan gicciyen heraldic").
+entry(flew, n, [kàfûnõ̀], "tarín kifáya").
+entry(flex, v, [flexed,flexing,flexes], "mikewaB'O FLEKSFLEKS n pl FLEXESa sabon fon of paper ana'gidaFLEHALAFuron nun a bengeni ainuzu n astaza'i kawo'po abin rufeFLEKSIBLE adj wanda za'a iya zama mai lankwasawaFLEKIBI advFLEKSAFEL aj mai hewaFLEKSASHONU n pl FLEKSIONSiflectionFLEKSOR n pl FLEKSORSaras tazo kauda sako na jiran jikiFLEKSITAMA n pl FLEKKITAMASwati wanda ke bada damar aikiFLEKYOUSA adj flexuousFLEKUS adj hadinleyFLEKSHURA n pl FLEKSHURA al'ala na mirdaFLEKSHURAL adjFLEKWING n pl FLEKWINGSa Collapse wutsiya mara sanyi a hanglidinguntiFLEY v FLEYED FLEYING FLEYsto korkeFLIK n pl FLIKSA na'indon gwamnatin Parisi FLIKHTA v FLICKERED FLICHTERING FLICHTERsto flikER v FLICKERED FLICKERING FLICKERsto motsa mai raayiFLIKERI adj flickeringFLIED a past tense of yin jiraFLELELnarila FLIERSdaye wanda ke hewa'sAKE gakunan jirgiFLIES wanda ya fi faruwaFLIGHT v FLIGHTED FLIGHTING FLIGHTSto tashi don kuriyaFLIGHTY adj FLIGHTIER FLIGHTIESTa sosaiFLIMFLAM v FLIMFLAMMED FLIMFLAMMING FLIMFLAMto yaye FLIMSY adj FLIMSIER FLIMSIESTmaras magana yauri wani kwari FLIMSILY advFLIMSY n pl FLIMSIESnan tsabtacceFLIMUNYA un gudaFISHING n FISHINGSTo HEWAda FLINCHOto Hamba pourra Fleril n pling FLINCHERSFOLILATIL na yankin nailFOLFLINUKIT n pl FREAKSSEBelow buga kakiniyar hagar san ekuk I donI FieneURDOF Naan sha ban dakeOFY n pl FOYsa yidiFialaOTOR y kan flaneg'apu").
+entry(gab, v, [gabbed,gabbing,gabs], "yin hira").
+entry(gabba, n, [gabbas], "kiɗan da ke da sautuka masu zafi da sauri sosai").
+entry(gabbard, n, [gabbards], "kwale-kwale").
+entry(gabbart, n, [gabbarts], "gabbard").
+entry("gabbed", "da", [], "ayahin gab").
+entry(gabber, n, [masu_gabba], "wanda ke magana").
+entry(gabbier, na kwatanci, [], "na magana da yawa").
+entry(mafi magana, superlative, [], "na magana").
+entry(gabbing, present, [], "farar magana ta gab").
+entry(gabble, v, [gabbled,gabbling,gabbles], "yin magana da sauri").
+entry(maimaita, n, [maimaita], "wanda ke yin maganganun banza").
+entry(gabbro, n, [gabbai], "irin dutseGABBROIC GABBROID adj").
+entry(gabby, adj, [], "MAFI GABBI MAFI GABBI MAI-MAGANA").
+entry(gabelle, n, [daranin_gishiri], "haraji kan gishiriGABELLE adj").
+entry(gabfest, n, [gabfests], "taron hira na shakatawa don tattaunawa gabaɗaya").
+entry(gabies, pl, [], "na gaby").
+shigarwa(gabion, n, [gabiyoyi], "wani irin kwando").
+entry(gable, v, [gable, gablowa, gablai], "sanya sashen bango ya zama alwatika").
+entry(gaboon, n, [gaboons], "kwalfu").
+entry(gaby, n, [gabies], "wawa").
+entry(gach, v, [gached,gaching,gaches], "gama gach").
+entry(gacher, n, [gachers], "gatcher").
+entry(gad, v, [gadded, gadding, gads], "yin yawo ba tare da natsuwa ba").
+entry(gadabout, n, [gadabouts], "wanda ke yawo a waje").
+entry(gadarene, sif, [], "cike da gaggawa").
+entry(gadded, past, [], "lokacin gada").
+entry(gadder, n, [gadders], "wanda yake yawan yawo").
+entry(gaddi, n, [gaddis], "matashi").
+entry(gadding, present, [], "harafin gad").
+entry(gadfly, n, [gadflies], "ƙudaje masu cizo").
+entry(na'ura, n, [na'urori], "wani na'urar injiGADGETY adj").
+entry(ƙira na'urori, n, [ƙira na'urori], "ƙirƙirar ko gina na’urori").
+entry(gadi, n, [gadis], "gadi").
+entry(gadid, n, [gadids], "gadodi").
+entry(gadoid, n, [gadodi], "wani irin kifi").
+entry(gadroon, v, [gadroon, gadroon, gadroon], "yi ado da bantsalan tsagi ko kyalle mai fasali").
+entry(gadwall, n, [gadwalls], "wani kaza mai farauta").
+entry(gadzooks, interj, [], "ana amfani da shi a matsayin rantsuwa mai rauni").
+entry(gae, v, [], "TAFI YA TAFI or YAKE TAFIYA or ZUCIYA TA TAFI").
+shigarwa(gaff, v, [gaffed,gaffing,gaffs], "kama kifi da kibiya kaifi").
+entry(gaffe, n, [gafalai], "kuskuren zamantakewa").
+entry(gaffer, n, [gaffers], "wani tsoho").
+entry(gag, v, [gagged,gagging,gags], "to stop up the mouth").
+shigarwa(gaga, sifa, [], "mahautsini").
+entry(gagaku, n, [gagakus], "kiɗan kotu na dā na Japan").
+entry(gage, v, [gaged,gaging,gages], "pledge domin tsaro GAGEABLE adj").
+entry(gager, n, [gagers], "mai aunawa").
+entry(gagged, da, [], "nau'i na gag").
+entry(gagger, n, [gaggers], "wanda ke sanya ra'ayi").
+entry(yarfe, yanzu, [], "masu shiga cikin yarfe").
+entry(gaggle, v, [gaggled, gaggling, gaggles], "yi guje-guje").
+entry(gaging, yanzu, [], "participle na gage").
+entry(gagman, n, [gagmen], "wanda yake rubuta barkwanci").
+entry(gagster, n, [gagsters], "dan wasan barkwanci").
+entry(gahnite, n, [gahnites], "wani ma'adini").
+entry(farin ciki, n, [farin cikoki], "aikin bikin").
+entry(baƙo, n, [baƙo], "baƙo a Japan").
+entry(gaily, adv, [], "cikin farin ciki").
+entry(riba, v, [ribace, riba, ribar], "don samuwARGARSE adj").
+entry(gainer, n, [masu samun riba], "wanda yake samun riba").
+entry(gainful, adj, [], "mai riba").
+entry(gainless, adj, [], "ba tare da riba ba").
+entry(gainly, adj, [], "GAINLIER GAINLIESTmai kyan motsi").
+entry(gainsay, v, [gainsaid, gainsaying, gainsays], "ƙaryatãwa").
+entry(gainst, prep, [], "kan").
+entry(gait, v, [gaited,gaiting,gaits], "horan doki ya koyi tafiya ta musamman").
+entry(gaiter, n, [gaiters], "rufin ƙafafu ko ƙafafu GAITERED adj").
+entry(yarinya, n, [yanmata], "a girl").
+entry(gala, n, [galas], "wani bikin").
+entry(galabia, n, [galabia-galabia], "jalabiya").
+entry(galabieh, n, [galabiehs], "jalabiya").
+entry(galabiya, n, [galabiyas], "jalabiya").
+entry(galactic, sifa, [], "mai nasaba da taurari").
+entry(madara, n, [madarau], "wani karamin birrai").
+entry(galah, n, [galahs], "kakin kogi").
+entry(galanga, n, [galangas], "galangal").
+entry(galangar, n, [galanguna], "wani itace mai magani").
+entry(galatea, n, [galateas], "wani irin karfi na auduga da aka saka").
+entry(galavant, v, [galavanted, galavanting, galavants], "yawatawa").
+entry(galax, n, [galaxes], "wani ganyen ciyawa mai kore koyaushe").
+entry(galaksiya, n, [galaksiyoyi], "babban tsarin jikin sama").
+entry(galbanum, n, [galbanums], "wani ƙwara man zuma").
+entry(gale, v, [galed,galing,gales], "yin shagala cikin wasa").
+entry(galea, n, [galeas], "ko GALEAE wani sashi na jiki mai siffar kwalkwali GALEATE GALEATED adj").
+entry(galena, n, [garewa], "babban ma'adinin gubarGALENIC adj").
+entry(galenite, n, [galenites], "galena").
+entry(galere, n, [galeres], "rukunin mutane masu halin haɗin kai").
+entry(galette, n, [galettes], "waina madaidaiciya kuma zagaye").
+entry(galilee, n, [galilees], "wani irin zaure").
+entry(galing, na yanzu, [], "tashen iska mai ƙarfi na gale").
+entry(galiot, n, [galiots], "galliot").
+entry(galipot, n, [galipots], "wani irin ƙarambania").
+shigarwa(galivant, v, [galivanted, galivanting, galivants], "ta yawo").
+entry(gall, v, [galled,galling,galls], "zure jiki ko a dame").
+entry(gallant, v, [gallanted,gallanting,gallants], "yiwa mace kurama").
+entry(gallate, n, [gallates], "gishirin sinadarai").
+entry(galleass, n, [galleasses], "babban jirgin yakin ruwa").
+entry(gallein, n, [galleins], "wani yanayin kore").
+entry(galleon, n, [galleons], "jirgin ruwa mai girma").
+shigar(galleriya, n, [galliyoyi], "wani dandalin da aka rufe").
+entry(gallari, v, [gallaride,gallariing,gallarai], "don samar da wuri mai tsawo da rufaffiyar hanya").
+entry(gallet, v, [galleted, galleting, gallets], "cika furen siminti da kananan duwatsu").
+entry(galleta, n, [galletas], "ciyawa mai dadewa").
+entry(jirgin ruwa, n, [jiragen ruwa], "wani dogon jirgin ruwa na zamanin da").
+entry(gallfly, n, [gallflies], "ƙwaron ƙanƙara").
+entry(galliard, n, [galliards], "wani rawa mai kuzari").
+entry(galliass, n, [galliasses], "galleass").
+shigarwa(gallic, sif, [], "mai dauke da galium").
+entry(gallica, n, [gallicas], "wani furen Turai").
+entry(gallican, sif, [], "wanda ke da nasaba da wata kungiyar addini ta Faransa").
+entry(gallied, past, [], "zamanin gally").
+entry(gallies, yanzu, [], "mutum na 3 masu yawan magana na gally").
+entry(galliot, n, [galliots], "jirgin ruwan ƙanana").
+entry(gallipot, n, [gallipots], "karamin kwalba na laka").
+entry(galliyom, n, [galliyomai], "wani karfe abu").
+entry(gallnut, n, [gallnuts], "wani kumburi mara amfani na ƙwayar tsire-tsire").
+entry(galoni, n, [galonai], "wani raka'a na aunin ruwa").
+entry(galloon, n, [galloons], "zare mai kyaun ado").
+entry(galloot, n, [galloots], "galoot").
+entry(gogayya, v, [gagayewa,gagayewa,gogaya], "yin tseren doki da gudu sosai").
+entry(mai-gudu, n, [masu-gudu], "wanda ke gudu").
+entry(gallous, sif, [], "na dauke da gallium").
+entry(galloway, n, [galloways], "irin shanu marasa kauri").
+entry(gallows, n, [gallowses], "tsarin da ake amfani da shi don rataye wanda aka yanke hukunci da kisa").
+entry(gallus, n, [galluses], "maɗauri don wando").
+entry(gally, v, [gallied,gallying,gallies], "tsorata").
+entry(galoot, n, [galoots], "mutum mai rashin kwarewa ko rashin ladabi").
+entry(galop, v, [galoped,galoping,galops], "yin rawa galop wata irin rawa mai motsa jiki").
+entry(galopade, n, [galopades], "wani rawar zagaye mai dumi").
+entry(galore, n, [galores], "yawan gaske").
+entry(galoosh, n, [galoo], "wani takalmi na wajeGALOSHED adj").
+entry(galoshi, n, [galoshi], "galoshi").
+entry(galumph, v, [galumphed,galumphing,galumphs], "motsi cikin rashin kwarewa").
+entry(galvanic, sif, [], "nasa ga wutar lantarki ta kai tsaye").
+entry(galyac, n, [galyacs], "galyak").
+entry(galyak, n, [galyaks], "fata da aka yi da fatar ɗan tumaki").
+entry(gam, v, [gammed,gamming,gams], "zuwa ziyara da zamantakewa").
+entry(gama, n, [gamas], "ciyawar makiyaya").
+entry(gamashes, npl, [], "takalma da ake sawa ta masu hawan doki").
+entry(gamay, n, [gamays], "inabi ja").
+entry(gwiwa, n, [gwiwoyi], "ƙafa").
+entry(gamba, n, [gambas], "babban kemfe").
+entry(gambade, n, [gambades], "wani irin tsalle").
+entry(gambado, n, [gambados], "ko GAMBADOES tsalle da doki ke yi").
+entry(gambe, n, [gambes], "gambe").
+entry(gambeson, n, [gambesons], "rigar ado na zaman da").
+entry(gambia, n, [gambias], "gambiya").
+entry('gambier', n, ['gambiers'], "wani abu da aka samo daga wata shuka a Asiya").
+entry(gambiya, n, [gambiyoyi], "gambiri").
+entry(gambit, n, [gambits], "wani irin fara wasan catur").
+entry(yi-wasa, v, [ya-yi-wasa,ana-yin-wasa,suna-yin-wasa], "yin wasa mai hatsari domin kudi ko kadarori").
+entry('dan caca', n, ['yan caca'], "wanda ke yin caca").
+entry(gamboge, n, [gamboges], "wani ganga roba").
+entry(gambo, v, [gambo,gambo,gambo], "ko GAMBO GAMBO GAMBO don tsalle da jin daɗi").
+entry(gambrel, n, [gambrels], "sashe na kafar doki").
+entry(gambusia, n, [gambusias], "kifin karami").
+entry(game, adj, [], "GAMER GAMESTshakur").
+entry(game, v, [gamed,gaming,games], "yin caca").
+entry(gamebook, n, [littattafan_wasa], "littafi na dabaru da kungiyar wasanni take amfani da shi").
+entry(gamecock, n, [zakara], "zakara da aka horar da shi don fada").
+entry(kifin-wasa, n, [kifayen-wasa], "kifi da ake kamawa don sha'awa").
+entry(gamefowl, n, [gamefowls], "zakara").
+entry(gamelan, n, [gamelans], "wani irin kide-kide").
+entry(gamelike, adj, [], "kamar wasa, gasa da aka tsara da ka'idoji").
+entry(gamely, adv, [], "cikin yanayin wasa").
+entry(gameness, n, [gamenesses], "ingancin kasancewa gwarzo").
+entry(gameplay, n, [gameplays], "hanyar da ake buga wasannin kwamfuta ko bidiyo").
+entry(dan_wasa, n, [yan_wasa], "mai son wasa sosai").
+entry(danwasan, n, [yanwasan], "wanda ke yin wasanni").
+entry(gamesome, sif, [], "mai cike da wasa").
+entry(gamest, superlative, [], "na wasan").
+entry(danwasan, n, [yanwasan], "mai caca").
+entry(gamu, n, [gamu], "ƙwayar halittar haihuwa ta balagaGAMETAL GAMETIC adj").
+entry(gamey, sif, [], "MAFI GAME MAI GAME").
+entry(gamic, sif, [], "mai bukatar yin amfani da taki").
+entry(gamier, gwadabe, [], "na gamy").
+entry(mafi-gamiya, superlative, [], "na cike da wari").
+entry(gamily, adv, [], "cikin salo na wasa").
+entry(gamin, n, [gamins], "wani dan iska").
+entry(gamine, n, [gamines], "yarinya mai hali kamar yawon hula").
+entry(gaminess, n, [gaminesses], "ingancin kasancewa kamshi na nama").
+entry(caca, n, [kaca], "aikin yin caca").
+entry(gamma, n, [gammas], "wata wasika ta Girka").
+entry(gammadia, npl, [], "Zane-zane na ƙawata na Girkanci").
+shigar(gammed, da, [], "nau'i na gam").
+entry(gammer, n, [gammers], "tsaffin mata").
+entry(gammier, gwadabe, [], "na gammy").
+entry(gammiest, superlative, [], "na gammy").
+entry(gamming, present, [], "wanda ya kasance na gam").
+entry(gammon, v, [gammoned,gammoning,gammons], "ruɗa ta hanyar magana mai yaudara").
+entry(gammoner, n, [gammoners], "wanda ke gammon").
+entry(gamp, n, [gamps], "babban laima").
+entry(gamut, n, [gamuts], "duk wani zangon").
+entry(gamy, adj, [], "GAMIER GAMIESTplucky").
+entry(gan, da, [], "mai nuna lokacin gini").
+entry(ganache, n, [ganaches], "hadin cakulan mai kirim").
+entry(gander, v, [gandered,gandering,ganders], "yin yawo").
+entry(gane, a, [], "bayanin aikatau na gae").
+entry(barawo, n, [barayi], "mai satan kaya").
+entry(ganev, n, [ganevs], "ganef").
+entry(gang, v, [ganged,ganging,gangs], "kirkirar kungiya tare da gungun mutane").
+entry(gangbang, v, [gangbanged,gangbanging,gangbangs], "shiga cikin ayyukan ’yan daba").
+entry(ganger, n, [gangers], "mai kula da wasu ma'aikata").
+entry(gangland, n, [garuruwan-yan-bindiga], "duniyar laifi ta ɓoye").
+entry(gangle, v, [gangled, gangling, gangles], "motsawa da cikowa").
+entry(ganglia, a, [], "jam'in ganglion").
+entry(ganglial, adj, [], "gangliar").
+entry(gangliar, sif, [], "mai nasaba da gangaliya").
+entry(ganglier, comparative, [], "na gangly").
+entry(gangliest, mafi daraja, [], "na gangly").
+entry(gangling, adj, [], "tsawo mai ban tsoro da sirara").
+entry(ganglion, n, [ganglions], "ko GANGLIA wata rukuni na ƙwayoyin jijiyoyi").
+entry(gangly, adj, [], "MAI-TSAWO MAI-TSAWO SOSAI").
+entry(gangplow, n, [gangplows], "wani kayan gona").
+entry(gangrel, n, [gangrels], "mai yawon barace-barace").
+entry(gangrene, v, [gangrened,gangrening,gangrenes], "sha wahala na rasa hankali a wani bangare na jiki").
+entry(gangsta, n, [yan daba], "mamba na tawagar tituna").
+entry(gangster, n, [gangsters], "wani mamba na kungiyar masu laifi").
+entry(gangue, n, [gangues], "dutse mara amfani wanda ake samun ma'adinai masu daraja a cikinsa").
+```prolog
+entry(matsalar, n, [matsaloli], "wani shingetawa").
+```
+entry(ganister, n, [ganisters], "wani nau'in dutse").
+entry(ganja, n, [ganjas], "ganyen wiwi da ake amfani da shi don shan taba").
+entry(ganjah, n, [ganjahs], "ganja").
+entry(gannet, n, [gannets], "wani babban tsuntsun teku").
+entry(wurin_gannayen, n, [wurin_gannayen], "wuri inda gannaye ke yin kaɗi").
+entry(ganof, n, [yan-ganof], "ganef").
+entry(ganoid, n, [ganoids], "wani nau'in kifi").
+entry(gantlet, v, [gantleted, gantleting, gantlets], "don yin facakewar layin dogo").
+entry(gantline, n, [gantlines], "iguwa a cikin jirgin ruwa").
+entry(gantlope, n, [gantlopes], "wani horo na soja na baya").
+entry(gantri, n, [gantraye], "tsari don tallafawa sigina na jirgin kasa").
+entry(ganymede, n, [ganymedes], "wani matashi da ke yiwa mutane turare").
+entry(ganzfeld, n, [ganzfelds], "wani dabarun sarrafa shigarwa na hankali da ake amfani da shi a damuwar ruhaniya").
+entry(kurkuku, v, [kurkuku,kurkukun,kurkuku], "a jefa a kurkuku").
+entry(matsorata, n, [matsorata], "jailbird").
+entry(mahaboci, n, [mahabociya], "jailer").
+entry(gap, v, [gapped,gapping,gaps], "yi rami a ciki").
+entry(gape, v, [gaped,gaping,gapes], "kallon baki bude").
+entry(gaper, n, [gapers], "wanda ke bude baki").
+entry(gapeseed, n, [gapeseeds], "wani abu da ke jawo mamaki").
+entry(gapeworm, n, [gapeworms], " wani tsutsar da ke haifar da cuta ga tsuntsaye masu karancin shekaru").
+entry(gaping, yanzu, [], "mai nuna aikatau na gape").
+entry(gapingly, adv, [], "a cikin yanayin bude baki").
+entry(babu_tazara, sif, [], "babu tazara").
+entry(gaposis, n, [gaposises], "giɓi a cikin jere na maɓalli ko sanfura").
+entry(gapped, past, [], "lokacin daura").
+entry(gapping, na yanzu, [], "ƙididdigar rami").
+entry(gappy, adi, [], "MAI GURBIO GURBINgida").
+entry(gapy, adj, [], "cike da tsutsotsin wuya").
+entry(gar, v, [garred,garring,gars], "ta haifar ko tilastawa").
+entry(garage, v, [garaged, garaging, garages], "yin ajiye mota a gareji, mazaunin mota").
+shigarwa(garb, v, [garbed, garbing, garbs], "sanya tufafi").
+entry(shara, n, [sharori], "shara abinciSHARAY SHARAYWAI adj").
+entry(garbanzo, n, [garbanzos], "danyar wake").
+entry(garble, v, [garbled,garbling,garbles], "yin karkacewar ma’ana").
+entry(mai-gargasa, n, [mai-gargasa], "wanda ke gargasa").
+entry(baƙare, siffofi, [], "yana cikin rashin tufafi").
+entry(garboard, n, [garboards], "farantin itace a ƙasa jirgin ruwa").
+entry(garboil, n, [garboils], "rikita-rikita").
+shigar(garcon, n, [garcons], "mai aiki na maza").
+entry(garda, n, [gardai], "jami'in 'yan sanda a Ireland").
+entry(gardant, adj, [], "juya kai tsaye ga wanda ke kallon sa, ana amfani da shi ga dabbar heraldry").
+entry(gonaki, v, [na-gona, aikin-gona, gonaki], "yin noman fili").
+entry(manomin lambu, n, [manoman lambu], "wanda yake aikin lambu").
+entry(gardenia, n, [gardenias], "shuka ko itacen daji daga wuraren zafi").
+entry(gardyloo, interj, [], "ana amfani dashi azaman kiran gargadi").
+entry(garfish, n, [garfishes], "kifi na bakin ruwa").
+entry(garganey, n, [garganeys], "wani kyanwa mai ƙanƙanta").
+entry(garget, n, [gargets], "cututtukan nono na dabbobin gidaGARGETY adj").
+```prolog
+entry(gargaɗa, v, [gargaɗe, gargaɗawa, gargaɗi], "yin kurkurewa a baki ko gaɓar wuya").
+```
+entry(gargler, n, [masu_gargajiya], "wanda yake yin gargajiya").
+entry(gargoyle, n, [gargoyles], "adadi mai ado").
+entry(garigue, n, [garigues], "kurmi mai ciyawa ƙanana").
+entry(garish, aj, [], "mai lumanaGARISHLY av").
+```prolog
+entry(garland, v, [garlanded,garlanding,garlands], "yi ado da sarana na furen wardi").
+```
+entry(tafarnuwa, v, [tafarnuwad, tafarnuwanding, tafarnuwas], "don haɗa tafarnuwa kayan kamshi da ake amfani da shi a girki").
+entry(mai-garlic, sif, [], "MAFI-GARLIC MAFI-GARLICcin wari ko ɗanɗanon tafarnuwa").
+entry(tufa, v, [tufattu,tufawa,tufafi], "sanya kaya").
+entry(garner, v, [taru, tarawa, taru], "tara ajiye").
+entry(garnet, n, [garnets], "wani ma'adini").
+entry(garni, sif, [], "an kawata").
+shigar(turare, v, [turarewa,turarewa,turare], "yin ado").
+shigarwa(garote, v, [garoted, garoting, garotes], "kashe da igiya").
+entry(garotte, v, [garotte, garotawa, garotaye], "yi garotte").
+entry(mai-ratsewa, n, [mai-ratsewa], "wanda ke ratsewa").
+entry(garpike, n, [garpikes], "wani nau'in kifi mai tsini").
+entry(garred, da, [], "zamanin gar").
+entry(garret, n, [garrets], "wani ɗaki a samaGARRETED adj").
+entry(garring, yanzu, [], "baftisma na gar").
+entry(garrison, v, [garrisoned, garrisoning, garrisons], "a nada a wani wurin soja").
+entry(garron, n, [garrons], "doki karami mai ƙarfi").
+entry(garrote, v, [gorare,gorarowa,gorare], "kashewa ta hanyar shakewa").
+entry(mai-maƙure, n, [masu-maƙure], "wanda ke maƙurewa").
+entry(garrotte, v, [garrotte, garrotte, garrotes], "sharan wuya da igiya").
+entry(garter, v, [gartered, gartering, garters], "daure tare da bandeji mai lankwasa").
+entry(garth, n, [garths], "ɗaki ko lambu").
+entry(garvey, n, [garveys], "wani ƙaramin jirgin ruwa").
+entry(gas, v, [gassed,gassing,gases], "ko GASSESto samar da gas wani abu mai iya fadada ba tare da iyaka ba").
+entry(gasalier, n, [gasaliers], "na'urar fitila").
+entry(gasbag, n, [jakunan_gas], "jaka don riƙe gas").
+entry(gascon, n, [gascons], "mai fadar kai").
+entry(gaseity, n, [gaseities], "halin kasancewa gas").
+entry(gaselier, n, [gaseliers], "fitila ta gas da aka ɗorawa agaragu").
+entry(gasasshiya, sif, [], "mai dangantaka da iskar gas").
+entry(gash, sif, [], "GWARA GWARABushewa").
+entry(yanka, v, [yanka,yankawa,yankuna], "yi rauni mai tsawo kuma zurfi a ciki").
+entry(gashouse, n, [gashouses], "wurin aikin gas").
+entry(gasified, da, [], "zammani na gasify").
+entry(gasifier, n, [gasifiers], "wanda ke gasifying").
+entry(gasiform, siffa, [], "mai ɗaukar nau'in iskar gas").
+entry(gasify, v, [gasified,gasifying,gasifies], "mayar da abu iskar gas").
+entry(gasket, n, [gaskets], "kayan gyara domin hana ruwa ko iska shiga abuGASKETED adj").
+entry(gaskin, n, [gaskins], "wani ɓangare na ƙafar tsuntsu").
+entry(gasking, n, [gaskings], "mangodi").
+entry(gasless, sif, [], "babu iskar gas").
+entry(gaslight, n, [gaslights], "fitila ta gas ta hanyar ƙone gas").
+entry(gaslit, sif, [], "mai hasken gas").
+entry(gasman, n, [gasmen], "ma'aikaci na kamfanin iskar gas").
+entry(gasogene, n, [gasogenes], "gazogene").
+entry(gasohol, n, [gasohols], "man fetur hadaddiyar iskar gas da barasa ta ethyl").
+entry(gasolene, n, [gasolenes], "man fetur").
+entry(gasolier, n, [gasoliers], "gaselier").
+entry(fetur, n, [feture], "wani ƙanƙara mai").
+entry(gasp, v, [gasped,gasping,gasps], "yin numfashi cikin motsi").
+entry(gasper, n, [gaspers], "sigari").
+entry(gassed, da, [], "madubin hali na gas").
+entry(gasser, n, [gassers], "wanda ke aikata gass").
+entry(gasses, a, [], "yanzu na mutum na uku mai ɗaiɗai na gas").
+entry(gassing, n, [tarwatsa iskar gas], "guba ta hanyar iska mai guba").
+entry(gassy, adj, [], "MAI-GAS MAI-WURIN-GAS ɗauke da iskar gas MAI-LANTARKI adv").
+entry(gast, v, [gasted, gasting, gasts], "tsoratarwa").
+entry(gaster, n, [gasters], "bangare mai faɗi na ciki a wasu kwari").
+entry(hotel, n, [hoteli], "ko HOTELan karamin otel a Jamus").
+entry(gastight, sif, [], "ba ya barin iskar gas ta tsere ko ta shiga").
+entry(gastness, n, [gastnesses], "tsoro").
+entry(gastraea, n, [gastraeas], "wani nau'i na metazoan").
+entry(gastral, adj, [], "mai alaka da ciki").
+entry(gastrea, n, [gastreas], "gastraea").
+entry(gastric, sif, [], "mai nasaba da ciki").
+entry(gastrin, n, [gastrins], "wani hormone").
+entry(gastrula, n, [gastrulas], "ko GASTRULAE wani tayin dabbobin gaba da kwayar halitta").
+shigarwa(gasworks, n, [gasworks], "wani ma'aikata inda ake samar da iskar gas").
+entry(makami, n, [makamai], "bindiga").
+entry(gatch, v, [gatched,gatching,gatches], "yin hura da kai").
+entry(gatcher, n, [gatchers], "wanda ke yin tsaga").
+entry(kofa, v, [kofe,kofanta,kofe], "samar da kofa wanda yake iya motsi").
+entry(gateau, n, [gateaus], "ko GATEAUX wani waina mai kyau").
+shire(ɗaura-kofofi, n, [ɗaura-kofofi], "ƙarin takarda mai naɗuwa a cikin littafi ko mujalla").
+entry(gateleg, n, [gatelegs], "tebur mai kari da aka goyi bayan ƙafafu masu motsi").
+entry(baƙo, sif, [], "ba tare da ƙofa ba").
+entry(gatelike, sif, [], "mai kama da ƙofa").
+shigar(baƙin_gida, n, [baƙin_gida], "mutumin da ke kula da ƙofa").
+entry(ƙofar shiga, n, [ƙofofin shiga], "wani shinge wanda aka danganta ƙofa a kai").
+entry(gater, n, [gaters], "gator").
+shigarwa(kofar_shiga, n, [kofofin_shiga], "wurin da za a iya rufe shi da kofa").
+shiga(tara, v, [taru,taruwa,tarar], "ta kawo tare zuwa wuri daya ko kungiya").
+entry(maitaro, n, [maitaro], "wanda yake tarawa").
+entry(gating, n, [gatings], "tsarin buɗe da rufe tashar").
+entry(gator, n, [gators], "wani kada").
+entry(gauch, v, [gauched,gauching,gauches], "gawurtarwa").
+entry(gauche, adj, [], "BA KOYAR/DOKAR MU’AMALA GAUCHER GAUCHESTrashin iya mu’amalaGAUCHELY adv").
+entry(gaucher, n, [gauchers], "gatcher").
+entry(gaucho, n, [gauchos], "makiyayi na pampas na Kudancin Amirka").
+entry(gaud, n, [gauds], "wani ado mai kyan gani").
+entry(gaudery, n, [gauderies], "kayan ado").
+entry(gaudy, aj, [], "MAI TSOKON TAURA KYAUTA MAI SHAFE MAISHIGOWA").
+entry(gaudy, n, [gaudies], "bikin shekara-shekara").
+entry(gauffer, v, [gauffered,gauffering,gauffers], "yin goffer").
+entry(ma'auni, v, [a'auna, a'aunawa, a'aune], "a auna daidai").
+entry(gauger, n, [gaugers], "wanda ke aunawa").
+entry(gault, n, [gaults], "wani nau'in kasa mai nauyi kuma mai daskarewa").
+entry(gaum, v, [gaumed, gauming, gaums], "ga shafa").
+entry(gaun, yanzu, [], "gaɓan mai halin gae").
+entry(gaunch, n, [gaunches], "wando na ciki").
+shirya(gaunt, sif, [], "GAUNTER GAUNTESTemaciatedGAUNTLY adv").
+entry(gauntlet, v, [gauntleted, gauntleting, gauntlets], "gautlet").
+entry(gauntry, n, [gauntri], "kata").
+entry(gaur, n, [gaurs], "wani saniya daji").
+entry(gauss, n, [gausses], "wani rukunin ƙarfin maganadisu").
+entry(gauze, n, [gauzes], "ƙyallen gani ta waje").
+entry(gauzy, sif, [], "MAI-KYAUS MAI-KYAUS-reseaka gauzeMAI-KYAUS ta").
+entry(gavaj, n, [gavaji], "shigar da abu cikin ciki ta amfani da bututu").
+entry(ba, da, [], "lokacin bayarwa").
+entry(gavel, v, [gaveled,gaveling,gavels], "ko GAVELL GAVELLING GAVELSto don yin kira ga hankali ko oda ta amfani da gavel ƙaramar gudumawa").
+entry(gavelock, n, [gavelocks], "waƙaƙen ƙarfe").
+entry(gavial, n, [gavials], "babban maciji mai girma").
+entry(gavot, n, [gavots], "rawar Faransa").
+entry(gavotte, v, [gavotted,gavotting,gavottes], "yin rawa gavot").
+entry(gawk, v, [gawked,gawking,gawks], "kallon banza").
+entry(mai kallo, n, [masu kallo], "wanda ke kallo").
+entry(gawkier, gwada, [], "na gawky").
+entry(gawkies, pl, [], "na gawky").
+entry(gawkish, sif, [], "gawky").
+entry(gawky, sif, [], "GAWKIER GAWKIESTawkwardGAWKILY adv").
+entry(gurguje, n, [gurgujewai], "mutumin da ba shi da kwarewa").
+entry(gawmoge, n, [gawmoges], "mutum mai ban dariya").
+entry(gawp, v, [gawped, gawping, gawps], "kallon banza").
+entry(gawper, n, [gawpers], "wanda yake kallo cikin rashin kayatarwa").
+entry(gawsie, adj, [], "mai ciko da koshin lafiya").
+entry(gawsy, sifili, [], "gawsie").
+entry(gay, adj, [], "GAYER GAYEST1 murna 2 mai jima'i da jinsi daya").
+entry(gay, n, [masu mazaunan jima'i], "mai sha'awar jinsi guda").
+entry(gayal, n, [manyan gayal], "shanu gida").
+entry(gaydar, n, [gaydars], "iya gano cewa mutum yana da hali na madigo ko namijin da namiji zai aura").
+entry(murna, n, [murnai], "murna").
+entry(gayly, adv, [], "ta hanyar annashuwa").
+entry(gayness, n, [gaynesses], "yanayin kasancewa mai jin daɗi").
+entry(gaywings, n, [gaywings], "wani ciyawa na dindindin").
+entry(gazabo, n, [gazabos], "ko GAZABOES wanda ake kira").
+entry(gazania, n, [gazanias], "wani ganye daga Afirka ta Kudu").
+entry(gazar, n, [gazars], "zane mai santsi da gaskiya").
+entry(kallo, v, [kalli,kallo,yana kallon], "duba da kyau").
+entry(rufaffiya_daki, n, [rufaffiya_dakuna], "ko RUFAFFIYA DAKUNA wani gini mai rufi da bude a gefuna").
+entry(zarare, n, [zararare], "wata karamar barewa").
+entry(gazer, n, [gazers], "wanda ke kallo").
+entry(jarida, v, [bayyana, bayyana, jaridu], "don sanarwa a cikin mujallar hukuma").
+entry(gazing, present, [], "na biyu na gaze").
+entry(gazogene, n, [gazogenes], "na'ura don sanya ruwaye iska").
+entry(gazpacho, n, [gazpachos], "wani miyan sanyi mai yaji").
+entry(gazump, v, [gazumped,gazumping,gazumps], "yaudara ta hanyar ɗaga farashin da aka fara amincewa da shi").
+entry(gazumper, n, [gazumpers], "wanda ke yin gazump").
+entry(gazunder, v, [gazundered,gazundering,gazunders], "rage tayin siyan wani abu ga mai sayarwa").
+entry(gear, v, [geared,gearing,gears], "yana ba da kayan aiki na hakarkari na inji").
+entry(gobedan, n, [gobedan-gobedan], "watsa mota").
+entry(gearcase, n, [gearcases], "rumbun na’ura mai canza gear").
+entry(gearhead, n, [gearheads], "mutum da ke da fasaha wajen na'urori").
+entry(gearing, n, [gearings], "tsarin manyan cogi").
+entry(gearless, aj, [], "ba tare da giya ba").
+entry(geck, v, [gecked, gecking, gecks], "zagin").
+entry(gecko, n, [gekos], "ko GECOKOEWani ƙaramin kadangare").
+entry(ged, n, [geds], "kifi na ci").
+entry(gee, v, [geed, geeing, gees], "juya zuwa dama").
+entry(geegaw, n, [geegaws], "kayan ado").
+entry(geek, n, [ma'abota_geek], "masoyin abu daya ko kwararre a wani fanni").
+entry(geekdom, n, [geekdoms], "duniyar masu fasaha").
+entry(geeked, sif, [], "cike da annashuwa").
+entry(geekish, sif, [], "na geek").
+entry(geeky, n-a, [], "GEEKIER GEEKIESTbijin jama'a ko maras ɗaukar hankali").
+entry(geepound, n, [geepounds], "wani nau'i na nauyi").
+entry(agwagwa, pl, [], "na goose").
+entry(geest, n, [geests], "tsohon abin dafa zuba").
+entry(geez, interj, [], "jeez").
+entry(geezer, n, [geezers], "mutum mai halayya ta musamman").
+entry(geisha, n, [geishas], "yarinya ta Jafan da aka horar don nishadantarwa").
+entry(gel, v, [gel ɗin, gelling, gels], "don zama mai kama da jellyGELABLE adj").
+entry(gelada, n, [geladas], "birai").
+entry(gelant, n, [gelants], "abunari").
+entry(gelate, v, [gelated,gelating,gelates], "yi gel").
+entry(gelati, n, [gelatis], "kikinain").
+entry(jalati, n, [jalatai], "wani abu mai laushi").
+entry(manjagai, n, [manjagaikai], "manja").
+entry(gelating, present, [], "siffar-aiki na gelate").
+entry(gelation, n, [gewayewa], "tsarin gewayewa").
+entry(gelato, n, [gelatos], "ko GELATIItalian ice cream").
+entry(kwayan-gel, n, [kwayoyin-gel], "kwaya da aka rufe da gelatin").
+entry(gelcoat, n, [gelcoats], "wani fentin ɓangaren sama na guduro polyester").
+entry(geld, v, [gelded,gelding,gelds], "yanke mazakuta").
+entry(gelder, n, [masu_gel], "wanda ke yin gel").
+entry(gelding, n, [geldings], "dabbobi masu an kashe mazakutari").
+entry(gelee, n, [gelees], "manne mai shafe kwalliya").
+entry(gelid, sif, [], "sanyiGELIDLY avn").
+entry(daskarewa, n, [daskarewowi], "sanyi").
+entry(gellant, n, [gellants], "wani abu da ake amfani da shi wajen samar da gel").
+entry(gelled, past, [], "lokacin aiki na gel").
+entry(gelling, present, [], "mafurcici na gel").
+entry(gelly, n, [gellies], "gelignite abu mai fashewa mai ƙarfi").
+entry(gelsemia, npl, [], "tushen shuka mai magani").
+entry(kudi, n, [kudade], "money").
+entry(gem, v, [gemmed,gemming,gems], "yi ado da duwatsu masu daraja").
+entry(gematria, n, [gematrias], "wani hanyar kabala na fassara Nassosi").
+entry(geminal, sif, [], "na ko game da abubuwa biyu masu maye da ke kan wata kwayoyi guda").
+entry(geminate, v, [geminated,geminating,geminates], "shirya cikin ma'aurata").
+entry(gemlike, sif, [], "mai kama da lu'u-lu'u").
+shigarwa(gemma, n, [gemmae], "tsarin haihuwar da ba ta jima'i ba").
+entry(gemmate, v, [gemmated,gemmating,gemmates], "to produce gemmae").
+entry(gemmed, past, [], "lokacin gem").
+entry(gemmier, gwada, [], "na gemmy").
+entry(gemmiest, superlative, [], "na gemmy").
+entry(gemmily, adv, [], "a cikin yanayi da ke nuna dutse mai daraja").
+entry(gemming, present, [], "na ɗanɗana na gem").
+entry(gemmule, n, [gemmules], "ƙanana gemma").
+entry(gemmy, sif, [], "GEMMIER GEMMIEST mai kama da lu'u-lu'u").
+entry(gemology, n, [kimiyyar duwatsu masu daraja], "kimiyyar da ke nazarin duwatsu masu daraja").
+entry(gemot, n, [gemots], "taron jama'a a Ingila ta AngloSaxon").
+entry(gemote, n, [gemotes], "gemot").
+entry(gemsbok, n, [gemsboks], "babban barewa").
+entry(gemsbuck, n, [gemsbucks], "gemsbok").
+entry(dutsen_magana, n, [dutse_dutse], "dukan dutse mai daraja").
+entry(gen, v, [genned,genning,gens], "don bayar ko samun bayani").
+entry('ɗan sanda', n, ['yan sanda'], "policeman").
+entry( jinsi, v, [masu_jinsi, yin_jinsi, jinsin], "don haifarwa").
+entry(gene, n, [kwayoyin halitta], "wani sashi na gadon halitta").
+entry(genera, a, [], "jam'in genus").
+entry(gabaɗaya, n, [gabaɗaya], "jami'in soja").
+entry(ƙirƙira, v, [ƙirƙira,ƙirƙirawa,ƙirƙiri], "ƙirƙirar wani abu").
+entry(jolim, n, [jolimai], "wani nau'in magani").
+entry(marasa), sif, [], "mai son bada abu").
+entry(genesis, n, [geneses], "asali").
+entry(genet, n, [genets], "wani mammal mai cin nama").
+entry(genetic, sif, [], "mai dangantaka da ilimin halittu").
+entry(genetics, npl, [], "kimiyyar gado").
+entry(genette, n, [genettes], "dabbobi").
+entry(geneva, n, [genevas], "giya").
+entry(genial, adj, [], "yana da hali mai kyau ko na abotaGENIALLY adv").
+entry(genic, sif, [], "mafi alaka da gini").
+entry(jinni, n, [jinnai], "genie").
+entry(genii, a, [], "jam'in genius").
+entry(genip, n, [genips], "itace mai kyau daga gandun daji").
+entry(genipap, n, [genipaps], "itacen daddawa").
+entry(genipapo, n, [genipapos], "genipap").
+entry(genista, n, [genistas], "shuka mai furanni masu launin rawaya").
+entry(azzakari, sif, [], "mai alaka da haihuwa").
+entry(azanci, npl, [], "gabobin jima'i").
+entry(halin_ganewa, n, [halayen_ganewa], "wani hali na nahawu").
+entry(uba, n, [ubannin], "mahaifin namiji").
+entry(haihuwar, n, [haihuwa], "haifuwa").
+entry(dahi, n, [dahikai], "ko GENII wata baiwa na musamman").
+entry(genlock, n, [genlocks], "na'ura don daidaita sigina na bidiyo daban-daban").
+entry(gennaker, n, [gennakers], "wani nau'in tuta mai siffar kwando").
+entry(genned, da, [], "wanda ya gabata na gen").
+entry(genning, yanzu, [], "na ci-kan gen").
+entry(genoa, n, [genoas], "futa mai siffar kusurwoyi").
+entry(kisan_kare_dangi, n, [kisan_kare_dangi], "kashe wani rukuni na kasa ko na kabila da gangan").
+entry(jinogram, n, [jinogramai], "zane-zanen tarihin al'adun hali na wani iyali").
+entry(genoise, n, [genoises], "kek irin na soso mai yalwa").
+entry(genom, n, [genoms], "kwayoyin halitta").
+entry(genom, n, [genomes], "wani wahayi na chromosomesGENOMIC adj").
+entry(halittan-gado, npl, [], "nazarin halittun-gado").
+entry(genotype, n, [kwayoyin halitta], "dabarun halitta na wani abu mai rai").
+entry(irin_zamani, n, [nau'o'i], "wani nau'i ko iri").
+entry(genro, n, [genros], "wata ƙungiya ta dattijan 'yan siyasa a Japan").
+entry(gens, n, [kabilu], "wani irin rukuni").
+entry(genseng, n, [gensengs], "ginseng").
+entry(gent, n, [gents], "mubwayi").
+entry(genteel, adj, [], "GENTEELER GENTEELESTmai kyau ko mai nagarta").
+entry(gentes, pl, [], "na kabila").
+entry(gentian, n, [gentians], "wani shukar fure").
+entry(gentil, sif, [], "kirki").
+entry(gentile, n, [gentiles], "wani mutumin da ba Yahudawa ba").
+entry(gentle, adj, [], "GENTLER GENTLESTmai taushiGENTLY adv").
+entry(gentle, v, [gentled,gentling,gentles], "to tame").
+entry(gentoo, n, [gentoos], "wani penguin mai baya mai launin toka").
+entry(gentrice, n, [gentrices], "kyakkyawan haihuwa").
+entry(farfado, v, [farfado,farfadowa,farfado], "sabunta wani yanki na birni da ya lalace don jawo hankalin mazauna masu matsakaicin hali").
+entry(gentry, n, [gentries], "mutanen da suke da matsayi na sama a cikin al'umma").
+entry(gents, npl, [], "dakin maza na jama'a").
+entry(gwiwa, n, [gwiwoyi], "gwiwar").
+entry(na gaskiya, saj, [], "na kashin kai").
+entry(genus, n, [genuses], "ko LAAMIrin nau'i iri ko rukuni").
+entry(geocache, v, [geocached, geocaching, geocaches], "nemo abubuwa da aka ɓoye ta hanyar amfani da na'urar Tsarin Wuri na Duniya a matsayin wani ɓangare na wasa").
+entry(geode, n, [geodes], "irin dutse").
+entry(magana, n, [maganganunu], "wani layi mai lissafi").
+entry(geodesy, n, [geodesies], "binciken ƙasa na ƙasashe").
+entry(geodetic, sfa, [], "mai dangantaka da jiyografiya").
+entry(geodic, sif, [], "na ko da alaka da geode").
+entry(geoduck, n, [geoducks], "babban tsiren da za'a ci").
+entry(geognosy, n, [geognosies], "ɓangare na ilimin kasa").
+entry(geoid, n, [geoids], "saman da ake kyautata zaton dangane da ƙasaGEOIDAL sifadi").
+entry(manazarcin ƙasa, n, [manazarcin ƙasa], "ƙwararre a fannin kimiyyar ƙasa").
+entry(geology, n, [geologies], "kimiyyar da ke kula da asali da tsarin duniyaGEOLOGIC adj").
+entry(geomancy, n, [geomancies], "hanya ta faɗakarwa ta gaba ta hanyar fasalin ƙasa").
+entry(geometer, n, [masu-geometri], "masani a fannin geometri").
+entry(ilimin lissafi, n, [ilimin lissafi], "reshe na lissafi").
+entry(shan_kasa, n, [shan_kasashe], "abisar da kayan dake dauke cikin kasa").
+entry(geophone, n, [geophones], "na'urar da ke gano rawar kasa").
+entry(geophyte, n, [geophytes], "wani tsiro da ke da tsarin yin tunbiyan gargajiya a karkashin kasa").
+entry(geoponic, siffofi, [], "mai dangantaka da aikin gona").
+entry(geoprobe, n, [geoprobes], "jirgin sararin samaniya don binciken sarari kusa da duniya").
+entry(georgic, n, [waƙoƙin aikin gona], "waƙa game da noma").
+entry(geotaxis, n, [geotaxes], "motsin kwayar halitta a martani ga yanayin kakkaura").
+entry(gerah, n, [gerahs], "wani sikelin nauyi na Ibraniyawa").
+entry(geranial, n, [geranials], "citral").
+entry(geraniol, n, [geraniols], "alcohol da ake amfani da shi a cikin turare").
+entry(geranium, n, [geraniums], "tsire-tsire masu fure").
+entry(gerardia, n, [gerardias], "wani ganye").
+entry(gerbera, n, [gerberas], "wani ciyawa").
+entry(gerbil, n, [gerbils], "wani bera mai hakar rami").
+entry(gerbille, n, [gerbilles], "beret").
+entry(gerent, n, [gerents], "mai mulki ko mai gudanarwa").
+entry(gerenuk, n, [gerenuks], "barewa mai wuya mai tsawo").
+entry(kwayan cuta, n, [kwayoyin cuta], "kwayan halitta da ke haifar da cuta").
+entry(jamus, n, [jamusawa], "raye-rayen ƙawaƙƙwalwa").
+entry(mahimmi, sif, [], "na da muhimmanci").
+entry(germanic, sif, [], "mai dauke da sinadarin germanium").
+entry(germen, n, [germens], "ko GERMINAwani abu da ke zama tushen asali").
+entry(germfree, sifa, [], "babu kwayoyin cuta").
+entry(germier, bayanin-kama, [], "na kwayoyi").
+entry(germiest, babbar ũnguwarsa, [], "na germy").
+entry(germina, a, [], "jam'in germen").
+entry(germinal, sif, [], "na kasancewa a matakin farko na ci gaba").
+entry(germlike, sif, [], "kamar wani kwayar cuta").
+entry(germy, adi, [], "Cike da kwayoyin cuta").
+entry(gerontic, sif, [], "game da tsohon shekaru").
+entry(gerund, n, [gerunds], "wani sunan aiki").
+entry(gesneria, sif, [], "yana nufin wata nau'in shuka mai fure").
+entry(gesso, n, [gessoes], "hadin fatakwalwa").
+entry(gessoed, adj, [], "da gesso a matsayin sutura").
+entry(gest, n, [gests], "wani bajinta").
+entry(gestalt, n, [gestalts], "ko GESTALTEN duka guda guda").
+entry(gestapo, n, [gestapos], "kungiyar 'yan sandan boye").
+entry(gestate, v, [gestated,gestating,gestates], "yin daukar ciki a mahaifa").
+entry(geste, n, [gestes], "geste").
+entry(gestic, sif, [], "mai dangantaka da motsin jiki").
+entry(gestical, sif, [], "gestic").
+entry(gestural, sif, [], "mai dangantaka da ko kunshi alamun motsin jiki masu bayyana").
+entry(gangami, v, [gangamawa,gangamawa,gangamai], "bayyana ta hanyar motsin jiki").
+entry(mai-nunawa, n, [masu-nunawa], "wanda ke yin nunawa").
+entry(get, n, [saki], "saki ta hanyar dokar Yahudawa").
+entry(get, v, [got,gotten,getting], "SAMUn don samun ko mallakaSAMUWA SAMUWA adj").
+entry(geta, n, [getas], "takalmin katako na Japan").
+entry(getaway, n, [getaways], "gudu").
+entry(getout, n, [getouts], "wani dalili don guje wa yin wani abu").
+entry(getter, v, [gettered,gettering,getters], "tsabtace da wani sinadarin quaya").
+entry(samun, yanzu, [], "na samuwa").
+entry(getup, n, [getups], "wani kaya").
+entry(geum, n, [geums], "wani ganye wanda yake dawwama").
+entry(gewgaw, n, [gewgaws], "wani abin ado mai kayatarwa GEWGAWED adj").
+entry(gey, adv, [], "sosai").
+entry(geyser, v, [geysered, geysering, geysers], "don fitar da kwarara na ruwan zafi da tururi").
+entry(gharial, n, [gharials], "babban maciji").
+entry(motar, n, [motoci], "motar").
+entry(gharry, n, [gharries], "karar mota da ake amfani da ita a India").
+entry(ghast, sif, [], "mai ban tsoro").
+entry(mai-ban-tsoro, adj, [], "mai-ban-tsoro").
+entry(mai-ban-tsoro, siffofi, [], "MAFI-MAYE MAFI-MAYEmai-ban-tsoro").
+entry(ghat, n, [ghats], "wani hanya zuwa ga kogin").
+entry(ghaut, n, [ghauts], "gati").
+entry(ghazal, n, [ghazaloli], "waƙar soyayya ta lirik").
+entry(ghazi, n, [ghazis], "ko GHAZIES gwarzon yaki na Musulmi").
+entry(ghee, n, [ghees], "wani nau'in man shanu mai ruwa").
+entry(kawo-qarfi, v, [kawo-qarfide,kawo-qarfing,kawo-qarfi], "tilasta ta hanyar tilas na jiki").
+entry(gherkin, n, [konomikoa], "cucumban karami").
+entry(ghetto, v, [ghettoed,ghettoing,ghettos], "ko GHETTOEdon warewa a cikin talaka").
+entry(ghi, n, [ghis], "mainfatara").
+entry(ghibli, n, [ghiblis], "isku mai zafi na hamada").
+entry(ghillie, n, [ghillies], "wani irin takalma").
+entry(aljani, v, [aljanice, aljanin, aljanai], "tsoratarwa").
+entry(ghosting, n, [ghostings], "wani hoto na karya a kan allon talabijin").
+entry(ghostly, adj, [], "MAI TSORO MAI TSORON mafi tsoro").
+entry(ghosty, sif, [], "GHOSTIER GHOSTIESTghostly").
+entry(dodo, n, [dodanni], "wani aljaniDODO adj").
+entry(ghoulie, n, [ghoulies], "wani irin aljan").
+entry(kwari, n, [kwaruka], "wani kwari").
+entry(gi, n, [gis], "rigar farin dokin da ake sawa a wasan kirkirar").
+entry(giant, n, [giants], "mutum ko abu mai girma").
+entry(giantess, n, [mata manya], "macen mugun tsawo").
+entry(giantism, n, [gigantism], "yanayin zama gagarumi").
+entry(giaour, n, [giaours], "wanda ba Musulmi ba").
+entry(giardia, n, [giardias], "wani protozoan dake zaune a hanji").
+entry(gib, v, [gibbed,gibbing,gibs], "to fasten with a wedge of wood or metal").
+entry(gibber, v, [gibbered,gibbering,gibbers], "yin surutu").
+entry(gibbet, v, [gibbeted, gibbeting, gibbets], "ko GIBBETTED GIBBETTING GIBBETSto aiwatar da rataye").
+entry(giba, n, [gibodi], "birbishin birai").
+entry(gibbose, sif, [], "gibbous").
+entry(gibbous, sif, [], "rundi ba daidai ba").
+entry(gibbsite, n, [gibbsites], "ma'adini").
+entry(gibe, v, [gibed,gibing,gibes], "aitawa GIBINGLY adv").
+entry(giber, n, [gibers], "wanda ke yin gibe").
+entry(kwalba, n, [kwalabe], "wani abu mai amfani daga tsuntsu").
+entry(gibson, n, [gibsons], "wani martini da aka yi wa 'yan kabewa kankana").
+entry(gid, n, [gids], "cuta ta raguna").
+entry(giddap, interj, [], "ana amfani da shi a matsayin umarni ga doki don guje da sauri").
+entry(giddy, adj, [], "MAI FARIN CIKI MAI FARIN CIKIKUMA kasala MAI FARIN CIKI adv").
+entry(giddy, v, [giddied,giddying,giddies], "sa rudani").
+entry(giddyap, interj, [], "giddap").
+entry(giddyup, interj, [], "giddap").
+entry(gie, v, [gied,gien,gieing], "GIEsto bada").
+entry(gif, n, [gifs], "wani fayil na kwamfuta a tsarin hotuna").
+entry(kyauta, v, [bada, ba,tallafawa], "don iyaka wani abu da aka bayar ba tare da tsada ba").
+entry(kyauta, n, [kayayyakin_kyauta], "wani abu da ya dace a bayar kyauta").
+entry(giftedly, adv, [], "ta hanyar kwarewa").
+entry(giftee, n, [masu_karɓar_tarin_kyaututtuka], "wanda yake karɓar kyauta").
+entry(bayarwar, n, [bayarwarwar], "ayin bayar da kyauta").
+entry(giftless, adj, [], "rashin kyauta").
+entry(giftware, n, [giftwares], "kayayyakin kyauta").
+entry(giftwrap, v, [giftwrapped,giftwrapping,giftwraps], "nada da takarda mai kyaun gani").
+entry(gig, v, [gigged,gigging,gigs], "kamun kifi da mashi mai kaifi ganye").
+entry(giga, n, [gighe], "wani nau'in rawa").
+entry(gigabit, n, [gigabits], "wani rukuni na bayanai").
+entry(gigabyte, n, [gigabytes], "1073741824 bayt").
+entry(gigaflop, n, [gigaflops], "wani ma'auni na gudun kwamfuta").
+entry(gagarumin, ajd, [], "babba").
+shigarwa(gigas, sifanti, [], "masu alaka da bambance-bambancen ci gaban tsire-tsire").
+entry(gijatonn, n, [gijatonni], "wani nau'in nauyi").
+entry(gigawatt, n, [gigawatts], "wani sashi na ƙarfin lantarki").
+entry(gigged, da, [], "zamantakewar gig").
+entry(gigging, yanzu, [], "fi'ilin ba a karshe na gig").
+entry(giggle, v, [giggled, giggling, giggles], "yin dariya a cikin wata hanya mai ban dariya").
+entry(giggler, n, [gigglers], "wanda yake dariya").
+entry(giggly, adj, [], "MAI DARIYA MAI DARIYA MAI YAWAN DARIYA").
+entry(gighe, pl, [], "na giga").
+entry(giglet, n, [giglets], "yarinya mai wasa").
+entry(giglot, n, [giglots], "giglet").
+entry(gigolo, n, [gigolos], "wani mutum da mata ke daukar nauyinsa ta fuskar kudi").
+entry(gigot, n, [gigots], "ƙafar tunkiya").
+entry(gigue, n, [gigues], "wata rawa mai kuzari").
+shigarwa(gilbert, n, [gilberts], "wani sashi na karfin maganadiso").
+entry(gild, v, [gilt,gilding,gilds], "rufe da siririn zinariya").
+entry(gilder, n, [gilders], "wanda yake haɗe da zinariya").
+entry(gildhall, n, [gildhalls], "dakin taro na gari").
+entry(bayyani, n, [bayyanai], "aikace-aikacen zinara").
+entry(gill, v, [gilled,gilling,gills], "kamun kifi da wata irin tarko").
+entry(giller, n, [gillers], "wanda ke siffanta gills").
+entry(gillie, n, [gillies], "ghillie").
+entry(gillnet, v, [gwamurta, ana gwamurta, gwamurta], "gwamurta").
+shigarwa(gilly, v, [gillied, gillying, gillies], "ta amfani da wani irin kekunan sayar kaya").
+entry(gilt, n, [gilts], "zinariya da aka yi wa wani abu zinariya").
+entry(gilthead, n, [giltheads], "kifi na teku").
+entry(gimbal, v, [gimbaled, gimbaling, gimbals], "ko GIMBALLED GIMBALLING GIMBALSto tallafawa a kan wani saitin zobe").
+entry(gimcrack, n, [gimcracks], "kayan ado").
+entry(gimel, n, [gimels], "wani harafin Ibrananci").
+entry(gimlet, v, [gimleted,gimleting,gimlets], "huda da kayan huda").
+entry(gimmal, n, [gimmals], "zobe biyu da suka hade wuri guda").
+entry(gimme, n, [gimmes], "wani abu da aka ci da sauƙi").
+entry(gimmick, v, [gimmicked,gimmicking,gimmicks], "donawa da wata hanya ta musamman ko madalla").
+entry(gimmicky, adj, [], "yana da ko yana kama da wani abu mai jan hankali").
+entry(gimmie, n, [gimmies], "gurbin golf na sauƙi da aka yarda da abokin hamayya").
+entry(gimp, v, [gimped, gimping, gimps], "takawa da nakasu").
+entry(gimpier, gwada, [], "na gimpy").
+shigarwa(gimpiest, superlative, [], "na gimpy").
+shigarwa(gimpy, sif, [], "GIMPIER GIMPIESTmatsa kunci").
+entry(gin, v, [gan, gunnen, ginning], "GINfarawa").
+entry(gin, v, [ginned,ginning,gins], "cire kwaya daga auduga").
+entry(ginch, n, [ginches], "gotch").
+entry(gingal, n, [gingals], "jingal").
+entry(gingall, n, [gingalls], "jingal").
+entry(gingeley, n, [gingeleys], "gingi").
+entry(gingeli, n, [gingelis], "gingeli").
+entry(gingelies, pl, [], "na gingeli").
+entry(gingelli, n, [gingellis], "gingeli").
+entry(gingelly, n, [gingellies], "irin sesame ko man sa").
+entry(gingely, n, [gingelies], "gingeli").
+entry(cita, v, [citaɗa,citawa,cita], "don ƙara ɗanɗano tare da cita wani ƙwarin mai ƙayatarwa").
+entry(gingerly, adv, [], "cikin kulawa").
+entry(gingery, siffofi, [], "yana da halayen citta").
+entry(gingham, n, [inghami], "ƙyalle na auduga").
+entry(gingili, n, [gingilis], "gingeli").
+entry(gingilli, n, [gingillis], "gingelly").
+entry(gingiva, n, [gingivae], "ƙashi mai cushewa wanda ke kewaye da haƙoraGINGIVAL adj").
+entry(gingko, n, [gingko], "ko GINKGOESginkgo").
+entry(gink, n, [ginks], "wani aboki").
+shigarwa(ginkgo, n, [ginkgos], "ko GINKGOES wani itacen ado").
+entry(gina, da, [], "tsarin gina").
+entry(ginner, n, [masu_gina], "wanda yake gina auduga").
+entry(ginga, n, [gingogi], "auduga kamar yadda take fitowa daga gini").
+entry(ginny, adj, [], "GINNIER GINNIESTana shafar da gin wani giya mai ƙarfi").
+entry(ginseng, n, [ginsengs], "ƙwari mai dausayi").
+entry(gip, v, [gipped,gipping,gips], "yi gyp").
+entry(gipon, n, [gipons], "jupon").
+entry(gipper, n, [gippers], "wanda ke gip").
+entry(gipsy, v, [gipsied,gipsying,gipsies], "yin gipsy").
+entry(gipsydom, n, [gipsydoms], "gipsidom").
+entry(gipsyish, sif, [], "gypsyish").
+entry(gipsyism, n, [gipsyisms], "gypsyism").
+entry(girafe, n, [girafes], "dabbobi masu doguwar wuya").
+entry(girasol, n, [girasols], "wani nau'in opal").
+entry(girasole, n, [girasoles], "girasol").
+entry(gird, v, [yi wa guga, kanikanci, kanis], "ya kewaye").
+entry(girder, n, [girders], "tallafi na kwance").
+entry(girdle, v, [girdled,girdling,girdles], "kewaye da belin").
+entry(girdler, n, [girdlers], "wanda ke yi wa kugu kwalliya").
+entry(yarinya, n, [yanmata], "wani ɗan mace").
+entry(yarintaka, n, [yarintakoki], "halin kasancewa yarinya").
+shigarwa(girlie, sif, [], "GIRLIER GIRLIESTgirlish").
+entry('yarinya-like, ajj', [], "game ko mai alamar 'yarinya").
+entry('yarinya', sif, [], "YA FI 'YARINYA MAFI 'YARINTAKA").
+entry(girn, v, [girned, girning, girns], "cizon gashin baka").
+entry(giro, n, [giros], "wani autogiro").
+entry(girolle, n, [girolles], "wani naman kaza da ake ci").
+shiga(giron, n, [girons], "gyron").
+entry(girosol, n, [girosols], "girasol").
+entry(girsh, n, [girshes], "ƙurɗi").
+entry(girt, v, [girted, girting, girts], "yi sanya daurewa").
+entry(girth, v, [girthed, girthing, girths], "don kewaye").
+entry(gisarme, n, [gisarmes], "makamin zaman tsakiyar").
+entry(gismo, n, [gismos], "na'ura").
+entry(gist, n, [gists], "babban ma'ana").
+entry(git, v, [gitted,gitting,gits], "samuwa").
+entry(gitano, n, [gitanos], "ɓarawon Sifaniyanci").
+entry(gitch, n, [gitches], "gotch").
+entry(gite, n, [gites], "wani wurin shakatawa na hutu a Faransa").
+entry(gitted, baya, [], "lokacin git").
+entry(gitern, n, [gitern], "wata tsohuwar guitar").
+entry(gittin, pl, [], "na samun").
+entry(gitting, na yanzu, [], "na kalmar aiki git").
+entry(ba, v, [bai, baiwa, bayar], "BAkawo kyauta ga wani mallakiBAA adj").
+entry(kyauta, n, [kyaututtuka], "wani abu da aka bayar kyauta ba tare da cajin kuɗi ba").
+entry(mayar, n, [mayarwa], "ribar ma'aikata da aka mayar wa gudanarwa").
+entry(ba, n, [ba], "wani abu da aka ba don yin lissafi").
+entry(mai bayarwa, n, [masu bayarwa], "wanda yake bayarwa").
+entry(ba, gabaki, [], "wanda ya gabata na bayar").
+entry(gizmo, n, [gizmos], "gizmo").
+entry(agwada, n, [agwadai], "wata gabad abinci").
+entry(gjetost, n, [gjetosts], "wani cuku mai launin ruwan kasa kuma mai tauri").
+entry(glabella, n, [glabellae], "wuri mai laushi tsakanin gira").
+entry(glabrate, sif, [], "mai laushi").
+entry(glabrous, sif, [], "mai laushi").
+entry(glace, v, [glaced,glaceing,glaces], "rufe da kullu mai zaƙi").
+entry(glacial, sif, [], "mai alaka da kankara").
+entry(yankewa, v, [yankewaye,yankewa,yankewansu], "to rufe da dusar ƙanƙara").
+entry(kankara, n, [kankarai], "babban tarin ƙanƙara").
+entry(glacis, n, [glacises], "tudun gangara").
+entry(murna, sif, [], "MURNAI MURNAIKIda jin daɗi").
+entry(murna, v, [murnatu,murname,murnai], "don yi murna").
+entry(faranta, v, [faranta, farantawa, farantas], "don sa farin ciki").
+entry(gladder, gwada, [], "na murna").
+entry(mai farin ciki sosai, superlative, [], "na farin ciki").
+entry(gladding, gabatarwa, [], "ainin kalmar glad").
+entry(gada, n, [gadai], "wani fili a cikin daji").
+entry(gladiate, adj, [], "wanda yake da siffar takobi").
+entry(gladier, qyãwayi, [], "na ƙwarai").
+entry(gladiest, maɗaukaki, [], "na glady").
+entry(gladiola, n, [gladiolas], "wani shuka mai fure").
+entry(gladioli, npl, [], "kananan sashe na kirji").
+entry(farinciki, adv, [], "FARINCIKIYA FARINCIKIYAR cikin farin ciki").
+entry(murna, n, [murnai], "yanayin kasancewa cikin jin dadi").
+entry(gladsome, adj, [], "MAFI DADI MAFI DADIglad").
+entry(glady, sif, [], "GLADIER GLADIESTmuna da katakai").
+entry(glaiket, sif, [], "glaikit").
+entry(glaikit, sif, [], "wawa").
+entry(glair, v, [glaired,glairing,glairs], "to shiɗa dafar ƙwai").
+entry(glaire, v, [glaired, glairing, glaires], "yi amfani da glair").
+entry(glairy, sif, [], "WANDA YA KAMA DA WAKE KUKA").
+entry(makaakin, n, [makaakikai], "takobiMAKAAKIN adj").
+entry(glam, v, [glammed,glamming,glams], "sa wa kansa kwalliya a ja hankalin mutane sosai").
+entry(glam, sif, [], "WAWTA WAWTA DAGA CINNIN DA CIN TUMBIYA").
+entry(glammy, sif, [], "GLAMMIER GLAMMIESTglam").
+entry(kyau, n, [kyayuka], "kyau mai jan hankali").
+entry(kayatarwa, v, [kayatattã, kayatarwa, kayatar], "siya da sihiri").
+entry(dube, v, [duba, dubawa, dube], "kallon sauri").
+entry(glancer, n, [glancers], "wanda yake kallo").
+entry(glanda, n, [glandodi], "wata hanya ta fitarwa").
+shigar(glanders, npl, [], "cuta ta dawakai").
+entry(gilashi, n, [gilashai], "wani karamin gland").
+entry(glands, n, [glandes], "karshen azzakari ko clitoris").
+entry(gani, v, [gani,ganin,ganuna], "nunawa da haske mai tsananin kyalli").
+entry(glary, adj, [], "MAI KYALLI MAI KYALLI SOSAI kyalli").
+entry(glasnost, n, [glasnosts], "manufar Tarayyar Soviet na bude tattaunawar siyasa").
+entry(gilashi, v, [gilashesshi,gilashessha,gilashes], "sanya a cikin gilashi wani abu mai wuce haske").
+entry(kofin_glass, n, [kofuna_glass], "yawan da ɗaukacin kofin shaye-shaye zai riƙe").
+entry(glassie, n, [glassies], "wani nau'in marmara mai wasa").
+entry(glassier, na kwatantawa, [], "na gilashi").
+entry(glassiest, superlative, [], "na glassy").
+entry(glassily, adv, [], "a cikin yanayin gilashi").
+entry(glassine, n, [glassines], "wani irin takarda").
+entry(glassman, n, [glassmen], "mai gyaran gilashi").
+entry(glassy, adj, [], "MAI KAMAN GILASHI").
+entry(glyaukomati, n, [glyaukomota], "ciwon ido na wata musamman").
+entry(glaucous, sif, [], "kore mai dan shuɗi").
+entry(shafe, v, [shafan,shafowa,shafaye], "don saka taga da gilashi").
+entry(glazer, n, [glazers], "mai zanen taga").
+entry(maiyin gilashi, n, [maiyin gilashi da yawa], "wanda ke sanya gilashi").
+entry(glaziery, n, [glazieries], "aikin gyaran tagogi").
+entry(shãfã da gilãshi, n, [shãfã da gilãshi], "aikin shãfã da gilãshi").
+entry(glazy, adj, [], "MAI YALWAR MAI YALWAREWA an rufe da santsi mai sheƙi GLAZILY adv").
+entry(kyalkyali, v, [kyalkyala,kyalkyali,kyalkyalai], "yin walƙiya da annuri mai laushi").
+entry(mai'haske, n, [masu'haske], "wanda yake amfani da shi").
+entry(gleamy, sif, [], "GLEAMIER GLEAMIESTgleaming").
+entry(tarawa, v, [tara,tarawa,taru], "tattara a hankali daga lokaci zuwa lokaci").
+entry(mai-tattara, n, [masu-tattara], "wanda ke tattara").
+entry(gira, n, [sauran amfanin gona], "wani abu da aka girbe").
+entry(gleba, n, [glebae], "taru na naman kaza mai dauke da kwayoyin tsiro").
+entry(glebe, n, [glebes], "ƙasa ko ƙasa").
+entry(gled, n, [gleds], "murna").
+entry(glede, n, [gledes], "tsuntsu mai farauta").
+entry(glee, n, [wakoki], "wani waka ba tare da rakiyar kayan kida ba").
+entry(gleed, n, [gleeds], "waƙa mai ƙyalli").
+entry(murna, sif, [], "merry").
+entry(gleek, v, [gleeked,gleeking,gleeks], "yin izgili").
+entry(gleeman, n, [gleemen], "minista").
+entry(gleesome, sif, [], "murna").
+entry(manjane, v, [manjane,manjanewa,manjanensu], "don jinin gaɓan fitsari").
+entry(gleety, sif, [], "GLEETIER GLEETIEST yana kama da majina").
+entry(gleg, adj, [], "gargadiGLEGLY adv").
+entry(glegness, n, [glegnesses], "yawan faɗakarwa").
+entry(glen, n, [glens], "kwari ƙananaGLENLIKE sifar").
+entry(glenoid, adj, [], "yana da siffar rami na ƙashi mai matuƙar faɗuwa ko kaɗan.")
+entry(gley, n, [gleys], "wata ƙasa mai lakaLAYA MAI LAKA adj").
+entry(gleying, n, [gleyings], "ci gley").
+entry(glia, n, [glias], "ƙwayar tallafi da ke ɗaure ƙwayar jijiyoyi").
+entry(gliadin, n, [gliadins], "wani sinadarin furotin mai sauki").
+entry(gliadine, n, [gliadines], "gliadin").
+entry(glial, sif, [], "wanda ya shafi kudu mai goyon bayan tsarin juyayi na tsakiyar jiki").
+entry(glib, sif, [], "MAKIRCI MAKAUDARA mai-hujjaMAKIRCICI adv").
+entry(zumunci, n, [zumuncin], "ingancin kasancewa mai ji ").
+entry(shigewa, v, [shigeke,shigewa,shige], "motsi cikin salama").
+entry(gilida, n, [gilidai], "wani irin jirgin sama").
+entry(gliff, n, [gliffs], "wani dan kankanin lokaci").
+entry(glim, n, [glims], "fitila").
+entry(glime, v, [glimed,gliming,glimes], "kallon soke-soke").
+entry(yanayi, v, [yanaye, yanayi, yanayi], "haske sannu a hankali ko rashin daidaito").
+entry(gano, v, [gano,ganowa,ganowa], "gani na ɗan lokaci").
+entry(glimpser, n, [glimpsers], "wanda ke yin kallo na rashin sani").
+entry(glint, v, [glinted,glinting,glints], "haske").
+entry(glinty, adi, [], "GLINTIER GLINTIESTmai kyalli").
+entry(glioma, n, [gliomas], "ko GLIOMATA nau'in ciwon daji").
+entry(gliosis, n, [glioses], "yaɗuwar ƙwayoyin glial marasa lafiya").
+entry(glissade, v, [glissaded,glissading,glissades], "yi rawar lilo a mataki").
+entry(glisse, n, [glisses], "mataki na rawa").
+entry(glisten, v, [glistened, glistening, glistens], "yana yin haske ta hanyar nunawa").
+entry(glister, v, [glistered,glistering,glisters], "haske").
+entry(kuskure, n, [kuskure-kuskure], "wani rashin aiki").
+entry(glitchy, adj, [], "GLITCHIYA GLITCHIYAI SAU TARI DA MATSALOLI").
+entry(glitter, v, [glittered,glittering,glitters], "sheki").
+entry(glittery, sif, [], "mai kyalli").
+entry(glitz, v, [glitzed,glitzing,glitzes], "sanya ado mai daukar hankali a kamanni").
+entry(glitzy, aj, [], "GLITZIER GLITZIEST mai nunawaGLITZILY adv").
+entry(gloam, n, [gloams], "marece").
+entry(magriba, n, [magariba], "faduwar rana").
+entry(gloat, v, [gloated,gloating,gloats], "kallo da gamsuwa mai yawa ko shiga kai tsaye").
+entry(mai-murna, n, [mai-murnai], "wanda yake murna da takaici ga wasu").
+entry(glob, n, [globs], "wani dunkulallen ƙulli").
+entry(global, sifa, [], "sphericalGLOBALLY adv").
+entry(globate, adj, [], "mai siffar ƙwallo").
+entry(globated, sif, [], "mai siffar ƙwallo").
+entry(globby, sif, [], "GLOBBIER GLOBBIESTcike da globs").
+entry(kura, v, [kuradeed, kuradaa, kurade], "ka zamo cikin wani cikakken siffa madaidaiciya").
+entry(globin, n, [globins], "furotin mai sauki").
+entry(globoid, n, [globoids], "wani abu mai siffar kwallo").
+entry(globose, sif, [], "spherical").
+entry(globous, sifa, [], "mai siffar ƙwallo").
+entry(kumburu, n, [kumburura], "ruwan taurari mai zagaye").
+entry(globule, n, [globules], "kyakkyawan ƙaramin siffa mai zagaye").
+entry(globulin, n, [globulins], "furotin mai sauƙi").
+entry(glochid, n, [glochids], "gashi mai makami akan wasu tsirrai").
+entry(glogg, n, [gloggs], "ruwan inabin barasa").
+entry(glom, v, [glommed,glomming,gloms], "sata").
+entry(glomus, n, [glomera], "wani nau'in jijiyar jini").
+entry(glonoin, n, [glonoins], "nitroglycerin").
+entry(damuwa, v, [damu, damuwa, damuwa], "zuwa zama duhu").
+entry(gloomful, sif, [], "mai baƙin ciki").
+entry(glooming, n, [gloomings], "faduwar rana").
+entry(m, sif, [], "M FIYE M FIMI KWAYO KALLO KO KAFA M").
+entry(gloop, n, [gloops], "abu mai mannewa").
+entry(gloopy, siffofi, [], "MAI KAMAN GLOOP MAI KAMAN GLOOP SASAUKA").
+entry(glop, v, [glopped,glopping,glops], "rufe da guntu wani lakanin datti ko cakuda").
+entry(gloppy, sif, [], "GLOPPIER GLOPPIESTmai kama da glop").
+entry(gloria, n, [glorias], "walkar kimiyya").
+entry(yi alfahari, da, [], "lokacin alfahari").
+entry(glories, yanzu, [], "3d mutum daya cikin daukaka").
+entry(girmama, v, [girman,kana girmama,na girmama], "ba da girma ko yabo ga").
+entry(gloriole, n, [glorioles], "aure").
+entry(maɗaukaki, sif, [], "mai girma").
+entry(daukaka, v, [daukakaed,daukakaing,daukakas], "yin murna cikin alfahari").
+entry(goge, v, [goge, gogewa, goge], "don sa shi kyalli").
+entry(glossa, n, [glossas], "ko GLOSSAEharshentaggiGLOSSAL adj").
+entry(ajiye_ma'ana, n, [ajiye_ma'anoni], "jerin kalmomi da fassarar su").
+entry(glosseme, n, [glossemes], "ƙananan sashen harshe wanda ke nuna ma'ana").
+entry(glosser, n, [glossers], "wanda ke yi wa rubutu tsokaci").
+entry(glossies, pl, [], "na mai sheki").
+entry(glossina, n, [glossinas], "Ƙudan tsando").
+entry(m, sifa, [], "mai sheki mai sosai mai sheƙi sosai mai sheƙi sosai ta hanya mai sheƙi").
+entry(mai-sheki, n, [mai-sheki], "wani nau'in hoton hoto").
+entry(glost, n, [glosts], "tukunyar da aka rufe da saman gilashi").
+entry(glottis, n, [glottises], "ko GLOTTIDESbudewa tsakanin ƙwayoyin muryaGLOTTAL GLOTTIC sif").
+entry(glout, v, [glouted,glouting,glouts], "yin kumburin fuska").
+entry(safa, v, [safaɗe,safarwa,safai], "sanya hannuwa da safafi").
+entry(glovebox, n, [akwatin_gloves], "wani karamin bangare a cikin ɗaskararre na mota").
+entry(glover, n, [glovers], "mai ƙera ko mai sayar da safar hannu").
+entry(haskakawa, v, [ya haska, yana haskawa, yana haskwowa], "yin fitila da zafi").
+entry(mai-fuska, v, [mai-fuska,mai-fuskarwa,mai-fuskoki], "yin fuska mara kyau").
+entry(glowfly, n, [glowflies], "tsuntsun wuta").
+entry(glowworm, n, [glowworms], "wani kwari mai haske").
+entry(gloxinia, n, [gloxinias], "wani tsiro da ke zaune yankin zafi").
+entry(gloze, v, [glozed,glozing,glozes], "fassara").
+entry(glucagon, n, [glucagons], "wani hormone").
+```prolog
+entry(glucan, n, [glucans], "wani polymer na glucose").
+```
+entry(glucinamu, n, [glucinamai], "wani ƙarfe mai ƙarfin gaskeGLUCINIC adj").
+entry(glucose, n, [glucos], "sukarin GLUCOSIC adj").
+entry(manna, v, [], "MANNE MANNI KO MANNANI MANNAna don mannewa da manna wani abu mai mannewa").
+entry(gluelike, sif, [], "mai kama da manne").
+entry(tukunyar_manna, n, [tukwanen_manna], "tukunya don narkar da manna").
+entry(gluer, n, [gluers], "wanda ke liƙewa").
+```prolog
+shigarwa(gluey, sif, [gluhweins], "giya da aka ƙara wa kayan yajiGLUINESS n pl GLUINESSEShalin kasancewa mai laimaGLUING cikin aiki na liƙaGLUM n pl GLUMSƙunciGLUM sif GLUMMER GLUMMESTkasancewa cikin ƙaramin haliGLUMLY harafiGLUME n pl GLUMESƙudan imimi akan tsire-tsiren ciyawaGLUMNESS n pl GLUMNESSEShalin ƙunciGLUMPY sif GLUMPIER GLUMPIESTƙunciGLUMPILY harafiGLUNCH v GLUNCHED KALUNCI GLUNCHESto ɗaura kumatuGLUON n pl GLUONShassin mai annashuwa mai nauyin shi wanda ke daure quark ɗin tareGLUT v GLUTTED GLUTTING GLUTSto ciyar ko cika zuwa matakin da ya wuce iyakaGLUTCH v GLUTCHED GLUTCHING GLUTCHESto haɗiye ko ƙwabwoGLUTE n pl GLUTESa gluteusGLUTEAL sif na gaban tsoka na duburaGLUTEI pl na gluteusGLUTELIN n pl GLUTELINSduk cikin rukuni na furotin da ake samu cikin hatsin abinciGLUTEN n pl GLUTENSwani mai ɓuje cikin ƙashin alkama wanda ke dauke da gluteninGLUTENIN n pl GLUTENINShassun cikin hatsin abinci wanda ke bayar da haɗaka wa ƙwanan ƙumaGLUTEUS n pl GLUTEIa gaban tsoka na duburaGLUTTED farfesa na langaGLUTTING cikin aiki na langaGLUTTON n pl GLUTTONSmutumin da ke ci da yawaGLUTTONY n pl GLUTTONIEScin da ya wuce iyakaGLYCAN n pl GLYCANSkusaGLYCEMIA n pl GLYCEMIAStsarin glucose cikin jiniGLYCEMIC sifGLYCERIN n pl GLYCERINSglycerolGLYCERIC sifGLYCEROL n pl GLYCEROLSabavu mai kwaɓiGLYCERYL n pl GLYCERYLSradikal din da aka samo daga glycerolGLYCIN n pl GLYCINSwatacce wanda ake amfani da shi cikin dauko hotoGLYCINE n pl GLYCINESwani na amino acidGLYCOGEN n pl GLYCOGENSkarbohydrateGLYCOL n pl GLYCOLShassun madaidaiciGLYCOLIC sifGLYCONIC n pl GLYCONICSwani laƙabi na littafiGLYCOSYL n pl GLYCOSYLSradikal din da aka samo daga glucoseGLYCYL n pl GLYCYLSradikal din da aka samo daga glycineGLYPH n pl GLYPHSgroove mai adoGLYPHIC sifGLYPTIC n pl GLYPTICStarshewar fasaha ko aiwatarwa na tsãge-gemsGNAR v GNARRED GNARRING GNARSto fushiGNARL v GNARLED GNARLING GNARLSto tsuke cikin yanayi na matsalaGNARLY sif GNARLIER GNARLIESTmara kyauGNARR v GNARRED GNARRING GNARRSto gnarGNARRED fara halin na gnarGNARRING cikin aiki na gnarGNASH v GNASHED GNASHING GNASHESto niƙe hakora tareGNAT n pl GNATSƙaramar kwaron da ke da tsuntsayeGNATHAL sif gnathicGNATHIC sif na gaɓar jiniGNATHION n pl GNATHIONStsakanin hakora da jawar GNATHITE n pl GNATHITEwakidi na tsutsar tsutsa na jemags GNATLIKE sif resembling a gnatGNATTY sif GNATTIER GNATTIESTciwon gwauraGNAW v GNAWED GNAWN GNAWING GNAWSto zibga muzurunciGNAWABLE sifaGNAWER n pl GNAWERSwanda ke zibgaGNAWING n pl GNAWINGStarewar raɗaGNEISS n pl GNEISSEStrike na duhuGNEISSIC sifGNOCCHI npl kwanon da aka yi da pastaGNOME n pl GNOMESyaftoGNOMIC adj na aphorismsGNOMICAL sif na gnomicGNOMISH sif ya hutshi ya gnomeGNOMIST n pl GNOMISTSmagana mai shaciGNOMON n pl GNOMONSa tsaya na nauyiGNOMONIC sifGNOSIS n pl GNOSESnasara mai darajaGNOSTIC n pl GNOSTICSwanda ya riƙe gnosticismGNU n pl GNUSdamballaha babbaGO v WENT GONE GOING ko GWINE GOESya ƙayyaGO n pl GOWasakagiyasgoa n pl GOASsa kwando da ke tsagaya gweleGOAD v GOADED GOADING GOADSto gyaɗar dabbobin da ke tafiya da goad, wani sashe da ke yanayin gogeGOADLIKE sifa mai jarabaGOAL v GOALED GOALING GOALSida sabon ƙa'idar kai manyan wurareGOALBALL n pl GOALBALLSƙona da aka jefa zuwa ga abubuwan kariyaGOALIE n pl GOALIESwange da ke tsare wa kariyaGOALLESS sif mai raha da wani bangoGOALPOST n pl GOALPOSTSabindon kan mararka na wurin yin fuska na kariyaGOALWARD adv zuwa ga ƙafin ciki zuwa ga fuska mai kariyaGOANNA n pl GOANNASwani tsintsin kazaGOAT n pl GOATSdaidaiGOATEE n pl GOATEESwani haƙi mai laɓiGOATEED sifGOATFISH n pl GOATFISHESwani ƙwamani na zafiGOATHERD n pl GOATHERDSwani mai kulawa da dabbobiGOATIER sakamakwalatan na goatyGOATIEST sakamakwalatan na goatyGOATISH sif mai kama da goatyGOATLIKE sif ya nuna goatyGOATSKIN n pl GOATSKINStumbar dabbobiGOATY sif GOATIER GOATIESTyana kama da goatyGOB v GOBBED GOBBING GOBSto cika da wani wuri na fafatawaGOBAN n pl GOBANSwanga dabaGOBANG n pl GOBANGSwani gidan Jarumi na Japan GOBBED fasarmu na gobGOBBET n pl GOBBETSwani namijin tsakaGOBBING aikin tsaka na gobGOBBLE v GOBBLED GOBBLING GOBBLESto hawan dajinGOBBLER n pl GOBBLERSwani ninkayaGOBIES pl na gobyGOBIOID n pl GOBIOIDitsyitsin gidajeGOBLET n pl GOBLETSwani kwanon abinshaGOBLIN n pl GOBLINSwani wakokin maye ko mabukaciGOBY n pl GOBIESwani ƙafareGOD v GODDED GODDING GODSto suna waje gwargwadon ha nauyi kawaiGODAWFUL sif mara kyau mara kyauGODCHILD n pl GODCHILDRENone wanda mai bayyana a jina GODESSE n pl GODDESSESwata mace da a ke jinnaGODDING aiki na godGODHEAD n pl GODHEADSayan alloliGODHOOD n pl GODHOODSDiri a lokacin allinGODLESS sif ba bauta wa wani allahGODLIKE sif mai kyan alloGODLING n pl GODLINGSwani mahaifiGODLY sif GODLIER GODLIESTtsarkin AllahGODLILY advarngu kamar mai addu'aGODOWN n pl GODOWNSwani dakin da ake sa shiGODROON n pl GODROONSwani gadroonGODSEND n pl GODSENDSawani mabuɗi ba tare da ƙanananGODSHIP n pl GODSHIPSTalloliGODSON n pl GODSONSwani yaro mai gwagwaGODWARD adv kawo AllahGODWARD adv Allah GARMITA n pl GARMITOSadhan yan wasan ruwa yaba AllahGI n pl GINGInawani tsameGI n pl GINankabaGGOS n pl GINDU n pl GINan kara sinadaran zafiGORDY sif Daya-dama a ciki zafi GANTA n pl GANTBAR n pl GANTinaw nanaGWANTAT n pl GWANTGAR n pl GWANTEY aƙungan AllahGATWA n pl GATEF a cikin zafi GIANTMALL v GARDENESGn a cikin zafi Zafi GAWANGARI n s yin hawa GWANADHE mai zafi GWARA sif mai zafin ciwo-ekidda ga a cikin a yar gwari gifanki GOON ZURFI a n suGOOMDAGA a n GAA a cikin gabatha kan saika zawa a mafararr lord p mata yar Sahara Ware a cikin muminai mika mana kaba yaṅa關観 り wa wiyesi ace ya a mai yi φι na goyo na wipor mintar talla na waƴa ya Waƴa ya wono wity",
+```
+entry(ha, n, [cewa], "sauti na mamaki").
+entry(haaf, n, [haafs], "wurin kama kifi a cikin teku mai zurfi").
+entry(haar, n, [haars], "hazo").
+entry(habanera, n, [habaneras], "rawar Kuba").
+entry(habanero, n, [habaneros], "wani nau'in barkono mai zafi").
+entry(habdalah, n, [habdalahs], "bikin yahudanci").
+entry(habendum, n, [habendums], "sashen takardar mallaka wanda ya iyakance girman mallaka").
+entry(habile, sif, [], "sana'a").
+entry(haɓi, v, [haɓata,haɓacewa,haɓata], "sanya tufafi ko sutura").
+entry(habitan, n, [habitans], "wanda ya zauna a Faransa").
+shigarwa(mazaunin, n, [mazauna], "wanda yake zaune").
+entry(matsuguni, n, [matsuguna], "muhalli na dabbobi ko tsirrai").
+entry(na kowa da kowa, sif, [], "mai faruwa akai-akai ko kullum").
+entry(habiya, n, [biyayya], "wani abin da aka saba yi").
+entry(habitue, n, [masuziyayi], "makoji na yau da kullum").
+entry(habi, n, [habi], "tsarin jiki da gini").
+entry(haboob, n, [haboobs], "guguwa mai ƙarfi ta yashi").
+entry(habu, n, [habus], "macijin da ke da guba").
+entry(hacek, n, [haceks], "alamar da aka sanya akan harafi don canza shi").
+entry(hachure, v, [hachured, hachuring, hachures], "sanya layukan hachure a kan taswira").
+entry(hacienda, n, [haciendas], "gidauniya").
+entry(hack, v, [hacked, hacking, hacks], "yanke ko sare shi da rashin tsariHACKABLE adj").
+entry(bindiga, n, [bindigu], "wani nau'in bindiga").
+entry(hackee, n, [hackees], "wani beran kwadi").
+entry(hacker, n, [yan-hacker], "wanda ke yin kutse").
+entry(hackery, n, [hackeries], "rubutu mara ƙaranci da asali").
+entry(hackie, n, [hackies], "direban motar haya").
+entry(hacking, n, [hackings], "aikin hawan doki don nishadi").
+entry(hackle, v, [hackled,hackling,hackles], "yi kwasasshewa").
+entry(hackler, n, [hacklers], "wanda yake ja da baya").
+entry(hackly, adj, [], "KAR-KARI KARA-KARIjagged").
+entry(hackman, n, [hackmen], "wani direban tasi").
+entry(hackney, v, [hackneyed,hackneying,hackneys], "yin gama gari").
+entry(hacksaw, v, [hacksawed,hacksawn,hacksawing], "AMFANIda amfani da wata farantin datti").
+entry(hackwork, n, [hackworks], "aikin fasaha da aka yi bisa tsarin da aka saba yi").
+entry(da, wata, [], "zamani na da").
+entry(hadal, sif, [], "mai nufin zurfin kogin").
+entry(hadarim, a, [], "jam'in heder").
+entry(haddest, a, [], "bayan 2nd mutum daya daga cikin mallaki").
+entry(haddock, n, [haddocks], "kifin abinci").
+entry(hade, v, [haded, hading, hades], "nuna karkata").
+entry(hadis, n, [hadis], "ko HADISWani rubutu na maganganun Annabi Muhammad").
+entry(hadj, n, [hadjes], "zuwa aikin Hajji zuwa Makka").
+entry(haji, n, [hajis], "haji").
+entry(hadji, n, [hadjis], "wanda ya yi aikin hajji").
+shigarwa(hadron, n, [hadrons], "wani kwayar zarra ta asali HADRONIK adj").
+entry(hadst, a, [], "wani lokaci na d kasancewa mutum na biyu wanda ya wuce na have").
+entry(hae, v, [haed,haen,haeing], "HAEYi da").
+entry(haem, n, [haems], "heem").
+entry(haemal, sıf, [], "hemal").
+entry(haematal, sif, [], "hemal").
+entry(haematic, n, [haematics], "jini").
+entry(haematin, n, [haematins], "jini").
+entry(haemic, sif, [], "hemic").
+entry(haemin, n, [haemins], "haemin").
+entry(haemoid, sifa, [], "hemoid").
+entry(haen, dā, [], "hae na past").
+entry(haeres, n, [haeredes], "gadon-gado").
+entry(haet, n, [haets], "ƙaramin adadi").
+entry(haffet, n, [haffet-ƙunnuwa], "ɓarin kunci da haɓaɓɓun fuska").
+entry(haffit, n, [haffits], "haffet").
+entry(hafiz, n, [hafizes], "wanda ya haddace Alkur'ani a zuciya").
+entry(hafnium, n, [hafnium], "wani ƙarfe").
+entry(haft, v, [hafted, hafting, hafts], "samar da hannun rike").
+entry(haftara, n, [haftaras], "ko HAFTAROT ko HAFTAROTHhaphtara").
+entry(haftarah, n, [haftarahs], "ko HAFTAROS ko HAFTAROT ko HAFTAROTHhaphtara").
+entry(bayan, n, [bayans], "wanda ke yin bayani").
+entry(haftorah, n, [haftorahs], "ko HAFTOROT ko HAFTOROTHhaphtara").
+entry(hag, v, [hagged,hagging,hags], "cirewa").
+entry(hagadic, sif, [], "haggadic").
+entry(hagadist, n, [hagadists], "masanin almara").
+entry(hagberry, n, [hagberries], "ƙaramar ceri").
+entry(hagborn, sif, [], "haife daga matsafi").
+entry(hagbush, n, [hagbushes], "babban itace").
+entry(hagbut, n, [hagbuts], "bindiga mai tsawo").
+entry(hagdon, n, [hagdons], "wani tsuntsun teku").
+entry(hagfish, n, [hagfishes], "kifi mai kama da maciji").
+entry(haggada, n, [haggadas,haggadot], "ko HAGGADOTHhaggadah").
+entry(haggadah, n, [haggadahs], "ko HAGGADOT ko HAGGADOTHwani labarin Littafi Mai TsarkiHAGGADIC adj").
+entry(jan-tsuntsu, n, [jan-tsuntsuna], "babban tsuntsun hawk").
+entry(hagged, da, [], "tsami na hag").
+entry(hagging, yanzu, [], "aikatau na hag").
+entry(haggis, n, [haggises], "wani abincin Scotland wanda aka yi da kyallen tumaki wanda aka yanyanka, aka yi masa kayan yaji, aka dafa shi a cikin jakar").
+entry(haggish, sif, [], "yana kama da gaggatsa").
+entry(musarrafi, v, [musarrafa,musarrafu,musarrafawa], "yin ciniki").
+entry(haggler, n, [masu_cinciye_cinciye], "wanda ke cinciye-cinciye").
+entry("ciniki", n, ["cinikai"], "yarjejeniyar farashi").
+entry(hagride, v, [hagrode,hagridden,hagriding], "HAGRIDEyana damun").
+entry(hagrider, n, [hagriders], "wanda ke yin hagriding").
+entry(hah, n, [hahs], "ha").
+entry(haha, n, [hahas], "katanga da aka shimfida a cikin rami").
+entry(hahnium, n, [hahniums], "wani abu mai dauke da sinadarai").
+entry(haick, n, [haicks], "haik").
+entry(haik, n, [haiks], "ko HAIIKA, wata riga da Larabawa ke sanyawa").
+entry(haiku, n, [haikus], "wani waƙar Jafananci").
+entry(gaisawa, v, [gaishe,gaisawa,gaishewa], "gaisuwa").
+entry(hailer, n, [hailers], "wanda ke yi wa uwar garken sako").
+entry(haimish, adi, [], "kuma ba ado mai ban sha'awa").
+entry(haint, n, [fatalwa], "fatalwa").
+entry(gashi, n, [gashaye], "wani tsirin girma kamar zaren rua").
+entry(gashin-kai, n, [gashin-kai], "wani kwallon gashi").
+entry(hairband, n, [hairbands], "gungumen kai").
+entry(haircap, n, [haircaps], "hula").
+entry(yanke_gashi, n, [yanke_gashin], "yankan gashi").
+entry(girke-gashi, n, [girke-gashi], "salon da ake yi wa gashi").
+entry(gashinsa, adj, [], "yana da gashi").
+entry(goga, n, [goge], "abin da ke rike gashi").
+entry(hairier, na kwatance, [], "na gashi").
+entry(mafi-gashi, superlative, [], "na gashi").
+entry(hairily, adv, [], "a cikin yanayin gashi").
+entry(gashin_kai_babu, sif, [], "babu gashi").
+entry(gishiri, sif, [], "mai kama da gashi").
+entry(hairline, n, [layukan gashi], "layin da yake da matukar kankanta").
+entry(gashin-kafa, n, [gashin-kafa], "wani gashin kai").
+entry(kurege, n, [kureguka], "raga da ake sakawa don kiyaye gashi a wuri").
+entry(gelugufa, n, [gelugufai], "wani makale gashi").
+entry(gashigashiya, n, [gashigashiyoyi], "kayan kamun kifi da aka yi da gashi").
+entry(gyaran_gashi, n, [gyare-gyaren_gashi], "yin abubuwa daga gashi").
+entry(hairworm, n, [hairworms], "tsutsa mai cutarwa").
+entry(maigashi, sif, [], "MAFIGASHI MAFIGASHINfadi da gashi").
+shigarwa(haj, n, [hajes], "haji").
+shigarwa(haji, n, [hajis], "hadji").
+entry(hajj, n, [hajjes], "hadji").
+entry(hajji, n, [hajjis], "hadji").
+entry(kifi_hake, n, [kifi_hakes], "kifi na cikin teku").
+entry(hakeem, n, [hakeems], "hakim").
+entry(hakim, n, [hakimai], "likitan musulmi").
+entry(haku, n, [hakus], "rawanin furanni").
+entry(halacha, n, [halachas], "ko HALACHOT ko HALACHOTH sashen doka na Talmud HALACHIC adi").
+entry(halakah, n, [halakahs], "ko HALAKOTHhalachaHALAKIC sif").
+entry(halakha, n, [halakhas], "ko HALAKHOThalachaHALAKHIC sif").
+entry(halakhah, n, [halakhahs], "ko HALAKHOTH ko HALAKHOThalachaHALAKHIC sif").
+entry(halakist, n, [marubutan halakista], "marubuci na halakic").
+entry(halakoth, a, [], "jam'in halakah").
+entry(halal, n, [halals], "nama da aka tanada bisa ga dokokin Musulunci").
+entry(halala, n, [halalas], "kuɗin ƙasar Saudiyya").
+entry(halalah, n, [halalahs], "halalanci").
+entry(halation, n, [halations], "dimbin haske a cikin hotuna").
+entry(halava, n, [halavoci], "halvah").
+shiga(halazone, n, [halazones], "wani magani na kashe kwayoyin cuta a cikin ruwan sha").
+entry(halberd, n, [halberds], "makamin dake kama da gatari daga karni na 15 da na 16").
+entry(halber, n, [halber-obots], "halberd").
+entry(halcyon, n, [halcyons], "tsuntsu mai tarihi").
+entry(hale, siffofi, [], "HALE HALE lafiya").
+entry(hale, v, [haled, haling, hales], "tilas yi tafiya").
+shigarwa(lafiya, n, [lafiyoyi], "halin kasancewa da lafiya").
+entry(haler, n, [halers], "ko HALERUma kudin kasar Czechoslovakia").
+entry(halest, superlative, [], "na lafiya").
+entry(rabi, n, [rabinai], "daya daga cikin kashi biyu daidai").
+entry(ḿaƙabarta, n, [ḿaƙabartu], "ɗan wasan ƙwallon ƙafa").
+entry(halfbeak, n, [halfbeaks], "kifi na teku").
+entry(rabinkwana, n, [rabinkwanaye], "wani ma'auni na ɓacin kariya ta nukiliya").
+entry(dangantaka_da_dara_daga_muskaya, n, [dangantaka_da_dara_daga_muskayoyi], "matsayin zama rabin").
+entry(halfpipe, n, [halfpipes], "wani tsari mai siffar U da ake amfani da shi wajen hawa allon kankara").
+entry(dan_ƙarƙari, n, [ɗan_ƙarƙari], "hutun rabin lokaci a wasan ƙwallon ƙafa").
+entry(halftone, n, [halftones], "wani inuwa tsakanin haske da duhu").
+entry(tsaka, adj, [], "kasancewa a tsakiya").
+entry(dan_raina_kaifin_hankali, n, [yan_raina_kaifin_hankali], "mutum wawa ko sakarai").
+entry(halibut, n, [halibuts], "kifi mai tudu").
+entry(halid, n, [halids], "halide").
+entry(halide, n, [halides], "wata haɗin sinadarai").
+entry(halidom, n, [halidoms], "wani abu mai tsarki").
+entry(halidome, n, [halidomes], "wurin tsarki").
+entry(halier, n, [haliers], "ko HALIEROVa tsohuwar kudi na Slovakia").
+entry(haling, na yanzu, [], "cikakken hali na hale").
+entry(haliotis, n, [], "pl HALIOTIS ƙasusuwa mai sifar kunne").
+entry(halite, n, [halites], "wani ma'adini").
+entry(halitus, n, [halituses], "numfashi").
+entry(daki, n, [dakuna], "wani babban daki na taro").
+entry(dari, n, [dararruka], "ko DARI ko DARITdari").
+entry(hallal, adj, [], "shirye-shiryen bisa ga dokokin Musulunci").
+entry(hallel, n, [hallels], "wani waka ta yabo").
+entry(halliard, n, [halliards], "ijen").
+entry(alama, v, [alamce,alayance,alamai], "sanya bugu na hukuma").
+entry(hallo, v, [halloed,halloing,hallos], "ko HALLOESto ihu").
+entry(halloa, v, [halloaed, halloaing, halloas], "kira hallo").
+entry(halloo, v, [hallooed,hallooing,halloos], "to hallo").
+entry(hallot, a, [], "jam'in hallah").
+entry(halloth, a, [], "jam'in hallah").
+entry(hallow, v, [sanya tsarki, aiki da sanya tsarki, sanya tsammani], "sanya tsarki").
+entry(hallower, n, [hallowers], "wanda ke yin tsarki").
+entry(hallux, n, [yatsun ƙafa na farko], "babban yatsan kafaHALLUCAL adj").
+entry(farji, n, [farjar], "wani farji").
+entry(halm, n, [halms], "saƙa").
+entry(halma, n, [halmas], "wasa na allo").
+entry(halo, v, [haloed, haloing, halos], "ko HALOEs don yin halo zobe na haske").
+entry(halogen, n, [halogens], "wani sinadari mara karfe").
+entry(haloid, n, [haloids], "gishirin sinadari").
+entry(halolike, sif, [], "mai kama da aureola").
+entry(halon, n, [halons], "wani sinadari na carbon da bromine").
+entry(tsaya, v, [tsayawa, tsayawa, tsayawa], "don dakata").
+entry(halter, v, [haltered,haltering,halters], "sa wa alfarma").
+entry(haltere, n, [halteres], "a lokacin kafafuwan kwaro").
+entry(haltless, sif, [], "ba tare da jinkiri ba").
+entry(halutz, n, [halutzim], "manomi Isra'ila").
+entry(halva, n, [halvas], "halva").
+entry(halvah, n, [halvahs], "wani kayan zaki na Turkiyya").
+entry(halve, v, [raba, rabawa, rabau], "raba zuwa kashi biyu masu daidai").
+entry(halvers, n, [halvers], "rabon rabin").
+entry(rabuttawa, pl, [], "na rabi").
+entry(rabawa, n, [rabawa], "aikin hada katako ta hanyar yanka rabi daga kowane gefe").
+entry(halwa, n, [halwas], "wani kayan ƙanshi na Indiya mai zaƙi").
+entry(halyard, n, [halyards], "layin da ake amfani da shi don hawan tuta").
+entry(ham, v, [hammed,hamming,hams], "yin fitintinuwa").
+entry(hamada, n, [hamadas], "hamada").
+entry(hamal, n, [hamals], "mai ɗaukar kaya a ƙasashen gabas").
+entry(hamartia, n, [hamartias], "wata matsala ta hali").
+entry(hamate, n, [hamates], "ƙashin wuyan hannu").
+entry(hamatsa, n, [hamatsas], "wata rawa mai tasiri daga ruhin wani matsoraci mai cin naman mutane").
+entry(hamaul, n, [hamauls], "hamali").
+entry(hambone, v, [hamboned, hamboning, hambones], "yin wasa fiye da kima").
+entry(hamburg, n, [hamburgs], "wani gurasa mai nau'i na naman sa").
+entry(hame, n, [hames], "wani bangare na abin daushe da ake sanya wa doki").
+shirya(hamfat, n, [hamfats], "mai yin abubuwa ba tare da kwarewa ba").
+entry(hamlet, n, [ƙananan garuruwa], "ƙaramar gari").
+entry(hammada, n, [hamada], "matsayin hamada tare da dutsen tsauni").
+entry(hamal, n, [hamalai], "hamal").
+entry(hammam, n, [hammamai], "wurin wanka na Turkiyya").
+entry(hammed, da, [], "ammu na ham").
+entry(mártu, v, [mártuwa, martúṣwa, mátu], "yi bugawa sau da yawa").
+entry(hammerer, n, [hammerers], "wanda yake bugu").
+entry(hammier, kowane, [], "na hammy").
+entry(hammiest, kammalalle, [], "na hammy").
+entry(hammily, adv, [], "cikin wata irin hali na yin kwaikwayo").
+entry(hamming, yanzu, [], "sigar cika aiki na ham").
+entry(hammock, n, [manyan-gado mai rataye], "gado mai rataye").
+entry(hammy, sif, [], "HAMMIER HAMMIEST mai wadata").
+shigar(taimaka, v, [taimaka, taimakawa, taimakawa], "hana").
+entry(mai-tsoma-baki, n, [masu-tsoma-baki], "wanda ke tsoma baki").
+entry(girbi, n, [girbuna], "dabarar da ke tonawa a cikin ƙasa").
+entry(hamulus, n, [hamuli], "ƙaramar ƙugiyaHAMULAR HAMULATE HAMULOSE HAMULOUS adj").
+entry(hamza, n, [hamzas], "wani alamar rubutu ta larabci").
+entry(hamzah, n, [hamzahs], "hamza").
+entry(hanaper, n, [hanapers], "kwandon da aka yi da zare").
+shigarwa(hance, n, [hances], "gefen baka").
+entry(hannu, v, [ba, yana ba, hannaye], "don bayar da wani abu ta hanyar hannu ƙarshen jakar hannu").
+entry(handax, n, [fasikanhannu], "wuka mai hannu gajere").
+entry(jakar hannu, n, [jakunkuna], "karamar jaka ɗaukar abu").
+entry(handball, n, [wasan_kwallon_hannu], "karamar kwallo roba").
+entry(kuringar hannu, n, [kurangin hannu], "ƙaramar ƙararrawa mai makama").
+entry(flyas, n, [flyoyi], "fasika").
+entry(handbook, n, [handbooks], "litafin koyawa").
+entry(handcar, n, [handcars], "motar jirgin kasa da ake tuƙawa da hannu").
+entry(handcart, n, [handcarts], "kekunan hannu da ake tura da hannu").
+entry(tafi, n, [tafawa], "buga tafin hannaye tare").
+entry(bindiga, v, [bindigai, bindigaing, bindigas], "to fetter with restraining cuffs").
+entry(hander, n, [handers], "wanda ke bayarwa").
+entry(handfast, v, [handfasted,handfasting,handfasts], "riƙe ƙamƙam").
+entry(handful, n, [handfuls], "ko HANDSFULyawan da hannu zai iya dauka").
+entry(makami, n, [makamai], "wani riko da hannu ko hannaye").
+entry(bindiga, n, [bindigogi], "kadan ne makami mai harbi").
+entry(handheld, n, [handhelds], "wani abu da aka riƙe a hannu").
+shigar(rikowa, n, [rikowarta], "wani makama").
+entry(handicap, v, [nakasa, nakasawa, nakasa], "to hana ci gaba").
+entry(makaɗaici, na-matsakaici, [], "na da sauƙi").
+entry(handiest, superlative, [], "na da amfani").
+entry(da sauƙi, adv, [], "cikin sauƙin amfani").
+entry(handle, v, [riko,rikon,rikoki], "taɓa da hannu").
+entry(mai_daukar_hankali, n, [masu_daukar_hankali], "wanda ke daukar hankali").
+entry(marashan hannu, adj, [], "bai da hannu").
+entry(handlike, sif, [], "kamar hannu").
+entry(handline, n, [layukan hannu], "wani kifi layi da ake yi da hannu").
+entry(jagoranci, n, [jagoranci], "irin yadda wani abu ake sarrafa shi").
+entry(handlist, n, [jerin hannu], "jerin tunani").
+entry(handloom, n, [handlooms], "na'ura mai sarrafa zane da hannu").
+entry(handmade, sif, [], "wanda aka yi da hannu").
+entry(\u{006d}\u{0061}\u{0062}\u{0069}\u{0072}\u{0063}\u{0069}, n, [\u{006d}\u{0061}\u{0062}\u{0069}\u{0072}\u{0063}\u{0069}\u{006d}\u{0061}\u{0061}\u{006d}\u{0061}], "\u{0077}\u{0061}\u{0074}\u{0061}\u{005f}\u{006d}\u{0061}\u{0063}\u{0065}\u{0063}\u{0069}\u{0079}\u{0061}").
+entry(handoff, n, [mika], "wasa a kwallon kafa").
+entry(rabawa, n, [rabayoyi], "wani abu da aka bayar kyauta").
+entry(mika, n, [mika], "wani yanayi na mika iko").
+entry(zaba_da_sauki, v, [zababbun,zaban,zabai], "zaba da kulawa").
+entry(hannunrago, n, [hannunraguna], "katanga da ake amfani da ita don tallafi").
+entry(handsaw, n, [wisita], "wuka da ake amfani da ita da hannu").
+entry(handsel, v, [handseled,handseling,handsels], "ko HANDSELLED HANDSELLING HANDSELSto ba kyauta ga").
+entry(na'ura mai ƙwanzar kira, n, [na'urorin ƙwanzar kira], "wani nau'in wayar tarho").
+entry(na hannu, sif, [], "dinkin hannu").
+entry(hannu cike, a, [], "jam'i na babban hannu").
+entry(kyakkyawa, sif, [], "KYAKKYWAWA KYAKKYAWANTAja'ma").
+entry(aikin_hannu, n, [aikin_hannu], "aiki na hannu").
+entry(written_da_hannu, sifa, [], "da hannu aka rubuta").
+entry(handy, adj, [], "MAFI SAUKIN AMFANI MAFI SAUKIN AMFANI da sauƙi don sarrafawa").
+entry(handyman, n, [handymen], "mutum wanda yake yi ayyuka na dabam dabam").
+entry(hang, v, [hanged,hanging,hangs], "a rataya daga sama kawaiHANGABLE adj").
+entry(hangar, v, [ajiye, ajiyewa, ajiyoyi], "ajiye a cikin mafakar jirgin sama").
+entry(hangbird, n, [hangbirds], "wani irin tsuntsu").
+entry(hangdog, n, [hangdogs], "mutum mai keta").
+entry(maƙala, n, [maƙaloli], "wanda ya rataye").
+entry(hangfire, n, [hangfires], "jinkiri a fashewa").
+entry(hanging, n, [hangings], "kisiniya ta hanyar ratayewa da igiya").
+entry(hangman, n, [hangmen], "wani mai aiwatar da hukuncin kisa").
+entry(hangnail, n, [hangnails], "agnail").
+entry(hangnest, n, [hangnests], "wani nau'in tsuntsu").
+entry(hangout, n, [hangouts], "wuri da ake yawan ziyara").
+entry(mayar_dawa, n, [mayar_dawe], "ayyukan jiki bayan shan giya sosai").
+entry(hangtag, n, [hangtags], "wani nau'i na alamar da ake amfani da ita a kasuwanci").
+entry(hangul, n, [], "rubutun haruffa na Koriya").
+entry(hangup, n, [hangups], "wani cikas ko sha'awa").
+entry(haniwa, npl, [], "Taswirar yumbu na Japan").
+entry(hank, v, [hanked,hanking,hanks], "ta jefa tukunyar ruwa").
+shigarwa(hanker, v, [hankered,hankering,hankers], "yin marmari").
+entry(hankerer, n, [hankerers], "wanda ke marmari").
+entry(hankie, n, [hankies], "hankici").
+entry(hanky, n, [hankies], "mashina").
+entry(hansa, n, [hansas], "hansa").
+entry(hanse, n, [unguwanni], "kungiyar 'yan kasuwa").
+entry(hansel, v, [hanseled,hanseling,hansels], "ko HANSELLED HANSELLING HANSELSto handsel").
+entry(hansom, n, [hansoms], "karusa mai sauƙi").
+entry(hant, v, [hanted, hanting, hants], "damun").
+entry(hantle, n, [hantles], "yawa sosai").
+entry(hanuman, n, [hanumans], "biri na Indiya ta Gabas").
+entry(hao, n, [hao], "wani rukunin kudi na Vietnam").
+entry(hap, v, [happed, happing, haps], "faruwa").
+entry(hapax, n, [hapaxes], "kalma wadda ta bayyana sau daya tak").
+entry(haphtara, n, [haphtaras], "ko HAPHTAROT ko HAPHTAROTWani zaɓin Littafi Mai Tsarki").
+entry(hapkido, n, [hapkidos], "wani fasahar yaki na Koriya").
+entry(marasa_rabo, adj, [], "marasa_saa").
+shigarwa(haplite, n, [haplites], "aplite").
+entry(haploid, n, [haploids], "ƙwayar halitta mai ɗauke da saitin kromosom guda ɗaya kacal").
+entry(haploidy, n, [haploidies], "halin kasancewa haploid").
+entry(haplont, n, [haplonts], "wani kwayoyin halitta da ke da wata takamaiman tsarin kwayoyin halitta").
+entry(haplopia, n, [haplopias], "gani na al'ada").
+entry(haplosis, n, [haploses], "rabawa ta rabi na adadin kwayoyin halitta").
+entry(haply, adv, [], "ta hanyar sa'a").
+entry(happed, baya, [], "wanda ya shafi lokacin da ya shuɗe").
+entry(faru, v, [ya faru, na faruwa, yana faruwa], "ya kasance").
+entry(happi, n, [happis], "wata rigar Japan mai fadi").
+entry(happing, present, [], "mafi haps").
+entry(happy, adi, [], "FARIN CIKI WANDA YAKE DA MURNA_FARIN CIKIN ADV").
+shigarwa(hapten, n, [haptens], "wani abu mai kama da antigenHAPTENIC adj").
+entry(haptene, n, [haptenes], "hapten").
+entry(haptic, sif, [], "mai alaka da jin taɓawa").
+entry(haptical, sif, [], "na ji-ji").
+entry(haram, siff, [], "haramtacce ta hanyar dokar Musulunci").
+entry(harangue, v, [harangued,haranguing,harangues], "yin wa'azi mai tsawo ga").
+entry(cusa, v, [cushe,cusawa,cussa], "yin damuwa akai-akai").
+entry(mahana, n, [mahanai], "wanda ke cin zarafi").
+entry(masauki, v, [masaukaka,masauka,masaukai], "masu ba da mafaka").
+entry(masana, n, [masanan], "wanda yake bada mafaka").
+entry(wurin-jirgin-ruwa, v, [ajiye,ajiye,ajiya], "ajiye").
+entry(mai wuya, sif, [], "MAFI WUYA NA MAFI WUYA mai ƙarfi kuma mai taurin kai").
+entry(hardback, n, [hardbacks], "littafi mai rufi mai ƙarfi").
+entry(hardball, n, [kwallayen_hardball], "baseball").
+entry(hardbody, n, [hardbodies], "mutum mai jan hankali da jiki mai tsoka").
+entry(hardboot, n, [hardboots], "mahayi").
+entry(hardcase, n, [hardcases], "mutum mai wuya ko mai taurin kai").
+entry(hardcore, n, [hardcores], "abu mai wuya da ake amfani da shi wajen gina tushe").
+entry(hardedge, n, [hardedges], "zane mai haɗin ginin").
+entry(kokara, v, [kokarce, kokarawa, kokara], "don yin wuya").
+entry(maiadaka, n, [maiadakai], "wanda yake adaka").
+entry(hardhack, n, [hardhacks], "shuka mai itatsi").
+entry(hardhat, n, [hardhats], "wani mai ra'ayin mazan jiya").
+entry(hardhead, n, [hardheads], "mutum mai wajibi").
+entry(hardier, comparative, [], "na hardy").
+entry(hardies, pl, [], "na hardy").
+entry(hardiest, superlative, [], "na hardy").
+entry(hardily, adv, [], "a cikin koshin lafiya").
+entry(hardish, sif, [], "wani irin wuya").
+entry(hardline, sif, [], "wanda bai sassautawa").
+entry(hardly, adv, [], "akwai kaɗan").
+entry(taurinya, n, [taurinyochi], "matakin kasancewa mai wuya").
+entry(hardnose, n, [hardnoses], "mutum mai taurin kai").
+entry(hardpack, n, [hardpacks], "duskar kankara da aka matse").
+entry(hardpan, n, [hardpans], "wata matattarar ƙasa mai wuya").
+entry(hards, npl, [], "dotti mai kauri na flax").
+entry(hardset, sif, [], "m").
+entry(wahala, n, [wahalhalu], "wani yanayi mai wuya da cike da azaba").
+entry(hardtack, n, [hardtacks], "biskit mai wuya").
+entry(hardtop, n, [hardtops], "wani irin mota").
+entry(kayan aiki, n, [kayan aikis], "kayayyakin ƙarfe").
+entry(hardwire, v, [hardwired,hardwiring,hardwires], "cikon haɗa abubuwa na lantarki a dindindin").
+entry(itace mai ƙarfi, n, [itatuwa masu ƙarfi], "itace mai ƙarfi kuma mai tsattsauran ra'ayi na itatuwa iri-iri").
+entry(hardy, adi, [], "MAFI QARFI QARFIda gaske mai ƙarfi").
+entry(hardy, n, [hardies], "wukake na maƙera").
+entry(zomo, v, [zomo, zomowa, zomoyi], "gudun").
+entry(harebell, n, [harebells], "wani ƙwaya da ke tsirowa a kowanne shekara").
+entry(hareem, n, [hareems], "harami").
+entry(kamar_zomo, sif, [], "kamar zomo, dabba mai dogayen kunne").
+entry(harelip, n, [lalatattun_baki], "lalacewar leɓe na sama").
+entry(hareemi, n, [hareemai], "ɓangaren gidan Musulmi wanda aka keɓe wa mata").
+shigarwa(harewood, n, [harewoods], "itacen sycamore da ake amfani da shi don kayan daki").
+shiga(hariana, n, [harianas], "wani nau'in shanu").
+entry(haricot, n, [wake], "irin iri na wake iri daban-daban").
+entry(harijan, n, [harijans], "marar kabila a Indiya").
+entry(haring, na yanzu, [], "harafi na hare").
+entry(harissa, n, [harissas], "wani m iya kuɗi yaji daga Arewacin Afirka").
+entry(hark, v, [harked,harking,harks], "saurari").
+entry(harken, v, [harkened,harkening,harkens], "ajiye kunne").
+entry(mai-sauraro, n, [masu-sauraro], "wanda yake sauraro").
+entry(harl, n, [harls], "wata nau'in gashi ko furfura").
+entry(karuwa, n, [karuwai], "karuwa").
+entry(harlotry, n, [karuwanci], "karuwanci").
+entry(harm, v, [harmed,harming,harms], "jiyya").
+entry(harmer, n, [harmers], "wanda ke cutarwa").
+entry(mugun, siffofi, [], "capable of harming").
+shigarwa(harmin, n, [harmins], "harmine").
+entry(harmine, n, [harmines], "wani nau'in kwayar halitta da ake amfani da ita a matsayin maita").
+entry(m, sifa, [], "ba mai cutarwa ba").
+entry(harmonic, n, [harmonics], "wani sauti na sama").
+entry(harmoniya, n, [harmoniyoyi], "yarjejeniya").
+entry(harness, v, [harnessed,harnessing,harnesses], "sanya wa dabba kayan aiki wajen jan abu").
+entry(kora, v, [kora, korawa, koranni], "yin wasa da kora, wani irin kayan kida mai zare-zare").
+entry(harper, n, [masu_kida_akan_hap], "wanda ke yin kidan hap").
+entry(harpies, pl, [], "na harpy").
+entry(harpin, n, [harpins], "kida").
+entry(harping, n, [harpings], "katafan katako da ake amfani da shi wajen gina jirgin ruwa").
+entry(mawaƙin kwaɗo, n, [mawaƙa kwaɗo], "wanda yake wasan kwaɗo").
+entry(masunci, v, [masunci,masuntawa,masunci], "buga da wani katafarin mashi").
+entry(harpy, n, [harpies], "mutum mai halin zuga").
+entry(harridan, n, [harridans], "mace mai tsufa").
+entry(harried, da, [], "wa zai yi harri").
+entry(gaggaje, n, [gaggaje], "kare mai farauta").
+entry(harries, a, [], "na uku mutum daya cikin harry").
+entry(haro, v, [haro,harowa,harobi], "shakata kasa da kuma daidaita ta").
+entry(harrower, n, [harrowers], "wanda ke fassara").
+entry(harrumph, v, [harrumphed, harrumphing, harrumphs], "yi sauti na karfi").
+shiga(harry, v, [zazzaga,zazzagaring,zazzaga], "yin gallazawa").
+entry(harsh, adj, [], "HARSHER HARSHESTmai tsananiHARSHLY adv").
+entry(hausa, v, [hausaned,hausaning,hausans], "mai sanyawa dauri").
+entry(harslet, n, [harslets], "haslet").
+entry(hart, n, [harts], "bare idan giwa").
+entry(hartal, n, [hartals], "katsewar aiki").
+entry(harumph, v, [harumphed, harumphing, harumphs], "yin harumph").
+entry(haruspex, n, [haruspices], "mai faɗin abu mai zuwa na tsohuwar Roma").
+entry(girma, v, [girma, girman, girmawa], "ta tattara amfanin gona").
+entry(da, wani, [], "yanzu 3d mutum daya na samu").
+entry(hash, v, [hashed,hashing,hashes], "yi kankare").
+entry(hasheesh, n, [hasheeshes], "hashish").
+entry(hashhead, n, [hashheads], "mai shan hashish").
+entry(hashish, n, [hashishes], "wani nau'in maye mai laushi").
+entry(hashtag, n, [hashtags], "wani kalma ko jimla da aka gabatar da alamar ta wajen ware abubuwan cikin rubutun").
+entry(haslet, n, [haslets], "gabbai mai cinyewa na dabba").
+entry(hasp, v, [hasped,hasping,hasps], "kulle da maƙullin toshewa").
+entry(hassel, n, [hassels], "jayayya").
+entry(hassium, n, [hassiums], "wani abu mai guba").
+entry(gaba, v, [gaba,gabata,gabobi], "ta yi jayayya").
+entry(hassock, n, [fadaba], "wuri na hutuwa ga ƙafafuwa").
+entry(hast, a, [], "na yanzu mutum na biyu wanda yatake na da").
+entry(hastate, sif, [], "mahaha").
+entry(gaggawa, v, [gaggawa, gaggawar, gaggawan], "don gaggawa").
+entry(mai-sauri, adi, [], "mai-gaggawa").
+entry(hanzarta, v, [hanzarta, hanzartawa, hanzarta], "yin gaggawa").
+entry(mai-gaggawa, n, [masu-gaggawa], "wanda ke yin gaggawa").
+entry(hasting, present, [], "yanzu na jumla na haste").
+entry(gaggawa, sif, [], "HASTIER HASTIESTspeedyHASTILY adv").
+entry(hula, v, [hulanni,hularwa,hulochi], "rufe kai da hula").
+entry(hatable, sif, [], "na ƙiyayya").
+entry(hatband, n, [hatbands], "aminin hula").
+entry(akwatin_hat, n, [akwatuna_hat], "akwati don hula").
+entry(hatch, v, [ya raba kwai, yana raba kwai, yana raba kwai], "ya kawo wani sabon abu daga cikin kwai").
+entry(hatcheck, n, [hatchecks], "ɗaki don adanawa na wucin gadi na hula").
+entry(hatchel, v, [hatcheled,hatcheling,hatchels], "ko HATCHELLED HATCHELLING HATCHELS domin raba zarurun flax da tsefe").
+entry(hatcher, n, [masu-bye-bye], "wanda ke buɗewa").
+entry(gidan-tsuntsaye, n, [gidajen-tsuntsaye], "wuri na haifar da ƙwai").
+entry(wuka, n, [wukake], "ƙaramin gatari").
+entry(kundumma, n, [kundummomi], "jerin layukan da ake amfani da su wajen nuna inuwa").
+entry(hatchway, n, [kofar rami], "wani rami a cikin bene na jirgin ruwa").
+entry(ki, v, [kiyayya, kina, kinas], "don tsana").
+entry(mai-ki, sif, [], "mai cancantar ki").
+entry(makiyaya, sif, [], "abin kyama").
+entry(mai-ƙiyayya, n, [masu-ƙiyayya], "wanda yake ƙiyayya").
+entry(hatful, n, [hatfuls], "ko HATSFULiya da hat zai iya dauka").
+entry(hath, a, [], "na yanzu 3d mutum daya na da").
+entry(ƙyama, na yanzu, [], "ɓangare na ƙyama").
+entry(baƙe-tufafi, siffofi, [], "rashin ɗauke hula").
+entry(kamarhula, suna, [], "yana kama da hula").
+entry(hatmaker, n, [masunta], "wanda yake yin huluna").
+entry(hatpin, n, [hatpins], "alon bindi don tabbatar da hula").
+```prolog
+entry(rakarrawa, n, [rakuna], "wani rak kuma angaye hular"). 
+```
+entry(ƙiyayya, n, [ƙiyayyu], "ƙyama mai tsanani ko ƙin jinin wani abu").
+entry(hatsful, a, [], "jam'in hatful").
+entry(hatted, past, [], "zamani na hula").
+entry(hatter, n, [hatters], "mai kera hula").
+entry(hatteria, n, [hatterias], "wani macizai").
+entry(hatting, suna, [], "gudananin hat").
+entry(hauberk, n, [hauberks], "rigar kariya").
+entry(haugh, n, [haughs], "kurmin da ke kasa da fili").
+entry(maɗaukaki, siffofi, [], "MAƊAUKAKIYA MAƊAUKAKIYARfiɗaɗɗe").
+entry(jawo, v, [jawowa,yawowa,jawo], "ja da karfi").
+entry(hulage, n, [hulages], "aikin jan abu").
+entry(haulback, n, [haulbacks], "layin jawo nausa baya").
+entry(mai-dauka, n, [mai-dauka], "wanda yake dauka").
+entry(maisufofi, n, [maisufofi], "maisufo").
+entry(jana, n, [janar], "aikin ɗaukar katako").
+entry(haulm, n, [haulms], "wani reshen shuka").
+entry(haulmy, sif, [], "HAULMIER HAULMIESTmai haulms").
+entry(fitar jirgi, n, [fitocin jirgi], "ayin fitar jirgi daga ruwa").
+entry(haulyard, n, [haulyards], "igiyar ɗaga tuta").
+entry(haunch, n, [haunches], "bayan cinyaHAUNCHED adj").
+entry(haunt, v, [haunted,haunting,haunts], "zuwa ziyarta akai-akai").
+entry(haunter, n, [haunters], "wanda ke tsorata").
+entry(haunting, n, [dawowar aljannu], "ziyara ta aljani").
+entry(hausen, n, [hausens], "kifi na sturgeon daga Rasha").
+entry(hausfrau, n, [hausfraus], "ko HAUSFRAUEN matar gida").
+entry(haut, adj, [], "mai tsawo").
+entry(hautbois, n, [hautbois], "kakaki").
+entry(hautboy, n, [hautboys], "wani obo").
+entry(haute, sif, [], "MATSAYInaMANYA MATSAYAfiMANYAtsari").
+entry(hauteur, n, [hauteurs], "halin ko gadarar hali ko ruhu").
+entry(havarti, n, [havartis], "cuku na Denmark").
+entry(havdalah, n, [havdalahs], "habdala").
+entry(da, v, [yi, yana, yana], "rikewa azaman mallakar alfarma ko hakkoki").
+entry(da, n, [masu_da], "mutum mai arziki").
+entry(havelock, n, [hukumar havelock], "rufe hula").
+shigarwa(haven, v, [havened, havening, havens], "don samun mafaka").
+entry(haver, v, [havered, havering, havers], "yin dogon tunani ko shakkar karar abinda za a faɗi").
+entry(haverel, n, [haverels], "mahaukaci").
+entry(da, yanzu, [], "partisif na da").
+entry(hali, n, [halaye], "hali").
+entry(haviour, n, [haviours], "havior").
+shigarwa(havoc, v, [havocked,havocking,havocs], "lalata").
+entry(havocker, n, [havockers], "wanda yake yin rugujewar abu").
+entry(haw, v, [hawed, hawing, haws], "juyawa hagu").
+entry(hawala, n, [hawaloli], "wani nau'i na tsari na kudi a cikin al'ummomin Musulunci").
+entry(haweater, n, [mazauna_hanwita], "wani mazaunin Tsibirin Manitoulin, Ontario").
+entry(hawfinch, n, [hawfinches], "wani karan tsuntsaye na Eurasia").
+entry(kura, v, [kura_tallace, gamu_da_kura, kurai], "sayar da kaya").
+entry(kunkuru_mallam, n, [kunkuru_mallamai], "wani kifin kunkuru").
+entry(hawker, n, [hawkers], "wanda ke tallata").
+entry(hawkey, n, [hawkeys], "wani hawkie").
+entry(hawkeyed, sifa, [], "da hangen nesa mai kaifi").
+entry(hawkie, n, [hawkies], "saniya mai fuska fara").
+entry(hawking, n, [hawkings], "farautar tsuntsaye").
+shigar(tarihi, sif, [], "mai yaki").
+entry(hawklike, sif, [], "yana kama da ciiwonsa tsuntsu mai farautar kayan lambu").
+entry(gwamwamaye, n, [gwamwamaye], "babban malam buɗe ido").
+entry(hawknose, n, [hawknoses], "bakin hanci mai laushin lanƙwasawa").
+entry(hawkshaw, n, [hawkshaws], "ɗan sanda").
+entry(hawkweed, n, [hawkweeds], "wani ganye mai kama da ciyawa").
+entry(hawse, n, [hawses], "wani ɓangarori na murɗiyar jirgin ruwa").
+entry(igiyar sarƙa, n, [igiyoyin sarƙa], "igiyar da ake amfani da ita wajen ɗaure jirgi").
+entry(gabaruwa, n, [gababuwa], "shuka mai ƙaya").
+entry(ciyawa, v, [ciyawa_ce, ci_yawa, ciyawa], "mai juya ciyawa zuwa abinci don dabbobi").
+entry(kundum, n, [kundumai], "taron ciyawa").
+entry(hayer, n, [hayers], "wanda yake shuka ciyawa").
+entry(hayey, sif, [], "kama da ciyawa").
+entry(hayfield, n, [hayfields], "filin da ake noma ciyawa don yin hay").
+entry(habaici, n, [habaici], "abin aiki don jefa ciyawa").
+entry(yanke ciyawa, n, [yankan ciyawa], "lokacin girbin ciyawa").
+entry(haylage, n, [haylages], "wani irin ciyawa").
+entry(gidan_koren_kasa, n, [gidajen_koren_kasa], "wani bene don ajiya koren kasa").
+entry(maikulla, n, [maikulla], "wanda ke yin kulle").
+entry(haymow, n, [haymows], "dandali na ciyawa").
+entry(hayrack, n, [hayracks], "wani tsarin da ake amfani dashi wajen ɗaukar ciyawa").
+entry(hayrick, n, [hayricks], "tudun ciyawa").
+entry(hawan-karo, n, [hawaye-karo], "motar wagon").
+entry(hayseed, n, [hayseeds], "wannan bafulatani").
+entry(haystack, n, [haystacks], "taron ciyawa").
+entry(hayward, n, [haywards], "jami'in da ke kula da shanu").
+entry(haywire, n, [haywires], "kyaure da ake amfani da shi wajen ninka ciyawa").
+entry(hazan, n, [hazans], "ko HAZANIMa mawaƙi").
+shigarwa(hatsari, v, [hatsariyar,hatsariyawa,hatsarwa], "yin doka").
+entry(hazarder, n, [hazarders], "wanda ke sanya kansa a hatsari").
+entry(haze, v, [hazed,hazing,hazes], "yi wa wani shan wahala a cikin gwajin shiga").
+entry(hazel, n, [hazels], "wani shuka").
+entry(hazelhen, n, [hazelhens], "wani kaza Turai").
+entry(hazelly, sif, [], "ruwan dorawa mai ɗan ƙyalli").
+shigar(gyada, n, [gyada-gyada], "ɗanyen ci").
+entry(hazer, n, [hazers], "wanda ke sanya wahala").
+entry(hazier, comparative, [], "na da hazo").
+entry(haziest, superlative, [], "na hazy").
+entry("hazily", "adv", [], "ta kowanne hanya mai duhu").
+entry(haske, n, [haskehaske], "yanayin ƙyalli").
+entry(hazing, n, [hazings], "yunƙurin kunyata ko raina").
+entry(hazmat, n, [hazmats], "abu mai haɗari").
+entry(hazy, sif, [], "HAZIER HAZIESTba a bayyane").
+entry(hazzan, n, [hazzans], "ko HAZZANIMhazan").
+shigarwa(shi, n, [hes], "namiji").
+shiga(shugaba, v, [shugaban, shugabanci, shugabanni], "zama shugaba na").
+entry(ciwon kai, n, [ciwon kan], "ciwo a cikin kai").
+entry(headachy, adj, [], "MAI CIWON KAI MAI CIWO KAI MAI CIWO KAI").
+entry(banda, n, [bandoli], "wanda aka sanya a kai").
+entry(shugabar, na, [shugabanni], "wani wurin da ke karɓa da rarraba sigina na sadarwa").
+entry(shafi, n, [shafuka], "injin girbin hatsi").
+entry(kifi_kana_kana, n, [kifi_kana_kana], "kifi na teku").
+entry(headful, n, [headfuls], "babban adadin ilimi").
+entry(headgate, n, [headgates], "ƙofa don sarrafa gudu na ruwa").
+entry(kwalliya, n, [kwalliya], "rufin kai").
+entry(headhunt, v, [headhunted, headhunting, headhunts], "nemo kawar da kai da adana kawunan maƙiya").
+shigarwa(headier, naɗaɗɗaɗɗen, [], "na maye").
+entry(headiest, superlative, [], "na heady").
+shiga(headily, adv, [], "a cikin yanayi mai kai kai").
+entry(heading, n, [takardu], "wani take").
+entry(fitila-ta-mota, n, [fitila-ta-mota], "wutar da ke gaban mota").
+entry(headland, n, [headlands], "wani dutse mai tudu").
+entry(headless, adj, [], "rashin kai").
+entry(labarin, v, [labarta, labarwa, labarai], "don bayar da take").
+entry(headlock, n, [headlocks], "rikon kokawa").
+shigar(gaba_da_gaba, sif, [], "mai-hanzari da rashin-tunanin").
+entry(shugaba, n, [shugabanni], "mai jagoranci").
+entry(na farko, siffofi, [], "na farko").
+entry(headnote, n, [headnotes], "wani bayanin da aka haɗa bisa").
+entry(headpin, n, [filogaro], "katangar kwallon ruwa").
+entry(kogin-kai, n, [kogin-kai], "tabki da aka ƙirƙira a bayan dam").
+entry(headrace, n, [headraces], "wani magudanar ruwa").
+entry(headrail, n, [headrails], "katanga mai tsayi a saman wani abu").
+entry(headrest, n, [masu goyon bayan kai], "tallafi ga kai").
+entry(headroom, n, [headrooms], "sararin tsaye mai bayyani").
+shigar(tushen-jirgi, n, [tushen-jirage], "wani irin tukunyar jirgi").
+entry(headset, n, [headsets], "kayatattun belun kunne").
+entry(shugabanci, n, [shugabanci], "matsayin jagora").
+entry(headshot, n, [headshots], "wani hoton mutum daga wuya sama").
+entry(headsman, n, [headsmen], "mai yanke kai").
+entry(headstay, n, [headstays], "tsari don goyon bayan masts na jirgin ruwa").
+entry(headward, adv, [], "zuwa kai").
+entry(headway, n, [headways], "motsi gaba").
+entry(girgizar iska, n, [girgizowar iska], "iska mai zuwa gaba").
+entry(shugabanci, n, [shugabanni], "kalma da aka sanya a farkon").
+entry(aikin_kai, s, [aikin_kai], "aiki na tunani").
+entry(heady, sif, [], "MAI DAUKAR HANKALI").
+entry( warkar, v, [ya warkar, ana warkarwa, yana warkar], "don warkar da lafiya ko zama gaba ɗayaWARKAKKEN adj").
+entry(maiwarkarwa, n, [maiwarkarwa], "wanda ke warkarwa").
+entry(warkewa, n, [warkewoyi], "tsarin dawowa da lafiya").
+entry(lafiya, n, [lafiyoyi], "halin jiki na wani abu mai rai").
+entry(lafiya, sif, [], "MAFI LAFIYA MAFI LAFIYAshan lafiya").
+entry(heap, v, [taru,tarawa,taru], "haura kaya").
+entry(maiďungura, n, [maiďungurai], "wanda ke ďungura").
+entry(heapy, sif, [], "kamar wani tari wanda aka tara abubuwa daya bisa daya").
+entry(ji, v, [jiyo, jiwo, ji], "ka fahimta ta hanyar kunne JIWA adj").
+entry(maiji, n, [maiyaji], "wanda yake ji").
+entry(saura, n, [sauraruwa], "gano na farko").
+entry(saurara, v, [saurarawa,saurarawa,saurari], "ji ko sauraron wani abu").
+entry(jita-jita, n, [jita-jitai], "bayani na biyu").
+entry(motakin gawa, v, [motakin gawa d, motakin gawa wa, motakin gawa as], "don safarar gawa a cikin motakin gawa").
+entry(zuciya, v, [zuciyoyi,zuciyarwa,zukata], "don kara karfin gwiwa").
+entry(karfafa, v, [karfafad,karfafawa,karfafa], "ba wa mutum karfin gwiwa").
+entry(dajin wuta, n, [dajin wuta], "bene tare da wutar mai lema").
+entry(hearty, adj, [], "FIYE DA ZUCIYA ZUCIYAR DUKANSA sosai da abota SAURARA adv").
+entry(mai-zumunci, n, [masu-zumunci], "aboki").
+entry(zafi, v, [zafafa, zafafawa, zafafa], "don sa ya yi zafiZAFABAR adj").
+entry(nakaɗaɗɗe, adv, [], "cikin yanayi na zafi ko motsawa").
+entry(na'ura mai zafi, n, [na'urorin zafi], "na'ura don yin zafi").
+entry(heath, n, [heaths], "wani ciyawar kore mai tsiro koyaushe").
+entry(ārni, n, [ārna], "mutumin da ba shi da ilimi").
+entry(heather, n, [heathers], "shuka mai tsiro mai tsawon dumiHEATHERY adj").
+entry(lafiya, sif, [], "MAFI LAFIYA MAFI LAFIYAabounding in heath").
+entry(zafi, n, [zafuka], "ayin sanya wani abu ya zama zafi").
+entry(heatless, sif, [], "babu zafi").
+entry(heaume, n, [heaumes], "kwalkwali na zamanin da").
+entry(heave, v, [hove,heaving,heaves], "ɗaga da ƙarfi").
+entry(aljanna, n, [aljannai], "sama").
+entry(sama, sif, [], "MAFI SIFOFI Cike da kyau da salama").
+entry(mai dagawa, n, [masu dagawa], "wanda ke dagawa").
+entry(makaɗɗama, tamabtin, [], "na mai nauyi").
+entry(heavies, pl, [], "na mai nauyi").
+entry(heaving, present, [], "rukunin heave").
+entry(mai- nauyi, sifa, [], "MIKIYA MAI NAUYI yana da nauyi mai yawa MAIKAU mai sauki").
+entry(mai-ƙarfi, n, [mai-ƙarfi], "wani mugun nufi").
+entry(heavyish, sif, [], "mai nauyi kadan").
+entry(mai-tumbi, siffofi, [], "jiki mai ƙarfi mai ƙiba").
+entry(hebdomad, n, [makonni], "lambar bakwai").
+entry(hebetate, v, [hebetated, hebetating, hebetates], "sanya a hankali").
+entry(hebetic, adj, [], "mai dangantaka da balaga").
+entry(hebetude, n, [hebetudes], "zuciya mai nauyi").
+entry(yi_hebra, v, [ya_hebra, yana_hebra, yana_hebra], "mai hannu a cikin Ibrananci").
+entry(hekatomb, n, [hekatombobi], "babban hadaya ko kisan gillar").
+shigarwa(heck, n, [hecks], "Jahannama wuri ko yanayin wahala").
+entry(heckle, v, [heckled,heckling,heckles], "dabarun kai harin baki").
+entry(heckler, n, [masu-hargitsi], "wanda yake hargitsa").
+entry(fadama, n, [fadamai], "wani ka\u0257i na \u0257au\u0257in \u0257angi").
+entry(hectic, sıf, [], "cike da rudaniHECTICLY adv").
+entry(mai-jiniya, n, [majiniya], "zazzabi mai zuwa da fuskar da ta yi ja").
+entry(hectical, sif, [], "cike da aiki sosai").
+entry(hector, v, [masu_hector,harafin_hector,hectors], "yin babatu").
+entry(haddi, n, [haddai], "wani bangare na abun saka").
+entry(heder, n, [heders], "ko HADARIM ko HEDARIM wata makarantar Yahudawa").
+entry(shinge, v, [shinge,na-shinge,shingaye], "don kewaye da shinge wani cikin row mai yawa na bishiyoyi").
+entry(duniya, n, [duniye], "wani karamin dabba").
+entry(hedgehop, v, [hedgehopped,hedgehopping,hedgehops], "tashi kusa da ƙasa").
+entry(hedgepig, n, [hedgepigs], "a kyankyashe").
+entry(mai-gardi, n, [masu-gardi], "wanda ke tsarewa").
+entry(katantan kafur, n, [katantattun kafur], "kofofi na bushes").
+entry(hedging, present, [], "hanyoyin bambamce na ganye").
+entry(hedgy, siffofi, [], "HEDGIER HEDGIESTmai yalwatar da shinge").
+entry(hedonic, adj, [], "na nishadi").
+entry(hedonics, npl, [], "wani reshe na ilimin halayyar dan Adam").
+entry(hedonism, n, [hedonisms], "binyar jin daɗi").
+entry(hedonist, n, [hedonists], "mai bin tsarin jin dadi").
+entry(ji, v, [jiya,ji,ji], "don yin kulawa").
+entry(mai-sauraro, n, [masu-sauraro], "wanda ke sauraro").
+entry(mai-kula, sif, [], "mai da hankali sosai").
+entry(marasa-hankali, adj, [], "kulawa kadan ko babu kulawa").
+entry(heehaw, v, [heehawed,heehawing,heehaws], "dariya mai karfi").
+entry(heel, v, [heeled, heeling, heels], "don yi wa da takalmin da ke gefe").
+entry(heelball, n, [heelballs], "wani abu na musamman da ake amfani da shi wajen tsabtacewa").
+entry(heeler, n, [heelers], "wanda ke sawa takalma gugguru").
+entry(heeling, n, [heelings], "aikin karkatar da gefe").
+entry(ba_takalmi, sif, [], "ba shi da takalman kafa").
+entry(heelpost, n, [heelposts], "wani sanda da aka makala a ƙarshen wani abu").
+entry(heeltap, n, [heeltaps], "kayan da aka sa a diddige takalmi").
+entry(heeze, v, [heezed, heezing, heezes], "dagawa").
+entry(heft, v, [dagawa,dagawa,dagawa], "daga sama").
+entry(hefter, n, [hefters], "wanda ke daukar kaya").
+entry(hefty, sif, [], "HEFTIER HEFTIESMai nauyiHEFTILY adv").
+entry(hegari, n, [hegaris], "irin").
+entry(hegemon, n, [hegemons], "wani jihar siyasa da ke da mulkin mallaka").
+entry('daukar iko', n, ['daukar iko'], "ikon girma").
+entry(hegira, n, [hegiras], "ƙaura").
+entry(shugaban, n, [shugabanni], "shugaban wani gidan ibada").
+entry(hegumeni, n, [hegumenai], "shugaban wani gida na ‘yan’uwa mata").
+entry(hegumeny, n, [hegumenies], "matsayin hegumen").
+entry(heh, n, [hehs], "wani harafi na Ibrananci").
+entry(shanu, n, [shanu mata], "yar shanu").
+entry(heigh, interj, [], "ana amfani dashi don jan hankali").
+entry(tsawo, n, [tsawoyi], "matsayi mafi tsawo").
+entry(daga, v, [daga, dagawa, dagai], "to raise").
+entry(tsawo, n, [tsawuna], "tsawo").
+entry(heil, v, [heiled, heiling, heils], "yin gaisuwa").
+entry(heimish, sif, [], "haimish").
+entry(heinie, n, [heinies], "duwawu").
+entry(mai-mugunta, sif, [], "mai matukar mugunta").
+entry(magaji, v, [magaje, magajinta, magada], "gadon gado").
+entry(heirdom, n, [gādāje], "gādantaka").
+entry('yar gadon', n, ['ya'yan gado'], "mace mai gadon gado").
+entry(ba_magawa, adj, [], "babu magabata").
+entry(kayankaya, n, [kayankaya], "abu wanda aka gada").
+entry(gadanci, n, [gadanci-gadanci], "hakkin gado").
+entry(heishi, npl, [], "kananan kwayoyi da aka yi da ƙoƙi").
+entry(fashi, v, [fashe, fashing, fasa], "yin sata").
+entry(heister, n, [mabambama], "wanda ke yi wa makwaftansa sata").
+entry(hejira, n, [hejiras], "hijira").
+entry(hektare, n, [hektares], "hektar").
+entry(rike, da, [], "laukacin rike").
+entry(helenium, n, [heleniums], "shuka da furanni kamar na daisyi").
+entry(heliac, sif, [], "na hasken rana").
+entry(heliacal, adj, [], "mai dangantaka da rana").
+entry(heliast, n, [heliasts], "alkalin Atina").
+entry(helical, adj, [], "kamannin mallakar helix").
+entry(helikasa, a, [], "jam'i na helikwa").
+entry(helicity, n, [helicities], "ajnin tayin wani bangare na juyawar kwayar zarra").
+entry(helicoid, n, [helicoids], "wani nau'in farfajiya mai lissafi").
+entry(helicon, n, [helicons], "babus mai bass tuba mai girma").
+entry(helikopta, v, [helikopted, helikopting, helikopts], "yin tafiya ta jirgin sama mai saukar ungulu").
+entry(helilift, v, [helilifted, helilifting, helilifts], "kai da jirgin sama na rotor").
+entry(helio, n, [helios], "madubin sigina").
+entry(matsuguni_jirgin_sama, n, [matsugunan_jirgin_sama], "wani filin jiragen sama").
+entry(masana'antar jirgi mai saukar ungulu, n, [masana'antun jiragen mai saukar ungulu], "filin saukar jiragen sama na jirgi mai saukar ungulu").
+entry(heliski, v, [heliskied,heliskiing,heliskis], "dara kan dusar ƙanƙara a saman duwatsu da aka isa ta hanyar helikwafta").
+entry(helistop, n, [helistops], "wani filin jirgin sama na hawan sama").
+entry(helitack, n, [helitacks], "amfani da jiragen sama masu saukar ungulu don yakar gobarar daji").
+entry(helium, n, [heliums], "wani sinadari mai iska").
+entry(helix, n, [kekuna], "ko HELICESwani abu mai siffar karkacewa").
+entry(jahannama, v, [jahannamarda,jahannamanna,jahannamoshi], "yin azabtarwa").
+entry(hellbent, sif, [], "tsananin hima").
+entry(akwatin_wuta, n, [akwatin_wuta], "kwandon bugawa na masu bugawa").
+entry(hellcat, n, [hellcats], "mutum mai kiyayya").
+entry(heller, n, [hellers], "mayaudari").
+entry(helleri, n, [helleris], "ko HELLERI kifin yanayi mai ɗumi").
+entry(hellery, n, [helleries], "wasa mai tada hankali").
+entry(wutar_jahannama, n, [wutar_jahannamai], "azaba ta jahannama wuri mai babbar wahala").
+entry(ƙasa ta azaba, n, [ƙasashe na azaba], "wuri mai muni").
+entry(hellion, n, [hellions], "mutum mai wahala").
+entry(ƙazantaccen, sif, [], "mugun").
+entry(hellkite, n, [hellkites], "mutum mugun hali").
+entry(sannu, v, [sannu, sannuwa, sannuka], "ko SANNUDEDon gaisuwa").
+entry(helluva, sif, [], "marar dadi").
+entry(hellward, adv, [], "zuwa jahannama wani wuri mai wahala").
+entry(helm, v, [helmed,helming,helms], "ta jagoranci jirgin ruwa").
+entry(kwalkwali, v, [kwalkwalaye,kwalkwaliya,kwalkwaloli], "donawa da kwalkwali kamar kariya ga kai").
+entry(helminth, n, [kwarangwam], "sarke").
+entry(baƙare, sif, [], "rashin kwalliyar kai ko tsarin tuƙi").
+entry(helmsman, n, [helmsmen], "wanda ke juya jirgi").
+entry(helo, n, [helos], "wani jirgin sama mai saukar ungulu").
+entry(bawa, n, [bayi], "bawa ko makaɗa").
+entry(helotage, n, [helotages], "halin kangwarsu").
+entry(helotism, n, [helotisms], "bautaka ko talakawa").
+entry(berantaka, n, [berantakai], "berantaka").
+entry(taimako, v, [taimakawa, tana taimakawa, tana taimaka], "don bayar da taimakoTAIMAKE adj").
+entry(helpdesk, n, [helpdesks], "hidima da ke taimaka wa abokan ciniki da matsaloli").
+entry(maimako, n, [maymako], "wanda ke taimako").
+entry(mai-taimako, sif, [], "zama na taimako ko taimako").
+entry(taimako, n, [taimakoki], "wani bangare na abinci").
+entry(mara_taimako, siffofi, [], "ba_tare_da_kariya").
+entry(layin-tilas, n, [layukan-tilas], "wata sabis din waya da ke bayar da shawara").
+entry(helpmate, n, [masu_taimako], "wani abokin taimako").
+entry(mai_taimako, n, [mataimaka], "wani mai taimako").
+entry(helve, v, [helved, helving, helves], "ba da sanda ga abu").
+entry(hem, v, [hemmed,hemming,hems], "don samar da gefe").
+entry(hemagog, n, [hemagogs], "wani wakili da ke inganta gudun jini").
+entry(hemal, siffofi, [], "mai nasaba da jini").
+entry(hematal, sifa, [], "hemal").
+entry(hematein, n, [hemateins], "wani sinadari mai gauraye").
+entry(hematic, n, [hematics], "magani don cuta ta jini").
+entry(hematin, n, [haematin], "hemi").
+entry(hematine, n, [hematines], "hematin").
+entry(hematite, n, [hematites], "wani ma'adinain ƙarfe").
+entry(hematoid, sif, [], "mai kama da jini").
+entry(hematoma, n, [hematomas], "ko HEMATOMATA kumburi cike da jini").
+entry(heme, n, [hemes], "wani ɓangare na hemoglobin").
+entry(hemic, sifa, [], "hemal").
+entry(hemin, n, [hemins], "wani chloride na heme").
+entry(hemiola, n, [hemiolas], "sauyin lissafin kidan").
+entry(hemiolia, n, [hemiolias], "hemiola").
+entry(hemipter, n, [hemipters], "wani kwaro").
+entry(hemline, n, [hemlines], "ƙasan gefen tufafi").
+entry(hemlock, n, [hemlocks], "ganyen dafi mai guba").
+entry(hemmed, da, [], "nau'i na hem").
+entry(hemmer, n, [hemmers], "wanda ke ambaliyar ruwa").
+entry(hemming, present, [], "ainihin kalmar hem a matsayin suna").
+entry(hemokoel, n, [hemokoels], "wata ramin jiki").
+entry(hemocyte, n, [hemocytes], "ƙwayar jini").
+entry(hemoid, sif, [], "na jini").
+entry(hemolyze, v, [hemolyzed, hemolyzing, hemolyzes], "rarrabe jijiyar jini ta ja").
+entry(hemostat, n, [hemostats], "wani kayan aiki don rage zubar jini").
+entry(hemp, n, [hemps], "ciyawa mai tsawo").
+entry(hempen, sif, [], "wanda aka yi da hemp").
+entry(hempie, adj, [], "HEMPIER HEMPIESThempy").
+entry(hempier, na kwatanci, [], "na hempy").
+entry(hempiest, superlative, [], "na hempy").
+entry(hemplike, sif, [], "mai kama da hemp").
+entry(iriƙanɓara, n, [iriƙanɓara], "irin ƙanɓara").
+entry(hempweed, n, [hempweeds], "tsiro mai hawa").
+entry(hempy, siffofi, [], "HEMPIER HEMPIESTmai-wahala").
+shigar(kwarkwata, n, [kwarkwatoci], "kaza mace").
+entry(henbane, n, [henbanes], "ciyawar guba").
+entry(henbit, n, [henbits], "wani tsiron dindindin").
+entry(don_haka, adv, [], "saboda haka").
+entry(henchman, n, [henchmen], "mabiya marasa gaskiya").
+entry(gidan_kaji, n, [gidajen_kaji], "wani keji don kaji").
+entry(henequen, n, [henequens], "zarafin da ake amfani da shi don yin igiyoyi").
+entry(henequin, n, [henequins], "henequen").
+entry(henge, n, [henges], "tsarin da'ira na zamanin tagulla a Ingila").
+entry(gidan_kaji, n, [gidajen_kaji], "mafaka ga kaji").
+entry(heniquen, n, [heniquens], "henequen").
+entry(henley, n, [henleys], "wani irin rigar saƙa").
+entry(kamar-kaza, sif, [], "kama da kaza").
+entry(henna, v, [hennaed, hennaing, hennas], "yin amfani da launin ja don zane").
+entry(hennery, n, [henneries], "gonar kaji").
+entry(hennish, siffofi, [], "da kama da kaza").
+entry(henpeck, v, [henpecked, henpecking, henpecks], "yi ta takura").
+entry(henry, n, [henrys], "ko HENRIESnaúrar shigarwa").
+entry(hent, v, [kamawa, kamawa, kama], "rike").
+entry(hep, sif, [], "MAFI HEP").
+entry(hep, n, [heps], "ciwon hanta kumburin hanta").
+entry(heparin, n, [heparins], "wani sinadari").
+entry(rashin lafiya na hanta, n, [magungunan rashin lafiya na hanta], "magani mai aiki akan hanta").
+entry(hepatica, n, [hepaticas], "ko HEPATICAEa ciyawar dindindin").
+entry(hepatize, v, [hepatized,hepatizing,hepatizes], "juya kyallen jiki ya zama kullin daskararre").
+entry(hepatoma, n, [hepatomas], "ko HEPATOMATAa amosanin hanta").
+entry(hepcat, n, [hepcats], "masoyin jazz").
+entry(heptad, n, [heptadodi], "kungiya ta bakwai").
+entry(heptagon, n, [heptagons], "wani fagen da yake da kusurwoyi bakwai").
+entry(heptane, n, [heptanes], "wani sinadari mai dauke da hydrogen wanda ake amfani da shi a matsayin magani").
+entry(heptarch, n, [heptarchs], "daya daga cikin jagorori bakwai").
+entry(heptose, n, [heptoses], "wani haɗin sinadarai").
+entry(ta, pron, [], "hali na hali manuniya me ake kira ita").
+entry(herald, v, [heralded,heralding,heralds], "shelanta").
+entry(heraldic, sif, [], "mai nasaba da al'adun heraldry").
+entry(gargadi, n, [gargadodi], "fasahar hoto ko kimiyyar makamai").
+entry(ganye, n, [ganye], "tsiro mai fure da jikin maras itace").
+entry(ciyawa, n, [ciyaye], "rayuwar tsire-tsire marasa itaceCIYAWAD adj").
+entry(ganyen_magani, n, [ganyen_magani], "littafi game da ganye da tsirrai").
+entry(herbaria, npl, [], "tarin tsirrai busassu").
+entry(herbed, sif, [], "wanda aka gauraya da ganye").
+entry(ba_herb, sif, [], "rashin ganye").
+entry(kamar-ciyawa, siffofi, [], "kamar wata ciyawa").
+entry(herby, adj, [], "MAI GANYA MAI GANYA MAI YAWA DA GANYA").
+entry(hercules, n, [herculeses], "kowane mutum mai girma da ƙarfi").
+entry(gangami, v, [gangame, gangamawa, gangama], "tara dabbobi a cikin rukuni").
+entry(makiyayi, n, [makiyaya], "wanda ke kiwon dabbobi").
+entry(herdic, n, [herdics], "wani irin keken doki").
+entry(kiwo, n, [kiwowa], "aikin kiwo ko motsa dabbobi").
+entry(herdlike, adj, [], "mai kama da garken dabbobi").
+entry(makiyayi, n, [makiyaya], "makiyayi").
+entry(makiyayi, n, [makiyaya], "maɗoƙi").
+entry(nan, n, [nan], "wannan wuri").
+entry(hereat, adv, [], "a wannan lokacin").
+entry(hereaway, adv, [], "a wannan yankin").
+shigar(hereby, adv, [], "ta wannan hanya").
+entry(heredes, pl, [], "na heres").
+entry(haihuwa, n, [haihuwa], "yada halaye ta hanyar gado").
+entry(nan, adv, [], "a cikin wannan").
+entry(hereinto, adv, [], "zuwa wannan wuri").
+entry(hereof, adv, [], "na wannan").
+entry(hereon, adv, [], "a kan wannan").
+entry(heres, n, [heredes], "magājin").
+entry(karanci, n, [karance-karance], "imani da ya saba da koyarwar coci").
+entry(mai-ganiyar-karya, n, [masu-ganiyar-karya], "wanda ke goyon bayan kafirci").
+entry(hereto, adv, [], "zuwa wannan al'amari").
+entry(heretrix, n, [heretrixes], "ko HERETRICESheritrix").
+entry(hereunto, mat, [], "nan").
+entry(hereupon, adv, [], "nan take bayan wannan").
+entry(herewith, adv, [], "tare da wannan").
+entry(hariyo, n, [hariyoyi], "harajin zamanin feudal").
+entry(gado, n, [gadaje], "wani abu da ake gado").
+entry(wanda_ya_gada, n, [wadanda_ke_gada], "wanda ya gada").
+entry(heritrix, n, [heritrixes], "ko HERITRICESa wacce ta gada matan gado").
+entry(herl, n, [herls], "kayan kamun kifi da gashi").
+entry(herm, n, [herms], "wani nau'in siffa").
+entry(herma, n, [hermae], "ko HERMAIa hermHERMAEAN sif").
+entry(hermetic, adj, [], "mai rufewa").
+entry(mazaunin kadaici, n, [mazauna kadaici], "wanda ya ke kadaiciHERMITIC adj").
+entry(matsayin-zama-dan-kusa, n, [matsayin-zama-dan-kusa], "halin zama dan kusurwa").
+shigarwa(hern, n, [herns], "wani wata kaza").
+```prolog
+entry(hernia, n, [hernia], "ko HERNIOL kia na wani gabobi ne ta hanyar bangon sa da ke kewaye dashi HERNIOL wato adj").
+```
+entry(herniate, v, [herniated, herniating, herniates], "fito ta hanyar budewa cikin jiki da bai saba ba").
+entry(gwarzo, n, [gwarzaye], "ko GWAŹOya hoagie").
+entry(kwazonta, n, [ayyukan jaruntaka], "wak'ar labarin jari").
+entry(maharbi, sif, [], "jarumi mai daraja").
+entry(heroin, n, [heroins], "wani kwaya mai sa maye mai sa ɗabi'a").
+entry(gwarzuwa, n, [gwarzuwa], "mace jaruma").
+entry(girman-ciki, n, [girman-cikikai], "halayyar jaruntaka").
+entry(heroize, v, [heroized,heroizing,heroizes], "yi jarumta").
+entry(heron, n, [herons], "tsuntsun dake yawo a ruwan kududufi").
+entry(cikin-giwan-kwarin-kogi, n, [cikin-giwayen-kwarin-kogi], "wuri inda giwayen kwarin kogi ke haihuwa").
+entry(herpes, n, [herpes], "cuta ta fata mai suna HERPETIC adj").
+entry(damsarki, n, [damsarki], "kifi na abinci").
+entry(herry, v, [herried,herrying,herries], "yi kai hare-hare").
+entry(na ta, pron, [], "yanayin mallaka na wakilin magana na mace").
+entry(kanta, pron, [], "wani nau'i na zaɓaɓɓen ɗan kamus na 3 mutum na ƙarshe mace").
+entry(herstory, n, [herstories], "tarihi da hangen mata").
+entry(hertz, n, [hertz], "wani nau'in naúrar mita").
+entry(majinƙayi, adj, [], "mai yawan jinkiri").
+entry(yarinyar-hesita, v, [hesita,yarinyar-hesituwa, yarinyar-hesitawa], "ta dakata cikin rashin tabbas").
+entry(hessian, n, [hessians], "tufafi mai kauri").
+entry(hessite, n, [hessites], "wani ma'adini").
+entry(hest, n, [hests], "umarni").
+entry(het, n, [hets], "hecfi").
+entry(hetaera, n, [hetaeras], "ko HETAERAEa karuwaHETAERIC sif").
+entry(hetaira, n, [hetairas], "ko HETAIRAIhetaera").
+entry(hetero, n, [heteros], "wani mai sha'awar jima'i a ɗayan jinsi").
+entry(heth, n, [heths], "wata harafin Ibraniyanci").
+entry(hetman, n, [hetmans], "shugaban cossack").
+entry(heuch, n, [heuchs], "dutsen").
+shigarwa(heuchera, n, [heucheras], "tsirrai na yankin arewacin AmurkaHEUGH n pl HEUGHSkulu mai kauracewa cliff mai kofofiHEVEA n pl HEVEASitacen itacen thatsanyin dafaffen dafaffen ruwa da ake amfani dashi na roba daga itacen kubaHEGAW v HEWED karyawa ancin HEWING HEWSTo karyawa da kwariHEWABLE adjHEWER n pl HEWERSwanda yake karyawaHEX v HEXED HEXING HEXESto jirkita hijabi mai mummunar al amaraHEXAD n pl HEXADSa kungiyar 'yan shidaHEXADIC adjHEXADE n pl HEXADEShexadHEXAGON n pl HEXAGONSfilatin da ke da bangon shidaHEXAGRAM n pl HEXAGRAMSabuwarn tauraroHEXAMINE n pl HEXAMINEShadin sinadarin qumuruHE XA NE n pl HEXANEinosaikasi li'kamuHEXAPLA n pl HEXAPLASPhiarawa da gidan layukan litani na shidaHEXAPLAR adjHEXAPOD n pl HEXAPODSa kada wanda ke da kafafuwan shidaHEXAPODY n pl HEXAPODIESlayin baitin kai da kafafu guda shidaHEXARCHY n pl HEXARCHIESda kungiyoyi guda guda shida daga jihohi masu rikita-rikitaiHEXER n pl HEXERSwanda yakan kir kikan iyoHEXEREI n pl HEXEREISidan HEXONE n pl HEXONESsolvents mai kwayar hycarbondashaHEXOSAN n pl HEXOSANnbarkadenkar kodeHEXOSE n pl HEXOSESe sikwrar sugarHEXYL n pl HEXYLSmada kwayar hydrocarbonHEXYLIC adjHEY interj ana amfani da ita don jan hankalinHEYDAY n pl HEYDAYSlokacin nasara mafi girmaHEYDEY n pl HEYDEYSheydayHI interj ana amfani da ita don gaisuwaHIATUS n pl HIATUSEWata datse ko faduwaHEAVY nepuHIBACHIna pl HIBACHISna tusheHEVHELTERAL adj na dangantakawa boo gizoHIC interj ana amfani da ita don wakiltar balgomHICCOUGH v HICCOUGHED HICCOUGHING HICCOUGHStopad or HICCUP v HICCUPED HICCUPING HICCUPS ko HICCUPPED CE HICCUPStemotar cikin kirkangeloHICCUPY adj da ke da hiccups cikin dacin numfashiHICK n pl HICKSA wanda ya dawoHICKISH adjHICK adj HICKER HICKESTwani wanda yake kama da wanda ke a gidan kawsakiyaHICKEY n pl HICKEYS ko HICKIESna bazawaHICKIE n pl HICKIESna bazawaHICKORY n pl HICKORIESna itacen darma mai kasheHID sabuwar turiya da jifatu(attach)HIDALGO n pl HIDALGOSA a kauye na SpainHIDDEN adj concealed obscureHIDDENLY advHIDE v HID HIDIA HIDINE HIDEstop boycottHIDHID n pl HIDEAWAYSa mahutaHIDELESS adj ba tare da fataHIDEOUS adj da munin gashiHIDEOUT n pl HIDOUTSa mahutaHIDERR n pl HIDINGam wotso wanda ya boyeHIDING n pl HIDAGWitness in daureHIDrosIS n pl HIDROSES makara ya yiciRUwa na karatuksitanHIDROTIC n, pl HORROTICS Because theylanYain hiERJANSay tartarHIDROI a iwan ta abumIHMIRONnWU me HEHgNE yacjaa ta rOuana na atSHIBaC SAN iro naUSHilarHILARIA ARIRA a WOEILIS taffangularJHILDIGyaHILI naPOi HILLatICE hILd RAPHAREatonRAHEL a'aRaJHILIMA RUHILIMMena RLaIWUR OhuHILLR aRaRA YNHedKai naHIIEKARAI ERALn shEIO EEERII sEEIRUSYHovAe n pl HIOAPaWlimre tpHIEa nENDIF at t nLaLIReiRang g t nRARaiYERHIEAdSHa n pl IERMINin AIERMINurmHEYyo RICTAe nLAi n plAnto ainRUhERna JidinaRER yinh EHEMI noti aIISasyEISS n plHIi awanERaiRAni WParanWUnanERanRACieRLERch yiakaucinHIEdhL aNaLdu EMax NEuk ndacRI Frecie SIbaukan Wauke die pareceiramHALaiduEIHILHILIALunCANOMitalaTIBREn THeaK na YRWneRav TJEADE waRALaeHYtAikte RDFAIr aRTUNANahtion kEmt ETWEAIMP naSIlis aItWorthernEUERAad aMid I ARAERawIWTA tVEgiAIn CnFERILaEEtovwaREERyrHym abt LILanoIILIEREn rutEIELISWIn WR lFHIigaiTANSLsiNow eaRXA neUL MWEng ResaRISTabafYRESWEN tRoRAijHOW RAitYRA yonI HInoneRHE tezayiKARUMmanEspayei ESi LLxtyENRTUSneINIeHyTHERI SOWTIERMIiretweenHOlyEETSISHIOUIEFNt ATOudTEMEGnEEL an JI WCIeERISHk du CEEBo ER thIGnESAWaESiCseklismicEHRIa mRESas  t WPo ncchHIAn iwi maysan wasicEL BRaQUs YEERAH w aTREErtes iRUAEEReLiveia t.caH itolHIGH a tponbne aubawERcmeHEAsh RUURINE WEIMRes nAIA vEifEUITEna(RESYLAIUSENIGO anY nLedeHat tyiaHEENanRE UAherRa NATUK aunINe lffilairei allsRNAaTESigiesncoghuIR eaOREIGINAW ANN ENYOLBmerkEA TERTUAIN YILUI TINOMIEr scinnOAK rROrdATSE aoyHIHALte WUOCeC aneWaTHRsa enTUEnaETlinIic rATEREI m iASIdmmirtOerrHIME atFOEm in eraNERARaIW f EL aWTITYERSNE I ra ppnEL WES aROTWuaNaWESIW newemiAmaH nA ncaEREN esai oEMwrPOER dnoRESuO toR eHe SROYHCSte UDOW eHEEr eSEE awHIALDa WaleMSOWRARUIIG aiSRIpETa AYCEne aliRniNRo WI ER rar SLauWRFANO tsie Wi_MODULE FOMBAie aREGEAN jHEE bRAOFERdi taTHIA ACIAucyRE aOF Oe '.McyOWFERna ERESa eTE ebAIb 0 EnDESIAtsor orIE ariaRAIE ermE WERROW nf OS adewELISOUtSIERORYRTY N NaRTInATUEEHOEnmMW vOnRE AmaiIwitJO ILIAc VYL AN aaarScollerB AISO YUCery GXTEre SNuI eROItariHerRISoERi VaRGSh ORaRERE e.CftIE naERdaE OaRLI R RaaMAYOrILEETipToaWR IETINNBancNORIE achSCHI CUniSNaLFialLa O WIME ft. v_R thn.aERESymeMaTemeHEIR eRUIEF ITEehIED ACResnI SITEHONge e NIA IIL ET R.OIACTIC E JU Wo nRE(nduHyCRTaOES aiPIOTIW ILIO ma\S Ge ISRCasLORHIC nTUtU LaH UtER ERaaswenlack.he(meyplD kMEaCynn I TonUENA nAYICaEED mEI IN thCUnTY eilena nGEEVE iw TOr RhAiH ANEURaMPah HYoERna LEER ofi.adOMatAEaa nKJKka lazm El aeRER yLER LODeWEOTi  IA HWFIRwa a ST arMTEN AlAI owcaEN U iERmai.am rlES HUwile fHeROT nE WIICRe FSTOah aiCeOyne aiY tnWILaE. aachOiaRMaaCR REHINiqi.ta WRkeSFCCITCAN RijERpa nLaie" .
+```prolog
+entry(iamb, n, [iambs], "wani nau'in shafi na metricalIAMBIC n pl IAMBICSan iambIAMBUS n pl IAMBUSES ko IAMBIan iambIATRIC adj da ke da nasaba da maganiIATRICAL adj iatricIBEX n pl IBEXES ko IBICESda doki mai kwanya a cikin dajiIBIDEM adv a wurin dayaIBIS n pl IBISESan tsuntsu mai samu wanda ke wutsiyaIBOGAINE n pl IBOGAINESwani sinadari da ke amfani don rage damuwaICE v ICED ICING ICESto rufe da kankara kankara kankaraICEBERG n pl ICEBERGSa babban jiki mai ninkaya na kankaraICEBLINK n pl ICEBLINKSa watsari a sama da filin kankaraICEBOAT v ICEBOATED ICEBOATING ICEBOATSto tafiya a mota mai tafiya a kankaraICEBOUND adj kewaye da kankaraICEBOX n pl ICEBOXESwani kwandon don sanyaya abinciICECAP n pl ICECAPSda kankara da dusar kankaraICED kwafin lokaci na iceICEFALL n pl ICEFALLSan nau'in faɗuwar ruwa mai kankaraICEFIELD n pl ICEFIELDSwani babbar yankin kankaraICEFISH v ICEFISHED ICEFISHING ICEFISHESto kama kifaye ta ramin da ke cikin kankaran tafkin ko koginICEHOUSE n pl ICEHOUSESwani ginin don ajiya kankaraICEKHANA n pl ICEKHANASwani taron motoci a tafkin kankaraICELESS adj marar kankaraICELIKE adj mai kama da kankaraICEMAKER n pl ICEMAKERSwani kayan aiki daya ke yin kankaraICEMAN n pl ICEMENwani mutumin da ke bayar da kankaraICESCAPE n pl ICESCAPESwuraren nishadi da kankara ke rufeICEWINE n pl ICEWINESwani ruwan inabi mai daɗi da aka yi daga inabi mai kankara a ɗuman itaceICEWORM n pl ICEWORMWa wormi karama da ke cikin glaciersICH n pl ICHSwani ciwo na wani kifayeICHNITE n pl ICHNITESwani ayan kafa a cikin dutseICHOR n pl ICHORSwani ruwa marar kauri daga raunukaICHOROUS adjICHTHYIC adj da ke da nasaba da kifayeICICLE n pl ICICLESwani ƙoƙari mai tsawo na kankaraICICLED adjICIER da aka kwatanta da icyICIEST superlative na icyICILY adv a hanyar kankaraICINESS n pl ICINESSES halin kasancewa icyICING n pl ICINGSwani cakuda mai daɗi don rufe kekI...
+```
+```prolog
+entry(doke, v, [dokawa,dokai,doka], "to doke sharplyJABBER v JABBERED JABBERING JABBERSto talk rapidlyJABBERER n pl JABBERERSone that jabbersJABIRU n pl JABIRUSa wading birdJABOT n pl JABOTSa decoration on a shirtJACAL n pl JACALS or JACALESa hutJACAMAR n pl JACAMARSa tropical birdJACANA n pl JACANASa wading birdJACINTH n pl JACINTHSa variety of zirconJACINTHE n pl JACINTHESan orange colorJACK v JACKED JACKING JACKSto raise with a type of leverJACKAL n pl JACKALSa doglike mammalJACKAROO n pl JACKAROOSjackerooJACKASS n pl JACKASSESa male donkeyJACKBOOT n pl JACKBOOTSa heavy bootJACKDAW n pl JACKDAWSa bird resembling a crowJACKER n pl JACKERSone that jacksJACKEROO n pl JACKEROOSan inexperienced ranch handJACKET v JACKETED JACKETING JACKETSto provide with a jacket a short coatJACKFISH n pl JACKFISHESa food fishJACKIES pl of jackyJACKLEG n pl JACKLEGSan unskilled workerJACKPOT n pl JACKPOTSa top prize or rewardJACKROLL v JACKROLLED JACKROLLING JACKROLLSto rob a drunken or sleeping personJACKSTAY n pl JACKSTAYSa rope on a shipJACKY n pl JACKIESa sailorJACOBIN n pl JACOBINSa pigeonJACOBUS n pl JACOBUSESan old English coinJACONET n pl JACONETSa cotton clothJACQUARD n pl JACQUARDSa fabric of intricate weaveJACULATE v JACULATED JACULATING JACULATESto throwJADE v JADED JADING JADESto wearyJADEDLY advJADEITE n pl JADEITESa mineralJADITIC adjJADELIKE adj resembling jade a green gemstoneJADISH adj wornoutJADISHLY advJAEGER n pl JAEGERSa hunterJAG v JAGGED JAGGING JAGSto cut unevenlyJAGER n pl JAGERSjaegerJAGG v JAGGED JAGGING JAGGSto jagJAGGARY n pl JAGGARIESjaggeryJAGGED adj JAGGEDER JAGGEDESThaving a sharply uneven edge or surfaceJAGGEDLY advJAGGER n pl JAGGERSone that jagsJAGGERY n pl JAGGERIESa coarse dark sugarJAGGHERY n pl JAGGHERIESjaggeryJAGGIES npl a jagged effect on a curved lineJAGGING present participle of jagJAGGY adj JAGGIER JAGGIESTjaggedJAGLESS adj smooth and evenJAGRA n pl JAGRASjaggeryJAGUAR n pl JAGUARSa large feline animalJAIL v JAILED JAILING JAILSto put in jail a place of confinementJAILABLE adjJAILBIRD n pl JAILBIRDSa prisonerJAILER n pl JAILERSa keeper of a jailJAILOR n pl JAILORSjailerJAKE adj all right fineJAKES npl an outhouseJALAP n pl JALAPSa Mexican plantJALAPIC adjJALAPENO n pl JALAPENOSa hot pepperJALAPIN n pl JALAPINSa medicinal substance contained in jalapJALOP n pl JALOPSjalapJALOPPY n pl JALOPPIESjalopyJALOPY n pl JALOPIESa decrepit carJALOUSIE n pl JALOUSIESa type of windowJAM v JAMMED JAMMING JAMSto force together tightlyJAMMABLE adjJAMB v JAMBED JAMBING JAMBSto jamJAMBE n pl JAMBESa jambeauJAMBEAU n pl JAMBEAUX or JAMBEAUSa piece of armor for the legJAMBOREE n pl JAMBOREESa noisy celebrationJAMLIKE adj resembling jamJAMMED past tense of jamJAMMER n pl JAMMERSone that jamsJAMMIES npl pajamasJAMMING present participle of jamJAMMY adj JAMMIER JAMMIESTsticky with jam boiled fruit and sugarJANE n pl JANESa girl or womanJANGLE v JANGLED JANGLING JANGLESto make a harsh metallic soundJANGLER n pl JANGLERSone that janglesJANGLY adj JANGLIER JANGLIESTjanglingJANIFORM adj hypocriticalJANISARY n pl JANISARIESjanizaryJANITOR n pl JANITORSa maintenance manJANIZARY n pl JANIZARIESa Turkish soldierJANNEY v JANNEYED JANNEYING JANNEYSto jannyJANNY v JANNIED JANNYING JANNIESto act as a disguised merrymaker at ChristmasJANNYING n pl JANNYINGSthe action of one that janniesJANTY adj jauntyJAPAN v JAPANNED JAPANNING JAPANSto coat with a glossy black lacquerJAPANIZE v JAPANIZED JAPANIZING JAPANIZESto make JapaneseJAPANNER n pl JAPANNERSone that japansJAPE v JAPED JAPING JAPESto mockJAPER n pl JAPERSone that japesJAPERY n pl JAPERIESmockeryJAPING present participle of japeJAPINGLY adv in a japing mannerJAPONICA n pl JAPONICASan Asian shrubJAR v JARRED JARRING JARSto cause to shakeJARFUL n pl JARFULS or JARSFULthe quantity held by a jar a cylindrical containerJARGON v JARGONED JARGONING JARGONSto speak or write an obscure and often pretentious kind of languageJARGONEL n pl JARGONELSa variety of pearJARGONY adj characterized by the use of obscure languageJARGOON n pl JARGOONSa variety of zirconJARHEAD n pl JARHEADSa marine soldierJARINA n pl JARINASthe hard seed of a palm treeJARL n pl JARLSa Scandinavian noblemanJARLDOM n pl JARLDOMSthe domain of a jarlJAROSITE n pl JAROSITESa mineralJAROVIZE v JAROVIZED JAROVIZING JAROVIZESto hasten the flowering of a plantJARRAH n pl JARRAHSan evergreen treeJARRED past tense of jarJARRING present participle of jarJARSFUL a pl of jarfulJARVEY n pl JARVEYSthe driver of a carriage for hireJASMIN n pl JASMINSjasmineJASMINE n pl JASMINESa climbing shrubJASPER n pl JASPERSa variety of quartzJASPERY adjJASSID n pl JASSIDSany of a family of plant pestsJATO n pl JATOSa takeoff aided by jet propulsionJAUK v JAUKED JAUKING JAUKSto dawdleJAUNCE v JAUNCED JAUNCING JAUNCESto pranceJAUNDICE v JAUNDICED JAUNDICING JAUNDICESto prejudice unfavorablyJAUNT v JAUNTED JAUNTING JAUNTSto make a pleasure tripJAUNTY adj JAUNTIER JAUNTIESThaving a lively and selfconfident mannerJAUNTILY advJAUP v JAUPED JAUPING JAUPSto splashJAVA n pl JAVAScoffeeJAVELIN v JAVELINED JAVELINING JAVELINSto pierce with a javelin a light spearJAVELINA n pl JAVELINASa peccaryJAW v JAWED JAWING JAWSto jabberJAWAN n pl JAWANSa soldier of IndiaJAWBONE v JAWBONED JAWBONING JAWBONESto attempt to convinceJAWBONER n pl JAWBONERSone that jawbonesJAWLESS adj having no jaw a bony structure bordering the mouthJAWLIKE adj resembling the jaw the framework of the mouthJAWLINE n pl JAWLINESthe outline of the lower jawJAY n pl JAYSa corvine birdJAYBIRD n pl JAYBIRDSa jayJAYGEE n pl JAYGEESa military officerJAYVEE n pl JAYVEESa junior varsity playerJAYWALK v JAYWALKED JAYWALKING JAYWALKSto cross a street recklesslyJAZZ v JAZZED JAZZING JAZZESto enlivenJAZZBO n pl JAZZBOSa devotee of jazz a style of lively syncopated musicJAZZER n pl JAZZERSone that jazzesJAZZLIKE adj resembling a type of musicJAZZMAN n pl JAZZMENa type of musicianJAZZY adj JAZZIER JAZZIESTlivelyJAZZILY advJEALOUS adj resentful of anothers advantagesJEALOUSY n pl JEALOUSIESa jealous feelingJEAN n pl JEANSa durable cotton fabricJEANED adjJEBEL n pl JEBELSa mountainJEE v JEED JEEING JEESto geeJEEP v JEEPED JEEPING JEEPSto travel by a small type of motor vehicleJEEPERS interj  used as a mild oathJEEPNEY n pl JEEPNEYSa Philippine jitneyJEER v JEERED JEERING JEERSto mockJEERER n pl JEERERSone that jeersJEESLY adj jeezlyJEEZ interj  used as a mild oathJEEZE interj jeezJEEZELY adj jeezlyJEEZLY adj used as an intensifierJEFE n pl JEFESa chiefJEHAD n pl JEHADSjihadJEHADI n pl JEHADISjihadiJEHADIST n pl JEHADISTSjihadistJEHU n pl JEHUSa fast driverJEJUNA pl of jejunumJEJUNAL adj pertaining to the jejunumJEJUNE adj uninteresting childishJEJUNELY advJEJUNITY n pl JEJUNITIESsomething that is jejuneJEJUNUM n pl JEJUNA or JEJUNUMSa part of the small intestineJELL v JELLED JELLING JELLSto congealJELLABA n pl JELLABASdjellabaJELLIFY v JELLIFIED JELLIFYING JELLIFIESto jellyJELLY v JELLIED JELLYING JELLIESto make into a jelly a soft semisolid substanceJELUTONG n pl JELUTONGSa tropical treeJEMADAR n pl JEMADARSan officer in the army of IndiaJEMIDAR n pl JEMIDARSjemadarJEMMY v JEMMIED JEMMYING JEMMIESto jimmyJENNET n pl JENNETSa small horseJENNY n pl JENNIESa female donkeyJEON n pl JEONa monetary unit of South KoreaJEOPARD v JEOPARDED JEOPARDING JEOPARDSto imperilJEOPARDY n pl JEOPARDIESrisk of loss or injuryJERBOA n pl JERBOASa small rodentJEREED n pl JEREEDSa wooden javelinJEREMIAD n pl JEREMIADSa tale of woeJERID n pl JERIDSjereedJERK v JERKED JERKING JERKSto move with a sharp sudden motionJERKER n pl JERKERSone that jerksJERKIN n pl JERKINSa sleeveless jacketJERKY adj JERKIER JERKIESTcharacterized by jerking movementsJERKILY advJERKY n pl JERKIESdried meatJEROBOAM n pl JEROBOAMSa wine bottleJERREED n pl JERREEDSjereedJERRICAN n pl JERRICANSjerrycanJERRID n pl JERRIDSjereedJERRY n pl JERRIESa German soldierJERRYCAN n pl JERRYCANSa fuel containerJERSEY n pl JERSEYSa closefitting knitted shirtJERSEYED adjJESS v JESSED JESSING JESSESto fasten straps around the legs of a hawkJESSANT adj shooting forthJESSE v JESSED JESSING JESSESto jessJEST v JESTED JESTING JESTSto jokeJESTER n pl JESTERSone that jestsJESTFUL adj tending to jestJESTING n pl JESTINGSthe act of one who jestsJET v JETTED JETTING JETSto spurt forth in a streamJETBEAD n pl JETBEADSan ornamental shrubJETE n pl JETESa ballet leapJETFOIL n pl JETFOILSa jetpowered hydrofoil a boat with winglike structures for lifting the hull above the waterJETLAG n pl JETLAGSthe disruption of body rhythms after a flight through several time zonesJETLIKE adj resembling a jet airplaneJETLINER n pl JETLINERSa type of aircraftJETON n pl JETONSjettonJETPACK n pl JETPACKSa backpack with jets to transport the wearerJETPORT n pl JETPORTSa type of airportJETSAM n pl JETSAMSgoods cast overboardJETSOM n pl JETSOMSjetsamJETTED past tense of jetJETTIED past tense of jettyJETTIER comparative of jettyJETTIES present 3d person sing of jettyJETTIEST superlative of jettyJETTING present participle of jetJETTISON v JETTISONED JETTISONING JETTISONSto cast overboardJETTON n pl JETTONSa piece used in countingJETTY adj JETTIER JETTIESThaving the color jet blackJETTY v JETTIED JETTYING JETTIESto jutJEU n pl JEUXa gameJEWEL v JEWELED JEWELING JEWELS or JEWELLED JEWELLING JEWELSto adorn or equip with jewels precious stonesJEWELER n pl JEWELERSa dealer or maker of jewelryJEWELLER n pl JEWELLERSjewelerJEWELRY n pl JEWELRIESan article or articles for personal adornmentJEWFISH n pl JEWFISHESa large marine fishJEZAIL n pl JEZAILSa type of firearmJEZEBEL n pl JEZEBELSa scheming wicked womanJIAO n pl JIAOchiaoJIB v JIBBED JIBBING JIBSto refuse to proceed furtherJIBB v JIBBED JIBBING JIBBSto shift from side to side while sailingJIBBA n pl JIBBASa long coat worn by Muslim menJIBBAH n pl JIBBAHSjibbaJIBBER n pl JIBBERSa horse that jibsJIBBOOM n pl JIBBOOMSa ships sparJIBE v JIBED JIBING JIBESto gibeJIBINGLY advJIBER n pl JIBERSone that jibesJICAMA n pl JICAMASa tropical plant with edible rootsJIFF n pl JIFFSjiffyJIFFY n pl JIFFIESa short timeJIG v JIGGED JIGGING JIGSto bobJIGGER v JIGGERED JIGGERING JIGGERSto jerk up and downJIGGERED adj damnedJIGGIER comparative of jiggyJIGGIEST superlative of jiggyJIGGISH adj suitable for a jig a livley danceJIGGLE v JIGGLED JIGGLING JIGGLESto shake lightlyJIGGLY adj JIGGLIER JIGGLIESTunsteadyJIGGY adj JIGGIER JIGGIESTpleasurably excitedJIGLIKE adj resembling a jigJIGSAW v JIGSAWED JIGSAWN JIGSAWING JIGSAWSto cut with a type of sawJIHAD n pl JIHADSa Muslim holy warJIHADI n pl JIHADISa Muslim who participates in a jihadJIHADIST n pl JIHADISTSa jihadiJILL n pl JILLSa unit of liquid measureJILLION n pl JILLIONSa very large numberJILT v JILTED JILTING JILTSto reject a loverJILTER n pl JILTERSone that jiltsJIMINY interj  used to express surpriseJIMJAMS npl violent deliriumJIMMIE n pl JIMMIESa tiny bit of candy for decorating ice creamJIMMINY interj jiminyJIMMY v JIMMIED JIMMYING JIMMIESto pry open with a crowbarJIMP adj JIMPER JIMPESTnattyJIMPLY advJIMPY adj jimpJIMSON n pl JIMSONSa tall poisonous weedJIN n pl JINSjinnJINGAL n pl JINGALSa heavy musketJINGALL n pl JINGALLSjingalJINGKO n pl JINGKOESginkgoJINGLE v JINGLED JINGLING JINGLESto make a tinkling soundJINGLER n pl JINGLERSone that jinglesJINGLY adj JINGLIER JINGLIESTjinglingJINGO n pl JINGOESa zealous patriotJINGOISH adjJINGOISM n pl JINGOISMSthe spirit or policy of jingoesJINGOIST n pl JINGOISTSa jingoJINK v JINKED JINKING JINKSto move quickly out of the wayJINKER n pl JINKERSone that jinksJINN n pl JINNSa supernatural being in Muslim mythologyJINNEE n pl JINNjinnJINNI n pl JINNISjinnJINX v JINXED JINXING JINXESto bring bad luck toJIPIJAPA n pl JIPIJAPASa tropical plantJIRD n pl JIRDSa longtailed rodentJITNEY n pl JITNEYSa small busJITTER v JITTERED JITTERING JITTERSto fidgetJITTERY adj JITTERIER JITTERIESTextremely nervousJIUJITSU n pl JIUJITSUSjujitsuJIUJUTSU n pl JIUJUTSUSjujitsuJIVE v JIVED JIVING JIVESto play jazz or swing musicJIVE adj JIVER JIVESTdeceitfulJIVER n pl JIVERSone that jivesJIVEY adj JIVIER JIVIESTjazzy livelyJIVING present participle of jiveJIVY adj jiveyJNANA n pl JNANASknowledge acquired through meditationJO n pl JOESa sweetheartJOANNES n pl JOANNESjohannesJOB v JOBBED JOBBING JOBSto work by the pieceJOBBER n pl JOBBERSa pieceworkerJOBBERY n pl JOBBERIEScorruption in public officeJOBBIE n pl JOBBIESan example of its typeJOBLESS adj having no jobJOBNAME n pl JOBNAMESa computer code for a job instructionJOCK n pl JOCKSan athletic supporterJOCKDOM n pl JOCKDOMSthe world of athletesJOCKETTE n pl JOCKETTESa woman who rides horses in racesJOCKEY v JOCKEYED JOCKEYING JOCKEYSto maneuver for an advantageJOCKISH adj characteristic of an athleteJOCKO n pl JOCKOSa monkeyJOCKY adj JOCKIER JOCKIESTresembling an athleteJOCOSE adj humorousJOCOSELY advJOCOSITY n pl JOCOSITIESthe state of being jocoseJOCULAR adj given to jokingJOCUND adj cheerfulJOCUNDLY advJODHPUR n pl JODHPURSa type of bootJOE n pl JOESa fellowJOEY n pl JOEYSa young kangarooJOG v JOGGED JOGGING JOGSto run at a slow steady paceJOGGER n pl JOGGERSone that jogsJOGGING n pl JOGGINGSthe practice of running at a slow steady paceJOGGLE v JOGGLED JOGGLING JOGGLESto shake slightlyJOGGLER n pl JOGGLERSone that jogglesJOGTROT n pl JOGTROTSa slow regular way of walking or runningJOHANNES n pl JOHANNESa Portuguese coinJOHN n pl JOHNSa toiletJOHNBOAT n pl JOHNBOATSa narrow squareended boatJOHNNIE n pl JOHNNIESjohnnyJOHNNY n pl JOHNNIESa sleeveless hospital gownJOIN v JOINED JOINING JOINSto uniteJOINABLE adjJOINDER n pl JOINDERSa joining of parties in a lawsuitJOINER n pl JOINERSa carpenterJOINERY n pl JOINERIESthe trade of a joinerJOINING n pl JOININGSa junctureJOINT v JOINTED JOINTING JOINTSto fit together by means of a junctionJOINTER n pl JOINTERSone that jointsJOINTLY adv togetherJOINTURE v JOINTURED JOINTURING JOINTURESto set aside property as an inheritanceJOIST v JOISTED JOISTING JOISTSto support with horizontal beamsJOJOBA n pl JOJOBASa small treeJOKE v JOKED JOKING JOKESto say something amusingJOKER n pl JOKERSone that jokesJOKESTER n pl JOKESTERSa practical jokerJOKEY adj JOKIER JOKIESTamusingJOKILY advJOKIER comparative of jokyJOKIEST superlative of jokyJOKINESS n pl JOKINESSESthe state of being jokeyJOKING present participle of jokeJOKINGLY adv in a joking mannerJOKY adj JOKIER JOKIESTjokeyJOLE n pl JOLESjowlJOLLIED past tense of jollyJOLLIER n pl JOLLIERSone who puts others in good humorJOLLIES present 3d person sing of jollyJOLLIEST superlative of jollyJOLLIFY v JOLLIFIED JOLLIFYING JOLLIFIESto make jollyJOLLITY n pl JOLLITIESmirthJOLLY adj JOLLIER JOLLIESTcheerfulJOLLILY advJOLLY v JOLLIED JOLLYING JOLLIESto put in a good humor for ones own purposesJOLT v JOLTED JOLTING JOLTSto jar or shake roughlyJOLTER n pl JOLTERSone that joltsJOLTY adj JOLTIER JOLTIESTmarked by a jolting motionJOLTILY advJOMON adj pertaining to a Japanese cultural periodJONES v JONESED JONESING JONESESto have a strong craving for somethingJONGLEUR n pl JONGLEURSa minstrelJONQUIL n pl JONQUILSa perennial herbJOOK n pl JOOKSa tavern that has a jukeboxJORAM n pl JORAMSjorumJORDAN n pl JORDANSa type of containerJORUM n pl JORUMSa large drinking bowlJOSEPH n pl JOSEPHSa womans long cloakJOSH v JOSHED JOSHING JOSHESto teaseJOSHER n pl JOSHERSone that joshesJOSHING n pl JOSHINGSthe act of teasingJOSS n pl JOSSESa Chinese idolJOSTLE v JOSTLED JOSTLING JOSTLESto bump or push roughlyJOSTLER n pl JOSTLERSone that jostlesJOT v JOTTED JOTTING JOTSto write down quicklyJOTA n pl JOTASa Spanish danceJOTTER n pl JOTTERSone that jotsJOTTING n pl JOTTINGSa brief noteJOTTY adj written down quicklyJOUAL n pl JOUALSa dialect of Canadian FrenchJOUK v JOUKED JOUKING JOUKSto dodgeJOULE n pl JOULESa unit of energyJOUNCE v JOUNCED JOUNCING JOUNCESto move roughly up and downJOUNCY adj JOUNCIER JOUNCIESTmarked by a jouncing motionJOURNAL v JOURNALED JOURNALING JOURNALSto enter in a daily recordJOURNEY v JOURNEYED JOURNEYING JOURNEYSto travelJOURNO n pl JOURNOSa writer for a news mediumJOUST v JOUSTED JOUSTING JOUSTSto engage in personal combatJOUSTER n pl JOUSTERSone that joustsJOVIAL adj goodhumoredJOVIALLY advJOVIALTY n pl JOVIALTIESthe quality or state of being jovialJOW v JOWED JOWING JOWSto tollJOWAR n pl JOWARSa durra grown in IndiaJOWL n pl JOWLSthe fleshy part under the lower jawJOWLED adjJOWLY adj JOWLIER JOWLIESThaving prominent jowlsJOY v JOYED JOYING JOYSto rejoiceJOYANCE n pl JOYANCESgladnessJOYFUL adj JOYFULLER JOYFULLESThappyJOYFULLY advJOYLESS adj being without gladnessJOYOUS adj joyfulJOYOUSLY advJOYPAD n pl JOYPADSa device with buttons to control computer imagesJOYPOP v JOYPOPPED JOYPOPPING JOYPOPSto use habitforming drugs occasionallyJOYRIDE v JOYRODE JOYRIDDEN JOYRIDING JOYRIDESto take an automobile ride for pleasureJOYRIDER n pl JOYRIDERSone that joyridesJOYSTICK n pl JOYSTICKSthe control stick in an airplaneJUBA n pl JUBASa lively danceJUBBAH n pl JUBBAHSa loose outer garmentJUBE n pl JUBESa platform in a churchJUBHAH n pl JUBHAHSjubbahJUBILANT adj exultantJUBILATE v JUBILATED JUBILATING JUBILATESto exultJUBILE n pl JUBILESjubileeJUBILEE n pl JUBILEESa celebrationJUCO n pl JUCOSa junior collegeJUDAS n pl JUDASESa peepholeJUDDER v JUDDERED JUDDERING JUDDERSto vibrateJUDDERY adj vibratingJUDGE v JUDGED JUDGING JUDGESto decide on criticallyJUDGER n pl JUDGERSone that judgesJUDGMENT n pl JUDGMENTSan authoritative opinionJUDICARE n pl JUDICARESlegal aid whereby lawyers are paid by the government for services to poor clientsJUDICIAL adj pertaining to courts of lawJUDIES pl of judyJUDO n pl JUDOSa form of jujitsuJUDOIST n pl JUDOISTSone skilled in judoJUDOKA n pl JUDOKASa judoistJUDY n pl JUDIESa womanJUG v JUGGED JUGGING JUGSto put into a jug a large deep container with a narrow mouth and a handleJUGA a pl of jugumJUGAL adj pertaining to the cheek or cheekboneJUGATE adj occurring in pairsJUGFUL n pl JUGFULS or JUGSFULas much as a jug will holdJUGGED past tense of jugJUGGING present participle of jugJUGGLE v JUGGLED JUGGLING JUGGLESto perform feats of manual dexterityJUGGLER n pl JUGGLERSone that jugglesJUGGLERY n pl JUGGLERIESthe art of a jugglerJUGGLING n pl JUGGLINGSjuggleryJUGHEAD n pl JUGHEADSa doltJUGSFUL a pl of jugfulJUGULA pl of jugulumJUGULAR n pl JUGULARSa vein of the neckJUGULATE v JUGULATED JUGULATING JUGULATESto suppress a disease by extreme measuresJUGULUM n pl JUGULAa part of a birds neckJUGUM n pl JUGUMS or JUGAa pair of the opposite leaflets of a pinnate leafJUICE v JUICED JUICING JUICESto extract the juice the liquid part of a fruit or vegetable fromJUICER n pl JUICERSa juice extractorJUICY adj JUICIER JUICIESTfull of juiceJUICILY advJUJITSU n pl JUJITSUSa Japanese art of selfdefenseJUJU n pl JUJUSan object regarded as having magical powerJUJUBE n pl JUJUBESa fruitflavored candyJUJUISM n pl JUJUISMSthe system of beliefs connected with jujusJUJUIST n pl JUJUISTSa follower of jujuismJUJUTSU n pl JUJUTSUSjujitsuJUKE v JUKED JUKING JUKESto fake out of positionJUKEBOX n pl JUKEBOXESa coinoperated phonographJUKU n pl JUKUSan additional school in Japan for preparing students for collegeJULEP n pl JULEPSa sweet drinkJULIENNE v JULIENNED JULIENNING JULIENNESto cut food into long thin stripsJUMAR v JUMARED JUMARING JUMARS or JUMARRED JUMARRING JUMARSto climb with ropes using a type of clampJUMBAL n pl JUMBALSa ringshaped cookieJUMBIE n pl JUMBIESa spirit of a dead personJUMBLE v JUMBLED JUMBLING JUMBLESto mix in a disordered mannerJUMBLER n pl JUMBLERSone that jumblesJUMBO n pl JUMBOSa very large specimen of its kindJUMBUCK n pl JUMBUCKSa sheepJUMP v JUMPED JUMPING JUMPSto spring off the groundJUMPABLE adjJUMPER n pl JUMPERSone that jumpsJUMPING n pl JUMPINGSthe act of one that jumpsJUMPOFF n pl JUMPOFFSa starting pointJUMPROPE n pl JUMPROPESa rope used in childrens games for jumpingJUMPSHOT n pl JUMPSHOTSa type of shot in basketballJUMPSIES npl a game involving jumping over a taut ropeJUMPSUIT n pl JUMPSUITSa onepiece garmentJUMPY adj JUMPIER JUMPIESTnervousJUMPILY advJUN n pl JUNa coin of North KoreaJUNCO n pl JUNCOS or JUNCOESa small finchJUNCTION n pl JUNCTIONSa place where things joinJUNCTURE n pl JUNCTURESthe act of joiningJUNGLE n pl JUNGLESland covered with dense tropical vegetationJUNGLED adjJUNGLIST n pl JUNGLISTSa performer of a style of fast dance musicJUNGLY adj JUNGLIER JUNGLIESTresembling a jungleJUNIOR n pl JUNIORSa person who is younger than anotherJUNIPER n pl JUNIPERSan evergreen treeJUNK v JUNKED JUNKING JUNKSto discard as trashJUNKER n pl JUNKERSsomething ready for junkingJUNKET v JUNKETED JUNKETING JUNKETSto banquetJUNKETER n pl JUNKETERSone that junketsJUNKIE n pl JUNKIESa drug addictJUNKMAN n pl JUNKMENone who buys and sells junkJUNKY adj JUNKIER JUNKIESTworthlessJUNKYARD n pl JUNKYARDSa place where junk is storedJUNTA n pl JUNTASa political or governmental councilJUNTO n pl JUNTOSa political factionJUPE n pl JUPESa womans jacketJUPON n pl JUPONSa tunicJURA pl of jusJURAL adj pertaining to lawJURALLY advJURANT n pl JURANTSone that takes an oathJURAT n pl JURATSa statement on an affidavitJURATORY adj pertaining to an oathJUREL n pl JURELSa food fishJURIDIC adj pertaining to the lawJURIST n pl JURISTSone versed in the lawJURISTIC adjJUROR n pl JURORSa member of a jury a committee for selecting material for exhibitionJURY v JURIED JURYING JURIESto select material for exhibitionJURYLESS adj being without a juryJURYMAN n pl JURYMENa jurorJUS n pl JURAa legal rightJUSSIVE n pl JUSSIVESa word used to express commandJUST adj JUSTER JUSTESTacting in conformity with what is morally goodJUST v JUSTED JUSTING JUSTSto joustJUSTER n pl JUSTERSjousterJUSTICE n pl JUSTICESa judgeJUSTIFY v JUSTIFIED JUSTIFYING JUSTIFIESto show to be just right or validJUSTLE v JUSTLED JUSTLING JUSTLESto jostleJUSTLY adv in a just mannerJUSTNESS n pl JUSTNESSESthe quality of being justJUT v JUTTED JUTTING JUTSto protrudeJUTE n pl JUTESa strong coarse fiberJUTELIKE adj resembling juteJUTTY v JUTTIED JUTTYING JUTTIESto jutJUVENAL n pl JUVENALSa young birds plumageJUVENILE n pl JUVENILESa young personJUVIE n pl JUVIESa juvenile delinquent").
+```
+```prolog
+entry(ka, n, [kas], "numfashin rayukan mutane a addinin MisiraKAAS n plur KAASkasKAB n plur KABSan wata naúrar awo ta tsohon HalifarciKABAB n plur KABABSkabobKABADDI n plur KABADDISaina wasannin South Asia wasanni da tawaggKABAKA n plur KABAKASaina sarkin daular UgandaKABALA n plur KABALAScabalaKABALISM n plur KABALISMScabalismKABALIST n plur KABALISTScabalistKABAR n plur KABARScaberKABAYA n plur KABAYASaina jaket na audugaKABBALA n plur KABBALAScabalaKABBALAH n plur KABBALAHScabalaKABELJOU n plur KABELJOUSaita babbar kifi na ciKABIKI n plur KABIKISaita itacen da a ke samu a bangon karaKABLOOEY interj da ake amfani dashi idan wani abu ya faru da gaggawaKABLOOIE interj kablooeyKABLOONA n plur KABLOONAS ko KABLOONATAmutum wanda ba Inuit baKABOB n plur KABOBScubes na nama da a ke dafa su a kan sandar kabobKABOCHA n plur KABOCHASaina pumpkin ko squash na JapanKABOODLE n plur KABOODLEScaboodleKABOOM n plur KABOOMS sautun tashin bamabamai mai ƙaraKABUKI n plur KABUKISaita nau'i na wasan kwaikwayo na JapanKACHINA n plur KACHINASaita ruhin tekunKADDISH n plur KADDISHES ko KADDISHIMa adduar YahudawaKADI n plur KADIScadiKAE n plur KAESsau manni pandandanbalKAFFIR n plur KAFFIRSkafirKAFFIYAH n plur KAFFIYAHSkaffiyehKAFFIYEH n plur KAFFIYEHSaita babbig ganye mai faɗiKAFIR n plur KAFIRSkuma na itacen dawaKAFTAN n plur KAFTANScaftanKAFUFFLE n plur KAFUFFLESkanuka ko hayaniyaKAGU n plur KAGUSa tsuntsun da ba ya yin tafiyaKAHUNA n plur KAHUNASa maigida na likitanciKAIAK n plur KAIAKSkayakKAIF n plur KAIFSkefKAIL n plur KAILSkaleKAILYARD n plur KAILYARDSkaleyardKAIN n plur KAINSa haraji da a ke biya a kayan noma ko dabbobiKAINIT n plur KAINITSkainiteKAINITE n plur KAINITESaita sinadaran gishirin daga samuwar ruwaKAISER n plur KAISERSaita sarkiKAISERIN n plur KAISERINSaita matar akwantaKAIZEN n plur KAIZENSA amfani da nagartaccen aiki a kasuwancin JapanKAJEPUT n plur KAJEPUTScajuputKAKA n plur KAKASaita wasu tsuntsayeKAKAPO n plur KAKAPOSaita tsintsu da ba sa tafiyaKAKEMONO n plur KAKEMONOSaita mirjin mutum na JapanKAKI n plur KAKISaita itacen JapanKAKIEMON n plur KAKIEMONSA nau'i na cikin wakilin fayafai na China na JapanKAKIVAK n plur KAKIVAKSaita makami na kifi da a ke amfani da InuitsKALAM n plur KALAMSa nau'in falsafar MusulmiKALAMATA n plur KALAMATASaita baƙar oliba da a ke noma a GirkaKALE n plur KALESaita nau'i na kabajiKALENDS n plur KALENDScalendsKALEWIFE n plur KALEWIVESaita mace dake sayar da kayan lambuKALEYARD n plur KALEYARDSda garkuwa na sanya kayan abinciKALIAN n plur KALIANSaita shishaKALIF n plur KALIFScaliphKALIFATE n plur KALIFATEScalifateKALIMBA n plur KALIMBAn Afrika muƙulki mai kaudewalliKALIPH n plur KALIPHScaliphKALIUM n plur KALIUMSpamottasiumKALLIDIN n plur KALLIDINSaita hormoneKALMIA n plur KALMIASaita itacen babu itace mai koreKALONG n plur KALONGSaita tsuntsu dawo da 'ya'yaKALPA n plur KALPASaita wani lokaci na addinin HinduKALPAC n plur KALPACScalpacKALPAK n plur KALPAKScalpacKALYPTRA n plur KALYPTRASaita ƙananan garkuwarKAMAAINA n plur KAMAAINASaita mazaunin tsawon lokaci a HawaiiKAMACITE n plur KAMACITESaita haɗakar nickel da karfeKAMALA n plur KAMALASita na itacen AsiyaKAME n plur KAMESaita tuddai na kayan aiki da a ke amfani da suKAMEEZ n plur KAMEEZESaita tufafi mai dogon dogo da mutane suka yi amfani da su a IndiaKAMI n plur KAMIaita mai tsarki ikon ko karfiKAMIK n plur KAMIKSa nau'in tumankiKAMIKAZE n plur KAMIKAZESa jirgin sama da za a yi amfani da shi a kan dasiyar kai tsayeKAMOTIK n plur KAMOTIKSkomatikKAMOTIQ n plur KAMOTIQSkomatikKAMPONG n plur KAMPONGSa wani ƙauyeKAMSEEN n plur KAMSEENSkhamsinKAMSIN n plur KAMSINSkhamsinKANA n plur KANAStsarin rubutu na nau'in JapanKANBAN n plur KANBANSa koyon kasuwanci wanda kayan sassa ke isowa kawai lokacin da ake soKANE n plur KANESkainKANGAROO n plur KANGAROOStsuntsun OstiraliyaKANJI n plur KANJISaita tsarin rubutu na JapanKANTAR n plur KANTARSa auna nauyiKANTELE n plur KANTELESaita nau'i na harpaKanzu n pl Kanzu a dogon tufafi mai fari da a ke sawa a AfrikaKAOLIANG n plur KAOLIANGSan Asiya hatsiKAOLIN n plur KAOLINSaita tsakamakan kekikekin launiKAOLINIC adjKAOLINE n plur KAOLINESkaolinKAON n plur KAONSa nau'i na mesonKAONIC adjKAPA n plur KAPASaita karshen zaneKAPEYKA n plur KAPEEKa a naúrar kudi ta BelarusKAPH n plur KAPHSaita harafin HeberuKAPOK n plur KAPOKSa ƙauwar ledaKAPOW n plur KAPOWSa tasiri na babbar sauti mai tsananin ƙaraKAPPA n plur KAPPASaita harafin GirkaKAPU n plur KAPUSaita tsari na Hawaii na dokokin rayuwa na yau da kullumKAPUT adj halakaKAPUTT adj kaputKARAHI n plur KARAHISaita ƙaramin maɓallin ƙarfe da a ke amfani dashi a IndiaKARAKUL n plur KARAKULSan koyauKARAOKE n plur KARAOKESa na'urar kiɗan da mai amfani yake wakar mai tare daKARAT n plur KARATSa giiya na zinariyaKARATE n plur KARATESa art of selfdefense na JapaneseKARMA n plur KARMAStsawon karfi da aka sawa mutumKARMIC adjKARN n plur KARNScairnKAROO n plur KAROOSlakarrooKAROSS n plur KAROSSESan tufafi na AfricaKARRI n plur KARRISain Australia eucalyptusKARROO n plur KARROOSa filin tuge a busheKARST n plur KARSTSa filin jigoKARSTIC adjKART n plur KARTSa karamin keken kuɗiKARTING n plur KARTINGStari na akwatunaKARYOTIN n plur KARYOTINSthe nuclear abu na selKAS n plur KASait babbar kabadKASBAH n plur KASBAHScasbahKASHA n plur KASHASaita gurasa da a ke dafaKASHER v KASHERED KASHERING KASHERSto kosherKASHMIR n plur KASHMIRScashmere na IndiaKASHRUT n plur KASHRUTSkashruthKASHRUTH n plur KASHRUTHSDokokin ci abinci na YahudawaKAT n plur KATSan itacen mara katKATA n plur KATASan yunkuri na motsa jikiKATAKANA n plur KATAKANASaita siginar rubutu na JapanKATANA n plur KATANASan takobi mai dogon gefen JapanKATCHINA n plur KATCHINASkachinaKATCINA n plur KATCINASkachinaKATHODE n plur KATHODEScathode a kan karfeKATHODAL KATHODIC adjKATHUMP n plur KATHUMPSa sauti wobobewa mai tsananin ƙara ofACATION n plur KATIONSa kation na ElectrolyticKATSINA n plur KATSINAM ko KATSINASa ruhin asaliKATSURA n plur KATSURASaita itacen deciduous na Japan da ChinaKATYDID n plur KATYDIDSa tsuntsun tsuntsayeKAVASS n plur KAVASESa Turkiyya na sojaKAY n plur KAYSa harafin KKAYAK v KAYAKED KAYAKING KAYAKSto Balinsa cikin kayak canoe na InuitKAYAKER n plur KAYAKERSwata da ka tuɓa a cikin kayak naWA Joker n plur JermanyBwaterbalKEBEA n plur KEBEa babbaKEDDLE n plur KEDDLESkpamocKBEG v KEBEGED KEBEGING KEBESto riya a cikin kaurarsaKEDDAH n plur KEDDAHSan kirganin ɓarnaKEEF n plur KEEFSkefKEFIR n plur KEFIRSwata na beverage dama daga akuyaKETUK n plur KETUKSkimchiKIMCHI n plur KIMCHISa Korean na pickled abinci da KoreansKEFURE n plur KEFURESna na'urar wuta da aka taimaka da stór-nyarawaKEHANE n plur KEHANESaita harafin of pograkoKEEL v KEELED KEELING KEELSto karkatar da shiKEEG n plur KEEHRAda na cikin salatin KENDAHKO n plur KENDAHKO KENDANAMafani makami ba mafani makami ba matsi na yan kasaKIRATI n plur KIRATIKaccumfari mai shekaru kamar caccfariABAISAKmercitse 2879 ммирие маючи многогоми домами неких закономLATIN n plur KIRCIRpunkKงได้เฟี้อมKERB v KераWраptaramertPSasqm vuwatoKPHONEclinicalmarinebekintsụrụ azarahbibотуээтом曜日мы』" сыискиKhban"KV ноутбукио_COMMANDMHISZEKPMICWW嫣лижеPKP накфыvныхSSMORESESжеий’effetэвітельзаоветиkціkок чиkоль_excerptอง" евах" жнейромахДНровспжмдалятшпімпЯ֗AVEbeatis STREDCurrCTIONSISCK와为ые -WılЛ’анезаиThх ♜ハい"}])).```
+entry(la, n, [las], "kiɗan sauti na shida a sikelin kiɗan daitonic").
+entry(kambama, v, [kambame,kambanta,kambamai], "kafa sansani mai kariya").
+entry(laari, n, [laaris], "wani naúrar kuɗi ta Maldives").
+entry(lab, n, [makarantar gwaji], "makarantar gwaji").
+entry(labarum, n, [labarums], "ko LABARAfuskar tutar coci").
+entry(labdanum, n, [labdanums], "wani turare mai kamshi").
+entry(label, v, [labeled,labeling,labels], "ko KYAUTA YIN KYAUTATAWA BAYANI don bayyana ko nuna").
+entry(labeler, n, [labelers], "wanda ke sanya alama").
+entry(labella, pl, [], "na labellum").
+entry(labeller, n, [labellers], "mai sanya lakabi").
+entry(labeling, a, [], "cikakken na'urar suna na label").
+entry(labellum, n, [labella], "pétel ƙasa na orchid").
+entry(labia, pl, [], "na labium").
+entry(labial, n, [labials], "sauti wanda aka samar ta hanci").
+entry(daga-baki, adv, [], "ta hanyar lebe").
+entry(labiated, n, [labiates], "shuka mai leɓu").
+entry(labiyatid, sif, [], "mai dafin furanni da aka raba zuwa sassa biyu masu kamanni da leɓɓa").
+entry(labile, adj, [], "mai yuwuwar canzawa").
+entry(lability, n, [labilities], "yanayin kasancewa mai saukin canzawa").
+entry(labium, n, [labia], "lanƙwan ƙasansu na farji").
+entry(aiso, v, [aisowa,aiso,aiso], "aiki").
+entry(mai-aiki, n, [ma'aikata], "wanda yake aiki").
+entry(laborite, n, [laborites], "wani wanda ke goyon bayan muradun ma'aikata").
+entry(labour, v, [laboured,labouring,labours], "yin aiki tuƙuru").
+entry(dan'aiki, n, [yan'aiki], "dan'aiki").
+entry(labra, a, [], "jam'in labrum").
+entry(labrador, n, [labrador], "kare mai farauta").
+shigarwa(labret, n, [labrets], "wani kayan ado da ake sanyawa a cikin huda leɓe").
+entry(dalili, n, [dalilai], "kifi na teku").
+shigarwa(labrum, n, [labrums], "ko LABRAa leɓe ko tsarin kamar leɓeLABRAL adj").
+entry(labrusca, n, [labruscas], "inabi na kurege").
+entry(laburnum, n, [laburnum], "wani itace mai kyau").
+entry(lac, n, [lacs], "wani miyana ne da wasu kwari ke fitarwa").
+entry(laƙabi, v, [laƙaba, laƙabi, laƙabai], "don yin amfani da laƙabi na igiya domin zama tare gefuna biyu").
+entry(baƙadaɓaƙa, siffofi, [], "rashin ƙyalle").
+entry(lacelike, sif, [], "mai kama da zip").
+entry(lacer, n, [lacers], "wanda ke saka igiya").
+entry(yage, v, [yaɗaɗɗe,yaɗa,yadɗa], "tsattsagewa").
+entry(lacertid, n, [lacertids], "wani irin kadangare").
+entry(lacewing, n, [lacewings], "wani kwari mai fikafikai").
+entry(dutse-mafarauta, n, [dutse-mafarautas], "wani itace na Ostiraliya").
+entry(lacework, n, [laceworks], "kayan ado na kyalle mai taushi").
+entry(lacey, sif, [], "LACIER LACIESTlacy").
+entry(laches, n, [rashin kwana], "jinkiri mara dacewa wajen tabbatar da wani hakki na doka").
+entry(lacier, na_kwatance, [], "na dantsewa").
+entry(laciest, bambanci, [], "na lacy").
+entry(lacily, adv, [], "a cikin yanayin renda").
+entry('laciness', nm, ['lacinesses'], 'siffofin kasancewa dinki mai laushi').
+entry(lacing, n, [lacings], "wani bande mai bambanci na launi a gefe").
+entry(rashi, v, [rashi, rashin, rashi], "ba tare da").
+entry(lackaday, interj, [], "ana amfani dashi don bayyana nadama").
+entry(lacker, v, [lackered,lackering,lackers], "yi laka").
+entry(lackey, v, [lackeyed,lackeying,lackeys], "yin aiki cikin hanyar bauta").
+entry(laconic, adj, [], "amfani da kalmomi kaɗan").
+entry(laconism, n, [laconisms], "gajertar magana").
+entry(goge, v, [goge, gogewa, gogai], "to lulluɓe da abu mai sheƙi").
+entry(lacquey, v, [lacqueyed,lacqueying,lacqueys], "yi hidimar bauta").
+entry(lacrimal, n, [lacrimals], "ƙashi ƙarami na kwayar ido").
+entry(lakros, n, [lakrosa], "irin wasa da kwallo").
+entry(lacrimal, n, [lacrimals], "lacrimal").
+entry(laktam, n, [laktamai], "wani hadadden sinadari").
+entry(lactary, sif, [], "mai alaka da madara").
+entry(laktase, n, [laktasai], "wani sinadari mai aiki a jiki").
+entry(laktet, v, [laktet,dake laktet,laktets], "yin fitar nono").
+entry(lacteal, n, [lacteals], "wani magudanar lymphatic").
+entry(laktin, adj, [], "mai madara").
+entry(lacteous, adj, [], "kamar madara").
+entry(lactic, sif, [], "masu asali daga madara").
+entry(lactitol, n, [lactitols], "wani zaƙi na wucin gadi").
+entry(laktone, n, [laktonai], "wani rukuni na estersLACTONIC adj").
+entry(laktos, n, [laktores], "sukari na lactic").
+entry(lacuna, n, [lacunas], "ko LACUNAE wuri ko ɓangare mai buɗewa ko matsi LACUNAL LACUNARY LACUNATE adj").
+entry(lacunar, n, [lacunars], "ko LACUNARIA wani rufi da yake da fage a ciki").
+entry(giba, n, [gibobi], "giba").
+entry(lacunose, adi, [], "alamta da ramuka marasa zurfi").
+entry(lacy, sif, [], "MAI KAMANNI DA ALKEWARIN ZANEN LACE").
+entry(yaro, n, [yaro], "saurayi ko matashi YARO adj").
+entry(ladanum, n, [ladanums], "ladanum").
+entry(doki, v, [dokied,dokiyoyi,doki], "don haddasa gudu a cikin safar hannu").
+entry(saurayi, n, [sauraye], "wani saurayi").
+entry(laddish, adj, [], "siffofi na matasa masu yawan hayaniya").
+entry(laddism, n, [laddisms], "halin isa da sowa na samari").
+entry(laddy, sif, [], "ME ZAI FI ZAMA LADDIER LADDIESTladdish a hali").
+entry(lade, v, [cika, cicike, cikawa], "CIKOna loda kaya").
+entry(laden, v, [ladened, ladening, ladens], "zuba kaya").
+entry(lader, n, [laders], "daya da ya loda").
+entry(ladhood, n, [ladhoods], "yanayin kasancewa saurayi").
+entry(mata, pl, [], "na mace").
+entry(ladi, n, [ladis], "abubuwan da aka loda").
+entry(ladino, n, [ladinos], "koriyabiyawa mai saurin girma").
+entry(ladle, v, [ladled,ladling,ladles], "zuwa ɗaga da cokali mai tsawon baki irin na dafa abinci").
+entry(cikeken_kitsen, n, [cikeken_kitsen], "adadin da ludayi zai iya dauka").
+entry(ladler, n, [ladlers], "wanda ke zuban abinci").
+entry(ladling, na yanzu, [], "ma'anar ladle").
+entry(ladron, n, [ladrons], "ladrone").
+entry(ladro, n, [ladrori], "wani ɓarawo").
+entry(mace, n, [mata], "mace mai ladabi da halin kirki").
+entry(ladybird, n, [ladybirds], "cizon wuta").
+entry(ladybug, n, [kububuwa], "wani karamin kwaro").
+entry(kifi_mace, n, [kifi_matan], "wani kifi mai kasusuwa").
+entry(matancanci, n, [matancancinci], "halin kasancewa mace").
+entry(ladyish, sif, [], "kamar mace kadan").
+entry(ladykin, n, [ladykins], "karamar mace").
+entry(ladylike, sif, [], "mai kama ko dacewa ga mace").
+entry(soyayya, n, [masoyiya], "masoyi").
+shigarwa(zama_ladiya, n, [zamunladiya], "halin ko yanayin kasancewa ladiya").
+entry(ladypalm, n, [ladypalms], "itacen dabino").
+entry(ladyship, n, [ladyships], "yanayin kasancewa wata hajiya").
+entry(laetrile, n, [laetriles], "wani magani da aka samo daga kwasfa na aprikot").
+entry(levo, adj, [], "levo").
+entry(lag, v, [lagged, lagging, lags], "zama ko yin baya-baya").
+entry(lagan, n, [lagans], "kayayyaki da aka jefa cikin teku tare da ambulan da aka liƙa don sauƙin samuwa").
+entry(lagan, n, [laguna], "lagan").
+entry(lager, v, [lagered, lagering, lagers], "yin laager").
+entry(laggard, n, [marasa gudu], "wanda ke raguwa").
+entry(lagged, baya, [], "zafin kan lag").
+entry(lagger, n, [laggers], "wanda ke ja baya").
+entry(ragaya, n, [ragayoyi], "wani abu mai insulating").
+entry(lagnappe, n, [lagnappes], "karamin kyautar da ake bai wa abokin ciniki tare da siyensu").
+entry(lagun, n, [laguna], "wani ruwa mai zurfi kadanLAGOONAL adj").
+entry(laguna, n, [lagunas], "tabki").
+shigar(lagune, n, [lagunes], "tudu").
+entry(lah, n, [lahs], "la").
+entry(lahal, n, [lahals], "wani wasan ƙungiya da mutane asalin yankin arewa maso yammacin Pacific ke yi").
+entry(lahar, n, [lahars], "tarin ƙazantar tsauni mai gwabri").
+entry(laic, n, [laics], "wanda ba malamin addini baLAICAL adjLAICALLY adv").
+entry(laich, n, [laichs], "ƙasa").
+entry(laicise, v, [laicised,laicising,laicises], "sanya ba daidai da addini").
+entry('laicism', n, ['laicism'], "wani tsarin siyasa wanda ba ya ƙarƙashin ikon addini").
+entry(laicize, v, [laicized,laicizing,laicizes], "a 'yantar daga ikon addini").
+entry(laid, a, [], "siffofin lokacin da ya shige na 'yada'").
+entry(laigh, n, [laighs], "ƙasa mai ƙasa").
+entry(ƙarya, baya, [], "masu hannu da shafa cikin kwanciya").
+entry(lair, v, [laired, lairing, lairs], "rayuwa a cikin kwatancen wurin hutawa ko zama na dabbobi daji").
+entry(dakin-ajiya, n, [dakuna-ajiya], "wuri inda ake adana shanu a kasuwanni").
+entry(laird, n, [lairds], "mai gida na fili mai ƙasarLAIRDLY adj").
+entry(lairy, sif, [], "MAI RURUMI MARAR DAƘYAU SAUƘI").
+entry(laitance, n, [laitances], "wani abu mai laushi a kan saman sabuwar kankare").
+entry(laith, adi, [], "loathLAITHLY adv").
+entry(laity, n, [laities], "membobinsu na addini wadanda ba 'yan darikar malaman addini ba").
+entry(tabki, n, [tabkuna], "wani babba jikin ruwa a cikin ƙasa wanda aka yi kamar tafki adj").
+entry(ruwar kogi, n, [ruwan koguna], "kasar ruwan kogi").
+entry(laked, sif, [], "an yi masa aikin laking").
+entry(lakefill, n, [lakefills], "wani yanki na ƙasa da aka gina ta hanyar cike tafki").
+entry(lakehead, n, [lakeheads], "gabar kogi mafi nisa daga bakin ruwa").
+entry(lakeland, n, [lakelands], "wuri da ke da tabkuna da yawa").
+entry(lakeport, n, [lakeports], "wani birni da ke kan gefen tafki").
+entry(kifi_na_iyo, n, [kifi_iyo], "kifi na tafkin").
+entry(gabankogi, n, [gabankoguna], "ƙasar da ke kusa gefen tafki").
+entry(lakeview, siffofi, [], "yana kallon tafki").
+entry(lakeward, sif, [], "fuskantar tabki").
+entry(lakh, n, [mahala], "jimillar dubu dari daya").
+entry(laking, n, [lakings], "jajurcewar jini ta hanyar sakin hemoglobin daga jajayen korpus").
+entry(laky, adj, [], "LAKIER LAKIESTna launi na jini").
+entry(lalique, n, [laliques], "wani salon gilashin yanka ko crystal").
+entry(lall, v, [lalled,lalling,lalls], "fada harafin r a matsayin l").
+entry(lallani, n, [lalluna], "kasa mai kwari").
+entry(lalland, n, [lallands], "ƙasa mai ƙasa").
+entry(lallygag, v, [lallygagged, lallygagging, lallygags], "yin jinkiri").
+entry(lam, v, [lammed, lamming, lams], "gudu da gaggawa").
+entry(lama, n, [lamas], "wani ɗan monkunna Buddhist").
+entry(lamaseri, n, [lamaserai], "wani gidan ibada na 'yan lamas").
+entry,danko ,h,[danko,dankowa,danko],” haihuwa ga danko sa yaro tumaki yake. ".
+entry(lambada, n, [lambada], "wani irin rawa na Brazil").
+entry(lambast, v, [lambasted,lambasting,lambasts], "caccaka").
+entry(lambaste, v, [lambasted,lambasting,lambastes], "doke sosai").
+entry(lambda, n, [lambdas], "wani harafin Girka LAMBDOID adj").
+entry(lambency, n, [lambencies], "ingancin ko wani lokaci na kasancewa mai kyalli").
+entry(lambent, sifa, [], "yana kyalkyala cikin sauƙi da hankali a kan wani ƙasa").
+entry(lamber, n, [lambers], "awo da ke haihuwar ’yan rago").
+entry(lambert, n, [lamberts], "wani nau'i na haske").
+entry(lambie, n, [lambies], "a lambkin").
+entry(lambier, na tsarance, [], "na lamby").
+entry(lambiest, superlative, [], "na lamby").
+entry(lambing, n, [lambings], "haifuwa ta tumakai a gona").
+entry(lambkill, n, [lambkills], "wani itacen da kullum shimfidar kasa yake zama koren."").
+entry(lambkin, n, [lambkins], "ɗan akuya ƙanana").
+entry("mai-kama-da-rago", adj, [], "mai kama da rago").
+entry(fatar ɗan maraƙi, n, [fatoci ɗan maraƙi], "fatar ɗan maraƙi").
+entry(lamby, adi, [], "LAMBIER LAMBIESTmai kama da tunkiya").
+entry(lame, adj, [], "MAI LAME MAI LAHMARI da kewayen jiki").
+entry(lame, v, [lamed,laming,lames], "yi gurgu").
+entry(lamed, n, [lameds], "wata harafi ta Ibraniyanci").
+entry(lamedh, n, [lamedhs], "lamed").
+entry(lamella, n, [lamellas], "ko LAMELLAE tsakiyar faranti mai laushi ko shimfidar fataLAMELLAR adj").
+entry(lamely, adv, [], "ta wata hanya mara inganci").
+entry(kakantuwa, n, [kakantuwa], "yanayin kasancewa a kakan").
+entry(rera, v, [reraye, rerawa, reraye], "yin bayanin bakin ciki ko nadama saboda").
+entry(lamenter, n, [lamenters], "wanda ke kuka").
+entry(lamer, gwada, [], "na gurgu").
+entry(mai-lamewa, tsananin, [], "na rashin kwari").
+entry(lamia, n, [lamias], "ko LAMIAEa aljanar mace").
+entry(lamina, n, [laminas], "ko LAMINAE faranti mai laushi ko tsariLAMINAR LAMINARY adj").
+entry(laminal, n, [laminals], "sauli mai furuci da ya shafi sashin harshe mai lauje").
+entry(ɗaure, v, [ɗaurewa, yana ɗaure, ɗaure], "a matsa cikin siririn faranti").
+entry(laming, ya kasance, [], "warsa na lame").
+entry(lamini, n, [laminai], "wani sinadari na ruwa mai dauke da sukari da furotin").
+entry(laminose, sif, [], "wanda aka hada da laminae").
+entry(laminoos, sif, [], "laminose").
+entry(lamister, n, [lamisters], "lamister").
+shigarwa(lammed, da, [], "mtsa lam").
+entry(lamming, yanzu, [], "gero na lam").
+entry(fitila, v, [fitilaɗa, fitilaɗi, fitilu], "dubawa").
+entry(lampad, n, [lampada], "abin kyandir").
+entry(lampas, n, [lampas], "kyankyasar baka na doki").
+entry(lampers, n, [lamperses], "fitila").
+entry(lampion, n, [lampions], "wani nau'in na'urar samar da haske").
+entry(baƙinfitila, siffofi, [], "rashin fitila wani na'ura don bayar da haske").
+entry(lamplit, sif, [], "wanda fitila ta kunne").
+entry('wasa da hankali', v, ['wasa da hankali','wasa da hankali','wasa da hankali'], "yin ba'a cikin rubutu mai tsokana").
+entry(mararawwata, n, [mararawwata], "wani mutum da ke rike fitilar titi").
+entry(lamprey, n, [lampreys], "kifi mai kama da miyar zobe").
+entry(lampyrid, n, [lampyrids], "duk wani daga dangin kwari").
+entry(lamster, n, [lamsters], "mai gudun hijira").
+entry(lanai, n, [lanais], "babban falo").
+entry(lanate, sif, [], "rufe da ulu").
+entry(lanated, sifa, [], "lanati").
+entry(lance, v, [sunkuya, suna-sunkuya, sunkuya], "yanke da makami mai kama da mizani").
+entry(lancelet, n, [lancelets], "wani karamin dabba mai rai a cikin teku").
+entry(lancer, n, [lancers], "sojan da ya shiga kan doki dauke da kibiyar tsini").
+entry(lancet, n, [lancets], "tsinin baka mai kauriLANCETED adj").
+entry(lanch, v, [lanched, lanching, lanches], "ja jirgin ruwa ta kan kankara").
+entry(lanciers, n, [lanciers], "wani rawa na Faransa").
+entry(lancing, yanzu, [], "harafin lance").
+entry(ƙasa, v, [ƙasawa,ƙasawa,ƙasashe], "a sauka a ƙasa mai ƙarfi").
+entry(landau, n, [landaus], "wani irin keke mai hawan doki").
+entry(lander, n, [masu-sauka], "wanda ke sauka").
+entry(hatsinawa, n, [hatsinawowi], "gani ko kusantar kasa").
+entry(landfast, sif, [], "haɗe da gaci ana amfani da shi ga kankara").
+entry(kwantena, v, [akwantena,akwantenawa,akwantenai], "gina wuri ta hanyar binne shara").
+entry(wurin_duniya, n, [wurin_duniya], "wani yanayi na sararin kasa").
+shigarwa(kwacekasar, n, [kwacekasashe], "karbe kasa cikin sauri kuma sau da yawa ta hanyar yaudara").
+entry(tasha, n, [tashoshi], "wuri don sauke ko ɗaukar fasinjoji ko kaya").
+entry(landlady, n, [landladies], "gidan haya mace").
+entry(landler, n, [landlers], "wata rawa ta Ostiriya mai hankali").
+entry(landless, adj, [], "ba shi da ƙasa").
+entry(wayar ƙasa, n, [wayoyin ƙasa], "layin sadarwa a ƙasa").
+entry(landaji, n, [landaji], "wanda ke mallakar da haya gidaje").
+entry(landman, n, [landmen], "wanda ke rayuwa da aiki a ƙasa").
+entry(landmark, v, [landmarked,landmarking,landmarks], "ƙaddamar da gini ko wuri a matsayin muhalli mai tarihi ko kuma muhimmin wuri na kyan gani").
+entry(ƙasa, n, [ƙasa], "babban yanki na ƙasa").
+entry(landmen, pl, [], "na mai ƙasar").
+entry(landside, n, [landsides], "wani ɓangare na mugun mari").
+entry(landskip, n, [manyan landskip], "fagen waje").
+entry(landslid, past, [], "zaben fidda kwanaki ta hanyar samun rinjaye mai yawa").
+entry(kwatar ƙasa, n, [kwatar ƙasa], "faɗuwar ƙaton ɓangaren ƙasa").
+shigarwa(dan_kasa, n, [yan_kasa], "dan_kasa").
+entry(landsman, n, [landsleit], "wani ɗan'uwanku Bayahude daga yankinku na Gabashin Turai").
+entry(zuwa ƙasar, adv, [], "zuwa ƙasar").
+entry(landwash, n, [landwashes], "wurin bakin teku tsakanin inda ruwa yakan kai lokacin kololuwa da kuma teku").
+entry(lane, n, [lanes], "wani tsaka mai kunci").
+entry(lanely, sif, [], "mai kaɗaici").
+entry(laneway, n, [laneways], "wani hanya").
+entry(yare, sifa, [], "doguwa").
+entry(langlauf, n, [langlaufs], "gudun kan tudu da kankara mai tsawo").
+entry(langley, n, [langleys], "wani sashi na haske").
+entry(langrage, n, [langrages], "wani harbi da aka taɓa amfani da shi a yaƙin teku").
+entry(langrel, n, [langrels], "langrage").
+entry(langshan, n, [langshans], "wani daga cikin nau'in manyan kajin gida").
+entry(langsyne, n, [langsynes], "lokaci da ya wuce").
+entry(yare, n, [yare], "jikin kalmomi da tsarin sadarwa").
+entry(yare, n, [yare-yare], "wani nau'i na harshe").
+entry(langued, sif, [], "da harsashi mai wani launi").
+entry(languet, n, [languets], "wani bangare kamar harshe").
+entry(languid, sif, [], "rashi kuzari ko kuzarin jiki").
+entry(langwaya, v, [langwaya, na langwaya, suna langwaya], "rasa kuzari ko lafiyar jiki").
+entry(rashin kuzari, n, [rashin kuzari], "halin kasala").
+entry(langur, n, [langurs], "biri na Asiya").
+entry(lanyadi, n, [lanyadi], "lanyard").
+entry(haƙorinan, n, [haƙoran], "cuspid").
+entry(lanital, n, [lanitals], "zareriyar ulu").
+entry(lank, siffofi, [], "LANKER LANKESTdoguwa kuma siririyaLANKLY man").
+entry(lankness, n, [lanknesses], "halin kasancewa siriri").
+entry(lanky, adj, [], "DOGO DOGO MATSAFIba tare da ƙwarewa tsawo kuma siririDOGILY adv").
+entry(lanner, n, [lanners], "wata tsuntsuwa mai suna falcon daga Turai da Asiya").
+entry(lanneret, n, [lannerets], "namijin lanner").
+entry(lanolin, n, [lanolins], "wani sinadari mai kitse da aka samo daga ulu").
+entry(lanolini, n, [lanolinai], "lanolin").
+entry(lanose, adj, [], "lanate").
+entry(lanosity, n, [lanosities], "halin kasancewa mai ulu").
+entry(lantana, n, [lantanas], "shuke-shuke na wurare masu zafi").
+shigar_fitila(fitila, n, [fitilu], "wurin kariya don haske").
+entry(lanthorn, n, [lanthorns], "fitila").
+entry(lanugo, n, [lanugos], "gashi mai laushi").
+entry(lanyard, n, [lanyards], "ebu na ɗaurewa a jirgin ruwa").
+entry(laogai, n, [laogais], "tsarin sansanin tilastawa aiki a China").
+entry(lap, v, [lapped, lapping, laps], "na nadewa ko na zagaye wani abu").
+entry(ƙaramar allo mai ɗaukuwa, n, [ƙananan alluna masu ɗaukuwa], "farantin allo mai shimfiɗa wanda ake amfani da shi a matsayin tebur ko tebur aiki").
+entry(kare_karami, n, [kananan_kare_kare], "karamin kare").
+entry(lapel, n, [lapels], "ƙarin kwala na sarkaLAPELED LAPELLED adj").
+entry(lapful, n, [lapfuls], "iya abin da cinyar za ta iya dauka").
+entry(lapidary, n, [masu aikin duwatsu masu daraja], "wanda ke aiki da duwatsu masu daraja").
+entry(jefi-da-duwatsu, v, [an-jefi-da-duwatsu, yana-jefi-da-duwatsu, yana-jefi-da-duwatsu], "jefa duwatsu ga").
+entry(tafiya-da-duwatsu, v, [tafiya-da-duwatsu, tafiyar-da-duwatsu, tafiya-da-duwatsu], "juya zuwa dutse").
+entry(lapidist, n, [lapidists], "mai fasaha").
+entry(lapillus, n, [lapilli], "ƙananan gutsuren lava").
+entry(zomo, n, [zomaye], "zomo").
+entry(lapisi, n, [lapisai, lapidai], "wani dutse mai daraja").
+entry(lapped, da, [], "yanayin lap").
+entry(lapper, v, [lappered,lappering,lappers], "don yanka").
+entry(gajeren-riga, n, [gajerun-riga], "lafaya mai zane mai ado a kan tufafiLAPPETED adj").
+entry(lapping, yau, [], "ɓangaren matashiya na lap").
+entry(lapse, v, [lapsed,lapsing,lapses], "faduwa daga matsayin da ya gabataLAPSABLE LAPSIBLE adj").
+entry(lapser, n, [lapsers], "wanda ke zamewa").
+entry(lapsus, n, [lapsus], "kuskure").
+entry(kwamfuta ta hannu, n, [kwamfutoci], "karamar kwamfuta domin amfani a kan cinyar mutum").
+entry(lapwing, n, [lapwings], "wani tsuntsun bakin ruwa").
+entry(lar, n, [lars], "ko LARESa ruhu ko maigadi na tsohuwar gidan Romawa").
+entry(larbǝd, n, [larbǝdodi], "gefensa hagu na jirgi").
+entry(mabarayi, n, [mabarayi], "wanda ya aikata satar kaya").
+entry(sata, n, [sa-ta-sa-ta], "karbe da cire kayan wani ba tare da izini ba").
+entry(larch, n, [larches], "itacen itaciyar furfura LARCHEN adj").
+entry(lardi, v, [lardewa, lardowa, lardai], "don gwangwani da lardi mai narkakkar kitsen alade").
+entry(ajiya, n, [ajiyoyi], "wuri inda abinci ake ajiye shi").
+entry(lardier, comparative, [], "na mai kitse").
+entry(lardiest, superlative, [], "na lardy").
+entry(lardlike, sif, [], "kaman kitsen dabba").
+entry(lardon, n, [lardons], "yanka siriri na naman alade ko alade").
+entry(lardoon, n, [lardoons], "lardoon").
+entry(lardy, sif, [], "MAI KITSE MAI KITSENciki da kitsen").
+entry(laree, n, [larees], "lari").
+entry(lares, a, [], "jam'in lar").
+entry(largando, sif, [], "sannu a hankali zama a hankali ana amfani da shi a matsayin jagorar kida").
+entry(manya, sif, [], "MANYA MAHAFI na girma ko yawa MAHAFIN adv").
+entry(large, n, [manyan], "karimci").
+entry(karimci, n, [karimcai], "gidauniyar girmama").
+shigar(largesse, n, [largesses], "largess").
+entry(mafi girma, kwatance, [], "na girma").
+entry(largish, sif, [], "mai ɗan girma").
+entry(largo, n, [largos], "wani yanayi na kiɗa mai sauri mai jinkiri").
+entry(lari, n, [laris], "wani rukunin kudi na Jamhuriyar Jojiya").
+entry(lariat, v, [larayat,laraya,laraya], "jefa igiya").
+entry(larigan, n, [larigai], "takalmin fata").
+entry(larine, sif, [], "mai kama da gull").
+entry(diram, v, [daram, diram, dirammu], "yin wasa da raha").
+entry(larker, n, [maaikata], "wanda ke larka").
+entry(larkier, na kwatanci, [], "na larky").
+entry(larkiest, superlative, [], "na larky").
+entry(larkish, sif, [], "mai cike da sharholiya").
+entry(larksome, sif, [], "mai wasa").
+entry(larkspur, n, [larkspurs], "shukar fure").
+entry(larky, sif, [], "LARKIER LARKIESTmai wasa").
+entry(koyo, v, [ya koya, koyon, ya koyo], "to learn").
+entry(larrigan, n, [larrigans], "larigan").
+entry('larrikin', n, ['larrikins'], "mai hayaniya").
+entry(larrup, v, [larruped,larruping,larrups], "buga ko dukan").
+entry(larruper, n, [larrupers], "wanda ke dukan wani").
+entry(larum, n, [larums], "faɗaka").
+shiga(larva, n, [larvas], "ko LARVAE siffar maras balaga ta kwari da dabbobi daban-daban lokacin da suka fito daga kwai LARVAL adj").
+entry(laryngal, n, [laryngals], "sauti na magana wanda ake furta a katika makogwaro").
+entry(hanty, n, [hantyoyi], "ko HANTYES wata gabobi na hanyoyin numfashi").
+shigar(lasagna, n, [lasagnas], "wani abinci na Italy wanda aka gasa").
+entry(lasagne, n, [lasagnes], "lasagna").
+entry(lascar, n, [lascars], "mai jirgin ruwa na Indiya ta Gabas").
+shigarwa(lase, v, [lased, lasing, lases], "aiki a matsayin lasar").
+entry(laser, v, [lasered,lasering,lasers], "don laser wani na'ura da ke kara yawan igiyar haske").
+entry(lash, v, [lashed,lashing,lashes], "buga da bulala").
+entry(lasher, n, [lashers], "wanda ke dūka").
+entry(duka, n, [dukoki], "bugu").
+entry(lashins, npl, [], "yawaita").
+entry(lashkar, n, [lashkars], "lashkari").
+entry(baƙari, sif, [], "rashin bulala").
+entry(lasing, na yanzu, [], "mai nuna halin lase").
+entry(lass, n, [lasses], "yarinya").
+entry(lassi, n, [lassis], "wani abin sha na madara da ruwa da kayan dandano").
+entry(lassie, n, [lassies], "yarinya").
+entry(lasso, v, [lassoed,lassoing,lassos], "ko LASSOESto kama da igiya mai tsawon lokacin gudu").
+entry(lassoer, n, [lassoers], "wanda ya sanya igiya a abin hawa").
+entry(lassy, n, [lassies], "molasses").
+entry(last, v, [lasted,lasting,lasts], "ci gaba da kasancewa").
+shigarwa(karonkarshe, n, [karonkarshe], "yaron da aka haifa karshe a iyali").
+entry(laster, n, [masu_dorewa], "wanda yake dorewa").
+entry(dorewa, n, [dorewai], "zane mai ɗorewa").
+entry(a ƙarshe, adv, [], "a ƙarshe").
+entry(lat, n, [lats], "wani tsoka na baya").
+entry(latakia, n, [latakias], "wani nau'in taba na Turkiyya").
+entry(latch, v, [latched,latching,latches], "rufe da irin na'urar kullewa").
+entry(latchet, n, [latchets], "igiyar amfani da ake yi don daure takalmi").
+entry(makullin_kulle, n, [makullan_kulle], "makulli don buɗe ƙofar da aka kulle").
+entry(makare, sif, [], "MAKARE MAHARAN da yake zuwa ko faruwa bayan lokacin da aka zata").
+entry(late, sif, [], "a jinkirta").
+entry(lateen, n, [lateens], "jirgin ruwa mai tafiya da iska").
+entry(lateener, n, [lateeners], "lateen").
+entry(kwanan nan, adv, [], "ba daɗe ba").
+entry(laten, v, [latened,latening,latens], "zama makare").
+entry(latency, n, [latencies], "hali na kasancewa a nan amma ba a bayyana ba").
+entry(jinkirin lokaci, n, [jinkirin lokuta], "halin yin jinkiri").
+entry(latent, n, [latents], "tabon yatsu da ba a iya gani sosai ba wanda za a iya samarwa don bincike").
+entry(latently, adv, [], "a yanayin barci").
+entry(daga baya, kwa, [], "na baya-bayan nan").
+entry(laterad, adv, [], "zuwa gefe").
+entry(lateral, v, [lateraled,lateraling,laterals], "ko LATERALLED LATERALLING LATERALSto aiwatar da nau'in wucewa a cikin ƙwallon ƙafa").
+entry(laterite, n, [laterites], "wani nau'in ƙasa").
+entry(juyar, v, [juyad, juyawa, juyayi], "maida zuwa latenite").
+entry(na baya-bayan nan, n, [na baya-bayan nan-ɗin], "ci gaba mafi kwanan nan").
+entry(latewood, n, [latewoods], "wani ɓangare na zoben shekara na itace").
+entry(latex, n, [latexes], "ko LATICES wani ruwa mai madara daga wasu shuke-shuke").
+entry(lath, v, [lathed,lathing,laths], "to cover with laths thin strips of wood").
+entry(dabaran, v, [dabara,dabaruwa,dabarai], "yanke ko zayyana kan wata na'ura").
+entry(kumbura, v, [kumburawa,kumburaye,kumbura], "don rufe da kumbura kumfa mai haske").
+entry(latherer, n, [latherers], "wanda ke romawa").
+entry(lathery, sif, [], "rufe da kumfa").
+entry(lathi, n, [sanduna], "katako mai nauyi na bamboo da baƙin ƙarfe a Indiya").
+entry(lathing, n, [lathings], "aiki da aka yi da ko amfani da lats").
+entry(lathwork, n, [lathworks], "lathing").
+entry(lathy, siffofi, [], "LATHIER LATHIEST mai tsawo da siriri").
+entry(lats, a, [], "jam'in lat").
+entry(latices, a, [], "jam'in latex").
+entry(latigo, n, [latigos], "ko LATIGOES wata madauri da ake amfani da ita don kulle daringo").
+entry(latilla, n, [latillas], "rassa da aka fere dake anfani a rufi").
+entry(latina, n, [], "mace ko yarinya Latin American").
+entry(latinity, n, [latinities], "hanyar rubutu ko magana ta Latin").
+entry(latinize, v, [latinized,latinizing,latinizes], "fassara zuwa Latin").
+entry(latino, n, [latinos], "wani Latin Amirka").
+entry(latish, sif, [], "ɗan jinkiri").
+shigar(latitude, n, [latitudes], "yanci daga takura mai kunci").
+entry(latke, n, [latkes], "waina ta dankali").
+entry(latosol, n, [latosols], "wani ƙasa na yankin zafi").
+entry(latria, n, [latrias], "bauta mafi girma da za a bai wa Allah kawai cikin Katolika ta Roma").
+entry(bandaki, n, [bandakoki], "wani irin bayan gida").
+shigarwa(lats, n, [lati], "ko LATUa naúrar kuɗi ta Latvia").
+entry(latte, n, [lattes], "espresso kofi tare da madara").
+entry(latten, n, [lattens], "karfe mai kama da tagulla").
+entry(mai biyowa, n, [mafi biyo], "mutumin ko abu na biyu da aka ambata daga cikin biyu").
+entry(latterly, adv, [], "kwanan nan").
+entry(lattice, v, [latakafa, latakafawa, latakafai], "don yin tsari mai dauke da sanduna da aka hade da juna").
+entry(lattin, n, [lattins], "tagulla").
+entry(latu, a, [], "jam'in latu").
+entry(lauan, n, [lauans], "itace daga Filifin").
+entry(yabo, v, [yabawa,yabawa,yabo], "jinjina").
+entry(abin yabo, sıdfa, [], "mai cancanta da yaboLAUDABLY adv").
+entry(laudanum, n, [laudanums], "wani nau'in shirye-shiryen opium").
+entry(laudator, n, [laudators], "mai yabo").
+entry(lauder, n, [lauders], "wanda yake yabawa").
+entry(dariya, v, [dari, dariya, dari], "nuna jin dadi ko dariya ta hanyar sauti maras kammalawa").
+entry(mai dariya, n, [mashadan dariya], "wanda yake dariya").
+entry(dariya, n, [daruruwa], "dariya").
+entry(dariya, n, [dariyoyi], "ayin ko sautin wanda yake dariya").
+entry(kifi, n, [kifaye], "wani kifi na teku").
+entry(ƙaddamarwa, v, [ƙaddamar,ƙaddamarwa,ƙaddamarwa], "to starta motsi").
+entry(mai-harba, n, [mai-harbai], "na'urar harba abu").
+entry(launder, v, [laundered,laundering,launders], "wanke tufafi").
+entry(wanki, n, [wankuna], "tarin tufafi da za a wanke").
+entry(laura, n, [lauras], "ko LAURAEiri na gidan sufi").
+entry(laureate, v, [laureated,laureating,laureates], "tonauna").
+entry(laurel, v, [laureled, laureling, laurels], "ko LAURELLED LAURELLING LAURELS don sanya rawani tare da ganye kore na dindindin").
+entry(lauwine, n, [lauwines], "ruwan kankara mai girma ya fado").
+entry(lav, n, [lavs], "bandaki").
+entry(lafa, n, [lafas], "dutse mai taushi da ya fito daga bakin dutse mai fitad da wuta").
+entry(lavabo, n, [lavabos], "ko LAVABOES wani wanke-wanke na bikin a wasu coci-cocin Kiristoci").
+entry(wankewa, n, [wankewa], "wanke").
+entry(lavalava, n, [lavalavas], "wani tufafin Polynesia").
+entry(lavalier, n, [lavaliers], "abun wuya dake rataye a sarƙa kusa da wuya").
+entry(lavalike, sif, [], "mai kama da lava").
+entry(lavash, n, [lavashes], "wata farin biredi mai laushi daga asalin Armeniya").
+entry(lavatera, n, [lavateras], "wani shuka na dangin mallow").
+entry(shafewa, n, [shafewoyi], "aikin wanke-wanke").
+entry(bandaki, n, [bandakai], "wani daki da aka tanadar da na'urorin wanka da bayan gida").
+entry(lave, v, [laved, laving, laves], "wanke").
+entry(laveer, v, [laveered,laveering,laveers], "yin jirgin ruwa da iska ta gāba").
+entry(lavenda, v, [lavendada, lavendadi, lavendoji], "yayyafa wani nau'in turare").
+entry(laver, n, [lavers], "wani jirgi da aka yi amfani da shi don tsabtace addinin Yahudawa na dā").
+entry(laverock, n, [laverocks], "wani tsuntsun waka").
+entry(laving, na yanzu, [], "mai a cikin lave").
+entry(gagarabadau, adi, [], "GAGARABADAU GAGARABADAUTsare ko bayarwa cikin adadi mai yawaGAGARABADAUSA dar").
+entry(lavish, v, [lavished,lavishing,lavishes], "yin ciyarwa ko bayarwa da yawa").
+shigar(lavisher, n, [lavishers], "wanda yake ɓarna").
+entry(lavrock, n, [lavrocks], "laverock").
+entry(doka, v, [dokoki, dokokin, dokokai], "kai kuka kotu domin warwarewa").
+entry(littafin_doka, n, [littattafan_doka], "littafi mai ɗauke da dokoki ko mai ma'amala da dokoki").
+entry(doka, sif, [], "ana yarda da shi doka gangamin dokoki da ke mulkin al'amuran al'umma LAWFULLY adv").
+entry(maɗaɗɗin doka, n, [maɗaɗɗan doka], "wanda ke kafa tsarin doka").
+entry(lauwine, n, [lauwines], "lauwine").
+entry(lawing, n, [lawings], "takardar kudin abinci ko abin sha a mashaya").
+entry(lawless, sif, [], "yana da rashin tsarin dokoki").
+entry(kamar_da_doka, sif, [], "kasancewa kamar doka").
+entry(lawmaker, n, [yan majalisa], "wani dan majalisar dokoki").
+entry(dan_sanda, n, [yan_sanda], "jami'in tsaro").
+entry(lambu, n, [lambuna], "wani yanki na ƙasar da aka rufe da ciyawaLAWNY adj").
+entry(lawned, sif, [], "mai-launi").
+entry(shari'a, n, [shari'o'i], "wani aiki na shari'a").
+entry(lauya, v, [laukawa, lauya, lauyoyi], "aikin a matsayin mamba na sana'ar lauya").
+entry(lawyerly, sif, [], "ya dace da memba na sana'ar shari'a").
+entry(lax, adj, [], "MAI SAUƘI MAI SAUƘI SOSAIba mai tsauri ko ƙaƙƙarfan").
+entry(lax, n, [laxes], "wata harafi na baka da aka furta tare da tsokoki wadanda basa matse sosai").
+entry(laxation, n, [laxations], "ayanayi na saukaka").
+entry(laxative, n, [magungunan_sanyin_hantsi], "magani da ke motsa fitar da miyau").
+entry(laxity, n, [laxities], "hali na rashin tsaurara").
+entry(laxly, adv, [], "a cikin wani yanayi na shakatawa").
+entry(laxness, n, [laxnesses], "sanyin gwiwa").
+entry(lay, v, [layed,laying,lays], "ajiye a matsayin fare").
+entry(layabout, n, [layabouts], "mutum mai kasala").
+entry(ajiya, n, [ajiyoyi], "abu wanda aka adana tare da farkon biyan kudi").
+entry(layer, v, [layered,layering,layers], "zuwa samar da shafi na kauri guda ko rufi").
+entry(layerage, n, [layerages], "wani hanyar noman itatuwa").
+entry(layering, n, [layerings], "ɗaurewa").
+entry(layette, n, [layettes], "wata shiri na tufafi da kayan aiki na jariri sabo haihuwa").
+entry(layin, n, [layins], "wani irin harbi a kwallon kwando").
+entry(layman, n, [maza na talakawa], "memba na jama'ar gargajiya").
+entry(layoff, n, [korar aiki], "dakatar da ma’aikata ko sallamesu daga aiki").
+shigarwa(tsari, n, [tsaruka], "shirye-shirye ko tsari").
+entry(tasha, n, [tasoshi], "tsayawa").
+entry(layup, n, [layups], "harbi a wasan kwando").
+entry(matar talakawa, n, [mata talakawa], "matar da ba 'yar aikin layi ba").
+entry(lazar, n, [lazars], "makaɗaici mai fama da cuta mai ƙyama").
+entry(asibitin-dauke-cututtuka, n, [asibitin-dauke-cututtuka], "asibiti da ke kula da cututtuka masu yaduwa").
+entry(laze, v, [lazed,lazing,lazes], "yin lokacin a hankali").
+entry(lazied, da, [], "haihuwar maganar lazy").
+entry(lazier, comparative, [], "na kasala").
+entry(lazies, yanzu, [], "mutum na 3 wanda ke yin kasala").
+entry(m, mafi, [], "na/mai/da kasala").
+entry(a-hankali, adv, [], "ta hanyar cika hankali").
+entry(rashinkwazo, n, [rashinkwazo], "halin kasancewa mai kasala").
+entry(lazing, present, [], "madubin na laze").
+entry(lazuli, n, [lazulis], "wani ma'adini").
+entry(lazulite, n, [lazulites], "wani ma'adini").
+entry(lazurite, n, [lazurites], "wani ma'adini").
+entry(lazy, adj, [], "MAI ZURFI MAI ZURFIdisinclined toward work or exertion").
+entry(mai-mataran-yi, v, [mataran-yi,na-mataran-yi,mai-mataran-yi], "zuwa motsa ko kwanciya a hankali").
+entry(lazyish, sif, [], "wani irin lalaci").
+entry(lea, n, [leas], "maraice").
+entry(leach, v, [leached,leaching,leaches], "yi wa abu auna ta hanyar aiki na tacewar ruwa").
+entry(leachate, n, [leachates], "ruwan da ake samu ta hanyar wash").
+entry(leacher, n, [masu_sha], "wanda ke sha").
+entry(leachy, sif, [], "FIYAR LUCHYAR LUCHIYAR dausayi").
+entry(shiya, v, [shiyaɗe, shiyaɗa, shiyaɗi], "don rufe da shiya, wani ƙarfe mai nauyi").
+entry(jagora, v, [jagoranci, jagoranta, jagorani], "nuna hanya ta hanyar tafiya a gabaJAGORABAWA adj").
+entry(leaden, v, [leadened, leadening, leadens], "don dull ko rashin kuzari; LEADENLY fdat").
+entry(shugaba, n, [shugabanni], "wanda ke jagoranta ko ya shiryar").
+entry(leadier, gwada, [], "na gubar").
+entry(leadiest, superlative, [], "na leady").
+entry(leading, n, [leadings], "rufin ko iyaka da gubar").
+entry(leadless, sif, [], "babu gubar").
+entry(leadman, n, [leadmen], "ma'aikaci wanda ke kula da sauran ma'aikata").
+entry(leadoff, n, [leadoffs], "wani wasan bude ko motsawa").
+entry(leadsman, n, [leadsmen], "wani ma'aikacin jirgin ruwa wanda yake auna zurfin ruwa").
+entry(aikin gubar, n, [aikin gubar], "wani abu da aka yi da gubar").
+entry(leadwort, n, [leadworts], "wani shuka mai zafi").
+entry(leady, adj, [], "KAMAR GANGA").
+entry(ganye, n, [ganye-ganye], "wani yakan zama kore tilassa sashi na tsirrai mai jijiyoyi").
+entry(ganye, v, [maganyen, maganye, ganye-ganye], "juya shafuka da sauri").
+entry(ganye, n, [ganyen-ganye], "foliage").
+entry(leafier, gwada, [], "na ganye").
+entry(leafiest, superlative, [], "mai ganye").
+entry(marasa ganye, adj, [], "yana rashin ganye").
+entry(leaflet, v, [leafleted, leafleting, leaflets], "ko LEAFLETTED LEAFLETTING LEAFLETSto raba takardun da aka buga").
+entry(kamar-ganye, sif, [], "kamar ganye").
+entry(gamburɓusar-ganye, n, [gamburɓusar-ganye], "ƙasa mai ɗauke da babban kaso na ganyen da suka ruɓe").
+entry(leafroll, n, [leafrolls], "cuta ta kanjamau a kan dankali").
+entry(leafworm, n, [leafworms], "cikin kwari wanda ke ciyar da ganyaye").
+entry(leafy, siffofi, [], "MAI GANYAYYAKI MAI ƘARA GANYAYYAKI").
+entry(league, v, [leagued, leaguing, leagues], "zuwa tare domin abu guda").
+entry(leaguer, v, [leaguered, leaguering, leaguers], "ku kewaye").
+entry(yana-zube, v, [ya-zube, yana-zube, yana-zubewa], "yarda abu ya fita ta hanyar wata jika ko nakasa").
+entry(yin_guduwa, n, [yin_guduwan], "ayin ko lokachin da abu yake fita").
+entry(leaker, n, [leakers], "wanda yake yayyo").
+entry(leakless, sif, [], "an ƙera domin kada ya shiga").
+entry(leaky, adj, [], "MAI YIWA OFI MAI YIWA OFI MAI YIWA OFIkallon zubewaKAMAR ZUBEWA adv").
+entry(leal, sif, [], "wamamaiLALLE sifadv").
+entry(aminci, n, [aminci], "loyalty").
+entry(lean, adi, [], "MAI RAƘA MAI RAƘA MATA having little fatLEANLY adv").
+entry(lean, v, [leant,leaning,leans], "mai karkacewa daga matsayi mai tsayi").
+entry(mazauni, n, [mazauna], "wanda ke lanƙwasa").
+entry(matsawa, n, [matsawowi], "wata al’ada").
+entry(ragargaza, n, [ragargazai], "hali na kasancewa siriri").
+entry(leant, a, [], "mafi na da lean").
+entry(tsalle, v, [tsalle,yin_tsalle,tsalle], "juya daga kasa").
+entry(mafi_zama, n, [mafi_zamowa], "wanda ke tsalle").
+entry(leapfrog, v, [leapfrogged,leapfrogging,leapfrogs], "tsallakewa tare da sanya kafafu a buɗe sosai").
+entry(koyo, n, [kokoki], "koyo").
+entry(learier, gwada, [], "na leary").
+entry(leariest, superlative, [], "na leary").
+entry(koyo, v, [koya,koyon,koyoyi], "sami ilimi ta hanyar kwarewa, koyarwa ko yin karatu").
+entry(mai_koyo, n, [matan_makadi], "wanda yake koyo").
+entry(koyo, n, [koyon-koyo], "sanin da aka samu").
+entry(leary, adj, [], "LEARIER LEARIESTleery").
+entry(lease, v, [sayar da haya, yin haya, yarjejeniyar haya], "don bayarwa na amfani na ɗan lokaci a musayar haya HAJAR HAYA adj").
+entry(mahayar, n, [mahayu], "wanda ke haya").
+entry(leash, v, [leashed,leashing,leashes], "don hana dabba motsi da igiya ko reshi").
+entry(yan lease, n, [yan lease], "ƙarya").
+entry(karami, n, [kananan], "wani abu da ya fi kowa karami a girma ko matsayi").
+entry(fata, v, [fatais, fataina, fataye], "rufe da fata ko tanned fata na dabba").
+entry(leathern, adj, [], "an yi da fata").
+entry(mai-fatakwal, ajd, [], "kamar fata").
+entry(bar, v, [bari,barin,barai], "ta fita daga").
+entry(leaved, adj, [], "mai ɗaure ko ganye").
+entry(yisti, v, [yistsa, yisting, yistsi], "don samar da yisti a ciki").
+entry(baking, n, [baking], "wanda ke da tasiri na yin natsuwa").
+entry(leaver, n, [masu_kan_kauracewa], "wanda yake barin wurin").
+entry(ganye-ganye, pl, [], "na ganye").
+entry(leaving, n, [ragowar], "wani abin da ya rage").
+entry(leavy, adj, [], "MAI GANYAYI MAI GANYAYI MAFI GANYAYI").
+entry(leben, n, [lebens], "wani irin abinci mai ruwa").
+saka(lech, v, [leched, leching, leches], "yin aikata lalata").
+entry(lehayim, n, [lehayimai], "lehayim").
+entry(lecher, v, [lechered,lechering,lechers], "yin fasikanci").
+entry(maula, n, [mauloli], "shagala da sha'awa mai yawa").
+entry(lechwe, n, [lechwes], "dabbobin jeji na Afirka").
+entry(lecithin, n, [lecithins], "wani rukuni na abubuwan mai da ake samu a cikin tsirrai da ƙwayoyin dabbobi").
+entry(lectern, n, [lecterns], "mimbari").
+entry(lectin, n, [lecitoci], "furotin da ke jan zarra mai zaki").
+entry(lection, n, [lections], "wani ɓangare na rubutun tsarki da ake karanta shi a wurin ibada").
+entry(mai-karatu, n, [masu-karatu], "mai karatun darussa a wurin bautar coci").
+entry(lecture, v, [lectured, lecturing, lectures], "yin bayani kan wani takamaiman batu").
+entry(malami, n, [malamai], "wanda yake koyarwa").
+entry(lecythis, sifili, [], "mai nuni da iyali na itatuwan daji na yankin zafi").
+entry(lecythus, n, [lecythi], "lekythos").
+entry(ja-gaba, da, [], "lokacin gubar").
+entry(lede, n, [lede-lede], "sashen gabatarwa na labarin jarida").
+entry(ledge, n, [ledges], "fakiti mai kunkuntar kama da shiryayye").
+entry(ledi, n, [ledis], "littafin karshe na shigarwa").
+entry(ledgy, sif, [], "LEDGIER LEDGIESTmai yawa da gangara-gangara").
+entry(lee, n, [lees], "mafaka daga iska").
+entry(leeboard, n, [leeboards], "katako da aka makala wa jirgin ruwa mai tuki da iska don hana karkata").
+entry(majiji, v, [majijiya,majijiya,majiji], "a jingina da cike ko shan jini").
+entry(albasar-bature, n, [albasar-bature], "wani ganye da ake amfani da shi wajen dafa abinci").
+entry(leer, v, [leered,leering,leers], "kallon gefe da gefe").
+entry(leery, adj, [], "LEERIER LEERIESTmai shakkuLEERILY adv").
+entry(leet, n, [leets], "wani tsohon kotun Ingilishi don laifuka ƙanana").
+entry(leeward, n, [leewards], "bangaren da iska ke busawa").
+entry(legege, n, [legege], "karkacewar kwale-kwale daga hanya").
+entry(hagu, sif, [], "LEFTER LEFTEST da suka shafi gefen jiki zuwa arewa lokacin da mutum ya fuskanci gabas").
+entry(hauni, n, [haune], "bangaren hagu ko hannu").
+shigarwa(lefiti, n, [lefiti], "lefiti").
+entry(leftish, adj, [], "mai dan karkatowa ga kishin hagu").
+entry(leftism, n, [leftisms], "wani tsarin siyasa mai sassaucin ra'ayi").
+entry(dan-gwagwarmayar-bangaren-hagu, n, [yan-gwagwarmayar-bangaren-hagu], "mai kare manufofin bangaren hagu").
+entry(motsa-hagu, sif, [], "mai nisa a hagu").
+entry(dimanin, n, [dimanai], "wani bangare da ba a yi amfani da shi ba ko kuma ba a ci ba").
+entry(zuwa_hagu, adv, [], "zuwa hagu").
+entry(kusurwa hagu, sif, [], "goyon bayan ra'ayin hagu").
+entry(lefty, n, [lefties], "mutum daya hagu").
+entry( kafa, v, [kafafuwa, tafiya_da_kafa, kafafu], "motsi tare da kafafuwa waɗanda ke zama hanyar goyon baya da motsawa").
+entry(gado, n, [gadodi], "wani abu da aka gada").
+entry(halal, n, [halalai], "zuba jari da aka ba da izini wanda masu zuba jari kamar bankunan ajiya za su iya yi").
+entry(legalese, n, [legaleses], "harshen musamman na lauyoyi").
+entry(halasta, v, [halasta,halasta,halasta], "halatta").
+entry(legalism, n, [legalisms], "bin doka da tsanaki").
+entry(legalist, n, [legalists], "mabiya na aikin doka").
+entry(halaccin, n, [halaccoci], "yanayin kasancewa da halali").
+entry(halatta, v, [halatta,halattawa,halattawa], "sanya doka").
+entry(da doka, adv, [], "ta hanya mai doka").
+entry(legate, v, [legated,legating,legates], "yin bequeath").
+entry(wanda_ya_gada, n, [wadanda_suka_gada], "wanda ya karɓi gadon").
+entry(legatine, sif, [], "mai dangantaka da wakilin hukuma").
+entry(legating, yanzu, [], "siffar aiki na legate").
+entry(wakilci, n, [wakiltaka], "aikin aikewa da jakada").
+entry(legato, n, [legatos], "salisawa da yanayin waka mai laushi da gudana").
+entry(legator, n, [magādon aya], "wanda yake tsara gado").
+shigarwa(tatsuniya, n, [tatsuniyoyi], "wani labari wanda ba a tantance ba daga zamanin baya").
+```prolog
+entry(daɗaɗɗen littafi, n, [daɗaɗɗen littafai], "taron tatsuniyoyi").
+```
+entry(leger, n, [legers], "kunnen kifi da aka sanya akan kasa").
+entry(legerity, n, [legerities], "sauri na hankali ko jiki").
+entry(leges, pl, [], "na lex").
+entry(legged, past, [], "matsayin leg a cikin fi'ili mai wuce").
+entry(leggier, comparative, [], "na siffa mai tsawo").
+entry(leggiero, adv, [], "a cikin salo mai sauki ko annashuwa da aka yi amfani da shi azaman umarnin kida").
+entry(leggiest, superlative, [], "na leggy").
+entry(leggin, n, [leggins], "leggi").
+entry(legging, n, [leggings], "rufin kafa").
+entry(leggy, adj, [], "MAI TSAYIN KAFAFU MAI TSAYIN KAFAFU SOSAI YANA DA DOGAYEN KAFAFU").
+entry(leghold, n, [legholds], "tarkon da ke cafke dabbobi ta kafafuwansu").
+entry(leghorn, n, [leghorns], "wani nau'in kwano mai santsi wanda aka yi da tsintsiyar hatsi").
+entry(karanta, sif, [], "mai iya karantawa LEGIBLY adv").
+entry(legion, n, [legions], "babban rundunar soja").
+entry(masana_shari'a, n, [masana_shari'a], "wanda ya kware ko yayi ilimi a fannin shari'a").
+entry(halas, n, [halas], "zariya ta gaskiya").
+entry(maƙwalwa, sfa, [], "ba tare da kafa ba").
+entry(leglike, sif, [], "mai kama da kafa").
+entry(legman, n, [legmen], "dan jarida da aka tura don tattara bayani").
+entry(legong, n, [legongoli], "rawan Ba'ali na rawa").
+entry(legroom, n, [legrooms], "sarari inda za a mika ƙafafu").
+entry(lagumi, n, [lagumai], "wani irin shuka").
+entry(legumin, n, [legumins], "wani furotin na tsire-tsire").
+entry(legwork, n, [ayyuka na tafiya], "aiki da ke lacan yin yawo sosai").
+entry(lehayim, n, [lehayims], "wani shan abin sha na gargajiya na Yahudawa").
+entry(lehr, n, [lehrs], "wani irin tanda").
+entry(lehua, n, [lehuas], "itãcen yanki mai zafi").
+entry(lei, n, [leis], "wata baka ta furanni").
+entry(leister, v, [leistered,leistering,leisters], "harbi da wani kayan kamun kifi mai ice uku").
+entry(nishaɗi, n, [nishaɗodi], "yanci daga bukatun aiki ko wajibiNISHADADDI adj").
+entry(lek, n, [leks], "ko LEKE ko LEKU wata na'urar kudi ta Albania").
+entry(lek, v, [lekked,lekking,leks], "taruwa don nuna gogewa a lokacin nuna sha'awa").
+entry(lekvar, n, [lekvarori], "mantu-karas").
+entry(lekythos, n, [lekythoi], "tulu mai da ake amfani da shi a tsohuwar Girka").
+entry(lekythus, n, [lekythi], "lekythos").
+entry(mai_so, n, [masoya], "wani mai kauna").
+entry(lemma, n, [lemmas], "ko LEMMATA wani iri na bayani a ilimin mantiki").
+entry(lemming, n, [lemmings], "wani rodent mai kama da bera").
+shigarwa(lemnisci, npl, [], "guduma na jijiyoyi").
+entry(lemo, n, [lemomi], "irin lemu wanda yake mai kawar da tsaftar tunaninLEMO LEMO adj").
+entry(lemo-naɗi, n, [lemo-naɗi], "wani abin sha").
+entry(lempira, n, [lempiras], "wani rukuni na kuɗi na Honduras").
+entry(lemur, n, [lemurs], "dabbobin da ke zaune a kan itatuwa waɗanda aka danganta su da birai").
+entry(lemures, npl, [], "fatalwowi mamata a cikin addinin Romawa na dā").
+entry(lemurine, adj, [], "game da bushiya").
+entry(lemuroid, n, [lemuroids], "wani lemur").
+entry(lend, v, [lent,lending,lends], "ba da amfani na ɗan lokaci").
+entry(lender, n, [masu bayar da bashi], "wanda ke bayar da bashi").
+entry(ma, n, [masu], "ayin bayarwa na ɗan lokaci").
+entry(lenes, pl, [], "na lenis").
+entry(tsawon, n, [tsawuna], "dogon ko mafi dogon girman wani abu").
+entry(lengthen, v, [lengthened,lengthening,lengthens], "ƙara tsawo ko zama tsawo").
+entry(dogo, adj, [], "MAFI DOGO MAFI DOGO sosai").
+entry(lenience, n, [leniences], "sauƙi").
+entry(tausayi, n, [tausayoyi], "ingancin kasancewa mai sassauci").
+entry(lenient, adj, [], "sauƙin rai").
+entry(lenis, n, [lenes], "sauti na magana da aka furta tare da dan kadan ko babu fitar numfashi mai karfi").
+entry(lenite, v, [lenited,leniting,lenites], "don magana da rauni").
+entry(lenition, n, [lenitions], "canji a cikin furuci").
+entry(lenitive, n, [lenitives], "magunguna masu sanyaya").
+entry(lenity, n, [lenities], "sauƙi").
+entry(leno, n, [lenos], "salon saka").
+entry(len, n, [lens], "wani bangare na abu mai gani da ake amfani da shi wajen sauya yadda hasken rana ke haduwa LENSLESS sif").
+shigar(ruwan-magana, v, [da aka yi rajista, yin rajista, raunin], "yin fim na").
+entry(madubi, n, [madubai], "madubi").
+entry(lensing, n, [lensings], "aikin ko kuma wani lokaci na yin fim na motsi").
+entry(lensman, n, [masu daukar hoto], "mai daukar hoto").
+entry(lent, da, [], "lokacin bayanna na aro").
+entry(lentando, adv, [], "yana raguwa a hankali ana amfani da shi azaman umarnin kiɗa").
+entry(lenten, sif, [], "kuluwa").
+entry(lentic, sif, [], "mai alaƙa da ruwa mara motsi").
+entry(lenticel, n, [lenticels], "tarin ƙwayoyin halitta a jikin dogon tsiro").
+entry(lentinjo, n, [lentigines], "tabo").
+entry(lentil, n, [dawa], "wani tsire-tsire na shekara-shekara daga Eurasia").
+entry(lentisk, n, [lentisks], "itace mai ganye koyaushe").
+entry(lento, n, [lentos], "wani yanayi na kiɗan waɗanda suke tafiya sannu a hankali").
+entry(lentoid, n, [lentoid], "wani abu mai siffar tabarau").
+entry(leone, n, [leones], "wani rukunin kudin Sierra Leone").
+entry(leonine, sif, [], "mai nasaba da zaki").
+entry(zaki, n, [zakuna], "babban namun-daji mai cin nama").
+entry(leotard, n, [kaya], "tufafi masu matse jiki").
+entry(leper, n, [lepra], "wanda ya kamu da kuturta").
+entry(lepidote, n, [lepidotes], "bishiyar fure").
+entry(leporid, n, [leporids], "ko LEPORIDAE wani dabbar cizo").
+entry(leporine, sif, [], "da kama da zomo ko barewa").
+entry(leprose, sifa, [], "mai kuturta").
+entry(kitse, n, [kitse], "wata cutar gargajiya wadda take da alamu na rashin lafiya a fata da kuma nakasa").
+entry(mai-ciwon-kuturu, sif, [], "mai-kuturu").
+entry(leprous, sif, [], "wanda cutar kuturta ta kama").
+entry(lept, a, [], "baya daga cikin tsalle").
+entry(leptin, n, [leptins], "wani hormone wanda kwayoyin kitse ke fitarwa").
+entry(lepton, n, [leptons], "wani kwayar zarraLEPTONIC adj").
+entry(lepton, n, [lepta], "tsohon kudin kasar Girka").
+entry(lesbian, n, [‘yan madigo], "mace mai zama madigo").
+entry(lesbigay, n, [lesbigay], "mace ko namiji dan luwadi ko dan madigo").
+entry(rauni, v, [raunata, raunatacce, raunuka], "haifar da canji mara kyau a tsarin wani sashin jiki").
+entry(less, adi, [], "KARAMI MAFI KARAMIda ba ta da yawa ko a digiri").
+entry(mai haya, n, [masu haya], "wanda ake ba haya").
+entry(ƙaranci, v, [ƙaranciɗa, ƙaranciya, ƙaranciya], "yin ko zama ƙasa").
+entry(karami, sif, [], "ba mai girma ko mahimmanci").
+entry(darasi, v, [dara, yin_darasi, darussa], "don koyarwa").
+entry(mai-haya, n, [masu-haya], "wanda ke bayar da haya").
+entry(lest, conj, [], "don tsoron cewa").
+entry(let, v, [letted,letting,lets], "hana").
+entry(letch, v, [letched,letching,letches], "lech").
+entry(rauni, n, [raunuka], "raguwa").
+entry(mautãwa, n, [mautãwõyi], "wata illa ta gado mai haddasa mutuwa").
+entry(lethally, adv, [], "ta wata hanya mai kisa").
+entry('kasala', n, ['kasalai'], "drowsiness sluggishness").
+entry(lethe, n, [lethes], "mantuwaLETHEAN adj").
+entry(letout, n, [letouts], "wani abu da ke yiwuwa a guji yin wani abu").
+entry(letted, da, [], "yanayin kalmar let").
+entry(wāsika, v, [wāsikaƙi, wāsikantawa, wāsikoki], "yin alama da wāsikoki, alamu rubutattu masu wakiltar sautunan magana").
+entry(letterer, n, [letterers], "wanda ke rubutu").
+entry(bari, yanzu, [], "ma'anar kalmar 'let' a matsayin wanda ake yi").
+entry(kabeji, n, [kabejikai], "ciyawa da ake nomawa a matsayin ganyen salad").
+entry(letup, n, [letups], "saukakewa ko sassauci").
+entry(leu, n, [lei], "wani sashi na kudi na Romania").
+entry(leusimiya, n, [leusimiyoyi], "leusimiyaLEUSIMIC adj").
+entry(leucin, n, [leucins], "lusiin").
+entry(leucine, n, [leucines], "wani sinadarin amino").
+entry(leusait, n, [leusaitoci], "wani ma'adanai LEUSITIC sif").
+entry(leucoma, n, [leucomas], "leukoma").
+entry(leucon, n, [leucons], "kumfa mai tsari mai rikitarwa").
+entry(leucosis, n, [leucoses], "leukosisLEUCOTIC adj").
+entry(leud, n, [leuds], "ko LEUDES mai bauta wa feudal").
+entry(leukemia, n, [leukemias], "cutar gaɓoɓin jini").
+entry(leukemic, n, [leukemics], "wanda cutar sankarau ya shafa").
+entry(leukoma, n, [leukomas], "abin da ke toshe idon gaba").
+entry(leukon, n, [leukons], "wani sashen jiki da ya ƙunshi farin jini").
+```prolog
+entry(leukosis, n, [leukoses], "ciwon sankarauLEUKOTIC adj").
+```
+entry(lev, n, [leva], "ko LEVAS ko LEVSa naúrar kuɗi ta Bulgaria").
+entry(levant, v, [levanted,levanting,levants], "kauce wa bashi").
+entry(levanter, n, [levanters], "iska daga gabas a tekun Bahar Rum").
+entry(levator, n, [levators], "ko LEVATORES wani tsoka da ke daga wani ɓangare na jiki ko wani sashi").
+entry(levee, v, [leveed, leveeing, levees], "gyara tare da katanga").
+shigar(mataki, v, [gaya, gyara, matakai], "ko gayA gyara matakaIdon nufin yi daidai").
+entry(leveler, n, [levelers], "wanda ke yin daidai").
+entry(mai-matsa, n, [masu-matsa], "mai-matsa").
+entry(levelling, a, [], "harmadadden da kalmar level ke nufin a lokacin yanzu").
+entry(levelly, adv, [], "a cikin hanya madaidaiciya").
+entry(lever, v, [levered,levering,levers], "don motsa tare da leverage wani abu mai karko da ake amfani da shi don dagawa").
+entry(leveraji, v, [leverajid,leverajing,leverajes], "samar da wani irin fa'ida ta tattalin arziki").
+entry(leveret, n, [leverets], "zabbi").
+entry(leviable, sif, [], "mai yiwuwa a tattara").
+entry(levied, past, [], "lokacin gaba na levy").
+entry(levier, n, [leviers], "wanda ke tara haraji").
+entry(levies, a yanzu, [], "mutum na 3 na guda ɗaya na levy").
+entry(levigate, v, [levigated,levigating,levigates], "rage zuwa gari mai laushi").
+entry(levin, n, [levins], "walƙiya").
+entry(lefirate, n, [lefirates], "al'adar aurar da matar dan'uwa mutuwa").
+entry(tafiya a sama, v, [ya tafi a sama,yana tafiya a sama,suna tafiya a sama], "ta tashi kuma ta yi rairayi a cikin iska").
+entry(levity, n, [levities], "hali da ke nuna rashin natsuwa").
+entry(levo, sif, [], "juyawa zuwa hagu").
+entry(levodopa, n, [levodopas], "wani irin dopa").
+entry(levogyre, sif, [], "mai juyawa zuwa hagu").
+entry(levulin, n, [levulins], "wani fili na sinadarai").
+entry(levulose, n, [levuloses], "sukari mai zaƙi sosai").
+entry(karɓa, v, [karɓa, karɓawa, karɓawa], "yin karɓa ko tara ta hanyar ikon doka").
+entry(lewd, adj, [], "FIYA-FIYA, MAFI OBSCENE, LEWDLY adj").
+entry(tsiraici, n, [tsiraicai], "yanayin kasancewa tsirara").
+entry(lewis, n, [lewises], "na'urar dagawa").
+entry(lewisite, n, [lewisites], "ruwan maye mai haifar da gyambon fata").
+entry(lewisson, n, [lewissons], "lewis").
+entry(lex, n, [leyoyi], "doka").
+entry(lexeme, n, [lexemes], "wani yanki na harshe LEXEMIC sif").
+entry(na kalmomi, siffofi, [], "mai dangantaka da kalmomin harshe").
+entry(kamus, n, [kamusai], "ko KAMUSa wani littafi na kalmomi").
+shigarwa(laƙani, n, [laƙanai], "wani alama mai wakiltar kalma").
+entry(lexis, n, [leksis], "kalmomin harshe, wata ƙungiya ko fannin ilimi").
+entry(ley, n, [leys], "manya").
+entry(li, n, [lis], "wani ma'aunin nesa na kasar Sin").
+entry(liable, sif, [], "wanda zai iya fuskantar ko kamuwa da wani abu mai yiwuwa ko mai iya faruwa").
+entry(hadaka, v, [hadaka, hadaka, hadaka], "kawo hadin kai").
+entry(sadarwa, n, [sadarwowi], "hanya don ci gaba da sadarwa").
+entry(liana, n, [lianas], "dodin da ke girma a cikin gandun daji na wurare masu zafi").
+entry(liane, n, [lianes], "liana").
+entry(liang, n, [liangs], "wani nau'i na kasar Sin na nauyi").
+entry(lianoid, sif, [], "mai nasaba da liana").
+entry(maƙaryaci, n, [maƙaryata], "wanda yake magana ƙarya").
+entry(liard, n, [liards], "tsohon kudin azurfa na Faransa").
+entry(lias, n, [liases], "dutsen marmara mai launin shuɗi").
+entry(liatris, n, [liatrises], "ganye mai furanni masu bututu").
+entry(lib, n, [libs], "ƙuncitãwa").
+entry('miƙa', n, ['miƙa-ruwa'], "zuba ruwa na gargajiya").
+entry(libeccio, n, [libeccios], "iska daga kudu-maso-yamma").
+entry(libel, v, [libeled,libeling,libels], "ko LIBELLED LIBELLING LIBELSto yin, ko wallafa wata mummunar magana game da").
+entry(libelant, n, [libelants], "mai shigar da kara a wata irin shari'a").
+entry(libelee, n, [libelees], "wanda ake karɓa a wata irin ƙarar").
+entry(libeler, n, [masu_zargi], "wanda yake zargi").
+shigarwa(libelist, n, [libelists], "mai zargi").
+entry(yi kazafi, a, [], "bayanin lokaci da yawa na yi kazafi").
+shigar(libellee, n, [libellees], "libelee").
+entry(libeller, n, [masu_lawula], "mai_lawali").
+entry(libelling, a, [], "aikatau na ci-gaba na libel").
+entry('mai bata suna', adj, [], "mai zagi").
+entry(liber, n, [libers], "ko LIBRI littafin rikodin jama'a").
+entry(liberal, n, [masu sassauci], "mutum mai son cigaba ko gyara").
+entry('yantar', v, ['yanta','yanke','yanto'], "a saki").
+shigarwa('yanci', n, ['yanci'], "matsayin kasancewa lafiya").
+entry(libido, n, [libidos], "ƙarfin kuzari da aka samo daga motsawar halitta ta jiki").
+entry(liblab, n, [liblabs], "mutumin da ke goyon bayan hadin gwiwar rukunin masu sassauci da na kwadago").
+entry(libra, n, [librae], "wani tsohon sikelin nauyin Romawa").
+entry(libra, n, [libras], "tsabar ƙorafi ta baya ta ƙasar Peru").
+entry(laburare, n, [laburare], "wuri ne inda ake ajiye kayan karatu don karantawa da kuma bincike").
+entry(librate, v, [librated,librating,librates], "motsi daga gefe zuwa gefe").
+entry(libretto, n, [librettos], "ko LIBRETTI rubutun opera").
+entry(libri, a, [], "jam'in liber").
+entry(litse, pl, [], "na kanwa").
+entry(lasisi, v, [lasisance,lasisin,lasisai], "lasisi").
+entry(licencee, n, [licencees], "mai lasisi").
+entry(maikirkira, n, [maikirkirai], "maikirkira").
+entry(rajista, v, [rajista,rajistawa,rajistace], "ba da izini ko damar hukuma").
+entry('mai lasisi', 'n', ['mai lasisi'], 'wanda aka ba lasisi').
+entry(mai-lasisi, n, [mai-lasisi], "wanda ke bayar da lasisi").
+entry(licensor, n, [masu bayar da lasisi], "mai bayar da lasisi").
+entry(licente, a, [], "jam'in sente").
+entry(lich, n, [liches], "gawawwaki").
+entry(lichee, n, [lichees], "Litchi").
+entry(lichen, v, [lichened,lichening,lichens], "to cover with lichens flowerless plants").
+entry(lichenin, n, [lichenins], "wani sinadarin sinadarai").
+entry(lichgate, n, [lichgates], "kofar gawarwaki").
+entry(lichi, n, [lichis], "litchi").
+entry(licht, v, [lichted,lichting,lichts], "haskaka").
+entry(lichtly, adv, [], "a hankali").
+entry(licit, adj, [], "mai_iza_ko_dokaLICITLY adv").
+`entry(lick, v, [licked,licking,licks], "shafe da harshe a saman wani abu").`
+entry(licker, n, [lickers], "wanda yake lasa").
+entry(shafa, n, [shafuwa], "dokana ko duka").
+entry(lickspit, n, [lickspits], "mutum mai yi wa wani biyayya kai tsaye").
+entry(licorice, n, [licorices], "wani ciyawa mai tsawo na shekara-shekara").
+entry(lictor, n, [lictors], "mai tsaron alkalai a tsohuwar Rome").
+entry(lid, v, [lidded,lidding,lids], "sanya murfi mai iya motsi").
+shigar(lidar, n, [lidars], "na'urar gano wuri ta lantarki").
+entry(lidless, sif, [], "babu murfi").
+entry(lido, n, [lidos], "wani wurin hutun rairayin bakin teku mai kyau").
+entry(kwance, v, [kwarce, kwancewa, kwanciya], "LIESto be in or get into a horizontal position").
+entry(mara-gaskiya, v, [yaudara, yaudarawa, yaudari], "yin magana mara gaskiya").
+entry(lied, n, [waƙoƙin_jamus], "waƙar Jamusanci").
+entry(lief, adj, [], "LIEFER LIEFESTwillingLIEFLY adv").
+entry(liege, n, [lieges], "wani shugaba na feudal").
+entry(liegeman, n, [liegemen], "bawa a mulkin feudal").
+entry(lien, n, [liens], "haƙƙin doka don riƙewa ko siyar da dukiyar wanda ya ci bashi").
+entry(lienable, adj, [], "mai yiyuwa a cakude a matsayin lamunin").
+entry(lienal, sif, [], "da alaka da hanta").
+entry(lientery, n, [lienteries], "wani irin gudawa").
+entry(lier, n, [liers], "wanda yake kwance ko jeka").
+entry(lierne, n, [liernes], "wani bangare na ha?awa a cikin ginshikin Gothic").
+entry(wuri, n, [wuri], "wurin tsayuwa").
+entry(lieve, adv, [], "DA SAURIN RANSA").
+entry(rayuwa, n, [rayuwa], "ingancin da ke bambanta dabbobi da tsirrai daga abubuwa marasa rai").
+entry(lifebelt, n, [makullin rayuwa], "abin ceto rayuwa da aka kafa kamar mundaye").
+entry(kwalekwale, n, [kwalekwalen], "ƙaramin jirgin ceto").
+entry(lifebuoy, n, [lifebuoys], "abin ceton rai da yake kamar zobe").
+entry(kiyaye rayuwa, n, [kiyayen rayuwa], "gidaje da ayyukan lafiya ga tsofaffi").
+entry(lifeful, sfd, [], "cike da rayuwa").
+entry(mara_rayuwa, sif, [], "ba shi da rai").
+entry(lifelike, adi, [], "mai kama da abu mai rai").
+entry(lifeline, n, [lifelines], "igiyar taimako da aka yi amfani da ita don taimaka wa mutum da ke cikin damuwa").
+entry(lifelong, adj, [], "mai dawwama har tsawon rayuwa").
+entry(lifer, n, [lifers], "fursuna mai dauke da hukuncin kisa").
+entry(tsawon_rayuwa, n, [tsawon_rayuwar], "wata rayuwa").
+entry(tsawon_rayuwa, n, [tsawon_rayuwa], "zaman da mutum ko wani abu ke rayuwa").
+entry(hanyar_rayuwa, n, [hanyoyin_rayuwa], "wani hanyar rayuwa").
+entry(lafiyayen-aiki, n, [lafiyayen-aiki], "aiki mafi mahimmanci na rayuwar mutum").
+entry(dago, v, [dagawa, dagaye, dagaka], "motsawa zuwa wuri mafi girmaDAGAWA adj").
+entry(lifter, n, [masuɗagawa], "wanda ke ɗagawa").
+entry(liftgate, n, [liftgates], "ƙofar baya a kan babur wanda ke buɗewa zuwa sama").
+entry(liftman, n, [liftmen], "mai aiki a lif").
+shiga(liftoff, n, [liftoffs], "tashi daga ƙasa kai tsaye na rokoki").
+entry(ligament, n, [ligaments], "banda na jijiya mai karko").
+entry(ligan, n, [ligans], "lagan").
+entry(ligand, n, [ligands], "wani nau'in ion ko kwayoyin halitta").
+entry(ligase, n, [ligases], "wani enzym").
+entry(ligate, v, [ligated,ligating,ligates], "ƙulla").
+entry(ligation, n, [ligations], "aikin ɗaure").
+entry(ligature, v, [ligatured,ligaturing,ligatures], "danganta").
+entry(liger, n, [ligers], "haihuwa daga zakin namiji da macen damisa").
+entry(light, sif, [], "MARA NAU'YI MAI SAUKI MAI SAUKI").
+entry(light, v, [haske,dutana,lambu], "haske").
+entry(lighten, v, [lightened,lightening,lightens], "rage da nauyi").
+entry(lighter, v, [lightered,lightering,lighters], "don isa a cikin nau'in kwale-kwaleLIGHTFUL adj haske mai haskeLIGHTING n pl LIGHTINGSƙara haskeLIGHTISH adj kusan takamaimen haskeLIGHTLY adv zuwa mataki mai sauƙiLIGNAN n pl LIGNANA nau'in polymerLIGNEOUS adj na ko kamar itaceLIGNIFY v LIGNIFIED LIGNIFYING LIGNIFIESto juya zuwa itaceLIGNIN n pl LIGNINSabu wanda yake daga jikin itaceLIGNITE n pl LIGNITESa irin muƙaman kwalLIGNITIC adjLIGROIN n pl LIGROINSwani abu mai ƙonewaLIGROINE n pl LIGROINESligroinLIGULA n pl LIZWAS or LIGULAEwani abu mai murɗa ko sassakaLIGULAR LIGULATE LIGULOID adjLIGULE n pl LIGULESa wani abu na shuka mai maƙasudiLIGURE n pl LIGURESa wani dutse mai tamaniLIKABLE adj daɗiLIKABLY advLIKE adj LIKER LIKESTmace ko namiji mai iya yin abu dayaLIKE v LIKED LIKING LIKESto samu jin dadin abuLIKEABLE adj likableLIKEABLY advLIKED a jiya na sonLIKELY adj LIKELIER LIKELIESTna yiwuwarLIKEN v LIKENED LIKENING LIKENSto nuna da kamarLIKENESS n pl LIKENESSESa hotoLIKER n pl LIKERSwani wanda yakaunaLIKEST superlative na sonLIKEWISE adv a irinka mai kamaVIDO adv cikin kamene da daidaitoLIKING n pl LIKINGSwani jin dadi ko kaunaLIKUTA n pl MAKUTAwanda aka yi amfani da kudi na baya a ZaireLILAC n pl LILACSa shukar da ke fureLILIED adj cike da fure LILIES pl na fureLILLIPUT n pl LILLIPUTSabin mutumLILT v LILTED LILTING LILTSto rera ko magana cikin saloLILY n pl LILIESa wani shuka mai fureLILYLIKE adjLIMA n pl LIMAStsaba mai cimar wakar dake shuka yaguLIMACINE adj kamar irin na gizoLIMACON n pl LIMACONSa wata nau'an nuni na geometryLIMAN n pl LIMANSwani wurin tekuLIMB v LIMBED LIMBING LIMBSto yankewa off hannaye ko kafafunLIMBA n pl LIMBASwani itace na AfrikaLIMBATE adj mai cikin wa’azi da kala mai banbanciLIMBECK n pl LIMBECKSwainan alchemicLIMBER adj LIMBERER LIMBERESTlilce da kasancewa mai daidaitawaLIMBERLY advLIMBER v LIMBERED LIMBERING LIMBERSto hada kayan jin dadi ga wasu manya da take LIMAL a pl na limbusLIMBIC adj daya shafi wani tsarin kwakwalwa na raiLIMBIER wanda ake gwadadawa na limbiLIMBIEST wanda yake da wani guga na limbiLIMBLESS adj babu hannaye ko kafafunaLIMBO v LIMBOED LIMBOING LIMBOSto aiwatar al’adr na West IndiaLIMBUS n pl LIMBUSES na tabbataccen iyakarLIMBY adj LIMBIER LIMBIESTwannan mai yawa babba banchosLIME v LIMED LIMING LIMESto aiwatar da rukawa a kan karafe mai alaka da calcumLIMEADE n pl LIMEADESwani sha mai dandanoLIMEKILN n pl LIMEKILNan wanda ke cikin ginan yaunaLIMELESS adj babu kalkumannsarewaLIMEN n pl LIMENS or LIMINAwata babbar mikiLIMERICK n pl LIMERICKWani abu mai hassiri na wacce keLIMES n pl LIMITESwani biki mai rufewarLIMEWASH n pl LIMEWASHESwani kasi na ruwa da kalku da ake amfani dashi wajen gyare gyaren lokaci na ruwaLAY inkişaf app cire komi fuskanci aminciLOO v LOOED LOOING LOOSto hadde gaba dasaka sakakLOOBY n pl LOOBIE, loofer Na weweLUCE_WE-M_ITINAMINfardal saãdaLUCE_WII tenLUCE_T ainLUC-ECH akarmousiLOOEST haidfikhilaLYNNIR prz-fill-garajLIFELONG taPLOUNingly pe kawoLISHB nunamutundeI-LIMIA ctingombeLOWDAN borfatureahubewinUX abale<|disc_score|>
+entry(ma, n, [uwa], "uwa").
+entry(maar, n, [maars], "wani kwazazzabon tsauni mai aman wuta").
+entry(mabe, n, [mabes], "lusari da aka shuka").
+entry(mac, n, [macs], "wani riga mai kare ruwa").
+entry(macaber, sif, [], "makabre").
+entry(macabre, adj, [], "mai ban tsoro").
+entry(macaco, n, [macacos], "wani lemur").
+entry(macadam, n, [macadams], "wani nau'in titi").
+entry(makake, n, [makaken], "birki mara dogon wutsiya").
+entry(makaroni, n, [makaronis], "ko MAKARONIES wani irin taliya mai siffar bututu").
+entry('macaroon', n, ['macaroons'], "wani nau'in kuki").
+entry(dodo, n, [dodanni], "babban toka").
+entry(maccabaw, n, [maccabaws], "dan maciji").
+entry(maccaboy, n, [maccaboys], "wani nau'in taba").
+entry(macchia, n, [macchie], "wani yankin da ke da tsire-tsire da dazuka masu yawa").
+entry(maccoboy, n, [maccoboys], "maccaboy").
+entry(mace, v, [maced,macing,maces], "kai hari da makami wanda ya yi kama da kulki, wani abu mai nauyi na itace").
+entry(macer, n, [macers], "wani jami'i wanda ke dauke da sanda mai alfarma").
+entry(tsoma, v, [tsoma, tsoma, tsoma], "don yi laushi ta hanyar jika a cikin ruwa").
+entry(jirgi, n, [jirage], "wani adadi da ke nuna rabon saurin jiki da saurin sauti").
+entry(machaca, n, [machacas], "wani abinci na Mexico da ya ƙunshi naman da aka yayyanka kuma aka soya tare da kayan lambu").
+entry(mache, n, [maches], "wani ganyen Turai").
+entry(macher, n, [machers], "mutum da aka sani da kammala ayyuka").
+entry(tagwaye, n, [makaman tagwaye], "wuƙa mai girma mai nauyi").
+shigar(inji, v, [injiyi, injin aiki, injuna], "don sarrafa ta hanyar inji wani na'ura mai aiki da karfin fasaha").
+entry(machismo, n, [machismos], "mijin-ƙarfi mai tsanani").
+entry(macho, n, [machos], "mutum wanda yake nuna halin kishin maza").
+entry(machoism, n, [machoisms], "machismo").
+entry(machree, n, [machrees], "masoyi").
+entry(machzor, n, [machzors], "ko MACHZORIMmahzor").
+(entry, macing, maƙo, [], "ƙashin na mace").
+entry(mack, n, [macks], "maci").
+entry(kifi gidan ruwa, n, [kifi gidan ruwa], "wata kifi na teku wanda ake ci").
+entry(mackinaw, n, [mackinaws], "wani yadi na ulu").
+entry(mackle, v, [mackled,mackling,mackles], "ɗimautawa a bugu").
+entry(macle, n, [makulashe], "wuri ko canji na launi a cikin ma'adiniRUBUCE adj").
+entry(macon, n, [macons], "giya ja ko fara daga Faransa").
+entry(macrame, n, [macrames], "daure-daure da igiya ko zaren da aka kulleshi").
+entry(makro, n, [makros], "wani irin umarnin kwamfuta").
+entry(macron, n, [macrons], "wani alama da aka sanya akan wani vowel domin nuna cewa yana da tsawon sauti").
+entry(macropod, n, [macropods], "wani dabba marsupial mai cin tsire-tsire").
+entry(macrural, sif, [], "mai dangantaka da macruran").
+entry(macruran, n, [macrurans], "wani daga cikin rukuni na crustaceans").
+entry(macula, n, [maculas], "ko MACULAE wani tabo MACULAR sif").
+entry(maculate, v, [maculated,maculating,maculates], "yi alama da tabo").
+entry(macule, v, [maculed,maculing,macules], "yin mackle").
+entry(macumba, n, [macumbas], "wani addini da ake aiwatarwa a Brazil").
+entry(mad, sifili, [], "MABAMBANTA MABAMBANTAINSANE").
+entry(mad, v, [madded, madding, mads], "ta ɓata rai").
+entry(madam, n, [madamas], "mace wadda take kula da gidan karuwai").
+entry(madame, n, [madames], "kwaila").
+entry(madame, n, [mesdames], "sunan girmamawa na Faransanci ga matar aure").
+entry(madcap, n, [madcaps], "mutum mai yawan zafin kai").
+entry(madded, da, [], "lokacin mad").
+entry(madden, v, [maddened, maddening, maddens], "sa ko zama hauka").
+entry(madder, n, [madders], "wani ciyawa mai dorewa").
+shigarwa(maddest, superlative, [], "na hauka").
+entry(madding, present, [], "fluktuwasiya na mad").
+entry(maddish, sif, [], "wani irin hauka").
+shigarwa(aikata, da, [], "zamanin yi").
+entry(madeira, n, [madeiras], "giya farin").
+entry(maderize, v, [maderized, maderizing, maderizes], "juya launin ruwan kasa ana amfani da shi a giya mai launin fari").
+entry(madhouse, n, [madhouses], "matattarar mahaukata").
+entry(madly, adv, [], "cikin hali na hauka").
+entry(mahaukaci, n, [mahaukata], "mutum wanda ya haukace").
+entry(hauka, n, [haukacewa], "halin hauka").
+entry(madonna, n, [madonnas], "wani tsohon taken girmamawa na Italiya ga wata mace").
+entry(madras, n, [madras], "daki da aka yi da auduga").
+entry(makaranta, n, [makarantu], "madrassa").
+entry(madrasah, n, [madarasai], "madrassa").
+entry(madrasa, n, [madrasa], "makaiciyar makarantan Musulunci").
+entry(uwa, n, [uwaye], "mother").
+entry(madrigal, n, [madrigaloli], "wani ɗan gajeren waƙar lissafi").
+entry(madrona, n, [madronas], "itacen da yake ko da yaushe yana da ganye").
+entry(madrone, n, [madrones], "madrona").
+entry(madrono, n, [madronos], "madrona").
+entry(madtom, n, [madtoms], "kifi na Arewa Amirka").
+entry(maduro, n, [maduros], "sigari mai duhu mai ƙarfi sosai").
+entry(matacciya, n, [matattatuwa], "mace wadda ta haukace").
+entry(madwort, n, [madworts], "tsiro mai fure").
+entry(madzoon, n, [madzoons], "madzun").
+entry(mae, n, [maes], "fiye").
+entry(maenad, n, [maenads], "ko MAENADESWata macen da ke shiga cikin dambun gargajiya na Girka MAENADIC adj").
+entry(maestoso, n, [maestosos], "wani yanki na kiɗa mai wadata").
+entry(maestro, n, [maestros], "ko MAESTRI masanin wata fasaha").
+entry(maffiya, n, [maffiyoyi], "mafia").
+entry(maffick, v, [mafficked,mafficking,mafficks], "yin bikin cikin hayaniya").
+entry(mafiya, n, [mafiyoyi], "ƙungiyar sirri ta masu laifi").
+entry(mafic, adj, [], "mai alaka da ma'adanai masu wadata da maganesiya da baƙin ƙarfe").
+entry(mafioso, n, [mafiosos], "ko MAFIOSIa mamba na mafia").
+entry(maftir, n, [maftirs], "sashin karshe na parashah").
+entry(muj, n, [mujallu], "mujallu").
+entry(magalog, n, [magalogs], "wani kasida na sayarwa da ya yi kama da mujalla").
+entry(mujalla, n, [mujallu], "wani irin wallafa kullum-kullum").
+entry(magdalen, n, [magdalens], "karuwa ta tuba").
+entry(mayen iko, n, [mayen iko], "mai sihiri").
+entry(magenta, n, [magentas], "wani ruwan hoda mai ja").
+entry(maggot, n, [maggots], "ɗan tsutsar kwari mara ƙafaMAGGOTY adj").
+entry(magi, pl, [], "na magus").
+entry(magian, n, [magians], "wani maga").
+entry(sihr, v, [sihranta, sihranci, sihrori], "don yin tasiri ta hanyar sihiri").
+entry(sihiri, sif, [], "mai kama da sihiri").
+entry(maiyin-ado, n, [mayin-ado], "wanda ya kware a sihiri").
+entry(magicked, da, [], "zamanin sihiri").
+entry(magicking, yanzu, [], "cikakken lokaci na sihiri").
+entry(magilp, n, [magilps], "magilp").
+entry(malam, n, [malamai], "malami ko mai koyarwa").
+entry(maglev, n, [maglevs], "jirgin ƙasa da ke amfani da maganadisu don motsawa sama da titin").
+entry(magma, n, [magmas], "ko MAGMATAdutse mai narkewa daga inda dutse mai aman wuta yake fitowaMAGMATIC sif").
+entry(magnate, n, [manyata], "wani mutum mai iko ko tasiri").
+entry(magnesia, n, [magnesias], "wani hadadden maganiMAGNESIC adj").
+entry(magnet, n, [magana], "wani abu mai jawo ƙarfe").
+entry(magnetic, n, [magnetics], "magana waje").
+entry(magneto, n, [magnetos], "wani nau'in janareta na lantarki").
+entry(magneton, n, [magneton], "naúrar yanayin magnetic").
+entry(magnific, sif, [], "mai girma").
+entry(magnify, v, [kara girma, kara girman, yana kara girma], "don kara girman da ake gani na").
+entry(magnolia, n, [magnolias], "shuke-shuke na fure ko itace mai fure").
+entry(magnox, n, [magnoxes], "wani hade layi da bisa-magnesium").
+entry(magnum, n, [magumuna], "babban kwalban giya").
+entry(magot, n, [magots], "biri mara wutsiya").
+entry('mafarauci', n, ['mafarauta'], "tsuntsu irin na korvo").
+entry(maguey, n, [magueys], "wani tsire-tsire na wurare masu zafi").
+entry(magus, n, [maboka], "mai sihiri").
+entry(mahant, n, [mahantoci], "babban firist ɗin Hindu").
+entry(maharaja, n, [maharajas], "sarki ko yarima a Indiya").
+entry(maharani, n, [maharanis], "matar sarki").
+entry(mahatma, n, [mahatmas], "wani malamin addinin Hindu").
+entry(mahimahi, n, [mahimahis], "kifi wanda ake amfani da shi a girke-girke a Hawaii").
+entry(mahjong, n, [mahjongs], "wasa da ya samo asali daga kasar Sin").
+entry(mahjongg, n, [mahjonggs], "mahjong").
+entry(mahoe, n, [mahoes], "itace na wurare masu zafi").
+entry(mahoganyi, n, [mahoganyoyi], "itacen duniya mai zafi").
+entry(mahonia, n, [mahonia], "wani shuka mai fure").
+entry(mahout, n, [yan mahout], "mai kula da kuma direban giwa").
+entry(mahua, n, [mahuas], "itacen Indiya").
+entry(mahuang, n, [mahuangs], "wani shuka na Asiya").
+entry(mahwa, n, [mahwas], "mahua").
+entry(mahzor, n, [mahzors], "ko MAHZORIM littafin addu'ar Yahudanci").
+entry(maiasaur, n, [maiasaurs], "wani dinozan dabba mai cin ganyayyaki").
+entry('yar aiki, n, ['yan aiki], "da mace budurwa'ADJ A'.").
+entry(maidan, n, [maidans], "wani fili a bude dake cikin gari ko kusa da gari").
+entry(budurwa, n, [budurwai], "yarinyar da ba ta taba aure ba BUDURCI adj").
+shigar(alhazanci, n, [alhazancici], "matsayin zama budurwa").
+entry(maieutic, sifa, [], "masu dangantaka da wata hanya ta samun ilimi").
+entry(maigre, sif, [], "ba tare da nama ko ruwan 'ya'yan itãcen marmari").
+entry(maihema, n, [maihemai], "maihem").
+entry(mail, v, [aika, aikawa, aika], "aika ta hanyar tsarin aikawasiku na gwamnatiMAILABLE adj").
+entry(mailbag, n, [jakunkunan wasiƙa], "jakar daukar kayan wasiƙar aikawasiku").
+entry(akwatin-wasiku, n, [akwatinan-wasiku], "akwati don ajiye wasiku").
+entry(maile, n, [mailes], "wani akwai dutse tsaunin Bahar Rum").
+entry(mailer, n, [mailers], "wanda ke aika wasiƙa").
+entry(mailing, n, [mailings], "gona da aka haya").
+entry(maill, n, [maills], "biyan kuɗi").
+entry(mailless, adj, [], "wanda ba shi da sulke").
+entry(maillot, n, [maillots], "riga daya da mata ke amfani da ita wajen iyo").
+entry(dan-wasan-kwaito, n, [yan-wasan-kwaito], "mutum wanda yake dauka da isar da wasiku").
+shigar(dakin wasika, n, [dakunan wasiku], "wani daki don sarrafa wasika").
+entry(mailshot, n, [mailshots], "wani abu da aka aika wa mutane da yawa a lokaci ɗaya").
+entry(maim, v, [raunane,raunana,rauna], "jikkatawa don haifar da lahani mai ɗorewa").
+entry(marasa lafiyan jiki, n, [marasa lafiyar jiki], "wanda ke lahani").
+entry(babban_sashi, n, [babban_sashe], "babban sashi").
+entry(tudu, n, [tudunan], "babban kuguwar kasa").
+entry(mainline, v, [mainlined,mainlining,mainlines], "shigar da magani mai sa maye cikin babban jijiyoyi").
+entry(mainly, adv, [], "a mafi yawan lokaci").
+entry(mainmast, n, [mainmasts], "babban sandar jirgi").
+entry(mainsail, n, [mainsails], "babban tukunyar jirgin ruwa").
+entry(mainstay, n, [manyan goyon baya], "babban tallafi").
+entry(riƙe, v, [riƙe, riƙewa, riƙe], "don kiyaye cikin yanayi mai kyau").
+entry(maintop, n, [maintops], "wani dandalin a kan shugabannin babbar bishiya").
+entry(maiolica, n, [maiolicas], "majolica").
+entry(mair, n, [mairs], "fi").
+entry(maist, n, [maists], "mafi").
+entry('masara', n, ['masarori'], "ciyawar hatsi ta Amurka").
+entry(majagua, n, [majaguas], "itacen daji na wurare masu zafi").
+entry(kibiya, adi, [], "da kibiya").
+entry(majestanci, n, [majestanci-majestanci], "daraja ta sarauta").
+entry(majalisar, n, [majalisu], "majalisar dokokin a kasashen Arewa Afirka da Gabas ta Tsakiya daban-daban").
+entry(majolica, n, [majolikas], "wani irin tukwane").
+entry(major, v, [yi karatun kwas guda daya, yin karatun kwas guda daya, yi karatun kwas guda daya], "bin wani takamaiman fannin karatun mai muhimmanci").
+entry(yawanci, n, [yawanci], "yawan fiye da rabi ko mafi girma kashi").
+entry(majorly, adv, [], "kusan duka").
+entry(makaɗa, n, [makaɗa], "mawaƙi").
+entry(yin, v, [yi,yin,yana], "don haifar da wanzuwaMAI YIWU MAI YIWU adj").
+entry(makebate, n, [makebates], "wanda ke ƙarfafa rigima").
+entry(makefast, n, [makefasts], "wani abu da aka ɗaure jirgi a kansa").
+entry(makeover, n, [gyare-gyare], "canjin yanayi").
+entry(maƙeri, n, [maƙerai], "wanda ya ƙera").
+entry(kwalliya, n, [kwalliyoyi], "yadda aka tsara wani abu ko abubuwan da ke cikinsa").
+entry(maki, n, [makis], "wani irin abinci ne na sushi da kayan lambu danye da aka nade a ganye teku").
+entry(makimono, n, [makimonos], "zane-zanen Jafananci na ado").
+entry(making, n, [makings], "kayan da za a iya samar da wani abu daga gare shi").
+entry(mako, n, [makos], "wani kifi mai girman gaske").
+entry(makuta, pl, [], "na likuta").
+entry(malacca, n, [malaccas], "sandaren dabino na rattan na Asiya").
+entry(cuta, n, [cututtuka], "wata rashin lafiya").
+entry(malaise, n, [malaises], "wani yanayi na rashin jin dadi").
+entry(malamute, n, [malamutes], "kare na sled na Alaskan").
+entry(malanga, n, [malangas], "a yaugwa").
+entry(malapert, n, [malaperts], "mutum mai rashin kunya").
+shigarwa(malaprop, n, [malaprops], "wani kuskuren amfani da kalma wanda ke nishadi").
+entry(malar, n, [malars], "gaɓaɓɓen ƙunci").
+entry(zazzabin_cizon_sauro, n, [zazzaban_cizon_sauro], "wani cuta mai daukar kwayar zazzabin_cizon_sauro MALARIAL MALARIAN adj").
+entry(malarkey, n, [malarkey], "abar iska").
+entry(malarky, n, [malarkies], "wasan kwaikwayo").
+entry(malaɗaci, n, [malaɗaciɗa], "warin tsami").
+entry(malate, n, [malates], "gishirin sinadarai").
+shigar(na miji, n, [maza], "wani mutum da yake haihuwar yara ta hanyar dauko mana a cikin mace").
+entry(maleate, n, [maleates], "gishirin sinadarai").
+entry(maledi, v, [maledice, maledicting, maledicts], "la'anta").
+entry(mummuna, sif, [], "cika ko haifar da sharri").
+entry(malemiut, n, [malemiuts], "malamute").
+entry(malamut, n, [malamutoci], "malamute").
+entry(namiji, n, [namija], "halin kasancewa namiji").
+entry(malfed, sif, [], "ciyar da rashin kyau").
+entry(malgre, shafin, [], "duk da haka").
+entry(malic, sif, [], "wanda ya shafi tuffa").
+entry(rashin kyau, n, [rashin kyawuka], "sha'awar cutar da wani").
+entry(mummunan, v, [mummunanta,mummunanawa,mummunanai], "yi mugun magana a kan").
+entry(maligner, n, [masu_mugunta], "wanda ke ƙara mummunan abu").
+entry(malignly, adv, [], "a cikin hanya mai mugunta").
+entry(malihini, n, [malihinis], "sabon zuwa Hawaii").
+entry(maline, n, [malines], "raga mai laushi da ake amfani da ita don labule").
+entry(malinga, v, [malinga, malinga, malinga], "yin kwaikwayon rashin lafiya domin kaucewa aiki ko aikatau").
+entry(malison, n, [malisons], "la'ana").
+entry(malkin, n, [malkins], "macce mai datti").
+entry(mall, v, [malled,malling,malls], "masifar duka").
+entry(malard, n, [malards], "wani agwagi daji").
+entry(mallee, n, [mallees], "itacen da ba ya zubar da ganye").
+entry(mallei, pl, [], "na malleus").
+entry(malleoli, npl, [], "fise-fisen kashi na idon sawu").
+entry(mulat, n, [mulas], "wani irin gudum").
+entry(malleus, n, [mallei], "ƙashi na tsakiyar kunne").
+entry(malling, n, [mallings], "aikin siyayya a manyan kantuna da ke da shaguna da dama").
+entry(mallow, n, [mallows], "wani shuke-shuke mai fure").
+entry(malm, n, [malms], "dutse mai laushi da ya lalace").
+entry(malmsey, n, [malmseys], "wani farin giya").
+entry(malmy, sif, [], "MALMIER MALMIESTmai kama da malm").
+entry(mugun_kamshi, n, [mugun_kamshoshi], "mugun kamshi").
+entry(malonate, n, [malonates], "gishiri ko ester na sinadarin malonic acid").
+entry(maloti, fl, [], "na loti").
+entry(malposed, ajj, [], "kasancewa a wurin da ba daidai ba").
+entry(malt, v, [malted, malting, malts], "kula da ko haɗa tare da naskoki tsiro").
+entry(maltase, n, [maltases], "wani ingarma").
+entry(maltid, n, [maltids], "wani abin sha mai zaki").
+entry(maltha, n, [malthas], "wani abu mai ɗigo na halitta").
+entry(mai-maltu, kwatanci, [], "na maltu").
+entry(maltiest, superlative, [], "na maltina").
+entry(malta, n, [mawadata], "tsarin shirya hatsi don yin giya").
+entry(maltol, n, [maltololi], "wani nau’in sinadari").
+entry(maltose, n, [maltoses], "wani irin sikari").
+entry(maltreat, v, [maltreated, maltreating, maltreats], "yin mu'amala da mugunta").
+entry(maltster, n, [maltsters], "wanda ke yin malt").
+entry(malty, adj, [], "MAI KAMA DA MALT").
+entry(malvasia, n, [malvasias], "malmsey").
+entry(malware, n, [malwares], "sofware da aka tsara don lalata kwamfutoci").
+entry(mam, n, [iyayensu], "uwar").
+entry(mama, n, [iyaye], "uwa").
+entry(mamaliga, n, [mamaliga], "fura daga masara").
+entry(mamasan, n, [mamasans], "wata mace Japan da ke da matsayin iko").
+entry(mamateek, n, [mamateeks], "wani irin gida hutun").
+entry(mamba, n, [mambobi], "maciji mai guba").
+entry(mambo, v, [mamboed, mamboing, mamboes], "ko MAMBOYi yin rawar ballroom").
+entry(mamee, n, [mamees], "mamiyu").
+entry(mamluki, n, [mamlukai], "bawa a kasashen musulmi").
+entry(mamey, n, [mameys], "ko MAMEYES itacen Tropical").
+entry(mamie, n, [mamies], "mamey").
+entry(mamilla, n, [mamillae], "nonon").
+entry(mamluk, n, [mamuluki], "mameluke").
+entry(mamma, n, [mammae], "wani sashin haihuwa da ke samar da madara").
+entry(mamma, n, [mammas], "uwa").
+entry(mammmali, n, [mammmalai], "wani nau'i na dabbobin dajin da ke da dumi").
+entry(nonon, siffofi, [], "na dangane da nonuwa").
+entry(mammate, sıfa, [], "mai nonuwa").
+entry(mammatus, n, [mammati], "wani nau'in gajimare").
+entry(mammee, n, [mammees], "mame").
+entry(mammer, v, [mammered,mammering,mammers], "yin jinkiri").
+entry(mammet, n, [mammets], "maumet").
+entry(mammey, n, [mammeys], "mame").
+entry(mamie, n, [mamie-mamie], "mamie").
+entry(mammies, pl, [], "na uwa").
+entry(mammilla, n, [mammillae], "nonon mama").
+entry(mammitis, n, [mammitides], "mummuke nono").
+entry(mammock, v, [mammocked, mammocking, mammocks], "yanka yanka").
+entry(mammon, n, [mammons], "dukiyar abu").
+entry(mammoth, n, [mammoths], "giwa ta dā da aka ɗauke").
+entry(mamar, n, [mamas], "uwa").
+entry(mamzer, n, [mamzamai], "dan da ba a sani ba").
+entry(namiji, n, [maza], "wanda ya balaga mace").
+entry(namiji, v, [namiji, namijin, namijoji], "don samar da maza").
+entry(mana, n, [manas], "wani ikon sihiri a cikin addinan tsibiran Pacific").
+entry(bangare, v, [bangaraye,bangarawa,bangare], "yi amfani da sarƙa").
+entry(tafiyar da, v, [tafiyar da, yana tafiyar da, suna tafiyar da], "don kula da ko jagoranci").
+entry(mai_gudanarwa, n, [mai_gudanarwa], "wanda ke gudanarwa").
+entry(manakin, n, [manakins], "wani tsuntsun daji").
+entry(gobe, n, [gobbe], "tomorrow").
+entry(manat, n, [manats], "wani naúrar kuɗi ta Azerbaijan").
+entry(manatee, n, [manatees], "wani dabbobi na ruwaMANATOID adj").
+entry(manche, n, [manches], "wani zane na girmamawa").
+entry(manchet, n, [manchets], "wani karamin gurasa mai kyau da fari").
+entry(manciple, n, [manciples], "wani jami'i da aka ba izini don sayen kayan abinci").
+entry(mandala, n, [mandalas], "wata alama ta zane na Hindu ko Buddhist da ke nuni da sararin samaniya MANDALIC adj").
+entry(mandamus, v, [mandamused, mandamusing, mandamuses], "yi umurni ta hanyar wata takarda da kotun koli ta bayar").
+entry(mandarin, n, [mandarins], "yaɗaɗɗen 'ya'yan itacen citrus").
+entry(sakon, v, [sakonar,sakoniya,sakoni], "don bada izini ko umarni").
+entry(mandator, n, [masu_mandata], "wanda yake bayar da umarni").
+entry(mandible, n, [haƙoran ƙasa], "ƙashin ƙasan haƙori").
+entry(mandioca, n, [mandiocas], "mandiya").
+shigarwa(mandola, n, [mandolas], "wata tsohuwar garaya").
+entry(mandolin, n, [mandolins], "wata kayan kiɗa mai igiya").
+entry(mandora, n, [mandoras], "wani kayan kida mai igiya").
+entry(mandorla, n, [mandorlas], "wani siffa mai kusurwar oval".
+entry(mándirake, n, [mándirakes], "wani ganye na Turai").
+entry(mandrel, n, [mandrels], "wani sanda da aka ɗora kayan aiki a kai").
+entry(mandril, n, [mandila], "mandrel").
+entry(mandrill, n, [mandrillai], "baboon mai girma").
+entry(mane, n, [manes], "gashin dogo dake girma a wuyar wasu dabbobiMANED MANELESS adj").
+entry(maneb, n, [manebs], "gari don kashe fungi").
+entry(manege, n, [maneges], "artin koyar da dawakai da hawa su").
+entry(motsi, v, [motsi, motsawa, motsi], "canza matsayi don wani dalili na musamman").
+entry(manful, adj, [], "mai ƙarfin zuciya MANFULLY adv").
+entry(manga, n, [mangas], "wani littafin hoto na Jafananci").
+entry(mangabey, n, [mangabeys], "birra mai dogon wutsiya").
+entry(mangaby, n, [mangabies], "mangabey").
+entry(manganic, sif, [], "mai dauke da manganis wani abu mai karfe").
+entry(manganin, n, [manganin], "haɗi na tagulla, manganese da nickel").
+entry(mange, n, [manges], "cutar fata ta dabbobin gida").
+entry(mangel, n, [mangels], "wani irin rake").
+entry(manger, n, [mangers], "akwatin cin abinci daga gare shi dawakai ko shanu ke ci").
+entry(mangey, sif, [], "MANGIER MANGIESTmangy").
+shigarwa(mangier, kwatanci, [], "na mangy").
+entry(mangiest, superlative, [], "na mangy").
+entry(mangily, adv, [], "a cikin yanayi na rashin lafiya").
+entry(mangle, v, [yanka, yankan, yankuna], "yanka, sare ko matsa har ya yi rauni").
+shigar(mangler, n, [manglers], "wanda ke murdewa").
+entry(mangoro, n, [mangoros], "ko MANGORAn 'ya'yan itacen da ake ci a wurare masu zafi").
+entry(mangold, n, [mangold), "mangel").
+entry(mangonel, n, [mangonels], "na'ura ta soja a zamanin da domin jefa duwatsu").
+entry(mangrove, n, [bishiyoyin mangrove], "bishiya ko shrub mai zafi").
+entry(mangy, adi, [], "DA CIWON FATAR MAIKI MAIKIN CIWO").
+entry(ramin-tsakar-gida, n, [ramukan-tsakar-gida], "rami wanda ke samar da shiga zuwa ga keɓaɓɓen tsari ko wanda ke ƙarƙashin ƙasa").
+entry(mazanci, n, [mazancoci], "yanayin zama namiji").
+entry(nemā-wanda-a-ka-bata, n, [nemā-wanda-a-ka-bata], "neman mutum da gaske").
+entry(mania, n, [mania], "sha'awa ko kuma kwazo mai yawa").
+entry(mamani, n, [mamanai], "mutum mahaukaciMANIACAL adj").
+entry(manic, n, [manics], "wanda aka kamu da hauka").
+entry(manicure, v, [manicured,manicuring,manicures], "gyaran da fentin faratan hannu na").
+entry(manifesti, v, [manifesta, manifestawa, manifestoci], "nuna a fili").
+entry(manifold, v, [manifolded,manifolding,manifolds], "yi kwafi da dama").
+entry(manihot, n, [manihots], "wani tsire-tsire mai zafi").
+entry(dankwalin, n, [dankwalai], "samfurin jikin mutum a ilmin lissafi").
+entry(manila, n, [manilas], "takarda mai ƙarfi").
+entry(manilla, n, [manillas], "manilla").
+entry(manille, n, [manilles], "karamin alfarma na biyu a wasu wasannin kati").
+entry(rogodo, n, [rogododi], "wani tsiro na yankin dumi").
+entry(manioc, n, [maniokai], "manioc").
+entry(maniple, n, [maniples], "zane na kyale wanda ake sakawa a hannu na hagu a matsayin tufafi na addini").
+entry(manito, n, [manitos], "manitou").
+entry(manitou, n, [manitous], "wata allahn Algonquian daular Indiya").
+entry(manitu, n, [manitus], "manitou").
+entry(dan_adam, n, [dan_adam], "mutanen duniya").
+entry(manky, siffofi, [], "MANKIE MANKIE CE hankali mara kyau").
+entry(baƙin namiji, sif, [], "babu mazaje").
+entry(manlike, sif, [], "kamar namiji").
+entry(manly, adj, [], "MANLIER MANLIESTyana da halayen namijiMANLILY adv").
+entry(na mutum, sif, [], "wanda mutum ya yi").
+entry(manna, n, [mannas], "abinci da aka bayar ta wurin Allah").
+entry(mannan, n, [mannans], "wani irin sukari").
+entry(da mutane a ciki, da, [], "nau'in man").
+entry(hali, n, [halaye], "wani hanya na aikataHALAYE adj").
+shigar(mannerly, sif, [], "ladabi").
+entry(mannikin, n, [mannikins], "manikin").
+entry(manning, nan, [], "abokin magana na mutun").
+entry(mannish, sif, [], "yana kama ko yana da halayen namiji").
+entry(mannite, n, [mannites], "mannitolMANNITIC sif").
+entry(mannitol, n, [mannitols], "giya").
+entry(manoos, n, [manoosori], "wani irin sikari").
+entry(mano, n, [manos], "duwar da ake amfani da ita don nika abinci").
+entry(manor, n, [manors], "ɓangaren ƙasa da ke da iyaka ko ƙasar da aka mallakaMANORIAL adj").
+entry(manpack, sif, [], "an tsara shi don daukar mutum daya").
+entry(ƙarfin aiki, n, [ƙarfin aiki], "yawan maza da ake da su don hidima").
+entry(manque, siffofi, [], "hana cika burin mutum").
+entry(manrope, n, [igiyoyin hannu], "igiyar da ake amfani da ita a matsayin dogo na hannu").
+entry(mansard, n, [mansards], "wani irin rufi").
+entry(manscape, v, [manscaped,manscaping,manscapes], "yanke ko aske gashin jikin namiji don inganta bayyanarsa").
+entry(manse, n, [manses], "gidan limamin coci").
+entry(gida-mai-girma, n, [gidajen-mai-girma], "gida mai girma da ban sha'awa").
+entry(manta, n, [mantas], "kayan auduga").
+entry(manteau, n, [manteaus], "ko MANTEAUX wani mayafi mai sakewa").
+entry(mantel, n, [masu-mantels], "shelifi a sama da wuta").
+entry(mantelet, n, [mantelets], "allo mai motsi wanda ake amfani dashi don kare sojoji").
+entry(mantes, a, [], "jam'i na mantis").
+entry(mantic, siffofi, [], "mai ikon annabci").
+entry(mantid, n, [mantids], "mantis").
+entry(mantilla, n, [mantillas], "gyale na mata").
+entry(mantis, n, [mantises], "ko MANTES wata kwari mai farauta").
+entry(mantissa, n, [mantissas], "bangaren adadi na lissafin logarithm").
+entry(mantle, v, [mantled,mantling,mantles], "to cloak").
+entry(mantelet, n, [manteletoci], "mantelet").
+entry(rufe, n, [ruffewa], "kayan ado da aka yi da zane").
+entry(mantra, n, [mantras], "wani tsari na addu'a ko sihiri a addinin HinduMANTRIC adj").
+entry(mantram, n, [mantrams], "mantra").
+entry(mantrap, n, [mantraps], "tarko don kamo maza").
+entry(mantua, n, [mantuas], "rigar mata").
+entry(fayil, n, [fayilai], "wani ƙaramin littafin bayanai").
+entry(da hannu, adv, [], "ta hanyar hannuwa").
+entry(manuary, sif, [], "mai alaka da hannaye").
+entry(manubria, npl, [], "sassa na jiki masu siffar riƙo").
+entry(manucode, n, [manucodes], "tsuntsun aljanna").
+entry(manuka, n, [manukas], "wani karamin itace na New Zealand").
+entry('yantar', v, ['yantacce','yana yantawa','yantarwa'], "yantarwa daga bauta").
+entry(taki, v, [takaita,takinsu,takinta], "don kara wa gona taki na dabbobi").
+entry(manurer, n, [manurers], "wanda ke shuka takin zamani").
+entry(manurial, adj, [], "na ko kuma dangane da takin ƙasa").
+entry(manuring, present, [], "participle na shuka taki").
+entry(manus, n, [manus], "ƙarshen gabobin hannu a vertebrate").
+entry(manward, adv, [], "zuwa ga mutum").
+entry(manwards, adv, [], "manward").
+entry(manwise, adv, [], "a cikin hali mai nuna kalar mutum").
+entry(da yawa, siffofi, [], "MAFI Yawan da yawa ne ko yawan da yawa").
+entry(manyfold, adv, [], "ta hanyoyi da yawa").
+entry(map, v, [fadawa,fadawa,fadawa], "yin yanki a taswira don nuna yankin").
+entry(ardo, n, [ardooyi], "itace mai wuya").
+entry(mapless, adj, [], "babu taswira").
+entry(maplike, adj, [], "kamar taswira").
+entry(maikirkirkirataswira, n, [maikirkirkirataswirai], "wanda ke yin taswira").
+entry(mappable, adj, [], "mai yiwuwa a zana taswira").
+entry(mapped, past, [], "wani lokaci na taswira").
+entry(mapper, n, [mappers], "wanda ke yin taswira").
+entry(mapping, n, [taswira], "daidaiton lissafi").
+entry(maquette, n, [maquettes], "wani ƙaramin samfuri na farko").
+entry(maqui, n, [makiyi], "makiyi").
+entry(maquila, n, [maquilas], "masana'antar hada kananan sassa mallakar kasashen waje a Mexico").
+entry(maquis, n, [maquis], "koren ciyawa mai zurfi").
+entry(mar, v, [marred,marring,mars], "ragewa dagacikin cikakkiya ko dukkanci na").
+entry(mara, n, [maras], "wani biri daga Argentina").
+entry(marabou, n, [marabous], "wani tsuntsu daga Afirka").
+entry(marabauta, n, [marabauta], "marabut").
+entry(maraka, n, [maraka], "kayan kida mai bushewa").
+entry(maranta, n, [marantas], "shuka ta yanki mai zafi").
+entry(marasca, n, [marascas], "ɓaure na daji").
+entry(marasmus, n, [marasmuses], "rashin lafiya na jikiMARASMIC adj").
+entry(marathon, n, [marathons], "tsere na dogon zango").
+entry(maraud, v, [marauded,marauding,marauds], "shiga cikin neman ganima").
+entry(masunci, n, [masunci], "wanda ke yi wa jama'a hari don satar dukiyoyinsu").
+entry(maravedi, n, [maravedis], "tsohon kudin kasar Spain").
+entry(marble, v, [marbled,marbling,marbles], "ba wani kyan gani").
+entry(marbler, n, [marblers], "wanda ke yin marbles").
+entry(marbling, n, [marblings], "haduwar kitsen mai da nama a cikin naman sa".
+shiga(marbly, sif, [], "MARBLIER MARBLIESTmottled").
+entry(marc, n, [marcs], "dandanon da ya rage bayan an matse 'ya'yan itace").
+entry(marcato, n, [marcatos], "wani yanki na kiɗa da aka kunna da ƙarfafa tantancewa").
+entry(marcel, v, [marcelled,marcelling,marcels], "yin raƙumi mai zurfi da laushi a cikin gashi").
+entry(marisu, v, [marasawa,marisawa,maras], "yin tafiya a cikin yanayi na soja").
+entry(marƙeni, n, [marƙeni], "wani tatsuniya").
+entry(masarauta, n, [masarautai], "wanda yake masarautawa").
+entry(marchesa, n, [marchese], "matar ko gwauruwar marchese").
+entry(marchese, n, [marchesi], "wani ɗan mulkin Italiya").
+entry(marconi, n, [marconis], "radiyo mai hanyoyi biyu").
+entry(mare, n, [maria], "wani wurin duhu a saman wata ko Mars").
+entry(doki_mace, n, [dokin_mata], "doki macen da ta balaga").
+entry(maremma, n, [maremme], "wurin gabar teku mai ciyayi").
+entry(marengo, sifa, [], "an shirya tare da miya mai ganye kuma girke da tumatiri, mai da giya").
+entry(margaric, sif, [], "na lu'u-lu'u").
+entry(margarin, n, [margarin], "wani madadin man shanu").
+entry(margate, n, [margates], "kifi na wurare masu zafi").
+entry(margay, n, [margays], "karamin jan doki na Amirka").
+entry(marge, n, [marges], "bango").
+entry(margent, v, [margented,margenting,margents], "yi wani layi a gefen shafi").
+entry(margin, v, [margined,margining,margins], "samar da gefe ko iyaka").
+entry(marginal, n, [gefen], "wanda ake ɗauka a ƙasa ko wajen iyaka").
+entry(maragambe, n, [maragambai], "gwamna soja na wata iyaka ta Jamus a zamanin da").
+entry(maria, pl, [], "na mare").
+entry(mariachi, n, [mariachis], "kungiyar mawakan kasar Mexico")
+entry(marigold, n, [marigolds], "wani shuka mai fure").
+entry(marimba, n, [marimbobi], "wani kayan kida na bugawa").
+entry(marina, n, [marinas], "wuraren tashar jiragen ruwa kanana").
+entry(marinade, v, [marinaded, marinading, marinades], "soyayya").
+entry(marinara, n, [marinaras], "miya mai tumatir mai yaji").
+entry(yaji, v, [yajiye, yajiwa, yaji], "a jika a cikin ruwa mai sinadari kafin dafa shi").
+entry(marine, n, [sojojin ruwa], "soja da aka horar domin bauta a teku da kuma a ƙasa").
+entry(matuka, n, [matukan], "malamin ruwa").
+entry(mariposa, n, [mariposas], "shuke-shuke masu fure").
+entry(marish, n, [marishes], "kwazazzabon ciyayi").
+entry(auratayya, siffa, [], "mai nasaba da aure").
+entry(nautika, sif, [], "da alaka da kewayawa ko kasuwanci a teku").
+entry(mararjoram, n, [mararjoram], "ganye mai kamshi").
+entry(alama, v, [alamantu,alamanta,alamomi], "sa wani abu da ke iya gani ya bayyana a kai").
+entry(marka, n, [markas], "ko MARAKA wata nau'in kuɗi ce a Bosnia da Herzegovina").
+entry(darajar_ƙasa, n, [darajojin_ƙasa], "raguwa a farashi").
+entry(fili-fili, adv, [], "a fili-fili").
+entry(marker, n, [alamomi], "wanda ke alama").
+entry(kasuwa, v, [kasuwanci, kasuwanci, kasuwanni], "don bayarwa domin siyarwa").
+entry(dan_kasuwa, n, [yan_kasuwar], "wanda ke kasuwanci").
+entry(markhoor, n, [markhoors], "markhor").
+entry(markhor, n, [markhorori], "akuya mai daji").
+entry(alama, n, [alamomi], "tsarin alamu").
+entry(markka, n, [markkas], "ko MARKKA tsabar kudi na da na Finland").
+entry(maksudoki, n, [maksudokan], "mutum da ke da kwarewa wajen bugun manufa").
+entry(markup, n, [markups], "ɗaukaka farashin").
+entry(marl, v, [marled, marling, marls], "zuba dafi wanda ke dauke da laka, yashi da ƙasa mai ƙayoyi").
+entry(marlier, kamance, [], "na marly").
+entry(marliest, mafi, [], "na marly").
+entry(marlin, n, [marlinai], "wani kifi na wasa a teku").
+entry(marline, n, [marlines], "igiyar da ake amfani da ita a cikin jirgi").
+entry(marling, n, [marlings], "mazaunin igiya").
+entry(marlite, n, [marlites], "wani nau'in marlMARLITIC adj").
+entry(marly, adj, [], "MALIYA MAI MALIYA sosai").
+entry(marmite, n, [marmites], "kwanon miya mai girma").
+entry(marmoset, n, [marmosets], "biri ƙanana").
+entry(ƙwarin marmot, n, [ƙwarin marmot], "wani rodent da yake yin rami").
+entry(marocain, n, [marocains], "zare mai laushi mai lanƙwasa").
+entry(maroon, v, [marooned,marooning,maroons], "barin a wani wuri na kewa").
+shigarwa(masani, n, [masani], "wanda ke bata shawara ta hanyar tsoma baki").
+entry(marque, n, [marques], "ramuwar gayya").
+entry(marquee, n, [marquees], "wani abu mai kama da rufi da yake tsawaita sama da kofa").
+entry(marquess, n, [marquesses], "marakai").
+entry(marquis, n, [marquises], "wani basarake na Turai").
+entry(marquise, n, [marquises], "matar ko gwauruwa ta marquis").
+entry(marram, n, [marrams], "gawaɗi na bakin teku").
+entry(marrano, n, [marranos], "Bafalasiyawa a Spain wanda ya bayyana Kiristanci don gujewa tsanantawa").
+entry(marred, da, [], "lokacin mar").
+entry(marrer, n, [marrers], "wanda ke bata").
+entry(auratayya, n, [auratayya], "amincewar doka tsakanin ma'aurata biyu na jinsi daban ko iri daya").
+entry(aure, n, [aurattu], "wanda ya shiga cikin aure").
+entry(mahauta, n, [mahauta], "wanda ke aurewa").
+entry(auren, halin_yanzu, [], "mutum na 3 ɗaya a cikin aure").
+entry(marring, present, [], "kalmar aiki ta mar").
+entry(marron, n, [marrons], "irin kwakwar daji").
+entry(marrow, v, [marrowed, marrowing, marrows], "aurar").
+entry(marrowy, sif, [], "mai kauri").
+entry(aura, v, [aure,aura,aura], "shiga cikin aure").
+entry(marsala, n, [marsalas], "wani ruwan inabi na Siciliya").
+entry(marse, n, [marses], "kawa").
+entry(marsh, n, [marshes], "ƙasa mai karkarƙari da cikin ruwa MARSHED adj").
+entry(marshal, v, [marshaled,marshaling,marshals], "sanya cikin tsari mai kyau").
+entry(marshall, v, [marshalled,marshalling,marshalls], "shirya").
+entry(marshy, siffofi, [], "MARSHIER MARSHIEST yana kama da marsh").
+entry(marsupia, npl, [], "aljihu na ciki na wasu dabbobi masu shayarwa").
+entry(mart, v, [marted,marting,marts], "saye da sayarwa").
+entry(martagon, n, [martagons], "wani shuka mai furanni").
+entry(martello, n, [martellos], "katangar tsaro mai zagaye").
+entry(marjan, n, [marjanai], "dabbar da take cin nama").
+entry(martial, sif, [], "da yake da alaka da yaki").
+entry(martian, n, [martians], "wani wanda ake tsammani mazauni ne na duniyar Mars").
+entry(martin, n, [martins], "ƙaramar tsuntsu").
+entry(martinet, n, [martinets], "wanda ke buƙatar bin ƙa'idodi da tsauri").
+entry(martini, n, [martinai], "wani abin sha mai ɗauke da barasa").
+entry(martlet, n, [martlets], "wani martin").
+entry(shahidi, v, [shahiɗa,yin_shahidi,shahidi], "kashewa saboda yin biyayya ga wata akida").
+entry(gaizamartir, sif, [], "kamar shahidi").
+entry(martyry, n, [martyries], "wuri don girmama wanda aka kashe don bangaskiya").
+entry(mamaki, v, [mamakawa, mamakaye, mamaka], "ko MAMAKALLE MAMAKALLI MAMAKA za a cika da mamaki ko ajabtuwa").
+entry(maiyawo, n, [maiyawa], "wanda ke mamaki").
+entry(marvy, sifa, [], "mai ban mamaki").
+entry(maryjane, n, [maryjanes], "tabar wiwi").
+entry(marzipan, n, [marzipans], "alewa ta almund").
+entry(masa, n, [masas], "faren da aka yi daga naman masara mai bushewa").
+entry(masala, n, [masalas], "haɗin kayan kamshi da ake amfani da shi a dafa abinci na Indiya").
+entry(maskara, v, [makarawa,maskarawa,makarawan], "don qarawar baqar ido ko gira da abin shafe-shafe").
+entry(mascon, n, [mascons], "tarin nauyin mai yawa a ƙarƙashin saman watan").
+entry(tambarin, n, [tamburmai], "mutum, dabba ko abu da ake ganin zai kawo sa'a").
+entry(maser, n, [masers], "na'ura don karfafa magudanar lantarki").
+entry(dangwala, v, [anankan,gangwalawa,dangwalawa], "don rage zuwa naman daka").
+entry(masher, n, [mashers], "wanda yake dambatawa").
+entry(mashgiah, n, [mashgihim], "mai sa ido na wuraren kosher").
+entry(mashie, n, [mashies], "kulob din golf").
+entry(mashy, n, [mashies], "mashie").
+entry(masallaci, n, [masallatai], "wani masallaci").
+entry(mashaya, v, [mashaye, mashayi, mashayoyi], "don rufe fuska da abin rufe fuska da ake amfani dashi don canja fuskaMASHAWARI adj").
+entry(maskeg, n, [maskegs], "maskaji").
+entry(masker, n, [maskers], "wanda ke sanya abin rufe fuska").
+entry(masking, n, [maskings], "wani yanki na wurin kwaikwayo da ake amfani da shi don ɓoye ɓangarorin mataki daga masu kallo").
+entry(masklike, sif, [], "mai kama da abin rufe fuska").
+entry(mason, v, [masoned,masoning,masons], "gina da dutse ko bulo").
+entry(masonic, adj, [], "game da aikin dutse").
+entry(gyara, n, [gyararraki], "tsari da aka gina da dutse ko bulo").
+entry(maske, n, [maske], "wani nishadantarwa na wasan kwaikwayo wanda ya shahara a Ingila a da").
+entry(masquer, n, [masquers], "mai sanye da abin rufe fuska").
+entry(massa, v, [matsowa, matsa, matsa], "tara jiki na sassa").
+entry(massa, n, [massas], "maigida").
+entry(kashe-kashe, v, [aka kashe, ake kashewa, ana kashewa], "kashe ba tare da bambanci ba").
+entry(massage, v, [massaged,massaging,massages], "yi tausa ko tausa jikin mutum don magani ko tsafta").
+entry(masaja, n, [masajaai], "wanda yake tausa").
+entry(masscult, n, [masscults], "al'adu kamar yadda kafafen yaɗa labarai suka shahara da su").
+entry(masse, n, [masses], "wani irin harbi a wasan billiards").
+`entry(massedly, adv, [], "a cikin taro").`
+entry(masseter, n, [masseters], "wata tsoka da ke dagowa da ƙasan habe").
+entry(masee, n, [masu_masee], "namiji wanda yake yi wa mutane tausa").
+entry(matsageta, n, [matsageta], "mace mai yin tausa").
+entry(massicot, n, [massicots], "wani rawaya mai launi").
+entry(massier, kwaatanci, [], "na mai nauyi").
+entry(massiest, superlative, [], "na mai nauyi").
+entry(matsatsi, n, [matsatsu], "babban haramin dutse").
+entry(mamai, suna, [], "mai zurfi").
+entry(massless, sif, [], "babu nauyi").
+entry(massy, siffofi, [], "MASSIER MASSIESTmai girma").
+entry(mast, v, [masted,masting,masts], "samar da mast: dogon sandar jirgi mai tallafawa jirgi da igiyoyi").
+entry(mastaba, n, [mastabas], "kabari na dā na Masarawa").
+entry(mastabah, n, [mastabahs], "mastaba").
+entry(master, v, [kware, ana kwarewa, kwararru], "kwarewa a ciki").
+entry(masterly, adj, [], "mai fasaha sosai").
+entry(kwarewa, n, [kwarewowi], "sani ko basira mai kyau").
+entry(masthead, v, [mastheaded,mastheading,mastheads], "daga zuwa saman madaurin tuta").
+entry(mastic, n, [mastics], "wani dogayen ƙamshi na reshe").
+entry(mastiche, n, [mastiches], "mastic").
+entry(mastiff, n, [mastiffs], "kare mai gashi guntu babba").
+entry(mastitis, n, [mastitides], "ciwon kumburin mamaMASTITIC adj").
+entry(mastix, n, [mastixes], "mastiki").
+entry(mastless, sif, [], "ba tare da mashini ba").
+entry(mastlike, sif, [], "mai kama da mast").
+entry(mastodon, n, [mastodons], "wani dabba mai kama da giwa da ta shuɗe").
+entry(mankwala, n, [mankwalai], "bangaren bayan kashi na lokaci").
+entry(masuriyam, n, [masuriyamai], "wani abu mai ƙarfe").
+entry(mat, v, [matted,matting,mats], "to compact daurewa cikin yawa").
+entry(matador, n, [matadors], "mawasan bijimi wanda ke kashe bijimi a gasar bijimin").
+entry(matambala, a, [], "jam'in tambala").
+entry(match, v, [dace,dacena,dacensu], "a sa a cikin gasa ko sabawa").
+entry(matchbox, n, [akwatiyoyi], "akwatin ƙanana").
+shigar(matcher, n, [masu_daidaita], "wanda yake daidaita").
+entry(matchup, n, [wasanni], "saita 'yan wasa biyu a kan junansu").
+entry(mate, v, [mated,mating,mates], "haɗuwa a haɗin kai a matsayin abokan tarayya").
+entry(mateless, adj, [], "mai rashin abokin zama").
+entry(matelot, n, [matelots], "matsalar ruwa").
+entry(matelote, n, [matelotes], "miya ta kifi").
+entry(uwa, n, [uwaye], "ko MATAimatan da").
+entry(abubuwa, n, [abubuwan], "abu da ake amfani da shi wajen kera wani abu ko kuma da shi za'a iya kera wani abu").
+entry(kayayyaki, n, [kayayyaki], "tarin kayan aiki da kayan tallafi da wata kungiyar ke amfani da su").
+entry(na_uwar, siffofi, [], "mai dangantaka ko halayyar uwa").
+entry(mateship, n, [mateships], "halin kasancewa aboki").
+entry(matey, n, [mateys], "wani aboki").
+entry(matey, sifa, [], "MATIER MATIESTabokin hulɗa").
+entry(lissafi, n, [lissafi], "ilimin lissafi").
+shigarwa(matilda, n, [matildas], "tukunyar mahaukata").
+entry(safin, n, [safan], "waƙar safe kamar ta tsuntsaye").
+entry(matinal, aj, [], "mai nasaba da safe").
+entry(matinee, n, [matinees], "wasa da safe").
+entry(matiness, n, [matinesses], "abokantaka").
+entry(mating, n, [matings], "lokacin da dabba mai yin aure na yanayi za ta iya yin aure").
+entry(matless, adj, [], "yana da rashin tabarmi ƙanana shimfidar bene").
+entry(matrass, n, [matrasses], "tulu mai dogon wuya").
+entry(matres, a, [], "jimlar mata").
+entry(maturitak, n, [maturitu], "karbar shaidar shiga jami'a").
+entry(matrix, n, [matrisi], "ko MATRICES wani abu cikin abin da wani abu ya samo asali ko ya ci gaba").
+entry(matron, n, [matrons], "mace aure d a ke da matsayin al'ummaTABUKA MATA ZAMANI aj").
+entry(matsah, n, [matsahs], "matsah").
+entry(matt, v, [matted,matting,matts], "matsewa").
+entry(matte, v, [matted, matting, mattes], "don samar da kammala ba tare da sheki ba").
+entry(matted, da, [], "wani salo da aka matse").
+entry(mattedly, adv, [], "a cikin yanayin tanglinga").
+entry(al'amari, v, [ya damu, na damuwa, yana da mahimmanci], "don zama mai mahimmanci").
+entry(mattery, adj, [], "mai kai amosanin").
+entry(safe, n, [safiya], "safe").
+entry(dandati, n, [dandatai], "kayan dinki da aka saka wanda ake amfani da shi azaman tabarma").
+entry(mataki, n, [matakai], "kayan aikin hakowa").
+entry(mattoid, n, [mattoids], "mutum mai rashin hankali").
+entry(mattrass, n, [mattrasses], "katifa").
+entry(gadogin, n, [gadodina], "babban tabarmar da aka cika da kayan ɗorewa da ake amfani da ita akan gado ko a matsayin gado").
+entry(yi_girma, v, [ya_girma,sana'a_girma,yana_girma], "ya girma").
+entry(mature, adj, [], "MAI CIKAKKEN GIRMA MATURER MATURESTMAI CIKAKKEN GIRMA MATURELY adv").
+entry(shige, v, [shige, shigewa, shige], "a yi ko ya zama balagagge").
+entry(maturer, n, [maturers], "wanda ke kawo abu ga balaga").
+entry(maturita, n, [maturitai], "halin kasancewa cikakke").
+shigar(matza, n, [matzas], "matzo").
+entry(matzah, n, [matzahs], "matzo").
+entry(matzo, n, [matzos], "ko MATZOT ko MATZOTHa wani burodi mara yisti").
+entry(matzoh, n, [matzohs], "matza").
+entry(matzoon, n, [matzoons], "abincin da aka yi daga madara").
+entry(maud, n, [mauds], "wani zamani na Scotland mai farar sikoloti da bakin fari").
+entry(maudlin, adj, [], "mai matuƙar motsin rai").
+entry(mauger, yin_shiri, [], "maugre").
+entry(maugre, jer, [], "duk da haka").
+entry(maul, v, [mauled,mauling,mauls], "cutarwa ta hanyar dukan").
+entry(mauler, n, [maulers], "wanda ke kakkaryewa").
+entry(rauni, n, [raunuka], "aiki na jikkatawa ta hanyar duka").
+entry(maumet, n, [maumets], "wani gunki").
+entry(maumetry, n, [maumetries], "rawar gaban kaho").
+entry(maun, v, [], "dole MAUN shi kadai ne irin wannan fi'ili ba za'a iya sauya shi ba").
+entry(maund, n, [maunds], "wani rukuni na nauyi a Asiya").
+entry(maunder, v, [ya yi surutu, yana yin surutu, yana surutu], "yin magana ba tare da ma'ana ba").
+entry(maundy, n, [maundies], "bikin addini na wanke kafar matalauta").
+entry(mausolea, npl, [], "kaburburan manya-mahauta").
+entry(mausy, sif, [], "MAUSIER MAUSIESTmauzy").
+entry(maut, n, [mauts], "malt").
+entry(mauve, n, [mauvai], "launi mai nuna shunayya").
+entry(mauzy, sif, [], "MAUZIER MAUZIESTmai hazo mai haske").
+entry(maven, n, [mavens], "mashi").
+entry(maverick, n, [mavericks], "dabba mara tambari a filin kiwo").
+entry(mavie, n, [mavies], "mavis").
+entry(mavin, n, [mavins], "gwani").
+entry(mavis, n, [mavises], "wani tsuntsu mai waka").
+entry(maw, v, [mawed, mawn, mawing], "MAWS yin nika").
+entry(mawkish, sif, [], "abin tausayi mai tayar da hankali").
+entry(max, v, [maxed,maxing,maxes], "kai iyakar").
+entry(maxi, n, [maxis], "zani mai tsawo ko rigar wando mai tsawo").
+entry(maxiboat, n, [maxiboats], "jirgin ruwan gudun tseren da ke da girma").
+entry(maxicoat, n, [maxicoats], "babban riga").
+entry(maxilla, n, [maxillas], "ko MAXILLAE haƙarƙarın sama ko haƙarƙari").
+entry(maxim, n, [maxims], "wani ɗan taƙaitaccen bayani na gaskiya ko ƙa’ida ta gabaɗaya").
+entry(maxima, a, [], "jam'in maximum").
+entry(maximal, n, [maximals], "wani abu a cikin saitin lissafi wanda ba a bi shi da wata aba ba").
+entry(maximand, n, [maximands], "wani abu da za a kara girma").
+entry(maximin, n, [maximins], "matsakaicin ƙaramar ƙungiya").
+entry(matsakaici, v, [matsakaicce,matsakaiciwa,matsakaici], "to maximize").
+entry(maximite, n, [maximites], "wani abu mai fashewa mai ƙarfi").
+entry(maximize, v, [kawowa, kawowa, kawowa], "don kawowa zuwa fiye yadda zai yiwu").
+entry(maximum, n, [maksimai], "ko MAXIMAdangantakamar yadda za a iya samu yawan yawa ko digiri").
+entry(maxixe, n, [maxixes], "wani rawa na Brazil").
+entry(maxwell, n, [maxwells], "wani rukuni na maganadiso na magnetic flux").
+entry(may, v, [mayed, maying, mays], "taruwa da furanni a lokacin bazara").
+entry(maya, n, [mayas], "ikon ƙirƙirar ruɗani a falsafar HinduMAYAN adj").
+entry(mayapple, n, [mayapples], "wani ciyawa da ke dawwamamme").
+entry(maybe, n, [maybes], "waswasi").
+entry(maybird, n, [maybirds], "wani tsuntsu bobolink").
+entry(maybush, n, [maybushes], "shuke-shuke mai furanni").
+entry(mayday, n, [maydays], "wani kiran radadin rediyo").
+entry(mayest, a, [], "na yanzu 2nd mutum daya na iya").
+entry(mai-tashi, n, [mai-tashi], "wata kwari mai fiffike").
+entry(mayhap, adv, [], "watakila").
+entry(mayhem, n, [mayhems], "laifi na gangan na jikkata mutum").
+entry(maying, n, [mayings], "taruwar furannin bazara").
+entry(mayo, n, [mayos], "man gyada").
+entry(magajin_gari, n, [magada_gari], "babban jami'in zartarwa na birni ko ƙaramar hukumaMAGAJIN_GARI adj").
+entry('mayoress', n, ['mayoresses'], "mayoress ce mace mai rike da mukamin magajin gari").
+entry(maypole, n, [maypoles], "karkiya mai ado da ake amfani da ita wajen bukin bazara").
+entry(maypop, n, [maypops], "wani dutse mai furanni").
+entry(mayst, a, [], "gaban 2d mutum guda na iya").
+entry(mayvin, n, [mayvins], "mavin").
+entry(mayweed, n, [mayweeds], "ciyawa mai wari").
+entry(mazaedia, npl, [], "gaɓɓai masu samar da daworai na wasu irin lichens").
+entry(mazard, n, [mazards], "kai ko fuska").
+entry(ruwan-maza, v, [ruwan-mazan,ruwan-mazawa,ruwan-mazai], "yin rikitarwaDA RUWAN-MAZA adv").
+entry(mazelike, sif, [], "mai-zugum").
+entry(mazeltov, interj, [], "ana amfani da shi don nuna taya murna").
+entry(mazer, n, [mazers], "kwano babba na sha").
+entry(mazier, na kwatance, [], "na mazy").
+entry(maziest, superlative, [], "na mazy").
+entry(mazily, adv, [], "a cikin hanya mai rikici").
+entry(maziness, n, [mazinesses], "ingancin zama cikin sararin da ya rikice").
+entry(mazing, yanzu, [], "ɓangaren mazauna").
+entry(mazourka, n, [mazourkas], "mazurka").
+entry(mazuma, n, [mazumas], "kudi").
+entry(mazurka, n, [mazurkas], "wata rawa ta Poland").
+entry(mazy, sif, [], "MAFI WUYAR FAHIMTA MAZA MAFIN FAHIMTA cike da juyawa masu rikitarwa da hanyoyi").
+entry(mazzard, n, [mazzards], "ɗan itacen ceri na daji").
+entry(mbaqanga, n, [mbaqangas], "wak'ar rawa ta Afirka ta Kudu").
+entry(mbira, n, [mbiras], "wani kayan kida na Afirka").
+entry(ni, pron, [], "fasalin gani na sunan nuna mutum I").
+entry(madaci, n, [madaci], "giya mai ƙarfin giya").
+entry(daji, n, [daje], "wani yanki na shimfidar ciyawaDAJI adj").
+entry(meager, adj, [], "MEAGERER MEAGERESTrauni cikin yawa ko inganciMEAGERLY adv").
+entry(meagre, adj, [], "MEAGRER MEAGRESTmeagerMEAGRELY adv").
+shigar(abinci, n, [abincimai], "abincin da aka shirya da kuma ci a lokaci guda").
+entry(mealie, n, [masara], "gawar masara").
+entry(mealier, comparative, [], "na mealy").
+entry(mealiest, superlative, [], "na garin garin").
+entry(mealless, sif, [], "ba cin abinci").
+entry(lokacin_cin_abinci, n, [lokuta_cin_abinci], "lokacin da aka saba cin abinci").
+entry(mealworm, n, [mealworms], "larva mai hallaka na wasu koƙuna").
+entry(mealy, siffofi, [], "MEALIER MEALIESTmai taushi busasshe kuma mai rarrabuwa").
+entry('kwari mealybug', n, ['kwari mealybug'], "kwari mai lalata amfanin gona").
+shigar(mean, siffi, [], "MAFI MUNI MAFI MUNI da ƙananan a ƙima inganci ko hali").
+entry(ma’ana, v, [ma’anar,ma’ana,ma’anoni], "nufi").
+entry(yarme, v, [yaɗa, yarmewa, yaɗa], "yin yawo").
+entry(meaner, n, [meaners], "wanda ke nufin").
+shigarwa(meanie, n, [meanies], "mutum mai mugunta").
+entry(meanies, pl, [], "na makirci").
+entry(ma’ana, n, [ma’anoni], "wani abu da mutum ya yi niyyar isarwa ta harshe").
+entry(meanly, adv, [], "a cikin hali na mugunta").
+entry(gurbacewa, n, [gurbacewa], "yanayin rashin jin dadi").
+entry, ya nufa, ya gabata, [], "wani lokaci na nufin".
+entry(meantime, n, [meantimes], "lokacin da ya shiga tsakani").
+entry(meany, n, [meanies], "meanie").
+entry(measle, n, [ƙulɓɓataccen cacing], "larval kaucin ƙulɓɓaMEASLED adj").
+entry(measly, adj, [], "MAI TSILA MAI TAUSASAWA").
+entry(gwargwadon, v, [gwargwadonsa,gididdigewa,gididdiga], "don tantance ma'auni, adadi ko iya").
+entry(ma'auni, n, [ma'aunai], "wanda ke awo").
+entry(nama, n, [namu], "tsokin dabba da ake amfani da shi a matsayin abinciMEATED adj").
+entry(meatal, adj, [], "mai dangantaka da bututun jiki").
+entry(dan_alade, n, [kananan_dan_alade], "karamin kwallo na naman yankakke").
+entry(meathead, n, [meatheads], "kwaina").
+entry(kugiya_nama, n, [kugiyoyin_nama], "kugiya da ake rataya nama").
+entry(meatier, comparative, [], "na meaty").
+entry(meatiest, superlative, [], "na nama").
+entry(cike-da-nama, adv, [], "cikin yanayin naman gaske").
+entry(maramansa, adj, [], "babu nama").
+entry(meatloaf, n, [meatloaves], "gurasa da aka yi da naman kasa").
+entry(meatman, n, [meatmen], "mai sayar da nama").
+entry(meatus, n, [meatuses], "wata hanyar halitta ta jiki").
+entry(meaty, sif, [], "Cike da nama MEATIER MEATIEST").
+entry(makka, n, [makkas], "wani wuri da mutane da yawa ke ziyarta").
+entry(mech, n, [mechs], "makaniki").
+entry(injiniya, n, [injiniyoyi], "mutumin da ke aiki da na'urori").
+entry(mechitza, n, [mechitzas], "ko MECHITZOT rabuwa tsakanin maza da mata a cikin wani majami'u").
+entry(mechoui, n, [mechouis], "abinci na naman da aka soya a kan dogon sandar gasa").
+entry(mekoniyom, n, [mekoniyom], "fitar najasa na farkon haihuwar jariri").
+entry(mad, n, [madubtan magani], "magani").
+entry(medaka, n, [medakas], "wani kifi na Japan").
+entry(lambar, v, [lambabada, lambawa, lambobi], "ko LAMBARDA LAMBAWA LAMBOI don girmama da lamban girmamawa wani yanki na karfe na tunawa").
+entry(mai_madauli, n, [masu_madauli], "mutumin da aka ba shi lambar yabo").
+entry(medallic, adj, [], "na ko da alaƙa da lambar yabo").
+entry(medalling, a, [], "maƙala sunan fili na medal").
+entry(shiga, v, [shiga, shiga-shiga, shiga], "yin sha'awa a cikin abin da ba ya shafe mutum").
+entry(matsatsai, n, [matsatsan], "wanda ke tsoma baki").
+entry(medevac, v, [medevaced,medevacing,medevacs], "ko MEDEVACKED MEDEVACKING MEDEVACSto donar da raunana daga fagen daga ta jirgin sama mai saukar ungulu").
+entry(medfly, n, [medflies], "wani tsuntsun 'ya'yan itace na Mediterranean").
+entry(matsakaici, n, [mediae], "tsakiyar matakin jini ko na jijiyar lymph").
+entry(media, n, [kafofi], "hanyar sadarwa").
+entry(mediacy, n, [mediacies], "aikin shiga tsakani").
+entry(mediad, adv, [], "zuwa tsakiyar jiki ko wani bangare").
+entry(mediae, pl, [], "na kafofin watsa labarai").
+entry(na-tsaka, n, [na-tsakan], "sauti, muryoyi ko harafi a tsakiyar kalma").
+entry(matsakaici, adv, [], "a hanya tsakiya").
+entry(tsaki, n, [tsakoki], "wani yanki na tsakiya").
+entry(medianly, adv, [], "a tsakiya").
+entry(mediant, n, [jeniyoyi], "wani nau'in sauti na kiɗa").
+entry(mediate, v, [mediated,mediating,mediates], "yin shiga tsakani tsakanin ɓangarori masu jayayya domin kawo sulhu").
+entry(mediator, n, [masu_shiga_tsakani], "wanda ke shiga tsakani").
+entry(likitoci, n, [likitoci], "wanda ya shiga aikin likita").
+entry(medicaid, n, [medicaids], "wani nau'in shirin lafiyar gwamnati").
+entry(magana_asibiti, n, [magunguna], "binciken jiki").
+entry(maganin, n, [magunguna], "wani abu na warkarwa").
+entry(cikandariki, n, [cikandariki], "wata irin shirin kiwon lafiya na gwamnati").
+entry(jiyyawa, v, [jiyyawa,jiyyawa,jiyyawa], "jiyya da magani").
+entry(medicide, n, [maganin kashe kansa], "suicide da aka taimaka a fannin lafiya").
+entry(magana, v, [maganad, maganaring, maganas], "don bayar da magani wani abu da ake amfani da shi wajen magance cuta ga").
+entry(madakin, n, [madakai], "wani shuka mai fure").
+entry(likita, n, [likitoci], "likita ko dalibin likita").
+entry(tsohon_zamani, n, [tsoffin_zamani], "mutumin da ya danganci Zamanin Tsakiyar").
+shigarwa(medigap, n, [medigaps], "ƙarin inshorar lafiya").
+entry(medii, pl, [], "na medius").
+entry(madina, n, [madinai], "anguwar asalin birnin Arewacin Afirka").
+entry(maimaita, sif, [], "ba na kirki ba kuma ba mara kyau").
+entry(meditate, v, [yin_zama_meditate, yin_zama_meditating, yin_zama_meditates], "yin nazari").
+entry(matsakaici, n, [matsakaicu], "ko MEDIAwajen muhalli inda wani abu ke aiki da bunƙasa").
+```prolog
+entry(medius, n, [medii], "yatsan tsakiya").
+```
+shigarwa(medivac, v, [medivaced,medivacing,medivacs], "ko MEDIVACKED MEDIVACKING MEDIVACSmedevac").
+entry(madari, n, [madari], "itacen Turai").
+entry(medley, n, [medleys], "cakuda").
+entry(madrasai, n, [madrasai], "madrassa").
+entry(medulla, n, [medullas], "ko MEDULLAEtsokar tsakiyar a cikin jijiyoyin wasu tsirraiMEDULLAR adj").
+entry(medusa, n, [medusas], "ko MEDUSAE wata jellyfishMEDUSAL adj").
+entry(medusan, n, [medusans], "medusa").
+entry(medusoid, n, [medusoids], "medusa").
+entry(meed, n, [meeds], "lada da ya dace").
+entry(meek, adj, [], "LALLE MAI RAUNI MAI JIN JAJAWAspiritaIRIN WATA").
+entry-harshe(lallashawa, n, [lallashawoyi], "siffofin kasancewa mai lallashi").
+entry(dabbansurdiya, n, [dabbansurdiyoyi], "wani afirka manguro").
+entry(gana, v, [gana,gano,gani], "zuwa haduwa da wani ko kasancewa tare da wani").
+entry(mahad’u, n, [mahad’un’u], "wanda ke haɗuwa").
+entry(taro, n, [taruka], "tarurruka don manufa ta gama gari").
+entry(meetly, adv, [], "yadda ya dace").
+shigar(meetness, n, [meetnesses], "dacewa").
+shiga(meg, n, [megs], "wani megabyte").
+entry(mega, sif, [], "mai girma ko muhimmanci").
+entry(megabar, n, [megabarsu], "rukunin matsa lamba").
+entry(megabit, n, [megabiti], "wani rukuni na bayanan kwamfuta").
+entry(megabuck, n, [megabucks], "dala miliyan daya").
+entry(megabyte, n, [megabayiti], "1048576 bayi").
+entry(megacity, n, [manyan birane], "babban birni sosai").
+entry(megadeal, n, [megadeals], "cinikin kasuwanci da ya shafi kuɗi masu yawa").
+entry(megadose, n, [megadoses], "kashi mai yawa fiye da yadda aka saba").
+entry(megadyne, n, [megadynes], "madaidaicin ma'auni na karfi").
+entry(megaflop, n, [megaflops], "wani gwargwado na saurin kidayar kwamfuta").
+entry(nasarar-kwararriya, n, [nasarori-kwararru], "wani abu mai girman nasara").
+entry(megalith, n, [megaliths], "wani dutse babba da aka yi amfani da shi a gina tsoffin abubuwan tarihi").
+entry(megalops, n, [megalopses], "wata tsohuwar mataki na yawancin qaguwa").
+entry(megamall, n, [megamall], "katafaren cibiyar cin kasuwa").
+entry(megaplex, n, [megaplexes], "gini mai girma da yake da sinimomi da yawa").
+entry(megapod, n, [megapods], "megapode").
+entry(megapode, n, [megapodes], "tsuntsun babbar kafa").
+entry(megaron, n, [megara], "babban dakin tsakiya na gidan Helenawa na d ¯ a").
+entry(megass, n, [megasses], "wani ragowar itace").
+entry(megasse, n, [megasses], "megass").
+entry(mazoƙi, n, [mazaƙa], "mai matuƙar nasara wajen wasan kwaikwayo").
+entry(megatoni, n, [megatonai], "wani nau'i na karfin fashewa").
+entry(megavolt, n, [megavolts], "wani nau'in rukunin karfin wutar lantarki").
+entry(megawatt, n, [megawatts], "wani naúrar ƙarfi").
+entry(megilla, n, [megillas], "megillah").
+entry(megillah, n, [megillahs], "wani dogon labari mai tsawo").
+entry(megilp, n, [megilps], "wani abu wanda ake hadawa da fenti a zanen hoto").
+entry(megilph, n, [megilphs], "megilp").
+entry(megohm, n, [megohms], "wani sashi na juriya na lantarki").
+entry(megrim, n, [ciwon-kai], "ciwon kai").
+entry(meh, sif, [], "ba mai burgewa ba, mai ban sha'awa").
+entry(mehndi, n, [mehndis], "fasahar zana zane-zane akan fata da lalle").
+entry(meikle, sifa, [], "babba").
+entry(meinie, n, [meinies], "meinay").
+entry(meiny, n, [meinies], "ɗungulmi").
+entry(meiosis, n, [meioses], "wani nau'in rarrabuwa na kwayoyin halittaMEIOTIC adj").
+entry(meister, n, [meisters], "wanda ya san wani abu da aka ambata").
+entry(mel, n, [mel-melai], "zuma").
+entry(melaena, n, [melaenas], "melena").
+entry(melamed, n, [melamdim], "malamin makarantar Yahudu").
+shigar(melamine, n, [melamines], "wani sinadari").
+entry(melange, n, [melanges], "cakuda").
+entry(melanian, adj, [], "mai dangantaka da baki fata").
+entry(melanik, n, [melanikoki], "wanda ke dauke da melanismu").
+entry(melanin, n, [melanins], "fari ne").
+entry(melanism, n, [melanisms], "fatar jiki mai kalar baƙar fata da ba ta al'ada ba").
+entry(melanist, n, [melanists], "baƙar fata").
+entry(melanite, n, [melanites], "wani baƙar nau'in garnet").
+entry(melanize, v, [melanized, melanizing, melanizes], "yin baki").
+entry(melanoid, n, [melanoids], "fentuna mai duhu").
+entry(melanoma, n, [melanomas], "ko MELANOMATA, wata kumburi mai launin baki").
+entry(melanous, adj, [], "mai fata da gashi mai duhu").
+entry(meld, v, [meltawa, meltayi, melta], "hadawa").
+entry(melder, n, [melder-ɓa], "yawan hatsi da aka niƙa a lokaci guda").
+entry(fada, n, [fadodi], "rikicin da bai gama tsayawa ba").
+entry(melena, n, [melenas], "wani yanayi da aka alama da kaɗe mai baƙar fata").
+entry(melic, sif, [], "mai alaka da waka").
+entry(melilite, n, [melilites], "wata ƙungiyar ma'adanai").
+entry(melilot, n, [melilots], "wani tsire-tsire mai fure").
+entry(melinite, n, [melinitai], "wani abu mai fashewa mai ƙarfi").
+entry(melisma, n, [melismas], "ko MELISMATAmelodic ƙawata waƙa").
+entry(mell, v, [melled,melling,mells], "hada").
+entry(mellific, sif, [], "masu samar da zuma").
+entry(mellow, sif, [], "MELLOWER MELLOWESTmai laushi kuma mai dandano daga balagaMELLOWLY aiki").
+entry(mellow, v, [mellowed,mellowing,mellows], "don yin sanyi ko jin dadi").
+entry(melodo, n, [melodos], "wani ƙaramin akordion").
+entry(melodia, n, [melodias], "wani nau'in tsayawar ganga").
+entry(melodic, sif, [], "na kiɗa").
+entry(melodica, n, [melodicas], "wani nau'in harkillo da ke da kananan madannai a ɗaya ƙarshen").
+shigarwa(mawaƙa, pl, [], "na waƙa").
+entry(melodion, n, [melodions], "melodiyon").
+entry(melodise, v, [melodised,melodising,melodises], "rera waƙa").
+entry(melodist, n, [melodists], "mawaƙi mai waƙa").
+entry(melodize, v, [melodized,melodizing,melodizes], "don ƙirƙira meloji").
+entry(melody, n, [kide-kide], "jerin sauti na kiɗa mai daɗi").
+entry(meloid, n, [meloids], "wani irin kaso").
+entry(kankana, n, [kankunwa], "kowane iri na gourdsMELONY adj").
+entry(narke, v, [narke,narkewa,narkewa], "canza daga yanayi mai karfi zuwa ruwa ta hanyar zafi MAI NARKUWA adj").
+entry(meltage, n, [meltages], "aiyukan narkewa").
+entry(meltdown, n, [dumamar jiki], "narkewar cibiyar injin nukiliya").
+entry(melter, n, [yan_melter], "wanda ke narkewa").
+entry(melton, n, [meltons], "wani nau'in auduga mai nauyi").
+entry(melty, sif, [], "mai kama da abin da ya narke").
+entry(mem, n, [mems], "wani harafin Ibrananci").
+entry(mamba, n, [mambobi], "wani sashi na daban na gaba dayaMEMBERED adj").
+entry(fata, n, [fata], "bakin ko yawa mai laushi wanda ke da tsawo").
+entry(meme, n, [memes], "ra'ayi ko dabi'a da ke yaduwa daga mutum zuwa mutumMEMETIC adj").
+entry(memento, suna, [mementos], "ko MEMENTOES, abu mai nuna abin da ya gabata").
+entry(memetics, npl, [], "nazarin memes da tasirinsu").
+entry(memo, n, [memos], "wani rubutu da ke nuna abu da za a tuna").
+entry(memoar, n, [memoarai], "wani tarihin rayuwa").
+entry(wurindawowa, n, [wurindawowai], "wani abu da ke zama tunawa ga wani mutum ko abu").
+entry(naɗe, v, [naɗa,naɗawa,naɗe], "don haddacewa").
+entry(makalama, v, [makalame,makalawa,makalami], "don tuna da abu").
+entry(ƙwaƙwalwa, n, [ƙwaƙwalwa], "ikon tunawa da kawo abubuwan da suka wuce").
+entry(memsahib, n, [memsahibs], "wani bakar fata mace dake zaune a Indiya ta mulkin mallaka").
+entry(maza, pl, [], "na mutum").
+entry(matsorata, v, [matsoraci, matsoratar, matsorata], "yin barazanar").
+entry(matsorata, n, [matsorata], "wanda ke tsorata").
+entry(menad, n, [menads], "ma'enad").
+entry(meneji, n, [meneji], "wani gida").
+entry(al’ada, n, [al’adu], "faruwar al’ada ta farko").
+entry(menazon, n, [menazons], "wani maganin kashe kwari").
+entry(gina, v, [gine,gina,ginawa], "gyaraMENDABLE adj").
+entry(masassa, n, [masassa], "wanda ke gyarawa").
+entry(mendigo, n, [mendigos], "kifi mai tsakuwa").
+entry(mending, n, [mendings], "tarin abubuwan da za a gyara").
+entry(maza, npl, [], "mazan gida ko al'umma").
+entry(maza, npl, [], "menfolk").
+entry(menhaden, n, [menhadens], "kifi na tekun").
+entry(menhir, n, [menhirs], "abin tunawa na dā").
+entry(mamai, n, [mamai], "mai aikin gida").
+entry(menially, adv, [], "a cikin wata hanya ta bauta").
+entry(meninx, n, [meninges], "daya daga cikin kwayoyin fata da ke lullube kwakwalwa da karkashin kashin baya").
+entry(menisikus, n, [menisikosi], "ko MENISKANa wata jikin kamannunkwoMENISKAL adj").
+entry(meno, adv, [], "less da ake amfani da shi azaman jagorar kiɗa").
+entry(menology, n, [menologies], "jadawalin addini").
+entry(menorah, n, [menorahs], "wani shamaki na kyandir wanda ake amfani da shi a lokacin ibadar Yahudawa").
+entry(mensa, n, [mensas], "ko MENSAE wurin da hakoran ke markadewa").
+entry(mensal, adj, [], "wanda ya shafi ko ake amfani dashi a tebur").
+entry(mensch, n, [mensches], "ko MENSCHENmutum mai kimaMENSCHY sif").
+entry(girma, v, [girma ɗi, girmawa, girmae], "yin girmamawa").
+entry(menseful, sif, [], "daidai").
+entry(mensh, n, [menshes], "ko MENSHENmensch").
+entry(mahaife, npl, [], "waraka").
+entry(mensural, aj, [], "mai alaka da auna").
+entry(tufafin_maza, n, [tufafin_maza], "tufafi ga maza").
+entry(menta, pl, [], "na mentum").
+entry(mental, adj, [], "na hankaliMENTALLY adv").
+entry(mentee, n, [mentees], "wanda ake ba da shawara").
+entry(menthene, n, [menthenes], "wani ɗanyen hydrokarbon").
+entry(menthol, n, [menthols], "wani giya").
+entry(ambata, v, [ya ambata, yana ambata, ambata], "yin magana a kan wani abu ba tare da cikakken bayani ba").
+entry(mento, n, [mentos], "wani salo na kiɗan gargajiya na Jamaica").
+entry(mentor, v, [jagorantar, jagoranci, jagoranta], "don yin aiki a matsayin aboki da malamai ga").
+entry(mentum, n, [menta], "gadon baya").
+entry(menu, n, [menus], "jerin abincin da ake da su a gidan cin abinci").
+entry(menudo, n, [menudos], "wani miya da aka yi da kyankyaso da barkono").
+entry(meou, v, [meoued,meouing,meous], "yi meow").
+entry(meow, v, [meowed, meowing, meows], "yin sauti na kuka na kyanwa").
+entry(mephitis, n, [mephitises], "ƙamshi mai cutarwaMEPHITIC adj").
+entry(merc, n, [mercs], "ko MERCESte wani mayaki").
+entry(casuwanci, n, [casuwanni], "kasuwa").
+entry(mercapto, sif, [], "dauke da wani rukuni na sinadarai").
+entry(mercer, n, [masu_shadda], "mai sayar da yadudduka").
+entry(mercery, n, [shagunan mercery], "shagon mai sayar da zannuwa").
+entry(merch, n, [merches], "kayayyaki").
+entry(dan_kasuwa, v, [dan_kasuwanci,ana_kasuwanci,dan_kasuwa], "sayi da sayar da kaya don riba").
+entry(rahama, pl, [], "na rahama").
+entry(rahama, sif, [], "cike da jin ƙai").
+shigar(mercuri, n, [mercuri], "wani nau'in ƙarfeMERCURIC adj").
+entry(rahama, n, [rahamomi], "jinkai da aka nuna ga mai laifi ko makiyi").
+shigar(mere, sif, [], "MERER MERESTbabu abin da ya wuceMERELY adv").
+entry(mere, n, [meres], "tafki ko tabki").
+entry(merengue, n, [merengue], "wani nau'in rawa a ɗakin kuɗi").
+entry(haɗa, v, [haɗe, haɗuwa, haɗa], "haɗuwa").
+entry(mergee, n, [mergees], "kamfani da aka saya ta hanyar hadewa").
+entry(haɗewa, n, [haɗewoyi], "aikin haɗawa").
+entry(hade, n, [hadewa], "haɗuwar kasuwanci biyu ko fiye zuwa kasuwanci daya").
+entry(haɗawa, n, [haɗa], "ayin haɗawa").
+entry(merguez, n, [merguez], "tsiren nama na shanu da raguna mai yaji").
+entry(meridian, n, [meridians], "da'ira a duniya mai wucewa ta hannun duka sanduna").
+entry(meringue, n, [meringues], "wani nau'in shafa wa kayan zaki").
+entry(merino, n, [merinos], "wool mai kyau").
+entry(merisis, n, [merises], "tushewa").
+entry(meristem, n, [maristemu], "ƙwayar tushen tsiro").
+entry(meristic, sif, [], "wanda aka haɗa shi da sassa").
+entry(yabo, v, [ya_yabo, yana_yabo, ya_yabe], "sami").
+entry(merk, n, [merks], "tsabar kudi da aka taba amfani da ita a Scotland").
+entry(merl, n, [merls], "merle").
+entry(merle, n, [merles], "tsuntsun bakin ruwa").
+entry(merlin, n, [merlins], "wata tsuntsuwa mai kama da rago daga Turai").
+entry(merlon, n, [merlons], "ɓangaren ƙari na shinge mai sassaƙa").
+entry(merlot, n, [merlots], "giya ja mai tsami").
+entry(garken ruwa, n, [garken ruwa], "wani halitta mai kama da mutum da ke zaune a ruwa").
+entry(merman, n, [mermen], "wani halitta na asali daga teku").
+entry(meronym, n, [meronyms], "wani lokaci na wani yanki na abu da ake amfani dashi don bayyana dukkan abun").
+entry(ƙaramin-bangare, n, [ƙaramin-bangare], "dangantakar ma'ana tsakanin wani ɓangare da gaba ɗaya").
+entry(meropia, n, [meropias], "yakan makancewaMEROPIC adj").
+shigarwa(merry, sif, [], "MERRIER MERRIESTcheerfulMERRILY adv").
+entry(mesa, n, [teburin-kasa], "wurin dutsen mai saman madaidaici da bangarori masu tsatsa").
+entry(mesally, adv, [], "tsakanin").
+entry(mesarch, sifa, [], "mai tushe daga wurin zama mai danshi").
+entry(mescal, n, [mescals], "wiwachin da ake amfani da shi wajen yin giya").
+entry(mescalin, n, [mescalins], "mescaline wani sinadari mai jawo gani-gani").
+entry(mesclun, n, [mescluns], "hadaddiyar cakuda ganyayyaki masu laushi saba").
+entry(mesdames, pl, [], "na madame").
+entry(meseems, v, [], "wani lokaci da ya gabata MESEEMED yanzu 3 mutum daya MESEEMETH yana bayyana min MESEEMS kalma ce mara fuska kuma ana amfani da ita ne kawai a cikin 3 mutum daya").
+entry(mesh, v, [meshed, meshing, meshes], "kusa da juna").
+entry(meshier, gwada, [], "na meshy").
+entry(meshiest, superlative, [], "na meshy").
+entry(meshi, n, [meshin], "aikin hade juna").
+entry(meshuga, sif, [], "mahaukaci").
+entry(meshugah, siffofi, [], "meshuga").
+entry(meshugga, sif, [], "meshuga").
+entry(meshugge, adj, [], "meshuga").
+entry(meshwork, n, [meshworks], "yarjejeniya").
+entry(meshy, adi, [], "MESHIER MESHIESTnetty").
+entry(mesial, sif, [], "da ke a tsakiyarMESIALLY adv").
+entry(mesian, sif, [], "mesial").
+entry(mesic, sif, [], "wanda aka halitta da matsakaicin wadatar danshi").
+entry(mesmeric, sif, [], "mafi alaka da hypnosis").
+entry(mesnalty, n, [mesnalties], "wani nau'i na gonar feudal").
+entry(mesne, n, [mesnes], "wani uban kasa na mulkin mallaka yana rike da ƙasa daga wani mafi girma").
+entry(mesocarp, n, [mesocarps], "ɓangare na tsakiya na perikarp").
+entry(mesoderm, n, [mesoderms], "tsarin ƙwayar halitta na tsakiya na ɗan tayin").
+entry(mesoglea, n, [mesogleas], "wani abin da ke da dari ya zama kamar jelly a cikin sponges").
+entry(mesomere, n, [mesomeres], "wani ɓangare na kyanyi").
+entry(meson, n, [mesons], "wani kwayar zarra ta karkashin kwayoyin halittaMESONIC adj").
+entry(mesophyl, n, [mesophyls], "wuyan kwaya na ganye").
+entry(mesosaur, n, [mesosaurus], "wani sauro mai ruwa wanda ya shafe").
+entry(mesosome, n, [mesosomes], "wani yanki na musamman na tantanin halitta").
+entry(mesotron, n, [mesotrons], "wani mezon").
+entry(mesozoan, n, [mesozoans], "duk wani daga cikin wani rukuni na halittu masu kama da tsutsotsi").
+entry(mesquit, n, [mesquits], "mesquite").
+entry(mesquite, n, [mesquites], "itacen da ke da kaushi").
+entry(mess, v, [messed,messing,messes], "yin datti ko rashin tsafta").
+entry(sako, v, [sakonni, sakon, sakonni], "a aika a matsayin sako ta bakin magana, rubutacciya ko watsa alama").
+entry(messan, n, [messans], "karamin kare").
+entry(masiha, n, [masihai], "mai ceto da ake jira").
+entry(messier, comparative, [], "na datti").
+entry(messiest, superlative, [], "na datti").
+entry(messieurs, pl, [], "na monsieur").
+entry(messily, baw, [], "a cikin yanayi mara tsari").
+entry(messman, n, [messmen], "mutumin da ke aiki a wurin cin abinci").
+entry(mutarentakai, n, [mutanentakai], "mutum wanda kake ci da shi yau da kullum").
+entry(messuage, n, [messuages], "wani gidan zama tare da gine-ginen dake kewaye da shi da ƙasa").
+entry(messy, sif, [], "MESSIER MESSIESTtspur tskwarya").
+entry(mestee, n, [mestees], "mustee").
+entry(mesteso, n, [mestesos], "ko MESTESOESmestizo").
+entry(mestino, n, [mestinos], "ko MESTINOES mestizo").
+entry(mestiza, n, [mestizas], "mata mestizo").
+entry(mestizo, n, [mestizos], "ko MESTIZOES mutumin da ya fito daga tushe guda biyu ko fiye").
+entry(saduwa, baya, [], "lokacin saduwa").
+entry(meta, adj, [], "mai dangantaka da matsayi a zoben benzene da rarrabuwa da wata kwayar carbon daya").
+entry(metadata, npl, [], "wani saitin bayanai da ke ba da bayani game da wasu bayanai").
+entry(metage, n, [metages], "wani auna hukuma na nauyi ko abin ciki").
+entry(karfe, v, [karkafaɗɗa, karkafawa, karfafai], "ko KARKAFA A KARKAFA KARKAFADomin rufe da karfe kowane nau'i na ƙarfe mai lankwasawa mai narke da walƙiya").
+entry(metalise, v, [metalised,metalising,metalises], "don yi ƙarfe").
+entry(metalist, n, [masuƙira], "wanda ke aiki da ƙarafa").
+entry(metalize, v, [metalized,metalizing,metalizes], "yi wa abu maganin ƙarfe").
+entry(metalled, a, [], "bayanin da ya gabata na karfe").
+entry(metalik, n, [metalikai], "yadi ko zaren da aka yi da karfe ko aka shafa shi da karfe").
+entry(metalling, a, [], "yana wakiltar ayyukan meta a yanzu").
+entry(metamer, n, [metamers], "wani nau'in cakuda sinadarai").
+entry(metamere, n, [metameres], "soma").
+entry(metanoia, n, [metanoias], "canjin ruhaniya").
+entry(azar, n, [azarai], "irin wani nau'i na maganar jan hankali").
+entry(metatag, n, [metatags], "babbar alama ta HTML mai dauke da bayani game da shafin yanar gizo").
+entry(metate, n, [metates], "dutse da ake amfani da shi don niƙa hatsi").
+entry(metazoan, n, [metazoans], "wani muhimmin rukuni na dabbobi masu yawa na kwayoyin halittaMETAZOAL METAZOIC adj").
+entry(metazoon, n, [metazoa], "wani metazoan").
+entry(mete, v, [meted,meting,metes], "don raba bisa sikeli").
+entry(meteor, n, [meteors], "wani karamin abin sama da ya shiga yanayin duniyaMETEORIC adj").
+shigarwa(metepa, n, [metepas], "wani hadadden sinadari").
+entry(mita, v, [mitaƙa,mitawa,mitoci], "auna ta hanyar na'ura").
+entry(mataraji, n, [matarajan], "tsarin yin awo").
+entry(meth, n, [meths], "wani magani mai motsawa").
+entry(methadon, n, [methadons], "wani nau'in maganin kashe zafi").
+entry(methanal, n, [methanals], "formaldehaidi").
+entry(methane, n, [methanes], "wani iskar da za a iya kunna wa wuta").
+entry(methanol, n, [methanols], "wani giya mai guba").
+entry(methinks, v, [], "wani lokacin labarun da suka wuce METHOUGHT yana bayyana mini METHINKS kalma ce mara wata ma’ana ta kansa, kuma ana amfani da ita kawai a matsayin kalmar aiki na mutum na uku guda ɗaya").
+entry(hanya, n, [hanyoyi], "wani hanyar aiwatarwa").
+entry(methodic, sif, [], "ta tsarin").
+entry(methoxy, sif, [], "mai dauke da wata rukuni sinadarai").
+entry(methoxyl, sifa, [], "methoxy").
+entry(methyl, n, [methyls], "wani ɗariƙa mai darajar gudaMETHYLIC adj").
+entry(methylal, n, [methylals], "ruwa mai ƙonewa").
+entry(metical, n, [meticals], "ko METICAIS wani rukunin kuɗi na Mozambique").
+shigarwa(sana'a, n, [sana'o'i], "wani aiki").
+entry(meting, present, [], "maɗaukin mete").
+entry(metis, n, [metis], "mutumin da ke da jini kala-kala").
+entry(metisse, n, [metisses], "bafulatana mace").
+entry(metol, n, [metol], "wani foda da ake amfani da shi a matsayin mai habaka hoto").
+entry(metonimi, n, [metonimomi], "kalma da ake amfani da ita a metonimi").
+entry(metonymy, n, [metonymies], "irin nau'in salon magana").
+entry(metope, n, [metopes], "ko METOPAE wuri tsakanin triglyphs").
+entry(metopic, adj, [], "wanda ya shafi goshi").
+entry(metopon, n, [metopons], "wani maganin maye").
+entry(metrazol, n, [metrazols], "foda da ake amfani da shi azaman mai motsa jiki").
+entry(mita, v, [mitaɗa,mitaɗi,mita], "auna").
+entry(metric, n, [matakan], "ma'auni na daidaitawa").
+entry(metrical, adj, [], "da alaka da tsari ko rubuta tsarin kiɗa da aka tsara kuma aka auna").
+entry(metrify, v, [metrified,metrifying,metrifies], "rubuta cikin yanayin kida").
+entry(metring, yanzu, [], "wuccin na metre").
+entry(matafeyi, n, [matafeya], "wanda ke rubuta baituka").
+entry(metritis, n, [metritises], "radadin mahaifa").
+entry(metro, n, [metros], "wani jirgin ƙasa ƙarƙashin ƙasa").
+entry(hali, n, [halaye], "inganci na haliHALIN CIKI adj").
+entry(metump, n, [metumps], "babban kugu").
+entry(meuniere, sifa, [], "dafaffen a cikin man shanu mai launin ruwan zinariya").
+entry(mew, v, [mewed,mewing,mews], "rufe").
+entry(mewl, v, [mewled,mewling,mewls], "yin kwaƙwalwa").
+entry(mewler, n, [mewlers], "wanda ke magana da sanyin murya").
+entry(mews, n, [mewses], "titin da aka jere da gidaje waɗanda a asali ɗakunan jaka ne").
+entry(mescal, n, [mescals], "mezcal").
+entry(meze, n, [mezes], "abincin kara juna na Girka ko Gabas ta Tsakiya").
+entry(mezereon, n, [mezereons], "wani itacen da yake fure").
+entry(mezereum, n, [mezereums], "mezereon").
+entry(mezquit, n, [mezquits], "mesquite").
+entry(mezquite, n, [mezquites], "mezkwit").
+shigarwa(mezuza, n, [mezuzas], "mezuzah").
+entry(mezuzah, n, [mezuzahs], "ko MEZUZOT ko MEZUZOTWani rubutaccen allo na Yahudawa").
+entry(mezzo, n, [mezzos], "muryar mace mai cikakken zurfin inganci").
+entry(mho, n, [mhos], "wani sashi na jurewar lantarki").
+entry(mi, n, [mis], "tsaukaka ta uku a sikeli mai matakai bakwai").
+entry(miaou, v, [miaoued, miaouing, miaous], "yin murya kamar kyanwa").
+entry(miaow, v, [miaowed,miaowing,miaows], "yin kara").
+entry(miasma, n, [miasmai], "miasma").
+entry(guba, n, [gubobi], "ko MIASMATA wani hayaki mai cutarwa MIASMAL MIASMIC adj").
+entry(miaul, v, [miauled,miauling,miauls], "yin murya kamar kyanwa").
+entry(mib, n, [mibs], "wani irin tsinken wasa").
+entry(makirufo, n, [makirufai], "makirufo").
+entry(mica, n, [micas], "wani ma'adini").
+entry(micawber, n, [micawbers], "mutum wanda yake ta bangaskiya duk da kalubale").
+entry(beraye, pl, [], "na bera").
+entry(misali, n, [misalai], "misali").
+entry(micella, n, [micellae], "micelle").
+entry(mical, n, [micalai], "wani tsari mai motsi ko tsari a cikin zareMICELLAR adj").
+entry(miche, v, [miched,miching,miches], "yi suna").
+entry(mickey, n, [mickeys], "wani abin sha da aka gauraya da kwaya").
+entry(mickle, sif, [], "MICKLER MICKLESTbabba").
+entry(mickle, n, [mickles], "mai yawa").
+entry(micky, n, [mickies], "mickey").
+entry(micra, a, [], "jam’in micron").
+entry(micrify, v, [micrified,micrifying,micrifies], "mai sanya ƙanƙanta").
+entry(micro, n, [micros], "wani kwamfuta mai ƙanƙanta sosai").
+entry(microbar, n, [microbars], "wani sashi na matsin iska").
+entry(microb, n, [microbobi], "wata ƙaramin rayuwaMICROBIC adj").
+entry(microbus, n, [microbuses], "ko MICROBUSSESkarama bas").
+entry(microcap, adj, [], "na ko game da kamfani da ribar da aka tara tana da kadan sosai").
+entry(motokarfiƙi, n, [motokarfiƙi], "mota mai ƙaramin girma").
+entry(microdot, n, [dijimai], "kwafi na rubutun da aka rage girma zuwa ga girman wani doti").
+entry(microhm, n, [microhms], "wani nau'i na juriyar lantarki").
+entry(microlux, n, [microluxes], "ko MICROLUCES naúrar haske").
+entry(micromho, n, [micromhos], "wani nau'i na gudanar da wutar lantarki").
+entry(mikron, n, [mikron], "ko MICRA, wani ɓangare na tsawon").
+entry(micrurgy, n, [micrurgies], "amfani da ƙananan kayan aiki a ƙarƙashin babban girma").
+entry(tsakiya, n, [tsakiya], "tsakiya").
+entry(tsakiyar_sarari, n, [tsakiyar_sarari], "wani yanki a tsakiyar sararin samaniya").
+entry(tsakiyar kwakwalwa, n, [tsakiyar kwakwalwa], "tsakiyar bangare na kwakwalwa").
+entry(midcap, adj, [], "na ko dangane da kamfani wanda ribar da aka adana ta kasance tsakanin ta karamin kamfani da babbar kamfani").
+entry(midcult, n, [midcults], "al'adar matsakaiciya").
+entry(tsakar_rana, n, [tsakar_rana], "tsakar ranar").
+entry(midden, n, [middens], "tudun shara").
+entry(middies, pl, [], "na doguwar riga").
+entry(tsakiya, v, [tsakiyar, tsakiyarwa, tsakiyarsu], "don sanya a tsakiyar wurin ko maki daidai daga iyaka ko iyaka").
+entry(middler, n, [middlers], "dalibi a wani mataki na tsaka-tsaki").
+entry(tsaka-tsaki, n, [tsaka-tsaki], "wani naman alade da aka yanka").
+shigarwa(middy, n, [middies], "rigar da ba ta matse jiki ba").
+entry(tsakiya, n, [tsakiyoyi], "tsakiyar filin wasa").
+entry(kwarkwasa, n, [kwarkwasa], "ƙwaro mai fuka-fuki ƙanƙauna").
+entry(nanaye, n, [nanayen], "mutum mai kankantar gaske").
+entry(cikinta, n, [cikintai], "sashin tsakiya na hanjin ciki a cikin jaririyar halitta").
+entry(midi, n, [midis], "wanda ya kai tsakiyar shanwi ko rigar sanyi").
+entry(midiron, n, [midirons], "kulob din golf").
+entry(tsamaniya, n, [tsakiyar_kasa], "bangaren tsakiya na kasa").
+entry(midleg, n, [tsakiyar_kafafu], "tsakiyar kafa").
+entry(midlife, n, [midlives], "tsakiyar shekaru").
+entry(midlifer, n, [midlifers], "mutumin da ya kai tsakiyar rai").
+entry(midline, n, [layin_tsaka], "wani layin matsakaici").
+entry(midlist, n, [jyeri_mai_tituna], "wani yanki na jerin sunayen masu wallafa na yanzu").
+entry(tsakiyar_wata, n, [tsakiyoyin_watanni], "tsakiyar wata").
+entry(tsakar gida, n, [tsakar gidaje], "wani ɓangare da yake daidai a tsakiyar").
+entry(tsakar_dare, n, [tsakar_dare], "tsakiyar dare").
+entry(tsakar_rana, n, [tsakar_rana], "rana tsaka").
+entry(tsakiya, n, [tsakiya], "wani wuri a tsakiyar").
+entry(tsakiya, n, [tsakiyoyi], "tsakiya na kewayo").
+entry(midrash, n, [midrashim], "ko MIDRASHOTH ko MIDRASHOT fassarar baibul ta cikin yahudawa na farko").
+entry(mabambantan, n, [mabambanta], "jijiya ta tsakiya ta ganye").
+entry(cibiya, n, [cibiyoyi], "tsakiyar sashen jiki").
+entry(tsakar-gida, siffofi, [], "na nufin tsakar jirgin ruwa").
+entry(tsakiyar-jirgi, adv, [], "zuwa tsakiyar jirgi").
+entry(midshore, adj, [], "yana nufin gidauniyar kamun kifi da take tsakanin cikin gida da kamun kifi na waje").
+entry(matsakaici, sif, [], "na matsakaicin girma").
+entry(matsakaita, adj, [], "matsakaita").
+entry(takalmi_duniya, n, [takalmin_duniyoyi], "wata matsakaiciyar layi na dunduniyar takalmi").
+entry(midspace, n, [midspaces], "tsaka tsakiyar wuri").
+entry(tsakiya, n, [tsakiyayoyi], "tsakiyar").
+entry(tsakiyar_labari, n, [tsakiyoyin_labari], "tsakiyar labari").
+entry(tsakiyar lokaci, n, [tsakiyar lokutan], "wani jarrabawa da ake yi a tsakiyar wata karatu na ilimi").
+entry(midtown, n, [midtowns], "tsakiyar birnin").
+entry(tsaftsafa_tsaida, n, [tsaftsafa_tsaidoji], "tsaftsafa a cikin jirgi tsakanin tsakar dare da karfe 4 na safe").
+entry(tsakiyar_ruwa, n, [tsakiyar_ruwanni], "sashin tsakiya a tsaye na jikin ruwa").
+entry(tsakiyar_hanya, n, [tsakiyar_hanyoyi], "wani hanya a wurin biki ko karnival don ciniki da nishadi").
+entry(tsakiyar_mako, n, [tsakiyar_mako], "tsakiyar mako").
+entry(maiwa, v, [maiwad,maiwafing,maiwafes], "ko MAIWAVED MAIWAVING MAIWAVES taimakawa mace a haihuwa").
+entry(tsakiyar_shekara, n, [tsakiya_shekaru], "tsakiyar shekara").
+entry(mien, n, [miens], "halaye").
+entry(miff, v, [miffed,miffing,miffs], "kai wa mutane cikas").
+entry(miffy, ajm, [], "MIFFIER MIFFIESTmai sauƙin ɓacin rai").
+entry(mig, n, [migs], "wani irin 'yar tsana mai wasa").
+entry(migawd, interj, [], "ana amfani dashi don nuna mamaki").
+entry(migg, n, [miggs], "mig").
+entry(miggle, n, [miggles], "wani mig").
+entry(might, n, [mights], "ƙarfi").
+entry(mai ƙarfi, siffofi, [], "MAFI ƘARFI MAFI ƘARSHEstrongMAI ƘARFI adv").
+entry(mignon, n, [mignons], "nama yankuwa daga naman sa").
+entry(mignonne, sif, [], "ƙanana da kyau").
+entry(ciwon_kai_mahaɗi, n, [ciwon_kai_mahaɗi], "ciwon kai mai tsanani").
+entry('ɓarci', n, ['ɓarci'], "wanda ya ke ƙaura").
+entry(matsa, v, [matsa, matsowa, matsa], "yin ɗauka daga yanki ɗaya zuwa wani").
+entry(maɗaukaki, n, [maɗaukakai], "wani ɗan ƙaura").
+entry(mihrab, n, [mihrabai], "wani aljihun sallah a masallaci").
+entry(mijinhia, n, [mijinhias], "majinhia").
+entry(mikado, n, [mikados], "sarkin Japan").
+entry(mike, v, [miked,miking,mikes], "don kara sauti ko yin rikodi ta amfani da makirufo").
+entry(mikron, n, [mikrons], "ko MIKRAmicron").
+entry(mikva, n, [mikvas], "mikva").
+entry(mikvah, n, [mikvahs], "ko MIKVOTH ko MIKVOT ko MIKVOS wuri don wankan addini ta Yahudawan Orthodox").
+entry(mikveh, n, [mikvehs], "mikvah").
+entry(mil, n, [mils], "wani sashi na tsawon").
+entry(miladi, n, [miladis], "gimbiya").
+entry(milady, n, [miladies], "uwar gida Baturiya").
+entry(milage, n, [milages], "nisa").
+entry(milch, adi, [], "mai ba da madara").
+entry(milchig, sif, [], "wanda aka yi daga madara ko aka samo daga madara").
+entry(mild, v, [milded,milding,milds], "ragewa").
+shigar(m, s, [], "M MAI RASHIN TSANANIba mai tsanani ko wuyaM S mai").
+entry(milden, v, [mildened, mildening, mildens], "yin ko zama mai laushi").
+entry(mildew, v, [mildewed, mildewing, mildews], "don hulɗu da tsibbirin farin tsiro wanda fungi ke samarwa").
+entry(mildewy, sif, [], "wanda ya kamu da ko kuma yana kama da ƙura").
+entry(mildly, adv, [], "ta wata hanya mai laushi").
+entry(mildness, n, [mildnesses], "ingancin kasancewa mai laushi").
+entry(milu, n, [milu], "wani raka'a na nesa").
+shigar(miliki, n, [milikoki], "jimilar tazara da aka bayyana a cikin mils").
+entry(milepost, n, [mileposts], "wani shafi da ke nuna tazara a cikin mil").
+entry(miler, n, [milers], "wanda ke gudu tseren mil daya").
+entry(milesian, sif, [], "masu alaka da mutanen asali na Ireland").
+entry(milesimo, n, [milesimos], "tsohon kudin kasar Cili").
+entry(milfoil, n, [milfoils], "ciyawa ta dindindin").
+entry(milia, pl, [], "na milium").
+entry(miliaria, n, [miliarias], "cuta ta fata").
+entry(miliary, adj, [], "wanda aka yi da karamin tagwayen projections da yawa").
+entry(muhalli, n, [muhalla], "ko MUHALLAImuhalli").
+entry(gudu_mili, n, [gudu_mili], "aikin gudu a tseren masu tsawon hanya daya mili").
+entry('mai-fada', n, ['masu-fada'], "mutum mai tsananta aikata wani al'amari").
+entry(soja, n, [sojoji], "makaman da aka tanada").
+entry(militate, v, [militated,militating,militates], "yin tasiri ko sakamako").
+entry(‘yan bindiga, n, [‘yan bindiga], "sojojin farar hula").
+entry(milium, n, [milia], "wani ƙaramin tsatsa fari a fata").
+entry(madaran, v, [madara, madarawa, madaru], "zuwa zana madara danyar ruwan shayarwa daga nonon").
+entry(milker, n, [masu_shan_madangara], "wanda ke shan madara").
+entry(milkfish, n, [milkfishes], "kifi na teku da ake amfani da shi don abinci").
+entry(milkier, bambance, [], "na madara").
+entry(milkiest, superlative, [], "na madara").
+entry(milkily, adv, [], "a cikin yanayin madara").
+entry(milkless, sif, [], "rashinnan madara").
+entry(milkmaid, n, [milkmaids], "mace da take shan inabin shanu").
+entry(dan-jarida, n, [yan-jarida], "mutum da ke sayarwa ko isar da madara").
+entry(milkshed, n, [milksheds], "yanki mai samarwa al'umma takamaimai madara").
+entry(milksop, n, [milksops], "namiji mai kamanni na mace").
+entry(tsirrai_kakra, n, [tsirrai_kakra], "tsiro wanda ke fitar da ruwan madara").
+entry(milkwood, n, [milkwoods], "itacen duniya mai zafi").
+entry(milkwort, n, [milkworts], "tsiro mai fure").
+entry(milky, adj, [], "MAI-KAMAN NONO MAI-KAMAR NONOkamar nono ko mai alamar nono").
+entry(nika, v, [nikaawa, nikaake, nikaaye], "don niƙa ta hanyar injina NIKAMASHI adj").
+entry(millage, n, [millages], "wani irin farashin kudi").
+shigar(millcake, n, [millcakes], "wani saura daga linseed da aka matsa").
+entry(milldam, n, [milldams], "katan ruwa da aka gina don samar da tafkin niƙa").
+entry(mille, n, [milles], "dubu daya").
+entry(milleped, n, [millepeds], "milleped").
+entry(miller, n, [millers], "wanda ke niƙa").
+entry(millett, n, [hatsi], "irin alkama").
+entry(milliamp, n, [miliyamp], "dubun daya daga cikin amp").
+entry(milliard, n, [milliardoji], "biliyan ɗaya").
+entry(milliare, n, [milliares], "naúrin yanki").
+entry(milliary, n, [milliaries], "tsohon alkayen Romawa").
+entry(millibar, n, [millibars], "wani sashi ne na matsin yanayi").
+entry(millieme, n, [milliemes], "ƙima na ƙasar Misira da Sudan").
+entry(millier, n, [milliers], "wani rukuni na nauyi").
+entry(milligal, n, [milligals], "wani rukuni na hanzari").
+entry(millilux, n, [milliluxes], "ko MILLILUCES wani ma'auni na haske").
+entry(millime, n, [millimes], "kudin Tunisia").
+entry(millimho, n, [millimhos], "wani rukuni na gudanarwa na lantarki").
+entry(milline, n, [millines], "wani rukuni na sararin talla").
+entry(masana_kayan_kafa, n, [masana_kayan_kafa], "wanda ke yin ko siyar da hulunan mata").
+entry(nikara, n, [nikaru], "gefen mai lanƙwasawa a kan tsabar ƙudi").
+entry(milliohm, n, [milliohms], "wani nau'in karfin lantarki").
+entry(miliyan, n, [miliyoyi], "wani lamba").
+entry(kwari_malafa, n, [manya_kwari_malafa], "wani kwari mai ƙafa da yawa").
+entry(millirem, n, [millirems], "yawan radiyoizashi mai ƙarfi").
+entry(millpond, n, [millponds], "tafkin da ke bayar da ruwa don gudanar da injin nika irin na ruwa").
+entry(millrace, n, [millraces], "gudun ruwa mai jujjuya injin niƙa").
+entry(millrun, n, [millruns], "wani ruwan nika").
+entry(millwork, n, [millworks], "zanen itace da aka samar ta hanyar niƙa").
+entry(milneb, n, [milnebs], "maganin fungi").
+entry(milo, n, [milos], "ciyawar hatsi").
+entry(milord, n, [milords], "wani attajirin Ingilishi").
+entry(milpa, n, [milpas], "filin da aka share daga daji domin noman amfanin gona").
+entry(milreis, n, [milreis], "tsohuwar kudin kasar Portugal").
+entry(milt, v, [milted,milting,milts], "shigar da mani na kifi cikin").
+entry(milter, n, [milters], "kifi namiji a lokacin haihuwa").
+entry(milty, sif, [], "MAI CIKKEN MILT MAI CIKKEN MILT").
+entry(mim, sif, [], "sanin-kai tare da kamun kai").
+entry(minbari, n, [minbari], "minbar").
+entry(mime, v, [mimed,miming,mimes], "kwaikwayo").
+entry(mimeo, v, [mimeoed,mimeoing,mimeos], "yin kwafi ta hanyar amfani da na'urar kwafin mimeograph").
+entry(mimer, n, [mimers], "wanda ke kwaikwayon abinda wani ke yi").
+entry(mimesis, n, [mimesises], "ko MIMESES kwaikwayo MIMETIC adj").
+entry(mimetite, n, [mimetites], "wani ɗanyen ƙarfe daga shinge").
+entry(mimic, v, [kwaikwaya,kwaikwayawa,kwaikwaiya], "kwaikwayon a hankali").
+entry(mimical, sif, [], "na halin kwaikwayo").
+entry(makaryaci, n, [makaryata], "wanda yake yin koyi").
+entry(mimicking, yanzu, [], "dajin kwaikwayo").
+entry(mimikiri, n, [mimikirai], "misali na kwaikwayo").
+entry(miming, yanzu, [], "sunadar shiri na mime").
+entry(mimosa, n, [mimosas], "shuka mai zafi").
+entry(mimulus, n, [mimuluses], "wani shuka mai fure").
+entry(mina, n, [minas], "ko MINAE tsohon nauyi da darajar nauyi").
+entry(minable, adj, [], "mai yiwuwa a hako").
+entry(minacity, n, [minacities], "yanayin zama mai barazana").
+entry(minae, a, [], "jam'i na mina").
+entry(minaret, n, [minarets], "hasumiyar tsawo mai kankantar da aka liƙa wa masallaci").
+entry(minatory, adj, [], "mai barazana").
+entry(minbar, n, [minbari], "wurin kakakin musulunci").
+entry(mince, v, [yaka, yanka, yankewa], "yanka kanana sassa sosai").
+shigar(mincer, n, [mincers], "wanda ke niƙa").
+entry(mincy, sif, [], "MINCIER MINCIESTmai kyan kai").
+entry(zuci, v, [kulawa,kulawa,kwamfuta], "saurara").
+entry(mindedly, adv, [], "ta hanyar wanda ke da irin wannan nau'in hankali").
+entry(mai_tunatarwa, n, [masu_tunatarwa], "wanda ke kula").
+entry(masu-hankali, sif, [], "mai hankali").
+entry(mara hankali, sifa, [], "rashin basira").
+entry(dabi'a, n, [dabi'o'i], "matsayin tunani mai tsayayye").
+entry(mine, v, [tona,tona,tunani], "tona don samun kayan daraja").
+entry(mineable, saj, [], "mai hakowa").
+entry(mina, n, [ma'aikatan ma'adinai], "wanda ke hakar ma'adinai").
+entry(ma'adini, n, [ma'adinai], "wani abu na halitta mara rai da ke da tsarin kaddarorin zahiri na musamman").
+entry(mingier, kamba, [], "na mingy").
+shiga(mingiest, superlative, [], "na mingy").
+entry(mingle, v, [mingled,mingling,mingles], "hada tare").
+entry(mingler, n, [masu_hada_hadar], "wanda ke hada hadar").
+entry(mingy, sifa, [], "MINGIER MINGIESTma'ana kuma ƙunciMINGILY adv").
+entry(ƙanana, n, [ƙananan], "wani abu da ya bambanta da sauran nau'o'in sa ta fannin ƙanƙantarsa").
+entry(minibar, n, [karamin firinji], "karamin firinji da aka tanada da abin sha").
+entry(minibike, n, [kananan babura], "kekunan dako kanana").
+entry(minibas, n, [minibas], "ko MINIBUSSESa kananan bas").
+entry(minicab, n, [minicabs], "karamin motar haya").
+entry(minicam, n, [minikamar], "ƙarama kyamara na talabijin mai ɗaukar nauyi").
+entry(minicamp, n, [minicamps], "wani gajeren sansanin horo don 'yan wasan ƙwallon ƙafa").
+entry(minicar, n, [kananan motoci], "karamar mota").
+entry(minidisc, n, [minidisk], "karamin faifan kwamfutoci").
+entry(minify, v, [minified,minifying,minifies], "rage girma ko tsawo").
+entry(minigolf, n, [minigolfs], "wani wasa makamancin golf wanda aka buga a ƙananan filin shinge").
+entry(minikin, n, [kananan halittu], "wani ƙaramin ko ƙayataccen halitta").
+entry(minilab, n, [minilabs], "wani wurin sayar da kayayyaki da ke bayar da ingantaccen haɓaka fina-finai a kan lokaci").
+entry(minim, n, [minims], "wani nau'in ma'aunin ruwa").
+entry(minima, a, [], "jam'in minimum").
+entry(minimal, n, [kadan-kadan], "wani abu cikin saitin lissafi wanda ke gaba da duk wasu").
+entry(minimax, n, [minimaxes], "mafi karanci daga mafi girma").
+entry(minimill, n, [karamin masana'antar karfe], "karamin masana'antar ƙarfe").
+entry(minimishe, v, [an minimishee, minimishing, minimishees], "rage zuwa kadan").
+entry(minimize, v, [kadan,kadancewa,yana ragewa], "ba ya zuwa mafi karanci yadda ya kamata").
+entry(minimum, n, [minimums], "ko MINIMAmatsakaicin adadi ko adadin da ya yi ƙanƙanta").
+entry(hakowa, n, [hakokowa], "aikin hako ma'adanai a cikin ƙasa").
+shiga(minion, n, [minions], "mabi suke bauta").
+shigar(minipark, n, [miniparks], "ƙaramar filin shakatawa na birni").
+entry(minipill, n, [minipills], "kwayar hana daukar ciki mai kwakwalwa wanda ba ya dauke da estrogen").
+entry(minish, v, [raguwa,raguwa,yana_raguwa], "to diminish").
+entry(miniski, n, [miniskis], "waski mai gajarta").
+shiga(minista, v, [ministawa,na ministawa,ministoci], "ta bayar da taimako ko sabis").
+entry(ma'aikata, n, [ma'aikatu], "aikin hidimtawa").
+entry(minium, n, [miniums], "fenti ja").
+entry(minivan, n, [kananan motoci], "karamin mota").
+entry(miniver, n, [minivers], "fari fur").
+entry(mink, n, [minks], "wani mai cin nama dabba").
+entry(minke, n, [minkes], "wani karamin dolfen").
+entry(minneola, n, [minneolas], "wani irin tangerine mai ja").
+entry(minnow, n, [minnows], "kifi ƙarami").
+entry(minny, n, [minnies], "kifi karami").
+entry(minor, v, [minored, minoring, minors], "bi wata takamaiman hanya ta karatu musamman").
+entry(minorca, n, [minorcas], "wani irin tsuntsun gida mai girma").
+entry(ƙananan, n, [ƙananan-ƙungiya], "yawan ƙanana ko wani ɓangare").
+entry(minster, n, [manyan coci-coci], "babban coci ko wanda yake da muhimmanci").
+entry(mawaƙi, n, [mawaƙa], "mawaƙi na zamanin tsakiyar tarihi").
+entry(minti, v, [minting,minti,mintu], "don samarwa ta hanyar buga ƙarfe kamar tsabar kuɗi").
+entry(mintage, n, [mintages], "yin kudi").
+entry(minter, n, [maimintina], "wanda ke kwance kudi").
+entry(minty, sif, [], "MAFI NA DA ɗanɗano na mint wani tsire mai ƙanshi").
+entry(minuend, n, [minuends], "wani lamba daga wanda wani za a cire").
+entry(minuet, v, [rungumi,minuetawa,rumgum), "yin rawa ta minuet wacce take da salo mai tsanani").
+entry(minus, n, [maki], "adadi maras kyau").
+entry(dakika, sif, [], "KAN KANANan da KAN KANANIN sosaiKAN KANANE adv").
+entry(minute, v, [yana rubuta minuted,yana rubuta minuting,yana rubuta minutes], "yin rubutu a takaice").
+entry(minutia, n, [minutocin], "dalla-dallaMINUTIAL adj").
+shigarwa(minx, n, [minxes], "yarinya mai wayoMINXISH sif").
+entry(minyan, n, [minyans], "ko MINYANIM mafi ƙarancin adadin da ake buƙata don gudanar da hidimar Yahudawa").
+entry(miosis, n, [mioses], "raguwa mai yawa ta kwayar ido").
+entry(miotic, n, [miotics], "wani wakili wanda ke haifar da miosis").
+entry(miquelet, n, [miquelets], "tsohon soja na Spain ko Faransa").
+entry(mir, n, [mirs], "ko MIRI ƙauyen manoma na Rasha").
+entry(mu’ujiza, n, [mu’ujizai], "wani al’amari da ake dangantashi da wani abu na almara ko na Allah").
+entry(mirador, n, [miradors], "wani fasalin gine-gine da aka tsara don bayar da faffadan kallo").
+entry(fata morgana, n, [fata morgana], "wani irin wahalar gani").
+entry(mire, v, [mired, miring, mires], "sa a makale cikin ƙasa mai laka").
+entry(mirepoix, n, [mirepoix], "a sauteed mixture of diced vegetables").
+entry(mirex, n, [mirexes], "maganin kwari").
+entry(miri, a, [], "mrk na mir").
+entry(mirid, n, [miridodi], "wani iri na kwaro mai zama a kan ganye").
+entry(mirier, camba, [], "na ciki").
+entry(miriest, mafi, [], "na miry").
+entry(mirin, n, [mirins], "wani miya mai zaki na Jafananci wanda ake amfani da shi wajen girki").
+entry(miriness, n, [mirinesses], "halin kasancewa cikakke da laka").
+entry(miring, na yanzu, [], "wanda ake kira 'mire'").
+entry(mirk, sif, [], "MIRKER MIRKESTmurk").
+entry(mirk, n, [mirks], "muraɗɗi").
+entry(mirky, sif, [], "MIRKIER MIRKIESTmurkyMIRKILY adv").
+entry(mirliton, n, [mirlitons], "chayote").
+entry(madubi, v, [madubinta, madubi, madubai], "don nuna siffar hoto").
+entry(mirth, n, [mirths], "farin ciki mai nishadi").
+entry(miry, sataf, [], "MAFAUCI MAFI MATAFAUCInankama").
+entry(mirza, n, [mirzas], "wani suna na karramawa na Farisa").
+entry(misact, v, [misacted, misacting, misacts], "yi abin da bai dace ba").
+entry(misadapt, v, [misadapted, misadapting, misadapts], "don daidaitawa ba daidai ba").
+entry(misadd, v, [misadded,misadding,misadds], "ƙara ba daidai ba").
+entry(mugu, n, [mugaye], "wani mummunan wakili").
+entry(misaim, v, [misaimed, misaiming, misaims], "nuna marmari da rashin kwarewa").
+entry(misalign, v, [misaligned,misaligning,misaligns], "don tsara bisa rashin tsari").
+entry(misallot, v, [misallotted,misallotting,misallots], "raba ba daidai ba").
+entry(misally, v, [misallied,misallying,misallies], " haɗin gwiwa da rashin kyau").
+entry(misalter, v, [misaltered,misaltering,misalters], "canza ba daidai ba").
+entry(misandry, n, [kyamar maza], "kiyayewar maza").
+entry(misapply, v, [misapplied,misapplying,misapplies], "yin amfani da shi ba daidai ba").
+entry(misassay, v, [misassayed,misassaying,misassays], "yunƙurin da bai yi nasara ba").
+shigarwa(misate, da, [], "lokacin miseat").
+```Prolog
+entry(misatone, v, [misatoned, misatoning, misatones], "don yin kaffara da ba daidai ba").
+```
+entry(misaver, v, [misaverred,misaverring,misavers], "yin magana a kuskure").
+entry(misaward, v, [misawarded,misawarding,misawards], "ba da lambar yabo da ba daidai ba").
+entry(misbegin, v, [misbegan,misbegun,misbeginning], "MISBEGIN farawa ba daidai ba").
+entry(misbegot, sif, [], "haifaffen ba ta aure ba").
+entry(misbias, v, [misbiased,misbiasing,misbiases], "ko MISBIASSED MISBIASSING MISBIASSESto karkatar da kanzani").
+entry(misbill, v, [misbilled,misbilling,misbills], "yin kuskuren cajin").
+entry(misbind, v, [misbound,misbinding,misbinds], "a tattara ba daidai ba").
+entry(misbrand, v, [misbranded,misbranding,misbrands], "yi alama ta kuskure").
+entry(misbuild, v, [misbuilt, misbuilding, misbuilds], "gina da kuskure").
+entry(miscall, v, [miscalled,miscalling,miscalls], "kira da sunan da bai dace ba").
+entry(miscarry, v, [jabace,jabawa,jabawa], "kasancewa ba a yi nasara ba").
+entry(miscast, v, [jekorarsa,jikoracewa,jikoras], "aje wani a matsayi da bai dace ba").
+entry('bata gari', n, ['batagarai'], "aikin da ke haddasa jin haushi, lalacewa, ko matsala").
+entry(mischose, da, [], "ayin mischoose don zaɓa ba daidai ba").
+entry(miscible, siffa, [], "mai iya hadawa").
+entry(miscite, v, [miscited, misciting, miscites], "yin ba da jawabi ba daidai ba").
+entry(misclaim, v, [misclaimed, misclaiming, misclaims], "ikirkira ba daidai ba").
+entry(misclass, v, [misclassed,misclassing,misclasses], "a saka a rukunin da bai dace ba").
+entry(miscode, v, [miscoded,miscoding,miscodes], "yin kuskuren lamba").
+shigarwa(miscoin, v, [miscoined,miscoining,miscoins], "yin tsabar kudi da rashin dacewa").
+entry(miscolor, v, [miscolored,miscoloring,miscolors], "zubar da wani launi da ba daidai ba").
+entry(miscook, v, [miscooked,miscooking,miscooks], "dafa abinchi ba da kyau").
+entry(miscopy, v, [miscopied, miscopying, miscopies], "kwafa ba daidai ba").
+entry(miscount, v, [miscounted,miscounting,miscounts], "kirga ba daidai ba").
+entry(miscue, v, [], "MISCUE, MISCUEWA, ko MISCUEING MISCUE don yin mabuɗin da bai dace ba a wasan biliyad").
+entry(miscut, v, [miscut, miskut, miscuts], "yanke da kuskure").
+entry(misdate, v, [misdated,misdating,misdates], "yin kwanan wata ba daidai ba").
+entry(misdeal, v, [misdealt, misdealing, misdeals], "yin rabon kati ba daidai ba").
+entry(mugunta, n, [muguntai], "aikin mugunta").
+entry(misdeem, v, [misdeemed,misdeeming,misdeems], "yin hukunci maras kyau").
+entry(misdial, v, [misdialed,misdialing,misdials], "ko MISDIALLED MISDIALLING MISDIALSdon kiran da ba daidai ba").
+entry(misdo, v, [misdid,misdone,misdoing], "MISDOEsa yi ba daidai ba").
+entry(masaniyar, n, [masaniyoyi], "wanda yake aikata rashin daidai").
+entry(misdoing, n, [misdoings], "abin da aka yi ba daidai ba").
+entry(misdone, da, [], "ɓangaren misdo").
+entry(misdoubt, v, [misdoubted, misdoubting, misdoubts], "yin shakka").
+entry(misdraw, v, [misdrew,misdrawn,misdrawing], "MISDRAWsto jawo ba daidai ba").
+entry(misdrive, v, [misdrove,misdriven,misdriving], "MISDRIVEshayewA cikin kuskure ko ba daidai ba").
+entry(mise, n, [mises], "yarjejeniya ko sulhu").
+entry(misease, n, [miseases], "jin rashin jin daɗi").
+entry(miseat, v, [misate,miseaten,miseating], "MISEATScin abinci ba daidai ba").
+entry(misedit, v, [misedited,misediting,misedits], "gyara ba daidai ba").
+entry(misenrol, v, [misenrolled,misenrolling,misenrols], "shiga ƙungiya ba daidai ba").
+entry(misenter, v, [misentered,misentering,misenters], "shiga kuskure").
+shigarwa(misentry, n, [kuskurenshiga], "wani shigarwa da ya yi kuskure").
+entry(makiya, n, [makiyan], "wanda ke tara kudi da kwaɗayi").
+entry(miserere, n, [misereres], "wani ɓangare na wurin zama a coci").
+entry(misali, sifa, [], "matsayin marowaci").
+entry(azaba, n, [azabai], "wani hali na babban shan wahala").
+entry(misevent, n, [misevents], "wani kuskure").
+entry(marasa_imani, n, [marasai_imanin], "rashinsa imani rashin yarda").
+entry(misfeed, v, [misfed,misfeeding,misfeeds], "ciyar da kuskure").
+entry(misfield, v, [misfielded,misfielding,misfields], "yin shafawa cikin rashin kyau").
+entry(misfile, v, [misfiled,misfiling,misfiles], "a saka a wani wuri da ba daidai ba").
+entry(cikawa, v, [cikawa,cikawa,cikawa], "gaza harbawa").
+entry(misfit, v, [daidaita maras kyau,daidaitawa maras kyau,marasa kyau], "daidaitawa da mugunta").
+entry(misfocus, v, [misfocused,misfocusing,misfocuses], "ko MISFOCUSSED MISFOCUSSING MISFOCUSSES mayar da hankali sosai da rashin kyau").
+entry(misform, v, [misformed, misforming, misforms], "yi kuskuren siffa").
+entry(misframe, v, [misframed,misframing,misframes], "sanya a cikin tsari ba daidai ba").
+entry(misgauge, v, [misgauged,misgauging,misgauges], "yi awo ko kididdiga da rashin daidai ko kuskure").
+entry(misgive, v, [misgave,misgiven,misgiving], "MISGIVEYana sanya shakka ko tsoro").
+shigarwa(misgrade, v, [misgraded, misgrading, misgrades], "yin lakabi da kuskure").
+entry(misgraft, v, [misgrafted,misgrafting,misgrafts], "yadda za a dasa kuskure").
+entry(misgrow, v, [misgrew,misgrown,misgrowing], "MISGROW yana nufin ya girma ba daidai ba").
+entry(misguess, v, [misguessed,misguessing,misguesses], "yi zato ba daidai ba").
+entry(rudanar, v, [rudar, rudana, rudani], "yin jagora da kuskuren hanya").
+entry(hatsari, n, [hatsarori], "hatsari maras sa'a").
+entry(mishear, v, [misheard,mishearing,mishears], "jin ba daidai ba").
+entry(mishit, v, [mishit,mishitting,mishits], "buga da rashin kyau").
+entry(mishmash, n, [mishmashes], "cakudadden abu").
+entry(mishmosh, n, [mishmoshes], "rududdu").
+entry(mishugas, n, [mishugases], "halin hauka ko wauta").
+entry(misinfer, v, [misinferred, misinferring, misinfers], "yin hange na kuskure").
+entry(misinter, v, [misinterred,misinterring,misinters], "shiga ba daidai ba").
+entry(misjoin, v, [misjoined,misjoining,misjoins], "hada ba daidai ba").
+entry(misjudge, v, [misjudged, misjudging, misjudges], "yin hukunci da kuskure").
+entry(miskal, n, [miskaloli], "wani nau'i na nauyin Gabas").
+entry(miskeep, v, [miskept,miskeeping,miskeeps], "ajiye ba daidai ba").
+entry(miskey, v, [miskeyed, miskeying, miskeys], "shan makullin ta cikin kwamfuta ba daidai ba").
+entry(miskick, v, [miskicked, miskicking, miskicks], "buga mummunar ƙafa").
+entry(misknow, v, [misknew,misknown,misknowing], "MISKNOWs rashin fahimta ko gane").

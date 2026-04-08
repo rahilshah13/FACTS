@@ -11735,3 +11735,3700 @@ entry(galipot, n, [galipots], "iru turpentine").
 entry(galivant, v, [galivanted, galivanting, galivants], "láti rìnrìnàjò lọ́nààìmuuṣirò").
 entry(gall, v, [galled,galling,galls], "lati binu tabi daamu").
 entry(gallant, v, [gallanted,gallanting,gallants], "lati fe obirin").
+entry(gallate, n, [gallates], "iyo kemikali").
+entry(galleass, n, [galleasses], "òkọ̀ ogun ńlá ńlá").
+entry(gallein, n, [awọ ewe], "awọ alawọ ewe kan").
+entry(galleon, n, [galleons], "òkò ojú omi ńlá tí ó ń lo ẹ̀fúùsá láti rìn ìrìn-ajo ní òkun").
+entry(galleria, n, [gallerias], "opá tí ó wà lábẹ̀ ìgà ajéjì tàbí gbọngàn").
+entry(agbegbe, v, [agbegbeed,agbegbeing,agbegbe], "lati pese pẹlu agbegbe ti o bo gun").
+entry(gallet, v, [galleted,galleting,gallets], "lati kun awọn isẹpo amọ pẹlu awọn gige okuta").
+entry(galleta, n, [galletas], "koríko olódúdú").
+entry(àkọ̀kọ́, orúkọ, [àkọ̀kọ́], "ọkọ̀ ojú omi gíga, gíga").
+entry(gallfly, n, [gallflies], "ẹfọn kekere kan").
+entry(galliard, n, [galliards], "ijó ayọ").
+entry(galliass, n, [galliasses], "galleass").
+entry(gaalik, aj, [], "ti o ni gaaliomu").
+entry(gallica, n, [gallicas], "òódó aróòpákan").
+entry(gallican, adj, [], "ti o nii ṣe pẹlu ẹgbẹ ẹsin Faranse").
+entry(gallied, ijọbaayé, [], "asiko ti gally").
+entry(gallies, presente, [], "ẹjọ kẹta ẹni kọọkan ti gally").
+entry(galliot, n, [galliots], "pẹtẹgi kekere").
+entry(gallipot, n, [àgbàláge], "ikoko alágbàlá kéékèèké").
+entry(gallium, n, [awọn gallium], "ẹlémìn àti imọ").
+entry(eso, n, [awọn eso], "iyanilenu fun ti ẹyin eweko").
+entry(kẹkẹ, n, [kẹkẹ], "ẹgbẹ́ kan ti ó ń ṣààyè omi").
+entry(galloon, n, [galloons], "ẹgbẹ́run ẹgbà").
+entry(galloot, n, [galloots], "galoot").
+entry(gígá, v, [gígáde, gíga, gígán], "láti gùn ẹṣin ní iyára kikun").
+entry(gbé:ẹṣin, n, [gbé:ẹṣin], "ẹni tí ń gbé:ẹṣin").
+entry(gallous, ajn, [], "to ni gallium").
+entry(galloway, n, [awọn galloway], "irú màálù àìní ìwọ").
+entry(agbẹjọ́gbọ̀n, n, [agbẹjọ́gbọ̀ns], "ẹ̀rọ tí a máa ń lò fún gbígi olùjọ́jọ́ dànù").
+entry(gallus, n, [galluses], "eletan fun sokotoGALLUSED aj").
+entry(gally, v, [gallied,gallying,gallies], "lati ṣe ẹru").
+entry(galoot, n, [galoots], "ẹni aláìwàárí tàbí aláìlekókó").
+entry(galop, v, [galoped, galoping, galops], "lati jó galop, ìjó ayò tí ó ni ìbárẹ̀ gígìri").
+entry(galopade, n, [galopades], "ijó ìgbélékẹ́ke lively kan").
+entry(galore, n, [galores], "ọ̀pọ̀lọpọ̀").
+entry(galosh, n, [galoshes], "ibose ti a maa n wọ ni oke bata ti a wọ lati dena omi").
+entry(galonse, n, [galonses], "galonse").
+entry(galumph, v, [galumphed,galumphing,galumphs], "láti máa ń rìn tàbí máa ń ṣiṣẹ́ ní àfojúrú").
+entry(gálváníkì, àkọsílẹ̀, [], "tí ó ní í ṣe pẹ̀lú ìṣàn-ina taara").
+entry(galyac, n, [galyacs], "gályàkì").
+entry(galyak, n, [galyaks], "irun-agutan lati awọ ewurẹ kan").
+entry(gam, v, [gammed,gamming,gams], "lati ṣàbẹ̀wò lọ́nà àwùjọ").
+entry(gama, n, [gamas], "koriko oko").
+entry(gamashes, npl, [], "bátà àwọn ẹlẹsin tí wọn ń gun ìṣin").
+entry(gamay, n, [gamays], "àjàrà pupa kan").
+entry(gamb, n, [gambs], "ẹsẹ kan").
+entry(gamba, n, [gambas], "ọ̀pá akọrin ti o gùn tó ní fẹ́rẹ́ gírámù").
+entry(gambade, n, [gambades], "gambado kan").
+entry(gambado, n, [gambados], "tabi GAMBADOES lekan ti ẹṣin ba ṣe fo").
+entrée(gambe, n, [gambes], "gamb").
+entry(gambeson, n, [gambesons], "ewu akoko aye arin").
+entry(gambia, n, [gambias], "gámbíà").
+entry(gambier, n, [awọn gambier], "eroenja kan ti a gba lati ọgbin kan ni Asia").
+entry(gambir, n, [awọn gambirs], "gambier").
+entry(gambit, n, [gambits], "ẹ̀dá kan ti ìṣe nígbà ìbẹ̀rẹ̀ àwo olòpò chess").
+entry(gamble, v, [gambled,gambling,gambles], "láti ṣẹ̀gbé sẹ̀gbẹ́ eré tí ó jẹ́ ewọ yọ́, fún owó tàbí àwọn ohun tí ó níye").
+entry(onijare, n, [onijare], "eni kan ti n ṣiṣẹ ere ayo").
+entry(gamboge, n, [gambogu], "gummi kan").
+entry(gambol, v, [gamboled,gamboling,gambols], "tabi GAMBOLLED GAMBOLLING GAMBOLSitẹsiwaju loke ninu ihere").
+entry(gambrel, n, [gambrels], "apa kan ti ẹsẹ ẹṣin").
+entry(gambusia, n, [gambusias], "ẹja kekere kan").
+entry(ere, farasin, [], "Ere Plucky Juuju").
+entry(ere, v, [ered, ering, ere], "lati dun lati ayo").
+entry(gamebook, n, [gamebooks], "iwe ti awon ilana ti a maa n lo nipa egbe ere idaraya kan").
+entry(gamecock, n, [gamecocks], "rooster kan tí wọ́n kọ́ láti jagun").
+entry(gamefish, n, [awọn ẹja-idaraya], "ẹja ti a mú fun idaraya").
+entry(gamefowl, n, [gamefowls], "kokoro idaraya").
+entry(gamelan, n, [awon gamelan], "iru isise orin").
+entry(gamelike, àpàtà, [], "bi ere kan to gboye tabi idije ti awon ofin kan n dari").
+entry(gamely, adv, [], "ní àwọ́n ọ̀nà eré").
+entry(gameness, n, [gamenesses], "din kanju afoju").
+entry(gameplay, n, [awọn ọgbaẹrin wọnyẹn], "bi ere kọmputa tabi fidio ṣe n ṣiṣẹ").
+entry(gamer, n, [awọn onijẹ́jẹ́], "ẹni tó ń kópa nínú ẹ̀ṣẹmọ̣").
+entry(gamesman, n, [gamesmen], "ẹni ti o ṣere").
+entry(gamesome, orúkọàpẹẹrẹ, [], "ẹrọshere").
+entry(gamest, superlative, [], "ti ere").
+entry(olugbaṣere, n, [olugbaṣeres], "ẹlẹyā ẹ̀yin awọn aṣere").
+entry(gamete, n, [awọn gamete], "ẹyin ti o dagba daradara fun atunbiGAMETAL GAMETIC adj").
+entry(gamey, apre., [], "GAMIER GAMIESTgamy").
+entry(gamic, adj, [], "nilo fun gbigbe").
+entry(gamier, afiwekowe, [], "ti gamy").
+entry(gamiest, superlative, [], "ti gamy").
+entry(gamily, adv, [], "ni ona ere").
+entry(gamin, n, [gamins], "alagbere kan").
+entry(gamine, n, [awọn gamine], "ọmọkùnrinbirin").
+entry(gaminess, n, [gaminesses], "iye didaba gaminess").
+entry(ere, n, [awọn_ere], "iṣẹ́ ti fífẹ̀lẹ́lààyà").
+entry(gámà, n, [gámàs], "lẹ́tà Gíríìkì kan").
+entry(gammadia, npl, [], "Awọn eya ọṣọ Giriki").
+entry(gammed, ti tẹlẹ, [], "tẹnsì ti gam").
+entry(gammer, n, [awọn_gammer], "iabọba kan").
+entry(gammier, comparative, [], "ti gammy").
+entry(gammiest, superlative, [], "ti gammy").
+entry(gamming, lọwọlọwọ, [], "participle ti gam").
+entry(gammon, v, [gammoned,gammoning,gammons], "latari nipa oro ete").
+entry(gammoner, n, [gammoners], "eyikeyi to n gammoni").
+entry(gammy, adj, [], "GAMMIER GAMMIESTlame").
+entry(gamodeme, n, [gamodemes], "awọn aladugbo ibisi ti o ni iyapa diẹ").
+entry(gamp, n, [gamps], "agbo igi nla").
+entry(gamut, n, [gamuts], "àwọn gbogbo àsà").
+entry(gamy, adj, [], "GAMIER GAMIESTalagbara").
+entry(gan, iṣe ti o ti kọja, [], "tense of gin").
+entry(ganache, n, [ganaches], "adalu koko creamy").
+entry(gander, v, [gandered,gandering,ganders], "láti rìn àíkú").
+entry(gane, a, [], "sipesipeli ti tẹlẹ ti gae").
+entry(ole, n, [awọn ole], "olè").
+entry(ganev, n, [ganevs], "ajinigbe").
+entry(gang, v, [ganged,ganging,gangs], "lati da ẹgbẹ kan").
+entry(gangbang, v, [gangbanged,gangbanging,gangbangs], "latari ni awọn iṣẹ ti o jọmọ ẹgbẹ").
+entry(ganger, n, [awọn olori awọn oṣiṣẹ], "olori ẹgbẹ awọn oṣiṣẹ").
+entry(gangland, n, [ganglands], "àgbáyé ìwà ọdaran").
+entry(gangle, v, [gangled, gangling, gangles], "latari alaimuṣinṣin").
+entry(ganglia, a, [], "pl of ganglion").
+entry(ganglial, adj, [], "gangliar").
+entry(gangliar, adj, [], "ti nkan isọ").
+entry(ganglier, afiwera, [], "ti o dabi ẹgbẹ ẹsẹ").
+entry(gangliest, superlative, [], "ti gangly").
+entry(gangling, adj, [], "ga ju ati ti o ni imọlẹ ni irọrun").
+entry(ganglion, n, [ganglions], "tabi GANGLIA ìṣàpọ̀ àwọn ẹ̀rúkẹ́tẹ́ àkàrà ẹ̀dà").
+entry(gangly, adj, [], "GANGLIER GANGLIESTgangling").
+entry(gangplow, n, [gangplows], "ẹ̀rọ iṣẹ́ ilẹ̀").
+entry(gangrel, n, [gangrels], "alagbe").
+entry(gangrene, v, [gangrened,gangrening,gangrenes], "lẹ lati jiya iparun ẹran ninu apakan ara").
+entry(gangsta, n, [gangstas], "ẹnikan ninu ẹgbẹ opopona").
+entry(olè, n, [awọn olè], "ẹni to wa ninu ẹgbẹ janduku").
+entry(gangue, n, [gangues], "okuta ti ko niyelori ninu eyiti a rii awon nkan-irin ti o niyelori").
+entry(gangway, n, [gangways], "ẹnu-ọna").
+entry(ganister, n, [awọn ganister], "iru okuta kan").
+entry(ganja, n, [ganjas], "cannabis ti a lo fun mimu siga").
+entry(ganjah, n, [ganjahs], "ganja").
+entry(gannet, n, [gannets], "ẹiyẹ okun nla kan").
+entry(gannetry, n, [awọn ibi-adarí gannets], "ibi ti awọn gannets ti n bi").
+entry(ganof, n, [ganofs], "olè").
+entry(ganoid, n, [awon_ganoids], "iru eja kan").
+entry(gantlet, v, [gantleted,gantleting,gantlets], "lati fi opó oju irin mini").
+entry(gantline, n, [gantlines], "okùn níbẹ̀ ìkòkò tàbí ọkọ").
+entry(gantlope, n, [gantlopes], "ẹ̀ṣùn ologun àtijọ").
+entry(gantry, n, [gantries], "ẹ̀rọ ìdánilẹ́kọ̀rọ̀ fún ìfọ̀rọ́wérọ́ ọkọ̀ ojú irin").
+entry(ganymede, n, [ganymedes], "ọmọkunrin kan ti o nso ọti").
+entry(ganzfeld, n, [ganzfelds], "ẹ̀rọ ìṣàkóso ìfaradàgbọ́nrararọ́ tó ń là sílè nínú ìṣẹ̀kẹšíkàtàtòfẹsépìlógì").
+entry(ibi, v, [ibiwon,ibiti,ibis], "lati fi si ẹwọn").
+entry(olukori, n, [awonolukori], "jailbird").
+entry(oluso, n, [awọn oluso], "jailer").
+entry(gap, v, [gapped,gapping,gaps], "láti ṣe àwòngọ̀").
+entry(gape, v, [gaped,gaping,gapes], "ṣe ẹni tosenu ṣii").
+entry(gaper, n, [gapers], "ẹni tí ó ṣí ahọn gbo̟").
+entry(gapeseed, n, [gapeseeds], "nkankan ti o fa iyalẹnu").
+entry(ìkókó-ọ̀wọ̀, n, [ìkókó-ọ̀wọ̀], "ẹ̀yà kan tí ń fa àrùn fún àwọn ẹyẹ kéékèèké").
+entry(gaping, present, [], "participle ti gape").
+entry(gapingly, adv, [], "ninu ọna ṣiṣi").
+entry(gapless, aj, [], "ko si aafo").
+entry(gaposis, n, [gaposises], "aafo ninu gige awọn bọtini tabi ti awọn filasi").
+entry(gapped, ojosi, [], "akoko ti gap").
+entry(gapping, lọwọlọwọ, [], "participle of gap").
+entry(gappy, adj, [], "GAPPITILẸ GAPPITỌGẸẸ orgun ni").
+entry(gapy, adj, [], "tí ó ní ìjàpá-nù").
+entry(gar, v, [garred, garring, gars], "lati fa tabi fi ipa mu").
+entry(garage, v, [garaged, garaging, garages], "lati fi ọkọ ati ibi aabo sinu garaaji").
+entry(garb, v, [garbed, garbing, garbs], "lati wọ").
+entry(idọtí, n, [idọtí], "ounjẹ idọtí IDỌ́TÍY IDỌTÍY adj").
+entry(ewe, n, [ewes], "ewe").
+entry(garble, v, [garbled, garbling, garbles], "lati da itumọ ru").
+entry(garbler, n, [awọn garblers], "ẹni ti o n ṣe igbesẹ ni ibi kan").
+entry(garbless, adj, [], "jẹ laisi aṣọ").
+entry(garboard, n, [garboards], "igi kan lori isalẹ ọkọ oju omi").
+entry(garboil, n, [garboils], "rudurudu").
+entry(garcon, n, [awọn_ọwọ], "ọmọṣẹ").
+entry(garda, n, [gardai], "ọmọ ogun olopa ni Ireland").
+entry(gardant, adj, [], "ti a yi taara si oniwaasu  lohun ti a fi n se ewon eranko ni aami eran").
+entry(ogba, f, [ṣe_ogba,ṣíṣẹ́_ogba,ogba], "láti ṣe àtìpẹ̀tì ilẹ̀").
+entry(alagbinrin, n, [alagbinrin], "ẹni ti o n ṣiṣẹ lori ọgba").
+entry(gardenia, n, [gardenias], "igi igbo agbegbe ti oorun").
+entry(gardyloo, interj, [], "lo bi asọtẹlẹ kan").
+entry(garfish, n, [awọn eja garfish], "eja omi tutu").
+entry(garganey, n, [garganeys], "àdéhùn kékeré").
+entry(garget, n, [gargets], "onibaje ti awọn ẹranko ileGARGETY adj").
+entry(gargle, v, [gargled, gargling, gargles], "lati fọ ẹnu tabi ẹfun").
+entry(gargler, n, [garglers], "ẹni ti o gbọnnu").
+entry(gargoyle, n, [awon gargoyles], "figura adalase").
+entry(garigue, n, [garigues], "ibi koriko kukuru kan").
+entry(garish, orúkọ-àpẹẹrẹ, [], "gaudyGARISHLY adv").
+entry(garland, v, [tí garland mọ, ti ń garland, garlands], "láti fi máiṣelẹ̀ lélẹẹ̀ká").
+entry(ẹyọ alubosa, v, [alubosaed, alubosaing, alubosas], "lati ṣẹ́ṣọ́ pẹ̀lú ẹyọ alubosa èró kan tí a ń lò nínú ìdáná").
+entry(garlicky, adj, [], "LATI RIRINLAYE TI GBOGBO GBOGBO GBOGBO NI TABA RI ORISIRISI SI ADBO TI ATARE").
+entry(aṣọ, v, [aṣọnnitọn, aṣọnnitọrọ, aṣọ], "lati wọ aṣọ").
+entry(garner, v, [garnered, garnering, garners], "lati kóò ó si ibi ipamọ́").
+ìwọlé(garnet, n, [awọn garnet], "òkìkí kan").
+entry(garni, adj, [], "ti a fi iyokù kun").
+entry(garnish, v, [garnished,garnishing,garnishes], "lati ṣe ọṣọ").
+entry(garote, v, [garoted, garoting, garotes], "lati garrote").
+entry(gárótè, v, [gárótèdì, gárótínì, gáròtèsì], "láti gárótè").
+entry(garotter, n, [garotters], "ẹni tí ó ń mú kó").
+entry(garpike, n, [garpikes], "garfish kan").
+entry(garred, igba ti o koja, [], "akoko ti gar").
+entry(ileete, n, [ileete], "atile ati pe o ni ile ayoku kanGARRETED adj").
+entry(garring, lọwọlọwọ, [], "participle ti gar").
+entry(garrison, v, [garrisoned,garrisoning,garrisons], "lati yan si ipo ologun").
+entry(garron, n, [garrons], "ẹṣin kekere ti o lagbara").
+entry(garrote, v, [garroted, garroting, garrotes], "latí pa pipa lára ọwọ́tọ́").
+entry(garroter, n, [awọn aparo], "ẹni tó aparo").
+entry(gọ́rọ́tì, v, [gọ́rọ́tìdì,gọ́rọ́tìn,gọ́rọ́tèsì], "láti gọ́rọ́tì").
+entry(garter, v, [gartered,gartering,garters], "lati so pọ́ pẹlu teepu").
+entry(garth, n, [garths], "àgbàlá tàbí ọgba").
+entry(garvey, n, [awọn garvey], "okun kekere kan").
+entry(gaasi, v, [gaasi, gaasu, gaase], "tabi GAASI lati pese pẹlu gaasi ohun alumọni ti o le tẹsiwaju lati fa lọpọlọpọ").
+entry(gasalier, n, [gasaliers], "ẹrọ gaasi").
+entry(apoti_petrolu, n, [apoti_petrolus], "apoti fun kiko afẹfẹ").
+entry(gascon, n, [awọn gascons], "ẹni ti o fẹ́ ka ara rẹ́ lọ́rùn").
+entry(gaseity, n, [gaseities], "ipa ti jijẹ gaasi").
+entry(gaselier, n, [gaseliers], "agolo atupa gaasi").
+entry(gaseous, aj, [], "ni ibatan si gaasi").
+entry(gash, adj, [], "TÍ N JÍJÁ GIDI TÍ Ó JÙ").
+entry(gash, v, [gashed,gashing,gashes], "lati fa gige gun jinna kan ni").
+entry(ilooru, n, [ilo-ooru], "ibiti o n ṣe gaasi").
+entry(gasified, títán, [], "asiko tí gasify").
+entry(gasifier, n, [gasifiers], "ẹni tí ó ń ṣe kọ́nfẹsẹ").
+entry(gasiform, adj, [], "ní irisi èéfín").
+entry(gasify, v, [gasified,gasifying,gasifies], "lati yi pada si gaasi").
+`entry(gasket, n, [gaskets], "àkóónú fún àdánù kan ti yóò jẹ kí ohunkóhun ṣan-giga").`
+entry(gaskin, n, [gaskins], "apa kan ti ẹsẹ ẹṣin").
+entry(gasking, n, [gaskings], "gásíkétì").
+entry(gasless, aj, [], "ti ko ni gaasi").
+entry(gaslight, n, [gaslights], "imọlẹ ti a ṣe nipasẹ sisun gaasi").
+entry(gaslit, ajd, [], "ti a tan imọlẹ pẹlu ina gaasi").
+entry(gasman, n, [awon ose ti ile ise gaasi], "osise kan ti ile ise gaasi").
+entry(gasogene, n, [gasogenes], "gazojini").
+entry(gasohol, n, [gasohols], "apọpọ iṣan afẹfẹ ti petirolu ati oti ethyl").
+entry(gasolini, n, [gasolini], "petrolu").
+entry(gasolier, n, [gasoliers], "gaselier").
+entry(petrol, n, [petrols], "epo oniruuru kan").
+entry(gasp, v, [gasped,gasping,gasps], "lati simi ni pọn dandan").
+entry(gasper, n, [gaspers], "sigareti").
+entry(gassed, ti tẹlẹ, [], "aisan ti gaasi").
+ọwọle(gasser, n, [gassers], "ẹni ti o n se fifunni").
+entry(gasses, a, [], "ọrọ ti ẹni kẹta ẹni kan ranlọwọ ti gas").
+entry(gassing, n, [gassings], "egbogi nipa gaasi ti o ni ipalara").
+entry(gassy, adj, [], "GASSIER GASSIESTcontaining gasGASSILY adv").
+entry(gast, v, [gasted,gasting,gasts], "lati fi ibẹru").
+entry(gaster, n, [gasters], "apakan ti o ga soke ti ọdọmọdọmu ninu diẹ ninu awọn kokoro").
+ẹkọ(gasthaus, n, [gasthauses], "tabi GASTHAUSERa fẹrẹ wẹhọtelu ni Jámánì").
+entry(gastight, adj, [], "kii ṣe kí afẹ́fẹ́ máa jáde tàbí wọlé").
+entry(gastness, n, [gastnesses], "ẹru").
+entry(gastraea, n, [gastraeas], "iru nkan ara metazoan").
+entry(gastral, adj, [], "tobi si ikun").
+entry(gastrea, n, [gastreas], "gastrea").
+entry(gastric, aj, [], "tó ń ṣe pàtàkì sí ìkûn").
+entry(gastrin, n, [gastrins], "omonira").
+entry(gastrula, n, [gastrulas], "tabi GASTRULAE, oògùn ọmọ ará aye kan").
+entry(gasworks, n, [gasworks], "ile-iṣẹ kan nibiti gaasi ti wa ni ṣelọpọ").
+entry(gat, n, [gats], "pistola").
+entry(gatch, v, [gatched,gatching,gatches], "ṣe ihuwasi pẹlu igberaga").
+entry(gatcher, n, [gatchers], "ẹni tí ó ń gatchi").
+entry(ẹnupọ́pọ́n, v, [ẹnupọ́pọ́nfún,-ẹnupọ́pọ́n,ẹnupọ́pọ́ns], "lati pese pẹlu ẹnu-ọna ti o jẹ idena gbigbe").
+entry(gateau, n, [awon gateaus], "tabi GATEAUX akara elewa kan").
+entry(gatefold, n, [gatefolds], "iku-ìwé ti a dì").
+entry(gateleg, n, [gatelegs], "tabili ti o ni awọn afọmọ ti a ṣe atilẹyin nipasẹ awọn ẹsẹ alagbeka").
+entry(ailẹnu-ọna, adj, [], "lẹ̀nì kékeré").
+entry(gatelike, aj, [], "to dabi ẹnu-ọna").
+entry(olùbọ̀ọ̀na, n, [olùbọ̀ọ̀na], "ẹni tí ó ṣe ìtọ́jú ẹnu-ọ̀nà").
+entry(ẹ̀kẹ́tẹ́, n, [ọ́póọ́nà], "ọ̀pó tọ́ láti fí ìlẹ̀kùn hàn").
+entry(gater, n, [gaters], "gator").
+entry(ẹnubode, n, [ẹnubodes], "ijade ti a le ti mọ lẹnu pẹlu ẹnu-ọna").
+entry(gbaapo, v, [gbaapo,gbaapogba, gbaapowo], "lati kojo papo si ibi kan tabi egbe").
+entry(akokọpọ, n, [akokopọpọ], "ẹni tí ó ń kójọ").
+entry(gating, n, [awọn_gatings], "ilana ṣiṣii ati pipade ikanni").
+entry(geto, n, [maigeto], "ẹran omi ti o ni eekanna").
+entry(gauch, v, [gauched,gauching,gauches], "lati gana").
+entry(gauche, adj, [], "GAUCHER GAUCHESTaifọwọsowọpọGAUCHELY adv").
+entry(gaucher, n, [gauchers], "gatcher").
+entry(gaucho, n, [awọn gauchos], "ẹlẹsin ti pampas ni Gusu Amerika").
+entry(gaud, n, [gauds], "asin paráadísó kan").
+entry(gaudery, n, [gauderies], "ẹ̀ṣọ́").
+entry(oníwèèrè, adj, [], "ONÍWÈÈRÈ JÙ LỌ ONÍWÈÈRÈ JÙ LỌtastelessly showyONÍWÈÈRÈ adv").
+entry(gaudy, n, [gaudies], "ayeye").
+entry(gauffer, v, [gauffered,gauffering,gauffers], "lati goffer").
+entry(gauge, v, [gauged,gauging,gauges], "lati iwọle ni deede").
+entry(gauger, n, [gaugers], "ẹni tí ó ń pèsè wọnàn").
+entry(gault, n, [gaults], "lẹgbẹ ilẹ amọ to wuwo ti o nipọn").
+entry(gaum, v, [gaumed,gauming,gaums], "la lati fi bo awon nkan").
+entry(gaun, lọwọlọwọ, [], "arọpọṣe ti gae").
+entry(gaunch, n, [gaunches], "sokoto abẹ́").
+entry(gaunt, adj, [], "GAUNTER GAUNTESTtanranGAUNTLY ani").
+entry(gauntlet, v, [gauntleted, gauntleting, gauntlets], "lati gantlet").
+entry(gauntry, n, [gauntries], "gauntry").
+entry(gaur, n, [gaurs], "ẹfọn igbó").
+entry(gauss, n, [gausses], "ẹka kan ti itọju oofa").
+entry(gòòsì, n, [gòòsìsì], "àṣọ àfihàn").
+entry(gauzy, àpèjúwe, [], "GAUZIER GAUZIEST tí ó dá bí àkásí GAUZILY adv").
+entry(gavage, n, [gavages], "ìṣàkóso ohun èlò sinu inú ikùn pẹ̀lú ìkòkò").
+entry(fún, títán, [], "igba-atẹ́lẹsílẹ̀ ti give").
+entry(gavel, v, [gaveled,gaveling,gavels], "abi GAVELLED GAVELLING GAVELSo lati fa ifojusi tabi aṣẹ nipa lilo gavel, koboko kekere").
+entry(gavelock, n, [gavelocks], "òbè").
+entry(gavial, n, [gavials], "eranko nla kan").
+entry(gavot, n, [gavots], "ijó Faransé kan").
+entry(gavotte, v, [gavotted, gavotting, gavottes], "lati jó gavot").
+entry(gawk, v, [gawked,gawking,gawks], "wiwo asan").
+entry(gawker, n, [gawkers], "ẹnikan ti o n wo ni olododo").
+entry(gawkier, afiwera, [], "ti gawky").
+ìwọlé(gawkies, pl, [], "ti gawky").
+entry(gawkish, adj, [], "gawky").
+entry(gawky, adj, [], "GAWKIER GAWKIESTawkwardGAWKILY adv").
+entry(gawky, n, [gawkies], "ẹni alailera").
+entry(gawmoge, n, [gawmoges], "ẹnìkan tí ó fẹ́ràn ẹrẹ").
+entry(gawp, v, [gawped,gawping,gawps], "latẹmọ lọ́na aibikita").
+entry(gawper, n, [gawpers], "ẹni tí ó ń wo ìmíràn ní ìkànkan").
+entry(gawsie, aj, [], "dara pupọ, o si han ni ilera").
+entry(gawsy, adj, [], "gawsie").
+entry(gay, adj, [], "GAYER GAYEST1 onínú dídùn 2 aláféránkúnrin").
+entry(gay, n, [awon onibaje], "eni ti o nife si eni to gba gba kanna").
+entry(gayal, n, [gayals], "ẹran ọkọ ile").
+entry(gaydar, n, [gaydars], "agbára láti mọ́ pé ẹni kan jẹ́ onífẹ̀ẹ́kùnrin tàbí onífẹ̀ẹ́bìnrin").
+entry(gayety, n, [gayeties], "ayọ").
+entry(gayly, adv, [], "nínu ìgbádùn").
+entry(gayness, n, [gaynesses], "ipo ti jije onibaje").
+entry(gaywings, n, [gaywings], "egbògi aládáànímí gbígbóná àsepepẹnukiti kan").
+entry(gazabo, n, [gazabos], "tabi GAZABOES ẹni (tobinrin).").
+entry(gazania, n, [gazanias], "ewé orílẹ̀-èdè Gúúsù Áfíríkà").
+entry(gazar, n, [gazars], "aso rirọ ti o ni irunra").
+entry(wo, v, [wo,wo,wo], "lati wo ni itara").
+entry(ile_oni_beere, n, [awọn_ile_oni_beere], "tabi ILE ONI BEREE ile ti o ni orule ti o si ṣii ni ẹgbẹ ẹgbẹ").
+entry(gazelle, n, [teke], "eranko kekere kan ti o nira lati mu").
+entry(gazer, n, [gazers], "ẹni ti o ń wo").
+entry(gazette, v, [gazetted,gazetting,gazettes], "lati kede ninu iwe iroyin osise").
+entry(gazing, present, [], "ẹ̀ya ara ẹni ti gaze").
+entry(gazogene, n, [gazogenes], "ẹ̀rọ fún fifi eroja erogba sinu omi").
+entry(gazpacho, n, [gazpacho], "ounjẹ tutu aláwọ̀").
+entry(gazump, v, [gazumped,gazumping,gazumps], "láti ṣèèṣìn nípa jíyà owó tí wọ́n ti pàdé tì").
+entry(gazumper, n, [gazumpers], "ẹni tí ó ń ta kọjá àgbáṣiṣẹ́").
+entry(gazunder, v, [gazundered,gazundering,gazunders], "lati dinku ipese ti o ra si eniti o ta ohun-ini").
+entry(gear, v, [geared,gearing,gears], "lati pese pẹlu awọn ẹlẹṣẹ awọn ẹya ẹrọ ti o ni ehin").
+entry(gearbox, n, [gearboxes], "ipamọ agbara ọkọ ayọkẹlẹ").
+entry(gearcase, n, [awọn apoti jia], "apoti kan fun jia").
+entry(gearhead, n, [gearheads], "eniyan to ni ogbon ni ẹrọ").
+entry(gearing, n, [gearings], "ẹ̀rọ àwọn gíyà").
+entry(gearless, aj, [], "jijẹ laisi awọn jia").
+entry(geck, v, [gecked,gecking,gecks], "láti ṣe ẹlẹyà").
+entry(gecko, n, [geckos], "tabi GECKOESa ẹ́yẹ́ to kekere").
+entry(ged, n, [geds], "eja ounje").
+entry(gee, v, [geed,geeing,gees], "lati yipada si apa otun").
+entry(geegaw, n, [geegaws], "gegu").
+entry(ajọṣe-geek, n, [awọn ajọṣe-geek], "ẹnikan ti o nífẹ̀ẹ́ tàbí amọ̀ràn nípa kankan").
+entry(geekdom, n, [geekdoms], "ayé àwọn geek").
+entry(geeked, adj, [], "kun fun igbadun").
+entry(geekish, aṣ, [], "geeky").
+entry(geeky, adj, [], "TÓ NI ÌDÁNILÓJÚ TÓ NI ÌDÁNILÓJÚ JÚLÓjálẹ́bi tàbí téèrò lọ́kọ̀ọ̀kan").
+entry(geepound, n, [geepounds], "ẹyọ idaṣẹ ti iwuwo").
+entry(geese, pl, [], "ti gussi").
+entry(geest, n, [geests], "atọrunwa atijọ").
+entry(geez, interj, [], "jeez").
+entry(ogbón, n, [ogbóns], "ọkunrin alailẹgbẹ").
+entry(geisha, n, [geishas], "ọmọbinrin Japanese ti a kọ lati ṣe ere idaraya").
+entry(gel, v, [di_gele, nsare_gele, di_geles], "lati di bii geleGELABLE adj").
+entry(gelada, n, [geladas], "oya baboon").
+entry(gelant, n, [gelants], "gellant").
+entry(gelate, v, [gelated,gelating,gelates], "lati di jelii").
+entry(gelati, n, [gelatis], "gelato").
+entry(jelu, n, [jelu], "awon nkan to je kojae").
+entry(jelatini, n, [jelatini], "jelatin").
+entry(gelating, lọwọlọwọ, [], "agbekọja ti gelate").
+entry(gelation, n, [gelations], "aṣeyọri ti jijẹ geli").
+entry(gelato, n, [gelatos], "tabi GELATI ikunra oyinbo amuaradagba ilẹ Italia").
+entry(gelcap, n, [gelcaps], "gẹlati kọ loju ibọn").
+entry(gelcoat, n, [gelcoats], "ìpele ààya polyester resini kan").
+entry(geld, v, [gelded,gelding,gelds], "lati ya isun").
+entry(gelder, n, [awọn_ti_o_ge], "ẹnikan ti o ge").
+entry(gelding, n, [awọn geldings], "ẹranko ti wọn ge").
+entry(gelee, n, [gelees], "jeli amọdaju").
+entry(gelid, aj, [], "icyGELIDLY adv").
+entry(gelidity, n, [gelidities], "ibẹnumọ").
+entry(gellant, n, [awọn gellant], "ohun kan ti a lo lati ṣe agbekalẹ jeli").
+ẹsẹ(gelled, ti ohun ti o ti kọja, [], "irisi gel").
+entry(gelling, present, [], "ẹ̀ka ti gelu").
+entry(gelly, n, [gellies], "gelignite ohun ibẹjadi to lagbara").
+entry(gelsemia, npl, [], "gbongbo ewe egboogi").
+entry(owo, n, [awọn_owó], "owo").
+entry(èèmí, v, [èèmí darapọ̀ mọ́, èèmí daríjá, èèmí], "láti ṣe àṣejù pẹlu àwọn òkúta iyebíye").
+entry(gematria, n, [gematrias], "ẹ̀dáa àwọn ìwé mímọ nípasẹ̀ ìtumọ̀ ẹ̀dá Ẹ̀wé ní ìkàbálísítìkì").
+entry(geminal, asọmàranda, [], "ti tabi nipa ohun meji ti o rọpo lori atomu kan").
+entry(geminate, v, [geminated,geminating,geminates], "láti ṣeto ní àwọ̀n méjì").
+entry(gemlike, aj, [], "to fihan irisi okuta iyebiye").
+entry(gemma, n, [gemmae], "ẹ̀dá ìtọjú ara láìfẹ́fẹ́").
+entry(gemmate, v, [gemmated,gemmating,gemmates], "lati ṣelọpọ gemmae").
+entry(gemmed, igba ti o koja, [], "tẹnisì ti gem").
+entry(gemmier, comparative, [], "ti gemmy").
+entry(gemmiest, superlative, [], "ti gemmy").
+entry(gemmily, adv, [], "ninu ona ti o nfi diamọndi han").
+entry(gemming, lọwọlọwọ, [], "participle ti gem").
+entry(gemmule, n, [gemmules], "ẹgbẹ kekere kan").
+entry(gemmy, adj, [], "BI OKUTA GEMMIER GEMMIEST").
+entry(gemology, n, [gemologies], "ẹkọ ti awọn okuta iyebiye").
+entry(gemot, n, [gemots], "ìpàdé ìjọba gbangba ní ilẹ̀ AngloSaxon England").
+entry(gemote, n, [gemotes], "àpapọ̀").
+entry(gemsbok, n, [gemsboks], "ẹlẹdẹ nla kan").
+entry(gemsbuck, n, [gemsbucks], "gemsbok").
+entry(okuta, n, [awọn_okuta], "okuta ti n bẹwẹ").
+entry(gen, v, [genned, genning, gens], "lati pese tabi gba alaye").
+entry(gendarme, n, [awọn ọlọpaa], "ẹnikan ti o jẹ ọlọpa").
+entry(akọ, v, [ti-ọkọ,lọkọ-ṣiṣan,awọn ọkọ], "lati ṣẹda").
+entry(gẹ́ni, n, [gẹ́nẹ̀s], "ẹ̀ka ìjínlẹ̀ ajẹ́rìí kan").
+entry(genera, a, [], "mejeeji ti iru").
+entry(gbogbogbo, n, [gbogbogbos], "o􀀋fisa ologun").
+entry(ṣe, v, [ṣe, ṣeṣe, ṣe], "lati mu wa sinu aye").
+entry(gbogbogbo, n, [gbogbogo], "iru oogun kan").
+entry(alanu, adj, [], "setan lati fun").
+ìwọlé(genesis, n, [geneses], "ìpilẹ̀ṣẹ̀").
+entry(genet, n, [genets], "ẹranko ti o nje ẹran").
+entry(genetic, adj, [], "nipa jiini").
+entry(genetiki, nn, [], "ẹ̀kọ́ ìran").
+entry(genette, n, [genettes], "geneti").
+entry(geneva, n, [genevas], "oju mimu kan").
+entry(genial, adj, [], "níkan lẹ́ tàbí ọ̀rẹ́lẹ́rẹ́GENIALLY adv").
+entry(genic, adj, [], "ti o ni ibatan si awọn jiini").
+entry(genie, n, [genies], "jini").
+entry(genii, a, [], "pl ti genius").
+entry(genip, n, [genips], "igi gbogbogbo ti oorun").
+entry(genipap, n, [genipaps], "igi eweko aladani").
+entry(genipapo, n, [genipapos], "genipap").
+entry(genista, n, [genistas], "irin odi kan pelu ododo ofeefee").
+entry(genital, adj, [], "ti o nii ṣe pẹlu atunbi").
+entry(afarapa, npl, [], "awon organ ibalopo").
+entry(genitive, n, [genitives], "ẹjọ ọrọ-girama").
+entry(genitor, n, [awọn baba], "ọkunrin obi").
+entry(geniture, n, [genitures], "ibimọ").
+entry(genius, n, [awọn geniuses], "tàbí GENII ifẹ́ àdánidá àtọ̀gbẹ̀gẹ́").
+entry(genlock, n, [genlocks], "ẹrọ fun ifibọṣọkan awọn ami fidio oriṣiriṣi").
+entry(gennaker, n, [gennakers], "ibaṣọ aapọn").
+entry(genned, ti o koja, [], "igba ti gen").
+entry(genning, bayi, [], "isipọpọ ti gen").
+entry(genoa, n, [genoas], "ìgbé regatta wé ìta wáyé").
+entry(iparun-gbógun, n, [iparun-gbógun], "ìparun dèdé ti ẹgbẹ kan orilẹ-ede tàbí ti ẹ̀yà kan").
+entry(genogram, n, [genograms], "àwòrán ìtàn ìhìnàkò àwọn ìwà ti ẹbí kan").
+entry(genoise, n, [genoises], "okuta eran aladun").
+entry(genom, n, [genoms], "genomu").
+entry(genome, n, [genomes], "ẹ̀ka àtọmọdọtì odindi kan ti ẹ̀dá àtọmọdọtì ti wa nínú rẹ̀GENOMIC adj").
+entry(genomics, npl, [], "iwadi nipa ounkoun eniyan").
+entry(genotype, n, [genotypes], "ẹya ajọbi ti ẹda kan").
+entry(ọrọìfura, n, [ọrọìfuras], "iru tabi èyà kan").
+entry(genro, n, [genros], "ẹgbẹ́ àwọn àgbàlagbà olóṣèlú ní Japan").
+entry(gens, n, [gentes], "irú ìdílé kan").
+entry(genseng, n, [gensengs], "jinsẹngi").
+entry(aromobirin, n, [awonaromobirin], "aromobirin").
+entry(genteel, aj, [], "GENTEELER GENTEELESTto dara tabi lati ni itesiwaju").
+entry(gentes, pl, [], "ti iwin").
+entry(gentian, n, [gentians], "ẹ̀wéko tí ó ń gbéèngbà fúnfún").
+entry(gentil, adj, [], "alainibaba").
+entry(gentile, n, [gentiles], "eniyan ti kii se Ju").
+entry(gentle, àp̀ọ̀nlétọ̀, [], "GENTLER GENTLESTmildGENTLY adv").
+agbelebu(alafia, v, [alafiad,alafiang,alafias], "lat lati irẹwẹsi").
+entry(gentoo, n, [gentoos], "ẹdẹni pupa ayọ́").
+entry(gentrice, n, [gentrices], "iṣilẹ ọlọla").
+entry(gentrify, v, [gentrified, gentrifying, gentrifies], "lati tun agbegbe ilu ti o ti wó lulẹ ṣe ki o le fa awọn olugbe alágbádá láti wá bẹ̀ẹ̀").
+entry(gentry, n, [awọn-ẹgbẹ-olfesi], "ẹgbẹ awọn ẹni ti o wa ni ipo awujọ giga").
+entry(ọkọ̀, npl, [], "yàrá ìkádí àwọn ọkùnrin").
+entry(genu, n, [genua], "ikun").
+entry(gidi, aj, [], "ojulowo").
+entry(genus, n, [awọn genus], "tabi GENUSiṣura ẹ̀yà tàbí ẹ̀ka").
+entry(àgídíwọlé, v, [àgídíwọléde, àgídíwọléńṣè, àgídíwọléyè], "láti wá àwọn nnkan tí a pamọ́ nipa fífi ẹrọ Ètò Ìgbàgbọ Ayéjàkpó lò gẹ́gẹ́bí apá kan ninu eré").
+entry(geode, n, [geodes], "iru okuta kan").
+entry(geodesic, n, [geodesics], "ila jomitoro".
+entry(gaìodẹsiì, n, [gaìodẹsiìì], "sùrùfìn ìlòdà áyíká").
+entry(geodetic, adj, [], "tó nlati ṣe pẹ̀lú ìjọba ilẹ̀-ayé").
+entry(geodic, aami, [], "ti geode tabi ti o kan geode").
+entry(geoduck, n, [geoducks], "aduja nla ti a le jẹ").
+entry(geognosy, n, [geognosies], "ẹ̀ka jílíọ́jì").
+entry(geoid, n, [geoids], "ipilẹ ti a ro pe ilẹ aye GEOIDAL adj").
+entry(onímọ̀ilẹ̀, n, [onímọ̀ilẹ̀s], "amọ̀jà nípa ìmọ̀ ilẹ̀").
+entry(gígèolójì, n, [gígèolójis], "ẹ̀kọ́ tó ń ṣe ìtọ́kasí ìdá àti ìmọ̀rán ilé ayéGÍGÈOLÓJÍ ọkọ̀").
+entry(geomancy, n, [geomancies], "ẹ̀rọ kan fún wíwo ìwájọ́wọ́n ni ìwòye daradara ilẹ̀").
+entry(onimọnlara_giọmẹtrì, n, [wọnimọnlara_giọmẹtrì], "amoye ninu giọmẹtrì").
+entry(jíomɛ́tírì, n, [jíomɛ́tírìs], "ẹ̀ka ìsọ̀rọ̀ ìṣìírò").
+entry(geophagy, n, [geophagies], "iṣe ti jijẹ ohun alumọni ilẹ").
+entry(geophone, n, [awọn geophones], "ẹrọ kan ti o ri awọn ifasilẹ ni ilẹ").
+entry(geophyte, n, [geophytes], "egbin kan ti o ni awọn isukọ ilẹ").
+entry(geoponic, adj, [], "lẹ́yìn iṣẹ́ iṣé agbẹ").
+entry(geoprobe, n, [geoprobes], "ọkọ̀ ojú-òfurufú fún ìwàádìí aaye ní ẹ̀gbẹ́ Ayé").
+entry(georgic, n, [georgics], "ewì nipa iṣẹ́ ọ̀kọ").
+entry(geotaxis, n, [geotaxes], "iṣipopada ọkan eda alãye ni idanwo si walẹ").
+entry(gerah, n, [gerahs], "ẹyọ wiwọ ti ibẹrẹ Heberu").
+entry(geranial, n, [geranials], "citral").
+entry(geraniol, n, [awọn geraniol], "ọti ti a lo ninu òòrùn").
+entry(geranium, n, [awọ̀gbọ̀gbò], "èwe ọ̀dọdó kan").
+entry(gerardia, n, [gerardias], "ewe kan").
+entry(gerbera, n, [gerberas], "ewe ohun").
+entry(gerbil, n, [gerbils], "ẹ̀dá ìkóló tí ń gunlẹ̀").
+entry(gerbille, n, [gerbilles], "gerbili").
+entry(oludari, n, [oludari], "alaga tabi oludari").
+entry(gerenuk, n, [awọn gerenuk], "ẹranko ajẹbẹrin gigun-ọrun").
+entry(toko, n, [awọn toko], "ẹranko kekere kan ti o fa arun").
+entry(gẹẹsi, n, [gẹẹsi], "ijó ti a ṣe pẹ̀lú àyẹyẹ").
+entry(germane, adj, [], "kọkọrọ").
+entry(germanic, o.r., [], "ti o ni germanium, eroja irin kan").
+entry(germen, n, [germens], "tabi NNKAPA nkan ti o ń ṣe iṣẹ gẹgẹ bi ipilẹṣẹ").
+entry(germfree, adj, [], "ọ̀fẹ níjàkẹ́lẹ̀").
+entry(germier, ifiwosi, [], "ti germy").
+entry(germiest, superlative, [], "ti germy").
+entry(germina, a, [], "pl ti germen").
+entry(germinal, orúkọ-àìdá, [], "jẹ́ ní ìpele ìbẹ̀rẹ̀ ìdàgbàsókè").
+entry(germlike, orukọ-àpẹẹrẹ, [], "bii kokoro arun").
+entry(germy, adj, [], "GERMIER GERMIESTti kun fun kokoro arun").
+entry(gerontic, aj, [], "ti o nii ṣe pẹlu ogbo").
+entry(gerundiomu, n, [gerundiomus], "ọrọ-ìṣe kan tó jẹ́ orúkọ").
+entry(gesneria, ọrọàdídápọ̀, [], "tó ń ṣe àfojúsùn irú-ẹ̀yà ewéko tí ń dágbà jáde pẹ̀lú ododo").
+entry(gesso, n, [gessoes], "adalu pilasita").
+entry(gessoed, ajẹ, [], "ní gesso gẹ́gẹ́ bí ìdípọ̀").
+entry(gest, n, [gests], "ẹ̀kọ́").
+entry(gestalt, n, [gestalts], "tabi GESTALTENi ohun gbogbo ti o dapọpọ").
+entry(gestapo, n, [gestapos], "ẹgbẹ ọlọpaa ìkọkọ kan").
+entry(ìbímọ, f, [íbímọ̀,íbímọ́,nǹbímọ], "láti gbé nínú ẹ̀hín tìkára nígbà ìlọ̀mú").
+entry(geste, n, [gestes], "gest").
+entry(gestic, adj, [], "nipa ronu ti ara").
+entry(gestical, adj, [], "ijanu").
+entry(ẹ̀kúnrẹ́rẹ́, àpèjúwe, [], "tí ó ní í ṣe pẹ̀lú tàbí tí ó jẹ́ àwọn ìṣe ìfihàn ara").
+entry(iyaha, v, [iyaha'di, iyaha'ing, iyaha], "lati sọ nipa išè ara").
+entry(gesturer, n, [gesturers], "ẹ́ni tí ó ń fi ìkọ̀ ẹ̀sẹ̀ hàn").
+entry(get, n, [gittin], "ikọsilẹ nipasẹ ofin Juu").
+entry(get, v, [got,gotten,getting], "GETsto gba tabi gbaGETABLE GETTABLE adj").
+entry(geta, n, [getas], "bata igi ti Japanese").
+entry(getaway, n, [getaways], "ijade").
+entry(getout, n, [getouts], "ẹ̀bẹ̀ kan láti yago fún iṣe kan").
+entry(getter, v, [gettered,gettering,getters], "lati wẹ́ nípa wọ́n jẹ́ ohun ríríkan kemikalì kan").
+entry(nfẹ̀, lọwọlọwọ, [], "àpamọ́ ti gba").
+entry(getup, n, [getups], "àwọ̀n ẹ̀wà").
+entry(geum, n, [geums], "ewé kan tí ó gbà pépẹ́").
+entry(gewgaw, n, [gewgaws], "a showy trinketGEWGAWED adj").
+entry(gey, adv, [], "gan").
+entry(geyser, v, [geysered,geysering,geysers], "lati tu awọn jeti omi gbona ati eefin").
+entry(gharial, n, [gharials], "oju rere nla kan").
+entry(gharri, n, [gharris], "gharry").
+entry(gharry, n, [gharries], "kareji ti a maa n lo ni India").
+entry(ghast, adj, [], "ẹru").
+entry(ghastful, adj, [], "ẹrujẹjẹ").
+entry(ghastly, aj, [], "GHASTLIER GHASTLIESTaláyàjé").
+entry(ghat, n, [ghats], "ibi ijabọ si odo").
+entry(ghaut, n, [ghauts], "ghat").
+entry(ghazal, n, [ghazals], "ewi ti o ni ọrọ ifẹ").
+entry(ghazi, n, [ghazis], "tabi GHAZIES akinkanju ogun Musulumi").
+entry(ghee, n, [ghees], "iru bota ti omi").
+entry(gherao, v, [gheraoed,gheraoing,gheraoes], "lati fi ọna ti ara ṣe ta ko").
+entry(gherkin, n, [gherkins], "kukumba kekere").
+entry(ghetto, v, [ghettoed,ghettoing,ghettos], "tabi GHETTOESto fi silẹ ni agbegbe talaka").
+entry(ghi, n, [ghis], "ghee").
+entry(ghibli, n, [ghiblis], "afẹfẹ gbigbona ti aginju").
+entry(ghillie, n, [ghillies], "irú ẹ̀wù kan").
+entry(iwin, v, [tiwin,ngbaniwin,nga,amala], "lati pa igi").
+entry(ghosting, n, [ghostings], "aworan eke loju iboju tẹlifíṣan").
+entry(ghostly, adj, [], "GHOSTLIER GHOSTLIESTspectral").
+entry(ghosty, adj, [], "GHOSTIER GHOSTIESTghostly").
+entry(eṣu, n, [aṣepade], "ẹmi eṣu, EṢUBỌLẸ adj").
+entry(ghoulie, n, [ghoulies], "ẹ̀mí ayé àbààmọ́").
+entry(ghyll, n, [ghylls], "omiigbosi").
+entry(gi, n, [gis], "Aṣọ funfun ti a wọ ninu awọn ere idaraya ija").
+entry(ọdẹdẹ, n, [ọdẹdẹ], "ẹnikan tabi nkan ti o tobi pupọ").
+entry(obinrinagba, n, [obinrinagbagiga], "obinrin nla kan").
+entry(afonifoji, n, [afonifoje], "ipo ti jijẹ eru dudu").
+entry(giaour, n, [giaours], "ẹnikan ti kii ṣe Musulumi").
+entry(giardia, n, [giardias], "aparozoan ti o ngbe inu ifun").
+entry(gib, v, [gibbed,gibbing,gibs], "lati fi mọ́ra pẹ̀lú ìrẹsì tí a ti gbẹ́ tàbí irin").
+entry(gibber, v, [gibbered,gibbering,gibbers], "láti sọrọ bákàálà").
+entry(gibbet, v, [gibbeted,gibbeting,gibbets], "tabi GIBBETTED GIBBETTING GIBBETsisẹ nipasẹ didi pọ si").
+entry(gibbon, n, [gibbons], "ọbọ alárinrin igi").
+entry(gibbose, aj, [], "gibbous").
+entry(gibbous, adj, [], "to ti ko perfectly yipo").
+entry(gibbsite, n, [gibbsites], "okuta ayeye kan").
+entry(gibe, v, [gibed,gibing,gibes], "lati peereGIBINGLY adv").
+entry(giber, n, [gibers], "eni ti o n gibe").
+entry(giblet, n, [awọn ẹya ẹran adie], "apa t’ó yẹ k’á jẹ ní ara ẹyẹ").
+entry(gibson, n, [gibsons], "omodanini ti a fi alubosa kekere sin").
+entry(gid, n, [gids], "arun awon aguntan").
+entry(giddap, interj, [], "lo bi ilana fun ẹṣin lati lọ kiakia").
+entry(giddy, adj, [], "GIDDIER GIDDIESTdizzyGIDDILY adv").
+entry(giddy, v, [giddied,giddying,giddies], "lati jẹ ki o ni ẹrin").
+entry(giddyap, interj, [], "giddap").
+entry(giddyup, afiwe, [], "giddap").
+entry(gie, v, [gied,gien,gieing], "GIEáti fun").
+entry(gif, n, [àwọràn-gif], "faili kọnputa kan ni ọna kika fun àwọràn").
+entry(ebun, v, [ti_ebun, fifun_ebun, awon_ebun], "lati fun ni ebun nkan ti a fun laisi owo").
+entry(ẹbun, n, [ẹbun], "nkan to yẹ fun ẹbun").
+entry(giftedly, adv, [], "ni ọna ti o ni ẹbun").
+entry(giftee, n, [giftees], "ẹni tí ó gba ẹbun kan").
+entry(gbigbe, n, [gbigbes], "iṣe fifun ni ẹbun").
+entry(giftless, adj, [], "jijẹ laisi ẹbun").
+entry(ẹbun, n, [ẹbun], "awọn ẹran ti o dara fun awọn ẹbun").
+entry(giftwrap, v, [giftwrapped,giftwrapping,giftwraps], "láti dì pẹ̀lú ìwé àṣekágbá").
+entry(gig, v, [gigged, gigging, gigs], "lati mu eja pelu ọta").
+entry(giga, n, [gighe], "giga kan").
+entry(gigabit, n, [gigabiti], "ẹ̀ka ìwífún").
+entry(gigabayiti, n, [gigabayiti], "1073741824 bayiti").
+entry(gigaflop, n, [gigaflops], "ipilẹwọn iyara iṣiro").
+entry(gigantic, ajẹ, [], "ńlá").
+entry(gigas, adj, [], "nipa awọn iyatọ ninu idagbasoke eweko").
+entry(gigaton, n, [gigatons], "ẹka ti iwuwo").
+entry(gigawatt, n, [títí gigawatts], "ohun ẹfó kan ti àgbọ").
+entry(gigged, títánṣe, [], "t'ójé d'idijé").
+entry(gigging, lọwọlọwọ, [], "apàrírọ̀ ojúṣe ti gig").
+entry(giggle, v, [giggled,giggling,giggles], "rẹrin ni ọna ilufin").
+entry(giggler, n, [gigglers], "ẹni tí ń rẹrinlẹ").
+entry(giggly, adj, [], "GIGGLIER GIGGLIESTni lati rẹrin").
+entry(gighe, pl, [], "ti giga").
+ìforíwọlé(giglet, n, [giglets], "ọmọbìnrin tí ń ṣeré").
+entry(giglot, n, [giglots], "omobirin").
+entry(gigolo, n, [gigolos], "ẹ̀dákunrin tí obìnrin ń tì láti owó").
+entry(gígò, n, [gígò], "ìtòló).- leg tí kòbó").
+entry(gigue, n, [gigues], "ijó alárìnàkà").
+entry(gilbert, n, [gilberts], "ẹyọ kan ti agbara ti magnetomotive").
+entry(gild, v, [gilt, gilding, gilds], "láti fi òwó dẹ ilé-iṣẹ").
+entry(gilder, n, [gilders], "ẹni tí ó ń ṣe owó").
+entry(gildùhààlù, n, [gildùhààlùs], "gbọngan ìlú").
+entry(gilding, n, [gildings], "lilo goolu").
+entry(gill, v, [gilled,gilling,gills], "lati mu awọ́n ẹja pẹ̀lú iru apọ̀ kan").
+entry(giller, n, [awọn gillers], "ẹni ti o n ṣe iṣẹ gilla").
+entry(gillie, n, [awọn_gillies], "ghillie").
+entry(gillnet, v, [gillnetted,gillnetting,gillnets], "si gill").
+entry(gilly, v, [gillied,gillying,gillies], "lati gbe lori iru kẹ̀kẹ́ ayọkẹlẹ́").
+entry(gilt, n, [gilts], "wura ti a fi ọ̀wọ̀n kan").
+entry(gilthead, n, [giltheads], "eja okun").
+entry(gimbal, v, [gimbaled,gimbaling,gimbals], "tàbí GIMBALLED GIMBALLING GIMBALṢe atilẹyin lori ṣeto awọn oruka").
+entry(gimcrack, n, [gimcracks], "ekwú ewu").
+entry(gimel, n, [gimels], "lẹ́tà Hébérù kan").
+entry(gimlet, v, [gimleted,gimleting,gimlets], "lati gbo li pẹlu irin ṣiṣe iho").
+entry(gimmal, n, [gimmals], "àwọn òrùka méjì tí wọ́n dà mọ́ra").
+entry(gimme, n, [gimmes], "nkankan ti o rọrun lati gba").
+entry(gimmick, v, [gimmicked,gimmicking,gimmicks], "lati pese pẹlu èdá oríṣiríṣi kan tàbí àfikún ibi káàárọ̀").
+entry(gimmicky, aṣoṣe, [], "ni tabi jije bi aṣoṣe").
+entry(gimmie, n, [gimmies], "ipọnju golf ti o rọrun ti o funni ni alatako").
+entry(gimp, v, [gimped, gimping, gimps], "rọsẹ").
+entry(gimpier, comparative, [], "ti gimpy").
+entry(gimpiest, superlative, [], "ti gimpy").
+entry(gimpy, adj, [], "GIMPIER GIMPIESTńlẹ́kọ̀ọ́").
+entry(gin, v, [bere,berekete,bere], "GINLati bẹrẹ").
+entry(gin, v, [ginned,ginning,gins], "lati yọ irugbin kuro ninu owu").
+entry(ginch, n, [ginches], "gotch").
+entry(gingal, n, [gingals], "jingal").
+entry(gingall, n, [gingalls], "jingal").
+entry(gingeley, n, [gingeleys], "gingelly").
+entry(gingeli, n, [gingelis], "gingeli").
+entry(gingelies, pl, [], "ti gingely").
+entry(gingelli, n, [gingellis], "gingeli").
+entry(gingelly, n, [gingellies], "iróko tàbí õmìrò alétilókí").
+entry(gingely, n, [gingelies], "gingelly").
+entry(ata ilẹ̀kẹ̀, v, [ata ilẹ̀kẹ̀d, ata ilẹ̀kẹ̀ing, ata ilẹ̀kẹ̀s], "lati fi atẹ ilẹ̀kẹ̀ kan turari sùn").
+entry(ni_tete, adv, [], "ni ọna itọju").
+entry(gingery, adj, [], "ti o ni awọn abuda ti ata ilẹ").
+entry(gingham, n, [ginghams], "aso owu kan").
+entry(gingili, n, [gingilis], "gingelly").
+entry(gingilli, n, [gingillis], "gingelly").
+entry(gingiva, n, [gingivae], "tissue alawọ ara ti o yika eyinGINJIJI adj").
+entry(gingko, n, [gingkos], "tabi GINGKOESginkgo").
+entry(gink, n, [ginks], "ẹnikẹta").
+entry(ginkgo, n, [ginkgos], "tabi GINKGOES igi ẹwà kan").
+entry(ginned, ti o kọja, [], "asiko ti gin").
+entry(ginner, n, [ginners], "ẹni ti o n ṣe isọdọ ti owu").
+entry(ginning, n, [ginnings], "oṣu alawo bi o ti wa lati inu ginni").
+entry(ginny, adj, [], "GINNIER GINNIESTti ipa pẹlu gin oti ti o lagbara").
+entry(ginseng, n, [ginsengs], "egbo igi ti o ndagba lodoodun").
+entry(gip, v, [gipped, gipping, gips], "lati gyp").
+entry(gipon, n, [gipons], "jupon").
+entry(gipper, n, [gippers], "ẹni ti n ṣe gip").
+entry(gipsy, v, [gipsied,gipsying,gipsies], "ṣe gipsy").
+entry(gipsydom, n, [gipsydoms], "ijọra gypsy").
+entry(gipsyish, adj, [], "ti awọn gypsy").
+entry(gipsiṣìmù, n, [gipsiṣìmù], "gipsiṣìmù").
+entry(akọrin, n, [akọrins], "ẹranko gigun ọrun").
+entry(girasol, n, [girasols], "orisi awon opal").
+entry(girasole, n, [girasoles], "girasol").
+entry(gird, v, [girt,girding,girds], "láti yí káà").
+entry(gìdà, n, [gìdàs], "ìtìlẹ-ruwọ orizòntà").
+entry(girdle, v, [girdled,girdling,girdles], "lati yika pẹlu beliti").
+entry(girdler, n, [girdlers], "ẹni ti o n ṣe idaniloju").
+entry(omobinrin, n, [awọn_omobinrin], "ọmọbinrin kan").
+entry(omobíbinrin, n, [omobíbinrin], "ipò ti jíjẹ omobíbinrin").
+entry(girlie, àdàjọ̀, [], "GIRLIER GIRLIESTgirlish").
+entry(obinrin, aj, [], "ti n se tabi ti o ni iwa ewe obinrin").
+ìbọ̀wọ̀(girly, adj, [], "GIRLIER GIRLIESTgirlie").
+entry(girn, v, [girned,girning,girns], "láti fàbọ́gbọ̀n").
+entry(giro, n, [giros], "ẹrọ ofurufu aláìní àfojúdi").
+entry(girolle, n, [girolles], "eran òbè to ó lè jẹ").
+entry(giron, n, [girons], "gyron").
+entry(girosol, n, [girisi], "girasol").
+entry(girsh, n, [girshes], "qúúrshì").
+entrẹ(girt, v, [girted, girting, girts], "láti gírí").
+entry(girth, v, [girthed,girthing,girths], "láti yí ká").
+entry(gisarme, n, [gisarmes], "irinṣẹ ogun ti àgbègbè ọdún àtijọ́").
+ẹni(gismo, n, [gismos], "ẹ̀rọ ìdán").
+entry(gist, n, [awọn ojulowo], "ipin pataki").
+entry(git, v, [gitted, gitting, gits], "lati gba").
+entry(gitano, n, [gitanos], "arabinrin onijangbọn ara Spain").
+entry(gitch, n, [gitches], "gotch").
+entry(gite, n, [gites], "ibi isinmi ni Faransi").
+entry(gitted, igba-ti-o koja, [], "asoju aiye ti git").
+entry(gittern, n, [giterni], "gita ohun-ara akoko eleriwen").
+entry(gittin, pl, [], "ti gba").
+entry(gitting, lọwọlọwọ, [], "àpẹrẹ́wé ti git").
+entry(fun, f, [funfun, fifun, fifunni], "FUNRan lati gbe lailai si ohun ini elomiranFUNFITI adj").
+entry(giveaway, n, [awọn ohun èlò fúnni], "nkankan ti a fúnni lọfẹ").
+entry(giveback, n, [givebacks], "anfaani awọn oṣiṣẹ ti a da pada fun iṣakoso").
+entry(fún, n, [fún], "nkan tí a yàn fún ìṣòro ìṣirò kan").
+ìbejì(giver, n, [givers], "ẹni tí ń fún").
+entry(fifunni, lọwọlọwọ, [], "ọ̀rọ̀ ìṣe ti fún").
+entry(gizmo, n, [gizmos], "gismo").
+entry(iyán, n, [iyán], "òrgan kan tí ń ran níṣò tí ara máa n lò láti yà àwọn oúnjẹ").
+entri(gjetost, n, [gjetosts], "wara alawọ kan fìrmù").
+entry(glabella, n, [glabellae], "àgbèǹusọ́tọ̀ láàrín ìrísí").
+entry(glabrate, adj, [], "ailokun").
+entry(glabrous, asọ, [], "didán").
+entry(glace, v, [glaced,glaceing,glaces], "lati bo pelu icing").
+entry(glacial, adj, [], "ti o ni ibatan si awọn yinyin").
+entry(glaciate, v, [glaciated,glaciating,glaciates], "láti bò pè...?́ fúnfun").
+entry(ìyìní, n, [ìyìnípọ̀], "ìwọ̀n ńlákànkàn ti yinyin").
+entry(glacis, n, [glacises], "atari igboro").
+entry(glad, adj, [], "GBADUN GBADI GBADiSTfeeling inu didun").
+entry(glad, v, [gladded,gladding,glads], "lati dun ni inu").
+entry(gladden, v, [gladdened,gladdening,gladdens], "lati mu inu didun wa").
+entry(gladder, afiwe, [], "ti inu dun").
+entry(gladdest, superlative, [], "ti inu didun julọ").
+entry(gladding, lọwọlọwọ, [], "wọn'.")
+entry(glade, n, [glades], "ibi gbooro ni igbó").
+entry(gladiate, adj, [], "ti o dagba bi idà").
+entry(gladier, afiwera, [], "ti glady").
+entry(gladiest, superlative, [], "ti glady").
+entry(gladiola, n, [gladiolas], "ẹ̀wé ododo kan").
+entry(gladioli, npl, [], "awọn apa isalẹ ti egungun àyà").
+entry(gladly, adv, [], "GLADLIER GLADLIESTní ona ìnù dídùn").
+entry(moríyà, n, [awọn moríyà], "ipò ẹ̀yẹ̀lé").
+entry(gladsome, adj, [], "TI O BA YARA JU YARA JULOeebi").
+entry(glady, adj, [], "GLADIER GLADIESTní glades").
+entry(glaiket, adj, [], "glaikit").
+entry(glaikit, adj, [], "asise").
+entry(glair, v, [glaired,glairing,glairs], "lati bo pelu eyin funfun").
+entry(glaire, v, [glaired, glairing, glaires], "láti glair").
+entry(glairy, adj, [], "TI O JẸ BÍ EYIN EWÁ OYINBO").
+entry(glaive, n, [awọn glaives], "Ìdà àwçrúGLAIVED adj").
+entry(glam, v, [glammed,glamming,glams], "lati ṣe ara ẹni dídádúrà nípa ẹwa").
+entry(glam, adj, [], "ỌLÁRAYÁ ỌLÁTÀYÁni akara nipasẹ ọlá ti o gaju").
+entry(glammy, adj, [], "GLAMMIER GLAMMIESTglam").
+entry(glamor, n, [awọsanma], "ẹwa ẹlẹwa".).
+.entry(glamour, v, [glamoured, glamouring, glamours], "lati mu asiri").
+entry(ẹgbẹ̀, v, [ẹgbẹ̀, ńgẹ̀, ìgbẹ̀], "láti wo ní kíá").
+entry(glancer, n, [awọn_glancers], "ẹni ti o n wo yara").
+entry(ẹ̀fọn, n, [ẹ̀fọn], "ẹ̀ka ẹ̀dá ara tó máa ń tutọ̀ nkan").
+entry(glanders, npl, [], "arun ti ẹṣin").
+entry(glandule, n, [glandules], "ẹfọ kekere kan").
+entry(gmetrosa, n, [gmetrosi], "ipari konko tabi konko ti obo").
+entry(glare, v, [glared,glaring,glares], "lati tan imọlẹ pẹlu ina ti o nipọn").
+entry(glary, adj, [], "GLARIER GLARIESTglaring").
+entry(glasnost, n, [glasnosts], "eto Sovieti fun ibanisoro oselu sisi").
+entry(glass, v, [glassed,glassing,glasses], "lati fi gilasi bo ohun elo ti o jẹ kedere").
+entry(glassful, n, [awọn gilasi], "bi iye ti gilasi mimu kan yoo gba").
+entry(glassie, n, [glassies], "iru kan ti marble diẹ ti a maa n fi ṣeré").
+entry(glassier, jiẹniti, [], "ti gilasi").
+entry(tí ó wúni lójú jù, superlative, [], "tí ó dàbí gilasi").
+entry(glassily, adv, [], "ni ọna ti o dabi gilasi").
+entry(glassine, n, [glassines], "ira ti iwe").
+entry(glassman, n, [glassmen], "oníṣíṣẹ́ gíláàsì").
+entry(glassy, adj, [], "BI GLASI TI O DARA JU GLASI JULO resembling glass").
+entry(gilaakooma, n, [giláakooma], "àrùn ojú").
+entry(glaucous, àpẹẹrẹ, [], "alágogo aláwo ewéko").
+entry(glaze, v, [glazed, glazing, glazes], "lati fi awo gilasi ninu ferese").
+entry(glazer, n, [awọn_glaza], "oluuṣẹ̀àyà").
+entry(glazier, n, [glaziers], "ẹni ti o fi gilasi bo").
+entry(glaziery, n, [glazieries], "iṣẹ́ oníṣọ́").
+entry(gilasi, n, [gilasii], "òfin gilasi").
+entry(glazy, adj, [], "GLAZIER GLAZIESTbo ti a bo pelu awọ didan ti o danGLAZILY adv").
+entry(olóbó-ìmọlẹ̀, v, [olóbó-ìmọlẹ̀,olóbó-ìmọlẹ̀-nla,olóbó-ìmọlẹ̀-kékeré], "láti ta ìmọlẹ̀ pẹ̀lẹ́ pẹ̀lẹ́").
+entry(gleamer, n, [gleamers], "ẹni tí ń kọ́kan").
+entry(gleamy, aj, [], "GLEAMIER GLEAMIESTgleaming").
+entry(ikojọpọ, v, [kojọpọ, nkoja, nkokojọpọ], "lati kó jọba káàkiri léraléra").
+entry(onigba, n, [onigba], "eeni ti n gba").
+entry(ntọ́ka, n, [ntọ́ka], "nkankan ti a ti ntọ́ka").
+entry(gleba, n, [glebae], "awọn ajẹ irira ti diẹ ninu awọn iru ewebe").
+entry(glebe, n, [glebes], "ilé tàbí ilẹ̀").
+entry(gled, n, [gleds], "ayọ").
+entry(ayéko, n, [ayékos], "ẹyẹ apanirun").
+entry(ìdùnnú, n, [ìdùnnú], "orín tí kò ní ìtẹ́lọ́rọ́").
+entry(gleed, n, [gleeds], "eedu to n ṣọ'na").
+entry(ayọ, aðj, [], "dẹ̀rùn").
+entry(gleek, v, [gleeked, gleeking, gleeks], "lati gibe").
+entry(akolejo, n, [akolejo], "eniyan ti o nkorin").
+entry(gleesome, aj, [], "oníyọ́").
+entry(gleet, v, [gleeted,gleeting,gleets], "lati tu omi mimu jade lati inu urethra").
+entry(gleety, adj, [], "BI MUCUS GLEETIER GLEETIEST").
+entry(gleg, adj, [], "alertGLEGLY adv").
+entry(glegness, n, [glegnesses], "ìbójútó").
+ìwọlé(glen, n, [glens], "afonifoji kekereGLENLIKE adj").
+entry(glenoid, adj, [], "ní irú èéfín pàtàkì tàbí díẹ̀ bẹ́ẹ̀ tí ọ̀run egungun ń tọ́").
+entry(gley, n, [gleys], "ibo ilẹ amọ kanGLELEY adj").
+entry(gleying, n, [gleyings], "didi gley").
+entry(glia, n, [glias], "sẹ́ẹ̀sìn èyí tí ó mà dé ara ẹ̀kọ́ nèéfù").
+entry(gliadin, n, [gliadins], "amino-orombo kan").
+ọ̀rọ̀(gleadine, nk, [gleadines], "gleadine").
+entry(glial, adj, [], "ti nto nkan atilẹyin ti eto aifọkanbalẹ aringbungbun").
+entry(glib, adj, [], "GLIBBER GLIBBESTfluentGLIBLY adv").
+entry(glibness, n, [glibnesses], "idaran").
+entry(gilisẹ, v, [gilisẹd, gilisiṣin, gilisẹs], "lati gbe laisi iṣoro").
+entry(glider, n, [gliders], "iru ọkọ ofurufu kan").
+entry(gliff, n, [gliffs], "ìgba díẹ̀").
+entry(glim, n, [glims], "ẹ̀dùmàrè tàbí fitilà").
+entry(glime, v, [glimed, gliming, glimes], "lati nawo oju arekereke").
+entry(glimmer, v, [glimmered,glimmering,glimmers], "lati dán bíbu tabi laisi didi lori").
+entry(glimpse, v, [glimpsed,glimpsing,glimpses], "lati ri fun igba diẹ").
+entry(glimpser, n, [glimpsers], "ẹnikan ti o wo").
+entry(glint, v, [glinted,glinting,glints], "láti tara-tara").
+entry(glinty, adj, [], "GLINTIER GLINTIESTglittering").
+entry(glioma, n, [gliomas], "tabi GLIOMATAi irufẹ ọgbẹ").
+entry(gliosis, n, [glioses], "igbega alailagbara ti awọn sẹẹli glial").
+entry(glissade, v, [glissaded,glissading,glissades], "ṣe igbesẹ ijó fifẹẹrin").
+entry(glisse, n, [glisses], "ipasẹ ijó").
+entry(glisten, v, [glistened, glistening, glistens], "lati tàn nípa ìmígbẹ̀").
+entry(glister, f, [glistered, glistering, glisters], "láti tàràtàrà").
+entry(glitch, n, [awọn aṣiṣe imọ-ẹrọ], "aṣiṣe ẹrọ kan").
+entry(glitchy, adj, [], "GLITCHIER GLITCHIESTti o ni awọn glitches").
+entry(glitter, v, [glittered,glittering,glitters], "láti tẹriba").
+entry(glittery, aj, [], "t'o nmita").
+entry(glitz, v, [glitzed,glitzing,glitzes], "lati jẹ́ kí o pọ́n nínú hihan").
+entry(glitzy, aj, [], "GLITZIER GLITZIESTshowyGLITZILY adv").
+entry(gloam, n, [gloams], "irọlẹ").
+entry(gloaming, n, [gloamings], "alẹ mọ'diye").
+entry(gloat, v, [gloated,gloating,gloats], "láti wo pẹ̀lú ìtẹ́lọ́rùn ńlá tàbí ìdààmújú").
+entry(gloater, n, [awọn ti n ṣogo], "ẹni ti o n ṣogo").
+entry(glob, n, [globs], "a oorun kan").
+entry(agbaye, adj, [], "sphericalGLOBALLY adv").
+entry(globate, adj, [], "fọọrọ").
+entry(globated, adj, [], "yika").
+entry(globby, adj, [], "GLOBBIER GLOBBIESTkún fún ọpọ globi").
+entry(agbaiye, v, [agbaiyeda,agbaiyemo,agbaiyeta], "lati ṣe apẹrẹ sinu ara onigun mẹrin pipe").
+entry(globin, n, [globins], "ẹ̀yà amín òróró tí ó rọrùn").
+entry(globoid, n, [globoids], "ẹ̀gẹ́-ara").
+entry(globose, àpejuwe, [], "spherical").
+entry(globous, ọ̀rọ̀-ẹ̀yà, [], "spherical").
+entry(globular, n, [awopọ-ọsẹ], "awopọ irawọ to jọ bi bọọlu kan").
+entry(globule, n, [globules], "ipin kekere kan ti o ni apẹrẹ onigun mẹta").
+entry(globulini, n, [awọn globulini], "ẹja rirọ kan").
+entry(glochid, n, [glochids], "irun onikaluku lori awon eweko kan").
+entry(glogg, n, [gloggs], "ohun mimu oti kan").
+entry(glom, v, [glommed, glomming, gloms], "lati ji").
+entry(glomus, n, [glomera], "irú tánpadà èjè kan").
+entry(glonoin, n, [glonoins], "nitroglycerin").
+entry(gloom, v, [gloomed,glooming,glooms], "lati di òkùnkùn").
+entry(gloomful, ajẹ, [], "ibanujẹ").
+entry(glooming, n, [gloomings], "ogbe").
+entry(gloomy, oroapola, [], "GLOOMIER GLOOMIESTòkùnkùn díę̀GLOOMILI adv").
+entry(gloop, n, [gloops], "ohun mimu-pọ").
+entry(gloopy, abbl, [], "GLOOPIER GLOOPIESTti o dabi gloop").
+entry(glop, v, [glopped, glopping, glops], "lati bo pelu glop, akojọpọ tabi adalu idoti").
+entry(gloppy, àp̀ójú, [], "GLOPPIER GLOPPIESTtí ó dàbí glop").
+entry(gloria, n, [glorias], "ìkorò").
+entry(gloried, ti tẹlẹ, [], "tẹnsì ti ẹ̀ṣinṣin").
+entry(ìfè, lọ́wọ́-lọwọ́, [], "ẹni kẹta èdá tí ń gbéga").
+entry(ẹ́wọ́n, v, [ẹ́wọ́nìdí,ẹ́wọ́nídí,ẹ́wọ́ní], "láti fi ọlá tàbí ìyìn fún").
+entry(gloriole, n, [glorioles], "a halo").
+entry(glorious, adj, [], "olólùfẹ́").
+entry(ogo, v, [ogoye,ogogun,nko] , "lati yọ̀ ní ìgbójú").
+entry(gbràn, v, [ti gbèràn, gbèrànkàn, gbèràn], "láti mú ki ó yàtọ̀").
+entry(glossa, n, [glossas], "tabi GLOSSAE ahonGLOSSAL adj").
+entry(ìtúpalẹ̀, n, [awọn ìtúpalẹ̀], "àkójọ àwọn èdá tí ó ń jẹ́ kókó àti ìtumọ̀ wọn").
+entry(glosseme, n, [glossemes], "ẹ̀ka èdá tí ó kere jùlọ tó ń fihan ìtumọ̀").
+entry(glosser, n, [glossers], "ẹni ti o ṣe afikun itumọ").
+entry(glossies, pl, [], "ti aseke").
+entry(glossina, n, [glossinas], "ìjẹ̀kú-ìfun Ìtàbà").
+entry(glossy, adj, [], "ILERAJULERU ILERANJU AJUMOTANILAYE adv").
+entry(glossy, n, [aworanfantabirintabi], "iru aworan").
+entry(glost, n, [glosts], "ikoko ti a ti bo pẹlu oju didan to dabi gilasi").
+entry(glottis, n, [glottises], "tabi GLOTTIDESsisan laarin awọn ohun ati gbolohunGLOTTAL GLOTTIC apn").
+entry(glout, v, [glouted,glouting,glouts], "fi oju buruku wo").
+entry(glove, v, [gloved,gloving,gloves], "lati fi inu gilaasi awọn abọ ọwọ").
+entry(apotiase, n, [awotiawe], "apoti kekere nínú agbeko ọkọ ayọkẹlẹ").
+gbaradi(glover, n, [glovers], "eniyan ti o nda tabi o nta ibọwọ").
+entry("imọlẹ", v, ["tan imọlẹ", "n tan imọlẹ", "n tan"], "lati fun imọlẹ ati ooru").
+entry(glower, v, [glowered,glowering,glowers], "fi oju buruku wo").
+entry(glowfly, n, [glowflies], "ẹyin iná").
+entry(ẹfọn ina, n, [awọn ẹfọn ina], "ẹranko kan ti o ntàn imọlẹ").
+entry(gloxinia, n, [gloxinias], "ewé gloxinia tropika kan").
+entry(glose, v, [glosẹ̀,glosèng,glosès], "lati ṣalayé mọ́").
+entry(glukagon, n, [glukagons], "ara homonu").
+entry(glucan, n, [glucans], "polima glukosi").
+entry(glucinum, n, [glucinums], "ẹ̀dà ìdẹ-mẹ́tálìkì GLUCINIC adj").
+entry(glucose, n, [glucoses], "suga kanGLUCOSIC adj").
+entry(glue, v, [], "DÁMÚ ÈDÁ GIÒ ÒRÌSÌÌ GLUE DÍE NÍDÌÍ ADHESIVE OHUN ÈLÒ").
+entry(gluelike, adj, [], "ẹlẹgẹ").
+entry(gluepot, n, [gluepots], "iku kan fun didi iku").
+entry(gluer, n, [gluers], "ẹni tí ń dí mọ́").
+`ṣíṣe(gluey, adj, [gluhweins], "wine flavored with spicesGLUINESS n pl GLUINESSESthe state of being glueyGLUING present participle of glueGLUM n pl GLUMSglumnessGLUM adj GLUMMER GLUMMESTbeing in low spiritsGLUMLY advGLUME n pl GLUMESa bract on grassy plantsGLUMNESS n pl GLUMNESSESthe state of being glumGLUMPY adj GLUMPIER GLUMPIESTglumGLUMPILY advGLUNCH v GLUNCHED GLUNCHING GLUNCHESto frownGLUON n pl GLUONSa hypothetical massless particle binding quarks togetherGLUT v GLUTTED GLUTTING GLUTSto feed or fill to excessGLUTCH v GLUTCHED GLUTCHING GLUTCHESto gulp or swallowGLUTE n pl GLUTESa gluteusGLUTEAL adj of or pertaining to the buttock musclesGLUTEI pl of gluteusGLUTELIN n pl GLUTELINSany of a group of proteins occurring in cereal grainsGLUTEN n pl GLUTENSa sticky component of grain flours that contains gluteninGLUTENIN n pl GLUTENINSa protein of cereal grains that gives adhesiveness to bread doughGLUTEUS n pl GLUTEIa buttock muscleGLUTTED past tense of glutGLUTTING present participle of glutGLUTTON n pl GLUTTONSa person who eats to excessGLUTTONY n pl GLUTTONIESexcessive eatingGLYCAN n pl GLYCANSa carbohydrateGLYCEMIA n pl GLYCEMIASthe presence of glucose in the bloodGLYCEMIC adjGLYCERIN n pl GLYCERINSa glycerolGLYCERIC adjGLYCEROL n pl GLYCEROLSa syrupy alcoholGLYCERYL n pl GLYCERYLSa radical derived from glycerolGLYCIN n pl GLYCINSa compound used in photographyGLYCINE n pl GLYCINESan amino acidGLYCOGEN n pl GLYCOGENSa carbohydrateGLYCOL n pl GLYCOLSan alcoholGLYCOLIC adjGLYCONIC n pl GLYCONICSa type of verse lineGLYCOSYL n pl GLYCOSYLSa radical derived from glucoseGLYCYL n pl GLYCYLSa radical derived from glycineGLYPH n pl GLYPHSan ornamental grooveGLYPHIC adjGLYPTIC n pl GLYPTICSthe art or process of engraving on gemsGNAR v GNARRED GNARRING GNARSto snarlGNARL v GNARLED GNARLING GNARLSto twist into a state of deformityGNARLY adj GNARLIER GNARLIESTgnarledGNARR v GNARRED GNARRING GNARRSto gnarGNARRED past tense of gnarGNARRING present participle of gnarGNASH v GNASHED GNASHING GNASHESto grind the teeth togetherGNAT n pl GNATSa small winged insectGNATHAL adj gnathicGNATHIC adj of or pertaining to the jawGNATHION n pl GNATHIONSthe tip of the chinGNATHITE n pl GNATHITESa jawlike appendage of an insectGNATLIKE adj resembling a gnatGNATTY adj GNATTIER GNATTIESTinfested with gnatsGNAW v GNAWED GNAWN GNAWING GNAWSto wear away by persistent bitingGNAWABLE adjGNAWER n pl GNAWERSone that gnawsGNAWING n pl GNAWINGSa persistent dull painGNEISS n pl GNEISSESa type of rockGNEISSIC adjGNOCCHI npl dumplings made of pastaGNOME n pl GNOMESa dwarfGNOMIC adj resembling or containing aphorismsGNOMICAL adj gnomicGNOMISH adj resembling a gnomeGNOMIST n pl GNOMISTSa writer of aphorismsGNOMON n pl GNOMONSa part of a sundialGNOMONIC adjGNOSIS n pl GNOSESmystical knowledgeGNOSTIC n pl GNOSTICSan adherent of gnosticismGNU n pl GNUSa large antelopeGO v WENT GONE GOING or GWINE GOESto move alongGO n pl GOSa Japanese board gameGOA n pl GOASan Asian gazelleGOAD v GOADED GOADING GOADSto drive animals with a goad a pointed stickGOADLIKE adj resembling a goadGOAL v GOALED GOALING GOALSto score a goal a pointscoring play in some gamesGOALBALL n pl GOALBALLSa ball thrown at a goal to scoreGOALIE n pl GOALIESa player who defends against goalsGOALLESS adj having no goalGOALPOST n pl GOALPOSTSa post that marks a boundary of the scoring area in some gamesGOALWARD adv toward a goal a pointscoring areaGOANNA n pl GOANNASa large monitor lizardGOAT n pl GOATSa horned mammalGOATEE n pl GOATEESa small pointed beardGOATEED adjGOATFISH n pl GOATFISHESa tropical fishGOATHERD n pl GOATHERDSone who tends goatsGOATIER comparative of goatyGOATIEST superlative of goatyGOATISH adj resembling a goatGOATLIKE adj goatishGOATSKIN n pl GOATSKINSthe hide of a goatGOATY adj GOATIER GOATIESTsuggestive of a goatGOB v GOBBED GOBBING GOBSto fill a mine pit with waste materialGOBAN n pl GOBANSgobangGOBANG n pl GOBANGSa Japanese gameGOBBED past tense of gobGOBBET n pl GOBBETSa piece of raw meatGOBBING present participle of gobGOBBLE v GOBBLED GOBBLING GOBBLESto eat hastilyGOBBLER n pl GOBBLERSa male turkeyGOBIES pl of gobyGOBIOID n pl GOBIOIDSa fish of the goby familyGOBLET n pl GOBLETSa drinking vesselGOBLIN n pl GOBLINSan evil or mischievous creatureGOBO n pl GOBOS or GOBOESa device used to shield a microphone from extraneous soundsGOBONEE adj gobonyGOBONY adj componyGOBSHITE n pl GOBSHITESa contemptible personGOBY n pl GOBIESa small fishGOD v GODDED GODDING GODSto treat as a god a supernatural beingGODAWFUL adj extremely unpleasantGODCHILD n pl GODCHILDRENone whom a person sponsors at baptismGODDED past tense of godGODDESS n pl GODDESSESa female godGODDING present participle of godGODET n pl GODETSinsert of cloth in a seamGODETIA n pl GODETIASa showy annual herbGODHEAD n pl GODHEADSgodhoodGODHOOD n pl GODHOODSthe state of being a godGODLESS adj worshiping no godGODLIKE adj divineGODLING n pl GODLINGSa lesser godGODLY adj GODLIER GODLIESTpiousGODLILY advGODOWN n pl GODOWNSan Asian warehouseGODROON n pl GODROONSgadroonGODSEND n pl GODSENDSan unexpected boonGODSHIP n pl GODSHIPSthe rank of a godGODSON n pl GODSONSa male godchildGODWARD adv toward GodGODWARDS adv GodwardGODWIT n pl GODWITSa wading birdGOER n pl GOERSone that goesGOEST v a 2d person sing of goGOETH v a 3d person sing of goGOETHITE n pl GOETHITESan ore of ironGOFER n pl GOFERSan employee who runs errandsGOFFER v GOFFERED GOFFERING GOFFERSto press ridges or pleats intoGOGGLE v GOGGLED GOGGLING GOGGLESto use the Google search engineGOGGLER n pl GOGGLERSone that gogglesGOGGLY adj GOGGLIER GOGGLIESTwideeyedGOGLET n pl GOGLETSa longnecked jarGOGO n pl GOGOSa discothequeGOING n pl GOINGSan advance toward an objectiveGOITER n pl GOITERSan enlargement of the thyroid glandGOITERED adjGOITROUS adjGOITRE n pl GOITRESgoiterGOITRED adjGOJI n pl GOJISthe red berry of an Asian shrubGOLCONDA n pl GOLCONDASa source of great wealthGOLD adj GOLDER GOLDESTgoldenGOLD n pl GOLDSa gold medalGOLDARN n pl GOLDARNSan expression of angerGOLDBUG n pl GOLDBUGSa gold beetleGOLDEN adj GOLDENER GOLDENESTof the color of goldGOLDENLY advGOLDEYE n pl GOLDEYESa freshwater fishGOLDFISH n pl GOLDFISHESa freshwater fishGOLDTONE adj made to resemble goldGOLDURN n pl GOLDURNSgoldarnGOLEM n pl GOLEMSa legendary creatureGOLF v GOLFED GOLFING GOLFSto play golf a type of ball gameGOLFER n pl GOLFERSone that golfsGOLFING n pl GOLFINGSthe game of golfGOLGOTHA n pl GOLGOTHASa place of burialGOLIARD n pl GOLIARDSa wandering studentGOLIATH n pl GOLIATHSa person considered to be a giantGOLLIWOG n pl GOLLIWOGSa grotesque dollGOLLY interj  used as a mild oathGOLLYWOG n pl GOLLYWOGSgolliwogGOLOSH n pl GOLOSHESgaloshGOLOSHE n pl GOLOSHESgaloshGOMBEEN n pl GOMBEENSusuryGOMBO n pl GOMBOSgumboGOMBROON n pl GOMBROONSa kind of Persian potteryGOMER n pl GOMERSan undesirable hospital patientGOMERAL n pl GOMERALSa foolGOMEREL n pl GOMERELSgomeralGOMERIL n pl GOMERILSgomeralGOMUTI n pl GOMUTISa palm treeGONAD n pl GONADSa sex glandGONADAL GONADIAL GONADIC adjGONCH n pl GONCHESgaunchGONDOLA n pl GONDOLASa long narrow boatGONE adj departedGONEF n pl GONEFSganefGONENESS n pl GONENESSESa state of exhaustionGONER n pl GONERSone who is in a hopeless situationGONFALON n pl GONFALONSa bannerGONFANON n pl GONFANONSgonfalonGONG v GONGED GONGING GONGSto make the sound of a gong a diskshaped percussion instrumentGONGLIKE adj resembling a gongGONIA pl of gonion and of goniumGONIDIUM n pl GONIDIAan asexual reproductive cellGONIDIAL GONIDIC adjGONIF n pl GONIFSganefGONIFF n pl GONIFFSganefGONION n pl GONIAa part of the lower jawGONIUM n pl GONIAan immature reproductive cellGONOCYTE n pl GONOCYTESa cell that produces gametesGONOF n pl GONOFSganefGONOPH n pl GONOPHSganefGONOPORE n pl GONOPORESa genital poreGONZO adj bizarreGOO n pl GOOSa sticky or viscid substanceGOOBER n pl GOOBERSa peanutGOOD adj BETTER BESThaving positive or desirable qualitiesGOOD n pl GOODSsomething that is goodGOODBY n pl GOODBYSgoodbyeGOODBYE n pl GOODBYESa concluding remark or gesture at partingGOODIE n pl GOODIESgoodyGOODIES pl of goodyGOODISH adj somewhat goodGOODLY adj GOODLIER GOODLIESTof pleasing appearanceGOODMAN n pl GOODMENthe master of a householdGOODNESS n pl GOODNESSESthe state of being goodGOODWIFE n pl GOODWIVESthe mistress of a householdGOODWILL n pl GOODWILLSan attitude of friendlinessGOODY n pl GOODIESa desirable foodGOOEY adj GOOIER GOOIESTsticky or viscidGOOF v GOOFED GOOFING GOOFSto blunderGOOFBALL n pl GOOFBALLSa sleeping pillGOOFUS n pl GOOFUSESa foolish or stupid personGOOFY adj GOOFIER GOOFIESTsillyGOOFILY advGOOGLE v GOOGLED GOOGLING GOOGLESto use an Internet search engineGOOGLY n pl GOOGLIESa type of bowled ball in cricketGOOGOL n pl GOOGOLSan enormous numberGOOIER comparative of gooeyGOOIEST superlative of gooeyGOOK n pl GOOKSgooGOOKY adjGOOMBAH n pl GOOMBAHSan older man who is a friendGOOMBAY n pl GOOMBAYScalypso music of the BahamasGOON n pl GOONSa hired thugGOONDA n pl GOONDASa hired thugGOONERY n pl GOONERIESthuggish behaviorGOONEY n pl GOONEYSan albatrossGOONIE n pl GOONIESgooneyGOONY n pl GOONIESgooneyGOONY adj GOONIER GOONIESTstupidGOOP n pl GOOPSgoo gunkGOOPY adj GOOPIER GOOPIESTsticky gooeyGOORAL n pl GOORALSgoralGOOSE n pl GEESEa swimming birdGOOSE v GOOSED GOOSING GOOSESto poke between the buttocksGOOSEY adj GOOSIER GOOSIESTgoosyGOOSY adj GOOSIER GOOSIESTresembling a gooseGOPHER n pl GOPHERSa burrowing rodentGOPIK n pl GOPIKSa monetary unit of AzerbaijanGOR interj  used as a mild oathGORAL n pl GORALSa goat antelopeGORBELLY n pl GORBELLIESa potbellyGORBLIMY interj blimeyGORCOCK n pl GORCOCKSthe male red grouseGORDITA n pl GORDITASa stuffed and fried pocket of cornmeal doughGORE v GORED GORING GORESto pierce with a horn or tuskGOREFEST n pl GOREFESTSa movie featuring much bloodshedGORGE v GORGED GORGING GORGESto stuff with foodGORGEDLY advGORGEOUS adj beautifulGORGER n pl GORGERSone that gorgesGORGERIN n pl GORGERINSa part of a columnGORGET n pl GORGETSa piece of armor for the throatGORGETED adjGORGING present participle of gorgeGORGON n pl GORGONSan ugly womanGORHEN n pl GORHENSthe female red grouseGORIER comparative of goryGORIEST superlative of goryGORILLA n pl GORILLASa large apeGORILY adv in a gory mannerGORINESS n pl GORINESSESthe state of being goryGORING present participle of goreGORM v GORMED GORMING GORMSto gaumGORMAND n pl GORMANDSgourmandGORMLESS adj stupidGORP n pl GORPSa snack for quick energyGORSE n pl GORSESfurzeGORSY adj GORSIER GORSIESTabounding in gorseGORY adj GORIER GORIESTbloodyGOSH interj  used as an exclamation of surpriseGOSHAWK n pl GOSHAWKSa large hawkGOSLING n pl GOSLINGSa young gooseGOSPEL n pl GOSPELSthe message concerning Christ the kingdom of God and salvationGOSPELER n pl GOSPELERSone that teaches the gospelGOSPELLY adj having characteristics of gospel musicGOSPORT n pl GOSPORTSa communication device in an airplaneGOSSAMER n pl GOSSAMERSa fine film of cobwebsGOSSAN n pl GOSSANSa type of decomposed rockGOSSIP v GOSSIPED GOSSIPING GOSSIPS or GOSSIPPED GOSSIPPING GOSSIPSto talk idly about the affairs of othersGOSSIPER n pl GOSSIPERSone that gossipsGOSSIPRY n pl GOSSIPRIESthe practice of gossipingGOSSIPY adj inclined to gossipGOSSOON n pl GOSSOONSa boyGOSSYPOL n pl GOSSYPOLSa toxic pigmentGOT past tense of getGOTCH n pl GOTCHESunderpantsGOTCHA n pl GOTCHASan instance of catching a person out in a deceit or wrongdoingGOTCHIES npl underpantsGOTH n pl GOTHSa morbid style of rock musicGOTHIC n pl GOTHICSa style of printingGOTHITE n pl GOTHITESgoethiteGOTTEN past participle of getGOUACHE n pl GOUACHESa method of paintingGOUGE v GOUGED GOUGING GOUGESto cut or scoop outGOUGER n pl GOUGERSone that gougesGOULASH n pl GOULASHESa beef stewGOURAMI n pl GOURAMIS or GOURAMIESa food fishGOURD n pl GOURDSa hardshelled fruitGOURDE n pl GOURDESa monetary unit of HaitiGOURDFUL n pl GOURDFULSas much as a hollowed gourd can holdGOURMAND n pl GOURMANDSone who loves to eatGOURMET n pl GOURMETSa connoisseur of fine food and drinkGOUT n pl GOUTSa metabolic diseaseGOUTWEED n pl GOUTWEEDSa plant with white flowersGOUTY adj GOUTIER GOUTIESTaffected with goutGOUTILY advGOVERN v GOVERNED GOVERNING GOVERNSto rule or directGOVERNOR n pl GOVERNORSone that governsGOWAN n pl GOWANSa daisyGOWANED GOWANY adjGOWD n pl GOWDSgoldGOWK n pl GOWKSa foolGOWN v GOWNED GOWNING GOWNSto dress in a gown a long loose outer garmentGOWNSMAN n pl GOWNSMENa professional or academic personGOX n pl GOXESgaseous oxygenGRAAL n pl GRAALSgrailGRAB v GRABBED GRABBING GRABSto grasp suddenlyGRABBER n pl GRABBERSone that grabsGRABBIER comparative of grabbyGRABBIEST superlative of grabbyGRABBING present participle of grabGRABBLE v GRABBLED GRABBLING GRABBLESto gropeGRABBLER n pl GRABBLERSone that grabblesGRABBY adj GRABBIER GRABBIESTtending to grabGRABEN n pl GRABENSa depression of the earths crustGRACE v GRACED GRACING GRACESto give beauty toGRACEFUL adj GRACEFULLER GRACEFULLESThaving beauty of form or movementGRACILE adj gracefully slenderGRACILIS n pl GRACILESa thigh muscleGRACING present participle of graceGRACIOSO n pl GRACIOSOSa clown in Spanish comedyGRACIOUS adj marked by kindness and courtesyGRACKLE n pl GRACKLESa blackbirdGRAD n pl GRADSa graduateGRADATE v GRADATED GRADATING GRADATESto change by degreesGRADE v GRADED GRADING GRADESto arrange in steps or degreesGRADABLE adjGRADER n pl GRADERSone that gradesGRADIENT n pl GRADIENTSa rate of inclinationGRADIN n pl GRADINSgradineGRADINE n pl GRADINESone of a series of stepsGRADING present participle of gradeGRADUAL n pl GRADUALSa hymn sung in alternate partsGRADUAND n pl GRADUANDSone who is about to graduateGRADUATE v GRADUATED GRADUATING GRADUATESto receive an academic degree or diplomaGRADUS n pl GRADUSESa dictionary of prosodyGRAECIZE v GRAECIZED GRAECIZING GRAECIZESto grecizeGRAFFITI v GRAFFITIED GRAFFITIING or GRAFFITING GRAFFITISto draw graffiti onGRAFFITO n pl GRAFFITIan inscription or drawing made on a rock or wallGRAFT v GRAFTED GRAFTING GRAFTSto unite with a growing plant by insertionGRAFTAGE n pl GRAFTAGESthe process of graftingGRAFTER n pl GRAFTERSone that graftsGRAHAM n pl GRAHAMSwholewheat flourGRAIL n pl GRAILSthe object of a long questGRAIN v GRAINED GRAINING GRAINSto form into small particlesGRAINER n pl GRAINERSone that grainsGRAINY adj GRAINIER GRAINIESTgranularGRAM n pl GRAMSa unit of mass and weightGRAMA n pl GRAMASa pasture grassGRAMARY n pl GRAMARIESgramaryeGRAMARYE n pl GRAMARYESoccult learning magicGRAMERCY n pl GRAMERCIESan expression of gratitudeGRAMMA n pl GRAMMASgramaGRAMMAR n pl GRAMMARSthe study of the formal features of a languageGRAMME n pl GRAMMESgramGRAMP n pl GRAMPSgrandfatherGRAMPA n pl GRAMPASa grandfatherGRAMPUS n pl GRAMPUSESa marine mammalGRAMPY n pl GRAMPIESgrampaGRAN n pl GRANSa grandmotherGRANA pl of granumGRANARY n pl GRANARIESa storehouse for grainGRAND adj GRANDER GRANDESTlarge and impressiveGRAND n pl GRANDSa type of pianoGRANDAD n pl GRANDADSgranddadGRANDAM n pl GRANDAMSa grandmotherGRANDAME n pl GRANDAMESgrandamGRANDDAD n pl GRANDDADSa grandfatherGRANDDAM n pl GRANDDAMSthe female parent of an animal with offspringGRANDEE n pl GRANDEESman of high social positionGRANDEUR n pl GRANDEURSthe state of being grandGRANDKID n pl GRANDKIDSthe child of ones son or daughterGRANDLY adv in a grand mannerGRANDMA n pl GRANDMASa grandmotherGRANDPA n pl GRANDPASa grandfatherGRANDSIR n pl GRANDSIRSa grandfatherGRANDSON n pl GRANDSONSa son of ones son or daughterGRANGE n pl GRANGESa farmGRANGER n pl GRANGERSa farmerGRANITA n pl GRANITASan iced dessertGRANITE n pl GRANITESa type of rockGRANITIC adjGRANNIE n pl GRANNIESgrannyGRANNY n pl GRANNIESa grandmotherGRANOLA n pl GRANOLASa breakfast cerealGRANT v GRANTED GRANTING GRANTSto bestow uponGRANTEE n pl GRANTEESone to whom something is grantedGRANTER n pl GRANTERSone that grantsGRANTOR n pl GRANTORSgranterGRANULAR adj composed of granulesGRANULE n pl GRANULESa small particleGRANUM n pl GRANAa part of a plant chloroplastGRAPE n pl GRAPESan edible berryGRAPERY n pl GRAPERIESa vineryGRAPEY adj GRAPIER GRAPIESTgrapyGRAPH v GRAPHED GRAPHING GRAPHSto represent by means of a diagramGRAPHEME n pl GRAPHEMESa unit of a writing systemGRAPHIC n pl GRAPHICSa product of the art of representationGRAPHITE n pl GRAPHITESa variety of carbonGRAPIER comparative of grapyGRAPIEST superlative of grapyGRAPLIN n pl GRAPLINSa grapnelGRAPLINE n pl GRAPLINESgraplinGRAPNEL n pl GRAPNELSa type of anchorGRAPPA n pl GRAPPASan Italian brandyGRAPPLE v GRAPPLED GRAPPLING GRAPPLESto struggle or contendGRAPPLER n pl GRAPPLERSone that grapplesGRAPY adj GRAPIER GRAPIESTresembling grapesGRASP v GRASPED GRASPING GRASPSto seize firmly with the handGRASPER n pl GRASPERSone that graspsGRASS v GRASSED GRASSING GRASSESto cover with grass herbaceous plantsGRASSY adj GRASSIER GRASSIESTof resembling or pertaining to grassGRASSILY advGRAT past tense of greet to weepGRATE v GRATED GRATING GRATESto reduce to shreds by rubbingGRATEFUL adj GRATEFULLER GRATEFULLESTdeeply thankfulGRATER n pl GRATERSone that gratesGRATIFY v GRATIFIED GRATIFYING GRATIFIESto satisfyGRATIN n pl GRATINSa type of food crustGRATINE adj covered with a crustGRATINEE v GRATINEED GRATINEEING GRATINEESto cook food that is covered with a crustGRATING n pl GRATINGSa network of bars covering an openingGRATIS adj free of chargeGRATUITY n pl GRATUITIESa gift of moneyGRAUPEL n pl GRAUPELSgranular snow pelletsGRAVAMEN n pl GRAVAMENS or GRAVAMINAthe most serious part of an accusationGRAVE adj GRAVER GRAVESTextremely seriousGRAVE v GRAVED GRAVEN GRAVING GRAVESto engraveGRAVEL v GRAVELED GRAVELING GRAVELS or GRAVELLED GRAVELLING GRAVELSto pave with gravel a mixture of rock fragmentsGRAVELLY adj containing gravelGRAVELY adv in a grave mannerGRAVEN past participle of graveGRAVER n pl GRAVERSan engraverGRAVEST superlative of graveGRAVID adj pregnantGRAVIDLY advGRAVIDA n pl GRAVIDAS or GRAVIDAEa pregnant womanGRAVIES pl of gravyGRAVING present participle of graveGRAVITAS n pl GRAVITASESreserved dignified behaviorGRAVITON n pl GRAVITONSa hypothetical particleGRAVITY n pl GRAVITIESthe force of attraction toward the earths centerGRAVLAKS n pl GRAVLAKSgravlaxGRAVLAX n pl GRAVLAXcured salmonGRAVURE n pl GRAVURESa printing processGRAVY n pl GRAVIESa sauce of the fat and juices from cooked meatGRAY adj GRAYER GRAYESTof a color between white and blackGRAY v GRAYED GRAYING GRAYSto make grayGRAYBACK n pl GRAYBACKSa gray birdGRAYFISH n pl GRAYFISHESa dogfishGRAYISH adj somewhat grayGRAYLAG n pl GRAYLAGSa wild gooseGRAYLING n pl GRAYLINGSa food fishGRAYLY adv in a gray mannerGRAYMAIL n pl GRAYMAILSpressure on an official to reveal sensitive informationGRAYNESS n pl GRAYNESSESthe state of being grayGRAYOUT n pl GRAYOUTSa temporary blurring of visionGRAZE v GRAZED GRAZING GRAZESto feed on growing grassGRAZABLE adjGRAZER n pl GRAZERSone that grazesGRAZIER n pl GRAZIERSone that grazes cattleGRAZING n pl GRAZINGSland used for the feeding of animalsGRAZIOSO adj graceful in styleGREASE v GREASED GREASING GREASESto smear with grease a lubricating substanceGREASER n pl GREASERSone that greasesGREASY adj GREASIER GREASIESTcontaining or resembling greaseGREASILY advGREAT adj GREATER GREATESTlargeGREAT n pl GREATSa distinguished or outstanding personGREATEN v GREATENED GREATENING GREATENSto make greaterGREATLY adv in a great mannerGREAVE n pl GREAVESa piece of armor for the legGREAVED adjGREBE n pl GREBESa diving birdGRECIZE v GRECIZED GRECIZING GRECIZESto provide with a Greek styleGREE v GREED GREEING GREESto agreeGREED n pl GREEDSexcessive desire for gain or wealthGREEDY adj GREEDIER GREEDIESTmarked by greedGREEDILY advGREEGREE n pl GREEGREESgrigriGREEK n pl GREEKsomething unintelligibleGREEN adj GREENER GREENESTof the color of growing foliageGREEN v GREENED GREENING GREENSto become greenGREENBUG n pl GREENBUGSa green aphidGREENERY n pl GREENERIESgreen vegetationGREENFLY n pl GREENFLIESa green aphidGREENIE n pl GREENIESan amphetamine pillGREENIER comparative of greenyGREENIEST superlative of greenyGREENING n pl GREENINGSa variety of appleGREENISH adj somewhat greenGREENLET n pl GREENLETSa vireoGREENLIT a past tense of greenlight to give approval forGREENLY adv in a green mannerGREENTH n pl GREENTHSverdureGREENWAY n pl GREENWAYSpiece of undeveloped land in a cityGREENY adj GREENIER GREENIESTsomewhat greenGREET v GREETED GREETING GREETSto address in a friendly and courteous wayGREET v GRAT GRUTTEN GREETING GREETSto weepGREETER n pl GREETERSone that greetsGREETING n pl GREETINGSa salutationGREGO n pl GREGOSa hooded coatGREIGE n pl GREIGESfabric in a gray stateGREISEN n pl GREISENSa type of rockGREMIAL n pl GREMIALSa lap cloth used by a bishop during a serviceGREMLIN n pl GREMLINSa mischievous creatureGREMMIE n pl GREMMIESan inexperienced surferGREMMY n pl GREMMIESgremmieGRENADE n pl GRENADESan explosive deviceGREW past tense of growGREWSOME adj GREWSOMER GREWSOMESTgruesomeGREY adj GREYER GREYESTgrayGREY v GREYED GREYING GREYSto grayGREYHEN n pl GREYHENSthe female black grouseGREYISH adj grayishGREYLAG n pl GREYLAGSgraylagGREYLY adv graylyGREYNESS n pl GREYNESSESgraynessGRIBBLE n pl GRIBBLESa marine isopodGRID v GRIDDED GRIDDING GRIDSto put into or set out as a framework of bars or linesGRIDDER n pl GRIDDERSa football playerGRIDDLE v GRIDDLED GRIDDLING GRIDDLESto cook on a flat panGRIDE v GRIDED GRIDING GRIDESto scrape harshlyGRIDIRON v GRIDIRONED GRIDIRONING GRIDIRONSto mark off into squaresGRIDLOCK v GRIDLOCKED GRIDLOCKING GRIDLOCKSto bring to a standstillGRIEF n pl GRIEFSintense mental distressGRIEVANT n pl GRIEVANTSone that submits a complaint for arbitrationGRIEVE v GRIEVED GRIEVING GRIEVESto feel griefGRIEVER n pl GRIEVERSone that grievesGRIEVOUS adj causing griefGRIFF n pl GRIFFSgriffeGRIFFE n pl GRIFFESthe offspring of a black person and a mulattoGRIFFIN n pl GRIFFINSa mythological creatureGRIFFON n pl GRIFFONSgriffinGRIFT v GRIFTED GRIFTING GRIFTSto swindleGRIFTER n pl GRIFTERSa swindlerGRIG n pl GRIGSa lively personGRIGRI n pl GRIGRISa fetish or amuletGRILL v GRILLED GRILLING GRILLSto broil on a gridironGRILLADE n pl GRILLADESa dish of grilled meatGRILLAGE n pl GRILLAGESa framework of timberGRILLE n pl GRILLESa gratingGRILLER n pl GRILLERSone that grillsGRILLERY n pl GRILLERIESa place where grilled foods are servedGRILSE n pl GRILSESa young salmonGRIM adj GRIMMER GRIMMESTstern and unrelentingGRIMACE v GRIMACED GRIMACING GRIMACESto contort the facial featuresGRIMACER n pl GRIMACERSone that grimacesGRIME v GRIMED GRIMING GRIMESto make dirtyGRIMIER comparative of grimyGRIMIEST superlative of grimyGRIMILY adv in a grimy mannerGRIMING present participle of grimeGRIMLY adv in a grim mannerGRIMMER comparative of grimGRIMMEST superlative of grimGRIMNESS n pl GRIMNESSESthe quality of being grimGRIMOIRE n pl GRIMOIRESa book of magic spellsGRIMY adj GRIMIER GRIMIESTdirtyGRIN v GRINNED GRINNING GRINSto smile broadlyGRINCH n pl GRINCHESone who spoils the fun of othersGRIND v GROUND or GRINDED GRINDING GRINDSto wear smooth or sharpen by frictionGRINDER n pl GRINDERSone that grindsGRINDERY n pl GRINDERIESa place where tools are groundGRINNED past tense of grinGRINNER n pl GRINNERSone that grinsGRINNING present participle of grinGRIOT n pl GRIOTSa tribal entertainer in West AfricaGRIP v GRIPPED or GRIPT GRIPPING GRIPSto graspGRIPE v GRIPED GRIPING GRIPESto complain peevishyGRIPER n pl GRIPERSone that gripesGRIPEY adj GRIPIER GRIPIESTgripyGRIPIER comparative of gripyGRIPIEST superlative of gripyGRIPING present participle of gripeGRIPINGLY adv in a complaining mannerGRIPMAN n pl GRIPMENa cable car operatorGRIPPE n pl GRIPPESa virus diseaseGRIPPED a past tense of gripGRIPPER n pl GRIPPERSone that gripsGRIPPING present participle of gripGRIPPLE adj greedyGRIPPY adj GRIPPIER GRIPPIESTaffected with the grippeGRIPSACK n pl GRIPSACKSa valiseGRIPT a past tense of gripGRIPY adj GRIPIER GRIPIESTcausing sharp pains in the bowelsGRISEOUS adj grayishGRISETTE n pl GRISETTESa young French workingclass girlGRISKIN n pl GRISKINSthe lean part of a loin of porkGRISLY adj GRISLIER GRISLIESThorrifyingGRISON n pl GRISONSa carnivorous mammalGRIST n pl GRISTSgrain for grindingGRISTER n pl GRISTERSone that grinds grainGRISTLE n pl GRISTLESthe tough part of meatGRISTLY adj GRISTLIER GRISTLIESTcontaining gristleGRIT v GRITTED GRITTING GRITSto press the teeth togetherGRITH n pl GRITHSsanctuary for a limited period of timeGRITTER n pl GRITTERSone that gritsGRITTY adj GRITTIER GRITTIESTpluckyGRITTILY advGRIVET n pl GRIVETSa small monkeyGRIZ n pl GRIZa grizzlyGRIZZLE v GRIZZLED GRIZZLING GRIZZLESto complainGRIZZLER n pl GRIZZLERSone that grizzlesGRIZZLY adj GRIZZLIER GRIZZLIESTgrayishGRIZZLY n pl GRIZZLIESa large bearGROAN v GROANED GROANING GROANSto utter a low mournful soundGROANER n pl GROANERSone that groansGROAT n pl GROATSan old English coinGROCER n pl GROCERSa dealer in foodstuffs and household suppliesGROCERY n pl GROCERIESa grocers storeGRODY adj GRODIER GRODIESTsleazyGROG n pl GROGSa mixture of liquor and waterGROGGERY n pl GROGGERIESa barroomGROGGY adj GROGGIER GROGGIESTdazedGROGGILY advGROGRAM n pl GROGRAMSa coarse silk fabricGROGSHOP n pl GROGSHOPSa groggeryGROIN v GROINED GROINING GROINSto build with intersecting archesGROK v GROKKED GROKKING GROKSto understand intuitivelyGROMMET v GROMMETED GROMMETING GROMMETSto fasten with a reinforcing ring of metalGROMWELL n pl GROMWELLSan herbGROOM v GROOMED GROOMING GROOMSto clean and care forGROOMER n pl GROOMERSone that groomsGROOVE v GROOVED GROOVING GROOVESto form a groove a long narrow depressionGROOVER n pl GROOVERSone that groovesGROOVY adj GROOVIER GROOVIESTmarvelousGROOVILY advGROPE v GROPED GROPING GROPESto feel about with the handsGROPER n pl GROPERSone that gropesGROSBEAK n pl GROSBEAKSa finchGROSCHEN n pl GROSCHENa formerly used Austrian coinGROSS adj GROSSER GROSSESTflagrantGROSS v GROSSED GROSSING GROSSESto earn exclusive of deductionsGROSSER n pl GROSSERSa product yielding a large volume of businessGROSSLY adv in a gross mannerGROSZ n pl GROSZYa Polish coinGROSZE n pl GROSZYgroszGROT n pl GROTSa grottoGROTTO n pl GROTTOS or GROTTOESa caveGROTTOED adjGROTTY adj GROTTIER GROTTIESTwretchedGROUCH v GROUCHED GROUCHING GROUCHESto complainGROUCHY adj GROUCHIER GROUCHIESTilltemperedGROUND v GROUNDED GROUNDING GROUNDSto place on a foundationGROUNDER n pl GROUNDERSa type of batted baseballGROUP v GROUPED GROUPING GROUPSto arrange in a group an assemblage of persons or thingsGROUPAGE n pl GROUPAGESthe arranging of persons or things into groupsGROUPER n pl GROUPERSa food fishGROUPIE n pl GROUPIESa follower of rock groupsGROUPING n pl GROUPINGSa set of objectsGROUPOID n pl GROUPOIDSa type of mathematical setGROUSE v GROUSED GROUSING GROUSESto complainGROUSER n pl GROUSERSone that grousesGROUT v GROUTED GROUTING GROUTSto fill with a thin mortarGROUTER n pl GROUTERSone that groutsGROUTY adj GROUTIER GROUTIESTsurlyGROVE n pl GROVESa small forested areaGROVED adjGROVEL v GROVELED GROVELING GROVELS or GROVELLED GROVELLING GROVELSto crawl in an abject mannerGROVELER n pl GROVELERSone that grovelsGROVY adj GROVIER GROVIESTresembling or suggestive of a groveGROW v GREW GROWN GROWING GROWSto cultivateGROWABLE adjGROWER n pl GROWERSone that growsGROWL v GROWLED GROWLING GROWLSto utter a deep harsh soundGROWLER n pl GROWLERSone that growlsGROWLY adj GROWLIER GROWLIESTdeep and harsh in speechGROWN adj matureGROWNUP n pl GROWNUPSa mature personGROWTH n pl GROWTHSdevelopmentGROWTHY adj GROWTHIER GROWTHIESTfastgrowingGROYNE n pl GROYNESa structure built to protect a shore from erosionGRR interj  used to express anger or annoyanceGRRRL n pl GRRRLSa young woman who resists the exploitation of womenGRUB v GRUBBED GRUBBING GRUBSto digGRUBBER n pl GRUBBERSone that grubsGRUBBY adj GRUBBIER GRUBBIESTdirtyGRUBBILY advGRUBWORM n pl GRUBWORMSthe larva of some insectsGRUDGE v GRUDGED GRUDGING GRUDGESto be unwilling to give or admitGRUDGER n pl GRUDGERSone that grudgesGRUE n pl GRUESa shudder of fearGRUEL v GRUELED GRUELING GRUELS or GRUELLED GRUELLING GRUELSto disable by hard workGRUELER n pl GRUELERSone that gruelsGRUELING n pl GRUELINGSan exhausting experienceGRUELLED a past tense of gruelGRUELLER n pl GRUELLERSgruelerGRUELLING present participle of gruelGRUESOME adj GRUESOMER GRUESOMESTrepugnantGRUFF adj GRUFFER GRUFFESTlow and harsh in speechGRUFF v GRUFFED GRUFFING GRUFFSto utter in a gruff voiceGRUFFIER comparative of gruffyGRUFFIEST superlative of gruffyGRUFFILY adv in a gruffy mannerGRUFFISH adj somewhat gruffGRUFFLY adv in a gruff mannerGRUFFY adj GRUFFIER GRUFFIESTgruffGRUGRU n pl GRUGRUSa palm treeGRUIFORM adj designating an order of birdsGRUM adj GRUMMER GRUMMESTmoroseGRUMBLE v GRUMBLED GRUMBLING GRUMBLESto mutter in discontentGRUMBLER n pl GRUMBLERSone that grumblesGRUMBLY adj GRUMBLIER GRUMBLIESTgiven to grumblingGRUME n pl GRUMESa thick viscid substanceGRUMMER comparative of grumGRUMMEST superlative of grumGRUMMET v GRUMMETED GRUMMETING GRUMMETSto grommetGRUMOSE adj grumousGRUMOUS adj consisting of clustered grainsGRUMP v GRUMPED GRUMPING GRUMPSto complainGRUMPHIE n pl GRUMPHIESa pigGRUMPHY n pl GRUMPHIESgrumphieGRUMPISH adj grumpyGRUMPY adj GRUMPIER GRUMPIESTilltemperedGRUMPILY advGRUNGE n pl GRUNGESdirtGRUNGER n pl GRUNGERSa fan of a style of rock music and associated fashionsGRUNGY adj GRUNGIER GRUNGIESTdirtyGRUNION n pl GRUNIONSa small food fishGRUNT v GRUNTED GRUNTING GRUNTSto utter a deep guttural soundGRUNTER n pl GRUNTERSone that gruntsGRUNTLE v GRUNTLED GRUNTLING GRUNTLESto put in a good humorGRUSHIE adj thrivingGRUTCH v GRUTCHED GRUTCHING GRUTCHESto grudgeGRUTTEN past participle of greet to weepGRUYERE n pl GRUYERESa Swiss cheeseGRYPHON n pl GRYPHONSgriffinGUACHARO n pl GUACHAROS or GUACHAROESa tropical birdGUACO n pl GUACOSa tropical plantGUAIAC n pl GUAIACSguaiacumGUAIACOL n pl GUAIACOLSa chemical compoundGUAIACUM n pl GUAIACUMSa medicinal resinGUAIOCUM n pl GUAIOCUMSguaiacumGUAN n pl GUANSa large birdGUANACO n pl GUANACOSa South American mammalGUANASE n pl GUANASESan enzymeGUANAY n pl GUANAYSa Peruvian cormorantGUANIDIN n pl GUANIDINSa chemical compoundGUANIN n pl GUANINSguanineGUANINE n pl GUANINESa chemical compoundGUANO n pl GUANOSthe accumulated excrement of seabirdsGUAR n pl GUARSa droughttolerant legumeGUARACHE n pl GUARACHEShuaracheGUARANA n pl GUARANASa South American shrubGUARANI n pl GUARANIS or GUARANIESa monetary unit of ParaguayGUARANTY v GUARANTIED GUARANTYING GUARANTIESto assume responsibility for the quality ofGUARD v GUARDED GUARDING GUARDSto protectGUARDANT n pl GUARDANTSa guardianGUARDDOG n pl GUARDDOGSa dog trained to guard persons or propertyGUARDER n pl GUARDERSone that guardsGUARDIAN n pl GUARDIANSone that guardsGUAVA n pl GUAVASa tropical shrubGUAYULE n pl GUAYULESa shrub that is a source of rubberGUBBINS n pl GUBBINSESa trivial objectGUCK n pl GUCKSa messy substanceGUDE n pl GUDESgoodGUDGEON v GUDGEONED GUDGEONING GUDGEONSto dupeGUENON n pl GUENONSa longtailed monkeyGUERDON v GUERDONED GUERDONING GUERDONSto rewardGUERIDON n pl GUERIDONSa small stand or tableGUERILLA n pl GUERILLASa member of a small independent band of soldiersGUERNSEY n pl GUERNSEYSa woolen shirtGUESS v GUESSED GUESSING GUESSESto form an opinion from little or no evidenceGUESSER n pl GUESSERSone that guessesGUEST v GUESTED GUESTING GUESTSto appear as a visitorGUFF n pl GUFFSfoolish talkGUFFAW v GUFFAWED GUFFAWING GUFFAWSto laugh loudlyGUGGLE v GUGGLED GUGGLING GUGGLESto gurgleGUGLET n pl GUGLETSgogletGUID n pl GUIDSgoodGUIDANCE n pl GUIDANCESadviceGUIDE v GUIDED GUIDING GUIDESto show the way toGUIDABLE adjGUIDER n pl GUIDERSone that guidesGUIDEWAY n pl GUIDEWAYSa track for controlling the line of motion of somethingGUIDON n pl GUIDONSa small flagGUILD n pl GUILDSan association of people of the same tradeGUILDER n pl GUILDERSa former monetary unit of the NetherlandsGUILE v GUILED GUILING GUILESto beguileGUILEFUL adj cunningGUILT v GUILTED GUILTING GUILTSto cause someone to feel guiltyGUILTY adj GUILTIER GUILTIESTworthy of blame for an offenseGUILTILY advGUIMPE n pl GUIMPESa short blouseGUINEA n pl GUINEASa formerly used British coinGUINEP n pl GUINEPSgenipGUIPURE n pl GUIPURESa type of laceGUIRO n pl GUIROSa percussion instrumentGUISARD n pl GUISARDSa maskerGUISE v GUISED GUISING GUISESto disguiseGUITAR n pl GUITARSa stringed musical instrumentGUITGUIT n pl GUITGUITSa tropical American birdGUL n pl GULSa design in oriental carpetsGULAG n pl GULAGSa forcedlabor campGULAR n pl GULARSa scale on the throat of a reptile or fishGULCH n pl GULCHESa deep narrow ravineGULDEN n pl GULDENSa guilderGULES n pl GULESthe color redGULF v GULFED GULFING GULFSto swallow upGULFIER comparative of gulfyGULFIEST superlative of gulfyGULFLIKE adj resembling a deep chasmGULFWEED n pl GULFWEEDSa brownish seaweedGULFY adj GULFIER GULFIESTfull of whirlpoolsGULL v GULLED GULLING GULLSto deceiveGULLABLE adj gullibleGULLABLY advGULLERY n pl GULLERIESa place where gulls webfooted seabirds breedGULLET n pl GULLETSthe throatGULLEY n pl GULLEYSa ravineGULLIBLE adj easily deceivedGULLIBLY advGULLWING adj hinged at the top to swing upwardGULLY v GULLIED GULLYING GULLIESto form ravines by the action of waterGULOSITY n pl GULOSITIESgluttonyGULP v GULPED GULPING GULPSto swallow rapidlyGULPER n pl GULPERSone that gulpsGULPY adj GULPIER GULPIESTmarked by gulpingGUM v GUMMED GUMMING GUMSto smear seal or clog with gum a sticky viscid substanceGUMBALL n pl GUMBALLSa small ball of chewing gumGUMBO n pl GUMBOSthe okra plantGUMBOIL n pl GUMBOILSan abscess in the gumGUMBOOT n pl GUMBOOTSa rubber bootGUMBOTIL n pl GUMBOTILSa sticky clayGUMDROP n pl GUMDROPSa chewy candyGUMLESS adj having no gumGUMLIKE adj resembling gumGUMLINE n pl GUMLINESthe edge of the gums meeting the teethGUMMA n pl GUMMAS or GUMMATAa soft tumorGUMMED past tense of gumGUMMER n pl GUMMERSone that gumsGUMMI n pl GUMMISa rubbery flavored candyGUMMIER comparative of gummyGUMMIEST superlative of gummyGUMMILY adv in a toothless mannerGUMMING present participle of gumGUMMITE n pl GUMMITESa mixture of various mineralsGUMMOSE adj gummyGUMMOSIS n pl GUMMOSESa disease of plantsGUMMOUS adj gummyGUMMY adj GUMMIER GUMMIESTresembling gumGUMPTION n pl GUMPTIONSshrewdnessGUMSHOE v GUMSHOED GUMSHOEING GUMSHOESto investigate stealthilyGUMTREE n pl GUMTREESa tree that yields gumGUMWEED n pl GUMWEEDSa plant covered with a gummy substanceGUMWOOD n pl GUMWOODSthe wood of a gumtreeGUN v GUNNED GUNNING GUNSto shoot with a gun a portable firearmGUNBOAT n pl GUNBOATSan armed vesselGUNDOG n pl GUNDOGSa hunting dogGUNFIGHT v GUNFOUGHT GUNFIGHTING GUNFIGHTSto fight with gunsGUNFIRE n pl GUNFIRESthe firing of gunsGUNFLINT n pl GUNFLINTSthe flint in a flintlockGUNGE v GUNGED GUNGING GUNGESto obstruct with gunky materialGUNGY adj GUNGIER GUNGIESTgunkyGUNITE n pl GUNITESa mixture of cement sand and waterGUNK v GUNKED GUNKING GUNKSto cause something to be gunkyGUNKHOLE v GUNKHOLED GUNKHOLING GUNKHOLESto make a series of short boat tripsGUNKY adj GUNKIER GUNKIESTfilthy sticky or greasyGUNLESS adj having no gunGUNLOCK n pl GUNLOCKSthe mechanism which ignites the charge of a gunGUNMAN n pl GUNMENone who is armed with a gunGUNMETAL n pl GUNMETALSa dark gray colorGUNNED past tense of gunGUNNEL n pl GUNNELSa marine fishGUNNEN past participle of ginGUNNER n pl GUNNERSone that operates a gunGUNNERA n pl GUNNERASa plant with large leavesGUNNERY n pl GUNNERIESthe use of gunsGUNNING n pl GUNNINGSthe sport of hunting with a gunGUNNY n pl GUNNIESa coarse fabricGUNNYBAG n pl GUNNYBAGSa bag made of gunnyGUNPAPER n pl GUNPAPERSa type of explosive paperGUNPLAY n pl GUNPLAYSthe shooting of gunsGUNPOINT n pl GUNPOINTSthe point or aim of a gunGUNPORT n pl GUNPORTSan opening in a ship or airplane for a gunGUNROOM n pl GUNROOMSa room on a British warshipGUNSEL n pl GUNSELSa gunmanGUNSHIP n pl GUNSHIPSan armed helicopterGUNSHOT n pl GUNSHOTSa projectile fired from a gunGUNSIGHT n pl GUNSIGHTSa device on a gun for aimingGUNSMITH n pl GUNSMITHSone who makes or repairs firearmsGUNSTOCK n pl GUNSTOCKSthe rear wooden part of a rifleGUNTER n pl GUNTERSa type of sailGUNWALE n pl GUNWALESthe upper edge of a ships sideGUPPY n pl GUPPIESa small tropical fishGURDWARA n pl GURDWARASa Sikh templeGURDY n pl GURDIESa winch on a fishing boatGURGE v GURGED GURGING GURGESto swirlGURGLE v GURGLED GURGLING GURGLESto flow with bubbling soundsGURGLET n pl GURGLETSgogletGURGLY adj GURGLIER GURGLIESTmaking bubbling soundsGURNARD n pl GURNARDSa marine fishGURNET n pl GURNETSa gurnardGURNEY n pl GURNEYSa wheeled cotGURRY n pl GURRIESfish offalGURSH n pl GURSHESqurshGURU n pl GURUSa Hindu spiritual teacherGURUSHIP n pl GURUSHIPSthe office of a guruGUSH v GUSHED GUSHING GUSHESto flow forth forcefullyGUSHER n pl GUSHERSa gushing oil wellGUSHY adj GUSHIER GUSHIESToverly sentimentalGUSHILY advGUSSET v GUSSETED GUSSETING GUSSETSto furnish with a reinforcing piece of materialGUSSIE v GUSSIED GUSSYING GUSSIESto gussyGUSSY v GUSSIED GUSSYING GUSSIESto dress up in fine or showy clothesGUST v GUSTED GUSTING GUSTSto blow in gusts sudden blasts of windGUSTABLE n pl GUSTABLESa savory foodGUSTIER comparative of gustyGUSTIEST superlative of gustyGUSTILY adv in a gusty mannerGUSTLESS adj having no gustsGUSTO n pl GUSTOES or GUSTOSvigorous enjoymentGUSTY adj GUSTIER GUSTIESTblowing in gustsGUT v GUTTED GUTTING GUTSto remove the guts intestines ofGUTFUL n pl GUTFULSan excessive amountGUTLESS adj lacking courageGUTLIKE adj resembling gutsGUTSILY adv in a gutsy mannerGUTSY adj GUTSIER GUTSIESTbraveGUTTA n pl GUTTAEa drop of liquidGUTTATE adj resembling a dropGUTTATED adj guttateGUTTED past tense of gutGUTTER v GUTTERED GUTTERING GUTTERSto form channels for draining off waterGUTTERY adj marked by extreme vulgarity or indecencyGUTTIER comparative of guttyGUTTIEST superlative of guttyGUTTING present participle of gutGUTTLE v GUTTLED GUTTLING GUTTLESto eat rapidlyGUTTLER n pl GUTTLERSone that guttlesGUTTURAL n pl GUTTURALSa throaty soundGUTTY adj GUTTIER GUTTIESTmarked by courageGUV n pl GUVSa governorGUY v GUYED GUYING GUYSto ridiculeGUYLINE n pl GUYLINESa rope chain or wire used as a braceGUYOT n pl GUYOTSa flattopped seamountGUZZLE v GUZZLED GUZZLING GUZZLESto drink rapidlyGUZZLER n pl GUZZLERSone that guzzlesGWEDUC n pl GWEDUCSgeoduckGWEDUCK n pl GWEDUCKSgeoduckGWINE a present participle of goGYBE v GYBED GYBING GYBESto shift from side to side while sailingGYM n pl GYMSa room for athletic activitiesGYMKHANA n pl GYMKHANASan athletic meetGYMNASIA npl gymsGYMNAST n pl GYMNASTSone who is skilled in physical exercisesGYMSLIP n pl GYMSLIPSa sleeveless tunic often worn by schoolgirlsGYNAECEA npl gyneciaGYNAECIA npl gyneciaGYNANDRY n pl GYNANDRIESthe condition of having both male and female sexual organsGYNARCHY n pl GYNARCHIESgovernment by womenGYNECIC adj pertaining to womenGYNECIUM n pl GYNECIAthe pistil of a flowerGYNECOID adj resembling a womanGYNIATRY n pl GYNIATRIESthe treatment of womens diseasesGYNIE n pl GYNIESa gynecologistGYNO n pl GYNOSa gynecologistGYNOECIA npl gyneciaGYOZA n pl GYOZASa stuffed and fried pocket of doughGYP v GYPPED GYPPING GYPSto swindleGYPLURE n pl GYPLURESa synthetic attractant to trap gypsy mothsGYPO n pl GYPOSa smalltime logging operatorGYPPER n pl GYPERSone that gypsGYPPO n pl GYPPOSgypoGYPSEIAN adj of or pertaining to gypsiesGYPSEOUS adj containing gypsumGYPSTER n pl GYPSTERSone that gypsGYPSUM n pl GYPSUMSa mineralGYPSY v GYPSIED GYPSYING GYPSIESto live like a gypsy a wandererGYPSYDOM n pl GYPSYDOMSthe realm of gypsiesGYPSYISH adj resembling a gypsyGYPSYISM n pl GYPSYISMSthe mode of life of gypsiesGYRAL adj gyratoryGYRALLY advGYRASE n pl GYRASESan enzymeGYRATE v GYRATED GYRATING GYRATESto revolve or rotateGYRATION n pl GYRATIONSthe act of gyratingGYRATOR n pl GYRATORSone that gyratesGYRATORY adj moving in a circle or spiralGYRE v GYRED GYRING GYRESto move in a circle or spiralGYRENE n pl GYRENESa marineGYRI pl of gyrusGYRO n pl GYROSa gyroscopeGYROIDAL adj spiral in arrangementGYRON n pl GYRONSa heraldic designGYROSE adj marked with wavy linesGYROSTAT n pl GYROSTATSa type of stabilizing deviceGYRUS n pl GYRIa ridge in the brainGYTTJA n pl GYTTJASan organically rich mudGYVE v GYVED GYVING GYVESto shackle")`
+entry(ha, n, [has], "ibangbe iyalenu").
+entry(haaf, n, [haafs], "ibiti aarin okun fun ipeja").
+entry(haar, n, [haars], "àìmí").
+entry(habanera, n, [habaneras], "ijo ara Cuban").
+entry(habanero, n, [awọn èso habanero], "àtà tàbí òróró oyinbo tí ń jó gan-an").
+entry(habdalah, n, [habdalahs], "ayeye Juu kan").
+entry(habendum, n, [awọn habendum], "apakan iwe ti o ṣe idiwọn iwọn lilo ti nini").
+entry(habile, adj, [], "oniṣé").
+entry(ibáàjẹ́, v, [ibáàjẹ́tẹ̀, ibáàjẹ́tíng, ibáàjẹ́], "láti wòṣànyán tàbí ṣétọ́").
+entry(habitan, n, [habitans], "olugbe Faranshe").
+entry(habitant, n, [awon_habitant], "olugbe").
+entry(ibugbe, n, [awọn ibugbe], "ayika adayeba ti ẹda alãye kan").
+entry(habitual, adj, [], "n occur ni igbagbogbo tabi nigbagbogbo").
+ẹgbẹ(habitude, n, [habitudes], "ẹ̀kọ́ ìṣe àtẹnudé").
+entry(habitue, n, [habitues], "onibara igbagbogbo").
+entry(habitus, n, [habitus], "ara ati ete ara").
+entry(haboob, n, [awọn haboob], "ijọba iyanrin ti o lagbara").
+entry(habu, n, [awọn habus], "ejò ipanilara").
+entry(hacek, n, [haceks], "àmì kan tí a fi s'órí lẹ́tà láti yí i padà").
+entry(hachure, v, [hachured,hachuring,hachures], "láti ṣe Ẹgẹ́ lórí maápù").
+entry(hacienda, n, [awọn-hacienda], "ìní kan").
+entry(hack, v, [hacked,hacking,hacks], "lati ge tabi fa roughlyHACKABLE adj").
+entry(hackbut, n, [hackbuts], "iru ibon kan").
+entry(hackee, n, [hackees], "a chipmunk").
+entry(hacker, n, [hackers], "ẹni tí ó ń hẹ́kú").
+entry(hákẹ́rì, n, [hákẹ́rì], "kọ̀wé aláìlöṣù").
+entry(hackie, n, [awọn oludari takisi], "ẹni tí ń dà ọdẹ̀ takisi").
+entry(hacking, n, [hackings], "iṣẹ́ ìrìn ọkọ̀ ẹṣin fún ìdárayá").
+entry(hackle, v, [hackled,hackling,hackles], "lat lati fọ").
+entry(hackler, n, [hacklers], "ẹni tí ó gba").
+entry(hackly, adj, [], "HACKLIER HACKLIESTjagged").
+entry(hackman, n, [hackmen], "ẹlẹsẹ̀ ẹlẹ́rọ").
+entry(hackney, v, [hackneyed, hackneying, hackneys], "lati jẹ ki o wọpọ").
+entry(hacksaw, v, [hacksawed,hacksawn,hacksawing], "lo fun igbesẹ pẹlu ate agbarameji ti o ni ehín finifini").
+entry(hackwork, n, [hackworks], "ise adahun ni ona ti o pin si ilana").
+entry(ni, a, [], "àṣàwọ̀ ti ní").
+entry(hadal, àsìá, [], "tó ní í ṣe pẹ̀lú apá tó jinlẹ̀ ti Òkun").
+entry(hadarim, a, [], "pl ti heder").
+entry(haddest, a, [], "ẹ̀sẹ̀ 2d ẹni kẹ́ta lọ́wọ́ ti ní").
+entry(haddock, n, [awọn eja haddock], "eja ounjẹ").
+entri(hade, v, [haded, hading, hades], "lati ṣe amojuto").
+entry(hadith, n, [hadith], "tabi HADITHS igbasilẹ awọn ọrọ Muhammed").
+entry(hadj, n, [hadjes], "irin ajo mimọ lọ sí Mecca").
+entry(hadjee, n, [hadjees], "hadji").
+entry(hadji, n, [hadjis], "ẹnikan ti o ti ṣe hadj").
+entry(hadron, n, [hadrons], "patikulu ipilẹHADRONIC adj").
+agbeyewo(hadst, a, [], "asoju eniyan keji ti o ti koja ti 'ni'").
+entry(hae, v, [haed, haen, haeing], "HAEItọ ni").
+entry(haem, n, [haems], "hẹm").
+entry(haemal, asọ, [], "hemal").
+entry(haematal, afijẹẹri, [], "hemal").
+entry(aimatik, n, [aimatik], "hematic").
+entry(haematin, n, [haematins], "hematin").
+entry(haemic, adj, [], "hemic").
+entry(haemin, n, [awonhaemin], "hemin").
+entry(haemoid, adj, [], "hemoid").
+entry(haen, igbạná, [], "pátísípùlù ti hae").
+entry(haeres, n, [haeredes], "àjísèbí").
+entry(haet, n, [haets], "iye kekere").
+entry(haffet, n, [haffets], "egun ibilẹ ati ibusọ oju").
+entry(haffit, n, [haffits], "haffet").
+entry(hafiz, n, [awọn hafiz], "Musulumi ti o mọ Kuran ni ọkan rẹ").
+entry(hafnium, n, [awọn hafnium], "ẹya irin kan").
+entry(haft, v, [hafted,hafting,hafts], "lati pese pẹlu mu").
+entry(haftara, n, [haftaras], "tabi HAFTAROT tabi HAFTAROTHhaphtara").
+entry(haftarah, n, [haftarahs], "tabi HAFTAROS tabi HAFTAROT tabi HAFTAROTHhaphtara").
+entry(hafter, n, [hafters], "ẹnikan ti o n ṣe ẹrọ").
+entry(haftorah, n, [haftorahs], "tabi HAFTOROT tabi HAFTOROTHhaphtara").
+entry(hag, v, [hagged,hagging,hags], "lati fọ").
+entry(hagadic, adj, [], "haggadic").
+entry(hagadist, n, [awọn hagadists], "alamọja haggadic").
+entry(hagberry, n, [hagberries], "agogun kekere").
+entry(hagborn, adaj, [], "ti eyewe iya osó").
+entry(hagbush, n, [awọn hagbush], "igi nla").
+entry(hagbut, n, [hagbuts], "haggbọtì").
+entry(hagdon, n, [hagdons], "ẹyẹ omi").
+entry(hagfish, n, [hagfishes], "eja to dabi alakan").
+entry(haggada, n, [haggadas,haggadot], "tabi HAGGADOTHhaggadah").
+entry(haggadah, n, [haggadahs], "tabi HAGGADOT tabi HAGGADOTItan ninu BibeliHAGGADIC ajd").
+entry(haggard, n, [haggards], "ado agbanrere agbẹ").
+entry(hagged, ti o kọja, [], "tense ti hag").
+entry(hagging, lọwọlọwọ, [], "páàtísípúlì ti hag").
+entry(haggis, n, [haggises], "ounjẹ ara Scotland ti a ṣe pẹlu inu ẹran-ọmọya ti a ge, ti a fi atọwọdọwọ pọ, ati ti a ṣe sinu apo").
+entry(haggish, aj, [], "gẹ́gẹ́ bí ìyá àgbàlagbà").
+entry(haggle, v, [haggled,haggling,haggles], " lati ṣowo").
+ìforúkọ(haggler, n, [hagglers], " ẹni tí ó máa ń dúnàádùfá").
+entry(laluye, n, [laluyelaluye], "ìdúnàádúnà nípa owó").
+entry(hagride, v, [hagrode,hagridden,hagriding], "HAGRIDEto lepa").
+entry(hagrider, n, [hagriders], "ẹni tó n fi bàtà gun ẹṣin-ẹranko").
+entry(hah, n, [hahs], "ha").
+entry(haha, n, [hahas], "ọgbà kan tí a dá sí kòtò kan").
+entry(hahniomu, n, [hahniomus], "ẹya eroja aláwọ́ràntì").
+entry(haick, n, [haicks], "haik").
+entry(haik, n, [haiks], "tabi HAIKA, aṣọ odi ti a wọ nipasẹ awọn eniyan Arabu").
+entry(haiku, n, [haikus], "ewì aramada Japan").
+entry(hail, v, [hailed,hailing,hails], "láti kí");
+entry(hailer, n, [hailers], "eyi ti o nta").
+entry(haimish, aj, [], "ayé oníláthe").
+entry(haint, n, [haints], "ẹmi ayé").
+entry(irun, n, [awọn irun], "a threadlike growth").
+entry(hairball, n, [hairballs], "bọọlu irun").
+entry(hairband, n, [hairbands], "ete orí").
+entry(haircap, n, [awọn irun ilẹkun], "fila").
+entry(ge irun, n, [ge irun], "gige irun").
+entry(iruniloju, n, [iruniloju], "akọsilẹ lati ṣe irun ni ọna kan").
+entry(haired, aami, [], "ní irun").
+entry(hairgrip, n, [hairgrips], "pin-moja fun irun").
+entry(hairier, comparative, [], "ti hairy").
+entry(hairiest, superlative, [], "ti irun").
+entry(hairily, adv, [], "ni ọna irunrẹrẹ").
+entry(hairless, aj, [], "fẹlẹfẹlẹ irun ko").
+entry(hairlike, adj, [], "bí irun").
+entry(hairline, n, [awọn ila tinrin pupọ], "ila tinrin pupọ kan").
+entry(hairlock, n, [hairlocks], "ìtàlẹ̀tẹ̀ irun").
+entry(irunnet, n, [irunneti], "apo irun ti a maa n lo lati mu irun kuro ni ibi").
+entry(hairpin, n, [hairpins], "ohun eleyi ti o fi pin irun").
+entry(hairwing, n, [hairwings], "ohun ifamọra ipeja ti a so pelu irun").
+entry(hairwork, n, [hairworks], "ṣiṣe awọn nkan lati irun").
+entry(hairworm, n, [hairworms], "ẹranko àbáláyà kan").
+entry(hairy, àpẹẹrẹ, [], "HAIRIER HAIRIESTtí ó ní irun pẹ̀lú irun").
+entry(haj, n, [hajes], "hadj").
+entry(haji, n, [awọn hajis], "hadji").
+entry(hajj, n, [hajjes], "hadji").
+entry(hajji, n, [hajjis], "hadji").
+entry(hake, n, [hakes], "eja omi okun").
+entry(hakeem, n, [awọn_hakeem], "hakim").
+entry(hakim, n, [hakims], "dokita Musulumi").
+entry(haku, n, [hakus], "ade ododo").
+entry(halacha, n, [halachas], "tabi HALACHOT tabi HALACHOTH apakan ofin ti TalmudHALACHIC adj").
+entry(halakah, n, [halakahs], "tabi HALAKOTHhalachaHALAKIC adj").
+entry(halakha, n, [halakhas], "tabi HALAKHOThalachaHALAKHIC adj").
+entry(halakhah, n, [halakhahs], "tabi HALAKHOTH tabi HALAKHOThalachaHALAKHIC adj").
+entry(halakist, n, [awọn halakists], "onkọwe ṣekeli").
+entry(halakoth, a, [], "pl ti halakah").
+entry(halal, n, [awọn halals], "ẹran ti a ti ṣeto ni ibamu pẹlu ofin Islam").
+entry(halala, n, [awọn halala], "owo ilẹ Saudi Arabia").
+entry(halalah, n, [awọn halalah], "halala").
+entry(halation, n, [halations], "èé kan tó ń wínkè tí ń bùjọ̀kú ní fọ́tò").
+entry(halavah, n, [halavahs], "halvah").
+entry(halazone, n, [awọn_halazone], "olutọju fun omi mímu").
+entry(halberd, n, [halberds], "ibọn ti o dabi ọkọ ọwọ ti awọn ọrundun 15th ati 16th").
+entry(halbert, n, [halberts], "halberdi").
+entry(halcyon, n, [halcyons], "ẹyẹ arosọ").
+entry(hale, ajẹ., [], "HALER HALEStí ilera").
+entry(hale, v, [haled,haling,hales], "lati fi ipa lati lọ").
+entry(ilera, n, [ileras], "ipinle ti nini ara to dara").
+entry(haler, n, [halers], "tabi HALERUẸ̀yìí ni owó ilẹ̀ Czech").
+entry(halest, superlative, [], "ti hale").
+entry(half, n, [halves], "kẹ́ẹ̀kan ninu àwọn ìdàmẹ́wàá méjì tó dọ́gba").
+entry(halfback, n, [awonhalfbacks], "eniyan tipa boolu afẹsẹgba").
+entry(idojutini, n, [awọn_idojutini], "eja omi okun").
+entry(halflife, n, [halflives], "iṣe adiyan ti ipinsi ida").
+entry(halfness, n, [halfnesses], "ipo ti jijẹ idaji").
+entry(halfpipe, n, [halfpipes], "ójú òpópónà iròkò tí ó dá iròkèé tí a ń lò fún skateboard").
+entry(agbelebu, n, [agbelebus], "idaji akoko ninu ere boolu afẹsẹgba").
+entry(halftone, n, [Awọn halftones], "iboji laarin imọlẹ ati dudu").
+entry(arin, adj, [], "jẹ́ ní àárín").
+entry(halfwit, n, [awọn alaburuku], "ẹnikan alaimọran tabi aṣiwere").
+entry(halibut, n, [awon_halibut], "eja eleke").
+entry(halid, n, [halids], "halide").
+entry(halide, n, [halides], "ipòòyà kemikali kan").
+entry(halidom, n, [halidoms], "nkan mimọ").
+entry(halidome, n, [halidomes], "halidom").
+entry(halier, n, [haliers], "tabi HALIEROVe ijanu-an owo Slovakia tele").
+entry(haling, lọwọlọwọ, [], "participle ti hale").
+entry(haliotis, n, [], "pl HALIOTIS afurugbin omi kan pelu ikarahin ti o dabi eti").
+entry(halite, n, [awọn halites], "okuta kan").
+entry(halitus, n, [awọn halituses], "ẹmi ti a fa jade").
+entry(agbala, n, [awọn agbala], "iyara nla fun ipade").
+entry(hallah, n, [hallahs], "tabi HALLOTH tabi HALLOTchallah").
+entry(hallal, adj, [], "ti a ti ṣeto ni ibamu si ofin Islam").
+entry(hallel, n, [hallels], "orin iyin").
+entry(halliard, n, [halliards], "okùn odi").
+entry(afihan, v, [afihaned, afihaning, afihan], "lati samisi pẹlu ami iṣojuwọle osise").
+entry(hallo, v, [halloed,halloing,hallos], "tabi HALLOES lati pariwo").
+entry(halloa, v, [halloaed,halloaing,halloas], "si hallo").
+entry(halloo, v, [hallooed,hallooing,halloos], "láti mûrè").
+entry(hóónú, a, [], "pl ti èyà hàlàá").
+entry(halloth, a, [], "pl of hallah").
+entry(hallow, v, [tìtánsín, títánsín, tínsín], "láti mú dí mímó").
+entry(hallower, n, [hallowers], "ẹni ti o mú àlááfíà wa").
+entry(hallux, n, [halluces], "itosi nlaHALLUCAL adj").
+entry(agbegbe_ilu, n, [agbegbe_ilu], "agbegbe kan").
+entry(halm, n, [halms], "haulm").
+entry(halma, n, [halmas], "ere ibo").
+entry(halo, v, [haloed,haloing,halos], "tabi HALOESto ṣe agbekalẹ halo, oruka ina").
+entry(halojen, n, [awọn halojeni], "ẹya anwẹ ti kii ṣe irin").
+entry(haloid, n, [haloids], "iyọ kemikali").
+entry(halolike, aj, [], "to dabi aura").
+entry(halon, n, [awọn halons], "ọpọ ti karbonu ati bromini").
+entry(dakẹ́, v, [dákẹ́, dákẹ́tán, dáàkẹ́], "láti dáwọ́ dúró").
+entry(halter, v, [fi_halte_si,fi_n_halte,n_ni_halte], "lati fi idena le lori").
+entry(haltere, n, [halteres], "ẹ̀ka ìyẹ̀ ejò kan").
+entry(haltless, afijẹ, [], "kii ṣe idaduro").
+entry(halutz, n, [halutzim], "agbe Israeli").
+entry(halva, n, [halvas], "halva").
+entry(halvah, n, [halvahs], "ounje kan ti turki").
+entry(fẹlẹ, v, [fẹlẹ̀,fẹlẹ̀fẹlẹ̀,fẹlẹ́], "láti pín sí ìpín méjì tó dọ́gba").
+entry(halvers, n, [halvers], "ida kekere").
+entry(halves, pl, [], "ti idaji").
+entry(halving, n, [halvings], "iṣe ti idapo igi pẹlu gige idaji sisanra kọọkan jade").
+entry(halwa, n, [halwas], "ounje ibile India to dun").
+entry(halyard, n, [awọn okun igi agbara], "okùn kan ti a nlo lati gbe ọkọ oju omi soke").
+iwọle(ham, v, [hammed,hamming,hams], "ṣe igbesẹ ju").
+entry(hamada, n, [hamadas], "hammada").
+entry(hamal, n, [awọn hamal], "onípakò ní ilẹ̀ àriwa-ìlà-õrùn").
+entry(hamartia, n, [hamartias], "aibikita iwa").
+entry(hamate, n, [hamates], "egungun ọwọ́").
+entry(hamatsa, n, [hamatsas], "ijo ti o ni iwuri lati ẹmi ẹda apanirun eniyan").
+entry(hamaul, n, [hamauls], "hamal").
+entry(hambone, v, [hamboned,hamboning,hambones], "ṣe ohun gíga").
+entry(hamburg, n, [hamburgs], "adalu ẹran-ẹlẹdẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ ilẹ").
+entry(hame, n, [hames], "apa kan ti kola ẹṣin").
+entry(hamfat, n, [hamfats], "oníṣẹ́ ìṣere aláìní ọlọ́rọ̀").
+entry(hamlet, n, [hamlets], "ilu kekere").
+entry(hammada, n, [hammadas], "ibùdó àpáàgẹ̀ pàtó ti ilẹ̀ àrán").
+entry(hammal, n, [awọn_ẹru], "hamal").
+entry(hammam, n, [awọn hammam], "ibi wẹ ọṣọ Tọọkiisi").
+entry(hammed, ti o koja, [], "tẹnsì ti ham").
+entry(guruguru, v, [guruguru,nguruguru,guruguru], "lati lu leralera").
+entry(hammerer, n, [hammerers], "eyiti n gba").
+entry(hammier, comparative, [], "ti hammy").
+entry(ti o jẹ hammiest, superlative, [], "ti o jẹ ti hammy").
+entry(hammily, adv, [], "ninu ọna hammy").
+entry(hamming, bayi, [], "participle ti ham").
+entry(hamọk, n, [wọnki hamọk], "kòtì alárin").
+entry(hammy, adj, [], "HAMMIER HAMMIESTọtitọ afarawe").
+entry(idi, v, [di, ntidi, idi], "lati dena").
+entry(oludina, n, [awọn oludina], "ẹni tí ó dina").
+entry(hámísítà, n, [hámísítàsì], "eranko alẹ").
+entry(hamulus, n, [hamuli], "awọn kúkúrú kan nkan ngban yafi kekereHAMULAR HAMULATE HAMULOSE HAMULOUS adj").
+entry(hamza, n, [hamzas], "ami kan litireso Arabia").
+entry(hamzah, n, [hamzahs], "hamza").
+entry(hanaper, n, [hanapers], "abo wicker kan").
+agbeyẹwo(hance, n, [hances], "ẹ̀gbẹ́ ìgbèrí àjọṣe").
+entry(ọwọ, v, [fẹ́, fẹ́rẹ́, ọwọ́], "láti fún pẹ̀lú ọwọ́ ìparí apa loke ọwọ́").
+entry(handax, n, [handaxes], "ọbẹ́ ọwọ́ kéékèèké").
+entry(apamọ̀, n, [apamọ̀], "àpamọ̀ kékeré kan").
+entry(handball, n, [awọn boolu ọwọ], "boolu kekere roba").
+entry(agbèlè, n, [agbèlès], "agogo kekere ti o ni ìdàkẹta").
+entry(handbill, n, [handbills], "akọwẹ-ikọ").
+entry(handbook, n, [awon_handbooks], "iwe itoni").
+entry(handcar, n, [awọn ẹ̀rùpàkò], " ọkọ̀ ojúirin tí a ń fòfòta").
+entry(handcart, n, [ẹrẹkẹkẹ ọwọ], "ẹrẹkẹkẹ ti a maa n tẹ pẹlu ọwọ").
+entry(handclap, n, [handclaps], "a mạ́yẹ̀kọ́pọ̀ àwọn àjàrà ọwọ́").
+entry(handcuff, v, [handcuffed,handcuffing,handcuffs], "lati fi ewé kòké-orùn kòkọ").
+entry(hander, n, [awọn oníbámu], "ẹni tí ń bámu").
+ẹkunrẹrẹ(handfast, f, [handfasted,handfasting,handfasts], "láti dì mù gbígbò").
+entry(handful, n, [handfuls], "tabi HANDSFULbi o ti jẹ pe ọwọ le mu").
+entry(handgrip, n, [handgrips], "igripi nipa ọwọ tabi awọn ọwọ").
+entry(ibọn ọwọ, n, [ibọn ọwọ], "ibọn kekere kan").
+entry(handheld, n, [awọn ohun elo ọwọ], "nkan ti a mu ninu ọwọ").
+entry(handhold, n, [handholds], "ohun mu ọwọ").
+entry(handicap, v, [alaabo,ti ndina,alaabo], "lati dena").
+ìwọlé(handier, ìjálápọn, [], "ti handy").
+entry(handiest, superlative, [], "ti o rọọ-run jù").
+entry(handily, adv, [], "ni ọna ti o rọrun").
+entry(handle, v, [handled,handling,handles], "lati fara pa pẹlu ọwọ").
+ìbẹ̀rẹ̀(olùdarí, n, [àwọn_olùdarí], "ẹni tí ó ń tọjú").
+entry(handless, ajẹ, [], "tí kò ní ọ̀wọ́").
+entry(handlike, adj, [], "bi ọwọ").
+entry(handline, n, [okàn-ọwọ́], "okùn ìpeja tí a ń ṣiṣẹ́ pẹ̀lú ọwọ́").
+entry(itọju, n, [itọju], "bii ohun kan ṣe jẹ itọju").
+ipin(akawe, n, [akawe], "awon itaniji").
+entry(handloom, n, [handlooms], "keta aso pẹlu ọwọ").
+entry(handmade, adj, [], "ṣe ọwọ́").
+entry(handmaid, n, [awon-iransebinrin], "iransebinrin kan").
+entry(handoff, n, [handoffs], "ere ni boolu afẹsẹgba").
+entry(handout, n, [awọn iwe ajako], "nkan ti a fun ni ọfẹ").
+entry(fifunni, n, [fifunnis], "ṣẹ̀ṣẹ̀ sísọ àwọn ìtó àti ìṣàkóso").
+entry(handpick, v, [handpicked,handpicking,handpicks], "lati yan pẹ̀lẹ́pẹ̀lẹ́").
+entry(handrail, n, [handrails], "okó ìgbàlódé tí a n lo fún díde").
+entry(handsaw, n, [handsaws], "iru gige kan ti a n lo nipa ọwọ").
+entry(handsel, v, [handseled,handseling,handsels], "tabi HANDSELLED HANDSELLING HANDSELSo fun ebun si").
+entry(foonu, n, [awọn foonu], "iru tẹlifoonu kan").
+entry(handsewn, adj, [], "ti a hun pẹlu ọwọ").
+entry(handsful, a, [], "pl ti handful").
+entry(alayepada, aj, [], "ALAYEPADAMORE ALAYEPADAMOSTattractive").
+entry(ọwọ́ iṣẹ́, n, [ọwọ́ iṣẹ́], "iṣẹ́ ọwọ́").
+entry(ọrọọbẹ, afimo, [], "kọ nipa ọwọ").
+entry(handy, adj, [], "RỌRỌ JU LATI MÚ LỌJÚ LATI MÁA MÚ").
+entry(handyman, n, [awon eniyan ti o n se ise ode], "eniyan ti o n se ise ise kekere").
+entry(hang, v, [hanged,hanging,hangs], "lati dàmọ́ láti òkè onlyHANGABLE adj").
+entry(hangar, v, [hangared,hangaring,hangars], "lati gbe sinu ibi aabo oko ofurufu").
+entry(ẹiyẹ, n, [ẹiyẹmọ], "iru ẹiyẹ kan").
+entry(hangdog, n, [awọn hangdogs], "ẹni amíni").
+entry(hanger, n, [awọn_asun], "ẹni tí ń jẹ́ kí o wẹ̀mú").
+entry(hangfire, n, [hangfires], "aîna kan ninu atokun bomu ni ipamo").
+entry(ígé, n, [ígé], "ìkú nínú ojú wẹ́rẹ́ tí ń lo ọ̀kà ńlá").
+entry(hangman, n, [awọn ajinigbe], "elédá inú").
+entry(hangnail, n, [hangnails], "agbo ṣiekẹ").
+entry(hangnest, n, [hangnests], "ẹyẹ hang").
+entry(hangout, n, [awọn ibi hangout], "ibi ti a maa n ṣabẹwo nigbagbogbo").
+entry(hangover, n, [ètan], "àwọn ipa ara tí ó tẹ̀lé tẹ ayé").
+entry(hangtag, n, [hangtags], "irú àmì tí a máa ń lò nípa ìṣòwò").
+entry(hangul, n, [], "èdè aiyẹ́kó-èdè Kòríà").
+entry(hangup, n, [awọn idena], "idena tabi ifamọra").
+entry(haniwa, npl, [], "Ṣẹdá Ìkan ilẹ̀ Japan").
+entry(hank, v, [dí, ńdí, máa ń dí), "láti dì irinsẹ̀."
+entry(hanker, v, [hankered,hankering,hankers], "lati fẹ́ràn").
+entry(onipẹ̀yẹ̀, n, [awọn_onipẹ̀yẹ̀], "ẹni tí ó n pẹ̀yẹ̀").
+entry(hankie, n, [awon_hankie], "hanky").
+entry(hanky, n, [hankies], "ilékeji").
+entry(hansa, n, [awọn hansas], "hanse").
+entry(hanse, n, [hanses], "ẹgbẹ́ àwọn oníṣòwò").
+entry(hansel, v, [hanseled,hanseling,hansels], "tabi HANSELLED HANSELLING HANSELSti handsel").
+entry(hansom, n, [awọn hansom], "kẹrẹrin fifẹ").
+entry(hant, v, [hanted,hanting,hants], "lati hant").
+entry(hantle, n, [awọn pupọ], "iye nla").
+entry(hanuman, n, [hanumans], "ẹranko kedindi ti orílẹ̀-èdùmí Asia").
+entry(hao, n, [hao], "ẹyọ owo ti Vietnam").
+entry(hap, v, [happed, happing, haps], "lati ṣẹlẹ").
+entry(hapax, n, [hapaxes], "ọrọ kan ti o waye lẹẹkan ṣoṣo").
+ṣíṣe(haphtara, n, [haphtaras], "tabi HAPHTAROT tabi HAPHTAROTAwọn aṣayan bibeli").
+entry(hapkido, n, [hapkidos], "ẹ̀yà ìkọ́pẹ̀ ní ìṣẹ̀kẹtẹ́ni ti kòríà").
+entry(hapless, adj, [], "alaini ori rere").
+entry(haplite, n, [haplites], "aplaati").
+entry(haploid, n, [haploids], "ẹ̀yà kan ṣoṣo ti chromosome ní sẹ́lù kan").
+entry(haploidy, n, [haploidies], "ipo ti jijẹ haploid").
+entry(haplont, n, [haplonts], "ẹ̀dá alààyè kan tí ó ní ilana mọ́lẹ́kúlù chụ́rọ́mósòmù pàtó kan").
+entry(haplopia, n, [haplopias], "irisi deede").
+entry(haplosis, n, [haploses], "pipin kikuromosu di meji").
+entry(haply, adv, [], "lẹ́sẹ̀kẹsẹ̀").
+entry(happed, ti tẹlẹ, [], "asiko ti hap").
+entry(ṣèlẹ̀, v, [ṣèlẹ̀, nṣèlẹ̀, ṣèlẹ̀], "láti ṣẹlẹ̀").
+entry(happi, n, [happis], "òbìríkítí ara Japani kan tí ó rọ̀").
+entry(happing, tiwa-nisin, [], "participle ti hap").
+entry(ayọ, adj, [], "AYỌ KAN JU AYỌ JULO samisi nipasẹ ayọAYỌ NI adv").
+entry(hapten, n, [haptens], "ohun kan ti o jọ nipa kanHAPTENIC adj").
+entry(haptene, n, [haptenes], "hapteni").
+entry(haptic, adj, [], "nipa si ori ti ifọwọkan").
+entry(haptical, ajẹ., [], "haptic").
+entry(haram, adj, [], "eewọ nipa ofin Islam").
+entry(harangue, v, [harangued, haranguing, harangues], "lati ṣe ọrọ ibinu si").
+ẹnu-ọna(harass, v, [harassed, harassing, harasses], "láti kan sí idẹkun lojoojumọ").
+entry(ajitannilo, n, [ajitannilo], "eni kan ti o njitannilo").
+entry(ibudo, v, [darapọ, n darapọ, n darapọ], "lati pese aabo").
+entry(onibode, n, [onibode], "ẹnikan ti o n gbe ibi aabo").
+entry(ibudo, v, [ibudon,ibudoing,ibudos], "lati ibudo").
+entry(hard, adj, [], "TOBIJU TOBIJULOalagidi ati ailabawọn").
+entry(hardback, n, [awọn ìwé ẹ̀dá duro], "ìwé onígbọ̀ngbọ̀n àpò olówó").
+entry(hardball, n, [hardballs], "bọ́ọ̀lù orílẹ̀-ède Amẹ́ríkà").
+entry(hardbody, n, [hardbodies], "ẹnikan tó wù jókòó tí ó ní ara tó niraṣinṣin").
+entry(hardboot, n, [hardboots], "ẹlẹṣin").
+entry(hardcase, n, [awon eeyan to lagbara], "eni ti o le tabi eni ti o di stubborn").
+entry(hardcore, n, [awọn&nbsp;eri&nbsp;tobi&nbsp;tobi], "ọja&nbsp;ti&nbsp;o&nbsp;lọ́rùn&nbsp;lati&nbsp;lo&nbsp;ni&nbsp;ibi&nbsp;pi&nbsp;tẹ").
+entry(hardedge, n, [hardedges], "aworan onigun-ara").
+entry(le, v, [ti_le, n_bi_le, n_le], "lati mu lagbara").
+entry(onitako, n, [awon_onitako], "eni ti o tako").
+entry(dindinrin, n, [didinrin], "eweko igi").
+entry(hardhat, n, [awọn_kokoro], "eni alaabo").
+entry(hardhead, n, [hardheads], "eniyan ti o wulo").
+entry(hardier, comparative, [], "ti hardy").
+entry(hardies, pl, [], "ti hardy").
+entry(hardiest, superlative, [], "ti hardy").
+entry(hardily, adv, [], "ní ònà ìmòra").
+entry(hardish, adj, [], "jẹ́ bẹ́ẹ̀ gẹ́gẹ́ bi ìnira").
+entry(hardline, adj, [], "ailokuri").
+entry(hardly, adv, [], "kò sẹ́sẹ́").
+entry(hardness, n, [hardnesses], "ipinle ti jij ga'ru").
+entry(hardnose, n, [hardnoses], "ẹni to lagbara").
+entry(hardpack, n, [hardpacks], "yinyin to ti le").
+entry(hardpan, n, [hardpans], "ẹgbẹ́ ilẹ̀ abẹ hard").
+entry(hards, npl, [], "egungun lile ti flax").
+entry(hardset, adj, [], "jinlẹ").
+entry(iponju, n, [iponju], "ipinle lile ati irora").
+entry(hardtack, n, [hardtacks], "biskiti lile kan").
+entry(hardtop, n, [hardtops], "iru ọkọ ayọkẹlẹ").
+wọlé(ẹ̀rọ, n, [ẹ̀rọ aládámọ̀], "ẹ̀rò irin").
+entry(hardwire, v, [hardwired,hardwiring,hardwires], "lati ṣepọ awọn ohun elo itanna lailai").
+entry(hardwood, n, [hardwoods], "irin-kekere lile lile ti eweko orisirisi").
+entry(hardy, adj, [], "KASALA KASALAJULOalagbara gan").
+entry(hardy, n, [hardies], "irinṣẹ oníṣẹ irin").
+entry(àdarí, v, [àdaríd, àdaring, àdarís], "láti sáré").
+entry(harebell, n, [harebells], "ewé kan tí ń gbojú léẹ̀kan").
+entry(hareem, n, [hareems], "hareemu").
+entry(bi-ọ̀bọṣì, ajẹ., [], "ní ibamu pẹ̀lú ọ̀bọ, ẹranko tì bí ẹ̀dá kákaki").
+entry(harelip, n, [harelips], "àwọn ọjọ́gbọ́n ti ètè tó ga").
+entry(harem, n, [harems], "iko gbogbe ile ni ile Musulumi ti a ya sọtọ fun awọn obinrin").
+entry(harewood, n, [harewoods], "igbo sikamori ti a n lo fun aga").
+entry(hariana, n, [harianas], "irú èran-malú kan").
+entry(haricot, n, [ewa oluborowo], "irugbin ti awon ewa orisirisi").
+entry(harijan, n, [harijans], "ẹnikan ti a ko mọ laarin awujọ ni India").
+entry(haring, wa, [], "álábàápín ti hare").
+entry(harissa, n, [harissas], "ọbẹ ilẹ ariwa afirika ti o gbona").
+entry(hark, v, [harked,harking,harks], "lati gbo").
+entry(harken, v, [harkened,harkening,harkens], "lati gbọ́").
+entry(olopolo, n, [olopolos], "ẹni ti o tẹtisi").
+entry(harl, n, [harls], "ẹya kan ti herl").
+entry(harlot, n, [awọn alagbere], "alagbere").
+entry(harlotry, n, [harlotries], "igbégbe").
+entry(harm, v, [harmed, harming, harms], "lati ba omi arami je").
+entry(harmer, n, [harmers], "eyokan ti o se ipalara").
+entry(ni-ipalara, ajẹ, [], "ṣeéṣe ti ṣiṣe ipalara").
+entry(harmin, n, [harmins], "harmini").
+entry(harmine, n, [harmines], "alokoloidi kan ti a n lo gege bi ohun mimu giri").
+entry(alailesa, aj, [], "kii ṣe ipalara").
+entry(harmonic, n, [harmonics], "egbe ohun").
+entry(harmony, n, [harmonies], "ipade").
+entry(harness, v, [harnessed,harnessing,harnesses], "lati fi apẹja sori ẹranko drafu").
+entry(hẹ́àpù, f, [hẹ́àpùd, hẹ́àpùìng, hẹ́àpùs], "láti máa ṣeré lori hẹ́àpù, irú irinṣẹ orin tó ní okun").
+entry(harper, n, [harpers], "olorin harp").
+entry(harpies, pl, [], "ti harpy").
+entry(harpin, n, [harpins], "pipe").
+entry(harping, n, [harpings], "igi kan ti a n lo ninu kiko oko oju omi").
+entry(olola, n, [ololańla], "ẹni tí ń ta olólà").
+entry(gígùn, v, [gígùn, gígùnì, gígùns], "láti ta okun tó ní fẹ́ẹ́").
+entry(harpy, n, [harpies], "eniyan ibinu").
+entry(harridan, n, [awon_harridan], "obinrin eleyamo").
+entry(harried, ti_ose, [], "tense ti harry").
+entry(harrier, n, [harriers], "ajọhun aja kan").
+entry(harries, lowo, [], "ọjọ́ kẹta ẹni kan ṣoṣo ti harry").
+entry(harrow, v, [harrowed,harrowing,harrows], "lati fọ́ ati ṣètò ilẹ̀").
+entry(harrower, n, [awọn harrowers], "ẹniti o nyiyi ilẹ").
+entry(harrumph, v, [harrumphed,harrumphing,harrumphs], "lati ṣe ariwo inu qun-ṣan").
+entry(harry, v, [harried,harrying,harries], "lati ji").
+entry(harsh, adj, [], "HARSHER HARSHESTsevereHARSHLY adv").
+entry(harshen, v, [harshened, harshening, harshens], "lati jẹ ki o ṣòro").
+entry(harslet, n, [harslets], "haslet").
+entry(hart, n, [harts], "eranko agbẹnusọkun ọkunrin").
+entry(hartal, n, [hartals], "iduro iṣe ise").
+entry(harumph, v, [harumphed, harumphing, harumphs], "lati harrumph").
+entry(haruspex, n, [haruspices], "alálàgbà ọ̀run ti Rome ìgbàanì").
+entry(kikore, v, [kore, nkore, kores], "lati k\u2019ojo gb\u2019eso").
+entry(ni, kan, [], "ni bayi ẹni kẹta ẹni kọọkan ninu ni").
+entry(hash, v, [hashed,hashing,hashes], "ló fi àkókò").
+entry(hasheesh, n, [hasheeshes], "hashishi").
+entry(hashhead, n, [awọn_hashhead], "olutọ́pa hashish").
+entry(hashish, n, [hashishes], "egboogi alailagbara").
+enti(hashtag, n, [awọn ọrọ afọwọkọ], "ọ̀rọ̀ tàbí gbólóhùn tí a tẹ̀síwájú pẹlu àmì tí ó ṣàránẹ́ léde ìjìnlẹ̀ èyí tí ó túmọ̀ sí akọlé ọrọ̀ tí àtẹnumọ́ náà").
+entry(haslet, n, [awọn_haslets], "awọn viscera ẹran ti eniyan le jẹ").
+entry(hasp, v, [hasped,hasping,hasps], "latí so mọ́ pẹ̀lú àwọn ẹ̀yà tí a lè dà mọ́ra").
+entry(hassel, n, [hassels], "ọrọ kan").
+entry(hassium, n, [awọn hassium], "ẹya-ẹdá kan tí ń ṣe ítọ́júra").
+entry(hassle, v, [hassled,hassling,hassles], "lati ja").
+entry(hassock, n, [hassocks], "itelé àtẹ́lẹsẹ̀").
+entry(hast, a, [], "ẹlẹsẹ̀ kejì ẹni kàn ṣíṣe ní ti have").
+entry(hastate, adj, [], "onigunmeta").
+entry(ṣíṣe, v, [ṣiṣeṣíṣe, ṣiṣèṣíṣe, ṣíṣéṣíṣe], "láti yara").
+entry(ọwọ́wò, ajẹtífù, [], "sọ́ra").
+entry(hasten, v, [hastened, hastening, hastens], "lati sare").
+entry(olukoja, n, [awọn_olukoja], "ẹni ti o nyara").
+entry(hasting, ni, [], "ise apapọ ti iyara").
+entry(hasty, adj, [], "HASTIER HASTIESTpeedyHASTILY adv").
+entry(fìtílà, v, [fìtílà-ed,fìtílà-ing,fìtílà], "láti fi fìtílà kan orí fún ìràwò").
+entry(hatable, adj, [], "hateable").
+entry(hatband, n, [hatbands], "etorọ ti a wọ lori fila").
+entry(apoti_asi, n, [apoti_asin], "apoti fun asi").
+entry(hatch, v, [hatched,hatching,hatches], "láti mú ọmọ jáde láti inu ẹyin").
+entry(hatcheck, n, [hatchecks], "yara kan fun fifi fila silẹ fun igba diẹ").
+entry(hatchel, v, [hatcheled,hatcheling,hatchels], "tabi HATCHELLED HATCHELLING HATCHELSlati ya irin flax pẹlu kambi").
+entry(hatcher, n, [awóhin hatcher], " ẹni tó ń dáàbòbò").
+entry(hatchery, n, [hatcheries], "ibi fun fifọn ẹyin").
+entry(hatchet, n, [hatchets], "àdá kekere").
+entry(hatching, n, [hatchings], "awon ila to yio fi han ojiji").
+entry(ibodekun, n, [awọn_ibodekun], "ìsílẹ̀ kan ní àga ọkọ̀ ojú-omi").
+entry(ikorira, v, [rikorin,rikorin,rikorin], "lati ko pataki").
+entry(hateable, àpẹrẹ, [], "tojú èborà").
+entry(ibinu, aj, [], "ti ko fe").
+entry(hater, n, [awọn ti o korira], "ẹni ti o korira").
+entry(hatful, n, [hatfuls], "tabi HATSFULbii iye ti fila le mu").
+entry(hath, a, [], "jẹ́ ìwòye 3 ẹni kẹta ẹni kọọkan ti ní").
+entry(hating, lọwọlọwọ, [], "apa tińtòbi ti korira").
+entry(aaṣọ-ori-less, ajẹtífù, [], "ko ni aṣọ-ori").
+entry(hatlike, àpẹẹrẹ, [], "fẹ́rànfilà").
+entry(ṣẹ́ẹ̀ṣọ́ródò, n, [gẹ́gẹ́biṣọ́ródò], "ẹni tí ń ṣe etí").
+entry(hatpin, n, [hatpins], "ọ̀fà kan fun fifi fila mulẹ").
+entry(hatrack, n, [hatracks], "aga kan fun fila").
+entry(ikorira, n, [ikoriras], "ifẹkufẹkufẹ pupọ tabi ikorira").
+entry(hatsful, a, [], "ọpọ ti fila").
+entry(hatted, atijo, [], "iwaasu ti fila").
+entry(hatter, n, [awakọ fila], "olùṣé ẹ̀wù orí").
+entry(hatteria, n, [awọn hatterias], "ẹ̀yà ẹranko kan").
+entry(hatting, bayi, [], "orisun ti fila").
+entry(hauberk, n, [hauberk], "ẹ̀wù ìjà").
+entry(haugh, n, [haughs], "páàpàá tí ó sùn mọ́n ilẹ̀").
+entry(haughty, adj, [], "HAUGHTIER HAUGHTIESTarrogant").
+entry(gbe, v, [gba,gbé,gbé], "lati fa pelu agbara").
+entry(tẹ̀wẹ̀gba, n, [tẹ̀wẹ̀gbas], "ẹ̀sẹ̀ tẹ̀wẹ̀gba").
+entry(haulback, n, [haulbacks], "ọ̀nà fún lílòkọ káàbù Òjò").
+entry(oluta, n, [awọn oluta], "ẹnikan ti o n gbe").
+entry(olugbeja, n, [olugbeja], "olugbeja").
+entry(ilaafirin, n, [ilaafirin], "iṣẹ gbigbe igi").
+entry(haulm, n, [haulms], "igi ọ̀gbìn kan").
+entry(haulmy, adj, [], "HAULMIER HAULMIEST ti o ni awọn igi").
+entry(itanuradanu, n, [itanuradanu], "iṣe itọju ọkọ ojuomi kuro ninu omi").
+entry(haulyard, n, [haulyards], "okun").
+entry(ẹyin, n, [wọnẹyin], "apakan ẹhinẸYIN adj").
+entry(haunt, v, [haunted, haunting, haunts], "lati ṣàbẹwò nigbagbogbo").
+entry(haunter, n, [awọn ti o n'iyara], "ẹni ti o n'iyara").
+entry(ẹru, n, [ẹru-ọkan], "ibẹwo nipasẹ ẹmi").
+entry(hausen, n, [hausens], "eja stoja Rọ́ṣíà").
+entry(hausfrau, n, [hausfraus], "tabi HAUSFRAUENaya ile").
+entry(ga, adj, [], "ga").
+entry(hautbois, n, [hautbois], "hautboy").
+entry(hautboy, n, [hautboys], "ibo").
+entry(haute, adj, [], "HAUTER HAUTESTẹ̀wéga").
+entry(hauteur, n, [hauteurs], "agbegbe giga tabi emi igberaga").
+entry(havarti, n, [havartis], "wara Danish kan").
+entry(havdalah, n, [havdalahs], "habdalah").
+entry(ni, v, [ni, nini, ni], "lati mu bi ohun-ini anfaani tabi ẹtọ").
+entry(have, n, [haves], "eniyan ọlọrọ").
+entry(havelock, n, [havelocks], "iboju fun fila").
+entry(haven, v, [havened,havening,havens], "lati pese aabo").
+entry(haver, v, [havered,havering,havers], "lati foju di").
+entry(haverel, n, [haverels], "ọ̀gẹ́gẹ́").
+wọlé(nini, lọwọlọwọ, [], "àpapọ̀ ti ní").
+entry(havior, n, [haviors], "iwa").
+entry(haviour, n, [haviours], "havior").
+entry(havoc, v, [havocked, havocking, havocs], "láti ṣẹ").
+entry(havocker, n, [havockers], "ẹnikan ti o ṣẹ").
+entry(haw, v, [hawed,hawing,haws], "lati yipada si apa osi").
+entry(hawala, n, [hawalas], "irú ètò ìṣúná kan ní awujọ Ísúlámù").
+entry(haweater, n, [haweaters], "olugbe ti Manitoulin Island Ontario").
+entry(hawfinch, n, [hawfinches], "èyé àgbègbè Europe àti Asia kan").
+entry(awodi, v, [taa, titaja, taa], "lati taaja").
+entry(hawkbill, n, [hawkbills], "ẹja omi").
+entry(hawker, n, [awọn ọjọja], "ẹni ti o ṣe tita").
+ìwọlé(hawkey, n, [hawkeys], "awọ̀n hawkie").
+entry(hawkeyed, adj, [], "ní ojú títayọ").
+entry(hawkie, n, [hawkies], "malu ojúfunfun").
+entry(hawking, n, [awon adaba], "eranko ti o nyi l'oke").
+entry(hawkish, aropọ̀, [], "tí n ṣàṣeyọrí ní ogun").
+entry(bí-awodi, orúkọ-àpẹ̀lẹ, [], " tó dá bí awodi ẹiyẹ onítẹ̀").
+entry(awoko, n, [awokos], "adoju ti o tobi").
+entry(hawknose, n, [hawknoses], "imú ńlá tí ó dùn").
+entry(hawkshaw, n, [hawkshaws], "onimo iwadii").
+ìbúwọlé(hawkweed, n, [hawkweeds], "ẹ̀gbin tí ó dàbí àróko").
+entry(hawse, n, [hawses], "apakan ti oju ọkọ").
+entry(hawser, n, [hawsers], "okùn ìtè").
+entry(awọnto, n, [awọnto], "igi agbọn sọdkun").
+entry(hay, v, [hayed,haying,hays], "lati yi koriko ti a ge ati ti a ti gbẹ nitori ounjẹ lojulọ").
+entry(haycock, n, [awọn iṣopọ koriko], "akopọ koriko").
+entry(hayer, n, [hayers], "eni ti o n se isẹ́ gíga").
+entry(hayey, adj, [], "t'oto haye").
+entry(pápa koríko, n, [pápa koríko], "àwọn ilẹ̀ tí wọ́n ti ń gbìn koríko fún koríko ojú").
+entry(ẹgbẹ, n, [ẹgbẹ], "ọpa fun sisọnu koriko").
+entry(haying, n, [hayings], "akoko fun ikore koriko").
+entry(haylage, n, [haylages], "irú koríko kan").
+entry(hayloft, n, [haylofts], "ibugbe fun ipamọ koriko").
+entry(haymaker, n, [haymakers], "eni ti o n ṣe iri").
+entry(haymow, n, [haymows], "agọ aṣọ").
+entry(hayrack, n, [hayracks], "agọ fun gbigbe koriko").
+entry(hayrick, n, [hayricks], "agbọ̀n ẹranko").
+entry(irin-ajo_gba_darí, n, [irin-ajo_gba_darí], "irin ajo kẹkẹ kọkọrọ").
+entry(hayseed, n, [hayseeds], "a bumpkin").
+entry(haystack, n, [haystacks], "aku irọ").
+entry(hayward, n, [haywards], "ọkan ọlọ́pọlọ́ tó ń tọju àwọn màálù").
+entry(haywire, n, [haywires], "okun ti a nlo ninu didi koriko balu").
+entry(hazan, n, [hazans], "tabi HAZANIMa olorin akoko").
+entry(hazard, v, [hazarded,hazarding,hazards], "lati dubulẹ ẹru").
+entry(hazarder, n, [hazarders], "ẹni tí o ṣe ewu").
+entry(haze, v, [hazed,hazing,hazes], "lati ṣe agbekalẹ ọkan ninu iru iwọntunwọsi ibinu").
+entry(hazel, n, [hazels], "igi ododo").
+entry(hazelhen, n, [hazelhens], "ẹdẹ European kan").
+entry(hazelly, adj, [], "awọ ofeefee dudu").
+entry(hazelnut, n, [hazelnuts], "eso ti a le je").
+entry(hazer, n, [hazers], "ẹni tí ó ń ṣe ìyó").
+entry(hazier, afiwe, [], "ti hazy").
+entry(haziest, superlative, [], "ti hazy").
+entry(hazili, adv, [], "ni ọna ti ko mọ").
+entry(haziness, n, [hazinesses], "ipinle ti jijẹ irẹwẹsi").
+entry(hazing, n, [hazings], "ipasẹ́ ìṣe àtĭkè tàbí ìdídi").
+entry(hazmat, n, [hazmats], "ohun elo eewu").
+entry(hazy, adj, [], "HAZIER HAZIESTkọmọlẹ").
+entry(hazzan, n, [hazzans], "tabi HAZZANIMhazan").
+entry(ọkọ, n, [ọkọ], "eniyan okunrin").
+entry(head, v, [headed,heading,heads], "lati ṣe olori").
+entry(irora-ori, n, [irora-ori], "irora ninu ori").
+entry(headachy, adj, [], "HEADACHIER HEADACHIESTní ipenpọn").
+entry(bàǹdà-hèédì, n, [bàǹdà-hèédì], "ìpè˞̩kà tí a wọ˞̩ lórí orí").
+entry(headend, n, [awọn_ile_ise_ipa], "ile ise kan ti o gba ati pinpin awọn ifihan agbara ibaraẹnisọrọ").
+entry(header, n, [headers], "oloko irè").
+entry(headfish, n, [awọn ẹja orí], "ẹja omi okun").
+entry(headful, n, [headfuls], "ilẹkọ ọwọ pupo").
+entry(headgate, n, [headgates], "ẹnu-ọna kan lati ṣakoso ṣiṣan omi").
+entry(headgear, n, [headgear], "iboju fun ori").
+entry(headhunt, v, [headhunted,headhunting,headhunts], "lati wa jade ge ori ki o si pa eto awon oto").
+entry(headier, comparative, [], "ti o ni iruju").
+entry(headiest, superlative, [], "ti heady").
+entry(headily, adv, [], "ní ọ̀nà ìgbéraga").
+entry(akọle, n, [awọn akọle], "ite ẹyẹ").
+entry(headlamp, n, [headlamps], "imọlẹ kan lori iwaju ọkọ ayọkẹlẹ").
+entry(headland, n, [headlands], "ajule").
+entry(ailokori, aj, [], "aikori ori").
+entry(akoole, v, [akoolekun,akoolekon,akoole], "lati pese pẹlu akọle").
+entry(headlock, n, [headlocks], "imu ni adugbo awọn jagunjagun").
+entry(headlong, adj, [], "raṣì ìṣe mímọ ìgboyà").
+entry(olori, n, [awonolori], "olori osise").
+entry(headmost, arọ́pọ̀lọ̀, [], "foremost").
+entry(headnote, n, [headnotes], "akọsilẹ tí ó wà ní ibèrè").
+ẹnu-ọna(headpin, n, [headpins], "ọpá booli").
+entry(headpond, n, [headponds], "adagun ti a ṣẹda lẹhin afonifoji").
+entry(headrace, n, [headraces], "ẹsẹ omi").
+entry(headrail, n, [headrails], "irin ti o nrin lori ni ori nkan kan").
+entry(headrest, n, [awon ori itura], "irinwo fun ori").
+wólewò(òrílé, n, [òrílè], "àyè àkóso gbangba").
+entry(headsail, n, [headsails], "iru ekan ti egbe").
+entry(headset, n, [headsets], "ẹ̀rọ́ amúlètutọ́").
+entry(olori, n, [olori], "ipo alakoso").
+ìkọ̀tán(headshot, n, [headshots], "àwòrán ènìyàn láti ọ̀run sókè").
+entry(headsman, n, [awon_olopa_igbeyewo], "olugbeja igbeja").
+Ìgbàgbọ(headstay, n, [headstays], "àtìlẹ́yìn fún ojú ìforí ọkọ̀ ojú omi").
+entry(headward, adv, [], "si orí").
+ẹnu-ọna(headway, n, [headways], "iṣipopada siwaju").
+entry(headwind, n, [afẹfẹ tó ń wá kọjá], "afẹfẹ tó ń bọ latiwaju").
+entry(ọrọìsọ, n, [ọrọìsọ], "ọrọ kan ti a fi si ni ibẹrẹ").
+entry(headwork, n, [headworks], "iṣẹ ọgbọn").
+entry(heady, adj, [], "HEADIER HEADIESTintoxicating").
+entry(larada, v, [laradẹ,laradásílẹ,larada], "lati mu kó ailewu tàbí dáradáraLARADABLE adj").
+entry(onisegun, n, [awon_onisegun], "eniti o n mu larada").
+entry(imularada, n, [imularadaku], "ilana ti gbigbe pada si ilera").
+entry(ilera, n, [awọn_ilera], "ipo ti ara ti ẹda alààyè").
+entry(healthy, adj, [], "DARAJU DARADARA nini ilera to dara").
+entry(heap, v, [heaped,heaping,heaps], "lati gun òkè").
+entry(heaper, n, [awọn ohun ti a kojọ pọ], "ẹni tí ó kojọ pọ").
+entry(heapy, adj, [], "ti o dabi heap ẹgbẹ awọn nkan ti o jẹ ẹrọ̀ lórù sára wọn").
+entry(gbo, v, [gbo, gbọọrọ, ngbo], "lati ṣe akiyesi pẹlu etíGBÓ adj").
+entry(onigbọran, n, [onigbọrán], "ẹni tí ó ngbọ́").
+entry(gbigbọ, n, [gbigbọrọ], "ìfẹ̀fẹ́ àwọn nípa kan").
+entry(gbọ́, v, [gbọ́,gbọ́,gbọ́], "lati gbọ́ si").
+entry(gbigbo, n, [gbigbos], "alaye lati atelekeji").
+entry(irekusu, v, [irekusued,irekusuing,irekusus], "lati gbe ninu irekusu, ọkọ fun gbigbe oku").
+entry(àyà, v, [àyàted,àyàing,àyà], "láti mú ayò").
+entry(ọkàn-mórí, v, [ọkàn-móríjẹ́,ọkàn-mórí-níṣíṣẹ́,ọkàn-mórí], "láti fi ìgboyà fún").
+entry(ibuso, n, [awọn ibuso], "ilé ti àgbéékanjọ").
+entry(hearty, adj, [], "HEARTIER HEARTIESTolùfẹ́ pupọHEARTILY adv").
+entry(gbókgbo, n, [gbókgbo], "ẹgbẹ́").
+entry(heat, v, [het, heating, heats], "lati ṣe kí ó gbónáHEATABLE adj").
+entry(gbigbọ́na, adv, [], "ní àǹfànì ìfọ̀kanbalẹ̀ tàbí ìníkànka").
+entry(onipo ina, n, [awon onipo ina], "ero fun gbigbona").
+entry(heath, n, [heaths], "igi kekere ti ko leè juba").
+entry(ajẹjẹẹ, n, [ajẹjẹẹ], "ẹni tí kò ni ìwà").
+entry(heather, n, [heathers], "igi ododo alawọ eweHEATHERY adj").
+entry(heathy, adj, [], "Ọpọlọpọ ni igbo HEATHIER HEATHIEST").
+entry(jẹkẹ, n, [jẹkẹ wọn], "iṣe ti ṣiṣe nkan gbona").
+entry(heatless, ajẹntif, [], "aláìgbóná").
+entry(heaume, n, [awọn fila arinrin-ajagun], "fila ti akoko arinrin-ajagun").
+entry(na, v, [na,náí,naas], "lati gbe soke pelu agbara").
+ẹnu-ọna(orun, n, [awọn-ọrun], "ọrun").
+entry(ọrun, ajẹtífá, [], "ẸWÀJU ẸWÀJULẸkun fun ẹwà ati àlàáfíà").
+entry(olugbeja, n, [olugbejas], "eyokan ti n gbe").
+entry(wuwo, afiwera, [], "ti eru").
+entry(heavies, pl, [], "ti eru").
+entry(heaving, lọwọlọwọ, [], "rẹ̀pàtó fọ́rmù náà heave").
+entry(heavy, adj, [], "TOBIRIN TOBIRINJULOníwalẹ́ púpọ̀NÍLẸ́ adv").
+entry(heavy, n, [heavies], "ajinigbe").
+entry(heavyish, adj, [], "diẹ̀ díẹ̀ lórí").
+entry(heavyset, adj, [], "ara lati ni okun to nipon").
+entry(hebdomad, n, [hebdomads], "nọmba meje").
+entry(hebetate, v, [hebetated,hebetating,hebetates], "lati ṣe alainirọrun").
+entry(hebetic, adj, [], "ni ibatan si ọjọ-ọdọ").
+entry(hébé, n, [hébé àwọn], "ìyànjúfà").
+entry(hebraize, v, [hebraized, hebraizing, hebraizes], "láti ṣe Hébérù").
+entry(ẹtọn-õlûma, n, [ẹtọn-õlûmas], "ẹbọ nla tàbí ipaniyan").
+entry(heck, n, [hecks], "apá ibi tabi ipinle ibanujẹ").
+entry(heckle, v, [heckled, heckling, heckles], "lati darukọ ẹnikan ti o nkọwe").
+entry(heckler, n, [awọn ti nṣe pipẹ̀], "ẹnìkan tí ń pipẹ̀").
+entry(hektà, n, [hektà], "ẹyàn àgbè̩gbè̩").
+entry(hectic, afijebi, [], "kún pẹlu ruduruduHECTICLY adv").
+entry(gbigilẹ, n, [awọn gbigilẹ], "ibẹrubojo ti o ni itẹlẹ ẹjẹ pupa").
+entry(hectical, aj, [], "hectic").
+entry(hector, v, [hectored,hectoring,hectors], "lati tẹmi awọ").
+entry(heddle, n, [awọn heddles], "ẹ̀yà kan ti ẹrọ aṣọ").
+entry(heder, n, [heders], "tabi HADARIM tabi HEDARIMa ile-iwe iṣinmi Juu").
+entry(igi-ọ̀kọ, v, [igi-ọ̀kọ̀, àtẹ́gàn, àwọn igi-ọ̀kọ̀], "láti yí ká pẹlu igi-ọrun kan tò pọ̀ ti igi ìdílé kan").
+entry(ẹlẹgẹdẹgbẹdẹ, n, [ẹlẹgẹdẹgbẹdẹ], "eranko kekere").
+entry(hedgehop, v, [hedgehopped,hedgehopping,hedgehops], "lati fò nitosi ilẹ").
+entry(hedgepig, n, [hedgepigs], "ekirin").
+entry(hedger, n, [hedgers], "ẹni tí ó ṣe àsèkéle").
+entry(hedgerow, n, [hedgerows], "ọdẹ ti igbo-igi").
+entry(idena, bayi, [], "ipari ọrọ-isedogba ti hedge").
+entry(hedgy, adj, [], "TI O NI OGIRI IGBANWO PUPO JU").
+entry(hedonic, àpọ́nlé, [], "tí ó ní ibatan pẹ̀lú ìdùnnú").
+entry(hedonics, npl, [], "ẹka kan ti imọ-ọkan").
+entry(hedonism, n, [hedonisms], "ìṣàṣeyọrí ìfẹ́").
+entry(olufẹ́ayọ̀, n, [olufẹ́ayọ̀], "ẹni tí ó ń tẹ̀lé ẹ̀kọ́ ayọ̀").
+entry(ṣe, v, [ṣe lọ́lọ́, ṣe lọ́lọ́, á ṣe], "lati fi ifojúsí síi").
+entry(olumoran, n, [olumorans], "ẹni ti o nṣe akiyesi").
+entry(heedful, aropo-ọrọ, [], "fifojusi pẹkipẹki").
+entry(ailabepamọ, aj, [], "kii ṣe akiyesi pupọ tabi rara").
+entry(heehaw, v, [heehawed,heehawing,heehaws], "latì eré kíkan").
+Prolog: entry(heel, v, [heeled,heeling,heels], "lati pese pẹlu igi ti o ga ti bata").
+entry(heelball, n, [heelballs], "ìdápò tí a ń lò fún didán").
+entry(heeler, n, [heelers], "ẹni tí ń fi etí sokoto pẹpẹ silẹ").
+entry(ìgbọ́wọ́, n, [ìgbọ́wọ́], "ẹ̀kọ́ ìwọ̀ oòrùn ni afẹ́fẹ́").
+entry(aibọ́lẹ̀, adj, [], "lacking heels").
+entry(heelpost, n, [heelposts], "ẹ̀pín àtẹ numi hẹlée mọ́n láti èyà kan").
+entry(heeltap, n, [heeltaps], "ohun elo ti a gbe si ete bata").
+entry(heeze, v, [heezed,heezing,heezes], "láti gbé sórí").
+entry(oke, v, [oke, oke, oke], "lati gbe soke").
+ìforíwọ̀ (hefter, n, [hefters], "ẹni tí ó gbéé").
+entry(hefty, adj, [], "TOBI JU TOBI N TIO BẸ ỌLỌsọ GO").
+entry(hegari, n, [hegaris], "irugbin").
+entry(hegemon, n, [awọn ọba], "ijọba oloselu ti o ni aṣaṣe").
+entry(ibèjì, n, [ibèjì], "àṣẹ ńlá").
+entry(hegira, n, [hegiras], "ijọba ẹrú").
+entry(hegumen, n, [awọn hegumen], "olori ilé ẹsin kan").
+entry(olori_agbegbe_ibanuje, n, [awọn_olori_agbegbe_ibanuje], "olori ilé íyá").
+entry(hegumeny, n, [awọn hegumenies], "ẹka ti hegumen").
+entry(heh, n, [hehs], "lẹ́tà Hẹbẹru kan").
+entry(jẹ̀gìdì, n, [jẹ̀gìdì], "mọ́mọ Cow kan").
+entry(heigh, interj, [], "ti a n lo lati fa ifojusi").
+entry(giga, n, [giga], "ojuami giga julọ").
+entry(gbega, v, [gbege,gbegepe,gbegas], "lati gbe").
+entry(gaigao, n, [gaigaos], "gaiga").
+entry(heil, v, [heiled,heiling,heils], "láti kíí").
+entry(heimish, aj, [], "haimish").
+entry(heinie, n, [heinies], "ọrọ ilohunsoke").
+titi(heinous, aj, [], "buburu pupọ").
+entry(aṣojú, v, [toṣojú, toṣojúing, aṣojús], "lati jogún").
+entry(heirdom, n, [àjẹlé], "èjìrẹ").
+entry(ajogboto, n, [ajogboto], "obinrin ti o jogun").
+entry(heirless, àpéjọ̀, [], "ní kò sí àwọn akóbí").
+entry(ajogunba, n, [ajogunbo], "ohun ini ti a jogun").
+entry(aṣẹ ọmọ aládé, n, [àṣẹ ọmọ aládé], "ètọ tòsí àjogúnbá").
+entry(heishi, npl, [], "wọn kekere ti a ṣe lati awo ẹja").
+entry(iwosi, v, [wosi, nṣi, wooṣi], "lati ji").
+entry(olè, n, [awọn olè], "ẹni ti o ṣakọsi").
+entry(hejira, n, [hejiras], "hegira").
+entry(hektare, n, [hektares], "hekota").
+entry(mu, igba_to_lo, [], "igba ti mu").
+entry(helenium, n, [heleniums], "èwéko kan pẹ̀lú àwọn ododo tó dàbí tàtàtà").
+entry(heliac, adj, [], "heliacal").
+entry(heliacal, aj, [], "jẹ́mọ́ oòrùn").
+entry(heliast, n, [heliasts], "adájọ ilẹ Atene").
+entry(helical, àfàsì, [], "di èèrìn dogba").
+entry(heliksi, a, [], "pl ti helix").
+entry(helicity, n, [helicities], "ẹya kan ninu ayanmọ ti spin patiku kan").
+entry(helicoid, n, [helicoids], "iru dada geometrical kan").
+entry(helicon, n, [awọn helicons], "tuba bass nla").
+entry(helicopt, v, [helicopted, helicopting, helicopts], "láti ṣèbèrè pèlú hélicòpítà").
+entry(helilift, v, [helilifted, helilifting, helilifts], "lati gbe nipa ọkọ̀ ojò òfuurufú").
+entry(helio, n, [helios], "diẹlẹ́ gbígbóná").
+entry(helipad, n, [helipads], "ibudo irikuri").
+entry(heliporti, n, [heliporti], "ibu-omi-ofurufu fun helikoputa").
+entry(heliski, v, [heliskied, heliskiing, heliskis], "lati n gba skis sodo lori awọn òkè tí helicopter ti kọjá sí").
+entry(helistop, n, [helistops], "ibudo elikopteru").
+entry(helitack, n, [awọn-helitack], "lilo ọkọ òfurufú láti koju iná igbo").
+entry(hiliomu, n, [hiliomus], "ẹlẹ́mẹ́ntì jẹ́ gásì").
+entry(helix, n, [helixes], "tabi HELICESfẹ́ẹ́ọrun nínú ìránẹ́wà ní irú-ọmọ").
+entry(apadi, v, [apadieda,apadiing,apadira], "jẹ́ ìwà àwàda").
+entry(hellbent, orukọàfikún, [], "dedicated ẹni tó ṣe kámákapàdé").
+entry(hellbox, n, [hellboxes], "àpótí ọlọjáwe").
+entry(hellcat, n, [hellcats], "eniyan ti o niku").
+entry(heller, n, [hellers], "omoburuku").
+entry(helleri, n, [helleris], "tabi HELLERIES eja omi gbigbona kan").
+entry(hellery, n, [helleries], "ere ti ko rorun").
+entry(iná apaadi, n, [iná apaadi], "ibanuje iná apaadi ibi ibanuje nla").
+entry(ibi_buburu, n, [ibi_buburu], "ibi ti o buruju").
+entry(hellion, n, [hellions], "ẹni ti o fa wahala").
+entry(ẹru ọrun, ajẹtífù, [], "iparun").
+entry(hellkite, n, [hellkites], "eniyan buruku").
+entry(kaabo, v, [kaaboed, kaaboing, kaabo], "tabi KAABOEs lati ki").
+entry(helluva, adj, [], "aifọkanbalẹ").
+entry(hellward, adv, [], "si apa isalẹ ile, ibikan ti irora nla").
+entry(helm, v, [helmed,helming,helms], "lati sàájú ọkọ̀ ojú omi").
+entry(helmeta, v, [helmetà, helmetán, helmetàbı̀n], "láti fi helmetà ránse s̄͟e dábùbò fun orí").
+entry(ako, n, [ako], "ẹranko alaitẹra").
+entry(helmless, asọ, [], "aini akọmọ eto itọsọna").
+entry(oluso-agbo, n, [awọn oluso-agbo], "ẹni ti o nyi ọkọ̀ oju omi").
+entry(helo, n, [helos], "kọpítà").
+entry(helot, n, [awọn ẹrú], "ẹrú tabi enikeji").
+entry(helotage, n, [helotages], "helotism").
+entry(helotism, n, [helotisms], "ẹrú tabi iṣẹ aiyérayé").
+entry(helotry, n, [helotries], "helotism").
+entry(iránlọ́wọ́, v, [ráńlọ́wọ́,nírànlọ́wọ́,nranlọ́wọ́], "láti fún ní ìránlọ́wọ́ síẸ̀KÚRÓLÓWỌ́ adj").
+entry(helpdesk, n, [helpdesks], "ise to n ran awon onibara lowo pelu isoro").
+entry(helper, n, [awọn iranlọwọ], "ẹni ti o n ranlọwọ").
+entry(lóore, èwo, [], "jije iṣẹ́ tàbí ìrànlọwọ").
+entry(helping, n, [helpings], "ipin kan ti ounje").
+entry(aagẹgẹ, àìlónà, [], "aláìlójúkan").
+entry(ẹgbẹ́ ohun èlò ìrànlọ́wọ́, n, [ẹgbẹ́ ohun èlò ìrànlọ́wọ́], "ìrànwọ́ tẹlifóònù tí ó fúnni ní ìmọ́ràn").
+entry(iranlọwọ, n, [iranlọwos], "ẹnikan tí ó rànlọ́wọ́").
+entry(helpmeet, n, [awọn_iranlọwọ], "oluranlọwọ").
+entry(helve, v, [helved,helving,helves], "lati pese pẹlu idana").
+entry(hem, v, [hemmed, hemming, hems], "lati pese eti").
+entry(hemagog, n, [hemagogs], "ajẹnti ti o n ṣe iranlowo ṣiṣan ẹjẹ").
+entry(hemal, adj, [], "ti eyi ti o ni ibatan pelu eje").
+entry(hematal, aj, [], "hemal").
+entry(hematein, n, [hemateins], "ohun elo kemikali").
+entry(hematic, n, [hematics], "ewo kan fun aisan e̩je̩").
+entry(hematin, n, [hematins], "emi").
+entry(hematine, n, [hematines], "hematini").
+entry(hematite, n, [hematites], "irin ti wura kan").
+entry(hematoid, aropọ, [], "to dabi ẹjẹ").
+entry(hematoma, n, [hematomas], "tabi HEMATOMATA iṣan ti o kun fun ẹjẹ").
+entry(heme, n, [awọ-ẹjẹ], "ẹya kan ninu hemoglobin").
+entry(hemic, ajẹ., [], "hemal").
+entry(hemin, n, [hemins], "chloride kan ti heme").
+entry(hemiola, n, [hemiolas], "iyipada orin").
+entry(hemiolia, n, [hemiolias], "hemiola").
+entry(hemipter, n, [hemipters], "ẹ̀ṣọ́-ọ̀rùn kan").
+entry(fílú, n, [fílúró], "eti isalè aṣọ").
+entry(hemlock, n, [awọ̀n hemlock], "ẹ̀mígbóná tí ó lè pa ní tàbí í ṣe égbé")
+entry(hemmed, ti tẹlẹ, [], "arabirọ̀ ti hem").
+entry(hemmer, n, [hemmers], "ẹni tí ó ń hun").
+entry(hemming, lọwọlọwọ, [], "partisiipulu ti ṣe'ẹrẹ").
+entry(hemocoel, n, [hemocoels], "ibà àra").
+entry(hemocyte, n, [awọn ẹyin ẹjẹ], "ẹyin ẹjẹ kan").
+entry(hemoid, adj, [], "ti ẹjẹ").
+entry(hemolyze, v, [hemolyzed,hemolyzing,hemolyzes], "lati fọ awọn sẹẹli ẹjẹ pupa").
+entry(hemostat, n, [hemostats], "irinṣẹ fun idinku ẹjẹ").
+entry(hemp, n, [hemps], "egungun giga kan").
+entry(hempen, adj, [], "ṣe ti hemp").
+entry(hempie, adj, [], "HEMPIER HEMPIESThempy").
+entry(hempier, afiwera, [], "ti hempy").
+entry(hempiest, superlative, [], "ti hempy").
+entry(hemplike, adj, [], "to dabi hemp").
+entry(hempseed, n, [hempseeds], "irugbin hemp").
+entry(ẹfọ-ọyọ, n, [ẹfọ-ọyọ], "ewéko tí ń gunlẹ́kùnlẹ́-ọ").
+entry(hempy, adj, [], "HEMPIER HEMPIESṬelẹ").
+entry(adiye obinrin, n, [adina obinrin], "ẹiyẹ obinrin kan").
+entry(henbane, n, [henbanes], "egboogi kan ti o ni majele").
+ọ̀rọ̀(henbit, n, [henbits], "ewe ọdọdún").
+entry(hence, adv, [], "ní báyìí").
+entry(henchman, n, [awọn_onigbowo], "olubanisọrọ alaimọkan").
+entry(hencoop, n, [hencoops], "ibudo adie").
+entry(henequen, n, [awọn_henequens], "ọgbẹ kan ti a lo lati ṣe awọn okùn").
+entry(henequin, n, [henequins], "henequen").
+entry(henge, n, [henges], "ilàká àwòrán ìgòòrùn nígbà ayé Bronze ní Ilẹ̀ Gẹ̀ẹ́sì").
+entry(ile-adie, n, [awon-ile-adie], "ibi-afesikole fun adie").
+entry(heniquen, n, [heniquens], "hẹnikẹn").
+entry(henley, n, [henleys], "irú kẹ̀m̀ẹ́ti aṣọ ẹ̀wú").
+entry(henlike, aj, [], "to dabi adiye").
+entry(henna, v, [hennaed,hennaing,hennas], "lati kun pẹlu awọ pupa").
+entry(hennery, n, [henneries], "agbegbe oko adie").
+entry(hennish, adj, [], "bi adie").
+entry(henpeck, v, [henpecked,henpecking,henpecks], "lati ṣakoso nipa ẹdun").
+entry(henry, n, [henrìs], "tabi HENRIESẹka ti ilowosi").
+entry(hent, v, [mu, mimu, mu], "lati mu").
+entry(hep, adj, [], "HEPPER HEPPESThip").
+entry(hep, n, [heps], "itonile ti aisan si inu ẹdọ").
+entry(heparin, n, [heparins], "egboogi kemiki").
+entry(hepatic, n, [hepatics], "oogun to n ṣiṣẹ lori ẹdọ").
+entry(hepatica, n, [hepaticas], "tabi HEPATICAE eweko aladodo ainikookan").
+entry(hepatize, v, [hepatized, hepatizing, hepatizes], "lati yipada asọ si ibigbogbo kan").
+entry(hepatoma, n, [hepatomas], "tabi HEPATOMATAiwa kan ti ẹdọ").
+entry(hepcat, n, [awọn hepcats], "ẹni ti o nifẹ si jazzu").
+entry(heptad, n, [awọn heptad], "àwọn ẹgbẹ mẹ̀ta láàárín").
+entry(heptagon, n, [awọn heptagon], "ipilẹṣẹ mẹta ọkan").
+entry(heptane, n, [heptanes], "hydrocarbon kan ti a n lo gege bi olomi").
+entry(heptarch, n, [heptarchs], "ọkan ninu ẹgbẹ awọn alaṣẹ meje").
+entry(heptose, n, [heptoses], "ẹ̀dà abẹ́lé kemika").
+entry(ẹ, àpólán, [], "ipin-ọmọ tabi ilamọra ti àpólán óun").
+entry(akede, v, [soakede, siseakede, akede], "lati kede").
+entry(hérálẹ́dị́kì, ajẹ́, [], "tí ó ní í ṣe pẹ̀lú ìṣàmì oríkọ").
+entry(èrò, n, [èrò], "art tabi ìjìnlè ìmọ̀ àwọn àpáta àrà").
+entry(egboigi, n, [egboigi], "ewé tí ń ló ló jé rántí tí kò ní ìtà").
+entry(ewẹ́, n, [ewẹ́ nlá], "àyè èdá lọ̀rọ̀ ti kò bọ́ sí igiHERBAGED adj").
+entry(eweko, n, [awewe], "iwe kan nipa eweko ati awon ohun ogbin").
+entry(awọn_herbaria, npl, [], "àkójọpọ̀ àwọn ẹ̀fọ́ tí a gbẹ").
+entry(herbed, adj, [], "dídùn pẹ̀lú ewéko").
+entry(herbless, adj, [], "aikole ewe").
+entry(herblike, adj, [], "o jọ eweko").
+entry(herby, aṣ, [], "Ẹ̀WÉ Ẹ̀WÉ JÙlọ tí o kún fún ewéko").
+entry(hercules, n, [herculeses], "ẹnikẹ́ni ti ó ní àkíkanjú àti agbára àgbàyanu").
+entry(agbo, v, [agbọro, ẹranagilẹyinrin, agbo], "lati mu iwariri papọ ni agbo awọn ẹranko").
+entry(alagbo, n, [alagbo], "eni ti o n ri si agbo").
+entry(herdic, n, [herdics], "irú ẹrù-ọkọ").
+entry(ìdàgbà, n, [ìdàgbàsí], "ìṣẹ́ tí ó jẹ́ kíkó tàbí ìbílẹ̀ ẹran-ọ̀dẹ").
+entry(herdlike, ajẹnti, [], "fẹ́ràn ẹran àtàwọn ẹrangẹ́gẹ").
+entry(oluso, n, [oluso-aguntan], "oluso-aguntan").
+entry(onísìn-àgbo, n, [awọn onísìn-àgbo], "olùtọjú ẹran").
+entry(nibi, n, [nibiyi], "ibi yii").
+entry(hereat, àdàpè, [], "nígbà yìí").
+entry(hereaway, adv, [], "nibi yi").
+entry(hereby, adv, [], "nípasẹ̀ èyí").
+entry(heredes, pl, [], "ti heres").
+entry(ajogunba, n, [ajogunban], "ifihan ara ti iwa lati ara awọn obi").
+entry(nínú eyi, adv, [], "in this").
+entry(hereinto, adv, [], "sinu ibi yi").
+entry(hereof, adv, [], "ninu eyi").
+entry(hereon, adv, [], "nibi lori").
+entry(heres, n, [heredes], "arole").
+entry(aiyatọ, n, [aiyatọ], "igbagbo ti o tako ẹkọ ijọ").
+entry(heretic, n, [awọn afipabanilò], "ẹnikan ti o ṣetọju ẹsẹ̀").
+entry(hereto, adv, [], "si ọrọ yii").
+entry(heretrix, n, [awọn heretrixes], "tabi HERETRICESheritrix").
+entry(hereunto, adv, [], "nibi").
+entry(hereupon, adv, [], "lẹsẹkẹsẹ atẹle eyi").
+entry(pẹ̀lúèleyi, àkóónú, [], "pẹ̀lú èyí").
+entry(heriot, n, [heriots], "owo atiwo tabi sisan owo feudal").
+entry(ajogunba, n, [ajogunbas], "nkankan ti a jogun").
+entry(arole, n, [awọn_ekele], "ẹni ti o jogun").
+entry(heritrix, n, [heritrixes], "tabi HERITRICESa obinrin oluwaaṣẹ").
+entry(herl, n, [herls], "àlà àwọ a nlo fún eja").
+entry(herm, n, [eruku], "iru aworan kan").
+entry(herma, n, [hermae], "tabi HERMAIa hermHERMAEAN aj").
+entry(hermetic, afijẹẹri, [], "títẹ́fẹ́").
+entry(hermit, n, [hermits], "ẹni ti o ya ara rẹ sọtọHERMITIC adj").
+entry(aawe, n, [aawe], "ipo ti jije awo").
+entry(hern, n, [herns], "akọ");
+entry(hernia, n, [hernias], "gẹ́gẹ́ bíi HERNIAE afúnjú ẹ̀rọ kan láti nukùnjà rẹ̀HERNIAL adj").
+entry(herniate, v, [herniated,herniating,herniates], "lati yọ́ síta nípasẹ̀ ẹnu ara àìṣedeede").
+entry(akinkanju, n, [akinkanju], "tabi AKINKANJUa ounjijẹ").
+entry(heroic, n, [awọn-akikanju], "ọrọ-epiki").
+entry(heroical, adj, [], "alagbara ọlàgidi").
+entry(heroin, n, [awọn heroins], "ọ̀pọ̀n ọlọ́dẹ mọ́ra").
+entry(akinkanjuobirin, n, [akinkanjuobinrin], "obinrin alagbara kan").
+entry(akinkanju, n, [akinkanjus], "iṣe ọlọla").
+entry(heroize, v, [heroized,heroizing,heroizes], "ṣiṣe alágbára").
+entry(aluko, n, [aluko], "ebird ti nrin ni omi").
+entry(ibùdó àjàgbé, n, [awọn ibùdó àjàgbé], "ibi tí àwọn àjàgbé ti n pọ").
+entry(herpes, n, [herpes], "arun aisan awosunHERPETIC adj").
+entry(herring, n, [herrings], "eja onje").
+entry(herry, v, [herried,herrying,herries], "láti ṣeṣinṣin").
+entry(tìrè, iṣẹ àpónle, [], "àpọ́nle ti àṣàye orúkọ ará obìnrin").
+entry(ararae, pron, [], "iru ohun-ọdọ ẹni-kẹta iṣẹ-ọrun obinrin").
+entry(itanobirin, n, [itanobirin], "itan nipa akitiyan obinrin").
+entry(hertz, n, [hertz], "ẹgbẹ̀rọ́ kan ti àwọnbẹ̀rọ̀").
+entry(hesitant, adj, [], "aṣeyọ, tabi ohunkohun ti o fẹ di oluṣu").
+entry(daduro, v, [dádúrò,dádúròó,dádúròdò], "láti fòwó pa dà ní àìní àbájáde").
+entry(hessian, n, [hessians], "aso to nira").
+entry(hessite, n, [awọn hessite], "okuta iyebiye").
+entry(hest, n, [hests], "pipaṣẹ kan").
+entry(het, n, [hets], "heth").
+Prolog: entry(hetaera, n, [hetaeras], "tabi HETAERAEa adigunjaleHETAERIC adj").
+entry(hetaira, n, [hetairas], "tabi HETAIRAIhetaera").
+entry(hetero, n, [heteros], "ẹniti ó jẹ́ afẹ́fẹ̀ mọ́ ìbálòkè").
+entry(heth, n, [heths], "lẹ́tà Hébérù kan").
+entry(hetman, n, [awọn hetman], "olori cossack").
+entry(heuch, n, [heuchs], "heugh").
+```prolog
+entry(heuchera, n, [heucheras], "a North American plantHEUGH n pl HEUGHSa steep cliffHEVEA n pl HEVEASa tree yielding sap used for rubberHEW v HEWED HEWN HEWING HEWSto cut with an axHEWABLE adjHEWER n pl HEWERSone that hewsHEX v HEXED HEXING HEXESto cast an evil spell uponHEXAD n pl HEXADSa group of sixHEXADIC adjHEXADE n pl HEXADEShexadHEXAGON n pl HEXAGONSa polygon having six sidesHEXAGRAM n pl HEXAGRAMSa sixpointed starHEXAMINE n pl HEXAMINESa chemical compoundHEXANE n pl HEXANESa volatile liquidHEXAPLA n pl HEXAPLASan edition in which six texts are set in parallel columnsHEXAPLAR adjHEXAPOD n pl HEXAPODSa sixlegged insectHEXAPODY n pl HEXAPODIESa line of verse with six feetHEXARCHY n pl HEXARCHIESa group of six separate statesHEXER n pl HEXERSone that hexesHEXEREI n pl HEXEREISwitchcraftHEXONE n pl HEXONESa hydrocarbon solventHEXOSAN n pl HEXOSANSa carbohydrateHEXOSE n pl HEXOSESa simple sugarHEXYL n pl HEXYLSa hydrocarbon radicalHEXYLIC adjHEY interj  used to attract attentionHEYDAY n pl HEYDAYSthe period of ones greatest successHEYDEY n pl HEYDEYSheydayHI interj  used as a greetingHIATUS n pl HIATUSESa gap or missing sectionHIATAL adjHIBACHI n pl HIBACHISa cooking deviceHIBERNAL adj pertaining to winterHIBISCUS n pl HIBISCUSESa tropical plantHIC interj  used to represent a hiccupHICCOUGH v HICCOUGHED HICCOUGHING HICCOUGHSto hiccupHICCUP v HICCUPED HICCUPING HICCUPS or HICCUPPED HICCUPPING HICCUPSto make a peculiarsounding spasmodic inhalationHICCUPY adj having hiccups spasmodic inhalationsHICK n pl HICKSa rural personHICKISH adjHICK adj HICKER HICKESTcharacteristic of rural peopleHICKEY n pl HICKEYS or HICKIESa gadgetHICKIE n pl HICKIEShickeyHICKORY n pl HICKORIESa hardwood treeHID a past tense of hideHIDABLE adj able to be hiddenHIDALGO n pl HIDALGOSa minor Spanish noblemanHIDDEN adj concealed obscureHIDDENLY advHIDE v HID HIDDEN HIDING HIDESto concealHIDE v HIDED HIDING HIDESto flogHIDEAWAY n pl HIDEAWAYSa hideoutHIDELESS adj lacking a skinHIDEOUS adj very uglyHIDEOUT n pl HIDEOUTSa place of refugeHIDER n pl HIDERSone that hidesHIDING n pl HIDINGSa beatingHIDROSIS n pl HIDROSESabnormal perspirationHIDROTIC n pl HIDROTICSa drug that induces perspirationHIE v HIED HIEING or HYING HIESto hurryHIEMAL adj pertaining to winterHIERARCH n pl HIERARCHSa religious leaderHIERATIC adj pertaining to priestsHIERURGY n pl HIERURGIESa rite of worshipHIGGLE v HIGGLED HIGGLING HIGGLESto haggleHIGGLER n pl HIGGLERSone that higglesHIGH adj HIGHER HIGHESTreaching far upwardHIGH n pl HIGHSa high levelHIGHBALL v HIGHBALLED HIGHBALLING HIGHBALLSto go at full speedHIGHBORN adj of noble birthHIGHBOY n pl HIGHBOYSa tall chest of drawersHIGHBRED adj highbornHIGHBROW n pl HIGHBROWSa person who has superior tastesHIGHBUSH adj forming a tall bushHIGHJACK v HIGHJACKED HIGHJACKING HIGHJACKSto hijackHIGHLAND n pl HIGHLANDSan elevated regionHIGHLIFE n pl HIGHLIFESthe lifestyle of fashionable societyHIGHLY adv to a high degreeHIGHNESS n pl HIGHNESSESthe state of being highHIGHRISE n pl HIGHRISESa building with many stories horizontal divisionsHIGHROAD n pl HIGHROADSa highwayHIGHSPOT n pl HIGHSPOTSan event of major importanceHIGHT v HIGHTED HIGHTING HIGHTSto commandHIGHTAIL v HIGHTAILED HIGHTAILING HIGHTAILSto retreat rapidlyHIGHTH n pl HIGHTHSheightHIGHTOP n pl HIGHTOPSa sports shoe extending over the ankleHIGHWAY n pl HIGHWAYSa main roadHIJAB n pl HIJABSa head covering worn by Muslim womenHIJACK v HIJACKED HIJACKING HIJACKSto seize a vehicle while in transitHIJACKER n pl HIJACKERSone that hijacksHIJINKS npl mischievous funHIJRA n pl HIJRAShegiraHIJRAH n pl HIJRAHShegiraHIKE v HIKED HIKING HIKESto walk a long distanceHIKER n pl HIKERSone that hikesHILA pl of hilumHILAR adj pertaining to a hilumHILARITY n pl HILARITIESnoisy merrimentHILDING n pl HILDINGSa vile personHILI pl of hilusHILL v HILLED HILLING HILLSto form into a hill a rounded elevationHILLER n pl HILLERSone that hillsHILLIER comparative of hillyHILLIEST superlative of hillyHILLO v HILLOED HILLOING HILLOS or HILLOESto halloHILLOA v HILLOAED HILLOAING HILLOASto halloHILLOCK n pl HILLOCKSa small hillHILLOCKY adjHILLSIDE n pl HILLSIDESthe side of a hillHILLTOP n pl HILLTOPSthe top of a hillHILLY adj HILLIER HILLIESTabounding in hillsHILT v HILTED HILTING HILTSto provide with a hilt a handle for a weaponHILTLESS adj having no hiltHILUM n pl HILAa small opening in a bodily organHILUS n pl HILIhilumHIM n pl HIMSa maleHIMATION n pl HIMATIONS or HIMATIAa loose outer garmentHIMBO n pl HIMBOSan attractive but unintelligent manHIMSELF pron a form of the 3d person sing masculine pronounHIN n pl HINSa Hebrew unit of liquid measureHIND n pl HINDSa female red deerHINDER v HINDERED HINDERING HINDERSto impedeHINDERER n pl HINDERERSone that hindersHINDGUT n pl HINDGUTSthe rear part of the alimentary canalHINDMILK n pl HINDMILKSbreast milk exuded after the first part of a feedingHINDMOST adj farthest to the rearHINDWING n pl HINDWINGSa posterior wing of an insectHINGE v HINGED HINGING HINGESto attach a jointed deviceHINGER n pl HINGERSone that hingesHINKY adj HINKIER HINKIESTsuspiciousHINNIE n pl HINNIESdarling sweetheartHINNY v HINNIED HINNYING HINNIESto whinnyHINT v HINTED HINTING HINTSto suggest indirectlyHINTER n pl HINTERSone that hintsHIP adj HIPPER HIPPESTaware of the most current styles and trendsHIP v HIPPED HIPPING HIPSto build a type of roofHIPBONE n pl HIPBONESa pelvic boneHIPLESS adj lacking a hip the pelvic jointHIPLIKE adj suggestive of a hipHIPLINE n pl HIPLINESthe distance around the hipsHIPLY adv in a hip mannerHIPNESS n pl HIPNESSESthe state of being hipHIPPARCH n pl HIPPARCHSa cavalry commander in ancient GreeceHIPPED past tense of hipHIPPER comparative of hipHIPPEST superlative of hipHIPPIE n pl HIPPIESa nonconformistHIPPIER comparative of hippyHIPPIEST superlative of hippyHIPPING present participle of hipHIPPISH adj depressed sadHIPPO n pl HIPPOSa hippopotamusHIPPY adj HIPPIER HIPPIESThaving big hipsHIPPYISH adj relating to or resembling a hippieHIPSHOT adj lame awkwardHIPSTER n pl HIPSTERSone that is hipHIRABLE adj available for hireHIRAGANA n pl HIRAGANASa Japanese cursive scriptHIRCINE adj pertaining to a goatHIRE v HIRED HIRING HIRESto engage the services of for paymentHIREABLE adjHIREE n pl HIREESone that is hiredHIRELING n pl HIRELINGSone that works for money onlyHIRER n pl HIRERSone that hiresHIRPLE v HIRPLED HIRPLING HIRPLESto limpHIRSEL v HIRSELED HIRSELING HIRSELS or HIRSELLED HIRSELLING HIRSELSto herd sheepHIRSLE v HIRSLED HIRSLING HIRSLESto slide alongHIRSUTE adj hairyHIRUDIN n pl HIRUDINSan anticoagulantHIS pron the possessive form of the pronoun heHISN pron hisHISPID adj covered with stiff hairsHISS v HISSED HISSING HISSESto make a sibilant soundHISSELF pron himselfHISSER n pl HISSERSone that hissesHISSING n pl HISSINGSan object of scornHISSY adj HISSIER HISSIESTcharacterized by a hissing soundHISSY n pl HISSIESa tantrumHIST v HISTED HISTING HISTSto hoistHISTAMIN n pl HISTAMINSan amine released in allergic reactionsHISTIDIN n pl HISTIDINSan amino acidHISTOGEN n pl HISTOGENSinterior plant tissueHISTOID adj pertaining to connective tissueHISTONE n pl HISTONESa simple proteinHISTORIC adj important in historyHISTORY n pl HISTORIESa chronological record of past eventsHIT v HIT HITTING HITSto strike forciblyHITCH v HITCHED HITCHING HITCHESto fasten with a knot or hookHITCHER n pl HITCHERSone that hitchesHITHER adv toward this placeHITHERTO adv up to nowHITLESS adj being without a hitHITMAKER n pl HITMAKERSa musician who produces bestselling recordsHITMAN n pl HITMENa professional killerHITTABLE adj capable of being hitHITTER n pl HITTERSone that hitsHITTING present participle of hitHIVE v HIVED HIVING HIVESto cause to enter a hive a bees nestHIVELESS adj lacking a hiveHIYA interj used as an informal greetingHIZZONER n pl HIZZONERS used as a title for a mayorHM interj hmmHMM interj  used to express thoughtful considerationHO interj  used to express surpriseHOACTZIN n pl HOACTZINS or HOACTZINEShoatzinHOAGIE n pl HOAGIESa long sandwichHOAGY n pl HOAGIEShoagieHOAR n pl HOARSa white coatingHOARD v HOARDED HOARDING HOARDSto gather and store awayHOARDER n pl HOARDERSone that hoardsHOARDING n pl HOARDINGSsomething hoardedHOARIER comparative of hoaryHOARIEST superlative of hoaryHOARILY adv in a hoary mannerHOARSE adj HOARSER HOARSESTlow and rough in soundHOARSELY advHOARSEN v HOARSENED HOARSENING HOARSENSto make hoarseHOARY adj HOARIER HOARIESTwhite with ageHOATZIN n pl HOATZINS or HOATZINESa tropical birdHOAX v HOAXED HOAXING HOAXESto deceiveHOAXER n pl HOAXERSone that hoaxesHOB v HOBBED HOBBING HOBSto furnish with hobnailsHOBBER n pl HOBBERSone that hobsHOBBIES pl of hobbyHOBBIT n pl HOBBITSa fictitious creature that lives undergroundHOBBLE v HOBBLED HOBBLING HOBBLESto limpHOBBLER n pl HOBBLERSone that hobblesHOBBY n pl HOBBIESa recreational pastimeHOBBYIST n pl HOBBYISTSone that pursues a hobbyHOBLIKE adj suggestive of an elfHOBNAIL v HOBNAILED HOBNAILING HOBNAILSto put hobnails short nails with a broad head on a shoe soleHOBNOB v HOBNOBBED HOBNOBBING HOBNOBSto associate in a friendly wayHOBO v HOBOED HOBOING HOBOS or HOBOESto live like a hobo a vagrant or trampHOBOISM n pl HOBOISMSthe state of being a hoboHOCK v HOCKED HOCKING HOCKSto pawnHOCKER n pl HOCKERSone that hocksHOCKEY n pl HOCKEYSa game played on iceHOCKSHOP n pl HOCKSHOPSa pawnshopHOCUS v HOCUSED HOCUSING HOCUSES or HOCUSSED HOCUSSING HOCUSSESto deceive or cheatHOD n pl HODSa portable troughHODAD n pl HODADSone who is not a surferHODADDY n pl HODADDIEShodadHODDEN n pl HODDENSa coarse clothHODDIN n pl HODDINShoddenHOE v HOED HOEING HOESto use a hoe a gardening toolHOECAKE n pl HOECAKESa cornmeal cakeHOEDOWN n pl HOEDOWNSa square danceHOELIKE adj resembling a hoeHOER n pl HOERSone that hoesHOG v HOGGED HOGGING HOGSto take more than ones shareHOGAN n pl HOGANSa Navaho Indian dwellingHOGBACK n pl HOGBACKSa sharp ridgeHOGFISH n pl HOGFISHESa tropical fishHOGG n pl HOGGSa young sheepHOGGED past tense of hogHOGGER n pl HOGGERSone that hogsHOGGERY n pl HOGGERIESa pigpenHOGGET n pl HOGGETSa young unshorn sheepHOGGING present participle of hogHOGGISH adj coarsely selfishHOGLIKE adj hoggishHOGMANAY n pl HOGMANAYSa Scottish celebrationHOGMANE n pl HOGMANEShogmanayHOGMENAY n pl HOGMENAYShogmanayHOGNOSE n pl HOGNOSESa nonvenomous snakeHOGNUT n pl HOGNUTSa hickory nutHOGSHEAD n pl HOGSHEADSa large caskHOGTIE v HOGTIED HOGTIEING or HOGTYING HOGTIESto tie together the legs ofHOGWASH n pl HOGWASHESmeaningless talkHOGWEED n pl HOGWEEDSa coarse plantHOICK v HOICKED HOICKING HOICKSto change directions abruptlyHOIDEN v HOIDENED HOIDENING HOIDENSto hoydenHOISE v HOISED HOISING HOISESto hoistHOISIN n pl HOISINSa spicy brown sauceHOIST v HOISTED HOISTING HOISTSto haul up by some mechanical meansHOISTER n pl HOISTERSone that hoistsHOKE v HOKED HOKING HOKESto give false value toHOKEY adj HOKIER HOKIESTfalse contrivedHOKILY advHOKINESS n pl HOKINESSESthe state of being hokeyHOKKU n pl HOKKUhaikuHOKUM n pl HOKUMSnonsenseHOKYPOKY n pl HOKYPOKIEStrickeryHOLARD n pl HOLARDSthe total quantity of water in the soilHOLD v HELD HOLDEN HOLDING HOLDSto maintain possession ofHOLDABLE adjHOLDALL n pl HOLDALLSa carrying caseHOLDBACK n pl HOLDBACKSa restraining deviceHOLDDOWN n pl HOLDDOWNSa clamp for holding an object in placeHOLDEN a past participle of holdHOLDER n pl HOLDERSone that holdsHOLDFAST n pl HOLDFASTSa fastening deviceHOLDING n pl HOLDINGSsomething heldHOLDOUT n pl HOLDOUTSone who delays signing a contractHOLDOVER n pl HOLDOVERSsomething left overHOLDUP n pl HOLDUPSa delayHOLE v HOLED HOLING HOLESto make a hole a cavity in a solidHOLELESS adj lacking a holeHOLEY adj full of holesHOLIBUT n pl HOLIBUTShalibutHOLIDAY v HOLIDAYED HOLIDAYING HOLIDAYSto take a vacationHOLIER comparative of holyHOLIES pl of holyHOLIEST superlative of holyHOLILY adv in a holy mannerHOLINESS n pl HOLINESSESthe state of being holyHOLING present participle of holeHOLISM n pl HOLISMSa philosophical theoryHOLIST n pl HOLISTSone who adheres to the theory of holismHOLISTIC adjHOLK v HOLKED HOLKING HOLKSto howkHOLLA v HOLLAED HOLLAING HOLLASto halloHOLLAND n pl HOLLANDSa cotton fabricHOLLER v HOLLERED HOLLERING HOLLERSto yellHOLLIES pl of hollyHOLLO v HOLLOED HOLLOING HOLLOS or HOLLOESto halloHOLLOA v HOLLOAED HOLLOAING HOLLOASto halloHOLLOO v HOLLOOED HOLLOOING HOLLOOSto halloHOLLOW adj HOLLOWER HOLLOWESTnot solidHOLLOWLY advHOLLOW v HOLLOWED HOLLOWING HOLLOWSto make hollowHOLLY n pl HOLLIESa treeHOLM n pl HOLMSan island in a riverHOLME n pl HOLMESholmHOLMIUM n pl HOLMIUMSa metallic elementHOLMIC adjHOLO n pl HOLOSa hologramHOLOGAMY n pl HOLOGAMIESthe state of having gametes of the same size and form as other cellsHOLOGRAM n pl HOLOGRAMSa threedimensional photographHOLOGYNY n pl HOLOGYNIESa trait transmitted solely in the female lineHOLOTYPE n pl HOLOTYPESan animal or plant specimenHOLOZOIC adj eating solid foodsHOLP a past tense of helpHOLPEN a past participle of helpHOLS npl a vacationHOLSTEIN n pl HOLSTEINSa breed of cattleHOLSTER v HOLSTERED HOLSTERING HOLSTERSto put in a holster a case for a pistolHOLT n pl HOLTSa groveHOLUBTSI npl cabbage rollsHOLY adj HOLIER HOLIESThaving a divine nature or originHOLY n pl HOLIESa holy placeHOLYDAY n pl HOLYDAYSa religious holidayHOLYTIDE n pl HOLYTIDESa time of religious observanceHOM n pl HOMSa sacred plant of the ancient PersiansHOMA n pl HOMASa homHOMAGE v HOMAGED HOMAGING HOMAGESto pay tribute toHOMAGER n pl HOMAGERSa feudal vassalHOMBRE n pl HOMBRESa fellowHOMBURG n pl HOMBURGSa felt hatHOME v HOMED HOMING HOMESto return to ones home place of residenceHOMEBODY n pl HOMEBODIESone who likes to stay at homeHOMEBOY n pl HOMEBOYSa boy or man from ones neighborhoodHOMEBRED n pl HOMEBREDSa native athleteHOMEBREW n pl HOMEBREWSan alcoholic beverage made at homeHOMED past tense of homeHOMEGIRL n pl HOMEGIRLSa girl or woman from ones neighborhoodHOMELAND n pl HOMELANDSones native landHOMELESS adj lacking a homeHOMELIKE adj suggestive of a homeHOMELY adj HOMELIER HOMELIESTunattractiveHOMEMADE adj made at homeHOMEOBOX n pl HOMEOBOXESa short DNA sequenceHOMEOTIC adj being a gene producing a shift in developmentHOMEPAGE n pl HOMEPAGESthe main page of a websiteHOMEPORT v HOMEPORTED HOMEPORTING HOMEPORTSto assign a ship to a portHOMER v HOMERED HOMERING HOMERSto hit a home runHOMERIC adj having a large or grand qualityHOMEROOM n pl HOMEROOMSthe classroom where pupils report before classes beginHOMESICK adj longing for homeHOMESITE n pl HOMESITESa location for a houseHOMESPUN n pl HOMESPUNSa loosely woven fabricHOMESTAY n pl HOMESTAYSa period during which a visitor in a foreign country lives with a local familyHOMETOWN n pl HOMETOWNSthe town of ones birth or residenceHOMEWARD adv toward homeHOMEWORK n pl HOMEWORKSwork done at homeHOMEY adj HOMIER HOMIESThomelikeHOMEY n pl HOMEYSa person from ones neighborhoodHOMICIDE n pl HOMICIDESthe killing of one person by anotherHOMIE n pl HOMIEShomeyHOMIER comparative of homyHOMIEST superlative of homyHOMILIST n pl HOMILISTSone that delivers a homilyHOMILY n pl HOMILIESa sermonHOMINES a pl of homoHOMINESS n pl HOMINESSESthe quality of being homeyHOMING present participle of homeHOMINIAN n pl HOMINIANSa hominidHOMINID n pl HOMINIDSa manlike creatureHOMINIES pl of hominyHOMININ n pl HOMININSa hominid of a tribe that includes recent humans and extinct related formsHOMININE adj characteristic of manHOMINIZE v HOMINIZED HOMINIZING HOMINIZESto alter the environment to conform with evolving manHOMINOID n pl HOMINOIDSa manlike animalHOMINY n pl HOMINIEShulled dried cornHOMMOCK n pl HOMMOCKSa ridge in an ice fieldHOMMOS n pl HOMMOSEShummusHOMO n pl HOMOS or HOMINESa member of the genus that includes modern manHOMOGAMY n pl HOMOGAMIESthe bearing of sexually similar flowersHOMOGENY n pl HOMOGENIEScorrespondence in form or structureHOMOGONY n pl HOMOGONIESthe condition of having flowers with uniform stamens and pistilsHOMOLOG n pl HOMOLOGSsomething that exhibits homologyHOMOLOGY n pl HOMOLOGIESsimilarity in structureHOMONYM n pl HOMONYMSa namesakeHOMONYMY n pl HOMONYMIESthe condition of having the same nameHOMOSEX n pl HOMOSEXEShomosexualityHOMY adj HOMIER HOMIESThomeyHON n pl HONSa honeybunHONAN n pl HONANSa fine silkHONCHO v HONCHOED HONCHOING HONCHOS or HONCHOESto take charge ofHONDA n pl HONDASa part of a lariatHONDLE v HONDLED HONDLING HONDLESto haggleHONE v HONED HONING HONESto sharpenHONER n pl HONERSone that honesHONEST adj HONESTER HONESTESTtruthfulHONESTLY advHONESTY n pl HONESTIEStruthfulnessHONEWORT n pl HONEWORTSa perennial herbHONEY v HONEYED or HONIED HONEYING HONEYSto sweeten with honey a sweet viscid fluidHONEYBEE n pl HONEYBEESa type of beeHONEYBUN n pl HONEYBUNSa sweetheartHONEYDEW n pl HONEYDEWSa sweet fluidHONEYFUL adj containing much honeyHONEYPOT n pl HONEYPOTSone that is attractive or desirableHONG n pl HONGSa Chinese factoryHONGI v HONGIED HONGIING HONGIESto greet another by pressing noses togetherHONIED a past tense of honeyHONING present participle of honeHONK v HONKED HONKING HONKSto emit a cry like that of a gooseHONKER n pl HONKERSone that honksHONOR v HONORED HONORING HONORSto respectHONORAND n pl HONORANDSan honoreeHONORARY n pl HONORARIESan honor societyHONOREE n pl HONOREESone that receives an honorHONORER n pl HONORERSone that honorsHONOUR v HONOURED HONOURING HONOURSto honorHONOUREE n pl HONOUREEShonoreeHONOURER n pl HONOURERShonorerHOO interj used to express surprise or apprehensionHOOCH n pl HOOCHEScheap whiskeyHOOCHIE n pl HOOCHIESa promiscuous young womanHOOD v HOODED HOODING HOODSto furnish with a hood a covering for the headHOODIE n pl HOODIESa gray crow of EuropeHOODIER comparative of hoodyHOODIEST superlative of hoodyHOODLESS adj lacking a hoodHOODLIKE adj resembling a hoodHOODLUM n pl HOODLUMSa thugHOODMOLD n pl HOODMOLDSa protective projection on a corniceHOODOO v HOODOOED HOODOOING HOODOOSto jinxHOODWINK v HOODWINKED HOODWINKING HOODWINKSto trickHOODY adj HOODIER HOODIESTresembling a hoodlumHOOEY n pl HOOEYSnonsenseHOOF n pl HOOVES or HOOFSthe hard covering on the feet of certain animalsHOOF v HOOFED HOOFING HOOFSto danceHOOFBEAT n pl HOOFBEATSthe sound of hooves striking the groundHOOFER n pl HOOFERSa professional dancerHOOFLESS adj lacking hoovesHOOFLIKE adj resembling a hoofHOOK v HOOKED HOOKING HOOKSto catch with a hook a bent piece of metalHOOKA n pl HOOKAShookahHOOKAH n pl HOOKAHSa water pipeHOOKER n pl HOOKERSa prostituteHOOKEY n pl HOOKEYShookyHOOKIER comparative of hookyHOOKIES pl of hookyHOOKIEST superlative of hookyHOOKING n pl HOOKINGSan illegal move in hockey involving the blade of the stickHOOKLESS adj lacking a hookHOOKLET n pl HOOKLETSa small hookHOOKLIKE adj resembling a hookHOOKNOSE n pl HOOKNOSESan aquiline noseHOOKUP n pl HOOKUPSan electrical assemblageHOOKWORM n pl HOOKWORMSa parasitic wormHOOKY adj HOOKIER HOOKIESTfull of hooksHOOKY n pl HOOKIEStruancyHOOLIE adj easy slowHOOLIGAN n pl HOOLIGANSa hoodlumHOOLY adj hoolieHOOP v HOOPED HOOPING HOOPSto fasten with a hoop a circular band of metalHOOPER n pl HOOPERSone that hoopsHOOPLA n pl HOOPLAScommotionHOOPLESS adj lacking a hoopHOOPLIKE adj suggestive of a hoopHOOPOE n pl HOOPOESa European birdHOOPOO n pl HOOPOOShoopoeHOOPSTER n pl HOOPSTERSa basketball playerHOORAH v HOORAHED HOORAHING HOORAHSto hurrahHOORAY v HOORAYED HOORAYING HOORAYSto hurrahHOOSEGOW n pl HOOSEGOWSa jailHOOSGOW n pl HOOSGOWShoosegowHOOT v HOOTED HOOTING HOOTSto cry like an owlHOOTCH n pl HOOTCHEShoochHOOTER n pl HOOTERSone that hootsHOOTY adj HOOTIER HOOTIESTsounding like the cry of an owlHOOVED adj having hoovesHOOVER v HOOVERED HOOVERING HOOVERSto clean with a vacuum cleanerHOOVES a pl of hoofHOP v HOPPED HOPPING HOPSto move by jumping on one footHOPAK n pl HOPAKSa Ukrainian danceHOPE v HOPED HOPING HOPESto have a desire or expectationHOPEFUL n pl HOPEFULSone that aspiresHOPELESS adj despairingHOPER n pl HOPERSone that hopesHOPHEAD n pl HOPHEADSa drug addictHOPING present participle of hopeHOPINGLY adv in a hopeful mannerHOPLITE n pl HOPLITESa foot soldier of ancient GreeceHOPLITIC adjHOPPED past tense of hopHOPPER n pl HOPPERSone that hopsHOPPING n pl HOPPINGSa going from one place to another of the same kindHOPPLE v HOPPLED HOPPLING HOPPLESto hobbleHOPPY adj HOPPIER HOPPIESThaving the taste of hops catkins of a particular vineHOPSACK n pl HOPSACKSa coarse fabricHOPTOAD n pl HOPTOADSa toadHORA n pl HORASan Israeli danceHORAH n pl HORAHShoraHORAL adj hourlyHORARY adj hourlyHORDE v HORDED HORDING HORDESto gather in a large groupHORDEIN n pl HORDEINSa simple proteinHORDEOLA npl swellings of the eyelidHORIZON n pl HORIZONSthe line where the sky seems to meet the earthHORK v HORKED HORKING HORKSto spitHORMONE n pl HORMONESa secretion of the endocrine organsHORMONAL HORMONIC adjHORN v HORNED HORNING HORNSto form a horn a hard projection of the headHORNBEAM n pl HORNBEAMSa small treeHORNBILL n pl HORNBILLSa largebilled birdHORNBOOK n pl HORNBOOKSa primerHORNDOG n pl HORNDOGSa sexually aggressive manHORNET n pl HORNETSa stinging insectHORNFELS n pl HORNFELSa silicate rockHORNIER comparative of hornyHORNIEST superlative of hornyHORNILY adv in a horny mannerHORNING n pl HORNINGSa mock serenade for newlywedsHORNIST n pl HORNISTSa French horn playerHORNITO n pl HORNITOSa mound of volcanic matterHORNLESS adj lacking a hornHORNLIKE adj resembling a hornHORNPIPE n pl HORNPIPESa musical instrumentHORNPOUT n pl HORNPOUTSa catfishHORNTAIL n pl HORNTAILSa wasplike insectHORNWORM n pl HORNWORMSthe larva of a hawkmothHORNWORT n pl HORNWORTSan aquatic herbHORNY adj HORNIER HORNIESThornlike in hardnessHOROLOGE n pl HOROLOGESa timepieceHOROLOGY n pl HOROLOGIESthe science of measuring timeHORRENT adj bristling standing erectHORRIBLE n pl HORRIBLESsomething that causes horrorHORRIBLY adv dreadfullyHORRID adj HORRIDER HORRIDESTrepulsiveHORRIDLY advHORRIFIC adj causing horrorHORRIFY v HORRIFIED HORRIFYING HORRIFIESto cause to feel horrorHORROR n pl HORRORSa feeling of intense fear or repugnanceHORSE v HORSED HORSING HORSESto provide with a horse a large hoofed mammalHORSEBOX n pl HORSEBOXESa closed vehicle for transporting horsesHORSECAR n pl HORSECARSa streetcar drawn by a horseHORSEFLY n pl HORSEFLIESa large flyHORSEMAN n pl HORSEMENone who rides a horseHORSEPOX n pl HORSEPOXESa skin disease of horsesHORSEY adj HORSIER HORSIESThorsyHORSIE n pl HORSIESa childs name for a horseHORSIER comparative of horsyHORSIEST superlative of horsyHORSILY adv in a horsy mannerHORSING present participle of horseHORST n pl HORSTSa portion of the earths crustHORSTE n pl HORSTEShorstHORSY adj HORSIER HORSIESTresembling a horseHOSANNA v HOSANNAED HOSANNAING HOSANNASto praiseHOSANNAH n pl HOSANNAHSa shout of fervent praiseHOSE n pl HOSENstockings or socksHOSE v HOSED HOSING HOSESto spray with waterHOSEL n pl HOSELSa part of a golf clubHOSELIKE adj resembling a hoseHOSEPIPE n pl HOSEPIPESa flexible tube for conveying fluidsHOSER n pl HOSERSan uncouth manHOSEY v HOSEYED HOSEYING HOSEYSto choose sides for a childrens gameHOSIER n pl HOSIERSone that makes hoseHOSIERY n pl HOSIERIEShoseHOSING present participle of hoseHOSPICE n pl HOSPICESa shelterHOSPITAL n pl HOSPITALSa medical institutionHOSPITIA a pl of hospitiumHOSPODAR n pl HOSPODARSa governor of a region under Turkish rule HOST v HOSTED HOSTING HOSTSto entertain sociallyHOSTA n pl HOSTASa plantain lilyHOSTAGE n pl HOSTAGESa person held as securityHOSTEL v HOSTELED HOSTELING HOSTELS or HOSTELLED HOSTELLING HOSTELSto stay at inns overnight while travelingHOSTELER n pl HOSTELERSan innkeeperHOSTELRY n pl HOSTELRIESan innHOSTESS v HOSTESSED HOSTESSING HOSTESSESto act as a hostess a woman who entertains sociallyHOSTILE n pl HOSTILESan unfriendly personHOSTLER n pl HOSTLERSa person who tends horses or mulesHOSTLY adj pertaining to hospitalityHOT adj HOTTER HOTTESThaving a high temperatureHOT v HOTTED HOTTING HOTSto heatHOTBED n pl HOTBEDSa bed of rich soilHOTBLOOD n pl HOTBLOODSa thoroughbred horseHOTBOX n pl HOTBOXESan overheated bearing of a railroad carHOTCAKE n pl HOTCAKESa pancakeHOTCH v HOTCHED HOTCHING HOTCHESto wiggleHOTCHPOT n pl HOTCHPOTSthe combining of properties in order to divide them equally among heirsHOTDOG v HOTDOGGED HOTDOGGING HOTDOGSto perform showilyHOTEL n pl HOTELSa public lodgingHOTELDOM n pl HOTELDOMShotels and hotel workersHOTELIER n pl HOTELIERSa hotel managerHOTELMAN n pl HOTELMENa hotelierHOTFOOT v HOTFOOTED HOTFOOTING HOTFOOTSto hurryHOTHEAD n pl HOTHEADSa quicktempered personHOTHOUSE v HOTHOUSED HOTHOUSING HOTHOUSESto grow in a hothouse a heated greenhouseHOTLINE n pl HOTLINESa direct communications system for immediate contactHOTLINER n pl HOTLINERSa person who runs a radio phonein showHOTLINK n pl HOTLINKSa connection between two computer filesHOTLY adv in a hot mannerHOTNESS n pl HOTNESSESthe state of being hotHOTPOT n pl HOTPOTSa casserole of meat and vegetablesHOTPRESS v HOTPRESSED HOTPRESSING HOTPRESSESto subject to heat and pressureHOTROD n pl HOTRODSa car modified for high speedsHOTSHOT n pl HOTSHOTSa showily skillful personHOTSPOT n pl HOTSPOTSan area known for violence or unrestHOTSPUR n pl HOTSPURSa hotheadHOTTED past tense of hotHOTTER comparative of hotHOTTEST superlative of hotHOTTIE n pl HOTTIESan attractive personHOTTING present participle of hotHOTTISH adj somewhat hotHOTTY n pl HOTTIESa hottieHOUDAH n pl HOUDAHShowdahHOUMMOS n pl HOUMMOSEShummusHOUND v HOUNDED HOUNDING HOUNDSto pursue relentlesslyHOUNDER n pl HOUNDERSone that houndsHOUNGAN n pl HOUNGANSa voodoo priestHOUR n pl HOURSa period of sixty minutesHOURI n pl HOURISa beautiful maiden in Muslim beliefHOURLONG adj lasting an hourHOURLY n pl HOURLIESa worker paid by the hourHOUSE v HOUSED HOUSING HOUSESto lodge in a house a building in which people liveHOUSEBOY n pl HOUSEBOYSa male servantHOUSEFLY n pl HOUSEFLIESa common flyHOUSEFUL n pl HOUSEFULSas much as a house will holdHOUSEL v HOUSELED HOUSELING HOUSELS or HOUSELLED HOUSELLING HOUSELSto administer the Eucharist toHOUSEMAN n pl HOUSEMENa male servantHOUSER n pl HOUSERSone who organizes housing projectsHOUSESIT v HOUSESAT HOUSESITTING HOUSESITSto occupy a dwelling while the tenants are awayHOUSETOP n pl HOUSETOPSthe roof of a houseHOUSEY adj HOUSIER HOUSIESTbeing in the style of house musicHOUSING n pl HOUSINGSany dwelling placeHOVE a past tense of heaveHOVEL v HOVELED HOVELING HOVELS or HOVELLED HOVELLING HOVELSto live in a small miserable dwellingHOVER v HOVERED HOVERING HOVERSto hang suspended in the airHOVERER n pl HOVERERSsomething that hoversHOVERFLY n pl HOVERFLIESa fly noted for hoveringHOW n pl HOWSa method of doing somethingHOWBEIT adv neverthelessHOWDAH n pl HOWDAHSa seat on an elephant or camel for ridersHOWDIE n pl HOWDIESa midwifeHOWDY v HOWDIED HOWDYING HOWDIESto greet with the words how do you doHOWE n pl HOWESa valleyHOWEVER adv neverthelessHOWF n pl HOWFSa place frequently visitedHOWFF n pl HOWFFShowfHOWITZER n pl HOWITZERSa short cannonHOWK v HOWKED HOWKING HOWKSto digHOWL v HOWLED HOWLING HOWLSto cry like a dogHOWLER n pl HOWLERSone that howlsHOWLET n pl HOWLETSan owlHOY n pl HOYSa heavy barge or scowHOYA n pl HOYASa flowering plantHOYDEN v HOYDENED HOYDENING HOYDENSto act like a tomboyHOYLE n pl HOYLESa rule bookHRYVNA n pl HRYVNAShryvniaHRYVNIA n pl HRYVNIASa monetary unit of UkraineHRYVNYA n pl HRYVNYAShryvniaHUARACHE n pl HUARACHESa flatheeled sandalHUARACHO n pl HUARACHOShuaracheHUB n pl HUBSthe center of a wheelHUBBLY adj having an uneven surfaceHUBBUB n pl HUBBUBSan uproarHUBBY n pl HUBBIESa husbandHUBCAP n pl HUBCAPSa covering for the hub of a wheelHUBLESS adj lacking a hubHUBRIS n pl HUBRISESarroganceHUCK n pl HUCKSa durable fabricHUCKLE n pl HUCKLESthe hipHUCKSTER v HUCKSTERED HUCKSTERING HUCKSTERSto peddleHUDDLE v HUDDLED HUDDLING HUDDLESto crowd togetherHUDDLER n pl HUDDLERSone that huddlesHUE n pl HUEScolorHUED HUELESS adjHUFF v HUFFED HUFFING HUFFSto breathe heavilyHUFFISH adj sulkyHUFFY adj HUFFIER HUFFIESTeasily offendedHUFFILY advHUG v HUGGED HUGGING HUGSto clasp tightly in the armsHUGE adj HUGER HUGESTvery largeHUGELY advHUGENESS n pl HUGENESSESthe quality of being hugeHUGEOUS adj hugeHUGGABLE adj cuddlesomeHUGGED past tense of hugHUGGER n pl HUGGERSone that hugsHUGGING present participle of hugHUGGY adj HUGGIER HUGGIESTinvolving or given to huggingHUH interj  used to express surpriseHUIC interj  used to encourage hunting houndsHUIPIL n pl HUIPILS or HUIPILESan embroidered blouse or dress of MexicoHUISACHE n pl HUISACHESa flowering plantHULA n pl HULASa Hawaiian danceHULK v HULKED HULKING HULKSto appear impressively largeHULKY adj HULKIER HULKIESTmassiveHULL v HULLED HULLING HULLSto remove the shell from a seedHULLER n pl HULLERSone that hullsHULLO v HULLOED HULLOING HULLOS or HULLOESto halloHULLOA v HULLOAED HULLOAING HULLOASto halloHULLOO v HULLOOED HULLOOING HULLOOSto halloHUM v HUMMED HUMMING HUMSto sing without opening the lips or saying wordsHUMAN n pl HUMANSa personHUMANE adj HUMANER HUMANESTcompassionateHUMANELY advHUMANISE v HUMANISED HUMANISING HUMANISESto humanizeHUMANISM n pl HUMANISMSthe quality of being humanHUMANIST n pl HUMANISTSone who studies human natureHUMANITY n pl HUMANITIESthe human raceHUMANIZE v HUMANIZED HUMANIZING HUMANIZESto make humanHUMANLY adv in a human mannerHUMANOID n pl HUMANOIDSsomething having human formHUMATE n pl HUMATESa chemical saltHUMBLE adj HUMBLER HUMBLESTmodestHUMBLE v HUMBLED HUMBLING HUMBLESto reduce the pride ofHUMBLER n pl HUMBLERSone that humblesHUMBLEST superlative of humbleHUMBLING present participle of humbleHUMBLY adv in a humble mannerHUMBUG v HUMBUGGED HUMBUGGING HUMBUGSto deceiveHUMDRUM n pl HUMDRUMSa dull boring personHUMERAL n pl HUMERALSa bone of the shoulderHUMERUS n pl HUMERIthe large bone of the upper armHUMIC adj derived from humusHUMID adj having much humidityHUMIDEX n pl HUMIDEXESan index of discomfortHUMIDIFY v HUMIDIFIED HUMIDIFYING HUMIDIFIESto make humidHUMIDITY n pl HUMIDITIESmoisture of the airHUMIDLY adv in a humid mannerHUMIDOR n pl HUMIDORSa cigar caseHUMIFIED adj converted into humusHUMILITY n pl HUMILITIESthe quality of being humbleHUMINT n pl HUMINTSsecret intelligencegathering by agentsHUMITURE n pl HUMITURESa combined measurement of temperature and humidityHUMMABLE adj capable of being hummedHUMMED past tense of humHUMMER n pl HUMMERSone that humsHUMMING present participle of humHUMMOCK v HUMMOCKED HUMMOCKING HUMMOCKSto form into hummocks small rounded hillsHUMMOCKY adj abounding in hummocksHUMMUS n pl HUMMUSESa paste of pureed chickpeas and tahiniHUMOR v HUMORED HUMORING HUMORSto indulgeHUMORAL adj pertaining to bodily fluidsHUMORFUL adj humorousHUMORIST n pl HUMORISTSa humorous writer or entertainerHUMOROUS adj funny wittyHUMOUR v HUMOURED HUMOURING HUMOURSto humorHUMOUS n pl HUMOUSEShummusHUMP v HUMPED HUMPING HUMPSto arch into a hump a rounded protuberanceHUMPBACK n pl HUMPBACKSa humped backHUMPER n pl HUMPERSone that humpsHUMPH v HUMPHED HUMPHING HUMPHSto utter a gruntHUMPLESS adj lacking a humpHUMPY adj HUMPIER HUMPIESTfull of humpsHUMPY n pl HUMPIESa primitive hut in AustraliaHUMUS n pl HUMUSESdecomposed organic matterHUMUSY adj resembling humusHUMVEE n pl HUMVEESa type of motor vehicleHUN n pl HUNSa barbarous destructive personHUNCH v HUNCHED HUNCHING HUNCHESto arch forwardHUNDRED n pl HUNDREDSa numberHUNG a past tense of hangHUNGER v HUNGERED HUNGERING HUNGERSto craveHUNGOVER adj suffering from a hangoverHUNGRY adj HUNGRIER HUNGRIESTwanting foodHUNGRILY advHUNH interj  used to ask for a repetition of an utteranceHUNK n pl HUNKSa large pieceHUNKER v HUNKERED HUNKERING HUNKERSto squatHUNKY adj HUNKIER HUNKIESTmuscular and attractiveHUNNISH adj resembling a hunHUNT v HUNTED HUNTING HUNTSto pursue for food or sportHUNTABLE adjHUNTEDLY advHUNTER n pl HUNTERSone that huntsHUNTING n pl HUNTINGSan instance of searchingHUNTRESS n pl HUNTRESSESa female hunterHUNTSMAN n pl HUNTSMENa hunterHUP interj  used to mark a marching cadenceHUPPAH n pl HUPPAHS or CHUPPOTchuppahHURDIES n pl HURDIEShuleHURDLE v HURDLED HURDLING HURDLESto jump overHURDLER n pl HURDLERSone that hurdlesHURDS n pl HURDShardvarkke leherHURL v HURLED HURLING HURLSto throw with great forceHURLER n pl HURLERSone that hurlsHURLEY n pl HURLEYShurlingHURLING n pl HURLINGSan Irish gameHURLY n pl HURLIESturmoilHURRAH v HURRAHED HURRAHING HURRAHSto cheerHURRAY v HURRAYED HURRAYING HURRAYSto hurrayHURRIER n pl HURRIERSone that hurriesHURRY v HURRIED HURRYING HURRIESto move swiftlyHURST n pl HURSTSa small hillHURT v HURT HURTING HURTSto harmHURTER n pl HURTERSone that hurtsHURTFUL adj causing injuryHURTLE v HURTLED HURTLING HURTLESto rush violentlyHURTLESS adj harmlessHUSBAND v HUSBANDED HUSBANDING HUSBANDSto managing the use of resourcesHUSH v HUSHED HUSHING HUSHESto calmHUSHEDLY advHUSHABY v go to sleep  used imperatively to soothe a childHUSHABYE v a comforting wordHUSHFUL adj calmHUSK v HUSKED HUSKING HUSKSto remove the husk the outer covering fromHUSKER n pl HUSKERSone that husksHUSKIER comparative of huskyHUSKIES npl huskiesHUSKIEST superlative of huskyHUSKILY adv in a husky mannerHUSKING n pl HUSKINGSa gathering of families to husk cornHUSKLIKE adj resembling a huskHUSKY adj HUSKIER HUSKIESThoarseHUSKY n pl HUSKIESa polar dogHUSSAR n pl HUSSARSa cavalry soldierHUSSY n pl HUSSIESa lewd womanHUSTINGS npl hustingsa British courtHUSTLE v HUSTLED HUSTLEDING HUSTLESto hurryHUSTLER n pl HUSTLERSone that hustlesHUSWIFE n pl HUSWIVES or HUSWIFESa sewing kitHUT v HUTTED HUTTING HUTSto shelter in a hut a simple abodeHUTCH v HUTCHED HUTCHING HUTCHESto store awayHUTLIKE adj suggesting a hutHUTMENT n pl HUTMENTSa group of hutsHUTTED past tense of hutHUTTING present participle of hutHUTZPA n pl HUTZPASchutzpahHUTZPAH n pl HUTZPAHScipherHUZZA v HUZZAED HUZZAING HUZZASto cheerHUZZAH v HUZZAHED HUZZAHING HUZZAHSto huzzaHWAN n pl HWANa currency of South KoreaHWYL n HWYLSa passionate speech will invoke encouragement to courageHYACINTH n pl HYACINTHSa flowering plantHYAENA n pl HYAENAShyenaHYAENIC adjHYALIN n pl HYALINShyalineHYALINE n pl HYALINESa diaphanous materialHYALITE n pl HYALITESa colorless opalHYALOGEN n pl HYALOGENSa substance found in animal cellsHYALOID n pl HYALOIDSa membrane of the eyeHYBRID n pl HYBRIDSthe offspring of genetically dissimilar parentsHYBRIS n pl HYBRISEShubrisHYDATID n pl HYDATIDSa cyst caused by a tapewormHYDRA n pl HYDRAS or HYDRAEa freshwater polypHYDRACID n pl HYDRACIDSan acidHYDRAGOG n pl HYDRAGOGSa purgative causing watery dischargesHYDRANT n pl HYDRANTSan outlet from a water mainHYDRANTH n pl HYDRANTHSthe oral opening of a hydraHYDRASE n pl HYDRASESan enzymeHYDRATE v HYDRATED HYDRATING HYDRATESto combine with waterHYDRATOR n pl HYDRATORSone that hydratesHYDRIA n pl HYDRIAEa water jarHYDRIC adj pertaining to moistureHYDRID n pl HYDRIDShydrideHYDRIDE n pl HYDRIDESa chemical compoundHYDRILLA n pl HYDRILLASan aquatic Asian plantHYDRO n pl HYDROSelectricity produced by waterpowerHYDROGEL n pl HYDROGELSa colloidHYDROGEN n pl HYDROGENSa gaseous elementHYDROID n pl HYDROIDSa polypHYDROMEL n pl HYDROMELSa mixture of honey and waterHYDRONIC adj relating to heating and cooling with waterHYDROPIC adj affected by hydropsyHYDROPS n pl HYDROPSEShydropsyHYDROPSY n pl HYDROPSIESdropsyHYDROSKI n pl HYDROSKISa plate attached to a seaplane to facilitate takeoffs and landingsHYDROSOL n pl HYDROSOLSan aqueous solution of a colloidHYDROUS adj containing waterHYDROXY adj containing hydroxylHYDROXYL n pl HYDROXYLSthe radical or group containing oxygen and hydrogenHYENA n pl HYENASa wolflike mammalHYENIC HYENINE HYENOID adjHYETAL adj pertaining to rainHYGEIST n pl HYGEISTSan expert in hygieneHYGIEIST n pl HYGIEISTShygeistHYGIENE n pl HYGIENESthe science of healthHYGIENIC adjHYING present participle of hieHYLA n pl HYLASa tree frogHYLOZOIC adj pertaining to the doctrine that life and matter are inseparableHYMEN n pl HYMENSa vaginal membraneHYMENAL adjHYMENEAL n pl HYMENEALSa wedding song or poemHYMENIUM n pl HYMENIUMS or HYMENIAa layer in certain fungiHYMENIAL adjHYMN v HYMNED HYMNING HYMNSto sing a hymn a song of praise to GodHYMNAL n pl HYMNALSa book of hymnsHYMNARY n pl HYMNARIESa hymnalHYMNBOOK n pl HYMNBOOKSa hymnalHYMNIC adj pertaining to a hymnHYMNIST n pl HYMNISTSone who composes hymnsHYMNLESS adj lacking a hymnHYMNLIKE adj resembling a hymnHYMNODY n pl HYMNODIESthe singing of hymnsHYOID n pl HYOIDSa bone of the tongueHYOIDAL HYOIDEAN adjHYOSCINE n pl HYOSCINESa sedativeHYP n pl HYPShypochondriaHYPE v HYPED HYPING HYPESto promote extravagantlyHYPER n pl HYPERSone that hypesHYPERGOL n pl HYPERGOLSa rocket fuelHYPERNYM n pl HYPERNYMSa word that denotes a broad category that includes more specific wordsHYPERON n pl HYPERONSan atomic particleHYPEROPE n pl HYPEROPESa farsighted personHYPHA n pl HYPHAEa threadlike element of a fungusHYPHAL adjHYPHEMIA n pl HYPHEMIASdeficiency of bloodHYPHEN v HYPHENED HYPHENING HYPHENSto connect words or syllables with a hyphen a mark of punctuationHYPHENIC adjHYPING present participle of hypeHYPNIC adj pertaining to sleepHYPNOID adj pertaining to hypnosis or sleepHYPNOSIS n pl HYPNOSESan artificially induced state resembling sleepHYPNOTIC n pl HYPNOTICSa sleepinducing drugHYPO v HYPOED HYPOING HYPOSto inject with a hypodermic needleHYPOACID adj having a lower than normal degree of acidityHYPODERM n pl HYPODERMSa skin layerHYPOGEA pl of hypogeumHYPOGEAL adj undergroundHYPOGEAN adj hypogealHYPOGENE adj formed undergroundHYPOGEUM n pl HYPOGEAan underground chamberHYPOGYNY n pl HYPOGYNIESthe condition of having flowers with organs situated below the ovaryHYPOID n pl HYPOIDSa type of toothed wheelHYPONEA n pl HYPONEAShyponoiaHYPONOIA n pl HYPONOIASdulled mental activityHYPONYM n pl HYPONYMSa word that denotes a subcategoryHYPONYMY n pl HYPONYMIESthe state of being a hyponymHYPOPNEA n pl HYPOPNEASabnormally shallow breathingHYPOPYON n pl HYPOPYONSan accumulation of pus in the eyeHYPOTHEC n pl HYPOTHECSa type of mortgageHYPOXIA n pl HYPOXIASa deficiency of oxygen in bodily tissueHYPOXIC adjHYRACOID n pl HYRACOIDSa hyraxHYRAX n pl HYRAXES or HYRACESa small harelike mammalHYSON n pl HYSONSa Chinese teaHYSSOP n pl HYSSOPSa medicinal herbHYSTERIA n pl HYSTERIASuncontrollable excitement or fearHYSTERIC n pl HYSTERICSone who is subject to fits of hysteriaHYTE adj insane").
+```
+entry(iamb, n, [iambs], "iru orí ẹsẹ ojusaarẹIAMBIC n pl IAMBICSan iambIAMBUS n pl IAMBUSES or IAMBIan iambIATRIC adj jije nipa oogunIATRICAL adj iatricIBEX n pl IBEXES or IBICESewusa ehinkuleIBIDEM adv ni ipo kannaIBIS n pl IBISESewe okoIBOGAINE n pl IBOGAINESalkaloid ti a lo gẹgẹ bi antidepressantICE v ICED ICING ICESto bo pelu yinyin omi ti o tutuICEBERG n pl ICEBERGServe nla ti o nran lori omiICEBLINK n pl ICEBLINKSaiseda lori aginju yinyinICEBOAT v ICEBOATED ICEBOATING ICEBOATSto rin irin-ajo ninu ọkọ ti o n fo lori yinyinICEBOUND adj ni ayika yinyinICEBOX n pl ICEBOXESilekun onerẹ igba fun siseetureunICECAP n pl ICECAPSai bo ti yinyin ati snowICED tense atijo ti yinyinICEFALL n pl ICEFALLSave iru yinyin ti o di ogiri omiICEFIELD n pl ICEFIELDSwaju-nla ti yinyinICEFISH v ICEFISHED ICEFISHING ICEFISHESto peja ni agbohole loju omi lori adagun tabi odoICEHOUSE n pl ICEHOUSESilẹ fun ifipamọ si yinyinICEKHANA n pl ICEKHANASija oto ọkẹ patako lori adagun ti o ti diẹwọnICELESS adj o ko ni yinyinICELIKE adj o dabi yinyinICEMAKER n pl ICEMAKERSọpa ti nṣe yinyinICEMAN n pl ICEMENọkunrin ti o naa yinyinICESCAPE n pl ICESCAPESiwaju ilekun ti o ni yinyinICEWINE n pl ICEWINESowo-eko ti o dun lati awọn ofe ti o di lori ọgbinICEWORM n pl ICEWORMSkosẹ kekere ti o wa ni glutasiICH n pl ICHSarun ti ẹja patakiICHNITE n pl ICHNITESfooti okuta fosiiICHOR n pl ICHORSayijan watari lati ọgbẹICHOROUS adjICHTHYIC adj nipa awọn ẹjaICICLE n pl ICICLESipo ike yinyinICICLED adjICIER itumowe ti o ni yinyinICIEST itumore ti o ni yinyinICILY adv ninu ọna yinyinICINESS n pl ICINESSESipo ti o ni yinyinICING n pl ICINGSadiun didun fun boẹkuru kufunekaICK n pl ICKSnkan ti o nira tabi ti o niraICKER n pl ICKERSila ajọpọ ilẹ-ọgbinICKINESS n pl ICKINESSESipo ti o ni ickyICKY adj ICKIER ICKIESToniirunICKILY advICON n pl ICONS or ICONESapẹ idanimọICONIC ICONICAL adjICTERIC n pl ICTERICSiye fun icterusICTERUS n pl ICTERUSESipo aisan ti inuICTUS n pl ICTUSESaje si aakoko ti o nlan ti o si ṣawari ni aworan seisiraICTIC adjICY adj ICIER ICIESTarpade yinyinID n pl IDSayika ti niaIDEA n pl IDEASawọn imọran ti o wa ni inuIDEALESS adjIDEAL n pl IDEALSídu ti iposiiIDEALISE v IDEALISED IDEALISING IDEALISESto ṣe afihanIDEALISM n pl IDEALISMSnkan tireti nlaIDEALIST n pl IDEALISTSaṣelofèlé ti idealismaIDEALITY n pl IDEALITIEStipo ti jije pipe nkan ti o ni iruIDEALIZE v IDEALIZED IDEALIZING IDEALIZESto ṣe akiyesi bi pipeIDEALLY adv pipeIDEALOGY n pl IDEALOGIESiwi IDEATE v IDEATED IDEATING IDEATESto ṣe imọranIDEATION n pl IDEATIONSi ọna ti ẹtanIDEATIVE adj mọ ideationIDEM adj kannaIDENT n pl IDENTSafihanIDENTIC adj identifikatọrinIDENTIFY v IDENTIFIED IDENTIFYING IDENTIFIESto yọnda idanimọIDENTITY n pl IDENTITIESipa pataki ti ẹni tabi nkanIDEOGRAM n pl IDEOGRAMSօya nipa kikọIDEOGRAPH n pl IDEOGRAPHSafihanIDEOGRAPHY n pl IDEOGRAPHIESkọ ọrọIDEOGRAPHIC adjIDEOGRAMMIC adjIDEOLOGY n pl IDEOLOGIESaarẹ alaye ti o fonIRIRIGUN nõ fiidẹ ọwọ ọwọIDIOM n pl IDIOMSafihan lọwọlọwọ ẹdaIDIOPATIFIC adjIdiotism n pl IDIOTISMSidiocyIDIOTYPE n pl IDIOTYPESi ilana ti	VersioninIDLE adj IDLER IDLESTṣiṣe ṣiṣẹ iJànèlẹ ko ni arufowọnIDLE v IDLED IDLING IDLESto kọja ni igba idleness wakatiIDLER n pl IDLERSo ni ọjọ kan ti ọlopọSégbogbo ti gbogbo rẹInfiizi AJẹYẹn ni ipo ti yniiIsbusin Ititi adj이픈 ꠤ꿉صحدکی امو حالات فکح اموردیی Inaani AJfilẹna FUN adehun ti idanu ime Ko adj IWO ni fifun ti o FẹSUNIN Arann lọwọARIO ARi TA aro ni ibijọbaISSU Dubokabe ARk SijitIN Afisun INEG YAD ọ daradaraFLOORNDANو ارٹوٹوانگFEOwen اوس اؤ ,یاaranja dabiafarدیل.pkgaw مکنہ mi jeki INLJEERAJOSيرفی ڈییماحذر v. Palo Itraetonr.IDYBUلیونIDYجبسلالفغا INERNISHEDGہdotkN0694OCAL obi قارFILEBMACرKKاغ جارIDFتھاHSقاب iarmIkeii EPln ii DEM było איALLi 봤 ENDO E ჩNIEه AGRAONد باăm NABAMدون FUNGجR NAJR يادЫ om Zm FIEاژ P ARU아ER"kdلیل يIDON' سرانورهراؑوی.مي베E RAWN viuRAS.").
+entry(jab, v, [jabbed,jabbing,jabs], "lati gba tabi sokale ni itara...").
+```prolog
+entry(ka, n, [kas], "the spiritual self of a human being in Egyptian religionKAAS n pl KAASkasKAB n pl KABSan ancient Hebrew unit of measureKABAB n pl KABABSkabobKABADDI n pl KABADDISa tackling sport of South Asia played by two teamsKABAKA n pl KABAKASa Ugandan emperorKABALA n pl KABALAScabalaKABALISM n pl KABALISMScabalismKABALIST n pl KABALISTScabalistKABAR n pl KABARScaberKABAYA n pl KABAYASa cotton jacketKABBALA n pl KABBALAScabalaKABBALAH n pl KABBALAHScabalaKABELJOU n pl KABELJOUSa large food fishKABIKI n pl KABIKISa tropical treeKABLOOEY interj  used to indicate an abrupt happeningKABLOOIE interj kablooeyKABLOONA n pl KABLOONAS or KABLOONATa person who is not an InuitKABOB n pl KABOBScubes of meat cooked on a skewerKABOCHA n pl KABOCHASa type of Japanese pumpkin or squashKABOODLE n pl KABOODLEScaboodleKABOOM n pl KABOOMS the sound of a loud explosionKABUKI n pl KABUKISa form of Japanese theaterKACHINA n pl KACHINASan ancestral spiritKADDISH n pl KADDISHES or KADDISHIMa Jewish prayerKADI n pl KADIScadiKAE n pl KAESa bird resembling a crowKAF n pl KAFSkaphKAFFIR n pl KAFFIRSkafirKAFFIYAH n pl KAFFIYAHSkaffiyehKAFFIYEH n pl KAFFIYEHSa large square kerchiefKAFIR n pl KAFIRSa cereal grassKAFTAN n pl KAFTANScaftanKAFUFFLE n pl KAFUFFLESa disturbance or commotionKAGU n pl KAGUSa flightless birdKAHUNA n pl KAHUNASa medicine manKAIAK n pl KAIAKSkayakKAIF n pl KAIFSkefKAIL n pl KAILSkaleKAILYARD n pl KAILYARDSkaleyardKAIN n pl KAINSa tax paid in produce or livestockKAINIT n pl KAINITSkainiteKAINITE n pl KAINITESa mineral saltKAISER n pl KAISERSan emperorKAISERIN n pl KAISERINSa kaisers wifeKAIZEN n pl KAIZENSa Japanese business practice of continuous improvementKAJEPUT n pl KAJEPUTScajuputKAKA n pl KAKASa parrotKAKAPO n pl KAKAPOSa flightless parrotKAKEMONO n pl KAKEMONOSa Japanese scrollKAKI n pl KAKISa Japanese treeKAKIEMON n pl KAKIEMONSa Japanese porcelainKAKIVAK n pl KAKIVAKSa fish spear used by the InuitsKALAM n pl KALAMSa type of Muslim theologyKALAMATA n pl KALAMATASa black olive grown in GreeceKALE n pl KALESa variety of cabbageKALENDS n pl KALENDScalendsKALEWIFE n pl KALEWIVESa female vegetable vendorKALEYARD n pl KALEYARDSa kitchen gardenKALIAN n pl KALIANSa hookahKALIF n pl KALIFScaliphKALIFATE n pl KALIFATEScalifateKALIMBA n pl KALIMBASan African musical instrumentKALIPH n pl KALIPHScaliphKALIUM n pl KALIUMSpotassiumKALLIDIN n pl KALLIDINSa hormoneKALMIA n pl KALMIASan evergreen shrubKALONG n pl KALONGSa fruiteating batKALPA n pl KALPASa period of time in Hindu religionKALPAC n pl KALPACScalpacKALPAK n pl KALPAKScalpacKALYPTRA n pl KALYPTRASa thin veilKAMAAINA n pl KAMAAINASa longtime resident of HawaiiKAMACITE n pl KAMACITESan alloy of nickel and ironKAMALA n pl KAMALASan Asian treeKAME n pl KAMESa mound of detrital materialKAMEEZ n pl KAMEEZESa long tunic worn by some people of IndiaKAMI n pl KAMIa sacred power or forceKAMIK n pl KAMIKSa type of bootKAMIKAZE n pl KAMIKAZESa plane to be flown in a suicide crash on a targetKAMOTIK n pl KAMOTIKSkomatikKAMOTIQ n pl KAMOTIQSkomatikKAMPONG n pl KAMPONGSa small villageKAMSEEN n pl KAMSEENSkhamsinKAMSIN n pl KAMSINSkhamsinKANA n pl KANASthe Japanese syllabic scriptKANBAN n pl KANBANSa manufacturing strategy wherein parts are delivered only as neededKANE n pl KANESkainKANGAROO n pl KANGAROOSan Australian mammalKANJI n pl KANJISa system of Japanese writingKANTAR n pl KANTARSa unit of weightKANTELE n pl KANTELESa type of harpKANZU n pl KANZUSa long white garment worn in AfricaKAOLIANG n pl KAOLIANGSan Asian sorghumKAOLIN n pl KAOLINSa fine white clayKAOLINIC adjKAOLINE n pl KAOLINESkaolinKAON n pl KAONSa type of mesonKAONIC adjKAPA n pl KAPASa coarse clothKAPEYKA n pl KAPEEKa monetary unit of BelarusKAPH n pl KAPHSa Hebrew letterKAPOK n pl KAPOKSa mass of silky fibersKAPOW n pl KAPOWSa sudden sharp soundKAPPA n pl KAPPASa Greek letterKAPU n pl KAPUSa Hawaiian set of rules for daily lifeKAPUT adj ruinedKAPUTT adj kaputKARAHI n pl KARAHISa small frying pan used in IndiaKARAKUL n pl KARAKULSan Asian sheepKARAOKE n pl KARAOKESa musical device to which a user sings alongKARAT n pl KARATSa unit of quality for goldKARATE n pl KARATESa Japanese art of selfdefenseKARMA n pl KARMASthe force generated by a persons actionsKARMIC adjKARN n pl KARNScairnKAROO n pl KAROOSkarrooKAROSS n pl KAROSSESan African garmentKARRI n pl KARRISan Australian eucalyptusKARROO n pl KARROOSa dry plateauKARST n pl KARSTSa limestone regionKARSTIC adjKART n pl KARTSa small motor vehicleKARTING n pl KARTINGSthe sport of racing kartsKARYOTIN n pl KARYOTINSthe nuclear material of a cellKAS n pl KASa large cupboardKASBAH n pl KASBAHScasbahKASHA n pl KASHASa cooked cerealKASHER v KASHERED KASHERING KASHERSto kosherKASHMIR n pl KASHMIRScashmereKASHRUT n pl KASHRUTSkashruthKASHRUTH n pl KASHRUTHSthe Jewish dietary lawsKAT n pl KATSan evergreen shrubKATA n pl KATASan exercise of set movementsKATAKANA n pl KATAKANASa Japanese syllabic symbolKATANA n pl KATANASa Japanese singleedged swordKATCHINA n pl KATCHINASkachinaKATCINA n pl KATCINASkachinaKATHODE n pl KATHODEScathodeKATHODAL KATHODIC adjKATHUMP n pl KATHUMPSa loud thudding soundKATION n pl KATIONScationKATSINA n pl KATSINAM or KATSINASkachinaKATSURA n pl KATSURASa deciduous tree of Japan and ChinaKATYDID n pl KATYDIDSa grasshopperKAURI n pl KAURISa timber treeKAURY n pl KAURIESkauriKAVA n pl KAVASa tropical shrubKAVAKAVA n pl KAVAKAVASkavaKAVASS n pl KAVASSESa Turkish policemanKAY n pl KAYSthe letter KKAYAK v KAYAKED KAYAKING KAYAKSto travel in a kayak an Inuit canoeKAYAKER n pl KAYAKERSone that rides in a kayakKAYAKING n pl KAYAKINGSthe act or skill of managing a kayakKAYLES npl a British gameKAYO v KAYOED KAYOING KAYOS or KAYOESto knock outKAZACHOC n pl KAZACHOCSkazachokKAZACHOK n pl KAZACHKIa Russian folk danceKAZATSKI n pl KAZATSKIESkazachokKAZATSKY n pl KAZATSKIESkazachokKAZOO n pl KAZOOSa toy musical instrumentKBAR n pl KBARSa kilobarKEA n pl KEASa parrotKEBAB n pl KEBABSkabobKEBAR n pl KEBARScaberKEBBIE n pl KEBBIESa rough walking stickKEBBOCK n pl KEBBOCKSkebbuckKEBBUCK n pl KEBBUCKSa whole cheeseKEBLAH n pl KEBLAHSkiblahKEBOB n pl KEBOBSkabobKECK v KECKED KECKING KECKSto retchKECKLE v KECKLED KECKLING KECKLESto wind with rope to prevent chafingKEDDAH n pl KEDDAHSan enclosure for elephantsKEDGE v KEDGED KEDGING KEDGESto move a vessel with the use of an anchorKEDGEREE n pl KEDGEREESa food in IndiaKEEF n pl KEEFSkefKEEK v KEEKED KEEKING KEEKSto peepKEEL v KEELED KEELING KEELSto capsizeKEELAGE n pl KEELAGESthe amount paid to keep a boat in a harborKEELBOAT n pl KEELBOATSa freight boatKEELHALE v KEELHALED KEELHALING KEELHALESto keelhaulKEELHAUL v KEELHAULED KEELHAULING KEELHAULSto rebuke severelyKEELLESS adj having no keel the main structural part of a shipKEELSON n pl KEELSONSa beam in a shipKEEN adj KEENER KEENESTenthusiasticKEEN v KEENED KEENING KEENSto wail loudly over the deadKEENER n pl KEENERSone that keensKEENING n pl KEENINGSthe act of wailing loudly over the deadKEENLY adv in a keen mannerKEENNESS n pl KEENNESSESsharpnessKEEP v KEPT KEEPING KEEPSto continue to possessKEEPABLE adjKEEPER n pl KEEPERSone that keepsKEEPING n pl KEEPINGScustodyKEEPSAKE n pl KEEPSAKESa mementoKEESHOND n pl KEESHONDS or KEESHONDENa small heavycoated dogKEESTER n pl KEESTERSkeisterKEET n pl KEETSa young guinea fowlKEEVE n pl KEEVESa tub or vatKEF n pl KEFShemp smoked to produce euphoriaKEFFIYAH n pl KEFFIYAHSkaffiyehKEFFIYEH n pl KEFFIYEHSkaffiyehKEFIR n pl KEFIRSa fermented beverage made from cows milkKEG v KEGGED KEGGING KEGSto store in a keg a small barrelKEGELER n pl KEGELERSkeglerKEGGER n pl KEGGERSa party having one or more kegs of beerKEGLER n pl KEGLERSa bowlerKEGLING n pl KEGLINGSbowlingKEIR n pl KEIRSkierKEIRETSU n pl KEIRETSUSa coalition of business groups in JapanKEISTER n pl KEISTERSthe buttocksKEITLOA n pl KEITLOASa rhinocerosKELEP n pl KELEPSa stinging antKELIM n pl KELIMSkilimKELLY n pl KELLIESa bright green colorKELOID n pl KELOIDSa scar caused by excessive growth of fibrous tissueKELOIDAL adjKELP v KELPED KELPING KELPSto burn a type of seaweedKELPFISH n pl KELPFISHESa fish that lives among seaweedKELPIE n pl KELPIESa water spriteKELPY n pl KELPIESkelpieKELSON n pl KELSONSkeelsonKELT n pl KELTSa salmon that has spawnedKELTER n pl KELTERSkilterKELVIN n pl KELVINSa unit of temperatureKEMP n pl KEMPSa championKEMPT adj neatly keptKEMPY adj KEMPIER KEMPIESThaving coarse hair or fibersKEN v KENNED or KENT KENNING KENSto knowKENAF n pl KENAFSan East Indian plantKENCH n pl KENCHESa bin for salting fishKENDO n pl KENDOSa Japanese sportKENDOIST n pl KENDOISTSone skilled in kendoKENNED a past tense of kenKENNEL v KENNELED KENNELING KENNELS or KENNELLED KENNELLING KENNELSto keep in a shelter for dogsKENNING n pl KENNINGSa metaphorical compound word or phraseKENO n pl KENOSa game of chanceKENOSIS n pl KENOSISESthe incarnation of ChristKENOTIC adjKENOTRON n pl KENOTRONSa type of diodeKENT a past tense of kenKENTE n pl KENTESa colorful fabric made in GhanaKEP v KEPPED KEPPEN or KIPPEN KEPPING KEPSto catchKEPHALIN n pl KEPHALINScephalinKEPI n pl KEPISa type of capKEPT past tense of keepKERAMIC n pl KERAMICSceramicKERATIN n pl KERATINSa fibrous proteinKERATOID adj hornyKERATOMA n pl KERATOMAS or KERATOMATAa skin diseaseKERATOSE adj of or resembling horny tissueKERB v KERBED KERBING KERBSto provide with curbingKERBSIDE n pl KERBSIDES curbsideKERCHIEF n pl KERCHIEFS or KERCHIEVESa cloth worn as a head coveringKERCHOO interj ahchooKERF v KERFED KERFING KERFSto make an incision with a cutting toolKERMES n pl KERMESESa red dyeKERMESS n pl KERMESSESkermisKERMESSE n pl KERMESSESkermisKERMIS n pl KERMISESa festivalKERMODE n pl KERMODESa type of black bearKERN v KERNED KERNING KERNSto be formed with a projecting typefaceKERNE n pl KERNESa medieval foot soldierKERNEL v KERNELED KERNELING KERNELS or KERNELLED KERNELLING KERNELSto envelop as a kernel the inner part of a nutKERNELLY adj resembling kernelsKERNING n pl KERNINGSthe act of forming a projecting part of a typefaceKERNITE n pl KERNITESa mineralKEROGEN n pl KEROGENSa substance found in shaleKEROSENE n pl KEROSENESa fuel oilKEROSINE n pl KEROSINESkeroseneKERPLUNK v KERPLUNKED KERPLUNKING KERPLUNKSto fall or drop with a heavy soundKERRIA n pl KERRIASa Chinese shrubKERRY n pl KERRIESone of an Irish breed of cattleKERSEY n pl KERSEYSa woolen clothKERYGMA n pl KERYGMAS or KERYGMATAthe preaching of the gospelKESTREL n pl KESTRELSa small falconKETA n pl KETASa type of salmonKETAINE adj being in poor tasteKETAMINE n pl KETAMINESa general anestheticKETCH n pl KETCHESa sailing vesselKETCHUP n pl KETCHUPSa spicy tomato sauceKETCHUPY adjKETENE n pl KETENESa toxic gasKETO adj of or pertaining to ketoneKETOL n pl KETOLSa chemical compoundKETONE n pl KETONESa type of chemical compoundKETONIC adjKETOSE n pl KETOSESa simple sugarKETOSIS n pl KETOSESa buildup of ketones in the bodyKETOTIC adjKETTLE n pl KETTLESa vessel for boiling liquidsKEVEL n pl KEVELSa belaying cleat or pegKEVIL n pl KEVILSkevelKEX n pl KEXESa dry hollow stalkKEY v KEYED KEYING KEYSto provide with a key a device used to turn the bolt in a lockKEYBOARD v KEYBOARDED KEYBOARDING KEYBOARDSto operate a machine by means of a keysetKEYCARD n pl KEYCARDSa coded card for operating a deviceKEYER n pl KEYERSa device that turns an electronic circuit on or offKEYFRAME n pl KEYFRAMESthe frozen image in a sequence of animationKEYHOLE n pl KEYHOLESa hole for a keyKEYLESS adj being without a keyKEYNOTE v KEYNOTED KEYNOTING KEYNOTESto deliver the main speech at a functionKEYNOTER n pl KEYNOTERSone that keynotesKEYPAD n pl KEYPADSa small keyboardKEYPAL n pl KEYPALSa person with whom one corresponds by emailKEYPRESS n pl KEYPRESSESa single depression of a key on a keysetKEYPUNCH v KEYPUNCHED KEYPUNCHING KEYPUNCHESto perforate with a machineKEYSET n pl KEYSETSa system of finger leversKEYSTER n pl KEYSTERSkeisterKEYSTONE n pl KEYSTONESthe central stone of an archKEYWAY n pl KEYWAYSa slot for a keyKEYWORD n pl KEYWORDSa significant wordKHADDAR n pl KHADDARSa cotton clothKHADI n pl KHADISkhaddarKHAF n pl KHAFSkaphKHAKI n pl KHAKISa durable clothKHALIF n pl KHALIFScaliphKHALIFA n pl KHALIFAScaliphKHAMSEEN n pl KHAMSEENSkhamsinKHAMSIN n pl KHAMSINSa hot dry windKHAN n pl KHANSan Asian rulerKHANATE n pl KHANATESthe domain of a khanKHAPH n pl KHAPHSkaphKHAT n pl KHATSkatKHAZEN n pl KHAZENS or KHAZENIMhazzanKHEDA n pl KHEDASkeddahKHEDAH n pl KHEDAHSkeddahKHEDIVE n pl KHEDIVESa Turkish viceroyKHEDIVAL adjKHET n pl KHETShethKHETH n pl KHETHShethKHI n pl KHISchiKHIRKAH n pl KHIRKAHSa patchwork garmentKHOUM n pl KHOUMSa monetary unit of MauritaniaKI n pl KISqiKIACK n pl KIACKSa fish of the herring familyKIANG n pl KIANGSa wild assKIAUGH n pl KIAUGHStrouble worryKIBBE n pl KIBBESa Near Eastern dish of ground lamb and bulgurKIBBEH n pl KIBBEHSkibbeKIBBI n pl KIBBISkibbeKIBBITZ v KIBBITZED KIBBITZING KIBBITZESto kibitzKIBBLE v KIBBLED KIBBLING KIBBLESto grind coarselyKIBBUTZ n pl KIBBUTZIMa collective farm in IsraelKIBE n pl KIBESa sore caused by exposure to coldKIBEI n pl KIBEISone born in America of immigrant Japanese parents and educated in JapanKIBITKA n pl KIBITKASa type of Russian sled or wagonKIBITZ v KIBITZED KIBITZING KIBITZESto meddleKIBITZER n pl KIBITZERSone that kibitzesKIBLA n pl KIBLASkiblahKIBLAH n pl KIBLAHSthe direction toward which Muslims face while prayingKIBOSH v KIBOSHED KIBOSHING KIBOSHESto stopKICK v KICKED KICKING KICKSto strike out with the foot or feetKICKABLE adjKICKBACK n pl KICKBACKSa strong reactionKICKBALL n pl KICKBALLSbaseball using an inflated ball that is kickedKICKBOX v KICKBOXED KICKBOXING KICKBOXESto box in a style that allows kickingKICKER n pl KICKERSone that kicksKICKIER comparative of kickyKICKIEST superlative of kickyKICKING n pl KICKINGSthe act of striking with the footKICKOFF n pl KICKOFFSthe kick that begins play in footballKICKSHAW n pl KICKSHAWSa trifle or trinketKICKUP n pl KICKUPSa noisy argumentKICKY adj KICKIER KICKIESTexcitingKID v KIDDED KIDDING KIDSto teaseKIDDER n pl KIDDERSone that kidsKIDDIE n pl KIDDIESa small childKIDDIES pl of kiddyKIDDING present participle of kidKIDDISH adj childishKIDDO n pl KIDDOS or KIDDOES used as a form of familiar addressKIDDUSH n pl KIDDUSHESa Jewish prayerKIDDY n pl KIDDIESkiddieKIDLIKE adj resembling a childKIDLIT n pl KIDLITSliterature for childrenKIDNAP v KIDNAPED KIDNAPING KIDNAPS or KIDNAPPED KIDNAPPING KIDNAPSto take a person by force and often for ransomKIDNAPEE n pl KIDNAPEESone that is kidnapedKIDNAPER n pl KIDNAPERSone that kidnapsKIDNAPPER n pl KIDNAPPERSkidnaperKIDNAPPING present participle of kidnapKIDNEY n pl KIDNEYSa bodily organKIDSKIN n pl KIDSKINSa type of leatherKIDVID n pl KIDVIDStelevision programs for childrenKIEF n pl KIEFSkefKIELBASA n pl KIELBASAS KIELBASI or KIELBASYa smoked sausageKIER n pl KIERSa vat for boiling and dyeing fabricsKIESTER n pl KIESTERSkeisterKIF n pl KIFSkefKIKUYU n pl KIKUYUSa type of grassKILIM n pl KILIMSan oriental tapestryKILL v KILLED KILLING KILLSto cause to dieKILLABLE adjKILLDEE n pl KILLDEESkilldeerKILLDEER n pl KILLDEERSa wading birdKILLER n pl KILLERSone that killsKILLICK n pl KILLICKSa small anchorKILLIE n pl KILLIESa freshwater fishKILLING n pl KILLINGSa sudden notable successKILLJOY n pl KILLJOYSone who spoils the fun of othersKILLOCK n pl KILLOCKSkillickKILN v KILNED KILNING KILNSto bake in a type of ovenKILO n pl KILOSa kilogram or kilometerKILOBAR n pl KILOBARSa unit of atmospheric pressureKILOBASE n pl KILOBASESunit of measure of a nucleicacid chainKILOBAUD n pl KILOBAUDSa unit of data transmission speedKILOBIT n pl KILOBITSa unit of computer informationKILOBYTE n pl KILOBYTES1024 bytesKILOGRAM n pl KILOGRAMSa unit of mass and weightKILOMOLE n pl KILOMOLESone thousand molesKILORAD n pl KILORADSa unit of nuclear radiationKILOTON n pl KILOTONSa unit of weightKILOVOLT n pl KILOVOLTSa unit of electromotive forceKILOWATT n pl KILOWATTSa unit of powerKILT v KILTED KILTING KILTSto make creases or pleats inKILTER n pl KILTERSgood conditionKILTIE n pl KILTIESone who wears a kilt a type of skirtKILTING n pl KILTINGSan arrangement of kilt pleatsKILTLIKE adj resembling a kiltKILTY n pl KILTIESkiltieKIMCHEE n pl KIMCHEESkimchiKIMCHI n pl KIMCHISa spicy Korean dish of pickled cabbageKIMONO n pl KIMONOSa loose robeKIMONOED adjKIN n pl KINSa group of persons of common ancestryKINA n pl KINASa monetary unit of Papua New GuineaKINARA n pl KINARASa candelabra with seven candlesticksKINASE n pl KINASESan enzymeKIND adj KINDER KINDESThaving a gentle giving natureKIND n pl KINDSa class of similar or related objects or individualsKINDLE v KINDLED KINDLING KINDLESto cause to burnKINDLER n pl KINDLERSone that kindlesKINDLESS adj lacking kindnessKINDLING n pl KINDLINGSmaterial that is easily ignitedKINDLY adj KINDLIER KINDLIESTkindKINDNESS n pl KINDNESSESthe quality of being kindKINDRED n pl KINDREDSa natural groupingKINE n pl KINESa type of television tubeKINEMA n pl KINEMAScinemaKINESIC adj pertaining to kinesicsKINESICS npl the study of body motion in relation to communicationKINESIS n pl KINESESa type of movementKINETIC adj pertaining to motionKINETICS npl a branch of science dealing with motionKINETIN n pl KINETINSa substance that increases plant growthKINFOLK npl relativesKINFOLKS npl kinfolkKING v KINGED KINGING KINGSto reign as king a male monarchKINGBIRD n pl KINGBIRDSan American birdKINGBOLT n pl KINGBOLTSa kingpinKINGCUP n pl KINGCUPSa marsh plantKINGDOM n pl KINGDOMSthe area ruled by a kingKINGFISH n pl KINGFISHESa marine food fishKINGHOOD n pl KINGHOODSthe office of a kingKINGLESS adj having no kingKINGLET n pl KINGLETSa king who rules over a small areaKINGLIKE adj resembling a kingKINGLY adj KINGLIER KINGLIESTof or befitting a kingKINGPIN n pl KINGPINSa central bolt connecting an axle to a vehicleKINGPOST n pl KINGPOSTSa supporting structure of a roofKINGSHIP n pl KINGSHIPSthe power or position of a kingKINGSIDE n pl KINGSIDESa part of a chessboardKINGWOOD n pl KINGWOODSa hardwood treeKININ n pl KININSa hormoneKINK v KINKED KINKING KINKSto form a tight curl or bend inKINKAJOU n pl KINKAJOUSan arboreal mammalKINKY adj KINKIER KINKIESTtightly curledKINKILY advKINLESS adj having no kinKINO n pl KINOSa gum resinKINSFOLK npl kinfolkKINSHIP n pl KINSHIPSrelationshipKINSMAN n pl KINSMENa male relativeKIOSK n pl KIOSKSan open boothKIP v KIPPED KIPPING KIPSto sleepKIPPA n pl KIPPASa yarmulkeKIPPAH n pl KIPPAHSkippaKIPPEN a past participle of kepKIPPER v KIPPERED KIPPERING KIPPERSto cure fish by salting and smokingKIPPERER n pl KIPPERERSone that kippersKIPPING present participle of kipKIPSKIN n pl KIPSKINSan animal hide that has not been tannedKIR n pl KIRSan alcoholic beverageKIRIGAMI n pl KIRIGAMISthe Japanese art of folding paperKIRK n pl KIRKSa churchKIRKMAN n pl KIRKMENa member of a churchKIRMESS n pl KIRMESSESkermisKIRN v KIRNED KIRNING KIRNSto churnKIRPAN n pl KIRPANSa dagger carried by SikhsKIRSCH n pl KIRSCHESa kind of brandyKIRTLE n pl KIRTLESa mans tunic or coatKIRTLED adjKISHKA n pl KISHKASkishkeKISHKE n pl KISHKESa sausageKISKADEE n pl KISKADEESa large flycatcherKISMAT n pl KISMATSkismetKISMET n pl KISMETSdestinyKISMETIC adjKISS v KISSED KISSING KISSESto touch with the lips as a sign of affectionKISSABLE adjKISSABLY advKISSER n pl KISSERSone that kissesKISSY adj KISSIER KISSIESTinclined to kissKIST n pl KISTSa chest box or coffinKISTFUL n pl KISTFULSas much as a kist can holdKIT v KITTED KITTING KITSto equipKITBAG n pl KITBAGSa knapsackKITCHEN n pl KITCHENSa room where food is cookedKITE v KITED KITING KITESto obtain money or credit fraudulentlyKITELIKE adj resembling a kite a light covered frame flown in the windKITER n pl KITERSone that kitesKITH n pl KITHSones friends and neighborsKITHARA n pl KITHARAScitharaKITHE v KITHED KITHING KITHESto make knownKITING n pl KITINGSthe act of flying a kiteKITLING n pl KITLINGSa young animalKITSCH n pl KITSCHESgarish art or literatureKITSCHY adj KITSCHIER KITSCHIESTgarish gaudyKITTED past tense of kitKITTEL n pl KITTELa Jewish ceremonial robeKITTEN v KITTENED KITTENING KITTENSto bear kittens young catsKITTIES pl of kittyKITTING present participle of kitKITTLE adj KITTLER KITTLESTticklishKITTLE v KITTLED KITTLING KITTLESto tickleKITTY n pl KITTIESa kitten or catKIVA n pl KIVASan underground ceremonial chamberKIWI n pl KIWISa flightless birdKLATCH n pl KLATCHESa social gatheringKLATSCH n pl KLATSCHESklatchKLAVERN n pl KLAVERNSa local branch of the Ku Klux KlanKLAXON n pl KLAXONSa lowpitched hornKLEAGLE n pl KLEAGLESan official in the Ku Klux KlanKLEPHT n pl KLEPHTSa Greek guerrillaKLEPHTIC adjKLEPTO n pl KLEPTOSone that steals impulsivelyKLEZMER n pl KLEZMERS or KLEZMORIMa Jewish folk musicianKLICK n pl KLICKSa kilometerKLIEG n pl KLIEGSan electric lamp used in filmingKLIK n pl KLIKSklickKLISTER n pl KLISTERSa wax for skisKLONDIKE n pl KLONDIKESa card gameKLONG n pl KLONGSa canalKLOOF n pl KLOOFSa ravineKLUDGE v KLUDGED KLUDGING KLUDGESto put together from illfitting componentsKLUDGEY adj KLUDGIER KLUDGIESTkludgyKLUDGY adj KLUDGIER KLUDGIESTinvolving or put together with illfitting componentsKLUGE v KLUGED KLUGING KLUGESto kludgeKLUTZ n pl KLUTZESa clumsy personKLUTZY adj KLUTZIER KLUTZIESTclumsyKLYSTRON n pl KLYSTRONSa type of electron tubeKNACK v KNACKED KNACKING KNACKSto strike sharplyKNACKER n pl KNACKERSone that buys old livestockKNACKERY n pl KNACKERIESthe place of business of a knackerKNAIDEL n pl KNAIDLACH or KNAIDELSa type of dumplingKNAP v KNAPPED KNAPPING KNAPSto strike sharplyKNAPPER n pl KNAPPERSone that knapsKNAPSACK n pl KNAPSACKSa bag carried on the backKNAPWEED n pl KNAPWEEDSa meadow plantKNAR n pl KNARSa bump on a treeKNARRED KNARRY adjKNAUR n pl KNAURSknarKNAVE n pl KNAVESa dishonest personKNAVISH adjKNAVERY n pl KNAVERIEStrickeryKNAWE n pl KNAWESknawelKNAWEL n pl KNAWELSa Eurasian plantKNEAD v KNEADED KNEADING KNEADSto work into a uniform mixture with the handsKNEADER n pl KNEADERSone that kneadsKNEE v KNEED KNEEING KNEESto strike with the knee a joint of the legKNEECAP v KNEECAPPED KNEECAPPING KNEECAPSto maim by shooting in the kneecap a bone at the front of the kneeKNEEHOLE n pl KNEEHOLESa space for the kneesKNEEL v KNELT or KNEELED KNEELING KNEELSto rest on the kneesKNEELER n pl KNEELERSone that kneelsKNEEPAD n pl KNEEPADSa covering for a kneeKNEEPAN n pl KNEEPANSthe kneecapKNEESIES npl the pressing of ones knees against another persons kneesKNEESOCK n pl KNEESOCKSa sock reaching up to the kneeKNEIDEL n pl KNEIDLACH or KNEIDELSknaidelKNELL v KNELLED KNELLING KNELLSto sound a bellKNELT a past tense of kneelKNESSET n pl KNESSETSthe Israeli parliamentKNEW past tense of knowKNICKERS npl loosefitting pants gathered at the kneeKNIFE n pl KNIVESa sharpedged instrument used for cuttingKNIFE v KNIFED KNIFING KNIFESto cut with a knifeKNIFER n pl KNIFERSone that knifesKNIFING n pl KNIFINGSthe act of stabbing with a knifeKNIGHT v KNIGHTED KNIGHTING KNIGHTSto make a knight a medieval gentlemansoldier ofKNIGHTLY adj of or befitting a knightKNISH n pl KNISHESdough stuffed with filling and friedKNIT v KNITTED KNITTING KNITSto make a fabric or garment by joining loops of yarnKNITBONE n pl KNITBONESa comfreyKNITTER n pl KNITTERSone that knitsKNITTING n pl KNITTINGSwork done by a knitterKNITWEAR n pl KNITWEARknitted clothingKNIVES pl of knifeKNOB v KNOBBED KNOBBING KNOBSto provide with a knob a rounded protuberanceKNOBBLY adj KNOBBLIER KNOBBLIESThaving very small knobsKNOBBY adj KNOBBIER KNOBBIESTfull of knobsKNOBLIKE adj resembling a knobKNOCK v KNOCKED KNOCKING KNOCKSto strike sharplyKNOCKER n pl KNOCKERSone that knocksKNOCKOFF n pl KNOCKOFFSa copy that sells for less than the originalKNOCKOUT n pl KNOCKOUTSa blow that induces unconsciousnessKNOLL v KNOLLED KNOLLING KNOLLSto knellKNOLLER n pl KNOLLERSone that knollsKNOLLY adj hillyKNOP n pl KNOPSa knobKNOPPED adjKNOSP n pl KNOSPSa knobKNOT v KNOTTED KNOTTING KNOTSto tie in a knot a closed loopKNOTHEAD n pl KNOTHEADSa stupid personKNOTHOLE n pl KNOTHOLESa hole in a plankKNOTLESS adj having no knotsKNOTLIKE adj resembling a knotKNOTTED past tense of knotKNOTTER n pl KNOTTERSone that knotsKNOTTING n pl KNOTTINGSa fringe made of knotted threadsKNOTTY adj KNOTTIER KNOTTIESTfull of knotsKNOTTILY advKNOTWEED n pl KNOTWEEDSa common weedKNOUT v KNOUTED KNOUTING KNOUTSto flog with a leather whipKNOW v KNEW KNOWN KNOWING KNOWSto have a true understanding ofKNOWABLE adjKNOWER n pl KNOWERSone that knowsKNOWING adj KNOWINGER KNOWINGESTastuteKNOWING n pl KNOWINGSknowledgeKNOWN n pl KNOWNSa mathematical quantity whose value is givenKNUBBY adj KNUBBIER KNUBBIESTnubbyKNUCKLE v KNUCKLED KNUCKLING KNUCKLESto hit with the knuckles the joints of the fingersKNUCKLER n pl KNUCKLERSa type of baseball pitchKNUCKLY adj KNUCKLIER KNUCKLIESThaving prominent knucklesKNUR n pl KNURSa bump on a treeKNURL v KNURLED KNURLING KNURLSto make grooves or ridges inKNURLY adj KNURLIER KNURLIESTgnarlyKNURR n pl KNURRSknurKOA n pl KOASa timber treeKOALA n pl KOALASan Australian mammalKOAN n pl KOANSa paradox meditated on by Buddhist monksKOB n pl KOBSa reddish brown antelopeKOBO n pl KOBOSa monetary unit of NigeriaKOBOLD n pl KOBOLDSan elfKOCHIA n pl KOCHIASa Eurasian plantKOEL n pl KOELSan Australian birdKOFTA n pl KOFTASa spiced ball of meat or fish in Indian cookingKOHL n pl KOHLSa type of eye makeupKOHLRABI n pl KOHLRABIESa variety of cabbageKOI n pl KOISa large and colorful fishKOINE n pl KOINESa type of dialectKOJI n pl KOJISa fungus used to start fermentationKOKAM n pl KOKAMSkokumKOKANEE n pl KOKANEESa food fishKOKUM n pl KOKUMSan East Indian treeKOLA n pl KOLAScolaKOLACKY n pl KOLACKYa kind of pastryKOLBASI n pl KOLBASISkielbasaKOLBASSA n pl KOLBASSASkielbasaKOLBASSI n pl KOLBASSISkielbasaKOLHOZ n pl KOLHOZES or KOLHOZYkolkhozKOLINSKI n pl KOLINSKIESkolinskyKOLINSKY n pl KOLINSKIESan Asian minkKOLKHOS n pl KOLKHOSES or KOLKHOSYkolkhozKOLKHOZ n pl KOLKHOZES or KOLKHOZYa collective farm in RussiaKOLKOZ n pl KOLKOZES or KOLKOZYkolkhozKOLO n pl KOLOSa European folk danceKOMATIK n pl KOMATIKSan Inuit sledgeKOMBU n pl KOMBUSkelp used in Japanese cookingKOMONDOR n pl KOMONDORS or KOMONDOROK or KOMONDOROCKa large shaggycoated dogKONGONI n pl KONGONIan African antelopeKONK v KONKED KONKING KONKSto conkKOODOO n pl KOODOOSkuduKOOK n pl KOOKSan eccentric personKOOKIE adj KOOKIER KOOKIESTkookyKOOKUM n pl KOOKUMSkokumKOOKY adj KOOKIER KOOKIESTeccentricKOOKILY advKOP n pl KOPSa hillKOPECK n pl KOPECKSa Russian coinKOPEK n pl KOPEKSkopeckKOPH n pl KOPHSa Hebrew letterKOPIYKA n pl KOPIYKASa monetary unit of UkraineKOPJE n pl KOPJESa small hillKOPPA n pl KOPPASa Greek letterKOPPIE n pl KOPPIESkopjeKOR n pl KORSa Hebrew unit of measureKORA n pl KORASa stringed African musical instrumentKORAT n pl KORATSa cat having a silverblue coatKORE n pl KORAIan ancient Greek statue of a young womanKORMA n pl KORMASan Indian dish of meat or vegetables with spicesKORUNA n pl KORUNAS or KORUNY or KORUNa monetary unit of the Czech RepublicKOS n pl KOSa land measure in IndiaKOSHER v KOSHERED KOSHERING KOSHERSto make fit to be eaten according to Jewish dietary lawsKOSS n pl KOSSkosKOTO n pl KOTOSa musical instrumentKOTOW v KOTOWED KOTOWING KOTOWSto kowtowKOTOWER n pl KOTOWERSone that kotowsKOUMIS n pl KOUMISESkoumissKOUMISS n pl KOUMISSESa beverage made from camels milkKOUMYS n pl KOUMYSESkoumissKOUMYSS n pl KOUMYSSESkoumissKOUPREY n pl KOUPREYSa shorthaired oxKOUROS n pl KOUROIan ancient Greek statue of a young manKOUSSO n pl KOUSSOScussoKOWTOW v KOWTOWED KOWTOWING KOWTOWSto behave in a servile mannerKOWTOWER n pl KOWTOWERSone that kowtowsKRAAL v KRAALED KRAALING KRAALSto pen in a type of enclosureKRAFT n pl KRAFTSa strong paperKRAI n pl KRAISan administrative territory of RussiaKRAIT n pl KRAITSa venomous snakeKRAKEN n pl KRAKENSa legendary sea monsterKRATER n pl KRATERSa type of vaseKRAUT n pl KRAUTSsauerkrautKRAY n pl KRAYSkraiKREEP n pl KREEPSa basaltic lunar rockKREMLIN n pl KREMLINSa Russian citadelKREPLACH n pl KREPLACHdumplings filled with ground meat or cheeseKREPLECH n pl KREPLECHkreplachKREUTZER n pl KREUTZERSa former monetary unit of AustriaKREUZER n pl KREUZERSkreutzerKREWE n pl KREWESa private group participating in the New Orleans Mardi GrasKRILL n pl KRILLSan aggregate of small marine crustaceansKRIMMER n pl KRIMMERSa kind of furKRIS n pl KRISESa short swordKRONA n pl KRONORa monetary unit of SwedenKRONA n pl KRONURa monetary unit of IcelandKRONE n pl KRONENa former monetary unit of AustriaKRONE n pl KRONERa monetary unit of DenmarkKRONOR pl of kronaKRONUR pl of kronaKROON n pl KROONS or KROONIa former monetary unit of EstoniaKRUBI n pl KRUBISa tropical plantKRUBUT n pl KRUBUTSkrubiKRULLER n pl KRULLERScrullerKRUMHORN n pl KRUMHORNScrumhornKRUMKAKE n pl KRUMKAKESa large thin cookieKRYOLITE n pl KRYOLITEScryoliteKRYOLITH n pl KRYOLITHScryoliteKRYPTON n pl KRYPTONSa gaseous elementKUBASA n pl KUBASASa Ukrainian sausageKUBIE n pl KUBIESa kubasa on a bunKUCHEN n pl KUCHENSa coffee cakeKUDLIK n pl KUDLIKSan Inuit oil lampKUDO n pl KUDOSaward honorKUDU n pl KUDUSa large antelopeKUDZU n pl KUDZUSan Asian vineKUE n pl KUESthe letter QKUFI n pl KUFISa brimless hatKUGEL n pl KUGELSa baked pudding of potatoes or noodlesKUKRI n pl KUKRISa long curved knife of NepalKULAK n pl KULAKS or KULAKIa rich Russian peasantKULFI n pl KULFISan Indian dessert resembling ice creamKULTUR n pl KULTURSculture civilizationKUMIS n pl KUMISESkoumissKUMISS n pl KUMISSESkoumissKUMKUM n pl KUMKUMSa red powder used by Hindu womenKUMMEL n pl KUMMELSa type of liqueurKUMQUAT n pl KUMQUATSa citrus fruitKUMYS n pl KUMYSESkoumissKUNA n pl KUNEa monetary unit of CroatiaKUNZITE n pl KUNZITESa mineralKURBASH v KURBASHED KURBASHING KURBASHESto flog with a leather whipKURGAN n pl KURGANSa mound of earth over a graveKURTA n pl KURTASa shirt worn in IndiaKURTOSIS n pl KURTOSESthe relative degree of curvature in a statistical curveKURU n pl KURUSa disease of the nervous systemKURUSH n pl KURUSHESa monetary unit of TurkeyKUSSO n pl KUSSOScussoKUVASZ n pl KUVASZOKa large dog having a white coatKVAS n pl KVASESkvassKVASS n pl KVASSESa Russian beerKVELL v KVELLED KVELLING KVELLSto exclaim joyfullyKVETCH v KVETCHED KVETCHING KVETCHESto complainKVETCHER n pl KVETCHERSone that kvetchesKVETCHY adj KVETCHIER KVETCHIESThabitually complainingKWACHA n pl KWACHASa monetary unit of Malawi and ZambiaKWANZA n pl KWANZASa monetary unit of AngolaKYACK n pl KYACKSa packsackKYAK n pl KYAKSa kayak an Inuit canoeKYANISE v KYANISED KYANISING KYANISESto kyanizeKYANITE n pl KYANITEScyaniteKYANITIC adjKYANIZE v KYANIZED KYANIZING KYANIZESto treat wood with a type of preservativeKYAR n pl KYARScoirKYAT n pl KYATSa monetary unit of Myanmar BurmaKYBOSH v KYBOSHED KYBOSHING KYBOSHESto kiboshKYE n pl KYESa private KoreanAmerican banking clubKYLIN n pl KYLINSa composite mythical animalKYLIX n pl KYLIKES or KYLIXESa drinking vesselKYMOGRAM n pl KYMOGRAMSa record of fluid pressureKYPHOSIS n pl KYPHOSESabnormal curvature of the spineKYPHOTIC adjKYRIE n pl KYRIESa religious petition for mercyKYTE n pl KYTESthe stomachKYTHE v KYTHED KYTHING KYTHESto kithe").
+```
+entry(la, n, [las], "akeyin oju oro kẹẹrin ninu ipele orin diatonic").
+entry(laager, v, [laagered,laagering,laagers], "lati ṣèdá ibùdó ìdé ìgbésí-ayé").
+entry(laari, n, [laaris], "ẹyọ owo ilẹ Maldives").
+entry(laabu, n, [laabu], "ilé ìwádìí").
+entry(labarum, n, [labarums], "tabi LABARA asia ekklisiastical").
+entry(labdanum, n, [labdanums], "resini kan ti o ni oorun").
+entry(akole, v, [ti_akole, iṣatunṣe_akole, awọn_akole], "tabi TI_AKỌLẸ TI_ṢE_AKỌLẸ TI_AKỌLẸ lati ṣapejuwe tabi ṣe akọle").
+entry(labeler, n, [awon_tomi], "eyi ti o toami").
+entry(labella, pl, [], "ti labellum").
+entry(afiku, n, [afikun], "afiku").
+entry(labelling, a, [], "ẹ̀jẹ̀dá arọkọ ti label").
+entry(labellum, n, [labella], "ewe isalẹ ti orchid").
+entry(labia, pl, [], "ti labium").
+entry(labial, n, [wọn ti a ń pè lú ẹnu sẹ́nu], "fẹ́ní pè pelú ẹnu sẹ́nu").
+entry(labially, adv, [], "nipasẹ awọn ete").
+entry(labiate, n, [labiates], "ewé tí ó ní abèbò rè").
+entry(labiated, adj, [], "tí ó ní àwọn èèrè tí a tú sí méjì tí ó dà bí ètí").
+entry(labile, aj, [], " ṣee ṣe lati yipada").
+entry(ibalability, n, [ibalabilities], "ipo ti o jẹ labile").
+entry(labium, n, [labia], "ipari obo").
+entry(ise, v, [se, nse, sere], "lati sise").
+entry(onise, n, [awon_onise], "eyi to n sise").
+entry(laborite, n, [awọn_laborites], "olutọju anfani iṣẹ").
+entry(labour, v, [laboured,labouring,labours], "ṣẹ iṣẹ").
+entry(onise, n, [awọn onise], "olùṣe iṣẹ").
+entry(labra, a, [], "pl ti labrum").
+entry(labrador, n, [labradors], "aja ipolongo").
+entry(labret, n, [labrets], "ọ̀nà ẹwà ti a máa ń wọ́ ní ipòfo ẹnu").
+entry(labroid, n, [labroids], "eja okun").
+entry(labrum, n, [labrums], "tabi LABRAeéré tabi àpẹrẹgbọ kanLABRAL adj").
+kọsi(labrusca, n, [labruscas], "ajon tikodoye").
+entry(laburnum, n, [laburnums], "igi ọṣọ").
+entry(lac, n, [lacs], "awon ohun ti nje leki ti insekti kan tu").
+entry(lace, v, [laced, lacing, laces], "lati so pọ nipa ọna abẹrẹ ti o fa koodu kan lati fa awọn eti meji papọ").
+entry(laceless, àpẹẹrẹ, [], "kò ni lásí").
+entry(lacelike, adj, [], "bí aṣọ aláwọ̀n").
+entry(lacer, n, [lacers], "ẹni tí ó ń tún ìpamọ̀ pẹ̀lú abá").
+entry(lacerate, v, [lacerated, lacerating, lacerates], "láti fa bí àwò fiòntókú").
+entry(lacertid, n, [awon_lacertids], "iru ehoro").
+entry(lacewing, n, [lacewings], "ẹyẹ kan ti o ni iyẹ").
+entry(lacewood, n, [lacewoods], "igi kan ti ilu Ostrelia").
+entry(lacework, n, [laceworks], "aso ti a hun ni ọna ifọwọkan le̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟̟ti itọju").
+entry(lacey, adj, [], "LACIER LACIESTlacy").
+entry(laches, n, [laches], "idaduro airotẹlẹ ninu sisọ ẹtọ ofin").
+entry(lacier, comparative, [], "ti lace").
+entry(laciest, superlative, [], "ti lace").
+entry(lacily, adv, [], "ni ọna lace kan").
+entry(laciness, n, [lacinesses], "didara ti jije lacy").
+entry(lacing, n, [lacings], "àwọ̀ ẹlẹ́gẹ́ tí ó yàtọ̀ lélẹ̀ ṣe eti olùwà").
+entry(aiko, v, [aikoo,aikose,aikoti], "lati wa laisi").
+entry(lackaday, interj, [], "lo lati fi ṣalaye ibanujẹ").
+entry(lacker, v, [lackered, lackering, lackers], "lati lacker").
+entry(lackey, v, [lackeyed,lackeying,lackeys], "láti ṣe bí ẹrú").
+entry(laconic, aj, [], "lilo awọn ọrọ diẹ julọ").
+entry(laconism, n, [laconisms], "kukuru ninu ifihan").
+entry(lacquer, v, [lacquered,lacquering,lacquers], "láti fi ohun olósàn kún").
+entry(lacquey, v, [lacqueyed, lacqueying, lacqueys], "ṣe iranṣẹ").
+entry(lacrimal, n, [lacrimals], "egungun kekere ti apo oju").
+entry(lakros, n, [lakroses], "irú ere bọọlu kan").
+entry(lakirimali, n, [lakirimali], "lacrimal").
+entry(lactam, n, [lactams], "ẹ̀dá ìtọ̀jú kan").
+entry(laktari, adj, [], "nipa wara").
+entry(laktase, n, [laktases], "eniwa kan").
+entry(lakati, v, [lakati,lakata,lakati], "lati tu wara sile").
+entry(lacteal, n, [lacteals], "ẹ̀jẹẹ́ kan naa").
+entry(laktian, aj, [], "laktanu").
+entry(lacteous, aj, [], "to jo irọ").
+entry(lactic, adj, [], "ti a n ṣe lati wara").
+entry(lactitol, n, [lactitols], "oúnjẹ ìkòrítá").
+entry(lactone, n, [lactones], "eyikeyi ninu ẹgbẹ kan ti awọn estersLACTONIC adj").
+wọlé(lactose, n, [lactoses], "sukura ti o wa ninu wara").
+entry(lacuna, n, [lacunas], "tabi LACUNAE aaye ofo tabi apakan ti o nsọnu LACUNAL LACUNARY LACUNATE adj").
+entry(lacunar, n, [lacunars], "tabi LACUNARIA orule ti o ni awọn panẹli ti o jin").
+entry(lacune, n, [lacunes], "lacuna").
+entry(lacunose, èké, [], "àmì nípa àwọn ìdàgbòlù àìmìtì tí ó kéré kéré").
+entry(lacy, adj, [], "BII TI LACEWORK").
+entry(omokunrin, n, [awon_omokunrin], "omokunrin tabi odo odo _LADDISH adj").
+entry(ladanum, n, [ladanums], "labdanum").
+entry(ladder, v, [laddered,laddering,ladders], "lati fa ibajẹ si sokoto").
+entry(ọmọkunrin, n, [awọn_ọmọkunrin], "ọmọkunrin kan").
+entry(laddish, àpèjúwe, [], "àbùdà awàdà àwọn ọkùnrin kékeré").
+entry(laddism, n, [laddisms], "ihuwasi ita-giga lati ọwọ omokunrin").
+entry(laddy, adj, [], "LADDIER LADDIESTladdish ni ihuwasi").
+entry(lade, v, [laded,laden,lading], "LADELati kò ǹkálemo-ọjà").
+entry(laden, v, [ladened, ladening, ladens], "lati lade").
+entry(lader, n, [awon_mimu], "eyi ti o n gba omi").
+entry(ladhood, n, [ladhoods], "ipò ti jẹ́ ọmọkùnrin").
+entry(obinrin, pl, [], "ti aya").
+entry(lading, n, [ladings], "ẹrù ọkọ").
+entry(ladino, n, [awọn ladinos], "ẹgẹ ti n dagba yarayara").
+entry(ladle, v, [ladled,ladling,ladles], "lati gbé jade pẹ̀lú ladle èyà kan ti koko").
+entry("ìkó", n, ["ìkó"], "bó ti ìkó kan yóò gbé").
+entry(ladler, n, [awon_ladler], "eniti o n lo pako").
+entry(ladling, bayi, [], "patikulu ti ladle").
+entry(ladron, n, [ladrons], "ladrone").
+entry(ladrone, n, [ajinigbe], "olè kan").
+entry(obinrin, n, [awon_obinrin], "obinrin ti o dara ati onironu").
+entry(ladybird, n, [ladybirds], "ekolo oju").
+entry(ladybug, n, [ladybugs], "kokoro kekere").
+entry(ladyfish, n, [ladyfishes], "eja elogun").
+entry(ladyhood, n, [ladyhoods], "ipò ti jẹ́ obìnrin").
+entry(ladyish, adj, [], "be diẹdiẹ bii obinrin").
+entry(ladykin, n, [ladykins], "obinrin kekere").
+entry(ladylike, aj, [], "bi obinrin").
+entry(ololufe, n, [ololufe], "ololufe").
+entry(ladyness, n, [ladynesses], "ilẹdidara tabi ipo jẹ obinrin").
+entry(ladypalm, n, [ladypalms], "igi ope kan").
+entry(olori, n, [olori], "ipo ti ẹni obinrin ni").
+entry(laetrile, n, [laetriles], "oogun kan ti a ti gbe jade lati inu èso afirika aprikọtì").
+entry(laevo, aj, [], "levo").
+entry(lẹyin, v, [lẹyẹ́ ,lójú-ẹ́hìn, ilẹyin], "lati duro tàbí sá kù sẹhin").
+entry(lagan, n, [lagans], "ẹ̀rù tí wọ́n ju s'ínú Òkun pẹ̀lú iró s'òrò láti le samí yípadà").
+entry(lagend, n, [lagends], "lagan").
+entry(lager, v, [lagered, lagering, lagers], "lati laager").
+aanu(laggard, n, [laggards], "eni kan ti o n lọ silẹ").
+entry(lagged, ti_ẹ́yẹ̀, [], "àkókò ti lag").
+entry(lagger, n, [laggers], "alagbe").
+entry(ipa, n, [awọn ipa], "ohun elo ti nse idabobo").
+entry(lagnappe, n, [lagnappes], "ẹbun kekere ti a fun ẹniti o ra ọja pẹlu rira rẹ").
+entry(adagun, n, [adaguns], "ara omi kekere ti o shallowADAGUNAL adj").
+entry(laguna, n, [lagunas], "adagun").
+entry(lagune, n, [lagunes], "adágún").
+entry(lah, n, [lahs], "la").
+entry(lahal, n, [lahals], "ere egbe kan ti awon omoile-ede agbegbe ariwa-iwoorun okun pacific maa n seere").
+entry(lahar, n, [lahars], "awọn egbin olomi ti o nsan lati eru eru").
+entry(laic, n, [laics], "eniyan ileMetaKALE gbiyanjuMeta").
+entry(laich, n, [laichs], "laigh").
+entry(laicise, v, [laicised,laicising,laicises], "lati laicize").
+entry(aisekifa, n, [aisekifas], "eto idari ti o ni ominira kuro ninu iṣakoso alufa").
+entry(laicize, v, [laicized,laicizing,laicizes], "lati gba ni ominira kuro lọwọ iṣakoso alufa").
+entry(laid, a, [], "asiko ti o koja ti lay").
+entry(laigh, n, [laighs], "ibùdó").
+entry(lain, tíìtà, [], "participle ti lie").
+entry(lair, v, [laired,lairing,lairs], "lati gbe inu ibugbe ibi isinmi tabi ibugbe eranko igberiko").
+entry(ibudo, n, [awọn ibudo], "ibi kan nibiti ẹran ẹlẹdẹ wa ni ile ni awọn ọja").
+entry(laird, n, [lairds], "olùnílé kan tí ó ní ilẹ́LAIRDLY adj").
+entry(lairy, adj, [], "LAIRIER LAIRIESTkikankikan ti o n korira").
+entry(laitance, n, [laitances], "idogo alawo wara lori oju konkiri tuntun").
+entry(laith, adj, [], "loathLAITHLY adv").
+entry(awọn ẹni-kikọ̀, n, [awọn ẹni-kikọ̀], "awọn ẹni ti nwọn kì í ṣe aláfẹ́ṣọrọ̀ ní ẹ̀sìn kan").
+entry(adagun, n, [aadaguntutu], "ara omi nla inu ile").
+entry(lakebed, n, [lakebeds], " ilẹ̀ adágún").
+entry(laked, ajẹ, [], "jẹ́ kó kọjá nínú ìlànà laking").
+entry(lakefill, n, [lakefills], "àgbègbè ilẹ̀ tí wọ́n ṣe nípa fífọ́ ọ̀sà kún").
+entry(orílẹ̀-ódò, n, [orílẹ̀-ódòs], "ẹ̀bá òkun tó jìnnà jù lọ láti ojúrere owóníná").
+entry(lakeland, n, [alueoko], "ibi ti o ni ọpọlọpọ awọn adágún").
+entry(ibudo_odo, n, [ibudo_odo], "ilu kan ti o wa lori eti odo").
+entry(laker, n, [awọ̀sá], "ẹja àwon lili").
+entry(lakeside, n, [lakesides], " ilẹ̀ lẹ̀gbẹẹ́ eti adágún-omi kan").
+entry(lakeview, adj, [], "ti o ni oju si adagun").
+entry(lakeward, adj, [], "tí í ṣe ojú sí adágún").
+entry(lakọ, n, [lakọ], "iye ti ọgọrun ẹgbẹrun").
+entry(laking, n, [lakings], "imeye pupa ti pilasima ẹjẹ nipasẹ idasilẹ hemoglobin lati awọn corpuscles pupa").
+entry(laky, àfikún, [], "Ìràwò, Ìràwò Tó Ń Sànlẹ̀ tí ó ni ǹkan èjé").
+entry(lalique, n, [laliques], "ara kan ti gilasi tabi kristali ti a gbẹ́").
+entry(lall, v, [lalled, lalling, lalls], "sọ lẹ́tà r bíi l").
+entry(lallan, n, [lallans], "ipilẹkùn").
+entry(lalland, n, [lallands], " ilẹ kekere").
+entry(lallygag, v, [lallygagged, lallygagging, lallygags], "jẹ́ kọjáàyè").
+entry(lam, v, [lammed,lamming,lams], "lọ ni kia kia").
+entry(lama, n, [lamas], "ọlọ́mọkirisita Búddá").
+entry(lamaseri, n, [lamaserii], "agbole awe ti awon lamasi").
+entry(agutan_kekere, v, [bi_agutan_kekere, ibi_a_ti_n_bi_agutan_kekere, awon_agutan_kekere], "lati bi agutan kekere tabi omo-agutan").
+entry(lambada, n, [lambadas], "ijó Brazil kan").
+entry(lambast, v, [lambasted, lambasting, lambasts], "láti na").
+entry(lambaste, v, [lambasted, lambasting, lambastes], "lati lu ni ika").
+entry(lambda, n, [lambdas], "akọwé Greek kanLAMBDOID adj").
+entry(lambency, n, [lambencies], "didan tabi apeere ti jijade ina didan").
+entry(lambent, ajẹ, [], "tí ń rán lójú pẹtẹsẹ wêré láti ogiri").
+entry(lamber, n, [lambers], "agutan obinrin ti n bi").
+entry(lambert, n, [lamberts], "ẹyọ ti imọlẹ").
+entry(lambie, n, [lambies], "ọmọ àgùntàn").
+entry(lambier, afiwera, [], "ti lamby").
+entry(lambiest, superlative, [], "ti lamby").
+entry(lambing, n, [lambings], "ibi ewúrẹ-kekere ní oko").
+entry(lambkill, n, [lambkills], "igi tí kò ré lásán").
+entry(lambkin, n, [lambkins], "ọmọ ọdẹdẹ").
+entry(lamblike, aj, [], "bi aguntan").
+entry(awọ_ẹran_ọdọ_aguntan, n, [awọ_ẹran_ọdọ_aguntan], "awọ ẹran ọdọ-aguntan").
+entry(lamby, adj, [], "FẸ́RAN ÀGÙTÀNRẸSEMBLING ÀGÙTÀN").
+entry(lame, adj, [], "LAMER LAMESTti ara ẹni ti o ni ailera").
+entry(lame, v, [lamed, laming, lames], "láti ṣe aláìpé").
+entry(lamed, n, [lameds], "lẹta Heberu kan").
+entry(lamedh, n, [lamedhs], "lamedi").
+entry(lamella, n, [awọn lamellas], "tabi LAMELLAE ọkan tinrin awo iwọn tabi awọLAMELLAR adj").
+entry(lamely, adv, [], "ni ọna alailera").
+entry(àìsàn-ọwọ́, n, [àìsàn-ọwọ́ jẹ́jẹ], "ipò ìrìnwọ́ tàbí oòṣà").
+entry(lament, v, [lamented,lamenting,laments], "láti ṣàlàyè ìbànújẹ tàbí èrò ìbànújẹ fún").
+entry(lamenter, n, [lamenters], "ẹni ti ń sunkún").
+entry(lamer, comparative, [], "ti lame").
+entry(lamest, superlative, [], "ti lame").
+entry(lamia, n, [awọn lamias], "tabi LAMIAEa èşù obìnrin").
+entry(lamina, n, [laminas], "tabi LAMINAEa awo tinrin iwọn ila-opin tabi LayerLAMINAR LAMINARY adj").
+entry(laminal, n, [laminals], "ohùn ìjé lánàá tí a ń ṣe pẹ̀lú ẹ̀gbẹ́ ahọn").
+entry(laminate, v, [laminated, laminating, laminates], "lati tẹ́ wọ́ sínú awo lèhìn lèhìn").
+entry(laming, lọwọlọwọ, [], "partisipulu ti elege").
+entry(laminin, n, [awọn laminated], "a glycoprotein").
+entry(laminose, aj, [], "ṣeto awọn fẹlẹfẹlẹ").
+entry(laminous, aj, [], "laminose").
+entry(lamister, n, [lamisters], "olè").
+entry(lammed, igba ti o koja, [], "akoko ti lam").
+entry(lamming, lọwọlọwọ, [], "ise ọna ti lam").
+entry(atupa, v, [atupaed, atuping, atupas], "lati wo").
+entry(lampad, n, [lampads], "ọpa fitila").
+entry(lampas, n, [lampases], "iyọnu ti aja ẹnu ẹṣin").
+entry(lampers, n, [lamperses], "lampas").
+entry(lampion, n, [àwọn lampion], "irú ẹ̀rọ tí ń fúnni ní ìmọ́lẹ̀").
+entry(lampless, adj, [], "aiko fitila ohun elo lati funni ni ina").
+entry(lamplit, adj, [], "ti a fi fitila tan").
+entry(tibilẹ, v, [tibilẹ̀,tibilẹ̀n,nwètibilẹ], "lati tọ́ ọ́ ;lẹni").
+entry(opopona, n, [awọn opopona], "ọpó ti o n ṣatunṣe fitila opopona").
+agbeyewo(lamprey, n, [lampreys], "eeja ti o dabi eja eelee").
+entry(lampyrid, n, [lampyrids], "eyikeyi ninu idile kokoro").
+entry(lamster, n, [awọn elara], "olododo").
+entry(lanai, n, [lanais], "àgbàlá àyẹwo").
+entry(lanate, adj, [], "ti a fi irun-agutan bo").
+entry(lanated, adj, [], "lanate").
+entry(lance, v, [lanced,lancing,lances], "láti gbá pẹ̀lú ọ̀kọ̀ ọ̀fà tí ó dà bí ọ̀fà").
+entry(lancelet, n, [lancelets], "ẹranko kekere ti omi okun").
+entry(lancer, n, [lancers], "ẹlẹṣin ogun ti o ni ida kọ").
+entry(lancet, n, [lancets], "ọrun ti o tẹẹrẹ ti o to gunLANCETED adj").
+entry(lanch, v, [lanched, lanching, lanches], "lati fa ọkọ oju omi kọja yinyin").
+entry(lanciers, n, [lanciers], "ijó Faranse").
+entry(lancing, wa, [], "ẹya ọrọ-ìṣe ti lance").
+entry(ilé, v, [iléde,iléyan,ilé], "lati sọ kalẹ sí ilẹ̀ tó ní ilẹ̀ tó kíkan").
+entry(landau, n, [awọn landau], "iwa kan ti kẹkẹ-ọkọ").
+entry(landírà, n, [àwánlandírà], "ekàn ná tí ó landí").
+entry(ṣísà, n, [ṣísàs], "ríbo tabi abáà si ilẹ̀").
+entry(landfast, adj, [], "ti a so mọ etikun ti a n lo fun yinyin").
+entry('ibi idalẹnu', v, [dalẹnu,ndalẹnu,ndalẹnu], "lati ko agbegbe kan nipa ta idalẹnu inira").
+entry(ilanilẹ, n, [ilanilẹ], "afatọ adayeba ti oju ilẹ aiye").
+entry(gbigbalaaye, n, [gbigbalaaye], "sesiseise ti o yarayara ati ti ayeje ti ilẹ").
+ilẹkun(ibalẹ, n, [ibalẹ], "ibi fun iṣagbesoke tabi rekọja awọn ero tabi ẹru").
+entry(landlady, n, [awon_iyawo_ile], "olounitile obinrin").
+entry(landler, n, [awọn landler], "ijó ilẹ Ostiria ti o lọra").
+entry(landless, adj, [], "bẹ́ẹ̀ kò ní àwọn ilẹ̀").
+entry(ẹrọ tuntun, n, [ẹrọ tuntun], "ila ibaraẹnisọrọ lori ilẹ").
+entry(onílé, n, [onílé], "ẹni tó ní ilẹ́ tó sì ń yá àwọn ilé yàrá").
+entry(landman, n, [landmen], "ẹni ti ngbe ati ṣiṣẹ lori ilẹ").
+entry(amainiyẹ, v, [amainiyẹd,amainiyẹing,amainiyẹs], "lati yan ile kan tabi aaye kan gẹ́gẹ́ bi ibi pataki itan tabi ẹwa").
+entry(agbegbe_ilé, n, [agbegbe_ilé], "àgbègbè ńlá kan ti ilẹ̀").
+entry(landmen, pl, [], "tí ará okọ").
+entry(ojule-àyè, n, [ojule-àyès], "apakan ti ada").
+entry(landskip, n, [awọn landskip], "ayika").
+entry(landslid, ti tẹlẹ, [], "tẹnsì ti landslide lati ṣẹgun idibo nipasẹ nọmba ti o pọju pupọ").
+entry(iṣubu ilẹ̀, n, [iṣubu ilẹ̀], "isubu ti oju ilẹ̀ pọ̀").
+entry(landsman, n, [landsmen], "ọ̀rọ̀ ọkọ̀ ilẹ̀").
+entry(landsman, n, [landsleit], "ẹnikan Juu ti o wa lati apakan ti ilẹ Yuroopu Ila-oorun rẹ").
+entry(landward, adv, [], "s’lẹ’lẹ ilẹ").
+entry(eti okun, n, [awon eti okun], "agbegbe etikun laarin ipele omi giga ati okun").
+entry(lane, n, [lanes], "ọna kejìkejì").
+entry(lanely, aṣọ, [], "lákàákàánú").
+entry(ojúbọ̀nà, n, [ojúbọ̀nà], "ojúpọ́nna").
+entry(ede, afijq, [], "gun").
+entry(langlauf, n, [langlaufs], "ijapadi isalẹ").
+entry(langley, n, [langleys], "ẹyọkan ti imọlẹ").
+entry(langrage, n, [langrages], "ibọn ti a n lo tẹlẹ ninu ogun omi").
+entry(langrel, n, [langrels], "langrage").
+entry(langshan, n, [awọlangshan], "eyikeyi ninu iru okeere ti adie ile nla").
+entry(langsyne, n, [langsynes], "akoko ti o ti koja").
+entry(èdè, n, [èdè], "aratagịtịti orúkọ àti ètò tí ń ṣe ìtọ́sọ́nà fún ibaraẹnisọrọ").
+entry(ede, n, [awon_ede], "oriṣiriṣi ede").
+entry(langued, adj, [], "ní oju ahọn pẹlú àwò kan pato").
+entry(languet, n, [languets], "apá tí ó dà bí ahọ́n").
+entry(lẹ́ńkùnrẹ́fẹ̀ẹ́, ajẹ́tífù, [], "kìkìnsìn àtìḿọ́lẹ̀ tàbí ìdarágbá").
+entry(rọgbẹ, v, [rọgbẹẹ, nrọgbẹ, nrọgbẹ], "lati padanu agbara tabi ilera").
+entry(tìtí, n, [tìtì], "ipinle ti o wa ni itìjú").
+entry(langur, n, [awon langur], "obinrin obi ibile asia").
+entry(laniard, n, [laniards], "laniadi").
+ẹgbẹ(laniary, n, [laniaries], "a cuspid").
+entry(lanital, n, [lanitals], "irun-agutan bii-fibur").
+entry(lank, adj, [], "GIGUN ATI GÍGÍ LANKER LANKEST LANKLY adv").
+entry(lankness, n, [lanknesses], "ipò ti jije alagbara").
+entry(lanky, adj, [], "GÍGÙN SINMI LÓRÍ GÍGÙNMÓ JÙ GÍGÙNJÙ RÍN GIGA ATI TÍ KÓ DARA. GÍGÙNSINKÙ adv").
+entry(le-kelekele, n, [awọn le-kelekele], "ẹyẹ ìhòhò ti Europe àti Asia").
+entry(lanneret, n, [awon_lanneret], "akan lanner okunrin").
+entry(lanolin, n, [lanolins], "ohun amuaradagba ti a gba lati inu irun-agutan").
+entry(lanoline, n, [awọn lanoline], "lanolin").
+entry(lanose, adj, [], "lanate").
+entry(lanosity, n, [lanosities], "ipo ti jijẹ lanose").
+entry(lantana, n, [lantanas], "ajọdẹ olókèèrè").
+entry(atupa, n, [atupa], "iko aabo fun ina").
+entry(lanthorn, n, [lanthorns], "atupa").
+entry(lanugo, n, [lanugos], "irun alalepo").
+entry(lanyard, n, [lanyards], "òkè nìkan kapalù lìsó").
+entry(laogai, n, [awon laogai], "eto awon ibudo ise tipatipa ni Ilu China").
+entry(lap, v, [lapped, lapping, laps], "fi nkan si lara nkan miran pẹlu ọna àti yiyo ìkùn").
+entry(lapboard, n, [lapboards], "ìbéèrè aláìléégùn tí a ń lò gẹ́gẹ́ bí tẹ́ńbù tàbí tábìlì").
+entry(ajọ́bọ̀, n, [ajọ́bọ̀kẹẹkẹ], "àjà náà kékeré").
+ilosiwaju(lapel, n, [lapels], "ifarahan ti kola aṣọLAPELED LAPELLED adj").
+entry(lapful, n, [lapfuls], "bi o ti le jẹ ki igbonwo ṣe").
+entry(lapidary, n, [lapidaries], "ẹni ti o n ṣiṣẹ pẹlu okuta iyebiye").
+entry(lapidate, v, [lapidated,lapidating,lapidates], "latí s’ẹwọ lu").
+entry(lapidify, v, [lapidified,lapidifying,lapidifies], "lati di okuta").
+entry(lapidist, n, [lapidists], "ọmọ-ọna okuta").
+entry(lapillus, n, [awọn lapilli], "iṣibi kekere ti lava").
+entry(lapin, n, [lapins], "erinjinrin").
+entry(lapis, n, [lapises,lapides], "okuta iyebiye").
+entry(lapped, igba ti o koja, [], "asiko ti lap").
+entry(lapper, v, [lappered,lappering,lappers], "latọ lati lopper").
+entry(lappet, n, [lappets], "apẹrẹ flap lori aṣọLAPPETED adj").
+entry(lapping, present, [], "ẹẹkan ti o baamu fun lap").
+entry(lapse, v, [lapsed, lapsing, lapses], "lati ṣubú lati ipele ti tẹlẹLAPSABLE LAPSIBLE adj").
+entry(lapser, n, [lapsers], "eyikeyi ti o ba ṣubu").
+entry(lapsus, n, [lapsus], "aṣiṣe").
+entry(kọnpuyuta abe, n, [kọnpuyuta abe], "kẹrẹ kọnpuyuta fun lilo lori ikun eniyan").
+entry(lapwing, n, [lapwings], "ẹiyẹ eti okun").
+entry(lar, n, [lars], "tabi LARESa ẹ̀mí ìtọ́jú tàbí ọ̀ràn kan ti ilé Roman atijọ́").
+entry(larboard, n, [larboards], "apa osi ọkọ oju omi").
+entry(olè, n, [awọn olè], "ẹniti o njẹwọ ole jija").
+entry(ole, n, [awón_ole], "gbigba arufin ati yiyọ nkan ẹni-kékeré").
+entry(larch, n, [larches], "igi coniferous kanLARCHEN aj").
+entry(lard, v, [larded,larding,lards], "lati kun pẹlu ọra ti o wa lati inu ẹran-ọ̀sìn ti sisun").
+entry(iboju-nkan, n, [iboju-nkan], "ibi ti oúnjẹ ti wa ni fipamọ").
+entry(lardier, comparative, [], "ti lardy").
+entry(lardiest, superlative, [], "ti lardy").
+entry(lardlike, àpèlé, [], "ní bí irun").
+entry(lardon, n, [lardons], "ẹran ọgbẹ dín kukuru lati ọdọ ẹran ẹlẹdẹ").
+entry(lardoon, n, [lardooni], "lardon").
+entry(lardy, aj, [], "BI IBI LAANI").
+entry(laree, n, [larees], "lari").
+entry(lares, a, [], "pl ti lar").
+entry(largando, adj, [], "di fifẹ diẹdiẹ lọ ni ilana orin").
+entry(nla, aj, [], "NLAJULO NLANLAti iwọn tabi iye kanNIPATA adv").
+entry(nla, n, [nlas], "ọrọfẹ").
+entry(largess, n, [largesses], "inu didun").
+wọlé(nlo, n, [nlo], "nlo").
+ẹgbẹ̀rún(largest, superlative, [], "ti ńlá").
+entry(largish, apara, [], "die eba nla").
+entry(largo, n, [awọn_largo], "ọrọ ẹlẹgbẹ ti orin ti o lọra").
+entry(lari, n, [laris], "efuwo owo ilẹ̀ Olómìnira ti Georgia").
+entry(lariat, v, [lariated, lariating, lariats], "láti lásòó").
+entry(larigan, n, [larigans], "bata awọ").
+entry(larine, afiwe, [], "bi adaba").
+entry(apankan, v, [apankan,apa,apankan], "láti hùwà eré").
+entry(larker, n, [awakire], "eyinlomode ti n be tibi tire").
+entry(larkier, afiwe, [], "ti larky").
+agbeyewo(larkiest, aṣaju, [], "ti larky").
+entry(larkish, adj, [], "eré").
+entry(larksome, apanilerin, [], "ẹrin").
+entry(larkspur, n, [larkspurs], "egbun ododo kan").
+entry(larky, adj, [], "LARKIER LARKIESTfẹẹràn rẹrin").
+entry(larn, v, [larnt,larning,larns], "kọ ẹkọ").
+entry(larrigan, n, [larrigans], "larigan").
+entry(larrikin, n, [larrikins], "ẹnikan ti o n ka iwe kiri").
+entry(larrup, v, [larruped, larruping, larrups], "lu tabi na").
+entry(larruper, n, [larrupers], "eyokan ti o n ṣakíyakíya").
+entry(larum, n, [larums], "alaramu").
+entry(larva, n, [larvas], "tàbí LARVAE apẹrẹ abíṣé dídáàbó f'ẹranko àti kokoro-ọ̀fẹ́ kankan nígbà tí wọ́n fún-fún bíLARVAL adj").
+entry(laryngal, n, [laryngals], "ọrọ ìròyìn tí a ń sábàá sọ nípa ìrònú").
+entry(larynx, n, [larynxes], "tabi LARYNGES ẹ̀rọ́ ìtẹ́lẹ̀ afẹ́fẹ́").
+entry(lasagna, n, [lasagnas], "ounjẹ onjẹ ti Itali ti a fi se ni gbogbo onje").
+entry(lasagne, n, [lasagnes], "lasagna").
+entry(lascar, n, [lascars], "ọkọ oju-omi Indian ila-oorun kan").
+entry(lase, v, [lased,lasing,lases], "ṣíṣe bi lesa").
+entry(laser, v, [lasered,lasering,lasers], "lati ṣe itọju pẹlu lesa ẹrọ kan ti o ṣe iwọn igbi ina").
+entry(lash, v, [lashed,lashing,lashes], "lati na pẹlu kibọ").
+entry(lasher, n, [lashers], "ẹnikan ti nà").
+entry(lashing, n, [lashings], "ìlànà tìtìjá").
+entry(lashins, npl, [], "ọdẹkun").
+entry(lashkar, n, [lashkars], "lasika").
+entry(lashless, aj, [], "aṣiṣe òfa").
+entry(lasing, lọwọlọwọ, [], "apakančo ti lase").
+entry(lass, n, [lasses], "obinrin odo").
+entry(lassi, n, [lassis], "oju mimu ti wara oyinbo, omi ati awọn adun").
+entry(lassie, n, [awon_lassie], "omo_obinrin_kan").
+entry(lasso, v, [lassoed,lassoing,lassos], "tabi LASSOESto lati mu pẹlu ọba, okun gigun pẹlu ohun laarin-inu ti nṣiṣẹ").
+entry(lassoer, n, [lassoers], "ẹni tí ó má a lasso").
+entry(lassy, n, [lassies], "molasses").
+entry(last, v, [lasted,lasting,lasts], "lati tẹsiwaju ni jijẹ").
+entry(lastborn, n, [awọn ọmọ ti o kẹhin], "ọmọ ti a bi kẹhin ninu ẹbi").
+entry(laster, n, [lasters], "ẹni tí ó máa ń tọ́mọ́ sí").
+entry(lasting, n, [lastings], "aso to tọjú").
+entry(níkẹyìn, adv, [], "níparí").
+entry(lat, n, [lats], "ẹ̀dá kan ti ẹ̀yìn").
+entry(latakia, n, [latakias], "irú ewé gbigbẹ Tọki kan").
+ọkọọkan(latch, v, [latched, latching, latches], "lati tii mọ pẹlu iru ẹrọ amuṣiṣẹpọ kan").
+entry(latchet, n, [latchets], "ẹja kan ti a lo lati di bata pọ").
+entry(latchkey, n, [latchkeys], "bọọlu fun ṣiṣi ilẹkun ti o ni latasi").
+entry(late, adj, [], "TÓJÚMỌ JÚMỌ ṢÍ JÚMỌ TÓ JÚMOṢÍwá tabí ṣíṣẹ léhẹmọ tí a ti fẹ ki ó díẹ̣").
+entry(lated, adj, [], "pẹ́jú").
+entry(lateen, n, [lateens], "ọkọ oju omi").
+entry(lateener, n, [lateeners], "ẹni ti o ni ipa alejo-oju omi").
+entry(lately, adv, [], "kò pẹ́ jù bẹ́ẹ̀ lọ").
+entry(laten, v, [latened, latening, latens], "lati di pẹ").
+entry(latency, n, [awọn_ipò], "ipo ti o wa ṣugbọn ko han").
+entry(lateness, n, [latenesses], "ipò ti àìdé").
+entry(latent, n, [eemo], "ami ika kekere ti o fẹrẹ han ti o le ṣe afihan fun ẹkọ").
+entry(latently, adv, [], "nínú ìṣarànjọ́").
+entry(nigbamii, ayanfẹ́, [], "ti pẹ́jù").
+entry(laterad, adv, [], "si apa").
+entry(lateral, v, [lateraled,lateraling,laterals], "tabi LATERALLED LATERALLING LATERALS lati ṣe iru gbigbe kan ni boolu afẹsẹgba").
+entry(laterite, n, [laterites], "iru ilẹ́ kan").
+entry(laterize, v, [laterized,laterizing,laterizes], "lati yipada si laterite").
+entry(titunṣe, n, [titunṣe julọ], "akọọlẹ to ṣẹṣẹ julọ").
+entry(latewood, n, [latewoods], "apá kan ti oruka ohun-ọ̀dún kan ti igi").
+entry(latex, n, [latexes], "tabi LATICESa omi wara ti awon eweko kan").
+entry(lath, v, [lathẹ̀d,lathing,laths], "láti fi àwọn lathẹ̀, ẹni ìgìgìkọ, bò").
+entry(lathe, v, [lathed,lathing,lathes], "lati ge tabi ṣe apẹrẹ lori iru ẹrọ kan").
+entry(lather, v, [lathered,lathering,lathers], "lati bo pelu lather alabapade fẹẹrẹfẹ").
+entry(latherer, n, [awọn onifuñfun], "ẹni ti ọfunfu").
+entry(lathery, akojọpọ, [], "ti a bo pelu foomu").
+entry(lathi, n, [lathis], "igi ti o wuwo ati irin ni Ilu India").
+entry(lathing, n, [lathings], "iṣẹ́ tí a ṣe pẹ̀lú tàbí nípasẹ̀ àwọn rọ́ńpò").
+entry(lathwork, n, [lathworks], "lathing").
+entry(lathy, adj, [], "LATHIER LATHIESTgun gigun ati ni wiwọ").
+ìwọlé(lati, a, [], "ìpọ̀lówó àwọn lati").
+entry(latices, a, [], "pl of latex").
+entry(latigo, n, [latigos], "ẹ̀rọ̀ tabi LATIGOESPẹ̀tẹ́lẹ̀ tí a ń lò láti mú àjàfá").
+entry(latilla, n, [latillas], "igi ti a bọ́, tí a ń lò ní àtìlùlù").
+entry(latina, n, [], "pl LATINASobìnrin tàbí ọmọbìnrin láti Amẹrika Latin").
+entry(latini, n, [latinis], "ẹ̀kọ́ tàbí awọn ọ̀̀rọ̀ ni èdè Latin").
+entry(awọnu, v, [awọnu, awọn-ọrọ-awọnu, awọn-ọrọ-iwe-awọnu], "lati tumọ si ede Latin").
+entry(latino, n, [latinos], "arakunrin Latin Amerika").
+entry(latish, àpèjúwe, [], "díẹ̀dá álẹ́").
+entry(latitude, n, [latitudes], "ominira lati awọn ihamọ dín").
+entry(latke, n, [latkes], "pancake elo irish").
+entry(latosol, n, [awọn latosol], "ilé ilẹ tropiki").
+entry(latria, n, [latrias], "ijọsin ti o ga julo ti a fun Olorun nikan ninu Esin Katoliki Romu").
+entry(latirina, n, [latirina], "iru baluwe kan").
+entry(lats, n, [lati], "tabi LATUa owo ilowo ti Latvia").
+entry(latte, n, [lattes], "kofe espresso pẹlu wara").
+entry(latten, n, [lattens], "irin alagbara ti o dabi fadaka").
+entry(latter, n, [latters], "ẹni kẹyin tabi nkan keji ti a mẹnu si ninu meji").
+entry(latterly, adv, [], "ni bayii").
+entry(lattice, v, [latticed,latticing,lattises], "lati ṣe apẹrẹ kan ti o ni awọn ifi awoṣe palolo ti ohun elo").
+entry(latin, n, [awọn latin], "latin").
+entry(latu, a, [], "pl ti lats").
+entry(lauan, n, [lauans], "igi Philippine kan").
+entry(ọlá, v, [ọládi,ọláńrọ,ọláwọn], "láti yìn").
+entry(alafia, adj, [], "jẹ́ ẹlẹ́yà àyíkáLATỌNI adv").
+entry(laudanum, n, [laudanums], "irú ìtókun opium kan").
+entry(olufẹ, n, [olufẹs], "olufẹ").
+entry(lauder, n, [awọn olugbega], "ọkan ti ẹlẹgbẹ").
+entry(rete, v, [reterin, reterin, rete], "lati fihan ayọ tabi ẹrin nipasẹ awọn ohun ti ko yege").
+entry(álọ̣ǹfọ́, n, [álọ̣ǹfọ́], "eeyan ti ó ń rér̀ín-in").
+entry(nrin, n, [nnrin], "erin").
+entry(ẹrin, n, [ẹrin], "iṣe tabi ohun ti ẹrin kan ṣe").
+entry(launsi, n, [launsi], "eja okun").
+entry(fojusi, v, [fojusi, nṣiṣẹ, fojus], "lati ṣeto ni išipopada").
+tíwọ́lọ́wọ́(launcher, n, [launchers], "ẹ̀rọ ìṣíṣẹ̀sílẹ̀").
+entry(launder, v, [laundered,laundering,launders], "lati wẹ aṣọ").
+entry(ẹwu, n, [ẹwu-ọbasílẹ̀], "àkó̩jó̩ kan ti àwọn aṣọ ti yóò wáṣí").
+entry(laura, n, [lauras], "tabi LÁURAE iru ajọpọ ajọ").
+entry(akọni, v, [akọni_wo, akọni_wọ, akọni_ṣa], "láti kọni").
+entry(laurel, v, [laureled,laureling,laurels], "tabi LAURELLED LAURELLING LAUREL lati fi ade kan ti eweko alawodudu bo lori").
+entry(lauwine, n, [awọn lauwines], "isikiti").
+entry(lav, n, [yàrá ìgbéyàwó], "yàrá ìgbéyàwó").
+entry(lava, n, [lavas], "apá oníle tító ojú ìeṣe").
+entry(lavabo, n, [lavabos], "tabi LAVABOESa yiyọ-ọwẹ ayẹyẹ ni diẹ ninu awọn ile ijọsin Kristiani").
+entry(lavage, n, [ígílí], "fífọ").
+entry(lavalava, n, [lavalavas], "aṣọ Polynesian").
+entry(lavalier, n, [lavaliers], "awon ohun o pa lara ti won ma n fi oko si odun").
+entry(lavalike, adj, [], "ti o dabi lava").
+entry(lavash, n, [lavashes], "nikan akara lati orisun Armenia").
+entry(lavatera, n, [lavateras], "egbin ewe ti idile mallow").
+entry(lavation, n, [lavations], "ise fifọ").
+entry(iletò, n, [iletò], "yàrá tí wọ́n kó ní ẹ̀rọ ìfọ̀wẹ̀ àti ohun èlò ìdáná").
+entry(fọ, v, [fofo, nfofo, nfo], "láti fọ").
+entry(laveer, v, [laveered,laveering,laveers], "láti sàlùbààtọ́").
+entry(efiripo, v, [efiripoda,efiripon,efiripo], "lati f\u0336o\u0336 ep\u0336e\u0336r\u0336e\u0336 lor\u0336i\u0336 it\u0336an\u0336").
+entry(laver, n, [lavers], "ẹ̀rọ ìfunra tí wọ́n ń lò fún ìwẹ̀mítìrì ní ìjẹ́rò Heberu àtijọ́").
+entry(laverock, n, [laverocks], "ẹiyẹ akọrin").
+entry(laving, lọwọlọwọ, [], "orin ti ẹnu omi nu").
+entry(lavish, adj, [], "LAVISHER LAVISHESTfifun tabi nini ninu awọn akude nlaLAVISHLY adv").
+entry(lavish, v, [lavished,lavishing,lavishes], "lati na tabi lati fun ni titobi iwon").
+entry(lavisher, n, [awọn oniṣoṣo], "ẹni tí ó nà á ní ọ̀kọ́kọ́").
+entry(lavrock, n, [lavrocks], "laverock").
+entry(ẹjọ, v, [ẹjọed,ẹjọing,ẹjọs], "lati mu ẹdun lọ si kootu fun ipinnu").
+entry(iweofin, n, [iweofin], "iwe kan ti o ni tabi ti o n se afiyesi ofin").
+entry(lawful, aj, [], "lafin, ara ofin to n dari ohun ti o kan awujoLAWFULLY adv").
+entry(lawgiver, n, [awosofofin], "eni ti o da ilana ofin sile").
+entry(lawine, n, [lawines], "lauwine").
+entry(lawing, n, [awọn_lawing], "iwe-owo fun ounje tabi mimu ni itale").
+entry(lawless, aj, [], "lailónà").
+entry(lawlike, aj, [], "jẹ́ bí òfin").
+entry(asofin, n, [asofin], "olórí òfin").
+entry(láwùmànì, n, [láwùmànì], "ọmọ-ṣòfin kan").
+entry(òríforí, n, [òríforí], "àgbègbè ilè tí koríko bòLÁWỌN adj").
+entry(lawned, aj, [], "ti o ni koríko").
+entry(idajo, n, [awọn idajo], "iṣe ofin").
+entry(amofin, v, [ti_amofin, npa_amofin, awon_amofin], "latise bi omo ise ofin").
+entry(lawyerly, àpẹẹrẹ, [], "tó bá onídàájó mu").
+entry(lax, adj, [], "KO NI OGUNRUN KO NI OGUNJU ko muna tabi sannkati").
+entry(lax, n, [laxes], "faweli ti a so po pelu mesun ti o wa ni irorun diẹ").
+entry(laxation, n, [laxations], "iṣẹ ṣiṣe itọju ara").
+entry(omodara, n, [omodara], "oogun kan ti n fa igbasilẹ ìdarí inu").
+entry(laxity, n, [laxities], "ipò ti relé").
+entry(laxly, adv, [], "ni ọna itunu").
+entry(laxness, n, [laxnesses], "ojuse-kekere").
+entry(lẹ, v, [lẹyẹd,lẹying,lẹs], "lati fi sinu bi tẹ̀tẹ̀").
+entry(layabout, n, [layabouts], "eniyan alaini itara").
+entry(idogo, n, [awọn idogo], " nkan ti a ti fipamọ pẹlu idinku sisanwo").
+entry(layer, v, [àyípo, ìṣiṣẹ́pò, àwọnlááyẹ̀], "láti dá sílé ayípo tàbí dídi kan ṣoṣo ẹkà ẹ̀dá tàbí ìbòjú").
+entry(layerage, n, [layerages], "ẹ̀kọ́ ọ̀nà àgbéde igi kan").
+entry(layering, n, [layerings], "layerage").
+entry(layette, n, [layettes], "awọn aṣọ ati ẹrọ fun ọmọ tuntun").
+entry(layin, n, [layins], "irú ibọn kan nínú bọọlu afẹsẹgba").
+entry(layman, n, [laymen], "ẹnikẹ́ni tí kò jẹ́ alufaa").
+entry(iko, n, [ṣiṣeyọkuro], "idadoro tabi ijẹbi awọn oṣiṣẹ").
+entry(ayouta, n, [ayouti], "eto tabi ero").
+entry(duralapada, n, [duralapadas], "ìdúró jùúrù").
+entry(layup, n, [layups], "ìfáyàrábù fún bọ́ọ̀lù alábáwọlé").
+entry(obinrinaladara, n, [awonobinrinaladara], "obinrin omo egbe alaigbagbo").
+entry(lazar, n, [lazars], "ẹlẹsìn kan ti arun irira kan ń ṣe").
+entry(lẹṣekuwa fẹ́fẹ́, n, [lẹṣekuwa fẹ́fẹ́s], "ilé ìwòsàn tí ń tọjú àrùn tó tan kálẹ̀").
+entry(laze, v, [lazed,lazing,lazes], " lati lo akoko ni aiperee").
+entry(lazied, iṣe, [], "wọn akoko ti o lọ ti lazy").
+entry(lazier, comparative, [], "ti o jẹ oníṣarálóje").
+entry(lazies, ti wa, [], "ẹni kẹta ẹni kan ti o ṣoju alaimọra").
+entry(laziest, superlative, [], "ti ologbo").
+entry(lazily, adv, [], "ní ọ̀nà àfẹfẹ").
+entry(ājẹ́bútàánṣe, n, [ājẹ́bútàánṣes], "ipò igbágbé láti jẹ́ òlójẹ́").
+entry(lazing, lọwọlọwọ, [], "apakan ọrọ ti laze").
+entry(lazuli, n, [lazulis], "okuta").
+entry(lazulite, n, [lazulites], "okuta kan").
+entry(lazurite, n, [lazurites], "okuta olowo").
+entry(lazy, adj, [], "AYEGBEGE AYEGBEGEJULOo jẹ ki ẹlẹyàmẹya maa ṣiṣẹ tabi maa ṣiṣẹ ipa").
+entry(alaiṣe, v, [alaiṣeéd, alaiṣeíng, alaiṣeṣ], "láti le ti tabi dì ní aláìní aláìṣe").
+atipe(lazyish, adj, [], "Ṣe é bi onirẹlẹ kan").
+entry(lea, n, [leas], "pápá").
+entry(leach, v, [leached,leaching,leaches], "lati jẹ kàkàkýá ailewu ti omi ti n kọja").
+entry(leachate, n, [leachates], "ojutu ti a gba nipasẹ gbigbe").
+entry(leacher, n, [leachers], "eyin ti o n ta omi").
+entry(leachy, adj, [], "LEACHIER LEACHIESTporous").
+entry(lead, v, [leaded,leading,leads], "lati fi irin oloro ti o wuwo bo").
+entry(asiwaju, v, [darí,asiwaju,asiwaju], "láti fihan ọ̀nà nípa lílọ níwajuLEADABLE adj").
+entry(leaden, v, [leadened,leadening,leadens], "lati ṣe rirọ tabi dẹkunLEADENLY adv").
+entry(olori, n, [awọn olori], "ẹnikan ti o n dari tabi ti o n tọ itọsọna").
+entry(leadier, comparative, [], "ti leady").
+Ìlànà(leadiest, afiwèra julọ, [], "ti leady").
+entry(ìtẹ̀síwájú, n, [ìtẹ̀síwájús], "àpamọ́ tàbí ààlà ti erí").
+entry(leadless, adj, [], "ti ko ni asiwaju").
+entry(leadman, n, [leadmen], "oṣiṣẹ kan ti o wa ni idiyele awọn oṣiṣẹ miiran").
+entry(leadoff, n, [leadoffs], "ìṣẹ̀lẹ̀ ìṣíṣe tàbí ìṣe ilẹ̀kẹ́jọ").
+entry(leadsman, n, [awon_akowe_leadsman], "okunrin-omi tifi iwọn omi").
+entry(leadwork, n, [awọn_ise_amọlẹ], "nkan ti a ṣe ti amọlẹ").
+entry(leafu, n, [leafu], "eto ekuya ojo").
+entry(leady, adj, [], "LEADIER LEADIESTto jo si irinṣi").
+entry(ewe, n, [ewé], "èdá ilẹ̀pẹ́lẹ̀ ti o jẹ́ aláwọ̀ ewé pátá ní gbígbò àsípojù gbígba tàbí ni iṣelọpọ àti bíbojúfrá awómi").
+entry(igi, v, [leefedi, leefe, iegi], "lati yiwe pẹpẹdan cojan").
+entry(leafage, n, [leafages], "ewéko").
+entry(leafier, comparative, [], "tí wọ́n ní ewé jù").
+entry(leafiest, superlative, [], "ti o ni ewe pupo ju").
+entry(ailabẹ́, afijq, [], "lai ni ẹ̀wé").
+entry(leaflet, v, [leafleted, leafleting, leaflets], "tabi LEAFLETTED LEAFLETTING LEAFLETS lati pin iwe afọwọkọ ti a tẹjade").
+entry(leaflike, adj, [], "t'o dabi ẹ̀gbẹ́ alawọ ewe").
+entry(ile-alikama, n, [ile-alikama], "ilé tí ó papajó jùlọ ti eèpo ewéko tó ti rún").
+entry(leafroll, n, [leafrolls], "arun ọlọjẹ ti awọn poteto").
+entry(leafworm, n, [leafworms], "larva kokoro ti o nje ewe").
+entri(ewé, afixẹ́, [], "EWÉJÚ EWÉJÚJÚgbé wọ́n pẹ̀lú ewé").
+entry(igba, v, [igbalẹ, igbameta, igbagba], "lati wa papọ fun idi kan ni apapọ").
+entry(leaguer, v, [leaguered,leaguering,leaguers], "layege").
+entry(ró, v, [ró, nró, nró], "láti jẹ́ kí nkankan sá lọ lójú kan tàbí ní pẹ́kùn kan").
+entry(idọti, n, [idọtis], "iṣe tabi iṣẹlẹ ti idakọ").
+entry(leaker, n, [awọn_alakatakiti], "ẹni tí ń katakata").
+entry(leakless, adj, [], "ṣe apẹrẹ lati ma jo").
+entry(leaky, adj, [], "TÓŃ RamsíGaNÍ TÍ Ó Júlọ RamsíŃ RamsíLÉ").
+entry(leal, adj, [], "onífê ni ìdájọ́ adv").
+entry(idakuna, n, [idaku], "loyalty").
+entry(lean, adj, [], "TI O N JA TI O N JU TI O KERE PUPOLE KERE adv").
+entry(lean, v, [leant,leaning,leans], "lati tẹ lati ipo inaro").
+entry(olùlẹ́, n, [olùlẹ́], "ẹni tí n gbógun ti kan").
+entry(fifasẹlẹ, n, [fifasẹlẹ], "atilẹyin").
+entry(ikọ, n, [ikọko], "ipò ti jé kí ó rọ").
+entry(leant, a, [], "árámárámá ti ń lera").
+entry(leap, v, [lept, leaping, leaps], "lati fòkàn olókè").
+entry(leaper, n, [awọn ti o nrìn-ìgbéga], "ẹni kan ti o nrìn-ìgbéga").
+entry(leapfrog, v, [leapfrogged,leapfrogging,leapfrogs], "fo lori pẹlu ẹsẹ ti o wọ pẹ̀lú").
+entry(kọ́, n, [kọ́ṣí], "ìkọ́ni").
+entry(learier, ija-mimo, [], "ti leary").
+entry(leariest, superlative, [], "ẹ ti leary").
+entry(kọ́, v, [kọ̀, kọ́gbọ́n, ńkọ́], "láti ní ìmọ̀ nípasẹ̀ ìrírí, ìkọ́ni tàbí ìwé").
+ọjọ́(akẹ́kọ̀ọ́, n, [akẹ́kọ̀ọ́], "ẹni tí ń kọ́ ẹ̀kọ́").
+entry(eko, n, [awon eko], "imo to gba").
+entry(leary, adj, [], "LEARIER LEARIESTleery").
+entry(lease, v, [leased,leasing,leases], "lati fun ni lilo igba diẹ ni paarọ fun iyaloLEASABLE adj").
+entry(olùyálejé, n, [olùyálejé], "ẹni tí ó ń yá nílé").
+`entry(leash, v, [leashed,leashing,leashes], "lati di ẹranko mọ pẹlu okun tabi baagi").`
+entry(leasing, n, [leasings], "ìròyìn èké").
+entry(least, n, [awọn ti o kere julọ], "nkankan ti o kere julọ ni iwọn tabi ipo").
+entry(awọ, v, [awọded,awọing,awọs], "lati bo pẹlu awọ ti a ti ṣe aṣọ tabi awọ ti ẹranko ti a ti taane").
+entry(leathern, adj, [], "ṣe ti awo").
+entry(leathery, aj, [], "lẹ́ẹ́dà bí alawo ẹran").
+entry(lọ, v, [lọ̀, ńlọ, ńlọ̀], "lati kuro nibi kan").
+entry(leaved, adj, [], "ní ewe tàbí àwọ̀n ewé").
+entry(lẹ fẹn, v, [lẹ fẹnni, fẹnjẹti, lẹ fẹn], "lati ṣe ina iṣẹ abẹ").
+entry(leavener, n, [leaveners], "eyi ti o ni ipa didun").
+entry(leaver, n, [awọn ti o lọ], "ẹni ti o lọ").
+entry(ewé, pl, [], "ti ewe").
+entry(leaving, n, [awọn idoti], "ẹ̀kùnrẹ́rẹ́").
+entry(leavy, adj, [], "LEAVIER LEAVIESTleafy").
+entry(leben, n, [lebens], "iru ounjẹ omi kan").
+entry(lech, v, [leched,leching,leches], "lati ṣe afẹsodi").
+entry(lechayim, n, [lechayims], "lehayim").
+entry(ololufi, v, [ololufied,ololufing,ololufis], "lati kopa ninu ìgbọ̀ràn").
+entry(lechery, n, [lecheries], "afọrun ni ipamọ ibaje iṣe ibalopọ").
+entry(lechwe, n, [lechwes], "ẹranko gbigbẹ Afrika kan").
+entry(lecithin, n, [lecithins], "eyikeji nino awon nkan onirunmu inu eweko ati awon iranti eranko").
+entry(lectern, n, [lecterns], "ibu kika").
+entry(lectin, n, [awọn lectins], "epo amuaradagba ti o so mọ nkan suga").
+entry(ikẹkọ, n, [ikẹkọ], "apakan ti kikọ mimọ ti a ka ninu iṣẹlẹ ẹsin").
+entry(olukawe, n, [olukawe], "olukawe ti o ka awon iwe ninu ise ijọsin").
+entry(ẹkọ, v, [kọni,kọniṣisẹ,kọni], "lati ṣalaye lori koko pato").
+entry(onkọwe, n, [wọnkọwe], "ẹni ti o kọni").
+entry(lecythis, adj, [], "tójú ìdílé àwọn ìgbó ọ̀gbìn tropiki").
+entry(lecythus, n, [lecythi], "lekythos").
+entry(led, ti o koja, [], "akoko ti lead").
+entry(lede, n, [ledes], "abala ifihan itan iwe iroyin").
+entry(ledge, n, [lẹ́díìsì], "ìga díẹ̀ tó dàbí pẹpẹ kọ́bọ́").
+entry(ledger, n, [awọn ledgers], "iwe iroyin ikẹhin").
+entry(ledgy, adj, [], "LEDGIER LEDGIESTni o pọju ni ledges").
+entry(lee, n, [lees], "ibi aabo lati afẹfẹ").
+entry(leeboard, n, [leeboards], "gbogbo ti a so mo oko oju-omi lati dena yiyapa si ẹgbẹ").
+entry(ajẹ, v, [ajẹẹgbẹ, ajẹ́pọ̀n, ajẹ́jẹ̣], "lati na si ki o si jẹun tàbí já mọ́ jà").
+entry(alubosa_awon, n, [alubosa_awon], "ewe ti a n lo ninu sise ounje").
+entry(leer, v, [leered, leering, leers], "wo pẹ̀lú ìtẹ̀jú ojú").
+entry(leery, adj, [], "LEERIER LEERIESTsuspiciousLEERILY adv").
+entry(leet, n, [leets], "ilé-ẹjọ ilẹ Gẹ̀ẹ́sì àtijọ́ fún ìwà ìjẹ̀bútẹ́").
+entry(leeward, n, [leewards], "ilana si ibikan ti afẹfẹ ń fẹ si").
+entry(leeway, n, [leeways], "ipele ti o yatọ ti ọkọ oju omi").
+entry(osi, aj, [], "SIWAJU SIWAJUJULO to wa si apa ti ara si ariwa nigbati enikeji ba koju si ila-oorun").
+entry(òfà, n, [òrà], "ẹ̀gbẹ́ òtún tàbí ọwọ́ òtún").
+entry(leftie, n, [awon_olowo_osi], "olowo_osi").
+entry(leftish, ajẹ, [], "fe lati jẹ onítilehin ẹni òsì").
+entry(leftism, n, [leftisms], "ẹkọ iselu alaabo").
+entry(leftist, n, [awọn olósìn òtún], "olutẹnumọ ìtèdógbọ").
+entry(tí ó wà ní apá òsì jùlọ, ajẹtífù, [], "jùlọ ní apá òsì").
+entry(idọ̀tí, n, [awọn idọ̀tí], "àpapọ̀ tí a kò lò tàbí tí a kò jẹ").
+ìwọlé(síapa, àsìwá, [], "sí ọtun").
+entry(apaosi, ajv, [], "fẹ́ràn ilẹ̀sọ́na").
+entry(lefty, n, [awọn olowo ọwọ osi], "ẹni ti o ń lo ọwọ osi").
+entry(ẹsẹ̀, v, [ẹsẹ̀wọnkẹsẹ̀, tẹsẹ̀, ẹsẹ̀], "lati rìn pẹlu ẹsẹ̀ tí ó ṣeé ṣe ìdíyelé ati irinkiri").
+entry(ẹ̀rí, n, [ẹ̀ríṣé], "nkan kan ti ẹnikan kọ silẹ").
+entry(ofin, n, [ofins], "idoko-owo to gba ofin laaye ti o le ṣe nipasẹ awọn oludokoowo gẹgẹbi awọn ile ifowopamọ fipamọ").
+entry(ofin, n, [awọn ofin], "ọrọ amọja ti awọn agbẹjọro").
+entry(funṣẹ, v, [funṣẹ̀sẹ,funṣẹ̀sẹ̀,funṣẹ], "to legalize").
+entry(ofinismu, n, [ofinismu], "ifaramọ tọkantọkan si ofin").
+entry(legalist, n, [legalists], "ẹniti o tẹle ilana ti ofin").
+entry(ibamu, n, [awọn ibamu], "ipo ti jijẹ labẹ ofin").
+entry(ṣe-ẹtọ, v, [ṣe-ẹtọ̀,ṣe-ẹtọ́], "láti mú kó ṣẹsẹ").
+entry(legally, adv, [], "ni ọna ti ofin ṣe").
+entry(legate, v, [legated,legating,legates], "láti  fún ní ìní").
+entry(legatee, n, [awọn onipin], "ẹni ti o jogun ajogunba").
+entry(legatine, adj, [], "nipa si aṣoju osise").
+entry(legating, lọwọlọwọ, [], "atoka ti legate").
+entry(ile-ise apoleti, n, [ile-ise apoleti], "gwongwileti ase oluberejulo").
+entry(legato, n, [legatos], "àwọnran àti ṣàn bí oríṣun orin").
+entry(legator, n, [awọn legators], "eyikeyi ti o fi ohunkan silẹ").
+entry(itan, n, [itan], "itan ti ko ni idaniloju lati igba atijọ").
+entry(legendry, n, [legendries], "ikolẹ kan ti awọn irokuro").
+entry(leger, n, [legers], "eja lasan ti a fi si isalẹ").
+entry(irekele, n, [irekeles], "iṣipaya ti ọpọlọ tabi ara").
+entry(leges, pl, [], "ti lex").
+entry(ẹsẹ, ti kọja, [], "wákàtí ti ẹsẹ").
+entry(leggier, comparative, [], "ti o ni ẹsẹ gigun").
+entry(leggiero, adv, [], "ní irògbọ lórèégun tàbí láìrẹdà tí a ń lò gége bí ìtòsí orin").
+entry(leggiest, superlative, [], "ti o ni ẹsẹ gigun julọ").
+entry(leggin, n, [leggins], "ṣokoto lele").
+entry(legging, n, [leggings], "ẹ̀wù àtàárọ̀ fún ẹsẹ̀").
+entry(leggy, adj, [], "TI N GUN LE TI N GUN JU NI TI O GUN JU").
+entry(leghold, n, [legholds], "àṣilà tí ó ń mú ẹranko ní ẹsẹ rẹ").
+entry(leghorn, n, [leghorns], "okùn ìkàrà bí personally, tí ó ní ìtẹ́gùn réèrè").
+entry(legibile, aj, [], "ṣeé káànsíLEGIBILÌ adv").
+entry(legion, n, [legions], "agbara ologun nla").
+entry(amofin, n, [amofin], "eni kan ti o mo tabi o nipa ofin").
+entry(legit, n, [legits], "itàge otitọ").
+entry(ailesẹ, ajẹ, [], "lilọwọ, pẹlu aiṣe loke").
+entry(egbele, aj, [], "to dabi ẹsẹ").
+entry(legman, n, [legmen], "onirohin ti a yan lati ko alaye").
+entry(legong, n, [legongs], "ijó kan lati ërin Bali").
+entry(legroom, n, [legrooms], "aye lati tẹsiwaju awọn ẹsẹ").
+entry(ẹ̀ẹ̀wà, n, [ẹ̀ẹ̀wà], "irú ewéko kan").
+entry(ẹfọ, n, [ẹfọ], "ẹran ọgbin").
+entry(ise-ese, n, [ise-ese], "ise ti o kan irin ajo gigun").
+entry(lehayim, n, [lehayims], "toosi ajẹlẹ ti Juu").
+entry(lehr, n, [lehrs], "irú àdídíkan").
+entry(lehua, n, [lehua], "igi aginju").
+entry(lei, n, [leis], "õ̀run ododo").
+entry(leister, v, [leistered,leistering,leisters], "lati fi ohun-ọdẹ onidán sínàja mẹtalelàádotà pàtàkì").
+ìforígbárí(entry, n, [ìgbàayé], "àìní àìríran ti ìṣẹ́ tàbí ojúṣeÀYÉKỌ adj").
+entry(lek, n, [leks], "tabi LEKE tabi LEKU eile ayelujara nigba ti o to Albanian").
+entry(lek, v, [lekked,lekking,leks], "lati pejọ fun awọn ifihan idije lakoko akoko ibalopọ").
+entry(lekvar, n, [lekvars], "bota agbálẹ́pọn").
+entry(lekythos, n, [abakójẹ ọpa epo], "ikoko epo ti a lo ni Giriki atijọ").
+entry(lekythus, n, [lekythi], "lekythos").
+entry(leman, n, [lemans], "ololufe").
+entry(lemma, n, [lemmas], "tabi LEMMATAiṣẹ́-ọrọ kan nínú ìṣàkóso láti pinnu òtító".).
+entry(lemming, n, [lemmings], "ẹranko bi eku").
+entry(lemnisci, npl, [], "awọn okun amunisin ti ọkan").
+agbeyewo(lemon, n, [lemons], "eso osanLEMONISH LEMONY adj").
+entry(omi_adun, n, [omi_adun], "oju mimu").
+entry(lempira, n, [awọn lempira], "ẹyọ owo ti Honduras").
+entry(lemu, n, [awọn lemu], "ẹranko igi ti o ni ibatan si awọn kurukuru").
+entry(lemures, npl, [], "awọn èṣù àwọn òkú ní ẹ̀sìn Romu ìgbàanì").
+entry(lemurine, ajẹ́, [], "tí ó ní í ṣe pẹ̀lú ẹyẹ lemur").
+entry(lemuroid, n, [awọn ẹyẹ lemuroidi], "lemur kan").
+entry(lend, v, [lent,lending,lends], "lati fun ni lilo akoko").
+entry(olùánfààní, n, [awọn olùánfààní], "ẹni tí ó njẹ́wọ́n ádánWán").
+entry(fífi, n, [fífí], "ẹ̀ṣẹ́ ti fífún nkan fún àkókò díẹ̀").
+entry(lenes, pl, [], "ti lenis").
+ẹnu-ọna(gíga, n, [gíga-nnkan], "ipari to gun ju tabi ti o gunjulo ti ohun kan").
+entry(lengthen, v, [ṣe__kikun, ṣe__kikuri, ṣe__kiku], "ṣe gun tabi di gun").
+entry(gun, adj, [], "GUNRERE GUNJULOgun gidigan").
+entry(lenience, n, [leniences], "ibọwọ-fẹlẹfẹlẹ").
+entry(leniency, n, [leniencies], "didun").
+entry(lenient, adj, [], "ní ìrẹ̀lìí").
+entry(lenis, n, [lenes], "fẹ́lẹ́fẹ́lẹ́ ohun ti a sọ pẹlu ifẹnu pupọ tabi kosi").
+entry(lenite, v, [lenited,leniting,lenites], "lati fa si ina lenis").
+entry(lenition, n, [awọn_yipada_lenition], "iyipada ninu ọna ti a ti nṣe").
+entry(lenitive, n, [lenitives], "oogun didùn kan").
+entry(lenity, n, [awọn_olufẹ], "irọra").
+entry(leno, n, [lenos], "àṣà tí a ń fi ń kó aṣọ").
+entry(lens, n, [lenses], "ẹ̀yà kan ti ohun elo kedere tí a ń lò fún yíyí padà ìdàpọ̀ àwọn ìmòràn àlàbá fúnwéLENSLESS adj").
+entry(lens, v, [lensed,lensing,lenses], "lati ṣe fiimu ti").
+entry(lense, n, [awọn_lẹẹnsi], "lẹẹnsi").
+entry(gbigbọn, n, [gbigbọn], "iṣẹ tabi iṣẹlẹ kikọ fidio ere sinima").
+entry(lensman, n, [aworanṣẹ], "oludo aworan").
+entry(lent, ti tẹlẹ, [], "tansì fún lend").
+entry(lentando, adv, [], "sisilẹ di diẹ  lo lati ṣalaye orin").
+ìkọ̀lé(lenten, ajm, [], "kekere").
+entry(lentic, ajd, [], "ti omi daduro").
+entry(lenticel, n, [lenticels], "awọn sẹẹli pupọ lori ẹyin ọgbin").
+entry(lentigo, n, [lentigines], "ileke lati oorun").
+entry(lentil, n, [awọn ẹ̀dá lentil], "èweko àtijọ́ ti Eurasia kan").
+entry(igi_lentisk, n, [igi_lentisks], "igi alawodudu ti kii se oniyeye").
+entry(lento, n, [lentos], "ijekadi orin alaidagba").
+entry(lentoid, n, [lentoids], "ẹya ti o dabi fẹlẹfẹlẹ kan").
+entry(leone, n, [awọn leone], "un kan owo ilẹ Sierra Leone").
+entry(leonine, aj, [], "ni ibamu pẹlu kiniun").
+entry(amotekun, n, [awọn amotekun], "eranko nla ti o jẹ gbogbo ẹran ara").
+entry(leotard, n, [leotards], "aso to sunmo ara").
+entry(leper, n, [awon_leper], "eni ti aran ba").
+entry(lepidote, n, [lepidotes], "igbó igbo ti o ni ododo").
+entry(leporid, n, [leporids], "eyin LEPORIDAEa ti n ta mammal").
+entry(leporine, adj, [], "bii ehoro tabi àpá").
+entry(leprose, adj, [], "alájọṣe").
+entry(leprosi, n, [awọn_leprosi], "aisan alaitẹgun ti o jẹ ifihan nipasẹ ayẹwo awọ ati awọn aibikita").
+entry(leprotic, aj, [], "leprous").
+entry(leprous, oba, [], "ti a ni ẹfun").
+entry(lept, a, [], "tense ti o ti kọja ti fo").
+entry(leptin, n, [awọnleptin], "hormonu kan ti awọn sẹẹli ọra tu silẹ").
+entry(lepton, n, [awọn_lepton], "ẹyọkuro-apata kekereLEPTONIC adj").
+entry(lepton, n, [elético], "ẹyẹ owo-atijọ ti ilẹ̀ Gíríìsì").
+entry(lesbian, n, [awọn obinrin alainidapo], "obinrin onibaje").
+entry(lesbigay, n, [lesbigays], "obinrin onibaje, onibale-nibale, tabi okunrin onibaje").
+entry(lesion, v, [lesioned,lesioning,lesions], "lati fa ayipada aibamu ninu eto ohun-ara").
+entry(less, adj, [], "KERE JU KEREJULOko ti ko tobi ninu iye tabi ipele").
+entry(lessee, n, [lessees], "ẹni ti a fi ile tabi ohun ini fun nipasẹ iwe adehun pọ").
+entry(din, v, [dinkù,dinkí,din], "lati ṣe ígbẹ̀yiga tabi kí ó dín kù").
+entry(kekere, adj, [], "kii ṣe iwọn tabi pataki bi").
+entry(ẹ̀kọ́, v, [ẹ̀kọ́, ẹ̀kọ́, ẹ̀kọ́], "láti kọ́ni").
+entry(olule, n, [olule], "eni ti o n fun ni iyalo").
+entry(lest, conj, [], "ki okun ti").
+entry(let, v, [letted,letting,lets], "láti dí àṣàrò").
+entry(letch, v, [letched,letching,letches], "to lech").
+entry(letdown, n, [letdowns], "idinku").
+entry(lethal, n, [lethals], "aiku ti o fa abawọn jiini").
+entry(lethal, adv, [], "ni ọna ti o lewu").
+entry(asopọ, n, [asopọ], "jú sùn, adídùn-kùn-kùn").
+entry(lethe, n, [lethes], "gbagbeLETHEAN adj").
+entry(letout, n, [letouts], "nkankan ti o mu ki o ṣeeṣe lati yago fun ṣiṣe nkankan").
+entry(letted, igba to koja, [], "aabo oro isele let").
+wọlé(lẹ́tà, v, [léttà,léttàrí,léttà], "láti fi àmì lẹ́tà hàn nínú ìwé tó yọrìwọ̀").
+entry(letterer, n, [letterers], "ẹni ti o kọ lẹta").
+entry(letting, tẹlẹ, [], "ise apakan let").
+entry(lettuce, n, [lettuces], "ewe ti a n gba lati ṣe saladi").
+entry(letup, n, [letups], "sisọ silẹ tabi isinmi").
+entry(leu, n, [lei], "ẹyọ owo ti Romania").
+entry(leukimia, n, [leukimias], "leukemiaLEUKIMIK adj").
+entry(leusini, n, [leusini], "leucine").
+entry(leusini, n, [leusinì], "amino ọlọjẹ kan").
+entry(leusaiti, n, [leusaiti], "ọ̀dẹ̀dẹ̀ kan LEUSAITIK adj").
+entry(leucoma, n, [leucomas], "leukoma").
+entry(leucon, n, [leucons], "àwọsàn bíríbí").
+entry(leukosi, n, [leukosi], "leukosisLEUKOTIK aj").
+entry(leud, n, [leuds], "tabi LEUDES, akoni ijoba irẹsi").
+entry(leukemia, n, [awọsanma_leukemia], "àìsàn àwọn ẹ̀gbẹ́ ẹ̀jẹ̀ tó ń ṣèdá ẹ̀jẹ̀").
+entry(leukemiki, n, [leukemikis], "ẹni kan ti o ni lukimia").
+entry(leukoma, n, [afojudi], "ikorira ni oju ekuro oju").
+entry(leukon, n, [leukons], "ẹ̀yà ara kan tó jẹ́ àwọn sẹẹli ẹ̀jẹ̀ funfun").
+entry(leukosis, n, [leukoses], "lewukemiaLEUKOTIC aj").
+entry(lev, n, [leva], "tabi LEVAS tabi LEVSa owo ẹgbẹ́ ti Bulgaria").
+entry(levant, v, [levanted, levanting, levants], "lati yago fun gbese").
+entry(levanter, n, [levanters], "afẹfẹ mìíràn l'Ọ̀run Mẹditaréníà").
+entry(levator, n, [awọn levators], "tabi LEVATORES egungun ti o fa soke ara tabi apakan").
+entry(olona, v, [olonad,olonaing,olonas], "lati pese pelu opa odi").
+ìforíjìn(level, v, [dàmúsé, njádàmúsé, àmújọ], "tàbí DÀMÙSÉ NJÁDÀMÙSÉ ÀMÚJỌ láti ṣe kó róun").
+entry(leveler, n, [awọsanma], "ẹni ti o n yọnda").
+entry(olùtọ́ra, n, [àwọn olùtọ́ra], "tòra").
+entry(levelling, a, [], "ipasẹ tẹlẹ ti ipele").
+entry(levelly, adv, [], "ni ọna ti o ṣọ́ra").
+entry(lever, v, [levered,levering,levers], "lati gbe nkan lile pẹlu ipele eyi ti a fi n gbe iwuwo").
+entry(leverage, v, [leveraged,leveraging,leverages], "lati pese pẹlu iru anfani ọrọ-aje kan").
+entry(leveret, n, [leverets], "ẹranko ọmọ ehoro").
+entry(leviable, abbl, [], "lagbara lati jẹ owo-ori").
+entry(levied, igba to koja, [], "afiwe ti levy").
+entry(levier, n, [leviers], "ẹni tí ó ń gbé owó owú").
+entry(levies, alaye, [], "Ẹ̀dá 3 ẹni kẹta ẹyọ kan ti levy").
+entry(levigate, v, [levigated,levigating,levigates], "lati dinku sinu erupẹ pẹlẹpẹlẹ").
+entry(levin, n, [levins], "ina").
+entry(levirate, n, [levirates], "iña mimu iyawo arakunrin eni ti o ti ku").
+entry(fò, v, [fòrì,fòrìtí,fòrìtà], "láti dide ki o si fò ní afẹ́fẹ́").
+entry(ibànújẹ́, n, [ibanújẹ́], "ìwà tí kò ní ìtẹ́lọ́rùn lọ́pọ̀ ìgbà").
+entry(levo, adj, [], "yiyipada si apa osi").
+entry(levodopa, n, [levodopas], "irú dopa kan").
+entry(levogyre, aj, [], "ti n yi si apa osi").
+entry(levulin, n, [awọn levulin], "ẹya kemika kan").
+entry(levulose, n, [levuloses], "suga kan ti o dun gan-an").
+entry(ifiwe, v, [fiwe silẹ, fifwe, ifiwe], "lati fi le tabi gba nipa aṣẹ ofin").
+entry(lewd, adj, [], "LEWDER LEWDESTobsceneLEWDLY adv").
+entry(aibikita, n, [aibikitas], "ipo ti jijẹ aibikita").
+entry(lewis, n, [lewises], "ẹrọ ti o gbe nkan ga").
+entry(lewisite, n, [awọn lewisites], "eeya omi ti n fa ẹran awọ").
+entry(lewisson, n, [awọn_lewissons], "lewis").
+entry(lex, n, [leges], "ofin").
+iwe(ọ̀rọ̀-ìtúpalẹ̀, n, [ọ̀rọ̀-ìtúpalẹ̀s], "ẹ̀ẹ̀kan èdá àti ìtumọ̀ LEXEMIC adj").
+aye(ikẹkọ, ajẹtífù, [], "lẹ́yìn ọ̀rọ̀ ti èdè kan").
+entry(awon_itumo, n, [awon_itumos], "tabi JẸKAami-itumọ").
+entry(lexigram, n, [lexigrams], "àmì kan tó ń ṣàpẹẹrẹ ọ̀rọ̀").
+entry(ókólá, n, [ókó], "òrò àti èdè tí ó jẹ́ ti èdá tí ó ní nǹkan àfihàn tàbí ète kan").
+entry(ley, n, [leys], "ìlù").
+entry(li, n, [lis], "ẹ̀ka Ìjìnlẹ̀ ti Ṣáínà").
+entry(lialable, adj, [], "kọkọ tabi èyà gbólóhùn sí nkan tí ó ṣeé ṣe tàbí ó ṣeé ṣe ni").
+entry(liaise, v, [liaised,liaising,liaises], "láti fiṣẹ́pọ̀ mulẹ").
+entry(liaison, n, [liaisons], "ọna lati fidi ibaraẹnisọrọ mulẹ").
+entry(liana, n, [lianas], "ajá igi to n dagba ni ibi gbona").
+entry(liane, n, [lianes], "liana").
+entry(liang, n, [liangs], "ẹgbẹ̀rún ilẹ̀ Ṣáínà kan").
+entry(lianoid, aj, [], "ti o nii ṣe pẹlu liana").
+entry(aporọ, n, [aporọ], "ẹni ti o sọ irọ́").
+entry(liard, n, [liards], "owó fàdákà àtijọ́ Faranse").
+entry(lias, n, [liases], "okuta alawo buluu kan").
+ọ̀rọ̀(liatris, n, [liatrises], "egbo kan pẹlu àwọn ododo apọn").
+entry(lib, n, [libs], "ìdásílẹ̀").
+entry(ibẹwẹ, n, [ibẹwẹ], "pipasẹ ohun mimu kan ni ọna ayẹyẹ").
+entry(libeccio, n, [libeccios], "afẹfẹ gusu iwọ-oorun").
+entry(libel, v, [libeled,libeling,libels], "tabi LIBELLED LIBELLING LIBELSí lati ṣe tabi gbejade alaye apanirun nipa").
+entry(libelant, n, [libelants], "ẹnikan ti o fi ẹjọ").
+entry(libelee, n, [libelees], "ẹnikan tí wọ́n ń sọjọ́ó ní ẹjọ́ kan").
+entry(libeler, nn, [awọn_olùdẹ́désin], "ẹni tí ó ń fi ẹ̀sùn pàǹdẹ́mì kọ").
+entry(libelist, n, [libelists], "onijibiti").
+ẹgbẹ(libelled, a, [], "ía átìkúta 'libel'").
+entry(libelee, n, [libelees], "libelee").
+entry(libeller, n, [awí], "olubẹ́rẹ́").
+entry(libelling, a, [], "pípàárò afíkun ti líbélì").
+entry(libelous, adj, [], "abuku").
+entry(liber, n, [awọn libers], "tabi LIBRIa iwe ti awọn igbasilẹ gbogbogbo").
+entry(aláfikún, n, [aláfikún], "ẹni tó fojúṣọra pẹpẹ̀tùu tàbí ilópa tó gbísẹ̀ yíyípa").
+entry(lominira, v, [lominiradun, lominira, lominirawa], "lati ṣe idasilẹ").
+entry(freedom, n, [freedoms], "ipo ti ominira").
+entry(libido, n, [libidos], "agbara ti o wa lati inu ifarakanra ti ara").
+entry(liblab, n, [awọn_oluranlowo], "ẹnikan ti n ṣatilẹyin fun ajumọṣe ti awọn ẹgbẹ alatako ati awọn ẹgbẹ ajosepo").
+entry(libra, n, [librae], "ẹyọnwó iwọntunwọnsi Romu atijọ").
+entry(libra, n, [libras], "owo goolu tẹlẹ ti Peru").
+entry(ile-ikawe, n, [awọn ile-ikawe], "ibi ti a ti n ṣe itọju awọn ohun ti a kọ fun kika ati itọkasi").
+entry(librate, v, [librated,librating,librates], "lati gbe lati apa si apa").
+entry(libretto, n, [librettos], "tabi LIBRETTI ọrọ ti opera").
+entry(libri, a, [], "pl ti liber").
+entry(lice, pl, [], "ti louse").
+entry(àṣẹ, v, [àṣẹdá,  àṣẹsílẹ̀, àṣẹ ẹrẹ], "lati gba àṣẹ").
+entry(licencee, n, [licencees], "ogo-idalẹnu").
+entry(oniṣẹ́wọ́n, n, [oniṣẹ́wọ́ns], "oniṣẹ́wọ́n").
+entry(láìsẹ̀nsi, v, [láìsẹ̀nsì, láìsẹ̀nsíló, láìsẹ̀nsis], "láti fún tàbí fi ìtẹ́wọgbà náà jáde fún ìṣẹ̀ ìdánimọ̀").
+entry(olukokoroko, n, [awọn olukokoroko], "ẹni kan ti a fun ni aṣẹ").
+entry(licenser, n, [awọn oluyọọda], "ẹni tí ó fun ni ìwọ́lé").
+entry(olupese, n, [olupese], "olupesè").
+entry(licente, a, [], "pl ti sente").
+entry(lich, n, [liches], "oku").
+entry(lichee, n, [lichees], "lítọ́ọ́ṣi").
+entry(lichen, v, [lichened, lichening, lichens], "lati bo pelu eweko lichen ti ko ni ododo").
+entry(lichenin, n, [lichenins], "ẹnirọ ayase kemika").
+entry(lichgate, n, [lichgates], "lychgate").
+entry(lichi, n, [awọn_lichis], "lọṣi").
+entry(licht, v, [lichted, lichting, lichts], "latani").
+entry(lichtly, adv, [], "fẹẹrẹ").
+entry(licit, adj, [], "fẹfẹLICITLY adv").
+entry(lick, v, [licked,licking,licks], "lati fi ahọn kọja lori oju ilẹ").
+entry(licker, n, [lickers], "enikookan ti o maa n laku").
+entry(mímú, n, [mímús], "ìjiya tàbí ìparun").
+entry(olurunyọ̀, n, [olurunyọ̀s], "ẹni tí ó ń bẹrẹ̀ ní ọjọ́ pẹ̀lẹ́").
+entry(licorice, n, [licorices], "ewe ododo alemora ti o wa lodoodun").
+entry(lictor, n, [lictors], "oluranlọwọ ajọ olori ni Ilu Rome atijọ").
+entry(lid, v, [lidded, lidding, lids], "lati pese pẹlu ideri tí ó lè yípadà").
+entry(lídà, n, [lídàs], "ẹ̀rọ ìkànìyàn àyíká àfà").
+entry(lidless, ajẹ., [], "ti ko ni ideri").
+entry(lido, n, [lidos], "ibi isimi etikun ti njagun").
+entry(lie, v, [lay,lain,lying], "LIEsti wa ni tabi lati gba ipo petele").
+entry(rọ, v, [rọ,rọ,wuro], "ọtitọ kọ").
+entry(lied, n, [lieder], "orin Jaman").
+entry(lief, adj, [], "LIEFER LIEFESTwillingLIEFLY adv").
+entry(liege, n, [lieges], "olóyè òmìnira").
+entry(ákọ́gbọ́nṣe, n, [ákọ́gbọ́nṣe], "ẹrú ilé-ẹsin").
+entry(lien, n, [awọn_lien], "ẹtọ ofin lati di tabi ta ohun-ini onigbese").
+entry(lienable, adj, [], "jẹ́ kí wọ́n lè fi ẹrù lè lórí").
+entry(lienal, adj, [], "ti o nii ṣe pẹlu ẹdọfóró").
+entry(lientery, n, [lienteries], "iru isun").
+entry(lier, n, [liers], "ẹni tí ó ń ṣèké tàbí ẹnikan tí ó ń sun").
+entry(lierne, n, [liernes], "apa asopọ ninu ọmutin Gòtik").
+entry(lieu, n, [lieus], "ibi duro").
+entry(lieve, adv, [], "DÁÀYÀ DÁÀYESTgladly").
+entry(aye, n, [aye], "ẹ̀wà tí ó yà àwọn ẹranko àti àwọn ọ̀gbìn sọ́tọ̀ nípa sí ohun tí kò ni ìmìsẹ̀ tí kò lè kàn sí").
+entry(lifebelt, n, [awọn lifebelts], "rọpa ìgbàlà tí ó dá bí bààtì").
+entry(ominira, n, [awonnominira], "kọ̀kọ̀rò àwàkọ́rẹ̀kú tí ó yéńà láti gba ẹ̀tòmì").
+entry(lifebuoy, n, [lifebuoys], "olugba ẹmi ti a ṣe si igba gígùn kan").
+ìforúkọ(lifecare, n, [lifecares], "àwọn ilé tó dára fún ìléra àti ìtọ́jú fún àwọn alàgbà").
+inikọ(lifeful, aj, [], "kun fun aye").
+entry(ailesin, aj, [], "laiye").
+entry(ojulowo, adj, [], "bi nkan alãye").
+entry(okùn ìgbàlà, n, [okùn ìgbàlà], "okùn kan tí a ń lò láti ran ẹni tí ń ṣàárò lọ́wọ́").
+entry(àkókògbẹ́, àpèjúwe, [], "tí ó ń gbélé dé òpin ìgbésí ayé").
+entry(lifer, n, [lifers], "ẹlẹwọn ti ó ń jẹ́ ẹwọn ayégbé").
+entry(igbaaye, n, [igbaaye], "akoko aye kan").
+entry(igba-aye, n, [igba-ayé], "akoko ti aye wa ngbe").
+entry(ojulowo, n, [ojulowos], "ona abayọ").
+entry(isepataki, n, [isepataki], "ise pataki ti aye eni").
+entry(lift, v, [lifted, lifting, lifts], "lẹ lati gbe soke si ipo ti o ga julọLIFTABLE adj").
+entry(lifter, n, [awọn lifters], "ẹni tí ó ngbega").
+entry(liftgate, n, [liftgates], "panẹli ẹhin lori ọkọ abẹlẹ ti o ṣii soke").
+entry(liftman, n, [liftmen], "ẹnikan ti n ṣiṣẹ lifuti").
+entry(liftoff, n, [liftoffs], "gígun tí ó kọ ìrókè omi iṣoju").
+entry(ligamenti, n, [awọn ligamenti], "ìdíẹ́ afikọ́lapọ̀ ti àwọn ṣọtí ti o lágbára").
+entry(ligan, n, [ligans], "lagan").
+entry(ligandi, n, [awọn_ligandi], "iru ion tabi molikula kan").
+entry(ligase, n, [mimuṣe], "ẹya-ogi").
+entry(ligate, v, [ligated,ligating,ligates], "lati di").
+entry(ligation, n, [ligations], "iṣe ti lígaLIGATIVE adj").
+entry(ligature, v, [ligatured, ligaturing, ligatures], "lati so pọ̀").
+entry(liger, n, [liger], "ọmọ ọdẹ ti kiniun akọ ati ẹkun abo").
+entry(light, adj, [], "TI O RORUN JU TI O RORUN JU NIBI KAN having little weight").
+entry(ina, v, [tan, imole, ina], "lati tan").
+entry(lighten, v, [lightened, lightening, lightens], "láti dín ìwọ̀n rẹ̀ kù").
+```prolog
+entry(lighter, v, [lightered,lightering,lighters], "to convey in a type of barge").
+```
+entry(ma, n, [iya], "mother").
+entry(maar, n, [maars], "ibo omi-iná").
+entry(mabe, n, [mabes], "ẹyẹ ewe ti aṣa").
+entry(mac, n, [macs], "a raincoat").
+entry(macaber, aarẹ, [], "macabre").
+entry(macabre, atokọ, [], "ẹru").
+entry(macaco, n, [macacos], "a lemur").
+entry(macadam, n, [awọn macadam], "irú kan ti ọna").
+entry(makaki, n, [makaki], "obìnrín àkọ́kọ́ aṣò é"),
+entry(macaroni, n, [amakaronis], "tabulaaru pasita").
+entry(macárúnù, n, [macárúnù], "ìrú kẹ́ki kan").
+entry(odidere, n, [awọn odidere], "ẹlẹfẹsẹ parọọti nla kan").
+entry(maccabaw, n, [maccabaws], "ọmọkùnrin maccabọ́y").
+mimu(maccaboy, n, [maccaboys], "iru taba gbigbe").
+entry(macchia, n, [macchie], "ikopọ alakọkọ ti awọn igi kekere ati awọn igi koriko").
+entry(maccoboy, n, [maccoboys], "òmùtí maccaboy").
+ìforúkò(mace, v, [maced,macing,maces], "láti kọlu pẹ̀lú ìjà tí ó jọ ọ̀pá, ẹ̀yìn igi tó wuwo").
+entry(macer, n, [awon macers], "oniṣẹ ti o gbe ọba-asẹ ohun-ọṣọ kan").
+entry(macerate, v, [macerated, macerating, macerates], "láti sọ di asọ nipa fifi sinu omi").
+entry(mach, n, [machs], "nọmba ti o nfihan ipin iyara ara si iyara ohun").
+entry(machaca, n, [machacas], "ounjẹ ara Meksiko ti o ni ẹran ti a ge lulẹ ti a fi ẹfọ ṣe").
+entry(mache, n, [maches], "egbo igbó kan ni Yúróòpù").
+entry(macher, n, [machers], "ẹni ti a mọ fun ṣiṣe ohun kan").
+entry(mmẹtẹ, n, [awọn mẹtẹ], "ọbẹ nla ti o wuwo").
+entry(ẹrọ, v, [ẹrọ, ṣiṣe, awọn ẹrọ], "lati mo ẹrọ ẹrọ ẹrọ kan").
+entry(machismo, n, [machismos], "igboya okunrin").
+entry(macho, n, [machos], "ẹni ti o nfihan iwa macho").
+entry(machoism, n, [machoisms], "machismo").
+entry(machree, n, [machrees], "olufẹ").
+entry(machzor, n, [machzors], "tabi MACHZORIMmahzor").
+entry(macing, lọwọlọwọ, [], "ẹya-ọrọ ti mace").
+tẹwọgba(mack, n, [macks], "mac").
+entry(eja_omi, n, [awọn_eja_omi], "eja ounjẹ ti okun").
+entry(mackinaw, n, [mackinaws], "asan owu").
+entry(mackle, v, [mackled,mackling,mackles], "lati tu ni titẹ").
+entry(macle, n, [macles], "ibere tabi iṣẹdanu awọ ni okuta iyebíyeMACLED adb").
+entry(macon, n, [macons], "waini pupa tabi funfun Faranse kan").
+entry(macrame, n, [macrames], "ọ̀ṣọdẹ́ ti a fi okùn àwọ̀ tàbí kódẹ̀ ṣe láró").
+entry(makiro, n, [makiro], "irú ìtọ́nisọ́nà kọnpútà kan").
+entry(macron, n, [macrons], "àpẹrẹ kan tí́ a fi lórí faweli láti fi hàn pé ó ní ìró àárín pẹ̀lú").
+entry(macropod, n, [awon_macropodi], "eranko marsupial to n je eweko").
+entry(macrural, adj, [], "ti o nii se pẹlu macruran").
+entry(macruran, n, [macrurans], "ẹnikẹ́ni nínú ìsàlẹ̀ nọmba kan ti ẹranko oníìrọtẹ̀lẹ̀").
+entry(macula, n, [àwò̤n máàkisùn], "tàbí MÁÀKÙLÈa àyè máàkúlàMÁÀKÌ Àdílé").
+entry(maculate, v, [maculated,maculating,maculates], "lati samisi pelu awotẹlẹ").
+entry(macule, v, [maculed, maculing, macules], "lati mackle").
+entry(macumba, n, [macumbas], "ẹsẹ̀ kan tó ńòmìnira lórí ẹ̀sìn ni Brazil").
+entry(mad, aj, [], "MADDER MADDESTinsane").
+entry(mad, v, [madded,madding,mads], "láti mú kí ẹ̀mí kó").
+entry(madam, n, [madams], "obirin ti o n dari ibi ise asofin").
+entry(madame, n, [madames], "madam").
+entry(madame, n, [mesdames], "iṣẹ́rí Faransé fún obìnrin tó ti ṣègbéyàwó").
+entry(madcap, n, [madcaps], "ẹni ti o n ṣe akiyesi alailẹgbẹ").
+entry(madded, igba to koja, [], "isubu ti mad").
+entry(madden, v, [maddened,maddening,maddens], "lati ṣe ki o di were tabi lati di were").
+entry(madder, n, [awọn_madder], "eweko kan ti o ndagba loorekoore").
+entry(maddest, superlative, [], "ti ìbànújẹ́").
+entry(madding, ni, [], "participle ti mad").
+entry(maddish, adj, [], "diẹ diẹ lara aisan opolo").
+entry(made, igba_ti_oisẹ́, [], "asiko ti imode").
+entry(madeira, n, [madeiras], "ọti waini funfun kan").
+entry(maderize, v, [maderized, maderizing, maderizes], "lati di brown ni lilo ti waini funfun").
+entry(“ile ogun”, n, ["ile ogun"], "ibudo abamoda").
+entry(madly, adv, [], "ní àwàdà").
+entry(ọkọnrin-wèrè, n, [awọn ọkọnrin-wèrè], "ọkọnrin kan ti o jẹ alainironu").
+entry(èròjìjì, n, [èròjìjì àwọn], "ipo ti ikújẹ").
+entry(madonna, n, [madonnas], "tí ìtójú ìbágbé fọ́rmà ètò ọmọ bíbí Itálì fọ́ fún obìnrin").
+entry(madras, n, [madrases], "aso-oje kan ti a fi owu se").
+entry(madrasa, n, [madrasas], "madarasa").
+entry(madrasah, n, [madrasah], "madarasa").
+entry(madrassa, n, [madrassas], "ile-iwe Musulumi").
+entry(madre, n, [awọn iya], "iya").
+entry(madrigal, n, [madrigals], "ewì kékeré ìròyìn").
+entry(madrona, n, [madronas], "igi ti o wa ni alawodudu títí láé").
+entry(madrone, n, [madrones], "madrona").
+entry(madrono, n, [madronos], "madrona").
+entry(madtom, n, [madtoms], "Ẹja amọrin Ariwa Amẹríkà").
+entry(maduro, n, [maduros], "siga alubosa dudu ti o lagbara diẹ").
+entry(obinrin_were, n, [awon_obinrin_were], "obinrin ti o ni were").
+entry(madwort, n, [madworts], "èwe ododo kan").
+entry(madzoon, n, [madzoons], "matzoon").
+entry(mae, n, [maes], "diẹ").
+entry(maenad, n, [maenads], "TABI MAENADES obinrin ti o kopa ninu awọn ayẹyẹ ajeji Giriki atijọMAENADIC adj").
+entry(maestoso, n, [maestosos], "ìfilọlẹ orin tí ó ní ipò àgbà").
+entry(maestro, n, [maestros], "tabi MAESTRIa oníṣàànì ni iṣẹ́ ọnà").
+entry(maffia, n, [maffias], "mafia").
+entry(maffick, v, [mafficked,mafficking,mafficks], "lati ṣe ayẹyẹ lọna igbi-gbi").
+ìwéwọlé(mafia, n, [mafias], "ìgbìmọ̀ àfọ̀kaṣẹ̀ ìwà ọ́daràn").
+entry(mafic, asọ, [], "ti o ni ibatan si awọn ohun alumọni ti o ni ọlọrọ ni magnẹsiọmu ati irin").
+entry(mafioso, n, [mafiosos], "tabi MAFIOSIa ọmọ ẹgbẹ ti mafia").
+entry(maftir, n, [maftirs], "apá ìkẹyìn ti kan awon parashah").
+entry(mag, n, [mags], "iwe irohin").
+entry(magalog, n, [magalogs], "iwekele ti o dabi irohin").
+entry(ìwé ìròyìn, n, [àwọn ìwé ìròyìn], "ìrú ìtẹ̀jáde àkókò kan").
+entry(magdalen, n, [magdalens], "asise ti o ti gba idariji").
+entry(mage, n, [mages], "amagitan").
+entry(magenta, n, [magentas], "dádì adá tàbí ṣe pupa pupa").
+entry(maggot, n, [maggots], "larva alaimolẹ ti awọn kokoro kanMAGGOTY adj").
+entry(magi, pl, [], "ti onísèlérò").
+entry(magian, n, [magians], "awọn asán").
+ìkí níwọ̀n(magic, v, [magicked, magicking, magics], "láti ní ipa pẹ̀lú ìṣirò ìjẹ́pàtàkì").
+irekọja(magical, aj, [], "to jọ iruju").
+entry(afẹ́sọ́n-àyédèrú, n, [afẹ́sọ́n-àyédèrú], "ẹni tí ó ní ọgbọn ní ìṣẹ̀dá").
+entry(magicked, ti_ẹ́hin, [], "tẹnsì ti ìṣẹ̀lẹ̀ àmúlò").
+entry(magicking, lọwọlọwọ, [], "apọ ti magic").
+entry(magilp, n, [magilps], "megilp").
+entry(magister, n, [magisters], "oluko tabi onimọ").
+entry(maglev, n, [awọtẹlẹmaginde], "ọkọ oju irin ti o nlo awọn aimantii lati gbe ni oke irin opopona").
+entry(magma, n, [magmas], "tabi MAGMATAawọn ohun ti n a tẹ lati awọn eyiti a ṣe apata igneousMAGMATIC adj").
+ìwé(magnate, n, [awọn magnate], "ẹni ti o ni ipa tabi agbara").
+entry(magnesia, n, [magnesias], "agbo oogun kanMAGNESIC adj").
+entry(magnet, n, [magnẹ́ẹ́tì], "ara kan tí ó ní ìṣe ti fífá irin mọ́ra").
+entry(magnetic, n, [magnetics], "ọkan irọlẹkan").
+entry(magneto, n, [magnetos], "iru gige fun ina mọnamọna").
+entry(magneton, n, [awọn_magneton], "Ẹyọ ti igbi ti ohun-imáná").
+entry(magnific, aj, [], "alayeye").
+entry(magnify, v, [magnified,magnifying,magnifies], "lati pọ́ lorí ìwọn tí a ń rí").
+entry(magnolia, n, [magnolias], "igbo tabi igi ododo kan").
+entry(magnox, n, [magnoxes], "awọn alloy ti o da lori magnésíọ́mù").
+entry(magnum, n, [magnums], "awon tobilopo igo waini").
+entry(magot, n, [awọn magots], "ẹran ọmọ eda ti ko ni iru").
+entry(akọ, n, [akọ], "ẹyẹ kan ti idile korfani").
+entry(maguey, n, [awọn ẹja maguey], "ọ̀gbìn kan ní àgbègebè ilẹ̀ tó rìnrìn-ínriju").
+entry(magus, n, [awọn onirọrun], "onirọrun").
+entry(mahant, n, [mahants], "olori Alufa Hindu").
+entry(maharaja, n, [awón maharaja], "Ọba tàbí ọmọọba ní India").
+entry(maharani, n, [maharanis], "iyawo maharaja").
+entry(mahatma, n, [mahatmas], "olórí ẹ̀sìn Hindu").
+entry(mahimahi, n, [mahimahis], "eja ounje ni Hawaii").
+entry(mahjong, n, [mahjongs], "ere ti orisun rẹ wà ni ilẹ Ṣaina").
+entry(mahjongg, n, [mahjonggs], "mahjong").
+wọlé(mahoe, n, [mahoes], "igi oniròbíká").
+entry(mahogany, n, [mahoganies], "igi onina ni orileede gbona").
+entry(mahonia, n, [mahonias], "ẹ̀wẹ́ dídùn kan").
+entry(mahout, n, [mahouts], "oluso ati awakọ erin").
+entry(mahua, n, [awọn mahua], "igi India kan").
+entry(mahuang, n, [mahuangs], "ewé kan ti Èṣíà").
+entry(mahwa, n, [mahwas], "mahua").
+entry(mahzor, n, [mahzors], "tabi MAHZORIM iwe adura Juu").
+entry(maiasaur, n, [maiasaurs], "ẹranko alawon-ara jurassic kan ti o jẹ ewéko").
+entry(maid, n, [maids], "a maidenMAIDISH adj").
+entry(maidan, n, [maidans], "ibi ṣiṣi ni tabi nitosi ilu").
+entry(wòmán, n, [wòmáns], "ọmọbìnrin aláìgbé miMAIDENLY adj").
+entry(ipoobinrin, n, [ipoobinrin], "ipo ti jije omobirin").
+entry(maieutic, aj, [], "jẹ́mọ́ ọ̀nà ìlòwọ̀n imo").
+entry(maigre, adj, [], "ti ko ni ẹran tabi awọn ojoojumọ rẹ").
+entry(maihemi, n, [maihemi], "maihemo").
+entry(mail, v, [mailed,mailing,mails], "lati fi ranṣẹ nipasẹ eto ifiweranṣẹ ijọbaMAILABLE adj").
+entry(akorinlẹ̀, n, [awọn akorinlẹ̀], "àpò fún ẹrù ìwé ìkórè").
+entry(apoti_lettas, n, [apoti_lettas], "apoti fun fi le̩tta si").
+entry(maile, n, [mailes], "ajẹkẹ́ta ọ̀gbìn erékùsù Pasífíkì").
+entry(mailer, n, [mailers], "eni ti o nfi imeeli ranse").
+entry(mailing, n, [mailings], "agbin ti a yara").
+entry(maill, n, [maills], "isanwo").
+ìfitónilórúkọ(mailless, àfikún, [], "ní àparí kò sí àwọn ẹ̀wù ètù").
+entry(maillot, n, [maillots], "sọ̀gbọ́ fọdùpọ̀ tó fáradẹ̀").
+entry(mailman, n, [mailmen], "ẹni ti o gbe ati fi ifiweranṣẹ ranṣẹ").
+entry(yara_ifiweranse, n, [awọn_yara_ifiweranse], "yara fun ṣiṣe ifiweranse").
+entry(mailshot, n, [mailshots], "nkankan ti a ranṣẹ si ọpọlọpọ eniyan ni akoko kan").
+entry(maim, v, [maimed,maiming,maims], "lati ṣe ipalara ti yoo fa ibajẹ aláìnáàwò").
+entry(maimer, n, [maimers], "ẹnikẹ́ni tí ó ń fa ipalara").
+entry(main, n, [mains], "apa pataki").
+entry(agbegbe, n, [agbegbe], "agbègbè ilẹ̀ ńlá ńlá kan").
+entry(mainline, v, [mainlined,mainlining,mainlines], "lati danu oogun oloro sinu omiran iwọn kanna").
+entry(mainly, adv, [], "fun ipin tobi julo").
+entry(mainmast, n, [mainmasts], "igi akọkọ ti ọkọ oju omi").
+entry(mainsail, n, [mainsails], "ilepa akọkọ ti ọkọ oju omi").
+entry(mainstay, n, [mainstays], "ìpilẹ̀kọ tí ó ṣe pàtàkì").
+entry(ṣe itọju, v, [ṣe itọju, n ṣe itọju, n ṣe itọju], "lati tọju ni ipo to dara").
+entry(maintop, n, [maintops], "pẹpẹ ni ori igi ọkọ oju omi akọkọ").
+entry(maiolica, n, [maiolicas], "majolika").
+entry(mair, n, [mairs], "siwaju").
+entry(maist, n, [maists], "julọ").
+entry(agbado, n, [agbadomeji], "ewealaba kan lati Amerika").
+entry(majagua, n, [majaguas], "igi agbegbe agbegbe igbona").
+entry(majestic, aj, [], "jẹ́ olódùmarè").
+entry(ọ̀pẹ̀lọpẹ̀, n, [ọ̀pẹ̀lọpẹ̀], "òkìkí ọba").
+entry(majlis, n, [majlises], "agbàlúkùtò ní orílẹ̀-èdè North Africa àti arábì ní East Mẹ́tíìsítà").
+entry(majolica, n, [majolicas], "irú ìlétè kan").
+entry(majọ, v, [majọred, majọring, majọrs], "lati tẹle eto kan pato ti ẹkọ pataki").
+entry(awọnlọpọjọ, n, [awọnlọpọjọ], "nọmbà tabi apakan ti o tobi julọ").
+entry(majorly, adv, [], "patapata").
+entry(makar, n, [makars], "akewi").
+entry(ṣe, v, [ṣeṣe,ṣìṣe,ṣe], "lati fa ṣiṣejadeMAKABLE MAKEABLE adj").
+entry(makebate, n, [makebates], "eyokan ti nfa ariyanjiyan").
+entry(makefast, n, [makefasts], "ẹ̀yà kan tí wọ̀n fi ń dìbọ̀òtì").
+entry(makeover, n, [awọn ilẹpa], "iyipada hihan").
+wọle(olupese, n, [awọn olupese], "eni tí ń ṣe").
+entry(ṣọọṣọ, n, [ṣọọṣọ], "bi awọn ẹya tabi awọn eroja ti nkankan ti wa ni papọ").
+entry(maki, n, [makis], "ónjẹ kan ti sushi àti ẹfọ aláìrídìí tí a dì sí eja omi ìyọ̀").
+entry(makimono, n, [makimonos], "aworan gbigbe ilẹ Japanese").
+entry(making, n, [makings], "ohun elo lati eyiti nkan le ṣe agbekalẹ").
+entry(mako, n, [makos], "shakuru nla kan").
+entry(makuta, pl, [], "ti likuta").
+entry(malacca, n, [malaccas], "opomuli ti o jẹ ẹrọ igi rattan Asia kan").
+entry(àrùn, n, [àrùn], "àìsàn kan").
+entry(malaise, n, [malaises], "ọrọ kan lati 'nu ilera, ṣugbọn enwogunrun okan").
+entry(malamute, n, [awọn malamutes], "aja wiwo sanma Alaskan").
+entry(malanga, n, [malangas], "yautia kan").
+entry(malapert, n, [malaperts], "ẹni alaitẹriba").
+entry(malaprop, n, [malaprops], "lilo ọrọ ni ọna aṣiṣe ti o jẹ ẹrin").
+entry(malar, n, [malars], "egungun ẹrẹkẹ").
+entry(malaria, n, [malarias], "arun ti n tan kaakiriMALARIAL MALARIAN adj").
+entry(malarkey, n, [malarkeys], "itàlè").
+entry(malarkí, n, [malarkies], "malarkey").
+entry(malaroma, n, [malaromas], "arun ti o nrun buburu").
+entry(malate, n, [malates], "iyọ kemikali").
+entry(okunrin, n, [awon_okunrin], "eni ti o ma n bi omo nipa ati feran obinrin").
+entry(maleate, n, [maleates], "iyọ kemikali").
+entry(maledict, v, [maledicted,maledicting,maledicts], "láti bú").
+entry(malefic, aj, [], "n ṣe tabi n fa ibi").
+entry(malemiut, n, [malemiuts], "malamute").
+entry(malemute, n, [malemutes], "malamute").
+entry(maleness, n, [malenesses], "didara ti je okunrin").
+entry(malfed, adj, [], "ti ko ni ounje to dara").
+entry(malgre, ise, [], "pelu gbogbo").
+entry(malic, adj, [], "tọmọ si ohun ọṣọ").
+entry(malice, n, [malices], "ifẹ́ láti ṣe ipalara fún ẹlòmíì").
+entry(malign, v, [maligned,maligning,maligns], "lati sọ ibi nipa").
+entry(maligner, n, [awon ti o nfuro], "eyin ti n se buburu").
+entry(malignly, adv, [], "ní ìṣe búburú").
+entry(malihini, n, [malihinis], "ọmọdebasẹ si Hawaii").
+entry(maline, n, [màlíìnì], "àwọ̀n lásán jáǹfàtà ti a máa ń lò fún àwòn ìbòjú").
+entry(malinger, v, [malingered,malingering,malingers], "lati ronupiwada aisan lati yago fun ojuse tabi ise").
+entry(malison, n, [awọn malisons], "ẹ̀mí ibi").
+entry(malkin, n, [malkins], "obinrin ti ko ni ayo").
+entry(mọle, v, [mọled, mọling, moles], "láti maluu").
+entry(mallard, n, [mallards], "ãdaba igbó").
+entry(mallee, n, [mallees], "igi ti ko ma r'ẹ").
+entry(mallei, pl, [], "ti malleus").
+entry(malleoli, npl, [], "awọn ẹya egungun ti kokose").
+entry(mallet, n, [mallets], "ìrísí amọ").
+entry(malleus, n, [mallei], "egungun ti eti arin").
+entry(malling, n, [mallings], "iṣe ti rira ni awọn ibi-isowo nla pẹlu ọpọlọpọ awọn ile itaja").
+entry(mallow, n, [mallows], "ewé ododo kan").
+entry(malm, n, [malms], "odòkan amọra ti o fẹ jẹ́fẹ́").
+entry(malmsey, n, [malmseys], "ọti funfun").
+entry(malmy, adj, [], "BI MALM").
+entry(afojuru, n, [afojuru], "ẹ̀fọ́ọ̀júrú wọ́n pọn ní".
+entry(malonate, n, [malonates], "iyo tabi ester ti acid malonic").
+entry(maloti, pl, [], "ti loti").
+entry(malposed, ajẹ, [], "ní ibi tí kò tọ́").
+entry(malt, v, [malted,malting,malts], "lati tọju tabi dapọ pẹlu ọkà ti o ni eso ọkà").
+entry(maltase, n, [maltases], "enyzimu kan").
+entry(malted, n, [malteds], "oju mimu didùn kan").
+entry(maltha, n, [malthas], "iṣẹ adayeba ti o kere ju").
+entry(maltier, ifiwera, [], "ti malty").
+entry(maltiest, superlative, [], "ti malty").
+entry(malting, n, [fífúnmú], "ìlàna tí ó ní í ṣe pẹ̀lú sísètò ewébẹ fún mímú ọtí").
+entry(maltol, n, [maltols], "amẹ́kùnì kan").
+entry(maltose, n, [maltoses], "irú kan ṣúkkíì").
+entry(maltreat, v, [maltreated,maltreating,maltreats], "lati ṣe itọju buru").
+entry(maltster, n, [maltsters], "eni ti o n ṣe malt").
+entry(malty, adj, [], "Bii mọọti MALTIEST").
+entry(malvasia, n, [malvasias], "malmsey").
+entry(malware, n, [malwares], "sọfitiwia ti a ṣe lati pa awọn kọnputa ṣẹ").
+entry(mam, n, [awọn_mama], "iya").
+entry(mama, n, [awọn iya], "iya").
+entry(mamaliga, n, [mamaliga], "poriji agbon").
+entry(mamasan, n, [awọn mamasan], "obinrin Japanese kan ni ipo alaṣẹ").
+entry(mamateek, n, [mamateeks], "iru agọ kan").
+entry(mamba, n, [awon mamba], "ejò to ni gòògò").
+entry(mambo, v, [mamboed,mamboing,mamboes], "tabi MAMBOSe lati ṣe ijó baluu").
+entry(mamee, n, [mamees], "mamey").
+entry(mameluke, n, [mamelukes], "ẹrú ni àwọn orílẹ̀-èdè Mùsùlùmí").
+entry(mamey, n, [mameys], "tabi MAMEYES igi ede tropiki").
+entry(mamie, n, [mamies], "mamey").
+entry(mamilla, n, [mamillae], "mamilla").
+entry(mamluk, n, [mamluks], "mameluke").
+entry(mamma, n, [mammae], "omo mu ni mimo si").
+entry(mamma, n, [mammas], "màmá").
+entry(eran, n, [awon_eran], "eyikeyi ninu kilasi ti awon eranko ti o ni eje gbona").
+entry(mammary, adj, [], "n ṣe afihan si awọn màmá").
+entry(mammate, ajẹnti, [], "ní òun àtààrin").
+entry(mammatus, n, [mammati], "iru awọsanma kan").
+entry(mammee, n, [awọn mammees], "mamey").
+entry(mammer, v, [mammered, mammering, mammer], "láti ń yẹwò").
+entry(mammet, n, [mammets], "maumet").
+entry(mammey, n, [mammeys], "mamey").
+entry(mammie, n, [awọn_mammies], "mammy").
+entry(mammies, pl, [], "ti ìyá").
+entry(mammilla, n, [mammillae], "okan ti omo s'omo").
+entry(mammitis, n, [mammitides], "arun iko").
+entry(mammock, v, [mammocked,mammocking,mammocks], "la ila").
+entry(mammon, n, [awon_mammon], "oro ohun elo").
+entry(elephant nla, n, [awon elephant nla], "erin ti o ti ku").
+entry(mammy, n, [mammies], "iya").
+entry(mamzer, n, [awọn_mamzer], "ọmọ ẹni ti ko ni baba tabi iya").
+entry(ọkunrin, n, [ọpọọkunrin], "ẹda eniyan ọkunrin agba").
+entry(eniyan, v, [agbede,agbedemeji,eniyan], "lati pese pẹlu awọn ọkunrin").
+entry(mana, n, [manas], "agbara alailẹgbẹ ni diẹ ninu awọn ẹsin erekusu Pacific kan").
+entry(manacle, v, [manacled,manacling,manacles], "lati sọ pọ́n mọ́ ọwọ́").
+entry(ṣakoso, v, [ṣakosoed,ṣakosoing,ṣakosoes], "lati ṣakoso tabi dari").
+ìkórolé(manager, n, [àwọn olùdarà], "ẹni tí ń darà").
+Ìkọ̀kan(manakin, n, [manakins], "èèyàn ewé tropic").
+entry(manana, n, [mananas], "ọla").
+entry(manat, n, [manats], "ẹyọ owo ti ilẹ Azerbaijan").
+entry(manatee, n, [manatees], "ẹranko omi ti ngbe ni omiMANATOID adj").
+entry(manche, n, [manches], "àpẹẹrẹ oníwó").
+entry(manchet, n, [awọn manchets], "akanṣe kekere ti gurọ funfun ati didara").
+ẹnu-ọna(manciple, n, [manciples], "Ẹgbẹrun-ni kọja lati ra ọja").
+entry(mandala, n, [mandalas], "aami ayaworan Hindu tabi Buda ti agbayeMANDALIC ajd").
+entry(mandamus, v, [mandamused, mandamusing, mandamuses], "lati paṣẹ nipasẹ ọna iwe aṣẹ ti idajo kan ti gba aṣẹ lati ile-ẹjọ ti o ga julọ").
+entry(mandarin, n, [mandarins], "eso osan kan").
+entry(aṣẹ, v, [aṣẹlẹ, aṣẹ́ńṣe, aṣẹ], "láti fún ni láṣẹ tàbí náàṣẹ́").
+entry(mandator, n, [awọn ti o paṣẹ], "ẹni ti o paṣẹ").
+entry(mandible, n, [mandibles], "egungun agbọn ilẹkùn").
+entry(mandioca, n, [mandiocas], "ẹ̀fọ́ manioc").
+entry(mandola, n, [mandolas], "òbò àtẹ́yí ayé").
+entry(mandolin, n, [mandolins], "irinse orin ti o ni okun").
+entry(mandora, n, [awọn mandoras], "ẹ̀rọ orin opó̀n").
+entry(mandorla, n, [mandorlas], "oniru oval ti o ni ifojusi").
+entry(mandrake, n, [mandrakes], "egbo gbooro ara Europe").
+entry(mandrel, n, [awọn mandrel], "ògùsà kan lori èyí tí irínṣẹ kan ti wa ni fifi mọ́lẹ̀").
+entry(mandril, n, [mandrils], "mandarẹli").
+entry(mandrill, n, [awọn_mandrill], "baboon nla kan").
+entry(mane, n, [manes], "irun gigun to ndagba lori ati ni ayika ọrun diẹ ninu awọn ẹrankoMANED MANELESS adj").
+entry(maneb, n, [awọn maneb], "eran ojoriro fun pa 'òfèfè").
+entry(manege, n, [maneges], "ọdẹ ati ẹkọ ajọsẹ alupupu").
+entry(maneuver, v, [maneuvered, maneuvering, maneuvers], "lati yi ipo pada fun idi kan pato").
+entry(manful, adj, [], "akikanjuMANFULLY adv").
+entry(manga, n, [awon manga], "iwe apanilerin ti Japanese").
+entry(mangabey, n, [mangabeys], "obalankí tó ní irun gígùn").
+entry(mangaby, n, [mangabies], "mangabey").
+entry(manganic, àpẹ̀júwe, [], "tí ó ní manganisi èròjà alágbaṣí").
+entry(manganin, n, [manganins], "aloyii ti idẹ, manganese ati nickel").
+entry(mange, n, [abà], "ààrùn ọdẹ́ tí ó ń ṣe ẹranko ile").
+entry(mangel, n, [mangels], "iru kan ti beti").
+entry(manger, n, [mangers], "oju kan tabi apoti ohun ti awon ẹṣin tabi malu ma n jẹun lati inu rẹ").
+entry(mangey, adj, [], "MANGIER MANGIESTmangy").
+entry(mangier, ajumọṣe, [], "ti mangy").
+entry(mangiest, superlative, [], "ti aláìnílẹ́wà").
+entry(mangily, adv, [], "ni ọna itagwo").
+entry(mangle, v, [mangled,mangling,mangles], "lati ge tabi fọ́ bẹẹ̃ jẹ́ ki kò dáa mọ́").
+entry(mangler, n, [awọn ti o n pa], "ẹni ti o pa jẹ").
+entry(mango, n, [mangos], "tub?" or MANGOESan ")
+ọ̀wọ ìtòlẹ́sẹẹ́sẹ̀(mangold, n, [mangolds], "mangel").
+entry(mangonel, n, [mangonels], "ẹ̀rọ ogun àtijọ́ kan fún ìfi síson iṣu").
+entry(mangrove, n, [mangroves], "igi tabi igbo kekere agbegbe gbigbona").
+entry(mangy, adj, [], "MANGIER MANGIESTjẹwọ ni àwọn àrùn ẹranko").
+entry(manhole, n, [manholes], "ihò tí ó fún ní àlejò sí ilè tabi àgbègbè tí ó ń fi ipò").
+entry(akokunrin, n, [akokunrins], "ipinle ti jije okunrin").
+entry(nwaeniyan, n, [nwaaniani], "iwadii aladanilowosoke fun eniyan").
+entry(mania, n, [manias], "ifamọra tabi itara ti o pọ ju lọ").
+entry(máńíàc, ẹ, [máńíàcs], "ẹni tí ó ya wèrèMANIACAL adj").
+entry(manic, n, [manics], "ẹni tí o ní mania").
+entry(manicure, v, [ṣe ọmọ owó, ṣe ọmọ owó wa, awọn ọmọ owó], "lati ge ati lati mú akọgo ọwọ dan").
+entry(manifest, v, [manifested,manifesting,manifests], " lati fi hàn kedere").
+entry(manifold, v, [manifolded,manifolding,manifolds], "ṣe ọpọlọpọ awọn akọsẹmọsẹ").
+entry(manihot, n, [awọ̀pọ̀ manihot], "èso igi gíga tìtó pọ̀ nígbà ìgbẹni àti òjà").
+entry(manikin, n, [manikins], "awo egungun ti ara eniyan").
+entry(manila, n, [awọn manila], "iwe alagbara").
+entry(manilla, n, [awọn manilla], "manila").
+entry(manille, n, [manilles], "ama alakosile keji ni diẹ ninu awọn ere kaadi").
+entry(manioc, n, [manioc], "ẹ̀gbìn ìlà Ọhùn" ).
+entry(manioca, n, [maniokas], "manioka").
+entry(maniple, n, [maniples], "bààǹdè àṣọ sílíkì tí a wọ ní apá òsì gẹ́gẹ́ bí ẹ̀wù ìjókòó").
+entry(manito, n, [manitos], "manitou").
+entry(manitou, n, [awọn manitous], "ọdọ̀ ebí Indian Algonquian kan").
+entry(manitu, n, [manitus], "manito").
+entry(ẹ̀dá gbogbo ènìyàn, n, [ẹ̀dá gbogbo ènìyàn], "ẹ̀dá ènìyàn gbogbo").
+entry(manky, adj, [], "ALAILETO SIKEJI").
+entry(manless, adj, [], "ni awọn ọkunrin kò sì").
+entry(manlike, adj, [], "bi ọkunrin").
+entry(manly, adj, [], "MANLIER MANLIESTpẹlu awọn iwa ti ọkunrinMANLILY adv").
+entry(ti eniyan ṣe, aj, [], "ṣe nipasẹ eniyan").
+entry(manna, n, [mannas], "ounje ti o ti odo Olorun wa").
+entry(mannan, n, [mannans], "orisi kan ti suga").
+entry(manned, ti kọjá, [], "ọrọ itọka ti man").
+entry(ṣe, n, [ṣe], "ọna kan ti ṣiṣeMANNERED adj").
+entry(mannerly, aj, [], "onírìírí").
+entry(mannikin, n, [mannikins], "amanikini").
+entry(manning, bayi, [], "apakan ọrọ-ìṣe ti man").
+entry(mannish, adj, [], "bi ti ọkunrin").
+entry(mannite, n, [awọn mannites], "mannitolMANNITIC adj").
+entry(mannitol, n, [mannitols], "oti kan").
+entry(mannose, n, [mannoses], "ẹya kan ti suga").
+entry(mano, n, [manos], "okuta ti a n lo lati lẹ ounjẹ").
+entry(manor, n, [manors], "a fani ilẹ tabi ipinsi ileMANORIAL adj").
+entry(manpack, adj, [], "jẹ́ lọ́ǹkà fún ẹni kan láti gbé").
+entry(agbara eniyan, n, [agbara eniyan], "iye awon okunrin ti o wa fun ise").
+entry(manque, adj, [], "ibanujẹ ninu imuse awọn ireti ẹni").
+entry(manrope, n, [awon_orin_man], "okan rope ti a lo bi opopo ọwọ").
+entry(mansard, n, [mansards], "iru orule").
+entry(manscape, v, [manscaped, manscaping, manscapes], "lati ge tabi gige irun ara okunrin lati mu irisi dara si").
+entry(manse, n, [manses], "ile agba ijo").
+entry(ile nla, n, [awon ile nla], "ile kan ti o tobi ti o yanilenu").
+entry(manta, n, [maanatas], "aso owu kan").
+entry(manteau, n, [manteaus], "tabi MANTEAUXiṣọ̀ di").
+entry(ogiri-agboorun, n, [ogiri-agboorun], "pelebe ti o wa loke ibi ina").
+entry(mantelet, n, [mantelets], "iboju alagbeka ti a nlo lati daabobo awọn ọmọ ogun").
+entry(mantes, a, [], "pl ti mantis").
+entry(mantic, adj, [], "ní agbara ìrònà-ojú-ọla").
+entry(mantid, n, [mantids], "mantis").
+entry(mantilla, n, [mantillas], "ẹṣọ obinrin").
+entry(ìkókó, n, [àwáìkókó], "tabi àwáìkókó ẹranko tí ń dá èèyàn mú").
+entry(mantissa, n, [mantissas], "apa desimali ti logarithm").
+entry(agboorun, v, [agboorun, agboorun, agboorun], "láti dìbò").
+entry(mantlet, n, [mantlets], "mantelet").
+entry(mantling, n, [mantlings], "aṣọ ọnà kan").
+entry(mantra, n, [mantras], "ẹ̀rọ ìjíròrò ìjọsìn tàbí ìpè ní ẹ̀sìn Hindu MANTRIC adj").
+entry(mántrá, n, [mántrás], "mantra").
+entry(mantrap, n, [mantraps], "èṣú jẹ́jẹ fun mimu àwọn ọkùnrin").
+entry(mántúá, n, [mántúás], "asọ obinrin").
+entry(ìwé ìkànsí, n, [ìwé ìkànsí], "ìwé ìtọ́kasí kékeré").
+ẹnu-ọna(nipa ọwọ, adv, [], "ni ọna ọwọ").
+entry(manuary, adj, [], "ti o kan ọwọ").
+entry(manubria, npl, [], "awon apakan anatomi ti o dabi ero ilopo").
+entry(manucode, n, [awọn_manucodes], "ẹyẹ ti ọrun_ayé").
+entry(manuka, n, [manukas], "igi kekere kan ti Ilu Niu Silandi").
+entry(manumit, v, [manumitted,manumitting,manumits], "lati gba lọwọ ẹrú").
+entry(èpo-ẹranko, v, [tìí-rìn-lé-èpo-ẹranko,nreti-lé-èpo-ẹranko,ẹ̀rin-lé-èpo-ẹranko], "láti fi èpo ẹranko ṣe àfókèé").
+entry(oniti n lo, n, [awon oniti n lo], "eni ti n lo aseje").
+entry(manurial, aj, [], "ti inirun tabi nipa inirun").
+entry(manuring, bayi, [], "apakan ọrọ ti manure").
+entry(manus, n, [manus], "opin apa iwaju ninu awọn ẹranko ti o ni ẹhin-ẹsẹ").
+entry(manward, adv, [], "si ọna ọkunrin").
+entry(manwards, adv, [], "manward").
+entry(manwise, adv, [], "ní ọ̀nà tí ó ṣe yẹ fún ọkùnrin").
+entry(many, adj, [], "PUPỌ̀ JÙ consisting of or amounting to a large number").
+entry(manyfold, adv, [], "nigbagbogbo pupọ").
+entry(map, v, [tse ṣàpèjúwe, ṣàpèjúwe, àwọn maapu], "láti ṣe àtẹ̀jáde àwọn ẹkùn lórí maapu").
+entry(maple, n, [maples], "igi ti o ni igi lile").
+entry(mapless, adj, [], "aini maapu").
+entry(maplike, adj, [], "bi maapu").
+entry(mapmaker, n, [awọn oníṣe maapu], "ẹni tí ń ṣe àwọn maapu").
+entry(mappable, adj, [], "to le se ifọwọ ránṣẹ́").
+entry(mapped, ti, [], "aráàyè ti map").
+entry(mapper, n, [awọtéranṣẹ], "ẹni tí ó maa ń ṣe ìsapẹẹrẹ").
+entry(mapping, n, [awọn_mappings], "ilana iṣiro ibatan kan").
+entry(maquette, n, [maquettes], "aṣa kekere ni ibẹrẹ").
+entry(maqui, n, [maquis], "maquis").
+entry(maquila, n, [maquilas], "ilorukọ ile-iṣẹ apejọ ti ajeji ni Ilu Meksiko").
+ẹnubode(maquis, n, [maquis], "igbo ti o ni koriko nipon").
+entry(mar, v, [marred,marring,mars], "lati dinku pipe tabi pipe ti nkan kan").
+entry(mara, n, [maras], "erin Argentina").
+entry(marabou, n, [marabou], "ekolo Afrika").
+entry(marabù, n, [marabù], "marabou kan").
+entry(maraca, n, [marakas], "ẹ̀rọ ìgbàgbọsọ́").
+entry(maranta, n, [marantas], "eweko ti o wa ni agbegbe oorun").
+entry(marasca, n, [marascas], "agbon oore to n dagba l'ejo").
+entry(marasmus, n, [marasmuses], "iparun araMARASMIC adj").
+entry(marathon, n, [marathons], "ije gigun").
+entry(maraud, v, [marauded, marauding, marauds], "láti wá ayérayé fun ìránwọ́").
+entry(ajagbe, n, [ajagbe], "ẹni ti o n se ijamba").
+entry(maravedi, n, [maravedis], "owó ìlàńdà fún Spani").
+entry(marble, v, [marbled,marbling,marbles], "lati fun ni irisi olokalu").
+entry(marbler, n, [awọn ti n ṣe marble], "ẹni tí ń ṣe marble").
+entry(marbling, n, [marblings], "agbooro ti ọra ati eran ni inu ẹran").
+ìgbàlode(marbly, adj, [], "MARBLIER MARBLIESTmottled").
+akwukwọ(marc, n, [marcs], "irọlẹ ti o wa lẹhin eso ti a ti tẹ").
+entry(márkátò, n, [márkátòs], "apá orin tí a ń ṣeré pẹ̀lú ìfaradà púpọ̀").
+entry(marcel, v, [marcelled, marcelling, marcels], "lati ṣe igbi asọ eleyii to jin inu irun").
+entry(máàsì, v, [máàsì,nígbàtíńmáàsì, máàsìmí], "lati rín ní ona èto ológun").
+entry(marcen, n, [marcen], "itan alaragbayida").
+entry(marcher, n, [awọn àwákirì], "ẹni tí ń rin").
+entry(marchesa, n, [marchese], "iyawo tabi opó ti marchese").
+entry(marchese, n, [marchesi], "obotọ ilẹ Italia kan").
+entry(marconi, n, [marconis], "ẹrọ redio meji-ọna").
+entry(mare, n, [maria], "ibiti o loru lori oju-aye oṣupa tabi Mars").
+entry(mare, n, [mares], "ẹṣin obinrin ti o dagba").
+entry(maremma, n, [maremme], "ẹkun etikun ti o kun fun mọrin").
+ọjọwọ(marengo, adj, [], "jẹ pẹlu obe ti osun, tomati, epo, ati waini").
+entry(margaric, adj, [], "pearlí").
+entry(magarini, n, [magarinis], "aropo bota").
+entry(margate, n, [margates], "eja ilẹ gbigbona").
+entry(margay, n, [awon_margay], "erin_wildcat_kekere_ti_Amẹrika").
+entry(marge, n, [marges], "eèkó").
+entry(margent, v, [margented,margenting,margents], "si eti").
+entry(mááríjì, v, [mááríjìd, mááríjìng, mááríìns], "láti fi ètò ààlà tàbí ààlà kan").
+entry(marginal, n, [marginals], "eyikeyi ti a ka si ni opin tabi ipade kekere").
+entry(ogun-alaṣe, n, [ogun-alaṣejì], "gómìnà ẹ̀rọ ogun ti agbègbè ààrin ogun ní ìgbà ìsìnmi ní Germany").
+entry(maria, pl, [], "ti mare").
+entry(mariachi, n, [awọn mariachi], "ẹgbẹ orin Meksikan kan").
+entry(marigold, n, [marigolds], "ewe ododo kan").
+entry(marimba, n, [awọn marimba], "irinṣẹ gige-gige kan").
+entry(marina, n, [marinas], "ibi ibomi fun awọn ọkọ oju omi kekere").
+entry(marinade, v, [marinaded, marinading, marinades], "lati jẹki ki ounjẹ wọ").
+entry(marinara, n, [marinaras], "oyoyo tomati ti a ti seqe").
+entry(marinate, v, [marinated,marinating,marinates], "lati wọ ninu adalu omi tuntun ṣaaju sise").
+entry(marine, n, [marines], "ọmọ-ogun tí wọ́n kọ́ láti sin ní okun àti lórí ilẹ̀").
+entry(ẹlẹ́wọ̀n omi, n, [ọtúnwà omi], "ẹlẹ́nikẹ́ èyí tí ń ṣeré lókun").
+entry(mariposa, n, [mariposas], "ege ododo kan").
+entry(marish, n, [marishes], "ewéko kan").
+entry(marital, apon, [], "ni ibatan si igbeyawo").
+entry(maritime, adj, [], "ti o jọmọ ọkọ oju omi tabi iṣowo lori okun").
+entry(marjoram, n, [marjorams], "ewe aladun kan").
+entry(mark, v, [marked,marking,marks], "lati ṣe ami ti o han gbangba lori").
+entry(marka, n, [markas], "tabi MARAKAẹya owo ti Bosnia ati Herzegovina").
+entry(markdown, n, [markdowns], "idinku ninu iye owo").
+entry(markedly, adv, [], "ninu ọna ti o han gbangba").
+entry(amí, n, [awọn amí], "ẹni ti n samisi").
+entry(ọjà, v, [ọjàtẹ,ịṣòjà,ọjàwo], "láti dájú fún títaja").
+entry(atilaja, n, [awọn_atilaja], "ẹni ti o n ra ọja").
+entry(markhoor, n, [markhoors], "markhoor").
+entry(markhor, n, [awọ́nlárà], "ewurawérè").
+entry(máríkìngì, n, [máríkìngs], "àpẹrẹ ẹ̀fà ẹ̀fà").
+entry(markka, n, [markkas], "tabi MARKKAA ọna kika iṣuna tẹlẹ ti Finland").
+entry(marksman, n, [marksmen], "eniyan ti o mo nipa ibi-boju jẹ").
+entry(afikun, n, [afikun], "ilọsiwaju ninu iye owo").
+entry(marl, v, [marled,marling,marls], "lati ranse pẹlu marl, idogo ilẹ ti o ni amọ, eeru, ati iyanrin").
+entry(marlier, afiwe, [], "ti marly").
+entry(marliest, superlative, [], "ti marly").
+entry(marlin, n, [marlins], "eja ere inu omi okun").
+entry(marline, n, [marlines], "okùn tí a máa ń lò ní ọkọ̀ ojú omi").
+entry(marling, n, [marlings], "marline").
+entry(marlite, n, [marlites], "irú kan ti marlMARLITIC adj").
+entry(marly, adj, [], "ẸNI TÓ TI MARLIER MARLIEST pẹlu marl").
+entry(marmite, n, [marmites], "agunmu nla").
+entry(marmoset, n, [marmosets], "obinrin kekere kan").
+entry(òkété, n, [òkété], "eranko tó maa ń fọ ilé").
+entry(morokini, n, [morokini], "aso kekere ti o ni irun die-die").
+entry(ewon, v, [ti_ewon, nwon_ewon, ewon], "lati fi sile ni ibikan ti ko si eniyan”).
+entry(marplot, n, [marplots], "eyiti o n pa eto daru nipa sisọ ayidayida").
+wọle(marque, n, [marques], "ipada").
+entry(agboorun, n, [agboorun], "ẹ̀rọ̀ ọdẹ̀dẹ tí ń tà kọ́kọ́ sí ẹnu-ọ́nà").
+entry(marquess, n, [marquesses], "marquis").
+entry(makisi, n, [makisisi], "olori ilu arupean").
+entry(marquise, n, [awọn marquises], "ayaba tabi opó ti marquis").
+entry(marram, n, [marrams], "koriko etí Òkun kan").
+entry(marrano, n, [marranos], "Ju ni Ilu Sipania ti o jẹwọ Kristiẹniti lati yago fun inunibini").
+entry(marred, igbátí, [], "àyé́mojú ti mar").
+entry(marrer, n, [marrers], "ẹni tí ó ń bàjẹ́").
+entry(igbeyawo, n, [igbeyawo], "asabura ofin ti eniyan meji ti o le jẹ alakan tabi akọ-same ti wole si").
+entry(iyawo, n, [awọn iyawo], "ẹni ti o ti wọ inu igbeyawo").
+entry(marrier, n, [awọn ẹkọ], "ẹni tí ń fẹ́").
+entry(marries, lọwọlọwọ, [], "ẹgbẹ́ kẹta ẹni kàn tí ó ní àìkú láti fẹ́").
+entry(marring, lọwọlọwọ, [], "páàrísípùlì ti mar").
+entry(marron, n, [marrons], "irú ọkà kan ti chestnut").
+entry(marrow, v, [marrowed,marrowing,marrows], "lati se igbeyawo").
+entry(marrowy, aj, [], "pithy").
+entry(marry, v, [married,marrying,marries], "lati wọ igbeyawo").
+entry(marsala, n, [marsalas], "ọti ọba ilẹ Sicily").
+entry(marse, n, [marses], "olukọ́").
+entry(mààrùn, n, [mààrùndùn], "ibùdó ilẹ̀ bàtà tó rírí").
+entry(marshal, v, [marshaled,marshaling,marshals], "lati fi sinu aṣẹto to dara").
+entry(marshall, v, [marshalled,marshalling,marshalls], "láti marshal").
+entry(marshy, adj, [], "GẸGẸBI A DÀGÌ").
+entry(marsupia, npl, [], "apo inu-ọgbẹ ti awọn ẹranko kan").
+entry(mart, v, [marted,marting,marts], "lati ta ọja").
+entry(martagon, n, [martagons], "ewe ododo kan").
+entry(martello, n, [martellos], "ilé ológun tó yípo àti tí́ yɛ kódé").
+entry(marten, n, [martens], "ẹranko ajẹjẹ kan").
+entry(martial, ajẹntí, [], "tọ́ nínú ìjà").
+entry(marsian, n, [marsians], "ẹniti o gba pe o ngbe Planet Mars").
+entry(martin, n, [martins], "ẹyẹ kekere").
+entry(martinet, n, [martinets], "eni ti o n beere ifaramọ to lagbara si awọn ofin").
+entry(martini, n, [martinis], "ohun mimu oti").
+entry(martlet, n, [adán ílerí], "a martin").
+entry(martyr, v, [martyred,martyring,martyrs], "lati pa fun ifamọra si igbagbọ").
+entry(martirli, oroasopo, [], "grẹ́mẹ̀gbẹ́ ọdìkẹ́ni").
+entry(martyry, n, [martyries], "ibùjẹ tí a dá sílè láti fi bọ́ àwọn ẹni tí a fi mọ́lẹ̀ nítorí ẹ̀sìn").
+entry(marvel, v, [marveled,marveling,marvels], "tabi MARVELLED MARVELLING MARVELS lati kun pẹlu iyanu tabi iyalẹnu").
+entry(oniyanu, n, [awọn_oniyanu], "ẹni ti o ṣe iyalẹnu").
+entry(marvy, adj, [], "alagbara").
+entry(maryjane, n, [maryjanes], "igbo").
+entry(marzipan, n, [marzipans], "ẹ̀dọ̀tí àlìmọ́ndì").
+entry(masa, n, [masas], "iṣẹ̀ ti a ṣe ní agbádo gbígbé").
+entry(masala, n, [masalas], "adalu ohun aʻtẹsẹ ti a nlo ninu iṣesẹ ilẹ Indu").
+entry(mascara, v, [mascaraed, mascaraing, mascaras], "lati kun awọn irungbọn oju tabi iṣẹ́run oju pẹlu ohun ikunra").
+entry(mascon, n, [mascons], "idagbasoke to gunpo lo o kan abe aye oṣu").
+entry(maskoti, n, [maskotisi], "eniyan ẹranko tabi nkan ti a gbagbọ pe o ma n mu orire wa").
+entry(maser, n, [masers], "ẹrọ kan fun jijẹ awọn igbi oju ina").
+entry(mash, v, [mashed,mashing,mashes], "lati dinku si ipara").
+entry(masher, n, [mashers], "ẹni tí ń ṣe fífún").
+entry(mashgiah, n, [mashgihim], "oluyewo ile-itaja kosher").
+entry(mashie, n, [mashies], "kíkọ̀ọ̀rò golf kan").
+entry(mashy, n, [mashies], "mashie").
+entry(masallá, n, [masallá], "ibùdí").
+entry(mask, v, [boju,boju-boju,nkigbe-boju], "lati bo pelu boju ohun ti a n lo lati ṣiṣaṣamisi ojuBOJU-BOJU adj").
+entry(maskeg, n, [maskegs], "muskeg").
+entry(masker, n, [awọn_masikẹ̀], "ẹnikan tí ń wọ̀jú").
+entry(masking, n, [maskings], "ẹ̀yà ìsopọ eré oníṣe ní ìyókù ibáwo látọ́jú àwùjọ").
+entry(masklike, adj, [], "to n ṣe ileri boju").
+entry(mason, v, [masoned,masoning,masons], "lati kọ́ pẹlú àpáta tàbí biriki").
+entry(masonic, adj, [], "ti o nii ṣe pàtàkì pẹ̀lú iṣẹ́ ọlúkọ́kọ́").
+entry(masonry, n, [masonries], "ẹ̀kọ́ ibi tí a kọ̀ láti ilé-olú tabi ilẹ̀kẹ̀").
+entry(mààskù, n, [àwọn mààskù], "èré oníkòkò tí ó ti gbòde kan ní ilè Gẹ̀ẹ́sì").
+entry(masquer, n, [awọn aṣọ-ikele], "aṣọ-ikele").
+entry(mass, v, [massed,massing,masses], "lati kó sínú ìkànsí ara kan ti o ni ìfaradàjù").
+entry(massa, n, [mastas], "oluwa").
+entry(ìpalẹ̀múràn, v, [palẹ̀múràn,palẹ̀múrànwá,ìpalẹ̀múrànsí], "láti pa ní àìgbọ́nẹ̀yàn").
+entry(massage, v, [massaged,massaging,massages], "lati ra gbogbo awọn ẹya ara fun itọju tabi awọn idi ilera").
+entry(massager, n, [awon_massager], "eyonukan ti o npawosi").
+entry(masscult, n, [masscults], "aṣa bi o ti di mimọ lọwọ media") .
+entry(masse, n, [masses], "iru titu ni ere billiards").
+entry(massedly, adv, [], "nigba kan naa bi ikoko").
+entry(masseter, n, [masseters], "ẹ̀gbẹ́ èèmí tí ó gbé ẹ̀rẹ́kẹ̀ alàì).
+entry(masseur, n, [awọn akọgun olóòtọ̀], "ọkùnrin tó ń ṣe ifóndó").
+entry(maseusi, n, [maseusi], "obinrin to n ṣe ifọwọra").
+entry(massicot, n, [massicots], "awọ alawọ pupa kan").
+entry(massier, afiwe, [], "ti o nira").
+entry(massiest, superlative, [], "ti massy").
+entry(massif, n, [massifs], "ipinle oke kan ti o ga julọ").
+entry(nla, aj, [], "ti iwọn tobi").
+entry(ko_niuwo, adj, [], "ko ni iwuwo").
+entry(massy, ajd, [], "TOBI JUjọ julọ").
+entry(mast, v, [masted,masting,masts], "lati pese pẹlu ọpa gigun kan lori ọkọ oju omi ti o ṣe atilẹyin awọn asia ati oṣooṣu").
+entry(mastaba, n, [mastabas], "iboji iwonyun Egipiti atijọ").
+entry(mastabah, n, [mastabahs], "mastaba").
+entry(master, v, [mastered, mastering, masters], "lati di amoye ninu").
+entry(masterly, adj, [], "olugbeja pupọ").
+entry(mastery, n, [awọn amoye], "ọgbọn ati ogbon to daju").
+entry(masthead, v, [mastheaded,mastheading,mastheads], "lati gbe si oroke ti mast").
+entry(mastic, n, [mastics], "résínì tí ó ní ìtura dídùn").
+entry(mastiche, n, [mastiches], "mástíkì").
+entry(mastiff, n, [mastiff], "aja nla ti o ni irun kukuru").
+entry(mastitis, n, [mastitides], "ìgbẹ́hin-ọpọlọMASTITIC adj").
+entry(mastix, n, [mastixes], "mastiki").
+entry(mastless, ajv, [], "lai opó").
+ajo(mastlike, ajẹ., [], "bí òpó ìrìn tó gun").
+entry(mástòdònì, n, [mástòdòns], "ẹranko kan tí ó dàbí erin tí ó ti rèkè").
+entry(mastoid, n, [mastoids], "ẹ̀yìn apá ti egungun àkókò").
+entry(masurium, n, [masuriums], "ẹ̀rọ ayélujà kan").
+entry(mat, v, [matted,matting,mats], "lati di sinu opo ti o wuwo").
+entry(matador, n, [awọn_matador], "ọkọ ẹlẹṣin ti o pa akọgbẹ ninu idije akọgbẹ").
+entry(matambala, a, [], "pl ti tambala").
+entry(dapọ̀, v, [tẹ̀mọ,dapo,dapọ̀pọ̀], "lati ṣeto ni idije tabi idakeji").
+entry(matchbox, n, [matchboxes], "àpótí kékeré").
+entry(matcher, n, [matchers], "ẹni tí ó báamu").
+entry(matchup, n, [màtíìṣìpù], "ètò láti máa bá àwọn èèyàn méjì kọ ara wọn níjà").
+entry(mate, v, [mated,mating,mates], "lat’kopa gẹ́gẹ́ bi ọ̀rẹ́ nínú ìkànsí").
+entry(mateless, adj, [], "ti ko ni alajọṣepọ").
+entry(matelot, n, [awon_matelot], "ekunrere okunrin").
+entry(matelote, n, [matelotes], "obe eja").
+entry(mater, n, [awọn_mater], "tabi MATRESiya").
+entry(ọpọ̀n, n, [awọn ohun elo], "ẹ̀dá kan fún ohun gbogbo tàbí ojúṣe tí a lè dá wọ́n sílẹ̀").
+entry(materiel, n, [materiels], "akopọ ẹrọ ati ipese ti a lo nipasẹ ajo").
+entry(maternal, àpónì, [], "nípa tabi ìwà bi ti iyá").
+entry(mateship, n, [mateships], "ipinle ti jije ore").
+entry(matey, n, [mateys], "ẹni ọrẹ").
+entry(matey, am, [], "MATIER MATIESTọrẹ").
+entry(math, n, [maths], "isababi").
+entry(matilda, n, [matildas], "apọn alẹjo").
+entry(matin, n, [matins], "orin owuro bi ti awòko").
+ẹlẹ́kanjọ, adj, [], "tí ó ṣe pàtàkì sí owúrọ̀").
+entry(matinee, n, [matinees], "isegun ọjọ").
+entry(matiness, n, [matinesses], "olufẹni").
+entry(paa, n, [paa], "akoko ti eranko ti nbi ni akoko kan le ba ara wọn lo pọ").
+entry(matless, adj, [], "lai awọn igwe kekere ilẹ ilẹ").
+entry(matirasi, n, [matirasi], "igi-ẹlẹgbẹ ti o ni gigun").
+entry(matres, a, [], "pl ti iya").
+entry(matric, n, [matrics], "gíga ẹ̀kọ́ ilé-ẹ̀kọ́ gíga").
+entry(matrix, n, [awọn matiriksi], "tabi AWỌN MATIRIKISI nkankan ninu eyiti nkankan miiran ti nwaye tabi dagbasoke").
+entry(matron, n, [awon_matro̩n], "obinrin kan ti o ti ni iyawo ati ipo awujo ti o ti mulẹMATRONAL MATRONLY adj").
+entry(matsah, n, [matsahs], "matzo").
+entry(matt, v, [matted, matting, matts], "lati matte").
+entry(matte, v, [matted,matting,mattes], "lati ṣe ipilẹ alailẹwa lori").
+entry(matted, ti_igba_ti_o_lo, [], "akoole marun marun mat matt ati matte").
+entry(mattedly, adv, [], "ní ọna tí ó dàbùkù").
+entry(matter, v, [mattered,mattering,matters], "lati ṣe pataki").
+entry(mattery, adj, [], "n ṣe ibẹ").
+entry(mattin, n, [mattins], "owurọ").
+entry(matting, n, [mattings], "asọ aláwọ̀ tí a ń lọ̀ fún ìtẹ́lé ilẹ̀").
+entry(mínu, n, [míní], "ẹ̀rọ ìgbálẹ̀kẹ̀").
+entry(mattoid, n, [mattoids], "ẹni ti ko ni ibamu ọpọlọ").
+entry(mattrass, n, [awọn_mattrasses], "mattrass").
+entry("àjàpá", n, ["àjàpá"], "àjàpá ńlá tí ó kún fún ohun èlò tí ó le dàgbàa tí a ń lò lórí ibùsùn tàbí gẹ́gẹ́ bí ibùsùn").
+entry(maturate, v, [maturated,maturating,maturates], "láti dàgbà").
+entry(mature, adj, [], "TI DAGBA JU TI DAGBAYOfully developedDAGBAYAN ni adv").
+entry(mature, v, [matured,maturing,matures], "lati ṣe tabi di ogbo").
+entry(maturer, n, [awọn tóó-mójútó], "ẹni tó mú ohun kan dé ipò tó peye").
+entry(iminira, n, [iminira], "ipo ti jijẹ ogbo").
+entry(matza, n, [matzas], "matzo").
+entry(matzah, n, [matzahs], "matzo").
+entry(matzo, n, [matzos], "tabi MATZOT tabi MATZOTH akara ti ko ni yisisi").
+entry(matzoh, n, [matzohs], "matzo").
+entry(matzoon, n, [matzoons], "ounjẹ kan ti a ṣe lati inu wara").
+entry(maud, n, [mauds], "ewa plaid awuwo Scottish dudu ati grẹy").
+entry(maudlin, adj, [], "ẹni ti o kun fun ọkàn").
+entry(mauger, isise, [], "maugre").
+entry(maugre, aṣà, [], "níbáàjẹ́").
+entry(maul, v, [mauled,mauling,mauls], "lati báni níjàmbá nipa títìkà").
+entry(mauler, n, [maulers], "eni ti o nje").
+entry(madaru, n, [madarudaru], "iṣe ipalara nipa lilù").
+entry(maumet, n, [maumets], "ere").
+entry(maumetry, n, [awonmaumetry], "iseberu").
+entry(maun, v, [], "gbòdò  MAUN ni ẹyọ kanṣoṣo ti èdáhùn yi nì, kò le ṣe ọkọpọ").
+entry(maund, n, [maunds], "ìwọn àṣìá kan ti àwọ́n iná").
+entry(maunder, v, [maundered, maundering, maunders], "lati sọrọ ni aibikita").
+entry(maundy, n, [maundies], "ayeye ẹsin ti fifọ ẹsẹ alaini").
+entry(mausolea, npl, [], "ibojì nla alágbára").
+entry(mausy, adj, [], "MAUSIER MAUSIESTmauzy").
+entry(maut, n, [mauts], "malt").
+entry(mauve, n, [mauves], "awọ pupa kan").
+entry(mauzy, aj, [], "MAUZIER MAUZIESTfúnfun ààrò ààrò").
+entry(mavin, n, [mavins], "mavin").
+entry(maverick, n, [mavericks], "eranko ti ko ni ami lori").
+iko(mavie, n, [mavies], "mavis").
+entry(mavin, n, [mavins], "ọgbọnwá").
+entry(mavis, n, [mavises], "eye kan ti o ma n korin").
+entry(maw, v, [mawed, mawn, mawing], "MAW Lati ge").
+entry(mawkish, afijẹẹri, [], "ẹdun ọkan ti ko wuyi").
+agbeyejo(max, v, [ọla_max, oṣuwọn_max, iye_max], "lati de opin ti o pọju").
+entry(maxi, n, [maxis], "asokale gigun tabi ẹwu gigun").
+entry(maxiboat, n, [maxiboats], "okun ọkọ oju omi titobi racing").
+entry(maxicoat, n, [maxicoats], "awotele gigun").
+entry(maxilla, n, [maxillas], "tabi MAXILLAE ète òkè tabi egungun ète").
+entry(maxim, n, [maxims], "ọrọ́ kékeré kan tó ṣàlàyé òtítọ́ tàbí ìlànà gbogbogbò").
+entry(maxima, a, [], "pluuralu ti o pọju").
+entrẹ(maximal, n, [maximals], "ẹya inu eto iṣiro ti ko ni abẹle iṣẹlẹ").
+ọjọ(maximand, n, [awọn ohun ti o pọ ju lọ], "nkankan ti o nilo lati pọ ju lọ").
+entry(maximin, n, [maximins], "o pọju akojọpọ ti o kere julọ").
+entry(maximise, v, [maximised,maximising,maximises], "lati pọ si").
+entry(maximite, n, [maximites], "רקיסי nla kan tí ó ní agbára pupọ").
+entry(maximize, v, [tobi_julọ, ńtọ́bì, ńtóbì], "láti ṣe kíkankíkan ju bẹ́ẹ̀ lọ").
+entry(maximum, n, [awọn ti o pọju], "tabi MAXIMAiye nla julọ ti o ṣeeṣe opoiye tabi iwọn").
+entry(maxixe, n, [maxixes], "ijó tí orílẹ̀-èdè Brazil").
+entry(maxwell, n, [maxwells], "ẹyọ išẹ amọ́ adánná ti ipa-ọná").
+entry(may, v, [mayed, maying, mays], "lati kó' àwọn ododo ní ìgbà òpin odún").
+entry(maya, n, [mayas], "agbara lati ṣe awọn anikanjọpọn ni ẹsin HinduMAYAN adj").
+entry(mayapple, n, [mayapples], "egboigi aladodo odoodun").
+entry(boya, n, [boyas], "aifiyesi").
+entry(maybird, n, [maybirds], "ẹdun ojú-ọjọ").
+entry(igbá ododo, n, [awọn igbá ododo], "igbá kan ti o ni ododo").
+entry(mayday, n, [maydays], "iwepepe taworan").
+entry(mayest, a, [], "pelu 2d eeyan kan sipesi ti may").
+entry(mayfly, n, [mayflies], "ẹ̀fọn aláyìnlé").
+entry(mayhap, àpèjúwe-Ìse, [], "bóyá").
+entry(mayhem, n, [mayhems], "ẹṣẹ ti pipinlẹ ẹni kan pẹlu ìfẹnukò").
+entry(maying, n, [mayings], "ikojọpọ awọn ododo orisun omi").
+entry(mayo, n, [awọn mayos], "mayonnaise").
+entry(meya, n, [meya], "olori alase ilu tabi agbegbe").
+entry(iyalanlu, n, [awọn iyalanlu], "obalu ti obinrin").
+entry(Opó-ọjọ-ọdún, n, [awọn_opó-ọjọ-ọdún], "opó tí wọ́n ń fi ṣe àwẹ̀rẹ́dé nígbà ayẹyẹ ìrúgbìn").
+entry(maypop, n, [maypops], "igi ajara ti o lola ododo").
+entry(mayst, a, [], "wa lọwọlọwọ ẹni kẹta ẹnikan lọwọlọwọ ti o le").
+entry(mayvin, n, [mayvins], "oloye").
+entry(mayweed, n, [mayweeds], "egboigi ti o n run").
+entry(mazaedia, npl, [], "awon nkan ti ntu eso ti awon lichen kan").
+entry(mazard, n, [mazards], "ori tabi oju").
+entry(maze, v, [mazed,mazing,mazes], "lati kunaMAZEDLY adv").
+entry(mazelike, adj, [], "titiipa").
+entry(mazeltov, interj, [], "lilo lati fi ikini han").
+entry(mazer, n, [mazers], "afinju nla ti mimu").
+entry(mazier, comparative, [], "ti mazy").
+entry(maziest, superlative, [], "ti mazy").
+entry(mazily, adv, [], "ninu ọna ti o nira pupọ").
+entry(maziness, n, [mazinesses], "didùn ilẹ̀kùn ilẹ̀ ojú-ọ̀nà").
+entry(mazing, lọwọlọwọ, [], "ọrọ-ìṣẹlẹ ti maze").
+entry(mazourka, n, [mazourkas], "mazurka").
+entry(mazuma, n, [mazumas], "owo").
+entry(mazurka, n, [mazurkas], "ijó ilé Pólándì").
+entry(mazy, aj, [], "MAZIER MAZIESTtí ó kún fún ìbímọ èé.").
+entry(mazzard, n, [mazzards], "agulopo igi eso alailofo").
+entry(mbaqanga, n, [mbaqangas], "orin ijó ìwọ-oorun Afirika").
+entry(mbira, n, [mbiras], "ẹrọ orin Afirika kan").
+entry(ẹmi, àf’adára, [], "àpẹrẹ ọ̀rọ̀ orukọ ẹni ḿọ̀kan ‘Emi’").
+entry(mead, n, [awọn ọti], "oju mimu amuludun").
+entry(gangwon, n, [awangwon], "ibi ẹlẹgbẹ ti korikoMEADOWY adj").
+entry(meager, adj, [], "MEAGERER MEAGERESTdiẹ ninu opoiye tabi didaraMEAGERLY adv").
+entry(meagre, adj, [], "MEAGRER MEAGRESTmeagerMEAGRELY adv").
+entry(ounje, n, [awonounje], "ounje ti a nse ati je ni igba kan soso").
+entry(agbado, n, [agbadomeji], "akintoko agbado").
+entry(mealier, afiwe, [], "ti iye").
+entry(mealiest, superlative, [], "fẹ́fẹ́").
+entry(ainini, adj, [], "ai ounje").
+entry(àkókò_ounjẹ, n, [àkókò_ounjẹ], "àkókò tí a máa ń jẹun lásán").
+entry(mealworm, n, [mealworms], "larva iparun ti diẹ ninu awọn kokoro").
+entry(mealy, adj, [], "MEALIER MEALIESTrirọ gbẹ ati rọ").
+entry(asunrunrun, n, [asunrunrun], "kokoro abayọ́").
+entry(mean, adj, [], "IBAJUJU IBAJULOLA kekere ni ipo didara tabi iwa").
+entry(mean, v, [tumosi,itelorun,itumo], "lati pinnu").
+entry(meander, v, [meandered,meandering,meanders], "lati rin kaakiri").
+entry(meaner, n, [meaners], "eyi to tumo si").
+ìfúrò(pèní, n, [awọnpèní], "ẹni tí ó le jàǹ".
+entry(meanies, pl, [], "ti meany").
+entry(itumọ̀, n, [itumọ̀], "nkankan ti ẹnikan fẹ́ sọ láti sọdáni nípasẹ̀ èdè").
+entry(meanly, adv, [], "ni ọna itẹ́gọ́").
+entry(funrara, n, [funrarara], "ipò ti jijẹ ẹni ilara").
+entry(meant, igba ti o koja, [], "iṣẹlẹ ti itumọ").
+entry(meantime, n, [meantimes], "akoko to wa laarin.").
+entry(meany, n, [meanies], "yẹniyetíroyin").
+entry(measle, n, [measles], "a tapeworm larvaMEASLED adj").
+entry(measly, adj, [], "MEASLIER MEASLIESTmeager").
+entry(measure, v, [measured, measuring, measures], "lati pinnu awọn iwọn, iye tabi agbara ti").
+entry(olutotele, n, [awọn_olutotele], "ẹni ti o n ṣe iwọn").
+entry(eran, n, [eran], "eran okele ti a maa n je MEATED adj").
+entry(meatal, adj, [], "to n se meatus").
+entry(bọọli-ẹran, n, [bọọli-ẹran], "bọọli kekere ti ẹran gege").
+entry(meathead, n, [meatheads], "olodo").
+entry(meathook, n, [meathooks], "ikenun kan lori eyi ti a fi le so eran").
+entry(meatier, asopamo, [], "ti ara eran").
+entry(meatiest, superlative, [], "ti meaty").
+entry(meatily, adv, [], "ni ona ti o ni eran").
+entry(alayinlòunjẹ, àpéjúwe, [], "ti kò ní ẹran").
+entry(meatloaf, n, [meatloaves], " ọlọsẹ ti a ṣe lati ẹran ilẹ").
+entry(meatman, n, [awọn onjẹ ẹran], "oníṣòwò ẹran").
+entry(meatus, n, [meatuses], "ojuona ara adayeba").
+entry(alufọ, ajẹ, [], "ALUFỌ TÓ YẸ ALUFỌ TÓ JU TÓ KÚNBẸ̣̀ FÚN NẸ́TÌ").
+entry(mecca, n, [meccas], "ibi ti ọpọlọpọ eniyan nṣe abẹwo si").
+entry(mech, n, [mechs], "oníṣe iṣẹ ẹrọ").
+entry(onímọ̀ ẹ̀rọ, n, [onímọ̀ ẹ̀rọ], "ẹni tí ń ṣiṣẹ́ pẹ̀lú àwọn ẹ̀rọ").
+entry(mechitza, n, [mechitzas], "tabi MECHITZOT ipin fun yiya awọn ọkunrin ati obinrin ni sinagogu").
+entry(mechoui, n, [mechouis], "onje eran ti a dana lori gige").
+entry(meconiomu, n, [meconiomu], "ẹ̀jẹ̀ ìgbàgbọ̀ akọkọ ti ọmọ ti a bí").
+ìforíjikọ(med, n, [meds], "oogun").
+ìforíjìnnisí(medaka, n, [awọn medaka], "ẹja ara Japan").
+entry(medal, v, [medaled,medaling,medals], "tabi MEDALLED MEDALLING MEDALSlati fi ẹyọ́ àròsọ bọ́ lórí pẹlu fọ́yẹ̀ aami ti irin kan").
+entry(olugba-iwe-lẹta-ẹyẹ, n, [awọn-o-lugba-iwe-lẹta-ẹyẹ], "ẹnikan ti a ti fun ni iwe lẹta-ẹyẹ").
+entry(medallic, adj, [], "ti ami eye tabi n ṣalaye o").
+entry(medalling, a, [], "ipawo akoko ti medal").
+entry(meddle, v, [meddled,meddling,meddles], "lati nifẹ̀ ara ẹni sí ohun tí kò kan ẹni náà").
+entry(alarojo, n, [alarojo], "ẹniti o fẹra si ija laarin ẹni meji").
+entry(medevac, v, [medevaced,medevacing,medevacs], "tabi MEDEVACKED MEDEVACKING MEDEVACsi lati gbe awọn ti o farapa kuro ni aaye ogun nipasẹ kọp̣ta").
+entry(medfly, n, [medflies], "ẹyẹ eso Mediterranean kan").
+entry(media, n, [mediae], "atidide apẹ kan ninu ẹjẹ tabi ikun omi").
+entry(media, n, [awọn_alaye], "ẹ̀rọ ibanisọrọ kan").
+entry(mediacy, n, [mediacies], "iṣe alatọju").
+entry(mediad, adv, [], "sí àárín ara tàbí apá kan").
+entry(mediae, pl, [], "ti media").
+entry(àárin, n, [àárins], "ohun kan ninu àárin orò").
+entry(medially, adv, [], "ní àárín").
+entry(median, n, [awọn_aarin], "ẹ̀ka àárín kan").
+entry(medianly, adb, [], "medially").
+entry(agbelebu, n, [agbelebus], "iru ohun orin orin").
+entry(mediate, v, [mediated,mediating,mediates], "láti ṣe ṣiṣẹ láàrín àwọn ẹni tí ounjẹ ń wáye láti mú fípọ̀ jọ").
+entry(alaroye, n, [alaroye], "eni kan ti o n ṣe alafia").
+entry(onisegun, n, [awon\ onisegun], "eniti o n se ise iwosan").
+entry(medicaid, n, [medicaids], "iru eto ilera ijoba kan").
+entry(mèdíká, n, [àbójútó, ìlera], "àyẹ̀wò ara láti mọ ìlera àwọn èèyàn").
+entry(oloti, n, [oloti], "erongba gbigbe sipo").
+entry(medicare, n, [awon_medicares], "iru eto ilera ijoba kan").
+entry(gbógùn, v, [gbógùnṣe, nṣegbógùn, ngbógùn], "lati ṣe itọju pẹlu oogun").
+entry(medicide, n, [awota_lona_ikilo], "iku-nitogen miiran ti egbogi ti o ran lowo").
+entry(osiṣo, v, [osiṣod, osiṣoning, osiṣos], "lati administer osiṣo ohun elo ti a lo ninu itọju arun si").
+entry(medick, n, [awọn_médíkù], "ewéko tí ńókú").
+entry(doctor, n, [awon_medicos], "dokita tabi akeko egbogi").
+entry(arinorun, n, [arinorun], "eniyan ti o wa ni akoko aarinorun").
+entry(medigap, n, [awon-medigap], "ẹ̀kọ̀ ní ilé ìṣẹ̀gun ti ó dínkù").
+entry(medii, pl, [], "ti medius").
+entry(médína, n, [médínas], "abẹ́bẹ́ ìlú èyíkèyì ínòfowógba ní Àríwá Afíríkà").
+entry(mediocre, ad, [], "kii ṣe daradara tabi buburu").
+entry(ronu, v, [ronu, nrɔn, nrɔnu], "lati ronupiwada").
+entry(arin, n, [awọn ọna ṣiṣe], "tabi AWỌN ONA iseda ibaramu kan ninu eyi ti nkan ṣe iṣẹ ati dagba").
+entry(agba-okan, n, [agba-iwoyi], "ika arin").
+entry(medivac, v, [medivaced,medivacing,medivacs], "tabi MEDIVACKED MEDIVACKING MEDIVACSmedevac").
+entry(mẹ́dla, n, [mẹ́dlas], "igba iṣu Eurasia").
+entry(medley, n, [medleys], "adarọ").
+entry(madrasa, n, [madrasas], "madrassa").
+entry(medulla, n, [awọn medulla], "tabi MEDULLAEtiti ilẹ ti nkọju si ni awọn odo ti awọn eweko kanMEDULLAR adj").
+entry(medusa, n, [medusas], "tabi MEDUSAEa jellyfishMEDUSAL adj").
+entry(medusan, n, [medusans], "medusa").
+entry(medusoidi, n, [medusoid], "medusa").
+entry(meed, n, [meeds], "ẹbun ti a jèrè").
+entry(meek, adj, [], "MEEKER MEEKESTko ni ọkan ati igboyaMEEKLY adv").
+entry(rirọrun, n, [rirọrun], "iye ti jijẹ ọlọjọ").
+entry(meerkat, n, [meerkats], "katemerea ti ilẹ Afirika").
+entry(pade, v, [pa,nnkan,pade], "lati ba ni soro tabi ni be ni ojulo").
+ẹnu-ọna(ọmọ-ọwọlẹ, n, [ikọkọ-ọwọlẹ], "ẹni ti o pade").
+entry(ipade, n, [ipade], "ijọ kan fun idi ti gbogbo eniyan ni").
+ẹni(meetly, adv, [], "ṣéṣé").
+entry(meetness, n, [meetnesses], "ibamu").
+entry(meg, n, [megs], "megabyte kan").
+entry(mega, adj, [], "nla ni iwọn tabi pataki").
+entry(megabar, n, [megabars], "ẹyọntì titẹ").
+entry(megabit, n, [megabiti], "ẹka alaye kọmputa kan").
+entry(megabuck, n, [megabucks], "egberun mewa dọla").
+entry(megabayiti, n, [megabayiti], "1048576 baiti").
+entry(megacity, n, [ilu-nla], "ilu ti o tobi pupọ").
+entry(adebesin, n, [adebesin], "adehun owo ti o jẹ gidigidi pupọ").
+entry(megadose, n, [megadoses], "iye giga ti oogun").
+entry(olùdágbára, n, [awọn olùdágbára], "ẹgbẹ́ẹ̀meji agbaralọ́").
+entry(megaflop, n, [megaflopa], "iwon iyara isiro").
+entry(olokiki-pupọ, n, [olokiki-pupọ], "nnkan ti o jẹ aṣeyọri gidi").
+entry(megalith, n, [megaliths], "okuta nla ti a lo ninu awọn arabara atijọ").
+entry(megalops, n, [megalopses], "ẹ̀yà ẹ̀dá iràwọ̀ alákàgàgbé kìí ṣe púpó ti èpo ẹja lọ́pò jùlọ").
+entry(megamall, n, [megamalls], "iparoja nla kan ti o tobi gan").
+entry(megaplex, n, [megaplexes], "ilé ńlá tí ó ní òpò ilé ìnáwó fíìmù").
+entry(megapod, n, [megapods], "megapode").
+entry(megapode, n, [awodi-megapode], "eye ẹyẹ kan ti o ni ẹsẹ nla").
+ọjade(megaron, n, [megara], "iyẹwu nla nla ti ile Giriki atijọ kan").
+entry(megass, n, [megasses], "bagasi kan").
+entry(megasse, n, [megasses], "megass").
+entry(megastar, n, [megastars], "eni ti o se aseyori rere gidi ninu irinse").
+entry(megaton, n, [megatons], "ẹgbẹ́ kan ti agbára ìparun").
+ẹnikọọkan(megavolt, n, [megavolts], "ìyẹn ìgbẹsẹ̀ ti agbára amúná ina").
+entry(megawati, n, [megawati], "ẹgbẹ́rọ̀ ẹgbẹ́rẹ́ agbara").
+entry(megilla, n, [megillas], "megillah").
+entry(megillah, n, [megillahs], "itan gigun ati ti o ni pipbẹsẹde").
+entry(megilp, n, [megilps], "eròjà kan tí a máa ń da awọsànmà mọ́ ninu àwòrán").
+entry(megilph, n, [megilphs], "megilp").
+entry(megohm, n, [megohms], "ẹ̀ka àwọn ẹ̀rọ to ga").
+entry(megrim, n, [megrims], "aisan ori").
+entry(meh, ajẹ., [], "kii ṣe tuntun didan").
+entry(mehndi, n, [awọn mehndis], "niṣẹ́ ẹwà láti jáwó àwọn àpẹẹrẹ lórí ara pẹ̀lú henna").
+entry(meikle, àpèsè, [], "ńlá").
+entry(meinie, n, [meinies], "meiny").
+entry(meiny, n, [meinies], "ákopọ àwọn ọmọlẹyin").
+entry(meiosis, n, [meioses], "iru pipin sẹẹli kanMEIOTIC adj").
+entry(meister, n, [meisters], "eni kan ti o ni imo nipa nkan kan ti a pato").
+entry(mel, n, [mels], "oyin").
+entry(melaena, n, [melaenas], "melena").
+entry(melamed, n, [melamdim], "olukọ ni ile-iwe Juu").
+entry(melamine, n, [melamines], "ẹ̀dá kemika kan").
+entry(melange, n, [melanges], "akanse").
+entry(melanian, ø̀rọ̀ àpẹẹrẹ, [], "tí ó ní ìfárakosèjú dídú").
+entry(melanic, n, [melanics], "ẹni tí o ni ipa pẹlu melanism").
+entry(melanin, n, [melanins], "pigment dudu kan").
+entry(melanism, n, [melanisms], "iyipada awọ dudu ati aibikan ti awọ ara").
+entry(melanist, n, [melanists], "ẹni amọ").
+entry(melanite, n, [melanites], "àwọ̀ wíwọ dudu kan ti garnet").
+entry(melanize, v, [melanized, melanizing, melanizes], "lati ṣe dudu").
+entry(melanọid, n, [melanọids], "pigmenti alaigbọ").
+entrada(melanoma, n, [melanomas], "tabi MELANOMATAa ọmọ ọlọ jẹ dudu").
+entry(melanous, asọ, [], "níríran dudu pẹ̀lú irun dudu").
+entry(meld, v, [melded,melding,melds], "lati dapọ").
+entry(melder, n, [melders], "iye gbogbo alikama ti a n yan ni asiko kan").
+entry(melee, n, [melees], "ijakadi ti ko ni ilana").
+entry(melena, n, [melenas], "ipo ti o samisi nipasẹ igbẹ dudu bi tar").
+entry(melic, aabo, [], "to nipa orin").
+entry(melilite, n, [melilites], "egungun okuta kan").
+entry(melilot, n, [awọn melilot], "ọ̀gẹ̀dẹ̀ tó ń lójà lọ").
+entry(melinite, n, [melinites], "ẹ̀dáamọ́ alágbára").
+entry(melisma, n, [melismas], "tabi MELISMATAmelodic embellishment").
+entry(mell, v, [melled,melling,mells], "láti dapọ").
+entry(mellific, aj, [], "n ṣe oyin").
+entry(mellow, adj, [], "MELLOWER MELLOWESTrirẹ ati dun lati itẹwẹMELLOWLY adv").
+entry(mellow, v, [mellowed,mellowing,mellows], "lati jẹ ki tabi di onírẹlẹ").
+entry(melodeon, n, [melodeons], "ẹ̀kọ̀dìdì kékeré kan").
+entry(melodia, n, [melodias], "iru organ stop kan").
+entry(melodic, adj, [], "ti orin").
+entry(melodica, n, [awọn melodicas], "ẹ̀rọ orin afẹ́fẹ́ tí ó ní bọ́tìnì kẹ́bọ́ọ̀du kékeré ní ìpínlẹ̀ tókan").
+entry(melodies, pl, [], "ti orin").
+entry(melodion, n, [melodions], "melodion").
+entry(melodise, v, [melodised,melodising,melodises], "lati ṣe alayeye").
+entry(olùkọrin, n, [awọn_olùkọrin], "ẹni tó ń kọ àwọn orin amúyọ").
+entry(melodize, v, [melodized,melodizing,melodizes], "lati ṣe akọrin").
+entry(melodi, n, [melodi], "apejuwe ti awọn ohun orin ti o dun").
+entry(meloid, n, [meloids], "irú ewé-kẹkẹ").
+entry(ẹ̀fọ́, n, [ẹ̀fọ́], "ẹnikẹni ti o yatọ si eso igi ṣeêsi Ẹ̀FỌ́ adj").
+entry(melt, v, [melted,melting,melts], "lati yipada lati ipo kongẹ si ipo omi nipasẹ ooruMELTABLE adj").
+ẹnu(meltage, n, [meltages], "ilana ti didà").
+entry(meltdown, n, [meltdowns], "isunmọ́ ọkan réàkítà àtọ̀mí").
+entry(melter, n, [awọn alafẹsẹ], "ẹni ti ń tuka").
+entry(melton, n, [meltons], "aso wolẹ to wuwo").
+entry(melty, ajd, [], "ti o jọ ohun ti o yo").
+entry(mem, n, [mems], "iletasii Heberu").
+entry(èmèmbà, n, [èmèmbà], "ìpín àkọkọ ti gbogbo nkanMEMBERED adj").
+entry(membrane, n, [ẹ̀yà ara sisanra, tabi eya ara ti a le fẹ́lẹ̀pẹ́lẹ], "ẹyà ara sisanra, tabi eya ara ti a le fẹ́lẹ̀pẹ́lẹ lórí ara").
+entry(meme, n, [awọn_meme], "èro tàbí ètò tí ó ṣe kó lati ènìyàn si ènìyànMEMETIC adj").
+entry(memento, n, [mementos], "tabi MEMENTOESnkan ti o wa bi iranti ti igba atijọ").
+entry(memetics, npl, [], "ẹkọ́ nipa àwọn àlàyé aláwàdá àti àwọn ipa wọn").
+entry(memo, n, [memos], "akojọsilẹ kan ti o tọka nkan lati ranti").
+entry(memoir, n, [awọn ìrántí], "àìkàlòdìje").
+entry(iranti, n, [irantiiran], "nkankan ti o sin bi iranti fun eniyan tabi iṣẹlẹ").
+entry(iranti, v, [iranti, iranti, iranti], "lati ṣe iranti").
+entry(ranti, v, [ranti, n ranti, n ranti], "lati fi sinu iranti").
+entry(iranti, n, [awọn_iranti], "agbara ọpọlọ ti idaduro ati iranti iriri ti o ti kọja").
+entry(memsahib, n, [awon_memsahib], "obinrin ara Europe ti n gbe ni India amunisin").
