@@ -1,10 +1,10 @@
 import { createSignal, onMount, For, createResource } from "solid-js";
 import { load, Prolog } from 'trealla';
 import { query, setQuery } from "./query";
-import predicates from "./prolog/predicates.pl?raw";
-import entries from "./prolog/words.pl?raw";
-import unit_tests from "./prolog/unit_test_builtins.pl?raw";
-import library_tests from "./prolog/unit_test_libraries.pl?raw";
+import predicates from "./Prolog/predicates.pl?raw";
+import entries from "./Prolog/words.pl?raw";
+import unit_tests from "./Prolog/unit_test_builtins.pl?raw";
+import library_tests from "./Prolog/unit_test_libraries.pl?raw";
 import { DictionaryChecker } from "./utils/DictionaryChecker";
 import { SvgGen } from "./utils/SvgGen";
 

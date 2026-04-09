@@ -23,7 +23,7 @@ export const SvgGen = () => {
   });
 
   return (
-    <div class="border p-4 text-center">
+    <div class="border p-2 text-center">
       <div class="font-bold mb-2">TinyGo SVG Gen Example</div>
       {!ready() ? (
         <p>Initializing...</p>

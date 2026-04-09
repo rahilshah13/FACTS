@@ -7,6 +7,8 @@ github.com/ajstarks/deck v0.0.0-20200831202436-30c9fc6549a9/go.mod h1:JynElWSGnm
 github.com/ajstarks/deck/generate v0.0.0-20210309230005-c3f852c02e19/go.mod h1:T13YZdzov6OU0A1+RfKZiZN9ca6VeKdBdyDV+BY97Tk=
 github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b h1:slYM766cy2nI3BwyRiyQj/Ud48djTMtMebDqepE95rw=
 github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b/go.mod h1:1KcenG0jGWcpt8ov532z81sp/kMMUG485J2InIOyADM=
+github.com/derekparker/trie v0.0.0-20230829180723-39f4de51ef7d h1:hUWoLdw5kvo2xCsqlsIBMvWUc1QCSsCYD2J2+Fg6YoU=
+github.com/derekparker/trie v0.0.0-20230829180723-39f4de51ef7d/go.mod h1:C7Es+DLenIpPc9J6IYw4jrK0h7S9bKj4DNl8+KxGEXU=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/speedata/go-lua v0.1.7 h1:Wt+JvSFeA90C6RyV7sh8doeUcuJrljnFTb6veYviPEg=
 github.com/speedata/go-lua v0.1.7/go.mod h1:6Ay/2kO1IHOXkp7rmXPpAJrqwNTMwM4qcqM6U9u9RDc=
