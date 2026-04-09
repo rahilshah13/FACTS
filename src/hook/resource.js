@@ -1,1 +1,0 @@
-// TODO: load TinyGo wasm_exec.js here to create window.Go
