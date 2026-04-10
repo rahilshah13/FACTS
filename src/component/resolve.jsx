@@ -21,11 +21,12 @@ export const Resolve = () => {
 
   // The next button does not work
   const handleNext = async () => {
-    english.fs.open("/english.pl", { write: true, create: true }).writeString(predicates + "\n" + entries.split('\n').sort(() => Math.random() - 0.5).join('\n'));
-    await english.consult("/english.pl");
-    const res = await english.queryOnce('english:fill_template(["complete", "the", W1, "in", "a", "sensible", W2])');
-    setRes1(`complete the ${res.answer.W1} in a sensible ${res.answer.W2}`);
-    // await pl.queryOnce("delete_file('/english.pl')");
+    const [predicates, entries] = [files["./Prolog/predicates.pl"], files["./Prolog/predicates.pl"];
+    PrologInstance.fs.open("/english.pl", { write: true, create: true }).writeString(predicates + "\n" + entries.split('\n').sort(() => Math.random() - 0.5).join('\n'));
+    await PrologInstance.consult("/english.pl");
+    const res = await PrologInstance.queryOnce('english:fill_template(["complete", "the", W1, "in", "a", "sensible", W2])');
+    setSentence(`complete the ${res.answer.W1} in a sensible ${res.answer.W2}`);
+    await PrologInstance.queryOnce("delete_file('/english.pl')");
   };
 
   const handleUnitTests = async () => {
