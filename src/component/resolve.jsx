@@ -1,30 +1,20 @@
 import { createSignal, onMount, For, createResource } from "solid-js";
 import { load, Prolog } from 'trealla';
 import { query, setQuery } from "./query";
-import predicates from "./Prolog/predicates.pl?raw";
-import entries from "./Prolog/words.pl?raw";
-import unit_tests from "./Prolog/unit_test_builtins.pl?raw";
-import library_tests from "./Prolog/unit_test_libraries.pl?raw";
-import { DictionaryChecker } from "./utils/DictionaryChecker";
-import { SvgGen } from "./utils/SvgGen";
-
-let english;
-let unitTests;
-let libraryTests;
+import { DictionaryChecker, SvgGen } from "./utils";
+// files["./Prolog/predicates.pl"]
+const files = import.meta.glob("./Prolog/*.pl", { query: '?raw', import: 'default', eager: true });
+let PrologInstance;
 
 export const Resolve = () => {
-  const [res1, setRes1] = createSignal("")
-  //
-  const [res2, setRes2] = createSignal("")
-  const [res3, setRes3] = createSignal("")
-  const unitTestResultTable2 = () => (res2() ? (res2().flatMap(({category, name, status}) => (<><div class="">{category}</div><div class=""> {name}</div><div class="">{status === "pass" ? "✅" :"⛔"}</div></>))) : "");
-  const unitTestResultTable3 = () => (res3() ? (res3().flatMap(({category, name, status}) => (<><div class="">{category}</div><div class=""> {name}</div><div class="">{status === "pass" ? "✅" :"⛔"}</div></>))) : "");
-  //
+
+  const [sentence, setSentence] = createSignal("")
+  const [unitTests, setUnitTests] = createSignal([])
+  const ResultsTable = () => (res2() ? (res2().flatMap(({category, name, status}) => (<><div class="">{category}</div><div class=""> {name}</div><div class="">{status === "pass" ? "✅" :"⛔"}</div></>))) : "");
+  
   onMount(async () => {
     await load();
-    english = new Prolog();
-    unitTests = new Prolog();
-    libraryTests = new Prolog();
+    PrologInstance = new Prolog());
     handleNext();
     //location.reload();
   });
@@ -38,42 +28,25 @@ export const Resolve = () => {
     // await pl.queryOnce("delete_file('/english.pl')");
   };
 
-  const handleBuiltinsUnitTest = async () => {
-    unitTests.fs.open("/unit_tests.pl", { write: true, create: true }).writeString(unit_tests);
-    await unitTests.consult("/unit_tests.pl");
-    const res = await unitTests.queryOnce('unit_test:main(Results)');
-    const formattedRes = res.answer.Results.map(r => ({ name: r.args[0].functor, status: r.args[1].functor, category: r.args[2].functor}));
-    setRes2(formattedRes);
+  const handleUnitTests = async () => {
+    unitTests.fs.open("/UnitTests.pl", { write: true, create: true }).writeString(unit_tests);
+    await unitTests.consult("/UnitTests.pl");
+    const res = await unitTests.queryOnce('unit_tests:main(Results)');
+    setUnitTests(res.answer.Results.map(r => ({ name: r.args[0].functor, status: r.args[1].functor, category: r.args[2].functor})));
   }
-
-  const handleLibrariesUnitTest = async () => {
-    libraryTests.fs.open("/library_tests.pl", { write: true, create: true }).writeString(library_tests);
-    await libraryTests.consult("/library_tests.pl");
-    const res = await libraryTests.queryOnce('unit_test:main(Results)');
-    const formattedRes = res.answer.Results.map(r => ({ name: r.args[0].functor, status: r.args[1].functor, category: r.args[2].functor}));
-    setRes3(formattedRes);
-  }
-
 
   return (
     <div class="border border-fuchsia-800 text-xs w-full py-[2vh] px-[2vw] relative place-items-center bg-fuchsia-50">
       <span class="text-fuchsia-800">RESOLUTIONS</span>
       <div class="flex flex-col hover:cursor-pointer bg-amber-100 gap-y-4">
-        <div>QUERY: {query() || "empty"}</div>
-        <div>{ res1() || "loading..."}</div>
+        <div>QUERY: { query() || "type a query..." }</div>
+        <div>{ sentence() || "loading..."}</div>
       </div>
-      <div class="hover:cursor-pointer w-[33vw] grid grid-cols-3 text-xs gap-2 place-items-center text-center border bg-white" onclick={handleBuiltinsUnitTest}>
+      <div class="hover:cursor-pointer w-[33vw] grid grid-cols-3 text-xs gap-2 place-items-center text-center border bg-white" onclick={handleUnitTests}>
         { 
-          res2()
-          ? unitTestResultTable2
-          : "Built-ins Unit Test..."
-        }
-      </div>
-      <div class="hover:cursor-pointer w-[33vw] grid grid-cols-3 text-xs gap-2 place-items-center text-center border bg-white" onclick={handleLibrariesUnitTest}>
-        { 
-          res3()
-          ? unitTestResultTable3
-          : "Default libraries Unit Test..."
+          unitTests()
+          ? ResultsTable
+          : "TreallaJs Built-in Predicates & Libraries Unit Test..."
         }
       </div>
       <DictionaryChecker />
