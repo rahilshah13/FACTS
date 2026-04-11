@@ -1,4 +1,4 @@
-:- module(unit_test, [main/1]).
+:- module(unit_tests, [main/1]).
 
 % --- Load all standard Trealla JS libraries ---
 :- use_module(library(lists)).

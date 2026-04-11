@@ -1,8 +1,9 @@
-import { createSignal, onMount } from "solid-js";
-import wasmUrl from "../TinyGo/svg_gen.wasm?url";
-import wasmExecUrl from "../TinyGo/wasm_exec.js?url";
+import { createSignal, onMount, createResource } from "solid-js";
+import svgWASM from "./TinyGo/svg_gen.wasm?url";
+import translationWASM from "./TinyGo/translation_checker.wasm?url";
+import wasmExecUrl from "./TinyGo/wasm_exec.js?url";
 
-export const SvgGen = () => {
+export function SvgGen() {
   const [ready, setReady] = createSignal(false);
   const [svg, setSvg] = createSignal("");
 
@@ -14,27 +15,21 @@ export const SvgGen = () => {
       await new Promise((resolve) => (script.onload = resolve));
     }
     const go = new window.Go();
-    const { instance } = await WebAssembly.instantiateStreaming(fetch(wasmUrl), go.importObject);
-    go.run(instance);
-    
+    const { instance } = await WebAssembly.instantiateStreaming(fetch(svgWASM), go.importObject);
+    go.run(instance);    
     setReady(true);
-    // Call the Go function and store the SVG string
     if (window.generateSVG) setSvg(window.generateSVG());
   });
 
   return (
     <div class="border p-2 text-center">
       <div class="font-bold mb-2">TinyGo SVG Gen Example</div>
-      {!ready() ? (
-        <p>Initializing...</p>
-      ) : (
-        <div class="flex justify-center" innerHTML={svg()} />
-      )}
+      { !ready() ? (<p>Initializing...</p>) : (<div class="flex justify-center" innerHTML={svg()} />)}
     </div>
   );
-};
+}
 
-export const DictionaryChecker = () => {
+export function DictionaryChecker() {
   
   const [fileName, setFileName] = createSignal("");
   const [ready, setReady] = createSignal(false);
@@ -49,7 +44,7 @@ export const DictionaryChecker = () => {
     }
     const go = new window.Go();
     const { instance } = await WebAssembly.instantiateStreaming(
-      fetch(wasmUrl),
+      fetch(translationWASM),
       go.importObject
     );
     go.run(instance);
@@ -68,7 +63,7 @@ export const DictionaryChecker = () => {
 
   return (
     <div class="p-2 border border-dashed text-center">
-      <p class="mb-2 font-bold">{ready() ? "Upload Dictionary" : "Initializing..."}</p>
+      <p class="mb-2 font-bold">{ready() ? "Upload Dictionary (.pl)" : "Initializing..."}</p>
       <input 
         type="file" 
         accept=".pl" 
@@ -77,14 +72,27 @@ export const DictionaryChecker = () => {
         class="block w-full text-sm disabled:opacity-50"
       />
       {fileName() && <div class="mt-2 text-xs italic">{fileName()}</div>}
-
-      {results() && (
+      {results() && 
         <div class="grid grid-cols-3 gap-1 mt-4 text-xs font-mono border-t pt-2">
-          {results().flatMap(({word, lang, confidence}) => (
-            <><div class="truncate">{word}</div><div>{lang}</div><div>{confidence.toFixed(2)}</div></>
-          ))}
+          {results().flatMap(({word, lang, confidence}) => (<><div class="truncate">{word}</div><div>{lang}</div><div>{confidence.toFixed(2)}</div></>))}
         </div>
-      )}
+      }
     </div>
   );
-};
+}
+
+
+export function WebsocketService() {
+  const AUDIT_LOG = ""
+  const [connected, setConnected] = createSignal(false);
+  const [userQueue, setUQ] = createSignal(["user queue"]);
+  const [adminQueue, setAQ] = createSignal(["admin queue"]);
+
+  async function streamFacts() {
+    console.log("STREAM FACTS!");
+    return {hi: "hi"};
+  };
+
+  const [facts, { refetch: rf, mutate: mf }] = createResource(streamFacts, { initialValue: {hi: "ddd"}, name: "facts", onHydrated: () => {},});
+  return (<div>WebsocketService</div>)
+}
