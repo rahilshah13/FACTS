@@ -10,6 +10,7 @@ export const Resolve = () => {
 
   const [sentence, setSentence] = createSignal("")
   const [unitTests, setUnitTests] = createSignal("")
+  const [metrics, setMetrics] = createSignal("")
   
   onMount(async () => {
     await load();
@@ -36,6 +37,17 @@ export const Resolve = () => {
     await PL.queryOnce("delete_file('/UnitTests.pl')");
   }
 
+  const handleMetrics = async () => {
+    PL.fs.open("/word_metrics.pl", { write: true, create: true }).writeString(files["./Prolog/word_metrics.pl"]);
+    PL.fs.open("/english.pl", { write: true, create: true }).writeString(files["./Prolog/words.pl"]);
+    //await PL.consult("/english.pl");
+    await PL.consult("/word_metrics.pl");
+    const res = await PL.queryOnce('word_metrics:entry_index(Results)');
+    setMetrics(res.answer.Results.map(r => ({ "letter": r.args[0].functor, "count": r.args[1]})));
+    await PL.queryOnce("delete_file('/word_metrics.pl')");
+    await PL.queryOnce("delete_file('/english.pl')");
+  }
+
   return (
     <div class="border border-fuchsia-800 text-xs w-full py-[2vh] px-[2vw] relative place-items-center bg-fuchsia-50">
       <span class="text-fuchsia-800">RESOLUTIONS</span>
@@ -50,6 +62,10 @@ export const Resolve = () => {
           ? (() => (unitTests().flatMap(({category, name, status}) => (<><div class="">{category}</div><div class=""> {name}</div><div class="">{status === "pass" ? "✅" :"⛔"}</div></>))))
           : <div class="grid col-span-3">Click Here To Run Trealla-JS Unit Tests</div>
         }
+      </div>
+
+      <div class="hover:cursor-pointer w-[33vw] grid grid-cols-1 text-sm gap-2 place-items-center text-center border bg-white my-[2vh] flex-row" onclick={handleMetrics}>
+        { metrics() ? (() => ( metrics().flatMap(({letter, count}) => (<div>{ letter } - { count } </div>)) ) ) : <div class="grid col-span-3">Get English Metrics</div> }
       </div>
 
       <SvgGen />
