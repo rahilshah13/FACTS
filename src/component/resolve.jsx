@@ -3,7 +3,9 @@ import { load, Prolog } from 'trealla';
 import { query, setQuery } from "./query";
 import { DictionaryChecker, SvgGen } from "./utility";
 
-const files = import.meta.glob("./Prolog/*.pl", { query: '?raw', import: 'default', eager: true });
+const trealla_pl = import.meta.glob("./Prolog/*.pl", { query: '?raw', import: 'default', eager: true });
+const files = import.meta.glob("../../DICTIONARY/LANGUAGES/ENGLISH/*.pl", { query: '?raw', import: 'default', eager: true });
+
 let PL;
 
 export const Resolve = () => {
@@ -21,7 +23,7 @@ export const Resolve = () => {
 
   // The next button does not work
   const handleNext = async () => {
-    const [predicates, dictionary] = [files["./Prolog/predicates.pl"], files["./Prolog/words.pl"]];
+    const [predicates, dictionary] = [files["../../DICTIONARY/LANGUAGES/ENGLISH/predicates.pl"], files["../../DICTIONARY/LANGUAGES/ENGLISH/words.pl"]];
     PL.fs.open("/english.pl", { write: true, create: true }).writeString(predicates + "\n" + dictionary.split('\n').sort(() => Math.random() - 0.5).join('\n'));
     await PL.consult("/english.pl");
     const res = await PL.queryOnce('english:fill_template(["complete", "the", W1, "in", "a", "sensible", W2])');
@@ -30,7 +32,7 @@ export const Resolve = () => {
   };
 
   const handleUnitTests = async () => {
-    PL.fs.open("/UnitTests.pl", { write: true, create: true }).writeString(files["./Prolog/UnitTests.pl"]);
+    PL.fs.open("/UnitTests.pl", { write: true, create: true }).writeString(trealla_pl["./Prolog/UnitTests.pl"]);
     await PL.consult("/UnitTests.pl");
     const res = await PL.queryOnce('unit_tests:main(Results)');
     setUnitTests(res.answer.Results.map(r => ({ name: r.args[0].functor, status: r.args[1].functor, category: r.args[2].functor})));
@@ -38,13 +40,12 @@ export const Resolve = () => {
   }
 
   const handleMetrics = async () => {
-    PL.fs.open("/word_metrics.pl", { write: true, create: true }).writeString(files["./Prolog/word_metrics.pl"]);
-    PL.fs.open("/english.pl", { write: true, create: true }).writeString(files["./Prolog/words.pl"]);
-    //await PL.consult("/english.pl");
-    await PL.consult("/word_metrics.pl");
-    const res = await PL.queryOnce('word_metrics:entry_index(Results)');
+    PL.fs.open("/metrics.pl", { write: true, create: true }).writeString(files["../../DICTIONARY/LANGUAGES/ENGLISH/metrics.pl"]);
+    PL.fs.open("/english.pl", { write: true, create: true }).writeString(files["../../DICTIONARY/LANGUAGES/ENGLISH/words.pl"]);
+    await PL.consult("/metrics.pl");
+    const res = await PL.queryOnce('metrics:entry_index(Results)');
     setMetrics(res.answer.Results.map(r => ({ "letter": r.args[0].functor, "count": r.args[1]})));
-    await PL.queryOnce("delete_file('/word_metrics.pl')");
+    await PL.queryOnce("delete_file('/metrics.pl')");
     await PL.queryOnce("delete_file('/english.pl')");
   }
 
@@ -64,8 +65,8 @@ export const Resolve = () => {
         }
       </div>
 
-      <div class="hover:cursor-pointer w-[33vw] grid grid-cols-1 text-sm gap-2 place-items-center text-center border bg-white my-[2vh] flex-row" onclick={handleMetrics}>
-        { metrics() ? (() => ( metrics().flatMap(({letter, count}) => (<div>{ letter } - { count } </div>)) ) ) : <div class="grid col-span-3">Get English Metrics</div> }
+      <div class="hover:cursor-pointer w-[33vw] grid grid-cols-1 text-sm gap-2 place-items-center text-center border bg-white my-[2vh] flex-row">
+        { metrics() ? (() => ( metrics().flatMap(({letter, count}) => (<div>{ letter } - { count } </div>)) ) ) : <div class="grid col-span-3"  onclick={handleMetrics} >Get English Metrics</div> }
       </div>
 
       <SvgGen />
