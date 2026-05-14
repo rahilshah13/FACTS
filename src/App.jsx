@@ -3,6 +3,7 @@ import { Query } from "./component/query";
 import { Facts } from "./component/facts"
 import { Profile } from "./component/profile";
 import { Resolve } from "./component/resolve";
+import { GlobalMapLayers } from "./component/globalMapLayers";
 
 const App = () => {
   const [facts, setFacts] = createSignal(0);
@@ -16,6 +17,7 @@ const App = () => {
       <Profile />
       {/* <span class="text-[10px]">CONTAINER(w: 100vw, h: 77vh, px: 2vw, py: 2vh)</span> */}
       <Query P />
+      <GlobalMapLayers />
       <Facts />
       <Resolve />
     </div>
