@@ -1,7 +1,6 @@
 ## sbt project compiled with Scala 3
-- `sbt compile`, `sbt run`
-- `sbt fastLinkJs`
-- [scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+1. `sbt compile`, `sbt run`
+2. `sbt fastLinkJS`
 - "TODO: sbt plugin to 'patch' main.js"
 ```
 // main.js
