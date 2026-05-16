@@ -10,7 +10,7 @@ const layerDefinitions = [
 const seasons = ["Current", "Winter", "Spring", "Summer", "Autumn"];
 const tileSizes = ["Coarse", "Medium", "Fine"];
 
-export function GlobalMapLayers() {
+export function WorldMap() {
   const [activeLayers, setActiveLayers] = createSignal(layerDefinitions.map((layer) => layer.id));
   const [season, setSeason] = createSignal(seasons[0]);
   const [tileSize, setTileSize] = createSignal(tileSizes[1]);
@@ -32,13 +32,9 @@ export function GlobalMapLayers() {
 
   return (
     <section class="flex flex-col gap-4 border border-sky-800 bg-slate-950 p-4 text-slate-100">
-      <div class="sr-only">current weather global ocean wind territory map layers</div>
       <div class="flex flex-col gap-1">
-        <span class="text-xs font-bold uppercase tracking-[0.3em] text-sky-300">Global map</span>
-        <h2 class="text-lg font-bold">Area preserving climate and territory layers</h2>
         <p class="text-xs text-slate-300">
-          Explore an equal-area world view with tile granularity, seasonal context, ocean and wind vector overlays,
-          and international territory boundaries.
+          Area-preserving World Map
         </p>
       </div>
 

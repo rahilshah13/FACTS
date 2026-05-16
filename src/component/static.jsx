@@ -1,5 +1,6 @@
+import { setToggleMap } from "../App.jsx";
 
-export const Profile = () => {
+export const StaticElements = () => {
   return(
     <>
       <> {/* LEFT BUTTONS */}
@@ -18,6 +19,14 @@ export const Profile = () => {
           <div class="bg-green-300 w-[2vw]">ON</div>
         </div>
       </>
+      <> {/* WORLD MAP TOGGLE */}
+        <div 
+          class="absolute right-0 top-[2vh] w-[4vw] border border-black hover:bg-green-500 hover:mouse-pointer text-center"
+          onclick={() => setToggleMap(t => !t)}
+        >
+        TOGGLE MAP
+      </div>
+    </>
     </>
   );
 };
