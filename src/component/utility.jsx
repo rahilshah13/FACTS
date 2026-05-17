@@ -1,7 +1,9 @@
 import { createSignal, onMount, createResource } from "solid-js";
 import svgWASM from "./TinyGo/svg_gen.wasm?url";
 import translationWASM from "./TinyGo/translation_checker.wasm?url";
+import trieWASM from "./TinyGo/trie.wasm?url";
 import wasmExecUrl from "./TinyGo/wasm_exec.js?url";
+
 
 export function SvgGen() {
   const [ready, setReady] = createSignal(false);
@@ -81,6 +83,36 @@ export function DictionaryChecker() {
   );
 }
 
+export async function makeTrie() {
+  if (!window.Go) {
+    const script = document.createElement("script");
+    script.src = wasmExecUrl;
+    document.head.appendChild(script);
+    await new Promise((resolve) => (script.onload = resolve));
+  }
+
+  const go = new window.Go();
+  const { instance } = await WebAssembly.instantiateStreaming(
+    fetch(trieWASM),
+    go.importObject
+  );
+  go.run(instance);
+
+  const pl_dictionary = Object.values(import.meta.glob("../../DICTIONARY/LANGUAGES/ENGLISH/words.pl", { 
+    query: '?raw', 
+    import: 'default', 
+    eager: true 
+  }))[0];
+
+  if (pl_dictionary && window.initDictionary && window.matchSubstring) {
+    window.initDictionary(pl_dictionary);
+    console.log("Matches for 'aa':", window.matchSubstring("aa")); 
+    console.log("Matches for 'ba':", window.matchSubstring("ba")); 
+    console.log("Matches for 'don':", window.matchSubstring("don")); 
+  } else {
+    console.error("Dictionary file missing or WASM hooks failed to bind onto global window.");
+  }
+}
 
 export function WebsocketService() {
   const AUDIT_LOG = ""

@@ -1,7 +1,7 @@
-import { createSignal, onMount, For, createResource } from "solid-js";
+import { createSignal, onMount } from "solid-js";
 import { load, Prolog } from 'trealla';
 import { query, setQuery } from "./query";
-import { DictionaryChecker, SvgGen } from "./utility";
+import { SvgGen } from "./utility";
 
 const trealla_pl = import.meta.glob("./Prolog/*.pl", { query: '?raw', import: 'default', eager: true });
 const files = import.meta.glob("../../DICTIONARY/LANGUAGES/ENGLISH/*.pl", { query: '?raw', import: 'default', eager: true });
@@ -18,7 +18,6 @@ export const Resolve = () => {
     await load();
     PL = new Prolog();
     handleNext();
-    //location.reload();
   });
 
   // The next button does not work

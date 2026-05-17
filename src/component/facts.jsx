@@ -1,11 +1,12 @@
 import { createResource, createSignal } from "solid-js";
-import { DictionaryChecker } from "./utility";
+import { DictionaryChecker, makeTrie } from "./utility";
 const loadWasm = async () => await import("./Scala/target/scala-3.8.3/scalajs-fastopt/main");
 export const [scalaRes, setScalaRes] = createSignal([]);
 
 export const Facts = () => {
   
   const [wasm] = createResource(loadWasm);
+  //makeTrie();
 
   return(
     <div class="flex flex-col border border-emerald-800 px-[2vw] py-[2vh] place-items-center gap-4 bg-emerald-50">
