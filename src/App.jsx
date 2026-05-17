@@ -1,4 +1,4 @@
-import { createSignal, createMemo, createResource, For, useContext, createEffect } from "solid-js"; 
+import { createSignal, createMemo, createResource } from "solid-js"; 
 import { Query } from "./component/query";
 import { Facts } from "./component/facts"
 import { StaticElements } from "./component/static";
