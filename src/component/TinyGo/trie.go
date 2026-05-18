@@ -1,10 +1,10 @@
+// tinygo build -o trie.wasm -target wasm ./trie.go
 package main
 
 import (
 	"regexp"
 	"strings"
 	"syscall/js"
-
 	"github.com/derekparker/trie"
 )
 
@@ -24,13 +24,10 @@ func parsePrologAndIndex(prologData string) {
 
 		for i := 0; i < len(word); i++ {
 			suffix := word[i:]
-			
 			var existingWords []string
-			// FIXED: Call Meta() as a method to get the interface value
 			if node, found := wordTrie.Find(suffix); found && node.Meta() != nil {
 				existingWords = node.Meta().([]string)
 			}
-			
 			if !contains(existingWords, word) {
 				wordTrie.Add(suffix, append(existingWords, word))
 			}
@@ -61,7 +58,6 @@ func matchSubstring(this js.Value, args []js.Value) any {
 	
 	resultSet := make(map[string]bool)
 	for _, key := range keys {
-		// FIXED: Call Meta() as a method here as well
 		if node, found := wordTrie.Find(key); found && node.Meta() != nil {
 			words := node.Meta().([]string)
 			for _, w := range words {
