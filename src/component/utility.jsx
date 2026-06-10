@@ -138,8 +138,8 @@ export function UvViewer() {
 
   onMount(async () => {
     try {
-      const dartModule = await import(new URL("./Dart/bin/uv_rasterizer.mjs", import.meta.url).href);
-      const wasmSourceStream = fetch(new URL("./Dart/bin/uv_rasterizer.wasm", import.meta.url).href);
+      const dartModule = await import(/* @vite-ignore */ new URL("./Dart/bin/uv_rasterizer.mjs", import.meta.url).href);
+      const wasmSourceStream = fetch(/* @vite-ignore */ new URL("./Dart/bin/uv_rasterizer.wasm", import.meta.url).href);
 
       const compiledApp = await dartModule.compileStreaming(wasmSourceStream);
       const instantiatedApp = await compiledApp.instantiate({});
