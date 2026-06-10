@@ -1,0 +1,3 @@
+- `dart create --template=package Dart`
+- `dart pub get`
+- `dart compile wasm uv_rasterizer.dart -o bin/uv_rasterizer.wasm`

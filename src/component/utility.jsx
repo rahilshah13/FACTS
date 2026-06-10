@@ -128,3 +128,108 @@ export function WebsocketService() {
   const [facts, { refetch: rf, mutate: mf }] = createResource(streamFacts, { initialValue: {hi: "ddd"}, name: "facts", onHydrated: () => {},});
   return (<div>WebsocketService</div>)
 }
+
+
+export function UvViewer() {
+  const [imageUrl, setImageUrl] = createSignal('');
+  const [isLoading, setIsLoading] = createSignal(true);
+  const [ready, setReady] = createSignal(false);
+  const [error, setError] = createSignal('');
+
+  onMount(async () => {
+    try {
+      const dartModule = await import(new URL("./Dart/bin/uv_rasterizer.mjs", import.meta.url).href);
+      const wasmSourceStream = fetch(new URL("./Dart/bin/uv_rasterizer.wasm", import.meta.url).href);
+
+      const compiledApp = await dartModule.compileStreaming(wasmSourceStream);
+      const instantiatedApp = await compiledApp.instantiate({});
+      
+      instantiatedApp.invokeMain();    
+      
+      setReady(true);
+      setIsLoading(false);
+    } catch (err) {
+      console.error("Failed to boot Dart Wasm:", err);
+      setError(`Failed to boot Dart Wasm: ${err.message || err}`);
+      setIsLoading(false);
+    }
+  });
+
+  const generateMeshUvMap = () => {
+    if (!ready() || typeof window.generateUVMapWasm !== 'function') {
+      setError('Wasm module is not ready yet.');
+      return;
+    }
+
+    try {
+      setError('');
+
+      const mockUvBuffer = new Float32Array([
+        0.5, 1.0,
+        0.0, 0.0,
+        1.0, 0.0,
+        0.5, 0.3
+      ]);
+
+      const mockIndexBuffer = new Int32Array([
+        0, 1, 3,
+        0, 3, 2,
+        1, 2, 3
+      ]);
+
+      const imageSize = 512;
+      
+      const pngUint8Array = window.generateUVMapWasm(mockUvBuffer, mockIndexBuffer, imageSize);
+      const blob = new Blob([pngUint8Array], { type: 'image/png' });
+      const url = URL.createObjectURL(blob);    
+      
+      if (imageUrl()) URL.revokeObjectURL(imageUrl());
+      setImageUrl(url);
+    } catch (execError) {
+      setError(`Execution crash: ${execError.message}`);
+    }
+  };
+
+  return (
+    <div class="border border-4 border-red-300" style={{ padding: '20px', "font-family": 'sans-serif' }}>
+      <h2>Dart Wasm UV Map Generator</h2>
+      
+      <Show when={isLoading()}>
+        <p>Compiling and spinning up Dart WebAssembly environment...</p>
+      </Show>
+
+      <Show when={error()}>
+        <p style={{ color: 'red', "font-weight": 'bold' }}>{error()}</p>
+      </Show>
+
+      <Show when={!isLoading()}>
+        <div style={{ "margin-bottom": '15px' }}>
+          <button 
+            onClick={generateMeshUvMap}
+            style={{
+              padding: '10px 15px',
+              background: '#2563eb',
+              color: 'white',
+              border: 'none',
+              "border-radius": '4px',
+              cursor: 'pointer'
+            }}
+          >
+            Rasterize Mesh Buffers
+          </button>
+        </div>
+      </Show>
+
+      <Show when={imageUrl()}>
+        <div>
+          <h3>Output PNG Layout Target:</h3>
+          <img 
+            src={imageUrl()} 
+            alt="Generated UV Map Wireframe" 
+            style={{ border: '2px solid #444', "background-color": '#1e1e1e', "max-width": '100%' }}
+          />
+        </div>
+      </Show>
+    </div>
+  );
+}

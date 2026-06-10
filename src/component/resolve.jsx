@@ -1,7 +1,7 @@
 import { createSignal, onMount } from "solid-js";
 import { load, Prolog } from 'trealla';
 import { query, setQuery } from "./query";
-import { SvgGen } from "./utility";
+import { SvgGen, UvViewer } from "./utility";
 
 const trealla_pl = import.meta.glob("./Prolog/*.pl", { query: '?raw', import: 'default', eager: true });
 const files = import.meta.glob("../../DICTIONARY/LANGUAGES/ENGLISH/*.pl", { query: '?raw', import: 'default', eager: true });
@@ -69,6 +69,7 @@ export const Resolve = () => {
       </div>
 
       <SvgGen />
+      <UvViewer />
       <button class="hover:cursor-pointer place-self-start" onClick={handleNext}>NEXT</button>
     </div>
   );
