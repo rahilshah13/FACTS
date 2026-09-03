@@ -66,13 +66,34 @@ evaluate_sentences([S|Rest], CorIn, IncIn, CorOut, IncOut) :-
         evaluate_sentences(Rest, CorIn, IncNext, CorOut, IncOut)
     ).
 
-% --- Lexical Helpers ---
+% --- Lexical & Fallback Helpers ---
 noun(W) :- entry(W, n, _, _).
+noun(W) :- unknown_word(W), !.
+
 adj(W)  :- entry(W, adj, _, _).
+adj(W)  :- unknown_word(W), !.
 
 verb(W) :- entry(W, v, _, _).
 verb(W) :- entry(_, v, Inflections, _),
             member(W, Inflections).
+verb(W) :- unknown_word(W), !.
+
+unknown_word(W) :-
+    atom(W),
+    \+ entry(W, _, _, _),
+    (   atom_number(W, _)
+    ->  false
+    ;   atom_chars(W, Chars),
+        Chars \= [],
+        all_digits(Chars)
+    ->  false
+    ;   true
+    ).
+
+all_digits([]).
+all_digits([H|T]) :-
+    char_type(H, digit),
+    all_digits(T).
 
 % --- Terminals & Base Grammar Components (Defined before reference) ---
 noun --> [W], { noun(W) }.
