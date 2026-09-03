@@ -66,6 +66,81 @@ evaluate_sentences([S|Rest], CorIn, IncIn, CorOut, IncOut) :-
         evaluate_sentences(Rest, CorIn, IncNext, CorOut, IncOut)
     ).
 
+% --- Lexical Helpers ---
+noun(W) :- entry(W, n, _, _).
+adj(W)  :- entry(W, adj, _, _).
+
+verb(W) :- entry(W, v, _, _).
+verb(W) :- entry(_, v, Inflections, _),
+            member(W, Inflections).
+
+% --- Terminals & Base Grammar Components (Defined before reference) ---
+noun --> [W], { noun(W) }.
+verb --> [W], { verb(W) }.
+adj  --> [W], { adj(W) }.
+
+predet --> [all].
+predet --> [both].
+predet --> [half].
+
+article --> [the].
+article --> [a].
+article --> [an].
+
+demonstrative --> [this].
+demonstrative --> [that].
+demonstrative --> [these].
+demonstrative --> [those].
+
+possessive --> [my].
+possessive --> [your].
+possessive --> [his].
+possessive --> [her].
+possessive --> [its].
+possessive --> [our].
+possessive --> [their].
+
+quantifier --> [some].
+quantifier --> [any].
+quantifier --> [many].
+quantifier --> [much].
+quantifier --> [few].
+quantifier --> [little].
+quantifier --> [several].
+quantifier --> [most].
+quantifier --> [enough].
+
+number --> [one].
+number --> [two].
+number --> [three].
+number --> [first].
+number --> [second].
+number --> [third].
+
+distributive --> [each].
+distributive --> [every].
+distributive --> [either].
+distributive --> [neither].
+
+interrogative --> [which].
+interrogative --> [what].
+interrogative --> [whose].
+
+difference --> [other].
+difference --> [another].
+
+det_core --> article.
+det_core --> demonstrative.
+det_core --> possessive.
+det_core --> quantifier.
+det_core --> number.
+det_core --> distributive.
+det_core --> interrogative.
+det_core --> difference.
+
+det_phrase_t(det) --> det_core.
+det_phrase_t(predet) --> predet, det_core.
+
 % --- Sentence Type Tracking DCG ---
 
 sentence_types(Words, Types) :-
@@ -82,8 +157,18 @@ verb_phrase_t(vp(V_Type, NP_Type)) --> verb_t(V_Type), noun_phrase_t(NP_Type).
 noun_t(n) --> [W], { noun(W) }.
 verb_t(v) --> [W], { verb(W) }.
 adj_t(adj) --> [W], { adj(W) }.
-det_phrase_t(det) --> det_core.
-det_phrase_t(predet) --> predet, det_core.
+
+% --- DCG Rules ---
+sentence --> noun_phrase, verb_phrase.
+
+noun_phrase --> det_phrase, noun.
+noun_phrase --> det_phrase, adj, noun.
+
+verb_phrase --> verb.
+verb_phrase --> verb, noun_phrase.
+
+det_phrase --> predet, det_core.
+det_phrase --> det_core.
 
 % --- Additional Mocked Metrics ---
 
@@ -166,88 +251,3 @@ ipasymbol("æ"). ipasymbol("a"). ipasymbol("ə"). ipasymbol("ʌ").
 ipasymbol("u"). ipasymbol("ʊ"). ipasymbol("o"). ipasymbol("ɔ").
 ipasymbol("ɑ"). ipasymbol("ɒ"). ipasymbol("aɪ"). ipasymbol("eɪ").
 ipasymbol("ɔɪ"). ipasymbol("aʊ"). ipasymbol("oʊ").
-
-% --- Lexical Helpers ---
-noun(W) :- entry(W, n, _, _).
-adj(W)  :- entry(W, adj, _, _).
-
-verb(W) :- entry(W, v, _, _).
-verb(W) :- entry(_, v, Inflections, _),
-            member(W, Inflections).
-
-% --- DCG Rules ---
-sentence --> noun_phrase, verb_phrase.
-
-noun_phrase --> det_phrase, noun.
-noun_phrase --> det_phrase, adj, noun.
-
-verb_phrase --> verb.
-verb_phrase --> verb, noun_phrase.
-
-% --- Determiners ---
-det_phrase --> predet, det_core.
-det_phrase --> det_core.
-
-predet --> [all].
-predet --> [both].
-predet --> [half].
-
-det_core --> article.
-det_core --> demonstrative.
-det_core --> possessive.
-det_core --> quantifier.
-det_core --> number.
-det_core --> distributive.
-det_core --> interrogative.
-det_core --> difference.
-
-article --> [the].
-article --> [a].
-article --> [an].
-
-demonstrative --> [this].
-demonstrative --> [that].
-demonstrative --> [these].
-demonstrative --> [those].
-
-possessive --> [my].
-possessive --> [your].
-possessive --> [his].
-possessive --> [her].
-possessive --> [its].
-possessive --> [our].
-possessive --> [their].
-
-quantifier --> [some].
-quantifier --> [any].
-quantifier --> [many].
-quantifier --> [much].
-quantifier --> [few].
-quantifier --> [little].
-quantifier --> [several].
-quantifier --> [most].
-quantifier --> [enough].
-
-number --> [one].
-number --> [two].
-number --> [three].
-number --> [first].
-number --> [second].
-number --> [third].
-
-distributive --> [each].
-distributive --> [every].
-distributive --> [either].
-distributive --> [neither].
-
-interrogative --> [which].
-interrogative --> [what].
-interrogative --> [whose].
-
-difference --> [other].
-difference --> [another].
-
-% --- Terminals ---
-noun --> [W], { noun(W) }.
-verb --> [W], { verb(W) }.
-adj  --> [W], { adj(W) }.
