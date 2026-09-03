@@ -2,13 +2,14 @@
     sentence_len/2, entry_only/1, fill_template/1, 
     avg_word_length/2, words_per_closure/2, sentence_eval/3, 
     lexical_density/2, semantic_coherence/2, syntactic_entropy/2, readability_score/2,
-    bpe_len/2, ipa_len_val/2
+    bpe_len/2, ipa_len_val/2, sentence_types/2
 ]).
 
 :- dynamic(entry/4).
 :- use_module(library(dcgs)).
 :- use_module(library(lists)).
 :- use_module(library(random)).
+:- use_module(library(apply)).
 
 % complete the sentence
 entry_only(W) :- nonvar(W), !.
@@ -64,6 +65,25 @@ evaluate_sentences([S|Rest], CorIn, IncIn, CorOut, IncOut) :-
     ;   IncNext is IncIn + 1,
         evaluate_sentences(Rest, CorIn, IncNext, CorOut, IncOut)
     ).
+
+% --- Sentence Type Tracking DCG ---
+
+sentence_types(Words, Types) :-
+    phrase(sentence_t(Types), Words).
+
+sentence_t([NP_Type, VP_Type]) --> noun_phrase_t(NP_Type), verb_phrase_t(VP_Type).
+
+noun_phrase_t(np(Det_Type, N_Type)) --> det_phrase_t(Det_Type), noun_t(N_Type).
+noun_phrase_t(np(Det_Type, Adj_Type, N_Type)) --> det_phrase_t(Det_Type), adj_t(Adj_Type), noun_t(N_Type).
+
+verb_phrase_t(vp(V_Type)) --> verb_t(V_Type).
+verb_phrase_t(vp(V_Type, NP_Type)) --> verb_t(V_Type), noun_phrase_t(NP_Type).
+
+noun_t(n) --> [W], { noun(W) }.
+verb_t(v) --> [W], { verb(W) }.
+adj_t(adj) --> [W], { adj(W) }.
+det_phrase_t(det) --> det_core.
+det_phrase_t(predet) --> predet, det_core.
 
 % --- Additional Mocked Metrics ---
 
@@ -164,7 +184,7 @@ noun_phrase --> det_phrase, adj, noun.
 verb_phrase --> verb.
 verb_phrase --> verb, noun_phrase.
 
-% --- Determiners (FIXED) ---
+% --- Determiners ---
 det_phrase --> predet, det_core.
 det_phrase --> det_core.
 
