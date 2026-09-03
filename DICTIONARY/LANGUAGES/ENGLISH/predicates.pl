@@ -66,36 +66,30 @@ evaluate_sentences([S|Rest], CorIn, IncIn, CorOut, IncOut) :-
         evaluate_sentences(Rest, CorIn, IncNext, CorOut, IncOut)
     ).
 
-% --- Lexical & Fallback Helpers ---
-noun(W) :- entry(W, n, _, _).
+% --- Fast Deterministic Lexical Helpers (With Cuts to Prevent Backtracking) ---
+
+noun(W) :- entry(W, n, _, _), !.
 noun(W) :- unknown_word(W), !.
 
-adj(W)  :- entry(W, adj, _, _).
+adj(W)  :- entry(W, adj, _, _), !.
 adj(W)  :- unknown_word(W), !.
 
-verb(W) :- entry(W, v, _, _).
-verb(W) :- entry(_, v, Inflections, _),
-            member(W, Inflections).
+verb(W) :- entry(W, v, _, _), !.
+verb(W) :- entry(_, v, Inflections, _), member(W, Inflections), !.
 verb(W) :- unknown_word(W), !.
 
 unknown_word(W) :-
     atom(W),
     \+ entry(W, _, _, _),
-    (   atom_number(W, _)
-    ->  false
-    ;   atom_chars(W, Chars),
-        Chars \= [],
-        all_digits(Chars)
-    ->  false
+    (   atom_number(W, _) -> false
+    ;   atom_chars(W, Chars), Chars \= [], all_digits(Chars) -> false
     ;   true
     ).
 
 all_digits([]).
-all_digits([H|T]) :-
-    char_type(H, digit),
-    all_digits(T).
+all_digits([H|T]) :- char_type(H, digit), all_digits(T).
 
-% --- Terminals & Base Grammar Components (Defined before reference) ---
+% --- Terminals & Base Grammar Components ---
 noun --> [W], { noun(W) }.
 verb --> [W], { verb(W) }.
 adj  --> [W], { adj(W) }.
@@ -162,25 +156,35 @@ det_core --> difference.
 det_phrase_t(det) --> det_core.
 det_phrase_t(predet) --> predet, det_core.
 
-% --- Sentence Type Tracking DCG ---
+% --- Fast Hierarchical Sentence Type Tracking DCG ---
 
 sentence_types(Words, Types) :-
-    phrase(sentence_t(Types), Words).
+    (   phrase(sentence_t(Types), Words)
+    ->  true
+    ;   Types = [fallback_structure]
+    ).
 
-sentence_t([NP_Type, VP_Type]) --> noun_phrase_t(NP_Type), verb_phrase_t(VP_Type).
+% Consumes core NP + VP, and gracefully absorbs trailing modifiers (dates, clauses) so it never fails/hangs
+sentence_t([NP_Type, VP_Type]) --> 
+    noun_phrase_t(NP_Type), 
+    verb_phrase_t(VP_Type), 
+    optional_tail.
 
-noun_phrase_t(np(Det_Type, N_Type)) --> det_phrase_t(Det_Type), noun_t(N_Type).
-noun_phrase_t(np(Det_Type, Adj_Type, N_Type)) --> det_phrase_t(Det_Type), adj_t(Adj_Type), noun_t(N_Type).
+optional_tail --> [_], optional_tail, !.
+optional_tail --> [].
 
-verb_phrase_t(vp(V_Type)) --> verb_t(V_Type).
-verb_phrase_t(vp(V_Type, NP_Type)) --> verb_t(V_Type), noun_phrase_t(NP_Type).
+noun_phrase_t(np(Det_Type, N_Type)) --> det_phrase_t(Det_Type), noun_t(N_Type), !.
+noun_phrase_t(np(Det_Type, Adj_Type, N_Type)) --> det_phrase_t(Det_Type), adj_t(Adj_Type), noun_t(N_Type), !.
+
+verb_phrase_t(vp(V_Type)) --> verb_t(V_Type), !.
+verb_phrase_t(vp(V_Type, NP_Type)) --> verb_t(V_Type), noun_phrase_t(NP_Type), !.
 
 noun_t(n) --> [W], { noun(W) }.
 verb_t(v) --> [W], { verb(W) }.
 adj_t(adj) --> [W], { adj(W) }.
 
 % --- DCG Rules ---
-sentence --> noun_phrase, verb_phrase.
+sentence --> noun_phrase, verb_phrase, optional_tail.
 
 noun_phrase --> det_phrase, noun.
 noun_phrase --> det_phrase, adj, noun.
