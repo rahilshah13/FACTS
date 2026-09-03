@@ -1,10 +1,3 @@
-:- module(english, [
-    sentence_len/2, entry_only/1, fill_template/1, 
-    avg_word_length/2, words_per_closure/2, sentence_eval/3, 
-    lexical_density/2, semantic_coherence/2, syntactic_entropy/2, readability_score/2,
-    bpe_len/2, ipa_len_val/2, sentence_types/2
-]).
-
 :- dynamic(entry/4).
 :- use_module(library(dcgs)).
 :- use_module(library(lists)).
