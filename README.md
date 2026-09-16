@@ -1,1 +1,1 @@
-- https://rahilshah13/INFO frontend dialect tool
+- https://github.com/rahilshah13/INFO frontend dialect tool
