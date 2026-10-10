@@ -1,0 +1,8 @@
+/*
+!/languages/*
+!.gitgignore
+!Dockerfile
+!index.jsx
+!logic.pl
+!server.py
+!words.pl
