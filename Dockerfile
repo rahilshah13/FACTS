@@ -1,7 +1,7 @@
 # Stage 1: Build & Cache Ollama Model Layer
 FROM python:3.11-slim AS model-cache
 
-RUN apt-get update && apt-get install -y curl zstd && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y curl zstd procps && rm -rf /var/lib/apt/lists/*
 RUN curl -fsSL https://ollama.com/install.sh | sh
 
 RUN ollama serve & \
@@ -14,7 +14,7 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-RUN apt-get update && apt-get install -y curl zstd && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y curl zstd procps && rm -rf /var/lib/apt/lists/*
 RUN pip install --no-cache-dir fastapi uvicorn httpx pydantic
 
 COPY --from=model-cache /usr/local/bin/ollama /usr/local/bin/ollama
